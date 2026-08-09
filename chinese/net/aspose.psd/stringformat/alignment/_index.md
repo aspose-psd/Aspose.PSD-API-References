@@ -1,11 +1,12 @@
 ---
-title: StringFormat.Alignment
-second_title: Aspose.PSD for .NET API 参考
-description: StringFormat 财产. 获取或设置垂直平面上的文本对齐信息
+title: "StringFormat.Alignment"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "StringFormat 属性。获取或设置垂直平面上的文本对齐信息"
 type: docs
 weight: 40
 url: /zh/net/aspose.psd/stringformat/alignment/
 ---
+{{< psd/tize >}}
 ## StringFormat.Alignment property
 
 获取或设置垂直平面上的文本对齐信息。
@@ -14,15 +15,15 @@ url: /zh/net/aspose.psd/stringformat/alignment/
 public StringAlignment Alignment { get; set; }
 ```
 
-### 适当的价值
+### Property Value
 
-A[`StringAlignment`](../../stringalignment/)指定文本对齐信息的枚举。
+一个 [`StringAlignment`](../../stringalignment/) 枚举，指定文本对齐信息。
 
-### 也可以看看
+### 另请参阅
 
 * enum [StringAlignment](../../stringalignment/)
 * class [StringFormat](../)
-* 命名空间 [Aspose.PSD](../../stringformat/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

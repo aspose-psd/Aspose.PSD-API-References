@@ -1,24 +1,25 @@
 ---
-title: FilterEffectMaskData.UserMask
-second_title: Aspose.PSD for .NET API 参考
-description: FilterEffectMaskData 财产. 获取用户掩码
+title: "FilterEffectMaskData.UserMask"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "FilterEffectMaskData 属性。获取用户掩码"
 type: docs
 weight: 100
 url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources/filtereffectmaskdata/usermask/
 ---
+{{< psd/tize >}}
 ## FilterEffectMaskData.UserMask property
 
-获取用户掩码。
+获取用户遮罩。
 
 ```csharp
 public ChannelInformation UserMask { get; }
 ```
 
-### 也可以看看
+### 另请参阅
 
 * class [ChannelInformation](../../../aspose.psd.fileformats.psd.layers/channelinformation/)
 * class [FilterEffectMaskData](../)
-* 命名空间 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../filtereffectmaskdata/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

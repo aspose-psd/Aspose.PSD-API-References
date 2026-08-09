@@ -1,16 +1,17 @@
 ---
-title: Aspose.PSD.Xmp.Schemas.XmpBaseSchema
-second_title: Aspose.PSD for .NET API 参考
-description: 命名空间包含XMP Basic Schema相关的辅助类常量和提供基本描述信息的方法
+title: "Aspose.PSD.Xmp.Schemas.XmpBaseSchema"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "该命名空间包含与 XMP Basic Schema 相关的帮助类、常量和方法，提供基本描述信息。"
 type: docs
-weight: 560
+weight: 600
 url: /zh/net/aspose.psd.xmp.schemas.xmpbaseschema/
 ---
-命名空间包含XMP Basic Schema相关的辅助类、常量和提供基本描述信息的方法。
+{{< psd/tize >}}
+该命名空间包含提供基本描述信息的 XMP 基本模式相关帮助类、常量和方法。
 
-## 课程
+## 类
 
-| 班级 | 描述 |
+| 类 | 描述 |
 | --- | --- |
 | [XmpBasicPackage](./xmpbasicpackage/) | 表示 XMP 基本命名空间。 |
 

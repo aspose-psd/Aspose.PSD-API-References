@@ -1,27 +1,28 @@
 ---
-title: JpegExifData.YCbCrSubSampling
-second_title: Aspose.PSD for .NET API 参考
-description: JpegExifData 财产. 获取或设置色度分量相对于亮度分量的采样率
+title: "JpegExifData.YCbCrSubSampling"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "JpegExifData 属性。获取或设置色度分量相对于亮度分量的采样比例"
 type: docs
 weight: 250
 url: /zh/net/aspose.psd.exif/jpegexifdata/ycbcrsubsampling/
 ---
+{{< psd/tize >}}
 ## JpegExifData.YCbCrSubSampling property
 
-获取或设置色度分量相对于亮度分量的采样率。
+获取或设置色度分量相对于亮度分量的采样比率。
 
 ```csharp
 public ushort[] YCbCrSubSampling { get; set; }
 ```
 
-### 适当的价值
+### Property Value
 
-色度分量相对于亮度分量的采样率。
+色度分量相对于亮度分量的采样比率。
 
-### 也可以看看
+### 另请参阅
 
 * class [JpegExifData](../)
-* 命名空间 [Aspose.PSD.Exif](../../jpegexifdata/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

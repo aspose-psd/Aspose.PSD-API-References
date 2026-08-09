@@ -1,27 +1,28 @@
 ---
-title: GlobalLayerMaskInfo.RedMask
-second_title: Aspose.PSD for .NET API 参考
-description: GlobalLayerMaskInfo 财产. 获取或设置红色掩码
+title: "GlobalLayerMaskInfo.RedMask"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "GlobalLayerMaskInfo 属性。获取或设置红色掩码"
 type: docs
 weight: 90
 url: /zh/net/aspose.psd.fileformats.psd.layers/globallayermaskinfo/redmask/
 ---
+{{< psd/tize >}}
 ## GlobalLayerMaskInfo.RedMask property
 
-获取或设置红色掩码。
+获取或设置红色蒙版。
 
 ```csharp
 public short RedMask { get; set; }
 ```
 
-### 适当的价值
+### Property Value
 
-红色面具.
+红色掩码。
 
-### 也可以看看
+### 另请参阅
 
 * class [GlobalLayerMaskInfo](../)
-* 命名空间 [Aspose.PSD.FileFormats.Psd.Layers](../../globallayermaskinfo/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

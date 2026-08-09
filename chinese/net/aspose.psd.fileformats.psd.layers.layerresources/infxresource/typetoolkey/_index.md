@@ -1,11 +1,12 @@
 ---
-title: InfxResource.TypeToolKey
-second_title: Aspose.PSD for .NET API 参考
-description: InfxResource 场地. 类型工具信息键
+title: "InfxResource.TypeToolKey"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "InfxResource 字段。类型工具信息键"
 type: docs
-weight: 40
+weight: 30
 url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources/infxresource/typetoolkey/
 ---
+{{< psd/tize >}}
 ## InfxResource.TypeToolKey field
 
 类型工具信息键。
@@ -14,10 +15,10 @@ url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources/infxresource/typet
 public const int TypeToolKey;
 ```
 
-### 也可以看看
+### 另请参阅
 
 * class [InfxResource](../)
-* 命名空间 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../infxresource/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

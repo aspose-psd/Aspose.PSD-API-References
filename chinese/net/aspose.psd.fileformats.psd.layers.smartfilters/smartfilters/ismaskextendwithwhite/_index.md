@@ -1,23 +1,24 @@
 ---
-title: SmartFilters.IsMaskExtendWithWhite
-second_title: Aspose.PSD for .NET API 参考
-description: SmartFilters 财产. 获取智能滤镜的白色状态掩码
+title: "SmartFilters.IsMaskExtendWithWhite"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "SmartFilters 属性。获取智能过滤器的掩码白色扩展状态"
 type: docs
 weight: 40
 url: /zh/net/aspose.psd.fileformats.psd.layers.smartfilters/smartfilters/ismaskextendwithwhite/
 ---
+{{< psd/tize >}}
 ## SmartFilters.IsMaskExtendWithWhite property
 
-获取智能滤镜的白色状态掩码。
+获取智能滤镜的遮罩白色扩展状态。
 
 ```csharp
 public bool IsMaskExtendWithWhite { get; }
 ```
 
-### 也可以看看
+### 另请参阅
 
 * class [SmartFilters](../)
-* 命名空间 [Aspose.PSD.FileFormats.Psd.Layers.SmartFilters](../../smartfilters/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.SmartFilters](../../../aspose.psd.fileformats.psd.layers.smartfilters/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: Class XmpBoolean
-second_title: Aspose.PSD for .NET API 参考
-description: Aspose.PSD.Xmp.Types.Basic.XmpBoolean 班级. 代表XMP Boolean基本类型
+title: "类 XmpBoolean"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "Aspose.PSD.Xmp.Types.Basic.XmpBoolean 类。表示 XMP 布尔基本类型"
 type: docs
-weight: 5940
+weight: 6440
 url: /zh/net/aspose.psd.xmp.types.basic/xmpboolean/
 ---
+{{< psd/tize >}}
 ## XmpBoolean class
 
-代表XMP Boolean基本类型。
+表示 XMP 布尔基本类型。
 
 ```csharp
 public sealed class XmpBoolean : XmpTypeBase
@@ -16,28 +17,28 @@ public sealed class XmpBoolean : XmpTypeBase
 
 ## 构造函数
 
-| 姓名 | 描述 |
+| 名称 | 描述 |
 | --- | --- |
-| [XmpBoolean](xmpboolean/#constructor)() | 初始化一个新的实例`XmpBoolean`具有默认值的类. |
-| [XmpBoolean](xmpboolean/#constructor_1)(bool) | 初始化一个新的实例`XmpBoolean`基于布尔值的类. |
-| [XmpBoolean](xmpboolean/#constructor_2)(string) | 初始化一个新的实例`XmpBoolean`类. |
+| [XmpBoolean](xmpboolean/#constructor)() | 使用默认值初始化 `XmpBoolean` 类的新实例。 |
+| [XmpBoolean](xmpboolean/#constructor_1)(bool) | 基于布尔值初始化 `XmpBoolean` 类的新实例。 |
+| [XmpBoolean](xmpboolean/#constructor_2)(string) | 初始化 `XmpBoolean` 类的新实例。 |
 
-## 特性
+## 属性
 
-| 姓名 | 描述 |
+| 名称 | 描述 |
 | --- | --- |
-| [Value](../../aspose.psd.xmp.types.basic/xmpboolean/value/) { get; set; } | 获取或设置一个值，指示是否这`XmpBoolean`是价值. |
+| [Value](../../aspose.psd.xmp.types.basic/xmpboolean/value/) { get; set; } | 获取或设置一个值，指示此 `XmpBoolean` 是否有值。 |
 
 ## 方法
 
-| 姓名 | 描述 |
+| 名称 | 描述 |
 | --- | --- |
-| override [GetXmpRepresentation](../../aspose.psd.xmp.types.basic/xmpboolean/getxmprepresentation/)() | 以 XMP 格式返回包含字符串的值。 |
+| override [GetXmpRepresentation](../../aspose.psd.xmp.types.basic/xmpboolean/getxmprepresentation/)() | 返回 XMP 格式中包含的字符串值。 |
 
-### 也可以看看
+### 另请参阅
 
 * class [XmpTypeBase](../../aspose.psd.xmp.types/xmptypebase/)
-* 命名空间 [Aspose.PSD.Xmp.Types.Basic](../../aspose.psd.xmp.types.basic/)
-* 部件 [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Xmp.Types.Basic](../../aspose.psd.xmp.types.basic/)
+* assembly [Aspose.PSD](../../)
 
 

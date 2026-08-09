@@ -1,11 +1,12 @@
 ---
-title: Class VectorShapeRadiiRectangle
-second_title: Aspose.PSD for .NET API 参考
-description: Aspose.PSD.FileFormats.Core.VectorPaths.VectorShapeRadiiRectangle 班级. 定义矢量形状半径矩形类
+title: "类 VectorShapeRadiiRectangle"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "Aspose.PSD.FileFormats.Core.VectorPaths.VectorShapeRadiiRectangle 类。定义向量形状半径矩形类"
 type: docs
-weight: 1450
+weight: 1460
 url: /zh/net/aspose.psd.fileformats.core.vectorpaths/vectorshaperadiirectangle/
 ---
+{{< psd/tize >}}
 ## VectorShapeRadiiRectangle class
 
 定义矢量形状半径矩形类
@@ -16,28 +17,28 @@ public sealed class VectorShapeRadiiRectangle
 
 ## 构造函数
 
-| 姓名 | 描述 |
+| 名称 | 描述 |
 | --- | --- |
 | [VectorShapeRadiiRectangle](vectorshaperadiirectangle/)() | 默认构造函数。 |
 
-## 特性
+## 属性
 
-| 姓名 | 描述 |
+| 名称 | 描述 |
 | --- | --- |
 | [BottomLeft](../../aspose.psd.fileformats.core.vectorpaths/vectorshaperadiirectangle/bottomleft/) { get; set; } | 获取或设置底部。 |
 | [BottomRight](../../aspose.psd.fileformats.core.vectorpaths/vectorshaperadiirectangle/bottomright/) { get; set; } | 获取或设置右下角。 |
-| [QuadVersion](../../aspose.psd.fileformats.core.vectorpaths/vectorshaperadiirectangle/quadversion/) { get; set; } | 获取或设置单位值 quad version. |
+| [QuadVersion](../../aspose.psd.fileformats.core.vectorpaths/vectorshaperadiirectangle/quadversion/) { get; set; } | 获取或设置单位值四元版本。 |
 | [TopLeft](../../aspose.psd.fileformats.core.vectorpaths/vectorshaperadiirectangle/topleft/) { get; set; } | 获取或设置左上角。 |
 | [TopRight](../../aspose.psd.fileformats.core.vectorpaths/vectorshaperadiirectangle/topright/) { get; set; } | 获取或设置右上角。 |
 
-### 例子
+## 示例
 
-此示例演示加载和保存具有形状图层和矢量路径的 PSD 图像是否正常工作。
+此示例演示了加载和保存带有形状图层及矢量路径的 PSD 图像能够正确工作。
 
 ```csharp
 [C#]
 
-// 此示例演示加载和保存具有形状图层和矢量路径的 PSD 图像是否正常工作。
+// 此示例演示了加载和保存带有形状图层及矢量路径的 PSD 图像能够正确工作。
 string sourcePath = "vectorShapes.psd";
 string outputFilePath = "output_vectorShapes.psd";
 using (PsdImage image = (PsdImage)Image.Load(sourcePath))
@@ -162,9 +163,9 @@ void AssertAreEqual(object expected, object actual, string message = null)
 }
 ```
 
-### 也可以看看
+### 另请参阅
 
-* 命名空间 [Aspose.PSD.FileFormats.Core.VectorPaths](../../aspose.psd.fileformats.core.vectorpaths/)
-* 部件 [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../)
 
 

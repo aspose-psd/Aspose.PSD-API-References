@@ -1,31 +1,32 @@
 ---
-title: Enum ExifFileSource
-second_title: Aspose.PSD for .NET API 参考
-description: Aspose.PSD.Exif.Enums.ExifFileSource 枚举. exif 文件源枚举.
+title: "枚举 ExifFileSource"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "Aspose.PSD.Exif.Enums.ExifFileSource 枚举。exif 文件来源 枚举"
 type: docs
-weight: 850
+weight: 860
 url: /zh/net/aspose.psd.exif.enums/exiffilesource/
 ---
+{{< psd/tize >}}
 ## ExifFileSource enumeration
 
-exif 文件源枚举.
+exif 文件来源枚举。
 
 ```csharp
 public enum ExifFileSource : byte
 ```
 
-### 价值观
+### 值
 
-| 姓名 | 价值 | 描述 |
+| 名称 | 值 | 描述 |
 | --- | --- | --- |
-| Others | `0` | 其他人。 |
-| FilmScanner | `1` | 胶片扫描仪. |
-| ReflexionPrintScanner | `2` | Reflexion 打印扫描仪。 |
-| DigitalStillCamera | `3` | 数码相机. |
+| Others | `0` | 其他。 |
+| FilmScanner | `1` | 胶片扫描仪。 |
+| ReflexionPrintScanner | `2` | 反射打印扫描仪。 |
+| DigitalStillCamera | `3` | 数码静态相机。 |
 
-### 也可以看看
+### 另请参阅
 
-* 命名空间 [Aspose.PSD.Exif.Enums](../../aspose.psd.exif.enums/)
-* 部件 [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Exif.Enums](../../aspose.psd.exif.enums/)
+* assembly [Aspose.PSD](../../)
 
 

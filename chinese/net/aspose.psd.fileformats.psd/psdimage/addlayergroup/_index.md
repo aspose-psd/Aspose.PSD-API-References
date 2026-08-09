@@ -1,40 +1,41 @@
 ---
-title: PsdImage.AddLayerGroup
-second_title: Aspose.PSD for .NET API 参考
-description: PsdImage 方法. 添加层组
+title: "PsdImage.AddLayerGroup"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "PsdImage 方法。 添加图层组"
 type: docs
-weight: 380
+weight: 400
 url: /zh/net/aspose.psd.fileformats.psd/psdimage/addlayergroup/
 ---
+{{< psd/tize >}}
 ## PsdImage.AddLayerGroup method
 
-添加层组。
+添加图层组。
 
 ```csharp
 public LayerGroup AddLayerGroup(string groupName, int index, bool startBehaviour)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
 | groupName | String | 组的名称。 |
-| index | Int32 | 要在其后插入的层的索引。 |
-| startBehaviour | Boolean | 如果设置为`真的` [启动行为] 组将在启动时处于打开状态，否则处于最小化状态。 |
+| index | Int32 | 要在其后插入的图层的索引。 |
+| startBehaviour | 布尔 | 如果设置为 `true` [start behaviour]，则组在启动时将处于打开状态，否则为最小化状态。 |
 
 ### 返回值
 
-开组layer
+打开组图层
 
-### 例外
+### 异常
 
-| 例外 | （健康）状况 |
+| 异常 | 条件 |
 | --- | --- |
-| [PsdImageException](../../../aspose.psd.coreexceptions.imageformats/psdimageexception/) | 索引必须在层数范围内 |
+| [PsdImageException](../../../aspose.psd.coreexceptions.imageformats/psdimageexception/) | 索引必须在图层计数的范围内 |
 
-### 也可以看看
+### 另请参阅
 
 * class [LayerGroup](../../../aspose.psd.fileformats.psd.layers/layergroup/)
 * class [PsdImage](../)
-* 命名空间 [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

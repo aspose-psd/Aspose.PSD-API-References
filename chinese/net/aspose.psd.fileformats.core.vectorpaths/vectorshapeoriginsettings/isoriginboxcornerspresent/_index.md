@@ -1,26 +1,27 @@
 ---
-title: VectorShapeOriginSettings.IsOriginBoxCornersPresent
-second_title: Aspose.PSD for .NET API 参考
-description: VectorShapeOriginSettings 财产. 获取一个值指示此实例是否具有原点框角属性
+title: "VectorShapeOriginSettings.IsOriginBoxCornersPresent"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "VectorShapeOriginSettings 属性。获取一个值，指示此实例是否具有原始框角属性"
 type: docs
 weight: 20
 url: /zh/net/aspose.psd.fileformats.core.vectorpaths/vectorshapeoriginsettings/isoriginboxcornerspresent/
 ---
+{{< psd/tize >}}
 ## VectorShapeOriginSettings.IsOriginBoxCornersPresent property
 
-获取一个值，指示此实例是否具有原点框角属性。
+获取一个值，指示此实例是否具有原点盒子角属性。
 
 ```csharp
 public bool IsOriginBoxCornersPresent { get; }
 ```
 
-### 适当的价值
+### Property Value
 
-`真的`如果此实例具有原点框角属性；否则，`错误的` .
+`true` 如果此实例具有原始框角属性；否则为 `false`。
 
-### 例子
+## 示例
 
-以下代码演示了调整包含矢量路径的形状图层大小的能力。
+以下代码演示了调整包含向量路径的形状图层大小的能力。
 
 ```csharp
 [C#]
@@ -42,10 +43,10 @@ using (var psdImage = (PsdImage)Image.Load(sourcePath))
 }
 ```
 
-### 也可以看看
+### 另请参阅
 
 * class [VectorShapeOriginSettings](../)
-* 命名空间 [Aspose.PSD.FileFormats.Core.VectorPaths](../../vectorshapeoriginsettings/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../../)
 
 

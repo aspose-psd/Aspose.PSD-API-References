@@ -1,27 +1,28 @@
 ---
-title: Layer.IsVisibleInGroup
-second_title: Aspose.PSD for .NET API 参考
-description: Layer 财产. 获取一个值指示此实例是否在组中可见如果图层不在组中则表示根组
+title: "Layer.IsVisibleInGroup"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "Layer 属性。获取一个值，指示此实例在组中是否可见。如果层不在组中，则表示根组。"
 type: docs
-weight: 180
+weight: 190
 url: /zh/net/aspose.psd.fileformats.psd.layers/layer/isvisibleingroup/
 ---
+{{< psd/tize >}}
 ## Layer.IsVisibleInGroup property
 
-获取一个值，指示此实例是否在组中可见（如果图层不在组中，则表示根组）。
+获取一个值，指示此实例在组中是否可见（如果图层不在组中，则表示根组）。
 
 ```csharp
 public virtual bool IsVisibleInGroup { get; }
 ```
 
-### 适当的价值
+### Property Value
 
-`真的`如果此实例在组中可见；否则，`错误的` .
+`true` 表示此实例在组中可见；否则为 `false`。
 
-### 也可以看看
+### 另请参阅
 
 * class [Layer](../)
-* 命名空间 [Aspose.PSD.FileFormats.Psd.Layers](../../layer/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

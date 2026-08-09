@@ -1,11 +1,12 @@
 ---
-title: FileStreamContainer.CreateFileStream
-second_title: Aspose.PSD for .NET API 参考
-description: FileStreamContainer 方法. 创建一个新的文件流
+title: "FileStreamContainer.CreateFileStream"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "FileStreamContainer 方法。创建一个新的文件流"
 type: docs
 weight: 10
 url: /zh/net/aspose.psd/filestreamcontainer/createfilestream/
 ---
+{{< psd/tize >}}
 ## FileStreamContainer.CreateFileStream method
 
 创建一个新的文件流。
@@ -14,19 +15,19 @@ url: /zh/net/aspose.psd/filestreamcontainer/createfilestream/
 public static FileStreamContainer CreateFileStream(string fileLocation, bool isTemporal)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
 | fileLocation | String | 文件位置。 |
-| isTemporal | Boolean | 如果设置为`真的`文件流容器是临时的。 |
+| isTemporal | 布尔 | 如果设置为 `true`，文件流容器为临时的。 |
 
 ### 返回值
 
 文件流容器。
 
-### 也可以看看
+### 另请参阅
 
 * class [FileStreamContainer](../)
-* 命名空间 [Aspose.PSD](../../filestreamcontainer/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

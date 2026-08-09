@@ -1,67 +1,68 @@
 ---
-title: Interface ITextStyle
-second_title: Aspose.PSD for .NET API 参考
-description: Aspose.PSD.FileFormats.Psd.Layers.Text.ITextStyle 界面. 使用文本 Style 的界面
+title: "接口 ITextStyle"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "Aspose.PSD.FileFormats.Psd.Layers.Text.ITextStyle 接口。用于处理文本样式的接口"
 type: docs
-weight: 3540
+weight: 3960
 url: /zh/net/aspose.psd.fileformats.psd.layers.text/itextstyle/
 ---
+{{< psd/tize >}}
 ## ITextStyle interface
 
-使用文本 Style 的界面
+用于处理文本样式的接口
 
 ```csharp
 public interface ITextStyle
 ```
 
-## 特性
+## 属性
 
-| 姓名 | 描述 |
+| 名称 | 描述 |
 | --- | --- |
-| [AutoKerning](../../aspose.psd.fileformats.psd.layers.text/itextstyle/autokerning/) { get; set; } | 获取或设置自动字距调整。 |
-| [AutoLeading](../../aspose.psd.fileformats.psd.layers.text/itextstyle/autoleading/) { get; set; } | 获取或设置一个值，指示是否[自动前导]. |
+| [AutoKerning](../../aspose.psd.fileformats.psd.layers.text/itextstyle/autokerning/) { get; set; } | 获取或设置自动字距。 |
+| [AutoLeading](../../aspose.psd.fileformats.psd.layers.text/itextstyle/autoleading/) { get; set; } | 获取或设置一个值，指示是否启用[自动行距]。 |
 | [BaselineShift](../../aspose.psd.fileformats.psd.layers.text/itextstyle/baselineshift/) { get; set; } | 基线偏移。 |
-| [ContextualAlternates](../../aspose.psd.fileformats.psd.layers.text/itextstyle/contextualalternates/) { get; set; } | 用于将字母连接在一起的上下文替代项。 |
-| [DiscretionaryLigatures](../../aspose.psd.fileformats.psd.layers.text/itextstyle/discretionaryligatures/) { get; set; } | 用于连接字母的自由连字，尤其是在脚本字体中。 |
-| [FauxBold](../../aspose.psd.fileformats.psd.layers.text/itextstyle/fauxbold/) { get; set; } | 获取或设置仿粗体是否启用。 |
-| [FauxItalic](../../aspose.psd.fileformats.psd.layers.text/itextstyle/fauxitalic/) { get; set; } | 获取或设置仿粗体是否启用。 |
+| [ContextualAlternates](../../aspose.psd.fileformats.psd.layers.text/itextstyle/contextualalternates/) { get; set; } | 用于连接字母的上下文替代字符。 |
+| [DiscretionaryLigatures](../../aspose.psd.fileformats.psd.layers.text/itextstyle/discretionaryligatures/) { get; set; } | 用于连接字母的可选连字，尤其在手写体字体中。 |
+| [FauxBold](../../aspose.psd.fileformats.psd.layers.text/itextstyle/fauxbold/) { get; set; } | 获取或设置是否启用伪粗体。 |
+| [FauxItalic](../../aspose.psd.fileformats.psd.layers.text/itextstyle/fauxitalic/) { get; set; } | 获取或设置是否启用伪粗体。 |
 | [FillColor](../../aspose.psd.fileformats.psd.layers.text/itextstyle/fillcolor/) { get; set; } | 获取或设置填充颜色。 |
 | [FontBaseline](../../aspose.psd.fileformats.psd.layers.text/itextstyle/fontbaseline/) { get; set; } | 字体基线。 |
 | [FontCaps](../../aspose.psd.fileformats.psd.layers.text/itextstyle/fontcaps/) { get; set; } | 字体大写。 |
 | [FontIndex](../../aspose.psd.fileformats.psd.layers.text/itextstyle/fontindex/) { get; } | 获取字体索引。 |
 | [FontName](../../aspose.psd.fileformats.psd.layers.text/itextstyle/fontname/) { get; set; } | 获取或设置字体名称。 |
 | [FontSize](../../aspose.psd.fileformats.psd.layers.text/itextstyle/fontsize/) { get; set; } | 获取或设置字体的大小。 |
-| [Fractions](../../aspose.psd.fileformats.psd.layers.text/itextstyle/fractions/) { get; set; } | 分数符号可以用特殊字形替换。 |
-| [HindiNumbers](../../aspose.psd.fileformats.psd.layers.text/itextstyle/hindinumbers/) { get; set; } | 获取或设置一个值，该值指示 [hindi numbers]. |
-| [HorizontalScale](../../aspose.psd.fileformats.psd.layers.text/itextstyle/horizontalscale/) { get; set; } | 水平刻度. |
-| [IsStandardVerticalRomanAlignmentEnabled](../../aspose.psd.fileformats.psd.layers.text/itextstyle/isstandardverticalromanalignmentenabled/) { get; set; } | 获取或设置标准垂直罗马对齐方式。 这基于 BaselineDirection 资源值仅适用于文本方向为Vertical . |
+| [Fractions](../../aspose.psd.fileformats.psd.layers.text/itextstyle/fractions/) { get; set; } | 分数字符可以替换为特殊字形。 |
+| [HindiNumbers](../../aspose.psd.fileformats.psd.layers.text/itextstyle/hindinumbers/) { get; set; } | 获取或设置指示是否使用[hindi numbers]的值。 |
+| [HorizontalScale](../../aspose.psd.fileformats.psd.layers.text/itextstyle/horizontalscale/) { get; set; } | 水平比例。 |
+| [IsStandardVerticalRomanAlignmentEnabled](../../aspose.psd.fileformats.psd.layers.text/itextstyle/isstandardverticalromanalignmentenabled/) { get; set; } | 获取或设置标准垂直罗马对齐方式。此基于 BaselineDirection 资源值的设置仅在文本方向为垂直时适用。 |
 | [Kerning](../../aspose.psd.fileformats.psd.layers.text/itextstyle/kerning/) { get; set; } | 获取或设置字距。 |
 | [LanguageIndex](../../aspose.psd.fileformats.psd.layers.text/itextstyle/languageindex/) { get; } | 获取语言索引。 |
 | [Leading](../../aspose.psd.fileformats.psd.layers.text/itextstyle/leading/) { get; set; } | 获取或设置行距。 |
-| [NoBreak](../../aspose.psd.fileformats.psd.layers.text/itextstyle/nobreak/) { get; set; } | 获取 ot 设置无中断值。 |
-| [StandardLigatures](../../aspose.psd.fileformats.psd.layers.text/itextstyle/standardligatures/) { get; set; } | 用于将字母连接在一起的标准上下文连字。 |
-| [Strikethrough](../../aspose.psd.fileformats.psd.layers.text/itextstyle/strikethrough/) { get; set; } | 获取或设置一个值，该值指示是否 [删除线]. |
-| [StrokeColor](../../aspose.psd.fileformats.psd.layers.text/itextstyle/strokecolor/) { get; set; } | 获取或设置笔划的颜色。 |
-| [Tracking](../../aspose.psd.fileformats.psd.layers.text/itextstyle/tracking/) { get; set; } | 获取或设置跟踪。 |
-| [Underline](../../aspose.psd.fileformats.psd.layers.text/itextstyle/underline/) { get; set; } | 获取或设置一个值，指示是否 [underline]. |
-| [VerticalScale](../../aspose.psd.fileformats.psd.layers.text/itextstyle/verticalscale/) { get; set; } | 垂直刻度. |
+| [NoBreak](../../aspose.psd.fileformats.psd.layers.text/itextstyle/nobreak/) { get; set; } | 获取或设置不换行值。 |
+| [StandardLigatures](../../aspose.psd.fileformats.psd.layers.text/itextstyle/standardligatures/) { get; set; } | 标准上下文连字用于将字母连接在一起。 |
+| [Strikethrough](../../aspose.psd.fileformats.psd.layers.text/itextstyle/strikethrough/) { get; set; } | 获取或设置指示是否使用[strikethrough]的值。 |
+| [StrokeColor](../../aspose.psd.fileformats.psd.layers.text/itextstyle/strokecolor/) { get; set; } | 获取或设置笔画颜色。 |
+| [Tracking](../../aspose.psd.fileformats.psd.layers.text/itextstyle/tracking/) { get; set; } | 获取或设置字符间距。 |
+| [Underline](../../aspose.psd.fileformats.psd.layers.text/itextstyle/underline/) { get; set; } | 获取或设置指示是否使用[underline]的值。 |
+| [VerticalScale](../../aspose.psd.fileformats.psd.layers.text/itextstyle/verticalscale/) { get; set; } | 垂直比例。 |
 
 ## 方法
 
-| 姓名 | 描述 |
+| 名称 | 描述 |
 | --- | --- |
 | [Apply](../../aspose.psd.fileformats.psd.layers.text/itextstyle/apply/)(ITextStyle) | 应用指定的样式。 |
-| [IsEqual](../../aspose.psd.fileformats.psd.layers.text/itextstyle/isequal/)(ITextStyle) | 判断指定样式是否相等。 |
+| [IsEqual](../../aspose.psd.fileformats.psd.layers.text/itextstyle/isequal/)(ITextStyle) | 确定指定的样式是否相等。 |
 
-### 例子
+## 示例
 
-下面的示例演示了如何在 Aspose.PSD 中的一个文本层中呈现不同的样式
+以下示例演示了如何在 Aspose.PSD 中的一个文本层中渲染不同的样式。
 
 ```csharp
 [C#]
 
 string sourceFile = "text212.psd";
-string etalonFile = "Ethalon_text212.psd";
+string etalonFile = "Output_text212.psd";
 string outputFile = "Output_text212.psd";
 
 using (var img = (PsdImage)Image.Load(sourceFile))
@@ -84,12 +85,12 @@ using (var img = (PsdImage)Image.Load(sourceFile))
         defaultStyle,
         defaultParagraph);
 
-    newPortions[0].Style.Underline = true; // 编辑文本样式 "E=mc"
-    newPortions[1].Style.FontBaseline = FontBaseline.Superscript; // 编辑文本样式 "2\r"
-    newPortions[2].Style.FauxBold = true; // 编辑文本样式“粗体”
-    newPortions[3].Style.FauxItalic = true; // 编辑文本样式 "Italic\r"
-    newPortions[3].Style.BaselineShift = -25; // 编辑文本样式 "Italic\r"
-    newPortions[4].Style.FontCaps = FontCaps.SmallCaps; // 编辑文本样式“小写文本”
+    newPortions[0].Style.Underline = true; // edit text style "E=mc"
+    newPortions[1].Style.FontBaseline = FontBaseline.Superscript; // edit text style "2\r"
+    newPortions[2].Style.FauxBold = true; // edit text style "Bold"
+    newPortions[3].Style.FauxItalic = true; // edit text style "Italic\r"
+    newPortions[3].Style.BaselineShift = -25; // edit text style "Italic\r"
+    newPortions[4].Style.FontCaps = FontCaps.SmallCaps; // edit text style "Lowercasetext"
 
     foreach (var newPortion in newPortions)
     {
@@ -101,12 +102,12 @@ using (var img = (PsdImage)Image.Load(sourceFile))
 }
 ```
 
-以下代码演示了如何获取文本层中任何文本部分的字体大小。
+以下代码演示了如何获取文本图层中任意文本部分的字体大小。
 
 ```csharp
 [C#]
 
-// 提取错误的字体大小 
+// 提取的字体大小错误 
 string filePath = "直播+电商.psd";
 
 var tolerance = 0.001;
@@ -120,30 +121,30 @@ using (var image = Image.Load(filePath))
     double baseFontSize = ((TextLayer)psdImage.Layers[layerIndex]).Font.Size;
     double fontSize = matrix[0] * baseFontSize;
 
-    // 检查基本字体大小
+    // 检查基础字体大小
     if (Math.Abs(100.0 - baseFontSize) > tolerance)
     {
         throw new Exception("Font size was read incorrect");
     }
 
-    // 检查真实字体大小
+    // 检查实际字体大小
     if (Math.Abs(88.425 - fontSize) > tolerance)
     {
         throw new Exception("TransformMatrix was read incorrect");
     }
 
-    // 新 API（一个文本层可以包含任意数量的字体大小）
+    // 新 API（一个文本图层可能包含任意数量的字体大小）
     ITextPortion[] portions = ((TextLayer)psdImage.Layers[layerIndex]).TextData.Items;
     ITextStyle style = portions[0].Style;
     double fontSizeOfPortion = matrix[0] * style.FontSize;
 
-    // 检查基本部分字体大小
+    // 检查基础部分的字体大小
     if (Math.Abs(100.0 - style.FontSize) > tolerance)
     {
         throw new Exception("Font size was read incorrect");
     }
 
-    // 检查实部字体大小
+    // 检查实际部分的字体大小
     if (Math.Abs(88.425 - fontSizeOfPortion) > tolerance)
     {
         throw new Exception("TransformMatrix was read incorrect");
@@ -151,7 +152,7 @@ using (var image = Image.Load(filePath))
 }
 ```
 
-以下代码示例演示了编辑文本部分及其文本样式。
+以下代码示例演示了文本片段及其文本样式的编辑。
 
 ```csharp
 [C#]
@@ -174,7 +175,7 @@ using (var im = (PsdImage)Image.Load(filePath))
                 throw new Exception();
             }
 
-            // 检查每一部分的文本
+            // 检查每个片段的文本
             if (portions[0].Text != "Old " ||
                 portions[1].Text != "color" ||
                 portions[2].Text != " text\r" ||
@@ -184,7 +185,7 @@ using (var im = (PsdImage)Image.Load(filePath))
             }
 
             // 检查段落数据
-            // 段落有不同的理由
+            // 段落的对齐方式不同
             if (
                 (int)portions[0].Paragraph.Justification != 0 ||
                 (int)portions[1].Paragraph.Justification != 0 ||
@@ -194,7 +195,7 @@ using (var im = (PsdImage)Image.Load(filePath))
                 throw new Exception();
             }
 
-            // 第一段和第二段的所有其他属性都相等
+            // 第一段和第二段的所有其他属性相等
             for (int j = 0; j < portions.Length; j++)
             {
                 var paragraph = portions[j].Paragraph;
@@ -218,7 +219,7 @@ using (var im = (PsdImage)Image.Load(filePath))
                     Math.Abs(paragraph.LetterSpacing[0]) > Tolerance ||
                     Math.Abs(paragraph.LetterSpacing[1]) > Tolerance ||
                     Math.Abs(paragraph.LetterSpacing[2]) > Tolerance ||
-                    paragraph.LeadingType != LeadingMode.Auto ||
+                    paragraph.LeadingType != LeadingType.BottomToBottom ||
                     paragraph.PreHyphen != 2 ||
                     paragraph.PostHyphen != 2 ||
                     Math.Abs(paragraph.SpaceBefore) > Tolerance ||
@@ -234,7 +235,7 @@ using (var im = (PsdImage)Image.Load(filePath))
             }
 
             // 检查样式数据
-            // 样式有不同的颜色和字体大小
+            // 样式的颜色和字体大小不同
             if (Math.Abs(portions[0].Style.FontSize - 12) > Tolerance ||
                 Math.Abs(portions[1].Style.FontSize - 12) > Tolerance ||
                 Math.Abs(portions[2].Style.FontSize - 12) > Tolerance ||
@@ -270,29 +271,29 @@ using (var im = (PsdImage)Image.Load(filePath))
             portions[0].Text = "Hello ";
             portions[1].Text = "World";
 
-            // 文本部分删除示例
+            // 文本片段删除示例
             layer.TextData.RemovePortion(3);
             layer.TextData.RemovePortion(2);
 
-            // 添加新文本部分的示例
+            // 添加新文本片段的示例
             var createdPortion = layer.TextData.ProducePortion();
             createdPortion.Text = "!!!\r";
             layer.TextData.AddPortion(createdPortion);
 
             portions = layer.TextData.Items;
 
-            // 部分段落和样式编辑示例
+            // 段落和样式编辑（针对片段）的示例
             // 设置右对齐
             portions[0].Paragraph.Justification = JustificationMode.Right;
             portions[1].Paragraph.Justification = JustificationMode.Right;
             portions[2].Paragraph.Justification = JustificationMode.Right;
 
-            // 每种样式的不同颜色。将更改，但不完全支持渲染
+            // 每种样式的颜色不同。将会更改，但渲染尚未完全支持
             portions[0].Style.FillColor = Color.Aquamarine;
             portions[1].Style.FillColor = Color.Violet;
             portions[2].Style.FillColor = Color.LightBlue;
 
-            // 不同的字体。将更改，但不完全支持渲染
+            // 字体不同。将会更改，但渲染尚未完全支持
             portions[0].Style.FontSize = 6;
             portions[1].Style.FontSize = 8;
             portions[2].Style.FontSize = 10;
@@ -307,9 +308,9 @@ using (var im = (PsdImage)Image.Load(filePath))
 }
 ```
 
-### 也可以看看
+### 另请参阅
 
-* 命名空间 [Aspose.PSD.FileFormats.Psd.Layers.Text](../../aspose.psd.fileformats.psd.layers.text/)
-* 部件 [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.Text](../../aspose.psd.fileformats.psd.layers.text/)
+* assembly [Aspose.PSD](../../)
 
 

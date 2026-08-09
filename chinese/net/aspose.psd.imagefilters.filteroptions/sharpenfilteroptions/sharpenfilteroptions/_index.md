@@ -1,44 +1,45 @@
 ---
-title: SharpenFilterOptions.SharpenFilterOptions
-second_title: Aspose.PSD for .NET API 参考
-description: SharpenFilterOptions 构造函数. 初始化一个新的实例SharpenFilterOptions类.
+title: "SharpenFilterOptions.SharpenFilterOptions"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "SharpenFilterOptions 构造函数。初始化 SharpenFilterOptions 类的新实例"
 type: docs
 weight: 10
 url: /zh/net/aspose.psd.imagefilters.filteroptions/sharpenfilteroptions/sharpenfilteroptions/
 ---
+{{< psd/tize >}}
 ## SharpenFilterOptions(int, double) {#constructor_1}
 
-初始化一个新的实例[`SharpenFilterOptions`](../)类.
+初始化 [`SharpenFilterOptions`](../) 类的新实例。
 
 ```csharp
 public SharpenFilterOptions(int size, double sigma)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| size | Int32 | 内核的大小。 |
-| sigma | Double | 西格玛。 |
+| 大小 | Int32 | 内核的大小。 |
+| σ | 双精度 | σ。 |
 
-### 也可以看看
+### 另请参阅
 
 * class [SharpenFilterOptions](../)
-* 命名空间 [Aspose.PSD.ImageFilters.FilterOptions](../../sharpenfilteroptions/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageFilters.FilterOptions](../../../aspose.psd.imagefilters.filteroptions/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## SharpenFilterOptions() {#constructor}
 
-初始化一个新的实例[`SharpenFilterOptions`](../)类. 使用默认设置.
+初始化 [`SharpenFilterOptions`](../) 类的新实例。使用默认设置。
 
 ```csharp
 public SharpenFilterOptions()
 ```
 
-### 也可以看看
+### 另请参阅
 
 * class [SharpenFilterOptions](../)
-* 命名空间 [Aspose.PSD.ImageFilters.FilterOptions](../../sharpenfilteroptions/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageFilters.FilterOptions](../../../aspose.psd.imagefilters.filteroptions/)
+* assembly [Aspose.PSD](../../../)
 
 

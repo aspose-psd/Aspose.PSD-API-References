@@ -1,14 +1,15 @@
 ---
-title: Class PdfOptions
-second_title: Aspose.PSD for .NET API 参考
-description: Aspose.PSD.ImageOptions.PdfOptions 班级. PDF 选项
+title: "类 PdfOptions"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "Aspose.PSD.ImageOptions.PdfOptions 类。PDF 选项"
 type: docs
-weight: 4870
+weight: 5360
 url: /zh/net/aspose.psd.imageoptions/pdfoptions/
 ---
+{{< psd/tize >}}
 ## PdfOptions class
 
-PDF 选项。
+该 PDF 选项。
 
 ```csharp
 public class PdfOptions : ImageOptionsBase
@@ -16,39 +17,39 @@ public class PdfOptions : ImageOptionsBase
 
 ## 构造函数
 
-| 姓名 | 描述 |
+| 名称 | 描述 |
 | --- | --- |
 | [PdfOptions](pdfoptions/)() | 默认构造函数。 |
 
-## 特性
+## 属性
 
-| 姓名 | 描述 |
+| 名称 | 描述 |
 | --- | --- |
-| [BufferSizeHint](../../aspose.psd/imageoptionsbase/buffersizehint/) { get; set; } | 获取或设置缓冲区大小提示，它是为所有内部缓冲区定义的最大允许大小。 |
-| virtual [DefaultReplacementFont](../../aspose.psd/imageoptionsbase/defaultreplacementfont/) { get; set; } | 获取或设置默认替换字体（导出到光栅时将用于绘制文本的字体，如果系统中未显示 PSD 文件中的现有图层字体）。 可以使用下一个代码片段来获取默认字体的正确名称: System.Drawing.Text.InstalledFontCollection col = new System.Drawing.Text.InstalledFontCollection(); System.Drawing.FontFamily[] families = col.Families; string defaultFontName = families[0].Name; PsdLoadOptions psdLoadOptions = new PsdLoadOptions() { DefaultReplacementFont = defaultFontName }); 复制代码 |
-| [Disposed](../../aspose.psd/disposableobject/disposed/) { get; } | 获取一个值，该值表示该实例是否被释放。 |
-| [FullFrame](../../aspose.psd/imageoptionsbase/fullframe/) { get; set; } | 获取或设置一个值，表示是否[全帧]. |
+| [BufferSizeHint](../../aspose.psd/imageoptionsbase/buffersizehint/) { get; set; } | 获取或设置缓冲区大小提示，该提示定义了所有内部缓冲区的最大允许大小。 |
+| virtual [DefaultReplacementFont](../../aspose.psd/imageoptionsbase/defaultreplacementfont/) { get; set; } | 获取或设置默认替代字体（在导出为光栅时用于绘制文本的字体，如果 PSD 文件中现有图层的字体在系统中不存在）。要获取默认字体的正确名称，可以使用以下代码片段：System.Drawing.Text.InstalledFontCollection col = new System.Drawing.Text.InstalledFontCollection(); System.Drawing.FontFamily[] families = col.Families; string defaultFontName = families[0].Name; PsdLoadOptions psdLoadOptions = new PsdLoadOptions() { DefaultReplacementFont = defaultFontName }); |
+| [Disposed](../../aspose.psd/disposableobject/disposed/) { get; } | 获取一个值，指示此实例是否已释放。 |
+| [FullFrame](../../aspose.psd/imageoptionsbase/fullframe/) { get; set; } | 获取或设置一个值，指示是否为 [full frame]。 |
 | [MultiPageOptions](../../aspose.psd/imageoptionsbase/multipageoptions/) { get; set; } | 多页选项 |
 | [PageSize](../../aspose.psd.imageoptions/pdfoptions/pagesize/) { get; set; } | 获取或设置页面的大小。 |
-| virtual [Palette](../../aspose.psd/imageoptionsbase/palette/) { get; set; } | 获取或设置调色板。 |
+| virtual [Palette](../../aspose.psd/imageoptionsbase/palette/) { get; set; } | 获取或设置颜色调色板。 |
 | [PdfCoreOptions](../../aspose.psd.imageoptions/pdfoptions/pdfcoreoptions/) { get; set; } | PDF 核心选项 |
 | [PdfDocumentInfo](../../aspose.psd.imageoptions/pdfoptions/pdfdocumentinfo/) { get; set; } | 获取或设置文档的元数据。 |
 | [ProgressEventHandler](../../aspose.psd/imageoptionsbase/progresseventhandler/) { get; set; } | 获取或设置进度事件处理程序。 |
 | virtual [ResolutionSettings](../../aspose.psd/imageoptionsbase/resolutionsettings/) { get; set; } | 获取或设置分辨率设置。 |
-| [Source](../../aspose.psd/imageoptionsbase/source/) { get; set; } | 获取或设置创建图像的来源. |
+| [Source](../../aspose.psd/imageoptionsbase/source/) { get; set; } | 获取或设置用于创建图像的源。 |
 | [VectorRasterizationOptions](../../aspose.psd/imageoptionsbase/vectorrasterizationoptions/) { get; set; } | 获取或设置矢量光栅化选项。 |
 | virtual [XmpData](../../aspose.psd/imageoptionsbase/xmpdata/) { get; set; } | 获取或设置 XMP 元数据容器。 |
 
 ## 方法
 
-| 姓名 | 描述 |
+| 名称 | 描述 |
 | --- | --- |
 | virtual [Clone](../../aspose.psd/imageoptionsbase/clone/)() | 克隆此实例。 |
-| [Dispose](../../aspose.psd/disposableobject/dispose/)() | 处理当前实例。 |
+| [Dispose](../../aspose.psd/disposableobject/dispose/)() | 释放当前实例。 |
 
-### 例子
+## 示例
 
-以下示例演示如何在 Aspose.PSD 中将 Adobe Illustrator 文件导出为 PDF 格式
+以下示例演示如何在 Aspose.PSD 中将 Adobe Illustrator 文件导出为 PDF 格式。
 
 ```csharp
 [C#]
@@ -61,12 +62,12 @@ using (AiImage image = (AiImage)Image.Load(sourceFilePath))
 }
 ```
 
-下面的例子演示了 AsposePSD 支持将 PSB 文件导出为 PSD 格式。
+以下示例演示 AsposePSD 支持将 PSB 文件导出为 PSD 格式。
 
 ```csharp
 [C#]
 
-// 支持将PSB保存为PDF
+// 支持将 PSB 保存为 PDF
 string sourceFileName = "sample.psb";
 string outFileName = "sample.pdf";
 
@@ -76,12 +77,12 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFileName))
 }
 ```
 
-以下代码将 PsdImage 保存为带有可选文本的 PDF 文档。
+以下代码将 PsdImage 保存为可选择文本的 PDF 文档。
 
 ```csharp
 [C#]
 
-// 将 PSD 保存为 PDF 不提供可选择的文本
+// 将 PSD 保存为 PDF 不会提供可选择的文本
 string sourceFileName = "text.psd";
 string outFileName = "text.pdf";
 
@@ -91,7 +92,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFileName))
 }
 ```
 
-以下示例演示支持将 PsdImage 导出为 Pdf 格式。
+以下示例演示导出 PsdImage 为 Pdf 格式的支持。
 
 ```csharp
 [C#]
@@ -117,10 +118,10 @@ for (int i = 0; i < sourcesFiles.Length; i++)
 }
 ```
 
-### 也可以看看
+### 另请参阅
 
 * class [ImageOptionsBase](../../aspose.psd/imageoptionsbase/)
-* 命名空间 [Aspose.PSD.ImageOptions](../../aspose.psd.imageoptions/)
-* 部件 [Aspose.PSD](../../)
+* namespace [Aspose.PSD.ImageOptions](../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../)
 
 

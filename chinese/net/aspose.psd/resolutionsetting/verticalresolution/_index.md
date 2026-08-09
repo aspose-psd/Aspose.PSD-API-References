@@ -1,11 +1,12 @@
 ---
-title: ResolutionSetting.VerticalResolution
-second_title: Aspose.PSD for .NET API 参考
-description: ResolutionSetting 财产. 获取或设置垂直分辨率
+title: "ResolutionSetting.VerticalResolution"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "ResolutionSetting 属性。获取或设置垂直分辨率"
 type: docs
 weight: 30
 url: /zh/net/aspose.psd/resolutionsetting/verticalresolution/
 ---
+{{< psd/tize >}}
 ## ResolutionSetting.VerticalResolution property
 
 获取或设置垂直分辨率。
@@ -14,10 +15,10 @@ url: /zh/net/aspose.psd/resolutionsetting/verticalresolution/
 public double VerticalResolution { get; set; }
 ```
 
-### 也可以看看
+### 另请参阅
 
 * class [ResolutionSetting](../)
-* 命名空间 [Aspose.PSD](../../resolutionsetting/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,102 +1,103 @@
 ---
-title: Region.Complement
-second_title: Aspose.PSD for .NET API 参考
-description: Region 方法. 更新这个Region包含指定的部分RectangleF与此不相交的结构Region .
+title: "Region.Complement"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "Region 方法。将此 Region 更新为包含指定 RectangleF 结构中未与此 Region 相交的部分"
 type: docs
 weight: 20
 url: /zh/net/aspose.psd/region/complement/
 ---
+{{< psd/tize >}}
 ## Complement(RectangleF) {#complement_2}
 
-更新这个[`Region`](../)包含指定的部分[`RectangleF`](../../rectanglef/)与此不相交的结构[`Region`](../) .
+将此 [`Region`](../) 更新为包含指定 [`RectangleF`](../../rectanglef/) 结构中未与此 [`Region`](../) 相交的部分。
 
 ```csharp
 public void Complement(RectangleF rect)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| rect | RectangleF | 这[`RectangleF`](../../rectanglef/)结构来补充这个[`Region`](../). |
+| rect | RectangleF | 用于补充此 [`Region`](../) 的 [`RectangleF`](../../rectanglef/) 结构。 |
 
-### 也可以看看
+### 另请参阅
 
 * struct [RectangleF](../../rectanglef/)
 * class [Region](../)
-* 命名空间 [Aspose.PSD](../../region/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Complement(Rectangle) {#complement_1}
 
-更新这个[`Region`](../)包含指定的部分[`Rectangle`](../../rectangle/)与此不相交的结构[`Region`](../) .
+将此 [`Region`](../) 更新为包含指定 [`Rectangle`](../../rectangle/) 结构中未与此 [`Region`](../) 相交的部分。
 
 ```csharp
 public void Complement(Rectangle rect)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| rect | Rectangle | 这[`Rectangle`](../../rectangle/)结构来补充这个[`Region`](../). |
+| rect | Rectangle | 用于补充此 [`Region`](../) 的 [`Rectangle`](../../rectangle/) 结构。 |
 
-### 也可以看看
+### 另请参阅
 
 * struct [Rectangle](../../rectangle/)
 * class [Region](../)
-* 命名空间 [Aspose.PSD](../../region/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Complement(GraphicsPath) {#complement}
 
-更新这个[`Region`](../)包含指定的部分[`GraphicsPath`](../../graphicspath/)与此不相交[`Region`](../) .
+将此 [`Region`](../) 更新为包含指定 [`GraphicsPath`](../../graphicspath/) 中未与此 [`Region`](../) 相交的部分。
 
 ```csharp
 public void Complement(GraphicsPath path)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| path | GraphicsPath | 这[`GraphicsPath`](../../graphicspath/)补充这个[`Region`](../). |
+| path | GraphicsPath | 用于补充此 [`Region`](../) 的 [`GraphicsPath`](../../graphicspath/)。 |
 
-### 例外
+### 异常
 
-| 例外 | （健康）状况 |
+| 异常 | 条件 |
 | --- | --- |
-| ArgumentNullException | *path*isnull. |
+| ArgumentNullException | *path* 为 null。 |
 
-### 也可以看看
+### 另请参阅
 
 * class [GraphicsPath](../../graphicspath/)
 * class [Region](../)
-* 命名空间 [Aspose.PSD](../../region/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Complement(Region) {#complement_3}
 
-更新这个[`Region`](../)包含指定的部分[`Region`](../)与此不相交[`Region`](../) .
+将此 [`Region`](../) 更新为包含指定 [`Region`](../) 中未与此 [`Region`](../) 相交的部分。
 
 ```csharp
 public void Complement(Region region)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| region | Region | 这[`Region`](../)反对补充这个[`Region`](../)目的。 |
+| region | Region | 用于补充此 [`Region`](../) 对象的 [`Region`](../) 对象。 |
 
-### 例外
+### 异常
 
-| 例外 | （健康）状况 |
+| 异常 | 条件 |
 | --- | --- |
-| ArgumentNullException | *region*isnull. |
+| ArgumentNullException | *region* 为 null。 |
 
-### 也可以看看
+### 另请参阅
 
 * class [Region](../)
-* 命名空间 [Aspose.PSD](../../region/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

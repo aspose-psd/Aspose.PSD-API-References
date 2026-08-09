@@ -1,44 +1,45 @@
 ---
-title: GaussWienerFilterOptions.GaussWienerFilterOptions
-second_title: Aspose.PSD for .NET API 参考
-description: GaussWienerFilterOptions 构造函数. 初始化一个新的实例GaussWienerFilterOptions类.
+title: "GaussWienerFilterOptions.GaussWienerFilterOptions"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "GaussWienerFilterOptions 构造函数。初始化 GaussWienerFilterOptions 类的新实例"
 type: docs
 weight: 10
 url: /zh/net/aspose.psd.imagefilters.filteroptions/gausswienerfilteroptions/gausswienerfilteroptions/
 ---
+{{< psd/tize >}}
 ## GaussWienerFilterOptions(int, double) {#constructor_1}
 
-初始化一个新的实例[`GaussWienerFilterOptions`](../)类.
+初始化 [`GaussWienerFilterOptions`](../) 类的新实例。
 
 ```csharp
 public GaussWienerFilterOptions(int radius, double smooth)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| radius | Int32 | 半径。 |
-| smooth | Double | 光滑的。 |
+| 半径 | Int32 | 半径。 |
+| 平滑 | 双精度 | 平滑。 |
 
-### 也可以看看
+### 另请参阅
 
 * class [GaussWienerFilterOptions](../)
-* 命名空间 [Aspose.PSD.ImageFilters.FilterOptions](../../gausswienerfilteroptions/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageFilters.FilterOptions](../../../aspose.psd.imagefilters.filteroptions/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## GaussWienerFilterOptions() {#constructor}
 
-初始化一个新的实例[`GaussWienerFilterOptions`](../)类. 使用默认设置.
+初始化 [`GaussWienerFilterOptions`](../) 类的新实例。使用默认设置。
 
 ```csharp
 public GaussWienerFilterOptions()
 ```
 
-### 也可以看看
+### 另请参阅
 
 * class [GaussWienerFilterOptions](../)
-* 命名空间 [Aspose.PSD.ImageFilters.FilterOptions](../../gausswienerfilteroptions/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageFilters.FilterOptions](../../../aspose.psd.imagefilters.filteroptions/)
+* assembly [Aspose.PSD](../../../)
 
 

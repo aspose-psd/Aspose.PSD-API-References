@@ -1,27 +1,28 @@
 ---
-title: PhotoshopPackage.SetHistory
-second_title: Aspose.PSD for .NET API 参考
-description: PhotoshopPackage 方法. 设置历史
+title: "PhotoshopPackage.SetHistory"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "PhotoshopPackage 方法。设置历史记录"
 type: docs
 weight: 130
 url: /zh/net/aspose.psd.xmp.schemas.photoshop/photoshoppackage/sethistory/
 ---
+{{< psd/tize >}}
 ## PhotoshopPackage.SetHistory method
 
-设置历史。
+设置历史记录。
 
 ```csharp
 public void SetHistory(string history)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| history | String | 历史。 |
+| history | String | 历史记录。 |
 
-### 也可以看看
+### 另请参阅
 
 * class [PhotoshopPackage](../)
-* 命名空间 [Aspose.PSD.Xmp.Schemas.Photoshop](../../photoshoppackage/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.Photoshop](../../../aspose.psd.xmp.schemas.photoshop/)
+* assembly [Aspose.PSD](../../../)
 
 

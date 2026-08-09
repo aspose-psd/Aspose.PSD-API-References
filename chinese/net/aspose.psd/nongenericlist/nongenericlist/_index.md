@@ -1,27 +1,28 @@
 ---
-title: NonGenericList.NonGenericList
-second_title: Aspose.PSD for .NET API 参考
-description: NonGenericList 构造函数. 初始化一个新的实例NonGenericList类.
+title: "NonGenericList.NonGenericList"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "NonGenericList 构造函数。初始化 NonGenericList 类的新实例"
 type: docs
 weight: 10
 url: /zh/net/aspose.psd/nongenericlist/nongenericlist/
 ---
+{{< psd/tize >}}
 ## NonGenericList constructor
 
-初始化一个新的实例[`NonGenericList`](../)类.
+初始化 [`NonGenericList`](../) 类的新实例。
 
 ```csharp
 public NonGenericList(IList list)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| list | IList | 列表 - 对象的容器。 |
+| 列表 | IList | 列表 - 对象的容器。 |
 
-### 也可以看看
+### 另请参阅
 
 * class [NonGenericList](../)
-* 命名空间 [Aspose.PSD](../../nongenericlist/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

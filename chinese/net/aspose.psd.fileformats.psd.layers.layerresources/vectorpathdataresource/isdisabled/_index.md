@@ -1,27 +1,28 @@
 ---
-title: VectorPathDataResource.IsDisabled
-second_title: Aspose.PSD for .NET API 参考
-description: VectorPathDataResource 财产. 获取或设置一个值指示此实例是否被禁用
+title: "VectorPathDataResource.IsDisabled"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "VectorPathDataResource 属性。获取或设置一个值，指示此实例是否已禁用"
 type: docs
 weight: 10
 url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources/vectorpathdataresource/isdisabled/
 ---
+{{< psd/tize >}}
 ## VectorPathDataResource.IsDisabled property
 
-获取或设置一个值，指示此实例是否被禁用。
+获取或设置一个值，以指示此实例是否已禁用。
 
 ```csharp
 public bool IsDisabled { get; set; }
 ```
 
-### 适当的价值
+### Property Value
 
-`真的`如果此实例被禁用；否则，`错误的` .
+`true` 表示此实例已禁用；否则为 `false`。
 
-### 也可以看看
+### 另请参阅
 
 * class [VectorPathDataResource](../)
-* 命名空间 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../vectorpathdataresource/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

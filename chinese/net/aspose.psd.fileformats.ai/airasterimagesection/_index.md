@@ -1,36 +1,37 @@
 ---
-title: Class AiRasterImageSection
-second_title: Aspose.PSD for .NET API 参考
-description: Aspose.PSD.FileFormats.Ai.AiRasterImageSection 班级. AI 光栅图像部分
+title: "类 AiRasterImageSection"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "Aspose.PSD.FileFormats.Ai.AiRasterImageSection 类。AI 栅格图像节"
 type: docs
-weight: 1280
+weight: 1290
 url: /zh/net/aspose.psd.fileformats.ai/airasterimagesection/
 ---
+{{< psd/tize >}}
 ## AiRasterImageSection class
 
-AI 光栅图像部分
+AI 栅格图像段
 
 ```csharp
 public sealed class AiRasterImageSection
 ```
 
-## 特性
+## 属性
 
-| 姓名 | 描述 |
+| 名称 | 描述 |
 | --- | --- |
 | [Angle](../../aspose.psd.fileformats.ai/airasterimagesection/angle/) { get; } | 获取角度。 |
 | [Height](../../aspose.psd.fileformats.ai/airasterimagesection/height/) { get; } | 获取高度。 |
 | [ImageRectangle](../../aspose.psd.fileformats.ai/airasterimagesection/imagerectangle/) { get; } | 获取图像矩形。 |
-| [LeftBottomShift](../../aspose.psd.fileformats.ai/airasterimagesection/leftbottomshift/) { get; } | 获取左下移。 |
-| [Name](../../aspose.psd.fileformats.ai/airasterimagesection/name/) { get; } | 获取光栅图像的名称。 |
-| [OffsetX](../../aspose.psd.fileformats.ai/airasterimagesection/offsetx/) { get; } | 获取偏移量 X。 |
-| [OffsetY](../../aspose.psd.fileformats.ai/airasterimagesection/offsety/) { get; } | 获取偏移量 Y。 |
+| [LeftBottomShift](../../aspose.psd.fileformats.ai/airasterimagesection/leftbottomshift/) { get; } | 获取左下偏移。 |
+| [Name](../../aspose.psd.fileformats.ai/airasterimagesection/name/) { get; } | 获取栅格图像的名称。 |
+| [OffsetX](../../aspose.psd.fileformats.ai/airasterimagesection/offsetx/) { get; } | 获取 X 偏移。 |
+| [OffsetY](../../aspose.psd.fileformats.ai/airasterimagesection/offsety/) { get; } | 获取 Y 偏移。 |
 | [Pixels](../../aspose.psd.fileformats.ai/airasterimagesection/pixels/) { get; } | 获取 int 颜色像素数组。 |
 | [Width](../../aspose.psd.fileformats.ai/airasterimagesection/width/) { get; } | 获取宽度。 |
 
-### 例子
+## 示例
 
-下面的代码演示了如何在 AI 格式文件中加载光栅图像的设置。
+以下代码演示了如何在 AI 格式文件中加载栅格图像的设置。
 
 ```csharp
 [C#]
@@ -73,9 +74,9 @@ using (AiImage image = (AiImage)Image.Load(sourceFile))
 }
 ```
 
-### 也可以看看
+### 另请参阅
 
-* 命名空间 [Aspose.PSD.FileFormats.Ai](../../aspose.psd.fileformats.ai/)
-* 部件 [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../)
 
 

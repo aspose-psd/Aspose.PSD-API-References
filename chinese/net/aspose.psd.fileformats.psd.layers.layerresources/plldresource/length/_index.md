@@ -1,23 +1,24 @@
 ---
-title: PlLdResource.Length
-second_title: Aspose.PSD for .NET API 参考
-description: PlLdResource 财产. 获取以字节为单位的 PlLd 资源长度
+title: "PlLdResource.Length"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "PlLdResource 属性。获取 PlLd 资源的字节长度"
 type: docs
-weight: 20
+weight: 10
 url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources/plldresource/length/
 ---
+{{< psd/tize >}}
 ## PlLdResource.Length property
 
-获取以字节为单位的 PlLd 资源长度。
+获取 PlLd 资源的字节长度。
 
 ```csharp
 public override int Length { get; }
 ```
 
-### 也可以看看
+### 另请参阅
 
 * class [PlLdResource](../)
-* 命名空间 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../plldresource/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

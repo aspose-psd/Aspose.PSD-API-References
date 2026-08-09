@@ -1,27 +1,28 @@
 ---
-title: PsdImage.BinarizeFixed
-second_title: Aspose.PSD for .NET API 参考
-description: PsdImage 方法. 具有预定义阈值的图像二值化
+title: "PsdImage.BinarizeFixed"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "PsdImage 方法。使用预定义阈值对图像进行二值化"
 type: docs
-weight: 480
+weight: 540
 url: /zh/net/aspose.psd.fileformats.psd/psdimage/binarizefixed/
 ---
+{{< psd/tize >}}
 ## PsdImage.BinarizeFixed method
 
-具有预定义阈值的图像二值化
+使用预定义阈值对图像进行二值化
 
 ```csharp
 public override void BinarizeFixed(byte threshold)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| threshold | Byte | 阈值。如果一个像素对应的灰度值大于阈值，则赋值为255，否则为0。 |
+| 阈值 | 字节 | 阈值。若像素的对应灰度值大于阈值，则赋值为 255，否则为 0。 |
 
-### 也可以看看
+### 另请参阅
 
 * class [PsdImage](../)
-* 命名空间 [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

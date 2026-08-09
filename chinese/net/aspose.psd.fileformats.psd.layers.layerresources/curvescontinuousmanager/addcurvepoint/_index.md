@@ -1,11 +1,12 @@
 ---
-title: CurvesContinuousManager.AddCurvePoint
-second_title: Aspose.PSD for .NET API 参考
-description: CurvesContinuousManager 方法. 添加曲线点
+title: "CurvesContinuousManager.AddCurvePoint"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "CurvesContinuousManager 方法。添加曲线的点"
 type: docs
 weight: 20
 url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources/curvescontinuousmanager/addcurvepoint/
 ---
+{{< psd/tize >}}
 ## CurvesContinuousManager.AddCurvePoint method
 
 添加曲线点。
@@ -14,22 +15,22 @@ url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources/curvescontinuousma
 public void AddCurvePoint(int channelIndex, byte x, byte y)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| channelIndex | Int32 | 通道索引。 |
-| x | Byte | x 位置。 |
-| y | Byte | Y 位置。 |
+| channelIndex | Int32 | 通道的索引。 |
+| x | 字节 | x 位置。 |
+| y | 字节 | y 位置。 |
 
-### 例外
+### 异常
 
-| 例外 | （健康）状况 |
+| 异常 | 条件 |
 | --- | --- |
-| [PsdImageArgumentException](../../../aspose.psd.coreexceptions.imageformats/psdimageargumentexception/) | 您尝试添加的点已经存在 |
+| [PsdImageArgumentException](../../../aspose.psd.coreexceptions.imageformats/psdimageargumentexception/) | 您尝试添加的点已存在 |
 
-### 也可以看看
+### 另请参阅
 
 * class [CurvesContinuousManager](../)
-* 命名空间 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../curvescontinuousmanager/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

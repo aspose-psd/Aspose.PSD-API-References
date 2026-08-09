@@ -1,26 +1,27 @@
 ---
-title: AiLayerSection.IsPrinted
-second_title: Aspose.PSD for .NET API 参考
-description: AiLayerSection 财产. 获取或设置一个值该值指示是否打印该图层 如果为真则使该图层中包含的图稿可打印
+title: "AiLayerSection.IsPrinted"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "AiLayerSection 属性。获取或设置一个值，指示此图层是否被打印。如果为 true，则使图层中的艺术作品可打印"
 type: docs
-weight: 80
+weight: 100
 url: /zh/net/aspose.psd.fileformats.ai/ailayersection/isprinted/
 ---
+{{< psd/tize >}}
 ## AiLayerSection.IsPrinted property
 
-获取或设置一个值，该值指示是否打印该图层。 如果为真，则使该图层中包含的图稿可打印。
+获取或设置一个值，指示此图层是否可打印。如果为 true，则使图层中的艺术作品可打印。
 
 ```csharp
 public bool IsPrinted { get; set; }
 ```
 
-### 适当的价值
+### Property Value
 
-`真的`如果打印了这一层；否则，`错误的` .
+`true` 如果此图层已打印；否则为 `false`。
 
-### 例子
+## 示例
 
-以下示例演示了对 AI 格式文件中图层的支持。
+以下示例演示了在 AI 格式文件中对图层的支持。
 
 ```csharp
 [C#]
@@ -70,10 +71,10 @@ using (AiImage image = (AiImage)Image.Load(sourceFilePath))
 }
 ```
 
-### 也可以看看
+### 另请参阅
 
 * class [AiLayerSection](../)
-* 命名空间 [Aspose.PSD.FileFormats.Ai](../../ailayersection/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

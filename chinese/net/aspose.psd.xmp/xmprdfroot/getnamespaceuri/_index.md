@@ -1,31 +1,32 @@
 ---
-title: XmpRdfRoot.GetNamespaceUri
-second_title: Aspose.PSD for .NET API 参考
-description: XmpRdfRoot 方法. 通过特定前缀获取名称空间 URI前缀可以在没有 xmlns. 的情况下开始
+title: "XmpRdfRoot.GetNamespaceUri"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "XmpRdfRoot 方法。通过特定前缀获取命名空间 URI。前缀可能不以 xmlns 开头"
 type: docs
 weight: 20
 url: /zh/net/aspose.psd.xmp/xmprdfroot/getnamespaceuri/
 ---
+{{< psd/tize >}}
 ## XmpRdfRoot.GetNamespaceUri method
 
-通过特定前缀获取名称空间 URI。前缀可以在没有 xmlns. 的情况下开始
+通过特定前缀获取命名空间 URI。前缀可能不以 xmlns 开头。
 
 ```csharp
 public string GetNamespaceUri(string prefix)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| prefix | String | 前缀。 |
+| 前缀 | String | 前缀。 |
 
 ### 返回值
 
-返回包架构 URI。
+返回包的模式 URI。
 
-### 也可以看看
+### 另请参阅
 
 * class [XmpRdfRoot](../)
-* 命名空间 [Aspose.PSD.Xmp](../../xmprdfroot/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

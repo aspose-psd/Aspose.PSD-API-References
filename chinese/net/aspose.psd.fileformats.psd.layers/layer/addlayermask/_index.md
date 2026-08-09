@@ -1,34 +1,35 @@
 ---
-title: Layer.AddLayerMask
-second_title: Aspose.PSD for .NET API 参考
-description: Layer 方法. 将蒙版添加到当前层
+title: "Layer.AddLayerMask"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "Layer 方法。向当前图层添加遮罩"
 type: docs
-weight: 330
+weight: 340
 url: /zh/net/aspose.psd.fileformats.psd.layers/layer/addlayermask/
 ---
+{{< psd/tize >}}
 ## Layer.AddLayerMask method
 
-将蒙版添加到当前层。
+将遮罩添加到当前图层。
 
 ```csharp
 public void AddLayerMask(LayerMaskData layerMask)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| layerMask | LayerMaskData | 图层蒙版。 |
+| layerMask | LayerMaskData | 图层遮罩。 |
 
-### 例外
+### 异常
 
-| 例外 | （健康）状况 |
+| 异常 | 条件 |
 | --- | --- |
-| [PsdImageException](../../../aspose.psd.coreexceptions.imageformats/psdimageexception/) | 暂不支持设置全层蒙版，请使用 LayerMaskDataShort |
+| [PsdImageException](../../../aspose.psd.coreexceptions.imageformats/psdimageexception/) | 尚不支持设置完整图层遮罩，请使用 LayerMaskDataShort |
 
-### 也可以看看
+### 另请参阅
 
 * class [LayerMaskData](../../layermaskdata/)
 * class [Layer](../)
-* 命名空间 [Aspose.PSD.FileFormats.Psd.Layers](../../layer/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

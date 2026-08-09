@@ -1,20 +1,21 @@
 ---
-title: ITextStyle.StandardLigatures
-second_title: Aspose.PSD for .NET API 参考
-description: ITextStyle 财产. 用于将字母连接在一起的标准上下文连字
+title: "ITextStyle.StandardLigatures"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "ITextStyle 属性。用于将字母连接在一起的标准上下文连字"
 type: docs
 weight: 220
 url: /zh/net/aspose.psd.fileformats.psd.layers.text/itextstyle/standardligatures/
 ---
+{{< psd/tize >}}
 ## ITextStyle.StandardLigatures property
 
-用于将字母连接在一起的标准上下文连字。
+标准上下文连字用于将字母连接在一起。
 
 ```csharp
 public bool StandardLigatures { get; set; }
 ```
 
-### 例子
+## 示例
 
 以下代码演示了对新 ITextStyle 属性的支持。
 
@@ -68,10 +69,10 @@ using (var srcImage = (PsdImage)Image.Load(srcFile))
 }
 ```
 
-### 也可以看看
+### 另请参阅
 
 * interface [ITextStyle](../)
-* 命名空间 [Aspose.PSD.FileFormats.Psd.Layers.Text](../../itextstyle/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.Text](../../../aspose.psd.fileformats.psd.layers.text/)
+* assembly [Aspose.PSD](../../../)
 
 

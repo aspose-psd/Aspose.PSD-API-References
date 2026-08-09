@@ -1,37 +1,38 @@
 ---
-title: ImageLoadersRegistry.GetFirstSupportedDescriptorByFileFormat
-second_title: Aspose.PSD for .NET API 参考
-description: ImageLoadersRegistry 方法. 通过其类型名称获取第一个支持的文件格式
+title: "ImageLoadersRegistry.GetFirstSupportedDescriptorByFileFormat"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "ImageLoadersRegistry 方法。根据其类型名称获取第一个受支持的文件格式"
 type: docs
 weight: 50
 url: /zh/net/aspose.psd/imageloadersregistry/getfirstsupporteddescriptorbyfileformat/
 ---
+{{< psd/tize >}}
 ## ImageLoadersRegistry.GetFirstSupportedDescriptorByFileFormat method
 
-通过其类型名称获取第一个支持的文件格式。
+通过类型名称获取第一个受支持的文件格式。
 
 ```csharp
 public static IImageLoaderDescriptor GetFirstSupportedDescriptorByFileFormat(FileFormat fileFormat)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| fileFormat | FileFormat | 支持的描述符文件格式。 |
+| fileFormat | FileFormat | 受支持的描述符文件格式。 |
 
 ### 返回值
 
-第一个找到的加载器描述符，如果没有找到这样的描述符则为 null。
+如果未找到此类描述符，则返回第一个找到的加载器描述符或 null。
 
-### 评论
+## 备注
 
 第一个加载器描述符实际上是最后注册的。
 
-### 也可以看看
+### 另请参阅
 
 * interface [IImageLoaderDescriptor](../../iimageloaderdescriptor/)
 * enum [FileFormat](../../fileformat/)
 * class [ImageLoadersRegistry](../)
-* 命名空间 [Aspose.PSD](../../imageloadersregistry/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

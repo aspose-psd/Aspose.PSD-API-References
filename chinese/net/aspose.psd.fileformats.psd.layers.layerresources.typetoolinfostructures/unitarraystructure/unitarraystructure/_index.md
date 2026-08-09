@@ -1,32 +1,33 @@
 ---
-title: UnitArrayStructure.UnitArrayStructure
-second_title: Aspose.PSD for .NET API 参考
-description: UnitArrayStructure 构造函数. 初始化一个新的实例UnitArrayStructure类.
+title: "UnitArrayStructure.UnitArrayStructure"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "UnitArrayStructure 构造函数。初始化 UnitArrayStructure 类的新实例。"
 type: docs
 weight: 10
 url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/unitarraystructure/unitarraystructure/
 ---
+{{< psd/tize >}}
 ## UnitArrayStructure constructor
 
-初始化一个新的实例[`UnitArrayStructure`](../)类.
+初始化 [`UnitArrayStructure`](../) 类的新实例。
 
 ```csharp
 public UnitArrayStructure(ClassID keyName, UnitTypes unitType, double[] values)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| keyName | ClassID | 密钥的名称。 |
-| unitType | UnitTypes | 单位类型。 |
-| values | Double[] | 价值。 |
+| keyName | ClassID | 键的名称。 |
+| unitType | UnitTypes | 单位的类型。 |
+| values | Double[] | 这些值。 |
 
-### 例外
+### 异常
 
-| 例外 | （健康）状况 |
+| 异常 | 条件 |
 | --- | --- |
-| ArgumentNullException | 值不能为空 |
+| ArgumentNullException | 值不能为空。 |
 
-### 例子
+## 示例
 
 以下代码演示了对 ObAr 和 UnFl 签名的支持。
 
@@ -80,12 +81,12 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
 }
 ```
 
-### 也可以看看
+### 另请参阅
 
 * class [ClassID](../../../aspose.psd.fileformats.psd.layers.layerresources/classid/)
 * enum [UnitTypes](../../unittypes/)
 * class [UnitArrayStructure](../)
-* 命名空间 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../unitarraystructure/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 

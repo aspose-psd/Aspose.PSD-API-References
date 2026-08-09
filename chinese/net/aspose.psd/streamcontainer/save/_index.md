@@ -1,133 +1,134 @@
 ---
-title: StreamContainer.Save
-second_title: Aspose.PSD for .NET API 参考
-description: StreamContainer 方法. 将流的数据保存复制到指定的流中
+title: "StreamContainer.Save"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "StreamContainer 方法。保存（复制）流的数据到指定的流"
 type: docs
 weight: 130
 url: /zh/net/aspose.psd/streamcontainer/save/
 ---
+{{< psd/tize >}}
 ## Save(Stream, int, long) {#save_2}
 
-将流的数据保存（复制）到指定的流中。
+将流的数据保存（复制）到指定的流。
 
 ```csharp
 public virtual void Save(Stream destinationStream, int bufferSize, long length)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| destinationStream | Stream | 要将数据保存到的流。 |
-| bufferSize | Int32 | 缓冲区大小。默认情况下[`ReadWriteBytesCount`](../readwritebytescount/)值被使用。 |
-| length | Int64 | 要复制的流数据长度。默认情况下，长度设置为[`Length`](../length/)价值。 |
+| destinationStream | 流 | 用于保存数据的流。 |
+| bufferSize | Int32 | 缓冲区大小。默认使用 [`ReadWriteBytesCount`](../readwritebytescount/) 的值。 |
+| length | Int64 | 要复制的流数据长度。默认长度设置为 [`Length`](../length/) 的值。 |
 
-### 也可以看看
+### 另请参阅
 
 * class [StreamContainer](../)
-* 命名空间 [Aspose.PSD](../../streamcontainer/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Save(Stream) {#save}
 
-将流的数据保存（复制）到指定的流。使用默认缓冲区大小[`ReadWriteBytesCount`](../readwritebytescount/)和流[`Length`](../length/)值.
+保存（复制）流的数据到指定的流。使用默认缓冲区大小 [`ReadWriteBytesCount`](../readwritebytescount/) 和流的 [`Length`](../length/) 值。
 
 ```csharp
 public virtual void Save(Stream destinationStream)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| destinationStream | Stream | 要将数据保存到的流。 |
+| destinationStream | 流 | 用于保存数据的流。 |
 
-### 也可以看看
+### 另请参阅
 
 * class [StreamContainer](../)
-* 命名空间 [Aspose.PSD](../../streamcontainer/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Save(Stream, int) {#save_1}
 
-将所有流的数据保存（复制）到指定的流。使用流[`Length`](../length/)值.
+将流的所有数据保存（复制）到指定的流。使用流的 [`Length`](../length/) 值。
 
 ```csharp
 public virtual void Save(Stream destinationStream, int bufferSize)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| destinationStream | Stream | 要将数据保存到的流。 |
-| bufferSize | Int32 | 缓冲器。 |
+| destinationStream | 流 | 用于保存数据的流。 |
+| bufferSize | Int32 | 缓冲区。 |
 
-### 也可以看看
+### 另请参阅
 
 * class [StreamContainer](../)
-* 命名空间 [Aspose.PSD](../../streamcontainer/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Save(string) {#save_3}
 
-将流的数据保存（复制）到指定的流。使用默认缓冲区大小[`ReadWriteBytesCount`](../readwritebytescount/)和流[`Length`](../length/)值.
+保存（复制）流的数据到指定的流。使用默认缓冲区大小 [`ReadWriteBytesCount`](../readwritebytescount/) 和流的 [`Length`](../length/) 值。
 
 ```csharp
 public virtual void Save(string filePath)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| filePath | String | 保存流数据的文件路径。 |
+| filePath | String | 用于保存流数据的文件路径。 |
 
-### 也可以看看
+### 另请参阅
 
 * class [StreamContainer](../)
-* 命名空间 [Aspose.PSD](../../streamcontainer/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Save(string, int) {#save_4}
 
-将流的数据保存（复制）到指定的流。使用流[`Length`](../length/)值.
+将流的数据保存（复制）到指定的流。使用流的 [`Length`](../length/) 值。
 
 ```csharp
 public virtual void Save(string filePath, int bufferSize)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| filePath | String | 保存流数据的文件路径。 |
-| bufferSize | Int32 | 缓冲区大小。默认情况下[`ReadWriteBytesCount`](../readwritebytescount/)值被使用。 |
+| filePath | String | 用于保存流数据的文件路径。 |
+| bufferSize | Int32 | 缓冲区大小。默认使用 [`ReadWriteBytesCount`](../readwritebytescount/) 的值。 |
 
-### 也可以看看
+### 另请参阅
 
 * class [StreamContainer](../)
-* 命名空间 [Aspose.PSD](../../streamcontainer/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Save(string, int, long) {#save_5}
 
-将流的数据保存（复制）到指定的流中。
+将流的数据保存（复制）到指定的流。
 
 ```csharp
 public virtual void Save(string filePath, int bufferSize, long length)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| filePath | String | 保存流数据的文件路径。 |
-| bufferSize | Int32 | 缓冲区大小。默认情况下[`ReadWriteBytesCount`](../readwritebytescount/)值被使用。 |
-| length | Int64 | 要复制的流数据长度。默认情况下，长度设置为[`Length`](../length/)价值。 |
+| filePath | String | 用于保存流数据的文件路径。 |
+| bufferSize | Int32 | 缓冲区大小。默认使用 [`ReadWriteBytesCount`](../readwritebytescount/) 的值。 |
+| length | Int64 | 要复制的流数据长度。默认长度设置为 [`Length`](../length/) 的值。 |
 
-### 也可以看看
+### 另请参阅
 
 * class [StreamContainer](../)
-* 命名空间 [Aspose.PSD](../../streamcontainer/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

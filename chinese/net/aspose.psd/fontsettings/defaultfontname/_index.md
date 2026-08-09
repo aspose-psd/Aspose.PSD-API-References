@@ -1,11 +1,12 @@
 ---
-title: FontSettings.DefaultFontName
-second_title: Aspose.PSD for .NET API 参考
-description: FontSettings 财产. 获取或设置字体的默认名称
+title: "FontSettings.DefaultFontName"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "FontSettings 属性。获取或设置字体的默认名称。"
 type: docs
 weight: 10
 url: /zh/net/aspose.psd/fontsettings/defaultfontname/
 ---
+{{< psd/tize >}}
 ## FontSettings.DefaultFontName property
 
 获取或设置字体的默认名称。
@@ -14,14 +15,14 @@ url: /zh/net/aspose.psd/fontsettings/defaultfontname/
 public static string DefaultFontName { get; set; }
 ```
 
-### 适当的价值
+### Property Value
 
 字体的默认名称。
 
-### 也可以看看
+### 另请参阅
 
 * class [FontSettings](../)
-* 命名空间 [Aspose.PSD](../../fontsettings/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

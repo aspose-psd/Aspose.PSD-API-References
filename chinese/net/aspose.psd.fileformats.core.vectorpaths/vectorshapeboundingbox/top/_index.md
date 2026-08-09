@@ -1,11 +1,12 @@
 ---
-title: VectorShapeBoundingBox.Top
-second_title: Aspose.PSD for .NET API 参考
-description: VectorShapeBoundingBox 财产. 获取或设置顶部
+title: "VectorShapeBoundingBox.Top"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "VectorShapeBoundingBox 属性。获取或设置顶部"
 type: docs
-weight: 70
+weight: 80
 url: /zh/net/aspose.psd.fileformats.core.vectorpaths/vectorshapeboundingbox/top/
 ---
+{{< psd/tize >}}
 ## VectorShapeBoundingBox.Top property
 
 获取或设置顶部。
@@ -14,14 +15,14 @@ url: /zh/net/aspose.psd.fileformats.core.vectorpaths/vectorshapeboundingbox/top/
 public double Top { get; set; }
 ```
 
-### 适当的价值
+### Property Value
 
-顶.
+顶部。
 
-### 也可以看看
+### 另请参阅
 
 * class [VectorShapeBoundingBox](../)
-* 命名空间 [Aspose.PSD.FileFormats.Core.VectorPaths](../../vectorshapeboundingbox/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../../)
 
 

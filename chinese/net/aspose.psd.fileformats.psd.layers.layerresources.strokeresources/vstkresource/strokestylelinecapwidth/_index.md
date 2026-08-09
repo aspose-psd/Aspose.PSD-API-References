@@ -1,23 +1,24 @@
 ---
-title: VstkResource.StrokeStyleLineCapWidth
-second_title: Aspose.PSD for .NET API 参考
-description: VstkResource 财产. 获取或设置 Stroke line cap width.
+title: "VstkResource.StrokeStyleLineCapWidth"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "VstkResource 属性。获取或设置笔画线帽宽度"
 type: docs
-weight: 120
+weight: 100
 url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources.strokeresources/vstkresource/strokestylelinecapwidth/
 ---
+{{< psd/tize >}}
 ## VstkResource.StrokeStyleLineCapWidth property
 
-获取或设置 Stroke line cap width.
+获取或设置描边线帽宽度。
 
 ```csharp
 public double StrokeStyleLineCapWidth { get; set; }
 ```
 
-### 也可以看看
+### 另请参阅
 
 * class [VstkResource](../)
-* 命名空间 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.StrokeResources](../../vstkresource/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.StrokeResources](../../../aspose.psd.fileformats.psd.layers.layerresources.strokeresources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: ColorRangeHsl.RightBorder
-second_title: Aspose.PSD for .NET API 参考
-description: ColorRangeHsl 财产. 获取或设置右边框
+title: "ColorRangeHsl.RightBorder"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "ColorRangeHsl 属性。获取或设置右边界"
 type: docs
 weight: 70
 url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources/colorrangehsl/rightborder/
 ---
+{{< psd/tize >}}
 ## ColorRangeHsl.RightBorder property
 
-获取或设置右边框。
+获取或设置右边界。
 
 ```csharp
 public short RightBorder { get; set; }
 ```
 
-### 适当的价值
+### Property Value
 
-右边框.
+右边界。
 
-### 也可以看看
+### 另请参阅
 
 * class [ColorRangeHsl](../)
-* 命名空间 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../colorrangehsl/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,17 +1,18 @@
 ---
-title: Aspose.PSD.FileFormats.Psd.Layers.FillLayers
-second_title: Aspose.PSD for .NET API 参考
-description: 命名空间包含 Fill Layers
+title: "Aspose.PSD.FileFormats.Psd.Layers.FillLayers"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "该命名空间包含填充图层。"
 type: docs
-weight: 240
+weight: 260
 url: /zh/net/aspose.psd.fileformats.psd.layers.filllayers/
 ---
-命名空间包含 Fill Layers
+{{< psd/tize >}}
+该命名空间包含填充图层。
 
-## 课程
+## 类
 
-| 班级 | 描述 |
+| 类 | 描述 |
 | --- | --- |
-| [FillLayer](./filllayer/) | 填充层。颜色填充、渐变填充或图案填充图层，区别在于[`FillSettings`](../aspose.psd.fileformats.psd.layers.filllayers/filllayer/fillsettings/) |
+| [FillLayer](./filllayer/) | 填充图层。颜色填充、渐变填充或图案填充图层，其区别在于 [`FillSettings`](../aspose.psd.fileformats.psd.layers.filllayers/filllayer/fillsettings/)。 |
 
 

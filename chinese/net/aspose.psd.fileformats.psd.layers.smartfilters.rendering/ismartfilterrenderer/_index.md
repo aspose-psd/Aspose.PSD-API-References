@@ -1,14 +1,15 @@
 ---
-title: Interface ISmartFilterRenderer
-second_title: Aspose.PSD for .NET API 参考
-description: Aspose.PSD.FileFormats.Psd.Layers.SmartFilters.Rendering.ISmartFilterRenderer 界面. 特定智能滤镜渲染器的接口
+title: "接口 ISmartFilterRenderer"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "Aspose.PSD.FileFormats.Psd.Layers.SmartFilters.Rendering.ISmartFilterRenderer 接口。特定智能滤镜渲染器的接口"
 type: docs
-weight: 3450
+weight: 3860
 url: /zh/net/aspose.psd.fileformats.psd.layers.smartfilters.rendering/ismartfilterrenderer/
 ---
+{{< psd/tize >}}
 ## ISmartFilterRenderer interface
 
-特定智能滤镜渲染器的接口。
+特定智能过滤器渲染器的接口。
 
 ```csharp
 public interface ISmartFilterRenderer
@@ -16,23 +17,23 @@ public interface ISmartFilterRenderer
 
 ## 方法
 
-| 姓名 | 描述 |
+| 名称 | 描述 |
 | --- | --- |
-| [Render](../../aspose.psd.fileformats.psd.layers.smartfilters.rendering/ismartfilterrenderer/render/)(PixelsData) | 在像素数据上呈现当前智能滤镜。 |
+| [Render](../../aspose.psd.fileformats.psd.layers.smartfilters.rendering/ismartfilterrenderer/render/)(PixelsData) | 在像素数据上渲染当前智能滤镜。 |
 
-### 例子
+## 示例
 
-以下代码向您展示了如何创建具有自定义渲染器的自定义智能过滤器。
+以下代码展示了如何创建具有自定义渲染器的自定义智能滤镜。
 
 ```csharp
 [C#]
 
 public void CustomSmartFilterExample(string sourceFile = "psdnet1057.psd", string outputPsd = "out_psdnet1057.psd", string outputPng = "out_psdnet1057.png")
 {
-    // 在输入数组中初始化不受支持的“Crystallize”智能过滤器
+    // 在输入数组中初始化不受支持的 'Crystallize' 智能滤镜
     SmartFilter[] InitUnknownSmartFilters(SmartFilter[] smartFilters)
     {
-        // 'Crystallize' 智能过滤器 ID。
+        // 'Crystallize' 智能滤镜 ID。
         int id = 1131574132;
 
         for (int i = 0; i < smartFilters.Length; i++)
@@ -58,14 +59,14 @@ public void CustomSmartFilterExample(string sourceFile = "psdnet1057.psd", strin
         smartLayer.SmartFilters.Filters = InitUnknownSmartFilters(smartLayer.SmartFilters.Filters);
         var smartFilter = smartLayer.SmartFilters.Filters[0];
 
-        // 将过滤器应用到 SmartObject
+        // 将滤镜应用于 SmartObject
         smartLayer.UpdateModifiedContent();
         smartLayer.SmartFilters.UpdateResourceValues();
 
-        // 对图层蒙版应用滤镜
+        // 将滤镜应用于图层蒙版
         smartFilter.ApplyToMask(maskLayer);
 
-        //对图层应用滤镜
+        //将滤镜应用于图层
         smartFilter.Apply(regularLayer);
 
         image.Save(outputPsd);
@@ -82,15 +83,15 @@ public sealed class CustomSmartFilterWithRenderer : SmartFilter, ISmartFilterRen
 
     public override int FilterId
     {
-        // 'Crystallize' 智能过滤器 ID。
+        // 'Crystallize' 智能滤镜 ID。
         get { return 1131574132; }
     }
 
     public PixelsData Render(PixelsData pixelsData)
     {
-        // 获取过滤器结构
+        // 获取滤镜结构
         var filterDescriptor = (DescriptorStructure) this.SourceDescriptor.Structures[6];
-        // 获取结晶尺寸的值
+        // 获取 Crystallize 大小的值
         var valueStructure = (IntegerStructure) filterDescriptor.Structures[0];
 
         for (int i = 0; i < pixelsData.Pixels.Length; i++)
@@ -106,9 +107,9 @@ public sealed class CustomSmartFilterWithRenderer : SmartFilter, ISmartFilterRen
 }
 ```
 
-### 也可以看看
+### 另请参阅
 
-* 命名空间 [Aspose.PSD.FileFormats.Psd.Layers.SmartFilters.Rendering](../../aspose.psd.fileformats.psd.layers.smartfilters.rendering/)
-* 部件 [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.SmartFilters.Rendering](../../aspose.psd.fileformats.psd.layers.smartfilters.rendering/)
+* assembly [Aspose.PSD](../../)
 
 

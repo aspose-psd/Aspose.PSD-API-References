@@ -1,17 +1,18 @@
 ---
-title: Aspose.PSD.Dithering
-second_title: Aspose.PSD for .NET API 参考
-description: 命名空间为颜色抖动提供了不同的辅助类
+title: "Aspose.PSD.Dithering"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "该命名空间提供用于颜色抖动的不同帮助类。"
 type: docs
-weight: 70
+weight: 80
 url: /zh/net/aspose.psd.dithering/
 ---
-命名空间为颜色抖动提供了不同的辅助类。
+{{< psd/tize >}}
+该命名空间提供用于颜色抖动的不同帮助类。
 
-## 课程
+## 类
 
-| 班级 | 描述 |
+| 类 | 描述 |
 | --- | --- |
-| [DitheringMode](./ditheringmode/) | 保存时应用于图像的抖动设置。 |
+| [DitheringMode](./ditheringmode/) | 保存时要应用于图像的抖动设置。 |
 
 

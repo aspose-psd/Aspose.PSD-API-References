@@ -1,32 +1,33 @@
 ---
-title: PointExtensions.ToGdiPoints
-second_title: Aspose.PSD for .NET API 参考
-description: PointExtensions 方法. 转换PointF数组到PointF数组.
+title: "PointExtensions.ToGdiPoints"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "PointExtensions 方法。将 PointF 数组转换为 PointF 数组"
 type: docs
 weight: 20
 url: /zh/net/aspose.psd.extensions/pointextensions/togdipoints/
 ---
+{{< psd/tize >}}
 ## PointExtensions.ToGdiPoints method
 
-转换[`PointF`](../../../aspose.psd/pointf/)数组到PointF数组.
+将 [`PointF`](../../../aspose.psd/pointf/) 数组转换为 PointF 数组。
 
 ```csharp
 public static PointF[] ToGdiPoints(PointF[] points)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| points | PointF[] | 这[`PointF`](../../../aspose.psd/pointf/)要转换的数组。 |
+| points | PointF[] | 要转换的 [`PointF`](../../../aspose.psd/pointf/) 数组。 |
 
 ### 返回值
 
-转换的PointF大批。
+已转换的 PointF 数组。
 
-### 也可以看看
+### 另请参阅
 
 * struct [PointF](../../../aspose.psd/pointf/)
 * class [PointExtensions](../)
-* 命名空间 [Aspose.PSD.Extensions](../../pointextensions/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Extensions](../../../aspose.psd.extensions/)
+* assembly [Aspose.PSD](../../../)
 
 

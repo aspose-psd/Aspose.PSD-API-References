@@ -1,23 +1,24 @@
 ---
-title: SizeF.Empty
-second_title: Aspose.PSD for .NET API 参考
-description: SizeF 财产. 获取一个新的实例SizeF具有的结构Width和Height值设置为零.
+title: "SizeF.Empty"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "SizeF 属性。获取一个 Width 和 Height 值均为零的新的 SizeF 结构实例。"
 type: docs
 weight: 20
 url: /zh/net/aspose.psd/sizef/empty/
 ---
+{{< psd/tize >}}
 ## SizeF.Empty property
 
-获取一个新的实例[`SizeF`](../)具有的结构[`Width`](../width/)和[`Height`](../height/)值设置为零.
+获取一个新的 [`SizeF`](../) 结构实例，其 [`Width`](../width/) 和 [`Height`](../height/) 值被设为零。
 
 ```csharp
 public static SizeF Empty { get; }
 ```
 
-### 也可以看看
+### 另请参阅
 
 * struct [SizeF](../)
-* 命名空间 [Aspose.PSD](../../sizef/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,28 +1,29 @@
 ---
-title: ExifData.FNumber
-second_title: Aspose.PSD for .NET API 参考
-description: ExifData 财产. 获取或设置 F 数
+title: "ExifData.FNumber"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "ExifData 属性。获取或设置 Fnumber"
 type: docs
 weight: 280
 url: /zh/net/aspose.psd.exif/exifdata/fnumber/
 ---
+{{< psd/tize >}}
 ## ExifData.FNumber property
 
-获取或设置 F 数。
+获取或设置光圈值。
 
 ```csharp
 public TiffRational FNumber { get; set; }
 ```
 
-### 适当的价值
+### Property Value
 
-F 编号。
+F-number。
 
-### 也可以看看
+### 另请参阅
 
 * class [TiffRational](../../../aspose.psd.fileformats.tiff/tiffrational/)
 * class [ExifData](../)
-* 命名空间 [Aspose.PSD.Exif](../../exifdata/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: DropShadowEffect.KnocksOut
-second_title: Aspose.PSD for .NET API 参考
-description: DropShadowEffect 财产. 获取或设置一个值指示是否 knocks out.
+title: "DropShadowEffect.KnocksOut"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "DropShadowEffect 属性。获取或设置指示是否击穿的值"
 type: docs
 weight: 70
 url: /zh/net/aspose.psd.fileformats.psd.layers.layereffects/dropshadoweffect/knocksout/
 ---
+{{< psd/tize >}}
 ## DropShadowEffect.KnocksOut property
 
-获取或设置一个值，指示是否 [knocks out].
+获取或设置指示是否 [knocks out] 的值。
 
 ```csharp
 public bool KnocksOut { get; set; }
 ```
 
-### 适当的价值
+### Property Value
 
-`真的`如果[击倒]；否则，`错误的` .
+`true` 如果 [knocks out]；否则，`false`。
 
-### 也可以看看
+### 另请参阅
 
 * class [DropShadowEffect](../)
-* 命名空间 [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../dropshadoweffect/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../../)
 
 

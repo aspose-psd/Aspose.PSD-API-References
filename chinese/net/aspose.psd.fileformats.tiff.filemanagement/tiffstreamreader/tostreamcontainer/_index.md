@@ -1,11 +1,12 @@
 ---
-title: TiffStreamReader.ToStreamContainer
-second_title: Aspose.PSD for .NET API 参考
-description: TiffStreamReader 方法. 将底层数据转换为流容器
+title: "TiffStreamReader.ToStreamContainer"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "TiffStreamReader 方法。将底层数据转换为流容器"
 type: docs
 weight: 230
 url: /zh/net/aspose.psd.fileformats.tiff.filemanagement/tiffstreamreader/tostreamcontainer/
 ---
+{{< psd/tize >}}
 ## TiffStreamReader.ToStreamContainer method
 
 将底层数据转换为流容器。
@@ -14,19 +15,19 @@ url: /zh/net/aspose.psd.fileformats.tiff.filemanagement/tiffstreamreader/tostrea
 public StreamContainer ToStreamContainer(long startPosition)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
 | startPosition | Int64 | 开始转换的起始位置。 |
 
 ### 返回值
 
-这[`StreamContainer`](../../../aspose.psd/streamcontainer/)与转换后的数据。
+带有转换后数据的 [`StreamContainer`](../../../aspose.psd/streamcontainer/)。
 
-### 也可以看看
+### 另请参阅
 
 * class [StreamContainer](../../../aspose.psd/streamcontainer/)
 * class [TiffStreamReader](../)
-* 命名空间 [Aspose.PSD.FileFormats.Tiff.FileManagement](../../tiffstreamreader/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff.FileManagement](../../../aspose.psd.fileformats.tiff.filemanagement/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: Timecode.GetXmpRepresentation
-second_title: Aspose.PSD for .NET API 参考
-description: Timecode 方法. 返回包含 XMP 格式的字符串值
+title: "Timecode.GetXmpRepresentation"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "Timecode 方法. 返回 XMP 格式中包含的字符串值"
 type: docs
 weight: 60
 url: /zh/net/aspose.psd.xmp.schemas.xmpdm/timecode/getxmprepresentation/
 ---
+{{< psd/tize >}}
 ## Timecode.GetXmpRepresentation method
 
-返回包含 XMP 格式的字符串值。
+返回 XMP 格式的字符串包含值。
 
 ```csharp
 public override string GetXmpRepresentation()
@@ -16,12 +17,12 @@ public override string GetXmpRepresentation()
 
 ### 返回值
 
-以 XMP 格式返回包含字符串的值。
+返回 XMP 格式的字符串包含值。
 
-### 也可以看看
+### 另请参阅
 
 * class [Timecode](../)
-* 命名空间 [Aspose.PSD.Xmp.Schemas.XmpDm](../../timecode/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpDm](../../../aspose.psd.xmp.schemas.xmpdm/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: Struct Color
-second_title: Aspose.PSD for .NET API 参考
-description: Aspose.PSD.Color 结构. 像素的颜色
+title: "Color 结构体"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "Aspose.PSD.Color 结构体。像素的颜色"
 type: docs
 weight: 290
 url: /zh/net/aspose.psd/color/
 ---
+{{< psd/tize >}}
 ## Color structure
 
 像素的颜色。
@@ -14,9 +15,9 @@ url: /zh/net/aspose.psd/color/
 public struct Color
 ```
 
-## 特性
+## 属性
 
-| 姓名 | 描述 |
+| 名称 | 描述 |
 | --- | --- |
 | static [AliceBlue](../../aspose.psd/color/aliceblue/) { get; } | 获取系统定义的颜色。 |
 | static [AntiqueWhite](../../aspose.psd/color/antiquewhite/) { get; } | 获取系统定义的颜色。 |
@@ -60,7 +61,7 @@ public struct Color
 | static [DeepSkyBlue](../../aspose.psd/color/deepskyblue/) { get; } | 获取系统定义的颜色。 |
 | static [DimGray](../../aspose.psd/color/dimgray/) { get; } | 获取系统定义的颜色。 |
 | static [DodgerBlue](../../aspose.psd/color/dodgerblue/) { get; } | 获取系统定义的颜色。 |
-| static [Empty](../../aspose.psd/color/empty/) { get; } | 得到一个空的`Color` . |
+| static [Empty](../../aspose.psd/color/empty/) { get; } | 获取空的 `Color`。 |
 | static [Firebrick](../../aspose.psd/color/firebrick/) { get; } | 获取系统定义的颜色。 |
 | static [FloralWhite](../../aspose.psd/color/floralwhite/) { get; } | 获取系统定义的颜色。 |
 | static [ForestGreen](../../aspose.psd/color/forestgreen/) { get; } | 获取系统定义的颜色。 |
@@ -160,39 +161,45 @@ public struct Color
 | static [WhiteSmoke](../../aspose.psd/color/whitesmoke/) { get; } | 获取系统定义的颜色。 |
 | static [Yellow](../../aspose.psd/color/yellow/) { get; } | 获取系统定义的颜色。 |
 | static [YellowGreen](../../aspose.psd/color/yellowgreen/) { get; } | 获取系统定义的颜色。 |
-| [A](../../aspose.psd/color/a/) { get; } | 获取this的alpha分量值`Color`结构. |
-| [B](../../aspose.psd/color/b/) { get; } | 获取this的蓝色分量值`Color`结构. |
-| [G](../../aspose.psd/color/g/) { get; } | 获取this的绿色分量值`Color`结构. |
-| [IsEmpty](../../aspose.psd/color/isempty/) { get; } | 获取一个值，指示是否这`Color`结构未初始化. |
-| [IsKnownColor](../../aspose.psd/color/isknowncolor/) { get; } | 获取一个值，指示是否这`Color`结构是预定义的颜色。预定义的颜色由[`KnownColor`](../knowncolor/)枚举. |
-| [IsNamedColor](../../aspose.psd/color/isnamedcolor/) { get; } | 获取一个值，指示是否这`Color`结构是命名颜色或[`KnownColor`](../knowncolor/)枚举. |
-| [Name](../../aspose.psd/color/name/) { get; } | 获取这个的名字`Color` . |
-| [R](../../aspose.psd/color/r/) { get; } | 获取this的红色分量值`Color`结构. |
+| [A](../../aspose.psd/color/a/) { get; } | 获取此 `Color` 结构的 alpha 分量值。 |
+| [B](../../aspose.psd/color/b/) { get; } | 获取此 `Color` 结构的 blue 分量值。 |
+| [G](../../aspose.psd/color/g/) { get; } | 获取此 `Color` 结构的 green 分量值。 |
+| [IsEmpty](../../aspose.psd/color/isempty/) { get; } | 获取一个值，指示此 `Color` 结构是否未初始化。 |
+| [IsKnownColor](../../aspose.psd/color/isknowncolor/) { get; } | 获取一个值，指示此 `Color` 结构是否为预定义颜色。预定义颜色由 [`KnownColor`](../knowncolor/) 枚举的元素表示。 |
+| [IsNamedColor](../../aspose.psd/color/isnamedcolor/) { get; } | 获取一个值，指示此 `Color` 结构是命名颜色还是 [`KnownColor`](../knowncolor/) 枚举的成员。 |
+| [Name](../../aspose.psd/color/name/) { get; } | 获取此 `Color` 的名称。 |
+| [R](../../aspose.psd/color/r/) { get; } | 获取此 `Color` 结构的红色分量值。 |
 
 ## 方法
 
-| 姓名 | 描述 |
+| 名称 | 描述 |
 | --- | --- |
-| static [FromArgb](../../aspose.psd/color/fromargb/#fromargb)(int) | 创建一个`Color`来自 32 位 ARGB 值的结构. |
-| static [FromArgb](../../aspose.psd/color/fromargb/#fromargb_1)(int, Color) | 创建一个`Color`从指定的结构`Color`结构，但具有新指定的 alpha 值。尽管此方法允许为 alpha 值传递 32 位值，但该值被限制为 8 位。 |
-| static [FromArgb](../../aspose.psd/color/fromargb/#fromargb_2)(int, int, int) | 创建一个`Color`来自指定 8 位颜色值（红色、绿色和蓝色）的结构。 alpha 值隐式为 255（完全不透明）。虽然此方法允许为每个颜色分量传递一个 32 位的值，但每个分量的值被限制为 8 位。 |
-| static [FromArgb](../../aspose.psd/color/fromargb/#fromargb_3)(int, int, int, int) | 创建一个`Color`来自四个 ARGB 分量（alpha、红色、绿色和蓝色）值的结构。虽然此方法允许为每个组件传递一个 32 位的值，但每个组件的值被限制为 8 位。 |
-| static [FromKnownColor](../../aspose.psd/color/fromknowncolor/)(KnownColor) | 创建一个`Color`来自指定预定义颜色的结构. |
-| static [FromName](../../aspose.psd/color/fromname/)(string) | 创建一个`Color`来自预定义颜色的指定名称的结构. |
-| override [Equals](../../aspose.psd/color/equals/)(object) | 测试指定对象是否是`Color`结构，相当于这个`Color`结构. |
-| [GetBrightness](../../aspose.psd/color/getbrightness/)() | 获取此色调-饱和度-亮度 (HSB) 亮度值`Color`结构. |
-| override [GetHashCode](../../aspose.psd/color/gethashcode/)() | 返回一个散列码`Color`结构. |
-| [GetHue](../../aspose.psd/color/gethue/)() | 获取色调-饱和度-亮度 (HSB) 色调值，以度为单位，为此`Color`结构. |
-| [GetSaturation](../../aspose.psd/color/getsaturation/)() | 获取此色调-饱和度-亮度 (HSB) 饱和度值`Color`结构. |
-| [ToArgb](../../aspose.psd/color/toargb/)() | 得到这个的32位ARGB值`Color`结构. |
-| [ToKnownColor](../../aspose.psd/color/toknowncolor/)() | 获取[`KnownColor`](../knowncolor/)这个的价值`Color`结构. |
-| override [ToString](../../aspose.psd/color/tostring/)() | 转换这个`Color`结构为人类可读的字符串. |
-| [operator ==](../../aspose.psd/color/op_equality/) | 测试是否指定了两个`Color`结构是等价的。 |
-| [operator !=](../../aspose.psd/color/op_inequality/) | 测试是否指定了两个`Color`结构不同. |
+| static [FromArgb](../../aspose.psd/color/fromargb/#fromargb)(int) | 从 32 位 ARGB 值创建一个 `Color` 结构。 |
+| static [FromArgb](../../aspose.psd/color/fromargb/#fromargb_1)(int, Color) | 从指定的 `Color` 结构创建一个 `Color` 结构，但使用新的指定 alpha 值。虽然此方法允许传入 32 位的 alpha 值，但该值限制为 8 位。 |
+| static [FromArgb](../../aspose.psd/color/fromargb/#fromargb_2)(int, int, int) | 从指定的 8 位颜色值（红、绿、蓝）创建一个 `Color` 结构。alpha 值隐式为 255（完全不透明）。虽然此方法允许为每个颜色分量传入 32 位值，但每个分量的值限制为 8 位。 |
+| static [FromArgb](../../aspose.psd/color/fromargb/#fromargb_3)(int, int, int, int) | 从四个 ARGB 分量（alpha、红、绿、蓝）值创建一个 `Color` 结构。虽然此方法允许为每个分量传入 32 位值，但每个分量的值限制为 8 位。 |
+| static [FromKnownColor](../../aspose.psd/color/fromknowncolor/)(KnownColor) | 从指定的预定义颜色创建一个 `Color` 结构。 |
+| static [FromName](../../aspose.psd/color/fromname/)(string) | 从指定的预定义颜色名称创建一个 `Color` 结构。 |
+| override [Equals](../../aspose.psd/color/equals/)(object) | 测试指定的对象是否为 `Color` 结构且等价于此 `Color` 结构。 |
+| [GetBrightness](../../aspose.psd/color/getbrightness/)() | 获取此 `Color` 结构的色相-饱和度-亮度（HSB）亮度值。 |
+| override [GetHashCode](../../aspose.psd/color/gethashcode/)() | 返回此 `Color` 结构的哈希码。 |
+| [GetHue](../../aspose.psd/color/gethue/)() | 获取此 `Color` 结构的色相-饱和度-亮度（HSB）色相值（以度为单位）。 |
+| [GetSaturation](../../aspose.psd/color/getsaturation/)() | 获取此 `Color` 结构的色相-饱和度-亮度（HSB）饱和度值。 |
+| [ToArgb](../../aspose.psd/color/toargb/)() | 获取此 `Color` 结构的 32 位 ARGB 值。 |
+| [ToKnownColor](../../aspose.psd/color/toknowncolor/)() | 获取此 `Color` 结构的 [`KnownColor`](../knowncolor/) 值。 |
+| override [ToString](../../aspose.psd/color/tostring/)() | 将此 `Color` 结构转换为人类可读的字符串。 |
+| static [ToCmyk](../../aspose.psd/color/tocmyk/#tocmyk)(Color) | 从 Color 转换为 CMYKColor。此方法已弃用。请使用更有效的 [`ToCmyk`](../cmykcolorhelper/tocmyk/)。 |
+| static [ToCmyk](../../aspose.psd/color/tocmyk/#tocmyk_1)(Color[]) | 从 Color 转换为 CMYKColor。此方法已弃用。请使用更有效的 [`ToCmyk`](../cmykcolorhelper/tocmyk/)。 |
+| static [ToCmykIcc](../../aspose.psd/color/tocmykicc/#tocmykicc)(Color) | 使用默认配置文件的 ICC 转换将 Color 转换为 CMYKColor。此方法已弃用。请使用更有效的 [`ToCmykIcc`](../cmykcolorhelper/tocmykicc/)。 |
+| static [ToCmykIcc](../../aspose.psd/color/tocmykicc/#tocmykicc_2)(Color[]) | 使用默认配置文件的 ICC 转换将 Color 转换为 CMYKColor。此方法已弃用。请使用更有效的 [`ToCmykIcc`](../cmykcolorhelper/tocmykicc/)。 |
+| static [ToCmykIcc](../../aspose.psd/color/tocmykicc/#tocmykicc_1)(Color, Stream, Stream) | 使用默认配置文件的 ICC 转换将 Color 转换为 CMYKColor。此方法已弃用。请使用更有效的 [`ToCmykIcc`](../cmykcolorhelper/tocmykicc/)。 |
+| static [ToCmykIcc](../../aspose.psd/color/tocmykicc/#tocmykicc_3)(Color[], Stream, Stream) | 使用 ICC 转换将 Color 转换为 CMYKColor。此方法已弃用。请使用更有效的 [`ToCmykIcc`](../cmykcolorhelper/tocmykicc/)。 |
+| [operator ==](../../aspose.psd/color/op_equality/) | 测试两个指定的 `Color` 结构是否等价。 |
+| [operator !=](../../aspose.psd/color/op_inequality/) | 测试两个指定的 `Color` 结构是否不同。 |
 
-### 也可以看看
+### 另请参阅
 
-* 命名空间 [Aspose.PSD](../../aspose.psd/)
-* 部件 [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

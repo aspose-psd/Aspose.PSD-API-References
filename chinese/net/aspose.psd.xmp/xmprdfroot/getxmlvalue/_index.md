@@ -1,11 +1,12 @@
 ---
-title: XmpRdfRoot.GetXmlValue
-second_title: Aspose.PSD for .NET API 参考
-description: XmpRdfRoot 方法. 将 xmp 值转换为 xml 表示
+title: "XmpRdfRoot.GetXmlValue"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "XmpRdfRoot 方法。将 xmp 值转换为 xml 表示"
 type: docs
 weight: 30
 url: /zh/net/aspose.psd.xmp/xmprdfroot/getxmlvalue/
 ---
+{{< psd/tize >}}
 ## XmpRdfRoot.GetXmlValue method
 
 将 xmp 值转换为 xml 表示。
@@ -18,10 +19,10 @@ public string GetXmlValue()
 
 返回转换为 XML 字符串的 XMP 值。
 
-### 也可以看看
+### 另请参阅
 
 * class [XmpRdfRoot](../)
-* 命名空间 [Aspose.PSD.Xmp](../../xmprdfroot/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: VogkResource.ShapeOriginSettings
-second_title: Aspose.PSD for .NET API 参考
-description: VogkResource 财产. 获取或设置形状原点设置
+title: "VogkResource.ShapeOriginSettings"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "VogkResource 属性。获取或设置形状原点设置"
 type: docs
-weight: 50
+weight: 30
 url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources/vogkresource/shapeoriginsettings/
 ---
+{{< psd/tize >}}
 ## VogkResource.ShapeOriginSettings property
 
 获取或设置形状原点设置。
@@ -14,7 +15,7 @@ url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources/vogkresource/shape
 public VectorShapeOriginSettings[] ShapeOriginSettings { get; set; }
 ```
 
-### 例子
+## 示例
 
 以下示例演示了 VogkResource 资源的支持。
 
@@ -51,7 +52,7 @@ using (var psdImage = (PsdImage)Image.Load(sourceFilePath))
 {
     var resource = GetVogkResource(psdImage);
 
-    // 阅读
+    // 读取
     if (resource.ShapeOriginSettings.Length != 1 ||
         !resource.ShapeOriginSettings[0].IsShapeInvalidated ||
         resource.ShapeOriginSettings[0].OriginIndex != 0)
@@ -70,11 +71,11 @@ using (var psdImage = (PsdImage)Image.Load(sourceFilePath))
 }
 ```
 
-### 也可以看看
+### 另请参阅
 
 * class [VectorShapeOriginSettings](../../../aspose.psd.fileformats.core.vectorpaths/vectorshapeoriginsettings/)
 * class [VogkResource](../)
-* 命名空间 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../vogkresource/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

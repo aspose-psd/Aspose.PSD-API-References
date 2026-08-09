@@ -1,32 +1,33 @@
 ---
-title: FileFormatExtensions.IsSingleFormatDefined
-second_title: Aspose.PSD for .NET API 参考
-description: FileFormatExtensions 方法. 判断是否定义了单一文件格式
+title: "FileFormatExtensions.IsSingleFormatDefined"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "FileFormatExtensions 方法。确定是否已定义单个文件格式"
 type: docs
 weight: 10
 url: /zh/net/aspose.psd.extensions/fileformatextensions/issingleformatdefined/
 ---
+{{< psd/tize >}}
 ## FileFormatExtensions.IsSingleFormatDefined method
 
-判断是否定义了单一文件格式。
+确定是否已定义单个文件格式。
 
 ```csharp
 public static bool IsSingleFormatDefined(FileFormat fileFormat)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
 | fileFormat | FileFormat | 要检查的文件格式。 |
 
 ### 返回值
 
-`真的`如果定义了单一文件格式；否则，`错误的` .
+`True` 表示已定义单个文件格式；否则为 `false`。
 
-### 也可以看看
+### 另请参阅
 
 * enum [FileFormat](../../../aspose.psd/fileformat/)
 * class [FileFormatExtensions](../)
-* 命名空间 [Aspose.PSD.Extensions](../../fileformatextensions/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Extensions](../../../aspose.psd.extensions/)
+* assembly [Aspose.PSD](../../../)
 
 

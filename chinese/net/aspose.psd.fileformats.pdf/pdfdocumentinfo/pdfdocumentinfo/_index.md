@@ -1,11 +1,12 @@
 ---
-title: PdfDocumentInfo.PdfDocumentInfo
-second_title: Aspose.PSD for .NET API 参考
-description: PdfDocumentInfo 构造函数. 默认构造函数
+title: "PdfDocumentInfo.PdfDocumentInfo"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "PdfDocumentInfo 构造函数。默认构造函数"
 type: docs
 weight: 10
 url: /zh/net/aspose.psd.fileformats.pdf/pdfdocumentinfo/pdfdocumentinfo/
 ---
+{{< psd/tize >}}
 ## PdfDocumentInfo constructor
 
 默认构造函数。
@@ -14,10 +15,10 @@ url: /zh/net/aspose.psd.fileformats.pdf/pdfdocumentinfo/pdfdocumentinfo/
 public PdfDocumentInfo()
 ```
 
-### 也可以看看
+### 另请参阅
 
 * class [PdfDocumentInfo](../)
-* 命名空间 [Aspose.PSD.FileFormats.Pdf](../../pdfdocumentinfo/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Pdf](../../../aspose.psd.fileformats.pdf/)
+* assembly [Aspose.PSD](../../../)
 
 

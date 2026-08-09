@@ -1,11 +1,12 @@
 ---
-title: CustomLineCap.StrokePath
-second_title: Aspose.PSD for .NET API 参考
-description: CustomLineCap 财产. 获取或设置定义自定义帽轮廓的对象
+title: "CustomLineCap.StrokePath"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "CustomLineCap 属性。获取或设置定义自定义帽轮廓的对象。"
 type: docs
 weight: 60
 url: /zh/net/aspose.psd/customlinecap/strokepath/
 ---
+{{< psd/tize >}}
 ## CustomLineCap.StrokePath property
 
 获取或设置定义自定义帽轮廓的对象。
@@ -14,15 +15,15 @@ url: /zh/net/aspose.psd/customlinecap/strokepath/
 public GraphicsPath StrokePath { get; set; }
 ```
 
-### 适当的价值
+### Property Value
 
 定义自定义帽轮廓的对象。
 
-### 也可以看看
+### 另请参阅
 
 * class [GraphicsPath](../../graphicspath/)
 * class [CustomLineCap](../)
-* 命名空间 [Aspose.PSD](../../customlinecap/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

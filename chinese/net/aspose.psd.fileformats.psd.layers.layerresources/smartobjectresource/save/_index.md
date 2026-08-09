@@ -1,11 +1,12 @@
 ---
-title: SmartObjectResource.Save
-second_title: Aspose.PSD for .NET API 参考
-description: SmartObjectResource 方法. 将智能对象资源保存到指定的流容器中
+title: "SmartObjectResource.Save"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "SmartObjectResource 方法。将智能对象资源保存到指定的流容器"
 type: docs
-weight: 260
+weight: 240
 url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/save/
 ---
+{{< psd/tize >}}
 ## SmartObjectResource.Save method
 
 将智能对象资源保存到指定的流容器中。
@@ -14,16 +15,16 @@ url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources/smartobjectresourc
 public override void Save(StreamContainer streamContainer, int psdVersion)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
 | streamContainer | StreamContainer | 要保存到的流容器。 |
 | psdVersion | Int32 | PSD 版本。 |
 
-### 也可以看看
+### 另请参阅
 
 * class [StreamContainer](../../../aspose.psd/streamcontainer/)
 * class [SmartObjectResource](../)
-* 命名空间 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../smartobjectresource/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

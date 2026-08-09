@@ -1,11 +1,12 @@
 ---
-title: OffsetStructure.Value
-second_title: Aspose.PSD for .NET API 参考
-description: OffsetStructure 财产. 获取或设置整数值
+title: "OffsetStructure.Value"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "OffsetStructure 属性。获取或设置整数值"
 type: docs
 weight: 60
 url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/offsetstructure/value/
 ---
+{{< psd/tize >}}
 ## OffsetStructure.Value property
 
 获取或设置整数值。
@@ -14,14 +15,14 @@ url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostruct
 public int Value { get; set; }
 ```
 
-### 适当的价值
+### Property Value
 
 整数值。
 
-### 也可以看看
+### 另请参阅
 
 * class [OffsetStructure](../)
-* 命名空间 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../offsetstructure/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,37 +1,38 @@
 ---
-title: ImageLoadersRegistry.GetFirstSupportedDescriptorByTypeName
-second_title: Aspose.PSD for .NET API 参考
-description: ImageLoadersRegistry 方法. 通过其类型名称获取第一个支持的描述符
+title: "ImageLoadersRegistry.GetFirstSupportedDescriptorByTypeName"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "ImageLoadersRegistry 方法。根据其类型名称获取第一个受支持的描述符"
 type: docs
 weight: 60
 url: /zh/net/aspose.psd/imageloadersregistry/getfirstsupporteddescriptorbytypename/
 ---
+{{< psd/tize >}}
 ## ImageLoadersRegistry.GetFirstSupportedDescriptorByTypeName method
 
-通过其类型名称获取第一个支持的描述符。
+通过类型名称获取第一个受支持的描述符。
 
 ```csharp
 public static IImageLoaderDescriptor GetFirstSupportedDescriptorByTypeName(
     string descriptorTypeName)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
 | descriptorTypeName | String | 描述符类型名称。 |
 
 ### 返回值
 
-第一个找到的加载器描述符，如果没有找到这样的描述符则为 null。
+如果未找到此类描述符，则返回第一个找到的加载器描述符或 null。
 
-### 评论
+## 备注
 
 第一个加载器描述符实际上是最后注册的。
 
-### 也可以看看
+### 另请参阅
 
 * interface [IImageLoaderDescriptor](../../iimageloaderdescriptor/)
 * class [ImageLoadersRegistry](../)
-* 命名空间 [Aspose.PSD](../../imageloadersregistry/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

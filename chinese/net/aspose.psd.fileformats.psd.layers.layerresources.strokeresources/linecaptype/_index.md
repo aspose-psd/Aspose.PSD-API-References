@@ -1,11 +1,12 @@
 ---
-title: Enum LineCapType
-second_title: Aspose.PSD for .NET API 参考
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.StrokeResources.LineCapType 枚举. 线帽类型
+title: "枚举 LineCapType"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "Aspose.PSD.FileFormats.Psd.Layers.LayerResources.StrokeResources.LineCapType 枚举。线帽类型"
 type: docs
-weight: 3040
+weight: 3400
 url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources.strokeresources/linecaptype/
 ---
+{{< psd/tize >}}
 ## LineCapType enumeration
 
 线帽类型。
@@ -14,17 +15,17 @@ url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources.strokeresources/li
 public enum LineCapType : short
 ```
 
-### 价值观
+### 值
 
-| 姓名 | 价值 | 描述 |
+| 名称 | 值 | 描述 |
 | --- | --- | --- |
-| RoundCap | `0` | 圆帽类型. |
-| SquareCap | `1` | 方盖类型. |
-| ButtCap | `2` | 枪托盖类型. |
+| RoundCap | `0` | 圆形帽类型。 |
+| SquareCap | `1` | 方形帽类型。 |
+| ButtCap | `2` | 平帽类型。 |
 
-### 例子
+## 示例
 
-下面的代码演示了对 VstkResource 资源的支持。
+以下代码演示了对 VstkResource 资源的支持。
 
 ```csharp
 [C#]
@@ -49,9 +50,9 @@ using (PsdImage image = (PsdImage)Image.Load(srcFile))
 }
 ```
 
-### 也可以看看
+### 另请参阅
 
-* 命名空间 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.StrokeResources](../../aspose.psd.fileformats.psd.layers.layerresources.strokeresources/)
-* 部件 [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.StrokeResources](../../aspose.psd.fileformats.psd.layers.layerresources.strokeresources/)
+* assembly [Aspose.PSD](../../)
 
 

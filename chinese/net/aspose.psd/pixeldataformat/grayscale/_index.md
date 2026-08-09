@@ -1,27 +1,28 @@
 ---
-title: PixelDataFormat.Grayscale
-second_title: Aspose.PSD for .NET API 参考
-description: PixelDataFormat 财产. 获取PixelDataFormat定义为每像素 8 位其中 8 位表示 0255 区间内的灰度强度
+title: "PixelDataFormat.Grayscale"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "PixelDataFormat 属性。获取为每像素 8 位定义的 PixelDataFormat，其中 8 位表示 0-255 区间的灰度强度。"
 type: docs
 weight: 30
 url: /zh/net/aspose.psd/pixeldataformat/grayscale/
 ---
+{{< psd/tize >}}
 ## PixelDataFormat.Grayscale property
 
-获取[`PixelDataFormat`](../)定义为每像素 8 位，其中 8 位表示 0-255 区间内的灰度强度。
+获取为每像素 8 位定义的 [`PixelDataFormat`](../)，其中 8 位表示 0-255 区间的灰度强度。
 
 ```csharp
 public static PixelDataFormat Grayscale { get; }
 ```
 
-### 适当的价值
+### Property Value
 
-的[`PixelDataFormat`](../)定义为每像素 8 位，其中 8 位表示 0-255 区间内的灰度强度。
+用于每像素8位的[`PixelDataFormat`](../)，其中8位表示0-255区间的灰度强度。
 
-### 也可以看看
+### 另请参阅
 
 * class [PixelDataFormat](../)
-* 命名空间 [Aspose.PSD](../../pixeldataformat/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

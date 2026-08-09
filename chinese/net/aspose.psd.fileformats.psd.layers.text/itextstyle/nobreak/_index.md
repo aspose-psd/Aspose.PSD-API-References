@@ -1,23 +1,24 @@
 ---
-title: ITextStyle.NoBreak
-second_title: Aspose.PSD for .NET API 参考
-description: ITextStyle 财产. 获取 ot 设置无中断值
+title: "ITextStyle.NoBreak"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "ITextStyle 属性。获取或设置不换行值"
 type: docs
 weight: 210
 url: /zh/net/aspose.psd.fileformats.psd.layers.text/itextstyle/nobreak/
 ---
+{{< psd/tize >}}
 ## ITextStyle.NoBreak property
 
-获取 ot 设置无中断值。
+获取或设置不换行值。
 
 ```csharp
 public bool NoBreak { get; set; }
 ```
 
-### 也可以看看
+### 另请参阅
 
 * interface [ITextStyle](../)
-* 命名空间 [Aspose.PSD.FileFormats.Psd.Layers.Text](../../itextstyle/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.Text](../../../aspose.psd.fileformats.psd.layers.text/)
+* assembly [Aspose.PSD](../../../)
 
 

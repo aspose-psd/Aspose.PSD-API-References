@@ -1,27 +1,28 @@
 ---
-title: Hue2Resource.Hue
-second_title: Aspose.PSD for .NET API 参考
-description: Hue2Resource 财产. 获取或设置主色调
+title: "Hue2Resource.Hue"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "Hue2Resource 属性。获取或设置主色相"
 type: docs
 weight: 30
 url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources/hue2resource/hue/
 ---
+{{< psd/tize >}}
 ## Hue2Resource.Hue property
 
-获取或设置主色调。
+获取或设置主色相。
 
 ```csharp
 public short Hue { get; set; }
 ```
 
-### 适当的价值
+### Property Value
 
-主色调.
+主色相。
 
-### 也可以看看
+### 另请参阅
 
 * class [Hue2Resource](../)
-* 命名空间 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../hue2resource/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: IopaResource.FillOpacity
-second_title: Aspose.PSD for .NET API 参考
-description: IopaResource 财产. 获取或设置填充不透明度
+title: "IopaResource.FillOpacity"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "IopaResource 属性。获取或设置填充不透明度"
 type: docs
 weight: 20
 url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources/ioparesource/fillopacity/
 ---
+{{< psd/tize >}}
 ## IopaResource.FillOpacity property
 
 获取或设置填充不透明度。
@@ -14,14 +15,14 @@ url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources/ioparesource/fillo
 public byte FillOpacity { get; set; }
 ```
 
-### 适当的价值
+### Property Value
 
 填充不透明度。
 
-### 也可以看看
+### 另请参阅
 
 * class [IopaResource](../)
-* 命名空间 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../ioparesource/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

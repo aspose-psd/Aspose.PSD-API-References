@@ -1,11 +1,12 @@
 ---
-title: BuildVersionInfo.AssemblyVersion
-second_title: Aspose.PSD for .NET API 参考
-description: BuildVersionInfo 场地. 程序集版本
+title: "BuildVersionInfo.AssemblyVersion"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "BuildVersionInfo 字段。程序集版本"
 type: docs
 weight: 10
 url: /zh/net/aspose.psd/buildversioninfo/assemblyversion/
 ---
+{{< psd/tize >}}
 ## BuildVersionInfo.AssemblyVersion field
 
 程序集版本。
@@ -14,10 +15,10 @@ url: /zh/net/aspose.psd/buildversioninfo/assemblyversion/
 public static readonly string AssemblyVersion;
 ```
 
-### 也可以看看
+### 另请参阅
 
 * class [BuildVersionInfo](../)
-* 命名空间 [Aspose.PSD](../../buildversioninfo/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

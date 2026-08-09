@@ -1,75 +1,76 @@
 ---
-title: Rectangle.Inflate
-second_title: Aspose.PSD for .NET API 参考
-description: Rectangle 方法. 创建并返回指定的膨胀副本Rectangle结构副本膨胀了指定的量原本的Rectangle结构保持不变.
+title: "Rectangle.Inflate"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "Rectangle 方法。创建并返回指定 Rectangle 结构的膨胀副本。副本按指定量进行膨胀。原始 Rectangle 结构保持不变。"
 type: docs
 weight: 60
 url: /zh/net/aspose.psd/rectangle/inflate/
 ---
+{{< psd/tize >}}
 ## Inflate(Rectangle, int, int)
 
-创建并返回指定的膨胀副本[`Rectangle`](../)结构。副本膨胀了指定的量。原本的[`Rectangle`](../)结构保持不变.
+创建并返回指定 [`Rectangle`](../) 结构的膨胀副本。副本按指定量进行膨胀。原始 [`Rectangle`](../) 结构保持不变。
 
 ```csharp
 public static Rectangle Inflate(Rectangle rect, int x, int y)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| rect | Rectangle | 这[`Rectangle`](../)从哪个开始。这个矩形没有被修改。 |
-| x | Int32 | 膨胀的数量[`Rectangle`](../)水平地。 |
-| y | Int32 | 膨胀的数量[`Rectangle`](../)垂直。 |
+| rect | Rectangle | 用于开始的 [`Rectangle`](../)。此矩形未被修改。 |
+| x | Int32 | 水平膨胀此 [`Rectangle`](../) 的量。 |
+| y | Int32 | 垂直膨胀此 [`Rectangle`](../) 的量。 |
 
 ### 返回值
 
-充气的[`Rectangle`](../).
+膨胀后的 [`Rectangle`](../)。
 
-### 也可以看看
+### 另请参阅
 
 * struct [Rectangle](../)
-* 命名空间 [Aspose.PSD](../../rectangle/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Inflate(int, int) {#inflate_1}
 
-膨胀这个[`Rectangle`](../)按指定数量.
+按指定量膨胀此 [`Rectangle`](../)。
 
 ```csharp
 public void Inflate(int width, int height)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| width | Int32 | 膨胀的数量[`Rectangle`](../)水平地。 |
-| height | Int32 | 膨胀的数量[`Rectangle`](../)垂直。 |
+| width | Int32 | 水平膨胀此 [`Rectangle`](../) 的量。 |
+| height | Int32 | 垂直膨胀此 [`Rectangle`](../) 的量。 |
 
-### 也可以看看
+### 另请参阅
 
 * struct [Rectangle](../)
-* 命名空间 [Aspose.PSD](../../rectangle/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Inflate(Size) {#inflate}
 
-膨胀这个[`Rectangle`](../)按指定数量.
+按指定量膨胀此 [`Rectangle`](../)。
 
 ```csharp
 public void Inflate(Size size)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| size | Size | 膨胀这个矩形的量。 |
+| 大小 | Size | 膨胀此矩形的量。 |
 
-### 也可以看看
+### 另请参阅
 
 * struct [Size](../../size/)
 * struct [Rectangle](../)
-* 命名空间 [Aspose.PSD](../../rectangle/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

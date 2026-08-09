@@ -1,11 +1,12 @@
 ---
-title: NvrtResource.TypeToolKey
-second_title: Aspose.PSD for .NET API 参考
-description: NvrtResource 场地. 类型工具信息键
+title: "NvrtResource.TypeToolKey"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "NvrtResource 字段。类型工具信息键。"
 type: docs
-weight: 60
+weight: 40
 url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources/nvrtresource/typetoolkey/
 ---
+{{< psd/tize >}}
 ## NvrtResource.TypeToolKey field
 
 类型工具信息键。
@@ -14,10 +15,10 @@ url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources/nvrtresource/typet
 public const int TypeToolKey;
 ```
 
-### 也可以看看
+### 另请参阅
 
 * class [NvrtResource](../)
-* 命名空间 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../nvrtresource/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: TiffOptions.FileStandard
-second_title: Aspose.PSD for .NET API 参考
-description: TiffOptions 财产. 获取或设置 TIFF 文件标准
+title: "TiffOptions.FileStandard"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "TiffOptions 属性。获取或设置 TIFF 文件标准"
 type: docs
-weight: 150
+weight: 160
 url: /zh/net/aspose.psd.imageoptions/tiffoptions/filestandard/
 ---
+{{< psd/tize >}}
 ## TiffOptions.FileStandard property
 
 获取或设置 TIFF 文件标准。
@@ -14,15 +15,15 @@ url: /zh/net/aspose.psd.imageoptions/tiffoptions/filestandard/
 public TiffFileStandards FileStandard { get; set; }
 ```
 
-### 适当的价值
+### Property Value
 
 TIFF 文件标准。
 
-### 也可以看看
+### 另请参阅
 
 * enum [TiffFileStandards](../../../aspose.psd.fileformats.tiff.enums/tifffilestandards/)
 * class [TiffOptions](../)
-* 命名空间 [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

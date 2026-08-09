@@ -1,29 +1,30 @@
 ---
-title: Enum ExifYCbCrPositioning
-second_title: Aspose.PSD for .NET API 参考
-description: Aspose.PSD.Exif.Enums.ExifYCbCrPositioning 枚举. exif y cb cr 定位枚举.
+title: "枚举 ExifYCbCrPositioning"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "Aspose.PSD.Exif.Enums.ExifYCbCrPositioning 枚举。exif y cb cr 定位枚举"
 type: docs
-weight: 980
+weight: 990
 url: /zh/net/aspose.psd.exif.enums/exifycbcrpositioning/
 ---
+{{< psd/tize >}}
 ## ExifYCbCrPositioning enumeration
 
-exif y cb cr 定位枚举.
+exif Y Cb Cr 定位枚举。
 
 ```csharp
 public enum ExifYCbCrPositioning
 ```
 
-### 价值观
+### 值
 
-| 姓名 | 价值 | 描述 |
+| 名称 | 值 | 描述 |
 | --- | --- | --- |
 | Centered | `1` | 居中 YCbCr |
-| CoSited | `2` | 联合定位 |
+| CoSited | `2` | 共址位置 |
 
-### 也可以看看
+### 另请参阅
 
-* 命名空间 [Aspose.PSD.Exif.Enums](../../aspose.psd.exif.enums/)
-* 部件 [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Exif.Enums](../../aspose.psd.exif.enums/)
+* assembly [Aspose.PSD](../../)
 
 

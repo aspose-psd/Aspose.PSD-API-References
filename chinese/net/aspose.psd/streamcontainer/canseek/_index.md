@@ -1,27 +1,28 @@
 ---
-title: StreamContainer.CanSeek
-second_title: Aspose.PSD for .NET API 参考
-description: StreamContainer 财产. 获取一个值表示stream是否支持seeking
+title: "StreamContainer.CanSeek"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "StreamContainer 属性。获取指示流是否支持定位的值"
 type: docs
 weight: 30
 url: /zh/net/aspose.psd/streamcontainer/canseek/
 ---
+{{< psd/tize >}}
 ## StreamContainer.CanSeek property
 
-获取一个值，表示stream是否支持seeking。
+获取一个值，指示流是否支持定位。
 
 ```csharp
 public virtual bool CanSeek { get; }
 ```
 
-### 适当的价值
+### Property Value
 
-`真的`如果流支持搜索；否则，`错误的`.
+`true` 表示流支持定位；否则为 `false`。
 
-### 也可以看看
+### 另请参阅
 
 * class [StreamContainer](../)
-* 命名空间 [Aspose.PSD](../../streamcontainer/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

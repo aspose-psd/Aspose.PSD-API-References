@@ -1,14 +1,15 @@
 ---
-title: Class LineSegment
-second_title: Aspose.PSD for .NET API 参考
-description: Aspose.PSD.ShapeSegments.LineSegment 班级. 表示从特定点直接引导到下一个点的段
+title: "类 LineSegment"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "Aspose.PSD.ShapeSegments.LineSegment 类。表示从特定点直接指向下一个点的线段。"
 type: docs
-weight: 5450
+weight: 5950
 url: /zh/net/aspose.psd.shapesegments/linesegment/
 ---
+{{< psd/tize >}}
 ## LineSegment class
 
-表示从特定点直接引导到下一个点的段。
+表示直接从特定点到下一个点的段。
 
 ```csharp
 public class LineSegment : ShapeSegment
@@ -16,21 +17,21 @@ public class LineSegment : ShapeSegment
 
 ## 构造函数
 
-| 姓名 | 描述 |
+| 名称 | 描述 |
 | --- | --- |
-| [LineSegment](linesegment/)(PointF, PointF) | 初始化一个新的实例`LineSegment`类. |
+| [LineSegment](linesegment/)(PointF, PointF) | 初始化 `LineSegment` 类的新实例。 |
 
-## 特性
+## 属性
 
-| 姓名 | 描述 |
+| 名称 | 描述 |
 | --- | --- |
-| override [EndPoint](../../aspose.psd.shapesegments/linesegment/endpoint/) { get; } | 获取终点。 |
-| override [StartPoint](../../aspose.psd.shapesegments/linesegment/startpoint/) { get; } | 获取起点。 |
+| override [EndPoint](../../aspose.psd.shapesegments/linesegment/endpoint/) { get; } | 获取结束点。 |
+| override [StartPoint](../../aspose.psd.shapesegments/linesegment/startpoint/) { get; } | 获取起始点。 |
 
-### 也可以看看
+### 另请参阅
 
 * class [ShapeSegment](../../aspose.psd/shapesegment/)
-* 命名空间 [Aspose.PSD.ShapeSegments](../../aspose.psd.shapesegments/)
-* 部件 [Aspose.PSD](../../)
+* namespace [Aspose.PSD.ShapeSegments](../../aspose.psd.shapesegments/)
+* assembly [Aspose.PSD](../../)
 
 

@@ -1,28 +1,29 @@
 ---
-title: ImageLoadersRegistry.UnregisterLoader
-second_title: Aspose.PSD for .NET API 参考
-description: ImageLoadersRegistry 方法. 注销加载程序
+title: "ImageLoadersRegistry.UnregisterLoader"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "ImageLoadersRegistry 方法。注销加载器"
 type: docs
 weight: 90
 url: /zh/net/aspose.psd/imageloadersregistry/unregisterloader/
 ---
+{{< psd/tize >}}
 ## ImageLoadersRegistry.UnregisterLoader method
 
-注销加载程序。
+注销加载器。
 
 ```csharp
 public static void UnregisterLoader(IImageLoaderDescriptor loaderDescriptor)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| loaderDescriptor | IImageLoaderDescriptor | 要取消注册的加载程序描述符。 |
+| loaderDescriptor | IImageLoaderDescriptor | 要注销的加载器描述符。 |
 
-### 也可以看看
+### 另请参阅
 
 * interface [IImageLoaderDescriptor](../../iimageloaderdescriptor/)
 * class [ImageLoadersRegistry](../)
-* 命名空间 [Aspose.PSD](../../imageloadersregistry/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

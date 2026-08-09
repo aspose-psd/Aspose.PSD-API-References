@@ -1,32 +1,33 @@
 ---
-title: TiffOptions.RemoveTag
-second_title: Aspose.PSD for .NET API 参考
-description: TiffOptions 方法. 删除标签
+title: "TiffOptions.RemoveTag"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "TiffOptions 方法。移除标签"
 type: docs
-weight: 740
+weight: 750
 url: /zh/net/aspose.psd.imageoptions/tiffoptions/removetag/
 ---
+{{< psd/tize >}}
 ## TiffOptions.RemoveTag method
 
-删除标签。
+移除该标签。
 
 ```csharp
 public bool RemoveTag(TiffTags tag)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| tag | TiffTags | 要删除的标记。 |
+| 标签 | TiffTags | 要移除的标签。 |
 
 ### 返回值
 
-如果成功移除则为真
+如果成功移除则为 true
 
-### 也可以看看
+### 另请参阅
 
 * enum [TiffTags](../../../aspose.psd.fileformats.tiff.enums/tifftags/)
 * class [TiffOptions](../)
-* 命名空间 [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: ExifData.SpectralSensitivity
-second_title: Aspose.PSD for .NET API 参考
-description: ExifData 财产. 获取或设置光谱灵敏度
+title: "ExifData.SpectralSensitivity"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "ExifData 属性。获取或设置光谱灵敏度。"
 type: docs
 weight: 970
 url: /zh/net/aspose.psd.exif/exifdata/spectralsensitivity/
 ---
+{{< psd/tize >}}
 ## ExifData.SpectralSensitivity property
 
 获取或设置光谱灵敏度。
@@ -14,14 +15,14 @@ url: /zh/net/aspose.psd.exif/exifdata/spectralsensitivity/
 public string SpectralSensitivity { get; set; }
 ```
 
-### 适当的价值
+### Property Value
 
 光谱灵敏度。
 
-### 也可以看看
+### 另请参阅
 
 * class [ExifData](../)
-* 命名空间 [Aspose.PSD.Exif](../../exifdata/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

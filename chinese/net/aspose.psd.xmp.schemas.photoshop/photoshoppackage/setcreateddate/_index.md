@@ -1,11 +1,12 @@
 ---
-title: PhotoshopPackage.SetCreatedDate
-second_title: Aspose.PSD for .NET API 参考
-description: PhotoshopPackage 方法. 设置创建日期
+title: "PhotoshopPackage.SetCreatedDate"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "PhotoshopPackage 方法。设置创建日期"
 type: docs
 weight: 90
 url: /zh/net/aspose.psd.xmp.schemas.photoshop/photoshoppackage/setcreateddate/
 ---
+{{< psd/tize >}}
 ## PhotoshopPackage.SetCreatedDate method
 
 设置创建日期。
@@ -14,14 +15,14 @@ url: /zh/net/aspose.psd.xmp.schemas.photoshop/photoshoppackage/setcreateddate/
 public void SetCreatedDate(DateTime createdDate)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
 | createdDate | DateTime | 创建日期。 |
 
-### 也可以看看
+### 另请参阅
 
 * class [PhotoshopPackage](../)
-* 命名空间 [Aspose.PSD.Xmp.Schemas.Photoshop](../../photoshoppackage/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.Photoshop](../../../aspose.psd.xmp.schemas.photoshop/)
+* assembly [Aspose.PSD](../../../)
 
 

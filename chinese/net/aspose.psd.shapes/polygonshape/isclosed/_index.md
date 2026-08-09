@@ -1,27 +1,28 @@
 ---
-title: PolygonShape.IsClosed
-second_title: Aspose.PSD for .NET API 参考
-description: PolygonShape 财产. 获取或设置一个表示形状是否闭合的值
+title: "PolygonShape.IsClosed"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "PolygonShape 属性。获取或设置指示形状是否闭合的值"
 type: docs
 weight: 60
 url: /zh/net/aspose.psd.shapes/polygonshape/isclosed/
 ---
+{{< psd/tize >}}
 ## PolygonShape.IsClosed property
 
-获取或设置一个表示形状是否闭合的值。
+获取或设置指示形状是否闭合的值。
 
 ```csharp
 public bool IsClosed { get; set; }
 ```
 
-### 适当的价值
+### Property Value
 
-`真的`如果形状是封闭的；否则，`错误的`.
+`true` 如果形状闭合；否则为 `false`。
 
-### 也可以看看
+### 另请参阅
 
 * class [PolygonShape](../)
-* 命名空间 [Aspose.PSD.Shapes](../../polygonshape/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,23 +1,24 @@
 ---
-title: LinkResource.Length
-second_title: Aspose.PSD for .NET API 参考
-description: LinkResource 财产. 获取以字节为单位的 PSD 全局链接资源长度
+title: "LinkResource.Length"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "LinkResource 属性。获取 PSD 全局链接资源的字节长度"
 type: docs
 weight: 40
 url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources/linkresource/length/
 ---
+{{< psd/tize >}}
 ## LinkResource.Length property
 
-获取以字节为单位的 PSD 全局链接资源长度。
+获取 PSD 全局链接资源的字节长度。
 
 ```csharp
 public override int Length { get; }
 ```
 
-### 也可以看看
+### 另请参阅
 
 * class [LinkResource](../)
-* 命名空间 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../linkresource/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

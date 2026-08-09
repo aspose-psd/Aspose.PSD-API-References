@@ -1,11 +1,12 @@
 ---
-title: SoCoResource.TypeToolKey
-second_title: Aspose.PSD for .NET API 参考
-description: SoCoResource 场地. 类型工具信息键
+title: "SoCoResource.TypeToolKey"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "SoCoResource 字段。类型工具信息键"
 type: docs
-weight: 80
+weight: 50
 url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources/socoresource/typetoolkey/
 ---
+{{< psd/tize >}}
 ## SoCoResource.TypeToolKey field
 
 类型工具信息键。
@@ -14,10 +15,10 @@ url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources/socoresource/typet
 public const int TypeToolKey;
 ```
 
-### 也可以看看
+### 另请参阅
 
 * class [SoCoResource](../)
-* 命名空间 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../socoresource/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

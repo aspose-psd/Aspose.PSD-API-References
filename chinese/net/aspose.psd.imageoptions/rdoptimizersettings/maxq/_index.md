@@ -1,11 +1,12 @@
 ---
-title: RdOptimizerSettings.MaxQ
-second_title: Aspose.PSD for .NET API 参考
-description: RdOptimizerSettings 财产. 获取或设置最大量化值
+title: "RdOptimizerSettings.MaxQ"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "RdOptimizerSettings 属性。获取或设置最大量化值"
 type: docs
 weight: 70
 url: /zh/net/aspose.psd.imageoptions/rdoptimizersettings/maxq/
 ---
+{{< psd/tize >}}
 ## RdOptimizerSettings.MaxQ property
 
 获取或设置最大量化值。
@@ -14,14 +15,14 @@ url: /zh/net/aspose.psd.imageoptions/rdoptimizersettings/maxq/
 public int MaxQ { get; set; }
 ```
 
-### 适当的价值
+### Property Value
 
 最大量化值。
 
-### 也可以看看
+### 另请参阅
 
 * class [RdOptimizerSettings](../)
-* 命名空间 [Aspose.PSD.ImageOptions](../../rdoptimizersettings/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

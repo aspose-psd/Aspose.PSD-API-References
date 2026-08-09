@@ -1,11 +1,12 @@
 ---
-title: XmpPackageBaseCollection.XmpPackageBaseCollection
-second_title: Aspose.PSD for .NET API 参考
-description: XmpPackageBaseCollection 构造函数. 默认构造函数
+title: "XmpPackageBaseCollection.XmpPackageBaseCollection"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "XmpPackageBaseCollection 构造函数。默认构造函数"
 type: docs
 weight: 10
 url: /zh/net/aspose.psd.xmp/xmppackagebasecollection/xmppackagebasecollection/
 ---
+{{< psd/tize >}}
 ## XmpPackageBaseCollection constructor
 
 默认构造函数。
@@ -14,10 +15,10 @@ url: /zh/net/aspose.psd.xmp/xmppackagebasecollection/xmppackagebasecollection/
 public XmpPackageBaseCollection()
 ```
 
-### 也可以看看
+### 另请参阅
 
 * class [XmpPackageBaseCollection](../)
-* 命名空间 [Aspose.PSD.Xmp](../../xmppackagebasecollection/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

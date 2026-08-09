@@ -1,27 +1,28 @@
 ---
-title: PngOptions.Progressive
-second_title: Aspose.PSD for .NET API 参考
-description: PngOptions 财产. 获取或设置一个值指示是否这PngOptions是进步的
+title: "PngOptions.Progressive"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "PngOptions 属性。获取或设置一个值，指示此 PngOptions 是否为渐进式。"
 type: docs
 weight: 60
 url: /zh/net/aspose.psd.imageoptions/pngoptions/progressive/
 ---
+{{< psd/tize >}}
 ## PngOptions.Progressive property
 
-获取或设置一个值，指示是否这[`PngOptions`](../)是进步的。
+获取或设置一个值，指示此 [`PngOptions`](../) 是否为渐进式。
 
 ```csharp
 public bool Progressive { get; set; }
 ```
 
-### 适当的价值
+### Property Value
 
-`真的`如果是进步的；否则，`错误的` .
+`true` 表示渐进式；否则为 `false`。
 
-### 也可以看看
+### 另请参阅
 
 * class [PngOptions](../)
-* 命名空间 [Aspose.PSD.ImageOptions](../../pngoptions/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

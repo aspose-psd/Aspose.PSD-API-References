@@ -1,23 +1,24 @@
 ---
-title: JpegOptions.VerticalSampling
-second_title: Aspose.PSD for .NET API 参考
-description: JpegOptions 财产. 获取或设置每个组件的垂直二次采样
+title: "JpegOptions.VerticalSampling"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "JpegOptions 属性。获取或设置每个组件的垂直子采样"
 type: docs
-weight: 200
+weight: 210
 url: /zh/net/aspose.psd.imageoptions/jpegoptions/verticalsampling/
 ---
+{{< psd/tize >}}
 ## JpegOptions.VerticalSampling property
 
-获取或设置每个组件的垂直二次采样。
+获取或设置每个分量的垂直子采样。
 
 ```csharp
 public byte[] VerticalSampling { get; set; }
 ```
 
-### 也可以看看
+### 另请参阅
 
 * class [JpegOptions](../)
-* 命名空间 [Aspose.PSD.ImageOptions](../../jpegoptions/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

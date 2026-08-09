@@ -1,32 +1,33 @@
 ---
-title: SizeF.Subtract
-second_title: Aspose.PSD for .NET API 参考
-description: SizeF 方法. 宽高减一SizeF另一个结构的宽度和高度SizeF结构.
+title: "SizeF.Subtract"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "SizeF 方法。将一个 SizeF 结构的宽度和高度从另一个 SizeF 结构的宽度和高度中减去。"
 type: docs
 weight: 40
 url: /zh/net/aspose.psd/sizef/subtract/
 ---
+{{< psd/tize >}}
 ## SizeF.Subtract method
 
-宽高减一[`SizeF`](../)另一个结构的宽度和高度[`SizeF`](../)结构.
+将一个 [`SizeF`](../) 结构的宽度和高度从另一个 [`SizeF`](../) 结构的宽度和高度中减去。
 
 ```csharp
 public static SizeF Subtract(SizeF size1, SizeF size2)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| size1 | SizeF | 这[`SizeF`](../)减法运算符左侧的结构。 |
-| size2 | SizeF | 这[`SizeF`](../)减法运算符右侧的结构。 |
+| size1 | SizeF | 减法运算符左侧的 [`SizeF`](../) 结构。 |
+| size2 | SizeF | 减法运算符右侧的 [`SizeF`](../) 结构。 |
 
 ### 返回值
 
-这[`SizeF`](../)这是减法运算的结果。
+减法运算的结果是 [`SizeF`](../)。
 
-### 也可以看看
+### 另请参阅
 
 * struct [SizeF](../)
-* 命名空间 [Aspose.PSD](../../sizef/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

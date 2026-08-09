@@ -1,11 +1,12 @@
 ---
-title: BlwhResource.UseTint
-second_title: Aspose.PSD for .NET API 参考
-description: BlwhResource 财产. 获取或设置一个值指示是否使用 tint color
+title: "BlwhResource.UseTint"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "BlwhResource 属性。获取或设置指示是否使用色调颜色的值"
 type: docs
-weight: 130
+weight: 110
 url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources/blwhresource/usetint/
 ---
+{{< psd/tize >}}
 ## BlwhResource.UseTint property
 
 获取或设置一个值，指示是否使用 [tint color]。
@@ -14,11 +15,11 @@ url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources/blwhresource/useti
 public bool UseTint { get; set; }
 ```
 
-### 适当的价值
+### Property Value
 
-`真的`如果使用[色调]；否则，`错误的` .
+`true` 如果使用[tint color]；否则，`false`。
 
-### 例子
+## 示例
 
 以下示例演示如何编辑 BlwhResource。
 
@@ -123,10 +124,10 @@ using (PsdImage im = (PsdImage)Image.Load(destinationFileName))
 AssertIsTrue(isRequiredResourceFound, "The specified BlwhResource not found");
 ```
 
-### 也可以看看
+### 另请参阅
 
 * class [BlwhResource](../)
-* 命名空间 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../blwhresource/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

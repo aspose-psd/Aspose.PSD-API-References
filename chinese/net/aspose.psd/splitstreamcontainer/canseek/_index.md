@@ -1,27 +1,28 @@
 ---
-title: SplitStreamContainer.CanSeek
-second_title: Aspose.PSD for .NET API 参考
-description: SplitStreamContainer 财产. 获取一个值表示stream是否支持seeking
+title: "SplitStreamContainer.CanSeek"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "SplitStreamContainer 属性。获取一个值，指示流是否支持定位（寻址）。"
 type: docs
 weight: 30
 url: /zh/net/aspose.psd/splitstreamcontainer/canseek/
 ---
+{{< psd/tize >}}
 ## SplitStreamContainer.CanSeek property
 
-获取一个值，表示stream是否支持seeking。
+获取一个值，指示流是否支持定位。
 
 ```csharp
 public override bool CanSeek { get; }
 ```
 
-### 适当的价值
+### Property Value
 
-`真的`如果流支持搜索；否则，`错误的`.
+`true` 表示流支持定位；否则为 `false`。
 
-### 也可以看看
+### 另请参阅
 
 * class [SplitStreamContainer](../)
-* 命名空间 [Aspose.PSD](../../splitstreamcontainer/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

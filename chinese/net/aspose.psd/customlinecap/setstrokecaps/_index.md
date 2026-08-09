@@ -1,29 +1,30 @@
 ---
-title: CustomLineCap.SetStrokeCaps
-second_title: Aspose.PSD for .NET API 参考
-description: CustomLineCap 方法. 设置用于开始和结束构成此自定义上限的行的上限
+title: "CustomLineCap.SetStrokeCaps"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "CustomLineCap 方法。设置用于开始和结束构成此自定义帽的线段的端帽"
 type: docs
 weight: 90
 url: /zh/net/aspose.psd/customlinecap/setstrokecaps/
 ---
+{{< psd/tize >}}
 ## CustomLineCap.SetStrokeCaps method
 
-设置用于开始和结束构成此自定义上限的行的上限。
+设置用于开始和结束构成此自定义帽的线段的帽子。
 
 ```csharp
 public void SetStrokeCaps(LineCap startCap, LineCap endCap)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| startCap | LineCap | 这[`LineCap`](../../linecap/)在此上限内一行开头使用的枚举。 |
-| endCap | LineCap | 这[`LineCap`](../../linecap/)在此上限内一行末尾使用的枚举。 |
+| startCap | LineCap | 此帽内线段起始处使用的 [`LineCap`](../../linecap/) 枚举。 |
+| endCap | LineCap | 此帽内线段结束处使用的 [`LineCap`](../../linecap/) 枚举。 |
 
-### 也可以看看
+### 另请参阅
 
 * enum [LineCap](../../linecap/)
 * class [CustomLineCap](../)
-* 命名空间 [Aspose.PSD](../../customlinecap/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

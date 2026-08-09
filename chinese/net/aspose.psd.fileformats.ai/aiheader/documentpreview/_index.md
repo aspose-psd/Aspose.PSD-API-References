@@ -1,11 +1,12 @@
 ---
-title: AiHeader.DocumentPreview
-second_title: Aspose.PSD for .NET API 参考
-description: AiHeader 财产. 获取或设置文档预览
+title: "AiHeader.DocumentPreview"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "AiHeader 属性。获取或设置文档预览"
 type: docs
 weight: 50
 url: /zh/net/aspose.psd.fileformats.ai/aiheader/documentpreview/
 ---
+{{< psd/tize >}}
 ## AiHeader.DocumentPreview property
 
 获取或设置文档预览。
@@ -14,14 +15,14 @@ url: /zh/net/aspose.psd.fileformats.ai/aiheader/documentpreview/
 public string DocumentPreview { get; set; }
 ```
 
-### 适当的价值
+### Property Value
 
-文档预览.
+文档预览。
 
-### 也可以看看
+### 另请参阅
 
 * class [AiHeader](../)
-* 命名空间 [Aspose.PSD.FileFormats.Ai](../../aiheader/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

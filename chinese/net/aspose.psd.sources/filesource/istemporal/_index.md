@@ -1,27 +1,28 @@
 ---
-title: FileSource.IsTemporal
-second_title: Aspose.PSD for .NET API 参考
-description: FileSource 财产. 获取一个值该值指示文件是否是临时的
+title: "FileSource.IsTemporal"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "FileSource 属性。获取指示文件是否为临时的值"
 type: docs
 weight: 10
 url: /zh/net/aspose.psd.sources/filesource/istemporal/
 ---
+{{< psd/tize >}}
 ## FileSource.IsTemporal property
 
-获取一个值，该值指示文件是否是临时的。
+获取指示文件是否为临时的值。
 
 ```csharp
 public abstract bool IsTemporal { get; }
 ```
 
-### 适当的价值
+### Property Value
 
-`真的`如果文件是暂时的；否则，`错误的` .
+`true` 如果文件将是临时的；否则为 `false`。
 
-### 也可以看看
+### 另请参阅
 
 * class [FileSource](../)
-* 命名空间 [Aspose.PSD.Sources](../../filesource/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Sources](../../../aspose.psd.sources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,20 +1,21 @@
 ---
-title: LengthRecord.ShapeIndex
-second_title: Aspose.PSD for .NET API 参考
-description: LengthRecord 财产. 获取或设置图层中当前路径形状的索引
+title: "LengthRecord.ShapeIndex"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "LengthRecord 属性。获取或设置当前层中路径形状的索引"
 type: docs
 weight: 70
 url: /zh/net/aspose.psd.fileformats.core.vectorpaths/lengthrecord/shapeindex/
 ---
+{{< psd/tize >}}
 ## LengthRecord.ShapeIndex property
 
-获取或设置图层中当前路径形状的索引。
+获取或设置当前层中路径形状的索引。
 
 ```csharp
 public ushort ShapeIndex { get; set; }
 ```
 
-### 例子
+## 示例
 
 以下代码示例演示了对新 LengthRecord 属性、PathOperations（布尔运算）、ShapeIndex 和 BezierKnotRecordsCount 的支持。
 
@@ -40,7 +41,7 @@ using (var im = (PsdImage)Image.Load(sourceFilePath))
     LengthRecord lengthRecord1 = (LengthRecord)resource.Paths[7];
     LengthRecord lengthRecord2 = (LengthRecord)resource.Paths[11];
 
-    // 这里我们改变了组合形状的方式。
+    // 这里我们改变了形状之间的组合方式。
     lengthRecord0.PathOperations = PathOperations.ExcludeOverlappingShapes;
     lengthRecord1.PathOperations = PathOperations.IntersectShapeAreas;
     lengthRecord2.PathOperations = PathOperations.SubtractFrontShape;
@@ -49,10 +50,10 @@ using (var im = (PsdImage)Image.Load(sourceFilePath))
 }
 ```
 
-### 也可以看看
+### 另请参阅
 
 * class [LengthRecord](../)
-* 命名空间 [Aspose.PSD.FileFormats.Core.VectorPaths](../../lengthrecord/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../../)
 
 

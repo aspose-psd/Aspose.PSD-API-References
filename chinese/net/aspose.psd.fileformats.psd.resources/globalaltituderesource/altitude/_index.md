@@ -1,27 +1,28 @@
 ---
-title: GlobalAltitudeResource.Altitude
-second_title: Aspose.PSD for .NET API 参考
-description: GlobalAltitudeResource 财产. 获取或设置海拔高度
+title: "GlobalAltitudeResource.Altitude"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "GlobalAltitudeResource 属性。获取或设置海拔"
 type: docs
 weight: 20
 url: /zh/net/aspose.psd.fileformats.psd.resources/globalaltituderesource/altitude/
 ---
+{{< psd/tize >}}
 ## GlobalAltitudeResource.Altitude property
 
-获取或设置海拔高度。
+获取或设置海拔。
 
 ```csharp
 public int Altitude { get; set; }
 ```
 
-### 适当的价值
+### Property Value
 
-海拔.
+海拔。
 
-### 也可以看看
+### 另请参阅
 
 * class [GlobalAltitudeResource](../)
-* 命名空间 [Aspose.PSD.FileFormats.Psd.Resources](../../globalaltituderesource/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

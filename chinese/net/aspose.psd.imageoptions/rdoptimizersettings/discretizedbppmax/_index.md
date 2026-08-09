@@ -1,27 +1,28 @@
 ---
-title: RdOptimizerSettings.DiscretizedBppMax
-second_title: Aspose.PSD for .NET API 参考
-description: RdOptimizerSettings 财产. 获取最大R值以供考虑
+title: "RdOptimizerSettings.DiscretizedBppMax"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "RdOptimizerSettings 属性。获取用于考虑的最大 R 值"
 type: docs
 weight: 50
 url: /zh/net/aspose.psd.imageoptions/rdoptimizersettings/discretizedbppmax/
 ---
+{{< psd/tize >}}
 ## RdOptimizerSettings.DiscretizedBppMax property
 
-获取最大R值以供考虑。
+获取用于考虑的最大 R 值。
 
 ```csharp
 public int DiscretizedBppMax { get; }
 ```
 
-### 适当的价值
+### Property Value
 
-考虑的最大R值。
+用于考虑的最大 R 值。
 
-### 也可以看看
+### 另请参阅
 
 * class [RdOptimizerSettings](../)
-* 命名空间 [Aspose.PSD.ImageOptions](../../rdoptimizersettings/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: SplitStreamContainer.ToBytes
-second_title: Aspose.PSD for .NET API 参考
-description: SplitStreamContainer 方法. 将流数据转换为Byte数组.
+title: "SplitStreamContainer.ToBytes"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "SplitStreamContainer 方法。将流数据转换为 Byte 数组"
 type: docs
 weight: 160
 url: /zh/net/aspose.psd/splitstreamcontainer/tobytes/
 ---
+{{< psd/tize >}}
 ## ToBytes() {#tobytes}
 
-将流数据转换为Byte数组.
+将流数据转换为 Byte 数组。
 
 ```csharp
 public override byte[] ToBytes()
@@ -16,37 +17,37 @@ public override byte[] ToBytes()
 
 ### 返回值
 
-流数据转换为Byte数组.
+已转换为 Byte 数组的流数据。
 
-### 也可以看看
+### 另请参阅
 
 * class [SplitStreamContainer](../)
-* 命名空间 [Aspose.PSD](../../splitstreamcontainer/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## ToBytes(long, long) {#tobytes_1}
 
-将流数据转换为Byte数组.
+将流数据转换为 Byte 数组。
 
 ```csharp
 public override byte[] ToBytes(long position, long bytesCount)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| position | Int64 | 开始读取字节的位置。 |
+| 位置 | Int64 | 开始读取字节的位置。 |
 | bytesCount | Int64 | 要读取的字节数。 |
 
 ### 返回值
 
-流数据转换为Byte数组.
+已转换为 Byte 数组的流数据。
 
-### 也可以看看
+### 另请参阅
 
 * class [SplitStreamContainer](../)
-* 命名空间 [Aspose.PSD](../../splitstreamcontainer/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

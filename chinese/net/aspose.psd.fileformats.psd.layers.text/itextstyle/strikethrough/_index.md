@@ -1,23 +1,24 @@
 ---
-title: ITextStyle.Strikethrough
-second_title: Aspose.PSD for .NET API 参考
-description: ITextStyle 财产. 获取或设置一个值该值指示是否 删除线.
+title: "ITextStyle.Strikethrough"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "ITextStyle 属性。获取或设置指示是否删除线的值"
 type: docs
 weight: 230
 url: /zh/net/aspose.psd.fileformats.psd.layers.text/itextstyle/strikethrough/
 ---
+{{< psd/tize >}}
 ## ITextStyle.Strikethrough property
 
-获取或设置一个值，该值指示是否 [删除线].
+获取或设置指示是否使用[strikethrough]的值。
 
 ```csharp
 public bool Strikethrough { get; set; }
 ```
 
-### 也可以看看
+### 另请参阅
 
 * interface [ITextStyle](../)
-* 命名空间 [Aspose.PSD.FileFormats.Psd.Layers.Text](../../itextstyle/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.Text](../../../aspose.psd.fileformats.psd.layers.text/)
+* assembly [Aspose.PSD](../../../)
 
 

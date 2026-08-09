@@ -1,11 +1,12 @@
 ---
-title: TiffStreamWriter.Position
-second_title: Aspose.PSD for .NET API 参考
-description: TiffStreamWriter 财产. 获取或设置流位置
+title: "TiffStreamWriter.Position"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "TiffStreamWriter 属性。获取或设置流位置"
 type: docs
 weight: 20
 url: /zh/net/aspose.psd.fileformats.tiff.filemanagement/tiffstreamwriter/position/
 ---
+{{< psd/tize >}}
 ## TiffStreamWriter.Position property
 
 获取或设置流位置。
@@ -14,14 +15,14 @@ url: /zh/net/aspose.psd.fileformats.tiff.filemanagement/tiffstreamwriter/positio
 public long Position { get; set; }
 ```
 
-### 适当的价值
+### Property Value
 
 流位置。
 
-### 也可以看看
+### 另请参阅
 
 * class [TiffStreamWriter](../)
-* 命名空间 [Aspose.PSD.FileFormats.Tiff.FileManagement](../../tiffstreamwriter/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff.FileManagement](../../../aspose.psd.fileformats.tiff.filemanagement/)
+* assembly [Aspose.PSD](../../../)
 
 

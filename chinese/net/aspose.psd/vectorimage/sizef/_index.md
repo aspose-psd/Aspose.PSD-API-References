@@ -1,28 +1,29 @@
 ---
-title: VectorImage.SizeF
-second_title: Aspose.PSD for .NET API 参考
-description: VectorImage 财产. 获取对象大小以英寸为单位
+title: "VectorImage.SizeF"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "VectorImage 属性。获取对象的尺寸（英寸）"
 type: docs
 weight: 30
 url: /zh/net/aspose.psd/vectorimage/sizef/
 ---
+{{< psd/tize >}}
 ## VectorImage.SizeF property
 
-获取对象大小，以英寸为单位。
+获取对象的尺寸（英寸）。
 
 ```csharp
 public SizeF SizeF { get; }
 ```
 
-### 适当的价值
+### Property Value
 
-对象大小，以英寸为单位。
+对象的尺寸（英寸）。
 
-### 也可以看看
+### 另请参阅
 
 * struct [SizeF](../../sizef/)
 * class [VectorImage](../)
-* 命名空间 [Aspose.PSD](../../vectorimage/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

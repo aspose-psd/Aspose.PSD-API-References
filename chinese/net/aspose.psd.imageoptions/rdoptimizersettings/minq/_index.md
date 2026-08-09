@@ -1,27 +1,28 @@
 ---
-title: RdOptimizerSettings.MinQ
-second_title: Aspose.PSD for .NET API 参考
-description: RdOptimizerSettings 财产. 获取最小允许量化值
+title: "RdOptimizerSettings.MinQ"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "RdOptimizerSettings 属性。获取允许的最小量化值"
 type: docs
 weight: 80
 url: /zh/net/aspose.psd.imageoptions/rdoptimizersettings/minq/
 ---
+{{< psd/tize >}}
 ## RdOptimizerSettings.MinQ property
 
-获取最小允许量化值。
+获取允许的最小量化值。
 
 ```csharp
 public int MinQ { get; }
 ```
 
-### 适当的价值
+### Property Value
 
-最小最小允许量化值。
+最小的最小允许量化值。
 
-### 也可以看看
+### 另请参阅
 
 * class [RdOptimizerSettings](../)
-* 命名空间 [Aspose.PSD.ImageOptions](../../rdoptimizersettings/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

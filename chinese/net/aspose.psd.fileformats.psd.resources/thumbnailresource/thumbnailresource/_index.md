@@ -1,11 +1,12 @@
 ---
-title: ThumbnailResource.ThumbnailResource
-second_title: Aspose.PSD for .NET API 参考
-description: ThumbnailResource 构造函数. 默认构造函数
+title: "ThumbnailResource.ThumbnailResource"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "ThumbnailResource 构造函数。默认构造函数"
 type: docs
 weight: 10
 url: /zh/net/aspose.psd.fileformats.psd.resources/thumbnailresource/thumbnailresource/
 ---
+{{< psd/tize >}}
 ## ThumbnailResource constructor
 
 默认构造函数。
@@ -14,10 +15,10 @@ url: /zh/net/aspose.psd.fileformats.psd.resources/thumbnailresource/thumbnailres
 public ThumbnailResource()
 ```
 
-### 也可以看看
+### 另请参阅
 
 * class [ThumbnailResource](../)
-* 命名空间 [Aspose.PSD.FileFormats.Psd.Resources](../../thumbnailresource/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

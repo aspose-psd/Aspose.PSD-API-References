@@ -1,11 +1,12 @@
 ---
-title: TextLayer.UpdateText
-second_title: Aspose.PSD for .NET API 参考
-description: TextLayer 方法. 更新文本
+title: "TextLayer.UpdateText"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "TextLayer 方法。更新文本"
 type: docs
-weight: 100
+weight: 110
 url: /zh/net/aspose.psd.fileformats.psd.layers/textlayer/updatetext/
 ---
+{{< psd/tize >}}
 ## UpdateText(string) {#updatetext}
 
 更新文本。
@@ -14,15 +15,15 @@ url: /zh/net/aspose.psd.fileformats.psd.layers/textlayer/updatetext/
 public void UpdateText(string text)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| text | String | 文本值。 |
+| 文本 | String | 文本值。 |
 
-### 也可以看看
+### 另请参阅
 
 * class [TextLayer](../)
-* 命名空间 [Aspose.PSD.FileFormats.Psd.Layers](../../textlayer/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
@@ -34,16 +35,16 @@ public void UpdateText(string text)
 public void UpdateText(string text, float fontSize)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| text | String | 文本值。 |
-| fontSize | Single | 字体的大小。 |
+| 文本 | String | 文本值。 |
+| 字体大小 | 单精度 | 字体的大小。 |
 
-### 也可以看看
+### 另请参阅
 
 * class [TextLayer](../)
-* 命名空间 [Aspose.PSD.FileFormats.Psd.Layers](../../textlayer/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
@@ -55,17 +56,17 @@ public void UpdateText(string text, float fontSize)
 public void UpdateText(string text, Color color)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| text | String | 文本值。 |
-| color | Color | 颜色值。 |
+| 文本 | String | 文本值。 |
+| 颜色 | 颜色 | 颜色值。 |
 
-### 也可以看看
+### 另请参阅
 
 * struct [Color](../../../aspose.psd/color/)
 * class [TextLayer](../)
-* 命名空间 [Aspose.PSD.FileFormats.Psd.Layers](../../textlayer/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
@@ -77,18 +78,18 @@ public void UpdateText(string text, Color color)
 public void UpdateText(string text, float fontSize, Color color)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| text | String | 文本值。 |
-| fontSize | Single | 字体的大小。 |
-| color | Color | 颜色值。 |
+| 文本 | String | 文本值。 |
+| 字体大小 | 单精度 | 字体的大小。 |
+| 颜色 | 颜色 | 颜色值。 |
 
-### 也可以看看
+### 另请参阅
 
 * struct [Color](../../../aspose.psd/color/)
 * class [TextLayer](../)
-* 命名空间 [Aspose.PSD.FileFormats.Psd.Layers](../../textlayer/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
@@ -100,18 +101,18 @@ public void UpdateText(string text, float fontSize, Color color)
 public void UpdateText(string text, Point leftTopCoordinate, float fontSize)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| text | String | 文本值。 |
-| leftTopCoordinate | Point | 左上坐标。 |
-| fontSize | Single | 字体的大小。 |
+| 文本 | String | 文本值。 |
+| 左上坐标 | Point | 左上坐标。 |
+| 字体大小 | 单精度 | 字体的大小。 |
 
-### 也可以看看
+### 另请参阅
 
 * struct [Point](../../../aspose.psd/point/)
 * class [TextLayer](../)
-* 命名空间 [Aspose.PSD.FileFormats.Psd.Layers](../../textlayer/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
@@ -123,19 +124,19 @@ public void UpdateText(string text, Point leftTopCoordinate, float fontSize)
 public void UpdateText(string text, Point leftTopCoordinate, Color color)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| text | String | 文本值。 |
-| leftTopCoordinate | Point | 左上坐标。 |
-| color | Color | 颜色值。 |
+| 文本 | String | 文本值。 |
+| 左上坐标 | Point | 左上坐标。 |
+| 颜色 | 颜色 | 颜色值。 |
 
-### 也可以看看
+### 另请参阅
 
 * struct [Point](../../../aspose.psd/point/)
 * struct [Color](../../../aspose.psd/color/)
 * class [TextLayer](../)
-* 命名空间 [Aspose.PSD.FileFormats.Psd.Layers](../../textlayer/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
@@ -147,17 +148,17 @@ public void UpdateText(string text, Point leftTopCoordinate, Color color)
 public void UpdateText(string text, Point leftTopCoordinate)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| text | String | 文本值。 |
-| leftTopCoordinate | Point | 左上坐标。 |
+| 文本 | String | 文本值。 |
+| 左上坐标 | Point | 左上坐标。 |
 
-### 也可以看看
+### 另请参阅
 
 * struct [Point](../../../aspose.psd/point/)
 * class [TextLayer](../)
-* 命名空间 [Aspose.PSD.FileFormats.Psd.Layers](../../textlayer/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
@@ -169,19 +170,19 @@ public void UpdateText(string text, Point leftTopCoordinate)
 public void UpdateText(string text, Point leftTopCoordinate, float fontSize, Color color)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| text | String | 文本值。 |
-| leftTopCoordinate | Point | 左上坐标。 |
-| fontSize | Single | 字体的大小。 |
-| color | Color | 颜色值。 |
+| 文本 | String | 文本值。 |
+| 左上坐标 | Point | 左上坐标。 |
+| 字体大小 | 单精度 | 字体的大小。 |
+| 颜色 | 颜色 | 颜色值。 |
 
-### 也可以看看
+### 另请参阅
 
 * struct [Point](../../../aspose.psd/point/)
 * struct [Color](../../../aspose.psd/color/)
 * class [TextLayer](../)
-* 命名空间 [Aspose.PSD.FileFormats.Psd.Layers](../../textlayer/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

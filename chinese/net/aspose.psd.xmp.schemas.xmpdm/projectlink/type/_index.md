@@ -1,11 +1,12 @@
 ---
-title: ProjectLink.Type
-second_title: Aspose.PSD for .NET API 参考
-description: ProjectLink 财产. 获取或设置文件类型
+title: "ProjectLink.Type"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "ProjectLink 属性。获取或设置文件类型"
 type: docs
 weight: 30
 url: /zh/net/aspose.psd.xmp.schemas.xmpdm/projectlink/type/
 ---
+{{< psd/tize >}}
 ## ProjectLink.Type property
 
 获取或设置文件类型。
@@ -14,15 +15,15 @@ url: /zh/net/aspose.psd.xmp.schemas.xmpdm/projectlink/type/
 public ProjectType Type { get; set; }
 ```
 
-### 适当的价值
+### Property Value
 
 文件类型。
 
-### 也可以看看
+### 另请参阅
 
 * enum [ProjectType](../../projecttype/)
 * class [ProjectLink](../)
-* 命名空间 [Aspose.PSD.Xmp.Schemas.XmpDm](../../projectlink/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpDm](../../../aspose.psd.xmp.schemas.xmpdm/)
+* assembly [Aspose.PSD](../../../)
 
 

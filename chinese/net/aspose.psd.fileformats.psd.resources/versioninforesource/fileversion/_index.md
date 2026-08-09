@@ -1,11 +1,12 @@
 ---
-title: VersionInfoResource.FileVersion
-second_title: Aspose.PSD for .NET API 参考
-description: VersionInfoResource 财产. 获取或设置文件版本
+title: "VersionInfoResource.FileVersion"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "VersionInfoResource 属性。获取或设置文件版本"
 type: docs
 weight: 30
 url: /zh/net/aspose.psd.fileformats.psd.resources/versioninforesource/fileversion/
 ---
+{{< psd/tize >}}
 ## VersionInfoResource.FileVersion property
 
 获取或设置文件版本。
@@ -14,14 +15,14 @@ url: /zh/net/aspose.psd.fileformats.psd.resources/versioninforesource/fileversio
 public uint FileVersion { get; set; }
 ```
 
-### 适当的价值
+### Property Value
 
 文件版本。
 
-### 也可以看看
+### 另请参阅
 
 * class [VersionInfoResource](../)
-* 命名空间 [Aspose.PSD.FileFormats.Psd.Resources](../../versioninforesource/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

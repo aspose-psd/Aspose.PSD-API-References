@@ -1,11 +1,12 @@
 ---
-title: IColorPalette.GetNearestColorIndex
-second_title: Aspose.PSD for .NET API 参考
-description: IColorPalette 方法. 获取最近的 32 位 ARGB 颜色的索引
+title: "IColorPalette.GetNearestColorIndex"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "IColorPalette 方法。获取最近的 32 位 ARGB 颜色的索引"
 type: docs
 weight: 70
 url: /zh/net/aspose.psd/icolorpalette/getnearestcolorindex/
 ---
+{{< psd/tize >}}
 ## GetNearestColorIndex(int) {#getnearestcolorindex_1}
 
 获取最近的 32 位 ARGB 颜色的索引。
@@ -14,7 +15,7 @@ url: /zh/net/aspose.psd/icolorpalette/getnearestcolorindex/
 public int GetNearestColorIndex(int argb32Color)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
 | argb32Color | Int32 | 32 位 ARGB 颜色。 |
 
@@ -22,11 +23,11 @@ public int GetNearestColorIndex(int argb32Color)
 
 最近颜色的索引。
 
-### 也可以看看
+### 另请参阅
 
 * interface [IColorPalette](../)
-* 命名空间 [Aspose.PSD](../../icolorpalette/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
@@ -38,19 +39,19 @@ public int GetNearestColorIndex(int argb32Color)
 public int GetNearestColorIndex(Color color)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| color | Color | 颜色。 |
+| 颜色 | 颜色 | 颜色。 |
 
 ### 返回值
 
 最近颜色的索引。
 
-### 也可以看看
+### 另请参阅
 
 * struct [Color](../../color/)
 * interface [IColorPalette](../)
-* 命名空间 [Aspose.PSD](../../icolorpalette/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

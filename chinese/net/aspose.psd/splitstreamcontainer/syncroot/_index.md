@@ -1,27 +1,28 @@
 ---
-title: SplitStreamContainer.SyncRoot
-second_title: Aspose.PSD for .NET API 参考
-description: SplitStreamContainer 财产. 获取可用于同步访问同步资源的对象
+title: "SplitStreamContainer.SyncRoot"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "SplitStreamContainer 属性。获取一个对象，可用于同步对同步资源的访问。"
 type: docs
 weight: 80
 url: /zh/net/aspose.psd/splitstreamcontainer/syncroot/
 ---
+{{< psd/tize >}}
 ## SplitStreamContainer.SyncRoot property
 
-获取可用于同步访问同步资源的对象。
+获取可用于同步对同步资源访问的对象。
 
 ```csharp
 public object SyncRoot { get; }
 ```
 
-### 适当的价值
+### Property Value
 
-可用于同步访问同步资源的对象。
+可用于同步对同步资源访问的对象。
 
-### 也可以看看
+### 另请参阅
 
 * class [SplitStreamContainer](../)
-* 命名空间 [Aspose.PSD](../../splitstreamcontainer/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

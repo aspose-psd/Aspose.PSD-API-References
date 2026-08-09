@@ -1,11 +1,12 @@
 ---
-title: DublinCorePackage.DublinCorePackage
-second_title: Aspose.PSD for .NET API 参考
-description: DublinCorePackage 构造函数. 默认构造函数
+title: "DublinCorePackage.DublinCorePackage"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "DublinCorePackage 构造函数。默认构造函数"
 type: docs
 weight: 10
 url: /zh/net/aspose.psd.xmp.schemas.dublincore/dublincorepackage/dublincorepackage/
 ---
+{{< psd/tize >}}
 ## DublinCorePackage constructor
 
 默认构造函数。
@@ -14,10 +15,10 @@ url: /zh/net/aspose.psd.xmp.schemas.dublincore/dublincorepackage/dublincorepacka
 public DublinCorePackage()
 ```
 
-### 也可以看看
+### 另请参阅
 
 * class [DublinCorePackage](../)
-* 命名空间 [Aspose.PSD.Xmp.Schemas.DublinCore](../../dublincorepackage/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.DublinCore](../../../aspose.psd.xmp.schemas.dublincore/)
+* assembly [Aspose.PSD](../../../)
 
 

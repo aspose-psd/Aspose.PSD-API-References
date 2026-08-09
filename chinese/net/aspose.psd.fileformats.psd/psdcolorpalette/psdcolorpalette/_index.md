@@ -1,243 +1,244 @@
 ---
-title: PsdColorPalette.PsdColorPalette
-second_title: Aspose.PSD for .NET API 参考
-description: PsdColorPalette 构造函数. 初始化一个新的实例PsdColorPalette类.
+title: "PsdColorPalette.PsdColorPalette"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "PsdColorPalette 构造函数。初始化 PsdColorPalette 类的新实例。"
 type: docs
 weight: 10
 url: /zh/net/aspose.psd.fileformats.psd/psdcolorpalette/psdcolorpalette/
 ---
+{{< psd/tize >}}
 ## PsdColorPalette(IColorPalette) {#constructor_4}
 
-初始化一个新的实例[`PsdColorPalette`](../)类.
+初始化 [`PsdColorPalette`](../) 类的新实例。
 
 ```csharp
 public PsdColorPalette(IColorPalette colorPalette)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| colorPalette | IColorPalette | 调色板。 |
+| colorPalette | IColorPalette | 颜色调色板。 |
 
-### 也可以看看
+### 另请参阅
 
 * interface [IColorPalette](../../../aspose.psd/icolorpalette/)
 * class [PsdColorPalette](../)
-* 命名空间 [Aspose.PSD.FileFormats.Psd](../../psdcolorpalette/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## PsdColorPalette(IColorPalette, short) {#constructor_5}
 
-初始化一个新的实例[`PsdColorPalette`](../)类.
+初始化 [`PsdColorPalette`](../) 类的新实例。
 
 ```csharp
 public PsdColorPalette(IColorPalette colorPalette, short transparentIndex)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| colorPalette | IColorPalette | 调色板。 |
-| transparentIndex | Int16 | 透明色指数。 |
+| colorPalette | IColorPalette | 颜色调色板。 |
+| transparentIndex | Int16 | 透明颜色索引。 |
 
-### 也可以看看
+### 另请参阅
 
 * interface [IColorPalette](../../../aspose.psd/icolorpalette/)
 * class [PsdColorPalette](../)
-* 命名空间 [Aspose.PSD.FileFormats.Psd](../../psdcolorpalette/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## PsdColorPalette(byte[], bool) {#constructor_7}
 
-初始化一个新的实例[`PsdColorPalette`](../)类.
+初始化 [`PsdColorPalette`](../) 类的新实例。
 
 ```csharp
 public PsdColorPalette(byte[] rawEntriesData, bool isCompactPalette)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
 | rawEntriesData | Byte[] | 原始条目数据。 |
-| isCompactPalette | Boolean | 指示是否紧凑它调色板。 |
+| isCompactPalette | 布尔 | 指示调色板是否为紧凑。 |
 
-### 也可以看看
+### 另请参阅
 
 * class [PsdColorPalette](../)
-* 命名空间 [Aspose.PSD.FileFormats.Psd](../../psdcolorpalette/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## PsdColorPalette(byte[]) {#constructor_6}
 
-初始化一个新的实例[`PsdColorPalette`](../)类和 IsCompactPalette 是 false.
+初始化 [`PsdColorPalette`](../) 类的新实例，且 IsCompactPalette 为 false。
 
 ```csharp
 public PsdColorPalette(byte[] rawEntriesData)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
 | rawEntriesData | Byte[] | 原始条目数据。 |
 
-### 也可以看看
+### 另请参阅
 
 * class [PsdColorPalette](../)
-* 命名空间 [Aspose.PSD.FileFormats.Psd](../../psdcolorpalette/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## PsdColorPalette(byte[], short, bool) {#constructor_9}
 
-初始化一个新的实例[`PsdColorPalette`](../)类.
+初始化 [`PsdColorPalette`](../) 类的新实例。
 
 ```csharp
 public PsdColorPalette(byte[] rawEntriesData, short transparentIndex, bool useCompactPalette)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
 | rawEntriesData | Byte[] | 原始条目数据。 |
-| transparentIndex | Int16 | 透明色指数。请注意，索引不是原始条目索引，而是用于转换后的颜色数组。 |
-| useCompactPalette | Boolean | 指示是否紧凑它调色板。 |
+| transparentIndex | Int16 | 透明颜色索引。注意，该索引不是原始条目索引，而是针对转换后的颜色数组。 |
+| useCompactPalette | 布尔 | 指示调色板是否为紧凑。 |
 
-### 也可以看看
+### 另请参阅
 
 * class [PsdColorPalette](../)
-* 命名空间 [Aspose.PSD.FileFormats.Psd](../../psdcolorpalette/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## PsdColorPalette(byte[], short) {#constructor_8}
 
-初始化一个新的实例[`PsdColorPalette`](../)类和 IsCompactPalette 是 false.
+初始化 [`PsdColorPalette`](../) 类的新实例，且 IsCompactPalette 为 false。
 
 ```csharp
 public PsdColorPalette(byte[] rawEntriesData, short transparentIndex)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
 | rawEntriesData | Byte[] | 原始条目数据。 |
-| transparentIndex | Int16 | 透明色指数。请注意，索引不是原始条目索引，而是用于转换后的颜色数组。 |
+| transparentIndex | Int16 | 透明颜色索引。注意，该索引不是原始条目索引，而是针对转换后的颜色数组。 |
 
-### 也可以看看
+### 另请参阅
 
 * class [PsdColorPalette](../)
-* 命名空间 [Aspose.PSD.FileFormats.Psd](../../psdcolorpalette/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## PsdColorPalette(int[], bool) {#constructor_10}
 
-初始化一个新的实例[`PsdColorPalette`](../)类.
+初始化 [`PsdColorPalette`](../) 类的新实例。
 
 ```csharp
 public PsdColorPalette(int[] colorPaletteArgb32Entries, bool isCompactPalette)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| colorPaletteArgb32Entries | Int32[] | 调色板 32 位 ARGB 条目。 |
-| isCompactPalette | Boolean | 指示是否紧凑它调色板。 |
+| colorPaletteArgb32Entries | Int32[] | 颜色调色板 32 位 ARGB 条目。 |
+| isCompactPalette | 布尔 | 指示调色板是否为紧凑。 |
 
-### 也可以看看
+### 另请参阅
 
 * class [PsdColorPalette](../)
-* 命名空间 [Aspose.PSD.FileFormats.Psd](../../psdcolorpalette/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## PsdColorPalette(Color[], bool) {#constructor_1}
 
-初始化一个新的实例[`PsdColorPalette`](../)类.
+初始化 [`PsdColorPalette`](../) 类的新实例。
 
 ```csharp
 public PsdColorPalette(Color[] colorPaletteEntries, bool isCompactPalette)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
 | colorPaletteEntries | Color[] | 调色板条目。 |
-| isCompactPalette | Boolean | 指示是否紧凑它调色板。 |
+| isCompactPalette | 布尔 | 指示调色板是否为紧凑。 |
 
-### 也可以看看
+### 另请参阅
 
 * struct [Color](../../../aspose.psd/color/)
 * class [PsdColorPalette](../)
-* 命名空间 [Aspose.PSD.FileFormats.Psd](../../psdcolorpalette/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## PsdColorPalette(Color[]) {#constructor}
 
-初始化一个新的实例[`PsdColorPalette`](../)类和 IsCompactPalette 是 false.
+初始化 [`PsdColorPalette`](../) 类的新实例，且 IsCompactPalette 为 false。
 
 ```csharp
 public PsdColorPalette(Color[] colorPaletteEntries)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
 | colorPaletteEntries | Color[] | 调色板条目。 |
 
-### 也可以看看
+### 另请参阅
 
 * struct [Color](../../../aspose.psd/color/)
 * class [PsdColorPalette](../)
-* 命名空间 [Aspose.PSD.FileFormats.Psd](../../psdcolorpalette/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## PsdColorPalette(Color[], short, bool) {#constructor_3}
 
-初始化一个新的实例[`PsdColorPalette`](../)类.
+初始化 [`PsdColorPalette`](../) 类的新实例。
 
 ```csharp
 public PsdColorPalette(Color[] colorPaletteEntries, short transparentIndex, bool useCompactPalette)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
 | colorPaletteEntries | Color[] | 调色板条目。 |
-| transparentIndex | Int16 | 透明色指数。 |
-| useCompactPalette | Boolean | 指示是否紧凑它调色板。 |
+| transparentIndex | Int16 | 透明颜色索引。 |
+| useCompactPalette | 布尔 | 指示调色板是否为紧凑。 |
 
-### 也可以看看
+### 另请参阅
 
 * struct [Color](../../../aspose.psd/color/)
 * class [PsdColorPalette](../)
-* 命名空间 [Aspose.PSD.FileFormats.Psd](../../psdcolorpalette/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## PsdColorPalette(Color[], short) {#constructor_2}
 
-初始化一个新的实例[`PsdColorPalette`](../)类和 IsCompactPalette 是 false.
+初始化 [`PsdColorPalette`](../) 类的新实例，且 IsCompactPalette 为 false。
 
 ```csharp
 public PsdColorPalette(Color[] colorPaletteEntries, short transparentIndex)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
 | colorPaletteEntries | Color[] | 调色板条目。 |
-| transparentIndex | Int16 | 透明色指数。 |
+| transparentIndex | Int16 | 透明颜色索引。 |
 
-### 也可以看看
+### 另请参阅
 
 * struct [Color](../../../aspose.psd/color/)
 * class [PsdColorPalette](../)
-* 命名空间 [Aspose.PSD.FileFormats.Psd](../../psdcolorpalette/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

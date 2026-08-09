@@ -1,32 +1,33 @@
 ---
-title: Color.op_Equality
-second_title: Aspose.PSD for .NET API 参考
-description: Color 方法. 测试是否指定了两个Color结构是等价的
+title: "Color.op_Equality"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "Color 方法。测试两个指定的 Color 结构是否相等"
 type: docs
-weight: 1620
+weight: 1640
 url: /zh/net/aspose.psd/color/op_equality/
 ---
+{{< psd/tize >}}
 ## Color Equality operator
 
-测试是否指定了两个[`Color`](../)结构是等价的。
+测试两个指定的 [`Color`](../) 结构是否相等。
 
 ```csharp
 public static bool operator ==(Color left, Color right)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| left | Color | 这[`Color`](../)那是在相等运算符的左边。 |
-| right | Color | 这[`Color`](../)那是在相等运算符的右边。 |
+| left | Color | 等号运算符左侧的 [`Color`](../) 。 |
+| right | Color | 等号运算符右侧的 [`Color`](../) 。 |
 
 ### 返回值
 
-真如果两个[`Color`](../)结构是平等的；否则，假的。
+如果两个 [`Color`](../) 结构相等则为 true；否则为 false。
 
-### 也可以看看
+### 另请参阅
 
 * struct [Color](../)
-* 命名空间 [Aspose.PSD](../../color/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: Class AudioChannelType
-second_title: Aspose.PSD for .NET API 参考
-description: Aspose.PSD.Xmp.Schemas.XmpDm.AudioChannelType 班级. 表示音频通道类型
+title: "类 AudioChannelType"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "Aspose.PSD.Xmp.Schemas.XmpDm.AudioChannelType 类。表示音频通道类型"
 type: docs
-weight: 5840
+weight: 6340
 url: /zh/net/aspose.psd.xmp.schemas.xmpdm/audiochanneltype/
 ---
+{{< psd/tize >}}
 ## AudioChannelType class
 
 表示音频通道类型。
@@ -14,26 +15,26 @@ url: /zh/net/aspose.psd.xmp.schemas.xmpdm/audiochanneltype/
 public sealed class AudioChannelType
 ```
 
-## 特性
+## 属性
 
-| 姓名 | 描述 |
+| 名称 | 描述 |
 | --- | --- |
-| static [Audio16Channel](../../aspose.psd.xmp.schemas.xmpdm/audiochanneltype/audio16channel/) { get; } | 获取第 16 个音频通道。 |
+| static [Audio16Channel](../../aspose.psd.xmp.schemas.xmpdm/audiochanneltype/audio16channel/) { get; } | 获取 16 音频通道。 |
 | static [Audio51](../../aspose.psd.xmp.schemas.xmpdm/audiochanneltype/audio51/) { get; } | 获取 5.1 音频通道。 |
 | static [Audio71](../../aspose.psd.xmp.schemas.xmpdm/audiochanneltype/audio71/) { get; } | 获取 7.1 音频通道。 |
 | static [Mono](../../aspose.psd.xmp.schemas.xmpdm/audiochanneltype/mono/) { get; } | 获取单声道音频通道。 |
-| static [OtherChannel](../../aspose.psd.xmp.schemas.xmpdm/audiochanneltype/otherchannel/) { get; } | 获取另一个通道。 |
+| static [OtherChannel](../../aspose.psd.xmp.schemas.xmpdm/audiochanneltype/otherchannel/) { get; } | 获取其他通道。 |
 | static [Stereo](../../aspose.psd.xmp.schemas.xmpdm/audiochanneltype/stereo/) { get; } | 获取立体声音频通道。 |
 
 ## 方法
 
-| 姓名 | 描述 |
+| 名称 | 描述 |
 | --- | --- |
-| override [ToString](../../aspose.psd.xmp.schemas.xmpdm/audiochanneltype/tostring/)() | 返回一个String代表这个实例. |
+| override [ToString](../../aspose.psd.xmp.schemas.xmpdm/audiochanneltype/tostring/)() | 返回一个表示此实例的字符串。 |
 
-### 也可以看看
+### 另请参阅
 
-* 命名空间 [Aspose.PSD.Xmp.Schemas.XmpDm](../../aspose.psd.xmp.schemas.xmpdm/)
-* 部件 [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpDm](../../aspose.psd.xmp.schemas.xmpdm/)
+* assembly [Aspose.PSD](../../)
 
 

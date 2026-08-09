@@ -1,47 +1,48 @@
 ---
-title: CurvResource.CurvResource
-second_title: Aspose.PSD for .NET API 参考
-description: CurvResource 构造函数. 初始化一个新的实例CurvResource类.
+title: "CurvResource.CurvResource"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "CurvResource 构造函数。初始化 CurvResource 类的新实例"
 type: docs
 weight: 10
 url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources/curvresource/curvresource/
 ---
+{{< psd/tize >}}
 ## CurvResource(int) {#constructor_1}
 
-初始化一个新的实例[`CurvResource`](../)类.
+初始化 [`CurvResource`](../) 类的新实例。
 
 ```csharp
 public CurvResource(int maxChannelCount)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| maxChannelCount | Int32 | 最大通道数。 |
+| maxChannelCount | Int32 | 最大通道计数。 |
 
-### 也可以看看
+### 另请参阅
 
 * class [CurvResource](../)
-* 命名空间 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../curvresource/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## CurvResource(byte[]) {#constructor}
 
-初始化一个新的实例[`CurvResource`](../)类.
+初始化 [`CurvResource`](../) 类的新实例。
 
 ```csharp
 public CurvResource(byte[] bytes)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| bytes | Byte[] | 字节。 |
+| 字节 | Byte[] | 字节。 |
 
-### 也可以看看
+### 另请参阅
 
 * class [CurvResource](../)
-* 命名空间 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../curvresource/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

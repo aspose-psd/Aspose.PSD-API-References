@@ -1,27 +1,28 @@
 ---
-title: PixelDataFormat.Rgba32Bpp
-second_title: Aspose.PSD for .NET API 参考
-description: PixelDataFormat 财产. 获取PixelDataFormat定义为每像素 32 位alpha红色绿色和蓝色各有 8 位
+title: "PixelDataFormat.Rgba32Bpp"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "PixelDataFormat 属性。获取定义为每像素 32 位、每个 alpha、红、绿、蓝各占 8 位的 PixelDataFormat"
 type: docs
 weight: 100
 url: /zh/net/aspose.psd/pixeldataformat/rgba32bpp/
 ---
+{{< psd/tize >}}
 ## PixelDataFormat.Rgba32Bpp property
 
-获取[`PixelDataFormat`](../)定义为每像素 32 位，alpha、红色、绿色和蓝色各有 8 位。
+获取定义为每像素 32 位、每个 alpha、红、绿、蓝各占 8 位的 [`PixelDataFormat`](../)。
 
 ```csharp
 public static PixelDataFormat Rgba32Bpp { get; }
 ```
 
-### 适当的价值
+### Property Value
 
-的[`PixelDataFormat`](../)定义为每像素 32 位，alpha、红色、绿色和蓝色各有 8 位。
+定义为每像素 32 位、每个 alpha、红、绿、蓝各占 8 位的 [`PixelDataFormat`](../)。
 
-### 也可以看看
+### 另请参阅
 
 * class [PixelDataFormat](../)
-* 命名空间 [Aspose.PSD](../../pixeldataformat/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

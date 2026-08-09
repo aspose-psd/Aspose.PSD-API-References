@@ -1,27 +1,28 @@
 ---
-title: CgEdResource.UseLegacy
-second_title: Aspose.PSD for .NET API 参考
-description: CgEdResource 财产. 获取或设置一个值指示是否使用旧版.
+title: "CgEdResource.UseLegacy"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "CgEdResource 属性。获取或设置一个值，指示是否使用 legacy"
 type: docs
-weight: 100
+weight: 80
 url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources/cgedresource/uselegacy/
 ---
+{{< psd/tize >}}
 ## CgEdResource.UseLegacy property
 
-获取或设置一个值，指示是否[使用旧版].
+获取或设置一个值，指示是否 [use legacy]。
 
 ```csharp
 public bool UseLegacy { get; set; }
 ```
 
-### 适当的价值
+### Property Value
 
-`真的`如果[使用遗留]；否则，`错误的` .
+`true` 如果 [use legacy]；否则为 `false`。
 
-### 也可以看看
+### 另请参阅
 
 * class [CgEdResource](../)
-* 命名空间 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../cgedresource/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

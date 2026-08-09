@@ -1,14 +1,15 @@
 ---
-title: Class SmartResourceCreator
-second_title: Aspose.PSD for .NET API 参考
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.SmartResourceCreator 班级. 定义可以创建 PlLdSoLd 和 SoLe 资源的 SmartResourceCreator 类 用于支持 Adobe Photoshop 图像中的智能对象层
+title: "类 SmartResourceCreator"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "Aspose.PSD.FileFormats.Psd.Layers.LayerResources.SmartResourceCreator 类。定义了 SmartResourceCreator 类，可创建 PlLd、SoLd 和 SoLe 资源。用于在 Adobe Photoshop 图像中支持智能对象图层"
 type: docs
-weight: 3000
+weight: 3350
 url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources/smartresourcecreator/
 ---
+{{< psd/tize >}}
 ## SmartResourceCreator class
 
-定义可以创建 PlLd、SoLd 和 SoLe 资源的 SmartResourceCreator 类。 用于支持 Adobe® Photoshop® 图像中的智能对象层。
+定义 SmartResourceCreator 类，可创建 PlLd、SoLd 和 SoLe 资源。用于在 Adobe® Photoshop® 图像中支持智能对象图层。
 
 ```csharp
 public class SmartResourceCreator
@@ -16,21 +17,21 @@ public class SmartResourceCreator
 
 ## 构造函数
 
-| 姓名 | 描述 |
+| 名称 | 描述 |
 | --- | --- |
-| [SmartResourceCreator](smartresourcecreator/#constructor)() | 初始化一个新的实例`SmartResourceCreator`类. |
-| [SmartResourceCreator](smartresourcecreator/#constructor_1)(PlacedResource) | 初始化一个新的实例`SmartResourceCreator` class 与给定的模板. |
-| [SmartResourceCreator](smartresourcecreator/#constructor_2)(bool, bool) | 初始化一个新的实例`SmartResourceCreator`类. |
+| [SmartResourceCreator](smartresourcecreator/#constructor)() | 初始化 `SmartResourceCreator` 类的新实例。 |
+| [SmartResourceCreator](smartresourcecreator/#constructor_1)(PlacedResource) | 使用给定的模板初始化 `SmartResourceCreator` 类的新实例。 |
+| [SmartResourceCreator](smartresourcecreator/#constructor_2)(bool, bool) | 初始化 `SmartResourceCreator` 类的新实例。 |
 
 ## 方法
 
-| 姓名 | 描述 |
+| 名称 | 描述 |
 | --- | --- |
-| [GeneratePlacedResource](../../aspose.psd.fileformats.psd.layers.layerresources/smartresourcecreator/generateplacedresource/)() | 生成放置的资源。 |
-| [GenerateSmartEmbeddedResource](../../aspose.psd.fileformats.psd.layers.layerresources/smartresourcecreator/generatesmartembeddedresource/)() | 生成嵌入式智能对象资源。 |
+| [GeneratePlacedResource](../../aspose.psd.fileformats.psd.layers.layerresources/smartresourcecreator/generateplacedresource/)() | 生成已放置的资源。 |
+| [GenerateSmartEmbeddedResource](../../aspose.psd.fileformats.psd.layers.layerresources/smartresourcecreator/generatesmartembeddedresource/)() | 生成嵌入的智能对象资源。 |
 | [GenerateSmartExternalResource](../../aspose.psd.fileformats.psd.layers.layerresources/smartresourcecreator/generatesmartexternalresource/)() | 生成外部智能对象资源。 |
 
-### 例子
+## 示例
 
 以下代码演示了对 SoLEResource、SmartObjectResource 和 PlacedResource 资源的支持。
 
@@ -118,7 +119,7 @@ void CheckSmartObjectResourceValues(object[] expectedValue, SmartObjectResource 
 
 void SetNewSmartValues(SmartObjectResource resource, object[] newValues)
 {
-    // 这个值我们不会在资源中改变
+    // 这些值我们在资源中不更改。
     newValues[0] = resource.IsCustom;
     newValues[1] = resource.UniqueId.ToString();
     newValues[5] = resource.PlacedLayerType;
@@ -126,8 +127,8 @@ void SetNewSmartValues(SmartObjectResource resource, object[] newValues)
     newValues[15] = resource.VOrder;
     newValues[28] = resource.OriginalCompId;
 
-    // 此值也应在 PlLdResource（具有指定的 UniqueId）中更改
-    // 其中一些必须与 LinkDataSource 中带下划线的智能对象一致
+    // 这些值也应在 PlLdResource（使用指定的 UniqueId）中更改。
+    // 其中一些必须与 LinkDataSource 中的底层智能对象保持一致。
     resource.PageNumber = (int)newValues[2]; // 2;
     resource.TotalPages = (int)newValues[3]; // 3;
     resource.AntiAliasPolicy = (int)newValues[4]; // 0;
@@ -153,7 +154,7 @@ void SetNewSmartValues(SmartObjectResource resource, object[] newValues)
     resource.CompId = (int)newValues[27]; // 22;
     resource.NonAffineTransformMatrix = (double[])newValues[30];
 
-    // 这个唯一的 Id 应该在引用中改变（如果有的话）
+    // 如果有引用，需要更改此唯一 Id。
     resource.PlacedId = new Guid((string)newValues[29]);  // "12345678-9abc-def0-9876-54321fecba98");
     if (resource.IsCustom)
     {
@@ -163,15 +164,15 @@ void SetNewSmartValues(SmartObjectResource resource, object[] newValues)
         resource.VerticalMeshPoints = (double[])newValues[34];
     }
 
-    // 注意一些参数：保存的图像可能无法被 Adobe® Photoshop® 读取
-    ////资源.UOrder = 6;
-    ////资源.VOrder = 9;
+    // 请注意某些参数：保存的图像可能会导致 Adobe® Photoshop® 无法读取。
+    ////resource.UOrder = 6;
+    ////resource.VOrder = 9;
 
-    // 不要改变这个，否则你将无法使用自由变换
-    // 或将下划线智能对象更改为矢量类型
+    // 不要更改此项，否则将无法使用自由变换。
+    // 或将底层智能对象更改为矢量类型。
     ////resource.PlacedLayerType = PlacedLayerType.Vector;
 
-    // 应该有具有此唯一 ID 的有效 PlLdResource
+    // 应存在具有此唯一 Id 的有效 PlLdResource。
     ////resource.UniqueId = new Guid("98765432-10fe-cba0-1234-56789abcdef0");
 }
 
@@ -335,12 +336,12 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
 }
 ```
 
-### 也可以看看
+### 另请参阅
 
 * class [PlLdResource](../plldresource/)
 * class [SoLdResource](../soldresource/)
 * class [SoLeResource](../soleresource/)
-* 命名空间 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
-* 部件 [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../)
 
 

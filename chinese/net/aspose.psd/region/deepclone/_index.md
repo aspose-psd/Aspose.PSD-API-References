@@ -1,14 +1,15 @@
 ---
-title: Region.DeepClone
-second_title: Aspose.PSD for .NET API 参考
-description: Region 方法. 创建一个精确的深拷贝Region .
+title: "Region.DeepClone"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "Region 方法。创建此 Region 的精确深拷贝"
 type: docs
 weight: 30
 url: /zh/net/aspose.psd/region/deepclone/
 ---
+{{< psd/tize >}}
 ## Region.DeepClone method
 
-创建一个精确的深拷贝[`Region`](../) .
+创建此 [`Region`](../) 的精确深拷贝。
 
 ```csharp
 public Region DeepClone()
@@ -16,12 +17,12 @@ public Region DeepClone()
 
 ### 返回值
 
-这[`Region`](../)该方法创建的。
+此方法创建的 [`Region`](../)。
 
-### 也可以看看
+### 另请参阅
 
 * class [Region](../)
-* 命名空间 [Aspose.PSD](../../region/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

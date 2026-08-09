@@ -1,28 +1,29 @@
 ---
-title: XmpPacketWrapper.Packages
-second_title: Aspose.PSD for .NET API 参考
-description: XmpPacketWrapper 财产. 获取数组XmpPackage在 XMP. 里面
+title: "XmpPacketWrapper.Packages"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "XmpPacketWrapper 属性。获取 XMP 中的 XmpPackage 数组。"
 type: docs
 weight: 40
 url: /zh/net/aspose.psd.xmp/xmppacketwrapper/packages/
 ---
+{{< psd/tize >}}
 ## XmpPacketWrapper.Packages property
 
-获取数组[`XmpPackage`](../../xmppackage/)在 XMP. 里面
+获取 XMP 中的 [`XmpPackage`](../../xmppackage/) 数组。
 
 ```csharp
 public XmpPackage[] Packages { get; }
 ```
 
-### 适当的价值
+### Property Value
 
-的数组[`XmpPackage`](../../xmppackage/)在 XMP. 里面
+XMP 中的 [`XmpPackage`](../../xmppackage/) 数组。
 
-### 也可以看看
+### 另请参阅
 
 * class [XmpPackage](../../xmppackage/)
 * class [XmpPacketWrapper](../)
-* 命名空间 [Aspose.PSD.Xmp](../../xmppacketwrapper/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

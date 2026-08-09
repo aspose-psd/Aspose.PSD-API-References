@@ -1,54 +1,55 @@
 ---
-title: XmpReal.XmpReal
-second_title: Aspose.PSD for .NET API 参考
-description: XmpReal 构造函数. 初始化一个新的实例XmpReal类.
+title: "XmpReal.XmpReal"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "XmpReal 构造函数。初始化 XmpReal 类的新实例"
 type: docs
 weight: 10
 url: /zh/net/aspose.psd.xmp.types.basic/xmpreal/xmpreal/
 ---
+{{< psd/tize >}}
 ## XmpReal(float) {#constructor}
 
-初始化一个新的实例[`XmpReal`](../)类.
+初始化 [`XmpReal`](../) 类的新实例。
 
 ```csharp
 public XmpReal(float value)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| value | Single | 浮动值。 |
+| 值 | 单精度 | 浮点值。 |
 
-### 也可以看看
+### 另请参阅
 
 * class [XmpReal](../)
-* 命名空间 [Aspose.PSD.Xmp.Types.Basic](../../xmpreal/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Basic](../../../aspose.psd.xmp.types.basic/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## XmpReal(string) {#constructor_1}
 
-初始化一个新的实例[`XmpReal`](../)类.
+初始化 [`XmpReal`](../) 类的新实例。
 
 ```csharp
 public XmpReal(string value)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| value | String | 价值。 |
+| 值 | String | 该值。 |
 
-### 例外
+### 异常
 
-| 例外 | （健康）状况 |
+| 异常 | 条件 |
 | --- | --- |
-| ArgumentNullException | 值为空。 |
-| ArgumentException | 无效值。应该是浮动的。 |
+| ArgumentNullException | 值为 null。 |
+| ArgumentException | 无效的值。应为 float。 |
 
-### 也可以看看
+### 另请参阅
 
 * class [XmpReal](../)
-* 命名空间 [Aspose.PSD.Xmp.Types.Basic](../../xmpreal/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Basic](../../../aspose.psd.xmp.types.basic/)
+* assembly [Aspose.PSD](../../../)
 
 

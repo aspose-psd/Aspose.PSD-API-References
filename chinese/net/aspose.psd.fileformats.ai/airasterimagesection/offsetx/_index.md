@@ -1,27 +1,28 @@
 ---
-title: AiRasterImageSection.OffsetX
-second_title: Aspose.PSD for .NET API 参考
-description: AiRasterImageSection 财产. 获取偏移量 X
+title: "AiRasterImageSection.OffsetX"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "AiRasterImageSection 属性。获取偏移 X"
 type: docs
 weight: 60
 url: /zh/net/aspose.psd.fileformats.ai/airasterimagesection/offsetx/
 ---
+{{< psd/tize >}}
 ## AiRasterImageSection.OffsetX property
 
-获取偏移量 X。
+获取 X 偏移。
 
 ```csharp
 public double OffsetX { get; }
 ```
 
-### 适当的价值
+### Property Value
 
-偏移量 X。
+偏移 X。
 
-### 也可以看看
+### 另请参阅
 
 * class [AiRasterImageSection](../)
-* 命名空间 [Aspose.PSD.FileFormats.Ai](../../airasterimagesection/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

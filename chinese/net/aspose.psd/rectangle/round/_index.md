@@ -1,32 +1,33 @@
 ---
-title: Rectangle.Round
-second_title: Aspose.PSD for .NET API 参考
-description: Rectangle 方法. 转换指定的RectangleF到一个Rectangle通过四舍五入RectangleF值到最接近的整数值.
+title: "Rectangle.Round"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "Rectangle 方法。通过将指定的 RectangleF 值四舍五入到最近的整数，将其转换为 Rectangle。"
 type: docs
 weight: 80
 url: /zh/net/aspose.psd/rectangle/round/
 ---
+{{< psd/tize >}}
 ## Rectangle.Round method
 
-转换指定的[`RectangleF`](../../rectanglef/)到一个[`Rectangle`](../)通过四舍五入[`RectangleF`](../../rectanglef/)值到最接近的整数值.
+将指定的 [`RectangleF`](../../rectanglef/) 转换为 [`Rectangle`](../)，方法是将 [`RectangleF`](../../rectanglef/) 的值四舍五入到最近的整数。
 
 ```csharp
 public static Rectangle Round(RectangleF value)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| value | RectangleF | 这[`RectangleF`](../../rectanglef/)被转换。 |
+| value | RectangleF | 要转换的 [`RectangleF`](../../rectanglef/)。 |
 
 ### 返回值
 
-一个新的[`Rectangle`](../).
+一个新的 [`Rectangle`](../)。
 
-### 也可以看看
+### 另请参阅
 
 * struct [RectangleF](../../rectanglef/)
 * struct [Rectangle](../)
-* 命名空间 [Aspose.PSD](../../rectangle/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

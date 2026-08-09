@@ -1,11 +1,12 @@
 ---
-title: PathGradientBrush.CenterColor
-second_title: Aspose.PSD for .NET API 参考
-description: PathGradientBrush 财产. 获取或设置路径渐变中心的颜色
+title: "PathGradientBrush.CenterColor"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "PathGradientBrush 属性。获取或设置路径渐变中心的颜色。"
 type: docs
 weight: 30
 url: /zh/net/aspose.psd.brushes/pathgradientbrush/centercolor/
 ---
+{{< psd/tize >}}
 ## PathGradientBrush.CenterColor property
 
 获取或设置路径渐变中心的颜色。
@@ -14,15 +15,15 @@ url: /zh/net/aspose.psd.brushes/pathgradientbrush/centercolor/
 public Color CenterColor { get; set; }
 ```
 
-### 适当的价值
+### Property Value
 
-A[`Color`](../../../aspose.psd/color/)表示路径渐变中心的颜色。
+一个 [`Color`](../../../aspose.psd/color/) ，表示路径渐变中心的颜色。
 
-### 也可以看看
+### 另请参阅
 
 * struct [Color](../../../aspose.psd/color/)
 * class [PathGradientBrush](../)
-* 命名空间 [Aspose.PSD.Brushes](../../pathgradientbrush/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
+* assembly [Aspose.PSD](../../../)
 
 

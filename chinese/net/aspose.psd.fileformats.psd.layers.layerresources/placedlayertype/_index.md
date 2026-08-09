@@ -1,29 +1,30 @@
 ---
-title: Enum PlacedLayerType
-second_title: Aspose.PSD for .NET API 参考
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.PlacedLayerType 枚举. 为放置层 PlLd 资源定义 PlacedLayerType 枚举
+title: "枚举 PlacedLayerType"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "Aspose.PSD.FileFormats.Psd.Layers.LayerResources.PlacedLayerType 枚举。定义用于已放置图层 PlLd 资源的 PlacedLayerType 枚举"
 type: docs
-weight: 2930
+weight: 3280
 url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources/placedlayertype/
 ---
+{{< psd/tize >}}
 ## PlacedLayerType enumeration
 
-为放置层 PlLd 资源定义 PlacedLayerType 枚举。
+定义已放置图层 PlLd 资源的 PlacedLayerType 枚举。
 
 ```csharp
 public enum PlacedLayerType
 ```
 
-### 价值观
+### 值
 
-| 姓名 | 价值 | 描述 |
+| 名称 | 值 | 描述 |
 | --- | --- | --- |
-| Unknown | `0` | 未知放置层类型 |
-| Vector | `1` | 向量放置层 type |
-| Raster | `2` | 栅格放置层 type |
-| ImageStack | `3` | 图像堆栈放置层 type |
+| Unknown | `0` | 未知的已放置图层类型 |
+| Vector | `1` | 矢量已放置图层类型 |
+| Raster | `2` | 光栅已放置图层类型 |
+| ImageStack | `3` | 图像堆栈已放置图层类型 |
 
-### 例子
+## 示例
 
 以下代码演示了对 PlLdResource 资源的支持。
 
@@ -207,15 +208,15 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
                 resource.Bottom = 248;
                 resource.Right = 145;
 
-                // 注意一些参数：图像可能无法被 Adobe® Photoshop® 读取
-                ////资源.UOrder = 6;
-                ////资源.VOrder = 9;
+                // 请注意某些参数：图像可能会变得无法被 Adobe® Photoshop® 读取。
+                ////resource.UOrder = 6;
+                ////resource.VOrder = 9;
 
-                // 不要改变这个，否则你将无法使用自由变换
-                // 或将下划线智能对象更改为矢量类型
+                // 不要更改此项，否则将无法使用自由变换。
+                // 或将底层智能对象更改为矢量类型。
                 ////resource.PlacedLayerType = PlacedLayerType.Vector;
 
-                // 应该有具有此唯一 ID 的有效 PlLdResource
+                // 应存在具有此唯一 Id 的有效 PlLdResource。
                 ////resource.UniqueId = new Guid("98765432-10fe-cba0-1234-56789abcdef0");
 
                 break;
@@ -228,9 +229,9 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
 }
 ```
 
-### 也可以看看
+### 另请参阅
 
-* 命名空间 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
-* 部件 [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../)
 
 

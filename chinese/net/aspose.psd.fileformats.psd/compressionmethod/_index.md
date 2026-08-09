@@ -1,11 +1,12 @@
 ---
-title: Enum CompressionMethod
-second_title: Aspose.PSD for .NET API 参考
-description: Aspose.PSD.FileFormats.Psd.CompressionMethod 枚举. 定义用于图像数据的压缩方法
+title: "枚举 CompressionMethod"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "Aspose.PSD.FileFormats.Psd.CompressionMethod 枚举。定义用于图像数据的压缩方法"
 type: docs
-weight: 1620
+weight: 1630
 url: /zh/net/aspose.psd.fileformats.psd/compressionmethod/
 ---
+{{< psd/tize >}}
 ## CompressionMethod enumeration
 
 定义用于图像数据的压缩方法。
@@ -14,18 +15,18 @@ url: /zh/net/aspose.psd.fileformats.psd/compressionmethod/
 public enum CompressionMethod : short
 ```
 
-### 价值观
+### 值
 
-| 姓名 | 价值 | 描述 |
+| 名称 | 值 | 描述 |
 | --- | --- | --- |
-| Raw | `0` | 无压缩。以 RGBA 平面顺序存储为原始字节的图像数据。 这意味着首先写入所有 R 数据，然后写入所有 G，然后写入所有 B，最后写入所有 A 数据。 |
-| RLE | `1` | RLE 压缩图像数据以所有扫描线（行 * 通道）的字节计数开始，每个 计数存储为两个字节值。随后是 RLE 压缩数据，每个扫描线单独压缩。 RLE 压缩与 Macintosh ROM 例程 PackBits 和 TIFF 标准使用的压缩算法相同。 |
-| ZipWithoutPrediction | `2` | 没有预测的 ZIP. |
-| ZipWithPrediction | `3` | 带预测的 ZIP. |
+| Raw | `0` | 无压缩。图像数据以 RGBA 平面顺序的原始字节存储。这意味着首先写入所有 R 数据，然后是所有 G 数据，接着是所有 B 数据，最后写入所有 A 数据。 |
+| RLE | `1` | RLE 压缩的图像数据以所有扫描线（行 * 通道）的字节计数开始，每个计数以两个字节存储。随后是 RLE 压缩的数据，每条扫描线单独压缩。RLE 压缩使用的算法与 Macintosh ROM 例程 PackBits 以及 TIFF 标准使用的压缩算法相同。 |
+| ZipWithoutPrediction | `2` | ZIP（无预测）。 |
+| ZipWithPrediction | `3` | ZIP（有预测）。 |
 
-### 也可以看看
+### 另请参阅
 
-* 命名空间 [Aspose.PSD.FileFormats.Psd](../../aspose.psd.fileformats.psd/)
-* 部件 [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../)
 
 

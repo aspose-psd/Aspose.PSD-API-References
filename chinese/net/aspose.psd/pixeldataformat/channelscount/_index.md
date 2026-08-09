@@ -1,27 +1,28 @@
 ---
-title: PixelDataFormat.ChannelsCount
-second_title: Aspose.PSD for .NET API 参考
-description: PixelDataFormat 财产. 获取通道计数
+title: "PixelDataFormat.ChannelsCount"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "PixelDataFormat 属性。获取通道数。"
 type: docs
 weight: 330
 url: /zh/net/aspose.psd/pixeldataformat/channelscount/
 ---
+{{< psd/tize >}}
 ## PixelDataFormat.ChannelsCount property
 
-获取通道计数。
+获取通道数量。
 
 ```csharp
 public int ChannelsCount { get; }
 ```
 
-### 适当的价值
+### Property Value
 
-通道计数。
+通道数。
 
-### 也可以看看
+### 另请参阅
 
 * class [PixelDataFormat](../)
-* 命名空间 [Aspose.PSD](../../pixeldataformat/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

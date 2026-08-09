@@ -1,24 +1,25 @@
 ---
-title: SmartObjectResource.UniqueId
-second_title: Aspose.PSD for .NET API 参考
-description: SmartObjectResource 财产. 获取或设置智能对象层数据的全局唯一标识符SmartObjectResource在 PSD 图像中.
+title: "SmartObjectResource.UniqueId"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "SmartObjectResource 属性。获取或设置 PSD 图像中智能对象图层数据 SmartObjectResource 的全局唯一标识符"
 type: docs
-weight: 240
+weight: 220
 url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/uniqueid/
 ---
+{{< psd/tize >}}
 ## SmartObjectResource.UniqueId property
 
-获取或设置智能对象层数据的全局唯一标识符[`SmartObjectResource`](../)在 PSD 图像中.
+获取或设置 PSD 图像中智能对象图层数据 [`SmartObjectResource`](../) 的全局唯一标识符。
 
 ```csharp
 public override Guid UniqueId { get; set; }
 ```
 
-### 适当的价值
+### Property Value
 
-智能对象层数据的全局唯一标识符[`SmartObjectResource`](../) .
+智能对象图层数据 [`SmartObjectResource`](../) 的全局唯一标识符。
 
-### 例子
+## 示例
 
 以下代码演示了对 SoLEResource、SmartObjectResource 和 PlacedResource 资源的支持。
 
@@ -106,7 +107,7 @@ void CheckSmartObjectResourceValues(object[] expectedValue, SmartObjectResource 
 
 void SetNewSmartValues(SmartObjectResource resource, object[] newValues)
 {
-    // 这个值我们不会在资源中改变
+    // 这些值我们在资源中不更改。
     newValues[0] = resource.IsCustom;
     newValues[1] = resource.UniqueId.ToString();
     newValues[5] = resource.PlacedLayerType;
@@ -114,8 +115,8 @@ void SetNewSmartValues(SmartObjectResource resource, object[] newValues)
     newValues[15] = resource.VOrder;
     newValues[28] = resource.OriginalCompId;
 
-    // 此值也应在 PlLdResource（具有指定的 UniqueId）中更改
-    // 其中一些必须与 LinkDataSource 中带下划线的智能对象一致
+    // 这些值也应在 PlLdResource（使用指定的 UniqueId）中更改。
+    // 其中一些必须与 LinkDataSource 中的底层智能对象保持一致。
     resource.PageNumber = (int)newValues[2]; // 2;
     resource.TotalPages = (int)newValues[3]; // 3;
     resource.AntiAliasPolicy = (int)newValues[4]; // 0;
@@ -141,7 +142,7 @@ void SetNewSmartValues(SmartObjectResource resource, object[] newValues)
     resource.CompId = (int)newValues[27]; // 22;
     resource.NonAffineTransformMatrix = (double[])newValues[30];
 
-    // 这个唯一的 Id 应该在引用中改变（如果有的话）
+    // 如果有引用，需要更改此唯一 Id。
     resource.PlacedId = new Guid((string)newValues[29]);  // "12345678-9abc-def0-9876-54321fecba98");
     if (resource.IsCustom)
     {
@@ -151,15 +152,15 @@ void SetNewSmartValues(SmartObjectResource resource, object[] newValues)
         resource.VerticalMeshPoints = (double[])newValues[34];
     }
 
-    // 注意一些参数：保存的图像可能无法被 Adobe® Photoshop® 读取
-    ////资源.UOrder = 6;
-    ////资源.VOrder = 9;
+    // 请注意某些参数：保存的图像可能会导致 Adobe® Photoshop® 无法读取。
+    ////resource.UOrder = 6;
+    ////resource.VOrder = 9;
 
-    // 不要改变这个，否则你将无法使用自由变换
-    // 或将下划线智能对象更改为矢量类型
+    // 不要更改此项，否则将无法使用自由变换。
+    // 或将底层智能对象更改为矢量类型。
     ////resource.PlacedLayerType = PlacedLayerType.Vector;
 
-    // 应该有具有此唯一 ID 的有效 PlLdResource
+    // 应存在具有此唯一 Id 的有效 PlLdResource。
     ////resource.UniqueId = new Guid("98765432-10fe-cba0-1234-56789abcdef0");
 }
 
@@ -323,10 +324,10 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
 }
 ```
 
-### 也可以看看
+### 另请参阅
 
 * class [SmartObjectResource](../)
-* 命名空间 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../smartobjectresource/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

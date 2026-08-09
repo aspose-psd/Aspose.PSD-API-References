@@ -1,20 +1,21 @@
 ---
-title: VectorShapeOriginSettings.IsShapeInvalidated
-second_title: Aspose.PSD for .NET API 参考
-description: VectorShapeOriginSettings 财产. 获取或设置一个值指示形状是否无效
+title: "VectorShapeOriginSettings.IsShapeInvalidated"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "VectorShapeOriginSettings 属性。获取或设置一个值，指示形状是否已失效"
 type: docs
 weight: 80
 url: /zh/net/aspose.psd.fileformats.core.vectorpaths/vectorshapeoriginsettings/isshapeinvalidated/
 ---
+{{< psd/tize >}}
 ## VectorShapeOriginSettings.IsShapeInvalidated property
 
-获取或设置一个值，指示形状是否无效。
+获取或设置一个值，指示形状是否已失效。
 
 ```csharp
 public bool IsShapeInvalidated { get; set; }
 ```
 
-### 例子
+## 示例
 
 以下示例演示了 VogkResource 资源的支持。
 
@@ -51,7 +52,7 @@ using (var psdImage = (PsdImage)Image.Load(sourceFilePath))
 {
     var resource = GetVogkResource(psdImage);
 
-    // 阅读
+    // 读取
     if (resource.ShapeOriginSettings.Length != 1 ||
         !resource.ShapeOriginSettings[0].IsShapeInvalidated ||
         resource.ShapeOriginSettings[0].OriginIndex != 0)
@@ -70,10 +71,10 @@ using (var psdImage = (PsdImage)Image.Load(sourceFilePath))
 }
 ```
 
-### 也可以看看
+### 另请参阅
 
 * class [VectorShapeOriginSettings](../)
-* 命名空间 [Aspose.PSD.FileFormats.Core.VectorPaths](../../vectorshapeoriginsettings/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../../)
 
 

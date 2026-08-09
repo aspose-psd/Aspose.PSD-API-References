@@ -1,27 +1,28 @@
 ---
-title: Font.Bold
-second_title: Aspose.PSD for .NET API 参考
-description: Font 财产. 获取一个值指示是否这Font是粗体.
+title: "Font.Bold"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "Font 属性。获取一个指示此 Font 是否加粗的值"
 type: docs
 weight: 20
 url: /zh/net/aspose.psd/font/bold/
 ---
+{{< psd/tize >}}
 ## Font.Bold property
 
-获取一个值，指示是否这[`Font`](../)是粗体.
+获取一个指示此 [`Font`](../) 是否加粗的值。
 
 ```csharp
 public bool Bold { get; }
 ```
 
-### 适当的价值
+### Property Value
 
-如果这个是真的[`Font`](../)是粗体；否则，假的。
+如果此 [`Font`](../) 加粗则为 True；否则为 false。
 
-### 也可以看看
+### 另请参阅
 
 * class [Font](../)
-* 命名空间 [Aspose.PSD](../../font/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

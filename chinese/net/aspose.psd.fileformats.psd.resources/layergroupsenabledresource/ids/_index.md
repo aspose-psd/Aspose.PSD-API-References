@@ -1,27 +1,28 @@
 ---
-title: LayerGroupsEnabledResource.IDs
-second_title: Aspose.PSD for .NET API 参考
-description: LayerGroupsEnabledResource 财产. 获取或设置 i ds.
+title: "LayerGroupsEnabledResource.IDs"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "LayerGroupsEnabledResource 属性。获取或设置 ids"
 type: docs
 weight: 30
 url: /zh/net/aspose.psd.fileformats.psd.resources/layergroupsenabledresource/ids/
 ---
+{{< psd/tize >}}
 ## LayerGroupsEnabledResource.IDs property
 
-获取或设置 i ds.
+获取或设置 ID。
 
 ```csharp
 public byte[] IDs { get; set; }
 ```
 
-### 适当的价值
+### Property Value
 
-我 ds.
+ids。
 
-### 也可以看看
+### 另请参阅
 
 * class [LayerGroupsEnabledResource](../)
-* 命名空间 [Aspose.PSD.FileFormats.Psd.Resources](../../layergroupsenabledresource/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

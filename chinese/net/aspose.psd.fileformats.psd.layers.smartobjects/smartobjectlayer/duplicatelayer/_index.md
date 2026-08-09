@@ -1,14 +1,15 @@
 ---
-title: SmartObjectLayer.DuplicateLayer
-second_title: Aspose.PSD for .NET API 参考
-description: SmartObjectLayer 方法. 通过复制这个来创建一个新的智能对象层 请注意对于嵌入的智能对象嵌入的图像是共享的 如果要复制嵌入的图像请使用NewSmartObjectViaCopy方法.
+title: "SmartObjectLayer.DuplicateLayer"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "SmartObjectLayer 方法。通过复制此对象创建一个新的智能对象图层。请注意，对于嵌入的智能对象，嵌入的图像是共享的。如果想复制嵌入的图像，请使用 NewSmartObjectViaCopy 方法"
 type: docs
-weight: 80
+weight: 100
 url: /zh/net/aspose.psd.fileformats.psd.layers.smartobjects/smartobjectlayer/duplicatelayer/
 ---
+{{< psd/tize >}}
 ## SmartObjectLayer.DuplicateLayer method
 
-通过复制这个来创建一个新的智能对象层。 请注意，对于嵌入的智能对象，嵌入的图像是共享的。 如果要复制嵌入的图像，请使用[`NewSmartObjectViaCopy`](../newsmartobjectviacopy/)方法.
+通过复制此对象创建一个新的智能对象图层。请注意，对于嵌入的智能对象，嵌入的图像是共享的。如果想复制嵌入的图像，请使用 [`NewSmartObjectViaCopy`](../newsmartobjectviacopy/) 方法。
 
 ```csharp
 public SmartObjectLayer DuplicateLayer()
@@ -16,11 +17,11 @@ public SmartObjectLayer DuplicateLayer()
 
 ### 返回值
 
-克隆[`SmartObjectLayer`](../)实例.
+克隆的 [`SmartObjectLayer`](../) 实例。
 
-### 例子
+## 示例
 
-这些示例演示了如何在 PSD 图像中复制智能对象层。
+这些示例演示了如何在 PSD 图像中复制智能对象图层。
 
 ```csharp
 [C#]
@@ -28,7 +29,7 @@ public SmartObjectLayer DuplicateLayer()
 string dataDir = baseFolder + Path.DirectorySeparatorChar;
 string outputDir = dataDir + "output" + Path.DirectorySeparatorChar;
 
-// 这些示例演示了如何在 PSD 图像中复制智能对象层。
+// 这些示例演示了如何在 PSD 图像中复制智能对象图层。
 ExampleOfCopingSmartObjectLayer("r-embedded-psd");
 ExampleOfCopingSmartObjectLayer("r-embedded-png");
 ExampleOfCopingSmartObjectLayer("r-embedded-transform");
@@ -36,7 +37,7 @@ ExampleOfCopingSmartObjectLayer("new_panama-papers-8-trans4");
 
 void ExampleOfCopingSmartObjectLayer(string fileName)
 {
-    int layerNumber = 0; // 要复制的层数
+    int layerNumber = 0; // The layer number to copy
     string filePath = dataDir + fileName + ".psd";
     string outputFilePath = outputDir + fileName + "_copy_" + layerNumber;
     string pngOutputPath = outputFilePath + ".png";
@@ -57,17 +58,17 @@ void ExampleOfCopingSmartObjectLayer(string fileName)
 
         using (var innerImage = (RasterImage)smartObjectLayer.LoadContents(null))
         {
-            // 让我们反转嵌入的智能对象图像（对于内部 PSD 图像，我们只反转它的第一层）
+            // 让我们反转嵌入的智能对象图像（对于内部 PSD 图像，仅反转其第一图层）
             InvertImage(innerImage);
 
-            // 让我们替换 PSD 层中嵌入的智能对象图像
+            // 让我们替换 PSD 图层中的嵌入智能对象图像
             smartObjectLayer.ReplaceContents(innerImage);
         }
 
-        // 复制层与原始智能对象共享其嵌入图像
-        // 它应该显式更新，否则它的渲染缓存保持不变。
-        // 我们更新每个智能对象以确保由 NewSmartObjectViaCopy 创建的新层
-        // 不与其他人共享嵌入图像。
+        // 复制的图层与原始智能对象共享其嵌入的图像
+        // 并且应显式更新，否则其渲染缓存保持不变。
+        // 我们更新每个智能对象，以确保由 NewSmartObjectViaCopy 创建的新图层
+        // 不会与其他图层共享嵌入的图像。
         image.SmartObjectProvider.UpdateAllModifiedContent();
 
         image.Save(pngOutputPath, new PngOptions() { ColorType = PngColorType.TruecolorWithAlpha });
@@ -112,10 +113,10 @@ void AssertIsTrue(bool condition)
 }
 ```
 
-### 也可以看看
+### 另请参阅
 
 * class [SmartObjectLayer](../)
-* 命名空间 [Aspose.PSD.FileFormats.Psd.Layers.SmartObjects](../../smartobjectlayer/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.SmartObjects](../../../aspose.psd.fileformats.psd.layers.smartobjects/)
+* assembly [Aspose.PSD](../../../)
 
 

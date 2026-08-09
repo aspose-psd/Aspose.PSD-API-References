@@ -1,31 +1,32 @@
 ---
-title: WorkingPathResource.WorkingPathResource
-second_title: Aspose.PSD for .NET API 参考
-description: WorkingPathResource 构造函数. 初始化一个新的实例WorkingPathResource类.
+title: "WorkingPathResource.WorkingPathResource"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "WorkingPathResource 构造函数。初始化 WorkingPathResource 类的新实例"
 type: docs
 weight: 10
 url: /zh/net/aspose.psd.fileformats.psd.resources/workingpathresource/workingpathresource/
 ---
+{{< psd/tize >}}
 ## WorkingPathResource constructor
 
-初始化一个新的实例[`WorkingPathResource`](../)类.
+初始化 [`WorkingPathResource`](../) 类的新实例。
 
 ```csharp
 public WorkingPathResource(byte[] dataBytes)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| dataBytes | Byte[] | 矢量路径的数据。 |
+| dataBytes | Byte[] | 向量路径的数据。 |
 
-### 例子
+## 示例
 
-此示例演示了 PsdImage.ImageResources 中“WorkingPathResource”资源的支持，以便正确处理 Crop 操作。
+此示例演示在 PsdImage.ImageResources 中对 'WorkingPathResource' 资源的支持，以正确执行裁剪操作。
 
 ```csharp
 [C#]
 
-//裁剪图像并保存。
+// 裁剪图像并保存。
 using (var psdImage = (PsdImage)Image.Load(sourceFile))
 {
     // 搜索 WorkingPathResource 资源。
@@ -46,12 +47,12 @@ using (var psdImage = (PsdImage)Image.Load(sourceFile))
         throw new Exception("Values is incorrect.");
     }
 
-    //裁剪并保存。
+    // 裁剪并保存。
     psdImage.Crop(0, 500, 0, 200);
     psdImage.Save(outputFile);
 }
 
-// 加载保存的图像并检查更改。
+// 加载已保存的图像并检查更改。
 using (var psdImage = (PsdImage)Image.Load(outputFile))
 {
     // 搜索 WorkingPathResource 资源。
@@ -74,10 +75,10 @@ using (var psdImage = (PsdImage)Image.Load(outputFile))
 }
 ```
 
-### 也可以看看
+### 另请参阅
 
 * class [WorkingPathResource](../)
-* 命名空间 [Aspose.PSD.FileFormats.Psd.Resources](../../workingpathresource/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

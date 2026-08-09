@@ -1,14 +1,15 @@
 ---
-title: RectangleF.Size
-second_title: Aspose.PSD for .NET API 参考
-description: RectangleF 财产. 获取或设置这个的大小RectangleF .
+title: "RectangleF.Size"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "RectangleF property. 获取或设置此 RectangleF 的大小。"
 type: docs
 weight: 140
 url: /zh/net/aspose.psd/rectanglef/size/
 ---
+{{< psd/tize >}}
 ## RectangleF.Size property
 
-获取或设置这个的大小[`RectangleF`](../) .
+获取或设置此 [`SizeF`](../../sizef/) 的大小，该大小表示此 [`RectangleF`](../) 结构的宽度和高度。
 
 ```csharp
 public SizeF Size { get; set; }
@@ -16,13 +17,13 @@ public SizeF Size { get; set; }
 
 ### 返回值
 
-A[`SizeF`](../../sizef/)代表这个的宽度和高度[`RectangleF`](../)结构。
+一个表示此 [`RectangleF`](../) 结构的宽度和高度的 [`SizeF`](../../sizef/)。
 
-### 也可以看看
+### 另请参阅
 
 * struct [SizeF](../../sizef/)
 * struct [RectangleF](../)
-* 命名空间 [Aspose.PSD](../../rectanglef/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

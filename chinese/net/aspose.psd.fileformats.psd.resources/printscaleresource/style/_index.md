@@ -1,11 +1,12 @@
 ---
-title: PrintScaleResource.Style
-second_title: Aspose.PSD for .NET API 参考
-description: PrintScaleResource 财产. 获取或设置样式
+title: "PrintScaleResource.Style"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "PrintScaleResource 属性。获取或设置样式"
 type: docs
 weight: 50
 url: /zh/net/aspose.psd.fileformats.psd.resources/printscaleresource/style/
 ---
+{{< psd/tize >}}
 ## PrintScaleResource.Style property
 
 获取或设置样式。
@@ -14,14 +15,14 @@ url: /zh/net/aspose.psd.fileformats.psd.resources/printscaleresource/style/
 public short Style { get; set; }
 ```
 
-### 适当的价值
+### Property Value
 
-样式.
+样式。
 
-### 也可以看看
+### 另请参阅
 
 * class [PrintScaleResource](../)
-* 命名空间 [Aspose.PSD.FileFormats.Psd.Resources](../../printscaleresource/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: Interface IBufferProcessor
-second_title: Aspose.PSD for .NET API 参考
-description: Aspose.PSD.IBufferProcessor 界面. 缓冲处理器
+title: "接口 IBufferProcessor"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "Aspose.PSD.IBufferProcessor 接口。缓冲区处理器"
 type: docs
-weight: 4370
+weight: 4840
 url: /zh/net/aspose.psd/ibufferprocessor/
 ---
+{{< psd/tize >}}
 ## IBufferProcessor interface
 
-缓冲处理器。
+缓冲区处理器。
 
 ```csharp
 public interface IBufferProcessor
@@ -16,13 +17,13 @@ public interface IBufferProcessor
 
 ## 方法
 
-| 姓名 | 描述 |
+| 名称 | 描述 |
 | --- | --- |
 | [ProcessBuffer](../../aspose.psd/ibufferprocessor/processbuffer/)(byte[], int) | 处理缓冲区。 |
 
-### 也可以看看
+### 另请参阅
 
-* 命名空间 [Aspose.PSD](../../aspose.psd/)
-* 部件 [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

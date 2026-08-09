@@ -1,30 +1,31 @@
 ---
-title: Enum DashCap
-second_title: Aspose.PSD for .NET API 参考
-description: Aspose.PSD.DashCap 枚举. 指定要在虚线中每个破折号两端使用的图形形状类型
+title: "枚举 DashCap"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "Aspose.PSD.DashCap 枚举。指定在虚线的每个短划线两端使用的图形形状类型。"
 type: docs
-weight: 710
+weight: 720
 url: /zh/net/aspose.psd/dashcap/
 ---
+{{< psd/tize >}}
 ## DashCap enumeration
 
-指定要在虚线中每个破折号两端使用的图形形状类型。
+指定在虚线的每段破折号两端使用的图形形状类型。
 
 ```csharp
 public enum DashCap
 ```
 
-### 价值观
+### 值
 
-| 姓名 | 价值 | 描述 |
+| 名称 | 值 | 描述 |
 | --- | --- | --- |
-| Flat | `0` | 指定一个方帽，使每个破折号的两端都呈方形。 |
-| Round | `2` | 指定一个圆形帽，将每个破折号的两端四舍五入。 |
-| Triangle | `3` | 指定指向每个破折号两端的三角形帽。 |
+| Flat | `0` | 指定一个方形帽，使每个短划线的两端呈方形。 |
+| Round | `2` | 指定一个圆形帽，使每个短划线的两端呈圆形。 |
+| Triangle | `3` | 指定一个三角形帽，使每个短划线的两端呈三角形。 |
 
-### 也可以看看
+### 另请参阅
 
-* 命名空间 [Aspose.PSD](../../aspose.psd/)
-* 部件 [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

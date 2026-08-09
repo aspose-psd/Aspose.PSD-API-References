@@ -1,14 +1,15 @@
 ---
-title: NonGenericDictionary.SyncRoot
-second_title: Aspose.PSD for .NET API 参考
-description: NonGenericDictionary 财产. 获取可用于同步访问 的对象ICollection .
+title: "NonGenericDictionary.SyncRoot"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "NonGenericDictionary 属性。获取可用于同步对 ICollection 访问的对象"
 type: docs
 weight: 80
 url: /zh/net/aspose.psd/nongenericdictionary/syncroot/
 ---
+{{< psd/tize >}}
 ## NonGenericDictionary.SyncRoot property
 
-获取可用于同步访问 的对象ICollection .
+获取可用于同步对 ICollection 访问的对象。
 
 ```csharp
 public object SyncRoot { get; }
@@ -16,12 +17,12 @@ public object SyncRoot { get; }
 
 ### 返回值
 
-可用于同步访问的对象ICollection.
+可用于同步对 ICollection 访问的对象。
 
-### 也可以看看
+### 另请参阅
 
 * class [NonGenericDictionary](../)
-* 命名空间 [Aspose.PSD](../../nongenericdictionary/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

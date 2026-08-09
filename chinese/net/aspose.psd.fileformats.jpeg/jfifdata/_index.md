@@ -1,11 +1,12 @@
 ---
-title: Class JFIFData
-second_title: Aspose.PSD for .NET API 参考
-description: Aspose.PSD.FileFormats.Jpeg.JFIFData 班级. jfif 段
+title: "类 JFIFData"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "Aspose.PSD.FileFormats.Jpeg.JFIFData 类。jfif 段。"
 type: docs
-weight: 1470
+weight: 1480
 url: /zh/net/aspose.psd.fileformats.jpeg/jfifdata/
 ---
+{{< psd/tize >}}
 ## JFIFData class
 
 jfif 段。
@@ -16,13 +17,13 @@ public sealed class JFIFData
 
 ## 构造函数
 
-| 姓名 | 描述 |
+| 名称 | 描述 |
 | --- | --- |
-| [JFIFData](jfifdata/)() | 初始化一个新的实例`JFIFData`类. |
+| [JFIFData](jfifdata/)() | 初始化 `JFIFData` 类的新实例。 |
 
-## 特性
+## 属性
 
-| 姓名 | 描述 |
+| 名称 | 描述 |
 | --- | --- |
 | [DensityUnits](../../aspose.psd.fileformats.jpeg/jfifdata/densityunits/) { get; set; } | 获取或设置密度单位。 |
 | [Thumbnail](../../aspose.psd.fileformats.jpeg/jfifdata/thumbnail/) { get; set; } | 获取或设置缩略图。 |
@@ -30,9 +31,9 @@ public sealed class JFIFData
 | [XDensity](../../aspose.psd.fileformats.jpeg/jfifdata/xdensity/) { get; set; } | 获取或设置 x 密度。 |
 | [YDensity](../../aspose.psd.fileformats.jpeg/jfifdata/ydensity/) { get; set; } | 获取或设置 y 密度。 |
 
-### 也可以看看
+### 另请参阅
 
-* 命名空间 [Aspose.PSD.FileFormats.Jpeg](../../aspose.psd.fileformats.jpeg/)
-* 部件 [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Jpeg](../../aspose.psd.fileformats.jpeg/)
+* assembly [Aspose.PSD](../../)
 
 

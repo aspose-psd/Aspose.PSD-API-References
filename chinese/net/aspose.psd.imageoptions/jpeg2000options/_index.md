@@ -1,14 +1,15 @@
 ---
-title: Class Jpeg2000Options
-second_title: Aspose.PSD for .NET API 参考
-description: Aspose.PSD.ImageOptions.Jpeg2000Options 班级. Jpeg2000 文件格式选项
+title: "类 Jpeg2000Options"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "Aspose.PSD.ImageOptions.Jpeg2000Options 类。Jpeg2000 文件格式选项"
 type: docs
-weight: 4830
+weight: 5320
 url: /zh/net/aspose.psd.imageoptions/jpeg2000options/
 ---
+{{< psd/tize >}}
 ## Jpeg2000Options class
 
-Jpeg2000 文件格式选项。
+该 Jpeg2000 文件格式选项。
 
 ```csharp
 public class Jpeg2000Options : ImageOptionsBase
@@ -16,41 +17,41 @@ public class Jpeg2000Options : ImageOptionsBase
 
 ## 构造函数
 
-| 姓名 | 描述 |
+| 名称 | 描述 |
 | --- | --- |
-| [Jpeg2000Options](jpeg2000options/#constructor)() | 初始化一个新的实例`Jpeg2000Options`类. |
-| [Jpeg2000Options](jpeg2000options/#constructor_1)(Jpeg2000Options) | 初始化一个新的实例`Jpeg2000Options`类. |
+| [Jpeg2000Options](jpeg2000options/#constructor)() | 初始化 `Jpeg2000Options` 类的新实例。 |
+| [Jpeg2000Options](jpeg2000options/#constructor_1)(Jpeg2000Options) | 初始化 `Jpeg2000Options` 类的新实例。 |
 
-## 特性
+## 属性
 
-| 姓名 | 描述 |
+| 名称 | 描述 |
 | --- | --- |
-| [BufferSizeHint](../../aspose.psd/imageoptionsbase/buffersizehint/) { get; set; } | 获取或设置缓冲区大小提示，它是为所有内部缓冲区定义的最大允许大小。 |
+| [BufferSizeHint](../../aspose.psd/imageoptionsbase/buffersizehint/) { get; set; } | 获取或设置缓冲区大小提示，该提示定义了所有内部缓冲区的最大允许大小。 |
 | [Codec](../../aspose.psd.imageoptions/jpeg2000options/codec/) { get; set; } | 获取或设置 JPEG2000 编解码器 |
-| [Comments](../../aspose.psd.imageoptions/jpeg2000options/comments/) { get; set; } | 获取或设置 Jpeg 注释标记。 |
-| [CompressionRatios](../../aspose.psd.imageoptions/jpeg2000options/compressionratios/) { get; set; } | 获取或设置压缩率数组。 连续层的不同压缩率。 为每个质量级别指定的比率是所需的 压缩因子。 所需的递减比率。 |
-| virtual [DefaultReplacementFont](../../aspose.psd/imageoptionsbase/defaultreplacementfont/) { get; set; } | 获取或设置默认替换字体（导出到光栅时将用于绘制文本的字体，如果系统中未显示 PSD 文件中的现有图层字体）。 可以使用下一个代码片段来获取默认字体的正确名称: System.Drawing.Text.InstalledFontCollection col = new System.Drawing.Text.InstalledFontCollection(); System.Drawing.FontFamily[] families = col.Families; string defaultFontName = families[0].Name; PsdLoadOptions psdLoadOptions = new PsdLoadOptions() { DefaultReplacementFont = defaultFontName }); 复制代码 |
-| [Disposed](../../aspose.psd/disposableobject/disposed/) { get; } | 获取一个值，该值表示该实例是否被释放。 |
-| [FullFrame](../../aspose.psd/imageoptionsbase/fullframe/) { get; set; } | 获取或设置一个值，表示是否[全帧]. |
-| [Irreversible](../../aspose.psd.imageoptions/jpeg2000options/irreversible/) { get; set; } | 获取或设置一个值，指示是使用不可逆 DWT 9-7（真）还是使用无损 DWT 5-3 压缩（默认）。 |
+| [Comments](../../aspose.psd.imageoptions/jpeg2000options/comments/) { get; set; } | 获取或设置 JPEG 注释标记。 |
+| [CompressionRatios](../../aspose.psd.imageoptions/jpeg2000options/compressionratios/) { get; set; } | 获取或设置压缩比数组。为后续层提供不同的压缩比。为每个质量级别指定的比率是期望的压缩因子。需要递减的比率。 |
+| virtual [DefaultReplacementFont](../../aspose.psd/imageoptionsbase/defaultreplacementfont/) { get; set; } | 获取或设置默认替代字体（在导出为光栅时用于绘制文本的字体，如果 PSD 文件中现有图层的字体在系统中不存在）。要获取默认字体的正确名称，可以使用以下代码片段：System.Drawing.Text.InstalledFontCollection col = new System.Drawing.Text.InstalledFontCollection(); System.Drawing.FontFamily[] families = col.Families; string defaultFontName = families[0].Name; PsdLoadOptions psdLoadOptions = new PsdLoadOptions() { DefaultReplacementFont = defaultFontName }); |
+| [Disposed](../../aspose.psd/disposableobject/disposed/) { get; } | 获取一个值，指示此实例是否已释放。 |
+| [FullFrame](../../aspose.psd/imageoptionsbase/fullframe/) { get; set; } | 获取或设置一个值，指示是否为 [full frame]。 |
+| [Irreversible](../../aspose.psd.imageoptions/jpeg2000options/irreversible/) { get; set; } | 获取或设置一个值，指示是使用不可逆的 DWT 9-7（true）还是使用无损的 DWT 5-3 压缩（默认）。 |
 | [MultiPageOptions](../../aspose.psd/imageoptionsbase/multipageoptions/) { get; set; } | 多页选项 |
-| virtual [Palette](../../aspose.psd/imageoptionsbase/palette/) { get; set; } | 获取或设置调色板。 |
+| virtual [Palette](../../aspose.psd/imageoptionsbase/palette/) { get; set; } | 获取或设置颜色调色板。 |
 | [ProgressEventHandler](../../aspose.psd/imageoptionsbase/progresseventhandler/) { get; set; } | 获取或设置进度事件处理程序。 |
 | virtual [ResolutionSettings](../../aspose.psd/imageoptionsbase/resolutionsettings/) { get; set; } | 获取或设置分辨率设置。 |
-| [Source](../../aspose.psd/imageoptionsbase/source/) { get; set; } | 获取或设置创建图像的来源. |
+| [Source](../../aspose.psd/imageoptionsbase/source/) { get; set; } | 获取或设置用于创建图像的源。 |
 | [VectorRasterizationOptions](../../aspose.psd/imageoptionsbase/vectorrasterizationoptions/) { get; set; } | 获取或设置矢量光栅化选项。 |
 | override [XmpData](../../aspose.psd.imageoptions/jpeg2000options/xmpdata/) { get; set; } | 获取或设置 XMP 元数据容器。 |
 
 ## 方法
 
-| 姓名 | 描述 |
+| 名称 | 描述 |
 | --- | --- |
 | virtual [Clone](../../aspose.psd/imageoptionsbase/clone/)() | 克隆此实例。 |
-| [Dispose](../../aspose.psd/disposableobject/dispose/)() | 处理当前实例。 |
+| [Dispose](../../aspose.psd/disposableobject/dispose/)() | 释放当前实例。 |
 
-### 例子
+## 示例
 
-此示例演示了使用 SaveOptions 命名空间中的不同类进行导出。 Psd 类型的图像被加载到 Image 的实例中，然后导出为多种格式。
+此示例演示了在导出过程中使用 SaveOptions 命名空间中的不同类。将 Psd 类型的图像加载到 Image 实例中，然后导出为多种格式。
 
 ```csharp
 [C#]
@@ -58,27 +59,27 @@ public class Jpeg2000Options : ImageOptionsBase
 //在 Image 类的实例中加载现有图像
 using (Aspose.PSD.Image image = Aspose.PSD.Image.Load(@"C:\temp\image.psd"))
 {
-    //使用默认选项导出为BMP文件格式
+    //使用默认选项导出为 BMP 文件格式
     image.Save(@"C:\temp\output.bmp", new Aspose.PSD.ImageOptions.BmpOptions());
 
-    //使用默认选项导出为JPEG文件格式
+    //使用默认选项导出为 JPEG 文件格式
     image.Save(@"C:\temp\output.jpeg", new Aspose.PSD.ImageOptions.JpegOptions());
 
     //使用默认选项导出为 JPEG 2000 文件格式
     image.Save(@"C:\temp\output.jp2", new Aspose.PSD.ImageOptions.Jpeg2000Options());
 
-    //使用默认选项导出为PNG文件格式
+    //使用默认选项导出为 PNG 文件格式
     image.Save(@"C:\temp\output.png", new Aspose.PSD.ImageOptions.PngOptions());
 
-    //使用默认选项导出为TIFF文件格式
+    //使用默认选项导出为 TIFF 文件格式
     image.Save(@"c:\temp\output.tiff", new Aspose.PSD.ImageOptions.TiffOptions(Aspose.PSD.FileFormats.Tiff.Enums.TiffExpectedFormat.Default));
 }
 ```
 
-### 也可以看看
+### 另请参阅
 
 * class [ImageOptionsBase](../../aspose.psd/imageoptionsbase/)
-* 命名空间 [Aspose.PSD.ImageOptions](../../aspose.psd.imageoptions/)
-* 部件 [Aspose.PSD](../../)
+* namespace [Aspose.PSD.ImageOptions](../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../)
 
 

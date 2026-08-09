@@ -1,11 +1,12 @@
 ---
-title: AudioChannelType.Audio51
-second_title: Aspose.PSD for .NET API 参考
-description: AudioChannelType 财产. 获取 5.1 音频通道
+title: "AudioChannelType.Audio51"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "AudioChannelType 属性。获取 5.1 音频通道"
 type: docs
 weight: 20
 url: /zh/net/aspose.psd.xmp.schemas.xmpdm/audiochanneltype/audio51/
 ---
+{{< psd/tize >}}
 ## AudioChannelType.Audio51 property
 
 获取 5.1 音频通道。
@@ -14,14 +15,14 @@ url: /zh/net/aspose.psd.xmp.schemas.xmpdm/audiochanneltype/audio51/
 public static AudioChannelType Audio51 { get; }
 ```
 
-### 适当的价值
+### Property Value
 
-5.1 音频通道。
+该 5.1 音频通道。
 
-### 也可以看看
+### 另请参阅
 
 * class [AudioChannelType](../)
-* 命名空间 [Aspose.PSD.Xmp.Schemas.XmpDm](../../audiochanneltype/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpDm](../../../aspose.psd.xmp.schemas.xmpdm/)
+* assembly [Aspose.PSD](../../../)
 
 

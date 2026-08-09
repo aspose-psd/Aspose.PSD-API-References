@@ -1,27 +1,28 @@
 ---
-title: DataMissmatchError.DataMissmatchError
-second_title: Aspose.PSD for .NET API 参考
-description: DataMissmatchError 构造函数. 初始化一个新的实例DataMissmatchError类.
+title: "DataMissmatchError.DataMissmatchError"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "DataMissmatchError 构造函数。初始化 DataMissmatchError 类的新实例"
 type: docs
 weight: 10
 url: /zh/net/aspose.psd.coreexceptions/datamissmatcherror/datamissmatcherror/
 ---
+{{< psd/tize >}}
 ## DataMissmatchError constructor
 
-初始化一个新的实例[`DataMissmatchError`](../)类.
+初始化 [`DataMissmatchError`](../) 类的新实例。
 
 ```csharp
 public DataMissmatchError(string message)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| message | String | 描述错误的消息。 |
+| 消息 | String | 描述错误的消息。 |
 
-### 也可以看看
+### 另请参阅
 
 * class [DataMissmatchError](../)
-* 命名空间 [Aspose.PSD.CoreExceptions](../../datamissmatcherror/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.CoreExceptions](../../../aspose.psd.coreexceptions/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,34 +1,35 @@
 ---
-title: Pen.Alignment
-second_title: Aspose.PSD for .NET API 参考
-description: Pen 财产. 获取或设置此对齐方式Pen .
+title: "Pen.Alignment"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "Pen属性。获取或设置此Pen的对齐方式。"
 type: docs
 weight: 20
 url: /zh/net/aspose.psd/pen/alignment/
 ---
+{{< psd/tize >}}
 ## Pen.Alignment property
 
-获取或设置此对齐方式[`Pen`](../) .
+获取或设置此[`Pen`](../)的对齐方式。
 
 ```csharp
 public PenAlignment Alignment { get; set; }
 ```
 
-### 适当的价值
+### Property Value
 
-A[`PenAlignment`](../../penalignment/)表示为此对齐[`Pen`](../).
+一个[`PenAlignment`](../../penalignment/)，表示此[`Pen`](../)的对齐方式。
 
-### 例外
+### 异常
 
-| 例外 | （健康）状况 |
+| 异常 | 条件 |
 | --- | --- |
-| ArgumentException | 这`Alignment`属性设置在一个不可变的[`Pen`](../)，例如返回的那些[`Pen`](../)班级。 |
+| ArgumentException | `Alignment`属性设置在不可变的[`Pen`](../)上，例如由[`Pen`](../)类返回的那些。 |
 
-### 也可以看看
+### 另请参阅
 
 * enum [PenAlignment](../../penalignment/)
 * class [Pen](../)
-* 命名空间 [Aspose.PSD](../../pen/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: IPatternFillSettings.Linked
-second_title: Aspose.PSD for .NET API 参考
-description: IPatternFillSettings 财产. 获取或设置一个值指示是否这IPatternFillSettings链接.
+title: "IPatternFillSettings.Linked"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "IPatternFillSettings 属性。获取或设置一个值，指示此 IPatternFillSettings 是否已链接"
 type: docs
-weight: 20
+weight: 30
 url: /zh/net/aspose.psd.fileformats.psd.layers.fillsettings/ipatternfillsettings/linked/
 ---
+{{< psd/tize >}}
 ## IPatternFillSettings.Linked property
 
-获取或设置一个值，指示是否这[`IPatternFillSettings`](../)链接.
+获取或设置一个值，指示此 [`IPatternFillSettings`](../) 是否已链接。
 
 ```csharp
 public bool Linked { get; set; }
 ```
 
-### 适当的价值
+### Property Value
 
-`真的`如果链接；否则，`错误的` .
+`true` 表示已链接；否则为 `false`。
 
-### 也可以看看
+### 另请参阅
 
 * interface [IPatternFillSettings](../)
-* 命名空间 [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../ipatternfillsettings/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../../)
 
 

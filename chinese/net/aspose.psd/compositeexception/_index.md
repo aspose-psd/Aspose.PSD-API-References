@@ -1,11 +1,12 @@
 ---
-title: Class CompositeException
-second_title: Aspose.PSD for .NET API 参考
-description: Aspose.PSD.CompositeException 班级. 复合异常
+title: "类 CompositeException"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "Aspose.PSD.CompositeException 类。复合异常"
 type: docs
 weight: 410
 url: /zh/net/aspose.psd/compositeexception/
 ---
+{{< psd/tize >}}
 ## CompositeException class
 
 复合异常
@@ -14,9 +15,9 @@ url: /zh/net/aspose.psd/compositeexception/
 public class CompositeException : Exception
 ```
 
-### 也可以看看
+### 另请参阅
 
-* 命名空间 [Aspose.PSD](../../aspose.psd/)
-* 部件 [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

@@ -1,26 +1,27 @@
 ---
-title: AiLayerSection.IsLocked
-second_title: Aspose.PSD for .NET API 参考
-description: AiLayerSection 财产. 获取或设置一个值该值指示该层是否已锁定 防止更改项目
+title: "AiLayerSection.IsLocked"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "AiLayerSection 属性。获取或设置一个值，指示此图层是否被锁定。防止对该项目的更改"
 type: docs
-weight: 60
+weight: 80
 url: /zh/net/aspose.psd.fileformats.ai/ailayersection/islocked/
 ---
+{{< psd/tize >}}
 ## AiLayerSection.IsLocked property
 
-获取或设置一个值，该值指示该层是否已锁定。 防止更改项目。
+获取或设置一个值，指示此图层是否被锁定。防止对该项目进行更改。
 
 ```csharp
 public bool IsLocked { get; set; }
 ```
 
-### 适当的价值
+### Property Value
 
-`真的`如果该层被锁定；否则，`错误的` .
+`true` 如果此图层被锁定；否则为 `false`。
 
-### 例子
+## 示例
 
-以下示例演示了对 AI 格式文件中图层的支持。
+以下示例演示了在 AI 格式文件中对图层的支持。
 
 ```csharp
 [C#]
@@ -70,10 +71,10 @@ using (AiImage image = (AiImage)Image.Load(sourceFilePath))
 }
 ```
 
-### 也可以看看
+### 另请参阅
 
 * class [AiLayerSection](../)
-* 命名空间 [Aspose.PSD.FileFormats.Ai](../../ailayersection/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

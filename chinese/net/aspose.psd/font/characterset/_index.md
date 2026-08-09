@@ -1,28 +1,29 @@
 ---
-title: Font.CharacterSet
-second_title: Aspose.PSD for .NET API 参考
-description: Font 财产. 获取指定字符集的字节值Font使用.
+title: "Font.CharacterSet"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "Font 属性。获取一个字节值，指定此 Font 使用的字符集"
 type: docs
 weight: 30
 url: /zh/net/aspose.psd/font/characterset/
 ---
+{{< psd/tize >}}
 ## Font.CharacterSet property
 
-获取指定字符集的字节值[`Font`](../)使用.
+获取一个字节值，指定此 [`Font`](../) 使用的字符集。
 
 ```csharp
 public CharacterSet CharacterSet { get; }
 ```
 
-### 适当的价值
+### Property Value
 
-一个字符集，这个[`Font`](../)使用。
+此 [`Font`](../) 使用的字符集。
 
-### 也可以看看
+### 另请参阅
 
 * enum [CharacterSet](../../characterset/)
 * class [Font](../)
-* 命名空间 [Aspose.PSD](../../font/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

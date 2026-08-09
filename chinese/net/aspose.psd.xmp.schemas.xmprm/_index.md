@@ -1,17 +1,18 @@
 ---
-title: Aspose.PSD.Xmp.Schemas.XmpRm
-second_title: Aspose.PSD for .NET API 参考
-description: 命名空间包含与权限管理助手类常量和方法相关的内容 这些属性指定有关与资源关联的法律限制的信息
+title: "Aspose.PSD.Xmp.Schemas.XmpRm"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "该命名空间包含与权利管理相关的帮助类、常量和方法。这些属性指定与资源相关的法律限制信息。"
 type: docs
-weight: 590
+weight: 630
 url: /zh/net/aspose.psd.xmp.schemas.xmprm/
 ---
-命名空间包含与权限管理助手类、常量和方法相关的内容。 这些属性指定有关与资源关联的法律限制的信息。
+{{< psd/tize >}}
+该命名空间包含与权限管理相关的帮助类、常量和方法。这些属性指定与资源相关的法律限制信息。
 
-## 课程
+## 类
 
-| 班级 | 描述 |
+| 类 | 描述 |
 | --- | --- |
-| [XmpRightsManagementPackage](./xmprightsmanagementpackage/) | 表示 XMP 权限管理命名空间。 |
+| [XmpRightsManagementPackage](./xmprightsmanagementpackage/) | 表示 XMP 权利管理命名空间。 |
 
 

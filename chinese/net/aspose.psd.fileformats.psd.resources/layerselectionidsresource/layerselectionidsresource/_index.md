@@ -1,11 +1,12 @@
 ---
-title: LayerSelectionIdsResource.LayerSelectionIdsResource
-second_title: Aspose.PSD for .NET API 参考
-description: LayerSelectionIdsResource 构造函数. 默认构造函数
+title: "LayerSelectionIdsResource.LayerSelectionIdsResource"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "LayerSelectionIdsResource 构造函数。默认构造函数"
 type: docs
 weight: 10
 url: /zh/net/aspose.psd.fileformats.psd.resources/layerselectionidsresource/layerselectionidsresource/
 ---
+{{< psd/tize >}}
 ## LayerSelectionIdsResource constructor
 
 默认构造函数。
@@ -14,10 +15,10 @@ url: /zh/net/aspose.psd.fileformats.psd.resources/layerselectionidsresource/laye
 public LayerSelectionIdsResource()
 ```
 
-### 也可以看看
+### 另请参阅
 
 * class [LayerSelectionIdsResource](../)
-* 命名空间 [Aspose.PSD.FileFormats.Psd.Resources](../../layerselectionidsresource/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

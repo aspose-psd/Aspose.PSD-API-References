@@ -1,28 +1,29 @@
 ---
-title: BezierSegment.SecondControlPoint
-second_title: Aspose.PSD for .NET API 参考
-description: BezierSegment 财产. 获取贝塞尔曲线的第二个控制点
+title: "BezierSegment.SecondControlPoint"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "BezierSegment 属性。获取贝塞尔样条的第二控制点。"
 type: docs
 weight: 30
 url: /zh/net/aspose.psd.shapesegments/beziersegment/secondcontrolpoint/
 ---
+{{< psd/tize >}}
 ## BezierSegment.SecondControlPoint property
 
-获取贝塞尔曲线的第二个控制点。
+获取贝塞尔样条的第二个控制点。
 
 ```csharp
 public PointF SecondControlPoint { get; }
 ```
 
-### 适当的价值
+### Property Value
 
-第二个控制点。
+第二控制点。
 
-### 也可以看看
+### 另请参阅
 
 * struct [PointF](../../../aspose.psd/pointf/)
 * class [BezierSegment](../)
-* 命名空间 [Aspose.PSD.ShapeSegments](../../beziersegment/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ShapeSegments](../../../aspose.psd.shapesegments/)
+* assembly [Aspose.PSD](../../../)
 
 

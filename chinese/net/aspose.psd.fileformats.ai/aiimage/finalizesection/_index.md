@@ -1,28 +1,29 @@
 ---
-title: AiImage.FinalizeSection
-second_title: Aspose.PSD for .NET API 参考
-description: AiImage 财产. 获取最终部分
+title: "AiImage.FinalizeSection"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "AiImage 属性。获取 finalize 部分"
 type: docs
-weight: 50
+weight: 60
 url: /zh/net/aspose.psd.fileformats.ai/aiimage/finalizesection/
 ---
+{{< psd/tize >}}
 ## AiImage.FinalizeSection property
 
-获取最终部分。
+获取完成段。
 
 ```csharp
 public AiFinalizeSection FinalizeSection { get; }
 ```
 
-### 适当的价值
+### Property Value
 
-完成部分。
+该 finalize 部分。
 
-### 也可以看看
+### 另请参阅
 
 * class [AiFinalizeSection](../../aifinalizesection/)
 * class [AiImage](../)
-* 命名空间 [Aspose.PSD.FileFormats.Ai](../../aiimage/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

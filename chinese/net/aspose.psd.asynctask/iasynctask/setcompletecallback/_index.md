@@ -1,28 +1,29 @@
 ---
-title: IAsyncTask.SetCompleteCallback
-second_title: Aspose.PSD for .NET API 参考
-description: IAsyncTask 方法. 设置完整的回调委托
+title: "IAsyncTask.SetCompleteCallback"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "IAsyncTask 方法。设置完成回调委托"
 type: docs
 weight: 100
 url: /zh/net/aspose.psd.asynctask/iasynctask/setcompletecallback/
 ---
+{{< psd/tize >}}
 ## IAsyncTask.SetCompleteCallback method
 
-设置完整的回调委托。
+设置完成回调委托。
 
 ```csharp
 public void SetCompleteCallback(CompleteCallback completeCallback)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| completeCallback | CompleteCallback | 完整的回调。 |
+| completeCallback | CompleteCallback | 完成回调。 |
 
-### 也可以看看
+### 另请参阅
 
 * delegate [CompleteCallback](../../completecallback/)
 * interface [IAsyncTask](../)
-* 命名空间 [Aspose.PSD.AsyncTask](../../iasynctask/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.AsyncTask](../../../aspose.psd.asynctask/)
+* assembly [Aspose.PSD](../../../)
 
 

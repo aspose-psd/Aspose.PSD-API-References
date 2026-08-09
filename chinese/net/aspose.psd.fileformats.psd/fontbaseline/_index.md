@@ -1,11 +1,12 @@
 ---
-title: Enum FontBaseline
-second_title: Aspose.PSD for .NET API 参考
-description: Aspose.PSD.FileFormats.Psd.FontBaseline 枚举. 这是字体基线
+title: "枚举 FontBaseline"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "Aspose.PSD.FileFormats.Psd.FontBaseline 枚举。这是字体基线"
 type: docs
-weight: 1630
+weight: 1670
 url: /zh/net/aspose.psd.fileformats.psd/fontbaseline/
 ---
+{{< psd/tize >}}
 ## FontBaseline enumeration
 
 这是字体基线。
@@ -14,17 +15,17 @@ url: /zh/net/aspose.psd.fileformats.psd/fontbaseline/
 public enum FontBaseline
 ```
 
-### 价值观
+### 值
 
-| 姓名 | 价值 | 描述 |
+| 名称 | 值 | 描述 |
 | --- | --- | --- |
 | None | `0` | 无基线值 |
-| Superscript | `1` | 上标基线. |
-| Subscript | `2` | 下标基线. |
+| Superscript | `1` | 上标基线。 |
+| Subscript | `2` | 下标基线。 |
 
-### 也可以看看
+### 另请参阅
 
-* 命名空间 [Aspose.PSD.FileFormats.Psd](../../aspose.psd.fileformats.psd/)
-* 部件 [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../)
 
 

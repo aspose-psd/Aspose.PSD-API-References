@@ -1,24 +1,25 @@
 ---
-title: BlwhResource.TintColor
-second_title: Aspose.PSD for .NET API 参考
-description: BlwhResource 财产. 获取或设置 Tint Color ARGB 值
+title: "BlwhResource.TintColor"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "BlwhResource 属性。获取或设置 Tint Color ARGB 值"
 type: docs
-weight: 120
+weight: 100
 url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources/blwhresource/tintcolor/
 ---
+{{< psd/tize >}}
 ## BlwhResource.TintColor property
 
-获取或设置 Tint Color ARGB 值。
+获取或设置 Tint Color 的 ARGB 值。
 
 ```csharp
 public int TintColor { get; set; }
 ```
 
-### 适当的价值
+### Property Value
 
-色调颜色 ARGB 值。
+该 Tint Color ARGB 值。
 
-### 例子
+## 示例
 
 以下示例演示如何编辑 BlwhResource。
 
@@ -123,10 +124,10 @@ using (PsdImage im = (PsdImage)Image.Load(destinationFileName))
 AssertIsTrue(isRequiredResourceFound, "The specified BlwhResource not found");
 ```
 
-### 也可以看看
+### 另请参阅
 
 * class [BlwhResource](../)
-* 命名空间 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../blwhresource/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

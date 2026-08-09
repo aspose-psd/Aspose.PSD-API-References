@@ -1,22 +1,23 @@
 ---
-title: PathStructure.StructureKey
-second_title: Aspose.PSD for .NET API 参考
-description: PathStructure 场地. 标识结构键
+title: "PathStructure.StructureKey"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "PathStructure 字段。标识结构键"
 type: docs
 weight: 60
 url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/pathstructure/structurekey/
 ---
+{{< psd/tize >}}
 ## PathStructure.StructureKey field
 
-标识结构键。
+识别结构键。
 
 ```csharp
 public const int StructureKey;
 ```
 
-### 例子
+## 示例
 
-以下代码演示了加载具有 PathStructure 结构的文件的能力。
+以下代码演示了使用 PathStructure 结构加载文件的能力。
 
 ```csharp
 [C#]
@@ -30,10 +31,10 @@ using (PsdImage image = (PsdImage)Image.Load(srcFile))
 }
 ```
 
-### 也可以看看
+### 另请参阅
 
 * class [PathStructure](../)
-* 命名空间 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../pathstructure/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 

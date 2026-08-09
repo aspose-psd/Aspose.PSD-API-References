@@ -1,37 +1,38 @@
 ---
-title: TiffDataType.CompareTo
-second_title: Aspose.PSD for .NET API 参考
-description: TiffDataType 方法. 将当前实例与另一个相同类型的对象进行比较并返回一个整数该整数指示当前实例是否在排序顺序中与另一个对象之前之后或出现在相同位置
+title: "TiffDataType.CompareTo"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "TiffDataType 方法。比较当前实例与同一类型的另一个对象，并返回一个整数，指示当前实例在排序顺序中是位于该对象之前、之后还是相同位置。"
 type: docs
 weight: 100
 url: /zh/net/aspose.psd.fileformats.tiff/tiffdatatype/compareto/
 ---
+{{< psd/tize >}}
 ## TiffDataType.CompareTo method
 
-将当前实例与另一个相同类型的对象进行比较，并返回一个整数，该整数指示当前实例是否在排序顺序中与另一个对象之前、之后或出现在相同位置。
+比较当前实例与同类型的另一个对象，并返回一个整数，指示当前实例在排序顺序中是位于前、后还是与另一个对象相同位置。
 
 ```csharp
 public int CompareTo(object obj)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| obj | Object | 要与此实例进行比较的对象。 |
+| obj | Object | 用于与此实例比较的对象。 |
 
 ### 返回值
 
-一个 32 位有符号整数，表示被比较对象的相对顺序。返回值有以下含义： value 含义 小于零 本实例小于*obj*. Zero 这个实例等于*obj*. 大于零 这个实例大于*obj* .
+一个 32 位有符号整数，指示被比较对象的相对顺序。返回值具有以下含义：值 含义 小于零 此实例小于 *obj*。零 此实例等于 *obj*。大于零 此实例大于 *obj*。
 
-### 例外
+### 异常
 
-| 例外 | （健康）状况 |
+| 异常 | 条件 |
 | --- | --- |
 | [TiffImageException](../../../aspose.psd.coreexceptions.imageformats/tiffimageexception/) | 预期的 TiffDataType 类型。 |
 
-### 也可以看看
+### 另请参阅
 
 * class [TiffDataType](../)
-* 命名空间 [Aspose.PSD.FileFormats.Tiff](../../tiffdatatype/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff](../../../aspose.psd.fileformats.tiff/)
+* assembly [Aspose.PSD](../../../)
 
 

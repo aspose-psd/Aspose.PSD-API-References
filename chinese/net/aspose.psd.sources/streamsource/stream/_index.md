@@ -1,11 +1,12 @@
 ---
-title: StreamSource.Stream
-second_title: Aspose.PSD for .NET API 参考
-description: StreamSource 财产. 获取流
+title: "StreamSource.Stream"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "StreamSource 属性。获取流"
 type: docs
 weight: 30
 url: /zh/net/aspose.psd.sources/streamsource/stream/
 ---
+{{< psd/tize >}}
 ## StreamSource.Stream property
 
 获取流。
@@ -14,14 +15,14 @@ url: /zh/net/aspose.psd.sources/streamsource/stream/
 public Stream Stream { get; }
 ```
 
-### 适当的价值
+### Property Value
 
 源流。
 
-### 也可以看看
+### 另请参阅
 
 * class [StreamSource](../)
-* 命名空间 [Aspose.PSD.Sources](../../streamsource/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Sources](../../../aspose.psd.sources/)
+* assembly [Aspose.PSD](../../../)
 
 

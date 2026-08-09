@@ -1,11 +1,12 @@
 ---
-title: VectorShapeOriginSettings.OriginRadiiRectangle
-second_title: Aspose.PSD for .NET API 参考
-description: VectorShapeOriginSettings 财产. 获取或设置原点半径矩形
+title: "VectorShapeOriginSettings.OriginRadiiRectangle"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "VectorShapeOriginSettings 属性。获取或设置原点半径矩形"
 type: docs
 weight: 130
 url: /zh/net/aspose.psd.fileformats.core.vectorpaths/vectorshapeoriginsettings/originradiirectangle/
 ---
+{{< psd/tize >}}
 ## VectorShapeOriginSettings.OriginRadiiRectangle property
 
 获取或设置原点半径矩形。
@@ -14,15 +15,15 @@ url: /zh/net/aspose.psd.fileformats.core.vectorpaths/vectorshapeoriginsettings/o
 public VectorShapeRadiiRectangle OriginRadiiRectangle { get; set; }
 ```
 
-### 适当的价值
+### Property Value
 
 原点半径矩形。
 
-### 也可以看看
+### 另请参阅
 
 * class [VectorShapeRadiiRectangle](../../vectorshaperadiirectangle/)
 * class [VectorShapeOriginSettings](../)
-* 命名空间 [Aspose.PSD.FileFormats.Core.VectorPaths](../../vectorshapeoriginsettings/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../../)
 
 

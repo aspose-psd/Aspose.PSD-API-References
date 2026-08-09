@@ -1,69 +1,70 @@
 ---
-title: Image.Load
-second_title: Aspose.PSD for .NET API 参考
-description: Image 方法. 从指定文件加载新图像
+title: "Image.Load"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "Image 方法。从指定文件加载新图像。"
 type: docs
 weight: 20
 url: /zh/net/aspose.psd/image/load/
 ---
+{{< psd/tize >}}
 ## Load(string, LoadOptions) {#load_3}
 
-从指定文件加载新图像。
+从指定的文件加载新图像。
 
 ```csharp
 public static Image Load(string filePath, LoadOptions loadOptions)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| filePath | String | 从中加载图像的文件路径。 |
+| filePath | String | 要加载图像的文件路径。 |
 | loadOptions | LoadOptions | 加载选项。 |
 
 ### 返回值
 
-加载的图像。
+已加载的图像。
 
-### 也可以看看
+### 另请参阅
 
 * class [LoadOptions](../../loadoptions/)
 * class [Image](../)
-* 命名空间 [Aspose.PSD](../../image/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Load(string) {#load_2}
 
-从指定文件加载新图像。
+从指定的文件加载新图像。
 
 ```csharp
 public static Image Load(string filePath)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| filePath | String | 从中加载图像的文件路径。 |
+| filePath | String | 要加载图像的文件路径。 |
 
 ### 返回值
 
-加载的图像。
+已加载的图像。
 
-### 例子
+## 示例
 
-此示例演示使用指定的文件路径将现有图像文件加载到 Aspose.PSD.Image 的实例中
+此示例演示了使用指定的文件路径将现有 Image 文件加载到 Aspose.PSD.Image 实例中
 
 ```csharp
 [C#]
 
-//创建图像实例并使用磁盘位置的现有图像文件对其进行初始化
+//创建 Image 实例并使用磁盘位置的现有图像文件进行初始化
 string path = "C:\\temp\\image.psd";
 using (Aspose.PSD.Image image = Aspose.PSD.Image.Load(path))
 {
-    //做一些图像处理
+    //进行一些图像处理。
 }
 ```
 
-以下示例演示了通过 ITextPortion 对从右到左的语言进行的文本对齐可以正常工作。
+以下示例演示了通过 ITextPortion 对从右到左语言的文本对齐能够正确工作。
 
 ```csharp
 [C#]
@@ -83,7 +84,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
 }
 ```
 
-以下示例演示读取灰度 16 位 PSD 文件并将其保存为每通道 16 位 RGB 工作正常且无异常。
+以下示例演示读取并保存 16 位灰度 PSD 文件为每通道 16 位 RGB 时能够正确工作且不会出现异常。
 
 ```csharp
 [C#]
@@ -111,12 +112,12 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
 string pngExportPath = Path.ChangeExtension(exportFilePath, "png");
 using (PsdImage image = (PsdImage)Image.Load(exportFilePath))
 {
-    // 这里应该也不例外。
+    // 此处不应出现异常。
     image.Save(pngExportPath, new PngOptions() { ColorType = PngColorType.GrayscaleWithAlpha });
 }
 ```
 
-以下示例演示了读取 16 位灰度 PSD 文件并将其保存为每通道 8 位灰度的工作正常且无一例外。
+以下示例演示读取并保存 16 位灰度 PSD 文件为每通道 8 位灰度时能够正确工作且不会出现异常。
 
 ```csharp
 [C#]
@@ -144,12 +145,12 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
 string pngExportPath = Path.ChangeExtension(exportFilePath, "png");
 using (PsdImage image = (PsdImage)Image.Load(exportFilePath))
 {
-    // 这里应该也不例外。
+    // 此处不应出现异常。
     image.Save(pngExportPath, new PngOptions() { ColorType = PngColorType.GrayscaleWithAlpha });
 }
 ```
 
-以下示例演示文档转换进度正常且无异常。
+以下示例演示文档转换进度正常工作且没有异常。
 
 ```csharp
 [C#]
@@ -193,7 +194,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath, loadOptions))
 }
 ```
 
-以下示例演示了读取和保存灰度 16 位 PSD 文件的工作正常且没有异常。
+以下示例演示读取和保存 16 位灰度 PSD 文件能够正确工作且不会出现异常。
 
 ```csharp
 [C#]
@@ -239,7 +240,7 @@ void SaveToPsdThenLoadAndSaveToPng(
     string pngExportPath = Path.ChangeExtension(exportPath, "png");
     using (PsdImage image = (PsdImage)Image.Load(exportPath))
     {
-        // 这里应该也不例外。
+        // 此处不应出现异常。
         image.Save(pngExportPath, new PngOptions() { ColorType = PngColorType.GrayscaleWithAlpha });
     }
 
@@ -255,78 +256,78 @@ SaveToPsdThenLoadAndSaveToPng("cmyk16bit_5x5_no_layers", ColorModes.Grayscale, 1
 SaveToPsdThenLoadAndSaveToPng("index8bit_5x5", ColorModes.Grayscale, 16, 2, CompressionMethod.RLE, -1);
 ```
 
-### 也可以看看
+### 另请参阅
 
 * class [Image](../)
-* 命名空间 [Aspose.PSD](../../image/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Load(Stream, LoadOptions) {#load_1}
 
-从指定流加载新图像。
+从指定的流加载新图像。
 
 ```csharp
 public static Image Load(Stream stream, LoadOptions loadOptions)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| stream | Stream | 从中加载图像的流。 |
+| 流 | 流 | 用于加载图像的流。 |
 | loadOptions | LoadOptions | 加载选项。 |
 
 ### 返回值
 
-加载的图像。
+已加载的图像。
 
-### 也可以看看
+### 另请参阅
 
 * class [LoadOptions](../../loadoptions/)
 * class [Image](../)
-* 命名空间 [Aspose.PSD](../../image/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Load(Stream) {#load}
 
-从指定流加载新图像。
+从指定的流加载新图像。
 
 ```csharp
 public static Image Load(Stream stream)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| stream | Stream | 从中加载图像的流。 |
+| 流 | 流 | 用于加载图像的流。 |
 
 ### 返回值
 
-加载的图像。
+已加载的图像。
 
-### 例子
+## 示例
 
-此示例演示了使用 System.IO.Stream 对象加载现有图像文件
+此示例演示了使用 System.IO.Stream 对象加载现有 Image 文件
 
 ```csharp
 [C#]
 
-//创建文件流实例
+//创建 FileStream 的实例
 using(System.IO.FileStream stream = new System.IO.FileStream(@"C:\temp\sample.psd",System.IO.FileMode.Open))
 {
-    //创建一个Image类的实例，调用Load方法通过FileStream对象加载一个已经存在的文件
+    //创建 Image 类的实例，并通过调用 Load 方法使用 FileStream 对象加载现有文件
     using (Aspose.PSD.Image image = Aspose.PSD.Image.Load(stream))
     {
-        //做一些图像处理。
+        //进行一些图像处理。
     }
 }
 ```
 
-### 也可以看看
+### 另请参阅
 
 * class [Image](../)
-* 命名空间 [Aspose.PSD](../../image/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

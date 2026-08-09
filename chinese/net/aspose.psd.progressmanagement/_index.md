@@ -1,22 +1,23 @@
 ---
-title: Aspose.PSD.ProgressManagement
-second_title: Aspose.PSD for .NET API 参考
-description: 命名空间包含进度处理程序类
+title: "Aspose.PSD.ProgressManagement"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "该命名空间包含进度处理程序类"
 type: docs
-weight: 480
+weight: 520
 url: /zh/net/aspose.psd.progressmanagement/
 ---
-命名空间包含进度处理程序类
+{{< psd/tize >}}
+该命名空间包含进度处理程序类
 
-## 课程
+## 类
 
-| 班级 | 描述 |
+| 类 | 描述 |
 | --- | --- |
-| [ProgressEventHandlerInfo](./progresseventhandlerinfo/) | 此类表示有关图像加载/保存/导出操作进度的信息， 可用于外部应用程序以向最终用户显示转换进度 |
+| [ProgressEventHandlerInfo](./progresseventhandlerinfo/) | 此类表示图像加载/保存/导出操作进度的信息，可在外部应用程序中用于向最终用户显示转换进度 |
 ## 枚举
 
 | 枚举 | 描述 |
 | --- | --- |
-| [EventType](./eventtype/) | 此枚举描述了图像处理操作期间可能发生的进度事件类型 |
+| [EventType](./eventtype/) | 此枚举描述在图像处理操作期间可能出现的进度事件类型 |
 
 

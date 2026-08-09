@@ -1,26 +1,27 @@
 ---
-title: PatternFillSettings.Linked
-second_title: Aspose.PSD for .NET API 参考
-description: PatternFillSettings 财产. 获取或设置一个值指示是否这PatternFillSettings链接.
+title: "PatternFillSettings.Linked"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "PatternFillSettings 属性。获取或设置一个值，指示此 PatternFillSettings 是否已链接"
 type: docs
-weight: 50
+weight: 70
 url: /zh/net/aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings/linked/
 ---
+{{< psd/tize >}}
 ## PatternFillSettings.Linked property
 
-获取或设置一个值，指示是否这[`PatternFillSettings`](../)链接.
+获取或设置一个值，指示此 [`PatternFillSettings`](../) 是否已链接。
 
 ```csharp
 public bool Linked { get; set; }
 ```
 
-### 适当的价值
+### Property Value
 
-`真的`如果链接；否则，`错误的` .
+`true` 表示已链接；否则为 `false`。
 
-### 例子
+## 示例
 
-以下代码演示了对 Fill Layer Pattern 编辑的支持。
+以下代码演示了对填充图层图案编辑的支持。
 
 ```csharp
 [C#]
@@ -52,7 +53,7 @@ using (im)
                 throw new Exception("PSD Image was read wrong");
             }
 
-            // 编辑 
+            // 编辑
             fillSettings.Scale = 300;
             fillSettings.HorizontalOffset = 2;
             fillSettings.VerticalOffset = -20;
@@ -75,10 +76,10 @@ using (im)
 }
 ```
 
-### 也可以看看
+### 另请参阅
 
 * class [PatternFillSettings](../)
-* 命名空间 [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../patternfillsettings/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,33 +1,34 @@
 ---
-title: GradientFillSettings.Scale
-second_title: Aspose.PSD for .NET API 参考
-description: GradientFillSettings 财产. 获取或设置比例
+title: "GradientFillSettings.Scale"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "GradientFillSettings 属性。获取或设置以百分比表示的归一化渐变比例"
 type: docs
-weight: 120
+weight: 110
 url: /zh/net/aspose.psd.fileformats.psd.layers.fillsettings/gradientfillsettings/scale/
 ---
+{{< psd/tize >}}
 ## GradientFillSettings.Scale property
 
-获取或设置比例。
+获取或设置 **normalized** 渐变比例（百分比）。
 
 ```csharp
 public int Scale { get; set; }
 ```
 
-### 适当的价值
+### Property Value
 
-规模.
+比例。
 
-### 例外
+### 异常
 
-| 例外 | （健康）状况 |
+| 异常 | 条件 |
 | --- | --- |
-| [PsdImageArgumentException](../../../aspose.psd.coreexceptions.imageformats/psdimageargumentexception/) | 比例必须在 1 到 1000 之间。 |
+| [PsdImageArgumentException](../../../aspose.psd.coreexceptions.imageformats/psdimageargumentexception/) | 比例必须在 1 到 1000 的范围内。 |
 
-### 也可以看看
+### 另请参阅
 
 * class [GradientFillSettings](../)
-* 命名空间 [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../gradientfillsettings/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../../)
 
 

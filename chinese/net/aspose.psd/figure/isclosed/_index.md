@@ -1,27 +1,28 @@
 ---
-title: Figure.IsClosed
-second_title: Aspose.PSD for .NET API 参考
-description: Figure 财产. 获取或设置一个值该值指示该图形是否闭合只有在 where 第一个和最后一个图形的形状是连续形状的情况下闭合图形才会有所不同在这种情况下第一个形状的第一个点将被 与最后一个形状的最后一个点连接起来
+title: "Figure.IsClosed"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "Figure 属性。获取或设置一个值，指示此图形是否闭合。闭合的图形仅在首个和最后一个图形的形状是连续形状的情况下才会产生差异。在这种情况下，首个形状的第一个点将通过一条直线与最后一个形状的最后一个点相连。"
 type: docs
 weight: 30
 url: /zh/net/aspose.psd/figure/isclosed/
 ---
+{{< psd/tize >}}
 ## Figure.IsClosed property
 
-获取或设置一个值，该值指示该图形是否闭合。只有在 where 第一个和最后一个图形的形状是连续形状的情况下，闭合图形才会有所不同。在这种情况下，第一个形状的第一个点将被 与最后一个形状的最后一个点连接起来。
+获取或设置一个值，指示此图形是否闭合。闭合图形仅在首个和最后一个图形的形状是连续形状的情况下才会产生差异。在这种情况下，首个形状的第一个点将通过一条直线与最后一个形状的最后一点相连。
 
 ```csharp
 public bool IsClosed { get; set; }
 ```
 
-### 适当的价值
+### Property Value
 
-`真的`如果这个数字是封闭的；否则，`错误的`.
+`True` 如果此图形闭合；否则为 `false`。
 
-### 也可以看看
+### 另请参阅
 
 * class [Figure](../)
-* 命名空间 [Aspose.PSD](../../figure/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: CurvResource.GetChannelData
-second_title: Aspose.PSD for .NET API 参考
-description: CurvResource 方法. 获取通道数据
+title: "CurvResource.GetChannelData"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "CurvResource 方法。获取通道数据"
 type: docs
-weight: 70
+weight: 50
 url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources/curvresource/getchanneldata/
 ---
+{{< psd/tize >}}
 ## CurvResource.GetChannelData method
 
 获取通道数据。
@@ -14,18 +15,18 @@ url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources/curvresource/getch
 public byte[] GetChannelData(int channelIndex)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| channelIndex | Int32 | 通道索引。 |
+| channelIndex | Int32 | 通道的索引。 |
 
 ### 返回值
 
 通道数据
 
-### 也可以看看
+### 另请参阅
 
 * class [CurvResource](../)
-* 命名空间 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../curvresource/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

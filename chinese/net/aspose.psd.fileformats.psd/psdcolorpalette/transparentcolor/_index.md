@@ -1,28 +1,29 @@
 ---
-title: PsdColorPalette.TransparentColor
-second_title: Aspose.PSD for .NET API 参考
-description: PsdColorPalette 财产. 获取透明色
+title: "PsdColorPalette.TransparentColor"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "PsdColorPalette 属性。获取透明颜色"
 type: docs
 weight: 100
 url: /zh/net/aspose.psd.fileformats.psd/psdcolorpalette/transparentcolor/
 ---
+{{< psd/tize >}}
 ## PsdColorPalette.TransparentColor property
 
-获取透明色。
+获取透明颜色。
 
 ```csharp
 public Color TransparentColor { get; }
 ```
 
-### 适当的价值
+### Property Value
 
-透明的颜色。
+透明颜色。
 
-### 也可以看看
+### 另请参阅
 
 * struct [Color](../../../aspose.psd/color/)
 * class [PsdColorPalette](../)
-* 命名空间 [Aspose.PSD.FileFormats.Psd](../../psdcolorpalette/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

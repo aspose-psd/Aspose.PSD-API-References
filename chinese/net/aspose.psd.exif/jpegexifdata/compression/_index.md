@@ -1,27 +1,28 @@
 ---
-title: JpegExifData.Compression
-second_title: Aspose.PSD for .NET API 参考
-description: JpegExifData 财产. 获取或设置压缩
+title: "JpegExifData.Compression"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "JpegExifData 属性。获取或设置压缩"
 type: docs
 weight: 40
 url: /zh/net/aspose.psd.exif/jpegexifdata/compression/
 ---
+{{< psd/tize >}}
 ## JpegExifData.Compression property
 
-获取或设置压缩。
+获取或设置压缩方式。
 
 ```csharp
 public ushort Compression { get; set; }
 ```
 
-### 适当的价值
+### Property Value
 
-压缩.
+压缩。
 
-### 也可以看看
+### 另请参阅
 
 * class [JpegExifData](../)
-* 命名空间 [Aspose.PSD.Exif](../../jpegexifdata/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

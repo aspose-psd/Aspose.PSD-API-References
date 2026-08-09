@@ -1,31 +1,32 @@
 ---
-title: Enum ProjectType
-second_title: Aspose.PSD for .NET API 参考
-description: Aspose.PSD.Xmp.Schemas.XmpDm.ProjectType 枚举. 代表项目类型inXmpDynamicMediaPackage .
+title: "枚举 ProjectType"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "Aspose.PSD.Xmp.Schemas.XmpDm.ProjectType 枚举。表示 XmpDynamicMediaPackage 中的项目类型"
 type: docs
-weight: 5870
+weight: 6370
 url: /zh/net/aspose.psd.xmp.schemas.xmpdm/projecttype/
 ---
+{{< psd/tize >}}
 ## ProjectType enumeration
 
-代表项目类型in[`XmpDynamicMediaPackage`](../xmpdynamicmediapackage/) .
+表示 [`XmpDynamicMediaPackage`](../xmpdynamicmediapackage/) 中的项目类型。
 
 ```csharp
 public enum ProjectType
 ```
 
-### 价值观
+### 值
 
-| 姓名 | 价值 | 描述 |
+| 名称 | 值 | 描述 |
 | --- | --- | --- |
 | Movie | `0` | 电影项目类型 |
 | Still | `1` | 静止项目类型 |
 | Audio | `2` | 音频项目类型 |
 | Custom | `3` | 自定义项目类型 |
 
-### 也可以看看
+### 另请参阅
 
-* 命名空间 [Aspose.PSD.Xmp.Schemas.XmpDm](../../aspose.psd.xmp.schemas.xmpdm/)
-* 部件 [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpDm](../../aspose.psd.xmp.schemas.xmpdm/)
+* assembly [Aspose.PSD](../../)
 
 

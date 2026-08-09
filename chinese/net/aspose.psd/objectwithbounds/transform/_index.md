@@ -1,11 +1,12 @@
 ---
-title: ObjectWithBounds.Transform
-second_title: Aspose.PSD for .NET API 参考
-description: ObjectWithBounds 方法. 将指定的变换应用于形状
+title: "ObjectWithBounds.Transform"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "ObjectWithBounds 方法。将指定的变换应用于形状"
 type: docs
 weight: 30
 url: /zh/net/aspose.psd/objectwithbounds/transform/
 ---
+{{< psd/tize >}}
 ## ObjectWithBounds.Transform method
 
 将指定的变换应用于形状。
@@ -14,15 +15,15 @@ url: /zh/net/aspose.psd/objectwithbounds/transform/
 public abstract void Transform(Matrix transform)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| transform | Matrix | 要应用的转换。 |
+| 变换 | 矩阵 | 要应用的变换。 |
 
-### 也可以看看
+### 另请参阅
 
 * class [Matrix](../../matrix/)
 * class [ObjectWithBounds](../)
-* 命名空间 [Aspose.PSD](../../objectwithbounds/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,31 +1,32 @@
 ---
-title: Color.FromName
-second_title: Aspose.PSD for .NET API 参考
-description: Color 方法. 创建一个Color来自预定义颜色的指定名称的结构.
+title: "Color.FromName"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "Color 方法。根据预定义颜色的指定名称创建 Color 结构"
 type: docs
 weight: 1450
 url: /zh/net/aspose.psd/color/fromname/
 ---
+{{< psd/tize >}}
 ## Color.FromName method
 
-创建一个[`Color`](../)来自预定义颜色的指定名称的结构.
+根据预定义颜色的指定名称创建 [`Color`](../) 结构。
 
 ```csharp
 public static Color FromName(string name)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| name | String | 作为预定义颜色名称的字符串。有效名称与元素的名称相同[`KnownColor`](../../knowncolor/)枚举。 |
+| name | String | 一个字符串，表示预定义颜色的名称。有效名称与 [`KnownColor`](../../knowncolor/) 枚举的元素名称相同。 |
 
 ### 返回值
 
-这[`Color`](../)该方法创建的。
+此方法创建的 [`Color`](../)。
 
-### 也可以看看
+### 另请参阅
 
 * struct [Color](../)
-* 命名空间 [Aspose.PSD](../../color/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

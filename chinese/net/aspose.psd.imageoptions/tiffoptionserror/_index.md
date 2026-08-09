@@ -1,11 +1,12 @@
 ---
-title: Enum TiffOptionsError
-second_title: Aspose.PSD for .NET API 参考
-description: Aspose.PSD.ImageOptions.TiffOptionsError 枚举. tiff 选项错误代码
+title: "枚举 TiffOptionsError"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "Aspose.PSD.ImageOptions.TiffOptionsError 枚举。TIFF 选项错误代码"
 type: docs
-weight: 4950
+weight: 5440
 url: /zh/net/aspose.psd.imageoptions/tiffoptionserror/
 ---
+{{< psd/tize >}}
 ## TiffOptionsError enumeration
 
 tiff 选项错误代码。
@@ -14,23 +15,23 @@ tiff 选项错误代码。
 public enum TiffOptionsError
 ```
 
-### 价值观
+### 值
 
-| 姓名 | 价值 | 描述 |
+| 名称 | 值 | 描述 |
 | --- | --- | --- |
-| NoError | `0` | 无错误代码。 |
-| NoColorMap | `1` | 未定义颜色图。 |
-| ColorMapLengthInvalid | `2` | 颜色图长度无效。 |
-| CompressionSppMismatch | `3` | 压缩与每个像素计数的样本不匹配。 |
-| PhotometricCompressionMismatch | `4` | 压缩与光度设置不匹配。 |
-| PhotometricSppMismatch | `5` | 光度与每个像素计数的样本不匹配。 |
-| NotSupportedAlphaStorage | `6` | 不支持 alpha 存储。 |
-| PhotometricBitsPerSampleMismatch | `7` | 每个样本的光度位无效 |
+| NoError | `0` | 没有错误代码。 |
+| NoColorMap | `1` | 未定义颜色映射表。 |
+| ColorMapLengthInvalid | `2` | 颜色映射表长度无效。 |
+| CompressionSppMismatch | `3` | 压缩方式与每像素样本数不匹配。 |
+| PhotometricCompressionMismatch | `4` | 压缩方式与光度设置不匹配。 |
+| PhotometricSppMismatch | `5` | 光度设置与每像素样本数不匹配。 |
+| NotSupportedAlphaStorage | `6` | 不支持 Alpha 存储。 |
+| PhotometricBitsPerSampleMismatch | `7` | 光度每样本位数无效 |
 | Baseline6OptionsMismatch | `8` | 指定的 TIFF 选项参数不符合 TIFF Baseline 6.0 标准 |
 
-### 也可以看看
+### 另请参阅
 
-* 命名空间 [Aspose.PSD.ImageOptions](../../aspose.psd.imageoptions/)
-* 部件 [Aspose.PSD](../../)
+* namespace [Aspose.PSD.ImageOptions](../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../)
 
 

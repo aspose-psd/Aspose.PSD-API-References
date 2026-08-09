@@ -1,28 +1,29 @@
 ---
-title: TiffOptions.Photometric
-second_title: Aspose.PSD for .NET API 参考
-description: TiffOptions 财产. 获取或设置光度
+title: "TiffOptions.Photometric"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "TiffOptions 属性。获取或设置光度"
 type: docs
-weight: 320
+weight: 330
 url: /zh/net/aspose.psd.imageoptions/tiffoptions/photometric/
 ---
+{{< psd/tize >}}
 ## TiffOptions.Photometric property
 
-获取或设置光度。
+获取或设置光度学。
 
 ```csharp
 public TiffPhotometrics Photometric { get; set; }
 ```
 
-### 适当的价值
+### Property Value
 
-光度学.
+光度。
 
-### 也可以看看
+### 另请参阅
 
 * enum [TiffPhotometrics](../../../aspose.psd.fileformats.tiff.enums/tiffphotometrics/)
 * class [TiffOptions](../)
-* 命名空间 [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

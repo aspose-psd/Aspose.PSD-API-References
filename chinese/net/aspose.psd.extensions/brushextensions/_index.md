@@ -1,14 +1,15 @@
 ---
-title: Class BrushExtensions
-second_title: Aspose.PSD for .NET API 参考
-description: Aspose.PSD.Extensions.BrushExtensions 班级. 包含扩展方法Brush和Brush .
+title: "类 BrushExtensions"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "Aspose.PSD.Extensions.BrushExtensions 类。包含针对 Brush 和 Brush 的扩展方法"
 type: docs
-weight: 1030
+weight: 1040
 url: /zh/net/aspose.psd.extensions/brushextensions/
 ---
+{{< psd/tize >}}
 ## BrushExtensions class
 
-包含扩展方法[`Brush`](../../aspose.psd/brush/)和Brush .
+包含针对 [`Brush`](../../aspose.psd/brush/) 和 Brush 的扩展方法。
 
 ```csharp
 public static class BrushExtensions
@@ -16,13 +17,13 @@ public static class BrushExtensions
 
 ## 方法
 
-| 姓名 | 描述 |
+| 名称 | 描述 |
 | --- | --- |
-| static [ToGdiBrush](../../aspose.psd.extensions/brushextensions/togdibrush/)(Brush) | 转换[`Brush`](../../aspose.psd/brush/)到Brush . |
+| static [ToGdiBrush](../../aspose.psd.extensions/brushextensions/togdibrush/)(Brush) | 将 [`Brush`](../../aspose.psd/brush/) 转换为 Brush。 |
 
-### 也可以看看
+### 另请参阅
 
-* 命名空间 [Aspose.PSD.Extensions](../../aspose.psd.extensions/)
-* 部件 [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Extensions](../../aspose.psd.extensions/)
+* assembly [Aspose.PSD](../../)
 
 

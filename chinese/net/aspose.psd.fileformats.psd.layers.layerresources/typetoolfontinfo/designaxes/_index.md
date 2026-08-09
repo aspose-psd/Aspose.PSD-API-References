@@ -1,11 +1,12 @@
 ---
-title: TypeToolFontInfo.DesignAxes
-second_title: Aspose.PSD for .NET API 参考
-description: TypeToolFontInfo 财产. 获取或设置要遵循的设计轴向量
+title: "TypeToolFontInfo.DesignAxes"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "TypeToolFontInfo 属性。获取或设置要遵循的设计轴向量"
 type: docs
 weight: 20
 url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources/typetoolfontinfo/designaxes/
 ---
+{{< psd/tize >}}
 ## TypeToolFontInfo.DesignAxes property
 
 获取或设置要遵循的设计轴向量。
@@ -14,14 +15,14 @@ url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources/typetoolfontinfo/d
 public int DesignAxes { get; set; }
 ```
 
-### 适当的价值
+### Property Value
 
-要遵循的设计轴矢量。
+要遵循的设计轴向向量。
 
-### 也可以看看
+### 另请参阅
 
 * class [TypeToolFontInfo](../)
-* 命名空间 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../typetoolfontinfo/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: RasterImage.ToBitmap
-second_title: Aspose.PSD for .NET API 参考
-description: RasterImage 方法. 将光栅图像转换为位图
+title: "RasterImage.ToBitmap"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "RasterImage 方法。将光栅图像转换为位图"
 type: docs
-weight: 580
+weight: 600
 url: /zh/net/aspose.psd/rasterimage/tobitmap/
 ---
+{{< psd/tize >}}
 ## RasterImage.ToBitmap method
 
 将光栅图像转换为位图。
@@ -18,10 +19,10 @@ public virtual Bitmap ToBitmap()
 
 位图
 
-### 也可以看看
+### 另请参阅
 
 * class [RasterImage](../)
-* 命名空间 [Aspose.PSD](../../rasterimage/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,56 +1,57 @@
 ---
-title: Layer.Save
-second_title: Aspose.PSD for .NET API 参考
-description: Layer 方法. 将对象的数据保存到指定的流中
+title: "Layer.Save"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "Layer 方法。将对象数据保存到指定的流"
 type: docs
-weight: 370
+weight: 390
 url: /zh/net/aspose.psd.fileformats.psd.layers/layer/save/
 ---
+{{< psd/tize >}}
 ## Save(Stream) {#save_1}
 
-将对象的数据保存到指定的流中。
+将对象的数据保存到指定的流。
 
 ```csharp
 public override void Save(Stream stream)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| stream | Stream | 将对象数据保存到的流。 |
+| 流 | 流 | 用于保存对象数据的流。 |
 
-### 例外
+### 异常
 
-| 例外 | （健康）状况 |
+| 异常 | 条件 |
 | --- | --- |
-| ArgumentException | 我们不应该在没有图像选项的情况下调用 Save 方法 |
+| ArgumentException | 我们不应该在没有 Image 选项的情况下调用 Save 方法 |
 
-### 也可以看看
+### 另请参阅
 
 * class [Layer](../)
-* 命名空间 [Aspose.PSD.FileFormats.Psd.Layers](../../layer/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Save(string, ImageOptionsBase) {#save_5}
 
-根据保存选项以指定的文件格式将对象的数据保存到指定的文件位置。
+根据保存选项，将对象的数据以指定的文件格式保存到指定的文件位置。
 
 ```csharp
 public override void Save(string filePath, ImageOptionsBase options)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
 | filePath | String | 文件路径。 |
-| options | ImageOptionsBase | 选项。 |
+| 选项 | ImageOptionsBase | 选项。 |
 
-### 也可以看看
+### 另请参阅
 
 * class [ImageOptionsBase](../../../aspose.psd/imageoptionsbase/)
 * class [Layer](../)
-* 命名空间 [Aspose.PSD.FileFormats.Psd.Layers](../../layer/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
@@ -62,63 +63,63 @@ public override void Save(string filePath, ImageOptionsBase options)
 public override void Save(string filePath, bool overWrite)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| filePath | String | 保存对象数据的文件路径。 |
-| overWrite | Boolean | 如果设置为`真的`覆盖文件内容，否则会发生追加。 |
+| filePath | String | 用于保存对象数据的文件路径。 |
+| overWrite | 布尔 | 如果设置为 `true`，则覆盖文件内容，否则将进行追加。 |
 
-### 也可以看看
+### 另请参阅
 
 * class [Layer](../)
-* 命名空间 [Aspose.PSD.FileFormats.Psd.Layers](../../layer/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Save(Stream, ImageOptionsBase, Rectangle) {#save_3}
 
-根据保存选项以指定文件格式将图像数据保存到指定流。
+根据保存选项，将图像的数据以指定的文件格式保存到指定的流中。
 
 ```csharp
 public override void Save(Stream stream, ImageOptionsBase optionsBase, Rectangle boundsRectangle)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| stream | Stream | 将图像数据保存到的流。 |
+| 流 | 流 | 用于保存图像数据的流。 |
 | optionsBase | ImageOptionsBase | 保存选项。 |
 | boundsRectangle | Rectangle | 目标图像边界矩形。设置空矩形以使用源边界。 |
 
-### 也可以看看
+### 另请参阅
 
 * class [ImageOptionsBase](../../../aspose.psd/imageoptionsbase/)
 * struct [Rectangle](../../../aspose.psd/rectangle/)
 * class [Layer](../)
-* 命名空间 [Aspose.PSD.FileFormats.Psd.Layers](../../layer/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Save(string, ImageOptionsBase, Rectangle) {#save_6}
 
-根据保存选项以指定的文件格式将对象的数据保存到指定的文件位置。
+根据保存选项，将对象的数据以指定的文件格式保存到指定的文件位置。
 
 ```csharp
 public override void Save(string filePath, ImageOptionsBase options, Rectangle boundsRectangle)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
 | filePath | String | 文件路径。 |
-| options | ImageOptionsBase | 选项。 |
+| 选项 | ImageOptionsBase | 选项。 |
 | boundsRectangle | Rectangle | 目标图像边界矩形。设置空矩形以使用源边界。 |
 
-### 也可以看看
+### 另请参阅
 
 * class [ImageOptionsBase](../../../aspose.psd/imageoptionsbase/)
 * struct [Rectangle](../../../aspose.psd/rectangle/)
 * class [Layer](../)
-* 命名空间 [Aspose.PSD.FileFormats.Psd.Layers](../../layer/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

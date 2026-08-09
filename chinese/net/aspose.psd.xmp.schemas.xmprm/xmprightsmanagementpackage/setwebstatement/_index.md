@@ -1,27 +1,28 @@
 ---
-title: XmpRightsManagementPackage.SetWebStatement
-second_title: Aspose.PSD for .NET API 参考
-description: XmpRightsManagementPackage 方法. 设置 web 语句
+title: "XmpRightsManagementPackage.SetWebStatement"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "XmpRightsManagementPackage 方法。设置网络声明"
 type: docs
 weight: 70
 url: /zh/net/aspose.psd.xmp.schemas.xmprm/xmprightsmanagementpackage/setwebstatement/
 ---
+{{< psd/tize >}}
 ## XmpRightsManagementPackage.SetWebStatement method
 
-设置 web 语句。
+设置网页声明。
 
 ```csharp
 public void SetWebStatement(string webStatementUrl)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| webStatementUrl | String | Web 语句 URL。 |
+| webStatementUrl | String | 网络声明 URL。 |
 
-### 也可以看看
+### 另请参阅
 
 * class [XmpRightsManagementPackage](../)
-* 命名空间 [Aspose.PSD.Xmp.Schemas.XmpRm](../../xmprightsmanagementpackage/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpRm](../../../aspose.psd.xmp.schemas.xmprm/)
+* assembly [Aspose.PSD](../../../)
 
 

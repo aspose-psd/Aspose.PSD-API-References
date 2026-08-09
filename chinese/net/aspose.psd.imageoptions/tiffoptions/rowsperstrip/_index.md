@@ -1,11 +1,12 @@
 ---
-title: TiffOptions.RowsPerStrip
-second_title: Aspose.PSD for .NET API 参考
-description: TiffOptions 财产. 获取或设置每个条带的行数
+title: "TiffOptions.RowsPerStrip"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "TiffOptions 属性。获取或设置每条带的行数"
 type: docs
-weight: 380
+weight: 390
 url: /zh/net/aspose.psd.imageoptions/tiffoptions/rowsperstrip/
 ---
+{{< psd/tize >}}
 ## TiffOptions.RowsPerStrip property
 
 获取或设置每个条带的行数。
@@ -14,14 +15,14 @@ url: /zh/net/aspose.psd.imageoptions/tiffoptions/rowsperstrip/
 public uint RowsPerStrip { get; set; }
 ```
 
-### 适当的价值
+### Property Value
 
-每条带的行数.
+每条带的行数。
 
-### 也可以看看
+### 另请参阅
 
 * class [TiffOptions](../)
-* 命名空间 [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

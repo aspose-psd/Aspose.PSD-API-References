@@ -1,28 +1,29 @@
 ---
-title: LayerResourcesRegistry.UnregisterOpener
-second_title: Aspose.PSD for .NET API 参考
-description: LayerResourcesRegistry 方法. 注销开启器
+title: "LayerResourcesRegistry.UnregisterOpener"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "LayerResourcesRegistry 方法。注销打开器"
 type: docs
 weight: 60
 url: /zh/net/aspose.psd.fileformats.psd.layers/layerresourcesregistry/unregisteropener/
 ---
+{{< psd/tize >}}
 ## LayerResourcesRegistry.UnregisterOpener method
 
-注销开启器。
+注销打开器。
 
 ```csharp
 public static void UnregisterOpener(ILayerResourceLoader openerDescriptor)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| openerDescriptor | ILayerResourceLoader | 要注销的开启者描述符。 |
+| openerDescriptor | ILayerResourceLoader | 要注销的打开器描述符。 |
 
-### 也可以看看
+### 另请参阅
 
 * interface [ILayerResourceLoader](../../ilayerresourceloader/)
 * class [LayerResourcesRegistry](../)
-* 命名空间 [Aspose.PSD.FileFormats.Psd.Layers](../../layerresourcesregistry/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

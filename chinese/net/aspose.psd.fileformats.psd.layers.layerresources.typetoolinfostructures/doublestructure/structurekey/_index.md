@@ -1,23 +1,24 @@
 ---
-title: DoubleStructure.StructureKey
-second_title: Aspose.PSD for .NET API 参考
-description: DoubleStructure 场地. 标识结构键
+title: "DoubleStructure.StructureKey"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "DoubleStructure 字段。标识结构键"
 type: docs
 weight: 50
 url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/doublestructure/structurekey/
 ---
+{{< psd/tize >}}
 ## DoubleStructure.StructureKey field
 
-标识结构键。
+识别结构键。
 
 ```csharp
 public const int StructureKey;
 ```
 
-### 也可以看看
+### 另请参阅
 
 * class [DoubleStructure](../)
-* 命名空间 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../doublestructure/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 

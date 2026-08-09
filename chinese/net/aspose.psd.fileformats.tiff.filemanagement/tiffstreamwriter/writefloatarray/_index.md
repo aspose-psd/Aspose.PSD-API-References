@@ -1,27 +1,28 @@
 ---
-title: TiffStreamWriter.WriteFloatArray
-second_title: Aspose.PSD for .NET API 参考
-description: TiffStreamWriter 方法. 将浮点值数组写入流
+title: "TiffStreamWriter.WriteFloatArray"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "TiffStreamWriter 方法。将浮点数值数组写入流"
 type: docs
 weight: 80
 url: /zh/net/aspose.psd.fileformats.tiff.filemanagement/tiffstreamwriter/writefloatarray/
 ---
+{{< psd/tize >}}
 ## TiffStreamWriter.WriteFloatArray method
 
-将浮点值数组写入流。
+向流写入 float 值数组。
 
 ```csharp
 public void WriteFloatArray(float[] data)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| data | Single[] | 要写入的数组。 |
+| 数据 | Single[] | 要写入的数组。 |
 
-### 也可以看看
+### 另请参阅
 
 * class [TiffStreamWriter](../)
-* 命名空间 [Aspose.PSD.FileFormats.Tiff.FileManagement](../../tiffstreamwriter/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff.FileManagement](../../../aspose.psd.fileformats.tiff.filemanagement/)
+* assembly [Aspose.PSD](../../../)
 
 

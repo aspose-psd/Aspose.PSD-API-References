@@ -1,11 +1,12 @@
 ---
-title: Namespaces.Photoshop
-second_title: Aspose.PSD for .NET API 参考
-description: Namespaces 场地. Adobe Photoshop 命名空间
+title: "Namespaces.Photoshop"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "命名空间字段。Adobe Photoshop 命名空间"
 type: docs
 weight: 30
 url: /zh/net/aspose.psd.xmp/namespaces/photoshop/
 ---
+{{< psd/tize >}}
 ## Namespaces.Photoshop field
 
 Adobe Photoshop 命名空间。
@@ -14,10 +15,10 @@ Adobe Photoshop 命名空间。
 public const string Photoshop;
 ```
 
-### 也可以看看
+### 另请参阅
 
 * class [Namespaces](../)
-* 命名空间 [Aspose.PSD.Xmp](../../namespaces/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

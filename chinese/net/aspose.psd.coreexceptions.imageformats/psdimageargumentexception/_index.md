@@ -1,14 +1,15 @@
 ---
-title: Class PsdImageArgumentException
-second_title: Aspose.PSD for .NET API 参考
-description: Aspose.PSD.CoreExceptions.ImageFormats.PsdImageArgumentException 班级. psd 图像参数异常
+title: "类 PsdImageArgumentException"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "Aspose.PSD.CoreExceptions.ImageFormats.PsdImageArgumentException 类。psd 图像参数异常"
 type: docs
 weight: 580
 url: /zh/net/aspose.psd.coreexceptions.imageformats/psdimageargumentexception/
 ---
+{{< psd/tize >}}
 ## PsdImageArgumentException class
 
-psd 图像参数异常。
+该 psd 图像参数异常。
 
 ```csharp
 public class PsdImageArgumentException : PsdImageException
@@ -16,15 +17,15 @@ public class PsdImageArgumentException : PsdImageException
 
 ## 构造函数
 
-| 姓名 | 描述 |
+| 名称 | 描述 |
 | --- | --- |
-| [PsdImageArgumentException](psdimageargumentexception/#constructor)(string) | 初始化一个新的实例`PsdImageArgumentException`类. |
-| [PsdImageArgumentException](psdimageargumentexception/#constructor_1)(string, Exception) | 初始化一个新的实例`PsdImageArgumentException`类. |
+| [PsdImageArgumentException](psdimageargumentexception/#constructor)(string) | 初始化 `PsdImageArgumentException` 类的新实例。 |
+| [PsdImageArgumentException](psdimageargumentexception/#constructor_1)(string, Exception) | 初始化 `PsdImageArgumentException` 类的新实例。 |
 
-### 也可以看看
+### 另请参阅
 
 * class [PsdImageException](../psdimageexception/)
-* 命名空间 [Aspose.PSD.CoreExceptions.ImageFormats](../../aspose.psd.coreexceptions.imageformats/)
-* 部件 [Aspose.PSD](../../)
+* namespace [Aspose.PSD.CoreExceptions.ImageFormats](../../aspose.psd.coreexceptions.imageformats/)
+* assembly [Aspose.PSD](../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: Rectangle.Bottom
-second_title: Aspose.PSD for .NET API 参考
-description: Rectangle 财产. 获取或设置 y 坐标即Y和Height这个的属性值Rectangle结构.
+title: "Rectangle.Bottom"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "Rectangle 属性。获取或设置此 Rectangle 结构的 Y 坐标，该坐标是 Y 和 Height 属性值的和。"
 type: docs
 weight: 110
 url: /zh/net/aspose.psd/rectangle/bottom/
 ---
+{{< psd/tize >}}
 ## Rectangle.Bottom property
 
-获取或设置 y 坐标，即[`Y`](../y/)和[`Height`](../height/)这个的属性值[`Rectangle`](../)结构.
+获取或设置此 [`Rectangle`](../) 结构的 y 坐标，该坐标是 [`Y`](../y/) 和 [`Height`](../height/) 属性值的和。
 
 ```csharp
 public int Bottom { get; set; }
 ```
 
-### 适当的价值
+### Property Value
 
-y 坐标是[`Y`](../y/)和[`Height`](../height/)这个的[`Rectangle`](../) .
+此 [`Rectangle`](../) 的 y 坐标，是 [`Y`](../y/) 和 [`Height`](../height/) 的和。
 
-### 也可以看看
+### 另请参阅
 
 * struct [Rectangle](../)
-* 命名空间 [Aspose.PSD](../../rectangle/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: ExifData.CameraOwnerName
-second_title: Aspose.PSD for .NET API 参考
-description: ExifData 财产. 获取或设置相机所有者名称
+title: "ExifData.CameraOwnerName"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "ExifData 属性。获取或设置相机所有者名称"
 type: docs
 weight: 50
 url: /zh/net/aspose.psd.exif/exifdata/cameraownername/
 ---
+{{< psd/tize >}}
 ## ExifData.CameraOwnerName property
 
 获取或设置相机所有者名称
@@ -14,14 +15,14 @@ url: /zh/net/aspose.psd.exif/exifdata/cameraownername/
 public string CameraOwnerName { get; set; }
 ```
 
-### 适当的价值
+### Property Value
 
-相机所有者的名字。
+相机所有者的名称。
 
-### 也可以看看
+### 另请参阅
 
 * class [ExifData](../)
-* 命名空间 [Aspose.PSD.Exif](../../exifdata/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

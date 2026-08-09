@@ -1,11 +1,12 @@
 ---
-title: Enum FillType
-second_title: Aspose.PSD for .NET API 参考
-description: Aspose.PSD.FileFormats.Psd.Layers.FillSettings.FillType 枚举. 填充类型
+title: "枚举 FillType"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "Aspose.PSD.FileFormats.Psd.Layers.FillSettings.FillType 枚举。填充类型"
 type: docs
-weight: 1940
+weight: 2050
 url: /zh/net/aspose.psd.fileformats.psd.layers.fillsettings/filltype/
 ---
+{{< psd/tize >}}
 ## FillType enumeration
 
 填充类型
@@ -14,17 +15,17 @@ url: /zh/net/aspose.psd.fileformats.psd.layers.fillsettings/filltype/
 public enum FillType
 ```
 
-### 价值观
+### 值
 
-| 姓名 | 价值 | 描述 |
+| 名称 | 值 | 描述 |
 | --- | --- | --- |
 | Color | `0` | 颜色填充类型 |
 | Gradient | `1` | 渐变填充类型 |
 | Pattern | `2` | 图案填充类型 |
 
-### 也可以看看
+### 另请参阅
 
-* 命名空间 [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../aspose.psd.fileformats.psd.layers.fillsettings/)
-* 部件 [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../)
 
 

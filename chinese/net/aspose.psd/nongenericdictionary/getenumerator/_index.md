@@ -1,11 +1,12 @@
 ---
-title: NonGenericDictionary.GetEnumerator
-second_title: Aspose.PSD for .NET API 参考
-description: NonGenericDictionary 方法. 获取枚举器
+title: "NonGenericDictionary.GetEnumerator"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "NonGenericDictionary 方法。获取枚举器"
 type: docs
 weight: 140
 url: /zh/net/aspose.psd/nongenericdictionary/getenumerator/
 ---
+{{< psd/tize >}}
 ## NonGenericDictionary.GetEnumerator method
 
 获取枚举器。
@@ -18,10 +19,10 @@ public IDictionaryEnumerator GetEnumerator()
 
 字典枚举器
 
-### 也可以看看
+### 另请参阅
 
 * class [NonGenericDictionary](../)
-* 命名空间 [Aspose.PSD](../../nongenericdictionary/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

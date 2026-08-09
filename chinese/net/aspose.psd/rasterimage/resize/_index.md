@@ -1,11 +1,12 @@
 ---
-title: RasterImage.Resize
-second_title: Aspose.PSD for .NET API 参考
-description: RasterImage 方法. 调整图像大小
+title: "RasterImage.Resize"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "RasterImage 方法。调整图像大小"
 type: docs
-weight: 470
+weight: 480
 url: /zh/net/aspose.psd/rasterimage/resize/
 ---
+{{< psd/tize >}}
 ## Resize(int, int, ResizeType) {#resize_2}
 
 调整图像大小。
@@ -14,18 +15,18 @@ url: /zh/net/aspose.psd/rasterimage/resize/
 public override void Resize(int newWidth, int newHeight, ResizeType resizeType)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
 | newWidth | Int32 | 新的宽度。 |
 | newHeight | Int32 | 新的高度。 |
-| resizeType | ResizeType | 调整大小类型。 |
+| resizeType | ResizeType | 调整类型。 |
 
-### 也可以看看
+### 另请参阅
 
 * enum [ResizeType](../../resizetype/)
 * class [RasterImage](../)
-* 命名空间 [Aspose.PSD](../../rasterimage/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
@@ -37,17 +38,17 @@ public override void Resize(int newWidth, int newHeight, ResizeType resizeType)
 public override void Resize(int newWidth, int newHeight, ImageResizeSettings settings)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
 | newWidth | Int32 | 新的宽度。 |
 | newHeight | Int32 | 新的高度。 |
-| settings | ImageResizeSettings | 调整大小设置。 |
+| 设置 | ImageResizeSettings | 调整设置。 |
 
-### 也可以看看
+### 另请参阅
 
 * class [ImageResizeSettings](../../imageresizesettings/)
 * class [RasterImage](../)
-* 命名空间 [Aspose.PSD](../../rasterimage/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,26 +1,27 @@
 ---
-title: AiLayerSection.DimValue
-second_title: Aspose.PSD for .NET API 参考
-description: AiLayerSection 财产. 获取或设置百分比形式的暗淡值 将层中包含的链接图像和位图图像的强度降低到指定百分比
+title: "AiLayerSection.DimValue"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "AiLayerSection 属性。获取或设置以百分比表示的暗度值。将层中包含的链接图像和位图图像的强度降低到指定的百分比。"
 type: docs
-weight: 30
+weight: 40
 url: /zh/net/aspose.psd.fileformats.ai/ailayersection/dimvalue/
 ---
+{{< psd/tize >}}
 ## AiLayerSection.DimValue property
 
-获取或设置百分比形式的暗淡值。 将层中包含的链接图像和位图图像的强度降低到指定百分比。
+获取或设置暗淡值（百分比）。将图层中链接的图像和位图图像的强度降低到指定的百分比。
 
 ```csharp
 public int DimValue { get; set; }
 ```
 
-### 适当的价值
+### Property Value
 
-暗淡值百分比。
+暗度值（百分比）。
 
-### 例子
+## 示例
 
-以下示例演示了对 AI 格式文件中图层的支持。
+以下示例演示了在 AI 格式文件中对图层的支持。
 
 ```csharp
 [C#]
@@ -70,10 +71,10 @@ using (AiImage image = (AiImage)Image.Load(sourceFilePath))
 }
 ```
 
-### 也可以看看
+### 另请参阅
 
 * class [AiLayerSection](../)
-* 命名空间 [Aspose.PSD.FileFormats.Ai](../../ailayersection/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

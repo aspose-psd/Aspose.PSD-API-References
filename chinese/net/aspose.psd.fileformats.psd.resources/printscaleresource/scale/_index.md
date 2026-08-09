@@ -1,11 +1,12 @@
 ---
-title: PrintScaleResource.Scale
-second_title: Aspose.PSD for .NET API 参考
-description: PrintScaleResource 财产. 获取或设置比例
+title: "PrintScaleResource.Scale"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "PrintScaleResource 属性。获取或设置比例"
 type: docs
 weight: 40
 url: /zh/net/aspose.psd.fileformats.psd.resources/printscaleresource/scale/
 ---
+{{< psd/tize >}}
 ## PrintScaleResource.Scale property
 
 获取或设置比例。
@@ -14,14 +15,14 @@ url: /zh/net/aspose.psd.fileformats.psd.resources/printscaleresource/scale/
 public float Scale { get; set; }
 ```
 
-### 适当的价值
+### Property Value
 
-规模.
+比例。
 
-### 也可以看看
+### 另请参阅
 
 * class [PrintScaleResource](../)
-* 命名空间 [Aspose.PSD.FileFormats.Psd.Resources](../../printscaleresource/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

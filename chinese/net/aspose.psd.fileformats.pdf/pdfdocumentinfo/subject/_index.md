@@ -1,11 +1,12 @@
 ---
-title: PdfDocumentInfo.Subject
-second_title: Aspose.PSD for .NET API 参考
-description: PdfDocumentInfo 财产. 获取或设置文档的主题
+title: "PdfDocumentInfo.Subject"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "PdfDocumentInfo 属性。获取或设置文档的主题"
 type: docs
 weight: 40
 url: /zh/net/aspose.psd.fileformats.pdf/pdfdocumentinfo/subject/
 ---
+{{< psd/tize >}}
 ## PdfDocumentInfo.Subject property
 
 获取或设置文档的主题。
@@ -14,10 +15,10 @@ url: /zh/net/aspose.psd.fileformats.pdf/pdfdocumentinfo/subject/
 public string Subject { get; set; }
 ```
 
-### 也可以看看
+### 另请参阅
 
 * class [PdfDocumentInfo](../)
-* 命名空间 [Aspose.PSD.FileFormats.Pdf](../../pdfdocumentinfo/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Pdf](../../../aspose.psd.fileformats.pdf/)
+* assembly [Aspose.PSD](../../../)
 
 

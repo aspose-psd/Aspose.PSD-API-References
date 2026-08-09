@@ -1,11 +1,12 @@
 ---
-title: ThumbnailResource.BitsPixel
-second_title: Aspose.PSD for .NET API 参考
-description: ThumbnailResource 财产. 获取或设置位像素
+title: "ThumbnailResource.BitsPixel"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "ThumbnailResource 属性。获取或设置像素位数。"
 type: docs
 weight: 20
 url: /zh/net/aspose.psd.fileformats.psd.resources/thumbnailresource/bitspixel/
 ---
+{{< psd/tize >}}
 ## ThumbnailResource.BitsPixel property
 
 获取或设置位像素。
@@ -14,14 +15,14 @@ url: /zh/net/aspose.psd.fileformats.psd.resources/thumbnailresource/bitspixel/
 public short BitsPixel { get; set; }
 ```
 
-### 适当的价值
+### Property Value
 
-缩略图位像素。
+缩略图像素位数。
 
-### 也可以看看
+### 另请参阅
 
 * class [ThumbnailResource](../)
-* 命名空间 [Aspose.PSD.FileFormats.Psd.Resources](../../thumbnailresource/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

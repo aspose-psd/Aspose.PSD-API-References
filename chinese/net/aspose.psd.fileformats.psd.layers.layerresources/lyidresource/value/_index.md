@@ -1,27 +1,28 @@
 ---
-title: LyidResource.Value
-second_title: Aspose.PSD for .NET API 参考
-description: LyidResource 财产. 获取值
+title: "LyidResource.Value"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "LyidResource 属性。获取值"
 type: docs
-weight: 60
+weight: 30
 url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources/lyidresource/value/
 ---
+{{< psd/tize >}}
 ## LyidResource.Value property
 
-获取值。
+获取该值。
 
 ```csharp
 public int Value { get; }
 ```
 
-### 适当的价值
+### Property Value
 
-值。
+该值。
 
-### 也可以看看
+### 另请参阅
 
 * class [LyidResource](../)
-* 命名空间 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../lyidresource/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

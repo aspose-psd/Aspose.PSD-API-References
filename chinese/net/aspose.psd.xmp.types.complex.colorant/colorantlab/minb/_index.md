@@ -1,23 +1,24 @@
 ---
-title: ColorantLab.MinB
-second_title: Aspose.PSD for .NET API 参考
-description: ColorantLab 场地. B分量最小值
+title: "ColorantLab.MinB"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "ColorantLab 字段。最小 B 分量值"
 type: docs
 weight: 100
 url: /zh/net/aspose.psd.xmp.types.complex.colorant/colorantlab/minb/
 ---
+{{< psd/tize >}}
 ## ColorantLab.MinB field
 
-B分量最小值
+最小 B 分量值
 
 ```csharp
 public const int MinB;
 ```
 
-### 也可以看看
+### 另请参阅
 
 * class [ColorantLab](../)
-* 命名空间 [Aspose.PSD.Xmp.Types.Complex.Colorant](../../colorantlab/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.Colorant](../../../aspose.psd.xmp.types.complex.colorant/)
+* assembly [Aspose.PSD](../../../)
 
 

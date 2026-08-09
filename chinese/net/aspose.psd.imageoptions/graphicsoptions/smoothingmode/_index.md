@@ -1,11 +1,12 @@
 ---
-title: GraphicsOptions.SmoothingMode
-second_title: Aspose.PSD for .NET API 参考
-description: GraphicsOptions 财产. 获取或设置平滑模式
+title: "GraphicsOptions.SmoothingMode"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "GraphicsOptions 属性。获取或设置平滑模式"
 type: docs
 weight: 30
 url: /zh/net/aspose.psd.imageoptions/graphicsoptions/smoothingmode/
 ---
+{{< psd/tize >}}
 ## GraphicsOptions.SmoothingMode property
 
 获取或设置平滑模式。
@@ -14,11 +15,11 @@ url: /zh/net/aspose.psd.imageoptions/graphicsoptions/smoothingmode/
 public SmoothingMode SmoothingMode { get; set; }
 ```
 
-### 也可以看看
+### 另请参阅
 
 * enum [SmoothingMode](../../../aspose.psd/smoothingmode/)
 * class [GraphicsOptions](../)
-* 命名空间 [Aspose.PSD.ImageOptions](../../graphicsoptions/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

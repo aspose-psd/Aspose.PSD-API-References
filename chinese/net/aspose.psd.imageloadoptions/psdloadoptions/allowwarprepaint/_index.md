@@ -1,27 +1,48 @@
 ---
-title: PsdLoadOptions.AllowWarpRepaint
-second_title: Aspose.PSD for .NET API 参考
-description: PsdLoadOptions 财产. 获取或设置是否与渲染图像一起保存有或没有扭曲变换
+title: "PsdLoadOptions.AllowWarpRepaint"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "PsdLoadOptions 属性。获取或设置是否在保存时使用带或不带扭曲变换的渲染图像"
 type: docs
-weight: 20
+weight: 30
 url: /zh/net/aspose.psd.imageloadoptions/psdloadoptions/allowwarprepaint/
 ---
+{{< psd/tize >}}
 ## PsdLoadOptions.AllowWarpRepaint property
 
-获取或设置是否与渲染图像一起保存，有或没有扭曲变换。
+获取或设置是否使用渲染图像保存，是否带有或不带有扭曲变换。
 
 ```csharp
 public bool AllowWarpRepaint { get; set; }
 ```
 
-### 适当的价值
+### Property Value
 
-`真的`使用扭曲变换渲染图像`错误的` .
+`true` 渲染图像时使用扭曲变换，`false` 不使用。
 
-### 也可以看看
+## 示例
+
+以下代码演示了 Warp 效果的渲染。
+
+```csharp
+[C#]
+
+string sourceFile = "source.psd";
+string pngWarpedExport = "warped.png";
+string psdWarpedExport = "warpFile.psd";
+
+var warpLoadOptions = new PsdLoadOptions() { AllowWarpRepaint = true };
+
+using (var image = (PsdImage)Image.Load(sourceFile, warpLoadOptions))
+{
+    image.Save(pngWarpedExport, new PngOptions());
+    image.Save(psdWarpedExport, new PsdOptions());
+}
+```
+
+### 另请参阅
 
 * class [PsdLoadOptions](../)
-* 命名空间 [Aspose.PSD.ImageLoadOptions](../../psdloadoptions/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageLoadOptions](../../../aspose.psd.imageloadoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

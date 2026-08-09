@@ -1,27 +1,28 @@
 ---
-title: ExifData.FocalLengthIn35MmFilm
-second_title: Aspose.PSD for .NET API 参考
-description: ExifData 财产. 获取或设置 35 毫米胶片的焦距
+title: "ExifData.FocalLengthIn35MmFilm"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "ExifData 属性。获取或设置 35 mm 胶片的焦距"
 type: docs
 weight: 300
 url: /zh/net/aspose.psd.exif/exifdata/focallengthin35mmfilm/
 ---
+{{< psd/tize >}}
 ## ExifData.FocalLengthIn35MmFilm property
 
-获取或设置 35 毫米胶片的焦距。
+获取或设置35毫米胶片等效焦距。
 
 ```csharp
 public ushort FocalLengthIn35MmFilm { get; set; }
 ```
 
-### 适当的价值
+### Property Value
 
 35 mm 胶片的焦距。
 
-### 也可以看看
+### 另请参阅
 
 * class [ExifData](../)
-* 命名空间 [Aspose.PSD.Exif](../../exifdata/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

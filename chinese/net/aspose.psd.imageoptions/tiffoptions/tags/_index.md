@@ -1,11 +1,12 @@
 ---
-title: TiffOptions.Tags
-second_title: Aspose.PSD for .NET API 参考
-description: TiffOptions 财产. 获取或设置标签
+title: "TiffOptions.Tags"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "TiffOptions 属性。获取或设置标签"
 type: docs
-weight: 490
+weight: 500
 url: /zh/net/aspose.psd.imageoptions/tiffoptions/tags/
 ---
+{{< psd/tize >}}
 ## TiffOptions.Tags property
 
 获取或设置标签。
@@ -14,15 +15,15 @@ url: /zh/net/aspose.psd.imageoptions/tiffoptions/tags/
 public TiffDataType[] Tags { get; set; }
 ```
 
-### 适当的价值
+### Property Value
 
 标签。
 
-### 也可以看看
+### 另请参阅
 
 * class [TiffDataType](../../../aspose.psd.fileformats.tiff/tiffdatatype/)
 * class [TiffOptions](../)
-* 命名空间 [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: FxrpResource.X
-second_title: Aspose.PSD for .NET API 参考
-description: FxrpResource 财产. 获取或设置参考点x
+title: "FxrpResource.X"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "FxrpResource 属性。获取或设置参考点的 x 坐标"
 type: docs
-weight: 60
+weight: 30
 url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources/fxrpresource/x/
 ---
+{{< psd/tize >}}
 ## FxrpResource.X property
 
-获取或设置参考点x
+获取或设置参考点的 x 坐标。
 
 ```csharp
 public double X { get; set; }
 ```
 
-### 适当的价值
+### Property Value
 
-参考点x
+参考点的 x 坐标
 
-### 也可以看看
+### 另请参阅
 
 * class [FxrpResource](../)
-* 命名空间 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../fxrpresource/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

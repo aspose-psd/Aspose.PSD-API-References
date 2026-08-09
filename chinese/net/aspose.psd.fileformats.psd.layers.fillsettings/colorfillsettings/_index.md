@@ -1,11 +1,12 @@
 ---
-title: Class ColorFillSettings
-second_title: Aspose.PSD for .NET API 参考
-description: Aspose.PSD.FileFormats.Psd.Layers.FillSettings.ColorFillSettings 班级. 颜色填充效果设置
+title: "类 ColorFillSettings"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "Aspose.PSD.FileFormats.Psd.Layers.FillSettings.ColorFillSettings 类。颜色填充效果设置"
 type: docs
-weight: 1930
+weight: 2040
 url: /zh/net/aspose.psd.fileformats.psd.layers.fillsettings/colorfillsettings/
 ---
+{{< psd/tize >}}
 ## ColorFillSettings class
 
 颜色填充效果设置
@@ -14,16 +15,22 @@ url: /zh/net/aspose.psd.fileformats.psd.layers.fillsettings/colorfillsettings/
 public class ColorFillSettings : BaseFillSettings, IColorFillSettings
 ```
 
-## 特性
+## 构造函数
 
-| 姓名 | 描述 |
+| 名称 | 描述 |
+| --- | --- |
+| [ColorFillSettings](colorfillsettings/)() | 默认构造函数。 |
+
+## 属性
+
+| 名称 | 描述 |
 | --- | --- |
 | [Color](../../aspose.psd.fileformats.psd.layers.fillsettings/colorfillsettings/color/) { get; set; } | 获取或设置颜色。 |
 | override [FillType](../../aspose.psd.fileformats.psd.layers.fillsettings/colorfillsettings/filltype/) { get; } | 填充类型 |
 
-### 例子
+## 示例
 
-以下代码演示了对填充类型为 Color 的笔触效果图层的支持。
+以下代码演示了使用填充类型 - Color 的描边效果图层支持。
 
 ```csharp
 [C#]
@@ -78,11 +85,11 @@ using (var im = (PsdImage)Image.Load(exportPath, loadOptions))
 }
 ```
 
-### 也可以看看
+### 另请参阅
 
 * class [BaseFillSettings](../basefillsettings/)
 * interface [IColorFillSettings](../icolorfillsettings/)
-* 命名空间 [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../aspose.psd.fileformats.psd.layers.fillsettings/)
-* 部件 [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../)
 
 

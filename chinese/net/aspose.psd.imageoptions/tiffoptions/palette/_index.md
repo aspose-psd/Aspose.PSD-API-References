@@ -1,28 +1,29 @@
 ---
-title: TiffOptions.Palette
-second_title: Aspose.PSD for .NET API 参考
-description: TiffOptions 财产. 获取或设置调色板
+title: "TiffOptions.Palette"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "TiffOptions 属性。获取或设置颜色调色板"
 type: docs
-weight: 310
+weight: 320
 url: /zh/net/aspose.psd.imageoptions/tiffoptions/palette/
 ---
+{{< psd/tize >}}
 ## TiffOptions.Palette property
 
-获取或设置调色板。
+获取或设置颜色调色板。
 
 ```csharp
 public override IColorPalette Palette { get; set; }
 ```
 
-### 适当的价值
+### Property Value
 
-调色板。
+颜色调色板。
 
-### 也可以看看
+### 另请参阅
 
 * interface [IColorPalette](../../../aspose.psd/icolorpalette/)
 * class [TiffOptions](../)
-* 命名空间 [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

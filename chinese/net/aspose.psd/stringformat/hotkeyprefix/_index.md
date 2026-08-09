@@ -1,28 +1,29 @@
 ---
-title: StringFormat.HotkeyPrefix
-second_title: Aspose.PSD for .NET API 参考
-description: StringFormat 财产. 获取或设置HotkeyPrefix为此目的StringFormat对象.
+title: "StringFormat.HotkeyPrefix"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "StringFormat 属性。获取或设置此 StringFormat 对象的 HotkeyPrefix 对象。"
 type: docs
-weight: 90
+weight: 100
 url: /zh/net/aspose.psd/stringformat/hotkeyprefix/
 ---
+{{< psd/tize >}}
 ## StringFormat.HotkeyPrefix property
 
-获取或设置[`HotkeyPrefix`](../../hotkeyprefix/)为此目的[`StringFormat`](../)对象.
+获取或设置此 [`StringFormat`](../) 对象的 [`HotkeyPrefix`](../../hotkeyprefix/) 对象。
 
 ```csharp
 public HotkeyPrefix HotkeyPrefix { get; set; }
 ```
 
-### 适当的价值
+### Property Value
 
-这[`HotkeyPrefix`](../../hotkeyprefix/)为此目的[`StringFormat`](../)对象，默认为None.
+此 [`StringFormat`](../) 对象的 [`HotkeyPrefix`](../../hotkeyprefix/) 对象，默认值为 None。
 
-### 也可以看看
+### 另请参阅
 
 * enum [HotkeyPrefix](../../hotkeyprefix/)
 * class [StringFormat](../)
-* 命名空间 [Aspose.PSD](../../stringformat/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

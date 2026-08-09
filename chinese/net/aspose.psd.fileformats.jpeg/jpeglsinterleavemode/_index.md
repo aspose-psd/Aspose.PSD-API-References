@@ -1,30 +1,31 @@
 ---
-title: Enum JpegLsInterleaveMode
-second_title: Aspose.PSD for .NET API 参考
-description: Aspose.PSD.FileFormats.Jpeg.JpegLsInterleaveMode 枚举. 定义多分量颜色像素数据的交错模式
+title: "枚举 JpegLsInterleaveMode"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "Aspose.PSD.FileFormats.Jpeg.JpegLsInterleaveMode 枚举。定义多分量彩色像素数据的交错模式。"
 type: docs
-weight: 1510
+weight: 1520
 url: /zh/net/aspose.psd.fileformats.jpeg/jpeglsinterleavemode/
 ---
+{{< psd/tize >}}
 ## JpegLsInterleaveMode enumeration
 
-定义多分量（颜色）像素数据的交错模式。
+定义多分量（彩色）像素数据的交错模式。
 
 ```csharp
 public enum JpegLsInterleaveMode
 ```
 
-### 价值观
+### 值
 
-| 姓名 | 价值 | 描述 |
+| 名称 | 值 | 描述 |
 | --- | --- | --- |
-| None | `0` | 数据被编码并存储为组件的组件：RRRGGGBBB. |
-| Line | `1` | 交错模式是逐行的。在移动到下一行之前，对每个组件的完整行进行编码。 |
-| Sample | `2` | 数据按sample编码存储。对于彩色图像，这是像 RGBRGBRGB. 这样的格式 |
+| None | `0` | 数据被编码并按分量存储：RRRGGGBBB。 |
+| Line | `1` | 交错模式为按行。每个组件的完整一行在移动到下一行之前被编码。 |
+| Sample | `2` | 数据按样本进行编码和存储。对于彩色图像，这种格式类似于 RGBRGBRGB。 |
 
-### 也可以看看
+### 另请参阅
 
-* 命名空间 [Aspose.PSD.FileFormats.Jpeg](../../aspose.psd.fileformats.jpeg/)
-* 部件 [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Jpeg](../../aspose.psd.fileformats.jpeg/)
+* assembly [Aspose.PSD](../../)
 
 

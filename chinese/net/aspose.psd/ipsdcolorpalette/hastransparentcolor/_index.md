@@ -1,27 +1,28 @@
 ---
-title: IPsdColorPalette.HasTransparentColor
-second_title: Aspose.PSD for .NET API 参考
-description: IPsdColorPalette 财产. 获取是否存在透明色的值
+title: "IPsdColorPalette.HasTransparentColor"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "IPsdColorPalette 属性。获取指示是否存在透明颜色的值"
 type: docs
 weight: 10
 url: /zh/net/aspose.psd/ipsdcolorpalette/hastransparentcolor/
 ---
+{{< psd/tize >}}
 ## IPsdColorPalette.HasTransparentColor property
 
-获取是否存在透明色的值。
+获取一个值，指示是否存在透明颜色。
 
 ```csharp
 public bool HasTransparentColor { get; }
 ```
 
-### 适当的价值
+### Property Value
 
-`真的`如果存在透明色；否则，`错误的` .
+`true` 表示存在透明颜色；否则为 `false`。
 
-### 也可以看看
+### 另请参阅
 
 * interface [IPsdColorPalette](../)
-* 命名空间 [Aspose.PSD](../../ipsdcolorpalette/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

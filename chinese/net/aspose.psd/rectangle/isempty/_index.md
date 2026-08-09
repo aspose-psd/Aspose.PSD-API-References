@@ -1,27 +1,28 @@
 ---
-title: Rectangle.IsEmpty
-second_title: Aspose.PSD for .NET API 参考
-description: Rectangle 财产. 获取一个值该值指示此属性的所有数字属性是否Rectangle值为零.
+title: "Rectangle.IsEmpty"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "Rectangle 属性。获取一个值，指示此 Rectangle 的所有数值属性是否为零。"
 type: docs
 weight: 130
 url: /zh/net/aspose.psd/rectangle/isempty/
 ---
+{{< psd/tize >}}
 ## Rectangle.IsEmpty property
 
-获取一个值，该值指示此属性的所有数字属性是否[`Rectangle`](../)值为零.
+获取一个值，指示此 [`Rectangle`](../) 的所有数值属性是否为零。
 
 ```csharp
 public bool IsEmpty { get; }
 ```
 
-### 适当的价值
+### Property Value
 
-如果[`Width`](../width/) ,[`Height`](../height/) ,[`X`](../x/)， 和[`Y`](../y/)这个的属性[`Rectangle`](../)所有的值都为零；否则，假的。
+如果此 [`Rectangle`](../) 的 [`Width`](../width/)、[`Height`](../height/)、[`X`](../x/) 和 [`Y`](../y/) 属性全部为零，则此属性返回 true；否则返回 false。
 
-### 也可以看看
+### 另请参阅
 
 * struct [Rectangle](../)
-* 命名空间 [Aspose.PSD](../../rectangle/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

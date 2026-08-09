@@ -1,27 +1,28 @@
 ---
-title: InitialFillRuleRecord.IsFillStartsWithAllPixels
-second_title: Aspose.PSD for .NET API 参考
-description: InitialFillRuleRecord 财产. 获取或设置一个值表示是否以所有像素开始填充
+title: "InitialFillRuleRecord.IsFillStartsWithAllPixels"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "InitialFillRuleRecord 属性。获取或设置一个值，指示填充是否从所有像素开始"
 type: docs
 weight: 20
 url: /zh/net/aspose.psd.fileformats.core.vectorpaths/initialfillrulerecord/isfillstartswithallpixels/
 ---
+{{< psd/tize >}}
 ## InitialFillRuleRecord.IsFillStartsWithAllPixels property
 
-获取或设置一个值，表示是否以所有像素开始填充。
+获取或设置一个值，指示填充是否从所有像素开始。
 
 ```csharp
 public bool IsFillStartsWithAllPixels { get; set; }
 ```
 
-### 适当的价值
+### Property Value
 
-是从所有像素开始的填充。
+此填充以所有像素开始。
 
-### 也可以看看
+### 另请参阅
 
 * class [InitialFillRuleRecord](../)
-* 命名空间 [Aspose.PSD.FileFormats.Core.VectorPaths](../../initialfillrulerecord/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../../)
 
 

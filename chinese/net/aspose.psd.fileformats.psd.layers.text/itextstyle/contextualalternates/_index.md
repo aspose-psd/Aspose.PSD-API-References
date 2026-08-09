@@ -1,20 +1,21 @@
 ---
-title: ITextStyle.ContextualAlternates
-second_title: Aspose.PSD for .NET API 参考
-description: ITextStyle 财产. 用于将字母连接在一起的上下文替代项
+title: "ITextStyle.ContextualAlternates"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "ITextStyle 属性。用于将字母连接在一起的上下文替代"
 type: docs
 weight: 40
 url: /zh/net/aspose.psd.fileformats.psd.layers.text/itextstyle/contextualalternates/
 ---
+{{< psd/tize >}}
 ## ITextStyle.ContextualAlternates property
 
-用于将字母连接在一起的上下文替代项。
+用于连接字母的上下文替代字符。
 
 ```csharp
 public bool ContextualAlternates { get; set; }
 ```
 
-### 例子
+## 示例
 
 以下代码演示了对新 ITextStyle 属性的支持。
 
@@ -68,10 +69,10 @@ using (var srcImage = (PsdImage)Image.Load(srcFile))
 }
 ```
 
-### 也可以看看
+### 另请参阅
 
 * interface [ITextStyle](../)
-* 命名空间 [Aspose.PSD.FileFormats.Psd.Layers.Text](../../itextstyle/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.Text](../../../aspose.psd.fileformats.psd.layers.text/)
+* assembly [Aspose.PSD](../../../)
 
 

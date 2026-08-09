@@ -1,14 +1,15 @@
 ---
-title: RectangleF.Left
-second_title: Aspose.PSD for .NET API 参考
-description: RectangleF 财产. 获取或设置此元素左边缘的 x 坐标RectangleF结构.
+title: "RectangleF.Left"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "RectangleF 属性。获取或设置此 RectangleF 结构左边缘的 x 坐标。"
 type: docs
 weight: 110
 url: /zh/net/aspose.psd/rectanglef/left/
 ---
+{{< psd/tize >}}
 ## RectangleF.Left property
 
-获取或设置此元素左边缘的 x 坐标[`RectangleF`](../)结构.
+获取或设置此 [`RectangleF`](../) 结构左边缘的 x 坐标。
 
 ```csharp
 public float Left { get; set; }
@@ -16,12 +17,12 @@ public float Left { get; set; }
 
 ### 返回值
 
-此图左边缘的 x 坐标[`RectangleF`](../)结构。
+此 [`RectangleF`](../) 结构左边缘的 x 坐标。
 
-### 也可以看看
+### 另请参阅
 
 * struct [RectangleF](../)
-* 命名空间 [Aspose.PSD](../../rectanglef/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

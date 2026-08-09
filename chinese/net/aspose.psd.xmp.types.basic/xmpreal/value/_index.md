@@ -1,27 +1,28 @@
 ---
-title: XmpReal.Value
-second_title: Aspose.PSD for .NET API 参考
-description: XmpReal 财产. 获取或设置浮点值
+title: "XmpReal.Value"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "XmpReal 属性。获取或设置 float 值"
 type: docs
 weight: 20
 url: /zh/net/aspose.psd.xmp.types.basic/xmpreal/value/
 ---
+{{< psd/tize >}}
 ## XmpReal.Value property
 
-获取或设置浮点值。
+获取或设置 float 值。
 
 ```csharp
 public float Value { get; set; }
 ```
 
-### 适当的价值
+### Property Value
 
-浮点值。
+float 值。
 
-### 也可以看看
+### 另请参阅
 
 * class [XmpReal](../)
-* 命名空间 [Aspose.PSD.Xmp.Types.Basic](../../xmpreal/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Basic](../../../aspose.psd.xmp.types.basic/)
+* assembly [Aspose.PSD](../../../)
 
 

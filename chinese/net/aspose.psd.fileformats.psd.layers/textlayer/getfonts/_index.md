@@ -1,14 +1,15 @@
 ---
-title: TextLayer.GetFonts
-second_title: Aspose.PSD for .NET API 参考
-description: TextLayer 方法. 获取文字图层的字体集
+title: "TextLayer.GetFonts"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "TextLayer 方法。获取文本图层的字体集合"
 type: docs
-weight: 80
+weight: 90
 url: /zh/net/aspose.psd.fileformats.psd.layers/textlayer/getfonts/
 ---
+{{< psd/tize >}}
 ## TextLayer.GetFonts method
 
-获取文字图层的字体集。
+获取文本图层的字体集合。
 
 ```csharp
 public TextFontInfo[] GetFonts()
@@ -16,11 +17,11 @@ public TextFontInfo[] GetFonts()
 
 ### 返回值
 
-文字层的字体集。
+文本图层的字体集合。
 
-### 例子
+## 示例
 
-下面的代码演示了 Aspose.PSD 如何获取文本层内联格式的属性。
+以下代码演示了 Aspose.PSD 如何获取文本图层内联格式的属性。
 
 ```csharp
 [C#]
@@ -45,7 +46,7 @@ using (var psdImage = (PsdImage)Image.Load(sourceFile))
 
         var textLayer = (TextLayer)layer;
 
-        // 获取包含在文本层中的字体
+        // 获取文本图层中包含的字体
         var fonts = textLayer.GetFonts();
         var textPortions = textLayer.TextData.Items;
 
@@ -74,11 +75,11 @@ using (var psdImage = (PsdImage)Image.Load(sourceFile))
 }
 ```
 
-### 也可以看看
+### 另请参阅
 
 * class [TextFontInfo](../../../aspose.psd.fileformats.psd.layers.text/textfontinfo/)
 * class [TextLayer](../)
-* 命名空间 [Aspose.PSD.FileFormats.Psd.Layers](../../textlayer/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

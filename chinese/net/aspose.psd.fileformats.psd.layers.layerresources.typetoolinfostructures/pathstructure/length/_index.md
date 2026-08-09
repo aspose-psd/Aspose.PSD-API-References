@@ -1,22 +1,23 @@
 ---
-title: PathStructure.Length
-second_title: Aspose.PSD for .NET API 参考
-description: PathStructure 财产. 获取OSTypeStructure字节长度.
+title: "PathStructure.Length"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "PathStructure 属性。获取 OSTypeStructure 长度（字节）"
 type: docs
 weight: 30
 url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/pathstructure/length/
 ---
+{{< psd/tize >}}
 ## PathStructure.Length property
 
-获取[`OSTypeStructure`](../../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/)字节长度.
+获取 [`OSTypeStructure`](../../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/) 的字节长度。
 
 ```csharp
 public override int Length { get; }
 ```
 
-### 例子
+## 示例
 
-以下代码演示了加载具有 PathStructure 结构的文件的能力。
+以下代码演示了使用 PathStructure 结构加载文件的能力。
 
 ```csharp
 [C#]
@@ -30,10 +31,10 @@ using (PsdImage image = (PsdImage)Image.Load(srcFile))
 }
 ```
 
-### 也可以看看
+### 另请参阅
 
 * class [PathStructure](../)
-* 命名空间 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../pathstructure/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,30 +1,31 @@
 ---
-title: Enum ResolutionUnit
-second_title: Aspose.PSD for .NET API 参考
-description: Aspose.PSD.ResolutionUnit 枚举. 分辨率单位枚举.
+title: "枚举 ResolutionUnit"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "Aspose.PSD.ResolutionUnit 枚举。分辨率单位枚举"
 type: docs
-weight: 5390
+weight: 5890
 url: /zh/net/aspose.psd/resolutionunit/
 ---
+{{< psd/tize >}}
 ## ResolutionUnit enumeration
 
-分辨率单位枚举.
+分辨率单位枚举。
 
 ```csharp
 public enum ResolutionUnit : byte
 ```
 
-### 价值观
+### 值
 
-| 姓名 | 价值 | 描述 |
+| 名称 | 值 | 描述 |
 | --- | --- | --- |
 | None | `0` | 未定义单位 |
 | Inch | `1` | 英寸单位 |
 | Cm | `2` | 公制厘米单位 |
 
-### 也可以看看
+### 另请参阅
 
-* 命名空间 [Aspose.PSD](../../aspose.psd/)
-* 部件 [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

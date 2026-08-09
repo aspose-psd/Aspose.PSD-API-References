@@ -1,79 +1,80 @@
 ---
-title: CustomLineCap.CustomLineCap
-second_title: Aspose.PSD for .NET API 参考
-description: CustomLineCap 构造函数. 初始化一个新的实例CustomLineCap具有指定轮廓和填充的类
+title: "CustomLineCap.CustomLineCap"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "CustomLineCap 构造函数。使用指定的轮廓和填充初始化 CustomLineCap 类的新实例"
 type: docs
 weight: 10
 url: /zh/net/aspose.psd/customlinecap/customlinecap/
 ---
+{{< psd/tize >}}
 ## CustomLineCap(GraphicsPath, GraphicsPath) {#constructor}
 
-初始化一个新的实例[`CustomLineCap`](../)具有指定轮廓和填充的类。
+使用指定的轮廓和填充初始化 [`CustomLineCap`](../) 类的新实例。
 
 ```csharp
 public CustomLineCap(GraphicsPath fillPath, GraphicsPath strokePath)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| fillPath | GraphicsPath | A[`GraphicsPath`](../../graphicspath/)定义自定义帽的填充的对象。 |
-| strokePath | GraphicsPath | A[`GraphicsPath`](../../graphicspath/)定义自定义帽轮廓的对象。 |
+| fillPath | GraphicsPath | 一个定义自定义帽填充的 [`GraphicsPath`](../../graphicspath/) 对象。 |
+| strokePath | GraphicsPath | 一个定义自定义帽轮廓的 [`GraphicsPath`](../../graphicspath/) 对象。 |
 
-### 也可以看看
+### 另请参阅
 
 * class [GraphicsPath](../../graphicspath/)
 * class [CustomLineCap](../)
-* 命名空间 [Aspose.PSD](../../customlinecap/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## CustomLineCap(GraphicsPath, GraphicsPath, LineCap) {#constructor_1}
 
-初始化一个新的实例[`CustomLineCap`](../)来自指定现有的类[`LineCap`](../../linecap/)具有指定轮廓和填充的枚举.
+使用指定的轮廓和填充，从指定的现有 [`LineCap`](../../linecap/) 枚举初始化 [`CustomLineCap`](../) 类的新实例。
 
 ```csharp
 public CustomLineCap(GraphicsPath fillPath, GraphicsPath strokePath, LineCap baseCap)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| fillPath | GraphicsPath | A[`GraphicsPath`](../../graphicspath/)定义自定义帽的填充的对象。 |
-| strokePath | GraphicsPath | A[`GraphicsPath`](../../graphicspath/)定义自定义帽轮廓的对象。 |
-| baseCap | LineCap | 从中创建自定义帽的线帽。 |
+| fillPath | GraphicsPath | 一个定义自定义帽填充的 [`GraphicsPath`](../../graphicspath/) 对象。 |
+| strokePath | GraphicsPath | 一个定义自定义帽轮廓的 [`GraphicsPath`](../../graphicspath/) 对象。 |
+| baseCap | LineCap | 用于创建自定义线帽的线帽。 |
 
-### 也可以看看
+### 另请参阅
 
 * class [GraphicsPath](../../graphicspath/)
 * enum [LineCap](../../linecap/)
 * class [CustomLineCap](../)
-* 命名空间 [Aspose.PSD](../../customlinecap/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## CustomLineCap(GraphicsPath, GraphicsPath, LineCap, float) {#constructor_2}
 
-初始化一个新的实例[`CustomLineCap`](../)来自指定现有的类[`LineCap`](../../linecap/)具有指定轮廓、填充和插图的枚举.
+初始化一个新的 [`CustomLineCap`](../) 类实例，使用指定的现有 [`LineCap`](../../linecap/) 枚举以及指定的轮廓、填充和内嵌。
 
 ```csharp
 public CustomLineCap(GraphicsPath fillPath, GraphicsPath strokePath, LineCap baseCap, 
     float baseInset)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| fillPath | GraphicsPath | A[`GraphicsPath`](../../graphicspath/)定义自定义帽的填充的对象。 |
-| strokePath | GraphicsPath | A[`GraphicsPath`](../../graphicspath/)定义自定义帽轮廓的对象。 |
-| baseCap | LineCap | 从中创建自定义帽的线帽。 |
-| baseInset | Single | 上限和线之间的距离。 |
+| fillPath | GraphicsPath | 一个定义自定义帽填充的 [`GraphicsPath`](../../graphicspath/) 对象。 |
+| strokePath | GraphicsPath | 一个定义自定义帽轮廓的 [`GraphicsPath`](../../graphicspath/) 对象。 |
+| baseCap | LineCap | 用于创建自定义线帽的线帽。 |
+| baseInset | 单精度 | 帽子与线之间的距离。 |
 
-### 也可以看看
+### 另请参阅
 
 * class [GraphicsPath](../../graphicspath/)
 * enum [LineCap](../../linecap/)
 * class [CustomLineCap](../)
-* 命名空间 [Aspose.PSD](../../customlinecap/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

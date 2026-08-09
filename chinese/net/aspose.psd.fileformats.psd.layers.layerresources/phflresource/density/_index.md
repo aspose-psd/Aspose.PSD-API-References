@@ -1,11 +1,12 @@
 ---
-title: PhflResource.Density
-second_title: Aspose.PSD for .NET API 参考
-description: PhflResource 财产. 获取或设置密度
+title: "PhflResource.Density"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "PhflResource 属性。获取或设置密度"
 type: docs
 weight: 10
 url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources/phflresource/density/
 ---
+{{< psd/tize >}}
 ## PhflResource.Density property
 
 获取或设置密度。
@@ -14,14 +15,14 @@ url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources/phflresource/densi
 public int Density { get; set; }
 ```
 
-### 适当的价值
+### Property Value
 
-密度.
+密度。
 
-### 也可以看看
+### 另请参阅
 
 * class [PhflResource](../)
-* 命名空间 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../phflresource/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

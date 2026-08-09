@@ -1,31 +1,32 @@
 ---
-title: TiffOptions.BitsPerSample
-second_title: Aspose.PSD for .NET API 参考
-description: TiffOptions 财产. 获取或设置每个样本的位数
+title: "TiffOptions.BitsPerSample"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "TiffOptions 属性。获取或设置每样本位数"
 type: docs
 weight: 50
 url: /zh/net/aspose.psd.imageoptions/tiffoptions/bitspersample/
 ---
+{{< psd/tize >}}
 ## TiffOptions.BitsPerSample property
 
-获取或设置每个样本的位数。
+获取或设置每样本位数。
 
 ```csharp
 public ushort[] BitsPerSample { get; set; }
 ```
 
-### 适当的价值
+### Property Value
 
-每个样本值的位数。
+每样本位数的值。
 
-### 评论
+## 备注
 
-设置此值时请记住，它还会将 SamplesPerPixel 值设置为数组长度。这 2 个属性紧密耦合，因此只能一起设置。
+设置此值时请注意，它还会将 SamplesPerPixel 的值设为数组长度。这两个属性高度耦合，必须一起设置。
 
-### 也可以看看
+### 另请参阅
 
 * class [TiffOptions](../)
-* 命名空间 [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

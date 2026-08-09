@@ -1,11 +1,12 @@
 ---
-title: BlwhResource.BlackAndWhitePresetFileName
-second_title: Aspose.PSD for .NET API 参考
-description: BlwhResource 财产. 获取或设置黑白预设文件名
+title: "BlwhResource.BlackAndWhitePresetFileName"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "BlwhResource 属性。获取或设置黑白预设文件名"
 type: docs
 weight: 20
 url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources/blwhresource/blackandwhitepresetfilename/
 ---
+{{< psd/tize >}}
 ## BlwhResource.BlackAndWhitePresetFileName property
 
 获取或设置黑白预设文件名。
@@ -14,11 +15,11 @@ url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources/blwhresource/black
 public string BlackAndWhitePresetFileName { get; set; }
 ```
 
-### 适当的价值
+### Property Value
 
-黑白预设文件名.
+黑白预设文件名。
 
-### 例子
+## 示例
 
 以下示例演示如何编辑 BlwhResource。
 
@@ -123,10 +124,10 @@ using (PsdImage im = (PsdImage)Image.Load(destinationFileName))
 AssertIsTrue(isRequiredResourceFound, "The specified BlwhResource not found");
 ```
 
-### 也可以看看
+### 另请参阅
 
 * class [BlwhResource](../)
-* 命名空间 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../blwhresource/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

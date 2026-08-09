@@ -1,215 +1,216 @@
 ---
-title: GraphicsPath.IsVisible
-second_title: Aspose.PSD for .NET API 参考
-description: GraphicsPath 方法. 表示指定点是否包含在此GraphicsPath .
+title: "GraphicsPath.IsVisible"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "GraphicsPath 方法。指示指定的点是否包含在此 GraphicsPath 中。"
 type: docs
 weight: 120
 url: /zh/net/aspose.psd/graphicspath/isvisible/
 ---
+{{< psd/tize >}}
 ## IsVisible(float, float) {#isvisible_6}
 
-表示指定点是否包含在此[`GraphicsPath`](../) .
+指示指定的点是否包含在此 [`GraphicsPath`](../) 中。
 
 ```csharp
 public bool IsVisible(float x, float y)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| x | Single | 要测试的点的 x 坐标。 |
-| y | Single | 要测试的点的 y 坐标。 |
+| x | 单精度 | 要测试的点的 x 坐标。 |
+| y | 单精度 | 要测试的点的 y 坐标。 |
 
 ### 返回值
 
-如果指定点包含在此方法中，则此方法返回 true[`GraphicsPath`](../);否则为 false.
+如果指定的点包含在此 [`GraphicsPath`](../) 中，则此方法返回 true；否则返回 false。
 
-### 也可以看看
+### 另请参阅
 
 * class [GraphicsPath](../)
-* 命名空间 [Aspose.PSD](../../graphicspath/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## IsVisible(PointF) {#isvisible_2}
 
-表示指定点是否包含在此[`GraphicsPath`](../) .
+指示指定的点是否包含在此 [`GraphicsPath`](../) 中。
 
 ```csharp
 public bool IsVisible(PointF point)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| point | PointF | A[`PointF`](../../pointf/)表示要测试的点。 |
+| point | PointF | 一个 [`PointF`](../../pointf/)，表示要测试的点。 |
 
 ### 返回值
 
-如果指定点包含在此方法中，则此方法返回 true[`GraphicsPath`](../);否则为 false.
+如果指定的点包含在此 [`GraphicsPath`](../) 中，则此方法返回 true；否则返回 false。
 
-### 也可以看看
+### 另请参阅
 
 * struct [PointF](../../pointf/)
 * class [GraphicsPath](../)
-* 命名空间 [Aspose.PSD](../../graphicspath/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## IsVisible(int, int) {#isvisible_4}
 
-表示指定点是否包含在此[`GraphicsPath`](../) .
+指示指定的点是否包含在此 [`GraphicsPath`](../) 中。
 
 ```csharp
 public bool IsVisible(int x, int y)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
 | x | Int32 | 要测试的点的 x 坐标。 |
 | y | Int32 | 要测试的点的 y 坐标。 |
 
 ### 返回值
 
-如果指定点包含在此方法中，则此方法返回 true[`GraphicsPath`](../);否则为 false.
+如果指定的点包含在此 [`GraphicsPath`](../) 中，则此方法返回 true；否则返回 false。
 
-### 也可以看看
+### 另请参阅
 
 * class [GraphicsPath](../)
-* 命名空间 [Aspose.PSD](../../graphicspath/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## IsVisible(Point) {#isvisible}
 
-表示指定点是否包含在此[`GraphicsPath`](../) .
+指示指定的点是否包含在此 [`GraphicsPath`](../) 中。
 
 ```csharp
 public bool IsVisible(Point point)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| point | Point | A[`Point`](../../point/)表示要测试的点。 |
+| point | Point | 一个 [`Point`](../../point/)，表示要测试的点。 |
 
 ### 返回值
 
-如果指定点包含在此方法中，则此方法返回 true[`GraphicsPath`](../);否则为 false.
+如果指定的点包含在此 [`GraphicsPath`](../) 中，则此方法返回 true；否则返回 false。
 
-### 也可以看看
+### 另请参阅
 
 * struct [Point](../../point/)
 * class [GraphicsPath](../)
-* 命名空间 [Aspose.PSD](../../graphicspath/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## IsVisible(float, float, Graphics) {#isvisible_7}
 
-表示指定点是否包含在此[`GraphicsPath`](../)在指定的可见剪辑区域[`Graphics`](../../graphics/) .
+指示指定的点是否位于此 [`GraphicsPath`](../) 中，并且在指定的 [`Graphics`](../../graphics/) 的可见裁剪区域内。
 
 ```csharp
 public bool IsVisible(float x, float y, Graphics graphics)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| x | Single | 要测试的点的 x 坐标。 |
-| y | Single | 要测试的点的 y 坐标。 |
-| graphics | Graphics | 这[`Graphics`](../../graphics/)测试可见性。 |
+| x | 单精度 | 要测试的点的 x 坐标。 |
+| y | 单精度 | 要测试的点的 y 坐标。 |
+| graphics | Graphics | 用于测试可见性的 [`Graphics`](../../graphics/)。 |
 
 ### 返回值
 
-如果指定点包含在此方法中，则此方法返回 true[`GraphicsPath`](../);否则为 false.
+如果指定的点包含在此 [`GraphicsPath`](../) 中，则此方法返回 true；否则返回 false。
 
-### 也可以看看
+### 另请参阅
 
 * class [Graphics](../../graphics/)
 * class [GraphicsPath](../)
-* 命名空间 [Aspose.PSD](../../graphicspath/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## IsVisible(PointF, Graphics) {#isvisible_3}
 
-表示指定点是否包含在此[`GraphicsPath`](../) .
+指示指定的点是否包含在此 [`GraphicsPath`](../) 中。
 
 ```csharp
 public bool IsVisible(PointF pt, Graphics graphics)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| pt | PointF | A[`PointF`](../../pointf/)表示要测试的点。 |
-| graphics | Graphics | 这[`Graphics`](../../graphics/)测试可见性。 |
+| pt | PointF | 一个 [`PointF`](../../pointf/)，表示要测试的点。 |
+| graphics | Graphics | 用于测试可见性的 [`Graphics`](../../graphics/)。 |
 
 ### 返回值
 
-如果指定点包含在此方法中，则此方法返回 true；否则为 false.
+如果指定的点位于此对象内，则此方法返回 true；否则返回 false。
 
-### 也可以看看
+### 另请参阅
 
 * struct [PointF](../../pointf/)
 * class [Graphics](../../graphics/)
 * class [GraphicsPath](../)
-* 命名空间 [Aspose.PSD](../../graphicspath/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## IsVisible(int, int, Graphics) {#isvisible_5}
 
-表示指定点是否包含在此[`GraphicsPath`](../) , 使用指定的[`Graphics`](../../graphics/) .
+指示指定的点是否位于此 [`GraphicsPath`](../) 中，使用指定的 [`Graphics`](../../graphics/)。
 
 ```csharp
 public bool IsVisible(int x, int y, Graphics graphics)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
 | x | Int32 | 要测试的点的 x 坐标。 |
 | y | Int32 | 要测试的点的 y 坐标。 |
-| graphics | Graphics | 这[`Graphics`](../../graphics/)测试可见性。 |
+| graphics | Graphics | 用于测试可见性的 [`Graphics`](../../graphics/)。 |
 
 ### 返回值
 
-如果指定点包含在此方法中，则此方法返回 true[`GraphicsPath`](../);否则为 false.
+如果指定的点包含在此 [`GraphicsPath`](../) 中，则此方法返回 true；否则返回 false。
 
-### 也可以看看
+### 另请参阅
 
 * class [Graphics](../../graphics/)
 * class [GraphicsPath](../)
-* 命名空间 [Aspose.PSD](../../graphicspath/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## IsVisible(Point, Graphics) {#isvisible_1}
 
-表示指定点是否包含在此[`GraphicsPath`](../) .
+指示指定的点是否包含在此 [`GraphicsPath`](../) 中。
 
 ```csharp
 public bool IsVisible(Point pt, Graphics graphics)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| pt | Point | A[`Point`](../../point/)表示要测试的点。 |
-| graphics | Graphics | 这[`Graphics`](../../graphics/)测试可见性。 |
+| pt | Point | 一个 [`Point`](../../point/)，表示要测试的点。 |
+| graphics | Graphics | 用于测试可见性的 [`Graphics`](../../graphics/)。 |
 
 ### 返回值
 
-如果指定点包含在此方法中，则此方法返回 true[`GraphicsPath`](../);否则为 false.
+如果指定的点包含在此 [`GraphicsPath`](../) 中，则此方法返回 true；否则返回 false。
 
-### 也可以看看
+### 另请参阅
 
 * struct [Point](../../point/)
 * class [Graphics](../../graphics/)
 * class [GraphicsPath](../)
-* 命名空间 [Aspose.PSD](../../graphicspath/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,64 +1,65 @@
 ---
-title: PsdOptions.PsdOptions
-second_title: Aspose.PSD for .NET API 参考
-description: PsdOptions 构造函数. 初始化一个新的实例PsdOptions类.
+title: "PsdOptions.PsdOptions"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "PsdOptions 构造函数。初始化 PsdOptions 类的新实例"
 type: docs
 weight: 10
 url: /zh/net/aspose.psd.imageoptions/psdoptions/psdoptions/
 ---
+{{< psd/tize >}}
 ## PsdOptions() {#constructor}
 
-初始化一个新的实例[`PsdOptions`](../)类.
+初始化 [`PsdOptions`](../) 类的新实例。
 
 ```csharp
 public PsdOptions()
 ```
 
-### 也可以看看
+### 另请参阅
 
 * class [PsdOptions](../)
-* 命名空间 [Aspose.PSD.ImageOptions](../../psdoptions/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## PsdOptions(PsdOptions) {#constructor_2}
 
-初始化一个新的实例[`PsdOptions`](../)类.
+初始化 [`PsdOptions`](../) 类的新实例。
 
 ```csharp
 public PsdOptions(PsdOptions options)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| options | PsdOptions | 选项。 |
+| 选项 | PsdOptions | 选项。 |
 
-### 也可以看看
+### 另请参阅
 
 * class [PsdOptions](../)
-* 命名空间 [Aspose.PSD.ImageOptions](../../psdoptions/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## PsdOptions(PsdImage) {#constructor_1}
 
-初始化一个新的实例[`PsdOptions`](../)类.
+初始化 [`PsdOptions`](../) 类的新实例。
 
 ```csharp
 public PsdOptions(PsdImage image)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| image | PsdImage | 图片。 |
+| image | PsdImage | 图像。 |
 
-### 也可以看看
+### 另请参阅
 
 * class [PsdImage](../../../aspose.psd.fileformats.psd/psdimage/)
 * class [PsdOptions](../)
-* 命名空间 [Aspose.PSD.ImageOptions](../../psdoptions/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

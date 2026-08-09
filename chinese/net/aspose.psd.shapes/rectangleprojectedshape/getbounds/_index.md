@@ -1,11 +1,12 @@
 ---
-title: RectangleProjectedShape.GetBounds
-second_title: Aspose.PSD for .NET API 参考
-description: RectangleProjectedShape 方法. 获取对象的边界
+title: "RectangleProjectedShape.GetBounds"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "RectangleProjectedShape 方法。获取对象的边界"
 type: docs
 weight: 110
 url: /zh/net/aspose.psd.shapes/rectangleprojectedshape/getbounds/
 ---
+{{< psd/tize >}}
 ## GetBounds(Matrix) {#getbounds}
 
 获取对象的边界。
@@ -14,21 +15,21 @@ url: /zh/net/aspose.psd.shapes/rectangleprojectedshape/getbounds/
 public override RectangleF GetBounds(Matrix matrix)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| matrix | Matrix | 将计算在边界之前应用的矩阵。 |
+| 矩阵 | 矩阵 | 在计算边界之前要应用的矩阵。 |
 
 ### 返回值
 
-估计对象的边界。
+估计的对象边界。
 
-### 也可以看看
+### 另请参阅
 
 * struct [RectangleF](../../../aspose.psd/rectanglef/)
 * class [Matrix](../../../aspose.psd/matrix/)
 * class [RectangleProjectedShape](../)
-* 命名空间 [Aspose.PSD.Shapes](../../rectangleprojectedshape/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
@@ -40,22 +41,22 @@ public override RectangleF GetBounds(Matrix matrix)
 public override RectangleF GetBounds(Matrix matrix, Pen pen)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| matrix | Matrix | 将计算在边界之前应用的矩阵。 |
-| pen | Pen | 用于对象的笔。这会影响对象的边界大小。 |
+| 矩阵 | 矩阵 | 在计算边界之前要应用的矩阵。 |
+| 笔 | 笔 | 用于对象的笔。它可以影响对象边界的大小。 |
 
 ### 返回值
 
-估计对象的边界。
+估计的对象边界。
 
-### 也可以看看
+### 另请参阅
 
 * struct [RectangleF](../../../aspose.psd/rectanglef/)
 * class [Matrix](../../../aspose.psd/matrix/)
 * class [Pen](../../../aspose.psd/pen/)
 * class [RectangleProjectedShape](../)
-* 命名空间 [Aspose.PSD.Shapes](../../rectangleprojectedshape/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 

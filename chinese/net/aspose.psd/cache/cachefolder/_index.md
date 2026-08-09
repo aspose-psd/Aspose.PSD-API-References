@@ -1,11 +1,12 @@
 ---
-title: Cache.CacheFolder
-second_title: Aspose.PSD for .NET API 参考
-description: Cache 财产. 获取或设置缓存文件夹
+title: "Cache.CacheFolder"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "Cache 属性。获取或设置缓存文件夹"
 type: docs
 weight: 30
 url: /zh/net/aspose.psd/cache/cachefolder/
 ---
+{{< psd/tize >}}
 ## Cache.CacheFolder property
 
 获取或设置缓存文件夹。
@@ -14,14 +15,14 @@ url: /zh/net/aspose.psd/cache/cachefolder/
 public static string CacheFolder { get; set; }
 ```
 
-### 适当的价值
+### Property Value
 
 缓存文件夹。
 
-### 也可以看看
+### 另请参阅
 
 * class [Cache](../)
-* 命名空间 [Aspose.PSD](../../cache/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

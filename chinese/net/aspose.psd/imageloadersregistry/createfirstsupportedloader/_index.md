@@ -1,38 +1,39 @@
 ---
-title: ImageLoadersRegistry.CreateFirstSupportedLoader
-second_title: Aspose.PSD for .NET API 参考
-description: ImageLoadersRegistry 方法. 创建第一个找到的适合指定的加载器stream和可选的loadOptions .
+title: "ImageLoadersRegistry.CreateFirstSupportedLoader"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "ImageLoadersRegistry 方法。创建第一个适用于指定流并可选 loadOptions 的加载器"
 type: docs
 weight: 30
 url: /zh/net/aspose.psd/imageloadersregistry/createfirstsupportedloader/
 ---
+{{< psd/tize >}}
 ## ImageLoadersRegistry.CreateFirstSupportedLoader method
 
-创建第一个找到的适合指定的加载器*stream*和可选的*loadOptions* .
+创建第一个适用于指定 *stream* 且可选的 *loadOptions* 的加载器。
 
 ```csharp
 public static IImageLoader CreateFirstSupportedLoader(Stream stream, LoadOptions loadOptions)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| stream | Stream | 流。 |
+| 流 | 流 | 流。 |
 | loadOptions | LoadOptions | 加载选项。 |
 
 ### 返回值
 
-支持指定的loader*stream*和*loadOptions*如果没有找到这样的加载器，则为 null.
+支持指定 *stream* 和 *loadOptions* 的加载器，如果未找到此类加载器则返回 null。
 
-### 评论
+## 备注
 
-第一个加载器实际上是最后一个注册的。
+第一个加载器实际上是最后注册的。
 
-### 也可以看看
+### 另请参阅
 
 * interface [IImageLoader](../../iimageloader/)
 * class [LoadOptions](../../loadoptions/)
 * class [ImageLoadersRegistry](../)
-* 命名空间 [Aspose.PSD](../../imageloadersregistry/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

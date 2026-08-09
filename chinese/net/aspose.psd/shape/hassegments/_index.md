@@ -1,27 +1,28 @@
 ---
-title: Shape.HasSegments
-second_title: Aspose.PSD for .NET API 参考
-description: Shape 财产. 获取一个值表示形状是否有段
+title: "Shape.HasSegments"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "Shape 属性。获取指示形状是否有段的值"
 type: docs
 weight: 20
 url: /zh/net/aspose.psd/shape/hassegments/
 ---
+{{< psd/tize >}}
 ## Shape.HasSegments property
 
-获取一个值，表示形状是否有段。
+获取指示形状是否具有段的值。
 
 ```csharp
 public abstract bool HasSegments { get; }
 ```
 
-### 适当的价值
+### Property Value
 
-`真的`如果形状有段；否则，`错误的` .
+`True` 如果形状具有段；否则为 `false`。
 
-### 也可以看看
+### 另请参阅
 
 * class [Shape](../)
-* 命名空间 [Aspose.PSD](../../shape/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

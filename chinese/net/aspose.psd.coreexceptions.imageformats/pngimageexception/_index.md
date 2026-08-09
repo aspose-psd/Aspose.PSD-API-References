@@ -1,14 +1,15 @@
 ---
-title: Class PngImageException
-second_title: Aspose.PSD for .NET API 参考
-description: Aspose.PSD.CoreExceptions.ImageFormats.PngImageException 班级. png 图像异常
+title: "类 PngImageException"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "Aspose.PSD.CoreExceptions.ImageFormats.PngImageException 类。png 图像异常"
 type: docs
 weight: 570
 url: /zh/net/aspose.psd.coreexceptions.imageformats/pngimageexception/
 ---
+{{< psd/tize >}}
 ## PngImageException class
 
-png 图像异常。
+该 png 图像异常。
 
 ```csharp
 public class PngImageException : Exception
@@ -16,14 +17,14 @@ public class PngImageException : Exception
 
 ## 构造函数
 
-| 姓名 | 描述 |
+| 名称 | 描述 |
 | --- | --- |
-| [PngImageException](pngimageexception/#constructor)(string) | 初始化一个新的实例`PngImageException`类. |
-| [PngImageException](pngimageexception/#constructor_1)(string, Exception) | 初始化一个新的实例`PngImageException`类. |
+| [PngImageException](pngimageexception/#constructor)(string) | 初始化 `PngImageException` 类的新实例。 |
+| [PngImageException](pngimageexception/#constructor_1)(string, Exception) | 初始化 `PngImageException` 类的新实例。 |
 
-### 也可以看看
+### 另请参阅
 
-* 命名空间 [Aspose.PSD.CoreExceptions.ImageFormats](../../aspose.psd.coreexceptions.imageformats/)
-* 部件 [Aspose.PSD](../../)
+* namespace [Aspose.PSD.CoreExceptions.ImageFormats](../../aspose.psd.coreexceptions.imageformats/)
+* assembly [Aspose.PSD](../../)
 
 

@@ -1,31 +1,32 @@
 ---
-title: StringFormat.TabStops
-second_title: Aspose.PSD for .NET API 参考
-description: StringFormat 财产. 获取制表位之间距离的数组单位由PageUnit财产.
+title: "StringFormat.TabStops"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "StringFormat 属性。获取一个数组，包含由 PageUnit 属性指定单位的制表位之间的距离"
 type: docs
-weight: 110
+weight: 120
 url: /zh/net/aspose.psd/stringformat/tabstops/
 ---
+{{< psd/tize >}}
 ## StringFormat.TabStops property
 
-获取制表位之间距离的数组，单位由[`PageUnit`](../../graphics/pageunit/)财产.
+获取一个数组，包含由 [`PageUnit`](../../graphics/pageunit/) 属性指定单位的制表位之间的距离。
 
 ```csharp
 public float[] TabStops { get; }
 ```
 
-### 适当的价值
+### Property Value
 
-标签停止。
+制表位。
 
-### 评论
+## 备注
 
-该属性是为已删除的方法 GetTabStops 引入的。
+此属性是为已移除的方法 GetTabStops 引入的。
 
-### 也可以看看
+### 另请参阅
 
 * class [StringFormat](../)
-* 命名空间 [Aspose.PSD](../../stringformat/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

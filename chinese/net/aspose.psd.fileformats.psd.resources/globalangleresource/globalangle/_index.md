@@ -1,11 +1,12 @@
 ---
-title: GlobalAngleResource.GlobalAngle
-second_title: Aspose.PSD for .NET API 参考
-description: GlobalAngleResource 财产. 获取或设置全局角度
+title: "GlobalAngleResource.GlobalAngle"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "GlobalAngleResource 属性。获取或设置全局角度"
 type: docs
 weight: 30
 url: /zh/net/aspose.psd.fileformats.psd.resources/globalangleresource/globalangle/
 ---
+{{< psd/tize >}}
 ## GlobalAngleResource.GlobalAngle property
 
 获取或设置全局角度。
@@ -14,14 +15,14 @@ url: /zh/net/aspose.psd.fileformats.psd.resources/globalangleresource/globalangl
 public int GlobalAngle { get; set; }
 ```
 
-### 适当的价值
+### Property Value
 
-全局角度.
+全局角度。
 
-### 也可以看看
+### 另请参阅
 
 * class [GlobalAngleResource](../)
-* 命名空间 [Aspose.PSD.FileFormats.Psd.Resources](../../globalangleresource/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

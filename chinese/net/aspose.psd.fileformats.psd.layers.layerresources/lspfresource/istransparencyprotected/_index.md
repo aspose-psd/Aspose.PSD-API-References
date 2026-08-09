@@ -1,27 +1,28 @@
 ---
-title: LspfResource.IsTransparencyProtected
-second_title: Aspose.PSD for .NET API 参考
-description: LspfResource 财产. 获取或设置一个值该值指示此实例是否受透明保护
+title: "LspfResource.IsTransparencyProtected"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "LspfResource 属性。获取或设置一个值，指示此实例是否受透明保护"
 type: docs
 weight: 40
 url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources/lspfresource/istransparencyprotected/
 ---
+{{< psd/tize >}}
 ## LspfResource.IsTransparencyProtected property
 
-获取或设置一个值，该值指示此实例是否受透明保护。
+获取或设置一个值，指示此实例是否受透明度保护。
 
 ```csharp
 public bool IsTransparencyProtected { get; set; }
 ```
 
-### 适当的价值
+### Property Value
 
-`真的`如果这个实例是透明保护的；否则，`错误的` .
+`true` 如果此实例受透明保护；否则为 `false`。
 
-### 也可以看看
+### 另请参阅
 
 * class [LspfResource](../)
-* 命名空间 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../lspfresource/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

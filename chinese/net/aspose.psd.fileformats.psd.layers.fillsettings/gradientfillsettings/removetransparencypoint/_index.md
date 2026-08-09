@@ -1,28 +1,29 @@
 ---
-title: GradientFillSettings.RemoveTransparencyPoint
-second_title: Aspose.PSD for .NET API 参考
-description: GradientFillSettings 方法. 删除透明度点
+title: "GradientFillSettings.RemoveTransparencyPoint"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "GradientFillSettings 方法。移除透明点"
 type: docs
-weight: 180
+weight: 90
 url: /zh/net/aspose.psd.fileformats.psd.layers.fillsettings/gradientfillsettings/removetransparencypoint/
 ---
+{{< psd/tize >}}
 ## GradientFillSettings.RemoveTransparencyPoint method
 
-删除透明度点。
+移除透明度点。
 
 ```csharp
 public void RemoveTransparencyPoint(IGradientTransparencyPoint point)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| point | IGradientTransparencyPoint | 重点。 |
+| 点 | IGradientTransparencyPoint | 该点。 |
 
-### 也可以看看
+### 另请参阅
 
 * interface [IGradientTransparencyPoint](../../igradienttransparencypoint/)
 * class [GradientFillSettings](../)
-* 命名空间 [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../gradientfillsettings/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../../)
 
 

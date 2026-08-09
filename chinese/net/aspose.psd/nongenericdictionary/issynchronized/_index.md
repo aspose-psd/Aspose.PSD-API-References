@@ -1,14 +1,15 @@
 ---
-title: NonGenericDictionary.IsSynchronized
-second_title: Aspose.PSD for .NET API 参考
-description: NonGenericDictionary 财产. 获取一个值表示是否访问到 ICollection同步线程安全.
+title: "NonGenericDictionary.IsSynchronized"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "NonGenericDictionary 属性。获取一个值，指示对 ICollection 的访问是否同步且线程安全"
 type: docs
 weight: 50
 url: /zh/net/aspose.psd/nongenericdictionary/issynchronized/
 ---
+{{< psd/tize >}}
 ## NonGenericDictionary.IsSynchronized property
 
-获取一个值，表示是否访问到 ICollection同步（线程安全）.
+获取一个值，指示对 ICollection 的访问是否已同步（线程安全）。
 
 ```csharp
 public bool IsSynchronized { get; }
@@ -16,12 +17,12 @@ public bool IsSynchronized { get; }
 
 ### 返回值
 
-如果访问ICollection是同步的（线程安全的）；否则，假的。
+如果对 ICollection 的访问是同步的（线程安全），则为 true；否则为 false。
 
-### 也可以看看
+### 另请参阅
 
 * class [NonGenericDictionary](../)
-* 命名空间 [Aspose.PSD](../../nongenericdictionary/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

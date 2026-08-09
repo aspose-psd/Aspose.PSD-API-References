@@ -1,23 +1,24 @@
 ---
-title: Size.Width
-second_title: Aspose.PSD for .NET API 参考
-description: Size 财产. 获取或设置这个的水平分量Size .
+title: "Size.Width"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "Size 属性。获取或设置此 Size 的水平分量。"
 type: docs
 weight: 100
 url: /zh/net/aspose.psd/size/width/
 ---
+{{< psd/tize >}}
 ## Size.Width property
 
-获取或设置这个的水平分量[`Size`](../) .
+获取或设置此 [`Size`](../) 的水平分量。
 
 ```csharp
 public int Width { get; set; }
 ```
 
-### 也可以看看
+### 另请参阅
 
 * struct [Size](../)
-* 命名空间 [Aspose.PSD](../../size/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,31 +1,32 @@
 ---
-title: Class ProgressEventHandlerInfo
-second_title: Aspose.PSD for .NET API 参考
-description: Aspose.PSD.ProgressManagement.ProgressEventHandlerInfo 班级. 此类表示有关图像加载/保存/导出操作进度的信息 可用于外部应用程序以向最终用户显示转换进度
+title: "类 ProgressEventHandlerInfo"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "Aspose.PSD.ProgressManagement.ProgressEventHandlerInfo 类。此类表示图像加载/保存/导出操作的进度信息，可在外部应用程序中用于向最终用户显示转换进度。"
 type: docs
-weight: 5300
+weight: 5800
 url: /zh/net/aspose.psd.progressmanagement/progresseventhandlerinfo/
 ---
+{{< psd/tize >}}
 ## ProgressEventHandlerInfo class
 
-此类表示有关图像加载/保存/导出操作进度的信息， 可用于外部应用程序以向最终用户显示转换进度
+此类表示图像加载/保存/导出操作进度的信息，可在外部应用程序中用于向最终用户显示转换进度
 
 ```csharp
 public class ProgressEventHandlerInfo
 ```
 
-## 特性
+## 属性
 
-| 姓名 | 描述 |
+| 名称 | 描述 |
 | --- | --- |
 | [Description](../../aspose.psd.progressmanagement/progresseventhandlerinfo/description/) { get; } | 获取事件的描述 |
 | [EventType](../../aspose.psd.progressmanagement/progresseventhandlerinfo/eventtype/) { get; } | 获取事件的类型。 |
-| [MaxValue](../../aspose.psd.progressmanagement/progresseventhandlerinfo/maxvalue/) { get; } | 获取进度值上限。 |
+| [MaxValue](../../aspose.psd.progressmanagement/progresseventhandlerinfo/maxvalue/) { get; } | 获取上限进度值。 |
 | [Value](../../aspose.psd.progressmanagement/progresseventhandlerinfo/value/) { get; } | 获取当前进度值。 |
 
-### 例子
+## 示例
 
-以下示例演示文档转换进度正常且无异常。
+以下示例演示文档转换进度正常工作且没有异常。
 
 ```csharp
 [C#]
@@ -69,9 +70,9 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath, loadOptions))
 }
 ```
 
-### 也可以看看
+### 另请参阅
 
-* 命名空间 [Aspose.PSD.ProgressManagement](../../aspose.psd.progressmanagement/)
-* 部件 [Aspose.PSD](../../)
+* namespace [Aspose.PSD.ProgressManagement](../../aspose.psd.progressmanagement/)
+* assembly [Aspose.PSD](../../)
 
 

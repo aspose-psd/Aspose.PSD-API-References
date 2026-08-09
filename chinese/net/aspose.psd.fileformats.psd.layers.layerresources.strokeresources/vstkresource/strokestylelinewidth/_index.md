@@ -1,22 +1,23 @@
 ---
-title: VstkResource.StrokeStyleLineWidth
-second_title: Aspose.PSD for .NET API 参考
-description: VstkResource 财产. 获取或设置 Stroke 线宽
+title: "VstkResource.StrokeStyleLineWidth"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "VstkResource 属性。获取或设置笔画线宽度"
 type: docs
-weight: 160
+weight: 140
 url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources.strokeresources/vstkresource/strokestylelinewidth/
 ---
+{{< psd/tize >}}
 ## VstkResource.StrokeStyleLineWidth property
 
-获取或设置 Stroke 线宽。
+获取或设置描边线宽。
 
 ```csharp
 public double StrokeStyleLineWidth { get; set; }
 ```
 
-### 例子
+## 示例
 
-下面的代码演示了对 VstkResource 资源的支持。
+以下代码演示了对 VstkResource 资源的支持。
 
 ```csharp
 [C#]
@@ -41,10 +42,10 @@ using (PsdImage image = (PsdImage)Image.Load(srcFile))
 }
 ```
 
-### 也可以看看
+### 另请参阅
 
 * class [VstkResource](../)
-* 命名空间 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.StrokeResources](../../vstkresource/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.StrokeResources](../../../aspose.psd.fileformats.psd.layers.layerresources.strokeresources/)
+* assembly [Aspose.PSD](../../../)
 
 

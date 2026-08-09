@@ -1,32 +1,33 @@
 ---
-title: Enum PenAlignment
-second_title: Aspose.PSD for .NET API 参考
-description: Aspose.PSD.PenAlignment 枚举. 指定对齐方式Pen与理论上的零宽度线相关的对象.
+title: "枚举 PenAlignment"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "Aspose.PSD.PenAlignment 枚举。指定 Pen 对象相对于理论零宽线的对齐方式"
 type: docs
-weight: 5210
+weight: 5700
 url: /zh/net/aspose.psd/penalignment/
 ---
+{{< psd/tize >}}
 ## PenAlignment enumeration
 
-指定对齐方式[`Pen`](../pen/)与理论上的零宽度线相关的对象.
+指定 [`Pen`](../pen/) 对象相对于理论的零宽线的对齐方式。
 
 ```csharp
 public enum PenAlignment
 ```
 
-### 价值观
+### 值
 
-| 姓名 | 价值 | 描述 |
+| 名称 | 值 | 描述 |
 | --- | --- | --- |
-| Center | `0` | 指定[`Pen`](../pen/)对象以理论线为中心。 |
-| Inset | `1` | 指定[`Pen`](../pen/)位于理论线的内侧。 |
-| Outset | `2` | 指定[`Pen`](../pen/)位于理论线外。 |
-| Left | `3` | 指定[`Pen`](../pen/)位于理论线的左侧。 |
-| Right | `4` | 指定[`Pen`](../pen/)位于理论线的右侧。 |
+| Center | `0` | 指定 [`Pen`](../pen/) 对象居中于理论线。 |
+| Inset | `1` | 指定 [`Pen`](../pen/) 位于理论线的内部。 |
+| Outset | `2` | 指定 [`Pen`](../pen/) 位于理论线的外部。 |
+| Left | `3` | 指定 [`Pen`](../pen/) 位于理论线的左侧。 |
+| Right | `4` | 指定 [`Pen`](../pen/) 位于理论线的右侧。 |
 
-### 也可以看看
+### 另请参阅
 
-* 命名空间 [Aspose.PSD](../../aspose.psd/)
-* 部件 [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

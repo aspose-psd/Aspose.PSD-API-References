@@ -1,11 +1,12 @@
 ---
-title: AiRasterImageSection.ImageRectangle
-second_title: Aspose.PSD for .NET API 参考
-description: AiRasterImageSection 财产. 获取图像矩形
+title: "AiRasterImageSection.ImageRectangle"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "AiRasterImageSection 属性。获取图像矩形"
 type: docs
 weight: 30
 url: /zh/net/aspose.psd.fileformats.ai/airasterimagesection/imagerectangle/
 ---
+{{< psd/tize >}}
 ## AiRasterImageSection.ImageRectangle property
 
 获取图像矩形。
@@ -14,15 +15,15 @@ url: /zh/net/aspose.psd.fileformats.ai/airasterimagesection/imagerectangle/
 public Rectangle ImageRectangle { get; }
 ```
 
-### 适当的价值
+### Property Value
 
 图像矩形。
 
-### 也可以看看
+### 另请参阅
 
 * struct [Rectangle](../../../aspose.psd/rectangle/)
 * class [AiRasterImageSection](../)
-* 命名空间 [Aspose.PSD.FileFormats.Ai](../../airasterimagesection/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

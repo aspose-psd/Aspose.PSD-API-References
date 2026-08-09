@@ -1,27 +1,28 @@
 ---
-title: PixelDataFormat.Rgb16Bpp565
-second_title: Aspose.PSD for .NET API 参考
-description: PixelDataFormat 财产. 获取PixelDataFormat定义为每像素 16 位其中 5 位用于红色6 位用于绿色5 位用于蓝色未定义 alpha.
+title: "PixelDataFormat.Rgb16Bpp565"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "PixelDataFormat 属性。获取定义为每像素 16 位，其中红色 5 位，绿色 6 位，蓝色 5 位的 PixelDataFormat，alpha 未定义。"
 type: docs
 weight: 60
 url: /zh/net/aspose.psd/pixeldataformat/rgb16bpp565/
 ---
+{{< psd/tize >}}
 ## PixelDataFormat.Rgb16Bpp565 property
 
-获取[`PixelDataFormat`](../)定义为每像素 16 位，其中 5 位用于红色，6 位用于绿色，5 位用于蓝色，未定义 alpha.
+获取定义为每像素 16 位，其中红色 5 位，绿色 6 位，蓝色 5 位的 [`PixelDataFormat`](../)，alpha 未定义。
 
 ```csharp
 public static PixelDataFormat Rgb16Bpp565 { get; }
 ```
 
-### 适当的价值
+### Property Value
 
-的[`PixelDataFormat`](../)定义为每像素 16 位，其中 5 位用于红色，6 位用于绿色，5 位用于蓝色，未定义 alpha.
+定义为每像素 16 位，其中红色 5 位，绿色 6 位，蓝色 5 位，alpha 未定义的 [`PixelDataFormat`](../)。
 
-### 也可以看看
+### 另请参阅
 
 * class [PixelDataFormat](../)
-* 命名空间 [Aspose.PSD](../../pixeldataformat/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

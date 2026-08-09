@@ -1,27 +1,28 @@
 ---
-title: RasterImage.IsRawDataAvailable
-second_title: Aspose.PSD for .NET API 参考
-description: RasterImage 财产. 获取原始数据加载是否可用的值
+title: "RasterImage.IsRawDataAvailable"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "RasterImage 属性。获取一个值，指示是否可用原始数据加载"
 type: docs
 weight: 50
 url: /zh/net/aspose.psd/rasterimage/israwdataavailable/
 ---
+{{< psd/tize >}}
 ## RasterImage.IsRawDataAvailable property
 
-获取原始数据加载是否可用的值。
+获取一个值，指示是否可以加载原始数据。
 
 ```csharp
 public bool IsRawDataAvailable { get; }
 ```
 
-### 适当的价值
+### Property Value
 
-`真的`此原始数据加载是否可用；否则，`错误的` .
+`true` 如果此原始数据加载可用；否则为 `false`。
 
-### 也可以看看
+### 另请参阅
 
 * class [RasterImage](../)
-* 命名空间 [Aspose.PSD](../../rasterimage/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

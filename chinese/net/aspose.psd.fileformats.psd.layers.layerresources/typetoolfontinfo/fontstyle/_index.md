@@ -1,11 +1,12 @@
 ---
-title: TypeToolFontInfo.FontStyle
-second_title: Aspose.PSD for .NET API 参考
-description: TypeToolFontInfo 财产. 获取或设置字体样式名称
+title: "TypeToolFontInfo.FontStyle"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "TypeToolFontInfo 属性。获取或设置字体样式名称"
 type: docs
 weight: 60
 url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources/typetoolfontinfo/fontstyle/
 ---
+{{< psd/tize >}}
 ## TypeToolFontInfo.FontStyle property
 
 获取或设置字体样式名称。
@@ -14,14 +15,14 @@ url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources/typetoolfontinfo/f
 public string FontStyle { get; set; }
 ```
 
-### 适当的价值
+### Property Value
 
 字体样式名称。
 
-### 也可以看看
+### 另请参阅
 
 * class [TypeToolFontInfo](../)
-* 命名空间 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../typetoolfontinfo/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

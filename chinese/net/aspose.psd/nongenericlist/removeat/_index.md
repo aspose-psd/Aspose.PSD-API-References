@@ -1,27 +1,28 @@
 ---
-title: NonGenericList.RemoveAt
-second_title: Aspose.PSD for .NET API 参考
-description: NonGenericList 方法. 删除IList指定索引处的项目.
+title: "NonGenericList.RemoveAt"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "NonGenericList 方法。移除指定索引处的 IList 项。"
 type: docs
 weight: 160
 url: /zh/net/aspose.psd/nongenericlist/removeat/
 ---
+{{< psd/tize >}}
 ## NonGenericList.RemoveAt method
 
-删除IList指定索引处的项目.
+移除指定索引处的 IList 项目。
 
 ```csharp
 public void RemoveAt(int index)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| index | Int32 | 要删除的项目的从零开始的索引。 |
+| index | Int32 | 要移除的项的零基索引。 |
 
-### 也可以看看
+### 另请参阅
 
 * class [NonGenericList](../)
-* 命名空间 [Aspose.PSD](../../nongenericlist/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

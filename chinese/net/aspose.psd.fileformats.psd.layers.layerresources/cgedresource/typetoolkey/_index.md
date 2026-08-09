@@ -1,11 +1,12 @@
 ---
-title: CgEdResource.TypeToolKey
-second_title: Aspose.PSD for .NET API 参考
-description: CgEdResource 场地. 类型工具信息键
+title: "CgEdResource.TypeToolKey"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "CgEdResource 字段。类型工具信息键"
 type: docs
-weight: 130
+weight: 110
 url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources/cgedresource/typetoolkey/
 ---
+{{< psd/tize >}}
 ## CgEdResource.TypeToolKey field
 
 类型工具信息键。
@@ -14,10 +15,10 @@ url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources/cgedresource/typet
 public const int TypeToolKey;
 ```
 
-### 也可以看看
+### 另请参阅
 
 * class [CgEdResource](../)
-* 命名空间 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../cgedresource/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

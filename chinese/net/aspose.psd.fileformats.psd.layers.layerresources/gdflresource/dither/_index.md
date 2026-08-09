@@ -1,26 +1,27 @@
 ---
-title: GdFlResource.Dither
-second_title: Aspose.PSD for .NET API 参考
-description: GdFlResource 财产. 获取或设置一个值指示是否这GdFlResource是抖动.
+title: "GdFlResource.Dither"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "GdFlResource 属性。获取或设置一个值，指示此 GdFlResource 是否为抖动"
 type: docs
-weight: 60
+weight: 70
 url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources/gdflresource/dither/
 ---
+{{< psd/tize >}}
 ## GdFlResource.Dither property
 
-获取或设置一个值，指示是否这[`GdFlResource`](../)是抖动.
+获取或设置一个值，指示此 [`GdFlResource`](../) 是否为抖动。
 
 ```csharp
 public bool Dither { get; set; }
 ```
 
-### 适当的价值
+### Property Value
 
-`真的`如果抖动；否则，`错误的` .
+`true` 表示抖动；否则为 `false`。
 
-### 例子
+## 示例
 
-以下示例演示了对 GdFlResource 资源加载的支持。
+以下示例演示了 GdFlResource 资源加载的支持。
 
 ```csharp
 [C#]
@@ -40,7 +41,7 @@ using (im)
             {
                 if (res is GdFlResource)
                 {
-                    // 阅读
+                    // 读取
                     var resource = (GdFlResource)res;
                     if (resource.AlignWithLayer != false ||
                      (Math.Abs(resource.Angle - 45.0) > 0.001) ||
@@ -114,10 +115,10 @@ using (im)
 }
 ```
 
-### 也可以看看
+### 另请参阅
 
 * class [GdFlResource](../)
-* 命名空间 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../gdflresource/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,34 +1,35 @@
 ---
-title: Pen.DashStyle
-second_title: Aspose.PSD for .NET API 参考
-description: Pen 财产. 获取或设置用于绘制虚线的样式Pen .
+title: "Pen.DashStyle"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "Pen 属性。获取或设置此 Pen 绘制的虚线使用的样式。"
 type: docs
 weight: 110
 url: /zh/net/aspose.psd/pen/dashstyle/
 ---
+{{< psd/tize >}}
 ## Pen.DashStyle property
 
-获取或设置用于绘制虚线的样式[`Pen`](../) .
+获取或设置此 [`Pen`](../) 绘制的虚线使用的样式。
 
 ```csharp
 public DashStyle DashStyle { get; set; }
 ```
 
-### 适当的价值
+### Property Value
 
-A`DashStyle`表示用它绘制的虚线所用的样式[`Pen`](../).
+`DashStyle` 表示此 [`Pen`](../) 绘制的虚线使用的样式。
 
-### 例外
+### 异常
 
-| 例外 | （健康）状况 |
+| 异常 | 条件 |
 | --- | --- |
-| ArgumentException | 这`DashStyle`属性设置在一个不可变的[`Pen`](../)，例如返回的那些[`Pen`](../)班级。 |
+| ArgumentException | `DashStyle` 属性设置在不可变的 [`Pen`](../) 上，例如由 [`Pen`](../) 类返回的实例。 |
 
-### 也可以看看
+### 另请参阅
 
 * enum [DashStyle](../../dashstyle/)
 * class [Pen](../)
-* 命名空间 [Aspose.PSD](../../pen/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

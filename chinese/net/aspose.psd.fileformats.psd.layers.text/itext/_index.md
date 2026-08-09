@@ -1,22 +1,23 @@
 ---
-title: Interface IText
-second_title: Aspose.PSD for .NET API 参考
-description: Aspose.PSD.FileFormats.Psd.Layers.Text.IText 界面. 文本图层文本编辑界面
+title: "接口 IText"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "Aspose.PSD.FileFormats.Psd.Layers.Text.IText 接口。用于文本图层的文本编辑的接口"
 type: docs
-weight: 3510
+weight: 3930
 url: /zh/net/aspose.psd.fileformats.psd.layers.text/itext/
 ---
+{{< psd/tize >}}
 ## IText interface
 
-文本图层文本编辑界面
+文本图层的文本编辑接口
 
 ```csharp
 public interface IText
 ```
 
-## 特性
+## 属性
 
-| 姓名 | 描述 |
+| 名称 | 描述 |
 | --- | --- |
 | [Items](../../aspose.psd.fileformats.psd.layers.text/itext/items/) { get; } | 获取项目。 |
 | [Text](../../aspose.psd.fileformats.psd.layers.text/itext/text/) { get; } | 获取文本。 |
@@ -24,18 +25,18 @@ public interface IText
 
 ## 方法
 
-| 姓名 | 描述 |
+| 名称 | 描述 |
 | --- | --- |
-| [AddPortion](../../aspose.psd.fileformats.psd.layers.text/itext/addportion/)(ITextPortion) | 将文本部分添加到 end |
-| [InsertPortion](../../aspose.psd.fileformats.psd.layers.text/itext/insertportion/)(ITextPortion, int) | 插入[`ITextPortion`](../itextportion/)到指定位置 |
-| [ProducePortion](../../aspose.psd.fileformats.psd.layers.text/itext/produceportion/)() | 使用默认参数生成新部分 |
-| [ProducePortions](../../aspose.psd.fileformats.psd.layers.text/itext/produceportions/)(string[], ITextStyle, ITextParagraph) | 使用输入或默认参数生成新部分。 |
-| [RemovePortion](../../aspose.psd.fileformats.psd.layers.text/itext/removeportion/)(int) | 删除指定 index 中的部分 |
+| [AddPortion](../../aspose.psd.fileformats.psd.layers.text/itext/addportion/)(ITextPortion) | 在末尾添加文本片段 |
+| [InsertPortion](../../aspose.psd.fileformats.psd.layers.text/itext/insertportion/)(ITextPortion, int) | 将 [`ITextPortion`](../itextportion/) 插入到指定位置 |
+| [ProducePortion](../../aspose.psd.fileformats.psd.layers.text/itext/produceportion/)() | 使用默认参数生成新的片段 |
+| [ProducePortions](../../aspose.psd.fileformats.psd.layers.text/itext/produceportions/)(string[], ITextStyle, ITextParagraph) | 使用输入或默认参数生成新的片段。 |
+| [RemovePortion](../../aspose.psd.fileformats.psd.layers.text/itext/removeportion/)(int) | 移除指定索引处的片段 |
 | [UpdateLayerData](../../aspose.psd.fileformats.psd.layers.text/itext/updatelayerdata/)() | 更新图层数据。 |
 
-### 例子
+## 示例
 
-以下代码示例演示了编辑文本部分及其文本样式。
+以下代码示例演示了文本片段及其文本样式的编辑。
 
 ```csharp
 [C#]
@@ -58,7 +59,7 @@ using (var im = (PsdImage)Image.Load(filePath))
                 throw new Exception();
             }
 
-            // 检查每一部分的文本
+            // 检查每个片段的文本
             if (portions[0].Text != "Old " ||
                 portions[1].Text != "color" ||
                 portions[2].Text != " text\r" ||
@@ -68,7 +69,7 @@ using (var im = (PsdImage)Image.Load(filePath))
             }
 
             // 检查段落数据
-            // 段落有不同的理由
+            // 段落的对齐方式不同
             if (
                 (int)portions[0].Paragraph.Justification != 0 ||
                 (int)portions[1].Paragraph.Justification != 0 ||
@@ -78,7 +79,7 @@ using (var im = (PsdImage)Image.Load(filePath))
                 throw new Exception();
             }
 
-            // 第一段和第二段的所有其他属性都相等
+            // 第一段和第二段的所有其他属性相等
             for (int j = 0; j < portions.Length; j++)
             {
                 var paragraph = portions[j].Paragraph;
@@ -102,7 +103,7 @@ using (var im = (PsdImage)Image.Load(filePath))
                     Math.Abs(paragraph.LetterSpacing[0]) > Tolerance ||
                     Math.Abs(paragraph.LetterSpacing[1]) > Tolerance ||
                     Math.Abs(paragraph.LetterSpacing[2]) > Tolerance ||
-                    paragraph.LeadingType != LeadingMode.Auto ||
+                    paragraph.LeadingType != LeadingType.BottomToBottom ||
                     paragraph.PreHyphen != 2 ||
                     paragraph.PostHyphen != 2 ||
                     Math.Abs(paragraph.SpaceBefore) > Tolerance ||
@@ -118,7 +119,7 @@ using (var im = (PsdImage)Image.Load(filePath))
             }
 
             // 检查样式数据
-            // 样式有不同的颜色和字体大小
+            // 样式的颜色和字体大小不同
             if (Math.Abs(portions[0].Style.FontSize - 12) > Tolerance ||
                 Math.Abs(portions[1].Style.FontSize - 12) > Tolerance ||
                 Math.Abs(portions[2].Style.FontSize - 12) > Tolerance ||
@@ -154,29 +155,29 @@ using (var im = (PsdImage)Image.Load(filePath))
             portions[0].Text = "Hello ";
             portions[1].Text = "World";
 
-            // 文本部分删除示例
+            // 文本片段删除示例
             layer.TextData.RemovePortion(3);
             layer.TextData.RemovePortion(2);
 
-            // 添加新文本部分的示例
+            // 添加新文本片段的示例
             var createdPortion = layer.TextData.ProducePortion();
             createdPortion.Text = "!!!\r";
             layer.TextData.AddPortion(createdPortion);
 
             portions = layer.TextData.Items;
 
-            // 部分段落和样式编辑示例
+            // 段落和样式编辑（针对片段）的示例
             // 设置右对齐
             portions[0].Paragraph.Justification = JustificationMode.Right;
             portions[1].Paragraph.Justification = JustificationMode.Right;
             portions[2].Paragraph.Justification = JustificationMode.Right;
 
-            // 每种样式的不同颜色。将更改，但不完全支持渲染
+            // 每种样式的颜色不同。将会更改，但渲染尚未完全支持
             portions[0].Style.FillColor = Color.Aquamarine;
             portions[1].Style.FillColor = Color.Violet;
             portions[2].Style.FillColor = Color.LightBlue;
 
-            // 不同的字体。将更改，但不完全支持渲染
+            // 字体不同。将会更改，但渲染尚未完全支持
             portions[0].Style.FontSize = 6;
             portions[1].Style.FontSize = 8;
             portions[2].Style.FontSize = 10;
@@ -191,9 +192,9 @@ using (var im = (PsdImage)Image.Load(filePath))
 }
 ```
 
-### 也可以看看
+### 另请参阅
 
-* 命名空间 [Aspose.PSD.FileFormats.Psd.Layers.Text](../../aspose.psd.fileformats.psd.layers.text/)
-* 部件 [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.Text](../../aspose.psd.fileformats.psd.layers.text/)
+* assembly [Aspose.PSD](../../)
 
 

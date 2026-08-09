@@ -1,11 +1,12 @@
 ---
-title: PhflResourceVersion3.Key
-second_title: Aspose.PSD for .NET API 参考
-description: PhflResourceVersion3 财产. 获取图层资源键
+title: "PhflResourceVersion3.Key"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "PhflResourceVersion3 属性。获取图层资源键"
 type: docs
 weight: 60
 url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources/phflresourceversion3/key/
 ---
+{{< psd/tize >}}
 ## PhflResourceVersion3.Key property
 
 获取图层资源键。
@@ -14,10 +15,10 @@ url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources/phflresourceversio
 public override int Key { get; }
 ```
 
-### 也可以看看
+### 另请参阅
 
 * class [PhflResourceVersion3](../)
-* 命名空间 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../phflresourceversion3/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

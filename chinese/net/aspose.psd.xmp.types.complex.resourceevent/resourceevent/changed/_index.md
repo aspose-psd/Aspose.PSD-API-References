@@ -1,27 +1,28 @@
 ---
-title: ResourceEvent.Changed
-second_title: Aspose.PSD for .NET API 参考
-description: ResourceEvent 财产. 获取或设置自上次事件历史以来更改的资源部分的分号分隔列表
+title: "ResourceEvent.Changed"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "ResourceEvent 属性。获取或设置自上一次事件历史以来已更改的资源部分的分号分隔列表"
 type: docs
 weight: 40
 url: /zh/net/aspose.psd.xmp.types.complex.resourceevent/resourceevent/changed/
 ---
+{{< psd/tize >}}
 ## ResourceEvent.Changed property
 
-获取或设置自上次事件历史以来更改的资源部分的分号分隔列表。
+获取或设置自上一次事件历史以来已更改的资源部分的分号分隔列表。
 
 ```csharp
 public string Changed { get; set; }
 ```
 
-### 适当的价值
+### Property Value
 
-自上次事件历史以来更改的资源部分的分号分隔列表。
+自上一次事件历史以来已更改的资源部分的分号分隔列表。
 
-### 也可以看看
+### 另请参阅
 
 * class [ResourceEvent](../)
-* 命名空间 [Aspose.PSD.Xmp.Types.Complex.ResourceEvent](../../resourceevent/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.ResourceEvent](../../../aspose.psd.xmp.types.complex.resourceevent/)
+* assembly [Aspose.PSD](../../../)
 
 

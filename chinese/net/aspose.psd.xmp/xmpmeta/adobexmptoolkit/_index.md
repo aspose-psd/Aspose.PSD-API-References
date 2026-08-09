@@ -1,11 +1,12 @@
 ---
-title: XmpMeta.AdobeXmpToolkit
-second_title: Aspose.PSD for .NET API 参考
-description: XmpMeta 财产. 获取或设置 Adobe Xmp 工具包版本
+title: "XmpMeta.AdobeXmpToolkit"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "XmpMeta 属性。获取或设置 Adobe Xmp 工具包版本"
 type: docs
 weight: 20
 url: /zh/net/aspose.psd.xmp/xmpmeta/adobexmptoolkit/
 ---
+{{< psd/tize >}}
 ## XmpMeta.AdobeXmpToolkit property
 
 获取或设置 Adobe Xmp 工具包版本。
@@ -14,10 +15,10 @@ url: /zh/net/aspose.psd.xmp/xmpmeta/adobexmptoolkit/
 public string AdobeXmpToolkit { get; set; }
 ```
 
-### 也可以看看
+### 另请参阅
 
 * class [XmpMeta](../)
-* 命名空间 [Aspose.PSD.Xmp](../../xmpmeta/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,23 +1,24 @@
 ---
-title: LnkeResource.Key
-second_title: Aspose.PSD for .NET API 参考
-description: LnkeResource 财产. 获取 Adobe Photoshop 全局资源密钥
+title: "LnkeResource.Key"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "LnkeResource 属性。获取 Adobe Photoshop 全局资源键"
 type: docs
 weight: 30
 url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources/lnkeresource/key/
 ---
+{{< psd/tize >}}
 ## LnkeResource.Key property
 
-获取 Adobe® Photoshop® 全局资源密钥。
+获取 Adobe® Photoshop® 全局资源键。
 
 ```csharp
 public override int Key { get; }
 ```
 
-### 也可以看看
+### 另请参阅
 
 * class [LnkeResource](../)
-* 命名空间 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../lnkeresource/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

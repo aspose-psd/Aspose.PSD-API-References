@@ -1,11 +1,12 @@
 ---
-title: PolygonShape.Segments
-second_title: Aspose.PSD for .NET API 参考
-description: PolygonShape 财产. 获取形状段
+title: "PolygonShape.Segments"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "PolygonShape 属性。获取形状段"
 type: docs
 weight: 80
 url: /zh/net/aspose.psd.shapes/polygonshape/segments/
 ---
+{{< psd/tize >}}
 ## PolygonShape.Segments property
 
 获取形状段。
@@ -14,15 +15,15 @@ url: /zh/net/aspose.psd.shapes/polygonshape/segments/
 public override ShapeSegment[] Segments { get; }
 ```
 
-### 适当的价值
+### Property Value
 
 形状段。
 
-### 也可以看看
+### 另请参阅
 
 * class [ShapeSegment](../../../aspose.psd/shapesegment/)
 * class [PolygonShape](../)
-* 命名空间 [Aspose.PSD.Shapes](../../polygonshape/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 

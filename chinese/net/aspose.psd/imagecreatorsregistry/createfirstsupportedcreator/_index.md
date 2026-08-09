@@ -1,37 +1,38 @@
 ---
-title: ImageCreatorsRegistry.CreateFirstSupportedCreator
-second_title: Aspose.PSD for .NET API 参考
-description: ImageCreatorsRegistry 方法. 创建适合指定的第一个找到的创建者
+title: "ImageCreatorsRegistry.CreateFirstSupportedCreator"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "ImageCreatorsRegistry 方法。创建第一个适用于指定条件的找到的创建者"
 type: docs
 weight: 30
 url: /zh/net/aspose.psd/imagecreatorsregistry/createfirstsupportedcreator/
 ---
+{{< psd/tize >}}
 ## ImageCreatorsRegistry.CreateFirstSupportedCreator method
 
-创建适合指定的第一个找到的创建者。
+创建第一个找到的适用于指定条件的创建器。
 
 ```csharp
 public static IImageCreator CreateFirstSupportedCreator(ImageOptionsBase imageOptions)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
 | imageOptions | ImageOptionsBase | 图像选项。 |
 
 ### 返回值
 
-支持指定的创建者，如果找不到这样的创建者，则返回 null。
+支持指定条件的创建者，如果未找到此类创建者则返回 null。
 
-### 评论
+## 备注
 
-第一个创建者实际上是最后一个注册的。
+第一个创建者实际上是最后注册的。
 
-### 也可以看看
+### 另请参阅
 
 * interface [IImageCreator](../../iimagecreator/)
 * class [ImageOptionsBase](../../imageoptionsbase/)
 * class [ImageCreatorsRegistry](../)
-* 命名空间 [Aspose.PSD](../../imagecreatorsregistry/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

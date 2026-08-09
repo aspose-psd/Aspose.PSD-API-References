@@ -1,27 +1,28 @@
 ---
-title: PsdImage.AdjustContrast
-second_title: Aspose.PSD for .NET API 参考
-description: PsdImage 方法. 图像对比
+title: "PsdImage.AdjustContrast"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "PsdImage 方法。图像对比度调整"
 type: docs
-weight: 450
+weight: 510
 url: /zh/net/aspose.psd.fileformats.psd/psdimage/adjustcontrast/
 ---
+{{< psd/tize >}}
 ## PsdImage.AdjustContrast method
 
-图像对比
+图像对比度
 
 ```csharp
 public override void AdjustContrast(float contrast)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| contrast | Single | 对比度值（范围 [-100; 100]） |
+| 对比度 | 单精度 | 对比度值（范围为 [-100; 100]） |
 
-### 也可以看看
+### 另请参阅
 
 * class [PsdImage](../)
-* 命名空间 [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,40 +1,41 @@
 ---
-title: Class AudioSampleType
-second_title: Aspose.PSD for .NET API 参考
-description: Aspose.PSD.Xmp.Schemas.XmpDm.AudioSampleType 班级. 代表Audio sample type inXmpDynamicMediaPackage .
+title: "类 AudioSampleType"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "Aspose.PSD.Xmp.Schemas.XmpDm.AudioSampleType 类。表示 XmpDynamicMediaPackage 中的音频采样类型"
 type: docs
-weight: 5850
+weight: 6350
 url: /zh/net/aspose.psd.xmp.schemas.xmpdm/audiosampletype/
 ---
+{{< psd/tize >}}
 ## AudioSampleType class
 
-代表Audio sample type in[`XmpDynamicMediaPackage`](../xmpdynamicmediapackage/) .
+表示 [`XmpDynamicMediaPackage`](../xmpdynamicmediapackage/) 中的音频采样类型。
 
 ```csharp
 public sealed class AudioSampleType
 ```
 
-## 特性
+## 属性
 
-| 姓名 | 描述 |
+| 名称 | 描述 |
 | --- | --- |
-| static [Compressed](../../aspose.psd.xmp.schemas.xmpdm/audiosampletype/compressed/) { get; } | 表示压缩音频样本。 |
-| static [Packed](../../aspose.psd.xmp.schemas.xmpdm/audiosampletype/packed/) { get; } | 表示打包的音频样本。 |
-| static [Sample16Int](../../aspose.psd.xmp.schemas.xmpdm/audiosampletype/sample16int/) { get; } | 代表16Int音频样本。 |
-| static [Sample24Int](../../aspose.psd.xmp.schemas.xmpdm/audiosampletype/sample24int/) { get; } | 代表24Int音频样本。 |
-| static [Sample32Float](../../aspose.psd.xmp.schemas.xmpdm/audiosampletype/sample32float/) { get; } | 代表32Float音频样本。 |
-| static [Sample32Int](../../aspose.psd.xmp.schemas.xmpdm/audiosampletype/sample32int/) { get; } | 代表32Int音频样本。 |
-| static [Sample8Int](../../aspose.psd.xmp.schemas.xmpdm/audiosampletype/sample8int/) { get; } | 代表8Int音频样本。 |
+| static [Compressed](../../aspose.psd.xmp.schemas.xmpdm/audiosampletype/compressed/) { get; } | 表示压缩音频采样。 |
+| static [Packed](../../aspose.psd.xmp.schemas.xmpdm/audiosampletype/packed/) { get; } | 表示打包音频采样。 |
+| static [Sample16Int](../../aspose.psd.xmp.schemas.xmpdm/audiosampletype/sample16int/) { get; } | 表示 16Int 音频采样。 |
+| static [Sample24Int](../../aspose.psd.xmp.schemas.xmpdm/audiosampletype/sample24int/) { get; } | 表示 24Int 音频样本。 |
+| static [Sample32Float](../../aspose.psd.xmp.schemas.xmpdm/audiosampletype/sample32float/) { get; } | 表示 32Float 音频样本。 |
+| static [Sample32Int](../../aspose.psd.xmp.schemas.xmpdm/audiosampletype/sample32int/) { get; } | 表示 32Int 音频样本。 |
+| static [Sample8Int](../../aspose.psd.xmp.schemas.xmpdm/audiosampletype/sample8int/) { get; } | 表示 8Int 音频样本。 |
 
 ## 方法
 
-| 姓名 | 描述 |
+| 名称 | 描述 |
 | --- | --- |
-| override [ToString](../../aspose.psd.xmp.schemas.xmpdm/audiosampletype/tostring/)() | 返回一个String代表这个实例. |
+| override [ToString](../../aspose.psd.xmp.schemas.xmpdm/audiosampletype/tostring/)() | 返回一个表示此实例的字符串。 |
 
-### 也可以看看
+### 另请参阅
 
-* 命名空间 [Aspose.PSD.Xmp.Schemas.XmpDm](../../aspose.psd.xmp.schemas.xmpdm/)
-* 部件 [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpDm](../../aspose.psd.xmp.schemas.xmpdm/)
+* assembly [Aspose.PSD](../../)
 
 

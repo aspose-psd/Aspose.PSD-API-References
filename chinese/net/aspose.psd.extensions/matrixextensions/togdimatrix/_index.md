@@ -1,32 +1,33 @@
 ---
-title: MatrixExtensions.ToGdiMatrix
-second_title: Aspose.PSD for .NET API 参考
-description: MatrixExtensions 方法. 转换Matrix到Matrix .
+title: "MatrixExtensions.ToGdiMatrix"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "MatrixExtensions 方法。将 Matrix 转换为 Matrix"
 type: docs
 weight: 10
 url: /zh/net/aspose.psd.extensions/matrixextensions/togdimatrix/
 ---
+{{< psd/tize >}}
 ## MatrixExtensions.ToGdiMatrix method
 
-转换[`Matrix`](../../../aspose.psd/matrix/)到Matrix .
+将 [`Matrix`](../../../aspose.psd/matrix/) 转换为 Matrix。
 
 ```csharp
 public static Matrix ToGdiMatrix(Matrix matrix)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| matrix | Matrix | 这[`Matrix`](../../../aspose.psd/matrix/)转换。 |
+| matrix | Matrix | 要转换的 [`Matrix`](../../../aspose.psd/matrix/)。 |
 
 ### 返回值
 
-转换的Matrix.
+已转换的 Matrix。
 
-### 也可以看看
+### 另请参阅
 
 * class [Matrix](../../../aspose.psd/matrix/)
 * class [MatrixExtensions](../)
-* 命名空间 [Aspose.PSD.Extensions](../../matrixextensions/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Extensions](../../../aspose.psd.extensions/)
+* assembly [Aspose.PSD](../../../)
 
 

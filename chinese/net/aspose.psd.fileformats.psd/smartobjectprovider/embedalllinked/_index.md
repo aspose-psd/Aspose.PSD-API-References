@@ -1,23 +1,24 @@
 ---
-title: SmartObjectProvider.EmbedAllLinked
-second_title: Aspose.PSD for .NET API 参考
-description: SmartObjectProvider 方法. 在图像中嵌入所有链接的智能对象
+title: "SmartObjectProvider.EmbedAllLinked"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "SmartObjectProvider 方法。将图像中所有链接的智能对象嵌入。"
 type: docs
 weight: 20
 url: /zh/net/aspose.psd.fileformats.psd/smartobjectprovider/embedalllinked/
 ---
+{{< psd/tize >}}
 ## SmartObjectProvider.EmbedAllLinked method
 
-在图像中嵌入所有链接的智能对象。
+将图像中所有已链接的智能对象嵌入。
 
 ```csharp
 public void EmbedAllLinked()
 ```
 
-### 也可以看看
+### 另请参阅
 
 * class [SmartObjectProvider](../)
-* 命名空间 [Aspose.PSD.FileFormats.Psd](../../smartobjectprovider/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

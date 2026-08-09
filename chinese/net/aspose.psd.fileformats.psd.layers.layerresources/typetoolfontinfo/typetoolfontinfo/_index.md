@@ -1,11 +1,12 @@
 ---
-title: TypeToolFontInfo.TypeToolFontInfo
-second_title: Aspose.PSD for .NET API 参考
-description: TypeToolFontInfo 构造函数. 默认构造函数
+title: "TypeToolFontInfo.TypeToolFontInfo"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "TypeToolFontInfo 构造函数。默认构造函数"
 type: docs
 weight: 10
 url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources/typetoolfontinfo/typetoolfontinfo/
 ---
+{{< psd/tize >}}
 ## TypeToolFontInfo constructor
 
 默认构造函数。
@@ -14,10 +15,10 @@ url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources/typetoolfontinfo/t
 public TypeToolFontInfo()
 ```
 
-### 也可以看看
+### 另请参阅
 
 * class [TypeToolFontInfo](../)
-* 命名空间 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../typetoolfontinfo/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

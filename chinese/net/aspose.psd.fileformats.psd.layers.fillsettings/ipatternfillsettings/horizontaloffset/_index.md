@@ -1,27 +1,28 @@
 ---
-title: IPatternFillSettings.HorizontalOffset
-second_title: Aspose.PSD for .NET API 参考
-description: IPatternFillSettings 财产. 获取或设置水平偏移量
+title: "IPatternFillSettings.HorizontalOffset"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "IPatternFillSettings 属性。获取或设置水平偏移"
 type: docs
-weight: 10
+weight: 20
 url: /zh/net/aspose.psd.fileformats.psd.layers.fillsettings/ipatternfillsettings/horizontaloffset/
 ---
+{{< psd/tize >}}
 ## IPatternFillSettings.HorizontalOffset property
 
-获取或设置水平偏移量。
+获取或设置水平偏移。
 
 ```csharp
 public int HorizontalOffset { get; set; }
 ```
 
-### 适当的价值
+### Property Value
 
-水平偏移量。
+水平偏移。
 
-### 也可以看看
+### 另请参阅
 
 * interface [IPatternFillSettings](../)
-* 命名空间 [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../ipatternfillsettings/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../../)
 
 

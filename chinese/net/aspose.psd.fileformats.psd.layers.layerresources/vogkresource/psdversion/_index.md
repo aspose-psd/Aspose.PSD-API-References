@@ -1,20 +1,21 @@
 ---
-title: VogkResource.PsdVersion
-second_title: Aspose.PSD for .NET API 参考
-description: VogkResource 财产. 获取层资源所需的最小 psd 版本 0 表示没有限制
+title: "VogkResource.PsdVersion"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "VogkResource 属性。获取图层资源所需的最小 PSD 版本。0 表示没有限制"
 type: docs
 weight: 40
 url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources/vogkresource/psdversion/
 ---
+{{< psd/tize >}}
 ## VogkResource.PsdVersion property
 
-获取层资源所需的最小 psd 版本。 0 表示没有限制。
+获取图层资源所需的最低 PSD 版本。0 表示没有限制。
 
 ```csharp
 public override int PsdVersion { get; }
 ```
 
-### 例子
+## 示例
 
 以下示例演示了 VogkResource 资源的支持。
 
@@ -51,7 +52,7 @@ using (var psdImage = (PsdImage)Image.Load(sourceFilePath))
 {
     var resource = GetVogkResource(psdImage);
 
-    // 阅读
+    // 读取
     if (resource.ShapeOriginSettings.Length != 1 ||
         !resource.ShapeOriginSettings[0].IsShapeInvalidated ||
         resource.ShapeOriginSettings[0].OriginIndex != 0)
@@ -70,10 +71,10 @@ using (var psdImage = (PsdImage)Image.Load(sourceFilePath))
 }
 ```
 
-### 也可以看看
+### 另请参阅
 
 * class [VogkResource](../)
-* 命名空间 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../vogkresource/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

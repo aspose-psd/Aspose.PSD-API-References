@@ -1,33 +1,34 @@
 ---
-title: Pen.Width
-second_title: Aspose.PSD for .NET API 参考
-description: Pen 财产. 获取或设置宽度Pen 以用于绘图的 Graphics 对象为单位
+title: "Pen.Width"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "Pen 属性。获取或设置此 Pen 的宽度，单位为用于绘图的 Graphics 对象的单位。"
 type: docs
 weight: 180
 url: /zh/net/aspose.psd/pen/width/
 ---
+{{< psd/tize >}}
 ## Pen.Width property
 
-获取或设置宽度[`Pen`](../) 以用于绘图的 Graphics 对象为单位。
+获取或设置此[`Pen`](../)的宽度，单位为用于绘图的 Graphics 对象的单位。
 
 ```csharp
 public float Width { get; set; }
 ```
 
-### 适当的价值
+### Property Value
 
-这个的宽度[`Pen`](../).
+此[`Pen`](../)的宽度。
 
-### 例外
+### 异常
 
-| 例外 | （健康）状况 |
+| 异常 | 条件 |
 | --- | --- |
-| ArgumentException | 这`Width`属性设置在一个不可变的[`Pen`](../)，例如返回的那些[`Pen`](../)班级。 |
+| ArgumentException | `Width` 属性设置在不可变的[`Pen`](../)上，例如由[`Pen`](../)类返回的那些。 |
 
-### 也可以看看
+### 另请参阅
 
 * class [Pen](../)
-* 命名空间 [Aspose.PSD](../../pen/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

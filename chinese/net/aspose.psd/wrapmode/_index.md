@@ -1,32 +1,33 @@
 ---
-title: Enum WrapMode
-second_title: Aspose.PSD for .NET API 参考
-description: Aspose.PSD.WrapMode 枚举. 指定当纹理或渐变小于要填充的区域时如何平铺
+title: "枚举 WrapMode"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "Aspose.PSD.WrapMode 枚举。指定当纹理或渐变小于填充区域时的平铺方式。"
 type: docs
-weight: 5740
+weight: 6240
 url: /zh/net/aspose.psd/wrapmode/
 ---
+{{< psd/tize >}}
 ## WrapMode enumeration
 
-指定当纹理或渐变小于要填充的区域时如何平铺。
+指定当纹理或渐变小于填充区域时的平铺方式。
 
 ```csharp
 public enum WrapMode
 ```
 
-### 价值观
+### 值
 
-| 姓名 | 价值 | 描述 |
+| 名称 | 值 | 描述 |
 | --- | --- | --- |
 | Tile | `0` | 平铺渐变或纹理。 |
-| TileFlipX | `1` | 水平反转纹理或渐变，然后平铺纹理或渐变。 |
-| TileFlipY | `2` | 垂直反转纹理或渐变，然后平铺纹理或渐变。 |
-| TileFlipXY | `3` | 水平和垂直反转纹理或渐变，然后平铺纹理或渐变。 |
-| Clamp | `4` | 纹理或渐变未平铺。 |
+| TileFlipX | `1` | 水平翻转纹理或渐变，然后平铺纹理或渐变。 |
+| TileFlipY | `2` | 垂直翻转纹理或渐变，然后平铺纹理或渐变。 |
+| TileFlipXY | `3` | 水平和垂直翻转纹理或渐变，然后平铺纹理或渐变。 |
+| Clamp | `4` | 纹理或渐变不进行平铺。 |
 
-### 也可以看看
+### 另请参阅
 
-* 命名空间 [Aspose.PSD](../../aspose.psd/)
-* 部件 [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

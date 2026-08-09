@@ -1,11 +1,12 @@
 ---
-title: ArcShape.Reverse
-second_title: Aspose.PSD for .NET API 参考
-description: ArcShape 方法. 反转此形状的点顺序
+title: "ArcShape.Reverse"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "ArcShape 方法。反转此形状的点的顺序"
 type: docs
 weight: 70
 url: /zh/net/aspose.psd.shapes/arcshape/reverse/
 ---
+{{< psd/tize >}}
 ## ArcShape.Reverse method
 
 反转此形状的点顺序。
@@ -14,10 +15,10 @@ url: /zh/net/aspose.psd.shapes/arcshape/reverse/
 public void Reverse()
 ```
 
-### 也可以看看
+### 另请参阅
 
 * class [ArcShape](../)
-* 命名空间 [Aspose.PSD.Shapes](../../arcshape/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 

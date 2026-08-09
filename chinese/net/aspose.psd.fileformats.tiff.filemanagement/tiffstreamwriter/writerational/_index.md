@@ -1,28 +1,29 @@
 ---
-title: TiffStreamWriter.WriteRational
-second_title: Aspose.PSD for .NET API 参考
-description: TiffStreamWriter 方法. 将单个有理数值写入流
+title: "TiffStreamWriter.WriteRational"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "TiffStreamWriter 方法。将单个有理数值写入流"
 type: docs
 weight: 90
 url: /zh/net/aspose.psd.fileformats.tiff.filemanagement/tiffstreamwriter/writerational/
 ---
+{{< psd/tize >}}
 ## TiffStreamWriter.WriteRational method
 
-将单个有理数值写入流。
+向流写入单个有理数值。
 
 ```csharp
 public void WriteRational(TiffRational data)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| data | TiffRational | 要写入的值。 |
+| 数据 | TiffRational | 要写入的值。 |
 
-### 也可以看看
+### 另请参阅
 
 * class [TiffRational](../../../aspose.psd.fileformats.tiff/tiffrational/)
 * class [TiffStreamWriter](../)
-* 命名空间 [Aspose.PSD.FileFormats.Tiff.FileManagement](../../tiffstreamwriter/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff.FileManagement](../../../aspose.psd.fileformats.tiff.filemanagement/)
+* assembly [Aspose.PSD](../../../)
 
 

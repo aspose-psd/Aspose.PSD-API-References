@@ -1,11 +1,12 @@
 ---
-title: RenderResult.RenderCode
-second_title: Aspose.PSD for .NET API 参考
-description: RenderResult 财产. 获取或设置错误代码
+title: "RenderResult.RenderCode"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "RenderResult 属性。获取或设置错误代码"
 type: docs
 weight: 30
 url: /zh/net/aspose.psd.imageoptions/renderresult/rendercode/
 ---
+{{< psd/tize >}}
 ## RenderResult.RenderCode property
 
 获取或设置错误代码
@@ -14,11 +15,11 @@ url: /zh/net/aspose.psd.imageoptions/renderresult/rendercode/
 public RenderErrorCode RenderCode { get; set; }
 ```
 
-### 也可以看看
+### 另请参阅
 
 * enum [RenderErrorCode](../../rendererrorcode/)
 * class [RenderResult](../)
-* 命名空间 [Aspose.PSD.ImageOptions](../../renderresult/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

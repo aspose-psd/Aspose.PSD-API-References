@@ -1,11 +1,12 @@
 ---
-title: ObjectWithBounds.Bounds
-second_title: Aspose.PSD for .NET API 参考
-description: ObjectWithBounds 财产. 获取对象的边界
+title: "ObjectWithBounds.Bounds"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "ObjectWithBounds 属性。获取对象的边界"
 type: docs
 weight: 10
 url: /zh/net/aspose.psd/objectwithbounds/bounds/
 ---
+{{< psd/tize >}}
 ## ObjectWithBounds.Bounds property
 
 获取对象的边界。
@@ -14,15 +15,15 @@ url: /zh/net/aspose.psd/objectwithbounds/bounds/
 public abstract RectangleF Bounds { get; }
 ```
 
-### 适当的价值
+### Property Value
 
 对象的边界。
 
-### 也可以看看
+### 另请参阅
 
 * struct [RectangleF](../../rectanglef/)
 * class [ObjectWithBounds](../)
-* 命名空间 [Aspose.PSD](../../objectwithbounds/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

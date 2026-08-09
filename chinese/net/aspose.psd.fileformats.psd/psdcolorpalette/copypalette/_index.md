@@ -1,11 +1,12 @@
 ---
-title: PsdColorPalette.CopyPalette
-second_title: Aspose.PSD for .NET API 参考
-description: PsdColorPalette 方法. 复制调色板
+title: "PsdColorPalette.CopyPalette"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "PsdColorPalette 方法。复制调色板。"
 type: docs
 weight: 20
 url: /zh/net/aspose.psd.fileformats.psd/psdcolorpalette/copypalette/
 ---
+{{< psd/tize >}}
 ## CopyPalette(IColorPalette, bool) {#copypalette_1}
 
 复制调色板。
@@ -14,21 +15,21 @@ url: /zh/net/aspose.psd.fileformats.psd/psdcolorpalette/copypalette/
 public static PsdColorPalette CopyPalette(IColorPalette colorPalette, bool useCompactPalette)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| colorPalette | IColorPalette | 调色板。 |
-| useCompactPalette | Boolean | 指示调色板是否紧凑。 |
+| colorPalette | IColorPalette | 颜色调色板。 |
+| useCompactPalette | 布尔 | 指示是否为紧凑调色板。 |
 
 ### 返回值
 
-新创建和复制的调色板，如果通过了空调色板，则返回 null。
+新创建并复制的调色板，如果传入的调色板为 null 则返回 null。
 
-### 也可以看看
+### 另请参阅
 
 * interface [IColorPalette](../../../aspose.psd/icolorpalette/)
 * class [PsdColorPalette](../)
-* 命名空间 [Aspose.PSD.FileFormats.Psd](../../psdcolorpalette/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
@@ -40,19 +41,19 @@ public static PsdColorPalette CopyPalette(IColorPalette colorPalette, bool useCo
 public static PsdColorPalette CopyPalette(IColorPalette colorPalette)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| colorPalette | IColorPalette | 调色板。 |
+| colorPalette | IColorPalette | 颜色调色板。 |
 
 ### 返回值
 
-新创建和复制的调色板，如果通过了空调色板，则返回 null。
+新创建并复制的调色板，如果传入的调色板为 null 则返回 null。
 
-### 也可以看看
+### 另请参阅
 
 * interface [IColorPalette](../../../aspose.psd/icolorpalette/)
 * class [PsdColorPalette](../)
-* 命名空间 [Aspose.PSD.FileFormats.Psd](../../psdcolorpalette/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

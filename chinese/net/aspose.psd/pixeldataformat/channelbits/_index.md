@@ -1,11 +1,12 @@
 ---
-title: PixelDataFormat.ChannelBits
-second_title: Aspose.PSD for .NET API 参考
-description: PixelDataFormat 财产. 获取每个通道的位数
+title: "PixelDataFormat.ChannelBits"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "PixelDataFormat 属性。获取每个通道的位数。"
 type: docs
 weight: 320
 url: /zh/net/aspose.psd/pixeldataformat/channelbits/
 ---
+{{< psd/tize >}}
 ## PixelDataFormat.ChannelBits property
 
 获取每个通道的位数。
@@ -14,14 +15,14 @@ url: /zh/net/aspose.psd/pixeldataformat/channelbits/
 public int[] ChannelBits { get; }
 ```
 
-### 适当的价值
+### Property Value
 
-通道位。
+通道位数。
 
-### 也可以看看
+### 另请参阅
 
 * class [PixelDataFormat](../)
-* 命名空间 [Aspose.PSD](../../pixeldataformat/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

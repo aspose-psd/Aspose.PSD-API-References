@@ -1,11 +1,12 @@
 ---
-title: CurvesContinuousManager.UpdateCurvePoint
-second_title: Aspose.PSD for .NET API 参考
-description: CurvesContinuousManager 方法. 更新曲线点
+title: "CurvesContinuousManager.UpdateCurvePoint"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "CurvesContinuousManager 方法。更新曲线的点"
 type: docs
 weight: 60
 url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources/curvescontinuousmanager/updatecurvepoint/
 ---
+{{< psd/tize >}}
 ## CurvesContinuousManager.UpdateCurvePoint method
 
 更新曲线点。
@@ -14,17 +15,17 @@ url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources/curvescontinuousma
 public void UpdateCurvePoint(int channelIndex, int pointIndex, byte x, byte y)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| channelIndex | Int32 | 通道索引。 |
+| channelIndex | Int32 | 通道的索引。 |
 | pointIndex | Int32 | 点的索引。 |
-| x | Byte | x 位置。 |
-| y | Byte | Y 位置。 |
+| x | 字节 | x 位置。 |
+| y | 字节 | y 位置。 |
 
-### 也可以看看
+### 另请参阅
 
 * class [CurvesContinuousManager](../)
-* 命名空间 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../curvescontinuousmanager/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

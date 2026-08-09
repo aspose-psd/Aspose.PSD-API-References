@@ -1,27 +1,28 @@
 ---
-title: IPlacedLayerResource.VOrder
-second_title: Aspose.PSD for .NET API 参考
-description: IPlacedLayerResource 财产. 获取或设置放置图层在PSD文件中的V序值
+title: "IPlacedLayerResource.VOrder"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "IPlacedLayerResource 属性。获取或设置放置图层在 PSD 文件中的 V 顺序值"
 type: docs
 weight: 230
 url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/vorder/
 ---
+{{< psd/tize >}}
 ## IPlacedLayerResource.VOrder property
 
-获取或设置放置图层在PSD文件中的V序值。
+获取或设置 PSD 文件中已放置图层的 V 顺序值。
 
 ```csharp
 public int VOrder { get; set; }
 ```
 
-### 适当的价值
+### Property Value
 
-放置图层的V序值。
+已放置图层的 V 顺序值。
 
-### 也可以看看
+### 另请参阅
 
 * interface [IPlacedLayerResource](../)
-* 命名空间 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../iplacedlayerresource/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: GdFlResource.Angle
-second_title: Aspose.PSD for .NET API 参考
-description: GdFlResource 财产. 获取或设置角度
+title: "GdFlResource.Angle"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "GdFlResource 属性。获取或设置角度"
 type: docs
 weight: 30
 url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources/gdflresource/angle/
 ---
+{{< psd/tize >}}
 ## GdFlResource.Angle property
 
 获取或设置角度。
@@ -14,13 +15,13 @@ url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources/gdflresource/angle
 public double Angle { get; set; }
 ```
 
-### 适当的价值
+### Property Value
 
-角度.
+角度。
 
-### 例子
+## 示例
 
-以下示例演示了对 GdFlResource 资源加载的支持。
+以下示例演示了 GdFlResource 资源加载的支持。
 
 ```csharp
 [C#]
@@ -40,7 +41,7 @@ using (im)
             {
                 if (res is GdFlResource)
                 {
-                    // 阅读
+                    // 读取
                     var resource = (GdFlResource)res;
                     if (resource.AlignWithLayer != false ||
                      (Math.Abs(resource.Angle - 45.0) > 0.001) ||
@@ -114,10 +115,10 @@ using (im)
 }
 ```
 
-### 也可以看看
+### 另请参阅
 
 * class [GdFlResource](../)
-* 命名空间 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../gdflresource/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

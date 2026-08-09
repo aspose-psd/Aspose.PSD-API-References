@@ -1,11 +1,12 @@
 ---
-title: PattResourceData.Name
-second_title: Aspose.PSD for .NET API 参考
-description: PattResourceData 财产. 获取或设置名称
+title: "PattResourceData.Name"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "PattResourceData 属性。获取或设置名称"
 type: docs
 weight: 50
 url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources/pattresourcedata/name/
 ---
+{{< psd/tize >}}
 ## PattResourceData.Name property
 
 获取或设置名称。
@@ -14,14 +15,14 @@ url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources/pattresourcedata/n
 public string Name { get; set; }
 ```
 
-### 适当的价值
+### Property Value
 
-名字。
+名称。
 
-### 也可以看看
+### 另请参阅
 
 * class [PattResourceData](../)
-* 命名空间 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../pattresourcedata/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

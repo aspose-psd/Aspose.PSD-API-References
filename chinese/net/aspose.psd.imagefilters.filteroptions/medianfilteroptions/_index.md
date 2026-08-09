@@ -1,14 +1,15 @@
 ---
-title: Class MedianFilterOptions
-second_title: Aspose.PSD for .NET API 参考
-description: Aspose.PSD.ImageFilters.FilterOptions.MedianFilterOptions 班级. 中值滤波器
+title: "类 MedianFilterOptions"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "Aspose.PSD.ImageFilters.FilterOptions.MedianFilterOptions 类。中值滤波器"
 type: docs
-weight: 4720
+weight: 5190
 url: /zh/net/aspose.psd.imagefilters.filteroptions/medianfilteroptions/
 ---
+{{< psd/tize >}}
 ## MedianFilterOptions class
 
-中值滤波器
+中值过滤器
 
 ```csharp
 public class MedianFilterOptions : FilterOptionsBase
@@ -16,20 +17,20 @@ public class MedianFilterOptions : FilterOptionsBase
 
 ## 构造函数
 
-| 姓名 | 描述 |
+| 名称 | 描述 |
 | --- | --- |
-| [MedianFilterOptions](medianfilteroptions/)(int) | 初始化一个新的实例`MedianFilterOptions`类. |
+| [MedianFilterOptions](medianfilteroptions/)(int) | 初始化 `MedianFilterOptions` 类的新实例。 |
 
-## 特性
+## 属性
 
-| 姓名 | 描述 |
+| 名称 | 描述 |
 | --- | --- |
 | [Size](../../aspose.psd.imagefilters.filteroptions/medianfilteroptions/size/) { get; set; } | 获取或设置大小。 |
 
-### 也可以看看
+### 另请参阅
 
 * class [FilterOptionsBase](../filteroptionsbase/)
-* 命名空间 [Aspose.PSD.ImageFilters.FilterOptions](../../aspose.psd.imagefilters.filteroptions/)
-* 部件 [Aspose.PSD](../../)
+* namespace [Aspose.PSD.ImageFilters.FilterOptions](../../aspose.psd.imagefilters.filteroptions/)
+* assembly [Aspose.PSD](../../)
 
 

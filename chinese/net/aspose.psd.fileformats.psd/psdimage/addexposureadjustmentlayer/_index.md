@@ -1,35 +1,36 @@
 ---
-title: PsdImage.AddExposureAdjustmentLayer
-second_title: Aspose.PSD for .NET API 参考
-description: PsdImage 方法. 添加曝光调整层
+title: "PsdImage.AddExposureAdjustmentLayer"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "PsdImage 方法。添加曝光调整图层"
 type: docs
-weight: 340
+weight: 350
 url: /zh/net/aspose.psd.fileformats.psd/psdimage/addexposureadjustmentlayer/
 ---
+{{< psd/tize >}}
 ## PsdImage.AddExposureAdjustmentLayer method
 
-添加曝光调整层。
+添加曝光调整图层。
 
 ```csharp
 public ExposureLayer AddExposureAdjustmentLayer(float exposure = 0, float offset = 0, 
     float gammaCorrection = 1)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| exposure | Single | 曝光。 |
-| offset | Single | 偏移量。 |
-| gammaCorrection | Single | 伽马校正。 |
+| 曝光 | 单精度 | 该曝光。 |
+| offset | 单精度 | 偏移量。 |
+| gammaCorrection | 单精度 | 伽马校正。 |
 
 ### 返回值
 
-创建曝光调整层
+已创建曝光调整图层
 
-### 也可以看看
+### 另请参阅
 
 * class [ExposureLayer](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/exposurelayer/)
 * class [PsdImage](../)
-* 命名空间 [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

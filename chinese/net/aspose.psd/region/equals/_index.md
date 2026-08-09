@@ -1,39 +1,64 @@
 ---
-title: Region.Equals
-second_title: Aspose.PSD for .NET API 参考
-description: Region 方法. 测试是否指定Region与此相同Region在指定的绘图表面上.
+title: "Region.Equals"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "Region 方法。测试指定的 Region 在指定绘图表面上是否与此 Region 相同"
 type: docs
 weight: 40
 url: /zh/net/aspose.psd/region/equals/
 ---
-## Region.Equals method
+{{< psd/tize >}}
+## Equals(Region, Graphics) {#equals}
 
-测试是否指定[`Region`](../)与此相同[`Region`](../)在指定的绘图表面上.
+测试指定的 [`Region`](../) 在指定绘图表面上是否与此 [`Region`](../) 相同。
 
 ```csharp
 public bool Equals(Region region, Graphics g)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| region | Region | 这[`Region`](../)去测试。 |
-| g | Graphics | A[`Graphics`](../../graphics/)表示绘图表面。 |
+| region | Region | 要测试的 [`Region`](../)。 |
+| g | Graphics | 一个表示绘图表面的 [`Graphics`](../../graphics/)。 |
 
 ### 返回值
 
-如果区域内部与该区域的内部相同，则当与*g*应用参数；否则为 false.
+如果在应用与 *g* 参数关联的变换时区域的内部与此区域的内部相同，则为 True；否则为 false。
 
-### 例外
+### 异常
 
-| 例外 | （健康）状况 |
+| 异常 | 条件 |
 | --- | --- |
-| ArgumentNullException | *g *或者* region*一片空白。 |
+| ArgumentNullException | *g *or* region* 为 null。 |
 
-### 也可以看看
+### 另请参阅
 
 * class [Graphics](../../graphics/)
 * class [Region](../)
-* 命名空间 [Aspose.PSD](../../region/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
+
+---
+
+## Equals(object) {#equals_1}
+
+检查对象是否相等。
+
+```csharp
+public override bool Equals(object obj)
+```
+
+| 参数 | 类型 | 描述 |
+| --- | --- | --- |
+| obj | Object | 另一个对象。 |
+
+### 返回值
+
+相等比较的结果。
+
+### 另请参阅
+
+* class [Region](../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

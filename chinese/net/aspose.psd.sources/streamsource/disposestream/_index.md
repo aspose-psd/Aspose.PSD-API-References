@@ -1,27 +1,28 @@
 ---
-title: StreamSource.DisposeStream
-second_title: Aspose.PSD for .NET API 参考
-description: StreamSource 财产. 获取一个值该值指示每当容器被处置时是否应处置流
+title: "StreamSource.DisposeStream"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "StreamSource 属性。获取一个值，指示在容器被释放时是否应释放流"
 type: docs
 weight: 20
 url: /zh/net/aspose.psd.sources/streamsource/disposestream/
 ---
+{{< psd/tize >}}
 ## StreamSource.DisposeStream property
 
-获取一个值，该值指示每当容器被处置时是否应处置流。
+获取一个值，指示在容器被释放时是否应释放流。
 
 ```csharp
 public bool DisposeStream { get; }
 ```
 
-### 适当的价值
+### Property Value
 
-`真的`是否应该处理流；否则，`错误的`.
+`true` 表示应释放流；否则为 `false`。
 
-### 也可以看看
+### 另请参阅
 
 * class [StreamSource](../)
-* 命名空间 [Aspose.PSD.Sources](../../streamsource/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Sources](../../../aspose.psd.sources/)
+* assembly [Aspose.PSD](../../../)
 
 

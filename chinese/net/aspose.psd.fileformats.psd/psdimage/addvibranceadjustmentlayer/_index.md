@@ -1,14 +1,15 @@
 ---
-title: PsdImage.AddVibranceAdjustmentLayer
-second_title: Aspose.PSD for .NET API 参考
-description: PsdImage 方法. 添加振动调整层
+title: "PsdImage.AddVibranceAdjustmentLayer"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "PsdImage 方法。添加 Vibrance 调整图层"
 type: docs
-weight: 430
+weight: 490
 url: /zh/net/aspose.psd.fileformats.psd/psdimage/addvibranceadjustmentlayer/
 ---
+{{< psd/tize >}}
 ## PsdImage.AddVibranceAdjustmentLayer method
 
-添加振动调整层。
+添加活力调整图层。
 
 ```csharp
 public VibranceLayer AddVibranceAdjustmentLayer()
@@ -16,11 +17,11 @@ public VibranceLayer AddVibranceAdjustmentLayer()
 
 ### 返回值
 
-新创建的 Vibrance 层。
+新创建的 Vibrance 图层。
 
-### 例子
+## 示例
 
-以下代码示例演示了对 VibranceLayer 层的支持以及编辑此调整的能力。
+以下代码示例演示了对 VibranceLayer 图层的支持以及编辑此调整的能力。
 
 ```csharp
 [C#]
@@ -31,7 +32,7 @@ string outputFileNamePng = "out_VibranceLayer.png";
 
 using (PsdImage image = (PsdImage) Image.Load(sourceFileName))
 {
-    // 创建一个新的 VibranceLayer
+    // 创建新的 VibranceLayer
     VibranceLayer vibranceLayer = image.AddVibranceAdjustmentLayer();
     vibranceLayer.Vibrance = 50;
     vibranceLayer.Saturation = 100;
@@ -41,11 +42,11 @@ using (PsdImage image = (PsdImage) Image.Load(sourceFileName))
 }
 ```
 
-### 也可以看看
+### 另请参阅
 
 * class [VibranceLayer](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/vibrancelayer/)
 * class [PsdImage](../)
-* 命名空间 [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

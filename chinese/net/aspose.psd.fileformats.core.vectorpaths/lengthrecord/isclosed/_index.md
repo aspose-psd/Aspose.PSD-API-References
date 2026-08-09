@@ -1,27 +1,28 @@
 ---
-title: LengthRecord.IsClosed
-second_title: Aspose.PSD for .NET API 参考
-description: LengthRecord 财产. 获取或设置一个值指示此实例是否已关闭
+title: "LengthRecord.IsClosed"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "LengthRecord 属性。获取或设置一个值，指示此实例是否闭合"
 type: docs
 weight: 30
 url: /zh/net/aspose.psd.fileformats.core.vectorpaths/lengthrecord/isclosed/
 ---
+{{< psd/tize >}}
 ## LengthRecord.IsClosed property
 
-获取或设置一个值，指示此实例是否已关闭。
+获取或设置一个值，指示此实例是否闭合。
 
 ```csharp
 public bool IsClosed { get; set; }
 ```
 
-### 适当的价值
+### Property Value
 
-`真的`如果此实例已关闭；否则，`错误的` .
+`true` 表示此实例已闭合；否则为 `false`。
 
-### 也可以看看
+### 另请参阅
 
 * class [LengthRecord](../)
-* 命名空间 [Aspose.PSD.FileFormats.Core.VectorPaths](../../lengthrecord/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,29 +1,30 @@
 ---
-title: LayerGroup.AddLayerGroup
-second_title: Aspose.PSD for .NET API 参考
-description: LayerGroup 方法. 添加层组
+title: "LayerGroup.AddLayerGroup"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "LayerGroup 方法。添加图层组"
 type: docs
 weight: 70
 url: /zh/net/aspose.psd.fileformats.psd.layers/layergroup/addlayergroup/
 ---
+{{< psd/tize >}}
 ## LayerGroup.AddLayerGroup method
 
-添加层组。
+添加图层组。
 
 ```csharp
 public LayerGroup AddLayerGroup(string groupName, int index)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
 | groupName | String | 组的名称。 |
-| index | Int32 | 要在其后插入的层的索引。 |
+| index | Int32 | 要在其后插入的图层的索引。 |
 
 ### 返回值
 
-打开图层组
+打开组图层
 
-### 例子
+## 示例
 
 以下示例演示将 LayerGroup 添加到另一个 LayerGroup 中。
 
@@ -32,13 +33,13 @@ public LayerGroup AddLayerGroup(string groupName, int index)
 
 string sourceFileName = "psdnet190_test.psd";
 
-// 像这样制作图层层次结构：
-// - 第 1 组
-// --第一层
-// -- 第 2 组
-// ---第 2 层
-// ---第 3 层
-// --第4层
+// 创建如下的图层层次结构：
+// -组 1
+// --图层 1
+// --组 2
+// ---图层 2
+// ---图层 3
+// --图层 4
 
 var createOptions = new PsdOptions();
 createOptions.Source = new FileCreateSource(sourceFileName, false);
@@ -70,10 +71,10 @@ using (var psdImage = (PsdImage)Image.Create(createOptions, 500, 500))
 }
 ```
 
-### 也可以看看
+### 另请参阅
 
 * class [LayerGroup](../)
-* 命名空间 [Aspose.PSD.FileFormats.Psd.Layers](../../layergroup/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

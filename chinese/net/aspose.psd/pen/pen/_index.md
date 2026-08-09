@@ -1,105 +1,106 @@
 ---
-title: Pen.Pen
-second_title: Aspose.PSD for .NET API 参考
-description: Pen 构造函数. 初始化一个新的实例Pen具有指定颜色的类
+title: "Pen.Pen"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "Pen 构造函数。使用指定的颜色初始化 Pen 类的新实例"
 type: docs
 weight: 10
 url: /zh/net/aspose.psd/pen/pen/
 ---
+{{< psd/tize >}}
 ## Pen(Color) {#constructor_2}
 
-初始化一个新的实例[`Pen`](../)具有指定颜色的类。
+使用指定的颜色初始化[`Pen`](../)类的新实例。
 
 ```csharp
 public Pen(Color color)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| color | Color | A[`Color`](../color/)指示此颜色的结构[`Pen`](../). |
+| color | Color | 一个指示此[`Pen`](../)颜色的[`Color`](../color/)结构。 |
 
-### 也可以看看
+### 另请参阅
 
 * struct [Color](../../color/)
 * class [Pen](../)
-* 命名空间 [Aspose.PSD](../../pen/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Pen(Color, float) {#constructor_3}
 
-初始化一个新的实例[`Pen`](../)类与指定[`Color`](../color/)和[`Width`](../width/)属性.
+使用指定的[`Color`](../color/)和[`Width`](../width/)属性初始化[`Pen`](../)类的新实例。
 
 ```csharp
 public Pen(Color color, float width)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| color | Color | A[`Color`](../color/)指示此颜色的结构[`Pen`](../). |
-| width | Single | 表示宽度的值[`Pen`](../). |
+| color | Color | 一个指示此[`Pen`](../)颜色的[`Color`](../color/)结构。 |
+| width | Single | 一个指示此[`Pen`](../)宽度的值。 |
 
-### 也可以看看
+### 另请参阅
 
 * struct [Color](../../color/)
 * class [Pen](../)
-* 命名空间 [Aspose.PSD](../../pen/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Pen(Brush) {#constructor}
 
-初始化一个新的实例[`Pen`](../)类与指定[`Brush`](../brush/) .
+使用指定的[`Brush`](../brush/)初始化[`Pen`](../)类的新实例。
 
 ```csharp
 public Pen(Brush brush)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| brush | Brush | A[`Brush`](../brush/)决定了这个的填充属性[`Pen`](../). |
+| brush | Brush | 一个决定此[`Pen`](../)填充属性的[`Brush`](../brush/)。 |
 
-### 例外
+### 异常
 
-| 例外 | （健康）状况 |
+| 异常 | 条件 |
 | --- | --- |
-| ArgumentNullException | *brush*一片空白。 |
+| ArgumentNullException | *brush* 为 null。 |
 
-### 也可以看看
+### 另请参阅
 
 * class [Brush](../../brush/)
 * class [Pen](../)
-* 命名空间 [Aspose.PSD](../../pen/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Pen(Brush, float) {#constructor_1}
 
-初始化一个新的实例[`Pen`](../)类与指定[`Brush`](../brush/)和[`Width`](../width/) .
+使用指定的[`Brush`](../brush/)和[`Width`](../width/)初始化[`Pen`](../)类的新实例。
 
 ```csharp
 public Pen(Brush brush, float width)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| brush | Brush | A[`Brush`](../brush/)决定了这个的特性[`Pen`](../). |
-| width | Single | 新的宽度[`Pen`](../). |
+| brush | Brush | 一个决定此[`Pen`](../)特性的[`Brush`](../brush/)。 |
+| width | Single | 新[`Pen`](../)的宽度。 |
 
-### 例外
+### 异常
 
-| 例外 | （健康）状况 |
+| 异常 | 条件 |
 | --- | --- |
-| ArgumentNullException | *brush*一片空白。 |
+| ArgumentNullException | *brush* 为 null。 |
 
-### 也可以看看
+### 另请参阅
 
 * class [Brush](../../brush/)
 * class [Pen](../)
-* 命名空间 [Aspose.PSD](../../pen/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

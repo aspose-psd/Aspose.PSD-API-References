@@ -1,11 +1,12 @@
 ---
-title: CgEdResource.Contrast
-second_title: Aspose.PSD for .NET API 参考
-description: CgEdResource 财产. 获取或设置对比度
+title: "CgEdResource.Contrast"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "CgEdResource 属性。获取或设置对比度"
 type: docs
 weight: 40
 url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources/cgedresource/contrast/
 ---
+{{< psd/tize >}}
 ## CgEdResource.Contrast property
 
 获取或设置对比度。
@@ -14,14 +15,14 @@ url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources/cgedresource/contr
 public int Contrast { get; set; }
 ```
 
-### 适当的价值
+### Property Value
 
-对比度.
+contrast。
 
-### 也可以看看
+### 另请参阅
 
 * class [CgEdResource](../)
-* 命名空间 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../cgedresource/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

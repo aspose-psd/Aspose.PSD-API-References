@@ -1,34 +1,35 @@
 ---
-title: PsdImage.AddTextLayer
-second_title: Aspose.PSD for .NET API 参考
-description: PsdImage 方法. 添加一个新的文本层
+title: "PsdImage.AddTextLayer"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "PsdImage 方法。添加一个新的 Text 图层"
 type: docs
-weight: 420
+weight: 470
 url: /zh/net/aspose.psd.fileformats.psd/psdimage/addtextlayer/
 ---
+{{< psd/tize >}}
 ## PsdImage.AddTextLayer method
 
-添加一个新的文本层。
+添加一个新的文本图层。
 
 ```csharp
 public TextLayer AddTextLayer(string text, Rectangle rect)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| text | String | 层的文本。 |
+| 文本 | String | 图层的文本。 |
 | rect | Rectangle | 图层的矩形。 |
 
 ### 返回值
 
-创建的文本层。
+已创建文本图层。
 
-### 也可以看看
+### 另请参阅
 
 * class [TextLayer](../../../aspose.psd.fileformats.psd.layers/textlayer/)
 * struct [Rectangle](../../../aspose.psd/rectangle/)
 * class [PsdImage](../)
-* 命名空间 [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

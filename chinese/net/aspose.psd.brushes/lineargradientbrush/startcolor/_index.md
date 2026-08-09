@@ -1,28 +1,29 @@
 ---
-title: LinearGradientBrush.StartColor
-second_title: Aspose.PSD for .NET API 参考
-description: LinearGradientBrush 财产. 获取或设置起始渐变色
+title: "LinearGradientBrush.StartColor"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "LinearGradientBrush 属性。获取或设置渐变的起始颜色。"
 type: docs
-weight: 40
+weight: 60
 url: /zh/net/aspose.psd.brushes/lineargradientbrush/startcolor/
 ---
+{{< psd/tize >}}
 ## LinearGradientBrush.StartColor property
 
-获取或设置起始渐变色。
+获取或设置起始渐变颜色。
 
 ```csharp
 public Color StartColor { get; set; }
 ```
 
-### 适当的价值
+### Property Value
 
-起始渐变颜色。
+渐变的起始颜色。
 
-### 也可以看看
+### 另请参阅
 
 * struct [Color](../../../aspose.psd/color/)
 * class [LinearGradientBrush](../)
-* 命名空间 [Aspose.PSD.Brushes](../../lineargradientbrush/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
+* assembly [Aspose.PSD](../../../)
 
 

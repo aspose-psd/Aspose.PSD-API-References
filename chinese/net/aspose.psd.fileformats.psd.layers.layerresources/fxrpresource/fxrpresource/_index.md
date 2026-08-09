@@ -1,70 +1,71 @@
 ---
-title: FxrpResource.FxrpResource
-second_title: Aspose.PSD for .NET API 参考
-description: FxrpResource 构造函数. 初始化一个新的实例FxrpResource类.
+title: "FxrpResource.FxrpResource"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "FxrpResource 构造函数。初始化 FxrpResource 类的新实例"
 type: docs
 weight: 10
 url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources/fxrpresource/fxrpresource/
 ---
+{{< psd/tize >}}
 ## FxrpResource(double, double) {#constructor_2}
 
-初始化一个新的实例[`FxrpResource`](../)类.
+初始化 [`FxrpResource`](../) 类的新实例。
 
 ```csharp
 public FxrpResource(double x, double y)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| x | Double | 参考点的x坐标 |
-| y | Double | 参考点的y坐标 |
+| x | 双精度 | 参考点的 x 坐标 |
+| y | 双精度 | 参考点的 y 坐标 |
 
-### 也可以看看
+### 另请参阅
 
 * class [FxrpResource](../)
-* 命名空间 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../fxrpresource/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## FxrpResource() {#constructor}
 
-初始化一个新的实例[`FxrpResource`](../)类.
+初始化 [`FxrpResource`](../) 类的新实例。
 
 ```csharp
 public FxrpResource()
 ```
 
-### 也可以看看
+### 另请参阅
 
 * class [FxrpResource](../)
-* 命名空间 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../fxrpresource/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## FxrpResource(byte[]) {#constructor_1}
 
-初始化一个新的实例[`FxrpResource`](../) class. 具有自定义或未知值
+初始化一个新的 [`FxrpResource`](../) 类实例。使用自定义或未知值
 
 ```csharp
 public FxrpResource(byte[] data)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| data | Byte[] | 资源数据。 |
+| 数据 | Byte[] | 资源数据。 |
 
-### 例外
+### 异常
 
-| 例外 | （健康）状况 |
+| 异常 | 条件 |
 | --- | --- |
 | [PsdImageArgumentException](../../../aspose.psd.coreexceptions.imageformats/psdimageargumentexception/) | 无效的 Fxrp 资源值 |
 
-### 也可以看看
+### 另请参阅
 
 * class [FxrpResource](../)
-* 命名空间 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../fxrpresource/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

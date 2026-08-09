@@ -1,11 +1,12 @@
 ---
-title: ExifData.ExposureBiasValue
-second_title: Aspose.PSD for .NET API 参考
-description: ExifData 财产. 获取或设置曝光偏差值
+title: "ExifData.ExposureBiasValue"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "ExifData 属性。获取或设置曝光偏差值"
 type: docs
 weight: 190
 url: /zh/net/aspose.psd.exif/exifdata/exposurebiasvalue/
 ---
+{{< psd/tize >}}
 ## ExifData.ExposureBiasValue property
 
 获取或设置曝光偏差值。
@@ -14,15 +15,15 @@ url: /zh/net/aspose.psd.exif/exifdata/exposurebiasvalue/
 public TiffSRational ExposureBiasValue { get; set; }
 ```
 
-### 适当的价值
+### Property Value
 
-曝光偏差值。
+曝光补偿值。
 
-### 也可以看看
+### 另请参阅
 
 * class [TiffSRational](../../../aspose.psd.fileformats.tiff/tiffsrational/)
 * class [ExifData](../)
-* 命名空间 [Aspose.PSD.Exif](../../exifdata/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

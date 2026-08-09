@@ -1,14 +1,15 @@
 ---
-title: Class InterruptMonitor
-second_title: Aspose.PSD for .NET API 参考
-description: Aspose.PSD.Multithreading.InterruptMonitor 班级. 代表中断信息
+title: "类 InterruptMonitor"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "Aspose.PSD.Multithreading.InterruptMonitor 类。表示有关中断的信息。"
 type: docs
-weight: 5130
+weight: 5620
 url: /zh/net/aspose.psd.multithreading/interruptmonitor/
 ---
+{{< psd/tize >}}
 ## InterruptMonitor class
 
-代表中断信息。
+表示中断信息。
 
 ```csharp
 public class InterruptMonitor
@@ -16,26 +17,26 @@ public class InterruptMonitor
 
 ## 构造函数
 
-| 姓名 | 描述 |
+| 名称 | 描述 |
 | --- | --- |
 | [InterruptMonitor](interruptmonitor/)() | 默认构造函数。 |
 
-## 特性
+## 属性
 
-| 姓名 | 描述 |
+| 名称 | 描述 |
 | --- | --- |
 | static [ThreadLocalInstance](../../aspose.psd.multithreading/interruptmonitor/threadlocalinstance/) { get; set; } | 获取或设置每个线程唯一的 InterruptMonitor 实例。 |
 | [IsInterrupted](../../aspose.psd.multithreading/interruptmonitor/isinterrupted/) { get; } | 获取指示是否应中断操作的值。 |
 
 ## 方法
 
-| 姓名 | 描述 |
+| 名称 | 描述 |
 | --- | --- |
-| [Interrupt](../../aspose.psd.multithreading/interruptmonitor/interrupt/)() | 发送中断操作请求。 |
+| [Interrupt](../../aspose.psd.multithreading/interruptmonitor/interrupt/)() | 发送中断操作的请求。 |
 
-### 也可以看看
+### 另请参阅
 
-* 命名空间 [Aspose.PSD.Multithreading](../../aspose.psd.multithreading/)
-* 部件 [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Multithreading](../../aspose.psd.multithreading/)
+* assembly [Aspose.PSD](../../)
 
 

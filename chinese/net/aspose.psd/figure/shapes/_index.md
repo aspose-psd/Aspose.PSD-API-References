@@ -1,28 +1,29 @@
 ---
-title: Figure.Shapes
-second_title: Aspose.PSD for .NET API 参考
-description: Figure 财产. 获取图形形状
+title: "Figure.Shapes"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "Figure 属性。获取图形的形状"
 type: docs
 weight: 50
 url: /zh/net/aspose.psd/figure/shapes/
 ---
+{{< psd/tize >}}
 ## Figure.Shapes property
 
-获取图形形状。
+获取图形的形状。
 
 ```csharp
 public Shape[] Shapes { get; }
 ```
 
-### 适当的价值
+### Property Value
 
-图形形状。
+图形的形状。
 
-### 也可以看看
+### 另请参阅
 
 * class [Shape](../../shape/)
 * class [Figure](../)
-* 命名空间 [Aspose.PSD](../../figure/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

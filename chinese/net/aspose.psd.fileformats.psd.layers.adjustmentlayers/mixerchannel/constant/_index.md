@@ -1,11 +1,12 @@
 ---
-title: MixerChannel.Constant
-second_title: Aspose.PSD for .NET API 参考
-description: MixerChannel 财产. 获取或设置通道的常量
+title: "MixerChannel.Constant"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "MixerChannel 属性。获取或设置通道的常量。"
 type: docs
 weight: 10
 url: /zh/net/aspose.psd.fileformats.psd.layers.adjustmentlayers/mixerchannel/constant/
 ---
+{{< psd/tize >}}
 ## MixerChannel.Constant property
 
 获取或设置通道的常量。
@@ -14,14 +15,14 @@ url: /zh/net/aspose.psd.fileformats.psd.layers.adjustmentlayers/mixerchannel/con
 public short Constant { get; set; }
 ```
 
-### 适当的价值
+### Property Value
 
-常量.
+该常量。
 
-### 也可以看看
+### 另请参阅
 
 * class [MixerChannel](../)
-* 命名空间 [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../mixerchannel/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/)
+* assembly [Aspose.PSD](../../../)
 
 

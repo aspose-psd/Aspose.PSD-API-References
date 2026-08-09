@@ -1,23 +1,24 @@
 ---
-title: IopaResource.PsdVersion
-second_title: Aspose.PSD for .NET API 参考
-description: IopaResource 财产. 获取 psd 版本
+title: "IopaResource.PsdVersion"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "IopaResource 属性。获取 PSD 版本"
 type: docs
 weight: 50
 url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources/ioparesource/psdversion/
 ---
+{{< psd/tize >}}
 ## IopaResource.PsdVersion property
 
-获取 psd 版本。
+获取 PSD 版本。
 
 ```csharp
 public override int PsdVersion { get; }
 ```
 
-### 也可以看看
+### 另请参阅
 
 * class [IopaResource](../)
-* 命名空间 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../ioparesource/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: Class Source
-second_title: Aspose.PSD for .NET API 参考
-description: Aspose.PSD.Source 班级. 源用于包含对象管道的所有相关信息
+title: "类 Source"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "Aspose.PSD.Source 类。Source 用于包含对象管道的所有相关信息。"
 type: docs
-weight: 5580
+weight: 6080
 url: /zh/net/aspose.psd/source/
 ---
+{{< psd/tize >}}
 ## Source class
 
 源用于包含对象管道的所有相关信息。
@@ -16,13 +17,13 @@ public abstract class Source
 
 ## 方法
 
-| 姓名 | 描述 |
+| 名称 | 描述 |
 | --- | --- |
 | abstract [GetStreamContainer](../../aspose.psd/source/getstreamcontainer/)() | 获取流容器。 |
 
-### 也可以看看
+### 另请参阅
 
-* 命名空间 [Aspose.PSD](../../aspose.psd/)
-* 部件 [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

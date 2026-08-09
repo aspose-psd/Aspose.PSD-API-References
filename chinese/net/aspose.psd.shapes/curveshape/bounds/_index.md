@@ -1,11 +1,12 @@
 ---
-title: CurveShape.Bounds
-second_title: Aspose.PSD for .NET API 参考
-description: CurveShape 财产. 获取对象的边界
+title: "CurveShape.Bounds"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "CurveShape 属性。获取对象的边界"
 type: docs
 weight: 20
 url: /zh/net/aspose.psd.shapes/curveshape/bounds/
 ---
+{{< psd/tize >}}
 ## CurveShape.Bounds property
 
 获取对象的边界。
@@ -14,15 +15,15 @@ url: /zh/net/aspose.psd.shapes/curveshape/bounds/
 public override RectangleF Bounds { get; }
 ```
 
-### 适当的价值
+### Property Value
 
 对象的边界。
 
-### 也可以看看
+### 另请参阅
 
 * struct [RectangleF](../../../aspose.psd/rectanglef/)
 * class [CurveShape](../)
-* 命名空间 [Aspose.PSD.Shapes](../../curveshape/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 

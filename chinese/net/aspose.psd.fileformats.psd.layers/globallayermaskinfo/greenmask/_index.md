@@ -1,27 +1,28 @@
 ---
-title: GlobalLayerMaskInfo.GreenMask
-second_title: Aspose.PSD for .NET API 参考
-description: GlobalLayerMaskInfo 财产. 获取或设置绿色遮罩
+title: "GlobalLayerMaskInfo.GreenMask"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "GlobalLayerMaskInfo 属性。获取或设置绿色遮罩"
 type: docs
 weight: 40
 url: /zh/net/aspose.psd.fileformats.psd.layers/globallayermaskinfo/greenmask/
 ---
+{{< psd/tize >}}
 ## GlobalLayerMaskInfo.GreenMask property
 
-获取或设置绿色遮罩。
+获取或设置 green 蒙版。
 
 ```csharp
 public short GreenMask { get; set; }
 ```
 
-### 适当的价值
+### Property Value
 
-绿色面具.
+绿色遮罩。
 
-### 也可以看看
+### 另请参阅
 
 * class [GlobalLayerMaskInfo](../)
-* 命名空间 [Aspose.PSD.FileFormats.Psd.Layers](../../globallayermaskinfo/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

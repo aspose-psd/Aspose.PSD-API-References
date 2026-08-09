@@ -1,27 +1,28 @@
 ---
-title: CurvResource.IsDataStoredDiscretely
-second_title: Aspose.PSD for .NET API 参考
-description: CurvResource 财产. 获取或设置一个值该值指示此实例是否为离散存储的数据
+title: "CurvResource.IsDataStoredDiscretely"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "CurvResource 属性。获取或设置一个值，指示此实例是否以离散方式存储数据"
 type: docs
 weight: 20
 url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources/curvresource/isdatastoreddiscretely/
 ---
+{{< psd/tize >}}
 ## CurvResource.IsDataStoredDiscretely property
 
-获取或设置一个值，该值指示此实例是否为离散存储的数据。
+获取或设置一个值，指示此实例的数据是否以离散方式存储。
 
 ```csharp
 public bool IsDataStoredDiscretely { get; set; }
 ```
 
-### 适当的价值
+### Property Value
 
-`真的`如果此实例是离散存储的数据；否则，`错误的` .
+`true` 表示此实例以离散方式存储数据；否则为 `false`。
 
-### 也可以看看
+### 另请参阅
 
 * class [CurvResource](../)
-* 命名空间 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../curvresource/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

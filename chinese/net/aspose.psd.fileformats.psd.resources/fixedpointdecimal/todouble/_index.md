@@ -1,14 +1,15 @@
 ---
-title: FixedPointDecimal.ToDouble
-second_title: Aspose.PSD for .NET API 参考
-description: FixedPointDecimal 方法. 将当前定点小数转换为双精度
+title: "FixedPointDecimal.ToDouble"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "FixedPointDecimal 方法。将当前定点小数转换为 double"
 type: docs
 weight: 40
 url: /zh/net/aspose.psd.fileformats.psd.resources/fixedpointdecimal/todouble/
 ---
+{{< psd/tize >}}
 ## FixedPointDecimal.ToDouble method
 
-将当前定点小数转换为双精度。
+将当前定点十进制转换为 double。
 
 ```csharp
 public double ToDouble()
@@ -18,10 +19,10 @@ public double ToDouble()
 
 转换后的值。
 
-### 也可以看看
+### 另请参阅
 
 * class [FixedPointDecimal](../)
-* 命名空间 [Aspose.PSD.FileFormats.Psd.Resources](../../fixedpointdecimal/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

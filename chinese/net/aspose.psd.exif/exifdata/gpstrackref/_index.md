@@ -1,11 +1,12 @@
 ---
-title: ExifData.GPSTrackRef
-second_title: Aspose.PSD for .NET API 参考
-description: ExifData 财产. 获取或设置用于给出 GPS 接收器移动方向的参考
+title: "ExifData.GPSTrackRef"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "ExifData 属性。获取或设置用于指示 GPS 接收器移动方向的参考。"
 type: docs
 weight: 660
 url: /zh/net/aspose.psd.exif/exifdata/gpstrackref/
 ---
+{{< psd/tize >}}
 ## ExifData.GPSTrackRef property
 
 获取或设置用于给出 GPS 接收器移动方向的参考。
@@ -14,14 +15,14 @@ url: /zh/net/aspose.psd.exif/exifdata/gpstrackref/
 public string GPSTrackRef { get; set; }
 ```
 
-### 适当的价值
+### Property Value
 
-给出 GPS 接收器移动方向的参考。
+用于指示 GPS 接收器移动方向的参考。
 
-### 也可以看看
+### 另请参阅
 
 * class [ExifData](../)
-* 命名空间 [Aspose.PSD.Exif](../../exifdata/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

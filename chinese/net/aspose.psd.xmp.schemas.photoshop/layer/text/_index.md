@@ -1,27 +1,28 @@
 ---
-title: Layer.Text
-second_title: Aspose.PSD for .NET API 参考
-description: Layer 财产. 获取或设置图层的文字内容
+title: "Layer.Text"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "Layer 属性。获取或设置图层的文本内容"
 type: docs
 weight: 30
 url: /zh/net/aspose.psd.xmp.schemas.photoshop/layer/text/
 ---
+{{< psd/tize >}}
 ## Layer.Text property
 
-获取或设置图层的文字内容。
+获取或设置图层的文本内容。
 
 ```csharp
 public string Text { get; set; }
 ```
 
-### 适当的价值
+### Property Value
 
-图层的文字内容。
+图层的文本内容。
 
-### 也可以看看
+### 另请参阅
 
 * class [Layer](../)
-* 命名空间 [Aspose.PSD.Xmp.Schemas.Photoshop](../../layer/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.Photoshop](../../../aspose.psd.xmp.schemas.photoshop/)
+* assembly [Aspose.PSD](../../../)
 
 

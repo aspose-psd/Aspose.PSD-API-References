@@ -1,27 +1,28 @@
 ---
-title: AliasStructure.DataLength
-second_title: Aspose.PSD for .NET API 参考
-description: AliasStructure 财产. 获取以字节为单位的准确数据长度
+title: "AliasStructure.DataLength"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "AliasStructure 属性。获取精确的数据字节长度"
 type: docs
 weight: 20
 url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/aliasstructure/datalength/
 ---
+{{< psd/tize >}}
 ## AliasStructure.DataLength property
 
-获取以字节为单位的准确数据长度。
+获取精确的数据长度（字节）。
 
 ```csharp
 public int DataLength { get; }
 ```
 
-### 适当的价值
+### Property Value
 
-以字节为单位的数据长度。
+数据的字节长度。
 
-### 也可以看看
+### 另请参阅
 
 * class [AliasStructure](../)
-* 命名空间 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../aliasstructure/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 

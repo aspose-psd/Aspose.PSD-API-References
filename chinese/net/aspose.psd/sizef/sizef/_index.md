@@ -1,69 +1,70 @@
 ---
-title: SizeF.SizeF
-second_title: Aspose.PSD for .NET API 参考
-description: SizeF 构造函数. 初始化一个新的实例SizeF从指定的结构SizeF .
+title: "SizeF.SizeF"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "SizeF 构造函数。根据指定的 SizeF 初始化一个新的 SizeF 结构实例。"
 type: docs
 weight: 10
 url: /zh/net/aspose.psd/sizef/sizef/
 ---
+{{< psd/tize >}}
 ## SizeF(SizeF) {#constructor_1}
 
-初始化一个新的实例[`SizeF`](../)从指定的结构[`SizeF`](../) .
+根据指定的 [`SizeF`](../) 初始化一个新的 [`SizeF`](../) 结构实例。
 
 ```csharp
 public SizeF(SizeF size)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| size | SizeF | 这[`SizeF`](../)从中创建新的[`SizeF`](../). |
+| size | SizeF | 用于创建新 [`SizeF`](../) 的 [`SizeF`](../)。 |
 
-### 也可以看看
+### 另请参阅
 
 * struct [SizeF](../)
-* 命名空间 [Aspose.PSD](../../sizef/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## SizeF(PointF) {#constructor}
 
-初始化一个新的实例[`SizeF`](../)从指定的结构[`PointF`](../../pointf/) .
+根据指定的 [`PointF`](../../pointf/) 初始化一个新的 [`SizeF`](../) 结构实例。
 
 ```csharp
 public SizeF(PointF point)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| point | PointF | 这[`PointF`](../../pointf/)从中初始化这个[`SizeF`](../). |
+| point | PointF | 用于初始化此 [`SizeF`](../) 的 [`PointF`](../../pointf/)。 |
 
-### 也可以看看
+### 另请参阅
 
 * struct [PointF](../../pointf/)
 * struct [SizeF](../)
-* 命名空间 [Aspose.PSD](../../sizef/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## SizeF(float, float) {#constructor_2}
 
-初始化一个新的实例[`SizeF`](../)指定尺寸的结构.
+根据指定的尺寸初始化一个新的 [`SizeF`](../) 结构实例。
 
 ```csharp
 public SizeF(float width, float height)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| width | Single | 新的宽度组件[`SizeF`](../). |
-| height | Single | 新的高度组件[`SizeF`](../). |
+| width | Single | 新 [`SizeF`](../) 的宽度分量。 |
+| height | Single | 新 [`SizeF`](../) 的高度分量。 |
 
-### 也可以看看
+### 另请参阅
 
 * struct [SizeF](../)
-* 命名空间 [Aspose.PSD](../../sizef/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

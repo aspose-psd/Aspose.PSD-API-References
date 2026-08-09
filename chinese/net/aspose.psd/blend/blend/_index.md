@@ -1,43 +1,44 @@
 ---
-title: Blend.Blend
-second_title: Aspose.PSD for .NET API 参考
-description: Blend 构造函数. 初始化一个新的实例Blend班级因子和混合数组中的元素数将等于 1.
+title: "Blend.Blend"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "Blend 构造函数。初始化 Blend 类的新实例。factor 和 blend 数组中的元素数量将等于 1。"
 type: docs
 weight: 10
 url: /zh/net/aspose.psd/blend/blend/
 ---
+{{< psd/tize >}}
 ## Blend() {#constructor}
 
-初始化一个新的实例[`Blend`](../)班级。因子和混合数组中的元素数将等于 1.
+初始化 [`Blend`](../) 类的新实例。factor 和 blend 数组中的元素数量将等于 1。
 
 ```csharp
 public Blend()
 ```
 
-### 也可以看看
+### 另请参阅
 
 * class [Blend](../)
-* 命名空间 [Aspose.PSD](../../blend/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Blend(int) {#constructor_1}
 
-初始化一个新的实例[`Blend`](../)具有指定数量的因子和位置的类。
+使用指定数量的因子和位置，初始化 [`Blend`](../) 类的新实例。
 
 ```csharp
 public Blend(int count)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| count | Int32 | 因子和位置数组中的元素数。 |
+| count | Int32 | factor 数组和 position 数组中的元素数量。 |
 
-### 也可以看看
+### 另请参阅
 
 * class [Blend](../)
-* 命名空间 [Aspose.PSD](../../blend/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

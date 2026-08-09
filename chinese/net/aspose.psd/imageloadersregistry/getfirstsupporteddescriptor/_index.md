@@ -1,39 +1,40 @@
 ---
-title: ImageLoadersRegistry.GetFirstSupportedDescriptor
-second_title: Aspose.PSD for .NET API 参考
-description: ImageLoadersRegistry 方法. 获取第一个找到的适合指定的支持描述符stream和可选的loadOptions .
+title: "ImageLoadersRegistry.GetFirstSupportedDescriptor"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "ImageLoadersRegistry 方法。获取适用于指定 *stream* 且可选 *loadOptions* 的第一个找到的受支持描述符"
 type: docs
 weight: 40
 url: /zh/net/aspose.psd/imageloadersregistry/getfirstsupporteddescriptor/
 ---
+{{< psd/tize >}}
 ## ImageLoadersRegistry.GetFirstSupportedDescriptor method
 
-获取第一个找到的适合指定的支持描述符*stream*和可选的*loadOptions* .
+获取第一个适用于指定 *stream* 且可选的 *loadOptions* 的受支持描述符。
 
 ```csharp
 public static IImageLoaderDescriptor GetFirstSupportedDescriptor(Stream stream, 
     LoadOptions loadOptions)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| stream | Stream | 流。 |
+| 流 | 流 | 流。 |
 | loadOptions | LoadOptions | 加载选项。 |
 
 ### 返回值
 
-支持指定的加载器描述符*stream*和*loadOptions*如果没有找到这样的描述符，则为 null.
+支持指定 *stream* 和 *loadOptions* 的加载器描述符，若未找到则返回 null。
 
-### 评论
+## 备注
 
 第一个加载器描述符实际上是最后注册的。
 
-### 也可以看看
+### 另请参阅
 
 * interface [IImageLoaderDescriptor](../../iimageloaderdescriptor/)
 * class [LoadOptions](../../loadoptions/)
 * class [ImageLoadersRegistry](../)
-* 命名空间 [Aspose.PSD](../../imageloadersregistry/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

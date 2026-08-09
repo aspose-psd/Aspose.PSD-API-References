@@ -1,11 +1,12 @@
 ---
-title: LevlResource.TypeToolKey
-second_title: Aspose.PSD for .NET API 参考
-description: LevlResource 场地. 类型工具信息键
+title: "LevlResource.TypeToolKey"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "LevlResource 字段。类型工具信息键"
 type: docs
-weight: 70
+weight: 50
 url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources/levlresource/typetoolkey/
 ---
+{{< psd/tize >}}
 ## LevlResource.TypeToolKey field
 
 类型工具信息键。
@@ -14,10 +15,10 @@ url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources/levlresource/typet
 public const int TypeToolKey;
 ```
 
-### 也可以看看
+### 另请参阅
 
 * class [LevlResource](../)
-* 命名空间 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../levlresource/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

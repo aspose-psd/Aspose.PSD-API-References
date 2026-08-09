@@ -1,34 +1,35 @@
 ---
-title: TiffOptions.YCbCrSubsampling
-second_title: Aspose.PSD for .NET API 参考
-description: TiffOptions 财产. 获取或设置 YCbCr 光度学的子采样因子
+title: "TiffOptions.YCbCrSubsampling"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "TiffOptions 属性。获取或设置 YCbCr 颜色空间的子采样因子"
 type: docs
-weight: 670
+weight: 680
 url: /zh/net/aspose.psd.imageoptions/tiffoptions/ycbcrsubsampling/
 ---
+{{< psd/tize >}}
 ## TiffOptions.YCbCrSubsampling property
 
-获取或设置 YCbCr 光度学的子采样因子。
+获取或设置 YCbCr 光度的子采样因子。
 
 ```csharp
 public ushort[] YCbCrSubsampling { get; set; }
 ```
 
-### 适当的价值
+### Property Value
 
-YCbCr 光度测量的子采样因子。
+YCbCr 颜色空间的子采样因子。
 
-### 例外
+### 异常
 
-| 例外 | （健康）状况 |
+| 异常 | 条件 |
 | --- | --- |
-| [TiffImageException](../../../aspose.psd.coreexceptions.imageformats/tiffimageexception/) | 无效字段长度。 YCbCrSubsampling 字段必须包含两个值。 |
-| ArgumentNullException | 价值 |
+| [TiffImageException](../../../aspose.psd.coreexceptions.imageformats/tiffimageexception/) | 字段长度无效。YCbCrSubsampling 字段必须包含两个值。 |
+| ArgumentNullException | 值 |
 
-### 也可以看看
+### 另请参阅
 
 * class [TiffOptions](../)
-* 命名空间 [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

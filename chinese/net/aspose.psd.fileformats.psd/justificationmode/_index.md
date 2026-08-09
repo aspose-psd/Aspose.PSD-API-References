@@ -1,30 +1,31 @@
 ---
-title: Enum JustificationMode
-second_title: Aspose.PSD for .NET API 参考
-description: Aspose.PSD.FileFormats.Psd.JustificationMode 枚举. 文本对齐方式
+title: "枚举 JustificationMode"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "Aspose.PSD.FileFormats.Psd.JustificationMode 枚举。文本对齐模式"
 type: docs
-weight: 1650
+weight: 1690
 url: /zh/net/aspose.psd.fileformats.psd/justificationmode/
 ---
+{{< psd/tize >}}
 ## JustificationMode enumeration
 
-文本对齐方式。
+文本对齐模式。
 
 ```csharp
 public enum JustificationMode
 ```
 
-### 价值观
+### 值
 
-| 姓名 | 价值 | 描述 |
+| 名称 | 值 | 描述 |
 | --- | --- | --- |
-| Left | `0` | 左对齐文本. |
-| Right | `1` | 右对齐文本. |
-| Center | `2` | 中心文字. |
+| Left | `0` | 左对齐文本。在从左到右模式下，左位置是左。在从右到左模式下，左位置是右。 |
+| Right | `1` | 右对齐文本。在从左到右模式下，右位置是右。在从右到左模式下，右位置是左。 |
+| Center | `2` | 居中文本。 |
 
-### 例子
+## 示例
 
-以下代码演示了对 JustificationMode 枚举的支持以设置文本部分的文本对齐方式。
+以下代码演示了如何使用 JustificationMode 枚举来设置文本段落的对齐方式。
 
 ```csharp
 [C#]
@@ -55,9 +56,9 @@ using (var image = (PsdImage) Image.Load(src))
 }
 ```
 
-### 也可以看看
+### 另请参阅
 
-* 命名空间 [Aspose.PSD.FileFormats.Psd](../../aspose.psd.fileformats.psd/)
-* 部件 [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../)
 
 

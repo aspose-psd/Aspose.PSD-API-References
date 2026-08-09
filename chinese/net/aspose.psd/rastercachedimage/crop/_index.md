@@ -1,11 +1,12 @@
 ---
-title: RasterCachedImage.Crop
-second_title: Aspose.PSD for .NET API 参考
-description: RasterCachedImage 方法. 裁剪图像
+title: "RasterCachedImage.Crop"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "RasterCachedImage 方法。裁剪图像"
 type: docs
 weight: 90
 url: /zh/net/aspose.psd/rastercachedimage/crop/
 ---
+{{< psd/tize >}}
 ## RasterCachedImage.Crop method
 
 裁剪图像。
@@ -14,11 +15,11 @@ url: /zh/net/aspose.psd/rastercachedimage/crop/
 public override void Crop(Rectangle rectangle)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| rectangle | Rectangle | 矩形。 |
+| 矩形 | Rectangle | 矩形。 |
 
-### 例子
+## 示例
 
 以下代码演示了按特定矩形裁剪图像的能力。
 
@@ -70,19 +71,19 @@ using (var image = (PsdImage)Image.Load(sourceFileName))
         top += layers[i].Height;
     }
 
-    // 保存psd
+    // 保存 psd
     image.Save(exportPath, new PsdOptions());
 
-    // 保存png
+    // 保存 png
     image.Save(exportPathPng, new PngOptions());
 }
 ```
 
-### 也可以看看
+### 另请参阅
 
 * struct [Rectangle](../../rectangle/)
 * class [RasterCachedImage](../)
-* 命名空间 [Aspose.PSD](../../rastercachedimage/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

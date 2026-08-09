@@ -1,20 +1,21 @@
 ---
-title: VogkResource.Length
-second_title: Aspose.PSD for .NET API 参考
-description: VogkResource 财产. 获取以字节为单位的图层资源长度
+title: "VogkResource.Length"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "VogkResource 属性。获取图层资源的字节长度。"
 type: docs
-weight: 30
+weight: 20
 url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources/vogkresource/length/
 ---
+{{< psd/tize >}}
 ## VogkResource.Length property
 
-获取以字节为单位的图层资源长度。
+获取图层资源的字节长度。
 
 ```csharp
 public override int Length { get; }
 ```
 
-### 例子
+## 示例
 
 以下示例演示了 VogkResource 资源的支持。
 
@@ -51,7 +52,7 @@ using (var psdImage = (PsdImage)Image.Load(sourceFilePath))
 {
     var resource = GetVogkResource(psdImage);
 
-    // 阅读
+    // 读取
     if (resource.ShapeOriginSettings.Length != 1 ||
         !resource.ShapeOriginSettings[0].IsShapeInvalidated ||
         resource.ShapeOriginSettings[0].OriginIndex != 0)
@@ -70,10 +71,10 @@ using (var psdImage = (PsdImage)Image.Load(sourceFilePath))
 }
 ```
 
-### 也可以看看
+### 另请参阅
 
 * class [VogkResource](../)
-* 命名空间 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../vogkresource/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

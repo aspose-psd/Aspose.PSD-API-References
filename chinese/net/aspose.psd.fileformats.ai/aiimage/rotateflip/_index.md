@@ -1,11 +1,12 @@
 ---
-title: AiImage.RotateFlip
-second_title: Aspose.PSD for .NET API 参考
-description: AiImage 方法. 旋转翻转或旋转并翻转图像
+title: "AiImage.RotateFlip"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "AiImage 方法。旋转翻转或旋转并翻转图像"
 type: docs
-weight: 160
+weight: 190
 url: /zh/net/aspose.psd.fileformats.ai/aiimage/rotateflip/
 ---
+{{< psd/tize >}}
 ## AiImage.RotateFlip method
 
 旋转、翻转或旋转并翻转图像。
@@ -14,21 +15,21 @@ url: /zh/net/aspose.psd.fileformats.ai/aiimage/rotateflip/
 public override void RotateFlip(RotateFlipType rotateFlipType)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| rotateFlipType | RotateFlipType | 旋转翻转的类型。 |
+| rotateFlipType | RotateFlipType | rotate flip 的类型。 |
 
-### 例外
+### 异常
 
-| 例外 | （健康）状况 |
+| 异常 | 条件 |
 | --- | --- |
 | NotImplementedException | 未实现 |
 
-### 也可以看看
+### 另请参阅
 
 * enum [RotateFlipType](../../../aspose.psd/rotatefliptype/)
 * class [AiImage](../)
-* 命名空间 [Aspose.PSD.FileFormats.Ai](../../aiimage/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,45 +1,46 @@
 ---
-title: ColorantLab.ColorantLab
-second_title: Aspose.PSD for .NET API 参考
-description: ColorantLab 构造函数. 初始化一个新的实例ColorantLab类.
+title: "ColorantLab.ColorantLab"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "ColorantLab 构造函数。初始化 ColorantLab 类的新实例"
 type: docs
 weight: 10
 url: /zh/net/aspose.psd.xmp.types.complex.colorant/colorantlab/colorantlab/
 ---
+{{< psd/tize >}}
 ## ColorantLab() {#constructor}
 
-初始化一个新的实例[`ColorantLab`](../)类.
+初始化 [`ColorantLab`](../) 类的新实例。
 
 ```csharp
 public ColorantLab()
 ```
 
-### 也可以看看
+### 另请参阅
 
 * class [ColorantLab](../)
-* 命名空间 [Aspose.PSD.Xmp.Types.Complex.Colorant](../../colorantlab/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.Colorant](../../../aspose.psd.xmp.types.complex.colorant/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## ColorantLab(int, int, float) {#constructor_1}
 
-初始化一个新的实例[`ColorantLab`](../)类.
+初始化 [`ColorantLab`](../) 类的新实例。
 
 ```csharp
 public ColorantLab(int a, int b, float l)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| a | Int32 | 一个组件。 |
-| b | Int32 | B成分。 |
-| l | Single | L分量。 |
+| a | Int32 | A 分量。 |
+| b | Int32 | B 分量。 |
+| l | 单精度 | L 分量。 |
 
-### 也可以看看
+### 另请参阅
 
 * class [ColorantLab](../)
-* 命名空间 [Aspose.PSD.Xmp.Types.Complex.Colorant](../../colorantlab/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.Colorant](../../../aspose.psd.xmp.types.complex.colorant/)
+* assembly [Aspose.PSD](../../../)
 
 

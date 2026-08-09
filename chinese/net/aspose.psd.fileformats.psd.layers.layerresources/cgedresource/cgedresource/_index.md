@@ -1,11 +1,12 @@
 ---
-title: CgEdResource.CgEdResource
-second_title: Aspose.PSD for .NET API 参考
-description: CgEdResource 构造函数. 默认构造函数
+title: "CgEdResource.CgEdResource"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "CgEdResource 构造函数。默认构造函数"
 type: docs
 weight: 10
 url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources/cgedresource/cgedresource/
 ---
+{{< psd/tize >}}
 ## CgEdResource constructor
 
 默认构造函数。
@@ -14,10 +15,10 @@ url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources/cgedresource/cgedr
 public CgEdResource()
 ```
 
-### 也可以看看
+### 另请参阅
 
 * class [CgEdResource](../)
-* 命名空间 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../cgedresource/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

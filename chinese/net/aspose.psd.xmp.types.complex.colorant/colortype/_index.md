@@ -1,11 +1,12 @@
 ---
-title: Enum ColorType
-second_title: Aspose.PSD for .NET API 参考
-description: Aspose.PSD.Xmp.Types.Complex.Colorant.ColorType 枚举. 颜色类型
+title: "枚举 ColorType"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "Aspose.PSD.Xmp.Types.Complex.Colorant.ColorType 枚举。颜色的类型"
 type: docs
-weight: 6000
+weight: 6500
 url: /zh/net/aspose.psd.xmp.types.complex.colorant/colortype/
 ---
+{{< psd/tize >}}
 ## ColorType enumeration
 
 颜色类型。
@@ -14,16 +15,16 @@ url: /zh/net/aspose.psd.xmp.types.complex.colorant/colortype/
 public enum ColorType
 ```
 
-### 价值观
+### 值
 
-| 姓名 | 价值 | 描述 |
+| 名称 | 值 | 描述 |
 | --- | --- | --- |
-| Process | `1` | 原色类型。 |
+| Process | `1` | 过程颜色类型。 |
 | Spot | `2` | 专色类型。 |
 
-### 也可以看看
+### 另请参阅
 
-* 命名空间 [Aspose.PSD.Xmp.Types.Complex.Colorant](../../aspose.psd.xmp.types.complex.colorant/)
-* 部件 [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.Colorant](../../aspose.psd.xmp.types.complex.colorant/)
+* assembly [Aspose.PSD](../../)
 
 

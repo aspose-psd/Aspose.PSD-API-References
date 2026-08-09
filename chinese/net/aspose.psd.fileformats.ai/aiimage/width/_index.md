@@ -1,11 +1,12 @@
 ---
-title: AiImage.Width
-second_title: Aspose.PSD for .NET API 参考
-description: AiImage 财产. 获取图像宽度
+title: "AiImage.Width"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "AiImage 属性。获取图像宽度"
 type: docs
-weight: 120
+weight: 140
 url: /zh/net/aspose.psd.fileformats.ai/aiimage/width/
 ---
+{{< psd/tize >}}
 ## AiImage.Width property
 
 获取图像宽度。
@@ -14,14 +15,14 @@ url: /zh/net/aspose.psd.fileformats.ai/aiimage/width/
 public override int Width { get; }
 ```
 
-### 适当的价值
+### Property Value
 
-图像宽度.
+该图像宽度。
 
-### 也可以看看
+### 另请参阅
 
 * class [AiImage](../)
-* 命名空间 [Aspose.PSD.FileFormats.Ai](../../aiimage/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

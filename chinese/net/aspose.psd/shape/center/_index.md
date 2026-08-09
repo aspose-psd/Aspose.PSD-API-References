@@ -1,11 +1,12 @@
 ---
-title: Shape.Center
-second_title: Aspose.PSD for .NET API 参考
-description: Shape 财产. 获取形状的中心
+title: "Shape.Center"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "Shape 属性。获取形状的中心"
 type: docs
 weight: 10
 url: /zh/net/aspose.psd/shape/center/
 ---
+{{< psd/tize >}}
 ## Shape.Center property
 
 获取形状的中心。
@@ -14,15 +15,15 @@ url: /zh/net/aspose.psd/shape/center/
 public abstract PointF Center { get; }
 ```
 
-### 适当的价值
+### Property Value
 
 形状的中心。
 
-### 也可以看看
+### 另请参阅
 
 * struct [PointF](../../pointf/)
 * class [Shape](../)
-* 命名空间 [Aspose.PSD](../../shape/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

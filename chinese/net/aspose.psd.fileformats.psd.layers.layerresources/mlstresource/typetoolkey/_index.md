@@ -1,11 +1,12 @@
 ---
-title: MlstResource.TypeToolKey
-second_title: Aspose.PSD for .NET API 参考
-description: MlstResource 场地. 类型工具信息键
+title: "MlstResource.TypeToolKey"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "MlstResource 字段。类型工具信息键"
 type: docs
-weight: 90
+weight: 60
 url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources/mlstresource/typetoolkey/
 ---
+{{< psd/tize >}}
 ## MlstResource.TypeToolKey field
 
 类型工具信息键。
@@ -14,10 +15,10 @@ url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources/mlstresource/typet
 public const int TypeToolKey;
 ```
 
-### 也可以看看
+### 另请参阅
 
 * class [MlstResource](../)
-* 命名空间 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../mlstresource/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

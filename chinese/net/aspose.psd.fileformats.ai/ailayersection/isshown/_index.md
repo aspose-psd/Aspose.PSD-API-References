@@ -1,26 +1,27 @@
 ---
-title: AiLayerSection.IsShown
-second_title: Aspose.PSD for .NET API 参考
-description: AiLayerSection 财产. 获取或设置是否显示该图层的值 如果为真则在画板上显示图层中包含的所有作品
+title: "AiLayerSection.IsShown"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "AiLayerSection 属性。获取或设置一个值，指示此图层是否可见。如果为 true，则在画板上显示该图层包含的所有艺术作品"
 type: docs
-weight: 90
+weight: 110
 url: /zh/net/aspose.psd.fileformats.ai/ailayersection/isshown/
 ---
+{{< psd/tize >}}
 ## AiLayerSection.IsShown property
 
-获取或设置是否显示该图层的值。 如果为真，则在画板上显示图层中包含的所有作品。
+获取或设置一个值，指示此图层是否可见。如果为 true，则在画板上显示图层中包含的所有艺术作品。
 
 ```csharp
 public bool IsShown { get; set; }
 ```
 
-### 适当的价值
+### Property Value
 
-`真的`如果显示该层；否则，`错误的` .
+`true` 如果此图层可见；否则为 `false`。
 
-### 例子
+## 示例
 
-以下示例演示了对 AI 格式文件中图层的支持。
+以下示例演示了在 AI 格式文件中对图层的支持。
 
 ```csharp
 [C#]
@@ -70,10 +71,10 @@ using (AiImage image = (AiImage)Image.Load(sourceFilePath))
 }
 ```
 
-### 也可以看看
+### 另请参阅
 
 * class [AiLayerSection](../)
-* 命名空间 [Aspose.PSD.FileFormats.Ai](../../ailayersection/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

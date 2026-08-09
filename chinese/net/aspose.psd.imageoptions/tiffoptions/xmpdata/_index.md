@@ -1,11 +1,12 @@
 ---
-title: TiffOptions.XmpData
-second_title: Aspose.PSD for .NET API 参考
-description: TiffOptions 财产. 获取或设置 XMP 元数据容器
+title: "TiffOptions.XmpData"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "TiffOptions 属性。获取或设置 XMP 元数据容器"
 type: docs
-weight: 580
+weight: 590
 url: /zh/net/aspose.psd.imageoptions/tiffoptions/xmpdata/
 ---
+{{< psd/tize >}}
 ## TiffOptions.XmpData property
 
 获取或设置 XMP 元数据容器。
@@ -14,15 +15,15 @@ url: /zh/net/aspose.psd.imageoptions/tiffoptions/xmpdata/
 public override XmpPacketWrapper XmpData { get; set; }
 ```
 
-### 适当的价值
+### Property Value
 
 XMP 数据容器。
 
-### 也可以看看
+### 另请参阅
 
 * class [XmpPacketWrapper](../../../aspose.psd.xmp/xmppacketwrapper/)
 * class [TiffOptions](../)
-* 命名空间 [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

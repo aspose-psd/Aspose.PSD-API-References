@@ -1,11 +1,12 @@
 ---
-title: XmpMeta.AddAttribute
-second_title: Aspose.PSD for .NET API 参考
-description: XmpMeta 方法. 添加属性
+title: "XmpMeta.AddAttribute"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "XmpMeta 方法。添加属性"
 type: docs
 weight: 30
 url: /zh/net/aspose.psd.xmp/xmpmeta/addattribute/
 ---
+{{< psd/tize >}}
 ## XmpMeta.AddAttribute method
 
 添加属性。
@@ -14,15 +15,15 @@ url: /zh/net/aspose.psd.xmp/xmpmeta/addattribute/
 public override void AddAttribute(string attribute, string value)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| attribute | String | 属性。 |
-| value | String | 价值。 |
+| 属性 | String | 该属性。 |
+| 值 | String | 该值。 |
 
-### 也可以看看
+### 另请参阅
 
 * class [XmpMeta](../)
-* 命名空间 [Aspose.PSD.Xmp](../../xmpmeta/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

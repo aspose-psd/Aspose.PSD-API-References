@@ -1,28 +1,29 @@
 ---
-title: FontSettings.SetFontsFolders
-second_title: Aspose.PSD for .NET API 参考
-description: FontSettings 方法. 设置从中加载 TrueType 字体的文件夹并清除所有加载的字体 没有对字体文件夹执行检查
+title: "FontSettings.SetFontsFolders"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "FontSettings 方法。设置加载 TrueType 字体的文件夹并清除所有已加载的字体。对字体文件夹不执行任何检查。"
 type: docs
-weight: 130
+weight: 150
 url: /zh/net/aspose.psd/fontsettings/setfontsfolders/
 ---
+{{< psd/tize >}}
 ## FontSettings.SetFontsFolders method
 
-设置从中加载 TrueType 字体的文件夹并清除所有加载的字体。 没有对字体文件夹执行检查。
+设置加载 TrueType 字体的文件夹并清除所有已加载的字体。不会对字体文件夹进行任何检查。
 
 ```csharp
 public static void SetFontsFolders(string[] fontsFolders, bool recursive)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
 | fontsFolders | String[] | 字体文件夹。 |
-| recursive | Boolean | 如果设置为`真的` [递归]。 |
+| recursive | 布尔 | 如果设置为 `true` [recursive]。 |
 
-### 也可以看看
+### 另请参阅
 
 * class [FontSettings](../)
-* 命名空间 [Aspose.PSD](../../fontsettings/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

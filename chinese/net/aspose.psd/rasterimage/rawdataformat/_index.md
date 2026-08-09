@@ -1,11 +1,12 @@
 ---
-title: RasterImage.RawDataFormat
-second_title: Aspose.PSD for .NET API 参考
-description: RasterImage 财产. 获取原始数据格式
+title: "RasterImage.RawDataFormat"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "RasterImage 属性。获取原始数据格式"
 type: docs
 weight: 80
 url: /zh/net/aspose.psd/rasterimage/rawdataformat/
 ---
+{{< psd/tize >}}
 ## RasterImage.RawDataFormat property
 
 获取原始数据格式。
@@ -14,15 +15,15 @@ url: /zh/net/aspose.psd/rasterimage/rawdataformat/
 public virtual PixelDataFormat RawDataFormat { get; }
 ```
 
-### 适当的价值
+### Property Value
 
 原始数据格式。
 
-### 也可以看看
+### 另请参阅
 
 * class [PixelDataFormat](../../pixeldataformat/)
 * class [RasterImage](../)
-* 命名空间 [Aspose.PSD](../../rasterimage/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

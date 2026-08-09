@@ -1,11 +1,12 @@
 ---
-title: MultiPageOptions.Pages
-second_title: Aspose.PSD for .NET API 参考
-description: MultiPageOptions 财产. 获取或设置页面
+title: "MultiPageOptions.Pages"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "MultiPageOptions 属性。获取或设置页面"
 type: docs
 weight: 70
 url: /zh/net/aspose.psd.imageoptions/multipageoptions/pages/
 ---
+{{< psd/tize >}}
 ## MultiPageOptions.Pages property
 
 获取或设置页面。
@@ -14,14 +15,14 @@ url: /zh/net/aspose.psd.imageoptions/multipageoptions/pages/
 public int[] Pages { get; set; }
 ```
 
-### 适当的价值
+### Property Value
 
-页面.
+页面。
 
-### 也可以看看
+### 另请参阅
 
 * class [MultiPageOptions](../)
-* 命名空间 [Aspose.PSD.ImageOptions](../../multipageoptions/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

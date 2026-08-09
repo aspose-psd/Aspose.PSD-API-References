@@ -1,42 +1,43 @@
 ---
-title: Class UnknownResource
-second_title: Aspose.PSD for .NET API 参考
-description: Aspose.PSD.FileFormats.Psd.Resources.UnknownResource 班级. 未知资源当无法识别资源块时将创建此资源块
+title: "类 UnknownResource"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "Aspose.PSD.FileFormats.Psd.Resources.UnknownResource 类。未知资源。当资源块未被识别时，将创建此资源块"
 type: docs
-weight: 3940
+weight: 4410
 url: /zh/net/aspose.psd.fileformats.psd.resources/unknownresource/
 ---
+{{< psd/tize >}}
 ## UnknownResource class
 
-未知资源。当无法识别资源块时，将创建此资源块。
+未知资源。当资源块未被识别时，会创建此资源块。
 
 ```csharp
 public sealed class UnknownResource : ResourceBlock
 ```
 
-## 特性
+## 属性
 
-| 姓名 | 描述 |
+| 名称 | 描述 |
 | --- | --- |
 | [Data](../../aspose.psd.fileformats.psd.resources/unknownresource/data/) { get; } | 获取资源数据。 |
-| override [DataSize](../../aspose.psd.fileformats.psd.resources/unknownresource/datasize/) { get; } | 获取以字节为单位的资源数据大小。 |
+| override [DataSize](../../aspose.psd.fileformats.psd.resources/unknownresource/datasize/) { get; } | 获取资源数据的字节大小。 |
 | [ID](../../aspose.psd.fileformats.psd/resourceblock/id/) { get; set; } | 获取或设置资源的唯一标识符。 |
-| override [MinimalVersion](../../aspose.psd.fileformats.psd.resources/unknownresource/minimalversion/) { get; } | 获取所需的最低 psd 版本。 |
-| [Name](../../aspose.psd.fileformats.psd/resourceblock/name/) { get; set; } | 获取或设置资源名称。 Pascal 字符串，填充以使大小均匀（空名称由两个字节 0 组成）. |
-| [Signature](../../aspose.psd.fileformats.psd/resourceblock/signature/) { get; } | 获取资源签名。应始终为“8BIM”. |
-| [Size](../../aspose.psd.fileformats.psd/resourceblock/size/) { get; } | 获取以字节为单位的资源块大小，包括其数据。 |
+| override [MinimalVersion](../../aspose.psd.fileformats.psd.resources/unknownresource/minimalversion/) { get; } | 获取所需的最低 PSD 版本。 |
+| [Name](../../aspose.psd.fileformats.psd/resourceblock/name/) { get; set; } | 获取或设置资源名称。Pascal 字符串，填充以使大小为偶数（空名称由两个字节的 0 组成）。 |
+| [Signature](../../aspose.psd.fileformats.psd/resourceblock/signature/) { get; } | 获取资源签名。应始终为 '8BIM'。 |
+| [Size](../../aspose.psd.fileformats.psd/resourceblock/size/) { get; } | 获取资源块的字节大小（包括其数据）。 |
 
 ## 方法
 
-| 姓名 | 描述 |
+| 名称 | 描述 |
 | --- | --- |
-| [Save](../../aspose.psd.fileformats.psd/resourceblock/save/)(StreamContainer) | 将资源块保存到指定的流中。 |
+| [Save](../../aspose.psd.fileformats.psd/resourceblock/save/)(StreamContainer) | 将资源块保存到指定的流。 |
 | virtual [ValidateValues](../../aspose.psd.fileformats.psd/resourceblock/validatevalues/)() | 验证资源值。 |
 
-### 也可以看看
+### 另请参阅
 
 * class [ResourceBlock](../../aspose.psd.fileformats.psd/resourceblock/)
-* 命名空间 [Aspose.PSD.FileFormats.Psd.Resources](../../aspose.psd.fileformats.psd.resources/)
-* 部件 [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../)
 
 

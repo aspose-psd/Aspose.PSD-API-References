@@ -1,11 +1,12 @@
 ---
-title: RdOptimizerSettings.MaxPixelValue
-second_title: Aspose.PSD for .NET API 参考
-description: RdOptimizerSettings 财产. 获取最大像素值
+title: "RdOptimizerSettings.MaxPixelValue"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "RdOptimizerSettings 属性。获取最大像素值"
 type: docs
 weight: 60
 url: /zh/net/aspose.psd.imageoptions/rdoptimizersettings/maxpixelvalue/
 ---
+{{< psd/tize >}}
 ## RdOptimizerSettings.MaxPixelValue property
 
 获取最大像素值。
@@ -14,14 +15,14 @@ url: /zh/net/aspose.psd.imageoptions/rdoptimizersettings/maxpixelvalue/
 public int MaxPixelValue { get; }
 ```
 
-### 适当的价值
+### Property Value
 
 最大最大像素值。
 
-### 也可以看看
+### 另请参阅
 
 * class [RdOptimizerSettings](../)
-* 命名空间 [Aspose.PSD.ImageOptions](../../rdoptimizersettings/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

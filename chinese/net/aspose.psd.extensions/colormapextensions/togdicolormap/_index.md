@@ -1,32 +1,33 @@
 ---
-title: ColorMapExtensions.ToGdiColorMap
-second_title: Aspose.PSD for .NET API 参考
-description: ColorMapExtensions 方法. 转换ColorMap到ColorMap .
+title: "ColorMapExtensions.ToGdiColorMap"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "ColorMapExtensions 方法。将 ColorMap 转换为 ColorMap"
 type: docs
 weight: 10
 url: /zh/net/aspose.psd.extensions/colormapextensions/togdicolormap/
 ---
+{{< psd/tize >}}
 ## ColorMapExtensions.ToGdiColorMap method
 
-转换[`ColorMap`](../../../aspose.psd/colormap/)到ColorMap .
+将 [`ColorMap`](../../../aspose.psd/colormap/) 转换为 ColorMap。
 
 ```csharp
 public static ColorMap ToGdiColorMap(ColorMap colorMap)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| colorMap | ColorMap | 要转换的颜色图。 |
+| colorMap | ColorMap | 要转换的颜色映射。 |
 
 ### 返回值
 
-转换后的ColorMap .
+已转换的 ColorMap。
 
-### 也可以看看
+### 另请参阅
 
 * class [ColorMap](../../../aspose.psd/colormap/)
 * class [ColorMapExtensions](../)
-* 命名空间 [Aspose.PSD.Extensions](../../colormapextensions/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Extensions](../../../aspose.psd.extensions/)
+* assembly [Aspose.PSD](../../../)
 
 

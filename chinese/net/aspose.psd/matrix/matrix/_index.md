@@ -1,11 +1,12 @@
 ---
-title: Matrix.Matrix
-second_title: Aspose.PSD for .NET API 参考
-description: Matrix 构造函数. 将 Matrix 类的新实例初始化为单位矩阵
+title: "Matrix.Matrix"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "Matrix 构造函数。将 Matrix 类的新实例初始化为单位矩阵"
 type: docs
 weight: 10
 url: /zh/net/aspose.psd/matrix/matrix/
 ---
+{{< psd/tize >}}
 ## Matrix() {#constructor}
 
 将 Matrix 类的新实例初始化为单位矩阵。
@@ -14,101 +15,101 @@ url: /zh/net/aspose.psd/matrix/matrix/
 public Matrix()
 ```
 
-### 也可以看看
+### 另请参阅
 
 * class [Matrix](../)
-* 命名空间 [Aspose.PSD](../../matrix/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Matrix(float, float, float, float, float, float) {#constructor_4}
 
-初始化一个新的实例[`Matrix`](../)类.
+初始化一个 [`Matrix`](../) 类的新实例。
 
 ```csharp
 public Matrix(float m11, float m12, float m21, float m22, float m31, float m32)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| m11 | Single | m00 M11 刻度 X |
-| m12 | Single | m10 M12 剪切 Y |
-| m21 | Single | m01 M21 剪切 X |
-| m22 | Single | m11 M22 比例 Y |
-| m31 | Single | m02 M31 翻译 X |
-| m32 | Single | m12 M32 平移 Y |
+| m11 | 单精度 | m00 M11 缩放 X |
+| m12 | 单精度 | m10 M12 剪切 Y |
+| m21 | 单精度 | m01 M21 剪切 X |
+| m22 | 单精度 | m11 M22 缩放 Y |
+| m31 | 单精度 | m02 M31 平移 X |
+| m32 | 单精度 | m12 M32 平移 Y |
 
-### 也可以看看
+### 另请参阅
 
 * class [Matrix](../)
-* 命名空间 [Aspose.PSD](../../matrix/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Matrix(RectangleF, PointF[]) {#constructor_3}
 
-初始化一个新的实例[`Matrix`](../)类到由指定矩形和点数组定义的几何变换。
+初始化一个新的 [`Matrix`](../) 类实例，以进行由指定矩形和点数组定义的几何变换。
 
 ```csharp
 public Matrix(RectangleF rect, PointF[] plgpts)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| rect | RectangleF | A[`RectangleF`](../../rectanglef/)表示要转换的矩形的结构。 |
-| plgpts | PointF[] | 三个数组[`PointF`](../../pointf/)代表平行四边形的点的结构，矩形的左上角、右上角和左下角要转换到这些点。平行四边形的右下角由前三个角暗示。 |
+| rect | RectangleF | 一个表示待变换矩形的 [`RectangleF`](../../rectanglef/) 结构。 |
+| plgpts | PointF[] | 一个包含三个 [`PointF`](../../pointf/) 结构的数组，表示要将矩形的左上、右上和左下角变换到的平行四边形的点。平行四边形的右下角由前面三个角隐含。 |
 
-### 也可以看看
+### 另请参阅
 
 * struct [RectangleF](../../rectanglef/)
 * struct [PointF](../../pointf/)
 * class [Matrix](../)
-* 命名空间 [Aspose.PSD](../../matrix/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Matrix(Rectangle, Point[]) {#constructor_2}
 
-初始化一个新的实例[`Matrix`](../)类到由指定矩形和点数组定义的几何变换。
+初始化一个新的 [`Matrix`](../) 类实例，以进行由指定矩形和点数组定义的几何变换。
 
 ```csharp
 public Matrix(Rectangle rect, Point[] plgpts)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| rect | Rectangle | A[`Rectangle`](../../rectangle/)表示要转换的矩形的结构。 |
-| plgpts | Point[] | 三个数组[`Point`](../../point/)代表平行四边形的点的结构，矩形的左上角、右上角和左下角要转换到这些点。平行四边形的右下角由前三个角暗示。 |
+| rect | Rectangle | 一个表示待变换矩形的 [`Rectangle`](../../rectangle/) 结构。 |
+| plgpts | Point[] | 一个包含三个 [`Point`](../../point/) 结构的数组，表示要将矩形的左上、右上和左下角变换到的平行四边形的点。平行四边形的右下角由前面三个角隐含。 |
 
-### 也可以看看
+### 另请参阅
 
 * struct [Rectangle](../../rectangle/)
 * struct [Point](../../point/)
 * class [Matrix](../)
-* 命名空间 [Aspose.PSD](../../matrix/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Matrix(Matrix) {#constructor_1}
 
-复制[`Matrix`](../)类.
+创建 [`Matrix`](../) 类的副本。
 
 ```csharp
 public Matrix(Matrix origin)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| origin | Matrix | 应对的基础矩阵 |
+| origin | 矩阵 | 用于复制的基础矩阵 |
 
-### 也可以看看
+### 另请参阅
 
 * class [Matrix](../)
-* 命名空间 [Aspose.PSD](../../matrix/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,53 +1,54 @@
 ---
-title: DublinCorePackage.SetPublisher
-second_title: Aspose.PSD for .NET API 参考
-description: DublinCorePackage 方法. 添加发布者
+title: "DublinCorePackage.SetPublisher"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "DublinCorePackage 方法。添加发布者"
 type: docs
 weight: 50
 url: /zh/net/aspose.psd.xmp.schemas.dublincore/dublincorepackage/setpublisher/
 ---
+{{< psd/tize >}}
 ## SetPublisher(string) {#setpublisher}
 
-添加发布者。
+添加出版商。
 
 ```csharp
 public void SetPublisher(string publisher)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| publisher | String | 出版商。 |
+| 发布者 | String | 发布者。 |
 
-### 也可以看看
+### 另请参阅
 
 * class [DublinCorePackage](../)
-* 命名空间 [Aspose.PSD.Xmp.Schemas.DublinCore](../../dublincorepackage/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.DublinCore](../../../aspose.psd.xmp.schemas.dublincore/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## SetPublisher(string[]) {#setpublisher_1}
 
-添加发布者。
+添加出版商。
 
 ```csharp
 public void SetPublisher(string[] publisher)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| publisher | String[] | 出版商。 |
+| 发布者 | String[] | 发布者。 |
 
-### 例外
+### 异常
 
-| 例外 | （健康）状况 |
+| 异常 | 条件 |
 | --- | --- |
-| ArgumentNullException | 出版商 |
+| ArgumentNullException | 发布者 |
 
-### 也可以看看
+### 另请参阅
 
 * class [DublinCorePackage](../)
-* 命名空间 [Aspose.PSD.Xmp.Schemas.DublinCore](../../dublincorepackage/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.DublinCore](../../../aspose.psd.xmp.schemas.dublincore/)
+* assembly [Aspose.PSD](../../../)
 
 

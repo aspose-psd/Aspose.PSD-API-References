@@ -1,14 +1,15 @@
 ---
-title: PointF.ToString
-second_title: Aspose.PSD for .NET API 参考
-description: PointF 方法. 转换这个PointF到人类可读的字符串.
+title: "PointF.ToString"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "PointF 方法。将此 PointF 转换为可读的字符串。"
 type: docs
 weight: 100
 url: /zh/net/aspose.psd/pointf/tostring/
 ---
+{{< psd/tize >}}
 ## PointF.ToString method
 
-转换这个[`PointF`](../)到人类可读的字符串.
+将此 [`PointF`](../) 转换为可读的字符串。
 
 ```csharp
 public override string ToString()
@@ -16,12 +17,12 @@ public override string ToString()
 
 ### 返回值
 
-表示这个的字符串[`PointF`](../).
+表示此 [`PointF`](../) 的字符串。
 
-### 也可以看看
+### 另请参阅
 
 * struct [PointF](../)
-* 命名空间 [Aspose.PSD](../../pointf/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,26 +1,27 @@
 ---
-title: Delegate ProgressEventHandler
-second_title: Aspose.PSD for .NET API 参考
-description: 进度事件处理函数参考
+title: "委托 ProgressEventHandler"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "进度事件处理函数引用"
 type: docs
-weight: 5280
+weight: 5780
 url: /zh/net/aspose.psd/progresseventhandler/
 ---
+{{< psd/tize >}}
 ## ProgressEventHandler delegate
 
-进度事件处理函数参考
+进度事件处理函数引用
 
 ```csharp
 public delegate void ProgressEventHandler(ProgressEventHandlerInfo info);
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| info | ProgressEventHandlerInfo | 进度事件处理程序数据。 |
+| 信息 | ProgressEventHandlerInfo | 进度事件处理程序数据。 |
 
-### 例子
+## 示例
 
-以下示例演示文档转换进度正常且无异常。
+以下示例演示文档转换进度正常工作且没有异常。
 
 ```csharp
 [C#]
@@ -64,10 +65,10 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath, loadOptions))
 }
 ```
 
-### 也可以看看
+### 另请参阅
 
 * class [ProgressEventHandlerInfo](../../aspose.psd.progressmanagement/progresseventhandlerinfo/)
-* 命名空间 [Aspose.PSD](../../aspose.psd/)
-* 部件 [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

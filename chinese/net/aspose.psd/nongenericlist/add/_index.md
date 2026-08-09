@@ -1,31 +1,32 @@
 ---
-title: NonGenericList.Add
-second_title: Aspose.PSD for .NET API 参考
-description: NonGenericList 方法. 添加一个项目到IList .
+title: "NonGenericList.Add"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "NonGenericList 方法。向 IList 添加项。"
 type: docs
 weight: 80
 url: /zh/net/aspose.psd/nongenericlist/add/
 ---
+{{< psd/tize >}}
 ## NonGenericList.Add method
 
-添加一个项目到IList .
+向 IList 添加项。
 
 ```csharp
 public int Add(object value)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| value | Object | 这Object添加到IList. |
+| 值 | Object | 要添加到 IList 的对象。 |
 
 ### 返回值
 
-插入新元素的位置。
+新元素被插入的位置。
 
-### 也可以看看
+### 另请参阅
 
 * class [NonGenericList](../)
-* 命名空间 [Aspose.PSD](../../nongenericlist/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

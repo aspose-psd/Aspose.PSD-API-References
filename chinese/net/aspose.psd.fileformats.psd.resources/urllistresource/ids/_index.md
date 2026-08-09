@@ -1,27 +1,28 @@
 ---
-title: UrlListResource.Ids
-second_title: Aspose.PSD for .NET API 参考
-description: UrlListResource 财产. 获取或设置 ids.
+title: "UrlListResource.Ids"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "UrlListResource 属性。获取或设置 ids"
 type: docs
 weight: 40
 url: /zh/net/aspose.psd.fileformats.psd.resources/urllistresource/ids/
 ---
+{{< psd/tize >}}
 ## UrlListResource.Ids property
 
-获取或设置 ids.
+获取或设置 ID。
 
 ```csharp
 public int[] Ids { get; set; }
 ```
 
-### 适当的价值
+### Property Value
 
-ids.
+这些 ids。
 
-### 也可以看看
+### 另请参阅
 
 * class [UrlListResource](../)
-* 命名空间 [Aspose.PSD.FileFormats.Psd.Resources](../../urllistresource/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

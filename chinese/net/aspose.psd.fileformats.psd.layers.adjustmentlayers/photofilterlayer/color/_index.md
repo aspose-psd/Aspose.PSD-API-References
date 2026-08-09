@@ -1,28 +1,29 @@
 ---
-title: PhotoFilterLayer.Color
-second_title: Aspose.PSD for .NET API 参考
-description: PhotoFilterLayer 财产. 获取或设置过滤器的 RGB 颜色
+title: "PhotoFilterLayer.Color"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "PhotoFilterLayer 属性。获取或设置滤镜的 RGB 颜色"
 type: docs
 weight: 10
 url: /zh/net/aspose.psd.fileformats.psd.layers.adjustmentlayers/photofilterlayer/color/
 ---
+{{< psd/tize >}}
 ## PhotoFilterLayer.Color property
 
-获取或设置过滤器的 RGB 颜色。
+获取或设置滤镜的 RGB 颜色。
 
 ```csharp
 public Color Color { get; set; }
 ```
 
-### 适当的价值
+### Property Value
 
-颜色.
+颜色。
 
-### 也可以看看
+### 另请参阅
 
 * struct [Color](../../../aspose.psd/color/)
 * class [PhotoFilterLayer](../)
-* 命名空间 [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../photofilterlayer/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/)
+* assembly [Aspose.PSD](../../../)
 
 

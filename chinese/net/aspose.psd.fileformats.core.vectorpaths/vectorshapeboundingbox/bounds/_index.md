@@ -1,28 +1,29 @@
 ---
-title: VectorShapeBoundingBox.Bounds
-second_title: Aspose.PSD for .NET API 参考
-description: VectorShapeBoundingBox 财产. 获取或设置形状边界框的边界
+title: "VectorShapeBoundingBox.Bounds"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "VectorShapeBoundingBox 属性。获取或设置形状边界框的边界"
 type: docs
 weight: 30
 url: /zh/net/aspose.psd.fileformats.core.vectorpaths/vectorshapeboundingbox/bounds/
 ---
+{{< psd/tize >}}
 ## VectorShapeBoundingBox.Bounds property
 
-获取或设置形状边界框的边界。
+获取或设置形状边界框的范围。
 
 ```csharp
 public Rectangle Bounds { get; set; }
 ```
 
-### 适当的价值
+### Property Value
 
-形状边界框边界。
+形状边界框的边界。
 
-### 也可以看看
+### 另请参阅
 
 * struct [Rectangle](../../../aspose.psd/rectangle/)
 * class [VectorShapeBoundingBox](../)
-* 命名空间 [Aspose.PSD.FileFormats.Core.VectorPaths](../../vectorshapeboundingbox/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../../)
 
 

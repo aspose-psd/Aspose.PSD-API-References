@@ -1,22 +1,23 @@
 ---
-title: Aspose.PSD.FileFormats.Jpeg2000
-second_title: Aspose.PSD for .NET API 参考
-description: 命名空间处理Jpeg2000文件格式处理
+title: "Aspose.PSD.FileFormats.Jpeg2000"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "该命名空间处理 Jpeg2000 文件格式的解析"
 type: docs
-weight: 170
+weight: 180
 url: /zh/net/aspose.psd.fileformats.jpeg2000/
 ---
-命名空间处理Jpeg2000文件格式处理。
+{{< psd/tize >}}
+该命名空间处理 Jpeg2000 文件格式。
 
-## 课程
+## 类
 
-| 班级 | 描述 |
+| 类 | 描述 |
 | --- | --- |
-| [Jpeg2000CustomException](./jpeg2000customexception/) | Jpeg2000 OpenJpeg 代码生成异常 |
+| [Jpeg2000CustomException](./jpeg2000customexception/) | Jpeg2000 OpenJpeg 代码生成的异常 |
 ## 枚举
 
 | 枚举 | 描述 |
 | --- | --- |
-| [Jpeg2000Codec](./jpeg2000codec/) | 代表JPEG2000图像类型 |
+| [Jpeg2000Codec](./jpeg2000codec/) | 表示 JPEG2000 图像类型 |
 
 

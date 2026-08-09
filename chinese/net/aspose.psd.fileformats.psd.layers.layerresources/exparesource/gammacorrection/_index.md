@@ -1,27 +1,28 @@
 ---
-title: ExpaResource.GammaCorrection
-second_title: Aspose.PSD for .NET API 参考
-description: ExpaResource 财产. 获取或设置伽马
+title: "ExpaResource.GammaCorrection"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "ExpaResource 属性。获取或设置伽马"
 type: docs
 weight: 30
 url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources/exparesource/gammacorrection/
 ---
+{{< psd/tize >}}
 ## ExpaResource.GammaCorrection property
 
-获取或设置伽马。
+获取或设置伽马值。
 
 ```csharp
 public float GammaCorrection { get; set; }
 ```
 
-### 适当的价值
+### Property Value
 
-伽马。
+该伽马。
 
-### 也可以看看
+### 另请参阅
 
 * class [ExpaResource](../)
-* 命名空间 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../exparesource/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

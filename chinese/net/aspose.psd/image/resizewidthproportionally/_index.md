@@ -1,28 +1,29 @@
 ---
-title: Image.ResizeWidthProportionally
-second_title: Aspose.PSD for .NET API 参考
-description: Image 方法. 按比例调整宽度
+title: "Image.ResizeWidthProportionally"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "Image 方法。按比例调整宽度。使用默认的 NearestNeighbourResample。"
 type: docs
-weight: 210
+weight: 220
 url: /zh/net/aspose.psd/image/resizewidthproportionally/
 ---
+{{< psd/tize >}}
 ## ResizeWidthProportionally(int) {#resizewidthproportionally}
 
-按比例调整宽度。
+按比例调整宽度。使用默认的 NearestNeighbourResample。
 
 ```csharp
 public void ResizeWidthProportionally(int newWidth)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
 | newWidth | Int32 | 新的宽度。 |
 
-### 也可以看看
+### 另请参阅
 
 * class [Image](../)
-* 命名空间 [Aspose.PSD](../../image/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
@@ -34,17 +35,17 @@ public void ResizeWidthProportionally(int newWidth)
 public virtual void ResizeWidthProportionally(int newWidth, ResizeType resizeType)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
 | newWidth | Int32 | 新的宽度。 |
 | resizeType | ResizeType | 调整大小的类型。 |
 
-### 也可以看看
+### 另请参阅
 
 * enum [ResizeType](../../resizetype/)
 * class [Image](../)
-* 命名空间 [Aspose.PSD](../../image/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
@@ -56,16 +57,16 @@ public virtual void ResizeWidthProportionally(int newWidth, ResizeType resizeTyp
 public virtual void ResizeWidthProportionally(int newWidth, ImageResizeSettings settings)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
 | newWidth | Int32 | 新的宽度。 |
-| settings | ImageResizeSettings | 图像调整大小设置。 |
+| 设置 | ImageResizeSettings | 图像调整大小的设置。 |
 
-### 也可以看看
+### 另请参阅
 
 * class [ImageResizeSettings](../../imageresizesettings/)
 * class [Image](../)
-* 命名空间 [Aspose.PSD](../../image/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

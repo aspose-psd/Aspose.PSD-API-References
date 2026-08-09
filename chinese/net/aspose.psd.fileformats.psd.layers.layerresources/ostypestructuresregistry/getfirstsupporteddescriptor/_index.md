@@ -1,36 +1,37 @@
 ---
-title: OSTypeStructuresRegistry.GetFirstSupportedDescriptor
-second_title: Aspose.PSD for .NET API 参考
-description: OSTypeStructuresRegistry 方法. 获取第一个支持的开启者描述符
+title: "OSTypeStructuresRegistry.GetFirstSupportedDescriptor"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "OSTypeStructuresRegistry 方法。获取第一个受支持的打开器描述符。"
 type: docs
 weight: 20
 url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources/ostypestructuresregistry/getfirstsupporteddescriptor/
 ---
+{{< psd/tize >}}
 ## OSTypeStructuresRegistry.GetFirstSupportedDescriptor method
 
-获取第一个支持的开启者描述符。
+获取第一个受支持的打开器描述符。
 
 ```csharp
 public static IOSTypeStructureLoader GetFirstSupportedDescriptor(Stream stream)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| stream | Stream | 流。 |
+| 流 | 流 | 流。 |
 
 ### 返回值
 
-层资源加载器描述符，如果没有加载器描述符支持此类流，则为 null。
+层资源加载器描述符，如果该流没有支持的加载器描述符则返回 null。
 
-### 评论
+## 备注
 
-第一个加载器实际上是最后一个注册的。
+第一个加载器实际上是最后注册的。
 
-### 也可以看看
+### 另请参阅
 
 * interface [IOSTypeStructureLoader](../../iostypestructureloader/)
 * class [OSTypeStructuresRegistry](../)
-* 命名空间 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../ostypestructuresregistry/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

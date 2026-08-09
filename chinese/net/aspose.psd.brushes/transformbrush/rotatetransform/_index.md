@@ -1,49 +1,50 @@
 ---
-title: TransformBrush.RotateTransform
-second_title: Aspose.PSD for .NET API 参考
-description: TransformBrush 方法. 按指定量旋转局部几何变换此方法将旋转添加到 transform.
+title: "TransformBrush.RotateTransform"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "TransformBrush 方法。按指定量旋转局部几何变换。此方法将在变换前添加旋转。"
 type: docs
 weight: 60
 url: /zh/net/aspose.psd.brushes/transformbrush/rotatetransform/
 ---
+{{< psd/tize >}}
 ## RotateTransform(float) {#rotatetransform}
 
-按指定量旋转局部几何变换。此方法将旋转添加到 transform.
+按指定的角度旋转本地几何变换。此方法将旋转前置到变换中。
 
 ```csharp
 public void RotateTransform(float angle)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| angle | Single | 旋转的角度。 |
+| 角度 | 单精度 | 旋转角度。 |
 
-### 也可以看看
+### 另请参阅
 
 * class [TransformBrush](../)
-* 命名空间 [Aspose.PSD.Brushes](../../transformbrush/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## RotateTransform(float, MatrixOrder) {#rotatetransform_1}
 
-按指定顺序按指定量旋转局部几何变换。
+按指定的角度并按照指定的顺序旋转本地几何变换。
 
 ```csharp
 public void RotateTransform(float angle, MatrixOrder order)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| angle | Single | 旋转的角度。 |
-| order | MatrixOrder | A[`MatrixOrder`](../../../aspose.psd/matrixorder/)指定是否附加或前置旋转矩阵。 |
+| 角度 | 单精度 | 旋转角度。 |
+| order | MatrixOrder | 一个指定是追加还是预先追加旋转矩阵的 [`MatrixOrder`](../../../aspose.psd/matrixorder/)。 |
 
-### 也可以看看
+### 另请参阅
 
 * enum [MatrixOrder](../../../aspose.psd/matrixorder/)
 * class [TransformBrush](../)
-* 命名空间 [Aspose.PSD.Brushes](../../transformbrush/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
+* assembly [Aspose.PSD](../../../)
 
 

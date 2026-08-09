@@ -1,11 +1,12 @@
 ---
-title: ColorHalftoneInformationResource.HalftoneData
-second_title: Aspose.PSD for .NET API 参考
-description: ColorHalftoneInformationResource 财产. 获取或设置半色调数据
+title: "ColorHalftoneInformationResource.HalftoneData"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "ColorHalftoneInformationResource 属性。获取或设置半色调数据"
 type: docs
 weight: 30
 url: /zh/net/aspose.psd.fileformats.psd.resources/colorhalftoneinformationresource/halftonedata/
 ---
+{{< psd/tize >}}
 ## ColorHalftoneInformationResource.HalftoneData property
 
 获取或设置半色调数据。
@@ -14,14 +15,14 @@ url: /zh/net/aspose.psd.fileformats.psd.resources/colorhalftoneinformationresour
 public byte[] HalftoneData { get; set; }
 ```
 
-### 适当的价值
+### Property Value
 
 半色调数据。
 
-### 也可以看看
+### 另请参阅
 
 * class [ColorHalftoneInformationResource](../)
-* 命名空间 [Aspose.PSD.FileFormats.Psd.Resources](../../colorhalftoneinformationresource/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

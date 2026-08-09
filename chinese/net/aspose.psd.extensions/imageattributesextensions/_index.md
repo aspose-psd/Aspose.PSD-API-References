@@ -1,14 +1,15 @@
 ---
-title: Class ImageAttributesExtensions
-second_title: Aspose.PSD for .NET API 参考
-description: Aspose.PSD.Extensions.ImageAttributesExtensions 班级. 包含扩展方法ImageAttributes和ImageAttributes .
+title: "类 ImageAttributesExtensions"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "Aspose.PSD.Extensions.ImageAttributesExtensions 类。包含 ImageAttributes 和 ImageAttributes 的扩展方法。"
 type: docs
-weight: 1110
+weight: 1120
 url: /zh/net/aspose.psd.extensions/imageattributesextensions/
 ---
+{{< psd/tize >}}
 ## ImageAttributesExtensions class
 
-包含扩展方法[`ImageAttributes`](../../aspose.psd/imageattributes/)和ImageAttributes .
+包含针对 [`ImageAttributes`](../../aspose.psd/imageattributes/) 和 ImageAttributes 的扩展方法。
 
 ```csharp
 public static class ImageAttributesExtensions
@@ -16,13 +17,13 @@ public static class ImageAttributesExtensions
 
 ## 方法
 
-| 姓名 | 描述 |
+| 名称 | 描述 |
 | --- | --- |
-| static [ToGdiImageAttributes](../../aspose.psd.extensions/imageattributesextensions/togdiimageattributes/)(ImageAttributes) | 转换[`ImageAttributes`](../../aspose.psd/imageattributes/)到ImageAttributes . |
+| static [ToGdiImageAttributes](../../aspose.psd.extensions/imageattributesextensions/togdiimageattributes/)(ImageAttributes) | 将 [`ImageAttributes`](../../aspose.psd/imageattributes/) 转换为 ImageAttributes。 |
 
-### 也可以看看
+### 另请参阅
 
-* 命名空间 [Aspose.PSD.Extensions](../../aspose.psd.extensions/)
-* 部件 [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Extensions](../../aspose.psd.extensions/)
+* assembly [Aspose.PSD](../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: XmpDynamicMediaPackage.SetGenre
-second_title: Aspose.PSD for .NET API 参考
-description: XmpDynamicMediaPackage 方法. 设置类型
+title: "XmpDynamicMediaPackage.SetGenre"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "XmpDynamicMediaPackage 方法。设置流派"
 type: docs
 weight: 220
 url: /zh/net/aspose.psd.xmp.schemas.xmpdm/xmpdynamicmediapackage/setgenre/
 ---
+{{< psd/tize >}}
 ## XmpDynamicMediaPackage.SetGenre method
 
-设置类型。
+设置流派。
 
 ```csharp
 public void SetGenre(string genre)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| genre | String | 流派。 |
+| 流派 | String | 流派。 |
 
-### 也可以看看
+### 另请参阅
 
 * class [XmpDynamicMediaPackage](../)
-* 命名空间 [Aspose.PSD.Xmp.Schemas.XmpDm](../../xmpdynamicmediapackage/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpDm](../../../aspose.psd.xmp.schemas.xmpdm/)
+* assembly [Aspose.PSD](../../../)
 
 

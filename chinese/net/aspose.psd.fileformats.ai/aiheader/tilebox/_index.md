@@ -1,28 +1,29 @@
 ---
-title: AiHeader.TileBox
-second_title: Aspose.PSD for .NET API 参考
-description: AiHeader 财产. 获取或设置图块框
+title: "AiHeader.TileBox"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "AiHeader 属性。获取或设置瓦片框"
 type: docs
 weight: 110
 url: /zh/net/aspose.psd.fileformats.ai/aiheader/tilebox/
 ---
+{{< psd/tize >}}
 ## AiHeader.TileBox property
 
-获取或设置图块框。
+获取或设置平铺框。
 
 ```csharp
 public RectangleF TileBox { get; set; }
 ```
 
-### 适当的价值
+### Property Value
 
-瓦盒.
+瓦片框。
 
-### 也可以看看
+### 另请参阅
 
 * struct [RectangleF](../../../aspose.psd/rectanglef/)
 * class [AiHeader](../)
-* 命名空间 [Aspose.PSD.FileFormats.Ai](../../aiheader/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: MixrResource.Key
-second_title: Aspose.PSD for .NET API 参考
-description: MixrResource 财产. 获取图层资源键
+title: "MixrResource.Key"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "MixrResource 属性。获取图层资源键"
 type: docs
 weight: 20
 url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources/mixrresource/key/
 ---
+{{< psd/tize >}}
 ## MixrResource.Key property
 
 获取图层资源键。
@@ -14,10 +15,10 @@ url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources/mixrresource/key/
 public override int Key { get; }
 ```
 
-### 也可以看看
+### 另请参阅
 
 * class [MixrResource](../)
-* 命名空间 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../mixrresource/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

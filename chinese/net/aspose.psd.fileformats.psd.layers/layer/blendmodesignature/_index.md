@@ -1,11 +1,12 @@
 ---
-title: Layer.BlendModeSignature
-second_title: Aspose.PSD for .NET API 参考
-description: Layer 财产. 获取混合模式签名
+title: "Layer.BlendModeSignature"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "Layer 属性。获取混合模式签名"
 type: docs
-weight: 50
+weight: 60
 url: /zh/net/aspose.psd.fileformats.psd.layers/layer/blendmodesignature/
 ---
+{{< psd/tize >}}
 ## Layer.BlendModeSignature property
 
 获取混合模式签名。
@@ -14,14 +15,14 @@ url: /zh/net/aspose.psd.fileformats.psd.layers/layer/blendmodesignature/
 public int BlendModeSignature { get; }
 ```
 
-### 适当的价值
+### Property Value
 
 混合模式签名。
 
-### 也可以看看
+### 另请参阅
 
 * class [Layer](../)
-* 命名空间 [Aspose.PSD.FileFormats.Psd.Layers](../../layer/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

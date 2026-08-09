@@ -1,27 +1,28 @@
 ---
-title: LayerMaskDataFull.EnclosingLeft
-second_title: Aspose.PSD for .NET API 参考
-description: LayerMaskDataFull 财产. 获取或设置 PSD 文件图层中封闭的左栅格蒙版位置
+title: "LayerMaskDataFull.EnclosingLeft"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "LayerMaskDataFull 属性。获取或设置 PSD 文件图层中包围左侧光栅蒙版的位置"
 type: docs
 weight: 40
 url: /zh/net/aspose.psd.fileformats.psd.layers/layermaskdatafull/enclosingleft/
 ---
+{{< psd/tize >}}
 ## LayerMaskDataFull.EnclosingLeft property
 
-获取或设置 PSD 文件图层中封闭的左栅格蒙版位置。
+获取或设置 PSD 文件图层中包围的左侧光栅蒙版位置。
 
 ```csharp
 public int EnclosingLeft { get; set; }
 ```
 
-### 适当的价值
+### Property Value
 
-左边图层蒙板位置.
+左侧图层蒙版位置。
 
-### 也可以看看
+### 另请参阅
 
 * class [LayerMaskDataFull](../)
-* 命名空间 [Aspose.PSD.FileFormats.Psd.Layers](../../layermaskdatafull/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

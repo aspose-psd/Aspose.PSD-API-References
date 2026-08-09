@@ -1,27 +1,28 @@
 ---
-title: RasterCachedImage.IsCached
-second_title: Aspose.PSD for .NET API 参考
-description: RasterCachedImage 财产. 获取当前是否缓存图像数据的值
+title: "RasterCachedImage.IsCached"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "RasterCachedImage 属性。获取一个值，指示当前图像数据是否已缓存"
 type: docs
 weight: 10
 url: /zh/net/aspose.psd/rastercachedimage/iscached/
 ---
+{{< psd/tize >}}
 ## RasterCachedImage.IsCached property
 
-获取当前是否缓存图像数据的值。
+获取一个值，指示图像数据当前是否已缓存。
 
 ```csharp
 public override bool IsCached { get; }
 ```
 
-### 适当的价值
+### Property Value
 
-`真的`图像数据是否被缓存；否则，`错误的` .
+`true` 表示图像数据已缓存；否则为 `false`。
 
-### 也可以看看
+### 另请参阅
 
 * class [RasterCachedImage](../)
-* 命名空间 [Aspose.PSD](../../rastercachedimage/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

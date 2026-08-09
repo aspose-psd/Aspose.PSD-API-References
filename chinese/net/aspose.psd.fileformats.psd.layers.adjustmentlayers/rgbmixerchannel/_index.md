@@ -1,22 +1,23 @@
 ---
-title: Class RgbMixerChannel
-second_title: Aspose.PSD for .NET API 参考
-description: Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers.RgbMixerChannel 班级. Rgb 通道它是通道原始数据的包装器在 MixrResource 中使用
+title: "类 RgbMixerChannel"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers.RgbMixerChannel 类。RgbChannel。其用于通道原始数据的包装器。用于 MixrResource"
 type: docs
-weight: 1820
+weight: 1890
 url: /zh/net/aspose.psd.fileformats.psd.layers.adjustmentlayers/rgbmixerchannel/
 ---
+{{< psd/tize >}}
 ## RgbMixerChannel class
 
-Rgb 通道。它是通道原始数据的包装器。在 MixrResource 中使用
+RgbChannel。它是通道原始数据的包装器。用于 MixrResource
 
 ```csharp
 public class RgbMixerChannel : MixerChannel
 ```
 
-## 特性
+## 属性
 
-| 姓名 | 描述 |
+| 名称 | 描述 |
 | --- | --- |
 | [Blue](../../aspose.psd.fileformats.psd.layers.adjustmentlayers/rgbmixerchannel/blue/) { get; set; } | 获取或设置蓝色。 |
 | [Constant](../../aspose.psd.fileformats.psd.layers.adjustmentlayers/mixerchannel/constant/) { get; set; } | 获取或设置通道的常量。 |
@@ -25,14 +26,14 @@ public class RgbMixerChannel : MixerChannel
 
 ## 方法
 
-| 姓名 | 描述 |
+| 名称 | 描述 |
 | --- | --- |
 | [GetRawData](../../aspose.psd.fileformats.psd.layers.adjustmentlayers/mixerchannel/getrawdata/)() | 获取原始数据。 |
 
-### 也可以看看
+### 另请参阅
 
 * class [MixerChannel](../mixerchannel/)
-* 命名空间 [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../aspose.psd.fileformats.psd.layers.adjustmentlayers/)
-* 部件 [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../aspose.psd.fileformats.psd.layers.adjustmentlayers/)
+* assembly [Aspose.PSD](../../)
 
 

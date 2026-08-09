@@ -1,11 +1,12 @@
 ---
-title: PatternFillSettings.PatternHeight
-second_title: Aspose.PSD for .NET API 参考
-description: PatternFillSettings 财产. 获取或设置图案的高度
+title: "PatternFillSettings.PatternHeight"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "PatternFillSettings 属性。获取或设置图案的高度"
 type: docs
-weight: 70
+weight: 90
 url: /zh/net/aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings/patternheight/
 ---
+{{< psd/tize >}}
 ## PatternFillSettings.PatternHeight property
 
 获取或设置图案的高度。
@@ -14,13 +15,13 @@ url: /zh/net/aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings/
 public int PatternHeight { get; set; }
 ```
 
-### 适当的价值
+### Property Value
 
 图案的高度。
 
-### 例子
+## 示例
 
-以下代码演示了对 Fill Layer Pattern 编辑的支持。
+以下代码演示了对填充图层图案编辑的支持。
 
 ```csharp
 [C#]
@@ -52,7 +53,7 @@ using (im)
                 throw new Exception("PSD Image was read wrong");
             }
 
-            // 编辑 
+            // 编辑
             fillSettings.Scale = 300;
             fillSettings.HorizontalOffset = 2;
             fillSettings.VerticalOffset = -20;
@@ -75,10 +76,10 @@ using (im)
 }
 ```
 
-### 也可以看看
+### 另请参阅
 
 * class [PatternFillSettings](../)
-* 命名空间 [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../patternfillsettings/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../../)
 
 

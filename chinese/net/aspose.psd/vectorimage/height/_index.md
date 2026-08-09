@@ -1,11 +1,12 @@
 ---
-title: VectorImage.Height
-second_title: Aspose.PSD for .NET API 参考
-description: VectorImage 财产. 获取图像高度
+title: "VectorImage.Height"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "VectorImage 属性。获取图像的高度"
 type: docs
 weight: 10
 url: /zh/net/aspose.psd/vectorimage/height/
 ---
+{{< psd/tize >}}
 ## VectorImage.Height property
 
 获取图像高度。
@@ -14,14 +15,14 @@ url: /zh/net/aspose.psd/vectorimage/height/
 public override int Height { get; }
 ```
 
-### 适当的价值
+### Property Value
 
-图像高度.
+图像高度。
 
-### 也可以看看
+### 另请参阅
 
 * class [VectorImage](../)
-* 命名空间 [Aspose.PSD](../../vectorimage/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

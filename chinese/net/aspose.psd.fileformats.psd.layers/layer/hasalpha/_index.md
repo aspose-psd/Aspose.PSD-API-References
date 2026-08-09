@@ -1,27 +1,28 @@
 ---
-title: Layer.HasAlpha
-second_title: Aspose.PSD for .NET API 参考
-description: Layer 财产. 获取一个值指示此实例是否具有 alpha.
+title: "Layer.HasAlpha"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "Layer 属性。获取一个值，指示此实例是否具有 alpha"
 type: docs
-weight: 150
+weight: 160
 url: /zh/net/aspose.psd.fileformats.psd.layers/layer/hasalpha/
 ---
+{{< psd/tize >}}
 ## Layer.HasAlpha property
 
-获取一个值，指示此实例是否具有 alpha.
+获取一个值，指示此实例是否具有 alpha 通道。
 
 ```csharp
 public override bool HasAlpha { get; }
 ```
 
-### 适当的价值
+### Property Value
 
-`真的`如果这个实例有 alpha；否则，`错误的` .
+`true` 如果此实例具有 alpha；否则为 `false`。
 
-### 也可以看看
+### 另请参阅
 
 * class [Layer](../)
-* 命名空间 [Aspose.PSD.FileFormats.Psd.Layers](../../layer/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

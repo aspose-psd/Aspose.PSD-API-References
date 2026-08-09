@@ -1,11 +1,12 @@
 ---
-title: XmpBasicPackage.AddValue
-second_title: Aspose.PSD for .NET API 参考
-description: XmpBasicPackage 方法. 添加字符串属性
+title: "XmpBasicPackage.AddValue"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "XmpBasicPackage 方法。添加字符串属性"
 type: docs
-weight: 20
+weight: 30
 url: /zh/net/aspose.psd.xmp.schemas.xmpbaseschema/xmpbasicpackage/addvalue/
 ---
+{{< psd/tize >}}
 ## XmpBasicPackage.AddValue method
 
 添加字符串属性。
@@ -14,21 +15,21 @@ url: /zh/net/aspose.psd.xmp.schemas.xmpbaseschema/xmpbasicpackage/addvalue/
 public override void AddValue(string key, string value)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| key | String | 用附加值标识的键的字符串表示形式。 |
-| value | String | 字符串值。 |
+| 键 | String | 标识已添加值的键的字符串表示形式。 |
+| 值 | String | 字符串值。 |
 
-### 例外
+### 异常
 
-| 例外 | （健康）状况 |
+| 异常 | 条件 |
 | --- | --- |
-| ArgumentNullException | 键；未提供元数据键 |
+| ArgumentNullException | key;未提供元数据键 |
 
-### 也可以看看
+### 另请参阅
 
 * class [XmpBasicPackage](../)
-* 命名空间 [Aspose.PSD.Xmp.Schemas.XmpBaseSchema](../../xmpbasicpackage/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpBaseSchema](../../../aspose.psd.xmp.schemas.xmpbaseschema/)
+* assembly [Aspose.PSD](../../../)
 
 

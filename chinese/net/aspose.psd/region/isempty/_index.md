@@ -1,38 +1,39 @@
 ---
-title: Region.IsEmpty
-second_title: Aspose.PSD for .NET API 参考
-description: Region 方法. 测试这是否Region在指定的绘图表面上有一个空的内部
+title: "Region.IsEmpty"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "Region 方法。测试此 Region 在指定绘图表面上是否具有空的内部"
 type: docs
-weight: 70
+weight: 80
 url: /zh/net/aspose.psd/region/isempty/
 ---
+{{< psd/tize >}}
 ## Region.IsEmpty method
 
-测试这是否[`Region`](../)在指定的绘图表面上有一个空的内部。
+测试此 [`Region`](../) 在指定绘图表面上是否具有空的内部。
 
 ```csharp
 public bool IsEmpty(Graphics g)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| g | Graphics | A[`Graphics`](../../graphics/)表示绘图表面。 |
+| g | Graphics | 一个表示绘图表面的 [`Graphics`](../../graphics/)。 |
 
 ### 返回值
 
-如果内部为真[`Region`](../)当关联的转换为空时*g*被申请;被应用;否则为 false.
+如果在应用与 *g* 关联的变换时，此 [`Region`](../) 的内部为空，则为 true；否则为 false。
 
-### 例外
+### 异常
 
-| 例外 | （健康）状况 |
+| 异常 | 条件 |
 | --- | --- |
-| ArgumentNullException | *g*为空。 |
+| ArgumentNullException | *g* 为 null。 |
 
-### 也可以看看
+### 另请参阅
 
 * class [Graphics](../../graphics/)
 * class [Region](../)
-* 命名空间 [Aspose.PSD](../../region/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

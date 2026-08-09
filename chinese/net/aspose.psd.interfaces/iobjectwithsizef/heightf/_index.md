@@ -1,27 +1,28 @@
 ---
-title: IObjectWithSizeF.HeightF
-second_title: Aspose.PSD for .NET API 参考
-description: IObjectWithSizeF 财产. 获取对象高度以英寸为单位
+title: "IObjectWithSizeF.HeightF"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "IObjectWithSizeF 属性。获取对象的高度（英寸）"
 type: docs
 weight: 10
 url: /zh/net/aspose.psd.interfaces/iobjectwithsizef/heightf/
 ---
+{{< psd/tize >}}
 ## IObjectWithSizeF.HeightF property
 
-获取对象高度，以英寸为单位。
+获取对象的高度（英寸）。
 
 ```csharp
 public float HeightF { get; }
 ```
 
-### 适当的价值
+### Property Value
 
-对象高度，以英寸为单位。
+对象的高度（英寸）。
 
-### 也可以看看
+### 另请参阅
 
 * interface [IObjectWithSizeF](../)
-* 命名空间 [Aspose.PSD.Interfaces](../../iobjectwithsizef/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Interfaces](../../../aspose.psd.interfaces/)
+* assembly [Aspose.PSD](../../../)
 
 

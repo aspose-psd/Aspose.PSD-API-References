@@ -1,14 +1,15 @@
 ---
-title: Interface IPartialArgb64PixelLoader
-second_title: Aspose.PSD for .NET API 参考
-description: Aspose.PSD.IPartialArgb64PixelLoader 界面. 64 位 ARGB 像素加载程序
+title: "接口 IPartialArgb64PixelLoader"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "Aspose.PSD.IPartialArgb64PixelLoader 接口。64 位 ARGB 像素加载器。"
 type: docs
-weight: 4520
+weight: 4990
 url: /zh/net/aspose.psd/ipartialargb64pixelloader/
 ---
+{{< psd/tize >}}
 ## IPartialArgb64PixelLoader interface
 
-64 位 ARGB 像素加载程序。
+64 位 ARGB 像素加载器。
 
 ```csharp
 public interface IPartialArgb64PixelLoader : IPartialArgb32PixelLoader
@@ -16,14 +17,14 @@ public interface IPartialArgb64PixelLoader : IPartialArgb32PixelLoader
 
 ## 方法
 
-| 姓名 | 描述 |
+| 名称 | 描述 |
 | --- | --- |
-| [Process64](../../aspose.psd/ipartialargb64pixelloader/process64/)(Rectangle, long[], Point, Point) | 处理加载的像素。 |
+| [Process64](../../aspose.psd/ipartialargb64pixelloader/process64/)(Rectangle, long[], Point, Point) | 处理已加载的像素。 |
 
-### 也可以看看
+### 另请参阅
 
 * interface [IPartialArgb32PixelLoader](../ipartialargb32pixelloader/)
-* 命名空间 [Aspose.PSD](../../aspose.psd/)
-* 部件 [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: TypeToolInfoResource.Lines
-second_title: Aspose.PSD for .NET API 参考
-description: TypeToolInfoResource 财产. 获取或设置行
+title: "TypeToolInfoResource.Lines"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "TypeToolInfoResource 属性。获取或设置行"
 type: docs
-weight: 140
+weight: 130
 url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources/typetoolinforesource/lines/
 ---
+{{< psd/tize >}}
 ## TypeToolInfoResource.Lines property
 
 获取或设置行。
@@ -14,15 +15,15 @@ url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources/typetoolinforesour
 public TypeToolLineInfo[] Lines { get; set; }
 ```
 
-### 适当的价值
+### Property Value
 
-行.
+行。
 
-### 也可以看看
+### 另请参阅
 
 * class [TypeToolLineInfo](../../typetoollineinfo/)
 * class [TypeToolInfoResource](../)
-* 命名空间 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../typetoolinforesource/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

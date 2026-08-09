@@ -1,64 +1,65 @@
 ---
-title: XmpException.XmpException
-second_title: Aspose.PSD for .NET API 参考
-description: XmpException 构造函数. 初始化一个新的实例XmpException类.
+title: "XmpException.XmpException"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "XmpException 构造函数。初始化 XmpException 类的新实例"
 type: docs
 weight: 10
 url: /zh/net/aspose.psd.coreexceptions/xmpexception/xmpexception/
 ---
+{{< psd/tize >}}
 ## XmpException() {#constructor}
 
-初始化一个新的实例[`XmpException`](../)类.
+初始化 [`XmpException`](../) 类的新实例。
 
 ```csharp
 public XmpException()
 ```
 
-### 也可以看看
+### 另请参阅
 
 * class [XmpException](../)
-* 命名空间 [Aspose.PSD.CoreExceptions](../../xmpexception/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.CoreExceptions](../../../aspose.psd.coreexceptions/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## XmpException(string) {#constructor_1}
 
-初始化一个新的实例[`XmpException`](../)类.
+初始化 [`XmpException`](../) 类的新实例。
 
 ```csharp
 public XmpException(string message)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| message | String | 消息。 |
+| 消息 | String | 消息。 |
 
-### 也可以看看
+### 另请参阅
 
 * class [XmpException](../)
-* 命名空间 [Aspose.PSD.CoreExceptions](../../xmpexception/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.CoreExceptions](../../../aspose.psd.coreexceptions/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## XmpException(string, Exception) {#constructor_2}
 
-初始化一个新的实例[`XmpException`](../)类.
+初始化 [`XmpException`](../) 类的新实例。
 
 ```csharp
 public XmpException(string message, Exception innerException)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| message | String | 消息。 |
-| innerException | Exception | 内部异常。 |
+| 消息 | String | 消息。 |
+| innerException | 异常 | 内部异常。 |
 
-### 也可以看看
+### 另请参阅
 
 * class [XmpException](../)
-* 命名空间 [Aspose.PSD.CoreExceptions](../../xmpexception/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.CoreExceptions](../../../aspose.psd.coreexceptions/)
+* assembly [Aspose.PSD](../../../)
 
 

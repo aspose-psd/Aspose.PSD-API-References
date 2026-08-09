@@ -1,11 +1,12 @@
 ---
-title: XmpBasicPackage.RatingRejected
-second_title: Aspose.PSD for .NET API 参考
-description: XmpBasicPackage 场地. 评级拒绝值
+title: "XmpBasicPackage.RatingRejected"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "XmpBasicPackage 字段。评级被拒绝的值"
 type: docs
-weight: 120
+weight: 150
 url: /zh/net/aspose.psd.xmp.schemas.xmpbaseschema/xmpbasicpackage/ratingrejected/
 ---
+{{< psd/tize >}}
 ## XmpBasicPackage.RatingRejected field
 
 评级拒绝值。
@@ -14,10 +15,10 @@ url: /zh/net/aspose.psd.xmp.schemas.xmpbaseschema/xmpbasicpackage/ratingrejected
 public const int RatingRejected;
 ```
 
-### 也可以看看
+### 另请参阅
 
 * class [XmpBasicPackage](../)
-* 命名空间 [Aspose.PSD.Xmp.Schemas.XmpBaseSchema](../../xmpbasicpackage/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpBaseSchema](../../../aspose.psd.xmp.schemas.xmpbaseschema/)
+* assembly [Aspose.PSD](../../../)
 
 

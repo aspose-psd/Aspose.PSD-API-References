@@ -1,27 +1,28 @@
 ---
-title: PhotoshopPackage.SetInstructions
-second_title: Aspose.PSD for .NET API 参考
-description: PhotoshopPackage 方法. 设置指令
+title: "PhotoshopPackage.SetInstructions"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "PhotoshopPackage 方法。设置指令"
 type: docs
 weight: 150
 url: /zh/net/aspose.psd.xmp.schemas.photoshop/photoshoppackage/setinstructions/
 ---
+{{< psd/tize >}}
 ## PhotoshopPackage.SetInstructions method
 
-设置指令。
+设置说明。
 
 ```csharp
 public void SetInstructions(string instructions)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| instructions | String | 说明。 |
+| instructions | String | 指令。 |
 
-### 也可以看看
+### 另请参阅
 
 * class [PhotoshopPackage](../)
-* 命名空间 [Aspose.PSD.Xmp.Schemas.Photoshop](../../photoshoppackage/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.Photoshop](../../../aspose.psd.xmp.schemas.photoshop/)
+* assembly [Aspose.PSD](../../../)
 
 

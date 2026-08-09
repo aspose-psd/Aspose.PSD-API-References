@@ -1,27 +1,28 @@
 ---
-title: PlacedResource.Top
-second_title: Aspose.PSD for .NET API 参考
-description: PlacedResource 财产. 获取或设置放置图层在 PSD 图像中的顶部位置
+title: "PlacedResource.Top"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "PlacedResource 属性。获取或设置 PSD 图像中已放置图层的顶部位置"
 type: docs
-weight: 150
+weight: 140
 url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources/placedresource/top/
 ---
+{{< psd/tize >}}
 ## PlacedResource.Top property
 
-获取或设置放置图层在 PSD 图像中的顶部位置。
+获取或设置 PSD 图像中已放置图层的顶部位置。
 
 ```csharp
 public double Top { get; set; }
 ```
 
-### 适当的价值
+### Property Value
 
-放置层的顶部位置。
+已放置图层的顶部位置。
 
-### 也可以看看
+### 另请参阅
 
 * class [PlacedResource](../)
-* 命名空间 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../placedresource/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

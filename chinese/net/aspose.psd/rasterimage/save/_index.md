@@ -1,31 +1,32 @@
 ---
-title: RasterImage.Save
-second_title: Aspose.PSD for .NET API 参考
-description: RasterImage 方法. 根据保存选项以指定文件格式将图像数据保存到指定流
+title: "RasterImage.Save"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "RasterImage 方法。根据保存选项，将图像数据保存到指定流的指定文件格式。"
 type: docs
-weight: 490
+weight: 500
 url: /zh/net/aspose.psd/rasterimage/save/
 ---
+{{< psd/tize >}}
 ## RasterImage.Save method
 
-根据保存选项以指定文件格式将图像数据保存到指定流。
+根据保存选项，将图像的数据以指定的文件格式保存到指定的流中。
 
 ```csharp
 public override void Save(Stream stream, ImageOptionsBase optionsBase, Rectangle boundsRectangle)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| stream | Stream | 将图像数据保存到的流。 |
+| 流 | 流 | 用于保存图像数据的流。 |
 | optionsBase | ImageOptionsBase | 保存选项。 |
 | boundsRectangle | Rectangle | 目标图像边界矩形。设置空矩形以使用源边界。 |
 
-### 也可以看看
+### 另请参阅
 
 * class [ImageOptionsBase](../../imageoptionsbase/)
 * struct [Rectangle](../../rectangle/)
 * class [RasterImage](../)
-* 命名空间 [Aspose.PSD](../../rasterimage/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

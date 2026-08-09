@@ -1,26 +1,27 @@
 ---
-title: AiLayerSection.Name
-second_title: Aspose.PSD for .NET API 参考
-description: AiLayerSection 财产. 获取或设置图层名称 指定项目在图层面板中显示的名称
+title: "AiLayerSection.Name"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "AiLayerSection 属性。获取或设置图层名称。指定该项目在 Layers 面板中显示的名称"
 type: docs
-weight: 110
+weight: 130
 url: /zh/net/aspose.psd.fileformats.ai/ailayersection/name/
 ---
+{{< psd/tize >}}
 ## AiLayerSection.Name property
 
-获取或设置图层名称。 指定项目在“图层”面板中显示的名称。
+获取或设置图层名称。指定项目在图层面板中显示的名称。
 
 ```csharp
 public string Name { get; set; }
 ```
 
-### 适当的价值
+### Property Value
 
-图层名称.
+图层名称。
 
-### 例子
+## 示例
 
-以下示例演示了对 AI 格式文件中图层的支持。
+以下示例演示了在 AI 格式文件中对图层的支持。
 
 ```csharp
 [C#]
@@ -70,10 +71,10 @@ using (AiImage image = (AiImage)Image.Load(sourceFilePath))
 }
 ```
 
-### 也可以看看
+### 另请参阅
 
 * class [AiLayerSection](../)
-* 命名空间 [Aspose.PSD.FileFormats.Ai](../../ailayersection/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

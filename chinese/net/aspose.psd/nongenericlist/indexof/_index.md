@@ -1,31 +1,32 @@
 ---
-title: NonGenericList.IndexOf
-second_title: Aspose.PSD for .NET API 参考
-description: NonGenericList 方法. 确定特定项目在IList .
+title: "NonGenericList.IndexOf"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "NonGenericList 方法。确定 IList 中特定项的索引"
 type: docs
 weight: 130
 url: /zh/net/aspose.psd/nongenericlist/indexof/
 ---
+{{< psd/tize >}}
 ## NonGenericList.IndexOf method
 
-确定特定项目在IList .
+确定 IList 中特定项的索引。
 
 ```csharp
 public int IndexOf(object value)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| value | Object | 这Object位于IList. |
+| 值 | Object | 要在 IList 中定位的 Object。 |
 
 ### 返回值
 
-的索引*value*如果在列表中找到；否则，-1.
+如果在列表中找到 *value*，则返回其索引；否则返回 -1。
 
-### 也可以看看
+### 另请参阅
 
 * class [NonGenericList](../)
-* 命名空间 [Aspose.PSD](../../nongenericlist/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

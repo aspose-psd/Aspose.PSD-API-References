@@ -1,28 +1,29 @@
 ---
-title: TiffOptions.AddTag
-second_title: Aspose.PSD for .NET API 参考
-description: TiffOptions 方法. 添加新标签
+title: "TiffOptions.AddTag"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "TiffOptions 方法。添加新标签"
 type: docs
-weight: 700
+weight: 710
 url: /zh/net/aspose.psd.imageoptions/tiffoptions/addtag/
 ---
+{{< psd/tize >}}
 ## TiffOptions.AddTag method
 
-添加新标签。
+添加一个新标签。
 
 ```csharp
 public void AddTag(TiffDataType tagToAdd)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
 | tagToAdd | TiffDataType | 要添加的标签。 |
 
-### 也可以看看
+### 另请参阅
 
 * class [TiffDataType](../../../aspose.psd.fileformats.tiff/tiffdatatype/)
 * class [TiffOptions](../)
-* 命名空间 [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

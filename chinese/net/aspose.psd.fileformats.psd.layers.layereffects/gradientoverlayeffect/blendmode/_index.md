@@ -1,11 +1,12 @@
 ---
-title: GradientOverlayEffect.BlendMode
-second_title: Aspose.PSD for .NET API 参考
-description: GradientOverlayEffect 财产. 获取或设置混合模式
+title: "GradientOverlayEffect.BlendMode"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "GradientOverlayEffect 属性。获取或设置混合模式"
 type: docs
 weight: 10
 url: /zh/net/aspose.psd.fileformats.psd.layers.layereffects/gradientoverlayeffect/blendmode/
 ---
+{{< psd/tize >}}
 ## GradientOverlayEffect.BlendMode property
 
 获取或设置混合模式。
@@ -14,15 +15,15 @@ url: /zh/net/aspose.psd.fileformats.psd.layers.layereffects/gradientoverlayeffec
 public BlendMode BlendMode { get; set; }
 ```
 
-### 适当的价值
+### Property Value
 
 混合模式。
 
-### 也可以看看
+### 另请参阅
 
 * enum [BlendMode](../../../aspose.psd.fileformats.core.blending/blendmode/)
 * class [GradientOverlayEffect](../)
-* 命名空间 [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../gradientoverlayeffect/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../../)
 
 

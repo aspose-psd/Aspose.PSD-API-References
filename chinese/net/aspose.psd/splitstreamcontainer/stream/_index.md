@@ -1,11 +1,12 @@
 ---
-title: SplitStreamContainer.Stream
-second_title: Aspose.PSD for .NET API 参考
-description: SplitStreamContainer 财产. 获取数据流
+title: "SplitStreamContainer.Stream"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "SplitStreamContainer 属性。获取数据流"
 type: docs
 weight: 70
 url: /zh/net/aspose.psd/splitstreamcontainer/stream/
 ---
+{{< psd/tize >}}
 ## SplitStreamContainer.Stream property
 
 获取数据流。
@@ -14,14 +15,14 @@ url: /zh/net/aspose.psd/splitstreamcontainer/stream/
 public override Stream Stream { get; }
 ```
 
-### 适当的价值
+### Property Value
 
 数据流。
 
-### 也可以看看
+### 另请参阅
 
 * class [SplitStreamContainer](../)
-* 命名空间 [Aspose.PSD](../../splitstreamcontainer/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

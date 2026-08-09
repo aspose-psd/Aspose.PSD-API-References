@@ -1,11 +1,12 @@
 ---
-title: Image.Bounds
-second_title: Aspose.PSD for .NET API 参考
-description: Image 财产. 获取图像边界
+title: "Image.Bounds"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "Image 属性。获取图像的边界。"
 type: docs
 weight: 60
 url: /zh/net/aspose.psd/image/bounds/
 ---
+{{< psd/tize >}}
 ## Image.Bounds property
 
 获取图像边界。
@@ -14,15 +15,15 @@ url: /zh/net/aspose.psd/image/bounds/
 public Rectangle Bounds { get; }
 ```
 
-### 适当的价值
+### Property Value
 
-图像边界。
+图像的边界。
 
-### 也可以看看
+### 另请参阅
 
 * struct [Rectangle](../../rectangle/)
 * class [Image](../)
-* 命名空间 [Aspose.PSD](../../image/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

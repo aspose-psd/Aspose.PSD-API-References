@@ -1,11 +1,12 @@
 ---
-title: DisposableObject.DisposableObject
-second_title: Aspose.PSD for .NET API 参考
-description: DisposableObject 构造函数. 默认构造函数
+title: "DisposableObject.DisposableObject"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "DisposableObject 构造函数。默认构造函数"
 type: docs
 weight: 10
 url: /zh/net/aspose.psd/disposableobject/disposableobject/
 ---
+{{< psd/tize >}}
 ## DisposableObject constructor
 
 默认构造函数。
@@ -14,10 +15,10 @@ url: /zh/net/aspose.psd/disposableobject/disposableobject/
 public DisposableObject()
 ```
 
-### 也可以看看
+### 另请参阅
 
 * class [DisposableObject](../)
-* 命名空间 [Aspose.PSD](../../disposableobject/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

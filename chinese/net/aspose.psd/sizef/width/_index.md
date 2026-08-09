@@ -1,14 +1,15 @@
 ---
-title: SizeF.Width
-second_title: Aspose.PSD for .NET API 参考
-description: SizeF 财产. 获取或设置这个的水平分量SizeF .
+title: "SizeF.Width"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "SizeF 属性。获取或设置此 SizeF 的水平分量。"
 type: docs
 weight: 70
 url: /zh/net/aspose.psd/sizef/width/
 ---
+{{< psd/tize >}}
 ## SizeF.Width property
 
-获取或设置这个的水平分量[`SizeF`](../) .
+获取或设置此 [`SizeF`](../) 的水平分量。
 
 ```csharp
 public float Width { get; set; }
@@ -16,12 +17,12 @@ public float Width { get; set; }
 
 ### 返回值
 
-这个的水平分量[`SizeF`](../)，通常以像素为单位。
+此 [`SizeF`](../) 的水平分量，通常以像素为单位。
 
-### 也可以看看
+### 另请参阅
 
 * struct [SizeF](../)
-* 命名空间 [Aspose.PSD](../../sizef/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

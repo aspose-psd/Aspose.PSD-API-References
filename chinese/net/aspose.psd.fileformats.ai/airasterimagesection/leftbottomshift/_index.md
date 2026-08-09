@@ -1,27 +1,28 @@
 ---
-title: AiRasterImageSection.LeftBottomShift
-second_title: Aspose.PSD for .NET API 参考
-description: AiRasterImageSection 财产. 获取左下移
+title: "AiRasterImageSection.LeftBottomShift"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "AiRasterImageSection 属性。获取左下位移"
 type: docs
 weight: 40
 url: /zh/net/aspose.psd.fileformats.ai/airasterimagesection/leftbottomshift/
 ---
+{{< psd/tize >}}
 ## AiRasterImageSection.LeftBottomShift property
 
-获取左下移。
+获取左下偏移。
 
 ```csharp
 public double LeftBottomShift { get; }
 ```
 
-### 适当的价值
+### Property Value
 
-左下移。
+左下位移。
 
-### 也可以看看
+### 另请参阅
 
 * class [AiRasterImageSection](../)
-* 命名空间 [Aspose.PSD.FileFormats.Ai](../../airasterimagesection/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

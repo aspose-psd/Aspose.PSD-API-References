@@ -1,14 +1,15 @@
 ---
-title: Class InitialFillRuleRecord
-second_title: Aspose.PSD for .NET API 参考
-description: Aspose.PSD.FileFormats.Core.VectorPaths.InitialFillRuleRecord 班级. 初始填充规则记录类
+title: "类 InitialFillRuleRecord"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "Aspose.PSD.FileFormats.Core.VectorPaths.InitialFillRuleRecord 类。初始填充规则记录类"
 type: docs
-weight: 1360
+weight: 1370
 url: /zh/net/aspose.psd.fileformats.core.vectorpaths/initialfillrulerecord/
 ---
+{{< psd/tize >}}
 ## InitialFillRuleRecord class
 
-初始填充规则记录类
+Initial Fill Rule Record 类
 
 ```csharp
 public class InitialFillRuleRecord : VectorPathRecord
@@ -16,23 +17,23 @@ public class InitialFillRuleRecord : VectorPathRecord
 
 ## 构造函数
 
-| 姓名 | 描述 |
+| 名称 | 描述 |
 | --- | --- |
-| [InitialFillRuleRecord](initialfillrulerecord/#constructor)() | 初始化一个新的实例`InitialFillRuleRecord`类. |
-| [InitialFillRuleRecord](initialfillrulerecord/#constructor_1)(bool) | 初始化一个新的实例`InitialFillRuleRecord`类. |
-| [InitialFillRuleRecord](initialfillrulerecord/#constructor_2)(byte[]) | 初始化一个新的实例`InitialFillRuleRecord`类. |
+| [InitialFillRuleRecord](initialfillrulerecord/#constructor)() | 初始化 `InitialFillRuleRecord` 类的新实例。 |
+| [InitialFillRuleRecord](initialfillrulerecord/#constructor_1)(bool) | 初始化 `InitialFillRuleRecord` 类的新实例。 |
+| [InitialFillRuleRecord](initialfillrulerecord/#constructor_2)(byte[]) | 初始化 `InitialFillRuleRecord` 类的新实例。 |
 
-## 特性
+## 属性
 
-| 姓名 | 描述 |
+| 名称 | 描述 |
 | --- | --- |
-| [IsFillStartsWithAllPixels](../../aspose.psd.fileformats.core.vectorpaths/initialfillrulerecord/isfillstartswithallpixels/) { get; set; } | 获取或设置一个值，表示是否以所有像素开始填充。 |
+| [IsFillStartsWithAllPixels](../../aspose.psd.fileformats.core.vectorpaths/initialfillrulerecord/isfillstartswithallpixels/) { get; set; } | 获取或设置一个值，指示填充是否从所有像素开始。 |
 | override [Type](../../aspose.psd.fileformats.core.vectorpaths/initialfillrulerecord/type/) { get; } | 获取类型。 |
 
-### 也可以看看
+### 另请参阅
 
 * class [VectorPathRecord](../vectorpathrecord/)
-* 命名空间 [Aspose.PSD.FileFormats.Core.VectorPaths](../../aspose.psd.fileformats.core.vectorpaths/)
-* 部件 [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../)
 
 

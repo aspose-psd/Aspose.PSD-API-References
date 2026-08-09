@@ -1,11 +1,12 @@
 ---
-title: TiffSRational.Value
-second_title: Aspose.PSD for .NET API 参考
-description: TiffSRational 财产. 获取浮点值
+title: "TiffSRational.Value"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "TiffSRational 属性。获取 float 值。"
 type: docs
 weight: 50
 url: /zh/net/aspose.psd.fileformats.tiff/tiffsrational/value/
 ---
+{{< psd/tize >}}
 ## TiffSRational.Value property
 
 获取浮点值。
@@ -14,14 +15,14 @@ url: /zh/net/aspose.psd.fileformats.tiff/tiffsrational/value/
 public float Value { get; }
 ```
 
-### 适当的价值
+### Property Value
 
-浮点值。
+float 值。
 
-### 也可以看看
+### 另请参阅
 
 * class [TiffSRational](../)
-* 命名空间 [Aspose.PSD.FileFormats.Tiff](../../tiffsrational/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff](../../../aspose.psd.fileformats.tiff/)
+* assembly [Aspose.PSD](../../../)
 
 

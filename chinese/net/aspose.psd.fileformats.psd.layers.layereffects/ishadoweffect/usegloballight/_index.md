@@ -1,27 +1,28 @@
 ---
-title: IShadowEffect.UseGlobalLight
-second_title: Aspose.PSD for .NET API 参考
-description: IShadowEffect 财产. 获取或设置一个值指示是否在所有图层效果中使用此角度
+title: "IShadowEffect.UseGlobalLight"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "IShadowEffect 属性。获取或设置一个值，指示是否在所有图层效果中使用此角度"
 type: docs
 weight: 70
 url: /zh/net/aspose.psd.fileformats.psd.layers.layereffects/ishadoweffect/usegloballight/
 ---
+{{< psd/tize >}}
 ## IShadowEffect.UseGlobalLight property
 
-获取或设置一个值，指示是否[在所有图层效果中使用此角度]。
+获取或设置一个值，指示是否 [use this angle in all of the layer effects]。
 
 ```csharp
 public bool UseGlobalLight { get; set; }
 ```
 
-### 适当的价值
+### Property Value
 
-`真的`如果[使用全局光]；否则，`错误的` .
+`true` 如果 [use global light]；否则为 `false`。
 
-### 也可以看看
+### 另请参阅
 
 * interface [IShadowEffect](../)
-* 命名空间 [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../ishadoweffect/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../../)
 
 

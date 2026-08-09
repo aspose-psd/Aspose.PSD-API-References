@@ -1,14 +1,15 @@
 ---
-title: Class License
-second_title: Aspose.PSD for .NET API 参考
-description: Aspose.PSD.License 班级. 提供许可组件的方法
+title: "类 License"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "Aspose.PSD.License 类。提供对组件进行授权的方法。"
 type: docs
-weight: 5050
+weight: 5540
 url: /zh/net/aspose.psd/license/
 ---
+{{< psd/tize >}}
 ## License class
 
-提供许可组件的方法。
+提供对组件授权的方法。
 
 ```csharp
 public class License
@@ -16,20 +17,20 @@ public class License
 
 ## 构造函数
 
-| 姓名 | 描述 |
+| 名称 | 描述 |
 | --- | --- |
 | [License](license/)() | 初始化此类的新实例。 |
 
 ## 方法
 
-| 姓名 | 描述 |
+| 名称 | 描述 |
 | --- | --- |
-| [SetLicense](../../aspose.psd/license/setlicense/#setlicense)(Stream) | 许可组件。 |
-| [SetLicense](../../aspose.psd/license/setlicense/#setlicense_1)(string) | 许可组件。 |
+| [SetLicense](../../aspose.psd/license/setlicense/#setlicense)(Stream) | 为组件授权。 |
+| [SetLicense](../../aspose.psd/license/setlicense/#setlicense_1)(string) | 为组件授权。 |
 
-### 例子
+## 示例
 
-在此示例中，将尝试在包含 组件的文件夹中、在包含调用程序集的文件夹中、在入口程序集的文件夹中查找名为 的许可证文件，然后在调用程序集的嵌入资源.
+在此示例中，将尝试在包含组件的文件夹、包含调用程序集的文件夹、入口程序集的文件夹以及调用程序集的嵌入资源中查找名为 MyLicense.lic 的许可证文件。
 
 ```csharp
 [C#]
@@ -44,9 +45,9 @@ Dim license As license = New license
 License.SetLicense("MyLicense.lic")
 ```
 
-### 也可以看看
+### 另请参阅
 
-* 命名空间 [Aspose.PSD](../../aspose.psd/)
-* 部件 [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

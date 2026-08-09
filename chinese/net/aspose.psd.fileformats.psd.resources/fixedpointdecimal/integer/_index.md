@@ -1,11 +1,12 @@
 ---
-title: FixedPointDecimal.Integer
-second_title: Aspose.PSD for .NET API 参考
-description: FixedPointDecimal 财产. 获取或设置整数
+title: "FixedPointDecimal.Integer"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "FixedPointDecimal 属性。获取或设置整数"
 type: docs
 weight: 30
 url: /zh/net/aspose.psd.fileformats.psd.resources/fixedpointdecimal/integer/
 ---
+{{< psd/tize >}}
 ## FixedPointDecimal.Integer property
 
 获取或设置整数。
@@ -14,14 +15,14 @@ url: /zh/net/aspose.psd.fileformats.psd.resources/fixedpointdecimal/integer/
 public int Integer { get; set; }
 ```
 
-### 适当的价值
+### Property Value
 
 整数。
 
-### 也可以看看
+### 另请参阅
 
 * class [FixedPointDecimal](../)
-* 命名空间 [Aspose.PSD.FileFormats.Psd.Resources](../../fixedpointdecimal/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

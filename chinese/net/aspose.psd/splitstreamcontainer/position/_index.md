@@ -1,27 +1,28 @@
 ---
-title: SplitStreamContainer.Position
-second_title: Aspose.PSD for .NET API 参考
-description: SplitStreamContainer 财产. 获取或设置流中的当前位置此值表示从 StreamContainer 构造函数中传递的起始流位置的偏移量
+title: "SplitStreamContainer.Position"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "SplitStreamContainer 属性。获取或设置流中的当前位置。此值表示相对于在 StreamContainer 构造函数中传入的起始流位置的偏移量"
 type: docs
 weight: 60
 url: /zh/net/aspose.psd/splitstreamcontainer/position/
 ---
+{{< psd/tize >}}
 ## SplitStreamContainer.Position property
 
-获取或设置流中的当前位置。此值表示从 StreamContainer 构造函数中传递的起始流位置的偏移量。
+获取或设置流内的当前位置。该值表示相对于在 StreamContainer 构造函数中传入的起始流位置的偏移量。
 
 ```csharp
 public override long Position { get; set; }
 ```
 
-### 适当的价值
+### Property Value
 
 当前流位置。
 
-### 也可以看看
+### 另请参阅
 
 * class [SplitStreamContainer](../)
-* 命名空间 [Aspose.PSD](../../splitstreamcontainer/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: Color.IsNamedColor
-second_title: Aspose.PSD for .NET API 参考
-description: Color 财产. 获取一个值指示是否这Color结构是命名颜色或KnownColor枚举.
+title: "Color.IsNamedColor"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "Color 属性。获取一个值，指示此 Color 结构是命名颜色还是 KnownColor 枚举的成员"
 type: docs
 weight: 1510
 url: /zh/net/aspose.psd/color/isnamedcolor/
 ---
+{{< psd/tize >}}
 ## Color.IsNamedColor property
 
-获取一个值，指示是否这[`Color`](../)结构是命名颜色或[`KnownColor`](../../knowncolor/)枚举.
+获取一个值，指示此 [`Color`](../) 结构是命名颜色还是 [`KnownColor`](../../knowncolor/) 枚举的成员。
 
 ```csharp
 public bool IsNamedColor { get; }
 ```
 
-### 适当的价值
+### Property Value
 
-如果这个是真的[`Color`](../)是通过使用[`FromName`](../fromname/)方法或[`FromKnownColor`](../fromknowncolor/)方法;否则，假的。
+如果此 [`Color`](../) 是通过使用 [`FromName`](../fromname/) 方法或 [`FromKnownColor`](../fromknowncolor/) 方法创建的，则为 true；否则为 false。
 
-### 也可以看看
+### 另请参阅
 
 * struct [Color](../)
-* 命名空间 [Aspose.PSD](../../color/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

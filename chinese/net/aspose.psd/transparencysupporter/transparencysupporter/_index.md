@@ -1,11 +1,12 @@
 ---
-title: TransparencySupporter.TransparencySupporter
-second_title: Aspose.PSD for .NET API 参考
-description: TransparencySupporter 构造函数. 默认构造函数
+title: "TransparencySupporter.TransparencySupporter"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "TransparencySupporter 构造函数。默认构造函数"
 type: docs
 weight: 10
 url: /zh/net/aspose.psd/transparencysupporter/transparencysupporter/
 ---
+{{< psd/tize >}}
 ## TransparencySupporter constructor
 
 默认构造函数。
@@ -14,10 +15,10 @@ url: /zh/net/aspose.psd/transparencysupporter/transparencysupporter/
 public TransparencySupporter()
 ```
 
-### 也可以看看
+### 另请参阅
 
 * class [TransparencySupporter](../)
-* 命名空间 [Aspose.PSD](../../transparencysupporter/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

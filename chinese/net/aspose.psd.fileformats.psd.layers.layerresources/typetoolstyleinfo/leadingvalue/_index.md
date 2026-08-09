@@ -1,27 +1,28 @@
 ---
-title: TypeToolStyleInfo.LeadingValue
-second_title: Aspose.PSD for .NET API 参考
-description: TypeToolStyleInfo 财产. 获取或设置主值
+title: "TypeToolStyleInfo.LeadingValue"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "TypeToolStyleInfo 属性。获取或设置行距值"
 type: docs
 weight: 60
 url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources/typetoolstyleinfo/leadingvalue/
 ---
+{{< psd/tize >}}
 ## TypeToolStyleInfo.LeadingValue property
 
-获取或设置主值。
+获取或设置行距值。
 
 ```csharp
 public int LeadingValue { get; set; }
 ```
 
-### 适当的价值
+### Property Value
 
-主值。
+行距值。
 
-### 也可以看看
+### 另请参阅
 
 * class [TypeToolStyleInfo](../)
-* 命名空间 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../typetoolstyleinfo/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

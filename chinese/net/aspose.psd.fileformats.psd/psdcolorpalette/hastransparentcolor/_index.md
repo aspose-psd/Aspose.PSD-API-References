@@ -1,27 +1,28 @@
 ---
-title: PsdColorPalette.HasTransparentColor
-second_title: Aspose.PSD for .NET API 参考
-description: PsdColorPalette 财产. 获取是否存在透明色的值
+title: "PsdColorPalette.HasTransparentColor"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "PsdColorPalette 属性。获取一个值，指示是否存在透明颜色"
 type: docs
 weight: 60
 url: /zh/net/aspose.psd.fileformats.psd/psdcolorpalette/hastransparentcolor/
 ---
+{{< psd/tize >}}
 ## PsdColorPalette.HasTransparentColor property
 
-获取是否存在透明色的值。
+获取一个值，指示是否存在透明颜色。
 
 ```csharp
 public bool HasTransparentColor { get; }
 ```
 
-### 适当的价值
+### Property Value
 
-`真的`如果存在透明色；否则，`错误的` .
+`true` 表示存在透明颜色；否则为 `false`。
 
-### 也可以看看
+### 另请参阅
 
 * class [PsdColorPalette](../)
-* 命名空间 [Aspose.PSD.FileFormats.Psd](../../psdcolorpalette/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

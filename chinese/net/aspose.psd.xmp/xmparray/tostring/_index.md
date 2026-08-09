@@ -1,14 +1,15 @@
 ---
-title: XmpArray.ToString
-second_title: Aspose.PSD for .NET API 参考
-description: XmpArray 方法. 返回一个String代表这个实例.
+title: "XmpArray.ToString"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "XmpArray 方法。返回表示此实例的字符串"
 type: docs
 weight: 50
 url: /zh/net/aspose.psd.xmp/xmparray/tostring/
 ---
+{{< psd/tize >}}
 ## XmpArray.ToString method
 
-返回一个String代表这个实例.
+返回一个表示此实例的字符串。
 
 ```csharp
 public override string ToString()
@@ -16,12 +17,12 @@ public override string ToString()
 
 ### 返回值
 
-一个String代表这个实例.
+表示此实例的 String。
 
-### 也可以看看
+### 另请参阅
 
 * class [XmpArray](../)
-* 命名空间 [Aspose.PSD.Xmp](../../xmparray/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

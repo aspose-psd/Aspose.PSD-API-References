@@ -1,27 +1,28 @@
 ---
-title: InfxResource.BlendInteriorElements
-second_title: Aspose.PSD for .NET API 参考
-description: InfxResource 财产. 获取或设置一个值指示是否混合内部元素.
+title: "InfxResource.BlendInteriorElements"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "InfxResource 属性。获取或设置指示是否 blend interior elements 的值"
 type: docs
 weight: 20
 url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources/infxresource/blendinteriorelements/
 ---
+{{< psd/tize >}}
 ## InfxResource.BlendInteriorElements property
 
-获取或设置一个值，指示是否[混合内部元素].
+获取或设置一个值，指示是否 [blend interior elements]。
 
 ```csharp
 public bool BlendInteriorElements { get; set; }
 ```
 
-### 适当的价值
+### Property Value
 
-`真的`如果[混合内部元素]；否则，`错误的` .
+`true` 表示 [blend interior elements]；否则为 `false`。
 
-### 也可以看看
+### 另请参阅
 
 * class [InfxResource](../)
-* 命名空间 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../infxresource/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

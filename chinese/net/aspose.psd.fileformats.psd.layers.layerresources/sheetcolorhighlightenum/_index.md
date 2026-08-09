@@ -1,22 +1,23 @@
 ---
-title: Enum SheetColorHighlightEnum
-second_title: Aspose.PSD for .NET API 参考
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.SheetColorHighlightEnum 枚举. Sheet颜色设置的可能颜色 PS 图层列表中图层的UI装饰色
+title: "SheetColorHighlightEnum 枚举"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "Aspose.PSD.FileFormats.Psd.Layers.LayerResources.SheetColorHighlightEnum 枚举。Sheet 颜色设置的可能颜色。它是 PS 中图层列表里图层的 UI 装饰颜色。"
 type: docs
-weight: 2970
+weight: 3320
 url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources/sheetcolorhighlightenum/
 ---
+{{< psd/tize >}}
 ## SheetColorHighlightEnum enumeration
 
-Sheet颜色设置的可能颜色。 PS 图层列表中图层的UI装饰色
+Sheet 颜色设置的可能颜色。它是 PS 中图层列表的 UI 装饰颜色。
 
 ```csharp
 public enum SheetColorHighlightEnum : short
 ```
 
-### 价值观
+### 值
 
-| 姓名 | 价值 | 描述 |
+| 名称 | 值 | 描述 |
 | --- | --- | --- |
 | NoColor | `0` | 未指定颜色。 |
 | Red | `1` | 红色。 |
@@ -27,9 +28,9 @@ public enum SheetColorHighlightEnum : short
 | Violet | `6` | 紫色。 |
 | Gray | `7` | 灰色。 |
 
-### 例子
+## 示例
 
-以下示例演示如何更改 Aspose.PSD 中的工作表颜色突出显示（工作表颜色设置）
+以下示例演示了如何在 Aspose.PSD 中更改 Sheet Color Highlight（Sheet 颜色设置）。
 
 ```csharp
 [C#]
@@ -37,7 +38,7 @@ public enum SheetColorHighlightEnum : short
 string sourceFilePath = "AllLclrResourceColors.psd";
 string outputFilePath = "AllLclrResourceColorsReversed.psd";
 
-// 在文件中图层高亮的颜色是按照这个顺序的
+// 在文件中，图层高亮的颜色顺序如下：
 SheetColorHighlightEnum[] sheetColorsArr = new SheetColorHighlightEnum[] {
     SheetColorHighlightEnum.Red,
     SheetColorHighlightEnum.Orange,
@@ -49,8 +50,8 @@ SheetColorHighlightEnum[] sheetColorsArr = new SheetColorHighlightEnum[] {
     SheetColorHighlightEnum.NoColor
 };
 
-// Layer Sheet Color 用于在视觉上突出显示图层。 
-// 例如，您可以更新 PSD 中的一些图层，然后用颜色突出显示您想要引起注意的图层。
+// 图层 Sheet Color 用于可视化地高亮图层。
+// 例如，您可以在 PSD 中更新某些图层，然后通过颜色高亮您想要吸引注意的图层。
 using (PsdImage img = (PsdImage)Image.Load(sourceFilePath))
 {
     CheckSheetColorsAndRerverse(sheetColorsArr, img);
@@ -59,7 +60,7 @@ using (PsdImage img = (PsdImage)Image.Load(sourceFilePath))
 
 using (PsdImage img = (PsdImage)Image.Load(outputFilePath))
 {
-    // 颜色应该反转
+    // 颜色应当反转
     Array.Reverse(sheetColorsArr);
     CheckSheetColorsAndRerverse(sheetColorsArr, img);
 }
@@ -73,7 +74,7 @@ void CheckSheetColorsAndRerverse(SheetColorHighlightEnum[] sheetColors, PsdImage
         LayerResource[] resources = layer.Resources;
         foreach (LayerResource layerResource in resources)
         {
-            // lcrl 资源始终出现在 psd 文件资源列表中。
+            // lcrl 资源始终出现在 PSD 文件资源列表中。
             LclrResource resource = layerResource as LclrResource;
             if (resource != null)
             {
@@ -91,9 +92,9 @@ void CheckSheetColorsAndRerverse(SheetColorHighlightEnum[] sheetColors, PsdImage
 }
 ```
 
-### 也可以看看
+### 另请参阅
 
-* 命名空间 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
-* 部件 [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../)
 
 

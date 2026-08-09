@@ -1,11 +1,12 @@
 ---
-title: PrintFlagsResource.CenterCropMark
-second_title: Aspose.PSD for .NET API 参考
-description: PrintFlagsResource 财产. 获取或设置中心裁剪标记
+title: "PrintFlagsResource.CenterCropMark"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "PrintFlagsResource 属性。获取或设置中心裁剪标记"
 type: docs
 weight: 40
 url: /zh/net/aspose.psd.fileformats.psd.resources/printflagsresource/centercropmark/
 ---
+{{< psd/tize >}}
 ## PrintFlagsResource.CenterCropMark property
 
 获取或设置中心裁剪标记。
@@ -14,14 +15,14 @@ url: /zh/net/aspose.psd.fileformats.psd.resources/printflagsresource/centercropm
 public byte CenterCropMark { get; set; }
 ```
 
-### 适当的价值
+### Property Value
 
 中心裁剪标记。
 
-### 也可以看看
+### 另请参阅
 
 * class [PrintFlagsResource](../)
-* 命名空间 [Aspose.PSD.FileFormats.Psd.Resources](../../printflagsresource/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,16 +1,17 @@
 ---
-title: Aspose.PSD.MemoryManagement
-second_title: Aspose.PSD for .NET API 参考
-description: 命名空间包含内存管理例程
+title: "Aspose.PSD.MemoryManagement"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "该命名空间包含内存管理例程。"
 type: docs
-weight: 450
+weight: 490
 url: /zh/net/aspose.psd.memorymanagement/
 ---
-命名空间包含内存管理例程。
+{{< psd/tize >}}
+该命名空间包含内存管理例程。
 
-## 课程
+## 类
 
-| 班级 | 描述 |
+| 类 | 描述 |
 | --- | --- |
 | [Configuration](./configuration/) | 内存管理全局配置 |
 

@@ -1,44 +1,45 @@
 ---
-title: Enum ResizeType
-second_title: Aspose.PSD for .NET API 参考
-description: Aspose.PSD.ResizeType 枚举. 指定调整大小类型
+title: "枚举 ResizeType"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "Aspose.PSD.ResizeType 枚举。指定调整大小的类型"
 type: docs
-weight: 5370
+weight: 5870
 url: /zh/net/aspose.psd/resizetype/
 ---
+{{< psd/tize >}}
 ## ResizeType enumeration
 
-指定调整大小类型。
+指定调整大小的类型。
 
 ```csharp
 public enum ResizeType
 ```
 
-### 价值观
+### 值
 
-| 姓名 | 价值 | 描述 |
+| 名称 | 值 | 描述 |
 | --- | --- | --- |
-| None | `0` | 在调整大小操作期间不保留像素。 |
-| LeftTopToLeftTop | `1` | 新图像的左上点将与原始图像的左上点重合。如果需要，将进行裁剪。 |
-| RightTopToRightTop | `2` | 新图像的右上点将与原始图像的右上点重合。如果需要，将进行裁剪。 |
-| RightBottomToRightBottom | `3` | 新图像的右下点将与原始图像的右下点重合。如果需要，将进行裁剪。 |
-| LeftBottomToLeftBottom | `4` | 新图像的左下点将与原始图像的左下点重合。如果需要，将进行裁剪。 |
-| CenterToCenter | `5` | 新图像的中心将与原始图像的中心重合。如果需要，将进行裁剪。 |
-| LanczosResample | `6` | 使用 a=3. 的 lanczos 算法重新采样 |
-| NearestNeighbourResample | `7` | 使用最近邻算法重新采样。 |
-| AdaptiveResample | `8` | 使用基于加权和混合有理函数和 lanczos3 插值算法的自适应算法重新采样。 |
-| BilinearResample | `9` | 使用双线性插值重新采样。允许图像预过滤以在需要时在重新采样之前去除噪声 |
+| None | `0` | 在调整大小操作期间像素不会被保留。 |
+| LeftTopToLeftTop | `1` | 新图像的左上点将与原始图像的左上点重合。如有需要，将进行裁剪。 |
+| RightTopToRightTop | `2` | 新图像的右上点将与原始图像的右上点重合。如有需要，将进行裁剪。 |
+| RightBottomToRightBottom | `3` | 新图像的右下点将与原始图像的右下点重合。如有需要，将进行裁剪。 |
+| LeftBottomToLeftBottom | `4` | 新图像的左下点将与原始图像的左下点重合。如有需要，将进行裁剪。 |
+| CenterToCenter | `5` | 新图像的中心将与原始图像的中心重合。如有需要，将进行裁剪。 |
+| LanczosResample | `6` | 使用 a=3 的 Lanczos 算法进行重采样。 |
+| NearestNeighbourResample | `7` | 使用最近邻算法进行重采样。 |
+| AdaptiveResample | `8` | 使用基于加权和混合有理函数以及 lanczos3 插值算法的自适应算法进行重采样。 |
+| BilinearResample | `9` | 使用双线性插值进行重采样。必要时可进行图像预过滤以在重采样前去除噪声。 |
 | HighQualityResample | `10` | 高质量重采样 |
-| CatmullRom | `11` | Catmull-Rom 三次插值法。 |
-| CubicConvolution | `12` | 三次卷积插值法 |
-| CubicBSpline | `13` | CubicBSpline三次插值法 |
-| Mitchell | `14` | 米切尔三次插值法 |
-| SinC | `15` | Sinc(Lanczos3)三次插值法 |
-| Bell | `16` | 贝尔插值法 |
+| CatmullRom | `11` | Catmull-Rom 三次插值方法。 |
+| CubicConvolution | `12` | Cubic Convolution 插值方法 |
+| CubicBSpline | `13` | CubicBSpline 三次插值方法 |
+| Mitchell | `14` | Mitchell 三次插值方法 |
+| SinC | `15` | Sinc (Lanczos3) 三次插值方法 |
+| Bell | `16` | Bell 插值方法 |
 
-### 例子
+## 示例
 
-以下代码演示了如何使用新的 SinC 调整大小类型调整图像大小。
+以下代码演示如何使用新的 SinC 缩放类型调整图像大小。
 
 ```csharp
 [C#]
@@ -54,7 +55,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFile))
 }
 ```
 
-以下代码演示了如何使用新的 Bell 调整类型调整图像大小。
+以下代码演示如何使用新的 Bell 缩放类型调整图像大小。
 
 ```csharp
 [C#]
@@ -70,7 +71,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFile))
 }
 ```
 
-以下代码演示了如何使用新的 Mitchell 调整大小类型调整图像大小。
+以下代码演示如何使用新的 Mitchell 缩放类型调整图像大小。
 
 ```csharp
 [C#]
@@ -86,7 +87,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFile))
 }
 ```
 
-以下代码演示了如何使用新的 CatmullRom 调整类型调整图像大小。
+以下代码演示如何使用新的 CatmullRom 缩放类型调整图像大小。
 
 ```csharp
 [C#]
@@ -102,7 +103,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFile))
 }
 ```
 
-以下代码演示了如何使用新的 CubicBSpline 调整类型调整图像大小。
+以下代码演示如何使用新的 CubicBSpline 缩放类型调整图像大小。
 
 ```csharp
 [C#]
@@ -118,7 +119,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFile))
 }
 ```
 
-以下代码演示了如何使用新的 CubicConvolution 调整大小类型调整图像大小。
+以下代码演示如何使用新的 CubicConvolution 缩放类型调整图像大小。
 
 ```csharp
 [C#]
@@ -134,9 +135,9 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFile))
 }
 ```
 
-### 也可以看看
+### 另请参阅
 
-* 命名空间 [Aspose.PSD](../../aspose.psd/)
-* 部件 [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

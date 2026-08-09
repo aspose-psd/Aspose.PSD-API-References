@@ -1,11 +1,12 @@
 ---
-title: ITextPortion.Text
-second_title: Aspose.PSD for .NET API 参考
-description: ITextPortion 财产. 获取或设置文本
+title: "ITextPortion.Text"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "ITextPortion 属性。获取或设置文本"
 type: docs
 weight: 30
 url: /zh/net/aspose.psd.fileformats.psd.layers.text/itextportion/text/
 ---
+{{< psd/tize >}}
 ## ITextPortion.Text property
 
 获取或设置文本。
@@ -14,19 +15,19 @@ url: /zh/net/aspose.psd.fileformats.psd.layers.text/itextportion/text/
 public string Text { get; set; }
 ```
 
-### 适当的价值
+### Property Value
 
-文本.
+文本。
 
-### 例子
+## 示例
 
-下面的示例演示了如何在 Aspose.PSD 中的一个文本层中呈现不同的样式
+以下示例演示了如何在 Aspose.PSD 中的一个文本层中渲染不同的样式。
 
 ```csharp
 [C#]
 
 string sourceFile = "text212.psd";
-string etalonFile = "Ethalon_text212.psd";
+string etalonFile = "Output_text212.psd";
 string outputFile = "Output_text212.psd";
 
 using (var img = (PsdImage)Image.Load(sourceFile))
@@ -49,12 +50,12 @@ using (var img = (PsdImage)Image.Load(sourceFile))
         defaultStyle,
         defaultParagraph);
 
-    newPortions[0].Style.Underline = true; // 编辑文本样式 "E=mc"
-    newPortions[1].Style.FontBaseline = FontBaseline.Superscript; // 编辑文本样式 "2\r"
-    newPortions[2].Style.FauxBold = true; // 编辑文本样式“粗体”
-    newPortions[3].Style.FauxItalic = true; // 编辑文本样式 "Italic\r"
-    newPortions[3].Style.BaselineShift = -25; // 编辑文本样式 "Italic\r"
-    newPortions[4].Style.FontCaps = FontCaps.SmallCaps; // 编辑文本样式“小写文本”
+    newPortions[0].Style.Underline = true; // edit text style "E=mc"
+    newPortions[1].Style.FontBaseline = FontBaseline.Superscript; // edit text style "2\r"
+    newPortions[2].Style.FauxBold = true; // edit text style "Bold"
+    newPortions[3].Style.FauxItalic = true; // edit text style "Italic\r"
+    newPortions[3].Style.BaselineShift = -25; // edit text style "Italic\r"
+    newPortions[4].Style.FontCaps = FontCaps.SmallCaps; // edit text style "Lowercasetext"
 
     foreach (var newPortion in newPortions)
     {
@@ -66,7 +67,7 @@ using (var img = (PsdImage)Image.Load(sourceFile))
 }
 ```
 
-下面的代码演示了 Aspose.PSD 如何获取文本层内联格式的属性。
+以下代码演示了 Aspose.PSD 如何获取文本图层内联格式的属性。
 
 ```csharp
 [C#]
@@ -91,7 +92,7 @@ using (var psdImage = (PsdImage)Image.Load(sourceFile))
 
         var textLayer = (TextLayer)layer;
 
-        // 获取包含在文本层中的字体
+        // 获取文本图层中包含的字体
         var fonts = textLayer.GetFonts();
         var textPortions = textLayer.TextData.Items;
 
@@ -120,7 +121,7 @@ using (var psdImage = (PsdImage)Image.Load(sourceFile))
 }
 ```
 
-以下代码示例演示了编辑文本部分及其文本样式。
+以下代码示例演示了文本片段及其文本样式的编辑。
 
 ```csharp
 [C#]
@@ -143,7 +144,7 @@ using (var im = (PsdImage)Image.Load(filePath))
                 throw new Exception();
             }
 
-            // 检查每一部分的文本
+            // 检查每个片段的文本
             if (portions[0].Text != "Old " ||
                 portions[1].Text != "color" ||
                 portions[2].Text != " text\r" ||
@@ -153,7 +154,7 @@ using (var im = (PsdImage)Image.Load(filePath))
             }
 
             // 检查段落数据
-            // 段落有不同的理由
+            // 段落的对齐方式不同
             if (
                 (int)portions[0].Paragraph.Justification != 0 ||
                 (int)portions[1].Paragraph.Justification != 0 ||
@@ -163,7 +164,7 @@ using (var im = (PsdImage)Image.Load(filePath))
                 throw new Exception();
             }
 
-            // 第一段和第二段的所有其他属性都相等
+            // 第一段和第二段的所有其他属性相等
             for (int j = 0; j < portions.Length; j++)
             {
                 var paragraph = portions[j].Paragraph;
@@ -187,7 +188,7 @@ using (var im = (PsdImage)Image.Load(filePath))
                     Math.Abs(paragraph.LetterSpacing[0]) > Tolerance ||
                     Math.Abs(paragraph.LetterSpacing[1]) > Tolerance ||
                     Math.Abs(paragraph.LetterSpacing[2]) > Tolerance ||
-                    paragraph.LeadingType != LeadingMode.Auto ||
+                    paragraph.LeadingType != LeadingType.BottomToBottom ||
                     paragraph.PreHyphen != 2 ||
                     paragraph.PostHyphen != 2 ||
                     Math.Abs(paragraph.SpaceBefore) > Tolerance ||
@@ -203,7 +204,7 @@ using (var im = (PsdImage)Image.Load(filePath))
             }
 
             // 检查样式数据
-            // 样式有不同的颜色和字体大小
+            // 样式的颜色和字体大小不同
             if (Math.Abs(portions[0].Style.FontSize - 12) > Tolerance ||
                 Math.Abs(portions[1].Style.FontSize - 12) > Tolerance ||
                 Math.Abs(portions[2].Style.FontSize - 12) > Tolerance ||
@@ -239,29 +240,29 @@ using (var im = (PsdImage)Image.Load(filePath))
             portions[0].Text = "Hello ";
             portions[1].Text = "World";
 
-            // 文本部分删除示例
+            // 文本片段删除示例
             layer.TextData.RemovePortion(3);
             layer.TextData.RemovePortion(2);
 
-            // 添加新文本部分的示例
+            // 添加新文本片段的示例
             var createdPortion = layer.TextData.ProducePortion();
             createdPortion.Text = "!!!\r";
             layer.TextData.AddPortion(createdPortion);
 
             portions = layer.TextData.Items;
 
-            // 部分段落和样式编辑示例
+            // 段落和样式编辑（针对片段）的示例
             // 设置右对齐
             portions[0].Paragraph.Justification = JustificationMode.Right;
             portions[1].Paragraph.Justification = JustificationMode.Right;
             portions[2].Paragraph.Justification = JustificationMode.Right;
 
-            // 每种样式的不同颜色。将更改，但不完全支持渲染
+            // 每种样式的颜色不同。将会更改，但渲染尚未完全支持
             portions[0].Style.FillColor = Color.Aquamarine;
             portions[1].Style.FillColor = Color.Violet;
             portions[2].Style.FillColor = Color.LightBlue;
 
-            // 不同的字体。将更改，但不完全支持渲染
+            // 字体不同。将会更改，但渲染尚未完全支持
             portions[0].Style.FontSize = 6;
             portions[1].Style.FontSize = 8;
             portions[2].Style.FontSize = 10;
@@ -276,10 +277,10 @@ using (var im = (PsdImage)Image.Load(filePath))
 }
 ```
 
-### 也可以看看
+### 另请参阅
 
 * interface [ITextPortion](../)
-* 命名空间 [Aspose.PSD.FileFormats.Psd.Layers.Text](../../itextportion/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.Text](../../../aspose.psd.fileformats.psd.layers.text/)
+* assembly [Aspose.PSD](../../../)
 
 

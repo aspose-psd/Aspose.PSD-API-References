@@ -1,43 +1,44 @@
 ---
-title: LangAlt.LangAlt
-second_title: Aspose.PSD for .NET API 参考
-description: LangAlt 构造函数. 初始化一个新的实例LangAlt类.
+title: "LangAlt.LangAlt"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "LangAlt 构造函数。初始化 LangAlt 类的新实例"
 type: docs
 weight: 10
 url: /zh/net/aspose.psd.xmp/langalt/langalt/
 ---
+{{< psd/tize >}}
 ## LangAlt(string) {#constructor_1}
 
-初始化一个新的实例[`LangAlt`](../)类.
+初始化 [`LangAlt`](../) 类的新实例。
 
 ```csharp
 public LangAlt(string defaultValue)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
 | defaultValue | String | 默认值。 |
 
-### 也可以看看
+### 另请参阅
 
 * class [LangAlt](../)
-* 命名空间 [Aspose.PSD.Xmp](../../langalt/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## LangAlt() {#constructor}
 
-初始化一个新的实例[`LangAlt`](../)类.
+初始化 [`LangAlt`](../) 类的新实例。
 
 ```csharp
 public LangAlt()
 ```
 
-### 也可以看看
+### 另请参阅
 
 * class [LangAlt](../)
-* 命名空间 [Aspose.PSD.Xmp](../../langalt/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

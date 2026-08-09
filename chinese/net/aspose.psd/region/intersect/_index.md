@@ -1,90 +1,91 @@
 ---
-title: Region.Intersect
-second_title: Aspose.PSD for .NET API 参考
-description: Region 方法. 更新这个Region到自身与指定的交集RectangleF结构.
+title: "Region.Intersect"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "Region 方法。将此 Region 更新为其自身与指定的 RectangleF 结构的交集"
 type: docs
-weight: 60
+weight: 70
 url: /zh/net/aspose.psd/region/intersect/
 ---
+{{< psd/tize >}}
 ## Intersect(RectangleF) {#intersect_2}
 
-更新这个[`Region`](../)到自身与指定的交集[`RectangleF`](../../rectanglef/)结构.
+将此 [`Region`](../) 更新为其自身与指定的 [`RectangleF`](../../rectanglef/) 结构的交集。
 
 ```csharp
 public void Intersect(RectangleF rect)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| rect | RectangleF | 这[`RectangleF`](../../rectanglef/)与此相交的结构[`Region`](../). |
+| rect | RectangleF | 用于与此 [`Region`](../) 求交的 [`RectangleF`](../../rectanglef/) 结构。 |
 
-### 也可以看看
+### 另请参阅
 
 * struct [RectangleF](../../rectanglef/)
 * class [Region](../)
-* 命名空间 [Aspose.PSD](../../region/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Intersect(Rectangle) {#intersect_1}
 
-更新这个[`Region`](../)到自身与指定的交集[`Rectangle`](../../rectangle/)结构.
+将此 [`Region`](../) 更新为其自身与指定的 [`Rectangle`](../../rectangle/) 结构的交集。
 
 ```csharp
 public void Intersect(Rectangle rect)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| rect | Rectangle | 这[`Rectangle`](../../rectangle/)与此相交的结构[`Region`](../). |
+| rect | Rectangle | 用于与此 [`Region`](../) 求交的 [`Rectangle`](../../rectangle/) 结构。 |
 
-### 也可以看看
+### 另请参阅
 
 * struct [Rectangle](../../rectangle/)
 * class [Region](../)
-* 命名空间 [Aspose.PSD](../../region/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Intersect(GraphicsPath) {#intersect}
 
-更新这个[`Region`](../)到自身与指定的交集[`GraphicsPath`](../../graphicspath/) .
+将此 [`Region`](../) 更新为其自身与指定的 [`GraphicsPath`](../../graphicspath/) 的交集。
 
 ```csharp
 public void Intersect(GraphicsPath path)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| path | GraphicsPath | 这[`GraphicsPath`](../../graphicspath/)与此相交[`Region`](../). |
+| path | GraphicsPath | 用于与此 [`Region`](../) 求交的 [`GraphicsPath`](../../graphicspath/)。 |
 
-### 也可以看看
+### 另请参阅
 
 * class [GraphicsPath](../../graphicspath/)
 * class [Region](../)
-* 命名空间 [Aspose.PSD](../../region/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Intersect(Region) {#intersect_3}
 
-更新这个[`Region`](../)到自身与指定的交集[`Region`](../) .
+将此 [`Region`](../) 更新为其自身与指定的 [`Region`](../) 的交集。
 
 ```csharp
 public void Intersect(Region region)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| region | Region | 这[`Region`](../)与此相交[`Region`](../). |
+| region | Region | 用于与此 [`Region`](../) 求交的 [`Region`](../)。 |
 
-### 也可以看看
+### 另请参阅
 
 * class [Region](../)
-* 命名空间 [Aspose.PSD](../../region/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

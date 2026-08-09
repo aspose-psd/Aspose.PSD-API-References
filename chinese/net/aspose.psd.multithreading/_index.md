@@ -1,17 +1,18 @@
 ---
-title: Aspose.PSD.Multithreading
-second_title: Aspose.PSD for .NET API 参考
-description: 命名空间包含多线程类
+title: "Aspose.PSD.Multithreading"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "该命名空间包含多线程类"
 type: docs
-weight: 460
+weight: 500
 url: /zh/net/aspose.psd.multithreading/
 ---
-命名空间包含多线程类。
+{{< psd/tize >}}
+该命名空间包含多线程类。
 
-## 课程
+## 类
 
-| 班级 | 描述 |
+| 类 | 描述 |
 | --- | --- |
-| [InterruptMonitor](./interruptmonitor/) | 代表中断信息。 |
+| [InterruptMonitor](./interruptmonitor/) | 表示中断信息。 |
 
 

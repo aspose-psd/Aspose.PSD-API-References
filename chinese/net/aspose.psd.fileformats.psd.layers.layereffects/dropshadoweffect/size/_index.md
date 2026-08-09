@@ -1,27 +1,28 @@
 ---
-title: DropShadowEffect.Size
-second_title: Aspose.PSD for .NET API 参考
-description: DropShadowEffect 财产. 获取或设置以像素为单位的模糊值
+title: "DropShadowEffect.Size"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "DropShadowEffect 属性。获取或设置以像素为单位的模糊值"
 type: docs
 weight: 100
 url: /zh/net/aspose.psd.fileformats.psd.layers.layereffects/dropshadoweffect/size/
 ---
+{{< psd/tize >}}
 ## DropShadowEffect.Size property
 
-获取或设置以像素为单位的模糊值。
+获取或设置模糊值（单位：像素）。
 
 ```csharp
 public int Size { get; set; }
 ```
 
-### 适当的价值
+### Property Value
 
-尺寸。
+大小。
 
-### 也可以看看
+### 另请参阅
 
 * class [DropShadowEffect](../)
-* 命名空间 [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../dropshadoweffect/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../../)
 
 

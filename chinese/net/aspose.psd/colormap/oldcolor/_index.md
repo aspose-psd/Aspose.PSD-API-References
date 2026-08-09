@@ -1,28 +1,29 @@
 ---
-title: ColorMap.OldColor
-second_title: Aspose.PSD for .NET API 参考
-description: ColorMap 财产. 获取或设置现有Color要转换的结构.
+title: "ColorMap.OldColor"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "ColorMap 属性。获取或设置要转换的现有 Color 结构。"
 type: docs
 weight: 30
 url: /zh/net/aspose.psd/colormap/oldcolor/
 ---
+{{< psd/tize >}}
 ## ColorMap.OldColor property
 
-获取或设置现有[`Color`](../../color/)要转换的结构.
+获取或设置要转换的现有 [`Color`](../../color/) 结构。
 
 ```csharp
 public Color OldColor { get; set; }
 ```
 
-### 适当的价值
+### Property Value
 
-现有的[`Color`](../../color/)要转换的结构。
+要转换的现有 [`Color`](../../color/) 结构。
 
-### 也可以看看
+### 另请参阅
 
 * struct [Color](../../color/)
 * class [ColorMap](../)
-* 命名空间 [Aspose.PSD](../../colormap/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

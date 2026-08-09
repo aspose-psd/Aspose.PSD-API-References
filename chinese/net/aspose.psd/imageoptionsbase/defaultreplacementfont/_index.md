@@ -1,31 +1,32 @@
 ---
-title: ImageOptionsBase.DefaultReplacementFont
-second_title: Aspose.PSD for .NET API 参考
-description: ImageOptionsBase 财产. 获取或设置默认替换字体导出到光栅时将用于绘制文本的字体如果系统中未显示 PSD 文件中的现有图层字体 可以使用下一个代码片段来获取默认字体的正确名称 System.Drawing.Text.InstalledFontCollection col  new System.Drawing.Text.InstalledFontCollection System.Drawing.FontFamily families  col.Families string defaultFontName  families0.Name PsdLoadOptions psdLoadOptions  new PsdLoadOptions  DefaultReplacementFont  defaultFontName  复制代码
+title: "ImageOptionsBase.DefaultReplacementFont"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "ImageOptionsBase 属性。获取或设置默认替换字体，该字体将在导出为光栅时用于绘制文本，如果 PSD 文件中的现有图层字体在系统中不存在。要获取默认字体的正确名称，可以使用以下代码片段 System.Drawing.Text.InstalledFontCollection col  new System.Drawing.Text.InstalledFontCollection System.Drawing.FontFamily families  col.Families string defaultFontName  families0.Name PsdLoadOptions psdLoadOptions  new PsdLoadOptions  DefaultReplacementFont  defaultFontName"
 type: docs
 weight: 20
 url: /zh/net/aspose.psd/imageoptionsbase/defaultreplacementfont/
 ---
+{{< psd/tize >}}
 ## ImageOptionsBase.DefaultReplacementFont property
 
-获取或设置默认替换字体（导出到光栅时将用于绘制文本的字体，如果系统中未显示 PSD 文件中的现有图层字体）。 可以使用下一个代码片段来获取默认字体的正确名称: System.Drawing.Text.InstalledFontCollection col = new System.Drawing.Text.InstalledFontCollection(); System.Drawing.FontFamily[] families = col.Families; string defaultFontName = families[0].Name; PsdLoadOptions psdLoadOptions = new PsdLoadOptions() { DefaultReplacementFont = defaultFontName }); 复制代码
+获取或设置默认替代字体（在导出为光栅时用于绘制文本的字体，如果 PSD 文件中现有图层的字体在系统中不存在）。要获取默认字体的正确名称，可以使用以下代码片段：System.Drawing.Text.InstalledFontCollection col = new System.Drawing.Text.InstalledFontCollection(); System.Drawing.FontFamily[] families = col.Families; string defaultFontName = families[0].Name; PsdLoadOptions psdLoadOptions = new PsdLoadOptions() { DefaultReplacementFont = defaultFontName });
 
 ```csharp
 public virtual string DefaultReplacementFont { get; set; }
 ```
 
-### 适当的价值
+### Property Value
 
 默认替换字体。
 
-### 例子
+## 示例
 
-以下示例显示如何使用 DefaultReplacementFont 属性更改默认替换字体。
+以下示例展示了如何使用 DefaultReplacementFont 属性来更改默认替换字体。
 
 ```csharp
 [C#]
 
-// 请不要安装 Konstanting Font，因为这个测试应该替换未安装的字体
+// 请不要安装 Konstanting 字体，因为此测试应替换未安装的字体
 string sourceFileName = "sample_konstanting.psd";
 
 string[] outputs = new string[]
@@ -35,19 +36,19 @@ string[] outputs = new string[]
     "replacedfont2.jpg"
 };
 
-using (PsdImage image = (PsdImage)Image.Load(sourceFileName, new PsdLoadOptions()))
+using (PsdImage image = (PsdImage)Image.Load(sourceFileName, new PsdLoadOptions() { AllowNonChangedLayerRepaint = true }))
 {
-    // 这样你就可以为不同的输出使用不同的字体 
+    // 这样您可以为不同的输出使用不同的字体。
     image.Save(outputs[0], new TiffOptions(TiffExpectedFormat.TiffJpegRgb) { DefaultReplacementFont = "Arial" });
     image.Save(outputs[1], new PngOptions { DefaultReplacementFont = "Verdana" });
     image.Save(outputs[2], new JpegOptions { DefaultReplacementFont = "Times New Roman" });
 }
 ```
 
-### 也可以看看
+### 另请参阅
 
 * class [ImageOptionsBase](../)
-* 命名空间 [Aspose.PSD](../../imageoptionsbase/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

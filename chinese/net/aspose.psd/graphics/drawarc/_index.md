@@ -1,136 +1,137 @@
 ---
-title: Graphics.DrawArc
-second_title: Aspose.PSD for .NET API 参考
-description: Graphics 方法. 绘制表示由一对坐标宽度和高度指定的椭圆的一部分的弧
+title: "Graphics.DrawArc"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "Graphics 方法。绘制一个弧线，表示由一对坐标、宽度和高度指定的椭圆的一部分。"
 type: docs
-weight: 160
+weight: 170
 url: /zh/net/aspose.psd/graphics/drawarc/
 ---
+{{< psd/tize >}}
 ## DrawArc(Pen, float, float, float, float, float, float) {#drawarc_3}
 
-绘制表示由一对坐标、宽度和高度指定的椭圆的一部分的弧。
+绘制由一对坐标、宽度和高度指定的椭圆的一段弧线。
 
 ```csharp
 public void DrawArc(Pen pen, float x, float y, float width, float height, float startAngle, 
     float sweepAngle)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| pen | Pen | [`Pen`](../../pen/)确定圆弧的颜色、宽度和样式。 |
-| x | Single | 定义椭圆的矩形左上角的 x 坐标。 |
-| y | Single | 定义椭圆的矩形左上角的 y 坐标。 |
-| width | Single | 定义椭圆的矩形的宽度。 |
-| height | Single | 定义椭圆的矩形的高度。 |
-| startAngle | Single | 从 x 轴到圆弧起点的顺时针角度（以度为单位）。 |
-| sweepAngle | Single | 从角度顺时针测量的角度*startAngle*圆弧终点的参数。 |
+| pen | Pen | [`Pen`](../../pen/) 用于确定弧线的颜色、宽度和样式。 |
+| x | 单精度 | 定义椭圆的矩形左上角的 x 坐标。 |
+| y | 单精度 | 定义椭圆的矩形左上角的 y 坐标。 |
+| 宽度 | 单精度 | 定义椭圆的矩形的宽度。 |
+| 高度 | 单精度 | 定义椭圆的矩形的高度。 |
+| startAngle | 单精度 | 从 x 轴顺时针测量到弧线起始点的角度（以度为单位）。 |
+| sweepAngle | 单精度 | 从 *startAngle* 参数顺时针测量到弧线结束点的角度（以度为单位）。 |
 
-### 例外
+### 异常
 
-| 例外 | （健康）状况 |
+| 异常 | 条件 |
 | --- | --- |
-| ArgumentNullException | *pen*一片空白。 |
+| ArgumentNullException | *pen* 为 null。 |
 
-### 也可以看看
+### 另请参阅
 
 * class [Pen](../../pen/)
 * class [Graphics](../)
-* 命名空间 [Aspose.PSD](../../graphics/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## DrawArc(Pen, RectangleF, float, float) {#drawarc_1}
 
-绘制代表由 a 指定的椭圆的一部分的弧[`RectangleF`](../../rectanglef/)结构.
+绘制一个弧线，表示由 [`RectangleF`](../../rectanglef/) 结构指定的椭圆的一部分。
 
 ```csharp
 public void DrawArc(Pen pen, RectangleF rect, float startAngle, float sweepAngle)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| pen | Pen | [`Pen`](../../pen/)确定圆弧的颜色、宽度和样式。 |
-| rect | RectangleF | [`RectangleF`](../../rectanglef/)定义椭圆边界的结构。 |
-| startAngle | Single | 从 x 轴到圆弧起点的顺时针角度（以度为单位）。 |
-| sweepAngle | Single | 从角度顺时针测量的角度*startAngle*圆弧终点的参数。 |
+| pen | Pen | [`Pen`](../../pen/) 用于确定弧线的颜色、宽度和样式。 |
+| rect | RectangleF | [`RectangleF`](../../rectanglef/) 结构，定义椭圆的边界。 |
+| startAngle | 单精度 | 从 x 轴顺时针测量到弧线起始点的角度（以度为单位）。 |
+| sweepAngle | 单精度 | 从 *startAngle* 参数顺时针测量到弧线结束点的角度（以度为单位）。 |
 
-### 例外
+### 异常
 
-| 例外 | （健康）状况 |
+| 异常 | 条件 |
 | --- | --- |
-| ArgumentNullException | *pen*一片空白 |
+| ArgumentNullException | *pen* 为 null |
 
-### 也可以看看
+### 另请参阅
 
 * class [Pen](../../pen/)
 * struct [RectangleF](../../rectanglef/)
 * class [Graphics](../)
-* 命名空间 [Aspose.PSD](../../graphics/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## DrawArc(Pen, int, int, int, int, int, int) {#drawarc_2}
 
-绘制表示由一对坐标、宽度和高度指定的椭圆的一部分的弧。
+绘制由一对坐标、宽度和高度指定的椭圆的一段弧线。
 
 ```csharp
 public void DrawArc(Pen pen, int x, int y, int width, int height, int startAngle, int sweepAngle)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| pen | Pen | [`Pen`](../../pen/)确定圆弧的颜色、宽度和样式。 |
+| pen | Pen | [`Pen`](../../pen/) 用于确定弧线的颜色、宽度和样式。 |
 | x | Int32 | 定义椭圆的矩形左上角的 x 坐标。 |
 | y | Int32 | 定义椭圆的矩形左上角的 y 坐标。 |
-| width | Int32 | 定义椭圆的矩形的宽度。 |
-| height | Int32 | 定义椭圆的矩形的高度。 |
-| startAngle | Int32 | 从 x 轴到圆弧起点的顺时针角度（以度为单位）。 |
-| sweepAngle | Int32 | 从角度顺时针测量的角度*startAngle*圆弧终点的参数。 |
+| 宽度 | Int32 | 定义椭圆的矩形的宽度。 |
+| 高度 | Int32 | 定义椭圆的矩形的高度。 |
+| startAngle | Int32 | 从 x 轴顺时针测量到弧线起始点的角度（以度为单位）。 |
+| sweepAngle | Int32 | 从 *startAngle* 参数顺时针测量到弧线结束点的角度（以度为单位）。 |
 
-### 例外
+### 异常
 
-| 例外 | （健康）状况 |
+| 异常 | 条件 |
 | --- | --- |
-| ArgumentNullException | *pen*一片空白。 |
+| ArgumentNullException | *pen* 为 null。 |
 
-### 也可以看看
+### 另请参阅
 
 * class [Pen](../../pen/)
 * class [Graphics](../)
-* 命名空间 [Aspose.PSD](../../graphics/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## DrawArc(Pen, Rectangle, float, float) {#drawarc}
 
-绘制代表由 a 指定的椭圆的一部分的弧[`Rectangle`](../../rectangle/)结构.
+绘制一个弧线，表示由 [`Rectangle`](../../rectangle/) 结构指定的椭圆的一部分。
 
 ```csharp
 public void DrawArc(Pen pen, Rectangle rect, float startAngle, float sweepAngle)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| pen | Pen | [`Pen`](../../pen/)确定圆弧的颜色、宽度和样式。 |
-| rect | Rectangle | [`RectangleF`](../../rectanglef/)定义椭圆边界的结构。 |
-| startAngle | Single | 从 x 轴到圆弧起点的顺时针角度（以度为单位）。 |
-| sweepAngle | Single | 从角度顺时针测量的角度*startAngle*圆弧终点的参数。 |
+| pen | Pen | [`Pen`](../../pen/) 用于确定弧线的颜色、宽度和样式。 |
+| rect | Rectangle | [`RectangleF`](../../rectanglef/) 结构，定义椭圆的边界。 |
+| startAngle | 单精度 | 从 x 轴顺时针测量到弧线起始点的角度（以度为单位）。 |
+| sweepAngle | 单精度 | 从 *startAngle* 参数顺时针测量到弧线结束点的角度（以度为单位）。 |
 
-### 例外
+### 异常
 
-| 例外 | （健康）状况 |
+| 异常 | 条件 |
 | --- | --- |
-| ArgumentNullException | *pen*一片空白。 |
+| ArgumentNullException | *pen* 为 null。 |
 
-### 也可以看看
+### 另请参阅
 
 * class [Pen](../../pen/)
 * struct [Rectangle](../../rectangle/)
 * class [Graphics](../)
-* 命名空间 [Aspose.PSD](../../graphics/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

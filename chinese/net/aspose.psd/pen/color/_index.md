@@ -1,34 +1,35 @@
 ---
-title: Pen.Color
-second_title: Aspose.PSD for .NET API 参考
-description: Pen 财产. 获取或设置颜色Pen .
+title: "Pen.Color"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "Pen 属性。获取或设置此 Pen 的颜色"
 type: docs
 weight: 40
 url: /zh/net/aspose.psd/pen/color/
 ---
+{{< psd/tize >}}
 ## Pen.Color property
 
-获取或设置颜色[`Pen`](../) .
+获取或设置此 [`Pen`](../) 的颜色
 
 ```csharp
 public Color Color { get; set; }
 ```
 
-### 适当的价值
+### Property Value
 
-A`Color`代表这个颜色的结构[`Pen`](../).
+一个 `Color` 结构，表示此 [`Pen`](../) 的颜色
 
-### 例外
+### 异常
 
-| 例外 | （健康）状况 |
+| 异常 | 条件 |
 | --- | --- |
-| ArgumentException | 这`Color`属性设置在一个不可变的[`Pen`](../)，例如返回的那些[`Pen`](../)班级。 |
+| ArgumentException | `Color` 属性设置在不可变的 [`Pen`](../) 上，例如由 [`Pen`](../) 类返回的对象 |
 
-### 也可以看看
+### 另请参阅
 
 * struct [Color](../../color/)
 * class [Pen](../)
-* 命名空间 [Aspose.PSD](../../pen/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

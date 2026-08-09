@@ -1,28 +1,29 @@
 ---
-title: PropertyStructure.KeyID
-second_title: Aspose.PSD for .NET API 参考
-description: PropertyStructure 财产. 获取或设置密钥 ID
+title: "PropertyStructure.KeyID"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "PropertyStructure 属性。获取或设置键 ID"
 type: docs
 weight: 50
 url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/propertystructure/keyid/
 ---
+{{< psd/tize >}}
 ## PropertyStructure.KeyID property
 
-获取或设置密钥 ID。
+获取或设置键 ID。
 
 ```csharp
 public ClassID KeyID { get; set; }
 ```
 
-### 适当的价值
+### Property Value
 
-密钥 ID.
+键标识。
 
-### 也可以看看
+### 另请参阅
 
 * class [ClassID](../../../aspose.psd.fileformats.psd.layers.layerresources/classid/)
 * class [PropertyStructure](../)
-* 命名空间 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../propertystructure/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 

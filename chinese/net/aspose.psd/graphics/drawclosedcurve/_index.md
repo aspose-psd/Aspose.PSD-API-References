@@ -1,125 +1,126 @@
 ---
-title: Graphics.DrawClosedCurve
-second_title: Aspose.PSD for .NET API 参考
-description: Graphics 方法. 绘制由数组定义的闭合基数样条PointF结构此方法使用默认张力 0.5 和Alternate填充模式.
+title: "Graphics.DrawClosedCurve"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "Graphics 方法。绘制由 PointF 结构数组定义的闭合基数样条曲线。此方法使用默认张力 0.5 和 Alternate 填充模式。"
 type: docs
-weight: 190
+weight: 200
 url: /zh/net/aspose.psd/graphics/drawclosedcurve/
 ---
+{{< psd/tize >}}
 ## DrawClosedCurve(Pen, PointF[]) {#drawclosedcurve}
 
-绘制由数组定义的闭合基数样条[`PointF`](../../pointf/)结构。此方法使用默认张力 0.5 和Alternate填充模式.
+绘制由 [`PointF`](../../pointf/) 结构数组定义的闭合基数样条曲线。此方法使用默认张力 0.5 和 Alternate 填充模式。
 
 ```csharp
 public void DrawClosedCurve(Pen pen, PointF[] points)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| pen | Pen | [`Pen`](../../pen/)确定曲线的颜色、宽度和高度。 |
-| points | PointF[] | 阵列的[`PointF`](../../pointf/)定义样条的结构。 |
+| pen | Pen | [`Pen`](../../pen/) 决定曲线的颜色、宽度和高度。 |
+| points | PointF[] | 定义样条的 [`PointF`](../../pointf/) 结构数组。 |
 
-### 例外
+### 异常
 
-| 例外 | （健康）状况 |
+| 异常 | 条件 |
 | --- | --- |
-| ArgumentNullException | *pen*为空。 -或- *points*一片空白。 |
+| ArgumentNullException | *pen* 为 null。-or- *points* 为 null。 |
 
-### 也可以看看
+### 另请参阅
 
 * class [Pen](../../pen/)
 * struct [PointF](../../pointf/)
 * class [Graphics](../)
-* 命名空间 [Aspose.PSD](../../graphics/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## DrawClosedCurve(Pen, PointF[], float) {#drawclosedcurve_1}
 
-绘制由数组定义的闭合基数样条[`PointF`](../../pointf/)使用特定张力的结构。该方法使用默认Alternate填充模式.
+绘制由 [`PointF`](../../pointf/) 结构数组定义的闭合基数样条曲线，使用指定的张力。此方法使用默认的 Alternate 填充模式。
 
 ```csharp
 public void DrawClosedCurve(Pen pen, PointF[] points, float tension)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| pen | Pen | [`Pen`](../../pen/)确定曲线的颜色、宽度和高度。 |
-| points | PointF[] | 阵列的[`PointF`](../../pointf/)定义样条的结构。 |
-| tension | Single | 大于或等于 0.0F 的值指定曲线的张力。 |
+| pen | Pen | [`Pen`](../../pen/) 决定曲线的颜色、宽度和高度。 |
+| points | PointF[] | 定义样条的 [`PointF`](../../pointf/) 结构数组。 |
+| 张力 | 单精度 | 大于或等于 0.0F 的值，指定曲线的张力。 |
 
-### 例外
+### 异常
 
-| 例外 | （健康）状况 |
+| 异常 | 条件 |
 | --- | --- |
-| ArgumentNullException | *pen*为空。 -或- *points*一片空白。 |
+| ArgumentNullException | *pen* 为 null。-or- *points* 为 null。 |
 
-### 也可以看看
+### 另请参阅
 
 * class [Pen](../../pen/)
 * struct [PointF](../../pointf/)
 * class [Graphics](../)
-* 命名空间 [Aspose.PSD](../../graphics/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## DrawClosedCurve(Pen, Point[]) {#drawclosedcurve_2}
 
-绘制由数组定义的闭合基数样条[`Point`](../../point/)结构。此方法使用默认张力 0.5 和Alternate填充模式.
+绘制由 [`Point`](../../point/) 结构数组定义的闭合基数样条曲线。此方法使用默认张力 0.5 和 Alternate 填充模式。
 
 ```csharp
 public void DrawClosedCurve(Pen pen, Point[] points)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| pen | Pen | [`Pen`](../../pen/)确定曲线的颜色、宽度和高度。 |
-| points | Point[] | 阵列的[`Point`](../../point/)定义样条的结构。 |
+| pen | Pen | [`Pen`](../../pen/) 决定曲线的颜色、宽度和高度。 |
+| points | Point[] | 定义样条的 [`Point`](../../point/) 结构数组。 |
 
-### 例外
+### 异常
 
-| 例外 | （健康）状况 |
+| 异常 | 条件 |
 | --- | --- |
-| ArgumentNullException | *pen*为空。 -或- *points*一片空白。 |
+| ArgumentNullException | *pen* 为 null。-or- *points* 为 null。 |
 
-### 也可以看看
+### 另请参阅
 
 * class [Pen](../../pen/)
 * struct [Point](../../point/)
 * class [Graphics](../)
-* 命名空间 [Aspose.PSD](../../graphics/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## DrawClosedCurve(Pen, Point[], float) {#drawclosedcurve_3}
 
-绘制由数组定义的闭合基数样条[`Point`](../../point/)使用特定张力的结构。该方法使用默认Alternate填充模式.
+绘制由 [`Point`](../../point/) 结构数组定义的闭合基数样条曲线，使用指定的张力。此方法使用默认的 Alternate 填充模式。
 
 ```csharp
 public void DrawClosedCurve(Pen pen, Point[] points, float tension)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| pen | Pen | [`Pen`](../../pen/)确定曲线的颜色、宽度和高度。 |
-| points | Point[] | 阵列的[`Point`](../../point/)定义样条的结构。 |
-| tension | Single | 大于或等于 0.0F 的值指定曲线的张力。 |
+| pen | Pen | [`Pen`](../../pen/) 决定曲线的颜色、宽度和高度。 |
+| points | Point[] | 定义样条的 [`Point`](../../point/) 结构数组。 |
+| 张力 | 单精度 | 大于或等于 0.0F 的值，指定曲线的张力。 |
 
-### 例外
+### 异常
 
-| 例外 | （健康）状况 |
+| 异常 | 条件 |
 | --- | --- |
-| ArgumentNullException | *pen*为空。 -或- *points*一片空白。 |
+| ArgumentNullException | *pen* 为 null。-or- *points* 为 null。 |
 
-### 也可以看看
+### 另请参阅
 
 * class [Pen](../../pen/)
 * struct [Point](../../point/)
 * class [Graphics](../)
-* 命名空间 [Aspose.PSD](../../graphics/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

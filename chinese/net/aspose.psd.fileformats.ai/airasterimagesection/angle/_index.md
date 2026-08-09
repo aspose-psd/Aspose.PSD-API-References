@@ -1,11 +1,12 @@
 ---
-title: AiRasterImageSection.Angle
-second_title: Aspose.PSD for .NET API 参考
-description: AiRasterImageSection 财产. 获取角度
+title: "AiRasterImageSection.Angle"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "AiRasterImageSection 属性。获取角度"
 type: docs
 weight: 10
 url: /zh/net/aspose.psd.fileformats.ai/airasterimagesection/angle/
 ---
+{{< psd/tize >}}
 ## AiRasterImageSection.Angle property
 
 获取角度。
@@ -14,14 +15,14 @@ url: /zh/net/aspose.psd.fileformats.ai/airasterimagesection/angle/
 public double Angle { get; }
 ```
 
-### 适当的价值
+### Property Value
 
 角度。
 
-### 也可以看看
+### 另请参阅
 
 * class [AiRasterImageSection](../)
-* 命名空间 [Aspose.PSD.FileFormats.Ai](../../airasterimagesection/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

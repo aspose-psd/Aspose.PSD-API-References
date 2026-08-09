@@ -1,22 +1,23 @@
 ---
-title: AddNoiseSmartFilter.AmountNoise
-second_title: Aspose.PSD for .NET API 参考
-description: AddNoiseSmartFilter 财产. 获取或设置噪声值量
+title: "AddNoiseSmartFilter.AmountNoise"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "AddNoiseSmartFilter 属性。获取或设置噪声值的数量"
 type: docs
 weight: 20
 url: /zh/net/aspose.psd.fileformats.psd.layers.smartfilters/addnoisesmartfilter/amountnoise/
 ---
+{{< psd/tize >}}
 ## AddNoiseSmartFilter.AmountNoise property
 
-获取或设置噪声值量。
+获取或设置噪声值的数量。
 
 ```csharp
 public double AmountNoise { get; set; }
 ```
 
-### 例子
+## 示例
 
-此示例演示了对智能过滤器接口的支持。
+此示例演示了智能过滤器接口的支持。
 
 ```csharp
 [C#]
@@ -39,13 +40,13 @@ using (var image = (PsdImage)Image.Load(sourceFilte))
     // 编辑智能过滤器
     GaussianBlurSmartFilter gaussianBlur = (GaussianBlurSmartFilter)smartObj.SmartFilters.Filters[0];
 
-    // 检查过滤值
+    // 检查过滤器值
     AssertAreEqual(3.1, gaussianBlur.Radius);
     AssertAreEqual(BlendMode.Dissolve, gaussianBlur.BlendMode);
     AssertAreEqual(90d, gaussianBlur.Opacity);
     AssertAreEqual(true, gaussianBlur.IsEnabled);
 
-    // 更新过滤值
+    // 更新过滤器值
     gaussianBlur.Radius = 1;
     gaussianBlur.BlendMode = BlendMode.Divide;
     gaussianBlur.Opacity = 75;
@@ -53,7 +54,7 @@ using (var image = (PsdImage)Image.Load(sourceFilte))
     AddNoiseSmartFilter addNoise = (AddNoiseSmartFilter)smartObj.SmartFilters.Filters[1];
     addNoise.Distribution = NoiseDistribution.Uniform;
 
-    // 添加新的过滤项
+    // 添加新过滤器项
     var filters = new List<SmartFilter>(smartObj.SmartFilters.Filters);
     filters.Add(new GaussianBlurSmartFilter());
     filters.Add(new AddNoiseSmartFilter());
@@ -75,7 +76,7 @@ using (var image = (PsdImage)Image.Load(outputPsd))
 
     GaussianBlurSmartFilter gaussianBlur = (GaussianBlurSmartFilter)smartObj.SmartFilters.Filters[0];
 
-    // 检查过滤值
+    // 检查过滤器值
     AssertAreEqual(1d, gaussianBlur.Radius);
     AssertAreEqual(BlendMode.Divide, gaussianBlur.BlendMode);
     AssertAreEqual(75d, gaussianBlur.Opacity);
@@ -86,10 +87,10 @@ using (var image = (PsdImage)Image.Load(outputPsd))
 }
 ```
 
-### 也可以看看
+### 另请参阅
 
 * class [AddNoiseSmartFilter](../)
-* 命名空间 [Aspose.PSD.FileFormats.Psd.Layers.SmartFilters](../../addnoisesmartfilter/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.SmartFilters](../../../aspose.psd.fileformats.psd.layers.smartfilters/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: JpegExifData.ImageWidth
-second_title: Aspose.PSD for .NET API 参考
-description: JpegExifData 财产. 获取或设置图像宽度
+title: "JpegExifData.ImageWidth"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "JpegExifData 属性。获取或设置图像宽度"
 type: docs
 weight: 90
 url: /zh/net/aspose.psd.exif/jpegexifdata/imagewidth/
 ---
+{{< psd/tize >}}
 ## JpegExifData.ImageWidth property
 
 获取或设置图像宽度。
@@ -14,14 +15,14 @@ url: /zh/net/aspose.psd.exif/jpegexifdata/imagewidth/
 public uint ImageWidth { get; set; }
 ```
 
-### 适当的价值
+### Property Value
 
 图像的宽度。
 
-### 也可以看看
+### 另请参阅
 
 * class [JpegExifData](../)
-* 命名空间 [Aspose.PSD.Exif](../../jpegexifdata/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,26 +1,27 @@
 ---
-title: BlackWhiteAdjustmentLayer.Magentas
-second_title: Aspose.PSD for .NET API 参考
-description: BlackWhiteAdjustmentLayer 财产. 获取或设置洋红色值
+title: "BlackWhiteAdjustmentLayer.Magentas"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "BlackWhiteAdjustmentLayer 属性。获取或设置洋红值"
 type: docs
 weight: 60
 url: /zh/net/aspose.psd.fileformats.psd.layers.adjustmentlayers/blackwhiteadjustmentlayer/magentas/
 ---
+{{< psd/tize >}}
 ## BlackWhiteAdjustmentLayer.Magentas property
 
-获取或设置洋红色值。
+获取或设置品红值。
 
 ```csharp
 public int Magentas { get; set; }
 ```
 
-### 适当的价值
+### Property Value
 
-洋红色值。
+洋红值。
 
-### 例子
+## 示例
 
-以下示例演示了如何在运行时在 Aspose.PSD 中添加黑白调整层
+以下示例演示如何在运行时于 Aspose.PSD 中添加黑白调整图层。
 
 ```csharp
 [C#]
@@ -42,7 +43,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFileName))
 }
 ```
 
-以下示例演示了如何在 Aspose.PSD 中操作黑白调整图层属性
+以下示例演示了如何在 Aspose.PSD 中操作黑白调整层属性。
 
 ```csharp
 [C#]
@@ -70,10 +71,10 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFileName))
 }
 ```
 
-### 也可以看看
+### 另请参阅
 
 * class [BlackWhiteAdjustmentLayer](../)
-* 命名空间 [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../blackwhiteadjustmentlayer/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/)
+* assembly [Aspose.PSD](../../../)
 
 

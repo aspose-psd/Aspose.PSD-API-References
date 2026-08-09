@@ -1,27 +1,28 @@
 ---
-title: PsdLoadOptions.IgnoreAlphaChannel
-second_title: Aspose.PSD for .NET API 参考
-description: PsdLoadOptions 财产. 获取或设置一个值指示是否忽略 alpha 通道.
+title: "PsdLoadOptions.IgnoreAlphaChannel"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "PsdLoadOptions 属性。获取或设置一个值，指示是否忽略 alpha 通道"
 type: docs
-weight: 30
+weight: 40
 url: /zh/net/aspose.psd.imageloadoptions/psdloadoptions/ignorealphachannel/
 ---
+{{< psd/tize >}}
 ## PsdLoadOptions.IgnoreAlphaChannel property
 
-获取或设置一个值，指示是否[忽略 alpha 通道].
+获取或设置一个值，指示是否 [ignore alpha channel]。
 
 ```csharp
 public bool IgnoreAlphaChannel { get; set; }
 ```
 
-### 适当的价值
+### Property Value
 
-`真的`如果 [忽略 alpha 通道];否则，`错误的` .
+`true` 如果 [ignore alpha channel]；否则为 `false`。
 
-### 也可以看看
+### 另请参阅
 
 * class [PsdLoadOptions](../)
-* 命名空间 [Aspose.PSD.ImageLoadOptions](../../psdloadoptions/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageLoadOptions](../../../aspose.psd.imageloadoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

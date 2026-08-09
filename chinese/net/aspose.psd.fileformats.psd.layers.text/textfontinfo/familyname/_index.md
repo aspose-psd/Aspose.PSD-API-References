@@ -1,27 +1,28 @@
 ---
-title: TextFontInfo.FamilyName
-second_title: Aspose.PSD for .NET API 参考
-description: TextFontInfo 财产. 获取字体系列名称
+title: "TextFontInfo.FamilyName"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "TextFontInfo 属性。获取字体族名称"
 type: docs
 weight: 10
 url: /zh/net/aspose.psd.fileformats.psd.layers.text/textfontinfo/familyname/
 ---
+{{< psd/tize >}}
 ## TextFontInfo.FamilyName property
 
-获取字体系列名称
+获取字体族名称
 
 ```csharp
 public string FamilyName { get; }
 ```
 
-### 适当的价值
+### Property Value
 
-字体系列名称
+字体族名称
 
-### 也可以看看
+### 另请参阅
 
 * class [TextFontInfo](../)
-* 命名空间 [Aspose.PSD.FileFormats.Psd.Layers.Text](../../textfontinfo/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.Text](../../../aspose.psd.fileformats.psd.layers.text/)
+* assembly [Aspose.PSD](../../../)
 
 

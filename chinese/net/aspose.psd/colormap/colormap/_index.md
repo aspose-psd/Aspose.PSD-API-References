@@ -1,11 +1,12 @@
 ---
-title: ColorMap.ColorMap
-second_title: Aspose.PSD for .NET API 参考
-description: ColorMap 构造函数. 默认构造函数
+title: "ColorMap.ColorMap"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "ColorMap 构造函数。默认构造函数。"
 type: docs
 weight: 10
 url: /zh/net/aspose.psd/colormap/colormap/
 ---
+{{< psd/tize >}}
 ## ColorMap constructor
 
 默认构造函数。
@@ -14,10 +15,10 @@ url: /zh/net/aspose.psd/colormap/colormap/
 public ColorMap()
 ```
 
-### 也可以看看
+### 另请参阅
 
 * class [ColorMap](../)
-* 命名空间 [Aspose.PSD](../../colormap/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: PatternFillSettings.GenerateLfx2ResourceNodes
-second_title: Aspose.PSD for .NET API 参考
-description: PatternFillSettings 方法. 生成 LFX2 资源节点
+title: "PatternFillSettings.GenerateLfx2ResourceNodes"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "PatternFillSettings 方法。生成 LFX2 资源节点"
 type: docs
-weight: 140
+weight: 160
 url: /zh/net/aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings/generatelfx2resourcenodes/
 ---
+{{< psd/tize >}}
 ## PatternFillSettings.GenerateLfx2ResourceNodes method
 
 生成 LFX2 资源节点。
@@ -15,27 +16,27 @@ public static IEnumerable<OSTypeStructure> GenerateLfx2ResourceNodes(string poin
     string patternName, string identifier, double scale, bool linked, PointF offset)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
 | pointType | String | 点的类型。 |
-| color | Color | 颜色。 |
+| 颜色 | 颜色 | 颜色。 |
 | patternName | String | 模式的名称。 |
 | identifier | String | 标识符。 |
-| scale | Double | 规模。 |
-| linked | Boolean | 如果设置为`真的` [链接]。 |
+| scale | 双精度 | 比例。 |
+| linked | 布尔 | 如果设置为 `true` [linked]。 |
 | offset | PointF | 偏移量。 |
 
 ### 返回值
 
-列表[`OSTypeStructure`](../../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/)
+列表 [`OSTypeStructure`](../../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/)
 
-### 也可以看看
+### 另请参阅
 
 * class [OSTypeStructure](../../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/)
 * struct [Color](../../../aspose.psd/color/)
 * struct [PointF](../../../aspose.psd/pointf/)
 * class [PatternFillSettings](../)
-* 命名空间 [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../patternfillsettings/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../../)
 
 

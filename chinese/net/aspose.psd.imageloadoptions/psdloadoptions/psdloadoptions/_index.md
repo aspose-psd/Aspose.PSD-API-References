@@ -1,11 +1,12 @@
 ---
-title: PsdLoadOptions.PsdLoadOptions
-second_title: Aspose.PSD for .NET API 参考
-description: PsdLoadOptions 构造函数. 默认构造函数
+title: "PsdLoadOptions.PsdLoadOptions"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "PsdLoadOptions 构造函数。默认构造函数"
 type: docs
 weight: 10
 url: /zh/net/aspose.psd.imageloadoptions/psdloadoptions/psdloadoptions/
 ---
+{{< psd/tize >}}
 ## PsdLoadOptions constructor
 
 默认构造函数。
@@ -14,10 +15,10 @@ url: /zh/net/aspose.psd.imageloadoptions/psdloadoptions/psdloadoptions/
 public PsdLoadOptions()
 ```
 
-### 也可以看看
+### 另请参阅
 
 * class [PsdLoadOptions](../)
-* 命名空间 [Aspose.PSD.ImageLoadOptions](../../psdloadoptions/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageLoadOptions](../../../aspose.psd.imageloadoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

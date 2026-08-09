@@ -1,27 +1,28 @@
 ---
-title: Layer.Right
-second_title: Aspose.PSD for .NET API 参考
-description: Layer 财产. 获取或设置正确的图层位置
+title: "Layer.Right"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "Layer 属性。获取或设置右层位置"
 type: docs
-weight: 290
+weight: 300
 url: /zh/net/aspose.psd.fileformats.psd.layers/layer/right/
 ---
+{{< psd/tize >}}
 ## Layer.Right property
 
-获取或设置正确的图层位置。
+获取或设置右侧图层位置。
 
 ```csharp
-public int Right { get; set; }
+public virtual int Right { get; set; }
 ```
 
-### 适当的价值
+### Property Value
 
-正确的图层位置。
+右层位置。
 
-### 也可以看看
+### 另请参阅
 
 * class [Layer](../)
-* 命名空间 [Aspose.PSD.FileFormats.Psd.Layers](../../layer/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

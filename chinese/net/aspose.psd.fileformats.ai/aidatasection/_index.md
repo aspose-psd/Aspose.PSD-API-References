@@ -1,36 +1,37 @@
 ---
-title: Class AiDataSection
-second_title: Aspose.PSD for .NET API 参考
-description: Aspose.PSD.FileFormats.Ai.AiDataSection 班级. Ai格式数据段
+title: "类 AiDataSection"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "Aspose.PSD.FileFormats.Ai.AiDataSection 类。Ai 格式的数据段"
 type: docs
-weight: 1220
+weight: 1230
 url: /zh/net/aspose.psd.fileformats.ai/aidatasection/
 ---
+{{< psd/tize >}}
 ## AiDataSection class
 
-Ai格式数据段
+Ai 格式数据段
 
 ```csharp
 public class AiDataSection : DisposableObject
 ```
 
-## 特性
+## 属性
 
-| 姓名 | 描述 |
+| 名称 | 描述 |
 | --- | --- |
-| [Disposed](../../aspose.psd/disposableobject/disposed/) { get; } | 获取一个值，该值表示该实例是否被释放。 |
+| [Disposed](../../aspose.psd/disposableobject/disposed/) { get; } | 获取一个值，指示此实例是否已释放。 |
 
 ## 方法
 
-| 姓名 | 描述 |
+| 名称 | 描述 |
 | --- | --- |
-| [Dispose](../../aspose.psd/disposableobject/dispose/)() | 处理当前实例。 |
+| [Dispose](../../aspose.psd/disposableobject/dispose/)() | 释放当前实例。 |
 | [GetData](../../aspose.psd.fileformats.ai/aidatasection/getdata/)() | 获取字符串数据。 |
 
-### 也可以看看
+### 另请参阅
 
 * class [DisposableObject](../../aspose.psd/disposableobject/)
-* 命名空间 [Aspose.PSD.FileFormats.Ai](../../aspose.psd.fileformats.ai/)
-* 部件 [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../)
 
 

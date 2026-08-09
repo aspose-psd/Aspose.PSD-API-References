@@ -1,11 +1,12 @@
 ---
-title: TypeToolInfoResource.TransformMatrix
-second_title: Aspose.PSD for .NET API 参考
-description: TypeToolInfoResource 财产. 获取或设置变换矩阵
+title: "TypeToolInfoResource.TransformMatrix"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "TypeToolInfoResource 属性。获取或设置变换矩阵"
 type: docs
-weight: 230
+weight: 200
 url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources/typetoolinforesource/transformmatrix/
 ---
+{{< psd/tize >}}
 ## TypeToolInfoResource.TransformMatrix property
 
 获取或设置变换矩阵。
@@ -14,14 +15,14 @@ url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources/typetoolinforesour
 public double[] TransformMatrix { get; set; }
 ```
 
-### 适当的价值
+### Property Value
 
 变换矩阵。
 
-### 也可以看看
+### 另请参阅
 
 * class [TypeToolInfoResource](../)
-* 命名空间 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../typetoolinforesource/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

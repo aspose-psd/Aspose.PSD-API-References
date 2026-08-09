@@ -1,11 +1,12 @@
 ---
-title: Class IndexOutOFRangeException
-second_title: Aspose.PSD for .NET API 参考
-description: Aspose.PSD.CoreExceptions.IndexOutOFRangeException 班级. 压缩器异常
+title: "类 IndexOutOFRangeException"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "Aspose.PSD.CoreExceptions.IndexOutOFRangeException 类。压缩器异常。"
 type: docs
 weight: 640
 url: /zh/net/aspose.psd.coreexceptions/indexoutofrangeexception/
 ---
+{{< psd/tize >}}
 ## IndexOutOFRangeException class
 
 压缩器异常。
@@ -16,14 +17,14 @@ public class IndexOutOFRangeException : Exception
 
 ## 构造函数
 
-| 姓名 | 描述 |
+| 名称 | 描述 |
 | --- | --- |
-| [IndexOutOFRangeException](indexoutofrangeexception/#constructor)(string) | 初始化一个新的实例[`CompressorException`](../compressorexception/)类. |
-| [IndexOutOFRangeException](indexoutofrangeexception/#constructor_1)(string, Exception) | 初始化一个新的实例[`CompressorException`](../compressorexception/)类. |
+| [IndexOutOFRangeException](indexoutofrangeexception/#constructor)(string) | 初始化 [`CompressorException`](../compressorexception/) 类的新实例。 |
+| [IndexOutOFRangeException](indexoutofrangeexception/#constructor_1)(string, Exception) | 初始化 [`CompressorException`](../compressorexception/) 类的新实例。 |
 
-### 也可以看看
+### 另请参阅
 
-* 命名空间 [Aspose.PSD.CoreExceptions](../../aspose.psd.coreexceptions/)
-* 部件 [Aspose.PSD](../../)
+* namespace [Aspose.PSD.CoreExceptions](../../aspose.psd.coreexceptions/)
+* assembly [Aspose.PSD](../../)
 
 

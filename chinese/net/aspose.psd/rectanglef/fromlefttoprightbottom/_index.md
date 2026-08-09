@@ -1,34 +1,35 @@
 ---
-title: RectangleF.FromLeftTopRightBottom
-second_title: Aspose.PSD for .NET API 参考
-description: RectangleF 方法. 创建一个RectangleF在指定位置具有左上角和右下角的结构.
+title: "RectangleF.FromLeftTopRightBottom"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "RectangleF 方法。创建一个 RectangleF 结构，其左上角和右下角位于指定位置。"
 type: docs
 weight: 30
 url: /zh/net/aspose.psd/rectanglef/fromlefttoprightbottom/
 ---
+{{< psd/tize >}}
 ## RectangleF.FromLeftTopRightBottom method
 
-创建一个[`RectangleF`](../)在指定位置具有左上角和右下角的结构.
+创建一个 [`RectangleF`](../) 结构，其左上角和右下角位于指定位置。
 
 ```csharp
 public static RectangleF FromLeftTopRightBottom(float left, float top, float right, float bottom)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| left | Single | 矩形区域左上角的 x 坐标。 |
-| top | Single | 矩形区域左上角的 y 坐标。 |
-| right | Single | 矩形区域右下角的 x 坐标。 |
-| bottom | Single | 矩形区域右下角的 y 坐标。 |
+| 左 | 单精度 | 矩形区域左上角的 x 坐标。 |
+| 上 | 单精度 | 矩形区域左上角的 y 坐标。 |
+| 右 | 单精度 | 矩形区域右下角的 x 坐标。 |
+| 下 | 单精度 | 矩形区域右下角的 y 坐标。 |
 
 ### 返回值
 
-新的[`RectangleF`](../)该方法创建的。
+此方法创建的新 [`RectangleF`](../)。
 
-### 也可以看看
+### 另请参阅
 
 * struct [RectangleF](../)
-* 命名空间 [Aspose.PSD](../../rectanglef/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

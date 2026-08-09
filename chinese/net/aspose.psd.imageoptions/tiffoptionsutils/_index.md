@@ -1,14 +1,15 @@
 ---
-title: Class TiffOptionsUtils
-second_title: Aspose.PSD for .NET API 参考
-description: Aspose.PSD.ImageOptions.TiffOptionsUtils 班级. tiff 文件格式选项实用程序类
+title: "类 TiffOptionsUtils"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "Aspose.PSD.ImageOptions.TiffOptionsUtils 类。tiff 文件格式选项实用程序类"
 type: docs
-weight: 4960
+weight: 5450
 url: /zh/net/aspose.psd.imageoptions/tiffoptionsutils/
 ---
+{{< psd/tize >}}
 ## TiffOptionsUtils class
 
-tiff 文件格式选项实用程序类。
+tiff 文件格式选项实用类。
 
 ```csharp
 public class TiffOptionsUtils
@@ -16,19 +17,19 @@ public class TiffOptionsUtils
 
 ## 构造函数
 
-| 姓名 | 描述 |
+| 名称 | 描述 |
 | --- | --- |
 | [TiffOptionsUtils](tiffoptionsutils/)() | 默认构造函数。 |
 
 ## 方法
 
-| 姓名 | 描述 |
+| 名称 | 描述 |
 | --- | --- |
-| static [GetValidTagsCount](../../aspose.psd.imageoptions/tiffoptionsutils/getvalidtagscount/)(TiffDataType[]) | 获取有效标签计数。 |
+| static [GetValidTagsCount](../../aspose.psd.imageoptions/tiffoptionsutils/getvalidtagscount/)(TiffDataType[]) | 获取有效标签的计数。 |
 
-### 也可以看看
+### 另请参阅
 
-* 命名空间 [Aspose.PSD.ImageOptions](../../aspose.psd.imageoptions/)
-* 部件 [Aspose.PSD](../../)
+* namespace [Aspose.PSD.ImageOptions](../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../)
 
 

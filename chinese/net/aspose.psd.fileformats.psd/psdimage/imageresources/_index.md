@@ -1,28 +1,29 @@
 ---
-title: PsdImage.ImageResources
-second_title: Aspose.PSD for .NET API 参考
-description: PsdImage 财产. 获取或设置 PSD 图片资源
+title: "PsdImage.ImageResources"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "PsdImage 属性。获取或设置 PSD 图像资源"
 type: docs
 weight: 180
 url: /zh/net/aspose.psd.fileformats.psd/psdimage/imageresources/
 ---
+{{< psd/tize >}}
 ## PsdImage.ImageResources property
 
-获取或设置 PSD 图片资源。
+获取或设置 PSD 图像资源。
 
 ```csharp
 public ResourceBlock[] ImageResources { get; set; }
 ```
 
-### 适当的价值
+### Property Value
 
-PSD 图片资源。
+PSD 图像资源。
 
-### 也可以看看
+### 另请参阅
 
 * class [ResourceBlock](../../resourceblock/)
 * class [PsdImage](../)
-* 命名空间 [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

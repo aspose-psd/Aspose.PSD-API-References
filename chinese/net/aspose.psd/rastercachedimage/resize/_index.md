@@ -1,11 +1,12 @@
 ---
-title: RasterCachedImage.Resize
-second_title: Aspose.PSD for .NET API 参考
-description: RasterCachedImage 方法. 调整图像大小
+title: "RasterCachedImage.Resize"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "RasterCachedImage 方法。调整图像大小"
 type: docs
 weight: 120
 url: /zh/net/aspose.psd/rastercachedimage/resize/
 ---
+{{< psd/tize >}}
 ## Resize(int, int, ResizeType) {#resize_2}
 
 调整图像大小。
@@ -14,15 +15,15 @@ url: /zh/net/aspose.psd/rastercachedimage/resize/
 public override void Resize(int newWidth, int newHeight, ResizeType resizeType)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
 | newWidth | Int32 | 新的宽度。 |
 | newHeight | Int32 | 新的高度。 |
-| resizeType | ResizeType | 调整大小类型。 |
+| resizeType | ResizeType | 调整类型。 |
 
-### 例子
+## 示例
 
-以下代码演示了如何使用新的 SinC 调整大小类型调整图像大小。
+以下代码演示如何使用新的 SinC 缩放类型调整图像大小。
 
 ```csharp
 [C#]
@@ -38,7 +39,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFile))
 }
 ```
 
-以下代码演示了如何使用新的 Bell 调整类型调整图像大小。
+以下代码演示如何使用新的 Bell 缩放类型调整图像大小。
 
 ```csharp
 [C#]
@@ -54,7 +55,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFile))
 }
 ```
 
-以下代码演示了如何使用新的 Mitchell 调整大小类型调整图像大小。
+以下代码演示如何使用新的 Mitchell 缩放类型调整图像大小。
 
 ```csharp
 [C#]
@@ -70,7 +71,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFile))
 }
 ```
 
-以下代码演示了如何使用新的 CatmullRom 调整类型调整图像大小。
+以下代码演示如何使用新的 CatmullRom 缩放类型调整图像大小。
 
 ```csharp
 [C#]
@@ -86,7 +87,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFile))
 }
 ```
 
-以下代码演示了如何使用新的 CubicBSpline 调整类型调整图像大小。
+以下代码演示如何使用新的 CubicBSpline 缩放类型调整图像大小。
 
 ```csharp
 [C#]
@@ -102,7 +103,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFile))
 }
 ```
 
-以下代码演示了如何使用新的 CubicConvolution 调整大小类型调整图像大小。
+以下代码演示如何使用新的 CubicConvolution 缩放类型调整图像大小。
 
 ```csharp
 [C#]
@@ -118,12 +119,12 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFile))
 }
 ```
 
-### 也可以看看
+### 另请参阅
 
 * enum [ResizeType](../../resizetype/)
 * class [RasterCachedImage](../)
-* 命名空间 [Aspose.PSD](../../rastercachedimage/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
@@ -135,17 +136,17 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFile))
 public override void Resize(int newWidth, int newHeight, ImageResizeSettings settings)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
 | newWidth | Int32 | 新的宽度。 |
 | newHeight | Int32 | 新的高度。 |
-| settings | ImageResizeSettings | 调整大小设置。 |
+| 设置 | ImageResizeSettings | 调整设置。 |
 
-### 也可以看看
+### 另请参阅
 
 * class [ImageResizeSettings](../../imageresizesettings/)
 * class [RasterCachedImage](../)
-* 命名空间 [Aspose.PSD](../../rastercachedimage/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

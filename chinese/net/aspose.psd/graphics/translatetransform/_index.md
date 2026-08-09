@@ -1,51 +1,52 @@
 ---
-title: Graphics.TranslateTransform
-second_title: Aspose.PSD for .NET API 参考
-description: Graphics 方法. 按指定尺寸平移局部几何变换此方法将翻译添加到 transform.
+title: "Graphics.TranslateTransform"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "Graphics 方法。按指定的尺寸平移本地几何变换。此方法将在变换前预置平移。"
 type: docs
-weight: 460
+weight: 470
 url: /zh/net/aspose.psd/graphics/translatetransform/
 ---
+{{< psd/tize >}}
 ## TranslateTransform(float, float) {#translatetransform}
 
-按指定尺寸平移局部几何变换。此方法将翻译添加到 transform.
+按指定的尺寸平移本地几何变换。此方法将平移前置到变换中。
 
 ```csharp
 public void TranslateTransform(float dx, float dy)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| dx | Single | x 中平移的值。 |
-| dy | Single | y 中的平移值。 |
+| dx | 单精度 | x 方向平移的值。 |
+| dy | 单精度 | y 方向平移的值。 |
 
-### 也可以看看
+### 另请参阅
 
 * class [Graphics](../)
-* 命名空间 [Aspose.PSD](../../graphics/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## TranslateTransform(float, float, MatrixOrder) {#translatetransform_1}
 
-按指定顺序按指定尺寸平移局部几何变换。
+按指定的尺寸并按照指定的顺序平移本地几何变换。
 
 ```csharp
 public void TranslateTransform(float dx, float dy, MatrixOrder order)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| dx | Single | x 中平移的值。 |
-| dy | Single | y 中的平移值。 |
-| order | MatrixOrder | 应用翻译的顺序（前置或附加）。 |
+| dx | 单精度 | x 方向平移的值。 |
+| dy | 单精度 | y 方向平移的值。 |
+| order | MatrixOrder | 应用平移的顺序（前置或后置）。 |
 
-### 也可以看看
+### 另请参阅
 
 * enum [MatrixOrder](../../matrixorder/)
 * class [Graphics](../)
-* 命名空间 [Aspose.PSD](../../graphics/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

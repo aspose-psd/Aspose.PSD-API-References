@@ -1,14 +1,15 @@
 ---
-title: Class XmpAgentName
-second_title: Aspose.PSD for .NET API 参考
-description: Aspose.PSD.Xmp.Types.Derived.XmpAgentName 班级. 代表Agent名称软件组织等
+title: "类 XmpAgentName"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "Aspose.PSD.Xmp.Types.Derived.XmpAgentName 类. 表示代理名称、软件组织等"
 type: docs
-weight: 6140
+weight: 6640
 url: /zh/net/aspose.psd.xmp.types.derived/xmpagentname/
 ---
+{{< psd/tize >}}
 ## XmpAgentName class
 
-代表Agent名称、软件组织等
+表示代理名称、软件组织等。
 
 ```csharp
 public sealed class XmpAgentName : XmpText
@@ -16,26 +17,26 @@ public sealed class XmpAgentName : XmpText
 
 ## 构造函数
 
-| 姓名 | 描述 |
+| 名称 | 描述 |
 | --- | --- |
-| [XmpAgentName](xmpagentname/)(string) | 初始化一个新的实例`XmpAgentName`类. |
+| [XmpAgentName](xmpagentname/)(string) | 初始化 `XmpAgentName` 类的新实例。 |
 
-## 特性
+## 属性
 
-| 姓名 | 描述 |
+| 名称 | 描述 |
 | --- | --- |
 | [Value](../../aspose.psd.xmp.types.basic/xmptext/value/) { get; set; } | 获取或设置文本值。 |
 
 ## 方法
 
-| 姓名 | 描述 |
+| 名称 | 描述 |
 | --- | --- |
-| override [GetXmpRepresentation](../../aspose.psd.xmp.types.basic/xmptext/getxmprepresentation/)() | 获取包含 XMP 格式的字符串值。 |
+| override [GetXmpRepresentation](../../aspose.psd.xmp.types.basic/xmptext/getxmprepresentation/)() | 获取 XMP 格式中包含的字符串值。 |
 
-### 也可以看看
+### 另请参阅
 
 * class [XmpText](../../aspose.psd.xmp.types.basic/xmptext/)
-* 命名空间 [Aspose.PSD.Xmp.Types.Derived](../../aspose.psd.xmp.types.derived/)
-* 部件 [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Xmp.Types.Derived](../../aspose.psd.xmp.types.derived/)
+* assembly [Aspose.PSD](../../)
 
 

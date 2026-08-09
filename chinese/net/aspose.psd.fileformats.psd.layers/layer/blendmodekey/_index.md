@@ -1,11 +1,12 @@
 ---
-title: Layer.BlendModeKey
-second_title: Aspose.PSD for .NET API 参考
-description: Layer 财产. 获取或设置混合模式键
+title: "Layer.BlendModeKey"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "Layer 属性。获取或设置混合模式键"
 type: docs
-weight: 40
+weight: 50
 url: /zh/net/aspose.psd.fileformats.psd.layers/layer/blendmodekey/
 ---
+{{< psd/tize >}}
 ## Layer.BlendModeKey property
 
 获取或设置混合模式键。
@@ -14,13 +15,13 @@ url: /zh/net/aspose.psd.fileformats.psd.layers/layer/blendmodekey/
 public virtual BlendMode BlendModeKey { get; set; }
 ```
 
-### 适当的价值
+### Property Value
 
 混合模式键。
 
-### 例子
+## 示例
 
-以下示例演示了如何在 Aspose.PSD 中使用 PassThrough 图层混合模式
+以下示例演示如何在 Aspose.PSD 中使用 PassThrough 图层混合模式
 
 ```csharp
 [C#]
@@ -61,11 +62,11 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFileName))
 }
 ```
 
-### 也可以看看
+### 另请参阅
 
 * enum [BlendMode](../../../aspose.psd.fileformats.core.blending/blendmode/)
 * class [Layer](../)
-* 命名空间 [Aspose.PSD.FileFormats.Psd.Layers](../../layer/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

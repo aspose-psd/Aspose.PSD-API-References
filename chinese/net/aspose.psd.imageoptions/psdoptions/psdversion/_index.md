@@ -1,26 +1,27 @@
 ---
-title: PsdOptions.PsdVersion
-second_title: Aspose.PSD for .NET API 参考
-description: PsdOptions 财产. 获取或设置文件格式版本它可以是 PSD 或 PSB.
+title: "PsdOptions.PsdVersion"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "PsdOptions 属性。获取或设置文件格式版本。它可以是 PSD 或 PSB"
 type: docs
-weight: 60
+weight: 70
 url: /zh/net/aspose.psd.imageoptions/psdoptions/psdversion/
 ---
+{{< psd/tize >}}
 ## PsdOptions.PsdVersion property
 
-获取或设置文件格式版本。它可以是 PSD 或 PSB.
+获取或设置文件格式版本。它可以是 PSD 或 PSB。
 
 ```csharp
 public PsdVersion PsdVersion { get; set; }
 ```
 
-### 适当的价值
+### Property Value
 
 文件格式版本。
 
-### 例子
+## 示例
 
-以下示例显示了将 PSD 文件转换为 PSB 的能力，反之亦然。
+以下示例展示了将 PSD 文件转换为 PSB 以及反向转换的能力。
 
 ```csharp
 [C#]
@@ -42,11 +43,11 @@ using (Image img = Image.Load(sourceFilePathPsd))
 }
 ```
 
-### 也可以看看
+### 另请参阅
 
 * enum [PsdVersion](../../../aspose.psd.fileformats.psd/psdversion/)
 * class [PsdOptions](../)
-* 命名空间 [Aspose.PSD.ImageOptions](../../psdoptions/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

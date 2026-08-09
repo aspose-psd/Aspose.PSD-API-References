@@ -1,11 +1,12 @@
 ---
-title: RenditionClass.Token
-second_title: Aspose.PSD for .NET API 参考
-description: RenditionClass 财产. 获取或设置令牌
+title: "RenditionClass.Token"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "RenditionClass 属性。获取或设置令牌"
 type: docs
 weight: 20
 url: /zh/net/aspose.psd.xmp.types.derived/renditionclass/token/
 ---
+{{< psd/tize >}}
 ## RenditionClass.Token property
 
 获取或设置令牌。
@@ -14,14 +15,14 @@ url: /zh/net/aspose.psd.xmp.types.derived/renditionclass/token/
 public string Token { get; set; }
 ```
 
-### 适当的价值
+### Property Value
 
-令牌.
+令牌。
 
-### 也可以看看
+### 另请参阅
 
 * class [RenditionClass](../)
-* 命名空间 [Aspose.PSD.Xmp.Types.Derived](../../renditionclass/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Derived](../../../aspose.psd.xmp.types.derived/)
+* assembly [Aspose.PSD](../../../)
 
 

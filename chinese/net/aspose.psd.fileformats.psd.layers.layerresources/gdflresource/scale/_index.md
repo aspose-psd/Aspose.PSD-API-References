@@ -1,33 +1,34 @@
 ---
-title: GdFlResource.Scale
-second_title: Aspose.PSD for .NET API 参考
-description: GdFlResource 财产. 获取或设置比例
+title: "GdFlResource.Scale"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "GdFlResource 属性。获取或设置比例"
 type: docs
-weight: 150
+weight: 200
 url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources/gdflresource/scale/
 ---
+{{< psd/tize >}}
 ## GdFlResource.Scale property
 
 获取或设置比例。
 
 ```csharp
-public int Scale { get; set; }
+public double Scale { get; set; }
 ```
 
-### 适当的价值
+### Property Value
 
-规模.
+比例。
 
-### 例外
+### 异常
 
-| 例外 | （健康）状况 |
+| 异常 | 条件 |
 | --- | --- |
-| [PsdImageArgumentException](../../../aspose.psd.coreexceptions.imageformats/psdimageargumentexception/) | 比例必须在 1 到 1000 之间。 |
+| [PsdImageArgumentException](../../../aspose.psd.coreexceptions.imageformats/psdimageargumentexception/) | 比例必须在 1 到 1000 的范围内。 |
 
-### 也可以看看
+### 另请参阅
 
 * class [GdFlResource](../)
-* 命名空间 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../gdflresource/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

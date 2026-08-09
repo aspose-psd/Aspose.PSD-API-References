@@ -1,27 +1,28 @@
 ---
-title: XmpDynamicMediaPackage.SetCameraAngle
-second_title: Aspose.PSD for .NET API 参考
-description: XmpDynamicMediaPackage 方法. 设置摄像机角度
+title: "XmpDynamicMediaPackage.SetCameraAngle"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "XmpDynamicMediaPackage 方法。设置摄像机角度"
 type: docs
 weight: 110
 url: /zh/net/aspose.psd.xmp.schemas.xmpdm/xmpdynamicmediapackage/setcameraangle/
 ---
+{{< psd/tize >}}
 ## XmpDynamicMediaPackage.SetCameraAngle method
 
-设置摄像机角度。
+设置相机角度。
 
 ```csharp
 public void SetCameraAngle(string cameraAngle)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
 | cameraAngle | String | 摄像机角度。 |
 
-### 也可以看看
+### 另请参阅
 
 * class [XmpDynamicMediaPackage](../)
-* 命名空间 [Aspose.PSD.Xmp.Schemas.XmpDm](../../xmpdynamicmediapackage/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpDm](../../../aspose.psd.xmp.schemas.xmpdm/)
+* assembly [Aspose.PSD](../../../)
 
 

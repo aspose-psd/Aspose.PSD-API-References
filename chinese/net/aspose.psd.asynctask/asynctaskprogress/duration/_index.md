@@ -1,11 +1,12 @@
 ---
-title: AsyncTaskProgress.Duration
-second_title: Aspose.PSD for .NET API 参考
-description: AsyncTaskProgress 场地. 异步任务的持续时间
+title: "AsyncTaskProgress.Duration"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "AsyncTaskProgress 字段。异步任务的持续时间"
 type: docs
 weight: 20
 url: /zh/net/aspose.psd.asynctask/asynctaskprogress/duration/
 ---
+{{< psd/tize >}}
 ## AsyncTaskProgress.Duration field
 
 异步任务的持续时间。
@@ -14,10 +15,10 @@ url: /zh/net/aspose.psd.asynctask/asynctaskprogress/duration/
 public readonly TimeSpan Duration;
 ```
 
-### 也可以看看
+### 另请参阅
 
 * class [AsyncTaskProgress](../)
-* 命名空间 [Aspose.PSD.AsyncTask](../../asynctaskprogress/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.AsyncTask](../../../aspose.psd.asynctask/)
+* assembly [Aspose.PSD](../../../)
 
 

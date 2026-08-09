@@ -1,11 +1,12 @@
 ---
-title: AiRasterImageSection.Pixels
-second_title: Aspose.PSD for .NET API 参考
-description: AiRasterImageSection 财产. 获取 int 颜色像素数组
+title: "AiRasterImageSection.Pixels"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "AiRasterImageSection 属性。获取 int 颜色像素数组"
 type: docs
 weight: 80
 url: /zh/net/aspose.psd.fileformats.ai/airasterimagesection/pixels/
 ---
+{{< psd/tize >}}
 ## AiRasterImageSection.Pixels property
 
 获取 int 颜色像素数组。
@@ -14,14 +15,14 @@ url: /zh/net/aspose.psd.fileformats.ai/airasterimagesection/pixels/
 public int[] Pixels { get; }
 ```
 
-### 适当的价值
+### Property Value
 
 int 颜色像素数组。
 
-### 也可以看看
+### 另请参阅
 
 * class [AiRasterImageSection](../)
-* 命名空间 [Aspose.PSD.FileFormats.Ai](../../airasterimagesection/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

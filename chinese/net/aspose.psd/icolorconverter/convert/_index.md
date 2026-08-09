@@ -1,14 +1,15 @@
 ---
-title: IColorConverter.Convert
-second_title: Aspose.PSD for .NET API 参考
-description: IColorConverter 方法. 将传递的数据转换为输出格式
+title: "IColorConverter.Convert"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "IColorConverter 方法。将传入的数据转换为输出格式"
 type: docs
 weight: 10
 url: /zh/net/aspose.psd/icolorconverter/convert/
 ---
+{{< psd/tize >}}
 ## IColorConverter.Convert method
 
-将传递的数据转换为输出格式。
+将传入的数据转换为输出格式。
 
 ```csharp
 public int Convert(PixelDataFormat sourceFormat, byte[] data, int offset, int bitStart, 
@@ -16,27 +17,27 @@ public int Convert(PixelDataFormat sourceFormat, byte[] data, int offset, int bi
     int outputOffset)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
 | sourceFormat | PixelDataFormat | 源格式。 |
-| data | Byte[] | 源数据。 |
+| 数据 | Byte[] | 源数据。 |
 | offset | Int32 | 数据复制应开始的字节偏移量。 |
-| bitStart | Int32 | 位开始。请注意，此值不是字节对齐值，而是应该开始复制的实际位。 |
+| bitStart | Int32 | 位起始位置。注意，此值不是字节对齐的，而是实际的位，复制应从该位开始。 |
 | samplesCount | Int32 | 样本计数。 |
-| linesCount | Int32 | 线条很重要。 |
+| linesCount | Int32 | 行计数。 |
 | destFormat | PixelDataFormat | 目标格式。 |
 | outputData | Byte[] | 输出数据。 |
-| outputOffset | Int32 | 数据复制应该开始的输出偏移量。 |
+| outputOffset | Int32 | 输出偏移量，数据复制应从此处开始。 |
 
 ### 返回值
 
-转换后的字节数.
+已转换的字节计数。
 
-### 也可以看看
+### 另请参阅
 
 * class [PixelDataFormat](../../pixeldataformat/)
 * interface [IColorConverter](../)
-* 命名空间 [Aspose.PSD](../../icolorconverter/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

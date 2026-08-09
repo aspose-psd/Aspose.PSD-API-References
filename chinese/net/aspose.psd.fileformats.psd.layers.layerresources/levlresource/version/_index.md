@@ -1,27 +1,28 @@
 ---
-title: LevlResource.Version
-second_title: Aspose.PSD for .NET API 参考
-description: LevlResource 财产. 获取版本默认为 2
+title: "LevlResource.Version"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "LevlResource 属性。获取版本。默认值为 2"
 type: docs
-weight: 50
+weight: 30
 url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources/levlresource/version/
 ---
+{{< psd/tize >}}
 ## LevlResource.Version property
 
-获取版本。默认为 2
+获取版本。默认值为 2。
 
 ```csharp
 public short Version { get; }
 ```
 
-### 适当的价值
+### Property Value
 
-版本.
+版本。
 
-### 也可以看看
+### 另请参阅
 
 * class [LevlResource](../)
-* 命名空间 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../levlresource/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

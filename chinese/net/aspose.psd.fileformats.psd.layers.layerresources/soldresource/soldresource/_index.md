@@ -1,33 +1,34 @@
 ---
-title: SoLdResource.SoLdResource
-second_title: Aspose.PSD for .NET API 参考
-description: SoLdResource 构造函数. 初始化一个新的实例SoLdResource class. 需要设置 Items 属性或调用 InitializeItems 来获得一个现成的实例 这个构造函数是为使用而设计的SmartResourceCreator 并在单元测试中使用 使用SmartResourceCreator用于创建 SoLdResource 类
+title: "SoLdResource.SoLdResource"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "SoLdResource 构造函数。初始化 SoLdResource 类的新实例。需要设置 Items 属性或调用 InitializeItems 以获得就绪实例。此构造函数设计用于 SmartResourceCreator 和单元测试。使用 SmartResourceCreator 创建 SoLdResource 类。"
 type: docs
 weight: 10
 url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources/soldresource/soldresource/
 ---
+{{< psd/tize >}}
 ## SoLdResource(Guid, bool, bool) {#constructor_1}
 
-初始化一个新的实例[`SoLdResource`](../) class. 需要设置 Items 属性或调用 InitializeItems() 来获得一个现成的实例。 这个构造函数是为使用而设计的[`SmartResourceCreator`](../../smartresourcecreator/) 并在单元测试中使用。 使用[`SmartResourceCreator`](../../smartresourcecreator/)用于创建 SoLdResource 类。
+初始化 [`SoLdResource`](../) 类的新实例。需要设置 Items 属性或调用 InitializeItems() 以获得就绪实例。此构造函数设计用于 [`SmartResourceCreator`](../../smartresourcecreator/) 和单元测试。使用 [`SmartResourceCreator`](../../smartresourcecreator/) 创建 SoLdResource 类。
 
 ```csharp
 public SoLdResource(Guid uniqueId, bool isCustom, bool hasCompInfo)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| uniqueId | Guid | 智能对象层数据的唯一标识符[`SoLdResource`](../). |
-| isCustom | Boolean | 如果设置为`真的` [是习惯]。 |
-| hasCompInfo | Boolean | 如果设置为`真的` [有补偿信息]。 |
+| uniqueId | Guid | 智能对象图层数据 [`SoLdResource`](../) 的唯一标识符。 |
+| isCustom | 布尔 | 如果设置为 `true` [is custom]。 |
+| hasCompInfo | 布尔 | 如果设置为 `true` [has comp information]。 |
 
-### 例子
+## 示例
 
-以下代码演示了对 SoLdResource 资源的支持。
+以下代码演示了 SoLdResource 资源的支持。
 
 ```csharp
 [C#]
 
-// 此示例显示如何获取或设置 PSD 文件的智能对象图层数据属性。
+// 此示例展示了如何获取或设置 PSD 文件的智能对象图层数据属性。
 
 void AssertAreEqual(object actual, object expected)
 {
@@ -261,8 +262,8 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
                     resource.HorizontalMeshPoints = temp;
                 }
 
-                // 此值也应在 PlLdResource（具有指定的 UniqueId）中更改
-                // 其中一些必须与 LinkDataSource 中带下划线的智能对象一致
+                // 这些值也应在 PlLdResource（使用指定的 UniqueId）中更改。
+                // 其中一些必须与 LinkDataSource 中的底层智能对象保持一致。
                 resource.PageNumber = 2;
                 resource.TotalPages = 3;
                 resource.AntiAliasPolicy = 0;
@@ -307,18 +308,18 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
                     42
                 };
 
-                // 这个唯一的 Id 应该在引用中改变（如果有的话）
+                // 如果有引用，需要更改此唯一 Id。
                 resource.PlacedId = new Guid("12345678-9abc-def0-9876-54321fecba98");
 
-                // 注意一些参数：图像可能无法被 Adobe® Photoshop® 读取
-                ////资源.UOrder = 6;
-                ////资源.VOrder = 9;
+                // 请注意某些参数：图像可能会变得无法被 Adobe® Photoshop® 读取。
+                ////resource.UOrder = 6;
+                ////resource.VOrder = 9;
 
-                // 不要改变这个，否则你将无法使用自由变换
-                // 或将下划线智能对象更改为矢量类型
+                // 不要更改此项，否则将无法使用自由变换。
+                // 或将底层智能对象更改为矢量类型。
                 ////resource.PlacedLayerType = PlacedLayerType.Vector;
 
-                // 应该有具有此唯一 ID 的有效 PlLdResource
+                // 应存在具有此唯一 Id 的有效 PlLdResource。
                 ////resource.UniqueId = new Guid("98765432-10fe-cba0-1234-56789abcdef0");
 
                 break;
@@ -331,26 +332,26 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
 }
 ```
 
-### 也可以看看
+### 另请参阅
 
 * class [SoLdResource](../)
-* 命名空间 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../soldresource/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## SoLdResource() {#constructor}
 
-初始化一个新的实例[`SoLdResource`](../)class. 这个默认构造函数是为使用而设计的SoLdResourceLoader. 使用[`SmartResourceCreator`](../../smartresourcecreator/)用于创建 SoLdResource 类。
+初始化 [`SoLdResource`](../) 类的新实例。此默认构造函数设计用于 SoLdResourceLoader。使用 [`SmartResourceCreator`](../../smartresourcecreator/) 创建 SoLdResource 类。
 
 ```csharp
 public SoLdResource()
 ```
 
-### 也可以看看
+### 另请参阅
 
 * class [SoLdResource](../)
-* 命名空间 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../soldresource/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

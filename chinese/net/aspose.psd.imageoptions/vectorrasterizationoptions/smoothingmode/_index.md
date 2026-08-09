@@ -1,11 +1,12 @@
 ---
-title: VectorRasterizationOptions.SmoothingMode
-second_title: Aspose.PSD for .NET API 参考
-description: VectorRasterizationOptions 财产. 获取或设置平滑模式
+title: "VectorRasterizationOptions.SmoothingMode"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "VectorRasterizationOptions 属性。获取或设置平滑模式"
 type: docs
 weight: 90
 url: /zh/net/aspose.psd.imageoptions/vectorrasterizationoptions/smoothingmode/
 ---
+{{< psd/tize >}}
 ## VectorRasterizationOptions.SmoothingMode property
 
 获取或设置平滑模式。
@@ -14,15 +15,15 @@ url: /zh/net/aspose.psd.imageoptions/vectorrasterizationoptions/smoothingmode/
 public SmoothingMode SmoothingMode { get; set; }
 ```
 
-### 适当的价值
+### Property Value
 
 平滑模式。
 
-### 也可以看看
+### 另请参阅
 
 * enum [SmoothingMode](../../../aspose.psd/smoothingmode/)
 * class [VectorRasterizationOptions](../)
-* 命名空间 [Aspose.PSD.ImageOptions](../../vectorrasterizationoptions/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

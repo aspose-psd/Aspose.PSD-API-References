@@ -1,28 +1,29 @@
 ---
-title: RasterImage.SetResolution
-second_title: Aspose.PSD for .NET API 参考
-description: RasterImage 方法. 为此设置分辨率RasterImage .
+title: "RasterImage.SetResolution"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "RasterImage 方法。设置此 RasterImage 的分辨率"
 type: docs
-weight: 570
+weight: 590
 url: /zh/net/aspose.psd/rasterimage/setresolution/
 ---
+{{< psd/tize >}}
 ## RasterImage.SetResolution method
 
-为此设置分辨率[`RasterImage`](../) .
+设置此 [`RasterImage`](../) 的分辨率。
 
 ```csharp
 public virtual void SetResolution(double dpiX, double dpiY)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| dpiX | Double | 水平分辨率，以每英寸点数为单位，[`RasterImage`](../). |
-| dpiY | Double | 垂直分辨率，以每英寸点数为单位，[`RasterImage`](../). |
+| dpiX | Double | [`RasterImage`](../) 的水平分辨率（每英寸点数）。 |
+| dpiY | Double | [`RasterImage`](../) 的垂直分辨率（每英寸点数）。 |
 
-### 也可以看看
+### 另请参阅
 
 * class [RasterImage](../)
-* 命名空间 [Aspose.PSD](../../rasterimage/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

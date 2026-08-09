@@ -1,27 +1,28 @@
 ---
-title: WorkingPathResource.IsNotLinked
-second_title: Aspose.PSD for .NET API 参考
-description: WorkingPathResource 财产. 获取或设置一个值指示此实例是否未链接
+title: "WorkingPathResource.IsNotLinked"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "WorkingPathResource 属性。获取或设置一个值，指示此实例是否未链接"
 type: docs
 weight: 50
 url: /zh/net/aspose.psd.fileformats.psd.resources/workingpathresource/isnotlinked/
 ---
+{{< psd/tize >}}
 ## WorkingPathResource.IsNotLinked property
 
-获取或设置一个值，指示此实例是否未链接。
+获取或设置一个值，以指示此实例是否未链接。
 
 ```csharp
 public bool IsNotLinked { get; set; }
 ```
 
-### 适当的价值
+### Property Value
 
-`真的`如果此实例未链接；否则，`错误的` .
+`true` 如果此实例未链接；否则为 `false`。
 
-### 也可以看看
+### 另请参阅
 
 * class [WorkingPathResource](../)
-* 命名空间 [Aspose.PSD.FileFormats.Psd.Resources](../../workingpathresource/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

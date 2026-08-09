@@ -1,11 +1,12 @@
 ---
-title: Enum ExifOrientation
-second_title: Aspose.PSD for .NET API 参考
-description: Aspose.PSD.Exif.Enums.ExifOrientation 枚举. Exif 图像方向
+title: "枚举 ExifOrientation"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "Aspose.PSD.Exif.Enums.ExifOrientation 枚举。Exif 图像方向"
 type: docs
-weight: 910
+weight: 920
 url: /zh/net/aspose.psd.exif.enums/exiforientation/
 ---
+{{< psd/tize >}}
 ## ExifOrientation enumeration
 
 Exif 图像方向。
@@ -14,22 +15,22 @@ Exif 图像方向。
 public enum ExifOrientation
 ```
 
-### 价值观
+### 值
 
-| 姓名 | 价值 | 描述 |
+| 名称 | 值 | 描述 |
 | --- | --- | --- |
-| TopLeft | `1` | 左上角。默认方向. |
-| TopRight | `2` | 右上角。水平反转. |
-| BottomRight | `3` | 右下角。旋转 180 度. |
-| BottomLeft | `4` | 左下角。旋转180度后水平反转. |
-| LeftTop | `5` | 左上角。逆时针旋转90度，然后水平反转. |
-| RightTop | `6` | 右上角。顺时针旋转 90 度. |
-| RightBottom | `7` | 右下角。顺时针旋转90度，然后水平反转. |
-| LeftBottom | `8` | 左下角。逆时针旋转 90 度. |
+| TopLeft | `1` | 左上。默认方向。 |
+| TopRight | `2` | 右上。水平翻转。 |
+| BottomRight | `3` | 右下。旋转 180 度。 |
+| BottomLeft | `4` | 左下。旋转 180 度后再水平翻转。 |
+| LeftTop | `5` | 左上。逆时针旋转 90 度后再水平翻转。 |
+| RightTop | `6` | 右上。顺时针旋转90度。 |
+| RightBottom | `7` | 右下。顺时针旋转90度，然后水平翻转。 |
+| LeftBottom | `8` | 左下。逆时针旋转90度。 |
 
-### 也可以看看
+### 另请参阅
 
-* 命名空间 [Aspose.PSD.Exif.Enums](../../aspose.psd.exif.enums/)
-* 部件 [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Exif.Enums](../../aspose.psd.exif.enums/)
+* assembly [Aspose.PSD](../../)
 
 

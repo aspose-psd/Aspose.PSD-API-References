@@ -1,49 +1,50 @@
 ---
-title: Rectangle.Offset
-second_title: Aspose.PSD for .NET API 参考
-description: Rectangle 方法. 按指定量调整此矩形的位置
+title: "Rectangle.Offset"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "Rectangle 方法。按指定量调整此矩形的位置。"
 type: docs
 weight: 270
 url: /zh/net/aspose.psd/rectangle/offset/
 ---
+{{< psd/tize >}}
 ## Offset(Point) {#offset}
 
-按指定量调整此矩形的位置。
+按指定的量调整此矩形的位置。
 
 ```csharp
 public void Offset(Point pos)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| pos | Point | 偏移位置的量。 |
+| pos | Point | 用于偏移位置的量。 |
 
-### 也可以看看
+### 另请参阅
 
 * struct [Point](../../point/)
 * struct [Rectangle](../)
-* 命名空间 [Aspose.PSD](../../rectangle/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Offset(int, int) {#offset_1}
 
-按指定量调整此矩形的位置。
+按指定的量调整此矩形的位置。
 
 ```csharp
 public void Offset(int x, int y)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| x | Int32 | 水平偏移量。 |
-| y | Int32 | 垂直偏移。 |
+| x | Int32 | 水平偏移。 |
+| y | Int32 | 垂直偏移量。 |
 
-### 也可以看看
+### 另请参阅
 
 * struct [Rectangle](../)
-* 命名空间 [Aspose.PSD](../../rectangle/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

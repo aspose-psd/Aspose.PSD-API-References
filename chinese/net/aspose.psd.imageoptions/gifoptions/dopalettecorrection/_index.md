@@ -1,11 +1,12 @@
 ---
-title: GifOptions.DoPaletteCorrection
-second_title: Aspose.PSD for .NET API 参考
-description: GifOptions 财产. 获取或设置一个值指示是否应用调色板校正
+title: "GifOptions.DoPaletteCorrection"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "GifOptions 属性。获取或设置一个值，指示是否应用调色板校正"
 type: docs
 weight: 40
 url: /zh/net/aspose.psd.imageoptions/gifoptions/dopalettecorrection/
 ---
+{{< psd/tize >}}
 ## GifOptions.DoPaletteCorrection property
 
 获取或设置一个值，指示是否应用调色板校正。
@@ -14,18 +15,18 @@ url: /zh/net/aspose.psd.imageoptions/gifoptions/dopalettecorrection/
 public bool DoPaletteCorrection { get; set; }
 ```
 
-### 适当的价值
+### Property Value
 
-`真的`如果应用了调色板校正；否则，`错误的` .
+`true` 表示已应用调色板校正；否则为 `false`。
 
-### 评论
+## 备注
 
-调色板校正意味着每当将图像导出为 GIF 时，将分析源图像颜色 以构建最佳匹配调色板（以防图像调色板不存在或未在选项中指定）。 分析过程需要一些时间，但是输出图像将具有最匹配的调色板，结果在视觉上更好。
+调色板校正的含义是，每当图像导出为 GIF 时，源图像的颜色将被分析，以构建最匹配的调色板（在图像调色板不存在或未在选项中指定的情况下）。分析过程会花费一些时间，但输出图像将拥有最佳匹配的颜色调色板，视觉效果更佳。
 
-### 也可以看看
+### 另请参阅
 
 * class [GifOptions](../)
-* 命名空间 [Aspose.PSD.ImageOptions](../../gifoptions/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

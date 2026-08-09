@@ -1,111 +1,112 @@
 ---
-title: CurveShape.CurveShape
-second_title: Aspose.PSD for .NET API 参考
-description: CurveShape 构造函数. 初始化一个新的实例CurveShape类.
+title: "CurveShape.CurveShape"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "CurveShape 构造函数。初始化 CurveShape 类的新实例"
 type: docs
 weight: 10
 url: /zh/net/aspose.psd.shapes/curveshape/curveshape/
 ---
+{{< psd/tize >}}
 ## CurveShape() {#constructor}
 
-初始化一个新的实例[`CurveShape`](../)类.
+初始化 [`CurveShape`](../) 类的新实例。
 
 ```csharp
 public CurveShape()
 ```
 
-### 也可以看看
+### 另请参阅
 
 * class [CurveShape](../)
-* 命名空间 [Aspose.PSD.Shapes](../../curveshape/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## CurveShape(PointF[]) {#constructor_1}
 
-初始化一个新的实例[`CurveShape`](../)班级。使用默认张力 0.5.
+初始化 [`CurveShape`](../) 类的新实例。使用默认张力 0.5。
 
 ```csharp
 public CurveShape(PointF[] points)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| points | PointF[] | 点数组。 |
+| 点 | PointF[] | 点数组。 |
 
-### 也可以看看
+### 另请参阅
 
 * struct [PointF](../../../aspose.psd/pointf/)
 * class [CurveShape](../)
-* 命名空间 [Aspose.PSD.Shapes](../../curveshape/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## CurveShape(PointF[], bool) {#constructor_2}
 
-初始化一个新的实例[`CurveShape`](../)班级。使用默认张力 0.5.
+初始化 [`CurveShape`](../) 类的新实例。使用默认张力 0.5。
 
 ```csharp
 public CurveShape(PointF[] points, bool isClosed)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| points | PointF[] | 点数组。 |
-| isClosed | Boolean | 如果设置为`真的`曲线闭合。 |
+| 点 | PointF[] | 点数组。 |
+| isClosed | 布尔 | 如果设置为 `true`，曲线将闭合。 |
 
-### 也可以看看
+### 另请参阅
 
 * struct [PointF](../../../aspose.psd/pointf/)
 * class [CurveShape](../)
-* 命名空间 [Aspose.PSD.Shapes](../../curveshape/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## CurveShape(PointF[], float) {#constructor_3}
 
-初始化一个新的实例[`CurveShape`](../)类.
+初始化 [`CurveShape`](../) 类的新实例。
 
 ```csharp
 public CurveShape(PointF[] points, float tension)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| points | PointF[] | 点数组。 |
-| tension | Single | 曲线张力。 |
+| 点 | PointF[] | 点数组。 |
+| 张力 | 单精度 | 曲线张力。 |
 
-### 也可以看看
+### 另请参阅
 
 * struct [PointF](../../../aspose.psd/pointf/)
 * class [CurveShape](../)
-* 命名空间 [Aspose.PSD.Shapes](../../curveshape/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## CurveShape(PointF[], float, bool) {#constructor_4}
 
-初始化一个新的实例[`CurveShape`](../)类.
+初始化 [`CurveShape`](../) 类的新实例。
 
 ```csharp
 public CurveShape(PointF[] points, float tension, bool isClosed)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| points | PointF[] | 点数组。 |
-| tension | Single | 曲线张力。 |
-| isClosed | Boolean | 如果设置为`真的`曲线闭合。 |
+| 点 | PointF[] | 点数组。 |
+| 张力 | 单精度 | 曲线张力。 |
+| isClosed | 布尔 | 如果设置为 `true`，曲线将闭合。 |
 
-### 也可以看看
+### 另请参阅
 
 * struct [PointF](../../../aspose.psd/pointf/)
 * class [CurveShape](../)
-* 命名空间 [Aspose.PSD.Shapes](../../curveshape/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 

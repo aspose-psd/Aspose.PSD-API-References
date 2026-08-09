@@ -1,11 +1,12 @@
 ---
-title: JpegOptions.RdOptSettings
-second_title: Aspose.PSD for .NET API 参考
-description: JpegOptions 财产. 获取或设置 RD 优化器设置
+title: "JpegOptions.RdOptSettings"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "JpegOptions 属性。获取或设置 RD 优化器设置"
 type: docs
-weight: 150
+weight: 160
 url: /zh/net/aspose.psd.imageoptions/jpegoptions/rdoptsettings/
 ---
+{{< psd/tize >}}
 ## JpegOptions.RdOptSettings property
 
 获取或设置 RD 优化器设置。
@@ -14,15 +15,15 @@ url: /zh/net/aspose.psd.imageoptions/jpegoptions/rdoptsettings/
 public RdOptimizerSettings RdOptSettings { get; set; }
 ```
 
-### 适当的价值
+### Property Value
 
 RD 优化器设置。
 
-### 也可以看看
+### 另请参阅
 
 * class [RdOptimizerSettings](../../rdoptimizersettings/)
 * class [JpegOptions](../)
-* 命名空间 [Aspose.PSD.ImageOptions](../../jpegoptions/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

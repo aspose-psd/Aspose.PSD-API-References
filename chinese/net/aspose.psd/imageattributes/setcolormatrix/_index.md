@@ -1,76 +1,77 @@
 ---
-title: ImageAttributes.SetColorMatrix
-second_title: Aspose.PSD for .NET API 参考
-description: ImageAttributes 方法. 设置默认类别的颜色调整矩阵
+title: "ImageAttributes.SetColorMatrix"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "ImageAttributes 方法。为默认类别设置颜色调整矩阵。"
 type: docs
 weight: 140
 url: /zh/net/aspose.psd/imageattributes/setcolormatrix/
 ---
+{{< psd/tize >}}
 ## SetColorMatrix(ColorMatrix) {#setcolormatrix}
 
-设置默认类别的颜色调整矩阵。
+为默认类别设置颜色调整矩阵。
 
 ```csharp
 public void SetColorMatrix(ColorMatrix newColorMatrix)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
 | newColorMatrix | ColorMatrix | 颜色调整矩阵。 |
 
-### 也可以看看
+### 另请参阅
 
 * class [ColorMatrix](../../colormatrix/)
 * class [ImageAttributes](../)
-* 命名空间 [Aspose.PSD](../../imageattributes/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## SetColorMatrix(ColorMatrix, ColorMatrixFlag) {#setcolormatrix_1}
 
-设置默认类别的颜色调整矩阵。
+为默认类别设置颜色调整矩阵。
 
 ```csharp
 public void SetColorMatrix(ColorMatrix newColorMatrix, ColorMatrixFlag flags)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
 | newColorMatrix | ColorMatrix | 颜色调整矩阵。 |
-| flags | ColorMatrixFlag | 的一个元素[`ColorMatrixFlag`](../../colormatrixflag/)指定将受颜色调整矩阵影响的图像类型和颜色。 |
+| flags | ColorMatrixFlag | [`ColorMatrixFlag`](../../colormatrixflag/) 的一个元素，指定将受到颜色调整矩阵影响的图像和颜色类型。 |
 
-### 也可以看看
+### 另请参阅
 
 * class [ColorMatrix](../../colormatrix/)
 * enum [ColorMatrixFlag](../../colormatrixflag/)
 * class [ImageAttributes](../)
-* 命名空间 [Aspose.PSD](../../imageattributes/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## SetColorMatrix(ColorMatrix, ColorMatrixFlag, ColorAdjustType) {#setcolormatrix_2}
 
-设置指定类别的颜色调整矩阵。
+为指定类别设置颜色调整矩阵。
 
 ```csharp
 public void SetColorMatrix(ColorMatrix newColorMatrix, ColorMatrixFlag mode, ColorAdjustType type)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
 | newColorMatrix | ColorMatrix | 颜色调整矩阵。 |
-| mode | ColorMatrixFlag | 的一个元素[`ColorMatrixFlag`](../../colormatrixflag/)指定将受颜色调整矩阵影响的图像类型和颜色。 |
-| type | ColorAdjustType | 的一个元素[`ColorAdjustType`](../../coloradjusttype/)指定为其设置颜色调整矩阵的类别。 |
+| mode | ColorMatrixFlag | [`ColorMatrixFlag`](../../colormatrixflag/) 的一个元素，指定将受到颜色调整矩阵影响的图像和颜色类型。 |
+| type | ColorAdjustType | [`ColorAdjustType`](../../coloradjusttype/) 的一个元素，指定设置颜色调整矩阵的类别。 |
 
-### 也可以看看
+### 另请参阅
 
 * class [ColorMatrix](../../colormatrix/)
 * enum [ColorMatrixFlag](../../colormatrixflag/)
 * enum [ColorAdjustType](../../coloradjusttype/)
 * class [ImageAttributes](../)
-* 命名空间 [Aspose.PSD](../../imageattributes/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

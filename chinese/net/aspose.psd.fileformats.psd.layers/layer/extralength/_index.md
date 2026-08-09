@@ -1,27 +1,28 @@
 ---
-title: Layer.ExtraLength
-second_title: Aspose.PSD for .NET API 参考
-description: Layer 财产. 获取以字节为单位的层额外信息长度
+title: "Layer.ExtraLength"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "Layer 属性。获取层的额外信息长度（字节）"
 type: docs
-weight: 110
+weight: 120
 url: /zh/net/aspose.psd.fileformats.psd.layers/layer/extralength/
 ---
+{{< psd/tize >}}
 ## Layer.ExtraLength property
 
-获取以字节为单位的层额外信息长度。
+获取图层额外信息的字节长度。
 
 ```csharp
 public int ExtraLength { get; }
 ```
 
-### 适当的价值
+### Property Value
 
-额外层长度.
+额外层长度。
 
-### 也可以看看
+### 另请参阅
 
 * class [Layer](../)
-* 命名空间 [Aspose.PSD.FileFormats.Psd.Layers](../../layer/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

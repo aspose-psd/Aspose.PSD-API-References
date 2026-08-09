@@ -1,11 +1,12 @@
 ---
-title: BlendingOptions.AddColorOverlay
-second_title: Aspose.PSD for .NET API 参考
-description: BlendingOptions 方法. 添加颜色叠加
+title: "BlendingOptions.AddColorOverlay"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "BlendingOptions 方法。添加颜色叠加"
 type: docs
-weight: 20
+weight: 30
 url: /zh/net/aspose.psd.fileformats.psd.layers.layereffects/blendingoptions/addcoloroverlay/
 ---
+{{< psd/tize >}}
 ## BlendingOptions.AddColorOverlay method
 
 添加颜色叠加。
@@ -16,13 +17,13 @@ public ColorOverlayEffect AddColorOverlay()
 
 ### 返回值
 
-已创建[`ColorOverlayEffect`](../../coloroverlayeffect/)对象
+已创建 [`ColorOverlayEffect`](../../coloroverlayeffect/) 对象
 
-### 也可以看看
+### 另请参阅
 
 * class [ColorOverlayEffect](../../coloroverlayeffect/)
 * class [BlendingOptions](../)
-* 命名空间 [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../blendingoptions/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../../)
 
 

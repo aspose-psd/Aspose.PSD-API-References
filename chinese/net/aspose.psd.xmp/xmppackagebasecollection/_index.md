@@ -1,14 +1,15 @@
 ---
-title: Class XmpPackageBaseCollection
-second_title: Aspose.PSD for .NET API 参考
-description: Aspose.PSD.Xmp.XmpPackageBaseCollection 班级. 代表集合XmpPackage .
+title: "类 XmpPackageBaseCollection"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "Aspose.PSD.Xmp.XmpPackageBaseCollection 类。表示 XmpPackage 的集合"
 type: docs
-weight: 6280
+weight: 6780
 url: /zh/net/aspose.psd.xmp/xmppackagebasecollection/
 ---
+{{< psd/tize >}}
 ## XmpPackageBaseCollection class
 
-代表集合[`XmpPackage`](../xmppackage/) .
+表示 [`XmpPackage`](../xmppackage/) 的集合。
 
 ```csharp
 public sealed class XmpPackageBaseCollection : IEnumerable<XmpPackage>
@@ -16,31 +17,31 @@ public sealed class XmpPackageBaseCollection : IEnumerable<XmpPackage>
 
 ## 构造函数
 
-| 姓名 | 描述 |
+| 名称 | 描述 |
 | --- | --- |
 | [XmpPackageBaseCollection](xmppackagebasecollection/)() | 默认构造函数。 |
 
-## 特性
+## 属性
 
-| 姓名 | 描述 |
+| 名称 | 描述 |
 | --- | --- |
-| [Count](../../aspose.psd.xmp/xmppackagebasecollection/count/) { get; } | 获取集合中的元素个数。 |
+| [Count](../../aspose.psd.xmp/xmppackagebasecollection/count/) { get; } | 获取集合中元素的数量。 |
 
 ## 方法
 
-| 姓名 | 描述 |
+| 名称 | 描述 |
 | --- | --- |
-| [Add](../../aspose.psd.xmp/xmppackagebasecollection/add/)(XmpPackage) | 添加新实例[`XmpPackage`](../xmppackage/) . |
-| [Clear](../../aspose.psd.xmp/xmppackagebasecollection/clear/)() | 全部清除[`XmpPackage`](../xmppackage/)内部集合. |
+| [Add](../../aspose.psd.xmp/xmppackagebasecollection/add/)(XmpPackage) | 添加 [`XmpPackage`](../xmppackage/) 的新实例。 |
+| [Clear](../../aspose.psd.xmp/xmppackagebasecollection/clear/)() | 清除集合中所有 [`XmpPackage`](../xmppackage/)。 |
 | [GetEnumerator](../../aspose.psd.xmp/xmppackagebasecollection/getenumerator/)() | 返回一个遍历集合的枚举器。 |
-| [GetPackage](../../aspose.psd.xmp/xmppackagebasecollection/getpackage/)(string) | 获取[`XmpPackage`](../xmppackage/)通过它的 namespaceURI. |
-| [GetPackages](../../aspose.psd.xmp/xmppackagebasecollection/getpackages/)() | 获取数组[`XmpPackage`](../xmppackage/) . |
-| [Remove](../../aspose.psd.xmp/xmppackagebasecollection/remove/)(XmpPackage) | 删除指定的 XMP 包。 |
+| [GetPackage](../../aspose.psd.xmp/xmppackagebasecollection/getpackage/)(string) | 通过其 namespaceURI 获取 [`XmpPackage`](../xmppackage/)。 |
+| [GetPackages](../../aspose.psd.xmp/xmppackagebasecollection/getpackages/)() | 获取 [`XmpPackage`](../xmppackage/) 的数组。 |
+| [Remove](../../aspose.psd.xmp/xmppackagebasecollection/remove/)(XmpPackage) | 移除指定的 XMP 包。 |
 
-### 也可以看看
+### 另请参阅
 
 * class [XmpPackage](../xmppackage/)
-* 命名空间 [Aspose.PSD.Xmp](../../aspose.psd.xmp/)
-* 部件 [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Xmp](../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../)
 
 

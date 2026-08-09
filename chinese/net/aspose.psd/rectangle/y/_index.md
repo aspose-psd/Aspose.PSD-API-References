@@ -1,27 +1,28 @@
 ---
-title: Rectangle.Y
-second_title: Aspose.PSD for .NET API 参考
-description: Rectangle 财产. 获取或设置此画面左上角的y坐标Rectangle结构.
+title: "Rectangle.Y"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "Rectangle 属性。获取或设置此 Rectangle 结构左上角的 y 坐标。"
 type: docs
 weight: 210
 url: /zh/net/aspose.psd/rectangle/y/
 ---
+{{< psd/tize >}}
 ## Rectangle.Y property
 
-获取或设置此画面左上角的y坐标[`Rectangle`](../)结构.
+获取或设置此 [`Rectangle`](../) 结构左上角的 y 坐标。
 
 ```csharp
 public int Y { get; set; }
 ```
 
-### 适当的价值
+### Property Value
 
-这个的左上角的y坐标[`Rectangle`](../)结构。
+此 [`Rectangle`](../) 结构左上角的 y 坐标。
 
-### 也可以看看
+### 另请参阅
 
 * struct [Rectangle](../)
-* 命名空间 [Aspose.PSD](../../rectangle/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

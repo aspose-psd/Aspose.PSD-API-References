@@ -1,11 +1,12 @@
 ---
-title: Class XmpTypeBase
-second_title: Aspose.PSD for .NET API 参考
-description: Aspose.PSD.Xmp.Types.XmpTypeBase 班级. 表示基本 XMP 类型的基类
+title: "类 XmpTypeBase"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "Aspose.PSD.Xmp.Types.XmpTypeBase 类。表示基本 XMP 类型的基类"
 type: docs
-weight: 6200
+weight: 6700
 url: /zh/net/aspose.psd.xmp.types/xmptypebase/
 ---
+{{< psd/tize >}}
 ## XmpTypeBase class
 
 表示基本 XMP 类型的基类。
@@ -16,14 +17,14 @@ public abstract class XmpTypeBase : IXmpType
 
 ## 方法
 
-| 姓名 | 描述 |
+| 名称 | 描述 |
 | --- | --- |
-| abstract [GetXmpRepresentation](../../aspose.psd.xmp.types/xmptypebase/getxmprepresentation/)() | 获取包含 XMP 格式的字符串值。 |
+| abstract [GetXmpRepresentation](../../aspose.psd.xmp.types/xmptypebase/getxmprepresentation/)() | 获取 XMP 格式中包含的字符串值。 |
 
-### 也可以看看
+### 另请参阅
 
 * interface [IXmpType](../ixmptype/)
-* 命名空间 [Aspose.PSD.Xmp.Types](../../aspose.psd.xmp.types/)
-* 部件 [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Xmp.Types](../../aspose.psd.xmp.types/)
+* assembly [Aspose.PSD](../../)
 
 

@@ -1,23 +1,24 @@
 ---
-title: JFIFData.JFIFData
-second_title: Aspose.PSD for .NET API 参考
-description: JFIFData 构造函数. 初始化一个新的实例JFIFData类.
+title: "JFIFData.JFIFData"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "JFIFData 构造函数。初始化 JFIFData 类的新实例"
 type: docs
 weight: 10
 url: /zh/net/aspose.psd.fileformats.jpeg/jfifdata/jfifdata/
 ---
+{{< psd/tize >}}
 ## JFIFData constructor
 
-初始化一个新的实例[`JFIFData`](../)类.
+初始化 [`JFIFData`](../) 类的新实例。
 
 ```csharp
 public JFIFData()
 ```
 
-### 也可以看看
+### 另请参阅
 
 * class [JFIFData](../)
-* 命名空间 [Aspose.PSD.FileFormats.Jpeg](../../jfifdata/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Jpeg](../../../aspose.psd.fileformats.jpeg/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: Class AggregateException
-second_title: Aspose.PSD for .NET API 参考
-description: Aspose.PSD.AggregateException 班级. 聚合多个异常
+title: "类 AggregateException"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "Aspose.PSD.AggregateException 类。聚合多个异常。"
 type: docs
 weight: 10
 url: /zh/net/aspose.psd/aggregateexception/
 ---
+{{< psd/tize >}}
 ## AggregateException class
 
 聚合多个异常。
@@ -14,9 +15,9 @@ url: /zh/net/aspose.psd/aggregateexception/
 public class AggregateException : Exception
 ```
 
-### 也可以看看
+### 另请参阅
 
-* 命名空间 [Aspose.PSD](../../aspose.psd/)
-* 部件 [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

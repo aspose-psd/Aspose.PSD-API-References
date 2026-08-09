@@ -1,11 +1,12 @@
 ---
-title: BackgroundColorResource.Color
-second_title: Aspose.PSD for .NET API 参考
-description: BackgroundColorResource 财产. 获取或设置背景颜色
+title: "BackgroundColorResource.Color"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "BackgroundColorResource 属性。获取或设置背景颜色"
 type: docs
 weight: 20
 url: /zh/net/aspose.psd.fileformats.psd.resources/backgroundcolorresource/color/
 ---
+{{< psd/tize >}}
 ## BackgroundColorResource.Color property
 
 获取或设置背景颜色。
@@ -14,9 +15,9 @@ url: /zh/net/aspose.psd.fileformats.psd.resources/backgroundcolorresource/color/
 public Color Color { get; set; }
 ```
 
-### 例子
+## 示例
 
-以下示例演示了 BackgroundColorResource 资源的支持。
+以下示例演示了对 BackgroundColorResource 资源的支持。
 
 ```csharp
 [C#]
@@ -44,11 +45,11 @@ using (var image = (PsdImage)Image.Load(sourceFilePath))
 }
 ```
 
-### 也可以看看
+### 另请参阅
 
 * struct [Color](../../../aspose.psd/color/)
 * class [BackgroundColorResource](../)
-* 命名空间 [Aspose.PSD.FileFormats.Psd.Resources](../../backgroundcolorresource/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

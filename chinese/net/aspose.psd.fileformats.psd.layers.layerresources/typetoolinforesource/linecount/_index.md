@@ -1,11 +1,12 @@
 ---
-title: TypeToolInfoResource.LineCount
-second_title: Aspose.PSD for .NET API 参考
-description: TypeToolInfoResource 财产. 获取行数
+title: "TypeToolInfoResource.LineCount"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "TypeToolInfoResource 属性。获取行数"
 type: docs
-weight: 130
+weight: 120
 url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources/typetoolinforesource/linecount/
 ---
+{{< psd/tize >}}
 ## TypeToolInfoResource.LineCount property
 
 获取行数。
@@ -14,14 +15,14 @@ url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources/typetoolinforesour
 public short LineCount { get; }
 ```
 
-### 适当的价值
+### Property Value
 
-行计数。
+行数。
 
-### 也可以看看
+### 另请参阅
 
 * class [TypeToolInfoResource](../)
-* 命名空间 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../typetoolinforesource/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

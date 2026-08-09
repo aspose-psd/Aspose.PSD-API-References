@@ -1,11 +1,12 @@
 ---
-title: UnitStructure.Key
-second_title: Aspose.PSD for .NET API 参考
-description: UnitStructure 财产. 获取结构键
+title: "UnitStructure.Key"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "UnitStructure 属性。获取结构键"
 type: docs
 weight: 20
 url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/unitstructure/key/
 ---
+{{< psd/tize >}}
 ## UnitStructure.Key property
 
 获取结构键。
@@ -14,10 +15,10 @@ url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostruct
 public override int Key { get; }
 ```
 
-### 也可以看看
+### 另请参阅
 
 * class [UnitStructure](../)
-* 命名空间 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../unitstructure/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 

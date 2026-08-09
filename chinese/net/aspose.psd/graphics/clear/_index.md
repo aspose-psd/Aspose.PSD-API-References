@@ -1,28 +1,29 @@
 ---
-title: Graphics.Clear
-second_title: Aspose.PSD for .NET API 参考
-description: Graphics 方法. 使用指定颜色清除图形表面
+title: "Graphics.Clear"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "Graphics 方法。使用指定的颜色清除图形表面。"
 type: docs
-weight: 150
+weight: 160
 url: /zh/net/aspose.psd/graphics/clear/
 ---
+{{< psd/tize >}}
 ## Graphics.Clear method
 
-使用指定颜色清除图形表面。
+使用指定的颜色清除图形表面。
 
 ```csharp
 public void Clear(Color color)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| color | Color | 清除图形表面所依据的颜色。 |
+| 颜色 | 颜色 | 用于清除图形表面的颜色。 |
 
-### 也可以看看
+### 另请参阅
 
 * struct [Color](../../color/)
 * class [Graphics](../)
-* 命名空间 [Aspose.PSD](../../graphics/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

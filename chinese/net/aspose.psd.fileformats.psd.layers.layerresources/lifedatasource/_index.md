@@ -1,14 +1,15 @@
 ---
-title: Class LiFeDataSource
-second_title: Aspose.PSD for .NET API 参考
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.LiFeDataSource 班级. 定义包含有关外部链接文件的信息的 LnkeDataSource 类 这是 PSD 文件格式操作 API 的一部分有助于修改 Adobe Photoshop 文件
+title: "类 LiFeDataSource"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "Aspose.PSD.FileFormats.Psd.Layers.LayerResources.LiFeDataSource 类。定义了包含外部链接文件信息的 LnkeDataSource 类。这是 PSD 文件格式操作 API 的一部分，帮助修改 Adobe Photoshop 文件。"
 type: docs
-weight: 2680
+weight: 2980
 url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources/lifedatasource/
 ---
+{{< psd/tize >}}
 ## LiFeDataSource class
 
-定义包含有关外部链接文件的信息的 LnkeDataSource 类。 这是 PSD 文件格式操作 API 的一部分，有助于修改 Adobe® Photoshop® 文件
+定义 LnkeDataSource 类，包含有关外部链接文件的信息。这是 PSD 文件格式操作 API 的一部分，帮助修改 Adobe® Photoshop® 文件
 
 ```csharp
 public class LiFeDataSource : LinkDataSource
@@ -16,40 +17,40 @@ public class LiFeDataSource : LinkDataSource
 
 ## 构造函数
 
-| 姓名 | 描述 |
+| 名称 | 描述 |
 | --- | --- |
-| [LiFeDataSource](lifedatasource/#constructor)() | 初始化一个新的实例`LiFeDataSource`类. |
-| [LiFeDataSource](lifedatasource/#constructor_1)(int, Guid, string, string, string) | 初始化一个新的实例`LiFeDataSource`类. |
+| [LiFeDataSource](lifedatasource/#constructor)() | 初始化 `LiFeDataSource` 类的新实例。 |
+| [LiFeDataSource](lifedatasource/#constructor_1)(int, Guid, string, string, string) | 初始化 `LiFeDataSource` 类的新实例。 |
 
-## 特性
+## 属性
 
-| 姓名 | 描述 |
+| 名称 | 描述 |
 | --- | --- |
-| [AdobeStockId](../../aspose.psd.fileformats.psd.layers.layerresources/lifedatasource/adobestockid/) { get; set; } | 获取或设置图形库 AdobeStockId，用于 Adobe® Photoshop® CC 库。 |
-| [AdobeStockLicenseState](../../aspose.psd.fileformats.psd.layers.layerresources/lifedatasource/adobestocklicensestate/) { get; } | 获取适用于 Adobe® Photoshop® CC 库的 adobe Stock 许可证的状态。 |
-| [AssetLockedState](../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/assetlockedstate/) { get; set; } | 获取或设置一个值，指示 PSD 资产是否已锁定。 Adobe® Photoshop® СС Libraries 资产的资产锁定状态。 |
-| [AssetModTime](../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/assetmodtime/) { get; set; } | 获取或设置 Adobe® Photoshop® СС Libraries 资产的资产修改时间。 |
+| [AdobeStockId](../../aspose.psd.fileformats.psd.layers.layerresources/lifedatasource/adobestockid/) { get; set; } | 获取或设置图形库 AdobeStockId，适用于 Adobe® Photoshop® CC Libraries。 |
+| [AdobeStockLicenseState](../../aspose.psd.fileformats.psd.layers.layerresources/lifedatasource/adobestocklicensestate/) { get; } | 获取 Adobe® Photoshop® CC libraries 中可用的 Adobe Stock 许可证状态。 |
+| [AssetLockedState](../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/assetlockedstate/) { get; set; } | 获取或设置指示 PSD 资产是否被锁定的值。资产锁定状态，适用于 Adobe® Photoshop® СС Libraries 资产。 |
+| [AssetModTime](../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/assetmodtime/) { get; set; } | 获取或设置资产的修改时间，适用于 Adobe® Photoshop® СС Libraries 资产。 |
 | [ChildDocId](../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/childdocid/) { get; set; } | 获取或设置 Lnk2 / LnkE Adobe® Photoshop® 资源的 liFE 或 liFD 数据源中的子文档标识符。 |
-| [CompId](../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/compid/) { get; set; } | 获取或设置当前为子文档选择的 comp 的 ID，如果未选择，则为 -1。 Comp 是设计人员可以创建的页面布局的组合。使用图层复合，您可以在单个 Adobe® Photoshop® 文件中创建、管理和查看布局的多个版本 。图层复合是图层面板状态的快照。 Layer comps 保存三种类型的图层选项，但 此属性获取智能对象的 Layer Comp 选择标识符。 [智能对象中的图层复合](https://helpx.adobe.com/photoshop/using/layer-comps.html) |
-| [Date](../../aspose.psd.fileformats.psd.layers.layerresources/lifedatasource/date/) { get; set; } | 获取或设置PSD LnkE资源的LiFE数据源中外部文件的最后写入日期和时间。 |
-| [ElementName](../../aspose.psd.fileformats.psd.layers.layerresources/lifedatasource/elementname/) { get; set; } | 获取或设置 Adobe® Photoshop® CC 库的图形库元素名称。 |
-| [ElementRef](../../aspose.psd.fileformats.psd.layers.layerresources/lifedatasource/elementref/) { get; set; } | 获取或设置图形库元素引用，适用于 Adobe® Photoshop® CC 库。 |
-| [FileCreator](../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/filecreator/) { get; set; } | 获取或设置 PSD 格式 LnkE / Lnk2 资源的文件创建者。 |
+| [CompId](../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/compid/) { get; set; } | 获取或设置子文档当前选定的 comp 的 ID，如果未选中则为 -1。Comp 是设计师可以创建的页面布局的组合。使用图层 comp，您可以在单个 Adobe® Photoshop® 文件中创建、管理和查看布局的多个版本。图层 comp 是图层面板状态的快照。图层 comp 保存三种图层选项，但此属性获取智能对象的图层 Comp 选择标识符。[Layer comps in Smart Objects](https://helpx.adobe.com/photoshop/using/layer-comps.html) |
+| [Date](../../aspose.psd.fileformats.psd.layers.layerresources/lifedatasource/date/) { get; set; } | 获取或设置 PSD LnkE 资源的 LiFE 数据源中外部文件的最后写入日期和时间。 |
+| [ElementName](../../aspose.psd.fileformats.psd.layers.layerresources/lifedatasource/elementname/) { get; set; } | 获取或设置图形库元素名称，适用于 Adobe® Photoshop® CC Libraries。 |
+| [ElementRef](../../aspose.psd.fileformats.psd.layers.layerresources/lifedatasource/elementref/) { get; set; } | 获取或设置图形库元素引用，适用于 Adobe® Photoshop® CC Libraries。 |
+| [FileCreator](../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/filecreator/) { get; set; } | 获取或设置 PSD 格式 LnkE / Lnk2 资源中的文件创建者。 |
 | [FileName](../../aspose.psd.fileformats.psd.layers.layerresources/lifedatasource/filename/) { get; set; } | 获取或设置 PSD 链接资源中外部或嵌入文件的名称。 |
-| [FileSize](../../aspose.psd.fileformats.psd.layers.layerresources/lifedatasource/filesize/) { get; set; } | 获取或设置PSD LnkE资源的LiFE数据源中外部文件的大小。 |
+| [FileSize](../../aspose.psd.fileformats.psd.layers.layerresources/lifedatasource/filesize/) { get; set; } | 获取或设置 PSD LnkE 资源的 LiFE 数据源中外部文件的大小。 |
 | [FileType](../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/filetype/) { get; set; } | 获取或设置 Adobe® Photoshop® Lnk2 / LnkE 资源包含或链接的嵌入或外部文件的类型。 |
-| [FullPath](../../aspose.psd.fileformats.psd.layers.layerresources/lifedatasource/fullpath/) { get; set; } | 获取或设置PSD LnkE资源的LiFE数据源中外部文件的完整路径。 |
-| [HasFileOpenDescriptor](../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/hasfileopendescriptor/) { get; set; } | 获取或设置一个值，该值指示此链接数据源是否具有文件打开描述符：CompId 和 OriginalCompId. |
-| [IsLibraryLink](../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/islibrarylink/) { get; } | 获取一个值，该值指示此 PSD 链接数据源是否链接到 Adobe® Photoshop® СС 库项目。 |
-| [Length](../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/length/) { get; } | 获取以字节为单位的链接数据源长度。 |
-| [OriginalCompId](../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/originalcompid/) { get; } | 获取当前为子文档选择的 Comp 的原始 ID，如果没有选择则为 -1。 该属性获取 Smart Objects 的原始图层 Comp 选择标识符。 [智能对象中的图层复合](https://helpx.adobe.com/photoshop/using/layer-comps.html) |
+| [FullPath](../../aspose.psd.fileformats.psd.layers.layerresources/lifedatasource/fullpath/) { get; set; } | 获取或设置 PSD LnkE 资源的 LiFE 数据源中外部文件的完整路径。 |
+| [HasFileOpenDescriptor](../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/hasfileopendescriptor/) { get; set; } | 获取或设置一个值，指示此链接数据源是否具有文件打开描述符：CompId 和 OriginalCompId。 |
+| [IsLibraryLink](../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/islibrarylink/) { get; } | 获取一个值，指示此 PSD 链接数据源是否链接到 Adobe® Photoshop® СС Library 项目。 |
+| [Length](../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/length/) { get; } | 获取链接数据源的字节长度。 |
+| [OriginalCompId](../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/originalcompid/) { get; } | 获取子文档当前选定的 Comp 的原始 ID，如果未选中则为 -1。此属性获取智能对象的原始图层 Comp 选择标识符。[Layer comps in Smart Objects](https://helpx.adobe.com/photoshop/using/layer-comps.html) |
 | [OriginalFileName](../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/originalfilename/) { get; } | 获取 Adobe® Photoshop® 全局链接资源中数据源的原始文件名。 |
-| [RelativePath](../../aspose.psd.fileformats.psd.layers.layerresources/lifedatasource/relativepath/) { get; set; } | 获取或设置外部文件在PSD LnkE资源的LiFE数据源中的相对路径。 |
-| [Type](../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/type/) { get; } | 获取Adobe® Photoshop® 全局链接数据源类型，可以是以下之一或无： PSD Lnk2Resource 对应的嵌入链接文件liFD PSD LnkeResource 对应的外部链接文件liFE 链接文件别名liFA |
-| [UniqueId](../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/uniqueid/) { get; } | 获取PSD链接资源中数据源的全局唯一标识。 |
+| [RelativePath](../../aspose.psd.fileformats.psd.layers.layerresources/lifedatasource/relativepath/) { get; set; } | 获取或设置 PSD LnkE 资源的 LiFE 数据源中外部文件的相对路径。 |
+| [Type](../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/type/) { get; } | 获取 Adobe® Photoshop® 全局链接数据源类型，该类型可以是以下之一或无：对应于 PSD Lnk2Resource 的嵌入链接文件 liFD，对应于 PSD LnkeResource 的外部链接文件 liFE，链接文件别名 liFA。 |
+| [UniqueId](../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/uniqueid/) { get; } | 获取 PSD 链接资源中数据源的全局唯一标识符。 |
 | [Version](../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/version/) { get; } | 获取 PSD LnkE / Lnk2 资源中数据源的版本。 |
 
-### 例子
+## 示例
 
 此示例演示如何获取和设置 Psd LnkE 资源的属性。
 
@@ -65,7 +66,7 @@ void AssertAreEqual(object actual, object expected)
     }
 }
 
-// 此示例演示如何获取和设置包含有关外部链接文件信息的 Psd LnkE 资源的属性。
+// 此示例演示如何获取和设置包含外部链接文件信息的 Psd LnkE 资源的属性。
 void ExampleOfLnkEResourceSupport(
     string fileName,
     int length,
@@ -142,7 +143,7 @@ void ExampleOfLnkEResourceSupport(
     }
 }
 
-// 此示例演示如何获取和设置包含有关外部链接的 JPEG 文件的信息的 Psd LnkeResource 的属性。
+// 此示例演示如何获取和设置包含外部链接 JPEG 文件信息的 Psd LnkeResource 的属性。
 ExampleOfLnkEResourceSupport(
     @"photooverlay_5_new.psd",
     0x21c,
@@ -161,7 +162,7 @@ ExampleOfLnkEResourceSupport(
     0x1520d,
     7);
 
-// 此示例演示如何获取和设置包含有关外部链接 PNG 文件的信息的 PSD LnkeResource 的属性。
+// 此示例演示如何获取和设置包含外部链接 PNG 文件信息的 PSD LnkeResource 的属性。
 ExampleOfLnkEResourceSupport(
     "rgb8_2x2_linked.psd",
     0x284,
@@ -180,7 +181,7 @@ ExampleOfLnkEResourceSupport(
     0x53,
     7);
 
-// 此示例演示如何获取和设置 PSD LnkeResource 的属性，该资源包含有关两个外部链接的 PNG 和 PSD 文件的信息。
+// 此示例演示如何获取和设置包含两个外部链接 PNG 和 PSD 文件信息的 PSD LnkeResource 的属性。
 ExampleOfLnkEResourceSupport(
     "rgb8_2x2_linked2.psd",
     0x590,
@@ -199,7 +200,7 @@ ExampleOfLnkEResourceSupport(
     0x4aea,
     7);
 
-// 此示例演示如何获取和设置 Photoshop Psd LnkeResource 的属性，其中包含有关外部链接的 CC Libraries 资源的信息。
+// 此示例演示如何获取和设置包含外部链接 CC Libraries 资产信息的 Photoshop Psd LnkeResource 的属性。
 ExampleOfLnkEResourceSupport(
     "rgb8_2x2_asset_linked.psd",
     0x398,
@@ -219,7 +220,7 @@ ExampleOfLnkEResourceSupport(
     7);
 ```
 
-下面的代码演示了 LnkeResource 资源的支持。
+以下代码演示了 LnkeResource 资源的支持。
 
 ```csharp
 [C#]
@@ -441,10 +442,10 @@ ExampleOfComplexLnkEResourceSupport(
     ComplexLnkEResourceSupportCases);
 ```
 
-### 也可以看看
+### 另请参阅
 
 * class [LinkDataSource](../linkdatasource/)
-* 命名空间 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
-* 部件 [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../)
 
 

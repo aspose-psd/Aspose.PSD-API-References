@@ -1,29 +1,30 @@
 ---
-title: Enum ExifGPSAltitudeRef
-second_title: Aspose.PSD for .NET API 参考
-description: Aspose.PSD.Exif.Enums.ExifGPSAltitudeRef 枚举. exif gps 高度参考枚举.
+title: "Enum ExifGPSAltitudeRef"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "Aspose.PSD.Exif.Enums.ExifGPSAltitudeRef enum. exif gps 海拔参考枚举"
 type: docs
-weight: 870
+weight: 880
 url: /zh/net/aspose.psd.exif.enums/exifgpsaltituderef/
 ---
+{{< psd/tize >}}
 ## ExifGPSAltitudeRef enumeration
 
-exif gps 高度参考枚举.
+exif GPS 海拔参考枚举。
 
 ```csharp
 public enum ExifGPSAltitudeRef : byte
 ```
 
-### 价值观
+### 值
 
-| 姓名 | 价值 | 描述 |
+| 名称 | 值 | 描述 |
 | --- | --- | --- |
-| AboveSeaLevel | `0` | 海拔高度。 |
-| BelowSeaLevel | `1` | 低于海平面。 |
+| AboveSeaLevel | `0` | 海平面以上。 |
+| BelowSeaLevel | `1` | 海平面以下。 |
 
-### 也可以看看
+### 另请参阅
 
-* 命名空间 [Aspose.PSD.Exif.Enums](../../aspose.psd.exif.enums/)
-* 部件 [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Exif.Enums](../../aspose.psd.exif.enums/)
+* assembly [Aspose.PSD](../../)
 
 

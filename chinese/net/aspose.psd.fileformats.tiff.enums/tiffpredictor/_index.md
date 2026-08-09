@@ -1,11 +1,12 @@
 ---
-title: Enum TiffPredictor
-second_title: Aspose.PSD for .NET API 参考
-description: Aspose.PSD.FileFormats.Tiff.Enums.TiffPredictor 枚举. LZW 的预测方案
+title: "枚举 TiffPredictor"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "Aspose.PSD.FileFormats.Tiff.Enums.TiffPredictor 枚举。LZW 的预测方案。"
 type: docs
-weight: 4140
+weight: 4610
 url: /zh/net/aspose.psd.fileformats.tiff.enums/tiffpredictor/
 ---
+{{< psd/tize >}}
 ## TiffPredictor enumeration
 
 LZW 的预测方案
@@ -14,16 +15,16 @@ LZW 的预测方案
 public enum TiffPredictor : ushort
 ```
 
-### 价值观
+### 值
 
-| 姓名 | 价值 | 描述 |
+| 名称 | 值 | 描述 |
 | --- | --- | --- |
 | None | `1` | 未使用预测方案。 |
-| Horizontal | `2` | 水平差异. |
+| Horizontal | `2` | 水平差分。 |
 
-### 也可以看看
+### 另请参阅
 
-* 命名空间 [Aspose.PSD.FileFormats.Tiff.Enums](../../aspose.psd.fileformats.tiff.enums/)
-* 部件 [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Tiff.Enums](../../aspose.psd.fileformats.tiff.enums/)
+* assembly [Aspose.PSD](../../)
 
 

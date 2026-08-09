@@ -1,22 +1,23 @@
 ---
-title: VstkResource.StrokeStyleLineAlignment
-second_title: Aspose.PSD for .NET API 参考
-description: VstkResource 财产. 获取或设置 Stroke 样式线条对齐方式
+title: "VstkResource.StrokeStyleLineAlignment"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "VstkResource 属性。获取或设置笔画样式线对齐方式"
 type: docs
-weight: 100
+weight: 80
 url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources.strokeresources/vstkresource/strokestylelinealignment/
 ---
+{{< psd/tize >}}
 ## VstkResource.StrokeStyleLineAlignment property
 
-获取或设置 Stroke 样式线条对齐方式。
+获取或设置笔划样式线对齐方式。
 
 ```csharp
 public StrokePosition StrokeStyleLineAlignment { get; set; }
 ```
 
-### 例子
+## 示例
 
-下面的代码演示了对 VstkResource 资源的支持。
+以下代码演示了对 VstkResource 资源的支持。
 
 ```csharp
 [C#]
@@ -41,11 +42,11 @@ using (PsdImage image = (PsdImage)Image.Load(srcFile))
 }
 ```
 
-### 也可以看看
+### 另请参阅
 
 * enum [StrokePosition](../../../aspose.psd.fileformats.psd.layers.layereffects/strokeposition/)
 * class [VstkResource](../)
-* 命名空间 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.StrokeResources](../../vstkresource/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.StrokeResources](../../../aspose.psd.fileformats.psd.layers.layerresources.strokeresources/)
+* assembly [Aspose.PSD](../../../)
 
 

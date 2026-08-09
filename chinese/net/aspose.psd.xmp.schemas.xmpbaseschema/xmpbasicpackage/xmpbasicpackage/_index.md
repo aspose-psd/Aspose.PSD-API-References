@@ -1,44 +1,45 @@
 ---
-title: XmpBasicPackage.XmpBasicPackage
-second_title: Aspose.PSD for .NET API 参考
-description: XmpBasicPackage 构造函数. 初始化一个新的实例XmpBasicPackage类.
+title: "XmpBasicPackage.XmpBasicPackage"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "XmpBasicPackage 构造函数。初始化 XmpBasicPackage 类的新实例"
 type: docs
 weight: 10
 url: /zh/net/aspose.psd.xmp.schemas.xmpbaseschema/xmpbasicpackage/xmpbasicpackage/
 ---
+{{< psd/tize >}}
 ## XmpBasicPackage() {#constructor}
 
-初始化一个新的实例[`XmpBasicPackage`](../)类.
+初始化 [`XmpBasicPackage`](../) 类的新实例。
 
 ```csharp
 public XmpBasicPackage()
 ```
 
-### 也可以看看
+### 另请参阅
 
 * class [XmpBasicPackage](../)
-* 命名空间 [Aspose.PSD.Xmp.Schemas.XmpBaseSchema](../../xmpbasicpackage/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpBaseSchema](../../../aspose.psd.xmp.schemas.xmpbaseschema/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## XmpBasicPackage(string, string) {#constructor_1}
 
-初始化一个新的实例[`XmpBasicPackage`](../)类.
+初始化 [`XmpBasicPackage`](../) 类的新实例。
 
 ```csharp
 public XmpBasicPackage(string prefix, string namespaceUri)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| prefix | String | 前缀。 |
+| 前缀 | String | 前缀。 |
 | namespaceUri | String | 命名空间 URI。 |
 
-### 也可以看看
+### 另请参阅
 
 * class [XmpBasicPackage](../)
-* 命名空间 [Aspose.PSD.Xmp.Schemas.XmpBaseSchema](../../xmpbasicpackage/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpBaseSchema](../../../aspose.psd.xmp.schemas.xmpbaseschema/)
+* assembly [Aspose.PSD](../../../)
 
 

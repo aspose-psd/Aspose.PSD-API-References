@@ -1,11 +1,12 @@
 ---
-title: Matrix.M21
-second_title: Aspose.PSD for .NET API 参考
-description: Matrix 财产. 获取第二行第一列的矩阵元素表示沿 X 轴的剪切
+title: "Matrix.M21"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "Matrix 属性。获取矩阵第二行第一列的元素。表示沿 X 轴的剪切。"
 type: docs
 weight: 50
 url: /zh/net/aspose.psd/matrix/m21/
 ---
+{{< psd/tize >}}
 ## Matrix.M21 property
 
 获取第二行第一列的矩阵元素。表示沿 X 轴的剪切。
@@ -14,10 +15,10 @@ url: /zh/net/aspose.psd/matrix/m21/
 public float M21 { get; }
 ```
 
-### 也可以看看
+### 另请参阅
 
 * class [Matrix](../)
-* 命名空间 [Aspose.PSD](../../matrix/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

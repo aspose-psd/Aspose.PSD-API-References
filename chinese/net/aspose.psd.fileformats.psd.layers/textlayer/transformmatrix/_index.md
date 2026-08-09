@@ -1,11 +1,12 @@
 ---
-title: TextLayer.TransformMatrix
-second_title: Aspose.PSD for .NET API 参考
-description: TextLayer 财产. 获取或设置变换矩阵
+title: "TextLayer.TransformMatrix"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "TextLayer 属性。获取或设置变换矩阵"
 type: docs
 weight: 70
 url: /zh/net/aspose.psd.fileformats.psd.layers/textlayer/transformmatrix/
 ---
+{{< psd/tize >}}
 ## TextLayer.TransformMatrix property
 
 获取或设置变换矩阵
@@ -14,18 +15,18 @@ url: /zh/net/aspose.psd.fileformats.psd.layers/textlayer/transformmatrix/
 public double[] TransformMatrix { get; set; }
 ```
 
-### 适当的价值
+### Property Value
 
 变换矩阵
 
-### 例子
+## 示例
 
-以下代码演示了如何获取文本层中任何文本部分的字体大小。
+以下代码演示了如何获取文本图层中任意文本部分的字体大小。
 
 ```csharp
 [C#]
 
-// 提取错误的字体大小 
+// 提取的字体大小错误 
 string filePath = "直播+电商.psd";
 
 var tolerance = 0.001;
@@ -39,30 +40,30 @@ using (var image = Image.Load(filePath))
     double baseFontSize = ((TextLayer)psdImage.Layers[layerIndex]).Font.Size;
     double fontSize = matrix[0] * baseFontSize;
 
-    // 检查基本字体大小
+    // 检查基础字体大小
     if (Math.Abs(100.0 - baseFontSize) > tolerance)
     {
         throw new Exception("Font size was read incorrect");
     }
 
-    // 检查真实字体大小
+    // 检查实际字体大小
     if (Math.Abs(88.425 - fontSize) > tolerance)
     {
         throw new Exception("TransformMatrix was read incorrect");
     }
 
-    // 新 API（一个文本层可以包含任意数量的字体大小）
+    // 新 API（一个文本图层可能包含任意数量的字体大小）
     ITextPortion[] portions = ((TextLayer)psdImage.Layers[layerIndex]).TextData.Items;
     ITextStyle style = portions[0].Style;
     double fontSizeOfPortion = matrix[0] * style.FontSize;
 
-    // 检查基本部分字体大小
+    // 检查基础部分的字体大小
     if (Math.Abs(100.0 - style.FontSize) > tolerance)
     {
         throw new Exception("Font size was read incorrect");
     }
 
-    // 检查实部字体大小
+    // 检查实际部分的字体大小
     if (Math.Abs(88.425 - fontSizeOfPortion) > tolerance)
     {
         throw new Exception("TransformMatrix was read incorrect");
@@ -70,10 +71,10 @@ using (var image = Image.Load(filePath))
 }
 ```
 
-### 也可以看看
+### 另请参阅
 
 * class [TextLayer](../)
-* 命名空间 [Aspose.PSD.FileFormats.Psd.Layers](../../textlayer/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: ITextStyle.FontIndex
-second_title: Aspose.PSD for .NET API 参考
-description: ITextStyle 财产. 获取字体索引
+title: "ITextStyle.FontIndex"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "ITextStyle 属性。获取字体索引"
 type: docs
 weight: 110
 url: /zh/net/aspose.psd.fileformats.psd.layers.text/itextstyle/fontindex/
 ---
+{{< psd/tize >}}
 ## ITextStyle.FontIndex property
 
 获取字体索引。
@@ -14,13 +15,13 @@ url: /zh/net/aspose.psd.fileformats.psd.layers.text/itextstyle/fontindex/
 public int FontIndex { get; }
 ```
 
-### 适当的价值
+### Property Value
 
 字体。
 
-### 例子
+## 示例
 
-下面的代码演示了 Aspose.PSD 如何获取文本层内联格式的属性。
+以下代码演示了 Aspose.PSD 如何获取文本图层内联格式的属性。
 
 ```csharp
 [C#]
@@ -45,7 +46,7 @@ using (var psdImage = (PsdImage)Image.Load(sourceFile))
 
         var textLayer = (TextLayer)layer;
 
-        // 获取包含在文本层中的字体
+        // 获取文本图层中包含的字体
         var fonts = textLayer.GetFonts();
         var textPortions = textLayer.TextData.Items;
 
@@ -74,10 +75,10 @@ using (var psdImage = (PsdImage)Image.Load(sourceFile))
 }
 ```
 
-### 也可以看看
+### 另请参阅
 
 * interface [ITextStyle](../)
-* 命名空间 [Aspose.PSD.FileFormats.Psd.Layers.Text](../../itextstyle/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.Text](../../../aspose.psd.fileformats.psd.layers.text/)
+* assembly [Aspose.PSD](../../../)
 
 

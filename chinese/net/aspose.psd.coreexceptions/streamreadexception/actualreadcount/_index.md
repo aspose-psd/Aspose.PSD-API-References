@@ -1,11 +1,12 @@
 ---
-title: StreamReadException.ActualReadCount
-second_title: Aspose.PSD for .NET API 参考
-description: StreamReadException 财产. 获取实际读取的字节数
+title: "StreamReadException.ActualReadCount"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "StreamReadException 属性。获取实际读取的字节数"
 type: docs
 weight: 20
 url: /zh/net/aspose.psd.coreexceptions/streamreadexception/actualreadcount/
 ---
+{{< psd/tize >}}
 ## StreamReadException.ActualReadCount property
 
 获取实际读取的字节数。
@@ -14,14 +15,14 @@ url: /zh/net/aspose.psd.coreexceptions/streamreadexception/actualreadcount/
 public int ActualReadCount { get; }
 ```
 
-### 适当的价值
+### Property Value
 
 实际读取的字节数。
 
-### 也可以看看
+### 另请参阅
 
 * class [StreamReadException](../)
-* 命名空间 [Aspose.PSD.CoreExceptions](../../streamreadexception/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.CoreExceptions](../../../aspose.psd.coreexceptions/)
+* assembly [Aspose.PSD](../../../)
 
 

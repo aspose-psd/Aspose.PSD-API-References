@@ -1,24 +1,25 @@
 ---
-title: PlacedResource.UniqueId
-second_title: Aspose.PSD for .NET API 参考
-description: PlacedResource 财产. 获取或设置放置图层在PSD图像中的全局唯一标识符
+title: "PlacedResource.UniqueId"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "PlacedResource 属性。获取或设置 PSD 图像中已放置图层的全局唯一标识符"
 type: docs
-weight: 180
+weight: 170
 url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources/placedresource/uniqueid/
 ---
+{{< psd/tize >}}
 ## PlacedResource.UniqueId property
 
-获取或设置放置图层在PSD图像中的全局唯一标识符。
+获取或设置 PSD 图像中已放置图层的全局唯一标识符。
 
 ```csharp
 public virtual Guid UniqueId { get; set; }
 ```
 
-### 适当的价值
+### Property Value
 
-放置图层的唯一标识。
+已放置图层的唯一标识符。
 
-### 例子
+## 示例
 
 以下代码演示了对 PlLdResource 资源的支持。
 
@@ -202,15 +203,15 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
                 resource.Bottom = 248;
                 resource.Right = 145;
 
-                // 注意一些参数：图像可能无法被 Adobe® Photoshop® 读取
-                ////资源.UOrder = 6;
-                ////资源.VOrder = 9;
+                // 请注意某些参数：图像可能会变得无法被 Adobe® Photoshop® 读取。
+                ////resource.UOrder = 6;
+                ////resource.VOrder = 9;
 
-                // 不要改变这个，否则你将无法使用自由变换
-                // 或将下划线智能对象更改为矢量类型
+                // 不要更改此项，否则将无法使用自由变换。
+                // 或将底层智能对象更改为矢量类型。
                 ////resource.PlacedLayerType = PlacedLayerType.Vector;
 
-                // 应该有具有此唯一 ID 的有效 PlLdResource
+                // 应存在具有此唯一 Id 的有效 PlLdResource。
                 ////resource.UniqueId = new Guid("98765432-10fe-cba0-1234-56789abcdef0");
 
                 break;
@@ -223,12 +224,12 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
 }
 ```
 
-以下代码演示了对 SoLdResource 资源的支持。
+以下代码演示了 SoLdResource 资源的支持。
 
 ```csharp
 [C#]
 
-// 此示例显示如何获取或设置 PSD 文件的智能对象图层数据属性。
+// 此示例展示了如何获取或设置 PSD 文件的智能对象图层数据属性。
 
 void AssertAreEqual(object actual, object expected)
 {
@@ -462,8 +463,8 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
                     resource.HorizontalMeshPoints = temp;
                 }
 
-                // 此值也应在 PlLdResource（具有指定的 UniqueId）中更改
-                // 其中一些必须与 LinkDataSource 中带下划线的智能对象一致
+                // 这些值也应在 PlLdResource（使用指定的 UniqueId）中更改。
+                // 其中一些必须与 LinkDataSource 中的底层智能对象保持一致。
                 resource.PageNumber = 2;
                 resource.TotalPages = 3;
                 resource.AntiAliasPolicy = 0;
@@ -508,18 +509,18 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
                     42
                 };
 
-                // 这个唯一的 Id 应该在引用中改变（如果有的话）
+                // 如果有引用，需要更改此唯一 Id。
                 resource.PlacedId = new Guid("12345678-9abc-def0-9876-54321fecba98");
 
-                // 注意一些参数：图像可能无法被 Adobe® Photoshop® 读取
-                ////资源.UOrder = 6;
-                ////资源.VOrder = 9;
+                // 请注意某些参数：图像可能会变得无法被 Adobe® Photoshop® 读取。
+                ////resource.UOrder = 6;
+                ////resource.VOrder = 9;
 
-                // 不要改变这个，否则你将无法使用自由变换
-                // 或将下划线智能对象更改为矢量类型
+                // 不要更改此项，否则将无法使用自由变换。
+                // 或将底层智能对象更改为矢量类型。
                 ////resource.PlacedLayerType = PlacedLayerType.Vector;
 
-                // 应该有具有此唯一 ID 的有效 PlLdResource
+                // 应存在具有此唯一 Id 的有效 PlLdResource。
                 ////resource.UniqueId = new Guid("98765432-10fe-cba0-1234-56789abcdef0");
 
                 break;
@@ -532,10 +533,10 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
 }
 ```
 
-### 也可以看看
+### 另请参阅
 
 * class [PlacedResource](../)
-* 命名空间 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../placedresource/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

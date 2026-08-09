@@ -1,40 +1,41 @@
 ---
-title: SectionDividerLayer.IsVisibleInGroup
-second_title: Aspose.PSD for .NET API 参考
-description: SectionDividerLayer 财产. 获取一个值指示此实例是否在组中可见如果图层不在组中则表示根组
+title: "SectionDividerLayer.IsVisibleInGroup"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "SectionDividerLayer 属性。获取指示此实例在组中是否可见的值。如果图层不在组中，则表示根组"
 type: docs
 weight: 10
 url: /zh/net/aspose.psd.fileformats.psd.layers/sectiondividerlayer/isvisibleingroup/
 ---
+{{< psd/tize >}}
 ## SectionDividerLayer.IsVisibleInGroup property
 
-获取一个值，指示此实例是否在组中可见（如果图层不在组中，则表示根组）。
+获取一个值，指示此实例在组中是否可见（如果图层不在组中，则表示根组）。
 
 ```csharp
 public override bool IsVisibleInGroup { get; }
 ```
 
-### 适当的价值
+### Property Value
 
-`真的`如果此实例在组中可见；否则，`错误的` .
+`true` 表示此实例在组中可见；否则为 `false`。
 
-### 例子
+## 示例
 
-以下代码演示了 SectionDividerLayer 层以及如何获取与其相关的 LayerGroup。
+以下代码演示 SectionDividerLayer 图层以及如何获取与其关联的 LayerGroup。
 
 ```csharp
 [C#]
 
-// 以下代码演示了 SectionDividerLayer 图层以及如何获取与其相关的 LayerGroup。
+// 以下代码演示 SectionDividerLayer 图层以及如何获取与其关联的 LayerGroup。
 
-//图层层次结构
-// [0]: '</图层组>'第 1 组的 SectionDividerLayer
-// [1]: 'Layer 1' 常规层
-// [2]: '</图层组>'第 2 组的 SectionDividerLayer
-// [3]: '</图层组>'第 3 组的 SectionDividerLayer
-// [4]: 'Group 3' GroupLayer
-// [5]: 'Group 2' GroupLayer
-// [6]: 'Group 1' GroupLayer
+// 图层层次结构
+//    [0]: '</Layer group>' 用于组 1 的 SectionDividerLayer
+//    [1]: 'Layer 1' 常规图层
+//    [2]: '</Layer group>' 用于组 2 的 SectionDividerLayer
+//    [3]: '</Layer group>' 用于组 3 的 SectionDividerLayer
+//    [4]: 'Group 3' GroupLayer
+//    [5]: 'Group 2' GroupLayer
+//    [6]: 'Group 1' GroupLayer
 
 void AssertAreEqual(object expected, object actual, string message = null)
 {
@@ -49,7 +50,7 @@ using (var image = new PsdImage(100, 100))
     // 创建图层层次结构
     // 添加 LayerGroup 'Group 1'
     LayerGroup group1 = image.AddLayerGroup("Group 1", 0, true);
-    // 添加常规图层
+    // 添加普通图层
     Layer layer1 = new Layer();
     layer1.DisplayName = "Layer 1";
     group1.AddLayer(layer1);
@@ -63,20 +64,20 @@ using (var image = new PsdImage(100, 100))
     SectionDividerLayer divider2 = (SectionDividerLayer)image.Layers[2];
     SectionDividerLayer divider3 = (SectionDividerLayer)image.Layers[3];
 
-    // 使用SectionDividerLayer.GetRelatedLayerGroup()方法，获取相关的LayerGroup实例。
-    AssertAreEqual(group1.DisplayName, divider1.GetRelatedLayerGroup().DisplayName); // 同一个图层组
-    AssertAreEqual(group2.DisplayName, divider2.GetRelatedLayerGroup().DisplayName); // 同一个图层组
-    AssertAreEqual(group3.DisplayName, divider3.GetRelatedLayerGroup().DisplayName); // 同一个图层组
+    // 使用 SectionDividerLayer.GetRelatedLayerGroup() 方法，获取相关的 LayerGroup 实例。
+    AssertAreEqual(group1.DisplayName, divider1.GetRelatedLayerGroup().DisplayName); // the same LayerGroup
+    AssertAreEqual(group2.DisplayName, divider2.GetRelatedLayerGroup().DisplayName); // the same LayerGroup
+    AssertAreEqual(group3.DisplayName, divider3.GetRelatedLayerGroup().DisplayName); // the same LayerGroup
 
     LayerGroup folder1 = divider1.GetRelatedLayerGroup();
-    AssertAreEqual(5, folder1.Layers.Length); // 'Group 1' 包含 5 层
+    AssertAreEqual(5, folder1.Layers.Length); // 'Group 1' contains 5 layers
 }
 ```
 
-### 也可以看看
+### 另请参阅
 
 * class [SectionDividerLayer](../)
-* 命名空间 [Aspose.PSD.FileFormats.Psd.Layers](../../sectiondividerlayer/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

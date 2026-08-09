@@ -1,11 +1,12 @@
 ---
-title: PhotoshopPackage.SetTransmissionReference
-second_title: Aspose.PSD for .NET API 参考
-description: PhotoshopPackage 方法. 设置传输参考
+title: "PhotoshopPackage.SetTransmissionReference"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "PhotoshopPackage 方法。设置传输引用"
 type: docs
 weight: 190
 url: /zh/net/aspose.psd.xmp.schemas.photoshop/photoshoppackage/settransmissionreference/
 ---
+{{< psd/tize >}}
 ## PhotoshopPackage.SetTransmissionReference method
 
 设置传输参考。
@@ -14,14 +15,14 @@ url: /zh/net/aspose.psd.xmp.schemas.photoshop/photoshoppackage/settransmissionre
 public void SetTransmissionReference(string transmissionReference)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| transmissionReference | String | 传输参考。 |
+| transmissionReference | String | 传输引用。 |
 
-### 也可以看看
+### 另请参阅
 
 * class [PhotoshopPackage](../)
-* 命名空间 [Aspose.PSD.Xmp.Schemas.Photoshop](../../photoshoppackage/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.Photoshop](../../../aspose.psd.xmp.schemas.photoshop/)
+* assembly [Aspose.PSD](../../../)
 
 

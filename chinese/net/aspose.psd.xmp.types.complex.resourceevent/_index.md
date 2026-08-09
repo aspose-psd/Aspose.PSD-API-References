@@ -1,16 +1,17 @@
 ---
-title: Aspose.PSD.Xmp.Types.Complex.ResourceEvent
-second_title: Aspose.PSD for .NET API 参考
-description: 命名空间包含类该类是处理此文档时发生的高级事件
+title: "Aspose.PSD.Xmp.Types.Complex.ResourceEvent"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "该命名空间包含在处理此文档时发生的高级事件类"
 type: docs
-weight: 660
+weight: 700
 url: /zh/net/aspose.psd.xmp.types.complex.resourceevent/
 ---
-命名空间包含类，该类是处理此文档时发生的高级事件。
+{{< psd/tize >}}
+该命名空间包含在此文档处理过程中发生的高级事件类。
 
-## 课程
+## 类
 
-| 班级 | 描述 |
+| 类 | 描述 |
 | --- | --- |
 | [ResourceEvent](./resourceevent/) | 包含绘制对象的尺寸。 |
 

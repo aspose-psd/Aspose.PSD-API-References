@@ -1,11 +1,12 @@
 ---
-title: TextLayer.Font
-second_title: Aspose.PSD for .NET API 参考
-description: TextLayer 财产. 获取字体
+title: "TextLayer.Font"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "TextLayer 属性。获取字体"
 type: docs
 weight: 10
 url: /zh/net/aspose.psd.fileformats.psd.layers/textlayer/font/
 ---
+{{< psd/tize >}}
 ## TextLayer.Font property
 
 获取字体。
@@ -14,15 +15,15 @@ url: /zh/net/aspose.psd.fileformats.psd.layers/textlayer/font/
 public Font Font { get; }
 ```
 
-### 适当的价值
+### Property Value
 
 字体。
 
-### 也可以看看
+### 另请参阅
 
 * class [Font](../../../aspose.psd/font/)
 * class [TextLayer](../)
-* 命名空间 [Aspose.PSD.FileFormats.Psd.Layers](../../textlayer/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

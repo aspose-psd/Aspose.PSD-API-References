@@ -1,27 +1,28 @@
 ---
-title: LinearGradientBrushBase.IsAngleScalable
-second_title: Aspose.PSD for .NET API 参考
-description: LinearGradientBrushBase 财产. 获取或设置一个值指示是否Angle在转换过程中被更改LinearGradientBrushBase .
+title: "LinearGradientBrushBase.IsAngleScalable"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "LinearGradientBrushBase 属性。获取或设置指示在使用此 LinearGradientBrushBase 进行转换时角度是否会更改的值。"
 type: docs
 weight: 30
 url: /zh/net/aspose.psd.brushes/lineargradientbrushbase/isanglescalable/
 ---
+{{< psd/tize >}}
 ## LinearGradientBrushBase.IsAngleScalable property
 
-获取或设置一个值指示是否[`Angle`](../angle/)在转换过程中被更改[`LinearGradientBrushBase`](../) .
+获取或设置指示在使用此 [`LinearGradientBrushBase`](../) 进行转换时 [`Angle`](../angle/) 是否会更改的值。
 
 ```csharp
 public bool IsAngleScalable { get; set; }
 ```
 
-### 适当的价值
+### Property Value
 
-`真的`如果[`Angle`](../angle/)在转换过程中被改变[`LinearGradientBrushBase`](../);否则，`错误的` .
+`true` 表示在使用此 [`LinearGradientBrushBase`](../) 进行转换时 [`Angle`](../angle/) 会被更改；否则为 `false`。
 
-### 也可以看看
+### 另请参阅
 
 * class [LinearGradientBrushBase](../)
-* 命名空间 [Aspose.PSD.Brushes](../../lineargradientbrushbase/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: ArcShape.IsClosed
-second_title: Aspose.PSD for .NET API 参考
-description: ArcShape 财产. 获取或设置一个值指示有序形状是否闭合处理闭合有序形状时起点和终点没有意义
+title: "ArcShape.IsClosed"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "ArcShape 属性。获取或设置指示有序形状是否闭合的值。处理闭合有序形状时，起始点和结束点没有意义"
 type: docs
 weight: 30
 url: /zh/net/aspose.psd.shapes/arcshape/isclosed/
 ---
+{{< psd/tize >}}
 ## ArcShape.IsClosed property
 
-获取或设置一个值，指示有序形状是否闭合。处理闭合有序形状时，起点和终点没有意义。
+获取或设置一个值，指示有序形状是否闭合。处理闭合的有序形状时，起始点和结束点没有意义。
 
 ```csharp
 public bool IsClosed { get; set; }
 ```
 
-### 适当的价值
+### Property Value
 
-`真的`如果这个有序的形状是封闭的；否则，`错误的` .
+`True` 如果此有序形状闭合；否则，`false`。
 
-### 也可以看看
+### 另请参阅
 
 * class [ArcShape](../)
-* 命名空间 [Aspose.PSD.Shapes](../../arcshape/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 

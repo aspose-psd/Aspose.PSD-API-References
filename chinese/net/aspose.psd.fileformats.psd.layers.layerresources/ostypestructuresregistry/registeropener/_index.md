@@ -1,28 +1,29 @@
 ---
-title: OSTypeStructuresRegistry.RegisterOpener
-second_title: Aspose.PSD for .NET API 参考
-description: OSTypeStructuresRegistry 方法. 注册 opener.
+title: "OSTypeStructuresRegistry.RegisterOpener"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "OSTypeStructuresRegistry 方法。注册打开器。"
 type: docs
 weight: 50
 url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources/ostypestructuresregistry/registeropener/
 ---
+{{< psd/tize >}}
 ## OSTypeStructuresRegistry.RegisterOpener method
 
-注册 opener.
+注册打开器。
 
 ```csharp
 public static void RegisterOpener(IOSTypeStructureLoader openerDescriptor)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| openerDescriptor | IOSTypeStructureLoader | 要注册的开启者描述符。 |
+| openerDescriptor | IOSTypeStructureLoader | 要注册的打开器描述符。 |
 
-### 也可以看看
+### 另请参阅
 
 * interface [IOSTypeStructureLoader](../../iostypestructureloader/)
 * class [OSTypeStructuresRegistry](../)
-* 命名空间 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../ostypestructuresregistry/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

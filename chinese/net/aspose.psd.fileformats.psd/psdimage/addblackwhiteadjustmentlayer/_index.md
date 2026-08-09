@@ -1,11 +1,12 @@
 ---
-title: PsdImage.AddBlackWhiteAdjustmentLayer
-second_title: Aspose.PSD for .NET API 参考
-description: PsdImage 方法. 添加黑白调整图层
+title: "PsdImage.AddBlackWhiteAdjustmentLayer"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "PsdImage 方法。添加黑白调整图层"
 type: docs
-weight: 290
+weight: 300
 url: /zh/net/aspose.psd.fileformats.psd/psdimage/addblackwhiteadjustmentlayer/
 ---
+{{< psd/tize >}}
 ## PsdImage.AddBlackWhiteAdjustmentLayer method
 
 添加黑白调整图层。
@@ -16,11 +17,11 @@ public BlackWhiteAdjustmentLayer AddBlackWhiteAdjustmentLayer()
 
 ### 返回值
 
-创建的黑白调整层。
+已创建的黑白调整图层。
 
-### 例子
+## 示例
 
-以下示例演示了如何在运行时在 Aspose.PSD 中添加黑白调整层
+以下示例演示如何在运行时于 Aspose.PSD 中添加黑白调整图层。
 
 ```csharp
 [C#]
@@ -42,11 +43,11 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFileName))
 }
 ```
 
-### 也可以看看
+### 另请参阅
 
 * class [BlackWhiteAdjustmentLayer](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/blackwhiteadjustmentlayer/)
 * class [PsdImage](../)
-* 命名空间 [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: PhotoshopPackage.SetCaptionWriter
-second_title: Aspose.PSD for .NET API 参考
-description: PhotoshopPackage 方法. 设置字幕编写器
+title: "PhotoshopPackage.SetCaptionWriter"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "PhotoshopPackage 方法。设置字幕编写器"
 type: docs
 weight: 40
 url: /zh/net/aspose.psd.xmp.schemas.photoshop/photoshoppackage/setcaptionwriter/
 ---
+{{< psd/tize >}}
 ## PhotoshopPackage.SetCaptionWriter method
 
-设置字幕编写器。
+设置标题编写者。
 
 ```csharp
 public void SetCaptionWriter(string captionWriter)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| captionWriter | String | 字幕作者。 |
+| captionWriter | String | 字幕编写器。 |
 
-### 也可以看看
+### 另请参阅
 
 * class [PhotoshopPackage](../)
-* 命名空间 [Aspose.PSD.Xmp.Schemas.Photoshop](../../photoshoppackage/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.Photoshop](../../../aspose.psd.xmp.schemas.photoshop/)
+* assembly [Aspose.PSD](../../../)
 
 

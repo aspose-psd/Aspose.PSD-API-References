@@ -1,14 +1,15 @@
 ---
-title: NonGenericDictionary.Values
-second_title: Aspose.PSD for .NET API 参考
-description: NonGenericDictionary 财产. 获取一个 ICollection包含 中的值的对象IDictionary对象.
+title: "NonGenericDictionary.Values"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "NonGenericDictionary 属性。获取一个 ICollection 对象，其中包含 IDictionary 对象中的值"
 type: docs
 weight: 90
 url: /zh/net/aspose.psd/nongenericdictionary/values/
 ---
+{{< psd/tize >}}
 ## NonGenericDictionary.Values property
 
-获取一个 ICollection包含 中的值的对象IDictionary对象.
+获取包含 IDictionary 对象中值的 ICollection 对象。
 
 ```csharp
 public ICollection Values { get; }
@@ -16,12 +17,12 @@ public ICollection Values { get; }
 
 ### 返回值
 
-一个ICollection包含值的对象IDictionary目的。
+一个包含 IDictionary 对象中值的 ICollection 对象。
 
-### 也可以看看
+### 另请参阅
 
 * class [NonGenericDictionary](../)
-* 命名空间 [Aspose.PSD](../../nongenericdictionary/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

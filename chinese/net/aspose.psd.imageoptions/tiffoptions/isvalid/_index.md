@@ -1,27 +1,28 @@
 ---
-title: TiffOptions.IsValid
-second_title: Aspose.PSD for .NET API 参考
-description: TiffOptions 财产. 获取一个值表示是否TiffOptions已正确配置使用 Validate 方法查找失败原因.
+title: "TiffOptions.IsValid"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "TiffOptions 属性。获取一个值，指示 TiffOptions 是否已正确配置。使用 Validate 方法查找失败原因"
 type: docs
-weight: 250
+weight: 260
 url: /zh/net/aspose.psd.imageoptions/tiffoptions/isvalid/
 ---
+{{< psd/tize >}}
 ## TiffOptions.IsValid property
 
-获取一个值，表示是否[`TiffOptions`](../)已正确配置。使用 Validate 方法查找失败原因.
+获取一个值，指示 [`TiffOptions`](../) 是否已正确配置。使用 Validate 方法查找失败原因。
 
 ```csharp
 public bool IsValid { get; }
 ```
 
-### 适当的价值
+### Property Value
 
-`真的`如果正确配置了 TiffOptions；否则，`错误的` .
+`true` 如果 TiffOptions 已正确配置；否则为 `false`。
 
-### 也可以看看
+### 另请参阅
 
 * class [TiffOptions](../)
-* 命名空间 [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

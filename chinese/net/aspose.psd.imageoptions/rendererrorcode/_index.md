@@ -1,11 +1,12 @@
 ---
-title: Enum RenderErrorCode
-second_title: Aspose.PSD for .NET API 参考
-description: Aspose.PSD.ImageOptions.RenderErrorCode 枚举. 表示 CAD 文件中可能缺失的部分
+title: "枚举 RenderErrorCode"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "Aspose.PSD.ImageOptions.RenderErrorCode 枚举。表示 CAD 文件中可能缺失的部分"
 type: docs
-weight: 4920
+weight: 5410
 url: /zh/net/aspose.psd.imageoptions/rendererrorcode/
 ---
+{{< psd/tize >}}
 ## RenderErrorCode enumeration
 
 表示 CAD 文件中可能缺失的部分
@@ -14,19 +15,19 @@ url: /zh/net/aspose.psd.imageoptions/rendererrorcode/
 public enum RenderErrorCode
 ```
 
-### 价值观
+### 值
 
-| 姓名 | 价值 | 描述 |
+| 名称 | 值 | 描述 |
 | --- | --- | --- |
-| MissingHeader | `0` | 标头丢失 |
+| MissingHeader | `0` | 缺少 Header |
 | MissingLayouts | `1` | 缺少布局信息 |
-| MissingBlocks | `2` | 块信息丢失 |
-| MissingDimensionStyles | `3` | 尺寸样式信息丢失 |
+| MissingBlocks | `2` | 缺少块信息 |
+| MissingDimensionStyles | `3` | 缺少尺寸样式信息 |
 | MissingStyles | `4` | 缺少样式信息 |
 
-### 也可以看看
+### 另请参阅
 
-* 命名空间 [Aspose.PSD.ImageOptions](../../aspose.psd.imageoptions/)
-* 部件 [Aspose.PSD](../../)
+* namespace [Aspose.PSD.ImageOptions](../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../)
 
 

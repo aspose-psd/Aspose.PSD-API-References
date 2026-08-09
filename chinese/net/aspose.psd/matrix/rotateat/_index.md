@@ -1,53 +1,54 @@
 ---
-title: Matrix.RotateAt
-second_title: Aspose.PSD for .NET API 参考
-description: Matrix 方法. 以指定顺序将指定点的顺时针旋转应用到此矩阵
+title: "Matrix.RotateAt"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "Matrix 方法。按照指定顺序围绕指定点对该矩阵执行顺时针旋转。"
 type: docs
 weight: 150
 url: /zh/net/aspose.psd/matrix/rotateat/
 ---
+{{< psd/tize >}}
 ## RotateAt(float, PointF, MatrixOrder) {#rotateat_1}
 
-以指定顺序将指定点的顺时针旋转应用到此矩阵。
+对该 Matrix 按指定顺序，围绕指定点应用顺时针旋转。
 
 ```csharp
 public void RotateAt(float angle, PointF point, MatrixOrder order)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| angle | Single | 角度。 |
-| point | PointF | 重点。 |
-| order | MatrixOrder | 命令。 |
+| 角度 | 单精度 | 角度。 |
+| 点 | PointF | 该点。 |
+| order | MatrixOrder | 顺序。 |
 
-### 也可以看看
+### 另请参阅
 
 * struct [PointF](../../pointf/)
 * enum [MatrixOrder](../../matrixorder/)
 * class [Matrix](../)
-* 命名空间 [Aspose.PSD](../../matrix/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## RotateAt(float, PointF) {#rotateat}
 
-以默认（前置）顺序将指定点的顺时针旋转应用于此矩阵。
+对该 Matrix 按默认（Prepend）顺序，围绕指定点应用顺时针旋转。
 
 ```csharp
 public void RotateAt(float angle, PointF point)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| angle | Single | 角度。 |
-| point | PointF | 重点。 |
+| 角度 | 单精度 | 角度。 |
+| 点 | PointF | 该点。 |
 
-### 也可以看看
+### 另请参阅
 
 * struct [PointF](../../pointf/)
 * class [Matrix](../)
-* 命名空间 [Aspose.PSD](../../matrix/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

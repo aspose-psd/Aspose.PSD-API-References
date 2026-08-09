@@ -1,27 +1,28 @@
 ---
-title: VectorShapeBoundingBox.Right
-second_title: Aspose.PSD for .NET API 参考
-description: VectorShapeBoundingBox 财产. 获取或设置权限
+title: "VectorShapeBoundingBox.Right"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "VectorShapeBoundingBox 属性。获取或设置右侧"
 type: docs
-weight: 60
+weight: 70
 url: /zh/net/aspose.psd.fileformats.core.vectorpaths/vectorshapeboundingbox/right/
 ---
+{{< psd/tize >}}
 ## VectorShapeBoundingBox.Right property
 
-获取或设置权限。
+获取或设置右侧。
 
 ```csharp
 public double Right { get; set; }
 ```
 
-### 适当的价值
+### Property Value
 
-正确的.
+右侧。
 
-### 也可以看看
+### 另请参阅
 
 * class [VectorShapeBoundingBox](../)
-* 命名空间 [Aspose.PSD.FileFormats.Core.VectorPaths](../../vectorshapeboundingbox/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../../)
 
 

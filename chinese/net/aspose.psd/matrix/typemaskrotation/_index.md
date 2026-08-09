@@ -1,23 +1,24 @@
 ---
-title: Matrix.TypeMaskRotation
-second_title: Aspose.PSD for .NET API 参考
-description: Matrix 场地. 此常量是任何旋转标志位的位掩码
+title: "Matrix.TypeMaskRotation"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "Matrix 字段。此常量是用于任意旋转标志位的位掩码"
 type: docs
 weight: 250
 url: /zh/net/aspose.psd/matrix/typemaskrotation/
 ---
+{{< psd/tize >}}
 ## Matrix.TypeMaskRotation field
 
-此常量是任何旋转标志位的位掩码。
+此常量是用于任意旋转标志位的位掩码。
 
 ```csharp
 public const int TypeMaskRotation;
 ```
 
-### 也可以看看
+### 另请参阅
 
 * class [Matrix](../)
-* 命名空间 [Aspose.PSD](../../matrix/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

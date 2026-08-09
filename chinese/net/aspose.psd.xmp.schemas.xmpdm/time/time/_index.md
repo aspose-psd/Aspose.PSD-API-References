@@ -1,29 +1,30 @@
 ---
-title: Time.Time
-second_title: Aspose.PSD for .NET API 参考
-description: Time 构造函数. 初始化一个新的实例Time类.
+title: "Time.Time"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "Time 构造函数. 初始化 Time 类的新实例"
 type: docs
 weight: 10
 url: /zh/net/aspose.psd.xmp.schemas.xmpdm/time/time/
 ---
+{{< psd/tize >}}
 ## Time constructor
 
-初始化一个新的实例[`Time`](../)类.
+初始化 [`Time`](../) 类的新实例.
 
 ```csharp
 public Time(Rational scale, int value)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| scale | Rational | 规模。 |
-| value | Int32 | 价值。 |
+| scale | Rational | 比例。 |
+| 值 | Int32 | 该值。 |
 
-### 也可以看看
+### 另请参阅
 
 * class [Rational](../../../aspose.psd.xmp.types.derived/rational/)
 * class [Time](../)
-* 命名空间 [Aspose.PSD.Xmp.Schemas.XmpDm](../../time/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpDm](../../../aspose.psd.xmp.schemas.xmpdm/)
+* assembly [Aspose.PSD](../../../)
 
 

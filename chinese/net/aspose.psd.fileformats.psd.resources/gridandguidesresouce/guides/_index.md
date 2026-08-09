@@ -1,11 +1,12 @@
 ---
-title: GridAndGuidesResouce.Guides
-second_title: Aspose.PSD for .NET API 参考
-description: GridAndGuidesResouce 财产. 获取或设置指南
+title: "GridAndGuidesResouce.Guides"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "GridAndGuidesResouce 属性。获取或设置参考线"
 type: docs
 weight: 60
 url: /zh/net/aspose.psd.fileformats.psd.resources/gridandguidesresouce/guides/
 ---
+{{< psd/tize >}}
 ## GridAndGuidesResouce.Guides property
 
 获取或设置指南。
@@ -14,15 +15,15 @@ url: /zh/net/aspose.psd.fileformats.psd.resources/gridandguidesresouce/guides/
 public GuideResource[] Guides { get; set; }
 ```
 
-### 适当的价值
+### Property Value
 
-导游。
+参考线。
 
-### 也可以看看
+### 另请参阅
 
 * class [GuideResource](../../guideresource/)
 * class [GridAndGuidesResouce](../)
-* 命名空间 [Aspose.PSD.FileFormats.Psd.Resources](../../gridandguidesresouce/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

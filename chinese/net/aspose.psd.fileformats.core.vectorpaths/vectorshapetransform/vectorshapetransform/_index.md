@@ -1,41 +1,42 @@
 ---
-title: VectorShapeTransform.VectorShapeTransform
-second_title: Aspose.PSD for .NET API 参考
-description: VectorShapeTransform 构造函数. 初始化一个新的实例VectorShapeTransform类.
+title: "VectorShapeTransform.VectorShapeTransform"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "VectorShapeTransform 构造函数。初始化 VectorShapeTransform 类的新实例"
 type: docs
 weight: 10
 url: /zh/net/aspose.psd.fileformats.core.vectorpaths/vectorshapetransform/vectorshapetransform/
 ---
+{{< psd/tize >}}
 ## VectorShapeTransform constructor
 
-初始化一个新的实例[`VectorShapeTransform`](../)类.
+初始化 [`VectorShapeTransform`](../) 类的新实例。
 
 ```csharp
 public VectorShapeTransform()
 ```
 
-### 例子
+## 示例
 
-此示例说明如何在 PSD 文件中的 FillLayer 的 Vogk 资源中获取和设置 ShapeOriginSettings 的新 Transform 和 OriginBoxCorners 属性。
+此示例展示了如何在 PSD 文件的 FillLayer 的 Vogk 资源中获取和设置 ShapeOriginSettings 的 Transform 和 OriginBoxCorners 新属性。
 
 ```csharp
 [C#]
 
-// 此示例显示如何获取和设置新的 Transform 和 OriginBoxCorners 属性
-// PSD 文件中 FillLayer 的 Vogk 资源中的 ShapeOriginSettings
+// 此示例展示了如何获取和设置新的 Transform 和 OriginBoxCorners 属性
+// 在 PSD 文件的 FillLayer 的 Vogt 资源中 ShapeOriginSettings 的
 string sourceFileName = "vectorShape_25_50.psd";
 string outputPath = "result.psd";
 
 VectorShapeOriginSettings originalSetting;
 const int layerIndex = 0;
 
-//加载原始图像
+// 加载原始图像
 using (PsdImage image = (PsdImage)Image.Load(sourceFileName))
 {
     AssertIsTrue(layerIndex < image.Layers.Length);
     var layer = image.Layers[layerIndex];
-    AssertIsTrue(layer is FillLayer);
-    var resource = GetVogkResource((FillLayer)layer);
+    AssertIsTrue(layer is ShapeLayer);
+    var resource = GetVogkResource(layer);
     AssertAreEqual(1, resource.ShapeOriginSettings.Length);
 
     // 读取后断言
@@ -79,19 +80,19 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFileName))
     originalSetting.Transform.Yy = 0.7d;
     originalSetting.OriginBoxCorners = new double[8] { 9, 8, 7, 6, 5, 4, 3, 2 };
 
-    // 保存这个改变属性的 PSD 图像。
+    // 保存此 PSD 图像，属性已更改。
     image.Save(outputPath, new PsdOptions(image));
 }
 
-// 加载已保存的具有更改属性的 PSD 图像。
+// 加载已保存的 PSD 图像，属性已更改。
 using (PsdImage image = (PsdImage)Image.Load(outputPath))
 {
     var layer = image.Layers[layerIndex];
-    AssertIsTrue(layer is FillLayer);
-    var resource = GetVogkResource((FillLayer)layer);
+    AssertIsTrue(layer is ShapeLayer);
+    var resource = GetVogkResource(layer);
     AssertAreEqual(1, resource.ShapeOriginSettings.Length);
 
-    // 断言属性已正确保存和加载 
+    // 断言属性已正确保存和加载
     var setting = resource.ShapeOriginSettings[0];
     AssertAreEqual(true, setting.IsOriginIndexPresent);
     AssertAreEqual(false, setting.IsShapeInvalidatedPresent);
@@ -118,7 +119,7 @@ using (PsdImage image = (PsdImage)Image.Load(outputPath))
     AssertAreEqual(originalSetting.OriginBoxCorners[7], setting.OriginBoxCorners[7]);
 }
 
-VogkResource GetVogkResource(FillLayer layer)
+VogkResource GetVogkResource(Layer layer)
 {
     if (layer == null)
     {
@@ -161,10 +162,10 @@ void AssertAreEqual(object actual, object expected)
 }
 ```
 
-### 也可以看看
+### 另请参阅
 
 * class [VectorShapeTransform](../)
-* 命名空间 [Aspose.PSD.FileFormats.Core.VectorPaths](../../vectorshapetransform/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../../)
 
 

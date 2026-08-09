@@ -1,11 +1,12 @@
 ---
-title: ClipboardRecord.Type
-second_title: Aspose.PSD for .NET API 参考
-description: ClipboardRecord 财产. 获取类型
+title: "ClipboardRecord.Type"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "ClipboardRecord 属性。获取类型"
 type: docs
 weight: 40
 url: /zh/net/aspose.psd.fileformats.core.vectorpaths/clipboardrecord/type/
 ---
+{{< psd/tize >}}
 ## ClipboardRecord.Type property
 
 获取类型。
@@ -14,15 +15,15 @@ url: /zh/net/aspose.psd.fileformats.core.vectorpaths/clipboardrecord/type/
 public override VectorPathType Type { get; }
 ```
 
-### 适当的价值
+### Property Value
 
 类型。
 
-### 也可以看看
+### 另请参阅
 
 * enum [VectorPathType](../../vectorpathtype/)
 * class [ClipboardRecord](../)
-* 命名空间 [Aspose.PSD.FileFormats.Core.VectorPaths](../../clipboardrecord/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../../)
 
 

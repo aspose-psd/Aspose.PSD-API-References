@@ -1,11 +1,12 @@
 ---
-title: ExifData.ApertureValue
-second_title: Aspose.PSD for .NET API 参考
-description: ExifData 财产. 获取或设置光圈值
+title: "ExifData.ApertureValue"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "ExifData 属性。获取或设置光圈值。"
 type: docs
 weight: 20
 url: /zh/net/aspose.psd.exif/exifdata/aperturevalue/
 ---
+{{< psd/tize >}}
 ## ExifData.ApertureValue property
 
 获取或设置光圈值。
@@ -14,15 +15,15 @@ url: /zh/net/aspose.psd.exif/exifdata/aperturevalue/
 public TiffRational ApertureValue { get; set; }
 ```
 
-### 适当的价值
+### Property Value
 
-光圈值.
+该光圈值。
 
-### 也可以看看
+### 另请参阅
 
 * class [TiffRational](../../../aspose.psd.fileformats.tiff/tiffrational/)
 * class [ExifData](../)
-* 命名空间 [Aspose.PSD.Exif](../../exifdata/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

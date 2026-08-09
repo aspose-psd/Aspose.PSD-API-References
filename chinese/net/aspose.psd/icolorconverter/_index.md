@@ -1,11 +1,12 @@
 ---
-title: Interface IColorConverter
-second_title: Aspose.PSD for .NET API 参考
-description: Aspose.PSD.IColorConverter 界面. 颜色转换器
+title: "接口 IColorConverter"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "Aspose.PSD.IColorConverter 接口。颜色转换器"
 type: docs
-weight: 4380
+weight: 4850
 url: /zh/net/aspose.psd/icolorconverter/
 ---
+{{< psd/tize >}}
 ## IColorConverter interface
 
 颜色转换器。
@@ -16,13 +17,13 @@ public interface IColorConverter
 
 ## 方法
 
-| 姓名 | 描述 |
+| 名称 | 描述 |
 | --- | --- |
-| [Convert](../../aspose.psd/icolorconverter/convert/)(PixelDataFormat, byte[], int, int, int, int, PixelDataFormat, byte[], int) | 将传递的数据转换为输出格式。 |
+| [Convert](../../aspose.psd/icolorconverter/convert/)(PixelDataFormat, byte[], int, int, int, int, PixelDataFormat, byte[], int) | 将传入的数据转换为输出格式。 |
 
-### 也可以看看
+### 另请参阅
 
-* 命名空间 [Aspose.PSD](../../aspose.psd/)
-* 部件 [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

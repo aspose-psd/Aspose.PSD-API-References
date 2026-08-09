@@ -1,11 +1,12 @@
 ---
-title: XmpPackage.XmlNamespace
-second_title: Aspose.PSD for .NET API 参考
-description: XmpPackage 财产. 获取 XML 命名空间
+title: "XmpPackage.XmlNamespace"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "XmpPackage 属性。获取 XML 命名空间"
 type: docs
 weight: 50
 url: /zh/net/aspose.psd.xmp/xmppackage/xmlnamespace/
 ---
+{{< psd/tize >}}
 ## XmpPackage.XmlNamespace property
 
 获取 XML 命名空间。
@@ -14,14 +15,14 @@ url: /zh/net/aspose.psd.xmp/xmppackage/xmlnamespace/
 public string XmlNamespace { get; }
 ```
 
-### 适当的价值
+### Property Value
 
 XML 命名空间。
 
-### 也可以看看
+### 另请参阅
 
 * class [XmpPackage](../)
-* 命名空间 [Aspose.PSD.Xmp](../../xmppackage/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

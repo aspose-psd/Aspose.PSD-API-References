@@ -1,28 +1,29 @@
 ---
-title: CurvesDiscreteManager.SetToDefaultValueInPosition
-second_title: Aspose.PSD for .NET API 参考
-description: CurvesDiscreteManager 方法. 设置为位置的默认值
+title: "CurvesDiscreteManager.SetToDefaultValueInPosition"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "CurvesDiscreteManager 方法。在位置上设置为默认值"
 type: docs
 weight: 20
 url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources/curvesdiscretemanager/settodefaultvalueinposition/
 ---
+{{< psd/tize >}}
 ## CurvesDiscreteManager.SetToDefaultValueInPosition method
 
-设置为位置的默认值。
+将指定位置设置为默认值。
 
 ```csharp
 public void SetToDefaultValueInPosition(int channelIndex, byte position)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| channelIndex | Int32 | 通道索引。 |
-| position | Byte | 的位置。 |
+| channelIndex | Int32 | 通道的索引。 |
+| 位置 | 字节 | 位置。 |
 
-### 也可以看看
+### 另请参阅
 
 * class [CurvesDiscreteManager](../)
-* 命名空间 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../curvesdiscretemanager/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,28 +1,29 @@
 ---
-title: TextureBrush.ImageRectangle
-second_title: Aspose.PSD for .NET API 参考
-description: TextureBrush 财产. 获取Rectangle与此有关TextureBrush .
+title: "TextureBrush.ImageRectangle"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "TextureBrush 属性。获取与此 TextureBrush 关联的 Rectangle。"
 type: docs
 weight: 40
 url: /zh/net/aspose.psd.brushes/texturebrush/imagerectangle/
 ---
+{{< psd/tize >}}
 ## TextureBrush.ImageRectangle property
 
-获取[`Rectangle`](../../../aspose.psd/rectangle/)与此有关[`TextureBrush`](../) .
+获取与此 [`TextureBrush`](../) 关联的 [`Rectangle`](../../../aspose.psd/rectangle/)。
 
 ```csharp
 public RectangleF ImageRectangle { get; }
 ```
 
-### 适当的价值
+### Property Value
 
-这[`Rectangle`](../../../aspose.psd/rectangle/).
+此 [`Rectangle`](../../../aspose.psd/rectangle/)。
 
-### 也可以看看
+### 另请参阅
 
 * struct [RectangleF](../../../aspose.psd/rectanglef/)
 * class [TextureBrush](../)
-* 命名空间 [Aspose.PSD.Brushes](../../texturebrush/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
+* assembly [Aspose.PSD](../../../)
 
 

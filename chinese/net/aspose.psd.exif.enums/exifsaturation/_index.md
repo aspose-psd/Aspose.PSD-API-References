@@ -1,30 +1,31 @@
 ---
-title: Enum ExifSaturation
-second_title: Aspose.PSD for .NET API 参考
-description: Aspose.PSD.Exif.Enums.ExifSaturation 枚举. exif 饱和枚举.
+title: "枚举 ExifSaturation"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "Aspose.PSD.Exif.Enums.ExifSaturation 枚举。exif 饱和度枚举"
 type: docs
-weight: 920
+weight: 930
 url: /zh/net/aspose.psd.exif.enums/exifsaturation/
 ---
+{{< psd/tize >}}
 ## ExifSaturation enumeration
 
-exif 饱和枚举.
+exif 饱和度枚举。
 
 ```csharp
 public enum ExifSaturation
 ```
 
-### 价值观
+### 值
 
-| 姓名 | 价值 | 描述 |
+| 名称 | 值 | 描述 |
 | --- | --- | --- |
 | Normal | `0` | 正常饱和度。 |
 | Low | `1` | 低饱和度。 |
 | High | `2` | 高饱和度。 |
 
-### 也可以看看
+### 另请参阅
 
-* 命名空间 [Aspose.PSD.Exif.Enums](../../aspose.psd.exif.enums/)
-* 部件 [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Exif.Enums](../../aspose.psd.exif.enums/)
+* assembly [Aspose.PSD](../../)
 
 

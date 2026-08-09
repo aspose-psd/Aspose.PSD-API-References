@@ -1,32 +1,33 @@
 ---
-title: Rectangle.op_Equality
-second_title: Aspose.PSD for .NET API 参考
-description: Rectangle 方法. 测试是否两个Rectangle结构具有相同的位置和大小
+title: "Rectangle.op_Equality"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "Rectangle 方法。测试两个 Rectangle 结构的位置和大小是否相等"
 type: docs
 weight: 290
 url: /zh/net/aspose.psd/rectangle/op_equality/
 ---
+{{< psd/tize >}}
 ## Rectangle Equality operator
 
-测试是否两个[`Rectangle`](../)结构具有相同的位置和大小。
+测试两个[`Rectangle`](../)结构的位置和大小是否相等。
 
 ```csharp
 public static bool operator ==(Rectangle left, Rectangle right)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| left | Rectangle | 这[`Rectangle`](../)等于运算符左侧的结构。 |
-| right | Rectangle | 这[`Rectangle`](../)等于运算符右侧的结构。 |
+| left | Rectangle | 等号运算符左侧的[`Rectangle`](../)结构。 |
+| right | Rectangle | 等号运算符右侧的[`Rectangle`](../)结构。 |
 
 ### 返回值
 
-如果两个[`Rectangle`](../)结构具有相等的[`X`](../x/) ,[`Y`](../y/) ,[`Width`](../width/)， 和[`Height`](../height/)特性。
+如果两个[`Rectangle`](../)结构的 [`X`](../x/)、[`Y`](../y/)、[`Width`](../width/) 和 [`Height`](../height/) 属性相等，则此运算符返回 true。
 
-### 也可以看看
+### 另请参阅
 
 * struct [Rectangle](../)
-* 命名空间 [Aspose.PSD](../../rectangle/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

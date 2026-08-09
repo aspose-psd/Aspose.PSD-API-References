@@ -1,11 +1,12 @@
 ---
-title: Rational.FloatValue
-second_title: Aspose.PSD for .NET API 参考
-description: Rational 财产. 获取浮点值
+title: "Rational.FloatValue"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "Rational 属性。获取浮点值"
 type: docs
 weight: 30
 url: /zh/net/aspose.psd.xmp.types.derived/rational/floatvalue/
 ---
+{{< psd/tize >}}
 ## Rational.FloatValue property
 
 获取浮点值。
@@ -14,14 +15,14 @@ url: /zh/net/aspose.psd.xmp.types.derived/rational/floatvalue/
 public float FloatValue { get; }
 ```
 
-### 适当的价值
+### Property Value
 
-浮点值。
+float 值。
 
-### 也可以看看
+### 另请参阅
 
 * class [Rational](../)
-* 命名空间 [Aspose.PSD.Xmp.Types.Derived](../../rational/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Derived](../../../aspose.psd.xmp.types.derived/)
+* assembly [Aspose.PSD](../../../)
 
 

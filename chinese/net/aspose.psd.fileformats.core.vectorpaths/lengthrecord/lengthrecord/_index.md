@@ -1,46 +1,41 @@
 ---
-title: LengthRecord.LengthRecord
-second_title: Aspose.PSD for .NET API 参考
-description: LengthRecord 构造函数. 初始化一个新的实例LengthRecord类.
+title: "LengthRecord.LengthRecord"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "LengthRecord 构造函数。初始化 LengthRecord 类的新实例"
 type: docs
 weight: 10
 url: /zh/net/aspose.psd.fileformats.core.vectorpaths/lengthrecord/lengthrecord/
 ---
+{{< psd/tize >}}
 ## LengthRecord(byte[]) {#constructor_1}
 
-初始化一个新的实例[`LengthRecord`](../)类.
+初始化一个 [`LengthRecord`](../) 类的新实例。
 
 ```csharp
 public LengthRecord(byte[] data)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| data | Byte[] | 记录数据。 |
+| 数据 | Byte[] | 记录数据。 |
 
-### 例外
-
-| 例外 | （健康）状况 |
-| --- | --- |
-| !:PsdImageArgumentException | LengthRecord 创建的数据不正确 |
-
-### 也可以看看
+### 另请参阅
 
 * class [LengthRecord](../)
-* 命名空间 [Aspose.PSD.FileFormats.Core.VectorPaths](../../lengthrecord/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## LengthRecord() {#constructor}
 
-初始化一个新的实例[`LengthRecord`](../)类.
+初始化一个 [`LengthRecord`](../) 类的新实例。
 
 ```csharp
 public LengthRecord()
 ```
 
-### 例子
+## 示例
 
 以下代码示例演示了对新 LengthRecord 属性、PathOperations（布尔运算）、ShapeIndex 和 BezierKnotRecordsCount 的支持。
 
@@ -66,7 +61,7 @@ using (var im = (PsdImage)Image.Load(sourceFilePath))
     LengthRecord lengthRecord1 = (LengthRecord)resource.Paths[7];
     LengthRecord lengthRecord2 = (LengthRecord)resource.Paths[11];
 
-    // 这里我们改变了组合形状的方式。
+    // 这里我们改变了形状之间的组合方式。
     lengthRecord0.PathOperations = PathOperations.ExcludeOverlappingShapes;
     lengthRecord1.PathOperations = PathOperations.IntersectShapeAreas;
     lengthRecord2.PathOperations = PathOperations.SubtractFrontShape;
@@ -75,10 +70,10 @@ using (var im = (PsdImage)Image.Load(sourceFilePath))
 }
 ```
 
-### 也可以看看
+### 另请参阅
 
 * class [LengthRecord](../)
-* 命名空间 [Aspose.PSD.FileFormats.Core.VectorPaths](../../lengthrecord/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../../)
 
 

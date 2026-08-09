@@ -1,27 +1,28 @@
 ---
-title: PatternFillSettings.PatternName
-second_title: Aspose.PSD for .NET API 参考
-description: PatternFillSettings 财产. 获取或设置模式的名称
+title: "PatternFillSettings.PatternName"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "PatternFillSettings 属性。获取或设置模式的名称"
 type: docs
-weight: 90
+weight: 110
 url: /zh/net/aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings/patternname/
 ---
+{{< psd/tize >}}
 ## PatternFillSettings.PatternName property
 
-获取或设置模式的名称。
+获取或设置图案的名称。
 
 ```csharp
 public string PatternName { get; set; }
 ```
 
-### 适当的价值
+### Property Value
 
 模式的名称。
 
-### 也可以看看
+### 另请参阅
 
 * class [PatternFillSettings](../)
-* 命名空间 [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../patternfillsettings/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../../)
 
 

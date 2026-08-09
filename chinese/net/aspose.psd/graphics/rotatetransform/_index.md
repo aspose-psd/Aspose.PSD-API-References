@@ -1,49 +1,50 @@
 ---
-title: Graphics.RotateTransform
-second_title: Aspose.PSD for .NET API 参考
-description: Graphics 方法. 按指定量旋转局部几何变换此方法将旋转添加到 transform.
+title: "Graphics.RotateTransform"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "Graphics 方法。按指定的量旋转本地几何变换。此方法将在变换前添加旋转。"
 type: docs
-weight: 440
+weight: 450
 url: /zh/net/aspose.psd/graphics/rotatetransform/
 ---
+{{< psd/tize >}}
 ## RotateTransform(float) {#rotatetransform}
 
-按指定量旋转局部几何变换。此方法将旋转添加到 transform.
+按指定的角度旋转本地几何变换。此方法将旋转前置到变换中。
 
 ```csharp
 public void RotateTransform(float angle)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| angle | Single | 旋转的角度。 |
+| 角度 | 单精度 | 旋转角度。 |
 
-### 也可以看看
+### 另请参阅
 
 * class [Graphics](../)
-* 命名空间 [Aspose.PSD](../../graphics/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## RotateTransform(float, MatrixOrder) {#rotatetransform_1}
 
-按指定顺序按指定量旋转局部几何变换。
+按指定的角度并按照指定的顺序旋转本地几何变换。
 
 ```csharp
 public void RotateTransform(float angle, MatrixOrder order)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| angle | Single | 旋转的角度。 |
-| order | MatrixOrder | A[`MatrixOrder`](../../matrixorder/)指定是否附加或前置旋转矩阵。 |
+| 角度 | 单精度 | 旋转角度。 |
+| order | MatrixOrder | 一个 [`MatrixOrder`](../../matrixorder/)，指定是追加还是预置旋转矩阵。 |
 
-### 也可以看看
+### 另请参阅
 
 * enum [MatrixOrder](../../matrixorder/)
 * class [Graphics](../)
-* 命名空间 [Aspose.PSD](../../graphics/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

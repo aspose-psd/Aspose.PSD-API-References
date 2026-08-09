@@ -1,11 +1,12 @@
 ---
-title: Class Dimensions
-second_title: Aspose.PSD for .NET API 参考
-description: Aspose.PSD.Xmp.Types.Complex.Dimensions.Dimensions 班级. 包含绘制对象的尺寸
+title: "Dimensions 类"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "Aspose.PSD.Xmp.Types.Complex.Dimensions.Dimensions 类。包含绘制对象的尺寸。"
 type: docs
-weight: 6060
+weight: 6560
 url: /zh/net/aspose.psd.xmp.types.complex.dimensions/dimensions/
 ---
+{{< psd/tize >}}
 ## Dimensions class
 
 包含绘制对象的尺寸。
@@ -16,14 +17,14 @@ public sealed class Dimensions : ComplexTypeBase
 
 ## 构造函数
 
-| 姓名 | 描述 |
+| 名称 | 描述 |
 | --- | --- |
-| [Dimensions](dimensions/#constructor)() | 初始化一个新的实例`Dimensions`类. |
-| [Dimensions](dimensions/#constructor_1)(float, float) | 初始化一个新的实例`Dimensions`类. |
+| [Dimensions](dimensions/#constructor)() | 初始化 `Dimensions` 类的新实例。 |
+| [Dimensions](dimensions/#constructor_1)(float, float) | 初始化 `Dimensions` 类的新实例。 |
 
-## 特性
+## 属性
 
-| 姓名 | 描述 |
+| 名称 | 描述 |
 | --- | --- |
 | [Height](../../aspose.psd.xmp.types.complex.dimensions/dimensions/height/) { get; set; } | 获取或设置高度。 |
 | [NamespaceUri](../../aspose.psd.xmp.types.complex/complextypebase/namespaceuri/) { get; } | 获取默认命名空间 URI。 |
@@ -33,14 +34,14 @@ public sealed class Dimensions : ComplexTypeBase
 
 ## 方法
 
-| 姓名 | 描述 |
+| 名称 | 描述 |
 | --- | --- |
-| override [GetXmpRepresentation](../../aspose.psd.xmp.types.complex.dimensions/dimensions/getxmprepresentation/)() | 获取包含 XMP 格式的字符串值。 |
+| override [GetXmpRepresentation](../../aspose.psd.xmp.types.complex.dimensions/dimensions/getxmprepresentation/)() | 获取 XMP 格式中包含的字符串值。 |
 
-### 也可以看看
+### 另请参阅
 
 * class [ComplexTypeBase](../../aspose.psd.xmp.types.complex/complextypebase/)
-* 命名空间 [Aspose.PSD.Xmp.Types.Complex.Dimensions](../../aspose.psd.xmp.types.complex.dimensions/)
-* 部件 [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.Dimensions](../../aspose.psd.xmp.types.complex.dimensions/)
+* assembly [Aspose.PSD](../../)
 
 

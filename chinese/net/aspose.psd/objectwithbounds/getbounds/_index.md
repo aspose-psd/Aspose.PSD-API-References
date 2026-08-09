@@ -1,11 +1,12 @@
 ---
-title: ObjectWithBounds.GetBounds
-second_title: Aspose.PSD for .NET API 参考
-description: ObjectWithBounds 方法. 获取对象的边界
+title: "ObjectWithBounds.GetBounds"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "ObjectWithBounds 方法。获取对象的边界"
 type: docs
 weight: 20
 url: /zh/net/aspose.psd/objectwithbounds/getbounds/
 ---
+{{< psd/tize >}}
 ## GetBounds(Matrix) {#getbounds}
 
 获取对象的边界。
@@ -14,21 +15,21 @@ url: /zh/net/aspose.psd/objectwithbounds/getbounds/
 public abstract RectangleF GetBounds(Matrix matrix)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| matrix | Matrix | 将计算在边界之前应用的矩阵。 |
+| 矩阵 | 矩阵 | 在计算边界之前要应用的矩阵。 |
 
 ### 返回值
 
-估计对象的边界。
+估计的对象边界。
 
-### 也可以看看
+### 另请参阅
 
 * struct [RectangleF](../../rectanglef/)
 * class [Matrix](../../matrix/)
 * class [ObjectWithBounds](../)
-* 命名空间 [Aspose.PSD](../../objectwithbounds/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
@@ -40,22 +41,22 @@ public abstract RectangleF GetBounds(Matrix matrix)
 public abstract RectangleF GetBounds(Matrix matrix, Pen pen)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| matrix | Matrix | 将计算在边界之前应用的矩阵。 |
-| pen | Pen | 用于对象的笔。这会影响对象的边界大小。 |
+| 矩阵 | 矩阵 | 在计算边界之前要应用的矩阵。 |
+| 笔 | 笔 | 用于对象的笔。它可以影响对象边界的大小。 |
 
 ### 返回值
 
-估计对象的边界。
+估计的对象边界。
 
-### 也可以看看
+### 另请参阅
 
 * struct [RectangleF](../../rectanglef/)
 * class [Matrix](../../matrix/)
 * class [Pen](../../pen/)
 * class [ObjectWithBounds](../)
-* 命名空间 [Aspose.PSD](../../objectwithbounds/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

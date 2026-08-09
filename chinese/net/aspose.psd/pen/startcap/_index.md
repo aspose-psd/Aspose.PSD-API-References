@@ -1,34 +1,35 @@
 ---
-title: Pen.StartCap
-second_title: Aspose.PSD for .NET API 参考
-description: Pen 财产. 获取或设置用此绘制的线条开头使用的帽样式Pen .
+title: "Pen.StartCap"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "Pen属性。获取或设置使用此Pen绘制的线段起始端的端帽样式。"
 type: docs
 weight: 160
 url: /zh/net/aspose.psd/pen/startcap/
 ---
+{{< psd/tize >}}
 ## Pen.StartCap property
 
-获取或设置用此绘制的线条开头使用的帽样式[`Pen`](../) .
+获取或设置使用此[`Pen`](../)绘制的线段起始端的端帽样式。
 
 ```csharp
 public LineCap StartCap { get; set; }
 ```
 
-### 适当的价值
+### Property Value
 
-中的一个[`LineCap`](../../linecap/)表示用此绘制的线条开头使用的帽样式的值[`Pen`](../).
+[`LineCap`](../../linecap/)值之一，表示使用此[`Pen`](../)绘制的线段起始端的端帽样式。
 
-### 例外
+### 异常
 
-| 例外 | （健康）状况 |
+| 异常 | 条件 |
 | --- | --- |
-| ArgumentException | 这`StartCap`属性设置在一个不可变的[`Pen`](../)，例如返回的那些[`Pen`](../)班级。 |
+| ArgumentException | `StartCap`属性在不可变的[`Pen`](../)上设置，例如由[`Pen`](../)类返回的对象。 |
 
-### 也可以看看
+### 另请参阅
 
 * enum [LineCap](../../linecap/)
 * class [Pen](../)
-* 命名空间 [Aspose.PSD](../../pen/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

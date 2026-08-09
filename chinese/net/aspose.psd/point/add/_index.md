@@ -1,33 +1,34 @@
 ---
-title: Point.Add
-second_title: Aspose.PSD for .NET API 参考
-description: Point 方法. 添加指定的Size到指定的Point .
+title: "Point.Add"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "Point 方法。将指定的 Size 添加到指定的 Point。"
 type: docs
 weight: 30
 url: /zh/net/aspose.psd/point/add/
 ---
+{{< psd/tize >}}
 ## Point.Add method
 
-添加指定的[`Size`](../../size/)到指定的[`Point`](../) .
+将指定的 [`Size`](../../size/) 添加到指定的 [`Point`](../)。
 
 ```csharp
 public static Point Add(Point point, Size size)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| point | Point | 这[`Point`](../)添加到。 |
-| size | Size | 这[`Size`](../../size/)添加到*point*. |
+| point | Point | 要添加到的 [`Point`](../)。 |
+| size | Size | 要添加到 *point* 的 [`Size`](../../size/)。 |
 
 ### 返回值
 
-这[`Point`](../)这是加法运算的结果。
+加法操作的结果是 [`Point`](../)。
 
-### 也可以看看
+### 另请参阅
 
 * struct [Size](../../size/)
 * struct [Point](../)
-* 命名空间 [Aspose.PSD](../../point/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

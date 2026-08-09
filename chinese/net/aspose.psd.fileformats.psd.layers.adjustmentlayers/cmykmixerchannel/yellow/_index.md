@@ -1,11 +1,12 @@
 ---
-title: CmykMixerChannel.Yellow
-second_title: Aspose.PSD for .NET API 参考
-description: CmykMixerChannel 财产. 获取或设置黄色
+title: "CmykMixerChannel.Yellow"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "CmykMixerChannel 属性。获取或设置 yellow"
 type: docs
 weight: 50
 url: /zh/net/aspose.psd.fileformats.psd.layers.adjustmentlayers/cmykmixerchannel/yellow/
 ---
+{{< psd/tize >}}
 ## CmykMixerChannel.Yellow property
 
 获取或设置黄色。
@@ -14,14 +15,14 @@ url: /zh/net/aspose.psd.fileformats.psd.layers.adjustmentlayers/cmykmixerchannel
 public short Yellow { get; set; }
 ```
 
-### 适当的价值
+### Property Value
 
-黄色.
+yellow。
 
-### 也可以看看
+### 另请参阅
 
 * class [CmykMixerChannel](../)
-* 命名空间 [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../cmykmixerchannel/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,28 +1,29 @@
 ---
-title: Layer.SheetColorHighlight
-second_title: Aspose.PSD for .NET API 参考
-description: Layer 财产. 获取或设置图层列表中的装饰板颜色高亮
+title: "Layer.SheetColorHighlight"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "Layer 属性。获取或设置图层列表中装饰性工作表颜色高亮"
 type: docs
-weight: 300
+weight: 310
 url: /zh/net/aspose.psd.fileformats.psd.layers/layer/sheetcolorhighlight/
 ---
+{{< psd/tize >}}
 ## Layer.SheetColorHighlight property
 
-获取或设置图层列表中的装饰板颜色高亮
+获取或设置图层列表中装饰纸张颜色高亮
 
 ```csharp
 public SheetColorHighlightEnum SheetColorHighlight { get; set; }
 ```
 
-### 适当的价值
+### Property Value
 
-工作表颜色突出显示。
+工作表颜色高亮。
 
-### 也可以看看
+### 另请参阅
 
 * enum [SheetColorHighlightEnum](../../../aspose.psd.fileformats.psd.layers.layerresources/sheetcolorhighlightenum/)
 * class [Layer](../)
-* 命名空间 [Aspose.PSD.FileFormats.Psd.Layers](../../layer/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

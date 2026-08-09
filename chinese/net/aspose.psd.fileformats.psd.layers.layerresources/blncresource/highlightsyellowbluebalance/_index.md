@@ -1,27 +1,28 @@
 ---
-title: BlncResource.HighlightsYellowBlueBalance
-second_title: Aspose.PSD for .NET API 参考
-description: BlncResource 财产. 获取或设置高光黄蓝平衡
+title: "BlncResource.HighlightsYellowBlueBalance"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "BlncResource 属性。获取或设置高光黄蓝平衡"
 type: docs
 weight: 40
 url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources/blncresource/highlightsyellowbluebalance/
 ---
+{{< psd/tize >}}
 ## BlncResource.HighlightsYellowBlueBalance property
 
-获取或设置高光黄蓝平衡。
+获取或设置 Highlights Yellow Blue 平衡。
 
 ```csharp
 public short HighlightsYellowBlueBalance { get; set; }
 ```
 
-### 适当的价值
+### Property Value
 
-亮点黄蓝平衡。
+该 Highlights Yellow Blue Balance。
 
-### 也可以看看
+### 另请参阅
 
 * class [BlncResource](../)
-* 命名空间 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../blncresource/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

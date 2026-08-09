@@ -1,33 +1,34 @@
 ---
-title: LevelChannel.InputMidtoneLevel
-second_title: Aspose.PSD for .NET API 参考
-description: LevelChannel 财产. 获取或设置输入中间调水平 float.
+title: "LevelChannel.InputMidtoneLevel"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "LevelChannel 属性。获取或设置输入中间调级别浮点数"
 type: docs
 weight: 20
 url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources/levelchannel/inputmidtonelevel/
 ---
+{{< psd/tize >}}
 ## LevelChannel.InputMidtoneLevel property
 
-获取或设置输入中间调水平 float.
+获取或设置输入中间调级别（浮点数）。
 
 ```csharp
 public float InputMidtoneLevel { get; set; }
 ```
 
-### 适当的价值
+### Property Value
 
-输入中间调水平浮动。
+输入中间调级别浮点数。
 
-### 例外
+### 异常
 
-| 例外 | （健康）状况 |
+| 异常 | 条件 |
 | --- | --- |
-| ArgumentOutOfRangeException | Input Midtone Level 只能在 0.01 到 9.99 的范围内设置 |
+| ArgumentOutOfRangeException | 输入中间调级别只能在 0.01 到 9.99 的范围内设置 |
 
-### 也可以看看
+### 另请参阅
 
 * class [LevelChannel](../)
-* 命名空间 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../levelchannel/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

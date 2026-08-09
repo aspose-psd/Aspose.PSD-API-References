@@ -1,11 +1,12 @@
 ---
-title: Enum PathOperations
-second_title: Aspose.PSD for .NET API 参考
-description: Aspose.PSD.FileFormats.Core.VectorPaths.PathOperations 枚举. 路径形状组合的操作布尔运算
+title: "枚举 PathOperations"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "Aspose.PSD.FileFormats.Core.VectorPaths.PathOperations 枚举。路径形状组合布尔运算的操作"
 type: docs
-weight: 1390
+weight: 1400
 url: /zh/net/aspose.psd.fileformats.core.vectorpaths/pathoperations/
 ---
+{{< psd/tize >}}
 ## PathOperations enumeration
 
 路径形状组合的操作（布尔运算）。
@@ -14,16 +15,16 @@ url: /zh/net/aspose.psd.fileformats.core.vectorpaths/pathoperations/
 public enum PathOperations
 ```
 
-### 价值观
+### 值
 
-| 姓名 | 价值 | 描述 |
+| 名称 | 值 | 描述 |
 | --- | --- | --- |
-| ExcludeOverlappingShapes | `0` | 排除重叠形状（异或运算）。 |
-| CombineShapes | `1` | 组合形状（或运算）。这是 Photoshop 中的默认值。 |
-| SubtractFrontShape | `2` | 减去前形状（非操作）。 |
-| IntersectShapeAreas | `3` | 相交形状区域（AND 运算）. |
+| ExcludeOverlappingShapes | `0` | 排除重叠形状（XOR 操作）。 |
+| CombineShapes | `1` | 合并形状（OR 操作）。这是 Photoshop 中的默认值。 |
+| SubtractFrontShape | `2` | 减去前置形状（NOT 操作）。 |
+| IntersectShapeAreas | `3` | 相交形状区域（AND 操作）。 |
 
-### 例子
+## 示例
 
 以下代码示例演示了对新 LengthRecord 属性、PathOperations（布尔运算）、ShapeIndex 和 BezierKnotRecordsCount 的支持。
 
@@ -49,7 +50,7 @@ using (var im = (PsdImage)Image.Load(sourceFilePath))
     LengthRecord lengthRecord1 = (LengthRecord)resource.Paths[7];
     LengthRecord lengthRecord2 = (LengthRecord)resource.Paths[11];
 
-    // 这里我们改变了组合形状的方式。
+    // 这里我们改变了形状之间的组合方式。
     lengthRecord0.PathOperations = PathOperations.ExcludeOverlappingShapes;
     lengthRecord1.PathOperations = PathOperations.IntersectShapeAreas;
     lengthRecord2.PathOperations = PathOperations.SubtractFrontShape;
@@ -58,9 +59,9 @@ using (var im = (PsdImage)Image.Load(sourceFilePath))
 }
 ```
 
-### 也可以看看
+### 另请参阅
 
-* 命名空间 [Aspose.PSD.FileFormats.Core.VectorPaths](../../aspose.psd.fileformats.core.vectorpaths/)
-* 部件 [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../)
 
 

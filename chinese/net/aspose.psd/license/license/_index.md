@@ -1,11 +1,12 @@
 ---
-title: License.License
-second_title: Aspose.PSD for .NET API 参考
-description: License 构造函数. 初始化此类的新实例
+title: "License.License"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "License 构造函数。初始化此类的新实例。"
 type: docs
 weight: 10
 url: /zh/net/aspose.psd/license/license/
 ---
+{{< psd/tize >}}
 ## License constructor
 
 初始化此类的新实例。
@@ -14,9 +15,9 @@ url: /zh/net/aspose.psd/license/license/
 public License()
 ```
 
-### 例子
+## 示例
 
-在此示例中，将尝试在包含 组件的文件夹中、在包含调用程序集的文件夹中、在入口程序集的文件夹中查找名为 的许可证文件，然后在调用程序集的嵌入资源.
+在此示例中，将尝试在包含组件的文件夹、包含调用程序集的文件夹、入口程序集的文件夹以及调用程序集的嵌入资源中查找名为 MyLicense.lic 的许可证文件。
 
 ```csharp
 [C#]
@@ -31,10 +32,10 @@ Dim license As license = New license
 License.SetLicense("MyLicense.lic")
 ```
 
-### 也可以看看
+### 另请参阅
 
 * class [License](../)
-* 命名空间 [Aspose.PSD](../../license/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

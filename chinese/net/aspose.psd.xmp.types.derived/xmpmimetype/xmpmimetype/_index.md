@@ -1,27 +1,28 @@
 ---
-title: XmpMimeType.XmpMimeType
-second_title: Aspose.PSD for .NET API 参考
-description: XmpMimeType 构造函数. 初始化一个新的实例XmpMimeType类.
+title: "XmpMimeType.XmpMimeType"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "XmpMimeType 构造函数。初始化 XmpMimeType 类的新实例"
 type: docs
 weight: 10
 url: /zh/net/aspose.psd.xmp.types.derived/xmpmimetype/xmpmimetype/
 ---
+{{< psd/tize >}}
 ## XmpMimeType constructor
 
-初始化一个新的实例[`XmpMimeType`](../)类.
+初始化 [`XmpMimeType`](../) 类的新实例。
 
 ```csharp
 public XmpMimeType(string value)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| value | String | 价值。 |
+| 值 | String | 该值。 |
 
-### 也可以看看
+### 另请参阅
 
 * class [XmpMimeType](../)
-* 命名空间 [Aspose.PSD.Xmp.Types.Derived](../../xmpmimetype/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Derived](../../../aspose.psd.xmp.types.derived/)
+* assembly [Aspose.PSD](../../../)
 
 

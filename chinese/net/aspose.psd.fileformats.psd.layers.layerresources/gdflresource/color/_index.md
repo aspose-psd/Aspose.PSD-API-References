@@ -1,14 +1,15 @@
 ---
-title: GdFlResource.Color
-second_title: Aspose.PSD for .NET API 参考
-description: GdFlResource 财产. 获取RGB的颜色
+title: "GdFlResource.Color"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "GdFlResource 属性。获取 RGB 的颜色"
 type: docs
 weight: 40
 url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources/gdflresource/color/
 ---
+{{< psd/tize >}}
 ## GdFlResource.Color property
 
-获取RGB的颜色。
+获取 RGB 的颜色。
 
 ```csharp
 public Color Color { get; set; }
@@ -18,11 +19,11 @@ public Color Color { get; set; }
 
 RGB 颜色
 
-### 也可以看看
+### 另请参阅
 
 * struct [Color](../../../aspose.psd/color/)
 * class [GdFlResource](../)
-* 命名空间 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../gdflresource/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

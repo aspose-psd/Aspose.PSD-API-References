@@ -1,28 +1,29 @@
 ---
-title: IObjectWithBounds.Size
-second_title: Aspose.PSD for .NET API 参考
-description: IObjectWithBounds 财产. 获取对象大小
+title: "IObjectWithBounds.Size"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "IObjectWithBounds 属性。获取对象的大小"
 type: docs
 weight: 30
 url: /zh/net/aspose.psd/iobjectwithbounds/size/
 ---
+{{< psd/tize >}}
 ## IObjectWithBounds.Size property
 
-获取对象大小。
+获取对象的尺寸。
 
 ```csharp
 public Size Size { get; }
 ```
 
-### 适当的价值
+### Property Value
 
-对象大小。
+对象的大小。
 
-### 也可以看看
+### 另请参阅
 
 * struct [Size](../../size/)
 * interface [IObjectWithBounds](../)
-* 命名空间 [Aspose.PSD](../../iobjectwithbounds/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

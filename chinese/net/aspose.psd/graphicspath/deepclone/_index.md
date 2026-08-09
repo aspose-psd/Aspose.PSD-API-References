@@ -1,14 +1,15 @@
 ---
-title: GraphicsPath.DeepClone
-second_title: Aspose.PSD for .NET API 参考
-description: GraphicsPath 方法. 执行此图形路径的深度克隆
+title: "GraphicsPath.DeepClone"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "GraphicsPath 方法。对该图形路径执行深度克隆"
 type: docs
 weight: 80
 url: /zh/net/aspose.psd/graphicspath/deepclone/
 ---
+{{< psd/tize >}}
 ## GraphicsPath.DeepClone method
 
-执行此图形路径的深度克隆。
+对该图形路径执行深度克隆。
 
 ```csharp
 public GraphicsPath DeepClone()
@@ -18,10 +19,10 @@ public GraphicsPath DeepClone()
 
 图形路径的深度克隆。
 
-### 也可以看看
+### 另请参阅
 
 * class [GraphicsPath](../)
-* 命名空间 [Aspose.PSD](../../graphicspath/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

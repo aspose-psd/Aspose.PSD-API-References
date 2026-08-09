@@ -1,11 +1,12 @@
 ---
-title: XmpPackage.SetXmpTypeValue
-second_title: Aspose.PSD for .NET API 参考
-description: XmpPackage 方法. 设置 XMP 类型值
+title: "XmpPackage.SetXmpTypeValue"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "XmpPackage 方法。设置 XMP 类型值"
 type: docs
 weight: 130
 url: /zh/net/aspose.psd.xmp/xmppackage/setxmptypevalue/
 ---
+{{< psd/tize >}}
 ## XmpPackage.SetXmpTypeValue method
 
 设置 XMP 类型值。
@@ -14,16 +15,16 @@ url: /zh/net/aspose.psd.xmp/xmppackage/setxmptypevalue/
 public virtual void SetXmpTypeValue(string key, XmpTypeBase value)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| key | String | 用设置值标识的键的字符串表示。 |
-| value | XmpTypeBase | 要设置的值。 |
+| 键 | String | 标识为已设置值的键的字符串表示形式。 |
+| 值 | XmpTypeBase | 要设置的值。 |
 
-### 也可以看看
+### 另请参阅
 
 * class [XmpTypeBase](../../../aspose.psd.xmp.types/xmptypebase/)
 * class [XmpPackage](../)
-* 命名空间 [Aspose.PSD.Xmp](../../xmppackage/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

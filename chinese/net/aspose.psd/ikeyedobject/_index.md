@@ -1,28 +1,29 @@
 ---
-title: Interface IKeyedObject
-second_title: Aspose.PSD for .NET API 参考
-description: Aspose.PSD.IKeyedObject 界面. 表示带有键的对象的接口
+title: "接口 IKeyedObject"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "Aspose.PSD.IKeyedObject 接口。表示具有键的对象的接口"
 type: docs
-weight: 4480
+weight: 4950
 url: /zh/net/aspose.psd/ikeyedobject/
 ---
+{{< psd/tize >}}
 ## IKeyedObject interface
 
-表示带有键的对象的接口。
+表示具有键的对象的接口。
 
 ```csharp
 public interface IKeyedObject
 ```
 
-## 特性
+## 属性
 
-| 姓名 | 描述 |
+| 名称 | 描述 |
 | --- | --- |
 | [Key](../../aspose.psd/ikeyedobject/key/) { get; } | 获取对象键。 |
 
-### 也可以看看
+### 另请参阅
 
-* 命名空间 [Aspose.PSD](../../aspose.psd/)
-* 部件 [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

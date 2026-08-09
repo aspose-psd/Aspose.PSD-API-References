@@ -1,27 +1,28 @@
 ---
-title: RawDataSettings.FallbackIndex
-second_title: Aspose.PSD for .NET API 参考
-description: RawDataSettings 财产. 获取或设置调色板索引超出范围时使用的回退索引
+title: "RawDataSettings.FallbackIndex"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "RawDataSettings 属性。获取或设置当调色板索引超出范围时使用的回退索引。"
 type: docs
 weight: 50
 url: /zh/net/aspose.psd/rawdatasettings/fallbackindex/
 ---
+{{< psd/tize >}}
 ## RawDataSettings.FallbackIndex property
 
-获取或设置调色板索引超出范围时使用的回退索引
+获取或设置当调色板索引超出范围时使用的回退索引
 
 ```csharp
 public int FallbackIndex { get; set; }
 ```
 
-### 适当的价值
+### Property Value
 
-调色板索引超出范围时使用的回退索引
+当调色板索引超出范围时使用的回退索引。
 
-### 也可以看看
+### 另请参阅
 
 * class [RawDataSettings](../)
-* 命名空间 [Aspose.PSD](../../rawdatasettings/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

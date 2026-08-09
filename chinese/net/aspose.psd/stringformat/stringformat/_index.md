@@ -1,70 +1,71 @@
 ---
-title: StringFormat.StringFormat
-second_title: Aspose.PSD for .NET API 参考
-description: StringFormat 构造函数. 初始化一个新的StringFormat对象.
+title: "StringFormat.StringFormat"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "StringFormat 构造函数。初始化一个新的 StringFormat 对象。"
 type: docs
 weight: 10
 url: /zh/net/aspose.psd/stringformat/stringformat/
 ---
+{{< psd/tize >}}
 ## StringFormat() {#constructor}
 
-初始化一个新的[`StringFormat`](../)对象.
+初始化一个新的 [`StringFormat`](../) 对象。
 
 ```csharp
 public StringFormat()
 ```
 
-### 也可以看看
+### 另请参阅
 
 * class [StringFormat](../)
-* 命名空间 [Aspose.PSD](../../stringformat/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## StringFormat(StringFormatFlags) {#constructor_2}
 
-初始化一个新的[`StringFormat`](../)具有指定对象[`StringFormatFlags`](../../stringformatflags/)枚举和语言.
+使用指定的 [`StringFormatFlags`](../../stringformatflags/) 枚举和语言初始化一个新的 [`StringFormat`](../) 对象。
 
 ```csharp
 public StringFormat(StringFormatFlags options)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| options | StringFormatFlags | 这[`StringFormatFlags`](../../stringformatflags/)新的枚举[`StringFormat`](../)目的。 |
+| options | StringFormatFlags | 新 [`StringFormat`](../) 对象的 [`StringFormatFlags`](../../stringformatflags/) 枚举。 |
 
-### 也可以看看
+### 另请参阅
 
 * enum [StringFormatFlags](../../stringformatflags/)
 * class [StringFormat](../)
-* 命名空间 [Aspose.PSD](../../stringformat/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## StringFormat(StringFormat) {#constructor_1}
 
-初始化一个新的[`StringFormat`](../)来自指定现有对象[`StringFormat`](../)对象.
+从指定的现有 [`StringFormat`](../) 对象初始化一个新的 [`StringFormat`](../) 对象。
 
 ```csharp
 public StringFormat(StringFormat format)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| format | StringFormat | 这[`StringFormat`](../)从中初始化新的对象[`StringFormat`](../)目的。 |
+| format | StringFormat | 用于初始化新 [`StringFormat`](../) 对象的 [`StringFormat`](../) 对象。 |
 
-### 例外
+### 异常
 
-| 例外 | （健康）状况 |
+| 异常 | 条件 |
 | --- | --- |
-| ArgumentNullException | *format*一片空白。 |
+| ArgumentNullException | *format* 为 null。 |
 
-### 也可以看看
+### 另请参阅
 
 * class [StringFormat](../)
-* 命名空间 [Aspose.PSD](../../stringformat/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,43 +1,44 @@
 ---
-title: Font.Font
-second_title: Aspose.PSD for .NET API 参考
-description: Font 构造函数. 初始化一个新的实例Font类.
+title: "Font.Font"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "Font 构造函数。初始化 Font 类的新实例"
 type: docs
 weight: 10
 url: /zh/net/aspose.psd.xmp.types.complex.font/font/font/
 ---
+{{< psd/tize >}}
 ## Font() {#constructor}
 
-初始化一个新的实例[`Font`](../)类.
+初始化 [`Font`](../) 类的新实例。
 
 ```csharp
 public Font()
 ```
 
-### 也可以看看
+### 另请参阅
 
 * class [Font](../)
-* 命名空间 [Aspose.PSD.Xmp.Types.Complex.Font](../../font/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.Font](../../../aspose.psd.xmp.types.complex.font/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Font(string) {#constructor_1}
 
-初始化一个新的实例[`Font`](../)类.
+初始化 [`Font`](../) 类的新实例。
 
 ```csharp
 public Font(string fontFamily)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| fontFamily | String | 字体系列。 |
+| fontFamily | String | 字体族。 |
 
-### 也可以看看
+### 另请参阅
 
 * class [Font](../)
-* 命名空间 [Aspose.PSD.Xmp.Types.Complex.Font](../../font/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.Font](../../../aspose.psd.xmp.types.complex.font/)
+* assembly [Aspose.PSD](../../../)
 
 

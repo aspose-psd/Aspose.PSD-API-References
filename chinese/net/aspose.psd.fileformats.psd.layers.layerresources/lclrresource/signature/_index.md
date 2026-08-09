@@ -1,23 +1,24 @@
 ---
-title: LclrResource.Signature
-second_title: Aspose.PSD for .NET API 参考
-description: LclrResource 财产. 获取签名.
+title: "LclrResource.Signature"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "LclrResource 属性。获取签名"
 type: docs
 weight: 60
 url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources/lclrresource/signature/
 ---
+{{< psd/tize >}}
 ## LclrResource.Signature property
 
-获取签名.
+获取签名。
 
 ```csharp
 public override int Signature { get; }
 ```
 
-### 也可以看看
+### 另请参阅
 
 * class [LclrResource](../)
-* 命名空间 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../lclrresource/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

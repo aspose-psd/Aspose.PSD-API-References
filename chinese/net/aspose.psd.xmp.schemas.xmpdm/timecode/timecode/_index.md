@@ -1,29 +1,30 @@
 ---
-title: Timecode.Timecode
-second_title: Aspose.PSD for .NET API 参考
-description: Timecode 构造函数. 初始化一个新的实例Timecode类.
+title: "Timecode.Timecode"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "Timecode 构造函数. 初始化 Timecode 类的新实例"
 type: docs
 weight: 10
 url: /zh/net/aspose.psd.xmp.schemas.xmpdm/timecode/timecode/
 ---
+{{< psd/tize >}}
 ## Timecode constructor
 
-初始化一个新的实例[`Timecode`](../)类.
+初始化 [`Timecode`](../) 类的新实例.
 
 ```csharp
 public Timecode(TimeFormat format, string timeValue)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| format | TimeFormat | 时间格式。 |
-| timeValue | String | 时间价值。 |
+| 格式 | TimeFormat | 时间格式。 |
+| timeValue | String | 时间值。 |
 
-### 也可以看看
+### 另请参阅
 
 * class [TimeFormat](../../timeformat/)
 * class [Timecode](../)
-* 命名空间 [Aspose.PSD.Xmp.Schemas.XmpDm](../../timecode/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpDm](../../../aspose.psd.xmp.schemas.xmpdm/)
+* assembly [Aspose.PSD](../../../)
 
 

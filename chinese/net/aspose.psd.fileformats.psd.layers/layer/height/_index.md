@@ -1,11 +1,12 @@
 ---
-title: Layer.Height
-second_title: Aspose.PSD for .NET API 参考
-description: Layer 财产. 获取图像高度
+title: "Layer.Height"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "Layer 属性。获取图像高度"
 type: docs
-weight: 160
+weight: 170
 url: /zh/net/aspose.psd.fileformats.psd.layers/layer/height/
 ---
+{{< psd/tize >}}
 ## Layer.Height property
 
 获取图像高度。
@@ -14,14 +15,14 @@ url: /zh/net/aspose.psd.fileformats.psd.layers/layer/height/
 public override int Height { get; }
 ```
 
-### 适当的价值
+### Property Value
 
-图像高度.
+图像高度。
 
-### 也可以看看
+### 另请参阅
 
 * class [Layer](../)
-* 命名空间 [Aspose.PSD.FileFormats.Psd.Layers](../../layer/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

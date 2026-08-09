@@ -1,11 +1,12 @@
 ---
-title: TiffOptions.HalfToneHints
-second_title: Aspose.PSD for .NET API 参考
-description: TiffOptions 财产. 获取或设置半色调提示
+title: "TiffOptions.HalfToneHints"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "TiffOptions 属性。获取或设置半色调提示"
 type: docs
-weight: 170
+weight: 180
 url: /zh/net/aspose.psd.imageoptions/tiffoptions/halftonehints/
 ---
+{{< psd/tize >}}
 ## TiffOptions.HalfToneHints property
 
 获取或设置半色调提示。
@@ -14,21 +15,21 @@ url: /zh/net/aspose.psd.imageoptions/tiffoptions/halftonehints/
 public ushort[] HalfToneHints { get; set; }
 ```
 
-### 适当的价值
+### Property Value
 
 半色调提示。
 
-### 例外
+### 异常
 
-| 例外 | （健康）状况 |
+| 异常 | 条件 |
 | --- | --- |
-| ArgumentNullException | 价值 |
-| ArgumentOutOfRangeException | value;Halftone 提示数组长度必须等于 2。 |
+| ArgumentNullException | 值 |
+| ArgumentOutOfRangeException | value;半色调提示数组长度必须等于 2。 |
 
-### 也可以看看
+### 另请参阅
 
 * class [TiffOptions](../)
-* 命名空间 [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

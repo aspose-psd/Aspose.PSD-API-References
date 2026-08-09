@@ -1,26 +1,27 @@
 ---
-title: AiLayerSection.IsTemplate
-second_title: Aspose.PSD for .NET API 参考
-description: AiLayerSection 财产. 获取或设置该图层是否为模板图层的值
+title: "AiLayerSection.IsTemplate"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "AiLayerSection 属性。获取或设置一个值，指示此图层是否为模板图层"
 type: docs
-weight: 100
+weight: 120
 url: /zh/net/aspose.psd.fileformats.ai/ailayersection/istemplate/
 ---
+{{< psd/tize >}}
 ## AiLayerSection.IsTemplate property
 
-获取或设置该图层是否为模板图层的值。
+获取或设置一个值，指示此图层是否为模板图层。
 
 ```csharp
 public bool IsTemplate { get; set; }
 ```
 
-### 适当的价值
+### Property Value
 
-`真的`如果这一层是一个模板；否则，`错误的` .
+`true` 如果此图层是模板；否则为 `false`。
 
-### 例子
+## 示例
 
-以下示例演示了对 AI 格式文件中图层的支持。
+以下示例演示了在 AI 格式文件中对图层的支持。
 
 ```csharp
 [C#]
@@ -70,10 +71,10 @@ using (AiImage image = (AiImage)Image.Load(sourceFilePath))
 }
 ```
 
-### 也可以看看
+### 另请参阅
 
 * class [AiLayerSection](../)
-* 命名空间 [Aspose.PSD.FileFormats.Ai](../../ailayersection/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

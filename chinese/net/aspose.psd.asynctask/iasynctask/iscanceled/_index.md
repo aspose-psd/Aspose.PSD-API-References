@@ -1,27 +1,28 @@
 ---
-title: IAsyncTask.IsCanceled
-second_title: Aspose.PSD for .NET API 参考
-description: IAsyncTask 财产. 获取指示此任务是否已取消的值
+title: "IAsyncTask.IsCanceled"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "IAsyncTask 属性。获取一个值，指示此任务是否已取消"
 type: docs
 weight: 30
 url: /zh/net/aspose.psd.asynctask/iasynctask/iscanceled/
 ---
+{{< psd/tize >}}
 ## IAsyncTask.IsCanceled property
 
-获取指示此任务是否已取消的值。
+获取一个值，指示此任务是否已被取消。
 
 ```csharp
 public bool IsCanceled { get; }
 ```
 
-### 适当的价值
+### Property Value
 
-`真的`如果此任务被取消；否则，`错误的` .
+`true` 如果此任务已取消；否则为 `false`。
 
-### 也可以看看
+### 另请参阅
 
 * interface [IAsyncTask](../)
-* 命名空间 [Aspose.PSD.AsyncTask](../../iasynctask/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.AsyncTask](../../../aspose.psd.asynctask/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: InnerShadowEffect.UseGlobalLight
-second_title: Aspose.PSD for .NET API 参考
-description: InnerShadowEffect 财产. 获取或设置一个值指示是否在所有图层效果中使用此角度
+title: "InnerShadowEffect.UseGlobalLight"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "InnerShadowEffect 属性。获取或设置指示是否在所有图层效果中使用此角度的值"
 type: docs
 weight: 110
 url: /zh/net/aspose.psd.fileformats.psd.layers.layereffects/innershadoweffect/usegloballight/
 ---
+{{< psd/tize >}}
 ## InnerShadowEffect.UseGlobalLight property
 
-获取或设置一个值，指示是否[在所有图层效果中使用此角度]。
+获取或设置一个值，指示是否 [use this angle in all of the layer effects]。
 
 ```csharp
 public bool UseGlobalLight { get; set; }
 ```
 
-### 适当的价值
+### Property Value
 
-`真的`如果[使用全局光]；否则，`错误的` .
+`true` 如果 [use global light]；否则为 `false`。
 
-### 也可以看看
+### 另请参阅
 
 * class [InnerShadowEffect](../)
-* 命名空间 [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../innershadoweffect/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,28 +1,29 @@
 ---
-title: Image.Size
-second_title: Aspose.PSD for .NET API 参考
-description: Image 财产. 获取图像大小
+title: "Image.Size"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "Image 属性。获取图像大小"
 type: docs
 weight: 140
 url: /zh/net/aspose.psd/image/size/
 ---
+{{< psd/tize >}}
 ## Image.Size property
 
-获取图像大小。
+获取图像尺寸。
 
 ```csharp
 public Size Size { get; }
 ```
 
-### 适当的价值
+### Property Value
 
-图像大小。
+该图像大小。
 
-### 也可以看看
+### 另请参阅
 
 * struct [Size](../../size/)
 * class [Image](../)
-* 命名空间 [Aspose.PSD](../../image/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

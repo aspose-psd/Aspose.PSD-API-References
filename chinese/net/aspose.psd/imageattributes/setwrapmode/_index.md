@@ -1,75 +1,76 @@
 ---
-title: ImageAttributes.SetWrapMode
-second_title: Aspose.PSD for .NET API 参考
-description: ImageAttributes 方法. 设置用于决定如何在形状上或在形状边界处平铺纹理的环绕模式当纹理小于它正在填充的形状时纹理会平铺在形状上以填充它
+title: "ImageAttributes.SetWrapMode"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "ImageAttributes 方法。设置用于决定如何在形状或形状边界上平铺纹理的包装模式。当纹理小于要填充的形状时，纹理会在形状上平铺以填充它。"
 type: docs
 weight: 210
 url: /zh/net/aspose.psd/imageattributes/setwrapmode/
 ---
+{{< psd/tize >}}
 ## SetWrapMode(WrapMode) {#setwrapmode}
 
-设置用于决定如何在形状上或在形状边界处平铺纹理的环绕模式。当纹理小于它正在填充的形状时，纹理会平铺在形状上以填充它。
+设置用于决定如何在形状上或形状边界处平铺纹理的包裹模式。当纹理小于要填充的形状时，纹理会在形状上平铺以填充它。
 
 ```csharp
 public void SetWrapMode(WrapMode mode)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| mode | WrapMode | 的一个元素[`WrapMode`](../../wrapmode/)指定图像的重复副本如何用于平铺区域。 |
+| mode | WrapMode | 一个 [`WrapMode`](../../wrapmode/) 元素，指定图像的重复副本如何用于平铺区域。 |
 
-### 也可以看看
+### 另请参阅
 
 * enum [WrapMode](../../wrapmode/)
 * class [ImageAttributes](../)
-* 命名空间 [Aspose.PSD](../../imageattributes/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## SetWrapMode(WrapMode, Color) {#setwrapmode_1}
 
-设置用于决定如何在形状上或在形状边界处平铺纹理的环绕模式和颜色。当纹理小于它正在填充的形状时，纹理会平铺在形状上以填充它。
+设置用于决定如何在形状上或形状边界处平铺纹理的包裹模式和颜色。当纹理小于要填充的形状时，纹理会在形状上平铺以填充它。
 
 ```csharp
 public void SetWrapMode(WrapMode mode, Color color)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| mode | WrapMode | 的一个元素[`WrapMode`](../../wrapmode/)指定图像的重复副本如何用于平铺区域。 |
-| color | Color | 一个[`ImageAttributes`](../)指定渲染图像外像素颜色的对象。如果模式参数设置为，则此颜色可见Clamp并且传递给 DrawImage 的源矩形比图像本身大。 |
+| mode | WrapMode | 一个 [`WrapMode`](../../wrapmode/) 元素，指定图像的重复副本如何用于平铺区域。 |
+| color | Color | 一个 [`ImageAttributes`](../) 对象，指定渲染图像之外像素的颜色。如果 mode 参数设置为 Clamp 且传递给 DrawImage 的源矩形大于图像本身，则此颜色可见。 |
 
-### 也可以看看
+### 另请参阅
 
 * enum [WrapMode](../../wrapmode/)
 * struct [Color](../../color/)
 * class [ImageAttributes](../)
-* 命名空间 [Aspose.PSD](../../imageattributes/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## SetWrapMode(WrapMode, Color, bool) {#setwrapmode_2}
 
-设置用于决定如何在形状上或在形状边界处平铺纹理的环绕模式和颜色。当纹理小于它正在填充的形状时，纹理会平铺在形状上以填充它。
+设置用于决定如何在形状上或形状边界处平铺纹理的包裹模式和颜色。当纹理小于要填充的形状时，纹理会在形状上平铺以填充它。
 
 ```csharp
 public void SetWrapMode(WrapMode mode, Color color, bool clamp)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| mode | WrapMode | 的一个元素[`WrapMode`](../../wrapmode/)指定图像的重复副本如何用于平铺区域。 |
-| color | Color | 指定渲染图像外部像素颜色的颜色对象。如果模式参数设置为，则此颜色可见Clamp并且传递给 DrawImage 的源矩形比图像本身大。 |
-| clamp | Boolean | 此参数无效。将其设置为假。 |
+| mode | WrapMode | 一个 [`WrapMode`](../../wrapmode/) 元素，指定图像的重复副本如何用于平铺区域。 |
+| 颜色 | 颜色 | 一个颜色对象，指定渲染图像之外像素的颜色。如果 mode 参数设置为 Clamp 且传递给 DrawImage 的源矩形大于图像本身，则此颜色可见。 |
+| 夹紧 | 布尔 | 此参数无效。请将其设为 false。 |
 
-### 也可以看看
+### 另请参阅
 
 * enum [WrapMode](../../wrapmode/)
 * struct [Color](../../color/)
 * class [ImageAttributes](../)
-* 命名空间 [Aspose.PSD](../../imageattributes/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: Class XmpHeaderPi
-second_title: Aspose.PSD for .NET API 参考
-description: Aspose.PSD.Xmp.XmpHeaderPi 班级. 表示XMP头处理指令
+title: "类 XmpHeaderPi"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "Aspose.PSD.Xmp.XmpHeaderPi 类。表示 XMP 标头处理指令"
 type: docs
-weight: 6250
+weight: 6750
 url: /zh/net/aspose.psd.xmp/xmpheaderpi/
 ---
+{{< psd/tize >}}
 ## XmpHeaderPi class
 
-表示XMP头处理指令。
+表示 XMP 头部处理指令。
 
 ```csharp
 public sealed class XmpHeaderPi : IEquatable<XmpHeaderPi>, IXmlValue
@@ -16,30 +17,30 @@ public sealed class XmpHeaderPi : IEquatable<XmpHeaderPi>, IXmlValue
 
 ## 构造函数
 
-| 姓名 | 描述 |
+| 名称 | 描述 |
 | --- | --- |
-| [XmpHeaderPi](xmpheaderpi/#constructor)() | 初始化一个新的实例`XmpHeaderPi`类. |
-| [XmpHeaderPi](xmpheaderpi/#constructor_1)(string) | 初始化一个新的实例`XmpHeaderPi`类. |
+| [XmpHeaderPi](xmpheaderpi/#constructor)() | 初始化 `XmpHeaderPi` 类的新实例。 |
+| [XmpHeaderPi](xmpheaderpi/#constructor_1)(string) | 初始化 `XmpHeaderPi` 类的新实例。 |
 
-## 特性
+## 属性
 
-| 姓名 | 描述 |
+| 名称 | 描述 |
 | --- | --- |
-| [Guid](../../aspose.psd.xmp/xmpheaderpi/guid/) { get; set; } | 代表Header Guid. |
+| [Guid](../../aspose.psd.xmp/xmpheaderpi/guid/) { get; set; } | 表示标头 Guid。 |
 
 ## 方法
 
-| 姓名 | 描述 |
+| 名称 | 描述 |
 | --- | --- |
-| override [Equals](../../aspose.psd.xmp/xmpheaderpi/equals/#equals_1)(object) | 判断指定的是否Object 等于这个实例. |
-| [Equals](../../aspose.psd.xmp/xmpheaderpi/equals/#equals)(XmpHeaderPi) | 表示当前对象是否等于另一个相同类型的对象。 |
+| override [Equals](../../aspose.psd.xmp/xmpheaderpi/equals/#equals_1)(object) | 确定指定的 Object 是否等于此实例。 |
+| [Equals](../../aspose.psd.xmp/xmpheaderpi/equals/#equals)(XmpHeaderPi) | 指示当前对象是否等于同类型的另一个对象。 |
 | override [GetHashCode](../../aspose.psd.xmp/xmpheaderpi/gethashcode/)() | 返回此实例的哈希码。 |
-| [GetXmlValue](../../aspose.psd.xmp/xmpheaderpi/getxmlvalue/)() | 将 XMP 值转换为 XML 表示。 |
+| [GetXmlValue](../../aspose.psd.xmp/xmpheaderpi/getxmlvalue/)() | 将 XMP 值转换为 XML 表示形式。 |
 
-### 也可以看看
+### 另请参阅
 
 * interface [IXmlValue](../ixmlvalue/)
-* 命名空间 [Aspose.PSD.Xmp](../../aspose.psd.xmp/)
-* 部件 [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Xmp](../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../)
 
 

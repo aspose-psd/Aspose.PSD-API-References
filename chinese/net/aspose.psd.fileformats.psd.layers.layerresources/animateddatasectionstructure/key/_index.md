@@ -1,11 +1,12 @@
 ---
-title: AnimatedDataSectionStructure.Key
-second_title: Aspose.PSD for .NET API 参考
-description: AnimatedDataSectionStructure 财产. 获取结构键
+title: "AnimatedDataSectionStructure.Key"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "AnimatedDataSectionStructure 属性。获取结构键"
 type: docs
 weight: 20
 url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources/animateddatasectionstructure/key/
 ---
+{{< psd/tize >}}
 ## AnimatedDataSectionStructure.Key property
 
 获取结构键。
@@ -14,10 +15,10 @@ url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources/animateddatasectio
 public override int Key { get; }
 ```
 
-### 也可以看看
+### 另请参阅
 
 * class [AnimatedDataSectionStructure](../)
-* 命名空间 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../animateddatasectionstructure/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

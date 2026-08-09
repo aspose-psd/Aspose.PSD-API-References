@@ -1,22 +1,23 @@
 ---
-title: DropShadowEffect.EffectType
-second_title: Aspose.PSD for .NET API 参考
-description: DropShadowEffect 财产. 获取一种效果
+title: "DropShadowEffect.EffectType"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "DropShadowEffect 属性。获取效果类型"
 type: docs
 weight: 50
 url: /zh/net/aspose.psd.fileformats.psd.layers.layereffects/dropshadoweffect/effecttype/
 ---
+{{< psd/tize >}}
 ## DropShadowEffect.EffectType property
 
-获取一种效果
+获取一种效果类型
 
 ```csharp
 public LayerEffectsTypes EffectType { get; }
 ```
 
-### 例子
+## 示例
 
-以下代码演示了如何使用 DropShadowEffect 的 Opacity 属性。
+以下代码演示了使用 DropShadowEffect 的 Opacity 属性。
 
 ```csharp
 [C#]
@@ -33,11 +34,11 @@ using (PsdImage psdImage = (PsdImage)Image.Load(inputFile, new LoadOptions()))
     dropShadowEffect.Distance = 0;
     dropShadowEffect.Size = 8;
 
-    // 不透明度 = 20 的示例
+    // 示例：Opacity = 20
     dropShadowEffect.Opacity = 20;
     psdImage.Save(outputImage20, new PngOptions());
 
-    // 不透明度 = 20 的示例0
+    // 示例：Opacity = 200
     dropShadowEffect.Opacity = 200;
     psdImage.Save(outputImage200, new PngOptions());
 }
@@ -67,18 +68,18 @@ using (PsdImage psdImage = (PsdImage)Image.Load(inputFile, new LoadOptions()))
     {
         if (iEffect.EffectType == LayerEffectsTypes.DropShadow)
         {
-            // 它抓住了
+            // 已捕获
             psdImage.Save(outputWith, new PngOptions());
         }
     }
 }
 ```
 
-### 也可以看看
+### 另请参阅
 
-* enum [LayerEffectsTypes](../../../aspose.psd.fileformats.psd.layers.layerresources.lfx2resources/layereffectstypes/)
+* enum [LayerEffectsTypes](../../layereffectstypes/)
 * class [DropShadowEffect](../)
-* 命名空间 [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../dropshadoweffect/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../../)
 
 

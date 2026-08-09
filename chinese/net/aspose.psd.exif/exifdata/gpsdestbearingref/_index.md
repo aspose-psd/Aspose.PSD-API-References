@@ -1,27 +1,28 @@
 ---
-title: ExifData.GPSDestBearingRef
-second_title: Aspose.PSD for .NET API 参考
-description: ExifData 财产. 获取或设置用于将方位提供给目标点的 GPS 参考
+title: "ExifData.GPSDestBearingRef"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "ExifData 属性。获取或设置用于指示目的地点方位的 GPS 参考"
 type: docs
 weight: 410
 url: /zh/net/aspose.psd.exif/exifdata/gpsdestbearingref/
 ---
+{{< psd/tize >}}
 ## ExifData.GPSDestBearingRef property
 
-获取或设置用于将方位提供给目标点的 GPS 参考。
+获取或设置用于提供指向目标点方位角的GPS参考。
 
 ```csharp
 public string GPSDestBearingRef { get; set; }
 ```
 
-### 适当的价值
+### Property Value
 
-用于将方位提供给目的地点的 GPS 参考。
+用于指示目的地点方位的 GPS 参考。
 
-### 也可以看看
+### 另请参阅
 
 * class [ExifData](../)
-* 命名空间 [Aspose.PSD.Exif](../../exifdata/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

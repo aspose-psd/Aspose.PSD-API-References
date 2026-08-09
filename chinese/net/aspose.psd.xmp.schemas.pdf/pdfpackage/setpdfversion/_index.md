@@ -1,11 +1,12 @@
 ---
-title: PdfPackage.SetPdfVersion
-second_title: Aspose.PSD for .NET API 参考
-description: PdfPackage 方法. 设置 PDF 版本
+title: "PdfPackage.SetPdfVersion"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "PdfPackage 方法。设置 PDF 版本"
 type: docs
 weight: 40
 url: /zh/net/aspose.psd.xmp.schemas.pdf/pdfpackage/setpdfversion/
 ---
+{{< psd/tize >}}
 ## PdfPackage.SetPdfVersion method
 
 设置 PDF 版本。
@@ -14,14 +15,14 @@ url: /zh/net/aspose.psd.xmp.schemas.pdf/pdfpackage/setpdfversion/
 public void SetPdfVersion(string version)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| version | String | pdf版本，例如：1.0、1.3等。 |
+| version | String | PDF 版本，例如：1.0、1.3 等。 |
 
-### 也可以看看
+### 另请参阅
 
 * class [PdfPackage](../)
-* 命名空间 [Aspose.PSD.Xmp.Schemas.Pdf](../../pdfpackage/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.Pdf](../../../aspose.psd.xmp.schemas.pdf/)
+* assembly [Aspose.PSD](../../../)
 
 

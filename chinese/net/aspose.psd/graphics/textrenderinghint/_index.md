@@ -1,11 +1,12 @@
 ---
-title: Graphics.TextRenderingHint
-second_title: Aspose.PSD for .NET API 参考
-description: Graphics 财产. 获取或设置文本渲染提示
+title: "Graphics.TextRenderingHint"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "Graphics 属性。获取或设置文本渲染提示。"
 type: docs
-weight: 120
+weight: 130
 url: /zh/net/aspose.psd/graphics/textrenderinghint/
 ---
+{{< psd/tize >}}
 ## Graphics.TextRenderingHint property
 
 获取或设置文本渲染提示。
@@ -14,15 +15,15 @@ url: /zh/net/aspose.psd/graphics/textrenderinghint/
 public TextRenderingHint TextRenderingHint { get; set; }
 ```
 
-### 适当的价值
+### Property Value
 
-文本呈现提示。
+文本渲染提示。
 
-### 也可以看看
+### 另请参阅
 
 * enum [TextRenderingHint](../../textrenderinghint/)
 * class [Graphics](../)
-* 命名空间 [Aspose.PSD](../../graphics/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

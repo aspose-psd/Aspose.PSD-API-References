@@ -1,28 +1,29 @@
 ---
-title: LayerResourcesRegistry.RegisteredDescriptors
-second_title: Aspose.PSD for .NET API 参考
-description: LayerResourcesRegistry 财产. 获取注册的描述符
+title: "LayerResourcesRegistry.RegisteredDescriptors"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "LayerResourcesRegistry 属性。获取已注册的描述符"
 type: docs
 weight: 10
 url: /zh/net/aspose.psd.fileformats.psd.layers/layerresourcesregistry/registereddescriptors/
 ---
+{{< psd/tize >}}
 ## LayerResourcesRegistry.RegisteredDescriptors property
 
-获取注册的描述符。
+获取已注册的描述符。
 
 ```csharp
 public static ILayerResourceLoader[] RegisteredDescriptors { get; }
 ```
 
-### 适当的价值
+### Property Value
 
-注册的描述符。
+已注册的描述符。
 
-### 也可以看看
+### 另请参阅
 
 * interface [ILayerResourceLoader](../../ilayerresourceloader/)
 * class [LayerResourcesRegistry](../)
-* 命名空间 [Aspose.PSD.FileFormats.Psd.Layers](../../layerresourcesregistry/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

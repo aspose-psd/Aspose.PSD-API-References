@@ -1,27 +1,28 @@
 ---
-title: ExifData.GPSDifferential
-second_title: Aspose.PSD for .NET API 参考
-description: ExifData 财产. 获取或设置一个 GPS 值该值指示差分校正是否应用于 GPS 接收器
+title: "ExifData.GPSDifferential"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "ExifData 属性。获取或设置一个 GPS 值，用于指示是否对 GPS 接收器应用差分校正"
 type: docs
 weight: 480
 url: /zh/net/aspose.psd.exif/exifdata/gpsdifferential/
 ---
+{{< psd/tize >}}
 ## ExifData.GPSDifferential property
 
-获取或设置一个 GPS 值，该值指示差分校正是否应用于 GPS 接收器。
+获取或设置指示是否对GPS接收机应用差分校正的GPS值。
 
 ```csharp
 public ushort GPSDifferential { get; set; }
 ```
 
-### 适当的价值
+### Property Value
 
-指示差分校正是否应用于 GPS 接收器的 GPS 值。
+指示是否对 GPS 接收器应用差分校正的 GPS 值。
 
-### 也可以看看
+### 另请参阅
 
 * class [ExifData](../)
-* 命名空间 [Aspose.PSD.Exif](../../exifdata/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

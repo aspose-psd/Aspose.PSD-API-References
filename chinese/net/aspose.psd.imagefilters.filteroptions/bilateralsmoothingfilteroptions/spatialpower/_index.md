@@ -1,27 +1,28 @@
 ---
-title: BilateralSmoothingFilterOptions.SpatialPower
-second_title: Aspose.PSD for .NET API 参考
-description: BilateralSmoothingFilterOptions 财产. 获取或设置空间功率
+title: "BilateralSmoothingFilterOptions.SpatialPower"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "BilateralSmoothingFilterOptions 属性。获取或设置空间功率"
 type: docs
 weight: 60
 url: /zh/net/aspose.psd.imagefilters.filteroptions/bilateralsmoothingfilteroptions/spatialpower/
 ---
+{{< psd/tize >}}
 ## BilateralSmoothingFilterOptions.SpatialPower property
 
-获取或设置空间功率。
+获取或设置空间强度。
 
 ```csharp
 public double SpatialPower { get; set; }
 ```
 
-### 适当的价值
+### Property Value
 
-空间功率.
+空间功率。
 
-### 也可以看看
+### 另请参阅
 
 * class [BilateralSmoothingFilterOptions](../)
-* 命名空间 [Aspose.PSD.ImageFilters.FilterOptions](../../bilateralsmoothingfilteroptions/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageFilters.FilterOptions](../../../aspose.psd.imagefilters.filteroptions/)
+* assembly [Aspose.PSD](../../../)
 
 

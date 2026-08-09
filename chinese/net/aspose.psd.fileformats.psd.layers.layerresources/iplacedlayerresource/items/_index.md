@@ -1,11 +1,12 @@
 ---
-title: IPlacedLayerResource.Items
-second_title: Aspose.PSD for .NET API 参考
-description: IPlacedLayerResource 财产. 获取或设置扭曲项
+title: "IPlacedLayerResource.Items"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "IPlacedLayerResource 属性。获取或设置变形项"
 type: docs
 weight: 70
 url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/items/
 ---
+{{< psd/tize >}}
 ## IPlacedLayerResource.Items property
 
 获取或设置扭曲项。
@@ -14,15 +15,15 @@ url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresour
 public OSTypeStructure[] Items { get; set; }
 ```
 
-### 适当的价值
+### Property Value
 
-经线物品.
+变形项。
 
-### 也可以看看
+### 另请参阅
 
 * class [OSTypeStructure](../../ostypestructure/)
 * interface [IPlacedLayerResource](../)
-* 命名空间 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../iplacedlayerresource/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

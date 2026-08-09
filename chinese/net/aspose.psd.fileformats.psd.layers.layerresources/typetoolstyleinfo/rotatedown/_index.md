@@ -1,27 +1,28 @@
 ---
-title: TypeToolStyleInfo.RotateDown
-second_title: Aspose.PSD for .NET API 参考
-description: TypeToolStyleInfo 财产. 获取或设置是否为向下旋转样式的值
+title: "TypeToolStyleInfo.RotateDown"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "TypeToolStyleInfo 属性。获取或设置一个值，指示它是否为向下旋转样式"
 type: docs
 weight: 80
 url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources/typetoolstyleinfo/rotatedown/
 ---
+{{< psd/tize >}}
 ## TypeToolStyleInfo.RotateDown property
 
-获取或设置是否为向下旋转样式的值。
+获取或设置一个值，指示它是否为向下旋转样式。
 
 ```csharp
 public bool RotateDown { get; set; }
 ```
 
-### 适当的价值
+### Property Value
 
-`真的`如果是向下旋转样式；否则，`错误的` .
+`true` 如果它是向下旋转样式；否则为 `false`。
 
-### 也可以看看
+### 另请参阅
 
 * class [TypeToolStyleInfo](../)
-* 命名空间 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../typetoolstyleinfo/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

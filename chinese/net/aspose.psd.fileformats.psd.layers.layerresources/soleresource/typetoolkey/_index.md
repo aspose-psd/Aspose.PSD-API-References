@@ -1,23 +1,24 @@
 ---
-title: SoLeResource.TypeToolKey
-second_title: Aspose.PSD for .NET API 参考
-description: SoLeResource 场地. 类型工具信息键SoLE.
+title: "SoLeResource.TypeToolKey"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "SoLeResource 字段。类型工具信息键 SoLE"
 type: docs
-weight: 30
+weight: 20
 url: /zh/net/aspose.psd.fileformats.psd.layers.layerresources/soleresource/typetoolkey/
 ---
+{{< psd/tize >}}
 ## SoLeResource.TypeToolKey field
 
-类型工具信息键：'SoLE'.
+类型工具信息键：'SoLE'。
 
 ```csharp
 public const int TypeToolKey;
 ```
 
-### 也可以看看
+### 另请参阅
 
 * class [SoLeResource](../)
-* 命名空间 [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../soleresource/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

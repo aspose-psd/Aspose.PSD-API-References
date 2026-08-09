@@ -1,20 +1,21 @@
 ---
-title: PixelDataFormat.GetRgba
-second_title: Aspose.PSD for .NET API 参考
-description: PixelDataFormat 方法. 获取每个样本具有指定位数的 RGBA 颜色
+title: "PixelDataFormat.GetRgba"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "PixelDataFormat 方法。获取具有指定每样本位数的 RGBA 颜色。"
 type: docs
 weight: 260
 url: /zh/net/aspose.psd/pixeldataformat/getrgba/
 ---
+{{< psd/tize >}}
 ## GetRgba(int) {#getrgba}
 
-获取每个样本具有指定位数的 RGBA 颜色。
+获取具有指定每样本位数的 RGBA 颜色。
 
 ```csharp
 public static PixelDataFormat GetRgba(int bitsPerSample)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
 | bitsPerSample | Int32 | 每个样本的位数。 |
 
@@ -22,24 +23,24 @@ public static PixelDataFormat GetRgba(int bitsPerSample)
 
 RGBA 颜色。
 
-### 也可以看看
+### 另请参阅
 
 * class [PixelDataFormat](../)
-* 命名空间 [Aspose.PSD](../../pixeldataformat/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## GetRgba(int, int, int, int) {#getrgba_1}
 
-获取每个样本具有指定位数的 RGBA 颜色。
+获取具有指定每样本位数的 RGBA 颜色。
 
 ```csharp
 public static PixelDataFormat GetRgba(int bitsPerRedChannel, int bitsPerGreenChannel, 
     int bitsPerBlueChannel, int bitsPerAlphaChannel)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
 | bitsPerRedChannel | Int32 | 每个红色通道的位数。 |
 | bitsPerGreenChannel | Int32 | 每个绿色通道的位数。 |
@@ -50,10 +51,10 @@ public static PixelDataFormat GetRgba(int bitsPerRedChannel, int bitsPerGreenCha
 
 RGBA 颜色。
 
-### 也可以看看
+### 另请参阅
 
 * class [PixelDataFormat](../)
-* 命名空间 [Aspose.PSD](../../pixeldataformat/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

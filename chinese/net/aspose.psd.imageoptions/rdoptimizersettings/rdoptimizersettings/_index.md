@@ -1,11 +1,12 @@
 ---
-title: RdOptimizerSettings.RdOptimizerSettings
-second_title: Aspose.PSD for .NET API 参考
-description: RdOptimizerSettings 构造函数. 默认构造函数
+title: "RdOptimizerSettings.RdOptimizerSettings"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "RdOptimizerSettings 构造函数。默认构造函数"
 type: docs
 weight: 10
 url: /zh/net/aspose.psd.imageoptions/rdoptimizersettings/rdoptimizersettings/
 ---
+{{< psd/tize >}}
 ## RdOptimizerSettings constructor
 
 默认构造函数。
@@ -14,10 +15,10 @@ url: /zh/net/aspose.psd.imageoptions/rdoptimizersettings/rdoptimizersettings/
 public RdOptimizerSettings()
 ```
 
-### 也可以看看
+### 另请参阅
 
 * class [RdOptimizerSettings](../)
-* 命名空间 [Aspose.PSD.ImageOptions](../../rdoptimizersettings/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

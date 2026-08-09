@@ -1,11 +1,12 @@
 ---
-title: TiffSRational.ApproximateFraction
-second_title: Aspose.PSD for .NET API 参考
-description: TiffSRational 方法. 将提供的值近似为分数
+title: "TiffSRational.ApproximateFraction"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "TiffSRational 方法。将提供的值近似为分数"
 type: docs
 weight: 20
 url: /zh/net/aspose.psd.fileformats.tiff/tiffsrational/approximatefraction/
 ---
+{{< psd/tize >}}
 ## ApproximateFraction(double, double) {#approximatefraction_1}
 
 将提供的值近似为分数。
@@ -14,20 +15,20 @@ url: /zh/net/aspose.psd.fileformats.tiff/tiffsrational/approximatefraction/
 public static TiffSRational ApproximateFraction(double value, double epsilon)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| value | Double | 价值。 |
-| epsilon | Double | 允许的错误。 |
+| 值 | 双精度 | 该值。 |
+| epsilon | 双精度 | 允许的错误。 |
 
 ### 返回值
 
-误差小于的有理数*epsilon*.
+误差小于 *epsilon* 的有理数。
 
-### 也可以看看
+### 另请参阅
 
 * class [TiffSRational](../)
-* 命名空间 [Aspose.PSD.FileFormats.Tiff](../../tiffsrational/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff](../../../aspose.psd.fileformats.tiff/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
@@ -39,19 +40,19 @@ public static TiffSRational ApproximateFraction(double value, double epsilon)
 public static TiffSRational ApproximateFraction(double value)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| value | Double | 价值。 |
+| 值 | 双精度 | 该值。 |
 
 ### 返回值
 
-误差小于的有理数[`Epsilon`](../epsilon/) .
+误差小于 [`Epsilon`](../epsilon/) 的有理数。
 
-### 也可以看看
+### 另请参阅
 
 * class [TiffSRational](../)
-* 命名空间 [Aspose.PSD.FileFormats.Tiff](../../tiffsrational/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff](../../../aspose.psd.fileformats.tiff/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
@@ -63,20 +64,20 @@ public static TiffSRational ApproximateFraction(double value)
 public static TiffSRational ApproximateFraction(float value, double epsilon)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| value | Single | 价值。 |
-| epsilon | Double | 允许的错误。 |
+| 值 | 单精度 | 该值。 |
+| epsilon | 双精度 | 允许的错误。 |
 
 ### 返回值
 
-误差小于的有理数*epsilon*.
+误差小于 *epsilon* 的有理数。
 
-### 也可以看看
+### 另请参阅
 
 * class [TiffSRational](../)
-* 命名空间 [Aspose.PSD.FileFormats.Tiff](../../tiffsrational/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff](../../../aspose.psd.fileformats.tiff/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
@@ -88,18 +89,18 @@ public static TiffSRational ApproximateFraction(float value, double epsilon)
 public static TiffSRational ApproximateFraction(float value)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| value | Single | 价值。 |
+| 值 | 单精度 | 该值。 |
 
 ### 返回值
 
-误差小于的有理数[`Epsilon`](../epsilon/) .
+误差小于 [`Epsilon`](../epsilon/) 的有理数。
 
-### 也可以看看
+### 另请参阅
 
 * class [TiffSRational](../)
-* 命名空间 [Aspose.PSD.FileFormats.Tiff](../../tiffsrational/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff](../../../aspose.psd.fileformats.tiff/)
+* assembly [Aspose.PSD](../../../)
 
 

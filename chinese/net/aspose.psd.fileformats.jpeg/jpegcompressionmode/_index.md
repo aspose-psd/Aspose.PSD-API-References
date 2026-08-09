@@ -1,11 +1,12 @@
 ---
-title: Enum JpegCompressionMode
-second_title: Aspose.PSD for .NET API 参考
-description: Aspose.PSD.FileFormats.Jpeg.JpegCompressionMode 枚举. jpeg 图像的压缩模式
+title: "枚举 JpegCompressionMode"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "Aspose.PSD.FileFormats.Jpeg.JpegCompressionMode 枚举。jpeg 图像的压缩模式。"
 type: docs
-weight: 1500
+weight: 1510
 url: /zh/net/aspose.psd.fileformats.jpeg/jpegcompressionmode/
 ---
+{{< psd/tize >}}
 ## JpegCompressionMode enumeration
 
 jpeg 图像的压缩模式。
@@ -14,18 +15,18 @@ jpeg 图像的压缩模式。
 public enum JpegCompressionMode
 ```
 
-### 价值观
+### 值
 
-| 姓名 | 价值 | 描述 |
+| 名称 | 值 | 描述 |
 | --- | --- | --- |
 | Baseline | `0` | 基线压缩。 |
 | Progressive | `1` | 渐进式压缩。 |
-| Lossless | `2` | 无损压缩. |
+| Lossless | `2` | 无损压缩。 |
 | JpegLs | `3` | JPEG-LS 压缩。 |
 
-### 也可以看看
+### 另请参阅
 
-* 命名空间 [Aspose.PSD.FileFormats.Jpeg](../../aspose.psd.fileformats.jpeg/)
-* 部件 [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Jpeg](../../aspose.psd.fileformats.jpeg/)
+* assembly [Aspose.PSD](../../)
 
 

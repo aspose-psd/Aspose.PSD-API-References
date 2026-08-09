@@ -1,32 +1,33 @@
 ---
-title: LoadOptions.DataBackgroundColor
-second_title: Aspose.PSD for .NET API 参考
-description: LoadOptions 财产. 获取或设置Image背景Color .
+title: "LoadOptions.DataBackgroundColor"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "LoadOptions 属性。获取或设置 Image 背景颜色"
 type: docs
 weight: 30
 url: /zh/net/aspose.psd/loadoptions/databackgroundcolor/
 ---
+{{< psd/tize >}}
 ## LoadOptions.DataBackgroundColor property
 
-获取或设置[`Image`](../../image/)背景[`Color`](../../color/) .
+获取或设置 [`Image`](../../image/) 背景 [`Color`](../../color/)。
 
 ```csharp
 public Color DataBackgroundColor { get; set; }
 ```
 
-### 适当的价值
+### Property Value
 
-背景颜色.
+背景颜色。
 
-### 评论
+## 备注
 
-通常，只要由于数据损坏而无法恢复像素值，就会设置背景颜色。
+通常在由于数据损坏导致像素值无法恢复时设置背景颜色。
 
-### 也可以看看
+### 另请参阅
 
 * struct [Color](../../color/)
 * class [LoadOptions](../)
-* 命名空间 [Aspose.PSD](../../loadoptions/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

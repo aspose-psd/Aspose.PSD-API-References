@@ -1,14 +1,15 @@
 ---
-title: Class ColorMatrixExtensions
-second_title: Aspose.PSD for .NET API 参考
-description: Aspose.PSD.Extensions.ColorMatrixExtensions 班级. 的ColorMatrix扩展方法.
+title: "类 ColorMatrixExtensions"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "Aspose.PSD.Extensions.ColorMatrixExtensions 类。ColorMatrix 扩展方法。"
 type: docs
-weight: 1070
+weight: 1080
 url: /zh/net/aspose.psd.extensions/colormatrixextensions/
 ---
+{{< psd/tize >}}
 ## ColorMatrixExtensions class
 
-的[`ColorMatrix`](../../aspose.psd/colormatrix/)扩展方法.
+[`ColorMatrix`](../../aspose.psd/colormatrix/) 的扩展方法。
 
 ```csharp
 public static class ColorMatrixExtensions
@@ -16,13 +17,13 @@ public static class ColorMatrixExtensions
 
 ## 方法
 
-| 姓名 | 描述 |
+| 名称 | 描述 |
 | --- | --- |
-| static [ToGdiColorMatrix](../../aspose.psd.extensions/colormatrixextensions/togdicolormatrix/)(ColorMatrix) | 转换[`ColorMatrix`](../../aspose.psd/colormatrix/)到ColorMatrix . |
+| static [ToGdiColorMatrix](../../aspose.psd.extensions/colormatrixextensions/togdicolormatrix/)(ColorMatrix) | 将 [`ColorMatrix`](../../aspose.psd/colormatrix/) 转换为 ColorMatrix。 |
 
-### 也可以看看
+### 另请参阅
 
-* 命名空间 [Aspose.PSD.Extensions](../../aspose.psd.extensions/)
-* 部件 [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Extensions](../../aspose.psd.extensions/)
+* assembly [Aspose.PSD](../../)
 
 

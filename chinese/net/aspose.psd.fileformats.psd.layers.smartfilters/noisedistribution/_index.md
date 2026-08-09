@@ -1,29 +1,30 @@
 ---
-title: Enum NoiseDistribution
-second_title: Aspose.PSD for .NET API 参考
-description: Aspose.PSD.FileFormats.Psd.Layers.SmartFilters.NoiseDistribution 枚举. 噪声滤波器的分布
+title: "枚举 NoiseDistribution"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "Aspose.PSD.FileFormats.Psd.Layers.SmartFilters.NoiseDistribution 枚举。噪声过滤器的分布"
 type: docs
-weight: 3440
+weight: 3850
 url: /zh/net/aspose.psd.fileformats.psd.layers.smartfilters/noisedistribution/
 ---
+{{< psd/tize >}}
 ## NoiseDistribution enumeration
 
-噪声滤波器的分布。
+噪声过滤器的分布。
 
 ```csharp
 public enum NoiseDistribution
 ```
 
-### 价值观
+### 值
 
-| 姓名 | 价值 | 描述 |
+| 名称 | 值 | 描述 |
 | --- | --- | --- |
-| Uniform | `0` | 均匀的噪声分布。 |
+| Uniform | `0` | 均匀噪声分布。 |
 | Gaussian | `1` | 高斯噪声分布。 |
 
-### 例子
+## 示例
 
-此示例演示了对智能过滤器接口的支持。
+此示例演示了智能过滤器接口的支持。
 
 ```csharp
 [C#]
@@ -46,13 +47,13 @@ using (var image = (PsdImage)Image.Load(sourceFilte))
     // 编辑智能过滤器
     GaussianBlurSmartFilter gaussianBlur = (GaussianBlurSmartFilter)smartObj.SmartFilters.Filters[0];
 
-    // 检查过滤值
+    // 检查过滤器值
     AssertAreEqual(3.1, gaussianBlur.Radius);
     AssertAreEqual(BlendMode.Dissolve, gaussianBlur.BlendMode);
     AssertAreEqual(90d, gaussianBlur.Opacity);
     AssertAreEqual(true, gaussianBlur.IsEnabled);
 
-    // 更新过滤值
+    // 更新过滤器值
     gaussianBlur.Radius = 1;
     gaussianBlur.BlendMode = BlendMode.Divide;
     gaussianBlur.Opacity = 75;
@@ -60,7 +61,7 @@ using (var image = (PsdImage)Image.Load(sourceFilte))
     AddNoiseSmartFilter addNoise = (AddNoiseSmartFilter)smartObj.SmartFilters.Filters[1];
     addNoise.Distribution = NoiseDistribution.Uniform;
 
-    // 添加新的过滤项
+    // 添加新过滤器项
     var filters = new List<SmartFilter>(smartObj.SmartFilters.Filters);
     filters.Add(new GaussianBlurSmartFilter());
     filters.Add(new AddNoiseSmartFilter());
@@ -82,7 +83,7 @@ using (var image = (PsdImage)Image.Load(outputPsd))
 
     GaussianBlurSmartFilter gaussianBlur = (GaussianBlurSmartFilter)smartObj.SmartFilters.Filters[0];
 
-    // 检查过滤值
+    // 检查过滤器值
     AssertAreEqual(1d, gaussianBlur.Radius);
     AssertAreEqual(BlendMode.Divide, gaussianBlur.BlendMode);
     AssertAreEqual(75d, gaussianBlur.Opacity);
@@ -93,9 +94,9 @@ using (var image = (PsdImage)Image.Load(outputPsd))
 }
 ```
 
-### 也可以看看
+### 另请参阅
 
-* 命名空间 [Aspose.PSD.FileFormats.Psd.Layers.SmartFilters](../../aspose.psd.fileformats.psd.layers.smartfilters/)
-* 部件 [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.SmartFilters](../../aspose.psd.fileformats.psd.layers.smartfilters/)
+* assembly [Aspose.PSD](../../)
 
 

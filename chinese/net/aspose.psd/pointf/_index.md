@@ -1,14 +1,15 @@
 ---
-title: Struct PointF
-second_title: Aspose.PSD for .NET API 参考
-description: Aspose.PSD.PointF 结构. 表示定义二维平面中的点的有序浮点 x 和 y 坐标对
+title: "结构体 PointF"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "Aspose.PSD.PointF 结构体。表示定义二维平面中点的有序浮点数 x 和 y 坐标对。"
 type: docs
-weight: 5270
+weight: 5770
 url: /zh/net/aspose.psd/pointf/
 ---
+{{< psd/tize >}}
 ## PointF structure
 
-表示定义二维平面中的点的有序浮点 x 和 y 坐标对。
+表示浮点数 x、y 坐标的有序对，定义二维平面上的一点。
 
 ```csharp
 public struct PointF
@@ -16,38 +17,38 @@ public struct PointF
 
 ## 构造函数
 
-| 姓名 | 描述 |
+| 名称 | 描述 |
 | --- | --- |
-| [PointF](pointf/)(float, float) | 初始化一个新的实例`PointF`具有指定坐标的结构. |
+| [PointF](pointf/)(float, float) | 使用指定坐标初始化 `PointF` 结构的新实例。 |
 
-## 特性
+## 属性
 
-| 姓名 | 描述 |
+| 名称 | 描述 |
 | --- | --- |
-| static [Empty](../../aspose.psd/pointf/empty/) { get; } | 获取一个新的实例`PointF`具有的结构[`X`](./x/)和[`Y`](./y/)值设置为零. |
-| [IsEmpty](../../aspose.psd/pointf/isempty/) { get; } | 获取一个值，指示是否这`PointF`是空的. |
-| [X](../../aspose.psd/pointf/x/) { get; set; } | 获取或设置此的 x 坐标`PointF` . |
-| [Y](../../aspose.psd/pointf/y/) { get; set; } | 获取或设置 this 的 y 坐标`PointF` . |
+| static [Empty](../../aspose.psd/pointf/empty/) { get; } | 获取一个 `PointF` 结构的新实例，其 [`X`](./x/) 和 [`Y`](./y/) 值设为零。 |
+| [IsEmpty](../../aspose.psd/pointf/isempty/) { get; } | 获取一个值，指示此 `PointF` 是否为空。 |
+| [X](../../aspose.psd/pointf/x/) { get; set; } | 获取或设置此 `PointF` 的 x 坐标。 |
+| [Y](../../aspose.psd/pointf/y/) { get; set; } | 获取或设置此 `PointF` 的 y 坐标。 |
 
 ## 方法
 
-| 姓名 | 描述 |
+| 名称 | 描述 |
 | --- | --- |
-| static [Add](../../aspose.psd/pointf/add/#add)(PointF, Size) | 翻译给定的`PointF`由指定的[`Size`](../size/) . |
-| static [Add](../../aspose.psd/pointf/add/#add_1)(PointF, SizeF) | 翻译给定的`PointF`由指定的[`SizeF`](../sizef/) . |
-| static [Subtract](../../aspose.psd/pointf/subtract/#subtract)(PointF, Size) | 翻译一个`PointF`指定大小的负数. |
-| static [Subtract](../../aspose.psd/pointf/subtract/#subtract_1)(PointF, SizeF) | 翻译一个`PointF`指定大小的负数. |
-| override [Equals](../../aspose.psd/pointf/equals/)(object) | 指定是否这`PointF`包含与指定相同的坐标Object . |
-| override [GetHashCode](../../aspose.psd/pointf/gethashcode/)() | 返回一个散列码`PointF`结构. |
-| override [ToString](../../aspose.psd/pointf/tostring/)() | 转换这个`PointF`到人类可读的字符串. |
-| [operator +](../../aspose.psd/pointf/op_addition/#op_addition) | 翻译一个`PointF`通过给定的[`Size`](../size/) . (2 operators) |
-| [operator ==](../../aspose.psd/pointf/op_equality/) | 比较两个`PointF`结构。结果指定的值是否[`X`](./x/)和[`Y`](./y/)两者的属性`PointF`结构相等. |
-| [operator !=](../../aspose.psd/pointf/op_inequality/) | 判断指定点的坐标是否不相等。 |
-| [operator -](../../aspose.psd/pointf/op_subtraction/#op_subtraction) | 翻译一个`PointF`由给定的负[`Size`](../size/) . (2 operators) |
+| static [Add](../../aspose.psd/pointf/add/#add)(PointF, Size) | 按指定的 [`Size`](../size/) 平移给定的 `PointF`。 |
+| static [Add](../../aspose.psd/pointf/add/#add_1)(PointF, SizeF) | 按指定的 [`SizeF`](../sizef/) 平移给定的 `PointF`。 |
+| static [Subtract](../../aspose.psd/pointf/subtract/#subtract)(PointF, Size) | 按指定尺寸的负值平移 `PointF`。 |
+| static [Subtract](../../aspose.psd/pointf/subtract/#subtract_1)(PointF, SizeF) | 按指定尺寸的负值平移 `PointF`。 |
+| override [Equals](../../aspose.psd/pointf/equals/)(object) | 指定此 `PointF` 是否包含与指定对象相同的坐标。 |
+| override [GetHashCode](../../aspose.psd/pointf/gethashcode/)() | 返回此 `PointF` 结构的哈希码。 |
+| override [ToString](../../aspose.psd/pointf/tostring/)() | 将此 `PointF` 转换为可读的字符串。 |
+| [operator +](../../aspose.psd/pointf/op_addition/#op_addition) | 按给定的 [`Size`](../size/) 平移 `PointF`。（2 个运算符） |
+| [operator ==](../../aspose.psd/pointf/op_equality/) | 比较两个 `PointF` 结构。结果指定两个 `PointF` 结构的 [`X`](./x/) 和 [`Y`](./y/) 属性值是否相等。 |
+| [operator !=](../../aspose.psd/pointf/op_inequality/) | 确定指定点的坐标是否不相等。 |
+| [operator -](../../aspose.psd/pointf/op_subtraction/#op_subtraction) | 按给定的 [`Size`](../size/) 的负值平移 `PointF`。（2 个运算符） |
 
-### 也可以看看
+### 另请参阅
 
-* 命名空间 [Aspose.PSD](../../aspose.psd/)
-* 部件 [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

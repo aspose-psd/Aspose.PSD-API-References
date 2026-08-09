@@ -1,11 +1,12 @@
 ---
-title: Blend.Factors
-second_title: Aspose.PSD for .NET API 参考
-description: Blend 财产. 获取或设置渐变的混合因子数组
+title: "Blend.Factors"
+second_title: "Aspose.PSD for .NET API 参考"
+description: "Blend 属性。获取或设置用于渐变的混合因子数组。"
 type: docs
 weight: 20
 url: /zh/net/aspose.psd/blend/factors/
 ---
+{{< psd/tize >}}
 ## Blend.Factors property
 
 获取或设置渐变的混合因子数组。
@@ -14,14 +15,14 @@ url: /zh/net/aspose.psd/blend/factors/
 public float[] Factors { get; set; }
 ```
 
-### 适当的价值
+### Property Value
 
-指定要在相应位置使用的起始颜色和结束颜色的百分比的混合因子数组。
+混合因子数组，用于指定在相应位置使用的起始颜色和结束颜色的百分比。
 
-### 也可以看看
+### 另请参阅
 
 * class [Blend](../)
-* 命名空间 [Aspose.PSD](../../blend/)
-* 部件 [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 
