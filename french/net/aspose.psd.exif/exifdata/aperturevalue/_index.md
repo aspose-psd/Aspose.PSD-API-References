@@ -1,28 +1,29 @@
 ---
-title: ExifData.ApertureValue
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: ExifData propriété. Obtient ou définit la valeur douverture.
+title: "ExifData.ApertureValue"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété ExifData. Obtient ou définit la valeur d'ouverture"
 type: docs
 weight: 20
 url: /fr/net/aspose.psd.exif/exifdata/aperturevalue/
 ---
+{{< psd/tize >}}
 ## ExifData.ApertureValue property
 
-Obtient ou définit la valeur d'ouverture.
+Obtient ou définit la valeur de l'ouverture.
 
 ```csharp
 public TiffRational ApertureValue { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
 La valeur d'ouverture.
 
-### Voir également
+### Voir aussi
 
 * class [TiffRational](../../../aspose.psd.fileformats.tiff/tiffrational/)
 * class [ExifData](../)
-* espace de noms [Aspose.PSD.Exif](../../exifdata/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

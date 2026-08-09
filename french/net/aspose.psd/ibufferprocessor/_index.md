@@ -1,11 +1,12 @@
 ---
-title: Interface IBufferProcessor
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: Aspose.PSD.IBufferProcessor interface. Le processeur de tampon.
+title: "Interface IBufferProcessor"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Aspose.PSD.IBufferProcessor interface. Le processeur de tampon"
 type: docs
-weight: 4370
+weight: 4840
 url: /fr/net/aspose.psd/ibufferprocessor/
 ---
+{{< psd/tize >}}
 ## IBufferProcessor interface
 
 Le processeur de tampon.
@@ -16,13 +17,13 @@ public interface IBufferProcessor
 
 ## Méthodes
 
-| Nom | La description |
+| Nom | Description |
 | --- | --- |
 | [ProcessBuffer](../../aspose.psd/ibufferprocessor/processbuffer/)(byte[], int) | Traite le tampon. |
 
-### Voir également
+### Voir aussi
 
-* espace de noms [Aspose.PSD](../../aspose.psd/)
-* Assemblée [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

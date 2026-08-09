@@ -1,27 +1,28 @@
 ---
-title: BilateralSmoothingFilterOptions.ColorPower
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: BilateralSmoothingFilterOptions propriété. Obtient ou définit la puissance des couleurs.
+title: "BilateralSmoothingFilterOptions.ColorPower"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "BilateralSmoothingFilterOptions propriété. Obtient ou définit la puissance de couleur"
 type: docs
 weight: 30
 url: /fr/net/aspose.psd.imagefilters.filteroptions/bilateralsmoothingfilteroptions/colorpower/
 ---
+{{< psd/tize >}}
 ## BilateralSmoothingFilterOptions.ColorPower property
 
-Obtient ou définit la puissance des couleurs.
+Obtient ou définit la puissance de couleur.
 
 ```csharp
 public double ColorPower { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
-La puissance des couleurs.
+La puissance de couleur.
 
-### Voir également
+### Voir aussi
 
 * class [BilateralSmoothingFilterOptions](../)
-* espace de noms [Aspose.PSD.ImageFilters.FilterOptions](../../bilateralsmoothingfilteroptions/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageFilters.FilterOptions](../../../aspose.psd.imagefilters.filteroptions/)
+* assembly [Aspose.PSD](../../../)
 
 

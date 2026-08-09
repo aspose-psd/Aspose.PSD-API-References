@@ -1,11 +1,12 @@
 ---
-title: Enum FillMode
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: Aspose.PSD.FillMode énumération. Spécifie comment lintérieur dun chemin fermé est rempli.
+title: "Énumération FillMode"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Aspose.PSD.FillMode enum. Spécifie comment l'intérieur d'un chemin fermé est rempli"
 type: docs
-weight: 4260
+weight: 4730
 url: /fr/net/aspose.psd/fillmode/
 ---
+{{< psd/tize >}}
 ## FillMode enumeration
 
 Spécifie comment l'intérieur d'un chemin fermé est rempli.
@@ -16,14 +17,14 @@ public enum FillMode
 
 ### Valeurs
 
-| Nom | Évaluer | La description |
+| Nom | Valeur | Description |
 | --- | --- | --- |
 | Alternate | `0` | Spécifie le mode de remplissage alternatif. |
-| Winding | `1` | Spécifie le mode de remplissage d'enroulement. |
+| Winding | `1` | Spécifie le mode de remplissage enroulé. |
 
-### Voir également
+### Voir aussi
 
-* espace de noms [Aspose.PSD](../../aspose.psd/)
-* Assemblée [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

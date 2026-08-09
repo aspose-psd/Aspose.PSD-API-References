@@ -1,28 +1,29 @@
 ---
-title: Version.VersionEvent
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: Version propriété. Obtient ou définit leResourceEvent .
+title: "Version.VersionEvent"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété Version. Obtient ou définit le ResourceEvent"
 type: docs
 weight: 50
 url: /fr/net/aspose.psd.xmp.types.complex.version/version/versionevent/
 ---
+{{< psd/tize >}}
 ## Version.VersionEvent property
 
-Obtient ou définit le[`ResourceEvent`](../../../aspose.psd.xmp.types.complex.resourceevent/resourceevent/) .
+Obtient ou définit le [`ResourceEvent`](../../../aspose.psd.xmp.types.complex.resourceevent/resourceevent/).
 
 ```csharp
 public ResourceEvent VersionEvent { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
 L'événement de version.
 
-### Voir également
+### Voir aussi
 
 * class [ResourceEvent](../../../aspose.psd.xmp.types.complex.resourceevent/resourceevent/)
 * class [Version](../)
-* espace de noms [Aspose.PSD.Xmp.Types.Complex.Version](../../version/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.Version](../../../aspose.psd.xmp.types.complex.version/)
+* assembly [Aspose.PSD](../../../)
 
 

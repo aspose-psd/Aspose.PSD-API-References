@@ -1,27 +1,28 @@
 ---
-title: GaussWienerFilterOptions.Smooth
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: GaussWienerFilterOptions propriété. Obtient ou définit le lissage.
+title: "GaussWienerFilterOptions.Smooth"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété GaussWienerFilterOptions. Obtient ou définit le lissage"
 type: docs
 weight: 30
 url: /fr/net/aspose.psd.imagefilters.filteroptions/gausswienerfilteroptions/smooth/
 ---
+{{< psd/tize >}}
 ## GaussWienerFilterOptions.Smooth property
 
-Obtient ou définit le lissage.
+Obtient ou définit le smooth.
 
 ```csharp
 public double Smooth { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
-Le lisse.
+Le lissage.
 
-### Voir également
+### Voir aussi
 
 * class [GaussWienerFilterOptions](../)
-* espace de noms [Aspose.PSD.ImageFilters.FilterOptions](../../gausswienerfilteroptions/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageFilters.FilterOptions](../../../aspose.psd.imagefilters.filteroptions/)
+* assembly [Aspose.PSD](../../../)
 
 

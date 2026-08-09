@@ -1,14 +1,15 @@
 ---
-title: Interface ITextParagraph
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: Aspose.PSD.FileFormats.Psd.Layers.Text.ITextParagraph interface. Linterface pour travailler avec paragraphe
+title: "Interface ITextParagraph"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Interface Aspose.PSD.FileFormats.Psd.Layers.Text.ITextParagraph. L'interface pour travailler avec les paragraphes"
 type: docs
-weight: 3520
+weight: 3940
 url: /fr/net/aspose.psd.fileformats.psd.layers.text/itextparagraph/
 ---
+{{< psd/tize >}}
 ## ITextParagraph interface
 
-L'interface pour travailler avec paragraphe
+L'interface pour travailler avec les paragraphes
 
 ```csharp
 public interface ITextParagraph
@@ -16,40 +17,40 @@ public interface ITextParagraph
 
 ## Propriétés
 
-| Nom | La description |
+| Nom | Description |
 | --- | --- |
-| [AutoHyphenate](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/autohyphenate/) { get; set; } | Obtient ou définit une valeur indiquant si [trait d'union automatique]. |
-| [AutoLeading](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/autoleading/) { get; set; } | Obtient ou définit l'interlignage automatique. |
-| [Burasagari](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/burasagari/) { get; set; } | Obtient ou définit une valeur indiquant si cette`ITextParagraph`est burasagiri. |
-| [ConsecutiveHyphens](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/consecutivehyphens/) { get; set; } | Obtient ou définit les traits d'union consécutifs. |
-| [EndIndent](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/endindent/) { get; set; } | Obtient ou définit le retrait final. |
+| [AutoHyphenate](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/autohyphenate/) { get; set; } | Obtient ou définit une valeur indiquant si [automatic hyphenate]. |
+| [AutoLeading](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/autoleading/) { get; set; } | Obtient ou définit l'interligne automatique. |
+| [Burasagari](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/burasagari/) { get; set; } | Obtient ou définit une valeur indiquant si ce `ITextParagraph` est burasagiri. |
+| [ConsecutiveHyphens](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/consecutivehyphens/) { get; set; } | Obtient ou définit les tirets consécutifs. |
+| [EndIndent](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/endindent/) { get; set; } | Obtient ou définit le retrait de fin. |
 | [EveryLineComposer](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/everylinecomposer/) { get; set; } | Obtient ou définit une valeur indiquant si [every line composer]. |
-| [FirstLineIndent](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/firstlineindent/) { get; set; } | Obtient ou définit le retrait de première ligne. |
+| [FirstLineIndent](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/firstlineindent/) { get; set; } | Obtient ou définit le retrait de la première ligne. |
 | [GlyphSpacing](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/glyphspacing/) { get; set; } | Obtient ou définit l'espacement des glyphes. |
-| [Hanging](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/hanging/) { get; set; } | Obtient ou définit une valeur indiquant si cette`ITextParagraph` est suspendu. |
-| [HyphenatedWordSize](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/hyphenatedwordsize/) { get; set; } | Obtient ou définit la taille du mot avec trait d'union. |
+| [Hanging](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/hanging/) { get; set; } | Obtient ou définit une valeur indiquant si ce `ITextParagraph` est suspendu. |
+| [HyphenatedWordSize](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/hyphenatedwordsize/) { get; set; } | Obtient ou définit la taille du mot hyphéné. |
 | [Justification](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/justification/) { get; set; } | Obtient ou définit la justification. |
 | [KinsokuOrder](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/kinsokuorder/) { get; set; } | Obtient ou définit l'ordre kinsoku. |
-| [LeadingType](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/leadingtype/) { get; set; } | Obtient ou définit le type de début. |
-| [LetterSpacing](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/letterspacing/) { get; set; } | Obtient ou définit l'espacement des lettres. |
-| [PostHyphen](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/posthyphen/) { get; set; } | Obtient ou définit le trait d'union. |
-| [PreHyphen](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/prehyphen/) { get; set; } | Obtient ou définit le prétrait d'union. |
+| [LeadingType](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/leadingtype/) { get; set; } | Obtient ou définit le type du leading. |
+| [LetterSpacing](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/letterspacing/) { get; set; } | Obtient ou définit l'espacement des caractères. |
+| [PostHyphen](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/posthyphen/) { get; set; } | Obtient ou définit le tiret postérieur. |
+| [PreHyphen](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/prehyphen/) { get; set; } | Obtient ou définit le tiret antérieur. |
 | [SpaceAfter](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/spaceafter/) { get; set; } | Obtient ou définit l'espace après. |
 | [SpaceBefore](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/spacebefore/) { get; set; } | Obtient ou définit l'espace avant. |
-| [StartIndent](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/startindent/) { get; set; } | Obtient ou définit le retrait de début. |
+| [StartIndent](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/startindent/) { get; set; } | Obtient ou définit le retrait de départ. |
 | [WordSpacing](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/wordspacing/) { get; set; } | Obtient ou définit l'espacement des mots. |
 | [Zone](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/zone/) { get; set; } | Obtient ou définit la zone. |
 
 ## Méthodes
 
-| Nom | La description |
+| Nom | Description |
 | --- | --- |
 | [Apply](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/apply/)(ITextParagraph) | Applique le paragraphe spécifié. |
 | [IsEqual](../../aspose.psd.fileformats.psd.layers.text/itextparagraph/isequal/)(ITextParagraph) | Détermine si le paragraphe spécifié est égal. |
 
-### Exemples
+## Exemples
 
-L'exemple suivant montre que l'alignement du texte via ITextPortion pour les langues s'écrivant de droite à gauche fonctionne correctement.
+L'exemple suivant montre que l'alignement du texte via ITextPortion pour les langues de droite à gauche fonctionne correctement.
 
 ```csharp
 [C#]
@@ -69,7 +70,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
 }
 ```
 
-L'exemple de code suivant illustre la modification de portions de texte et leur style de texte.
+L'exemple de code suivant montre l'édition des portions de texte et leur style de texte.
 
 ```csharp
 [C#]
@@ -136,7 +137,7 @@ using (var im = (PsdImage)Image.Load(filePath))
                     Math.Abs(paragraph.LetterSpacing[0]) > Tolerance ||
                     Math.Abs(paragraph.LetterSpacing[1]) > Tolerance ||
                     Math.Abs(paragraph.LetterSpacing[2]) > Tolerance ||
-                    paragraph.LeadingType != LeadingMode.Auto ||
+                    paragraph.LeadingType != LeadingType.BottomToBottom ||
                     paragraph.PreHyphen != 2 ||
                     paragraph.PostHyphen != 2 ||
                     Math.Abs(paragraph.SpaceBefore) > Tolerance ||
@@ -152,7 +153,7 @@ using (var im = (PsdImage)Image.Load(filePath))
             }
 
             // Vérification des données de style
-            // Les styles ont des couleurs et des tailles de police différentes
+            // Les styles ont des couleurs et une taille de police différentes
             if (Math.Abs(portions[0].Style.FontSize - 12) > Tolerance ||
                 Math.Abs(portions[1].Style.FontSize - 12) > Tolerance ||
                 Math.Abs(portions[2].Style.FontSize - 12) > Tolerance ||
@@ -199,18 +200,18 @@ using (var im = (PsdImage)Image.Load(filePath))
 
             portions = layer.TextData.Items;
 
-            // Exemple d'édition de paragraphe et de style pour les portions
+            // Exemple d'édition de paragraphes et de styles pour les portions
             // Définir la justification à droite
             portions[0].Paragraph.Justification = JustificationMode.Right;
             portions[1].Paragraph.Justification = JustificationMode.Right;
             portions[2].Paragraph.Justification = JustificationMode.Right;
 
-            // Différentes couleurs pour chaque style. Le sera modifié, mais le rendu n'est pas entièrement pris en charge
+            // Différentes couleurs pour chaque style. Elles seront modifiées, mais le rendu n'est pas entièrement pris en charge
             portions[0].Style.FillColor = Color.Aquamarine;
             portions[1].Style.FillColor = Color.Violet;
             portions[2].Style.FillColor = Color.LightBlue;
 
-            // Police différente. Le sera modifié, mais le rendu n'est pas entièrement pris en charge
+            // Police différente. Elle sera modifiée, mais le rendu n'est pas entièrement pris en charge
             portions[0].Style.FontSize = 6;
             portions[1].Style.FontSize = 8;
             portions[2].Style.FontSize = 10;
@@ -225,9 +226,9 @@ using (var im = (PsdImage)Image.Load(filePath))
 }
 ```
 
-### Voir également
+### Voir aussi
 
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.Text](../../aspose.psd.fileformats.psd.layers.text/)
-* Assemblée [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.Text](../../aspose.psd.fileformats.psd.layers.text/)
+* assembly [Aspose.PSD](../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: ImageLoadersRegistry.UnregisterLoader
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: ImageLoadersRegistry méthode. Désenregistre le chargeur.
+title: "ImageLoadersRegistry.UnregisterLoader"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Méthode ImageLoadersRegistry. Désenregistre le chargeur"
 type: docs
 weight: 90
 url: /fr/net/aspose.psd/imageloadersregistry/unregisterloader/
 ---
+{{< psd/tize >}}
 ## ImageLoadersRegistry.UnregisterLoader method
 
 Désenregistre le chargeur.
@@ -14,15 +15,15 @@ Désenregistre le chargeur.
 public static void UnregisterLoader(IImageLoaderDescriptor loaderDescriptor)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
-| loaderDescriptor | IImageLoaderDescriptor | Le descripteur de chargeur à désinscrire. |
+| loaderDescriptor | IImageLoaderDescriptor | Le descripteur de chargeur à désenregistrer. |
 
-### Voir également
+### Voir aussi
 
 * interface [IImageLoaderDescriptor](../../iimageloaderdescriptor/)
 * class [ImageLoadersRegistry](../)
-* espace de noms [Aspose.PSD](../../imageloadersregistry/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

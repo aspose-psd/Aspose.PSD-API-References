@@ -1,39 +1,40 @@
 ---
-title: TiffStreamReader.ReadRationalArray
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: TiffStreamReader méthode. Lit un tableau de valeurs rationnelles à partir du flux.
+title: "TiffStreamReader.ReadRationalArray"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Méthode TiffStreamReader. Lit un tableau de valeurs rationnelles depuis le flux"
 type: docs
 weight: 100
 url: /fr/net/aspose.psd.fileformats.tiff.filemanagement/tiffstreamreader/readrationalarray/
 ---
+{{< psd/tize >}}
 ## TiffStreamReader.ReadRationalArray method
 
-Lit un tableau de valeurs rationnelles à partir du flux.
+Lit un tableau de valeurs rationnelles depuis le flux.
 
 ```csharp
 public TiffRational[] ReadRationalArray(long position, long count)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
-| position | Int64 | La position à partir de laquelle lire. |
-| count | Int64 | Les éléments comptent. |
+| position | Int64 | La position à lire. |
+| count | Int64 | Le nombre d'éléments. |
 
-### Return_Value
+### Valeur de retour
 
-Le tableau des valeurs rationnelles.
+Le tableau de valeurs rationnelles.
 
 ### Exceptions
 
 | exception | condition |
 | --- | --- |
-| ArgumentOutOfRangeException | count; Attendu un nombre positif. |
+| ArgumentOutOfRangeException | count;Un nombre positif attendu. |
 
-### Voir également
+### Voir aussi
 
 * class [TiffRational](../../../aspose.psd.fileformats.tiff/tiffrational/)
 * class [TiffStreamReader](../)
-* espace de noms [Aspose.PSD.FileFormats.Tiff.FileManagement](../../tiffstreamreader/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff.FileManagement](../../../aspose.psd.fileformats.tiff.filemanagement/)
+* assembly [Aspose.PSD](../../../)
 
 

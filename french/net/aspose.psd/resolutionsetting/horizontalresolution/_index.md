@@ -1,11 +1,12 @@
 ---
-title: ResolutionSetting.HorizontalResolution
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: ResolutionSetting propriété. Obtient ou définit la résolution horizontale.
+title: "ResolutionSetting.HorizontalResolution"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "ResolutionSetting property. Obtient ou définit la résolution horizontale"
 type: docs
 weight: 20
 url: /fr/net/aspose.psd/resolutionsetting/horizontalresolution/
 ---
+{{< psd/tize >}}
 ## ResolutionSetting.HorizontalResolution property
 
 Obtient ou définit la résolution horizontale.
@@ -14,10 +15,10 @@ Obtient ou définit la résolution horizontale.
 public double HorizontalResolution { get; set; }
 ```
 
-### Voir également
+### Voir aussi
 
 * class [ResolutionSetting](../)
-* espace de noms [Aspose.PSD](../../resolutionsetting/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

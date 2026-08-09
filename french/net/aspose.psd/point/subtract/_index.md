@@ -1,33 +1,34 @@
 ---
-title: Point.Subtract
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: Point méthode. Renvoie le résultat de la soustraction spécifiéeSize à partir du spécifiéPoint .
+title: "Point.Subtract"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Méthode Point. Retourne le résultat de la soustraction du Size spécifié du Point spécifié."
 type: docs
 weight: 60
 url: /fr/net/aspose.psd/point/subtract/
 ---
+{{< psd/tize >}}
 ## Point.Subtract method
 
-Renvoie le résultat de la soustraction spécifiée[`Size`](../../size/) à partir du spécifié[`Point`](../) .
+Retourne le résultat de la soustraction du [`Size`](../../size/) spécifié du [`Point`](../) spécifié.
 
 ```csharp
 public static Point Subtract(Point point, Size size)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
-| point | Point | Le[`Point`](../) à soustraire. |
-| size | Size | Le[`Size`](../../size/) soustraire de la*point*. |
+| point | Point | Le [`Point`](../) à soustraire. |
+| size | Size | Le [`Size`](../../size/) à soustraire du *point*. |
 
-### Return_Value
+### Valeur de retour
 
-Le[`Point`](../) c'est le résultat de l'opération de soustraction.
+Le [`Point`](../) qui est le résultat de l'opération de soustraction.
 
-### Voir également
+### Voir aussi
 
 * struct [Size](../../size/)
 * struct [Point](../)
-* espace de noms [Aspose.PSD](../../point/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

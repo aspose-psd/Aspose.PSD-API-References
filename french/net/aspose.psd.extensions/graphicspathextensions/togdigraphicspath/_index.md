@@ -1,32 +1,33 @@
 ---
-title: GraphicsPathExtensions.ToGdiGraphicsPath
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: GraphicsPathExtensions méthode. Convertit leGraphicsPath auGraphicsPath .
+title: "GraphicsPathExtensions.ToGdiGraphicsPath"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Méthode GraphicsPathExtensions. Convertit le GraphicsPath en GraphicsPath"
 type: docs
 weight: 10
 url: /fr/net/aspose.psd.extensions/graphicspathextensions/togdigraphicspath/
 ---
+{{< psd/tize >}}
 ## GraphicsPathExtensions.ToGdiGraphicsPath method
 
-Convertit le[`GraphicsPath`](../../../aspose.psd/graphicspath/) auGraphicsPath .
+Convertit le [`GraphicsPath`](../../../aspose.psd/graphicspath/) en GraphicsPath.
 
 ```csharp
 public static GraphicsPath ToGdiGraphicsPath(GraphicsPath graphicsPath)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
 | graphicsPath | GraphicsPath | Le chemin graphique à convertir. |
 
-### Return_Value
+### Valeur de retour
 
-Le convertiGraphicsPath.
+Le GraphicsPath converti.
 
-### Voir également
+### Voir aussi
 
 * class [GraphicsPath](../../../aspose.psd/graphicspath/)
 * class [GraphicsPathExtensions](../)
-* espace de noms [Aspose.PSD.Extensions](../../graphicspathextensions/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Extensions](../../../aspose.psd.extensions/)
+* assembly [Aspose.PSD](../../../)
 
 

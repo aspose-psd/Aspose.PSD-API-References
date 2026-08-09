@@ -1,23 +1,24 @@
 ---
-title: Graphics.FillEllipse
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: Graphics méthode. Remplit lintérieur dune ellipse définie par un rectangle englobant spécifié par unRectangleFstructure.
+title: "Graphics.FillEllipse"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Méthode Graphics. Remplit l'intérieur d'une ellipse définie par un rectangle englobant spécifié par une structure RectangleF."
 type: docs
-weight: 350
+weight: 360
 url: /fr/net/aspose.psd/graphics/fillellipse/
 ---
+{{< psd/tize >}}
 ## FillEllipse(Brush, RectangleF) {#fillellipse_1}
 
-Remplit l'intérieur d'une ellipse définie par un rectangle englobant spécifié par un[`RectangleF`](../../rectanglef/)structure.
+Remplit l'intérieur d'une ellipse définie par un rectangle englobant spécifié par une structure [`RectangleF`](../../rectanglef/).
 
 ```csharp
 public void FillEllipse(Brush brush, RectangleF rect)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
-| brush | Brush | [`Brush`](../../brush/)qui détermine les caractéristiques du remblai. |
-| rect | RectangleF | [`RectangleF`](../../rectanglef/)structure qui représente le rectangle englobant qui définit l'ellipse. |
+| brush | Brush | [`Brush`](../../brush/) qui détermine les caractéristiques du remplissage. |
+| rect | RectangleF | Structure [`RectangleF`](../../rectanglef/) qui représente le rectangle englobant qui définit l'ellipse. |
 
 ### Exceptions
 
@@ -25,13 +26,13 @@ public void FillEllipse(Brush brush, RectangleF rect)
 | --- | --- |
 | ArgumentNullException | *brush* est nul. |
 
-### Voir également
+### Voir aussi
 
 * class [Brush](../../brush/)
 * struct [RectangleF](../../rectanglef/)
 * class [Graphics](../)
-* espace de noms [Aspose.PSD](../../graphics/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
@@ -43,13 +44,13 @@ Remplit l'intérieur d'une ellipse définie par un rectangle englobant spécifi�
 public void FillEllipse(Brush brush, float x, float y, float width, float height)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
-| brush | Brush | [`Brush`](../../brush/)qui détermine les caractéristiques du remblai. |
-| x | Single | Coordonnée x du coin supérieur gauche du rectangle englobant qui définit l'ellipse. |
-| y | Single | Coordonnée y du coin supérieur gauche du rectangle englobant qui définit l'ellipse. |
-| width | Single | Largeur du rectangle englobant qui définit l'ellipse. |
-| height | Single | Hauteur du rectangle englobant qui définit l'ellipse. |
+| brush | Brush | [`Brush`](../../brush/) qui détermine les caractéristiques du remplissage. |
+| x | Single | La coordonnée x du coin supérieur gauche du rectangle de délimitation qui définit l'ellipse. |
+| y | Single | La coordonnée y du coin supérieur gauche du rectangle de délimitation qui définit l'ellipse. |
+| largeur | Single | Largeur du rectangle de délimitation qui définit l'ellipse. |
+| hauteur | Single | Hauteur du rectangle de délimitation qui définit l'ellipse. |
 
 ### Exceptions
 
@@ -57,27 +58,27 @@ public void FillEllipse(Brush brush, float x, float y, float width, float height
 | --- | --- |
 | ArgumentNullException | *brush* est nul. |
 
-### Voir également
+### Voir aussi
 
 * class [Brush](../../brush/)
 * class [Graphics](../)
-* espace de noms [Aspose.PSD](../../graphics/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## FillEllipse(Brush, Rectangle) {#fillellipse}
 
-Remplit l'intérieur d'une ellipse définie par un rectangle englobant spécifié par un[`Rectangle`](../../rectangle/)structure.
+Remplit l'intérieur d'une ellipse définie par un rectangle englobant spécifié par une structure [`Rectangle`](../../rectangle/).
 
 ```csharp
 public void FillEllipse(Brush brush, Rectangle rect)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
-| brush | Brush | [`Brush`](../../brush/)qui détermine les caractéristiques du remblai. |
-| rect | Rectangle | [`Rectangle`](../../rectangle/)structure qui représente le rectangle englobant qui définit l'ellipse. |
+| brush | Brush | [`Brush`](../../brush/) qui détermine les caractéristiques du remplissage. |
+| rect | Rectangle | Structure [`Rectangle`](../../rectangle/) qui représente le rectangle englobant qui définit l'ellipse. |
 
 ### Exceptions
 
@@ -85,13 +86,13 @@ public void FillEllipse(Brush brush, Rectangle rect)
 | --- | --- |
 | ArgumentNullException | *brush* est nul. |
 
-### Voir également
+### Voir aussi
 
 * class [Brush](../../brush/)
 * struct [Rectangle](../../rectangle/)
 * class [Graphics](../)
-* espace de noms [Aspose.PSD](../../graphics/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
@@ -103,13 +104,13 @@ Remplit l'intérieur d'une ellipse définie par un rectangle englobant spécifi�
 public void FillEllipse(Brush brush, int x, int y, int width, int height)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
-| brush | Brush | [`Brush`](../../brush/)qui détermine les caractéristiques du remblai. |
-| x | Int32 | Coordonnée x du coin supérieur gauche du rectangle englobant qui définit l'ellipse. |
-| y | Int32 | Coordonnée y du coin supérieur gauche du rectangle englobant qui définit l'ellipse. |
-| width | Int32 | Largeur du rectangle englobant qui définit l'ellipse. |
-| height | Int32 | Hauteur du rectangle englobant qui définit l'ellipse. |
+| brush | Brush | [`Brush`](../../brush/) qui détermine les caractéristiques du remplissage. |
+| x | Int32 | La coordonnée x du coin supérieur gauche du rectangle de délimitation qui définit l'ellipse. |
+| y | Int32 | La coordonnée y du coin supérieur gauche du rectangle de délimitation qui définit l'ellipse. |
+| largeur | Int32 | Largeur du rectangle de délimitation qui définit l'ellipse. |
+| hauteur | Int32 | Hauteur du rectangle de délimitation qui définit l'ellipse. |
 
 ### Exceptions
 
@@ -117,11 +118,11 @@ public void FillEllipse(Brush brush, int x, int y, int width, int height)
 | --- | --- |
 | ArgumentNullException | *brush* est nul. |
 
-### Voir également
+### Voir aussi
 
 * class [Brush](../../brush/)
 * class [Graphics](../)
-* espace de noms [Aspose.PSD](../../graphics/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

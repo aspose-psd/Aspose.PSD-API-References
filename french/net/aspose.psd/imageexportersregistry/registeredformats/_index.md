@@ -1,11 +1,12 @@
 ---
-title: ImageExportersRegistry.RegisteredFormats
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: ImageExportersRegistry propriété. Obtient les formats dexportation enregistrés.
+title: "ImageExportersRegistry.RegisteredFormats"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété ImageExportersRegistry. Obtient les formats d’exportation enregistrés"
 type: docs
 weight: 20
 url: /fr/net/aspose.psd/imageexportersregistry/registeredformats/
 ---
+{{< psd/tize >}}
 ## ImageExportersRegistry.RegisteredFormats property
 
 Obtient les formats d'exportation enregistrés.
@@ -14,15 +15,15 @@ Obtient les formats d'exportation enregistrés.
 public static FileFormat RegisteredFormats { get; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
-Les formats d'exportation enregistrés.
+Les formats d’exportation enregistrés.
 
-### Voir également
+### Voir aussi
 
 * enum [FileFormat](../../fileformat/)
 * class [ImageExportersRegistry](../)
-* espace de noms [Aspose.PSD](../../imageexportersregistry/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,28 +1,24 @@
 ---
-title: Frame.Frame
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: Frame constructeur. Initialise une nouvelle instance duFrame classe.
+title: "Frame.Frame"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Constructeur Frame. Le constructeur par défaut"
 type: docs
 weight: 10
 url: /fr/net/aspose.psd.fileformats.psd.layers.animation/frame/frame/
 ---
+{{< psd/tize >}}
 ## Frame constructor
 
-Initialise une nouvelle instance du[`Frame`](../) classe.
+Le constructeur par défaut.
 
 ```csharp
-public Frame(TimeLine timeLine)
+public Frame()
 ```
 
-| Paramètre | Taper | La description |
-| --- | --- | --- |
-| timeLine | TimeLine | L'objet chronologie. |
+### Voir aussi
 
-### Voir également
-
-* class [TimeLine](../../timeline/)
 * class [Frame](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.Animation](../../frame/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.Animation](../../../aspose.psd.fileformats.psd.layers.animation/)
+* assembly [Aspose.PSD](../../../)
 
 

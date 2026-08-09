@@ -1,11 +1,12 @@
 ---
-title: SplitStreamContainer.Stream
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: SplitStreamContainer propriété. Obtient le flux de données.
+title: "SplitStreamContainer.Stream"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété SplitStreamContainer. Obtient le flux de données"
 type: docs
 weight: 70
 url: /fr/net/aspose.psd/splitstreamcontainer/stream/
 ---
+{{< psd/tize >}}
 ## SplitStreamContainer.Stream property
 
 Obtient le flux de données.
@@ -14,14 +15,14 @@ Obtient le flux de données.
 public override Stream Stream { get; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
 Le flux de données.
 
-### Voir également
+### Voir aussi
 
 * class [SplitStreamContainer](../)
-* espace de noms [Aspose.PSD](../../splitstreamcontainer/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

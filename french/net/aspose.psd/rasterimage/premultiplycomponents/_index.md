@@ -1,11 +1,12 @@
 ---
-title: RasterImage.PremultiplyComponents
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: RasterImage propriété. Obtient ou définit une valeur indiquant si les composants de limage doivent être prémultipliés.
+title: "RasterImage.PremultiplyComponents"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété RasterImage. Obtient ou définit une valeur indiquant si les composants de l'image doivent être prémultipliés"
 type: docs
 weight: 60
 url: /fr/net/aspose.psd/rasterimage/premultiplycomponents/
 ---
+{{< psd/tize >}}
 ## RasterImage.PremultiplyComponents property
 
 Obtient ou définit une valeur indiquant si les composants de l'image doivent être prémultipliés.
@@ -14,14 +15,14 @@ Obtient ou définit une valeur indiquant si les composants de l'image doivent ê
 public virtual bool PremultiplyComponents { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
-`vrai` si les composants de l'image doivent être prémultipliés ; sinon,`FAUX` .
+`true` si les composants de l'image doivent être prémultipliés ; sinon, `false`.
 
-### Voir également
+### Voir aussi
 
 * class [RasterImage](../)
-* espace de noms [Aspose.PSD](../../rasterimage/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,26 +1,27 @@
 ---
-title: SoCoResource.Color
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: SoCoResource propriété. Obtient la couleur RVB .
+title: "SoCoResource.Color"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "SoCoResource propriété. Obtient la couleur RVB"
 type: docs
 weight: 20
 url: /fr/net/aspose.psd.fileformats.psd.layers.layerresources/socoresource/color/
 ---
+{{< psd/tize >}}
 ## SoCoResource.Color property
 
-Obtient la couleur RVB .
+Obtient la couleur RVB.
 
 ```csharp
 public Color Color { get; set; }
 ```
 
-### Return_Value
+### Valeur de retour
 
 La couleur RVB
 
-### Exemples
+## Exemples
 
-L'exemple suivant montre comment vous modifiez SoCoResource (ressource de calque pour le calque de remplissage de couleur)
+L'exemple suivant montre comment modifier SoCoResource (Ressource de calque pour le calque de remplissage de couleur)
 
 ```csharp
 [C#]
@@ -28,7 +29,7 @@ L'exemple suivant montre comment vous modifiez SoCoResource (ressource de calque
 string sourceFile = "ColorFillLayer.psd";
 string outputFile = "SoCoResource_Edited.psd";
 
-// Charger une image existante dans une instance de la classe PsdImage
+// Chargez une image existante dans une instance de la classe PsdImage
 var im = (PsdImage)Image.Load(sourceFile);
 
 using (im)
@@ -41,7 +42,7 @@ using (im)
             var fillLayer = (FillLayer)layer;
             foreach (var resource in fillLayer.Resources)
             {
-                // Recherche de SoCoResource dans la liste des ressources de la couche
+                // Recherche de SoCoResource dans la liste des ressources de calque
                 if (resource is SoCoResource)
                 {
                     var socoResource = (SoCoResource)resource;
@@ -55,7 +56,7 @@ using (im)
                         throw new Exception("Unexpected color");
                     }
 
-                    // Définition de la propriété SoCoResource Color
+                    // Définition de la propriété Color de SoCoResource
                     socoResource.Color = Color.Red;
                     break;
                 }
@@ -67,11 +68,11 @@ using (im)
 }
 ```
 
-### Voir également
+### Voir aussi
 
 * struct [Color](../../../aspose.psd/color/)
 * class [SoCoResource](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../socoresource/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

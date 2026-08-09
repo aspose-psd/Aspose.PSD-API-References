@@ -1,32 +1,33 @@
 ---
-title: SizeF.Subtract
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: SizeF méthode. Soustrait la largeur et la hauteur dunSizeF structure de la largeur et de la hauteur dune autreSizeFstructure.
+title: "SizeF.Subtract"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "SizeF méthode. Soustrait la largeur et la hauteur d'une structure SizeF de la largeur et de la hauteur d'une autre structure SizeF"
 type: docs
 weight: 40
 url: /fr/net/aspose.psd/sizef/subtract/
 ---
+{{< psd/tize >}}
 ## SizeF.Subtract method
 
-Soustrait la largeur et la hauteur d'un[`SizeF`](../) structure de la largeur et de la hauteur d'une autre[`SizeF`](../)structure.
+Soustrait la largeur et la hauteur d'une structure [`SizeF`](../) de la largeur et de la hauteur d'une autre structure [`SizeF`](../).
 
 ```csharp
 public static SizeF Subtract(SizeF size1, SizeF size2)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
-| size1 | SizeF | Le[`SizeF`](../) structure sur le côté gauche de l'opérateur de soustraction. |
-| size2 | SizeF | Le[`SizeF`](../) structure à droite de l'opérateur de soustraction. |
+| size1 | SizeF | La structure [`SizeF`](../) du côté gauche de l'opérateur de soustraction. |
+| size2 | SizeF | La structure [`SizeF`](../) du côté droit de l'opérateur de soustraction. |
 
-### Return_Value
+### Valeur de retour
 
-Le[`SizeF`](../)c'est le résultat de l'opération de soustraction.
+La structure [`SizeF`](../) qui est le résultat de l'opération de soustraction.
 
-### Voir également
+### Voir aussi
 
 * struct [SizeF](../)
-* espace de noms [Aspose.PSD](../../sizef/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

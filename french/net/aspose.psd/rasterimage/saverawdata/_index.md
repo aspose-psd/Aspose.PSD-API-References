@@ -1,11 +1,12 @@
 ---
-title: RasterImage.SaveRawData
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: RasterImage méthode. Enregistre les données brutes.
+title: "RasterImage.SaveRawData"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Méthode RasterImage. Enregistre les données brutes"
 type: docs
-weight: 530
+weight: 550
 url: /fr/net/aspose.psd/rasterimage/saverawdata/
 ---
+{{< psd/tize >}}
 ## RasterImage.SaveRawData method
 
 Enregistre les données brutes.
@@ -15,19 +16,19 @@ public void SaveRawData(byte[] data, int dataOffset, Rectangle rectangle,
     RawDataSettings rawDataSettings)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
-| data | Byte[] | Les données brutes. |
-| dataOffset | Int32 | Décalage des données brutes de départ. |
-| rectangle | Rectangle | Le rectangle de données brutes. |
-| rawDataSettings | RawDataSettings | Les paramètres de données brutes dans lesquels se trouvent les données. |
+| données | Byte[] | Les données brutes. |
+| dataOffset | Int32 | Le décalage initial des données brutes. |
+| rectangle | Rectangle | Le rectangle des données brutes. |
+| rawDataSettings | RawDataSettings | Les paramètres des données brutes dans lesquels les données se trouvent. |
 
-### Voir également
+### Voir aussi
 
 * struct [Rectangle](../../rectangle/)
 * class [RawDataSettings](../../rawdatasettings/)
 * class [RasterImage](../)
-* espace de noms [Aspose.PSD](../../rasterimage/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

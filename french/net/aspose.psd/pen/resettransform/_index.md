@@ -1,23 +1,24 @@
 ---
-title: Pen.ResetTransform
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: Pen méthode. Réinitialise la matrice de transformation géométrique pour cePen à lidentité.
+title: "Pen.ResetTransform"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Méthode Pen. Réinitialise la matrice de transformation géométrique de ce Pen à l’identité"
 type: docs
 weight: 200
 url: /fr/net/aspose.psd/pen/resettransform/
 ---
+{{< psd/tize >}}
 ## Pen.ResetTransform method
 
-Réinitialise la matrice de transformation géométrique pour ce[`Pen`](../) à l'identité.
+Réinitialise la matrice de transformation géométrique de ce [`Pen`](../) à l’identité.
 
 ```csharp
 public void ResetTransform()
 ```
 
-### Voir également
+### Voir aussi
 
 * class [Pen](../)
-* espace de noms [Aspose.PSD](../../pen/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

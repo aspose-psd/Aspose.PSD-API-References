@@ -1,14 +1,15 @@
 ---
-title: IColorConverter.Convert
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: IColorConverter méthode. Convertit les données transmises au format de sortie.
+title: "IColorConverter.Convert"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Méthode IColorConverter. Convertit les données fournies au format de sortie"
 type: docs
 weight: 10
 url: /fr/net/aspose.psd/icolorconverter/convert/
 ---
+{{< psd/tize >}}
 ## IColorConverter.Convert method
 
-Convertit les données transmises au format de sortie.
+Convertit les données fournies au format de sortie.
 
 ```csharp
 public int Convert(PixelDataFormat sourceFormat, byte[] data, int offset, int bitStart, 
@@ -16,27 +17,27 @@ public int Convert(PixelDataFormat sourceFormat, byte[] data, int offset, int bi
     int outputOffset)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
 | sourceFormat | PixelDataFormat | Le format source. |
-| data | Byte[] | Les données sources. |
-| offset | Int32 | Décalage en octets où la copie des données doit commencer. |
-| bitStart | Int32 | Le bit commence. Notez que cette valeur n'est pas une valeur alignée sur les octets, mais qu'il s'agit du bit réel où la copie doit commencer. |
-| samplesCount | Int32 | Les échantillons comptent. |
-| linesCount | Int32 | Les lignes comptent. |
+| données | Byte[] | Les données source. |
+| offset | Int32 | Le décalage en octets où la copie des données doit commencer. |
+| bitStart | Int32 | Le début du bit. Notez que cette valeur n'est pas alignée sur un octet, mais correspond au bit réel où la copie doit commencer. |
+| samplesCount | Int32 | Le nombre d'échantillons. |
+| linesCount | Int32 | Le nombre de lignes. |
 | destFormat | PixelDataFormat | Le format de destination. |
 | outputData | Byte[] | Les données de sortie. |
 | outputOffset | Int32 | Le décalage de sortie où la copie des données doit commencer. |
 
-### Return_Value
+### Valeur de retour
 
-Les octets convertis comptent.
+Le nombre d'octets convertis.
 
-### Voir également
+### Voir aussi
 
 * class [PixelDataFormat](../../pixeldataformat/)
 * interface [IColorConverter](../)
-* espace de noms [Aspose.PSD](../../icolorconverter/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

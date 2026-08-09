@@ -1,11 +1,12 @@
 ---
-title: ColorPaletteHelper.Create4BitGrayscale
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: ColorPaletteHelper méthode. Crée la palette de niveaux de gris 4 bits.
+title: "ColorPaletteHelper.Create4BitGrayscale"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Méthode ColorPaletteHelper. Crée la palette de niveaux de gris 4 bits"
 type: docs
 weight: 20
 url: /fr/net/aspose.psd/colorpalettehelper/create4bitgrayscale/
 ---
+{{< psd/tize >}}
 ## ColorPaletteHelper.Create4BitGrayscale method
 
 Crée la palette de niveaux de gris 4 bits.
@@ -14,19 +15,19 @@ Crée la palette de niveaux de gris 4 bits.
 public static IColorPalette Create4BitGrayscale(bool minIsWhite)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
-| minIsWhite | Boolean | si réglé sur`vrai` la palette commence par la couleur blanche, sinon elle commence par la couleur noire. |
+| minIsWhite | Booléen | si défini sur `true`, la palette commence avec la couleur blanche, sinon elle commence avec la couleur noire. |
 
-### Return_Value
+### Valeur de retour
 
 La palette de niveaux de gris 4 bits.
 
-### Voir également
+### Voir aussi
 
 * interface [IColorPalette](../../icolorpalette/)
 * class [ColorPaletteHelper](../)
-* espace de noms [Aspose.PSD](../../colorpalettehelper/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

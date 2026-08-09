@@ -1,11 +1,12 @@
 ---
-title: IShadowEffect.Angle
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: IShadowEffect propriété. Obtient ou définit langle en degrés.
+title: "IShadowEffect.Angle"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété IShadowEffect. Obtient ou définit l'angle en degrés"
 type: docs
 weight: 10
 url: /fr/net/aspose.psd.fileformats.psd.layers.layereffects/ishadoweffect/angle/
 ---
+{{< psd/tize >}}
 ## IShadowEffect.Angle property
 
 Obtient ou définit l'angle en degrés.
@@ -14,14 +15,14 @@ Obtient ou définit l'angle en degrés.
 public int Angle { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
 L'angle.
 
-### Voir également
+### Voir aussi
 
 * interface [IShadowEffect](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../ishadoweffect/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: TiffStreamWriter.SyncRoot
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: TiffStreamWriter propriété. Obtient un objet qui peut être utilisé pour synchroniser laccès à la ressource synchronisée.
+title: "TiffStreamWriter.SyncRoot"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété TiffStreamWriter. Obtient un objet qui peut être utilisé pour synchroniser l'accès à la ressource synchronisée"
 type: docs
 weight: 30
 url: /fr/net/aspose.psd.fileformats.tiff.filemanagement/tiffstreamwriter/syncroot/
 ---
+{{< psd/tize >}}
 ## TiffStreamWriter.SyncRoot property
 
 Obtient un objet qui peut être utilisé pour synchroniser l'accès à la ressource synchronisée.
@@ -14,14 +15,14 @@ Obtient un objet qui peut être utilisé pour synchroniser l'accès à la ressou
 public object SyncRoot { get; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
-L'objet qui peut être utilisé pour synchroniser l'accès à la ressource synchronisée.
+L'objet pouvant être utilisé pour synchroniser l'accès à la ressource synchronisée.
 
-### Voir également
+### Voir aussi
 
 * class [TiffStreamWriter](../)
-* espace de noms [Aspose.PSD.FileFormats.Tiff.FileManagement](../../tiffstreamwriter/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff.FileManagement](../../../aspose.psd.fileformats.tiff.filemanagement/)
+* assembly [Aspose.PSD](../../../)
 
 

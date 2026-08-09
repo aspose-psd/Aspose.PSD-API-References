@@ -1,66 +1,67 @@
 ---
-title: PolygonShape.PolygonShape
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: PolygonShape constructeur. Initialise une nouvelle instance duPolygonShape classe.
+title: "PolygonShape.PolygonShape"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "PolygonShape constructeur. Initialise une nouvelle instance de la classe PolygonShape"
 type: docs
 weight: 10
 url: /fr/net/aspose.psd.shapes/polygonshape/polygonshape/
 ---
+{{< psd/tize >}}
 ## PolygonShape() {#constructor}
 
-Initialise une nouvelle instance du[`PolygonShape`](../) classe.
+Initialise une nouvelle instance de la classe [`PolygonShape`](../).
 
 ```csharp
 public PolygonShape()
 ```
 
-### Voir également
+### Voir aussi
 
 * class [PolygonShape](../)
-* espace de noms [Aspose.PSD.Shapes](../../polygonshape/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## PolygonShape(PointF[]) {#constructor_1}
 
-Initialise une nouvelle instance du[`PolygonShape`](../) classe.
+Initialise une nouvelle instance de la classe [`PolygonShape`](../).
 
 ```csharp
 public PolygonShape(PointF[] points)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
 | points | PointF[] | Le tableau de points. |
 
-### Voir également
+### Voir aussi
 
 * struct [PointF](../../../aspose.psd/pointf/)
 * class [PolygonShape](../)
-* espace de noms [Aspose.PSD.Shapes](../../polygonshape/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## PolygonShape(PointF[], bool) {#constructor_2}
 
-Initialise une nouvelle instance du[`PolygonShape`](../) classe.
+Initialise une nouvelle instance de la classe [`PolygonShape`](../).
 
 ```csharp
 public PolygonShape(PointF[] points, bool isClosed)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
 | points | PointF[] | Le tableau de points. |
-| isClosed | Boolean | Si réglé sur`vrai` le polygone est fermé. |
+| isClosed | Booléen | Si défini sur `true`, le polygone est fermé. |
 
-### Voir également
+### Voir aussi
 
 * struct [PointF](../../../aspose.psd/pointf/)
 * class [PolygonShape](../)
-* espace de noms [Aspose.PSD.Shapes](../../polygonshape/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: RasterImage.RawLineSize
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: RasterImage propriété. Obtient la taille de ligne brute en octets.
+title: "RasterImage.RawLineSize"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété RasterImage. Obtient la taille brute de la ligne en octets"
 type: docs
 weight: 120
 url: /fr/net/aspose.psd/rasterimage/rawlinesize/
 ---
+{{< psd/tize >}}
 ## RasterImage.RawLineSize property
 
-Obtient la taille de ligne brute en octets.
+Obtient la taille brute de la ligne en octets.
 
 ```csharp
 public virtual int RawLineSize { get; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
-La taille de la ligne brute en octets.
+La taille brute de la ligne en octets.
 
-### Voir également
+### Voir aussi
 
 * class [RasterImage](../)
-* espace de noms [Aspose.PSD](../../rasterimage/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

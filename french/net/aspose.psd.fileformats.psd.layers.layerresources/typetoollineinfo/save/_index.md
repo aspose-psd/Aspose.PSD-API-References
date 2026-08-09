@@ -1,29 +1,30 @@
 ---
-title: TypeToolLineInfo.Save
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: TypeToolLineInfo méthode. Enregistre leTypeToolLineInfo informations au conteneur de flux spécifié.
+title: "TypeToolLineInfo.Save"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Méthode TypeToolLineInfo. Enregistre les informations TypeToolLineInfo dans le conteneur de flux spécifié"
 type: docs
 weight: 30
 url: /fr/net/aspose.psd.fileformats.psd.layers.layerresources/typetoollineinfo/save/
 ---
+{{< psd/tize >}}
 ## TypeToolLineInfo.Save method
 
-Enregistre le[`TypeToolLineInfo`](../) informations au conteneur de flux spécifié.
+Enregistre les informations [`TypeToolLineInfo`](../) dans le conteneur de flux spécifié.
 
 ```csharp
 public void Save(StreamContainer streamContainer, int psdVersion)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
 | streamContainer | StreamContainer | Le conteneur de flux dans lequel enregistrer. |
 | psdVersion | Int32 | La version PSD. |
 
-### Voir également
+### Voir aussi
 
 * class [StreamContainer](../../../aspose.psd/streamcontainer/)
 * class [TypeToolLineInfo](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../typetoollineinfo/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

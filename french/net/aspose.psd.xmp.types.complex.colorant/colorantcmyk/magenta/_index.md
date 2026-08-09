@@ -1,11 +1,12 @@
 ---
-title: ColorantCmyk.Magenta
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: ColorantCmyk propriété. Obtient ou définit la valeur du composant magenta.
+title: "ColorantCmyk.Magenta"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété ColorantCmyk. Obtient ou définit la valeur du composant magenta"
 type: docs
 weight: 40
 url: /fr/net/aspose.psd.xmp.types.complex.colorant/colorantcmyk/magenta/
 ---
+{{< psd/tize >}}
 ## ColorantCmyk.Magenta property
 
 Obtient ou définit la valeur du composant magenta.
@@ -14,14 +15,14 @@ Obtient ou définit la valeur du composant magenta.
 public float Magenta { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
 La valeur du composant magenta.
 
-### Voir également
+### Voir aussi
 
 * class [ColorantCmyk](../)
-* espace de noms [Aspose.PSD.Xmp.Types.Complex.Colorant](../../colorantcmyk/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.Colorant](../../../aspose.psd.xmp.types.complex.colorant/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,23 +1,24 @@
 ---
-title: UnitArrayStructure.UnitArrayStructure
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: UnitArrayStructure constructeur. Initialise une nouvelle instance duUnitArrayStructure classe.
+title: "UnitArrayStructure.UnitArrayStructure"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Constructeur UnitArrayStructure. Initialise une nouvelle instance de la classe UnitArrayStructure"
 type: docs
 weight: 10
 url: /fr/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/unitarraystructure/unitarraystructure/
 ---
+{{< psd/tize >}}
 ## UnitArrayStructure constructor
 
-Initialise une nouvelle instance du[`UnitArrayStructure`](../) classe.
+Initialise une nouvelle instance de la classe [`UnitArrayStructure`](../).
 
 ```csharp
 public UnitArrayStructure(ClassID keyName, UnitTypes unitType, double[] values)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
 | keyName | ClassID | Nom de la clé. |
-| unitType | UnitTypes | Type d'unité. |
+| unitType | UnitTypes | Type de l'unité. |
 | values | Double[] | Les valeurs. |
 
 ### Exceptions
@@ -26,9 +27,9 @@ public UnitArrayStructure(ClassID keyName, UnitTypes unitType, double[] values)
 | --- | --- |
 | ArgumentNullException | les valeurs ne doivent pas être nulles |
 
-### Exemples
+## Exemples
 
-Le code suivant illustre la prise en charge des signatures ObAr et UnFl.
+Le code suivant montre la prise en charge des signatures ObAr et UnFl.
 
 ```csharp
 [C#]
@@ -80,12 +81,12 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
 }
 ```
 
-### Voir également
+### Voir aussi
 
 * class [ClassID](../../../aspose.psd.fileformats.psd.layers.layerresources/classid/)
 * enum [UnitTypes](../../unittypes/)
 * class [UnitArrayStructure](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../unitarraystructure/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 

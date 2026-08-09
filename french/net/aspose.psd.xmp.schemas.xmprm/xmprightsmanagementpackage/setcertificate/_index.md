@@ -1,11 +1,12 @@
 ---
-title: XmpRightsManagementPackage.SetCertificate
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: XmpRightsManagementPackage méthode. Définit le certificat.
+title: "XmpRightsManagementPackage.SetCertificate"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Méthode XmpRightsManagementPackage. Définit le certificat"
 type: docs
 weight: 30
 url: /fr/net/aspose.psd.xmp.schemas.xmprm/xmprightsmanagementpackage/setcertificate/
 ---
+{{< psd/tize >}}
 ## XmpRightsManagementPackage.SetCertificate method
 
 Définit le certificat.
@@ -14,14 +15,14 @@ Définit le certificat.
 public void SetCertificate(string certificate)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
-| certificate | String | Le certificat. |
+| certificat | String | Le certificat. |
 
-### Voir également
+### Voir aussi
 
 * class [XmpRightsManagementPackage](../)
-* espace de noms [Aspose.PSD.Xmp.Schemas.XmpRm](../../xmprightsmanagementpackage/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpRm](../../../aspose.psd.xmp.schemas.xmprm/)
+* assembly [Aspose.PSD](../../../)
 
 

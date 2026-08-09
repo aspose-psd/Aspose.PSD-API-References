@@ -1,11 +1,12 @@
 ---
-title: GridAndGuidesResouce.Guides
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: GridAndGuidesResouce propriété. Obtient ou définit les guides.
+title: "GridAndGuidesResouce.Guides"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété GridAndGuidesResouce. Obtient ou définit les guides."
 type: docs
 weight: 60
 url: /fr/net/aspose.psd.fileformats.psd.resources/gridandguidesresouce/guides/
 ---
+{{< psd/tize >}}
 ## GridAndGuidesResouce.Guides property
 
 Obtient ou définit les guides.
@@ -14,15 +15,15 @@ Obtient ou définit les guides.
 public GuideResource[] Guides { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
 Les guides.
 
-### Voir également
+### Voir aussi
 
 * class [GuideResource](../../guideresource/)
 * class [GridAndGuidesResouce](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Resources](../../gridandguidesresouce/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

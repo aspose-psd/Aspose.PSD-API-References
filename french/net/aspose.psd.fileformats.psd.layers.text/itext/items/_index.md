@@ -1,11 +1,12 @@
 ---
-title: IText.Items
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: IText propriété. Obtient les éléments.
+title: "IText.Items"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "IText propriété. Obtient les éléments"
 type: docs
 weight: 10
 url: /fr/net/aspose.psd.fileformats.psd.layers.text/itext/items/
 ---
+{{< psd/tize >}}
 ## IText.Items property
 
 Obtient les éléments.
@@ -14,13 +15,13 @@ Obtient les éléments.
 public ITextPortion[] Items { get; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
-Les objets.
+Les éléments.
 
-### Exemples
+## Exemples
 
-Le code suivant montre comment Aspose.PSD obtient les propriétés de mise en forme en ligne du calque de texte.
+Le code suivant montre comment Aspose.PSD récupère les propriétés du formatage en ligne du calque de texte.
 
 ```csharp
 [C#]
@@ -30,7 +31,7 @@ List<ITextPortion> regularText = new List<ITextPortion>();
 List<ITextPortion> boldText = new List<ITextPortion>();
 List<ITextPortion> italicText = new List<ITextPortion>();
 
-// Charger une image existante dans une instance de la classe PsdImage
+// Chargez une image existante dans une instance de la classe PsdImage
 using (var psdImage = (PsdImage)Image.Load(sourceFile))
 {
 
@@ -45,7 +46,7 @@ using (var psdImage = (PsdImage)Image.Load(sourceFile))
 
         var textLayer = (TextLayer)layer;
 
-        // obtient les polices contenues dans le calque de texte
+        // récupère les polices contenues dans le calque de texte
         var fonts = textLayer.GetFonts();
         var textPortions = textLayer.TextData.Items;
 
@@ -74,7 +75,7 @@ using (var psdImage = (PsdImage)Image.Load(sourceFile))
 }
 ```
 
-L'exemple de code suivant illustre la modification de portions de texte et leur style de texte.
+L'exemple de code suivant montre l'édition des portions de texte et leur style de texte.
 
 ```csharp
 [C#]
@@ -141,7 +142,7 @@ using (var im = (PsdImage)Image.Load(filePath))
                     Math.Abs(paragraph.LetterSpacing[0]) > Tolerance ||
                     Math.Abs(paragraph.LetterSpacing[1]) > Tolerance ||
                     Math.Abs(paragraph.LetterSpacing[2]) > Tolerance ||
-                    paragraph.LeadingType != LeadingMode.Auto ||
+                    paragraph.LeadingType != LeadingType.BottomToBottom ||
                     paragraph.PreHyphen != 2 ||
                     paragraph.PostHyphen != 2 ||
                     Math.Abs(paragraph.SpaceBefore) > Tolerance ||
@@ -157,7 +158,7 @@ using (var im = (PsdImage)Image.Load(filePath))
             }
 
             // Vérification des données de style
-            // Les styles ont des couleurs et des tailles de police différentes
+            // Les styles ont des couleurs et une taille de police différentes
             if (Math.Abs(portions[0].Style.FontSize - 12) > Tolerance ||
                 Math.Abs(portions[1].Style.FontSize - 12) > Tolerance ||
                 Math.Abs(portions[2].Style.FontSize - 12) > Tolerance ||
@@ -204,18 +205,18 @@ using (var im = (PsdImage)Image.Load(filePath))
 
             portions = layer.TextData.Items;
 
-            // Exemple d'édition de paragraphe et de style pour les portions
+            // Exemple d'édition de paragraphes et de styles pour les portions
             // Définir la justification à droite
             portions[0].Paragraph.Justification = JustificationMode.Right;
             portions[1].Paragraph.Justification = JustificationMode.Right;
             portions[2].Paragraph.Justification = JustificationMode.Right;
 
-            // Différentes couleurs pour chaque style. Le sera modifié, mais le rendu n'est pas entièrement pris en charge
+            // Différentes couleurs pour chaque style. Elles seront modifiées, mais le rendu n'est pas entièrement pris en charge
             portions[0].Style.FillColor = Color.Aquamarine;
             portions[1].Style.FillColor = Color.Violet;
             portions[2].Style.FillColor = Color.LightBlue;
 
-            // Police différente. Le sera modifié, mais le rendu n'est pas entièrement pris en charge
+            // Police différente. Elle sera modifiée, mais le rendu n'est pas entièrement pris en charge
             portions[0].Style.FontSize = 6;
             portions[1].Style.FontSize = 8;
             portions[2].Style.FontSize = 10;
@@ -230,11 +231,11 @@ using (var im = (PsdImage)Image.Load(filePath))
 }
 ```
 
-### Voir également
+### Voir aussi
 
 * interface [ITextPortion](../../itextportion/)
 * interface [IText](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.Text](../../itext/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.Text](../../../aspose.psd.fileformats.psd.layers.text/)
+* assembly [Aspose.PSD](../../../)
 
 

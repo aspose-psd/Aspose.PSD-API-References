@@ -1,11 +1,12 @@
 ---
-title: ColorBlend.Colors
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: ColorBlend propriété. Obtient ou définit un tableau de couleurs qui représente les couleurs à utiliser aux positions correspondantes le long dun dégradé.
+title: "ColorBlend.Colors"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété ColorBlend. Obtient ou définit un tableau de couleurs qui représente les couleurs à utiliser aux positions correspondantes le long d'un dégradé"
 type: docs
 weight: 20
 url: /fr/net/aspose.psd/colorblend/colors/
 ---
+{{< psd/tize >}}
 ## ColorBlend.Colors property
 
 Obtient ou définit un tableau de couleurs qui représente les couleurs à utiliser aux positions correspondantes le long d'un dégradé.
@@ -14,15 +15,15 @@ Obtient ou définit un tableau de couleurs qui représente les couleurs à utili
 public Color[] Colors { get; set; }
 ```
 
-### Return_Value
+### Valeur de retour
 
-Un étalage de[`Color`](../../color/) structures qui représentent les couleurs à utiliser aux positions correspondantes le long d'un dégradé.
+Un tableau de structures [`Color`](../../color/) qui représente les couleurs à utiliser aux positions correspondantes le long d'un dégradé.
 
-### Voir également
+### Voir aussi
 
 * struct [Color](../../color/)
 * class [ColorBlend](../)
-* espace de noms [Aspose.PSD](../../colorblend/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

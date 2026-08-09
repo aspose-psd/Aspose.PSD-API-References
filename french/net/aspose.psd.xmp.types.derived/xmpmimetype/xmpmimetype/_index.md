@@ -1,27 +1,28 @@
 ---
-title: XmpMimeType.XmpMimeType
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: XmpMimeType constructeur. Initialise une nouvelle instance duXmpMimeType classe.
+title: "XmpMimeType.XmpMimeType"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Constructeur XmpMimeType. Initialise une nouvelle instance de la classe XmpMimeType"
 type: docs
 weight: 10
 url: /fr/net/aspose.psd.xmp.types.derived/xmpmimetype/xmpmimetype/
 ---
+{{< psd/tize >}}
 ## XmpMimeType constructor
 
-Initialise une nouvelle instance du[`XmpMimeType`](../) classe.
+Initialise une nouvelle instance de la classe [`XmpMimeType`](../).
 
 ```csharp
 public XmpMimeType(string value)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
-| value | String | La valeur. |
+| valeur | String | La valeur. |
 
-### Voir également
+### Voir aussi
 
 * class [XmpMimeType](../)
-* espace de noms [Aspose.PSD.Xmp.Types.Derived](../../xmpmimetype/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Derived](../../../aspose.psd.xmp.types.derived/)
+* assembly [Aspose.PSD](../../../)
 
 

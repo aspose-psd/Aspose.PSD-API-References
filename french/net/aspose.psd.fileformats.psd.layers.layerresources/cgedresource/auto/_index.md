@@ -1,27 +1,28 @@
 ---
-title: CgEdResource.Auto
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: CgEdResource propriété. Obtient ou définit une valeur indiquant si cetteCgEdResource est automatique.
+title: "CgEdResource.Auto"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "CgEdResource propriété. Obtient ou définit une valeur indiquant si ce CgEdResource est automatique"
 type: docs
 weight: 20
 url: /fr/net/aspose.psd.fileformats.psd.layers.layerresources/cgedresource/auto/
 ---
+{{< psd/tize >}}
 ## CgEdResource.Auto property
 
-Obtient ou définit une valeur indiquant si cette[`CgEdResource`](../) est automatique.
+Obtient ou définit une valeur indiquant si ce [`CgEdResource`](../) est automatique.
 
 ```csharp
 public bool Auto { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
-`vrai` si automatique ; sinon,`FAUX` .
+`true` si automatique ; sinon, `false`.
 
-### Voir également
+### Voir aussi
 
 * class [CgEdResource](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../cgedresource/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

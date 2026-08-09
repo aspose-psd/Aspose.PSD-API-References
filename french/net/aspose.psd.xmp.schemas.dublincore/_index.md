@@ -1,16 +1,17 @@
 ---
-title: Aspose.PSD.Xmp.Schemas.DublinCore
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: Lespace de noms contient des classes dassistance des constantes et des méthodes liées aux métadonnées Dublin Core.
+title: "Aspose.PSD.Xmp.Schemas.DublinCore"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "L'espace de noms contient les classes d'assistance, constantes et méthodes liées aux métadonnées Dublin Core"
 type: docs
-weight: 530
+weight: 570
 url: /fr/net/aspose.psd.xmp.schemas.dublincore/
 ---
-L'espace de noms contient des classes d'assistance, des constantes et des méthodes liées aux métadonnées Dublin Core.
+{{< psd/tize >}}
+L'espace de noms contient des classes, constantes et méthodes d'assistance liées aux métadonnées Dublin Core.
 
-## Des classes
+## Classes
 
-| Classer | La description |
+| Classe | Description |
 | --- | --- |
 | [DublinCorePackage](./dublincorepackage/) | Représente le schéma Dublic Core. |
 

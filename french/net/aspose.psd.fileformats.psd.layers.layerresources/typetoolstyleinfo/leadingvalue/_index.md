@@ -1,27 +1,28 @@
 ---
-title: TypeToolStyleInfo.LeadingValue
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: TypeToolStyleInfo propriété. Obtient ou définit la valeur principale.
+title: "TypeToolStyleInfo.LeadingValue"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété TypeToolStyleInfo. Obtient ou définit la valeur d'interligne."
 type: docs
 weight: 60
 url: /fr/net/aspose.psd.fileformats.psd.layers.layerresources/typetoolstyleinfo/leadingvalue/
 ---
+{{< psd/tize >}}
 ## TypeToolStyleInfo.LeadingValue property
 
-Obtient ou définit la valeur principale.
+Obtient ou définit la valeur de l'interligne.
 
 ```csharp
 public int LeadingValue { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
-La valeur principale.
+La valeur d'interligne.
 
-### Voir également
+### Voir aussi
 
 * class [TypeToolStyleInfo](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../typetoolstyleinfo/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

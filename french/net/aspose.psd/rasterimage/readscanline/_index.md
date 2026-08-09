@@ -1,32 +1,33 @@
 ---
-title: RasterImage.ReadScanLine
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: RasterImage méthode. Lit toute la ligne de balayage par lindex de ligne de balayage spécifié.
+title: "RasterImage.ReadScanLine"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "RasterImage méthode. Lit la ligne de numérisation complète à l'index de ligne de numérisation spécifié"
 type: docs
-weight: 440
+weight: 450
 url: /fr/net/aspose.psd/rasterimage/readscanline/
 ---
+{{< psd/tize >}}
 ## RasterImage.ReadScanLine method
 
-Lit toute la ligne de balayage par l'index de ligne de balayage spécifié.
+Lit la ligne de numérisation complète à l'index de ligne de numérisation spécifié.
 
 ```csharp
 public Color[] ReadScanLine(int scanLineIndex)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
-| scanLineIndex | Int32 | Index de base zéro de la ligne de balayage. |
+| scanLineIndex | Int32 | Indice basé sur zéro de la ligne de numérisation. |
 
-### Return_Value
+### Valeur de retour
 
-Le tableau des valeurs de couleur des pixels de la ligne de balayage.
+Le tableau des valeurs de couleur des pixels de la ligne de numérisation.
 
-### Voir également
+### Voir aussi
 
 * struct [Color](../../color/)
 * class [RasterImage](../)
-* espace de noms [Aspose.PSD](../../rasterimage/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

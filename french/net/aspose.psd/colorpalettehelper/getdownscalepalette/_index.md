@@ -1,33 +1,34 @@
 ---
-title: ColorPaletteHelper.GetDownscalePalette
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: ColorPaletteHelper méthode. Obtenez une palette de 256 couleurs composée de bits supérieurs des valeurs de couleur initiales de limage.
+title: "ColorPaletteHelper.GetDownscalePalette"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Méthode ColorPaletteHelper. Obtient une palette de 256 couleurs composée des bits supérieurs des valeurs de couleur de l'image initiale"
 type: docs
 weight: 70
 url: /fr/net/aspose.psd/colorpalettehelper/getdownscalepalette/
 ---
+{{< psd/tize >}}
 ## ColorPaletteHelper.GetDownscalePalette method
 
-Obtenez une palette de 256 couleurs, composée de bits supérieurs des valeurs de couleur initiales de l'image.
+Obtient une palette de 256 couleurs, composée des bits supérieurs des valeurs de couleur de l'image initiale.
 
 ```csharp
 public static ColorPalette GetDownscalePalette(RasterImage image)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
 | image | RasterImage | L'image. |
 
-### Return_Value
+### Valeur de retour
 
-Le[`ColorPalette`](../../colorpalette/) .
+Le [`ColorPalette`](../../colorpalette/).
 
-### Voir également
+### Voir aussi
 
 * class [ColorPalette](../../colorpalette/)
 * class [RasterImage](../../rasterimage/)
 * class [ColorPaletteHelper](../)
-* espace de noms [Aspose.PSD](../../colorpalettehelper/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

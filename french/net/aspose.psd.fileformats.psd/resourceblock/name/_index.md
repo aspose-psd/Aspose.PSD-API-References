@@ -1,27 +1,28 @@
 ---
-title: ResourceBlock.Name
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: ResourceBlock propriété. Obtient ou définit le nom de la ressource. Chaîne Pascal rembourrée pour rendre la taille égale un nom nul se compose de deux octets de 0.
+title: "ResourceBlock.Name"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété ResourceBlock. Obtient ou définit le nom de la ressource. Chaîne Pascal remplie pour rendre la taille paire ; un nom nul consiste en deux octets à 0"
 type: docs
 weight: 40
 url: /fr/net/aspose.psd.fileformats.psd/resourceblock/name/
 ---
+{{< psd/tize >}}
 ## ResourceBlock.Name property
 
-Obtient ou définit le nom de la ressource. Chaîne Pascal, rembourrée pour rendre la taille égale (un nom nul se compose de deux octets de 0).
+Obtient ou définit le nom de la ressource. Chaîne Pascal, remplie pour que la taille soit paire (un nom nul consiste en deux octets de 0).
 
 ```csharp
 public string Name { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
 Le nom de la ressource.
 
-### Voir également
+### Voir aussi
 
 * class [ResourceBlock](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd](../../resourceblock/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

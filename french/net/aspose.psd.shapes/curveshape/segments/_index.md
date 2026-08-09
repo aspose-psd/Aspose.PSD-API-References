@@ -1,28 +1,29 @@
 ---
-title: CurveShape.Segments
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: CurveShape propriété. Obtient les segments de forme.
+title: "CurveShape.Segments"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété CurveShape. Obtient les segments de la forme"
 type: docs
 weight: 40
 url: /fr/net/aspose.psd.shapes/curveshape/segments/
 ---
+{{< psd/tize >}}
 ## CurveShape.Segments property
 
-Obtient les segments de forme.
+Obtient les segments de la forme.
 
 ```csharp
 public override ShapeSegment[] Segments { get; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
-Les segments de forme.
+Les segments de la forme.
 
-### Voir également
+### Voir aussi
 
 * class [ShapeSegment](../../../aspose.psd/shapesegment/)
 * class [CurveShape](../)
-* espace de noms [Aspose.PSD.Shapes](../../curveshape/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 

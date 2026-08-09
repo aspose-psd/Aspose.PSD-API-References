@@ -1,11 +1,12 @@
 ---
-title: TiffOptions.AddTags
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: TiffOptions méthode. Ajoute les balises.
+title: "TiffOptions.AddTags"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Méthode TiffOptions. Ajoute les balises"
 type: docs
-weight: 710
+weight: 720
 url: /fr/net/aspose.psd.imageoptions/tiffoptions/addtags/
 ---
+{{< psd/tize >}}
 ## TiffOptions.AddTags method
 
 Ajoute les balises.
@@ -14,15 +15,15 @@ Ajoute les balises.
 public void AddTags(TiffDataType[] tagsToAdd)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
 | tagsToAdd | TiffDataType[] | Les balises à ajouter. |
 
-### Voir également
+### Voir aussi
 
 * class [TiffDataType](../../../aspose.psd.fileformats.tiff/tiffdatatype/)
 * class [TiffOptions](../)
-* espace de noms [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

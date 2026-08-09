@@ -1,26 +1,27 @@
 ---
-title: AiLayerSection.DimValue
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: AiLayerSection propriété. Obtient ou définit la valeur dim sous forme de pourcentage. Réduit lintensité des images liées et des images bitmap contenues dans le calque au pourcentage spécifié.
+title: "AiLayerSection.DimValue"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété AiLayerSection. Obtient ou définit la valeur d’atténuation en pourcentage. Réduit l’intensité des images liées et des images bitmap contenues dans le calque au pourcentage spécifié."
 type: docs
-weight: 30
+weight: 40
 url: /fr/net/aspose.psd.fileformats.ai/ailayersection/dimvalue/
 ---
+{{< psd/tize >}}
 ## AiLayerSection.DimValue property
 
-Obtient ou définit la valeur dim sous forme de pourcentage. Réduit l'intensité des images liées et des images bitmap contenues dans le calque au pourcentage spécifié.
+Obtient ou définit la valeur d'assombrissement en pourcentage. Réduit l'intensité des images liées et des images bitmap contenues dans le calque au pourcentage spécifié.
 
 ```csharp
 public int DimValue { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
-La valeur dim en pourcentage.
+La valeur d’atténuation en pourcentage.
 
-### Exemples
+## Exemples
 
-L'exemple suivant illustre la prise en charge des calques dans les fichiers au format AI.
+L'exemple suivant montre la prise en charge des calques dans les fichiers au format AI.
 
 ```csharp
 [C#]
@@ -70,10 +71,10 @@ using (AiImage image = (AiImage)Image.Load(sourceFilePath))
 }
 ```
 
-### Voir également
+### Voir aussi
 
 * class [AiLayerSection](../)
-* espace de noms [Aspose.PSD.FileFormats.Ai](../../ailayersection/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

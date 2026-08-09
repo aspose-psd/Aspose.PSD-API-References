@@ -1,11 +1,12 @@
 ---
-title: TiffDataType.Value
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: TiffDataType propriété. Obtient ou définit la valeur que ce type de données contient.
+title: "TiffDataType.Value"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété TiffDataType. Obtient ou définit la valeur que ce type de données contient"
 type: docs
 weight: 90
 url: /fr/net/aspose.psd.fileformats.tiff/tiffdatatype/value/
 ---
+{{< psd/tize >}}
 ## TiffDataType.Value property
 
 Obtient ou définit la valeur que ce type de données contient.
@@ -14,14 +15,14 @@ Obtient ou définit la valeur que ce type de données contient.
 public abstract object Value { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
 La valeur.
 
-### Voir également
+### Voir aussi
 
 * class [TiffDataType](../)
-* espace de noms [Aspose.PSD.FileFormats.Tiff](../../tiffdatatype/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff](../../../aspose.psd.fileformats.tiff/)
+* assembly [Aspose.PSD](../../../)
 
 

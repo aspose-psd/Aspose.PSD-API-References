@@ -1,14 +1,15 @@
 ---
-title: Class BezierKnotRecord
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: Aspose.PSD.FileFormats.Core.VectorPaths.BezierKnotRecord classe. Classe denregistrement des nœuds de Bézier
+title: "Classe BezierKnotRecord"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Classe Aspose.PSD.FileFormats.Core.VectorPaths.BezierKnotRecord. Classe d'enregistrement de nœud de Bézier utilisée pour lire/écrire les données des nœuds de Bézier depuis la ressource."
 type: docs
-weight: 1330
+weight: 1340
 url: /fr/net/aspose.psd.fileformats.core.vectorpaths/bezierknotrecord/
 ---
+{{< psd/tize >}}
 ## BezierKnotRecord class
 
-Classe d'enregistrement des nœuds de Bézier
+Classe d'enregistrement de nœud Bézier, utilisée pour lire/écrire les données des nœuds Bézier à partir de la ressource.
 
 ```csharp
 public class BezierKnotRecord : VectorPathRecord
@@ -16,14 +17,14 @@ public class BezierKnotRecord : VectorPathRecord
 
 ## Constructeurs
 
-| Nom | La description |
+| Nom | Description |
 | --- | --- |
-| [BezierKnotRecord](bezierknotrecord/#constructor)() | Initialise une nouvelle instance du`BezierKnotRecord` classe. |
-| [BezierKnotRecord](bezierknotrecord/#constructor_1)(byte[]) | Initialise une nouvelle instance du`BezierKnotRecord` classe. |
+| [BezierKnotRecord](bezierknotrecord/#constructor)() | Initialise une nouvelle instance de la classe `BezierKnotRecord`. |
+| [BezierKnotRecord](bezierknotrecord/#constructor_1)(byte[]) | Initialise une nouvelle instance de la classe `BezierKnotRecord`. |
 
 ## Propriétés
 
-| Nom | La description |
+| Nom | Description |
 | --- | --- |
 | [IsClosed](../../aspose.psd.fileformats.core.vectorpaths/bezierknotrecord/isclosed/) { get; set; } | Obtient ou définit une valeur indiquant si cette instance est fermée. |
 | [IsLinked](../../aspose.psd.fileformats.core.vectorpaths/bezierknotrecord/islinked/) { get; set; } | Obtient ou définit une valeur indiquant si cette instance est liée. |
@@ -32,9 +33,9 @@ public class BezierKnotRecord : VectorPathRecord
 | [Points](../../aspose.psd.fileformats.core.vectorpaths/bezierknotrecord/points/) { get; set; } | Obtient ou définit les points. |
 | override [Type](../../aspose.psd.fileformats.core.vectorpaths/bezierknotrecord/type/) { get; } | Obtient le type. |
 
-### Exemples
+## Exemples
 
-L'exemple suivant illustre la prise en charge du chargement des ressources VmskResource. Comment fonctionne l'édition des chemins.
+L'exemple suivant montre la prise en charge du chargement de la ressource VmskResource. Comment fonctionne l'édition des chemins.
 
 ```csharp
 [C#]
@@ -48,7 +49,7 @@ public void TestPsdNet106()
     using (im)
     {
         var resource = GetVmskResource(im);
-        // En lisant
+        // Lecture
         if (resource.IsDisabled != false ||
          resource.IsInverted != false ||
          resource.IsNotLinked != false ||
@@ -111,7 +112,7 @@ private VmskResource GetVmskResource(PsdImage image)
 }
 ```
 
-L'exemple suivant illustre la prise en charge du chargement des ressources VsmsResource. Comment fonctionne l'édition des chemins.
+L'exemple suivant montre la prise en charge du chargement de la ressource VsmsResource. Comment fonctionne l'édition des chemins.
 
 ```csharp
 [C#]
@@ -126,7 +127,7 @@ public void TestPsdNet140()
     using (im)
     {
         var resource = GetVsmsResource(im);
-        // En lisant
+        // Lecture
         if (resource.IsDisabled != false ||
             resource.IsInverted != false ||
             resource.IsNotLinked != false ||
@@ -192,10 +193,10 @@ private VsmsResource GetVsmsResource(PsdImage image)
 }
 ```
 
-### Voir également
+### Voir aussi
 
 * class [VectorPathRecord](../vectorpathrecord/)
-* espace de noms [Aspose.PSD.FileFormats.Core.VectorPaths](../../aspose.psd.fileformats.core.vectorpaths/)
-* Assemblée [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../)
 
 

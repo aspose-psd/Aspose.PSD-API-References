@@ -1,28 +1,29 @@
 ---
-title: Graphics.PageUnit
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: Graphics propriété. Obtient ou définit lunité de mesure utilisée pour les coordonnées de page dans ce Aspose.PSD.Graphics.
+title: "Graphics.PageUnit"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété Graphics. Obtient ou définit l'unité de mesure utilisée pour les coordonnées de page dans cet Aspose.PSD.Graphics"
 type: docs
 weight: 100
 url: /fr/net/aspose.psd/graphics/pageunit/
 ---
+{{< psd/tize >}}
 ## Graphics.PageUnit property
 
-Obtient ou définit l'unité de mesure utilisée pour les coordonnées de page dans ce Aspose.PSD.Graphics.
+Obtient ou définit l'unité de mesure utilisée pour les coordonnées de page dans cet Aspose.PSD.Graphics.
 
 ```csharp
 public GraphicsUnit PageUnit { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
-L'unité de mesure utilisée pour les coordonnées de page dans ce Aspose.PSD.Graphics.
+L'unité de mesure utilisée pour les coordonnées de page dans cet Aspose.PSD.Graphics.
 
-### Voir également
+### Voir aussi
 
 * enum [GraphicsUnit](../../graphicsunit/)
 * class [Graphics](../)
-* espace de noms [Aspose.PSD](../../graphics/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

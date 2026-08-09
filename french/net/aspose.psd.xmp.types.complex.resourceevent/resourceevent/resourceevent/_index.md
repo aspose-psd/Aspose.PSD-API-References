@@ -1,23 +1,24 @@
 ---
-title: ResourceEvent.ResourceEvent
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: ResourceEvent constructeur. Default_Constructor
+title: "ResourceEvent.ResourceEvent"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Constructeur ResourceEvent. Le constructeur par défaut"
 type: docs
 weight: 10
 url: /fr/net/aspose.psd.xmp.types.complex.resourceevent/resourceevent/resourceevent/
 ---
+{{< psd/tize >}}
 ## ResourceEvent constructor
 
-Default_Constructor
+Le constructeur par défaut.
 
 ```csharp
 public ResourceEvent()
 ```
 
-### Voir également
+### Voir aussi
 
 * class [ResourceEvent](../)
-* espace de noms [Aspose.PSD.Xmp.Types.Complex.ResourceEvent](../../resourceevent/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.ResourceEvent](../../../aspose.psd.xmp.types.complex.resourceevent/)
+* assembly [Aspose.PSD](../../../)
 
 

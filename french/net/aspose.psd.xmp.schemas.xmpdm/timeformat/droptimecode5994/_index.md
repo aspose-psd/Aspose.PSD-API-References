@@ -1,27 +1,28 @@
 ---
-title: TimeFormat.DropTimecode5994
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: TimeFormat propriété. Obtient le timecode de dépôt5994.
+title: "TimeFormat.DropTimecode5994"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété TimeFormat. Obtient le timecode drop5994"
 type: docs
 weight: 20
 url: /fr/net/aspose.psd.xmp.schemas.xmpdm/timeformat/droptimecode5994/
 ---
+{{< psd/tize >}}
 ## TimeFormat.DropTimecode5994 property
 
-Obtient le timecode de dépôt5994.
+Obtient le timecode drop5994.
 
 ```csharp
 public static TimeFormat DropTimecode5994 { get; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
-Le code temporel de chute5994.
+Le timecode drop5994.
 
-### Voir également
+### Voir aussi
 
 * class [TimeFormat](../)
-* espace de noms [Aspose.PSD.Xmp.Schemas.XmpDm](../../timeformat/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpDm](../../../aspose.psd.xmp.schemas.xmpdm/)
+* assembly [Aspose.PSD](../../../)
 
 

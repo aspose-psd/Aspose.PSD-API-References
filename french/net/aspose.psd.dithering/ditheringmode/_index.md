@@ -1,11 +1,12 @@
 ---
-title: Class DitheringMode
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: Aspose.PSD.Dithering.DitheringMode classe. Paramètres de tramage à appliquer à limage lors de lenregistrement.
+title: "Classe DitheringMode"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Classe Aspose.PSD.Dithering.DitheringMode. Paramètres de tramage à appliquer à l'image lors de l'enregistrement"
 type: docs
-weight: 760
+weight: 770
 url: /fr/net/aspose.psd.dithering/ditheringmode/
 ---
+{{< psd/tize >}}
 ## DitheringMode class
 
 Paramètres de tramage à appliquer à l'image lors de l'enregistrement.
@@ -16,21 +17,21 @@ public class DitheringMode
 
 ## Constructeurs
 
-| Nom | La description |
+| Nom | Description |
 | --- | --- |
-| [DitheringMode](ditheringmode/)() | Default_Constructor |
+| [DitheringMode](ditheringmode/)() | Le constructeur par défaut. |
 
 ## Propriétés
 
-| Nom | La description |
+| Nom | Description |
 | --- | --- |
-| [Bits](../../aspose.psd.dithering/ditheringmode/bits/) { get; set; } | Le facteur d'échantillonnage de l'image tramée. |
+| [Bits](../../aspose.psd.dithering/ditheringmode/bits/) { get; set; } | Le facteur d'échantillonnage de l'image trammée. |
 | [CustomPalette](../../aspose.psd.dithering/ditheringmode/custompalette/) { get; set; } | La palette personnalisée pour le tramage. |
 | [Method](../../aspose.psd.dithering/ditheringmode/method/) { get; set; } | Sélection de l'algorithme de tramage. |
 
-### Voir également
+### Voir aussi
 
-* espace de noms [Aspose.PSD.Dithering](../../aspose.psd.dithering/)
-* Assemblée [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Dithering](../../aspose.psd.dithering/)
+* assembly [Aspose.PSD](../../)
 
 

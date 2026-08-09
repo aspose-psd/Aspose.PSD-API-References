@@ -1,11 +1,12 @@
 ---
-title: DataStreamSupporter.DataStreamContainer
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: DataStreamSupporter propriété. Obtient le flux de données de lobjet.
+title: "DataStreamSupporter.DataStreamContainer"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété DataStreamSupporter. Obtient le flux de données de l'objet"
 type: docs
 weight: 10
 url: /fr/net/aspose.psd/datastreamsupporter/datastreamcontainer/
 ---
+{{< psd/tize >}}
 ## DataStreamSupporter.DataStreamContainer property
 
 Obtient le flux de données de l'objet.
@@ -14,15 +15,15 @@ Obtient le flux de données de l'objet.
 public StreamContainer DataStreamContainer { get; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
 Le flux de données de l'objet.
 
-### Voir également
+### Voir aussi
 
 * class [StreamContainer](../../streamcontainer/)
 * class [DataStreamSupporter](../)
-* espace de noms [Aspose.PSD](../../datastreamsupporter/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

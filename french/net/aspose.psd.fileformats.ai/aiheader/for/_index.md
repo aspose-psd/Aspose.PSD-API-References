@@ -1,11 +1,12 @@
 ---
-title: AiHeader.For
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: AiHeader propriété. Obtient ou définit pour.
+title: "AiHeader.For"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "AiHeader propriété. Obtient ou définit pour"
 type: docs
 weight: 80
 url: /fr/net/aspose.psd.fileformats.ai/aiheader/for/
 ---
+{{< psd/tize >}}
 ## AiHeader.For property
 
 Obtient ou définit pour.
@@ -14,14 +15,14 @@ Obtient ou définit pour.
 public string For { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
 Pour.
 
-### Voir également
+### Voir aussi
 
 * class [AiHeader](../)
-* espace de noms [Aspose.PSD.FileFormats.Ai](../../aiheader/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

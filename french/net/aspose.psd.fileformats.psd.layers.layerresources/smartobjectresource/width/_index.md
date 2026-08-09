@@ -1,11 +1,12 @@
 ---
-title: SmartObjectResource.Width
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: SmartObjectResource propriété. Obtient ou définit la largeur.
+title: "SmartObjectResource.Width"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "SmartObjectResource propriété. Obtient ou définit la largeur"
 type: docs
-weight: 250
+weight: 230
 url: /fr/net/aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/width/
 ---
+{{< psd/tize >}}
 ## SmartObjectResource.Width property
 
 Obtient ou définit la largeur.
@@ -14,14 +15,14 @@ Obtient ou définit la largeur.
 public double Width { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
 La largeur.
 
-### Voir également
+### Voir aussi
 
 * class [SmartObjectResource](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../smartobjectresource/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

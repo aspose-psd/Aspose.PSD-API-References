@@ -1,11 +1,12 @@
 ---
-title: IopaResource.PsdVersion
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: IopaResource propriété. Obtient la version psd.
+title: "IopaResource.PsdVersion"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété IopaResource. Obtient la version PSD."
 type: docs
 weight: 50
 url: /fr/net/aspose.psd.fileformats.psd.layers.layerresources/ioparesource/psdversion/
 ---
+{{< psd/tize >}}
 ## IopaResource.PsdVersion property
 
 Obtient la version psd.
@@ -14,10 +15,10 @@ Obtient la version psd.
 public override int PsdVersion { get; }
 ```
 
-### Voir également
+### Voir aussi
 
 * class [IopaResource](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../ioparesource/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

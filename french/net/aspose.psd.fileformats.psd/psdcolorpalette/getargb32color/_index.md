@@ -1,37 +1,38 @@
 ---
-title: PsdColorPalette.GetArgb32Color
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: PsdColorPalette méthode. Obtient la couleur de la palette ARGB 32 bits par index.
+title: "PsdColorPalette.GetArgb32Color"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Méthode PsdColorPalette. Obtient la couleur de la palette ARGB 32 bits par index"
 type: docs
 weight: 120
 url: /fr/net/aspose.psd.fileformats.psd/psdcolorpalette/getargb32color/
 ---
+{{< psd/tize >}}
 ## PsdColorPalette.GetArgb32Color method
 
-Obtient la couleur de la palette ARGB 32 bits par index.
+Obtient la couleur de la palette ARGB 32 bits par indice.
 
 ```csharp
 public int GetArgb32Color(int index)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
-| index | Int32 | L'index de couleurs de la palette ARGB 32 bits. |
+| index | Int32 | L'index de la couleur de la palette ARGB 32 bits. |
 
-### Return_Value
+### Valeur de retour
 
-L'entrée de la palette de couleurs spécifiée par le*index*.
+L’entrée de la palette de couleur spécifiée par l’*index*.
 
 ### Exceptions
 
 | exception | condition |
 | --- | --- |
-| ArgumentOutOfRangeException | si palette de couleurs*index* spécifié est en dehors de la plage d'entrées de la palette. |
+| ArgumentOutOfRangeException | si l’*index* de la palette de couleur spécifié est hors de la plage des entrées de la palette. |
 
-### Voir également
+### Voir aussi
 
 * class [PsdColorPalette](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd](../../psdcolorpalette/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,81 +1,24 @@
 ---
-title: Graphics.DrawImageUnscaled
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: Graphics méthode. Dessine une image spécifiée en utilisant sa taille physique dorigine à un emplacement spécifié.
+title: "Graphics.DrawImageUnscaled"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Méthode Graphics. Dessine une image spécifiée en utilisant sa taille physique originale à un emplacement spécifié"
 type: docs
-weight: 230
+weight: 240
 url: /fr/net/aspose.psd/graphics/drawimageunscaled/
 ---
-## DrawImageUnscaled(Image, Point) {#drawimageunscaled}
-
-Dessine une image spécifiée en utilisant sa taille physique d'origine à un emplacement spécifié.
-
-```csharp
-public void DrawImageUnscaled(Image sourceImage, Point point)
-```
-
-| Paramètre | Taper | La description |
-| --- | --- | --- |
-| sourceImage | Image | L'image avec laquelle dessiner. |
-| point | Point | [`Point`](../../point/) structure qui spécifie le coin supérieur gauche de l'image dessinée. |
-
-### Exceptions
-
-| exception | condition |
-| --- | --- |
-| ArgumentNullException | *sourceImage* est nul. |
-
-### Voir également
-
-* class [Image](../../image/)
-* struct [Point](../../point/)
-* class [Graphics](../)
-* espace de noms [Aspose.PSD](../../graphics/)
-* Assemblée [Aspose.PSD](../../../)
-
----
-
-## DrawImageUnscaled(Image, int, int) {#drawimageunscaled_2}
-
-Dessine l'image spécifiée en utilisant sa taille physique d'origine à l'emplacement spécifié par une paire de coordonnées.
-
-```csharp
-public void DrawImageUnscaled(Image sourceImage, int x, int y)
-```
-
-| Paramètre | Taper | La description |
-| --- | --- | --- |
-| sourceImage | Image | L'image avec laquelle dessiner. |
-| x | Int32 | Coordonnée x du coin supérieur gauche de l'image dessinée. |
-| y | Int32 | Coordonnée y du coin supérieur gauche de l'image dessinée. |
-
-### Exceptions
-
-| exception | condition |
-| --- | --- |
-| ArgumentNullException | *sourceImage* est nul. |
-
-### Voir également
-
-* class [Image](../../image/)
-* class [Graphics](../)
-* espace de noms [Aspose.PSD](../../graphics/)
-* Assemblée [Aspose.PSD](../../../)
-
----
-
+{{< psd/tize >}}
 ## DrawImageUnscaled(Image, Rectangle) {#drawimageunscaled_1}
 
-Dessine une image spécifiée en utilisant sa taille physique d'origine à un emplacement spécifié.
+Dessine une image spécifiée en utilisant sa taille physique originale à un emplacement spécifié.
 
 ```csharp
 public void DrawImageUnscaled(Image sourceImage, Rectangle rect)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
-| sourceImage | Image | L'image avec laquelle dessiner. |
-| rect | Rectangle | [`Rectangle`](../../rectangle/) qui spécifie le coin supérieur gauche de l'image dessinée. Les propriétés X et Y du rectangle spécifient le coin supérieur gauche. Les propriétés Largeur et Hauteur sont ignorées. |
+| sourceImage | Image | L'image à dessiner. |
+| rect | Rectangle | [`Rectangle`](../../rectangle/) qui spécifie le coin supérieur gauche de l'image dessinée. Les propriétés X et Y du rectangle spécifient le coin supérieur gauche. Les propriétés Width et Height sont ignorées. |
 
 ### Exceptions
 
@@ -83,31 +26,31 @@ public void DrawImageUnscaled(Image sourceImage, Rectangle rect)
 | --- | --- |
 | ArgumentNullException | *sourceImage* est nul. |
 
-### Voir également
+### Voir aussi
 
 * class [Image](../../image/)
 * struct [Rectangle](../../rectangle/)
 * class [Graphics](../)
-* espace de noms [Aspose.PSD](../../graphics/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## DrawImageUnscaled(Image, int, int, int, int) {#drawimageunscaled_3}
 
-Dessine une image spécifiée en utilisant sa taille physique d'origine à un emplacement spécifié.
+Dessine une image spécifiée en utilisant sa taille physique originale à un emplacement spécifié.
 
 ```csharp
 public void DrawImageUnscaled(Image sourceImage, int x, int y, int width, int height)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
-| sourceImage | Image | L'image avec laquelle dessiner. |
-| x | Int32 | Coordonnée x du coin supérieur gauche de l'image dessinée. |
-| y | Int32 | Coordonnée y du coin supérieur gauche de l'image dessinée. |
-| width | Int32 | Le paramètre n'est pas utilisé. |
-| height | Int32 | Le paramètre n'est pas utilisé. |
+| sourceImage | Image | L'image à dessiner. |
+| x | Int32 | La coordonnée x du coin supérieur gauche de l'image dessinée. |
+| y | Int32 | La coordonnée y du coin supérieur gauche de l'image dessinée. |
+| largeur | Int32 | Le paramètre n'est pas utilisé. |
+| hauteur | Int32 | Le paramètre n'est pas utilisé. |
 
 ### Exceptions
 
@@ -115,11 +58,69 @@ public void DrawImageUnscaled(Image sourceImage, int x, int y, int width, int he
 | --- | --- |
 | ArgumentNullException | *sourceImage* est nul. |
 
-### Voir également
+### Voir aussi
 
 * class [Image](../../image/)
 * class [Graphics](../)
-* espace de noms [Aspose.PSD](../../graphics/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
+
+---
+
+## DrawImageUnscaled(Image, Point) {#drawimageunscaled}
+
+Dessine une image spécifiée en utilisant sa taille physique originale à un emplacement spécifié.
+
+```csharp
+public void DrawImageUnscaled(Image sourceImage, Point point)
+```
+
+| Paramètre | Type | Description |
+| --- | --- | --- |
+| sourceImage | Image | L'image à dessiner. |
+| point | Point | `[`Point`](../../point/) structure qui spécifie le coin supérieur gauche de l'image dessinée.` |
+
+### Exceptions
+
+| exception | condition |
+| --- | --- |
+| ArgumentNullException | *sourceImage* est nul. |
+
+### Voir aussi
+
+* class [Image](../../image/)
+* struct [Point](../../point/)
+* class [Graphics](../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
+
+---
+
+## DrawImageUnscaled(Image, int, int) {#drawimageunscaled_2}
+
+Dessine l'image spécifiée en utilisant sa taille physique originale à l'emplacement spécifié par une paire de coordonnées.
+
+```csharp
+public void DrawImageUnscaled(Image sourceImage, int x, int y)
+```
+
+| Paramètre | Type | Description |
+| --- | --- | --- |
+| sourceImage | Image | L'image à dessiner. |
+| x | Int32 | La coordonnée x du coin supérieur gauche de l'image dessinée. |
+| y | Int32 | La coordonnée y du coin supérieur gauche de l'image dessinée. |
+
+### Exceptions
+
+| exception | condition |
+| --- | --- |
+| ArgumentNullException | *sourceImage* est nul. |
+
+### Voir aussi
+
+* class [Image](../../image/)
+* class [Graphics](../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

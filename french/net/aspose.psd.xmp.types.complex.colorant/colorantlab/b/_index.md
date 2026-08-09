@@ -1,11 +1,12 @@
 ---
-title: ColorantLab.B
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: ColorantLab propriété. Obtient ou définit le composant B.
+title: "ColorantLab.B"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété ColorantLab. Obtient ou définit le composant B"
 type: docs
 weight: 30
 url: /fr/net/aspose.psd.xmp.types.complex.colorant/colorantlab/b/
 ---
+{{< psd/tize >}}
 ## ColorantLab.B property
 
 Obtient ou définit le composant B.
@@ -14,14 +15,14 @@ Obtient ou définit le composant B.
 public int B { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
 Le composant B.
 
-### Voir également
+### Voir aussi
 
 * class [ColorantLab](../)
-* espace de noms [Aspose.PSD.Xmp.Types.Complex.Colorant](../../colorantlab/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.Colorant](../../../aspose.psd.xmp.types.complex.colorant/)
+* assembly [Aspose.PSD](../../../)
 
 

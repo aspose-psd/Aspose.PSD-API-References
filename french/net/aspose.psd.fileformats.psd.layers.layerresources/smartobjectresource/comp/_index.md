@@ -1,27 +1,28 @@
 ---
-title: SmartObjectResource.Comp
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: SmartObjectResource propriété. Obtient ou définit la valeur comp des données de la couche dobjet intelligent dans le fichier PSD. Compositions de calques dans les objets dynamiques
+title: "SmartObjectResource.Comp"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "SmartObjectResource property. Obtient ou définit la valeur du comp des données du calque d'objet dynamique dans le fichier PSD. Les comps de calque dans les objets dynamiques"
 type: docs
 weight: 20
 url: /fr/net/aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/comp/
 ---
+{{< psd/tize >}}
 ## SmartObjectResource.Comp property
 
-Obtient ou définit la valeur comp des données de la couche d'objet intelligent dans le fichier PSD. [Compositions de calques dans les objets dynamiques](https://helpx.adobe.com/photoshop/using/layer-comps.html)
+Obtient ou définit la valeur de comp des données du calque d'objet dynamique dans le fichier PSD. [Layer comps in Smart Objects](https://helpx.adobe.com/photoshop/using/layer-comps.html)
 
 ```csharp
 public int Comp { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
-La valeur comp est -1 si aucune.
+La valeur du comp, est -1 si aucun.
 
-### Voir également
+### Voir aussi
 
 * class [SmartObjectResource](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../smartobjectresource/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

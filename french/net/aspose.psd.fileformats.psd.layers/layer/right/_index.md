@@ -1,27 +1,28 @@
 ---
-title: Layer.Right
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: Layer propriété. Obtient ou définit la bonne position de calque.
+title: "Layer.Right"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété Layer. Obtient ou définit la position du calque droit"
 type: docs
-weight: 290
+weight: 300
 url: /fr/net/aspose.psd.fileformats.psd.layers/layer/right/
 ---
+{{< psd/tize >}}
 ## Layer.Right property
 
-Obtient ou définit la bonne position de calque.
+Obtient ou définit la position du calque droit.
 
 ```csharp
-public int Right { get; set; }
+public virtual int Right { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
-La bonne position de couche.
+La position du calque droit.
 
-### Voir également
+### Voir aussi
 
 * class [Layer](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers](../../layer/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: Font.Size
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: Font propriété. Obtient la taille em de ceFont mesurée dans les unités spécifiées par leUnit propriété.
+title: "Font.Size"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété Font. Obtient la taille en em de cette Font mesurée dans les unités spécifiées par la propriété Unit"
 type: docs
 weight: 60
 url: /fr/net/aspose.psd/font/size/
 ---
+{{< psd/tize >}}
 ## Font.Size property
 
-Obtient la taille em de ce[`Font`](../) mesurée dans les unités spécifiées par le[`Unit`](../unit/) propriété.
+Obtient la taille en em de cette [`Font`](../) mesurée dans les unités spécifiées par la propriété [`Unit`](../unit/).
 
 ```csharp
 public float Size { get; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
-La taille em de ce[`Font`](../).
+La taille en em de cette [`Font`](../).
 
-### Voir également
+### Voir aussi
 
 * class [Font](../)
-* espace de noms [Aspose.PSD](../../font/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: AiHeader.DocumentProcSets
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: AiHeader propriété. Obtient ou définit les ensembles de procédures de document.
+title: "AiHeader.DocumentProcSets"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "AiHeader propriété. Obtient ou définit les ensembles de procédures du document"
 type: docs
 weight: 70
 url: /fr/net/aspose.psd.fileformats.ai/aiheader/documentprocsets/
 ---
+{{< psd/tize >}}
 ## AiHeader.DocumentProcSets property
 
-Obtient ou définit les ensembles de procédures de document.
+Obtient ou définit les ensembles de proc du document.
 
 ```csharp
 public string DocumentProcSets { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
-Le processus de document définit.
+Les ensembles de procédures du document.
 
-### Voir également
+### Voir aussi
 
 * class [AiHeader](../)
-* espace de noms [Aspose.PSD.FileFormats.Ai](../../aiheader/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

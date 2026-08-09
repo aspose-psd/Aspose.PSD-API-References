@@ -1,27 +1,28 @@
 ---
-title: GdFlResource.GradientInterval
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: GdFlResource propriété. Obtient ou définit lintervalle de gradient.
+title: "GdFlResource.GradientInterval"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "GdFlResource propriété. Obtient ou définit l'intervalle du gradient"
 type: docs
-weight: 70
+weight: 80
 url: /fr/net/aspose.psd.fileformats.psd.layers.layerresources/gdflresource/gradientinterval/
 ---
+{{< psd/tize >}}
 ## GdFlResource.GradientInterval property
 
-Obtient ou définit l'intervalle de gradient.
+Obtient ou définit l'intervalle du dégradé.
 
 ```csharp
 public double GradientInterval { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
-L'intervalle de gradient.
+L'intervalle du gradient.
 
-### Voir également
+### Voir aussi
 
 * class [GdFlResource](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../gdflresource/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

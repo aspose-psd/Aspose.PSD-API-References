@@ -1,27 +1,28 @@
 ---
-title: PlacedResource.AntiAliasPolicy
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: PlacedResource propriété. Obtient ou définit la politique antialias du calque placé dans limage PSD.
+title: "PlacedResource.AntiAliasPolicy"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété PlacedResource. Obtient ou définit la politique d'anticrénelage du calque placé dans l'image PSD"
 type: docs
 weight: 10
 url: /fr/net/aspose.psd.fileformats.psd.layers.layerresources/placedresource/antialiaspolicy/
 ---
+{{< psd/tize >}}
 ## PlacedResource.AntiAliasPolicy property
 
-Obtient ou définit la politique anti-alias du calque placé dans l'image PSD.
+Obtient ou définit la politique d'anticrénelage du calque placé dans l'image PSD.
 
 ```csharp
 public virtual int AntiAliasPolicy { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
-La politique anti-alias du calque placé.
+La politique d'anticrénelage du calque placé.
 
-### Voir également
+### Voir aussi
 
 * class [PlacedResource](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../placedresource/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

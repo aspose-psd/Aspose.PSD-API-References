@@ -1,11 +1,12 @@
 ---
-title: DescriptorStructure.StructureKey
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: DescriptorStructure champ. Identifie la clé de structure.
+title: "DescriptorStructure.StructureKey"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Champ DescriptorStructure. Identifie la clé de la structure"
 type: docs
 weight: 80
 url: /fr/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/descriptorstructure/structurekey/
 ---
+{{< psd/tize >}}
 ## DescriptorStructure.StructureKey field
 
 Identifie la clé de structure.
@@ -14,10 +15,10 @@ Identifie la clé de structure.
 public const int StructureKey;
 ```
 
-### Voir également
+### Voir aussi
 
 * class [DescriptorStructure](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../descriptorstructure/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 

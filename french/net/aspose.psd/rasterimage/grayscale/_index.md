@@ -1,11 +1,12 @@
 ---
-title: RasterImage.Grayscale
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: RasterImage méthode. Transformation dune image en sa représentation en niveaux de gris
+title: "RasterImage.Grayscale"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Méthode RasterImage. Transformation d'une image en sa représentation en niveaux de gris"
 type: docs
 weight: 340
 url: /fr/net/aspose.psd/rasterimage/grayscale/
 ---
+{{< psd/tize >}}
 ## RasterImage.Grayscale method
 
 Transformation d'une image en sa représentation en niveaux de gris
@@ -14,10 +15,10 @@ Transformation d'une image en sa représentation en niveaux de gris
 public virtual void Grayscale()
 ```
 
-### Voir également
+### Voir aussi
 
 * class [RasterImage](../)
-* espace de noms [Aspose.PSD](../../rasterimage/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

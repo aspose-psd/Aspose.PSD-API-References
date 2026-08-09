@@ -1,11 +1,12 @@
 ---
-title: ExpaResource.GammaCorrection
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: ExpaResource propriété. Obtient ou définit le gamma.
+title: "ExpaResource.GammaCorrection"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété ExpaResource. Obtient ou définit le gamma"
 type: docs
 weight: 30
 url: /fr/net/aspose.psd.fileformats.psd.layers.layerresources/exparesource/gammacorrection/
 ---
+{{< psd/tize >}}
 ## ExpaResource.GammaCorrection property
 
 Obtient ou définit le gamma.
@@ -14,14 +15,14 @@ Obtient ou définit le gamma.
 public float GammaCorrection { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
 Le gamma.
 
-### Voir également
+### Voir aussi
 
 * class [ExpaResource](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../exparesource/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

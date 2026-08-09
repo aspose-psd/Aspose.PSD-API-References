@@ -1,14 +1,15 @@
 ---
-title: Class ObjectArrayStructure
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures.ObjectArrayStructure classe. Définit la classe ObjectArrayStructure qui contient généralementUnitArrayStructure array. Il est utilisé dans les ressources du fichier PSD telles que PlLd Resource et SoLd Resource.
+title: "Classe ObjectArrayStructure"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures.ObjectArrayStructure classe. Définit la classe ObjectArrayStructure qui contient généralement un tableau UnitArrayStructure. Elle est utilisée dans les ressources de fichiers PSD telles que la ressource PlLd et la ressource SoLd."
 type: docs
-weight: 3200
+weight: 3590
 url: /fr/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/objectarraystructure/
 ---
+{{< psd/tize >}}
 ## ObjectArrayStructure class
 
-Définit la classe ObjectArrayStructure qui contient généralement[`UnitArrayStructure`](../unitarraystructure/) array. Il est utilisé dans les ressources du fichier PSD, telles que PlLd Resource et SoLd Resource.
+Définit la classe ObjectArrayStructure qui contient généralement un tableau [`UnitArrayStructure`](../unitarraystructure/). Elle est utilisée dans les ressources de fichiers PSD, telles que la ressource PlLd et la ressource SoLd.
 
 ```csharp
 public sealed class ObjectArrayStructure : OSTypeStructure
@@ -16,40 +17,40 @@ public sealed class ObjectArrayStructure : OSTypeStructure
 
 ## Constructeurs
 
-| Nom | La description |
+| Nom | Description |
 | --- | --- |
-| [ObjectArrayStructure](objectarraystructure/#constructor_1)(string, string, OSTypeStructure[]) | Initialise une nouvelle instance du`ObjectArrayStructure` classe. |
-| [ObjectArrayStructure](objectarraystructure/#constructor)(int, ClassID, ClassID, string, OSTypeStructure[]) | Initialise une nouvelle instance du`ObjectArrayStructure` classe. |
+| [ObjectArrayStructure](objectarraystructure/#constructor_1)(string, string, OSTypeStructure[]) | Initialise une nouvelle instance de la classe `ObjectArrayStructure`. |
+| [ObjectArrayStructure](objectarraystructure/#constructor)(int, ClassID, ClassID, string, OSTypeStructure[]) | Initialise une nouvelle instance de la classe `ObjectArrayStructure`. |
 
 ## Propriétés
 
-| Nom | La description |
+| Nom | Description |
 | --- | --- |
-| [ClassID](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/objectarraystructure/classid/) { get; set; } | Obtient ou définit l'ID de classe de tableau d'objets. |
-| [ClassName](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/objectarraystructure/classname/) { get; set; } | Obtient ou définit le nom de la classe de tableau d'objets. |
-| override [Key](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/objectarraystructure/key/) { get; } | Obtient la clé de structure du tableau d'objets. |
+| [ClassID](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/objectarraystructure/classid/) { get; set; } | Obtient ou définit l'ID de la classe du tableau d'objets. |
+| [ClassName](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/objectarraystructure/classname/) { get; set; } | Obtient ou définit le nom de la classe du tableau d'objets. |
+| override [Key](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/objectarraystructure/key/) { get; } | Obtient la clé de la structure du tableau d'objets. |
 | [KeyName](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/keyname/) { get; set; } | Obtient ou définit le nom de la clé. |
-| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/objectarraystructure/length/) { get; } | Obtient le[`OSTypeStructure`](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/) longueur en octets. |
-| [StructureCount](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/objectarraystructure/structurecount/) { get; } | Obtient le nombre de sous-structures de tableau d'objets. |
+| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/objectarraystructure/length/) { get; } | Obtient la longueur en octets du [`OSTypeStructure`](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/). |
+| [StructureCount](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/objectarraystructure/structurecount/) { get; } | Obtient le nombre de sous-structures du tableau d'objets. |
 | [Structures](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/objectarraystructure/structures/) { get; set; } | Obtient ou définit une copie d'un tableau de structures. |
 
 ## Méthodes
 
-| Nom | La description |
+| Nom | Description |
 | --- | --- |
 | virtual [GetHeaderLength](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/getheaderlength/)() | Obtient la longueur de l'en-tête. |
 | [Save](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/save/)(StreamContainer) | Enregistre la structure dans le conteneur de flux spécifié. |
 | [SaveWithoutKeyName](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/savewithoutkeyname/)(StreamContainer) | Enregistre la structure dans le conteneur de flux spécifié. |
 
-## Des champs
+## Champs
 
-| Nom | La description |
+| Nom | Description |
 | --- | --- |
 | const [StructureKey](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/objectarraystructure/structurekey/) | Identifie la clé de structure 'ObAr'. |
 
-### Exemples
+## Exemples
 
-Le code suivant illustre la prise en charge des signatures ObAr et UnFl.
+Le code suivant montre la prise en charge des signatures ObAr et UnFl.
 
 ```csharp
 [C#]
@@ -101,10 +102,10 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
 }
 ```
 
-### Voir également
+### Voir aussi
 
 * class [OSTypeStructure](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
-* Assemblée [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../)
 
 

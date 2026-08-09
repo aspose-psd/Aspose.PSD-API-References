@@ -1,11 +1,12 @@
 ---
-title: StreamContainer.Seek
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: StreamContainer méthode. Définit la position dans le flux actuel.
+title: "StreamContainer.Seek"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Méthode StreamContainer. Définit la position dans le flux actuel"
 type: docs
 weight: 140
 url: /fr/net/aspose.psd/streamcontainer/seek/
 ---
+{{< psd/tize >}}
 ## StreamContainer.Seek method
 
 Définit la position dans le flux actuel.
@@ -14,20 +15,20 @@ Définit la position dans le flux actuel.
 public virtual long Seek(long offset, SeekOrigin origin)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
-| offset | Int64 | Un décalage d'octet par rapport au*origin* paramètre. Cette valeur représente le décalage par rapport à la position de départ du flux transmise dans le constructeur StreamContainer. |
-| origin | SeekOrigin | Une valeur de typeSeekOrigin indiquant le point de référence utilisé pour obtenir la nouvelle position. |
+| offset | Int64 | Un décalage en octets relatif au paramètre *origin*. Cette valeur représente le décalage par rapport à la position de départ du flux passée au constructeur de StreamContainer. |
+| origin | SeekOrigin | Une valeur de type SeekOrigin indiquant le point de référence utilisé pour obtenir la nouvelle position. |
 
-### Return_Value
+### Valeur de retour
 
 La nouvelle position dans le flux actuel.
 
-### Voir également
+### Voir aussi
 
 * enum [SeekOrigin](../../seekorigin/)
 * class [StreamContainer](../)
-* espace de noms [Aspose.PSD](../../streamcontainer/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

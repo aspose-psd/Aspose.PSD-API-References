@@ -1,11 +1,12 @@
 ---
-title: IGradientTransparencyPoint.Opacity
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: IGradientTransparencyPoint propriété. Obtient ou définit lopacité.
+title: "IGradientTransparencyPoint.Opacity"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "IGradientTransparencyPoint propriété. Obtient ou définit l'opacité"
 type: docs
 weight: 30
 url: /fr/net/aspose.psd.fileformats.psd.layers.fillsettings/igradienttransparencypoint/opacity/
 ---
+{{< psd/tize >}}
 ## IGradientTransparencyPoint.Opacity property
 
 Obtient ou définit l'opacité.
@@ -14,14 +15,14 @@ Obtient ou définit l'opacité.
 public double Opacity { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
 L'opacité.
 
-### Voir également
+### Voir aussi
 
 * interface [IGradientTransparencyPoint](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../igradienttransparencypoint/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../../)
 
 

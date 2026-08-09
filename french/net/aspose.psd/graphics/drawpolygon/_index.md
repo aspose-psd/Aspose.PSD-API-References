@@ -1,23 +1,24 @@
 ---
-title: Graphics.DrawPolygon
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: Graphics méthode. Dessine un polygone défini par un tableau dePointF structures.
+title: "Graphics.DrawPolygon"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Méthode Graphics. Dessine un polygone défini par un tableau de structures PointF"
 type: docs
-weight: 290
+weight: 300
 url: /fr/net/aspose.psd/graphics/drawpolygon/
 ---
+{{< psd/tize >}}
 ## DrawPolygon(Pen, PointF[]) {#drawpolygon}
 
-Dessine un polygone défini par un tableau de[`PointF`](../../pointf/) structures.
+Dessine un polygone défini par un tableau de structures [`PointF`](../../pointf/).
 
 ```csharp
 public void DrawPolygon(Pen pen, PointF[] points)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
 | pen | Pen | [`Pen`](../../pen/) qui détermine la couleur, la largeur et le style du polygone. |
-| points | PointF[] | Tableau de[`PointF`](../../pointf/) structures qui représentent les sommets du polygone. |
+| points | PointF[] | Tableau de structures [`PointF`](../../pointf/) qui représentent les sommets du polygone. |
 
 ### Exceptions
 
@@ -25,28 +26,28 @@ public void DrawPolygon(Pen pen, PointF[] points)
 | --- | --- |
 | ArgumentNullException | *pen* est nul. -ou- *points* est nul. |
 
-### Voir également
+### Voir aussi
 
 * class [Pen](../../pen/)
 * struct [PointF](../../pointf/)
 * class [Graphics](../)
-* espace de noms [Aspose.PSD](../../graphics/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## DrawPolygon(Pen, Point[]) {#drawpolygon_1}
 
-Dessine un polygone défini par un tableau de[`Point`](../../point/) structures.
+Dessine un polygone défini par un tableau de structures [`Point`](../../point/).
 
 ```csharp
 public void DrawPolygon(Pen pen, Point[] points)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
 | pen | Pen | [`Pen`](../../pen/) qui détermine la couleur, la largeur et le style du polygone. |
-| points | Point[] | Tableau de[`Point`](../../point/) structures qui représentent les sommets du polygone. |
+| points | Point[] | Tableau de structures [`Point`](../../point/) qui représentent les sommets du polygone. |
 
 ### Exceptions
 
@@ -54,12 +55,12 @@ public void DrawPolygon(Pen pen, Point[] points)
 | --- | --- |
 | ArgumentNullException | *pen* est nul. |
 
-### Voir également
+### Voir aussi
 
 * class [Pen](../../pen/)
 * struct [Point](../../point/)
 * class [Graphics](../)
-* espace de noms [Aspose.PSD](../../graphics/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

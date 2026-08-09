@@ -1,11 +1,12 @@
 ---
-title: Class FileSource
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: Aspose.PSD.Sources.FileSource classe. Représente une source de fichier capable de manipuler des fichiers.
+title: "Classe FileSource"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Classe Aspose.PSD.Sources.FileSource. Représente une source de fichier capable de manipuler des fichiers"
 type: docs
-weight: 5610
+weight: 6110
 url: /fr/net/aspose.psd.sources/filesource/
 ---
+{{< psd/tize >}}
 ## FileSource class
 
 Représente une source de fichier capable de manipuler des fichiers.
@@ -16,20 +17,20 @@ public abstract class FileSource : Source
 
 ## Propriétés
 
-| Nom | La description |
+| Nom | Description |
 | --- | --- |
-| abstract [IsTemporal](../../aspose.psd.sources/filesource/istemporal/) { get; } | Obtient une valeur indiquant si le fichier sera temporel. |
+| abstract [IsTemporal](../../aspose.psd.sources/filesource/istemporal/) { get; } | Obtient une valeur indiquant si le fichier sera temporaire. |
 
 ## Méthodes
 
-| Nom | La description |
+| Nom | Description |
 | --- | --- |
 | abstract [GetStreamContainer](../../aspose.psd/source/getstreamcontainer/)() | Obtient le conteneur de flux. |
 
-### Voir également
+### Voir aussi
 
 * class [Source](../../aspose.psd/source/)
-* espace de noms [Aspose.PSD.Sources](../../aspose.psd.sources/)
-* Assemblée [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Sources](../../aspose.psd.sources/)
+* assembly [Aspose.PSD](../../)
 
 

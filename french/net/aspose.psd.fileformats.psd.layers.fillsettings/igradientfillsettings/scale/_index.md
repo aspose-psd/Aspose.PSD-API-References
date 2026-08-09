@@ -1,24 +1,25 @@
 ---
-title: IGradientFillSettings.Scale
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: IGradientFillSettings propriété. Obtient ou définit léchelle.
+title: "IGradientFillSettings.Scale"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété IGradientFillSettings. Obtient ou définit l'échelle du dégradé normalisée en pourcentage"
 type: docs
-weight: 100
+weight: 90
 url: /fr/net/aspose.psd.fileformats.psd.layers.fillsettings/igradientfillsettings/scale/
 ---
+{{< psd/tize >}}
 ## IGradientFillSettings.Scale property
 
-Obtient ou définit l'échelle.
+Obtient ou définit l'échelle de gradient **normalisée** (en pourcentage).
 
 ```csharp
 public int Scale { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
 L'échelle.
 
-### Exemples
+## Exemples
 
 L'exemple suivant montre comment utiliser la propriété Scale pour mettre à l'échelle FillLayer avec un dégradé.
 
@@ -30,7 +31,7 @@ string output = "scaledImage.png";
 
 using (var image = (PsdImage)Image.Load(sourceFileName))
 {
-    // obtention d'un calque de remplissage
+    // obtenir une couche de remplissage
     FillLayer fillLayer = null;
     foreach (var layer in image.Layers)
     {
@@ -43,18 +44,18 @@ using (var image = (PsdImage)Image.Load(sourceFileName))
 
     var settings = fillLayer.FillSettings as IGradientFillSettings;
 
-    // met à jour la valeur de l'échelle
+    // mettre à jour la valeur d'échelle
     settings.Scale = 200;
-    fillLayer.Update(); // Met à jour les données de pixels
+    fillLayer.Update(); // Updates pixels data
 
     image.Save(output, new PngOptions() { ColorType = PngColorType.TruecolorWithAlpha });
 }
 ```
 
-### Voir également
+### Voir aussi
 
 * interface [IGradientFillSettings](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../igradientfillsettings/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../../)
 
 

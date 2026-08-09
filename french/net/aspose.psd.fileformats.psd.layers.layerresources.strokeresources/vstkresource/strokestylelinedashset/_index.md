@@ -1,23 +1,24 @@
 ---
-title: VstkResource.StrokeStyleLineDashSet
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: VstkResource propriété. Obtient ou définit un tableau de tirets de ligne.
+title: "VstkResource.StrokeStyleLineDashSet"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété VstkResource. Obtient ou définit un tableau de tirets de ligne"
 type: docs
-weight: 140
+weight: 120
 url: /fr/net/aspose.psd.fileformats.psd.layers.layerresources.strokeresources/vstkresource/strokestylelinedashset/
 ---
+{{< psd/tize >}}
 ## VstkResource.StrokeStyleLineDashSet property
 
-Obtient ou définit un tableau de tirets de ligne.
+Obtient ou définit le tableau des tirets de ligne.
 
 ```csharp
 public double[] StrokeStyleLineDashSet { get; set; }
 ```
 
-### Voir également
+### Voir aussi
 
 * class [VstkResource](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.StrokeResources](../../vstkresource/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.StrokeResources](../../../aspose.psd.fileformats.psd.layers.layerresources.strokeresources/)
+* assembly [Aspose.PSD](../../../)
 
 

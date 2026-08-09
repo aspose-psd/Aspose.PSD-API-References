@@ -1,11 +1,12 @@
 ---
-title: LayerStateEffects.AddDropShadow
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: LayerStateEffects méthode. Ajoute leffet dombre portée.
+title: "LayerStateEffects.AddDropShadow"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Méthode LayerStateEffects. Ajoute l'effet d'ombre portée"
 type: docs
 weight: 40
 url: /fr/net/aspose.psd.fileformats.psd.layers.animation/layerstateeffects/adddropshadow/
 ---
+{{< psd/tize >}}
 ## LayerStateEffects.AddDropShadow method
 
 Ajoute l'effet d'ombre portée.
@@ -14,13 +15,13 @@ Ajoute l'effet d'ombre portée.
 public DropShadowEffect AddDropShadow()
 ```
 
-### Return_Value
+### Valeur de retour
 
-La nouvelle instance de[`DropShadowEffect`](../../../aspose.psd.fileformats.psd.layers.layereffects/dropshadoweffect/) classe.
+La nouvelle instance de la classe [`DropShadowEffect`](../../../aspose.psd.fileformats.psd.layers.layereffects/dropshadoweffect/).
 
-### Exemples
+## Exemples
 
-Le code suivant illustre la prise en charge des effets dans les images de la chronologie.
+Le code suivant démontre la prise en charge des effets dans les cadres de la Timeline.
 
 ```csharp
 [C#]
@@ -30,29 +31,26 @@ string outputFile = "output.psd";
 
 using (var psdImage = (PsdImage)Image.Load(sourceFile))
 {
-    TimeLine timeLine = TimeLine.InitializeFrom(psdImage);
-    int[] layerIds = timeLine.LayerIds;
+    Timeline timeline = psdImage.Timeline;
 
-    var layerStateEffects11 = timeLine.Frames[1].LayerStates[layerIds[1]].StateEffects;
+    var layerStateEffects11 = timeline.Frames[1].LayerStates[1].StateEffects;
 
     layerStateEffects11.AddDropShadow();
     layerStateEffects11.AddGradientOverlay();
 
-    var layerStateEffects21 = timeLine.Frames[2].LayerStates[layerIds[1]].StateEffects;
+    var layerStateEffects21 = timeline.Frames[2].LayerStates[1].StateEffects;
     layerStateEffects21.AddStroke(FillType.Color);
     layerStateEffects21.IsVisible = false;
-
-    timeLine.ApplyTo(psdImage);
 
     psdImage.Save(outputFile);
 }
 ```
 
-### Voir également
+### Voir aussi
 
 * class [DropShadowEffect](../../../aspose.psd.fileformats.psd.layers.layereffects/dropshadoweffect/)
 * class [LayerStateEffects](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.Animation](../../layerstateeffects/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.Animation](../../../aspose.psd.fileformats.psd.layers.animation/)
+* assembly [Aspose.PSD](../../../)
 
 

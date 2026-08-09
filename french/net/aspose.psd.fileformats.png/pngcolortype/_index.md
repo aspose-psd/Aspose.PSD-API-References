@@ -1,14 +1,15 @@
 ---
-title: Enum PngColorType
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: Aspose.PSD.FileFormats.Png.PngColorType énumération. Représente le type de couleur de limage PNG.
+title: "Enum PngColorType"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Aspose.PSD.FileFormats.Png.PngColorType enum. Représente le type de couleur d'image PNG."
 type: docs
-weight: 1580
+weight: 1590
 url: /fr/net/aspose.psd.fileformats.png/pngcolortype/
 ---
+{{< psd/tize >}}
 ## PngColorType enumeration
 
-Représente le type de couleur de l'image PNG.
+Représente le type de couleur d'image PNG.
 
 ```csharp
 public enum PngColorType
@@ -16,17 +17,17 @@ public enum PngColorType
 
 ### Valeurs
 
-| Nom | Évaluer | La description |
+| Nom | Valeur | Description |
 | --- | --- | --- |
-| Grayscale | `0` | Représente le type de couleur où chaque pixel est un échantillon de niveaux de gris. |
-| Truecolor | `2` | Représente le type de couleur où chaque pixel est un triplet R, G, B. |
-| IndexedColor | `3` | Représente le type de couleur où chaque pixel est un index de palette ; un bloc PLTE doit apparaître. |
-| GrayscaleWithAlpha | `4` | Représente le type de couleur où chaque pixel est un échantillon de niveaux de gris suivi d'un échantillon alpha. |
-| TruecolorWithAlpha | `6` | Représente le type de couleur où chaque pixel est un triplet R, G, B suivi d'un échantillon alpha. |
+| Grayscale | `0` | Représente le type de couleur où chaque pixel est un échantillon en niveaux de gris. |
+| Truecolor | `2` | Représente le type de couleur où chaque pixel est un triplet R,G,B. |
+| IndexedColor | `3` | Représente le type de couleur où chaque pixel est un index de palette ; un bloc PLTE doit apparaître. |
+| GrayscaleWithAlpha | `4` | Représente le type de couleur où chaque pixel est un échantillon en niveaux de gris suivi d'un échantillon alpha. |
+| TruecolorWithAlpha | `6` | Représente le type de couleur où chaque pixel est un triplet R,G,B suivi d'un échantillon alpha. |
 
-### Voir également
+### Voir aussi
 
-* espace de noms [Aspose.PSD.FileFormats.Png](../../aspose.psd.fileformats.png/)
-* Assemblée [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Png](../../aspose.psd.fileformats.png/)
+* assembly [Aspose.PSD](../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: XmpDynamicMediaPackage.SetFileDataRate
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: XmpDynamicMediaPackage méthode. Définit le débit de données du fichier.
+title: "XmpDynamicMediaPackage.SetFileDataRate"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Méthode XmpDynamicMediaPackage. Définit le débit de données du fichier"
 type: docs
 weight: 210
 url: /fr/net/aspose.psd.xmp.schemas.xmpdm/xmpdynamicmediapackage/setfiledatarate/
 ---
+{{< psd/tize >}}
 ## XmpDynamicMediaPackage.SetFileDataRate method
 
 Définit le débit de données du fichier.
@@ -14,15 +15,15 @@ Définit le débit de données du fichier.
 public void SetFileDataRate(Rational rate)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
-| rate | Rational | Débit de données du fichier en mégaoctets par seconde. |
+| taux | Rational | Le débit de données du fichier en mégaoctets par seconde. |
 
-### Voir également
+### Voir aussi
 
 * class [Rational](../../../aspose.psd.xmp.types.derived/rational/)
 * class [XmpDynamicMediaPackage](../)
-* espace de noms [Aspose.PSD.Xmp.Schemas.XmpDm](../../xmpdynamicmediapackage/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpDm](../../../aspose.psd.xmp.schemas.xmpdm/)
+* assembly [Aspose.PSD](../../../)
 
 

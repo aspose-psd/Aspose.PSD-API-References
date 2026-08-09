@@ -1,49 +1,50 @@
 ---
-title: Matrix.Multiply
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: Matrix méthode. Multiplie cette matrice par la matrice spécifiée dans le paramètre matrix et dans lordre spécifié dans le paramètre order.
+title: "Matrix.Multiply"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Méthode Matrix. Multiplie cette Matrix par la matrice spécifiée dans le paramètre matrix et dans l'ordre spécifié dans le paramètre order."
 type: docs
 weight: 120
 url: /fr/net/aspose.psd/matrix/multiply/
 ---
+{{< psd/tize >}}
 ## Multiply(Matrix, MatrixOrder) {#multiply_1}
 
-Multiplie cette matrice par la matrice spécifiée dans le paramètre matrix, et dans l'ordre spécifié dans le paramètre order.
+Multiplie cette Matrix par la matrice spécifiée dans le paramètre matrix, et dans l'ordre spécifié dans le paramètre order.
 
 ```csharp
 public void Multiply(Matrix Tx, MatrixOrder order)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
 | Tx | Matrix | Le tx. Le tx. Le tx. |
-| order | MatrixOrder | L'ordre. L'ordre. L'ordre. |
+| ordre | MatrixOrder | L'ordre. L'ordre. L'ordre. |
 
-### Voir également
+### Voir aussi
 
 * enum [MatrixOrder](../../matrixorder/)
 * class [Matrix](../)
-* espace de noms [Aspose.PSD](../../matrix/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Multiply(Matrix) {#multiply}
 
-Multiplie cette matrice par la matrice spécifiée dans le paramètre de matrice en utilisant (par défaut) l'ordre de préfixe.
+Multiplie cette Matrix par la matrice spécifiée dans le paramètre matrix en utilisant l'ordre (par défaut) Prepend.
 
 ```csharp
 public void Multiply(Matrix Tx)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
 | Tx | Matrix | La matrice avec laquelle multiplier. |
 
-### Voir également
+### Voir aussi
 
 * class [Matrix](../)
-* espace de noms [Aspose.PSD](../../matrix/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

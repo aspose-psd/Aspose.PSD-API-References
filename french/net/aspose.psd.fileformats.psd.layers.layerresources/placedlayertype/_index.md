@@ -1,14 +1,15 @@
 ---
-title: Enum PlacedLayerType
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.PlacedLayerType énumération. Définit lénumération PlacedLayerType pour la ressource PlLd de la couche placée.
+title: "Énumération PlacedLayerType"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Énumération Aspose.PSD.FileFormats.Psd.Layers.LayerResources.PlacedLayerType. Définit l'énumération PlacedLayerType pour la ressource de calque placé PlLd"
 type: docs
-weight: 2930
+weight: 3280
 url: /fr/net/aspose.psd.fileformats.psd.layers.layerresources/placedlayertype/
 ---
+{{< psd/tize >}}
 ## PlacedLayerType enumeration
 
-Définit l'énumération PlacedLayerType pour la ressource PlLd de la couche placée.
+Définit l'énumération PlacedLayerType pour la ressource de calque placé PlLd.
 
 ```csharp
 public enum PlacedLayerType
@@ -16,16 +17,16 @@ public enum PlacedLayerType
 
 ### Valeurs
 
-| Nom | Évaluer | La description |
+| Nom | Valeur | Description |
 | --- | --- | --- |
 | Unknown | `0` | Le type de calque placé inconnu |
-| Vector | `1` | Le type de calque placé vecteur |
+| Vector | `1` | Le type de calque placé vectoriel |
 | Raster | `2` | Le type de calque placé raster |
-| ImageStack | `3` | La pile d'images a placé le type de calque |
+| ImageStack | `3` | Le type de calque placé pile d'images |
 
-### Exemples
+## Exemples
 
-Le code suivant illustre la prise en charge de la ressource PlLdResource.
+Le code suivant démontre la prise en charge de la ressource PlLdResource.
 
 ```csharp
 [C#]
@@ -207,15 +208,15 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
                 resource.Bottom = 248;
                 resource.Right = 145;
 
-                // Attention à certains paramètres : l'image peut devenir illisible par Adobe® Photoshop®
-                ////ressource.UOrder = 6;
-                ////ressource.VOrder = 9;
+                // Soyez prudent avec certains paramètres : l'image peut devenir illisible par Adobe® Photoshop®.
+                ////resource.UOrder = 6;
+                ////resource.VOrder = 9;
 
-                // Ne changez rien sinon vous ne pourrez pas utiliser la transformation libre
-                // ou changez l'objet intelligent de soulignement en type vectoriel
-                ////resource.PlacedLayerType = PlacedLayerType.Vector ;
+                // Ne modifiez pas cela sinon vous ne pourrez pas utiliser la transformation libre.
+                // ou changez l'objet intelligent sous-jacent en type vecteur.
+                ////resource.PlacedLayerType = PlacedLayerType.Vector;
 
-                // Il devrait y avoir une PlLdResource valide avec cet identifiant unique
+                // Il doit exister une PlLdResource valide avec cet identifiant unique.
                 ////resource.UniqueId = new Guid("98765432-10fe-cba0-1234-56789abcdef0");
 
                 break;
@@ -228,9 +229,9 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
 }
 ```
 
-### Voir également
+### Voir aussi
 
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
-* Assemblée [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../)
 
 

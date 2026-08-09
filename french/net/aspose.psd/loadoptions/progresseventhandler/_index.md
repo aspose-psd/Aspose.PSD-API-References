@@ -1,28 +1,29 @@
 ---
-title: LoadOptions.ProgressEventHandler
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: LoadOptions propriété. Obtient ou définit le gestionnaire dévénements de progression.
+title: "LoadOptions.ProgressEventHandler"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété LoadOptions. Obtient ou définit le gestionnaire d'événement de progression"
 type: docs
 weight: 50
 url: /fr/net/aspose.psd/loadoptions/progresseventhandler/
 ---
+{{< psd/tize >}}
 ## LoadOptions.ProgressEventHandler property
 
-Obtient ou définit le gestionnaire d'événements de progression.
+Obtient ou définit le gestionnaire d'événement de progression.
 
 ```csharp
 public ProgressEventHandler ProgressEventHandler { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
-Le gestionnaire d'événements de progression.
+Le gestionnaire d'événement de progression.
 
-### Voir également
+### Voir aussi
 
 * delegate [ProgressEventHandler](../../progresseventhandler/)
 * class [LoadOptions](../)
-* espace de noms [Aspose.PSD](../../loadoptions/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

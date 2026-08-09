@@ -1,11 +1,12 @@
 ---
-title: TypeToolInfoResource.CharacterCount
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: TypeToolInfoResource propriété. Obtient ou définit le nombre de caractères.
+title: "TypeToolInfoResource.CharacterCount"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété TypeToolInfoResource. Obtient ou définit le nombre de caractères"
 type: docs
 weight: 40
 url: /fr/net/aspose.psd.fileformats.psd.layers.layerresources/typetoolinforesource/charactercount/
 ---
+{{< psd/tize >}}
 ## TypeToolInfoResource.CharacterCount property
 
 Obtient ou définit le nombre de caractères.
@@ -14,14 +15,14 @@ Obtient ou définit le nombre de caractères.
 public int CharacterCount { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
 Le nombre de caractères.
 
-### Voir également
+### Voir aussi
 
 * class [TypeToolInfoResource](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../typetoolinforesource/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

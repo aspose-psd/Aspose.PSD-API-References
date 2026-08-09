@@ -1,11 +1,12 @@
 ---
-title: ExifData.SpatialFrequencyResponse
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: ExifData propriété. Obtient ou définit la réponse en fréquence spatiale.
+title: "ExifData.SpatialFrequencyResponse"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété ExifData. Obtient ou définit la réponse en fréquence spatiale"
 type: docs
 weight: 960
 url: /fr/net/aspose.psd.exif/exifdata/spatialfrequencyresponse/
 ---
+{{< psd/tize >}}
 ## ExifData.SpatialFrequencyResponse property
 
 Obtient ou définit la réponse en fréquence spatiale.
@@ -14,14 +15,14 @@ Obtient ou définit la réponse en fréquence spatiale.
 public byte[] SpatialFrequencyResponse { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
 La réponse en fréquence spatiale.
 
-### Voir également
+### Voir aussi
 
 * class [ExifData](../)
-* espace de noms [Aspose.PSD.Exif](../../exifdata/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

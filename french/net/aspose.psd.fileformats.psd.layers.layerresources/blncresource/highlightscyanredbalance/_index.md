@@ -1,27 +1,28 @@
 ---
-title: BlncResource.HighlightsCyanRedBalance
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: BlncResource propriété. Obtient ou définit la balance Highlights Cyan Red.
+title: "BlncResource.HighlightsCyanRedBalance"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété BlncResource. Obtient ou définit le Highlights Cyan Red Balance"
 type: docs
 weight: 20
 url: /fr/net/aspose.psd.fileformats.psd.layers.layerresources/blncresource/highlightscyanredbalance/
 ---
+{{< psd/tize >}}
 ## BlncResource.HighlightsCyanRedBalance property
 
-Obtient ou définit la balance Highlights Cyan Red.
+Obtient ou définit le Highlights Cyan Red Balance.
 
 ```csharp
 public short HighlightsCyanRedBalance { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
-L'équilibre des points forts du cyan et du rouge.
+L'équilibre Cyan-Rouge des hautes lumières.
 
-### Voir également
+### Voir aussi
 
 * class [BlncResource](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../blncresource/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

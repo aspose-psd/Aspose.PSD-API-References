@@ -1,14 +1,15 @@
 ---
-title: Class IopaResource
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.IopaResource classe. Class IopaResource. Cette ressource contient des informations sur la propriété dopacité de remplissage du style de calque form
+title: "Classe IopaResource"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Classe Aspose.PSD.FileFormats.Psd.Layers.LayerResources.IopaResource. Classe IopaResource. Cette ressource contient des informations sur la propriété d'opacité de remplissage du formulaire de style de calque"
 type: docs
-weight: 2560
+weight: 2870
 url: /fr/net/aspose.psd.fileformats.psd.layers.layerresources/ioparesource/
 ---
+{{< psd/tize >}}
 ## IopaResource class
 
-Class IopaResource. Cette ressource contient des informations sur la propriété d'opacité de remplissage du style de calque form
+Classe IopaResource. Cette ressource contient des informations sur la propriété d'opacité de remplissage du formulaire de style du calque
 
 ```csharp
 public class IopaResource : LayerResource
@@ -16,38 +17,38 @@ public class IopaResource : LayerResource
 
 ## Constructeurs
 
-| Nom | La description |
+| Nom | Description |
 | --- | --- |
-| [IopaResource](ioparesource/#constructor)() | Initialise une nouvelle instance du`IopaResource` classe. |
-| [IopaResource](ioparesource/#constructor_1)(byte[]) | Initialise une nouvelle instance du`IopaResource` classe. |
+| [IopaResource](ioparesource/#constructor)() | Initialise une nouvelle instance de la classe `IopaResource`. |
+| [IopaResource](ioparesource/#constructor_1)(byte[]) | Initialise une nouvelle instance de la classe `IopaResource`. |
 
 ## Propriétés
 
-| Nom | La description |
+| Nom | Description |
 | --- | --- |
 | [FillOpacity](../../aspose.psd.fileformats.psd.layers.layerresources/ioparesource/fillopacity/) { get; set; } | Obtient ou définit l'opacité du remplissage. |
-| override [Key](../../aspose.psd.fileformats.psd.layers.layerresources/ioparesource/key/) { get; } | Obtient la clé de ressource de couche. |
-| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/ioparesource/length/) { get; } | Obtient la longueur de la ressource de couche en octets. |
-| override [PsdVersion](../../aspose.psd.fileformats.psd.layers.layerresources/ioparesource/psdversion/) { get; } | Obtient la version psd. |
-| override [Signature](../../aspose.psd.fileformats.psd.layers.layerresources/ioparesource/signature/) { get; } | Obtient la signature. |
+| [Key](../../aspose.psd.fileformats.psd.layers/layerresource/key/) { get; } | Obtient la clé de ressource du calque. |
+| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/ioparesource/length/) { get; } | Obtient la longueur de la ressource du calque en octets. |
+| virtual [PsdVersion](../../aspose.psd.fileformats.psd.layers/layerresource/psdversion/) { get; } | Obtient la version minimale de PSD requise pour la ressource du calque. 0 indique aucune restriction. |
+| virtual [Signature](../../aspose.psd.fileformats.psd.layers/layerresource/signature/) { get; } | Obtient la signature. |
 
 ## Méthodes
 
-| Nom | La description |
+| Nom | Description |
 | --- | --- |
 | override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/ioparesource/save/)(StreamContainer, int) | Enregistre la ressource dans le conteneur de flux spécifié. |
-| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring/)() | Renvoie unString qui représente cette instance. |
+| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring/)() | Renvoie une chaîne qui représente cette instance. |
 
-## Des champs
+## Champs
 
-| Nom | La description |
+| Nom | Description |
 | --- | --- |
-| const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/ioparesource/typetoolkey/) | La clé d'informations sur l'outil de type. |
+| const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/ioparesource/typetoolkey/) | La clé d'information de l'outil de type. |
 
-### Voir également
+### Voir aussi
 
 * class [LayerResource](../../aspose.psd.fileformats.psd.layers/layerresource/)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
-* Assemblée [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../)
 
 

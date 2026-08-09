@@ -1,11 +1,12 @@
 ---
-title: AddNoiseSmartFilter.Name
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: AddNoiseSmartFilter propriété. Obtient le nom du filtre intelligent.
+title: "AddNoiseSmartFilter.Name"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "AddNoiseSmartFilter propriété. Obtient le nom du filtre intelligent"
 type: docs
 weight: 60
 url: /fr/net/aspose.psd.fileformats.psd.layers.smartfilters/addnoisesmartfilter/name/
 ---
+{{< psd/tize >}}
 ## AddNoiseSmartFilter.Name property
 
 Obtient le nom du filtre intelligent.
@@ -14,10 +15,10 @@ Obtient le nom du filtre intelligent.
 public override string Name { get; }
 ```
 
-### Voir également
+### Voir aussi
 
 * class [AddNoiseSmartFilter](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.SmartFilters](../../addnoisesmartfilter/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.SmartFilters](../../../aspose.psd.fileformats.psd.layers.smartfilters/)
+* assembly [Aspose.PSD](../../../)
 
 

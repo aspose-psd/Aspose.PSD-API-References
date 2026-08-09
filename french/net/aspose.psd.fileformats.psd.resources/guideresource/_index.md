@@ -1,14 +1,15 @@
 ---
-title: Class GuideResource
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: Aspose.PSD.FileFormats.Psd.Resources.GuideResource classe. Le bloc de ressources du guide.
+title: "Classe GuideResource"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Aspose.PSD.FileFormats.Psd.Resources.GuideResource classe. Le bloc de ressource de guide"
 type: docs
-weight: 3750
+weight: 4220
 url: /fr/net/aspose.psd.fileformats.psd.resources/guideresource/
 ---
+{{< psd/tize >}}
 ## GuideResource class
 
-Le bloc de ressources du guide.
+Le bloc de ressource de repère.
 
 ```csharp
 public sealed class GuideResource
@@ -16,26 +17,26 @@ public sealed class GuideResource
 
 ## Constructeurs
 
-| Nom | La description |
+| Nom | Description |
 | --- | --- |
-| [GuideResource](guideresource/)() | Default_Constructor |
+| [GuideResource](guideresource/)() | Le constructeur par défaut. |
 
 ## Propriétés
 
-| Nom | La description |
+| Nom | Description |
 | --- | --- |
 | [Direction](../../aspose.psd.fileformats.psd.resources/guideresource/direction/) { get; set; } | Obtient ou définit la direction du guide. |
 | [Location](../../aspose.psd.fileformats.psd.resources/guideresource/location/) { get; set; } | Obtient ou définit l'emplacement du guide dans les coordonnées du document. |
 
-## Des champs
+## Champs
 
-| Nom | La description |
+| Nom | Description |
 | --- | --- |
-| const [GuideResourceSize](../../aspose.psd.fileformats.psd.resources/guideresource/guideresourcesize/) | La taille du bloc de ressources du guide. |
+| const [GuideResourceSize](../../aspose.psd.fileformats.psd.resources/guideresource/guideresourcesize/) | La taille du bloc de ressource de guide. |
 
-### Voir également
+### Voir aussi
 
-* espace de noms [Aspose.PSD.FileFormats.Psd.Resources](../../aspose.psd.fileformats.psd.resources/)
-* Assemblée [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../)
 
 

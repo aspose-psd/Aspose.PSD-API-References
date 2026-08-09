@@ -1,11 +1,12 @@
 ---
-title: Layer.FillOpacity
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: Layer propriété. Obtient ou définit lopacité du remplissage.
+title: "Layer.FillOpacity"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété Layer. Obtient ou définit l'opacité de remplissage"
 type: docs
-weight: 130
+weight: 140
 url: /fr/net/aspose.psd.fileformats.psd.layers/layer/fillopacity/
 ---
+{{< psd/tize >}}
 ## Layer.FillOpacity property
 
 Obtient ou définit l'opacité du remplissage.
@@ -14,7 +15,7 @@ Obtient ou définit l'opacité du remplissage.
 public int FillOpacity { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
 L'opacité de remplissage dans la plage de 0 à 100
 
@@ -22,12 +23,12 @@ L'opacité de remplissage dans la plage de 0 à 100
 
 | exception | condition |
 | --- | --- |
-| [PsdImageArgumentException](../../../aspose.psd.coreexceptions.imageformats/psdimageargumentexception/) | L'opacité de remplissage ne peut être comprise que dans la plage de 0 à 100 |
+| [PsdImageArgumentException](../../../aspose.psd.coreexceptions.imageformats/psdimageargumentexception/) | L'opacité de remplissage ne peut être que dans la plage de 0 à 100 |
 
-### Voir également
+### Voir aussi
 
 * class [Layer](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers](../../layer/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

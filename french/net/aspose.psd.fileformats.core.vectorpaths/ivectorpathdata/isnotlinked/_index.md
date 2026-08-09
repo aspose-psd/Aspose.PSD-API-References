@@ -1,11 +1,12 @@
 ---
-title: IVectorPathData.IsNotLinked
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: IVectorPathData propriété. Obtient ou définit une valeur indiquant si cette instance nest pas liée.
+title: "IVectorPathData.IsNotLinked"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété IVectorPathData. Obtient ou définit une valeur indiquant si cette instance n'est pas liée"
 type: docs
 weight: 30
 url: /fr/net/aspose.psd.fileformats.core.vectorpaths/ivectorpathdata/isnotlinked/
 ---
+{{< psd/tize >}}
 ## IVectorPathData.IsNotLinked property
 
 Obtient ou définit une valeur indiquant si cette instance n'est pas liée.
@@ -14,21 +15,21 @@ Obtient ou définit une valeur indiquant si cette instance n'est pas liée.
 public bool IsNotLinked { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
-`vrai` si cette instance n'est pas liée ; sinon,`FAUX` .
+`true` si cette instance n'est pas liée; sinon, `false`.
 
-### Exemples
+## Exemples
 
-Cet exemple illustre la prise en charge de la ressource 'WorkingPathResource' dans PsdImage.ImageResources pour le bon fonctionnement de l'opération Crop.
+Cet exemple montre la prise en charge de la ressource 'WorkingPathResource' dans PsdImage.ImageResources pour le bon fonctionnement de l'opération de recadrage.
 
 ```csharp
 [C#]
 
-// Rogner l'image et enregistrer.
+// Recadrer l'image et enregistrer.
 using (var psdImage = (PsdImage)Image.Load(sourceFile))
 {
-    // Recherche la ressource WorkingPathResource.
+    // Rechercher la ressource WorkingPathResource.
     ResourceBlock[] imageResources = psdImage.ImageResources;
     WorkingPathResource workingPathResource = null;
     foreach (var imageResource in imageResources)
@@ -46,15 +47,15 @@ using (var psdImage = (PsdImage)Image.Load(sourceFile))
         throw new Exception("Values is incorrect.");
     }
 
-    // Rogner et enregistrer.
+    // Recadrer et enregistrer.
     psdImage.Crop(0, 500, 0, 200);
     psdImage.Save(outputFile);
 }
 
-// Charge l'image enregistrée et vérifie les modifications.
+// Charger l'image enregistrée et vérifier les modifications.
 using (var psdImage = (PsdImage)Image.Load(outputFile))
 {
-    // Recherche la ressource WorkingPathResource.
+    // Rechercher la ressource WorkingPathResource.
     ResourceBlock[] imageResources = psdImage.ImageResources;
     WorkingPathResource workingPathResource = null;
     foreach (var imageResource in imageResources)
@@ -74,10 +75,10 @@ using (var psdImage = (PsdImage)Image.Load(outputFile))
 }
 ```
 
-### Voir également
+### Voir aussi
 
 * interface [IVectorPathData](../)
-* espace de noms [Aspose.PSD.FileFormats.Core.VectorPaths](../../ivectorpathdata/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../../)
 
 

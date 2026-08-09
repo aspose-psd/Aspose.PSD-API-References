@@ -1,11 +1,12 @@
 ---
-title: Class XmpGuid
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: Aspose.PSD.Xmp.Types.Derived.XmpGuid classe. Représente lidentifiant unique global XMP.
+title: "Classe XmpGuid"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Classe Aspose.PSD.Xmp.Types.Derived.XmpGuid. Représente l'identifiant unique global XMP"
 type: docs
-weight: 6160
+weight: 6660
 url: /fr/net/aspose.psd.xmp.types.derived/xmpguid/
 ---
+{{< psd/tize >}}
 ## XmpGuid class
 
 Représente l'identifiant unique global XMP.
@@ -16,28 +17,28 @@ public sealed class XmpGuid : XmpTypeBase
 
 ## Constructeurs
 
-| Nom | La description |
+| Nom | Description |
 | --- | --- |
-| [XmpGuid](xmpguid/#constructor)(Guid) | Initialise une nouvelle instance du`XmpGuid` classe. |
-| [XmpGuid](xmpguid/#constructor_1)(string) | Initialise une nouvelle instance du`XmpGuid` classe. |
+| [XmpGuid](xmpguid/#constructor)(Guid) | Initialise une nouvelle instance de la classe `XmpGuid`. |
+| [XmpGuid](xmpguid/#constructor_1)(string) | Initialise une nouvelle instance de la classe `XmpGuid`. |
 
 ## Propriétés
 
-| Nom | La description |
+| Nom | Description |
 | --- | --- |
 | [Prefix](../../aspose.psd.xmp.types.derived/xmpguid/prefix/) { get; set; } | Obtient ou définit le préfixe comme uuid. |
 | [Value](../../aspose.psd.xmp.types.derived/xmpguid/value/) { get; set; } | Obtient ou définit la valeur. |
 
 ## Méthodes
 
-| Nom | La description |
+| Nom | Description |
 | --- | --- |
-| override [GetXmpRepresentation](../../aspose.psd.xmp.types.derived/xmpguid/getxmprepresentation/)() | Obtient la valeur contenue dans la chaîne au format XMP. |
+| override [GetXmpRepresentation](../../aspose.psd.xmp.types.derived/xmpguid/getxmprepresentation/)() | Obtient la valeur de chaîne contenue au format XMP. |
 
-### Voir également
+### Voir aussi
 
 * class [XmpTypeBase](../../aspose.psd.xmp.types/xmptypebase/)
-* espace de noms [Aspose.PSD.Xmp.Types.Derived](../../aspose.psd.xmp.types.derived/)
-* Assemblée [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Xmp.Types.Derived](../../aspose.psd.xmp.types.derived/)
+* assembly [Aspose.PSD](../../)
 
 

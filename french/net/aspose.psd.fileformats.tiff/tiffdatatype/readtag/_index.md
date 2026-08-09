@@ -1,39 +1,40 @@
 ---
-title: TiffDataType.ReadTag
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: TiffDataType méthode. Lit les données de balise.
+title: "TiffDataType.ReadTag"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Méthode TiffDataType. Lit les données du tag"
 type: docs
 weight: 10
 url: /fr/net/aspose.psd.fileformats.tiff/tiffdatatype/readtag/
 ---
+{{< psd/tize >}}
 ## TiffDataType.ReadTag method
 
-Lit les données de balise.
+Lit les données de l'étiquette.
 
 ```csharp
 public static TiffDataType ReadTag(TiffStreamReader dataStream, long position)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
 | dataStream | TiffStreamReader | Le flux de données. |
-| position | Int64 | La position de la balise. |
+| position | Int64 | La position du tag. |
 
-### Return_Value
+### Valeur de retour
 
-La balise lue.
+Le tag lu.
 
 ### Exceptions
 
 | exception | condition |
 | --- | --- |
-| ArgumentNullException | flux de données |
+| ArgumentNullException | dataStream |
 
-### Voir également
+### Voir aussi
 
 * class [TiffStreamReader](../../../aspose.psd.fileformats.tiff.filemanagement/tiffstreamreader/)
 * class [TiffDataType](../)
-* espace de noms [Aspose.PSD.FileFormats.Tiff](../../tiffdatatype/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff](../../../aspose.psd.fileformats.tiff/)
+* assembly [Aspose.PSD](../../../)
 
 

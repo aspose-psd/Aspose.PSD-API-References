@@ -1,27 +1,28 @@
 ---
-title: GradientColorPoint.Location
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: GradientColorPoint propriété. Obtient ou définit lemplacement du point sur le gradient.
+title: "GradientColorPoint.Location"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "GradientColorPoint propriété. Obtient ou définit l'emplacement du point sur le dégradé"
 type: docs
-weight: 20
+weight: 30
 url: /fr/net/aspose.psd.fileformats.psd.layers.fillsettings/gradientcolorpoint/location/
 ---
+{{< psd/tize >}}
 ## GradientColorPoint.Location property
 
-Obtient ou définit l'emplacement du point sur le gradient.
+Obtient ou définit l'emplacement du point sur le dégradé.
 
 ```csharp
 public int Location { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
 L'emplacement.
 
-### Voir également
+### Voir aussi
 
 * class [GradientColorPoint](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../gradientcolorpoint/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../../)
 
 

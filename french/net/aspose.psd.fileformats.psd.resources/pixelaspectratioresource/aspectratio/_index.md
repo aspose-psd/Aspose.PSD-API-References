@@ -1,27 +1,28 @@
 ---
-title: PixelAspectRatioResource.AspectRatio
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: PixelAspectRatioResource propriété. Obtient ou définit le format dimage.
+title: "PixelAspectRatioResource.AspectRatio"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété PixelAspectRatioResource. Obtient ou définit le rapport d'aspect"
 type: docs
 weight: 20
 url: /fr/net/aspose.psd.fileformats.psd.resources/pixelaspectratioresource/aspectratio/
 ---
+{{< psd/tize >}}
 ## PixelAspectRatioResource.AspectRatio property
 
-Obtient ou définit le format d'image.
+Obtient ou définit le ratio d'aspect.
 
 ```csharp
 public double AspectRatio { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
-Le format d'image.
+Le rapport d'aspect.
 
-### Voir également
+### Voir aussi
 
 * class [PixelAspectRatioResource](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Resources](../../pixelaspectratioresource/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

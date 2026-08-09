@@ -1,11 +1,12 @@
 ---
-title: JpegExifData.SamplesPerPixel
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: JpegExifData propriété. Obtient ou définit les échantillons par pixel.
+title: "JpegExifData.SamplesPerPixel"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété JpegExifData. Obtient ou définit les échantillons par pixel"
 type: docs
 weight: 180
 url: /fr/net/aspose.psd.exif/jpegexifdata/samplesperpixel/
 ---
+{{< psd/tize >}}
 ## JpegExifData.SamplesPerPixel property
 
 Obtient ou définit les échantillons par pixel.
@@ -14,14 +15,14 @@ Obtient ou définit les échantillons par pixel.
 public ushort SamplesPerPixel { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
 Les échantillons par pixel.
 
-### Voir également
+### Voir aussi
 
 * class [JpegExifData](../)
-* espace de noms [Aspose.PSD.Exif](../../jpegexifdata/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

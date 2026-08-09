@@ -1,11 +1,12 @@
 ---
-title: PsdImage.Layers
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: PsdImage propriété. Obtient ou définit les calques PSD.
+title: "PsdImage.Layers"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété PsdImage. Obtient ou définit les calques PSD"
 type: docs
 weight: 200
 url: /fr/net/aspose.psd.fileformats.psd/psdimage/layers/
 ---
+{{< psd/tize >}}
 ## PsdImage.Layers property
 
 Obtient ou définit les calques PSD.
@@ -14,19 +15,19 @@ Obtient ou définit les calques PSD.
 public Layer[] Layers { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
-Les couches PSD.
+Les calques PSD.
 
-### Remarques
+## Remarques
 
-Notez que s'il n'y a pas de calques, les autres informations associées dans la section des informations sur les calques et les masques ne seront pas conservées (masques de calque, ressources, etc.).
+Notez que s'il n'y a pas de calques, les autres informations liées dans la section des informations de calque et de masque ne seront pas conservées (masques de calque, ressources, etc.).
 
-### Voir également
+### Voir aussi
 
 * class [Layer](../../../aspose.psd.fileformats.psd.layers/layer/)
 * class [PsdImage](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

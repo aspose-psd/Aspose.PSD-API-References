@@ -1,11 +1,12 @@
 ---
-title: ITextStyle.FontBaseline
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: ITextStyle propriété. La ligne de base de la police.
+title: "ITextStyle.FontBaseline"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété ITextStyle. La ligne de base de la police"
 type: docs
 weight: 90
 url: /fr/net/aspose.psd.fileformats.psd.layers.text/itextstyle/fontbaseline/
 ---
+{{< psd/tize >}}
 ## ITextStyle.FontBaseline property
 
 La ligne de base de la police.
@@ -14,11 +15,11 @@ La ligne de base de la police.
 public FontBaseline FontBaseline { get; set; }
 ```
 
-### Voir également
+### Voir aussi
 
 * enum [FontBaseline](../../../aspose.psd.fileformats.psd/fontbaseline/)
 * interface [ITextStyle](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.Text](../../itextstyle/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.Text](../../../aspose.psd.fileformats.psd.layers.text/)
+* assembly [Aspose.PSD](../../../)
 
 

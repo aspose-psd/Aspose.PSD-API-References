@@ -1,28 +1,29 @@
 ---
-title: DescriptorStructure.ClassID
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: DescriptorStructure propriété. Obtient ou définit lID de classe.
+title: "DescriptorStructure.ClassID"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété DescriptorStructure. Obtient ou définit l'ID de la classe"
 type: docs
 weight: 20
 url: /fr/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/descriptorstructure/classid/
 ---
+{{< psd/tize >}}
 ## DescriptorStructure.ClassID property
 
-Obtient ou définit l'ID de classe.
+Obtient ou définit l'ID de la classe.
 
 ```csharp
 public ClassID ClassID { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
 L'ID de classe.
 
-### Voir également
+### Voir aussi
 
 * class [ClassID](../../../aspose.psd.fileformats.psd.layers.layerresources/classid/)
 * class [DescriptorStructure](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../descriptorstructure/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 

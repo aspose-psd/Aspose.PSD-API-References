@@ -1,27 +1,28 @@
 ---
-title: ExifData.DateTimeDigitized
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: ExifData propriété. Obtient ou définit lheure de la date numérisée.
+title: "ExifData.DateTimeDigitized"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété ExifData. Obtient ou définit la date et l'heure de numérisation"
 type: docs
 weight: 130
 url: /fr/net/aspose.psd.exif/exifdata/datetimedigitized/
 ---
+{{< psd/tize >}}
 ## ExifData.DateTimeDigitized property
 
-Obtient ou définit l'heure de la date numérisée.
+Obtient ou définit la date et l'heure de numérisation.
 
 ```csharp
 public string DateTimeDigitized { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
-La date heure numérisée.
+La date et l'heure de numérisation.
 
-### Voir également
+### Voir aussi
 
 * class [ExifData](../)
-* espace de noms [Aspose.PSD.Exif](../../exifdata/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

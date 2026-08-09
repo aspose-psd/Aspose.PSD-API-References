@@ -1,11 +1,12 @@
 ---
-title: CgEdResource.Contrast
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: CgEdResource propriété. Obtient ou définit le contraste.
+title: "CgEdResource.Contrast"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "CgEdResource propriété. Obtient ou définit le contraste"
 type: docs
 weight: 40
 url: /fr/net/aspose.psd.fileformats.psd.layers.layerresources/cgedresource/contrast/
 ---
+{{< psd/tize >}}
 ## CgEdResource.Contrast property
 
 Obtient ou définit le contraste.
@@ -14,14 +15,14 @@ Obtient ou définit le contraste.
 public int Contrast { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
 Le contraste.
 
-### Voir également
+### Voir aussi
 
 * class [CgEdResource](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../cgedresource/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

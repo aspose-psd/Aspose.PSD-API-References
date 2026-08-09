@@ -1,14 +1,15 @@
 ---
-title: Class TiffOptionsUtils
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: Aspose.PSD.ImageOptions.TiffOptionsUtils classe. La classe utilitaire des options de format de fichier tiff.
+title: "Classe TiffOptionsUtils"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Classe Aspose.PSD.ImageOptions.TiffOptionsUtils. La classe utilitaire des options du format de fichier tiff"
 type: docs
-weight: 4960
+weight: 5450
 url: /fr/net/aspose.psd.imageoptions/tiffoptionsutils/
 ---
+{{< psd/tize >}}
 ## TiffOptionsUtils class
 
-La classe utilitaire des options de format de fichier tiff.
+Classe utilitaire des options du format de fichier tiff.
 
 ```csharp
 public class TiffOptionsUtils
@@ -16,19 +17,19 @@ public class TiffOptionsUtils
 
 ## Constructeurs
 
-| Nom | La description |
+| Nom | Description |
 | --- | --- |
-| [TiffOptionsUtils](tiffoptionsutils/)() | Default_Constructor |
+| [TiffOptionsUtils](tiffoptionsutils/)() | Le constructeur par défaut. |
 
 ## Méthodes
 
-| Nom | La description |
+| Nom | Description |
 | --- | --- |
-| static [GetValidTagsCount](../../aspose.psd.imageoptions/tiffoptionsutils/getvalidtagscount/)(TiffDataType[]) | Obtient le nombre de balises valides. |
+| static [GetValidTagsCount](../../aspose.psd.imageoptions/tiffoptionsutils/getvalidtagscount/)(TiffDataType[]) | Obtient le nombre d'étiquettes valides. |
 
-### Voir également
+### Voir aussi
 
-* espace de noms [Aspose.PSD.ImageOptions](../../aspose.psd.imageoptions/)
-* Assemblée [Aspose.PSD](../../)
+* namespace [Aspose.PSD.ImageOptions](../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../)
 
 

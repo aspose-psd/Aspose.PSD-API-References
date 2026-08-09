@@ -1,27 +1,28 @@
 ---
-title: Configuration.BufferSizeHint
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: Configuration propriété. Obtient ou définit lindice de taille de tampon qui est défini comme la taille maximale autorisée pour tous les tampons internes.
+title: "Configuration.BufferSizeHint"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété Configuration. Obtient ou définit l'indice de taille du tampon, qui correspond à la taille maximale autorisée pour tous les tampons internes"
 type: docs
 weight: 10
 url: /fr/net/aspose.psd.memorymanagement/configuration/buffersizehint/
 ---
+{{< psd/tize >}}
 ## Configuration.BufferSizeHint property
 
-Obtient ou définit l'indice de taille de tampon qui est défini comme la taille maximale autorisée pour tous les tampons internes.
+Obtient ou définit l'indice de taille du tampon, qui définit la taille maximale autorisée pour tous les tampons internes.
 
 ```csharp
 public static int BufferSizeHint { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
-L'indice de taille de tampon, en mégaoctets. Une valeur non positive signifie qu'il n'y a pas de limitation de mémoire pour les tampons internes
+L'indice de taille du tampon, en mégaoctets. Une valeur non positive signifie aucune limitation de mémoire pour les tampons internes
 
-### Voir également
+### Voir aussi
 
 * class [Configuration](../)
-* espace de noms [Aspose.PSD.MemoryManagement](../../configuration/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.MemoryManagement](../../../aspose.psd.memorymanagement/)
+* assembly [Aspose.PSD](../../../)
 
 

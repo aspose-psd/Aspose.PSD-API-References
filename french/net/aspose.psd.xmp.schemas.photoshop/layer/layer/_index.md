@@ -1,44 +1,45 @@
 ---
-title: Layer.Layer
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: Layer constructeur. Initialise une nouvelle instance duLayer classe.
+title: "Layer.Layer"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Layer constructeur. Initialise une nouvelle instance de la classe Layer"
 type: docs
 weight: 10
 url: /fr/net/aspose.psd.xmp.schemas.photoshop/layer/layer/
 ---
+{{< psd/tize >}}
 ## Layer(string, string) {#constructor_1}
 
-Initialise une nouvelle instance du[`Layer`](../) classe.
+Initialise une nouvelle instance de la classe [`Layer`](../).
 
 ```csharp
 public Layer(string layerName, string layerText)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
 | layerName | String | Nom de la couche. |
-| layerText | String | Le texte du calque. |
+| layerText | String | Le texte de la couche. |
 
-### Voir également
+### Voir aussi
 
 * class [Layer](../)
-* espace de noms [Aspose.PSD.Xmp.Schemas.Photoshop](../../layer/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.Photoshop](../../../aspose.psd.xmp.schemas.photoshop/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Layer() {#constructor}
 
-Initialise une nouvelle instance du[`Layer`](../) classe.
+Initialise une nouvelle instance de la classe [`Layer`](../).
 
 ```csharp
 public Layer()
 ```
 
-### Voir également
+### Voir aussi
 
 * class [Layer](../)
-* espace de noms [Aspose.PSD.Xmp.Schemas.Photoshop](../../layer/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.Photoshop](../../../aspose.psd.xmp.schemas.photoshop/)
+* assembly [Aspose.PSD](../../../)
 
 

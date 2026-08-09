@@ -1,48 +1,49 @@
 ---
-title: StreamContainer.StreamContainer
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: StreamContainer constructeur. Initialise une nouvelle instance duStreamContainer classe.
+title: "StreamContainer.StreamContainer"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Constructeur StreamContainer. Initialise une nouvelle instance de la classe StreamContainer"
 type: docs
 weight: 10
 url: /fr/net/aspose.psd/streamcontainer/streamcontainer/
 ---
+{{< psd/tize >}}
 ## StreamContainer(Stream) {#constructor}
 
-Initialise une nouvelle instance du[`StreamContainer`](../) classe.
+Initialise une nouvelle instance de la classe [`StreamContainer`](../).
 
 ```csharp
 public StreamContainer(Stream stream)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
 | stream | Stream | Le flux. |
 
-### Voir également
+### Voir aussi
 
 * class [StreamContainer](../)
-* espace de noms [Aspose.PSD](../../streamcontainer/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## StreamContainer(Stream, bool) {#constructor_1}
 
-Initialise une nouvelle instance du[`StreamContainer`](../) classe.
+Initialise une nouvelle instance de la classe [`StreamContainer`](../).
 
 ```csharp
 public StreamContainer(Stream stream, bool disposeStream)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
 | stream | Stream | Le flux de données. |
-| disposeStream | Boolean | si réglé sur`vrai` le flux sera éliminé lors de l'élimination du conteneur. |
+| disposeStream | Booléen | si défini sur `true`, le flux sera libéré lorsque le conteneur sera libéré. |
 
-### Voir également
+### Voir aussi
 
 * class [StreamContainer](../)
-* espace de noms [Aspose.PSD](../../streamcontainer/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,32 +1,33 @@
 ---
-title: ColorMatrix.Item
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: ColorMatrix propriété. Obtient ou définit lélément à la ligne et à la colonne spécifiées dans leColorMatrix .
+title: "ColorMatrix.Item"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété ColorMatrix. Obtient ou définit l'élément à la ligne et à la colonne spécifiées dans le ColorMatrix"
 type: docs
 weight: 20
 url: /fr/net/aspose.psd/colormatrix/item/
 ---
+{{< psd/tize >}}
 ## ColorMatrix indexer
 
-Obtient ou définit l'élément à la ligne et à la colonne spécifiées dans le[`ColorMatrix`](../) .
+Obtient ou définit l'élément à la ligne et à la colonne spécifiées dans le [`ColorMatrix`](../).
 
 ```csharp
 public float this[int row, int column] { get; set; }
 ```
 
-| Paramètre | La description |
+| Paramètre | Description |
 | --- | --- |
-| row | Le numéro de ligne. |
-| column | Le numéro de colonne. |
+| ligne | Le numéro de ligne. |
+| colonne | Le numéro de colonne. |
 
-### Return_Value
+### Valeur de retour
 
 L'élément à la ligne et à la colonne spécifiées.
 
-### Voir également
+### Voir aussi
 
 * class [ColorMatrix](../)
-* espace de noms [Aspose.PSD](../../colormatrix/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: TiffOptions.IsExtraSamplesPresent
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: TiffOptions propriété. Obtient une valeur indiquant si les échantillons supplémentaires sont présents.
+title: "TiffOptions.IsExtraSamplesPresent"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété TiffOptions. Obtient une valeur indiquant si les échantillons supplémentaires sont présents"
 type: docs
-weight: 230
+weight: 240
 url: /fr/net/aspose.psd.imageoptions/tiffoptions/isextrasamplespresent/
 ---
+{{< psd/tize >}}
 ## TiffOptions.IsExtraSamplesPresent property
 
 Obtient une valeur indiquant si les échantillons supplémentaires sont présents.
@@ -14,14 +15,14 @@ Obtient une valeur indiquant si les échantillons supplémentaires sont présent
 public bool IsExtraSamplesPresent { get; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
-`vrai` si les échantillons supplémentaires sont présents ; sinon,`FAUX` .
+`true` si les échantillons supplémentaires sont présents ; sinon, `false`.
 
-### Voir également
+### Voir aussi
 
 * class [TiffOptions](../)
-* espace de noms [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

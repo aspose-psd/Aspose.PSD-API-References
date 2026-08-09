@@ -1,20 +1,21 @@
 ---
-title: GdFlResource.Scale
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: GdFlResource propriété. Obtient ou définit léchelle.
+title: "GdFlResource.Scale"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "GdFlResource propriété. Obtient ou définit l'échelle"
 type: docs
-weight: 150
+weight: 200
 url: /fr/net/aspose.psd.fileformats.psd.layers.layerresources/gdflresource/scale/
 ---
+{{< psd/tize >}}
 ## GdFlResource.Scale property
 
 Obtient ou définit l'échelle.
 
 ```csharp
-public int Scale { get; set; }
+public double Scale { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
 L'échelle.
 
@@ -24,10 +25,10 @@ L'échelle.
 | --- | --- |
 | [PsdImageArgumentException](../../../aspose.psd.coreexceptions.imageformats/psdimageargumentexception/) | L'échelle doit être comprise entre 1 et 1000. |
 
-### Voir également
+### Voir aussi
 
 * class [GdFlResource](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../gdflresource/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

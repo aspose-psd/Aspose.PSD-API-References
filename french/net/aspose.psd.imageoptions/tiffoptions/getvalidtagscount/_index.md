@@ -1,32 +1,33 @@
 ---
-title: TiffOptions.GetValidTagsCount
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: TiffOptions méthode. Obtient le nombre de balises valides.
+title: "TiffOptions.GetValidTagsCount"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Méthode TiffOptions. Obtient le nombre de balises valides"
 type: docs
-weight: 760
+weight: 770
 url: /fr/net/aspose.psd.imageoptions/tiffoptions/getvalidtagscount/
 ---
+{{< psd/tize >}}
 ## TiffOptions.GetValidTagsCount method
 
-Obtient le nombre de balises valides.
+Obtient le nombre d'étiquettes valides.
 
 ```csharp
 public static int GetValidTagsCount(TiffDataType[] tags)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
-| tags | TiffDataType[] | Les balises à valider. |
+| étiquettes | TiffDataType[] | Les balises à valider. |
 
-### Return_Value
+### Valeur de retour
 
-Les balises valides comptent.
+Le nombre de balises valides.
 
-### Voir également
+### Voir aussi
 
 * class [TiffDataType](../../../aspose.psd.fileformats.tiff/tiffdatatype/)
 * class [TiffOptions](../)
-* espace de noms [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

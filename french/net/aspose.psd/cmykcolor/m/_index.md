@@ -1,27 +1,28 @@
 ---
-title: CmykColor.M
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: CmykColor propriété. Obtient la valeur du composant magenta de ceColorstructure.
+title: "CmykColor.M"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété CmykColor. Obtient la valeur du composant magenta de cette structure Color"
 type: docs
-weight: 50
+weight: 60
 url: /fr/net/aspose.psd/cmykcolor/m/
 ---
+{{< psd/tize >}}
 ## CmykColor.M property
 
-Obtient la valeur du composant magenta de ce[`Color`](../../color/)structure.
+Obtient la valeur du composant magenta de cette structure [`Color`](../../color/).
 
 ```csharp
 public byte M { get; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
-La valeur du composant magenta de ce[`Color`](../../color/) .
+La valeur du composant magenta de ce [`Color`](../../color/).
 
-### Voir également
+### Voir aussi
 
 * struct [CmykColor](../)
-* espace de noms [Aspose.PSD](../../cmykcolor/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

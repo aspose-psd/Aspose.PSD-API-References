@@ -1,11 +1,12 @@
 ---
-title: ExifData.GPSAreaInformation
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: ExifData propriété. Obtient ou définit les informations de zone GPS.
+title: "ExifData.GPSAreaInformation"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété ExifData. Obtient ou définit les informations de la zone GPS"
 type: docs
 weight: 380
 url: /fr/net/aspose.psd.exif/exifdata/gpsareainformation/
 ---
+{{< psd/tize >}}
 ## ExifData.GPSAreaInformation property
 
 Obtient ou définit les informations de zone GPS.
@@ -14,14 +15,14 @@ Obtient ou définit les informations de zone GPS.
 public byte[] GPSAreaInformation { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
-Les informations de zone GPS.
+Les informations de la zone GPS.
 
-### Voir également
+### Voir aussi
 
 * class [ExifData](../)
-* espace de noms [Aspose.PSD.Exif](../../exifdata/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: Namespaces.DublinCore
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: Namespaces champ. Espace de noms Dublic Core.
+title: "Namespaces.DublinCore"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Champ Namespaces. espace de noms Dublic Core"
 type: docs
 weight: 10
 url: /fr/net/aspose.psd.xmp/namespaces/dublincore/
 ---
+{{< psd/tize >}}
 ## Namespaces.DublinCore field
 
 Espace de noms Dublic Core.
@@ -14,10 +15,10 @@ Espace de noms Dublic Core.
 public const string DublinCore;
 ```
 
-### Voir également
+### Voir aussi
 
 * class [Namespaces](../)
-* espace de noms [Aspose.PSD.Xmp](../../namespaces/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

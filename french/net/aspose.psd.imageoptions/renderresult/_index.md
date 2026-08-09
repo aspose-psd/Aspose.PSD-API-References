@@ -1,11 +1,12 @@
 ---
-title: Class RenderResult
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: Aspose.PSD.ImageOptions.RenderResult classe. Représente les informations avec les résultats du rendu
+title: "Classe RenderResult"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Classe Aspose.PSD.ImageOptions.RenderResult. Représente les informations avec les résultats du rendu"
 type: docs
-weight: 4930
+weight: 5420
 url: /fr/net/aspose.psd.imageoptions/renderresult/
 ---
+{{< psd/tize >}}
 ## RenderResult class
 
 Représente les informations avec les résultats du rendu
@@ -16,20 +17,20 @@ public class RenderResult
 
 ## Constructeurs
 
-| Nom | La description |
+| Nom | Description |
 | --- | --- |
-| [RenderResult](renderresult/)() | Default_Constructor |
+| [RenderResult](renderresult/)() | Le constructeur par défaut. |
 
 ## Propriétés
 
-| Nom | La description |
+| Nom | Description |
 | --- | --- |
-| [Message](../../aspose.psd.imageoptions/renderresult/message/) { get; set; } | Obtient ou définit la chaîne message |
-| [RenderCode](../../aspose.psd.imageoptions/renderresult/rendercode/) { get; set; } | Obtient ou définit le code de l'erreur |
+| [Message](../../aspose.psd.imageoptions/renderresult/message/) { get; set; } | Obtient ou définit le message de chaîne |
+| [RenderCode](../../aspose.psd.imageoptions/renderresult/rendercode/) { get; set; } | Obtient ou définit le code d'erreur |
 
-### Voir également
+### Voir aussi
 
-* espace de noms [Aspose.PSD.ImageOptions](../../aspose.psd.imageoptions/)
-* Assemblée [Aspose.PSD](../../)
+* namespace [Aspose.PSD.ImageOptions](../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../)
 
 

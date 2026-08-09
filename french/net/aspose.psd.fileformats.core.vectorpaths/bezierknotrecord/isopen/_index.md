@@ -1,11 +1,12 @@
 ---
-title: BezierKnotRecord.IsOpen
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: BezierKnotRecord propriété. Obtient ou définit une valeur indiquant si cette instance est ouverte.
+title: "BezierKnotRecord.IsOpen"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété BezierKnotRecord. Obtient ou définit une valeur indiquant si cette instance est ouverte"
 type: docs
 weight: 40
 url: /fr/net/aspose.psd.fileformats.core.vectorpaths/bezierknotrecord/isopen/
 ---
+{{< psd/tize >}}
 ## BezierKnotRecord.IsOpen property
 
 Obtient ou définit une valeur indiquant si cette instance est ouverte.
@@ -14,14 +15,14 @@ Obtient ou définit une valeur indiquant si cette instance est ouverte.
 public bool IsOpen { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
-`vrai` si cette instance est ouverte ; sinon,`FAUX` .
+`true` si cette instance est ouverte; sinon, `false`.
 
-### Voir également
+### Voir aussi
 
 * class [BezierKnotRecord](../)
-* espace de noms [Aspose.PSD.FileFormats.Core.VectorPaths](../../bezierknotrecord/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../../)
 
 

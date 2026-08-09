@@ -1,50 +1,51 @@
 ---
-title: XmpArray.XmpArray
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: XmpArray constructeur. Initialise une nouvelle instance duXmpArray classe.
+title: "XmpArray.XmpArray"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Constructeur XmpArray. Initialise une nouvelle instance de la classe XmpArray"
 type: docs
 weight: 10
 url: /fr/net/aspose.psd.xmp/xmparray/xmparray/
 ---
+{{< psd/tize >}}
 ## XmpArray(XmpArrayType, string[]) {#constructor_1}
 
-Initialise une nouvelle instance du[`XmpArray`](../) classe.
+Initialise une nouvelle instance de la classe [`XmpArray`](../).
 
 ```csharp
 public XmpArray(XmpArrayType type, string[] items)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
-| type | XmpArrayType | Le type de tableau. |
-| items | String[] | La liste des articles. |
+| type | XmpArrayType | Le type du tableau. |
+| éléments | String[] | La liste des éléments. |
 
-### Voir également
+### Voir aussi
 
 * enum [XmpArrayType](../../xmparraytype/)
 * class [XmpArray](../)
-* espace de noms [Aspose.PSD.Xmp](../../xmparray/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## XmpArray(XmpArrayType) {#constructor}
 
-Initialise une nouvelle instance du[`XmpArray`](../) classe.
+Initialise une nouvelle instance de la classe [`XmpArray`](../).
 
 ```csharp
 public XmpArray(XmpArrayType type)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
-| type | XmpArrayType | Le type de tableau. |
+| type | XmpArrayType | Le type du tableau. |
 
-### Voir également
+### Voir aussi
 
 * enum [XmpArrayType](../../xmparraytype/)
 * class [XmpArray](../)
-* espace de noms [Aspose.PSD.Xmp](../../xmparray/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

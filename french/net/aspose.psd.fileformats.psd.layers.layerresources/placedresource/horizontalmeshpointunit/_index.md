@@ -1,11 +1,12 @@
 ---
-title: PlacedResource.HorizontalMeshPointUnit
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: PlacedResource propriété. Obtient ou définit lunité de mesure des points de maillage horizontaux.
+title: "PlacedResource.HorizontalMeshPointUnit"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété PlacedResource. Obtient ou définit l'unité de mesure des points de maillage horizontaux"
 type: docs
 weight: 50
 url: /fr/net/aspose.psd.fileformats.psd.layers.layerresources/placedresource/horizontalmeshpointunit/
 ---
+{{< psd/tize >}}
 ## PlacedResource.HorizontalMeshPointUnit property
 
 Obtient ou définit l'unité de mesure des points de maillage horizontaux.
@@ -14,15 +15,15 @@ Obtient ou définit l'unité de mesure des points de maillage horizontaux.
 public UnitTypes HorizontalMeshPointUnit { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
-L'unité de mesure des points du maillage horizontal.
+L'unité de mesure des points de maillage horizontaux.
 
-### Voir également
+### Voir aussi
 
 * enum [UnitTypes](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/unittypes/)
 * class [PlacedResource](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../placedresource/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

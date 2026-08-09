@@ -1,27 +1,28 @@
 ---
-title: Point.ToString
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: Point méthode. Convertit ceciPoint en une chaîne lisible par lhomme.
+title: "Point.ToString"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Méthode Point. Convertit ce Point en une chaîne lisible par l'homme."
 type: docs
 weight: 140
 url: /fr/net/aspose.psd/point/tostring/
 ---
+{{< psd/tize >}}
 ## Point.ToString method
 
-Convertit ceci[`Point`](../) en une chaîne lisible par l'homme.
+Convertit ce [`Point`](../) en une chaîne lisible par l'homme.
 
 ```csharp
 public override string ToString()
 ```
 
-### Return_Value
+### Valeur de retour
 
-UNString qui représente cette instance.
+Une String qui représente cette instance.
 
-### Voir également
+### Voir aussi
 
 * struct [Point](../)
-* espace de noms [Aspose.PSD](../../point/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

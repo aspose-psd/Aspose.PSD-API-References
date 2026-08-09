@@ -1,11 +1,12 @@
 ---
-title: BorderInformationResource.Unit
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: BorderInformationResource propriété. Obtient ou définit les unités de bordure.
+title: "BorderInformationResource.Unit"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété BorderInformationResource. Obtient ou définit les unités de la bordure"
 type: docs
 weight: 40
 url: /fr/net/aspose.psd.fileformats.psd.resources/borderinformationresource/unit/
 ---
+{{< psd/tize >}}
 ## BorderInformationResource.Unit property
 
 Obtient ou définit les unités de bordure.
@@ -14,9 +15,9 @@ Obtient ou définit les unités de bordure.
 public PhysicalUnit Unit { get; set; }
 ```
 
-### Exemples
+## Exemples
 
-L'exemple suivant illustre la prise en charge de la ressource BorderInformationResource.
+L'exemple suivant montre la prise en charge de la ressource BorderInformationResource.
 
 ```csharp
 [C#]
@@ -37,7 +38,7 @@ using (var image = (PsdImage)Image.Load(sourceFilePath))
         }
     }
 
-    // met à jour BorderInformationResource
+    // mettre à jour BorderInformationResource
     borderInfoResource.Width = 0.1;
     borderInfoResource.Unit = PhysicalUnit.Inches;
 
@@ -45,11 +46,11 @@ using (var image = (PsdImage)Image.Load(sourceFilePath))
 }
 ```
 
-### Voir également
+### Voir aussi
 
 * enum [PhysicalUnit](../../../aspose.psd.fileformats.psd.resources.resolutionenums/physicalunit/)
 * class [BorderInformationResource](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Resources](../../borderinformationresource/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

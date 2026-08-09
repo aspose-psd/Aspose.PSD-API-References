@@ -1,11 +1,12 @@
 ---
-title: Enum ExifColorSpace
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: Aspose.PSD.Exif.Enums.ExifColorSpace énumération. énumération de lespace colorimétrique exif.
+title: "Enum ExifColorSpace"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Aspose.PSD.Exif.Enums.ExifColorSpace enum. énumération d'espace colorimétrique exif"
 type: docs
-weight: 800
+weight: 810
 url: /fr/net/aspose.psd.exif.enums/exifcolorspace/
 ---
+{{< psd/tize >}}
 ## ExifColorSpace enumeration
 
 énumération de l'espace colorimétrique exif.
@@ -16,15 +17,15 @@ public enum ExifColorSpace
 
 ### Valeurs
 
-| Nom | Évaluer | La description |
+| Nom | Valeur | Description |
 | --- | --- | --- |
-| SRgb | `1` | espace colorimétrique SRGB. |
-| AdobeRgb | `2` | Espace colorimétrique RVB Adobe. |
+| SRgb | `1` | Espace colorimétrique SRGB. |
+| AdobeRgb | `2` | Espace colorimétrique Adobe RGB. |
 | Uncalibrated | `65535` | Espace colorimétrique non calibré. |
 
-### Voir également
+### Voir aussi
 
-* espace de noms [Aspose.PSD.Exif.Enums](../../aspose.psd.exif.enums/)
-* Assemblée [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Exif.Enums](../../aspose.psd.exif.enums/)
+* assembly [Aspose.PSD](../../)
 
 

@@ -1,32 +1,33 @@
 ---
-title: IOSTypeStructureLoader.CanLoad
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: IOSTypeStructureLoader méthode. Détermine siOSTypeStructure la ressource peut être chargée à partir du spécifiéStreamContainer .
+title: "IOSTypeStructureLoader.CanLoad"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Méthode IOSTypeStructureLoader. Détermine si la ressource OSTypeStructure peut être chargée depuis le StreamContainer spécifié"
 type: docs
 weight: 10
 url: /fr/net/aspose.psd.fileformats.psd.layers.layerresources/iostypestructureloader/canload/
 ---
+{{< psd/tize >}}
 ## IOSTypeStructureLoader.CanLoad method
 
-Détermine si[`OSTypeStructure`](../../ostypestructure/) la ressource peut être chargée à partir du spécifié[`StreamContainer`](../../../aspose.psd/streamcontainer/) .
+Détermine si la ressource [`OSTypeStructure`](../../ostypestructure/) peut être chargée depuis le [`StreamContainer`](../../../aspose.psd/streamcontainer/) spécifié.
 
 ```csharp
 public bool CanLoad(StreamContainer streamContainer)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
 | streamContainer | StreamContainer | Le conteneur de flux. |
 
-### Return_Value
+### Valeur de retour
 
-`vrai` si[`OSTypeStructure`](../../ostypestructure/) la ressource peut être chargée à partir du spécifié[`StreamContainer`](../../../aspose.psd/streamcontainer/) ; sinon,`FAUX` .
+`true` si la ressource [`OSTypeStructure`](../../ostypestructure/) peut être chargée depuis le [`StreamContainer`](../../../aspose.psd/streamcontainer/) spécifié ; sinon, `false`.
 
-### Voir également
+### Voir aussi
 
 * class [StreamContainer](../../../aspose.psd/streamcontainer/)
 * interface [IOSTypeStructureLoader](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../iostypestructureloader/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

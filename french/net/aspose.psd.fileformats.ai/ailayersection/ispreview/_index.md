@@ -1,26 +1,27 @@
 ---
-title: AiLayerSection.IsPreview
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: AiLayerSection propriété. Obtient ou définit une valeur indiquant si ce calque est un aperçu. Affiche lillustration contenue dans le calque en couleur plutôt quen contours.
+title: "AiLayerSection.IsPreview"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété AiLayerSection. Obtient ou définit une valeur indiquant si ce calque est un aperçu. Affiche les œuvres contenues dans le calque en couleur au lieu de les présenter sous forme de contours."
 type: docs
-weight: 70
+weight: 90
 url: /fr/net/aspose.psd.fileformats.ai/ailayersection/ispreview/
 ---
+{{< psd/tize >}}
 ## AiLayerSection.IsPreview property
 
-Obtient ou définit une valeur indiquant si ce calque est un aperçu. Affiche l'illustration contenue dans le calque en couleur plutôt qu'en contours.
+Obtient ou définit une valeur indiquant si ce calque est en aperçu. Affiche le dessin contenu dans le calque en couleur au lieu de le présenter en contours.
 
 ```csharp
 public bool IsPreview { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
-`vrai` si ce calque est un aperçu ; sinon,`FAUX` .
+`true` si ce calque est un aperçu ; sinon, `false`.
 
-### Exemples
+## Exemples
 
-L'exemple suivant illustre la prise en charge des calques dans les fichiers au format AI.
+L'exemple suivant montre la prise en charge des calques dans les fichiers au format AI.
 
 ```csharp
 [C#]
@@ -70,10 +71,10 @@ using (AiImage image = (AiImage)Image.Load(sourceFilePath))
 }
 ```
 
-### Voir également
+### Voir aussi
 
 * class [AiLayerSection](../)
-* espace de noms [Aspose.PSD.FileFormats.Ai](../../ailayersection/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

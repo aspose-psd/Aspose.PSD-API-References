@@ -1,11 +1,12 @@
 ---
-title: AiHeader.CreationDate
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: AiHeader propriété. Obtient ou définit la date de création.
+title: "AiHeader.CreationDate"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété AiHeader. Obtient ou définit la date de création"
 type: docs
 weight: 30
 url: /fr/net/aspose.psd.fileformats.ai/aiheader/creationdate/
 ---
+{{< psd/tize >}}
 ## AiHeader.CreationDate property
 
 Obtient ou définit la date de création.
@@ -14,14 +15,14 @@ Obtient ou définit la date de création.
 public string CreationDate { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
 La date de création.
 
-### Voir également
+### Voir aussi
 
 * class [AiHeader](../)
-* espace de noms [Aspose.PSD.FileFormats.Ai](../../aiheader/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,35 +1,36 @@
 ---
-title: TiffDataType.WriteTag
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: TiffDataType méthode. Écrit les données de variable.
+title: "TiffDataType.WriteTag"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Méthode TiffDataType. Écrit les données du tag"
 type: docs
 weight: 140
 url: /fr/net/aspose.psd.fileformats.tiff/tiffdatatype/writetag/
 ---
+{{< psd/tize >}}
 ## TiffDataType.WriteTag method
 
-Écrit les données de variable.
+Écrit les données de balise.
 
 ```csharp
 public void WriteTag(TiffStreamWriter dataStream, long additionalDataOffset)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
 | dataStream | TiffStreamWriter | Le flux de données. |
-| additionalDataOffset | Int64 | L'offset dans lequel écrire des données supplémentaires. |
+| additionalDataOffset | Int64 | Le décalage où écrire les données supplémentaires. |
 
 ### Exceptions
 
 | exception | condition |
 | --- | --- |
-| [ImageSaveException](../../../aspose.psd.coreexceptions/imagesaveexception/) | Impossible d'écrire des valeurs pour + this.TagType + Message : + exception.Message |
+| [ImageSaveException](../../../aspose.psd.coreexceptions/imagesaveexception/) | Impossible d'écrire les valeurs pour + this.TagType + Message : + exception.Message |
 
-### Voir également
+### Voir aussi
 
 * class [TiffStreamWriter](../../../aspose.psd.fileformats.tiff.filemanagement/tiffstreamwriter/)
 * class [TiffDataType](../)
-* espace de noms [Aspose.PSD.FileFormats.Tiff](../../tiffdatatype/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff](../../../aspose.psd.fileformats.tiff/)
+* assembly [Aspose.PSD](../../../)
 
 

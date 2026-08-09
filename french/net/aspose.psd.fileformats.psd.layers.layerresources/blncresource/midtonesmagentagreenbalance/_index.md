@@ -1,27 +1,28 @@
 ---
-title: BlncResource.MidtonesMagentaGreenBalance
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: BlncResource propriété. Obtient ou définit léquilibre entre les tons moyens le magenta et le vert.
+title: "BlncResource.MidtonesMagentaGreenBalance"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété BlncResource. Obtient ou définit l'équilibre Magenta Vert des tons moyens"
 type: docs
-weight: 80
+weight: 70
 url: /fr/net/aspose.psd.fileformats.psd.layers.layerresources/blncresource/midtonesmagentagreenbalance/
 ---
+{{< psd/tize >}}
 ## BlncResource.MidtonesMagentaGreenBalance property
 
-Obtient ou définit l'équilibre entre les tons moyens, le magenta et le vert.
+Obtient ou définit le Midtones Magenta Green Balance.
 
 ```csharp
 public short MidtonesMagentaGreenBalance { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
-L'équilibre vert magenta des tons moyens.
+L'équilibre Magenta Vert des tons moyens.
 
-### Voir également
+### Voir aussi
 
 * class [BlncResource](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../blncresource/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

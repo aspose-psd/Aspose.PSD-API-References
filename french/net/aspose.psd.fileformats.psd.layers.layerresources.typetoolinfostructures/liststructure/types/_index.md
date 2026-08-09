@@ -1,11 +1,12 @@
 ---
-title: ListStructure.Types
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: ListStructure propriété. Obtient ou définit une copie dun tableau de structures.
+title: "ListStructure.Types"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété ListStructure. Obtient ou définit une copie d'un tableau de structures"
 type: docs
 weight: 50
 url: /fr/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/liststructure/types/
 ---
+{{< psd/tize >}}
 ## ListStructure.Types property
 
 Obtient ou définit une copie d'un tableau de structures.
@@ -14,15 +15,15 @@ Obtient ou définit une copie d'un tableau de structures.
 public OSTypeStructure[] Types { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
 Les types.
 
-### Voir également
+### Voir aussi
 
 * class [OSTypeStructure](../../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/)
 * class [ListStructure](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../liststructure/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,33 +1,34 @@
 ---
-title: FontSettings.SetFontReplacements
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: FontSettings méthode. Définit la liste de remplacement des polices. Si la police nest pas autorisée elle sera remplacée. La première police de la liste sera utilisée en premier. Si elle est également restreinte la police suivante sera sélectionnée dans la liste. Si la police na pas de remplacements ou si tous les remplacements ne sont pas autorisés la première police autorisée de la liste des polices autorisées sera utilisée. Sil ny a pas de polices autorisées et disponibles la bibliothèque le fera. essayez dutiliser la police par défaut du système même si elle nest pas autorisée.
+title: "FontSettings.SetFontReplacements"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Méthode FontSettings. Définit la liste de remplacement des polices. Si une police n'est pas autorisée, un remplacement sera recherché. La première police de la liste sera utilisée en premier. Si elle est également restreinte, la police suivante de la liste sera sélectionnée. Si une police n'a pas de remplacements ou que tous les remplacements sont interdits, la première police autorisée de la liste des polices autorisées sera utilisée. S'il n'existe aucune police autorisée et disponible, la bibliothèque essaiera d'utiliser la police système par défaut même si elle n'est pas autorisée"
 type: docs
-weight: 110
+weight: 130
 url: /fr/net/aspose.psd/fontsettings/setfontreplacements/
 ---
+{{< psd/tize >}}
 ## FontSettings.SetFontReplacements method
 
-Définit la liste de remplacement des polices. Si la police n'est pas autorisée, elle sera remplacée. La première police de la liste sera utilisée en premier. Si elle est également restreinte, la police suivante sera sélectionnée dans la liste. Si la police n'a pas de remplacements ou si tous les remplacements ne sont pas autorisés, la première police autorisée de la liste des polices autorisées sera utilisée. S'il n'y a pas de polices autorisées et disponibles, la bibliothèque le fera. essayez d'utiliser la police par défaut du système même si elle n'est pas autorisée.
+Définit la liste de remplacement des polices. Si une police n'est pas autorisée, un remplacement sera recherché. La première police de la liste sera utilisée en premier. Si elle est également restreinte, la police suivante de la liste sera sélectionnée. Si la police n'a aucun remplacement ou que tous les remplacements ne sont pas autorisés, la première police autorisée de la liste des polices autorisées sera utilisée. S'il n'existe aucune police autorisée et disponible, la bibliothèque tentera d'utiliser la police par défaut du système même si elle n'est pas autorisée.
 
 ```csharp
 public static void SetFontReplacements(string fontToReplace, string[] fontNames)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
 | fontToReplace | String | La police à remplacer. |
-| fontNames | String[] | Noms des polices de remplacement par ordre de similarité. |
+| fontNames | String[] | Les noms des polices de remplacement par ordre de similarité. |
 
 ### Exceptions
 
 | exception | condition |
 | --- | --- |
-| ArgumentException | La longueur du tableau de polices et le tableau des différences de polices doivent être égaux |
+| ArgumentException | La longueur du tableau des polices et du tableau des différences de polices doit être égale |
 
-### Exemples
+## Exemples
 
-Le code suivant montre la possibilité de limiter par programmation les polices à l'aide de.
+Le code suivant démontre la capacité de limiter les polices de façon programmatique en utilisant.
 
 ```csharp
 [C#]
@@ -50,7 +51,8 @@ try
     FontSettings.SetFontReplacements("Arial", arialReplacement);
     FontSettings.SetFontReplacements("Times New Roman", timesReplacement);
 
-    using (PsdImage image = (PsdImage)Image.Load(srcFile))
+    using (PsdImage image = (PsdImage)Image.Load(srcFile,
+        new PsdLoadOptions() { AllowNonChangedLayerRepaint = true }))
     {
         image.Save(output, new PngOptions() { ColorType = PngColorType.TruecolorWithAlpha });
     }
@@ -62,10 +64,10 @@ finally
 }
 ```
 
-### Voir également
+### Voir aussi
 
 * class [FontSettings](../)
-* espace de noms [Aspose.PSD](../../fontsettings/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

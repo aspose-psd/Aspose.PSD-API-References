@@ -1,27 +1,28 @@
 ---
-title: RasterCachedImage.AdjustBrightness
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: RasterCachedImage méthode. Réglage dune luminosité pour limage.
+title: "RasterCachedImage.AdjustBrightness"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Méthode RasterCachedImage. Ajuste la luminosité d'une image"
 type: docs
 weight: 20
 url: /fr/net/aspose.psd/rastercachedimage/adjustbrightness/
 ---
+{{< psd/tize >}}
 ## RasterCachedImage.AdjustBrightness method
 
-Réglage d'une luminosité pour l'image.
+Ajuste la luminosité de l'image.
 
 ```csharp
 public override void AdjustBrightness(int brightness)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
-| brightness | Int32 | Valeur de luminosité. |
+| luminosité | Int32 | Valeur de la luminosité. |
 
-### Voir également
+### Voir aussi
 
 * class [RasterCachedImage](../)
-* espace de noms [Aspose.PSD](../../rastercachedimage/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

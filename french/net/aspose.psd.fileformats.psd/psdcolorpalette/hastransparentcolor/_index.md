@@ -1,27 +1,28 @@
 ---
-title: PsdColorPalette.HasTransparentColor
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: PsdColorPalette propriété. Obtient une valeur indiquant si la couleur transparente existe.
+title: "PsdColorPalette.HasTransparentColor"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété PsdColorPalette. Obtient une valeur indiquant si une couleur transparente existe"
 type: docs
 weight: 60
 url: /fr/net/aspose.psd.fileformats.psd/psdcolorpalette/hastransparentcolor/
 ---
+{{< psd/tize >}}
 ## PsdColorPalette.HasTransparentColor property
 
-Obtient une valeur indiquant si la couleur transparente existe.
+Obtient une valeur indiquant si une couleur transparente existe.
 
 ```csharp
 public bool HasTransparentColor { get; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
-`vrai` si la couleur transparente existe ; sinon,`FAUX` .
+`true` si une couleur transparente existe ; sinon, `false`.
 
-### Voir également
+### Voir aussi
 
 * class [PsdColorPalette](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd](../../psdcolorpalette/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

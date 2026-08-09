@@ -1,11 +1,12 @@
 ---
-title: RectangleProjectedShape.RectangleWidth
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: RectangleProjectedShape propriété. Obtient la largeur du rectangle.
+title: "RectangleProjectedShape.RectangleWidth"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété RectangleProjectedShape. Obtient la largeur du rectangle"
 type: docs
 weight: 80
 url: /fr/net/aspose.psd.shapes/rectangleprojectedshape/rectanglewidth/
 ---
+{{< psd/tize >}}
 ## RectangleProjectedShape.RectangleWidth property
 
 Obtient la largeur du rectangle.
@@ -14,14 +15,14 @@ Obtient la largeur du rectangle.
 public double RectangleWidth { get; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
 La largeur du rectangle.
 
-### Voir également
+### Voir aussi
 
 * class [RectangleProjectedShape](../)
-* espace de noms [Aspose.PSD.Shapes](../../rectangleprojectedshape/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 

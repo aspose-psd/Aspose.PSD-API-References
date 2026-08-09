@@ -1,28 +1,29 @@
 ---
-title: Font.CharacterSet
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: Font propriété. Obtient une valeur doctet qui spécifie le jeu de caractères que cetteFont utilise.
+title: "Font.CharacterSet"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété Font. Obtient une valeur octet qui spécifie le jeu de caractères que ce Font utilise"
 type: docs
 weight: 30
 url: /fr/net/aspose.psd/font/characterset/
 ---
+{{< psd/tize >}}
 ## Font.CharacterSet property
 
-Obtient une valeur d'octet qui spécifie le jeu de caractères que cette[`Font`](../) utilise.
+Obtient une valeur octet qui spécifie le jeu de caractères que ce [`Font`](../) utilise.
 
 ```csharp
 public CharacterSet CharacterSet { get; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
-Un jeu de caractères que cela[`Font`](../) les usages.
+Un jeu de caractères que ce [`Font`](../) utilise.
 
-### Voir également
+### Voir aussi
 
 * enum [CharacterSet](../../characterset/)
 * class [Font](../)
-* espace de noms [Aspose.PSD](../../font/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,16 +1,17 @@
 ---
-title: Aspose.PSD.Xmp.Types.Complex.Version
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: Lespace de noms contient des classes qui décrivent une version dun document.
+title: "Aspose.PSD.Xmp.Types.Complex.Version"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "L'espace de noms contient des classes qui décrivent une version d'un document"
 type: docs
-weight: 690
+weight: 730
 url: /fr/net/aspose.psd.xmp.types.complex.version/
 ---
+{{< psd/tize >}}
 L'espace de noms contient des classes qui décrivent une version d'un document.
 
-## Des classes
+## Classes
 
-| Classer | La description |
+| Classe | Description |
 | --- | --- |
 | [Version](./version/) | Décrit une version d'un document. |
 

@@ -1,27 +1,28 @@
 ---
-title: StreamContainer.Length
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: StreamContainer propriété. Obtient ou définit la longueur du flux en octets. Cette valeur est inférieure à laLengthpar la position de départ du flux transmise dans le constructeur StreamContainer.
+title: "StreamContainer.Length"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété StreamContainer. Obtient ou définit la longueur du flux en octets. Cette valeur est inférieure à Length de la position de départ du flux passée dans le constructeur de StreamContainer"
 type: docs
 weight: 60
 url: /fr/net/aspose.psd/streamcontainer/length/
 ---
+{{< psd/tize >}}
 ## StreamContainer.Length property
 
-Obtient ou définit la longueur du flux en octets. Cette valeur est inférieure à laLengthpar la position de départ du flux transmise dans le constructeur StreamContainer.
+Obtient ou définit la longueur du flux en octets. Cette valeur est inférieure à la Longueur de la position de départ du flux passée dans le constructeur de StreamContainer.
 
 ```csharp
 public virtual long Length { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
 La longueur du flux.
 
-### Voir également
+### Voir aussi
 
 * class [StreamContainer](../)
-* espace de noms [Aspose.PSD](../../streamcontainer/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

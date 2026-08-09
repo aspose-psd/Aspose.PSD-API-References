@@ -1,11 +1,12 @@
 ---
-title: TiffSRational.Value
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: TiffSRational propriété. Obtient la valeur flottante.
+title: "TiffSRational.Value"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété TiffSRational. Obtient la valeur flottante"
 type: docs
 weight: 50
 url: /fr/net/aspose.psd.fileformats.tiff/tiffsrational/value/
 ---
+{{< psd/tize >}}
 ## TiffSRational.Value property
 
 Obtient la valeur flottante.
@@ -14,14 +15,14 @@ Obtient la valeur flottante.
 public float Value { get; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
 La valeur flottante.
 
-### Voir également
+### Voir aussi
 
 * class [TiffSRational](../)
-* espace de noms [Aspose.PSD.FileFormats.Tiff](../../tiffsrational/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff](../../../aspose.psd.fileformats.tiff/)
+* assembly [Aspose.PSD](../../../)
 
 

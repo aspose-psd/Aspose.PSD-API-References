@@ -1,27 +1,28 @@
 ---
-title: SmartObjectResource.DurationDenominator
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: SmartObjectResource propriété. Obtient ou définit le dénominateur de durée.
+title: "SmartObjectResource.DurationDenominator"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété SmartObjectResource. Obtient ou définit le dénominateur de durée."
 type: docs
 weight: 50
 url: /fr/net/aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/durationdenominator/
 ---
+{{< psd/tize >}}
 ## SmartObjectResource.DurationDenominator property
 
-Obtient ou définit le dénominateur de durée.
+Obtient ou définit le dénominateur de la durée.
 
 ```csharp
 public int DurationDenominator { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
 Le dénominateur de durée.
 
-### Voir également
+### Voir aussi
 
 * class [SmartObjectResource](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../smartobjectresource/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

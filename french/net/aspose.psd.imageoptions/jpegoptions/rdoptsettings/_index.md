@@ -1,11 +1,12 @@
 ---
-title: JpegOptions.RdOptSettings
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: JpegOptions propriété. Obtient ou définit les paramètres de loptimiseur RD.
+title: "JpegOptions.RdOptSettings"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété JpegOptions. Obtient ou définit les paramètres de l'optimiseur RD"
 type: docs
-weight: 150
+weight: 160
 url: /fr/net/aspose.psd.imageoptions/jpegoptions/rdoptsettings/
 ---
+{{< psd/tize >}}
 ## JpegOptions.RdOptSettings property
 
 Obtient ou définit les paramètres de l'optimiseur RD.
@@ -14,15 +15,15 @@ Obtient ou définit les paramètres de l'optimiseur RD.
 public RdOptimizerSettings RdOptSettings { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
 Les paramètres de l'optimiseur RD.
 
-### Voir également
+### Voir aussi
 
 * class [RdOptimizerSettings](../../rdoptimizersettings/)
 * class [JpegOptions](../)
-* espace de noms [Aspose.PSD.ImageOptions](../../jpegoptions/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

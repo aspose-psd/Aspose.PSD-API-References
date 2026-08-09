@@ -1,27 +1,28 @@
 ---
-title: PhotoshopPackage.SetAuthorsPosition
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: PhotoshopPackage méthode. Définit la position des auteurs.
+title: "PhotoshopPackage.SetAuthorsPosition"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Méthode PhotoshopPackage. Définit la position des auteurs"
 type: docs
 weight: 30
 url: /fr/net/aspose.psd.xmp.schemas.photoshop/photoshoppackage/setauthorsposition/
 ---
+{{< psd/tize >}}
 ## PhotoshopPackage.SetAuthorsPosition method
 
-Définit la position des auteurs.
+Définit la position de l'auteur.
 
 ```csharp
 public void SetAuthorsPosition(string authorsPosition)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
 | authorsPosition | String | La position des auteurs. |
 
-### Voir également
+### Voir aussi
 
 * class [PhotoshopPackage](../)
-* espace de noms [Aspose.PSD.Xmp.Schemas.Photoshop](../../photoshoppackage/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.Photoshop](../../../aspose.psd.xmp.schemas.photoshop/)
+* assembly [Aspose.PSD](../../../)
 
 

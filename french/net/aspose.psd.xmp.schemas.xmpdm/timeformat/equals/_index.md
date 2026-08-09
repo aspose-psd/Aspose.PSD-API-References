@@ -1,55 +1,56 @@
 ---
-title: TimeFormat.Equals
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: TimeFormat méthode. Indique si lobjet courant est égal à un autre objet du même type.
+title: "TimeFormat.Equals"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Méthode TimeFormat. Indique si l'objet actuel est égal à un autre objet du même type"
 type: docs
 weight: 110
 url: /fr/net/aspose.psd.xmp.schemas.xmpdm/timeformat/equals/
 ---
+{{< psd/tize >}}
 ## Equals(TimeFormat) {#equals}
 
-Indique si l'objet courant est égal à un autre objet du même type.
+Indique si l'objet actuel est égal à un autre objet du même type.
 
 ```csharp
 public bool Equals(TimeFormat other)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
-| other | TimeFormat | Un objet à comparer avec cet objet. |
+| autre | TimeFormat | Un objet à comparer avec cet objet. |
 
-### Return_Value
+### Valeur de retour
 
-true si l'objet courant est égal au*other* paramètre; sinon, faux.
+true si l'objet actuel est égal au paramètre *other* ; sinon, false.
 
-### Voir également
+### Voir aussi
 
 * class [TimeFormat](../)
-* espace de noms [Aspose.PSD.Xmp.Schemas.XmpDm](../../timeformat/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpDm](../../../aspose.psd.xmp.schemas.xmpdm/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Equals(object) {#equals_1}
 
-Détermine si la valeur spécifiéeObject , est égal à cette instance.
+Détermine si l'objet spécifié est égal à cette instance.
 
 ```csharp
 public override bool Equals(object obj)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
-| obj | Object | LeObject à comparer avec cet exemple. |
+| obj | Object | L'Object à comparer avec cette instance. |
 
-### Return_Value
+### Valeur de retour
 
-`vrai` si le spécifiéObject est égal à cette instance ; sinon,`FAUX` .
+`true` si l'Object spécifié est égal à cette instance ; sinon, `false`.
 
-### Voir également
+### Voir aussi
 
 * class [TimeFormat](../)
-* espace de noms [Aspose.PSD.Xmp.Schemas.XmpDm](../../timeformat/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpDm](../../../aspose.psd.xmp.schemas.xmpdm/)
+* assembly [Aspose.PSD](../../../)
 
 

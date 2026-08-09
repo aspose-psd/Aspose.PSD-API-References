@@ -1,11 +1,12 @@
 ---
-title: Image.Palette
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: Image propriété. Obtient ou définit la palette de couleurs. La palette de couleurs nest pas utilisée lorsque les pixels sont représentés directement.
+title: "Image.Palette"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété Image. Obtient ou définit la palette de couleurs. La palette de couleurs n'est pas utilisée lorsque les pixels sont représentés directement"
 type: docs
 weight: 130
 url: /fr/net/aspose.psd/image/palette/
 ---
+{{< psd/tize >}}
 ## Image.Palette property
 
 Obtient ou définit la palette de couleurs. La palette de couleurs n'est pas utilisée lorsque les pixels sont représentés directement.
@@ -14,15 +15,15 @@ Obtient ou définit la palette de couleurs. La palette de couleurs n'est pas uti
 public IColorPalette Palette { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
 La palette de couleurs.
 
-### Voir également
+### Voir aussi
 
 * interface [IColorPalette](../../icolorpalette/)
 * class [Image](../)
-* espace de noms [Aspose.PSD](../../image/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

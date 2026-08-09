@@ -1,27 +1,28 @@
 ---
-title: XmpRightsManagementPackage.SetWebStatement
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: XmpRightsManagementPackage méthode. Définit la déclaration Web.
+title: "XmpRightsManagementPackage.SetWebStatement"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Méthode XmpRightsManagementPackage. Définit la déclaration web."
 type: docs
 weight: 70
 url: /fr/net/aspose.psd.xmp.schemas.xmprm/xmprightsmanagementpackage/setwebstatement/
 ---
+{{< psd/tize >}}
 ## XmpRightsManagementPackage.SetWebStatement method
 
-Définit la déclaration Web.
+Définit la déclaration web.
 
 ```csharp
 public void SetWebStatement(string webStatementUrl)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
-| webStatementUrl | String | L'URL du relevé Web. |
+| webStatementUrl | String | L'URL de la déclaration Web. |
 
-### Voir également
+### Voir aussi
 
 * class [XmpRightsManagementPackage](../)
-* espace de noms [Aspose.PSD.Xmp.Schemas.XmpRm](../../xmprightsmanagementpackage/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpRm](../../../aspose.psd.xmp.schemas.xmprm/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: ExifData.Contrast
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: ExifData propriété. Obtient ou définit le contraste.
+title: "ExifData.Contrast"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété ExifData. Obtient ou définit le contraste"
 type: docs
 weight: 110
 url: /fr/net/aspose.psd.exif/exifdata/contrast/
 ---
+{{< psd/tize >}}
 ## ExifData.Contrast property
 
 Obtient ou définit le contraste.
@@ -14,15 +15,15 @@ Obtient ou définit le contraste.
 public ExifContrast Contrast { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
 Le contraste.
 
-### Voir également
+### Voir aussi
 
 * enum [ExifContrast](../../../aspose.psd.exif.enums/exifcontrast/)
 * class [ExifData](../)
-* espace de noms [Aspose.PSD.Exif](../../exifdata/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

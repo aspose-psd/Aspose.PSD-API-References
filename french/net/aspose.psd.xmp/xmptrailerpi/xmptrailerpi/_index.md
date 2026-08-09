@@ -1,43 +1,44 @@
 ---
-title: XmpTrailerPi.XmpTrailerPi
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: XmpTrailerPi constructeur. Initialise une nouvelle instance duXmpTrailerPi classe.
+title: "XmpTrailerPi.XmpTrailerPi"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Constructeur XmpTrailerPi. Initialise une nouvelle instance de la classe XmpTrailerPi"
 type: docs
 weight: 10
 url: /fr/net/aspose.psd.xmp/xmptrailerpi/xmptrailerpi/
 ---
+{{< psd/tize >}}
 ## XmpTrailerPi(bool) {#constructor_1}
 
-Initialise une nouvelle instance du[`XmpTrailerPi`](../) classe.
+Initialise une nouvelle instance de la classe [`XmpTrailerPi`](../).
 
 ```csharp
 public XmpTrailerPi(bool isWritable)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
-| isWritable | Boolean | Indique si la bande-annonce est accessible en écriture. |
+| isWritable | Booléen | Indique si le trailer est modifiable. |
 
-### Voir également
+### Voir aussi
 
 * class [XmpTrailerPi](../)
-* espace de noms [Aspose.PSD.Xmp](../../xmptrailerpi/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## XmpTrailerPi() {#constructor}
 
-Initialise une nouvelle instance du[`XmpTrailerPi`](../) classe.
+Initialise une nouvelle instance de la classe [`XmpTrailerPi`](../).
 
 ```csharp
 public XmpTrailerPi()
 ```
 
-### Voir également
+### Voir aussi
 
 * class [XmpTrailerPi](../)
-* espace de noms [Aspose.PSD.Xmp](../../xmptrailerpi/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

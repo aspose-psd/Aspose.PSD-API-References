@@ -1,11 +1,12 @@
 ---
-title: TiffOptions.BitsPerSample
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: TiffOptions propriété. Obtient ou définit les bits par échantillon.
+title: "TiffOptions.BitsPerSample"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété TiffOptions. Obtient ou définit les bits par échantillon"
 type: docs
 weight: 50
 url: /fr/net/aspose.psd.imageoptions/tiffoptions/bitspersample/
 ---
+{{< psd/tize >}}
 ## TiffOptions.BitsPerSample property
 
 Obtient ou définit les bits par échantillon.
@@ -14,18 +15,18 @@ Obtient ou définit les bits par échantillon.
 public ushort[] BitsPerSample { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
-Les bits par valeur d'échantillon.
+La valeur des bits par échantillon.
 
-### Remarques
+## Remarques
 
-Lorsque vous définissez cette valeur, gardez à l'esprit qu'elle définira également la valeur SamplesPerPixel sur la longueur du tableau. Ces 2 propriétés sont très étroitement liées et ne peuvent donc être définies qu'ensemble.
+Lors de la définition de cette valeur, gardez à l'esprit qu'elle définira également la valeur SamplesPerPixel à la longueur du tableau. Ces 2 propriétés sont très étroitement couplées, elles ne peuvent donc être définies ensemble uniquement.
 
-### Voir également
+### Voir aussi
 
 * class [TiffOptions](../)
-* espace de noms [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

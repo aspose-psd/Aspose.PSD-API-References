@@ -1,11 +1,12 @@
 ---
-title: ShmdResource.SubResources
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: ShmdResource propriété. Obtient les sousressources de la ressource shmd.
+title: "ShmdResource.SubResources"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "ShmdResource propriété. Obtient les sous-ressources de la ressource shmd"
 type: docs
-weight: 70
+weight: 40
 url: /fr/net/aspose.psd.fileformats.psd.layers.layerresources/shmdresource/subresources/
 ---
+{{< psd/tize >}}
 ## ShmdResource.SubResources property
 
 Obtient les sous-ressources de la ressource shmd.
@@ -14,9 +15,9 @@ Obtient les sous-ressources de la ressource shmd.
 public LayerResource[] SubResources { get; }
 ```
 
-### Exemples
+## Exemples
 
-Le code suivant illustre la prise en charge de la ressource MlstResource qui fournit un mécanisme de bas niveau pour manipuler les états des couches.
+Le code suivant montre la prise en charge de la ressource MlstResource qui fournit un mécanisme de bas niveau pour manipuler les états du calque.
 
 ```csharp
 [C#]
@@ -34,18 +35,18 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFile))
     DescriptorStructure layersStateOnFrame1 = (DescriptorStructure)layerStatesList.Types[1];
     BooleanStructure layerEnabled = (BooleanStructure)layersStateOnFrame1.Structures[0];
 
-    // Désactive le calque 1 sur l'image 1
+    // Désactiver le calque 1 sur la trame 1
     layerEnabled.Value = false;
 
     image.Save(outputPsd);
 }
 ```
 
-### Voir également
+### Voir aussi
 
 * class [LayerResource](../../../aspose.psd.fileformats.psd.layers/layerresource/)
 * class [ShmdResource](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../shmdresource/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

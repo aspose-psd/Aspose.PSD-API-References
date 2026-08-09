@@ -1,11 +1,12 @@
 ---
-title: IGradientFillSettings.GradientName
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: IGradientFillSettings propriété. Obtient ou définit le nom du dégradé.
+title: "IGradientFillSettings.GradientName"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "IGradientFillSettings propriété. Obtient ou définit le nom du dégradé"
 type: docs
-weight: 60
+weight: 50
 url: /fr/net/aspose.psd.fileformats.psd.layers.fillsettings/igradientfillsettings/gradientname/
 ---
+{{< psd/tize >}}
 ## IGradientFillSettings.GradientName property
 
 Obtient ou définit le nom du dégradé.
@@ -14,14 +15,14 @@ Obtient ou définit le nom du dégradé.
 public string GradientName { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
 Le nom du dégradé.
 
-### Voir également
+### Voir aussi
 
 * interface [IGradientFillSettings](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../igradientfillsettings/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../../)
 
 

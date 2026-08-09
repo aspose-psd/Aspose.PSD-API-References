@@ -1,14 +1,15 @@
 ---
-title: Enum ExifYCbCrPositioning
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: Aspose.PSD.Exif.Enums.ExifYCbCrPositioning énumération. exif y cb cr positionnement enum.
+title: "Enum ExifYCbCrPositioning"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Enum Aspose.PSD.Exif.Enums.ExifYCbCrPositioning. enum de positionnement exif y cb cr"
 type: docs
-weight: 980
+weight: 990
 url: /fr/net/aspose.psd.exif.enums/exifycbcrpositioning/
 ---
+{{< psd/tize >}}
 ## ExifYCbCrPositioning enumeration
 
-exif y cb cr positionnement enum.
+énumération du positionnement Y Cb Cr exif.
 
 ```csharp
 public enum ExifYCbCrPositioning
@@ -16,14 +17,14 @@ public enum ExifYCbCrPositioning
 
 ### Valeurs
 
-| Nom | Évaluer | La description |
+| Nom | Valeur | Description |
 | --- | --- | --- |
-| Centered | `1` | Centré YCbCr |
-| CoSited | `2` | Position co-implantée |
+| Centered | `1` | YCbCr centré |
+| CoSited | `2` | Position co-située |
 
-### Voir également
+### Voir aussi
 
-* espace de noms [Aspose.PSD.Exif.Enums](../../aspose.psd.exif.enums/)
-* Assemblée [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Exif.Enums](../../aspose.psd.exif.enums/)
+* assembly [Aspose.PSD](../../)
 
 

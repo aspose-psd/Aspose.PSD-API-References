@@ -1,11 +1,12 @@
 ---
-title: FileStreamContainer.FilePath
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: FileStreamContainer propriété. Obtient le chemin du fichier.
+title: "FileStreamContainer.FilePath"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété FileStreamContainer. Obtient le chemin du fichier"
 type: docs
 weight: 30
 url: /fr/net/aspose.psd/filestreamcontainer/filepath/
 ---
+{{< psd/tize >}}
 ## FileStreamContainer.FilePath property
 
 Obtient le chemin du fichier.
@@ -14,14 +15,14 @@ Obtient le chemin du fichier.
 public string FilePath { get; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
 Le chemin du fichier.
 
-### Voir également
+### Voir aussi
 
 * class [FileStreamContainer](../)
-* espace de noms [Aspose.PSD](../../filestreamcontainer/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

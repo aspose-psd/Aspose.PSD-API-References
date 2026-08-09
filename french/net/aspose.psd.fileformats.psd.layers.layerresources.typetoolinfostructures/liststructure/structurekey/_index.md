@@ -1,11 +1,12 @@
 ---
-title: ListStructure.StructureKey
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: ListStructure champ. Identifie la clé de structure.
+title: "ListStructure.StructureKey"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Champ ListStructure. Identifie la clé de structure"
 type: docs
 weight: 60
 url: /fr/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/liststructure/structurekey/
 ---
+{{< psd/tize >}}
 ## ListStructure.StructureKey field
 
 Identifie la clé de structure.
@@ -14,10 +15,10 @@ Identifie la clé de structure.
 public const int StructureKey;
 ```
 
-### Voir également
+### Voir aussi
 
 * class [ListStructure](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../liststructure/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 

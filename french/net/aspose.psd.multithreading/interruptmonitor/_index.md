@@ -1,11 +1,12 @@
 ---
-title: Class InterruptMonitor
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: Aspose.PSD.Multithreading.InterruptMonitor classe. Représente des informations sur linterruption.
+title: "Classe InterruptMonitor"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Classe Aspose.PSD.Multithreading.InterruptMonitor. Représente des informations sur l'interruption."
 type: docs
-weight: 5130
+weight: 5620
 url: /fr/net/aspose.psd.multithreading/interruptmonitor/
 ---
+{{< psd/tize >}}
 ## InterruptMonitor class
 
 Représente des informations sur l'interruption.
@@ -16,26 +17,26 @@ public class InterruptMonitor
 
 ## Constructeurs
 
-| Nom | La description |
+| Nom | Description |
 | --- | --- |
-| [InterruptMonitor](interruptmonitor/)() | Default_Constructor |
+| [InterruptMonitor](interruptmonitor/)() | Le constructeur par défaut. |
 
 ## Propriétés
 
-| Nom | La description |
+| Nom | Description |
 | --- | --- |
 | static [ThreadLocalInstance](../../aspose.psd.multithreading/interruptmonitor/threadlocalinstance/) { get; set; } | Obtient ou définit l'instance InterruptMonitor qui est unique pour chaque thread. |
 | [IsInterrupted](../../aspose.psd.multithreading/interruptmonitor/isinterrupted/) { get; } | Obtient la valeur indiquant si les opérations doivent être interrompues. |
 
 ## Méthodes
 
-| Nom | La description |
+| Nom | Description |
 | --- | --- |
 | [Interrupt](../../aspose.psd.multithreading/interruptmonitor/interrupt/)() | Envoie une requête pour interrompre les opérations. |
 
-### Voir également
+### Voir aussi
 
-* espace de noms [Aspose.PSD.Multithreading](../../aspose.psd.multithreading/)
-* Assemblée [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Multithreading](../../aspose.psd.multithreading/)
+* assembly [Aspose.PSD](../../)
 
 

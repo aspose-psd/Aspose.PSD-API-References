@@ -1,27 +1,28 @@
 ---
-title: TiffOptions.IsTiled
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: TiffOptions propriété. Obtient une valeur indiquant si limage est en mosaïque.
+title: "TiffOptions.IsTiled"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété TiffOptions. Obtient une valeur indiquant si l'image est découpée en tuiles"
 type: docs
-weight: 240
+weight: 250
 url: /fr/net/aspose.psd.imageoptions/tiffoptions/istiled/
 ---
+{{< psd/tize >}}
 ## TiffOptions.IsTiled property
 
-Obtient une valeur indiquant si l'image est en mosaïque.
+Obtient une valeur indiquant si l'image est découpée en tuiles.
 
 ```csharp
 public bool IsTiled { get; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
-`vrai`si l'image est en mosaïque ; sinon,`FAUX` .
+`true` si l'image est découpée en tuiles ; sinon, `false`.
 
-### Voir également
+### Voir aussi
 
 * class [TiffOptions](../)
-* espace de noms [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

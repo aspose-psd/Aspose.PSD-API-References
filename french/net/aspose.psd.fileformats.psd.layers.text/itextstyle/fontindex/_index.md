@@ -1,11 +1,12 @@
 ---
-title: ITextStyle.FontIndex
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: ITextStyle propriété. Obtient lindex de la police.
+title: "ITextStyle.FontIndex"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété ITextStyle. Obtient l'index de police"
 type: docs
 weight: 110
 url: /fr/net/aspose.psd.fileformats.psd.layers.text/itextstyle/fontindex/
 ---
+{{< psd/tize >}}
 ## ITextStyle.FontIndex property
 
 Obtient l'index de la police.
@@ -14,13 +15,13 @@ Obtient l'index de la police.
 public int FontIndex { get; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
 La police.
 
-### Exemples
+## Exemples
 
-Le code suivant montre comment Aspose.PSD obtient les propriétés de mise en forme en ligne du calque de texte.
+Le code suivant montre comment Aspose.PSD récupère les propriétés du formatage en ligne du calque de texte.
 
 ```csharp
 [C#]
@@ -30,7 +31,7 @@ List<ITextPortion> regularText = new List<ITextPortion>();
 List<ITextPortion> boldText = new List<ITextPortion>();
 List<ITextPortion> italicText = new List<ITextPortion>();
 
-// Charger une image existante dans une instance de la classe PsdImage
+// Chargez une image existante dans une instance de la classe PsdImage
 using (var psdImage = (PsdImage)Image.Load(sourceFile))
 {
 
@@ -45,7 +46,7 @@ using (var psdImage = (PsdImage)Image.Load(sourceFile))
 
         var textLayer = (TextLayer)layer;
 
-        // obtient les polices contenues dans le calque de texte
+        // récupère les polices contenues dans le calque de texte
         var fonts = textLayer.GetFonts();
         var textPortions = textLayer.TextData.Items;
 
@@ -74,10 +75,10 @@ using (var psdImage = (PsdImage)Image.Load(sourceFile))
 }
 ```
 
-### Voir également
+### Voir aussi
 
 * interface [ITextStyle](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.Text](../../itextstyle/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.Text](../../../aspose.psd.fileformats.psd.layers.text/)
+* assembly [Aspose.PSD](../../../)
 
 

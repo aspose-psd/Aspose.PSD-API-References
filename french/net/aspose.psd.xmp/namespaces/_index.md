@@ -1,11 +1,12 @@
 ---
-title: Class Namespaces
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: Aspose.PSD.Xmp.Namespaces classe. Contient les espaces de noms utilisés dans le document RDF.
+title: "Classe Namespaces"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Aspose.PSD.Xmp.Namespaces class. Contient les espaces de noms utilisés dans le document RDF"
 type: docs
-weight: 5770
+weight: 6270
 url: /fr/net/aspose.psd.xmp/namespaces/
 ---
+{{< psd/tize >}}
 ## Namespaces class
 
 Contient les espaces de noms utilisés dans le document RDF.
@@ -14,30 +15,30 @@ Contient les espaces de noms utilisés dans le document RDF.
 public static class Namespaces
 ```
 
-## Des champs
+## Champs
 
-| Nom | La description |
+| Nom | Description |
 | --- | --- |
 | const [DublinCore](../../aspose.psd.xmp/namespaces/dublincore/) | Espace de noms Dublic Core. |
 | const [Pdf](../../aspose.psd.xmp/namespaces/pdf/) | Espace de noms Adobe PDF. |
 | const [Photoshop](../../aspose.psd.xmp/namespaces/photoshop/) | Espace de noms Adobe Photoshop. |
 | const [Rdf](../../aspose.psd.xmp/namespaces/rdf/) | Espace de noms du cadre de définition des ressources. |
-| const [Xml](../../aspose.psd.xmp/namespaces/xml/) | Espace de noms XML. |
+| const [Xml](../../aspose.psd.xmp/namespaces/xml/) | Espace de noms Xml. |
 | const [XmpBasic](../../aspose.psd.xmp/namespaces/xmpbasic/) | Espace de noms XMP Basic. |
 | const [XmpDm](../../aspose.psd.xmp/namespaces/xmpdm/) | Espace de noms XMP Dynamic Media. |
-| const [XmpGraphics](../../aspose.psd.xmp/namespaces/xmpgraphics/) | Espace de noms graphique XMP. |
-| const [XmpGraphicsThumbnail](../../aspose.psd.xmp/namespaces/xmpgraphicsthumbnail/) | Espace de noms graphique XMP. |
-| const [XmpMm](../../aspose.psd.xmp/namespaces/xmpmm/) | Espace de noms de gestion des ressources numériques XMP. |
+| const [XmpGraphics](../../aspose.psd.xmp/namespaces/xmpgraphics/) | Espace de noms XMP graphics. |
+| const [XmpGraphicsThumbnail](../../aspose.psd.xmp/namespaces/xmpgraphicsthumbnail/) | Espace de noms XMP graphics. |
+| const [XmpMm](../../aspose.psd.xmp/namespaces/xmpmm/) | Espace de noms XMP digital asset management. |
 | const [XmpRights](../../aspose.psd.xmp/namespaces/xmprights/) | Espace de noms XMP Rights Management. |
-| const [XmpTypeDimensions](../../aspose.psd.xmp/namespaces/xmptypedimensions/) | Type de dimensions XMP. |
-| const [XmpTypeFont](../../aspose.psd.xmp/namespaces/xmptypefont/) | Type de police XMP. |
-| const [XmpTypeResourceEvent](../../aspose.psd.xmp/namespaces/xmptyperesourceevent/) | URI d'événement de ressource XMP. |
-| const [XmpTypeResourceRef](../../aspose.psd.xmp/namespaces/xmptyperesourceref/) | URI de référence de ressource XMP. |
+| const [XmpTypeDimensions](../../aspose.psd.xmp/namespaces/xmptypedimensions/) | Type XMP Dimensions. |
+| const [XmpTypeFont](../../aspose.psd.xmp/namespaces/xmptypefont/) | Type XMP Font. |
+| const [XmpTypeResourceEvent](../../aspose.psd.xmp/namespaces/xmptyperesourceevent/) | URI XMP ResourceEvent. |
+| const [XmpTypeResourceRef](../../aspose.psd.xmp/namespaces/xmptyperesourceref/) | URI XMP ResourceRef. |
 | const [XmpTypeVersion](../../aspose.psd.xmp/namespaces/xmptypeversion/) | Version XMP. |
 
-### Voir également
+### Voir aussi
 
-* espace de noms [Aspose.PSD.Xmp](../../aspose.psd.xmp/)
-* Assemblée [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Xmp](../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../)
 
 

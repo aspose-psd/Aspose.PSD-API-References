@@ -1,14 +1,15 @@
 ---
-title: Class ColorRangeHsl
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.ColorRangeHsl classe. Hue2Resource dispose de 6 gammes de couleurs où vous pouvez modifier les paramètres HSV. Chaque gamme a 4 points clés pour identifier les limites de la gamme. Et cest ColorRangeHsl
+title: "Classe ColorRangeHsl"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Aspose.PSD.FileFormats.Psd.Layers.LayerResources.ColorRangeHsl classe. Hue2Resource possède 6 plages de couleur où vous pouvez modifier les paramètres HSV. Chaque plage possède 4 points clés pour identifier les bordures de la plage. Et son ColorRangeHsl"
 type: docs
-weight: 2390
+weight: 2650
 url: /fr/net/aspose.psd.fileformats.psd.layers.layerresources/colorrangehsl/
 ---
+{{< psd/tize >}}
 ## ColorRangeHsl class
 
-[`Hue2Resource`](../hue2resource/) dispose de 6 gammes de couleurs où vous pouvez modifier les paramètres HSV. Chaque gamme a 4 points clés pour identifier les limites de la gamme. Et c'est ColorRangeHsl
+[`Hue2Resource`](../hue2resource/) has 6 color ranges where you can change HSV parameters. Every range has 4 key points to identify range borders. And it's ColorRangeHsl
 
 ```csharp
 public class ColorRangeHsl
@@ -16,14 +17,14 @@ public class ColorRangeHsl
 
 ## Constructeurs
 
-| Nom | La description |
+| Nom | Description |
 | --- | --- |
-| [ColorRangeHsl](colorrangehsl/#constructor)() | Initialise une nouvelle instance du`ColorRangeHsl` classe. |
-| [ColorRangeHsl](colorrangehsl/#constructor_1)(byte[]) | Initialise une nouvelle instance du`ColorRangeHsl` classe. |
+| [ColorRangeHsl](colorrangehsl/#constructor)() | Initialise une nouvelle instance de la classe `ColorRangeHsl`. |
+| [ColorRangeHsl](colorrangehsl/#constructor_1)(byte[]) | Initialise une nouvelle instance de la classe `ColorRangeHsl`. |
 
 ## Propriétés
 
-| Nom | La description |
+| Nom | Description |
 | --- | --- |
 | [Hue](../../aspose.psd.fileformats.psd.layers.layerresources/colorrangehsl/hue/) { get; set; } | Obtient ou définit la teinte. |
 | [LeftBorder](../../aspose.psd.fileformats.psd.layers.layerresources/colorrangehsl/leftborder/) { get; set; } | Obtient ou définit la bordure gauche. |
@@ -35,16 +36,16 @@ public class ColorRangeHsl
 
 ## Méthodes
 
-| Nom | La description |
+| Nom | Description |
 | --- | --- |
-| [GetRangeCoefficient](../../aspose.psd.fileformats.psd.layers.layerresources/colorrangehsl/getrangecoefficient/)(double) | Obtient la plage Coefficient. |
+| [GetRangeCoefficient](../../aspose.psd.fileformats.psd.layers.layerresources/colorrangehsl/getrangecoefficient/)(double) | Obtient le coefficient de la plage. |
 | [IsHueInBigRange](../../aspose.psd.fileformats.psd.layers.layerresources/colorrangehsl/ishueinbigrange/)(double) | Détermine si la teinte est dans une grande plage. |
 | [IsHueInSmallRange](../../aspose.psd.fileformats.psd.layers.layerresources/colorrangehsl/ishueinsmallrange/)(double) | Détermine si la teinte est dans une petite plage. |
 | [Save](../../aspose.psd.fileformats.psd.layers.layerresources/colorrangehsl/save/)(StreamContainer) | Enregistre les données dans le conteneur de flux spécifié. |
 
-### Voir également
+### Voir aussi
 
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
-* Assemblée [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../)
 
 

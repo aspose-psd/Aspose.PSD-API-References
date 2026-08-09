@@ -1,27 +1,28 @@
 ---
-title: ColorMatrix.Matrix20
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: ColorMatrix propriété. Obtient ou définit lélément à la deuxième ligne et la colonne 0 zéro de ceColorMatrix .
+title: "ColorMatrix.Matrix20"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété ColorMatrix. Obtient ou définit l'élément à la deuxième ligne et colonne 0 zéro de ce ColorMatrix"
 type: docs
 weight: 130
 url: /fr/net/aspose.psd/colormatrix/matrix20/
 ---
+{{< psd/tize >}}
 ## ColorMatrix.Matrix20 property
 
-Obtient ou définit l'élément à la deuxième ligne et la colonne 0 (zéro) de ce[`ColorMatrix`](../) .
+Obtient ou définit l'élément à la deuxième ligne et colonne 0 (zéro) de ce [`ColorMatrix`](../).
 
 ```csharp
 public float Matrix20 { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
-L'élément de la deuxième ligne et de la colonne 0 de ce[`ColorMatrix`](../).
+L'élément à la deuxième ligne et colonne 0 de ce [`ColorMatrix`](../).
 
-### Voir également
+### Voir aussi
 
 * class [ColorMatrix](../)
-* espace de noms [Aspose.PSD](../../colormatrix/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

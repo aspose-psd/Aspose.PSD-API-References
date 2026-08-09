@@ -1,11 +1,12 @@
 ---
-title: ImageResizeSettings.EntriesCount
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: ImageResizeSettings propriété. Obtient ou définit le nombre dentrées
+title: "ImageResizeSettings.EntriesCount"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété ImageResizeSettings. Obtient ou définit le nombre d'entrées"
 type: docs
 weight: 40
 url: /fr/net/aspose.psd/imageresizesettings/entriescount/
 ---
+{{< psd/tize >}}
 ## ImageResizeSettings.EntriesCount property
 
 Obtient ou définit le nombre d'entrées
@@ -14,14 +15,14 @@ Obtient ou définit le nombre d'entrées
 public int EntriesCount { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
-Les entrées comptent
+Le nombre d'entrées
 
-### Voir également
+### Voir aussi
 
 * class [ImageResizeSettings](../)
-* espace de noms [Aspose.PSD](../../imageresizesettings/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

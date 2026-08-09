@@ -1,23 +1,24 @@
 ---
-title: GaussianBlurSmartFilter.GaussianBlurSmartFilter
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: GaussianBlurSmartFilter constructeur. Initialise une nouvelle instance duGaussianBlurSmartFilter classe.
+title: "GaussianBlurSmartFilter.GaussianBlurSmartFilter"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Constructeur GaussianBlurSmartFilter. Initialise une nouvelle instance de la classe GaussianBlurSmartFilter"
 type: docs
 weight: 10
 url: /fr/net/aspose.psd.fileformats.psd.layers.smartfilters/gaussianblursmartfilter/gaussianblursmartfilter/
 ---
+{{< psd/tize >}}
 ## GaussianBlurSmartFilter constructor
 
-Initialise une nouvelle instance du[`GaussianBlurSmartFilter`](../) classe.
+Initialise une nouvelle instance de la classe [`GaussianBlurSmartFilter`](../).
 
 ```csharp
 public GaussianBlurSmartFilter()
 ```
 
-### Voir également
+### Voir aussi
 
 * class [GaussianBlurSmartFilter](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.SmartFilters](../../gaussianblursmartfilter/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.SmartFilters](../../../aspose.psd.fileformats.psd.layers.smartfilters/)
+* assembly [Aspose.PSD](../../../)
 
 

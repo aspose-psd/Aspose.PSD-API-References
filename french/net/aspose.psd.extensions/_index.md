@@ -1,33 +1,34 @@
 ---
-title: Aspose.PSD.Extensions
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: Lespace de noms contient des méthodes dextension.
+title: "Aspose.PSD.Extensions"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "L'espace de noms contient des méthodes d'extension"
 type: docs
-weight: 110
+weight: 120
 url: /fr/net/aspose.psd.extensions/
 ---
+{{< psd/tize >}}
 L'espace de noms contient des méthodes d'extension.
 
-## Des classes
+## Classes
 
-| Classer | La description |
+| Classe | Description |
 | --- | --- |
-| [BrushExtensions](./brushextensions/) | Contient des méthodes d'extension pour[`Brush`](../aspose.psd/brush/) etBrush . |
-| [ColorBlendExtensions](./colorblendextensions/) | Contient[`ColorBlend`](../aspose.psd/colorblend/) méthodes d'extension. |
-| [ColorExtensions](./colorextensions/) | Le[`Color`](../aspose.psd/color/) méthodes d'extension. |
-| [ColorMapExtensions](./colormapextensions/) | Le[`ColorMap`](../aspose.psd/colormap/) méthodes d'extension. |
-| [ColorMatrixExtensions](./colormatrixextensions/) | Le[`ColorMatrix`](../aspose.psd/colormatrix/) méthodes d'extension. |
-| [FileFormatExtensions](./fileformatextensions/) | Contient[`FileFormat`](../aspose.psd/fileformat/) méthodes d'extension. |
-| [FontExtensions](./fontextensions/) | Contient des méthodes d'extension pour le[`Font`](../aspose.psd/font/) classe. |
-| [GraphicsPathExtensions](./graphicspathextensions/) | Contient le[`GraphicsPath`](../aspose.psd/graphicspath/) méthodes d'extension. |
-| [ImageAttributesExtensions](./imageattributesextensions/) | Contient des méthodes d'extension pour[`ImageAttributes`](../aspose.psd/imageattributes/) etImageAttributes . |
-| [ImageExtensions](./imageextensions/) | Contient des méthodes d'extension pour les conversions basées surImage et[`Image`](../aspose.psd/image/) . |
-| [MatrixExtensions](./matrixextensions/) | Contient le[`Matrix`](../aspose.psd/matrix/) extensions de classe. |
-| [PenExtensions](./penextensions/) | Contient des méthodes d'extension pour[`Pen`](../aspose.psd/pen/) etPen . |
-| [PointExtensions](./pointextensions/) | Contient des méthodes d'extension pour[`Point`](../aspose.psd/point/) et[`PointF`](../aspose.psd/pointf/) structures. |
-| [RectangleExtensions](./rectangleextensions/) | Contient des méthodes d'extension pour[`Rectangle`](../aspose.psd/rectangle/) . |
-| [RegionExtensions](./regionextensions/) | Contient des méthodes d'extension pour le[`Region`](../aspose.psd/region/) classe. |
-| [RotateFlipExtensions](./rotateflipextensions/) | Contient des méthodes d'extension pour la conversionRotateFlipType et le[`RotateFlipType`](../aspose.psd/rotatefliptype/) cours. |
-| [StringFormatExtensions](./stringformatextensions/) | Contient des méthodes d'extension pour le[`StringFormat`](../aspose.psd/stringformat/) classe. |
+| [BrushExtensions](./brushextensions/) | Contient des méthodes d'extension pour [`Brush`](../aspose.psd/brush/) et Brush. |
+| [ColorBlendExtensions](./colorblendextensions/) | Contient des méthodes d'extension pour [`ColorBlend`](../aspose.psd/colorblend/). |
+| [ColorExtensions](./colorextensions/) | Les méthodes d'extension [`Color`](../aspose.psd/color/). |
+| [ColorMapExtensions](./colormapextensions/) | Les méthodes d'extension [`ColorMap`](../aspose.psd/colormap/). |
+| [ColorMatrixExtensions](./colormatrixextensions/) | Les méthodes d'extension [`ColorMatrix`](../aspose.psd/colormatrix/). |
+| [FileFormatExtensions](./fileformatextensions/) | Contient des méthodes d'extension [`FileFormat`](../aspose.psd/fileformat/). |
+| [FontExtensions](./fontextensions/) | Contient des méthodes d'extension pour la classe [`Font`](../aspose.psd/font/). |
+| [GraphicsPathExtensions](./graphicspathextensions/) | Contient les méthodes d'extension [`GraphicsPath`](../aspose.psd/graphicspath/). |
+| [ImageAttributesExtensions](./imageattributesextensions/) | Contient des méthodes d'extension pour [`ImageAttributes`](../aspose.psd/imageattributes/) et ImageAttributes. |
+| [ImageExtensions](./imageextensions/) | Contient des méthodes d'extension pour les conversions basées sur Image et Image. |
+| [MatrixExtensions](./matrixextensions/) | Contient les extensions de la classe [`Matrix`](../aspose.psd/matrix/). |
+| [PenExtensions](./penextensions/) | Contient des méthodes d'extension pour [`Pen`](../aspose.psd/pen/) et Pen. |
+| [PointExtensions](./pointextensions/) | Contient des méthodes d'extension pour les structures [`Point`](../aspose.psd/point/) et [`PointF`](../aspose.psd/pointf/). |
+| [RectangleExtensions](./rectangleextensions/) | Contient des méthodes d'extension pour [`Rectangle`](../aspose.psd/rectangle/). |
+| [RegionExtensions](./regionextensions/) | Contient des méthodes d'extension pour la classe [`Region`](../aspose.psd/region/). |
+| [RotateFlipExtensions](./rotateflipextensions/) | Contient des méthodes d'extension pour la conversion du RotateFlipType et de la classe [`RotateFlipType`](../aspose.psd/rotatefliptype/). |
+| [StringFormatExtensions](./stringformatextensions/) | Contient des méthodes d'extension pour la classe [`StringFormat`](../aspose.psd/stringformat/). |
 
 

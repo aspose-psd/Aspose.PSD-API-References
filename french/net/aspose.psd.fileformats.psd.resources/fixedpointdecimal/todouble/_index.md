@@ -1,27 +1,28 @@
 ---
-title: FixedPointDecimal.ToDouble
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: FixedPointDecimal méthode. Convertit la décimale à virgule fixe actuelle en double.
+title: "FixedPointDecimal.ToDouble"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Méthode FixedPointDecimal. Convertit le décimal à point fixe actuel en double"
 type: docs
 weight: 40
 url: /fr/net/aspose.psd.fileformats.psd.resources/fixedpointdecimal/todouble/
 ---
+{{< psd/tize >}}
 ## FixedPointDecimal.ToDouble method
 
-Convertit la décimale à virgule fixe actuelle en double.
+Convertit le décimal à point fixe actuel en double.
 
 ```csharp
 public double ToDouble()
 ```
 
-### Return_Value
+### Valeur de retour
 
 La valeur convertie.
 
-### Voir également
+### Voir aussi
 
 * class [FixedPointDecimal](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Resources](../../fixedpointdecimal/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

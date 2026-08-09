@@ -1,11 +1,12 @@
 ---
-title: GdFlResource.Color
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: GdFlResource propriété. Obtient la couleur du RVB.
+title: "GdFlResource.Color"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété GdFlResource. Obtient la couleur du RVB"
 type: docs
 weight: 40
 url: /fr/net/aspose.psd.fileformats.psd.layers.layerresources/gdflresource/color/
 ---
+{{< psd/tize >}}
 ## GdFlResource.Color property
 
 Obtient la couleur du RVB.
@@ -14,15 +15,15 @@ Obtient la couleur du RVB.
 public Color Color { get; set; }
 ```
 
-### Return_Value
+### Valeur de retour
 
 La couleur RVB
 
-### Voir également
+### Voir aussi
 
 * struct [Color](../../../aspose.psd/color/)
 * class [GdFlResource](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../gdflresource/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

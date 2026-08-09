@@ -1,23 +1,24 @@
 ---
-title: DisposableObject.Dispose
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: DisposableObject méthode. Supprime linstance actuelle.
+title: "DisposableObject.Dispose"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Méthode DisposableObject. Libère l'instance actuelle"
 type: docs
 weight: 30
 url: /fr/net/aspose.psd/disposableobject/dispose/
 ---
+{{< psd/tize >}}
 ## DisposableObject.Dispose method
 
-Supprime l'instance actuelle.
+Libère l'instance actuelle.
 
 ```csharp
 public void Dispose()
 ```
 
-### Voir également
+### Voir aussi
 
 * class [DisposableObject](../)
-* espace de noms [Aspose.PSD](../../disposableobject/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

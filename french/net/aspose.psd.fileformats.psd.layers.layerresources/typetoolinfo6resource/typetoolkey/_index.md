@@ -1,23 +1,24 @@
 ---
-title: TypeToolInfo6Resource.TypeToolKey
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: TypeToolInfo6Resource champ. La clé dinformations sur loutil de type.
+title: "TypeToolInfo6Resource.TypeToolKey"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "TypeToolInfo6Resource champ. La clé d'information de l'outil de type"
 type: docs
-weight: 230
+weight: 200
 url: /fr/net/aspose.psd.fileformats.psd.layers.layerresources/typetoolinfo6resource/typetoolkey/
 ---
+{{< psd/tize >}}
 ## TypeToolInfo6Resource.TypeToolKey field
 
-La clé d'informations sur l'outil de type.
+La clé d'information de l'outil de type.
 
 ```csharp
 public const int TypeToolKey;
 ```
 
-### Voir également
+### Voir aussi
 
 * class [TypeToolInfo6Resource](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../typetoolinfo6resource/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

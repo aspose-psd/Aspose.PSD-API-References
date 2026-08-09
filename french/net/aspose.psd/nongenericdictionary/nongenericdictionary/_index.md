@@ -1,27 +1,28 @@
 ---
-title: NonGenericDictionary.NonGenericDictionary
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: NonGenericDictionary constructeur. Initialise une nouvelle instance duNonGenericDictionary classe.
+title: "NonGenericDictionary.NonGenericDictionary"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Constructeur NonGenericDictionary. Initialise une nouvelle instance de la classe NonGenericDictionary"
 type: docs
 weight: 10
 url: /fr/net/aspose.psd/nongenericdictionary/nongenericdictionary/
 ---
+{{< psd/tize >}}
 ## NonGenericDictionary constructor
 
-Initialise une nouvelle instance du[`NonGenericDictionary`](../) classe.
+Initialise une nouvelle instance de la classe [`NonGenericDictionary`](../).
 
 ```csharp
 public NonGenericDictionary(IDictionary dictionary)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
-| dictionary | IDictionary | Le dictionnaire à utiliser. |
+| dictionnaire | IDictionary | Le dictionnaire à utiliser. |
 
-### Voir également
+### Voir aussi
 
 * class [NonGenericDictionary](../)
-* espace de noms [Aspose.PSD](../../nongenericdictionary/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

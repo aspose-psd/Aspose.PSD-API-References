@@ -1,59 +1,60 @@
 ---
-title: PixelDataFormat.GetCmyk
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: PixelDataFormat méthode. Obtient la couleur CMJN avec un nombre spécifié de bits par échantillon.
+title: "PixelDataFormat.GetCmyk"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Méthode PixelDataFormat. Obtient la couleur CMYK avec un nombre spécifié de bits par échantillon"
 type: docs
 weight: 210
 url: /fr/net/aspose.psd/pixeldataformat/getcmyk/
 ---
+{{< psd/tize >}}
 ## GetCmyk(int) {#getcmyk}
 
-Obtient la couleur CMJN avec un nombre spécifié de bits par échantillon.
+Obtient la couleur CMYK avec un nombre spécifié de bits par échantillon.
 
 ```csharp
 public static PixelDataFormat GetCmyk(int bitsPerSample)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
 | bitsPerSample | Int32 | Le nombre de bits par échantillon. |
 
-### Return_Value
+### Valeur de retour
 
-La couleur CMJN.
+La couleur CMYK.
 
-### Voir également
+### Voir aussi
 
 * class [PixelDataFormat](../)
-* espace de noms [Aspose.PSD](../../pixeldataformat/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## GetCmyk(int, int, int, int) {#getcmyk_1}
 
-Obtient la couleur CMJN avec un nombre spécifié de bits par échantillon.
+Obtient la couleur CMYK avec un nombre spécifié de bits par échantillon.
 
 ```csharp
 public static PixelDataFormat GetCmyk(int bitsPerCyanChannel, int bitsPerMagentaChannel, 
     int bitsPerYellowChannel, int bitsPerKeyChannel)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
-| bitsPerCyanChannel | Int32 | Le nombre de bits par canal cyan. |
+| bitsPerCyanChannel | Int32 | Le nombre de bits par canal Cyan. |
 | bitsPerMagentaChannel | Int32 | Le nombre de bits par canal Magenta. |
 | bitsPerYellowChannel | Int32 | Le nombre de bits par canal Jaune. |
-| bitsPerKeyChannel | Int32 | Le nombre de bits par canal clé. |
+| bitsPerKeyChannel | Int32 | Le nombre de bits par canal Key. |
 
-### Return_Value
+### Valeur de retour
 
-La couleur CMJN.
+La couleur CMYK.
 
-### Voir également
+### Voir aussi
 
 * class [PixelDataFormat](../)
-* espace de noms [Aspose.PSD](../../pixeldataformat/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

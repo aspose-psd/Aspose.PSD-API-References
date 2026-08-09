@@ -1,11 +1,12 @@
 ---
-title: PlacedResource.Value
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: PlacedResource propriété. Obtient ou définit la valeur de déformation du calque placé dans limage PSD.
+title: "PlacedResource.Value"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété PlacedResource. Obtient ou définit la valeur de déformation du calque placé dans l'image PSD"
 type: docs
-weight: 200
+weight: 190
 url: /fr/net/aspose.psd.fileformats.psd.layers.layerresources/placedresource/value/
 ---
+{{< psd/tize >}}
 ## PlacedResource.Value property
 
 Obtient ou définit la valeur de déformation du calque placé dans l'image PSD.
@@ -14,14 +15,14 @@ Obtient ou définit la valeur de déformation du calque placé dans l'image PSD.
 public double Value { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
 La valeur de déformation du calque placé.
 
-### Voir également
+### Voir aussi
 
 * class [PlacedResource](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../placedresource/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: Class CompositeException
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: Aspose.PSD.CompositeException classe. Lexception composite
+title: "Classe CompositeException"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Classe Aspose.PSD.CompositeException. L'exception composite"
 type: docs
 weight: 410
 url: /fr/net/aspose.psd/compositeexception/
 ---
+{{< psd/tize >}}
 ## CompositeException class
 
 L'exception composite
@@ -14,9 +15,9 @@ L'exception composite
 public class CompositeException : Exception
 ```
 
-### Voir également
+### Voir aussi
 
-* espace de noms [Aspose.PSD](../../aspose.psd/)
-* Assemblée [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

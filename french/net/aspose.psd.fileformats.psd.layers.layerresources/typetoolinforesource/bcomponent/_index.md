@@ -1,11 +1,12 @@
 ---
-title: TypeToolInfoResource.BComponent
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: TypeToolInfoResource propriété. Obtient ou définit le composant b.
+title: "TypeToolInfoResource.BComponent"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "TypeToolInfoResource property. Obtient ou définit le composant b"
 type: docs
 weight: 30
 url: /fr/net/aspose.psd.fileformats.psd.layers.layerresources/typetoolinforesource/bcomponent/
 ---
+{{< psd/tize >}}
 ## TypeToolInfoResource.BComponent property
 
 Obtient ou définit le composant b.
@@ -14,14 +15,14 @@ Obtient ou définit le composant b.
 public short BComponent { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
-La composante b.
+Le composant b.
 
-### Voir également
+### Voir aussi
 
 * class [TypeToolInfoResource](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../typetoolinforesource/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

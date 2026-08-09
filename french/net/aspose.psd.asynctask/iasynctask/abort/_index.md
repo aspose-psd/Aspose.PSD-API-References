@@ -1,23 +1,24 @@
 ---
-title: IAsyncTask.Abort
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: IAsyncTask méthode. Abandonne cette tâche. La tâche est terminée immédiatement avec le risque de ne pas libérer de ressources internes non gérées.
+title: "IAsyncTask.Abort"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Méthode IAsyncTask. Annule cette tâche. La tâche est terminée immédiatement avec le risque de ne pas libérer les ressources internes non gérées."
 type: docs
 weight: 70
 url: /fr/net/aspose.psd.asynctask/iasynctask/abort/
 ---
+{{< psd/tize >}}
 ## IAsyncTask.Abort method
 
-Abandonne cette tâche. La tâche est terminée immédiatement, avec le risque de ne pas libérer de ressources internes non gérées.
+Interrompt cette tâche. La tâche est terminée immédiatement, avec le risque de ne pas libérer les ressources internes non gérées.
 
 ```csharp
 public void Abort()
 ```
 
-### Voir également
+### Voir aussi
 
 * interface [IAsyncTask](../)
-* espace de noms [Aspose.PSD.AsyncTask](../../iasynctask/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.AsyncTask](../../../aspose.psd.asynctask/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: TiffStreamWriter.WriteULongArray
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: TiffStreamWriter méthode. Écrit un tableau de valeurs entières non signées dans le flux.
+title: "TiffStreamWriter.WriteULongArray"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Méthode TiffStreamWriter. Écrit un tableau de valeurs entières non signées dans le flux"
 type: docs
 weight: 210
 url: /fr/net/aspose.psd.fileformats.tiff.filemanagement/tiffstreamwriter/writeulongarray/
 ---
+{{< psd/tize >}}
 ## TiffStreamWriter.WriteULongArray method
 
-Écrit un tableau de valeurs entières non signées dans le flux.
+Écrit un tableau de valeurs entiers non signés dans le flux.
 
 ```csharp
 public void WriteULongArray(uint[] data)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
-| data | UInt32[] | Le tableau à écrire. |
+| données | UInt32[] | Le tableau à écrire. |
 
-### Voir également
+### Voir aussi
 
 * class [TiffStreamWriter](../)
-* espace de noms [Aspose.PSD.FileFormats.Tiff.FileManagement](../../tiffstreamwriter/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff.FileManagement](../../../aspose.psd.fileformats.tiff.filemanagement/)
+* assembly [Aspose.PSD](../../../)
 
 

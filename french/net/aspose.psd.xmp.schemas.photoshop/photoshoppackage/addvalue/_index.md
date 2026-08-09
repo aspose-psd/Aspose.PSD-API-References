@@ -1,11 +1,12 @@
 ---
-title: PhotoshopPackage.AddValue
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: PhotoshopPackage méthode. Ajoute une propriété de chaîne.
+title: "PhotoshopPackage.AddValue"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "PhotoshopPackage méthode. Ajoute une propriété de chaîne"
 type: docs
 weight: 20
 url: /fr/net/aspose.psd.xmp.schemas.photoshop/photoshoppackage/addvalue/
 ---
+{{< psd/tize >}}
 ## PhotoshopPackage.AddValue method
 
 Ajoute une propriété de chaîne.
@@ -14,10 +15,10 @@ Ajoute une propriété de chaîne.
 public override void AddValue(string key, string value)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
-| key | String | La représentation sous forme de chaîne de la clé qui est identifiée avec une valeur ajoutée. |
-| value | String | La valeur de chaîne. |
+| clé | String | La représentation sous forme de chaîne de la clé qui est identifiée avec la valeur ajoutée. |
+| valeur | String | La valeur de chaîne. |
 
 ### Exceptions
 
@@ -25,10 +26,10 @@ public override void AddValue(string key, string value)
 | --- | --- |
 | ArgumentNullException | key;La propriété Photoshop ne peut pas être nulle |
 
-### Voir également
+### Voir aussi
 
 * class [PhotoshopPackage](../)
-* espace de noms [Aspose.PSD.Xmp.Schemas.Photoshop](../../photoshoppackage/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.Photoshop](../../../aspose.psd.xmp.schemas.photoshop/)
+* assembly [Aspose.PSD](../../../)
 
 

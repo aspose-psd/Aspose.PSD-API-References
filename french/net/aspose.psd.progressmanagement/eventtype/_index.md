@@ -1,14 +1,15 @@
 ---
-title: Enum EventType
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: Aspose.PSD.ProgressManagement.EventType énumération. Cette énumération décrit les types dévénements de progression possibles qui peuvent se produire pendant les opérations de traitement dimage
+title: "Enum EventType"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Enum Aspose.PSD.ProgressManagement.EventType. Cet enum décrit les types d'événements de progression possibles qui peuvent survenir pendant les opérations de traitement d'image"
 type: docs
-weight: 5290
+weight: 5790
 url: /fr/net/aspose.psd.progressmanagement/eventtype/
 ---
+{{< psd/tize >}}
 ## EventType enumeration
 
-Cette énumération décrit les types d'événements de progression possibles qui peuvent se produire pendant les opérations de traitement d'image
+Cette énumération décrit les types d'événements de progression possibles qui peuvent survenir lors des opérations de traitement d'images
 
 ```csharp
 public enum EventType
@@ -16,18 +17,18 @@ public enum EventType
 
 ### Valeurs
 
-| Nom | Évaluer | La description |
+| Nom | Valeur | Description |
 | --- | --- | --- |
-| RelativeProgress | `0` | Progression relative de l'étape actuelle de l'opération de traitement |
-| StageChange | `1` | La prochaine étape de l'opération a commencé |
+| RelativeProgress | `0` | Progression relative de l'étape actuelle du traitement de l'opération |
+| StageChange | `1` | L'étape suivante de l'opération a commencé |
 | Initialization | `2` | L'initialisation de l'opération |
-| PreProcessing | `3` | Le pré traitement |
+| PreProcessing | `3` | Le prétraitement |
 | Processing | `4` | Le traitement |
 | Finalization | `5` | La finalisation de l'opération |
 
-### Voir également
+### Voir aussi
 
-* espace de noms [Aspose.PSD.ProgressManagement](../../aspose.psd.progressmanagement/)
-* Assemblée [Aspose.PSD](../../)
+* namespace [Aspose.PSD.ProgressManagement](../../aspose.psd.progressmanagement/)
+* assembly [Aspose.PSD](../../)
 
 

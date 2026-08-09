@@ -1,11 +1,12 @@
 ---
-title: DropShadowEffect.Noise
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: DropShadowEffect propriété. Obtient ou définit le bruit.
+title: "DropShadowEffect.Noise"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété DropShadowEffect. Obtient ou définit le bruit"
 type: docs
 weight: 80
 url: /fr/net/aspose.psd.fileformats.psd.layers.layereffects/dropshadoweffect/noise/
 ---
+{{< psd/tize >}}
 ## DropShadowEffect.Noise property
 
 Obtient ou définit le bruit.
@@ -14,7 +15,7 @@ Obtient ou définit le bruit.
 public int Noise { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
 Le bruit.
 
@@ -24,10 +25,10 @@ Le bruit.
 | --- | --- |
 | [PsdImageArgumentException](../../../aspose.psd.coreexceptions.imageformats/psdimageargumentexception/) | Le bruit doit être spécifié en pourcentage dans la plage de 0 à 100 |
 
-### Voir également
+### Voir aussi
 
 * class [DropShadowEffect](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../dropshadoweffect/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../../)
 
 

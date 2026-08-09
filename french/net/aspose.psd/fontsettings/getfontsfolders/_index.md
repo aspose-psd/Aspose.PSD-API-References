@@ -1,31 +1,32 @@
 ---
-title: FontSettings.GetFontsFolders
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: FontSettings méthode. Obtient une copie du tableau qui contient la liste des dossiers où Aspose.Words recherche les polices TrueType.
+title: "FontSettings.GetFontsFolders"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Méthode FontSettings. Obtient une copie du tableau contenant la liste des dossiers où Aspose.Words recherche les polices TrueType"
 type: docs
-weight: 60
+weight: 70
 url: /fr/net/aspose.psd/fontsettings/getfontsfolders/
 ---
+{{< psd/tize >}}
 ## FontSettings.GetFontsFolders method
 
-Obtient une copie du tableau qui contient la liste des dossiers où Aspose.Words recherche les polices TrueType.
+Obtient une copie du tableau contenant la liste des dossiers où Aspose.Words recherche les polices TrueType.
 
 ```csharp
 public static string[] GetFontsFolders()
 ```
 
-### Return_Value
+### Valeur de retour
 
 Une copie des emplacements actuels des polices.
 
-### Remarques
+## Remarques
 
-La valeur renvoyée est une copie des données utilisées par Aspose.Words. Si vous modifiez les entrées dans le tableau renvoyé, cela n'aura aucun effet sur le rendu du document. Pour spécifier de nouveaux emplacements de police, utilisez le[`SetFontsFolders`](../setfontsfolders/) méthode.
+La valeur retournée est une copie des données utilisées par Aspose.Words. Si vous modifiez les éléments du tableau retourné, cela n'affectera pas le rendu du document. Pour spécifier de nouveaux emplacements de polices, utilisez la méthode [`SetFontsFolders`](../setfontsfolders/).
 
-### Voir également
+### Voir aussi
 
 * class [FontSettings](../)
-* espace de noms [Aspose.PSD](../../fontsettings/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: JFIFData.Version
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: JFIFData propriété. Obtient ou définit la version.
+title: "JFIFData.Version"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété JFIFData. Obtient ou définit la version"
 type: docs
 weight: 40
 url: /fr/net/aspose.psd.fileformats.jpeg/jfifdata/version/
 ---
+{{< psd/tize >}}
 ## JFIFData.Version property
 
 Obtient ou définit la version.
@@ -14,10 +15,10 @@ Obtient ou définit la version.
 public short Version { get; set; }
 ```
 
-### Voir également
+### Voir aussi
 
 * class [JFIFData](../)
-* espace de noms [Aspose.PSD.FileFormats.Jpeg](../../jfifdata/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Jpeg](../../../aspose.psd.fileformats.jpeg/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: TiffStreamWriter.WriteSByteArray
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: TiffStreamWriter méthode. Écrit un tableau de valeurs doctets signés dans le flux.
+title: "Méthode TiffStreamWriter. Écrit un tableau de valeurs signed byte dans le flux"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "SByte[]"
 type: docs
 weight: 120
 url: /fr/net/aspose.psd.fileformats.tiff.filemanagement/tiffstreamwriter/writesbytearray/
 ---
+{{< psd/tize >}}
 ## TiffStreamWriter.WriteSByteArray method
 
 Écrit un tableau de valeurs d'octets signés dans le flux.
@@ -14,14 +15,14 @@ url: /fr/net/aspose.psd.fileformats.tiff.filemanagement/tiffstreamwriter/writesb
 public void WriteSByteArray(sbyte[] data)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
-| data | SByte[] | Le tableau à écrire. |
+| données | TiffStreamWriter.Write | Le tableau à écrire. |
 
-### Voir également
+### Voir aussi
 
 * class [TiffStreamWriter](../)
-* espace de noms [Aspose.PSD.FileFormats.Tiff.FileManagement](../../tiffstreamwriter/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff.FileManagement](../../../aspose.psd.fileformats.tiff.filemanagement/)
+* assembly [Aspose.PSD](../../../)
 
 

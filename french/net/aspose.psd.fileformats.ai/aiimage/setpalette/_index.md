@@ -1,35 +1,36 @@
 ---
-title: AiImage.SetPalette
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: AiImage méthode. Définit la palette dimages.
+title: "AiImage.SetPalette"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Méthode AiImage. Définit la palette de l'image"
 type: docs
-weight: 170
+weight: 200
 url: /fr/net/aspose.psd.fileformats.ai/aiimage/setpalette/
 ---
+{{< psd/tize >}}
 ## AiImage.SetPalette method
 
-Définit la palette d'images.
+Définit la palette de l'image.
 
 ```csharp
 public override void SetPalette(IColorPalette palette, bool updateColors)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
 | palette | IColorPalette | La palette à définir. |
-| updateColors | Boolean | si réglé sur`vrai` les couleurs seront mises à jour en fonction de la nouvelle palette ; sinon, les index de couleur restent inchangés. Notez que des index inchangés peuvent planter l'image lors du chargement si certains index n'ont pas d'entrées de palette correspondantes. |
+| updateColors | Booléen | si elle est définie sur `true`, les couleurs seront mises à jour selon la nouvelle palette ; sinon les index de couleur restent inchangés. Notez que les index inchangés peuvent provoquer un plantage de l'image lors du chargement si certains index n'ont aucune entrée correspondante dans la palette. |
 
 ### Exceptions
 
 | exception | condition |
 | --- | --- |
-| NotImplementedException | Pas mis en œuvre |
+| NotImplementedException | Non implémenté |
 
-### Voir également
+### Voir aussi
 
 * interface [IColorPalette](../../../aspose.psd/icolorpalette/)
 * class [AiImage](../)
-* espace de noms [Aspose.PSD.FileFormats.Ai](../../aiimage/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

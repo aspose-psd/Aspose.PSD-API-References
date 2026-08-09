@@ -1,11 +1,12 @@
 ---
-title: TypeToolFontInfo.ScriptValue
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: TypeToolFontInfo propriété. Obtient ou définit la valeur du script.
+title: "TypeToolFontInfo.ScriptValue"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété TypeToolFontInfo. Obtient ou définit la valeur du script"
 type: docs
 weight: 100
 url: /fr/net/aspose.psd.fileformats.psd.layers.layerresources/typetoolfontinfo/scriptvalue/
 ---
+{{< psd/tize >}}
 ## TypeToolFontInfo.ScriptValue property
 
 Obtient ou définit la valeur du script.
@@ -14,14 +15,14 @@ Obtient ou définit la valeur du script.
 public short ScriptValue { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
 La valeur du script.
 
-### Voir également
+### Voir aussi
 
 * class [TypeToolFontInfo](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../typetoolfontinfo/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

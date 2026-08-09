@@ -1,11 +1,12 @@
 ---
-title: Namespaces.XmpRights
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: Namespaces champ. Espace de noms XMP Rights Management.
+title: "Namespaces.XmpRights"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Champ Namespaces. Espace de noms XMP Rights Management"
 type: docs
 weight: 110
 url: /fr/net/aspose.psd.xmp/namespaces/xmprights/
 ---
+{{< psd/tize >}}
 ## Namespaces.XmpRights field
 
 Espace de noms XMP Rights Management.
@@ -14,10 +15,10 @@ Espace de noms XMP Rights Management.
 public const string XmpRights;
 ```
 
-### Voir également
+### Voir aussi
 
 * class [Namespaces](../)
-* espace de noms [Aspose.PSD.Xmp](../../namespaces/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,34 +1,35 @@
 ---
-title: IImageExporterDescriptor.CanExport
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: IImageExporterDescriptor méthode. Détermine si lexportateur dimage peut exporter limage spécifiée au format dimage spécifié spécifié par les options denregistrement.
+title: "IImageExporterDescriptor.CanExport"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Méthode IImageExporterDescriptor. Détermine si l'exportateur d'images peut exporter l'image spécifiée au format d'image spécifié indiqué par les options d'enregistrement"
 type: docs
 weight: 10
 url: /fr/net/aspose.psd/iimageexporterdescriptor/canexport/
 ---
+{{< psd/tize >}}
 ## IImageExporterDescriptor.CanExport method
 
-Détermine si l'exportateur d'image peut exporter l'image spécifiée au format d'image spécifié spécifié par les options d'enregistrement.
+Détermine si l'exportateur d'images peut exporter l'image spécifiée vers le format d'image spécifié par les options d'enregistrement.
 
 ```csharp
 public bool CanExport(Image image, ImageOptionsBase optionsBase)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
-| image | Image | L'image à exporter. |
-| optionsBase | ImageOptionsBase | La base d'options. |
+| image | Image | L’image à exporter. |
+| optionsBase | ImageOptionsBase | La base des options. |
 
-### Return_Value
+### Valeur de retour
 
-`Vrai` si l'exportateur créé par ce descripteur peut exporter l'image spécifiée dans le format de fichier spécifié ; sinon,`FAUX` .
+`True` si l'exportateur créé par ce descripteur peut exporter l'image spécifiée au format de fichier spécifié ; sinon, `false`.
 
-### Voir également
+### Voir aussi
 
 * class [Image](../../image/)
 * class [ImageOptionsBase](../../imageoptionsbase/)
 * interface [IImageExporterDescriptor](../)
-* espace de noms [Aspose.PSD](../../iimageexporterdescriptor/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

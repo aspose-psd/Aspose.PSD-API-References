@@ -1,14 +1,15 @@
 ---
-title: Class PattResource
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.PattResource classe. Classe PattResource. Ressource avec modèle data
+title: "Classe PattResource"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Classe Aspose.PSD.FileFormats.Psd.Layers.LayerResources.PattResource. Classe PattResource. Ressource avec des données de motif"
 type: docs
-weight: 2870
+weight: 3220
 url: /fr/net/aspose.psd.fileformats.psd.layers.layerresources/pattresource/
 ---
+{{< psd/tize >}}
 ## PattResource class
 
-Classe PattResource. Ressource avec modèle data
+Classe PattResource. Ressource avec des données de motif
 
 ```csharp
 public class PattResource : LayerResource
@@ -16,40 +17,40 @@ public class PattResource : LayerResource
 
 ## Constructeurs
 
-| Nom | La description |
+| Nom | Description |
 | --- | --- |
-| [PattResource](pattresource/#constructor)() | Initialise une nouvelle instance du`PattResource` classe. |
-| [PattResource](pattresource/#constructor_1)(int, PattResourceData[]) | Initialise une nouvelle instance du`PattResource` classe. |
+| [PattResource](pattresource/#constructor)() | Initialise une nouvelle instance de la classe `PattResource`. |
+| [PattResource](pattresource/#constructor_1)(int, PattResourceData[]) | Initialise une nouvelle instance de la classe `PattResource`. |
 
 ## Propriétés
 
-| Nom | La description |
+| Nom | Description |
 | --- | --- |
-| override [Key](../../aspose.psd.fileformats.psd.layers.layerresources/pattresource/key/) { get; } | Obtient la clé de ressource de couche. |
-| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/pattresource/length/) { get; } | Obtient la longueur de la ressource de couche en octets. |
-| [Patterns](../../aspose.psd.fileformats.psd.layers.layerresources/pattresource/patterns/) { get; set; } | Obtient ou définit les données des modèles ; |
-| override [PsdVersion](../../aspose.psd.fileformats.psd.layers.layerresources/pattresource/psdversion/) { get; } | Obtient la version psd. |
-| override [Signature](../../aspose.psd.fileformats.psd.layers.layerresources/pattresource/signature/) { get; } | Obtient la signature de ressource de couche. |
+| [Key](../../aspose.psd.fileformats.psd.layers/layerresource/key/) { get; } | Obtient la clé de ressource du calque. |
+| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/pattresource/length/) { get; } | Obtient la longueur de la ressource du calque en octets. |
+| [Patterns](../../aspose.psd.fileformats.psd.layers.layerresources/pattresource/patterns/) { get; set; } | Obtient ou définit les données de motifs ; |
+| virtual [PsdVersion](../../aspose.psd.fileformats.psd.layers/layerresource/psdversion/) { get; } | Obtient la version minimale de PSD requise pour la ressource du calque. 0 indique aucune restriction. |
+| virtual [Signature](../../aspose.psd.fileformats.psd.layers/layerresource/signature/) { get; } | Obtient la signature. |
 
 ## Méthodes
 
-| Nom | La description |
+| Nom | Description |
 | --- | --- |
 | override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/pattresource/save/)(StreamContainer, int) | Enregistre les données du bloc de ressources. |
-| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring/)() | Renvoie unString qui représente cette instance. |
+| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring/)() | Renvoie une chaîne qui représente cette instance. |
 
-## Des champs
+## Champs
 
-| Nom | La description |
+| Nom | Description |
 | --- | --- |
-| const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/pattresource/typetoolkey/) | La clé d'information de l'outil de type 'Patt' pour 8 bits. |
-| const [TypeToolKey2](../../aspose.psd.fileformats.psd.layers.layerresources/pattresource/typetoolkey2/) | La clé d'information de l'outil de type 'Pat2' pour 16 bits. |
-| const [TypeToolKey3](../../aspose.psd.fileformats.psd.layers.layerresources/pattresource/typetoolkey3/) | La clé d'information d'outil de type 'Pat3' pour 32 bits. |
+| const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/pattresource/typetoolkey/) | La clé d'information d'outil de type 'Patt' pour 8 bits. |
+| const [TypeToolKey2](../../aspose.psd.fileformats.psd.layers.layerresources/pattresource/typetoolkey2/) | La clé d'information d'outil de type 'Pat2' pour 16 bits. |
+| const [TypeToolKey3](../../aspose.psd.fileformats.psd.layers.layerresources/pattresource/typetoolkey3/) | La clé d'information d'outil de type 'Pat3' pour 32 bits. |
 
-### Voir également
+### Voir aussi
 
 * class [LayerResource](../../aspose.psd.fileformats.psd.layers/layerresource/)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
-* Assemblée [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../)
 
 

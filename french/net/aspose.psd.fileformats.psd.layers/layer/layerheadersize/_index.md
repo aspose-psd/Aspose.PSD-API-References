@@ -1,11 +1,12 @@
 ---
-title: Layer.LayerHeaderSize
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: Layer champ. La taille de lentête du calque.
+title: "Layer.LayerHeaderSize"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Champ Layer. La taille de l'en-tête du calque"
 type: docs
-weight: 400
+weight: 420
 url: /fr/net/aspose.psd.fileformats.psd.layers/layer/layerheadersize/
 ---
+{{< psd/tize >}}
 ## Layer.LayerHeaderSize field
 
 La taille de l'en-tête du calque.
@@ -14,10 +15,10 @@ La taille de l'en-tête du calque.
 public const int LayerHeaderSize;
 ```
 
-### Voir également
+### Voir aussi
 
 * class [Layer](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers](../../layer/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

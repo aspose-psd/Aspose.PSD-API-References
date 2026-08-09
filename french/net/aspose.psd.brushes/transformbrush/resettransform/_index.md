@@ -1,23 +1,24 @@
 ---
-title: TransformBrush.ResetTransform
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: TransformBrush méthode. Réinitialise leTransform propriété à lidentité.
+title: "TransformBrush.ResetTransform"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Méthode TransformBrush. Réinitialise la propriété Transform à l'identité"
 type: docs
 weight: 50
 url: /fr/net/aspose.psd.brushes/transformbrush/resettransform/
 ---
+{{< psd/tize >}}
 ## TransformBrush.ResetTransform method
 
-Réinitialise le[`Transform`](../transform/) propriété à l'identité.
+Réinitialise la propriété [`Transform`](../transform/) à l'identité.
 
 ```csharp
 public void ResetTransform()
 ```
 
-### Voir également
+### Voir aussi
 
 * class [TransformBrush](../)
-* espace de noms [Aspose.PSD.Brushes](../../transformbrush/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
+* assembly [Aspose.PSD](../../../)
 
 

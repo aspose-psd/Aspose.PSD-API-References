@@ -1,23 +1,24 @@
 ---
-title: TiffOptions.TileLength
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: TiffOptions propriété. Obtient ou définit la longueur des tuiles.
+title: "TiffOptions.TileLength"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété TiffOptions. Obtient ou définit la longueur de la tuile"
 type: docs
-weight: 530
+weight: 540
 url: /fr/net/aspose.psd.imageoptions/tiffoptions/tilelength/
 ---
+{{< psd/tize >}}
 ## TiffOptions.TileLength property
 
-Obtient ou définit la longueur des tuiles.
+Obtient ou définit la longueur de la tuile.
 
 ```csharp
 public uint TileLength { get; set; }
 ```
 
-### Voir également
+### Voir aussi
 
 * class [TiffOptions](../)
-* espace de noms [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

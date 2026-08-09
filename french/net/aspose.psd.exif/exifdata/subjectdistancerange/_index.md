@@ -1,11 +1,12 @@
 ---
-title: ExifData.SubjectDistanceRange
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: ExifData propriété. Obtient ou définit la plage de distance du sujet.
+title: "ExifData.SubjectDistanceRange"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété ExifData. Obtient ou définit la plage de distance du sujet"
 type: docs
 weight: 1010
 url: /fr/net/aspose.psd.exif/exifdata/subjectdistancerange/
 ---
+{{< psd/tize >}}
 ## ExifData.SubjectDistanceRange property
 
 Obtient ou définit la plage de distance du sujet.
@@ -14,15 +15,15 @@ Obtient ou définit la plage de distance du sujet.
 public ExifSubjectDistanceRange SubjectDistanceRange { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
 La plage de distance du sujet.
 
-### Voir également
+### Voir aussi
 
 * enum [ExifSubjectDistanceRange](../../../aspose.psd.exif.enums/exifsubjectdistancerange/)
 * class [ExifData](../)
-* espace de noms [Aspose.PSD.Exif](../../exifdata/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,65 +1,66 @@
 ---
-title: SmartResourceCreator.SmartResourceCreator
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: SmartResourceCreator constructeur. Initialise une nouvelle instance duSmartResourceCreator classe.
+title: "SmartResourceCreator.SmartResourceCreator"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Constructeur SmartResourceCreator. Initialise une nouvelle instance de la classe SmartResourceCreator."
 type: docs
 weight: 10
 url: /fr/net/aspose.psd.fileformats.psd.layers.layerresources/smartresourcecreator/smartresourcecreator/
 ---
+{{< psd/tize >}}
 ## SmartResourceCreator() {#constructor}
 
-Initialise une nouvelle instance du[`SmartResourceCreator`](../) classe.
+Initialise une nouvelle instance de la classe [`SmartResourceCreator`](../).
 
 ```csharp
 public SmartResourceCreator()
 ```
 
-### Voir également
+### Voir aussi
 
 * class [SmartResourceCreator](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../smartresourcecreator/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## SmartResourceCreator(bool, bool) {#constructor_2}
 
-Initialise une nouvelle instance du[`SmartResourceCreator`](../) classe.
+Initialise une nouvelle instance de la classe [`SmartResourceCreator`](../).
 
 ```csharp
 public SmartResourceCreator(bool isCustom, bool hasCompInfo)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
-| isCustom | Boolean | si réglé sur`vrai` [est coutume]. |
-| hasCompInfo | Boolean | si réglé sur`vrai` [a des informations comp]. |
+| isCustom | Booléen | si défini sur `true` [est personnalisé]. |
+| hasCompInfo | Booléen | si défini sur `true` [contient des informations de composition]. |
 
-### Voir également
+### Voir aussi
 
 * class [SmartResourceCreator](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../smartresourcecreator/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## SmartResourceCreator(PlacedResource) {#constructor_1}
 
-Initialise une nouvelle instance du[`SmartResourceCreator`](../) class avec le modèle donné.
+Initialise une nouvelle instance de la classe [`SmartResourceCreator`](../) avec le modèle fourni.
 
 ```csharp
 public SmartResourceCreator(PlacedResource template)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
 | template | PlacedResource | Le modèle de ressource d'objet intelligent. |
 
-### Voir également
+### Voir aussi
 
 * class [PlacedResource](../../placedresource/)
 * class [SmartResourceCreator](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../smartresourcecreator/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

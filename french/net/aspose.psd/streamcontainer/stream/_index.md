@@ -1,11 +1,12 @@
 ---
-title: StreamContainer.Stream
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: StreamContainer propriété. Obtient le flux de données.
+title: "StreamContainer.Stream"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété StreamContainer. Obtient le flux de données"
 type: docs
 weight: 80
 url: /fr/net/aspose.psd/streamcontainer/stream/
 ---
+{{< psd/tize >}}
 ## StreamContainer.Stream property
 
 Obtient le flux de données.
@@ -14,14 +15,14 @@ Obtient le flux de données.
 public virtual Stream Stream { get; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
 Le flux de données.
 
-### Voir également
+### Voir aussi
 
 * class [StreamContainer](../)
-* espace de noms [Aspose.PSD](../../streamcontainer/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

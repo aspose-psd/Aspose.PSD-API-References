@@ -1,11 +1,12 @@
 ---
-title: RasterImage.SaveArgb32Pixels
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: RasterImage méthode. Enregistre les pixels ARGB 32 bits.
+title: "RasterImage.SaveArgb32Pixels"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Méthode RasterImage. Enregistre les pixels ARGB 32 bits"
 type: docs
-weight: 500
+weight: 510
 url: /fr/net/aspose.psd/rasterimage/saveargb32pixels/
 ---
+{{< psd/tize >}}
 ## RasterImage.SaveArgb32Pixels method
 
 Enregistre les pixels ARGB 32 bits.
@@ -14,16 +15,16 @@ Enregistre les pixels ARGB 32 bits.
 public void SaveArgb32Pixels(Rectangle rectangle, int[] pixels)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
-| rectangle | Rectangle | Le rectangle dans lequel enregistrer les pixels. |
+| rectangle | Rectangle | Le rectangle où enregistrer les pixels. |
 | pixels | Int32[] | Le tableau de pixels ARGB 32 bits. |
 
-### Voir également
+### Voir aussi
 
 * struct [Rectangle](../../rectangle/)
 * class [RasterImage](../)
-* espace de noms [Aspose.PSD](../../rasterimage/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

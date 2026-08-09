@@ -1,27 +1,28 @@
 ---
-title: PlacedResource.Top
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: PlacedResource propriété. Obtient ou définit lemplacement supérieur du calque placé dans limage PSD.
+title: "PlacedResource.Top"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété PlacedResource. Obtient ou définit la position supérieure du calque placé dans l'image PSD"
 type: docs
-weight: 150
+weight: 140
 url: /fr/net/aspose.psd.fileformats.psd.layers.layerresources/placedresource/top/
 ---
+{{< psd/tize >}}
 ## PlacedResource.Top property
 
-Obtient ou définit l'emplacement supérieur du calque placé dans l'image PSD.
+Obtient ou définit la position supérieure du calque placé dans l'image PSD.
 
 ```csharp
 public double Top { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
-L'emplacement supérieur du calque placé.
+La position supérieure du calque placé.
 
-### Voir également
+### Voir aussi
 
 * class [PlacedResource](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../placedresource/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

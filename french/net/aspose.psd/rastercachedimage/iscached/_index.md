@@ -1,27 +1,28 @@
 ---
-title: RasterCachedImage.IsCached
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: RasterCachedImage propriété. Obtient une valeur indiquant si les données dimage sont actuellement mises en cache.
+title: "RasterCachedImage.IsCached"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété RasterCachedImage. Obtient une valeur indiquant si les données d'image sont actuellement mises en cache"
 type: docs
 weight: 10
 url: /fr/net/aspose.psd/rastercachedimage/iscached/
 ---
+{{< psd/tize >}}
 ## RasterCachedImage.IsCached property
 
-Obtient une valeur indiquant si les données d'image sont actuellement mises en cache.
+Obtient une valeur indiquant si les données de l'image sont actuellement mises en cache.
 
 ```csharp
 public override bool IsCached { get; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
-`vrai` si les données d'image sont mises en cache ; sinon,`FAUX` .
+`true` si les données d'image sont mises en cache ; sinon, `false`.
 
-### Voir également
+### Voir aussi
 
 * class [RasterCachedImage](../)
-* espace de noms [Aspose.PSD](../../rastercachedimage/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

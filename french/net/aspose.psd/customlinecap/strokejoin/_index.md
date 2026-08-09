@@ -1,28 +1,29 @@
 ---
-title: CustomLineCap.StrokeJoin
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: CustomLineCap propriété. Obtient ou définit leLineJoin énumération qui détermine comment les lignes qui composent ceCustomLineCapobjet sont joints.
+title: "CustomLineCap.StrokeJoin"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété CustomLineCap. Obtient ou définit l'énumération LineJoin qui détermine comment les lignes qui composent cet objet CustomLineCap sont jointes."
 type: docs
 weight: 50
 url: /fr/net/aspose.psd/customlinecap/strokejoin/
 ---
+{{< psd/tize >}}
 ## CustomLineCap.StrokeJoin property
 
-Obtient ou définit le[`LineJoin`](../../linejoin/) énumération qui détermine comment les lignes qui composent ce[`CustomLineCap`](../)objet sont joints.
+Obtient ou définit l'énumération [`LineJoin`](../../linejoin/) qui détermine comment les lignes qui composent cet objet [`CustomLineCap`](../) sont jointes.
 
 ```csharp
 public LineJoin StrokeJoin { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
-Le[`LineJoin`](../../linejoin/) énumération ceci[`CustomLineCap`](../) objet utilise pour joindre des lignes.
+L'énumération [`LineJoin`](../../linejoin/) que cet objet [`CustomLineCap`](../) utilise pour joindre les lignes.
 
-### Voir également
+### Voir aussi
 
 * enum [LineJoin](../../linejoin/)
 * class [CustomLineCap](../)
-* espace de noms [Aspose.PSD](../../customlinecap/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

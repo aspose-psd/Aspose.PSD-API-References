@@ -1,14 +1,15 @@
 ---
-title: Class AiRasterImageSection
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: Aspose.PSD.FileFormats.Ai.AiRasterImageSection classe. La section Image raster AI
+title: "Classe AiRasterImageSection"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "classe Aspose.PSD.FileFormats.Ai.AiRasterImageSection. La section d'image raster AI"
 type: docs
-weight: 1280
+weight: 1290
 url: /fr/net/aspose.psd.fileformats.ai/airasterimagesection/
 ---
+{{< psd/tize >}}
 ## AiRasterImageSection class
 
-La section Image raster AI
+La section d'image raster AI
 
 ```csharp
 public sealed class AiRasterImageSection
@@ -16,21 +17,21 @@ public sealed class AiRasterImageSection
 
 ## Propriétés
 
-| Nom | La description |
+| Nom | Description |
 | --- | --- |
 | [Angle](../../aspose.psd.fileformats.ai/airasterimagesection/angle/) { get; } | Obtient l'angle. |
 | [Height](../../aspose.psd.fileformats.ai/airasterimagesection/height/) { get; } | Obtient la hauteur. |
 | [ImageRectangle](../../aspose.psd.fileformats.ai/airasterimagesection/imagerectangle/) { get; } | Obtient le rectangle de l'image. |
-| [LeftBottomShift](../../aspose.psd.fileformats.ai/airasterimagesection/leftbottomshift/) { get; } | Obtient le décalage inférieur gauche. |
+| [LeftBottomShift](../../aspose.psd.fileformats.ai/airasterimagesection/leftbottomshift/) { get; } | Obtient le décalage en bas à gauche. |
 | [Name](../../aspose.psd.fileformats.ai/airasterimagesection/name/) { get; } | Obtient le nom de l'image raster. |
 | [OffsetX](../../aspose.psd.fileformats.ai/airasterimagesection/offsetx/) { get; } | Obtient le décalage X. |
 | [OffsetY](../../aspose.psd.fileformats.ai/airasterimagesection/offsety/) { get; } | Obtient le décalage Y. |
-| [Pixels](../../aspose.psd.fileformats.ai/airasterimagesection/pixels/) { get; } | Obtient le tableau de pixels de couleur int. |
+| [Pixels](../../aspose.psd.fileformats.ai/airasterimagesection/pixels/) { get; } | Obtient le tableau de pixels couleur int. |
 | [Width](../../aspose.psd.fileformats.ai/airasterimagesection/width/) { get; } | Obtient la largeur. |
 
-### Exemples
+## Exemples
 
-Le code suivant montre comment charger les paramètres des images raster dans des fichiers au format AI.
+Le code suivant montre comment charger les paramètres des images raster dans les fichiers au format AI.
 
 ```csharp
 [C#]
@@ -73,9 +74,9 @@ using (AiImage image = (AiImage)Image.Load(sourceFile))
 }
 ```
 
-### Voir également
+### Voir aussi
 
-* espace de noms [Aspose.PSD.FileFormats.Ai](../../aspose.psd.fileformats.ai/)
-* Assemblée [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../)
 
 

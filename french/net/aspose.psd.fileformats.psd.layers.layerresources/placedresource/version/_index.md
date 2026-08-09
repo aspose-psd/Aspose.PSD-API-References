@@ -1,11 +1,12 @@
 ---
-title: PlacedResource.Version
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: PlacedResource propriété. Obtient la version du calque placé dans le fichier PSD généralement 3.
+title: "PlacedResource.Version"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété PlacedResource. Obtient la version du calque placé dans le fichier PSD, généralement 3"
 type: docs
-weight: 210
+weight: 200
 url: /fr/net/aspose.psd.fileformats.psd.layers.layerresources/placedresource/version/
 ---
+{{< psd/tize >}}
 ## PlacedResource.Version property
 
 Obtient la version du calque placé dans le fichier PSD, généralement 3.
@@ -14,14 +15,14 @@ Obtient la version du calque placé dans le fichier PSD, généralement 3.
 public int Version { get; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
 La version du calque placé.
 
-### Voir également
+### Voir aussi
 
 * class [PlacedResource](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../placedresource/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

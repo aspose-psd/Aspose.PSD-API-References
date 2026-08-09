@@ -1,27 +1,28 @@
 ---
-title: ExifData.FocalLengthIn35MmFilm
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: ExifData propriété. Obtient ou définit la distance focale dans un film 35 mm.
+title: "ExifData.FocalLengthIn35MmFilm"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété ExifData. Obtient ou définit la distance focale en film 35 mm"
 type: docs
 weight: 300
 url: /fr/net/aspose.psd.exif/exifdata/focallengthin35mmfilm/
 ---
+{{< psd/tize >}}
 ## ExifData.FocalLengthIn35MmFilm property
 
-Obtient ou définit la distance focale dans un film 35 mm.
+Obtient ou définit la distance focale en film 35 mm.
 
 ```csharp
 public ushort FocalLengthIn35MmFilm { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
-La longueur focale d'un film 35 mm.
+La distance focale en film 35 mm.
 
-### Voir également
+### Voir aussi
 
 * class [ExifData](../)
-* espace de noms [Aspose.PSD.Exif](../../exifdata/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,51 +1,52 @@
 ---
-title: Graphics.MultiplyTransform
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: Graphics méthode. Multiplie leMatrix qui représente la transformée géométrique locale de ceGraphics par le spécifiéMatrix en préfixant le spécifiéMatrix .
+title: "Graphics.MultiplyTransform"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Méthode Graphics. Multiplie la Matrix qui représente la transformation géométrique locale de ce Graphics par la Matrix spécifiée en préfixant la Matrix spécifiée."
 type: docs
-weight: 420
+weight: 430
 url: /fr/net/aspose.psd/graphics/multiplytransform/
 ---
+{{< psd/tize >}}
 ## MultiplyTransform(Matrix) {#multiplytransform}
 
-Multiplie le[`Matrix`](../../matrix/) qui représente la transformée géométrique locale de ce[`Graphics`](../) par le spécifié[`Matrix`](../../matrix/) en préfixant le spécifié[`Matrix`](../../matrix/) .
+Multiplie la [`Matrix`](../../matrix/) qui représente la transformation géométrique locale de ce [`Graphics`](../) par la [`Matrix`](../../matrix/) spécifiée en préfixant la [`Matrix`](../../matrix/) spécifiée.
 
 ```csharp
 public void MultiplyTransform(Matrix matrix)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
-| matrix | Matrix | Le[`Matrix`](../../matrix/) par lequel multiplier la transformée géométrique. |
+| matrix | Matrix | La [`Matrix`](../../matrix/) par laquelle multiplier la transformation géométrique. |
 
-### Voir également
+### Voir aussi
 
 * class [Matrix](../../matrix/)
 * class [Graphics](../)
-* espace de noms [Aspose.PSD](../../graphics/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## MultiplyTransform(Matrix, MatrixOrder) {#multiplytransform_1}
 
-Multiplie le[`Matrix`](../../matrix/) qui représente la transformée géométrique locale de ce[`Graphics`](../) par le spécifié[`Matrix`](../../matrix/) dans l'ordre spécifié.
+Multiplie la [`Matrix`](../../matrix/) qui représente la transformation géométrique locale de ce [`Graphics`](../) par la [`Matrix`](../../matrix/) spécifiée dans l'ordre indiqué.
 
 ```csharp
 public void MultiplyTransform(Matrix matrix, MatrixOrder order)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
-| matrix | Matrix | Le[`Matrix`](../../matrix/) par lequel multiplier la transformée géométrique. |
-| order | MatrixOrder | UN[`MatrixOrder`](../../matrixorder/) qui spécifie dans quel ordre multiplier les deux matrices. |
+| matrix | Matrix | La [`Matrix`](../../matrix/) par laquelle multiplier la transformation géométrique. |
+| order | MatrixOrder | Un [`MatrixOrder`](../../matrixorder/) qui indique dans quel ordre multiplier les deux matrices. |
 
-### Voir également
+### Voir aussi
 
 * class [Matrix](../../matrix/)
 * enum [MatrixOrder](../../matrixorder/)
 * class [Graphics](../)
-* espace de noms [Aspose.PSD](../../graphics/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,26 +1,27 @@
 ---
-title: ObjectArrayStructure.ClassID
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: ObjectArrayStructure propriété. Obtient ou définit lID de classe de tableau dobjets.
+title: "ObjectArrayStructure.ClassID"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété ObjectArrayStructure. Obtient ou définit l'identifiant de classe du tableau d'objets"
 type: docs
 weight: 20
 url: /fr/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/objectarraystructure/classid/
 ---
+{{< psd/tize >}}
 ## ObjectArrayStructure.ClassID property
 
-Obtient ou définit l'ID de classe de tableau d'objets.
+Obtient ou définit l'ID de la classe du tableau d'objets.
 
 ```csharp
 public ClassID ClassID { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
-L'ID de classe de tableau d'objets.
+L'identifiant de classe du tableau d'objets.
 
-### Exemples
+## Exemples
 
-Le code suivant illustre la prise en charge des signatures ObAr et UnFl.
+Le code suivant montre la prise en charge des signatures ObAr et UnFl.
 
 ```csharp
 [C#]
@@ -72,11 +73,11 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
 }
 ```
 
-### Voir également
+### Voir aussi
 
 * class [ClassID](../../../aspose.psd.fileformats.psd.layers.layerresources/classid/)
 * class [ObjectArrayStructure](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../objectarraystructure/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 

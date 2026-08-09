@@ -1,27 +1,28 @@
 ---
-title: ExifData.SubjectArea
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: ExifData propriété. Obtient ou définit le domaine.
+title: "ExifData.SubjectArea"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété ExifData. Obtient ou définit la zone du sujet"
 type: docs
 weight: 990
 url: /fr/net/aspose.psd.exif/exifdata/subjectarea/
 ---
+{{< psd/tize >}}
 ## ExifData.SubjectArea property
 
-Obtient ou définit le domaine.
+Obtient ou définit la zone du sujet.
 
 ```csharp
 public ushort[] SubjectArea { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
-Le domaine.
+La zone du sujet.
 
-### Voir également
+### Voir aussi
 
 * class [ExifData](../)
-* espace de noms [Aspose.PSD.Exif](../../exifdata/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

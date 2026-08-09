@@ -1,49 +1,50 @@
 ---
-title: IopaResource.IopaResource
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: IopaResource constructeur. Initialise une nouvelle instance duIopaResource classe.
+title: "IopaResource.IopaResource"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "IopaResource constructeur. Initialise une nouvelle instance de la classe IopaResource"
 type: docs
 weight: 10
 url: /fr/net/aspose.psd.fileformats.psd.layers.layerresources/ioparesource/ioparesource/
 ---
+{{< psd/tize >}}
 ## IopaResource() {#constructor}
 
-Initialise une nouvelle instance du[`IopaResource`](../) classe.
+Initialise une nouvelle instance de la classe [`IopaResource`](../).
 
 ```csharp
 public IopaResource()
 ```
 
-### Voir également
+### Voir aussi
 
 * class [IopaResource](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../ioparesource/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## IopaResource(byte[]) {#constructor_1}
 
-Initialise une nouvelle instance du[`IopaResource`](../) classe.
+Initialise une nouvelle instance de la classe [`IopaResource`](../).
 
 ```csharp
 public IopaResource(byte[] data)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
-| data | Byte[] | Les données brutes en octets. |
+| données | Byte[] | Les données brutes en octets. |
 
 ### Exceptions
 
 | exception | condition |
 | --- | --- |
-| [PsdImageArgumentException](../../../aspose.psd.coreexceptions.imageformats/psdimageargumentexception/) | Données de ressource iOpa non valides. La longueur attendue de iOpaResource est de 4 |
+| [PsdImageArgumentException](../../../aspose.psd.coreexceptions.imageformats/psdimageargumentexception/) | Données de ressource iOpa invalides. La longueur attendue de iOpaResource est 4. |
 
-### Voir également
+### Voir aussi
 
 * class [IopaResource](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../ioparesource/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,28 +1,29 @@
 ---
-title: TiffOptions.Threshholding
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: TiffOptions propriété. Obtient ou définit le seuil.
+title: "TiffOptions.Threshholding"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété TiffOptions. Obtient ou définit le seuillage"
 type: docs
-weight: 510
+weight: 520
 url: /fr/net/aspose.psd.imageoptions/tiffoptions/threshholding/
 ---
+{{< psd/tize >}}
 ## TiffOptions.Threshholding property
 
-Obtient ou définit le seuil.
+Obtient ou définit le seuillage.
 
 ```csharp
 public TiffThresholds Threshholding { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
-Le seuil.
+Le seuillage.
 
-### Voir également
+### Voir aussi
 
 * enum [TiffThresholds](../../../aspose.psd.fileformats.tiff.enums/tiffthresholds/)
 * class [TiffOptions](../)
-* espace de noms [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

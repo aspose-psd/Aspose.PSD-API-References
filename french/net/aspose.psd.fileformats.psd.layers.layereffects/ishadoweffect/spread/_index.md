@@ -1,27 +1,28 @@
 ---
-title: IShadowEffect.Spread
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: IShadowEffect propriété. Obtient ou définit lintensité sous forme de pourcentage.
+title: "IShadowEffect.Spread"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété IShadowEffect. Obtient ou définit l'intensité en pourcentage"
 type: docs
 weight: 60
 url: /fr/net/aspose.psd.fileformats.psd.layers.layereffects/ishadoweffect/spread/
 ---
+{{< psd/tize >}}
 ## IShadowEffect.Spread property
 
-Obtient ou définit l'intensité sous forme de pourcentage.
+Obtient ou définit l'intensité en pourcentage.
 
 ```csharp
 public int Spread { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
-La propagation.
+L'étalement.
 
-### Voir également
+### Voir aussi
 
 * interface [IShadowEffect](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../ishadoweffect/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../../)
 
 

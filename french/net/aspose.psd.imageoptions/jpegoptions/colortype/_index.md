@@ -1,11 +1,12 @@
 ---
-title: JpegOptions.ColorType
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: JpegOptions propriété. Obtient ou définit le type de couleur pour limage jpeg.
+title: "JpegOptions.ColorType"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété JpegOptions. Obtient ou définit le type de couleur pour l'image jpeg"
 type: docs
 weight: 40
 url: /fr/net/aspose.psd.imageoptions/jpegoptions/colortype/
 ---
+{{< psd/tize >}}
 ## JpegOptions.ColorType property
 
 Obtient ou définit le type de couleur pour l'image jpeg.
@@ -14,11 +15,11 @@ Obtient ou définit le type de couleur pour l'image jpeg.
 public JpegCompressionColorMode ColorType { get; set; }
 ```
 
-### Voir également
+### Voir aussi
 
 * enum [JpegCompressionColorMode](../../../aspose.psd.fileformats.jpeg/jpegcompressioncolormode/)
 * class [JpegOptions](../)
-* espace de noms [Aspose.PSD.ImageOptions](../../jpegoptions/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

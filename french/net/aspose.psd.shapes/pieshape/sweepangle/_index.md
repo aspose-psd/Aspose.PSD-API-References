@@ -1,11 +1,12 @@
 ---
-title: PieShape.SweepAngle
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: PieShape propriété. Obtient ou définit langle de balayage.
+title: "PieShape.SweepAngle"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété PieShape. Obtient ou définit l'angle de balayage"
 type: docs
 weight: 40
 url: /fr/net/aspose.psd.shapes/pieshape/sweepangle/
 ---
+{{< psd/tize >}}
 ## PieShape.SweepAngle property
 
 Obtient ou définit l'angle de balayage.
@@ -14,14 +15,14 @@ Obtient ou définit l'angle de balayage.
 public float SweepAngle { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
 L'angle de balayage.
 
-### Voir également
+### Voir aussi
 
 * class [PieShape](../)
-* espace de noms [Aspose.PSD.Shapes](../../pieshape/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,22 +1,23 @@
 ---
-title: SmartObjectLayer.UpdateModifiedContent
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: SmartObjectLayer méthode. Met à jour le cache dimage de la couche dobjet intelligent avec le contenu modifié.
+title: "SmartObjectLayer.UpdateModifiedContent"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Méthode SmartObjectLayer. Met à jour le cache d'image du calque d'objet intelligent avec le contenu modifié."
 type: docs
-weight: 150
+weight: 170
 url: /fr/net/aspose.psd.fileformats.psd.layers.smartobjects/smartobjectlayer/updatemodifiedcontent/
 ---
+{{< psd/tize >}}
 ## SmartObjectLayer.UpdateModifiedContent method
 
-Met à jour le cache d'image de la couche d'objet intelligent avec le contenu modifié.
+Met à jour le cache d'image du calque d'objet dynamique avec le contenu modifié.
 
 ```csharp
 public void UpdateModifiedContent()
 ```
 
-### Exemples
+## Exemples
 
-Le code suivant illustre la prise en charge de la mise à jour des objets intelligents liés.
+Le code suivant démontre la prise en charge de la mise à jour des objets intelligents liés.
 
 ```csharp
 [C#]
@@ -49,7 +50,7 @@ void AssertAreEqual(object actual, object expected)
     }
 }
 
-// Cet exemple montre comment mettre à jour la couche d'objet intelligent externe ou intégrée à l'aide de ces méthodes :
+// Cet exemple montre comment mettre à jour le calque d'objet intelligent externe ou intégré en utilisant ces méthodes :
 // RelinkToFile, UpdateModifiedContent, ExportContents
 ExampleOfUpdatingSmartObjectLayer("rgb8_2x2_linked2.psd", 0x53, 0, 0, 2, 2, FileFormat.Png);
 ExampleOfUpdatingSmartObjectLayer("r-embedded-png.psd", 0x207, 0, 0, 0xb, 0x10, FileFormat.Png);
@@ -63,7 +64,7 @@ void ExampleOfUpdatingSmartObjectLayer(
     int bottom,
     FileFormat format)
 {
-    // Cet exemple montre comment modifier le calque d'objet intelligent dans le fichier PSD et exporter/mettre à jour son contenu.
+    // Cet exemple montre comment modifier le calque d'objet intelligent dans le fichier PSD et exporter / mettre à jour son contenu.
     string fileName = Path.GetFileNameWithoutExtension(filePath);
     string dataDir = "updating_output" + Path.DirectorySeparatorChar;
     filePath = filePath;
@@ -84,13 +85,13 @@ void ExampleOfUpdatingSmartObjectLayer(
         if (contentType == SmartObjectType.AvailableLinked)
         {
             Directory.CreateDirectory(Path.GetDirectoryName(exportPath));
-            // Exportons l'image de l'objet intelligent externe du calque d'objet intelligent PSD vers un nouvel emplacement
+            // Exportons l'image d'objet intelligent externe du calque d'objet intelligent PSD vers un nouvel emplacement
             // car nous allons le modifier.
             smartObjectLayer.ExportContents(exportPath);
             smartObjectLayer.RelinkToFile(exportPath);
         }
 
-        // Inversons le contenu de l'objet intelligent : image interne (non mise en cache)
+        // Invertons le contenu de l'objet intelligent : image interne (non mise en cache)
         using (var innerImage = (RasterImage)smartObjectLayer.LoadContents(new LoadOptions()))
         {
             InvertImage(innerImage);
@@ -106,13 +107,13 @@ void ExampleOfUpdatingSmartObjectLayer(
 
         smartObjectLayer.UpdateModifiedContent();
 
-        // Vérifions si le contenu mis à jour affecte le rendu et si l'image psd est correctement enregistrée
+        // Vérifions si le contenu mis à jour affecte le rendu et si l'image PSD est enregistrée correctement
         image.Save(psd2OutputPath, new PsdOptions(image));
         image.Save(png2OutputPath, new PngOptions() { ColorType = PngColorType.TruecolorWithAlpha });
     }
 }
 
-// Cet exemple montre comment convertir l'objet intelligent intégré en contenu lié externe à l'aide de la méthode ConvertToLinked.
+// Cet exemple montre comment convertir l'objet intelligent intégré en contenus liés externes en utilisant la méthode ConvertToLinked.
 ExampleOfEmbeddedSmartObjectLayerToLinkedConversion("new_panama-papers-4.psd", 0x10caa, 0, 0, 0x280, 0x169, FileFormat.Jpeg);
 ExampleOfEmbeddedSmartObjectLayerToLinkedConversion("r3-embedded.psd", 0x207, 0, 0, 0xb, 0x10, FileFormat.Png);
 ExampleOfEmbeddedSmartObjectLayerToLinkedConversion("r-embedded-tiff.psd", 0xca94, 0, 0, 0xb, 0x10, FileFormat.Tiff);
@@ -153,7 +154,7 @@ void ExampleOfEmbeddedSmartObjectLayerToLinkedConversion(
         AssertAreEqual(bottom, smartObjectLayer.ContentsBounds.Bottom);
         AssertAreEqual(SmartObjectType.AvailableLinked, smartObjectLayer.ContentType);
 
-        // Vérifions si l'image convertie est correctement enregistrée
+        // Vérifions si l'image convertie est enregistrée correctement
         image.Save(psdOutputPath, new PsdOptions(image));
         image.Save(pngOutputPath, new PngOptions() { ColorType = PngColorType.TruecolorWithAlpha });
     }
@@ -170,7 +171,7 @@ void ExampleOfEmbeddedSmartObjectLayerToLinkedConversion(
     }
 }
 
-// Cet exemple montre comment incorporer un calque d'objet intelligent externe ou tous les calques liés dans le fichier PSD à l'aide de la méthode EmbedLinked.
+// Cet exemple montre comment intégrer un calque d'objet intelligent externe ou tous les calques liés dans le fichier PSD en utilisant la méthode EmbedLinked.
 ExampleOfLinkedSmartObjectLayerToEmbeddedConversion("rgb8_2x2_linked.psd", 0x53, 0, 0, 2, 2, FileFormat.Png);
 ExampleOfLinkedSmartObjectLayerToEmbeddedConversion("rgb8_2x2_linked2.psd", 0x53, 0, 0, 2, 2, FileFormat.Png);
 void ExampleOfLinkedSmartObjectLayerToEmbeddedConversion(
@@ -214,7 +215,7 @@ void ExampleOfLinkedSmartObjectLayerToEmbeddedConversion(
         }
 
         Directory.CreateDirectory(Path.GetDirectoryName(psdOutputPath));
-        // Vérifions si l'image convertie est correctement enregistrée
+        // Vérifions si l'image convertie est enregistrée correctement
         image.Save(psdOutputPath, new PsdOptions(image));
         image.Save(pngOutputPath, new PngOptions() { ColorType = PngColorType.TruecolorWithAlpha });
     }
@@ -231,7 +232,7 @@ void ExampleOfLinkedSmartObjectLayerToEmbeddedConversion(
     }
 }
 
-// Cet exemple montre comment modifier le calque d'objet intelligent externe Adobe® Photoshop® et exporter/mettre à jour son contenu
+// Cet exemple montre comment modifier le calque d'objet intelligent externe Adobe® Photoshop® et exporter / mettre à jour son contenu
 // en utilisant les méthodes ExportContents et ReplaceContents.
 ExampleOfExternalSmartObjectLayerSupport("rgb8_2x2_linked.psd", 0x53, 0, 0, 2, 2, FileFormat.Png);
 ExampleOfExternalSmartObjectLayerSupport("rgb8_2x2_linked2.psd", 0x4aea, 0, 0, 10, 10, FileFormat.Psd);
@@ -258,10 +259,10 @@ void ExampleOfExternalSmartObjectLayerSupport(string filePath, int contentsLengt
         AssertAreEqual(SmartObjectType.AvailableLinked, smartObjectLayer.ContentType);
 
         Directory.CreateDirectory(Path.GetDirectoryName(exportPath));
-        // Exportons l'image de l'objet intelligent lié à partir du calque d'objet intelligent PSD
+        // Exportons l'image d'objet intelligent lié du calque d'objet intelligent PSD
         smartObjectLayer.ExportContents(exportPath);
 
-        // Vérifions si l'image d'origine est bien enregistrée
+        // Vérifions si l'image originale est enregistrée correctement
         image.Save(psdOutputPath, new PsdOptions(image));
         image.Save(pngOutputPath, new PngOptions() { ColorType = PngColorType.TruecolorWithAlpha });
 
@@ -269,15 +270,15 @@ void ExampleOfExternalSmartObjectLayerSupport(string filePath, int contentsLengt
         {
             AssertAreEqual(format, innerImage.FileFormat);
 
-            // Inversons l'image de l'objet intelligent lié
+            // Invertons l'image d'objet intelligent lié
             InvertImage(innerImage);
             innerImage.Save(linkOutputPath);
 
-            // Remplaçons l'image de l'objet intelligent lié dans le calque PSD
+            // Remplaçons l'image d'objet intelligent lié dans le calque PSD
             smartObjectLayer.ReplaceContents(linkOutputPath);
         }
 
-        // Vérifions si l'image mise à jour est correctement enregistrée
+        // Vérifions si l'image mise à jour est enregistrée correctement
         image.Save(psd2OutputPath, new PsdOptions(image));
         image.Save(png2OutputPath, new PngOptions() { ColorType = PngColorType.TruecolorWithAlpha });
     }
@@ -311,7 +312,7 @@ void InvertRasterImage(RasterImage innerImage)
     innerImage.SaveArgb32Pixels(innerImage.Bounds, pixels);
 }
 
-// Obtient l'extension de format.
+// Obtient l'extension du format.
 string GetFormatExt(FileFormat format)
 {
     string formatExt = format == FileFormat.Jpeg2000 ? "jpf" : format.ToString().ToLowerInvariant();
@@ -319,10 +320,10 @@ string GetFormatExt(FileFormat format)
 }
 ```
 
-### Voir également
+### Voir aussi
 
 * class [SmartObjectLayer](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.SmartObjects](../../smartobjectlayer/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.SmartObjects](../../../aspose.psd.fileformats.psd.layers.smartobjects/)
+* assembly [Aspose.PSD](../../../)
 
 

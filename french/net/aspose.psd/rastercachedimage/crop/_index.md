@@ -1,11 +1,12 @@
 ---
-title: RasterCachedImage.Crop
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: RasterCachedImage méthode. Recadrage de limage.
+title: "RasterCachedImage.Crop"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "RasterCachedImage method. Recadrage de l'image"
 type: docs
 weight: 90
 url: /fr/net/aspose.psd/rastercachedimage/crop/
 ---
+{{< psd/tize >}}
 ## RasterCachedImage.Crop method
 
 Recadrage de l'image.
@@ -14,13 +15,13 @@ Recadrage de l'image.
 public override void Crop(Rectangle rectangle)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
 | rectangle | Rectangle | Le rectangle. |
 
-### Exemples
+## Exemples
 
-Le code suivant montre la possibilité de recadrer l'image par rectangle spécifique.
+Le code suivant montre la capacité à recadrer l'image par un rectangle spécifique.
 
 ```csharp
 [C#]
@@ -70,19 +71,19 @@ using (var image = (PsdImage)Image.Load(sourceFileName))
         top += layers[i].Height;
     }
 
-    // Enregistrer le psd
+    // Enregistrer le PSD
     image.Save(exportPath, new PsdOptions());
 
-    // Enregistrer png
+    // Enregistrer le PNG
     image.Save(exportPathPng, new PngOptions());
 }
 ```
 
-### Voir également
+### Voir aussi
 
 * struct [Rectangle](../../rectangle/)
 * class [RasterCachedImage](../)
-* espace de noms [Aspose.PSD](../../rastercachedimage/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

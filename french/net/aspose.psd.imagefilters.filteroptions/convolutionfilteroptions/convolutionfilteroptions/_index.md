@@ -1,23 +1,24 @@
 ---
-title: ConvolutionFilterOptions.ConvolutionFilterOptions
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: ConvolutionFilterOptions constructeur. Initialise une nouvelle instance duConvolutionFilterOptions classe.
+title: "ConvolutionFilterOptions.ConvolutionFilterOptions"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Constructeur ConvolutionFilterOptions. Initialise une nouvelle instance de la classe ConvolutionFilterOptions"
 type: docs
 weight: 10
 url: /fr/net/aspose.psd.imagefilters.filteroptions/convolutionfilteroptions/convolutionfilteroptions/
 ---
+{{< psd/tize >}}
 ## ConvolutionFilterOptions constructor
 
-Initialise une nouvelle instance du[`ConvolutionFilterOptions`](../) classe.
+Initialise une nouvelle instance de la classe [`ConvolutionFilterOptions`](../).
 
 ```csharp
 public ConvolutionFilterOptions()
 ```
 
-### Voir également
+### Voir aussi
 
 * class [ConvolutionFilterOptions](../)
-* espace de noms [Aspose.PSD.ImageFilters.FilterOptions](../../convolutionfilteroptions/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageFilters.FilterOptions](../../../aspose.psd.imagefilters.filteroptions/)
+* assembly [Aspose.PSD](../../../)
 
 

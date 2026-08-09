@@ -1,11 +1,12 @@
 ---
-title: Interface ITextStyle
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: Aspose.PSD.FileFormats.Psd.Layers.Text.ITextStyle interface. Interface pour travailler avec le style de texte
+title: "Interface ITextStyle"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Aspose.PSD.FileFormats.Psd.Layers.Text.ITextStyle interface. Interface pour travailler avec le style de texte"
 type: docs
-weight: 3540
+weight: 3960
 url: /fr/net/aspose.psd.fileformats.psd.layers.text/itextstyle/
 ---
+{{< psd/tize >}}
 ## ITextStyle interface
 
 Interface pour travailler avec le style de texte
@@ -16,52 +17,52 @@ public interface ITextStyle
 
 ## Propriétés
 
-| Nom | La description |
+| Nom | Description |
 | --- | --- |
 | [AutoKerning](../../aspose.psd.fileformats.psd.layers.text/itextstyle/autokerning/) { get; set; } | Obtient ou définit le crénage automatique. |
-| [AutoLeading](../../aspose.psd.fileformats.psd.layers.text/itextstyle/autoleading/) { get; set; } | Obtient ou définit une valeur indiquant si [interlignage automatique]. |
-| [BaselineShift](../../aspose.psd.fileformats.psd.layers.text/itextstyle/baselineshift/) { get; set; } | Le décalage de la ligne de base. |
-| [ContextualAlternates](../../aspose.psd.fileformats.psd.layers.text/itextstyle/contextualalternates/) { get; set; } | Les alternatives contextuelles utilisées pour relier les lettres ensemble. |
-| [DiscretionaryLigatures](../../aspose.psd.fileformats.psd.layers.text/itextstyle/discretionaryligatures/) { get; set; } | Les ligatures discrétionnaires utilisées pour relier les lettres, en particulier dans les polices de caractères. |
-| [FauxBold](../../aspose.psd.fileformats.psd.layers.text/itextstyle/fauxbold/) { get; set; } | Obtient ou définit que le faux gras est activé. |
-| [FauxItalic](../../aspose.psd.fileformats.psd.layers.text/itextstyle/fauxitalic/) { get; set; } | Obtient ou définit que le faux gras est activé. |
+| [AutoLeading](../../aspose.psd.fileformats.psd.layers.text/itextstyle/autoleading/) { get; set; } | Obtient ou définit une valeur indiquant si [automatic leading]. |
+| [BaselineShift](../../aspose.psd.fileformats.psd.layers.text/itextstyle/baselineshift/) { get; set; } | Le décalage de ligne de base. |
+| [ContextualAlternates](../../aspose.psd.fileformats.psd.layers.text/itextstyle/contextualalternates/) { get; set; } | Les alternatives contextuelles utilisées pour connecter les lettres ensemble. |
+| [DiscretionaryLigatures](../../aspose.psd.fileformats.psd.layers.text/itextstyle/discretionaryligatures/) { get; set; } | Les ligatures discrétionnaires utilisées pour connecter les lettres, en particulier dans les polices cursives. |
+| [FauxBold](../../aspose.psd.fileformats.psd.layers.text/itextstyle/fauxbold/) { get; set; } | Obtient ou définit si le faux gras est activé. |
+| [FauxItalic](../../aspose.psd.fileformats.psd.layers.text/itextstyle/fauxitalic/) { get; set; } | Obtient ou définit si le faux gras est activé. |
 | [FillColor](../../aspose.psd.fileformats.psd.layers.text/itextstyle/fillcolor/) { get; set; } | Obtient ou définit la couleur du remplissage. |
 | [FontBaseline](../../aspose.psd.fileformats.psd.layers.text/itextstyle/fontbaseline/) { get; set; } | La ligne de base de la police. |
-| [FontCaps](../../aspose.psd.fileformats.psd.layers.text/itextstyle/fontcaps/) { get; set; } | Les majuscules des polices. |
+| [FontCaps](../../aspose.psd.fileformats.psd.layers.text/itextstyle/fontcaps/) { get; set; } | Les majuscules de la police. |
 | [FontIndex](../../aspose.psd.fileformats.psd.layers.text/itextstyle/fontindex/) { get; } | Obtient l'index de la police. |
 | [FontName](../../aspose.psd.fileformats.psd.layers.text/itextstyle/fontname/) { get; set; } | Obtient ou définit le nom de la police. |
 | [FontSize](../../aspose.psd.fileformats.psd.layers.text/itextstyle/fontsize/) { get; set; } | Obtient ou définit la taille de la police. |
 | [Fractions](../../aspose.psd.fileformats.psd.layers.text/itextstyle/fractions/) { get; set; } | Les symboles de fractions peuvent être remplacés par un glyphe spécial. |
-| [HindiNumbers](../../aspose.psd.fileformats.psd.layers.text/itextstyle/hindinumbers/) { get; set; } | Obtient ou définit une valeur indiquant si [nombres hindis]. |
+| [HindiNumbers](../../aspose.psd.fileformats.psd.layers.text/itextstyle/hindinumbers/) { get; set; } | Obtient ou définit une valeur indiquant si [hindi numbers]. |
 | [HorizontalScale](../../aspose.psd.fileformats.psd.layers.text/itextstyle/horizontalscale/) { get; set; } | L'échelle horizontale. |
-| [IsStandardVerticalRomanAlignmentEnabled](../../aspose.psd.fileformats.psd.layers.text/itextstyle/isstandardverticalromanalignmentenabled/) { get; set; } | Obtient ou définit l'alignement romain vertical standard. Ceci basé sur la valeur de la ressource BaselineDirection s'applique uniquement lorsque l'orientation du texte estVertical . |
+| [IsStandardVerticalRomanAlignmentEnabled](../../aspose.psd.fileformats.psd.layers.text/itextstyle/isstandardverticalromanalignmentenabled/) { get; set; } | Obtient ou définit l'alignement romain vertical standard. Ceci, basé sur la valeur de la ressource BaselineDirection, s'applique uniquement lorsque l'orientation du texte est verticale. |
 | [Kerning](../../aspose.psd.fileformats.psd.layers.text/itextstyle/kerning/) { get; set; } | Obtient ou définit le crénage. |
 | [LanguageIndex](../../aspose.psd.fileformats.psd.layers.text/itextstyle/languageindex/) { get; } | Obtient l'index de la langue. |
-| [Leading](../../aspose.psd.fileformats.psd.layers.text/itextstyle/leading/) { get; set; } | Obtient ou définit l'interlignage. |
+| [Leading](../../aspose.psd.fileformats.psd.layers.text/itextstyle/leading/) { get; set; } | Obtient ou définit l'interligne. |
 | [NoBreak](../../aspose.psd.fileformats.psd.layers.text/itextstyle/nobreak/) { get; set; } | Obtient ou définit la valeur sans rupture. |
-| [StandardLigatures](../../aspose.psd.fileformats.psd.layers.text/itextstyle/standardligatures/) { get; set; } | Les ligatures contextuelles standard utilisées pour relier les lettres ensemble. |
-| [Strikethrough](../../aspose.psd.fileformats.psd.layers.text/itextstyle/strikethrough/) { get; set; } | Obtient ou définit une valeur indiquant si [barré]. |
+| [StandardLigatures](../../aspose.psd.fileformats.psd.layers.text/itextstyle/standardligatures/) { get; set; } | Les ligatures contextuelles standard utilisées pour connecter les lettres ensemble. |
+| [Strikethrough](../../aspose.psd.fileformats.psd.layers.text/itextstyle/strikethrough/) { get; set; } | Obtient ou définit une valeur indiquant si [strikethrough]. |
 | [StrokeColor](../../aspose.psd.fileformats.psd.layers.text/itextstyle/strokecolor/) { get; set; } | Obtient ou définit la couleur du trait. |
 | [Tracking](../../aspose.psd.fileformats.psd.layers.text/itextstyle/tracking/) { get; set; } | Obtient ou définit le suivi. |
-| [Underline](../../aspose.psd.fileformats.psd.layers.text/itextstyle/underline/) { get; set; } | Obtient ou définit une valeur indiquant si [souligné]. |
+| [Underline](../../aspose.psd.fileformats.psd.layers.text/itextstyle/underline/) { get; set; } | Obtient ou définit une valeur indiquant si [underline]. |
 | [VerticalScale](../../aspose.psd.fileformats.psd.layers.text/itextstyle/verticalscale/) { get; set; } | L'échelle verticale. |
 
 ## Méthodes
 
-| Nom | La description |
+| Nom | Description |
 | --- | --- |
 | [Apply](../../aspose.psd.fileformats.psd.layers.text/itextstyle/apply/)(ITextStyle) | Applique le style spécifié. |
 | [IsEqual](../../aspose.psd.fileformats.psd.layers.text/itextstyle/isequal/)(ITextStyle) | Détermine si le style spécifié est égal. |
 
-### Exemples
+## Exemples
 
-L'exemple suivant montre comment vous pouvez rendre différents styles dans un calque de texte dans Aspose.PSD
+L'exemple suivant montre comment vous pouvez rendre différents styles dans une couche de texte dans Aspose.PSD
 
 ```csharp
 [C#]
 
 string sourceFile = "text212.psd";
-string etalonFile = "Ethalon_text212.psd";
+string etalonFile = "Output_text212.psd";
 string outputFile = "Output_text212.psd";
 
 using (var img = (PsdImage)Image.Load(sourceFile))
@@ -84,12 +85,12 @@ using (var img = (PsdImage)Image.Load(sourceFile))
         defaultStyle,
         defaultParagraph);
 
-    newPortions[0].Style.Underline = true; // édite le style de texte "E=mc"
-    newPortions[1].Style.FontBaseline = FontBaseline.Superscript; // édite le style de texte "2\r"
-    newPortions[2].Style.FauxBold = true; // édite le style de texte "Gras"
-    newPortions[3].Style.FauxItalic = true; // édite le style de texte "Italique\r"
-    newPortions[3].Style.BaselineShift = -25; // édite le style de texte "Italique\r"
-    newPortions[4].Style.FontCaps = FontCaps.SmallCaps; // édite le style de texte "Lowercasetext"
+    newPortions[0].Style.Underline = true; // edit text style "E=mc"
+    newPortions[1].Style.FontBaseline = FontBaseline.Superscript; // edit text style "2\r"
+    newPortions[2].Style.FauxBold = true; // edit text style "Bold"
+    newPortions[3].Style.FauxItalic = true; // edit text style "Italic\r"
+    newPortions[3].Style.BaselineShift = -25; // edit text style "Italic\r"
+    newPortions[4].Style.FontCaps = FontCaps.SmallCaps; // edit text style "Lowercasetext"
 
     foreach (var newPortion in newPortions)
     {
@@ -101,12 +102,12 @@ using (var img = (PsdImage)Image.Load(sourceFile))
 }
 ```
 
-Le code suivant montre comment obtenir la taille de la police pour n'importe quelle partie de texte dans le calque de texte.
+Le code suivant montre comment obtenir la taille de police pour n'importe quelle portion de texte dans le calque de texte.
 
 ```csharp
 [C#]
 
-// Extraction de la mauvaise taille de police 
+// Taille de police extraite incorrecte 
 string filePath = "直播+电商.psd";
 
 var tolerance = 0.001;
@@ -120,30 +121,30 @@ using (var image = Image.Load(filePath))
     double baseFontSize = ((TextLayer)psdImage.Layers[layerIndex]).Font.Size;
     double fontSize = matrix[0] * baseFontSize;
 
-    // Vérification de la taille de la police de base
+    // Vérification de la taille de police de base
     if (Math.Abs(100.0 - baseFontSize) > tolerance)
     {
         throw new Exception("Font size was read incorrect");
     }
 
-    // Vérification de la taille réelle de la police
+    // Vérification de la taille de police réelle
     if (Math.Abs(88.425 - fontSize) > tolerance)
     {
         throw new Exception("TransformMatrix was read incorrect");
     }
 
-    // Nouvelle API (Un calque de texte peut contenir n'importe quelle quantité de tailles de police)
+    // Nouvelle API (Une couche de texte peut contenir n'importe quelle quantité de tailles de police)
     ITextPortion[] portions = ((TextLayer)psdImage.Layers[layerIndex]).TextData.Items;
     ITextStyle style = portions[0].Style;
     double fontSizeOfPortion = matrix[0] * style.FontSize;
 
-    // Vérification de la taille de la police de la portion de base
+    // Vérification de la taille de police de la partie de base
     if (Math.Abs(100.0 - style.FontSize) > tolerance)
     {
         throw new Exception("Font size was read incorrect");
     }
 
-    // Vérification de la taille de police de la portion réelle
+    // Vérification de la taille de police de la partie réelle
     if (Math.Abs(88.425 - fontSizeOfPortion) > tolerance)
     {
         throw new Exception("TransformMatrix was read incorrect");
@@ -151,7 +152,7 @@ using (var image = Image.Load(filePath))
 }
 ```
 
-L'exemple de code suivant illustre la modification de portions de texte et leur style de texte.
+L'exemple de code suivant montre l'édition des portions de texte et leur style de texte.
 
 ```csharp
 [C#]
@@ -218,7 +219,7 @@ using (var im = (PsdImage)Image.Load(filePath))
                     Math.Abs(paragraph.LetterSpacing[0]) > Tolerance ||
                     Math.Abs(paragraph.LetterSpacing[1]) > Tolerance ||
                     Math.Abs(paragraph.LetterSpacing[2]) > Tolerance ||
-                    paragraph.LeadingType != LeadingMode.Auto ||
+                    paragraph.LeadingType != LeadingType.BottomToBottom ||
                     paragraph.PreHyphen != 2 ||
                     paragraph.PostHyphen != 2 ||
                     Math.Abs(paragraph.SpaceBefore) > Tolerance ||
@@ -234,7 +235,7 @@ using (var im = (PsdImage)Image.Load(filePath))
             }
 
             // Vérification des données de style
-            // Les styles ont des couleurs et des tailles de police différentes
+            // Les styles ont des couleurs et une taille de police différentes
             if (Math.Abs(portions[0].Style.FontSize - 12) > Tolerance ||
                 Math.Abs(portions[1].Style.FontSize - 12) > Tolerance ||
                 Math.Abs(portions[2].Style.FontSize - 12) > Tolerance ||
@@ -281,18 +282,18 @@ using (var im = (PsdImage)Image.Load(filePath))
 
             portions = layer.TextData.Items;
 
-            // Exemple d'édition de paragraphe et de style pour les portions
+            // Exemple d'édition de paragraphes et de styles pour les portions
             // Définir la justification à droite
             portions[0].Paragraph.Justification = JustificationMode.Right;
             portions[1].Paragraph.Justification = JustificationMode.Right;
             portions[2].Paragraph.Justification = JustificationMode.Right;
 
-            // Différentes couleurs pour chaque style. Le sera modifié, mais le rendu n'est pas entièrement pris en charge
+            // Différentes couleurs pour chaque style. Elles seront modifiées, mais le rendu n'est pas entièrement pris en charge
             portions[0].Style.FillColor = Color.Aquamarine;
             portions[1].Style.FillColor = Color.Violet;
             portions[2].Style.FillColor = Color.LightBlue;
 
-            // Police différente. Le sera modifié, mais le rendu n'est pas entièrement pris en charge
+            // Police différente. Elle sera modifiée, mais le rendu n'est pas entièrement pris en charge
             portions[0].Style.FontSize = 6;
             portions[1].Style.FontSize = 8;
             portions[2].Style.FontSize = 10;
@@ -307,9 +308,9 @@ using (var im = (PsdImage)Image.Load(filePath))
 }
 ```
 
-### Voir également
+### Voir aussi
 
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.Text](../../aspose.psd.fileformats.psd.layers.text/)
-* Assemblée [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.Text](../../aspose.psd.fileformats.psd.layers.text/)
+* assembly [Aspose.PSD](../../)
 
 

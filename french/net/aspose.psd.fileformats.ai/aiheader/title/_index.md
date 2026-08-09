@@ -1,11 +1,12 @@
 ---
-title: AiHeader.Title
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: AiHeader propriété. Obtient ou définit le titre.
+title: "AiHeader.Title"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété AiHeader. Obtient ou définit le titre"
 type: docs
 weight: 120
 url: /fr/net/aspose.psd.fileformats.ai/aiheader/title/
 ---
+{{< psd/tize >}}
 ## AiHeader.Title property
 
 Obtient ou définit le titre.
@@ -14,14 +15,14 @@ Obtient ou définit le titre.
 public string Title { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
 Le titre.
 
-### Voir également
+### Voir aussi
 
 * class [AiHeader](../)
-* espace de noms [Aspose.PSD.FileFormats.Ai](../../aiheader/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

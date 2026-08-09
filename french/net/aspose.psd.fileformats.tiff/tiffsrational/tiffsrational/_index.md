@@ -1,68 +1,69 @@
 ---
-title: TiffSRational.TiffSRational
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: TiffSRational constructeur. Initialise une nouvelle instance duTiffSRational classe.
+title: "TiffSRational.TiffSRational"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Constructeur TiffSRational. Initialise une nouvelle instance de la classe TiffSRational"
 type: docs
 weight: 10
 url: /fr/net/aspose.psd.fileformats.tiff/tiffsrational/tiffsrational/
 ---
+{{< psd/tize >}}
 ## TiffSRational() {#constructor}
 
-Initialise une nouvelle instance du[`TiffSRational`](../) classe.
+Initialise une nouvelle instance de la classe [`TiffSRational`](../).
 
 ```csharp
 public TiffSRational()
 ```
 
-### Voir également
+### Voir aussi
 
 * class [TiffSRational](../)
-* espace de noms [Aspose.PSD.FileFormats.Tiff](../../tiffsrational/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff](../../../aspose.psd.fileformats.tiff/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## TiffSRational(int) {#constructor_1}
 
-Initialise une nouvelle instance du[`TiffRational`](../../tiffrational/) classe.
+Initialise une nouvelle instance de la classe [`TiffRational`](../../tiffrational/).
 
 ```csharp
 public TiffSRational(int value)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
-| value | Int32 | La valeur du nominateur. |
+| valeur | Int32 | La valeur du numérateur. |
 
-### Remarques
+## Remarques
 
-Le nominateur sera utilisé comme valeur spécifiée et le dénominateur sera égal à 1.
+Le numérateur sera utilisé comme la valeur spécifiée et le dénominateur sera égal à 1.
 
-### Voir également
+### Voir aussi
 
 * class [TiffSRational](../)
-* espace de noms [Aspose.PSD.FileFormats.Tiff](../../tiffsrational/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff](../../../aspose.psd.fileformats.tiff/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## TiffSRational(int, int) {#constructor_2}
 
-Initialise une nouvelle instance du[`TiffSRational`](../) classe.
+Initialise une nouvelle instance de la classe [`TiffSRational`](../).
 
 ```csharp
 public TiffSRational(int nominator, int denominator)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
-| nominator | Int32 | Le proposant. |
-| denominator | Int32 | Le dénominateur. |
+| numérateur | Int32 | Le numérateur. |
+| dénominateur | Int32 | Le dénominateur. |
 
-### Voir également
+### Voir aussi
 
 * class [TiffSRational](../)
-* espace de noms [Aspose.PSD.FileFormats.Tiff](../../tiffsrational/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff](../../../aspose.psd.fileformats.tiff/)
+* assembly [Aspose.PSD](../../../)
 
 

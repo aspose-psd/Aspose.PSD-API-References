@@ -1,27 +1,28 @@
 ---
-title: Cache.CacheFolder
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: Cache propriété. Obtient ou définit le dossier de cache.
+title: "Cache.CacheFolder"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété Cache. Obtient ou définit le dossier de cache"
 type: docs
 weight: 30
 url: /fr/net/aspose.psd/cache/cachefolder/
 ---
+{{< psd/tize >}}
 ## Cache.CacheFolder property
 
-Obtient ou définit le dossier de cache.
+Obtient ou définit le dossier du cache.
 
 ```csharp
 public static string CacheFolder { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
-Le dossier cache.
+Le dossier de cache.
 
-### Voir également
+### Voir aussi
 
 * class [Cache](../)
-* espace de noms [Aspose.PSD](../../cache/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

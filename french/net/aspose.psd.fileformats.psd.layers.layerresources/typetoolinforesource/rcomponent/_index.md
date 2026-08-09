@@ -1,11 +1,12 @@
 ---
-title: TypeToolInfoResource.RComponent
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: TypeToolInfoResource propriété. Obtient ou définit le composant r.
+title: "TypeToolInfoResource.RComponent"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "TypeToolInfoResource property. Obtient ou définit le composant r"
 type: docs
-weight: 160
+weight: 140
 url: /fr/net/aspose.psd.fileformats.psd.layers.layerresources/typetoolinforesource/rcomponent/
 ---
+{{< psd/tize >}}
 ## TypeToolInfoResource.RComponent property
 
 Obtient ou définit le composant r.
@@ -14,14 +15,14 @@ Obtient ou définit le composant r.
 public short RComponent { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
-La composante r.
+Le composant r.
 
-### Voir également
+### Voir aussi
 
 * class [TypeToolInfoResource](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../typetoolinforesource/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,52 +1,53 @@
 ---
-title: Class Lr32Resource
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.Lr32Resource classe. La ressource lr32.
+title: "Classe Lr32Resource"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Aspose.PSD.FileFormats.Psd.Layers.LayerResources.Lr32Resource class. La ressource lr32"
 type: docs
-weight: 2780
+weight: 3090
 url: /fr/net/aspose.psd.fileformats.psd.layers.layerresources/lr32resource/
 ---
+{{< psd/tize >}}
 ## Lr32Resource class
 
 La ressource lr32.
 
 ```csharp
-public class Lr32Resource : LayerResource
+public class Lr32Resource : LrXxResource
 ```
 
 ## Constructeurs
 
-| Nom | La description |
+| Nom | Description |
 | --- | --- |
-| [Lr32Resource](lr32resource/)(int) | Initialise une nouvelle instance du`Lr32Resource` classe. |
+| [Lr32Resource](lr32resource/)() | Le constructeur par défaut. |
 
 ## Propriétés
 
-| Nom | La description |
+| Nom | Description |
 | --- | --- |
-| override [Key](../../aspose.psd.fileformats.psd.layers.layerresources/lr32resource/key/) { get; } | Obtient la clé de ressource de couche. |
-| [Layers](../../aspose.psd.fileformats.psd.layers.layerresources/lr32resource/layers/) { get; set; } | Obtient ou définit les calques. |
-| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/lr32resource/length/) { get; } | Obtient la longueur. |
-| override [PsdVersion](../../aspose.psd.fileformats.psd.layers.layerresources/lr32resource/psdversion/) { get; } | Obtient la version psd. |
-| override [Signature](../../aspose.psd.fileformats.psd.layers.layerresources/lr32resource/signature/) { get; } | Obtient la signature. |
+| [Key](../../aspose.psd.fileformats.psd.layers/layerresource/key/) { get; } | Obtient la clé de ressource du calque. |
+| [Layers](../../aspose.psd.fileformats.psd.layers.layerresources/lrxxresource/layers/) { get; set; } | Obtient ou définit les calques. |
+| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/lrxxresource/length/) { get; } | Obtient la longueur de la ressource pour la version d'en-tête PSD de l'image. |
+| virtual [PsdVersion](../../aspose.psd.fileformats.psd.layers/layerresource/psdversion/) { get; } | Obtient la version minimale de PSD requise pour la ressource du calque. 0 indique aucune restriction. |
+| virtual [Signature](../../aspose.psd.fileformats.psd.layers/layerresource/signature/) { get; } | Obtient la signature. |
 
 ## Méthodes
 
-| Nom | La description |
+| Nom | Description |
 | --- | --- |
-| override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/lr32resource/save/)(StreamContainer, int) | Enregistre l'enregistrement de la couche. |
-| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring/)() | Renvoie unString qui représente cette instance. |
+| override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/lrxxresource/save/)(StreamContainer, int) | Enregistre l'enregistrement du calque. |
+| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring/)() | Renvoie une chaîne qui représente cette instance. |
 
-## Des champs
+## Champs
 
-| Nom | La description |
+| Nom | Description |
 | --- | --- |
-| const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/lr32resource/typetoolkey/) | La clé d'informations sur l'outil de type. |
+| const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/lr32resource/typetoolkey/) | La clé d'information de l'outil de type. |
 
-### Voir également
+### Voir aussi
 
-* class [LayerResource](../../aspose.psd.fileformats.psd.layers/layerresource/)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
-* Assemblée [Aspose.PSD](../../)
+* class [LrXxResource](../lrxxresource/)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../)
 
 

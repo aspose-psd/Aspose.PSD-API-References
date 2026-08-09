@@ -1,32 +1,33 @@
 ---
-title: SizeF.op_Explicit
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: SizeF méthode. Convertit le spécifiéSizeF à unPointF .
+title: "SizeF.op_Explicit"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "SizeF méthode. Convertit le SizeF spécifié en PointF"
 type: docs
 weight: 150
 url: /fr/net/aspose.psd/sizef/op_explicit/
 ---
+{{< psd/tize >}}
 ## SizeF Explicit operator
 
-Convertit le spécifié[`SizeF`](../) à un[`PointF`](../../pointf/) .
+Convertit le [`SizeF`](../) spécifié en [`PointF`](../../pointf/).
 
 ```csharp
 public static explicit operator PointF(SizeF size)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
-| size | SizeF | Le[`SizeF`](../) structure à transformer |
+| size | SizeF | La structure [`SizeF`](../) à convertir. |
 
-### Return_Value
+### Valeur de retour
 
-Le[`PointF`](../../pointf/) structure vers laquelle cet opérateur se convertit.
+La structure [`PointF`](../../pointf/) vers laquelle cet opérateur convertit.
 
-### Voir également
+### Voir aussi
 
 * struct [PointF](../../pointf/)
 * struct [SizeF](../)
-* espace de noms [Aspose.PSD](../../sizef/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

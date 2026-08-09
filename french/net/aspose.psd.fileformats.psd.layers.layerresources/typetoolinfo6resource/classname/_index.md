@@ -1,11 +1,12 @@
 ---
-title: TypeToolInfo6Resource.ClassName
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: TypeToolInfo6Resource propriété. Obtient ou définit le nom de la classe.
+title: "TypeToolInfo6Resource.ClassName"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété TypeToolInfo6Resource. Obtient ou définit le nom de la classe"
 type: docs
 weight: 40
 url: /fr/net/aspose.psd.fileformats.psd.layers.layerresources/typetoolinfo6resource/classname/
 ---
+{{< psd/tize >}}
 ## TypeToolInfo6Resource.ClassName property
 
 Obtient ou définit le nom de la classe.
@@ -14,14 +15,14 @@ Obtient ou définit le nom de la classe.
 public string ClassName { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
 Le nom de la classe.
 
-### Voir également
+### Voir aussi
 
 * class [TypeToolInfo6Resource](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../typetoolinfo6resource/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

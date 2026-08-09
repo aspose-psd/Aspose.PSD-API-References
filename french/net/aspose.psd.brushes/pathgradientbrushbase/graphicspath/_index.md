@@ -1,11 +1,12 @@
 ---
-title: PathGradientBrushBase.GraphicsPath
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: PathGradientBrushBase propriété. Obtient le chemin graphique sur lequel ce pinceau a été construit.
+title: "PathGradientBrushBase.GraphicsPath"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété PathGradientBrushBase. Obtient le chemin graphique sur lequel ce pinceau a été construit"
 type: docs
 weight: 30
 url: /fr/net/aspose.psd.brushes/pathgradientbrushbase/graphicspath/
 ---
+{{< psd/tize >}}
 ## PathGradientBrushBase.GraphicsPath property
 
 Obtient le chemin graphique sur lequel ce pinceau a été construit.
@@ -14,15 +15,15 @@ Obtient le chemin graphique sur lequel ce pinceau a été construit.
 public GraphicsPath GraphicsPath { get; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
 Le chemin graphique.
 
-### Voir également
+### Voir aussi
 
 * class [GraphicsPath](../../../aspose.psd/graphicspath/)
 * class [PathGradientBrushBase](../)
-* espace de noms [Aspose.PSD.Brushes](../../pathgradientbrushbase/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
+* assembly [Aspose.PSD](../../../)
 
 

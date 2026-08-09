@@ -1,24 +1,25 @@
 ---
-title: PsdImage.GlobalLayerMaskInfo
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: PsdImage propriété. Obtient les informations sur le masque de calque global.
+title: "PsdImage.GlobalLayerMaskInfo"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété PsdImage. Obtient les informations du masque de calque global"
 type: docs
 weight: 110
 url: /fr/net/aspose.psd.fileformats.psd/psdimage/globallayermaskinfo/
 ---
+{{< psd/tize >}}
 ## PsdImage.GlobalLayerMaskInfo property
 
-Obtient les informations sur le masque de calque global.
+Obtient les informations du masque de calque global.
 
 ```csharp
 public GlobalLayerMaskInfo GlobalLayerMaskInfo { get; }
 ```
 
-### Voir également
+### Voir aussi
 
 * class [GlobalLayerMaskInfo](../../../aspose.psd.fileformats.psd.layers/globallayermaskinfo/)
 * class [PsdImage](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,23 +1,24 @@
 ---
-title: VsmsResource.Key
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: VsmsResource propriété. Obtient la clé de ressource de couche.
+title: "VsmsResource.Key"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété VsmsResource. Obtient la clé de la ressource de calque"
 type: docs
 weight: 20
 url: /fr/net/aspose.psd.fileformats.psd.layers.layerresources/vsmsresource/key/
 ---
+{{< psd/tize >}}
 ## VsmsResource.Key property
 
-Obtient la clé de ressource de couche.
+Obtient la clé de ressource du calque.
 
 ```csharp
 public override int Key { get; }
 ```
 
-### Voir également
+### Voir aussi
 
 * class [VsmsResource](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../vsmsresource/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

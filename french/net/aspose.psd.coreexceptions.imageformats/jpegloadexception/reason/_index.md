@@ -1,11 +1,12 @@
 ---
-title: JpegLoadException.Reason
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: JpegLoadException propriété. Obtient ou définit la raison de lerreur.
+title: "JpegLoadException.Reason"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété JpegLoadException. Obtient ou définit la raison de l'erreur"
 type: docs
 weight: 20
 url: /fr/net/aspose.psd.coreexceptions.imageformats/jpegloadexception/reason/
 ---
+{{< psd/tize >}}
 ## JpegLoadException.Reason property
 
 Obtient ou définit la raison de l'erreur.
@@ -14,15 +15,15 @@ Obtient ou définit la raison de l'erreur.
 public ErrorReason Reason { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
 La raison de l'erreur.
 
-### Voir également
+### Voir aussi
 
 * enum [ErrorReason](../../jpegloadexception.errorreason/)
 * class [JpegLoadException](../)
-* espace de noms [Aspose.PSD.CoreExceptions.ImageFormats](../../jpegloadexception/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.CoreExceptions.ImageFormats](../../../aspose.psd.coreexceptions.imageformats/)
+* assembly [Aspose.PSD](../../../)
 
 

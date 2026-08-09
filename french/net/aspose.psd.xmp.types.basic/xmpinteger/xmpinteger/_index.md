@@ -1,74 +1,75 @@
 ---
-title: XmpInteger.XmpInteger
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: XmpInteger constructeur. Initialise une nouvelle instance duXmpInteger classe.
+title: "XmpInteger.XmpInteger"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Constructeur XmpInteger. Initialise une nouvelle instance de la classe XmpInteger"
 type: docs
 weight: 10
 url: /fr/net/aspose.psd.xmp.types.basic/xmpinteger/xmpinteger/
 ---
+{{< psd/tize >}}
 ## XmpInteger(long) {#constructor_1}
 
-Initialise une nouvelle instance du[`XmpInteger`](../) classe.
+Initialise une nouvelle instance de la classe [`XmpInteger`](../).
 
 ```csharp
 public XmpInteger(long value)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
-| value | Int64 | La valeur. |
+| valeur | Int64 | La valeur. |
 
-### Voir également
+### Voir aussi
 
 * class [XmpInteger](../)
-* espace de noms [Aspose.PSD.Xmp.Types.Basic](../../xmpinteger/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Basic](../../../aspose.psd.xmp.types.basic/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## XmpInteger(int) {#constructor}
 
-Initialise une nouvelle instance du[`XmpInteger`](../) classe.
+Initialise une nouvelle instance de la classe [`XmpInteger`](../).
 
 ```csharp
 public XmpInteger(int value)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
-| value | Int32 | La valeur. |
+| valeur | Int32 | La valeur. |
 
-### Voir également
+### Voir aussi
 
 * class [XmpInteger](../)
-* espace de noms [Aspose.PSD.Xmp.Types.Basic](../../xmpinteger/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Basic](../../../aspose.psd.xmp.types.basic/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## XmpInteger(string) {#constructor_2}
 
-Initialise une nouvelle instance du[`XmpInteger`](../) classe.
+Initialise une nouvelle instance de la classe [`XmpInteger`](../).
 
 ```csharp
 public XmpInteger(string value)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
-| value | String | La valeur. |
+| valeur | String | La valeur. |
 
 ### Exceptions
 
 | exception | condition |
 | --- | --- |
 | ArgumentNullException | la valeur est nulle. |
-| ArgumentException | Valeur de chaîne non valide ; valeur |
+| ArgumentException | Valeur de chaîne invalide;value |
 
-### Voir également
+### Voir aussi
 
 * class [XmpInteger](../)
-* espace de noms [Aspose.PSD.Xmp.Types.Basic](../../xmpinteger/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Basic](../../../aspose.psd.xmp.types.basic/)
+* assembly [Aspose.PSD](../../../)
 
 

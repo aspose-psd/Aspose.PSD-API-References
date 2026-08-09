@@ -1,11 +1,12 @@
 ---
-title: ExpaResource.Exposure
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: ExpaResource propriété. Obtient ou définit lexposition.
+title: "ExpaResource.Exposure"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété ExpaResource. Obtient ou définit l'exposition"
 type: docs
 weight: 20
 url: /fr/net/aspose.psd.fileformats.psd.layers.layerresources/exparesource/exposure/
 ---
+{{< psd/tize >}}
 ## ExpaResource.Exposure property
 
 Obtient ou définit l'exposition.
@@ -14,14 +15,14 @@ Obtient ou définit l'exposition.
 public float Exposure { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
 L'exposition.
 
-### Voir également
+### Voir aussi
 
 * class [ExpaResource](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../exparesource/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

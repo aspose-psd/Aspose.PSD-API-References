@@ -1,11 +1,12 @@
 ---
-title: ObjectWithBounds.GetBounds
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: ObjectWithBounds méthode. Obtient les limites de lobjet.
+title: "ObjectWithBounds.GetBounds"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "ObjectWithBounds method. Obtient les limites de l'objet"
 type: docs
 weight: 20
 url: /fr/net/aspose.psd/objectwithbounds/getbounds/
 ---
+{{< psd/tize >}}
 ## GetBounds(Matrix) {#getbounds}
 
 Obtient les limites de l'objet.
@@ -14,21 +15,21 @@ Obtient les limites de l'objet.
 public abstract RectangleF GetBounds(Matrix matrix)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
-| matrix | Matrix | La matrice à appliquer avant les bornes sera calculée. |
+| matrice | Matrix | La matrice à appliquer avant que les limites ne soient calculées. |
 
-### Return_Value
+### Valeur de retour
 
-Les limites de l'objet estimé.
+Les limites estimées de l'objet.
 
-### Voir également
+### Voir aussi
 
 * struct [RectangleF](../../rectanglef/)
 * class [Matrix](../../matrix/)
 * class [ObjectWithBounds](../)
-* espace de noms [Aspose.PSD](../../objectwithbounds/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
@@ -40,22 +41,22 @@ Obtient les limites de l'objet.
 public abstract RectangleF GetBounds(Matrix matrix, Pen pen)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
-| matrix | Matrix | La matrice à appliquer avant les bornes sera calculée. |
-| pen | Pen | Le stylet à utiliser pour l'objet. Cela peut influencer la taille des limites de l'objet. |
+| matrice | Matrix | La matrice à appliquer avant que les limites ne soient calculées. |
+| stylo | Stylo | Le stylo à utiliser pour l'objet. Cela peut influencer la taille des limites de l'objet. |
 
-### Return_Value
+### Valeur de retour
 
-Les limites de l'objet estimé.
+Les limites estimées de l'objet.
 
-### Voir également
+### Voir aussi
 
 * struct [RectangleF](../../rectanglef/)
 * class [Matrix](../../matrix/)
 * class [Pen](../../pen/)
 * class [ObjectWithBounds](../)
-* espace de noms [Aspose.PSD](../../objectwithbounds/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

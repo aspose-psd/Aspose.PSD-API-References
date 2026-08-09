@@ -1,11 +1,12 @@
 ---
-title: PhotoshopPackage.SetSource
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: PhotoshopPackage méthode. Définit la source.
+title: "PhotoshopPackage.SetSource"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Méthode PhotoshopPackage. Définit la source"
 type: docs
 weight: 160
 url: /fr/net/aspose.psd.xmp.schemas.photoshop/photoshoppackage/setsource/
 ---
+{{< psd/tize >}}
 ## PhotoshopPackage.SetSource method
 
 Définit la source.
@@ -14,14 +15,14 @@ Définit la source.
 public void SetSource(string source)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
 | source | String | La source. |
 
-### Voir également
+### Voir aussi
 
 * class [PhotoshopPackage](../)
-* espace de noms [Aspose.PSD.Xmp.Schemas.Photoshop](../../photoshoppackage/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.Photoshop](../../../aspose.psd.xmp.schemas.photoshop/)
+* assembly [Aspose.PSD](../../../)
 
 

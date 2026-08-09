@@ -1,23 +1,24 @@
 ---
-title: GlobalLayerMaskInfo.Length
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: GlobalLayerMaskInfo propriété. Obtient la longueur de la section du masque de calque global en octets.
+title: "GlobalLayerMaskInfo.Length"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété GlobalLayerMaskInfo. Obtient la longueur de la section du masque de calque global en octets"
 type: docs
 weight: 60
 url: /fr/net/aspose.psd.fileformats.psd.layers/globallayermaskinfo/length/
 ---
+{{< psd/tize >}}
 ## GlobalLayerMaskInfo.Length property
 
-Obtient la longueur de la section du masque de calque global en octets.
+Obtient la longueur de la section du masque de couche global en octets.
 
 ```csharp
-public int Length { get; }
+public long Length { get; }
 ```
 
-### Voir également
+### Voir aussi
 
 * class [GlobalLayerMaskInfo](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers](../../globallayermaskinfo/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

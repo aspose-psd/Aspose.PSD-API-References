@@ -1,23 +1,24 @@
 ---
-title: Matrix.M21
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: Matrix propriété. Obtient lélément de matrice à la deuxième ligne première colonne. Représente le cisaillement le long de laxe X.
+title: "Matrix.M21"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété Matrix. Obtient l'élément de la matrice à la deuxième ligne première colonne. Représente le cisaillement le long de l'axe X"
 type: docs
 weight: 50
 url: /fr/net/aspose.psd/matrix/m21/
 ---
+{{< psd/tize >}}
 ## Matrix.M21 property
 
-Obtient l'élément de matrice à la deuxième ligne, première colonne. Représente le cisaillement le long de l'axe X.
+Obtient l'élément de la matrice à la deuxième ligne, première colonne. Représente le cisaillement le long de l'axe X.
 
 ```csharp
 public float M21 { get; }
 ```
 
-### Voir également
+### Voir aussi
 
 * class [Matrix](../)
-* espace de noms [Aspose.PSD](../../matrix/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

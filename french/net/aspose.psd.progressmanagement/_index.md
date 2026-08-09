@@ -1,22 +1,23 @@
 ---
-title: Aspose.PSD.ProgressManagement
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: Lespace de noms contient les classes de gestionnaire de progression
+title: "Aspose.PSD.ProgressManagement"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "L'espace de noms contient des classes de gestionnaire de progression"
 type: docs
-weight: 480
+weight: 520
 url: /fr/net/aspose.psd.progressmanagement/
 ---
-L'espace de noms contient les classes de gestionnaire de progression
+{{< psd/tize >}}
+L'espace de noms contient des classes de gestionnaire de progression
 
-## Des classes
+## Classes
 
-| Classer | La description |
+| Classe | Description |
 | --- | --- |
-| [ProgressEventHandlerInfo](./progresseventhandlerinfo/) | Cette classe représente des informations sur la progression des opérations de chargement/sauvegarde/exportation d'image, qui peuvent être utilisées dans une application externe pour montrer la progression de la conversion à l'utilisateur final |
+| [ProgressEventHandlerInfo](./progresseventhandlerinfo/) | Cette classe représente les informations sur la progression des opérations de chargement/enregistrement/exportation d'images, qui peuvent être utilisées dans une application externe pour afficher la progression de la conversion à l'utilisateur final |
 ## Énumération
 
-| Énumération | La description |
+| Énumération | Description |
 | --- | --- |
-| [EventType](./eventtype/) | Cette énumération décrit les types d'événements de progression possibles qui peuvent se produire pendant les opérations de traitement d'image |
+| [EventType](./eventtype/) | Cette énumération décrit les types d'événements de progression possibles qui peuvent survenir lors des opérations de traitement d'images |
 
 

@@ -1,28 +1,29 @@
 ---
-title: RectangleProjectedShape.LeftTop
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: RectangleProjectedShape propriété. Obtient le point du rectangle supérieur gauche.
+title: "RectangleProjectedShape.LeftTop"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété RectangleProjectedShape. Obtient le point supérieur gauche du rectangle"
 type: docs
 weight: 60
 url: /fr/net/aspose.psd.shapes/rectangleprojectedshape/lefttop/
 ---
+{{< psd/tize >}}
 ## RectangleProjectedShape.LeftTop property
 
-Obtient le point du rectangle supérieur gauche.
+Obtient le point supérieur gauche du rectangle.
 
 ```csharp
 public PointF LeftTop { get; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
-Le point du rectangle supérieur gauche.
+Le point supérieur gauche du rectangle.
 
-### Voir également
+### Voir aussi
 
 * struct [PointF](../../../aspose.psd/pointf/)
 * class [RectangleProjectedShape](../)
-* espace de noms [Aspose.PSD.Shapes](../../rectangleprojectedshape/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 

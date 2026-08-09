@@ -1,105 +1,106 @@
 ---
-title: TiffSRational.ApproximateFraction
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: TiffSRational méthode. Rapproche la valeur fournie à une fraction.
+title: "TiffSRational.ApproximateFraction"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Méthode TiffSRational. Approxime la valeur fournie en une fraction"
 type: docs
 weight: 20
 url: /fr/net/aspose.psd.fileformats.tiff/tiffsrational/approximatefraction/
 ---
+{{< psd/tize >}}
 ## ApproximateFraction(double, double) {#approximatefraction_1}
 
-Rapproche la valeur fournie à une fraction.
+Approxime la valeur fournie en une fraction.
 
 ```csharp
 public static TiffSRational ApproximateFraction(double value, double epsilon)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
-| value | Double | La valeur. |
-| epsilon | Double | L'erreur permise. |
+| valeur | Double | La valeur. |
+| epsilon | Double | L'erreur autorisée. |
 
-### Return_Value
+### Valeur de retour
 
-Un nombre rationnel ayant une erreur inférieure à*epsilon*.
+Un nombre rationnel ayant une erreur inférieure à *epsilon*.
 
-### Voir également
+### Voir aussi
 
 * class [TiffSRational](../)
-* espace de noms [Aspose.PSD.FileFormats.Tiff](../../tiffsrational/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff](../../../aspose.psd.fileformats.tiff/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## ApproximateFraction(double) {#approximatefraction}
 
-Rapproche la valeur fournie à une fraction.
+Approxime la valeur fournie en une fraction.
 
 ```csharp
 public static TiffSRational ApproximateFraction(double value)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
-| value | Double | La valeur. |
+| valeur | Double | La valeur. |
 
-### Return_Value
+### Valeur de retour
 
-Un nombre rationnel ayant une erreur inférieure à[`Epsilon`](../epsilon/) .
+Un nombre rationnel ayant une erreur inférieure à [`Epsilon`](../epsilon/).
 
-### Voir également
+### Voir aussi
 
 * class [TiffSRational](../)
-* espace de noms [Aspose.PSD.FileFormats.Tiff](../../tiffsrational/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff](../../../aspose.psd.fileformats.tiff/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## ApproximateFraction(float, double) {#approximatefraction_3}
 
-Rapproche la valeur fournie à une fraction.
+Approxime la valeur fournie en une fraction.
 
 ```csharp
 public static TiffSRational ApproximateFraction(float value, double epsilon)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
-| value | Single | La valeur. |
-| epsilon | Double | L'erreur permise. |
+| valeur | Single | La valeur. |
+| epsilon | Double | L'erreur autorisée. |
 
-### Return_Value
+### Valeur de retour
 
-Un nombre rationnel ayant une erreur inférieure à*epsilon*.
+Un nombre rationnel ayant une erreur inférieure à *epsilon*.
 
-### Voir également
+### Voir aussi
 
 * class [TiffSRational](../)
-* espace de noms [Aspose.PSD.FileFormats.Tiff](../../tiffsrational/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff](../../../aspose.psd.fileformats.tiff/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## ApproximateFraction(float) {#approximatefraction_2}
 
-Rapproche la valeur fournie à une fraction.
+Approxime la valeur fournie en une fraction.
 
 ```csharp
 public static TiffSRational ApproximateFraction(float value)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
-| value | Single | La valeur. |
+| valeur | Single | La valeur. |
 
-### Return_Value
+### Valeur de retour
 
-Un nombre rationnel ayant une erreur inférieure à[`Epsilon`](../epsilon/) .
+Un nombre rationnel ayant une erreur inférieure à [`Epsilon`](../epsilon/).
 
-### Voir également
+### Voir aussi
 
 * class [TiffSRational](../)
-* espace de noms [Aspose.PSD.FileFormats.Tiff](../../tiffsrational/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff](../../../aspose.psd.fileformats.tiff/)
+* assembly [Aspose.PSD](../../../)
 
 

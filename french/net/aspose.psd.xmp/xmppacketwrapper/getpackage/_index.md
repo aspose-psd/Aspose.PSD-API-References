@@ -1,26 +1,27 @@
 ---
-title: XmpPacketWrapper.GetPackage
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: XmpPacketWrapper méthode. Obtient le package par URI despace de noms.
+title: "XmpPacketWrapper.GetPackage"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "XmpPacketWrapper méthode. Obtient le paquet par URI d'espace de noms"
 type: docs
 weight: 100
 url: /fr/net/aspose.psd.xmp/xmppacketwrapper/getpackage/
 ---
+{{< psd/tize >}}
 ## XmpPacketWrapper.GetPackage method
 
-Obtient le package par URI d'espace de noms.
+Obtient le paquet par URI d’espace de noms.
 
 ```csharp
 public XmpPackage GetPackage(string namespaceUri)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
-| namespaceUri | String | L'URI du schéma du package. |
+| namespaceUri | String | L'URI du schéma du paquet. |
 
-### Return_Value
+### Valeur de retour
 
-Renvoie le package XMP pour l'URI de l'espace de noms spécifié.
+Renvoie le paquet XMP pour l'URI d'espace de noms spécifié.
 
 ### Exceptions
 
@@ -28,11 +29,11 @@ Renvoie le package XMP pour l'URI de l'espace de noms spécifié.
 | --- | --- |
 | ArgumentNullException | namespaceUri |
 
-### Voir également
+### Voir aussi
 
 * class [XmpPackage](../../xmppackage/)
 * class [XmpPacketWrapper](../)
-* espace de noms [Aspose.PSD.Xmp](../../xmppacketwrapper/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

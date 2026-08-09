@@ -1,11 +1,12 @@
 ---
-title: SmartResourceCreator.GenerateSmartExternalResource
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: SmartResourceCreator méthode. Génère la ressource dobjet intelligent externe.
+title: "SmartResourceCreator.GenerateSmartExternalResource"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Méthode SmartResourceCreator. Génère la ressource d'objet intelligent externe"
 type: docs
 weight: 40
 url: /fr/net/aspose.psd.fileformats.psd.layers.layerresources/smartresourcecreator/generatesmartexternalresource/
 ---
+{{< psd/tize >}}
 ## SmartResourceCreator.GenerateSmartExternalResource method
 
 Génère la ressource d'objet intelligent externe.
@@ -14,15 +15,15 @@ Génère la ressource d'objet intelligent externe.
 public SoLeResource GenerateSmartExternalResource()
 ```
 
-### Return_Value
+### Valeur de retour
 
-Le généré[`SoLeResource`](../../soleresource/) exemple.
+L'instance générée [`SoLeResource`](../../soleresource/).
 
-### Voir également
+### Voir aussi
 
 * class [SoLeResource](../../soleresource/)
 * class [SmartResourceCreator](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../smartresourcecreator/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

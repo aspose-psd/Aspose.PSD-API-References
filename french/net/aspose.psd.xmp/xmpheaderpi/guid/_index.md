@@ -1,27 +1,28 @@
 ---
-title: XmpHeaderPi.Guid
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: XmpHeaderPi propriété. Représente lentête Guid.
+title: "XmpHeaderPi.Guid"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété XmpHeaderPi. Représente le GUID d'en-tête."
 type: docs
 weight: 20
 url: /fr/net/aspose.psd.xmp/xmpheaderpi/guid/
 ---
+{{< psd/tize >}}
 ## XmpHeaderPi.Guid property
 
-Représente l'en-tête Guid.
+Représente le GUID d’en-tête.
 
 ```csharp
 public string Guid { get; set; }
 ```
 
-### Remarques
+## Remarques
 
-Le texte de l'en-tête PI contient un GUID, ce qui le rend peu susceptible d'apparaître par accident dans le flux de données.
+Le texte de l'en-tête PI contient un GUID, ce qui rend improbable qu'il apparaisse accidentellement dans le flux de données.
 
-### Voir également
+### Voir aussi
 
 * class [XmpHeaderPi](../)
-* espace de noms [Aspose.PSD.Xmp](../../xmpheaderpi/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

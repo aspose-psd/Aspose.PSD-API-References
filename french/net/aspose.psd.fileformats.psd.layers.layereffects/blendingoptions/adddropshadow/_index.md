@@ -1,11 +1,12 @@
 ---
-title: BlendingOptions.AddDropShadow
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: BlendingOptions méthode. Ajoute leffet dombre portée.
+title: "BlendingOptions.AddDropShadow"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Méthode BlendingOptions. Ajoute l'effet d'ombre portée"
 type: docs
-weight: 30
+weight: 40
 url: /fr/net/aspose.psd.fileformats.psd.layers.layereffects/blendingoptions/adddropshadow/
 ---
+{{< psd/tize >}}
 ## BlendingOptions.AddDropShadow method
 
 Ajoute l'effet d'ombre portée.
@@ -14,15 +15,15 @@ Ajoute l'effet d'ombre portée.
 public DropShadowEffect AddDropShadow()
 ```
 
-### Return_Value
+### Valeur de retour
 
-créé[`DropShadowEffect`](../../dropshadoweffect/) objet
+Objet [`DropShadowEffect`](../../dropshadoweffect/) créé
 
-### Voir également
+### Voir aussi
 
 * class [DropShadowEffect](../../dropshadoweffect/)
 * class [BlendingOptions](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../blendingoptions/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../../)
 
 

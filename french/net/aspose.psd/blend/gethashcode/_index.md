@@ -1,11 +1,12 @@
 ---
-title: Blend.GetHashCode
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: Blend méthode. Renvoie un code de hachage pour cette instance.
+title: "Blend.GetHashCode"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Méthode Blend. Retourne un code de hachage pour cette instance."
 type: docs
 weight: 50
 url: /fr/net/aspose.psd/blend/gethashcode/
 ---
+{{< psd/tize >}}
 ## Blend.GetHashCode method
 
 Renvoie un code de hachage pour cette instance.
@@ -14,14 +15,14 @@ Renvoie un code de hachage pour cette instance.
 public override int GetHashCode()
 ```
 
-### Return_Value
+### Valeur de retour
 
-Un code de hachage pour cette instance, adapté à une utilisation dans des algorithmes de hachage et des structures de données comme une table de hachage.
+Un code de hachage pour cette instance, adapté à une utilisation dans les algorithmes de hachage et les structures de données comme une table de hachage.
 
-### Voir également
+### Voir aussi
 
 * class [Blend](../)
-* espace de noms [Aspose.PSD](../../blend/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

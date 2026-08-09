@@ -1,14 +1,15 @@
 ---
-title: Class MixrResource
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.MixrResource classe. Classe MixrResource. Ressource de Channel Mixer Adjustment Layer
+title: "Classe MixrResource"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Classe Aspose.PSD.FileFormats.Psd.Layers.LayerResources.MixrResource. Classe MixrResource. Ressource du calque d'ajustement du mélangeur de canaux"
 type: docs
-weight: 2820
+weight: 3160
 url: /fr/net/aspose.psd.fileformats.psd.layers.layerresources/mixrresource/
 ---
+{{< psd/tize >}}
 ## MixrResource class
 
-Classe MixrResource. Ressource de Channel Mixer Adjustment Layer
+Classe MixrResource. Ressource du calque de réglage du mélangeur de canaux
 
 ```csharp
 public sealed class MixrResource : AdjustmentLayerResource
@@ -16,42 +17,42 @@ public sealed class MixrResource : AdjustmentLayerResource
 
 ## Constructeurs
 
-| Nom | La description |
+| Nom | Description |
 | --- | --- |
-| [MixrResource](mixrresource/#constructor)() | Initialise une nouvelle instance du`MixrResource` class. La spécification du format PSD contient la description suivante : 2 Version ( = 1) 2 Monochrome 20 Couleur RVB ou CMJN plus constante pour les paramètres du mélangeur. 4 * 2 octets de couleur avec 2 octets de constant. |
-| [MixrResource](mixrresource/#constructor_1)(byte[]) | Initialise une nouvelle instance du`MixrResource` class. La spécification du format PSD contient la description suivante : 2 Version ( = 1) 2 Monochrome 20 Couleur RVB ou CMJN plus constante pour les paramètres du mélangeur. 4 * 2 octets de couleur avec 2 octets de constant. |
+| [MixrResource](mixrresource/#constructor)() | Initialise une nouvelle instance de la classe `MixrResource`. La spécification du format PSD contient la description suivante : 2 Version (= 1) 2 Monochrome 20 couleur RVB ou CMJN plus constante pour les réglages du mélangeur. 4 * 2 octets de couleur avec 2 octets de constante. |
+| [MixrResource](mixrresource/#constructor_1)(byte[]) | Initialise une nouvelle instance de la classe `MixrResource`. La spécification du format PSD contient la description suivante : 2 Version (= 1) 2 Monochrome 20 couleur RVB ou CMJN plus constante pour les réglages du mélangeur. 4 * 2 octets de couleur avec 2 octets de constante. |
 
 ## Propriétés
 
-| Nom | La description |
+| Nom | Description |
 | --- | --- |
-| override [Key](../../aspose.psd.fileformats.psd.layers.layerresources/mixrresource/key/) { get; } | Obtient la clé de ressource de couche. |
-| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/mixrresource/length/) { get; } | Obtient la longueur de la ressource de couche en octets. |
-| [Monochrome](../../aspose.psd.fileformats.psd.layers.layerresources/mixrresource/monochrome/) { get; set; } | Obtient ou définit une valeur indiquant si cette`MixrResource` est monochrome. |
-| override [PsdVersion](../../aspose.psd.fileformats.psd.layers.layerresources/mixrresource/psdversion/) { get; } | Obtient la version psd. |
-| override [Signature](../../aspose.psd.fileformats.psd.layers.layerresources/adjustmentlayerresource/signature/) { get; } | Obtient la signature. |
+| [Key](../../aspose.psd.fileformats.psd.layers/layerresource/key/) { get; } | Obtient la clé de ressource du calque. |
+| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/mixrresource/length/) { get; } | Obtient la longueur de la ressource du calque en octets. |
+| [Monochrome](../../aspose.psd.fileformats.psd.layers.layerresources/mixrresource/monochrome/) { get; set; } | Obtient ou définit une valeur indiquant si ce `MixrResource` est monochrome. |
+| virtual [PsdVersion](../../aspose.psd.fileformats.psd.layers/layerresource/psdversion/) { get; } | Obtient la version minimale de PSD requise pour la ressource du calque. 0 indique aucune restriction. |
+| virtual [Signature](../../aspose.psd.fileformats.psd.layers/layerresource/signature/) { get; } | Obtient la signature. |
 | [Version](../../aspose.psd.fileformats.psd.layers.layerresources/mixrresource/version/) { get; set; } | Obtient ou définit la version. |
 
 ## Méthodes
 
-| Nom | La description |
+| Nom | Description |
 | --- | --- |
-| [GetChannelInfo](../../aspose.psd.fileformats.psd.layers.layerresources/mixrresource/getchannelinfo/)(int) | Obtient les informations brutes du canal data |
+| [GetChannelInfo](../../aspose.psd.fileformats.psd.layers.layerresources/mixrresource/getchannelinfo/)(int) | Obtient les données brutes des informations du canal |
 | override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/adjustmentlayerresource/save/)(StreamContainer, int) | Enregistre la ressource dans le conteneur de flux spécifié. |
 | [SetChannelInfo](../../aspose.psd.fileformats.psd.layers.layerresources/mixrresource/setchannelinfo/)(int, byte[]) | Définit les informations du canal. |
-| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring/)() | Renvoie unString qui représente cette instance. |
+| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring/)() | Renvoie une chaîne qui représente cette instance. |
 
-## Des champs
+## Champs
 
-| Nom | La description |
+| Nom | Description |
 | --- | --- |
-| const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/mixrresource/typetoolkey/) | La clé d'informations sur l'outil de type. |
+| const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/mixrresource/typetoolkey/) | La clé d'information de l'outil de type. |
 
-### Voir également
+### Voir aussi
 
 * class [LayerResource](../../aspose.psd.fileformats.psd.layers/layerresource/)
 * class [AdjustmentLayerResource](../adjustmentlayerresource/)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
-* Assemblée [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../)
 
 

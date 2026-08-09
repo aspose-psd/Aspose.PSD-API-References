@@ -1,23 +1,24 @@
 ---
-title: LayerState.Id
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: LayerState propriété. Obtient ou définit lid.
+title: "LayerState.Id"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété LayerState. Obtient ou définit l'identifiant du calque"
 type: docs
 weight: 60
 url: /fr/net/aspose.psd.fileformats.psd.layers.animation/layerstate/id/
 ---
+{{< psd/tize >}}
 ## LayerState.Id property
 
-Obtient ou définit l'id.
+Obtient ou définit l'identifiant du calque.
 
 ```csharp
 public int Id { get; set; }
 ```
 
-### Voir également
+### Voir aussi
 
 * class [LayerState](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.Animation](../../layerstate/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.Animation](../../../aspose.psd.fileformats.psd.layers.animation/)
+* assembly [Aspose.PSD](../../../)
 
 

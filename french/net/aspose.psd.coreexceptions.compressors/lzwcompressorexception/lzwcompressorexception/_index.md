@@ -1,48 +1,49 @@
 ---
-title: LzwCompressorException.LzwCompressorException
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: LzwCompressorException constructeur. Initialise une nouvelle instance duLzwCompressorException classe.
+title: "LzwCompressorException.LzwCompressorException"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Constructeur LzwCompressorException. Initialise une nouvelle instance de la classe LzwCompressorException"
 type: docs
 weight: 10
 url: /fr/net/aspose.psd.coreexceptions.compressors/lzwcompressorexception/lzwcompressorexception/
 ---
+{{< psd/tize >}}
 ## LzwCompressorException(string) {#constructor}
 
-Initialise une nouvelle instance du[`LzwCompressorException`](../) classe.
+Initialise une nouvelle instance de la classe [`LzwCompressorException`](../).
 
 ```csharp
 public LzwCompressorException(string message)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
 | message | String | Le message d'exception. |
 
-### Voir également
+### Voir aussi
 
 * class [LzwCompressorException](../)
-* espace de noms [Aspose.PSD.CoreExceptions.Compressors](../../lzwcompressorexception/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.CoreExceptions.Compressors](../../../aspose.psd.coreexceptions.compressors/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## LzwCompressorException(string, Exception) {#constructor_1}
 
-Initialise une nouvelle instance du[`LzwCompressorException`](../) classe.
+Initialise une nouvelle instance de la classe [`LzwCompressorException`](../).
 
 ```csharp
 public LzwCompressorException(string message, Exception innerException)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
 | message | String | Le message d'exception. |
-| innerException | Exception | L'exception intérieure. |
+| innerException | Exception | L'exception interne. |
 
-### Voir également
+### Voir aussi
 
 * class [LzwCompressorException](../)
-* espace de noms [Aspose.PSD.CoreExceptions.Compressors](../../lzwcompressorexception/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.CoreExceptions.Compressors](../../../aspose.psd.coreexceptions.compressors/)
+* assembly [Aspose.PSD](../../../)
 
 

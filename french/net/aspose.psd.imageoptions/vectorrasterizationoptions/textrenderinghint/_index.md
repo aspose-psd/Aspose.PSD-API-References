@@ -1,11 +1,12 @@
 ---
-title: VectorRasterizationOptions.TextRenderingHint
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: VectorRasterizationOptions propriété. Obtient ou définit lindice de rendu du texte.
+title: "VectorRasterizationOptions.TextRenderingHint"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "VectorRasterizationOptions propriété. Obtient ou définit l'indice de rendu du texte"
 type: docs
 weight: 100
 url: /fr/net/aspose.psd.imageoptions/vectorrasterizationoptions/textrenderinghint/
 ---
+{{< psd/tize >}}
 ## VectorRasterizationOptions.TextRenderingHint property
 
 Obtient ou définit l'indice de rendu du texte.
@@ -14,15 +15,15 @@ Obtient ou définit l'indice de rendu du texte.
 public TextRenderingHint TextRenderingHint { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
-L'astuce de rendu du texte.
+L'indice de rendu du texte.
 
-### Voir également
+### Voir aussi
 
 * enum [TextRenderingHint](../../../aspose.psd/textrenderinghint/)
 * class [VectorRasterizationOptions](../)
-* espace de noms [Aspose.PSD.ImageOptions](../../vectorrasterizationoptions/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

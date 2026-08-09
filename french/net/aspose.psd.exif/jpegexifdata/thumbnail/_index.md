@@ -1,11 +1,12 @@
 ---
-title: JpegExifData.Thumbnail
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: JpegExifData propriété. Obtient ou définit limage miniature.
+title: "JpegExifData.Thumbnail"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété JpegExifData. Obtient ou définit l'image miniature"
 type: docs
 weight: 200
 url: /fr/net/aspose.psd.exif/jpegexifdata/thumbnail/
 ---
+{{< psd/tize >}}
 ## JpegExifData.Thumbnail property
 
 Obtient ou définit l'image miniature.
@@ -14,15 +15,15 @@ Obtient ou définit l'image miniature.
 public RasterImage Thumbnail { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
-La vignette.
+La miniature.
 
-### Voir également
+### Voir aussi
 
 * class [RasterImage](../../../aspose.psd/rasterimage/)
 * class [JpegExifData](../)
-* espace de noms [Aspose.PSD.Exif](../../jpegexifdata/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

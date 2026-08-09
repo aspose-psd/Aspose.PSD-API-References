@@ -1,11 +1,12 @@
 ---
-title: Class ComplexTypeBase
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: Aspose.PSD.Xmp.Types.Complex.ComplexTypeBase classe. Représente labstraction de base pour le type de valeur complexe XMP.
+title: "Class ComplexTypeBase"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Aspose.PSD.Xmp.Types.Complex.ComplexTypeBase class. Représente l'abstraction de base pour le type de valeur XMP Complex."
 type: docs
-weight: 6050
+weight: 6550
 url: /fr/net/aspose.psd.xmp.types.complex/complextypebase/
 ---
+{{< psd/tize >}}
 ## ComplexTypeBase class
 
 Représente l'abstraction de base pour le type de valeur complexe XMP.
@@ -16,31 +17,31 @@ public class ComplexTypeBase : XmpTypeBase
 
 ## Constructeurs
 
-| Nom | La description |
+| Nom | Description |
 | --- | --- |
-| [ComplexTypeBase](complextypebase/)(string, string) | Initialise une nouvelle instance du`ComplexTypeBase` classe. |
+| [ComplexTypeBase](complextypebase/)(string, string) | Initialise une nouvelle instance de la classe `ComplexTypeBase`. |
 
 ## Propriétés
 
-| Nom | La description |
+| Nom | Description |
 | --- | --- |
 | [NamespaceUri](../../aspose.psd.xmp.types.complex/complextypebase/namespaceuri/) { get; } | Obtient l'URI de l'espace de noms par défaut. |
 | [Prefix](../../aspose.psd.xmp.types.complex/complextypebase/prefix/) { get; } | Obtient le préfixe. |
 
 ## Méthodes
 
-| Nom | La description |
+| Nom | Description |
 | --- | --- |
-| override [GetXmpRepresentation](../../aspose.psd.xmp.types.complex/complextypebase/getxmprepresentation/)() | Obtient la valeur contenue dans la chaîne au format XMP. |
+| override [GetXmpRepresentation](../../aspose.psd.xmp.types.complex/complextypebase/getxmprepresentation/)() | Obtient la valeur de chaîne contenue au format XMP. |
 
-### Remarques
+## Remarques
 
-Voir plus : Spécification XMP Partie 2, Chapitre 1.2.2
+Voir plus : XMP Specification Part 2, Chapter 1.2.2
 
-### Voir également
+### Voir aussi
 
 * class [XmpTypeBase](../../aspose.psd.xmp.types/xmptypebase/)
-* espace de noms [Aspose.PSD.Xmp.Types.Complex](../../aspose.psd.xmp.types.complex/)
-* Assemblée [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex](../../aspose.psd.xmp.types.complex/)
+* assembly [Aspose.PSD](../../)
 
 

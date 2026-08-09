@@ -1,27 +1,28 @@
 ---
-title: Cache.AllocatedDiskBytesCount
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: Cache propriété. Obtient le nombre doctets de disque alloués.
+title: "Cache.AllocatedDiskBytesCount"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété Cache. Obtient le nombre d’octets disque alloués."
 type: docs
 weight: 10
 url: /fr/net/aspose.psd/cache/allocateddiskbytescount/
 ---
+{{< psd/tize >}}
 ## Cache.AllocatedDiskBytesCount property
 
-Obtient le nombre d'octets de disque alloués.
+Obtient le nombre d'octets disque alloués.
 
 ```csharp
 public static long AllocatedDiskBytesCount { get; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
-Le nombre d'octets alloués au disque compte.
+Le nombre d’octets disque alloués.
 
-### Voir également
+### Voir aussi
 
 * class [Cache](../)
-* espace de noms [Aspose.PSD](../../cache/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

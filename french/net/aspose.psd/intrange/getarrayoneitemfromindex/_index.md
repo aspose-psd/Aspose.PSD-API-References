@@ -1,37 +1,38 @@
 ---
-title: IntRange.GetArrayOneItemFromIndex
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: IntRange méthode. Renvoie un tableau déléments à partir de lindex spécifié
+title: "IntRange.GetArrayOneItemFromIndex"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Méthode IntRange. Retourne un tableau d'un seul élément à partir de l'index spécifié"
 type: docs
 weight: 30
 url: /fr/net/aspose.psd/intrange/getarrayoneitemfromindex/
 ---
+{{< psd/tize >}}
 ## IntRange.GetArrayOneItemFromIndex method
 
-Renvoie un tableau d'éléments à partir de l'index spécifié
+Renvoie un tableau d'un élément à partir de l'index spécifié.
 
 ```csharp
 public int[] GetArrayOneItemFromIndex(int index)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
-| index | Int32 | L'indice de plage. |
+| index | Int32 | L'index de range. |
 
-### Return_Value
+### Valeur de retour
 
-Le tableau deInt32
+Le tableau de Int32
 
 ### Exceptions
 
 | exception | condition |
 | --- | --- |
-| ArgumentException | L'index est hors plage |
+| ArgumentException | L'index est hors de range |
 
-### Voir également
+### Voir aussi
 
 * class [IntRange](../)
-* espace de noms [Aspose.PSD](../../intrange/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,30 +1,31 @@
 ---
-title: IRasterImagePixelLoader.LoadPartialPixels
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: IRasterImagePixelLoader méthode. Charge partiellement les pixels par blocs.
+title: "IRasterImagePixelLoader.LoadPartialPixels"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Méthode IRasterImagePixelLoader. Charge les pixels partiellement par blocs"
 type: docs
 weight: 10
 url: /fr/net/aspose.psd/irasterimagepixelloader/loadpartialpixels/
 ---
+{{< psd/tize >}}
 ## IRasterImagePixelLoader.LoadPartialPixels method
 
-Charge partiellement les pixels (par blocs).
+Charge les pixels partiellement (par blocs).
 
 ```csharp
 public void LoadPartialPixels(Rectangle rectangle, IPartialPixelLoader partialPixelLoader)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
 | rectangle | Rectangle | Le rectangle à partir duquel charger les pixels. |
-| partialPixelLoader | IPartialPixelLoader | Le chargeur de pixels partiel. |
+| partialPixelLoader | IPartialPixelLoader | Le chargeur de pixels partiels. |
 
-### Voir également
+### Voir aussi
 
 * struct [Rectangle](../../rectangle/)
 * interface [IPartialPixelLoader](../../ipartialpixelloader/)
 * interface [IRasterImagePixelLoader](../)
-* espace de noms [Aspose.PSD](../../irasterimagepixelloader/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

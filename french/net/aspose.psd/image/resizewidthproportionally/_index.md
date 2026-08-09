@@ -1,28 +1,29 @@
 ---
-title: Image.ResizeWidthProportionally
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: Image méthode. Redimensionne la largeur proportionnellement.
+title: "Image.ResizeWidthProportionally"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Méthode Image. Redimensionne la largeur proportionnellement. Le redimensionnement par défaut NearestNeighbourResample est utilisé."
 type: docs
-weight: 210
+weight: 220
 url: /fr/net/aspose.psd/image/resizewidthproportionally/
 ---
+{{< psd/tize >}}
 ## ResizeWidthProportionally(int) {#resizewidthproportionally}
 
-Redimensionne la largeur proportionnellement.
+Redimensionne la largeur proportionnellement. Le redimensionnement par plus proche voisin par défaut est utilisé.
 
 ```csharp
 public void ResizeWidthProportionally(int newWidth)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
 | newWidth | Int32 | La nouvelle largeur. |
 
-### Voir également
+### Voir aussi
 
 * class [Image](../)
-* espace de noms [Aspose.PSD](../../image/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
@@ -34,17 +35,17 @@ Redimensionne la largeur proportionnellement.
 public virtual void ResizeWidthProportionally(int newWidth, ResizeType resizeType)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
 | newWidth | Int32 | La nouvelle largeur. |
-| resizeType | ResizeType | Type de redimensionnement. |
+| resizeType | ResizeType | Type du redimensionnement. |
 
-### Voir également
+### Voir aussi
 
 * enum [ResizeType](../../resizetype/)
 * class [Image](../)
-* espace de noms [Aspose.PSD](../../image/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
@@ -56,16 +57,16 @@ Redimensionne la largeur proportionnellement.
 public virtual void ResizeWidthProportionally(int newWidth, ImageResizeSettings settings)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
 | newWidth | Int32 | La nouvelle largeur. |
-| settings | ImageResizeSettings | Les paramètres de redimensionnement de l'image. |
+| paramètres | ImageResizeSettings | Les paramètres de redimensionnement de l'image. |
 
-### Voir également
+### Voir aussi
 
 * class [ImageResizeSettings](../../imageresizesettings/)
 * class [Image](../)
-* espace de noms [Aspose.PSD](../../image/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

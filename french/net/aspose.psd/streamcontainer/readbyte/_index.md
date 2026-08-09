@@ -1,27 +1,28 @@
 ---
-title: StreamContainer.ReadByte
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: StreamContainer méthode. Lit un octet du flux et avance la position dans le flux dun octet ou renvoie 1 si à la fin du flux.
+title: "StreamContainer.ReadByte"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Méthode StreamContainer. Lit un octet du flux et avance la position dans le flux d'un octet ou renvoie 1 si la fin du flux est atteinte"
 type: docs
 weight: 120
 url: /fr/net/aspose.psd/streamcontainer/readbyte/
 ---
+{{< psd/tize >}}
 ## StreamContainer.ReadByte method
 
-Lit un octet du flux et avance la position dans le flux d'un octet, ou renvoie -1 si à la fin du flux.
+Lit un octet du flux et avance la position dans le flux d'un octet, ou renvoie -1 si la fin du flux est atteinte.
 
 ```csharp
 public virtual int ReadByte()
 ```
 
-### Return_Value
+### Valeur de retour
 
-L'octet non signé converti en Int32, ou -1 si à la fin du flux.
+L'octet non signé converti en Int32, ou -1 si la fin du flux est atteinte.
 
-### Voir également
+### Voir aussi
 
 * class [StreamContainer](../)
-* espace de noms [Aspose.PSD](../../streamcontainer/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

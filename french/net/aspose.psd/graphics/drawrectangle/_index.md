@@ -1,23 +1,24 @@
 ---
-title: Graphics.DrawRectangle
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: Graphics méthode. Dessine un rectangle spécifié par unRectangleFstructure.
+title: "Graphics.DrawRectangle"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Méthode Graphics. Dessine un rectangle spécifié par une structure RectangleF"
 type: docs
-weight: 300
+weight: 310
 url: /fr/net/aspose.psd/graphics/drawrectangle/
 ---
+{{< psd/tize >}}
 ## DrawRectangle(Pen, RectangleF) {#drawrectangle_1}
 
-Dessine un rectangle spécifié par un[`RectangleF`](../../rectanglef/)structure.
+Dessine un rectangle spécifié par une structure [`RectangleF`](../../rectanglef/).
 
 ```csharp
 public void DrawRectangle(Pen pen, RectangleF rect)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
-| pen | Pen | UN[`Pen`](../../pen/) qui détermine la couleur, la largeur et le style du rectangle. |
-| rect | RectangleF | UN[`RectangleF`](../../rectanglef/) structure qui représente le rectangle à dessiner. |
+| pen | Pen | Un [`Pen`](../../pen/) qui détermine la couleur, la largeur et le style du rectangle. |
+| rect | RectangleF | Une structure [`RectangleF`](../../rectanglef/) qui représente le rectangle à dessiner. |
 
 ### Exceptions
 
@@ -25,28 +26,28 @@ public void DrawRectangle(Pen pen, RectangleF rect)
 | --- | --- |
 | ArgumentNullException | *pen* est nul. |
 
-### Voir également
+### Voir aussi
 
 * class [Pen](../../pen/)
 * struct [RectangleF](../../rectanglef/)
 * class [Graphics](../)
-* espace de noms [Aspose.PSD](../../graphics/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## DrawRectangle(Pen, Rectangle) {#drawrectangle}
 
-Dessine un rectangle spécifié par un[`Rectangle`](../../rectangle/)structure.
+Dessine un rectangle spécifié par une structure [`Rectangle`](../../rectangle/).
 
 ```csharp
 public void DrawRectangle(Pen pen, Rectangle rect)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
-| pen | Pen | UN[`Pen`](../../pen/) qui détermine la couleur, la largeur et le style du rectangle. |
-| rect | Rectangle | UN[`Rectangle`](../../rectangle/) structure qui représente le rectangle à dessiner. |
+| pen | Pen | Un [`Pen`](../../pen/) qui détermine la couleur, la largeur et le style du rectangle. |
+| rect | Rectangle | Une structure [`Rectangle`](../../rectangle/) qui représente le rectangle à dessiner. |
 
 ### Exceptions
 
@@ -54,13 +55,13 @@ public void DrawRectangle(Pen pen, Rectangle rect)
 | --- | --- |
 | ArgumentNullException | *pen* est nul. |
 
-### Voir également
+### Voir aussi
 
 * class [Pen](../../pen/)
 * struct [Rectangle](../../rectangle/)
 * class [Graphics](../)
-* espace de noms [Aspose.PSD](../../graphics/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
@@ -72,13 +73,13 @@ Dessine un rectangle spécifié par une paire de coordonnées, une largeur et un
 public void DrawRectangle(Pen pen, float x, float y, float width, float height)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
-| pen | Pen | UN[`Pen`](../../pen/) qui détermine la couleur, la largeur et le style du rectangle. |
-| x | Single | Coordonnée x du coin supérieur gauche du rectangle à dessiner. |
-| y | Single | Coordonnée y du coin supérieur gauche du rectangle à dessiner. |
-| width | Single | La largeur du rectangle à dessiner. |
-| height | Single | La hauteur du rectangle à dessiner. |
+| pen | Pen | Un [`Pen`](../../pen/) qui détermine la couleur, la largeur et le style du rectangle. |
+| x | Single | La coordonnée x du coin supérieur gauche du rectangle à dessiner. |
+| y | Single | La coordonnée y du coin supérieur gauche du rectangle à dessiner. |
+| largeur | Single | La largeur du rectangle à dessiner. |
+| hauteur | Single | La hauteur du rectangle à dessiner. |
 
 ### Exceptions
 
@@ -86,12 +87,12 @@ public void DrawRectangle(Pen pen, float x, float y, float width, float height)
 | --- | --- |
 | ArgumentNullException | *pen* est nul. |
 
-### Voir également
+### Voir aussi
 
 * class [Pen](../../pen/)
 * class [Graphics](../)
-* espace de noms [Aspose.PSD](../../graphics/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
@@ -103,13 +104,13 @@ Dessine un rectangle spécifié par une paire de coordonnées, une largeur et un
 public void DrawRectangle(Pen pen, int x, int y, int width, int height)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
 | pen | Pen | [`Pen`](../../pen/) qui détermine la couleur, la largeur et le style du rectangle. |
-| x | Int32 | Coordonnée x du coin supérieur gauche du rectangle à dessiner. |
-| y | Int32 | Coordonnée y du coin supérieur gauche du rectangle à dessiner. |
-| width | Int32 | Largeur du rectangle à dessiner. |
-| height | Int32 | Hauteur du rectangle à dessiner. |
+| x | Int32 | La coordonnée x du coin supérieur gauche du rectangle à dessiner. |
+| y | Int32 | La coordonnée y du coin supérieur gauche du rectangle à dessiner. |
+| largeur | Int32 | Largeur du rectangle à dessiner. |
+| hauteur | Int32 | Hauteur du rectangle à dessiner. |
 
 ### Exceptions
 
@@ -117,11 +118,11 @@ public void DrawRectangle(Pen pen, int x, int y, int width, int height)
 | --- | --- |
 | ArgumentNullException | *pen* est nul. |
 
-### Voir également
+### Voir aussi
 
 * class [Pen](../../pen/)
 * class [Graphics](../)
-* espace de noms [Aspose.PSD](../../graphics/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,30 +1,31 @@
 ---
-title: FontSettings.GetReplacementFont
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: FontSettings méthode. Obtient la police de remplacement la plus appropriée. Si tous les remplacements ne sont pas autorisés la première police autorisée et disponible sera renvoyée. Sil ny a pas de polices disponibles la police de largument sera renvoyée.
+title: "FontSettings.GetReplacementFont"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Méthode FontSettings. Obtient la police de remplacement la plus appropriée. Si toutes les polices de remplacement ne sont pas autorisées, la première police autorisée et disponible sera renvoyée. S'il n'y a aucune police disponible, la police fournie en argument sera renvoyée"
 type: docs
-weight: 70
+weight: 80
 url: /fr/net/aspose.psd/fontsettings/getreplacementfont/
 ---
+{{< psd/tize >}}
 ## FontSettings.GetReplacementFont method
 
-Obtient la police de remplacement la plus appropriée. Si tous les remplacements ne sont pas autorisés, la première police autorisée et disponible sera renvoyée. S'il n'y a pas de polices disponibles, la police de l'argument sera renvoyée.
+Obtient la police de remplacement la plus adaptée. Si tous les remplacements ne sont pas autorisés, la première police autorisée et disponible sera retournée. S'il n'y a aucune police disponible, la police fournie en argument sera retournée.
 
 ```csharp
 public static string GetReplacementFont(string fontName)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
 | fontName | String | Nom de la police. |
 
-### Return_Value
+### Valeur de retour
 
 Le nom de la police remplacée
 
-### Exemples
+## Exemples
 
-Le code suivant montre la possibilité de limiter par programmation les polices à l'aide de.
+Le code suivant démontre la capacité de limiter les polices de façon programmatique en utilisant.
 
 ```csharp
 [C#]
@@ -47,7 +48,8 @@ try
     FontSettings.SetFontReplacements("Arial", arialReplacement);
     FontSettings.SetFontReplacements("Times New Roman", timesReplacement);
 
-    using (PsdImage image = (PsdImage)Image.Load(srcFile))
+    using (PsdImage image = (PsdImage)Image.Load(srcFile,
+        new PsdLoadOptions() { AllowNonChangedLayerRepaint = true }))
     {
         image.Save(output, new PngOptions() { ColorType = PngColorType.TruecolorWithAlpha });
     }
@@ -59,10 +61,10 @@ finally
 }
 ```
 
-### Voir également
+### Voir aussi
 
 * class [FontSettings](../)
-* espace de noms [Aspose.PSD](../../fontsettings/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: Class PatternOverlayEffect
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerEffects.PatternOverlayEffect classe. Effet de calque de motif
+title: "Classe PatternOverlayEffect"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Aspose.PSD.FileFormats.Psd.Layers.LayerEffects.PatternOverlayEffect classe. Effet de calque Pattern."
 type: docs
-weight: 2180
+weight: 2380
 url: /fr/net/aspose.psd.fileformats.psd.layers.layereffects/patternoverlayeffect/
 ---
+{{< psd/tize >}}
 ## PatternOverlayEffect class
 
-Effet de calque de motif
+Effet de calque de motif.
 
 ```csharp
 public class PatternOverlayEffect : ILayerEffect
@@ -16,17 +17,23 @@ public class PatternOverlayEffect : ILayerEffect
 
 ## Propriétés
 
-| Nom | La description |
+| Nom | Description |
 | --- | --- |
 | [BlendMode](../../aspose.psd.fileformats.psd.layers.layereffects/patternoverlayeffect/blendmode/) { get; set; } | Obtient ou définit le mode de fusion. |
-| [EffectType](../../aspose.psd.fileformats.psd.layers.layereffects/patternoverlayeffect/effecttype/) { get; } | Obtient un type d'effet type |
+| [EffectType](../../aspose.psd.fileformats.psd.layers.layereffects/patternoverlayeffect/effecttype/) { get; } | Obtient un type d'effet |
 | [IsVisible](../../aspose.psd.fileformats.psd.layers.layereffects/patternoverlayeffect/isvisible/) { get; set; } | Obtient ou définit une valeur indiquant si cette instance est visible. |
 | [Opacity](../../aspose.psd.fileformats.psd.layers.layereffects/patternoverlayeffect/opacity/) { get; set; } | Obtient ou définit l'opacité. |
 | [Settings](../../aspose.psd.fileformats.psd.layers.layereffects/patternoverlayeffect/settings/) { get; set; } | Obtient ou définit les paramètres. |
 
-### Exemples
+## Méthodes
 
-Le code suivant illustre la prise en charge de l'effet de superposition de modèle.
+| Nom | Description |
+| --- | --- |
+| [GetEffectBounds](../../aspose.psd.fileformats.psd.layers.layereffects/patternoverlayeffect/geteffectbounds/)(Rectangle, int) | Calcule et obtient les limites des pixels d'effet basées sur les limites des pixels du calque d'entrée. |
+
+## Exemples
+
+Le code suivant montre la prise en charge de l'effet de superposition Pattern.
 
 ```csharp
 [C#]
@@ -97,7 +104,7 @@ using (var im = (PsdImage)Image.Load(sourceFileName, loadOptions))
     AssertIsTrue(Math.Abs(0 - settings.HorizontalOffset) < 0.001, "Horizontal offset is incorrect");
     AssertIsTrue(Math.Abs(0 - settings.VerticalOffset) < 0.001, "Vertical offset is incorrect");
 
-    // Tester l'édition
+    // Test de modification
     settings.Color = Color.Green;
 
     patternOverlay.Opacity = 193;
@@ -114,7 +121,7 @@ using (var im = (PsdImage)Image.Load(sourceFileName, loadOptions))
     im.Save(exportPath);
 }
 
-// Tester le fichier après modification
+// Fichier de test après modification
 using (var im = (PsdImage)Image.Load(exportPath, loadOptions))
 {
     var patternOverlay = (PatternOverlayEffect)im.Layers[1].BlendingOptions.Effects[0];
@@ -149,10 +156,10 @@ using (var im = (PsdImage)Image.Load(exportPath, loadOptions))
 }
 ```
 
-### Voir également
+### Voir aussi
 
 * interface [ILayerEffect](../ilayereffect/)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../aspose.psd.fileformats.psd.layers.layereffects/)
-* Assemblée [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../)
 
 

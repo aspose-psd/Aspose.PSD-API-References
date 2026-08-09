@@ -1,11 +1,12 @@
 ---
-title: TiffOptions.XmpData
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: TiffOptions propriété. Obtient ou définit le conteneur de métadonnées XMP.
+title: "TiffOptions.XmpData"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété TiffOptions. Obtient ou définit le conteneur de métadonnées XMP"
 type: docs
-weight: 580
+weight: 590
 url: /fr/net/aspose.psd.imageoptions/tiffoptions/xmpdata/
 ---
+{{< psd/tize >}}
 ## TiffOptions.XmpData property
 
 Obtient ou définit le conteneur de métadonnées XMP.
@@ -14,15 +15,15 @@ Obtient ou définit le conteneur de métadonnées XMP.
 public override XmpPacketWrapper XmpData { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
 Le conteneur de données XMP.
 
-### Voir également
+### Voir aussi
 
 * class [XmpPacketWrapper](../../../aspose.psd.xmp/xmppacketwrapper/)
 * class [TiffOptions](../)
-* espace de noms [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

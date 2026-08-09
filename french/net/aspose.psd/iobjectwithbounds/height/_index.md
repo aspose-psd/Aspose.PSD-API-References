@@ -1,11 +1,12 @@
 ---
-title: IObjectWithBounds.Height
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: IObjectWithBounds propriété. Obtient la hauteur de lobjet.
+title: "IObjectWithBounds.Height"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété IObjectWithBounds. Obtient la hauteur de l'objet"
 type: docs
 weight: 20
 url: /fr/net/aspose.psd/iobjectwithbounds/height/
 ---
+{{< psd/tize >}}
 ## IObjectWithBounds.Height property
 
 Obtient la hauteur de l'objet.
@@ -14,14 +15,14 @@ Obtient la hauteur de l'objet.
 public int Height { get; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
 La hauteur de l'objet.
 
-### Voir également
+### Voir aussi
 
 * interface [IObjectWithBounds](../)
-* espace de noms [Aspose.PSD](../../iobjectwithbounds/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

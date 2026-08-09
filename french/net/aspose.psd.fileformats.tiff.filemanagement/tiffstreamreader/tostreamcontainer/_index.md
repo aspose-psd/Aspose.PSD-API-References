@@ -1,11 +1,12 @@
 ---
-title: TiffStreamReader.ToStreamContainer
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: TiffStreamReader méthode. Convertit les données sousjacentes en conteneur de flux.
+title: "TiffStreamReader.ToStreamContainer"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Méthode TiffStreamReader. Convertit les données sous-jacentes en conteneur de flux"
 type: docs
 weight: 230
 url: /fr/net/aspose.psd.fileformats.tiff.filemanagement/tiffstreamreader/tostreamcontainer/
 ---
+{{< psd/tize >}}
 ## TiffStreamReader.ToStreamContainer method
 
 Convertit les données sous-jacentes en conteneur de flux.
@@ -14,19 +15,19 @@ Convertit les données sous-jacentes en conteneur de flux.
 public StreamContainer ToStreamContainer(long startPosition)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
 | startPosition | Int64 | La position de départ à partir de laquelle commencer la conversion. |
 
-### Return_Value
+### Valeur de retour
 
-Le[`StreamContainer`](../../../aspose.psd/streamcontainer/) avec des données converties.
+Le [`StreamContainer`](../../../aspose.psd/streamcontainer/) avec les données converties.
 
-### Voir également
+### Voir aussi
 
 * class [StreamContainer](../../../aspose.psd/streamcontainer/)
 * class [TiffStreamReader](../)
-* espace de noms [Aspose.PSD.FileFormats.Tiff.FileManagement](../../tiffstreamreader/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff.FileManagement](../../../aspose.psd.fileformats.tiff.filemanagement/)
+* assembly [Aspose.PSD](../../../)
 
 

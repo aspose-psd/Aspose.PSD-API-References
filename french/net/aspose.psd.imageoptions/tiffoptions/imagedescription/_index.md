@@ -1,11 +1,12 @@
 ---
-title: TiffOptions.ImageDescription
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: TiffOptions propriété. Obtient ou définit la description de limage.
+title: "TiffOptions.ImageDescription"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété TiffOptions. Obtient ou définit la description de l’image"
 type: docs
-weight: 190
+weight: 200
 url: /fr/net/aspose.psd.imageoptions/tiffoptions/imagedescription/
 ---
+{{< psd/tize >}}
 ## TiffOptions.ImageDescription property
 
 Obtient ou définit la description de l'image.
@@ -14,14 +15,14 @@ Obtient ou définit la description de l'image.
 public string ImageDescription { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
-La description de l'image.
+La description de l’image.
 
-### Voir également
+### Voir aussi
 
 * class [TiffOptions](../)
-* espace de noms [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

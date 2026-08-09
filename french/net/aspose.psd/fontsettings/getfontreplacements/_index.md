@@ -1,30 +1,31 @@
 ---
-title: FontSettings.GetFontReplacements
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: FontSettings méthode. Obtient le tableau des remplacements de polices par le nom de la police
+title: "FontSettings.GetFontReplacements"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Méthode FontSettings. Obtient le tableau de remplacements de police par le nom de police"
 type: docs
-weight: 50
+weight: 60
 url: /fr/net/aspose.psd/fontsettings/getfontreplacements/
 ---
+{{< psd/tize >}}
 ## FontSettings.GetFontReplacements method
 
-Obtient le tableau des remplacements de polices par le nom de la police
+Obtient le tableau des remplacements de police par le nom de police
 
 ```csharp
 public static string[] GetFontReplacements(string fontName)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
 | fontName | String | Nom de la police. |
 
-### Return_Value
+### Valeur de retour
 
-Tableau de noms de remplacements pour les polices fournies
+Tableau des noms de remplacements pour les polices fournies
 
-### Exemples
+## Exemples
 
-Le code suivant montre la possibilité de limiter par programmation les polices à l'aide de.
+Le code suivant démontre la capacité de limiter les polices de façon programmatique en utilisant.
 
 ```csharp
 [C#]
@@ -47,7 +48,8 @@ try
     FontSettings.SetFontReplacements("Arial", arialReplacement);
     FontSettings.SetFontReplacements("Times New Roman", timesReplacement);
 
-    using (PsdImage image = (PsdImage)Image.Load(srcFile))
+    using (PsdImage image = (PsdImage)Image.Load(srcFile,
+        new PsdLoadOptions() { AllowNonChangedLayerRepaint = true }))
     {
         image.Save(output, new PngOptions() { ColorType = PngColorType.TruecolorWithAlpha });
     }
@@ -59,10 +61,10 @@ finally
 }
 ```
 
-### Voir également
+### Voir aussi
 
 * class [FontSettings](../)
-* espace de noms [Aspose.PSD](../../fontsettings/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

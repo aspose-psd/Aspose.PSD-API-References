@@ -1,11 +1,12 @@
 ---
-title: XmpElementBase.AddAttribute
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: XmpElementBase méthode. Ajoute lattribut.
+title: "XmpElementBase.AddAttribute"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Méthode XmpElementBase. Ajoute l'attribut"
 type: docs
 weight: 10
 url: /fr/net/aspose.psd.xmp/xmpelementbase/addattribute/
 ---
+{{< psd/tize >}}
 ## XmpElementBase.AddAttribute method
 
 Ajoute l'attribut.
@@ -14,15 +15,15 @@ Ajoute l'attribut.
 public virtual void AddAttribute(string attribute, string value)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
-| attribute | String | L'attribut. |
-| value | String | La valeur. |
+| attribut | String | L'attribut. |
+| valeur | String | La valeur. |
 
-### Voir également
+### Voir aussi
 
 * class [XmpElementBase](../)
-* espace de noms [Aspose.PSD.Xmp](../../xmpelementbase/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

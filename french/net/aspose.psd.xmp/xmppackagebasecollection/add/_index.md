@@ -1,28 +1,29 @@
 ---
-title: XmpPackageBaseCollection.Add
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: XmpPackageBaseCollection méthode. Ajoute une nouvelle instance deXmpPackage .
+title: "XmpPackageBaseCollection.Add"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Méthode XmpPackageBaseCollection. Ajoute une nouvelle instance de XmpPackage"
 type: docs
 weight: 30
 url: /fr/net/aspose.psd.xmp/xmppackagebasecollection/add/
 ---
+{{< psd/tize >}}
 ## XmpPackageBaseCollection.Add method
 
-Ajoute une nouvelle instance de[`XmpPackage`](../../xmppackage/) .
+Ajoute une nouvelle instance de [`XmpPackage`](../../xmppackage/).
 
 ```csharp
 public void Add(XmpPackage package)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
-| package | XmpPackage | Le package XMP à ajouter. |
+| paquet | XmpPackage | Le paquet XMP à ajouter. |
 
-### Voir également
+### Voir aussi
 
 * class [XmpPackage](../../xmppackage/)
 * class [XmpPackageBaseCollection](../)
-* espace de noms [Aspose.PSD.Xmp](../../xmppackagebasecollection/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

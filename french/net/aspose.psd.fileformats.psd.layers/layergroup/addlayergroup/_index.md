@@ -1,11 +1,12 @@
 ---
-title: LayerGroup.AddLayerGroup
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: LayerGroup méthode. Ajoute le groupe de calques.
+title: "LayerGroup.AddLayerGroup"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Méthode LayerGroup. Ajoute le groupe de calques"
 type: docs
 weight: 70
 url: /fr/net/aspose.psd.fileformats.psd.layers/layergroup/addlayergroup/
 ---
+{{< psd/tize >}}
 ## LayerGroup.AddLayerGroup method
 
 Ajoute le groupe de calques.
@@ -14,31 +15,31 @@ Ajoute le groupe de calques.
 public LayerGroup AddLayerGroup(string groupName, int index)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
 | groupName | String | Nom du groupe. |
-| index | Int32 | L'indice du calque à insérer après. |
+| index | Int32 | L'index du calque après lequel insérer. |
 
-### Return_Value
+### Valeur de retour
 
-Couche de groupe d'ouverture
+Ouverture du groupe de calques
 
-### Exemples
+## Exemples
 
-L'exemple suivant illustre l'ajout de LayerGroup dans un autre LayerGroup.
+L'exemple suivant montre l'ajout d'un LayerGroup dans un autre LayerGroup.
 
 ```csharp
 [C#]
 
 string sourceFileName = "psdnet190_test.psd";
 
-// création d'une hiérarchie de calques comme celle-ci :
+// création d'une hiérarchie de calques comme suit:
 // -Groupe 1
-// --Couche 1
+// --Calque 1
 // --Groupe 2
-// ---Couche 2
-// ---Couche 3
-// --Couche 4
+// ---Calque 2
+// ---Calque 3
+// --Calque 4
 
 var createOptions = new PsdOptions();
 createOptions.Source = new FileCreateSource(sourceFileName, false);
@@ -70,10 +71,10 @@ using (var psdImage = (PsdImage)Image.Create(createOptions, 500, 500))
 }
 ```
 
-### Voir également
+### Voir aussi
 
 * class [LayerGroup](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers](../../layergroup/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

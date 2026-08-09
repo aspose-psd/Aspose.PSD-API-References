@@ -1,11 +1,12 @@
 ---
-title: Layer.BlendModeKey
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: Layer propriété. Obtient ou définit la clé du mode de fusion.
+title: "Layer.BlendModeKey"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété Layer. Obtient ou définit la clé du mode de fusion"
 type: docs
-weight: 40
+weight: 50
 url: /fr/net/aspose.psd.fileformats.psd.layers/layer/blendmodekey/
 ---
+{{< psd/tize >}}
 ## Layer.BlendModeKey property
 
 Obtient ou définit la clé du mode de fusion.
@@ -14,11 +15,11 @@ Obtient ou définit la clé du mode de fusion.
 public virtual BlendMode BlendModeKey { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
 La clé du mode de fusion.
 
-### Exemples
+## Exemples
 
 L'exemple suivant montre comment vous pouvez utiliser le mode de fusion de calque PassThrough dans Aspose.PSD
 
@@ -61,11 +62,11 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFileName))
 }
 ```
 
-### Voir également
+### Voir aussi
 
 * enum [BlendMode](../../../aspose.psd.fileformats.core.blending/blendmode/)
 * class [Layer](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers](../../layer/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

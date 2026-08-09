@@ -1,28 +1,29 @@
 ---
-title: PathGradientBrushBase.CenterPoint
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: PathGradientBrushBase propriété. Obtient ou définit le point central du dégradé du chemin.
+title: "PathGradientBrushBase.CenterPoint"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété PathGradientBrushBase. Obtient ou définit le point central du dégradé de chemin"
 type: docs
 weight: 10
 url: /fr/net/aspose.psd.brushes/pathgradientbrushbase/centerpoint/
 ---
+{{< psd/tize >}}
 ## PathGradientBrushBase.CenterPoint property
 
-Obtient ou définit le point central du dégradé du chemin.
+Obtient ou définit le point central du dégradé de chemin.
 
 ```csharp
 public PointF CenterPoint { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
-UN[`PointF`](../../../aspose.psd/pointf/) qui représente le point central du dégradé du chemin.
+Un [`PointF`](../../../aspose.psd/pointf/) qui représente le point central du dégradé de chemin.
 
-### Voir également
+### Voir aussi
 
 * struct [PointF](../../../aspose.psd/pointf/)
 * class [PathGradientBrushBase](../)
-* espace de noms [Aspose.PSD.Brushes](../../pathgradientbrushbase/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
+* assembly [Aspose.PSD](../../../)
 
 

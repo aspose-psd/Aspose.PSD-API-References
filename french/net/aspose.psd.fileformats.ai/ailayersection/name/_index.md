@@ -1,11 +1,12 @@
 ---
-title: AiLayerSection.Name
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: AiLayerSection propriété. Obtient ou définit le nom du calque. Spécifie le nom de lélément tel quil apparaît dans le panneau Calques.
+title: "AiLayerSection.Name"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "AiLayerSection propriété. Obtient ou définit le nom du calque. Spécifie le nom de l'élément tel qu'il apparaît dans le panneau Calques"
 type: docs
-weight: 110
+weight: 130
 url: /fr/net/aspose.psd.fileformats.ai/ailayersection/name/
 ---
+{{< psd/tize >}}
 ## AiLayerSection.Name property
 
 Obtient ou définit le nom du calque. Spécifie le nom de l'élément tel qu'il apparaît dans le panneau Calques.
@@ -14,13 +15,13 @@ Obtient ou définit le nom du calque. Spécifie le nom de l'élément tel qu'il 
 public string Name { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
-Le nom du calque.
+Le nom de la couche.
 
-### Exemples
+## Exemples
 
-L'exemple suivant illustre la prise en charge des calques dans les fichiers au format AI.
+L'exemple suivant montre la prise en charge des calques dans les fichiers au format AI.
 
 ```csharp
 [C#]
@@ -70,10 +71,10 @@ using (AiImage image = (AiImage)Image.Load(sourceFilePath))
 }
 ```
 
-### Voir également
+### Voir aussi
 
 * class [AiLayerSection](../)
-* espace de noms [Aspose.PSD.FileFormats.Ai](../../ailayersection/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

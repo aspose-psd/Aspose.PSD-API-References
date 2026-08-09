@@ -1,11 +1,12 @@
 ---
-title: StrokeEffect.FillSettings
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: StrokeEffect propriété. Obtient ou définit les paramètres de remplissage.
+title: "StrokeEffect.FillSettings"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété StrokeEffect. Obtient ou définit les paramètres de remplissage"
 type: docs
 weight: 30
 url: /fr/net/aspose.psd.fileformats.psd.layers.layereffects/strokeeffect/fillsettings/
 ---
+{{< psd/tize >}}
 ## StrokeEffect.FillSettings property
 
 Obtient ou définit les paramètres de remplissage.
@@ -14,15 +15,15 @@ Obtient ou définit les paramètres de remplissage.
 public BaseFillSettings FillSettings { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
 Les paramètres de remplissage.
 
-### Voir également
+### Voir aussi
 
 * class [BaseFillSettings](../../../aspose.psd.fileformats.psd.layers.fillsettings/basefillsettings/)
 * class [StrokeEffect](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../strokeeffect/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../../)
 
 

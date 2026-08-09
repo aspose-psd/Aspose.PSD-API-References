@@ -1,31 +1,32 @@
 ---
-title: TiffStreamReader.ReadSShort
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: TiffStreamReader méthode. Lire la valeur courte signée du flux.
+title: "TiffStreamReader.ReadSShort"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Méthode TiffStreamReader. Lit une valeur courte signée depuis le flux"
 type: docs
 weight: 170
 url: /fr/net/aspose.psd.fileformats.tiff.filemanagement/tiffstreamreader/readsshort/
 ---
+{{< psd/tize >}}
 ## TiffStreamReader.ReadSShort method
 
-Lire la valeur courte signée du flux.
+Lit une valeur courte signée depuis le flux.
 
 ```csharp
 public short ReadSShort(long position)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
-| position | Int64 | La position à partir de laquelle lire. |
+| position | Int64 | La position à lire. |
 
-### Return_Value
+### Valeur de retour
 
 Une valeur courte signée.
 
-### Voir également
+### Voir aussi
 
 * class [TiffStreamReader](../)
-* espace de noms [Aspose.PSD.FileFormats.Tiff.FileManagement](../../tiffstreamreader/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff.FileManagement](../../../aspose.psd.fileformats.tiff.filemanagement/)
+* assembly [Aspose.PSD](../../../)
 
 

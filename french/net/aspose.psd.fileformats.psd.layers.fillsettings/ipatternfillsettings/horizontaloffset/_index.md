@@ -1,11 +1,12 @@
 ---
-title: IPatternFillSettings.HorizontalOffset
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: IPatternFillSettings propriété. Obtient ou définit le décalage horizontal.
+title: "IPatternFillSettings.HorizontalOffset"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété IPatternFillSettings. Obtient ou définit le décalage horizontal"
 type: docs
-weight: 10
+weight: 20
 url: /fr/net/aspose.psd.fileformats.psd.layers.fillsettings/ipatternfillsettings/horizontaloffset/
 ---
+{{< psd/tize >}}
 ## IPatternFillSettings.HorizontalOffset property
 
 Obtient ou définit le décalage horizontal.
@@ -14,14 +15,14 @@ Obtient ou définit le décalage horizontal.
 public int HorizontalOffset { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
 Le décalage horizontal.
 
-### Voir également
+### Voir aussi
 
 * interface [IPatternFillSettings](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../ipatternfillsettings/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../../)
 
 

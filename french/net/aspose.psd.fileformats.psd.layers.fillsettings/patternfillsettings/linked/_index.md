@@ -1,26 +1,27 @@
 ---
-title: PatternFillSettings.Linked
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: PatternFillSettings propriété. Obtient ou définit une valeur indiquant si cettePatternFillSettingsest lié.
+title: "PatternFillSettings.Linked"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété PatternFillSettings. Obtient ou définit une valeur indiquant si ce PatternFillSettings est lié"
 type: docs
-weight: 50
+weight: 70
 url: /fr/net/aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings/linked/
 ---
+{{< psd/tize >}}
 ## PatternFillSettings.Linked property
 
-Obtient ou définit une valeur indiquant si cette[`PatternFillSettings`](../)est lié.
+Obtient ou définit une valeur indiquant si ce [`PatternFillSettings`](../) est lié.
 
 ```csharp
 public bool Linked { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
-`vrai` si lié ; sinon,`FAUX` .
+`true` si lié ; sinon, `false`.
 
-### Exemples
+## Exemples
 
-Le code suivant illustre la prise en charge de la modification du motif de calque de remplissage.
+Le code suivant montre la prise en charge de l'édition du motif de calque de remplissage.
 
 ```csharp
 [C#]
@@ -52,7 +53,7 @@ using (im)
                 throw new Exception("PSD Image was read wrong");
             }
 
-            // Édition 
+            // Modification 
             fillSettings.Scale = 300;
             fillSettings.HorizontalOffset = 2;
             fillSettings.VerticalOffset = -20;
@@ -75,10 +76,10 @@ using (im)
 }
 ```
 
-### Voir également
+### Voir aussi
 
 * class [PatternFillSettings](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../patternfillsettings/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../../)
 
 

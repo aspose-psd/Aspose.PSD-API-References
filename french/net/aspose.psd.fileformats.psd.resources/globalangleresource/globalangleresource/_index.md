@@ -1,23 +1,24 @@
 ---
-title: GlobalAngleResource.GlobalAngleResource
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: GlobalAngleResource constructeur. Default_Constructor
+title: "GlobalAngleResource.GlobalAngleResource"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Constructeur GlobalAngleResource. Le constructeur par défaut"
 type: docs
 weight: 10
 url: /fr/net/aspose.psd.fileformats.psd.resources/globalangleresource/globalangleresource/
 ---
+{{< psd/tize >}}
 ## GlobalAngleResource constructor
 
-Default_Constructor
+Le constructeur par défaut.
 
 ```csharp
 public GlobalAngleResource()
 ```
 
-### Voir également
+### Voir aussi
 
 * class [GlobalAngleResource](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Resources](../../globalangleresource/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

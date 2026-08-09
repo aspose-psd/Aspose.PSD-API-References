@@ -1,11 +1,12 @@
 ---
-title: Image.Create
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: Image méthode. Crée une nouvelle image en utilisant les options de création spécifiées.
+title: "Image.Create"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Méthode Image. Crée une nouvelle image en utilisant les options de création spécifiées"
 type: docs
 weight: 10
 url: /fr/net/aspose.psd/image/create/
 ---
+{{< psd/tize >}}
 ## Image.Create method
 
 Crée une nouvelle image en utilisant les options de création spécifiées.
@@ -14,45 +15,45 @@ Crée une nouvelle image en utilisant les options de création spécifiées.
 public static Image Create(ImageOptionsBase imageOptions, int width, int height)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
 | imageOptions | ImageOptionsBase | Les options d'image. |
-| width | Int32 | La largeur. |
-| height | Int32 | La hauteur. |
+| largeur | Int32 | La largeur. |
+| hauteur | Int32 | La hauteur. |
 
-### Return_Value
+### Valeur de retour
 
 L'image nouvellement créée.
 
-### Exemples
+## Exemples
 
-Cet exemple crée un nouveau fichier Image à un emplacement de disque spécifié par la propriété Source de l'instance PsdOptions. Plusieurs propriétés pour l'instance PsdOptions sont définies avant de créer l'image réelle. Surtout la propriété Source, qui fait référence à l'emplacement réel du disque dans ce cas.
+Cet exemple crée un nouveau fichier Image à un emplacement disque spécifié par la propriété Source de l'instance PsdOptions. Plusieurs propriétés de l'instance PsdOptions sont définies avant la création de l'image réelle. En particulier la propriété Source, qui fait référence à l'emplacement disque réel dans ce cas.
 
 ```csharp
 [C#]
 
-//Créer une instance de PsdOptions et définir ses différentes propriétés
+//Créez une instance de PsdOptions et définissez ses différentes propriétés
 Aspose.PSD.ImageOptions.PsdOptions psdOptions = new Aspose.PSD.ImageOptions.PsdOptions();
 
-//Créer une instance de FileCreateSource et l'affecter comme Source pour l'instance de PsdOptions
-// Le deuxième paramètre booléen détermine si le fichier à créer est temporel ou non
+//Créez une instance de FileCreateSource et assignez‑la comme Source pour l'instance de PsdOptions
+//Le deuxième paramètre booléen détermine si le fichier à créer est temporaire (IsTemporal) ou non
 psdOptions.Source = new Aspose.PSD.Sources.FileCreateSource(@"C:\temp\sample.psd", false);
 
-//Créer une instance de Image et l'initialiser avec une instance de PsdOptions en appelant la méthode Create
+//Créez une instance d'Image et initialisez‑la avec une instance de PsdOptions en appelant la méthode Create
 using (Aspose.PSD.Image image = Aspose.PSD.Image.Create(psdOptions, 500, 500))
 {
-    // faire du traitement d'image
+    //Effectuez un traitement d'image.
 
-    // Enregistrer toutes les modifications
+    // enregistrez toutes les modifications
     image.Save();
 }
 ```
 
-### Voir également
+### Voir aussi
 
 * class [ImageOptionsBase](../../imageoptionsbase/)
 * class [Image](../)
-* espace de noms [Aspose.PSD](../../image/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

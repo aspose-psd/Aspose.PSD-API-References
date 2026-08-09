@@ -1,27 +1,28 @@
 ---
-title: Brush.Opacity
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: Brush propriété. Obtient ou définit lopacité du pinceau. La valeur doit être comprise entre 0 et 1. La valeur 0 signifie que le pinceau est entièrement visible la valeur 1 signifie que le pinceau est entièrement opaque.
+title: "Brush.Opacity"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété Brush. Obtient ou définit l'opacité du pinceau. La valeur doit être comprise entre 0 et 1. Une valeur de 0 signifie que le pinceau est totalement visible, une valeur de 1 signifie que le pinceau est totalement opaque."
 type: docs
 weight: 10
 url: /fr/net/aspose.psd/brush/opacity/
 ---
+{{< psd/tize >}}
 ## Brush.Opacity property
 
-Obtient ou définit l'opacité du pinceau. La valeur doit être comprise entre 0 et 1. La valeur 0 signifie que le pinceau est entièrement visible, la valeur 1 signifie que le pinceau est entièrement opaque.
+Obtient ou définit l'opacité du pinceau. La valeur doit être comprise entre 0 et 1. Une valeur de 0 signifie que le pinceau est entièrement visible, une valeur de 1 signifie que le pinceau est entièrement opaque.
 
 ```csharp
 public float Opacity { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
 La valeur d'opacité du pinceau.
 
-### Voir également
+### Voir aussi
 
 * class [Brush](../)
-* espace de noms [Aspose.PSD](../../brush/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

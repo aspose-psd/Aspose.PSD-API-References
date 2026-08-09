@@ -1,11 +1,12 @@
 ---
-title: Enum LinkDataSourceType
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.LinkDataSourceType énumération. Définit lénumération LinkDataSourceType pour les sources de données dans la ressource de lien PSD.
+title: "Enum LinkDataSourceType"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Aspose.PSD.FileFormats.Psd.Layers.LayerResources.LinkDataSourceType enum. Définit l'énumération LinkDataSourceType pour les sources de données dans la ressource de lien PSD"
 type: docs
-weight: 2700
+weight: 3000
 url: /fr/net/aspose.psd.fileformats.psd.layers.layerresources/linkdatasourcetype/
 ---
+{{< psd/tize >}}
 ## LinkDataSourceType enumeration
 
 Définit l'énumération LinkDataSourceType pour les sources de données dans la ressource de lien PSD.
@@ -16,16 +17,16 @@ public enum LinkDataSourceType
 
 ### Valeurs
 
-| Nom | Évaluer | La description |
+| Nom | Valeur | Description |
 | --- | --- | --- |
 | None | `0` | La ressource de lien vide. |
-| liFD | `1` | Le fichier lié intégré data |
-| liFE | `2` | Le fichier externe lié data |
-| liFA | `3` | L'alias de fichier lié data |
+| liFD | `1` | Les données du fichier lié intégré. |
+| liFE | `2` | Les données du fichier lié externe |
+| liFA | `3` | Les données d'alias du fichier lié |
 
-### Exemples
+## Exemples
 
-Le code suivant illustre la prise en charge de la ressource LnkeResource.
+Le code suivant montre la prise en charge de la ressource LnkeResource.
 
 ```csharp
 [C#]
@@ -220,7 +221,7 @@ void ExampleOfComplexLnkEResourceSupport(string filePath, int length, int length
                         liFeSource.CompId = int.MaxValue;
                     }
 
-                    liFeSource.FullPath = @"file:///C:/Aspose/net/Aspose.Psd/test/testdata/Images/Psd/SmartObjects/rgb8_2x2.png" ;
+                    liFeSource.FullPath = @"file:///C:/Aspose/net/Aspose.Psd/test/testdata/Images/Psd/SmartObjects/rgb8_2x2.png";
                     liFeSource.FileName = "rgb8_2x23.png";
                     liFeSource.ChildDocId = Guid.NewGuid().ToString();
                     liFeSource.Date = DateTime.Now;
@@ -247,9 +248,9 @@ ExampleOfComplexLnkEResourceSupport(
     ComplexLnkEResourceSupportCases);
 ```
 
-### Voir également
+### Voir aussi
 
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
-* Assemblée [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../)
 
 

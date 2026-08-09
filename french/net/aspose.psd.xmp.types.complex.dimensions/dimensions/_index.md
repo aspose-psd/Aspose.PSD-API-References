@@ -1,14 +1,15 @@
 ---
-title: Class Dimensions
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: Aspose.PSD.Xmp.Types.Complex.Dimensions.Dimensions classe. Contenant les dimensions dun objet dessiné.
+title: "Classe Dimensions"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Classe Aspose.PSD.Xmp.Types.Complex.Dimensions.Dimensions. Contient les dimensions d'un objet dessiné"
 type: docs
-weight: 6060
+weight: 6560
 url: /fr/net/aspose.psd.xmp.types.complex.dimensions/dimensions/
 ---
+{{< psd/tize >}}
 ## Dimensions class
 
-Contenant les dimensions d'un objet dessiné.
+Contient les dimensions d'un objet dessiné.
 
 ```csharp
 public sealed class Dimensions : ComplexTypeBase
@@ -16,14 +17,14 @@ public sealed class Dimensions : ComplexTypeBase
 
 ## Constructeurs
 
-| Nom | La description |
+| Nom | Description |
 | --- | --- |
-| [Dimensions](dimensions/#constructor)() | Initialise une nouvelle instance du`Dimensions` classe. |
-| [Dimensions](dimensions/#constructor_1)(float, float) | Initialise une nouvelle instance du`Dimensions` classe. |
+| [Dimensions](dimensions/#constructor)() | Initialise une nouvelle instance de la classe `Dimensions`. |
+| [Dimensions](dimensions/#constructor_1)(float, float) | Initialise une nouvelle instance de la classe `Dimensions`. |
 
 ## Propriétés
 
-| Nom | La description |
+| Nom | Description |
 | --- | --- |
 | [Height](../../aspose.psd.xmp.types.complex.dimensions/dimensions/height/) { get; set; } | Obtient ou définit la hauteur. |
 | [NamespaceUri](../../aspose.psd.xmp.types.complex/complextypebase/namespaceuri/) { get; } | Obtient l'URI de l'espace de noms par défaut. |
@@ -33,14 +34,14 @@ public sealed class Dimensions : ComplexTypeBase
 
 ## Méthodes
 
-| Nom | La description |
+| Nom | Description |
 | --- | --- |
-| override [GetXmpRepresentation](../../aspose.psd.xmp.types.complex.dimensions/dimensions/getxmprepresentation/)() | Obtient la valeur contenue dans la chaîne au format XMP. |
+| override [GetXmpRepresentation](../../aspose.psd.xmp.types.complex.dimensions/dimensions/getxmprepresentation/)() | Obtient la valeur de chaîne contenue au format XMP. |
 
-### Voir également
+### Voir aussi
 
 * class [ComplexTypeBase](../../aspose.psd.xmp.types.complex/complextypebase/)
-* espace de noms [Aspose.PSD.Xmp.Types.Complex.Dimensions](../../aspose.psd.xmp.types.complex.dimensions/)
-* Assemblée [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.Dimensions](../../aspose.psd.xmp.types.complex.dimensions/)
+* assembly [Aspose.PSD](../../)
 
 

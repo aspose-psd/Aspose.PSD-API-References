@@ -1,11 +1,12 @@
 ---
-title: Enum TextRenderingHint
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: Aspose.PSD.TextRenderingHint énumération. Spécifie la qualité du rendu du texte.
+title: "Enum TextRenderingHint"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Aspose.PSD.TextRenderingHint enum. Spécifie la qualité du rendu du texte."
 type: docs
-weight: 5700
+weight: 6200
 url: /fr/net/aspose.psd/textrenderinghint/
 ---
+{{< psd/tize >}}
 ## TextRenderingHint enumeration
 
 Spécifie la qualité du rendu du texte.
@@ -16,18 +17,18 @@ public enum TextRenderingHint
 
 ### Valeurs
 
-| Nom | Évaluer | La description |
+| Nom | Valeur | Description |
 | --- | --- | --- |
-| SystemDefault | `0` | Chaque caractère est dessiné à l'aide de son bitmap de glyphe, avec l'indice de rendu par défaut du système. Le texte sera dessiné en utilisant les paramètres de lissage de police que l'utilisateur a sélectionnés pour le système. |
-| SingleBitPerPixelGridFit | `1` | Chaque caractère est dessiné en utilisant son bitmap de glyphe. Les conseils sont utilisés pour améliorer l'apparence des caractères sur les tiges et la courbure. |
-| SingleBitPerPixel | `2` | Chaque caractère est dessiné en utilisant son bitmap de glyphe. L'indice n'est pas utilisé. |
-| AntiAliasGridFit | `3` | Chaque caractère est dessiné à l'aide de son bitmap de glyphe anticrénelé avec indice. Bien meilleure qualité grâce à l'anticrénelage, mais à un coût de performance plus élevé. |
-| AntiAlias | `4` | Chaque caractère est dessiné en utilisant son bitmap de glyphe anticrénelé sans indice. Meilleure qualité grâce à l'anticrénelage. Les différences de largeur de tige peuvent être perceptibles car l'indication est désactivée. |
-| ClearTypeGridFit | `5` | Chaque caractère est dessiné à l'aide de son bitmap ClearType de glyphe avec allusion. Le réglage de la plus haute qualité. Utilisé pour tirer parti des fonctionnalités de police ClearType. |
+| SystemDefault | `0` | Chaque caractère est dessiné en utilisant son bitmap de glyphe, avec l'indice de rendu par défaut du système. Le texte sera dessiné en fonction des paramètres de lissage des polices que l'utilisateur a sélectionnés pour le système. |
+| SingleBitPerPixelGridFit | `1` | Chaque caractère est dessiné en utilisant son bitmap de glyphe. Hinting est utilisé pour améliorer l'apparence des caractères sur les tiges et les courbures. |
+| SingleBitPerPixel | `2` | Chaque caractère est dessiné en utilisant son bitmap de glyphe. Le hinting n'est pas utilisé. |
+| AntiAliasGridFit | `3` | Chaque caractère est dessiné en utilisant son bitmap de glyphe antialiasé avec hinting. Qualité bien meilleure grâce à l'antialiasing, mais à un coût de performance plus élevé. |
+| AntiAlias | `4` | Chaque caractère est dessiné en utilisant son bitmap de glyphe antialiasé sans hinting. Qualité supérieure grâce à l'antialiasing. Les différences de largeur des tiges peuvent être perceptibles car le hinting est désactivé. |
+| ClearTypeGridFit | `5` | Chaque caractère est dessiné en utilisant son bitmap de glyphe ClearType avec hinting. Le réglage de la plus haute qualité. Utilisé pour tirer parti des fonctionnalités de police ClearType. |
 
-### Voir également
+### Voir aussi
 
-* espace de noms [Aspose.PSD](../../aspose.psd/)
-* Assemblée [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

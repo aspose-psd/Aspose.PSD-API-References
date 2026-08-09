@@ -1,27 +1,28 @@
 ---
-title: SmartObjectResource.FrameCount
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: SmartObjectResource propriété. Obtient ou définit le nombre dimages des données de la couche dobjet intelligent dans le fichier PSD.
+title: "SmartObjectResource.FrameCount"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "SmartObjectResource property. Obtient ou définit le nombre d'images des données du calque d'objet dynamique dans le fichier PSD"
 type: docs
 weight: 70
 url: /fr/net/aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/framecount/
 ---
+{{< psd/tize >}}
 ## SmartObjectResource.FrameCount property
 
-Obtient ou définit le nombre d'images des données de la couche d'objet intelligent dans le fichier PSD.
+Obtient ou définit le nombre d'images des données du calque d'objet dynamique dans le fichier PSD.
 
 ```csharp
 public int FrameCount { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
-Le nombre d'images des informations de calque placé.
+Le nombre d'images des informations du calque placé.
 
-### Voir également
+### Voir aussi
 
 * class [SmartObjectResource](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../smartobjectresource/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

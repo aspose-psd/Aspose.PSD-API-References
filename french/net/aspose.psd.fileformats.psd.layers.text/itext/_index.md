@@ -1,14 +1,15 @@
 ---
-title: Interface IText
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: Aspose.PSD.FileFormats.Psd.Layers.Text.IText interface. Interface dédition de texte pour les calques de texte
+title: "Interface IText"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Aspose.PSD.FileFormats.Psd.Layers.Text.IText interface. Interface pour l'édition de texte pour les calques de texte"
 type: docs
-weight: 3510
+weight: 3930
 url: /fr/net/aspose.psd.fileformats.psd.layers.text/itext/
 ---
+{{< psd/tize >}}
 ## IText interface
 
-Interface d'édition de texte pour les calques de texte
+Interface pour l'édition de texte pour les calques de texte
 
 ```csharp
 public interface IText
@@ -16,7 +17,7 @@ public interface IText
 
 ## Propriétés
 
-| Nom | La description |
+| Nom | Description |
 | --- | --- |
 | [Items](../../aspose.psd.fileformats.psd.layers.text/itext/items/) { get; } | Obtient les éléments. |
 | [Text](../../aspose.psd.fileformats.psd.layers.text/itext/text/) { get; } | Obtient le texte. |
@@ -24,18 +25,18 @@ public interface IText
 
 ## Méthodes
 
-| Nom | La description |
+| Nom | Description |
 | --- | --- |
 | [AddPortion](../../aspose.psd.fileformats.psd.layers.text/itext/addportion/)(ITextPortion) | Ajoute la portion de texte à la fin |
-| [InsertPortion](../../aspose.psd.fileformats.psd.layers.text/itext/insertportion/)(ITextPortion, int) | Insère le[`ITextPortion`](../itextportion/) à la position spécifiée |
+| [InsertPortion](../../aspose.psd.fileformats.psd.layers.text/itext/insertportion/)(ITextPortion, int) | Insère le [`ITextPortion`](../itextportion/) à la position spécifiée |
 | [ProducePortion](../../aspose.psd.fileformats.psd.layers.text/itext/produceportion/)() | Produit la nouvelle portion avec les paramètres par défaut |
-| [ProducePortions](../../aspose.psd.fileformats.psd.layers.text/itext/produceportions/)(string[], ITextStyle, ITextParagraph) | Produit les nouvelles portions avec des paramètres d'entrée ou par défaut. |
-| [RemovePortion](../../aspose.psd.fileformats.psd.layers.text/itext/removeportion/)(int) | Supprime la partie dans l'index spécifié |
-| [UpdateLayerData](../../aspose.psd.fileformats.psd.layers.text/itext/updatelayerdata/)() | Met à jour les données de la couche. |
+| [ProducePortions](../../aspose.psd.fileformats.psd.layers.text/itext/produceportions/)(string[], ITextStyle, ITextParagraph) | Produit les nouvelles portions avec les paramètres d'entrée ou par défaut. |
+| [RemovePortion](../../aspose.psd.fileformats.psd.layers.text/itext/removeportion/)(int) | Supprime la portion à l'index spécifié |
+| [UpdateLayerData](../../aspose.psd.fileformats.psd.layers.text/itext/updatelayerdata/)() | Met à jour les données du calque. |
 
-### Exemples
+## Exemples
 
-L'exemple de code suivant illustre la modification de portions de texte et leur style de texte.
+L'exemple de code suivant montre l'édition des portions de texte et leur style de texte.
 
 ```csharp
 [C#]
@@ -102,7 +103,7 @@ using (var im = (PsdImage)Image.Load(filePath))
                     Math.Abs(paragraph.LetterSpacing[0]) > Tolerance ||
                     Math.Abs(paragraph.LetterSpacing[1]) > Tolerance ||
                     Math.Abs(paragraph.LetterSpacing[2]) > Tolerance ||
-                    paragraph.LeadingType != LeadingMode.Auto ||
+                    paragraph.LeadingType != LeadingType.BottomToBottom ||
                     paragraph.PreHyphen != 2 ||
                     paragraph.PostHyphen != 2 ||
                     Math.Abs(paragraph.SpaceBefore) > Tolerance ||
@@ -118,7 +119,7 @@ using (var im = (PsdImage)Image.Load(filePath))
             }
 
             // Vérification des données de style
-            // Les styles ont des couleurs et des tailles de police différentes
+            // Les styles ont des couleurs et une taille de police différentes
             if (Math.Abs(portions[0].Style.FontSize - 12) > Tolerance ||
                 Math.Abs(portions[1].Style.FontSize - 12) > Tolerance ||
                 Math.Abs(portions[2].Style.FontSize - 12) > Tolerance ||
@@ -165,18 +166,18 @@ using (var im = (PsdImage)Image.Load(filePath))
 
             portions = layer.TextData.Items;
 
-            // Exemple d'édition de paragraphe et de style pour les portions
+            // Exemple d'édition de paragraphes et de styles pour les portions
             // Définir la justification à droite
             portions[0].Paragraph.Justification = JustificationMode.Right;
             portions[1].Paragraph.Justification = JustificationMode.Right;
             portions[2].Paragraph.Justification = JustificationMode.Right;
 
-            // Différentes couleurs pour chaque style. Le sera modifié, mais le rendu n'est pas entièrement pris en charge
+            // Différentes couleurs pour chaque style. Elles seront modifiées, mais le rendu n'est pas entièrement pris en charge
             portions[0].Style.FillColor = Color.Aquamarine;
             portions[1].Style.FillColor = Color.Violet;
             portions[2].Style.FillColor = Color.LightBlue;
 
-            // Police différente. Le sera modifié, mais le rendu n'est pas entièrement pris en charge
+            // Police différente. Elle sera modifiée, mais le rendu n'est pas entièrement pris en charge
             portions[0].Style.FontSize = 6;
             portions[1].Style.FontSize = 8;
             portions[2].Style.FontSize = 10;
@@ -191,9 +192,9 @@ using (var im = (PsdImage)Image.Load(filePath))
 }
 ```
 
-### Voir également
+### Voir aussi
 
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.Text](../../aspose.psd.fileformats.psd.layers.text/)
-* Assemblée [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.Text](../../aspose.psd.fileformats.psd.layers.text/)
+* assembly [Aspose.PSD](../../)
 
 

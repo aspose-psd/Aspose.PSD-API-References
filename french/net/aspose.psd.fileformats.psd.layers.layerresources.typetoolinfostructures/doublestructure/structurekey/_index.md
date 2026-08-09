@@ -1,11 +1,12 @@
 ---
-title: DoubleStructure.StructureKey
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: DoubleStructure champ. Identifie la clé de structure.
+title: "DoubleStructure.StructureKey"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Champ DoubleStructure. Identifie la clé de structure"
 type: docs
 weight: 50
 url: /fr/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/doublestructure/structurekey/
 ---
+{{< psd/tize >}}
 ## DoubleStructure.StructureKey field
 
 Identifie la clé de structure.
@@ -14,10 +15,10 @@ Identifie la clé de structure.
 public const int StructureKey;
 ```
 
-### Voir également
+### Voir aussi
 
 * class [DoubleStructure](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../doublestructure/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 

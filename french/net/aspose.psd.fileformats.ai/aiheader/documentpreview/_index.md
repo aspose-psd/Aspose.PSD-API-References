@@ -1,11 +1,12 @@
 ---
-title: AiHeader.DocumentPreview
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: AiHeader propriété. Obtient ou définit laperçu du document.
+title: "AiHeader.DocumentPreview"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété AiHeader. Obtient ou définit l’aperçu du document"
 type: docs
 weight: 50
 url: /fr/net/aspose.psd.fileformats.ai/aiheader/documentpreview/
 ---
+{{< psd/tize >}}
 ## AiHeader.DocumentPreview property
 
 Obtient ou définit l'aperçu du document.
@@ -14,14 +15,14 @@ Obtient ou définit l'aperçu du document.
 public string DocumentPreview { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
-L'aperçu du document.
+L’aperçu du document.
 
-### Voir également
+### Voir aussi
 
 * class [AiHeader](../)
-* espace de noms [Aspose.PSD.FileFormats.Ai](../../aiheader/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

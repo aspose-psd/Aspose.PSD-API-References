@@ -1,11 +1,12 @@
 ---
-title: RasterCachedImage.Grayscale
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: RasterCachedImage méthode. Transformation dune image en sa représentation en niveaux de gris
+title: "RasterCachedImage.Grayscale"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "RasterCachedImage method. Transformation d'une image en sa représentation en niveaux de gris"
 type: docs
 weight: 110
 url: /fr/net/aspose.psd/rastercachedimage/grayscale/
 ---
+{{< psd/tize >}}
 ## RasterCachedImage.Grayscale method
 
 Transformation d'une image en sa représentation en niveaux de gris
@@ -14,10 +15,10 @@ Transformation d'une image en sa représentation en niveaux de gris
 public override void Grayscale()
 ```
 
-### Voir également
+### Voir aussi
 
 * class [RasterCachedImage](../)
-* espace de noms [Aspose.PSD](../../rastercachedimage/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

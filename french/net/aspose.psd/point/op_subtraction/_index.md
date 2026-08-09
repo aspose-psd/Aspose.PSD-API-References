@@ -1,33 +1,34 @@
 ---
-title: Point.op_Subtraction
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: Point méthode. Traduit unPoint par le négatif dune donnéeSize .
+title: "Point.op_Subtraction"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Méthode Point. Déplace un Point par le négatif d'un Size donné."
 type: docs
 weight: 200
 url: /fr/net/aspose.psd/point/op_subtraction/
 ---
+{{< psd/tize >}}
 ## Point Subtraction operator
 
-Traduit un[`Point`](../) par le négatif d'une donnée[`Size`](../../size/) .
+Déplace un [`Point`](../) par le négatif d'un [`Size`](../../size/) donné.
 
 ```csharp
 public static Point operator -(Point point, Size size)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
-| point | Point | Le[`Point`](../) traduire. |
-| size | Size | UN[`Size`](../../size/) qui spécifie la paire de nombres à soustraire des coordonnées de*point*. |
+| point | Point | Le [`Point`](../) à déplacer. |
+| size | Size | Un [`Size`](../../size/) qui spécifie la paire de nombres à soustraire des coordonnées de *point*. |
 
-### Return_Value
+### Valeur de retour
 
-UN[`Point`](../) structure qui se traduit par le négatif d'une donnée[`Size`](../../size/) structure.
+Une structure [`Point`](../) qui est déplacée par le négatif d'une structure [`Size`](../../size/) donnée.
 
-### Voir également
+### Voir aussi
 
 * struct [Size](../../size/)
 * struct [Point](../)
-* espace de noms [Aspose.PSD](../../point/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

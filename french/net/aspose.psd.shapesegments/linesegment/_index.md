@@ -1,11 +1,12 @@
 ---
-title: Class LineSegment
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: Aspose.PSD.ShapeSegments.LineSegment classe. Représente un segment menant directement dun point spécifique au point suivant.
+title: "Classe LineSegment"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Classe Aspose.PSD.ShapeSegments.LineSegment. Représente un segment menant directement d'un point spécifique au point suivant"
 type: docs
-weight: 5450
+weight: 5950
 url: /fr/net/aspose.psd.shapesegments/linesegment/
 ---
+{{< psd/tize >}}
 ## LineSegment class
 
 Représente un segment menant directement d'un point spécifique au point suivant.
@@ -16,21 +17,21 @@ public class LineSegment : ShapeSegment
 
 ## Constructeurs
 
-| Nom | La description |
+| Nom | Description |
 | --- | --- |
-| [LineSegment](linesegment/)(PointF, PointF) | Initialise une nouvelle instance du`LineSegment` classe. |
+| [LineSegment](linesegment/)(PointF, PointF) | Initialise une nouvelle instance de la classe `LineSegment`. |
 
 ## Propriétés
 
-| Nom | La description |
+| Nom | Description |
 | --- | --- |
-| override [EndPoint](../../aspose.psd.shapesegments/linesegment/endpoint/) { get; } | Obtient le point de fin. |
+| override [EndPoint](../../aspose.psd.shapesegments/linesegment/endpoint/) { get; } | Obtient le point final. |
 | override [StartPoint](../../aspose.psd.shapesegments/linesegment/startpoint/) { get; } | Obtient le point de départ. |
 
-### Voir également
+### Voir aussi
 
 * class [ShapeSegment](../../aspose.psd/shapesegment/)
-* espace de noms [Aspose.PSD.ShapeSegments](../../aspose.psd.shapesegments/)
-* Assemblée [Aspose.PSD](../../)
+* namespace [Aspose.PSD.ShapeSegments](../../aspose.psd.shapesegments/)
+* assembly [Aspose.PSD](../../)
 
 

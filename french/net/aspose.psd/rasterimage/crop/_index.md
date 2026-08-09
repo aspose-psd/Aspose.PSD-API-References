@@ -1,31 +1,32 @@
 ---
-title: RasterImage.Crop
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: RasterImage méthode. Rogne le rectangle spécifié.
+title: "RasterImage.Crop"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Méthode RasterImage. Rogne le rectangle spécifié"
 type: docs
 weight: 240
 url: /fr/net/aspose.psd/rasterimage/crop/
 ---
+{{< psd/tize >}}
 ## Crop(Rectangle) {#crop}
 
-Rogne le rectangle spécifié.
+Recadre le rectangle spécifié.
 
 ```csharp
 public virtual void Crop(Rectangle rectangle)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
 | rectangle | Rectangle | Le rectangle. |
 
-### Exemples
+## Exemples
 
-L'exemple de code suivant montre comment recadrer une image et l'enregistrer.
+L'exemple de code suivant montre comment rogner une image et l'enregistrer.
 
 ```csharp
 [C#]
 
-// Implémenter la méthode Crop correcte pour les fichiers PSD.
+// Implémentez la méthode Crop correcte pour les fichiers PSD.
 string sourceFileName = "1.psd";
 string exportPathPsd = "CropTest.psd";
 string exportPathPng = "CropTest.png";
@@ -37,12 +38,12 @@ using (RasterImage image = Image.Load(sourceFileName) as RasterImage)
 }
 ```
 
-### Voir également
+### Voir aussi
 
 * struct [Rectangle](../../rectangle/)
 * class [RasterImage](../)
-* espace de noms [Aspose.PSD](../../rasterimage/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
@@ -54,17 +55,17 @@ Recadrer l'image avec des décalages.
 public virtual void Crop(int leftShift, int rightShift, int topShift, int bottomShift)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
 | leftShift | Int32 | Le décalage à gauche. |
-| rightShift | Int32 | Le virage à droite. |
-| topShift | Int32 | Le changement supérieur. |
-| bottomShift | Int32 | Le décalage du bas. |
+| rightShift | Int32 | Le décalage à droite. |
+| topShift | Int32 | Le décalage supérieur. |
+| bottomShift | Int32 | Le décalage inférieur. |
 
-### Voir également
+### Voir aussi
 
 * class [RasterImage](../)
-* espace de noms [Aspose.PSD](../../rasterimage/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

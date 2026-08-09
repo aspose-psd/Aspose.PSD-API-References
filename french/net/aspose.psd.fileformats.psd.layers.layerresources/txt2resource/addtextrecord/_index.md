@@ -1,37 +1,38 @@
 ---
-title: Txt2Resource.AddTextRecord
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: Txt2Resource méthode. Ajoute lenregistrement de texte à la ressource et renvoie lID de lenregistrement de texte.
+title: "Txt2Resource.AddTextRecord"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Méthode Txt2Resource. Ajoute l'enregistrement texte à la ressource et renvoie l'identifiant de l'enregistrement texte"
 type: docs
-weight: 70
+weight: 40
 url: /fr/net/aspose.psd.fileformats.psd.layers.layerresources/txt2resource/addtextrecord/
 ---
+{{< psd/tize >}}
 ## Txt2Resource.AddTextRecord method
 
-Ajoute l'enregistrement de texte à la ressource et renvoie l'ID de l'enregistrement de texte.
+Ajoute l'enregistrement texte à la Ressource et renvoie l'identifiant de l'enregistrement texte.
 
 ```csharp
 public int AddTextRecord(string text, RectangleF bounds)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
-| text | String | Le texte de l'enregistrement. |
-| bounds | RectangleF | Les bornes. |
+| texte | String | Le texte de l'enregistrement. |
+| limites | RectangleF | Les limites. |
 
-### Return_Value
+### Valeur de retour
 
-Renvoie l'ID de l'enregistrement de texte pour la ressource
+Renvoie l'Id de l'enregistrement texte pour la ressource
 
 ### Exceptions
 
 | exception | condition |
 | --- | --- |
-| [PsdImageException](../../../aspose.psd.coreexceptions.imageformats/psdimageexception/) | Version de ressource Txt2 inconnue. |
+| [PsdImageException](../../../aspose.psd.coreexceptions.imageformats/psdimageexception/) | Version inconnue de Txt2 Resource. |
 
-### Exemples
+## Exemples
 
-Le code suivant illustre la prise en charge de la prise en charge des nouvelles propriétés ITextStyle.
+Le code suivant démontre la prise en charge de la prise en charge des nouvelles propriétés ITextStyle.
 
 ```csharp
 [C#]
@@ -83,11 +84,11 @@ using (var srcImage = (PsdImage)Image.Load(srcFile))
 }
 ```
 
-### Voir également
+### Voir aussi
 
 * struct [RectangleF](../../../aspose.psd/rectanglef/)
 * class [Txt2Resource](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../txt2resource/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

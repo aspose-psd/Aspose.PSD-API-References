@@ -1,31 +1,32 @@
 ---
-title: Layer.DisplayName
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: Layer propriété. Obtient ou définit le nom daffichage de la couche.
+title: "Layer.DisplayName"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété Layer. Obtient ou définit le nom d’affichage du calque"
 type: docs
-weight: 100
+weight: 110
 url: /fr/net/aspose.psd.fileformats.psd.layers/layer/displayname/
 ---
+{{< psd/tize >}}
 ## Layer.DisplayName property
 
-Obtient ou définit le nom d'affichage de la couche.
+Obtient ou définit le nom d'affichage du calque.
 
 ```csharp
 public string DisplayName { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
-Le nom d'affichage de la couche.
+Le nom d’affichage du calque.
 
-### Exemples
+## Exemples
 
-L'exemple suivant montre la possibilité de définir la valeur DisplayName, dans laquelle le nom de la couche s'affiche correctement.
+L’exemple suivant montre la capacité de définir la valeur DisplayName, afin que le nom du calque s’affiche correctement.
 
 ```csharp
 [C#]
 
-// apportez des modifications aux noms de couches et enregistrez-les
+// apportez des modifications aux noms des calques et enregistrez-le
 string sourceFileName = "layers with names.psd";
 string output = "output.psd";
 
@@ -34,7 +35,7 @@ using (var image = (PsdImage)Image.Load(sourceFileName))
     for (int i = 0; i < image.Layers.Length; i++)
     {
         var layer = image.Layers[i];
-        // définit une nouvelle valeur dans la propriété DisplayName
+        // définir une nouvelle valeur dans la propriété DisplayName
         layer.DisplayName += "_changed";
     }
 
@@ -42,10 +43,10 @@ using (var image = (PsdImage)Image.Load(sourceFileName))
 }
 ```
 
-### Voir également
+### Voir aussi
 
 * class [Layer](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers](../../layer/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

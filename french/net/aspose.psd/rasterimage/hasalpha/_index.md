@@ -1,27 +1,28 @@
 ---
-title: RasterImage.HasAlpha
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: RasterImage propriété. Obtient une valeur indiquant si cette instance a alpha.
+title: "RasterImage.HasAlpha"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété RasterImage. Obtient une valeur indiquant si cette instance possède un canal alpha"
 type: docs
 weight: 10
 url: /fr/net/aspose.psd/rasterimage/hasalpha/
 ---
+{{< psd/tize >}}
 ## RasterImage.HasAlpha property
 
-Obtient une valeur indiquant si cette instance a alpha.
+Obtient une valeur indiquant si cette instance possède un canal alpha.
 
 ```csharp
 public virtual bool HasAlpha { get; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
-`vrai` si cette instance a alpha ; sinon,`FAUX` .
+`true` si cette instance possède un canal alpha ; sinon, `false`.
 
-### Voir également
+### Voir aussi
 
 * class [RasterImage](../)
-* espace de noms [Aspose.PSD](../../rasterimage/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

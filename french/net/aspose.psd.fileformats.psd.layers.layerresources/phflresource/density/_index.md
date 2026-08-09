@@ -1,11 +1,12 @@
 ---
-title: PhflResource.Density
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: PhflResource propriété. Obtient ou définit la densité.
+title: "PhflResource.Density"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété PhflResource. Obtient ou définit la densité"
 type: docs
 weight: 10
 url: /fr/net/aspose.psd.fileformats.psd.layers.layerresources/phflresource/density/
 ---
+{{< psd/tize >}}
 ## PhflResource.Density property
 
 Obtient ou définit la densité.
@@ -14,14 +15,14 @@ Obtient ou définit la densité.
 public int Density { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
 La densité.
 
-### Voir également
+### Voir aussi
 
 * class [PhflResource](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../phflresource/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

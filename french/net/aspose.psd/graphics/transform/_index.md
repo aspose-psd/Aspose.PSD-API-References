@@ -1,28 +1,29 @@
 ---
-title: Graphics.Transform
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: Graphics propriété. Obtient ou définit une copie de la transformation du monde géométrique pour ceGraphics .
+title: "Graphics.Transform"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété Graphics. Obtient ou définit une copie de la transformation géométrique du monde pour ce Graphics"
 type: docs
-weight: 130
+weight: 140
 url: /fr/net/aspose.psd/graphics/transform/
 ---
+{{< psd/tize >}}
 ## Graphics.Transform property
 
-Obtient ou définit une copie de la transformation du monde géométrique pour ce[`Graphics`](../) .
+Obtient ou définit une copie de la transformation géométrique du monde pour ce [`Graphics`](../).
 
 ```csharp
 public Matrix Transform { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
-Une copie du[`Matrix`](../../matrix/) qui représente la transformation du monde géométrique pour ce[`Graphics`](../) .
+Une copie du [`Matrix`](../../matrix/) qui représente la transformation géométrique du monde pour ce [`Graphics`](../).
 
-### Voir également
+### Voir aussi
 
 * class [Matrix](../../matrix/)
 * class [Graphics](../)
-* espace de noms [Aspose.PSD](../../graphics/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

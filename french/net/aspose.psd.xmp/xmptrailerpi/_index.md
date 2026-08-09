@@ -1,14 +1,15 @@
 ---
-title: Class XmpTrailerPi
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: Aspose.PSD.Xmp.XmpTrailerPi classe. Représente linstruction de traitement de fin XMP.
+title: "Classe XmpTrailerPi"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Classe Aspose.PSD.Xmp.XmpTrailerPi. Représente l’instruction de traitement du trailer XMP"
 type: docs
-weight: 6310
+weight: 6810
 url: /fr/net/aspose.psd.xmp/xmptrailerpi/
 ---
+{{< psd/tize >}}
 ## XmpTrailerPi class
 
-Représente l'instruction de traitement de fin XMP.
+Représente l'instruction de traitement du trailer XMP.
 
 ```csharp
 public sealed class XmpTrailerPi : IEquatable<XmpTrailerPi>, IXmlValue
@@ -16,38 +17,38 @@ public sealed class XmpTrailerPi : IEquatable<XmpTrailerPi>, IXmlValue
 
 ## Constructeurs
 
-| Nom | La description |
+| Nom | Description |
 | --- | --- |
-| [XmpTrailerPi](xmptrailerpi/#constructor)() | Initialise une nouvelle instance du`XmpTrailerPi` classe. |
-| [XmpTrailerPi](xmptrailerpi/#constructor_1)(bool) | Initialise une nouvelle instance du`XmpTrailerPi` classe. |
+| [XmpTrailerPi](xmptrailerpi/#constructor)() | Initialise une nouvelle instance de la classe `XmpTrailerPi`. |
+| [XmpTrailerPi](xmptrailerpi/#constructor_1)(bool) | Initialise une nouvelle instance de la classe `XmpTrailerPi`. |
 
 ## Propriétés
 
-| Nom | La description |
+| Nom | Description |
 | --- | --- |
-| [IsWritable](../../aspose.psd.xmp/xmptrailerpi/iswritable/) { get; set; } | Obtient ou définit une valeur indiquant si cette instance est accessible en écriture. |
+| [IsWritable](../../aspose.psd.xmp/xmptrailerpi/iswritable/) { get; set; } | Obtient ou définit une valeur indiquant si cette instance est modifiable. |
 
 ## Méthodes
 
-| Nom | La description |
+| Nom | Description |
 | --- | --- |
-| override [Equals](../../aspose.psd.xmp/xmptrailerpi/equals/#equals_1)(object) | Détermine si la valeur spécifiéeObject , est égal à cette instance. |
-| [Equals](../../aspose.psd.xmp/xmptrailerpi/equals/#equals)(XmpTrailerPi) | Indique si l'objet courant est égal à un autre objet du même type. |
+| override [Equals](../../aspose.psd.xmp/xmptrailerpi/equals/#equals_1)(object) | Détermine si l'objet spécifié est égal à cette instance. |
+| [Equals](../../aspose.psd.xmp/xmptrailerpi/equals/#equals)(XmpTrailerPi) | Indique si l'objet actuel est égal à un autre objet du même type. |
 | override [GetHashCode](../../aspose.psd.xmp/xmptrailerpi/gethashcode/)() | Renvoie un code de hachage pour cette instance. |
 | [GetXmlValue](../../aspose.psd.xmp/xmptrailerpi/getxmlvalue/)() | Convertit la valeur xmp en représentation xml. |
 
-### Remarques
+## Remarques
 
-La partie end="w" ou end="r" doit être utilisée par les processeurs d'analyse de paquets pour déterminer si le XMP peut être modifié sur place.
+La portion end=\"w\" ou end=\"r\" doit être utilisée par les processeurs d’analyse de paquets pour déterminer si le XMP peut être modifié sur place.
 
-### Exemples
+## Exemples
 
-Formes autorisées de la remorque PI :
+Formes autorisées du PI du trailer :
 
-### Voir également
+### Voir aussi
 
 * interface [IXmlValue](../ixmlvalue/)
-* espace de noms [Aspose.PSD.Xmp](../../aspose.psd.xmp/)
-* Assemblée [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Xmp](../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../)
 
 

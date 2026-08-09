@@ -1,11 +1,12 @@
 ---
-title: PhotoshopPackage.SetCreatedDate
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: PhotoshopPackage méthode. Définit la date de création.
+title: "PhotoshopPackage.SetCreatedDate"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "PhotoshopPackage méthode. Définit la date de création"
 type: docs
 weight: 90
 url: /fr/net/aspose.psd.xmp.schemas.photoshop/photoshoppackage/setcreateddate/
 ---
+{{< psd/tize >}}
 ## PhotoshopPackage.SetCreatedDate method
 
 Définit la date de création.
@@ -14,14 +15,14 @@ Définit la date de création.
 public void SetCreatedDate(DateTime createdDate)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
 | createdDate | DateTime | La date de création. |
 
-### Voir également
+### Voir aussi
 
 * class [PhotoshopPackage](../)
-* espace de noms [Aspose.PSD.Xmp.Schemas.Photoshop](../../photoshoppackage/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.Photoshop](../../../aspose.psd.xmp.schemas.photoshop/)
+* assembly [Aspose.PSD](../../../)
 
 

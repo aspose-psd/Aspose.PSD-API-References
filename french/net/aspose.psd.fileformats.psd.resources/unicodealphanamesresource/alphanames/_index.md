@@ -1,11 +1,12 @@
 ---
-title: UnicodeAlphaNamesResource.AlphaNames
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: UnicodeAlphaNamesResource propriété. Obtient ou définit les noms alpha.
+title: "UnicodeAlphaNamesResource.AlphaNames"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "UnicodeAlphaNamesResource propriété. Obtient ou définit les noms alpha"
 type: docs
 weight: 20
 url: /fr/net/aspose.psd.fileformats.psd.resources/unicodealphanamesresource/alphanames/
 ---
+{{< psd/tize >}}
 ## UnicodeAlphaNamesResource.AlphaNames property
 
 Obtient ou définit les noms alpha.
@@ -14,14 +15,14 @@ Obtient ou définit les noms alpha.
 public string AlphaNames { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
 Les noms alpha.
 
-### Voir également
+### Voir aussi
 
 * class [UnicodeAlphaNamesResource](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Resources](../../unicodealphanamesresource/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

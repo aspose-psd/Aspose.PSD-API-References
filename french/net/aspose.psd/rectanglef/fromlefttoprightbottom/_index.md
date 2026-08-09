@@ -1,34 +1,35 @@
 ---
-title: RectangleF.FromLeftTopRightBottom
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: RectangleF méthode. Crée unRectangleF structure avec coin supérieur gauche et coin inférieur droit aux emplacements spécifiés.
+title: "RectangleF.FromLeftTopRightBottom"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Méthode RectangleF. Crée une structure RectangleF avec le coin supérieur gauche et le coin inférieur droit aux emplacements spécifiés."
 type: docs
 weight: 30
 url: /fr/net/aspose.psd/rectanglef/fromlefttoprightbottom/
 ---
+{{< psd/tize >}}
 ## RectangleF.FromLeftTopRightBottom method
 
-Crée un[`RectangleF`](../) structure avec coin supérieur gauche et coin inférieur droit aux emplacements spécifiés.
+Crée une structure [`RectangleF`](../) avec le coin supérieur gauche et le coin inférieur droit aux emplacements spécifiés.
 
 ```csharp
 public static RectangleF FromLeftTopRightBottom(float left, float top, float right, float bottom)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
-| left | Single | Coordonnée x du coin supérieur gauche de la région rectangulaire. |
-| top | Single | Coordonnée y du coin supérieur gauche de la région rectangulaire. |
-| right | Single | Coordonnée x du coin inférieur droit de la région rectangulaire. |
-| bottom | Single | Coordonnée y du coin inférieur droit de la région rectangulaire. |
+| gauche | Single | La coordonnée x du coin supérieur gauche de la région rectangulaire. |
+| haut | Single | La coordonnée y du coin supérieur gauche de la région rectangulaire. |
+| droite | Single | La coordonnée x du coin inférieur droit de la région rectangulaire. |
+| bas | Single | La coordonnée y du coin inférieur droit de la région rectangulaire. |
 
-### Return_Value
+### Valeur de retour
 
-Le nouveau[`RectangleF`](../) que cette méthode crée.
+Le nouveau [`RectangleF`](../) que cette méthode crée.
 
-### Voir également
+### Voir aussi
 
 * struct [RectangleF](../)
-* espace de noms [Aspose.PSD](../../rectanglef/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

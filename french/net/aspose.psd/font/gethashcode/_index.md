@@ -1,27 +1,28 @@
 ---
-title: Font.GetHashCode
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: Font méthode. Obtient le code de hachage pour celaFont .
+title: "Font.GetHashCode"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Méthode Font. Obtient le code de hachage pour ce Font"
 type: docs
 weight: 130
 url: /fr/net/aspose.psd/font/gethashcode/
 ---
+{{< psd/tize >}}
 ## Font.GetHashCode method
 
-Obtient le code de hachage pour cela[`Font`](../) .
+Obtient le code de hachage pour ce [`Font`](../).
 
 ```csharp
 public override int GetHashCode()
 ```
 
-### Return_Value
+### Valeur de retour
 
-Le code de hachage pour cela[`Font`](../).
+Le code de hachage pour ce [`Font`](../).
 
-### Voir également
+### Voir aussi
 
 * class [Font](../)
-* espace de noms [Aspose.PSD](../../font/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

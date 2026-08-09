@@ -1,11 +1,12 @@
 ---
-title: ClassID.Bytes
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: ClassID propriété. Obtient les octets représentant lID de classe.
+title: "ClassID.Bytes"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété ClassID. Obtient les octets représentant l'ID de classe"
 type: docs
 weight: 20
 url: /fr/net/aspose.psd.fileformats.psd.layers.layerresources/classid/bytes/
 ---
+{{< psd/tize >}}
 ## ClassID.Bytes property
 
 Obtient les octets représentant l'ID de classe.
@@ -14,10 +15,10 @@ Obtient les octets représentant l'ID de classe.
 public byte[] Bytes { get; }
 ```
 
-### Voir également
+### Voir aussi
 
 * class [ClassID](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../classid/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: PixelsData.Bounds
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: PixelsData propriété. Obtient ou définit les limites des données de pixels.
+title: "PixelsData.Bounds"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété PixelsData. Obtient ou définit les limites des données de pixels"
 type: docs
 weight: 20
 url: /fr/net/aspose.psd/pixelsdata/bounds/
 ---
+{{< psd/tize >}}
 ## PixelsData.Bounds property
 
 Obtient ou définit les limites des données de pixels.
@@ -14,16 +15,16 @@ Obtient ou définit les limites des données de pixels.
 public Rectangle Bounds { get; set; }
 ```
 
-### Exemples
+## Exemples
 
-Le code suivant vous montre comment créer un filtre intelligent personnalisé avec un rendu personnalisé.
+Le code suivant vous montre comment créer un filtre intelligent personnalisé qui possède un rendu personnalisé.
 
 ```csharp
 [C#]
 
 public void CustomSmartFilterExample(string sourceFile = "psdnet1057.psd", string outputPsd = "out_psdnet1057.psd", string outputPng = "out_psdnet1057.png")
 {
-    // Initialise le filtre intelligent 'Crystallize' non pris en charge au niveau du tableau d'entrée
+    // Initialise le filtre intelligent non pris en charge 'Crystallize' dans le tableau d'entrée
     SmartFilter[] InitUnknownSmartFilters(SmartFilter[] smartFilters)
     {
         // l'ID du filtre intelligent 'Crystallize'.
@@ -52,7 +53,7 @@ public void CustomSmartFilterExample(string sourceFile = "psdnet1057.psd", strin
         smartLayer.SmartFilters.Filters = InitUnknownSmartFilters(smartLayer.SmartFilters.Filters);
         var smartFilter = smartLayer.SmartFilters.Filters[0];
 
-        // Appliquer le filtre au SmartObject
+        // Appliquer le filtre à SmartObject
         smartLayer.UpdateModifiedContent();
         smartLayer.SmartFilters.UpdateResourceValues();
 
@@ -82,9 +83,9 @@ public sealed class CustomSmartFilterWithRenderer : SmartFilter, ISmartFilterRen
 
     public PixelsData Render(PixelsData pixelsData)
     {
-        // récupère la structure du filtre
+        // obtenir la structure du filtre
         var filterDescriptor = (DescriptorStructure) this.SourceDescriptor.Structures[6];
-        // récupère la valeur de Crystallize Size
+        // obtenir la valeur de la taille Crystallize
         var valueStructure = (IntegerStructure) filterDescriptor.Structures[0];
 
         for (int i = 0; i < pixelsData.Pixels.Length; i++)
@@ -100,11 +101,11 @@ public sealed class CustomSmartFilterWithRenderer : SmartFilter, ISmartFilterRen
 }
 ```
 
-### Voir également
+### Voir aussi
 
 * struct [Rectangle](../../rectangle/)
 * class [PixelsData](../)
-* espace de noms [Aspose.PSD](../../pixelsdata/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

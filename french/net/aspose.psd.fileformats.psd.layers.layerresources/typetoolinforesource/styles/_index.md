@@ -1,11 +1,12 @@
 ---
-title: TypeToolInfoResource.Styles
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: TypeToolInfoResource propriété. Obtient ou définit les styles de police.
+title: "TypeToolInfoResource.Styles"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "TypeToolInfoResource property. Obtient ou définit les styles de police"
 type: docs
-weight: 210
+weight: 180
 url: /fr/net/aspose.psd.fileformats.psd.layers.layerresources/typetoolinforesource/styles/
 ---
+{{< psd/tize >}}
 ## TypeToolInfoResource.Styles property
 
 Obtient ou définit les styles de police.
@@ -14,15 +15,15 @@ Obtient ou définit les styles de police.
 public TypeToolStyleInfo[] Styles { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
 Les styles de police.
 
-### Voir également
+### Voir aussi
 
 * class [TypeToolStyleInfo](../../typetoolstyleinfo/)
 * class [TypeToolInfoResource](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../typetoolinforesource/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

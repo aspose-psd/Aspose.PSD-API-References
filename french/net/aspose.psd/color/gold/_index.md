@@ -1,11 +1,12 @@
 ---
-title: Color.Gold
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: Color propriété. Obtient une couleur définie par le système.
+title: "Color.Gold"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété Color. Obtient une couleur définie par le système"
 type: docs
 weight: 500
 url: /fr/net/aspose.psd/color/gold/
 ---
+{{< psd/tize >}}
 ## Color.Gold property
 
 Obtient une couleur définie par le système.
@@ -14,14 +15,14 @@ Obtient une couleur définie par le système.
 public static Color Gold { get; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
-UN[`Color`](../) représentant une couleur définie par le système.
+Un [`Color`](../) représentant une couleur définie par le système.
 
-### Voir également
+### Voir aussi
 
 * struct [Color](../)
-* espace de noms [Aspose.PSD](../../color/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

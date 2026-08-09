@@ -1,27 +1,28 @@
 ---
-title: Thumbnail.GetXmpRepresentation
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: Thumbnail méthode. Obtient la valeur contenue dans la chaîne au format XMP.
+title: "Thumbnail.GetXmpRepresentation"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Méthode Thumbnail. Obtient la valeur de chaîne contenue au format XMP"
 type: docs
 weight: 50
 url: /fr/net/aspose.psd.xmp.types.complex.thumbnail/thumbnail/getxmprepresentation/
 ---
+{{< psd/tize >}}
 ## Thumbnail.GetXmpRepresentation method
 
-Obtient la valeur contenue dans la chaîne au format XMP.
+Obtient la valeur de chaîne contenue au format XMP.
 
 ```csharp
 public override string GetXmpRepresentation()
 ```
 
-### Return_Value
+### Valeur de retour
 
-Renvoie la chaîne contenue dans la valeur au format XMP.
+Renvoie la valeur de chaîne contenue au format XMP.
 
-### Voir également
+### Voir aussi
 
 * class [Thumbnail](../)
-* espace de noms [Aspose.PSD.Xmp.Types.Complex.Thumbnail](../../thumbnail/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.Thumbnail](../../../aspose.psd.xmp.types.complex.thumbnail/)
+* assembly [Aspose.PSD](../../../)
 
 

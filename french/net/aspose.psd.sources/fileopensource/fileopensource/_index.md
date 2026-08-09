@@ -1,27 +1,28 @@
 ---
-title: FileOpenSource.FileOpenSource
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: FileOpenSource constructeur. Initialise une nouvelle instance duFileOpenSource classe.
+title: "FileOpenSource.FileOpenSource"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Constructeur FileOpenSource. Initialise une nouvelle instance de la classe FileOpenSource"
 type: docs
 weight: 10
 url: /fr/net/aspose.psd.sources/fileopensource/fileopensource/
 ---
+{{< psd/tize >}}
 ## FileOpenSource constructor
 
-Initialise une nouvelle instance du[`FileOpenSource`](../) classe.
+Initialise une nouvelle instance de la classe [`FileOpenSource`](../).
 
 ```csharp
 public FileOpenSource(string filePath)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
 | filePath | String | Le chemin du fichier à ouvrir. |
 
-### Voir également
+### Voir aussi
 
 * class [FileOpenSource](../)
-* espace de noms [Aspose.PSD.Sources](../../fileopensource/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Sources](../../../aspose.psd.sources/)
+* assembly [Aspose.PSD](../../../)
 
 

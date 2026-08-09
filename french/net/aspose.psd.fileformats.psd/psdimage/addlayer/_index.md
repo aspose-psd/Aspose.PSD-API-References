@@ -1,11 +1,12 @@
 ---
-title: PsdImage.AddLayer
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: PsdImage méthode. Ajoute le calque.
+title: "PsdImage.AddLayer"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Méthode PsdImage. Ajoute la couche"
 type: docs
-weight: 370
+weight: 390
 url: /fr/net/aspose.psd.fileformats.psd/psdimage/addlayer/
 ---
+{{< psd/tize >}}
 ## PsdImage.AddLayer method
 
 Ajoute le calque.
@@ -14,13 +15,13 @@ Ajoute le calque.
 public void AddLayer(Layer layer)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
-| layer | Layer | La couche. |
+| calque | Calque | Le calque. |
 
-### Exemples
+## Exemples
 
-L'exemple suivant montre comment vous pouvez dessiner sur un calque nouvellement créé si la version du constructeur simple est utilisée dans Aspose.PSD
+L'exemple suivant montre comment vous pouvez dessiner sur une couche nouvellement créée si la version simple du constructeur est utilisée dans Aspose.PSD
 
 ```csharp
 [C#]
@@ -39,21 +40,21 @@ using (var image = new PsdImage(width, height))
     Graphics graphic = new Graphics(layer);
     graphic.Clear(Color.Yellow);
 
-    // dessine un rectangle avec l'outil Plume
+    // dessinez un rectangle avec l'outil Pen
     graphic.DrawRectangle(new Pen(Color.Red), new Rectangle(30, 10, 40, 80));
 
-    // dessine un autre rectangle avec Solid Brush de couleur bleue
+    // dessinez un autre rectangle avec Solid Brush en couleur bleue
     graphic.DrawRectangle(new Pen(new SolidBrush(Color.Blue)), new Rectangle(10, 30, 80, 40));
 
     image.Save(outputFilePath);
 }
 ```
 
-### Voir également
+### Voir aussi
 
 * class [Layer](../../../aspose.psd.fileformats.psd.layers/layer/)
 * class [PsdImage](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

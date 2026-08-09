@@ -1,44 +1,45 @@
 ---
-title: Dimensions.Dimensions
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: Dimensions constructeur. Initialise une nouvelle instance duDimensions classe.
+title: "Dimensions.Dimensions"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Constructeur Dimensions. Initialise une nouvelle instance de la classe Dimensions"
 type: docs
 weight: 10
 url: /fr/net/aspose.psd.xmp.types.complex.dimensions/dimensions/dimensions/
 ---
+{{< psd/tize >}}
 ## Dimensions() {#constructor}
 
-Initialise une nouvelle instance du[`Dimensions`](../) classe.
+Initialise une nouvelle instance de la classe [`Dimensions`](../).
 
 ```csharp
 public Dimensions()
 ```
 
-### Voir également
+### Voir aussi
 
 * class [Dimensions](../)
-* espace de noms [Aspose.PSD.Xmp.Types.Complex.Dimensions](../../dimensions/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.Dimensions](../../../aspose.psd.xmp.types.complex.dimensions/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Dimensions(float, float) {#constructor_1}
 
-Initialise une nouvelle instance du[`Dimensions`](../) classe.
+Initialise une nouvelle instance de la classe [`Dimensions`](../).
 
 ```csharp
 public Dimensions(float width, float height)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
-| width | Single | La largeur. |
-| height | Single | La hauteur. |
+| largeur | Single | La largeur. |
+| hauteur | Single | La hauteur. |
 
-### Voir également
+### Voir aussi
 
 * class [Dimensions](../)
-* espace de noms [Aspose.PSD.Xmp.Types.Complex.Dimensions](../../dimensions/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.Dimensions](../../../aspose.psd.xmp.types.complex.dimensions/)
+* assembly [Aspose.PSD](../../../)
 
 

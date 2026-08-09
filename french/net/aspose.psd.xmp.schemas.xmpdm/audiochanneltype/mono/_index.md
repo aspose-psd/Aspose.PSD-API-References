@@ -1,11 +1,12 @@
 ---
-title: AudioChannelType.Mono
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: AudioChannelType propriété. Obtient le canal audio mono.
+title: "AudioChannelType.Mono"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "AudioChannelType propriété. Obtient le canal audio mono"
 type: docs
 weight: 40
 url: /fr/net/aspose.psd.xmp.schemas.xmpdm/audiochanneltype/mono/
 ---
+{{< psd/tize >}}
 ## AudioChannelType.Mono property
 
 Obtient le canal audio mono.
@@ -14,14 +15,14 @@ Obtient le canal audio mono.
 public static AudioChannelType Mono { get; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
 Le canal audio mono.
 
-### Voir également
+### Voir aussi
 
 * class [AudioChannelType](../)
-* espace de noms [Aspose.PSD.Xmp.Schemas.XmpDm](../../audiochanneltype/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpDm](../../../aspose.psd.xmp.schemas.xmpdm/)
+* assembly [Aspose.PSD](../../../)
 
 

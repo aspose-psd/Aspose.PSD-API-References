@@ -1,11 +1,12 @@
 ---
-title: ResourceEvent.SofwareAgentName
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: ResourceEvent propriété. Obtient ou définit le nom de lagent logiciel.
+title: "ResourceEvent.SofwareAgentName"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété ResourceEvent. Obtient ou définit le nom de l'agent logiciel"
 type: docs
 weight: 70
 url: /fr/net/aspose.psd.xmp.types.complex.resourceevent/resourceevent/sofwareagentname/
 ---
+{{< psd/tize >}}
 ## ResourceEvent.SofwareAgentName property
 
 Obtient ou définit le nom de l'agent logiciel.
@@ -14,14 +15,14 @@ Obtient ou définit le nom de l'agent logiciel.
 public string SofwareAgentName { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
 Le nom de l'agent logiciel.
 
-### Voir également
+### Voir aussi
 
 * class [ResourceEvent](../)
-* espace de noms [Aspose.PSD.Xmp.Types.Complex.ResourceEvent](../../resourceevent/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.ResourceEvent](../../../aspose.psd.xmp.types.complex.resourceevent/)
+* assembly [Aspose.PSD](../../../)
 
 

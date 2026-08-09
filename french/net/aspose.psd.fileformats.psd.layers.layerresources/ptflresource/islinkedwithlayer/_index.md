@@ -1,26 +1,27 @@
 ---
-title: PtFlResource.IsLinkedWithLayer
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: PtFlResource propriété. Obtient ou définit une valeur indiquant si cette instance est liée à la couche.
+title: "PtFlResource.IsLinkedWithLayer"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété PtFlResource. Obtient ou définit une valeur indiquant si cette instance est liée au calque"
 type: docs
-weight: 30
+weight: 40
 url: /fr/net/aspose.psd.fileformats.psd.layers.layerresources/ptflresource/islinkedwithlayer/
 ---
+{{< psd/tize >}}
 ## PtFlResource.IsLinkedWithLayer property
 
-Obtient ou définit une valeur indiquant si cette instance est liée à la couche.
+Obtient ou définit une valeur indiquant si cette instance est liée au calque.
 
 ```csharp
 public bool IsLinkedWithLayer { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
-`vrai` si cette instance est liée au calque ; sinon,`FAUX` .
+`true` si cette instance est liée au calque ; sinon, `false`.
 
-### Exemples
+## Exemples
 
-L'exemple suivant illustre la prise en charge du chargement et de la modification d'une ressource PtFlResource.
+L'exemple suivant montre la prise en charge du chargement et de la modification d'une ressource PtFlResource.
 
 ```csharp
 [C#]
@@ -41,7 +42,7 @@ using (im)
             {
                 if (res is PtFlResource)
                 {
-                    // En lisant
+                    // Lecture
                     PtFlResource resource = (PtFlResource)res;
                     if (
                         resource.Offset.X != -46 ||
@@ -61,7 +62,7 @@ using (im)
                     resource.AlignWithLayer = false;
                     resource.IsLinkedWithLayer = false;
                     fillLayer.Resources = fillLayer.Resources;
-                    // Nous n'avons pas de données de modèle dans PattResource, nous pouvons donc les ajouter.
+                    // Nous n'avons pas de données de motif dans PattResource, nous pouvons donc les ajouter.
                     var fillSettings = (PatternFillSettings)fillLayer.FillSettings;
                     fillSettings.PatternData = new int[]
                     {
@@ -86,10 +87,10 @@ using (im)
 }
 ```
 
-### Voir également
+### Voir aussi
 
 * class [PtFlResource](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../ptflresource/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

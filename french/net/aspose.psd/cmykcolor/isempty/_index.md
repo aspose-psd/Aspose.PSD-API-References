@@ -1,27 +1,28 @@
 ---
-title: CmykColor.IsEmpty
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: CmykColor propriété. Obtient une valeur indiquant si celaColor la structure nest pas initialisée.
+title: "CmykColor.IsEmpty"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété CmykColor. Obtient une valeur indiquant si cette structure Color est non initialisée"
 type: docs
-weight: 30
+weight: 40
 url: /fr/net/aspose.psd/cmykcolor/isempty/
 ---
+{{< psd/tize >}}
 ## CmykColor.IsEmpty property
 
-Obtient une valeur indiquant si cela[`Color`](../../color/) la structure n'est pas initialisée.
+Obtient une valeur indiquant si cette structure [`Color`](../../color/) n'est pas initialisée.
 
 ```csharp
 public bool IsEmpty { get; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
-Cette propriété renvoie true si cette couleur n'est pas initialisée ; sinon, faux.
+Cette propriété renvoie true si cette couleur n'est pas initialisée ; sinon, false.
 
-### Voir également
+### Voir aussi
 
 * struct [CmykColor](../)
-* espace de noms [Aspose.PSD](../../cmykcolor/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

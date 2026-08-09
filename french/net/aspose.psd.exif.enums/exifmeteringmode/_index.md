@@ -1,14 +1,15 @@
 ---
-title: Enum ExifMeteringMode
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: Aspose.PSD.Exif.Enums.ExifMeteringMode énumération. mode de mesure exif enum.
+title: "Enum ExifMeteringMode"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Aspose.PSD.Exif.Enums.ExifMeteringMode enum. énumération du mode de mesure exif"
 type: docs
-weight: 900
+weight: 910
 url: /fr/net/aspose.psd.exif.enums/exifmeteringmode/
 ---
+{{< psd/tize >}}
 ## ExifMeteringMode enumeration
 
-mode de mesure exif enum.
+énumération du mode de mesure exif.
 
 ```csharp
 public enum ExifMeteringMode
@@ -16,20 +17,20 @@ public enum ExifMeteringMode
 
 ### Valeurs
 
-| Nom | Évaluer | La description |
+| Nom | Valeur | Description |
 | --- | --- | --- |
 | Unknown | `0` | Mode indéfini |
 | Average | `1` | Mesure moyenne |
 | Centerweightedaverage | `2` | Moyenne pondérée centrale. |
 | Spot | `3` | Mesure spot |
-| MultiSpot | `4` | Mesure multipoint |
+| MultiSpot | `4` | Mesure multi-spot |
 | MultiSegment | `5` | Mesure multi-segments. |
 | Partial | `6` | Mesure partielle. |
-| Other | `255` | Pour les autres modes. |
+| Other | `255` | Pour d'autres modes. |
 
-### Voir également
+### Voir aussi
 
-* espace de noms [Aspose.PSD.Exif.Enums](../../aspose.psd.exif.enums/)
-* Assemblée [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Exif.Enums](../../aspose.psd.exif.enums/)
+* assembly [Aspose.PSD](../../)
 
 

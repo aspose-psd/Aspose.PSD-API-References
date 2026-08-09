@@ -1,11 +1,12 @@
 ---
-title: PhotoshopPackage.SetDocumentAncestors
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: PhotoshopPackage méthode. Définit les ancêtres du document.
+title: "PhotoshopPackage.SetDocumentAncestors"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "PhotoshopPackage méthode. Définit les ancêtres du document"
 type: docs
 weight: 110
 url: /fr/net/aspose.psd.xmp.schemas.photoshop/photoshoppackage/setdocumentancestors/
 ---
+{{< psd/tize >}}
 ## PhotoshopPackage.SetDocumentAncestors method
 
 Définit les ancêtres du document.
@@ -14,14 +15,14 @@ Définit les ancêtres du document.
 public void SetDocumentAncestors(string[] ancestors)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
-| ancestors | String[] | Les ancêtres. |
+| ancêtres | String[] | Les ancêtres. |
 
-### Voir également
+### Voir aussi
 
 * class [PhotoshopPackage](../)
-* espace de noms [Aspose.PSD.Xmp.Schemas.Photoshop](../../photoshoppackage/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.Photoshop](../../../aspose.psd.xmp.schemas.photoshop/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,28 +1,29 @@
 ---
-title: AiHeader.TileBox
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: AiHeader propriété. Obtient ou définit la boîte de mosaïque.
+title: "AiHeader.TileBox"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété AiHeader. Obtient ou définit la boîte de carreaux"
 type: docs
 weight: 110
 url: /fr/net/aspose.psd.fileformats.ai/aiheader/tilebox/
 ---
+{{< psd/tize >}}
 ## AiHeader.TileBox property
 
-Obtient ou définit la boîte de mosaïque.
+Obtient ou définit la boîte de carreaux.
 
 ```csharp
 public RectangleF TileBox { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
-La boîte à carreaux.
+La boîte de carreaux.
 
-### Voir également
+### Voir aussi
 
 * struct [RectangleF](../../../aspose.psd/rectanglef/)
 * class [AiHeader](../)
-* espace de noms [Aspose.PSD.FileFormats.Ai](../../aiheader/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

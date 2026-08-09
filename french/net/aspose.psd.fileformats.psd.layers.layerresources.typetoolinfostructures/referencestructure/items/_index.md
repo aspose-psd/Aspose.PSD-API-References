@@ -1,11 +1,12 @@
 ---
-title: ReferenceStructure.Items
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: ReferenceStructure propriété. Obtient ou définit une copie dun tableau de structures.
+title: "ReferenceStructure.Items"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété ReferenceStructure. Obtient ou définit une copie d'un tableau de structures"
 type: docs
 weight: 20
 url: /fr/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/referencestructure/items/
 ---
+{{< psd/tize >}}
 ## ReferenceStructure.Items property
 
 Obtient ou définit une copie d'un tableau de structures.
@@ -14,15 +15,15 @@ Obtient ou définit une copie d'un tableau de structures.
 public OSTypeStructure[] Items { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
-Les objets.
+Les éléments.
 
-### Voir également
+### Voir aussi
 
 * class [OSTypeStructure](../../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/)
 * class [ReferenceStructure](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../referencestructure/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 

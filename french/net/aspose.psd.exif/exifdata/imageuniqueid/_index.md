@@ -1,11 +1,12 @@
 ---
-title: ExifData.ImageUniqueID
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: ExifData propriété. Obtient ou définit lidentifiant unique de limage.
+title: "ExifData.ImageUniqueID"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "ExifData propriété. Obtient ou définit l'identifiant unique de l'image"
 type: docs
 weight: 680
 url: /fr/net/aspose.psd.exif/exifdata/imageuniqueid/
 ---
+{{< psd/tize >}}
 ## ExifData.ImageUniqueID property
 
 Obtient ou définit l'identifiant unique de l'image.
@@ -14,14 +15,14 @@ Obtient ou définit l'identifiant unique de l'image.
 public string ImageUniqueID { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
 L'identifiant unique de l'image.
 
-### Voir également
+### Voir aussi
 
 * class [ExifData](../)
-* espace de noms [Aspose.PSD.Exif](../../exifdata/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

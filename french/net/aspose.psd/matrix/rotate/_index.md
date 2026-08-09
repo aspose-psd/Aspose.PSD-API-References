@@ -1,49 +1,50 @@
 ---
-title: Matrix.Rotate
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: Matrix méthode. Applique une rotation dans le sens des aiguilles dune montre dune quantité spécifiée dans le paramètre dangle autour de lorigine zéro coordonnées x et y pour cette matrice dans lordre spécifié.
+title: "Matrix.Rotate"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Méthode Matrix. Applique une rotation horaire d'une valeur spécifiée dans le paramètre angle autour de l'origine (coordonnées x et y nulles) de cette Matrix dans l'ordre spécifié."
 type: docs
 weight: 140
 url: /fr/net/aspose.psd/matrix/rotate/
 ---
+{{< psd/tize >}}
 ## Rotate(float, MatrixOrder) {#rotate_1}
 
-Applique une rotation dans le sens des aiguilles d'une montre d'une quantité spécifiée dans le paramètre d'angle, autour de l'origine (zéro coordonnées x et y) pour cette matrice dans l'ordre spécifié.
+Applique une rotation horaire d'une valeur spécifiée dans le paramètre angle, autour de l'origine (coordonnées x et y nulles) pour cette Matrix dans l'ordre spécifié.
 
 ```csharp
 public void Rotate(float angle, MatrixOrder order)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
 | angle | Single | L'angle de rotation. |
-| order | MatrixOrder | L'ordre matriciel. |
+| ordre | MatrixOrder | L'ordre de la matrice. |
 
-### Voir également
+### Voir aussi
 
 * enum [MatrixOrder](../../matrixorder/)
 * class [Matrix](../)
-* espace de noms [Aspose.PSD](../../matrix/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Rotate(float) {#rotate}
 
-Applique une rotation dans le sens des aiguilles d'une montre d'une quantité spécifiée dans le paramètre d'angle, autour de l'origine (zéro coordonnées x et y) pour cette matrice dans l'ordre par défaut (Prepend).
+Applique une rotation horaire d'une valeur spécifiée dans le paramètre angle, autour de l'origine (coordonnées x et y nulles) pour cette Matrix dans l'ordre par défaut (Prepend).
 
 ```csharp
 public void Rotate(float angle)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
 | angle | Single | L'angle de rotation. |
 
-### Voir également
+### Voir aussi
 
 * class [Matrix](../)
-* espace de noms [Aspose.PSD](../../matrix/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

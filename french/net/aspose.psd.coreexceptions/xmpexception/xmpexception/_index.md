@@ -1,64 +1,65 @@
 ---
-title: XmpException.XmpException
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: XmpException constructeur. Initialise une nouvelle instance duXmpException classe.
+title: "XmpException.XmpException"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Constructeur XmpException. Initialise une nouvelle instance de la classe XmpException"
 type: docs
 weight: 10
 url: /fr/net/aspose.psd.coreexceptions/xmpexception/xmpexception/
 ---
+{{< psd/tize >}}
 ## XmpException() {#constructor}
 
-Initialise une nouvelle instance du[`XmpException`](../) classe.
+Initialise une nouvelle instance de la classe [`XmpException`](../).
 
 ```csharp
 public XmpException()
 ```
 
-### Voir également
+### Voir aussi
 
 * class [XmpException](../)
-* espace de noms [Aspose.PSD.CoreExceptions](../../xmpexception/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.CoreExceptions](../../../aspose.psd.coreexceptions/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## XmpException(string) {#constructor_1}
 
-Initialise une nouvelle instance du[`XmpException`](../) classe.
+Initialise une nouvelle instance de la classe [`XmpException`](../).
 
 ```csharp
 public XmpException(string message)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
 | message | String | Le message. |
 
-### Voir également
+### Voir aussi
 
 * class [XmpException](../)
-* espace de noms [Aspose.PSD.CoreExceptions](../../xmpexception/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.CoreExceptions](../../../aspose.psd.coreexceptions/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## XmpException(string, Exception) {#constructor_2}
 
-Initialise une nouvelle instance du[`XmpException`](../) classe.
+Initialise une nouvelle instance de la classe [`XmpException`](../).
 
 ```csharp
 public XmpException(string message, Exception innerException)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
 | message | String | Le message. |
-| innerException | Exception | L'exception intérieure. |
+| innerException | Exception | L'exception interne. |
 
-### Voir également
+### Voir aussi
 
 * class [XmpException](../)
-* espace de noms [Aspose.PSD.CoreExceptions](../../xmpexception/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.CoreExceptions](../../../aspose.psd.coreexceptions/)
+* assembly [Aspose.PSD](../../../)
 
 

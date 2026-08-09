@@ -1,23 +1,24 @@
 ---
-title: Version.Version
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: Version constructeur. Default_Constructor
+title: "Version.Version"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Constructeur Version. Le constructeur par défaut"
 type: docs
 weight: 10
 url: /fr/net/aspose.psd.xmp.types.complex.version/version/version/
 ---
+{{< psd/tize >}}
 ## Version constructor
 
-Default_Constructor
+Le constructeur par défaut.
 
 ```csharp
 public Version()
 ```
 
-### Voir également
+### Voir aussi
 
 * class [Version](../)
-* espace de noms [Aspose.PSD.Xmp.Types.Complex.Version](../../version/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.Version](../../../aspose.psd.xmp.types.complex.version/)
+* assembly [Aspose.PSD](../../../)
 
 

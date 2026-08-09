@@ -1,32 +1,33 @@
 ---
-title: Size.op_Implicit
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: Size méthode. Convertit le spécifiéSize à unSizeF .
+title: "Size.op_Implicit"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Méthode Size. Convertit le Size spécifié en SizeF"
 type: docs
 weight: 170
 url: /fr/net/aspose.psd/size/op_implicit/
 ---
+{{< psd/tize >}}
 ## Size Implicit operator
 
-Convertit le spécifié[`Size`](../) à un[`SizeF`](../../sizef/) .
+Convertit le [`Size`](../) spécifié en [`SizeF`](../../sizef/).
 
 ```csharp
 public static implicit operator SizeF(Size size)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
-| size | Size | Le[`Size`](../) convertir. |
+| size | Size | Le [`Size`](../) à convertir. |
 
-### Return_Value
+### Valeur de retour
 
-Le[`SizeF`](../../sizef/) structure vers laquelle cet opérateur se convertit.
+La structure [`SizeF`](../../sizef/) vers laquelle cet opérateur convertit.
 
-### Voir également
+### Voir aussi
 
 * struct [SizeF](../../sizef/)
 * struct [Size](../)
-* espace de noms [Aspose.PSD](../../size/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

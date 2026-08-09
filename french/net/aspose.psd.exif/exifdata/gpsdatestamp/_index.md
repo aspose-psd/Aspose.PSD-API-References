@@ -1,27 +1,28 @@
 ---
-title: ExifData.GPSDateStamp
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: ExifData propriété. Obtient ou définit la chaîne de caractères GPS enregistrant les informations de date et dheure relatives à UTC Coordinated Universal Time.
+title: "ExifData.GPSDateStamp"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété ExifData. Obtient ou définit la chaîne de caractères GPS enregistrant les informations de date et d'heure relatives à UTC (Temps Universel Coordonné)"
 type: docs
 weight: 390
 url: /fr/net/aspose.psd.exif/exifdata/gpsdatestamp/
 ---
+{{< psd/tize >}}
 ## ExifData.GPSDateStamp property
 
-Obtient ou définit la chaîne de caractères GPS enregistrant les informations de date et d'heure relatives à UTC (Coordinated Universal Time).
+Obtient ou définit la chaîne de caractères GPS enregistrant les informations de date et d'heure relatives à UTC (Temps Universel Coordonné).
 
 ```csharp
 public string GPSDateStamp { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
-La chaîne de caractères GPS enregistrant les informations de date et d'heure relatives à l'UTC (Coordinated Universal Time).
+La chaîne de caractères GPS enregistrant les informations de date et d'heure relatives à UTC (Temps Universel Coordonné).
 
-### Voir également
+### Voir aussi
 
 * class [ExifData](../)
-* espace de noms [Aspose.PSD.Exif](../../exifdata/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

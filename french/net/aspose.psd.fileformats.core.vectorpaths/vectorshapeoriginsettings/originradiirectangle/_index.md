@@ -1,11 +1,12 @@
 ---
-title: VectorShapeOriginSettings.OriginRadiiRectangle
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: VectorShapeOriginSettings propriété. Obtient ou définit le rectangle des rayons dorigine.
+title: "VectorShapeOriginSettings.OriginRadiiRectangle"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété VectorShapeOriginSettings. Obtient ou définit le rectangle des rayons d'origine"
 type: docs
 weight: 130
 url: /fr/net/aspose.psd.fileformats.core.vectorpaths/vectorshapeoriginsettings/originradiirectangle/
 ---
+{{< psd/tize >}}
 ## VectorShapeOriginSettings.OriginRadiiRectangle property
 
 Obtient ou définit le rectangle des rayons d'origine.
@@ -14,15 +15,15 @@ Obtient ou définit le rectangle des rayons d'origine.
 public VectorShapeRadiiRectangle OriginRadiiRectangle { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
 Le rectangle des rayons d'origine.
 
-### Voir également
+### Voir aussi
 
 * class [VectorShapeRadiiRectangle](../../vectorshaperadiirectangle/)
 * class [VectorShapeOriginSettings](../)
-* espace de noms [Aspose.PSD.FileFormats.Core.VectorPaths](../../vectorshapeoriginsettings/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../../)
 
 

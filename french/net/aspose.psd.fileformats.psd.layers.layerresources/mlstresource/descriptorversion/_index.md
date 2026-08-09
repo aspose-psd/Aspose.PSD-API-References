@@ -1,11 +1,12 @@
 ---
-title: MlstResource.DescriptorVersion
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: MlstResource propriété. Obtient ou définit la version du descripteur.
+title: "MlstResource.DescriptorVersion"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "MlstResource propriété. Obtient ou définit la version du descripteur"
 type: docs
 weight: 20
 url: /fr/net/aspose.psd.fileformats.psd.layers.layerresources/mlstresource/descriptorversion/
 ---
+{{< psd/tize >}}
 ## MlstResource.DescriptorVersion property
 
 Obtient ou définit la version du descripteur.
@@ -14,10 +15,10 @@ Obtient ou définit la version du descripteur.
 public int DescriptorVersion { get; }
 ```
 
-### Voir également
+### Voir aussi
 
 * class [MlstResource](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../mlstresource/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: Enum ExifExposureMode
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: Aspose.PSD.Exif.Enums.ExifExposureMode énumération. énumération du mode dexposition exif.
+title: "Enum ExifExposureMode"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Aspose.PSD.Exif.Enums.ExifExposureMode enum. mode d'exposition exif"
 type: docs
-weight: 830
+weight: 840
 url: /fr/net/aspose.psd.exif.enums/exifexposuremode/
 ---
+{{< psd/tize >}}
 ## ExifExposureMode enumeration
 
 énumération du mode d'exposition exif.
@@ -16,15 +17,15 @@ public enum ExifExposureMode
 
 ### Valeurs
 
-| Nom | Évaluer | La description |
+| Nom | Valeur | Description |
 | --- | --- | --- |
 | Auto | `0` | Exposition automatique. |
 | Manual | `1` | Exposition manuelle. |
 | AutoBracket | `2` | Bracketing automatique. |
 
-### Voir également
+### Voir aussi
 
-* espace de noms [Aspose.PSD.Exif.Enums](../../aspose.psd.exif.enums/)
-* Assemblée [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Exif.Enums](../../aspose.psd.exif.enums/)
+* assembly [Aspose.PSD](../../)
 
 

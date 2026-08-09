@@ -1,27 +1,28 @@
 ---
-title: TiffOptions.SminSampleValue
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: TiffOptions propriété. Obtient ou définit la valeur minimale de léchantillon. La valeur a un type de champ qui correspond le mieux aux exemples de données type Byte Short ou Long.
+title: "TiffOptions.SminSampleValue"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété TiffOptions. Obtient ou définit la valeur d'échantillon minimale. La valeur possède un type de champ qui correspond le mieux aux données d'échantillon de type Byte, Short ou Long"
 type: docs
-weight: 440
+weight: 450
 url: /fr/net/aspose.psd.imageoptions/tiffoptions/sminsamplevalue/
 ---
+{{< psd/tize >}}
 ## TiffOptions.SminSampleValue property
 
-Obtient ou définit la valeur minimale de l'échantillon. La valeur a un type de champ qui correspond le mieux aux exemples de données (type Byte, Short ou Long).
+Obtient ou définit la valeur d'échantillon minimale. La valeur possède un type de champ qui correspond le mieux aux données d'échantillon (type Byte, Short ou Long).
 
 ```csharp
 public uint[] SminSampleValue { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
-La valeur minimale de l'échantillon.
+La valeur d'échantillon minimale.
 
-### Voir également
+### Voir aussi
 
 * class [TiffOptions](../)
-* espace de noms [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

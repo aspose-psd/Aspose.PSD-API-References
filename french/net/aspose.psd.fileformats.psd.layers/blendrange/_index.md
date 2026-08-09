@@ -1,11 +1,12 @@
 ---
-title: Class BlendRange
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: Aspose.PSD.FileFormats.Psd.Layers.BlendRange classe. La plage de fusion.
+title: "Classe BlendRange"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Aspose.PSD.FileFormats.Psd.Layers.BlendRange classe. La plage de fusion"
 type: docs
-weight: 1890
+weight: 2000
 url: /fr/net/aspose.psd.fileformats.psd.layers/blendrange/
 ---
+{{< psd/tize >}}
 ## BlendRange class
 
 La plage de fusion.
@@ -16,20 +17,20 @@ public sealed class BlendRange
 
 ## Constructeurs
 
-| Nom | La description |
+| Nom | Description |
 | --- | --- |
-| [BlendRange](blendrange/)() | Default_Constructor |
+| [BlendRange](blendrange/)() | Le constructeur par défaut. |
 
 ## Propriétés
 
-| Nom | La description |
+| Nom | Description |
 | --- | --- |
 | [Destination](../../aspose.psd.fileformats.psd.layers/blendrange/destination/) { get; set; } | Obtient ou définit la plage de fusion de destination. |
 | [Source](../../aspose.psd.fileformats.psd.layers/blendrange/source/) { get; set; } | Obtient ou définit la plage de fusion source. |
 
-### Voir également
+### Voir aussi
 
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers](../../aspose.psd.fileformats.psd.layers/)
-* Assemblée [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../)
 
 

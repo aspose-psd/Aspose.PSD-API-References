@@ -1,81 +1,82 @@
 ---
-title: ImageAttributes.SetColorMatrices
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: ImageAttributes méthode. Définit la matrice de réglage des couleurs et la matrice de réglage des niveaux de gris pour la catégorie par défaut.
+title: "ImageAttributes.SetColorMatrices"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Méthode ImageAttributes. Définit la matrice d'ajustement des couleurs et la matrice d'ajustement en niveaux de gris pour la catégorie par défaut."
 type: docs
 weight: 130
 url: /fr/net/aspose.psd/imageattributes/setcolormatrices/
 ---
+{{< psd/tize >}}
 ## SetColorMatrices(ColorMatrix, ColorMatrix) {#setcolormatrices}
 
-Définit la matrice de réglage des couleurs et la matrice de réglage des niveaux de gris pour la catégorie par défaut.
+Définit la matrice d'ajustement des couleurs et la matrice d'ajustement du niveau de gris pour la catégorie par défaut.
 
 ```csharp
 public void SetColorMatrices(ColorMatrix newColorMatrix, ColorMatrix grayMatrix)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
-| newColorMatrix | ColorMatrix | La matrice de réglage des couleurs. |
-| grayMatrix | ColorMatrix | La matrice d'ajustement des niveaux de gris. |
+| newColorMatrix | ColorMatrix | La matrice d'ajustement des couleurs. |
+| grayMatrix | ColorMatrix | La matrice d'ajustement en niveaux de gris. |
 
-### Voir également
+### Voir aussi
 
 * class [ColorMatrix](../../colormatrix/)
 * class [ImageAttributes](../)
-* espace de noms [Aspose.PSD](../../imageattributes/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## SetColorMatrices(ColorMatrix, ColorMatrix, ColorMatrixFlag) {#setcolormatrices_1}
 
-Définit la matrice de réglage des couleurs et la matrice de réglage des niveaux de gris pour la catégorie par défaut.
+Définit la matrice d'ajustement des couleurs et la matrice d'ajustement du niveau de gris pour la catégorie par défaut.
 
 ```csharp
 public void SetColorMatrices(ColorMatrix newColorMatrix, ColorMatrix grayMatrix, 
     ColorMatrixFlag flags)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
-| newColorMatrix | ColorMatrix | La matrice de réglage des couleurs. |
-| grayMatrix | ColorMatrix | La matrice d'ajustement des niveaux de gris. |
-| flags | ColorMatrixFlag | Un élément de[`ColorMatrixFlag`](../../colormatrixflag/) qui spécifie le type d'image et de couleur qui sera affecté par les matrices de réglage des couleurs et des niveaux de gris. |
+| newColorMatrix | ColorMatrix | La matrice d'ajustement des couleurs. |
+| grayMatrix | ColorMatrix | La matrice d'ajustement en niveaux de gris. |
+| flags | ColorMatrixFlag | Un élément de [`ColorMatrixFlag`](../../colormatrixflag/) qui spécifie le type d'image et de couleur qui seront affectés par les matrices d'ajustement des couleurs et d'ajustement en niveaux de gris. |
 
-### Voir également
+### Voir aussi
 
 * class [ColorMatrix](../../colormatrix/)
 * enum [ColorMatrixFlag](../../colormatrixflag/)
 * class [ImageAttributes](../)
-* espace de noms [Aspose.PSD](../../imageattributes/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## SetColorMatrices(ColorMatrix, ColorMatrix, ColorMatrixFlag, ColorAdjustType) {#setcolormatrices_2}
 
-Définit la matrice de réglage des couleurs et la matrice de réglage des niveaux de gris pour une catégorie spécifiée.
+Définit la matrice d'ajustement des couleurs et la matrice d'ajustement du niveau de gris pour une catégorie spécifiée.
 
 ```csharp
 public void SetColorMatrices(ColorMatrix newColorMatrix, ColorMatrix grayMatrix, 
     ColorMatrixFlag mode, ColorAdjustType type)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
-| newColorMatrix | ColorMatrix | La matrice de réglage des couleurs. |
-| grayMatrix | ColorMatrix | La matrice d'ajustement des niveaux de gris. |
-| mode | ColorMatrixFlag | Un élément de[`ColorMatrixFlag`](../../colormatrixflag/) qui spécifie le type d'image et de couleur qui sera affecté par les matrices de réglage des couleurs et des niveaux de gris. |
-| type | ColorAdjustType | Un élément de[`ColorAdjustType`](../../coloradjusttype/) qui spécifie la catégorie pour laquelle les matrices de réglage des couleurs et des niveaux de gris sont définies. |
+| newColorMatrix | ColorMatrix | La matrice d'ajustement des couleurs. |
+| grayMatrix | ColorMatrix | La matrice d'ajustement en niveaux de gris. |
+| mode | ColorMatrixFlag | Un élément de [`ColorMatrixFlag`](../../colormatrixflag/) qui spécifie le type d'image et de couleur qui seront affectés par les matrices d'ajustement des couleurs et d'ajustement en niveaux de gris. |
+| type | ColorAdjustType | Un élément de [`ColorAdjustType`](../../coloradjusttype/) qui spécifie la catégorie pour laquelle les matrices d'ajustement des couleurs et d'ajustement en niveaux de gris sont définies. |
 
-### Voir également
+### Voir aussi
 
 * class [ColorMatrix](../../colormatrix/)
 * enum [ColorMatrixFlag](../../colormatrixflag/)
 * enum [ColorAdjustType](../../coloradjusttype/)
 * class [ImageAttributes](../)
-* espace de noms [Aspose.PSD](../../imageattributes/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

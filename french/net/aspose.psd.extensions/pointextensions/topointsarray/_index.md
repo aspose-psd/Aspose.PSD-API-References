@@ -1,33 +1,34 @@
 ---
-title: PointExtensions.ToPointsArray
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: PointExtensions méthode. Convertit lePoint tableau à laPointF tableau.
+title: "PointExtensions.ToPointsArray"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Méthode PointExtensions. Convertit le tableau Point en le tableau PointF."
 type: docs
 weight: 30
 url: /fr/net/aspose.psd.extensions/pointextensions/topointsarray/
 ---
+{{< psd/tize >}}
 ## PointExtensions.ToPointsArray method
 
-Convertit le[`Point`](../../../aspose.psd/point/) tableau à la[`PointF`](../../../aspose.psd/pointf/) tableau.
+Convertit le tableau [`Point`](../../../aspose.psd/point/) en tableau [`PointF`](../../../aspose.psd/pointf/).
 
 ```csharp
 public static PointF[] ToPointsArray(Point[] points)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
-| points | Point[] | Le[`Point`](../../../aspose.psd/point/) tableau à convertir. |
+| points | Point[] | Le tableau [`Point`](../../../aspose.psd/point/) à convertir. |
 
-### Return_Value
+### Valeur de retour
 
-Le converti[`PointF`](../../../aspose.psd/pointf/) déployer.
+Le tableau [`PointF`](../../../aspose.psd/pointf/) converti.
 
-### Voir également
+### Voir aussi
 
 * struct [PointF](../../../aspose.psd/pointf/)
 * struct [Point](../../../aspose.psd/point/)
 * class [PointExtensions](../)
-* espace de noms [Aspose.PSD.Extensions](../../pointextensions/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Extensions](../../../aspose.psd.extensions/)
+* assembly [Aspose.PSD](../../../)
 
 

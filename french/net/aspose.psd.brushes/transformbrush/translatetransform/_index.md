@@ -1,51 +1,52 @@
 ---
-title: TransformBrush.TranslateTransform
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: TransformBrush méthode. Traduit la transformation géométrique locale par les dimensions spécifiées. Cette méthode ajoute la traduction au début de la transformation.
+title: "TransformBrush.TranslateTransform"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Méthode TransformBrush. Déplace la transformation géométrique locale des dimensions spécifiées. Cette méthode préfixe la translation à la transformation."
 type: docs
 weight: 80
 url: /fr/net/aspose.psd.brushes/transformbrush/translatetransform/
 ---
+{{< psd/tize >}}
 ## TranslateTransform(float, float) {#translatetransform}
 
-Traduit la transformation géométrique locale par les dimensions spécifiées. Cette méthode ajoute la traduction au début de la transformation.
+Déplace la transformation géométrique locale des dimensions spécifiées. Cette méthode préfixe la translation à la transformation.
 
 ```csharp
 public void TranslateTransform(float dx, float dy)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
 | dx | Single | La valeur de la translation en x. |
 | dy | Single | La valeur de la translation en y. |
 
-### Voir également
+### Voir aussi
 
 * class [TransformBrush](../)
-* espace de noms [Aspose.PSD.Brushes](../../transformbrush/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## TranslateTransform(float, float, MatrixOrder) {#translatetransform_1}
 
-Traduit la transformation géométrique locale par les dimensions spécifiées dans l'ordre spécifié.
+Déplace la transformation géométrique locale des dimensions spécifiées dans l'ordre indiqué.
 
 ```csharp
 public void TranslateTransform(float dx, float dy, MatrixOrder order)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
 | dx | Single | La valeur de la translation en x. |
 | dy | Single | La valeur de la translation en y. |
-| order | MatrixOrder | L'ordre (préfixe ou ajout) dans lequel appliquer la traduction. |
+| ordre | MatrixOrder | L'ordre (préfixer ou ajouter) dans lequel appliquer la translation. |
 
-### Voir également
+### Voir aussi
 
 * enum [MatrixOrder](../../../aspose.psd/matrixorder/)
 * class [TransformBrush](../)
-* espace de noms [Aspose.PSD.Brushes](../../transformbrush/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
+* assembly [Aspose.PSD](../../../)
 
 

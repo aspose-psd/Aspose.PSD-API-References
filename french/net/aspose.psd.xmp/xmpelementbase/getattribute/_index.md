@@ -1,11 +1,12 @@
 ---
-title: XmpElementBase.GetAttribute
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: XmpElementBase méthode. Obtient lattribut.
+title: "XmpElementBase.GetAttribute"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Méthode XmpElementBase. Obtient l'attribut"
 type: docs
 weight: 40
 url: /fr/net/aspose.psd.xmp/xmpelementbase/getattribute/
 ---
+{{< psd/tize >}}
 ## XmpElementBase.GetAttribute method
 
 Obtient l'attribut.
@@ -14,18 +15,18 @@ Obtient l'attribut.
 public virtual string GetAttribute(string attribute)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
-| attribute | String | L'attribut. |
+| attribut | String | L'attribut. |
 
-### Return_Value
+### Valeur de retour
 
 Renvoie l'attribut pour le nom d'attribut spécifié.
 
-### Voir également
+### Voir aussi
 
 * class [XmpElementBase](../)
-* espace de noms [Aspose.PSD.Xmp](../../xmpelementbase/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

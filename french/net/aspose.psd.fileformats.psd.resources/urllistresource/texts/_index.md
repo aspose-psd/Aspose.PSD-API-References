@@ -1,11 +1,12 @@
 ---
-title: UrlListResource.Texts
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: UrlListResource propriété. Obtient ou définit les textes.
+title: "UrlListResource.Texts"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété UrlListResource. Obtient ou définit les textes"
 type: docs
 weight: 70
 url: /fr/net/aspose.psd.fileformats.psd.resources/urllistresource/texts/
 ---
+{{< psd/tize >}}
 ## UrlListResource.Texts property
 
 Obtient ou définit les textes.
@@ -14,14 +15,14 @@ Obtient ou définit les textes.
 public string[] Texts { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
 Les textes.
 
-### Voir également
+### Voir aussi
 
 * class [UrlListResource](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Resources](../../urllistresource/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

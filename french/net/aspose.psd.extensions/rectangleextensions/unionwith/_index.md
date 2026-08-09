@@ -1,33 +1,34 @@
 ---
-title: RectangleExtensions.UnionWith
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: RectangleExtensions méthode. Unions deux rectangle.
+title: "RectangleExtensions.UnionWith"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Méthode RectangleExtensions. Fusionne deux rectangles."
 type: docs
 weight: 20
 url: /fr/net/aspose.psd.extensions/rectangleextensions/unionwith/
 ---
+{{< psd/tize >}}
 ## RectangleExtensions.UnionWith method
 
-Unions deux rectangle.
+Fusionne deux rectangles.
 
 ```csharp
 public static RectangleF UnionWith(RectangleF rectangle, RectangleF otherRectangle)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
 | rectangle | RectangleF | Le premier rectangle. |
 | otherRectangle | RectangleF | Le deuxième rectangle. |
 
-### Return_Value
+### Valeur de retour
 
-Nouveau rectangle comme résultat de l'opération d'union
+Nouveau rectangle en résultat de l'opération d'union
 
-### Voir également
+### Voir aussi
 
 * struct [RectangleF](../../../aspose.psd/rectanglef/)
 * class [RectangleExtensions](../)
-* espace de noms [Aspose.PSD.Extensions](../../rectangleextensions/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Extensions](../../../aspose.psd.extensions/)
+* assembly [Aspose.PSD](../../../)
 
 

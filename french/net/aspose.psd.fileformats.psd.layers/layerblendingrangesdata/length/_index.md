@@ -1,27 +1,28 @@
 ---
-title: LayerBlendingRangesData.Length
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: LayerBlendingRangesData propriété. Obtient la longueur des données des plages de fusion des calques en octets.
+title: "LayerBlendingRangesData.Length"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété LayerBlendingRangesData. Obtient la longueur des données de plages de fusion de calque en octets"
 type: docs
 weight: 40
 url: /fr/net/aspose.psd.fileformats.psd.layers/layerblendingrangesdata/length/
 ---
+{{< psd/tize >}}
 ## LayerBlendingRangesData.Length property
 
-Obtient la longueur des données des plages de fusion des calques en octets.
+Obtient la longueur des données de plages de fusion du calque en octets.
 
 ```csharp
 public int Length { get; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
-La longueur des données des plages de fusion des calques.
+La longueur des données de plages de fusion de calque.
 
-### Voir également
+### Voir aussi
 
 * class [LayerBlendingRangesData](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers](../../layerblendingrangesdata/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

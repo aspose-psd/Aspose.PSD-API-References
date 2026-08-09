@@ -1,11 +1,12 @@
 ---
-title: BezierKnotRecord.PathPoints
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: BezierKnotRecord propriété. Obtient ou définit les points du chemin.
+title: "BezierKnotRecord.PathPoints"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété BezierKnotRecord. Obtient ou définit les points du chemin"
 type: docs
 weight: 50
 url: /fr/net/aspose.psd.fileformats.core.vectorpaths/bezierknotrecord/pathpoints/
 ---
+{{< psd/tize >}}
 ## BezierKnotRecord.PathPoints property
 
 Obtient ou définit les points du chemin.
@@ -14,15 +15,15 @@ Obtient ou définit les points du chemin.
 public PointF[] PathPoints { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
-Le chemin pointe.
+Les points de chemin.
 
-### Voir également
+### Voir aussi
 
 * struct [PointF](../../../aspose.psd/pointf/)
 * class [BezierKnotRecord](../)
-* espace de noms [Aspose.PSD.FileFormats.Core.VectorPaths](../../bezierknotrecord/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../../)
 
 

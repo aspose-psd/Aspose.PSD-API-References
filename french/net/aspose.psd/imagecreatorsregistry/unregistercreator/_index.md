@@ -1,11 +1,12 @@
 ---
-title: ImageCreatorsRegistry.UnregisterCreator
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: ImageCreatorsRegistry méthode. Désenregistre le créateur.
+title: "ImageCreatorsRegistry.UnregisterCreator"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Méthode ImageCreatorsRegistry. Désenregistre le créateur"
 type: docs
 weight: 70
 url: /fr/net/aspose.psd/imagecreatorsregistry/unregistercreator/
 ---
+{{< psd/tize >}}
 ## ImageCreatorsRegistry.UnregisterCreator method
 
 Désenregistre le créateur.
@@ -14,15 +15,15 @@ Désenregistre le créateur.
 public static void UnregisterCreator(IImageCreatorDescriptor creatorDescriptor)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
 | creatorDescriptor | IImageCreatorDescriptor | Le descripteur du créateur. |
 
-### Voir également
+### Voir aussi
 
 * interface [IImageCreatorDescriptor](../../iimagecreatordescriptor/)
 * class [ImageCreatorsRegistry](../)
-* espace de noms [Aspose.PSD](../../imagecreatorsregistry/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

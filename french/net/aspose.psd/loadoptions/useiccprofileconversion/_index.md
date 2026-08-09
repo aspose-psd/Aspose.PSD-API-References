@@ -1,23 +1,25 @@
 ---
-title: LoadOptions.UseIccProfileConversion
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: LoadOptions propriété. Obtient ou définit une valeur indiquant si la conversion de profil ICC doit être appliquée.
+title: "LoadOptions.UseIccProfileConversion"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété LoadOptions. Obtient ou définit une valeur indiquant si la conversion de profil ICC doit être appliquée"
 type: docs
 weight: 60
 url: /fr/net/aspose.psd/loadoptions/useiccprofileconversion/
 ---
+{{< psd/tize >}}
 ## LoadOptions.UseIccProfileConversion property
 
-Obtient ou définit une valeur indiquant si la conversion de profil ICC doit être appliquée.
+Obtient ou définit une valeur indiquant si la conversion du profil ICC doit être appliquée.
 
 ```csharp
+[Obsolete("ICC profile conversion will be used by default and this property will be removed.")]
 public bool UseIccProfileConversion { get; set; }
 ```
 
-### Voir également
+### Voir aussi
 
 * class [LoadOptions](../)
-* espace de noms [Aspose.PSD](../../loadoptions/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

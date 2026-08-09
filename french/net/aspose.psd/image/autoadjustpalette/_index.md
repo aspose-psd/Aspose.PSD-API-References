@@ -1,27 +1,28 @@
 ---
-title: Image.AutoAdjustPalette
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: Image propriété. Obtient ou définit une valeur indiquant si la palette de réglage automatique.
+title: "Image.AutoAdjustPalette"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété Image. Obtient ou définit une valeur indiquant si la palette d'ajustement automatique est activée"
 type: docs
 weight: 30
 url: /fr/net/aspose.psd/image/autoadjustpalette/
 ---
+{{< psd/tize >}}
 ## Image.AutoAdjustPalette property
 
-Obtient ou définit une valeur indiquant si la palette de réglage automatique.
+Obtient ou définit une valeur indiquant si la palette d'ajustement automatique.
 
 ```csharp
 public bool AutoAdjustPalette { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
-`vrai` si activer la palette de réglage automatique ; sinon,`FAUX` .
+`true` si l'ajustement automatique de la palette est activé ; sinon, `false`.
 
-### Voir également
+### Voir aussi
 
 * class [Image](../)
-* espace de noms [Aspose.PSD](../../image/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

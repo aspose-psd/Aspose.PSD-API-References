@@ -1,27 +1,28 @@
 ---
-title: IAsyncTask.Error
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: IAsyncTask propriété. Obtient lerreur de tâche disponible une fois la tâche terminée.
+title: "IAsyncTask.Error"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété IAsyncTask. Obtient l'erreur de la tâche qui est disponible après que la tâche est terminée"
 type: docs
 weight: 10
 url: /fr/net/aspose.psd.asynctask/iasynctask/error/
 ---
+{{< psd/tize >}}
 ## IAsyncTask.Error property
 
-Obtient l'erreur de tâche disponible une fois la tâche terminée.
+Obtient l'erreur de la tâche qui est disponible après que la tâche soit terminée.
 
 ```csharp
 public Exception Error { get; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
-L'erreur de tâche.
+L'erreur de la tâche.
 
-### Voir également
+### Voir aussi
 
 * interface [IAsyncTask](../)
-* espace de noms [Aspose.PSD.AsyncTask](../../iasynctask/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.AsyncTask](../../../aspose.psd.asynctask/)
+* assembly [Aspose.PSD](../../../)
 
 

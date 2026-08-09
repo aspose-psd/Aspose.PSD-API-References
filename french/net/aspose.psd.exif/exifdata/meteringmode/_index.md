@@ -1,11 +1,12 @@
 ---
-title: ExifData.MeteringMode
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: ExifData propriété. Obtient ou définit le mode de mesure.
+title: "ExifData.MeteringMode"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété ExifData. Obtient ou définit le mode de mesure"
 type: docs
 weight: 810
 url: /fr/net/aspose.psd.exif/exifdata/meteringmode/
 ---
+{{< psd/tize >}}
 ## ExifData.MeteringMode property
 
 Obtient ou définit le mode de mesure.
@@ -14,15 +15,15 @@ Obtient ou définit le mode de mesure.
 public ExifMeteringMode MeteringMode { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
 Le mode de mesure.
 
-### Voir également
+### Voir aussi
 
 * enum [ExifMeteringMode](../../../aspose.psd.exif.enums/exifmeteringmode/)
 * class [ExifData](../)
-* espace de noms [Aspose.PSD.Exif](../../exifdata/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: Class ImageLoadException
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: Aspose.PSD.CoreExceptions.ImageLoadException classe. Lexception de chargement dimage. Se produit pendant le chargement de limage.
+title: "Classe ImageLoadException"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Classe Aspose.PSD.CoreExceptions.ImageLoadException. L'exception de chargement d'image. Se produit lors du chargement de l'image"
 type: docs
 weight: 620
 url: /fr/net/aspose.psd.coreexceptions/imageloadexception/
 ---
+{{< psd/tize >}}
 ## ImageLoadException class
 
-L'exception de chargement d'image. Se produit pendant le chargement de l'image.
+L'exception de chargement d'image. Se produit lors du chargement de l'image.
 
 ```csharp
 public class ImageLoadException : ImageException
@@ -16,15 +17,15 @@ public class ImageLoadException : ImageException
 
 ## Constructeurs
 
-| Nom | La description |
+| Nom | Description |
 | --- | --- |
-| [ImageLoadException](imageloadexception/#constructor)(string) | Initialise une nouvelle instance du`ImageLoadException` classe. |
-| [ImageLoadException](imageloadexception/#constructor_1)(string, Exception) | Initialise une nouvelle instance du`ImageLoadException` classe. |
+| [ImageLoadException](imageloadexception/#constructor)(string) | Initialise une nouvelle instance de la classe `ImageLoadException`. |
+| [ImageLoadException](imageloadexception/#constructor_1)(string, Exception) | Initialise une nouvelle instance de la classe `ImageLoadException`. |
 
-### Voir également
+### Voir aussi
 
 * class [ImageException](../imageexception/)
-* espace de noms [Aspose.PSD.CoreExceptions](../../aspose.psd.coreexceptions/)
-* Assemblée [Aspose.PSD](../../)
+* namespace [Aspose.PSD.CoreExceptions](../../aspose.psd.coreexceptions/)
+* assembly [Aspose.PSD](../../)
 
 

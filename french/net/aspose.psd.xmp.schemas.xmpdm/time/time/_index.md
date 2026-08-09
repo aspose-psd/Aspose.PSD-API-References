@@ -1,29 +1,30 @@
 ---
-title: Time.Time
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: Time constructeur. Initialise une nouvelle instance duTime classe.
+title: "Time.Time"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Constructeur Time. Initialise une nouvelle instance de la classe Time"
 type: docs
 weight: 10
 url: /fr/net/aspose.psd.xmp.schemas.xmpdm/time/time/
 ---
+{{< psd/tize >}}
 ## Time constructor
 
-Initialise une nouvelle instance du[`Time`](../) classe.
+Initialise une nouvelle instance de la classe [`Time`](../).
 
 ```csharp
 public Time(Rational scale, int value)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
 | scale | Rational | L'échelle. |
-| value | Int32 | La valeur. |
+| valeur | Int32 | La valeur. |
 
-### Voir également
+### Voir aussi
 
 * class [Rational](../../../aspose.psd.xmp.types.derived/rational/)
 * class [Time](../)
-* espace de noms [Aspose.PSD.Xmp.Schemas.XmpDm](../../time/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpDm](../../../aspose.psd.xmp.schemas.xmpdm/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: LayerSectionResource.Subtype
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: LayerSectionResource propriété. Obtient ou définit le soustype.
+title: "LayerSectionResource.Subtype"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété LayerSectionResource. Obtient ou définit le sous-type"
 type: docs
-weight: 80
+weight: 50
 url: /fr/net/aspose.psd.fileformats.psd.layers.layerresources/layersectionresource/subtype/
 ---
+{{< psd/tize >}}
 ## LayerSectionResource.Subtype property
 
 Obtient ou définit le sous-type.
@@ -14,11 +15,11 @@ Obtient ou définit le sous-type.
 public LayerSectionSubtype Subtype { get; set; }
 ```
 
-### Voir également
+### Voir aussi
 
 * enum [LayerSectionSubtype](../../layersectionsubtype/)
 * class [LayerSectionResource](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../layersectionresource/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

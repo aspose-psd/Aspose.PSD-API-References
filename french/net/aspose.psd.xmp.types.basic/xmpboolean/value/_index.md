@@ -1,27 +1,28 @@
 ---
-title: XmpBoolean.Value
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: XmpBoolean propriété. Obtient ou définit une valeur indiquant si cetteXmpBoolean est la valeur.
+title: "XmpBoolean.Value"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété XmpBoolean. Obtient ou définit une valeur indiquant si cet XmpBoolean est vrai"
 type: docs
 weight: 20
 url: /fr/net/aspose.psd.xmp.types.basic/xmpboolean/value/
 ---
+{{< psd/tize >}}
 ## XmpBoolean.Value property
 
-Obtient ou définit une valeur indiquant si cette[`XmpBoolean`](../) est la valeur.
+Obtient ou définit une valeur indiquant si ce [`XmpBoolean`](../) est vrai.
 
 ```csharp
 public bool Value { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
-`vrai` si valeur ; sinon,`FAUX` .
+`true` si valeur ; sinon, `false`.
 
-### Voir également
+### Voir aussi
 
 * class [XmpBoolean](../)
-* espace de noms [Aspose.PSD.Xmp.Types.Basic](../../xmpboolean/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Basic](../../../aspose.psd.xmp.types.basic/)
+* assembly [Aspose.PSD](../../../)
 
 

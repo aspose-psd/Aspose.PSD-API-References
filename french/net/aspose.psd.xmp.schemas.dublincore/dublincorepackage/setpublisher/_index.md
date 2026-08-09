@@ -1,11 +1,12 @@
 ---
-title: DublinCorePackage.SetPublisher
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: DublinCorePackage méthode. Ajoute léditeur.
+title: "DublinCorePackage.SetPublisher"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "DublinCorePackage méthode. Ajoute l'éditeur"
 type: docs
 weight: 50
 url: /fr/net/aspose.psd.xmp.schemas.dublincore/dublincorepackage/setpublisher/
 ---
+{{< psd/tize >}}
 ## SetPublisher(string) {#setpublisher}
 
 Ajoute l'éditeur.
@@ -14,15 +15,15 @@ Ajoute l'éditeur.
 public void SetPublisher(string publisher)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
-| publisher | String | L'éditeur. |
+| éditeur | String | L'éditeur. |
 
-### Voir également
+### Voir aussi
 
 * class [DublinCorePackage](../)
-* espace de noms [Aspose.PSD.Xmp.Schemas.DublinCore](../../dublincorepackage/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.DublinCore](../../../aspose.psd.xmp.schemas.dublincore/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
@@ -34,9 +35,9 @@ Ajoute l'éditeur.
 public void SetPublisher(string[] publisher)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
-| publisher | String[] | L'éditeur. |
+| éditeur | String[] | L'éditeur. |
 
 ### Exceptions
 
@@ -44,10 +45,10 @@ public void SetPublisher(string[] publisher)
 | --- | --- |
 | ArgumentNullException | éditeur |
 
-### Voir également
+### Voir aussi
 
 * class [DublinCorePackage](../)
-* espace de noms [Aspose.PSD.Xmp.Schemas.DublinCore](../../dublincorepackage/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.DublinCore](../../../aspose.psd.xmp.schemas.dublincore/)
+* assembly [Aspose.PSD](../../../)
 
 

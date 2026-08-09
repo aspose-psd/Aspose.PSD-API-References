@@ -1,14 +1,15 @@
 ---
-title: Class GradientColorPoint
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: Aspose.PSD.FileFormats.Psd.Layers.FillSettings.GradientColorPoint classe. Le point de couleur dégradé.
+title: "Classe GradientColorPoint"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Classe Aspose.PSD.FileFormats.Psd.Layers.FillSettings.GradientColorPoint. Le point de couleur du dégradé"
 type: docs
-weight: 1950
+weight: 2060
 url: /fr/net/aspose.psd.fileformats.psd.layers.fillsettings/gradientcolorpoint/
 ---
+{{< psd/tize >}}
 ## GradientColorPoint class
 
-Le point de couleur dégradé.
+Le point de couleur du dégradé.
 
 ```csharp
 public class GradientColorPoint : IGradientColorPoint
@@ -16,23 +17,24 @@ public class GradientColorPoint : IGradientColorPoint
 
 ## Constructeurs
 
-| Nom | La description |
+| Nom | Description |
 | --- | --- |
-| [GradientColorPoint](gradientcolorpoint/#constructor)() | Initialise une nouvelle instance du`GradientColorPoint` classe. |
-| [GradientColorPoint](gradientcolorpoint/#constructor_1)(Color, int, int) | Initialise une nouvelle instance du`GradientColorPoint` classe. |
+| [GradientColorPoint](gradientcolorpoint/#constructor)() | Initialise une nouvelle instance de la classe `GradientColorPoint`. |
+| [GradientColorPoint](gradientcolorpoint/#constructor_1)(Color, int, int) | Initialise une nouvelle instance de la classe `GradientColorPoint`. |
 
 ## Propriétés
 
-| Nom | La description |
+| Nom | Description |
 | --- | --- |
-| [Location](../../aspose.psd.fileformats.psd.layers.fillsettings/gradientcolorpoint/location/) { get; set; } | Obtient ou définit l'emplacement du point sur le gradient. |
-| [MedianPointLocation](../../aspose.psd.fileformats.psd.layers.fillsettings/gradientcolorpoint/medianpointlocation/) { get; set; } | Obtient ou définit l'emplacement du point de gradient médian. |
+| [ColorMode](../../aspose.psd.fileformats.psd.layers.fillsettings/gradientcolorpoint/colormode/) { get; set; } | Mode pour la couleur à suivre |
+| [Location](../../aspose.psd.fileformats.psd.layers.fillsettings/gradientcolorpoint/location/) { get; set; } | Obtient ou définit l'emplacement du point sur le dégradé. |
+| [MedianPointLocation](../../aspose.psd.fileformats.psd.layers.fillsettings/gradientcolorpoint/medianpointlocation/) { get; set; } | Obtient ou définit l'emplacement du point médian du dégradé. |
 | [RawColor](../../aspose.psd.fileformats.psd.layers.fillsettings/gradientcolorpoint/rawcolor/) { get; set; } | Obtient ou définit la couleur du raw. |
 
-### Voir également
+### Voir aussi
 
 * interface [IGradientColorPoint](../../aspose.psd.fileformats.psd.layers/igradientcolorpoint/)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../aspose.psd.fileformats.psd.layers.fillsettings/)
-* Assemblée [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../)
 
 

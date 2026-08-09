@@ -1,27 +1,28 @@
 ---
-title: RectangleF.Top
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: RectangleF propriété. Obtient ou définit la coordonnée y du bord supérieur de ceRectangleFstructure.
+title: "RectangleF.Top"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété RectangleF. Obtient ou définit la coordonnée y du bord supérieur de cette structure RectangleF"
 type: docs
 weight: 150
 url: /fr/net/aspose.psd/rectanglef/top/
 ---
+{{< psd/tize >}}
 ## RectangleF.Top property
 
-Obtient ou définit la coordonnée y du bord supérieur de ce[`RectangleF`](../)structure.
+Obtient ou définit la coordonnée y du bord supérieur de cette structure [`RectangleF`](../).
 
 ```csharp
 public float Top { get; set; }
 ```
 
-### Return_Value
+### Valeur de retour
 
-La coordonnée y du bord supérieur de ce[`RectangleF`](../) structure.
+La coordonnée y du bord supérieur de cette structure [`RectangleF`](../).
 
-### Voir également
+### Voir aussi
 
 * struct [RectangleF](../)
-* espace de noms [Aspose.PSD](../../rectanglef/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

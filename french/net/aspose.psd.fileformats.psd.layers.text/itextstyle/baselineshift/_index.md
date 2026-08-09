@@ -1,23 +1,24 @@
 ---
-title: ITextStyle.BaselineShift
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: ITextStyle propriété. Le décalage de la ligne de base.
+title: "ITextStyle.BaselineShift"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété ITextStyle. Le décalage de la ligne de base"
 type: docs
 weight: 30
 url: /fr/net/aspose.psd.fileformats.psd.layers.text/itextstyle/baselineshift/
 ---
+{{< psd/tize >}}
 ## ITextStyle.BaselineShift property
 
-Le décalage de la ligne de base.
+Le décalage de ligne de base.
 
 ```csharp
 public double BaselineShift { get; set; }
 ```
 
-### Voir également
+### Voir aussi
 
 * interface [ITextStyle](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.Text](../../itextstyle/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.Text](../../../aspose.psd.fileformats.psd.layers.text/)
+* assembly [Aspose.PSD](../../../)
 
 

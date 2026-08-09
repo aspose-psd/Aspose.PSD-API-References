@@ -1,27 +1,28 @@
 ---
-title: ColorMatrix.Matrix14
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: ColorMatrix propriété. Obtient ou définit lélément à la première ligne et à la quatrième colonne de ceColorMatrix .
+title: "ColorMatrix.Matrix14"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété ColorMatrix. Obtient ou définit l'élément à la première ligne et quatrième colonne de ce ColorMatrix"
 type: docs
 weight: 120
 url: /fr/net/aspose.psd/colormatrix/matrix14/
 ---
+{{< psd/tize >}}
 ## ColorMatrix.Matrix14 property
 
-Obtient ou définit l'élément à la première ligne et à la quatrième colonne de ce[`ColorMatrix`](../) .
+Obtient ou définit l'élément à la première ligne et quatrième colonne de ce [`ColorMatrix`](../).
 
 ```csharp
 public float Matrix14 { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
-L'élément de la première ligne et de la quatrième colonne de ce[`ColorMatrix`](../).
+L'élément à la première ligne et quatrième colonne de ce [`ColorMatrix`](../).
 
-### Voir également
+### Voir aussi
 
 * class [ColorMatrix](../)
-* espace de noms [Aspose.PSD](../../colormatrix/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

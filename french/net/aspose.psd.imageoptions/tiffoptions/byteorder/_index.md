@@ -1,11 +1,12 @@
 ---
-title: TiffOptions.ByteOrder
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: TiffOptions propriété. Obtient ou définit une valeur indiquant lordre des octets tiff.
+title: "TiffOptions.ByteOrder"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété TiffOptions. Obtient ou définit une valeur indiquant l'ordre des octets du TIFF"
 type: docs
 weight: 60
 url: /fr/net/aspose.psd.imageoptions/tiffoptions/byteorder/
 ---
+{{< psd/tize >}}
 ## TiffOptions.ByteOrder property
 
 Obtient ou définit une valeur indiquant l'ordre des octets tiff.
@@ -14,11 +15,11 @@ Obtient ou définit une valeur indiquant l'ordre des octets tiff.
 public TiffByteOrder ByteOrder { get; set; }
 ```
 
-### Voir également
+### Voir aussi
 
 * enum [TiffByteOrder](../../../aspose.psd.fileformats.tiff.enums/tiffbyteorder/)
 * class [TiffOptions](../)
-* espace de noms [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

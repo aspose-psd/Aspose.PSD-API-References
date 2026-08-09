@@ -1,34 +1,35 @@
 ---
-title: AiImage.RotateFlip
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: AiImage méthode. Fait pivoter retourne ou fait pivoter et retourne limage.
+title: "AiImage.RotateFlip"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Méthode AiImage. Effectue des rotations, des retournements ou des rotations et retournements de l'image"
 type: docs
-weight: 160
+weight: 190
 url: /fr/net/aspose.psd.fileformats.ai/aiimage/rotateflip/
 ---
+{{< psd/tize >}}
 ## AiImage.RotateFlip method
 
-Fait pivoter, retourne ou fait pivoter et retourne l'image.
+Fait pivoter, retourner ou pivoter et retourner l'image.
 
 ```csharp
 public override void RotateFlip(RotateFlipType rotateFlipType)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
-| rotateFlipType | RotateFlipType | Type de retournement de rotation. |
+| rotateFlipType | RotateFlipType | Type de la rotation inversée. |
 
 ### Exceptions
 
 | exception | condition |
 | --- | --- |
-| NotImplementedException | Pas mis en œuvre |
+| NotImplementedException | Non implémenté |
 
-### Voir également
+### Voir aussi
 
 * enum [RotateFlipType](../../../aspose.psd/rotatefliptype/)
 * class [AiImage](../)
-* espace de noms [Aspose.PSD.FileFormats.Ai](../../aiimage/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

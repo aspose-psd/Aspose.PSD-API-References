@@ -1,11 +1,12 @@
 ---
-title: LayerHashCalculator.GetContentHash
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: LayerHashCalculator méthode. Obtient le hachage du contenu.
+title: "LayerHashCalculator.GetContentHash"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Méthode LayerHashCalculator. Obtient le hachage du contenu"
 type: docs
 weight: 40
 url: /fr/net/aspose.psd.fileformats.psd.layers/layerhashcalculator/getcontenthash/
 ---
+{{< psd/tize >}}
 ## LayerHashCalculator.GetContentHash method
 
 Obtient le hachage du contenu.
@@ -14,19 +15,19 @@ Obtient le hachage du contenu.
 public int GetContentHash()
 ```
 
-### Return_Value
+### Valeur de retour
 
-Le hachage des paramètres significatifs des calques. Ce hachage est différent pour tous les types de couches
+Le hachage des paramètres significatifs des calques. Ce hachage est différent pour tous les types de calques
 
-### Exemples
+## Exemples
 
-Le code suivant illustre l'API permettant d'obtenir le hachage unique pour des couches similaires dans différents fichiers.
+Le code suivant montre l'API permettant d'obtenir le hachage unique pour des calques similaires dans différents fichiers.
 
 ```csharp
 [C#]
 
 /// <summary>
-/// Obtient le nom de la couche par.
+/// Obtient le nom du calque par.
 /// </summary>
 /// <typeparam name="T"></typeparam>
 /// <param name="image">L'image.</param>
@@ -47,11 +48,11 @@ private static T GetLayerByName<T>(PsdImage image, string name) where T : Layer
 }
 
 /// <summary>
-/// Ares le pas égal.
+/// Ares le non égal.
 /// </summary>
 /// <typeparam name="T"></typeparam>
 /// <param name="expected">L'attendu.</param>
-/// <param name="réel">Le réel.</param>
+/// <param name="actual">Le réel.</param>
 /// <exception cref="System.Exception">Les arguments ne doivent pas être égaux</exception>
 public static void AreNotEqual<T>(T expected, T actual)
 {
@@ -62,11 +63,11 @@ public static void AreNotEqual<T>(T expected, T actual)
 }
 
 /// <summary>
-/// Ares l'égal.
+/// Ares le égal.
 /// </summary>
 /// <typeparam name="T"></typeparam>
 /// <param name="expected">L'attendu.</param>
-/// <param name="réel">Le réel.</param>
+/// <param name="actual">Le réel.</param>
 /// <exception cref="System.Exception">Les arguments doivent être égaux</exception>
 public static void AreEqual<T>(T expected, T actual)
 {
@@ -77,7 +78,7 @@ public static void AreEqual<T>(T expected, T actual)
 }
 
 /// <summary>
-/// Régulier le test de hachage du contenu de la couche.
+/// Regulars le test du hachage du contenu du calque.
 /// </summary>
 /// <param name="fileName">Nom du fichier.</param>
 public static void RegularLayerContentHashTest(string fileName)
@@ -99,12 +100,12 @@ public static void RegularLayerContentHashTest(string fileName)
         AreNotEqual(hashers[5].GetChannelsHash(), hashers[7].GetChannelsHash());
         AreNotEqual(hashers[0].GetChannelsHash(), hashers[8].GetChannelsHash());
 
-        // Les hachages de ces couches sont égaux
+        // Les hachages de ces calques sont égaux
         AreEqual(hashers[0].GetChannelsHash(), hashers[3].GetChannelsHash());
         AreEqual(hashers[1].GetChannelsHash(), hashers[4].GetChannelsHash());
         AreEqual(hashers[0].GetChannelsHash(), hashers[6].GetChannelsHash());
 
-        // Vérifier le hachage du mode de fusion 
+        // Vérifiez le hachage du mode de fusion 
         AreEqual(hashers[0].GetBlendingHash(), hashers[3].GetBlendingHash());
         AreEqual(hashers[1].GetBlendingHash(), hashers[4].GetBlendingHash());
         AreNotEqual(hashers[0].GetBlendingHash(), hashers[6].GetBlendingHash());
@@ -117,7 +118,7 @@ public static void RegularLayerContentHashTest(string fileName)
 }
 
 /// <summary>
-/// Remplit le test de hachage du contenu du calque.
+/// Remplit le test du hachage du contenu du calque.
 /// </summary>
 /// <param name="fileName">Nom du fichier.</param>
 public static void FillLayerContentHashTest(string fileName)
@@ -152,7 +153,7 @@ public static void FillLayerContentHashTest(string fileName)
 }
 
 /// <summary>
-/// Smarts le test de hachage du contenu de la couche objet.
+/// Smarts le test du hachage du contenu du calque d'objet.
 /// </summary>
 /// <param name="fileName">Nom du fichier.</param>
 public static void SmartObjectLayerContentHashTest(string fileName)
@@ -178,23 +179,23 @@ public static void SmartObjectLayerContentHashTest(string fileName)
             hashers[i] = new LayerHashCalculator(smartObjects[i]);
         }
 
-        // Les données de canal sont égales pour Layer et Createad à partir d'eux Smart Objects.
+        // Les données de canal sont égales pour le calque et créées à partir d'eux Smart Objects.
         AreEqual(hashers[0].GetChannelsHash(), hashers[2].GetChannelsHash());
         AreEqual(hashers[0].GetChannelsHash(), hashers[4].GetChannelsHash());
 
-        // Content Hash est différent, car Smart Object utilise d'autres données comme contenu
+        // Le hachage du contenu est différent, car l'objet intelligent utilise d'autres données comme contenu
         AreNotEqual(hashers[0].GetContentHash(), hashers[4].GetContentHash());
 
-        // Mais mélanger le hachage est similaire. Les deux calques - intelligent et régulier ont le mode de fusion normale et une opacité de 255
+        // Mais le hachage de mélange est similaire. Les deux calques - intelligent et régulier ont le mode de fusion Normal et une opacité de 255
         AreEqual(hashers[0].GetBlendingHash(), hashers[4].GetBlendingHash());
 
-        // Les données de canal sont égales pour Layer et Createad à partir d'eux Smart Objects.
+        // Les données de canal sont égales pour le calque et créées à partir d'eux Smart Objects.
         AreEqual(hashers[1].GetChannelsHash(), hashers[3].GetChannelsHash());
         AreEqual(hashers[1].GetChannelsHash(), hashers[5].GetChannelsHash());
 
-        // Content Hash est différent, car Smart Object utilise d'autres données comme contenu
+        // Le hachage du contenu est différent, car l'objet intelligent utilise d'autres données comme contenu
         AreNotEqual(hashers[1].GetContentHash(), hashers[5].GetContentHash());
-        // Mais mélanger le hachage est similaire. Les deux calques - intelligent et régulier ont le mode de fusion normale et une opacité de 255
+        // Mais le hachage de mélange est similaire. Les deux calques - intelligent et régulier ont le mode de fusion Normal et une opacité de 255
         AreEqual(hashers[1].GetBlendingHash(), hashers[5].GetBlendingHash());
 
         AreNotEqual(hashers[0].GetChannelsHash(), hashers[1].GetChannelsHash());
@@ -204,7 +205,7 @@ public static void SmartObjectLayerContentHashTest(string fileName)
 }
 
 /// <summary>
-/// Ajuste le test de hachage du contenu des calques.
+/// Ajustements le test de hachage du contenu des calques.
 /// </summary>
 /// <param name="fileName">Nom du fichier.</param>
 public static void AdjustmentLayersContentHashTest(string fileName)
@@ -248,7 +249,7 @@ public static void AdjustmentLayersContentHashTest(string fileName)
 }
 
 /// <summary>
-/// Texte le test de hachage du contenu des calques.
+/// Textes le test de hachage du contenu des calques.
 /// </summary>
 /// <param name="fileName">Nom du fichier.</param>
 public static void TextLayersContentHashTest(string fileName)
@@ -292,18 +293,18 @@ public static void TextLayersContentHashTest(string fileName)
         AreNotEqual(textHashers2[0].GetContentHash(), textHashers2[2].GetContentHash());
         AreNotEqual(textHashers2[0].GetContentHash(), textHashers2[3].GetContentHash());
 
-        // La matrice de transformation n'est pas utilisée dans le calcul de hachage. Vous devriez en plus le vérifier
+        // La matrice de transformation n'est pas utilisée dans le calcul du hachage. Vous devriez également la vérifier.
         AreEqual(textHashers2[0].GetContentHash(), textHashers2[4].GetContentHash());
 
         // Dans ce cas, nous avons une rotation dans la matrice
         AreNotEqual(textLayers2[0].TransformMatrix, textLayers2[4].TransformMatrix);
-        // Dans ce cas, nous n'avons que la traduction (Couche de texte décalée ci-dessous)
+        // Dans ce cas, nous n'avons qu'une translation (Calque de texte déplacé ci-dessous)
         AreNotEqual(textLayers2[0].TransformMatrix, textLayers2[1].TransformMatrix);
     }
 }
 
 /// <summary>
-/// Regroupe le test de hachage du contenu de la couche.
+/// Groupes le test de hachage du contenu du calque.
 /// </summary>
 /// <param name="fileName">Nom du fichier.</param>
 public static void GroupLayerContentHashTest(string fileName)
@@ -323,14 +324,14 @@ public static void GroupLayerContentHashTest(string fileName)
             groupLayersHashers[i] = new LayerHashCalculator(groupLayers[i]);
         }
 
-        // Group Layer Hash est calculé à partir des couches à l'intérieur
+        // Le Group Layer Hash est calculé à partir des calques qu'il contient
         AreEqual(groupLayersHashers[0].GetContentHash(), groupLayersHashers[1].GetContentHash());
         AreNotEqual(groupLayers[0], groupLayers[1]);
     }
 }
 
 /// <summary>
-/// Régulier le contenu de la couche à partir de différents fichiers de test de hachage.
+/// Réguliers le test de hachage du contenu du calque provenant de différents fichiers.
 /// </summary>
 /// <param name="fileName">Nom du fichier.</param>
 public static void RegularLayerContentFromDifferentFilesHashTest(string fileName, string outputFile)
@@ -365,10 +366,10 @@ public static void RegularLayerContentFromDifferentFilesHashTest(string fileName
 }
 ```
 
-### Voir également
+### Voir aussi
 
 * class [LayerHashCalculator](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers](../../layerhashcalculator/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

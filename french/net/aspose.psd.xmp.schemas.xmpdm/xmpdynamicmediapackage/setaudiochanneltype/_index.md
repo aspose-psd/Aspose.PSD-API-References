@@ -1,11 +1,12 @@
 ---
-title: XmpDynamicMediaPackage.SetAudioChannelType
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: XmpDynamicMediaPackage méthode. Définit le type de canal audio.
+title: "XmpDynamicMediaPackage.SetAudioChannelType"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Méthode XmpDynamicMediaPackage. Définit le type de canal audio"
 type: docs
 weight: 80
 url: /fr/net/aspose.psd.xmp.schemas.xmpdm/xmpdynamicmediapackage/setaudiochanneltype/
 ---
+{{< psd/tize >}}
 ## XmpDynamicMediaPackage.SetAudioChannelType method
 
 Définit le type de canal audio.
@@ -14,15 +15,15 @@ Définit le type de canal audio.
 public void SetAudioChannelType(AudioChannelType audioChannelType)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
 | audioChannelType | AudioChannelType | Type de canal audio. |
 
-### Voir également
+### Voir aussi
 
 * class [AudioChannelType](../../audiochanneltype/)
 * class [XmpDynamicMediaPackage](../)
-* espace de noms [Aspose.PSD.Xmp.Schemas.XmpDm](../../xmpdynamicmediapackage/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpDm](../../../aspose.psd.xmp.schemas.xmpdm/)
+* assembly [Aspose.PSD](../../../)
 
 

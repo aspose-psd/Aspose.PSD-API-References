@@ -1,27 +1,28 @@
 ---
-title: ExifData.UserComment
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: ExifData propriété. Obtient ou définit le commentaire de lutilisateur.
+title: "ExifData.UserComment"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété ExifData. Obtient ou définit le commentaire de l'utilisateur"
 type: docs
 weight: 1060
 url: /fr/net/aspose.psd.exif/exifdata/usercomment/
 ---
+{{< psd/tize >}}
 ## ExifData.UserComment property
 
-Obtient ou définit le commentaire de l'utilisateur.
+Obtient ou définit le commentaire de l’utilisateur.
 
 ```csharp
 public string UserComment { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
 Le commentaire de l'utilisateur.
 
-### Voir également
+### Voir aussi
 
 * class [ExifData](../)
-* espace de noms [Aspose.PSD.Exif](../../exifdata/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

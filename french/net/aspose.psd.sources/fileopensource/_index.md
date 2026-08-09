@@ -1,14 +1,15 @@
 ---
-title: Class FileOpenSource
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: Aspose.PSD.Sources.FileOpenSource classe. Représente une source de fichier à ouvrir.
+title: "Classe FileOpenSource"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Classe Aspose.PSD.Sources.FileOpenSource. Représente une source de fichier pour l'ouverture"
 type: docs
-weight: 5600
+weight: 6100
 url: /fr/net/aspose.psd.sources/fileopensource/
 ---
+{{< psd/tize >}}
 ## FileOpenSource class
 
-Représente une source de fichier à ouvrir.
+Représente une source de fichier pour l'ouverture.
 
 ```csharp
 public sealed class FileOpenSource : FileSource
@@ -16,27 +17,27 @@ public sealed class FileOpenSource : FileSource
 
 ## Constructeurs
 
-| Nom | La description |
+| Nom | Description |
 | --- | --- |
-| [FileOpenSource](fileopensource/)(string) | Initialise une nouvelle instance du`FileOpenSource` classe. |
+| [FileOpenSource](fileopensource/)(string) | Initialise une nouvelle instance de la classe `FileOpenSource`. |
 
 ## Propriétés
 
-| Nom | La description |
+| Nom | Description |
 | --- | --- |
 | [FilePath](../../aspose.psd.sources/fileopensource/filepath/) { get; } | Obtient le chemin du fichier à ouvrir. |
-| override [IsTemporal](../../aspose.psd.sources/fileopensource/istemporal/) { get; } | Obtient une valeur indiquant si le fichier sera temporel. |
+| override [IsTemporal](../../aspose.psd.sources/fileopensource/istemporal/) { get; } | Obtient une valeur indiquant si le fichier sera temporaire. |
 
 ## Méthodes
 
-| Nom | La description |
+| Nom | Description |
 | --- | --- |
 | override [GetStreamContainer](../../aspose.psd.sources/fileopensource/getstreamcontainer/)() | Obtient le conteneur de flux. |
 
-### Voir également
+### Voir aussi
 
 * class [FileSource](../filesource/)
-* espace de noms [Aspose.PSD.Sources](../../aspose.psd.sources/)
-* Assemblée [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Sources](../../aspose.psd.sources/)
+* assembly [Aspose.PSD](../../)
 
 

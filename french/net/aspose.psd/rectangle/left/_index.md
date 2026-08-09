@@ -1,27 +1,28 @@
 ---
-title: Rectangle.Left
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: Rectangle propriété. Obtient ou définit la coordonnée x du bord gauche de ceRectanglestructure.
+title: "Rectangle.Left"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété Rectangle. Obtient ou définit la coordonnée x du bord gauche de cette structure Rectangle."
 type: docs
 weight: 140
 url: /fr/net/aspose.psd/rectangle/left/
 ---
+{{< psd/tize >}}
 ## Rectangle.Left property
 
-Obtient ou définit la coordonnée x du bord gauche de ce[`Rectangle`](../)structure.
+Obtient ou définit la coordonnée x du bord gauche de cette structure [`Rectangle`](../).
 
 ```csharp
 public int Left { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
-La coordonnée x du bord gauche de ce[`Rectangle`](../) structure.
+La coordonnée x du bord gauche de cette structure [`Rectangle`](../).
 
-### Voir également
+### Voir aussi
 
 * struct [Rectangle](../)
-* espace de noms [Aspose.PSD](../../rectangle/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

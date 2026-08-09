@@ -1,28 +1,29 @@
 ---
-title: Layer.LayerOptions
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: Layer propriété. Obtient les options de calque.
+title: "Layer.LayerOptions"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété Layer. Obtient les options de la couche"
 type: docs
-weight: 230
+weight: 240
 url: /fr/net/aspose.psd.fileformats.psd.layers/layer/layeroptions/
 ---
+{{< psd/tize >}}
 ## Layer.LayerOptions property
 
-Obtient les options de calque.
+Obtient les options du calque.
 
 ```csharp
 public PsdOptions LayerOptions { get; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
-Les options de calque.
+Les options de la couche.
 
-### Voir également
+### Voir aussi
 
 * class [PsdOptions](../../../aspose.psd.imageoptions/psdoptions/)
 * class [Layer](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers](../../layer/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

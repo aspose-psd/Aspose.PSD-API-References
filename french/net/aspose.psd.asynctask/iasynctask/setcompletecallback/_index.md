@@ -1,11 +1,12 @@
 ---
-title: IAsyncTask.SetCompleteCallback
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: IAsyncTask méthode. Définit le délégué de rappel complet.
+title: "IAsyncTask.SetCompleteCallback"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Méthode IAsyncTask. Définit le délégué de rappel complet."
 type: docs
 weight: 100
 url: /fr/net/aspose.psd.asynctask/iasynctask/setcompletecallback/
 ---
+{{< psd/tize >}}
 ## IAsyncTask.SetCompleteCallback method
 
 Définit le délégué de rappel complet.
@@ -14,15 +15,15 @@ Définit le délégué de rappel complet.
 public void SetCompleteCallback(CompleteCallback completeCallback)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
 | completeCallback | CompleteCallback | Le rappel complet. |
 
-### Voir également
+### Voir aussi
 
 * delegate [CompleteCallback](../../completecallback/)
 * interface [IAsyncTask](../)
-* espace de noms [Aspose.PSD.AsyncTask](../../iasynctask/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.AsyncTask](../../../aspose.psd.asynctask/)
+* assembly [Aspose.PSD](../../../)
 
 

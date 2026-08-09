@@ -1,11 +1,12 @@
 ---
-title: MotionWienerFilterOptions.Angle
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: MotionWienerFilterOptions propriété. Obtient ou définit langle en gradus.
+title: "MotionWienerFilterOptions.Angle"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété MotionWienerFilterOptions. Obtient ou définit l'angle en gradus"
 type: docs
 weight: 20
 url: /fr/net/aspose.psd.imagefilters.filteroptions/motionwienerfilteroptions/angle/
 ---
+{{< psd/tize >}}
 ## MotionWienerFilterOptions.Angle property
 
 Obtient ou définit l'angle en gradus.
@@ -14,14 +15,14 @@ Obtient ou définit l'angle en gradus.
 public double Angle { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
 L'angle.
 
-### Voir également
+### Voir aussi
 
 * class [MotionWienerFilterOptions](../)
-* espace de noms [Aspose.PSD.ImageFilters.FilterOptions](../../motionwienerfilteroptions/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageFilters.FilterOptions](../../../aspose.psd.imagefilters.filteroptions/)
+* assembly [Aspose.PSD](../../../)
 
 

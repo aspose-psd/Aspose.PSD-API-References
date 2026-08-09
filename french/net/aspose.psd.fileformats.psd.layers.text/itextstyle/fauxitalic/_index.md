@@ -1,23 +1,24 @@
 ---
-title: ITextStyle.FauxItalic
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: ITextStyle propriété. Obtient ou définit que le faux gras est activé.
+title: "ITextStyle.FauxItalic"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "ITextStyle propriété. Obtient ou définit si le faux gras est activé"
 type: docs
 weight: 70
 url: /fr/net/aspose.psd.fileformats.psd.layers.text/itextstyle/fauxitalic/
 ---
+{{< psd/tize >}}
 ## ITextStyle.FauxItalic property
 
-Obtient ou définit que le faux gras est activé.
+Obtient ou définit si le faux gras est activé.
 
 ```csharp
 public bool FauxItalic { get; set; }
 ```
 
-### Voir également
+### Voir aussi
 
 * interface [ITextStyle](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.Text](../../itextstyle/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.Text](../../../aspose.psd.fileformats.psd.layers.text/)
+* assembly [Aspose.PSD](../../../)
 
 

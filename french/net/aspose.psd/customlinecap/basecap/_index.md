@@ -1,28 +1,29 @@
 ---
-title: CustomLineCap.BaseCap
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: CustomLineCap propriété. Obtient ou définit leLineCap énumération sur laquelle ceCustomLineCap est basé.
+title: "CustomLineCap.BaseCap"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété CustomLineCap. Obtient ou définit l'énumération LineCap sur laquelle ce CustomLineCap est basé"
 type: docs
 weight: 20
 url: /fr/net/aspose.psd/customlinecap/basecap/
 ---
+{{< psd/tize >}}
 ## CustomLineCap.BaseCap property
 
-Obtient ou définit le[`LineCap`](../../linecap/) énumération sur laquelle ce[`CustomLineCap`](../) est basé.
+Obtient ou définit l'énumération [`LineCap`](../../linecap/) sur laquelle ce [`CustomLineCap`](../) est basé.
 
 ```csharp
 public LineCap BaseCap { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
-Le[`LineCap`](../../linecap/) énumération sur laquelle ce[`CustomLineCap`](../) est basé.
+L'énumération [`LineCap`](../../linecap/) sur laquelle ce [`CustomLineCap`](../) est basé.
 
-### Voir également
+### Voir aussi
 
 * enum [LineCap](../../linecap/)
 * class [CustomLineCap](../)
-* espace de noms [Aspose.PSD](../../customlinecap/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

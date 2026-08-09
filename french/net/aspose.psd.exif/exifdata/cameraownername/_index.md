@@ -1,27 +1,28 @@
 ---
-title: ExifData.CameraOwnerName
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: ExifData propriété. Obtient ou définit le nom du propriétaire de la caméra
+title: "ExifData.CameraOwnerName"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété ExifData. Obtient ou définit le nom du propriétaire de l'appareil photo"
 type: docs
 weight: 50
 url: /fr/net/aspose.psd.exif/exifdata/cameraownername/
 ---
+{{< psd/tize >}}
 ## ExifData.CameraOwnerName property
 
-Obtient ou définit le nom du propriétaire de la caméra
+Obtient ou définit le nom du propriétaire de l'appareil photo
 
 ```csharp
 public string CameraOwnerName { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
-Le nom du propriétaire de la caméra.
+Le nom du propriétaire de l'appareil photo.
 
-### Voir également
+### Voir aussi
 
 * class [ExifData](../)
-* espace de noms [Aspose.PSD.Exif](../../exifdata/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

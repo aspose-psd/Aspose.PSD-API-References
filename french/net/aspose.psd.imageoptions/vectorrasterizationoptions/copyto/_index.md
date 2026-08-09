@@ -1,11 +1,12 @@
 ---
-title: VectorRasterizationOptions.CopyTo
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: VectorRasterizationOptions méthode. Copie vers.
+title: "VectorRasterizationOptions.CopyTo"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "VectorRasterizationOptions méthode. Copie vers"
 type: docs
 weight: 110
 url: /fr/net/aspose.psd.imageoptions/vectorrasterizationoptions/copyto/
 ---
+{{< psd/tize >}}
 ## VectorRasterizationOptions.CopyTo method
 
 Copie vers.
@@ -14,14 +15,14 @@ Copie vers.
 public void CopyTo(VectorRasterizationOptions vectorRasterizationOptions)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
-| vectorRasterizationOptions | VectorRasterizationOptions | Les options de pixellisation vectorielle. |
+| vectorRasterizationOptions | VectorRasterizationOptions | Les options de rasterisation vectorielle. |
 
-### Voir également
+### Voir aussi
 
 * class [VectorRasterizationOptions](../)
-* espace de noms [Aspose.PSD.ImageOptions](../../vectorrasterizationoptions/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

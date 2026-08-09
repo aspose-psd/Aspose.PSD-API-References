@@ -1,11 +1,12 @@
 ---
-title: Enum ExifFlash
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: Aspose.PSD.Exif.Enums.ExifFlash énumération. Mode flash.
+title: "Enum ExifFlash"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Aspose.PSD.Exif.Enums.ExifFlash enum. Mode flash"
 type: docs
-weight: 860
+weight: 870
 url: /fr/net/aspose.psd.exif.enums/exifflash/
 ---
+{{< psd/tize >}}
 ## ExifFlash enumeration
 
 Mode flash.
@@ -16,26 +17,26 @@ public enum ExifFlash
 
 ### Valeurs
 
-| Nom | Évaluer | La description |
+| Nom | Valeur | Description |
 | --- | --- | --- |
 | Noflash | `0` | Aucun flash déclenché. |
 | Fired | `1` | Flash déclenché. |
-| FiredReturnLightNotDetected | `5` | Flash déclenché, retour de lumière non détecté. |
-| FiredReturnLightDetected | `7` | Flash déclenché, retour de lumière détecté. |
+| FiredReturnLightNotDetected | `5` | Flash déclenché, lumière de retour non détectée. |
+| FiredReturnLightDetected | `7` | Flash déclenché, lumière de retour détectée. |
 | YesCompulsory | `9` | Flash déclenché, mode flash obligatoire. |
-| YesCompulsoryReturnLightNotDetected | `13` | Flash déclenché, mode obligatoire, retour de lumière non détecté. |
-| YesCompulsoryReturnLightDetected | `15` | Flash déclenché, mode obligatoire, retour de lumière détecté. |
-| NoCompulsory | `16` | Le flash ne s'est pas déclenché, mode flash obligatoire. |
-| NoDidNotFireReturnLightNotDetected | `20` | Le flash ne s'est pas déclenché, la lumière de retour n'a pas été détectée. |
-| NoAuto | `24` | Le flash ne s'est pas déclenché, mode automatique. |
-| YesAuto | `25` | Flash déclenché en mode automatique. |
+| YesCompulsoryReturnLightNotDetected | `13` | Flash déclenché, mode obligatoire, lumière de retour non détectée. |
+| YesCompulsoryReturnLightDetected | `15` | Flash déclenché, mode obligatoire, lumière de retour détectée. |
+| NoCompulsory | `16` | Le flash n'a pas été déclenché, mode flash obligatoire. |
+| NoDidNotFireReturnLightNotDetected | `20` | Le flash n'a pas été déclenché, lumière de retour non détectée. |
+| NoAuto | `24` | Le flash n'a pas été déclenché, mode automatique. |
+| YesAuto | `25` | Flash déclenché mode automatique. |
 | YesAutoReturnLightNotDetected | `29` | Flash déclenché, mode automatique, lumière de retour non détectée. |
-| YesAutoReturnLightDetected | `31` | Flash déclenché, mode automatique, retour de lumière détecté. |
-| NoFlashFunction | `32` | Pas de fonction flash. |
+| YesAutoReturnLightDetected | `31` | Flash déclenché, mode automatique, lumière de retour détectée. |
+| NoFlashFunction | `32` | Aucune fonction flash. |
 
-### Voir également
+### Voir aussi
 
-* espace de noms [Aspose.PSD.Exif.Enums](../../aspose.psd.exif.enums/)
-* Assemblée [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Exif.Enums](../../aspose.psd.exif.enums/)
+* assembly [Aspose.PSD](../../)
 
 

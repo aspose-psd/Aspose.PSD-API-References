@@ -1,16 +1,17 @@
 ---
-title: Aspose.PSD.Evalute
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: Traitement de lentête DIB de lespace de noms.
+title: "Aspose.PSD.Evalute"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "L'espace de noms DIB header processing"
 type: docs
-weight: 80
+weight: 90
 url: /fr/net/aspose.psd.evalute/
 ---
-Traitement de l'en-tête DIB de l'espace de noms.
+{{< psd/tize >}}
+L'espace de noms traite l'en-tête DIB.
 
-## Des classes
+## Classes
 
-| Classer | La description |
+| Classe | Description |
 | --- | --- |
 | [EvalException](./evalexception/) | Exception personnalisée pour les erreurs d'évaluation |
 

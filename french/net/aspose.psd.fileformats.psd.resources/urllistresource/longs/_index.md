@@ -1,11 +1,12 @@
 ---
-title: UrlListResource.Longs
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: UrlListResource propriété. Obtient ou définit les longs.
+title: "UrlListResource.Longs"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété UrlListResource. Obtient ou définit les valeurs longues"
 type: docs
 weight: 50
 url: /fr/net/aspose.psd.fileformats.psd.resources/urllistresource/longs/
 ---
+{{< psd/tize >}}
 ## UrlListResource.Longs property
 
 Obtient ou définit les longs.
@@ -14,14 +15,14 @@ Obtient ou définit les longs.
 public int[] Longs { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
-Les longues.
+Les valeurs longues.
 
-### Voir également
+### Voir aussi
 
 * class [UrlListResource](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Resources](../../urllistresource/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

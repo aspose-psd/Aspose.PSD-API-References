@@ -1,28 +1,29 @@
 ---
-title: RasterImage.SetResolution
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: RasterImage méthode. Définit la résolution pour ceRasterImage .
+title: "RasterImage.SetResolution"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Méthode RasterImage. Définit la résolution pour ce RasterImage"
 type: docs
-weight: 570
+weight: 590
 url: /fr/net/aspose.psd/rasterimage/setresolution/
 ---
+{{< psd/tize >}}
 ## RasterImage.SetResolution method
 
-Définit la résolution pour ce[`RasterImage`](../) .
+Définit la résolution pour ce [`RasterImage`](../).
 
 ```csharp
 public virtual void SetResolution(double dpiX, double dpiY)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
-| dpiX | Double | La résolution horizontale, en points par pouce, du[`RasterImage`](../). |
-| dpiY | Double | La résolution verticale, en points par pouce, du[`RasterImage`](../). |
+| dpiX | Double | La résolution horizontale, en points par pouce, du [`RasterImage`](../). |
+| dpiY | Double | La résolution verticale, en points par pouce, du [`RasterImage`](../). |
 
-### Voir également
+### Voir aussi
 
 * class [RasterImage](../)
-* espace de noms [Aspose.PSD](../../rasterimage/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

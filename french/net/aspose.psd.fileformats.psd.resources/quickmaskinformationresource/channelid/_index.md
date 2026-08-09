@@ -1,11 +1,12 @@
 ---
-title: QuickMaskInformationResource.ChannelId
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: QuickMaskInformationResource propriété. Obtient ou définit lidentifiant du canal.
+title: "QuickMaskInformationResource.ChannelId"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété QuickMaskInformationResource. Obtient ou définit l'identifiant du canal"
 type: docs
 weight: 20
 url: /fr/net/aspose.psd.fileformats.psd.resources/quickmaskinformationresource/channelid/
 ---
+{{< psd/tize >}}
 ## QuickMaskInformationResource.ChannelId property
 
 Obtient ou définit l'identifiant du canal.
@@ -14,14 +15,14 @@ Obtient ou définit l'identifiant du canal.
 public short ChannelId { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
 L'identifiant du canal.
 
-### Voir également
+### Voir aussi
 
 * class [QuickMaskInformationResource](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Resources](../../quickmaskinformationresource/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

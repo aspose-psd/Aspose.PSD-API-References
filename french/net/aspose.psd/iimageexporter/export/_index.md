@@ -1,11 +1,12 @@
 ---
-title: IImageExporter.Export
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: IImageExporter méthode. Exporte les données dimage spécifiées dans le format de données spécifié.
+title: "IImageExporter.Export"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Méthode IImageExporter. Exporte les données d'image spécifiées dans le format de données spécifié"
 type: docs
 weight: 10
 url: /fr/net/aspose.psd/iimageexporter/export/
 ---
+{{< psd/tize >}}
 ## Export(Image, Stream, ImageOptionsBase) {#export}
 
 Exporte les données d'image spécifiées dans le format de données spécifié.
@@ -14,19 +15,19 @@ Exporte les données d'image spécifiées dans le format de données spécifié.
 public void Export(Image image, Stream stream, ImageOptionsBase optionsBase)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
 | image | Image | Les données d'image à exporter. |
 | stream | Stream | Le flux vers lequel exporter les données. |
-| optionsBase | ImageOptionsBase | Options d'exportation d'images |
+| optionsBase | ImageOptionsBase | Options d'exportation d'image |
 
-### Voir également
+### Voir aussi
 
 * class [Image](../../image/)
 * class [ImageOptionsBase](../../imageoptionsbase/)
 * interface [IImageExporter](../)
-* espace de noms [Aspose.PSD](../../iimageexporter/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
@@ -39,20 +40,20 @@ public void Export(Image image, Stream stream, ImageOptionsBase optionsBase,
     Rectangle boundsRectangle)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
 | image | Image | Les données d'image à exporter. |
 | stream | Stream | Le flux vers lequel exporter les données. |
-| optionsBase | ImageOptionsBase | Options d'exportation d'images |
+| optionsBase | ImageOptionsBase | Options d'exportation d'image |
 | boundsRectangle | Rectangle | Le rectangle des limites. |
 
-### Voir également
+### Voir aussi
 
 * class [Image](../../image/)
 * class [ImageOptionsBase](../../imageoptionsbase/)
 * struct [Rectangle](../../rectangle/)
 * interface [IImageExporter](../)
-* espace de noms [Aspose.PSD](../../iimageexporter/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

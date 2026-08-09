@@ -1,28 +1,29 @@
 ---
-title: ColorPaletteHelper.CreateMonochrome
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: ColorPaletteHelper méthode. Crée une palette de couleurs monochrome contenant 2 couleurs uniquement.
+title: "ColorPaletteHelper.CreateMonochrome"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Méthode ColorPaletteHelper. Crée une palette de couleur monochrome contenant uniquement 2 couleurs"
 type: docs
 weight: 50
 url: /fr/net/aspose.psd/colorpalettehelper/createmonochrome/
 ---
+{{< psd/tize >}}
 ## ColorPaletteHelper.CreateMonochrome method
 
-Crée une palette de couleurs monochrome contenant 2 couleurs uniquement.
+Crée une palette de couleurs monochrome contenant uniquement 2 couleurs.
 
 ```csharp
 public static IColorPalette CreateMonochrome()
 ```
 
-### Return_Value
+### Valeur de retour
 
-Palette de couleurs pour les images monochromes.
+Palette de couleur pour les images monochromes.
 
-### Voir également
+### Voir aussi
 
 * interface [IColorPalette](../../icolorpalette/)
 * class [ColorPaletteHelper](../)
-* espace de noms [Aspose.PSD](../../colorpalettehelper/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

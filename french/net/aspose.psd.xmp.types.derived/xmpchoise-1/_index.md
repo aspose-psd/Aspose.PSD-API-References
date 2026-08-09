@@ -1,11 +1,12 @@
 ---
-title: Class XmpChoiseT
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: Aspose.PSD.Xmp.Types.Derived.XmpChoise1T classe. Représente une valeur du vocabulaire des valeurs.
+title: "Classe XmpChoiseT"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Classe Aspose.PSD.Xmp.Types.Derived.XmpChoise1T. Représente une valeur du vocabulaire des valeurs"
 type: docs
-weight: 6150
+weight: 6650
 url: /fr/net/aspose.psd.xmp.types.derived/xmpchoise-1/
 ---
+{{< psd/tize >}}
 ## XmpChoise&lt;T&gt; class
 
 Représente une valeur du vocabulaire des valeurs.
@@ -14,32 +15,32 @@ Représente une valeur du vocabulaire des valeurs.
 public class XmpChoise<T> : XmpTypeBase
 ```
 
-| Paramètre | La description |
+| Paramètre | Description |
 | --- | --- |
-| T | Le type d'éléments. |
+| T | Le type des éléments. |
 
 ## Constructeurs
 
-| Nom | La description |
+| Nom | Description |
 | --- | --- |
-| [XmpChoise](xmpchoise/)() | Default_Constructor |
+| [XmpChoise](xmpchoise/)() | Le constructeur par défaut. |
 
 ## Propriétés
 
-| Nom | La description |
+| Nom | Description |
 | --- | --- |
 | [IsOpen](../../aspose.psd.xmp.types.derived/xmpchoise-1/isopen/) { get; set; } | Obtient ou définit une valeur indiquant si les valeurs préférées peuvent être étendues. |
 
 ## Méthodes
 
-| Nom | La description |
+| Nom | Description |
 | --- | --- |
-| override [GetXmpRepresentation](../../aspose.psd.xmp.types.derived/xmpchoise-1/getxmprepresentation/)() | Obtient la valeur contenue dans la chaîne au format XMP. |
+| override [GetXmpRepresentation](../../aspose.psd.xmp.types.derived/xmpchoise-1/getxmprepresentation/)() | Obtient la valeur de chaîne contenue au format XMP. |
 
-### Voir également
+### Voir aussi
 
 * class [XmpTypeBase](../../aspose.psd.xmp.types/xmptypebase/)
-* espace de noms [Aspose.PSD.Xmp.Types.Derived](../../aspose.psd.xmp.types.derived/)
-* Assemblée [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Xmp.Types.Derived](../../aspose.psd.xmp.types.derived/)
+* assembly [Aspose.PSD](../../)
 
 

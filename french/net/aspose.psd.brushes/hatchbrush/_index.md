@@ -1,14 +1,15 @@
 ---
-title: Class HatchBrush
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: Aspose.PSD.Brushes.HatchBrush classe. Définit un pinceau rectangulaire avec un style de hachures une couleur de premier plan et une couleur darrièreplan. Cette classe ne peut pas être héritée.
+title: "Classe HatchBrush"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Classe Aspose.PSD.Brushes.HatchBrush. Définit un brush rectangulaire avec un style de hachure, une couleur de premier plan et une couleur d'arrière-plan. Cette classe ne peut pas être héritée"
 type: docs
 weight: 130
 url: /fr/net/aspose.psd.brushes/hatchbrush/
 ---
+{{< psd/tize >}}
 ## HatchBrush class
 
-Définit un pinceau rectangulaire avec un style de hachures, une couleur de premier plan et une couleur d'arrière-plan. Cette classe ne peut pas être héritée.
+Définit un pinceau rectangulaire avec un style hachuré, une couleur de premier plan et une couleur d'arrière-plan. Cette classe ne peut pas être héritée.
 
 ```csharp
 public sealed class HatchBrush : Brush
@@ -16,73 +17,73 @@ public sealed class HatchBrush : Brush
 
 ## Constructeurs
 
-| Nom | La description |
+| Nom | Description |
 | --- | --- |
-| [HatchBrush](hatchbrush/)() | Default_Constructor |
+| [HatchBrush](hatchbrush/)() | Le constructeur par défaut. |
 
 ## Propriétés
 
-| Nom | La description |
+| Nom | Description |
 | --- | --- |
-| [BackgroundColor](../../aspose.psd.brushes/hatchbrush/backgroundcolor/) { get; set; } | Obtient ou définit la couleur des espaces entre les lignes hachurées. |
-| [Disposed](../../aspose.psd/disposableobject/disposed/) { get; } | Obtient une valeur indiquant si cette instance est supprimée. |
-| [ForegroundColor](../../aspose.psd.brushes/hatchbrush/foregroundcolor/) { get; set; } | Obtient ou définit la couleur des lignes hachurées. |
-| [HatchStyle](../../aspose.psd.brushes/hatchbrush/hatchstyle/) { get; set; } | Obtient ou définit le style de hachure de ce pinceau. |
-| [Opacity](../../aspose.psd/brush/opacity/) { get; set; } | Obtient ou définit l'opacité du pinceau. La valeur doit être comprise entre 0 et 1. La valeur 0 signifie que le pinceau est entièrement visible, la valeur 1 signifie que le pinceau est entièrement opaque. |
+| [BackgroundColor](../../aspose.psd.brushes/hatchbrush/backgroundcolor/) { get; set; } | Obtient ou définit la couleur des espaces entre les lignes de hachure. |
+| [Disposed](../../aspose.psd/disposableobject/disposed/) { get; } | Obtient une valeur indiquant si cette instance est libérée. |
+| [ForegroundColor](../../aspose.psd.brushes/hatchbrush/foregroundcolor/) { get; set; } | Obtient ou définit la couleur des lignes de hachure. |
+| [HatchStyle](../../aspose.psd.brushes/hatchbrush/hatchstyle/) { get; set; } | Obtient ou définit le style de hachure de ce brush. |
+| [Opacity](../../aspose.psd/brush/opacity/) { get; set; } | Obtient ou définit l'opacité du pinceau. La valeur doit être comprise entre 0 et 1. Une valeur de 0 signifie que le pinceau est entièrement visible, une valeur de 1 signifie que le pinceau est entièrement opaque. |
 
 ## Méthodes
 
-| Nom | La description |
+| Nom | Description |
 | --- | --- |
-| virtual [DeepClone](../../aspose.psd/brush/deepclone/)() | Crée un nouveau clone profond du courant[`Brush`](../../aspose.psd/brush/) . |
-| [Dispose](../../aspose.psd/disposableobject/dispose/)() | Supprime l'instance actuelle. |
+| virtual [DeepClone](../../aspose.psd/brush/deepclone/)() | Crée un nouveau clone profond du [`Brush`](../../aspose.psd/brush/) actuel. |
+| [Dispose](../../aspose.psd/disposableobject/dispose/)() | Libère l'instance actuelle. |
 
-### Exemples
+## Exemples
 
-Cet exemple montre la création et l'utilisation des objets Pen. L'exemple crée une nouvelle image et dessine des rectangles sur la surface de l'image.
+Cet exemple montre la création et l'utilisation d'objets Pen. L'exemple crée une nouvelle Image et dessine des Rectangles sur la surface de l'Image.
 
 ```csharp
 [C#]
 
-//Créer une instance de Image
+//Créez une instance d'Image
 using (Aspose.PSD.Image image = new Aspose.PSD.FileFormats.Psd.PsdImage(500, 500))
 {
-    //Créer une instance de Graphics et l'initialiser avec l'objet Image
+    //Créez une instance de Graphics et initialisez-la avec un objet Image
     Aspose.PSD.Graphics graphics = new Aspose.PSD.Graphics(image);
 
-    //Effacer la surface graphique avec la couleur blanche
+    //Effacez la surface Graphics avec la couleur blanche
     graphics.Clear(Aspose.PSD.Color.White);
 
-    //Crée une instance de Pen avec la couleur Rouge et la largeur 5
+    //Créez une instance de Pen avec la couleur Rouge et une largeur de 5
     Aspose.PSD.Pen pen = new Pen(Aspose.PSD.Color.Red, 5);
 
-    //Créer une instance de HatchBrush et définir ses propriétés
+    //Créez une instance de HatchBrush et définissez ses propriétés
     Aspose.PSD.Brushes.HatchBrush brush = new Aspose.PSD.Brushes.HatchBrush();
     brush.BackgroundColor = Color.Wheat;
     brush.ForegroundColor = Color.Red;
 
-    //Créer une instance de Pen
-    // l'initialise avec l'objet HatchBrush et sa largeur
+    //Créez une instance de Pen
+    //initialisez-la avec un objet HatchBrush et une largeur
     Aspose.PSD.Pen brusedpen = new Pen(brush, 5);
 
-    // Dessiner des rectangles en spécifiant l'objet Pen
+    //Dessinez des Rectangles en spécifiant l'objet Pen
     graphics.DrawRectangles(pen, new[] { new Rectangle(new Point(210, 210), new Size(100, 100)), new Rectangle(new Point(110, 110), new Size(100, 100)), new Rectangle(new Point(310, 310), new Size(100, 100)) });
 
-    // Dessiner des rectangles en spécifiant l'objet Pen
+    //Dessinez des Rectangles en spécifiant l'objet Pen
     graphics.DrawRectangles(brusedpen, new[] { new Rectangle(new Point(310, 110), new Size(100, 100)), new Rectangle(new Point(110, 310), new Size(100, 100)) });
 
-    // Créer des options d'exportation et les initialiser.
+    // Créez des options d'exportation et initialisez-les.
     Aspose.PSD.ImageOptions.Jpeg2000Options options = new Aspose.PSD.ImageOptions.Jpeg2000Options();
 
-    // Enregistrer toutes les modifications.
+    // Enregistrez toutes les modifications.
     image.Save("c:\\temp\\output.jp2", options);
 }
 ```
 
-### Voir également
+### Voir aussi
 
 * class [Brush](../../aspose.psd/brush/)
-* espace de noms [Aspose.PSD.Brushes](../../aspose.psd.brushes/)
-* Assemblée [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Brushes](../../aspose.psd.brushes/)
+* assembly [Aspose.PSD](../../)
 
 

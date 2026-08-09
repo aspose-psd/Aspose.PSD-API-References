@@ -1,11 +1,12 @@
 ---
-title: ExifData.ExposureMode
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: ExifData propriété. Obtient ou définit le mode dexposition.
+title: "ExifData.ExposureMode"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété ExifData. Obtient ou définit le mode d'exposition"
 type: docs
 weight: 210
 url: /fr/net/aspose.psd.exif/exifdata/exposuremode/
 ---
+{{< psd/tize >}}
 ## ExifData.ExposureMode property
 
 Obtient ou définit le mode d'exposition.
@@ -14,15 +15,15 @@ Obtient ou définit le mode d'exposition.
 public ExifExposureMode ExposureMode { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
 Le mode d'exposition.
 
-### Voir également
+### Voir aussi
 
 * enum [ExifExposureMode](../../../aspose.psd.exif.enums/exifexposuremode/)
 * class [ExifData](../)
-* espace de noms [Aspose.PSD.Exif](../../exifdata/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

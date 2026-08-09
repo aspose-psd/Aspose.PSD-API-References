@@ -1,27 +1,28 @@
 ---
-title: ResourceRef.FilePathUri
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: ResourceRef propriété. Obtient ou définit lURI du chemin daccès au fichier.
+title: "ResourceRef.FilePathUri"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété ResourceRef. Obtient ou définit l'URI du chemin de fichier"
 type: docs
 weight: 40
 url: /fr/net/aspose.psd.xmp.types.complex.resourceref/resourceref/filepathuri/
 ---
+{{< psd/tize >}}
 ## ResourceRef.FilePathUri property
 
-Obtient ou définit l'URI du chemin d'accès au fichier.
+Obtient ou définit l'URI du chemin du fichier.
 
 ```csharp
 public string FilePathUri { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
-L'URI du chemin du fichier.
+L'URI du chemin de fichier.
 
-### Voir également
+### Voir aussi
 
 * class [ResourceRef](../)
-* espace de noms [Aspose.PSD.Xmp.Types.Complex.ResourceRef](../../resourceref/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.ResourceRef](../../../aspose.psd.xmp.types.complex.resourceref/)
+* assembly [Aspose.PSD](../../../)
 
 

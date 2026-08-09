@@ -1,95 +1,96 @@
 ---
-title: ColorPaletteHelper.GetCloseImagePalette
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: ColorPaletteHelper méthode. Obtient la palette de couleurs de limage raster palettise limage au cas où limage nen aurait pas. Si la palette existe elle sera utilisée à la place pour effectuer des calculs.
+title: "ColorPaletteHelper.GetCloseImagePalette"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Méthode ColorPaletteHelper. Obtient la palette de couleurs à partir d'une image raster qui palette l'image si celle‑ci n'en possède pas. Si la palette existe, elle sera utilisée à la place d'effectuer des calculs."
 type: docs
 weight: 60
 url: /fr/net/aspose.psd/colorpalettehelper/getcloseimagepalette/
 ---
+{{< psd/tize >}}
 ## GetCloseImagePalette(RasterImage, int) {#getcloseimagepalette_2}
 
-Obtient la palette de couleurs de l'image raster (palettise l'image) au cas où l'image n'en aurait pas. Si la palette existe, elle sera utilisée à la place pour effectuer des calculs.
+Obtient la palette de couleurs à partir d'une image raster (palettise l'image) si l'image n'en possède pas. Si une palette existe, elle sera utilisée au lieu d'effectuer des calculs.
 
 ```csharp
 public static IColorPalette GetCloseImagePalette(RasterImage image, int entriesCount)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
-| image | RasterImage | L'image tramée. |
-| entriesCount | Int32 | Les entrées souhaitées comptent. |
+| image | RasterImage | L'image raster. |
+| entriesCount | Int32 | Le nombre d'entrées souhaité. |
 
-### Return_Value
+### Valeur de retour
 
-La palette de couleurs qui commence par les couleurs les plus fréquentes de la*image* et contient*entriesCount* entrées.
+La palette de couleurs qui commence par les couleurs les plus fréquentes de l'*image* et contient *entriesCount* entrées.
 
-### Voir également
+### Voir aussi
 
 * interface [IColorPalette](../../icolorpalette/)
 * class [RasterImage](../../rasterimage/)
 * class [ColorPaletteHelper](../)
-* espace de noms [Aspose.PSD](../../colorpalettehelper/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## GetCloseImagePalette(RasterImage, Rectangle, int) {#getcloseimagepalette}
 
-Obtient la palette de couleurs de l'image raster (palettise l'image) au cas où l'image n'en aurait pas. Si la palette existe, elle sera utilisée à la place pour effectuer des calculs.
+Obtient la palette de couleurs à partir d'une image raster (palettise l'image) si l'image n'en possède pas. Si une palette existe, elle sera utilisée au lieu d'effectuer des calculs.
 
 ```csharp
 public static IColorPalette GetCloseImagePalette(RasterImage image, Rectangle destBounds, 
     int entriesCount)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
-| image | RasterImage | L'image tramée. |
-| destBounds | Rectangle | L'image de destination délimite. |
-| entriesCount | Int32 | Les entrées souhaitées comptent. |
+| image | RasterImage | L'image raster. |
+| destBounds | Rectangle | Les limites de l'image de destination. |
+| entriesCount | Int32 | Le nombre d'entrées souhaité. |
 
-### Return_Value
+### Valeur de retour
 
-La palette de couleurs qui commence par les couleurs les plus fréquentes de la*image* et contient*entriesCount* entrées.
+La palette de couleurs qui commence par les couleurs les plus fréquentes de l'*image* et contient *entriesCount* entrées.
 
-### Voir également
+### Voir aussi
 
 * interface [IColorPalette](../../icolorpalette/)
 * class [RasterImage](../../rasterimage/)
 * struct [Rectangle](../../rectangle/)
 * class [ColorPaletteHelper](../)
-* espace de noms [Aspose.PSD](../../colorpalettehelper/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## GetCloseImagePalette(RasterImage, Rectangle, int, bool) {#getcloseimagepalette_1}
 
-Obtient la palette de couleurs de l'image raster (palettise l'image) au cas où l'image n'en aurait pas. Si la palette existe, elle sera utilisée à la place pour effectuer des calculs.
+Obtient la palette de couleurs à partir d'une image raster (palettise l'image) si l'image n'en possède pas. Si une palette existe, elle sera utilisée au lieu d'effectuer des calculs.
 
 ```csharp
 public static IColorPalette GetCloseImagePalette(RasterImage image, Rectangle destBounds, 
     int entriesCount, bool useImagePalette)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
-| image | RasterImage | L'image tramée. |
-| destBounds | Rectangle | L'image de destination délimite. |
-| entriesCount | Int32 | Les entrées souhaitées comptent. |
-| useImagePalette | Boolean | S'il est défini, il utilisera sa propre palette d'images si disponible |
+| image | RasterImage | L'image raster. |
+| destBounds | Rectangle | Les limites de l'image de destination. |
+| entriesCount | Int32 | Le nombre d'entrées souhaité. |
+| useImagePalette | Booléen | Si défini, il utilisera sa propre palette d'image si disponible |
 
-### Return_Value
+### Valeur de retour
 
-La palette de couleurs qui commence par les couleurs les plus fréquentes de la*image* et contient*entriesCount* entrées.
+La palette de couleurs qui commence par les couleurs les plus fréquentes de l'*image* et contient *entriesCount* entrées.
 
-### Voir également
+### Voir aussi
 
 * interface [IColorPalette](../../icolorpalette/)
 * class [RasterImage](../../rasterimage/)
 * struct [Rectangle](../../rectangle/)
 * class [ColorPaletteHelper](../)
-* espace de noms [Aspose.PSD](../../colorpalettehelper/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

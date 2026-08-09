@@ -1,31 +1,32 @@
 ---
-title: TiffStreamReader.ReadULong
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: TiffStreamReader méthode. Lire la valeur entière non signée du flux.
+title: "TiffStreamReader.ReadULong"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Méthode TiffStreamReader. Lit une valeur entière non signée depuis le flux"
 type: docs
 weight: 190
 url: /fr/net/aspose.psd.fileformats.tiff.filemanagement/tiffstreamreader/readulong/
 ---
+{{< psd/tize >}}
 ## TiffStreamReader.ReadULong method
 
-Lire la valeur entière non signée du flux.
+Lit une valeur entière non signée depuis le flux.
 
 ```csharp
 public uint ReadULong(long position)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
-| position | Int64 | La position à partir de laquelle lire. |
+| position | Int64 | La position à lire. |
 
-### Return_Value
+### Valeur de retour
 
 Une valeur entière non signée.
 
-### Voir également
+### Voir aussi
 
 * class [TiffStreamReader](../)
-* espace de noms [Aspose.PSD.FileFormats.Tiff.FileManagement](../../tiffstreamreader/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff.FileManagement](../../../aspose.psd.fileformats.tiff.filemanagement/)
+* assembly [Aspose.PSD](../../../)
 
 

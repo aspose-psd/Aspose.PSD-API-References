@@ -1,22 +1,23 @@
 ---
-title: ResourceBlock.ResouceBlockMeSaSignature
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: ResourceBlock champ. La signature de ressource de ImageReady.
+title: "ResourceBlock.ResouceBlockMeSaSignature"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Champ ResourceBlock. La signature de la ressource d'ImageReady"
 type: docs
 weight: 90
 url: /fr/net/aspose.psd.fileformats.psd/resourceblock/resouceblockmesasignature/
 ---
+{{< psd/tize >}}
 ## ResourceBlock.ResouceBlockMeSaSignature field
 
-La signature de ressource de ImageReady.
+La signature de ressource d'ImageReady.
 
 ```csharp
 public const int ResouceBlockMeSaSignature;
 ```
 
-### Exemples
+## Exemples
 
-L'exemple de code suivant montre la capacité de corriger le chargement et d'enregistrer des fichiers PSD avec des ressources avec la signature MeSa.
+L'exemple de code suivant démontre la capacité de charger et d'enregistrer correctement des fichiers PSD avec des ressources portant la signature MeSa.
 
 ```csharp
 [C#]
@@ -29,7 +30,7 @@ void AreEqual(object expected, object actual)
     }
 }
 
-string srcFile = "GST-CHALLAN(21..psd");
+string srcFile = "GST-CHALLAN(2)1..psd";
 string output = "output.psd";
 
 using (PsdImage psdImage = (PsdImage)Image.Load(srcFile))
@@ -40,10 +41,10 @@ using (PsdImage psdImage = (PsdImage)Image.Load(srcFile))
 }
 ```
 
-### Voir également
+### Voir aussi
 
 * class [ResourceBlock](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd](../../resourceblock/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

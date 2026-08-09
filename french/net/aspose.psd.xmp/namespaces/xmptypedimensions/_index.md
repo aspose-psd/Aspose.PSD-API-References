@@ -1,23 +1,24 @@
 ---
-title: Namespaces.XmpTypeDimensions
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: Namespaces champ. Type de dimensions XMP.
+title: "Namespaces.XmpTypeDimensions"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Champ Namespaces. Type XMP Dimensions"
 type: docs
 weight: 120
 url: /fr/net/aspose.psd.xmp/namespaces/xmptypedimensions/
 ---
+{{< psd/tize >}}
 ## Namespaces.XmpTypeDimensions field
 
-Type de dimensions XMP.
+Type XMP Dimensions.
 
 ```csharp
 public const string XmpTypeDimensions;
 ```
 
-### Voir également
+### Voir aussi
 
 * class [Namespaces](../)
-* espace de noms [Aspose.PSD.Xmp](../../namespaces/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

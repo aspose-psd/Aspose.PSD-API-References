@@ -1,11 +1,12 @@
 ---
-title: AsyncTaskProgress.Duration
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: AsyncTaskProgress champ. La durée de la tâche asynchrone.
+title: "AsyncTaskProgress.Duration"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Champ AsyncTaskProgress. La durée de la tâche asynchrone"
 type: docs
 weight: 20
 url: /fr/net/aspose.psd.asynctask/asynctaskprogress/duration/
 ---
+{{< psd/tize >}}
 ## AsyncTaskProgress.Duration field
 
 La durée de la tâche asynchrone.
@@ -14,10 +15,10 @@ La durée de la tâche asynchrone.
 public readonly TimeSpan Duration;
 ```
 
-### Voir également
+### Voir aussi
 
 * class [AsyncTaskProgress](../)
-* espace de noms [Aspose.PSD.AsyncTask](../../asynctaskprogress/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.AsyncTask](../../../aspose.psd.asynctask/)
+* assembly [Aspose.PSD](../../../)
 
 

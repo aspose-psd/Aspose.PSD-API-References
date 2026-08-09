@@ -1,30 +1,31 @@
 ---
-title: FontSettings.GetAdobeFontName
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: FontSettings méthode. Obtient le nom de la police Adobe par nom de famille de polices.
+title: "FontSettings.GetAdobeFontName"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Méthode FontSettings. Obtient le nom de police Adobe à partir du nom de famille de la police"
 type: docs
-weight: 30
+weight: 40
 url: /fr/net/aspose.psd/fontsettings/getadobefontname/
 ---
+{{< psd/tize >}}
 ## FontSettings.GetAdobeFontName method
 
-Obtient le nom de la police Adobe par nom de famille de polices.
+Obtient le nom de police Adobe à partir du nom de famille de police.
 
 ```csharp
 public static string GetAdobeFontName(string fontFamilyName)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
-| fontFamilyName | String | Le nom de la famille de polices. |
+| fontFamilyName | String | Le nom de la famille de police. |
 
-### Return_Value
+### Valeur de retour
 
-Le nom de la police Adobe par nom de famille de polices.
+Le nom de police Adobe à partir du nom de famille de la police.
 
-### Exemples
+## Exemples
 
-Le code suivant montre la possibilité de modifier le nom de la police au niveau du style de portion.
+Le code suivant démontre la capacité de changer le nom de police dans le style de portion.
 
 ```csharp
 [C#]
@@ -46,7 +47,7 @@ using (var image = new PsdImage(500, 500))
     ((IColorFillSettings)backgroundFillLayer.FillSettings).Color = Color.White;
     image.AddLayer(backgroundFillLayer);
 
-    TextLayer textLayer = image.AddTextLayer("Text 1", new Rectangle(10, 35, image.Width, 35));
+    TextLayer textLayer = image.AddTextLayer("Text 1", new Rectangle(10, 35, image.Width, 60));
 
     ITextPortion firstPortion = textLayer.TextData.Items[0];
     firstPortion.Style.FontSize = 24;
@@ -77,10 +78,10 @@ using (var image = (PsdImage)Image.Load(outputFilePsd))
 }
 ```
 
-### Voir également
+### Voir aussi
 
 * class [FontSettings](../)
-* espace de noms [Aspose.PSD](../../fontsettings/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: GdFlResource.GradientName
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: GdFlResource propriété. Obtient ou définit le nom du dégradé.
+title: "GdFlResource.GradientName"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété GdFlResource. Obtient ou définit le nom du dégradé"
 type: docs
-weight: 80
+weight: 100
 url: /fr/net/aspose.psd.fileformats.psd.layers.layerresources/gdflresource/gradientname/
 ---
+{{< psd/tize >}}
 ## GdFlResource.GradientName property
 
 Obtient ou définit le nom du dégradé.
@@ -14,14 +15,14 @@ Obtient ou définit le nom du dégradé.
 public string GradientName { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
 Le nom du dégradé.
 
-### Voir également
+### Voir aussi
 
 * class [GdFlResource](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../gdflresource/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

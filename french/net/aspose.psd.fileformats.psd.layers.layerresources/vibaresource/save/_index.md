@@ -1,11 +1,12 @@
 ---
-title: VibAResource.Save
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: VibAResource méthode. Enregistre la ressource dans le conteneur de flux spécifié.
+title: "VibAResource.Save"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Méthode VibAResource. Enregistre la ressource dans le conteneur de flux spécifié"
 type: docs
-weight: 70
+weight: 50
 url: /fr/net/aspose.psd.fileformats.psd.layers.layerresources/vibaresource/save/
 ---
+{{< psd/tize >}}
 ## VibAResource.Save method
 
 Enregistre la ressource dans le conteneur de flux spécifié.
@@ -14,19 +15,19 @@ Enregistre la ressource dans le conteneur de flux spécifié.
 public override void Save(StreamContainer streamContainer, int psdVersion)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
 | streamContainer | StreamContainer | Le conteneur de flux dans lequel enregistrer. |
 | psdVersion | Int32 | La version PSD. |
 
-### Exemples
+## Exemples
 
-L'exemple de code suivant illustre la prise en charge de la ressource VibAResource.
+L'exemple de code suivant montre la prise en charge de la ressource VibAResource.
 
 ```csharp
 [C#]
 
-// Exemple de prise en charge de la lecture et de l'écriture de Vibration Resource lors de l'exécution.
+// Exemple de prise en charge de la lecture et de l'écriture de la ressource Vibration à l'exécution.
 string sourceFileName = "VibranceResource.psd";
 string outputFileName = "out_VibranceResource.psd";
 
@@ -55,11 +56,11 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFileName))
 }
 ```
 
-### Voir également
+### Voir aussi
 
 * class [StreamContainer](../../../aspose.psd/streamcontainer/)
 * class [VibAResource](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../vibaresource/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

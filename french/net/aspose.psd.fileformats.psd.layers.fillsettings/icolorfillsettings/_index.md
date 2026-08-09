@@ -1,11 +1,12 @@
 ---
-title: Interface IColorFillSettings
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: Aspose.PSD.FileFormats.Psd.Layers.FillSettings.IColorFillSettings interface. Interface de base pour les paramètres de remplissage
+title: "Interface IColorFillSettings"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Interface Aspose.PSD.FileFormats.Psd.Layers.FillSettings.IColorFillSettings. Interface de base pour les paramètres de remplissage"
 type: docs
-weight: 1990
+weight: 2110
 url: /fr/net/aspose.psd.fileformats.psd.layers.fillsettings/icolorfillsettings/
 ---
+{{< psd/tize >}}
 ## IColorFillSettings interface
 
 Interface de base pour les paramètres de remplissage
@@ -16,14 +17,14 @@ public interface IColorFillSettings : IFillSettings
 
 ## Propriétés
 
-| Nom | La description |
+| Nom | Description |
 | --- | --- |
 | [Color](../../aspose.psd.fileformats.psd.layers.fillsettings/icolorfillsettings/color/) { get; set; } | Obtient ou définit la couleur. |
 
-### Voir également
+### Voir aussi
 
 * interface [IFillSettings](../ifillsettings/)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../aspose.psd.fileformats.psd.layers.fillsettings/)
-* Assemblée [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../)
 
 

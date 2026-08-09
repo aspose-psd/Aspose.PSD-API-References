@@ -1,23 +1,24 @@
 ---
-title: Matrix.M11
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: Matrix propriété. Obtient lélément de matrice à la première ligne de la première colonne. Représente léchelle le long de laxe X.
+title: "Matrix.M11"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété Matrix. Obtient l'élément de la matrice à la première ligne, première colonne. Représente l'échelle le long de l'axe X."
 type: docs
 weight: 30
 url: /fr/net/aspose.psd/matrix/m11/
 ---
+{{< psd/tize >}}
 ## Matrix.M11 property
 
-Obtient l'élément de matrice à la première ligne de la première colonne. Représente l'échelle le long de l'axe X.
+Obtient l'élément de la matrice à la première ligne, première colonne. Représente l'échelle le long de l'axe X.
 
 ```csharp
 public float M11 { get; }
 ```
 
-### Voir également
+### Voir aussi
 
 * class [Matrix](../)
-* espace de noms [Aspose.PSD](../../matrix/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

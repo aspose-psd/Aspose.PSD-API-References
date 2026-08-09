@@ -1,11 +1,12 @@
 ---
-title: LayerState.HorizontalFXRf
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: LayerState propriété. Obtient ou définit la valeur HorizontalFXRf.
+title: "LayerState.HorizontalFXRf"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété LayerState. Obtient ou définit la valeur HorizontalFXRf"
 type: docs
 weight: 50
 url: /fr/net/aspose.psd.fileformats.psd.layers.animation/layerstate/horizontalfxrf/
 ---
+{{< psd/tize >}}
 ## LayerState.HorizontalFXRf property
 
 Obtient ou définit la valeur HorizontalFXRf.
@@ -14,10 +15,10 @@ Obtient ou définit la valeur HorizontalFXRf.
 public double HorizontalFXRf { get; set; }
 ```
 
-### Voir également
+### Voir aussi
 
 * class [LayerState](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.Animation](../../layerstate/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.Animation](../../../aspose.psd.fileformats.psd.layers.animation/)
+* assembly [Aspose.PSD](../../../)
 
 

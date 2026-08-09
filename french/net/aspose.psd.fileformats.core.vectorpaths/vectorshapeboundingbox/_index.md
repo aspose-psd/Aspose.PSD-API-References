@@ -1,11 +1,12 @@
 ---
-title: Class VectorShapeBoundingBox
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: Aspose.PSD.FileFormats.Core.VectorPaths.VectorShapeBoundingBox classe. Définit la classe de boîte englobante de forme vectorielle.
+title: "Classe VectorShapeBoundingBox"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Classe Aspose.PSD.FileFormats.Core.VectorPaths.VectorShapeBoundingBox. Définit la classe de boîte englobante de forme vectorielle."
 type: docs
-weight: 1430
+weight: 1440
 url: /fr/net/aspose.psd.fileformats.core.vectorpaths/vectorshapeboundingbox/
 ---
+{{< psd/tize >}}
 ## VectorShapeBoundingBox class
 
 Définit la classe de boîte englobante de forme vectorielle.
@@ -16,22 +17,23 @@ public sealed class VectorShapeBoundingBox
 
 ## Constructeurs
 
-| Nom | La description |
+| Nom | Description |
 | --- | --- |
-| [VectorShapeBoundingBox](vectorshapeboundingbox/)() | Default_Constructor |
+| [VectorShapeBoundingBox](vectorshapeboundingbox/)() | Le constructeur par défaut. |
 
 ## Propriétés
 
-| Nom | La description |
+| Nom | Description |
 | --- | --- |
-| [Bottom](../../aspose.psd.fileformats.core.vectorpaths/vectorshapeboundingbox/bottom/) { get; set; } | Obtient ou définit le fond. |
-| [Bounds](../../aspose.psd.fileformats.core.vectorpaths/vectorshapeboundingbox/bounds/) { get; set; } | Obtient ou définit les limites du cadre de délimitation de la forme. |
+| [Bottom](../../aspose.psd.fileformats.core.vectorpaths/vectorshapeboundingbox/bottom/) { get; set; } | Obtient ou définit le bas. |
+| [Bounds](../../aspose.psd.fileformats.core.vectorpaths/vectorshapeboundingbox/bounds/) { get; set; } | Obtient ou définit les limites de la boîte englobante de la forme. |
 | [Left](../../aspose.psd.fileformats.core.vectorpaths/vectorshapeboundingbox/left/) { get; set; } | Obtient ou définit la gauche. |
-| [QuadVersion](../../aspose.psd.fileformats.core.vectorpaths/vectorshapeboundingbox/quadversion/) { get; set; } | Obtient ou définit la version quadruple de la valeur unitaire. |
-| [Right](../../aspose.psd.fileformats.core.vectorpaths/vectorshapeboundingbox/right/) { get; set; } | Obtient ou définit le droit. |
-| [Top](../../aspose.psd.fileformats.core.vectorpaths/vectorshapeboundingbox/top/) { get; set; } | Obtient ou définit le top. |
+| [PointsUnitType](../../aspose.psd.fileformats.core.vectorpaths/vectorshapeboundingbox/pointsunittype/) { get; set; } | Obtient ou définit le type d'unité des points qui déterminent les coins de la boîte. |
+| [QuadVersion](../../aspose.psd.fileformats.core.vectorpaths/vectorshapeboundingbox/quadversion/) { get; set; } | Obtient ou définit la version quad de la valeur d'unité. |
+| [Right](../../aspose.psd.fileformats.core.vectorpaths/vectorshapeboundingbox/right/) { get; set; } | Obtient ou définit la droite. |
+| [Top](../../aspose.psd.fileformats.core.vectorpaths/vectorshapeboundingbox/top/) { get; set; } | Obtient ou définit le haut. |
 
-### Exemples
+## Exemples
 
 Cet exemple montre que le chargement et l'enregistrement de l'image PSD avec des calques de forme et des chemins vectoriels fonctionnent correctement.
 
@@ -163,9 +165,9 @@ void AssertAreEqual(object expected, object actual, string message = null)
 }
 ```
 
-### Voir également
+### Voir aussi
 
-* espace de noms [Aspose.PSD.FileFormats.Core.VectorPaths](../../aspose.psd.fileformats.core.vectorpaths/)
-* Assemblée [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../)
 
 

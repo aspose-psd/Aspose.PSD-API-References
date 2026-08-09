@@ -1,27 +1,28 @@
 ---
-title: PointF.ToString
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: PointF méthode. Convertit ceciPointF en une chaîne lisible par lhomme.
+title: "PointF.ToString"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Méthode PointF. Convertit ce PointF en une chaîne lisible par l'homme"
 type: docs
 weight: 100
 url: /fr/net/aspose.psd/pointf/tostring/
 ---
+{{< psd/tize >}}
 ## PointF.ToString method
 
-Convertit ceci[`PointF`](../) en une chaîne lisible par l'homme.
+Convertit ce [`PointF`](../) en une chaîne lisible par l'homme.
 
 ```csharp
 public override string ToString()
 ```
 
-### Return_Value
+### Valeur de retour
 
-Une chaîne qui représente ceci[`PointF`](../).
+Une chaîne qui représente ce [`PointF`](../).
 
-### Voir également
+### Voir aussi
 
 * struct [PointF](../)
-* espace de noms [Aspose.PSD](../../pointf/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

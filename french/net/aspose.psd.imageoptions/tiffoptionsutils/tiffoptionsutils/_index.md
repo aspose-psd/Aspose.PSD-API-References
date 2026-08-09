@@ -1,23 +1,24 @@
 ---
-title: TiffOptionsUtils.TiffOptionsUtils
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: TiffOptionsUtils constructeur. Default_Constructor
+title: "TiffOptionsUtils.TiffOptionsUtils"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Constructeur TiffOptionsUtils. Le constructeur par défaut"
 type: docs
 weight: 10
 url: /fr/net/aspose.psd.imageoptions/tiffoptionsutils/tiffoptionsutils/
 ---
+{{< psd/tize >}}
 ## TiffOptionsUtils constructor
 
-Default_Constructor
+Le constructeur par défaut.
 
 ```csharp
 public TiffOptionsUtils()
 ```
 
-### Voir également
+### Voir aussi
 
 * class [TiffOptionsUtils](../)
-* espace de noms [Aspose.PSD.ImageOptions](../../tiffoptionsutils/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

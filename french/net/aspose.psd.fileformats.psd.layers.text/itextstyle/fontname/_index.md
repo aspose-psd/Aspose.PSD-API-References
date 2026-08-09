@@ -1,11 +1,12 @@
 ---
-title: ITextStyle.FontName
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: ITextStyle propriété. Obtient ou définit le nom de la police.
+title: "ITextStyle.FontName"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété ITextStyle. Obtient ou définit le nom de la police"
 type: docs
 weight: 120
 url: /fr/net/aspose.psd.fileformats.psd.layers.text/itextstyle/fontname/
 ---
+{{< psd/tize >}}
 ## ITextStyle.FontName property
 
 Obtient ou définit le nom de la police.
@@ -14,9 +15,9 @@ Obtient ou définit le nom de la police.
 public string FontName { get; set; }
 ```
 
-### Exemples
+## Exemples
 
-Le code suivant montre la possibilité de modifier le nom de la police au niveau du style de portion.
+Le code suivant démontre la capacité de changer le nom de police dans le style de portion.
 
 ```csharp
 [C#]
@@ -38,7 +39,7 @@ using (var image = new PsdImage(500, 500))
     ((IColorFillSettings)backgroundFillLayer.FillSettings).Color = Color.White;
     image.AddLayer(backgroundFillLayer);
 
-    TextLayer textLayer = image.AddTextLayer("Text 1", new Rectangle(10, 35, image.Width, 35));
+    TextLayer textLayer = image.AddTextLayer("Text 1", new Rectangle(10, 35, image.Width, 60));
 
     ITextPortion firstPortion = textLayer.TextData.Items[0];
     firstPortion.Style.FontSize = 24;
@@ -69,10 +70,10 @@ using (var image = (PsdImage)Image.Load(outputFilePsd))
 }
 ```
 
-### Voir également
+### Voir aussi
 
 * interface [ITextStyle](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.Text](../../itextstyle/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.Text](../../../aspose.psd.fileformats.psd.layers.text/)
+* assembly [Aspose.PSD](../../../)
 
 

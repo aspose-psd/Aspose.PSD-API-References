@@ -1,11 +1,12 @@
 ---
-title: Class AiFinalizeSection
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: Aspose.PSD.FileFormats.Ai.AiFinalizeSection classe. La section de finalisation du format Ai
+title: "Classe AiFinalizeSection"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Classe Aspose.PSD.FileFormats.Ai.AiFinalizeSection. La section Finalize du format Ai"
 type: docs
-weight: 1230
+weight: 1240
 url: /fr/net/aspose.psd.fileformats.ai/aifinalizesection/
 ---
+{{< psd/tize >}}
 ## AiFinalizeSection class
 
 La section de finalisation du format Ai
@@ -16,14 +17,14 @@ public sealed class AiFinalizeSection : AiSection
 
 ## Méthodes
 
-| Nom | La description |
+| Nom | Description |
 | --- | --- |
 | [GetData](../../aspose.psd.fileformats.ai/aisection/getdata/)() | Obtient les données de chaîne. |
 
-### Voir également
+### Voir aussi
 
 * class [AiSection](../aisection/)
-* espace de noms [Aspose.PSD.FileFormats.Ai](../../aspose.psd.fileformats.ai/)
-* Assemblée [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../)
 
 

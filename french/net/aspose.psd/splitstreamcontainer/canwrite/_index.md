@@ -1,11 +1,12 @@
 ---
-title: SplitStreamContainer.CanWrite
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: SplitStreamContainer propriété. Obtient une valeur indiquant si le flux prend en charge lécriture.
+title: "SplitStreamContainer.CanWrite"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété SplitStreamContainer. Obtient une valeur indiquant si le flux prend en charge l'écriture"
 type: docs
 weight: 40
 url: /fr/net/aspose.psd/splitstreamcontainer/canwrite/
 ---
+{{< psd/tize >}}
 ## SplitStreamContainer.CanWrite property
 
 Obtient une valeur indiquant si le flux prend en charge l'écriture.
@@ -14,14 +15,14 @@ Obtient une valeur indiquant si le flux prend en charge l'écriture.
 public override bool CanWrite { get; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
-`vrai` si le flux prend en charge l'écriture ; sinon,`FAUX`.
+`true` si le flux prend en charge l'écriture ; sinon, `false`.
 
-### Voir également
+### Voir aussi
 
 * class [SplitStreamContainer](../)
-* espace de noms [Aspose.PSD](../../splitstreamcontainer/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

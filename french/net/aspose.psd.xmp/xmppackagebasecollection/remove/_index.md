@@ -1,28 +1,29 @@
 ---
-title: XmpPackageBaseCollection.Remove
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: XmpPackageBaseCollection méthode. Supprime le package XMP spécifié.
+title: "XmpPackageBaseCollection.Remove"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Méthode XmpPackageBaseCollection. Supprime le package XMP spécifié"
 type: docs
 weight: 80
 url: /fr/net/aspose.psd.xmp/xmppackagebasecollection/remove/
 ---
+{{< psd/tize >}}
 ## XmpPackageBaseCollection.Remove method
 
-Supprime le package XMP spécifié.
+Supprime le paquet XMP spécifié.
 
 ```csharp
 public void Remove(XmpPackage package)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
-| package | XmpPackage | Le package XMP à supprimer. |
+| paquet | XmpPackage | Le package XMP à supprimer. |
 
-### Voir également
+### Voir aussi
 
 * class [XmpPackage](../../xmppackage/)
 * class [XmpPackageBaseCollection](../)
-* espace de noms [Aspose.PSD.Xmp](../../xmppackagebasecollection/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

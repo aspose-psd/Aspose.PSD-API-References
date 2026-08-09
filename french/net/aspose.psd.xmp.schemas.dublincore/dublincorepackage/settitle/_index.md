@@ -1,11 +1,12 @@
 ---
-title: DublinCorePackage.SetTitle
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: DublinCorePackage méthode. Ajoute le titre Dublin Core.
+title: "DublinCorePackage.SetTitle"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Méthode DublinCorePackage. Ajoute le titre Dublin Core"
 type: docs
 weight: 70
 url: /fr/net/aspose.psd.xmp.schemas.dublincore/dublincorepackage/settitle/
 ---
+{{< psd/tize >}}
 ## SetTitle(string) {#settitle_1}
 
 Ajoute le titre Dublin Core.
@@ -14,15 +15,15 @@ Ajoute le titre Dublin Core.
 public void SetTitle(string title)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
-| title | String | Le titre. |
+| titre | String | Le titre. |
 
-### Voir également
+### Voir aussi
 
 * class [DublinCorePackage](../)
-* espace de noms [Aspose.PSD.Xmp.Schemas.DublinCore](../../dublincorepackage/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.DublinCore](../../../aspose.psd.xmp.schemas.dublincore/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
@@ -34,15 +35,15 @@ Ajoute le titre Dublin Core pour différentes langues.
 public void SetTitle(LangAlt title)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
-| title | LangAlt | Exemple de[`LangAlt`](../../../aspose.psd.xmp/langalt/). |
+| title | LangAlt | Instance de [`LangAlt`](../../../aspose.psd.xmp/langalt/). |
 
-### Voir également
+### Voir aussi
 
 * class [LangAlt](../../../aspose.psd.xmp/langalt/)
 * class [DublinCorePackage](../)
-* espace de noms [Aspose.PSD.Xmp.Schemas.DublinCore](../../dublincorepackage/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.DublinCore](../../../aspose.psd.xmp.schemas.dublincore/)
+* assembly [Aspose.PSD](../../../)
 
 

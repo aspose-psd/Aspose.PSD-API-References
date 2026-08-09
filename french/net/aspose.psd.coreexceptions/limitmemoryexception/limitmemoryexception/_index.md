@@ -1,91 +1,92 @@
 ---
-title: LimitMemoryException.LimitMemoryException
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: LimitMemoryException constructeur. Initialise une nouvelle instance duLimitMemoryException classe.
+title: "LimitMemoryException.LimitMemoryException"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Constructeur LimitMemoryException. Initialise une nouvelle instance de la classe LimitMemoryException"
 type: docs
 weight: 10
 url: /fr/net/aspose.psd.coreexceptions/limitmemoryexception/limitmemoryexception/
 ---
+{{< psd/tize >}}
 ## LimitMemoryException(string) {#constructor}
 
-Initialise une nouvelle instance du[`LimitMemoryException`](../) classe.
+Initialise une nouvelle instance de la classe [`LimitMemoryException`](../).
 
 ```csharp
 public LimitMemoryException(string message)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
 | message | String | Le message d'exception. |
 
-### Voir également
+### Voir aussi
 
 * class [LimitMemoryException](../)
-* espace de noms [Aspose.PSD.CoreExceptions](../../limitmemoryexception/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.CoreExceptions](../../../aspose.psd.coreexceptions/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## LimitMemoryException(string, Exception) {#constructor_2}
 
-Initialise une nouvelle instance du[`LimitMemoryException`](../) classe.
+Initialise une nouvelle instance de la classe [`LimitMemoryException`](../).
 
 ```csharp
 public LimitMemoryException(string message, Exception innerException)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
 | message | String | Le message d'exception. |
-| innerException | Exception | L'exception intérieure. |
+| innerException | Exception | L'exception interne. |
 
-### Voir également
+### Voir aussi
 
 * class [LimitMemoryException](../)
-* espace de noms [Aspose.PSD.CoreExceptions](../../limitmemoryexception/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.CoreExceptions](../../../aspose.psd.coreexceptions/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## LimitMemoryException(string, long) {#constructor_1}
 
-Initialise une nouvelle instance du[`LimitMemoryException`](../) classe.
+Initialise une nouvelle instance de la classe [`LimitMemoryException`](../).
 
 ```csharp
 public LimitMemoryException(string message, long reduceMemoryFactor)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
 | message | String | Le message d'exception. |
-| reduceMemoryFactor | Int64 | Le facteur de réduction de la mémoire. |
+| reduceMemoryFactor | Int64 | Le facteur de réduction de mémoire. |
 
-### Voir également
+### Voir aussi
 
 * class [LimitMemoryException](../)
-* espace de noms [Aspose.PSD.CoreExceptions](../../limitmemoryexception/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.CoreExceptions](../../../aspose.psd.coreexceptions/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## LimitMemoryException(string, Exception, int) {#constructor_3}
 
-Initialise une nouvelle instance du[`LimitMemoryException`](../) classe.
+Initialise une nouvelle instance de la classe [`LimitMemoryException`](../).
 
 ```csharp
 public LimitMemoryException(string message, Exception innerException, int reduceMemoryFactor)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
 | message | String | Le message d'exception. |
-| innerException | Exception | L'exception intérieure. |
-| reduceMemoryFactor | Int32 | Le facteur de réduction de la mémoire. |
+| innerException | Exception | L'exception interne. |
+| reduceMemoryFactor | Int32 | Le facteur de réduction de mémoire. |
 
-### Voir également
+### Voir aussi
 
 * class [LimitMemoryException](../)
-* espace de noms [Aspose.PSD.CoreExceptions](../../limitmemoryexception/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.CoreExceptions](../../../aspose.psd.coreexceptions/)
+* assembly [Aspose.PSD](../../../)
 
 

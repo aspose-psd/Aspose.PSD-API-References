@@ -1,11 +1,12 @@
 ---
-title: GradientFillSettings.Angle
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: GradientFillSettings propriété. Obtient ou définit langle.
+title: "GradientFillSettings.Angle"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "GradientFillSettings propriété. Obtient ou définit l'angle"
 type: docs
 weight: 30
 url: /fr/net/aspose.psd.fileformats.psd.layers.fillsettings/gradientfillsettings/angle/
 ---
+{{< psd/tize >}}
 ## GradientFillSettings.Angle property
 
 Obtient ou définit l'angle.
@@ -14,7 +15,7 @@ Obtient ou définit l'angle.
 public double Angle { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
 L'angle.
 
@@ -24,10 +25,10 @@ L'angle.
 | --- | --- |
 | [PsdImageArgumentException](../../../aspose.psd.coreexceptions.imageformats/psdimageargumentexception/) | L'angle doit être compris entre -180,0 et 180,0 |
 
-### Voir également
+### Voir aussi
 
 * class [GradientFillSettings](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../gradientfillsettings/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../../)
 
 

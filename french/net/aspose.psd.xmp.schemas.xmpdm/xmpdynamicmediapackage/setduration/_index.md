@@ -1,11 +1,12 @@
 ---
-title: XmpDynamicMediaPackage.SetDuration
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: XmpDynamicMediaPackage méthode. Définit la durée.
+title: "XmpDynamicMediaPackage.SetDuration"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "XmpDynamicMediaPackage méthode. Définit la durée"
 type: docs
 weight: 190
 url: /fr/net/aspose.psd.xmp.schemas.xmpdm/xmpdynamicmediapackage/setduration/
 ---
+{{< psd/tize >}}
 ## XmpDynamicMediaPackage.SetDuration method
 
 Définit la durée.
@@ -14,15 +15,15 @@ Définit la durée.
 public void SetDuration(Time duration)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
-| duration | Time | La durée. |
+| durée | Temps | La durée. |
 
-### Voir également
+### Voir aussi
 
 * class [Time](../../time/)
 * class [XmpDynamicMediaPackage](../)
-* espace de noms [Aspose.PSD.Xmp.Schemas.XmpDm](../../xmpdynamicmediapackage/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpDm](../../../aspose.psd.xmp.schemas.xmpdm/)
+* assembly [Aspose.PSD](../../../)
 
 

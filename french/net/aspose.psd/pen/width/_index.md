@@ -1,33 +1,34 @@
 ---
-title: Pen.Width
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: Pen propriété. Obtient ou définit la largeur de cettePen  en unités de lobjet Graphics utilisé pour le dessin.
+title: "Pen.Width"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété Pen. Obtient ou définit la largeur de ce Pen en unités de l'objet Graphics utilisé pour le dessin"
 type: docs
 weight: 180
 url: /fr/net/aspose.psd/pen/width/
 ---
+{{< psd/tize >}}
 ## Pen.Width property
 
-Obtient ou définit la largeur de cette[`Pen`](../) , en unités de l'objet Graphics utilisé pour le dessin.
+Obtient ou définit la largeur de ce [`Pen`](../), en unités de l'objet Graphics utilisé pour le dessin.
 
 ```csharp
 public float Width { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
-La largeur de ce[`Pen`](../).
+La largeur de ce [`Pen`](../).
 
 ### Exceptions
 
 | exception | condition |
 | --- | --- |
-| ArgumentException | Le`Width` la propriété est définie sur un immuable[`Pen`](../) , tels que ceux renvoyés par le[`Pen`](../) classe. |
+| ArgumentException | La propriété `Width` est définie sur un [`Pen`](../) immutable, comme ceux renvoyés par la classe [`Pen`](../). |
 
-### Voir également
+### Voir aussi
 
 * class [Pen](../)
-* espace de noms [Aspose.PSD](../../pen/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

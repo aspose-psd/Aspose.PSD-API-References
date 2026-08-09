@@ -1,26 +1,27 @@
 ---
-title: SmartObjectLayer.ContentType
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: SmartObjectLayer propriété. Obtient le type du contenu de la couche dobjets intelligents. Le contenu de lobjet intelligent intégré est le fichier dimage brute intégré Data . Le contenu de lobjet intelligent lié est le contenu brut du fichier image lié sil est disponible LiFeDataSource . Nous ne prenons pas en charge le chargement à partir de la bibliothèque graphique Adobe Photoshop  lorsqueIsLibraryLink est vrai. Pour les fichiers de liens réguliers nous utilisons dabordRelativePath pour rechercher le fichier relativement au chemin de limage sourceSourceImagePath  sil nest pas disponible nous regardonsFullPath  sinon alors nous cherchons le fichier de lien dans le même répertoire où se trouve notre image SourceImagePath .
+title: "SmartObjectLayer.ContentType"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété SmartObjectLayer. Obtient le type du contenu du calque d'objet dynamique. Le contenu de l'objet dynamique incorporé est le fichier image brut incorporé Data. Le contenu de l'objet dynamique lié est le contenu brut du fichier image lié s'il est disponible LiFeDataSource. Nous ne prenons pas en charge le chargement depuis la Adobe Photoshop Graphics Library lorsque IsLibraryLink est vrai. Pour les fichiers liés ordinaires, nous utilisons d'abord RelativePath pour rechercher le fichier relativement au chemin de l'image source SourceImagePath ; s'il n'est pas disponible, nous consultons FullPath ; sinon nous recherchons le fichier lié dans le même répertoire que notre image SourceImagePath."
 type: docs
-weight: 40
+weight: 50
 url: /fr/net/aspose.psd.fileformats.psd.layers.smartobjects/smartobjectlayer/contenttype/
 ---
+{{< psd/tize >}}
 ## SmartObjectLayer.ContentType property
 
-Obtient le type du contenu de la couche d'objets intelligents. Le contenu de l'objet intelligent intégré est le fichier d'image brute intégré :[`Data`](../../../aspose.psd.fileformats.psd.layers.layerresources/lifddatasource/data/) . Le contenu de l'objet intelligent lié est le contenu brut du fichier image lié s'il est disponible :[`LiFeDataSource`](../../../aspose.psd.fileformats.psd.layers.layerresources/lifedatasource/) . Nous ne prenons pas en charge le chargement à partir de la bibliothèque graphique Adobe� Photoshop� �� lorsque[`IsLibraryLink`](../../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/islibrarylink/) est vrai. Pour les fichiers de liens réguliers, nous utilisons d'abord[`RelativePath`](../../../aspose.psd.fileformats.psd.layers.layerresources/lifedatasource/relativepath/) pour rechercher le fichier relativement au chemin de l'image sourceSourceImagePath , s'il n'est pas disponible nous regardons[`FullPath`](../../../aspose.psd.fileformats.psd.layers.layerresources/lifedatasource/fullpath/) , sinon alors nous cherchons le fichier de lien dans le même répertoire où se trouve notre image :SourceImagePath .
+Obtient le type du contenu du calque d'objet dynamique. Le contenu de l'objet dynamique incorporé est le fichier image brut incorporé : [`Data`](../../../aspose.psd.fileformats.psd.layers.layerresources/lifddatasource/data/). Le contenu de l'objet dynamique lié est le contenu brut du fichier image lié s'il est disponible : [`LiFeDataSource`](../../../aspose.psd.fileformats.psd.layers.layerresources/lifedatasource/). Nous ne prenons pas en charge le chargement depuis la Adobe Photoshop Graphics Library lorsque [`IsLibraryLink`](../../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/islibrarylink/) est vrai. Pour les fichiers liés ordinaires, nous utilisons d'abord [`RelativePath`](../../../aspose.psd.fileformats.psd.layers.layerresources/lifedatasource/relativepath/) pour rechercher le fichier relativement au chemin de l'image source SourceImagePath ; s'il n'est pas disponible, nous consultons [`FullPath`](../../../aspose.psd.fileformats.psd.layers.layerresources/lifedatasource/fullpath/), sinon nous recherchons le fichier lié dans le même répertoire que notre image : SourceImagePath.
 
 ```csharp
 public SmartObjectType ContentType { get; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
-Le type de contenu de la couche d'objet intelligent.
+Le type du contenu du calque d'objet dynamique.
 
-### Exemples
+## Exemples
 
-Le code suivant illustre la prise en charge de la mise à jour des objets intelligents liés.
+Le code suivant démontre la prise en charge de la mise à jour des objets intelligents liés.
 
 ```csharp
 [C#]
@@ -53,7 +54,7 @@ void AssertAreEqual(object actual, object expected)
     }
 }
 
-// Cet exemple montre comment mettre à jour la couche d'objet intelligent externe ou intégrée à l'aide de ces méthodes :
+// Cet exemple montre comment mettre à jour le calque d'objet intelligent externe ou intégré en utilisant ces méthodes :
 // RelinkToFile, UpdateModifiedContent, ExportContents
 ExampleOfUpdatingSmartObjectLayer("rgb8_2x2_linked2.psd", 0x53, 0, 0, 2, 2, FileFormat.Png);
 ExampleOfUpdatingSmartObjectLayer("r-embedded-png.psd", 0x207, 0, 0, 0xb, 0x10, FileFormat.Png);
@@ -67,7 +68,7 @@ void ExampleOfUpdatingSmartObjectLayer(
     int bottom,
     FileFormat format)
 {
-    // Cet exemple montre comment modifier le calque d'objet intelligent dans le fichier PSD et exporter/mettre à jour son contenu.
+    // Cet exemple montre comment modifier le calque d'objet intelligent dans le fichier PSD et exporter / mettre à jour son contenu.
     string fileName = Path.GetFileNameWithoutExtension(filePath);
     string dataDir = "updating_output" + Path.DirectorySeparatorChar;
     filePath = filePath;
@@ -88,13 +89,13 @@ void ExampleOfUpdatingSmartObjectLayer(
         if (contentType == SmartObjectType.AvailableLinked)
         {
             Directory.CreateDirectory(Path.GetDirectoryName(exportPath));
-            // Exportons l'image de l'objet intelligent externe du calque d'objet intelligent PSD vers un nouvel emplacement
+            // Exportons l'image d'objet intelligent externe du calque d'objet intelligent PSD vers un nouvel emplacement
             // car nous allons le modifier.
             smartObjectLayer.ExportContents(exportPath);
             smartObjectLayer.RelinkToFile(exportPath);
         }
 
-        // Inversons le contenu de l'objet intelligent : image interne (non mise en cache)
+        // Invertons le contenu de l'objet intelligent : image interne (non mise en cache)
         using (var innerImage = (RasterImage)smartObjectLayer.LoadContents(new LoadOptions()))
         {
             InvertImage(innerImage);
@@ -110,13 +111,13 @@ void ExampleOfUpdatingSmartObjectLayer(
 
         smartObjectLayer.UpdateModifiedContent();
 
-        // Vérifions si le contenu mis à jour affecte le rendu et si l'image psd est correctement enregistrée
+        // Vérifions si le contenu mis à jour affecte le rendu et si l'image PSD est enregistrée correctement
         image.Save(psd2OutputPath, new PsdOptions(image));
         image.Save(png2OutputPath, new PngOptions() { ColorType = PngColorType.TruecolorWithAlpha });
     }
 }
 
-// Cet exemple montre comment convertir l'objet intelligent intégré en contenu lié externe à l'aide de la méthode ConvertToLinked.
+// Cet exemple montre comment convertir l'objet intelligent intégré en contenus liés externes en utilisant la méthode ConvertToLinked.
 ExampleOfEmbeddedSmartObjectLayerToLinkedConversion("new_panama-papers-4.psd", 0x10caa, 0, 0, 0x280, 0x169, FileFormat.Jpeg);
 ExampleOfEmbeddedSmartObjectLayerToLinkedConversion("r3-embedded.psd", 0x207, 0, 0, 0xb, 0x10, FileFormat.Png);
 ExampleOfEmbeddedSmartObjectLayerToLinkedConversion("r-embedded-tiff.psd", 0xca94, 0, 0, 0xb, 0x10, FileFormat.Tiff);
@@ -157,7 +158,7 @@ void ExampleOfEmbeddedSmartObjectLayerToLinkedConversion(
         AssertAreEqual(bottom, smartObjectLayer.ContentsBounds.Bottom);
         AssertAreEqual(SmartObjectType.AvailableLinked, smartObjectLayer.ContentType);
 
-        // Vérifions si l'image convertie est correctement enregistrée
+        // Vérifions si l'image convertie est enregistrée correctement
         image.Save(psdOutputPath, new PsdOptions(image));
         image.Save(pngOutputPath, new PngOptions() { ColorType = PngColorType.TruecolorWithAlpha });
     }
@@ -174,7 +175,7 @@ void ExampleOfEmbeddedSmartObjectLayerToLinkedConversion(
     }
 }
 
-// Cet exemple montre comment incorporer un calque d'objet intelligent externe ou tous les calques liés dans le fichier PSD à l'aide de la méthode EmbedLinked.
+// Cet exemple montre comment intégrer un calque d'objet intelligent externe ou tous les calques liés dans le fichier PSD en utilisant la méthode EmbedLinked.
 ExampleOfLinkedSmartObjectLayerToEmbeddedConversion("rgb8_2x2_linked.psd", 0x53, 0, 0, 2, 2, FileFormat.Png);
 ExampleOfLinkedSmartObjectLayerToEmbeddedConversion("rgb8_2x2_linked2.psd", 0x53, 0, 0, 2, 2, FileFormat.Png);
 void ExampleOfLinkedSmartObjectLayerToEmbeddedConversion(
@@ -218,7 +219,7 @@ void ExampleOfLinkedSmartObjectLayerToEmbeddedConversion(
         }
 
         Directory.CreateDirectory(Path.GetDirectoryName(psdOutputPath));
-        // Vérifions si l'image convertie est correctement enregistrée
+        // Vérifions si l'image convertie est enregistrée correctement
         image.Save(psdOutputPath, new PsdOptions(image));
         image.Save(pngOutputPath, new PngOptions() { ColorType = PngColorType.TruecolorWithAlpha });
     }
@@ -235,7 +236,7 @@ void ExampleOfLinkedSmartObjectLayerToEmbeddedConversion(
     }
 }
 
-// Cet exemple montre comment modifier le calque d'objet intelligent externe Adobe® Photoshop® et exporter/mettre à jour son contenu
+// Cet exemple montre comment modifier le calque d'objet intelligent externe Adobe® Photoshop® et exporter / mettre à jour son contenu
 // en utilisant les méthodes ExportContents et ReplaceContents.
 ExampleOfExternalSmartObjectLayerSupport("rgb8_2x2_linked.psd", 0x53, 0, 0, 2, 2, FileFormat.Png);
 ExampleOfExternalSmartObjectLayerSupport("rgb8_2x2_linked2.psd", 0x4aea, 0, 0, 10, 10, FileFormat.Psd);
@@ -262,10 +263,10 @@ void ExampleOfExternalSmartObjectLayerSupport(string filePath, int contentsLengt
         AssertAreEqual(SmartObjectType.AvailableLinked, smartObjectLayer.ContentType);
 
         Directory.CreateDirectory(Path.GetDirectoryName(exportPath));
-        // Exportons l'image de l'objet intelligent lié à partir du calque d'objet intelligent PSD
+        // Exportons l'image d'objet intelligent lié du calque d'objet intelligent PSD
         smartObjectLayer.ExportContents(exportPath);
 
-        // Vérifions si l'image d'origine est bien enregistrée
+        // Vérifions si l'image originale est enregistrée correctement
         image.Save(psdOutputPath, new PsdOptions(image));
         image.Save(pngOutputPath, new PngOptions() { ColorType = PngColorType.TruecolorWithAlpha });
 
@@ -273,15 +274,15 @@ void ExampleOfExternalSmartObjectLayerSupport(string filePath, int contentsLengt
         {
             AssertAreEqual(format, innerImage.FileFormat);
 
-            // Inversons l'image de l'objet intelligent lié
+            // Invertons l'image d'objet intelligent lié
             InvertImage(innerImage);
             innerImage.Save(linkOutputPath);
 
-            // Remplaçons l'image de l'objet intelligent lié dans le calque PSD
+            // Remplaçons l'image d'objet intelligent lié dans le calque PSD
             smartObjectLayer.ReplaceContents(linkOutputPath);
         }
 
-        // Vérifions si l'image mise à jour est correctement enregistrée
+        // Vérifions si l'image mise à jour est enregistrée correctement
         image.Save(psd2OutputPath, new PsdOptions(image));
         image.Save(png2OutputPath, new PngOptions() { ColorType = PngColorType.TruecolorWithAlpha });
     }
@@ -315,7 +316,7 @@ void InvertRasterImage(RasterImage innerImage)
     innerImage.SaveArgb32Pixels(innerImage.Bounds, pixels);
 }
 
-// Obtient l'extension de format.
+// Obtient l'extension du format.
 string GetFormatExt(FileFormat format)
 {
     string formatExt = format == FileFormat.Jpeg2000 ? "jpf" : format.ToString().ToLowerInvariant();
@@ -323,11 +324,11 @@ string GetFormatExt(FileFormat format)
 }
 ```
 
-### Voir également
+### Voir aussi
 
 * enum [SmartObjectType](../../smartobjecttype/)
 * class [SmartObjectLayer](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.SmartObjects](../../smartobjectlayer/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.SmartObjects](../../../aspose.psd.fileformats.psd.layers.smartobjects/)
+* assembly [Aspose.PSD](../../../)
 
 

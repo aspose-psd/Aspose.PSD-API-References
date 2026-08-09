@@ -1,11 +1,12 @@
 ---
-title: TiffRational.ValueD
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: TiffRational propriété. Obtient la valeur double.
+title: "TiffRational.ValueD"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété TiffRational. Obtient la valeur double"
 type: docs
 weight: 60
 url: /fr/net/aspose.psd.fileformats.tiff/tiffrational/valued/
 ---
+{{< psd/tize >}}
 ## TiffRational.ValueD property
 
 Obtient la valeur double.
@@ -14,14 +15,14 @@ Obtient la valeur double.
 public double ValueD { get; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
-La double valeur.
+La valeur double.
 
-### Voir également
+### Voir aussi
 
 * class [TiffRational](../)
-* espace de noms [Aspose.PSD.FileFormats.Tiff](../../tiffrational/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff](../../../aspose.psd.fileformats.tiff/)
+* assembly [Aspose.PSD](../../../)
 
 

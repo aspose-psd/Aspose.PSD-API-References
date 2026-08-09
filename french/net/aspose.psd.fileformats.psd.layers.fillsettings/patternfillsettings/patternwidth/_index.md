@@ -1,11 +1,12 @@
 ---
-title: PatternFillSettings.PatternWidth
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: PatternFillSettings propriété. Obtient ou définit la largeur du motif.
+title: "PatternFillSettings.PatternWidth"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété PatternFillSettings. Obtient ou définit la largeur du motif"
 type: docs
-weight: 100
+weight: 120
 url: /fr/net/aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings/patternwidth/
 ---
+{{< psd/tize >}}
 ## PatternFillSettings.PatternWidth property
 
 Obtient ou définit la largeur du motif.
@@ -14,13 +15,13 @@ Obtient ou définit la largeur du motif.
 public int PatternWidth { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
 La largeur du motif.
 
-### Exemples
+## Exemples
 
-Le code suivant illustre la prise en charge de la modification du motif de calque de remplissage.
+Le code suivant montre la prise en charge de l'édition du motif de calque de remplissage.
 
 ```csharp
 [C#]
@@ -52,7 +53,7 @@ using (im)
                 throw new Exception("PSD Image was read wrong");
             }
 
-            // Édition 
+            // Modification 
             fillSettings.Scale = 300;
             fillSettings.HorizontalOffset = 2;
             fillSettings.VerticalOffset = -20;
@@ -75,10 +76,10 @@ using (im)
 }
 ```
 
-### Voir également
+### Voir aussi
 
 * class [PatternFillSettings](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../patternfillsettings/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../../)
 
 

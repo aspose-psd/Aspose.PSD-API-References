@@ -1,28 +1,29 @@
 ---
-title: PolygonShape.Segments
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: PolygonShape propriété. Obtient les segments de forme.
+title: "PolygonShape.Segments"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "PolygonShape propriété. Obtient les segments de la forme"
 type: docs
 weight: 80
 url: /fr/net/aspose.psd.shapes/polygonshape/segments/
 ---
+{{< psd/tize >}}
 ## PolygonShape.Segments property
 
-Obtient les segments de forme.
+Obtient les segments de la forme.
 
 ```csharp
 public override ShapeSegment[] Segments { get; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
-Les segments de forme.
+Les segments de la forme.
 
-### Voir également
+### Voir aussi
 
 * class [ShapeSegment](../../../aspose.psd/shapesegment/)
 * class [PolygonShape](../)
-* espace de noms [Aspose.PSD.Shapes](../../polygonshape/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 

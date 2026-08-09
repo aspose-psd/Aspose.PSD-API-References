@@ -1,11 +1,12 @@
 ---
-title: TypeToolStyleInfo.AutoKern
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: TypeToolStyleInfo propriété. Obtient ou définit une valeur indiquant si le crénage automatique est activé ou désactivé.
+title: "TypeToolStyleInfo.AutoKern"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété TypeToolStyleInfo. Obtient ou définit une valeur indiquant si le crénage automatique est activé ou désactivé."
 type: docs
 weight: 20
 url: /fr/net/aspose.psd.fileformats.psd.layers.layerresources/typetoolstyleinfo/autokern/
 ---
+{{< psd/tize >}}
 ## TypeToolStyleInfo.AutoKern property
 
 Obtient ou définit une valeur indiquant si le crénage automatique est activé ou désactivé.
@@ -14,14 +15,14 @@ Obtient ou définit une valeur indiquant si le crénage automatique est activé 
 public bool AutoKern { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
-`vrai` si le crénage automatique est activé ; sinon,`FAUX` .
+`true` si le crénage automatique est activé; sinon, `false`.
 
-### Voir également
+### Voir aussi
 
 * class [TypeToolStyleInfo](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../typetoolstyleinfo/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

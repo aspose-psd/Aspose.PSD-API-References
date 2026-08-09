@@ -1,26 +1,27 @@
 ---
-title: BlackWhiteAdjustmentLayer.UseTint
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: BlackWhiteAdjustmentLayer propriété. Obtient ou définit une valeur indiquant si la couleur de teinte est utilisée.
+title: "BlackWhiteAdjustmentLayer.UseTint"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété BlackWhiteAdjustmentLayer. Obtient ou définit une valeur indiquant si la couleur de teinte est utilisée"
 type: docs
 weight: 120
 url: /fr/net/aspose.psd.fileformats.psd.layers.adjustmentlayers/blackwhiteadjustmentlayer/usetint/
 ---
+{{< psd/tize >}}
 ## BlackWhiteAdjustmentLayer.UseTint property
 
-Obtient ou définit une valeur indiquant si la [couleur de teinte] est utilisée.
+Obtient ou définit une valeur indiquant si [tint color] est utilisé.
 
 ```csharp
 public bool UseTint { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
-`vrai` si utilisé [couleur de teinte] ; sinon,`FAUX` .
+`true` si utilisé [tint color] ; sinon, `false`.
 
-### Exemples
+## Exemples
 
-L'exemple suivant montre comment vous pouvez manipuler les propriétés du calque de réglage noir blanc dans Aspose.PSD
+L'exemple suivant montre comment vous pouvez manipuler les propriétés du calque d'ajustement noir et blanc dans Aspose.PSD
 
 ```csharp
 [C#]
@@ -48,10 +49,10 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFileName))
 }
 ```
 
-### Voir également
+### Voir aussi
 
 * class [BlackWhiteAdjustmentLayer](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../blackwhiteadjustmentlayer/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/)
+* assembly [Aspose.PSD](../../../)
 
 

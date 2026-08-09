@@ -1,11 +1,12 @@
 ---
-title: CurvesContinuousManager.UpdateCurvePoint
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: CurvesContinuousManager méthode. Met à jour le point de la courbe.
+title: "CurvesContinuousManager.UpdateCurvePoint"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Méthode CurvesContinuousManager. Met à jour le point de la courbe"
 type: docs
 weight: 60
 url: /fr/net/aspose.psd.fileformats.psd.layers.layerresources/curvescontinuousmanager/updatecurvepoint/
 ---
+{{< psd/tize >}}
 ## CurvesContinuousManager.UpdateCurvePoint method
 
 Met à jour le point de la courbe.
@@ -14,17 +15,17 @@ Met à jour le point de la courbe.
 public void UpdateCurvePoint(int channelIndex, int pointIndex, byte x, byte y)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
-| channelIndex | Int32 | Index de la chaîne. |
+| channelIndex | Int32 | Indice du canal. |
 | pointIndex | Int32 | Indice du point. |
-| x | Byte | L'emplacement x. |
-| y | Byte | L'emplacement y. |
+| x | Octet | La position x. |
+| y | Octet | L'emplacement y. |
 
-### Voir également
+### Voir aussi
 
 * class [CurvesContinuousManager](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../curvescontinuousmanager/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

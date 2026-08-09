@@ -1,11 +1,12 @@
 ---
-title: ImageAttributes.ClearGamma
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: ImageAttributes méthode. Désactive la correction gamma pour la catégorie par défaut.
+title: "ImageAttributes.ClearGamma"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Méthode ImageAttributes. Désactive la correction gamma pour la catégorie par défaut"
 type: docs
 weight: 50
 url: /fr/net/aspose.psd/imageattributes/cleargamma/
 ---
+{{< psd/tize >}}
 ## ClearGamma() {#cleargamma}
 
 Désactive la correction gamma pour la catégorie par défaut.
@@ -14,11 +15,11 @@ Désactive la correction gamma pour la catégorie par défaut.
 public void ClearGamma()
 ```
 
-### Voir également
+### Voir aussi
 
 * class [ImageAttributes](../)
-* espace de noms [Aspose.PSD](../../imageattributes/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
@@ -30,15 +31,15 @@ Désactive la correction gamma pour une catégorie spécifiée.
 public void ClearGamma(ColorAdjustType type)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
-| type | ColorAdjustType | Un élément de[`ColorAdjustType`](../../coloradjusttype/) qui spécifie la catégorie pour laquelle la correction gamma est désactivée. |
+| type | ColorAdjustType | Un élément de [`ColorAdjustType`](../../coloradjusttype/) qui spécifie la catégorie pour laquelle la correction gamma est désactivée. |
 
-### Voir également
+### Voir aussi
 
 * enum [ColorAdjustType](../../coloradjusttype/)
 * class [ImageAttributes](../)
-* espace de noms [Aspose.PSD](../../imageattributes/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

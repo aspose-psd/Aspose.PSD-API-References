@@ -1,27 +1,28 @@
 ---
-title: TypeToolStyleInfo.BaseShiftValue
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: TypeToolStyleInfo propriété. Obtient ou définit la valeur de décalage de base.
+title: "TypeToolStyleInfo.BaseShiftValue"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété TypeToolStyleInfo. Obtient ou définit la valeur de décalage de base"
 type: docs
 weight: 30
 url: /fr/net/aspose.psd.fileformats.psd.layers.layerresources/typetoolstyleinfo/baseshiftvalue/
 ---
+{{< psd/tize >}}
 ## TypeToolStyleInfo.BaseShiftValue property
 
-Obtient ou définit la valeur de décalage de base.
+Obtient ou définit la valeur du décalage de base.
 
 ```csharp
 public int BaseShiftValue { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
 La valeur de décalage de base.
 
-### Voir également
+### Voir aussi
 
 * class [TypeToolStyleInfo](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../typetoolstyleinfo/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

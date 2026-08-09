@@ -1,14 +1,15 @@
 ---
-title: Enum ColorMode
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: Aspose.PSD.Xmp.Schemas.Photoshop.ColorMode énumération. Représente le mode couleur dansPhotoshopPackage .
+title: "Énum ColorMode"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Enum Aspose.PSD.Xmp.Schemas.Photoshop.ColorMode. Représente le mode couleur dans PhotoshopPackage"
 type: docs
-weight: 5800
+weight: 6300
 url: /fr/net/aspose.psd.xmp.schemas.photoshop/colormode/
 ---
+{{< psd/tize >}}
 ## ColorMode enumeration
 
-Représente le mode couleur dans[`PhotoshopPackage`](../photoshoppackage/) .
+Représente le mode couleur dans [`PhotoshopPackage`](../photoshoppackage/).
 
 ```csharp
 public enum ColorMode : byte
@@ -16,20 +17,20 @@ public enum ColorMode : byte
 
 ### Valeurs
 
-| Nom | Évaluer | La description |
+| Nom | Valeur | Description |
 | --- | --- | --- |
-| Bitmap | `0` | Mode couleur Bitmap. |
-| GrayScale | `1` | Mode couleur échelle de gris. |
+| Bitmap | `0` | Mode couleur bitmap. |
+| GrayScale | `1` | Mode couleur en niveaux de gris. |
 | IndexedColor | `2` | La couleur indexée. |
 | Rgb | `3` | Couleur RVB. |
-| Cmyk | `4` | Mode couleur CMJN. |
+| Cmyk | `4` | Mode couleur CMYK. |
 | MultiChannel | `7` | Couleur multicanal. |
-| Duotone | `8` | Couleur bicolore. |
-| LabColor | `9` | couleur LAB. |
+| Duotone | `8` | Couleur duo-ton. |
+| LabColor | `9` | Couleur LAB. |
 
-### Voir également
+### Voir aussi
 
-* espace de noms [Aspose.PSD.Xmp.Schemas.Photoshop](../../aspose.psd.xmp.schemas.photoshop/)
-* Assemblée [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Xmp.Schemas.Photoshop](../../aspose.psd.xmp.schemas.photoshop/)
+* assembly [Aspose.PSD](../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: VectorShapeOriginSettings.OriginType
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: VectorShapeOriginSettings propriété. Obtient ou définit le type de lorigine.
+title: "VectorShapeOriginSettings.OriginType"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété VectorShapeOriginSettings. Obtient ou définit le type de l'origine"
 type: docs
 weight: 160
 url: /fr/net/aspose.psd.fileformats.core.vectorpaths/vectorshapeoriginsettings/origintype/
 ---
+{{< psd/tize >}}
 ## VectorShapeOriginSettings.OriginType property
 
 Obtient ou définit le type de l'origine.
@@ -14,14 +15,14 @@ Obtient ou définit le type de l'origine.
 public int OriginType { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
 Le type de l'origine.
 
-### Voir également
+### Voir aussi
 
 * class [VectorShapeOriginSettings](../)
-* espace de noms [Aspose.PSD.FileFormats.Core.VectorPaths](../../vectorshapeoriginsettings/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../../)
 
 

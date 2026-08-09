@@ -1,14 +1,15 @@
 ---
-title: Class UnknownResource
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: Aspose.PSD.FileFormats.Psd.Resources.UnknownResource classe. La ressource inconnue. Lorsquun bloc de ressources nest pas reconnu ce bloc de ressources est créé.
+title: "Classe UnknownResource"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Classe Aspose.PSD.FileFormats.Psd.Resources.UnknownResource. La ressource inconnue. Lorsqu'un bloc de ressource n'est pas reconnu, ce bloc de ressource est créé."
 type: docs
-weight: 3940
+weight: 4410
 url: /fr/net/aspose.psd.fileformats.psd.resources/unknownresource/
 ---
+{{< psd/tize >}}
 ## UnknownResource class
 
-La ressource inconnue. Lorsqu'un bloc de ressources n'est pas reconnu, ce bloc de ressources est créé.
+La ressource inconnue. Lorsqu'un bloc de ressource n'est pas reconnu, ce bloc de ressource est créé.
 
 ```csharp
 public sealed class UnknownResource : ResourceBlock
@@ -16,27 +17,27 @@ public sealed class UnknownResource : ResourceBlock
 
 ## Propriétés
 
-| Nom | La description |
+| Nom | Description |
 | --- | --- |
-| [Data](../../aspose.psd.fileformats.psd.resources/unknownresource/data/) { get; } | Obtient les données de ressource. |
-| override [DataSize](../../aspose.psd.fileformats.psd.resources/unknownresource/datasize/) { get; } | Obtient la taille des données de ressource en octets. |
+| [Data](../../aspose.psd.fileformats.psd.resources/unknownresource/data/) { get; } | Obtient les données de la ressource. |
+| override [DataSize](../../aspose.psd.fileformats.psd.resources/unknownresource/datasize/) { get; } | Obtient la taille des données de la ressource en octets. |
 | [ID](../../aspose.psd.fileformats.psd/resourceblock/id/) { get; set; } | Obtient ou définit l'identifiant unique de la ressource. |
-| override [MinimalVersion](../../aspose.psd.fileformats.psd.resources/unknownresource/minimalversion/) { get; } | Obtient la version psd minimale requise. |
-| [Name](../../aspose.psd.fileformats.psd/resourceblock/name/) { get; set; } | Obtient ou définit le nom de la ressource. Chaîne Pascal, rembourrée pour rendre la taille égale (un nom nul se compose de deux octets de 0). |
-| [Signature](../../aspose.psd.fileformats.psd/resourceblock/signature/) { get; } | Obtient la signature de la ressource. Devrait toujours être '8BIM'. |
-| [Size](../../aspose.psd.fileformats.psd/resourceblock/size/) { get; } | Obtient la taille du bloc de ressources en octets, y compris ses données. |
+| override [MinimalVersion](../../aspose.psd.fileformats.psd.resources/unknownresource/minimalversion/) { get; } | Obtient la version PSD minimale requise. |
+| [Name](../../aspose.psd.fileformats.psd/resourceblock/name/) { get; set; } | Obtient ou définit le nom de la ressource. Chaîne Pascal, remplie pour que la taille soit paire (un nom nul consiste en deux octets de 0). |
+| [Signature](../../aspose.psd.fileformats.psd/resourceblock/signature/) { get; } | Obtient la signature de la ressource. Doit toujours être '8BIM'. |
+| [Size](../../aspose.psd.fileformats.psd/resourceblock/size/) { get; } | Obtient la taille du bloc de ressource en octets, y compris ses données. |
 
 ## Méthodes
 
-| Nom | La description |
+| Nom | Description |
 | --- | --- |
-| [Save](../../aspose.psd.fileformats.psd/resourceblock/save/)(StreamContainer) | Enregistre le bloc de ressources dans le flux spécifié. |
-| virtual [ValidateValues](../../aspose.psd.fileformats.psd/resourceblock/validatevalues/)() | Valide les valeurs des ressources. |
+| [Save](../../aspose.psd.fileformats.psd/resourceblock/save/)(StreamContainer) | Enregistre le bloc de ressource dans le flux spécifié. |
+| virtual [ValidateValues](../../aspose.psd.fileformats.psd/resourceblock/validatevalues/)() | Valide les valeurs de la ressource. |
 
-### Voir également
+### Voir aussi
 
 * class [ResourceBlock](../../aspose.psd.fileformats.psd/resourceblock/)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Resources](../../aspose.psd.fileformats.psd.resources/)
-* Assemblée [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../)
 
 

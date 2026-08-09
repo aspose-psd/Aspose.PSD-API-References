@@ -1,11 +1,12 @@
 ---
-title: PrintScaleResource.Scale
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: PrintScaleResource propriété. Obtient ou définit léchelle.
+title: "PrintScaleResource.Scale"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété PrintScaleResource. Obtient ou définit l'échelle"
 type: docs
 weight: 40
 url: /fr/net/aspose.psd.fileformats.psd.resources/printscaleresource/scale/
 ---
+{{< psd/tize >}}
 ## PrintScaleResource.Scale property
 
 Obtient ou définit l'échelle.
@@ -14,14 +15,14 @@ Obtient ou définit l'échelle.
 public float Scale { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
 L'échelle.
 
-### Voir également
+### Voir aussi
 
 * class [PrintScaleResource](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Resources](../../printscaleresource/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: LinearGradientBrushBase.Rectangle
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: LinearGradientBrushBase propriété. Obtient ou définit une région rectangulaire qui définit les points de départ et darrivée du dégradé.
+title: "LinearGradientBrushBase.Rectangle"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété LinearGradientBrushBase. Obtient ou définit une région rectangulaire qui définit les points de départ et d'arrivée du dégradé"
 type: docs
 weight: 40
 url: /fr/net/aspose.psd.brushes/lineargradientbrushbase/rectangle/
 ---
+{{< psd/tize >}}
 ## LinearGradientBrushBase.Rectangle property
 
 Obtient ou définit une région rectangulaire qui définit les points de départ et d'arrivée du dégradé.
@@ -14,15 +15,15 @@ Obtient ou définit une région rectangulaire qui définit les points de départ
 public RectangleF Rectangle { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
-UN[`RectangleF`](../../../aspose.psd/rectanglef/) structure qui spécifie les points de départ et d'arrivée du dégradé.
+Une structure [`RectangleF`](../../../aspose.psd/rectanglef/) qui spécifie les points de départ et d'arrivée du dégradé.
 
-### Voir également
+### Voir aussi
 
 * struct [RectangleF](../../../aspose.psd/rectanglef/)
 * class [LinearGradientBrushBase](../)
-* espace de noms [Aspose.PSD.Brushes](../../lineargradientbrushbase/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
+* assembly [Aspose.PSD](../../../)
 
 

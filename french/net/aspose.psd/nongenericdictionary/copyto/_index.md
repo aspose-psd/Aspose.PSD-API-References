@@ -1,28 +1,29 @@
 ---
-title: NonGenericDictionary.CopyTo
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: NonGenericDictionary méthode. Copie les éléments du ICollection à un Array  à partir dun particulierArray index.
+title: "NonGenericDictionary.CopyTo"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Méthode NonGenericDictionary. Copie les éléments de l'ICollection vers un Array en commençant à un indice d'Array particulier"
 type: docs
 weight: 130
 url: /fr/net/aspose.psd/nongenericdictionary/copyto/
 ---
+{{< psd/tize >}}
 ## NonGenericDictionary.CopyTo method
 
-Copie les éléments du ICollection à un Array , à partir d'un particulierArray index.
+Copie les éléments de l'ICollection dans un Array, en commençant à un indice d'Array particulier.
 
 ```csharp
 public void CopyTo(Array array, int index)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
-| array | Array | Le unidimensionnelArray c'est la destination des éléments copiés de ICollection . Le Array doit avoir une indexation de base zéro. |
-| index | Int32 | L'index de base zéro dans *array* à laquelle la copie commence. |
+| array | Array | Le Array unidimensionnel qui est la destination des éléments copiés depuis l'ICollection. Le Array doit avoir un indexage à base zéro. |
+| index | Int32 | L'indice à base zéro dans *array* où la copie commence. |
 
-### Voir également
+### Voir aussi
 
 * class [NonGenericDictionary](../)
-* espace de noms [Aspose.PSD](../../nongenericdictionary/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

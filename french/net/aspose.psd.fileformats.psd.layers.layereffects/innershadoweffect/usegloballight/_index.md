@@ -1,27 +1,28 @@
 ---
-title: InnerShadowEffect.UseGlobalLight
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: InnerShadowEffect propriété. Obtient ou définit une valeur indiquant si utiliser cet angle dans tous les effets de calque.
+title: "InnerShadowEffect.UseGlobalLight"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété InnerShadowEffect. Obtient ou définit une valeur indiquant s'il faut utiliser cet angle dans tous les effets de calque"
 type: docs
 weight: 110
 url: /fr/net/aspose.psd.fileformats.psd.layers.layereffects/innershadoweffect/usegloballight/
 ---
+{{< psd/tize >}}
 ## InnerShadowEffect.UseGlobalLight property
 
-Obtient ou définit une valeur indiquant si [utiliser cet angle dans tous les effets de calque].
+Obtient ou définit une valeur indiquant si [use this angle in all of the layer effects].
 
 ```csharp
 public bool UseGlobalLight { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
-`vrai` si [utiliser la lumière globale] ; sinon,`FAUX` .
+`true` si [use global light] ; sinon, `false`.
 
-### Voir également
+### Voir aussi
 
 * class [InnerShadowEffect](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../innershadoweffect/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../../)
 
 

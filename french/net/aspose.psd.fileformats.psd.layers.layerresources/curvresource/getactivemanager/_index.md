@@ -1,11 +1,12 @@
 ---
-title: CurvResource.GetActiveManager
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: CurvResource méthode. Obtient le gestionnaire actif.
+title: "CurvResource.GetActiveManager"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "CurvResource méthode. Obtient le gestionnaire actif"
 type: docs
-weight: 60
+weight: 40
 url: /fr/net/aspose.psd.fileformats.psd.layers.layerresources/curvresource/getactivemanager/
 ---
+{{< psd/tize >}}
 ## CurvResource.GetActiveManager method
 
 Obtient le gestionnaire actif.
@@ -14,15 +15,15 @@ Obtient le gestionnaire actif.
 public CurvesManager GetActiveManager()
 ```
 
-### Return_Value
+### Valeur de retour
 
 Gestionnaire actif
 
-### Voir également
+### Voir aussi
 
 * class [CurvesManager](../../curvesmanager/)
 * class [CurvResource](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../curvresource/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

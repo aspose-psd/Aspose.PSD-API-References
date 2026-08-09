@@ -1,14 +1,15 @@
 ---
-title: Interface IObjectWithSizeF
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: Aspose.PSD.Interfaces.IObjectWithSizeF interface. Représente un objet dont la taille est exprimée en nombres réels en pouces.
+title: "Interface IObjectWithSizeF"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Interface Aspose.PSD.Interfaces.IObjectWithSizeF. Représente un objet avec Size qui est exprimé en nombres réels en pouces"
 type: docs
-weight: 5020
+weight: 5510
 url: /fr/net/aspose.psd.interfaces/iobjectwithsizef/
 ---
+{{< psd/tize >}}
 ## IObjectWithSizeF interface
 
-Représente un objet dont la taille est exprimée en nombres réels (en pouces).
+Représente un objet avec Size qui est exprimé en nombres réels (en pouces).
 
 ```csharp
 public interface IObjectWithSizeF
@@ -16,15 +17,15 @@ public interface IObjectWithSizeF
 
 ## Propriétés
 
-| Nom | La description |
+| Nom | Description |
 | --- | --- |
 | [HeightF](../../aspose.psd.interfaces/iobjectwithsizef/heightf/) { get; } | Obtient la hauteur de l'objet, en pouces. |
 | [SizeF](../../aspose.psd.interfaces/iobjectwithsizef/sizef/) { get; } | Obtient la taille de l'objet, en pouces. |
 | [WidthF](../../aspose.psd.interfaces/iobjectwithsizef/widthf/) { get; } | Obtient la largeur de l'objet, en pouces. |
 
-### Voir également
+### Voir aussi
 
-* espace de noms [Aspose.PSD.Interfaces](../../aspose.psd.interfaces/)
-* Assemblée [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Interfaces](../../aspose.psd.interfaces/)
+* assembly [Aspose.PSD](../../)
 
 

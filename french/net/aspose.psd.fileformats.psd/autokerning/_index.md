@@ -1,11 +1,12 @@
 ---
-title: Enum AutoKerning
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: Aspose.PSD.FileFormats.Psd.AutoKerning énumération. Le mode de crénage automatique de Photoshop distance entre les symboles.
+title: "Enum AutoKerning"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Aspose.PSD.FileFormats.Psd.AutoKerning enum. Le mode de crénage automatique Photoshop, distance entre les symboles"
 type: docs
-weight: 1600
+weight: 1610
 url: /fr/net/aspose.psd.fileformats.psd/autokerning/
 ---
+{{< psd/tize >}}
 ## AutoKerning enumeration
 
 Le mode de crénage automatique de Photoshop (distance entre les symboles).
@@ -16,15 +17,15 @@ public enum AutoKerning
 
 ### Valeurs
 
-| Nom | Évaluer | La description |
+| Nom | Valeur | Description |
 | --- | --- | --- |
 | Manual | `0` | Valeur de crénage manuel. |
-| Metric | `1` | Le crénage des métriques utilise des paires de crénage, qui sont incluses avec la plupart des polices (de leurs concepteurs). |
+| Metric | `1` | Le crénage métrique utilise des paires de crénage, qui sont incluses avec la plupart des polices (de leurs créateurs). |
 | Optical | `2` | Le crénage optique ajuste l'espacement entre les caractères adjacents en fonction de leurs formes. |
 
-### Exemples
+## Exemples
 
-Le code suivant illustre la prise en charge de la prise en charge des nouvelles propriétés ITextStyle.
+Le code suivant démontre la prise en charge de la prise en charge des nouvelles propriétés ITextStyle.
 
 ```csharp
 [C#]
@@ -76,9 +77,9 @@ using (var srcImage = (PsdImage)Image.Load(srcFile))
 }
 ```
 
-### Voir également
+### Voir aussi
 
-* espace de noms [Aspose.PSD.FileFormats.Psd](../../aspose.psd.fileformats.psd/)
-* Assemblée [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../)
 
 

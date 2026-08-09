@@ -1,11 +1,12 @@
 ---
-title: TiffOptions.YCbCrCoefficients
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: TiffOptions propriété. Obtient ou définit les YCbCrCoefficients.
+title: "TiffOptions.YCbCrCoefficients"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété TiffOptions. Obtient ou définit les YCbCrCoefficients"
 type: docs
-weight: 660
+weight: 670
 url: /fr/net/aspose.psd.imageoptions/tiffoptions/ycbcrcoefficients/
 ---
+{{< psd/tize >}}
 ## TiffOptions.YCbCrCoefficients property
 
 Obtient ou définit les YCbCrCoefficients.
@@ -14,22 +15,22 @@ Obtient ou définit les YCbCrCoefficients.
 public TiffRational[] YCbCrCoefficients { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
-Les coefficients YCbCr.
+Les YCbCrCoefficients.
 
 ### Exceptions
 
 | exception | condition |
 | --- | --- |
-| [TiffImageException](../../../aspose.psd.coreexceptions.imageformats/tiffimageexception/) | Nombre non valide de valeurs de coefficients rationnels. Doit être égal à 3. |
+| [TiffImageException](../../../aspose.psd.coreexceptions.imageformats/tiffimageexception/) | Nombre invalide de valeurs de coefficients rationnels. Doit être égal à 3. |
 | ArgumentNullException | valeur |
 
-### Voir également
+### Voir aussi
 
 * class [TiffRational](../../../aspose.psd.fileformats.tiff/tiffrational/)
 * class [TiffOptions](../)
-* espace de noms [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

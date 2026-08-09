@@ -1,14 +1,15 @@
 ---
-title: Class PlLdResource
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.PlLdResource classe. Définit la classe PlLdResource qui contient des informations sur un calque placé dans le fichier PSD. Est utilisé pour prendre en charge les calques dobjets intelligents dans les images Adobe Photoshop. Il a été remplacé par SoLdResource dans Adobe Photoshop CS3
+title: "Classe PlLdResource"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Classe Aspose.PSD.FileFormats.Psd.Layers.LayerResources.PlLdResource. Définit la classe PlLdResource qui contient des informations sur un calque placé dans le fichier PSD. Elle est utilisée pour prendre en charge les calques d'objets dynamiques dans les images Adobe Photoshop. Elle a été remplacée par SoLdResource dans Adobe Photoshop CS3"
 type: docs
-weight: 2920
+weight: 3270
 url: /fr/net/aspose.psd.fileformats.psd.layers.layerresources/plldresource/
 ---
+{{< psd/tize >}}
 ## PlLdResource class
 
-Définit la classe PlLdResource qui contient des informations sur un calque placé dans le fichier PSD. Est utilisé pour prendre en charge les calques d'objets intelligents dans les images Adobe® Photoshop®. Il a été remplacé par SoLdResource dans Adobe® Photoshop® CS3
+Définit la classe PlLdResource qui contient des informations sur un calque placé dans le fichier PSD. Elle est utilisée pour prendre en charge les calques d’objets dynamiques dans les images Adobe® Photoshop®. Elle a été remplacée par SoLdResource dans Adobe® Photoshop® CS3.
 
 ```csharp
 public class PlLdResource : PlacedResource
@@ -16,52 +17,52 @@ public class PlLdResource : PlacedResource
 
 ## Propriétés
 
-| Nom | La description |
+| Nom | Description |
 | --- | --- |
-| virtual [AntiAliasPolicy](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/antialiaspolicy/) { get; set; } | Obtient ou définit la politique anti-alias du calque placé dans l'image PSD. |
-| [Bottom](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/bottom/) { get; set; } | Obtient ou définit l'emplacement inférieur du calque placé dans l'image PSD. |
+| virtual [AntiAliasPolicy](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/antialiaspolicy/) { get; set; } | Obtient ou définit la politique d'anticrénelage du calque placé dans l'image PSD. |
+| [Bottom](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/bottom/) { get; set; } | Obtient ou définit la position inférieure du calque placé dans l'image PSD. |
 | [Bounds](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/bounds/) { get; set; } | Obtient ou définit les limites du calque placé dans le fichier PSD. |
 | [HorizontalMeshPoints](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/horizontalmeshpoints/) { get; set; } | Obtient ou définit les points de maillage horizontaux du calque placé dans le fichier PSD. |
 | [HorizontalMeshPointUnit](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/horizontalmeshpointunit/) { get; set; } | Obtient ou définit l'unité de mesure des points de maillage horizontaux. |
-| [IsCustom](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/iscustom/) { get; set; } | Obtient ou définit une valeur indiquant si ce style de déformation d'instance est personnalisé. Si vrai, il contient des points de maillage. Si défini sur false, il efface les points de maillage. |
-| virtual [Items](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/items/) { get; set; } | Obtient ou définit les éléments de chaîne. |
-| override [Key](../../aspose.psd.fileformats.psd.layers.layerresources/plldresource/key/) { get; } | Obtient la clé de ressource PlLd. |
-| [Left](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/left/) { get; set; } | Obtient ou définit l'emplacement de gauche du calque placé dans le fichier PSD. |
+| [IsCustom](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/iscustom/) { get; set; } | Obtient ou définit une valeur indiquant si le style de déformation de cette instance est personnalisé. Si vrai, il contient des points de maillage. Si défini sur faux, il supprime les points de maillage. |
+| virtual [Items](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/items/) { get; set; } | Obtient ou définit les éléments de déformation. |
+| [Key](../../aspose.psd.fileformats.psd.layers/layerresource/key/) { get; } | Obtient la clé de ressource du calque. |
+| [Left](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/left/) { get; set; } | Obtient ou définit la position gauche du calque placé dans le fichier PSD. |
 | override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/plldresource/length/) { get; } | Obtient la longueur de la ressource PlLd en octets. |
 | virtual [PageNumber](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/pagenumber/) { get; set; } | Obtient ou définit le numéro de page du calque placé dans le fichier PSD. |
 | [Perspective](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/perspective/) { get; set; } | Obtient ou définit la valeur de perspective du calque placé dans le fichier PSD. |
 | [PerspectiveOther](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/perspectiveother/) { get; set; } | Obtient ou définit l'autre valeur de perspective du calque placé dans le fichier PSD. |
 | virtual [PlacedLayerType](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/placedlayertype/) { get; set; } | Obtient ou définit le type du calque placé dans le fichier PSD. |
-| override [PsdVersion](../../aspose.psd.fileformats.psd.layers.layerresources/plldresource/psdversion/) { get; } | Obtient la version psd minimale requise pour la ressource PlLd. 0 indique aucune restriction. |
-| [Right](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/right/) { get; set; } | Obtient ou définit le bon emplacement du calque placé dans le fichier PSD. |
-| override [Signature](../../aspose.psd.fileformats.psd.layers.layerresources/plldresource/signature/) { get; } | Obtient la signature de la ressource PlLd. |
-| [Top](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/top/) { get; set; } | Obtient ou définit l'emplacement supérieur du calque placé dans l'image PSD. |
+| virtual [PsdVersion](../../aspose.psd.fileformats.psd.layers/layerresource/psdversion/) { get; } | Obtient la version minimale de PSD requise pour la ressource du calque. 0 indique aucune restriction. |
+| [Right](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/right/) { get; set; } | Obtient ou définit la position droite du calque placé dans le fichier PSD. |
+| virtual [Signature](../../aspose.psd.fileformats.psd.layers/layerresource/signature/) { get; } | Obtient la signature. |
+| [Top](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/top/) { get; set; } | Obtient ou définit la position supérieure du calque placé dans l'image PSD. |
 | virtual [TotalPages](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/totalpages/) { get; set; } | Obtient ou définit le nombre total de pages du calque placé dans le fichier PSD. |
 | virtual [TransformMatrix](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/transformmatrix/) { get; set; } | Obtient ou définit la matrice de transformation du calque placé dans le fichier PSD. |
-| virtual [UniqueId](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/uniqueid/) { get; set; } | Obtient ou définit l'identifiant unique global de la couche placée dans l'image PSD. |
+| virtual [UniqueId](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/uniqueid/) { get; set; } | Obtient ou définit l'identifiant unique global du calque placé dans l'image PSD. |
 | [UOrder](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/uorder/) { get; set; } | Obtient ou définit la valeur d'ordre U du calque placé dans le fichier PSD. |
 | [Value](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/value/) { get; set; } | Obtient ou définit la valeur de déformation du calque placé dans l'image PSD. |
 | [Version](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/version/) { get; } | Obtient la version du calque placé dans le fichier PSD, généralement 3. |
 | [VerticalMeshPoints](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/verticalmeshpoints/) { get; set; } | Obtient ou définit les points de maillage horizontaux du calque placé dans le fichier PSD. |
-| [VerticalMeshPointUnit](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/verticalmeshpointunit/) { get; set; } | Obtient ou définit l'unité de mesure des points de maillage vertical. |
+| [VerticalMeshPointUnit](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/verticalmeshpointunit/) { get; set; } | Obtient ou définit l'unité de mesure des points du maillage vertical. |
 | [VOrder](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/vorder/) { get; set; } | Obtient ou définit la valeur d'ordre V du calque placé dans le fichier PSD. |
 
 ## Méthodes
 
-| Nom | La description |
+| Nom | Description |
 | --- | --- |
 | override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/plldresource/save/)(StreamContainer, int) | Enregistre la ressource PlLD dans le conteneur de flux spécifié. |
-| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring/)() | Renvoie unString qui représente cette instance. |
+| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring/)() | Renvoie une chaîne qui représente cette instance. |
 
-## Des champs
+## Champs
 
-| Nom | La description |
+| Nom | Description |
 | --- | --- |
-| const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/plldresource/typetoolkey/) | La clé d'informations sur l'outil de type. |
+| const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/plldresource/typetoolkey/) | La clé d'information de l'outil de type. |
 
-### Exemples
+## Exemples
 
-Le code suivant illustre la prise en charge de la ressource PlLdResource.
+Le code suivant démontre la prise en charge de la ressource PlLdResource.
 
 ```csharp
 [C#]
@@ -243,15 +244,15 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
                 resource.Bottom = 248;
                 resource.Right = 145;
 
-                // Attention à certains paramètres : l'image peut devenir illisible par Adobe® Photoshop®
-                ////ressource.UOrder = 6;
-                ////ressource.VOrder = 9;
+                // Soyez prudent avec certains paramètres : l'image peut devenir illisible par Adobe® Photoshop®.
+                ////resource.UOrder = 6;
+                ////resource.VOrder = 9;
 
-                // Ne changez rien sinon vous ne pourrez pas utiliser la transformation libre
-                // ou changez l'objet intelligent de soulignement en type vectoriel
-                ////resource.PlacedLayerType = PlacedLayerType.Vector ;
+                // Ne modifiez pas cela sinon vous ne pourrez pas utiliser la transformation libre.
+                // ou changez l'objet intelligent sous-jacent en type vecteur.
+                ////resource.PlacedLayerType = PlacedLayerType.Vector;
 
-                // Il devrait y avoir une PlLdResource valide avec cet identifiant unique
+                // Il doit exister une PlLdResource valide avec cet identifiant unique.
                 ////resource.UniqueId = new Guid("98765432-10fe-cba0-1234-56789abcdef0");
 
                 break;
@@ -264,10 +265,10 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
 }
 ```
 
-### Voir également
+### Voir aussi
 
 * class [PlacedResource](../placedresource/)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
-* Assemblée [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../)
 
 

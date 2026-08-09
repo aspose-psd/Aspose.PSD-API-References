@@ -1,28 +1,29 @@
 ---
-title: ExifData.MakerNoteData
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: ExifData propriété. Obtient les données de la note du fabricant.
+title: "ExifData.MakerNoteData"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété ExifData. Obtient les données de note du fabricant"
 type: docs
 weight: 780
 url: /fr/net/aspose.psd.exif/exifdata/makernotedata/
 ---
+{{< psd/tize >}}
 ## ExifData.MakerNoteData property
 
-Obtient les données de la note du fabricant.
+Obtient les données de note du fabricant.
 
 ```csharp
 public TiffDataType[] MakerNoteData { get; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
-Les données de la note du fabricant.
+Les données de note du fabricant.
 
-### Voir également
+### Voir aussi
 
 * class [TiffDataType](../../../aspose.psd.fileformats.tiff/tiffdatatype/)
 * class [ExifData](../)
-* espace de noms [Aspose.PSD.Exif](../../exifdata/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

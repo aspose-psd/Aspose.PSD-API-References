@@ -1,11 +1,12 @@
 ---
-title: ImageOptionsBase.Clone
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: ImageOptionsBase méthode. Clone cette instance.
+title: "ImageOptionsBase.Clone"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Méthode ImageOptionsBase. Clone cette instance"
 type: docs
 weight: 110
 url: /fr/net/aspose.psd/imageoptionsbase/clone/
 ---
+{{< psd/tize >}}
 ## ImageOptionsBase.Clone method
 
 Clone cette instance.
@@ -14,14 +15,14 @@ Clone cette instance.
 public virtual ImageOptionsBase Clone()
 ```
 
-### Return_Value
+### Valeur de retour
 
 Renvoie une copie superficielle de cette instance
 
-### Voir également
+### Voir aussi
 
 * class [ImageOptionsBase](../)
-* espace de noms [Aspose.PSD](../../imageoptionsbase/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

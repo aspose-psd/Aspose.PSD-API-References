@@ -1,23 +1,24 @@
 ---
-title: NonGenericList.IsFixedSize
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: NonGenericList propriété. Obtient une valeur indiquant si leIList a une taille fixe.
+title: "NonGenericList.IsFixedSize"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "NonGenericList propriété. Obtient une valeur indiquant si l'IList a une taille fixe"
 type: docs
 weight: 30
 url: /fr/net/aspose.psd/nongenericlist/isfixedsize/
 ---
+{{< psd/tize >}}
 ## NonGenericList.IsFixedSize property
 
-Obtient une valeur indiquant si leIList a une taille fixe.
+Obtient une valeur indiquant si l'IList a une taille fixe.
 
 ```csharp
 public bool IsFixedSize { get; }
 ```
 
-### Voir également
+### Voir aussi
 
 * class [NonGenericList](../)
-* espace de noms [Aspose.PSD](../../nongenericlist/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

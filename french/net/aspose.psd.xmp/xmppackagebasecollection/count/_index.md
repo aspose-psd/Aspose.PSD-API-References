@@ -1,27 +1,28 @@
 ---
-title: XmpPackageBaseCollection.Count
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: XmpPackageBaseCollection propriété. Obtient le nombre déléments dans la collection.
+title: "XmpPackageBaseCollection.Count"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété XmpPackageBaseCollection. Obtient le nombre d'éléments dans la collection"
 type: docs
 weight: 20
 url: /fr/net/aspose.psd.xmp/xmppackagebasecollection/count/
 ---
+{{< psd/tize >}}
 ## XmpPackageBaseCollection.Count property
 
-Obtient le nombre d'éléments dans la collection.
+Obtient le nombre d’éléments dans la collection.
 
 ```csharp
 public int Count { get; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
 Le nombre d'éléments dans la collection.
 
-### Voir également
+### Voir aussi
 
 * class [XmpPackageBaseCollection](../)
-* espace de noms [Aspose.PSD.Xmp](../../xmppackagebasecollection/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

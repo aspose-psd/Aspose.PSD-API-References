@@ -1,11 +1,12 @@
 ---
-title: Pen.MiterLimit
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: Pen propriété. Obtient ou définit la limite de lépaisseur de la jointure sur un coin en onglet.
+title: "Pen.MiterLimit"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété Pen. Obtient ou définit la limite de l'épaisseur de la jointure sur un coin en onglet"
 type: docs
 weight: 140
 url: /fr/net/aspose.psd/pen/miterlimit/
 ---
+{{< psd/tize >}}
 ## Pen.MiterLimit property
 
 Obtient ou définit la limite de l'épaisseur de la jointure sur un coin en onglet.
@@ -14,20 +15,20 @@ Obtient ou définit la limite de l'épaisseur de la jointure sur un coin en ongl
 public float MiterLimit { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
-La limite de l'épaisseur du joint sur un coin en onglet.
+La limite de l'épaisseur de la jointure sur un coin en onglet.
 
 ### Exceptions
 
 | exception | condition |
 | --- | --- |
-| ArgumentException | Le`MiterLimit` la propriété est définie sur un immuable[`Pen`](../) , tels que ceux renvoyés par le[`Pen`](../) classe. |
+| ArgumentException | La propriété `MiterLimit` est définie sur un [`Pen`](../) immuable, comme ceux renvoyés par la classe [`Pen`](../). |
 
-### Voir également
+### Voir aussi
 
 * class [Pen](../)
-* espace de noms [Aspose.PSD](../../pen/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,28 +1,29 @@
 ---
-title: LayerMaskData.Flags
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: LayerMaskData propriété. Obtient ou définit les indicateurs de masque de calque.
+title: "LayerMaskData.Flags"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété LayerMaskData. Obtient ou définit les indicateurs du masque de calque"
 type: docs
 weight: 40
 url: /fr/net/aspose.psd.fileformats.psd.layers/layermaskdata/flags/
 ---
+{{< psd/tize >}}
 ## LayerMaskData.Flags property
 
-Obtient ou définit les indicateurs de masque de calque.
+Obtient ou définit les indicateurs du masque de calque.
 
 ```csharp
 public LayerMaskFlags Flags { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
-Les indicateurs de masque de calque.
+Les indicateurs du masque de calque.
 
-### Voir également
+### Voir aussi
 
 * enum [LayerMaskFlags](../../layermaskflags/)
 * class [LayerMaskData](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers](../../layermaskdata/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

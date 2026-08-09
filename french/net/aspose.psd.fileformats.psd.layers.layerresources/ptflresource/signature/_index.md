@@ -1,23 +1,24 @@
 ---
-title: PtFlResource.Signature
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: PtFlResource propriété. Obtient la signature de ressource de couche.
+title: "PtFlResource.Signature"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété PtFlResource. Obtient la signature de la ressource du calque"
 type: docs
-weight: 110
+weight: 120
 url: /fr/net/aspose.psd.fileformats.psd.layers.layerresources/ptflresource/signature/
 ---
+{{< psd/tize >}}
 ## PtFlResource.Signature property
 
-Obtient la signature de ressource de couche.
+Obtient la signature de la ressource de calque.
 
 ```csharp
 public override int Signature { get; }
 ```
 
-### Voir également
+### Voir aussi
 
 * class [PtFlResource](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../ptflresource/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

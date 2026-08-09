@@ -1,26 +1,27 @@
 ---
-title: LiFeDataSource.AdobeStockLicenseState
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: LiFeDataSource propriété. Obtient létat de la licence Adobe Stock si disponible pour les bibliothèques Adobe Photoshop CC.
+title: "LiFeDataSource.AdobeStockLicenseState"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété LiFeDataSource. Obtient l'état de la licence Adobe Stock si disponible pour les bibliothèques Adobe Photoshop CC"
 type: docs
 weight: 30
 url: /fr/net/aspose.psd.fileformats.psd.layers.layerresources/lifedatasource/adobestocklicensestate/
 ---
+{{< psd/tize >}}
 ## LiFeDataSource.AdobeStockLicenseState property
 
-Obtient l'état de la licence Adobe Stock, si disponible, pour les bibliothèques Adobe® Photoshop® CC.
+Obtient l'état de la licence Adobe Stock si disponible, pour les bibliothèques Adobe® Photoshop® CC.
 
 ```csharp
 public string AdobeStockLicenseState { get; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
 L'état de la licence Adobe Stock ou une chaîne vide si elle n'est pas disponible.
 
-### Exemples
+## Exemples
 
-Le code suivant illustre la prise en charge de la ressource LnkeResource.
+Le code suivant montre la prise en charge de la ressource LnkeResource.
 
 ```csharp
 [C#]
@@ -215,7 +216,7 @@ void ExampleOfComplexLnkEResourceSupport(string filePath, int length, int length
                         liFeSource.CompId = int.MaxValue;
                     }
 
-                    liFeSource.FullPath = @"file:///C:/Aspose/net/Aspose.Psd/test/testdata/Images/Psd/SmartObjects/rgb8_2x2.png" ;
+                    liFeSource.FullPath = @"file:///C:/Aspose/net/Aspose.Psd/test/testdata/Images/Psd/SmartObjects/rgb8_2x2.png";
                     liFeSource.FileName = "rgb8_2x23.png";
                     liFeSource.ChildDocId = Guid.NewGuid().ToString();
                     liFeSource.Date = DateTime.Now;
@@ -242,10 +243,10 @@ ExampleOfComplexLnkEResourceSupport(
     ComplexLnkEResourceSupportCases);
 ```
 
-### Voir également
+### Voir aussi
 
 * class [LiFeDataSource](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../lifedatasource/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

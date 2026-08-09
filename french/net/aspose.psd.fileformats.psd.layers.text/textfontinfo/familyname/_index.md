@@ -1,27 +1,28 @@
 ---
-title: TextFontInfo.FamilyName
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: TextFontInfo propriété. Obtient le nom de la famille de polices
+title: "TextFontInfo.FamilyName"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété TextFontInfo. Obtient le nom de famille de la police"
 type: docs
 weight: 10
 url: /fr/net/aspose.psd.fileformats.psd.layers.text/textfontinfo/familyname/
 ---
+{{< psd/tize >}}
 ## TextFontInfo.FamilyName property
 
-Obtient le nom de la famille de polices
+Obtient le nom de la famille de police
 
 ```csharp
 public string FamilyName { get; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
-Nom de la famille de polices
+Nom de famille de la police
 
-### Voir également
+### Voir aussi
 
 * class [TextFontInfo](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.Text](../../textfontinfo/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.Text](../../../aspose.psd.fileformats.psd.layers.text/)
+* assembly [Aspose.PSD](../../../)
 
 

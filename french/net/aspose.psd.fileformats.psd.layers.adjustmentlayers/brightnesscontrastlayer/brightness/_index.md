@@ -1,27 +1,28 @@
 ---
-title: BrightnessContrastLayer.Brightness
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: BrightnessContrastLayer propriété. Obtient ou définit la luminosité. Pour le PS la plage de luminosité est de 150 à 150. Mais nous ignorons cela.
+title: "BrightnessContrastLayer.Brightness"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété BrightnessContrastLayer. Obtient ou définit la luminosité. Pour la plage PS, la luminosité va de 150 à 150. Mais nous l'ignorons."
 type: docs
 weight: 10
 url: /fr/net/aspose.psd.fileformats.psd.layers.adjustmentlayers/brightnesscontrastlayer/brightness/
 ---
+{{< psd/tize >}}
 ## BrightnessContrastLayer.Brightness property
 
-Obtient ou définit la luminosité. Pour le PS, la plage de luminosité est de -150 à +150. Mais nous ignorons cela.
+Obtient ou définit la luminosité. Pour PS, la plage de luminosité va de -150 à +150. Mais nous l'ignorons.
 
 ```csharp
 public int Brightness { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
 La luminosité.
 
-### Voir également
+### Voir aussi
 
 * class [BrightnessContrastLayer](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../brightnesscontrastlayer/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/)
+* assembly [Aspose.PSD](../../../)
 
 

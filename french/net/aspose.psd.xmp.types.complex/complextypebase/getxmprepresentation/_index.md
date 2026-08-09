@@ -1,27 +1,28 @@
 ---
-title: ComplexTypeBase.GetXmpRepresentation
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: ComplexTypeBase méthode. Obtient la valeur contenue dans la chaîne au format XMP.
+title: "ComplexTypeBase.GetXmpRepresentation"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Méthode ComplexTypeBase. Obtient la valeur de chaîne contenue au format XMP"
 type: docs
 weight: 40
 url: /fr/net/aspose.psd.xmp.types.complex/complextypebase/getxmprepresentation/
 ---
+{{< psd/tize >}}
 ## ComplexTypeBase.GetXmpRepresentation method
 
-Obtient la valeur contenue dans la chaîne au format XMP.
+Obtient la valeur de chaîne contenue au format XMP.
 
 ```csharp
 public override string GetXmpRepresentation()
 ```
 
-### Return_Value
+### Valeur de retour
 
-Renvoie la chaîne contenue dans la valeur au format XMP.
+Renvoie la valeur de chaîne contenue au format XMP.
 
-### Voir également
+### Voir aussi
 
 * class [ComplexTypeBase](../)
-* espace de noms [Aspose.PSD.Xmp.Types.Complex](../../complextypebase/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex](../../../aspose.psd.xmp.types.complex/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: TiffOptions.YCbCrSubsampling
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: TiffOptions propriété. Obtient ou définit les facteurs de souséchantillonnage pour la photométrie YCbCr.
+title: "TiffOptions.YCbCrSubsampling"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété TiffOptions. Obtient ou définit les facteurs de sous-échantillonnage pour le photométrique YCbCr"
 type: docs
-weight: 670
+weight: 680
 url: /fr/net/aspose.psd.imageoptions/tiffoptions/ycbcrsubsampling/
 ---
+{{< psd/tize >}}
 ## TiffOptions.YCbCrSubsampling property
 
 Obtient ou définit les facteurs de sous-échantillonnage pour la photométrie YCbCr.
@@ -14,9 +15,9 @@ Obtient ou définit les facteurs de sous-échantillonnage pour la photométrie Y
 public ushort[] YCbCrSubsampling { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
-Les facteurs de sous-échantillonnage pour YCbCr photométrique.
+Les facteurs de sous-échantillonnage pour le photométrique YCbCr.
 
 ### Exceptions
 
@@ -25,10 +26,10 @@ Les facteurs de sous-échantillonnage pour YCbCr photométrique.
 | [TiffImageException](../../../aspose.psd.coreexceptions.imageformats/tiffimageexception/) | Longueur de champ invalide. Le champ YCbCrSubsampling doit contenir deux valeurs. |
 | ArgumentNullException | valeur |
 
-### Voir également
+### Voir aussi
 
 * class [TiffOptions](../)
-* espace de noms [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

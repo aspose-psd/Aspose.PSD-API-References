@@ -1,27 +1,28 @@
 ---
-title: PtFlResource.PatternId
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: PtFlResource propriété. Obtient ou définit lidentifiant du modèle.
+title: "PtFlResource.PatternId"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "PtFlResource propriété. Obtient ou définit l'identifiant du motif"
 type: docs
 weight: 70
 url: /fr/net/aspose.psd.fileformats.psd.layers.layerresources/ptflresource/patternid/
 ---
+{{< psd/tize >}}
 ## PtFlResource.PatternId property
 
-Obtient ou définit l'identifiant du modèle.
+Obtient ou définit l'identifiant du motif.
 
 ```csharp
 public string PatternId { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
-L'identifiant du modèle.
+L'identifiant du motif.
 
-### Voir également
+### Voir aussi
 
 * class [PtFlResource](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../ptflresource/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

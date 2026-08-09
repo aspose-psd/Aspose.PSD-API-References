@@ -1,28 +1,29 @@
 ---
-title: VectorShapeBoundingBox.Bounds
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: VectorShapeBoundingBox propriété. Obtient ou définit les limites du cadre de délimitation de la forme.
+title: "VectorShapeBoundingBox.Bounds"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété VectorShapeBoundingBox. Obtient ou définit les limites de la boîte englobante de la forme"
 type: docs
 weight: 30
 url: /fr/net/aspose.psd.fileformats.core.vectorpaths/vectorshapeboundingbox/bounds/
 ---
+{{< psd/tize >}}
 ## VectorShapeBoundingBox.Bounds property
 
-Obtient ou définit les limites du cadre de délimitation de la forme.
+Obtient ou définit les limites de la boîte englobante de la forme.
 
 ```csharp
 public Rectangle Bounds { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
-La boîte englobante de la forme délimite.
+Les limites de la boîte englobante de la forme.
 
-### Voir également
+### Voir aussi
 
 * struct [Rectangle](../../../aspose.psd/rectangle/)
 * class [VectorShapeBoundingBox](../)
-* espace de noms [Aspose.PSD.FileFormats.Core.VectorPaths](../../vectorshapeboundingbox/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../../)
 
 

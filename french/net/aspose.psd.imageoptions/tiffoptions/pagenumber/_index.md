@@ -1,34 +1,35 @@
 ---
-title: TiffOptions.PageNumber
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: TiffOptions propriété. Obtient ou définit la balise de numéro de page.
+title: "TiffOptions.PageNumber"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété TiffOptions. Obtient ou définit l'étiquette du numéro de page"
 type: docs
-weight: 300
+weight: 310
 url: /fr/net/aspose.psd.imageoptions/tiffoptions/pagenumber/
 ---
+{{< psd/tize >}}
 ## TiffOptions.PageNumber property
 
-Obtient ou définit la balise de numéro de page.
+Obtient ou définit le tag du numéro de page.
 
 ```csharp
 public ushort[] PageNumber { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
-La balise de numéro de page.
+L'étiquette du numéro de page.
 
 ### Exceptions
 
 | exception | condition |
 | --- | --- |
 | ArgumentNullException | valeur |
-| ArgumentOutOfRangeException | value;2 valeurs attendues dans le tableau : PageNumber[0] est le numéro de page et PageNumber[1] est le nombre total de pages du document. |
+| ArgumentOutOfRangeException | value;Deux valeurs attendues dans le tableau : PageNumber[0] est le numéro de page et PageNumber[1] est le nombre total de pages dans le document. |
 
-### Voir également
+### Voir aussi
 
 * class [TiffOptions](../)
-* espace de noms [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

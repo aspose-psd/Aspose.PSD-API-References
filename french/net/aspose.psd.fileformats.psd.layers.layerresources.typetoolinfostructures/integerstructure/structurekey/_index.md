@@ -1,23 +1,24 @@
 ---
-title: IntegerStructure.StructureKey
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: IntegerStructure champ. La clé de structure entière.
+title: "IntegerStructure.StructureKey"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Champ IntegerStructure. La clé de la structure entière"
 type: docs
 weight: 50
 url: /fr/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/integerstructure/structurekey/
 ---
+{{< psd/tize >}}
 ## IntegerStructure.StructureKey field
 
-La clé de structure entière.
+La clé de la structure entière.
 
 ```csharp
 public const int StructureKey;
 ```
 
-### Voir également
+### Voir aussi
 
 * class [IntegerStructure](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../integerstructure/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,23 +1,24 @@
 ---
-title: ITextStyle.Strikethrough
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: ITextStyle propriété. Obtient ou définit une valeur indiquant si barré.
+title: "ITextStyle.Strikethrough"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété ITextStyle. Obtient ou définit une valeur indiquant si le texte est barré"
 type: docs
 weight: 230
 url: /fr/net/aspose.psd.fileformats.psd.layers.text/itextstyle/strikethrough/
 ---
+{{< psd/tize >}}
 ## ITextStyle.Strikethrough property
 
-Obtient ou définit une valeur indiquant si [barré].
+Obtient ou définit une valeur indiquant si [strikethrough].
 
 ```csharp
 public bool Strikethrough { get; set; }
 ```
 
-### Voir également
+### Voir aussi
 
 * interface [ITextStyle](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.Text](../../itextstyle/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.Text](../../../aspose.psd.fileformats.psd.layers.text/)
+* assembly [Aspose.PSD](../../../)
 
 

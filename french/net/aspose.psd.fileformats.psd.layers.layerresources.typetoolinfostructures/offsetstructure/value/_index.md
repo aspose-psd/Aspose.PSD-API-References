@@ -1,11 +1,12 @@
 ---
-title: OffsetStructure.Value
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: OffsetStructure propriété. Obtient ou définit la valeur entière.
+title: "OffsetStructure.Value"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété OffsetStructure. Obtient ou définit la valeur entière"
 type: docs
 weight: 60
 url: /fr/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/offsetstructure/value/
 ---
+{{< psd/tize >}}
 ## OffsetStructure.Value property
 
 Obtient ou définit la valeur entière.
@@ -14,14 +15,14 @@ Obtient ou définit la valeur entière.
 public int Value { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
 La valeur entière.
 
-### Voir également
+### Voir aussi
 
 * class [OffsetStructure](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../offsetstructure/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 

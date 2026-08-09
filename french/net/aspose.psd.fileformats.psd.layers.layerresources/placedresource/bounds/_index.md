@@ -1,11 +1,12 @@
 ---
-title: PlacedResource.Bounds
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: PlacedResource propriété. Obtient ou définit les limites du calque placé dans le fichier PSD.
+title: "PlacedResource.Bounds"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété PlacedResource. Obtient ou définit les limites du calque placé dans le fichier PSD"
 type: docs
 weight: 30
 url: /fr/net/aspose.psd.fileformats.psd.layers.layerresources/placedresource/bounds/
 ---
+{{< psd/tize >}}
 ## PlacedResource.Bounds property
 
 Obtient ou définit les limites du calque placé dans le fichier PSD.
@@ -14,15 +15,15 @@ Obtient ou définit les limites du calque placé dans le fichier PSD.
 public Rectangle Bounds { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
 Les limites du calque placé.
 
-### Voir également
+### Voir aussi
 
 * struct [Rectangle](../../../aspose.psd/rectangle/)
 * class [PlacedResource](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../placedresource/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

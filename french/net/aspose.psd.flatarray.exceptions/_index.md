@@ -1,17 +1,18 @@
 ---
-title: Aspose.PSD.FlatArray.Exceptions
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: Lespace de noms gère le traitement du format de fichier Psd.
+title: "Aspose.PSD.FlatArray.Exceptions"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "L’espace de noms gère le traitement du format de fichier PSD"
 type: docs
-weight: 400
+weight: 440
 url: /fr/net/aspose.psd.flatarray.exceptions/
 ---
-L'espace de noms gère le traitement du format de fichier Psd.
+{{< psd/tize >}}
+L'espace de noms gère le traitement du format de fichier PSD.
 
-## Des classes
+## Classes
 
-| Classer | La description |
+| Classe | Description |
 | --- | --- |
-| [FlatArrayException](./flatarrayexception/) | Exception spéciale pourFlatArray classe. |
+| [FlatArrayException](./flatarrayexception/) | Exception spéciale pour la classe FlatArray. |
 
 

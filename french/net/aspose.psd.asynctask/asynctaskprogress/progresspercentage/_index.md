@@ -1,11 +1,12 @@
 ---
-title: AsyncTaskProgress.ProgressPercentage
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: AsyncTaskProgress champ. La progression de la tâche asynchrone en pourcentage.
+title: "AsyncTaskProgress.ProgressPercentage"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Champ AsyncTaskProgress. La progression de la tâche asynchrone en pourcentage"
 type: docs
 weight: 30
 url: /fr/net/aspose.psd.asynctask/asynctaskprogress/progresspercentage/
 ---
+{{< psd/tize >}}
 ## AsyncTaskProgress.ProgressPercentage field
 
 La progression de la tâche asynchrone, en pourcentage.
@@ -14,10 +15,10 @@ La progression de la tâche asynchrone, en pourcentage.
 public readonly int ProgressPercentage;
 ```
 
-### Voir également
+### Voir aussi
 
 * class [AsyncTaskProgress](../)
-* espace de noms [Aspose.PSD.AsyncTask](../../asynctaskprogress/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.AsyncTask](../../../aspose.psd.asynctask/)
+* assembly [Aspose.PSD](../../../)
 
 

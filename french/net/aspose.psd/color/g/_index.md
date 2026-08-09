@@ -1,27 +1,28 @@
 ---
-title: Color.G
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: Color propriété. Obtient la valeur du composant vert de ceColorstructure.
+title: "Color.G"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété Color. Obtient la valeur du composant vert de cette structure Color"
 type: docs
 weight: 1480
 url: /fr/net/aspose.psd/color/g/
 ---
+{{< psd/tize >}}
 ## Color.G property
 
-Obtient la valeur du composant vert de ce[`Color`](../)structure.
+Obtient la valeur du composant vert de cette structure [`Color`](../).
 
 ```csharp
 public byte G { get; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
-La valeur de la composante verte de ce[`Color`](../).
+La valeur du composant vert de ce [`Color`](../).
 
-### Voir également
+### Voir aussi
 
 * struct [Color](../)
-* espace de noms [Aspose.PSD](../../color/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

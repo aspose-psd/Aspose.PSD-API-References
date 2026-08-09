@@ -1,11 +1,12 @@
 ---
-title: Class MixerChannel
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers.MixerChannel classe. MixerChannel. Cest un wrapper pour les données brutes du canal. Utilisé dans MixrResource
+title: "Classe MixerChannel"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers.MixerChannel classe. MixerChannel. Son enveloppe pour les données brutes du canal. Utilisé dans MixrResource"
 type: docs
-weight: 1780
+weight: 1850
 url: /fr/net/aspose.psd.fileformats.psd.layers.adjustmentlayers/mixerchannel/
 ---
+{{< psd/tize >}}
 ## MixerChannel class
 
 MixerChannel. C'est un wrapper pour les données brutes du canal. Utilisé dans MixrResource
@@ -16,19 +17,19 @@ public abstract class MixerChannel
 
 ## Propriétés
 
-| Nom | La description |
+| Nom | Description |
 | --- | --- |
-| [Constant](../../aspose.psd.fileformats.psd.layers.adjustmentlayers/mixerchannel/constant/) { get; set; } | Obtient ou définit la constante.du canal. |
+| [Constant](../../aspose.psd.fileformats.psd.layers.adjustmentlayers/mixerchannel/constant/) { get; set; } | Obtient ou définit la constante du canal. |
 
 ## Méthodes
 
-| Nom | La description |
+| Nom | Description |
 | --- | --- |
 | [GetRawData](../../aspose.psd.fileformats.psd.layers.adjustmentlayers/mixerchannel/getrawdata/)() | Obtient les données brutes. |
 
-### Voir également
+### Voir aussi
 
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../aspose.psd.fileformats.psd.layers.adjustmentlayers/)
-* Assemblée [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../aspose.psd.fileformats.psd.layers.adjustmentlayers/)
+* assembly [Aspose.PSD](../../)
 
 

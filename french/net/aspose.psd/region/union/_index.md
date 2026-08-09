@@ -1,64 +1,65 @@
 ---
-title: Region.Union
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: Region méthode. Met à jour ceciRegion à lunion de luimême et du spécifiéRectangleFstructure.
+title: "Region.Union"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Méthode Region. Met à jour cette Region à l'union d'elle-même avec la structure RectangleF spécifiée"
 type: docs
-weight: 140
+weight: 150
 url: /fr/net/aspose.psd/region/union/
 ---
+{{< psd/tize >}}
 ## Union(RectangleF) {#union_2}
 
-Met à jour ceci[`Region`](../) à l'union de lui-même et du spécifié[`RectangleF`](../../rectanglef/)structure.
+Met à jour ce [`Region`](../) pour l'union de lui-même et de la structure [`RectangleF`](../../rectanglef/) spécifiée.
 
 ```csharp
 public void Union(RectangleF rect)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
-| rect | RectangleF | Le[`RectangleF`](../../rectanglef/) structure pour s'unir à cette[`Region`](../). |
+| rect | RectangleF | La structure [`RectangleF`](../../rectanglef/) à unir avec ce [`Region`](../). |
 
-### Voir également
+### Voir aussi
 
 * struct [RectangleF](../../rectanglef/)
 * class [Region](../)
-* espace de noms [Aspose.PSD](../../region/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Union(Rectangle) {#union_1}
 
-Met à jour ceci[`Region`](../) à l'union de lui-même et du spécifié[`Rectangle`](../../rectangle/)structure.
+Met à jour ce [`Region`](../) pour l'union de lui-même et de la structure [`Rectangle`](../../rectangle/) spécifiée.
 
 ```csharp
 public void Union(Rectangle rect)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
-| rect | Rectangle | Le[`Rectangle`](../../rectangle/) structure pour s'unir à cette[`Region`](../). |
+| rect | Rectangle | La structure [`Rectangle`](../../rectangle/) à unir avec ce [`Region`](../). |
 
-### Voir également
+### Voir aussi
 
 * struct [Rectangle](../../rectangle/)
 * class [Region](../)
-* espace de noms [Aspose.PSD](../../region/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Union(GraphicsPath) {#union}
 
-Met à jour ceci[`Region`](../) à l'union de lui-même et du spécifié[`GraphicsPath`](../../graphicspath/) .
+Met à jour ce [`Region`](../) pour l'union de lui-même et du [`GraphicsPath`](../../graphicspath/) spécifié.
 
 ```csharp
 public void Union(GraphicsPath path)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
-| path | GraphicsPath | Le[`GraphicsPath`](../../graphicspath/) s'unir à cela[`Region`](../). |
+| path | GraphicsPath | Le [`GraphicsPath`](../../graphicspath/) à unir avec ce [`Region`](../). |
 
 ### Exceptions
 
@@ -66,26 +67,26 @@ public void Union(GraphicsPath path)
 | --- | --- |
 | ArgumentNullException | *path* est nul. |
 
-### Voir également
+### Voir aussi
 
 * class [GraphicsPath](../../graphicspath/)
 * class [Region](../)
-* espace de noms [Aspose.PSD](../../region/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Union(Region) {#union_3}
 
-Met à jour ceci[`Region`](../) à l'union de lui-même et du spécifié[`Region`](../) .
+Met à jour ce [`Region`](../) pour l'union de lui-même et du [`Region`](../) spécifié.
 
 ```csharp
 public void Union(Region region)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
-| region | Region | Le[`Region`](../) s'unir à cela[`Region`](../). |
+| region | Region | Le [`Region`](../) à unir avec ce [`Region`](../). |
 
 ### Exceptions
 
@@ -93,10 +94,10 @@ public void Union(Region region)
 | --- | --- |
 | ArgumentNullException | *region* est nul. |
 
-### Voir également
+### Voir aussi
 
 * class [Region](../)
-* espace de noms [Aspose.PSD](../../region/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

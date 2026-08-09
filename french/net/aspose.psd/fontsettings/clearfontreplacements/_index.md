@@ -1,11 +1,12 @@
 ---
-title: FontSettings.ClearFontReplacements
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: FontSettings méthode. Efface tous les remplacements de polices
+title: "FontSettings.ClearFontReplacements"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Méthode FontSettings. Supprime toutes les remplacements de polices"
 type: docs
-weight: 20
+weight: 30
 url: /fr/net/aspose.psd/fontsettings/clearfontreplacements/
 ---
+{{< psd/tize >}}
 ## FontSettings.ClearFontReplacements method
 
 Efface tous les remplacements de polices
@@ -14,9 +15,9 @@ Efface tous les remplacements de polices
 public static void ClearFontReplacements()
 ```
 
-### Exemples
+## Exemples
 
-Le code suivant montre la possibilité de limiter par programmation les polices à l'aide de.
+Le code suivant démontre la capacité de limiter les polices de façon programmatique en utilisant.
 
 ```csharp
 [C#]
@@ -39,7 +40,8 @@ try
     FontSettings.SetFontReplacements("Arial", arialReplacement);
     FontSettings.SetFontReplacements("Times New Roman", timesReplacement);
 
-    using (PsdImage image = (PsdImage)Image.Load(srcFile))
+    using (PsdImage image = (PsdImage)Image.Load(srcFile,
+        new PsdLoadOptions() { AllowNonChangedLayerRepaint = true }))
     {
         image.Save(output, new PngOptions() { ColorType = PngColorType.TruecolorWithAlpha });
     }
@@ -51,10 +53,10 @@ finally
 }
 ```
 
-### Voir également
+### Voir aussi
 
 * class [FontSettings](../)
-* espace de noms [Aspose.PSD](../../fontsettings/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

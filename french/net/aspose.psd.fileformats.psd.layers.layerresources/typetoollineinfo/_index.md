@@ -1,14 +1,15 @@
 ---
-title: Class TypeToolLineInfo
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolLineInfo classe. Saisissez les informations sur la ligne doutil.
+title: "Classe TypeToolLineInfo"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Classe Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolLineInfo. Informations sur la ligne d'outil de type"
 type: docs
-weight: 3310
+weight: 3700
 url: /fr/net/aspose.psd.fileformats.psd.layers.layerresources/typetoollineinfo/
 ---
+{{< psd/tize >}}
 ## TypeToolLineInfo class
 
-Saisissez les informations sur la ligne d'outil.
+Informations de ligne de l’outil de texte.
 
 ```csharp
 public class TypeToolLineInfo
@@ -16,25 +17,25 @@ public class TypeToolLineInfo
 
 ## Constructeurs
 
-| Nom | La description |
+| Nom | Description |
 | --- | --- |
-| [TypeToolLineInfo](typetoollineinfo/)() | Default_Constructor |
+| [TypeToolLineInfo](typetoollineinfo/)() | Le constructeur par défaut. |
 
 ## Propriétés
 
-| Nom | La description |
+| Nom | Description |
 | --- | --- |
-| [Char](../../aspose.psd.fileformats.psd.layers.layerresources/typetoollineinfo/char/) { get; set; } | Obtient ou définit le char. |
+| [Char](../../aspose.psd.fileformats.psd.layers.layerresources/typetoollineinfo/char/) { get; set; } | Obtient ou définit le caractère. |
 
 ## Méthodes
 
-| Nom | La description |
+| Nom | Description |
 | --- | --- |
-| [Save](../../aspose.psd.fileformats.psd.layers.layerresources/typetoollineinfo/save/)(StreamContainer, int) | Enregistre le`TypeToolLineInfo` informations au conteneur de flux spécifié. |
+| [Save](../../aspose.psd.fileformats.psd.layers.layerresources/typetoollineinfo/save/)(StreamContainer, int) | Enregistre les informations `TypeToolLineInfo` dans le conteneur de flux spécifié. |
 
-### Voir également
+### Voir aussi
 
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
-* Assemblée [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../)
 
 

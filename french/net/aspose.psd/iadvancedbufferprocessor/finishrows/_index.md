@@ -1,27 +1,28 @@
 ---
-title: IAdvancedBufferProcessor.FinishRows
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: IAdvancedBufferProcessor méthode. Termine les rangées.
+title: "IAdvancedBufferProcessor.FinishRows"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Méthode IAdvancedBufferProcessor. Termine les lignes"
 type: docs
 weight: 20
 url: /fr/net/aspose.psd/iadvancedbufferprocessor/finishrows/
 ---
+{{< psd/tize >}}
 ## IAdvancedBufferProcessor.FinishRows method
 
-Termine les rangées.
+Termine les lignes.
 
 ```csharp
 public void FinishRows(int rowsCount)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
-| rowsCount | Int32 | Les rangs comptent. |
+| rowsCount | Int32 | Le nombre de lignes. |
 
-### Voir également
+### Voir aussi
 
 * interface [IAdvancedBufferProcessor](../)
-* espace de noms [Aspose.PSD](../../iadvancedbufferprocessor/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

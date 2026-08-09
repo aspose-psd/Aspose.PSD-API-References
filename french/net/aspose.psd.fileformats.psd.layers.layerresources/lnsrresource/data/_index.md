@@ -1,11 +1,12 @@
 ---
-title: LnsrResource.Data
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: LnsrResource propriété. Obtient les données brutes.
+title: "LnsrResource.Data"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "LnsrResource propriété. Obtient les données brutes"
 type: docs
 weight: 20
 url: /fr/net/aspose.psd.fileformats.psd.layers.layerresources/lnsrresource/data/
 ---
+{{< psd/tize >}}
 ## LnsrResource.Data property
 
 Obtient les données brutes.
@@ -14,14 +15,14 @@ Obtient les données brutes.
 public byte[] Data { get; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
 Les données.
 
-### Voir également
+### Voir aussi
 
 * class [LnsrResource](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../lnsrresource/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

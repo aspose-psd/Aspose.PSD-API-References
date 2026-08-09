@@ -1,27 +1,28 @@
 ---
-title: TiffSRational.Nominator
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: TiffSRational propriété. Obtient le proposant.
+title: "TiffSRational.Nominator"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété TiffSRational. Obtient le numérateur"
 type: docs
 weight: 40
 url: /fr/net/aspose.psd.fileformats.tiff/tiffsrational/nominator/
 ---
+{{< psd/tize >}}
 ## TiffSRational.Nominator property
 
-Obtient le proposant.
+Obtient le numérateur.
 
 ```csharp
 public int Nominator { get; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
-Le proposant.
+Le numérateur.
 
-### Voir également
+### Voir aussi
 
 * class [TiffSRational](../)
-* espace de noms [Aspose.PSD.FileFormats.Tiff](../../tiffsrational/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff](../../../aspose.psd.fileformats.tiff/)
+* assembly [Aspose.PSD](../../../)
 
 

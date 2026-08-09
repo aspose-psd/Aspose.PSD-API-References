@@ -1,11 +1,12 @@
 ---
-title: BorderInformationResource.Width
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: BorderInformationResource propriété. Obtient ou définit la largeur de la bordure.
+title: "BorderInformationResource.Width"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété BorderInformationResource. Obtient ou définit la largeur de la bordure"
 type: docs
 weight: 50
 url: /fr/net/aspose.psd.fileformats.psd.resources/borderinformationresource/width/
 ---
+{{< psd/tize >}}
 ## BorderInformationResource.Width property
 
 Obtient ou définit la largeur de la bordure.
@@ -14,9 +15,9 @@ Obtient ou définit la largeur de la bordure.
 public double Width { get; set; }
 ```
 
-### Exemples
+## Exemples
 
-L'exemple suivant illustre la prise en charge de la ressource BorderInformationResource.
+L'exemple suivant montre la prise en charge de la ressource BorderInformationResource.
 
 ```csharp
 [C#]
@@ -37,7 +38,7 @@ using (var image = (PsdImage)Image.Load(sourceFilePath))
         }
     }
 
-    // met à jour BorderInformationResource
+    // mettre à jour BorderInformationResource
     borderInfoResource.Width = 0.1;
     borderInfoResource.Unit = PhysicalUnit.Inches;
 
@@ -45,10 +46,10 @@ using (var image = (PsdImage)Image.Load(sourceFilePath))
 }
 ```
 
-### Voir également
+### Voir aussi
 
 * class [BorderInformationResource](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Resources](../../borderinformationresource/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

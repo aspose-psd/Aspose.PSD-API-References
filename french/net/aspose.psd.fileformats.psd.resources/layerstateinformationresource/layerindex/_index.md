@@ -1,11 +1,12 @@
 ---
-title: LayerStateInformationResource.LayerIndex
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: LayerStateInformationResource propriété. Obtient ou définit lindex du calque.
+title: "LayerStateInformationResource.LayerIndex"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété LayerStateInformationResource. Obtient ou définit l'index du calque"
 type: docs
 weight: 30
 url: /fr/net/aspose.psd.fileformats.psd.resources/layerstateinformationresource/layerindex/
 ---
+{{< psd/tize >}}
 ## LayerStateInformationResource.LayerIndex property
 
 Obtient ou définit l'index du calque.
@@ -14,14 +15,14 @@ Obtient ou définit l'index du calque.
 public short LayerIndex { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
-L'indice du calque.
+L'index du calque.
 
-### Voir également
+### Voir aussi
 
 * class [LayerStateInformationResource](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Resources](../../layerstateinformationresource/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

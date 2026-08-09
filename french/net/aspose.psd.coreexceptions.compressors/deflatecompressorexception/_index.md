@@ -1,11 +1,12 @@
 ---
-title: Class DeflateCompressorException
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: Aspose.PSD.CoreExceptions.Compressors.DeflateCompressorException classe. Lexception du compresseur Deflate.
+title: "Classe DeflateCompressorException"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Aspose.PSD.CoreExceptions.Compressors.DeflateCompressorException classe. L'exception du compresseur Deflate"
 type: docs
 weight: 440
 url: /fr/net/aspose.psd.coreexceptions.compressors/deflatecompressorexception/
 ---
+{{< psd/tize >}}
 ## DeflateCompressorException class
 
 L'exception du compresseur Deflate.
@@ -16,15 +17,15 @@ public class DeflateCompressorException : CompressorException
 
 ## Constructeurs
 
-| Nom | La description |
+| Nom | Description |
 | --- | --- |
-| [DeflateCompressorException](deflatecompressorexception/#constructor)(string) | Initialise une nouvelle instance du`DeflateCompressorException` classe. |
-| [DeflateCompressorException](deflatecompressorexception/#constructor_1)(string, Exception) | Initialise une nouvelle instance du`DeflateCompressorException` classe. |
+| [DeflateCompressorException](deflatecompressorexception/#constructor)(string) | Initialise une nouvelle instance de la classe `DeflateCompressorException`. |
+| [DeflateCompressorException](deflatecompressorexception/#constructor_1)(string, Exception) | Initialise une nouvelle instance de la classe `DeflateCompressorException`. |
 
-### Voir également
+### Voir aussi
 
 * class [CompressorException](../../aspose.psd.coreexceptions/compressorexception/)
-* espace de noms [Aspose.PSD.CoreExceptions.Compressors](../../aspose.psd.coreexceptions.compressors/)
-* Assemblée [Aspose.PSD](../../)
+* namespace [Aspose.PSD.CoreExceptions.Compressors](../../aspose.psd.coreexceptions.compressors/)
+* assembly [Aspose.PSD](../../)
 
 

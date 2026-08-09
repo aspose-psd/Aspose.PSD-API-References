@@ -1,69 +1,70 @@
 ---
-title: ClblResource.ClblResource
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: ClblResource constructeur. Initialise une nouvelle instance duClblResource classe.
+title: "ClblResource.ClblResource"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Constructeur ClblResource. Initialise une nouvelle instance de la classe ClblResource"
 type: docs
 weight: 10
 url: /fr/net/aspose.psd.fileformats.psd.layers.layerresources/clblresource/clblresource/
 ---
-## ClblResource(bool) {#constructor_1}
-
-Initialise une nouvelle instance du[`ClblResource`](../) classe.
-
-```csharp
-public ClblResource(bool blendClippedElements)
-```
-
-| Paramètre | Taper | La description |
-| --- | --- | --- |
-| blendClippedElements | Boolean | si réglé sur`vrai` [mélanger les éléments coupés]. |
-
-### Voir également
-
-* class [ClblResource](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../clblresource/)
-* Assemblée [Aspose.PSD](../../../)
-
----
-
+{{< psd/tize >}}
 ## ClblResource() {#constructor}
 
-Initialise une nouvelle instance du[`ClblResource`](../) classe.
+Initialise une nouvelle instance de la classe [`ClblResource`](../).
 
 ```csharp
 public ClblResource()
 ```
 
-### Voir également
+### Voir aussi
 
 * class [ClblResource](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../clblresource/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
+
+---
+
+## ClblResource(bool) {#constructor_1}
+
+Initialise une nouvelle instance de la classe [`ClblResource`](../).
+
+```csharp
+public ClblResource(bool blendClippedElements)
+```
+
+| Paramètre | Type | Description |
+| --- | --- | --- |
+| blendClippedElements | Booléen | si défini sur `true` [blend clipped elements]. |
+
+### Voir aussi
+
+* class [ClblResource](../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## ClblResource(byte[]) {#constructor_2}
 
-Initialise une nouvelle instance du[`ClblResource`](../) class. Avec valeur personnalisée ou inconnue
+Initialise une nouvelle instance de la classe [`ClblResource`](../). Avec une valeur personnalisée ou inconnue
 
 ```csharp
 public ClblResource(byte[] data)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
-| data | Byte[] | Les données de ressources. |
+| données | Byte[] | Les données de la ressource. |
 
 ### Exceptions
 
 | exception | condition |
 | --- | --- |
-| ArgumentException | Valeur de ressource clbl non valide |
+| ArgumentException | Valeur de ressource clbl invalide |
 
-### Voir également
+### Voir aussi
 
 * class [ClblResource](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../clblresource/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: GlobalLayerMaskInfo.AlphaMask
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: GlobalLayerMaskInfo propriété. Obtient ou définit le masque alpha.
+title: "GlobalLayerMaskInfo.AlphaMask"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété GlobalLayerMaskInfo. Obtient ou définit le masque alpha"
 type: docs
 weight: 20
 url: /fr/net/aspose.psd.fileformats.psd.layers/globallayermaskinfo/alphamask/
 ---
+{{< psd/tize >}}
 ## GlobalLayerMaskInfo.AlphaMask property
 
 Obtient ou définit le masque alpha.
@@ -14,14 +15,14 @@ Obtient ou définit le masque alpha.
 public short AlphaMask { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
 Le masque alpha.
 
-### Voir également
+### Voir aussi
 
 * class [GlobalLayerMaskInfo](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers](../../globallayermaskinfo/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

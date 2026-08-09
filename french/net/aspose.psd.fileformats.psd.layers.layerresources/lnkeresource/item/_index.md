@@ -1,36 +1,37 @@
 ---
-title: LnkeResource.Item
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: LnkeResource propriété. Obtient leLiFeDataSource à lindex spécifié.
+title: "LnkeResource.Item"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété LnkeResource. Obtient le LiFeDataSource à l'index spécifié"
 type: docs
 weight: 20
 url: /fr/net/aspose.psd.fileformats.psd.layers.layerresources/lnkeresource/item/
 ---
+{{< psd/tize >}}
 ## LnkeResource indexer
 
-Obtient le[`LiFeDataSource`](../../lifedatasource/) à l'index spécifié.
+Obtient le [`LiFeDataSource`](../../lifedatasource/) à l'index spécifié.
 
 ```csharp
 public LiFeDataSource this[int index] { get; }
 ```
 
-| Paramètre | La description |
+| Paramètre | Description |
 | --- | --- |
 | index | L'index. |
 
-### Return_Value
+### Valeur de retour
 
-Le[`LiFeDataSource`](../../lifedatasource/) instance.
+L'instance du [`LiFeDataSource`](../../lifedatasource/).
 
-### Valeur de la propriété
+### Property Value
 
-Le[`LiFeDataSource`](../../lifedatasource/) .
+Le [`LiFeDataSource`](../../lifedatasource/).
 
-### Voir également
+### Voir aussi
 
 * class [LiFeDataSource](../../lifedatasource/)
 * class [LnkeResource](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../lnkeresource/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

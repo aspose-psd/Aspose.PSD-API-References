@@ -1,11 +1,12 @@
 ---
-title: VstkResource.StrokeStyleVersion
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: VstkResource propriété. Obtient ou définit la version du style de trait.
+title: "VstkResource.StrokeStyleVersion"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété VstkResource. Obtient ou définit la version du style de trait"
 type: docs
-weight: 220
+weight: 200
 url: /fr/net/aspose.psd.fileformats.psd.layers.layerresources.strokeresources/vstkresource/strokestyleversion/
 ---
+{{< psd/tize >}}
 ## VstkResource.StrokeStyleVersion property
 
 Obtient ou définit la version du style de trait.
@@ -14,10 +15,10 @@ Obtient ou définit la version du style de trait.
 public int StrokeStyleVersion { get; set; }
 ```
 
-### Voir également
+### Voir aussi
 
 * class [VstkResource](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.StrokeResources](../../vstkresource/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.StrokeResources](../../../aspose.psd.fileformats.psd.layers.layerresources.strokeresources/)
+* assembly [Aspose.PSD](../../../)
 
 

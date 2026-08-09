@@ -1,11 +1,12 @@
 ---
-title: StrokeEffect.BlendMode
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: StrokeEffect propriété. Obtient ou définit le mode de fusion.
+title: "StrokeEffect.BlendMode"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété StrokeEffect. Obtient ou définit le mode de fusion"
 type: docs
 weight: 10
 url: /fr/net/aspose.psd.fileformats.psd.layers.layereffects/strokeeffect/blendmode/
 ---
+{{< psd/tize >}}
 ## StrokeEffect.BlendMode property
 
 Obtient ou définit le mode de fusion.
@@ -14,15 +15,15 @@ Obtient ou définit le mode de fusion.
 public BlendMode BlendMode { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
 Le mode de fusion.
 
-### Voir également
+### Voir aussi
 
 * enum [BlendMode](../../../aspose.psd.fileformats.core.blending/blendmode/)
 * class [StrokeEffect](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../strokeeffect/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../../)
 
 

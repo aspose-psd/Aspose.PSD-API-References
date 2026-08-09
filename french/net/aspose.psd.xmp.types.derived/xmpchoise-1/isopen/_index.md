@@ -1,11 +1,12 @@
 ---
-title: XmpChoise1.IsOpen
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: XmpChoise propriété. Obtient ou définit une valeur indiquant si les valeurs préférées peuvent être étendues.
+title: "XmpChoise1.IsOpen"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété XmpChoise. Obtient ou définit une valeur indiquant si les valeurs préférées peuvent être étendues"
 type: docs
 weight: 20
 url: /fr/net/aspose.psd.xmp.types.derived/xmpchoise-1/isopen/
 ---
+{{< psd/tize >}}
 ## XmpChoise&lt;T&gt;.IsOpen property
 
 Obtient ou définit une valeur indiquant si les valeurs préférées peuvent être étendues.
@@ -14,14 +15,14 @@ Obtient ou définit une valeur indiquant si les valeurs préférées peuvent êt
 public bool IsOpen { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
-`vrai` si les valeurs préférées peuvent être étendues ; sinon,`FAUX` .
+`true` si les valeurs préférées peuvent être étendues ; sinon, `false`.
 
-### Voir également
+### Voir aussi
 
 * class [XmpChoise&lt;T&gt;](../)
-* espace de noms [Aspose.PSD.Xmp.Types.Derived](../../xmpchoise-1/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Derived](../../../aspose.psd.xmp.types.derived/)
+* assembly [Aspose.PSD](../../../)
 
 

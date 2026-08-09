@@ -1,11 +1,12 @@
 ---
-title: TextShape.Font
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: TextShape propriété. Obtient ou définit la police utilisée pour dessiner le texte.
+title: "TextShape.Font"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété TextShape. Obtient ou définit la police utilisée pour dessiner le texte"
 type: docs
 weight: 40
 url: /fr/net/aspose.psd.shapes/textshape/font/
 ---
+{{< psd/tize >}}
 ## TextShape.Font property
 
 Obtient ou définit la police utilisée pour dessiner le texte.
@@ -14,15 +15,15 @@ Obtient ou définit la police utilisée pour dessiner le texte.
 public Font Font { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
 La police utilisée pour dessiner le texte.
 
-### Voir également
+### Voir aussi
 
 * class [Font](../../../aspose.psd/font/)
 * class [TextShape](../)
-* espace de noms [Aspose.PSD.Shapes](../../textshape/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 

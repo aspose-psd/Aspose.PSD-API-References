@@ -1,11 +1,12 @@
 ---
-title: ArcShape.Reverse
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: ArcShape méthode. Inverse lordre des points pour cette forme.
+title: "ArcShape.Reverse"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Méthode ArcShape. Inverse l'ordre des points pour cette forme"
 type: docs
 weight: 70
 url: /fr/net/aspose.psd.shapes/arcshape/reverse/
 ---
+{{< psd/tize >}}
 ## ArcShape.Reverse method
 
 Inverse l'ordre des points pour cette forme.
@@ -14,10 +15,10 @@ Inverse l'ordre des points pour cette forme.
 public void Reverse()
 ```
 
-### Voir également
+### Voir aussi
 
 * class [ArcShape](../)
-* espace de noms [Aspose.PSD.Shapes](../../arcshape/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 

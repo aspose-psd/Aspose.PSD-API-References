@@ -1,11 +1,12 @@
 ---
-title: Class XmpAgentName
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: Aspose.PSD.Xmp.Types.Derived.XmpAgentName classe. Représente le nom de lagent lorganisation du logiciel etc.
+title: "Classe XmpAgentName"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Aspose.PSD.Xmp.Types.Derived.XmpAgentName classe. Représente le nom d'agent, le logiciel, l'organisation, etc."
 type: docs
-weight: 6140
+weight: 6640
 url: /fr/net/aspose.psd.xmp.types.derived/xmpagentname/
 ---
+{{< psd/tize >}}
 ## XmpAgentName class
 
 Représente le nom de l'agent, l'organisation du logiciel, etc.
@@ -16,26 +17,26 @@ public sealed class XmpAgentName : XmpText
 
 ## Constructeurs
 
-| Nom | La description |
+| Nom | Description |
 | --- | --- |
-| [XmpAgentName](xmpagentname/)(string) | Initialise une nouvelle instance du`XmpAgentName` classe. |
+| [XmpAgentName](xmpagentname/)(string) | Initialise une nouvelle instance de la classe `XmpAgentName`. |
 
 ## Propriétés
 
-| Nom | La description |
+| Nom | Description |
 | --- | --- |
 | [Value](../../aspose.psd.xmp.types.basic/xmptext/value/) { get; set; } | Obtient ou définit la valeur du texte. |
 
 ## Méthodes
 
-| Nom | La description |
+| Nom | Description |
 | --- | --- |
-| override [GetXmpRepresentation](../../aspose.psd.xmp.types.basic/xmptext/getxmprepresentation/)() | Obtient la valeur contenue dans la chaîne au format XMP. |
+| override [GetXmpRepresentation](../../aspose.psd.xmp.types.basic/xmptext/getxmprepresentation/)() | Obtient la valeur de chaîne contenue au format XMP. |
 
-### Voir également
+### Voir aussi
 
 * class [XmpText](../../aspose.psd.xmp.types.basic/xmptext/)
-* espace de noms [Aspose.PSD.Xmp.Types.Derived](../../aspose.psd.xmp.types.derived/)
-* Assemblée [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Xmp.Types.Derived](../../aspose.psd.xmp.types.derived/)
+* assembly [Aspose.PSD](../../)
 
 

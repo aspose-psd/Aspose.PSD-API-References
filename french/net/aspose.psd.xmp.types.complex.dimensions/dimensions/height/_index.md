@@ -1,11 +1,12 @@
 ---
-title: Dimensions.Height
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: Dimensions propriété. Obtient ou définit la hauteur.
+title: "Dimensions.Height"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété Dimensions. Obtient ou définit la hauteur"
 type: docs
 weight: 20
 url: /fr/net/aspose.psd.xmp.types.complex.dimensions/dimensions/height/
 ---
+{{< psd/tize >}}
 ## Dimensions.Height property
 
 Obtient ou définit la hauteur.
@@ -14,7 +15,7 @@ Obtient ou définit la hauteur.
 public float Height { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
 La hauteur.
 
@@ -22,12 +23,12 @@ La hauteur.
 
 | exception | condition |
 | --- | --- |
-| ArgumentOutOfRangeException | valeur ; la hauteur ne peut pas être inférieure à zéro |
+| ArgumentOutOfRangeException | valeur;Height ne peut pas être inférieur à zéro |
 
-### Voir également
+### Voir aussi
 
 * class [Dimensions](../)
-* espace de noms [Aspose.PSD.Xmp.Types.Complex.Dimensions](../../dimensions/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.Dimensions](../../../aspose.psd.xmp.types.complex.dimensions/)
+* assembly [Aspose.PSD](../../../)
 
 

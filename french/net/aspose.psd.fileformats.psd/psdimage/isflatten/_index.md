@@ -1,11 +1,12 @@
 ---
-title: PsdImage.IsFlatten
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: PsdImage propriété. Obtient une valeur indiquant si limage psd est aplatie.
+title: "PsdImage.IsFlatten"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "PsdImage propriété. Obtient une valeur indiquant si l'image psd est aplatie"
 type: docs
 weight: 190
 url: /fr/net/aspose.psd.fileformats.psd/psdimage/isflatten/
 ---
+{{< psd/tize >}}
 ## PsdImage.IsFlatten property
 
 Obtient une valeur indiquant si l'image psd est aplatie.
@@ -14,14 +15,14 @@ Obtient une valeur indiquant si l'image psd est aplatie.
 public bool IsFlatten { get; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
-`vrai` si cette instance est aplatie ; sinon,`FAUX` .
+`true` si cette instance est aplatie ; sinon, `false`.
 
-### Voir également
+### Voir aussi
 
 * class [PsdImage](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

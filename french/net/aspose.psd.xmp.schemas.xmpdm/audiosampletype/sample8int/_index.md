@@ -1,23 +1,24 @@
 ---
-title: AudioSampleType.Sample8Int
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: AudioSampleType propriété. Représente léchantillon audio 8Int.
+title: "AudioSampleType.Sample8Int"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "AudioSampleType propriété. Représente l'échantillon audio 8Int"
 type: docs
 weight: 70
 url: /fr/net/aspose.psd.xmp.schemas.xmpdm/audiosampletype/sample8int/
 ---
+{{< psd/tize >}}
 ## AudioSampleType.Sample8Int property
 
-Représente l'échantillon audio 8Int.
+Représente un échantillon audio 8Int.
 
 ```csharp
 public static AudioSampleType Sample8Int { get; }
 ```
 
-### Voir également
+### Voir aussi
 
 * class [AudioSampleType](../)
-* espace de noms [Aspose.PSD.Xmp.Schemas.XmpDm](../../audiosampletype/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpDm](../../../aspose.psd.xmp.schemas.xmpdm/)
+* assembly [Aspose.PSD](../../../)
 
 

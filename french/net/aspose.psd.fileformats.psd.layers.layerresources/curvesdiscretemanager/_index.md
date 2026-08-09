@@ -1,14 +1,15 @@
 ---
-title: Class CurvesDiscreteManager
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.CurvesDiscreteManager classe. Gestionnaire pour le calque de réglage des courbes qui manipule la carte des pixels
+title: "Classe CurvesDiscreteManager"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Classe Aspose.PSD.FileFormats.Psd.Layers.LayerResources.CurvesDiscreteManager. Gestionnaire pour le calque d'ajustement Curves qui manipule la carte des pixels"
 type: docs
-weight: 2420
+weight: 2680
 url: /fr/net/aspose.psd.fileformats.psd.layers.layerresources/curvesdiscretemanager/
 ---
+{{< psd/tize >}}
 ## CurvesDiscreteManager class
 
-Gestionnaire pour le calque de réglage des courbes qui manipule la carte des pixels
+Gestionnaire du calque de réglage Courbes qui manipule la carte des pixels
 
 ```csharp
 public sealed class CurvesDiscreteManager : CurvesManager
@@ -16,23 +17,23 @@ public sealed class CurvesDiscreteManager : CurvesManager
 
 ## Propriétés
 
-| Nom | La description |
+| Nom | Description |
 | --- | --- |
-| [MaxChannelCount](../../aspose.psd.fileformats.psd.layers.layerresources/curvesmanager/maxchannelcount/) { get; } | Obtient le nombre maximal de chaînes. |
+| [MaxChannelCount](../../aspose.psd.fileformats.psd.layers.layerresources/curvesmanager/maxchannelcount/) { get; } | Obtient le nombre maximal de canaux. |
 
 ## Méthodes
 
-| Nom | La description |
+| Nom | Description |
 | --- | --- |
-| [GetValueInPosition](../../aspose.psd.fileformats.psd.layers.layerresources/curvesdiscretemanager/getvalueinposition/)(int, byte) | Obtient la valeur en position. |
-| [SetToDefaultValueInPosition](../../aspose.psd.fileformats.psd.layers.layerresources/curvesdiscretemanager/settodefaultvalueinposition/)(int, byte) | Définit la valeur par défaut en position. |
-| [SetValueInPosition](../../aspose.psd.fileformats.psd.layers.layerresources/curvesdiscretemanager/setvalueinposition/)(int, byte, byte) | Définit la valeur en position. |
-| [SetValueOfWholeChannel](../../aspose.psd.fileformats.psd.layers.layerresources/curvesdiscretemanager/setvalueofwholechannel/)(int, byte[]) | Définit la valeur de l'ensemble du canal. |
+| [GetValueInPosition](../../aspose.psd.fileformats.psd.layers.layerresources/curvesdiscretemanager/getvalueinposition/)(int, byte) | Obtient la valeur à la position. |
+| [SetToDefaultValueInPosition](../../aspose.psd.fileformats.psd.layers.layerresources/curvesdiscretemanager/settodefaultvalueinposition/)(int, byte) | Définit la valeur par défaut à la position. |
+| [SetValueInPosition](../../aspose.psd.fileformats.psd.layers.layerresources/curvesdiscretemanager/setvalueinposition/)(int, byte, byte) | Définit la valeur à la position. |
+| [SetValueOfWholeChannel](../../aspose.psd.fileformats.psd.layers.layerresources/curvesdiscretemanager/setvalueofwholechannel/)(int, byte[]) | Définit la valeur de tout le canal. |
 
-### Voir également
+### Voir aussi
 
 * class [CurvesManager](../curvesmanager/)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
-* Assemblée [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../)
 
 

@@ -1,34 +1,35 @@
 ---
-title: RasterImage.GetDefaultRawData
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: RasterImage méthode. Obtient le tableau de données brutes par défaut à laide du chargeur de pixels partiel.
+title: "RasterImage.GetDefaultRawData"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Méthode RasterImage. Obtient le tableau de données brutes par défaut en utilisant le chargeur partiel de pixels"
 type: docs
 weight: 300
 url: /fr/net/aspose.psd/rasterimage/getdefaultrawdata/
 ---
+{{< psd/tize >}}
 ## GetDefaultRawData(Rectangle, IPartialRawDataLoader, RawDataSettings) {#getdefaultrawdata_1}
 
-Obtient le tableau de données brutes par défaut à l'aide du chargeur de pixels partiel.
+Obtient le tableau de données brutes par défaut en utilisant le chargeur de pixels partiel.
 
 ```csharp
 public void GetDefaultRawData(Rectangle rectangle, IPartialRawDataLoader partialRawDataLoader, 
     RawDataSettings rawDataSettings)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
-| rectangle | Rectangle | Le rectangle pour lequel obtenir des pixels. |
-| partialRawDataLoader | IPartialRawDataLoader | Le chargeur partiel de données brutes. |
-| rawDataSettings | RawDataSettings | Les paramètres de données brutes. |
+| rectangle | Rectangle | Le rectangle pour obtenir les pixels. |
+| partialRawDataLoader | IPartialRawDataLoader | Le chargeur de données brutes partielles. |
+| rawDataSettings | RawDataSettings | Les paramètres des données brutes. |
 
-### Voir également
+### Voir aussi
 
 * struct [Rectangle](../../rectangle/)
 * interface [IPartialRawDataLoader](../../ipartialrawdataloader/)
 * class [RawDataSettings](../../rawdatasettings/)
 * class [RasterImage](../)
-* espace de noms [Aspose.PSD](../../rasterimage/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
@@ -40,21 +41,21 @@ Obtient le tableau de données brutes par défaut.
 public byte[] GetDefaultRawData(Rectangle rectangle, RawDataSettings rawDataSettings)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
-| rectangle | Rectangle | Rectangle pour lequel obtenir des données brutes. |
-| rawDataSettings | RawDataSettings | Les paramètres de données brutes. |
+| rectangle | Rectangle | Le rectangle pour lequel obtenir les données brutes. |
+| rawDataSettings | RawDataSettings | Les paramètres des données brutes. |
 
-### Return_Value
+### Valeur de retour
 
 Le tableau de données brutes par défaut.
 
-### Voir également
+### Voir aussi
 
 * struct [Rectangle](../../rectangle/)
 * class [RawDataSettings](../../rawdatasettings/)
 * class [RasterImage](../)
-* espace de noms [Aspose.PSD](../../rasterimage/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

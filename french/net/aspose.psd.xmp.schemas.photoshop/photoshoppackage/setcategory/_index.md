@@ -1,11 +1,12 @@
 ---
-title: PhotoshopPackage.SetCategory
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: PhotoshopPackage méthode. Définit la catégorie.
+title: "PhotoshopPackage.SetCategory"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "PhotoshopPackage méthode. Définit la catégorie"
 type: docs
 weight: 50
 url: /fr/net/aspose.psd.xmp.schemas.photoshop/photoshoppackage/setcategory/
 ---
+{{< psd/tize >}}
 ## PhotoshopPackage.SetCategory method
 
 Définit la catégorie.
@@ -14,20 +15,20 @@ Définit la catégorie.
 public void SetCategory(string category)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
-| category | String | La catégorie. |
+| catégorie | String | La catégorie. |
 
 ### Exceptions
 
 | exception | condition |
 | --- | --- |
-| ArgumentOutOfRangeException | catégorie ; la catégorie est limitée à 3 caractères |
+| ArgumentOutOfRangeException | catégorie;La catégorie est limitée à 3 caractères |
 
-### Voir également
+### Voir aussi
 
 * class [PhotoshopPackage](../)
-* espace de noms [Aspose.PSD.Xmp.Schemas.Photoshop](../../photoshoppackage/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.Photoshop](../../../aspose.psd.xmp.schemas.photoshop/)
+* assembly [Aspose.PSD](../../../)
 
 

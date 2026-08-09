@@ -1,81 +1,82 @@
 ---
-title: RectangleF.Contains
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: RectangleF méthode. Détermine si le point spécifié est contenu dans ceRectangleFstructure.
+title: "RectangleF.Contains"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Méthode RectangleF. Détermine si le point spécifié est contenu dans cette structure RectangleF"
 type: docs
 weight: 190
 url: /fr/net/aspose.psd/rectanglef/contains/
 ---
+{{< psd/tize >}}
 ## Contains(float, float) {#contains_2}
 
-Détermine si le point spécifié est contenu dans ce[`RectangleF`](../)structure.
+Détermine si le point spécifié est contenu dans cette structure [`RectangleF`](../).
 
 ```csharp
 public bool Contains(float x, float y)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
-| x | Single | Coordonnée x du point à tester. |
-| y | Single | Coordonnée y du point à tester. |
+| x | Single | La coordonnée x du point à tester. |
+| y | Single | La coordonnée y du point à tester. |
 
-### Return_Value
+### Valeur de retour
 
-Cette méthode renvoie true si le point défini par*x* et*y* est contenu dans ce[`RectangleF`](../) structure; sinon faux.
+Cette méthode renvoie true si le point défini par *x* et *y* est contenu dans cette structure [`RectangleF`](../) ; sinon false.
 
-### Voir également
+### Voir aussi
 
 * struct [RectangleF](../)
-* espace de noms [Aspose.PSD](../../rectanglef/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Contains(PointF) {#contains}
 
-Détermine si le point spécifié est contenu dans ce[`RectangleF`](../)structure.
+Détermine si le point spécifié est contenu dans cette structure [`RectangleF`](../).
 
 ```csharp
 public bool Contains(PointF point)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
-| point | PointF | Le[`PointF`](../../pointf/) tester. |
+| point | PointF | Le [`PointF`](../../pointf/) à tester. |
 
-### Return_Value
+### Valeur de retour
 
-Cette méthode renvoie true si le point représenté par le*point* paramètre est contenu dans ce[`RectangleF`](../) structure; sinon faux.
+Cette méthode renvoie true si le point représenté par le paramètre *point* est contenu dans cette structure [`RectangleF`](../) ; sinon false.
 
-### Voir également
+### Voir aussi
 
 * struct [PointF](../../pointf/)
 * struct [RectangleF](../)
-* espace de noms [Aspose.PSD](../../rectanglef/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Contains(RectangleF) {#contains_1}
 
-Détermine si la région rectangulaire représentée par*rect* est entièrement contenu dans ce[`RectangleF`](../)structure.
+Détermine si la région rectangulaire représentée par *rect* est entièrement contenue dans cette structure [`RectangleF`](../).
 
 ```csharp
 public bool Contains(RectangleF rect)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
-| rect | RectangleF | Le[`RectangleF`](../) tester. |
+| rect | RectangleF | Le [`RectangleF`](../) à tester. |
 
-### Return_Value
+### Valeur de retour
 
-Cette méthode renvoie true si la région rectangulaire représentée par*rect* est entièrement contenu dans la région rectangulaire représentée par ce[`RectangleF`](../); sinon faux.
+Cette méthode renvoie true si la région rectangulaire représentée par *rect* est entièrement contenue dans la région rectangulaire représentée par ce [`RectangleF`](../) ; sinon false.
 
-### Voir également
+### Voir aussi
 
 * struct [RectangleF](../)
-* espace de noms [Aspose.PSD](../../rectanglef/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

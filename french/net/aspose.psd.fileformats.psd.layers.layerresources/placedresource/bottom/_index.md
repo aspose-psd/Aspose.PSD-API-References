@@ -1,27 +1,28 @@
 ---
-title: PlacedResource.Bottom
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: PlacedResource propriété. Obtient ou définit lemplacement inférieur du calque placé dans limage PSD.
+title: "PlacedResource.Bottom"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété PlacedResource. Obtient ou définit la position inférieure du calque placé dans l'image PSD"
 type: docs
 weight: 20
 url: /fr/net/aspose.psd.fileformats.psd.layers.layerresources/placedresource/bottom/
 ---
+{{< psd/tize >}}
 ## PlacedResource.Bottom property
 
-Obtient ou définit l'emplacement inférieur du calque placé dans l'image PSD.
+Obtient ou définit la position inférieure du calque placé dans l'image PSD.
 
 ```csharp
 public double Bottom { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
-L'emplacement inférieur du calque placé.
+La position inférieure du calque placé.
 
-### Voir également
+### Voir aussi
 
 * class [PlacedResource](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../placedresource/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: CustResource.LayerCreatedDateTime
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: CustResource propriété. Obtient ou définit la date de création de la couche.
+title: "CustResource.LayerCreatedDateTime"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété CustResource. Obtient ou définit la date de création du calque"
 type: docs
-weight: 30
+weight: 20
 url: /fr/net/aspose.psd.fileformats.psd.layers.layerresources/custresource/layercreateddatetime/
 ---
+{{< psd/tize >}}
 ## CustResource.LayerCreatedDateTime property
 
-Obtient ou définit la date de création de la couche.
+Obtient ou définit la date de création du calque.
 
 ```csharp
 public DateTime LayerCreatedDateTime { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
-Date de création de la couche.
+La date de création du calque.
 
-### Voir également
+### Voir aussi
 
 * class [CustResource](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../custresource/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

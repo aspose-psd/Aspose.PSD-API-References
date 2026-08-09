@@ -1,30 +1,31 @@
 ---
-title: FontSettings.IsFontAllowed
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: FontSettings méthode. Détermine si la police est autorisée le nom de police spécifié.
+title: "FontSettings.IsFontAllowed"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Méthode FontSettings. Détermine si la police spécifiée est autorisée"
 type: docs
-weight: 80
+weight: 90
 url: /fr/net/aspose.psd/fontsettings/isfontallowed/
 ---
+{{< psd/tize >}}
 ## FontSettings.IsFontAllowed method
 
-Détermine si [la police est autorisée] [le nom de police spécifié].
+Détermine si [is font allowed] [the specified font name].
 
 ```csharp
 public static bool IsFontAllowed(string fontName)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
 | fontName | String | Nom de la police. |
 
-### Return_Value
+### Valeur de retour
 
-`vrai` si [la police est-elle autorisée] [le nom de police spécifié] ; sinon,`FAUX` .
+`true` si [is font allowed] [the specified font name] ; sinon, `false`.
 
-### Exemples
+## Exemples
 
-Le code suivant montre la possibilité de limiter par programmation les polices à l'aide de.
+Le code suivant démontre la capacité de limiter les polices de façon programmatique en utilisant.
 
 ```csharp
 [C#]
@@ -47,7 +48,8 @@ try
     FontSettings.SetFontReplacements("Arial", arialReplacement);
     FontSettings.SetFontReplacements("Times New Roman", timesReplacement);
 
-    using (PsdImage image = (PsdImage)Image.Load(srcFile))
+    using (PsdImage image = (PsdImage)Image.Load(srcFile,
+        new PsdLoadOptions() { AllowNonChangedLayerRepaint = true }))
     {
         image.Save(output, new PngOptions() { ColorType = PngColorType.TruecolorWithAlpha });
     }
@@ -59,10 +61,10 @@ finally
 }
 ```
 
-### Voir également
+### Voir aussi
 
 * class [FontSettings](../)
-* espace de noms [Aspose.PSD](../../fontsettings/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

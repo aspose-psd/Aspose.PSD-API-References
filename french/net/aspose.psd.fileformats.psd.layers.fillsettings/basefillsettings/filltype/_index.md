@@ -1,28 +1,29 @@
 ---
-title: BaseFillSettings.FillType
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: BaseFillSettings propriété. Obtient le type de remplissage.
+title: "BaseFillSettings.FillType"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "BaseFillSettings propriété. Obtient le type du remplissage"
 type: docs
 weight: 10
 url: /fr/net/aspose.psd.fileformats.psd.layers.fillsettings/basefillsettings/filltype/
 ---
+{{< psd/tize >}}
 ## BaseFillSettings.FillType property
 
-Obtient le type de remplissage.
+Obtient le type du remplissage.
 
 ```csharp
 public abstract FillType FillType { get; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
-Le type de remplissage.
+Le type du remplissage.
 
-### Voir également
+### Voir aussi
 
 * enum [FillType](../../filltype/)
 * class [BaseFillSettings](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../basefillsettings/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../../)
 
 

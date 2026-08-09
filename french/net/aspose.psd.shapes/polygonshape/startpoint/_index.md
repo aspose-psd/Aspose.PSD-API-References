@@ -1,11 +1,12 @@
 ---
-title: PolygonShape.StartPoint
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: PolygonShape propriété. Obtient le point de départ de la forme.
+title: "PolygonShape.StartPoint"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété PolygonShape. Obtient le point de départ de la forme"
 type: docs
 weight: 90
 url: /fr/net/aspose.psd.shapes/polygonshape/startpoint/
 ---
+{{< psd/tize >}}
 ## PolygonShape.StartPoint property
 
 Obtient le point de départ de la forme.
@@ -14,15 +15,15 @@ Obtient le point de départ de la forme.
 public virtual PointF StartPoint { get; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
 Le point de départ de la forme.
 
-### Voir également
+### Voir aussi
 
 * struct [PointF](../../../aspose.psd/pointf/)
 * class [PolygonShape](../)
-* espace de noms [Aspose.PSD.Shapes](../../polygonshape/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 

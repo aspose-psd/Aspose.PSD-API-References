@@ -1,11 +1,12 @@
 ---
-title: Enum LayerEffectsTypes
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.Lfx2Resources.LayerEffectsTypes énumération. Effets de fusion des calques.
+title: "Enum LayerEffectsTypes"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Aspose.PSD.FileFormats.Psd.Layers.LayerResources.Lfx2Resources.LayerEffectsTypes enum. Effets de fusion de calque"
 type: docs
-weight: 2660
+weight: 2900
 url: /fr/net/aspose.psd.fileformats.psd.layers.layerresources.lfx2resources/layereffectstypes/
 ---
+{{< psd/tize >}}
 ## LayerEffectsTypes enumeration
 
 Effets de fusion des calques.
@@ -16,22 +17,22 @@ public enum LayerEffectsTypes
 
 ### Valeurs
 
-| Nom | Évaluer | La description |
+| Nom | Valeur | Description |
 | --- | --- | --- |
 | DropShadow | `0` | L'ombre portée. |
-| OuterGlow | `1` | La lueur extérieure. |
-| PatternOverlay | `2` | La superposition de motifs. |
-| GradientOverlay | `3` | La superposition dégradée. |
-| ColorOverlay | `4` | La superposition de couleurs. |
-| Satin | `5` | Le type d'effet satiné. |
-| InnerGlow | `6` | La lueur intérieure. |
-| InnerShadow | `7` | L'ombre intérieure. |
-| Stroke | `8` | Le trait. |
-| BevelEmboss | `9` | Le biseau en relief. |
+| OuterGlow | `1` | Lueur externe. |
+| PatternOverlay | `2` | Superposition de motif. |
+| GradientOverlay | `3` | Superposition de dégradé. |
+| ColorOverlay | `4` | Superposition de couleur. |
+| Satin | `5` | Le type d'effet satin. |
+| InnerGlow | `6` | Lueur interne. |
+| InnerShadow | `7` | Ombre interne. |
+| Stroke | `8` | Le contour. |
+| BevelEmboss | `9` | Le relief biseauté. |
 
-### Exemples
+## Exemples
 
-Le code suivant illustre la prise en charge de la propriété ILayerEffect.EffectType.
+Le code suivant montre la prise en charge de la propriété ILayerEffect.EffectType.
 
 ```csharp
 [C#]
@@ -62,9 +63,9 @@ using (PsdImage psdImage = (PsdImage)Image.Load(inputFile, new LoadOptions()))
 }
 ```
 
-### Voir également
+### Voir aussi
 
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.Lfx2Resources](../../aspose.psd.fileformats.psd.layers.layerresources.lfx2resources/)
-* Assemblée [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.Lfx2Resources](../../aspose.psd.fileformats.psd.layers.layerresources.lfx2resources/)
+* assembly [Aspose.PSD](../../)
 
 

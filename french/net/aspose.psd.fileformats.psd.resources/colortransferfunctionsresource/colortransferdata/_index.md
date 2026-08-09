@@ -1,11 +1,12 @@
 ---
-title: ColorTransferFunctionsResource.ColorTransferData
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: ColorTransferFunctionsResource propriété. Obtient ou définit les données de transfert de couleur.
+title: "ColorTransferFunctionsResource.ColorTransferData"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété ColorTransferFunctionsResource. Obtient ou définit les données de transfert de couleur"
 type: docs
 weight: 20
 url: /fr/net/aspose.psd.fileformats.psd.resources/colortransferfunctionsresource/colortransferdata/
 ---
+{{< psd/tize >}}
 ## ColorTransferFunctionsResource.ColorTransferData property
 
 Obtient ou définit les données de transfert de couleur.
@@ -14,14 +15,14 @@ Obtient ou définit les données de transfert de couleur.
 public byte[] ColorTransferData { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
 Les données de transfert de couleur.
 
-### Voir également
+### Voir aussi
 
 * class [ColorTransferFunctionsResource](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Resources](../../colortransferfunctionsresource/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

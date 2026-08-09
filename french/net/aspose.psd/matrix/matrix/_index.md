@@ -1,114 +1,115 @@
 ---
-title: Matrix.Matrix
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: Matrix constructeur. Initialise une nouvelle instance de la classe Matrix en tant que matrice didentité.
+title: "Matrix.Matrix"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Constructeur Matrix. Initialise une nouvelle instance de la classe Matrix comme la matrice identité"
 type: docs
 weight: 10
 url: /fr/net/aspose.psd/matrix/matrix/
 ---
+{{< psd/tize >}}
 ## Matrix() {#constructor}
 
-Initialise une nouvelle instance de la classe Matrix en tant que matrice d'identité.
+Initialise une nouvelle instance de la classe Matrix comme matrice identité.
 
 ```csharp
 public Matrix()
 ```
 
-### Voir également
+### Voir aussi
 
 * class [Matrix](../)
-* espace de noms [Aspose.PSD](../../matrix/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Matrix(float, float, float, float, float, float) {#constructor_4}
 
-Initialise une nouvelle instance du[`Matrix`](../) classe.
+Initialise une nouvelle instance de la classe [`Matrix`](../).
 
 ```csharp
 public Matrix(float m11, float m12, float m21, float m22, float m31, float m32)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
 | m11 | Single | m00 M11 Échelle X |
 | m12 | Single | m10 M12 Cisaillement Y |
 | m21 | Single | m01 M21 Cisaillement X |
 | m22 | Single | m11 M22 Échelle Y |
-| m31 | Single | m02 M31 Traduire X |
-| m32 | Single | m12 M32 Translation Y |
+| m31 | Single | m02 M31 Translation X |
+| m32 | Single | m12 M32 Translate Y |
 
-### Voir également
+### Voir aussi
 
 * class [Matrix](../)
-* espace de noms [Aspose.PSD](../../matrix/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Matrix(RectangleF, PointF[]) {#constructor_3}
 
-Initialise une nouvelle instance du[`Matrix`](../) class à la transformation géométrique définie par le rectangle et le tableau de points spécifiés.
+Initialise une nouvelle instance de la classe [`Matrix`](../) pour la transformation géométrique définie par le rectangle spécifié et le tableau de points.
 
 ```csharp
 public Matrix(RectangleF rect, PointF[] plgpts)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
-| rect | RectangleF | UN[`RectangleF`](../../rectanglef/) structure qui représente le rectangle à transformer. |
-| plgpts | PointF[] | Un tableau de trois[`PointF`](../../pointf/)structures qui représentent les points d'un parallélogramme vers lesquels les coins supérieur gauche, supérieur droit et inférieur gauche du rectangle doivent être transformés. Le coin inférieur droit du parallélogramme est impliqué par les trois premiers coins. |
+| rect | RectangleF | Une structure [`RectangleF`](../../rectanglef/) qui représente le rectangle à transformer. |
+| plgpts | PointF[] | Un tableau de trois structures [`PointF`](../../pointf/) qui représente les points d'un parallélogramme vers lequel les coins supérieur gauche, supérieur droit et inférieur gauche du rectangle doivent être transformés. Le coin inférieur droit du parallélogramme est implicite à partir des trois premiers coins. |
 
-### Voir également
+### Voir aussi
 
 * struct [RectangleF](../../rectanglef/)
 * struct [PointF](../../pointf/)
 * class [Matrix](../)
-* espace de noms [Aspose.PSD](../../matrix/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Matrix(Rectangle, Point[]) {#constructor_2}
 
-Initialise une nouvelle instance du[`Matrix`](../) class à la transformation géométrique définie par le rectangle et le tableau de points spécifiés.
+Initialise une nouvelle instance de la classe [`Matrix`](../) pour la transformation géométrique définie par le rectangle spécifié et le tableau de points.
 
 ```csharp
 public Matrix(Rectangle rect, Point[] plgpts)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
-| rect | Rectangle | UN[`Rectangle`](../../rectangle/) structure qui représente le rectangle à transformer. |
-| plgpts | Point[] | Un tableau de trois[`Point`](../../point/)structures qui représentent les points d'un parallélogramme vers lesquels les coins supérieur gauche, supérieur droit et inférieur gauche du rectangle doivent être transformés. Le coin inférieur droit du parallélogramme est impliqué par les trois premiers coins. |
+| rect | Rectangle | Une structure [`Rectangle`](../../rectangle/) qui représente le rectangle à transformer. |
+| plgpts | Point[] | Un tableau de trois structures [`Point`](../../point/) qui représente les points d'un parallélogramme vers lequel les coins supérieur gauche, supérieur droit et inférieur gauche du rectangle doivent être transformés. Le coin inférieur droit du parallélogramme est implicite à partir des trois premiers coins. |
 
-### Voir également
+### Voir aussi
 
 * struct [Rectangle](../../rectangle/)
 * struct [Point](../../point/)
 * class [Matrix](../)
-* espace de noms [Aspose.PSD](../../matrix/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Matrix(Matrix) {#constructor_1}
 
-Effectue une copie du[`Matrix`](../) classe.
+Crée une copie de la classe [`Matrix`](../).
 
 ```csharp
 public Matrix(Matrix origin)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
-| origin | Matrix | Une matrice de base pour faire face |
+| origin | Matrix | Une matrice de base pour la copie. |
 
-### Voir également
+### Voir aussi
 
 * class [Matrix](../)
-* espace de noms [Aspose.PSD](../../matrix/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

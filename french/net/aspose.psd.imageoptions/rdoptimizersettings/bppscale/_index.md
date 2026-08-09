@@ -1,11 +1,12 @@
 ---
-title: RdOptimizerSettings.BppScale
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: RdOptimizerSettings propriété. Obtient ou définit le facteur déchelle BPP bits par pixel.
+title: "RdOptimizerSettings.BppScale"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "RdOptimizerSettings propriété. Obtient ou définit le facteur d'échelle BPP (bits par pixel)"
 type: docs
 weight: 40
 url: /fr/net/aspose.psd.imageoptions/rdoptimizersettings/bppscale/
 ---
+{{< psd/tize >}}
 ## RdOptimizerSettings.BppScale property
 
 Obtient ou définit le facteur d'échelle BPP (bits par pixel).
@@ -14,14 +15,14 @@ Obtient ou définit le facteur d'échelle BPP (bits par pixel).
 public int BppScale { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
 L'échelle BPP.
 
-### Voir également
+### Voir aussi
 
 * class [RdOptimizerSettings](../)
-* espace de noms [Aspose.PSD.ImageOptions](../../rdoptimizersettings/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

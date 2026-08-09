@@ -1,75 +1,76 @@
 ---
-title: ImageAttributes.SetWrapMode
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: ImageAttributes méthode. Définit le mode dhabillage qui est utilisé pour décider comment juxtaposer une texture sur une forme ou aux limites de la forme. Une texture est disposée en mosaïque sur une forme pour la remplir lorsque la texture est plus petite que la forme quelle remplit.
+title: "ImageAttributes.SetWrapMode"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Méthode ImageAttributes. Définit le mode d'enroulement utilisé pour décider comment répéter une texture sur une forme ou aux limites de la forme. Une texture est répétée sur une forme pour la remplir lorsque la texture est plus petite que la forme qu'elle remplit."
 type: docs
 weight: 210
 url: /fr/net/aspose.psd/imageattributes/setwrapmode/
 ---
+{{< psd/tize >}}
 ## SetWrapMode(WrapMode) {#setwrapmode}
 
-Définit le mode d'habillage qui est utilisé pour décider comment juxtaposer une texture sur une forme ou aux limites de la forme. Une texture est disposée en mosaïque sur une forme pour la remplir lorsque la texture est plus petite que la forme qu'elle remplit.
+Définit le mode d'enroulement utilisé pour déterminer comment répéter une texture sur une forme, ou aux limites de la forme. Une texture est répétée sur une forme pour la remplir lorsque la texture est plus petite que la forme qu'elle remplit.
 
 ```csharp
 public void SetWrapMode(WrapMode mode)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
-| mode | WrapMode | Un élément de[`WrapMode`](../../wrapmode/) qui spécifie comment les copies répétées d'une image sont utilisées pour recouvrir une zone. |
+| mode | WrapMode | Un élément de [`WrapMode`](../../wrapmode/) qui spécifie comment les copies répétées d'une image sont utilisées pour couvrir une zone. |
 
-### Voir également
+### Voir aussi
 
 * enum [WrapMode](../../wrapmode/)
 * class [ImageAttributes](../)
-* espace de noms [Aspose.PSD](../../imageattributes/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## SetWrapMode(WrapMode, Color) {#setwrapmode_1}
 
-Définit le mode d'habillage et la couleur utilisés pour décider comment juxtaposer une texture sur une forme ou aux limites de la forme. Une texture est disposée en mosaïque sur une forme pour la remplir lorsque la texture est plus petite que la forme qu'elle remplit.
+Définit le mode d'enroulement et la couleur utilisés pour déterminer comment répéter une texture sur une forme, ou aux limites de la forme. Une texture est répétée sur une forme pour la remplir lorsque la texture est plus petite que la forme qu'elle remplit.
 
 ```csharp
 public void SetWrapMode(WrapMode mode, Color color)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
-| mode | WrapMode | Un élément de[`WrapMode`](../../wrapmode/) qui spécifie comment les copies répétées d'une image sont utilisées pour recouvrir une zone. |
-| color | Color | Un[`ImageAttributes`](../) objet qui spécifie la couleur des pixels en dehors d'une image rendue. Cette couleur est visible si le paramètre mode est réglé surClamp et le rectangle source passé à DrawImage est plus grand que l'image elle-même. |
+| mode | WrapMode | Un élément de [`WrapMode`](../../wrapmode/) qui spécifie comment les copies répétées d'une image sont utilisées pour couvrir une zone. |
+| color | Color | Un objet [`ImageAttributes`](../) qui spécifie la couleur des pixels à l'extérieur d'une image rendue. Cette couleur est visible si le paramètre mode est réglé sur Clamp et que le rectangle source passé à DrawImage est plus grand que l'image elle-même. |
 
-### Voir également
+### Voir aussi
 
 * enum [WrapMode](../../wrapmode/)
 * struct [Color](../../color/)
 * class [ImageAttributes](../)
-* espace de noms [Aspose.PSD](../../imageattributes/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## SetWrapMode(WrapMode, Color, bool) {#setwrapmode_2}
 
-Définit le mode d'habillage et la couleur utilisés pour décider comment juxtaposer une texture sur une forme ou aux limites de la forme. Une texture est disposée en mosaïque sur une forme pour la remplir lorsque la texture est plus petite que la forme qu'elle remplit.
+Définit le mode d'enroulement et la couleur utilisés pour déterminer comment répéter une texture sur une forme, ou aux limites de la forme. Une texture est répétée sur une forme pour la remplir lorsque la texture est plus petite que la forme qu'elle remplit.
 
 ```csharp
 public void SetWrapMode(WrapMode mode, Color color, bool clamp)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
-| mode | WrapMode | Un élément de[`WrapMode`](../../wrapmode/) qui spécifie comment les copies répétées d'une image sont utilisées pour recouvrir une zone. |
-| color | Color | Un objet de couleur qui spécifie la couleur des pixels en dehors d'une image rendue. Cette couleur est visible si le paramètre mode est réglé surClamp et le rectangle source passé à DrawImage est plus grand que l'image elle-même. |
-| clamp | Boolean | Ce paramètre n'a aucun effet. Réglez-le sur faux. |
+| mode | WrapMode | Un élément de [`WrapMode`](../../wrapmode/) qui spécifie comment les copies répétées d'une image sont utilisées pour couvrir une zone. |
+| couleur | Couleur | Un objet couleur qui spécifie la couleur des pixels à l'extérieur d'une image rendue. Cette couleur est visible si le paramètre mode est réglé sur Clamp et que le rectangle source passé à DrawImage est plus grand que l'image elle-même. |
+| clamp | Booléen | Ce paramètre n'a aucun effet. Réglez-le sur false. |
 
-### Voir également
+### Voir aussi
 
 * enum [WrapMode](../../wrapmode/)
 * struct [Color](../../color/)
 * class [ImageAttributes](../)
-* espace de noms [Aspose.PSD](../../imageattributes/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

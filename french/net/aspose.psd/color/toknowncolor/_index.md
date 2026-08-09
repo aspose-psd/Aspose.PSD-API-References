@@ -1,28 +1,29 @@
 ---
-title: Color.ToKnownColor
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: Color méthode. Obtient leKnownColor valeur de ceColorstructure.
+title: "Color.ToKnownColor"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Méthode Color. Obtient la valeur KnownColor de cette structure Color"
 type: docs
 weight: 1600
 url: /fr/net/aspose.psd/color/toknowncolor/
 ---
+{{< psd/tize >}}
 ## Color.ToKnownColor method
 
-Obtient le[`KnownColor`](../../knowncolor/) valeur de ce[`Color`](../)structure.
+Obtient la valeur [`KnownColor`](../../knowncolor/) de cette structure [`Color`](../).
 
 ```csharp
 public KnownColor ToKnownColor()
 ```
 
-### Return_Value
+### Valeur de retour
 
-Un élément de la[`KnownColor`](../../knowncolor/)énumération, si le[`Color`](../) est créé à partir d'une couleur prédéfinie en utilisant soit[`FromName`](../fromname/) méthode ou la[`FromKnownColor`](../fromknowncolor/) méthode; sinon, 0.
+Un élément de l'énumération [`KnownColor`](../../knowncolor/), si le [`Color`](../) est créé à partir d'une couleur prédéfinie en utilisant soit la méthode [`FromName`](../fromname/), soit la méthode [`FromKnownColor`](../fromknowncolor/); sinon, 0.
 
-### Voir également
+### Voir aussi
 
 * enum [KnownColor](../../knowncolor/)
 * struct [Color](../)
-* espace de noms [Aspose.PSD](../../color/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

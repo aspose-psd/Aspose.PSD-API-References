@@ -1,11 +1,12 @@
 ---
-title: Graphics.TextRenderingHint
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: Graphics propriété. Obtient ou définit lindice de rendu du texte.
+title: "Graphics.TextRenderingHint"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété Graphics. Obtient ou définit l'indice de rendu du texte"
 type: docs
-weight: 120
+weight: 130
 url: /fr/net/aspose.psd/graphics/textrenderinghint/
 ---
+{{< psd/tize >}}
 ## Graphics.TextRenderingHint property
 
 Obtient ou définit l'indice de rendu du texte.
@@ -14,15 +15,15 @@ Obtient ou définit l'indice de rendu du texte.
 public TextRenderingHint TextRenderingHint { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
 L'indice de rendu du texte.
 
-### Voir également
+### Voir aussi
 
 * enum [TextRenderingHint](../../textrenderinghint/)
 * class [Graphics](../)
-* espace de noms [Aspose.PSD](../../graphics/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

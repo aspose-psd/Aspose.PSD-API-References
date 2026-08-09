@@ -1,28 +1,29 @@
 ---
-title: ImageCreatorsRegistry.RegisteredFormats
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: ImageCreatorsRegistry propriété. Obtient les formats de création dimage enregistrés.
+title: "ImageCreatorsRegistry.RegisteredFormats"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété ImageCreatorsRegistry. Obtient les formats de création d'image enregistrés"
 type: docs
 weight: 20
 url: /fr/net/aspose.psd/imagecreatorsregistry/registeredformats/
 ---
+{{< psd/tize >}}
 ## ImageCreatorsRegistry.RegisteredFormats property
 
-Obtient les formats de création d'image enregistrés.
+Obtient les formats de création d'images enregistrés.
 
 ```csharp
 public static FileFormat RegisteredFormats { get; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
 Les formats de création d'image enregistrés.
 
-### Voir également
+### Voir aussi
 
 * enum [FileFormat](../../fileformat/)
 * class [ImageCreatorsRegistry](../)
-* espace de noms [Aspose.PSD](../../imagecreatorsregistry/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

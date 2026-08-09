@@ -1,55 +1,56 @@
 ---
-title: Aspose.PSD.FileFormats.Psd.Resources
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: Lespace de noms contient des entités de ressources au format de fichier PSD.
+title: "Aspose.PSD.FileFormats.Psd.Resources"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "L'espace de noms contient les entités de ressources du format de fichier PSD"
 type: docs
-weight: 350
+weight: 380
 url: /fr/net/aspose.psd.fileformats.psd.resources/
 ---
-L'espace de noms contient des entités de ressources au format de fichier PSD.
+{{< psd/tize >}}
+L'espace de noms contient les entités de ressources du format de fichier PSD.
 
-## Des classes
+## Classes
 
-| Classer | La description |
+| Classe | Description |
 | --- | --- |
-| [AnimatedDataSectionResource](./animateddatasectionresource/) | La ressource de plug-in de section de données animées. |
-| [BackgroundColorResource](./backgroundcolorresource/) | La ressource avec les informations de bordure des paramètres d'impression d'image. |
-| [BorderInformationResource](./borderinformationresource/) | La ressource avec les informations de bordure des paramètres d'impression d'image. |
+| [AnimatedDataSectionResource](./animateddatasectionresource/) | La ressource du plug-in Animated Data Section. |
+| [BackgroundColorResource](./backgroundcolorresource/) | La ressource contenant les informations de bordure des paramètres d'impression d'image. |
+| [BorderInformationResource](./borderinformationresource/) | La ressource contenant les informations de bordure des paramètres d'impression d'image. |
 | [CaptionDigestResource](./captiondigestresource/) | Ressource CaptionDigest |
-| [ColorHalftoneInformationResource](./colorhalftoneinformationresource/) | Ressource de demi-teintes |
+| [ColorHalftoneInformationResource](./colorhalftoneinformationresource/) | Ressource Halftoning |
 | [ColorTransferFunctionsResource](./colortransferfunctionsresource/) | Ressource de transfert de couleur |
-| [DocumentSpecificIdsResource](./documentspecificidsresource/) | ID spécifiques au document resource |
-| [FixedPointDecimal](./fixedpointdecimal/) | Décimal à virgule fixe, avec entier 16 bits et fraction 16 bits. |
+| [DocumentSpecificIdsResource](./documentspecificidsresource/) | Ressource Document Specific Ids |
+| [FixedPointDecimal](./fixedpointdecimal/) | Décimal à point fixe, avec entier de 16 bits et fraction de 16 bits. |
 | [GlobalAltitudeResource](./globalaltituderesource/) | Ressource d'altitude globale |
-| [GlobalAngleResource](./globalangleresource/) | Ressource d'angle global |
-| [GridAndGuidesResouce](./gridandguidesresouce/) | Représente la grille et guide la ressource. |
-| [GuideResource](./guideresource/) | Le bloc de ressources du guide. |
+| [GlobalAngleResource](./globalangleresource/) | Ressource d'angle globale |
+| [GridAndGuidesResouce](./gridandguidesresouce/) | Représente la ressource de grille et de repères. |
+| [GuideResource](./guideresource/) | Le bloc de ressource de repère. |
 | [IccProfileResource](./iccprofileresource/) | Représente la ressource de profil ICC. |
-| [IccUntaggedResource](./iccuntaggedresource/) | Icc ressource non taguée |
-| [LayerGroupInformationResource](./layergroupinformationresource/) | Ressource d'informations sur le groupe de calques |
-| [LayerGroupsEnabledResource](./layergroupsenabledresource/) | Groupes de calques activés resource |
-| [LayerSelectionIdsResource](./layerselectionidsresource/) | ID de sélection de couche resource |
-| [LayerStateInformationResource](./layerstateinformationresource/) | Ressource d'informations sur l'état de la couche |
-| [PixelAspectRatioResource](./pixelaspectratioresource/) | Ressource de ratio d'aspect des pixels |
-| [PrintFlagsResource](./printflagsresource/) | Print flags resource |
-| [PrintScaleResource](./printscaleresource/) | Print Scale resource |
-| [QuickMaskInformationResource](./quickmaskinformationresource/) | Ressource d'informations sur le masque rapide |
-| [ResolutionInfoResource](./resolutioninforesource/) | La ressource d'informations sur la résolution |
-| [Thumbnail4Resource](./thumbnail4resource/) | Représente la ressource de vignettes pour psd 4.0. |
-| [ThumbnailResource](./thumbnailresource/) | Le bloc de ressources de vignettes. |
-| [TransparencyIndexResource](./transparencyindexresource/) | Le bloc de ressources d'index de transparence. |
-| [UnicodeAlphaNamesResource](./unicodealphanamesresource/) | ressource de noms alpha Unicode |
-| [UnknownResource](./unknownresource/) | La ressource inconnue. Lorsqu'un bloc de ressources n'est pas reconnu, ce bloc de ressources est créé. |
-| [UrlListResource](./urllistresource/) | ressource de liste d'URL |
-| [VersionInfoResource](./versioninforesource/) | ressource d'informations de version |
+| [IccUntaggedResource](./iccuntaggedresource/) | Ressource Icc non balisée |
+| [LayerGroupInformationResource](./layergroupinformationresource/) | Ressource d'informations du groupe de calques |
+| [LayerGroupsEnabledResource](./layergroupsenabledresource/) | Ressource des groupes de calques activés |
+| [LayerSelectionIdsResource](./layerselectionidsresource/) | Ressource des identifiants de sélection de calque |
+| [LayerStateInformationResource](./layerstateinformationresource/) | Ressource d'informations d'état du calque |
+| [PixelAspectRatioResource](./pixelaspectratioresource/) | Ressource du rapport d'aspect du pixel |
+| [PrintFlagsResource](./printflagsresource/) | Ressource des indicateurs d'impression |
+| [PrintScaleResource](./printscaleresource/) | Ressource d'échelle d'impression |
+| [QuickMaskInformationResource](./quickmaskinformationresource/) | Ressource d'information de masque rapide |
+| [ResolutionInfoResource](./resolutioninforesource/) | La ressource d'information de résolution |
+| [Thumbnail4Resource](./thumbnail4resource/) | Représente la ressource de vignette pour psd 4.0. |
+| [ThumbnailResource](./thumbnailresource/) | Le bloc de ressource de vignette. |
+| [TransparencyIndexResource](./transparencyindexresource/) | Le bloc de ressource d'index de transparence. |
+| [UnicodeAlphaNamesResource](./unicodealphanamesresource/) | Ressource de noms alpha Unicode |
+| [UnknownResource](./unknownresource/) | La ressource inconnue. Lorsqu'un bloc de ressource n'est pas reconnu, ce bloc de ressource est créé. |
+| [UrlListResource](./urllistresource/) | Ressource de liste d'Url |
+| [VersionInfoResource](./versioninforesource/) | Ressource d'information de version |
 | [WatermarkResource](./watermarkresource/) | Ressource de filigrane |
 | [WorkingPathResource](./workingpathresource/) | Ressource de chemin de travail. |
 | [XmpResource](./xmpresource/) | Représente la ressource de métadonnées XMP. |
 ## Énumération
 
-| Énumération | La description |
+| Énumération | Description |
 | --- | --- |
 | [GuideDirection](./guidedirection/) | La direction du guide. |
-| [ThumbnailFormat](./thumbnailformat/) | Spécifie le format des données des vignettes. |
+| [ThumbnailFormat](./thumbnailformat/) | Spécifie le format des données de vignette. |
 
 

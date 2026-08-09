@@ -1,23 +1,24 @@
 ---
-title: ResourceRef.ResourceRef
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: ResourceRef constructeur. Default_Constructor
+title: "ResourceRef.ResourceRef"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Constructeur ResourceRef. Le constructeur par défaut"
 type: docs
 weight: 10
 url: /fr/net/aspose.psd.xmp.types.complex.resourceref/resourceref/resourceref/
 ---
+{{< psd/tize >}}
 ## ResourceRef constructor
 
-Default_Constructor
+Le constructeur par défaut.
 
 ```csharp
 public ResourceRef()
 ```
 
-### Voir également
+### Voir aussi
 
 * class [ResourceRef](../)
-* espace de noms [Aspose.PSD.Xmp.Types.Complex.ResourceRef](../../resourceref/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.ResourceRef](../../../aspose.psd.xmp.types.complex.resourceref/)
+* assembly [Aspose.PSD](../../../)
 
 

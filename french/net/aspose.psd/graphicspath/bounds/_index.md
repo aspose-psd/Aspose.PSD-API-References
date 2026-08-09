@@ -1,11 +1,12 @@
 ---
-title: GraphicsPath.Bounds
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: GraphicsPath propriété. Obtient ou définit les limites de lobjet.
+title: "GraphicsPath.Bounds"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété GraphicsPath. Obtient ou définit les limites de l'objet."
 type: docs
 weight: 20
 url: /fr/net/aspose.psd/graphicspath/bounds/
 ---
+{{< psd/tize >}}
 ## GraphicsPath.Bounds property
 
 Obtient ou définit les limites de l'objet.
@@ -14,15 +15,15 @@ Obtient ou définit les limites de l'objet.
 public override RectangleF Bounds { get; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
 Les limites de l'objet.
 
-### Voir également
+### Voir aussi
 
 * struct [RectangleF](../../rectanglef/)
 * class [GraphicsPath](../)
-* espace de noms [Aspose.PSD](../../graphicspath/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

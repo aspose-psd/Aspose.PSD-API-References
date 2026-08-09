@@ -1,11 +1,12 @@
 ---
-title: JFIFData.Thumbnail
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: JFIFData propriété. Obtient ou définit la vignette.
+title: "JFIFData.Thumbnail"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété JFIFData. Obtient ou définit la miniature"
 type: docs
 weight: 30
 url: /fr/net/aspose.psd.fileformats.jpeg/jfifdata/thumbnail/
 ---
+{{< psd/tize >}}
 ## JFIFData.Thumbnail property
 
 Obtient ou définit la vignette.
@@ -14,11 +15,11 @@ Obtient ou définit la vignette.
 public RasterImage Thumbnail { get; set; }
 ```
 
-### Voir également
+### Voir aussi
 
 * class [RasterImage](../../../aspose.psd/rasterimage/)
 * class [JFIFData](../)
-* espace de noms [Aspose.PSD.FileFormats.Jpeg](../../jfifdata/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Jpeg](../../../aspose.psd.fileformats.jpeg/)
+* assembly [Aspose.PSD](../../../)
 
 

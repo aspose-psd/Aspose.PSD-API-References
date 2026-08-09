@@ -1,11 +1,12 @@
 ---
-title: Pen.DashPattern
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: Pen propriété. Obtient ou définit un tableau de tirets et despaces personnalisés.
+title: "Pen.DashPattern"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété Pen. Obtient ou définit un tableau de tirets et d'espaces personnalisés"
 type: docs
 weight: 100
 url: /fr/net/aspose.psd/pen/dashpattern/
 ---
+{{< psd/tize >}}
 ## Pen.DashPattern property
 
 Obtient ou définit un tableau de tirets et d'espaces personnalisés.
@@ -14,20 +15,20 @@ Obtient ou définit un tableau de tirets et d'espaces personnalisés.
 public float[] DashPattern { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
-Un tableau de nombres réels qui spécifie les longueurs des tirets et des espaces alternés dans les lignes en pointillés.
+Un tableau de nombres réels qui spécifie les longueurs des tirets et espaces alternés dans les lignes en pointillé.
 
 ### Exceptions
 
 | exception | condition |
 | --- | --- |
-| ArgumentException | Le`DashPattern` la propriété est définie sur un immuable[`Pen`](../) , tels que ceux renvoyés par le[`Pen`](../) classe. |
+| ArgumentException | La propriété `DashPattern` est définie sur un [`Pen`](../) immuable, comme ceux renvoyés par la classe [`Pen`](../). |
 
-### Voir également
+### Voir aussi
 
 * class [Pen](../)
-* espace de noms [Aspose.PSD](../../pen/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

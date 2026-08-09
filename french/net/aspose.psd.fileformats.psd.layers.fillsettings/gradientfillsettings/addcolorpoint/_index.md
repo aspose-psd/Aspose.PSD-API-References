@@ -1,11 +1,12 @@
 ---
-title: GradientFillSettings.AddColorPoint
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: GradientFillSettings méthode. Ajoute le point de couleur.
+title: "GradientFillSettings.AddColorPoint"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Méthode GradientFillSettings. Ajoute le point de couleur"
 type: docs
-weight: 150
+weight: 60
 url: /fr/net/aspose.psd.fileformats.psd.layers.fillsettings/gradientfillsettings/addcolorpoint/
 ---
+{{< psd/tize >}}
 ## GradientFillSettings.AddColorPoint method
 
 Ajoute le point de couleur.
@@ -14,15 +15,15 @@ Ajoute le point de couleur.
 public GradientColorPoint AddColorPoint()
 ```
 
-### Return_Value
+### Valeur de retour
 
 Point de couleur créé
 
-### Voir également
+### Voir aussi
 
 * class [GradientColorPoint](../../gradientcolorpoint/)
 * class [GradientFillSettings](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../gradientfillsettings/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../../)
 
 

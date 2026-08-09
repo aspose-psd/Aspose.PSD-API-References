@@ -1,23 +1,24 @@
 ---
-title: Aspose.PSD.Exif
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: Lespace de noms contient des classes et des méthodes dassistance liées à EXIF.
+title: "Aspose.PSD.Exif"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "L'espace de noms contient des classes et méthodes d'assistance liées à EXIF"
 type: docs
-weight: 90
+weight: 100
 url: /fr/net/aspose.psd.exif/
 ---
-L'espace de noms contient des classes et des méthodes d'assistance liées à EXIF.
+{{< psd/tize >}}
+L'espace de noms contient des classes et des méthodes d'aide liées à EXIF.
 
-## Des classes
+## Classes
 
-| Classer | La description |
+| Classe | Description |
 | --- | --- |
-| [ExifData](./exifdata/) | conteneur de données EXIF. |
-| [JpegExifData](./jpegexifdata/) | Conteneur de données EXIF pour les fichiers jpeg. |
-| [TiffDataTypeController](./tiffdatatypecontroller/) | Représente la classe générale pour travailler avec les types de données tiff. |
+| [ExifData](./exifdata/) | Conteneur de données EXIF. |
+| [JpegExifData](./jpegexifdata/) | Conteneur de données EXIF pour les fichiers JPEG. |
+| [TiffDataTypeController](./tiffdatatypecontroller/) | Représente une classe générale pour travailler avec les types de données TIFF. |
 ## Énumération
 
-| Énumération | La description |
+| Énumération | Description |
 | --- | --- |
 | [ExifProperties](./exifproperties/) | Liste des balises Exif |
 

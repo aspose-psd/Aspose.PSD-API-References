@@ -1,14 +1,15 @@
 ---
-title: Class ClblResource
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.ClblResource classe. Classe ClblResource. Cette ressource contient des informations sur le mélange déléments tronqués.
+title: "Classe ClblResource"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Classe Aspose.PSD.FileFormats.Psd.Layers.LayerResources.ClblResource. Classe ClblResource. Cette ressource contient des informations sur le mélange d'éléments découpés"
 type: docs
-weight: 2370
+weight: 2630
 url: /fr/net/aspose.psd.fileformats.psd.layers.layerresources/clblresource/
 ---
+{{< psd/tize >}}
 ## ClblResource class
 
-Classe ClblResource. Cette ressource contient des informations sur le mélange d'éléments tronqués.
+Classe ClblResource. Cette ressource contient des informations sur le mélange de l'élément découpé.
 
 ```csharp
 public class ClblResource : BooleanResource
@@ -16,40 +17,40 @@ public class ClblResource : BooleanResource
 
 ## Constructeurs
 
-| Nom | La description |
+| Nom | Description |
 | --- | --- |
-| [ClblResource](clblresource/#constructor)() | Initialise une nouvelle instance du`ClblResource` classe. |
-| [ClblResource](clblresource/#constructor_1)(bool) | Initialise une nouvelle instance du`ClblResource` classe. |
-| [ClblResource](clblresource/#constructor_2)(byte[]) | Initialise une nouvelle instance du`ClblResource` class. Avec valeur personnalisée ou inconnue |
+| [ClblResource](clblresource/#constructor)() | Initialise une nouvelle instance de la classe `ClblResource`. |
+| [ClblResource](clblresource/#constructor_1)(bool) | Initialise une nouvelle instance de la classe `ClblResource`. |
+| [ClblResource](clblresource/#constructor_2)(byte[]) | Initialise une nouvelle instance de la classe `ClblResource`. Avec une valeur personnalisée ou inconnue |
 
 ## Propriétés
 
-| Nom | La description |
+| Nom | Description |
 | --- | --- |
-| [BlendClippedElements](../../aspose.psd.fileformats.psd.layers.layerresources/clblresource/blendclippedelements/) { get; set; } | Obtient ou définit une valeur indiquant si [fusionner les éléments coupés]. |
-| override [Key](../../aspose.psd.fileformats.psd.layers.layerresources/clblresource/key/) { get; } | Obtient la clé de ressource de couche. |
-| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/booleanresource/length/) { get; } | Obtient la longueur de la ressource de couche en octets. |
-| override [PsdVersion](../../aspose.psd.fileformats.psd.layers.layerresources/booleanresource/psdversion/) { get; } | Obtient la version psd. |
-| override [Signature](../../aspose.psd.fileformats.psd.layers.layerresources/booleanresource/signature/) { get; } | Obtient la signature. |
+| [BlendClippedElements](../../aspose.psd.fileformats.psd.layers.layerresources/clblresource/blendclippedelements/) { get; set; } | Obtient ou définit une valeur indiquant si [blend clipped elements]. |
+| [Key](../../aspose.psd.fileformats.psd.layers/layerresource/key/) { get; } | Obtient la clé de ressource du calque. |
+| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/booleanresource/length/) { get; } | Obtient la longueur de la ressource du calque en octets. |
+| virtual [PsdVersion](../../aspose.psd.fileformats.psd.layers/layerresource/psdversion/) { get; } | Obtient la version minimale de PSD requise pour la ressource du calque. 0 indique aucune restriction. |
+| virtual [Signature](../../aspose.psd.fileformats.psd.layers/layerresource/signature/) { get; } | Obtient la signature. |
 
 ## Méthodes
 
-| Nom | La description |
+| Nom | Description |
 | --- | --- |
 | override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/booleanresource/save/)(StreamContainer, int) | Enregistre le conteneur de flux spécifié. |
-| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring/)() | Renvoie unString qui représente cette instance. |
+| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring/)() | Renvoie une chaîne qui représente cette instance. |
 
-## Des champs
+## Champs
 
-| Nom | La description |
+| Nom | Description |
 | --- | --- |
-| const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/clblresource/typetoolkey/) | La clé d'informations sur l'outil de type. |
+| const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/clblresource/typetoolkey/) | La clé d'information de l'outil de type. |
 
-### Voir également
+### Voir aussi
 
 * class [BooleanResource](../booleanresource/)
 * class [LayerResource](../../aspose.psd.fileformats.psd.layers/layerresource/)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
-* Assemblée [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../)
 
 

@@ -1,32 +1,33 @@
 ---
-title: Rectangle.Truncate
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: Rectangle méthode. Convertit le spécifiéRectangleF à unRectangle en tronquant leRectangleF valeurs.
+title: "Rectangle.Truncate"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Méthode Rectangle. Convertit le RectangleF spécifié en un Rectangle en tronquant les valeurs du RectangleF"
 type: docs
 weight: 90
 url: /fr/net/aspose.psd/rectangle/truncate/
 ---
+{{< psd/tize >}}
 ## Rectangle.Truncate method
 
-Convertit le spécifié[`RectangleF`](../../rectanglef/) à un[`Rectangle`](../) en tronquant le[`RectangleF`](../../rectanglef/) valeurs.
+Convertit le [`RectangleF`](../../rectanglef/) spécifié en un [`Rectangle`](../) en tronquant les valeurs du [`RectangleF`](../../rectanglef/).
 
 ```csharp
 public static Rectangle Truncate(RectangleF value)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
-| value | RectangleF | Le[`RectangleF`](../../rectanglef/) à convertir. |
+| value | RectangleF | Le [`RectangleF`](../../rectanglef/) à convertir. |
 
-### Return_Value
+### Valeur de retour
 
-Un nouveau[`Rectangle`](../).
+Un nouveau [`Rectangle`](../).
 
-### Voir également
+### Voir aussi
 
 * struct [RectangleF](../../rectanglef/)
 * struct [Rectangle](../)
-* espace de noms [Aspose.PSD](../../rectangle/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

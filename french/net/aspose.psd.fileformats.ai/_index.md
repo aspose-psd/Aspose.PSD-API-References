@@ -1,29 +1,30 @@
 ---
-title: Aspose.PSD.FileFormats.Ai
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: Lespace de noms gère le traitement du format de fichier Adobe Illustrator AI.
+title: "Aspose.PSD.FileFormats.Ai"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "L'espace de noms gère le traitement du format de fichier Adobe Illustrator AI"
 type: docs
-weight: 120
+weight: 130
 url: /fr/net/aspose.psd.fileformats.ai/
 ---
+{{< psd/tize >}}
 L'espace de noms gère le traitement du format de fichier Adobe Illustrator (AI).
 
-## Des classes
+## Classes
 
-| Classer | La description |
+| Classe | Description |
 | --- | --- |
-| [AiDataSection](./aidatasection/) | La section des données au format Ai |
+| [AiDataSection](./aidatasection/) | La section de données du format Ai |
 | [AiFinalizeSection](./aifinalizesection/) | La section de finalisation du format Ai |
-| [AiHeader](./aiheader/) | L'en-tête du fichier Adobe Illustrator |
-| [AiImage](./aiimage/) | L'image Adobe Illustrator (IA) |
-| [AiLayerSection](./ailayersection/) | La section de couche au format Ai |
-| [AiRasterImageSection](./airasterimagesection/) | La section Image raster AI |
+| [AiHeader](./aiheader/) | L'en-tête de fichier Adobe illustrator |
+| [AiImage](./aiimage/) | L'image Adobe Illustrator (AI). |
+| [AiLayerSection](./ailayersection/) | La section de calque du format Ai |
+| [AiRasterImageSection](./airasterimagesection/) | La section d'image raster AI |
 | [AiSection](./aisection/) | La section de base du format Ai |
 | [AiSetupSection](./aisetupsection/) | La section de configuration du format Ai |
 ## Énumération
 
-| Énumération | La description |
+| Énumération | Description |
 | --- | --- |
-| [AiFormatVersion](./aiformatversion/) | La version Adobe Illustrator |
+| [AiFormatVersion](./aiformatversion/) | La version d'Adobe Illustrator |
 
 

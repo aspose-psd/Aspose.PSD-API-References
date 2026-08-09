@@ -1,11 +1,12 @@
 ---
-title: Class GraphicsOptions
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: Aspose.PSD.ImageOptions.GraphicsOptions classe. Représente les options graphiques pour le bitmap intégré.
+title: "Classe GraphicsOptions"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Classe Aspose.PSD.ImageOptions.GraphicsOptions. Représente les options graphiques pour le bitmap intégré"
 type: docs
-weight: 4820
+weight: 5310
 url: /fr/net/aspose.psd.imageoptions/graphicsoptions/
 ---
+{{< psd/tize >}}
 ## GraphicsOptions class
 
 Représente les options graphiques pour le bitmap intégré.
@@ -16,21 +17,21 @@ public class GraphicsOptions
 
 ## Constructeurs
 
-| Nom | La description |
+| Nom | Description |
 | --- | --- |
-| [GraphicsOptions](graphicsoptions/)() | Default_Constructor |
+| [GraphicsOptions](graphicsoptions/)() | Le constructeur par défaut. |
 
 ## Propriétés
 
-| Nom | La description |
+| Nom | Description |
 | --- | --- |
 | [InterpolationMode](../../aspose.psd.imageoptions/graphicsoptions/interpolationmode/) { get; set; } | Obtient ou définit le mode d'interpolation. |
-| [SmoothingMode](../../aspose.psd.imageoptions/graphicsoptions/smoothingmode/) { get; set; } | Obtient ou définit le mode de lissage. |
-| [TextRenderingHint](../../aspose.psd.imageoptions/graphicsoptions/textrenderinghint/) { get; set; } | Obtient ou définit un indice de rendu de texte. |
+| [SmoothingMode](../../aspose.psd.imageoptions/graphicsoptions/smoothingmode/) { get; set; } | Obtient ou définit le mode d'anticrénelage. |
+| [TextRenderingHint](../../aspose.psd.imageoptions/graphicsoptions/textrenderinghint/) { get; set; } | Obtient ou définit l'indice de rendu du texte. |
 
-### Voir également
+### Voir aussi
 
-* espace de noms [Aspose.PSD.ImageOptions](../../aspose.psd.imageoptions/)
-* Assemblée [Aspose.PSD](../../)
+* namespace [Aspose.PSD.ImageOptions](../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: GifOptions.HasTrailer
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: GifOptions propriété. Obtient ou définit une valeur indiquant si le GIF a une bandeannonce.
+title: "GifOptions.HasTrailer"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété GifOptions. Obtient ou définit une valeur indiquant si le GIF possède une bande-annonce"
 type: docs
 weight: 50
 url: /fr/net/aspose.psd.imageoptions/gifoptions/hastrailer/
 ---
+{{< psd/tize >}}
 ## GifOptions.HasTrailer property
 
-Obtient ou définit une valeur indiquant si le GIF a une bande-annonce.
+Obtient ou définit une valeur indiquant si le GIF possède un segment final.
 
 ```csharp
 public bool HasTrailer { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
-`vrai` si GIF a une bande-annonce ; sinon,`FAUX` .
+`true` si le GIF possède une bande-annonce ; sinon, `false`.
 
-### Voir également
+### Voir aussi
 
 * class [GifOptions](../)
-* espace de noms [Aspose.PSD.ImageOptions](../../gifoptions/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

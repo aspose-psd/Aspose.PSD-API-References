@@ -1,28 +1,29 @@
 ---
-title: IPlacedLayerResource.VerticalMeshPointUnit
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: IPlacedLayerResource propriété. Obtient ou définit lunité de mesure des points de maillage vertical.
+title: "IPlacedLayerResource.VerticalMeshPointUnit"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété IPlacedLayerResource. Obtient ou définit l'unité de mesure des points de maillage verticaux."
 type: docs
 weight: 220
 url: /fr/net/aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/verticalmeshpointunit/
 ---
+{{< psd/tize >}}
 ## IPlacedLayerResource.VerticalMeshPointUnit property
 
-Obtient ou définit l'unité de mesure des points de maillage vertical.
+Obtient ou définit l'unité de mesure des points du maillage vertical.
 
 ```csharp
 public UnitTypes VerticalMeshPointUnit { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
-L'unité de mesure des points de maillage vertical.
+L'unité de mesure des points de maillage verticaux.
 
-### Voir également
+### Voir aussi
 
 * enum [UnitTypes](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/unittypes/)
 * interface [IPlacedLayerResource](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../iplacedlayerresource/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

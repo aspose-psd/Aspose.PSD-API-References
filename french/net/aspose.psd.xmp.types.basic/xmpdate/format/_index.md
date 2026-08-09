@@ -1,11 +1,12 @@
 ---
-title: XmpDate.Format
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: XmpDate propriété. Obtient la chaîne de format pour la valeur actuelle.
+title: "XmpDate.Format"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété XmpDate. Obtient la chaîne de format pour la valeur actuelle"
 type: docs
 weight: 20
 url: /fr/net/aspose.psd.xmp.types.basic/xmpdate/format/
 ---
+{{< psd/tize >}}
 ## XmpDate.Format property
 
 Obtient la chaîne de format pour la valeur actuelle.
@@ -14,14 +15,14 @@ Obtient la chaîne de format pour la valeur actuelle.
 public string Format { get; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
 La chaîne de format pour la valeur actuelle.
 
-### Voir également
+### Voir aussi
 
 * class [XmpDate](../)
-* espace de noms [Aspose.PSD.Xmp.Types.Basic](../../xmpdate/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Basic](../../../aspose.psd.xmp.types.basic/)
+* assembly [Aspose.PSD](../../../)
 
 

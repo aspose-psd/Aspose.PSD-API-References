@@ -1,11 +1,12 @@
 ---
-title: Class LzwCompressorException
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: Aspose.PSD.CoreExceptions.Compressors.LzwCompressorException classe. Lexception du compresseur lzw.
+title: "Classe LzwCompressorException"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Aspose.PSD.CoreExceptions.Compressors.LzwCompressorException classe. L'exception du compresseur lzw"
 type: docs
 weight: 450
 url: /fr/net/aspose.psd.coreexceptions.compressors/lzwcompressorexception/
 ---
+{{< psd/tize >}}
 ## LzwCompressorException class
 
 L'exception du compresseur lzw.
@@ -16,15 +17,15 @@ public class LzwCompressorException : CompressorException
 
 ## Constructeurs
 
-| Nom | La description |
+| Nom | Description |
 | --- | --- |
-| [LzwCompressorException](lzwcompressorexception/#constructor)(string) | Initialise une nouvelle instance du`LzwCompressorException` classe. |
-| [LzwCompressorException](lzwcompressorexception/#constructor_1)(string, Exception) | Initialise une nouvelle instance du`LzwCompressorException` classe. |
+| [LzwCompressorException](lzwcompressorexception/#constructor)(string) | Initialise une nouvelle instance de la classe `LzwCompressorException`. |
+| [LzwCompressorException](lzwcompressorexception/#constructor_1)(string, Exception) | Initialise une nouvelle instance de la classe `LzwCompressorException`. |
 
-### Voir également
+### Voir aussi
 
 * class [CompressorException](../../aspose.psd.coreexceptions/compressorexception/)
-* espace de noms [Aspose.PSD.CoreExceptions.Compressors](../../aspose.psd.coreexceptions.compressors/)
-* Assemblée [Aspose.PSD](../../)
+* namespace [Aspose.PSD.CoreExceptions.Compressors](../../aspose.psd.coreexceptions.compressors/)
+* assembly [Aspose.PSD](../../)
 
 

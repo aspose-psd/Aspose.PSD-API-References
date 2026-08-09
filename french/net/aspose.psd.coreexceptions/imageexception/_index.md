@@ -1,11 +1,12 @@
 ---
-title: Class ImageException
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: Aspose.PSD.CoreExceptions.ImageException classe. Lexception dimage.
+title: "Classe ImageException"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Aspose.PSD.CoreExceptions.ImageException classe. L'exception d'image"
 type: docs
 weight: 500
 url: /fr/net/aspose.psd.coreexceptions/imageexception/
 ---
+{{< psd/tize >}}
 ## ImageException class
 
 L'exception d'image.
@@ -16,14 +17,14 @@ public class ImageException : Exception
 
 ## Constructeurs
 
-| Nom | La description |
+| Nom | Description |
 | --- | --- |
-| [ImageException](imageexception/#constructor)(string) | Initialise une nouvelle instance du`ImageException` classe. |
-| [ImageException](imageexception/#constructor_1)(string, Exception) | Initialise une nouvelle instance du`ImageException` classe. |
+| [ImageException](imageexception/#constructor)(string) | Initialise une nouvelle instance de la classe `ImageException`. |
+| [ImageException](imageexception/#constructor_1)(string, Exception) | Initialise une nouvelle instance de la classe `ImageException`. |
 
-### Voir également
+### Voir aussi
 
-* espace de noms [Aspose.PSD.CoreExceptions](../../aspose.psd.coreexceptions/)
-* Assemblée [Aspose.PSD](../../)
+* namespace [Aspose.PSD.CoreExceptions](../../aspose.psd.coreexceptions/)
+* assembly [Aspose.PSD](../../)
 
 

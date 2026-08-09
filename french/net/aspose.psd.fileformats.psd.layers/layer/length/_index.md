@@ -1,23 +1,24 @@
 ---
-title: Layer.Length
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: Layer propriété. Obtient la longueur globale de la couche en octets.
+title: "Layer.Length"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété Layer. Obtient la longueur totale du calque en octets"
 type: docs
-weight: 250
+weight: 260
 url: /fr/net/aspose.psd.fileformats.psd.layers/layer/length/
 ---
+{{< psd/tize >}}
 ## Layer.Length property
 
-Obtient la longueur globale de la couche en octets.
+Obtient la longueur totale du calque en octets.
 
 ```csharp
-public int Length { get; }
+public long Length { get; }
 ```
 
-### Voir également
+### Voir aussi
 
 * class [Layer](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers](../../layer/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

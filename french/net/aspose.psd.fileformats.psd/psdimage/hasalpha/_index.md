@@ -1,27 +1,28 @@
 ---
-title: PsdImage.HasAlpha
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: PsdImage propriété. Obtient ou définit la résolution verticale en pixels par pouce de ceRasterImage .
+title: "PsdImage.HasAlpha"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété PsdImage. Obtient ou définit la résolution verticale en pixels par pouce de ce RasterImage"
 type: docs
 weight: 140
 url: /fr/net/aspose.psd.fileformats.psd/psdimage/hasalpha/
 ---
+{{< psd/tize >}}
 ## PsdImage.HasAlpha property
 
-Obtient ou définit la résolution verticale, en pixels par pouce, de ce[`RasterImage`](../../../aspose.psd/rasterimage/) .
+Obtient ou définit la résolution verticale, en pixels par pouce, de ce [`RasterImage`](../../../aspose.psd/rasterimage/).
 
 ```csharp
 public override bool HasAlpha { get; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
-`vrai` si cette instance a alpha ; sinon,`FAUX` .
+`true` si cette instance possède un canal alpha ; sinon, `false`.
 
-### Voir également
+### Voir aussi
 
 * class [PsdImage](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

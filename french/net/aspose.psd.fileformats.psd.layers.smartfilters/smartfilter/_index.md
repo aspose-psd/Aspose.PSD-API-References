@@ -1,14 +1,15 @@
 ---
-title: Class SmartFilter
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: Aspose.PSD.FileFormats.Psd.Layers.SmartFilters.SmartFilter classe. La classe pour traiter une logique de base de filtres intelligents.
+title: "Classe SmartFilter"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Aspose.PSD.FileFormats.Psd.Layers.SmartFilters.SmartFilter class. La classe pour traiter la logique de base des filtres intelligents"
 type: docs
-weight: 3460
+weight: 3880
 url: /fr/net/aspose.psd.fileformats.psd.layers.smartfilters/smartfilter/
 ---
+{{< psd/tize >}}
 ## SmartFilter class
 
-La classe pour traiter une logique de base de filtres intelligents.
+La classe pour traiter une logique de base des filtres intelligents.
 
 ```csharp
 public abstract class SmartFilter : ICloneable
@@ -16,32 +17,32 @@ public abstract class SmartFilter : ICloneable
 
 ## Constructeurs
 
-| Nom | La description |
+| Nom | Description |
 | --- | --- |
-| [SmartFilter](smartfilter/)() | Initialise une nouvelle instance du`SmartFilter` classe. |
+| [SmartFilter](smartfilter/)() | Initialise une nouvelle instance de la classe `SmartFilter`. |
 
 ## Propriétés
 
-| Nom | La description |
+| Nom | Description |
 | --- | --- |
 | [BlendMode](../../aspose.psd.fileformats.psd.layers.smartfilters/smartfilter/blendmode/) { get; set; } | Obtient ou définit le mode de fusion. |
 | abstract [FilterId](../../aspose.psd.fileformats.psd.layers.smartfilters/smartfilter/filterid/) { get; } | Obtient l'identifiant du type de filtre intelligent. |
-| [IsEnabled](../../aspose.psd.fileformats.psd.layers.smartfilters/smartfilter/isenabled/) { get; set; } | Obtient ou définit l'état activé du filtre intelligent. |
+| [IsEnabled](../../aspose.psd.fileformats.psd.layers.smartfilters/smartfilter/isenabled/) { get; set; } | Obtient ou définit le statut d'activation du filtre intelligent. |
 | abstract [Name](../../aspose.psd.fileformats.psd.layers.smartfilters/smartfilter/name/) { get; } | Obtient le nom du filtre intelligent. |
 | [Opacity](../../aspose.psd.fileformats.psd.layers.smartfilters/smartfilter/opacity/) { get; set; } | Obtient ou définit la valeur d'opacité du filtre intelligent. |
-| [SourceDescriptor](../../aspose.psd.fileformats.psd.layers.smartfilters/smartfilter/sourcedescriptor/) { get; } | La structure du descripteur de source avec des données de filtre intelligentes. |
+| [SourceDescriptor](../../aspose.psd.fileformats.psd.layers.smartfilters/smartfilter/sourcedescriptor/) { get; } | La structure du descripteur source contenant les données du filtre intelligent. |
 
 ## Méthodes
 
-| Nom | La description |
+| Nom | Description |
 | --- | --- |
-| [Apply](../../aspose.psd.fileformats.psd.layers.smartfilters/smartfilter/apply/)(RasterImage) | Applique le filtre actuel à l'entrée[`RasterImage`](../../aspose.psd/rasterimage/) image. |
-| [ApplyToMask](../../aspose.psd.fileformats.psd.layers.smartfilters/smartfilter/applytomask/)(Layer) | Applique le filtre actuel à l'entrée[`Layer`](../../aspose.psd.fileformats.psd.layers/layer/) données de masque. |
-| [Clone](../../aspose.psd.fileformats.psd.layers.smartfilters/smartfilter/clone/)() | Crée le clone par membre de l'instance actuelle du type. |
+| [Apply](../../aspose.psd.fileformats.psd.layers.smartfilters/smartfilter/apply/)(RasterImage) | Applique le filtre actuel à l'image d'entrée [`RasterImage`](../../aspose.psd/rasterimage/). |
+| [ApplyToMask](../../aspose.psd.fileformats.psd.layers.smartfilters/smartfilter/applytomask/)(Layer) | Applique le filtre actuel aux données de masque d'entrée [`Layer`](../../aspose.psd.fileformats.psd.layers/layer/). |
+| [Clone](../../aspose.psd.fileformats.psd.layers.smartfilters/smartfilter/clone/)() | Crée le clone membre par membre de l'instance actuelle du type. |
 
-### Exemples
+## Exemples
 
-Cet exemple illustre la prise en charge de l'interface des filtres intelligents.
+Cet exemple montre la prise en charge de l'interface des filtres intelligents.
 
 ```csharp
 [C#]
@@ -61,16 +62,16 @@ using (var image = (PsdImage)Image.Load(sourceFilte))
 {
     SmartObjectLayer smartObj = (SmartObjectLayer)image.Layers[1];
 
-    // édite les filtres intelligents
+    // modifier les filtres intelligents
     GaussianBlurSmartFilter gaussianBlur = (GaussianBlurSmartFilter)smartObj.SmartFilters.Filters[0];
 
-    // vérifie les valeurs du filtre
+    // vérifier les valeurs du filtre
     AssertAreEqual(3.1, gaussianBlur.Radius);
     AssertAreEqual(BlendMode.Dissolve, gaussianBlur.BlendMode);
     AssertAreEqual(90d, gaussianBlur.Opacity);
     AssertAreEqual(true, gaussianBlur.IsEnabled);
 
-    // met à jour les valeurs du filtre
+    // mettre à jour les valeurs du filtre
     gaussianBlur.Radius = 1;
     gaussianBlur.BlendMode = BlendMode.Divide;
     gaussianBlur.Opacity = 75;
@@ -100,7 +101,7 @@ using (var image = (PsdImage)Image.Load(outputPsd))
 
     GaussianBlurSmartFilter gaussianBlur = (GaussianBlurSmartFilter)smartObj.SmartFilters.Filters[0];
 
-    // vérifie les valeurs du filtre
+    // vérifier les valeurs du filtre
     AssertAreEqual(1d, gaussianBlur.Radius);
     AssertAreEqual(BlendMode.Divide, gaussianBlur.BlendMode);
     AssertAreEqual(75d, gaussianBlur.Opacity);
@@ -111,9 +112,9 @@ using (var image = (PsdImage)Image.Load(outputPsd))
 }
 ```
 
-### Voir également
+### Voir aussi
 
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.SmartFilters](../../aspose.psd.fileformats.psd.layers.smartfilters/)
-* Assemblée [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.SmartFilters](../../aspose.psd.fileformats.psd.layers.smartfilters/)
+* assembly [Aspose.PSD](../../)
 
 

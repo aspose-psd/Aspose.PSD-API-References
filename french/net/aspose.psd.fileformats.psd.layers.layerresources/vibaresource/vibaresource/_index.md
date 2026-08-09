@@ -1,27 +1,28 @@
 ---
-title: VibAResource.VibAResource
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: VibAResource constructeur. Initialise une nouvelle instance duVibAResource classe.
+title: "VibAResource.VibAResource"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Constructeur VibAResource. Initialise une nouvelle instance de la classe VibAResource"
 type: docs
 weight: 10
 url: /fr/net/aspose.psd.fileformats.psd.layers.layerresources/vibaresource/vibaresource/
 ---
+{{< psd/tize >}}
 ## VibAResource constructor
 
-Initialise une nouvelle instance du[`VibAResource`](../) classe.
+Initialise une nouvelle instance de la classe [`VibAResource`](../).
 
 ```csharp
 public VibAResource()
 ```
 
-### Exemples
+## Exemples
 
-L'exemple de code suivant illustre la prise en charge de la ressource VibAResource.
+L'exemple de code suivant montre la prise en charge de la ressource VibAResource.
 
 ```csharp
 [C#]
 
-// Exemple de prise en charge de la lecture et de l'écriture de Vibration Resource lors de l'exécution.
+// Exemple de prise en charge de la lecture et de l'écriture de la ressource Vibration à l'exécution.
 string sourceFileName = "VibranceResource.psd";
 string outputFileName = "out_VibranceResource.psd";
 
@@ -50,10 +51,10 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFileName))
 }
 ```
 
-### Voir également
+### Voir aussi
 
 * class [VibAResource](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../vibaresource/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

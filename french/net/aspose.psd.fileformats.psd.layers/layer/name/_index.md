@@ -1,27 +1,28 @@
 ---
-title: Layer.Name
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: Layer propriété. Obtient ou définit le nom de la couche.
+title: "Layer.Name"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété Layer. Obtient ou définit le nom de la couche"
 type: docs
-weight: 260
+weight: 270
 url: /fr/net/aspose.psd.fileformats.psd.layers/layer/name/
 ---
+{{< psd/tize >}}
 ## Layer.Name property
 
-Obtient ou définit le nom de la couche.
+Obtient ou définit le nom du calque.
 
 ```csharp
 public string Name { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
-Le nom du calque.
+Le nom de la couche.
 
-### Voir également
+### Voir aussi
 
 * class [Layer](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers](../../layer/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

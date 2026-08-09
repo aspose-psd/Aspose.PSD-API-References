@@ -1,11 +1,12 @@
 ---
-title: FixedPointDecimal.Fraction
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: FixedPointDecimal propriété. Obtient ou définit la fraction.
+title: "FixedPointDecimal.Fraction"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété FixedPointDecimal. Obtient ou définit la fraction"
 type: docs
 weight: 20
 url: /fr/net/aspose.psd.fileformats.psd.resources/fixedpointdecimal/fraction/
 ---
+{{< psd/tize >}}
 ## FixedPointDecimal.Fraction property
 
 Obtient ou définit la fraction.
@@ -14,14 +15,14 @@ Obtient ou définit la fraction.
 public int Fraction { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
 La fraction.
 
-### Voir également
+### Voir aussi
 
 * class [FixedPointDecimal](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Resources](../../fixedpointdecimal/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: ExpaResource.Offset
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: ExpaResource propriété. Obtient ou définit le décalage.
+title: "ExpaResource.Offset"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété ExpaResource. Obtient ou définit le décalage"
 type: docs
-weight: 60
+weight: 50
 url: /fr/net/aspose.psd.fileformats.psd.layers.layerresources/exparesource/offset/
 ---
+{{< psd/tize >}}
 ## ExpaResource.Offset property
 
 Obtient ou définit le décalage.
@@ -14,14 +15,14 @@ Obtient ou définit le décalage.
 public float Offset { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
 Le décalage.
 
-### Voir également
+### Voir aussi
 
 * class [ExpaResource](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../exparesource/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

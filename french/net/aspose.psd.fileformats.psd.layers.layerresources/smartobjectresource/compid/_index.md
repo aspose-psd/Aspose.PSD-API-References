@@ -1,26 +1,27 @@
 ---
-title: SmartObjectResource.CompId
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: SmartObjectResource propriété. Obtient ou définit lID de la composition actuellement sélectionnée pour le document enfant qui sera 1 si aucune nest sélectionnée. Les compositions sont des compositions dune mise en page que les concepteurs peuvent créer. Grâce aux compositions de calques vous pouvez créer gérer et afficher plusieurs versions dune mise en page dans un seul fichier Adobe Photoshop. Une composition de calque est un instantané dun état du panneau Calques. Les compositions de calque enregistrent trois types doptions de calque mais cette propriété obtient lidentifiant de sélection de la composition de calque pour le calque dobjet intelligent dans le fichier PSD. Compositions de calques dans les objets dynamiques
+title: "SmartObjectResource.CompId"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "SmartObjectResource property. Obtient ou définit l'ID du comp actuellement sélectionné pour le document enfant, qui sera 1 si aucun n'est sélectionné. Les comps sont des compositions d'une mise en page que les concepteurs peuvent créer. En utilisant les comps de calque, vous pouvez créer, gérer et visualiser plusieurs versions d'une mise en page dans un seul fichier Adobe Photoshop. Un comp de calque est un instantané d'un état du panneau Calques. Les comps de calque enregistrent trois types d'options de calque mais cette propriété obtient l'identifiant de sélection du comp de calque pour le calque d'objet dynamique dans le fichier PSD. Les comps de calque dans les objets dynamiques"
 type: docs
 weight: 30
 url: /fr/net/aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/compid/
 ---
+{{< psd/tize >}}
 ## SmartObjectResource.CompId property
 
-Obtient ou définit l'ID de la composition actuellement sélectionnée pour le document enfant, qui sera -1 si aucune n'est sélectionnée. Les compositions sont des compositions d'une mise en page que les concepteurs peuvent créer. Grâce aux compositions de calques, vous pouvez créer, gérer et afficher plusieurs versions d'une mise en page dans un seul fichier Adobe® Photoshop®. Une composition de calque est un instantané d'un état du panneau Calques. Les compositions de calque enregistrent trois types d'options de calque mais cette propriété obtient l'identifiant de sélection de la composition de calque pour le calque d'objet intelligent dans le fichier PSD. [Compositions de calques dans les objets dynamiques](https://helpx.adobe.com/photoshop/using/layer-comps.html)
+Obtient ou définit l'ID du comp actuellement sélectionné pour le document enfant, qui sera -1 si aucun n'est sélectionné. Les comps sont des compositions d'une mise en page que les concepteurs peuvent créer. En utilisant les comps de calque, vous pouvez créer, gérer et visualiser plusieurs versions d'une mise en page dans un seul fichier Adobe Photoshop. Un comp de calque est un instantané d'un état du panneau Calques. Les comps de calque enregistrent trois types d'options de calque mais cette propriété obtient l'identifiant de sélection du comp de calque pour le calque d'objet dynamique dans le fichier PSD. [Layer comps in Smart Objects](https://helpx.adobe.com/photoshop/using/layer-comps.html)
 
 ```csharp
 public int CompId { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
-L'ID de la composition actuellement sélectionnée pour le document enfant dans l'image PSD, qui sera -1 si aucune n'est sélectionnée.
+L'ID du comp actuellement sélectionné pour le document enfant dans l'image PSD, qui sera -1 si aucun n'est sélectionné.
 
-### Exemples
+## Exemples
 
-Le code suivant illustre la prise en charge des ressources SoLEResource, SmartObjectResource et PlacedResource.
+Le code suivant montre la prise en charge des ressources SoLEResource, SmartObjectResource et PlacedResource.
 
 ```csharp
 [C#]
@@ -106,7 +107,7 @@ void CheckSmartObjectResourceValues(object[] expectedValue, SmartObjectResource 
 
 void SetNewSmartValues(SmartObjectResource resource, object[] newValues)
 {
-    // Nous ne modifions pas ces valeurs dans la ressource
+    // Ces valeurs nous ne les modifions pas dans la ressource.
     newValues[0] = resource.IsCustom;
     newValues[1] = resource.UniqueId.ToString();
     newValues[5] = resource.PlacedLayerType;
@@ -114,34 +115,34 @@ void SetNewSmartValues(SmartObjectResource resource, object[] newValues)
     newValues[15] = resource.VOrder;
     newValues[28] = resource.OriginalCompId;
 
-    // Ces valeurs doivent également être modifiées dans PlLdResource (avec l'UniqueId spécifié)
-    // et certains d'entre eux doivent être en accord avec l'objet intelligent de soulignement dans le LinkDataSource
-    resource.PageNumber = (int)newValues[2]; // 2 ;
-    resource.TotalPages = (int)newValues[3]; // 3 ;
-    resource.AntiAliasPolicy = (int)newValues[4]; // 0 ;
+    // Ces valeurs doivent également être modifiées dans la PlLdResource (avec l'UniqueId spécifié).
+    // et certaines d'entre elles doivent être en accord avec l'objet intelligent sous-jacent dans le LinkDataSource.
+    resource.PageNumber = (int)newValues[2]; // 2;
+    resource.TotalPages = (int)newValues[3]; // 3;
+    resource.AntiAliasPolicy = (int)newValues[4]; // 0;
     resource.TransformMatrix = (double[])newValues[6];
-    resource.Value = (double)newValues[7]; // 1.23456789 ;
-    resource.Perspective = (double)newValues[8]; // 0,123456789 ;
-    resource.PerspectiveOther = (double)newValues[9]; // 0,987654321 ;
-    resource.Top = (double)newValues[10]; // -126 ;
-    resource.Left = (double)newValues[11]; // -215 ;
-    resource.Bottom = (double)newValues[12]; // 248 ;
-    resource.Right = (double)newValues[13]; // 145 ;
-    resource.Crop = (int)newValues[16]; // 5 ;
+    resource.Value = (double)newValues[7]; // 1.23456789;
+    resource.Perspective = (double)newValues[8]; // 0.123456789;
+    resource.PerspectiveOther = (double)newValues[9]; // 0.987654321;
+    resource.Top = (double)newValues[10]; // -126;
+    resource.Left = (double)newValues[11]; // -215;
+    resource.Bottom = (double)newValues[12]; // 248;
+    resource.Right = (double)newValues[13]; // 145;
+    resource.Crop = (int)newValues[16]; // 5;
     resource.FrameStepNumerator = (int)newValues[17]; // 1;
-    resource.FrameStepDenominator = (int)newValues[18]; // 601 ;
-    resource.DurationNumerator = (int)newValues[19]; // 2 ;
-    resource.DurationDenominator = (int)newValues[20]; // 602 ;
-    resource.FrameCount = (int)newValues[21]; // 11 ;
-    resource.Width = (double)newValues[22]; // 541 ;
-    resource.Height = (double)newValues[23]; // 249 ;
-    resource.Resolution = (double)newValues[24]; // 144 ;
+    resource.FrameStepDenominator = (int)newValues[18]; // 601;
+    resource.DurationNumerator = (int)newValues[19]; // 2;
+    resource.DurationDenominator = (int)newValues[20]; // 602;
+    resource.FrameCount = (int)newValues[21]; // 11;
+    resource.Width = (double)newValues[22]; // 541;
+    resource.Height = (double)newValues[23]; // 249;
+    resource.Resolution = (double)newValues[24]; // 144;
     resource.ResolutionUnit = (UnitTypes)newValues[25];
-    resource.Comp = (int)newValues[26]; // 21 ;
-    resource.CompId = (int)newValues[27]; // 22 ;
+    resource.Comp = (int)newValues[26]; // 21;
+    resource.CompId = (int)newValues[27]; // 22;
     resource.NonAffineTransformMatrix = (double[])newValues[30];
 
-    // Cet identifiant unique doit être modifié dans les références s'il y en a
+    // Cet identifiant unique doit être modifié dans les références, le cas échéant.
     resource.PlacedId = new Guid((string)newValues[29]);  // "12345678-9abc-def0-9876-54321fecba98");
     if (resource.IsCustom)
     {
@@ -151,15 +152,15 @@ void SetNewSmartValues(SmartObjectResource resource, object[] newValues)
         resource.VerticalMeshPoints = (double[])newValues[34];
     }
 
-    // Attention à certains paramètres : l'image enregistrée peut devenir illisible par Adobe® Photoshop®
-    ////ressource.UOrder = 6;
-    ////ressource.VOrder = 9;
+    // Soyez prudent avec certains paramètres : l'image enregistrée peut devenir illisible par Adobe® Photoshop®.
+    ////resource.UOrder = 6;
+    ////resource.VOrder = 9;
 
-    // Ne changez rien sinon vous ne pourrez pas utiliser la transformation libre
-    // ou changez l'objet intelligent de soulignement en type vectoriel
-    ////resource.PlacedLayerType = PlacedLayerType.Vector ;
+    // Ne modifiez pas cela sinon vous ne pourrez pas utiliser la transformation libre.
+    // ou changez l'objet intelligent sous-jacent en type vecteur.
+    ////resource.PlacedLayerType = PlacedLayerType.Vector;
 
-    // Il devrait y avoir une PlLdResource valide avec cet identifiant unique
+    // Il doit exister une PlLdResource valide avec cet identifiant unique.
     ////resource.UniqueId = new Guid("98765432-10fe-cba0-1234-56789abcdef0");
 }
 
@@ -323,12 +324,12 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
 }
 ```
 
-Le code suivant illustre la prise en charge de la ressource SoLdResource.
+Le code suivant démontre la prise en charge de la ressource SoLdResource.
 
 ```csharp
 [C#]
 
-// Cet exemple montre comment obtenir ou définir les propriétés de données de la couche d'objet intelligent du fichier PSD.
+// Cet exemple montre comment obtenir ou définir les propriétés des données du calque d'objet dynamique du fichier PSD.
 
 void AssertAreEqual(object actual, object expected)
 {
@@ -562,8 +563,8 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
                     resource.HorizontalMeshPoints = temp;
                 }
 
-                // Ces valeurs doivent également être modifiées dans PlLdResource (avec l'UniqueId spécifié)
-                // et certains d'entre eux doivent être en accord avec l'objet intelligent de soulignement dans le LinkDataSource
+                // Ces valeurs doivent également être modifiées dans la PlLdResource (avec l'UniqueId spécifié).
+                // et certaines d'entre elles doivent être en accord avec l'objet intelligent sous-jacent dans le LinkDataSource.
                 resource.PageNumber = 2;
                 resource.TotalPages = 3;
                 resource.AntiAliasPolicy = 0;
@@ -608,18 +609,18 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
                     42
                 };
 
-                // Cet identifiant unique doit être modifié dans les références s'il y en a
+                // Cet identifiant unique doit être modifié dans les références, le cas échéant.
                 resource.PlacedId = new Guid("12345678-9abc-def0-9876-54321fecba98");
 
-                // Attention à certains paramètres : l'image peut devenir illisible par Adobe® Photoshop®
-                ////ressource.UOrder = 6;
-                ////ressource.VOrder = 9;
+                // Soyez prudent avec certains paramètres : l'image peut devenir illisible par Adobe® Photoshop®.
+                ////resource.UOrder = 6;
+                ////resource.VOrder = 9;
 
-                // Ne changez rien sinon vous ne pourrez pas utiliser la transformation libre
-                // ou changez l'objet intelligent de soulignement en type vectoriel
-                ////resource.PlacedLayerType = PlacedLayerType.Vector ;
+                // Ne modifiez pas cela sinon vous ne pourrez pas utiliser la transformation libre.
+                // ou changez l'objet intelligent sous-jacent en type vecteur.
+                ////resource.PlacedLayerType = PlacedLayerType.Vector;
 
-                // Il devrait y avoir une PlLdResource valide avec cet identifiant unique
+                // Il doit exister une PlLdResource valide avec cet identifiant unique.
                 ////resource.UniqueId = new Guid("98765432-10fe-cba0-1234-56789abcdef0");
 
                 break;
@@ -632,10 +633,10 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
 }
 ```
 
-### Voir également
+### Voir aussi
 
 * class [SmartObjectResource](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../smartobjectresource/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

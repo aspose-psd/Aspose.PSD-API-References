@@ -1,27 +1,28 @@
 ---
-title: SmartObjectResource.Crop
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: SmartObjectResource propriété. Obtient ou définit le recadrage des données de la couche dobjet intelligent dans limage PSD.
+title: "SmartObjectResource.Crop"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "SmartObjectResource propriété. Obtient ou définit le recadrage des données du calque d'objet intelligent dans l'image PSD"
 type: docs
 weight: 40
 url: /fr/net/aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/crop/
 ---
+{{< psd/tize >}}
 ## SmartObjectResource.Crop property
 
-Obtient ou définit le recadrage des données de la couche d'objet intelligent dans l'image PSD.
+Obtient ou définit le recadrage des données du calque d'objet dynamique dans l'image PSD.
 
 ```csharp
 public int Crop { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
-La valeur de recadrage des informations de calque placé.
+La valeur de recadrage des informations du calque placé.
 
-### Voir également
+### Voir aussi
 
 * class [SmartObjectResource](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../smartobjectresource/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

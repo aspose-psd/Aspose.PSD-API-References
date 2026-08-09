@@ -1,23 +1,24 @@
 ---
-title: VstkResource.TypeToolKey
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: VstkResource champ. La clé dinformations sur loutil de type.
+title: "VstkResource.TypeToolKey"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Champ VstkResource. La clé d'information de l'outil de type"
 type: docs
-weight: 240
+weight: 220
 url: /fr/net/aspose.psd.fileformats.psd.layers.layerresources.strokeresources/vstkresource/typetoolkey/
 ---
+{{< psd/tize >}}
 ## VstkResource.TypeToolKey field
 
-La clé d'informations sur l'outil de type.
+La clé d'information de l'outil de type.
 
 ```csharp
 public const int TypeToolKey;
 ```
 
-### Voir également
+### Voir aussi
 
 * class [VstkResource](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.StrokeResources](../../vstkresource/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.StrokeResources](../../../aspose.psd.fileformats.psd.layers.layerresources.strokeresources/)
+* assembly [Aspose.PSD](../../../)
 
 

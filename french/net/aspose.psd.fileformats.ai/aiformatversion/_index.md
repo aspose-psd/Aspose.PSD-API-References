@@ -1,14 +1,15 @@
 ---
-title: Enum AiFormatVersion
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: Aspose.PSD.FileFormats.Ai.AiFormatVersion énumération. La version Adobe Illustrator
+title: "Énumération AiFormatVersion"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Énumération Aspose.PSD.FileFormats.Ai.AiFormatVersion. La version d'Adobe Illustrator"
 type: docs
-weight: 1240
+weight: 1250
 url: /fr/net/aspose.psd.fileformats.ai/aiformatversion/
 ---
+{{< psd/tize >}}
 ## AiFormatVersion enumeration
 
-La version Adobe Illustrator
+La version d'Adobe Illustrator
 
 ```csharp
 public enum AiFormatVersion
@@ -16,16 +17,19 @@ public enum AiFormatVersion
 
 ### Valeurs
 
-| Nom | Évaluer | La description |
+| Nom | Valeur | Description |
 | --- | --- | --- |
-| PsAdobe20 | `0` | L'en-tête PS-Adobe-2.0 |
-| PsAdobe30 | `1` | L'en-tête PS-Adobe-3.0 |
-| Pdf14 | `2` | L'en-tête PDF-1.4 |
-| Pdf15 | `3` | L'en-tête PDF-1.5 |
+| PsAdobeEpsf | `0` | L'en-tête PS-Adobe EPSF |
+| PsAdobe20 | `1` | L'en-tête PS-Adobe-2.0 |
+| PsAdobe30 | `2` | L'en-tête PS-Adobe-3.0 |
+| Pdf14 | `3` | L'en-tête PDF-1.4 |
+| Pdf15 | `4` | L'en-tête PDF-1.5 |
+| Pdf16 | `5` | L'en-tête PDF-1.6 |
+| Pdf17 | `6` | L'en-tête PDF-1.7 |
 
-### Voir également
+### Voir aussi
 
-* espace de noms [Aspose.PSD.FileFormats.Ai](../../aspose.psd.fileformats.ai/)
-* Assemblée [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../)
 
 

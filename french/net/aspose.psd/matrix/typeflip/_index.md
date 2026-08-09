@@ -1,23 +1,24 @@
 ---
-title: Matrix.TypeFlip
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: Matrix champ. Ce bit dindicateur indique que la transformation définie par cet objet effectue un retournement dimage miroir autour dun axe qui change le système de coordonnées normalement droitier en un système gaucher en plus des conversions indiquées par dautres bits dindicateur. Un système de coordonnées droitier est celui où laxe X positif tourne dans le sens antihoraire pour recouvrir laxe Y positif similaire à la direction dans laquelle les doigts de votre main droite senroulent lorsque vous regardez votre pouce. Un système de coordonnées pour gaucher est celui dans lequel laxe X positif tourne dans le sens des aiguilles dune montre pour superposer laxe Y positif similaire à la direction dans laquelle les doigts de votre main gauche se courbent. Il ny a aucun moyen mathématique de déterminer langle de la transformation de retournement ou de mise en miroir dorigine puisque tous les angles de retournement sont identiques avec une rotation de réglage appropriée. REMARQUE  TypeFlip a été ajouté après GENERAL_TRANSFORM était en circulation publique et les bits dindicateur ne pouvaient plus être renumérotés commodément sans introduire une incompatibilité binaire dans le code outside .
+title: "Matrix.TypeFlip"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Champ Matrix. Ce bit de drapeau indique que la transformation définie par cet objet effectue un retournement miroir autour d'un axe, ce qui change le système de coordonnées normalement droitier en un système gaucher, en plus des conversions indiquées par les autres bits de drapeau. Un système de coordonnées droitier est celui où l'axe X positif tourne dans le sens antihoraire pour se superposer à l'axe Y positif, similaire à la direction dans laquelle les doigts de votre main droite s'enroulent lorsque vous regardez votre pouce de face. Un système de coordonnées gaucher est celui où l'axe X positif tourne dans le sens horaire pour se superposer à l'axe Y positif, similaire à la direction dans laquelle les doigts de votre main gauche s'enroulent. Il n'existe aucun moyen mathématique de déterminer l'angle de la transformation de retournement ou de miroir d'origine, car tous les angles de retournement sont identiques lorsqu'une rotation d'ajustement appropriée est appliquée. NOTE : TypeFlip a été ajouté après que GENERAL_TRANSFORM était en circulation publique et les bits de drapeau ne pouvaient plus être renumérotés commodément sans introduire d'incompatibilité binaire dans le code externe."
 type: docs
 weight: 200
 url: /fr/net/aspose.psd/matrix/typeflip/
 ---
+{{< psd/tize >}}
 ## Matrix.TypeFlip field
 
-Ce bit d'indicateur indique que la transformation définie par cet objet effectue un retournement d'image miroir autour d'un axe qui change le système de coordonnées normalement droitier en un système gaucher en plus des conversions indiquées par d'autres bits d'indicateur. Un système de coordonnées droitier est celui où l'axe X positif tourne dans le sens antihoraire pour recouvrir l'axe Y positif similaire à la direction dans laquelle les doigts de votre main droite s'enroulent lorsque vous regardez votre pouce. Un système de coordonnées pour gaucher est celui dans lequel l'axe X positif tourne dans le sens des aiguilles d'une montre pour superposer l'axe Y positif similaire à la direction dans laquelle les doigts de votre main gauche se courbent. Il n'y a aucun moyen mathématique de déterminer l'angle de la transformation de retournement ou de mise en miroir d'origine puisque tous les angles de retournement sont identiques avec une rotation de réglage appropriée. REMARQUE : TypeFlip a été ajouté après GENERAL_TRANSFORM était en circulation publique et les bits d'indicateur ne pouvaient plus être renumérotés commodément sans introduire une incompatibilité binaire dans le code outside .
+Ce bit de drapeau indique que la transformation définie par cet objet effectue un retournement en miroir autour d'un axe qui transforme le système de coordonnées normalement droitier en un système gaucher, en plus des conversions indiquées par les autres bits de drapeau. Un système de coordonnées droitier est celui où l'axe X positif tourne dans le sens antihoraire pour se superposer à l'axe Y positif, similaire à la direction dans laquelle les doigts de votre main droite se courbent lorsque vous regardez votre pouce de face. Un système de coordonnées gaucher est celui où l'axe X positif tourne dans le sens horaire pour se superposer à l'axe Y positif, similaire à la direction dans laquelle les doigts de votre main gauche se courbent. Il n'existe aucun moyen mathématique de déterminer l'angle du retournement ou de la transformation en miroir d'origine, puisque tous les angles de retournement sont identiques lorsqu'une rotation d'ajustement appropriée est appliquée. NOTE : TypeFlip a été ajouté après que GENERAL_TRANSFORM était en circulation publique et les bits de drapeau ne pouvaient plus être renumérotés commodément sans introduire une incompatibilité binaire dans le code externe.
 
 ```csharp
 public const int TypeFlip;
 ```
 
-### Voir également
+### Voir aussi
 
 * class [Matrix](../)
-* espace de noms [Aspose.PSD](../../matrix/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

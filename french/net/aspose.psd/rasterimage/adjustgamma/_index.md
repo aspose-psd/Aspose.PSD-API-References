@@ -1,11 +1,12 @@
 ---
-title: RasterImage.AdjustGamma
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: RasterImage méthode. Correction gamma dune image.
+title: "RasterImage.AdjustGamma"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Méthode RasterImage. Correction gamma d'une image"
 type: docs
 weight: 200
 url: /fr/net/aspose.psd/rasterimage/adjustgamma/
 ---
+{{< psd/tize >}}
 ## AdjustGamma(float) {#adjustgamma}
 
 Correction gamma d'une image.
@@ -14,15 +15,15 @@ Correction gamma d'une image.
 public virtual void AdjustGamma(float gamma)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
-| gamma | Single | Gamma pour le coefficient des canaux rouge, vert et bleu |
+| gamma | Single | Coefficient gamma pour les canaux rouge, vert et bleu |
 
-### Voir également
+### Voir aussi
 
 * class [RasterImage](../)
-* espace de noms [Aspose.PSD](../../rasterimage/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
@@ -34,16 +35,16 @@ Correction gamma d'une image.
 public virtual void AdjustGamma(float gammaRed, float gammaGreen, float gammaBlue)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
-| gammaRed | Single | Gamma pour le coefficient du canal rouge |
-| gammaGreen | Single | Gamma pour le coefficient du canal vert |
-| gammaBlue | Single | Gamma pour le coefficient du canal bleu |
+| gammaRed | Single | Coefficient gamma pour le canal rouge |
+| gammaGreen | Single | Coefficient gamma pour le canal vert |
+| gammaBlue | Single | Coefficient gamma pour le canal bleu |
 
-### Voir également
+### Voir aussi
 
 * class [RasterImage](../)
-* espace de noms [Aspose.PSD](../../rasterimage/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

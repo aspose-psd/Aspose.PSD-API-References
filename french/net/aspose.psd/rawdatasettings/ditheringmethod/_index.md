@@ -1,11 +1,12 @@
 ---
-title: RawDataSettings.DitheringMethod
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: RawDataSettings propriété. Obtient ou définit la méthode de tramage à utiliser pour la conversion des données brutes
+title: "RawDataSettings.DitheringMethod"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété RawDataSettings. Obtient ou définit la méthode de tramage à utiliser pour la conversion des données brutes."
 type: docs
 weight: 40
 url: /fr/net/aspose.psd/rawdatasettings/ditheringmethod/
 ---
+{{< psd/tize >}}
 ## RawDataSettings.DitheringMethod property
 
 Obtient ou définit la méthode de tramage à utiliser pour la conversion des données brutes
@@ -14,15 +15,15 @@ Obtient ou définit la méthode de tramage à utiliser pour la conversion des do
 public DitheringMethods DitheringMethod { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
-La méthode de tramage à utiliser pour la conversion des données brutes
+La méthode de tramage à utiliser pour la conversion des données brutes.
 
-### Voir également
+### Voir aussi
 
 * enum [DitheringMethods](../../ditheringmethods/)
 * class [RawDataSettings](../)
-* espace de noms [Aspose.PSD](../../rawdatasettings/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

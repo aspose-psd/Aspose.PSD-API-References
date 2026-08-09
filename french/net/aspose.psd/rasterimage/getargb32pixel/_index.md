@@ -1,32 +1,33 @@
 ---
-title: RasterImage.GetArgb32Pixel
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: RasterImage méthode. Obtient une image pixel ARGB 32 bits.
+title: "RasterImage.GetArgb32Pixel"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "RasterImage méthode. Obtient un pixel ARGB 32 bits de l'image"
 type: docs
 weight: 270
 url: /fr/net/aspose.psd/rasterimage/getargb32pixel/
 ---
+{{< psd/tize >}}
 ## RasterImage.GetArgb32Pixel method
 
-Obtient une image pixel ARGB 32 bits.
+Obtient un pixel ARGB 32 bits d'une image.
 
 ```csharp
 public int GetArgb32Pixel(int x, int y)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
-| x | Int32 | L'emplacement pixel x. |
-| y | Int32 | L'emplacement du pixel y. |
+| x | Int32 | La position x du pixel. |
+| y | Int32 | La position y du pixel. |
 
-### Return_Value
+### Valeur de retour
 
 Le pixel ARGB 32 bits pour l'emplacement spécifié.
 
-### Voir également
+### Voir aussi
 
 * class [RasterImage](../)
-* espace de noms [Aspose.PSD](../../rasterimage/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

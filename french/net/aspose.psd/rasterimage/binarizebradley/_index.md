@@ -1,48 +1,49 @@
 ---
-title: RasterImage.BinarizeBradley
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: RasterImage méthode. Binarisation dune image à laide de lalgorithme de seuillage adaptatif de Bradley à laide du seuillage dimage intégral
+title: "RasterImage.BinarizeBradley"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Méthode RasterImage. Binarisation d'une image en utilisant l'algorithme de seuillage adaptatif de Bradley basé sur le seuillage par image intégrale"
 type: docs
 weight: 210
 url: /fr/net/aspose.psd/rasterimage/binarizebradley/
 ---
+{{< psd/tize >}}
 ## BinarizeBradley(double, int) {#binarizebradley_1}
 
-Binarisation d'une image à l'aide de l'algorithme de seuillage adaptatif de Bradley à l'aide du seuillage d'image intégral
+Binarisation d'une image en utilisant l'algorithme de seuillage adaptatif de Bradley avec le seuillage par image intégrale
 
 ```csharp
 public virtual void BinarizeBradley(double brightnessDifference, int windowSize)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
-| brightnessDifference | Double | La différence de luminosité entre le pixel et la moyenne d'une fenêtre sxs de pixels centrée autour de ce pixel. |
-| windowSize | Int32 | La taille de la fenêtre sxs de pixels centrée autour de ce pixel |
+| brightnessDifference | Double | La différence de luminosité entre le pixel et la moyenne d'une fenêtre de s × s pixels centrée sur ce pixel. |
+| windowSize | Int32 | La taille de la fenêtre de s × s pixels centrée sur ce pixel |
 
-### Voir également
+### Voir aussi
 
 * class [RasterImage](../)
-* espace de noms [Aspose.PSD](../../rasterimage/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## BinarizeBradley(double) {#binarizebradley}
 
-Binarisation d'une image à l'aide de l'algorithme de seuillage adaptatif de Bradley à l'aide du seuillage d'image intégral
+Binarisation d'une image en utilisant l'algorithme de seuillage adaptatif de Bradley avec le seuillage par image intégrale
 
 ```csharp
 public virtual void BinarizeBradley(double brightnessDifference)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
-| brightnessDifference | Double | La différence de luminosité entre le pixel et la moyenne d'une fenêtre sxs de pixels centrée autour de ce pixel. |
+| brightnessDifference | Double | La différence de luminosité entre le pixel et la moyenne d'une fenêtre de s × s pixels centrée sur ce pixel. |
 
-### Voir également
+### Voir aussi
 
 * class [RasterImage](../)
-* espace de noms [Aspose.PSD](../../rasterimage/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

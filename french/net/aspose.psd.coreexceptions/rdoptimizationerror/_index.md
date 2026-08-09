@@ -1,14 +1,15 @@
 ---
-title: Class RdOptimizationError
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: Aspose.PSD.CoreExceptions.RdOptimizationError classe. classe dexception derreur doptimisation RD
+title: "Classe RdOptimizationError"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Classe Aspose.PSD.CoreExceptions.RdOptimizationError. Classe d'exception d'erreur d'optimisation RD"
 type: docs
 weight: 670
 url: /fr/net/aspose.psd.coreexceptions/rdoptimizationerror/
 ---
+{{< psd/tize >}}
 ## RdOptimizationError class
 
-classe d'exception d'erreur d'optimisation RD
+Classe d'exception d'erreur d'optimisation RD
 
 ```csharp
 public class RdOptimizationError : Exception
@@ -16,13 +17,13 @@ public class RdOptimizationError : Exception
 
 ## Constructeurs
 
-| Nom | La description |
+| Nom | Description |
 | --- | --- |
-| [RdOptimizationError](rdoptimizationerror/)(string) | Initialise une nouvelle instance du`RdOptimizationError` classe. |
+| [RdOptimizationError](rdoptimizationerror/)(string) | Initialise une nouvelle instance de la classe `RdOptimizationError`. |
 
-### Voir également
+### Voir aussi
 
-* espace de noms [Aspose.PSD.CoreExceptions](../../aspose.psd.coreexceptions/)
-* Assemblée [Aspose.PSD](../../)
+* namespace [Aspose.PSD.CoreExceptions](../../aspose.psd.coreexceptions/)
+* assembly [Aspose.PSD](../../)
 
 

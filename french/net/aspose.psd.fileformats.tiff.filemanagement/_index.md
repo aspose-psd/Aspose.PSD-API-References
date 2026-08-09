@@ -1,18 +1,19 @@
 ---
-title: Aspose.PSD.FileFormats.Tiff.FileManagement
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: Lespace de noms contient des classes de gestion de flux de format de fichier Tiff.
+title: "Aspose.PSD.FileFormats.Tiff.FileManagement"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "L'espace de noms contient des classes de gestion de flux du format de fichier Tiff."
 type: docs
-weight: 390
+weight: 430
 url: /fr/net/aspose.psd.fileformats.tiff.filemanagement/
 ---
-L'espace de noms contient des classes de gestion de flux de format de fichier Tiff.
+{{< psd/tize >}}
+L'espace de noms contient les classes de gestion de flux du format de fichier TIFF.
 
-## Des classes
+## Classes
 
-| Classer | La description |
+| Classe | Description |
 | --- | --- |
-| [TiffStreamReader](./tiffstreamreader/) | Le flux tiff pour la gestion du format de fichier tiff little endian. |
+| [TiffStreamReader](./tiffstreamreader/) | Le flux tiff pour la gestion du format de fichier tiff little-endian. |
 | [TiffStreamWriter](./tiffstreamwriter/) | Écrivain de flux Tiff. |
 
 

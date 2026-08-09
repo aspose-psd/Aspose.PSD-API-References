@@ -1,11 +1,12 @@
 ---
-title: ImageAttributes.ClearColorKey
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: ImageAttributes méthode. Efface la clé de couleur plage de transparence pour la catégorie par défaut.
+title: "ImageAttributes.ClearColorKey"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Méthode ImageAttributes. Efface la plage de transparence de la clé de couleur pour la catégorie par défaut"
 type: docs
 weight: 30
 url: /fr/net/aspose.psd/imageattributes/clearcolorkey/
 ---
+{{< psd/tize >}}
 ## ClearColorKey() {#clearcolorkey}
 
 Efface la clé de couleur (plage de transparence) pour la catégorie par défaut.
@@ -14,11 +15,11 @@ Efface la clé de couleur (plage de transparence) pour la catégorie par défaut
 public void ClearColorKey()
 ```
 
-### Voir également
+### Voir aussi
 
 * class [ImageAttributes](../)
-* espace de noms [Aspose.PSD](../../imageattributes/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
@@ -30,15 +31,15 @@ Efface la clé de couleur (plage de transparence) pour une catégorie spécifié
 public void ClearColorKey(ColorAdjustType type)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
-| type | ColorAdjustType | Un élément de[`ColorAdjustType`](../../coloradjusttype/) qui spécifie la catégorie pour laquelle la clé de couleur est effacée. |
+| type | ColorAdjustType | Un élément de [`ColorAdjustType`](../../coloradjusttype/) qui spécifie la catégorie pour laquelle la clé de couleur est effacée. |
 
-### Voir également
+### Voir aussi
 
 * enum [ColorAdjustType](../../coloradjusttype/)
 * class [ImageAttributes](../)
-* espace de noms [Aspose.PSD](../../imageattributes/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

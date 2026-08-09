@@ -1,26 +1,27 @@
 ---
-title: AiLayerSection.ColorNumber
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: AiLayerSection propriété. Obtient ou définit le numéro de couleur. 1 est la valeur de couleur personnalisée des propriétés Rouge Vert Bleu. Spécifie le paramètre de couleur du calque.
+title: "AiLayerSection.ColorNumber"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété AiLayerSection. Obtient ou définit le numéro de couleur. 1 est la valeur de couleur personnalisée provenant des propriétés Rouge Vert Bleu. Spécifie le réglage de couleur de la couche"
 type: docs
-weight: 20
+weight: 30
 url: /fr/net/aspose.psd.fileformats.ai/ailayersection/colornumber/
 ---
+{{< psd/tize >}}
 ## AiLayerSection.ColorNumber property
 
-Obtient ou définit le numéro de couleur. -1 est la valeur de couleur personnalisée des propriétés Rouge, Vert, Bleu. Spécifie le paramètre de couleur du calque.
+Obtient ou définit le numéro de couleur. -1 correspond à la valeur de couleur personnalisée provenant des propriétés Rouge, Vert, Bleu. Spécifie le réglage de couleur du calque.
 
 ```csharp
 public int ColorNumber { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
 Le numéro de couleur.
 
-### Exemples
+## Exemples
 
-L'exemple suivant illustre la prise en charge des calques dans les fichiers au format AI.
+L'exemple suivant montre la prise en charge des calques dans les fichiers au format AI.
 
 ```csharp
 [C#]
@@ -70,10 +71,10 @@ using (AiImage image = (AiImage)Image.Load(sourceFilePath))
 }
 ```
 
-### Voir également
+### Voir aussi
 
 * class [AiLayerSection](../)
-* espace de noms [Aspose.PSD.FileFormats.Ai](../../ailayersection/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,31 +1,32 @@
 ---
-title: Rectangle.Equals
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: Rectangle méthode. Teste siobj est unRectanglestructure avec le même emplacement et la même taille que celleciRectanglestructure.
+title: "Rectangle.Equals"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Méthode Rectangle. Vérifie si obj est une structure Rectangle avec le même emplacement et la même taille que cette structure Rectangle"
 type: docs
 weight: 230
 url: /fr/net/aspose.psd/rectangle/equals/
 ---
+{{< psd/tize >}}
 ## Rectangle.Equals method
 
-Teste si*obj* est un[`Rectangle`](../)structure avec le même emplacement et la même taille que celle-ci[`Rectangle`](../)structure.
+Vérifie si *obj* est une structure [`Rectangle`](../) avec le même emplacement et la même taille que cette structure [`Rectangle`](../).
 
 ```csharp
 public override bool Equals(object obj)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
-| obj | Object | LeObject tester. |
+| obj | Object | L'objet à tester. |
 
-### Return_Value
+### Valeur de retour
 
-Cette méthode renvoie true si*obj* est un[`Rectangle`](../) structure et ses[`X`](../x/) ,[`Y`](../y/) ,[`Width`](../width/) , et[`Height`](../height/) propriétés sont égales aux propriétés correspondantes de ce[`Rectangle`](../) structure; sinon, faux.
+Cette méthode renvoie true si *obj* est une structure [`Rectangle`](../) et que ses propriétés [`X`](../x/), [`Y`](../y/), [`Width`](../width/) et [`Height`](../height/) sont égales aux propriétés correspondantes de cette structure [`Rectangle`](../) ; sinon, false.
 
-### Voir également
+### Voir aussi
 
 * struct [Rectangle](../)
-* espace de noms [Aspose.PSD](../../rectangle/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: Point.GetHashCode
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: Point méthode. Renvoie un code de hachage pour celaPoint .
+title: "Point.GetHashCode"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Méthode Point. Retourne un code de hachage pour ce Point."
 type: docs
 weight: 120
 url: /fr/net/aspose.psd/point/gethashcode/
 ---
+{{< psd/tize >}}
 ## Point.GetHashCode method
 
-Renvoie un code de hachage pour cela[`Point`](../) .
+Retourne un code de hachage pour ce [`Point`](../).
 
 ```csharp
 public override int GetHashCode()
 ```
 
-### Return_Value
+### Valeur de retour
 
-Un code de hachage pour cette instance, adapté à une utilisation dans des algorithmes de hachage et des structures de données comme une table de hachage.
+Un code de hachage pour cette instance, adapté à une utilisation dans les algorithmes de hachage et les structures de données comme une table de hachage.
 
-### Voir également
+### Voir aussi
 
 * struct [Point](../)
-* espace de noms [Aspose.PSD](../../point/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

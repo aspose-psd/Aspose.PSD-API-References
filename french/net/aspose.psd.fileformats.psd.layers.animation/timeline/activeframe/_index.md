@@ -1,11 +1,12 @@
 ---
-title: TimeLine.ActiveFrame
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: TimeLine propriété. Obtient ou définit lindex de la trame active.
+title: "TimeLine.ActiveFrame"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété TimeLine. Obtient ou définit l'index de la trame active"
 type: docs
 weight: 30
 url: /fr/net/aspose.psd.fileformats.psd.layers.animation/timeline/activeframe/
 ---
+{{< psd/tize >}}
 ## TimeLine.ActiveFrame property
 
 Obtient ou définit l'index de la trame active.
@@ -14,10 +15,10 @@ Obtient ou définit l'index de la trame active.
 public int ActiveFrame { get; set; }
 ```
 
-### Voir également
+### Voir aussi
 
 * class [TimeLine](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.Animation](../../timeline/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.Animation](../../timeline/)
+* assembly [Aspose.PSD](../../../)
 
 

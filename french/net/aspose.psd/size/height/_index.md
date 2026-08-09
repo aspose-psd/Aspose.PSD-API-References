@@ -1,23 +1,24 @@
 ---
-title: Size.Height
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: Size propriété. Obtient ou définit la composante verticale de cetteSize .
+title: "Size.Height"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété Size. Obtient ou définit le composant vertical de ce Size."
 type: docs
 weight: 80
 url: /fr/net/aspose.psd/size/height/
 ---
+{{< psd/tize >}}
 ## Size.Height property
 
-Obtient ou définit la composante verticale de cette[`Size`](../) .
+Obtient ou définit le composant vertical de ce [`Size`](../).
 
 ```csharp
 public int Height { get; set; }
 ```
 
-### Voir également
+### Voir aussi
 
 * struct [Size](../)
-* espace de noms [Aspose.PSD](../../size/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

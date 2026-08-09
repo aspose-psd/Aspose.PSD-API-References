@@ -1,27 +1,28 @@
 ---
-title: DocumentSpecificIdsResource.DataSize
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: DocumentSpecificIdsResource propriété. Obtient la taille des données de ressource en octets.
+title: "DocumentSpecificIdsResource.DataSize"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété DocumentSpecificIdsResource. Obtient la taille des données de la ressource en octets"
 type: docs
 weight: 20
 url: /fr/net/aspose.psd.fileformats.psd.resources/documentspecificidsresource/datasize/
 ---
+{{< psd/tize >}}
 ## DocumentSpecificIdsResource.DataSize property
 
-Obtient la taille des données de ressource en octets.
+Obtient la taille des données de la ressource en octets.
 
 ```csharp
 public override int DataSize { get; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
-La taille des données de ressource.
+La taille des données de la ressource.
 
-### Voir également
+### Voir aussi
 
 * class [DocumentSpecificIdsResource](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Resources](../../documentspecificidsresource/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

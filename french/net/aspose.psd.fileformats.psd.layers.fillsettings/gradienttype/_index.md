@@ -1,11 +1,12 @@
 ---
-title: Enum GradientType
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: Aspose.PSD.FileFormats.Psd.Layers.FillSettings.GradientType énumération. Type de dégradé
+title: "Enum GradientType"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Aspose.PSD.FileFormats.Psd.Layers.FillSettings.GradientType enum. Type de dégradé."
 type: docs
-weight: 1980
+weight: 2100
 url: /fr/net/aspose.psd.fileformats.psd.layers.fillsettings/gradienttype/
 ---
+{{< psd/tize >}}
 ## GradientType enumeration
 
 Type de dégradé
@@ -16,18 +17,18 @@ public enum GradientType
 
 ### Valeurs
 
-| Nom | Évaluer | La description |
+| Nom | Valeur | Description |
 | --- | --- | --- |
 | Linear | `0` | Le type de dégradé linéaire |
 | Radial | `1` | Le type de dégradé radial |
-| Angle | `2` | Le type de dégradé d'angle |
-| Reflected | `3` | Le type de dégradé réfléchi |
-| Diamond | `4` | Le type de dégradé de diamant |
-| ShapeBurst | `5` | Le type de dégradé d'éclatement de forme |
+| Angle | `2` | Le type de dégradé angulaire |
+| Reflected | `3` | Le type de dégradé reflété |
+| Diamond | `4` | Le type de dégradé en losange |
+| ShapeBurst | `5` | Le type de dégradé en explosion de forme |
 
-### Voir également
+### Voir aussi
 
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../aspose.psd.fileformats.psd.layers.fillsettings/)
-* Assemblée [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../)
 
 

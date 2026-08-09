@@ -1,14 +1,15 @@
 ---
-title: Enum FrameDisposalMethod
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: Aspose.PSD.FileFormats.Psd.Layers.Animation.FrameDisposalMethod énumération. La méthode délimination des images spécifie sil faut supprimer limage actuelle avant dafficher limage suivante. Vous sélectionnez une méthode délimination pour les animations qui incluent la transparence de larrièreplan pour spécifier si limage actuelle sera visible à travers les zones transparentes de limage suivante.
+title: "Énumération FrameDisposalMethod"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Énumération Aspose.PSD.FileFormats.Psd.Layers.Animation.FrameDisposalMethod. La méthode de disposition de la trame indique s'il faut supprimer la trame actuelle avant d'afficher la trame suivante. Vous choisissez une méthode de disposition pour les animations incluant la transparence d'arrière-plan afin de spécifier si la trame actuelle sera visible à travers les zones transparentes de la trame suivante."
 type: docs
-weight: 1850
+weight: 1950
 url: /fr/net/aspose.psd.fileformats.psd.layers.animation/framedisposalmethod/
 ---
+{{< psd/tize >}}
 ## FrameDisposalMethod enumeration
 
-La méthode d'élimination des images spécifie s'il faut supprimer l'image actuelle avant d'afficher l'image suivante. Vous sélectionnez une méthode d'élimination pour les animations qui incluent la transparence de l'arrière-plan pour spécifier si l'image actuelle sera visible à travers les zones transparentes de l'image suivante.
+La méthode de suppression de trame indique s'il faut ou non supprimer la trame actuelle avant d'afficher la trame suivante. Vous choisissez une méthode de suppression pour les animations incluant la transparence d'arrière-plan afin de spécifier si la trame actuelle sera visible à travers les zones transparentes de la trame suivante.
 
 ```csharp
 public enum FrameDisposalMethod
@@ -16,15 +17,15 @@ public enum FrameDisposalMethod
 
 ### Valeurs
 
-| Nom | Évaluer | La description |
+| Nom | Valeur | Description |
 | --- | --- | --- |
-| Automatic | `0` | Détermine automatiquement une méthode de suppression pour l'image actuelle, en supprimant l'image actuelle si l'image suivante contient une transparence de calque. Pour la plupart des animations, l'option Automatique (par défaut) donne les résultats souhaités. |
-| DoNotDispose | `1` | Préserve l'image actuelle lorsque l'image suivante est ajoutée à l'affichage. L'image actuelle (et les images précédentes) peut apparaître à travers les zones transparentes de l'image suivante. |
-| Dispose | `2` | Supprime l'image actuelle de l'affichage avant l'affichage de l'image suivante. Une seule image est affichée à la fois (et l'image actuelle n'apparaît pas à travers les zones transparentes de l'image suivante). |
+| Automatic | `0` | Détermine automatiquement une méthode de disposition pour la trame actuelle, en supprimant la trame actuelle si la trame suivante contient de la transparence de calque. Pour la plupart des animations, l'option Automatique (par défaut) donne les résultats souhaités. |
+| DoNotDispose | `1` | Conserve la trame actuelle lorsque la trame suivante est ajoutée à l'affichage. La trame actuelle (et les trames précédentes) peut apparaître à travers les zones transparentes de la trame suivante. |
+| Dispose | `2` | Supprime la trame actuelle de l'affichage avant que la trame suivante ne soit affichée. Une seule trame est affichée à la fois (et la trame actuelle n'apparaît pas à travers les zones transparentes de la trame suivante). |
 
-### Exemples
+## Exemples
 
-La classe TimeLine offre une capacité de haut niveau pour manipuler la chronologie de PsdImage, comme modifier le délai d'image ou modifier l'état du calque sur une image spécifique.
+La classe Timeline offre une capacité de haut niveau pour manipuler la chronologie du PsdImage, comme modifier le délai d'un cadre ou éditer l'état du calque sur un cadre spécifique.
 
 ```csharp
 [C#]
@@ -34,40 +35,39 @@ string outputPsd = "output_image800.psd";
 
 using (PsdImage psdImage = (PsdImage)Image.Load(sourceFile))
 {
-    TimeLine timeLine = TimeLine.InitializeFrom(psdImage);
+    Timeline timeline = psdImage.Timeline;
 
-    // Changer la méthode de disposition de l'image 1
-    timeLine.Frames[0].DisposalMethod = FrameDisposalMethod.DoNotDispose;
+    // Modifier la méthode de libération du cadre 1
+    timeline.Frames[0].DisposalMethod = FrameDisposalMethod.DoNotDispose;
 
-    // Modification du délai de l'image 2
-    timeLine.Frames[1].Delay = 15;
+    // Modifier le délai du cadre 2
+    timeline.Frames[1].Delay = 15;
 
-    // Modification de l'opacité du 'Calque 1' sur l'image 2
-    LayerState layerState11 = timeLine.Frames[1].LayerStates[timeLine.LayerIds[1]];
+    // Modifier l'opacité de 'Layer 1' sur le cadre 2
+    LayerState layerState11 = timeline.Frames[1].LayerStates[1];
     layerState11.Opacity = 50;
 
-    // déplacer 'Calque 1' dans le coin inférieur gauche de l'image 3
-    LayerState layerState21 = timeLine.Frames[2].LayerStates[timeLine.LayerIds[1]];
+    // Déplacer 'Layer 1' vers le coin inférieur gauche sur le cadre 3
+    LayerState layerState21 = timeline.Frames[2].LayerStates[1];
     layerState21.PositionOffset = new Point(-50, 230);
 
     // Ajoute un nouveau cadre
-    List<Frame> frames = new List<Frame>(timeLine.Frames);
-    frames.Add(new Frame(timeLine));
-    timeLine.Frames = frames.ToArray();
+    List<Frame> frames = new List<Frame>(timeline.Frames);
+    frames.Add(new Frame());
+    timeline.Frames = frames.ToArray();
 
-    // Change blendMode de 'Calque 1' sur l'image 4
-    LayerState layerState31 = timeLine.Frames[3].LayerStates[timeLine.LayerIds[1]];
+    // Modifier le blendMode de 'Layer 1' sur la trame 4
+    LayerState layerState31 = timeline.Frames[3].LayerStates[1];
     layerState31.BlendMode = BlendMode.Dissolve;
 
     // Appliquer les modifications à l'instance PsdImage
-    timeLine.ApplyTo(psdImage);
     psdImage.Save(outputPsd);
 }
 ```
 
-### Voir également
+### Voir aussi
 
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.Animation](../../aspose.psd.fileformats.psd.layers.animation/)
-* Assemblée [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.Animation](../../aspose.psd.fileformats.psd.layers.animation/)
+* assembly [Aspose.PSD](../../)
 
 

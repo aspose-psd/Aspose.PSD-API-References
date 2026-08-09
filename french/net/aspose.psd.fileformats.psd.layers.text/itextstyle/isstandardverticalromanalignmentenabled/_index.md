@@ -1,28 +1,29 @@
 ---
-title: ITextStyle.IsStandardVerticalRomanAlignmentEnabled
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: ITextStyle propriété. Obtient ou définit lalignement romain vertical standard. Ceci basé sur la valeur de la ressource BaselineDirection sapplique uniquement lorsque lorientation du texte estVertical .
+title: "ITextStyle.IsStandardVerticalRomanAlignmentEnabled"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété ITextStyle. Obtient ou définit l'alignement romain vertical standard. Cette valeur, basée sur la ressource BaselineDirection, s'applique uniquement lorsque l'orientation du texte est verticale"
 type: docs
 weight: 170
 url: /fr/net/aspose.psd.fileformats.psd.layers.text/itextstyle/isstandardverticalromanalignmentenabled/
 ---
+{{< psd/tize >}}
 ## ITextStyle.IsStandardVerticalRomanAlignmentEnabled property
 
-Obtient ou définit l'alignement romain vertical standard. Ceci basé sur la valeur de la ressource BaselineDirection s'applique uniquement lorsque l'orientation du texte estVertical .
+Obtient ou définit l'alignement romain vertical standard. Ceci, basé sur la valeur de la ressource BaselineDirection, s'applique uniquement lorsque l'orientation du texte est verticale.
 
 ```csharp
 public bool IsStandardVerticalRomanAlignmentEnabled { get; set; }
 ```
 
-### Exemples
+## Exemples
 
-Le code suivant illustre la prise en charge de la nouvelle propriété IsStandardVerticalRomanAlignmentEnabled.
+Le code suivant démontre la prise en charge de la nouvelle propriété IsStandardVerticalRomanAlignmentEnabled.
 
 ```csharp
 [C#]
 
-// Le code suivant montre la possibilité de modifier la nouvelle propriété IsStandardVerticalRomanAlignmentEnabled.
-// Cela n'affecte pas le rendu pour le moment, mais vous permet uniquement de modifier la valeur de la propriété.
+// Le code suivant démontre la capacité de modifier la nouvelle propriété IsStandardVerticalRomanAlignmentEnabled.
+// Cela n'affecte pas le rendu pour le moment, mais permet uniquement de modifier la valeur de la propriété.
 
 string src = "1346test.psd";
 string output = "out_1346test.psd";
@@ -61,10 +62,10 @@ using (var image = (PsdImage)Image.Load(output))
 }
 ```
 
-### Voir également
+### Voir aussi
 
 * interface [ITextStyle](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.Text](../../itextstyle/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.Text](../../../aspose.psd.fileformats.psd.layers.text/)
+* assembly [Aspose.PSD](../../../)
 
 

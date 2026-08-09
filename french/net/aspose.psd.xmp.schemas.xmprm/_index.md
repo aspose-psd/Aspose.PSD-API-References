@@ -1,16 +1,17 @@
 ---
-title: Aspose.PSD.Xmp.Schemas.XmpRm
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: Lespace de noms contient des classes des constantes et des méthodes dassistance à la gestion des droits. Ces propriétés spécifient des informations concernant les restrictions légales associées à une ressource.
+title: "Aspose.PSD.Xmp.Schemas.XmpRm"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "L'espace de noms contient des classes d'assistance liées à la gestion des droits, ainsi que des constantes et des méthodes. Ces propriétés spécifient les informations concernant les restrictions légales associées à une ressource"
 type: docs
-weight: 590
+weight: 630
 url: /fr/net/aspose.psd.xmp.schemas.xmprm/
 ---
-L'espace de noms contient des classes, des constantes et des méthodes d'assistance à la gestion des droits. Ces propriétés spécifient des informations concernant les restrictions légales associées à une ressource.
+{{< psd/tize >}}
+L'espace de noms contient des classes, constantes et méthodes d'assistance liées à la gestion des droits. Ces propriétés spécifient les informations concernant les restrictions légales associées à une ressource.
 
-## Des classes
+## Classes
 
-| Classer | La description |
+| Classe | Description |
 | --- | --- |
 | [XmpRightsManagementPackage](./xmprightsmanagementpackage/) | Représente l'espace de noms XMP Rights Management. |
 

@@ -1,27 +1,28 @@
 ---
-title: VectorShapeBoundingBox.Bottom
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: VectorShapeBoundingBox propriété. Obtient ou définit le fond.
+title: "VectorShapeBoundingBox.Bottom"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété VectorShapeBoundingBox. Obtient ou définit le bas"
 type: docs
 weight: 20
 url: /fr/net/aspose.psd.fileformats.core.vectorpaths/vectorshapeboundingbox/bottom/
 ---
+{{< psd/tize >}}
 ## VectorShapeBoundingBox.Bottom property
 
-Obtient ou définit le fond.
+Obtient ou définit le bas.
 
 ```csharp
 public double Bottom { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
 Le bas.
 
-### Voir également
+### Voir aussi
 
 * class [VectorShapeBoundingBox](../)
-* espace de noms [Aspose.PSD.FileFormats.Core.VectorPaths](../../vectorshapeboundingbox/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../../)
 
 

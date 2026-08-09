@@ -1,28 +1,29 @@
 ---
-title: Figure.RemoveShapes
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: Figure méthode. Supprime une plage de formes de la figure.
+title: "Figure.RemoveShapes"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Méthode Figure. Supprime une plage de formes de la figure"
 type: docs
 weight: 100
 url: /fr/net/aspose.psd/figure/removeshapes/
 ---
+{{< psd/tize >}}
 ## Figure.RemoveShapes method
 
-Supprime une plage de formes de la figure.
+Supprime une série de formes de la figure.
 
 ```csharp
 public void RemoveShapes(Shape[] shapes)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
-| shapes | Shape[] | La plage de formes à supprimer. |
+| formes | Shape[] | La plage de formes à supprimer. |
 
-### Voir également
+### Voir aussi
 
 * class [Shape](../../shape/)
 * class [Figure](../)
-* espace de noms [Aspose.PSD](../../figure/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

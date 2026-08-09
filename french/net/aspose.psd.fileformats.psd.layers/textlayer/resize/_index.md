@@ -1,28 +1,29 @@
 ---
-title: TextLayer.Resize
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: TextLayer méthode. Redimensionne limage. Le défautLeftTopToLeftTopest utilisé.
+title: "TextLayer.Resize"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Méthode TextLayer. Redimensionne l'image. La valeur par défaut LeftTopToLeftTop est utilisée"
 type: docs
-weight: 90
+weight: 100
 url: /fr/net/aspose.psd.fileformats.psd.layers/textlayer/resize/
 ---
+{{< psd/tize >}}
 ## TextLayer.Resize method
 
-Redimensionne l'image. Le défautLeftTopToLeftTopest utilisé.
+Redimensionne l'image. Le défaut LeftTopToLeftTop est utilisé.
 
 ```csharp
 public override void Resize(int newWidth, int newHeight, ResizeType resizeType)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
 | newWidth | Int32 | La nouvelle largeur. |
 | newHeight | Int32 | La nouvelle hauteur. |
-| resizeType | ResizeType | Le type de transformation de redimensionnement[`ResizeType`](../../../aspose.psd/resizetype/) |
+| resizeType | ResizeType | Le type de transformation de redimensionnement [`ResizeType`](../../../aspose.psd/resizetype/) |
 
-### Exemples
+## Exemples
 
-Le code suivant illustre la fonction TextLayer.Resize avec le paramètre permettant de choisir le mécanisme de redimensionnement.
+Le code suivant démontre la fonction TextLayer.Resize avec le paramètre permettant de choisir le mécanisme de redimensionnement.
 
 ```csharp
 [C#]
@@ -34,15 +35,15 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFileName, new PsdLoadOptions(
 {
     TextLayer textLayer = (TextLayer)image.Layers[1];
 
-    // Il définit la nouvelle taille du calque de texte
+    // Il définit la nouvelle taille du calque texte
     const int NewWidth = 250;
     const int NewHeight = 250;
 
-    // Il définit le mécanisme de la façon dont la fonction de redimensionnement redimensionnera le calque (valeur par défaut)
+    // Il définit le mécanisme selon lequel la fonction de redimensionnement redimensionnera le calque (valeur par défaut)
     ResizeType resizeType = ResizeType.NearestNeighbourResample;
 
-    // Nouveau mécanisme de redimensionnement pour le calque de texte en utilisant ici
-    // Non seulement le calque mais aussi la matrice de transformation du calque de texte seront modifiés
+    // Nouveau mécanisme de redimensionnement pour le calque texte utilisé ici
+    // Non seulement le calque mais aussi la matrice de transformation du calque texte seront modifiés
     textLayer.Resize(NewWidth, NewHeight, resizeType);
 
     image.Save(outputFile, new PsdOptions(image));
@@ -67,11 +68,11 @@ using (PsdImage image = (PsdImage)Image.Load(outputFile, new PsdLoadOptions()))
 }
 ```
 
-### Voir également
+### Voir aussi
 
 * enum [ResizeType](../../../aspose.psd/resizetype/)
 * class [TextLayer](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers](../../textlayer/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

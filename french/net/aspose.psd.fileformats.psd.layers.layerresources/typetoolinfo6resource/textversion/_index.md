@@ -1,27 +1,28 @@
 ---
-title: TypeToolInfo6Resource.TextVersion
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: TypeToolInfo6Resource propriété. Obtient ou définit la version texte.
+title: "TypeToolInfo6Resource.TextVersion"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "TypeToolInfo6Resource propriété. Obtient ou définit la version du texte"
 type: docs
-weight: 130
+weight: 100
 url: /fr/net/aspose.psd.fileformats.psd.layers.layerresources/typetoolinfo6resource/textversion/
 ---
+{{< psd/tize >}}
 ## TypeToolInfo6Resource.TextVersion property
 
-Obtient ou définit la version texte.
+Obtient ou définit la version du texte.
 
 ```csharp
 public short TextVersion { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
-La version texte.
+La version du texte.
 
-### Voir également
+### Voir aussi
 
 * class [TypeToolInfo6Resource](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../typetoolinfo6resource/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

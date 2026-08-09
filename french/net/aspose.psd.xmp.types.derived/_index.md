@@ -1,18 +1,19 @@
 ---
-title: Aspose.PSD.Xmp.Types.Derived
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: Lespace de noms contient des classes qui représentent les valeurs de type dérivées des propriétés XMP.
+title: "Aspose.PSD.Xmp.Types.Derived"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "L'espace de noms contient des classes qui représentent les valeurs de type dérivé des propriétés XMP."
 type: docs
-weight: 700
+weight: 740
 url: /fr/net/aspose.psd.xmp.types.derived/
 ---
-L'espace de noms contient des classes qui représentent les valeurs de type dérivées des propriétés XMP.
+{{< psd/tize >}}
+L'espace de noms contient des classes qui représentent les valeurs de type dérivé des propriétés XMP.
 
-## Des classes
+## Classes
 
-| Classer | La description |
+| Classe | Description |
 | --- | --- |
-| [Rational](./rational/) | Représente XMP Rational. |
+| [Rational](./rational/) | Représente un rationnel XMP. |
 | [RenditionClass](./renditionclass/) | Représente le rendu XMP. |
 | [XmpAgentName](./xmpagentname/) | Représente le nom de l'agent, l'organisation du logiciel, etc. |
 | [XmpChoise&lt;T&gt;](./xmpchoise-1/) | Représente une valeur du vocabulaire des valeurs. |

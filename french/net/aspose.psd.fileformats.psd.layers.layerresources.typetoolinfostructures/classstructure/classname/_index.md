@@ -1,11 +1,12 @@
 ---
-title: ClassStructure.ClassName
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: ClassStructure propriété. Obtient ou définit le nom de la classe.
+title: "ClassStructure.ClassName"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété ClassStructure. Obtient ou définit le nom de la classe"
 type: docs
 weight: 30
 url: /fr/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/classstructure/classname/
 ---
+{{< psd/tize >}}
 ## ClassStructure.ClassName property
 
 Obtient ou définit le nom de la classe.
@@ -14,14 +15,14 @@ Obtient ou définit le nom de la classe.
 public string ClassName { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
 Le nom de la classe.
 
-### Voir également
+### Voir aussi
 
 * class [ClassStructure](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../classstructure/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 

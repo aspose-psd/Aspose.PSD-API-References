@@ -1,11 +1,12 @@
 ---
-title: IAsyncTask.Result
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: IAsyncTask propriété. Obtient le résultat de cette tâche.
+title: "IAsyncTask.Result"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété IAsyncTask. Obtient le résultat de cette tâche"
 type: docs
 weight: 60
 url: /fr/net/aspose.psd.asynctask/iasynctask/result/
 ---
+{{< psd/tize >}}
 ## IAsyncTask.Result property
 
 Obtient le résultat de cette tâche.
@@ -14,14 +15,14 @@ Obtient le résultat de cette tâche.
 public object Result { get; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
 Le résultat de cette tâche.
 
-### Voir également
+### Voir aussi
 
 * interface [IAsyncTask](../)
-* espace de noms [Aspose.PSD.AsyncTask](../../iasynctask/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.AsyncTask](../../../aspose.psd.asynctask/)
+* assembly [Aspose.PSD](../../../)
 
 

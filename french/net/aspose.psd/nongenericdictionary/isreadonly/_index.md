@@ -1,27 +1,28 @@
 ---
-title: NonGenericDictionary.IsReadOnly
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: NonGenericDictionary propriété. Obtient une valeur indiquant si le IDictionary lobjet est en lecture seule.
+title: "NonGenericDictionary.IsReadOnly"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété NonGenericDictionary. Obtient une valeur indiquant si l'objet IDictionary est en lecture seule"
 type: docs
 weight: 40
 url: /fr/net/aspose.psd/nongenericdictionary/isreadonly/
 ---
+{{< psd/tize >}}
 ## NonGenericDictionary.IsReadOnly property
 
-Obtient une valeur indiquant si le IDictionary l'objet est en lecture seule.
+Obtient une valeur indiquant si l'objet IDictionary est en lecture seule.
 
 ```csharp
 public bool IsReadOnly { get; }
 ```
 
-### Return_Value
+### Valeur de retour
 
-vrai si leIDictionary l'objet est en lecture seule ; sinon, faux.
+true si l'objet IDictionary est en lecture seule ; sinon, false.
 
-### Voir également
+### Voir aussi
 
 * class [NonGenericDictionary](../)
-* espace de noms [Aspose.PSD](../../nongenericdictionary/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

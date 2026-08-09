@@ -1,27 +1,28 @@
 ---
-title: RdOptimizerSettings.MinQ
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: RdOptimizerSettings propriété. Obtient la valeur de quantification minimale autorisée.
+title: "RdOptimizerSettings.MinQ"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "RdOptimizerSettings propriété. Obtient la valeur minimale de quantification autorisée"
 type: docs
 weight: 80
 url: /fr/net/aspose.psd.imageoptions/rdoptimizersettings/minq/
 ---
+{{< psd/tize >}}
 ## RdOptimizerSettings.MinQ property
 
-Obtient la valeur de quantification minimale autorisée.
+Obtient la valeur minimale de quantification autorisée.
 
 ```csharp
 public int MinQ { get; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
-La valeur de quantification minimale autorisée.
+La valeur minimale minimale de quantification autorisée.
 
-### Voir également
+### Voir aussi
 
 * class [RdOptimizerSettings](../)
-* espace de noms [Aspose.PSD.ImageOptions](../../rdoptimizersettings/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

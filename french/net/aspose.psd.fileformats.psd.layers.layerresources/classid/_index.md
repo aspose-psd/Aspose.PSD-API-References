@@ -1,14 +1,15 @@
 ---
-title: Class ClassID
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.ClassID classe. Lobjet ID de classe PSD.
+title: "Classe ClassID"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Aspose.PSD.FileFormats.Psd.Layers.LayerResources.ClassID class. L'objet PSD Class ID"
 type: docs
-weight: 2360
+weight: 2620
 url: /fr/net/aspose.psd.fileformats.psd.layers.layerresources/classid/
 ---
+{{< psd/tize >}}
 ## ClassID class
 
-L'objet ID de classe PSD.
+L'objet PSD Class ID.
 
 ```csharp
 public class ClassID
@@ -16,32 +17,32 @@ public class ClassID
 
 ## Constructeurs
 
-| Nom | La description |
+| Nom | Description |
 | --- | --- |
-| [ClassID](classid/#constructor)(byte[]) | Initialise une nouvelle instance du`ClassID` classe. |
-| [ClassID](classid/#constructor_2)(int) | Initialise une nouvelle instance du`ClassID` classe. |
-| [ClassID](classid/#constructor_3)(string) | Initialise une nouvelle instance du`ClassID` classe. |
-| [ClassID](classid/#constructor_5)(uint) | Initialise une nouvelle instance du`ClassID` classe. |
-| [ClassID](classid/#constructor_1)(byte[], bool) | Initialise une nouvelle instance du`ClassID` classe. |
-| [ClassID](classid/#constructor_4)(string, bool) | Initialise une nouvelle instance du`ClassID` classe. |
+| [ClassID](classid/#constructor)(byte[]) | Initialise une nouvelle instance de la classe `ClassID`. |
+| [ClassID](classid/#constructor_2)(int) | Initialise une nouvelle instance de la classe `ClassID`. |
+| [ClassID](classid/#constructor_3)(string) | Initialise une nouvelle instance de la classe `ClassID`. |
+| [ClassID](classid/#constructor_5)(uint) | Initialise une nouvelle instance de la classe `ClassID`. |
+| [ClassID](classid/#constructor_1)(byte[], bool) | Initialise une nouvelle instance de la classe `ClassID`. |
+| [ClassID](classid/#constructor_4)(string, bool) | Initialise une nouvelle instance de la classe `ClassID`. |
 
 ## Propriétés
 
-| Nom | La description |
+| Nom | Description |
 | --- | --- |
 | [Bytes](../../aspose.psd.fileformats.psd.layers.layerresources/classid/bytes/) { get; } | Obtient les octets représentant l'ID de classe. |
-| [ClassName](../../aspose.psd.fileformats.psd.layers.layerresources/classid/classname/) { get; } | Récupère le nom de la classe sous forme de codage ASCII. |
+| [ClassName](../../aspose.psd.fileformats.psd.layers.layerresources/classid/classname/) { get; } | Obtient le nom de la classe au format ASCII. |
 | [Length](../../aspose.psd.fileformats.psd.layers.layerresources/classid/length/) { get; } | Obtient la longueur de l'ID de classe en octets. |
 
 ## Méthodes
 
-| Nom | La description |
+| Nom | Description |
 | --- | --- |
-| [Save](../../aspose.psd.fileformats.psd.layers.layerresources/classid/save/)(StreamContainer) | Enregistre les informations de classe dans le conteneur de flux spécifié. |
+| [Save](../../aspose.psd.fileformats.psd.layers.layerresources/classid/save/)(StreamContainer) | Enregistre les informations de la classe dans le conteneur de flux spécifié. |
 
-### Voir également
+### Voir aussi
 
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
-* Assemblée [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../)
 
 

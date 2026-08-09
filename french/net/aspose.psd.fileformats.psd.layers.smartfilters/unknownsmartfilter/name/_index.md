@@ -1,11 +1,12 @@
 ---
-title: UnknownSmartFilter.Name
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: UnknownSmartFilter propriété. Obtient le nom du filtre intelligent.
+title: "UnknownSmartFilter.Name"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété UnknownSmartFilter. Obtient le nom du filtre intelligent"
 type: docs
 weight: 20
 url: /fr/net/aspose.psd.fileformats.psd.layers.smartfilters/unknownsmartfilter/name/
 ---
+{{< psd/tize >}}
 ## UnknownSmartFilter.Name property
 
 Obtient le nom du filtre intelligent.
@@ -14,10 +15,10 @@ Obtient le nom du filtre intelligent.
 public override string Name { get; }
 ```
 
-### Voir également
+### Voir aussi
 
 * class [UnknownSmartFilter](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.SmartFilters](../../unknownsmartfilter/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.SmartFilters](../../../aspose.psd.fileformats.psd.layers.smartfilters/)
+* assembly [Aspose.PSD](../../../)
 
 

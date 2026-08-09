@@ -1,14 +1,15 @@
 ---
-title: Class ColorHalftoneInformationResource
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: Aspose.PSD.FileFormats.Psd.Resources.ColorHalftoneInformationResource classe. Ressource de demiteintes
+title: "Classe ColorHalftoneInformationResource"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Aspose.PSD.FileFormats.Psd.Resources.ColorHalftoneInformationResource classe. Ressource de tramage"
 type: docs
-weight: 3670
+weight: 4130
 url: /fr/net/aspose.psd.fileformats.psd.resources/colorhalftoneinformationresource/
 ---
+{{< psd/tize >}}
 ## ColorHalftoneInformationResource class
 
-Ressource de demi-teintes
+Ressource Halftoning
 
 ```csharp
 public sealed class ColorHalftoneInformationResource : ResourceBlock
@@ -16,33 +17,33 @@ public sealed class ColorHalftoneInformationResource : ResourceBlock
 
 ## Constructeurs
 
-| Nom | La description |
+| Nom | Description |
 | --- | --- |
-| [ColorHalftoneInformationResource](colorhalftoneinformationresource/)() | Default_Constructor |
+| [ColorHalftoneInformationResource](colorhalftoneinformationresource/)() | Le constructeur par défaut. |
 
 ## Propriétés
 
-| Nom | La description |
+| Nom | Description |
 | --- | --- |
-| override [DataSize](../../aspose.psd.fileformats.psd.resources/colorhalftoneinformationresource/datasize/) { get; } | Obtient la taille des données de ressource en octets. |
-| [HalftoneData](../../aspose.psd.fileformats.psd.resources/colorhalftoneinformationresource/halftonedata/) { get; set; } | Obtient ou définit les données de demi-teintes. |
+| override [DataSize](../../aspose.psd.fileformats.psd.resources/colorhalftoneinformationresource/datasize/) { get; } | Obtient la taille des données de la ressource en octets. |
+| [HalftoneData](../../aspose.psd.fileformats.psd.resources/colorhalftoneinformationresource/halftonedata/) { get; set; } | Obtient ou définit les données de tramage. |
 | [ID](../../aspose.psd.fileformats.psd/resourceblock/id/) { get; set; } | Obtient ou définit l'identifiant unique de la ressource. |
 | override [MinimalVersion](../../aspose.psd.fileformats.psd.resources/colorhalftoneinformationresource/minimalversion/) { get; } | Obtient la version PSD minimale requise. |
-| [Name](../../aspose.psd.fileformats.psd/resourceblock/name/) { get; set; } | Obtient ou définit le nom de la ressource. Chaîne Pascal, rembourrée pour rendre la taille égale (un nom nul se compose de deux octets de 0). |
-| [Signature](../../aspose.psd.fileformats.psd/resourceblock/signature/) { get; } | Obtient la signature de la ressource. Devrait toujours être '8BIM'. |
-| [Size](../../aspose.psd.fileformats.psd/resourceblock/size/) { get; } | Obtient la taille du bloc de ressources en octets, y compris ses données. |
+| [Name](../../aspose.psd.fileformats.psd/resourceblock/name/) { get; set; } | Obtient ou définit le nom de la ressource. Chaîne Pascal, remplie pour que la taille soit paire (un nom nul consiste en deux octets de 0). |
+| [Signature](../../aspose.psd.fileformats.psd/resourceblock/signature/) { get; } | Obtient la signature de la ressource. Doit toujours être '8BIM'. |
+| [Size](../../aspose.psd.fileformats.psd/resourceblock/size/) { get; } | Obtient la taille du bloc de ressource en octets, y compris ses données. |
 
 ## Méthodes
 
-| Nom | La description |
+| Nom | Description |
 | --- | --- |
-| [Save](../../aspose.psd.fileformats.psd/resourceblock/save/)(StreamContainer) | Enregistre le bloc de ressources dans le flux spécifié. |
-| virtual [ValidateValues](../../aspose.psd.fileformats.psd/resourceblock/validatevalues/)() | Valide les valeurs des ressources. |
+| [Save](../../aspose.psd.fileformats.psd/resourceblock/save/)(StreamContainer) | Enregistre le bloc de ressource dans le flux spécifié. |
+| virtual [ValidateValues](../../aspose.psd.fileformats.psd/resourceblock/validatevalues/)() | Valide les valeurs de la ressource. |
 
-### Voir également
+### Voir aussi
 
 * class [ResourceBlock](../../aspose.psd.fileformats.psd/resourceblock/)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Resources](../../aspose.psd.fileformats.psd.resources/)
-* Assemblée [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../)
 
 

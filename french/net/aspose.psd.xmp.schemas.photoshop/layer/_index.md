@@ -1,11 +1,12 @@
 ---
-title: Class Layer
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: Aspose.PSD.Xmp.Schemas.Photoshop.Layer classe. Représente le calque de texte Photoshop.
+title: "Classe Layer"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Classe Aspose.PSD.Xmp.Schemas.Photoshop.Layer. Représente un calque de texte Photoshop"
 type: docs
-weight: 5810
+weight: 6310
 url: /fr/net/aspose.psd.xmp.schemas.photoshop/layer/
 ---
+{{< psd/tize >}}
 ## Layer class
 
 Représente le calque de texte Photoshop.
@@ -16,31 +17,31 @@ public class Layer : XmpTypeBase, IEquatable<Layer>
 
 ## Constructeurs
 
-| Nom | La description |
+| Nom | Description |
 | --- | --- |
-| [Layer](layer/#constructor)() | Initialise une nouvelle instance du`Layer` classe. |
-| [Layer](layer/#constructor_1)(string, string) | Initialise une nouvelle instance du`Layer` classe. |
+| [Layer](layer/#constructor)() | Initialise une nouvelle instance de la classe `Layer`. |
+| [Layer](layer/#constructor_1)(string, string) | Initialise une nouvelle instance de la classe `Layer`. |
 
 ## Propriétés
 
-| Nom | La description |
+| Nom | Description |
 | --- | --- |
 | [Name](../../aspose.psd.xmp.schemas.photoshop/layer/name/) { get; set; } | Obtient ou définit le nom du calque de texte. |
-| [Text](../../aspose.psd.xmp.schemas.photoshop/layer/text/) { get; set; } | Obtient ou définit le contenu textuel du calque. |
+| [Text](../../aspose.psd.xmp.schemas.photoshop/layer/text/) { get; set; } | Obtient ou définit le contenu texte du calque. |
 
 ## Méthodes
 
-| Nom | La description |
+| Nom | Description |
 | --- | --- |
-| [Equals](../../aspose.psd.xmp.schemas.photoshop/layer/equals/#equals)(Layer) | Indique si l'objet courant est égal à un autre objet du même type. |
-| override [Equals](../../aspose.psd.xmp.schemas.photoshop/layer/equals/#equals_1)(object) | Détermine si la valeur spécifiéeObject , est égal à cette instance. |
+| [Equals](../../aspose.psd.xmp.schemas.photoshop/layer/equals/#equals)(Layer) | Indique si l'objet actuel est égal à un autre objet du même type. |
+| override [Equals](../../aspose.psd.xmp.schemas.photoshop/layer/equals/#equals_1)(object) | Détermine si l'objet spécifié est égal à cette instance. |
 | override [GetHashCode](../../aspose.psd.xmp.schemas.photoshop/layer/gethashcode/)() | Renvoie un code de hachage pour cette instance. |
-| override [GetXmpRepresentation](../../aspose.psd.xmp.schemas.photoshop/layer/getxmprepresentation/)() | Renvoie la valeur contenue dans la chaîne au format XMP. |
+| override [GetXmpRepresentation](../../aspose.psd.xmp.schemas.photoshop/layer/getxmprepresentation/)() | Renvoie la valeur de chaîne contenue au format XMP. |
 
-### Voir également
+### Voir aussi
 
 * class [XmpTypeBase](../../aspose.psd.xmp.types/xmptypebase/)
-* espace de noms [Aspose.PSD.Xmp.Schemas.Photoshop](../../aspose.psd.xmp.schemas.photoshop/)
-* Assemblée [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Xmp.Schemas.Photoshop](../../aspose.psd.xmp.schemas.photoshop/)
+* assembly [Aspose.PSD](../../)
 
 

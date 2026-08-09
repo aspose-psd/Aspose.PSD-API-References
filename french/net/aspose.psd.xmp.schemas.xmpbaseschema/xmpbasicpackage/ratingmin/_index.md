@@ -1,23 +1,24 @@
 ---
-title: XmpBasicPackage.RatingMin
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: XmpBasicPackage champ. Valeur minimale de notation.
+title: "XmpBasicPackage.RatingMin"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Champ XmpBasicPackage. Valeur minimale de la note"
 type: docs
-weight: 110
+weight: 140
 url: /fr/net/aspose.psd.xmp.schemas.xmpbaseschema/xmpbasicpackage/ratingmin/
 ---
+{{< psd/tize >}}
 ## XmpBasicPackage.RatingMin field
 
-Valeur minimale de notation.
+Valeur minimale de la note.
 
 ```csharp
 public const int RatingMin;
 ```
 
-### Voir également
+### Voir aussi
 
 * class [XmpBasicPackage](../)
-* espace de noms [Aspose.PSD.Xmp.Schemas.XmpBaseSchema](../../xmpbasicpackage/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpBaseSchema](../../../aspose.psd.xmp.schemas.xmpbaseschema/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,57 +1,58 @@
 ---
-title: CmykColorHelper.ToArgb
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: CmykColorHelper méthode. La conversion des couleurs CMJN en couleurs ARGB.
+title: "CmykColorHelper.ToArgb"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Méthode CmykColorHelper. La conversion des couleurs CMYK en couleurs ARGB"
 type: docs
 weight: 60
 url: /fr/net/aspose.psd/cmykcolorhelper/toargb/
 ---
+{{< psd/tize >}}
 ## ToArgb(int[]) {#toargb_1}
 
-La conversion des couleurs CMJN en couleurs ARGB.
+La conversion de couleurs CMYK en couleurs ARGB.
 
 ```csharp
 public static Color[] ToArgb(int[] cmykPixels)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
-| cmykPixels | Int32[] | Les couleurs CMJN présentées sous forme de valeurs entières 32 bits. |
+| cmykPixels | Int32[] | Les couleurs CMYK présentées sous forme de valeurs entières 32 bits. |
 
-### Return_Value
+### Valeur de retour
 
 Les couleurs ARGB.
 
-### Voir également
+### Voir aussi
 
 * struct [Color](../../color/)
 * class [CmykColorHelper](../)
-* espace de noms [Aspose.PSD](../../cmykcolorhelper/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## ToArgb(int) {#toargb}
 
-La conversion de la couleur CMJN en couleur ARGB.
+La conversion d'une couleur CMYK en couleur ARGB.
 
 ```csharp
 public static Color ToArgb(int cmykPixel)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
-| cmykPixel | Int32 | La couleur CMJN présentée sous la forme d'une valeur entière 32 bits. |
+| cmykPixel | Int32 | La couleur CMYK présentée sous forme de valeur entière 32 bits. |
 
-### Return_Value
+### Valeur de retour
 
 La couleur ARGB.
 
-### Voir également
+### Voir aussi
 
 * struct [Color](../../color/)
 * class [CmykColorHelper](../)
-* espace de noms [Aspose.PSD](../../cmykcolorhelper/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

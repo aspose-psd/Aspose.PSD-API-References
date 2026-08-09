@@ -1,11 +1,12 @@
 ---
-title: UnitStructure.Value
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: UnitStructure propriété. Obtient ou définit la valeur.
+title: "UnitStructure.Value"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété UnitStructure. Obtient ou définit la valeur"
 type: docs
 weight: 50
 url: /fr/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/unitstructure/value/
 ---
+{{< psd/tize >}}
 ## UnitStructure.Value property
 
 Obtient ou définit la valeur.
@@ -14,14 +15,14 @@ Obtient ou définit la valeur.
 public double Value { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
 La valeur.
 
-### Voir également
+### Voir aussi
 
 * class [UnitStructure](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../unitstructure/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 

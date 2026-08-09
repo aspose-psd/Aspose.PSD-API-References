@@ -1,28 +1,29 @@
 ---
-title: ImageAttributes.SetBrushRemapTable
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: ImageAttributes méthode. Définit la table de remappage des couleurs pour la catégorie de pinceaux.
+title: "ImageAttributes.SetBrushRemapTable"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Méthode ImageAttributes. Définit la table de remappage des couleurs pour la catégorie de pinceau"
 type: docs
 weight: 110
 url: /fr/net/aspose.psd/imageattributes/setbrushremaptable/
 ---
+{{< psd/tize >}}
 ## ImageAttributes.SetBrushRemapTable method
 
-Définit la table de remappage des couleurs pour la catégorie de pinceaux.
+Définit la table de remappage des couleurs pour la catégorie de pinceau.
 
 ```csharp
 public void SetBrushRemapTable(ColorMap[] map)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
-| map | ColorMap[] | Un étalage de[`ColorMap`](../../colormap/) objets. |
+| map | ColorMap[] | Un tableau d'objets [`ColorMap`](../../colormap/). |
 
-### Voir également
+### Voir aussi
 
 * class [ColorMap](../../colormap/)
 * class [ImageAttributes](../)
-* espace de noms [Aspose.PSD](../../imageattributes/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,32 +1,33 @@
 ---
-title: ColorBalanceAdjustmentLayer.MidtonesMagentaGreenBalance
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: ColorBalanceAdjustmentLayer propriété. Obtient ou définit léquilibre entre les tons moyens le magenta et le vert.
+title: "ColorBalanceAdjustmentLayer.MidtonesMagentaGreenBalance"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété ColorBalanceAdjustmentLayer. Obtient ou définit l'équilibre Magenta Vert des tons moyens."
 type: docs
 weight: 50
 url: /fr/net/aspose.psd.fileformats.psd.layers.adjustmentlayers/colorbalanceadjustmentlayer/midtonesmagentagreenbalance/
 ---
+{{< psd/tize >}}
 ## ColorBalanceAdjustmentLayer.MidtonesMagentaGreenBalance property
 
-Obtient ou définit l'équilibre entre les tons moyens, le magenta et le vert.
+Obtient ou définit le Midtones Magenta Green Balance.
 
 ```csharp
 public short MidtonesMagentaGreenBalance { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
-L'équilibre des tons moyens magenta vert.
+L'équilibre Magenta Vert des tons moyens.
 
 ### Exceptions
 
 | exception | condition |
 | --- | --- |
-| ArgumentOutOfRangeException | Midtones Magenta Green Balance doit être compris entre -100 et +100. |
+| ArgumentOutOfRangeException | L'équilibre Magenta Vert des tons moyens doit être compris entre -100 et +100. |
 
-### Exemples
+## Exemples
 
-Le code suivant illustre la prise en charge de ColorBalanceAdjustmentLayer.
+Le code suivant démontre la prise en charge de la ColorBalanceAdjustmentLayer.
 
 ```csharp
 [C#]
@@ -57,10 +58,10 @@ using (var im = (PsdImage)Image.Load(filePath))
 }
 ```
 
-### Voir également
+### Voir aussi
 
 * class [ColorBalanceAdjustmentLayer](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../colorbalanceadjustmentlayer/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/)
+* assembly [Aspose.PSD](../../../)
 
 

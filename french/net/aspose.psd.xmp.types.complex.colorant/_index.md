@@ -1,24 +1,25 @@
 ---
-title: Aspose.PSD.Xmp.Types.Complex.Colorant
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: Lespace de noms contient des classes qui représentent les structures contenant les caractéristiques dun colorant swatch utilisé dans un document.
+title: "Aspose.PSD.Xmp.Types.Complex.Colorant"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "L'espace de noms contient des classes qui représentent les structures contenant les caractéristiques d'un échantillon de colorant utilisé dans un document"
 type: docs
-weight: 630
+weight: 670
 url: /fr/net/aspose.psd.xmp.types.complex.colorant/
 ---
-L'espace de noms contient des classes qui représentent les structures contenant les caractéristiques d'un colorant (swatch) utilisé dans un document.
+{{< psd/tize >}}
+L'espace de noms contient des classes qui représentent les structures contenant les caractéristiques d'un colorant (échantillon) utilisé dans un document.
 
-## Des classes
+## Classes
 
-| Classer | La description |
+| Classe | Description |
 | --- | --- |
 | [ColorantBase](./colorantbase/) | Représente le type de colorant XMP. |
-| [ColorantCmyk](./colorantcmyk/) | Représente le colorant CMJN. |
+| [ColorantCmyk](./colorantcmyk/) | Représente le colorant CMYK. |
 | [ColorantLab](./colorantlab/) | Représente le colorant LAB. |
-| [ColorantRgb](./colorantrgb/) | Représente le colorant RVB. |
+| [ColorantRgb](./colorantrgb/) | Représente le colorant RGB. |
 ## Énumération
 
-| Énumération | La description |
+| Énumération | Description |
 | --- | --- |
 | [ColorMode](./colormode/) | Représente le mode couleur. |
 | [ColorType](./colortype/) | Type de couleur. |

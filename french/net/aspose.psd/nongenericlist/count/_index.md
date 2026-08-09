@@ -1,23 +1,24 @@
 ---
-title: NonGenericList.Count
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: NonGenericList propriété. Obtient le nombre déléments contenus dans leICollection .
+title: "NonGenericList.Count"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "NonGenericList propriété. Obtient le nombre d'éléments contenus dans l'ICollection"
 type: docs
 weight: 20
 url: /fr/net/aspose.psd/nongenericlist/count/
 ---
+{{< psd/tize >}}
 ## NonGenericList.Count property
 
-Obtient le nombre d'éléments contenus dans leICollection .
+Obtient le nombre d'éléments contenus dans l'ICollection.
 
 ```csharp
 public int Count { get; }
 ```
 
-### Voir également
+### Voir aussi
 
 * class [NonGenericList](../)
-* espace de noms [Aspose.PSD](../../nongenericlist/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

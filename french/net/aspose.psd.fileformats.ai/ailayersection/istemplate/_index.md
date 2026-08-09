@@ -1,26 +1,27 @@
 ---
-title: AiLayerSection.IsTemplate
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: AiLayerSection propriété. Obtient ou définit une valeur indiquant si ce calque est un calque de modèle.
+title: "AiLayerSection.IsTemplate"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété AiLayerSection. Obtient ou définit une valeur indiquant si cette couche est une couche modèle"
 type: docs
-weight: 100
+weight: 120
 url: /fr/net/aspose.psd.fileformats.ai/ailayersection/istemplate/
 ---
+{{< psd/tize >}}
 ## AiLayerSection.IsTemplate property
 
-Obtient ou définit une valeur indiquant si ce calque est un calque de modèle.
+Obtient ou définit une valeur indiquant si ce calque est un calque modèle.
 
 ```csharp
 public bool IsTemplate { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
-`vrai` si ce calque est un modèle ; sinon,`FAUX` .
+`true` si cette couche est un modèle ; sinon, `false`.
 
-### Exemples
+## Exemples
 
-L'exemple suivant illustre la prise en charge des calques dans les fichiers au format AI.
+L'exemple suivant montre la prise en charge des calques dans les fichiers au format AI.
 
 ```csharp
 [C#]
@@ -70,10 +71,10 @@ using (AiImage image = (AiImage)Image.Load(sourceFilePath))
 }
 ```
 
-### Voir également
+### Voir aussi
 
 * class [AiLayerSection](../)
-* espace de noms [Aspose.PSD.FileFormats.Ai](../../ailayersection/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,70 +1,71 @@
 ---
-title: XmpBoolean.XmpBoolean
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: XmpBoolean constructeur. Initialise une nouvelle instance duXmpBoolean classe basée sur la valeur booléenne.
+title: "XmpBoolean.XmpBoolean"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Constructeur XmpBoolean. Initialise une nouvelle instance de la classe XmpBoolean basée sur une valeur booléenne"
 type: docs
 weight: 10
 url: /fr/net/aspose.psd.xmp.types.basic/xmpboolean/xmpboolean/
 ---
+{{< psd/tize >}}
 ## XmpBoolean(bool) {#constructor_1}
 
-Initialise une nouvelle instance du[`XmpBoolean`](../) classe basée sur la valeur booléenne.
+Initialise une nouvelle instance de la classe [`XmpBoolean`](../) basée sur une valeur booléenne.
 
 ```csharp
 public XmpBoolean(bool value)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
-| value | Boolean | La valeur booléenne. Les valeurs autorisées sont True ou False. |
+| valeur | Booléen | La valeur booléenne. Les valeurs autorisées sont True ou False. |
 
-### Voir également
+### Voir aussi
 
 * class [XmpBoolean](../)
-* espace de noms [Aspose.PSD.Xmp.Types.Basic](../../xmpboolean/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Basic](../../../aspose.psd.xmp.types.basic/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## XmpBoolean() {#constructor}
 
-Initialise une nouvelle instance du[`XmpBoolean`](../) classe avec la valeur par défaut.
+Initialise une nouvelle instance de la classe [`XmpBoolean`](../) avec la valeur par défaut.
 
 ```csharp
 public XmpBoolean()
 ```
 
-### Voir également
+### Voir aussi
 
 * class [XmpBoolean](../)
-* espace de noms [Aspose.PSD.Xmp.Types.Basic](../../xmpboolean/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Basic](../../../aspose.psd.xmp.types.basic/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## XmpBoolean(string) {#constructor_2}
 
-Initialise une nouvelle instance du[`XmpBoolean`](../) classe.
+Initialise une nouvelle instance de la classe [`XmpBoolean`](../).
 
 ```csharp
 public XmpBoolean(string value)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
-| value | String | La valeur. |
+| valeur | String | La valeur. |
 
 ### Exceptions
 
 | exception | condition |
 | --- | --- |
 | ArgumentNullException | valeur |
-| ArgumentException | Valeur de chaîne non valide ; valeur |
+| ArgumentException | Valeur de chaîne invalide;value |
 
-### Voir également
+### Voir aussi
 
 * class [XmpBoolean](../)
-* espace de noms [Aspose.PSD.Xmp.Types.Basic](../../xmpboolean/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Basic](../../../aspose.psd.xmp.types.basic/)
+* assembly [Aspose.PSD](../../../)
 
 

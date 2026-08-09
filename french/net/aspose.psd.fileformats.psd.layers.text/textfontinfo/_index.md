@@ -1,11 +1,12 @@
 ---
-title: Class TextFontInfo
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: Aspose.PSD.FileFormats.Psd.Layers.Text.TextFontInfo classe. Représente les informations sur la police. Cette classe ne peut pas être héritée.
+title: "Classe TextFontInfo"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Aspose.PSD.FileFormats.Psd.Layers.Text.TextFontInfo classe. Représente les informations sur la police. Cette classe ne peut pas être héritée"
 type: docs
-weight: 3550
+weight: 3970
 url: /fr/net/aspose.psd.fileformats.psd.layers.text/textfontinfo/
 ---
+{{< psd/tize >}}
 ## TextFontInfo class
 
 Représente les informations sur la police. Cette classe ne peut pas être héritée.
@@ -16,18 +17,18 @@ public sealed class TextFontInfo
 
 ## Propriétés
 
-| Nom | La description |
+| Nom | Description |
 | --- | --- |
-| [FamilyName](../../aspose.psd.fileformats.psd.layers.text/textfontinfo/familyname/) { get; } | Obtient le nom de la famille de polices |
+| [FamilyName](../../aspose.psd.fileformats.psd.layers.text/textfontinfo/familyname/) { get; } | Obtient le nom de la famille de police |
 | [FontType](../../aspose.psd.fileformats.psd.layers.text/textfontinfo/fonttype/) { get; } | Obtient le type de la police. |
 | [PostScriptName](../../aspose.psd.fileformats.psd.layers.text/textfontinfo/postscriptname/) { get; } | Obtient le nom PostScript |
 | [Script](../../aspose.psd.fileformats.psd.layers.text/textfontinfo/script/) { get; } | Obtient le script. |
-| [Style](../../aspose.psd.fileformats.psd.layers.text/textfontinfo/style/) { get; } | Obtient le style de police analysé à partir du nom de la sous-famille |
-| [Synthetic](../../aspose.psd.fileformats.psd.layers.text/textfontinfo/synthetic/) { get; } | Obtient une valeur indiquant si celaFontInformation est synthétique. |
+| [Style](../../aspose.psd.fileformats.psd.layers.text/textfontinfo/style/) { get; } | Obtient le style de police analysé à partir du nom de sous-famille |
+| [Synthetic](../../aspose.psd.fileformats.psd.layers.text/textfontinfo/synthetic/) { get; } | Obtient une valeur indiquant si cette FontInformation est synthétique. |
 
-### Voir également
+### Voir aussi
 
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.Text](../../aspose.psd.fileformats.psd.layers.text/)
-* Assemblée [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.Text](../../aspose.psd.fileformats.psd.layers.text/)
+* assembly [Aspose.PSD](../../)
 
 

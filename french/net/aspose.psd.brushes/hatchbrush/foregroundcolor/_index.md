@@ -1,28 +1,29 @@
 ---
-title: HatchBrush.ForegroundColor
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: HatchBrush propriété. Obtient ou définit la couleur des lignes hachurées.
+title: "HatchBrush.ForegroundColor"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété HatchBrush. Obtient ou définit la couleur des lignes de hachure"
 type: docs
 weight: 30
 url: /fr/net/aspose.psd.brushes/hatchbrush/foregroundcolor/
 ---
+{{< psd/tize >}}
 ## HatchBrush.ForegroundColor property
 
-Obtient ou définit la couleur des lignes hachurées.
+Obtient ou définit la couleur des lignes de hachure.
 
 ```csharp
 public Color ForegroundColor { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
-La couleur des lignes hachurées.
+La couleur des lignes de hachure.
 
-### Voir également
+### Voir aussi
 
 * struct [Color](../../../aspose.psd/color/)
 * class [HatchBrush](../)
-* espace de noms [Aspose.PSD.Brushes](../../hatchbrush/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
+* assembly [Aspose.PSD](../../../)
 
 

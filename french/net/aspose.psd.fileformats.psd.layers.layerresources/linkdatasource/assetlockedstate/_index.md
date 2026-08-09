@@ -1,22 +1,23 @@
 ---
-title: LinkDataSource.AssetLockedState
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: LinkDataSource propriété. Obtient ou définit une valeur indiquant si lactif PSD est verrouillé. Létat verrouillé de lactif pour les actifs des bibliothèques Adobe Photoshop СС.
+title: "LinkDataSource.AssetLockedState"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété LinkDataSource. Obtient ou définit une valeur indiquant si l'actif PSD est verrouillé. L'état de verrouillage de l'actif pour les actifs Adobe Photoshop СС Libraries"
 type: docs
 weight: 10
 url: /fr/net/aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/assetlockedstate/
 ---
+{{< psd/tize >}}
 ## LinkDataSource.AssetLockedState property
 
-Obtient ou définit une valeur indiquant si l'actif PSD est verrouillé. L'état verrouillé de l'actif, pour les actifs des bibliothèques Adobe® Photoshop® СС.
+Obtient ou définit une valeur indiquant si l'actif PSD est verrouillé. L'état de verrouillage de l'actif, pour les actifs Adobe® Photoshop® СС Libraries.
 
 ```csharp
 public bool AssetLockedState { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
-`vrai` si la ressource Adobe® Photoshop® est verrouillée ; sinon,`FAUX` .
+`true` si l'actif Adobe® Photoshop® est verrouillé ; sinon, `false`.
 
 ### Exceptions
 
@@ -24,10 +25,10 @@ public bool AssetLockedState { get; set; }
 | --- | --- |
 | [PsdImageException](../../../aspose.psd.coreexceptions.imageformats/psdimageexception/) | Vous ne pouvez pas accéder à la propriété AssetLockedState, elle n'est disponible que pour la source de données liFE ou liFE avec la version 7. |
 
-### Voir également
+### Voir aussi
 
 * class [LinkDataSource](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../linkdatasource/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: VectorShapeRadiiRectangle.QuadVersion
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: VectorShapeRadiiRectangle propriété. Obtient ou définit la version quadruple de la valeur unitaire.
+title: "VectorShapeRadiiRectangle.QuadVersion"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété VectorShapeRadiiRectangle. Obtient ou définit la version quad de la valeur d'unité"
 type: docs
 weight: 40
 url: /fr/net/aspose.psd.fileformats.core.vectorpaths/vectorshaperadiirectangle/quadversion/
 ---
+{{< psd/tize >}}
 ## VectorShapeRadiiRectangle.QuadVersion property
 
-Obtient ou définit la version quadruple de la valeur unitaire.
+Obtient ou définit la version quad de la valeur d'unité.
 
 ```csharp
 public int QuadVersion { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
-La version quadruple.
+La version quad.
 
-### Voir également
+### Voir aussi
 
 * class [VectorShapeRadiiRectangle](../)
-* espace de noms [Aspose.PSD.FileFormats.Core.VectorPaths](../../vectorshaperadiirectangle/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: Class OuterGlowEffect
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerEffects.OuterGlowEffect classe. Effet de couche de lueur externe
+title: "Classe OuterGlowEffect"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Aspose.PSD.FileFormats.Psd.Layers.LayerEffects.OuterGlowEffect classe. Effet de calque Outer Glow."
 type: docs
-weight: 2170
+weight: 2370
 url: /fr/net/aspose.psd.fileformats.psd.layers.layereffects/outergloweffect/
 ---
+{{< psd/tize >}}
 ## OuterGlowEffect class
 
-Effet de couche de lueur externe
+Effet de calque de lueur externe.
 
 ```csharp
 public class OuterGlowEffect : ILayerEffect
@@ -16,25 +17,31 @@ public class OuterGlowEffect : ILayerEffect
 
 ## Propriétés
 
-| Nom | La description |
+| Nom | Description |
 | --- | --- |
 | [BlendMode](../../aspose.psd.fileformats.psd.layers.layereffects/outergloweffect/blendmode/) { get; set; } | Obtient ou définit le mode de fusion. |
-| [EffectType](../../aspose.psd.fileformats.psd.layers.layereffects/outergloweffect/effecttype/) { get; } | Obtient un type d'effet type |
+| [EffectType](../../aspose.psd.fileformats.psd.layers.layereffects/outergloweffect/effecttype/) { get; } | Obtient un type d'effet |
 | [FillColor](../../aspose.psd.fileformats.psd.layers.layereffects/outergloweffect/fillcolor/) { get; set; } | Obtient ou définit la couleur. |
 | [Intensity](../../aspose.psd.fileformats.psd.layers.layereffects/outergloweffect/intensity/) { get; set; } | Obtient ou définit l'angle en degrés. |
-| [IsAntiAliasing](../../aspose.psd.fileformats.psd.layers.layereffects/outergloweffect/isantialiasing/) { get; set; } | Obtient ou définit l'effet anticrénelage activé |
+| [IsAntiAliasing](../../aspose.psd.fileformats.psd.layers.layereffects/outergloweffect/isantialiasing/) { get; set; } | Obtient ou définit l'effet AntiAliasing activé |
 | [IsSoftBlend](../../aspose.psd.fileformats.psd.layers.layereffects/outergloweffect/issoftblend/) { get; set; } | Obtient ou définit une valeur indiquant si [knocks out]. |
 | [IsVisible](../../aspose.psd.fileformats.psd.layers.layereffects/outergloweffect/isvisible/) { get; set; } | Obtient ou définit une valeur indiquant si cette instance est visible. |
 | [Jitter](../../aspose.psd.fileformats.psd.layers.layereffects/outergloweffect/jitter/) { get; set; } | Obtient ou définit le bruit. |
 | [Noise](../../aspose.psd.fileformats.psd.layers.layereffects/outergloweffect/noise/) { get; set; } | Obtient ou définit le bruit. |
 | [Opacity](../../aspose.psd.fileformats.psd.layers.layereffects/outergloweffect/opacity/) { get; set; } | Obtient ou définit l'opacité. |
 | [Range](../../aspose.psd.fileformats.psd.layers.layereffects/outergloweffect/range/) { get; set; } | Obtient ou définit le bruit. |
-| [Size](../../aspose.psd.fileformats.psd.layers.layereffects/outergloweffect/size/) { get; } | Obtient la valeur de flou en pixels. |
-| [Spread](../../aspose.psd.fileformats.psd.layers.layereffects/outergloweffect/spread/) { get; set; } | Obtient ou définit l'intensité sous forme de pourcentage. |
+| [Size](../../aspose.psd.fileformats.psd.layers.layereffects/outergloweffect/size/) { get; set; } | Obtient la valeur de flou en pixels. |
+| [Spread](../../aspose.psd.fileformats.psd.layers.layereffects/outergloweffect/spread/) { get; set; } | Obtient ou définit l'intensité en pourcentage. |
 
-### Exemples
+## Méthodes
 
-Le code suivant illustre la prise en charge d'OuterGlowEffect.
+| Nom | Description |
+| --- | --- |
+| [GetEffectBounds](../../aspose.psd.fileformats.psd.layers.layereffects/outergloweffect/geteffectbounds/)(Rectangle, int) | Calcule et obtient les limites des pixels d'effet basées sur les limites des pixels du calque d'entrée. |
+
+## Exemples
+
+Le code suivant montre la prise en charge de OuterGlowEffect.
 
 ```csharp
 [C#]
@@ -55,10 +62,10 @@ using (var image = (PsdImage)Image.Load(src))
 }
 ```
 
-### Voir également
+### Voir aussi
 
 * interface [ILayerEffect](../ilayereffect/)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../aspose.psd.fileformats.psd.layers.layereffects/)
-* Assemblée [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../)
 
 

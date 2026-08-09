@@ -1,11 +1,12 @@
 ---
-title: PhflResourceVersion3.SetRgbColor
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: PhflResourceVersion3 méthode. Définit la couleur RVB.
+title: "PhflResourceVersion3.SetRgbColor"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "PhflResourceVersion3 méthode. Définit la couleur RVB"
 type: docs
-weight: 120
+weight: 100
 url: /fr/net/aspose.psd.fileformats.psd.layers.layerresources/phflresourceversion3/setrgbcolor/
 ---
+{{< psd/tize >}}
 ## PhflResourceVersion3.SetRgbColor method
 
 Définit la couleur RVB.
@@ -14,15 +15,15 @@ Définit la couleur RVB.
 public override void SetRgbColor(Color color)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
-| color | Color | La couleur. |
+| couleur | Couleur | La couleur. |
 
-### Voir également
+### Voir aussi
 
 * struct [Color](../../../aspose.psd/color/)
 * class [PhflResourceVersion3](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../phflresourceversion3/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

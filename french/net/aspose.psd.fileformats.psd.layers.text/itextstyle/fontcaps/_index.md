@@ -1,24 +1,25 @@
 ---
-title: ITextStyle.FontCaps
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: ITextStyle propriété. Les majuscules des polices.
+title: "ITextStyle.FontCaps"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété ITextStyle. Les majuscules de police"
 type: docs
 weight: 100
 url: /fr/net/aspose.psd.fileformats.psd.layers.text/itextstyle/fontcaps/
 ---
+{{< psd/tize >}}
 ## ITextStyle.FontCaps property
 
-Les majuscules des polices.
+Les majuscules de la police.
 
 ```csharp
 public FontCaps FontCaps { get; set; }
 ```
 
-### Voir également
+### Voir aussi
 
 * enum [FontCaps](../../../aspose.psd.fileformats.psd/fontcaps/)
 * interface [ITextStyle](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.Text](../../itextstyle/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.Text](../../../aspose.psd.fileformats.psd.layers.text/)
+* assembly [Aspose.PSD](../../../)
 
 

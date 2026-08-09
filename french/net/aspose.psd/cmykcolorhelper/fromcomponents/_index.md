@@ -1,34 +1,35 @@
 ---
-title: CmykColorHelper.FromComponents
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: CmykColorHelper méthode. Crée CMJN à partir de valeurs cyan magenta jaune et noir 32 bits.
+title: "CmykColorHelper.FromComponents"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Méthode CmykColorHelper. Crée un CMYK à partir de valeurs cyan, magenta, jaune et noir de 32 bits"
 type: docs
 weight: 10
 url: /fr/net/aspose.psd/cmykcolorhelper/fromcomponents/
 ---
+{{< psd/tize >}}
 ## CmykColorHelper.FromComponents method
 
-Crée CMJN à partir de valeurs cyan, magenta, jaune et noir 32 bits.
+Crée un CMYK à partir de valeurs cyan, magenta, jaune et noir sur 32 bits.
 
 ```csharp
 public static int FromComponents(int cyan, int magenta, int yellow, int black)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
-| cyan | Int32 | Le composant cyan. Les valeurs valides sont comprises entre 0 et 255. |
-| magenta | Int32 | Le composant magenta. Les valeurs valides sont comprises entre 0 et 255. |
-| yellow | Int32 | Le composant jaune. Les valeurs valides sont comprises entre 0 et 255. |
-| black | Int32 | La composante noire. Les valeurs valides sont comprises entre 0 et 255. |
+| cyan | Int32 | Le composant cyan. Les valeurs valides sont de 0 à 255. |
+| magenta | Int32 | Le composant magenta. Les valeurs valides sont de 0 à 255. |
+| jaune | Int32 | Le composant jaune. Les valeurs valides sont de 0 à 255. |
+| noir | Int32 | Le composant noir. Les valeurs valides sont de 0 à 255. |
 
-### Return_Value
+### Valeur de retour
 
-La couleur CMJN présentée sous la forme d'une valeur entière 32 bits.
+La couleur CMYK présentée sous forme de valeur entière 32 bits.
 
-### Voir également
+### Voir aussi
 
 * class [CmykColorHelper](../)
-* espace de noms [Aspose.PSD](../../cmykcolorhelper/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

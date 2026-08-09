@@ -1,11 +1,12 @@
 ---
-title: Layer.ChannelInformation
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: Layer propriété. Obtient ou définit les informations du canal.
+title: "Layer.ChannelInformation"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété Layer. Obtient ou définit les informations du canal"
 type: docs
-weight: 70
+weight: 80
 url: /fr/net/aspose.psd.fileformats.psd.layers/layer/channelinformation/
 ---
+{{< psd/tize >}}
 ## Layer.ChannelInformation property
 
 Obtient ou définit les informations du canal.
@@ -14,15 +15,15 @@ Obtient ou définit les informations du canal.
 public ChannelInformation[] ChannelInformation { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
 Les informations du canal.
 
-### Voir également
+### Voir aussi
 
 * class [ChannelInformation](../../channelinformation/)
 * class [Layer](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers](../../layer/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

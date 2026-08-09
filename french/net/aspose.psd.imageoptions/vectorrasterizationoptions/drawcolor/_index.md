@@ -1,11 +1,12 @@
 ---
-title: VectorRasterizationOptions.DrawColor
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: VectorRasterizationOptions propriété. Obtient ou définit une couleur de premier plan.
+title: "VectorRasterizationOptions.DrawColor"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "VectorRasterizationOptions propriété. Obtient ou définit une couleur de premier plan"
 type: docs
 weight: 50
 url: /fr/net/aspose.psd.imageoptions/vectorrasterizationoptions/drawcolor/
 ---
+{{< psd/tize >}}
 ## VectorRasterizationOptions.DrawColor property
 
 Obtient ou définit une couleur de premier plan.
@@ -14,11 +15,11 @@ Obtient ou définit une couleur de premier plan.
 public Color DrawColor { get; set; }
 ```
 
-### Voir également
+### Voir aussi
 
 * struct [Color](../../../aspose.psd/color/)
 * class [VectorRasterizationOptions](../)
-* espace de noms [Aspose.PSD.ImageOptions](../../vectorrasterizationoptions/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

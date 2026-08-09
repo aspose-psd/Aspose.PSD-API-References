@@ -1,28 +1,29 @@
 ---
-title: Hue2Resource.Ranges
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: Hue2Resource propriété. Obtient les plages de la couche de réglage de teinte/saturation. Les plages dans PS peuvent changer de nom si la plage est modifiée nous devons donc travailler par index
+title: "Hue2Resource.Ranges"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété Hue2Resource. Obtient les plages du calque d'ajustement Teinte/Saturation. Les plages dans PS peuvent changer de nom si la plage est modifiée, il faut donc travailler par indice."
 type: docs
-weight: 80
+weight: 60
 url: /fr/net/aspose.psd.fileformats.psd.layers.layerresources/hue2resource/ranges/
 ---
+{{< psd/tize >}}
 ## Hue2Resource.Ranges property
 
-Obtient les plages de la couche de réglage de teinte/saturation. Les plages dans PS peuvent changer de nom si la plage est modifiée, nous devons donc travailler par index
+Obtient les plages du calque d'ajustement Teinte/Saturation. Les plages dans PS peuvent changer de nom si la plage est modifiée, il faut donc travailler par index.
 
 ```csharp
 public ColorRangeHsl[] Ranges { get; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
 Les plages.
 
-### Voir également
+### Voir aussi
 
 * class [ColorRangeHsl](../../colorrangehsl/)
 * class [Hue2Resource](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../hue2resource/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

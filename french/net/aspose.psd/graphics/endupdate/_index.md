@@ -1,23 +1,24 @@
 ---
-title: Graphics.EndUpdate
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: Graphics méthode. Termine la mise en cache des opérations graphiques démarrées après lappel de BeginUpdate. Les opérations graphiques précédentes seront appliquées immédiatement lors de lappel de cette méthode.
+title: "Graphics.EndUpdate"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Méthode Graphics. Termine la mise en cache des opérations graphiques démarrées après l’appel de BeginUpdate. Les opérations graphiques précédentes seront appliquées d’un coup lors de l’appel de cette méthode."
 type: docs
-weight: 330
+weight: 340
 url: /fr/net/aspose.psd/graphics/endupdate/
 ---
+{{< psd/tize >}}
 ## Graphics.EndUpdate method
 
-Termine la mise en cache des opérations graphiques démarrées après l'appel de BeginUpdate. Les opérations graphiques précédentes seront appliquées immédiatement lors de l'appel de cette méthode.
+Termine la mise en cache des opérations graphiques démarrées après l'appel de BeginUpdate. Les opérations graphiques précédentes seront appliquées d'un coup lors de l'appel de cette méthode.
 
 ```csharp
 public void EndUpdate()
 ```
 
-### Voir également
+### Voir aussi
 
 * class [Graphics](../)
-* espace de noms [Aspose.PSD](../../graphics/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

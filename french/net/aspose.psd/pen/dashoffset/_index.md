@@ -1,27 +1,28 @@
 ---
-title: Pen.DashOffset
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: Pen propriété. Obtient ou définit la distance entre le début dune ligne et le début dun motif en tirets.
+title: "Pen.DashOffset"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété Pen. Obtient ou définit la distance du début d’une ligne au début d’un motif de tirets"
 type: docs
 weight: 90
 url: /fr/net/aspose.psd/pen/dashoffset/
 ---
+{{< psd/tize >}}
 ## Pen.DashOffset property
 
-Obtient ou définit la distance entre le début d'une ligne et le début d'un motif en tirets.
+Obtient ou définit la distance du début d'une ligne jusqu'au commencement d'un motif de tirets.
 
 ```csharp
 public float DashOffset { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
-Distance entre le début d'une ligne et le début d'un motif en tirets.
+La distance du début d’une ligne au début d’un motif de tirets.
 
-### Voir également
+### Voir aussi
 
 * class [Pen](../)
-* espace de noms [Aspose.PSD](../../pen/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

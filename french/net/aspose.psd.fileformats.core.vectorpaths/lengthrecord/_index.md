@@ -1,14 +1,15 @@
 ---
-title: Class LengthRecord
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: Aspose.PSD.FileFormats.Core.VectorPaths.LengthRecord classe. Classe denregistrement de longueur de souschemin
+title: "Classe LengthRecord"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Aspose.PSD.FileFormats.Core.VectorPaths.LengthRecord class. Classe d'enregistrement de longueur de sous-chemin"
 type: docs
-weight: 1370
+weight: 1380
 url: /fr/net/aspose.psd.fileformats.core.vectorpaths/lengthrecord/
 ---
+{{< psd/tize >}}
 ## LengthRecord class
 
-Classe d'enregistrement de longueur de sous-chemin
+Classe d'enregistrement de la longueur du sous-chemin.
 
 ```csharp
 public class LengthRecord : VectorPathRecord
@@ -16,27 +17,27 @@ public class LengthRecord : VectorPathRecord
 
 ## Constructeurs
 
-| Nom | La description |
+| Nom | Description |
 | --- | --- |
-| [LengthRecord](lengthrecord/#constructor)() | Initialise une nouvelle instance du`LengthRecord` classe. |
-| [LengthRecord](lengthrecord/#constructor_1)(byte[]) | Initialise une nouvelle instance du`LengthRecord` classe. |
+| [LengthRecord](lengthrecord/#constructor)() | Initialise une nouvelle instance de la classe `LengthRecord`. |
+| [LengthRecord](lengthrecord/#constructor_1)(byte[]) | Initialise une nouvelle instance de la classe `LengthRecord`. |
 
 ## Propriétés
 
-| Nom | La description |
+| Nom | Description |
 | --- | --- |
-| [BezierKnotRecordsCount](../../aspose.psd.fileformats.core.vectorpaths/lengthrecord/bezierknotrecordscount/) { get; set; } | Obtient ou définit le nombre d'enregistrements de nœuds de Bézier. |
+| [BezierKnotRecordsCount](../../aspose.psd.fileformats.core.vectorpaths/lengthrecord/bezierknotrecordscount/) { get; set; } | Obtient ou définit le nombre d'enregistrements de nœuds Bézier. |
 | [IsClosed](../../aspose.psd.fileformats.core.vectorpaths/lengthrecord/isclosed/) { get; set; } | Obtient ou définit une valeur indiquant si cette instance est fermée. |
 | [IsOpen](../../aspose.psd.fileformats.core.vectorpaths/lengthrecord/isopen/) { get; set; } | Obtient ou définit une valeur indiquant si cette instance est ouverte. |
 | [PathOperations](../../aspose.psd.fileformats.core.vectorpaths/lengthrecord/pathoperations/) { get; set; } | Obtient ou définit les opérations de chemin. |
 | [RecordCount](../../aspose.psd.fileformats.core.vectorpaths/lengthrecord/recordcount/) { get; set; } | Obtient ou définit le nombre d'enregistrements. |
-| [ShapeIndex](../../aspose.psd.fileformats.core.vectorpaths/lengthrecord/shapeindex/) { get; set; } | Obtient ou définit l'index de la forme du chemin actuel dans le calque. |
+| [ShapeIndex](../../aspose.psd.fileformats.core.vectorpaths/lengthrecord/shapeindex/) { get; set; } | Obtient ou définit l'index de la forme de chemin actuelle dans le calque. |
 | override [Type](../../aspose.psd.fileformats.core.vectorpaths/lengthrecord/type/) { get; } | Obtient le type. |
 
-### Voir également
+### Voir aussi
 
 * class [VectorPathRecord](../vectorpathrecord/)
-* espace de noms [Aspose.PSD.FileFormats.Core.VectorPaths](../../aspose.psd.fileformats.core.vectorpaths/)
-* Assemblée [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../)
 
 

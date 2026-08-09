@@ -1,11 +1,12 @@
 ---
-title: TypeToolInfoResource.Fonts
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: TypeToolInfoResource propriété. Obtient ou définit les polices.
+title: "TypeToolInfoResource.Fonts"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "TypeToolInfoResource propriété. Obtient ou définit les polices"
 type: docs
 weight: 60
 url: /fr/net/aspose.psd.fileformats.psd.layers.layerresources/typetoolinforesource/fonts/
 ---
+{{< psd/tize >}}
 ## TypeToolInfoResource.Fonts property
 
 Obtient ou définit les polices.
@@ -14,15 +15,15 @@ Obtient ou définit les polices.
 public TypeToolFontInfo[] Fonts { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
 Les polices.
 
-### Voir également
+### Voir aussi
 
 * class [TypeToolFontInfo](../../typetoolfontinfo/)
 * class [TypeToolInfoResource](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../typetoolinforesource/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

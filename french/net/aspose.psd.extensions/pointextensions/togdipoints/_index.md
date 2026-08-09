@@ -1,32 +1,33 @@
 ---
-title: PointExtensions.ToGdiPoints
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: PointExtensions méthode. Convertit lePointF tableau à laPointF tableau.
+title: "PointExtensions.ToGdiPoints"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Méthode PointExtensions. Convertit le tableau PointF en le tableau PointF."
 type: docs
 weight: 20
 url: /fr/net/aspose.psd.extensions/pointextensions/togdipoints/
 ---
+{{< psd/tize >}}
 ## PointExtensions.ToGdiPoints method
 
-Convertit le[`PointF`](../../../aspose.psd/pointf/) tableau à laPointF tableau.
+Convertit le tableau [`PointF`](../../../aspose.psd/pointf/) en le tableau PointF.
 
 ```csharp
 public static PointF[] ToGdiPoints(PointF[] points)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
-| points | PointF[] | Le[`PointF`](../../../aspose.psd/pointf/) tableau à convertir. |
+| points | PointF[] | Le tableau [`PointF`](../../../aspose.psd/pointf/) à convertir. |
 
-### Return_Value
+### Valeur de retour
 
-Le convertiPointF déployer.
+Le tableau PointF converti.
 
-### Voir également
+### Voir aussi
 
 * struct [PointF](../../../aspose.psd/pointf/)
 * class [PointExtensions](../)
-* espace de noms [Aspose.PSD.Extensions](../../pointextensions/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Extensions](../../../aspose.psd.extensions/)
+* assembly [Aspose.PSD](../../../)
 
 

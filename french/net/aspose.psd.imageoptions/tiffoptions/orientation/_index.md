@@ -1,11 +1,12 @@
 ---
-title: TiffOptions.Orientation
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: TiffOptions propriété. Obtient ou définit lorientation.
+title: "TiffOptions.Orientation"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété TiffOptions. Obtient ou définit l'orientation"
 type: docs
-weight: 280
+weight: 290
 url: /fr/net/aspose.psd.imageoptions/tiffoptions/orientation/
 ---
+{{< psd/tize >}}
 ## TiffOptions.Orientation property
 
 Obtient ou définit l'orientation.
@@ -14,15 +15,15 @@ Obtient ou définit l'orientation.
 public TiffOrientations Orientation { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
 L'orientation.
 
-### Voir également
+### Voir aussi
 
 * enum [TiffOrientations](../../../aspose.psd.fileformats.tiff.enums/tifforientations/)
 * class [TiffOptions](../)
-* espace de noms [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: AudioChannelType.Stereo
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: AudioChannelType propriété. Obtient le canal audio stéréo.
+title: "AudioChannelType.Stereo"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "AudioChannelType propriété. Obtient le canal audio stéréo"
 type: docs
 weight: 60
 url: /fr/net/aspose.psd.xmp.schemas.xmpdm/audiochanneltype/stereo/
 ---
+{{< psd/tize >}}
 ## AudioChannelType.Stereo property
 
 Obtient le canal audio stéréo.
@@ -14,14 +15,14 @@ Obtient le canal audio stéréo.
 public static AudioChannelType Stereo { get; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
 Le canal audio stéréo.
 
-### Voir également
+### Voir aussi
 
 * class [AudioChannelType](../)
-* espace de noms [Aspose.PSD.Xmp.Schemas.XmpDm](../../audiochanneltype/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpDm](../../../aspose.psd.xmp.schemas.xmpdm/)
+* assembly [Aspose.PSD](../../../)
 
 

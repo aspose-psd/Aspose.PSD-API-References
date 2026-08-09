@@ -1,11 +1,12 @@
 ---
-title: InnerShadowEffect.Opacity
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: InnerShadowEffect propriété. Obtient ou définit lopacité.
+title: "InnerShadowEffect.Opacity"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété InnerShadowEffect. Obtient ou définit l'opacité"
 type: docs
 weight: 80
 url: /fr/net/aspose.psd.fileformats.psd.layers.layereffects/innershadoweffect/opacity/
 ---
+{{< psd/tize >}}
 ## InnerShadowEffect.Opacity property
 
 Obtient ou définit l'opacité.
@@ -14,14 +15,14 @@ Obtient ou définit l'opacité.
 public byte Opacity { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
 L'opacité.
 
-### Voir également
+### Voir aussi
 
 * class [InnerShadowEffect](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../innershadoweffect/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../../)
 
 

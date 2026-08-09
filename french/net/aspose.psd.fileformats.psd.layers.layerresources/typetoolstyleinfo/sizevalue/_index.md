@@ -1,27 +1,28 @@
 ---
-title: TypeToolStyleInfo.SizeValue
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: TypeToolStyleInfo propriété. Obtient ou définit la valeur de taille.
+title: "TypeToolStyleInfo.SizeValue"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété TypeToolStyleInfo. Obtient ou définit la valeur de la taille"
 type: docs
 weight: 90
 url: /fr/net/aspose.psd.fileformats.psd.layers.layerresources/typetoolstyleinfo/sizevalue/
 ---
+{{< psd/tize >}}
 ## TypeToolStyleInfo.SizeValue property
 
-Obtient ou définit la valeur de taille.
+Obtient ou définit la valeur de la taille.
 
 ```csharp
 public int SizeValue { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
-La valeur de la taille.
+La valeur de taille.
 
-### Voir également
+### Voir aussi
 
 * class [TypeToolStyleInfo](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../typetoolstyleinfo/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

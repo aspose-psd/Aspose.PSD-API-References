@@ -1,22 +1,23 @@
 ---
-title: Class Jpeg2000CustomException
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: Aspose.PSD.FileFormats.Jpeg2000.Jpeg2000CustomException classe. Jpeg2000 Le code OpenJpeg a généré une exception
+title: "Classe Jpeg2000CustomException"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Aspose.PSD.FileFormats.Jpeg2000.Jpeg2000CustomException class. Exception générée par le code OpenJpeg de Jpeg2000"
 type: docs
-weight: 1550
+weight: 1560
 url: /fr/net/aspose.psd.fileformats.jpeg2000/jpeg2000customexception/
 ---
+{{< psd/tize >}}
 ## Jpeg2000CustomException class
 
-Jpeg2000 Le code OpenJpeg a généré une exception
+Exception générée par le code OpenJpeg Jpeg2000
 
 ```csharp
 public class Jpeg2000CustomException : Exception
 ```
 
-### Voir également
+### Voir aussi
 
-* espace de noms [Aspose.PSD.FileFormats.Jpeg2000](../../aspose.psd.fileformats.jpeg2000/)
-* Assemblée [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Jpeg2000](../../aspose.psd.fileformats.jpeg2000/)
+* assembly [Aspose.PSD](../../)
 
 

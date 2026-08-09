@@ -1,14 +1,15 @@
 ---
-title: Interface IPatternFillSettings
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: Aspose.PSD.FileFormats.Psd.Layers.FillSettings.IPatternFillSettings interface. Interface pour les paramètres de remplissage du motif
+title: "Interface IPatternFillSettings"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Interface Aspose.PSD.FileFormats.Psd.Layers.FillSettings.IPatternFillSettings. Interface pour les paramètres de remplissage de motif"
 type: docs
-weight: 2030
+weight: 2150
 url: /fr/net/aspose.psd.fileformats.psd.layers.fillsettings/ipatternfillsettings/
 ---
+{{< psd/tize >}}
 ## IPatternFillSettings interface
 
-Interface pour les paramètres de remplissage du motif
+Interface pour les paramètres de remplissage de motif
 
 ```csharp
 public interface IPatternFillSettings : IFillSettings
@@ -16,22 +17,23 @@ public interface IPatternFillSettings : IFillSettings
 
 ## Propriétés
 
-| Nom | La description |
+| Nom | Description |
 | --- | --- |
+| [Angle](../../aspose.psd.fileformats.psd.layers.fillsettings/ipatternfillsettings/angle/) { get; set; } | Obtient ou définit l'angle. |
 | [HorizontalOffset](../../aspose.psd.fileformats.psd.layers.fillsettings/ipatternfillsettings/horizontaloffset/) { get; set; } | Obtient ou définit le décalage horizontal. |
-| [Linked](../../aspose.psd.fileformats.psd.layers.fillsettings/ipatternfillsettings/linked/) { get; set; } | Obtient ou définit une valeur indiquant si cette`IPatternFillSettings`est lié. |
-| [PatternData](../../aspose.psd.fileformats.psd.layers.fillsettings/ipatternfillsettings/patterndata/) { get; set; } | Obtient ou définit les données de modèle. |
+| [Linked](../../aspose.psd.fileformats.psd.layers.fillsettings/ipatternfillsettings/linked/) { get; set; } | Obtient ou définit une valeur indiquant si cet `IPatternFillSettings` est lié. |
+| [PatternData](../../aspose.psd.fileformats.psd.layers.fillsettings/ipatternfillsettings/patterndata/) { get; set; } | Obtient les données du motif. |
 | [PatternHeight](../../aspose.psd.fileformats.psd.layers.fillsettings/ipatternfillsettings/patternheight/) { get; set; } | Obtient ou définit la hauteur du motif. |
-| [PatternId](../../aspose.psd.fileformats.psd.layers.fillsettings/ipatternfillsettings/patternid/) { get; set; } | Obtient ou définit l'identifiant du modèle. |
-| [PatternName](../../aspose.psd.fileformats.psd.layers.fillsettings/ipatternfillsettings/patternname/) { get; set; } | Obtient ou définit le nom du modèle. |
+| [PatternId](../../aspose.psd.fileformats.psd.layers.fillsettings/ipatternfillsettings/patternid/) { get; set; } | Obtient ou définit l'identifiant du motif. |
+| [PatternName](../../aspose.psd.fileformats.psd.layers.fillsettings/ipatternfillsettings/patternname/) { get; set; } | Obtient ou définit le nom du motif. |
 | [PatternWidth](../../aspose.psd.fileformats.psd.layers.fillsettings/ipatternfillsettings/patternwidth/) { get; set; } | Obtient ou définit la largeur du motif. |
 | [PointType](../../aspose.psd.fileformats.psd.layers.fillsettings/ipatternfillsettings/pointtype/) { get; set; } | Obtient ou définit le type du point. |
 | [Scale](../../aspose.psd.fileformats.psd.layers.fillsettings/ipatternfillsettings/scale/) { get; set; } | Obtient ou définit l'échelle. |
 | [VerticalOffset](../../aspose.psd.fileformats.psd.layers.fillsettings/ipatternfillsettings/verticaloffset/) { get; set; } | Obtient ou définit le décalage vertical. |
 
-### Exemples
+## Exemples
 
-Le code suivant enregistre les images avec le motif Fill Layer et montre comment Aspose.PSD rend le motif.
+Le code suivant enregistre des images avec le calque de remplissage de motif et montre comment Aspose.PSD rend le motif.
 
 ```csharp
 [C#]
@@ -40,7 +42,7 @@ string sourceFile = "sample.psd";
 string outputFile = "sample_out.psd";
 string outputPngFile = "sample_out.png";
 
-// Charger une image existante dans une instance de la classe PsdImage
+// Chargez une image existante dans une instance de la classe PsdImage
 using (var image = (PsdImage)Image.Load(sourceFile))
 {
     foreach (var layer in image.Layers)
@@ -81,10 +83,10 @@ using (var image = (PsdImage)Image.Load(sourceFile))
 }
 ```
 
-### Voir également
+### Voir aussi
 
 * interface [IFillSettings](../ifillsettings/)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../aspose.psd.fileformats.psd.layers.fillsettings/)
-* Assemblée [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../)
 
 

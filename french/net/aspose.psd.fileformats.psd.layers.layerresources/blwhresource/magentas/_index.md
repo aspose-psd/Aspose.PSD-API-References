@@ -1,26 +1,27 @@
 ---
-title: BlwhResource.Magentas
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: BlwhResource propriété. Obtient ou définit la valeur magentas.
+title: "BlwhResource.Magentas"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété BlwhResource. Obtient ou définit la valeur des magentas"
 type: docs
-weight: 90
+weight: 80
 url: /fr/net/aspose.psd.fileformats.psd.layers.layerresources/blwhresource/magentas/
 ---
+{{< psd/tize >}}
 ## BlwhResource.Magentas property
 
-Obtient ou définit la valeur magentas.
+Obtient ou définit la valeur des magentas.
 
 ```csharp
 public int Magentas { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
-La valeur magentas.
+La valeur des magentas.
 
-### Exemples
+## Exemples
 
-L'exemple suivant montre comment modifier un BlwhResource.
+L'exemple suivant montre comment vous modifiez un BlwhResource.
 
 ```csharp
 [C#]
@@ -63,7 +64,7 @@ using (PsdImage im = (PsdImage)Image.Load(sourceFileName))
                 AssertIsTrue(Math.Abs(blwhLayer.TintColorGreen - tintColorGreen) < 1e-6, ActualPropertyValueIsWrongMessage);
                 AssertIsTrue(Math.Abs(blwhLayer.TintColorBlue - tintColorBlue) < 1e-6, ActualPropertyValueIsWrongMessage);
 
-                // Tester l'édition et l'enregistrement
+                // Test de modification et d'enregistrement
                 blwhResource.Reds = reds - 15;
                 blwhResource.Yellows = yellows - 15;
                 blwhResource.Greens = greens + 15;
@@ -123,10 +124,10 @@ using (PsdImage im = (PsdImage)Image.Load(destinationFileName))
 AssertIsTrue(isRequiredResourceFound, "The specified BlwhResource not found");
 ```
 
-### Voir également
+### Voir aussi
 
 * class [BlwhResource](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../blwhresource/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

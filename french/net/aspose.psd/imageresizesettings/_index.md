@@ -1,14 +1,15 @@
 ---
-title: Class ImageResizeSettings
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: Aspose.PSD.ImageResizeSettings classe. Classe de paramètres de redimensionnement dimage
+title: "Classe ImageResizeSettings"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Classe Aspose.PSD.ImageResizeSettings. Classe de paramètres de redimensionnement d'image"
 type: docs
-weight: 5000
+weight: 5490
 url: /fr/net/aspose.psd/imageresizesettings/
 ---
+{{< psd/tize >}}
 ## ImageResizeSettings class
 
-Classe de paramètres de redimensionnement d'image
+Classe des paramètres de redimensionnement d'image
 
 ```csharp
 public class ImageResizeSettings
@@ -16,13 +17,13 @@ public class ImageResizeSettings
 
 ## Constructeurs
 
-| Nom | La description |
+| Nom | Description |
 | --- | --- |
-| [ImageResizeSettings](imageresizesettings/)() | Default_Constructor |
+| [ImageResizeSettings](imageresizesettings/)() | Le constructeur par défaut. |
 
 ## Propriétés
 
-| Nom | La description |
+| Nom | Description |
 | --- | --- |
 | [ColorCompareMethod](../../aspose.psd/imageresizesettings/colorcomparemethod/) { get; set; } | Obtient ou définit la méthode de comparaison des couleurs. |
 | [ColorQuantizationMethod](../../aspose.psd/imageresizesettings/colorquantizationmethod/) { get; set; } | Obtient ou définit la méthode de quantification des couleurs. |
@@ -30,9 +31,9 @@ public class ImageResizeSettings
 | [FilterType](../../aspose.psd/imageresizesettings/filtertype/) { get; set; } | Obtient ou définit le type du filtre. |
 | [Mode](../../aspose.psd/imageresizesettings/mode/) { get; set; } | Obtient ou définit le mode d'interpolation. |
 
-### Voir également
+### Voir aussi
 
-* espace de noms [Aspose.PSD](../../aspose.psd/)
-* Assemblée [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

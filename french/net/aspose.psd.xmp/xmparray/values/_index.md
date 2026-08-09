@@ -1,23 +1,24 @@
 ---
-title: XmpArray.Values
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: XmpArray propriété. Obtient un tableau de valeurs à lintérieurXmpArray .
+title: "XmpArray.Values"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété XmpArray. Obtient le tableau de valeurs à l'intérieur de XmpArray"
 type: docs
 weight: 20
 url: /fr/net/aspose.psd.xmp/xmparray/values/
 ---
+{{< psd/tize >}}
 ## XmpArray.Values property
 
-Obtient un tableau de valeurs à l'intérieur[`XmpArray`](../) .
+Obtient le tableau de valeurs à l'intérieur de [`XmpArray`](../).
 
 ```csharp
 public string[] Values { get; }
 ```
 
-### Voir également
+### Voir aussi
 
 * class [XmpArray](../)
-* espace de noms [Aspose.PSD.Xmp](../../xmparray/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

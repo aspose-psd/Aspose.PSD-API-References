@@ -1,11 +1,12 @@
 ---
-title: Enum BitmapCompression
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: Aspose.PSD.FileFormats.Bmp.BitmapCompression énumération. Spécifie différentes méthodes de compression bitmap.
+title: "Énumération BitmapCompression"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Énumération Aspose.PSD.FileFormats.Bmp.BitmapCompression. Spécifie différentes méthodes de compression de bitmap."
 type: docs
-weight: 1310
+weight: 1320
 url: /fr/net/aspose.psd.fileformats.bmp/bitmapcompression/
 ---
+{{< psd/tize >}}
 ## BitmapCompression enumeration
 
 Spécifie différentes méthodes de compression bitmap.
@@ -16,20 +17,20 @@ public enum BitmapCompression : uint
 
 ### Valeurs
 
-| Nom | Évaluer | La description |
+| Nom | Valeur | Description |
 | --- | --- | --- |
-| Rgb | `0` | Aucune compression. |
-| Rle8 | `1` | Compression RLE 8 bits/pixel. Ne peut être utilisé qu'avec des bitmaps 8 bits/pixels. |
-| Rle4 | `2` | Compression RLE 4 bits/pixel. Ne peut être utilisé qu'avec des bitmaps 4 bits/pixels. |
-| Bitfields | `3` | Champs de bits RVB. Ne peut être utilisé qu'avec des bitmaps 16 et 32 bits/pixel. |
+| Rgb | `0` | Pas de compression. |
+| Rle8 | `1` | Compression RLE 8 bits/pixel. Ne peut être utilisée qu'avec des bitmaps 8 bits/pixel. |
+| Rle4 | `2` | Compression RLE 4 bits/pixel. Ne peut être utilisée qu'avec des bitmaps 4 bits/pixel. |
+| Bitfields | `3` | Champs de bits RGB. Ne peut être utilisé qu'avec des images bitmap de 16 et 32 bits/pixel. |
 | Jpeg | `4` | Compression JPEG. Le bitmap contient une image JPEG. |
 | Png | `5` | Compression PNG. Le bitmap contient une image PNG. |
-| AlphaBitfields | `6` | Champs de bits RGBA. Ne peut être utilisé qu'avec des bitmaps 16 et 32 bits/pixel. |
-| Dxt1 | `827611204` | compression DXT1. Le bitmap contient une texture. |
+| AlphaBitfields | `6` | Champs de bits RGBA. Ne peut être utilisé qu'avec des images bitmap de 16 et 32 bits/pixel. |
+| Dxt1 | `827611204` | Compression DXT1. Le bitmap contient une texture. |
 
-### Voir également
+### Voir aussi
 
-* espace de noms [Aspose.PSD.FileFormats.Bmp](../../aspose.psd.fileformats.bmp/)
-* Assemblée [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Bmp](../../aspose.psd.fileformats.bmp/)
+* assembly [Aspose.PSD](../../)
 
 

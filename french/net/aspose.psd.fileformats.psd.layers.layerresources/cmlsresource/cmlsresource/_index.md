@@ -1,27 +1,28 @@
 ---
-title: CmlsResource.CmlsResource
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: CmlsResource constructeur. Initialise une nouvelle instance duCmlsResource classe.
+title: "CmlsResource.CmlsResource"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "CmlsResource constructeur. Initialise une nouvelle instance de la classe CmlsResource"
 type: docs
 weight: 10
 url: /fr/net/aspose.psd.fileformats.psd.layers.layerresources/cmlsresource/cmlsresource/
 ---
+{{< psd/tize >}}
 ## CmlsResource constructor
 
-Initialise une nouvelle instance du[`CmlsResource`](../) classe.
+Initialise une nouvelle instance de la classe [`CmlsResource`](../).
 
 ```csharp
 public CmlsResource(byte[] data)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
-| data | Byte[] | Les données de la ressource. |
+| données | Byte[] | Les données de la ressource. |
 
-### Voir également
+### Voir aussi
 
 * class [CmlsResource](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../cmlsresource/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

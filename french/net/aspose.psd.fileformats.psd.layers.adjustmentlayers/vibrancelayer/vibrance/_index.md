@@ -1,11 +1,12 @@
 ---
-title: VibranceLayer.Vibrance
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: VibranceLayer propriété. Obtient ou définit la vibrance.
+title: "VibranceLayer.Vibrance"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété VibranceLayer. Obtient ou définit la vibrance"
 type: docs
 weight: 20
 url: /fr/net/aspose.psd.fileformats.psd.layers.adjustmentlayers/vibrancelayer/vibrance/
 ---
+{{< psd/tize >}}
 ## VibranceLayer.Vibrance property
 
 Obtient ou définit la vibrance.
@@ -14,9 +15,9 @@ Obtient ou définit la vibrance.
 public int Vibrance { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
-La vibration.
+La vibrance.
 
 ### Exceptions
 
@@ -24,9 +25,9 @@ La vibration.
 | --- | --- |
 | ArgumentOutOfRangeException | La vibrance doit être comprise entre -180 et +180 |
 
-### Exemples
+## Exemples
 
-L'exemple de code suivant illustre la prise en charge de la couche VibranceLayer et la possibilité de modifier cet ajustement.
+L'exemple de code suivant démontre la prise en charge du calque VibranceLayer et la capacité à modifier cet ajustement.
 
 ```csharp
 [C#]
@@ -47,10 +48,10 @@ using (PsdImage image = (PsdImage) Image.Load(sourceFileName))
 }
 ```
 
-### Voir également
+### Voir aussi
 
 * class [VibranceLayer](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../vibrancelayer/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/)
+* assembly [Aspose.PSD](../../../)
 
 

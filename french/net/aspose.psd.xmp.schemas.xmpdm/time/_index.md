@@ -1,14 +1,15 @@
 ---
-title: Class Time
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: Aspose.PSD.Xmp.Schemas.XmpDm.Time classe. Représentation dune valeur de temps en secondes.
+title: "Classe Time"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Classe Aspose.PSD.Xmp.Schemas.XmpDm.Time. Représentation d'une valeur de temps en secondes."
 type: docs
-weight: 5880
+weight: 6380
 url: /fr/net/aspose.psd.xmp.schemas.xmpdm/time/
 ---
+{{< psd/tize >}}
 ## Time class
 
-Représentation d'une valeur de temps en secondes.
+Représentation d'une valeur temporelle en secondes.
 
 ```csharp
 public sealed class Time : XmpTypeBase
@@ -16,27 +17,27 @@ public sealed class Time : XmpTypeBase
 
 ## Constructeurs
 
-| Nom | La description |
+| Nom | Description |
 | --- | --- |
-| [Time](time/)(Rational, int) | Initialise une nouvelle instance du`Time` classe. |
+| [Time](time/)(Rational, int) | Initialise une nouvelle instance de la classe `Time`. |
 
 ## Propriétés
 
-| Nom | La description |
+| Nom | Description |
 | --- | --- |
-| [Scale](../../aspose.psd.xmp.schemas.xmpdm/time/scale/) { get; set; } | Obtient ou définit l'échelle pour la valeur de temps. |
-| [Value](../../aspose.psd.xmp.schemas.xmpdm/time/value/) { get; set; } | Obtient ou définit la valeur de temps dans l'échelle spécifiée. |
+| [Scale](../../aspose.psd.xmp.schemas.xmpdm/time/scale/) { get; set; } | Obtient ou définit l'échelle de la valeur temporelle. |
+| [Value](../../aspose.psd.xmp.schemas.xmpdm/time/value/) { get; set; } | Obtient ou définit la valeur temporelle dans l'échelle spécifiée. |
 
 ## Méthodes
 
-| Nom | La description |
+| Nom | Description |
 | --- | --- |
-| override [GetXmpRepresentation](../../aspose.psd.xmp.schemas.xmpdm/time/getxmprepresentation/)() | Obtient la valeur contenue dans la chaîne au format XMP. |
+| override [GetXmpRepresentation](../../aspose.psd.xmp.schemas.xmpdm/time/getxmprepresentation/)() | Obtient la valeur de chaîne contenue au format XMP. |
 
-### Voir également
+### Voir aussi
 
 * class [XmpTypeBase](../../aspose.psd.xmp.types/xmptypebase/)
-* espace de noms [Aspose.PSD.Xmp.Schemas.XmpDm](../../aspose.psd.xmp.schemas.xmpdm/)
-* Assemblée [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpDm](../../aspose.psd.xmp.schemas.xmpdm/)
+* assembly [Aspose.PSD](../../)
 
 

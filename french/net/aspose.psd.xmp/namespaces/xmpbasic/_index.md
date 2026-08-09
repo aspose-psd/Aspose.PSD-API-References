@@ -1,11 +1,12 @@
 ---
-title: Namespaces.XmpBasic
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: Namespaces champ. Espace de noms XMP Basic.
+title: "Namespaces.XmpBasic"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Champ Namespaces. Espace de noms XMP Basic"
 type: docs
 weight: 60
 url: /fr/net/aspose.psd.xmp/namespaces/xmpbasic/
 ---
+{{< psd/tize >}}
 ## Namespaces.XmpBasic field
 
 Espace de noms XMP Basic.
@@ -14,10 +15,10 @@ Espace de noms XMP Basic.
 public const string XmpBasic;
 ```
 
-### Voir également
+### Voir aussi
 
 * class [Namespaces](../)
-* espace de noms [Aspose.PSD.Xmp](../../namespaces/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

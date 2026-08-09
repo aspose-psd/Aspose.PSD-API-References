@@ -1,11 +1,12 @@
 ---
-title: StrokeEffect.Opacity
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: StrokeEffect propriété. Obtient ou définit lopacité.
+title: "StrokeEffect.Opacity"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété StrokeEffect. Obtient ou définit l'opacité"
 type: docs
 weight: 50
 url: /fr/net/aspose.psd.fileformats.psd.layers.layereffects/strokeeffect/opacity/
 ---
+{{< psd/tize >}}
 ## StrokeEffect.Opacity property
 
 Obtient ou définit l'opacité.
@@ -14,14 +15,14 @@ Obtient ou définit l'opacité.
 public byte Opacity { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
 L'opacité.
 
-### Voir également
+### Voir aussi
 
 * class [StrokeEffect](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../strokeeffect/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../../)
 
 

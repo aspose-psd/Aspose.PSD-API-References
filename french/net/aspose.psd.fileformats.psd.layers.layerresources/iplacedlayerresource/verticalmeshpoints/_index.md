@@ -1,11 +1,12 @@
 ---
-title: IPlacedLayerResource.VerticalMeshPoints
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: IPlacedLayerResource propriété. Obtient ou définit les points de maillage horizontaux du calque placé dans le fichier PSD.
+title: "IPlacedLayerResource.VerticalMeshPoints"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété IPlacedLayerResource. Obtient ou définit les points de maillage horizontaux du calque placé dans le fichier PSD."
 type: docs
 weight: 210
 url: /fr/net/aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/verticalmeshpoints/
 ---
+{{< psd/tize >}}
 ## IPlacedLayerResource.VerticalMeshPoints property
 
 Obtient ou définit les points de maillage horizontaux du calque placé dans le fichier PSD.
@@ -14,14 +15,14 @@ Obtient ou définit les points de maillage horizontaux du calque placé dans le 
 public double[] VerticalMeshPoints { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
 Les points de maillage horizontaux du calque placé.
 
-### Voir également
+### Voir aussi
 
 * interface [IPlacedLayerResource](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../iplacedlayerresource/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

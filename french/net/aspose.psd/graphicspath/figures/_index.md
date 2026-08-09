@@ -1,28 +1,29 @@
 ---
-title: GraphicsPath.Figures
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: GraphicsPath propriété. Obtient les chiffres du chemin.
+title: "GraphicsPath.Figures"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété GraphicsPath. Obtient les figures du chemin."
 type: docs
 weight: 30
 url: /fr/net/aspose.psd/graphicspath/figures/
 ---
+{{< psd/tize >}}
 ## GraphicsPath.Figures property
 
-Obtient les chiffres du chemin.
+Obtient les figures du chemin.
 
 ```csharp
 public Figure[] Figures { get; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
-Le chemin se chiffre.
+Les figures du chemin.
 
-### Voir également
+### Voir aussi
 
 * class [Figure](../../figure/)
 * class [GraphicsPath](../)
-* espace de noms [Aspose.PSD](../../graphicspath/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

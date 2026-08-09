@@ -1,11 +1,12 @@
 ---
-title: DocumentSpecificIdsResource.Id
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: DocumentSpecificIdsResource propriété. Obtient ou définit lidentifiant.
+title: "DocumentSpecificIdsResource.Id"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété DocumentSpecificIdsResource. Obtient ou définit l'identifiant"
 type: docs
 weight: 30
 url: /fr/net/aspose.psd.fileformats.psd.resources/documentspecificidsresource/id/
 ---
+{{< psd/tize >}}
 ## DocumentSpecificIdsResource.Id property
 
 Obtient ou définit l'identifiant.
@@ -14,14 +15,14 @@ Obtient ou définit l'identifiant.
 public int Id { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
 L'identifiant.
 
-### Voir également
+### Voir aussi
 
 * class [DocumentSpecificIdsResource](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Resources](../../documentspecificidsresource/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

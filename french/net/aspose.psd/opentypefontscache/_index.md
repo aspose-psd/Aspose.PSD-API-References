@@ -1,11 +1,12 @@
 ---
-title: Class OpenTypeFontsCache
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: Aspose.PSD.OpenTypeFontsCache classe. Cache pour les polices OpenType installées dans le système.
+title: "Classe OpenTypeFontsCache"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Classe Aspose.PSD.OpenTypeFontsCache. Cache pour les polices OpenType installées dans le système"
 type: docs
-weight: 5170
+weight: 5660
 url: /fr/net/aspose.psd/opentypefontscache/
 ---
+{{< psd/tize >}}
 ## OpenTypeFontsCache class
 
 Cache pour les polices OpenType installées dans le système.
@@ -16,13 +17,13 @@ public static class OpenTypeFontsCache
 
 ## Méthodes
 
-| Nom | La description |
+| Nom | Description |
 | --- | --- |
 | static [UpdateCache](../../aspose.psd/opentypefontscache/updatecache/)() |  |
 
-### Voir également
+### Voir aussi
 
-* espace de noms [Aspose.PSD](../../aspose.psd/)
-* Assemblée [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

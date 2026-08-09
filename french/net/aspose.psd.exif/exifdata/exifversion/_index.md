@@ -1,11 +1,12 @@
 ---
-title: ExifData.ExifVersion
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: ExifData propriété. Obtient ou définit la version EXIF.
+title: "ExifData.ExifVersion"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété ExifData. Obtient ou définit la version EXIF"
 type: docs
 weight: 180
 url: /fr/net/aspose.psd.exif/exifdata/exifversion/
 ---
+{{< psd/tize >}}
 ## ExifData.ExifVersion property
 
 Obtient ou définit la version EXIF.
@@ -14,14 +15,14 @@ Obtient ou définit la version EXIF.
 public byte[] ExifVersion { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
 La version EXIF.
 
-### Voir également
+### Voir aussi
 
 * class [ExifData](../)
-* espace de noms [Aspose.PSD.Exif](../../exifdata/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

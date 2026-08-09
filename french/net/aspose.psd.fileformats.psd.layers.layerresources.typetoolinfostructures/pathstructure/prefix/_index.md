@@ -1,11 +1,12 @@
 ---
-title: PathStructure.Prefix
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: PathStructure propriété. Obtient ou définit le préfixe du chemin.
+title: "PathStructure.Prefix"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété PathStructure. Obtient ou définit le préfixe du chemin"
 type: docs
 weight: 50
 url: /fr/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/pathstructure/prefix/
 ---
+{{< psd/tize >}}
 ## PathStructure.Prefix property
 
 Obtient ou définit le préfixe du chemin.
@@ -14,13 +15,13 @@ Obtient ou définit le préfixe du chemin.
 public string Prefix { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
 Le chemin complet.
 
-### Exemples
+## Exemples
 
-Le code suivant montre la possibilité de charger un fichier avec la structure PathStructure.
+Le code suivant montre la capacité de charger un fichier avec la structure PathStructure.
 
 ```csharp
 [C#]
@@ -34,10 +35,10 @@ using (PsdImage image = (PsdImage)Image.Load(srcFile))
 }
 ```
 
-### Voir également
+### Voir aussi
 
 * class [PathStructure](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../pathstructure/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,32 +1,33 @@
 ---
-title: ColorExtensions.ToGdiColors
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: ColorExtensions méthode. Convertit leColor tableau à laColor tableau.
+title: "ColorExtensions.ToGdiColors"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Méthode ColorExtensions. Convertit le tableau Color en le tableau Color."
 type: docs
 weight: 20
 url: /fr/net/aspose.psd.extensions/colorextensions/togdicolors/
 ---
+{{< psd/tize >}}
 ## ColorExtensions.ToGdiColors method
 
-Convertit le[`Color`](../../../aspose.psd/color/) tableau à laColor tableau.
+Convertit le tableau [`Color`](../../../aspose.psd/color/) en le tableau Color.
 
 ```csharp
 public static Color[] ToGdiColors(Color[] colors)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
 | colors | Color[] | Le[`Color`](../../../aspose.psd/color/) tableau à convertir. |
 
-### Return_Value
+### Valeur de retour
 
-Le convertiColor déployer.
+Le tableau Color converti.
 
-### Voir également
+### Voir aussi
 
 * struct [Color](../../../aspose.psd/color/)
 * class [ColorExtensions](../)
-* espace de noms [Aspose.PSD.Extensions](../../colorextensions/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Extensions](../../../aspose.psd.extensions/)
+* assembly [Aspose.PSD](../../../)
 
 

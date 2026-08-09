@@ -1,28 +1,29 @@
 ---
-title: Layer.LayerBlendingRangesData
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: Layer propriété. Obtient ou définit les données des plages de fusion des calques.
+title: "Layer.LayerBlendingRangesData"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété Layer. Obtient ou définit les données des plages de fusion de la couche"
 type: docs
-weight: 190
+weight: 200
 url: /fr/net/aspose.psd.fileformats.psd.layers/layer/layerblendingrangesdata/
 ---
+{{< psd/tize >}}
 ## Layer.LayerBlendingRangesData property
 
-Obtient ou définit les données des plages de fusion des calques.
+Obtient ou définit les données des plages de fusion du calque.
 
 ```csharp
 public LayerBlendingRangesData LayerBlendingRangesData { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
-Les données des plages de fusion des calques.
+Les données des plages de fusion du calque.
 
-### Voir également
+### Voir aussi
 
 * class [LayerBlendingRangesData](../../layerblendingrangesdata/)
 * class [Layer](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers](../../layer/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

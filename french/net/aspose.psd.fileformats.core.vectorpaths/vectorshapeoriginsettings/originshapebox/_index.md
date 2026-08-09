@@ -1,28 +1,29 @@
 ---
-title: VectorShapeOriginSettings.OriginShapeBox
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: VectorShapeOriginSettings propriété. Obtient ou définit le cadre de délimitation de la forme dorigine.
+title: "VectorShapeOriginSettings.OriginShapeBox"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété VectorShapeOriginSettings. Obtient ou définit la boîte englobante de la forme d'origine"
 type: docs
 weight: 150
 url: /fr/net/aspose.psd.fileformats.core.vectorpaths/vectorshapeoriginsettings/originshapebox/
 ---
+{{< psd/tize >}}
 ## VectorShapeOriginSettings.OriginShapeBox property
 
-Obtient ou définit le cadre de délimitation de la forme d'origine.
+Obtient ou définit la boîte englobante de la forme d'origine.
 
 ```csharp
 public VectorShapeBoundingBox OriginShapeBox { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
 La boîte de forme d'origine.
 
-### Voir également
+### Voir aussi
 
 * class [VectorShapeBoundingBox](../../vectorshapeboundingbox/)
 * class [VectorShapeOriginSettings](../)
-* espace de noms [Aspose.PSD.FileFormats.Core.VectorPaths](../../vectorshapeoriginsettings/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../../)
 
 

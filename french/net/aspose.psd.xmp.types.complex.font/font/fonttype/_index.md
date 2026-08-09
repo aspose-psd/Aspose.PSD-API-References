@@ -1,11 +1,12 @@
 ---
-title: Font.FontType
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: Font propriété. Obtient ou définit le type de police.
+title: "Font.FontType"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété Font. Obtient ou définit le type de police"
 type: docs
 weight: 70
 url: /fr/net/aspose.psd.xmp.types.complex.font/font/fonttype/
 ---
+{{< psd/tize >}}
 ## Font.FontType property
 
 Obtient ou définit le type de police.
@@ -14,18 +15,18 @@ Obtient ou définit le type de police.
 public string FontType { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
 Le type de police.
 
-### Exemples
+## Exemples
 
-TrueType, Type 1, Type ouvert, etc.
+TrueType, Type 1, Open Type, etc.
 
-### Voir également
+### Voir aussi
 
 * class [Font](../)
-* espace de noms [Aspose.PSD.Xmp.Types.Complex.Font](../../font/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.Font](../../../aspose.psd.xmp.types.complex.font/)
+* assembly [Aspose.PSD](../../../)
 
 

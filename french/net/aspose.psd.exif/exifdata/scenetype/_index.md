@@ -1,11 +1,12 @@
 ---
-title: ExifData.SceneType
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: ExifData propriété. Obtient ou définit le type de scène.
+title: "ExifData.SceneType"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété ExifData. Obtient ou définit le type de scène"
 type: docs
 weight: 910
 url: /fr/net/aspose.psd.exif/exifdata/scenetype/
 ---
+{{< psd/tize >}}
 ## ExifData.SceneType property
 
 Obtient ou définit le type de scène.
@@ -14,14 +15,14 @@ Obtient ou définit le type de scène.
 public byte SceneType { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
-Le type de scène.
+Le type de la scène.
 
-### Voir également
+### Voir aussi
 
 * class [ExifData](../)
-* espace de noms [Aspose.PSD.Exif](../../exifdata/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

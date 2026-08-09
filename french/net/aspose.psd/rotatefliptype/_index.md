@@ -1,14 +1,15 @@
 ---
-title: Enum RotateFlipType
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: Aspose.PSD.RotateFlipType énumération. Spécifie le degré de rotation dune image et laxe utilisé pour retourner limage.
+title: "Enum RotateFlipType"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Enum Aspose.PSD.RotateFlipType. Spécifie de combien une image est tournée et l'axe utilisé pour la retourner."
 type: docs
-weight: 5400
+weight: 5900
 url: /fr/net/aspose.psd/rotatefliptype/
 ---
+{{< psd/tize >}}
 ## RotateFlipType enumeration
 
-Spécifie le degré de rotation d'une image et l'axe utilisé pour retourner l'image.
+Spécifie de combien une image est pivotée et l'axe utilisé pour la retourner.
 
 ```csharp
 public enum RotateFlipType
@@ -16,28 +17,28 @@ public enum RotateFlipType
 
 ### Valeurs
 
-| Nom | Évaluer | La description |
+| Nom | Valeur | Description |
 | --- | --- | --- |
-| RotateNoneFlipNone | `0` | Spécifie aucune rotation dans le sens des aiguilles d'une montre et aucun retournement. |
-| Rotate90FlipNone | `1` | Spécifie une rotation de 90 degrés dans le sens des aiguilles d'une montre sans retournement. |
-| Rotate180FlipNone | `2` | Spécifie une rotation de 180 degrés dans le sens des aiguilles d'une montre sans retournement. |
-| Rotate270FlipNone | `3` | Spécifie une rotation de 270 degrés dans le sens des aiguilles d'une montre sans retournement. |
-| RotateNoneFlipX | `4` | Spécifie aucune rotation dans le sens des aiguilles d'une montre suivie d'un retournement horizontal. |
-| Rotate90FlipX | `5` | Spécifie une rotation de 90 degrés dans le sens des aiguilles d'une montre suivie d'un retournement horizontal. |
-| Rotate180FlipX | `6` | Spécifie une rotation de 180 degrés dans le sens des aiguilles d'une montre suivie d'un retournement horizontal. |
-| Rotate270FlipX | `7` | Spécifie une rotation de 270 degrés dans le sens des aiguilles d'une montre suivie d'un retournement horizontal. |
-| RotateNoneFlipY | `8` | Spécifie aucune rotation dans le sens des aiguilles d'une montre suivie d'un retournement vertical. |
-| Rotate90FlipY | `9` | Spécifie une rotation de 90 degrés dans le sens des aiguilles d'une montre suivie d'un retournement vertical. |
-| Rotate180FlipY | `10` | Spécifie une rotation de 180 degrés dans le sens des aiguilles d'une montre suivie d'un retournement vertical. |
-| Rotate270FlipY | `11` | Spécifie une rotation de 270 degrés dans le sens des aiguilles d'une montre suivie d'un retournement vertical. |
-| RotateNoneFlipXY | `12` | Spécifie aucune rotation dans le sens des aiguilles d'une montre suivie d'un retournement horizontal et vertical. |
-| Rotate90FlipXY | `13` | Spécifie une rotation de 90 degrés dans le sens des aiguilles d'une montre suivie d'un retournement horizontal et vertical. |
-| Rotate180FlipXY | `14` | Spécifie une rotation de 180 degrés dans le sens des aiguilles d'une montre suivie d'un retournement horizontal et vertical. |
-| Rotate270FlipXY | `15` | Spécifie une rotation de 270 degrés dans le sens des aiguilles d'une montre suivie d'un retournement horizontal et vertical. |
+| RotateNoneFlipNone | `0` | Spécifie aucune rotation horaire et aucune inversion. |
+| Rotate90FlipNone | `1` | Spécifie une rotation horaire de 90 degrés sans inversion. |
+| Rotate180FlipNone | `2` | Spécifie une rotation horaire de 180 degrés sans inversion. |
+| Rotate270FlipNone | `3` | Spécifie une rotation horaire de 270 degrés sans inversion. |
+| RotateNoneFlipX | `4` | Spécifie aucune rotation horaire suivie d'une inversion horizontale. |
+| Rotate90FlipX | `5` | Spécifie une rotation horaire de 90 degrés suivie d'une inversion horizontale. |
+| Rotate180FlipX | `6` | Spécifie une rotation horaire de 180 degrés suivie d'une inversion horizontale. |
+| Rotate270FlipX | `7` | Spécifie une rotation horaire de 270 degrés suivie d'une inversion horizontale. |
+| RotateNoneFlipY | `8` | Spécifie aucune rotation horaire suivie d'une inversion verticale. |
+| Rotate90FlipY | `9` | Spécifie une rotation horaire de 90 degrés suivie d'une inversion verticale. |
+| Rotate180FlipY | `10` | Spécifie une rotation horaire de 180 degrés suivie d'une inversion verticale. |
+| Rotate270FlipY | `11` | Spécifie une rotation horaire de 270 degrés suivie d'une inversion verticale. |
+| RotateNoneFlipXY | `12` | Spécifie aucune rotation horaire suivie d'une inversion horizontale et verticale. |
+| Rotate90FlipXY | `13` | Spécifie une rotation horaire de 90 degrés suivie d'une inversion horizontale et verticale. |
+| Rotate180FlipXY | `14` | Spécifie une rotation horaire de 180 degrés suivie d'une inversion horizontale et verticale. |
+| Rotate270FlipXY | `15` | Spécifie une rotation horaire de 270 degrés suivie d'une inversion horizontale et verticale. |
 
-### Voir également
+### Voir aussi
 
-* espace de noms [Aspose.PSD](../../aspose.psd/)
-* Assemblée [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

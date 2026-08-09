@@ -1,11 +1,12 @@
 ---
-title: PdfDocumentInfo.Subject
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: PdfDocumentInfo propriété. Obtient ou définit le sujet du document.
+title: "PdfDocumentInfo.Subject"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété PdfDocumentInfo. Obtient ou définit le sujet du document"
 type: docs
 weight: 40
 url: /fr/net/aspose.psd.fileformats.pdf/pdfdocumentinfo/subject/
 ---
+{{< psd/tize >}}
 ## PdfDocumentInfo.Subject property
 
 Obtient ou définit le sujet du document.
@@ -14,10 +15,10 @@ Obtient ou définit le sujet du document.
 public string Subject { get; set; }
 ```
 
-### Voir également
+### Voir aussi
 
 * class [PdfDocumentInfo](../)
-* espace de noms [Aspose.PSD.FileFormats.Pdf](../../pdfdocumentinfo/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Pdf](../../../aspose.psd.fileformats.pdf/)
+* assembly [Aspose.PSD](../../../)
 
 

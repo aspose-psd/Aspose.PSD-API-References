@@ -1,34 +1,35 @@
 ---
-title: Pen.CustomStartCap
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: Pen propriété. Obtient ou définit une limite personnalisée à utiliser au début des lignes dessinées avec cePen .
+title: "Pen.CustomStartCap"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété Pen. Obtient ou définit un cap personnalisé à utiliser au début des lignes tracées avec ce Pen"
 type: docs
 weight: 70
 url: /fr/net/aspose.psd/pen/customstartcap/
 ---
+{{< psd/tize >}}
 ## Pen.CustomStartCap property
 
-Obtient ou définit une limite personnalisée à utiliser au début des lignes dessinées avec ce[`Pen`](../) .
+Obtient ou définit un cap personnalisé à utiliser au début des lignes tracées avec ce [`Pen`](../).
 
 ```csharp
 public CustomLineCap CustomStartCap { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
-UN[`CustomLineCap`](../../customlinecap/) qui représente le capuchon utilisé au début des lignes tracées avec ce[`Pen`](../).
+Un [`CustomLineCap`](../../customlinecap/) qui représente le cap utilisé au début des lignes tracées avec ce [`Pen`](../).
 
 ### Exceptions
 
 | exception | condition |
 | --- | --- |
-| ArgumentException | Le`CustomStartCap` la propriété est définie sur un immuable[`Pen`](../) , tels que ceux renvoyés par le[`Pen`](../) classe. |
+| ArgumentException | La propriété `CustomStartCap` est définie sur un [`Pen`](../) immuable, comme ceux renvoyés par la classe [`Pen`](../). |
 
-### Voir également
+### Voir aussi
 
 * class [CustomLineCap](../../customlinecap/)
 * class [Pen](../)
-* espace de noms [Aspose.PSD](../../pen/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: Font.FontFileName
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: Font propriété. Obtient ou définit le nom du fichier de police sans chemin complet.
+title: "Font.FontFileName"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété Font. Obtient ou définit le nom du fichier de police sans le chemin complet"
 type: docs
 weight: 50
 url: /fr/net/aspose.psd.xmp.types.complex.font/font/fontfilename/
 ---
+{{< psd/tize >}}
 ## Font.FontFileName property
 
-Obtient ou définit le nom du fichier de police sans chemin complet.
+Obtient ou définit le nom de fichier de la police sans le chemin complet.
 
 ```csharp
 public string FontFileName { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
-Le nom du fichier de police sans chemin complet.
+Le nom du fichier de police sans le chemin complet.
 
-### Voir également
+### Voir aussi
 
 * class [Font](../)
-* espace de noms [Aspose.PSD.Xmp.Types.Complex.Font](../../font/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.Font](../../../aspose.psd.xmp.types.complex.font/)
+* assembly [Aspose.PSD](../../../)
 
 

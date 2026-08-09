@@ -1,11 +1,12 @@
 ---
-title: Delegate ProgressCallback
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: Fonction de rappel pour recevoir lévénement de changement de progression de la tâche.
+title: "Délégué ProgressCallback"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Fonction de rappel pour recevoir l'événement de changement de progression de la tâche"
 type: docs
 weight: 100
 url: /fr/net/aspose.psd.asynctask/progresscallback/
 ---
+{{< psd/tize >}}
 ## ProgressCallback delegate
 
 Fonction de rappel pour recevoir l'événement de changement de progression de la tâche.
@@ -14,13 +15,13 @@ Fonction de rappel pour recevoir l'événement de changement de progression de l
 public delegate void ProgressCallback(int progressPercentage);
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
 | progressPercentage | Int32 | Le pourcentage de progression. |
 
-### Voir également
+### Voir aussi
 
-* espace de noms [Aspose.PSD.AsyncTask](../../aspose.psd.asynctask/)
-* Assemblée [Aspose.PSD](../../)
+* namespace [Aspose.PSD.AsyncTask](../../aspose.psd.asynctask/)
+* assembly [Aspose.PSD](../../)
 
 

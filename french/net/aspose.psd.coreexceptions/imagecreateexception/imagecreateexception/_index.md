@@ -1,48 +1,49 @@
 ---
-title: ImageCreateException.ImageCreateException
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: ImageCreateException constructeur. Initialise une nouvelle instance duImageCreateException classe.
+title: "ImageCreateException.ImageCreateException"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Constructeur ImageCreateException. Initialise une nouvelle instance de la classe ImageCreateException"
 type: docs
 weight: 10
 url: /fr/net/aspose.psd.coreexceptions/imagecreateexception/imagecreateexception/
 ---
+{{< psd/tize >}}
 ## ImageCreateException(string) {#constructor}
 
-Initialise une nouvelle instance du[`ImageCreateException`](../) classe.
+Initialise une nouvelle instance de la classe [`ImageCreateException`](../).
 
 ```csharp
 public ImageCreateException(string message)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
 | message | String | Le message d'exception. |
 
-### Voir également
+### Voir aussi
 
 * class [ImageCreateException](../)
-* espace de noms [Aspose.PSD.CoreExceptions](../../imagecreateexception/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.CoreExceptions](../../../aspose.psd.coreexceptions/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## ImageCreateException(string, Exception) {#constructor_1}
 
-Initialise une nouvelle instance du[`ImageCreateException`](../) classe.
+Initialise une nouvelle instance de la classe [`ImageCreateException`](../).
 
 ```csharp
 public ImageCreateException(string message, Exception innerException)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
 | message | String | Le message d'exception. |
-| innerException | Exception | L'exception intérieure. |
+| innerException | Exception | L'exception interne. |
 
-### Voir également
+### Voir aussi
 
 * class [ImageCreateException](../)
-* espace de noms [Aspose.PSD.CoreExceptions](../../imagecreateexception/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.CoreExceptions](../../../aspose.psd.coreexceptions/)
+* assembly [Aspose.PSD](../../../)
 
 

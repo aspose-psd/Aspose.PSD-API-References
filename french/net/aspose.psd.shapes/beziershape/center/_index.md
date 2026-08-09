@@ -1,11 +1,12 @@
 ---
-title: BezierShape.Center
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: BezierShape propriété. Obtient le centre de la forme.
+title: "BezierShape.Center"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété BezierShape. Obtient le centre de la forme"
 type: docs
 weight: 30
 url: /fr/net/aspose.psd.shapes/beziershape/center/
 ---
+{{< psd/tize >}}
 ## BezierShape.Center property
 
 Obtient le centre de la forme.
@@ -14,15 +15,15 @@ Obtient le centre de la forme.
 public override PointF Center { get; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
 Le centre de la forme.
 
-### Voir également
+### Voir aussi
 
 * struct [PointF](../../../aspose.psd/pointf/)
 * class [BezierShape](../)
-* espace de noms [Aspose.PSD.Shapes](../../beziershape/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 

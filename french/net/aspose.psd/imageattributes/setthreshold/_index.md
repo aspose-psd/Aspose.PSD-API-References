@@ -1,11 +1,12 @@
 ---
-title: ImageAttributes.SetThreshold
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: ImageAttributes méthode. Définit le seuil plage de transparence pour la catégorie par défaut.
+title: "ImageAttributes.SetThreshold"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Méthode ImageAttributes. Définit la plage de transparence du seuil pour la catégorie par défaut"
 type: docs
 weight: 200
 url: /fr/net/aspose.psd/imageattributes/setthreshold/
 ---
+{{< psd/tize >}}
 ## SetThreshold(float) {#setthreshold}
 
 Définit le seuil (plage de transparence) pour la catégorie par défaut.
@@ -14,15 +15,15 @@ Définit le seuil (plage de transparence) pour la catégorie par défaut.
 public void SetThreshold(float threshold)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
-| threshold | Single | Un nombre réel qui spécifie la valeur de seuil. |
+| seuil | Single | Un nombre réel qui spécifie la valeur du seuil. |
 
-### Voir également
+### Voir aussi
 
 * class [ImageAttributes](../)
-* espace de noms [Aspose.PSD](../../imageattributes/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
@@ -34,16 +35,16 @@ Définit le seuil (plage de transparence) pour une catégorie spécifiée.
 public void SetThreshold(float threshold, ColorAdjustType type)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
-| threshold | Single | Une valeur de seuil comprise entre 0,0 et 1,0 utilisée comme point d'arrêt pour trier les couleurs qui seront mappées sur une valeur maximale ou minimale. |
-| type | ColorAdjustType | Un élément de[`ColorAdjustType`](../../coloradjusttype/) qui spécifie la catégorie pour laquelle le seuil de couleur est défini. |
+| seuil | Single | Une valeur de seuil de 0,0 à 1,0 utilisée comme point de rupture pour trier les couleurs qui seront mappées soit à une valeur maximale, soit à une valeur minimale. |
+| type | ColorAdjustType | Un élément de [`ColorAdjustType`](../../coloradjusttype/) qui spécifie la catégorie pour laquelle le seuil de couleur est défini. |
 
-### Voir également
+### Voir aussi
 
 * enum [ColorAdjustType](../../coloradjusttype/)
 * class [ImageAttributes](../)
-* espace de noms [Aspose.PSD](../../imageattributes/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

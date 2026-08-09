@@ -1,11 +1,12 @@
 ---
-title: CmykMixerChannel.Yellow
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: CmykMixerChannel propriété. Obtient ou définit le jaune.
+title: "CmykMixerChannel.Yellow"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété CmykMixerChannel. Obtient ou définit le jaune."
 type: docs
 weight: 50
 url: /fr/net/aspose.psd.fileformats.psd.layers.adjustmentlayers/cmykmixerchannel/yellow/
 ---
+{{< psd/tize >}}
 ## CmykMixerChannel.Yellow property
 
 Obtient ou définit le jaune.
@@ -14,14 +15,14 @@ Obtient ou définit le jaune.
 public short Yellow { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
 Le jaune.
 
-### Voir également
+### Voir aussi
 
 * class [CmykMixerChannel](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../cmykmixerchannel/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: JpegExifData.Model
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: JpegExifData propriété. Obtient ou définit le modèle.
+title: "JpegExifData.Model"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "JpegExifData propriété. Obtient ou définit le modèle"
 type: docs
 weight: 110
 url: /fr/net/aspose.psd.exif/jpegexifdata/model/
 ---
+{{< psd/tize >}}
 ## JpegExifData.Model property
 
 Obtient ou définit le modèle.
@@ -14,14 +15,14 @@ Obtient ou définit le modèle.
 public string Model { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
 Le modèle.
 
-### Voir également
+### Voir aussi
 
 * class [JpegExifData](../)
-* espace de noms [Aspose.PSD.Exif](../../jpegexifdata/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

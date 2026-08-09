@@ -1,27 +1,28 @@
 ---
-title: PrintFlagsResource.BleedScale
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: PrintFlagsResource propriété. Obtient ou définit léchelle de fond perdu.
+title: "PrintFlagsResource.BleedScale"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété PrintFlagsResource. Obtient ou définit l'échelle du débordement"
 type: docs
 weight: 20
 url: /fr/net/aspose.psd.fileformats.psd.resources/printflagsresource/bleedscale/
 ---
+{{< psd/tize >}}
 ## PrintFlagsResource.BleedScale property
 
-Obtient ou définit l'échelle de fond perdu.
+Obtient ou définit l'échelle de débordement.
 
 ```csharp
 public short BleedScale { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
-L'échelle de fond perdu.
+L'échelle du débordement.
 
-### Voir également
+### Voir aussi
 
 * class [PrintFlagsResource](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Resources](../../printflagsresource/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

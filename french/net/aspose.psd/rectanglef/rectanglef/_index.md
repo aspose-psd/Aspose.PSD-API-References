@@ -1,53 +1,54 @@
 ---
-title: RectangleF.RectangleF
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: RectangleF constructeur. Initialise une nouvelle instance duRectangleF structure avec lemplacement et la taille spécifiés.
+title: "RectangleF.RectangleF"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Constructeur RectangleF. Initialise une nouvelle instance de la structure RectangleF avec l'emplacement et la taille spécifiés"
 type: docs
 weight: 10
 url: /fr/net/aspose.psd/rectanglef/rectanglef/
 ---
+{{< psd/tize >}}
 ## RectangleF(float, float, float, float) {#constructor_1}
 
-Initialise une nouvelle instance du[`RectangleF`](../) structure avec l'emplacement et la taille spécifiés.
+Initialise une nouvelle instance de la structure [`RectangleF`](../) avec l'emplacement et la taille spécifiés.
 
 ```csharp
 public RectangleF(float x, float y, float width, float height)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
-| x | Single | Coordonnée x du coin supérieur gauche du rectangle. |
-| y | Single | Coordonnée y du coin supérieur gauche du rectangle. |
-| width | Single | La largeur du rectangle. |
-| height | Single | La hauteur du rectangle. |
+| x | Single | La coordonnée x du coin supérieur gauche du rectangle. |
+| y | Single | La coordonnée y du coin supérieur gauche du rectangle. |
+| largeur | Single | La largeur du rectangle. |
+| hauteur | Single | La hauteur du rectangle. |
 
-### Voir également
+### Voir aussi
 
 * struct [RectangleF](../)
-* espace de noms [Aspose.PSD](../../rectanglef/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## RectangleF(PointF, SizeF) {#constructor}
 
-Initialise une nouvelle instance du[`RectangleF`](../) structure avec l'emplacement et la taille spécifiés.
+Initialise une nouvelle instance de la structure [`RectangleF`](../) avec l'emplacement et la taille spécifiés.
 
 ```csharp
 public RectangleF(PointF location, SizeF size)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
-| location | PointF | UN[`PointF`](../../pointf/) qui représente le coin supérieur gauche de la région rectangulaire. |
-| size | SizeF | UN[`SizeF`](../../sizef/) qui représente la largeur et la hauteur de la région rectangulaire. |
+| location | PointF | Un [`PointF`](../../pointf/) qui représente le coin supérieur gauche de la région rectangulaire. |
+| size | SizeF | Un [`SizeF`](../../sizef/) qui représente la largeur et la hauteur de la région rectangulaire. |
 
-### Voir également
+### Voir aussi
 
 * struct [PointF](../../pointf/)
 * struct [SizeF](../../sizef/)
 * struct [RectangleF](../)
-* espace de noms [Aspose.PSD](../../rectanglef/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

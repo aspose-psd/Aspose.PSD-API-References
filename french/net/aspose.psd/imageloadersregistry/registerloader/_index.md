@@ -1,11 +1,12 @@
 ---
-title: ImageLoadersRegistry.RegisterLoader
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: ImageLoadersRegistry méthode. Enregistre le chargeur.
+title: "ImageLoadersRegistry.RegisterLoader"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Méthode ImageLoadersRegistry. Enregistre le chargeur"
 type: docs
 weight: 80
 url: /fr/net/aspose.psd/imageloadersregistry/registerloader/
 ---
+{{< psd/tize >}}
 ## ImageLoadersRegistry.RegisterLoader method
 
 Enregistre le chargeur.
@@ -14,15 +15,15 @@ Enregistre le chargeur.
 public static void RegisterLoader(IImageLoaderDescriptor loaderDescriptor)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
 | loaderDescriptor | IImageLoaderDescriptor | Le descripteur de chargeur à enregistrer. |
 
-### Voir également
+### Voir aussi
 
 * interface [IImageLoaderDescriptor](../../iimageloaderdescriptor/)
 * class [ImageLoadersRegistry](../)
-* espace de noms [Aspose.PSD](../../imageloadersregistry/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

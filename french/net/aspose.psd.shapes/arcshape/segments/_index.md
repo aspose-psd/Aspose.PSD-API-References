@@ -1,28 +1,29 @@
 ---
-title: ArcShape.Segments
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: ArcShape propriété. Obtient les segments de forme.
+title: "ArcShape.Segments"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété ArcShape. Obtient les segments de la forme"
 type: docs
 weight: 40
 url: /fr/net/aspose.psd.shapes/arcshape/segments/
 ---
+{{< psd/tize >}}
 ## ArcShape.Segments property
 
-Obtient les segments de forme.
+Obtient les segments de la forme.
 
 ```csharp
 public override ShapeSegment[] Segments { get; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
-Les segments de forme.
+Les segments de la forme.
 
-### Voir également
+### Voir aussi
 
 * class [ShapeSegment](../../../aspose.psd/shapesegment/)
 * class [ArcShape](../)
-* espace de noms [Aspose.PSD.Shapes](../../arcshape/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 

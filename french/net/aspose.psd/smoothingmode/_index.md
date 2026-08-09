@@ -1,14 +1,15 @@
 ---
-title: Enum SmoothingMode
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: Aspose.PSD.SmoothingMode énumération. Spécifie si le lissage anticrénelage est appliqué aux lignes et aux courbes et aux bords des zones remplies.
+title: "Enum SmoothingMode"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Aspose.PSD.SmoothingMode enum. Spécifie si l'anticrénelage de lissage est appliqué aux lignes et courbes ainsi qu'aux bords des zones remplies."
 type: docs
-weight: 5570
+weight: 6070
 url: /fr/net/aspose.psd/smoothingmode/
 ---
+{{< psd/tize >}}
 ## SmoothingMode enumeration
 
-Spécifie si le lissage (anticrénelage) est appliqué aux lignes et aux courbes et aux bords des zones remplies.
+Spécifie si le lissage (antialiasing) est appliqué aux lignes et courbes ainsi qu'aux bords des zones remplies.
 
 ```csharp
 public enum SmoothingMode
@@ -16,18 +17,18 @@ public enum SmoothingMode
 
 ### Valeurs
 
-| Nom | Évaluer | La description |
+| Nom | Valeur | Description |
 | --- | --- | --- |
-| Invalid | `-1` | Spécifie un mode non valide. |
+| Invalid | `-1` | Spécifie un mode invalide. |
 | Default | `0` | Spécifie aucun anticrénelage. |
 | HighSpeed | `1` | Spécifie aucun anticrénelage. |
-| HighQuality | `2` | Spécifie le rendu anticrénelé. |
+| HighQuality | `2` | Spécifie un rendu antialiasé. |
 | None | `3` | Spécifie aucun anticrénelage. |
-| AntiAlias | `4` | Spécifie le rendu anticrénelé. |
+| AntiAlias | `4` | Spécifie un rendu antialiasé. |
 
-### Voir également
+### Voir aussi
 
-* espace de noms [Aspose.PSD](../../aspose.psd/)
-* Assemblée [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

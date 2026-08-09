@@ -1,27 +1,28 @@
 ---
-title: ExifData.GPSTrackRef
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: ExifData propriété. Obtient ou définit la référence pour donner la direction du mouvement du récepteur GPS.
+title: "ExifData.GPSTrackRef"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété ExifData. Obtient ou définit la référence indiquant la direction du mouvement du récepteur GPS"
 type: docs
 weight: 660
 url: /fr/net/aspose.psd.exif/exifdata/gpstrackref/
 ---
+{{< psd/tize >}}
 ## ExifData.GPSTrackRef property
 
-Obtient ou définit la référence pour donner la direction du mouvement du récepteur GPS.
+Obtient ou définit la référence pour indiquer la direction du mouvement du récepteur GPS.
 
 ```csharp
 public string GPSTrackRef { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
-La référence pour donner la direction du mouvement du récepteur GPS.
+La référence indiquant la direction du mouvement du récepteur GPS.
 
-### Voir également
+### Voir aussi
 
 * class [ExifData](../)
-* espace de noms [Aspose.PSD.Exif](../../exifdata/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: TiffStreamWriter.Write
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: TiffStreamWriter méthode. Écrit les données spécifiées.
+title: "TiffStreamWriter.Write"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Méthode TiffStreamWriter. Écrit les données spécifiées"
 type: docs
 weight: 40
 url: /fr/net/aspose.psd.fileformats.tiff.filemanagement/tiffstreamwriter/write/
 ---
+{{< psd/tize >}}
 ## Write(byte[], int, int) {#write_1}
 
 Écrit les données spécifiées.
@@ -14,17 +15,17 @@ url: /fr/net/aspose.psd.fileformats.tiff.filemanagement/tiffstreamwriter/write/
 public void Write(byte[] data, int offset, int dataLength)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
-| data | Byte[] | Les données à écrire. |
+| données | Byte[] | Les données à écrire. |
 | offset | Int32 | Le décalage des données. |
-| dataLength | Int32 | Longueur des données à l'écrivain. |
+| dataLength | Int32 | Longueur des données à écrire. |
 
-### Voir également
+### Voir aussi
 
 * class [TiffStreamWriter](../)
-* espace de noms [Aspose.PSD.FileFormats.Tiff.FileManagement](../../tiffstreamwriter/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff.FileManagement](../../../aspose.psd.fileformats.tiff.filemanagement/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
@@ -36,14 +37,14 @@ public void Write(byte[] data, int offset, int dataLength)
 public void Write(byte[] data)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
-| data | Byte[] | Les données à écrire. |
+| données | Byte[] | Les données à écrire. |
 
-### Voir également
+### Voir aussi
 
 * class [TiffStreamWriter](../)
-* espace de noms [Aspose.PSD.FileFormats.Tiff.FileManagement](../../tiffstreamwriter/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff.FileManagement](../../../aspose.psd.fileformats.tiff.filemanagement/)
+* assembly [Aspose.PSD](../../../)
 
 

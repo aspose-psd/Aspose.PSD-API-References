@@ -1,14 +1,15 @@
 ---
-title: Class GraphicsPathExtensions
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: Aspose.PSD.Extensions.GraphicsPathExtensions classe. Contient leGraphicsPath méthodes dextension.
+title: "Classe GraphicsPathExtensions"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Classe Aspose.PSD.Extensions.GraphicsPathExtensions. Contient les méthodes d'extension GraphicsPath"
 type: docs
-weight: 1100
+weight: 1110
 url: /fr/net/aspose.psd.extensions/graphicspathextensions/
 ---
+{{< psd/tize >}}
 ## GraphicsPathExtensions class
 
-Contient le[`GraphicsPath`](../../aspose.psd/graphicspath/) méthodes d'extension.
+Contient les méthodes d'extension [`GraphicsPath`](../../aspose.psd/graphicspath/).
 
 ```csharp
 public static class GraphicsPathExtensions
@@ -16,13 +17,13 @@ public static class GraphicsPathExtensions
 
 ## Méthodes
 
-| Nom | La description |
+| Nom | Description |
 | --- | --- |
-| static [ToGdiGraphicsPath](../../aspose.psd.extensions/graphicspathextensions/togdigraphicspath/)(GraphicsPath) | Convertit le[`GraphicsPath`](../../aspose.psd/graphicspath/) auGraphicsPath . |
+| static [ToGdiGraphicsPath](../../aspose.psd.extensions/graphicspathextensions/togdigraphicspath/)(GraphicsPath) | Convertit le [`GraphicsPath`](../../aspose.psd/graphicspath/) en GraphicsPath. |
 
-### Voir également
+### Voir aussi
 
-* espace de noms [Aspose.PSD.Extensions](../../aspose.psd.extensions/)
-* Assemblée [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Extensions](../../aspose.psd.extensions/)
+* assembly [Aspose.PSD](../../)
 
 

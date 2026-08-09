@@ -1,11 +1,12 @@
 ---
-title: PsdOptions.ChannelsCount
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: PsdOptions propriété. Obtient ou définit le nombre de canaux de couleur.
+title: "PsdOptions.ChannelsCount"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété PsdOptions. Obtient ou définit le nombre de canaux de couleur"
 type: docs
-weight: 30
+weight: 40
 url: /fr/net/aspose.psd.imageoptions/psdoptions/channelscount/
 ---
+{{< psd/tize >}}
 ## PsdOptions.ChannelsCount property
 
 Obtient ou définit le nombre de canaux de couleur.
@@ -14,14 +15,14 @@ Obtient ou définit le nombre de canaux de couleur.
 public short ChannelsCount { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
-Les canaux de couleur comptent.
+Le nombre de canaux de couleur.
 
-### Voir également
+### Voir aussi
 
 * class [PsdOptions](../)
-* espace de noms [Aspose.PSD.ImageOptions](../../psdoptions/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

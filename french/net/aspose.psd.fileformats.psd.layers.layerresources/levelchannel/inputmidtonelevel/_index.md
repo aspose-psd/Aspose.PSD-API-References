@@ -1,33 +1,34 @@
 ---
-title: LevelChannel.InputMidtoneLevel
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: LevelChannel propriété. Obtient ou définit le niveau flottant dentrée des tons moyens.
+title: "LevelChannel.InputMidtoneLevel"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété LevelChannel. Obtient ou définit le niveau de mi-ton d'entrée float"
 type: docs
 weight: 20
 url: /fr/net/aspose.psd.fileformats.psd.layers.layerresources/levelchannel/inputmidtonelevel/
 ---
+{{< psd/tize >}}
 ## LevelChannel.InputMidtoneLevel property
 
-Obtient ou définit le niveau flottant d'entrée des tons moyens.
+Obtient ou définit le niveau de tons moyens d'entrée (float).
 
 ```csharp
 public float InputMidtoneLevel { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
-Le niveau d'entrée des tons moyens flotte.
+Le niveau de mi-ton d'entrée float.
 
 ### Exceptions
 
 | exception | condition |
 | --- | --- |
-| ArgumentOutOfRangeException | Le niveau d'entrée des tons moyens ne peut être réglé que dans la plage de 0,01 à 9,99 |
+| ArgumentOutOfRangeException | Le niveau de mi-ton d'entrée ne peut être défini que dans la plage de 0,01 à 9,99 |
 
-### Voir également
+### Voir aussi
 
 * class [LevelChannel](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../levelchannel/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

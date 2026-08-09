@@ -1,11 +1,12 @@
 ---
-title: RectangleF.op_Division
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: RectangleF méthode. Implémente lopérateur /.
+title: "RectangleF.op_Division"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Méthode RectangleF. Implémente l'opérateur /"
 type: docs
 weight: 260
 url: /fr/net/aspose.psd/rectanglef/op_division/
 ---
+{{< psd/tize >}}
 ## RectangleF Division operator
 
 Implémente l'opérateur /.
@@ -14,12 +15,12 @@ Implémente l'opérateur /.
 public static RectangleF operator /(RectangleF rectangle, float divider)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
 | rectangle | RectangleF | Le rectangle. |
-| divider | Single | Le diviseur. |
+| diviseur | Single | Le diviseur. |
 
-### Return_Value
+### Valeur de retour
 
 Le résultat de l'opérateur.
 
@@ -29,10 +30,10 @@ Le résultat de l'opérateur.
 | --- | --- |
 | ArgumentOutOfRangeException | diviseur - La division par zéro n'est pas autorisée. |
 
-### Voir également
+### Voir aussi
 
 * struct [RectangleF](../)
-* espace de noms [Aspose.PSD](../../rectanglef/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

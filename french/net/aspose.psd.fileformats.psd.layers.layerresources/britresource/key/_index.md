@@ -1,23 +1,24 @@
 ---
-title: BritResource.Key
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: BritResource propriété. Obtient la clé de ressource de couche.
+title: "BritResource.Key"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "BritResource propriété. Obtient la clé de la ressource de calque"
 type: docs
 weight: 40
 url: /fr/net/aspose.psd.fileformats.psd.layers.layerresources/britresource/key/
 ---
+{{< psd/tize >}}
 ## BritResource.Key property
 
-Obtient la clé de ressource de couche.
+Obtient la clé de ressource du calque.
 
 ```csharp
 public override int Key { get; }
 ```
 
-### Voir également
+### Voir aussi
 
 * class [BritResource](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../britresource/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

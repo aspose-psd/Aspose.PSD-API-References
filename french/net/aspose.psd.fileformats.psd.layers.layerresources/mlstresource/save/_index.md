@@ -1,11 +1,12 @@
 ---
-title: MlstResource.Save
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: MlstResource méthode. Enregistre le conteneur de flux spécifié.
+title: "MlstResource.Save"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "MlstResource méthode. Enregistre le conteneur de flux spécifié"
 type: docs
-weight: 80
+weight: 50
 url: /fr/net/aspose.psd.fileformats.psd.layers.layerresources/mlstresource/save/
 ---
+{{< psd/tize >}}
 ## MlstResource.Save method
 
 Enregistre le conteneur de flux spécifié.
@@ -14,16 +15,16 @@ Enregistre le conteneur de flux spécifié.
 public override void Save(StreamContainer streamContainer, int psdVersion)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
 | streamContainer | StreamContainer | Le conteneur de flux. |
 | psdVersion | Int32 | La version PSD. |
 
-### Voir également
+### Voir aussi
 
 * class [StreamContainer](../../../aspose.psd/streamcontainer/)
 * class [MlstResource](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../mlstresource/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

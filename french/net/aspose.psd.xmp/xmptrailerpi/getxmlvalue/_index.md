@@ -1,11 +1,12 @@
 ---
-title: XmpTrailerPi.GetXmlValue
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: XmpTrailerPi méthode. Convertit la valeur xmp en représentation xml.
+title: "XmpTrailerPi.GetXmlValue"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Méthode XmpTrailerPi. Convertit la valeur xmp en représentation xml"
 type: docs
 weight: 50
 url: /fr/net/aspose.psd.xmp/xmptrailerpi/getxmlvalue/
 ---
+{{< psd/tize >}}
 ## XmpTrailerPi.GetXmlValue method
 
 Convertit la valeur xmp en représentation xml.
@@ -14,14 +15,14 @@ Convertit la valeur xmp en représentation xml.
 public string GetXmlValue()
 ```
 
-### Return_Value
+### Valeur de retour
 
 Renvoie la représentation XML de XMP.
 
-### Voir également
+### Voir aussi
 
 * class [XmpTrailerPi](../)
-* espace de noms [Aspose.PSD.Xmp](../../xmptrailerpi/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

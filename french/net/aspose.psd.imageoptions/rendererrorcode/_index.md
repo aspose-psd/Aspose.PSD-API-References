@@ -1,14 +1,15 @@
 ---
-title: Enum RenderErrorCode
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: Aspose.PSD.ImageOptions.RenderErrorCode énumération. Représente les éventuelles sections manquantes dans le fichier CAO
+title: "Énum RenderErrorCode"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Énum Aspose.PSD.ImageOptions.RenderErrorCode. Représente les sections éventuellement manquantes dans un fichier CAD"
 type: docs
-weight: 4920
+weight: 5410
 url: /fr/net/aspose.psd.imageoptions/rendererrorcode/
 ---
+{{< psd/tize >}}
 ## RenderErrorCode enumeration
 
-Représente les éventuelles sections manquantes dans le fichier CAO
+Représente les sections manquantes possibles dans le fichier CAD
 
 ```csharp
 public enum RenderErrorCode
@@ -16,17 +17,17 @@ public enum RenderErrorCode
 
 ### Valeurs
 
-| Nom | Évaluer | La description |
+| Nom | Valeur | Description |
 | --- | --- | --- |
-| MissingHeader | `0` | L'en-tête est manquant |
-| MissingLayouts | `1` | Les informations de mise en page sont manquantes |
-| MissingBlocks | `2` | Les informations de bloc sont manquantes |
-| MissingDimensionStyles | `3` | Les informations sur les styles de cotation sont manquantes |
-| MissingStyles | `4` | Les informations sur les styles sont manquantes |
+| MissingHeader | `0` | En-tête manquant |
+| MissingLayouts | `1` | Informations sur les mises en page manquantes |
+| MissingBlocks | `2` | Informations sur le bloc manquantes |
+| MissingDimensionStyles | `3` | Informations sur les styles de dimension manquantes |
+| MissingStyles | `4` | Informations sur les styles manquantes |
 
-### Voir également
+### Voir aussi
 
-* espace de noms [Aspose.PSD.ImageOptions](../../aspose.psd.imageoptions/)
-* Assemblée [Aspose.PSD](../../)
+* namespace [Aspose.PSD.ImageOptions](../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../)
 
 

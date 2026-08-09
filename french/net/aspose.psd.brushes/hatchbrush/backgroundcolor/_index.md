@@ -1,28 +1,29 @@
 ---
-title: HatchBrush.BackgroundColor
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: HatchBrush propriété. Obtient ou définit la couleur des espaces entre les lignes hachurées.
+title: "HatchBrush.BackgroundColor"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété HatchBrush. Obtient ou définit la couleur des espaces entre les lignes de hachure"
 type: docs
 weight: 20
 url: /fr/net/aspose.psd.brushes/hatchbrush/backgroundcolor/
 ---
+{{< psd/tize >}}
 ## HatchBrush.BackgroundColor property
 
-Obtient ou définit la couleur des espaces entre les lignes hachurées.
+Obtient ou définit la couleur des espaces entre les lignes de hachure.
 
 ```csharp
 public Color BackgroundColor { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
-La couleur des espaces entre les lignes hachurées.
+La couleur des espaces entre les lignes de hachure.
 
-### Voir également
+### Voir aussi
 
 * struct [Color](../../../aspose.psd/color/)
 * class [HatchBrush](../)
-* espace de noms [Aspose.PSD.Brushes](../../hatchbrush/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
+* assembly [Aspose.PSD](../../../)
 
 

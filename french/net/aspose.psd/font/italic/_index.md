@@ -1,27 +1,28 @@
 ---
-title: Font.Italic
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: Font propriété. Obtient une valeur indiquant si celaFontest en italique.
+title: "Font.Italic"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété Font. Obtient une valeur indiquant si cette Font est en italique"
 type: docs
 weight: 40
 url: /fr/net/aspose.psd/font/italic/
 ---
+{{< psd/tize >}}
 ## Font.Italic property
 
-Obtient une valeur indiquant si cela[`Font`](../)est en italique.
+Obtient une valeur indiquant si cette [`Font`](../) est en italique.
 
 ```csharp
 public bool Italic { get; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
-Vrai si cela[`Font`](../) est en italique ; sinon, faux.
+Vrai si cette [`Font`](../) est en italique ; sinon, faux.
 
-### Voir également
+### Voir aussi
 
 * class [Font](../)
-* espace de noms [Aspose.PSD](../../font/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

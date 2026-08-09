@@ -1,23 +1,24 @@
 ---
-title: Namespaces.XmpTypeFont
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: Namespaces champ. Type de police XMP.
+title: "Namespaces.XmpTypeFont"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Champ Namespaces. type de police XMP"
 type: docs
 weight: 130
 url: /fr/net/aspose.psd.xmp/namespaces/xmptypefont/
 ---
+{{< psd/tize >}}
 ## Namespaces.XmpTypeFont field
 
-Type de police XMP.
+Type XMP Font.
 
 ```csharp
 public const string XmpTypeFont;
 ```
 
-### Voir également
+### Voir aussi
 
 * class [Namespaces](../)
-* espace de noms [Aspose.PSD.Xmp](../../namespaces/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: NonGenericDictionary.Remove
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: NonGenericDictionary méthode. Supprime lélément avec la clé spécifiée du IDictionary objet.
+title: "Méthode NonGenericDictionary. Supprime l'élément avec la clé spécifiée de l'objet IDictionary"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "La clé de l'élément à supprimer."
 type: docs
 weight: 150
 url: /fr/net/aspose.psd/nongenericdictionary/remove/
 ---
+{{< psd/tize >}}
 ## NonGenericDictionary.Remove method
 
-Supprime l'élément avec la clé spécifiée du IDictionary objet.
+Supprime l'élément avec la clé spécifiée de l'objet IDictionary.
 
 ```csharp
 public void Remove(object key)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
-| key | Object | Clé de l'élément à supprimer. |
+| clé | Object | NonGenericDictionary.GetEnumerator |
 
-### Voir également
+### Voir aussi
 
 * class [NonGenericDictionary](../)
-* espace de noms [Aspose.PSD](../../nongenericdictionary/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

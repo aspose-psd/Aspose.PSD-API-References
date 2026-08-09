@@ -1,27 +1,28 @@
 ---
-title: IRasterImageRawDataLoader.IsRawDataAvailable
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: IRasterImageRawDataLoader propriété. Obtient une valeur indiquant si le chargement des données brutes est pris en charge.
+title: "IRasterImageRawDataLoader.IsRawDataAvailable"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété IRasterImageRawDataLoader. Obtient une valeur indiquant si le chargement de données brutes est pris en charge"
 type: docs
 weight: 10
 url: /fr/net/aspose.psd/irasterimagerawdataloader/israwdataavailable/
 ---
+{{< psd/tize >}}
 ## IRasterImageRawDataLoader.IsRawDataAvailable property
 
-Obtient une valeur indiquant si le chargement des données brutes est pris en charge.
+Obtient une valeur indiquant si le chargement de données brutes est pris en charge.
 
 ```csharp
 public bool IsRawDataAvailable { get; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
-`vrai` si le chargement des données brutes est pris en charge ; sinon,`FAUX` .
+`true` si le chargement des données brutes est pris en charge ; sinon, `false`.
 
-### Voir également
+### Voir aussi
 
 * interface [IRasterImageRawDataLoader](../)
-* espace de noms [Aspose.PSD](../../irasterimagerawdataloader/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

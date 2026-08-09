@@ -1,11 +1,12 @@
 ---
-title: Graphics.CompositingQuality
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: Graphics propriété. Obtient ou définit la qualité de composition.
+title: "Graphics.CompositingQuality"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété Graphics. Obtient ou définit la qualité de composition"
 type: docs
 weight: 30
 url: /fr/net/aspose.psd/graphics/compositingquality/
 ---
+{{< psd/tize >}}
 ## Graphics.CompositingQuality property
 
 Obtient ou définit la qualité de composition.
@@ -14,15 +15,15 @@ Obtient ou définit la qualité de composition.
 public CompositingQuality CompositingQuality { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
 La qualité de composition.
 
-### Voir également
+### Voir aussi
 
 * enum [CompositingQuality](../../compositingquality/)
 * class [Graphics](../)
-* espace de noms [Aspose.PSD](../../graphics/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

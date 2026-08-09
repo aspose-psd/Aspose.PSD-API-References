@@ -1,11 +1,12 @@
 ---
-title: RotateFlipExtensions.ToGdiRotateFlipType
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: RotateFlipExtensions méthode. Convertit Aspose.PSD.RotateFlipType en System.Drawing.RotateFlipType.
+title: "RotateFlipExtensions.ToGdiRotateFlipType"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Méthode RotateFlipExtensions. Convertit Aspose.PSD.RotateFlipType en System.Drawing.RotateFlipType"
 type: docs
 weight: 10
 url: /fr/net/aspose.psd.extensions/rotateflipextensions/togdirotatefliptype/
 ---
+{{< psd/tize >}}
 ## RotateFlipExtensions.ToGdiRotateFlipType method
 
 Convertit Aspose.PSD.RotateFlipType en System.Drawing.RotateFlipType.
@@ -14,19 +15,19 @@ Convertit Aspose.PSD.RotateFlipType en System.Drawing.RotateFlipType.
 public static RotateFlipType ToGdiRotateFlipType(RotateFlipType rotateFlipType)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
-| rotateFlipType | RotateFlipType | Type de retournement de rotation. |
+| rotateFlipType | RotateFlipType | Type de la rotation inversée. |
 
-### Return_Value
+### Valeur de retour
 
-Le gdi RotateFlipType
+Le RotateFlipType gdi
 
-### Voir également
+### Voir aussi
 
 * enum [RotateFlipType](../../../aspose.psd/rotatefliptype/)
 * class [RotateFlipExtensions](../)
-* espace de noms [Aspose.PSD.Extensions](../../rotateflipextensions/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Extensions](../../../aspose.psd.extensions/)
+* assembly [Aspose.PSD](../../../)
 
 

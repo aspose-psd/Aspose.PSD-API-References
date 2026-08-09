@@ -1,90 +1,91 @@
 ---
-title: Region.Intersect
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: Region méthode. Met à jour ceciRegion à lintersection de luimême avec le spécifiéRectangleFstructure.
+title: "Region.Intersect"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Méthode Region. Met à jour cette Region à l'intersection d'elle-même avec la structure RectangleF spécifiée"
 type: docs
-weight: 60
+weight: 70
 url: /fr/net/aspose.psd/region/intersect/
 ---
+{{< psd/tize >}}
 ## Intersect(RectangleF) {#intersect_2}
 
-Met à jour ceci[`Region`](../) à l'intersection de lui-même avec le spécifié[`RectangleF`](../../rectanglef/)structure.
+Met à jour cette [`Region`](../) à l'intersection d'elle-même avec la structure [`RectangleF`](../../rectanglef/) spécifiée.
 
 ```csharp
 public void Intersect(RectangleF rect)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
-| rect | RectangleF | Le[`RectangleF`](../../rectanglef/) structure à croiser avec cette[`Region`](../). |
+| rect | RectangleF | La structure [`RectangleF`](../../rectanglef/) à intersecter avec cette [`Region`](../). |
 
-### Voir également
+### Voir aussi
 
 * struct [RectangleF](../../rectanglef/)
 * class [Region](../)
-* espace de noms [Aspose.PSD](../../region/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Intersect(Rectangle) {#intersect_1}
 
-Met à jour ceci[`Region`](../) à l'intersection de lui-même avec le spécifié[`Rectangle`](../../rectangle/)structure.
+Met à jour cette [`Region`](../) à l'intersection d'elle-même avec la structure [`Rectangle`](../../rectangle/) spécifiée.
 
 ```csharp
 public void Intersect(Rectangle rect)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
-| rect | Rectangle | Le[`Rectangle`](../../rectangle/) structure à croiser avec cette[`Region`](../). |
+| rect | Rectangle | La structure [`Rectangle`](../../rectangle/) à intersecter avec cette [`Region`](../). |
 
-### Voir également
+### Voir aussi
 
 * struct [Rectangle](../../rectangle/)
 * class [Region](../)
-* espace de noms [Aspose.PSD](../../region/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Intersect(GraphicsPath) {#intersect}
 
-Met à jour ceci[`Region`](../) à l'intersection de lui-même avec le spécifié[`GraphicsPath`](../../graphicspath/) .
+Met à jour cette [`Region`](../) à l'intersection d'elle-même avec le [`GraphicsPath`](../../graphicspath/) spécifié.
 
 ```csharp
 public void Intersect(GraphicsPath path)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
-| path | GraphicsPath | Le[`GraphicsPath`](../../graphicspath/) se croiser avec ça[`Region`](../). |
+| path | GraphicsPath | Le [`GraphicsPath`](../../graphicspath/) à intersecter avec cette [`Region`](../). |
 
-### Voir également
+### Voir aussi
 
 * class [GraphicsPath](../../graphicspath/)
 * class [Region](../)
-* espace de noms [Aspose.PSD](../../region/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Intersect(Region) {#intersect_3}
 
-Met à jour ceci[`Region`](../) à l'intersection de lui-même avec le spécifié[`Region`](../) .
+Met à jour cette [`Region`](../) à l'intersection d'elle-même avec la [`Region`](../) spécifiée.
 
 ```csharp
 public void Intersect(Region region)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
-| region | Region | Le[`Region`](../) se croiser avec ça[`Region`](../). |
+| region | Region | La [`Region`](../) à intersecter avec cette [`Region`](../). |
 
-### Voir également
+### Voir aussi
 
 * class [Region](../)
-* espace de noms [Aspose.PSD](../../region/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,32 +1,40 @@
 ---
-title: Class PatternFillSettings
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: Aspose.PSD.FileFormats.Psd.Layers.FillSettings.PatternFillSettings classe. Paramètres deffet de remplissage de motif
+title: "Classe PatternFillSettings"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Classe Aspose.PSD.FileFormats.Psd.Layers.FillSettings.PatternFillSettings. Paramètres de l'effet de remplissage de motif"
 type: docs
-weight: 2040
+weight: 2170
 url: /fr/net/aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings/
 ---
+{{< psd/tize >}}
 ## PatternFillSettings class
 
-Paramètres d'effet de remplissage de motif
+Paramètres de l'effet de remplissage de motif
 
 ```csharp
 public class PatternFillSettings : BaseFillSettings, IPatternFillSettings
 ```
 
+## Constructeurs
+
+| Nom | Description |
+| --- | --- |
+| [PatternFillSettings](patternfillsettings/)() | Le constructeur par défaut. |
+
 ## Propriétés
 
-| Nom | La description |
+| Nom | Description |
 | --- | --- |
-| [AlignWithLayer](../../aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings/alignwithlayer/) { get; set; } | Obtient ou définit une valeur indiquant si [lien avec le calque]. |
+| [AlignWithLayer](../../aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings/alignwithlayer/) { get; set; } | Obtient ou définit une valeur indiquant si [link with layer]. |
+| [Angle](../../aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings/angle/) { get; set; } | Obtient ou définit l'angle. |
 | [Color](../../aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings/color/) { get; set; } | Obtient ou définit la couleur. |
 | override [FillType](../../aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings/filltype/) { get; } | Le type de remplissage |
 | [HorizontalOffset](../../aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings/horizontaloffset/) { get; set; } | Obtient ou définit le décalage horizontal. |
-| [Linked](../../aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings/linked/) { get; set; } | Obtient ou définit une valeur indiquant si cette`PatternFillSettings`est lié. |
-| [PatternData](../../aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings/patterndata/) { get; set; } | Obtient ou définit les données de modèle. |
+| [Linked](../../aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings/linked/) { get; set; } | Obtient ou définit une valeur indiquant si ce `PatternFillSettings` est lié. |
+| [PatternData](../../aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings/patterndata/) { get; set; } | Obtient ou définit les données du motif. |
 | [PatternHeight](../../aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings/patternheight/) { get; set; } | Obtient ou définit la hauteur du motif. |
-| [PatternId](../../aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings/patternid/) { get; set; } | Obtient ou définit l'identifiant du modèle. |
-| [PatternName](../../aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings/patternname/) { get; set; } | Obtient ou définit le nom du modèle. |
+| [PatternId](../../aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings/patternid/) { get; set; } | Obtient ou définit l'identifiant du motif. |
+| [PatternName](../../aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings/patternname/) { get; set; } | Obtient ou définit le nom du motif. |
 | [PatternWidth](../../aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings/patternwidth/) { get; set; } | Obtient ou définit la largeur du motif. |
 | [PointType](../../aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings/pointtype/) { get; set; } | Obtient ou définit le type du point. |
 | [Scale](../../aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings/scale/) { get; set; } | Obtient ou définit l'échelle. |
@@ -34,13 +42,13 @@ public class PatternFillSettings : BaseFillSettings, IPatternFillSettings
 
 ## Méthodes
 
-| Nom | La description |
+| Nom | Description |
 | --- | --- |
 | static [GenerateLfx2ResourceNodes](../../aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings/generatelfx2resourcenodes/)(string, Color, string, string, double, bool, PointF) | Génère les nœuds de ressources LFX2. |
 
-### Exemples
+## Exemples
 
-Le code suivant illustre la prise en charge de la modification du motif de calque de remplissage.
+Le code suivant montre la prise en charge de l'édition du motif de calque de remplissage.
 
 ```csharp
 [C#]
@@ -72,7 +80,7 @@ using (im)
                 throw new Exception("PSD Image was read wrong");
             }
 
-            // Édition 
+            // Modification 
             fillSettings.Scale = 300;
             fillSettings.HorizontalOffset = 2;
             fillSettings.VerticalOffset = -20;
@@ -95,7 +103,7 @@ using (im)
 }
 ```
 
-Le code suivant illustre la prise en charge du calque d'effet de trait avec le type de remplissage - Motif.
+Le code suivant montre la prise en charge du calque d'effet de contour avec le type de remplissage - Motif.
 
 ```csharp
 [C#]
@@ -174,7 +182,7 @@ using (var im = (PsdImage)Image.Load(sourceFileName, loadOptions))
     im.Save(exportPath);
 }
 
-// Tester le fichier après modification
+// Fichier de test après modification
 using (var im = (PsdImage)Image.Load(exportPath, loadOptions))
 {
     var patternStroke = (StrokeEffect)im.Layers[3].BlendingOptions.Effects[0];
@@ -208,11 +216,11 @@ using (var im = (PsdImage)Image.Load(exportPath, loadOptions))
 }
 ```
 
-### Voir également
+### Voir aussi
 
 * class [BaseFillSettings](../basefillsettings/)
 * interface [IPatternFillSettings](../ipatternfillsettings/)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../aspose.psd.fileformats.psd.layers.fillsettings/)
-* Assemblée [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../)
 
 

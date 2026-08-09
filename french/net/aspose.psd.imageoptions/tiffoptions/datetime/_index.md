@@ -1,11 +1,12 @@
 ---
-title: TiffOptions.DateTime
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: TiffOptions propriété. Obtient ou définit la date et lheure.
+title: "TiffOptions.DateTime"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété TiffOptions. Obtient ou définit la date et l'heure"
 type: docs
 weight: 110
 url: /fr/net/aspose.psd.imageoptions/tiffoptions/datetime/
 ---
+{{< psd/tize >}}
 ## TiffOptions.DateTime property
 
 Obtient ou définit la date et l'heure.
@@ -14,14 +15,14 @@ Obtient ou définit la date et l'heure.
 public string DateTime { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
 La date et l'heure.
 
-### Voir également
+### Voir aussi
 
 * class [TiffOptions](../)
-* espace de noms [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

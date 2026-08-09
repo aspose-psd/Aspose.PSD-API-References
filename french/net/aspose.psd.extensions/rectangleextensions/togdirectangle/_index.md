@@ -1,57 +1,58 @@
 ---
-title: RectangleExtensions.ToGdiRectangle
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: RectangleExtensions méthode. Convertit leRectangle auRectangle .
+title: "RectangleExtensions.ToGdiRectangle"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Méthode RectangleExtensions. Convertit le Rectangle en Rectangle."
 type: docs
 weight: 10
 url: /fr/net/aspose.psd.extensions/rectangleextensions/togdirectangle/
 ---
+{{< psd/tize >}}
 ## ToGdiRectangle(Rectangle) {#togdirectangle}
 
-Convertit le[`Rectangle`](../../../aspose.psd/rectangle/) auRectangle .
+Convertit le [`Rectangle`](../../../aspose.psd/rectangle/) en Rectangle.
 
 ```csharp
 public static Rectangle ToGdiRectangle(Rectangle rectangle)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
 | rectangle | Rectangle | Le rectangle à convertir. |
 
-### Return_Value
+### Valeur de retour
 
-Le convertiRectangle.
+Le rectangle converti.
 
-### Voir également
+### Voir aussi
 
 * struct [Rectangle](../../../aspose.psd/rectangle/)
 * class [RectangleExtensions](../)
-* espace de noms [Aspose.PSD.Extensions](../../rectangleextensions/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Extensions](../../../aspose.psd.extensions/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## ToGdiRectangle(RectangleF) {#togdirectangle_1}
 
-Convertit le[`RectangleF`](../../../aspose.psd/rectanglef/) auRectangle .
+Convertit le [`RectangleF`](../../../aspose.psd/rectanglef/) en Rectangle.
 
 ```csharp
 public static RectangleF ToGdiRectangle(RectangleF rectangle)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
 | rectangle | RectangleF | Le rectangle à convertir. |
 
-### Return_Value
+### Valeur de retour
 
-Le convertiRectangleF.
+Le RectangleF converti.
 
-### Voir également
+### Voir aussi
 
 * struct [RectangleF](../../../aspose.psd/rectanglef/)
 * class [RectangleExtensions](../)
-* espace de noms [Aspose.PSD.Extensions](../../rectangleextensions/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Extensions](../../../aspose.psd.extensions/)
+* assembly [Aspose.PSD](../../../)
 
 

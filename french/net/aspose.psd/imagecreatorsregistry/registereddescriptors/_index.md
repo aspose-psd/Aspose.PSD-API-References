@@ -1,11 +1,12 @@
 ---
-title: ImageCreatorsRegistry.RegisteredDescriptors
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: ImageCreatorsRegistry propriété. Obtient les descripteurs enregistrés.
+title: "ImageCreatorsRegistry.RegisteredDescriptors"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété ImageCreatorsRegistry. Obtient les descripteurs enregistrés"
 type: docs
 weight: 10
 url: /fr/net/aspose.psd/imagecreatorsregistry/registereddescriptors/
 ---
+{{< psd/tize >}}
 ## ImageCreatorsRegistry.RegisteredDescriptors property
 
 Obtient les descripteurs enregistrés.
@@ -14,15 +15,15 @@ Obtient les descripteurs enregistrés.
 public static IImageCreatorDescriptor[] RegisteredDescriptors { get; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
 Les descripteurs enregistrés.
 
-### Voir également
+### Voir aussi
 
 * interface [IImageCreatorDescriptor](../../iimagecreatordescriptor/)
 * class [ImageCreatorsRegistry](../)
-* espace de noms [Aspose.PSD](../../imagecreatorsregistry/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

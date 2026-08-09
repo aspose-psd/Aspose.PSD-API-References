@@ -1,11 +1,12 @@
 ---
-title: PsdImage.ActiveLayer
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: PsdImage propriété. Obtient ou définit le calque actif.
+title: "PsdImage.ActiveLayer"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété PsdImage. Obtient ou définit le calque actif"
 type: docs
 weight: 20
 url: /fr/net/aspose.psd.fileformats.psd/psdimage/activelayer/
 ---
+{{< psd/tize >}}
 ## PsdImage.ActiveLayer property
 
 Obtient ou définit le calque actif.
@@ -14,7 +15,7 @@ Obtient ou définit le calque actif.
 public Layer ActiveLayer { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
 Le calque actif.
 
@@ -22,14 +23,14 @@ Le calque actif.
 
 | exception | condition |
 | --- | --- |
-| [TiffImageException](../../../aspose.psd.coreexceptions.imageformats/tiffimageexception/) | Il n'y a pas de calque actif ni de calque dans l'image. |
+| [TiffImageException](../../../aspose.psd.coreexceptions.imageformats/tiffimageexception/) | Il n'y a pas de calque actif et aucun calque dans l'image. |
 | [PsdImageException](../../../aspose.psd.coreexceptions.imageformats/psdimageexception/) | Le calque actif ne peut pas être défini car il appartient à une autre image. |
 
-### Voir également
+### Voir aussi
 
 * class [Layer](../../../aspose.psd.fileformats.psd.layers/layer/)
 * class [PsdImage](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

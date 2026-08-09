@@ -1,11 +1,12 @@
 ---
-title: Version.Modifier
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: Version propriété. Obtient ou définit le modificateur.
+title: "Version.Modifier"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété Version. Obtient ou définit le modificateur"
 type: docs
 weight: 40
 url: /fr/net/aspose.psd.xmp.types.complex.version/version/modifier/
 ---
+{{< psd/tize >}}
 ## Version.Modifier property
 
 Obtient ou définit le modificateur.
@@ -14,14 +15,14 @@ Obtient ou définit le modificateur.
 public string Modifier { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
 Le modificateur.
 
-### Voir également
+### Voir aussi
 
 * class [Version](../)
-* espace de noms [Aspose.PSD.Xmp.Types.Complex.Version](../../version/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.Version](../../../aspose.psd.xmp.types.complex.version/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: SmartObjectResource.FrameStepDenominator
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: SmartObjectResource propriété. Obtient ou définit le dénominateur de pas de trame.
+title: "SmartObjectResource.FrameStepDenominator"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "SmartObjectResource property. Obtient ou définit le dénominateur du pas d'image"
 type: docs
 weight: 80
 url: /fr/net/aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/framestepdenominator/
 ---
+{{< psd/tize >}}
 ## SmartObjectResource.FrameStepDenominator property
 
-Obtient ou définit le dénominateur de pas de trame.
+Obtient ou définit le dénominateur du pas d'image.
 
 ```csharp
 public int FrameStepDenominator { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
-Le dénominateur du pas de trame.
+Le dénominateur du pas d'image.
 
-### Voir également
+### Voir aussi
 
 * class [SmartObjectResource](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../smartobjectresource/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

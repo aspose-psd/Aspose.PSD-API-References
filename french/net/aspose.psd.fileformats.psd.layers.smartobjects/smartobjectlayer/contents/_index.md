@@ -1,32 +1,33 @@
 ---
-title: SmartObjectLayer.Contents
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: SmartObjectLayer propriété. Obtient ou définit le contenu de la couche dobjet intelligent. Le contenu de lobjet intelligent intégré est le fichier dimage brute intégré Data et ses propriétés. Le contenu de lobjet intelligent lié est le contenu brut du fichier image lié sil est disponible et ses propriétés LiFeDataSource . Nous ne prenons pas en charge le chargement à partir de la bibliothèque graphique Adobe Photoshop  lorsqueIsLibraryLink est vrai. Pour les fichiers de liens réguliers nous utilisons dabordRelativePath pour rechercher le fichier relativement au chemin de limage sourceSourceImagePath  sil nest pas disponible nous regardonsFullPath  sinon alors nous cherchons le fichier de lien dans le même répertoire où se trouve notre image SourceImagePath .
+title: "SmartObjectLayer.Contents"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété SmartObjectLayer. Obtient ou définit le contenu du calque d'objet dynamique. Le contenu de l'objet dynamique incorporé est le fichier image brut incorporé Data et ses propriétés. Le contenu de l'objet dynamique lié est le contenu brut du fichier image lié s'il est disponible et ses propriétés LiFeDataSource. Nous ne prenons pas en charge le chargement depuis la Adobe Photoshop Graphics Library lorsque IsLibraryLink est vrai. Pour les fichiers liés ordinaires, nous utilisons d'abord RelativePath pour rechercher le fichier relativement au chemin de l'image source SourceImagePath ; s'il n'est pas disponible, nous consultons FullPath ; sinon nous recherchons le fichier lié dans le même répertoire que notre image SourceImagePath."
 type: docs
-weight: 10
+weight: 20
 url: /fr/net/aspose.psd.fileformats.psd.layers.smartobjects/smartobjectlayer/contents/
 ---
+{{< psd/tize >}}
 ## SmartObjectLayer.Contents property
 
-Obtient ou définit le contenu de la couche d'objet intelligent. Le contenu de l'objet intelligent intégré est le fichier d'image brute intégré :[`Data`](../../../aspose.psd.fileformats.psd.layers.layerresources/lifddatasource/data/) et ses propriétés. Le contenu de l'objet intelligent lié est le contenu brut du fichier image lié s'il est disponible et ses propriétés :[`LiFeDataSource`](../../../aspose.psd.fileformats.psd.layers.layerresources/lifedatasource/) . Nous ne prenons pas en charge le chargement à partir de la bibliothèque graphique Adobe� Photoshop� �� lorsque[`IsLibraryLink`](../../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/islibrarylink/) est vrai. Pour les fichiers de liens réguliers, nous utilisons d'abord[`RelativePath`](../../../aspose.psd.fileformats.psd.layers.layerresources/lifedatasource/relativepath/) pour rechercher le fichier relativement au chemin de l'image sourceSourceImagePath , s'il n'est pas disponible nous regardons[`FullPath`](../../../aspose.psd.fileformats.psd.layers.layerresources/lifedatasource/fullpath/) , sinon alors nous cherchons le fichier de lien dans le même répertoire où se trouve notre image :SourceImagePath .
+Obtient ou définit le contenu du calque d'objet dynamique. Le contenu de l'objet dynamique incorporé est le fichier image brut incorporé : [`Data`](../../../aspose.psd.fileformats.psd.layers.layerresources/lifddatasource/data/) et ses propriétés. Le contenu de l'objet dynamique lié est le contenu brut du fichier image lié s'il est disponible et ses propriétés : [`LiFeDataSource`](../../../aspose.psd.fileformats.psd.layers.layerresources/lifedatasource/). Nous ne prenons pas en charge le chargement depuis la Adobe Photoshop Graphics Library lorsque [`IsLibraryLink`](../../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/islibrarylink/) est vrai. Pour les fichiers liés ordinaires, nous utilisons d'abord [`RelativePath`](../../../aspose.psd.fileformats.psd.layers.layerresources/lifedatasource/relativepath/) pour rechercher le fichier relativement au chemin de l'image source SourceImagePath ; s'il n'est pas disponible, nous consultons [`FullPath`](../../../aspose.psd.fileformats.psd.layers.layerresources/lifedatasource/fullpath/), sinon nous recherchons le fichier lié dans le même répertoire que notre image : SourceImagePath.
 
 ```csharp
 public byte[] Contents { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
-Lebyte[] contenu de la couche d'objets intelligents.
+Le contenu du calque d'objet dynamique sous forme de byte[].
 
 ### Exceptions
 
 | exception | condition |
 | --- | --- |
-| NotSupportedException | Impossible d'obtenir le contenu de la bibliothèque Adobe� Photoshop� ��. |
+| NotSupportedException | Impossible d'obtenir le contenu depuis la bibliothèque Adobe Photoshop. |
 
-### Exemples
+## Exemples
 
-Le code suivant illustre la prise en charge des objets intelligents intégrés.
+Le code suivant démontre la prise en charge des objets dynamiques intégrés.
 
 ```csharp
 [C#]
@@ -39,7 +40,7 @@ void AssertAreEqual(object actual, object expected)
     }
 }
 
-// Cet exemple montre comment modifier le calque d'objet intelligent dans le fichier PSD et exporter/mettre à jour le contenu intégré d'origine de l'objet intelligent.
+// Cet exemple montre comment modifier le calque d'objet dynamique dans le fichier PSD et exporter / mettre à jour le contenu intégré original de l'objet dynamique.
 const int left = 0;
 const int top = 0;
 const int right = 0xb;
@@ -68,10 +69,10 @@ foreach (FileFormat format in formats)
         AssertAreEqual(right, smartObjectLayer.ContentsBounds.Right);
         AssertAreEqual(bottom, smartObjectLayer.ContentsBounds.Bottom);
 
-        // Exportons l'image de l'objet intelligent intégré à partir du calque d'objet intelligent PSD
+        // Exportons l'image d'objet dynamique intégré depuis le calque d'objet dynamique du PSD
         smartObjectLayer.ExportContents(exportPath);
 
-        // Vérifions si l'image d'origine est correctement enregistrée
+        // Vérifions si l'image originale est enregistrée correctement
         image.Save(psdOutputPath, new PsdOptions(image));
         image.Save(pngOutputPath, new PngOptions() { ColorType = PngColorType.TruecolorWithAlpha });
 
@@ -79,7 +80,7 @@ foreach (FileFormat format in formats)
         {
             AssertAreEqual(format, innerImage.FileFormat);
 
-            // Inversons l'image originale de l'objet intelligent
+            // Inversons l'image originale de l'objet dynamique
             var pixels = innerImage.LoadArgb32Pixels(innerImage.Bounds);
             for (int i = 0; i < pixels.Length; i++)
             {
@@ -90,21 +91,21 @@ foreach (FileFormat format in formats)
 
             innerImage.SaveArgb32Pixels(innerImage.Bounds, pixels);
 
-            // Remplaçons l'image de l'objet intelligent intégré dans la couche PSD
+            // Remplaçons l'image d'objet dynamique intégré dans le calque PSD
             smartObjectLayer.ReplaceContents(innerImage);
         }
 
-        // Vérifions si l'image mise à jour est correctement enregistrée
+        // Vérifions si l'image mise à jour est enregistrée correctement
         image.Save(psd2OutputPath, new PsdOptions(image));
         image.Save(png2OutputPath, new PngOptions() { ColorType = PngColorType.TruecolorWithAlpha });
     }
 }
 ```
 
-### Voir également
+### Voir aussi
 
 * class [SmartObjectLayer](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.SmartObjects](../../smartobjectlayer/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.SmartObjects](../../../aspose.psd.fileformats.psd.layers.smartobjects/)
+* assembly [Aspose.PSD](../../../)
 
 

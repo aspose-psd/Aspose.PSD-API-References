@@ -1,11 +1,12 @@
 ---
-title: ILayerEffect.Opacity
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: ILayerEffect propriété. Obtient ou définit lopacité où 255  100
+title: "ILayerEffect.Opacity"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété ILayerEffect. Obtient ou définit l'opacité où 255 = 100"
 type: docs
 weight: 40
 url: /fr/net/aspose.psd.fileformats.psd.layers.layereffects/ilayereffect/opacity/
 ---
+{{< psd/tize >}}
 ## ILayerEffect.Opacity property
 
 Obtient ou définit l'opacité où 255 = 100%
@@ -14,14 +15,14 @@ Obtient ou définit l'opacité où 255 = 100%
 public byte Opacity { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
 L'opacité.
 
-### Voir également
+### Voir aussi
 
 * interface [ILayerEffect](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../ilayereffect/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: Enum ExifContrast
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: Aspose.PSD.Exif.Enums.ExifContrast énumération. exif normal soft hard enum.
+title: "Enum ExifContrast"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Aspose.PSD.Exif.Enums.ExifContrast enum. exif normal doux dur enum"
 type: docs
-weight: 810
+weight: 820
 url: /fr/net/aspose.psd.exif.enums/exifcontrast/
 ---
+{{< psd/tize >}}
 ## ExifContrast enumeration
 
-exif normal soft hard enum.
+énumération exif normal souple dur.
 
 ```csharp
 public enum ExifContrast
@@ -16,15 +17,15 @@ public enum ExifContrast
 
 ### Valeurs
 
-| Nom | Évaluer | La description |
+| Nom | Valeur | Description |
 | --- | --- | --- |
 | Normal | `0` | Contraste normal. |
-| Low | `1` | Faible contraste. |
+| Low | `1` | Contraste faible. |
 | High | `2` | Contraste élevé. |
 
-### Voir également
+### Voir aussi
 
-* espace de noms [Aspose.PSD.Exif.Enums](../../aspose.psd.exif.enums/)
-* Assemblée [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Exif.Enums](../../aspose.psd.exif.enums/)
+* assembly [Aspose.PSD](../../)
 
 

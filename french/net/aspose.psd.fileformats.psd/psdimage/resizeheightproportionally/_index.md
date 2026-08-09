@@ -1,33 +1,12 @@
 ---
-title: PsdImage.ResizeHeightProportionally
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: PsdImage méthode. Redimensionne la hauteur proportionnellement.
+title: "PsdImage.ResizeHeightProportionally"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Méthode PsdImage. Redimensionne la hauteur proportionnellement."
 type: docs
-weight: 590
+weight: 650
 url: /fr/net/aspose.psd.fileformats.psd/psdimage/resizeheightproportionally/
 ---
-## ResizeHeightProportionally(int, ImageResizeSettings) {#resizeheightproportionally_1}
-
-Redimensionne la hauteur proportionnellement.
-
-```csharp
-public override void ResizeHeightProportionally(int newHeight, ImageResizeSettings settings)
-```
-
-| Paramètre | Taper | La description |
-| --- | --- | --- |
-| newHeight | Int32 | La nouvelle hauteur. |
-| settings | ImageResizeSettings | Les paramètres de redimensionnement de l'image. |
-
-### Voir également
-
-* class [ImageResizeSettings](../../../aspose.psd/imageresizesettings/)
-* class [PsdImage](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* Assemblée [Aspose.PSD](../../../)
-
----
-
+{{< psd/tize >}}
 ## ResizeHeightProportionally(int, ResizeType) {#resizeheightproportionally_2}
 
 Redimensionne la hauteur proportionnellement.
@@ -36,16 +15,38 @@ Redimensionne la hauteur proportionnellement.
 public override void ResizeHeightProportionally(int newHeight, ResizeType resizeType)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
 | newHeight | Int32 | La nouvelle hauteur. |
-| resizeType | ResizeType | Type de redimensionnement. |
+| resizeType | ResizeType | Type du redimensionnement. |
 
-### Voir également
+### Voir aussi
 
 * enum [ResizeType](../../../aspose.psd/resizetype/)
 * class [PsdImage](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
+
+---
+
+## ResizeHeightProportionally(int, ImageResizeSettings) {#resizeheightproportionally_1}
+
+Redimensionne la hauteur proportionnellement.
+
+```csharp
+public override void ResizeHeightProportionally(int newHeight, ImageResizeSettings settings)
+```
+
+| Paramètre | Type | Description |
+| --- | --- | --- |
+| newHeight | Int32 | La nouvelle hauteur. |
+| paramètres | ImageResizeSettings | Les paramètres de redimensionnement de l'image. |
+
+### Voir aussi
+
+* class [ImageResizeSettings](../../../aspose.psd/imageresizesettings/)
+* class [PsdImage](../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

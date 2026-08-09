@@ -1,28 +1,29 @@
 ---
-title: LnsrResource.Value
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: LnsrResource propriété. Obtient la valeur en tant que LnsrResourceType si lénumération correspondante est décrite. Sinon retourne Unknown
+title: "LnsrResource.Value"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété LnsrResource. Obtient la valeur en tant que LnsrResourceType si l'énumération correspondante est décrite. Sinon, renvoie Unknown."
 type: docs
-weight: 70
+weight: 40
 url: /fr/net/aspose.psd.fileformats.psd.layers.layerresources/lnsrresource/value/
 ---
+{{< psd/tize >}}
 ## LnsrResource.Value property
 
-Obtient la valeur en tant que LnsrResourceType si l'énumération correspondante est décrite. Sinon, retourne Unknown
+Obtient la valeur en tant que LnsrResourceType si l'énumération correspondante est décrite. Sinon retourne Unknown
 
 ```csharp
 public LnsrResourceType Value { get; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
 La valeur en tant que LnsrResourceType
 
-### Voir également
+### Voir aussi
 
 * enum [LnsrResourceType](../../lnsrresourcetype/)
 * class [LnsrResource](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../lnsrresource/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

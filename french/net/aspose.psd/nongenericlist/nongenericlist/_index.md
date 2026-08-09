@@ -1,27 +1,28 @@
 ---
-title: NonGenericList.NonGenericList
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: NonGenericList constructeur. Initialise une nouvelle instance duNonGenericList classe.
+title: "NonGenericList.NonGenericList"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Constructeur NonGenericList. Initialise une nouvelle instance de la classe NonGenericList"
 type: docs
 weight: 10
 url: /fr/net/aspose.psd/nongenericlist/nongenericlist/
 ---
+{{< psd/tize >}}
 ## NonGenericList constructor
 
-Initialise une nouvelle instance du[`NonGenericList`](../) classe.
+Initialise une nouvelle instance de la classe [`NonGenericList`](../).
 
 ```csharp
 public NonGenericList(IList list)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
-| list | IList | La liste - conteneur d'objets. |
+| liste | IList | La liste - conteneur d'objets. |
 
-### Voir également
+### Voir aussi
 
 * class [NonGenericList](../)
-* espace de noms [Aspose.PSD](../../nongenericlist/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

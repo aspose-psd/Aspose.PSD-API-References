@@ -1,11 +1,12 @@
 ---
-title: ImageAttributes.SetColorKey
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: ImageAttributes méthode. Définit la clé de couleur pour la catégorie par défaut.
+title: "ImageAttributes.SetColorKey"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Méthode ImageAttributes. Définit la clé de couleur pour la catégorie par défaut."
 type: docs
 weight: 120
 url: /fr/net/aspose.psd/imageattributes/setcolorkey/
 ---
+{{< psd/tize >}}
 ## SetColorKey(Color, Color) {#setcolorkey}
 
 Définit la clé de couleur pour la catégorie par défaut.
@@ -14,17 +15,17 @@ Définit la clé de couleur pour la catégorie par défaut.
 public void SetColorKey(Color colorLow, Color colorHigh)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
-| colorLow | Color | La faible valeur de clé de couleur. |
-| colorHigh | Color | La valeur élevée de clé de couleur. |
+| colorLow | Couleur | La valeur basse de la clé de couleur. |
+| colorHigh | Couleur | La valeur haute de la clé de couleur. |
 
-### Voir également
+### Voir aussi
 
 * struct [Color](../../color/)
 * class [ImageAttributes](../)
-* espace de noms [Aspose.PSD](../../imageattributes/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
@@ -36,18 +37,18 @@ Définit la clé de couleur (plage de transparence) pour une catégorie spécifi
 public void SetColorKey(Color colorLow, Color colorHigh, ColorAdjustType type)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
-| colorLow | Color | La faible valeur de clé de couleur. |
-| colorHigh | Color | La valeur élevée de clé de couleur. |
-| type | ColorAdjustType | Un élément de[`ColorAdjustType`](../../coloradjusttype/) qui spécifie la catégorie pour laquelle la clé de couleur est définie. |
+| colorLow | Couleur | La valeur basse de la clé de couleur. |
+| colorHigh | Couleur | La valeur haute de la clé de couleur. |
+| type | ColorAdjustType | Un élément de [`ColorAdjustType`](../../coloradjusttype/) qui spécifie la catégorie pour laquelle la clé de couleur est définie. |
 
-### Voir également
+### Voir aussi
 
 * struct [Color](../../color/)
 * enum [ColorAdjustType](../../coloradjusttype/)
 * class [ImageAttributes](../)
-* espace de noms [Aspose.PSD](../../imageattributes/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

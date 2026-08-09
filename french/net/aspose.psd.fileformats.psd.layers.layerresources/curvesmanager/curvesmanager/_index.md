@@ -1,27 +1,28 @@
 ---
-title: CurvesManager.CurvesManager
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: CurvesManager constructeur. Initialise une nouvelle instance duCurvesManager classe.
+title: "CurvesManager.CurvesManager"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Constructeur CurvesManager. Initialise une nouvelle instance de la classe CurvesManager"
 type: docs
 weight: 10
 url: /fr/net/aspose.psd.fileformats.psd.layers.layerresources/curvesmanager/curvesmanager/
 ---
+{{< psd/tize >}}
 ## CurvesManager constructor
 
-Initialise une nouvelle instance du[`CurvesManager`](../) classe.
+Initialise une nouvelle instance de la classe [`CurvesManager`](../).
 
 ```csharp
 public CurvesManager(int maxChannelCount)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
 | maxChannelCount | Int32 | Le nombre maximal de canaux. |
 
-### Voir également
+### Voir aussi
 
 * class [CurvesManager](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../curvesmanager/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

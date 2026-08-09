@@ -1,14 +1,15 @@
 ---
-title: Class ColorOverlayEffect
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerEffects.ColorOverlayEffect classe. Effet de calque de superposition de couleurs
+title: "Classe ColorOverlayEffect"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Aspose.PSD.FileFormats.Psd.Layers.LayerEffects.ColorOverlayEffect class. Effet de calque Superposition de couleur"
 type: docs
-weight: 2110
+weight: 2300
 url: /fr/net/aspose.psd.fileformats.psd.layers.layereffects/coloroverlayeffect/
 ---
+{{< psd/tize >}}
 ## ColorOverlayEffect class
 
-Effet de calque de superposition de couleurs
+Effet de calque de superposition de couleur.
 
 ```csharp
 public class ColorOverlayEffect : ILayerEffect
@@ -16,7 +17,7 @@ public class ColorOverlayEffect : ILayerEffect
 
 ## Propriétés
 
-| Nom | La description |
+| Nom | Description |
 | --- | --- |
 | [BlendMode](../../aspose.psd.fileformats.psd.layers.layereffects/coloroverlayeffect/blendmode/) { get; set; } | Obtient ou définit le mode de fusion. |
 | [Color](../../aspose.psd.fileformats.psd.layers.layereffects/coloroverlayeffect/color/) { get; set; } | Obtient ou définit la couleur. |
@@ -24,10 +25,16 @@ public class ColorOverlayEffect : ILayerEffect
 | [IsVisible](../../aspose.psd.fileformats.psd.layers.layereffects/coloroverlayeffect/isvisible/) { get; set; } | Obtient ou définit une valeur indiquant si cette instance est visible. |
 | [Opacity](../../aspose.psd.fileformats.psd.layers.layereffects/coloroverlayeffect/opacity/) { get; set; } | Obtient ou définit l'opacité. |
 
-### Voir également
+## Méthodes
+
+| Nom | Description |
+| --- | --- |
+| [GetEffectBounds](../../aspose.psd.fileformats.psd.layers.layereffects/coloroverlayeffect/geteffectbounds/)(Rectangle, int) | Calcule et obtient les limites des pixels d'effet basées sur les limites des pixels du calque d'entrée. |
+
+### Voir aussi
 
 * interface [ILayerEffect](../ilayereffect/)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../aspose.psd.fileformats.psd.layers.layereffects/)
-* Assemblée [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../)
 
 

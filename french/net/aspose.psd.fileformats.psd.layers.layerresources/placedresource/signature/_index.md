@@ -1,11 +1,12 @@
 ---
-title: PlacedResource.Signature
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: PlacedResource propriété. Obtient la signature de la ressource placée.
+title: "PlacedResource.Signature"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété PlacedResource. Obtient la signature de la ressource placée"
 type: docs
 weight: 140
 url: /fr/net/aspose.psd.fileformats.psd.layers.layerresources/placedresource/signature/
 ---
+{{< psd/tize >}}
 ## PlacedResource.Signature property
 
 Obtient la signature de la ressource placée.
@@ -14,10 +15,10 @@ Obtient la signature de la ressource placée.
 public override int Signature { get; }
 ```
 
-### Voir également
+### Voir aussi
 
 * class [PlacedResource](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../placedresource/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,26 +1,27 @@
 ---
-title: PsdImage.AddBlackWhiteAdjustmentLayer
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: PsdImage méthode. Ajoute le calque de réglage noir blanc.
+title: "PsdImage.AddBlackWhiteAdjustmentLayer"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Méthode PsdImage. Ajoute le calque de réglage noir et blanc."
 type: docs
-weight: 290
+weight: 300
 url: /fr/net/aspose.psd.fileformats.psd/psdimage/addblackwhiteadjustmentlayer/
 ---
+{{< psd/tize >}}
 ## PsdImage.AddBlackWhiteAdjustmentLayer method
 
-Ajoute le calque de réglage noir blanc.
+Ajoute le calque de réglage noir et blanc.
 
 ```csharp
 public BlackWhiteAdjustmentLayer AddBlackWhiteAdjustmentLayer()
 ```
 
-### Return_Value
+### Valeur de retour
 
-Le calque de réglage noir blanc créé.
+Le calque de réglage noir et blanc créé.
 
-### Exemples
+## Exemples
 
-L'exemple suivant montre comment vous pouvez ajouter le calque de réglage noir blanc lors de l'exécution dans Aspose.PSD
+L'exemple suivant montre comment vous pouvez ajouter le calque d'ajustement noir et blanc à l'exécution dans Aspose.PSD
 
 ```csharp
 [C#]
@@ -42,11 +43,11 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFileName))
 }
 ```
 
-### Voir également
+### Voir aussi
 
 * class [BlackWhiteAdjustmentLayer](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/blackwhiteadjustmentlayer/)
 * class [PsdImage](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: VectorRasterizationOptions.PageSize
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: VectorRasterizationOptions propriété. Obtient ou définit la taille de la page.
+title: "VectorRasterizationOptions.PageSize"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "VectorRasterizationOptions propriété. Obtient ou définit la taille de la page"
 type: docs
 weight: 70
 url: /fr/net/aspose.psd.imageoptions/vectorrasterizationoptions/pagesize/
 ---
+{{< psd/tize >}}
 ## VectorRasterizationOptions.PageSize property
 
 Obtient ou définit la taille de la page.
@@ -14,11 +15,11 @@ Obtient ou définit la taille de la page.
 public SizeF PageSize { get; set; }
 ```
 
-### Voir également
+### Voir aussi
 
 * struct [SizeF](../../../aspose.psd/sizef/)
 * class [VectorRasterizationOptions](../)
-* espace de noms [Aspose.PSD.ImageOptions](../../vectorrasterizationoptions/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

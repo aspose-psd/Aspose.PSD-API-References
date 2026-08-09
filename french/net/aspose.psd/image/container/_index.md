@@ -1,31 +1,32 @@
 ---
-title: Image.Container
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: Image propriété. Obtient leImage conteneur.
+title: "Image.Container"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété Image. Obtient le conteneur Image"
 type: docs
 weight: 80
 url: /fr/net/aspose.psd/image/container/
 ---
+{{< psd/tize >}}
 ## Image.Container property
 
-Obtient le[`Image`](../) conteneur.
+Obtient le conteneur [`Image`](../).
 
 ```csharp
 public Image Container { get; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
-Le[`Image`](../) conteneur.
+Le conteneur [`Image`](../).
 
-### Remarques
+## Remarques
 
 Si cette propriété n'est pas nulle, cela indique que l'image est contenue dans une autre image.
 
-### Voir également
+### Voir aussi
 
 * class [Image](../)
-* espace de noms [Aspose.PSD](../../image/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

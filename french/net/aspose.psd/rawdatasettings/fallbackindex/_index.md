@@ -1,27 +1,28 @@
 ---
-title: RawDataSettings.FallbackIndex
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: RawDataSettings propriété. Obtient ou définit lindex de secours à utiliser lorsque lindex de palette est hors limites
+title: "RawDataSettings.FallbackIndex"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété RawDataSettings. Obtient ou définit l'index de secours à utiliser lorsque l'index de palette est hors limites."
 type: docs
 weight: 50
 url: /fr/net/aspose.psd/rawdatasettings/fallbackindex/
 ---
+{{< psd/tize >}}
 ## RawDataSettings.FallbackIndex property
 
-Obtient ou définit l'index de secours à utiliser lorsque l'index de palette est hors limites
+Obtient ou définit l'index de secours à utiliser lorsque l'index de la palette est hors limites
 
 ```csharp
 public int FallbackIndex { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
-L'index de secours à utiliser lorsque l'index de palette est hors limites
+L'index de secours à utiliser lorsque l'index de palette est hors limites.
 
-### Voir également
+### Voir aussi
 
 * class [RawDataSettings](../)
-* espace de noms [Aspose.PSD](../../rawdatasettings/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

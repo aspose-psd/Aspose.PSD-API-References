@@ -1,14 +1,15 @@
 ---
-title: Class XmpHeaderPi
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: Aspose.PSD.Xmp.XmpHeaderPi classe. Représente linstruction de traitement dentête XMP.
+title: "Classe XmpHeaderPi"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Classe Aspose.PSD.Xmp.XmpHeaderPi. Représente l’instruction de traitement de l’en-tête XMP"
 type: docs
-weight: 6250
+weight: 6750
 url: /fr/net/aspose.psd.xmp/xmpheaderpi/
 ---
+{{< psd/tize >}}
 ## XmpHeaderPi class
 
-Représente l'instruction de traitement d'en-tête XMP.
+Représente l'instruction de traitement de l'en-tête XMP.
 
 ```csharp
 public sealed class XmpHeaderPi : IEquatable<XmpHeaderPi>, IXmlValue
@@ -16,30 +17,30 @@ public sealed class XmpHeaderPi : IEquatable<XmpHeaderPi>, IXmlValue
 
 ## Constructeurs
 
-| Nom | La description |
+| Nom | Description |
 | --- | --- |
-| [XmpHeaderPi](xmpheaderpi/#constructor)() | Initialise une nouvelle instance du`XmpHeaderPi` classe. |
-| [XmpHeaderPi](xmpheaderpi/#constructor_1)(string) | Initialise une nouvelle instance du`XmpHeaderPi` classe. |
+| [XmpHeaderPi](xmpheaderpi/#constructor)() | Initialise une nouvelle instance de la classe `XmpHeaderPi`. |
+| [XmpHeaderPi](xmpheaderpi/#constructor_1)(string) | Initialise une nouvelle instance de la classe `XmpHeaderPi`. |
 
 ## Propriétés
 
-| Nom | La description |
+| Nom | Description |
 | --- | --- |
-| [Guid](../../aspose.psd.xmp/xmpheaderpi/guid/) { get; set; } | Représente l'en-tête Guid. |
+| [Guid](../../aspose.psd.xmp/xmpheaderpi/guid/) { get; set; } | Représente le GUID d’en-tête. |
 
 ## Méthodes
 
-| Nom | La description |
+| Nom | Description |
 | --- | --- |
-| override [Equals](../../aspose.psd.xmp/xmpheaderpi/equals/#equals_1)(object) | Détermine si la valeur spécifiéeObject , est égal à cette instance. |
-| [Equals](../../aspose.psd.xmp/xmpheaderpi/equals/#equals)(XmpHeaderPi) | Indique si l'objet courant est égal à un autre objet du même type. |
+| override [Equals](../../aspose.psd.xmp/xmpheaderpi/equals/#equals_1)(object) | Détermine si l'objet spécifié est égal à cette instance. |
+| [Equals](../../aspose.psd.xmp/xmpheaderpi/equals/#equals)(XmpHeaderPi) | Indique si l'objet actuel est égal à un autre objet du même type. |
 | override [GetHashCode](../../aspose.psd.xmp/xmpheaderpi/gethashcode/)() | Renvoie un code de hachage pour cette instance. |
 | [GetXmlValue](../../aspose.psd.xmp/xmpheaderpi/getxmlvalue/)() | Convertit la valeur XMP en représentation XML. |
 
-### Voir également
+### Voir aussi
 
 * interface [IXmlValue](../ixmlvalue/)
-* espace de noms [Aspose.PSD.Xmp](../../aspose.psd.xmp/)
-* Assemblée [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Xmp](../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../)
 
 

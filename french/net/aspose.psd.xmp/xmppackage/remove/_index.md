@@ -1,31 +1,32 @@
 ---
-title: XmpPackage.Remove
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: XmpPackage méthode. Supprimer la valeur avec la clé spécifiée.
+title: "XmpPackage.Remove"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Méthode XmpPackage. Supprime la valeur avec la clé spécifiée"
 type: docs
 weight: 110
 url: /fr/net/aspose.psd.xmp/xmppackage/remove/
 ---
+{{< psd/tize >}}
 ## XmpPackage.Remove method
 
-Supprimer la valeur avec la clé spécifiée.
+Supprime la valeur avec la clé spécifiée.
 
 ```csharp
 public virtual bool Remove(string key)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
-| key | String | Représentation sous forme de chaîne de la clé identifiée par la valeur supprimée. |
+| clé | String | La représentation sous forme de chaîne de la clé identifiée avec la valeur supprimée. |
 
-### Return_Value
+### Valeur de retour
 
-Renvoie true si la valeur avec la clé spécifiée a été supprimée.
+Renvoie vrai si la valeur avec la clé spécifiée a été supprimée.
 
-### Voir également
+### Voir aussi
 
 * class [XmpPackage](../)
-* espace de noms [Aspose.PSD.Xmp](../../xmppackage/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

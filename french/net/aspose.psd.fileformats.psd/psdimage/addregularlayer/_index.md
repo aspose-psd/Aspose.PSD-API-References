@@ -1,26 +1,27 @@
 ---
-title: PsdImage.AddRegularLayer
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: PsdImage méthode. Ajoute un nouveau calque régulier.
+title: "PsdImage.AddRegularLayer"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Méthode PsdImage. Ajoute un nouveau calque régulier"
 type: docs
-weight: 410
+weight: 440
 url: /fr/net/aspose.psd.fileformats.psd/psdimage/addregularlayer/
 ---
+{{< psd/tize >}}
 ## PsdImage.AddRegularLayer method
 
-Ajoute un nouveau calque régulier.
+Ajoute un nouveau calque ordinaire.
 
 ```csharp
 public Layer AddRegularLayer()
 ```
 
-### Return_Value
+### Valeur de retour
 
-Couche régulière créée.
+Calque régulier créé.
 
-### Exemples
+## Exemples
 
-Le code suivant montre comment ajouter la couche régulière nouvellement générée à PsdImage.
+Le code suivant montre comment ajouter le calque régulier nouvellement généré à PsdImage.
 
 ```csharp
 [C#]
@@ -31,7 +32,7 @@ string exportPathPng = "OneLayerEdited.png";
 
 using (var im = (PsdImage)Image.Load(sourceFileName))
 {
-    // Préparation de deux tableaux int
+    // Préparation de deux tableaux d'entiers
     var data1 = new int[2500];
     var data2 = new int[2500];
 
@@ -58,19 +59,19 @@ using (var im = (PsdImage)Image.Load(sourceFileName))
     layer2.Bottom = 175;
     layer2.SaveArgb32Pixels(rect2, data2);
 
-    // Enregistrer le psd
+    // Enregistrer le PSD
     im.Save(exportPath, new PsdOptions());
 
-    // Enregistrer png
+    // Enregistrer le PNG
     im.Save(exportPathPng, new PngOptions());
 }
 ```
 
-### Voir également
+### Voir aussi
 
 * class [Layer](../../../aspose.psd.fileformats.psd.layers/layer/)
 * class [PsdImage](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

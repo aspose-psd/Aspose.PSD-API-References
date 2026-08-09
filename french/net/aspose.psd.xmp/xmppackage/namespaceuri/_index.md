@@ -1,11 +1,12 @@
 ---
-title: XmpPackage.NamespaceUri
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: XmpPackage propriété. Obtient lURI de lespace de noms.
+title: "XmpPackage.NamespaceUri"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété XmpPackage. Obtient l'URI de l'espace de noms"
 type: docs
 weight: 30
 url: /fr/net/aspose.psd.xmp/xmppackage/namespaceuri/
 ---
+{{< psd/tize >}}
 ## XmpPackage.NamespaceUri property
 
 Obtient l'URI de l'espace de noms.
@@ -14,14 +15,14 @@ Obtient l'URI de l'espace de noms.
 public string NamespaceUri { get; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
 L'URI de l'espace de noms.
 
-### Voir également
+### Voir aussi
 
 * class [XmpPackage](../)
-* espace de noms [Aspose.PSD.Xmp](../../xmppackage/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

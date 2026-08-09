@@ -1,11 +1,12 @@
 ---
-title: VectorPathDataResource.IsDisabled
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: VectorPathDataResource propriété. Obtient ou définit une valeur indiquant si cette instance est désactivée.
+title: "VectorPathDataResource.IsDisabled"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "VectorPathDataResource propriété. Obtient ou définit une valeur indiquant si cette instance est désactivée"
 type: docs
 weight: 10
 url: /fr/net/aspose.psd.fileformats.psd.layers.layerresources/vectorpathdataresource/isdisabled/
 ---
+{{< psd/tize >}}
 ## VectorPathDataResource.IsDisabled property
 
 Obtient ou définit une valeur indiquant si cette instance est désactivée.
@@ -14,14 +15,14 @@ Obtient ou définit une valeur indiquant si cette instance est désactivée.
 public bool IsDisabled { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
-`vrai` si cette instance est désactivée ; sinon,`FAUX` .
+`true` si cette instance est désactivée; sinon, `false`.
 
-### Voir également
+### Voir aussi
 
 * class [VectorPathDataResource](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../vectorpathdataresource/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

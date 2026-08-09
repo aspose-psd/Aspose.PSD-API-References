@@ -1,32 +1,33 @@
 ---
-title: Point.op_Implicit
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: Point méthode. Convertit le spécifiéPoint structuré à laPointFstructure.
+title: "Point.op_Implicit"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Méthode Point. Convertit la structure Point spécifiée en structure PointF"
 type: docs
 weight: 180
 url: /fr/net/aspose.psd/point/op_implicit/
 ---
+{{< psd/tize >}}
 ## Point Implicit operator
 
-Convertit le spécifié[`Point`](../) structuré à la[`PointF`](../../pointf/)structure.
+Convertit la structure [`Point`](../) spécifiée en structure [`PointF`](../../pointf/).
 
 ```csharp
 public static implicit operator PointF(Point point)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
-| point | Point | Le[`Point`](../) à convertir. |
+| point | Point | Le [`Point`](../) à convertir. |
 
-### Return_Value
+### Valeur de retour
 
-Le[`PointF`](../../pointf/) qui résulte de la conversion.
+Le [`PointF`](../../pointf/) résultant de la conversion.
 
-### Voir également
+### Voir aussi
 
 * struct [PointF](../../pointf/)
 * struct [Point](../)
-* espace de noms [Aspose.PSD](../../point/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

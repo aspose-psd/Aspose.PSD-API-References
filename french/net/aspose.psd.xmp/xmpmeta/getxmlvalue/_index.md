@@ -1,11 +1,12 @@
 ---
-title: XmpMeta.GetXmlValue
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: XmpMeta méthode. Convertit la valeur XMP en représentation XML.
+title: "XmpMeta.GetXmlValue"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Méthode XmpMeta. Convertit la valeur XMP en représentation XML"
 type: docs
 weight: 60
 url: /fr/net/aspose.psd.xmp/xmpmeta/getxmlvalue/
 ---
+{{< psd/tize >}}
 ## XmpMeta.GetXmlValue method
 
 Convertit la valeur XMP en représentation XML.
@@ -14,14 +15,14 @@ Convertit la valeur XMP en représentation XML.
 public string GetXmlValue()
 ```
 
-### Return_Value
+### Valeur de retour
 
 Renvoie la valeur XMP convertie en représentation XML.
 
-### Voir également
+### Voir aussi
 
 * class [XmpMeta](../)
-* espace de noms [Aspose.PSD.Xmp](../../xmpmeta/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

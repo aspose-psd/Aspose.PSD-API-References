@@ -1,32 +1,33 @@
 ---
-title: Size.op_Inequality
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: Size méthode. Teste si deuxSize les structures sont différentes.
+title: "Size.op_Inequality"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Méthode Size. Teste si deux structures Size sont différentes."
 type: docs
 weight: 180
 url: /fr/net/aspose.psd/size/op_inequality/
 ---
+{{< psd/tize >}}
 ## Size Inequality operator
 
-Teste si deux[`Size`](../) les structures sont différentes.
+Teste si deux structures [`Size`](../) sont différentes.
 
 ```csharp
 public static bool operator !=(Size size1, Size size2)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
-| size1 | Size | Le[`Size`](../) structure à gauche de l'opérateur d'inégalité. |
-| size2 | Size | Le[`Size`](../) structure à droite de l'opérateur d'inégalité. |
+| size1 | Size | La structure [`Size`](../) à gauche de l'opérateur d'inégalité. |
+| size2 | Size | La structure [`Size`](../) à droite de l'opérateur d'inégalité. |
 
-### Return_Value
+### Valeur de retour
 
-Vrai si*size1* et*size2* diffèrent en largeur ou en hauteur ; faux si*size1* et*size2* sont égaux.
+Vrai si *size1* et *size2* diffèrent soit en largeur soit en hauteur ; faux si *size1* et *size2* sont égaux.
 
-### Voir également
+### Voir aussi
 
 * struct [Size](../)
-* espace de noms [Aspose.PSD](../../size/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

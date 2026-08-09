@@ -1,23 +1,24 @@
 ---
-title: Lfx2Resource.Key
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: Lfx2Resource propriété. Obtient la clé de ressource de couche.
+title: "Lfx2Resource.Key"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété Lfx2Resource. Obtient la clé de ressource du calque"
 type: docs
 weight: 30
 url: /fr/net/aspose.psd.fileformats.psd.layers.layerresources/lfx2resource/key/
 ---
+{{< psd/tize >}}
 ## Lfx2Resource.Key property
 
-Obtient la clé de ressource de couche.
+Obtient la clé de ressource du calque.
 
 ```csharp
 public override int Key { get; }
 ```
 
-### Voir également
+### Voir aussi
 
 * class [Lfx2Resource](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../lfx2resource/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

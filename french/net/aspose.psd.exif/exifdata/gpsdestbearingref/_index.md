@@ -1,27 +1,28 @@
 ---
-title: ExifData.GPSDestBearingRef
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: ExifData propriété. Obtient ou définit la référence GPS utilisée pour donner le relèvement au point de destination.
+title: "ExifData.GPSDestBearingRef"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété ExifData. Obtient ou définit la référence GPS utilisée pour donner l'azimut au point de destination"
 type: docs
 weight: 410
 url: /fr/net/aspose.psd.exif/exifdata/gpsdestbearingref/
 ---
+{{< psd/tize >}}
 ## ExifData.GPSDestBearingRef property
 
-Obtient ou définit la référence GPS utilisée pour donner le relèvement au point de destination.
+Obtient ou définit la référence GPS utilisée pour donner le cap au point de destination.
 
 ```csharp
 public string GPSDestBearingRef { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
-La référence GPS utilisée pour donner le relèvement au point de destination.
+La référence GPS utilisée pour donner l'azimut au point de destination.
 
-### Voir également
+### Voir aussi
 
 * class [ExifData](../)
-* espace de noms [Aspose.PSD.Exif](../../exifdata/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

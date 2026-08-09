@@ -1,51 +1,52 @@
 ---
-title: Pen.ScaleTransform
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: Pen méthode. Met à léchelle la transformation géométrique locale par les facteurs spécifiés. Cette méthode ajoute la matrice de mise à léchelle à la transformation.
+title: "Pen.ScaleTransform"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Méthode Pen. Met à l'échelle la transformation géométrique locale par les facteurs spécifiés. Cette méthode préfixe la matrice d'échelle à la transformation."
 type: docs
 weight: 220
 url: /fr/net/aspose.psd/pen/scaletransform/
 ---
+{{< psd/tize >}}
 ## ScaleTransform(float, float) {#scaletransform}
 
-Met à l'échelle la transformation géométrique locale par les facteurs spécifiés. Cette méthode ajoute la matrice de mise à l'échelle à la transformation.
+Met à l'échelle la transformation géométrique locale par les facteurs spécifiés. Cette méthode préfixe la matrice d'échelle à la transformation.
 
 ```csharp
 public void ScaleTransform(float sx, float sy)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
-| sx | Single | Facteur de mise à l'échelle de la transformation dans la direction de l'axe des x. |
-| sy | Single | Facteur de mise à l'échelle de la transformation dans la direction de l'axe y. |
+| sx | Single | Le facteur par lequel mettre à l'échelle la transformation dans la direction de l'axe x. |
+| sy | Single | Le facteur par lequel mettre à l'échelle la transformation dans la direction de l'axe y. |
 
-### Voir également
+### Voir aussi
 
 * class [Pen](../)
-* espace de noms [Aspose.PSD](../../pen/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## ScaleTransform(float, float, MatrixOrder) {#scaletransform_1}
 
-Met à l'échelle la transformation géométrique locale par les facteurs spécifiés dans l'ordre spécifié.
+Met à l'échelle la transformation géométrique locale par les facteurs spécifiés dans l'ordre indiqué.
 
 ```csharp
 public void ScaleTransform(float sx, float sy, MatrixOrder order)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
-| sx | Single | Facteur de mise à l'échelle de la transformation dans la direction de l'axe des x. |
-| sy | Single | Facteur de mise à l'échelle de la transformation dans la direction de l'axe y. |
-| order | MatrixOrder | UN[`MatrixOrder`](../../matrixorder/) qui spécifie s'il faut ajouter ou préfixer la matrice de mise à l'échelle. |
+| sx | Single | Le facteur par lequel mettre à l'échelle la transformation dans la direction de l'axe x. |
+| sy | Single | Le facteur par lequel mettre à l'échelle la transformation dans la direction de l'axe y. |
+| order | MatrixOrder | Un [`MatrixOrder`](../../matrixorder/) qui spécifie s'il faut ajouter ou préfixer la matrice d'échelle. |
 
-### Voir également
+### Voir aussi
 
 * enum [MatrixOrder](../../matrixorder/)
 * class [Pen](../)
-* espace de noms [Aspose.PSD](../../pen/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

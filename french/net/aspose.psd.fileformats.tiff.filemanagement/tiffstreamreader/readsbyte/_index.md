@@ -1,31 +1,32 @@
 ---
-title: TiffStreamReader.ReadSByte
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: TiffStreamReader méthode. Lit les données doctets signés du flux.
+title: "TiffStreamReader.ReadSByte"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Méthode TiffStreamReader. Lit des données d'octet signé depuis le flux"
 type: docs
 weight: 110
 url: /fr/net/aspose.psd.fileformats.tiff.filemanagement/tiffstreamreader/readsbyte/
 ---
+{{< psd/tize >}}
 ## TiffStreamReader.ReadSByte method
 
-Lit les données d'octets signés du flux.
+Lit des données byte signées depuis le flux.
 
 ```csharp
 public sbyte ReadSByte(long position)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
-| position | Int64 | La position à partir de laquelle lire. |
+| position | Int64 | La position à lire. |
 
-### Return_Value
+### Valeur de retour
 
-La valeur de l'octet signé.
+La valeur d'octet signé.
 
-### Voir également
+### Voir aussi
 
 * class [TiffStreamReader](../)
-* espace de noms [Aspose.PSD.FileFormats.Tiff.FileManagement](../../tiffstreamreader/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff.FileManagement](../../../aspose.psd.fileformats.tiff.filemanagement/)
+* assembly [Aspose.PSD](../../../)
 
 

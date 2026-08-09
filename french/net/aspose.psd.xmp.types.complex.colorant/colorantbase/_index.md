@@ -1,11 +1,12 @@
 ---
-title: Class ColorantBase
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: Aspose.PSD.Xmp.Types.Complex.Colorant.ColorantBase classe. Représente le type de colorant XMP.
+title: "Classe ColorantBase"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Classe Aspose.PSD.Xmp.Types.Complex.Colorant.ColorantBase. Représente le type de colorant XMP."
 type: docs
-weight: 6010
+weight: 6510
 url: /fr/net/aspose.psd.xmp.types.complex.colorant/colorantbase/
 ---
+{{< psd/tize >}}
 ## ColorantBase class
 
 Représente le type de colorant XMP.
@@ -16,24 +17,24 @@ public abstract class ColorantBase : ComplexTypeBase
 
 ## Propriétés
 
-| Nom | La description |
+| Nom | Description |
 | --- | --- |
 | [ColorType](../../aspose.psd.xmp.types.complex.colorant/colorantbase/colortype/) { get; set; } | Obtient ou définit le type de la couleur. |
-| [Mode](../../aspose.psd.xmp.types.complex.colorant/colorantbase/mode/) { get; } | Obtient[`ColorMode`](../colormode/) . |
+| [Mode](../../aspose.psd.xmp.types.complex.colorant/colorantbase/mode/) { get; } | Obtient [`ColorMode`](../colormode/). |
 | [NamespaceUri](../../aspose.psd.xmp.types.complex/complextypebase/namespaceuri/) { get; } | Obtient l'URI de l'espace de noms par défaut. |
 | [Prefix](../../aspose.psd.xmp.types.complex/complextypebase/prefix/) { get; } | Obtient le préfixe. |
 | [SwatchName](../../aspose.psd.xmp.types.complex.colorant/colorantbase/swatchname/) { get; set; } | Obtient ou définit le nom de l'échantillon. |
 
 ## Méthodes
 
-| Nom | La description |
+| Nom | Description |
 | --- | --- |
-| override [GetXmpRepresentation](../../aspose.psd.xmp.types.complex.colorant/colorantbase/getxmprepresentation/)() | Obtient la valeur contenue dans la chaîne au format XMP. |
+| override [GetXmpRepresentation](../../aspose.psd.xmp.types.complex.colorant/colorantbase/getxmprepresentation/)() | Obtient la valeur de chaîne contenue au format XMP. |
 
-### Voir également
+### Voir aussi
 
 * class [ComplexTypeBase](../../aspose.psd.xmp.types.complex/complextypebase/)
-* espace de noms [Aspose.PSD.Xmp.Types.Complex.Colorant](../../aspose.psd.xmp.types.complex.colorant/)
-* Assemblée [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.Colorant](../../aspose.psd.xmp.types.complex.colorant/)
+* assembly [Aspose.PSD](../../)
 
 

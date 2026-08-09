@@ -1,14 +1,15 @@
 ---
-title: Class LangAlt
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: Aspose.PSD.Xmp.LangAlt classe. Représente lalternative au langage XMP.
+title: "Classe LangAlt"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Aspose.PSD.Xmp.LangAlt class. Représente l'alternative de langue XMP"
 type: docs
-weight: 5760
+weight: 6260
 url: /fr/net/aspose.psd.xmp/langalt/
 ---
+{{< psd/tize >}}
 ## LangAlt class
 
-Représente l'alternative au langage XMP.
+Représente l'alternative de langue XMP.
 
 ```csharp
 public class LangAlt : IXmlValue
@@ -16,23 +17,23 @@ public class LangAlt : IXmlValue
 
 ## Constructeurs
 
-| Nom | La description |
+| Nom | Description |
 | --- | --- |
-| [LangAlt](langalt/#constructor)() | Initialise une nouvelle instance du`LangAlt` classe. |
-| [LangAlt](langalt/#constructor_1)(string) | Initialise une nouvelle instance du`LangAlt` classe. |
+| [LangAlt](langalt/#constructor)() | Initialise une nouvelle instance de la classe `LangAlt`. |
+| [LangAlt](langalt/#constructor_1)(string) | Initialise une nouvelle instance de la classe `LangAlt`. |
 
 ## Méthodes
 
-| Nom | La description |
+| Nom | Description |
 | --- | --- |
 | virtual [AddLanguage](../../aspose.psd.xmp/langalt/addlanguage/)(string, string) | Ajoute la langue. |
 | [GetXmlValue](../../aspose.psd.xmp/langalt/getxmlvalue/)() | Convertit la valeur XMP en représentation XML. |
-| override [ToString](../../aspose.psd.xmp/langalt/tostring/)() | Renvoie unString qui représente cette instance. |
+| override [ToString](../../aspose.psd.xmp/langalt/tostring/)() | Renvoie une chaîne qui représente cette instance. |
 
-### Voir également
+### Voir aussi
 
 * interface [IXmlValue](../ixmlvalue/)
-* espace de noms [Aspose.PSD.Xmp](../../aspose.psd.xmp/)
-* Assemblée [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Xmp](../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../)
 
 

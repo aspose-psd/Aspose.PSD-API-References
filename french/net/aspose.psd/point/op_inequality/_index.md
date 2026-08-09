@@ -1,32 +1,33 @@
 ---
-title: Point.op_Inequality
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: Point méthode. Compare deuxPoint objets. Le résultat indique si les valeurs desX ouY propriétés des deuxPoint les objets sont inégaux.
+title: "Point.op_Inequality"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Méthode Point. Compare deux objets Point. Le résultat indique si les valeurs des propriétés X ou Y des deux objets Point sont différentes."
 type: docs
 weight: 190
 url: /fr/net/aspose.psd/point/op_inequality/
 ---
+{{< psd/tize >}}
 ## Point Inequality operator
 
-Compare deux[`Point`](../) objets. Le résultat indique si les valeurs des[`X`](../x/) ou[`Y`](../y/) propriétés des deux[`Point`](../) les objets sont inégaux.
+Compare deux objets [`Point`](../). Le résultat indique si les valeurs des propriétés [`X`](../x/) ou [`Y`](../y/) des deux objets [`Point`](../) sont différentes.
 
 ```csharp
 public static bool operator !=(Point point1, Point point2)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
-| point1 | Point | Un premier[`Point`](../) comparer. |
-| point2 | Point | Une seconde[`Point`](../) comparer. |
+| point1 | Point | Un premier [`Point`](../) à comparer. |
+| point2 | Point | Un second [`Point`](../) à comparer. |
 
-### Return_Value
+### Valeur de retour
 
-Vrai si les valeurs de l'un ou l'autre des[`X`](../x/) propriétés ou les[`Y`](../y/) propriétés de*point1* et*point2* différer; sinon, faux.
+Vrai si les valeurs des propriétés [`X`](../x/) ou [`Y`](../y/) de *point1* et *point2* diffèrent ; sinon, faux.
 
-### Voir également
+### Voir aussi
 
 * struct [Point](../)
-* espace de noms [Aspose.PSD](../../point/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

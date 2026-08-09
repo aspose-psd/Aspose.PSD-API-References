@@ -1,28 +1,29 @@
 ---
-title: PsdImage.AddHueSaturationAdjustmentLayer
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: PsdImage méthode. Ajoute le calque de réglage de teinte/saturation.
+title: "PsdImage.AddHueSaturationAdjustmentLayer"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "PsdImage méthode. Ajoute la couche d'ajustement teinte/saturation"
 type: docs
-weight: 350
+weight: 370
 url: /fr/net/aspose.psd.fileformats.psd/psdimage/addhuesaturationadjustmentlayer/
 ---
+{{< psd/tize >}}
 ## PsdImage.AddHueSaturationAdjustmentLayer method
 
-Ajoute le calque de réglage de teinte/saturation.
+Ajoute le calque de réglage teinte/saturation.
 
 ```csharp
 public HueSaturationLayer AddHueSaturationAdjustmentLayer()
 ```
 
-### Return_Value
+### Valeur de retour
 
-Un calque de teinte/saturation nouvellement créé.
+Une couche teinte/saturation nouvellement créée.
 
-### Voir également
+### Voir aussi
 
 * class [HueSaturationLayer](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/huesaturationlayer/)
 * class [PsdImage](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

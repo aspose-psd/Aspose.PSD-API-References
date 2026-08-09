@@ -1,11 +1,12 @@
 ---
-title: TiffOptions.MaxSampleValue
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: TiffOptions propriété. Obtient ou définit la valeur maximale de léchantillon.
+title: "TiffOptions.MaxSampleValue"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété TiffOptions. Obtient ou définit la valeur d'échantillon maximale"
 type: docs
-weight: 260
+weight: 270
 url: /fr/net/aspose.psd.imageoptions/tiffoptions/maxsamplevalue/
 ---
+{{< psd/tize >}}
 ## TiffOptions.MaxSampleValue property
 
 Obtient ou définit la valeur maximale de l'échantillon.
@@ -14,21 +15,21 @@ Obtient ou définit la valeur maximale de l'échantillon.
 public ushort[] MaxSampleValue { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
-La valeur maximale de l'échantillon.
+La valeur d'échantillon maximale.
 
 ### Exceptions
 
 | exception | condition |
 | --- | --- |
 | ArgumentNullException | valeur |
-| ArgumentOutOfRangeException | value ; La longueur du tableau doit correspondre au nombre d'échantillons par pixel. |
+| ArgumentOutOfRangeException | value;La longueur du tableau doit correspondre au nombre d'échantillons par pixel. |
 
-### Voir également
+### Voir aussi
 
 * class [TiffOptions](../)
-* espace de noms [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

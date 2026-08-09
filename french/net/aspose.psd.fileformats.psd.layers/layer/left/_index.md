@@ -1,27 +1,28 @@
 ---
-title: Layer.Left
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: Layer propriété. Obtient ou définit la position du calque de gauche.
+title: "Layer.Left"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété du calque. Obtient ou définit la position gauche du calque"
 type: docs
-weight: 240
+weight: 250
 url: /fr/net/aspose.psd.fileformats.psd.layers/layer/left/
 ---
+{{< psd/tize >}}
 ## Layer.Left property
 
-Obtient ou définit la position du calque de gauche.
+Obtient ou définit la position gauche du calque.
 
 ```csharp
-public int Left { get; set; }
+public virtual int Left { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
-La position du calque de gauche.
+La position gauche du calque.
 
-### Voir également
+### Voir aussi
 
 * class [Layer](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers](../../layer/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: Enum SheetColorHighlightEnum
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.SheetColorHighlightEnum énumération. Couleurs possibles du paramètre de couleur de feuille. Cest la couleur décorative de linterface utilisateur du calque dans la liste des calques dans PS
+title: "Énumération SheetColorHighlightEnum"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Énumération Aspose.PSD.FileFormats.Psd.Layers.LayerResources.SheetColorHighlightEnum. Couleurs possibles du réglage de couleur de feuille. Sa couleur décorative UI du calque dans la liste des calques dans PS."
 type: docs
-weight: 2970
+weight: 3320
 url: /fr/net/aspose.psd.fileformats.psd.layers.layerresources/sheetcolorhighlightenum/
 ---
+{{< psd/tize >}}
 ## SheetColorHighlightEnum enumeration
 
-Couleurs possibles du paramètre de couleur de feuille. C'est la couleur décorative de l'interface utilisateur du calque dans la liste des calques dans PS
+Couleurs possibles du paramètre de couleur de la feuille. C'est la couleur décorative de l'interface utilisateur du calque dans la liste des calques dans PS.
 
 ```csharp
 public enum SheetColorHighlightEnum : short
@@ -16,7 +17,7 @@ public enum SheetColorHighlightEnum : short
 
 ### Valeurs
 
-| Nom | Évaluer | La description |
+| Nom | Valeur | Description |
 | --- | --- | --- |
 | NoColor | `0` | La couleur n'est pas spécifiée. |
 | Red | `1` | La couleur rouge. |
@@ -27,9 +28,9 @@ public enum SheetColorHighlightEnum : short
 | Violet | `6` | La couleur violette. |
 | Gray | `7` | La couleur grise. |
 
-### Exemples
+## Exemples
 
-L'exemple suivant montre comment vous pouvez modifier la surbrillance de la couleur de feuille dans Aspose.PSD (paramètre de couleur de feuille)
+L'exemple suivant montre comment vous pouvez modifier la mise en évidence de la couleur de feuille dans Aspose.PSD (réglage de couleur de feuille).
 
 ```csharp
 [C#]
@@ -37,7 +38,7 @@ L'exemple suivant montre comment vous pouvez modifier la surbrillance de la coul
 string sourceFilePath = "AllLclrResourceColors.psd";
 string outputFilePath = "AllLclrResourceColorsReversed.psd";
 
-// Dans le fichier, les couleurs de surbrillance des calques sont dans cet ordre
+// Dans le fichier, les couleurs de mise en évidence des calques sont dans cet ordre
 SheetColorHighlightEnum[] sheetColorsArr = new SheetColorHighlightEnum[] {
     SheetColorHighlightEnum.Red,
     SheetColorHighlightEnum.Orange,
@@ -49,8 +50,8 @@ SheetColorHighlightEnum[] sheetColorsArr = new SheetColorHighlightEnum[] {
     SheetColorHighlightEnum.NoColor
 };
 
-// La couleur de la feuille de calque est utilisée pour mettre en surbrillance visuellement les calques. 
-// Par exemple, vous pouvez mettre à jour certains calques dans PSD, puis mettre en surbrillance par couleur le calque sur lequel vous souhaitez attirer l'attention.
+// La couleur de feuille du calque est utilisée pour mettre visuellement en évidence les calques.
+// Par exemple, vous pouvez mettre à jour certains calques dans le PSD, puis mettre en évidence par couleur le calque que vous souhaitez attirer l'attention.
 using (PsdImage img = (PsdImage)Image.Load(sourceFilePath))
 {
     CheckSheetColorsAndRerverse(sheetColorsArr, img);
@@ -73,7 +74,7 @@ void CheckSheetColorsAndRerverse(SheetColorHighlightEnum[] sheetColors, PsdImage
         LayerResource[] resources = layer.Resources;
         foreach (LayerResource layerResource in resources)
         {
-            // La ressource lcrl est toujours présente dans la liste des ressources du fichier psd.
+            // La ressource lcrl est toujours présente dans la liste des ressources du fichier PSD.
             LclrResource resource = layerResource as LclrResource;
             if (resource != null)
             {
@@ -82,7 +83,7 @@ void CheckSheetColorsAndRerverse(SheetColorHighlightEnum[] sheetColors, PsdImage
                     throw new Exception("Sheet Color has been read wrong");
                 }
 
-                // Inverser les couleurs de la feuille de style. Configuration de la surbrillance de la couleur du calque.
+                // Inversion des couleurs de la feuille de style. Configuration de la mise en évidence de la couleur du calque.
                 resource.Color = sheetColors[layersCount - layerIndex - 1];
                 break;
             }
@@ -91,9 +92,9 @@ void CheckSheetColorsAndRerverse(SheetColorHighlightEnum[] sheetColors, PsdImage
 }
 ```
 
-### Voir également
+### Voir aussi
 
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
-* Assemblée [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../)
 
 

@@ -1,30 +1,31 @@
 ---
-title: LiFeDataSource.AdobeStockId
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: LiFeDataSource propriété. Obtient ou définit la bibliothèque graphique AdobeStockId pour les bibliothèques Adobe Photoshop CC.
+title: "LiFeDataSource.AdobeStockId"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété LiFeDataSource. Obtient ou définit l'AdobeStockId de la bibliothèque graphique pour les bibliothèques Adobe Photoshop CC"
 type: docs
 weight: 20
 url: /fr/net/aspose.psd.fileformats.psd.layers.layerresources/lifedatasource/adobestockid/
 ---
+{{< psd/tize >}}
 ## LiFeDataSource.AdobeStockId property
 
-Obtient ou définit la bibliothèque graphique AdobeStockId, pour les bibliothèques Adobe® Photoshop® CC.
+Obtient ou définit l'identifiant AdobeStockId de la bibliothèque graphique, pour les bibliothèques Adobe® Photoshop® CC.
 
 ```csharp
 public string AdobeStockId { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
-La bibliothèque graphique Adobe Stock Identifier.
+L'identifiant Adobe Stock de la bibliothèque graphique.
 
 ### Exceptions
 
 | exception | condition |
 | --- | --- |
-| [PsdImageException](../../../aspose.psd.coreexceptions.imageformats/psdimageexception/) | Vous ne pouvez pas accéder à la propriété AdobeStockId, elle n'est disponible que pour la source de données liFE lorsque IsLibrary est true |
+| [PsdImageException](../../../aspose.psd.coreexceptions.imageformats/psdimageexception/) | Vous ne pouvez pas accéder à la propriété AdobeStockId, elle n'est disponible que pour la source de données liFE lorsque IsLibrary est vrai |
 
-### Exemples
+## Exemples
 
 Cet exemple montre comment obtenir et définir les propriétés de la ressource Psd LnkE.
 
@@ -95,7 +96,7 @@ void ExampleOfLnkEResourceSupport(
                 }
 
                 lifeSource.FullPath =
-                    @"file:///C:/Aspose/net/Aspose.Psd/test/testdata/Images/Psd/SmartObjects/rgb8_2x2.png" ;
+                    @"file:///C:/Aspose/net/Aspose.Psd/test/testdata/Images/Psd/SmartObjects/rgb8_2x2.png";
                 AssertAreEqual(lnkeResource.Length, length2);
                 lifeSource.FileName = "rgb8_2x23.png";
                 AssertAreEqual(lnkeResource.Length, length3);
@@ -117,7 +118,7 @@ void ExampleOfLnkEResourceSupport(
     }
 }
 
-// Cet exemple montre comment obtenir et définir les propriétés du Psd LnkeResource qui contient des informations sur le fichier JPEG lié externe.
+// Cet exemple montre comment obtenir et définir les propriétés de la ressource Psd LnkeResource qui contient des informations sur un fichier JPEG lié externe.
 ExampleOfLnkEResourceSupport(
     @"photooverlay_5_new.psd",
     0x21c,
@@ -136,7 +137,7 @@ ExampleOfLnkEResourceSupport(
     0x1520d,
     7);
 
-// Cet exemple montre comment obtenir et définir les propriétés de PSD LnkeResource qui contient des informations sur un fichier PNG lié externe.
+// Cet exemple montre comment obtenir et définir les propriétés de la ressource PSD LnkeResource qui contient des informations sur un fichier PNG lié externe.
 ExampleOfLnkEResourceSupport(
     "rgb8_2x2_linked.psd",
     0x284,
@@ -155,7 +156,7 @@ ExampleOfLnkEResourceSupport(
     0x53,
     7);
 
-// Cet exemple montre comment obtenir et définir les propriétés de PSD LnkeResource qui contient des informations sur deux fichiers PNG et PSD externes liés.
+// Cet exemple montre comment obtenir et définir les propriétés du PSD LnkeResource qui contient des informations sur deux fichiers PNG et PSD liés externes.
 ExampleOfLnkEResourceSupport(
     "rgb8_2x2_linked2.psd",
     0x590,
@@ -174,7 +175,7 @@ ExampleOfLnkEResourceSupport(
     0x4aea,
     7);
 
-// Cet exemple montre comment obtenir et définir les propriétés de Photoshop Psd LnkeResource qui contient des informations sur un actif de bibliothèques CC lié externe.
+// Cet exemple montre comment obtenir et définir les propriétés du Photoshop Psd LnkeResource qui contient des informations sur un actif CC Libraries lié externe.
 ExampleOfLnkEResourceSupport(
     "rgb8_2x2_asset_linked.psd",
     0x398,
@@ -194,7 +195,7 @@ ExampleOfLnkEResourceSupport(
     7);
 ```
 
-Le code suivant illustre la prise en charge de la ressource LnkeResource.
+Le code suivant montre la prise en charge de la ressource LnkeResource.
 
 ```csharp
 [C#]
@@ -389,7 +390,7 @@ void ExampleOfComplexLnkEResourceSupport(string filePath, int length, int length
                         liFeSource.CompId = int.MaxValue;
                     }
 
-                    liFeSource.FullPath = @"file:///C:/Aspose/net/Aspose.Psd/test/testdata/Images/Psd/SmartObjects/rgb8_2x2.png" ;
+                    liFeSource.FullPath = @"file:///C:/Aspose/net/Aspose.Psd/test/testdata/Images/Psd/SmartObjects/rgb8_2x2.png";
                     liFeSource.FileName = "rgb8_2x23.png";
                     liFeSource.ChildDocId = Guid.NewGuid().ToString();
                     liFeSource.Date = DateTime.Now;
@@ -416,10 +417,10 @@ ExampleOfComplexLnkEResourceSupport(
     ComplexLnkEResourceSupportCases);
 ```
 
-### Voir également
+### Voir aussi
 
 * class [LiFeDataSource](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../lifedatasource/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: JpegOptions.ScaledQuality
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: JpegOptions propriété. La qualité mise à léchelle.
+title: "JpegOptions.ScaledQuality"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété JpegOptions. La qualité mise à l'échelle"
 type: docs
-weight: 190
+weight: 200
 url: /fr/net/aspose.psd.imageoptions/jpegoptions/scaledquality/
 ---
+{{< psd/tize >}}
 ## JpegOptions.ScaledQuality property
 
 La qualité mise à l'échelle.
@@ -14,10 +15,10 @@ La qualité mise à l'échelle.
 public int ScaledQuality { get; }
 ```
 
-### Voir également
+### Voir aussi
 
 * class [JpegOptions](../)
-* espace de noms [Aspose.PSD.ImageOptions](../../jpegoptions/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

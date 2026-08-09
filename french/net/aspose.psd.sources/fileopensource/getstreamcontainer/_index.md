@@ -1,11 +1,12 @@
 ---
-title: FileOpenSource.GetStreamContainer
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: FileOpenSource méthode. Obtient le conteneur de flux.
+title: "FileOpenSource.GetStreamContainer"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Méthode FileOpenSource. Obtient le conteneur de flux"
 type: docs
 weight: 40
 url: /fr/net/aspose.psd.sources/fileopensource/getstreamcontainer/
 ---
+{{< psd/tize >}}
 ## FileOpenSource.GetStreamContainer method
 
 Obtient le conteneur de flux.
@@ -14,19 +15,19 @@ Obtient le conteneur de flux.
 public override StreamContainer GetStreamContainer()
 ```
 
-### Return_Value
+### Valeur de retour
 
 le conteneur de flux.
 
-### Remarques
+## Remarques
 
-Utiliser avec précaution. Vous devrez supprimer le conteneur de flux après la récupération.
+Utilisez avec prudence. Vous devrez libérer le conteneur de flux après la récupération.
 
-### Voir également
+### Voir aussi
 
 * class [StreamContainer](../../../aspose.psd/streamcontainer/)
 * class [FileOpenSource](../)
-* espace de noms [Aspose.PSD.Sources](../../fileopensource/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Sources](../../../aspose.psd.sources/)
+* assembly [Aspose.PSD](../../../)
 
 

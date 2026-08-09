@@ -1,32 +1,33 @@
 ---
-title: StringFormat.DigitSubstitutionMethod
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: StringFormat propriété. Obtient ou définit la méthode à utiliser pour la substitution de chiffres.
+title: "StringFormat.DigitSubstitutionMethod"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété StringFormat. Obtient ou définit la méthode à utiliser pour la substitution de chiffres."
 type: docs
-weight: 60
+weight: 70
 url: /fr/net/aspose.psd/stringformat/digitsubstitutionmethod/
 ---
+{{< psd/tize >}}
 ## StringFormat.DigitSubstitutionMethod property
 
-Obtient ou définit la méthode à utiliser pour la substitution de chiffres.
+Obtient ou définit la méthode à utiliser pour la substitution des chiffres.
 
 ```csharp
 public StringDigitSubstitute DigitSubstitutionMethod { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
-UN[`StringDigitSubstitute`](../../stringdigitsubstitute/) valeur d'énumération qui spécifie comment remplacer les caractères d'une chaîne qui ne peuvent pas être affichés car ils ne sont pas pris en charge par la police actuelle.
+Une valeur d'énumération [`StringDigitSubstitute`](../../stringdigitsubstitute/) qui spécifie comment substituer les caractères d'une chaîne qui ne peuvent pas être affichés parce qu'ils ne sont pas pris en charge par la police actuelle.
 
-### Remarques
+## Remarques
 
-Le setter est introduit pour la méthode obsolète SetDigitSubstitution.
+Le mutateur est introduit pour la méthode obsolète SetDigitSubstitution.
 
-### Voir également
+### Voir aussi
 
 * enum [StringDigitSubstitute](../../stringdigitsubstitute/)
 * class [StringFormat](../)
-* espace de noms [Aspose.PSD](../../stringformat/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

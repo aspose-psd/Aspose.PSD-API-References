@@ -1,11 +1,12 @@
 ---
-title: VectorImage.WidthF
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: VectorImage propriété. Obtient la largeur de lobjet en pouces.
+title: "VectorImage.WidthF"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété VectorImage. Obtient la largeur de l'objet en pouces"
 type: docs
 weight: 50
 url: /fr/net/aspose.psd/vectorimage/widthf/
 ---
+{{< psd/tize >}}
 ## VectorImage.WidthF property
 
 Obtient la largeur de l'objet, en pouces.
@@ -14,14 +15,14 @@ Obtient la largeur de l'objet, en pouces.
 public virtual float WidthF { get; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
 La largeur de l'objet, en pouces.
 
-### Voir également
+### Voir aussi
 
 * class [VectorImage](../)
-* espace de noms [Aspose.PSD](../../vectorimage/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

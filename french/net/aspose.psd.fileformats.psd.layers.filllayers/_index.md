@@ -1,17 +1,18 @@
 ---
-title: Aspose.PSD.FileFormats.Psd.Layers.FillLayers
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: Lespace de noms contient des calques de remplissage
+title: "Aspose.PSD.FileFormats.Psd.Layers.FillLayers"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "L'espace de noms contient les calques de remplissage"
 type: docs
-weight: 240
+weight: 260
 url: /fr/net/aspose.psd.fileformats.psd.layers.filllayers/
 ---
-L'espace de noms contient des calques de remplissage
+{{< psd/tize >}}
+L'espace de noms contient les calques de remplissage
 
-## Des classes
+## Classes
 
-| Classer | La description |
+| Classe | Description |
 | --- | --- |
-| [FillLayer](./filllayer/) | Remplir le calque. Color Fill, Gradient Fill ou Pattern Fill Layer qui diffère par[`FillSettings`](../aspose.psd.fileformats.psd.layers.filllayers/filllayer/fillsettings/) |
+| [FillLayer](./filllayer/) | Calque de remplissage. Remplissage de couleur, remplissage en dégradé ou calque de remplissage de motif qui diffère par [`FillSettings`](../aspose.psd.fileformats.psd.layers.filllayers/filllayer/fillsettings/) |
 
 

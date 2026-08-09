@@ -1,34 +1,35 @@
 ---
-title: Pen.Transform
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: Pen propriété. Obtient ou définit une copie de la transformation géométrique pour cePen .
+title: "Pen.Transform"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété Pen. Obtient ou définit une copie de la transformation géométrique pour ce Pen"
 type: docs
 weight: 170
 url: /fr/net/aspose.psd/pen/transform/
 ---
+{{< psd/tize >}}
 ## Pen.Transform property
 
-Obtient ou définit une copie de la transformation géométrique pour ce[`Pen`](../) .
+Obtient ou définit une copie de la transformation géométrique pour ce [`Pen`](../).
 
 ```csharp
 public Matrix Transform { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
-Une copie du[`Matrix`](../../matrix/) qui représente la transformation géométrique pour ce[`Pen`](../).
+Une copie du [`Matrix`](../../matrix/) qui représente la transformation géométrique pour ce [`Pen`](../).
 
 ### Exceptions
 
 | exception | condition |
 | --- | --- |
-| ArgumentException | Le`Transform` la propriété est définie sur un immuable[`Pen`](../) , tels que ceux renvoyés par le[`Pen`](../) classe. |
+| ArgumentException | La propriété `Transform` est définie sur un [`Pen`](../) immuable, comme ceux renvoyés par la classe [`Pen`](../). |
 
-### Voir également
+### Voir aussi
 
 * class [Matrix](../../matrix/)
 * class [Pen](../)
-* espace de noms [Aspose.PSD](../../pen/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

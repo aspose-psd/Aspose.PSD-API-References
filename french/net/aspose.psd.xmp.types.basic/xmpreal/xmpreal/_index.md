@@ -1,54 +1,55 @@
 ---
-title: XmpReal.XmpReal
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: XmpReal constructeur. Initialise une nouvelle instance duXmpReal classe.
+title: "XmpReal.XmpReal"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Constructeur XmpReal. Initialise une nouvelle instance de la classe XmpReal"
 type: docs
 weight: 10
 url: /fr/net/aspose.psd.xmp.types.basic/xmpreal/xmpreal/
 ---
+{{< psd/tize >}}
 ## XmpReal(float) {#constructor}
 
-Initialise une nouvelle instance du[`XmpReal`](../) classe.
+Initialise une nouvelle instance de la classe [`XmpReal`](../).
 
 ```csharp
 public XmpReal(float value)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
-| value | Single | Valeur flottante. |
+| valeur | Single | Valeur flottante. |
 
-### Voir également
+### Voir aussi
 
 * class [XmpReal](../)
-* espace de noms [Aspose.PSD.Xmp.Types.Basic](../../xmpreal/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Basic](../../../aspose.psd.xmp.types.basic/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## XmpReal(string) {#constructor_1}
 
-Initialise une nouvelle instance du[`XmpReal`](../) classe.
+Initialise une nouvelle instance de la classe [`XmpReal`](../).
 
 ```csharp
 public XmpReal(string value)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
-| value | String | La valeur. |
+| valeur | String | La valeur. |
 
 ### Exceptions
 
 | exception | condition |
 | --- | --- |
 | ArgumentNullException | la valeur est nulle. |
-| ArgumentException | Valeur invalide. Doit être flottant. |
+| ArgumentException | Valeur invalide. Doit être un flottant. |
 
-### Voir également
+### Voir aussi
 
 * class [XmpReal](../)
-* espace de noms [Aspose.PSD.Xmp.Types.Basic](../../xmpreal/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Basic](../../../aspose.psd.xmp.types.basic/)
+* assembly [Aspose.PSD](../../../)
 
 

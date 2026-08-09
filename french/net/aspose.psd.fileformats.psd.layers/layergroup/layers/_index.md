@@ -1,24 +1,25 @@
 ---
-title: LayerGroup.Layers
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: LayerGroup propriété. Récupère les calques du groupe de calques
+title: "LayerGroup.Layers"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété LayerGroup. Obtient les calques du groupe de calques"
 type: docs
 weight: 40
 url: /fr/net/aspose.psd.fileformats.psd.layers/layergroup/layers/
 ---
+{{< psd/tize >}}
 ## LayerGroup.Layers property
 
-Récupère les calques du groupe de calques
+Obtient les calques du groupe de calques
 
 ```csharp
 public Layer[] Layers { get; }
 ```
 
-### Voir également
+### Voir aussi
 
 * class [Layer](../../layer/)
 * class [LayerGroup](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers](../../layergroup/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

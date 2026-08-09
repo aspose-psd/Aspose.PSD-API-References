@@ -1,11 +1,12 @@
 ---
-title: Enum ExifLightSource
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: Aspose.PSD.Exif.Enums.ExifLightSource énumération. La source de lumière exif.
+title: "Enum ExifLightSource"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Aspose.PSD.Exif.Enums.ExifLightSource enum. La source de lumière exif."
 type: docs
-weight: 890
+weight: 900
 url: /fr/net/aspose.psd.exif.enums/exiflightsource/
 ---
+{{< psd/tize >}}
 ## ExifLightSource enumeration
 
 La source de lumière exif.
@@ -16,20 +17,20 @@ public enum ExifLightSource
 
 ### Valeurs
 
-| Nom | Évaluer | La description |
+| Nom | Valeur | Description |
 | --- | --- | --- |
 | Unknown | `0` | L'inconnu. |
 | Daylight | `1` | La lumière du jour. |
-| Fluorescent | `2` | Le fluo. |
+| Fluorescent | `2` | Le fluorescent. |
 | Tungsten | `3` | Le tungstène. |
-| Flash | `4` | L'éclair. |
+| Flash | `4` | Le flash. |
 | Fineweather | `9` | Le beau temps. |
 | Cloudyweather | `10` | Le temps nuageux. |
 | Shade | `11` | L'ombre. |
-| DaylightFluorescent | `12` | La lumière du jour fluorescente. |
-| DayWhiteFluorescent | `13` | Le jour blanc fluo. |
-| CoolWhiteFluorescent | `14` | Le blanc froid fluorescent. |
-| WhiteFluorescent | `15` | Le blanc fluo. |
+| DaylightFluorescent | `12` | Le fluorescent du jour. |
+| DayWhiteFluorescent | `13` | Le fluorescent blanc du jour. |
+| CoolWhiteFluorescent | `14` | Le fluorescent blanc froid. |
+| WhiteFluorescent | `15` | Le fluorescent blanc. |
 | StandardlightA | `17` | La lumière standard a. |
 | StandardlightB | `18` | La lumière standard b. |
 | StandardlightC | `19` | La lumière standard c. |
@@ -37,12 +38,12 @@ public enum ExifLightSource
 | D65 | `21` | La valeur d65 (6500K). |
 | D75 | `22` | La valeur d75 (7500K). |
 | D50 | `23` | La valeur d50 (5000K). |
-| ISOstudiotungsten | `24` | La source de lumière au tungstène iso studio. |
+| ISOstudiotungsten | `24` | La source de lumière tungstène studio ISO. |
 | Otherlightsource | `255` | L'autre source de lumière. |
 
-### Voir également
+### Voir aussi
 
-* espace de noms [Aspose.PSD.Exif.Enums](../../aspose.psd.exif.enums/)
-* Assemblée [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Exif.Enums](../../aspose.psd.exif.enums/)
+* assembly [Aspose.PSD](../../)
 
 

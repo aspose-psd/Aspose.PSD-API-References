@@ -1,20 +1,21 @@
 ---
-title: LiFeDataSource.FullPath
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: LiFeDataSource propriété. Obtient ou définit le chemin daccès complet du fichier externe dans la source de données LiFE de la ressource PSD LnkE.
+title: "LiFeDataSource.FullPath"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété LiFeDataSource. Obtient ou définit le chemin complet du fichier externe dans la source de données LiFE de la ressource PSD LnkE"
 type: docs
 weight: 90
 url: /fr/net/aspose.psd.fileformats.psd.layers.layerresources/lifedatasource/fullpath/
 ---
+{{< psd/tize >}}
 ## LiFeDataSource.FullPath property
 
-Obtient ou définit le chemin d'accès complet du fichier externe dans la source de données LiFE de la ressource PSD LnkE.
+Obtient ou définit le chemin complet du fichier externe dans la source de données LiFE de la ressource PSD LnkE.
 
 ```csharp
 public string FullPath { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
 Le chemin complet du fichier.
 
@@ -24,7 +25,7 @@ Le chemin complet du fichier.
 | --- | --- |
 | [PsdImageException](../../../aspose.psd.coreexceptions.imageformats/psdimageexception/) | Vous ne pouvez pas accéder à la propriété FullPath, elle n'est disponible que pour la source de données liFE |
 
-### Exemples
+## Exemples
 
 Cet exemple montre comment obtenir et définir les propriétés de la ressource Psd LnkE.
 
@@ -95,7 +96,7 @@ void ExampleOfLnkEResourceSupport(
                 }
 
                 lifeSource.FullPath =
-                    @"file:///C:/Aspose/net/Aspose.Psd/test/testdata/Images/Psd/SmartObjects/rgb8_2x2.png" ;
+                    @"file:///C:/Aspose/net/Aspose.Psd/test/testdata/Images/Psd/SmartObjects/rgb8_2x2.png";
                 AssertAreEqual(lnkeResource.Length, length2);
                 lifeSource.FileName = "rgb8_2x23.png";
                 AssertAreEqual(lnkeResource.Length, length3);
@@ -117,7 +118,7 @@ void ExampleOfLnkEResourceSupport(
     }
 }
 
-// Cet exemple montre comment obtenir et définir les propriétés du Psd LnkeResource qui contient des informations sur le fichier JPEG lié externe.
+// Cet exemple montre comment obtenir et définir les propriétés de la ressource Psd LnkeResource qui contient des informations sur un fichier JPEG lié externe.
 ExampleOfLnkEResourceSupport(
     @"photooverlay_5_new.psd",
     0x21c,
@@ -136,7 +137,7 @@ ExampleOfLnkEResourceSupport(
     0x1520d,
     7);
 
-// Cet exemple montre comment obtenir et définir les propriétés de PSD LnkeResource qui contient des informations sur un fichier PNG lié externe.
+// Cet exemple montre comment obtenir et définir les propriétés de la ressource PSD LnkeResource qui contient des informations sur un fichier PNG lié externe.
 ExampleOfLnkEResourceSupport(
     "rgb8_2x2_linked.psd",
     0x284,
@@ -155,7 +156,7 @@ ExampleOfLnkEResourceSupport(
     0x53,
     7);
 
-// Cet exemple montre comment obtenir et définir les propriétés de PSD LnkeResource qui contient des informations sur deux fichiers PNG et PSD externes liés.
+// Cet exemple montre comment obtenir et définir les propriétés du PSD LnkeResource qui contient des informations sur deux fichiers PNG et PSD liés externes.
 ExampleOfLnkEResourceSupport(
     "rgb8_2x2_linked2.psd",
     0x590,
@@ -174,7 +175,7 @@ ExampleOfLnkEResourceSupport(
     0x4aea,
     7);
 
-// Cet exemple montre comment obtenir et définir les propriétés de Photoshop Psd LnkeResource qui contient des informations sur un actif de bibliothèques CC lié externe.
+// Cet exemple montre comment obtenir et définir les propriétés du Photoshop Psd LnkeResource qui contient des informations sur un actif CC Libraries lié externe.
 ExampleOfLnkEResourceSupport(
     "rgb8_2x2_asset_linked.psd",
     0x398,
@@ -194,10 +195,10 @@ ExampleOfLnkEResourceSupport(
     7);
 ```
 
-### Voir également
+### Voir aussi
 
 * class [LiFeDataSource](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../lifedatasource/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

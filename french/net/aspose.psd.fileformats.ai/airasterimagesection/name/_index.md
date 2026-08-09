@@ -1,11 +1,12 @@
 ---
-title: AiRasterImageSection.Name
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: AiRasterImageSection propriété. Obtient le nom de limage raster.
+title: "AiRasterImageSection.Name"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété AiRasterImageSection. Obtient le nom de l'image raster"
 type: docs
 weight: 50
 url: /fr/net/aspose.psd.fileformats.ai/airasterimagesection/name/
 ---
+{{< psd/tize >}}
 ## AiRasterImageSection.Name property
 
 Obtient le nom de l'image raster.
@@ -14,14 +15,14 @@ Obtient le nom de l'image raster.
 public string Name { get; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
 Le nom de l'image raster.
 
-### Voir également
+### Voir aussi
 
 * class [AiRasterImageSection](../)
-* espace de noms [Aspose.PSD.FileFormats.Ai](../../airasterimagesection/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

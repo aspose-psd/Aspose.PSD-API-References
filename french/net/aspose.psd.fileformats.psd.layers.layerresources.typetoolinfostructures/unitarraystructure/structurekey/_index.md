@@ -1,23 +1,24 @@
 ---
-title: UnitArrayStructure.StructureKey
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: UnitArrayStructure champ. Définit le UnFlUnitArrayStructure clé.
+title: "UnitArrayStructure.StructureKey"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Champ UnitArrayStructure. Définit la clé UnFl de UnitArrayStructure"
 type: docs
 weight: 70
 url: /fr/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/unitarraystructure/structurekey/
 ---
+{{< psd/tize >}}
 ## UnitArrayStructure.StructureKey field
 
-Définit le 'UnFl'[`UnitArrayStructure`](../) clé.
+Définit la clé 'UnFl' [`UnitArrayStructure`](../).
 
 ```csharp
 public const int StructureKey;
 ```
 
-### Voir également
+### Voir aussi
 
 * class [UnitArrayStructure](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../unitarraystructure/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: TiffOptions.GetTagByType
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: TiffOptions méthode. Obtient linstance de la balise par type.
+title: "TiffOptions.GetTagByType"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Méthode TiffOptions. Obtient l'instance de la balise par type"
 type: docs
-weight: 720
+weight: 730
 url: /fr/net/aspose.psd.imageoptions/tiffoptions/gettagbytype/
 ---
+{{< psd/tize >}}
 ## TiffOptions.GetTagByType method
 
 Obtient l'instance de la balise par type.
@@ -14,20 +15,20 @@ Obtient l'instance de la balise par type.
 public TiffDataType GetTagByType(TiffTags tagKey)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
-| tagKey | TiffTags | La clé de balise. |
+| tagKey | TiffTags | La clé de la balise. |
 
-### Return_Value
+### Valeur de retour
 
 Instance de la balise si elle existe ou null sinon.
 
-### Voir également
+### Voir aussi
 
 * class [TiffDataType](../../../aspose.psd.fileformats.tiff/tiffdatatype/)
 * enum [TiffTags](../../../aspose.psd.fileformats.tiff.enums/tifftags/)
 * class [TiffOptions](../)
-* espace de noms [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

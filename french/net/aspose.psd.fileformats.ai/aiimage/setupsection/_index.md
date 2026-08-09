@@ -1,11 +1,12 @@
 ---
-title: AiImage.SetupSection
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: AiImage propriété. Obtient la section de configuration.
+title: "AiImage.SetupSection"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété AiImage. Obtient la section de configuration"
 type: docs
-weight: 100
+weight: 120
 url: /fr/net/aspose.psd.fileformats.ai/aiimage/setupsection/
 ---
+{{< psd/tize >}}
 ## AiImage.SetupSection property
 
 Obtient la section de configuration.
@@ -14,15 +15,15 @@ Obtient la section de configuration.
 public AiSetupSection SetupSection { get; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
 La section de configuration.
 
-### Voir également
+### Voir aussi
 
 * class [AiSetupSection](../../aisetupsection/)
 * class [AiImage](../)
-* espace de noms [Aspose.PSD.FileFormats.Ai](../../aiimage/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

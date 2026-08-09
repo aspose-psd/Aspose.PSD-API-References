@@ -1,11 +1,12 @@
 ---
-title: StrokeEffect.Size
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: StrokeEffect propriété. Obtient ou définit la largeur de leffet de trait.
+title: "StrokeEffect.Size"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété StrokeEffect. Obtient ou définit la largeur de l'effet de contour"
 type: docs
 weight: 80
 url: /fr/net/aspose.psd.fileformats.psd.layers.layereffects/strokeeffect/size/
 ---
+{{< psd/tize >}}
 ## StrokeEffect.Size property
 
 Obtient ou définit la largeur de l'effet de trait.
@@ -14,13 +15,13 @@ Obtient ou définit la largeur de l'effet de trait.
 public int Size { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
-La largeur de l'effet de trait.
+La largeur de l'effet de contour.
 
-### Exemples
+## Exemples
 
-Cet exemple montre la possibilité d'ajouter l'effet de trait avec différents types de remplissage comme Couleur, Dégradé ou Motif.
+Cet exemple montre la capacité d'ajouter l'effet de contour avec différents types de remplissage tels que Couleur, Dégradé ou Motif.
 
 ```csharp
 [C#]
@@ -32,28 +33,28 @@ using (var psdImage = (PsdImage)Image.Load(srcFile, new PsdLoadOptions() { LoadE
     IGradientFillSettings gradientFillSettings;
     IPatternFillSettings patternFillSettings;
 
-    // 1. Ajoute un remplissage de couleur, à la position À l'intérieur
+    // 1. Ajoute un remplissage Couleur, à la position Intérieur
     strokeEffect = psdImage.Layers[1].BlendingOptions.AddStroke(FillType.Color);
     strokeEffect.Size = 7;
     strokeEffect.Position = StrokePosition.Inside;
     colorFillSettings = strokeEffect.FillSettings as IColorFillSettings;
     colorFillSettings.Color = Color.Green;
 
-    // 2. Ajoute un remplissage de couleur, à la position Outside
+    // 2. Ajoute un remplissage Couleur, à la position Extérieur
     strokeEffect = psdImage.Layers[2].BlendingOptions.AddStroke(FillType.Color);
     strokeEffect.Size = 7;
     strokeEffect.Position = StrokePosition.Outside;
     colorFillSettings = strokeEffect.FillSettings as IColorFillSettings;
     colorFillSettings.Color = Color.Green;
 
-    // 3. Ajoute un remplissage de couleur, à la position Center
+    // 3. Ajoute un remplissage Couleur, à la position Centre
     strokeEffect = psdImage.Layers[3].BlendingOptions.AddStroke(FillType.Color);
     strokeEffect.Size = 7;
     strokeEffect.Position = StrokePosition.Center;
     colorFillSettings = strokeEffect.FillSettings as IColorFillSettings;
     colorFillSettings.Color = Color.Green;
 
-    // 4. Ajoute un remplissage dégradé, à la position Inside
+    // 4. Ajoute un remplissage Dégradé, à la position Intérieur
     strokeEffect = psdImage.Layers[4].BlendingOptions.AddStroke(FillType.Gradient);
     strokeEffect.Size = 5;
     strokeEffect.Position = StrokePosition.Inside;
@@ -61,7 +62,7 @@ using (var psdImage = (PsdImage)Image.Load(srcFile, new PsdLoadOptions() { LoadE
     gradientFillSettings.AlignWithLayer = false;
     gradientFillSettings.Angle = 90;
 
-    // 5. Ajoute un remplissage dégradé, à la position Outside
+    // 5. Ajoute un remplissage Dégradé, à la position Extérieur
     strokeEffect = psdImage.Layers[5].BlendingOptions.AddStroke(FillType.Gradient);
     strokeEffect.Size = 5;
     strokeEffect.Position = StrokePosition.Outside;
@@ -69,7 +70,7 @@ using (var psdImage = (PsdImage)Image.Load(srcFile, new PsdLoadOptions() { LoadE
     gradientFillSettings.AlignWithLayer = true;
     gradientFillSettings.Angle = 90;
 
-    // 6. Ajoute un remplissage dégradé, à la position Center
+    // 6. Ajoute un remplissage Dégradé, à la position Centre
     strokeEffect = psdImage.Layers[6].BlendingOptions.AddStroke(FillType.Gradient);
     strokeEffect.Size = 5;
     strokeEffect.Position = StrokePosition.Center;
@@ -77,21 +78,21 @@ using (var psdImage = (PsdImage)Image.Load(srcFile, new PsdLoadOptions() { LoadE
     gradientFillSettings.AlignWithLayer = true;
     gradientFillSettings.Angle = 0;
 
-    // 7. Ajoute un motif de remplissage, à la position Inside
+    // 7. Ajoute un remplissage Motif, à la position Intérieur
     strokeEffect = psdImage.Layers[7].BlendingOptions.AddStroke(FillType.Pattern);
     strokeEffect.Size = 5;
     strokeEffect.Position = StrokePosition.Inside;
     patternFillSettings = strokeEffect.FillSettings as IPatternFillSettings;
     patternFillSettings.Scale = 200;
 
-    // 8. Ajoute un motif de remplissage, à la position Outside
+    // 8. Ajoute un remplissage Motif, à la position Extérieur
     strokeEffect = psdImage.Layers[8].BlendingOptions.AddStroke(FillType.Pattern);
     strokeEffect.Size = 10;
     strokeEffect.Position = StrokePosition.Outside;
     patternFillSettings = strokeEffect.FillSettings as IPatternFillSettings;
     patternFillSettings.Scale = 100;
 
-    // 9. Ajoute un motif de remplissage, à la position Center
+    // 9. Ajoute un remplissage Motif, à la position Centre
     strokeEffect = psdImage.Layers[9].BlendingOptions.AddStroke(FillType.Pattern);
     strokeEffect.Size = 10;
     strokeEffect.Position = StrokePosition.Center;
@@ -102,10 +103,10 @@ using (var psdImage = (PsdImage)Image.Load(srcFile, new PsdLoadOptions() { LoadE
 }
 ```
 
-### Voir également
+### Voir aussi
 
 * class [StrokeEffect](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../strokeeffect/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../../)
 
 

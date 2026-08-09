@@ -1,27 +1,28 @@
 ---
-title: ClassID.ClassName
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: ClassID propriété. Récupère le nom de la classe sous forme de codage ASCII.
+title: "ClassID.ClassName"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété ClassID. Obtient le nom de classe en encodage ASCII"
 type: docs
 weight: 30
 url: /fr/net/aspose.psd.fileformats.psd.layers.layerresources/classid/classname/
 ---
+{{< psd/tize >}}
 ## ClassID.ClassName property
 
-Récupère le nom de la classe sous forme de codage ASCII.
+Obtient le nom de la classe au format ASCII.
 
 ```csharp
 public string ClassName { get; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
 Le nom de la classe.
 
-### Voir également
+### Voir aussi
 
 * class [ClassID](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../classid/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

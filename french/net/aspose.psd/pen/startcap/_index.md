@@ -1,34 +1,35 @@
 ---
-title: Pen.StartCap
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: Pen propriété. Obtient ou définit le style de majuscule utilisé au début des lignes dessinées avec cePen .
+title: "Pen.StartCap"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété Pen. Obtient ou définit le style de terminaison utilisé au début des lignes tracées avec ce Pen"
 type: docs
 weight: 160
 url: /fr/net/aspose.psd/pen/startcap/
 ---
+{{< psd/tize >}}
 ## Pen.StartCap property
 
-Obtient ou définit le style de majuscule utilisé au début des lignes dessinées avec ce[`Pen`](../) .
+Obtient ou définit le style de terminaison utilisé au début des lignes tracées avec ce [`Pen`](../).
 
 ```csharp
 public LineCap StartCap { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
-L'un des[`LineCap`](../../linecap/) valeurs qui représentent le style de majuscule utilisé au début des lignes dessinées avec ce[`Pen`](../).
+L'une des valeurs de [`LineCap`](../../linecap/) qui représente le style de terminaison utilisé au début des lignes tracées avec ce [`Pen`](../).
 
 ### Exceptions
 
 | exception | condition |
 | --- | --- |
-| ArgumentException | Le`StartCap` la propriété est définie sur un immuable[`Pen`](../) , tels que ceux renvoyés par le[`Pen`](../) classe. |
+| ArgumentException | La propriété `StartCap` est définie sur un [`Pen`](../) immuable, comme ceux renvoyés par la classe [`Pen`](../). |
 
-### Voir également
+### Voir aussi
 
 * enum [LineCap](../../linecap/)
 * class [Pen](../)
-* espace de noms [Aspose.PSD](../../pen/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

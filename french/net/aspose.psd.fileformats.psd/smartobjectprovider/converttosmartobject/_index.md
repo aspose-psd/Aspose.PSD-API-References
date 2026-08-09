@@ -1,11 +1,12 @@
 ---
-title: SmartObjectProvider.ConvertToSmartObject
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: SmartObjectProvider méthode. Convertit les calques en un objet intelligent intégré.
+title: "SmartObjectProvider.ConvertToSmartObject"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Méthode SmartObjectProvider. Convertit les calques en un objet intelligent intégré"
 type: docs
 weight: 10
 url: /fr/net/aspose.psd.fileformats.psd/smartobjectprovider/converttosmartobject/
 ---
+{{< psd/tize >}}
 ## ConvertToSmartObject(params int[]) {#converttosmartobject_1}
 
 Convertit les calques en un objet intelligent intégré.
@@ -14,26 +15,26 @@ Convertit les calques en un objet intelligent intégré.
 public SmartObjectLayer ConvertToSmartObject(params int[] layerNumbers)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
-| layerNumbers | Int32[] | Les numéros de calque. |
+| layerNumbers | Int32[] | Les numéros de calques. |
 
-### Return_Value
+### Valeur de retour
 
-Le créé[`SmartObjectLayer`](../../../aspose.psd.fileformats.psd.layers.smartobjects/smartobjectlayer/) instance.
+L'instance [`SmartObjectLayer`](../../../aspose.psd.fileformats.psd.layers.smartobjects/smartobjectlayer/) créée.
 
 ### Exceptions
 
 | exception | condition |
 | --- | --- |
-| [PsdImageException](../../../aspose.psd.coreexceptions.imageformats/psdimageexception/) | Aucun calque à convertir. ou Le numéro de calque est hors plage. |
+| [PsdImageException](../../../aspose.psd.coreexceptions.imageformats/psdimageexception/) | Aucun calque à convertir. ou le numéro de calque est hors limites. |
 
-### Voir également
+### Voir aussi
 
 * class [SmartObjectLayer](../../../aspose.psd.fileformats.psd.layers.smartobjects/smartobjectlayer/)
 * class [SmartObjectProvider](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd](../../smartobjectprovider/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
@@ -45,26 +46,26 @@ Convertit les calques en un objet intelligent intégré.
 public SmartObjectLayer ConvertToSmartObject(Layer[] layers)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
-| layers | Layer[] | Les couches. |
+| layers | Layer[] | Les calques. |
 
-### Return_Value
+### Valeur de retour
 
-Le créé[`SmartObjectLayer`](../../../aspose.psd.fileformats.psd.layers.smartobjects/smartobjectlayer/) instance.
+L'instance [`SmartObjectLayer`](../../../aspose.psd.fileformats.psd.layers.smartobjects/smartobjectlayer/) créée.
 
 ### Exceptions
 
 | exception | condition |
 | --- | --- |
-| [PsdImageException](../../../aspose.psd.coreexceptions.imageformats/psdimageexception/) | Aucune couche à convertir. |
+| [PsdImageException](../../../aspose.psd.coreexceptions.imageformats/psdimageexception/) | Aucun calque à convertir. |
 
-### Voir également
+### Voir aussi
 
 * class [SmartObjectLayer](../../../aspose.psd.fileformats.psd.layers.smartobjects/smartobjectlayer/)
 * class [Layer](../../../aspose.psd.fileformats.psd.layers/layer/)
 * class [SmartObjectProvider](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd](../../smartobjectprovider/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

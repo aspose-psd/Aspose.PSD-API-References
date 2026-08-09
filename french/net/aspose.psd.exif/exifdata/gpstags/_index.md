@@ -1,28 +1,29 @@
 ---
-title: ExifData.GPSTags
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: ExifData propriété. Obtient ou définit des balises qui appartiennent à la section GPS uniquement.
+title: "ExifData.GPSTags"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété ExifData. Obtient ou définit les balises qui appartiennent uniquement à la section GPS"
 type: docs
 weight: 630
 url: /fr/net/aspose.psd.exif/exifdata/gpstags/
 ---
+{{< psd/tize >}}
 ## ExifData.GPSTags property
 
-Obtient ou définit des balises, qui appartiennent à la section GPS uniquement.
+Obtient ou définit les balises, qui appartiennent uniquement à la section GPS.
 
 ```csharp
 public TiffDataType[] GPSTags { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
 Les balises GPS.
 
-### Voir également
+### Voir aussi
 
 * class [TiffDataType](../../../aspose.psd.fileformats.tiff/tiffdatatype/)
 * class [ExifData](../)
-* espace de noms [Aspose.PSD.Exif](../../exifdata/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

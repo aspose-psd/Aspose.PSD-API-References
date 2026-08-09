@@ -1,49 +1,50 @@
 ---
-title: Rectangle.Offset
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: Rectangle méthode. Ajuste lemplacement de ce rectangle du montant spécifié.
+title: "Rectangle.Offset"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Méthode Rectangle. Ajuste la position de ce rectangle du montant spécifié."
 type: docs
 weight: 270
 url: /fr/net/aspose.psd/rectangle/offset/
 ---
+{{< psd/tize >}}
 ## Offset(Point) {#offset}
 
-Ajuste l'emplacement de ce rectangle du montant spécifié.
+Ajuste la position de ce rectangle du montant spécifié.
 
 ```csharp
 public void Offset(Point pos)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
-| pos | Point | Montant pour compenser l'emplacement. |
+| pos | Point | Montant pour décaler la position. |
 
-### Voir également
+### Voir aussi
 
 * struct [Point](../../point/)
 * struct [Rectangle](../)
-* espace de noms [Aspose.PSD](../../rectangle/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Offset(int, int) {#offset_1}
 
-Ajuste l'emplacement de ce rectangle du montant spécifié.
+Ajuste la position de ce rectangle du montant spécifié.
 
 ```csharp
 public void Offset(int x, int y)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
 | x | Int32 | Le décalage horizontal. |
 | y | Int32 | Le décalage vertical. |
 
-### Voir également
+### Voir aussi
 
 * struct [Rectangle](../)
-* espace de noms [Aspose.PSD](../../rectangle/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

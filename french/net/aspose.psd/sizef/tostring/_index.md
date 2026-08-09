@@ -1,27 +1,28 @@
 ---
-title: SizeF.ToString
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: SizeF méthode. Crée une chaîne lisible par lhomme qui représente ceSizeF .
+title: "SizeF.ToString"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Méthode SizeF. Crée une chaîne lisible par l'homme qui représente ce SizeF"
 type: docs
 weight: 120
 url: /fr/net/aspose.psd/sizef/tostring/
 ---
+{{< psd/tize >}}
 ## SizeF.ToString method
 
-Crée une chaîne lisible par l'homme qui représente ce[`SizeF`](../) .
+Crée une chaîne lisible qui représente ce [`SizeF`](../).
 
 ```csharp
 public override string ToString()
 ```
 
-### Return_Value
+### Valeur de retour
 
-Une chaîne qui représente ceci[`SizeF`](../).
+Une chaîne qui représente ce [`SizeF`](../).
 
-### Voir également
+### Voir aussi
 
 * struct [SizeF](../)
-* espace de noms [Aspose.PSD](../../sizef/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

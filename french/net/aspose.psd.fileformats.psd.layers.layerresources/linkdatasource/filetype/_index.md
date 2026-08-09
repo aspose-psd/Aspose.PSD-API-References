@@ -1,22 +1,23 @@
 ---
-title: LinkDataSource.FileType
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: LinkDataSource propriété. Obtient ou définit le type de fichier intégré ou externe que la ressource Adobe Photoshop Lnk2 / LnkE contient ou relie.
+title: "LinkDataSource.FileType"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété LinkDataSource. Obtient ou définit le type du fichier intégré ou externe que la ressource Adobe Photoshop Lnk2 / LnkE contient ou lie"
 type: docs
 weight: 60
 url: /fr/net/aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/filetype/
 ---
+{{< psd/tize >}}
 ## LinkDataSource.FileType property
 
-Obtient ou définit le type de fichier intégré ou externe que la ressource Adobe® Photoshop® Lnk2 / LnkE contient ou relie.
+Obtient ou définit le type du fichier intégré ou externe que la ressource Adobe® Photoshop® Lnk2 / LnkE contient ou lie.
 
 ```csharp
 public string FileType { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
-Le type de fichier intégré ou lié externe.
+Le type du fichier lié incorporé ou externe.
 
 ### Exceptions
 
@@ -24,10 +25,10 @@ Le type de fichier intégré ou lié externe.
 | --- | --- |
 | [PsdImageException](../../../aspose.psd.coreexceptions.imageformats/psdimageexception/) | Vous ne pouvez pas accéder à la propriété FileType. |
 
-### Voir également
+### Voir aussi
 
 * class [LinkDataSource](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../linkdatasource/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: DeconvolutionFilterOptions.IsPartialLoaded
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: DeconvolutionFilterOptions propriété. Obtient une valeur indiquant si cette instance est partiellement chargée.
+title: "DeconvolutionFilterOptions.IsPartialLoaded"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété DeconvolutionFilterOptions. Obtient une valeur indiquant si cette instance est partiellement chargée"
 type: docs
 weight: 30
 url: /fr/net/aspose.psd.imagefilters.filteroptions/deconvolutionfilteroptions/ispartialloaded/
 ---
+{{< psd/tize >}}
 ## DeconvolutionFilterOptions.IsPartialLoaded property
 
 Obtient une valeur indiquant si cette instance est partiellement chargée.
@@ -14,14 +15,14 @@ Obtient une valeur indiquant si cette instance est partiellement chargée.
 public bool IsPartialLoaded { get; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
-`vrai` si cette instance est partiellement chargée ; sinon,`FAUX` .
+`true` si cette instance est partiellement chargée ; sinon, `false`.
 
-### Voir également
+### Voir aussi
 
 * class [DeconvolutionFilterOptions](../)
-* espace de noms [Aspose.PSD.ImageFilters.FilterOptions](../../deconvolutionfilteroptions/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageFilters.FilterOptions](../../../aspose.psd.imagefilters.filteroptions/)
+* assembly [Aspose.PSD](../../../)
 
 

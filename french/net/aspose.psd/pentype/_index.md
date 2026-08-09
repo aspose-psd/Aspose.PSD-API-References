@@ -1,14 +1,15 @@
 ---
-title: Enum PenType
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: Aspose.PSD.PenType énumération. Spécifie le type de remplissage aPen objet utilise pour remplir les lignes.
+title: "Énumération PenType"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Énumération Aspose.PSD.PenType. Spécifie le type de remplissage qu'un objet Pen utilise pour remplir les lignes"
 type: docs
-weight: 5220
+weight: 5710
 url: /fr/net/aspose.psd/pentype/
 ---
+{{< psd/tize >}}
 ## PenType enumeration
 
-Spécifie le type de remplissage a[`Pen`](../pen/) objet utilise pour remplir les lignes.
+Spécifie le type de remplissage qu'un objet [`Pen`](../pen/) utilise pour remplir les lignes.
 
 ```csharp
 public enum PenType
@@ -16,17 +17,17 @@ public enum PenType
 
 ### Valeurs
 
-| Nom | Évaluer | La description |
+| Nom | Valeur | Description |
 | --- | --- | --- |
-| SolidColor | `0` | Spécifie un remplissage uni. |
-| HatchFill | `1` | Spécifie un remplissage hachuré. |
-| TextureFill | `2` | Spécifie un remplissage de texture bitmap. |
-| PathGradient | `3` | Spécifie un remplissage dégradé de chemin. |
-| LinearGradient | `4` | Spécifie un remplissage dégradé linéaire. |
+| SolidColor | `0` | Spécifie un remplissage plein. |
+| HatchFill | `1` | Spécifie un remplissage à hachures. |
+| TextureFill | `2` | Spécifie un remplissage à texture bitmap. |
+| PathGradient | `3` | Spécifie un remplissage en dégradé de chemin. |
+| LinearGradient | `4` | Spécifie un remplissage en dégradé linéaire. |
 
-### Voir également
+### Voir aussi
 
-* espace de noms [Aspose.PSD](../../aspose.psd/)
-* Assemblée [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

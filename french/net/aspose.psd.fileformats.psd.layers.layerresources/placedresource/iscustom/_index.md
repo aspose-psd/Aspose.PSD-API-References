@@ -1,27 +1,28 @@
 ---
-title: PlacedResource.IsCustom
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: PlacedResource propriété. Obtient ou définit une valeur indiquant si ce style de déformation dinstance est personnalisé. Si vrai il contient des points de maillage. Si défini sur false il efface les points de maillage.
+title: "PlacedResource.IsCustom"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété PlacedResource. Obtient ou définit une valeur indiquant si le style de déformation de cette instance est personnalisé. Si vrai, il contient des points de maillage. Si faux, il efface les points de maillage."
 type: docs
 weight: 60
 url: /fr/net/aspose.psd.fileformats.psd.layers.layerresources/placedresource/iscustom/
 ---
+{{< psd/tize >}}
 ## PlacedResource.IsCustom property
 
-Obtient ou définit une valeur indiquant si ce style de déformation d'instance est personnalisé. Si vrai, il contient des points de maillage. Si défini sur false, il efface les points de maillage.
+Obtient ou définit une valeur indiquant si le style de déformation de cette instance est personnalisé. Si vrai, il contient des points de maillage. Si défini sur faux, il supprime les points de maillage.
 
 ```csharp
 public bool IsCustom { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
-`vrai` si le calque placé a un style personnalisé ; sinon,`FAUX` .
+`true` si le calque placé a un style personnalisé ; sinon, `false`.
 
-### Voir également
+### Voir aussi
 
 * class [PlacedResource](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../placedresource/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

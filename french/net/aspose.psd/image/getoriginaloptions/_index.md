@@ -1,28 +1,29 @@
 ---
-title: Image.GetOriginalOptions
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: Image méthode. Obtient les options basées sur les paramètres du fichier dorigine. Cela peut être utile pour conserver la profondeur de bits et dautres paramètres de limage dorigine inchangés. Par exemple si nous chargeons une image PNG noirblanc avec 1 bit par pixel puis enregistrezle en utilisant the Save  limage PNG de sortie avec 8 bits par pixel sera produite. Pour léviter et enregistrer limage PNG avec 1 bit par pixel utilisez cette méthode pour obtenir les options denregistrement correspondantes et passezles auSaveméthode comme deuxième paramètre.
+title: "Image.GetOriginalOptions"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Méthode Image. Obtient les options basées sur les paramètres du fichier original. Cela peut être utile pour conserver la profondeur de couleur et d'autres paramètres de l'image originale inchangés. Par exemple, si nous chargeons une image PNG noir et blanc avec 1 bit par pixel puis l'enregistrons en utilisant la méthode Save, l'image PNG de sortie sera générée avec 8 bits par pixel. Pour éviter cela et enregistrer une image PNG avec 1 bit par pixel, utilisez cette méthode pour obtenir les options d'enregistrement correspondantes et les transmettre à la méthode Save en tant que deuxième paramètre."
 type: docs
-weight: 180
+weight: 190
 url: /fr/net/aspose.psd/image/getoriginaloptions/
 ---
+{{< psd/tize >}}
 ## Image.GetOriginalOptions method
 
-Obtient les options basées sur les paramètres du fichier d'origine. Cela peut être utile pour conserver la profondeur de bits et d'autres paramètres de l'image d'origine inchangés. Par exemple, si nous chargeons une image PNG noir-blanc avec 1 bit par pixel, puis enregistrez-le en utilisant the [`Save`](../../datastreamsupporter/save/) , l'image PNG de sortie avec 8 bits par pixel sera produite. Pour l'éviter et enregistrer l'image PNG avec 1 bit par pixel, utilisez cette méthode pour obtenir les options d'enregistrement correspondantes et passez-les au[`Save`](../save/)méthode comme deuxième paramètre.
+Obtient les options basées sur les paramètres du fichier original. Cela peut être utile pour conserver la profondeur de couleur et d'autres paramètres de l'image originale inchangés. Par exemple, si nous chargeons une image PNG noir et blanc avec 1 bit par pixel puis l'enregistrons en utilisant la méthode [`Save`](../../datastreamsupporter/save/), l'image PNG de sortie sera générée avec 8 bits par pixel. Pour éviter cela et enregistrer une image PNG avec 1 bit par pixel, utilisez cette méthode pour obtenir les options d'enregistrement correspondantes et les transmettre à la méthode [`Save`](../save/) en tant que deuxième paramètre.
 
 ```csharp
 public virtual ImageOptionsBase GetOriginalOptions()
 ```
 
-### Return_Value
+### Valeur de retour
 
-Les options basées sur les paramètres du fichier d'origine.
+Les options basées sur les paramètres du fichier original.
 
-### Voir également
+### Voir aussi
 
 * class [ImageOptionsBase](../../imageoptionsbase/)
 * class [Image](../)
-* espace de noms [Aspose.PSD](../../image/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

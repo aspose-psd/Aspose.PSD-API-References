@@ -1,11 +1,12 @@
 ---
-title: ImageLoadersRegistry.RegisteredDescriptors
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: ImageLoadersRegistry propriété. Obtient les descripteurs enregistrés.
+title: "ImageLoadersRegistry.RegisteredDescriptors"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété ImageLoadersRegistry. Obtient les descripteurs enregistrés"
 type: docs
 weight: 10
 url: /fr/net/aspose.psd/imageloadersregistry/registereddescriptors/
 ---
+{{< psd/tize >}}
 ## ImageLoadersRegistry.RegisteredDescriptors property
 
 Obtient les descripteurs enregistrés.
@@ -14,15 +15,15 @@ Obtient les descripteurs enregistrés.
 public static IImageLoaderDescriptor[] RegisteredDescriptors { get; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
 Les descripteurs enregistrés.
 
-### Voir également
+### Voir aussi
 
 * interface [IImageLoaderDescriptor](../../iimageloaderdescriptor/)
 * class [ImageLoadersRegistry](../)
-* espace de noms [Aspose.PSD](../../imageloadersregistry/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

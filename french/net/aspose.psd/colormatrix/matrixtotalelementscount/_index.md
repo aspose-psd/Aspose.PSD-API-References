@@ -1,11 +1,12 @@
 ---
-title: ColorMatrix.MatrixTotalElementsCount
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: ColorMatrix champ. Le nombre total déléments dans la matrice.
+title: "ColorMatrix.MatrixTotalElementsCount"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Champ ColorMatrix. Le nombre total d'éléments dans la matrice"
 type: docs
 weight: 310
 url: /fr/net/aspose.psd/colormatrix/matrixtotalelementscount/
 ---
+{{< psd/tize >}}
 ## ColorMatrix.MatrixTotalElementsCount field
 
 Le nombre total d'éléments dans la matrice.
@@ -14,10 +15,10 @@ Le nombre total d'éléments dans la matrice.
 public const int MatrixTotalElementsCount;
 ```
 
-### Voir également
+### Voir aussi
 
 * class [ColorMatrix](../)
-* espace de noms [Aspose.PSD](../../colormatrix/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

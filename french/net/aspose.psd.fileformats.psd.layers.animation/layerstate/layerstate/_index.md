@@ -1,27 +1,24 @@
 ---
-title: LayerState.LayerState
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: LayerState constructeur. Initialise une nouvelle instance duLayerState classe.
+title: "LayerState.LayerState"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Constructeur LayerState. Le constructeur par défaut"
 type: docs
 weight: 10
 url: /fr/net/aspose.psd.fileformats.psd.layers.animation/layerstate/layerstate/
 ---
+{{< psd/tize >}}
 ## LayerState constructor
 
-Initialise une nouvelle instance du[`LayerState`](../) classe.
+Le constructeur par défaut.
 
 ```csharp
-public LayerState(int layerId)
+public LayerState()
 ```
 
-| Paramètre | Taper | La description |
-| --- | --- | --- |
-| layerId | Int32 | L'identifiant pour identifier l'état de la couche associée. |
-
-### Voir également
+### Voir aussi
 
 * class [LayerState](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.Animation](../../layerstate/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.Animation](../../../aspose.psd.fileformats.psd.layers.animation/)
+* assembly [Aspose.PSD](../../../)
 
 

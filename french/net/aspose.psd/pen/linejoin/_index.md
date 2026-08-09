@@ -1,34 +1,35 @@
 ---
-title: Pen.LineJoin
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: Pen propriété. Obtient ou définit le style de jointure pour les extrémités de deux lignes consécutives dessinées avec cePen .
+title: "Pen.LineJoin"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété Pen. Obtient ou définit le style de jointure pour les extrémités de deux lignes consécutives tracées avec ce Pen"
 type: docs
 weight: 130
 url: /fr/net/aspose.psd/pen/linejoin/
 ---
+{{< psd/tize >}}
 ## Pen.LineJoin property
 
-Obtient ou définit le style de jointure pour les extrémités de deux lignes consécutives dessinées avec ce[`Pen`](../) .
+Obtient ou définit le style de jointure pour les extrémités de deux lignes consécutives tracées avec ce [`Pen`](../).
 
 ```csharp
 public LineJoin LineJoin { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
-UN`LineJoin` qui représente le style de jointure pour les extrémités de deux lignes consécutives dessinées avec ce[`Pen`](../).
+Un `LineJoin` qui représente le style de jointure pour les extrémités de deux lignes consécutives tracées avec ce [`Pen`](../).
 
 ### Exceptions
 
 | exception | condition |
 | --- | --- |
-| ArgumentException | Le`LineJoin` la propriété est définie sur un immuable[`Pen`](../) , tels que ceux renvoyés par le[`Pen`](../) classe. |
+| ArgumentException | La propriété `LineJoin` est définie sur un [`Pen`](../) immutable, comme ceux renvoyés par la classe [`Pen`](../). |
 
-### Voir également
+### Voir aussi
 
 * enum [LineJoin](../../linejoin/)
 * class [Pen](../)
-* espace de noms [Aspose.PSD](../../pen/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

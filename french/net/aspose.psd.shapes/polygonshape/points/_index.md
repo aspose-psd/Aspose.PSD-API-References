@@ -1,11 +1,12 @@
 ---
-title: PolygonShape.Points
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: PolygonShape propriété. Obtient ou définit les points de la courbe.
+title: "PolygonShape.Points"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété PolygonShape. Obtient ou définit les points de la courbe"
 type: docs
 weight: 70
 url: /fr/net/aspose.psd.shapes/polygonshape/points/
 ---
+{{< psd/tize >}}
 ## PolygonShape.Points property
 
 Obtient ou définit les points de la courbe.
@@ -14,15 +15,15 @@ Obtient ou définit les points de la courbe.
 public PointF[] Points { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
-La courbe pointe.
+Les points de la courbe.
 
-### Voir également
+### Voir aussi
 
 * struct [PointF](../../../aspose.psd/pointf/)
 * class [PolygonShape](../)
-* espace de noms [Aspose.PSD.Shapes](../../polygonshape/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 

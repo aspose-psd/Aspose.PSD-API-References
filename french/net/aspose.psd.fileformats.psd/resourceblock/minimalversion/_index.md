@@ -1,11 +1,12 @@
 ---
-title: ResourceBlock.MinimalVersion
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: ResourceBlock propriété. Obtient la version PSD minimale requise.
+title: "ResourceBlock.MinimalVersion"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété ResourceBlock. Obtient la version PSD minimale requise"
 type: docs
 weight: 30
 url: /fr/net/aspose.psd.fileformats.psd/resourceblock/minimalversion/
 ---
+{{< psd/tize >}}
 ## ResourceBlock.MinimalVersion property
 
 Obtient la version PSD minimale requise.
@@ -14,14 +15,14 @@ Obtient la version PSD minimale requise.
 public abstract int MinimalVersion { get; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
 La version PSD minimale.
 
-### Voir également
+### Voir aussi
 
 * class [ResourceBlock](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd](../../resourceblock/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

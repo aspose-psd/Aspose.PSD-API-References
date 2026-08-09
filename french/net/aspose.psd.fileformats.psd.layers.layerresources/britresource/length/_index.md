@@ -1,23 +1,24 @@
 ---
-title: BritResource.Length
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: BritResource propriété. Obtient la longueur de la ressource de couche en octets.
+title: "BritResource.Length"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "BritResource propriété. Obtient la longueur de la ressource de calque en octets"
 type: docs
-weight: 60
+weight: 50
 url: /fr/net/aspose.psd.fileformats.psd.layers.layerresources/britresource/length/
 ---
+{{< psd/tize >}}
 ## BritResource.Length property
 
-Obtient la longueur de la ressource de couche en octets.
+Obtient la longueur de la ressource du calque en octets.
 
 ```csharp
 public override int Length { get; }
 ```
 
-### Voir également
+### Voir aussi
 
 * class [BritResource](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../britresource/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

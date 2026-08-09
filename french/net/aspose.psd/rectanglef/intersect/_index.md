@@ -1,52 +1,53 @@
 ---
-title: RectangleF.Intersect
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: RectangleF méthode. Renvoie unRectangleF structure qui représente lintersection de deux rectangles. Sil ny a pas dintersection et videRectangleF est renvoyé.
+title: "RectangleF.Intersect"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Méthode RectangleF. Retourne une structure RectangleF qui représente l'intersection de deux rectangles. S'il n'y a pas d'intersection, une RectangleF vide est retournée."
 type: docs
 weight: 60
 url: /fr/net/aspose.psd/rectanglef/intersect/
 ---
+{{< psd/tize >}}
 ## Intersect(RectangleF, RectangleF)
 
-Renvoie un[`RectangleF`](../) structure qui représente l'intersection de deux rectangles. S'il n'y a pas d'intersection et vide[`RectangleF`](../) est renvoyé.
+Retourne une structure [`RectangleF`](../) qui représente l'intersection de deux rectangles. S'il n'y a pas d'intersection, une [`RectangleF`](../) vide est retournée.
 
 ```csharp
 public static RectangleF Intersect(RectangleF a, RectangleF b)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
-| a | RectangleF | Un premier rectangle à couper. |
-| b | RectangleF | Un deuxième rectangle à couper. |
+| a | RectangleF | Un premier rectangle à intersecter. |
+| b | RectangleF | Un deuxième rectangle à intersecter. |
 
-### Return_Value
+### Valeur de retour
 
-Un tiers[`RectangleF`](../) structure dont la taille représente la zone de chevauchement des deux rectangles spécifiés.
+Une troisième structure [`RectangleF`](../) dont la taille représente la zone chevauchée des deux rectangles spécifiés.
 
-### Voir également
+### Voir aussi
 
 * struct [RectangleF](../)
-* espace de noms [Aspose.PSD](../../rectanglef/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Intersect(RectangleF)
 
-Remplace ceci[`RectangleF`](../)structure avec l'intersection d'elle-même et du spécifié[`RectangleF`](../)structure.
+Remplace cette structure [`RectangleF`](../) par l'intersection d'elle-même et de la structure [`RectangleF`](../) spécifiée.
 
 ```csharp
 public void Intersect(RectangleF rect)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
-| rect | RectangleF | Le rectangle à couper. |
+| rect | RectangleF | Le rectangle à intersecter. |
 
-### Voir également
+### Voir aussi
 
 * struct [RectangleF](../)
-* espace de noms [Aspose.PSD](../../rectanglef/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

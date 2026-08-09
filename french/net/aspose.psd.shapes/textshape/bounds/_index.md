@@ -1,11 +1,12 @@
 ---
-title: TextShape.Bounds
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: TextShape propriété. Obtient les limites de lobjet.
+title: "TextShape.Bounds"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété TextShape. Obtient les limites de l'objet"
 type: docs
 weight: 20
 url: /fr/net/aspose.psd.shapes/textshape/bounds/
 ---
+{{< psd/tize >}}
 ## TextShape.Bounds property
 
 Obtient les limites de l'objet.
@@ -14,15 +15,15 @@ Obtient les limites de l'objet.
 public override RectangleF Bounds { get; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
 Les limites de l'objet.
 
-### Voir également
+### Voir aussi
 
 * struct [RectangleF](../../../aspose.psd/rectanglef/)
 * class [TextShape](../)
-* espace de noms [Aspose.PSD.Shapes](../../textshape/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 

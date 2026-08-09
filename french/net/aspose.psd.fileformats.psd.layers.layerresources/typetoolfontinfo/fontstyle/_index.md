@@ -1,11 +1,12 @@
 ---
-title: TypeToolFontInfo.FontStyle
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: TypeToolFontInfo propriété. Obtient ou définit le nom du style de police.
+title: "TypeToolFontInfo.FontStyle"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété TypeToolFontInfo. Obtient ou définit le nom du style de police"
 type: docs
 weight: 60
 url: /fr/net/aspose.psd.fileformats.psd.layers.layerresources/typetoolfontinfo/fontstyle/
 ---
+{{< psd/tize >}}
 ## TypeToolFontInfo.FontStyle property
 
 Obtient ou définit le nom du style de police.
@@ -14,14 +15,14 @@ Obtient ou définit le nom du style de police.
 public string FontStyle { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
 Le nom du style de police.
 
-### Voir également
+### Voir aussi
 
 * class [TypeToolFontInfo](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../typetoolfontinfo/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

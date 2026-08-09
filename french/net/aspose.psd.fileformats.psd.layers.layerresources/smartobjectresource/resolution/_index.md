@@ -1,27 +1,28 @@
 ---
-title: SmartObjectResource.Resolution
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: SmartObjectResource propriété. Obtient ou définit la résolution des données de la couche dobjet intelligent dans le fichier PSD.
+title: "SmartObjectResource.Resolution"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "SmartObjectResource property. Obtient ou définit la résolution des données du calque d'objet dynamique dans le fichier PSD"
 type: docs
-weight: 190
+weight: 180
 url: /fr/net/aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/resolution/
 ---
+{{< psd/tize >}}
 ## SmartObjectResource.Resolution property
 
-Obtient ou définit la résolution des données de la couche d'objet intelligent dans le fichier PSD.
+Obtient ou définit la résolution des données du calque d'objet dynamique dans le fichier PSD.
 
 ```csharp
 public double Resolution { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
-La résolution de la couche d'objet intelligent.
+La résolution du calque d'objet dynamique.
 
-### Voir également
+### Voir aussi
 
 * class [SmartObjectResource](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../smartobjectresource/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

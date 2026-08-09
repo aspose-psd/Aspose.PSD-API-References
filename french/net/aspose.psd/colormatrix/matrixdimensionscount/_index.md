@@ -1,11 +1,12 @@
 ---
-title: ColorMatrix.MatrixDimensionsCount
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: ColorMatrix champ. Le nombre de dimensions de la matrice.
+title: "ColorMatrix.MatrixDimensionsCount"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Champ ColorMatrix. Le nombre de dimensions de la matrice"
 type: docs
 weight: 300
 url: /fr/net/aspose.psd/colormatrix/matrixdimensionscount/
 ---
+{{< psd/tize >}}
 ## ColorMatrix.MatrixDimensionsCount field
 
 Le nombre de dimensions de la matrice.
@@ -14,10 +15,10 @@ Le nombre de dimensions de la matrice.
 public const int MatrixDimensionsCount;
 ```
 
-### Voir également
+### Voir aussi
 
 * class [ColorMatrix](../)
-* espace de noms [Aspose.PSD](../../colormatrix/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

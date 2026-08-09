@@ -1,11 +1,12 @@
 ---
-title: XmpGuid.Prefix
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: XmpGuid propriété. Obtient ou définit le préfixe comme uuid.
+title: "XmpGuid.Prefix"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété XmpGuid. Obtient ou définit le préfixe comme uuid"
 type: docs
 weight: 20
 url: /fr/net/aspose.psd.xmp.types.derived/xmpguid/prefix/
 ---
+{{< psd/tize >}}
 ## XmpGuid.Prefix property
 
 Obtient ou définit le préfixe comme uuid.
@@ -14,14 +15,14 @@ Obtient ou définit le préfixe comme uuid.
 public string Prefix { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
 Le préfixe comme uuid.
 
-### Voir également
+### Voir aussi
 
 * class [XmpGuid](../)
-* espace de noms [Aspose.PSD.Xmp.Types.Derived](../../xmpguid/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Derived](../../../aspose.psd.xmp.types.derived/)
+* assembly [Aspose.PSD](../../../)
 
 

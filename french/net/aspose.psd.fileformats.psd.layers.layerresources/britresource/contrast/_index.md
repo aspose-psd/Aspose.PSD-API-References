@@ -1,11 +1,12 @@
 ---
-title: BritResource.Contrast
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: BritResource propriété. Obtient ou définit le contraste.
+title: "BritResource.Contrast"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété BritResource. Obtient ou définit le contraste"
 type: docs
 weight: 30
 url: /fr/net/aspose.psd.fileformats.psd.layers.layerresources/britresource/contrast/
 ---
+{{< psd/tize >}}
 ## BritResource.Contrast property
 
 Obtient ou définit le contraste.
@@ -14,14 +15,14 @@ Obtient ou définit le contraste.
 public short Contrast { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
 Le contraste.
 
-### Voir également
+### Voir aussi
 
 * class [BritResource](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../britresource/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,31 +1,32 @@
 ---
-title: TiffDataType.DataSize
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: TiffDataType propriété. Obtient la taille des données supplémentaires en octets au cas où les 12 octets ne suffisent pas pour contenir les données de balise.
+title: "TiffDataType.DataSize"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété TiffDataType. Obtient la taille supplémentaire des données en octets au cas où les 12 octets ne seraient pas suffisants pour contenir les données de l'étiquette"
 type: docs
 weight: 40
 url: /fr/net/aspose.psd.fileformats.tiff/tiffdatatype/datasize/
 ---
+{{< psd/tize >}}
 ## TiffDataType.DataSize property
 
-Obtient la taille des données supplémentaires en octets (au cas où les 12 octets ne suffisent pas pour contenir les données de balise).
+Obtient la taille supplémentaire des données en octets (au cas où les 12 octets ne seraient pas suffisants pour contenir les données de l'étiquette).
 
 ```csharp
 public abstract uint DataSize { get; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
-La taille des données supplémentaires en octets.
+La taille supplémentaire des données en octets.
 
-### Remarques
+## Remarques
 
-C'est le nombre exact d'octets.
+Ceci est le nombre exact d'octets.
 
-### Voir également
+### Voir aussi
 
 * class [TiffDataType](../)
-* espace de noms [Aspose.PSD.FileFormats.Tiff](../../tiffdatatype/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff](../../../aspose.psd.fileformats.tiff/)
+* assembly [Aspose.PSD](../../../)
 
 

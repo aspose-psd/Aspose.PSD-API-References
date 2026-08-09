@@ -1,11 +1,12 @@
 ---
-title: OSTypeStructuresRegistry.RegisteredDescriptors
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: OSTypeStructuresRegistry propriété. Obtient les descripteurs enregistrés.
+title: "OSTypeStructuresRegistry.RegisteredDescriptors"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété OSTypeStructuresRegistry. Obtient les descripteurs enregistrés"
 type: docs
 weight: 10
 url: /fr/net/aspose.psd.fileformats.psd.layers.layerresources/ostypestructuresregistry/registereddescriptors/
 ---
+{{< psd/tize >}}
 ## OSTypeStructuresRegistry.RegisteredDescriptors property
 
 Obtient les descripteurs enregistrés.
@@ -14,15 +15,15 @@ Obtient les descripteurs enregistrés.
 public static IOSTypeStructureLoader[] RegisteredDescriptors { get; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
 Les descripteurs enregistrés.
 
-### Voir également
+### Voir aussi
 
 * interface [IOSTypeStructureLoader](../../iostypestructureloader/)
 * class [OSTypeStructuresRegistry](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../ostypestructuresregistry/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

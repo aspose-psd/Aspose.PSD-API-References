@@ -1,14 +1,15 @@
 ---
-title: Class LiFdDataSource
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.LiFdDataSource classe. Définit la classe de source de données liFD dans le fichier PSD qui contient des informations sur un fichier intégré. Ceci fait partie de lAPI de manipulation du format de fichier PSD qui aide à modifier les fichiers Adobe Photoshop
+title: "Classe LiFdDataSource"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Classe Aspose.PSD.FileFormats.Psd.Layers.LayerResources.LiFdDataSource. Définit la classe de source de données liFD dans le fichier PSD qui contient des informations sur un fichier intégré. Cela fait partie de l'API de manipulation du format de fichier PSD qui aide à modifier les fichiers Adobe Photoshop"
 type: docs
-weight: 2670
+weight: 2970
 url: /fr/net/aspose.psd.fileformats.psd.layers.layerresources/lifddatasource/
 ---
+{{< psd/tize >}}
 ## LiFdDataSource class
 
-Définit la classe de source de données liFD dans le fichier PSD qui contient des informations sur un fichier intégré. Ceci fait partie de l'API de manipulation du format de fichier PSD qui aide à modifier les fichiers Adobe® Photoshop®
+Définit la classe de source de données liFD dans le fichier PSD qui contient des informations sur un fichier intégré. Cela fait partie de l'API de manipulation du format de fichier PSD qui aide à modifier les fichiers Adobe® Photoshop®.
 
 ```csharp
 public class LiFdDataSource : LinkDataSource
@@ -16,35 +17,35 @@ public class LiFdDataSource : LinkDataSource
 
 ## Constructeurs
 
-| Nom | La description |
+| Nom | Description |
 | --- | --- |
-| [LiFdDataSource](lifddatasource/#constructor)() | Initialise une nouvelle instance du`LiFdDataSource` classe. |
-| [LiFdDataSource](lifddatasource/#constructor_1)(int, Guid, string, string, string) | Initialise une nouvelle instance du`LiFdDataSource` classe. |
+| [LiFdDataSource](lifddatasource/#constructor)() | Initialise une nouvelle instance de la classe `LiFdDataSource`. |
+| [LiFdDataSource](lifddatasource/#constructor_1)(int, Guid, string, string, string) | Initialise une nouvelle instance de la classe `LiFdDataSource`. |
 
 ## Propriétés
 
-| Nom | La description |
+| Nom | Description |
 | --- | --- |
-| [AssetLockedState](../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/assetlockedstate/) { get; set; } | Obtient ou définit une valeur indiquant si l'actif PSD est verrouillé. L'état verrouillé de l'actif, pour les actifs des bibliothèques Adobe® Photoshop® СС. |
-| [AssetModTime](../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/assetmodtime/) { get; set; } | Obtient ou définit l'heure de modification de l'actif, pour les actifs des bibliothèques Adobe® Photoshop® СС. |
+| [AssetLockedState](../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/assetlockedstate/) { get; set; } | Obtient ou définit une valeur indiquant si l'actif PSD est verrouillé. L'état de verrouillage de l'actif, pour les actifs Adobe® Photoshop® СС Libraries. |
+| [AssetModTime](../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/assetmodtime/) { get; set; } | Obtient ou définit la date de modification de l'actif, pour les actifs Adobe® Photoshop® СС Libraries. |
 | [ChildDocId](../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/childdocid/) { get; set; } | Obtient ou définit l'identifiant du document enfant dans la source de données liFE ou liFD de la ressource Lnk2 / LnkE Adobe® Photoshop®. |
-| [CompId](../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/compid/) { get; set; } | Obtient ou définit l'ID de la composition actuellement sélectionnée pour le document enfant, qui sera -1 si aucune n'est sélectionnée. Les compositions sont des compositions d'une mise en page que les concepteurs peuvent créer. Grâce aux compositions de calques, vous pouvez créer, gérer et afficher plusieurs versions d'une mise en page dans un seul fichier Adobe® Photoshop®. Une composition de calque est un instantané d'un état du panneau Calques. Les compositions de calque enregistrent trois types d'options de calque mais cette propriété obtient l'identifiant de sélection de la composition de calque pour les objets intelligents. [Compositions de calques dans les objets dynamiques](https://helpx.adobe.com/photoshop/using/layer-comps.html) |
-| [Data](../../aspose.psd.fileformats.psd.layers.layerresources/lifddatasource/data/) { get; set; } | Obtient ou définit les données d'objet intelligent intégrées dans le fichier PSD. |
-| [FileCreator](../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/filecreator/) { get; set; } | Obtient ou définit le créateur de fichier au format PSD LnkE / Lnk2 ressource. |
-| [FileType](../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/filetype/) { get; set; } | Obtient ou définit le type de fichier intégré ou externe que la ressource Adobe® Photoshop® Lnk2 / LnkE contient ou relie. |
-| [HasFileOpenDescriptor](../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/hasfileopendescriptor/) { get; set; } | Obtient ou définit une valeur indiquant si cette source de données de lien a le descripteur de fichier ouvert : CompId et OriginalCompId. |
-| [IsLibraryLink](../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/islibrarylink/) { get; } | Obtient une valeur indiquant si cette source de données de lien PSD est liée à l'élément de la bibliothèque Adobe® Photoshop® СС. |
-| [Length](../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/length/) { get; } | Obtient la longueur de la source de données du lien en octets. |
-| [OriginalCompId](../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/originalcompid/) { get; } | Obtient l'ID d'origine de la composition actuellement sélectionnée pour le document enfant, qui sera -1 si aucune n'est sélectionnée. Cette propriété obtient l'identifiant de sélection de la couche d'origine pour les objets dynamiques. [Compositions de calques dans les objets dynamiques](https://helpx.adobe.com/photoshop/using/layer-comps.html) |
-| [OriginalFileName](../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/originalfilename/) { get; } | Obtient le nom de fichier d'origine de la source de données dans la ressource de lien global Adobe® Photoshop®. |
-| [Type](../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/type/) { get; } | Obtient le type de source de données de lien global Adobe® Photoshop® qui peut être l'un des suivants ou aucun : Le fichier lié intégré liFD qui correspond à PSD Lnk2Resource Le fichier lié externe liFE qui correspond à PSD LnkeResource L'alias de fichier lié liFA |
-| [UniqueId](../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/uniqueid/) { get; } | Obtient l'identifiant global unique de la source de données dans la ressource de lien PSD. |
+| [CompId](../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/compid/) { get; set; } | Obtient ou définit l'ID de la composition actuellement sélectionnée pour le document enfant, qui sera -1 si aucune n'est sélectionnée. Les compositions (comps) sont des agencements d'une mise en page que les concepteurs peuvent créer. En utilisant les compositions de calques, vous pouvez créer, gérer et visualiser plusieurs versions d'une mise en page dans un seul fichier Adobe® Photoshop®. Une composition de calque est un instantané d'un état du panneau Calques. Les compositions de calques enregistrent trois types d'options de calque mais cette propriété obtient l'identifiant de sélection de la composition de calque pour les objets dynamiques. [Layer comps in Smart Objects](https://helpx.adobe.com/photoshop/using/layer-comps.html) |
+| [Data](../../aspose.psd.fileformats.psd.layers.layerresources/lifddatasource/data/) { get; set; } | Obtient ou définit les données d'objet intelligent intégré dans le fichier PSD. |
+| [FileCreator](../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/filecreator/) { get; set; } | Obtient ou définit le créateur du fichier dans la ressource au format PSD LnkE / Lnk2. |
+| [FileType](../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/filetype/) { get; set; } | Obtient ou définit le type du fichier intégré ou externe que la ressource Adobe® Photoshop® Lnk2 / LnkE contient ou lie. |
+| [HasFileOpenDescriptor](../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/hasfileopendescriptor/) { get; set; } | Obtient ou définit une valeur indiquant si cette source de données de lien possède le descripteur de fichier ouvert : CompId et OriginalCompId. |
+| [IsLibraryLink](../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/islibrarylink/) { get; } | Obtient une valeur indiquant si cette source de données de lien PSD se lie à l'élément Adobe® Photoshop® СС Library. |
+| [Length](../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/length/) { get; } | Obtient la longueur de la source de données de lien en octets. |
+| [OriginalCompId](../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/originalcompid/) { get; } | Obtient l'ID original de la composition actuellement sélectionnée pour le document enfant, qui sera -1 si aucune n'est sélectionnée. Cette propriété obtient l'identifiant de sélection de la composition de calque originale pour les objets dynamiques. [Layer comps in Smart Objects](https://helpx.adobe.com/photoshop/using/layer-comps.html) |
+| [OriginalFileName](../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/originalfilename/) { get; } | Obtient le nom de fichier original de la source de données dans la ressource de lien global Adobe® Photoshop®. |
+| [Type](../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/type/) { get; } | Obtient le type de source de données de lien global Adobe® Photoshop® qui peut être l'un des suivants ou aucun : le fichier lié intégré liFD qui correspond à la ressource PSD Lnk2Resource, le fichier lié externe liFE qui correspond à la ressource PSD LnkeResource, l'alias de fichier lié liFA. |
+| [UniqueId](../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/uniqueid/) { get; } | Obtient l'identifiant unique global de la source de données dans la ressource de lien PSD. |
 | [Version](../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/version/) { get; } | Obtient la version de la source de données dans la ressource PSD LnkE / Lnk2. |
 
-### Voir également
+### Voir aussi
 
 * class [LinkDataSource](../linkdatasource/)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
-* Assemblée [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../)
 
 

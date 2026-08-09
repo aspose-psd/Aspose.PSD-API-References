@@ -1,28 +1,29 @@
 ---
-title: OSTypeStructure.OSTypeStructure
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: OSTypeStructure constructeur. Initialise une nouvelle instance duOSTypeStructure classe.
+title: "OSTypeStructure.OSTypeStructure"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Constructeur OSTypeStructure. Initialise une nouvelle instance de la classe OSTypeStructure"
 type: docs
 weight: 10
 url: /fr/net/aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/ostypestructure/
 ---
+{{< psd/tize >}}
 ## OSTypeStructure constructor
 
-Initialise une nouvelle instance du[`OSTypeStructure`](../) classe.
+Initialise une nouvelle instance de la classe [`OSTypeStructure`](../).
 
 ```csharp
 public OSTypeStructure(ClassID keyName)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
 | keyName | ClassID | Le nom de la clé. |
 
-### Voir également
+### Voir aussi
 
 * class [ClassID](../../classid/)
 * class [OSTypeStructure](../)
-* espace de noms [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../ostypestructure/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

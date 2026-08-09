@@ -1,16 +1,17 @@
 ---
-title: Aspose.PSD.Xmp.Schemas.Pdf
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: Lespace de noms contient des classes dassistance des constantes et des méthodes associées utilisées avec les documents Adobe PDF.
+title: "Aspose.PSD.Xmp.Schemas.Pdf"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "L'espace de noms contient les classes d'assistance, constantes et méthodes liées utilisées avec les documents Adobe PDF"
 type: docs
-weight: 540
+weight: 580
 url: /fr/net/aspose.psd.xmp.schemas.pdf/
 ---
-L'espace de noms contient des classes d'assistance, des constantes et des méthodes associées utilisées avec les documents Adobe PDF.
+{{< psd/tize >}}
+L'espace de noms contient des classes, constantes et méthodes d'assistance liées utilisées avec les documents Adobe PDF.
 
-## Des classes
+## Classes
 
-| Classer | La description |
+| Classe | Description |
 | --- | --- |
 | [PdfPackage](./pdfpackage/) | Représente l'espace de noms Adobe Pdf. |
 

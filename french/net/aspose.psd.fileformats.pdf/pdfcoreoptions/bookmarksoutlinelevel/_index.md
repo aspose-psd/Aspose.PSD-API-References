@@ -1,23 +1,24 @@
 ---
-title: PdfCoreOptions.BookmarksOutlineLevel
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: PdfCoreOptions propriété. Spécifie à quel niveau dans le plan du document afficher les objets de signet. 0  non affiché. 1 au premier niveau et ainsi de suite. La valeur par défaut est 0.
+title: "PdfCoreOptions.BookmarksOutlineLevel"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Propriété PdfCoreOptions. Spécifie à quel niveau dans le plan du document afficher les objets de signet. 0 non affiché. 1 au premier niveau, etc. La valeur par défaut est 0"
 type: docs
 weight: 20
 url: /fr/net/aspose.psd.fileformats.pdf/pdfcoreoptions/bookmarksoutlinelevel/
 ---
+{{< psd/tize >}}
 ## PdfCoreOptions.BookmarksOutlineLevel property
 
-Spécifie à quel niveau dans le plan du document afficher les objets de signet. 0 - non affiché. 1 au premier niveau et ainsi de suite. La valeur par défaut est 0.
+Spécifie à quel niveau dans le plan du document afficher les objets signet. 0 - non affiché. 1 au premier niveau, etc. La valeur par défaut est 0.
 
 ```csharp
 public int BookmarksOutlineLevel { get; set; }
 ```
 
-### Voir également
+### Voir aussi
 
 * class [PdfCoreOptions](../)
-* espace de noms [Aspose.PSD.FileFormats.Pdf](../../pdfcoreoptions/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Pdf](../../../aspose.psd.fileformats.pdf/)
+* assembly [Aspose.PSD](../../../)
 
 

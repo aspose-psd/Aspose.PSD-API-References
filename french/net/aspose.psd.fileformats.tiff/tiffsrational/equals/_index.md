@@ -1,31 +1,32 @@
 ---
-title: TiffSRational.Equals
-second_title: Référence de l'API Aspose.PSD pour .NET
-description: TiffSRational méthode. Détermine si la valeur spécifiéeObject est égal à cette instance.
+title: "TiffSRational.Equals"
+second_title: "Aspose.PSD pour .NET Référence de l'API"
+description: "Méthode TiffSRational. Détermine si l'Object spécifié est égal à cette instance"
 type: docs
 weight: 70
 url: /fr/net/aspose.psd.fileformats.tiff/tiffsrational/equals/
 ---
+{{< psd/tize >}}
 ## TiffSRational.Equals method
 
-Détermine si la valeur spécifiéeObject est égal à cette instance.
+Détermine si l'Objet spécifié est égal à cette instance.
 
 ```csharp
 public override bool Equals(object obj)
 ```
 
-| Paramètre | Taper | La description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
-| obj | Object | LeObject à comparer avec cet exemple. |
+| obj | Object | L'Object à comparer avec cette instance. |
 
-### Return_Value
+### Valeur de retour
 
-`vrai` si le spécifiéObject est égal à cette instance ; sinon,`FAUX` .
+`true` si l'Object spécifié est égal à cette instance ; sinon, `false`.
 
-### Voir également
+### Voir aussi
 
 * class [TiffSRational](../)
-* espace de noms [Aspose.PSD.FileFormats.Tiff](../../tiffsrational/)
-* Assemblée [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff](../../../aspose.psd.fileformats.tiff/)
+* assembly [Aspose.PSD](../../../)
 
 
