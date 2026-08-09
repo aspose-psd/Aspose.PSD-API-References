@@ -1,27 +1,28 @@
 ---
-title: CmykMixerChannel.Cyan
-second_title: Aspose.PSD für .NET-API-Referenz
-description: CmykMixerChannel eigendom. Ruft Cyan ab oder legt es fest.
+title: "CmykMixerChannel.Cyan"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "CmykMixerChannel Eigenschaft. Liest oder setzt das Cyan"
 type: docs
 weight: 30
 url: /de/net/aspose.psd.fileformats.psd.layers.adjustmentlayers/cmykmixerchannel/cyan/
 ---
+{{< psd/tize >}}
 ## CmykMixerChannel.Cyan property
 
-Ruft Cyan ab oder legt es fest.
+Liest oder setzt das Cyan.
 
 ```csharp
 public short Cyan { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
 Das Cyan.
 
 ### Siehe auch
 
 * class [CmykMixerChannel](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../cmykmixerchannel/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/)
+* assembly [Aspose.PSD](../../../)
 
 

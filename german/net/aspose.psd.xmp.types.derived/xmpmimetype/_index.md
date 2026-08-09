@@ -1,45 +1,46 @@
 ---
-title: Class XmpMimeType
-second_title: Aspose.PSD für .NET-API-Referenz
-description: Aspose.PSD.Xmp.Types.Derived.XmpMimeType klas. steht für den MIMETyp.
+title: "Klasse XmpMimeType"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "Aspose.PSD.Xmp.Types.Derived.XmpMimeType Klasse. Stellt MIME-Typ dar"
 type: docs
-weight: 6180
+weight: 6680
 url: /de/net/aspose.psd.xmp.types.derived/xmpmimetype/
 ---
+{{< psd/tize >}}
 ## XmpMimeType class
 
-steht für den MIME-Typ.
+Stellt den MIME-Typ dar.
 
 ```csharp
 public sealed class XmpMimeType : XmpText
 ```
 
-## Konstrukteure
+## Konstruktoren
 
 | Name | Beschreibung |
 | --- | --- |
-| [XmpMimeType](xmpmimetype/)(string) | Initialisiert eine neue Instanz von`XmpMimeType` Klasse. |
+| [XmpMimeType](xmpmimetype/)(string) | Initialisiert eine neue Instanz der `XmpMimeType` Klasse. |
 
 ## Eigenschaften
 
 | Name | Beschreibung |
 | --- | --- |
-| [Value](../../aspose.psd.xmp.types.basic/xmptext/value/) { get; set; } | Ruft den Textwert ab oder legt ihn fest. |
+| [Value](../../aspose.psd.xmp.types.basic/xmptext/value/) { get; set; } | Liest oder setzt den Textwert. |
 
 ## Methoden
 
 | Name | Beschreibung |
 | --- | --- |
-| override [GetXmpRepresentation](../../aspose.psd.xmp.types.basic/xmptext/getxmprepresentation/)() | Ruft den in der Zeichenfolge enthaltenen Wert im XMP-Format ab. |
+| override [GetXmpRepresentation](../../aspose.psd.xmp.types.basic/xmptext/getxmprepresentation/)() | Liest den enthaltenen Zeichenfolgenwert im XMP-Format. |
 
-### Bemerkungen
+## Hinweise
 
 MIME-Typ definiert in IETF RFC 2046.
 
 ### Siehe auch
 
 * class [XmpText](../../aspose.psd.xmp.types.basic/xmptext/)
-* namensraum [Aspose.PSD.Xmp.Types.Derived](../../aspose.psd.xmp.types.derived/)
-* Montage [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Xmp.Types.Derived](../../aspose.psd.xmp.types.derived/)
+* assembly [Aspose.PSD](../../)
 
 

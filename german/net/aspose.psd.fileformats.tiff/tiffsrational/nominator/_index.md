@@ -1,27 +1,28 @@
 ---
-title: TiffSRational.Nominator
-second_title: Aspose.PSD für .NET-API-Referenz
-description: TiffSRational eigendom. Ruft den Nenner ab.
+title: "TiffSRational.Nominator"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "TiffSRational-Eigenschaft. Gibt den Nominator zurück."
 type: docs
 weight: 40
 url: /de/net/aspose.psd.fileformats.tiff/tiffsrational/nominator/
 ---
+{{< psd/tize >}}
 ## TiffSRational.Nominator property
 
-Ruft den Nenner ab.
+Liest den Zähler.
 
 ```csharp
 public int Nominator { get; }
 ```
 
-### Eigentumswert
+### Property Value
 
-Der Nominator.
+Der Zähler.
 
 ### Siehe auch
 
 * class [TiffSRational](../)
-* namensraum [Aspose.PSD.FileFormats.Tiff](../../tiffsrational/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff](../../../aspose.psd.fileformats.tiff/)
+* assembly [Aspose.PSD](../../../)
 
 

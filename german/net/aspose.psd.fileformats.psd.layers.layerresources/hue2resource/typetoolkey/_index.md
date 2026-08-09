@@ -1,14 +1,15 @@
 ---
-title: Hue2Resource.TypeToolKey
-second_title: Aspose.PSD für .NET-API-Referenz
-description: Hue2Resource veld. Der TypToolInfoSchlüssel.
+title: "Hue2Resource.TypeToolKey"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "Hue2Resource-Feld. Der Typwerkzeug-Info-Schlüssel"
 type: docs
-weight: 120
+weight: 100
 url: /de/net/aspose.psd.fileformats.psd.layers.layerresources/hue2resource/typetoolkey/
 ---
+{{< psd/tize >}}
 ## Hue2Resource.TypeToolKey field
 
-Der Typ-Tool-Info-Schlüssel.
+Der Typwerkzeug-Info-Schlüssel.
 
 ```csharp
 public const int TypeToolKey;
@@ -17,7 +18,7 @@ public const int TypeToolKey;
 ### Siehe auch
 
 * class [Hue2Resource](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../hue2resource/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: Enum PositioningTypes
-second_title: Aspose.PSD für .NET-API-Referenz
-description: Aspose.PSD.ImageOptions.PositioningTypes opsomming. Positionierungs und Größentypen für Grafikszene.
+title: "Enum PositioningTypes"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "Aspose.PSD.ImageOptions.PositioningTypes Enum. Positionierungs- und Größentypen für die Grafikszene"
 type: docs
-weight: 4890
+weight: 5380
 url: /de/net/aspose.psd.imageoptions/positioningtypes/
 ---
+{{< psd/tize >}}
 ## PositioningTypes enumeration
 
-Positionierungs- und Größentypen für Grafikszene.
+Positionierungs- und Größentypen für die Grafikszene.
 
 ```csharp
 public enum PositioningTypes
@@ -18,13 +19,13 @@ public enum PositioningTypes
 
 | Name | Wert | Beschreibung |
 | --- | --- | --- |
-| DefinedByDocument | `0` | Die absolute Positionierung auf der Seite, die durch die Dokumentseiteneinstellungen definiert wird. |
-| DefinedByOptions | `1` | Die absolute Positionierung auf der Seite, die durch die Einstellungen der Optionsseite definiert wird. |
-| Relative | `2` | Die relative Positionierung und Größe. Bestimmt durch die Grenze aller Grafikobjekte. |
+| DefinedByDocument | `0` | Die absolute Positionierung auf der Seite, die durch die Dokumentseiteneinstellungen definiert ist. |
+| DefinedByOptions | `1` | Die absolute Positionierung auf der Seite, die durch die Optionsseiteneinstellungen definiert ist. |
+| Relative | `2` | Die relative Positionierung und Größe. Bestimmt durch die Begrenzung aller Grafikobjekte. |
 
 ### Siehe auch
 
-* namensraum [Aspose.PSD.ImageOptions](../../aspose.psd.imageoptions/)
-* Montage [Aspose.PSD](../../)
+* namespace [Aspose.PSD.ImageOptions](../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../)
 
 

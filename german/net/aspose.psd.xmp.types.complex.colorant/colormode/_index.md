@@ -1,14 +1,15 @@
 ---
-title: Enum ColorMode
-second_title: Aspose.PSD für .NET-API-Referenz
-description: Aspose.PSD.Xmp.Types.Complex.Colorant.ColorMode opsomming. Repräsentiert den Farbmodus.
+title: "Enum ColorMode"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "Aspose.PSD.Xmp.Types.Complex.Colorant.ColorMode enum. Stellt den Farbmodus dar"
 type: docs
-weight: 5990
+weight: 6490
 url: /de/net/aspose.psd.xmp.types.complex.colorant/colormode/
 ---
+{{< psd/tize >}}
 ## ColorMode enumeration
 
-Repräsentiert den Farbmodus.
+Stellt den Farbmodus dar.
 
 ```csharp
 public enum ColorMode
@@ -24,7 +25,7 @@ public enum ColorMode
 
 ### Siehe auch
 
-* namensraum [Aspose.PSD.Xmp.Types.Complex.Colorant](../../aspose.psd.xmp.types.complex.colorant/)
-* Montage [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.Colorant](../../aspose.psd.xmp.types.complex.colorant/)
+* assembly [Aspose.PSD](../../)
 
 

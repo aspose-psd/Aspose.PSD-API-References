@@ -1,14 +1,15 @@
 ---
-title: IColorPalette.Entries
-second_title: Aspose.PSD für .NET-API-Referenz
-description: IColorPalette eigendom. Ruft ein Array von abColor Strukturen.
+title: "IColorPalette.Entries"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "IColorPalette-Eigenschaft. Gibt ein Array von Color-Strukturen zurück"
 type: docs
 weight: 20
 url: /de/net/aspose.psd/icolorpalette/entries/
 ---
+{{< psd/tize >}}
 ## IColorPalette.Entries property
 
-Ruft ein Array von ab[`Color`](../../color/) Strukturen.
+Gibt ein Array von [`Color`](../../color/)‑Strukturen zurück.
 
 ```csharp
 public Color[] Entries { get; }
@@ -16,9 +17,9 @@ public Color[] Entries { get; }
 
 ### Rückgabewert
 
-Das Array von[`Color`](../../color/) Struktur, die dies ausmachen[`ColorPalette`](../../colorpalette/) .
+Das Array der [`Color`](../../color/) Struktur, das diese [`ColorPalette`](../../colorpalette/) bildet.
 
-### Eigentumswert
+### Property Value
 
 Die Einträge.
 
@@ -26,7 +27,7 @@ Die Einträge.
 
 * struct [Color](../../color/)
 * interface [IColorPalette](../)
-* namensraum [Aspose.PSD](../../icolorpalette/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

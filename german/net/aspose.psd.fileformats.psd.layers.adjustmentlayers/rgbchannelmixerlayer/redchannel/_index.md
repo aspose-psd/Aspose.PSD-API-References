@@ -1,28 +1,29 @@
 ---
-title: RgbChannelMixerLayer.RedChannel
-second_title: Aspose.PSD für .NET-API-Referenz
-description: RgbChannelMixerLayer eigendom. Ruft den roten Kanal ab.
+title: "RgbChannelMixerLayer.RedChannel"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "RgbChannelMixerLayer-Eigenschaft. Gibt den Rotkanal zurück"
 type: docs
 weight: 30
 url: /de/net/aspose.psd.fileformats.psd.layers.adjustmentlayers/rgbchannelmixerlayer/redchannel/
 ---
+{{< psd/tize >}}
 ## RgbChannelMixerLayer.RedChannel property
 
-Ruft den roten Kanal ab.
+Liest den roten Kanal.
 
 ```csharp
 public RgbMixerChannel RedChannel { get; }
 ```
 
-### Eigentumswert
+### Property Value
 
-Der rote Kanal.
+Der Rotkanal.
 
 ### Siehe auch
 
 * class [RgbMixerChannel](../../rgbmixerchannel/)
 * class [RgbChannelMixerLayer](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../rgbchannelmixerlayer/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/)
+* assembly [Aspose.PSD](../../../)
 
 

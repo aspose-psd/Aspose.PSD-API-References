@@ -1,27 +1,28 @@
 ---
-title: RawDataSettings.LineSize
-second_title: Aspose.PSD für .NET-API-Referenz
-description: RawDataSettings eigendom. Ermittelt oder setzt die Pixelzeilengröße in Bytes für die Rohdatenverarbeitung
+title: "RawDataSettings.LineSize"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "RawDataSettings Eigenschaft. Ruft die Zeilengröße der Pixel in Bytes für die Rohdatenverarbeitung ab oder legt sie fest"
 type: docs
 weight: 70
 url: /de/net/aspose.psd/rawdatasettings/linesize/
 ---
+{{< psd/tize >}}
 ## RawDataSettings.LineSize property
 
-Ermittelt oder setzt die Pixelzeilengröße in Bytes für die Rohdatenverarbeitung
+Liest oder setzt die Zeilengröße der Pixel in Bytes für die Verarbeitung von Rohdaten
 
 ```csharp
 public int LineSize { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
-Die Pixelzeilengröße in Bytes für die Rohdatenverarbeitung
+Die Zeilengröße der Pixel in Bytes für die Rohdatenverarbeitung
 
 ### Siehe auch
 
 * class [RawDataSettings](../)
-* namensraum [Aspose.PSD](../../rawdatasettings/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

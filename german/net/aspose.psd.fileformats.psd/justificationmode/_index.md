@@ -1,11 +1,12 @@
 ---
-title: Enum JustificationMode
-second_title: Aspose.PSD für .NET-API-Referenz
-description: Aspose.PSD.FileFormats.Psd.JustificationMode opsomming. Der Textausrichtungsmodus.
+title: "Enum JustificationMode"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "Aspose.PSD.FileFormats.Psd.JustificationMode enum. Der Textausrichtungsmodus"
 type: docs
-weight: 1650
+weight: 1690
 url: /de/net/aspose.psd.fileformats.psd/justificationmode/
 ---
+{{< psd/tize >}}
 ## JustificationMode enumeration
 
 Der Textausrichtungsmodus.
@@ -18,13 +19,13 @@ public enum JustificationMode
 
 | Name | Wert | Beschreibung |
 | --- | --- | --- |
-| Left | `0` | Der linksbündige Text. |
-| Right | `1` | Der rechtsbündige Text. |
-| Center | `2` | Der Text in der Mitte. |
+| Left | `0` | Der links ausgerichtete Text. In einem Links‑nach‑Rechts‑Modus ist die Left‑Position Left. In einem Rechts‑nach‑Links‑Modus ist die Left‑Position Right. |
+| Right | `1` | Der rechts ausgerichtete Text. In einem Links‑nach‑Rechts‑Modus ist die Right‑Position Right. In einem Rechts‑nach‑Links‑Modus ist die Right‑Position Left. |
+| Center | `2` | Der zentrierte Text. |
 
-### Beispiele
+## Beispiele
 
-Der folgende Code demonstriert die Unterstützung der JustificationMode-Enumeration zum Festlegen der Textausrichtung für Textabschnitte.
+Der folgende Code demonstriert die Unterstützung des JustificationMode‑Enums, um die Textausrichtung für Textabschnitte festzulegen.
 
 ```csharp
 [C#]
@@ -57,7 +58,7 @@ using (var image = (PsdImage) Image.Load(src))
 
 ### Siehe auch
 
-* namensraum [Aspose.PSD.FileFormats.Psd](../../aspose.psd.fileformats.psd/)
-* Montage [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../)
 
 

@@ -1,28 +1,29 @@
 ---
-title: Lr16Resource.Layers
-second_title: Aspose.PSD für .NET-API-Referenz
-description: Lr16Resource eigendom. Ruft die Ebenen ab oder legt sie fest.
+title: "Lr16Resource.Layers"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "Lr16Resource-Eigenschaft. Ruft die Ebenen ab oder legt sie fest"
 type: docs
 weight: 30
 url: /de/net/aspose.psd.fileformats.psd.layers.layerresources/lr16resource/layers/
 ---
+{{< psd/tize >}}
 ## Lr16Resource.Layers property
 
-Ruft die Ebenen ab oder legt sie fest.
+Liest oder setzt die Ebenen.
 
 ```csharp
 public Layer[] Layers { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
-Die Schichten.
+Die Layer.
 
 ### Siehe auch
 
 * class [Layer](../../../aspose.psd.fileformats.psd.layers/layer/)
 * class [Lr16Resource](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../lr16resource/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../lr16resource/)
+* assembly [Aspose.PSD](../../../)
 
 

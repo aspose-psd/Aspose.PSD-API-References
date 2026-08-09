@@ -1,27 +1,28 @@
 ---
-title: Layer.ExtraLength
-second_title: Aspose.PSD für .NET-API-Referenz
-description: Layer eigendom. Ruft die SchichtZusatzinformationslänge in Bytes ab.
+title: "Layer.ExtraLength"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "Layer-Eigenschaft. Gibt die Länge der zusätzlichen Ebeneninformationen in Bytes zurück"
 type: docs
-weight: 110
+weight: 120
 url: /de/net/aspose.psd.fileformats.psd.layers/layer/extralength/
 ---
+{{< psd/tize >}}
 ## Layer.ExtraLength property
 
-Ruft die Schicht-Zusatzinformationslänge in Bytes ab.
+Liefert die zusätzliche Informationslänge der Ebene in Bytes.
 
 ```csharp
 public int ExtraLength { get; }
 ```
 
-### Eigentumswert
+### Property Value
 
-Die zusätzliche Schichtlänge.
+Die zusätzliche Ebenenlänge.
 
 ### Siehe auch
 
 * class [Layer](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers](../../layer/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

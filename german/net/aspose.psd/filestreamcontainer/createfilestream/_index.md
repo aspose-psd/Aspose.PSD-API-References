@@ -1,11 +1,12 @@
 ---
-title: FileStreamContainer.CreateFileStream
-second_title: Aspose.PSD für .NET-API-Referenz
-description: FileStreamContainer methode. Erstellt einen neuen Dateistream.
+title: "FileStreamContainer.CreateFileStream"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "FileStreamContainer Methode. Erstellt einen neuen Dateistream."
 type: docs
 weight: 10
 url: /de/net/aspose.psd/filestreamcontainer/createfilestream/
 ---
+{{< psd/tize >}}
 ## FileStreamContainer.CreateFileStream method
 
 Erstellt einen neuen Dateistream.
@@ -16,17 +17,17 @@ public static FileStreamContainer CreateFileStream(string fileLocation, bool isT
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| fileLocation | String | Der Dateispeicherort. |
-| isTemporal | Boolean | Wenn eingestellt`WAHR` Der Dateistromcontainer ist zeitlich. |
+| fileLocation | String | Der Dateistandort. |
+| isTemporal | Boolean | Wenn auf `true` gesetzt, ist der Dateistream-Container temporär. |
 
 ### Rückgabewert
 
-Der Datei-Stream-Container.
+Der Dateistream-Container.
 
 ### Siehe auch
 
 * class [FileStreamContainer](../)
-* namensraum [Aspose.PSD](../../filestreamcontainer/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

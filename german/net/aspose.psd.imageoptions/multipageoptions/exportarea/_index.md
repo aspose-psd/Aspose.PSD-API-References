@@ -1,28 +1,29 @@
 ---
-title: MultiPageOptions.ExportArea
-second_title: Aspose.PSD für .NET-API-Referenz
-description: MultiPageOptions eigendom. Ruft den Exportbereich ab oder setzt ihn.
+title: "MultiPageOptions.ExportArea"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "MultiPageOptions-Eigenschaft. Ruft den Exportbereich ab oder legt ihn fest"
 type: docs
 weight: 20
 url: /de/net/aspose.psd.imageoptions/multipageoptions/exportarea/
 ---
+{{< psd/tize >}}
 ## MultiPageOptions.ExportArea property
 
-Ruft den Exportbereich ab oder setzt ihn.
+Liest oder setzt den Exportbereich.
 
 ```csharp
 public Rectangle ExportArea { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
-Das Exportgebiet.
+Der Exportbereich.
 
 ### Siehe auch
 
 * struct [Rectangle](../../../aspose.psd/rectangle/)
 * class [MultiPageOptions](../)
-* namensraum [Aspose.PSD.ImageOptions](../../multipageoptions/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

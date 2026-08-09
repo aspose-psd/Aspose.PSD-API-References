@@ -1,14 +1,15 @@
 ---
-title: TextureBrush.TextureBrush
-second_title: Aspose.PSD für .NET-API-Referenz
-description: TextureBrush constructeur. Initialisiert eine neue Instanz vonTextureBrush Klasse die das angegebene Bild verwendet.
+title: "TextureBrush.TextureBrush"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "TextureBrush‑Konstruktor. Initialisiert eine neue Instanz der TextureBrush‑Klasse, die das angegebene Bild verwendet."
 type: docs
 weight: 10
 url: /de/net/aspose.psd.brushes/texturebrush/texturebrush/
 ---
+{{< psd/tize >}}
 ## TextureBrush(Image) {#constructor}
 
-Initialisiert eine neue Instanz von[`TextureBrush`](../) Klasse, die das angegebene Bild verwendet.
+Initialisiert eine neue Instanz der [`TextureBrush`](../)‑Klasse, die das angegebene Bild verwendet.
 
 ```csharp
 public TextureBrush(Image image)
@@ -16,20 +17,20 @@ public TextureBrush(Image image)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| image | Image | Der[`Image`](../../../aspose.psd/image/) Objekt, mit dem dies[`TextureBrush`](../) Objekt füllt Innenräume. |
+| image | Image | Das [`Image`](../../../aspose.psd/image/)‑Objekt, mit dem dieses [`TextureBrush`](../)‑Objekt Innenflächen füllt. |
 
 ### Siehe auch
 
 * class [Image](../../../aspose.psd/image/)
 * class [TextureBrush](../)
-* namensraum [Aspose.PSD.Brushes](../../texturebrush/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## TextureBrush(Image, WrapMode) {#constructor_5}
 
-Initialisiert eine neue Instanz von[`TextureBrush`](../) Klasse, die das angegebene Bild und den Umbruchmodus verwendet.
+Initialisiert eine neue Instanz der [`TextureBrush`](../)‑Klasse, die das angegebene Bild und den Wrap‑Modus verwendet.
 
 ```csharp
 public TextureBrush(Image image, WrapMode wrapMode)
@@ -37,22 +38,22 @@ public TextureBrush(Image image, WrapMode wrapMode)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| image | Image | Der[`Image`](../../../aspose.psd/image/) Objekt, mit dem dies[`TextureBrush`](../) Objekt füllt Innenräume. |
-| wrapMode | WrapMode | A[`WrapMode`](../../../aspose.psd/wrapmode/) Enumeration, die angibt, wie dies[`TextureBrush`](../) Objekt ist gefliest. |
+| image | Image | Das [`Image`](../../../aspose.psd/image/)‑Objekt, mit dem dieses [`TextureBrush`](../)‑Objekt Innenflächen füllt. |
+| wrapMode | WrapMode | Eine [`WrapMode`](../../../aspose.psd/wrapmode/)‑Aufzählung, die angibt, wie dieses [`TextureBrush`](../)‑Objekt gekachelt wird. |
 
 ### Siehe auch
 
 * class [Image](../../../aspose.psd/image/)
 * enum [WrapMode](../../../aspose.psd/wrapmode/)
 * class [TextureBrush](../)
-* namensraum [Aspose.PSD.Brushes](../../texturebrush/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## TextureBrush(Image, WrapMode, RectangleF) {#constructor_7}
 
-Initialisiert eine neue Instanz von[`TextureBrush`](../)Klasse, die das angegebene Bild, den Umbruchmodus und das Begrenzungsrechteck verwendet.
+Initialisiert eine neue Instanz der [`TextureBrush`](../)‑Klasse, die das angegebene Bild, den Wrap‑Modus und das Begrenzungsrechteck verwendet.
 
 ```csharp
 public TextureBrush(Image image, WrapMode wrapMode, RectangleF destinationRectangle)
@@ -60,9 +61,9 @@ public TextureBrush(Image image, WrapMode wrapMode, RectangleF destinationRectan
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| image | Image | Der[`Image`](../../../aspose.psd/image/) Objekt, mit dem dies[`TextureBrush`](../) Objekt füllt Innenräume. |
-| wrapMode | WrapMode | A[`WrapMode`](../../../aspose.psd/wrapmode/) Enumeration, die angibt, wie dies[`TextureBrush`](../) Objekt ist gefliest. |
-| destinationRectangle | RectangleF | A[`RectangleF`](../../../aspose.psd/rectanglef/) Struktur, die das Begrenzungsrechteck dafür darstellt[`TextureBrush`](../) Objekt. |
+| image | Image | Das [`Image`](../../../aspose.psd/image/)‑Objekt, mit dem dieses [`TextureBrush`](../)‑Objekt Innenflächen füllt. |
+| wrapMode | WrapMode | Eine [`WrapMode`](../../../aspose.psd/wrapmode/)‑Aufzählung, die angibt, wie dieses [`TextureBrush`](../)‑Objekt gekachelt wird. |
+| destinationRectangle | RectangleF | Eine [`RectangleF`](../../../aspose.psd/rectanglef/)‑Struktur, die das Begrenzungsrechteck für dieses [`TextureBrush`](../)‑Objekt darstellt. |
 
 ### Siehe auch
 
@@ -70,14 +71,14 @@ public TextureBrush(Image image, WrapMode wrapMode, RectangleF destinationRectan
 * enum [WrapMode](../../../aspose.psd/wrapmode/)
 * struct [RectangleF](../../../aspose.psd/rectanglef/)
 * class [TextureBrush](../)
-* namensraum [Aspose.PSD.Brushes](../../texturebrush/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## TextureBrush(Image, WrapMode, Rectangle) {#constructor_6}
 
-Initialisiert eine neue Instanz von[`TextureBrush`](../)Klasse, die das angegebene Bild, den Umbruchmodus und das Begrenzungsrechteck verwendet.
+Initialisiert eine neue Instanz der [`TextureBrush`](../)‑Klasse, die das angegebene Bild, den Wrap‑Modus und das Begrenzungsrechteck verwendet.
 
 ```csharp
 public TextureBrush(Image image, WrapMode wrapMode, Rectangle destinationRectangle)
@@ -85,9 +86,9 @@ public TextureBrush(Image image, WrapMode wrapMode, Rectangle destinationRectang
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| image | Image | Der[`Image`](../../../aspose.psd/image/) Objekt, mit dem dies[`TextureBrush`](../) Objekt füllt Innenräume. |
-| wrapMode | WrapMode | A[`WrapMode`](../../../aspose.psd/wrapmode/) Enumeration, die angibt, wie dies[`TextureBrush`](../) Objekt ist gefliest. |
-| destinationRectangle | Rectangle | A[`Rectangle`](../../../aspose.psd/rectangle/) Struktur, die das Begrenzungsrechteck dafür darstellt[`TextureBrush`](../) Objekt. |
+| image | Image | Das [`Image`](../../../aspose.psd/image/)‑Objekt, mit dem dieses [`TextureBrush`](../)‑Objekt Innenflächen füllt. |
+| wrapMode | WrapMode | Eine [`WrapMode`](../../../aspose.psd/wrapmode/)‑Aufzählung, die angibt, wie dieses [`TextureBrush`](../)‑Objekt gekachelt wird. |
+| destinationRectangle | Rectangle | Eine [`Rectangle`](../../../aspose.psd/rectangle/)‑Struktur, die das Begrenzungsrechteck für dieses [`TextureBrush`](../)‑Objekt darstellt. |
 
 ### Siehe auch
 
@@ -95,14 +96,14 @@ public TextureBrush(Image image, WrapMode wrapMode, Rectangle destinationRectang
 * enum [WrapMode](../../../aspose.psd/wrapmode/)
 * struct [Rectangle](../../../aspose.psd/rectangle/)
 * class [TextureBrush](../)
-* namensraum [Aspose.PSD.Brushes](../../texturebrush/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## TextureBrush(Image, RectangleF) {#constructor_3}
 
-Initialisiert eine neue Instanz von[`TextureBrush`](../) Klasse, die das angegebene Bild und das Begrenzungsrechteck verwendet.
+Initialisiert eine neue Instanz der [`TextureBrush`](../)‑Klasse, die das angegebene Bild und das Begrenzungsrechteck verwendet.
 
 ```csharp
 public TextureBrush(Image image, RectangleF destinationRectangle)
@@ -110,22 +111,22 @@ public TextureBrush(Image image, RectangleF destinationRectangle)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| image | Image | Der[`Image`](../../../aspose.psd/image/) Objekt, mit dem dies[`TextureBrush`](../) Objekt füllt Innenräume. |
-| destinationRectangle | RectangleF | A[`RectangleF`](../../../aspose.psd/rectanglef/) Struktur, die das Begrenzungsrechteck dafür darstellt[`TextureBrush`](../) Objekt. |
+| image | Image | Das [`Image`](../../../aspose.psd/image/)‑Objekt, mit dem dieses [`TextureBrush`](../)‑Objekt Innenflächen füllt. |
+| destinationRectangle | RectangleF | Eine [`RectangleF`](../../../aspose.psd/rectanglef/)‑Struktur, die das Begrenzungsrechteck für dieses [`TextureBrush`](../)‑Objekt darstellt. |
 
 ### Siehe auch
 
 * class [Image](../../../aspose.psd/image/)
 * struct [RectangleF](../../../aspose.psd/rectanglef/)
 * class [TextureBrush](../)
-* namensraum [Aspose.PSD.Brushes](../../texturebrush/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## TextureBrush(Image, RectangleF, ImageAttributes) {#constructor_4}
 
-Initialisiert eine neue Instanz von[`TextureBrush`](../) Klasse, die das angegebene Bild, das Begrenzungsrechteck und die Bildattribute verwendet.
+Initialisiert eine neue Instanz der [`TextureBrush`](../)‑Klasse, die das angegebene Bild, das Begrenzungsrechteck und die ImageAttributes verwendet.
 
 ```csharp
 public TextureBrush(Image image, RectangleF destinationRectangle, ImageAttributes imageAttributes)
@@ -133,9 +134,9 @@ public TextureBrush(Image image, RectangleF destinationRectangle, ImageAttribute
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| image | Image | Der[`Image`](../../../aspose.psd/image/) Objekt, mit dem dies[`TextureBrush`](../) Objekt füllt Innenräume. |
-| destinationRectangle | RectangleF | A[`RectangleF`](../../../aspose.psd/rectanglef/) Struktur, die das Begrenzungsrechteck dafür darstellt[`TextureBrush`](../) Objekt. |
-| imageAttributes | ImageAttributes | Ein[`ImageAttributes`](../../../aspose.psd/imageattributes/) Objekt, das zusätzliche Informationen über das von diesem verwendete Bild enthält[`TextureBrush`](../) Objekt. |
+| image | Image | Das [`Image`](../../../aspose.psd/image/)‑Objekt, mit dem dieses [`TextureBrush`](../)‑Objekt Innenflächen füllt. |
+| destinationRectangle | RectangleF | Eine [`RectangleF`](../../../aspose.psd/rectanglef/)‑Struktur, die das Begrenzungsrechteck für dieses [`TextureBrush`](../)‑Objekt darstellt. |
+| imageAttributes | ImageAttributes | Ein [`ImageAttributes`](../../../aspose.psd/imageattributes/)‑Objekt, das zusätzliche Informationen über das von diesem [`TextureBrush`](../)‑Objekt verwendete Bild enthält. |
 
 ### Siehe auch
 
@@ -143,14 +144,14 @@ public TextureBrush(Image image, RectangleF destinationRectangle, ImageAttribute
 * struct [RectangleF](../../../aspose.psd/rectanglef/)
 * class [ImageAttributes](../../../aspose.psd/imageattributes/)
 * class [TextureBrush](../)
-* namensraum [Aspose.PSD.Brushes](../../texturebrush/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## TextureBrush(Image, Rectangle) {#constructor_1}
 
-Initialisiert eine neue Instanz von[`TextureBrush`](../) Klasse, die das angegebene Bild und das Begrenzungsrechteck verwendet.
+Initialisiert eine neue Instanz der [`TextureBrush`](../)‑Klasse, die das angegebene Bild und das Begrenzungsrechteck verwendet.
 
 ```csharp
 public TextureBrush(Image image, Rectangle destinationRectangle)
@@ -158,22 +159,22 @@ public TextureBrush(Image image, Rectangle destinationRectangle)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| image | Image | Der[`Image`](../../../aspose.psd/image/) Objekt, mit dem dies[`TextureBrush`](../) Objekt füllt Innenräume. |
-| destinationRectangle | Rectangle | A[`Rectangle`](../../../aspose.psd/rectangle/) Struktur, die das Begrenzungsrechteck dafür darstellt[`TextureBrush`](../) Objekt. |
+| image | Image | Das [`Image`](../../../aspose.psd/image/)‑Objekt, mit dem dieses [`TextureBrush`](../)‑Objekt Innenflächen füllt. |
+| destinationRectangle | Rectangle | Eine [`Rectangle`](../../../aspose.psd/rectangle/)‑Struktur, die das Begrenzungsrechteck für dieses [`TextureBrush`](../)‑Objekt darstellt. |
 
 ### Siehe auch
 
 * class [Image](../../../aspose.psd/image/)
 * struct [Rectangle](../../../aspose.psd/rectangle/)
 * class [TextureBrush](../)
-* namensraum [Aspose.PSD.Brushes](../../texturebrush/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## TextureBrush(Image, Rectangle, ImageAttributes) {#constructor_2}
 
-Initialisiert eine neue Instanz von[`TextureBrush`](../) Klasse, die das angegebene Bild, das Begrenzungsrechteck und die Bildattribute verwendet.
+Initialisiert eine neue Instanz der [`TextureBrush`](../)‑Klasse, die das angegebene Bild, das Begrenzungsrechteck und die ImageAttributes verwendet.
 
 ```csharp
 public TextureBrush(Image image, Rectangle destinationRectangle, ImageAttributes imageAttributes)
@@ -181,9 +182,9 @@ public TextureBrush(Image image, Rectangle destinationRectangle, ImageAttributes
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| image | Image | Der[`Image`](../../../aspose.psd/image/) Objekt, mit dem dies[`TextureBrush`](../) Objekt füllt Innenräume. |
-| destinationRectangle | Rectangle | A[`Rectangle`](../../../aspose.psd/rectangle/) Struktur, die das Begrenzungsrechteck dafür darstellt[`TextureBrush`](../) Objekt. |
-| imageAttributes | ImageAttributes | Ein[`ImageAttributes`](../../../aspose.psd/imageattributes/) Objekt, das zusätzliche Informationen über das von diesem verwendete Bild enthält[`TextureBrush`](../) Objekt. |
+| image | Image | Das [`Image`](../../../aspose.psd/image/)‑Objekt, mit dem dieses [`TextureBrush`](../)‑Objekt Innenflächen füllt. |
+| destinationRectangle | Rectangle | Eine [`Rectangle`](../../../aspose.psd/rectangle/)‑Struktur, die das Begrenzungsrechteck für dieses [`TextureBrush`](../)‑Objekt darstellt. |
+| imageAttributes | ImageAttributes | Ein [`ImageAttributes`](../../../aspose.psd/imageattributes/)‑Objekt, das zusätzliche Informationen über das von diesem [`TextureBrush`](../)‑Objekt verwendete Bild enthält. |
 
 ### Siehe auch
 
@@ -191,7 +192,7 @@ public TextureBrush(Image image, Rectangle destinationRectangle, ImageAttributes
 * struct [Rectangle](../../../aspose.psd/rectangle/)
 * class [ImageAttributes](../../../aspose.psd/imageattributes/)
 * class [TextureBrush](../)
-* namensraum [Aspose.PSD.Brushes](../../texturebrush/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
+* assembly [Aspose.PSD](../../../)
 
 

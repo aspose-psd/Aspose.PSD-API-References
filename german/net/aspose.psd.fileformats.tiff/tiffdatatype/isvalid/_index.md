@@ -1,27 +1,28 @@
 ---
-title: TiffDataType.IsValid
-second_title: Aspose.PSD für .NET-API-Referenz
-description: TiffDataType eigendom. Ruft einen Wert ab der angibt ob TagDaten gültig sind. Das gültige Tag enthält Daten die bewahrt werden können. Das ungültige Tag kann nicht gespeichert werden.
+title: "TiffDataType.IsValid"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "TiffDataType-Eigenschaft. Gibt einen Wert zurück, der angibt, ob Tag-Daten gültig sind. Der gültige Tag enthält Daten, die erhalten bleiben können. Der ungültige Tag kann nicht gespeichert werden"
 type: docs
 weight: 60
 url: /de/net/aspose.psd.fileformats.tiff/tiffdatatype/isvalid/
 ---
+{{< psd/tize >}}
 ## TiffDataType.IsValid property
 
-Ruft einen Wert ab, der angibt, ob Tag-Daten gültig sind. Das gültige Tag enthält Daten, die bewahrt werden können. Das ungültige Tag kann nicht gespeichert werden.
+Gibt einen Wert zurück, der angibt, ob Tag-Daten gültig sind. Der gültige Tag enthält Daten, die erhalten werden können. Der ungültige Tag kann nicht gespeichert werden.
 
 ```csharp
 public bool IsValid { get; }
 ```
 
-### Eigentumswert
+### Property Value
 
-`WAHR` wenn Tag-Daten gültig sind; ansonsten,`FALSCH` .
+`true` wenn Tag-Daten gültig sind; andernfalls `false`.
 
 ### Siehe auch
 
 * class [TiffDataType](../)
-* namensraum [Aspose.PSD.FileFormats.Tiff](../../tiffdatatype/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff](../../../aspose.psd.fileformats.tiff/)
+* assembly [Aspose.PSD](../../../)
 
 

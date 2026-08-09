@@ -1,20 +1,21 @@
 ---
-title: HatchBrush.BackgroundColor
-second_title: Aspose.PSD für .NET-API-Referenz
-description: HatchBrush eigendom. Ruft die Farbe der Zwischenräume zwischen den Schraffurlinien ab oder legt sie fest.
+title: "HatchBrush.BackgroundColor"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "HatchBrush-Eigenschaft. Gibt die Farbe der Zwischenräume zwischen den Schraffurlinien zurück oder legt sie fest."
 type: docs
 weight: 20
 url: /de/net/aspose.psd.brushes/hatchbrush/backgroundcolor/
 ---
+{{< psd/tize >}}
 ## HatchBrush.BackgroundColor property
 
-Ruft die Farbe der Zwischenräume zwischen den Schraffurlinien ab oder legt sie fest.
+Ruft ab oder legt die Farbe der Zwischenräume zwischen den Schraffurlinien fest.
 
 ```csharp
 public Color BackgroundColor { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
 Die Farbe der Zwischenräume zwischen den Schraffurlinien.
 
@@ -22,7 +23,7 @@ Die Farbe der Zwischenräume zwischen den Schraffurlinien.
 
 * struct [Color](../../../aspose.psd/color/)
 * class [HatchBrush](../)
-* namensraum [Aspose.PSD.Brushes](../../hatchbrush/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,38 +1,39 @@
 ---
-title: Class TiffImageException
-second_title: Aspose.PSD für .NET-API-Referenz
-description: Aspose.PSD.CoreExceptions.ImageFormats.TiffImageException klas. Die TiffBildAusnahme
+title: "Klasse TiffImageException"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "Aspose.PSD.CoreExceptions.ImageFormats.TiffImageException Klasse. Die TIFF-Bildausnahme"
 type: docs
 weight: 610
 url: /de/net/aspose.psd.coreexceptions.imageformats/tiffimageexception/
 ---
+{{< psd/tize >}}
 ## TiffImageException class
 
-Die Tiff-Bild-Ausnahme
+Die TIFF-Bildausnahme
 
 ```csharp
 public class TiffImageException : ImageException
 ```
 
-## Konstrukteure
+## Konstruktoren
 
 | Name | Beschreibung |
 | --- | --- |
-| [TiffImageException](tiffimageexception/#constructor_1)(string) | Initialisiert eine neue Instanz von`TiffImageException` Klasse. |
-| [TiffImageException](tiffimageexception/#constructor)(TiffOptionsError) | Initialisiert eine neue Instanz von`TiffImageException` Klasse. |
-| [TiffImageException](tiffimageexception/#constructor_3)(string, Exception) | Initialisiert eine neue Instanz von`TiffImageException` Klasse. |
-| [TiffImageException](tiffimageexception/#constructor_2)(string, TiffOptionsError) | Initialisiert eine neue Instanz von`TiffImageException` Klasse. |
+| [TiffImageException](tiffimageexception/#constructor_1)(string) | Initialisiert eine neue Instanz der `TiffImageException`-Klasse. |
+| [TiffImageException](tiffimageexception/#constructor)(TiffOptionsError) | Initialisiert eine neue Instanz der `TiffImageException`-Klasse. |
+| [TiffImageException](tiffimageexception/#constructor_3)(string, Exception) | Initialisiert eine neue Instanz der `TiffImageException`-Klasse. |
+| [TiffImageException](tiffimageexception/#constructor_2)(string, TiffOptionsError) | Initialisiert eine neue Instanz der `TiffImageException`-Klasse. |
 
 ## Eigenschaften
 
 | Name | Beschreibung |
 | --- | --- |
-| [OptionsError](../../aspose.psd.coreexceptions.imageformats/tiffimageexception/optionserror/) { get; } | Ruft den TIFF-Optionsfehler ab. |
+| [OptionsError](../../aspose.psd.coreexceptions.imageformats/tiffimageexception/optionserror/) { get; } | Liest den TIFF-Optionen-Fehler. |
 
 ### Siehe auch
 
 * class [ImageException](../../aspose.psd.coreexceptions/imageexception/)
-* namensraum [Aspose.PSD.CoreExceptions.ImageFormats](../../aspose.psd.coreexceptions.imageformats/)
-* Montage [Aspose.PSD](../../)
+* namespace [Aspose.PSD.CoreExceptions.ImageFormats](../../aspose.psd.coreexceptions.imageformats/)
+* assembly [Aspose.PSD](../../)
 
 

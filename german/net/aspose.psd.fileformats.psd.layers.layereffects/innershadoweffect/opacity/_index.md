@@ -1,27 +1,28 @@
 ---
-title: InnerShadowEffect.Opacity
-second_title: Aspose.PSD für .NET-API-Referenz
-description: InnerShadowEffect eigendom. Ruft die Deckkraft ab oder legt sie fest.
+title: "InnerShadowEffect.Opacity"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "InnerShadowEffect Eigenschaft. Ruft die Deckkraft ab oder legt sie fest"
 type: docs
 weight: 80
 url: /de/net/aspose.psd.fileformats.psd.layers.layereffects/innershadoweffect/opacity/
 ---
+{{< psd/tize >}}
 ## InnerShadowEffect.Opacity property
 
-Ruft die Deckkraft ab oder legt sie fest.
+Liest oder setzt die Deckkraft.
 
 ```csharp
 public byte Opacity { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
 Die Deckkraft.
 
 ### Siehe auch
 
 * class [InnerShadowEffect](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../innershadoweffect/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../../)
 
 

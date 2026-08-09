@@ -1,14 +1,15 @@
 ---
-title: Hue2Resource.Length
-second_title: Aspose.PSD für .NET-API-Referenz
-description: Hue2Resource eigendom. Ruft die LayerRessourcenlänge in Byte ab.
+title: "Hue2Resource.Length"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "Hue2Resource-Eigenschaft. Gibt die Länge der Layer-Ressource in Bytes zurück"
 type: docs
-weight: 50
+weight: 40
 url: /de/net/aspose.psd.fileformats.psd.layers.layerresources/hue2resource/length/
 ---
+{{< psd/tize >}}
 ## Hue2Resource.Length property
 
-Ruft die Layer-Ressourcenlänge in Byte ab.
+Liest die Länge der Schichtressource in Bytes.
 
 ```csharp
 public override int Length { get; }
@@ -17,7 +18,7 @@ public override int Length { get; }
 ### Siehe auch
 
 * class [Hue2Resource](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../hue2resource/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

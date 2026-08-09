@@ -1,14 +1,15 @@
 ---
-title: GraphicsPath.AddPath
-second_title: Aspose.PSD für .NET-API-Referenz
-description: GraphicsPath methode. Fügt die angegebene anGraphicsPath zu diesem Pfad.
+title: "GraphicsPath.AddPath"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "GraphicsPath‑Methode. Fügt den angegebenen GraphicsPath zu diesem Pfad hinzu"
 type: docs
 weight: 70
 url: /de/net/aspose.psd/graphicspath/addpath/
 ---
+{{< psd/tize >}}
 ## AddPath(GraphicsPath) {#addpath}
 
-Fügt die angegebene an[`GraphicsPath`](../) zu diesem Pfad.
+Fügt den angegebenen [`GraphicsPath`](../) zu diesem Pfad hinzu.
 
 ```csharp
 public void AddPath(GraphicsPath addingPath)
@@ -16,19 +17,19 @@ public void AddPath(GraphicsPath addingPath)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| addingPath | GraphicsPath | Der[`GraphicsPath`](../) hinzufügen. |
+| addingPath | GraphicsPath | Der [`GraphicsPath`](../), der hinzugefügt werden soll. |
 
 ### Siehe auch
 
 * class [GraphicsPath](../)
-* namensraum [Aspose.PSD](../../graphicspath/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## AddPath(GraphicsPath, bool) {#addpath_1}
 
-Fügt die angegebene an[`GraphicsPath`](../) zu diesem Pfad.
+Fügt den angegebenen [`GraphicsPath`](../) zu diesem Pfad hinzu.
 
 ```csharp
 public void AddPath(GraphicsPath addingPath, bool connect)
@@ -36,13 +37,13 @@ public void AddPath(GraphicsPath addingPath, bool connect)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| addingPath | GraphicsPath | Der[`GraphicsPath`](../) hinzufügen. |
-| connect | Boolean | Ein boolescher Wert, der angibt, ob die erste Figur im hinzugefügten Pfad Teil der letzten Figur in diesem Pfad ist. Der Wert „true“ gibt an, dass die erste Ziffer im hinzugefügten Pfad Teil der letzten Ziffer in diesem Pfad ist. Der Wert „false“ gibt an, dass die erste Ziffer im hinzugefügten Pfad von der letzten Ziffer in diesem Pfad getrennt ist. |
+| addingPath | GraphicsPath | Der [`GraphicsPath`](../), der hinzugefügt werden soll. |
+| verbinden | Boolean | Ein Boolescher Wert, der angibt, ob die erste Figur im hinzugefügten Pfad Teil der letzten Figur in diesem Pfad ist. Der Wert true gibt an, dass die erste Figur im hinzugefügten Pfad Teil der letzten Figur in diesem Pfad ist. Der Wert false gibt an, dass die erste Figur im hinzugefügten Pfad von der letzten Figur in diesem Pfad getrennt ist. |
 
 ### Siehe auch
 
 * class [GraphicsPath](../)
-* namensraum [Aspose.PSD](../../graphicspath/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

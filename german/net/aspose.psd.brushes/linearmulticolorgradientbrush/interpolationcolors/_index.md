@@ -1,28 +1,29 @@
 ---
-title: LinearMulticolorGradientBrush.InterpolationColors
-second_title: Aspose.PSD für .NET-API-Referenz
-description: LinearMulticolorGradientBrush eigendom. Holt oder setzt aColorBlend das einen mehrfarbigen linearen Farbverlauf definiert.
+title: "LinearMulticolorGradientBrush.InterpolationColors"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "LinearMulticolorGradientBrush-Eigenschaft. Ruft ein ColorBlend ab oder legt es fest, das einen mehrfarbigen linearen Verlauf definiert."
 type: docs
 weight: 20
 url: /de/net/aspose.psd.brushes/linearmulticolorgradientbrush/interpolationcolors/
 ---
+{{< psd/tize >}}
 ## LinearMulticolorGradientBrush.InterpolationColors property
 
-Holt oder setzt a[`ColorBlend`](../../../aspose.psd/colorblend/) das einen mehrfarbigen linearen Farbverlauf definiert.
+Ruft ein [`ColorBlend`](../../../aspose.psd/colorblend/) ab oder legt es fest, das einen mehrfarbigen linearen Verlauf definiert.
 
 ```csharp
 public ColorBlend InterpolationColors { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
-A[`ColorBlend`](../../../aspose.psd/colorblend/) die einen mehrfarbigen linearen Farbverlauf definiert.
+Ein [`ColorBlend`](../../../aspose.psd/colorblend/) der einen mehrfarbigen linearen Verlauf definiert.
 
 ### Siehe auch
 
 * class [ColorBlend](../../../aspose.psd/colorblend/)
 * class [LinearMulticolorGradientBrush](../)
-* namensraum [Aspose.PSD.Brushes](../../linearmulticolorgradientbrush/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
+* assembly [Aspose.PSD](../../../)
 
 

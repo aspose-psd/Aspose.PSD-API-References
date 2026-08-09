@@ -1,14 +1,15 @@
 ---
-title: PixelDataFormat.GetGrayscale
-second_title: Aspose.PSD für .NET-API-Referenz
-description: PixelDataFormat methode. Ruft Graustufenfarbe mit einer angegebenen Anzahl von Bits pro Sample ab.
+title: "PixelDataFormat.GetGrayscale"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "PixelDataFormat-Methode. Gibt Graustufenfarbe mit einer angegebenen Anzahl von Bits pro Sample zurück."
 type: docs
 weight: 230
 url: /de/net/aspose.psd/pixeldataformat/getgrayscale/
 ---
+{{< psd/tize >}}
 ## PixelDataFormat.GetGrayscale method
 
-Ruft Graustufenfarbe mit einer angegebenen Anzahl von Bits pro Sample ab.
+Ermittelt Graustufenfarbe mit einer angegebenen Anzahl von Bits pro Sample.
 
 ```csharp
 public static PixelDataFormat GetGrayscale(int bitsPerSample)
@@ -25,7 +26,7 @@ Die Graustufenfarbe.
 ### Siehe auch
 
 * class [PixelDataFormat](../)
-* namensraum [Aspose.PSD](../../pixeldataformat/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

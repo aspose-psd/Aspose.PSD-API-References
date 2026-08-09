@@ -1,14 +1,15 @@
 ---
-title: PhotoshopPackage.SetState
-second_title: Aspose.PSD für .NET-API-Referenz
-description: PhotoshopPackage methode. Legt den Status fest.
+title: "PhotoshopPackage.SetState"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "PhotoshopPackage-Methode. Setzt den Zustand"
 type: docs
 weight: 170
 url: /de/net/aspose.psd.xmp.schemas.photoshop/photoshoppackage/setstate/
 ---
+{{< psd/tize >}}
 ## PhotoshopPackage.SetState method
 
-Legt den Status fest.
+Setzt den Zustand.
 
 ```csharp
 public void SetState(string state)
@@ -16,12 +17,12 @@ public void SetState(string state)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| state | String | Der Staat. |
+| Zustand | String | Der Zustand. |
 
 ### Siehe auch
 
 * class [PhotoshopPackage](../)
-* namensraum [Aspose.PSD.Xmp.Schemas.Photoshop](../../photoshoppackage/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.Photoshop](../../../aspose.psd.xmp.schemas.photoshop/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: TiffStreamWriter.Position
-second_title: Aspose.PSD für .NET-API-Referenz
-description: TiffStreamWriter eigendom. Ruft die StreamPosition ab oder legt sie fest.
+title: "TiffStreamWriter.Position"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "TiffStreamWriter-Eigenschaft. Liest oder schreibt die Stream-Position"
 type: docs
 weight: 20
 url: /de/net/aspose.psd.fileformats.tiff.filemanagement/tiffstreamwriter/position/
 ---
+{{< psd/tize >}}
 ## TiffStreamWriter.Position property
 
-Ruft die Stream-Position ab oder legt sie fest.
+Liest oder setzt die Stream-Position.
 
 ```csharp
 public long Position { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
 Die Stream-Position.
 
 ### Siehe auch
 
 * class [TiffStreamWriter](../)
-* namensraum [Aspose.PSD.FileFormats.Tiff.FileManagement](../../tiffstreamwriter/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff.FileManagement](../../../aspose.psd.fileformats.tiff.filemanagement/)
+* assembly [Aspose.PSD](../../../)
 
 

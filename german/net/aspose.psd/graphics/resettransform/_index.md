@@ -1,14 +1,15 @@
 ---
-title: Graphics.ResetTransform
-second_title: Aspose.PSD für .NET-API-Referenz
-description: Graphics methode. Setzt die zurückTransform Eigentum an Identität.
+title: "Graphics.ResetTransform"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "Graphics-Methode. Setzt die Transform-Eigenschaft auf die Identität zurück."
 type: docs
-weight: 430
+weight: 440
 url: /de/net/aspose.psd/graphics/resettransform/
 ---
+{{< psd/tize >}}
 ## Graphics.ResetTransform method
 
-Setzt die zurück[`Transform`](../transform/) Eigentum an Identität.
+Setzt die [`Transform`](../transform/)-Eigenschaft auf die Identität zurück.
 
 ```csharp
 public void ResetTransform()
@@ -17,7 +18,7 @@ public void ResetTransform()
 ### Siehe auch
 
 * class [Graphics](../)
-* namensraum [Aspose.PSD](../../graphics/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

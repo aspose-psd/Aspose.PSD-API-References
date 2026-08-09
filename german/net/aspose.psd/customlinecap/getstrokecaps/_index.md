@@ -1,14 +1,15 @@
 ---
-title: CustomLineCap.GetStrokeCaps
-second_title: Aspose.PSD für .NET-API-Referenz
-description: CustomLineCap methode. Ruft die Begrenzungen ab die für Start und Endzeilen verwendet werden aus denen diese benutzerdefinierte Begrenzung besteht.
+title: "CustomLineCap.GetStrokeCaps"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "CustomLineCap-Methode. Gibt die Kappen zurück, die zum Starten und Beenden von Linien verwendet werden, aus denen diese benutzerdefinierte Kappe besteht."
 type: docs
 weight: 80
 url: /de/net/aspose.psd/customlinecap/getstrokecaps/
 ---
+{{< psd/tize >}}
 ## CustomLineCap.GetStrokeCaps method
 
-Ruft die Begrenzungen ab, die für Start- und Endzeilen verwendet werden, aus denen diese benutzerdefinierte Begrenzung besteht.
+Liest die Abschlüsse, die zum Starten und Beenden von Linien verwendet werden, aus denen dieser benutzerdefinierte Abschluss besteht.
 
 ```csharp
 public void GetStrokeCaps(out LineCap startCap, out LineCap endCap)
@@ -16,14 +17,14 @@ public void GetStrokeCaps(out LineCap startCap, out LineCap endCap)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| startCap | LineCap& | Der[`LineCap`](../../linecap/) Aufzählung, die am Anfang einer Zeile innerhalb dieser Kappe verwendet wird. |
-| endCap | LineCap& | Der[`LineCap`](../../linecap/) Aufzählung, die am Ende einer Zeile innerhalb dieser Kappe verwendet wird. |
+| startCap | LineCap& | Die [`LineCap`](../../linecap/)-Aufzählung, die am Anfang einer Linie innerhalb dieser Kappe verwendet wird. |
+| endCap | LineCap& | Die [`LineCap`](../../linecap/)-Aufzählung, die am Ende einer Linie innerhalb dieser Kappe verwendet wird. |
 
 ### Siehe auch
 
 * enum [LineCap](../../linecap/)
 * class [CustomLineCap](../)
-* namensraum [Aspose.PSD](../../customlinecap/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

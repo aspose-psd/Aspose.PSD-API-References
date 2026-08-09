@@ -1,14 +1,15 @@
 ---
-title: CurvResource.Save
-second_title: Aspose.PSD für .NET-API-Referenz
-description: CurvResource methode. Speichert die Ressource im angegebenen StreamContainer.
+title: "CurvResource.Save"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "CurvResource-Methode. Speichert die Ressource im angegebenen Stream-Container"
 type: docs
-weight: 90
+weight: 70
 url: /de/net/aspose.psd.fileformats.psd.layers.layerresources/curvresource/save/
 ---
+{{< psd/tize >}}
 ## CurvResource.Save method
 
-Speichert die Ressource im angegebenen Stream-Container.
+Speichert die Ressource in den angegebenen Stream-Container.
 
 ```csharp
 public override void Save(StreamContainer streamContainer, int psdVersion)
@@ -16,14 +17,14 @@ public override void Save(StreamContainer streamContainer, int psdVersion)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| streamContainer | StreamContainer | Der Stream-Container, in dem gespeichert werden soll. |
+| `streamContainer` | StreamContainer | Der Stream-Container, in dem gespeichert werden soll. |
 | psdVersion | Int32 | Die PSD-Version. |
 
 ### Siehe auch
 
 * class [StreamContainer](../../../aspose.psd/streamcontainer/)
 * class [CurvResource](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../curvresource/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

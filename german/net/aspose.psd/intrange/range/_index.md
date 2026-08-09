@@ -1,27 +1,28 @@
 ---
-title: IntRange.Range
-second_title: Aspose.PSD für .NET-API-Referenz
-description: IntRange eigendom. Ruft den Bereich ab oder legt ihn fest.
+title: "IntRange.Range"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "IntRange Eigenschaft. Liest oder setzt den Bereich."
 type: docs
 weight: 20
 url: /de/net/aspose.psd/intrange/range/
 ---
+{{< psd/tize >}}
 ## IntRange.Range property
 
-Ruft den Bereich ab oder legt ihn fest.
+Liest oder setzt den Bereich.
 
 ```csharp
 public int[] Range { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
-Die Reichweite.
+Der Bereich.
 
 ### Siehe auch
 
 * class [IntRange](../)
-* namensraum [Aspose.PSD](../../intrange/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

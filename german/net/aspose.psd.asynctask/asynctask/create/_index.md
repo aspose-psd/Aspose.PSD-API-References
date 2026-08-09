@@ -1,11 +1,12 @@
 ---
-title: AsyncTask.Create
-second_title: Aspose.PSD für .NET-API-Referenz
-description: AsyncTask methode. Erstellt die asynchrone Aufgabe ohne Ergebnis.
+title: "AsyncTask.Create"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "AsyncTask-Methode. Erstellt die asynchrone Aufgabe ohne Ergebnis"
 type: docs
 weight: 10
 url: /de/net/aspose.psd.asynctask/asynctask/create/
 ---
+{{< psd/tize >}}
 ## Create(AsyncTaskAction) {#create}
 
 Erstellt die asynchrone Aufgabe ohne Ergebnis.
@@ -27,14 +28,14 @@ Die asynchrone Aufgabe
 * interface [IAsyncTask](../../iasynctask/)
 * delegate [AsyncTaskAction](../../asynctaskaction/)
 * class [AsyncTask](../)
-* namensraum [Aspose.PSD.AsyncTask](../../asynctask/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.AsyncTask](../../../aspose.psd.asynctask/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Create(AsyncTaskFunc) {#create_1}
 
-Erstellt die asynchrone Aufgabe mit dem Ergebnis des generischen Typs.
+Erstellt die asynchrone Aufgabe mit generischem Typ Ergebnis.
 
 ```csharp
 public static IAsyncTask Create(AsyncTaskFunc taskFunc)
@@ -53,7 +54,7 @@ Die asynchrone Aufgabe
 * interface [IAsyncTask](../../iasynctask/)
 * delegate [AsyncTaskFunc](../../asynctaskfunc/)
 * class [AsyncTask](../)
-* namensraum [Aspose.PSD.AsyncTask](../../asynctask/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.AsyncTask](../../../aspose.psd.asynctask/)
+* assembly [Aspose.PSD](../../../)
 
 

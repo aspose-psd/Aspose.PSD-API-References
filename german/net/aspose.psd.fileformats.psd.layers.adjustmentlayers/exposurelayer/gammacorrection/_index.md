@@ -1,27 +1,28 @@
 ---
-title: ExposureLayer.GammaCorrection
-second_title: Aspose.PSD für .NET-API-Referenz
-description: ExposureLayer eigendom. Ruft die GammaCorrection ab oder legt sie fest. Für PS reicht der GammaCorrectionBereich von 999 bis 001
+title: "ExposureLayer.GammaCorrection"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "ExposureLayer-Eigenschaft. Gibt die GammaCorrection zurück oder legt sie fest. Für PS liegt der Bereich der GammaCorrection zwischen 9.99 und 0.01"
 type: docs
 weight: 20
 url: /de/net/aspose.psd.fileformats.psd.layers.adjustmentlayers/exposurelayer/gammacorrection/
 ---
+{{< psd/tize >}}
 ## ExposureLayer.GammaCorrection property
 
-Ruft die GammaCorrection ab oder legt sie fest. Für PS reicht der GammaCorrection-Bereich von 9,99 bis +0,01
+Liest oder setzt die GammaKorrektur. Für PS liegt der Bereich der GammaKorrektur von 9,99 bis +0,01.
 
 ```csharp
 public float GammaCorrection { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
-Die Gammakorrektur.
+Die GammaCorrection.
 
 ### Siehe auch
 
 * class [ExposureLayer](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../exposurelayer/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/)
+* assembly [Aspose.PSD](../../../)
 
 

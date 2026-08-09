@@ -1,27 +1,28 @@
 ---
-title: ResourceRef.InstanceId
-second_title: Aspose.PSD für .NET-API-Referenz
-description: ResourceRef eigendom. Ruft die Instanzkennung ab oder legt sie fest.
+title: "ResourceRef.InstanceId"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "ResourceRef-Eigenschaft. Ruft den Instanzbezeichner ab oder legt ihn fest"
 type: docs
 weight: 50
 url: /de/net/aspose.psd.xmp.types.complex.resourceref/resourceref/instanceid/
 ---
+{{< psd/tize >}}
 ## ResourceRef.InstanceId property
 
-Ruft die Instanzkennung ab oder legt sie fest.
+Liest oder setzt die Instanzkennung.
 
 ```csharp
 public string InstanceId { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
-Die Instanzkennung.
+Der Instanzbezeichner.
 
 ### Siehe auch
 
 * class [ResourceRef](../)
-* namensraum [Aspose.PSD.Xmp.Types.Complex.ResourceRef](../../resourceref/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.ResourceRef](../../../aspose.psd.xmp.types.complex.resourceref/)
+* assembly [Aspose.PSD](../../../)
 
 

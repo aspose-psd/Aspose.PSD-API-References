@@ -1,11 +1,12 @@
 ---
-title: Class AnimatedDataSectionStructure
-second_title: Aspose.PSD für .NET-API-Referenz
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.AnimatedDataSectionStructure klas. Der Abschnitt mit animierten Daten.
+title: "Klasse AnimatedDataSectionStructure"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "Aspose.PSD.FileFormats.Psd.Layers.LayerResources.AnimatedDataSectionStructure Klasse. Der Abschnitt mit animierten Daten."
 type: docs
-weight: 2300
+weight: 2510
 url: /de/net/aspose.psd.fileformats.psd.layers.layerresources/animateddatasectionstructure/
 ---
+{{< psd/tize >}}
 ## AnimatedDataSectionStructure class
 
 Der Abschnitt mit animierten Daten.
@@ -18,16 +19,16 @@ public class AnimatedDataSectionStructure : OSTypeStructure
 
 | Name | Beschreibung |
 | --- | --- |
-| [Items](../../aspose.psd.fileformats.psd.layers.layerresources/animateddatasectionstructure/items/) { get; } | Ruft die animierten Datenabschnittsstrukturen ab oder legt sie fest. |
-| override [Key](../../aspose.psd.fileformats.psd.layers.layerresources/animateddatasectionstructure/key/) { get; } | Ruft den Strukturschlüssel ab. |
-| [KeyName](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/keyname/) { get; set; } | Ruft den Schlüsselnamen ab oder legt ihn fest. |
-| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/animateddatasectionstructure/length/) { get; } | Ruft die ab[`OSTypeStructure`](../ostypestructure/) Länge in Bytes. |
+| [Items](../../aspose.psd.fileformats.psd.layers.layerresources/animateddatasectionstructure/items/) { get; } | Liest oder setzt die Strukturen des animierten Datenabschnitts. |
+| override [Key](../../aspose.psd.fileformats.psd.layers.layerresources/animateddatasectionstructure/key/) { get; } | Liest den Struktur-Schlüssel. |
+| [KeyName](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/keyname/) { get; set; } | Liest oder setzt den Schlüsselnamen. |
+| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/animateddatasectionstructure/length/) { get; } | Liest die Länge von [`OSTypeStructure`](../ostypestructure/) in Bytes. |
 
 ## Methoden
 
 | Name | Beschreibung |
 | --- | --- |
-| virtual [GetHeaderLength](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/getheaderlength/)() | Ruft die Kopfzeilenlänge ab. |
+| virtual [GetHeaderLength](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/getheaderlength/)() | Liest die Header-Länge. |
 | [Save](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/save/)(StreamContainer) | Speichert die Struktur im angegebenen Stream-Container. |
 | [SaveWithoutKeyName](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/savewithoutkeyname/)(StreamContainer) | Speichert die Struktur im angegebenen Stream-Container. |
 
@@ -35,11 +36,11 @@ public class AnimatedDataSectionStructure : OSTypeStructure
 
 | Name | Beschreibung |
 | --- | --- |
-| const [StructureKey](../../aspose.psd.fileformats.psd.layers.layerresources/animateddatasectionstructure/structurekey/) | Identifiziert den Strukturschlüssel von AnDs. |
+| const [StructureKey](../../aspose.psd.fileformats.psd.layers.layerresources/animateddatasectionstructure/structurekey/) | Identifiziert den Struktur‑Schlüssel von AnDs. |
 
-### Beispiele
+## Beispiele
 
-Der folgende Code zeigt, wie die Verzögerungszeit im Zeitachsenrahmen von animierten Daten festgelegt/aktualisiert wird.
+Der folgende Code zeigt, wie die Verzögerungszeit im Zeitleisten‑Frame animierter Daten gesetzt/aktualisiert wird.
 
 ```csharp
 [C#]
@@ -91,9 +92,9 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFile))
 
             var frame1 = (DescriptorStructure)framesList.Types[1];
 
-            // Erstellt den Frame-Delay-Record mit dem Wert 100 Zenti-Sekunde, was 1 Sekunde entspricht.
+            // Erstellt den Frame‑Verzögerungsdatensatz mit dem Wert 100 Zentisekunden, was 1 Sekunde entspricht.
             var frameDelay = new IntegerStructure(new ClassID("FrDl"));
-            frameDelay.Value = 100; // Zeit in Centisekunden einstellen.
+            frameDelay.Value = 100; // set time in centi-seconds.
 
             frame1.Structures = AddOrReplaceStructure(frame1.Structures, frameDelay);
 
@@ -108,7 +109,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFile))
 ### Siehe auch
 
 * class [OSTypeStructure](../ostypestructure/)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
-* Montage [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../)
 
 

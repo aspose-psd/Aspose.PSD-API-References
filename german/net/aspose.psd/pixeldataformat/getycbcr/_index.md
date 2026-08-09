@@ -1,14 +1,15 @@
 ---
-title: PixelDataFormat.GetYCbCr
-second_title: Aspose.PSD für .NET-API-Referenz
-description: PixelDataFormat methode. Ruft YCbCrFarbe mit einer angegebenen Anzahl von Bits pro Abtastung ab.
+title: "PixelDataFormat.GetYCbCr"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "PixelDataFormat-Methode. Gibt eine YCbCr-Farbe mit einer angegebenen Bitanzahl pro Sample zurück."
 type: docs
 weight: 280
 url: /de/net/aspose.psd/pixeldataformat/getycbcr/
 ---
+{{< psd/tize >}}
 ## GetYCbCr(int) {#getycbcr}
 
-Ruft YCbCr-Farbe mit einer angegebenen Anzahl von Bits pro Abtastung ab.
+Ermittelt YCbCr-Farbe mit einer angegebenen Anzahl von Bits pro Sample.
 
 ```csharp
 public static PixelDataFormat GetYCbCr(int bitsPerSample)
@@ -25,14 +26,14 @@ Die YCbCr-Farbe.
 ### Siehe auch
 
 * class [PixelDataFormat](../)
-* namensraum [Aspose.PSD](../../pixeldataformat/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## GetYCbCr(int, int, int) {#getycbcr_1}
 
-Ruft YCbCr-Farbe mit einer angegebenen Anzahl von Bits pro Abtastung ab.
+Ermittelt YCbCr-Farbe mit einer angegebenen Anzahl von Bits pro Sample.
 
 ```csharp
 public static PixelDataFormat GetYCbCr(int bitsPerY, int bitsPerCb, int bitsPerCr)
@@ -51,7 +52,7 @@ Die YCbCr-Farbe.
 ### Siehe auch
 
 * class [PixelDataFormat](../)
-* namensraum [Aspose.PSD](../../pixeldataformat/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

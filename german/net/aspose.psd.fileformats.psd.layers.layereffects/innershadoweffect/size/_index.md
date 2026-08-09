@@ -1,27 +1,28 @@
 ---
-title: InnerShadowEffect.Size
-second_title: Aspose.PSD für .NET-API-Referenz
-description: InnerShadowEffect eigendom. Ruft den Unschärfewert in Pixel ab oder legt ihn fest.
+title: "InnerShadowEffect.Size"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "InnerShadowEffect property. Ruft den Unschärfewert in Pixeln ab oder legt ihn fest"
 type: docs
 weight: 90
 url: /de/net/aspose.psd.fileformats.psd.layers.layereffects/innershadoweffect/size/
 ---
+{{< psd/tize >}}
 ## InnerShadowEffect.Size property
 
-Ruft den Unschärfewert in Pixel ab oder legt ihn fest.
+Liest oder setzt den Unschärfewert in Pixeln.
 
 ```csharp
 public int Size { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
 Die Größe.
 
 ### Siehe auch
 
 * class [InnerShadowEffect](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../innershadoweffect/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../../)
 
 

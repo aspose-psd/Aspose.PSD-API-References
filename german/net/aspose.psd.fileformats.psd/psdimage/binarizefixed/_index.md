@@ -1,14 +1,15 @@
 ---
-title: PsdImage.BinarizeFixed
-second_title: Aspose.PSD für .NET-API-Referenz
-description: PsdImage methode. Binarisierung eines Bildes mit vordefiniertem Schwellwert
+title: "PsdImage.BinarizeFixed"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "PsdImage-Methode. Binärisierung eines Bildes mit vordefiniertem Schwellenwert."
 type: docs
-weight: 480
+weight: 540
 url: /de/net/aspose.psd.fileformats.psd/psdimage/binarizefixed/
 ---
+{{< psd/tize >}}
 ## PsdImage.BinarizeFixed method
 
-Binarisierung eines Bildes mit vordefiniertem Schwellwert
+Binarisierung eines Bildes mit vordefiniertem Schwellenwert
 
 ```csharp
 public override void BinarizeFixed(byte threshold)
@@ -16,12 +17,12 @@ public override void BinarizeFixed(byte threshold)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| threshold | Byte | Schwellwert. Wenn der entsprechende Grauwert eines Pixels größer als der Schwellenwert ist, wird ihm ein Wert von 255 zugewiesen, andernfalls 0. |
+| Schwellenwert | Byte | Schwellenwert. Wenn der entsprechende Grauwert eines Pixels größer als der Schwellenwert ist, wird ihm der Wert 255 zugewiesen, sonst 0. |
 
 ### Siehe auch
 
 * class [PsdImage](../)
-* namensraum [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

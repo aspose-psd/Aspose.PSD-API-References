@@ -1,14 +1,15 @@
 ---
-title: Enum ColorModes
-second_title: Aspose.PSD für .NET-API-Referenz
-description: Aspose.PSD.FileFormats.Psd.ColorModes opsomming. Repräsentiert die Farbmodi des PSDDateiformats.
+title: "Enum ColorModes"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "Aspose.PSD.FileFormats.Psd.ColorModes enum. Stellt die Farbmodi des PSD-Dateiformats dar"
 type: docs
-weight: 1610
+weight: 1620
 url: /de/net/aspose.psd.fileformats.psd/colormodes/
 ---
+{{< psd/tize >}}
 ## ColorModes enumeration
 
-Repräsentiert die Farbmodi des PSD-Dateiformats.
+Stellt die Farbmodi des PSD-Dateiformats dar.
 
 ```csharp
 public enum ColorModes : short
@@ -20,16 +21,16 @@ public enum ColorModes : short
 | --- | --- | --- |
 | Bitmap | `0` | Der Bitmap-Farbmodus. |
 | Grayscale | `1` | Der Graustufenmodus. |
-| Indexed | `2` | Indexierter Farbmodus. |
+| Indexed | `2` | Der indizierte Farbmodus. |
 | Rgb | `3` | RGB-Farbmodus. |
 | Cmyk | `4` | CMYK-Farbmodus. |
-| Multichannel | `7` | Mehrkanal-Farbmodus. |
-| Duotone | `8` | Duplex-Farbmodus. |
-| Lab | `9` | Lab-Farbmodus. |
+| Multichannel | `7` | Der Mehrkanal-Farbmodus. |
+| Duotone | `8` | Der Duoton-Farbmodus. |
+| Lab | `9` | Der Lab-Farbmodus. |
 
 ### Siehe auch
 
-* namensraum [Aspose.PSD.FileFormats.Psd](../../aspose.psd.fileformats.psd/)
-* Montage [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../)
 
 

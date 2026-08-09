@@ -1,27 +1,28 @@
 ---
-title: XmpTrailerPi.IsWritable
-second_title: Aspose.PSD für .NET-API-Referenz
-description: XmpTrailerPi eigendom. Ruft einen Wert ab oder legt einen Wert fest der angibt ob diese Instanz beschreibbar ist.
+title: "XmpTrailerPi.IsWritable"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "XmpTrailerPi-Eigenschaft. Gibt einen Wert zurück oder legt ihn fest, der angibt, ob diese Instanz schreibbar ist."
 type: docs
 weight: 20
 url: /de/net/aspose.psd.xmp/xmptrailerpi/iswritable/
 ---
+{{< psd/tize >}}
 ## XmpTrailerPi.IsWritable property
 
-Ruft einen Wert ab oder legt einen Wert fest, der angibt, ob diese Instanz beschreibbar ist.
+Liest oder setzt einen Wert, der angibt, ob diese Instanz schreibbar ist.
 
 ```csharp
 public bool IsWritable { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
-`WAHR` wenn diese Instanz beschreibbar ist; ansonsten,`FALSCH` .
+`true`, wenn diese Instanz schreibbar ist; andernfalls `false`.
 
 ### Siehe auch
 
 * class [XmpTrailerPi](../)
-* namensraum [Aspose.PSD.Xmp](../../xmptrailerpi/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: LayerState.PositionOffset
-second_title: Aspose.PSD für .NET-API-Referenz
-description: LayerState eigendom. Holt oder setzt den Schichtpositionsversatz bezogen auf die tatsächliche Schichtposition.
+title: "LayerState.PositionOffset"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "LayerState-Eigenschaft. Gibt den Ebenenpositionsversatz zurück oder legt ihn fest, bezogen auf die aktuelle Ebenenposition"
 type: docs
 weight: 80
 url: /de/net/aspose.psd.fileformats.psd.layers.animation/layerstate/positionoffset/
 ---
+{{< psd/tize >}}
 ## LayerState.PositionOffset property
 
-Holt oder setzt den Schichtpositionsversatz bezogen auf die tatsächliche Schichtposition.
+Liest oder setzt den Positionsversatz des Layers in Bezug auf die tatsächliche Layer-Position.
 
 ```csharp
 public Point PositionOffset { get; set; }
@@ -18,7 +19,7 @@ public Point PositionOffset { get; set; }
 
 * struct [Point](../../../aspose.psd/point/)
 * class [LayerState](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.Animation](../../layerstate/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.Animation](../../../aspose.psd.fileformats.psd.layers.animation/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: RectangleProjectedShape.RectangleHeight
-second_title: Aspose.PSD für .NET-API-Referenz
-description: RectangleProjectedShape eigendom. Ruft die Rechteckhöhe ab.
+title: "RectangleProjectedShape.RectangleHeight"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "RectangleProjectedShape Eigenschaft. Gibt die Rechteckhöhe zurück"
 type: docs
 weight: 70
 url: /de/net/aspose.psd.shapes/rectangleprojectedshape/rectangleheight/
 ---
+{{< psd/tize >}}
 ## RectangleProjectedShape.RectangleHeight property
 
-Ruft die Rechteckhöhe ab.
+Liest die Rechteckhöhe.
 
 ```csharp
 public double RectangleHeight { get; }
 ```
 
-### Eigentumswert
+### Property Value
 
 Die Rechteckhöhe.
 
 ### Siehe auch
 
 * class [RectangleProjectedShape](../)
-* namensraum [Aspose.PSD.Shapes](../../rectangleprojectedshape/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 

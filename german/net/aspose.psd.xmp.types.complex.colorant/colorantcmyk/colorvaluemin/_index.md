@@ -1,14 +1,15 @@
 ---
-title: ColorantCmyk.ColorValueMin
-second_title: Aspose.PSD für .NET-API-Referenz
-description: ColorantCmyk veld. Farbminimalwert in CMYKFarbstoff.
+title: "ColorantCmyk.ColorValueMin"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "ColorantCmyk Feld. Minimaler Farbwert im CMYK-Farbstoff"
 type: docs
 weight: 80
 url: /de/net/aspose.psd.xmp.types.complex.colorant/colorantcmyk/colorvaluemin/
 ---
+{{< psd/tize >}}
 ## ColorantCmyk.ColorValueMin field
 
-Farbminimalwert in CMYK-Farbstoff.
+Minimaler Farbwert im CMYK‑Colorant.
 
 ```csharp
 public const float ColorValueMin;
@@ -17,7 +18,7 @@ public const float ColorValueMin;
 ### Siehe auch
 
 * class [ColorantCmyk](../)
-* namensraum [Aspose.PSD.Xmp.Types.Complex.Colorant](../../colorantcmyk/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.Colorant](../../../aspose.psd.xmp.types.complex.colorant/)
+* assembly [Aspose.PSD](../../../)
 
 

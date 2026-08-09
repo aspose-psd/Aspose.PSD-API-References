@@ -1,27 +1,28 @@
 ---
-title: SharpenFilterOptions.Sigma
-second_title: Aspose.PSD für .NET-API-Referenz
-description: SharpenFilterOptions eigendom. Ruft das Sigma ab oder legt es fest.
+title: "SharpenFilterOptions.Sigma"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "SharpenFilterOptions‑Eigenschaft. Gibt das Sigma zurück oder legt es fest"
 type: docs
 weight: 20
 url: /de/net/aspose.psd.imagefilters.filteroptions/sharpenfilteroptions/sigma/
 ---
+{{< psd/tize >}}
 ## SharpenFilterOptions.Sigma property
 
-Ruft das Sigma ab oder legt es fest.
+Liest oder setzt das Sigma.
 
 ```csharp
 public double Sigma { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
 Das Sigma.
 
 ### Siehe auch
 
 * class [SharpenFilterOptions](../)
-* namensraum [Aspose.PSD.ImageFilters.FilterOptions](../../sharpenfilteroptions/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageFilters.FilterOptions](../../../aspose.psd.imagefilters.filteroptions/)
+* assembly [Aspose.PSD](../../../)
 
 

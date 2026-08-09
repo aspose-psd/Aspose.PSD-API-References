@@ -1,14 +1,15 @@
 ---
-title: SoLeResource.TypeToolKey
-second_title: Aspose.PSD für .NET-API-Referenz
-description: SoLeResource veld. Der TypToolInfoschlüssel SoLE.
+title: "SoLeResource.TypeToolKey"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "SoLeResource-Feld. Der Typwerkzeug-Info‑Schlüssel SoLE"
 type: docs
-weight: 30
+weight: 20
 url: /de/net/aspose.psd.fileformats.psd.layers.layerresources/soleresource/typetoolkey/
 ---
+{{< psd/tize >}}
 ## SoLeResource.TypeToolKey field
 
-Der Typ-Tool-Infoschlüssel: 'SoLE'.
+Der Typwerkzeug-Info-Schlüssel: 'SoLE'.
 
 ```csharp
 public const int TypeToolKey;
@@ -17,7 +18,7 @@ public const int TypeToolKey;
 ### Siehe auch
 
 * class [SoLeResource](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../soleresource/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

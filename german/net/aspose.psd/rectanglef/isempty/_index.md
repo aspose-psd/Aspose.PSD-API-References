@@ -1,14 +1,15 @@
 ---
-title: RectangleF.IsEmpty
-second_title: Aspose.PSD für .NET-API-Referenz
-description: RectangleF eigendom. Ruft einen Wert ab der angibt ob dieWidth oderHeight Eigentum davonRectangleF hat den Wert null.
+title: "RectangleF.IsEmpty"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "RectangleF-Eigenschaft. Gibt einen Wert zurück, der angibt, ob die Width- oder Height-Eigenschaft dieses RectangleF den Wert null hat."
 type: docs
 weight: 100
 url: /de/net/aspose.psd/rectanglef/isempty/
 ---
+{{< psd/tize >}}
 ## RectangleF.IsEmpty property
 
-Ruft einen Wert ab, der angibt, ob die[`Width`](../width/) oder[`Height`](../height/) Eigentum davon[`RectangleF`](../) hat den Wert null.
+Gibt einen Wert zurück, der angibt, ob die [`Width`](../width/) oder [`Height`](../height/) Eigenschaft dieses [`RectangleF`](../) den Wert null hat.
 
 ```csharp
 public bool IsEmpty { get; }
@@ -16,12 +17,12 @@ public bool IsEmpty { get; }
 
 ### Rückgabewert
 
-Diese Eigenschaft gibt true zurück, wenn die[`Width`](../width/) oder[`Height`](../height/) Eigentum davon[`RectangleF`](../) hat einen Wert von Null; andernfalls falsch.
+Diese Eigenschaft gibt true zurück, wenn die [`Width`](../width/) oder [`Height`](../height/) Eigenschaft dieses [`RectangleF`](../) den Wert null hat; andernfalls false.
 
 ### Siehe auch
 
 * struct [RectangleF](../)
-* namensraum [Aspose.PSD](../../rectanglef/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: TypeToolInfoResource.TransformMatrix
-second_title: Aspose.PSD für .NET-API-Referenz
-description: TypeToolInfoResource eigendom. Ruft die Transformationsmatrix ab oder legt sie fest.
+title: "TypeToolInfoResource.TransformMatrix"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "TypeToolInfoResource Eigenschaft. Gibt die Transformationsmatrix zurück oder setzt sie"
 type: docs
-weight: 230
+weight: 200
 url: /de/net/aspose.psd.fileformats.psd.layers.layerresources/typetoolinforesource/transformmatrix/
 ---
+{{< psd/tize >}}
 ## TypeToolInfoResource.TransformMatrix property
 
-Ruft die Transformationsmatrix ab oder legt sie fest.
+Liest oder setzt die Transformationsmatrix.
 
 ```csharp
 public double[] TransformMatrix { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
 Die Transformationsmatrix.
 
 ### Siehe auch
 
 * class [TypeToolInfoResource](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../typetoolinforesource/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

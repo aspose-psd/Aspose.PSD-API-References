@@ -1,14 +1,15 @@
 ---
-title: IColorPalette.GetNearestColorIndex
-second_title: Aspose.PSD für .NET-API-Referenz
-description: IColorPalette methode. Ruft den Index der nächsten 32BitARGBFarbe ab.
+title: "IColorPalette.GetNearestColorIndex"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "IColorPalette-Methode. Gibt den Index der nächstgelegenen 32-bit-ARGB-Farbe zurück"
 type: docs
 weight: 70
 url: /de/net/aspose.psd/icolorpalette/getnearestcolorindex/
 ---
+{{< psd/tize >}}
 ## GetNearestColorIndex(int) {#getnearestcolorindex_1}
 
-Ruft den Index der nächsten 32-Bit-ARGB-Farbe ab.
+Gibt den Index der nächstgelegenen 32‑Bit‑ARGB‑Farbe zurück.
 
 ```csharp
 public int GetNearestColorIndex(int argb32Color)
@@ -16,23 +17,23 @@ public int GetNearestColorIndex(int argb32Color)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| argb32Color | Int32 | Die 32-Bit-ARGB-Farbe. |
+| argb32Color | Int32 | Die 32-bit-ARGB-Farbe. |
 
 ### Rückgabewert
 
-Der Index der nächsten Farbe.
+Der Index der nächstgelegenen Farbe.
 
 ### Siehe auch
 
 * interface [IColorPalette](../)
-* namensraum [Aspose.PSD](../../icolorpalette/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## GetNearestColorIndex(Color) {#getnearestcolorindex}
 
-Ruft den Index der nächsten Farbe ab.
+Liefert den Index der nächstgelegenen Farbe.
 
 ```csharp
 public int GetNearestColorIndex(Color color)
@@ -40,17 +41,17 @@ public int GetNearestColorIndex(Color color)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| color | Color | Die Farbe. |
+| Farbe | Farbe | Die Farbe. |
 
 ### Rückgabewert
 
-Der Index der nächsten Farbe.
+Der Index der nächstgelegenen Farbe.
 
 ### Siehe auch
 
 * struct [Color](../../color/)
 * interface [IColorPalette](../)
-* namensraum [Aspose.PSD](../../icolorpalette/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

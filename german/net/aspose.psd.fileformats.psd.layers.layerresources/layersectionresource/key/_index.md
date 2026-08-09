@@ -1,14 +1,15 @@
 ---
-title: LayerSectionResource.Key
-second_title: Aspose.PSD für .NET-API-Referenz
-description: LayerSectionResource eigendom. Ruft den LayerRessourcenschlüssel ab.
+title: "LayerSectionResource.Key"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "LayerSectionResource-Eigenschaft. Gibt den Schlüssel der Ebenenressource zurück"
 type: docs
 weight: 30
 url: /de/net/aspose.psd.fileformats.psd.layers.layerresources/layersectionresource/key/
 ---
+{{< psd/tize >}}
 ## LayerSectionResource.Key property
 
-Ruft den Layer-Ressourcenschlüssel ab.
+Liest den Schichtressourcen-Schlüssel.
 
 ```csharp
 public override int Key { get; }
@@ -17,7 +18,7 @@ public override int Key { get; }
 ### Siehe auch
 
 * class [LayerSectionResource](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../layersectionresource/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

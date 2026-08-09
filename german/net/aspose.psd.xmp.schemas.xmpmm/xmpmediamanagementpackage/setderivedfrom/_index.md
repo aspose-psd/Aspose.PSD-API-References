@@ -1,11 +1,12 @@
 ---
-title: XmpMediaManagementPackage.SetDerivedFrom
-second_title: Aspose.PSD für .NET-API-Referenz
-description: XmpMediaManagementPackage methode. Setzt das abgeleitet von.
+title: "XmpMediaManagementPackage.SetDerivedFrom"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "XmpMediaManagementPackage-Methode. Legt das abgeleitete Element fest"
 type: docs
 weight: 30
 url: /de/net/aspose.psd.xmp.schemas.xmpmm/xmpmediamanagementpackage/setderivedfrom/
 ---
+{{< psd/tize >}}
 ## XmpMediaManagementPackage.SetDerivedFrom method
 
 Setzt das abgeleitet von.
@@ -22,7 +23,7 @@ public void SetDerivedFrom(ResourceRef resourceRef)
 
 * class [ResourceRef](../../../aspose.psd.xmp.types.complex.resourceref/resourceref/)
 * class [XmpMediaManagementPackage](../)
-* namensraum [Aspose.PSD.Xmp.Schemas.XmpMm](../../xmpmediamanagementpackage/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpMm](../../../aspose.psd.xmp.schemas.xmpmm/)
+* assembly [Aspose.PSD](../../../)
 
 

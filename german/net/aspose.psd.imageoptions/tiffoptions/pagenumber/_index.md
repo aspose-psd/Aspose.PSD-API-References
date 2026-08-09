@@ -1,34 +1,35 @@
 ---
-title: TiffOptions.PageNumber
-second_title: Aspose.PSD für .NET-API-Referenz
-description: TiffOptions eigendom. Ruft das SeitenzahlTag ab oder legt es fest.
+title: "TiffOptions.PageNumber"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "TiffOptions-Eigenschaft. Gibt das Seitenzahl-Tag zurück oder legt es fest"
 type: docs
-weight: 300
+weight: 310
 url: /de/net/aspose.psd.imageoptions/tiffoptions/pagenumber/
 ---
+{{< psd/tize >}}
 ## TiffOptions.PageNumber property
 
-Ruft das Seitenzahl-Tag ab oder legt es fest.
+Liest oder setzt das Seitenzahl-Tag.
 
 ```csharp
 public ushort[] PageNumber { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
-Das Seitenzahlen-Tag.
+Das Seitenzahl-Tag.
 
 ### Ausnahmen
 
 | Ausnahme | Bedingung |
 | --- | --- |
 | ArgumentNullException | Wert |
-| ArgumentOutOfRangeException | value;Erwartete 2 Werte im Array: PageNumber[0] ist die Seitenzahl und PageNumber[1] ist die Gesamtzahl der Seiten im Dokument. |
+| ArgumentOutOfRangeException | Wert;Erwartet werden 2 Werte im Array: PageNumber[0] ist die Seitenzahl und PageNumber[1] ist die Gesamtzahl der Seiten im Dokument. |
 
 ### Siehe auch
 
 * class [TiffOptions](../)
-* namensraum [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

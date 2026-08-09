@@ -1,14 +1,15 @@
 ---
-title: SoCoResource.Signature
-second_title: Aspose.PSD für .NET-API-Referenz
-description: SoCoResource eigendom. Ruft die LayerRessourcensignatur ab.
+title: "SoCoResource.Signature"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "SoCoResource-Eigenschaft. Gibt die Signatur der Ebenenressource zurück"
 type: docs
 weight: 60
 url: /de/net/aspose.psd.fileformats.psd.layers.layerresources/socoresource/signature/
 ---
+{{< psd/tize >}}
 ## SoCoResource.Signature property
 
-Ruft die Layer-Ressourcensignatur ab.
+Liest die Signatur der Layer-Ressource.
 
 ```csharp
 public override int Signature { get; }
@@ -17,7 +18,7 @@ public override int Signature { get; }
 ### Siehe auch
 
 * class [SoCoResource](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../socoresource/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

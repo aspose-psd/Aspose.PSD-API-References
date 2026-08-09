@@ -1,27 +1,28 @@
 ---
-title: AiHeader.DocumentProcessColors
-second_title: Aspose.PSD für .NET-API-Referenz
-description: AiHeader eigendom. Ruft die Prozessfarben des Dokuments ab oder legt sie fest.
+title: "AiHeader.DocumentProcessColors"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "AiHeader-Eigenschaft. Gibt die Dokumentprozessfarben zurück oder legt sie fest"
 type: docs
 weight: 60
 url: /de/net/aspose.psd.fileformats.ai/aiheader/documentprocesscolors/
 ---
+{{< psd/tize >}}
 ## AiHeader.DocumentProcessColors property
 
-Ruft die Prozessfarben des Dokuments ab oder legt sie fest.
+Liest oder setzt die Dokumentprozessfarben.
 
 ```csharp
 public string DocumentProcessColors { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
-Die Prozessfarben des Dokuments.
+Die Dokumentprozessfarben.
 
 ### Siehe auch
 
 * class [AiHeader](../)
-* namensraum [Aspose.PSD.FileFormats.Ai](../../aiheader/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,34 +1,35 @@
 ---
-title: Pen.Color
-second_title: Aspose.PSD für .NET-API-Referenz
-description: Pen eigendom. Holt oder setzt die Farbe davonPen .
+title: "Pen.Color"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "Pen-Eigenschaft. Ruft die Farbe dieses Pen ab oder legt sie fest."
 type: docs
 weight: 40
 url: /de/net/aspose.psd/pen/color/
 ---
+{{< psd/tize >}}
 ## Pen.Color property
 
-Holt oder setzt die Farbe davon[`Pen`](../) .
+Ruft die Farbe dieses [`Pen`](../) ab oder legt sie fest.
 
 ```csharp
 public Color Color { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
-A`Color` Struktur, die die Farbe davon darstellt[`Pen`](../).
+Eine `Color`-Struktur, die die Farbe dieses [`Pen`](../) darstellt.
 
 ### Ausnahmen
 
 | Ausnahme | Bedingung |
 | --- | --- |
-| ArgumentException | Der`Color` Eigenschaft wird auf eine unveränderliche festgelegt[`Pen`](../) , wie die von der zurückgegebenen[`Pen`](../) Klasse. |
+| ArgumentException | Die `Color`-Eigenschaft wird bei einem unveränderlichen [`Pen`](../) festgelegt, wie z. B. bei denen, die von der [`Pen`](../)-Klasse zurückgegeben werden. |
 
 ### Siehe auch
 
 * struct [Color](../../color/)
 * class [Pen](../)
-* namensraum [Aspose.PSD](../../pen/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

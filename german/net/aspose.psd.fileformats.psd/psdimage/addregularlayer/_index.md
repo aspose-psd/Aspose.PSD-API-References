@@ -1,11 +1,12 @@
 ---
-title: PsdImage.AddRegularLayer
-second_title: Aspose.PSD für .NET-API-Referenz
-description: PsdImage methode. Fügt eine neue reguläre Ebene hinzu.
+title: "PsdImage.AddRegularLayer"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "PsdImage Methode. Fügt eine neue reguläre Ebene hinzu"
 type: docs
-weight: 410
+weight: 440
 url: /de/net/aspose.psd.fileformats.psd/psdimage/addregularlayer/
 ---
+{{< psd/tize >}}
 ## PsdImage.AddRegularLayer method
 
 Fügt eine neue reguläre Ebene hinzu.
@@ -16,11 +17,11 @@ public Layer AddRegularLayer()
 
 ### Rückgabewert
 
-Normale Ebene erstellt.
+Reguläre Ebene erstellt.
 
-### Beispiele
+## Beispiele
 
-Der folgende Code zeigt, wie die neu generierte reguläre Ebene zu PsdImage hinzugefügt wird.
+Der folgende Code zeigt, wie die neu erzeugte reguläre Ebene zu PsdImage hinzugefügt wird.
 
 ```csharp
 [C#]
@@ -31,7 +32,7 @@ string exportPathPng = "OneLayerEdited.png";
 
 using (var im = (PsdImage)Image.Load(sourceFileName))
 {
-    // Vorbereiten von zwei int-Arrays
+    // Zwei int-Arrays werden vorbereitet
     var data1 = new int[2500];
     var data2 = new int[2500];
 
@@ -61,7 +62,7 @@ using (var im = (PsdImage)Image.Load(sourceFileName))
     // PSD speichern
     im.Save(exportPath, new PsdOptions());
 
-    // png speichern
+    // PNG speichern
     im.Save(exportPathPng, new PngOptions());
 }
 ```
@@ -70,7 +71,7 @@ using (var im = (PsdImage)Image.Load(sourceFileName))
 
 * class [Layer](../../../aspose.psd.fileformats.psd.layers/layer/)
 * class [PsdImage](../)
-* namensraum [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

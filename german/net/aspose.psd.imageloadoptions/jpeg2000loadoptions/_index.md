@@ -1,40 +1,41 @@
 ---
-title: Class Jpeg2000LoadOptions
-second_title: Aspose.PSD für .NET-API-Referenz
-description: Aspose.PSD.ImageLoadOptions.Jpeg2000LoadOptions klas. JPEG2000 Ladeoptionen
+title: "Klasse Jpeg2000LoadOptions"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "Aspose.PSD.ImageLoadOptions.Jpeg2000LoadOptions class. JPEG2000-Ladeoptionen"
 type: docs
-weight: 4760
+weight: 5230
 url: /de/net/aspose.psd.imageloadoptions/jpeg2000loadoptions/
 ---
+{{< psd/tize >}}
 ## Jpeg2000LoadOptions class
 
-JPEG2000 Ladeoptionen
+JPEG2000-Ladeoptionen
 
 ```csharp
 public class Jpeg2000LoadOptions : LoadOptions
 ```
 
-## Konstrukteure
+## Konstruktoren
 
 | Name | Beschreibung |
 | --- | --- |
-| [Jpeg2000LoadOptions](jpeg2000loadoptions/)() | Initialisiert eine neue Instanz von`Jpeg2000LoadOptions` Klasse. |
+| [Jpeg2000LoadOptions](jpeg2000loadoptions/)() | Initialisiert eine neue Instanz der `Jpeg2000LoadOptions`-Klasse. |
 
 ## Eigenschaften
 
 | Name | Beschreibung |
 | --- | --- |
-| [BufferSizeHint](../../aspose.psd/loadoptions/buffersizehint/) { get; set; } | Ruft den Puffergrößenhinweis ab oder legt ihn fest, der als maximal zulässige Größe für alle internen Puffer definiert ist. |
-| [DataBackgroundColor](../../aspose.psd/loadoptions/databackgroundcolor/) { get; set; } | Ruft ab oder setzt die[`Image`](../../aspose.psd/image/) Hintergrund[`Color`](../../aspose.psd/color/) . |
-| [DataRecoveryMode](../../aspose.psd/loadoptions/datarecoverymode/) { get; set; } | Ruft den Datenwiederherstellungsmodus ab oder legt ihn fest. |
-| [MaximumDecodingTime](../../aspose.psd.imageloadoptions/jpeg2000loadoptions/maximumdecodingtime/) { get; set; } | Ermittelt oder setzt die maximale Dekodierungszeit in Sekunden (diese Option kann auf sehr langsamen Computern mit Speicher verwendet werden, um ein Hängenbleiben des Prozesses bei sehr großen Bildern zu verhindern - Auflösung mehr als 5500x6500 Pixel). |
-| [ProgressEventHandler](../../aspose.psd/loadoptions/progresseventhandler/) { get; set; } | Ruft den Fortschrittsereignishandler ab oder legt ihn fest. |
-| [UseIccProfileConversion](../../aspose.psd/loadoptions/useiccprofileconversion/) { get; set; } | Ruft einen Wert ab oder legt einen Wert fest, der angibt, ob die ICC-Profilkonvertierung angewendet werden soll. |
+| [BufferSizeHint](../../aspose.psd/loadoptions/buffersizehint/) { get; set; } | Liest oder setzt den Hinweis zur Puffergröße, der die maximal zulässige Größe für alle internen Puffer definiert. |
+| [DataBackgroundColor](../../aspose.psd/loadoptions/databackgroundcolor/) { get; set; } | Liest oder setzt die Hintergrund-`Color`(../../aspose.psd/color/) des `Image`(../../aspose.psd/image/). |
+| [DataRecoveryMode](../../aspose.psd/loadoptions/datarecoverymode/) { get; set; } | Liest oder setzt den Datenwiederherstellungsmodus. |
+| [MaximumDecodingTime](../../aspose.psd.imageloadoptions/jpeg2000loadoptions/maximumdecodingtime/) { get; set; } | Liest oder setzt die maximale Dekodierzeit in Sekunden (diese Option kann auf sehr langsamen, speicherarmen Maschinen verwendet werden, um ein Hängenbleiben bei der Verarbeitung sehr großer Bilder zu verhindern – Auflösung von mehr als 5500 x 6500 Pixeln). |
+| [ProgressEventHandler](../../aspose.psd/loadoptions/progresseventhandler/) { get; set; } | Liest oder setzt den Fortschritts-Event-Handler. |
+| [UseIccProfileConversion](../../aspose.psd/loadoptions/useiccprofileconversion/) { get; set; } | Liest oder setzt einen Wert, der angibt, ob die ICC-Profilkonvertierung angewendet werden soll. |
 
 ### Siehe auch
 
 * class [LoadOptions](../../aspose.psd/loadoptions/)
-* namensraum [Aspose.PSD.ImageLoadOptions](../../aspose.psd.imageloadoptions/)
-* Montage [Aspose.PSD](../../)
+* namespace [Aspose.PSD.ImageLoadOptions](../../aspose.psd.imageloadoptions/)
+* assembly [Aspose.PSD](../../)
 
 

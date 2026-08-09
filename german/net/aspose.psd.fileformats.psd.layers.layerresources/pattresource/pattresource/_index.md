@@ -1,14 +1,15 @@
 ---
-title: PattResource.PattResource
-second_title: Aspose.PSD für .NET-API-Referenz
-description: PattResource constructeur. Initialisiert eine neue Instanz vonPattResource Klasse.
+title: "PattResource.PattResource"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "PattResource-Konstruktor. Initialisiert eine neue Instanz der PattResource-Klasse"
 type: docs
 weight: 10
 url: /de/net/aspose.psd.fileformats.psd.layers.layerresources/pattresource/pattresource/
 ---
+{{< psd/tize >}}
 ## PattResource() {#constructor}
 
-Initialisiert eine neue Instanz von[`PattResource`](../) Klasse.
+Initialisiert eine neue Instanz der [`PattResource`](../)-Klasse.
 
 ```csharp
 public PattResource()
@@ -17,14 +18,14 @@ public PattResource()
 ### Siehe auch
 
 * class [PattResource](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../pattresource/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## PattResource(int, PattResourceData[]) {#constructor_1}
 
-Initialisiert eine neue Instanz von[`PattResource`](../) Klasse.
+Initialisiert eine neue Instanz der [`PattResource`](../)-Klasse.
 
 ```csharp
 public PattResource(int key, PattResourceData[] patterns)
@@ -32,14 +33,14 @@ public PattResource(int key, PattResourceData[] patterns)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| key | Int32 | Der Ressourcentypschlüssel. |
-| patterns | PattResourceData[] | Die Musterdaten. |
+| Schlüssel | Int32 | Der Ressourcentyp‑Schlüssel. |
+| Muster | PattResourceData[] | Die Musterdaten. |
 
 ### Siehe auch
 
 * class [PattResourceData](../../pattresourcedata/)
 * class [PattResource](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../pattresource/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

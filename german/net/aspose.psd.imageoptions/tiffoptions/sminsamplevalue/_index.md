@@ -1,27 +1,28 @@
 ---
-title: TiffOptions.SminSampleValue
-second_title: Aspose.PSD für .NET-API-Referenz
-description: TiffOptions eigendom. Ruft den minimalen Abtastwert ab oder setzt ihn. Der Wert hat einen Feldtyp der am besten zu den Beispieldaten passt Typ Byte Short oder Long.
+title: "TiffOptions.SminSampleValue"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "TiffOptions-Eigenschaft. Gibt den minimalen Stichprobenwert zurück oder legt ihn fest. Der Wert hat einen Feldtyp, der am besten zu den Stichprobendaten Byte, Short oder Long passt."
 type: docs
-weight: 440
+weight: 450
 url: /de/net/aspose.psd.imageoptions/tiffoptions/sminsamplevalue/
 ---
+{{< psd/tize >}}
 ## TiffOptions.SminSampleValue property
 
-Ruft den minimalen Abtastwert ab oder setzt ihn. Der Wert hat einen Feldtyp, der am besten zu den Beispieldaten passt (Typ Byte, Short oder Long).
+Liest oder setzt den minimalen Sample-Wert. Der Wert hat einen Feldtyp, der am besten zu den Sample-Daten passt (Byte-, Short- oder Long-Typ).
 
 ```csharp
 public uint[] SminSampleValue { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
-Der minimale Abtastwert.
+Der minimale Stichprobenwert.
 
 ### Siehe auch
 
 * class [TiffOptions](../)
-* namensraum [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

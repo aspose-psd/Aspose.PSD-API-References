@@ -1,27 +1,28 @@
 ---
-title: AiLayerSection.Green
-second_title: Aspose.PSD für .NET-API-Referenz
-description: AiLayerSection eigendom. Ruft die grüne Farbkomponente ab oder legt sie fest.
+title: "AiLayerSection.Green"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "AiLayerSection-Eigenschaft. Gibt den grünen Farbanteil zurück oder legt ihn fest."
 type: docs
-weight: 40
+weight: 50
 url: /de/net/aspose.psd.fileformats.ai/ailayersection/green/
 ---
+{{< psd/tize >}}
 ## AiLayerSection.Green property
 
-Ruft die grüne Farbkomponente ab oder legt sie fest.
+Liest oder setzt die grüne Farbkomponente.
 
 ```csharp
 public int Green { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
-Die grüne Farbkomponente.
+Der grüne Farbanteil.
 
 ### Siehe auch
 
 * class [AiLayerSection](../)
-* namensraum [Aspose.PSD.FileFormats.Ai](../../ailayersection/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

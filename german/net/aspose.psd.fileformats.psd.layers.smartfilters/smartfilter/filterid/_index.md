@@ -1,22 +1,23 @@
 ---
-title: SmartFilter.FilterId
-second_title: Aspose.PSD für .NET-API-Referenz
-description: SmartFilter eigendom. Ruft die Kennung des intelligenten Filtertyps ab.
+title: "SmartFilter.FilterId"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "SmartFilter-Eigenschaft. Gibt den Typbezeichner des Smartfilters zurück"
 type: docs
 weight: 30
 url: /de/net/aspose.psd.fileformats.psd.layers.smartfilters/smartfilter/filterid/
 ---
+{{< psd/tize >}}
 ## SmartFilter.FilterId property
 
-Ruft die Kennung des intelligenten Filtertyps ab.
+Liefert den Typbezeichner des Smart-Filters.
 
 ```csharp
 public abstract int FilterId { get; }
 ```
 
-### Beispiele
+## Beispiele
 
-Dieses Beispiel demonstriert die Unterstützung der Schnittstelle für intelligente Filter.
+Dieses Beispiel demonstriert die Unterstützung der Smart-Filter-Schnittstelle.
 
 ```csharp
 [C#]
@@ -36,7 +37,7 @@ using (var image = (PsdImage)Image.Load(sourceFilte))
 {
     SmartObjectLayer smartObj = (SmartObjectLayer)image.Layers[1];
 
-    // intelligente Filter bearbeiten
+    // Smart-Filter bearbeiten
     GaussianBlurSmartFilter gaussianBlur = (GaussianBlurSmartFilter)smartObj.SmartFilters.Filters[0];
 
     // Filterwerte prüfen
@@ -53,13 +54,13 @@ using (var image = (PsdImage)Image.Load(sourceFilte))
     AddNoiseSmartFilter addNoise = (AddNoiseSmartFilter)smartObj.SmartFilters.Filters[1];
     addNoise.Distribution = NoiseDistribution.Uniform;
 
-    // neue Filterelemente hinzufügen
+    // Neue Filterelemente hinzufügen
     var filters = new List<SmartFilter>(smartObj.SmartFilters.Filters);
     filters.Add(new GaussianBlurSmartFilter());
     filters.Add(new AddNoiseSmartFilter());
     smartObj.SmartFilters.Filters = filters.ToArray();
 
-    // Änderungen übernehmen
+    // Änderungen anwenden
     smartObj.SmartFilters.UpdateResourceValues();
 
     // Filter anwenden
@@ -89,7 +90,7 @@ using (var image = (PsdImage)Image.Load(outputPsd))
 ### Siehe auch
 
 * class [SmartFilter](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.SmartFilters](../../smartfilter/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.SmartFilters](../../../aspose.psd.fileformats.psd.layers.smartfilters/)
+* assembly [Aspose.PSD](../../../)
 
 

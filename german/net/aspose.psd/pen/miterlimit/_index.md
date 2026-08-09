@@ -1,33 +1,34 @@
 ---
-title: Pen.MiterLimit
-second_title: Aspose.PSD für .NET-API-Referenz
-description: Pen eigendom. Ruft die Grenze der Dicke der Verbindung an einer Gehrungsecke ab oder legt sie fest.
+title: "Pen.MiterLimit"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "Pen-Eigenschaft. Ruft die Begrenzung der Dicke der Verbindung an einer Gehrungsecke ab oder legt sie fest."
 type: docs
 weight: 140
 url: /de/net/aspose.psd/pen/miterlimit/
 ---
+{{< psd/tize >}}
 ## Pen.MiterLimit property
 
-Ruft die Grenze der Dicke der Verbindung an einer Gehrungsecke ab oder legt sie fest.
+Liest oder legt die Begrenzung der Dicke der Verbindung an einer Gehrungsecke fest.
 
 ```csharp
 public float MiterLimit { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
-Die Grenze der Dicke der Verbindung an einer Gehrungsecke.
+Die Begrenzung der Dicke der Verbindung an einer Gehrungsecke.
 
 ### Ausnahmen
 
 | Ausnahme | Bedingung |
 | --- | --- |
-| ArgumentException | Der`MiterLimit` Eigenschaft wird auf eine unveränderliche festgelegt[`Pen`](../) , wie die von der zurückgegebenen[`Pen`](../) Klasse. |
+| ArgumentException | Die `MiterLimit`-Eigenschaft wird bei einem unveränderlichen [`Pen`](../) festgelegt, wie z. B. bei denen, die von der [`Pen`](../)-Klasse zurückgegeben werden. |
 
 ### Siehe auch
 
 * class [Pen](../)
-* namensraum [Aspose.PSD](../../pen/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

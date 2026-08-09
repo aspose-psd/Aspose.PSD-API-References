@@ -1,28 +1,29 @@
 ---
-title: ExifData.LensSpecification
-second_title: Aspose.PSD für .NET-API-Referenz
-description: ExifData eigendom. Ruft die Objektivspezifikation ab oder legt sie fest
+title: "ExifData.LensSpecification"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "ExifData-Eigenschaft. Gibt die Linsenspezifikation zurück oder legt sie fest"
 type: docs
 weight: 760
 url: /de/net/aspose.psd.exif/exifdata/lensspecification/
 ---
+{{< psd/tize >}}
 ## ExifData.LensSpecification property
 
-Ruft die Objektivspezifikation ab oder legt sie fest
+Liest oder setzt die Objektivspezifikation.
 
 ```csharp
 public TiffRational[] LensSpecification { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
-Die Objektivspezifikation.
+Die Linsenspezifikation.
 
 ### Siehe auch
 
 * class [TiffRational](../../../aspose.psd.fileformats.tiff/tiffrational/)
 * class [ExifData](../)
-* namensraum [Aspose.PSD.Exif](../../exifdata/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

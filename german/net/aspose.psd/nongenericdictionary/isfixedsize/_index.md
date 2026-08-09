@@ -1,14 +1,15 @@
 ---
-title: NonGenericDictionary.IsFixedSize
-second_title: Aspose.PSD für .NET-API-Referenz
-description: NonGenericDictionary eigendom. Ruft einen Wert ab der angibt ob der IDictionary Objekt hat eine feste Größe.
+title: "NonGenericDictionary.IsFixedSize"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "NonGenericDictionary-Eigenschaft. Gibt einen Wert zurück, der angibt, ob das IDictionary-Objekt eine feste Größe hat"
 type: docs
 weight: 30
 url: /de/net/aspose.psd/nongenericdictionary/isfixedsize/
 ---
+{{< psd/tize >}}
 ## NonGenericDictionary.IsFixedSize property
 
-Ruft einen Wert ab, der angibt, ob der IDictionary Objekt hat eine feste Größe.
+Liest einen Wert, der angibt, ob das IDictionary‑Objekt eine feste Größe hat.
 
 ```csharp
 public bool IsFixedSize { get; }
@@ -16,12 +17,12 @@ public bool IsFixedSize { get; }
 
 ### Rückgabewert
 
-wahr, wenn dieIDictionary Objekt hat eine feste Größe; andernfalls falsch.
+true, wenn das IDictionary-Objekt eine feste Größe hat; andernfalls false.
 
 ### Siehe auch
 
 * class [NonGenericDictionary](../)
-* namensraum [Aspose.PSD](../../nongenericdictionary/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

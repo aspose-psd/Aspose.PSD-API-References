@@ -1,14 +1,15 @@
 ---
-title: PixelDataFormat.GetYcck
-second_title: Aspose.PSD für .NET-API-Referenz
-description: PixelDataFormat methode. Ruft YCCKFarbe mit einer bestimmten Anzahl von Bits pro Abtastung ab.
+title: "PixelDataFormat.GetYcck"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "PixelDataFormat-Methode. Liefert YCCK‑Farbe mit einer angegebenen Bit‑Anzahl pro Sample."
 type: docs
 weight: 290
 url: /de/net/aspose.psd/pixeldataformat/getycck/
 ---
+{{< psd/tize >}}
 ## PixelDataFormat.GetYcck method
 
-Ruft YCCK-Farbe mit einer bestimmten Anzahl von Bits pro Abtastung ab.
+Ermittelt YCCK-Farbe mit einer angegebenen Anzahl von Bits pro Sample.
 
 ```csharp
 public static PixelDataFormat GetYcck(int bitsPerSample)
@@ -25,7 +26,7 @@ Die YCCK-Farbe.
 ### Siehe auch
 
 * class [PixelDataFormat](../)
-* namensraum [Aspose.PSD](../../pixeldataformat/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

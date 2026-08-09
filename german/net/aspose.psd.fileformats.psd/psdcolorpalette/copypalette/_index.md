@@ -1,11 +1,12 @@
 ---
-title: PsdColorPalette.CopyPalette
-second_title: Aspose.PSD für .NET-API-Referenz
-description: PsdColorPalette methode. Kopiert die Palette.
+title: "PsdColorPalette.CopyPalette"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "PsdColorPalette-Methode. Kopiert die Palette."
 type: docs
 weight: 20
 url: /de/net/aspose.psd.fileformats.psd/psdcolorpalette/copypalette/
 ---
+{{< psd/tize >}}
 ## CopyPalette(IColorPalette, bool) {#copypalette_1}
 
 Kopiert die Palette.
@@ -17,18 +18,18 @@ public static PsdColorPalette CopyPalette(IColorPalette colorPalette, bool useCo
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
 | colorPalette | IColorPalette | Die Farbpalette. |
-| useCompactPalette | Boolean | Angabe, ob kompakte Palette. |
+| useCompactPalette | Boolean | Gibt an, ob die Palette kompakt ist. |
 
 ### Rückgabewert
 
-Die neu erstellte und kopierte Palette oder null, wenn die Null-Palette bestanden wurde.
+Die neu erstellte und kopierte Palette oder null, wenn eine null-Palette übergeben wurde.
 
 ### Siehe auch
 
 * interface [IColorPalette](../../../aspose.psd/icolorpalette/)
 * class [PsdColorPalette](../)
-* namensraum [Aspose.PSD.FileFormats.Psd](../../psdcolorpalette/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
@@ -46,13 +47,13 @@ public static PsdColorPalette CopyPalette(IColorPalette colorPalette)
 
 ### Rückgabewert
 
-Die neu erstellte und kopierte Palette oder null, wenn die Null-Palette bestanden wurde.
+Die neu erstellte und kopierte Palette oder null, wenn eine null-Palette übergeben wurde.
 
 ### Siehe auch
 
 * interface [IColorPalette](../../../aspose.psd/icolorpalette/)
 * class [PsdColorPalette](../)
-* namensraum [Aspose.PSD.FileFormats.Psd](../../psdcolorpalette/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

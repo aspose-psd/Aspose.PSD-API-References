@@ -1,34 +1,35 @@
 ---
-title: Pen.CustomEndCap
-second_title: Aspose.PSD für .NET-API-Referenz
-description: Pen eigendom. Ruft eine benutzerdefinierte Obergrenze ab oder legt sie fest die am Ende der damit gezeichneten Linien verwendet wirdPen .
+title: "Pen.CustomEndCap"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "Pen-Eigenschaft. Gibt einen benutzerdefinierten Abschluss zurück oder legt ihn fest, der am Ende von mit diesem Pen gezeichneten Linien verwendet wird."
 type: docs
 weight: 60
 url: /de/net/aspose.psd/pen/customendcap/
 ---
+{{< psd/tize >}}
 ## Pen.CustomEndCap property
 
-Ruft eine benutzerdefinierte Obergrenze ab oder legt sie fest, die am Ende der damit gezeichneten Linien verwendet wird[`Pen`](../) .
+Gibt einen benutzerdefinierten Abschluss zurück oder legt ihn fest, der am Ende von mit diesem [`Pen`](../) gezeichneten Linien verwendet wird.
 
 ```csharp
 public CustomLineCap CustomEndCap { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
-A[`CustomLineCap`](../../customlinecap/) das die Kappe darstellt, die am Ende der damit gezeichneten Linien verwendet wird[`Pen`](../).
+Ein [`CustomLineCap`](../../customlinecap/), das den am Ende von mit diesem [`Pen`](../) gezeichneten Linien verwendeten Abschluss darstellt.
 
 ### Ausnahmen
 
 | Ausnahme | Bedingung |
 | --- | --- |
-| ArgumentException | Der`CustomEndCap` Eigenschaft wird auf eine unveränderliche festgelegt[`Pen`](../) , wie die von der zurückgegebenen[`Pen`](../) Klasse. |
+| ArgumentException | Die `CustomEndCap`-Eigenschaft wird bei einem unveränderlichen [`Pen`](../) festgelegt, wie ihn die [`Pen`](../)-Klasse zurückgibt. |
 
 ### Siehe auch
 
 * class [CustomLineCap](../../customlinecap/)
 * class [Pen](../)
-* namensraum [Aspose.PSD](../../pen/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

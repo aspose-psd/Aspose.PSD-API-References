@@ -1,28 +1,29 @@
 ---
-title: PathGradientBrush.Blend
-second_title: Aspose.PSD für .NET-API-Referenz
-description: PathGradientBrush eigendom. Holt oder setzt aBlend die Positionen und Faktoren angibt die einen benutzerdefinierten Abfall für den Farbverlauf definieren.
+title: "PathGradientBrush.Blend"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "PathGradientBrush-Eigenschaft. Ruft ein Blend ab oder legt es fest, das Positionen und Faktoren angibt, die einen benutzerdefinierten Abfall für den Farbverlauf definieren."
 type: docs
 weight: 20
 url: /de/net/aspose.psd.brushes/pathgradientbrush/blend/
 ---
+{{< psd/tize >}}
 ## PathGradientBrush.Blend property
 
-Holt oder setzt a[`Blend`](../../../aspose.psd/blend/) die Positionen und Faktoren angibt, die einen benutzerdefinierten Abfall für den Farbverlauf definieren.
+Ruft ein [`Blend`](../../../aspose.psd/blend/)-Objekt ab oder legt es fest, das Positionen und Faktoren angibt, die einen benutzerdefinierten Abfall für den Verlauf definieren.
 
 ```csharp
 public Blend Blend { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
-A[`Blend`](../../../aspose.psd/blend/) das einen benutzerdefinierten Abfall für den Farbverlauf darstellt.
+Ein [`Blend`](../../../aspose.psd/blend/), das einen benutzerdefinierten Abfall für den Verlauf darstellt.
 
 ### Siehe auch
 
 * class [Blend](../../../aspose.psd/blend/)
 * class [PathGradientBrush](../)
-* namensraum [Aspose.PSD.Brushes](../../pathgradientbrush/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: ObjectWithBounds.GetBounds
-second_title: Aspose.PSD für .NET-API-Referenz
-description: ObjectWithBounds methode. Ruft die Grenzen des Objekts ab.
+title: "ObjectWithBounds.GetBounds"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "ObjectWithBounds-Methode. Gibt die Begrenzungen des Objekts zurück."
 type: docs
 weight: 20
 url: /de/net/aspose.psd/objectwithbounds/getbounds/
 ---
+{{< psd/tize >}}
 ## GetBounds(Matrix) {#getbounds}
 
-Ruft die Grenzen des Objekts ab.
+Liest die Begrenzungen des Objekts.
 
 ```csharp
 public abstract RectangleF GetBounds(Matrix matrix)
@@ -16,25 +17,25 @@ public abstract RectangleF GetBounds(Matrix matrix)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| matrix | Matrix | Die anzuwendende Matrix vor den Grenzen wird berechnet. |
+| Matrix | Matrix | Die Matrix, die angewendet wird, bevor die Begrenzungen berechnet werden. |
 
 ### Rückgabewert
 
-Die Grenzen des geschätzten Objekts.
+Die geschätzten Begrenzungen des Objekts.
 
 ### Siehe auch
 
 * struct [RectangleF](../../rectanglef/)
 * class [Matrix](../../matrix/)
 * class [ObjectWithBounds](../)
-* namensraum [Aspose.PSD](../../objectwithbounds/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## GetBounds(Matrix, Pen) {#getbounds_1}
 
-Ruft die Grenzen des Objekts ab.
+Liest die Begrenzungen des Objekts.
 
 ```csharp
 public abstract RectangleF GetBounds(Matrix matrix, Pen pen)
@@ -42,12 +43,12 @@ public abstract RectangleF GetBounds(Matrix matrix, Pen pen)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| matrix | Matrix | Die anzuwendende Matrix vor den Grenzen wird berechnet. |
-| pen | Pen | Der für das Objekt zu verwendende Stift. Dies kann die Begrenzungsgröße des Objekts beeinflussen. |
+| Matrix | Matrix | Die Matrix, die angewendet wird, bevor die Begrenzungen berechnet werden. |
+| Stift | Stift | Der Stift, der für das Objekt verwendet wird. Dieser kann die Größe der Begrenzungen des Objekts beeinflussen. |
 
 ### Rückgabewert
 
-Die Grenzen des geschätzten Objekts.
+Die geschätzten Begrenzungen des Objekts.
 
 ### Siehe auch
 
@@ -55,7 +56,7 @@ Die Grenzen des geschätzten Objekts.
 * class [Matrix](../../matrix/)
 * class [Pen](../../pen/)
 * class [ObjectWithBounds](../)
-* namensraum [Aspose.PSD](../../objectwithbounds/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

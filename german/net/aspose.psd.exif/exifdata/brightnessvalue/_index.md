@@ -1,11 +1,12 @@
 ---
-title: ExifData.BrightnessValue
-second_title: Aspose.PSD für .NET-API-Referenz
-description: ExifData eigendom. Liest oder setzt den Helligkeitswert.
+title: "ExifData.BrightnessValue"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "ExifData-Eigenschaft. Liest oder setzt den Helligkeitswert"
 type: docs
 weight: 40
 url: /de/net/aspose.psd.exif/exifdata/brightnessvalue/
 ---
+{{< psd/tize >}}
 ## ExifData.BrightnessValue property
 
 Liest oder setzt den Helligkeitswert.
@@ -14,7 +15,7 @@ Liest oder setzt den Helligkeitswert.
 public TiffSRational BrightnessValue { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
 Der Helligkeitswert.
 
@@ -22,7 +23,7 @@ Der Helligkeitswert.
 
 * class [TiffSRational](../../../aspose.psd.fileformats.tiff/tiffsrational/)
 * class [ExifData](../)
-* namensraum [Aspose.PSD.Exif](../../exifdata/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: Enum DitheringMethod
-second_title: Aspose.PSD für .NET-API-Referenz
-description: Aspose.PSD.DitheringMethod opsomming. DitheringMethode.
+title: "Enum DitheringMethod"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "Aspose.PSD.DitheringMethod-Enum. Dithering-Methode"
 type: docs
-weight: 770
+weight: 780
 url: /de/net/aspose.psd/ditheringmethod/
 ---
+{{< psd/tize >}}
 ## DitheringMethod enumeration
 
 Dithering-Methode.
@@ -18,12 +19,12 @@ public enum DitheringMethod
 
 | Name | Wert | Beschreibung |
 | --- | --- | --- |
-| ThresholdDithering | `0` | Schwellwertdithering. Einfachster und schnellster Dithering-Algorithmus. |
-| FloydSteinbergDithering | `1` | Das Floyd-Steinberg-Dithering. Ein komplexerer Dithering-Algorithmus verwendet die Intensitätswerte der nächsten Nachbarn. |
+| ThresholdDithering | `0` | Schwellwert-Dithering. Der einfachste und schnellste Dithering-Algorithmus. |
+| FloydSteinbergDithering | `1` | Das Floyd‑Steinberg-Dithering. Ein komplexerer Dithering-Algorithmus, der Intensitätswerte der nächsten Nachbarn verwendet. |
 
 ### Siehe auch
 
-* namensraum [Aspose.PSD](../../aspose.psd/)
-* Montage [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

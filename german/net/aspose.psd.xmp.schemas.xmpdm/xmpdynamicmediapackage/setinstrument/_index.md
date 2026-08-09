@@ -1,14 +1,15 @@
 ---
-title: XmpDynamicMediaPackage.SetInstrument
-second_title: Aspose.PSD für .NET-API-Referenz
-description: XmpDynamicMediaPackage methode. Stellt das Instrument ein.
+title: "XmpDynamicMediaPackage.SetInstrument"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "XmpDynamicMediaPackage-Methode. Setzt das Instrument"
 type: docs
 weight: 240
 url: /de/net/aspose.psd.xmp.schemas.xmpdm/xmpdynamicmediapackage/setinstrument/
 ---
+{{< psd/tize >}}
 ## XmpDynamicMediaPackage.SetInstrument method
 
-Stellt das Instrument ein.
+Legt das Instrument fest.
 
 ```csharp
 public void SetInstrument(string instrument)
@@ -16,12 +17,12 @@ public void SetInstrument(string instrument)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| instrument | String | Das Instrument. |
+| Instrument | String | Das Instrument. |
 
 ### Siehe auch
 
 * class [XmpDynamicMediaPackage](../)
-* namensraum [Aspose.PSD.Xmp.Schemas.XmpDm](../../xmpdynamicmediapackage/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpDm](../../../aspose.psd.xmp.schemas.xmpdm/)
+* assembly [Aspose.PSD](../../../)
 
 

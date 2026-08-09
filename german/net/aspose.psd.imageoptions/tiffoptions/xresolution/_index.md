@@ -1,20 +1,21 @@
 ---
-title: TiffOptions.Xresolution
-second_title: Aspose.PSD für .NET-API-Referenz
-description: TiffOptions eigendom. Ruft die xAuflösung ab oder legt sie fest.
+title: "TiffOptions.Xresolution"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "TiffOptions property. Gibt die x-Auflösung zurück oder legt sie fest"
 type: docs
-weight: 650
+weight: 660
 url: /de/net/aspose.psd.imageoptions/tiffoptions/xresolution/
 ---
+{{< psd/tize >}}
 ## TiffOptions.Xresolution property
 
-Ruft die x-Auflösung ab oder legt sie fest.
+Liest oder setzt die x-Auflösung.
 
 ```csharp
 public TiffRational Xresolution { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
 Die x-Auflösung.
 
@@ -22,7 +23,7 @@ Die x-Auflösung.
 
 * class [TiffRational](../../../aspose.psd.fileformats.tiff/tiffrational/)
 * class [TiffOptions](../)
-* namensraum [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

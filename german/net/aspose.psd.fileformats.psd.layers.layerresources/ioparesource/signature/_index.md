@@ -1,14 +1,15 @@
 ---
-title: IopaResource.Signature
-second_title: Aspose.PSD für .NET-API-Referenz
-description: IopaResource eigendom. Ruft die Signatur ab.
+title: "IopaResource.Signature"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "IopaResource Eigenschaft. Gibt die Signatur zurück"
 type: docs
 weight: 60
 url: /de/net/aspose.psd.fileformats.psd.layers.layerresources/ioparesource/signature/
 ---
+{{< psd/tize >}}
 ## IopaResource.Signature property
 
-Ruft die Signatur ab.
+Liest die Signatur.
 
 ```csharp
 public override int Signature { get; }
@@ -17,7 +18,7 @@ public override int Signature { get; }
 ### Siehe auch
 
 * class [IopaResource](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../ioparesource/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

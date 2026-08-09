@@ -1,26 +1,27 @@
 ---
-title: DropShadowEffect.IsVisible
-second_title: Aspose.PSD für .NET-API-Referenz
-description: DropShadowEffect eigendom. Ruft einen Wert ab oder legt einen Wert fest der angibt ob diese Instanz sichtbar ist.
+title: "DropShadowEffect.IsVisible"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "DropShadowEffect property. Gibt einen Wert zurück oder legt ihn fest, der angibt, ob diese Instanz sichtbar ist."
 type: docs
 weight: 60
 url: /de/net/aspose.psd.fileformats.psd.layers.layereffects/dropshadoweffect/isvisible/
 ---
+{{< psd/tize >}}
 ## DropShadowEffect.IsVisible property
 
-Ruft einen Wert ab oder legt einen Wert fest, der angibt, ob diese Instanz sichtbar ist.
+Liest oder setzt einen Wert, der angibt, ob diese Instanz sichtbar ist.
 
 ```csharp
 public bool IsVisible { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
-`WAHR` wenn diese Instanz sichtbar ist; ansonsten,`FALSCH` .
+`true` wenn diese Instanz sichtbar ist; andernfalls `false`.
 
-### Beispiele
+## Beispiele
 
-Der folgende Code veranschaulicht die Verwendung der Opacity-Eigenschaft von DropShadowEffect.
+Der folgende Code demonstriert die Verwendung der Opacity-Eigenschaft von DropShadowEffect.
 
 ```csharp
 [C#]
@@ -37,11 +38,11 @@ using (PsdImage psdImage = (PsdImage)Image.Load(inputFile, new LoadOptions()))
     dropShadowEffect.Distance = 0;
     dropShadowEffect.Size = 8;
 
-    // Beispiel mit Deckkraft = 20
+    // Beispiel mit Opacity = 20
     dropShadowEffect.Opacity = 20;
     psdImage.Save(outputImage20, new PngOptions());
 
-    // Beispiel mit Deckkraft = 200
+    // Beispiel mit Opacity = 200
     dropShadowEffect.Opacity = 200;
     psdImage.Save(outputImage200, new PngOptions());
 }
@@ -50,7 +51,7 @@ using (PsdImage psdImage = (PsdImage)Image.Load(inputFile, new LoadOptions()))
 ### Siehe auch
 
 * class [DropShadowEffect](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../dropshadoweffect/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../../)
 
 

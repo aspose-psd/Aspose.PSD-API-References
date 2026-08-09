@@ -1,14 +1,15 @@
 ---
-title: Layer.LayerHeaderSize
-second_title: Aspose.PSD für .NET-API-Referenz
-description: Layer veld. Die Größe des LayerHeaders.
+title: "Layer.LayerHeaderSize"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "Layer-Feld. Die Größe des Layer-Headers"
 type: docs
-weight: 400
+weight: 420
 url: /de/net/aspose.psd.fileformats.psd.layers/layer/layerheadersize/
 ---
+{{< psd/tize >}}
 ## Layer.LayerHeaderSize field
 
-Die Größe des Layer-Headers.
+Die Größe des Ebenen‑Headers.
 
 ```csharp
 public const int LayerHeaderSize;
@@ -17,7 +18,7 @@ public const int LayerHeaderSize;
 ### Siehe auch
 
 * class [Layer](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers](../../layer/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,28 +1,29 @@
 ---
-title: PsdImage.SmartObjectProvider
-second_title: Aspose.PSD für .NET-API-Referenz
-description: PsdImage eigendom. Ruft den SmartObjektAnbieter ab.
+title: "PsdImage.SmartObjectProvider"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "PsdImage-Eigenschaft. Gibt den Smart-Object-Provider zurück"
 type: docs
 weight: 240
 url: /de/net/aspose.psd.fileformats.psd/psdimage/smartobjectprovider/
 ---
+{{< psd/tize >}}
 ## PsdImage.SmartObjectProvider property
 
-Ruft den Smart-Objekt-Anbieter ab.
+Liest den Anbieter für intelligente Objekte.
 
 ```csharp
 public SmartObjectProvider SmartObjectProvider { get; }
 ```
 
-### Eigentumswert
+### Property Value
 
-Der intelligente Objektanbieter.
+Der Smart Object Provider.
 
 ### Siehe auch
 
 * class [SmartObjectProvider](../../smartobjectprovider/)
 * class [PsdImage](../)
-* namensraum [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

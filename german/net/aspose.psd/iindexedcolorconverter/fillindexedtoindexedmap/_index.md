@@ -1,14 +1,15 @@
 ---
-title: IIndexedColorConverter.FillIndexedtoIndexedMap
-second_title: Aspose.PSD für .NET-API-Referenz
-description: IIndexedColorConverter methode. Füllt die Konvertierungskarte von indiziert zu indiziertem Bild.
+title: "IIndexedColorConverter.FillIndexedtoIndexedMap"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "IIndexedColorConverter-Methode. Füllt die Indexed-zu-Indexed-Bildkonvertierungskarte."
 type: docs
 weight: 10
 url: /de/net/aspose.psd/iindexedcolorconverter/fillindexedtoindexedmap/
 ---
+{{< psd/tize >}}
 ## IIndexedColorConverter.FillIndexedtoIndexedMap method
 
-Füllt die Konvertierungskarte von indiziert zu indiziertem Bild.
+Füllt die Index-zu-Index-Bildkonvertierungskarte.
 
 ```csharp
 public void FillIndexedtoIndexedMap(byte[] map, PixelDataFormat sourceFormat, 
@@ -17,7 +18,7 @@ public void FillIndexedtoIndexedMap(byte[] map, PixelDataFormat sourceFormat,
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| map | Byte[] | Die Konversionskarte. |
+| Karte | Byte[] | Die Konvertierungskarte. |
 | sourceFormat | PixelDataFormat | Das Quellformat. |
 | destFormat | PixelDataFormat | Das Zielformat. |
 
@@ -25,7 +26,7 @@ public void FillIndexedtoIndexedMap(byte[] map, PixelDataFormat sourceFormat,
 
 * class [PixelDataFormat](../../pixeldataformat/)
 * interface [IIndexedColorConverter](../)
-* namensraum [Aspose.PSD](../../iindexedcolorconverter/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

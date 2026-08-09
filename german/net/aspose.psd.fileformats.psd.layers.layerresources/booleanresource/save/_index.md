@@ -1,11 +1,12 @@
 ---
-title: BooleanResource.Save
-second_title: Aspose.PSD für .NET-API-Referenz
-description: BooleanResource methode. Speichert den angegebenen StreamContainer.
+title: "BooleanResource.Save"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "BooleanResource-Methode. Speichert den angegebenen Stream-Container"
 type: docs
-weight: 40
+weight: 20
 url: /de/net/aspose.psd.fileformats.psd.layers.layerresources/booleanresource/save/
 ---
+{{< psd/tize >}}
 ## BooleanResource.Save method
 
 Speichert den angegebenen Stream-Container.
@@ -16,14 +17,14 @@ public override void Save(StreamContainer streamContainer, int psdVersion)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| streamContainer | StreamContainer | Der Stream-Container. |
+| `streamContainer` | StreamContainer | Der StreamContainer. |
 | psdVersion | Int32 | Die PSD-Version. |
 
 ### Siehe auch
 
 * class [StreamContainer](../../../aspose.psd/streamcontainer/)
 * class [BooleanResource](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../booleanresource/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

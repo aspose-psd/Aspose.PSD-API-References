@@ -1,27 +1,28 @@
 ---
-title: TiffOptions.ScannerManufacturer
-second_title: Aspose.PSD für .NET-API-Referenz
-description: TiffOptions eigendom. Ruft den Scannerhersteller ab oder legt ihn fest.
+title: "TiffOptions.ScannerManufacturer"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "TiffOptions-Eigenschaft. Gibt den Scannerhersteller zurück oder legt ihn fest."
 type: docs
-weight: 410
+weight: 420
 url: /de/net/aspose.psd.imageoptions/tiffoptions/scannermanufacturer/
 ---
+{{< psd/tize >}}
 ## TiffOptions.ScannerManufacturer property
 
-Ruft den Scannerhersteller ab oder legt ihn fest.
+Liest oder setzt den Scanner-Hersteller.
 
 ```csharp
 public string ScannerManufacturer { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
 Der Scannerhersteller.
 
 ### Siehe auch
 
 * class [TiffOptions](../)
-* namensraum [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

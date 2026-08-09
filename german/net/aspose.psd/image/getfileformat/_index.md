@@ -1,14 +1,15 @@
 ---
-title: Image.GetFileFormat
-second_title: Aspose.PSD für .NET-API-Referenz
-description: Image methode. Ruft das Dateiformat ab.
+title: "Image.GetFileFormat"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "Image-Methode. Gibt das Dateiformat zurück"
 type: docs
-weight: 260
+weight: 270
 url: /de/net/aspose.psd/image/getfileformat/
 ---
+{{< psd/tize >}}
 ## GetFileFormat(string) {#getfileformat_1}
 
-Ruft das Dateiformat ab.
+Liefert das Dateiformat.
 
 ```csharp
 public static FileFormat GetFileFormat(string filePath)
@@ -22,22 +23,22 @@ public static FileFormat GetFileFormat(string filePath)
 
 Das ermittelte Dateiformat.
 
-### Bemerkungen
+## Hinweise
 
-Das ermittelte Dateiformat bedeutet nicht, dass das angegebene Bild geladen werden darf. Verwenden Sie eine der CanLoad-Methodenüberladungen, um zu bestimmen, ob die Datei geladen werden kann.
+Das ermittelte Dateiformat bedeutet nicht, dass das angegebene Bild geladen werden kann. Verwenden Sie eine der Überladungen der CanLoad-Methode, um zu bestimmen, ob die Datei geladen werden kann.
 
 ### Siehe auch
 
 * enum [FileFormat](../../fileformat/)
 * class [Image](../)
-* namensraum [Aspose.PSD](../../image/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## GetFileFormat(Stream) {#getfileformat}
 
-Ruft das Dateiformat ab.
+Liefert das Dateiformat.
 
 ```csharp
 public static FileFormat GetFileFormat(Stream stream)
@@ -45,21 +46,21 @@ public static FileFormat GetFileFormat(Stream stream)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| stream | Stream | Der Strom. |
+| Strom | Stream | Der Stream. |
 
 ### Rückgabewert
 
 Das ermittelte Dateiformat.
 
-### Bemerkungen
+## Hinweise
 
-Das ermittelte Dateiformat bedeutet nicht, dass das angegebene Bild geladen werden darf. Verwenden Sie eine der CanLoad-Methodenüberladungen, um zu bestimmen, ob der Stream geladen werden kann.
+Das ermittelte Dateiformat bedeutet nicht, dass das angegebene Bild geladen werden kann. Verwenden Sie eine der Überladungen der CanLoad-Methode, um zu bestimmen, ob der Stream geladen werden kann.
 
 ### Siehe auch
 
 * enum [FileFormat](../../fileformat/)
 * class [Image](../)
-* namensraum [Aspose.PSD](../../image/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

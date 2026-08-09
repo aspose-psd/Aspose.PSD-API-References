@@ -1,14 +1,15 @@
 ---
-title: SmartObjectLayer.ReplaceContents
-second_title: Aspose.PSD für .NET-API-Referenz
-description: SmartObjectLayer methode. Ersetzt die in die SmartObjektEbene eingebetteten SmartObjektInhalte.
+title: "SmartObjectLayer.ReplaceContents"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "SmartObjectLayer-Methode. Ersetzt die in der Smart-Object-Ebene eingebetteten Inhalte des Smart-Objects."
 type: docs
-weight: 140
+weight: 160
 url: /de/net/aspose.psd.fileformats.psd.layers.smartobjects/smartobjectlayer/replacecontents/
 ---
+{{< psd/tize >}}
 ## ReplaceContents(Image) {#replacecontents}
 
-Ersetzt die in die Smart-Objekt-Ebene eingebetteten Smart-Objekt-Inhalte.
+Ersetzt die in der Smart‑Object‑Ebene eingebetteten Smart‑Object‑Inhalte.
 
 ```csharp
 public void ReplaceContents(Image image)
@@ -18,9 +19,9 @@ public void ReplaceContents(Image image)
 | --- | --- | --- |
 | image | Image | Das Bild. |
 
-### Beispiele
+## Beispiele
 
-Der folgende Code demonstriert die Unterstützung eingebetteter Smart-Objekte.
+Der folgende Code demonstriert die Unterstützung eingebetteter Smart‑Objekte.
 
 ```csharp
 [C#]
@@ -33,7 +34,7 @@ void AssertAreEqual(object actual, object expected)
     }
 }
 
-// Dieses Beispiel zeigt, wie die Smart-Objekt-Ebene in der PSD-Datei geändert und der ursprünglich eingebettete Inhalt des Smart-Objekts exportiert/aktualisiert wird.
+// Dieses Beispiel zeigt, wie man die Smart‑Object‑Ebene in der PSD‑Datei ändert und die ursprünglichen eingebetteten Inhalte des Smart‑Objects exportiert / aktualisiert.
 const int left = 0;
 const int top = 0;
 const int right = 0xb;
@@ -62,10 +63,10 @@ foreach (FileFormat format in formats)
         AssertAreEqual(right, smartObjectLayer.ContentsBounds.Right);
         AssertAreEqual(bottom, smartObjectLayer.ContentsBounds.Bottom);
 
-        // Lassen Sie uns das eingebettete Smart-Objekt-Bild aus der PSD-Smart-Objekt-Ebene exportieren
+        // Exportieren wir das eingebettete Smart‑Object‑Bild aus der PSD‑Smart‑Object‑Ebene.
         smartObjectLayer.ExportContents(exportPath);
 
-        // Prüfen wir, ob das Originalbild korrekt gespeichert wurde
+        // Überprüfen wir, ob das Originalbild korrekt gespeichert wurde
         image.Save(psdOutputPath, new PsdOptions(image));
         image.Save(pngOutputPath, new PngOptions() { ColorType = PngColorType.TruecolorWithAlpha });
 
@@ -73,7 +74,7 @@ foreach (FileFormat format in formats)
         {
             AssertAreEqual(format, innerImage.FileFormat);
 
-            // Lassen Sie uns das ursprüngliche Smart-Objekt-Bild invertieren
+            // Lassen Sie das ursprüngliche Smart‑Object‑Bild invertieren
             var pixels = innerImage.LoadArgb32Pixels(innerImage.Bounds);
             for (int i = 0; i < pixels.Length; i++)
             {
@@ -84,11 +85,11 @@ foreach (FileFormat format in formats)
 
             innerImage.SaveArgb32Pixels(innerImage.Bounds, pixels);
 
-            // Lassen Sie uns das eingebettete Smart-Objekt-Bild in der PSD-Ebene ersetzen
+            // Lassen Sie das eingebettete Smart‑Object‑Bild in der PSD‑Ebene ersetzen
             smartObjectLayer.ReplaceContents(innerImage);
         }
 
-        // Prüfen wir, ob das aktualisierte Bild korrekt gespeichert wird
+        // Lassen Sie prüfen, ob das aktualisierte Bild korrekt gespeichert wurde
         image.Save(psd2OutputPath, new PsdOptions(image));
         image.Save(png2OutputPath, new PngOptions() { ColorType = PngColorType.TruecolorWithAlpha });
     }
@@ -99,14 +100,14 @@ foreach (FileFormat format in formats)
 
 * class [Image](../../../aspose.psd/image/)
 * class [SmartObjectLayer](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.SmartObjects](../../smartobjectlayer/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.SmartObjects](../../../aspose.psd.fileformats.psd.layers.smartobjects/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## ReplaceContents(Image, ResolutionSetting) {#replacecontents_1}
 
-Ersetzt die in die Smart-Objekt-Ebene eingebetteten Smart-Objekt-Inhalte.
+Ersetzt die in der Smart‑Object‑Ebene eingebetteten Smart‑Object‑Inhalte.
 
 ```csharp
 public void ReplaceContents(Image image, ResolutionSetting resolution)
@@ -115,28 +116,28 @@ public void ReplaceContents(Image image, ResolutionSetting resolution)
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
 | image | Image | Das Bild. |
-| resolution | ResolutionSetting | Die Auflösungseinstellungen. Bei null wird die Bildauflösung verwendet. |
+| Auflösung | ResolutionSetting | Die Auflösungseinstellungen. Wenn null, wird die Bildauflösung verwendet. |
 
 ### Ausnahmen
 
 | Ausnahme | Bedingung |
 | --- | --- |
-| [PsdImageException](../../../aspose.psd.coreexceptions.imageformats/psdimageexception/) | Kann nur eingebettetes Smart-Objekt ersetzen. |
+| [PsdImageException](../../../aspose.psd.coreexceptions.imageformats/psdimageexception/) | Kann nur eingebettete Smart-Objects ersetzen. |
 
-### Beispiele
+## Beispiele
 
-Dieses Beispiel zeigt, dass die ReplaceContents-Methode ordnungsgemäß funktioniert, wenn die neue Inhaltsdatei eine andere Auflösung hat.
+Dieses Beispiel zeigt, dass die ReplaceContents-Methode korrekt funktioniert, wenn die neue Inhaltsdatei eine andere Auflösung hat.
 
 ```csharp
 [C#]
 
 // Dieses Beispiel zeigt, dass die ReplaceContents-Methode korrekt funktioniert, wenn die neue Inhaltsdatei eine andere Auflösung hat.
 string fileName = "CommonPsb.psd";
-string filePath = baseFolder + fileName; // Original-PSD-Bild
-string newContentPath = baseFolder + "image.jpg"; // die neue Inhaltsdatei für das Smart-Objekt
+string filePath = baseFolder + fileName; // original PSD image
+string newContentPath = baseFolder + "image.jpg"; // the new content file for the smart object
 string outputFilePath = outputFolder + "ChangedPsd";
-string pngOutputPath = outputFilePath + ".png"; // die ausgegebene PNG-Datei
-string psdOutputPath = outputFilePath + ".psd"; // die Ausgabe-PSD-Datei
+string pngOutputPath = outputFilePath + ".png"; // the output PNG file
+string psdOutputPath = outputFilePath + ".psd"; // the output PSD file
 using (PsdImage psd = (PsdImage)Image.Load(filePath))
 {
     for (int i = 0; i < psd.Layers.Length; i++)
@@ -159,14 +160,14 @@ using (PsdImage psd = (PsdImage)Image.Load(filePath))
 * class [Image](../../../aspose.psd/image/)
 * class [ResolutionSetting](../../../aspose.psd/resolutionsetting/)
 * class [SmartObjectLayer](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.SmartObjects](../../smartobjectlayer/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.SmartObjects](../../../aspose.psd.fileformats.psd.layers.smartobjects/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## ReplaceContents(string, ResolutionSetting) {#replacecontents_3}
 
-Ersetzt den Inhalt durch eine Datei. Es besteht keine Notwendigkeit, die UpdateModifiedContent-Methode danach aufzurufen.
+Ersetzt den Inhalt durch eine Datei. Es ist nicht erforderlich, danach die Methode UpdateModifiedContent aufzurufen.
 
 ```csharp
 public void ReplaceContents(string linkedPath, ResolutionSetting resolution)
@@ -174,23 +175,46 @@ public void ReplaceContents(string linkedPath, ResolutionSetting resolution)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| linkedPath | String | Der verlinkte Pfad. |
-| resolution | ResolutionSetting | Die Auflösungseinstellungen. Bei null wird die Bildauflösung verwendet. |
+| linkedPath | String | Der verknüpfte Pfad. |
+| Auflösung | ResolutionSetting | Die Auflösungseinstellungen. Wenn null, wird die Bildauflösung verwendet. |
 
-### Beispiele
+### Siehe auch
 
-Dieses Beispiel zeigt, dass die ReplaceContents-Methode ordnungsgemäß funktioniert, wenn die neue Inhaltsdatei eine andere Auflösung hat.
+* class [ResolutionSetting](../../../aspose.psd/resolutionsetting/)
+* class [SmartObjectLayer](../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.SmartObjects](../../../aspose.psd.fileformats.psd.layers.smartobjects/)
+* assembly [Aspose.PSD](../../../)
+
+---
+
+## ReplaceContents(string, ResolutionSetting, bool) {#replacecontents_4}
+
+Ersetzt den Inhalt durch eine Datei. Es ist nicht erforderlich, danach die Methode UpdateModifiedContent aufzurufen.
+
+```csharp
+public void ReplaceContents(string linkedPath, ResolutionSetting resolution, bool isReplaceOnlyThis)
+```
+
+| Parameter | Typ | Beschreibung |
+| --- | --- | --- |
+| linkedPath | String | Der verknüpfte Pfad. |
+| Auflösung | ResolutionSetting | Die Auflösungseinstellungen. Wenn null, wird die Bildauflösung verwendet. |
+| isReplaceOnlyThis | Boolean | Die Flagge zeigt, den Inhalt von dieser Smart Layer oder für alle Smart Layers mit diesem Inhalt zu ersetzen. |
+
+## Beispiele
+
+Dieses Beispiel zeigt, dass die ReplaceContents-Methode korrekt funktioniert, wenn die neue Inhaltsdatei eine andere Auflösung hat.
 
 ```csharp
 [C#]
 
 // Dieses Beispiel zeigt, dass die ReplaceContents-Methode korrekt funktioniert, wenn die neue Inhaltsdatei eine andere Auflösung hat.
 string fileName = "CommonPsb.psd";
-string filePath = baseFolder + fileName; // Original-PSD-Bild
-string newContentPath = baseFolder + "image.jpg"; // die neue Inhaltsdatei für das Smart-Objekt
+string filePath = baseFolder + fileName; // original PSD image
+string newContentPath = baseFolder + "image.jpg"; // the new content file for the smart object
 string outputFilePath = outputFolder + "ChangedPsd";
-string pngOutputPath = outputFilePath + ".png"; // die ausgegebene PNG-Datei
-string psdOutputPath = outputFilePath + ".psd"; // die Ausgabe-PSD-Datei
+string pngOutputPath = outputFilePath + ".png"; // the output PNG file
+string psdOutputPath = outputFilePath + ".psd"; // the output PSD file
 using (PsdImage psd = (PsdImage)Image.Load(filePath))
 {
     for (int i = 0; i < psd.Layers.Length; i++)
@@ -208,18 +232,54 @@ using (PsdImage psd = (PsdImage)Image.Load(filePath))
 }
 ```
 
+Der folgende Code demonstriert die Unterstützung des Ersetzens von Inhalten in vielen Smart Objects, die dieselbe Quellreferenz haben.
+
+```csharp
+[C#]
+
+string srcFile = "Source.psd";
+string replaceAll = "replaceAll.jpg";
+string replaceOne = "replaceOne.jpg";
+string outFileImgAll = "output_All.png";
+string outFileImgOne = "output_one.png";
+
+// Dies wird denselben Kontext in allen Smart Layers mit demselben Link ersetzen.
+using (var image = (PsdImage)Image.Load(srcFile))
+{
+    var smartObjectLayer = (SmartObjectLayer)image.Layers[1];
+
+    // Dies wird den Inhalt in allen SmartLayers ersetzen, die denselben Inhalt verwenden.
+    smartObjectLayer.ReplaceContents(replaceAll, false);
+    smartObjectLayer.UpdateModifiedContent();
+
+    image.Save(outFileImgAll, new PngOptions());
+}
+
+//Dies wird den Kontext nur der ausgewählten Layer ersetzen und alle anderen mit demselben Kontext unverändert lassen.
+using (var image = (PsdImage)Image.Load(srcFile))
+{
+    var smartObjectLayer = (SmartObjectLayer)image.Layers[1];
+
+    // Es ersetzt den Inhalt nur in der ausgewählten SmartLayer.
+    smartObjectLayer.ReplaceContents(replaceOne, true);
+    smartObjectLayer.UpdateModifiedContent();
+
+    image.Save(outFileImgOne, new PngOptions());
+}
+```
+
 ### Siehe auch
 
 * class [ResolutionSetting](../../../aspose.psd/resolutionsetting/)
 * class [SmartObjectLayer](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.SmartObjects](../../smartobjectlayer/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.SmartObjects](../../../aspose.psd.fileformats.psd.layers.smartobjects/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## ReplaceContents(string) {#replacecontents_2}
 
-Ersetzt den Inhalt durch eine Datei. Es besteht keine Notwendigkeit, die UpdateModifiedContent-Methode danach aufzurufen.
+Ersetzt den Inhalt durch eine Datei. Es ist nicht erforderlich, danach die Methode UpdateModifiedContent aufzurufen.
 
 ```csharp
 public void ReplaceContents(string linkedPath)
@@ -227,11 +287,68 @@ public void ReplaceContents(string linkedPath)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| linkedPath | String | Der verlinkte Pfad. |
+| linkedPath | String | Der verknüpfte Pfad. |
 
-### Beispiele
+### Siehe auch
 
-Der folgende Code demonstriert die Unterstützung der Aktualisierung verknüpfter Smart-Objekte.
+* class [SmartObjectLayer](../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.SmartObjects](../../../aspose.psd.fileformats.psd.layers.smartobjects/)
+* assembly [Aspose.PSD](../../../)
+
+---
+
+## ReplaceContents(string, bool) {#replacecontents_5}
+
+Ersetzt den Inhalt durch eine Datei. Es ist nicht erforderlich, danach die Methode UpdateModifiedContent aufzurufen.
+
+```csharp
+public void ReplaceContents(string linkedPath, bool isReplaceOnlyThis)
+```
+
+| Parameter | Typ | Beschreibung |
+| --- | --- | --- |
+| linkedPath | String | Der verknüpfte Pfad. |
+| isReplaceOnlyThis | Boolean | Die Flagge zeigt, den Inhalt von dieser Smart Layer oder für alle Smart Layers mit diesem Inhalt zu ersetzen. |
+
+## Beispiele
+
+Der folgende Code demonstriert die Unterstützung des Ersetzens von Inhalten in vielen Smart Objects, die dieselbe Quellreferenz haben.
+
+```csharp
+[C#]
+
+string srcFile = "Source.psd";
+string replaceAll = "replaceAll.jpg";
+string replaceOne = "replaceOne.jpg";
+string outFileImgAll = "output_All.png";
+string outFileImgOne = "output_one.png";
+
+// Dies wird denselben Kontext in allen Smart Layers mit demselben Link ersetzen.
+using (var image = (PsdImage)Image.Load(srcFile))
+{
+    var smartObjectLayer = (SmartObjectLayer)image.Layers[1];
+
+    // Dies wird den Inhalt in allen SmartLayers ersetzen, die denselben Inhalt verwenden.
+    smartObjectLayer.ReplaceContents(replaceAll, false);
+    smartObjectLayer.UpdateModifiedContent();
+
+    image.Save(outFileImgAll, new PngOptions());
+}
+
+//Dies wird den Kontext nur der ausgewählten Layer ersetzen und alle anderen mit demselben Kontext unverändert lassen.
+using (var image = (PsdImage)Image.Load(srcFile))
+{
+    var smartObjectLayer = (SmartObjectLayer)image.Layers[1];
+
+    // Es ersetzt den Inhalt nur in der ausgewählten SmartLayer.
+    smartObjectLayer.ReplaceContents(replaceOne, true);
+    smartObjectLayer.UpdateModifiedContent();
+
+    image.Save(outFileImgOne, new PngOptions());
+}
+```
+
+Der folgende Code demonstriert die Unterstützung beim Aktualisieren verknüpfter Smart‑Objects.
 
 ```csharp
 [C#]
@@ -264,7 +381,7 @@ void AssertAreEqual(object actual, object expected)
     }
 }
 
-// Dieses Beispiel zeigt, wie die externe oder eingebettete Smart-Objekt-Ebene mit diesen Methoden aktualisiert wird:
+// Dieses Beispiel zeigt, wie man die externe oder eingebettete Smart‑Object‑Ebene mit diesen Methoden aktualisiert:
 // RelinkToFile, UpdateModifiedContent, ExportContents
 ExampleOfUpdatingSmartObjectLayer("rgb8_2x2_linked2.psd", 0x53, 0, 0, 2, 2, FileFormat.Png);
 ExampleOfUpdatingSmartObjectLayer("r-embedded-png.psd", 0x207, 0, 0, 0xb, 0x10, FileFormat.Png);
@@ -278,7 +395,7 @@ void ExampleOfUpdatingSmartObjectLayer(
     int bottom,
     FileFormat format)
 {
-    // Dieses Beispiel zeigt, wie Sie die Smart-Objekt-Ebene in der PSD-Datei ändern und ihren Inhalt exportieren/aktualisieren.
+    // Dieses Beispiel zeigt, wie man die Smart‑Object‑Ebene in der PSD‑Datei ändert und deren Inhalte exportiert / aktualisiert.
     string fileName = Path.GetFileNameWithoutExtension(filePath);
     string dataDir = "updating_output" + Path.DirectorySeparatorChar;
     filePath = filePath;
@@ -299,13 +416,13 @@ void ExampleOfUpdatingSmartObjectLayer(
         if (contentType == SmartObjectType.AvailableLinked)
         {
             Directory.CreateDirectory(Path.GetDirectoryName(exportPath));
-            // Lassen Sie uns das externe Smart-Objekt-Bild aus der PSD-Smart-Objekt-Ebene an einen neuen Speicherort exportieren
+            // Lassen Sie das externe Smart‑Object‑Bild aus der PSD‑Smart‑Object‑Ebene an einen neuen Ort exportieren.
             // weil wir es ändern werden.
             smartObjectLayer.ExportContents(exportPath);
             smartObjectLayer.RelinkToFile(exportPath);
         }
 
-        // Lassen Sie uns den Inhalt des intelligenten Objekts umkehren: inneres (nicht zwischengespeichertes) Bild
+        // Lassen Sie den Inhalt des Smart‑Objects invertieren: inneres (nicht zwischengespeichertes) Bild.
         using (var innerImage = (RasterImage)smartObjectLayer.LoadContents(new LoadOptions()))
         {
             InvertImage(innerImage);
@@ -316,18 +433,18 @@ void ExampleOfUpdatingSmartObjectLayer(
             }
         }
 
-        // Prüfen wir, ob sich der geänderte Inhalt noch nicht auf das Rendering auswirkt.
+        // Lassen Sie prüfen, ob der modifizierte Inhalt das Rendering noch nicht beeinflusst.
         image.Save(pngOutputPath, new PngOptions() { ColorType = PngColorType.TruecolorWithAlpha });
 
         smartObjectLayer.UpdateModifiedContent();
 
-        // Prüfen wir, ob sich der aktualisierte Inhalt auf das Rendern auswirkt und das PSD-Bild korrekt gespeichert wird
+        // Lassen Sie prüfen, ob der aktualisierte Inhalt das Rendering beeinflusst und das PSD‑Bild korrekt gespeichert wird.
         image.Save(psd2OutputPath, new PsdOptions(image));
         image.Save(png2OutputPath, new PngOptions() { ColorType = PngColorType.TruecolorWithAlpha });
     }
 }
 
-// Dieses Beispiel zeigt, wie das eingebettete Smart-Objekt mithilfe der ConvertToLinked-Methode in extern verlinkte Inhalte konvertiert wird.
+// Dieses Beispiel zeigt, wie man das eingebettete Smart‑Object in externe verknüpfte Inhalte mit der Methode ConvertToLinked konvertiert.
 ExampleOfEmbeddedSmartObjectLayerToLinkedConversion("new_panama-papers-4.psd", 0x10caa, 0, 0, 0x280, 0x169, FileFormat.Jpeg);
 ExampleOfEmbeddedSmartObjectLayerToLinkedConversion("r3-embedded.psd", 0x207, 0, 0, 0xb, 0x10, FileFormat.Png);
 ExampleOfEmbeddedSmartObjectLayerToLinkedConversion("r-embedded-tiff.psd", 0xca94, 0, 0, 0xb, 0x10, FileFormat.Tiff);
@@ -347,7 +464,7 @@ void ExampleOfEmbeddedSmartObjectLayerToLinkedConversion(
     int bottom,
     FileFormat format)
 {
-    // Dies zeigt, wie eine eingebettete Smart-Objekt-Ebene in der PSD-Datei in eine externe konvertiert wird.
+    // Dies zeigt, wie man eine eingebettete Smart‑Object‑Ebene in der PSD‑Datei in eine externe konvertiert.
     var formatExt = GetFormatExt(format);
     string fileName = Path.GetFileNameWithoutExtension(filePath);
     string dataDir = "to_linked_output" + Path.DirectorySeparatorChar;
@@ -368,7 +485,7 @@ void ExampleOfEmbeddedSmartObjectLayerToLinkedConversion(
         AssertAreEqual(bottom, smartObjectLayer.ContentsBounds.Bottom);
         AssertAreEqual(SmartObjectType.AvailableLinked, smartObjectLayer.ContentType);
 
-        // Lassen Sie uns überprüfen, ob das konvertierte Bild korrekt gespeichert wird
+        // Lassen Sie prüfen, ob das konvertierte Bild korrekt gespeichert wurde.
         image.Save(psdOutputPath, new PsdOptions(image));
         image.Save(pngOutputPath, new PngOptions() { ColorType = PngColorType.TruecolorWithAlpha });
     }
@@ -385,7 +502,7 @@ void ExampleOfEmbeddedSmartObjectLayerToLinkedConversion(
     }
 }
 
-// Dieses Beispiel zeigt, wie Sie eine externe Smart-Objekt-Ebene oder alle verknüpften Ebenen mithilfe der EmbedLinked-Methode in die PSD-Datei einbetten.
+// Dieses Beispiel zeigt, wie man mit der Methode EmbedLinked eine externe Smart‑Object‑Ebene oder alle verknüpften Ebenen in die PSD‑Datei einbettet.
 ExampleOfLinkedSmartObjectLayerToEmbeddedConversion("rgb8_2x2_linked.psd", 0x53, 0, 0, 2, 2, FileFormat.Png);
 ExampleOfLinkedSmartObjectLayerToEmbeddedConversion("rgb8_2x2_linked2.psd", 0x53, 0, 0, 2, 2, FileFormat.Png);
 void ExampleOfLinkedSmartObjectLayerToEmbeddedConversion(
@@ -429,7 +546,7 @@ void ExampleOfLinkedSmartObjectLayerToEmbeddedConversion(
         }
 
         Directory.CreateDirectory(Path.GetDirectoryName(psdOutputPath));
-        // Lassen Sie uns überprüfen, ob das konvertierte Bild korrekt gespeichert wird
+        // Lassen Sie prüfen, ob das konvertierte Bild korrekt gespeichert wurde.
         image.Save(psdOutputPath, new PsdOptions(image));
         image.Save(pngOutputPath, new PngOptions() { ColorType = PngColorType.TruecolorWithAlpha });
     }
@@ -446,8 +563,8 @@ void ExampleOfLinkedSmartObjectLayerToEmbeddedConversion(
     }
 }
 
-// Dieses Beispiel zeigt, wie Sie die externe Smart-Objekt-Ebene von Adobe® Photoshop® ändern und ihren Inhalt exportieren/aktualisieren
-// mit den Methoden ExportContents und ReplaceContents.
+// Dieses Beispiel zeigt, wie man die externe Adobe® Photoshop®‑Smart‑Object‑Ebene ändert und deren Inhalte exportiert / aktualisiert.
+// unter Verwendung der Methoden ExportContents und ReplaceContents.
 ExampleOfExternalSmartObjectLayerSupport("rgb8_2x2_linked.psd", 0x53, 0, 0, 2, 2, FileFormat.Png);
 ExampleOfExternalSmartObjectLayerSupport("rgb8_2x2_linked2.psd", 0x4aea, 0, 0, 10, 10, FileFormat.Psd);
 void ExampleOfExternalSmartObjectLayerSupport(string filePath, int contentsLength, int left, int top, int right, int bottom, FileFormat format)
@@ -473,10 +590,10 @@ void ExampleOfExternalSmartObjectLayerSupport(string filePath, int contentsLengt
         AssertAreEqual(SmartObjectType.AvailableLinked, smartObjectLayer.ContentType);
 
         Directory.CreateDirectory(Path.GetDirectoryName(exportPath));
-        // Lassen Sie uns das verknüpfte Smart-Objekt-Bild aus der PSD-Smart-Objekt-Ebene exportieren
+        // Lassen Sie das verknüpfte Smart‑Object‑Bild aus der PSD‑Smart‑Object‑Ebene exportieren.
         smartObjectLayer.ExportContents(exportPath);
 
-        // Lassen Sie uns prüfen, ob das Originalbild korrekt gespeichert wird
+        // Lass uns prüfen, ob das Originalbild korrekt gespeichert wurde
         image.Save(psdOutputPath, new PsdOptions(image));
         image.Save(pngOutputPath, new PngOptions() { ColorType = PngColorType.TruecolorWithAlpha });
 
@@ -484,15 +601,15 @@ void ExampleOfExternalSmartObjectLayerSupport(string filePath, int contentsLengt
         {
             AssertAreEqual(format, innerImage.FileFormat);
 
-            // Lassen Sie uns das verknüpfte Smart-Objekt-Bild invertieren
+            // Lass uns das verknüpfte Smart-Object-Bild invertieren
             InvertImage(innerImage);
             innerImage.Save(linkOutputPath);
 
-            // Lassen Sie uns das verknüpfte Smart-Objekt-Bild in der PSD-Ebene ersetzen
+            // Lass uns das verknüpfte Smart-Object-Bild in der PSD-Ebene ersetzen
             smartObjectLayer.ReplaceContents(linkOutputPath);
         }
 
-        // Prüfen wir, ob das aktualisierte Bild korrekt gespeichert wird
+        // Lassen Sie prüfen, ob das aktualisierte Bild korrekt gespeichert wurde
         image.Save(psd2OutputPath, new PsdOptions(image));
         image.Save(png2OutputPath, new PngOptions() { ColorType = PngColorType.TruecolorWithAlpha });
     }
@@ -526,7 +643,7 @@ void InvertRasterImage(RasterImage innerImage)
     innerImage.SaveArgb32Pixels(innerImage.Bounds, pixels);
 }
 
-// Ruft die Formaterweiterung ab.
+// Ermittelt die Format-Erweiterung.
 string GetFormatExt(FileFormat format)
 {
     string formatExt = format == FileFormat.Jpeg2000 ? "jpf" : format.ToString().ToLowerInvariant();
@@ -537,7 +654,7 @@ string GetFormatExt(FileFormat format)
 ### Siehe auch
 
 * class [SmartObjectLayer](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.SmartObjects](../../smartobjectlayer/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.SmartObjects](../../../aspose.psd.fileformats.psd.layers.smartobjects/)
+* assembly [Aspose.PSD](../../../)
 
 

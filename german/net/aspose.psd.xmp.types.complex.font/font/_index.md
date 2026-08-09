@@ -1,51 +1,52 @@
 ---
-title: Class Font
-second_title: Aspose.PSD für .NET-API-Referenz
-description: Aspose.PSD.Xmp.Types.Complex.Font.Font klas. steht für XMPSchriftart.
+title: "Klasse Font"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "Aspose.PSD.Xmp.Types.Complex.Font.Font Klasse. Stellt XMP-Schriftart dar"
 type: docs
-weight: 6070
+weight: 6570
 url: /de/net/aspose.psd.xmp.types.complex.font/font/
 ---
+{{< psd/tize >}}
 ## Font class
 
-steht für XMP-Schriftart.
+Stellt XMP‑Schriftart dar.
 
 ```csharp
 public sealed class Font : ComplexTypeBase
 ```
 
-## Konstrukteure
+## Konstruktoren
 
 | Name | Beschreibung |
 | --- | --- |
-| [Font](font/#constructor)() | Initialisiert eine neue Instanz von`Font` Klasse. |
-| [Font](font/#constructor_1)(string) | Initialisiert eine neue Instanz von`Font` Klasse. |
+| [Font](font/#constructor)() | Initialisiert eine neue Instanz der `Font` Klasse. |
+| [Font](font/#constructor_1)(string) | Initialisiert eine neue Instanz der `Font` Klasse. |
 
 ## Eigenschaften
 
 | Name | Beschreibung |
 | --- | --- |
-| [ChildFontFiles](../../aspose.psd.xmp.types.complex.font/font/childfontfiles/) { get; set; } | Ruft das Array von Dateinamen für die Schriftarten ab, aus denen eine zusammengesetzte Schriftart besteht, oder legt diese fest. |
-| [FontFace](../../aspose.psd.xmp.types.complex.font/font/fontface/) { get; set; } | Ruft die Schriftart ab oder legt sie fest. |
-| [FontFamily](../../aspose.psd.xmp.types.complex.font/font/fontfamily/) { get; set; } | Ruft die Schriftfamilie ab oder legt sie fest. |
-| [FontFileName](../../aspose.psd.xmp.types.complex.font/font/fontfilename/) { get; set; } | Ruft den Namen der Schriftartdatei ohne vollständigen Pfad ab oder legt ihn fest. |
-| [FontName](../../aspose.psd.xmp.types.complex.font/font/fontname/) { get; set; } | Ruft den Namen der PostScript-Schriftart ab oder legt ihn fest. |
-| [FontType](../../aspose.psd.xmp.types.complex.font/font/fonttype/) { get; set; } | Ruft die Schriftart ab oder legt sie fest. |
-| [IsComposite](../../aspose.psd.xmp.types.complex.font/font/iscomposite/) { get; set; } | Ruft einen Wert ab oder legt einen Wert fest, der angibt, ob diese Schriftart zusammengesetzt ist. |
-| [NamespaceUri](../../aspose.psd.xmp.types.complex/complextypebase/namespaceuri/) { get; } | Ruft den Standard-Namespace-URI ab. |
-| [Prefix](../../aspose.psd.xmp.types.complex/complextypebase/prefix/) { get; } | Ruft das Präfix ab. |
-| [Version](../../aspose.psd.xmp.types.complex.font/font/version/) { get; set; } | Ruft die Schriftartversion ab oder legt sie fest. |
+| [ChildFontFiles](../../aspose.psd.xmp.types.complex.font/font/childfontfiles/) { get; set; } | Liest oder setzt das Array von Dateinamen für die Schriften, die eine zusammengesetzte Schriftart bilden. |
+| [FontFace](../../aspose.psd.xmp.types.complex.font/font/fontface/) { get; set; } | Liest oder setzt die Schriftart. |
+| [FontFamily](../../aspose.psd.xmp.types.complex.font/font/fontfamily/) { get; set; } | Liest oder setzt die Schriftfamilie. |
+| [FontFileName](../../aspose.psd.xmp.types.complex.font/font/fontfilename/) { get; set; } | Liest oder setzt den Schriftdateinamen ohne vollständigen Pfad. |
+| [FontName](../../aspose.psd.xmp.types.complex.font/font/fontname/) { get; set; } | Liest oder setzt den PostScript-Schriftartnamen. |
+| [FontType](../../aspose.psd.xmp.types.complex.font/font/fonttype/) { get; set; } | Liest oder setzt den Schrifttyp. |
+| [IsComposite](../../aspose.psd.xmp.types.complex.font/font/iscomposite/) { get; set; } | Liest oder setzt einen Wert, der angibt, ob diese Schriftart zusammengesetzt ist. |
+| [NamespaceUri](../../aspose.psd.xmp.types.complex/complextypebase/namespaceuri/) { get; } | Liest die Standard-Namespace-URI. |
+| [Prefix](../../aspose.psd.xmp.types.complex/complextypebase/prefix/) { get; } | Liest das Präfix. |
+| [Version](../../aspose.psd.xmp.types.complex.font/font/version/) { get; set; } | Liest oder setzt die Schriftartversion. |
 
 ## Methoden
 
 | Name | Beschreibung |
 | --- | --- |
-| override [GetXmpRepresentation](../../aspose.psd.xmp.types.complex.font/font/getxmprepresentation/)() | Ruft den in der Zeichenfolge enthaltenen Wert im XMP-Format ab. |
+| override [GetXmpRepresentation](../../aspose.psd.xmp.types.complex.font/font/getxmprepresentation/)() | Liest den enthaltenen Zeichenfolgenwert im XMP-Format. |
 
 ### Siehe auch
 
 * class [ComplexTypeBase](../../aspose.psd.xmp.types.complex/complextypebase/)
-* namensraum [Aspose.PSD.Xmp.Types.Complex.Font](../../aspose.psd.xmp.types.complex.font/)
-* Montage [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.Font](../../aspose.psd.xmp.types.complex.font/)
+* assembly [Aspose.PSD](../../)
 
 

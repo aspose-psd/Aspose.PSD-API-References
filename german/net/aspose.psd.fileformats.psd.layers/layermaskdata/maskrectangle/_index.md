@@ -1,26 +1,27 @@
 ---
-title: LayerMaskData.MaskRectangle
-second_title: Aspose.PSD für .NET-API-Referenz
-description: LayerMaskData eigendom. Holt oder setzt die MaskeRectangleder Ebenenmaske in der PSDDatei. Es nimmt linke rechte obere und untere Eigenschaften und erstelltRectangle
+title: "LayerMaskData.MaskRectangle"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "LayerMaskData-Eigenschaft. Gibt oder setzt das Masken‑Rectangle der Ebenenmaske in der PSD‑Datei. Sie nimmt die Eigenschaften links, rechts, oben und unten und erstellt ein Rectangle."
 type: docs
 weight: 70
 url: /de/net/aspose.psd.fileformats.psd.layers/layermaskdata/maskrectangle/
 ---
+{{< psd/tize >}}
 ## LayerMaskData.MaskRectangle property
 
-Holt oder setzt die Maske[`Rectangle`](../../../aspose.psd/rectangle/)der Ebenenmaske in der PSD-Datei. Es nimmt linke, rechte, obere und untere Eigenschaften und erstellt[`Rectangle`](../../../aspose.psd/rectangle/)
+Gibt oder setzt das Masken[`Rectangle`](../../../aspose.psd/rectangle/) der Ebenenmaske in der PSD‑Datei. Sie nimmt die Eigenschaften links, rechts, oben und unten und erstellt ein [`Rectangle`](../../../aspose.psd/rectangle/).
 
 ```csharp
 public Rectangle MaskRectangle { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
-Das Maskenrechteck.
+Das Masken‑Rectangle.
 
-### Beispiele
+## Beispiele
 
-Dieses Beispiel zeigt, wie Rasterebenenmasken in der Adobe® Photoshop®-Datei programmgesteuert abgerufen, aktualisiert, entfernt und hinzugefügt werden.
+Dieses Beispiel zeigt, wie man Raster‑Ebenenmasken in der Adobe® Photoshop®‑Datei programmgesteuert abruft, aktualisiert, entfernt und hinzufügt.
 
 ```csharp
 [C#]
@@ -34,7 +35,7 @@ void AssertAreEqual(object actual, object expected)
     }
 }
 
-// Ruft den int-Wert konvertiert in Big-Endian-Byte-Reihenfolge ab.
+// Gibt den int‑Wert zurück, der in die Big‑Endian‑Byte‑Reihenfolge konvertiert wurde.
 byte[] GetBigEndianBytesInt32(int value)
 {
     byte[] bytes = new byte[4];
@@ -45,7 +46,7 @@ byte[] GetBigEndianBytesInt32(int value)
     return bytes;
 }
 
-// Ruft den von Big Endian in Int32 konvertierten Wert ab.
+// Gibt den Wert zurück, der vom Big‑Endian in Int32 konvertiert wurde.
 int FromBigEndianToInt32(byte[] bytes, int index)
 {
     if (bytes == null)
@@ -61,7 +62,7 @@ int FromBigEndianToInt32(byte[] bytes, int index)
     return (bytes[index] << 24) | (bytes[index + 1] << 16) | (bytes[index + 2] << 8) | bytes[index + 3];
 }
 
-// Ruft eine Rastermaske aus der Ebene eines PSD-Bildes ab und speichert sie in einer Datei
+// Ruft eine Rastermaske aus der Ebene eines PSD‑Bildes ab und speichert sie in einer Datei.
 void SaveRasterMask(string maskFilePath, Layer layer)
 {
     LayerMaskDataShort maskData = (LayerMaskDataShort)layer.LayerMaskData;
@@ -79,7 +80,7 @@ void SaveRasterMask(string maskFilePath, Layer layer)
     }
 }
 
-// Fügt der Ebene eine Rastermaske aus der Datei hinzu und speichert sie als Bild im PSD-Format
+// Fügt eine Rastermaske aus der Datei zur Ebene hinzu und speichert das Bild im PSD‑Format.
 void AddRasterMask(Layer layer, string maskSourcePath)
 {
     var maskData = new LayerMaskDataShort();
@@ -100,24 +101,24 @@ void AddRasterMask(Layer layer, string maskSourcePath)
         maskData.ImageData = data;
     }
 
-    // Das Hinzufügen von LayerMaskData reicht nicht aus, um korrekt zu speichern, da die Kanäle nicht aktualisiert werden;
-    // Schicht.LayerMaskData = Maske; // Dies fügt den Maskenkanal nicht hinzu
+    // Nur das Hinzufügen von LayerMaskData reicht für ein korrektes Speichern nicht aus, weil die Kanäle nicht aktualisiert werden;
+    // layer.LayerMaskData = mask; // Dies fügt den Maskenkanal nicht hinzu
 
-    // Maske hinzufügen (oder aktualisieren).
-    layer.AddLayerMask(maskData); // Aber dies fügt / aktualisiert sowohl die Maske als auch die Kanäle!
+    // Maske hinzufügen (oder aktualisieren)
+    layer.AddLayerMask(maskData); // But this adds / updates both the mask and channels!
 }
 
-// Dieses Beispiel zeigt, wie Rasterebenenmasken in der Adobe® Photoshop®-Datei programmgesteuert abgerufen, aktualisiert, entfernt und hinzugefügt werden.
+// Dieses Beispiel zeigt, wie man Raster‑Ebenenmasken in der Adobe® Photoshop®‑Datei programmgesteuert abruft, aktualisiert, entfernt und hinzufügt.
 var pngOptions = new PngOptions() { ColorType = PngColorType.TruecolorWithAlpha };
 var sourceFilePath = "FourWithMasks.psd";
 using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
 {
     Layer layer = image.Layers[2];
 
-    // Holen Sie sich eine Rastermaske aus der Ebene und speichern Sie sie in einer Datei
+    // Rastermaske aus der Ebene holen und in einer Datei speichern
     SaveRasterMask("FourWithMasks2.msk", layer);
 
-    // Ändern Sie die Ebenenmaske (invertieren) und speichern Sie das Bild
+    // Ebenenmaske ändern (invertieren) und das Bild speichern
     var mask = layer.LayerMaskData;
     byte[] maskData = mask.ImageData;
     for (int i = 0; i < maskData.Length; i++)
@@ -125,22 +126,22 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
         maskData[i] = (byte)~maskData[i];
     }
 
-    // Das Ändern von LayerMaskData reicht aus, um das Rendern zu bewirken
+    // Einfaches Ändern von LayerMaskData reicht aus, um das Rendering zu bewirken
     image.Save("FourWithMasksUpdated2.png", pngOptions);
 
-    // Aber das Ändern von LayerMaskData reicht nicht aus, um korrekt zu speichern, da die Kanäle nicht aktualisiert werden;
-    layer.LayerMaskData = mask; // Das funktioniert auch nicht
-    layer.AddLayerMask(mask); // Aber das aktualisiert sowohl die Maske als auch die Kanäle!
+    // Aber das bloße Ändern von LayerMaskData reicht nicht für korrektes Speichern, weil die Kanäle nicht aktualisiert werden;
+    layer.LayerMaskData = mask; // This does not work either
+    layer.AddLayerMask(mask); // But this updates both the mask and channels!
     image.Save("FourWithMasksUpdated2.psd");
 
-    // Entferne eine Rastermaske aus der Ebene und speichere das Bild
-    layer.LayerMaskData = null; // Nur das Entfernen von LayerMaskData reicht aus, um das Rendern zu bewirken, aber nicht zum Speichern im PSD-Format
+    // Rastermaske aus der Ebene entfernen und das Bild speichern
+    layer.LayerMaskData = null; // Just removing LayerMaskData is enough to effect rendering but not for saving to PSD format
     image.Save("FourWithMasksRemoved2.png", pngOptions);
 
-    layer.AddLayerMask(null); // Aber das entfernt sowohl die Maske als auch den Maskenkanal!
+    layer.AddLayerMask(null); // But this removes both the mask and the mask channel!
     image.Save("FourWithMasksRemoved2.psd");
 
-    // Fügen Sie der Ebene eine Rastermaske aus der Datei hinzu und speichern Sie das Bild
+    // Rastermaske aus der Datei zur Ebene hinzufügen und das Bild speichern
     AddRasterMask(layer, "raster.msk");
     image.Save("FourWithMasksAdded2.png", pngOptions);
     image.Save("FourWithMasksAdded2.psd");
@@ -151,7 +152,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
 
 * struct [Rectangle](../../../aspose.psd/rectangle/)
 * class [LayerMaskData](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers](../../layermaskdata/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

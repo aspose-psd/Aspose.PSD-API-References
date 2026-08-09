@@ -1,14 +1,15 @@
 ---
-title: RectangleF.Empty
-second_title: Aspose.PSD für .NET-API-Referenz
-description: RectangleF eigendom. Ruft eine neue Instanz von abRectangleF Struktur die hatX Y Width UndHeight Werte auf Null gesetzt.
+title: "RectangleF.Empty"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "RectangleF-Eigenschaft. Gibt eine neue Instanz der RectangleF-Struktur zurück, deren X-, Y-, Width- und Height-Werte auf Null gesetzt sind."
 type: docs
 weight: 20
 url: /de/net/aspose.psd/rectanglef/empty/
 ---
+{{< psd/tize >}}
 ## RectangleF.Empty property
 
-Ruft eine neue Instanz von ab[`RectangleF`](../) Struktur, die hat[`X`](../x/) ,[`Y`](../y/) ,[`Width`](../width/) Und[`Height`](../height/) Werte auf Null gesetzt.
+Gibt eine neue Instanz der [`RectangleF`](../)-Struktur zurück, deren [`X`](../x/), [`Y`](../y/), [`Width`](../width/) und [`Height`](../height/)-Werte auf Null gesetzt sind.
 
 ```csharp
 public static RectangleF Empty { get; }
@@ -17,7 +18,7 @@ public static RectangleF Empty { get; }
 ### Siehe auch
 
 * struct [RectangleF](../)
-* namensraum [Aspose.PSD](../../rectanglef/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

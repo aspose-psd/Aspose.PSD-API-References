@@ -1,14 +1,15 @@
 ---
-title: Matrix.Scale
-second_title: Aspose.PSD für .NET-API-Referenz
-description: Matrix methode. Wendet den angegebenen Skalierungsvektor scaleX und scaleY darauf anMatrix unter Verwendung der angegebenen Reihenfolge.
+title: "Matrix.Scale"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "Matrix-Methode. Wendet den angegebenen Skalierungsvektor scaleX und scaleY auf diese Matrix unter Verwendung der angegebenen Reihenfolge an"
 type: docs
 weight: 160
 url: /de/net/aspose.psd/matrix/scale/
 ---
+{{< psd/tize >}}
 ## Scale(float, float, MatrixOrder) {#scale_1}
 
-Wendet den angegebenen Skalierungsvektor (scaleX und scaleY) darauf an[`Matrix`](../) unter Verwendung der angegebenen Reihenfolge.
+Wendet den angegebenen Skalierungsvektor (scaleX und scaleY) auf diese [`Matrix`](../) unter Verwendung der angegebenen Reihenfolge an.
 
 ```csharp
 public void Scale(float scaleX, float scaleY, MatrixOrder order)
@@ -16,22 +17,22 @@ public void Scale(float scaleX, float scaleY, MatrixOrder order)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| scaleX | Single | Die Skala X. |
-| scaleY | Single | Die Skala Y. |
-| order | MatrixOrder | Die Bestellung. |
+| scaleX | Single | Die Skalierung X. |
+| scaleY | Single | Die Skalierung Y. |
+| order | MatrixOrder | Die Reihenfolge. |
 
 ### Siehe auch
 
 * enum [MatrixOrder](../../matrixorder/)
 * class [Matrix](../)
-* namensraum [Aspose.PSD](../../matrix/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Scale(float, float) {#scale}
 
-Wendet den angegebenen Skalierungsvektor (scaleX und scaleY) auf diese Matrix an, wobei (Standard) Prepend order verwendet wird.
+Wendet den angegebenen Skalierungsvektor (scaleX und scaleY) auf diese Matrix unter Verwendung der (Standard‑)Prepend‑Reihenfolge an.
 
 ```csharp
 public void Scale(float sx, float sy)
@@ -39,13 +40,13 @@ public void Scale(float sx, float sy)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| sx | Single | Die sx. Die sx. Die sx. |
-| sy | Single | Das Sy. Das Sy. Das Sy. |
+| sx | Single | Der sx. Der sx. Der sx. |
+| sy | Single | Der sy. Der sy. Der sy. |
 
 ### Siehe auch
 
 * class [Matrix](../)
-* namensraum [Aspose.PSD](../../matrix/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

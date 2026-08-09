@@ -1,14 +1,15 @@
 ---
-title: Class AsyncTask
-second_title: Aspose.PSD für .NET-API-Referenz
-description: Aspose.PSD.AsyncTask.AsyncTask klas. Die statische FactoryKlasse zum Erstellen der asynchronen Tasks
+title: "Klasse AsyncTask"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "Aspose.PSD.AsyncTask.AsyncTask Klasse. Die statische Fabrikklasse zum Erstellen der asynchronen Aufgaben"
 type: docs
 weight: 20
 url: /de/net/aspose.psd.asynctask/asynctask/
 ---
+{{< psd/tize >}}
 ## AsyncTask class
 
-Die statische Factory-Klasse zum Erstellen der asynchronen Tasks
+Die statische Fabrikklasse zum Erstellen der asynchronen Aufgaben
 
 ```csharp
 public static class AsyncTask
@@ -19,11 +20,11 @@ public static class AsyncTask
 | Name | Beschreibung |
 | --- | --- |
 | static [Create](../../aspose.psd.asynctask/asynctask/create/#create)(AsyncTaskAction) | Erstellt die asynchrone Aufgabe ohne Ergebnis. |
-| static [Create](../../aspose.psd.asynctask/asynctask/create/#create_1)(AsyncTaskFunc) | Erstellt die asynchrone Aufgabe mit dem Ergebnis des generischen Typs. |
+| static [Create](../../aspose.psd.asynctask/asynctask/create/#create_1)(AsyncTaskFunc) | Erstellt die asynchrone Aufgabe mit generischem Typ Ergebnis. |
 
 ### Siehe auch
 
-* namensraum [Aspose.PSD.AsyncTask](../../aspose.psd.asynctask/)
-* Montage [Aspose.PSD](../../)
+* namespace [Aspose.PSD.AsyncTask](../../aspose.psd.asynctask/)
+* assembly [Aspose.PSD](../../)
 
 

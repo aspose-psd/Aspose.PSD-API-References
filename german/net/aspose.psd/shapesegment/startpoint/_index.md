@@ -1,11 +1,12 @@
 ---
-title: ShapeSegment.StartPoint
-second_title: Aspose.PSD für .NET-API-Referenz
-description: ShapeSegment eigendom. Ruft den Startpunkt ab.
+title: "ShapeSegment.StartPoint"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "ShapeSegment-Eigenschaft. Gibt den Startpunkt zurück."
 type: docs
 weight: 20
 url: /de/net/aspose.psd/shapesegment/startpoint/
 ---
+{{< psd/tize >}}
 ## ShapeSegment.StartPoint property
 
 Ruft den Startpunkt ab.
@@ -14,7 +15,7 @@ Ruft den Startpunkt ab.
 public abstract PointF StartPoint { get; }
 ```
 
-### Eigentumswert
+### Property Value
 
 Der Startpunkt.
 
@@ -22,7 +23,7 @@ Der Startpunkt.
 
 * struct [PointF](../../pointf/)
 * class [ShapeSegment](../)
-* namensraum [Aspose.PSD](../../shapesegment/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

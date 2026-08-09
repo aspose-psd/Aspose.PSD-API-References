@@ -1,14 +1,15 @@
 ---
-title: Enum LayerSectionType
-second_title: Aspose.PSD für .NET-API-Referenz
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.LayerSectionType opsomming. Der Ebenenabschnitt Typ
+title: "Enum LayerSectionType"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "Aspose.PSD.FileFormats.Psd.Layers.LayerResources.LayerSectionType Enum. Der Ebenenabschnittstyp"
 type: docs
-weight: 2610
+weight: 2920
 url: /de/net/aspose.psd.fileformats.psd.layers.layerresources/layersectiontype/
 ---
+{{< psd/tize >}}
 ## LayerSectionType enumeration
 
-Der Ebenenabschnitt Typ
+Der Ebenenabschnittstyp
 
 ```csharp
 public enum LayerSectionType
@@ -18,14 +19,14 @@ public enum LayerSectionType
 
 | Name | Wert | Beschreibung |
 | --- | --- | --- |
-| Layer | `0` | Die Schicht. |
-| OpenFolder | `1` | Der geöffnete Ordner. |
+| Layer | `0` | Die Ebene. |
+| OpenFolder | `1` | Der offene Ordner. |
 | ClosedFolder | `2` | Der geschlossene Ordner. |
-| SectionDivider | `3` | Der Abschnittsteiler. |
+| SectionDivider | `3` | Der Abschnittstrenner. |
 
 ### Siehe auch
 
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
-* Montage [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../)
 
 

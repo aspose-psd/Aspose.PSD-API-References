@@ -1,26 +1,27 @@
 ---
-title: IGradientFillSettings.Scale
-second_title: Aspose.PSD für .NET-API-Referenz
-description: IGradientFillSettings eigendom. Ruft die Skalierung ab oder legt sie fest.
+title: "IGradientFillSettings.Scale"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "IGradientFillSettings-Eigenschaft. Ruft die normalisierte Farbverlaufs-Skala in Prozent ab oder legt sie fest"
 type: docs
-weight: 100
+weight: 90
 url: /de/net/aspose.psd.fileformats.psd.layers.fillsettings/igradientfillsettings/scale/
 ---
+{{< psd/tize >}}
 ## IGradientFillSettings.Scale property
 
-Ruft die Skalierung ab oder legt sie fest.
+Liest oder setzt die **normalisierte** Gradienten‑Skala (in Prozent).
 
 ```csharp
 public int Scale { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
-Die Waage.
+Die Skalierung.
 
-### Beispiele
+## Beispiele
 
-Das folgende Beispiel zeigt, wie die Scale-Eigenschaft verwendet wird, um FillLayer mit Farbverlauf zu skalieren.
+Das folgende Beispiel demonstriert, wie die Scale‑Eigenschaft verwendet wird, um ein FillLayer mit Verlauf zu skalieren.
 
 ```csharp
 [C#]
@@ -30,7 +31,7 @@ string output = "scaledImage.png";
 
 using (var image = (PsdImage)Image.Load(sourceFileName))
 {
-    // eine Füllebene erhalten
+    // Abrufen eines FillLayers
     FillLayer fillLayer = null;
     foreach (var layer in image.Layers)
     {
@@ -43,9 +44,9 @@ using (var image = (PsdImage)Image.Load(sourceFileName))
 
     var settings = fillLayer.FillSettings as IGradientFillSettings;
 
-    // Skalenwert aktualisieren
+    // Scale-Wert aktualisieren
     settings.Scale = 200;
-    fillLayer.Update(); // Aktualisiert Pixeldaten
+    fillLayer.Update(); // Updates pixels data
 
     image.Save(output, new PngOptions() { ColorType = PngColorType.TruecolorWithAlpha });
 }
@@ -54,7 +55,7 @@ using (var image = (PsdImage)Image.Load(sourceFileName))
 ### Siehe auch
 
 * interface [IGradientFillSettings](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../igradientfillsettings/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../../)
 
 

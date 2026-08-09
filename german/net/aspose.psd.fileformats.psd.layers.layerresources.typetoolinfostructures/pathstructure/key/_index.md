@@ -1,22 +1,23 @@
 ---
-title: PathStructure.Key
-second_title: Aspose.PSD für .NET-API-Referenz
-description: PathStructure eigendom. Ruft den Strukturschlüssel ab.
+title: "PathStructure.Key"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "PathStructure-Eigenschaft. Gibt den Struktur‑Schlüssel zurück"
 type: docs
 weight: 20
 url: /de/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/pathstructure/key/
 ---
+{{< psd/tize >}}
 ## PathStructure.Key property
 
-Ruft den Strukturschlüssel ab.
+Liest den Struktur-Schlüssel.
 
 ```csharp
 public override int Key { get; }
 ```
 
-### Beispiele
+## Beispiele
 
-Der folgende Code demonstriert die Fähigkeit, Dateien mit der PathStructure-Struktur zu laden.
+Der folgende Code demonstriert die Fähigkeit, eine Datei mit der PathStructure-Struktur zu laden.
 
 ```csharp
 [C#]
@@ -33,7 +34,7 @@ using (PsdImage image = (PsdImage)Image.Load(srcFile))
 ### Siehe auch
 
 * class [PathStructure](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../pathstructure/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 

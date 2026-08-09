@@ -1,14 +1,15 @@
 ---
-title: Layer.Save
-second_title: Aspose.PSD für .NET-API-Referenz
-description: Layer methode. Speichert die Daten des Objekts im angegebenen Stream.
+title: "Layer.Save"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "Layer-Methode. Speichert die Daten des Objekts in den angegebenen Stream"
 type: docs
-weight: 370
+weight: 390
 url: /de/net/aspose.psd.fileformats.psd.layers/layer/save/
 ---
+{{< psd/tize >}}
 ## Save(Stream) {#save_1}
 
-Speichert die Daten des Objekts im angegebenen Stream.
+Speichert die Objektdaten in den angegebenen Stream.
 
 ```csharp
 public override void Save(Stream stream)
@@ -16,25 +17,25 @@ public override void Save(Stream stream)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| stream | Stream | Der Stream, in dem die Daten des Objekts gespeichert werden sollen. |
+| Strom | Stream | Der Stream, in dem die Daten des Objekts gespeichert werden. |
 
 ### Ausnahmen
 
 | Ausnahme | Bedingung |
 | --- | --- |
-| ArgumentException | Wir sollten die Save-Methode nicht ohne Image-Optionen aufrufen |
+| ArgumentException | Wir sollten die Save‑Methode nicht ohne Bildoptionen aufrufen. |
 
 ### Siehe auch
 
 * class [Layer](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers](../../layer/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Save(string, ImageOptionsBase) {#save_5}
 
-Speichert die Daten des Objekts am angegebenen Speicherort im angegebenen Dateiformat gemäß den Speicheroptionen.
+Speichert die Objektdaten am angegebenen Speicherort im angegebenen Dateiformat gemäß den Speicheroptionen.
 
 ```csharp
 public override void Save(string filePath, ImageOptionsBase options)
@@ -43,20 +44,20 @@ public override void Save(string filePath, ImageOptionsBase options)
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
 | filePath | String | Der Dateipfad. |
-| options | ImageOptionsBase | Die Optionen. |
+| Optionen | ImageOptionsBase | Die Optionen. |
 
 ### Siehe auch
 
 * class [ImageOptionsBase](../../../aspose.psd/imageoptionsbase/)
 * class [Layer](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers](../../layer/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Save(string, bool) {#save_7}
 
-Speichert die Daten des Objekts am angegebenen Dateispeicherort.
+Speichert die Objektdaten am angegebenen Speicherort.
 
 ```csharp
 public override void Save(string filePath, bool overWrite)
@@ -64,20 +65,20 @@ public override void Save(string filePath, bool overWrite)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| filePath | String | Der Dateipfad zum Speichern der Objektdaten. |
-| overWrite | Boolean | wenn eingestellt`WAHR` den Dateiinhalt überschreiben, andernfalls wird angehängt. |
+| filePath | String | Der Dateipfad, in dem die Daten des Objekts gespeichert werden. |
+| overWrite | Boolean | Wenn auf `true` gesetzt, werden die Dateiinhalte überschrieben, andernfalls wird angehängt. |
 
 ### Siehe auch
 
 * class [Layer](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers](../../layer/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Save(Stream, ImageOptionsBase, Rectangle) {#save_3}
 
-Speichert die Bilddaten gemäß den Speicheroptionen im angegebenen Stream im angegebenen Dateiformat.
+Speichert die Bilddaten in den angegebenen Stream im angegebenen Dateiformat gemäß den Speicheroptionen.
 
 ```csharp
 public override void Save(Stream stream, ImageOptionsBase optionsBase, Rectangle boundsRectangle)
@@ -85,23 +86,23 @@ public override void Save(Stream stream, ImageOptionsBase optionsBase, Rectangle
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| stream | Stream | Der Stream, in dem die Bilddaten gespeichert werden sollen. |
+| Strom | Stream | Der Stream, in dem die Bilddaten gespeichert werden. |
 | optionsBase | ImageOptionsBase | Die Speicheroptionen. |
-| boundsRectangle | Rectangle | Das Zielbild umgrenzt ein Rechteck. Legen Sie das leere Rechteck für die Verwendung von Quellgrenzen fest. |
+| boundsRectangle | Rectangle | Das Ziel‑Bild‑Grenzrechteck. Setzen Sie das leere Rechteck, um die Quellgrenzen zu verwenden. |
 
 ### Siehe auch
 
 * class [ImageOptionsBase](../../../aspose.psd/imageoptionsbase/)
 * struct [Rectangle](../../../aspose.psd/rectangle/)
 * class [Layer](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers](../../layer/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Save(string, ImageOptionsBase, Rectangle) {#save_6}
 
-Speichert die Daten des Objekts am angegebenen Speicherort im angegebenen Dateiformat gemäß den Speicheroptionen.
+Speichert die Objektdaten am angegebenen Speicherort im angegebenen Dateiformat gemäß den Speicheroptionen.
 
 ```csharp
 public override void Save(string filePath, ImageOptionsBase options, Rectangle boundsRectangle)
@@ -110,15 +111,15 @@ public override void Save(string filePath, ImageOptionsBase options, Rectangle b
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
 | filePath | String | Der Dateipfad. |
-| options | ImageOptionsBase | Die Optionen. |
-| boundsRectangle | Rectangle | Das Zielbild umgrenzt ein Rechteck. Legen Sie das leere Rechteck für die Verwendung von Quellgrenzen fest. |
+| Optionen | ImageOptionsBase | Die Optionen. |
+| boundsRectangle | Rectangle | Das Ziel‑Bild‑Grenzrechteck. Setzen Sie das leere Rechteck, um die Quellgrenzen zu verwenden. |
 
 ### Siehe auch
 
 * class [ImageOptionsBase](../../../aspose.psd/imageoptionsbase/)
 * struct [Rectangle](../../../aspose.psd/rectangle/)
 * class [Layer](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers](../../layer/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

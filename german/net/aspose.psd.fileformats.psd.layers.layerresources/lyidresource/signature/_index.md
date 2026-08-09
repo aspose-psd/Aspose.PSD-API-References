@@ -1,14 +1,15 @@
 ---
-title: LyidResource.Signature
-second_title: Aspose.PSD für .NET-API-Referenz
-description: LyidResource eigendom. Ruft die Signatur ab.
+title: "LyidResource.Signature"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "LyidResource Eigenschaft. Liefert die Signatur"
 type: docs
 weight: 50
 url: /de/net/aspose.psd.fileformats.psd.layers.layerresources/lyidresource/signature/
 ---
+{{< psd/tize >}}
 ## LyidResource.Signature property
 
-Ruft die Signatur ab.
+Liest die Signatur.
 
 ```csharp
 public override int Signature { get; }
@@ -17,7 +18,7 @@ public override int Signature { get; }
 ### Siehe auch
 
 * class [LyidResource](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../lyidresource/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

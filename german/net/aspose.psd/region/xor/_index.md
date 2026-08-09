@@ -1,14 +1,15 @@
 ---
-title: Region.Xor
-second_title: Aspose.PSD für .NET-API-Referenz
-description: Region methode. aktualisiert diesRegion zur Vereinigung abzüglich der Schnittmenge von sich selbst mit der angegebenenRectangleFStruktur.
+title: "Region.Xor"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "Region‑Methode. Aktualisiert diese Region zu der Vereinigung minus der Schnittmenge mit der angegebenen RectangleF‑Struktur."
 type: docs
-weight: 150
+weight: 160
 url: /de/net/aspose.psd/region/xor/
 ---
+{{< psd/tize >}}
 ## Xor(RectangleF) {#xor_2}
 
-aktualisiert dies[`Region`](../) zur Vereinigung abzüglich der Schnittmenge von sich selbst mit der angegebenen[`RectangleF`](../../rectanglef/)Struktur.
+Aktualisiert diese [`Region`](../) zu der Vereinigung minus der Schnittmenge mit der angegebenen [`RectangleF`](../../rectanglef/)-Struktur.
 
 ```csharp
 public void Xor(RectangleF rect)
@@ -16,20 +17,20 @@ public void Xor(RectangleF rect)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| rect | RectangleF | Der[`RectangleF`](../../rectanglef/) Struktur zu xor damit[`Region`](../). |
+| rect | RectangleF | Die [`RectangleF`](../../rectanglef/)-Struktur, die mit dieser [`Region`](../) xor-verknüpft werden soll. |
 
 ### Siehe auch
 
 * struct [RectangleF](../../rectanglef/)
 * class [Region](../)
-* namensraum [Aspose.PSD](../../region/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Xor(Rectangle) {#xor_1}
 
-aktualisiert dies[`Region`](../) zur Vereinigung abzüglich der Schnittmenge von sich selbst mit der angegebenen[`Rectangle`](../../rectangle/)Struktur.
+Aktualisiert diese [`Region`](../) zu der Vereinigung minus der Schnittmenge mit der angegebenen [`Rectangle`](../../rectangle/)-Struktur.
 
 ```csharp
 public void Xor(Rectangle rect)
@@ -37,20 +38,20 @@ public void Xor(Rectangle rect)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| rect | Rectangle | Der[`Rectangle`](../../rectangle/) Struktur zu xor damit[`Region`](../). |
+| rect | Rectangle | Die [`Rectangle`](../../rectangle/)-Struktur, die mit dieser [`Region`](../) xor-verknüpft werden soll. |
 
 ### Siehe auch
 
 * struct [Rectangle](../../rectangle/)
 * class [Region](../)
-* namensraum [Aspose.PSD](../../region/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Xor(GraphicsPath) {#xor}
 
-aktualisiert dies[`Region`](../) zur Vereinigung abzüglich der Schnittmenge von sich selbst mit der angegebenen[`GraphicsPath`](../../graphicspath/) .
+Aktualisiert diese [`Region`](../) zu der Vereinigung minus der Schnittmenge mit dem angegebenen [`GraphicsPath`](../../graphicspath/).
 
 ```csharp
 public void Xor(GraphicsPath path)
@@ -58,7 +59,7 @@ public void Xor(GraphicsPath path)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| path | GraphicsPath | Der[`GraphicsPath`](../../graphicspath/) damit zu xor[`Region`](../). |
+| path | GraphicsPath | Der [`GraphicsPath`](../../graphicspath/), der mit dieser [`Region`](../) xor-verknüpft werden soll. |
 
 ### Ausnahmen
 
@@ -70,14 +71,14 @@ public void Xor(GraphicsPath path)
 
 * class [GraphicsPath](../../graphicspath/)
 * class [Region](../)
-* namensraum [Aspose.PSD](../../region/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Xor(Region) {#xor_3}
 
-aktualisiert dies[`Region`](../) zur Vereinigung abzüglich der Schnittmenge von sich selbst mit der angegebenen[`Region`](../) .
+Aktualisiert dieses [`Region`](../) zur Vereinigung minus der Schnittmenge von sich selbst mit dem angegebenen [`Region`](../).
 
 ```csharp
 public void Xor(Region region)
@@ -85,7 +86,7 @@ public void Xor(Region region)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| region | Region | Der[`Region`](../) damit zu xor[`Region`](../). |
+| region | Region | Das [`Region`](../) zum XOR mit diesem [`Region`](../). |
 
 ### Ausnahmen
 
@@ -96,7 +97,7 @@ public void Xor(Region region)
 ### Siehe auch
 
 * class [Region](../)
-* namensraum [Aspose.PSD](../../region/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

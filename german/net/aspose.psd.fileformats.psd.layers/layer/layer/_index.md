@@ -1,22 +1,23 @@
 ---
-title: Layer.Layer
-second_title: Aspose.PSD für .NET-API-Referenz
-description: Layer constructeur. Initialisiert eine neue Instanz vonLayer Klasse. Konstruktor für verzögerte Initialisierung.
+title: "Layer.Layer"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "Layer-Konstruktor. Initialisiert eine neue Instanz der Layer-Klasse. Konstruktor für Lazy-Initialisierung"
 type: docs
 weight: 10
 url: /de/net/aspose.psd.fileformats.psd.layers/layer/layer/
 ---
+{{< psd/tize >}}
 ## Layer() {#constructor}
 
-Initialisiert eine neue Instanz von[`Layer`](../) Klasse. Konstruktor für verzögerte Initialisierung.
+Initialisiert eine neue Instanz der [`Layer`](../)-Klasse. Konstruktor für Lazy-Initialisierung.
 
 ```csharp
 public Layer()
 ```
 
-### Beispiele
+## Beispiele
 
-Das folgende Beispiel zeigt, wie Sie auf einer neu erstellten Ebene zeichnen können, wenn die einfache Konstruktorversion in Aspose.PSD verwendet wird
+Das folgende Beispiel zeigt, wie Sie auf einer neu erstellten Ebene zeichnen können, wenn die einfache Konstruktor-Version in Aspose.PSD verwendet wird.
 
 ```csharp
 [C#]
@@ -35,10 +36,10 @@ using (var image = new PsdImage(width, height))
     Graphics graphic = new Graphics(layer);
     graphic.Clear(Color.Yellow);
 
-    // Zeichnen Sie ein Rechteck mit dem Stiftwerkzeug
+    // Zeichnen Sie ein Rechteck mit dem Pen-Werkzeug
     graphic.DrawRectangle(new Pen(Color.Red), new Rectangle(30, 10, 40, 80));
 
-    // zeichne ein weiteres Rechteck mit Solid Brush in blauer Farbe
+    // Zeichnen Sie ein weiteres Rechteck mit Solid Brush in blauer Farbe
     graphic.DrawRectangle(new Pen(new SolidBrush(Color.Blue)), new Rectangle(10, 30, 80, 40));
 
     image.Save(outputFilePath);
@@ -48,14 +49,14 @@ using (var image = new PsdImage(width, height))
 ### Siehe auch
 
 * class [Layer](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers](../../layer/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Layer(RasterImage, bool) {#constructor_1}
 
-Initialisiert eine neue Instanz von[`Layer`](../) Klasse.
+Initialisiert eine neue Instanz der [`Layer`](../)-Klasse.
 
 ```csharp
 public Layer(RasterImage image, bool disposeImage = false)
@@ -64,11 +65,11 @@ public Layer(RasterImage image, bool disposeImage = false)
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
 | image | RasterImage | Das Bild. |
-| disposeImage | Boolean | wenn eingestellt`WAHR` [Bild entsorgen]. |
+| disposeImage | Boolean | wenn auf `true` gesetzt [dispose image]. |
 
-### Beispiele
+## Beispiele
 
-Der folgende Code demonstriert die Fähigkeit, JPEG/PNG/etc-Bilddateien ohne direktes Laden in PsdImage zu laden.
+Der folgende Code demonstriert die Möglichkeit, JPEG/PNG/etc.-Bilddateien in PsdImage zu laden, ohne direktes Laden.
 
 ```csharp
 [C#]
@@ -104,14 +105,14 @@ using (var image = new PsdImage(200, 200))
 
 * class [RasterImage](../../../aspose.psd/rasterimage/)
 * class [Layer](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers](../../layer/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Layer(Stream) {#constructor_3}
 
-Initialisiert eine neue Instanz von[`Layer`](../) Klasse.
+Initialisiert eine neue Instanz der [`Layer`](../)-Klasse.
 
 ```csharp
 public Layer(Stream stream)
@@ -119,11 +120,11 @@ public Layer(Stream stream)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| stream | Stream | Der Bildstrom |
+| Strom | Stream | Der Bild-Stream |
 
-### Beispiele
+## Beispiele
 
-Das folgende Beispiel zeigt, wie Sie Bmp-, Jpeg-, Jpeg2000-, Png-, Psd-, Tiff- und Gif-Bilder als Ebenen zu PsdImage hinzufügen können
+Das folgende Beispiel zeigt, wie Sie Bmp-, Jpeg-, Jpeg2000-, Png-, Psd-, Tiff- und Gif‑Bilder als Ebenen zu PsdImage hinzufügen können.
 
 ```csharp
 [C#]
@@ -173,14 +174,14 @@ using (var image = new PsdImage(200, 200))
 ### Siehe auch
 
 * class [Layer](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers](../../layer/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Layer(Rectangle, byte[], byte[], byte[], string) {#constructor_2}
 
-Initialisiert eine neue Instanz von[`Layer`](../) Klasse aus Byte-Arrays.
+Initialisiert eine neue Instanz der [`Layer`](../)-Klasse aus Byte-Arrays.
 
 ```csharp
 public Layer(Rectangle bounds, byte[] redBytes, byte[] greenBytes, byte[] blueBytes, string name)
@@ -188,7 +189,7 @@ public Layer(Rectangle bounds, byte[] redBytes, byte[] greenBytes, byte[] blueBy
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| bounds | Rectangle | Die Schichtgrenzen. |
+| bounds | Rectangle | Die Layer-Grenzen. |
 | redBytes | Byte[] | Die roten Bytes. |
 | greenBytes | Byte[] | Die grünen Bytes. |
 | blueBytes | Byte[] | Die blauen Bytes. |
@@ -198,13 +199,13 @@ public Layer(Rectangle bounds, byte[] redBytes, byte[] greenBytes, byte[] blueBy
 
 | Ausnahme | Bedingung |
 | --- | --- |
-| [PsdImageException](../../../aspose.psd.coreexceptions.imageformats/psdimageexception/) | Byte-Arrays dürfen nicht leer sein oder Die Länge von Byte-Arrays muss den Grenzabmessungen entsprechen (bounds.Width * bounds.Height) |
+| [PsdImageException](../../../aspose.psd.coreexceptions.imageformats/psdimageexception/) | Byte-Arrays dürfen nicht leer sein, und die Länge von Byte-Arrays muss den Abmessungen der Bounds entsprechen (bounds.Width * bounds.Height). |
 
 ### Siehe auch
 
 * struct [Rectangle](../../../aspose.psd/rectangle/)
 * class [Layer](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers](../../layer/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: PsdImage.HasTransparencyData
-second_title: Aspose.PSD für .NET-API-Referenz
-description: PsdImage eigendom. Ruft einen Wert ab oder legt einen Wert fest der angibt ob der erste Alphakanal die Transparenzdaten für das zusammengeführte Ergebnis enthält wenn Ebenendaten angegeben werden.
+title: "PsdImage.HasTransparencyData"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "PsdImage-Eigenschaft. Gibt einen Wert zurück oder legt ihn fest, der angibt, ob der erste Alphakanal die Transparenzdaten für das zusammengeführte Ergebnis enthält, wenn Ebenendaten angegeben werden."
 type: docs
 weight: 150
 url: /de/net/aspose.psd.fileformats.psd/psdimage/hastransparencydata/
 ---
+{{< psd/tize >}}
 ## PsdImage.HasTransparencyData property
 
-Ruft einen Wert ab oder legt einen Wert fest, der angibt, ob der erste Alphakanal die Transparenzdaten für das zusammengeführte Ergebnis enthält, wenn Ebenendaten angegeben werden.
+Liest oder setzt einen Wert, der angibt, ob der erste Alphakanal die Transparenzdaten für das zusammengeführte Ergebnis enthält, wenn Ebenendaten angegeben werden.
 
 ```csharp
 public bool HasTransparencyData { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
-`WAHR` wenn der erste Alphakanal die Transparenzdaten für das zusammengeführte Ergebnis enthält, wenn Ebenendaten angegeben werden; ansonsten,`FALSCH` .
+`true`, wenn der erste Alphakanal die Transparenzdaten für das zusammengeführte Ergebnis enthält, wenn Ebenendaten angegeben werden; andernfalls `false`.
 
 ### Siehe auch
 
 * class [PsdImage](../)
-* namensraum [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

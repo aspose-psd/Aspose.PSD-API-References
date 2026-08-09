@@ -1,27 +1,28 @@
 ---
-title: VectorRasterizationOptions.BorderX
-second_title: Aspose.PSD für .NET-API-Referenz
-description: VectorRasterizationOptions eigendom. Holt oder setzt den Rand X.
+title: "VectorRasterizationOptions.BorderX"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "VectorRasterizationOptions Eigenschaft. Ruft den Rand X ab oder legt ihn fest"
 type: docs
 weight: 20
 url: /de/net/aspose.psd.imageoptions/vectorrasterizationoptions/borderx/
 ---
+{{< psd/tize >}}
 ## VectorRasterizationOptions.BorderX property
 
-Holt oder setzt den Rand X.
+Liest oder setzt den Rand X.
 
 ```csharp
 public float BorderX { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
-Die Grenze X.
+Der Rand X.
 
 ### Siehe auch
 
 * class [VectorRasterizationOptions](../)
-* namensraum [Aspose.PSD.ImageOptions](../../vectorrasterizationoptions/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

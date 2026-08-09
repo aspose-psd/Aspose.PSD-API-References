@@ -1,11 +1,12 @@
 ---
-title: Enum ColorAdjustType
-second_title: Aspose.PSD für .NET-API-Referenz
-description: Aspose.PSD.ColorAdjustType opsomming. Gibt an welche Objekte Farbanpassungsinformationen verwenden.
+title: "Enum ColorAdjustType"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "Aspose.PSD.ColorAdjustType‑Enum. Gibt an, welche Objekte Farbanpassungsinformationen verwenden"
 type: docs
 weight: 300
 url: /de/net/aspose.psd/coloradjusttype/
 ---
+{{< psd/tize >}}
 ## ColorAdjustType enumeration
 
 Gibt an, welche Objekte Farbanpassungsinformationen verwenden.
@@ -18,17 +19,17 @@ public enum ColorAdjustType
 
 | Name | Wert | Beschreibung |
 | --- | --- | --- |
-| Default | `0` | Farbanpassungsinformationen, die von allen GDI+-Objekten verwendet werden, die keine eigenen Farbanpassungsinformationen haben. |
-| Bitmap | `1` | Farbanpassungsinformationen für Bitmap-Objekte. |
-| Brush | `2` | Farbanpassungsinformationen für Pinselobjekte. |
-| Pen | `3` | Farbanpassungsinformationen für Stiftobjekte. |
+| Default | `0` | Farbanpassungsinformationen, die von allen GDI+-Objekten verwendet werden, die keine eigenen Farbanpassungsinformationen besitzen. |
+| Bitmap | `1` | Farbanpassungsinformationen für Bitmap‑Objekte. |
+| Brush | `2` | Farbanpassungsinformationen für Brush‑Objekte. |
+| Pen | `3` | Farbanpassungsinformationen für Pen‑Objekte. |
 | Text | `4` | Farbanpassungsinformationen für Text. |
-| Count | `5` | Die Anzahl der angegebenen Typen. |
-| Any | `6` | Die Anzahl der angegebenen Typen. |
+| Count | `5` | Die angegebene Anzahl von Typen. |
+| Any | `6` | Die angegebene Anzahl von Typen. |
 
 ### Siehe auch
 
-* namensraum [Aspose.PSD](../../aspose.psd/)
-* Montage [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

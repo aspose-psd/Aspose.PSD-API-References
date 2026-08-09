@@ -1,12 +1,13 @@
 ---
-title: Aspose.PSD.Exif
-second_title: Aspose.PSD für .NET-API-Referenz
-description: Der Namensraum enthält EXIFbezogene Hilfsklassen und Methoden.
+title: "Aspose.PSD.Exif"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "Der Namespace enthält EXIF-bezogene Hilfsklassen und -methoden"
 type: docs
-weight: 90
+weight: 100
 url: /de/net/aspose.psd.exif/
 ---
-Der Namensraum enthält EXIF-bezogene Hilfsklassen und Methoden.
+{{< psd/tize >}}
+Der Namensraum enthält EXIF‑bezogene Hilfsklassen und -methoden.
 
 ## Klassen
 
@@ -14,11 +15,11 @@ Der Namensraum enthält EXIF-bezogene Hilfsklassen und Methoden.
 | --- | --- |
 | [ExifData](./exifdata/) | EXIF-Datencontainer. |
 | [JpegExifData](./jpegexifdata/) | EXIF-Datencontainer für JPEG-Dateien. |
-| [TiffDataTypeController](./tiffdatatypecontroller/) | Repräsentiert die allgemeine Klasse für die Arbeit mit TIFF-Datentypen. |
+| [TiffDataTypeController](./tiffdatatypecontroller/) | Stellt eine allgemeine Klasse für die Arbeit mit TIFF-Datentypen dar. |
 ## Aufzählung
 
 | Aufzählung | Beschreibung |
 | --- | --- |
-| [ExifProperties](./exifproperties/) | Liste der Exif-Tags |
+| [ExifProperties](./exifproperties/) | Exif-Tag-Liste |
 
 

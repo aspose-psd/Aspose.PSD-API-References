@@ -1,27 +1,28 @@
 ---
-title: LuniResource.Name
-second_title: Aspose.PSD für .NET-API-Referenz
-description: LuniResource eigendom. Ruft den Namen ab oder legt ihn fest.
+title: "LuniResource.Name"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "LuniResource-Eigenschaft. Ruft den Namen ab oder legt ihn fest."
 type: docs
-weight: 40
+weight: 30
 url: /de/net/aspose.psd.fileformats.psd.layers.layerresources/luniresource/name/
 ---
+{{< psd/tize >}}
 ## LuniResource.Name property
 
-Ruft den Namen ab oder legt ihn fest.
+Liest oder setzt den Namen.
 
 ```csharp
 public string Name { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
 Der Name.
 
 ### Siehe auch
 
 * class [LuniResource](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../luniresource/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

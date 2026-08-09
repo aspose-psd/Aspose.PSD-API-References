@@ -1,14 +1,15 @@
 ---
-title: RasterCachedImage.Crop
-second_title: Aspose.PSD für .NET-API-Referenz
-description: RasterCachedImage methode. Bild zuschneiden.
+title: "RasterCachedImage.Crop"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "RasterCachedImage-Methode. Zuschneiden des Bildes"
 type: docs
 weight: 90
 url: /de/net/aspose.psd/rastercachedimage/crop/
 ---
+{{< psd/tize >}}
 ## RasterCachedImage.Crop method
 
-Bild zuschneiden.
+Zuschneiden des Bildes.
 
 ```csharp
 public override void Crop(Rectangle rectangle)
@@ -16,11 +17,11 @@ public override void Crop(Rectangle rectangle)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| rectangle | Rectangle | Das Rechteck. |
+| Rechteck | Rectangle | Das Rechteck. |
 
-### Beispiele
+## Beispiele
 
-Der folgende Code demonstriert die Möglichkeit, das Bild anhand eines bestimmten Rechtecks zuzuschneiden.
+Der folgende Code demonstriert die Möglichkeit, das Bild mit einem bestimmten Rechteck zuzuschneiden.
 
 ```csharp
 [C#]
@@ -73,7 +74,7 @@ using (var image = (PsdImage)Image.Load(sourceFileName))
     // PSD speichern
     image.Save(exportPath, new PsdOptions());
 
-    // png speichern
+    // PNG speichern
     image.Save(exportPathPng, new PngOptions());
 }
 ```
@@ -82,7 +83,7 @@ using (var image = (PsdImage)Image.Load(sourceFileName))
 
 * struct [Rectangle](../../rectangle/)
 * class [RasterCachedImage](../)
-* namensraum [Aspose.PSD](../../rastercachedimage/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

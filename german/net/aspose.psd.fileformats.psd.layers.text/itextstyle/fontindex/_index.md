@@ -1,26 +1,27 @@
 ---
-title: ITextStyle.FontIndex
-second_title: Aspose.PSD für .NET-API-Referenz
-description: ITextStyle eigendom. Ruft den Schriftindex ab.
+title: "ITextStyle.FontIndex"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "ITextStyle-Eigenschaft. Gibt den Schriftartindex zurück"
 type: docs
 weight: 110
 url: /de/net/aspose.psd.fileformats.psd.layers.text/itextstyle/fontindex/
 ---
+{{< psd/tize >}}
 ## ITextStyle.FontIndex property
 
-Ruft den Schriftindex ab.
+Liest den Schriftindex.
 
 ```csharp
 public int FontIndex { get; }
 ```
 
-### Eigentumswert
+### Property Value
 
 Die Schriftart.
 
-### Beispiele
+## Beispiele
 
-Der folgende Code zeigt, wie Aspose.PSD Eigenschaften der Inline-Formatierung der Textebene erhält.
+Der folgende Code zeigt, wie Aspose.PSD die Eigenschaften der Inline-Formatierung der Textebene abruft.
 
 ```csharp
 [C#]
@@ -30,7 +31,7 @@ List<ITextPortion> regularText = new List<ITextPortion>();
 List<ITextPortion> boldText = new List<ITextPortion>();
 List<ITextPortion> italicText = new List<ITextPortion>();
 
-// Ein vorhandenes Bild in eine Instanz der PsdImage-Klasse laden
+// Laden Sie ein vorhandenes Bild in eine Instanz der Klasse PsdImage.
 using (var psdImage = (PsdImage)Image.Load(sourceFile))
 {
 
@@ -45,7 +46,7 @@ using (var psdImage = (PsdImage)Image.Load(sourceFile))
 
         var textLayer = (TextLayer)layer;
 
-        // Ruft Schriftarten ab, die in der Textebene enthalten sind
+        // Ermittelt Schriftarten, die in der Textebene enthalten sind
         var fonts = textLayer.GetFonts();
         var textPortions = textLayer.TextData.Items;
 
@@ -77,7 +78,7 @@ using (var psdImage = (PsdImage)Image.Load(sourceFile))
 ### Siehe auch
 
 * interface [ITextStyle](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.Text](../../itextstyle/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.Text](../../../aspose.psd.fileformats.psd.layers.text/)
+* assembly [Aspose.PSD](../../../)
 
 

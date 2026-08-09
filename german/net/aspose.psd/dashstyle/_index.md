@@ -1,14 +1,15 @@
 ---
-title: Enum DashStyle
-second_title: Aspose.PSD für .NET-API-Referenz
-description: Aspose.PSD.DashStyle opsomming. Gibt den Stil von gestrichelten Linien an die mit a gezeichnet werdenPen Objekt.
+title: "Enum DashStyle"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "Aspose.PSD.DashStyle Enum. Gibt den Stil von gestrichelten Linien an, die mit einem Pen-Objekt gezeichnet werden."
 type: docs
-weight: 720
+weight: 730
 url: /de/net/aspose.psd/dashstyle/
 ---
+{{< psd/tize >}}
 ## DashStyle enumeration
 
-Gibt den Stil von gestrichelten Linien an, die mit a gezeichnet werden[`Pen`](../pen/) Objekt.
+Gibt den Stil von gestrichelten Linien an, die mit einem [`Pen`](../pen/) Objekt gezeichnet werden.
 
 ```csharp
 public enum DashStyle
@@ -19,15 +20,15 @@ public enum DashStyle
 | Name | Wert | Beschreibung |
 | --- | --- | --- |
 | Solid | `0` | Gibt eine durchgezogene Linie an. |
-| Dash | `1` | Gibt eine Linie an, die aus Bindestrichen besteht. |
-| Dot | `2` | Gibt eine Linie an, die aus Punkten besteht. |
-| DashDot | `3` | Gibt eine Linie an, die aus einem sich wiederholenden Strichpunktmuster besteht. |
-| DashDotDot | `4` | Gibt eine Linie an, die aus einem sich wiederholenden Strich-Punkt-Punkt-Muster besteht. |
-| Custom | `5` | Gibt einen benutzerdefinierten benutzerdefinierten Strichstil an. |
+| Dash | `1` | Gibt eine Linie aus Strichen an. |
+| Dot | `2` | Gibt eine Linie aus Punkten an. |
+| DashDot | `3` | Gibt eine Linie mit einem wiederholenden Muster aus Strich-Punkt an. |
+| DashDotDot | `4` | Gibt eine Linie an, die aus einem wiederholenden Muster aus Strich-Punkt-Punkt besteht. |
+| Custom | `5` | Gibt einen benutzerdefinierten Strichstil an. |
 
 ### Siehe auch
 
-* namensraum [Aspose.PSD](../../aspose.psd/)
-* Montage [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

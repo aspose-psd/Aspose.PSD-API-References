@@ -1,27 +1,28 @@
 ---
-title: SmartObjectResource.TransformMatrix
-second_title: Aspose.PSD für .NET-API-Referenz
-description: SmartObjectResource eigendom. Ruft die Transformationsmatrix der SmartObjektLayerDaten in der PSDDatei ab oder legt sie fest.
+title: "SmartObjectResource.TransformMatrix"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "SmartObjectResource-Eigenschaft. Gibt oder setzt die Transformationsmatrix der Smart‑Object‑Ebenendaten in der PSD‑Datei."
 type: docs
-weight: 230
+weight: 210
 url: /de/net/aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/transformmatrix/
 ---
+{{< psd/tize >}}
 ## SmartObjectResource.TransformMatrix property
 
-Ruft die Transformationsmatrix der Smart-Objekt-Layer-Daten in der PSD-Datei ab oder legt sie fest.
+Liest oder setzt die Transformationsmatrix der Smart‑Object‑Ebenendaten in der PSD‑Datei.
 
 ```csharp
 public override double[] TransformMatrix { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
-Die Transformationsmatrix der Smart-Objekt-Layer-Daten.
+Die Transformationsmatrix der Smart‑Object‑Ebenendaten.
 
 ### Siehe auch
 
 * class [SmartObjectResource](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../smartobjectresource/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

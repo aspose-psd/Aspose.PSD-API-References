@@ -1,14 +1,15 @@
 ---
-title: CmykColor.Empty
-second_title: Aspose.PSD für .NET-API-Referenz
-description: CmykColor eigendom. Ruft das leere ab.
+title: "CmykColor.Empty"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "CmykColor-Eigenschaft. Gibt das Leere zurück"
 type: docs
 weight: 10
 url: /de/net/aspose.psd/cmykcolor/empty/
 ---
+{{< psd/tize >}}
 ## CmykColor.Empty property
 
-Ruft das leere ab.
+Gibt das Leere zurück.
 
 ```csharp
 public static CmykColor Empty { get; }
@@ -17,7 +18,7 @@ public static CmykColor Empty { get; }
 ### Siehe auch
 
 * struct [CmykColor](../)
-* namensraum [Aspose.PSD](../../cmykcolor/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

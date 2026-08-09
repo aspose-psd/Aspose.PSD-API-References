@@ -1,20 +1,21 @@
 ---
-title: ExifData.GPSDestLatitude
-second_title: Aspose.PSD für .NET-API-Referenz
-description: ExifData eigendom. Ruft den GPSBreitengrad des Zielpunkts ab oder legt ihn fest.
+title: "ExifData.GPSDestLatitude"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "ExifData-Eigenschaft. Liest oder setzt den GPS-Breitengrad des Zielpunkts"
 type: docs
 weight: 440
 url: /de/net/aspose.psd.exif/exifdata/gpsdestlatitude/
 ---
+{{< psd/tize >}}
 ## ExifData.GPSDestLatitude property
 
-Ruft den GPS-Breitengrad des Zielpunkts ab oder legt ihn fest.
+Liest oder setzt den GPS-Breitengrad des Zielpunkts.
 
 ```csharp
 public TiffRational[] GPSDestLatitude { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
 Der GPS-Breitengrad des Zielpunkts.
 
@@ -22,7 +23,7 @@ Der GPS-Breitengrad des Zielpunkts.
 
 * class [TiffRational](../../../aspose.psd.fileformats.tiff/tiffrational/)
 * class [ExifData](../)
-* namensraum [Aspose.PSD.Exif](../../exifdata/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

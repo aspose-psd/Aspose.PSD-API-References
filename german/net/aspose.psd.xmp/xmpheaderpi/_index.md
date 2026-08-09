@@ -1,45 +1,46 @@
 ---
-title: Class XmpHeaderPi
-second_title: Aspose.PSD für .NET-API-Referenz
-description: Aspose.PSD.Xmp.XmpHeaderPi klas. Stellt XMPHeaderVerarbeitungsanweisung dar.
+title: "Klasse XmpHeaderPi"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "Aspose.PSD.Xmp.XmpHeaderPi class. Stellt die XMP-Header-Verarbeitungsanweisung dar"
 type: docs
-weight: 6250
+weight: 6750
 url: /de/net/aspose.psd.xmp/xmpheaderpi/
 ---
+{{< psd/tize >}}
 ## XmpHeaderPi class
 
-Stellt XMP-Header-Verarbeitungsanweisung dar.
+Stellt die XMP‑Header‑Verarbeitungsanweisung dar.
 
 ```csharp
 public sealed class XmpHeaderPi : IEquatable<XmpHeaderPi>, IXmlValue
 ```
 
-## Konstrukteure
+## Konstruktoren
 
 | Name | Beschreibung |
 | --- | --- |
-| [XmpHeaderPi](xmpheaderpi/#constructor)() | Initialisiert eine neue Instanz von`XmpHeaderPi` Klasse. |
-| [XmpHeaderPi](xmpheaderpi/#constructor_1)(string) | Initialisiert eine neue Instanz von`XmpHeaderPi` Klasse. |
+| [XmpHeaderPi](xmpheaderpi/#constructor)() | Initialisiert eine neue Instanz der `XmpHeaderPi`-Klasse. |
+| [XmpHeaderPi](xmpheaderpi/#constructor_1)(string) | Initialisiert eine neue Instanz der `XmpHeaderPi`-Klasse. |
 
 ## Eigenschaften
 
 | Name | Beschreibung |
 | --- | --- |
-| [Guid](../../aspose.psd.xmp/xmpheaderpi/guid/) { get; set; } | steht für Header Guid. |
+| [Guid](../../aspose.psd.xmp/xmpheaderpi/guid/) { get; set; } | Stellt Header-Guid dar. |
 
 ## Methoden
 
 | Name | Beschreibung |
 | --- | --- |
-| override [Equals](../../aspose.psd.xmp/xmpheaderpi/equals/#equals_1)(object) | Bestimmt, ob die angegebeneObject , entspricht dieser Instanz. |
-| [Equals](../../aspose.psd.xmp/xmpheaderpi/equals/#equals)(XmpHeaderPi) | Gibt an, ob das aktuelle Objekt gleich einem anderen Objekt desselben Typs ist. |
-| override [GetHashCode](../../aspose.psd.xmp/xmpheaderpi/gethashcode/)() | Gibt einen Hash-Code für diese Instanz zurück. |
+| override [Equals](../../aspose.psd.xmp/xmpheaderpi/equals/#equals_1)(object) | Bestimmt, ob das angegebene Objekt dieser Instanz gleich ist. |
+| [Equals](../../aspose.psd.xmp/xmpheaderpi/equals/#equals)(XmpHeaderPi) | Gibt an, ob das aktuelle Objekt einem anderen Objekt desselben Typs gleich ist. |
+| override [GetHashCode](../../aspose.psd.xmp/xmpheaderpi/gethashcode/)() | Gibt einen Hashcode für diese Instanz zurück. |
 | [GetXmlValue](../../aspose.psd.xmp/xmpheaderpi/getxmlvalue/)() | Konvertiert den XMP-Wert in die XML-Darstellung. |
 
 ### Siehe auch
 
 * interface [IXmlValue](../ixmlvalue/)
-* namensraum [Aspose.PSD.Xmp](../../aspose.psd.xmp/)
-* Montage [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Xmp](../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: TiffExifIfd.HasValue
-second_title: Aspose.PSD für .NET-API-Referenz
-description: TiffExifIfd eigendom. Ruft einen Wert ab der angibt ob diese Instanz einen Wert hat.
+title: "TiffExifIfd.HasValue"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "TiffExifIfd-Eigenschaft. Gibt einen Wert zurück, der angibt, ob diese Instanz einen Wert hat"
 type: docs
 weight: 20
 url: /de/net/aspose.psd.fileformats.tiff/tiffexififd/hasvalue/
 ---
+{{< psd/tize >}}
 ## TiffExifIfd.HasValue property
 
-Ruft einen Wert ab, der angibt, ob diese Instanz einen Wert hat.
+Gibt einen Wert zurück, der angibt, ob diese Instanz einen Wert hat.
 
 ```csharp
 public bool HasValue { get; }
 ```
 
-### Eigentumswert
+### Property Value
 
-`WAHR` wenn diese Instanz einen Wert hat; ansonsten,`FALSCH` .
+`true` wenn diese Instanz einen Wert hat; andernfalls `false`.
 
 ### Siehe auch
 
 * class [TiffExifIfd](../)
-* namensraum [Aspose.PSD.FileFormats.Tiff](../../tiffexififd/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff](../../../aspose.psd.fileformats.tiff/)
+* assembly [Aspose.PSD](../../../)
 
 

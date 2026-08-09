@@ -1,11 +1,12 @@
 ---
-title: Class XmpLocale
-second_title: Aspose.PSD für .NET-API-Referenz
-description: Aspose.PSD.Xmp.Types.Derived.XmpLocale klas. Stellt den Sprachcode dar.
+title: "Klasse XmpLocale"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "Aspose.PSD.Xmp.Types.Derived.XmpLocale Klasse. Stellt Sprachcode dar"
 type: docs
-weight: 6170
+weight: 6670
 url: /de/net/aspose.psd.xmp.types.derived/xmplocale/
 ---
+{{< psd/tize >}}
 ## XmpLocale class
 
 Stellt den Sprachcode dar.
@@ -14,32 +15,32 @@ Stellt den Sprachcode dar.
 public sealed class XmpLocale : XmpText
 ```
 
-## Konstrukteure
+## Konstruktoren
 
 | Name | Beschreibung |
 | --- | --- |
-| [XmpLocale](xmplocale/)(string) | Initialisiert eine neue Instanz von`XmpLocale` Klasse. |
+| [XmpLocale](xmplocale/)(string) | Initialisiert eine neue Instanz der `XmpLocale` Klasse. |
 
 ## Eigenschaften
 
 | Name | Beschreibung |
 | --- | --- |
-| [Value](../../aspose.psd.xmp.types.basic/xmptext/value/) { get; set; } | Ruft den Textwert ab oder legt ihn fest. |
+| [Value](../../aspose.psd.xmp.types.basic/xmptext/value/) { get; set; } | Liest oder setzt den Textwert. |
 
 ## Methoden
 
 | Name | Beschreibung |
 | --- | --- |
-| override [GetXmpRepresentation](../../aspose.psd.xmp.types.basic/xmptext/getxmprepresentation/)() | Ruft den in der Zeichenfolge enthaltenen Wert im XMP-Format ab. |
+| override [GetXmpRepresentation](../../aspose.psd.xmp.types.basic/xmptext/getxmprepresentation/)() | Liest den enthaltenen Zeichenfolgenwert im XMP-Format. |
 
-### Bemerkungen
+## Hinweise
 
 Siehe IETF RFC 3066.
 
 ### Siehe auch
 
 * class [XmpText](../../aspose.psd.xmp.types.basic/xmptext/)
-* namensraum [Aspose.PSD.Xmp.Types.Derived](../../aspose.psd.xmp.types.derived/)
-* Montage [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Xmp.Types.Derived](../../aspose.psd.xmp.types.derived/)
+* assembly [Aspose.PSD](../../)
 
 

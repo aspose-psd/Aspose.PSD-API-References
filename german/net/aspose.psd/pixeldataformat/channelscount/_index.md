@@ -1,27 +1,28 @@
 ---
-title: PixelDataFormat.ChannelsCount
-second_title: Aspose.PSD für .NET-API-Referenz
-description: PixelDataFormat eigendom. Ruft die Anzahl der Kanäle ab.
+title: "PixelDataFormat.ChannelsCount"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "PixelDataFormat-Eigenschaft. Liefert die Kanalanzahl."
 type: docs
 weight: 330
 url: /de/net/aspose.psd/pixeldataformat/channelscount/
 ---
+{{< psd/tize >}}
 ## PixelDataFormat.ChannelsCount property
 
-Ruft die Anzahl der Kanäle ab.
+Ermittelt die Kanalanzahl.
 
 ```csharp
 public int ChannelsCount { get; }
 ```
 
-### Eigentumswert
+### Property Value
 
-Die Anzahl der Kanäle.
+Die Kanalanzahl.
 
 ### Siehe auch
 
 * class [PixelDataFormat](../)
-* namensraum [Aspose.PSD](../../pixeldataformat/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

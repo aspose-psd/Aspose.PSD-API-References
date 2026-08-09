@@ -1,27 +1,28 @@
 ---
-title: XmpDate.Value
-second_title: Aspose.PSD für .NET-API-Referenz
-description: XmpDate eigendom. Ruft den Datumswert ab oder legt ihn fest.
+title: "XmpDate.Value"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "XmpDate-Eigenschaft. Gibt den Datumswert zurück oder legt ihn fest."
 type: docs
 weight: 30
 url: /de/net/aspose.psd.xmp.types.basic/xmpdate/value/
 ---
+{{< psd/tize >}}
 ## XmpDate.Value property
 
-Ruft den Datumswert ab oder legt ihn fest.
+Liest oder setzt den Datumswert.
 
 ```csharp
 public DateTime Value { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
 Der Datumswert.
 
 ### Siehe auch
 
 * class [XmpDate](../)
-* namensraum [Aspose.PSD.Xmp.Types.Basic](../../xmpdate/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Basic](../../../aspose.psd.xmp.types.basic/)
+* assembly [Aspose.PSD](../../../)
 
 

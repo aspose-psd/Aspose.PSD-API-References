@@ -1,28 +1,29 @@
 ---
-title: StringFormat.Trimming
-second_title: Aspose.PSD für .NET-API-Referenz
-description: StringFormat eigendom. Ruft ab oder setzt dieStringTrimming Aufzählung dazuStringFormat Objekt.
+title: "StringFormat.Trimming"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "StringFormat-Eigenschaft. Liest oder setzt die StringTrimming-Aufzählung für dieses StringFormat-Objekt."
 type: docs
-weight: 120
+weight: 130
 url: /de/net/aspose.psd/stringformat/trimming/
 ---
+{{< psd/tize >}}
 ## StringFormat.Trimming property
 
-Ruft ab oder setzt die[`StringTrimming`](../../stringtrimming/) Aufzählung dazu[`StringFormat`](../) Objekt.
+Liest oder setzt die [`StringTrimming`](../../stringtrimming/)-Aufzählung für dieses [`StringFormat`](../)-Objekt.
 
 ```csharp
 public StringTrimming Trimming { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
-A[`StringTrimming`](../../stringtrimming/) Aufzählung, die angibt, wie Text damit gezeichnet wird[`StringFormat`](../) Objekt wird getrimmt, wenn es die Ränder des Layoutrechtecks überschreitet.
+Eine [`StringTrimming`](../../stringtrimming/) Aufzählung, die angibt, wie mit diesem [`StringFormat`](../) Objekt gezeichneter Text beschnitten wird, wenn er die Ränder des Layoutrechtecks überschreitet.
 
 ### Siehe auch
 
 * enum [StringTrimming](../../stringtrimming/)
 * class [StringFormat](../)
-* namensraum [Aspose.PSD](../../stringformat/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

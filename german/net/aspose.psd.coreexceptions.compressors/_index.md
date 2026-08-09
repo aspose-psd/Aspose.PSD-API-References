@@ -1,19 +1,20 @@
 ---
-title: Aspose.PSD.CoreExceptions.Compressors
-second_title: Aspose.PSD für .NET-API-Referenz
-description: Der Namespace enthält Ausnahmen die von einem der unterstützten Komprimierungsalgorithmen ausgelöst werden.
+title: "Aspose.PSD.CoreExceptions.Compressors"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "Der Namensraum enthält Ausnahmen, die von einem der unterstützten Komprimierungsalgorithmen ausgelöst werden"
 type: docs
 weight: 50
 url: /de/net/aspose.psd.coreexceptions.compressors/
 ---
-Der Namespace enthält Ausnahmen, die von einem der unterstützten Komprimierungsalgorithmen ausgelöst werden.
+{{< psd/tize >}}
+Der Namensraum enthält Ausnahmen, die von einem der unterstützten Kompressionsalgorithmen ausgelöst werden.
 
 ## Klassen
 
 | Klasse | Beschreibung |
 | --- | --- |
-| [DeflateCompressorException](./deflatecompressorexception/) | Die Ausnahme des Deflate-Kompressors. |
+| [DeflateCompressorException](./deflatecompressorexception/) | Die Deflate-Kompressor-Ausnahme. |
 | [LzwCompressorException](./lzwcompressorexception/) | Die lzw-Kompressor-Ausnahme. |
-| [RleCompressorException](./rlecompressorexception/) | Die RLE-Kompressor-Ausnahme. |
+| [RleCompressorException](./rlecompressorexception/) | Die rle-Kompressor-Ausnahme. |
 
 

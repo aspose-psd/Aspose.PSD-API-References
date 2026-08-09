@@ -1,24 +1,25 @@
 ---
-title: UnitArrayStructure.ValueCount
-second_title: Aspose.PSD für .NET-API-Referenz
-description: UnitArrayStructure eigendom. Ruft die Wertanzahl ab.
+title: "UnitArrayStructure.ValueCount"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "UnitArrayStructure-Eigenschaft. Gibt die Wertanzahl zurück"
 type: docs
 weight: 50
 url: /de/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/unitarraystructure/valuecount/
 ---
+{{< psd/tize >}}
 ## UnitArrayStructure.ValueCount property
 
-Ruft die Wertanzahl ab.
+Liest die Anzahl der Werte.
 
 ```csharp
 public int ValueCount { get; }
 ```
 
-### Eigentumswert
+### Property Value
 
-Der Wertzähler in der Einheiten-Array-Struktur.
+Die Wertanzahl in der UnitArrayStructure.
 
-### Beispiele
+## Beispiele
 
 Der folgende Code demonstriert die Unterstützung der ObAr- und UnFl-Signaturen.
 
@@ -75,7 +76,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
 ### Siehe auch
 
 * class [UnitArrayStructure](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../unitarraystructure/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 

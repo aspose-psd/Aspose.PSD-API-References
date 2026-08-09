@@ -1,14 +1,15 @@
 ---
-title: VstkResource.FillEnabled
-second_title: Aspose.PSD für .NET-API-Referenz
-description: VstkResource eigendom. Ruft einen Wert ab oder legt einen Wert fest der angibt ob Strichfüllung aktiviert ist.
+title: "VstkResource.FillEnabled"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "VstkResource-Eigenschaft. Gibt oder setzt einen Wert, der angibt, ob die Strichfüllung aktiviert ist"
 type: docs
 weight: 20
 url: /de/net/aspose.psd.fileformats.psd.layers.layerresources.strokeresources/vstkresource/fillenabled/
 ---
+{{< psd/tize >}}
 ## VstkResource.FillEnabled property
 
-Ruft einen Wert ab oder legt einen Wert fest, der angibt, ob Strichfüllung aktiviert ist.
+Liest oder schreibt einen Wert, der angibt, ob die Strichfüllung aktiviert ist.
 
 ```csharp
 public bool FillEnabled { get; set; }
@@ -17,7 +18,7 @@ public bool FillEnabled { get; set; }
 ### Siehe auch
 
 * class [VstkResource](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.StrokeResources](../../vstkresource/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.StrokeResources](../../../aspose.psd.fileformats.psd.layers.layerresources.strokeresources/)
+* assembly [Aspose.PSD](../../../)
 
 

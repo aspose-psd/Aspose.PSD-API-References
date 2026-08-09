@@ -1,17 +1,18 @@
 ---
-title: Aspose.PSD.Xmp.Schemas.XmpRm
-second_title: Aspose.PSD für .NET-API-Referenz
-description: Der Namensraum enthält Hilfsklassen Konstanten und Methoden zur Rechteverwaltung. Diese Eigenschaften geben Informationen zu den rechtlichen Beschränkungen an die einer Ressource zugeordnet sind.
+title: "Aspose.PSD.Xmp.Schemas.XmpRm"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "Der Namespace enthält hilfsbezogene Klassen, Konstanten und Methoden zum Rechte‑Management. Diese Eigenschaften geben Informationen zu den rechtlichen Einschränkungen, die mit einer Ressource verbunden sind."
 type: docs
-weight: 590
+weight: 630
 url: /de/net/aspose.psd.xmp.schemas.xmprm/
 ---
-Der Namensraum enthält Hilfsklassen, Konstanten und Methoden zur Rechteverwaltung. Diese Eigenschaften geben Informationen zu den rechtlichen Beschränkungen an, die einer Ressource zugeordnet sind.
+{{< psd/tize >}}
+Der Namensraum enthält Rechte-Management-bezogene Hilfsklassen, Konstanten und Methoden. Diese Eigenschaften geben Informationen zu den rechtlichen Einschränkungen einer Ressource an.
 
 ## Klassen
 
 | Klasse | Beschreibung |
 | --- | --- |
-| [XmpRightsManagementPackage](./xmprightsmanagementpackage/) | Repräsentiert den XMP Rights Management-Namespace. |
+| [XmpRightsManagementPackage](./xmprightsmanagementpackage/) | Stellt den XMP‑Rights‑Management‑Namespace dar. |
 
 

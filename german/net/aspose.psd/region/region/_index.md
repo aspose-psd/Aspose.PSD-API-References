@@ -1,14 +1,15 @@
 ---
-title: Region.Region
-second_title: Aspose.PSD für .NET-API-Referenz
-description: Region constructeur. Initialisiert eine neueRegion .
+title: "Region.Region"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "Region-Konstruktor. Initialisiert ein neues Region-Objekt"
 type: docs
 weight: 10
 url: /de/net/aspose.psd/region/region/
 ---
+{{< psd/tize >}}
 ## Region() {#constructor}
 
-Initialisiert eine neue[`Region`](../) .
+Initialisiert ein neues [`Region`](../).
 
 ```csharp
 public Region()
@@ -17,14 +18,14 @@ public Region()
 ### Siehe auch
 
 * class [Region](../)
-* namensraum [Aspose.PSD](../../region/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Region(RectangleF) {#constructor_3}
 
-Initialisiert eine neue[`Region`](../) aus dem angegebenen[`RectangleF`](../../rectanglef/)Struktur.
+Initialisiert ein neues [`Region`](../) aus der angegebenen [`RectangleF`](../../rectanglef/)-Struktur.
 
 ```csharp
 public Region(RectangleF rect)
@@ -32,20 +33,20 @@ public Region(RectangleF rect)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| rect | RectangleF | A[`RectangleF`](../../rectanglef/) Struktur, die das Innere des Neuen definiert[`Region`](../). |
+| rect | RectangleF | Eine [`RectangleF`](../../rectanglef/)-Struktur, die das Innere des neuen [`Region`](../) definiert. |
 
 ### Siehe auch
 
 * struct [RectangleF](../../rectanglef/)
 * class [Region](../)
-* namensraum [Aspose.PSD](../../region/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Region(Rectangle) {#constructor_2}
 
-Initialisiert eine neue[`Region`](../) aus dem angegebenen[`Rectangle`](../../rectangle/)Struktur.
+Initialisiert ein neues [`Region`](../) aus der angegebenen [`Rectangle`](../../rectangle/)-Struktur.
 
 ```csharp
 public Region(Rectangle rect)
@@ -53,20 +54,20 @@ public Region(Rectangle rect)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| rect | Rectangle | A[`Rectangle`](../../rectangle/) Struktur, die das Innere des Neuen definiert[`Region`](../). |
+| rect | Rectangle | Eine [`Rectangle`](../../rectangle/)-Struktur, die das Innere des neuen [`Region`](../) definiert. |
 
 ### Siehe auch
 
 * struct [Rectangle](../../rectangle/)
 * class [Region](../)
-* namensraum [Aspose.PSD](../../region/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Region(GraphicsPath) {#constructor_1}
 
-Initialisiert eine neue[`Region`](../) mit den angegebenen[`GraphicsPath`](../../graphicspath/) .
+Initialisiert ein neues [`Region`](../) mit dem angegebenen [`GraphicsPath`](../../graphicspath/).
 
 ```csharp
 public Region(GraphicsPath path)
@@ -74,19 +75,19 @@ public Region(GraphicsPath path)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| path | GraphicsPath | A[`GraphicsPath`](../../graphicspath/)das definiert das Neue[`Region`](../). |
+| path | GraphicsPath | Ein [`GraphicsPath`](../../graphicspath/), der das neue [`Region`](../) definiert. |
 
 ### Ausnahmen
 
 | Ausnahme | Bedingung |
 | --- | --- |
-| ArgumentNullException | *path* ist Null. |
+| ArgumentNullException | *path* ist null. |
 
 ### Siehe auch
 
 * class [GraphicsPath](../../graphicspath/)
 * class [Region](../)
-* namensraum [Aspose.PSD](../../region/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

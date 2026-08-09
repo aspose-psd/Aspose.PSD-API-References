@@ -1,11 +1,12 @@
 ---
-title: Class BigRectangularFilterOptions
-second_title: Aspose.PSD für .NET-API-Referenz
-description: Aspose.PSD.ImageFilters.FilterOptions.BigRectangularFilterOptions klas. Große rechteckige Filteroptionen
+title: "Klasse BigRectangularFilterOptions"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "Aspose.PSD.ImageFilters.FilterOptions.BigRectangularFilterOptions Klasse. Big Rectangular Filter Optionen"
 type: docs
-weight: 4650
+weight: 5120
 url: /de/net/aspose.psd.imagefilters.filteroptions/bigrectangularfilteroptions/
 ---
+{{< psd/tize >}}
 ## BigRectangularFilterOptions class
 
 Große rechteckige Filteroptionen
@@ -14,16 +15,16 @@ Große rechteckige Filteroptionen
 public class BigRectangularFilterOptions : FilterOptionsBase
 ```
 
-## Konstrukteure
+## Konstruktoren
 
 | Name | Beschreibung |
 | --- | --- |
-| [BigRectangularFilterOptions](bigrectangularfilteroptions/)() | Default_Constructor |
+| [BigRectangularFilterOptions](bigrectangularfilteroptions/)() | Der Standardkonstruktor. |
 
 ### Siehe auch
 
 * class [FilterOptionsBase](../filteroptionsbase/)
-* namensraum [Aspose.PSD.ImageFilters.FilterOptions](../../aspose.psd.imagefilters.filteroptions/)
-* Montage [Aspose.PSD](../../)
+* namespace [Aspose.PSD.ImageFilters.FilterOptions](../../aspose.psd.imagefilters.filteroptions/)
+* assembly [Aspose.PSD](../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: Enum JpegLoadException.ErrorReason
-second_title: Aspose.PSD für .NET-API-Referenz
-description: Aspose.PSD.CoreExceptions.ImageFormats.JpegLoadExceptionErrorReason opsomming. Stellt die Fehlerursachen dar.
+title: "Enum JpegLoadException.ErrorReason"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "Aspose.PSD.CoreExceptions.ImageFormats.JpegLoadExceptionErrorReason Enum. Stellt die Fehlermöglichkeiten dar"
 type: docs
 weight: 560
 url: /de/net/aspose.psd.coreexceptions.imageformats/jpegloadexception.errorreason/
 ---
+{{< psd/tize >}}
 ## JpegLoadException.ErrorReason enumeration
 
-Stellt die Fehlerursachen dar.
+Stellt die Fehlermöglichkeiten dar.
 
 ```csharp
 public enum ErrorReason
@@ -24,7 +25,7 @@ public enum ErrorReason
 ### Siehe auch
 
 * class [JpegLoadException](../jpegloadexception/)
-* namensraum [Aspose.PSD.CoreExceptions.ImageFormats](../../aspose.psd.coreexceptions.imageformats/)
-* Montage [Aspose.PSD](../../)
+* namespace [Aspose.PSD.CoreExceptions.ImageFormats](../../aspose.psd.coreexceptions.imageformats/)
+* assembly [Aspose.PSD](../../)
 
 

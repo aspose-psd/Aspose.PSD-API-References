@@ -1,27 +1,28 @@
 ---
-title: TiffSRational.Value
-second_title: Aspose.PSD für .NET-API-Referenz
-description: TiffSRational eigendom. Ruft den Gleitkommawert ab.
+title: "TiffSRational.Value"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "TiffSRational-Eigenschaft. Gibt den float-Wert zurück"
 type: docs
 weight: 50
 url: /de/net/aspose.psd.fileformats.tiff/tiffsrational/value/
 ---
+{{< psd/tize >}}
 ## TiffSRational.Value property
 
-Ruft den Gleitkommawert ab.
+Liest den Float‑Wert.
 
 ```csharp
 public float Value { get; }
 ```
 
-### Eigentumswert
+### Property Value
 
-Der Gleitkommawert.
+Der Fließkommawert.
 
 ### Siehe auch
 
 * class [TiffSRational](../)
-* namensraum [Aspose.PSD.FileFormats.Tiff](../../tiffsrational/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff](../../../aspose.psd.fileformats.tiff/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: MotionWienerFilterOptions.Smooth
-second_title: Aspose.PSD für .NET-API-Referenz
-description: MotionWienerFilterOptions eigendom. Ruft die Glättung ab oder legt sie fest.
+title: "MotionWienerFilterOptions.Smooth"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "MotionWienerFilterOptions-Eigenschaft. Gibt das Glatte zurück oder legt es fest"
 type: docs
 weight: 40
 url: /de/net/aspose.psd.imagefilters.filteroptions/motionwienerfilteroptions/smooth/
 ---
+{{< psd/tize >}}
 ## MotionWienerFilterOptions.Smooth property
 
-Ruft die Glättung ab oder legt sie fest.
+Liest oder setzt die Glättung.
 
 ```csharp
 public double Smooth { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
-Der Glatte.
+Das Glatte.
 
 ### Siehe auch
 
 * class [MotionWienerFilterOptions](../)
-* namensraum [Aspose.PSD.ImageFilters.FilterOptions](../../motionwienerfilteroptions/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageFilters.FilterOptions](../../../aspose.psd.imagefilters.filteroptions/)
+* assembly [Aspose.PSD](../../../)
 
 

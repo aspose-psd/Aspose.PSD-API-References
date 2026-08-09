@@ -1,27 +1,28 @@
 ---
-title: VibAResource.PsdVersion
-second_title: Aspose.PSD für .NET-API-Referenz
-description: VibAResource eigendom. Ruft die PSDVersion ab.
+title: "VibAResource.PsdVersion"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "VibAResource-Eigenschaft. Gibt die PSD-Version zurück"
 type: docs
 weight: 40
 url: /de/net/aspose.psd.fileformats.psd.layers.layerresources/vibaresource/psdversion/
 ---
+{{< psd/tize >}}
 ## VibAResource.PsdVersion property
 
-Ruft die PSD-Version ab.
+Gibt die PSD-Version zurück.
 
 ```csharp
 public override int PsdVersion { get; }
 ```
 
-### Beispiele
+## Beispiele
 
 Das folgende Codebeispiel demonstriert die Unterstützung der VibAResource-Ressource.
 
 ```csharp
 [C#]
 
-// Beispiel für die Unterstützung des Lesens und Schreibens von Vibrationsressourcen zur Laufzeit.
+// Beispiel für die Unterstützung des Lesens und Schreibens der Vibrationsressource zur Laufzeit.
 string sourceFileName = "VibranceResource.psd";
 string outputFileName = "out_VibranceResource.psd";
 
@@ -53,7 +54,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFileName))
 ### Siehe auch
 
 * class [VibAResource](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../vibaresource/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

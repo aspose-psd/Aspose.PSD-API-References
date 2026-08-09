@@ -1,27 +1,28 @@
 ---
-title: TiffDataType.Count
-second_title: Aspose.PSD für .NET-API-Referenz
-description: TiffDataType eigendom. Ruft die Anzahl der Elemente ab.
+title: "TiffDataType.Count"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "TiffDataType-Eigenschaft. Gibt die Anzahl der Elemente zurück"
 type: docs
 weight: 30
 url: /de/net/aspose.psd.fileformats.tiff/tiffdatatype/count/
 ---
+{{< psd/tize >}}
 ## TiffDataType.Count property
 
-Ruft die Anzahl der Elemente ab.
+Gibt die Anzahl der Elemente zurück.
 
 ```csharp
 public abstract uint Count { get; }
 ```
 
-### Eigentumswert
+### Property Value
 
 Die Anzahl der Elemente.
 
 ### Siehe auch
 
 * class [TiffDataType](../)
-* namensraum [Aspose.PSD.FileFormats.Tiff](../../tiffdatatype/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff](../../../aspose.psd.fileformats.tiff/)
+* assembly [Aspose.PSD](../../../)
 
 

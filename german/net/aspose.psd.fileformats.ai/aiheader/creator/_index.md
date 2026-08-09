@@ -1,27 +1,28 @@
 ---
-title: AiHeader.Creator
-second_title: Aspose.PSD für .NET-API-Referenz
-description: AiHeader eigendom. Ruft den Ersteller ab oder legt ihn fest.
+title: "AiHeader.Creator"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "AiHeader-Eigenschaft. Gibt den Ersteller zurück oder legt ihn fest"
 type: docs
 weight: 40
 url: /de/net/aspose.psd.fileformats.ai/aiheader/creator/
 ---
+{{< psd/tize >}}
 ## AiHeader.Creator property
 
-Ruft den Ersteller ab oder legt ihn fest.
+Liest oder setzt den Ersteller.
 
 ```csharp
 public string Creator { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
-Der Schöpfer.
+Der Ersteller.
 
 ### Siehe auch
 
 * class [AiHeader](../)
-* namensraum [Aspose.PSD.FileFormats.Ai](../../aiheader/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

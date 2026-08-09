@@ -1,14 +1,15 @@
 ---
-title: PixelDataFormat.GetGrayscaleAlpha
-second_title: Aspose.PSD für .NET-API-Referenz
-description: PixelDataFormat methode. Ruft GrayscaleAlphaFarbe mit einer angegebenen Anzahl von Bits pro Sample ab.
+title: "PixelDataFormat.GetGrayscaleAlpha"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "PixelDataFormat-Methode. Gibt die GrayscaleAlpha‑Farbe mit einer angegebenen Bitanzahl pro Sample zurück."
 type: docs
 weight: 240
 url: /de/net/aspose.psd/pixeldataformat/getgrayscalealpha/
 ---
+{{< psd/tize >}}
 ## GetGrayscaleAlpha(int) {#getgrayscalealpha}
 
-Ruft GrayscaleAlpha-Farbe mit einer angegebenen Anzahl von Bits pro Sample ab.
+Ermittelt GraustufenAlpha-Farbe mit einer angegebenen Anzahl von Bits pro Sample.
 
 ```csharp
 public static PixelDataFormat GetGrayscaleAlpha(int bitsPerSample)
@@ -20,19 +21,19 @@ public static PixelDataFormat GetGrayscaleAlpha(int bitsPerSample)
 
 ### Rückgabewert
 
-Die Farbe GrayscaleAlpha.
+Die GrayscaleAlpha‑Farbe.
 
 ### Siehe auch
 
 * class [PixelDataFormat](../)
-* namensraum [Aspose.PSD](../../pixeldataformat/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## GetGrayscaleAlpha(int, int) {#getgrayscalealpha_1}
 
-Ruft GrayscaleAlpha-Farbe mit einer angegebenen Anzahl von Bits pro Sample ab.
+Ermittelt GraustufenAlpha-Farbe mit einer angegebenen Anzahl von Bits pro Sample.
 
 ```csharp
 public static PixelDataFormat GetGrayscaleAlpha(int bitsPerSample, int alphaChannelBits)
@@ -41,16 +42,16 @@ public static PixelDataFormat GetGrayscaleAlpha(int bitsPerSample, int alphaChan
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
 | bitsPerSample | Int32 | Die Anzahl der Bits pro Sample. |
-| alphaChannelBits | Int32 | Die Anzahl der Bits pro Sample im Alphakanal. |
+| alphaChannelBits | Int32 | Die Anzahl der Bits pro Sample im Alpha‑Kanal. |
 
 ### Rückgabewert
 
-Die Farbe GrayscaleAlpha.
+Die GrayscaleAlpha‑Farbe.
 
 ### Siehe auch
 
 * class [PixelDataFormat](../)
-* namensraum [Aspose.PSD](../../pixeldataformat/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

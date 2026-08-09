@@ -1,23 +1,31 @@
 ---
-title: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.StrokeResources
-second_title: Aspose.PSD für .NET-API-Referenz
-description: Der Namespace enthält ToolRessourcenentitäten vom Typ PSDDateiformat.
+title: "Aspose.PSD.FileFormats.Psd.Layers.LayerResources.StrokeResources"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "Der Namensraum enthält PSD‑Dateiformat‑Typ‑Werkzeugressourcen‑Entitäten"
 type: docs
-weight: 290
+weight: 310
 url: /de/net/aspose.psd.fileformats.psd.layers.layerresources.strokeresources/
 ---
-Der Namespace enthält Tool-Ressourcenentitäten vom Typ PSD-Dateiformat.
+{{< psd/tize >}}
+Der Namespace enthält PSD-Dateiformat-Typ-Tool-Ressourcen-Entitäten.
 
 ## Klassen
 
 | Klasse | Beschreibung |
 | --- | --- |
-| [VstkResource](./vstkresource/) | Ressourcenklasse VstkResource. Enthält Informationen zu Vektorstrichdaten. Die Ressource sollte entweder durch die AssginItems-Methode aus Ressourcendaten initialisiert werden, oder indem den Eigenschaften der Klasse Werte zugewiesen werden. |
+| [StrokeSettings](./strokesettings/) | Strich‑Einstellungen von Formen. |
+| [VscgResource](./vscgresource/) | Ressource für Vektor‑Strich‑Inhaltsdaten. |
+| [VstkResource](./vstkresource/) | Ressourcenklasse VstkResource. Enthält Informationen über Vektor‑Strich‑Daten. Die Ressource sollte entweder über die Methode AssignItems des ResourceLoader initialisiert werden oder indem Werte den Eigenschaften der Klasse zugewiesen werden. |
+## Schnittstellen
+
+| Schnittstelle | Beschreibung |
+| --- | --- |
+| [IStrokeSettings](./istrokesettings/) | Strich‑Einstellungen von Formen. |
 ## Aufzählung
 
 | Aufzählung | Beschreibung |
 | --- | --- |
-| [LineCapType](./linecaptype/) | Linienkappentyp. |
-| [LineJoinType](./linejointype/) | Linienverbindungstyp. |
+| [LineCapType](./linecaptype/) | Linienende-Typ. |
+| [LineJoinType](./linejointype/) | Linienverbindungs-Typ. |
 
 

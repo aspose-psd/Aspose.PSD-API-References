@@ -1,14 +1,15 @@
 ---
-title: RectangleF.op_Equality
-second_title: Aspose.PSD für .NET-API-Referenz
-description: RectangleF methode. Testet ob zweiRectangleF Strukturen haben dieselbe Position und Größe.
+title: "RectangleF.op_Equality"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "RectangleF-Methode. Prüft, ob zwei RectangleF-Strukturen gleiche Lage und Größe haben."
 type: docs
 weight: 270
 url: /de/net/aspose.psd/rectanglef/op_equality/
 ---
+{{< psd/tize >}}
 ## RectangleF Equality operator
 
-Testet ob zwei[`RectangleF`](../) Strukturen haben dieselbe Position und Größe.
+Prüft, ob zwei [`RectangleF`](../)-Strukturen gleiche Lage und Größe haben.
 
 ```csharp
 public static bool operator ==(RectangleF left, RectangleF right)
@@ -16,17 +17,17 @@ public static bool operator ==(RectangleF left, RectangleF right)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| left | RectangleF | Der[`RectangleF`](../) Struktur, die sich links vom Gleichheitsoperator befindet. |
-| right | RectangleF | Der[`RectangleF`](../)Struktur, die sich rechts vom Gleichheitsoperator befindet. |
+| left | RectangleF | Die [`RectangleF`](../)-Struktur, die links vom Gleichheitsoperator steht. |
+| right | RectangleF | Die [`RectangleF`](../)-Struktur, die rechts vom Gleichheitsoperator steht. |
 
 ### Rückgabewert
 
-Dieser Operator gibt true zurück, wenn die beiden angegeben sind[`RectangleF`](../) Strukturen haben gleich[`X`](../x/) ,[`Y`](../y/) ,[`Width`](../width/) , Und[`Height`](../height/) Eigenschaften.
+Dieser Operator gibt true zurück, wenn die beiden angegebenen [`RectangleF`](../)-Strukturen gleiche [`X`](../x/), [`Y`](../y/), [`Width`](../width/) und [`Height`](../height/)-Eigenschaften haben.
 
 ### Siehe auch
 
 * struct [RectangleF](../)
-* namensraum [Aspose.PSD](../../rectanglef/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

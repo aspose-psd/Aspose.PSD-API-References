@@ -1,28 +1,29 @@
 ---
-title: ExifData.Properties
-second_title: Aspose.PSD für .NET-API-Referenz
-description: ExifData eigendom. Ruft alle EXIFTags ab oder legt sie fest einschließlich allgemeiner und GPSTags.
+title: "ExifData.Properties"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "ExifData-Eigenschaft. Liest oder schreibt alle EXIF-Tags einschließlich gängiger und GPS-Tags"
 type: docs
 weight: 860
 url: /de/net/aspose.psd.exif/exifdata/properties/
 ---
+{{< psd/tize >}}
 ## ExifData.Properties property
 
-Ruft alle EXIF-Tags ab oder legt sie fest (einschließlich allgemeiner und GPS-Tags).
+Liest oder setzt alle EXIF‑Tags (einschließlich gängiger und GPS‑Tags).
 
 ```csharp
 public TiffDataType[] Properties { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
-Die EXIF-Tags (einschließlich allgemeiner und GPS-Tags).
+Die EXIF-Tags (einschließlich gängiger und GPS-Tags).
 
 ### Siehe auch
 
 * class [TiffDataType](../../../aspose.psd.fileformats.tiff/tiffdatatype/)
 * class [ExifData](../)
-* namensraum [Aspose.PSD.Exif](../../exifdata/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

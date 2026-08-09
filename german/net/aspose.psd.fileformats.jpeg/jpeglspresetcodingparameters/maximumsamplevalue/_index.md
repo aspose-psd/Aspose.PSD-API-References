@@ -1,14 +1,15 @@
 ---
-title: JpegLsPresetCodingParameters.MaximumSampleValue
-second_title: Aspose.PSD für .NET-API-Referenz
-description: JpegLsPresetCodingParameters eigendom. Ruft den maximal möglichen Wert für jedes Bildmuster in einem Scan ab oder legt ihn fest. Dieser muss größer oder gleich dem tatsächlichen Maximalwert für die Komponenten in einem Scan sein.
+title: "JpegLsPresetCodingParameters.MaximumSampleValue"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "JpegLsPresetCodingParameters-Eigenschaft. Liest oder schreibt den maximal möglichen Wert für jedes Bildsample in einem Scan. Dieser muss größer oder gleich dem tatsächlichen Maximalwert der Komponenten in einem Scan sein."
 type: docs
 weight: 20
 url: /de/net/aspose.psd.fileformats.jpeg/jpeglspresetcodingparameters/maximumsamplevalue/
 ---
+{{< psd/tize >}}
 ## JpegLsPresetCodingParameters.MaximumSampleValue property
 
-Ruft den maximal möglichen Wert für jedes Bildmuster in einem Scan ab oder legt ihn fest. Dieser muss größer oder gleich dem tatsächlichen Maximalwert für die Komponenten in einem Scan sein.
+Liest oder setzt den maximal möglichen Wert für jedes Bildsample in einem Scan. Dieser muss größer oder gleich dem tatsächlichen Maximalwert der Komponenten in einem Scan sein.
 
 ```csharp
 public int MaximumSampleValue { get; set; }
@@ -17,7 +18,7 @@ public int MaximumSampleValue { get; set; }
 ### Siehe auch
 
 * class [JpegLsPresetCodingParameters](../)
-* namensraum [Aspose.PSD.FileFormats.Jpeg](../../jpeglspresetcodingparameters/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Jpeg](../../../aspose.psd.fileformats.jpeg/)
+* assembly [Aspose.PSD](../../../)
 
 

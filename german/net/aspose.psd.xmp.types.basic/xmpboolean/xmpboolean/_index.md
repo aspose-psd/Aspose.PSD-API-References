@@ -1,14 +1,15 @@
 ---
-title: XmpBoolean.XmpBoolean
-second_title: Aspose.PSD für .NET-API-Referenz
-description: XmpBoolean constructeur. Initialisiert eine neue Instanz vonXmpBoolean Klasse basierend auf booleschen Wert.
+title: "XmpBoolean.XmpBoolean"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "XmpBoolean-Konstruktor. Initialisiert eine neue Instanz der XmpBoolean-Klasse basierend auf einem booleschen Wert."
 type: docs
 weight: 10
 url: /de/net/aspose.psd.xmp.types.basic/xmpboolean/xmpboolean/
 ---
+{{< psd/tize >}}
 ## XmpBoolean(bool) {#constructor_1}
 
-Initialisiert eine neue Instanz von[`XmpBoolean`](../) Klasse basierend auf booleschen Wert.
+Initialisiert eine neue Instanz der [`XmpBoolean`](../)-Klasse basierend auf einem booleschen Wert.
 
 ```csharp
 public XmpBoolean(bool value)
@@ -16,19 +17,19 @@ public XmpBoolean(bool value)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| value | Boolean | Der boolesche Wert. Zulässige Werte sind True oder False. |
+| Wert | Boolean | Der boolesche Wert. Erlaubte Werte sind True oder False. |
 
 ### Siehe auch
 
 * class [XmpBoolean](../)
-* namensraum [Aspose.PSD.Xmp.Types.Basic](../../xmpboolean/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Basic](../../../aspose.psd.xmp.types.basic/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## XmpBoolean() {#constructor}
 
-Initialisiert eine neue Instanz von[`XmpBoolean`](../) Klasse mit Standardwert.
+Initialisiert eine neue Instanz der [`XmpBoolean`](../)-Klasse mit dem Standardwert.
 
 ```csharp
 public XmpBoolean()
@@ -37,14 +38,14 @@ public XmpBoolean()
 ### Siehe auch
 
 * class [XmpBoolean](../)
-* namensraum [Aspose.PSD.Xmp.Types.Basic](../../xmpboolean/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Basic](../../../aspose.psd.xmp.types.basic/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## XmpBoolean(string) {#constructor_2}
 
-Initialisiert eine neue Instanz von[`XmpBoolean`](../) Klasse.
+Initialisiert eine neue Instanz der [`XmpBoolean`](../)-Klasse.
 
 ```csharp
 public XmpBoolean(string value)
@@ -52,19 +53,19 @@ public XmpBoolean(string value)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| value | String | Der Wert. |
+| Wert | String | Der Wert. |
 
 ### Ausnahmen
 
 | Ausnahme | Bedingung |
 | --- | --- |
 | ArgumentNullException | Wert |
-| ArgumentException | Ungültiger Zeichenfolgenwert;Wert |
+| ArgumentException | Ungültiger Zeichenfolgenwert;value |
 
 ### Siehe auch
 
 * class [XmpBoolean](../)
-* namensraum [Aspose.PSD.Xmp.Types.Basic](../../xmpboolean/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Basic](../../../aspose.psd.xmp.types.basic/)
+* assembly [Aspose.PSD](../../../)
 
 

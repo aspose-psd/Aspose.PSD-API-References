@@ -1,14 +1,15 @@
 ---
-title: Lr32Resource.Key
-second_title: Aspose.PSD für .NET-API-Referenz
-description: Lr32Resource eigendom. Ruft den LayerRessourcenschlüssel ab.
+title: "Lr32Resource.Key"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "Lr32Resource Eigenschaft. Liefert den layer resource key"
 type: docs
 weight: 20
 url: /de/net/aspose.psd.fileformats.psd.layers.layerresources/lr32resource/key/
 ---
+{{< psd/tize >}}
 ## Lr32Resource.Key property
 
-Ruft den Layer-Ressourcenschlüssel ab.
+Liest den Schichtressourcen-Schlüssel.
 
 ```csharp
 public override int Key { get; }
@@ -17,7 +18,7 @@ public override int Key { get; }
 ### Siehe auch
 
 * class [Lr32Resource](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../lr32resource/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../lr32resource/)
+* assembly [Aspose.PSD](../../../)
 
 

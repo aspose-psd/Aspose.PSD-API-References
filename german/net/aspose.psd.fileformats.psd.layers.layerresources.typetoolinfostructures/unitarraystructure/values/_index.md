@@ -1,30 +1,31 @@
 ---
-title: UnitArrayStructure.Values
-second_title: Aspose.PSD für .NET-API-Referenz
-description: UnitArrayStructure eigendom. Ruft die EinheitsArrayStrukturwerte ab oder legt sie fest.
+title: "UnitArrayStructure.Values"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "UnitArrayStructure Eigenschaft. Liest oder schreibt die Werte der UnitArrayStructure"
 type: docs
 weight: 60
 url: /de/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/unitarraystructure/values/
 ---
+{{< psd/tize >}}
 ## UnitArrayStructure.Values property
 
-Ruft die Einheits-Array-Strukturwerte ab oder legt sie fest.
+Liest oder setzt die Werte der unit array structure.
 
 ```csharp
 public double[] Values { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
-Die Einheits-Array-Strukturwerte.
+Die Werte der UnitArrayStructure.
 
 ### Ausnahmen
 
 | Ausnahme | Bedingung |
 | --- | --- |
-| ArgumentNullException | Values-Eigenschaft darf nicht null sein. |
+| ArgumentNullException | Die Values‑Eigenschaft darf nicht null sein. |
 
-### Beispiele
+## Beispiele
 
 Der folgende Code demonstriert die Unterstützung der ObAr- und UnFl-Signaturen.
 
@@ -81,7 +82,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
 ### Siehe auch
 
 * class [UnitArrayStructure](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../unitarraystructure/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 

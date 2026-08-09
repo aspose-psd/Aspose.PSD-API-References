@@ -1,14 +1,15 @@
 ---
-title: XmpArrayHelper.GetRdfCode
-second_title: Aspose.PSD für .NET-API-Referenz
-description: XmpArrayHelper methode. Ruft den RDFCode für bestimmte abXmpArrayType .
+title: "XmpArrayHelper.GetRdfCode"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "XmpArrayHelper-Methode. Gibt den RDF-Code für einen bestimmten XmpArrayType zurück"
 type: docs
 weight: 10
 url: /de/net/aspose.psd.xmp/xmparrayhelper/getrdfcode/
 ---
+{{< psd/tize >}}
 ## XmpArrayHelper.GetRdfCode method
 
-Ruft den RDF-Code für bestimmte ab[`XmpArrayType`](../../xmparraytype/) .
+Gibt den RDF-Code für einen bestimmten [`XmpArrayType`](../../xmparraytype/) zurück.
 
 ```csharp
 public static string GetRdfCode(XmpArrayType xmpArrayType)
@@ -20,19 +21,19 @@ public static string GetRdfCode(XmpArrayType xmpArrayType)
 
 ### Rückgabewert
 
-Gibt den RDF-Code für bestimmte zurück[`XmpArrayType`](../../xmparraytype/).
+Gibt den RDF-Code für einen bestimmten [`XmpArrayType`](../../xmparraytype/) zurück.
 
 ### Ausnahmen
 
 | Ausnahme | Bedingung |
 | --- | --- |
-| [XmpException](../../../aspose.psd.coreexceptions/xmpexception/) | Ausnahme wegen ungültigem Enum-Argument |
+| [XmpException](../../../aspose.psd.coreexceptions/xmpexception/) | Ungültige Enum-Argument-Ausnahme |
 
 ### Siehe auch
 
 * enum [XmpArrayType](../../xmparraytype/)
 * class [XmpArrayHelper](../)
-* namensraum [Aspose.PSD.Xmp](../../xmparrayhelper/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

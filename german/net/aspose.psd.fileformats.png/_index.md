@@ -1,12 +1,13 @@
 ---
-title: Aspose.PSD.FileFormats.Png
-second_title: Aspose.PSD für .NET-API-Referenz
-description: Der Namespace behandelt die Verarbeitung des PngDateiformats.
+title: "Aspose.PSD.FileFormats.Png"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "Der Namespace verarbeitet die Png-Dateiformatverarbeitung"
 type: docs
-weight: 190
+weight: 200
 url: /de/net/aspose.psd.fileformats.png/
 ---
-Der Namespace behandelt die Verarbeitung des Png-Dateiformats.
+{{< psd/tize >}}
+Der Namespace verarbeitet das Png-Dateiformat.
 
 ## Aufzählung
 

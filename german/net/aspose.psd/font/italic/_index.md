@@ -1,27 +1,28 @@
 ---
-title: Font.Italic
-second_title: Aspose.PSD für .NET-API-Referenz
-description: Font eigendom. Ruft einen Wert ab der angibt ob diesFontist kursiv.
+title: "Font.Italic"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "Font-Eigenschaft. Gibt einen Wert zurück, der angibt, ob diese Schrift kursiv ist"
 type: docs
 weight: 40
 url: /de/net/aspose.psd/font/italic/
 ---
+{{< psd/tize >}}
 ## Font.Italic property
 
-Ruft einen Wert ab, der angibt, ob dies[`Font`](../)ist kursiv.
+Gibt einen Wert zurück, der angibt, ob dieses [`Font`](../) kursiv ist.
 
 ```csharp
 public bool Italic { get; }
 ```
 
-### Eigentumswert
+### Property Value
 
-Stimmt, wenn dies[`Font`](../) ist kursiv; andernfalls falsch.
+Wahr, wenn dieses [`Font`](../) kursiv ist; andernfalls falsch.
 
 ### Siehe auch
 
 * class [Font](../)
-* namensraum [Aspose.PSD](../../font/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

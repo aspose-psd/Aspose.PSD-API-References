@@ -1,14 +1,15 @@
 ---
-title: FxrpResource.Key
-second_title: Aspose.PSD für .NET-API-Referenz
-description: FxrpResource eigendom. Ruft den LayerRessourcenschlüssel ab.
+title: "FxrpResource.Key"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "FxrpResource-Eigenschaft. Gibt den Schichtressourcen‑Schlüssel zurück"
 type: docs
 weight: 20
 url: /de/net/aspose.psd.fileformats.psd.layers.layerresources/fxrpresource/key/
 ---
+{{< psd/tize >}}
 ## FxrpResource.Key property
 
-Ruft den Layer-Ressourcenschlüssel ab.
+Liest den Schichtressourcen-Schlüssel.
 
 ```csharp
 public override int Key { get; }
@@ -17,7 +18,7 @@ public override int Key { get; }
 ### Siehe auch
 
 * class [FxrpResource](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../fxrpresource/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: PattResource.Signature
-second_title: Aspose.PSD für .NET-API-Referenz
-description: PattResource eigendom. Ruft die LayerRessourcensignatur ab.
+title: "PattResource.Signature"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "PattResource-Eigenschaft. Gibt die Signatur der Ebenenressource zurück"
 type: docs
 weight: 60
 url: /de/net/aspose.psd.fileformats.psd.layers.layerresources/pattresource/signature/
 ---
+{{< psd/tize >}}
 ## PattResource.Signature property
 
-Ruft die Layer-Ressourcensignatur ab.
+Liest die Signatur der Layer-Ressource.
 
 ```csharp
 public override int Signature { get; }
@@ -17,7 +18,7 @@ public override int Signature { get; }
 ### Siehe auch
 
 * class [PattResource](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../pattresource/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

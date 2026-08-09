@@ -1,14 +1,15 @@
 ---
-title: Interface ISmartFilterRenderer
-second_title: Aspose.PSD für .NET-API-Referenz
-description: Aspose.PSD.FileFormats.Psd.Layers.SmartFilters.Rendering.ISmartFilterRenderer koppel. Die Schnittstelle für einen bestimmten SmartFilterRenderer.
+title: "Schnittstelle ISmartFilterRenderer"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "Aspose.PSD.FileFormats.Psd.Layers.SmartFilters.Rendering.ISmartFilterRenderer Schnittstelle. Die Schnittstelle für einen bestimmten Smart-Filter-Renderer"
 type: docs
-weight: 3450
+weight: 3860
 url: /de/net/aspose.psd.fileformats.psd.layers.smartfilters.rendering/ismartfilterrenderer/
 ---
+{{< psd/tize >}}
 ## ISmartFilterRenderer interface
 
-Die Schnittstelle für einen bestimmten Smart-Filter-Renderer.
+Die Schnittstelle für einen bestimmten Smart‑Filter‑Renderer.
 
 ```csharp
 public interface ISmartFilterRenderer
@@ -18,18 +19,18 @@ public interface ISmartFilterRenderer
 
 | Name | Beschreibung |
 | --- | --- |
-| [Render](../../aspose.psd.fileformats.psd.layers.smartfilters.rendering/ismartfilterrenderer/render/)(PixelsData) | Rendert den aktuellen Smartfilter für die Pixeldaten. |
+| [Render](../../aspose.psd.fileformats.psd.layers.smartfilters.rendering/ismartfilterrenderer/render/)(PixelsData) | Rendert den aktuellen Smart-Filter auf den Pixeldaten. |
 
-### Beispiele
+## Beispiele
 
-Der folgende Code zeigt Ihnen, wie Sie einen benutzerdefinierten Smartfilter erstellen, der über einen benutzerdefinierten Renderer verfügt.
+Der folgende Code zeigt, wie man einen benutzerdefinierten Smart-Filter erstellt, der einen benutzerdefinierten Renderer hat.
 
 ```csharp
 [C#]
 
 public void CustomSmartFilterExample(string sourceFile = "psdnet1057.psd", string outputPsd = "out_psdnet1057.psd", string outputPng = "out_psdnet1057.png")
 {
-    // Initialisiert den nicht unterstützten 'Crystallize'-Smart-Filter am Eingabe-Array
+    // Initialisiert den nicht unterstützten 'Crystallize'-Smart-Filter im Eingabearray
     SmartFilter[] InitUnknownSmartFilters(SmartFilter[] smartFilters)
     {
         // die 'Crystallize'-Smart-Filter-ID.
@@ -90,7 +91,7 @@ public sealed class CustomSmartFilterWithRenderer : SmartFilter, ISmartFilterRen
     {
         // Filterstruktur abrufen
         var filterDescriptor = (DescriptorStructure) this.SourceDescriptor.Structures[6];
-        // Wert der Kristallisationsgröße abrufen
+        // Wert von Crystallize Size abrufen
         var valueStructure = (IntegerStructure) filterDescriptor.Structures[0];
 
         for (int i = 0; i < pixelsData.Pixels.Length; i++)
@@ -108,7 +109,7 @@ public sealed class CustomSmartFilterWithRenderer : SmartFilter, ISmartFilterRen
 
 ### Siehe auch
 
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.SmartFilters.Rendering](../../aspose.psd.fileformats.psd.layers.smartfilters.rendering/)
-* Montage [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.SmartFilters.Rendering](../../aspose.psd.fileformats.psd.layers.smartfilters.rendering/)
+* assembly [Aspose.PSD](../../)
 
 

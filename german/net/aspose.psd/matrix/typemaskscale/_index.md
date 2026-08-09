@@ -1,14 +1,15 @@
 ---
-title: Matrix.TypeMaskScale
-second_title: Aspose.PSD für .NET-API-Referenz
-description: Matrix veld. Diese Konstante ist eine Bitmaske für jedes der SkalierungsFlagBits.
+title: "Matrix.TypeMaskScale"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "Matrix-Feld. Diese Konstante ist eine Bitmaske für alle Skalierungs-Flag-Bits"
 type: docs
 weight: 260
 url: /de/net/aspose.psd/matrix/typemaskscale/
 ---
+{{< psd/tize >}}
 ## Matrix.TypeMaskScale field
 
-Diese Konstante ist eine Bitmaske für jedes der Skalierungs-Flag-Bits.
+Diese Konstante ist eine Bitmaske für beliebige Skalierungs‑Flag‑Bits.
 
 ```csharp
 public const int TypeMaskScale;
@@ -17,7 +18,7 @@ public const int TypeMaskScale;
 ### Siehe auch
 
 * class [Matrix](../)
-* namensraum [Aspose.PSD](../../matrix/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

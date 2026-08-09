@@ -1,14 +1,15 @@
 ---
-title: XmpArray.ToString
-second_title: Aspose.PSD für .NET-API-Referenz
-description: XmpArray methode. Gibt a zurückString die diese Instanz darstellt.
+title: "XmpArray.ToString"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "XmpArray-Methode. Gibt eine Zeichenkette zurück, die diese Instanz darstellt"
 type: docs
 weight: 50
 url: /de/net/aspose.psd.xmp/xmparray/tostring/
 ---
+{{< psd/tize >}}
 ## XmpArray.ToString method
 
-Gibt a zurückString die diese Instanz darstellt.
+Gibt einen String zurück, der diese Instanz darstellt.
 
 ```csharp
 public override string ToString()
@@ -16,12 +17,12 @@ public override string ToString()
 
 ### Rückgabewert
 
-AString die diese Instanz darstellt.
+Eine Zeichenkette, die diese Instanz darstellt.
 
 ### Siehe auch
 
 * class [XmpArray](../)
-* namensraum [Aspose.PSD.Xmp](../../xmparray/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

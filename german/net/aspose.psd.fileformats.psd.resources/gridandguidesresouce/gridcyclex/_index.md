@@ -1,27 +1,28 @@
 ---
-title: GridAndGuidesResouce.GridCycleX
-second_title: Aspose.PSD für .NET-API-Referenz
-description: GridAndGuidesResouce eigendom. Ermittelt oder setzt den horizontalen Rasterzyklus. Der Standardwert ist 576.
+title: "GridAndGuidesResouce.GridCycleX"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "GridAndGuidesResouce-Eigenschaft. Gibt den horizontalen Rasterzyklus zurück oder legt ihn fest. Der Standardwert ist 576"
 type: docs
 weight: 30
 url: /de/net/aspose.psd.fileformats.psd.resources/gridandguidesresouce/gridcyclex/
 ---
+{{< psd/tize >}}
 ## GridAndGuidesResouce.GridCycleX property
 
-Ermittelt oder setzt den horizontalen Rasterzyklus. Der Standardwert ist 576.
+Liest oder setzt den horizontalen Rasterzyklus. Der Standardwert ist 576.
 
 ```csharp
 public int GridCycleX { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
-Der horizontale Gitterzyklus.
+Der horizontale Rasterzyklus.
 
 ### Siehe auch
 
 * class [GridAndGuidesResouce](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Resources](../../gridandguidesresouce/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

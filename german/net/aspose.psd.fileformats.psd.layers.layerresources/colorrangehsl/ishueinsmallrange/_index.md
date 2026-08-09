@@ -1,11 +1,12 @@
 ---
-title: ColorRangeHsl.IsHueInSmallRange
-second_title: Aspose.PSD für .NET-API-Referenz
-description: ColorRangeHsl methode. Bestimmt ob der Farbton im kleinen Bereich liegt.
+title: "ColorRangeHsl.IsHueInSmallRange"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "ColorRangeHsl-Methode. Bestimmt, ob der Farbton im kleinen Bereich liegt"
 type: docs
 weight: 110
 url: /de/net/aspose.psd.fileformats.psd.layers.layerresources/colorrangehsl/ishueinsmallrange/
 ---
+{{< psd/tize >}}
 ## ColorRangeHsl.IsHueInSmallRange method
 
 Bestimmt, ob der Farbton im kleinen Bereich liegt.
@@ -16,16 +17,16 @@ public bool IsHueInSmallRange(double hue)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| hue | Double | Der Farbwert. |
+| Farbton | Doppelt | Der Farbtonwert. |
 
 ### Rückgabewert
 
-`WAHR` wenn Farbton im kleinen Bereich; ansonsten,`FALSCH` .
+`true`, wenn der Farbton im kleinen Bereich liegt; andernfalls `false`.
 
 ### Siehe auch
 
 * class [ColorRangeHsl](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../colorrangehsl/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

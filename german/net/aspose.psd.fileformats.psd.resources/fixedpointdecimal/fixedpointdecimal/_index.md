@@ -1,14 +1,15 @@
 ---
-title: FixedPointDecimal.FixedPointDecimal
-second_title: Aspose.PSD für .NET-API-Referenz
-description: FixedPointDecimal constructeur. Initialisiert eine neue Instanz vonFixedPointDecimal Klasse.
+title: "FixedPointDecimal.FixedPointDecimal"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "FixedPointDecimal-Konstruktor. Initialisiert eine neue Instanz der FixedPointDecimal-Klasse"
 type: docs
 weight: 10
 url: /de/net/aspose.psd.fileformats.psd.resources/fixedpointdecimal/fixedpointdecimal/
 ---
+{{< psd/tize >}}
 ## FixedPointDecimal(int, int) {#constructor_1}
 
-Initialisiert eine neue Instanz von[`FixedPointDecimal`](../) Klasse.
+Initialisiert eine neue Instanz der [`FixedPointDecimal`](../)-Klasse.
 
 ```csharp
 public FixedPointDecimal(int integer, int fraction)
@@ -16,20 +17,20 @@ public FixedPointDecimal(int integer, int fraction)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| integer | Int32 | Die Ganzzahl. |
-| fraction | Int32 | Der Bruchteil. |
+| Ganzzahl | Int32 | Die Ganzzahl. |
+| Bruchteil | Int32 | Der Bruchteil. |
 
 ### Siehe auch
 
 * class [FixedPointDecimal](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Resources](../../fixedpointdecimal/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## FixedPointDecimal(long) {#constructor_2}
 
-Initialisiert eine neue Instanz von[`FixedPointDecimal`](../) Klasse. Teilen Sie die hohen und niedrigen Wörter einer 32-Bit-Ganzzahl in eine Festkommazahl auf.
+Initialisiert eine neue Instanz der [`FixedPointDecimal`](../)-Klasse. Teilt die hohen und niedrigen Wörter einer 32‑Bit‑Ganzzahl in eine Festkommazahl auf.
 
 ```csharp
 public FixedPointDecimal(long value)
@@ -37,19 +38,19 @@ public FixedPointDecimal(long value)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| value | Int64 | Der Wert. |
+| Wert | Int64 | Der Wert. |
 
 ### Siehe auch
 
 * class [FixedPointDecimal](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Resources](../../fixedpointdecimal/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## FixedPointDecimal(double) {#constructor}
 
-Initialisiert eine neue Instanz von[`FixedPointDecimal`](../) Klasse.
+Initialisiert eine neue Instanz der [`FixedPointDecimal`](../)-Klasse.
 
 ```csharp
 public FixedPointDecimal(double value)
@@ -57,7 +58,7 @@ public FixedPointDecimal(double value)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| value | Double | Der Wert. |
+| Wert | Doppelt | Der Wert. |
 
 ### Ausnahmen
 
@@ -68,7 +69,7 @@ public FixedPointDecimal(double value)
 ### Siehe auch
 
 * class [FixedPointDecimal](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Resources](../../fixedpointdecimal/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: Size.Empty
-second_title: Aspose.PSD für .NET-API-Referenz
-description: Size eigendom. Ruft eine neue Instanz von abSize Struktur die hatWidth UndHeight Werte auf Null gesetzt.
+title: "Size.Empty"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "Size-Eigenschaft. Gibt eine neue Instanz der Size-Struktur zurück, deren Breite- und Höhenwerte auf Null gesetzt sind."
 type: docs
 weight: 20
 url: /de/net/aspose.psd/size/empty/
 ---
+{{< psd/tize >}}
 ## Size.Empty property
 
-Ruft eine neue Instanz von ab[`Size`](../) Struktur, die hat[`Width`](../width/) Und[`Height`](../height/) Werte auf Null gesetzt.
+Gibt eine neue Instanz der [`Size`](../)-Struktur zurück, deren [`Width`](../width/)- und [`Height`](../height/)-Werte auf Null gesetzt sind.
 
 ```csharp
 public static Size Empty { get; }
@@ -17,7 +18,7 @@ public static Size Empty { get; }
 ### Siehe auch
 
 * struct [Size](../)
-* namensraum [Aspose.PSD](../../size/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

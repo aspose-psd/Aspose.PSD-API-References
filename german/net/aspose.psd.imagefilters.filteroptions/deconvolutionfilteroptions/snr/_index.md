@@ -1,27 +1,28 @@
 ---
-title: DeconvolutionFilterOptions.Snr
-second_title: Aspose.PSD für .NET-API-Referenz
-description: DeconvolutionFilterOptions eigendom. Ruft das SNR SignalRauschVerhältnis ab oder legt es fest empfohlener Bereich 0002  0009 Standardwert  0007
+title: "DeconvolutionFilterOptions.Snr"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "DeconvolutionFilterOptions-Eigenschaft. Liest oder setzt das SNR‑Signal‑zu‑Rausch‑Verhältnis. Empfohlener Bereich 0,002 – 0,009 Standardwert 0,007"
 type: docs
 weight: 40
 url: /de/net/aspose.psd.imagefilters.filteroptions/deconvolutionfilteroptions/snr/
 ---
+{{< psd/tize >}}
 ## DeconvolutionFilterOptions.Snr property
 
-Ruft das SNR (Signal-Rausch-Verhältnis) ab oder legt es fest empfohlener Bereich 0,002 - 0,009, Standardwert = 0,007
+Liest oder setzt das SNR (Signal-Rausch-Verhältnis) empfohlener Bereich 0,002 - 0,009, Standardwert = 0,007.
 
 ```csharp
 public double Snr { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
 Das SNR.
 
 ### Siehe auch
 
 * class [DeconvolutionFilterOptions](../)
-* namensraum [Aspose.PSD.ImageFilters.FilterOptions](../../deconvolutionfilteroptions/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageFilters.FilterOptions](../../../aspose.psd.imagefilters.filteroptions/)
+* assembly [Aspose.PSD](../../../)
 
 

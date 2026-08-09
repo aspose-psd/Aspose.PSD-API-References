@@ -1,28 +1,29 @@
 ---
-title: Cache.CacheType
-second_title: Aspose.PSD für .NET-API-Referenz
-description: Cache eigendom. Ruft das verwendete CacheSchema ab oder legt es fest.
+title: "Cache.CacheType"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "Cache-Eigenschaft. Gibt das verwendete Cache‑Schema zurück oder legt es fest."
 type: docs
 weight: 40
 url: /de/net/aspose.psd/cache/cachetype/
 ---
+{{< psd/tize >}}
 ## Cache.CacheType property
 
-Ruft das verwendete Cache-Schema ab oder legt es fest.
+Liest oder setzt das verwendete Cache-Schema.
 
 ```csharp
 public static CacheType CacheType { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
-Das verwendete Cache-Schema.
+Das verwendete Cache‑Schema.
 
 ### Siehe auch
 
 * enum [CacheType](../../cachetype/)
 * class [Cache](../)
-* namensraum [Aspose.PSD](../../cache/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

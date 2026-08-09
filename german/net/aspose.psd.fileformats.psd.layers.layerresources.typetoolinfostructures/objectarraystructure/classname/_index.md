@@ -1,27 +1,28 @@
 ---
-title: ObjectArrayStructure.ClassName
-second_title: Aspose.PSD für .NET-API-Referenz
-description: ObjectArrayStructure eigendom. Ruft den ObjektArrayKlassennamen ab oder legt ihn fest.
+title: "ObjectArrayStructure.ClassName"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "ObjectArrayStructure Eigenschaft. Ruft den Klassennamen des Objektarrays ab oder legt ihn fest"
 type: docs
 weight: 30
 url: /de/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/objectarraystructure/classname/
 ---
+{{< psd/tize >}}
 ## ObjectArrayStructure.ClassName property
 
-Ruft den Objekt-Array-Klassennamen ab oder legt ihn fest.
+Liest oder setzt den Klassennamen des Objektarray.
 
 ```csharp
 public string ClassName { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
-Der Klassenname des Objekt-Arrays.
+Der Name der Objektarray-Klasse.
 
 ### Siehe auch
 
 * class [ObjectArrayStructure](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../objectarraystructure/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 

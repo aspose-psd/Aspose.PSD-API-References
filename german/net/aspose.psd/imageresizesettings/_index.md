@@ -1,38 +1,39 @@
 ---
-title: Class ImageResizeSettings
-second_title: Aspose.PSD für .NET-API-Referenz
-description: Aspose.PSD.ImageResizeSettings klas. Einstellungen zur Größenänderung von Bildern class
+title: "Klasse ImageResizeSettings"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "Aspose.PSD.ImageResizeSettings Klasse. Klasse für Bildgrößenanpassung"
 type: docs
-weight: 5000
+weight: 5490
 url: /de/net/aspose.psd/imageresizesettings/
 ---
+{{< psd/tize >}}
 ## ImageResizeSettings class
 
-Einstellungen zur Größenänderung von Bildern class
+Klasse für Bildgrößen‑Einstellungen
 
 ```csharp
 public class ImageResizeSettings
 ```
 
-## Konstrukteure
+## Konstruktoren
 
 | Name | Beschreibung |
 | --- | --- |
-| [ImageResizeSettings](imageresizesettings/)() | Default_Constructor |
+| [ImageResizeSettings](imageresizesettings/)() | Der Standardkonstruktor. |
 
 ## Eigenschaften
 
 | Name | Beschreibung |
 | --- | --- |
-| [ColorCompareMethod](../../aspose.psd/imageresizesettings/colorcomparemethod/) { get; set; } | Ruft die Farbvergleichsmethode ab oder legt sie fest. |
-| [ColorQuantizationMethod](../../aspose.psd/imageresizesettings/colorquantizationmethod/) { get; set; } | Ruft die Farbquantisierungsmethode ab oder legt sie fest. |
-| [EntriesCount](../../aspose.psd/imageresizesettings/entriescount/) { get; set; } | Holt oder setzt die Einträge count |
-| [FilterType](../../aspose.psd/imageresizesettings/filtertype/) { get; set; } | Ruft den Typ des Filters ab oder legt ihn fest. |
-| [Mode](../../aspose.psd/imageresizesettings/mode/) { get; set; } | Ruft den Interpolationsmodus ab oder legt ihn fest. |
+| [ColorCompareMethod](../../aspose.psd/imageresizesettings/colorcomparemethod/) { get; set; } | Liest oder setzt die Farbvergleichsmethode. |
+| [ColorQuantizationMethod](../../aspose.psd/imageresizesettings/colorquantizationmethod/) { get; set; } | Liest oder setzt die Farbquantisierungsmethode. |
+| [EntriesCount](../../aspose.psd/imageresizesettings/entriescount/) { get; set; } | Liest oder setzt die Anzahl der Einträge |
+| [FilterType](../../aspose.psd/imageresizesettings/filtertype/) { get; set; } | Liest oder setzt den Typ des Filters. |
+| [Mode](../../aspose.psd/imageresizesettings/mode/) { get; set; } | Liest oder setzt den Interpolationsmodus. |
 
 ### Siehe auch
 
-* namensraum [Aspose.PSD](../../aspose.psd/)
-* Montage [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

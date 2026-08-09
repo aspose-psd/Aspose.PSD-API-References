@@ -1,24 +1,25 @@
 ---
-title: ObjectArrayStructure.Structures
-second_title: Aspose.PSD für .NET-API-Referenz
-description: ObjectArrayStructure eigendom. Ruft eine Kopie eines Arrays von Strukturen ab oder legt sie fest.
+title: "ObjectArrayStructure.Structures"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "ObjectArrayStructure Eigenschaft. Ruft eine Kopie eines Arrays von Strukturen ab oder legt sie fest"
 type: docs
 weight: 70
 url: /de/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/objectarraystructure/structures/
 ---
+{{< psd/tize >}}
 ## ObjectArrayStructure.Structures property
 
-Ruft eine Kopie eines Arrays von Strukturen ab oder legt sie fest.
+Liest oder setzt eine Kopie eines Arrays von Strukturen.
 
 ```csharp
 public OSTypeStructure[] Structures { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
-Die Unterstrukturen in der Objekt-Array-Struktur.
+Die Unterstrukturen in der Objektarraystruktur.
 
-### Beispiele
+## Beispiele
 
 Der folgende Code demonstriert die Unterstützung der ObAr- und UnFl-Signaturen.
 
@@ -76,7 +77,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
 
 * class [OSTypeStructure](../../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/)
 * class [ObjectArrayStructure](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../objectarraystructure/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 

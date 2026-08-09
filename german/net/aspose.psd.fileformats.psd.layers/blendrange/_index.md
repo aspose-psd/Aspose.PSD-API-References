@@ -1,35 +1,36 @@
 ---
-title: Class BlendRange
-second_title: Aspose.PSD für .NET-API-Referenz
-description: Aspose.PSD.FileFormats.Psd.Layers.BlendRange klas. Der Mischungsbereich.
+title: "Klasse BlendRange"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "Aspose.PSD.FileFormats.Psd.Layers.BlendRange Klasse. Der Blendbereich"
 type: docs
-weight: 1890
+weight: 2000
 url: /de/net/aspose.psd.fileformats.psd.layers/blendrange/
 ---
+{{< psd/tize >}}
 ## BlendRange class
 
-Der Mischungsbereich.
+Der Mischbereich.
 
 ```csharp
 public sealed class BlendRange
 ```
 
-## Konstrukteure
+## Konstruktoren
 
 | Name | Beschreibung |
 | --- | --- |
-| [BlendRange](blendrange/)() | Default_Constructor |
+| [BlendRange](blendrange/)() | Der Standardkonstruktor. |
 
 ## Eigenschaften
 
 | Name | Beschreibung |
 | --- | --- |
-| [Destination](../../aspose.psd.fileformats.psd.layers/blendrange/destination/) { get; set; } | Ruft den Ziel-Mischbereich ab oder legt ihn fest. |
-| [Source](../../aspose.psd.fileformats.psd.layers/blendrange/source/) { get; set; } | Ruft den Mischbereich der Quelle ab oder legt ihn fest. |
+| [Destination](../../aspose.psd.fileformats.psd.layers/blendrange/destination/) { get; set; } | Ermittelt oder setzt den Ziel-Blendbereich. |
+| [Source](../../aspose.psd.fileformats.psd.layers/blendrange/source/) { get; set; } | Ermittelt oder setzt den Quell-Blendbereich. |
 
 ### Siehe auch
 
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers](../../aspose.psd.fileformats.psd.layers/)
-* Montage [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../)
 
 

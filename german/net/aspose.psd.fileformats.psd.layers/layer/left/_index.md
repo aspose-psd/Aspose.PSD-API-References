@@ -1,27 +1,28 @@
 ---
-title: Layer.Left
-second_title: Aspose.PSD für .NET-API-Referenz
-description: Layer eigendom. Holt oder setzt die Position der linken Ebene.
+title: "Layer.Left"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "Layer-Eigenschaft. Gibt die linke Position der Ebene zurück oder legt sie fest"
 type: docs
-weight: 240
+weight: 250
 url: /de/net/aspose.psd.fileformats.psd.layers/layer/left/
 ---
+{{< psd/tize >}}
 ## Layer.Left property
 
-Holt oder setzt die Position der linken Ebene.
+Liefert oder setzt die linke Position der Ebene.
 
 ```csharp
-public int Left { get; set; }
+public virtual int Left { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
-Die Position der linken Ebene.
+Die linke Position der Ebene.
 
 ### Siehe auch
 
 * class [Layer](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers](../../layer/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

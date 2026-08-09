@@ -1,20 +1,21 @@
 ---
-title: BezierSegment.FirstControlPoint
-second_title: Aspose.PSD für .NET-API-Referenz
-description: BezierSegment eigendom. Ruft den ersten Kontrollpunkt eines BezierSplines ab.
+title: "BezierSegment.FirstControlPoint"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "BezierSegment-Eigenschaft. Gibt den ersten Kontrollpunkt einer Bézier‑Spline zurück"
 type: docs
 weight: 20
 url: /de/net/aspose.psd.shapesegments/beziersegment/firstcontrolpoint/
 ---
+{{< psd/tize >}}
 ## BezierSegment.FirstControlPoint property
 
-Ruft den ersten Kontrollpunkt eines Bezier-Splines ab.
+Ruft den ersten Kontrollpunkt einer Bezier-Kurve ab.
 
 ```csharp
 public PointF FirstControlPoint { get; }
 ```
 
-### Eigentumswert
+### Property Value
 
 Der erste Kontrollpunkt.
 
@@ -22,7 +23,7 @@ Der erste Kontrollpunkt.
 
 * struct [PointF](../../../aspose.psd/pointf/)
 * class [BezierSegment](../)
-* namensraum [Aspose.PSD.ShapeSegments](../../beziersegment/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ShapeSegments](../../../aspose.psd.shapesegments/)
+* assembly [Aspose.PSD](../../../)
 
 

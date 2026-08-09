@@ -1,14 +1,15 @@
 ---
-title: PsdImage.AdjustBrightness
-second_title: Aspose.PSD für .NET-API-Referenz
-description: PsdImage methode. Anpassen einer Helligkeit für das Bild.
+title: "PsdImage.AdjustBrightness"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "PsdImage-Methode. Passt die Helligkeit eines Bildes an"
 type: docs
-weight: 440
+weight: 500
 url: /de/net/aspose.psd.fileformats.psd/psdimage/adjustbrightness/
 ---
+{{< psd/tize >}}
 ## PsdImage.AdjustBrightness method
 
-Anpassen einer Helligkeit für das Bild.
+Anpassung der Helligkeit für das Bild.
 
 ```csharp
 public override void AdjustBrightness(int brightness)
@@ -16,12 +17,12 @@ public override void AdjustBrightness(int brightness)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| brightness | Int32 | Helligkeitswert. |
+| Helligkeit | Int32 | Helligkeitswert. |
 
 ### Siehe auch
 
 * class [PsdImage](../)
-* namensraum [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

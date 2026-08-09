@@ -1,14 +1,15 @@
 ---
-title: ColorantRgb.GetXmpRepresentation
-second_title: Aspose.PSD für .NET-API-Referenz
-description: ColorantRgb methode. Ruft den in der Zeichenfolge enthaltenen Wert im XMPFormat ab.
+title: "ColorantRgb.GetXmpRepresentation"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "ColorantRgb-Methode. Ruft den in XMP-Format enthaltenen Zeichenkettenwert ab"
 type: docs
 weight: 50
 url: /de/net/aspose.psd.xmp.types.complex.colorant/colorantrgb/getxmprepresentation/
 ---
+{{< psd/tize >}}
 ## ColorantRgb.GetXmpRepresentation method
 
-Ruft den in der Zeichenfolge enthaltenen Wert im XMP-Format ab.
+Liest den enthaltenen Zeichenfolgenwert im XMP-Format.
 
 ```csharp
 public override string GetXmpRepresentation()
@@ -16,12 +17,12 @@ public override string GetXmpRepresentation()
 
 ### Rückgabewert
 
-Gibt den in der Zeichenfolge enthaltenen Wert im XMP-Format zurück.
+Gibt den enthaltenen Zeichenkettenwert im XMP-Format zurück.
 
 ### Siehe auch
 
 * class [ColorantRgb](../)
-* namensraum [Aspose.PSD.Xmp.Types.Complex.Colorant](../../colorantrgb/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.Colorant](../../../aspose.psd.xmp.types.complex.colorant/)
+* assembly [Aspose.PSD](../../../)
 
 

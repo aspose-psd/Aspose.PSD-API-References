@@ -1,14 +1,15 @@
 ---
-title: Interface IPatternFillSettings
-second_title: Aspose.PSD für .NET-API-Referenz
-description: Aspose.PSD.FileFormats.Psd.Layers.FillSettings.IPatternFillSettings koppel. Schnittstelle für Musterfülleinstellungen
+title: "Schnittstelle IPatternFillSettings"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "Aspose.PSD.FileFormats.Psd.Layers.FillSettings.IPatternFillSettings Schnittstelle. Schnittstelle für Musterfüllungseinstellungen"
 type: docs
-weight: 2030
+weight: 2150
 url: /de/net/aspose.psd.fileformats.psd.layers.fillsettings/ipatternfillsettings/
 ---
+{{< psd/tize >}}
 ## IPatternFillSettings interface
 
-Schnittstelle für Musterfülleinstellungen
+Schnittstelle für Musterfüllungseinstellungen
 
 ```csharp
 public interface IPatternFillSettings : IFillSettings
@@ -18,20 +19,21 @@ public interface IPatternFillSettings : IFillSettings
 
 | Name | Beschreibung |
 | --- | --- |
-| [HorizontalOffset](../../aspose.psd.fileformats.psd.layers.fillsettings/ipatternfillsettings/horizontaloffset/) { get; set; } | Ruft den horizontalen Versatz ab oder legt ihn fest. |
-| [Linked](../../aspose.psd.fileformats.psd.layers.fillsettings/ipatternfillsettings/linked/) { get; set; } | Ruft einen Wert ab oder legt einen Wert fest, der angibt, ob dies der Fall ist`IPatternFillSettings`ist verlinkt. |
-| [PatternData](../../aspose.psd.fileformats.psd.layers.fillsettings/ipatternfillsettings/patterndata/) { get; set; } | Ruft die Musterdaten ab oder legt sie fest. |
-| [PatternHeight](../../aspose.psd.fileformats.psd.layers.fillsettings/ipatternfillsettings/patternheight/) { get; set; } | Ruft die Höhe des Musters ab oder legt sie fest. |
-| [PatternId](../../aspose.psd.fileformats.psd.layers.fillsettings/ipatternfillsettings/patternid/) { get; set; } | Ruft die Musterkennung ab oder legt sie fest. |
-| [PatternName](../../aspose.psd.fileformats.psd.layers.fillsettings/ipatternfillsettings/patternname/) { get; set; } | Ruft den Namen des Musters ab oder legt ihn fest. |
-| [PatternWidth](../../aspose.psd.fileformats.psd.layers.fillsettings/ipatternfillsettings/patternwidth/) { get; set; } | Ruft die Breite des Musters ab oder legt sie fest. |
-| [PointType](../../aspose.psd.fileformats.psd.layers.fillsettings/ipatternfillsettings/pointtype/) { get; set; } | Ruft den Punkttyp ab oder legt ihn fest. |
-| [Scale](../../aspose.psd.fileformats.psd.layers.fillsettings/ipatternfillsettings/scale/) { get; set; } | Ruft die Skalierung ab oder legt sie fest. |
-| [VerticalOffset](../../aspose.psd.fileformats.psd.layers.fillsettings/ipatternfillsettings/verticaloffset/) { get; set; } | Ruft den vertikalen Offset ab oder legt ihn fest. |
+| [Angle](../../aspose.psd.fileformats.psd.layers.fillsettings/ipatternfillsettings/angle/) { get; set; } | Liest oder setzt den Winkel. |
+| [HorizontalOffset](../../aspose.psd.fileformats.psd.layers.fillsettings/ipatternfillsettings/horizontaloffset/) { get; set; } | Liest oder setzt den horizontalen Versatz. |
+| [Linked](../../aspose.psd.fileformats.psd.layers.fillsettings/ipatternfillsettings/linked/) { get; set; } | Liest oder setzt einen Wert, der angibt, ob dieses `IPatternFillSettings` verknüpft ist. |
+| [PatternData](../../aspose.psd.fileformats.psd.layers.fillsettings/ipatternfillsettings/patterndata/) { get; set; } | Liest die Musterdaten. |
+| [PatternHeight](../../aspose.psd.fileformats.psd.layers.fillsettings/ipatternfillsettings/patternheight/) { get; set; } | Liest oder setzt die Höhe des Musters. |
+| [PatternId](../../aspose.psd.fileformats.psd.layers.fillsettings/ipatternfillsettings/patternid/) { get; set; } | Liest oder setzt die Musterkennung. |
+| [PatternName](../../aspose.psd.fileformats.psd.layers.fillsettings/ipatternfillsettings/patternname/) { get; set; } | Liest oder setzt den Namen des Musters. |
+| [PatternWidth](../../aspose.psd.fileformats.psd.layers.fillsettings/ipatternfillsettings/patternwidth/) { get; set; } | Liest oder setzt die Breite des Musters. |
+| [PointType](../../aspose.psd.fileformats.psd.layers.fillsettings/ipatternfillsettings/pointtype/) { get; set; } | Liest oder setzt den Typ des Punktes. |
+| [Scale](../../aspose.psd.fileformats.psd.layers.fillsettings/ipatternfillsettings/scale/) { get; set; } | Liest oder setzt die Skala. |
+| [VerticalOffset](../../aspose.psd.fileformats.psd.layers.fillsettings/ipatternfillsettings/verticaloffset/) { get; set; } | Liest oder setzt den vertikalen Versatz. |
 
-### Beispiele
+## Beispiele
 
-Der folgende Code speichert Bilder mit Musterfüllebene und zeigt, wie Aspose.PSD das Muster rendert.
+Der folgende Code speichert Bilder mit Muster‑Füll‑Ebene und demonstriert, wie Aspose.PSD das Muster rendert.
 
 ```csharp
 [C#]
@@ -40,7 +42,7 @@ string sourceFile = "sample.psd";
 string outputFile = "sample_out.psd";
 string outputPngFile = "sample_out.png";
 
-// Ein vorhandenes Bild in eine Instanz der PsdImage-Klasse laden
+// Laden Sie ein vorhandenes Bild in eine Instanz der Klasse PsdImage.
 using (var image = (PsdImage)Image.Load(sourceFile))
 {
     foreach (var layer in image.Layers)
@@ -84,7 +86,7 @@ using (var image = (PsdImage)Image.Load(sourceFile))
 ### Siehe auch
 
 * interface [IFillSettings](../ifillsettings/)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../aspose.psd.fileformats.psd.layers.fillsettings/)
-* Montage [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../)
 
 

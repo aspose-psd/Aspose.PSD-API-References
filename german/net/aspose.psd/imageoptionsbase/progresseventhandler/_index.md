@@ -1,28 +1,29 @@
 ---
-title: ImageOptionsBase.ProgressEventHandler
-second_title: Aspose.PSD für .NET-API-Referenz
-description: ImageOptionsBase eigendom. Ruft den Fortschrittsereignishandler ab oder legt ihn fest.
+title: "ImageOptionsBase.ProgressEventHandler"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "ImageOptionsBase-Eigenschaft. Gibt den Fortschritt-Event-Handler zurück oder legt ihn fest."
 type: docs
 weight: 60
 url: /de/net/aspose.psd/imageoptionsbase/progresseventhandler/
 ---
+{{< psd/tize >}}
 ## ImageOptionsBase.ProgressEventHandler property
 
-Ruft den Fortschrittsereignishandler ab oder legt ihn fest.
+Liest oder setzt den Fortschritts-Event-Handler.
 
 ```csharp
 public ProgressEventHandler ProgressEventHandler { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
-Der Fortschrittsereignishandler.
+Der Fortschritt-Event-Handler.
 
 ### Siehe auch
 
 * delegate [ProgressEventHandler](../../progresseventhandler/)
 * class [ImageOptionsBase](../)
-* namensraum [Aspose.PSD](../../imageoptionsbase/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: TiffOptions.SmaxSampleValue
-second_title: Aspose.PSD für .NET-API-Referenz
-description: TiffOptions eigendom. Ruft den maximalen Abtastwert ab oder setzt ihn. Der Wert hat einen Feldtyp der am besten zu den Beispieldaten passt Typ Byte Short oder Long.
+title: "TiffOptions.SmaxSampleValue"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "TiffOptions-Eigenschaft. Gibt den maximalen Stichprobenwert zurück oder legt ihn fest. Der Wert hat einen Feldtyp, der am besten zu den Stichprobendaten Byte, Short oder Long passt."
 type: docs
-weight: 430
+weight: 440
 url: /de/net/aspose.psd.imageoptions/tiffoptions/smaxsamplevalue/
 ---
+{{< psd/tize >}}
 ## TiffOptions.SmaxSampleValue property
 
-Ruft den maximalen Abtastwert ab oder setzt ihn. Der Wert hat einen Feldtyp, der am besten zu den Beispieldaten passt (Typ Byte, Short oder Long).
+Liest oder setzt den maximalen Sample-Wert. Der Wert hat einen Feldtyp, der am besten zu den Sample-Daten passt (Byte-, Short- oder Long-Typ).
 
 ```csharp
 public uint[] SmaxSampleValue { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
-Der maximale Abtastwert.
+Der maximale Stichprobenwert.
 
 ### Siehe auch
 
 * class [TiffOptions](../)
-* namensraum [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

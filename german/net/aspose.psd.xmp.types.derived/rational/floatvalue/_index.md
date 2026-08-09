@@ -1,27 +1,28 @@
 ---
-title: Rational.FloatValue
-second_title: Aspose.PSD für .NET-API-Referenz
-description: Rational eigendom. Ruft den Gleitkommawert ab.
+title: "Rational.FloatValue"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "Rational-Eigenschaft. Gibt den Fließkommawert zurück"
 type: docs
 weight: 30
 url: /de/net/aspose.psd.xmp.types.derived/rational/floatvalue/
 ---
+{{< psd/tize >}}
 ## Rational.FloatValue property
 
-Ruft den Gleitkommawert ab.
+Liest den Float‑Wert.
 
 ```csharp
 public float FloatValue { get; }
 ```
 
-### Eigentumswert
+### Property Value
 
-Der Gleitkommawert.
+Der Fließkommawert.
 
 ### Siehe auch
 
 * class [Rational](../)
-* namensraum [Aspose.PSD.Xmp.Types.Derived](../../rational/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Derived](../../../aspose.psd.xmp.types.derived/)
+* assembly [Aspose.PSD](../../../)
 
 

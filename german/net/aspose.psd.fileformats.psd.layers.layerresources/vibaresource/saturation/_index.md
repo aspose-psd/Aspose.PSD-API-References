@@ -1,27 +1,28 @@
 ---
-title: VibAResource.Saturation
-second_title: Aspose.PSD für .NET-API-Referenz
-description: VibAResource eigendom. Ruft den Sättigungswert ab oder setzt ihn
+title: "VibAResource.Saturation"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "VibAResource-Eigenschaft. Gibt den Sättigungswert zurück oder setzt ihn"
 type: docs
-weight: 50
+weight: 30
 url: /de/net/aspose.psd.fileformats.psd.layers.layerresources/vibaresource/saturation/
 ---
+{{< psd/tize >}}
 ## VibAResource.Saturation property
 
-Ruft den Sättigungswert ab oder setzt ihn
+Liest oder schreibt den Sättigungswert
 
 ```csharp
 public int Saturation { get; set; }
 ```
 
-### Beispiele
+## Beispiele
 
 Das folgende Codebeispiel demonstriert die Unterstützung der VibAResource-Ressource.
 
 ```csharp
 [C#]
 
-// Beispiel für die Unterstützung des Lesens und Schreibens von Vibrationsressourcen zur Laufzeit.
+// Beispiel für die Unterstützung des Lesens und Schreibens der Vibrationsressource zur Laufzeit.
 string sourceFileName = "VibranceResource.psd";
 string outputFileName = "out_VibranceResource.psd";
 
@@ -53,7 +54,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFileName))
 ### Siehe auch
 
 * class [VibAResource](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../vibaresource/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

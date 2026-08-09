@@ -1,14 +1,15 @@
 ---
-title: StreamSource.GetStreamContainer
-second_title: Aspose.PSD für .NET-API-Referenz
-description: StreamSource methode. Ruft den StreamContainer ab.
+title: "StreamSource.GetStreamContainer"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "StreamSource-Methode. Gibt den Stream-Container zurück"
 type: docs
 weight: 40
 url: /de/net/aspose.psd.sources/streamsource/getstreamcontainer/
 ---
+{{< psd/tize >}}
 ## StreamSource.GetStreamContainer method
 
-Ruft den Stream-Container ab.
+Ermittelt den Stream-Container.
 
 ```csharp
 public override StreamContainer GetStreamContainer()
@@ -18,15 +19,15 @@ public override StreamContainer GetStreamContainer()
 
 der Stream-Container.
 
-### Bemerkungen
+## Hinweise
 
-Mit Vorsicht verwenden. Sie müssen den Stream-Container nach der Entnahme entsorgen.
+Vorsicht beim Gebrauch. Sie müssen den Stream-Container nach dem Abrufen freigeben.
 
 ### Siehe auch
 
 * class [StreamContainer](../../../aspose.psd/streamcontainer/)
 * class [StreamSource](../)
-* namensraum [Aspose.PSD.Sources](../../streamsource/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Sources](../../../aspose.psd.sources/)
+* assembly [Aspose.PSD](../../../)
 
 

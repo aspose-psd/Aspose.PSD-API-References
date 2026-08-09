@@ -1,14 +1,15 @@
 ---
-title: VstkResource.StrokeEnabled
-second_title: Aspose.PSD für .NET-API-Referenz
-description: VstkResource eigendom. Ruft einen Wert ab oder legt einen Wert fest der angibt ob der Stricheffekt aktiviert ist.
+title: "VstkResource.StrokeEnabled"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "VstkResource-Eigenschaft. Gibt einen Wert zurück oder legt ihn fest, der angibt, ob der Strich-Effekt aktiviert ist"
 type: docs
-weight: 70
+weight: 50
 url: /de/net/aspose.psd.fileformats.psd.layers.layerresources.strokeresources/vstkresource/strokeenabled/
 ---
+{{< psd/tize >}}
 ## VstkResource.StrokeEnabled property
 
-Ruft einen Wert ab oder legt einen Wert fest, der angibt, ob der Stricheffekt aktiviert ist.
+Liest oder schreibt einen Wert, der angibt, ob der Strich-Effekt aktiviert ist.
 
 ```csharp
 public bool StrokeEnabled { get; set; }
@@ -17,7 +18,7 @@ public bool StrokeEnabled { get; set; }
 ### Siehe auch
 
 * class [VstkResource](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.StrokeResources](../../vstkresource/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.StrokeResources](../../../aspose.psd.fileformats.psd.layers.layerresources.strokeresources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: ExifData.GPSSpeedRef
-second_title: Aspose.PSD für .NET-API-Referenz
-description: ExifData eigendom. Ruft die Einheit ab oder legt sie fest die verwendet wird um die Bewegungsgeschwindigkeit des GPSEmpfängers auszudrücken.
+title: "ExifData.GPSSpeedRef"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "ExifData-Eigenschaft. Ruft die Einheit ab, die zur Angabe der Geschwindigkeit des GPS‑Empfängers verwendet wird, oder legt sie fest"
 type: docs
 weight: 610
 url: /de/net/aspose.psd.exif/exifdata/gpsspeedref/
 ---
+{{< psd/tize >}}
 ## ExifData.GPSSpeedRef property
 
-Ruft die Einheit ab oder legt sie fest, die verwendet wird, um die Bewegungsgeschwindigkeit des GPS-Empfängers auszudrücken.
+Liest oder setzt die Einheit, die zur Angabe der GPS-Empfängerbewegungsgeschwindigkeit verwendet wird.
 
 ```csharp
 public string GPSSpeedRef { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
-Die Einheit, die verwendet wird, um die Bewegungsgeschwindigkeit des GPS-Empfängers auszudrücken.
+Die Einheit, die zur Angabe der Geschwindigkeit des GPS‑Empfängers verwendet wird.
 
 ### Siehe auch
 
 * class [ExifData](../)
-* namensraum [Aspose.PSD.Exif](../../exifdata/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

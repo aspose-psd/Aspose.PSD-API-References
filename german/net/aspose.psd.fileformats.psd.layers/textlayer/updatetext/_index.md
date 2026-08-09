@@ -1,11 +1,12 @@
 ---
-title: TextLayer.UpdateText
-second_title: Aspose.PSD für .NET-API-Referenz
-description: TextLayer methode. Aktualisiert den Text.
+title: "TextLayer.UpdateText"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "TextLayer-Methode. Aktualisiert den Text"
 type: docs
-weight: 100
+weight: 110
 url: /de/net/aspose.psd.fileformats.psd.layers/textlayer/updatetext/
 ---
+{{< psd/tize >}}
 ## UpdateText(string) {#updatetext}
 
 Aktualisiert den Text.
@@ -16,13 +17,13 @@ public void UpdateText(string text)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| text | String | Der Textwert. |
+| Text | String | Der Textwert. |
 
 ### Siehe auch
 
 * class [TextLayer](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers](../../textlayer/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
@@ -36,14 +37,14 @@ public void UpdateText(string text, float fontSize)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| text | String | Der Textwert. |
+| Text | String | Der Textwert. |
 | fontSize | Single | Größe der Schrift. |
 
 ### Siehe auch
 
 * class [TextLayer](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers](../../textlayer/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
@@ -57,15 +58,15 @@ public void UpdateText(string text, Color color)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| text | String | Der Textwert. |
-| color | Color | Der Farbwert. |
+| Text | String | Der Textwert. |
+| Farbe | Farbe | Der Farbwert. |
 
 ### Siehe auch
 
 * struct [Color](../../../aspose.psd/color/)
 * class [TextLayer](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers](../../textlayer/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
@@ -79,16 +80,16 @@ public void UpdateText(string text, float fontSize, Color color)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| text | String | Der Textwert. |
+| Text | String | Der Textwert. |
 | fontSize | Single | Größe der Schrift. |
-| color | Color | Der Farbwert. |
+| Farbe | Farbe | Der Farbwert. |
 
 ### Siehe auch
 
 * struct [Color](../../../aspose.psd/color/)
 * class [TextLayer](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers](../../textlayer/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
@@ -102,7 +103,7 @@ public void UpdateText(string text, Point leftTopCoordinate, float fontSize)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| text | String | Der Textwert. |
+| Text | String | Der Textwert. |
 | leftTopCoordinate | Point | Die linke obere Koordinate. |
 | fontSize | Single | Größe der Schrift. |
 
@@ -110,8 +111,8 @@ public void UpdateText(string text, Point leftTopCoordinate, float fontSize)
 
 * struct [Point](../../../aspose.psd/point/)
 * class [TextLayer](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers](../../textlayer/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
@@ -125,17 +126,17 @@ public void UpdateText(string text, Point leftTopCoordinate, Color color)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| text | String | Der Textwert. |
+| Text | String | Der Textwert. |
 | leftTopCoordinate | Point | Die linke obere Koordinate. |
-| color | Color | Der Farbwert. |
+| Farbe | Farbe | Der Farbwert. |
 
 ### Siehe auch
 
 * struct [Point](../../../aspose.psd/point/)
 * struct [Color](../../../aspose.psd/color/)
 * class [TextLayer](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers](../../textlayer/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
@@ -149,15 +150,15 @@ public void UpdateText(string text, Point leftTopCoordinate)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| text | String | Der Textwert. |
+| Text | String | Der Textwert. |
 | leftTopCoordinate | Point | Die linke obere Koordinate. |
 
 ### Siehe auch
 
 * struct [Point](../../../aspose.psd/point/)
 * class [TextLayer](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers](../../textlayer/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
@@ -171,17 +172,17 @@ public void UpdateText(string text, Point leftTopCoordinate, float fontSize, Col
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| text | String | Der Textwert. |
+| Text | String | Der Textwert. |
 | leftTopCoordinate | Point | Die linke obere Koordinate. |
 | fontSize | Single | Größe der Schrift. |
-| color | Color | Der Farbwert. |
+| Farbe | Farbe | Der Farbwert. |
 
 ### Siehe auch
 
 * struct [Point](../../../aspose.psd/point/)
 * struct [Color](../../../aspose.psd/color/)
 * class [TextLayer](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers](../../textlayer/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

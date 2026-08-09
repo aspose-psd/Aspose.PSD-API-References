@@ -1,27 +1,28 @@
 ---
-title: LimitMemoryException.ReduceMemoryFactor
-second_title: Aspose.PSD für .NET-API-Referenz
-description: LimitMemoryException eigendom. Ruft den Faktor für die Reduzierung des Speichers ab oder legt ihn fest.
+title: "LimitMemoryException.ReduceMemoryFactor"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "LimitMemoryException-Eigenschaft. Liest oder setzt den reduzierten Speicherfaktor"
 type: docs
 weight: 20
 url: /de/net/aspose.psd.coreexceptions/limitmemoryexception/reducememoryfactor/
 ---
+{{< psd/tize >}}
 ## LimitMemoryException.ReduceMemoryFactor property
 
-Ruft den Faktor für die Reduzierung des Speichers ab oder legt ihn fest.
+Liest oder setzt den Speicherreduktionsfaktor.
 
 ```csharp
 public long ReduceMemoryFactor { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
 Der reduzierte Speicherfaktor.
 
 ### Siehe auch
 
 * class [LimitMemoryException](../)
-* namensraum [Aspose.PSD.CoreExceptions](../../limitmemoryexception/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.CoreExceptions](../../../aspose.psd.coreexceptions/)
+* assembly [Aspose.PSD](../../../)
 
 

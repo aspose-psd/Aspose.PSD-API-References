@@ -1,26 +1,27 @@
 ---
-title: AiLayerSection.IsImagesDimmed
-second_title: Aspose.PSD für .NET-API-Referenz
-description: AiLayerSection eigendom. Ruft einen Wert ab oder legt einen Wert fest der angibt ob diese Ebene abgeblendet ist. Verringert die Intensität von verknüpften Bildern und BitmapBildern die in der Ebene enthalten sind.
+title: "AiLayerSection.IsImagesDimmed"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "AiLayerSection Eigenschaft. Gibt einen Wert zurück oder legt ihn fest, der angibt, ob diese Ebene abgedunkelt ist. Reduziert die Intensität von verknüpften Bildern und Bitmap-Bildern, die in der Ebene enthalten sind."
 type: docs
-weight: 50
+weight: 70
 url: /de/net/aspose.psd.fileformats.ai/ailayersection/isimagesdimmed/
 ---
+{{< psd/tize >}}
 ## AiLayerSection.IsImagesDimmed property
 
-Ruft einen Wert ab oder legt einen Wert fest, der angibt, ob diese Ebene abgeblendet ist. Verringert die Intensität von verknüpften Bildern und Bitmap-Bildern, die in der Ebene enthalten sind.
+Liest oder setzt einen Wert, der angibt, ob diese Ebene abgedunkelt ist. Reduziert die Intensität von verknüpften Bildern und Bitmap‑Bildern, die in der Ebene enthalten sind.
 
 ```csharp
 public bool IsImagesDimmed { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
-`WAHR` wenn diese Ebene gedimmt ist; ansonsten,`FALSCH` .
+`true`, wenn diese Ebene abgedunkelt ist; andernfalls `false`.
 
-### Beispiele
+## Beispiele
 
-Das folgende Beispiel zeigt die Unterstützung von Ebenen in Dateien im AI-Format.
+Das folgende Beispiel demonstriert die Unterstützung von Ebenen in AI-Formatdateien.
 
 ```csharp
 [C#]
@@ -73,7 +74,7 @@ using (AiImage image = (AiImage)Image.Load(sourceFilePath))
 ### Siehe auch
 
 * class [AiLayerSection](../)
-* namensraum [Aspose.PSD.FileFormats.Ai](../../ailayersection/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: FontSettings.DefaultFontName
-second_title: Aspose.PSD für .NET-API-Referenz
-description: FontSettings eigendom. Ruft den Standardnamen der Schriftart ab oder legt ihn fest.
+title: "FontSettings.DefaultFontName"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "FontSettings-Eigenschaft. Gibt den Standardnamen der Schriftart zurück oder legt ihn fest"
 type: docs
 weight: 10
 url: /de/net/aspose.psd/fontsettings/defaultfontname/
 ---
+{{< psd/tize >}}
 ## FontSettings.DefaultFontName property
 
-Ruft den Standardnamen der Schriftart ab oder legt ihn fest.
+Liest oder setzt den Standardnamen der Schriftart.
 
 ```csharp
 public static string DefaultFontName { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
 Der Standardname der Schriftart.
 
 ### Siehe auch
 
 * class [FontSettings](../)
-* namensraum [Aspose.PSD](../../fontsettings/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

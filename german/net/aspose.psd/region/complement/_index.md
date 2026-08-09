@@ -1,14 +1,15 @@
 ---
-title: Region.Complement
-second_title: Aspose.PSD für .NET-API-Referenz
-description: Region methode. aktualisiert diesRegion um den Teil des angegebenen zu enthaltenRectangleF Struktur die sich damit nicht überschneidetRegion .
+title: "Region.Complement"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "Region-Methode. Aktualisiert dieses Region, sodass es den Teil der angegebenen RectangleF-Struktur enthält, der nicht mit diesem Region schneidet"
 type: docs
 weight: 20
 url: /de/net/aspose.psd/region/complement/
 ---
+{{< psd/tize >}}
 ## Complement(RectangleF) {#complement_2}
 
-aktualisiert dies[`Region`](../) um den Teil des angegebenen zu enthalten[`RectangleF`](../../rectanglef/) Struktur, die sich damit nicht überschneidet[`Region`](../) .
+Aktualisiert dieses [`Region`](../), sodass es den Teil der angegebenen [`RectangleF`](../../rectanglef/) Struktur enthält, der nicht mit diesem [`Region`](../) schneidet.
 
 ```csharp
 public void Complement(RectangleF rect)
@@ -16,20 +17,20 @@ public void Complement(RectangleF rect)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| rect | RectangleF | Der[`RectangleF`](../../rectanglef/) Struktur dazu ergänzen[`Region`](../). |
+| rect | RectangleF | Die [`RectangleF`](../../rectanglef/) Struktur, die dieses [`Region`](../) ergänzen soll. |
 
 ### Siehe auch
 
 * struct [RectangleF](../../rectanglef/)
 * class [Region](../)
-* namensraum [Aspose.PSD](../../region/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Complement(Rectangle) {#complement_1}
 
-aktualisiert dies[`Region`](../) um den Teil des angegebenen zu enthalten[`Rectangle`](../../rectangle/) Struktur, die sich damit nicht überschneidet[`Region`](../) .
+Aktualisiert dieses [`Region`](../), sodass es den Teil der angegebenen [`Rectangle`](../../rectangle/) Struktur enthält, der nicht mit diesem [`Region`](../) schneidet.
 
 ```csharp
 public void Complement(Rectangle rect)
@@ -37,20 +38,20 @@ public void Complement(Rectangle rect)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| rect | Rectangle | Der[`Rectangle`](../../rectangle/) Struktur dazu ergänzen[`Region`](../). |
+| rect | Rectangle | Die [`Rectangle`](../../rectangle/) Struktur, die dieses [`Region`](../) ergänzen soll. |
 
 ### Siehe auch
 
 * struct [Rectangle](../../rectangle/)
 * class [Region](../)
-* namensraum [Aspose.PSD](../../region/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Complement(GraphicsPath) {#complement}
 
-aktualisiert dies[`Region`](../) um den Teil des angegebenen zu enthalten[`GraphicsPath`](../../graphicspath/) das überschneidet sich damit nicht[`Region`](../) .
+Aktualisiert dieses [`Region`](../), um den Teil des angegebenen [`GraphicsPath`](../../graphicspath/) zu enthalten, der nicht mit diesem [`Region`](../) überschneidet.
 
 ```csharp
 public void Complement(GraphicsPath path)
@@ -58,26 +59,26 @@ public void Complement(GraphicsPath path)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| path | GraphicsPath | Der[`GraphicsPath`](../../graphicspath/) um dies zu ergänzen[`Region`](../). |
+| path | GraphicsPath | Der [`GraphicsPath`](../../graphicspath/) zur Ergänzung dieses [`Region`](../). |
 
 ### Ausnahmen
 
 | Ausnahme | Bedingung |
 | --- | --- |
-| ArgumentNullException | *path*isnull. |
+| ArgumentNullException | *path* ist null. |
 
 ### Siehe auch
 
 * class [GraphicsPath](../../graphicspath/)
 * class [Region](../)
-* namensraum [Aspose.PSD](../../region/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Complement(Region) {#complement_3}
 
-aktualisiert dies[`Region`](../) um den Teil des angegebenen zu enthalten[`Region`](../) das überschneidet sich damit nicht[`Region`](../) .
+Aktualisiert dieses [`Region`](../), um den Teil des angegebenen [`Region`](../) zu enthalten, der nicht mit diesem [`Region`](../) überschneidet.
 
 ```csharp
 public void Complement(Region region)
@@ -85,18 +86,18 @@ public void Complement(Region region)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| region | Region | Der[`Region`](../) Gegenstand, dies zu ergänzen[`Region`](../) Objekt. |
+| region | Region | Das [`Region`](../)-Objekt zur Ergänzung dieses [`Region`](../)-Objekts. |
 
 ### Ausnahmen
 
 | Ausnahme | Bedingung |
 | --- | --- |
-| ArgumentNullException | *region*isnull. |
+| ArgumentNullException | *region* ist null. |
 
 ### Siehe auch
 
 * class [Region](../)
-* namensraum [Aspose.PSD](../../region/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

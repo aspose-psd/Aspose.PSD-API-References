@@ -1,26 +1,27 @@
 ---
-title: VectorShapeOriginSettings.IsTransformPresent
-second_title: Aspose.PSD für .NET-API-Referenz
-description: VectorShapeOriginSettings eigendom. Ruft einen Wert ab der angibt ob diese Instanz die Transformationseigenschaft hat.
+title: "VectorShapeOriginSettings.IsTransformPresent"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "VectorShapeOriginSettings Eigenschaft. Gibt einen Wert zurück, der angibt, ob diese Instanz die Transformations-Eigenschaft besitzt"
 type: docs
 weight: 100
 url: /de/net/aspose.psd.fileformats.core.vectorpaths/vectorshapeoriginsettings/istransformpresent/
 ---
+{{< psd/tize >}}
 ## VectorShapeOriginSettings.IsTransformPresent property
 
-Ruft einen Wert ab, der angibt, ob diese Instanz die Transformationseigenschaft hat.
+Liest einen Wert, der angibt, ob diese Instanz die Transformations‑Eigenschaft hat.
 
 ```csharp
 public bool IsTransformPresent { get; }
 ```
 
-### Eigentumswert
+### Property Value
 
-`WAHR` wenn diese Instanz die transform-Eigenschaft hat; ansonsten,`FALSCH` .
+`true` wenn diese Instanz die Transformations-Eigenschaft hat; andernfalls `false`.
 
-### Beispiele
+## Beispiele
 
-Der folgende Code demonstriert die Möglichkeit, die Größe einer Formebene zu ändern, die Vektorpfade enthält.
+Der folgende Code demonstriert die Fähigkeit, Shape-Layer, die Vektorpfade enthalten, zu skalieren.
 
 ```csharp
 [C#]
@@ -45,7 +46,7 @@ using (var psdImage = (PsdImage)Image.Load(sourcePath))
 ### Siehe auch
 
 * class [VectorShapeOriginSettings](../)
-* namensraum [Aspose.PSD.FileFormats.Core.VectorPaths](../../vectorshapeoriginsettings/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../../)
 
 

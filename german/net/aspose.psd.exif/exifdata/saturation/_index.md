@@ -1,20 +1,21 @@
 ---
-title: ExifData.Saturation
-second_title: Aspose.PSD für .NET-API-Referenz
-description: ExifData eigendom. Ruft die Sättigung ab oder legt sie fest.
+title: "ExifData.Saturation"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "ExifData-Eigenschaft. Liest oder setzt die Sättigung"
 type: docs
 weight: 890
 url: /de/net/aspose.psd.exif/exifdata/saturation/
 ---
+{{< psd/tize >}}
 ## ExifData.Saturation property
 
-Ruft die Sättigung ab oder legt sie fest.
+Liest oder setzt die Sättigung.
 
 ```csharp
 public ExifSaturation Saturation { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
 Die Sättigung.
 
@@ -22,7 +23,7 @@ Die Sättigung.
 
 * enum [ExifSaturation](../../../aspose.psd.exif.enums/exifsaturation/)
 * class [ExifData](../)
-* namensraum [Aspose.PSD.Exif](../../exifdata/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

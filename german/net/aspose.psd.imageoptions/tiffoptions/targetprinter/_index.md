@@ -1,27 +1,28 @@
 ---
-title: TiffOptions.TargetPrinter
-second_title: Aspose.PSD für .NET-API-Referenz
-description: TiffOptions eigendom. Ruft den Zieldrucker ab oder setzt ihn.
+title: "TiffOptions.TargetPrinter"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "TiffOptions-Eigenschaft. Liest oder setzt den Zieldrucker"
 type: docs
-weight: 500
+weight: 510
 url: /de/net/aspose.psd.imageoptions/tiffoptions/targetprinter/
 ---
+{{< psd/tize >}}
 ## TiffOptions.TargetPrinter property
 
-Ruft den Zieldrucker ab oder setzt ihn.
+Liest oder setzt den Ziel-Drucker.
 
 ```csharp
 public string TargetPrinter { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
 Der Zieldrucker.
 
 ### Siehe auch
 
 * class [TiffOptions](../)
-* namensraum [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

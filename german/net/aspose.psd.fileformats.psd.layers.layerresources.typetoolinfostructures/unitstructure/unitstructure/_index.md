@@ -1,14 +1,15 @@
 ---
-title: UnitStructure.UnitStructure
-second_title: Aspose.PSD für .NET-API-Referenz
-description: UnitStructure constructeur. Initialisiert eine neue Instanz vonUnitStructure Klasse.
+title: "UnitStructure.UnitStructure"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "UnitStructure-Konstruktor. Initialisiert eine neue Instanz der UnitStructure-Klasse"
 type: docs
 weight: 10
 url: /de/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/unitstructure/unitstructure/
 ---
+{{< psd/tize >}}
 ## UnitStructure constructor
 
-Initialisiert eine neue Instanz von[`UnitStructure`](../) Klasse.
+Initialisiert eine neue Instanz der [`UnitStructure`](../)-Klasse.
 
 ```csharp
 public UnitStructure(ClassID keyName)
@@ -22,7 +23,7 @@ public UnitStructure(ClassID keyName)
 
 * class [ClassID](../../../aspose.psd.fileformats.psd.layers.layerresources/classid/)
 * class [UnitStructure](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../unitstructure/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 

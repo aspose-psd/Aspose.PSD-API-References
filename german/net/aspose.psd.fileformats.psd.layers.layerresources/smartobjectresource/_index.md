@@ -1,14 +1,15 @@
 ---
-title: Class SmartObjectResource
-second_title: Aspose.PSD für .NET-API-Referenz
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.SmartObjectResource klas. Definiert die SmartObjectResourceKlasse die Informationen zu einer SmartObjektEbene in einer PSDDatei enthält. Dies ist die Basisklasse für Sold und SoleRessourcen die verwendet wird um SmartObjektEbenen in den Adobe PhotoshopBildern zu unterstützen.
+title: "Klasse SmartObjectResource"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "Aspose.PSD.FileFormats.Psd.Layers.LayerResources.SmartObjectResource Klasse. Definiert die SmartObjectResource‑Klasse, die Informationen über eine Smart‑Object‑Ebene in einer PSD‑Datei enthält. Sie ist die Basisklasse für Sold‑ und Sole‑Ressourcen, die zur Unterstützung von Smart‑Object‑Ebenen in den Adobe‑Photoshop‑Bildern verwendet wird."
 type: docs
-weight: 2990
+weight: 3340
 url: /de/net/aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/
 ---
+{{< psd/tize >}}
 ## SmartObjectResource class
 
-Definiert die SmartObjectResource-Klasse, die Informationen zu einer Smart-Objekt-Ebene in einer PSD-Datei enthält. Dies ist die Basisklasse für Sold- und Sole-Ressourcen, die verwendet wird, um Smart-Objekt-Ebenen in den Adobe® Photoshop®-Bildern zu unterstützen.
+Definiert die Klasse **SmartObjectResource**, die Informationen über eine Smart‑Object‑Ebene in einer PSD‑Datei enthält. Es ist die Basisklasse für Sold‑ und Sole‑Ressourcen, die zur Unterstützung von Smart‑Object‑Ebenen in den Adobe‑Photoshop‑Bildern verwendet wird.
 
 ```csharp
 public abstract class SmartObjectResource : PlacedResource, ISmartObjectLayerResource
@@ -18,59 +19,59 @@ public abstract class SmartObjectResource : PlacedResource, ISmartObjectLayerRes
 
 | Name | Beschreibung |
 | --- | --- |
-| override [AntiAliasPolicy](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/antialiaspolicy/) { get; set; } | Ruft die Anti-Alias-Richtlinie der Smart-Objekt-Layer-Daten im PSD-Bild ab oder legt sie fest. |
-| [Bottom](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/bottom/) { get; set; } | Ruft die untere Position der platzierten Ebene im PSD-Bild ab oder legt sie fest. |
-| [Bounds](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/bounds/) { get; set; } | Ruft die Grenzen der platzierten Ebene in der PSD-Datei ab oder legt sie fest. |
-| [Comp](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/comp/) { get; set; } | Ruft den Comp-Wert der Smart-Objekt-Layer-Daten in der PSD-Datei ab oder legt ihn fest. [Ebenenkompositionen in Smart Objects](https://helpx.adobe.com/photoshop/using/layer-comps.html) |
-| [CompId](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/compid/) { get; set; } | Erhält oder setzt die ID der aktuell ausgewählten Komposition für das untergeordnete Dokument, die -1 ist, wenn keine ausgewählt ist. Kompositionen sind Kompositionen eines Seitenlayouts, die Designer erstellen können. Mithilfe von Ebenenkompositionen können Sie mehrere Versionen eines Layouts in einer einzigen Adobe® Photoshop®-Datei erstellen, verwalten und anzeigen. Eine Ebenenkomposition ist eine Momentaufnahme eines Zustands des Ebenenbedienfelds. Ebenenkompositionen speichern drei Arten von Ebenenoptionen, aber diese Eigenschaft erhält die Ebenenkompositions-Auswahlkennung für die intelligente Objektebene in der PSD-Datei. [Ebenenkompositionen in Smart Objects](https://helpx.adobe.com/photoshop/using/layer-comps.html) |
-| [Crop](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/crop/) { get; set; } | Ruft den Zuschnitt der Smart-Objekt-Ebenendaten im PSD-Bild ab oder legt ihn fest. |
-| [DurationDenominator](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/durationdenominator/) { get; set; } | Ruft den Dauernenner ab oder legt ihn fest. |
-| [DurationNumerator](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/durationnumerator/) { get; set; } | Ruft den Dauerzähler ab oder legt ihn fest. |
-| [FrameCount](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/framecount/) { get; set; } | Ruft die Bildanzahl der Smart-Objekt-Ebenendaten in der PSD-Datei ab oder legt sie fest. |
-| [FrameStepDenominator](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/framestepdenominator/) { get; set; } | Ruft den Frame-Schritt-Nenner ab oder setzt ihn. |
-| [FrameStepNumerator](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/framestepnumerator/) { get; set; } | Ruft den Frame-Schrittzähler ab oder setzt ihn. |
-| [Height](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/height/) { get; set; } | Ruft die Höhe ab oder legt sie fest. |
-| [HorizontalMeshPoints](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/horizontalmeshpoints/) { get; set; } | Holt oder setzt die horizontalen Gitterpunkte der platzierten Ebene in der PSD-Datei. |
-| [HorizontalMeshPointUnit](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/horizontalmeshpointunit/) { get; set; } | Ruft die Maßeinheit der horizontalen Netzpunkte ab oder legt sie fest. |
-| [IsCustom](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/iscustom/) { get; set; } | Ruft einen Wert ab oder legt einen Wert fest, der angibt, ob dieser Instanz-Warp-Stil benutzerdefiniert ist. Wenn wahr, enthält er Mesh-Punkte. Wenn auf „false“ gesetzt, werden Mesh-Punkte gelöscht. |
-| override [Items](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/items/) { get; set; } | Ruft die Deskriptorelemente der Smart-Objekt-Layer-Daten in der PSD-Datei ab oder legt sie fest. |
-| abstract [Key](../../aspose.psd.fileformats.psd.layers/layerresource/key/) { get; } | Ruft den Layer-Ressourcenschlüssel ab. |
-| [Left](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/left/) { get; set; } | Ruft die linke Position der platzierten Ebene in der PSD-Datei ab oder legt sie fest. |
-| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/length/) { get; } | Ruft die Ressourcenlänge des intelligenten Objekts in Bytes ab. |
-| [NonAffineTransformMatrix](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/nonaffinetransformmatrix/) { get; set; } | Ruft die nicht affine Transformationsmatrix der Smart-Objekt-Layer-Daten in der PSD-Datei ab oder legt sie fest. |
-| [OriginalCompId](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/originalcompid/) { get; } | Ruft die Original-ID der aktuell ausgewählten Komposition für das untergeordnete Dokument ab, die -1 ist, wenn keine ausgewählt ist. Diese Eigenschaft ruft die Original-Ebenen-Kompositionsauswahlkennung für die Smart-Objekt-Ebene in der PSD-Datei ab. [Ebenenkompositionen in Smart Objects](https://helpx.adobe.com/photoshop/using/layer-comps.html) |
-| override [PageNumber](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/pagenumber/) { get; set; } | Ruft die Seitenzahl der Smart-Objekt-Layer-Daten in der PSD-Datei ab oder legt sie fest. |
-| [Perspective](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/perspective/) { get; set; } | Ruft den Perspektivenwert der platzierten Ebene in der PSD-Datei ab oder legt ihn fest. |
-| [PerspectiveOther](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/perspectiveother/) { get; set; } | Holt oder setzt den Perspective Other-Wert der platzierten Ebene in der PSD-Datei. |
-| [PlacedId](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/placedid/) { get; set; } | Ruft die eindeutige Kennung dieser Smart-Objekt-Layer-Daten im PSD-Bild ab oder legt sie fest. |
-| override [PlacedLayerType](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/placedlayertype/) { get; set; } | Ruft den Typ der Smart-Objekt-Layer-Daten in der PSD-Datei ab oder legt ihn fest. |
-| override [PsdVersion](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/psdversion/) { get; } | Ruft die minimale PSD-Version ab, die für die Smart-Objekt-Ressource erforderlich ist. 0 zeigt keine Einschränkungen an. |
-| [Resolution](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/resolution/) { get; set; } | Ruft die Auflösung der Smart-Objekt-Layer-Daten in der PSD-Datei ab oder legt sie fest. |
-| [ResolutionUnit](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/resolutionunit/) { get; set; } | Ruft die Auflösungsmaßeinheit der Smart-Objekt-Layer-Daten in der PSD-Datei ab oder legt sie fest. |
-| [Right](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/right/) { get; set; } | Ruft die richtige Position der platzierten Ebene in der PSD-Datei ab oder legt sie fest. |
-| override [Signature](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/signature/) { get; } | Ruft die Smart-Objekt-Ressourcensignatur ab. |
-| [Top](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/top/) { get; set; } | Ruft die oberste Position der platzierten Ebene im PSD-Bild ab oder legt sie fest. |
-| override [TotalPages](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/totalpages/) { get; set; } | Ruft die Gesamtseitenzahl der Smart-Objekt-Layer-Daten in der PSD-Datei ab oder legt sie fest. |
-| override [TransformMatrix](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/transformmatrix/) { get; set; } | Ruft die Transformationsmatrix der Smart-Objekt-Layer-Daten in der PSD-Datei ab oder legt sie fest. |
-| override [UniqueId](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/uniqueid/) { get; set; } | Ruft die globale eindeutige Kennung der Smart-Objekt-Layer-Daten ab oder legt sie fest`SmartObjectResource` im PSD-Bild. |
-| [UOrder](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/uorder/) { get; set; } | Ruft den U-Ordnungswert der platzierten Ebene in der PSD-Datei ab oder legt ihn fest. |
-| [Value](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/value/) { get; set; } | Ruft den Warp-Wert der platzierten Ebene im PSD-Bild ab oder legt ihn fest. |
-| [Version](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/version/) { get; } | Ruft die Version der platzierten Ebene in der PSD-Datei ab, normalerweise 3. |
-| [VerticalMeshPoints](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/verticalmeshpoints/) { get; set; } | Holt oder setzt die horizontalen Gitterpunkte der platzierten Ebene in der PSD-Datei. |
-| [VerticalMeshPointUnit](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/verticalmeshpointunit/) { get; set; } | Ruft die Maßeinheit der vertikalen Gitterpunkte ab oder legt sie fest. |
-| [VOrder](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/vorder/) { get; set; } | Ruft den Wert der V-Ordnung der platzierten Ebene in der PSD-Datei ab oder legt ihn fest. |
-| [Width](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/width/) { get; set; } | Ruft die Breite ab oder legt sie fest. |
+| override [AntiAliasPolicy](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/antialiaspolicy/) { get; set; } | Liest oder setzt die Antialias‑Richtlinie der Smart‑Object‑Ebenendaten im PSD‑Bild. |
+| [Bottom](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/bottom/) { get; set; } | Liest oder setzt die untere Position der platzierten Ebene im PSD‑Bild. |
+| [Bounds](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/bounds/) { get; set; } | Liest oder setzt die Begrenzungen der platzierten Ebene in der PSD‑Datei. |
+| [Comp](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/comp/) { get; set; } | Liest oder setzt den Comp‑Wert der Smart‑Object‑Ebenendaten in der PSD‑Datei. [Layer comps in Smart Objects](https://helpx.adobe.com/photoshop/using/layer-comps.html) |
+| [CompId](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/compid/) { get; set; } | Liest oder setzt die ID des aktuell ausgewählten Comps für das Unterdokument, die -1 ist, wenn keiner ausgewählt ist. Comps sind Zusammensetzungen eines Seitenlayouts, die Designer erstellen können. Mit Layer‑Comps können Sie mehrere Versionen eines Layouts in einer einzigen Adobe‑Photoshop‑Datei erstellen, verwalten und anzeigen. Ein Layer‑Comp ist ein Schnappschuss eines Zustands des Ebenen‑Panels. Layer‑Comps speichern drei Arten von Ebenen‑Optionen, aber diese Eigenschaft liefert den Auswahl‑Identifier des Layer‑Comp für die Smart‑Object‑Ebene in der PSD‑Datei. [Layer comps in Smart Objects](https://helpx.adobe.com/photoshop/using/layer-comps.html) |
+| [Crop](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/crop/) { get; set; } | Liest oder setzt den Beschnitt der Smart‑Object‑Ebenendaten im PSD‑Bild. |
+| [DurationDenominator](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/durationdenominator/) { get; set; } | Liest oder setzt den Nenner der Dauer. |
+| [DurationNumerator](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/durationnumerator/) { get; set; } | Liest oder setzt den Zähler der Dauer. |
+| [FrameCount](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/framecount/) { get; set; } | Liest oder setzt die Bildanzahl der Smart‑Object‑Ebenendaten in der PSD‑Datei. |
+| [FrameStepDenominator](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/framestepdenominator/) { get; set; } | Liest oder setzt den Nenner des Bildschritts. |
+| [FrameStepNumerator](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/framestepnumerator/) { get; set; } | Liest oder setzt den Zähler des Bildschritts. |
+| [Height](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/height/) { get; set; } | Liest oder setzt die Höhe. |
+| [HorizontalMeshPoints](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/horizontalmeshpoints/) { get; set; } | Liest oder setzt die horizontalen Gitterpunkte der platzierten Ebene in der PSD‑Datei. |
+| [HorizontalMeshPointUnit](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/horizontalmeshpointunit/) { get; set; } | Liest oder legt die Maßeinheit der horizontalen Maschenpunkte fest. |
+| [IsCustom](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/iscustom/) { get; set; } | Liest oder legt einen Wert fest, der angibt, ob dieser Instanz-Warp-Stil benutzerdefiniert ist. Wenn true, enthält er Maschenpunkte. Wenn auf false gesetzt, löscht er Maschenpunkte. |
+| override [Items](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/items/) { get; set; } | Liest oder setzt die Deskriptor‑Elemente der Smart‑Object‑Ebenendaten in der PSD‑Datei. |
+| [Key](../../aspose.psd.fileformats.psd.layers/layerresource/key/) { get; } | Liest den Schichtressourcen-Schlüssel. |
+| [Left](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/left/) { get; set; } | Liest oder legt die linke Position der platzierten Ebene in der PSD-Datei fest. |
+| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/length/) { get; } | Liest die Länge der Smart‑Object‑Ressource in Bytes. |
+| [NonAffineTransformMatrix](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/nonaffinetransformmatrix/) { get; set; } | Liest oder setzt die nicht‑affine Transformationsmatrix der Smart‑Object‑Ebenendaten in der PSD‑Datei. |
+| [OriginalCompId](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/originalcompid/) { get; } | Liest die ursprüngliche ID des aktuell ausgewählten Comps für das Unterdokument, die -1 ist, wenn keiner ausgewählt ist. Diese Eigenschaft liefert den ursprünglichen Auswahl‑Identifier des Layer‑Comp für die Smart‑Object‑Ebene in der PSD‑Datei. [Layer comps in Smart Objects](https://helpx.adobe.com/photoshop/using/layer-comps.html) |
+| override [PageNumber](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/pagenumber/) { get; set; } | Liest oder setzt die Seitenzahl der Smart‑Object‑Ebenendaten in der PSD‑Datei. |
+| [Perspective](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/perspective/) { get; set; } | Liest oder legt den Perspektivwert der platzierten Ebene in der PSD-Datei fest. |
+| [PerspectiveOther](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/perspectiveother/) { get; set; } | Liest oder legt den anderen Perspektivwert der platzierten Ebene in der PSD-Datei fest. |
+| [PlacedId](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/placedid/) { get; set; } | Liest oder setzt den eindeutigen Bezeichner dieser Smart‑Object‑Ebenendaten im PSD‑Bild. |
+| override [PlacedLayerType](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/placedlayertype/) { get; set; } | Liest oder setzt den Typ der Smart‑Object‑Ebenendaten in der PSD‑Datei. |
+| virtual [PsdVersion](../../aspose.psd.fileformats.psd.layers/layerresource/psdversion/) { get; } | Liest die minimale PSD-Version, die für die Schichtressource erforderlich ist. 0 bedeutet keine Einschränkungen. |
+| [Resolution](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/resolution/) { get; set; } | Liest oder setzt die Auflösung der Smart‑Object‑Ebenendaten in der PSD‑Datei. |
+| [ResolutionUnit](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/resolutionunit/) { get; set; } | Liest oder setzt die Maßeinheit der Auflösung der Smart‑Object‑Ebenendaten in der PSD‑Datei. |
+| [Right](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/right/) { get; set; } | Liest oder legt die rechte Position der platzierten Ebene in der PSD-Datei fest. |
+| virtual [Signature](../../aspose.psd.fileformats.psd.layers/layerresource/signature/) { get; } | Liest die Signatur. |
+| [Top](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/top/) { get; set; } | Liest oder legt die obere Position der platzierten Ebene im PSD-Bild fest. |
+| override [TotalPages](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/totalpages/) { get; set; } | Liest oder setzt die Gesamtseitenzahl der Smart‑Object‑Ebenendaten in der PSD‑Datei. |
+| override [TransformMatrix](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/transformmatrix/) { get; set; } | Liest oder setzt die Transformationsmatrix der Smart‑Object‑Ebenendaten in der PSD‑Datei. |
+| override [UniqueId](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/uniqueid/) { get; set; } | Liest oder setzt den globalen eindeutigen Bezeichner der Smart‑Object‑Ebenendaten `SmartObjectResource` im PSD‑Bild. |
+| [UOrder](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/uorder/) { get; set; } | Liest oder legt den U-Ordnungswert der platzierten Ebene in der PSD-Datei fest. |
+| [Value](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/value/) { get; set; } | Liest oder legt den Warp-Wert der platzierten Ebene im PSD-Bild fest. |
+| [Version](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/version/) { get; } | Liest die Version der platzierten Ebene in der PSD-Datei, normalerweise 3. |
+| [VerticalMeshPoints](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/verticalmeshpoints/) { get; set; } | Liest oder setzt die horizontalen Gitterpunkte der platzierten Ebene in der PSD‑Datei. |
+| [VerticalMeshPointUnit](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/verticalmeshpointunit/) { get; set; } | Liest oder legt die Maßeinheit der vertikalen Maschenpunkte fest. |
+| [VOrder](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/vorder/) { get; set; } | Liest oder legt den V-Ordnungswert der platzierten Ebene in der PSD-Datei fest. |
+| [Width](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/width/) { get; set; } | Liest oder setzt die Breite. |
 
 ## Methoden
 
 | Name | Beschreibung |
 | --- | --- |
-| override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/save/)(StreamContainer, int) | Speichert die Smart-Objekt-Ressource im angegebenen Stream-Container. |
-| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring/)() | Gibt a zurückString die diese Instanz darstellt. |
+| override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/save/)(StreamContainer, int) | Speichert die Smart‑Object‑Ressource im angegebenen Stream‑Container. |
+| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring/)() | Gibt einen String zurück, der diese Instanz darstellt. |
 
-### Beispiele
+## Beispiele
 
-Der folgende Code demonstriert die Unterstützung der Ressourcen SoLEResource, SmartObjectResource und PlacedResource.
+Der folgende Code demonstriert die Unterstützung der SoLEResource-, SmartObjectResource- und PlacedResource‑Ressourcen.
 
 ```csharp
 [C#]
@@ -156,7 +157,7 @@ void CheckSmartObjectResourceValues(object[] expectedValue, SmartObjectResource 
 
 void SetNewSmartValues(SmartObjectResource resource, object[] newValues)
 {
-    // Diese Werte ändern wir nicht in der Ressource
+    // Diese Werte ändern wir nicht in der Ressource.
     newValues[0] = resource.IsCustom;
     newValues[1] = resource.UniqueId.ToString();
     newValues[5] = resource.PlacedLayerType;
@@ -164,14 +165,14 @@ void SetNewSmartValues(SmartObjectResource resource, object[] newValues)
     newValues[15] = resource.VOrder;
     newValues[28] = resource.OriginalCompId;
 
-    // Diese Werte sollten auch in der PlLdResource (mit der angegebenen UniqueId) geändert werden
-    // und einige von ihnen müssen mit dem unterstreichenden Smart-Objekt in der LinkDataSource übereinstimmen
+    // Diese Werte sollten auch in der PlLdResource (mit der angegebenen UniqueId) geändert werden.
+    // und einige davon müssen mit dem zugrunde liegenden Smart‑Object in der LinkDataSource übereinstimmen.
     resource.PageNumber = (int)newValues[2]; // 2;
     resource.TotalPages = (int)newValues[3]; // 3;
     resource.AntiAliasPolicy = (int)newValues[4]; // 0;
     resource.TransformMatrix = (double[])newValues[6];
     resource.Value = (double)newValues[7]; // 1.23456789;
-    resource.Perspective = (double)newValues[8]; // 0,123456789;
+    resource.Perspective = (double)newValues[8]; // 0.123456789;
     resource.PerspectiveOther = (double)newValues[9]; // 0.987654321;
     resource.Top = (double)newValues[10]; // -126;
     resource.Left = (double)newValues[11]; // -215;
@@ -191,7 +192,7 @@ void SetNewSmartValues(SmartObjectResource resource, object[] newValues)
     resource.CompId = (int)newValues[27]; // 22;
     resource.NonAffineTransformMatrix = (double[])newValues[30];
 
-    // Diese eindeutige ID sollte gegebenenfalls in Referenzen geändert werden
+    // Diese eindeutige Id sollte in Verweisen, falls vorhanden, geändert werden.
     resource.PlacedId = new Guid((string)newValues[29]);  // "12345678-9abc-def0-9876-54321fecba98");
     if (resource.IsCustom)
     {
@@ -201,15 +202,16 @@ void SetNewSmartValues(SmartObjectResource resource, object[] newValues)
         resource.VerticalMeshPoints = (double[])newValues[34];
     }
 
-    // Seien Sie vorsichtig mit einigen Parametern: Das gespeicherte Bild kann für Adobe® Photoshop® unlesbar werden
+    // Seien Sie vorsichtig mit einigen Parametern: Das gespeicherte Bild könnte von Adobe® Photoshop® nicht mehr gelesen werden.
     ////resource.UOrder = 6;
     ////resource.VOrder = 9;
 
-    // Ändern Sie dies nicht, sonst können Sie die freie Transformation nicht verwenden
-    // oder ändern Sie das unterstreichende Smart-Objekt in den Vektortyp
+    // Ändern Sie dies nicht, sonst
+ Sie können die Freie‑Transformation nicht verwenden.
+    // oder ändern Sie das unterliegende Smart-Objekt in den Vektortyp
     ////resource.PlacedLayerType = PlacedLayerType.Vector;
 
-    // Es sollte eine gültige PlLdResource mit dieser eindeutigen ID geben
+    // Es sollte ein gültiges PlLdResource mit dieser eindeutigen Id geben
     ////resource.UniqueId = new Guid("98765432-10fe-cba0-1234-56789abcdef0");
 }
 
@@ -379,7 +381,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
 * class [SoLeResource](../soleresource/)
 * class [PlacedResource](../placedresource/)
 * interface [ISmartObjectLayerResource](../ismartobjectlayerresource/)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
-* Montage [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../)
 
 

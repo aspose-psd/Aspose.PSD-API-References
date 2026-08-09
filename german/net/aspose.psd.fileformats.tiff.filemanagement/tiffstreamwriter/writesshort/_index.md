@@ -1,14 +1,15 @@
 ---
-title: TiffStreamWriter.WriteSShort
-second_title: Aspose.PSD für .NET-API-Referenz
-description: TiffStreamWriter methode. Schreibt einen einzelnen kurzen Wert in den Stream.
+title: "TiffStreamWriter.WriteSShort"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "TiffStreamWriter-Methode. Schreibt einen einzelnen short-Wert in den Stream"
 type: docs
 weight: 170
 url: /de/net/aspose.psd.fileformats.tiff.filemanagement/tiffstreamwriter/writesshort/
 ---
+{{< psd/tize >}}
 ## TiffStreamWriter.WriteSShort method
 
-Schreibt einen einzelnen kurzen Wert in den Stream.
+Schreibt einen einzelnen short-Wert in den Stream.
 
 ```csharp
 public void WriteSShort(short data)
@@ -16,12 +17,12 @@ public void WriteSShort(short data)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| data | Int16 | Der zu schreibende Wert. |
+| Daten | Int16 | Der zu schreibende Wert. |
 
 ### Siehe auch
 
 * class [TiffStreamWriter](../)
-* namensraum [Aspose.PSD.FileFormats.Tiff.FileManagement](../../tiffstreamwriter/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff.FileManagement](../../../aspose.psd.fileformats.tiff.filemanagement/)
+* assembly [Aspose.PSD](../../../)
 
 

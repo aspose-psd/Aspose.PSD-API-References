@@ -1,27 +1,28 @@
 ---
-title: XmpPackage.Prefix
-second_title: Aspose.PSD für .NET-API-Referenz
-description: XmpPackage eigendom. Ruft das Präfix ab.
+title: "XmpPackage.Prefix"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "XmpPackage-Eigenschaft. Gibt das Präfix zurück"
 type: docs
 weight: 40
 url: /de/net/aspose.psd.xmp/xmppackage/prefix/
 ---
+{{< psd/tize >}}
 ## XmpPackage.Prefix property
 
-Ruft das Präfix ab.
+Liest das Präfix.
 
 ```csharp
 public string Prefix { get; }
 ```
 
-### Eigentumswert
+### Property Value
 
 Das Präfix.
 
 ### Siehe auch
 
 * class [XmpPackage](../)
-* namensraum [Aspose.PSD.Xmp](../../xmppackage/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

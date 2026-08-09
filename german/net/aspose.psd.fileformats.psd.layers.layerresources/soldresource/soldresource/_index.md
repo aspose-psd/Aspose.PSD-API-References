@@ -1,14 +1,15 @@
 ---
-title: SoLdResource.SoLdResource
-second_title: Aspose.PSD für .NET-API-Referenz
-description: SoLdResource constructeur. Initialisiert eine neue Instanz vonSoLdResource class. Es ist notwendig die ItemsEigenschaft zu setzen oder InitializeItems aufzurufen um eine fertige Instanz zu erhalten. Dieser Konstruktor ist für die Verwendung von by konzipiertSmartResourceCreator und in Einheitentests. VerwendenSmartResourceCreator zum Erstellen von SoLdResourceKlassen.
+title: "SoLdResource.SoLdResource"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "SoLdResource Konstruktor. Initialisiert eine neue Instanz der SoLdResource-Klasse. Es ist notwendig, die Items-Eigenschaft zu setzen oder InitializeItems aufzurufen, um eine fertige Instanz zu erhalten. Dieser Konstruktor ist für die Verwendung durch SmartResourceCreator und in Unit-Tests vorgesehen. Verwenden Sie SmartResourceCreator zum Erstellen von SoLdResource-Klassen."
 type: docs
 weight: 10
 url: /de/net/aspose.psd.fileformats.psd.layers.layerresources/soldresource/soldresource/
 ---
+{{< psd/tize >}}
 ## SoLdResource(Guid, bool, bool) {#constructor_1}
 
-Initialisiert eine neue Instanz von[`SoLdResource`](../) class. Es ist notwendig, die Items-Eigenschaft zu setzen oder InitializeItems() aufzurufen, um eine fertige Instanz zu erhalten. Dieser Konstruktor ist für die Verwendung von by konzipiert[`SmartResourceCreator`](../../smartresourcecreator/) und in Einheitentests. Verwenden[`SmartResourceCreator`](../../smartresourcecreator/) zum Erstellen von SoLdResource-Klassen.
+Initialisiert eine neue Instanz der [`SoLdResource`](../)-Klasse. Es ist notwendig, die Items-Eigenschaft zu setzen oder InitializeItems() aufzurufen, um eine fertige Instanz zu erhalten. Dieser Konstruktor ist für die Verwendung durch [`SmartResourceCreator`](../../smartresourcecreator/) und in Unit-Tests vorgesehen. Verwenden Sie [`SmartResourceCreator`](../../smartresourcecreator/) zum Erstellen von SoLdResource-Klassen.
 
 ```csharp
 public SoLdResource(Guid uniqueId, bool isCustom, bool hasCompInfo)
@@ -16,18 +17,18 @@ public SoLdResource(Guid uniqueId, bool isCustom, bool hasCompInfo)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| uniqueId | Guid | Der eindeutige Bezeichner der Smart-Object-Layer-Daten[`SoLdResource`](../). |
-| isCustom | Boolean | wenn eingestellt`WAHR` [ist Brauch]. |
-| hasCompInfo | Boolean | wenn eingestellt`WAHR` [hat Comp-Informationen]. |
+| uniqueId | Guid | Der eindeutige Bezeichner der Smart-Object-Ebenendaten [`SoLdResource`](../). |
+| isCustom | Boolean | wenn auf `true` gesetzt [ist benutzerdefiniert]. |
+| hasCompInfo | Boolean | wenn auf `true` gesetzt [hat Komponenteninformationen]. |
 
-### Beispiele
+## Beispiele
 
-Der folgende Code demonstriert die Unterstützung der SoLdResource-Ressource.
+Der folgende Code demonstriert die Unterstützung der SoLdResource‑Ressource.
 
 ```csharp
 [C#]
 
-// Dieses Beispiel zeigt, wie die Dateneigenschaften der Smart-Objektebene der PSD-Datei abgerufen oder festgelegt werden.
+// Dieses Beispiel zeigt, wie man die Eigenschaften der Smart‑Object‑Ebenen‑Daten der PSD‑Datei liest oder setzt.
 
 void AssertAreEqual(object actual, object expected)
 {
@@ -261,8 +262,8 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
                     resource.HorizontalMeshPoints = temp;
                 }
 
-                // Diese Werte sollten auch in der PlLdResource (mit der angegebenen UniqueId) geändert werden
-                // und einige von ihnen müssen mit dem unterstreichenden Smart-Objekt in der LinkDataSource übereinstimmen
+                // Diese Werte sollten auch in der PlLdResource (mit der angegebenen UniqueId) geändert werden.
+                // und einige davon müssen mit dem zugrunde liegenden Smart‑Object in der LinkDataSource übereinstimmen.
                 resource.PageNumber = 2;
                 resource.TotalPages = 3;
                 resource.AntiAliasPolicy = 0;
@@ -307,18 +308,19 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
                     42
                 };
 
-                // Diese eindeutige ID sollte gegebenenfalls in Referenzen geändert werden
+                // Diese eindeutige Id sollte in Verweisen, falls vorhanden, geändert werden.
                 resource.PlacedId = new Guid("12345678-9abc-def0-9876-54321fecba98");
 
-                // Seien Sie vorsichtig mit einigen Parametern: Das Bild kann von Adobe® Photoshop® unlesbar werden
+                // Seien Sie vorsichtig mit einigen Parametern: Das Bild könnte für Adobe® Photoshop® unlesbar werden.
                 ////resource.UOrder = 6;
                 ////resource.VOrder = 9;
 
-                // Ändern Sie dies nicht, sonst können Sie die freie Transformation nicht verwenden
-                // oder ändern Sie das unterstreichende Smart-Objekt in den Vektortyp
+                // Ändern Sie dies nicht, sonst
+ Sie können die Freie‑Transformation nicht verwenden.
+                // oder ändern Sie das unterliegende Smart-Objekt in den Vektortyp
                 ////resource.PlacedLayerType = PlacedLayerType.Vector;
 
-                // Es sollte eine gültige PlLdResource mit dieser eindeutigen ID geben
+                // Es sollte ein gültiges PlLdResource mit dieser eindeutigen Id geben
                 ////resource.UniqueId = new Guid("98765432-10fe-cba0-1234-56789abcdef0");
 
                 break;
@@ -334,14 +336,14 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
 ### Siehe auch
 
 * class [SoLdResource](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../soldresource/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## SoLdResource() {#constructor}
 
-Initialisiert eine neue Instanz von[`SoLdResource`](../) class. Dieser Standardkonstruktor ist für die Verwendung von by konzipiertSoLdResourceLoader . verwenden[`SmartResourceCreator`](../../smartresourcecreator/) zum Erstellen von SoLdResource-Klassen.
+Initialisiert eine neue Instanz der [`SoLdResource`](../)-Klasse. Dieser Standardkonstruktor ist für die Verwendung durch SoLdResourceLoader vorgesehen. Verwenden Sie [`SmartResourceCreator`](../../smartresourcecreator/) zum Erstellen von SoLdResource-Klassen.
 
 ```csharp
 public SoLdResource()
@@ -350,7 +352,7 @@ public SoLdResource()
 ### Siehe auch
 
 * class [SoLdResource](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../soldresource/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: Class InnerShadowEffect
-second_title: Aspose.PSD für .NET-API-Referenz
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerEffects.InnerShadowEffect klas. Effekt der inneren Schattenebene
+title: "Klasse InnerShadowEffect"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "Aspose.PSD.FileFormats.Psd.Layers.LayerEffects.InnerShadowEffect Klasse. Inner Shadow Ebeneneffekt"
 type: docs
-weight: 2160
+weight: 2350
 url: /de/net/aspose.psd.fileformats.psd.layers.layereffects/innershadoweffect/
 ---
+{{< psd/tize >}}
 ## InnerShadowEffect class
 
-Effekt der inneren Schattenebene
+Inner‑Shadow‑Ebeneneffekt
 
 ```csharp
 public class InnerShadowEffect : IShadowEffect
@@ -18,21 +19,27 @@ public class InnerShadowEffect : IShadowEffect
 
 | Name | Beschreibung |
 | --- | --- |
-| [Angle](../../aspose.psd.fileformats.psd.layers.layereffects/innershadoweffect/angle/) { get; set; } | Ruft den Winkel in Grad ab oder legt ihn fest. |
-| [BlendMode](../../aspose.psd.fileformats.psd.layers.layereffects/innershadoweffect/blendmode/) { get; set; } | Ruft den Mischmodus ab oder legt ihn fest. |
-| [Color](../../aspose.psd.fileformats.psd.layers.layereffects/innershadoweffect/color/) { get; set; } | Ruft die Farbe ab oder legt sie fest. |
-| [Distance](../../aspose.psd.fileformats.psd.layers.layereffects/innershadoweffect/distance/) { get; set; } | Holt oder setzt den Abstand in Pixel. |
-| [EffectType](../../aspose.psd.fileformats.psd.layers.layereffects/innershadoweffect/effecttype/) { get; } | Ruft eine Art Effekt ab |
-| [IsVisible](../../aspose.psd.fileformats.psd.layers.layereffects/innershadoweffect/isvisible/) { get; set; } | Ruft einen Wert ab oder legt einen Wert fest, der angibt, ob diese Instanz sichtbar ist. |
-| [Noise](../../aspose.psd.fileformats.psd.layers.layereffects/innershadoweffect/noise/) { get; set; } | Ruft das Rauschen ab oder legt es fest. |
-| [Opacity](../../aspose.psd.fileformats.psd.layers.layereffects/innershadoweffect/opacity/) { get; set; } | Ruft die Deckkraft ab oder legt sie fest. |
-| [Size](../../aspose.psd.fileformats.psd.layers.layereffects/innershadoweffect/size/) { get; set; } | Ruft den Unschärfewert in Pixel ab oder legt ihn fest. |
-| [Spread](../../aspose.psd.fileformats.psd.layers.layereffects/innershadoweffect/spread/) { get; set; } | Holt oder setzt den Spread (Choke) als Prozentsatz. |
-| [UseGlobalLight](../../aspose.psd.fileformats.psd.layers.layereffects/innershadoweffect/usegloballight/) { get; set; } | Ruft einen Wert ab oder legt einen Wert fest, der angibt, ob [diesen Winkel in allen Ebeneneffekten verwenden]. |
+| [Angle](../../aspose.psd.fileformats.psd.layers.layereffects/innershadoweffect/angle/) { get; set; } | Liest oder setzt den Winkel in Grad. |
+| [BlendMode](../../aspose.psd.fileformats.psd.layers.layereffects/innershadoweffect/blendmode/) { get; set; } | Liest oder setzt den Mischmodus. |
+| [Color](../../aspose.psd.fileformats.psd.layers.layereffects/innershadoweffect/color/) { get; set; } | Liest oder setzt die Farbe. |
+| [Distance](../../aspose.psd.fileformats.psd.layers.layereffects/innershadoweffect/distance/) { get; set; } | Liest oder setzt die Entfernung in Pixeln. |
+| [EffectType](../../aspose.psd.fileformats.psd.layers.layereffects/innershadoweffect/effecttype/) { get; } | Liest einen Effekttyp |
+| [IsVisible](../../aspose.psd.fileformats.psd.layers.layereffects/innershadoweffect/isvisible/) { get; set; } | Liest oder setzt einen Wert, der angibt, ob diese Instanz sichtbar ist. |
+| [Noise](../../aspose.psd.fileformats.psd.layers.layereffects/innershadoweffect/noise/) { get; set; } | Liest oder setzt das Rauschen. |
+| [Opacity](../../aspose.psd.fileformats.psd.layers.layereffects/innershadoweffect/opacity/) { get; set; } | Liest oder setzt die Deckkraft. |
+| [Size](../../aspose.psd.fileformats.psd.layers.layereffects/innershadoweffect/size/) { get; set; } | Liest oder setzt den Unschärfewert in Pixeln. |
+| [Spread](../../aspose.psd.fileformats.psd.layers.layereffects/innershadoweffect/spread/) { get; set; } | Liest oder setzt die Ausdehnung (Drosselung) als Prozentsatz. |
+| [UseGlobalLight](../../aspose.psd.fileformats.psd.layers.layereffects/innershadoweffect/usegloballight/) { get; set; } | Liest oder setzt einen Wert, der angibt, ob [use this angle in all of the layer effects]. |
 
-### Beispiele
+## Methoden
 
-Der folgende Code zeigt, wie die Einstellungen des Effekts „Innere Schattenebene“ geändert werden.
+| Name | Beschreibung |
+| --- | --- |
+| [GetEffectBounds](../../aspose.psd.fileformats.psd.layers.layereffects/innershadoweffect/geteffectbounds/)(Rectangle, int) | Berechnet und liest die Grenzen der Effektpixel basierend auf den Grenzen der Eingabeebenenpixel. |
+
+## Beispiele
+
+Der folgende Code demonstriert, wie man die Einstellungen des Inner Shadow Layer Effect ändert.
 
 ```csharp
 [C#]
@@ -40,7 +47,7 @@ Der folgende Code zeigt, wie die Einstellungen des Effekts „Innere Schattenebe
 string sourceFile = "example.psd";
 string outputFile = "sample_out.psd";
 
-// Ein vorhandenes Bild in eine Instanz der PsdImage-Klasse laden
+// Laden Sie ein vorhandenes Bild in eine Instanz der Klasse PsdImage.
 var loadOptions = new PsdLoadOptions();
 loadOptions.LoadEffectsResource = true;
 using (var image = (PsdImage)Image.Load(sourceFile, loadOptions))
@@ -64,7 +71,7 @@ using (var image = (PsdImage)Image.Load(sourceFile, loadOptions))
 ### Siehe auch
 
 * interface [IShadowEffect](../ishadoweffect/)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../aspose.psd.fileformats.psd.layers.layereffects/)
-* Montage [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../)
 
 

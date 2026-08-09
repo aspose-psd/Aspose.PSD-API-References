@@ -1,14 +1,15 @@
 ---
-title: PngOptions.FilterType
-second_title: Aspose.PSD für .NET-API-Referenz
-description: PngOptions eigendom. Ruft den beim Speichern der PNGDatei verwendeten Filtertyp ab oder legt ihn fest.
+title: "PngOptions.FilterType"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "PngOptions-Eigenschaft. Gibt den Filtertyp zurück, der beim Speichern einer PNG-Datei verwendet wird, oder legt ihn fest"
 type: docs
 weight: 50
 url: /de/net/aspose.psd.imageoptions/pngoptions/filtertype/
 ---
+{{< psd/tize >}}
 ## PngOptions.FilterType property
 
-Ruft den beim Speichern der PNG-Datei verwendeten Filtertyp ab oder legt ihn fest.
+Liest oder setzt den Filtertyp, der beim Speichern von PNG-Dateien verwendet wird.
 
 ```csharp
 public PngFilterType FilterType { get; set; }
@@ -18,7 +19,7 @@ public PngFilterType FilterType { get; set; }
 
 * enum [PngFilterType](../../../aspose.psd.fileformats.png/pngfiltertype/)
 * class [PngOptions](../)
-* namensraum [Aspose.PSD.ImageOptions](../../pngoptions/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

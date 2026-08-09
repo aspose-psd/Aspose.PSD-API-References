@@ -1,14 +1,15 @@
 ---
-title: TiffRational.Epsilon
-second_title: Aspose.PSD für .NET-API-Referenz
-description: TiffRational veld. Das Epsilon für die Bruchrechnung
+title: "TiffRational.Epsilon"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "TiffRational-Feld. Das Epsilon für die Bruchberechnung"
 type: docs
 weight: 100
 url: /de/net/aspose.psd.fileformats.tiff/tiffrational/epsilon/
 ---
+{{< psd/tize >}}
 ## TiffRational.Epsilon field
 
-Das Epsilon für die Bruchrechnung
+Das Epsilon für die Bruchberechnung
 
 ```csharp
 public const double Epsilon;
@@ -17,7 +18,7 @@ public const double Epsilon;
 ### Siehe auch
 
 * class [TiffRational](../)
-* namensraum [Aspose.PSD.FileFormats.Tiff](../../tiffrational/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff](../../../aspose.psd.fileformats.tiff/)
+* assembly [Aspose.PSD](../../../)
 
 

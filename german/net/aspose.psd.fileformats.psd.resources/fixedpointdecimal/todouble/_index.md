@@ -1,14 +1,15 @@
 ---
-title: FixedPointDecimal.ToDouble
-second_title: Aspose.PSD für .NET-API-Referenz
-description: FixedPointDecimal methode. Wandelt die aktuelle FestkommaDezimalzahl in Double um.
+title: "FixedPointDecimal.ToDouble"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "FixedPointDecimal-Methode. Konvertiert das aktuelle Festkomma-Dezimal in double"
 type: docs
 weight: 40
 url: /de/net/aspose.psd.fileformats.psd.resources/fixedpointdecimal/todouble/
 ---
+{{< psd/tize >}}
 ## FixedPointDecimal.ToDouble method
 
-Wandelt die aktuelle Festkomma-Dezimalzahl in Double um.
+Konvertiert die aktuelle Festkommazahl in einen double.
 
 ```csharp
 public double ToDouble()
@@ -21,7 +22,7 @@ Der konvertierte Wert.
 ### Siehe auch
 
 * class [FixedPointDecimal](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Resources](../../fixedpointdecimal/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: Layer.BitsPerPixel
-second_title: Aspose.PSD für .NET-API-Referenz
-description: Layer eigendom. Ruft die Anzahl der Bildbits pro Pixel ab.
+title: "Layer.BitsPerPixel"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "Layer-Eigenschaft. Gibt die Bit‑Anzahl pro Pixel des Bildes zurück"
 type: docs
 weight: 20
 url: /de/net/aspose.psd.fileformats.psd.layers/layer/bitsperpixel/
 ---
+{{< psd/tize >}}
 ## Layer.BitsPerPixel property
 
-Ruft die Anzahl der Bildbits pro Pixel ab.
+Liest die Bit‑pro‑Pixel‑Anzahl des Bildes.
 
 ```csharp
 public override int BitsPerPixel { get; }
 ```
 
-### Eigentumswert
+### Property Value
 
-Die Anzahl der Bildbits pro Pixel.
+Die Bild-Bits-pro-Pixel-Anzahl.
 
 ### Siehe auch
 
 * class [Layer](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers](../../layer/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

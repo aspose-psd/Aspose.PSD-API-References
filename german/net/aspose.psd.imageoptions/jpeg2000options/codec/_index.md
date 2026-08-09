@@ -1,20 +1,21 @@
 ---
-title: Jpeg2000Options.Codec
-second_title: Aspose.PSD für .NET-API-Referenz
-description: Jpeg2000Options eigendom. Holt oder setzt den JPEG2000Codec
+title: "Jpeg2000Options.Codec"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "Jpeg2000Options-Eigenschaft. Gibt den JPEG2000-Codec zurück oder legt ihn fest."
 type: docs
 weight: 20
 url: /de/net/aspose.psd.imageoptions/jpeg2000options/codec/
 ---
+{{< psd/tize >}}
 ## Jpeg2000Options.Codec property
 
-Holt oder setzt den JPEG2000-Codec
+Liest oder setzt den JPEG2000‑Codec
 
 ```csharp
 public Jpeg2000Codec Codec { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
 Der JPEG2000-Codec
 
@@ -22,7 +23,7 @@ Der JPEG2000-Codec
 
 * enum [Jpeg2000Codec](../../../aspose.psd.fileformats.jpeg2000/jpeg2000codec/)
 * class [Jpeg2000Options](../)
-* namensraum [Aspose.PSD.ImageOptions](../../jpeg2000options/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

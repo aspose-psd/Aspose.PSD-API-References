@@ -1,20 +1,21 @@
 ---
-title: PhflResourceVersion3.Version
-second_title: Aspose.PSD für .NET-API-Referenz
-description: PhflResourceVersion3 eigendom. Ruft die Version ab. Standard ist 2 oder 3
+title: "PhflResourceVersion3.Version"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "PhflResourceVersion3-Eigenschaft. Gibt die Version zurück. Standard ist 2 oder 3"
 type: docs
-weight: 90
+weight: 70
 url: /de/net/aspose.psd.fileformats.psd.layers.layerresources/phflresourceversion3/version/
 ---
+{{< psd/tize >}}
 ## PhflResourceVersion3.Version property
 
-Ruft die Version ab. Standard ist 2 oder 3
+Liest die Version. Standard ist 2 oder 3.
 
 ```csharp
 public override short Version { get; }
 ```
 
-### Eigentumswert
+### Property Value
 
 Die Version.
 
@@ -27,7 +28,7 @@ Die Version.
 ### Siehe auch
 
 * class [PhflResourceVersion3](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../phflresourceversion3/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

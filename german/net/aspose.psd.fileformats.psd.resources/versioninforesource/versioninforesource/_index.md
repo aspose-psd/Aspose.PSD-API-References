@@ -1,14 +1,15 @@
 ---
-title: VersionInfoResource.VersionInfoResource
-second_title: Aspose.PSD für .NET-API-Referenz
-description: VersionInfoResource constructeur. Default_Constructor
+title: "VersionInfoResource.VersionInfoResource"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "VersionInfoResource Konstruktor. Der Standardkonstruktor"
 type: docs
 weight: 10
 url: /de/net/aspose.psd.fileformats.psd.resources/versioninforesource/versioninforesource/
 ---
+{{< psd/tize >}}
 ## VersionInfoResource constructor
 
-Default_Constructor
+Der Standardkonstruktor.
 
 ```csharp
 public VersionInfoResource()
@@ -17,7 +18,7 @@ public VersionInfoResource()
 ### Siehe auch
 
 * class [VersionInfoResource](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Resources](../../versioninforesource/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

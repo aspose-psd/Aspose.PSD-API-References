@@ -1,14 +1,15 @@
 ---
-title: XmpPacketWrapper.XmpPacketWrapper
-second_title: Aspose.PSD für .NET-API-Referenz
-description: XmpPacketWrapper constructeur. Initialisiert eine neue Instanz vonXmpPacketWrapper Klasse.
+title: "XmpPacketWrapper.XmpPacketWrapper"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "XmpPacketWrapper-Konstruktor. Initialisiert eine neue Instanz der Klasse XmpPacketWrapper."
 type: docs
 weight: 10
 url: /de/net/aspose.psd.xmp/xmppacketwrapper/xmppacketwrapper/
 ---
+{{< psd/tize >}}
 ## XmpPacketWrapper(XmpHeaderPi, XmpTrailerPi, XmpMeta) {#constructor_1}
 
-Initialisiert eine neue Instanz von[`XmpPacketWrapper`](../) Klasse.
+Initialisiert eine neue Instanz der [`XmpPacketWrapper`](../)-Klasse.
 
 ```csharp
 public XmpPacketWrapper(XmpHeaderPi header, XmpTrailerPi trailer, XmpMeta xmpMeta)
@@ -16,8 +17,8 @@ public XmpPacketWrapper(XmpHeaderPi header, XmpTrailerPi trailer, XmpMeta xmpMet
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| header | XmpHeaderPi | Der XMP-Header der Verarbeitungsanweisung. |
-| trailer | XmpTrailerPi | Der XMP-Trailer der Verarbeitungsanweisung. |
+| Header | XmpHeaderPi | Der XMP-Header der Verarbeitungsanweisung. |
+| Trailer | XmpTrailerPi | Der XMP-Trailer der Verarbeitungsanweisung. |
 | xmpMeta | XmpMeta | Die XMP-Metadaten. |
 
 ### Siehe auch
@@ -26,14 +27,14 @@ public XmpPacketWrapper(XmpHeaderPi header, XmpTrailerPi trailer, XmpMeta xmpMet
 * class [XmpTrailerPi](../../xmptrailerpi/)
 * class [XmpMeta](../../xmpmeta/)
 * class [XmpPacketWrapper](../)
-* namensraum [Aspose.PSD.Xmp](../../xmppacketwrapper/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## XmpPacketWrapper() {#constructor}
 
-Initialisiert eine neue Instanz von[`XmpPacketWrapper`](../) Klasse.
+Initialisiert eine neue Instanz der [`XmpPacketWrapper`](../)-Klasse.
 
 ```csharp
 public XmpPacketWrapper()
@@ -42,7 +43,7 @@ public XmpPacketWrapper()
 ### Siehe auch
 
 * class [XmpPacketWrapper](../)
-* namensraum [Aspose.PSD.Xmp](../../xmppacketwrapper/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

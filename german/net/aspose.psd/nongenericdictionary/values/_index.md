@@ -1,14 +1,15 @@
 ---
-title: NonGenericDictionary.Values
-second_title: Aspose.PSD für .NET-API-Referenz
-description: NonGenericDictionary eigendom. erhält ein ICollection Objekt das die Werte in enthältIDictionary Objekt.
+title: "NonGenericDictionary.Values"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "NonGenericDictionary-Eigenschaft. Gibt ein ICollection-Objekt zurück, das die Werte im IDictionary-Objekt enthält"
 type: docs
 weight: 90
 url: /de/net/aspose.psd/nongenericdictionary/values/
 ---
+{{< psd/tize >}}
 ## NonGenericDictionary.Values property
 
-erhält ein ICollection Objekt, das die Werte in enthältIDictionary Objekt.
+Liest ein ICollection‑Objekt, das die Werte im IDictionary‑Objekt enthält.
 
 ```csharp
 public ICollection Values { get; }
@@ -16,12 +17,12 @@ public ICollection Values { get; }
 
 ### Rückgabewert
 
-EinICollection Objekt, das die Werte in der enthältIDictionary Objekt.
+Ein ICollection-Objekt, das die Werte im IDictionary-Objekt enthält.
 
 ### Siehe auch
 
 * class [NonGenericDictionary](../)
-* namensraum [Aspose.PSD](../../nongenericdictionary/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

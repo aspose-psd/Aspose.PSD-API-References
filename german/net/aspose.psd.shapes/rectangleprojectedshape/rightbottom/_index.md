@@ -1,20 +1,21 @@
 ---
-title: RectangleProjectedShape.RightBottom
-second_title: Aspose.PSD für .NET-API-Referenz
-description: RectangleProjectedShape eigendom. Ruft den rechten unteren Rechteckpunkt ab.
+title: "RectangleProjectedShape.RightBottom"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "RectangleProjectedShape Eigenschaft. Gibt den rechten unteren Rechteckpunkt zurück"
 type: docs
 weight: 90
 url: /de/net/aspose.psd.shapes/rectangleprojectedshape/rightbottom/
 ---
+{{< psd/tize >}}
 ## RectangleProjectedShape.RightBottom property
 
-Ruft den rechten unteren Rechteckpunkt ab.
+Liest den rechten unteren Rechteckpunkt.
 
 ```csharp
 public PointF RightBottom { get; }
 ```
 
-### Eigentumswert
+### Property Value
 
 Der rechte untere Rechteckpunkt.
 
@@ -22,7 +23,7 @@ Der rechte untere Rechteckpunkt.
 
 * struct [PointF](../../../aspose.psd/pointf/)
 * class [RectangleProjectedShape](../)
-* namensraum [Aspose.PSD.Shapes](../../rectangleprojectedshape/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 

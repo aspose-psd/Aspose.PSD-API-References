@@ -1,28 +1,29 @@
 ---
-title: RectangleProjectedShape.LeftTop
-second_title: Aspose.PSD für .NET-API-Referenz
-description: RectangleProjectedShape eigendom. Ruft den linken oberen Rechteckpunkt ab.
+title: "RectangleProjectedShape.LeftTop"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "RectangleProjectedShape-Eigenschaft. Gibt den linken oberen Punkt des Rechtecks zurück"
 type: docs
 weight: 60
 url: /de/net/aspose.psd.shapes/rectangleprojectedshape/lefttop/
 ---
+{{< psd/tize >}}
 ## RectangleProjectedShape.LeftTop property
 
-Ruft den linken oberen Rechteckpunkt ab.
+Liest den linken oberen Rechteckpunkt.
 
 ```csharp
 public PointF LeftTop { get; }
 ```
 
-### Eigentumswert
+### Property Value
 
-Der linke obere Rechteckpunkt.
+Der linke obere Punkt des Rechtecks.
 
 ### Siehe auch
 
 * struct [PointF](../../../aspose.psd/pointf/)
 * class [RectangleProjectedShape](../)
-* namensraum [Aspose.PSD.Shapes](../../rectangleprojectedshape/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 

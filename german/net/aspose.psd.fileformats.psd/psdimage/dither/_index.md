@@ -1,14 +1,15 @@
 ---
-title: PsdImage.Dither
-second_title: Aspose.PSD für .NET-API-Referenz
-description: PsdImage methode. Führt Dithering auf dem aktuellen Bild durch.
+title: "PsdImage.Dither"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "PsdImage Methode. Führt Dithering am aktuellen Bild aus"
 type: docs
-weight: 520
+weight: 580
 url: /de/net/aspose.psd.fileformats.psd/psdimage/dither/
 ---
+{{< psd/tize >}}
 ## PsdImage.Dither method
 
-Führt Dithering auf dem aktuellen Bild durch.
+Führt Dithering am aktuellen Bild aus.
 
 ```csharp
 public override void Dither(DitheringMethod ditheringMethod, int bitsCount, 
@@ -17,8 +18,8 @@ public override void Dither(DitheringMethod ditheringMethod, int bitsCount,
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| ditheringMethod | DitheringMethod | Die Dithering-Methode. |
-| bitsCount | Int32 | Die letzten Bits zählen für das Dithering. |
+| ditheringMethod | DitheringMethod | Die Dithering‑Methode. |
+| bitsCount | Int32 | Die endgültige Bitanzahl für das Dithering. |
 | customPalette | IColorPalette | Die benutzerdefinierte Palette für Dithering. |
 
 ### Siehe auch
@@ -26,7 +27,7 @@ public override void Dither(DitheringMethod ditheringMethod, int bitsCount,
 * enum [DitheringMethod](../../../aspose.psd/ditheringmethod/)
 * interface [IColorPalette](../../../aspose.psd/icolorpalette/)
 * class [PsdImage](../)
-* namensraum [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

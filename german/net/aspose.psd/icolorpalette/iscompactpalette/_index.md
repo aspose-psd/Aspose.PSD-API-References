@@ -1,31 +1,32 @@
 ---
-title: IColorPalette.IsCompactPalette
-second_title: Aspose.PSD für .NET-API-Referenz
-description: IColorPalette eigendom. Ruft einen Wert ab der angibt ob die kompakte Palette verwendet wird.
+title: "IColorPalette.IsCompactPalette"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "IColorPalette-Eigenschaft. Gibt einen Wert zurück, der angibt, ob eine kompakte Palette verwendet wird"
 type: docs
 weight: 40
 url: /de/net/aspose.psd/icolorpalette/iscompactpalette/
 ---
+{{< psd/tize >}}
 ## IColorPalette.IsCompactPalette property
 
-Ruft einen Wert ab, der angibt, ob die kompakte Palette verwendet wird.
+Gibt einen Wert zurück, der angibt, ob eine kompakte Palette verwendet wird.
 
 ```csharp
 public bool IsCompactPalette { get; }
 ```
 
-### Eigentumswert
+### Property Value
 
-`WAHR` wenn Kompaktpalette verwendet wird; ansonsten,`FALSCH`.
+`true`, wenn eine kompakte Palette verwendet wird; andernfalls `false`.
 
-### Bemerkungen
+## Hinweise
 
-Kompakte Palette bedeutet, dass das Bild nach Möglichkeit nur die angegebenen Paletteneinträge enthält, oder anders ausgedrückt, das Bild wird kompakter und nimmt weniger Platz ein; sonst gibt es 2^BitsPerPixel-Einträge und das Bild reserviert mehr Platz für alle möglichen Paletteneinträge. Wenn Sie diesen Wert auf „true“ setzen und Paletteneinträge ändern, kann dies zu Leistungseinbußen führen, da es zu Datenverschiebungen kommen kann. Gehen Sie daher vorsichtig vor.
+Eine kompakte Palette bedeutet, dass das Bild nur die angegebenen Paletteneinträge enthält, falls möglich – mit anderen Worten, das Bild wird kompakter und belegt weniger Speicher; andernfalls gibt es 2^BitsPerPixel Einträge und das Bild reserviert mehr Platz für alle möglichen Paletteneinträge. Das Setzen dieses Wertes auf `true` und das Ändern von Paletteneinträgen kann zu Leistungseinbußen führen, da Datenbewegungen auftreten können, daher sollte es vorsichtig verwendet werden.
 
 ### Siehe auch
 
 * interface [IColorPalette](../)
-* namensraum [Aspose.PSD](../../icolorpalette/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

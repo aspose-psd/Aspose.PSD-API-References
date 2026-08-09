@@ -1,14 +1,15 @@
 ---
-title: Graphics.DrawImage
-second_title: Aspose.PSD für .NET-API-Referenz
-description: Graphics methode. Zeichnet das angegebeneImage  unter Verwendung seiner ursprünglichen physischen Größe an der angegebenen Position.
+title: "Graphics.DrawImage"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "Graphics-Methode. Zeichnet das angegebene Bild mit seiner ursprünglichen physischen Größe am angegebenen Ort."
 type: docs
-weight: 220
+weight: 230
 url: /de/net/aspose.psd/graphics/drawimage/
 ---
+{{< psd/tize >}}
 ## DrawImage(Image, PointF) {#drawimage_1}
 
-Zeichnet das angegebene[`Image`](../image/) , unter Verwendung seiner ursprünglichen physischen Größe, an der angegebenen Position.
+Zeichnet das angegebene [`Image`](../image/), unter Verwendung seiner ursprünglichen physischen Größe, an der angegebenen Position.
 
 ```csharp
 public void DrawImage(Image sourceImage, PointF point)
@@ -23,21 +24,21 @@ public void DrawImage(Image sourceImage, PointF point)
 
 | Ausnahme | Bedingung |
 | --- | --- |
-| ArgumentNullException | *sourceImage* ist Null. |
+| ArgumentNullException | *sourceImage* ist null. |
 
 ### Siehe auch
 
 * class [Image](../../image/)
 * struct [PointF](../../pointf/)
 * class [Graphics](../)
-* namensraum [Aspose.PSD](../../graphics/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## DrawImage(Image, float, float) {#drawimage_22}
 
-Zeichnet das angegebene[`Image`](../image/) , unter Verwendung seiner ursprünglichen physischen Größe, an der angegebenen Position.
+Zeichnet das angegebene [`Image`](../image/), unter Verwendung seiner ursprünglichen physischen Größe, an der angegebenen Position.
 
 ```csharp
 public void DrawImage(Image sourceImage, float x, float y)
@@ -53,20 +54,20 @@ public void DrawImage(Image sourceImage, float x, float y)
 
 | Ausnahme | Bedingung |
 | --- | --- |
-| ArgumentNullException | *sourceImage* ist Null. |
+| ArgumentNullException | *sourceImage* ist null. |
 
 ### Siehe auch
 
 * class [Image](../../image/)
 * class [Graphics](../)
-* namensraum [Aspose.PSD](../../graphics/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## DrawImage(Image, RectangleF) {#drawimage_15}
 
-Zeichnet das angegebene[`Image`](../image/) am angegebenen Ort und mit der angegebenen Größe.
+Zeichnet das angegebene [`Image`](../image/) an der angegebenen Position und mit der angegebenen Größe.
 
 ```csharp
 public void DrawImage(Image sourceImage, RectangleF rect)
@@ -81,21 +82,21 @@ public void DrawImage(Image sourceImage, RectangleF rect)
 
 | Ausnahme | Bedingung |
 | --- | --- |
-| ArgumentNullException | *sourceImage* ist Null. |
+| ArgumentNullException | *sourceImage* ist null. |
 
 ### Siehe auch
 
 * class [Image](../../image/)
 * struct [RectangleF](../../rectanglef/)
 * class [Graphics](../)
-* namensraum [Aspose.PSD](../../graphics/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## DrawImage(Image, Rectangle, GraphicsUnit) {#drawimage_11}
 
-Zeichnet das angegebene[`Image`](../image/) am angegebenen Ort und mit der angegebenen Größe.
+Zeichnet das angegebene [`Image`](../image/) an der angegebenen Position und mit der angegebenen Größe.
 
 ```csharp
 public void DrawImage(Image sourceImage, Rectangle rectDestination, GraphicsUnit graphicsUnit)
@@ -111,7 +112,7 @@ public void DrawImage(Image sourceImage, Rectangle rectDestination, GraphicsUnit
 
 | Ausnahme | Bedingung |
 | --- | --- |
-| ArgumentNullException | *sourceImage* ist Null. |
+| ArgumentNullException | *sourceImage* ist null. |
 
 ### Siehe auch
 
@@ -119,14 +120,14 @@ public void DrawImage(Image sourceImage, Rectangle rectDestination, GraphicsUnit
 * struct [Rectangle](../../rectangle/)
 * enum [GraphicsUnit](../../graphicsunit/)
 * class [Graphics](../)
-* namensraum [Aspose.PSD](../../graphics/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## DrawImage(Image, RectangleF, GraphicsUnit) {#drawimage_16}
 
-Zeichnet das angegebene[`Image`](../image/) am angegebenen Ort und mit der angegebenen Größe.
+Zeichnet das angegebene [`Image`](../image/) an der angegebenen Position und mit der angegebenen Größe.
 
 ```csharp
 public void DrawImage(Image sourceImage, RectangleF rectDestination, GraphicsUnit graphicsUnit)
@@ -142,7 +143,7 @@ public void DrawImage(Image sourceImage, RectangleF rectDestination, GraphicsUni
 
 | Ausnahme | Bedingung |
 | --- | --- |
-| ArgumentNullException | *sourceImage* ist Null. |
+| ArgumentNullException | *sourceImage* ist null. |
 
 ### Siehe auch
 
@@ -150,14 +151,14 @@ public void DrawImage(Image sourceImage, RectangleF rectDestination, GraphicsUni
 * struct [RectangleF](../../rectanglef/)
 * enum [GraphicsUnit](../../graphicsunit/)
 * class [Graphics](../)
-* namensraum [Aspose.PSD](../../graphics/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## DrawImage(Image, Rectangle, GraphicsUnit, ImageAttributes) {#drawimage_12}
 
-Zeichnet das angegebene[`Image`](../image/) am angegebenen Ort und mit der angegebenen Größe.
+Zeichnet das angegebene [`Image`](../image/) an der angegebenen Position und mit der angegebenen Größe.
 
 ```csharp
 public void DrawImage(Image sourceImage, Rectangle rectDestination, GraphicsUnit graphicsUnit, 
@@ -175,7 +176,7 @@ public void DrawImage(Image sourceImage, Rectangle rectDestination, GraphicsUnit
 
 | Ausnahme | Bedingung |
 | --- | --- |
-| ArgumentNullException | *sourceImage* ist Null. |
+| ArgumentNullException | *sourceImage* ist null. |
 
 ### Siehe auch
 
@@ -184,14 +185,14 @@ public void DrawImage(Image sourceImage, Rectangle rectDestination, GraphicsUnit
 * enum [GraphicsUnit](../../graphicsunit/)
 * class [ImageAttributes](../../imageattributes/)
 * class [Graphics](../)
-* namensraum [Aspose.PSD](../../graphics/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## DrawImage(Image, RectangleF, GraphicsUnit, ImageAttributes) {#drawimage_17}
 
-Zeichnet das angegebene[`Image`](../image/) am angegebenen Ort und mit der angegebenen Größe.
+Zeichnet das angegebene [`Image`](../image/) an der angegebenen Position und mit der angegebenen Größe.
 
 ```csharp
 public void DrawImage(Image sourceImage, RectangleF rectDestination, GraphicsUnit graphicsUnit, 
@@ -201,7 +202,7 @@ public void DrawImage(Image sourceImage, RectangleF rectDestination, GraphicsUni
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
 | sourceImage | Image | Das Bild, mit dem gezeichnet werden soll. |
-| rectDestination | RectangleF | Das einzuzeichnende Zielrechteck. |
+| rectDestination | RectangleF | Das Zielrechteck, in das gezeichnet wird. |
 | graphicsUnit | GraphicsUnit | Die Grafikeinheit. |
 | imageAttributes | ImageAttributes | Die Bildattribute. |
 
@@ -209,7 +210,7 @@ public void DrawImage(Image sourceImage, RectangleF rectDestination, GraphicsUni
 
 | Ausnahme | Bedingung |
 | --- | --- |
-| ArgumentNullException | *sourceImage* ist Null. |
+| ArgumentNullException | *sourceImage* ist null. |
 
 ### Siehe auch
 
@@ -218,14 +219,14 @@ public void DrawImage(Image sourceImage, RectangleF rectDestination, GraphicsUni
 * enum [GraphicsUnit](../../graphicsunit/)
 * class [ImageAttributes](../../imageattributes/)
 * class [Graphics](../)
-* namensraum [Aspose.PSD](../../graphics/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## DrawImage(Image, Rectangle, Rectangle, GraphicsUnit) {#drawimage_13}
 
-Zeichnet das angegebene[`Image`](../image/) am angegebenen Ort und mit der angegebenen Größe.
+Zeichnet das angegebene [`Image`](../image/) an der angegebenen Position und mit der angegebenen Größe.
 
 ```csharp
 public void DrawImage(Image sourceImage, Rectangle rectSource, Rectangle rectDestination, 
@@ -235,15 +236,15 @@ public void DrawImage(Image sourceImage, Rectangle rectSource, Rectangle rectDes
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
 | sourceImage | Image | Das Bild, mit dem gezeichnet werden soll. |
-| rectSource | Rectangle | Die Rect-Quelle. |
-| rectDestination | Rectangle | Das richtige Ziel. |
+| rectSource | Rectangle | Das Quellrechteck. |
+| rectDestination | Rectangle | Das Zielrechteck. |
 | graphicsUnit | GraphicsUnit | Die Grafikeinheit. |
 
 ### Ausnahmen
 
 | Ausnahme | Bedingung |
 | --- | --- |
-| ArgumentNullException | *sourceImage* ist Null. |
+| ArgumentNullException | *sourceImage* ist null. |
 
 ### Siehe auch
 
@@ -251,14 +252,14 @@ public void DrawImage(Image sourceImage, Rectangle rectSource, Rectangle rectDes
 * struct [Rectangle](../../rectangle/)
 * enum [GraphicsUnit](../../graphicsunit/)
 * class [Graphics](../)
-* namensraum [Aspose.PSD](../../graphics/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## DrawImage(Image, RectangleF, RectangleF, GraphicsUnit) {#drawimage_18}
 
-Zeichnet das angegebene[`Image`](../image/) am angegebenen Ort und mit der angegebenen Größe.
+Zeichnet das angegebene [`Image`](../image/) an der angegebenen Position und mit der angegebenen Größe.
 
 ```csharp
 public void DrawImage(Image sourceImage, RectangleF rectSource, RectangleF rectDestination, 
@@ -268,15 +269,15 @@ public void DrawImage(Image sourceImage, RectangleF rectSource, RectangleF rectD
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
 | sourceImage | Image | Das Bild, mit dem gezeichnet werden soll. |
-| rectSource | RectangleF | Die Rect-Quelle. |
-| rectDestination | RectangleF | Das richtige Ziel. |
+| rectSource | RectangleF | Das Quellrechteck. |
+| rectDestination | RectangleF | Das Zielrechteck. |
 | graphicsUnit | GraphicsUnit | Die Grafikeinheit. |
 
 ### Ausnahmen
 
 | Ausnahme | Bedingung |
 | --- | --- |
-| ArgumentNullException | *sourceImage* ist Null. |
+| ArgumentNullException | *sourceImage* ist null. |
 
 ### Siehe auch
 
@@ -284,14 +285,14 @@ public void DrawImage(Image sourceImage, RectangleF rectSource, RectangleF rectD
 * struct [RectangleF](../../rectanglef/)
 * enum [GraphicsUnit](../../graphicsunit/)
 * class [Graphics](../)
-* namensraum [Aspose.PSD](../../graphics/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## DrawImage(Image, Rectangle, Rectangle, GraphicsUnit, ImageAttributes) {#drawimage_14}
 
-Zeichnet das angegebene[`Image`](../image/) am angegebenen Ort und mit der angegebenen Größe.
+Zeichnet das angegebene [`Image`](../image/) an der angegebenen Position und mit der angegebenen Größe.
 
 ```csharp
 public void DrawImage(Image sourceImage, Rectangle rectSource, Rectangle rectDestination, 
@@ -301,8 +302,8 @@ public void DrawImage(Image sourceImage, Rectangle rectSource, Rectangle rectDes
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
 | sourceImage | Image | Das Bild, mit dem gezeichnet werden soll. |
-| rectSource | Rectangle | Die Rect-Quelle. |
-| rectDestination | Rectangle | Das richtige Ziel. |
+| rectSource | Rectangle | Das Quellrechteck. |
+| rectDestination | Rectangle | Das Zielrechteck. |
 | graphicsUnit | GraphicsUnit | Die Grafikeinheit. |
 | imageAttributes | ImageAttributes | Die Bildattribute. |
 
@@ -310,7 +311,7 @@ public void DrawImage(Image sourceImage, Rectangle rectSource, Rectangle rectDes
 
 | Ausnahme | Bedingung |
 | --- | --- |
-| ArgumentNullException | *sourceImage* ist Null. |
+| ArgumentNullException | *sourceImage* ist null. |
 
 ### Siehe auch
 
@@ -319,14 +320,14 @@ public void DrawImage(Image sourceImage, Rectangle rectSource, Rectangle rectDes
 * enum [GraphicsUnit](../../graphicsunit/)
 * class [ImageAttributes](../../imageattributes/)
 * class [Graphics](../)
-* namensraum [Aspose.PSD](../../graphics/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## DrawImage(Image, RectangleF, RectangleF, GraphicsUnit, ImageAttributes) {#drawimage_19}
 
-Zeichnet das angegebene[`Image`](../image/) am angegebenen Ort und mit der angegebenen Größe.
+Zeichnet das angegebene [`Image`](../image/) an der angegebenen Position und mit der angegebenen Größe.
 
 ```csharp
 public void DrawImage(Image sourceImage, RectangleF rectSource, RectangleF rectDestination, 
@@ -345,7 +346,7 @@ public void DrawImage(Image sourceImage, RectangleF rectSource, RectangleF rectD
 
 | Ausnahme | Bedingung |
 | --- | --- |
-| ArgumentNullException | *sourceImage* ist Null. |
+| ArgumentNullException | *sourceImage* ist null. |
 
 ### Siehe auch
 
@@ -354,14 +355,14 @@ public void DrawImage(Image sourceImage, RectangleF rectSource, RectangleF rectD
 * enum [GraphicsUnit](../../graphicsunit/)
 * class [ImageAttributes](../../imageattributes/)
 * class [Graphics](../)
-* namensraum [Aspose.PSD](../../graphics/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## DrawImage(Image, Point[]) {#drawimage_6}
 
-Zeichnet den angegebenen Teil des angegebenen*image* am angegebenen Ort und mit der angegebenen Größe.
+Zeichnet den angegebenen Teil des angegebenen *Bildes* am angegebenen Ort und mit der angegebenen Größe.
 
 ```csharp
 public void DrawImage(Image image, Point[] destPoints)
@@ -370,21 +371,21 @@ public void DrawImage(Image image, Point[] destPoints)
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
 | image | Image | Das zu zeichnende Bild. |
-| destPoints | Point[] | Array aus drei PointF-Strukturen, die ein Parallelogramm definieren. |
+| destPoints | Point[] | Array von drei PointF-Strukturen, die ein Parallelogramm definieren. |
 
 ### Siehe auch
 
 * class [Image](../../image/)
 * struct [Point](../../point/)
 * class [Graphics](../)
-* namensraum [Aspose.PSD](../../graphics/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## DrawImage(Image, Point[], Rectangle) {#drawimage_7}
 
-Zeichnet den angegebenen Teil des angegebenen*image* am angegebenen Ort und mit der angegebenen Größe.
+Zeichnet den angegebenen Teil des angegebenen *Bildes* am angegebenen Ort und mit der angegebenen Größe.
 
 ```csharp
 public void DrawImage(Image image, Point[] destPoints, Rectangle srcRect)
@@ -393,7 +394,7 @@ public void DrawImage(Image image, Point[] destPoints, Rectangle srcRect)
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
 | image | Image | Das zu zeichnende Bild. |
-| destPoints | Point[] | Array aus drei PointF-Strukturen, die ein Parallelogramm definieren. |
+| destPoints | Point[] | Array von drei PointF-Strukturen, die ein Parallelogramm definieren. |
 | srcRect | Rectangle | Das Quellrechteck. |
 
 ### Siehe auch
@@ -402,14 +403,14 @@ public void DrawImage(Image image, Point[] destPoints, Rectangle srcRect)
 * struct [Point](../../point/)
 * struct [Rectangle](../../rectangle/)
 * class [Graphics](../)
-* namensraum [Aspose.PSD](../../graphics/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## DrawImage(Image, Point[], Rectangle, GraphicsUnit) {#drawimage_8}
 
-Zeichnet den angegebenen Teil des angegebenen*image* am angegebenen Ort und mit der angegebenen Größe.
+Zeichnet den angegebenen Teil des angegebenen *Bildes* am angegebenen Ort und mit der angegebenen Größe.
 
 ```csharp
 public void DrawImage(Image image, Point[] destPoints, Rectangle srcRect, GraphicsUnit srcUnit)
@@ -418,7 +419,7 @@ public void DrawImage(Image image, Point[] destPoints, Rectangle srcRect, Graphi
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
 | image | Image | Das zu zeichnende Bild. |
-| destPoints | Point[] | Array aus drei PointF-Strukturen, die ein Parallelogramm definieren. |
+| destPoints | Point[] | Array von drei PointF-Strukturen, die ein Parallelogramm definieren. |
 | srcRect | Rectangle | Das Quellrechteck. |
 | srcUnit | GraphicsUnit | Die Maßeinheiten. |
 
@@ -429,14 +430,14 @@ public void DrawImage(Image image, Point[] destPoints, Rectangle srcRect, Graphi
 * struct [Rectangle](../../rectangle/)
 * enum [GraphicsUnit](../../graphicsunit/)
 * class [Graphics](../)
-* namensraum [Aspose.PSD](../../graphics/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## DrawImage(Image, Point[], Rectangle, GraphicsUnit, ImageAttributes) {#drawimage_9}
 
-Zeichnet den angegebenen Teil des angegebenen*image* am angegebenen Ort und mit der angegebenen Größe.
+Zeichnet den angegebenen Teil des angegebenen *Bildes* am angegebenen Ort und mit der angegebenen Größe.
 
 ```csharp
 public void DrawImage(Image image, Point[] destPoints, Rectangle srcRect, GraphicsUnit srcUnit, 
@@ -446,7 +447,7 @@ public void DrawImage(Image image, Point[] destPoints, Rectangle srcRect, Graphi
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
 | image | Image | Das zu zeichnende Bild. |
-| destPoints | Point[] | Array aus drei PointF-Strukturen, die ein Parallelogramm definieren. |
+| destPoints | Point[] | Array von drei PointF-Strukturen, die ein Parallelogramm definieren. |
 | srcRect | Rectangle | Das Quellrechteck. |
 | srcUnit | GraphicsUnit | Die Maßeinheiten. |
 | imageAttributes | ImageAttributes | Die Bildattribute. |
@@ -459,14 +460,14 @@ public void DrawImage(Image image, Point[] destPoints, Rectangle srcRect, Graphi
 * enum [GraphicsUnit](../../graphicsunit/)
 * class [ImageAttributes](../../imageattributes/)
 * class [Graphics](../)
-* namensraum [Aspose.PSD](../../graphics/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## DrawImage(Image, PointF[]) {#drawimage_2}
 
-Zeichnet den angegebenen Teil des angegebenen*image* am angegebenen Ort und mit der angegebenen Größe.
+Zeichnet den angegebenen Teil des angegebenen *Bildes* am angegebenen Ort und mit der angegebenen Größe.
 
 ```csharp
 public void DrawImage(Image image, PointF[] destPoints)
@@ -475,27 +476,27 @@ public void DrawImage(Image image, PointF[] destPoints)
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
 | image | Image | Das zu zeichnende Bild. |
-| destPoints | PointF[] | Array aus drei PointF-Strukturen, die ein Parallelogramm definieren. |
+| destPoints | PointF[] | Array von drei PointF-Strukturen, die ein Parallelogramm definieren. |
 
 ### Ausnahmen
 
 | Ausnahme | Bedingung |
 | --- | --- |
-| ArgumentNullException | Bild |
+| ArgumentNullException | image |
 
 ### Siehe auch
 
 * class [Image](../../image/)
 * struct [PointF](../../pointf/)
 * class [Graphics](../)
-* namensraum [Aspose.PSD](../../graphics/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## DrawImage(Image, PointF[], RectangleF) {#drawimage_3}
 
-Zeichnet den angegebenen Teil des angegebenen*image* am angegebenen Ort und mit der angegebenen Größe.
+Zeichnet den angegebenen Teil des angegebenen *Bildes* am angegebenen Ort und mit der angegebenen Größe.
 
 ```csharp
 public void DrawImage(Image image, PointF[] destPoints, RectangleF srcRect)
@@ -504,7 +505,7 @@ public void DrawImage(Image image, PointF[] destPoints, RectangleF srcRect)
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
 | image | Image | Das zu zeichnende Bild. |
-| destPoints | PointF[] | Array aus drei PointF-Strukturen, die ein Parallelogramm definieren. |
+| destPoints | PointF[] | Array von drei PointF-Strukturen, die ein Parallelogramm definieren. |
 | srcRect | RectangleF | Das Quellrechteck. |
 
 ### Siehe auch
@@ -513,14 +514,14 @@ public void DrawImage(Image image, PointF[] destPoints, RectangleF srcRect)
 * struct [PointF](../../pointf/)
 * struct [RectangleF](../../rectanglef/)
 * class [Graphics](../)
-* namensraum [Aspose.PSD](../../graphics/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## DrawImage(Image, PointF[], RectangleF, GraphicsUnit) {#drawimage_4}
 
-Zeichnet den angegebenen Teil des angegebenen*image* am angegebenen Ort und mit der angegebenen Größe.
+Zeichnet den angegebenen Teil des angegebenen *Bildes* am angegebenen Ort und mit der angegebenen Größe.
 
 ```csharp
 public void DrawImage(Image image, PointF[] destPoints, RectangleF srcRect, GraphicsUnit srcUnit)
@@ -529,7 +530,7 @@ public void DrawImage(Image image, PointF[] destPoints, RectangleF srcRect, Grap
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
 | image | Image | Das zu zeichnende Bild. |
-| destPoints | PointF[] | Array aus drei PointF-Strukturen, die ein Parallelogramm definieren. |
+| destPoints | PointF[] | Array von drei PointF-Strukturen, die ein Parallelogramm definieren. |
 | srcRect | RectangleF | Das Quellrechteck. |
 | srcUnit | GraphicsUnit | Die Maßeinheiten. |
 
@@ -540,14 +541,14 @@ public void DrawImage(Image image, PointF[] destPoints, RectangleF srcRect, Grap
 * struct [RectangleF](../../rectanglef/)
 * enum [GraphicsUnit](../../graphicsunit/)
 * class [Graphics](../)
-* namensraum [Aspose.PSD](../../graphics/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## DrawImage(Image, PointF[], RectangleF, GraphicsUnit, ImageAttributes) {#drawimage_5}
 
-Zeichnet den angegebenen Teil des angegebenen*image* am angegebenen Ort und mit der angegebenen Größe.
+Zeichnet den angegebenen Teil des angegebenen *Bildes* am angegebenen Ort und mit der angegebenen Größe.
 
 ```csharp
 public void DrawImage(Image image, PointF[] destPoints, RectangleF srcRect, GraphicsUnit srcUnit, 
@@ -557,7 +558,7 @@ public void DrawImage(Image image, PointF[] destPoints, RectangleF srcRect, Grap
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
 | image | Image | Das zu zeichnende Bild. |
-| destPoints | PointF[] | Array aus drei PointF-Strukturen, die ein Parallelogramm definieren. |
+| destPoints | PointF[] | Array von drei PointF-Strukturen, die ein Parallelogramm definieren. |
 | srcRect | RectangleF | Das Quellrechteck. |
 | srcUnit | GraphicsUnit | Die Maßeinheiten. |
 | imageAttributes | ImageAttributes | Die Bildattribute. |
@@ -570,14 +571,14 @@ public void DrawImage(Image image, PointF[] destPoints, RectangleF srcRect, Grap
 * enum [GraphicsUnit](../../graphicsunit/)
 * class [ImageAttributes](../../imageattributes/)
 * class [Graphics](../)
-* namensraum [Aspose.PSD](../../graphics/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## DrawImage(Image, float, float, float, float) {#drawimage_23}
 
-Zeichnet das angegebene[`Image`](../image/) am angegebenen Ort und mit der angegebenen Größe.
+Zeichnet das angegebene [`Image`](../image/) an der angegebenen Position und mit der angegebenen Größe.
 
 ```csharp
 public void DrawImage(Image sourceImage, float x, float y, float width, float height)
@@ -588,27 +589,27 @@ public void DrawImage(Image sourceImage, float x, float y, float width, float he
 | sourceImage | Image | Das Bild, mit dem gezeichnet werden soll. |
 | x | Single | Die x-Koordinate der oberen linken Ecke des gezeichneten Bildes. |
 | y | Single | Die y-Koordinate der oberen linken Ecke des gezeichneten Bildes. |
-| width | Single | Breite des gezeichneten Bildes. |
-| height | Single | Höhe des gezeichneten Bildes. |
+| Breite | Single | Breite des gezeichneten Bildes. |
+| Höhe | Single | Höhe des gezeichneten Bildes. |
 
 ### Ausnahmen
 
 | Ausnahme | Bedingung |
 | --- | --- |
-| ArgumentNullException | *sourceImage* ist Null. |
+| ArgumentNullException | *sourceImage* ist null. |
 
 ### Siehe auch
 
 * class [Image](../../image/)
 * class [Graphics](../)
-* namensraum [Aspose.PSD](../../graphics/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## DrawImage(Image, Point) {#drawimage}
 
-Zeichnet das angegebene[`Image`](../image/) , unter Verwendung seiner ursprünglichen physischen Größe, an der angegebenen Position.
+Zeichnet das angegebene [`Image`](../image/), unter Verwendung seiner ursprünglichen physischen Größe, an der angegebenen Position.
 
 ```csharp
 public void DrawImage(Image sourceImage, Point point)
@@ -617,27 +618,27 @@ public void DrawImage(Image sourceImage, Point point)
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
 | sourceImage | Image | Das Bild, mit dem gezeichnet werden soll. |
-| point | Point | [`Point`](../../point/) Struktur, die die Position der oberen linken Ecke des gezeichneten Bildes darstellt. |
+| point | Point | [`Point`](../../point/) Struktur, die den Ort der oberen linken Ecke des gezeichneten Bildes darstellt. |
 
 ### Ausnahmen
 
 | Ausnahme | Bedingung |
 | --- | --- |
-| ArgumentNullException | *sourceImage* ist Null. |
+| ArgumentNullException | *sourceImage* ist null. |
 
 ### Siehe auch
 
 * class [Image](../../image/)
 * struct [Point](../../point/)
 * class [Graphics](../)
-* namensraum [Aspose.PSD](../../graphics/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## DrawImage(Image, int, int) {#drawimage_20}
 
-Zeichnet das angegebene Bild unter Verwendung seiner ursprünglichen physischen Größe an der durch ein Koordinatenpaar angegebenen Position.
+Zeichnet das angegebene Bild, unter Verwendung seiner ursprünglichen physischen Größe, an dem durch ein Koordinatenpaar angegebenen Ort.
 
 ```csharp
 public void DrawImage(Image sourceImage, int x, int y)
@@ -653,20 +654,20 @@ public void DrawImage(Image sourceImage, int x, int y)
 
 | Ausnahme | Bedingung |
 | --- | --- |
-| ArgumentNullException | *sourceImage* ist Null. |
+| ArgumentNullException | *sourceImage* ist null. |
 
 ### Siehe auch
 
 * class [Image](../../image/)
 * class [Graphics](../)
-* namensraum [Aspose.PSD](../../graphics/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## DrawImage(Image, Rectangle) {#drawimage_10}
 
-Zeichnet das angegebene[`Image`](../image/) am angegebenen Ort und mit der angegebenen Größe.
+Zeichnet das angegebene [`Image`](../image/) an der angegebenen Position und mit der angegebenen Größe.
 
 ```csharp
 public void DrawImage(Image sourceImage, Rectangle rect)
@@ -675,27 +676,27 @@ public void DrawImage(Image sourceImage, Rectangle rect)
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
 | sourceImage | Image | Das Bild, mit dem gezeichnet werden soll. |
-| rect | Rectangle | [`Rectangle`](../../rectangle/) Struktur, die die Position und Größe des gezeichneten Bildes angibt. |
+| rect | Rectangle | [`Rectangle`](../../rectangle/) Struktur, die den Ort und die Größe des gezeichneten Bildes angibt. |
 
 ### Ausnahmen
 
 | Ausnahme | Bedingung |
 | --- | --- |
-| ArgumentNullException | *sourceImage* ist Null. |
+| ArgumentNullException | *sourceImage* ist null. |
 
 ### Siehe auch
 
 * class [Image](../../image/)
 * struct [Rectangle](../../rectangle/)
 * class [Graphics](../)
-* namensraum [Aspose.PSD](../../graphics/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## DrawImage(Image, int, int, int, int) {#drawimage_21}
 
-Zeichnet das angegebene[`Image`](../image/) am angegebenen Ort und mit der angegebenen Größe.
+Zeichnet das angegebene [`Image`](../image/) an der angegebenen Position und mit der angegebenen Größe.
 
 ```csharp
 public void DrawImage(Image sourceImage, int x, int y, int width, int height)
@@ -706,20 +707,20 @@ public void DrawImage(Image sourceImage, int x, int y, int width, int height)
 | sourceImage | Image | Das Bild, mit dem gezeichnet werden soll. |
 | x | Int32 | Die x-Koordinate der oberen linken Ecke des gezeichneten Bildes. |
 | y | Int32 | Die y-Koordinate der oberen linken Ecke des gezeichneten Bildes. |
-| width | Int32 | Breite des gezeichneten Bildes. |
-| height | Int32 | Höhe des gezeichneten Bildes. |
+| Breite | Int32 | Breite des gezeichneten Bildes. |
+| Höhe | Int32 | Höhe des gezeichneten Bildes. |
 
 ### Ausnahmen
 
 | Ausnahme | Bedingung |
 | --- | --- |
-| ArgumentNullException | *sourceImage* ist Null. |
+| ArgumentNullException | *sourceImage* ist null. |
 
 ### Siehe auch
 
 * class [Image](../../image/)
 * class [Graphics](../)
-* namensraum [Aspose.PSD](../../graphics/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,55 +1,56 @@
 ---
-title: Class ShmdResource
-second_title: Aspose.PSD für .NET-API-Referenz
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.ShmdResource klas. Klasse ShmdResource. Metadateneinstellungen
+title: "Klasse ShmdResource"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "Aspose.PSD.FileFormats.Psd.Layers.LayerResources.ShmdResource Klasse. Klasse ShmdResource. Metadaten-Einstellungen"
 type: docs
-weight: 2980
+weight: 3330
 url: /de/net/aspose.psd.fileformats.psd.layers.layerresources/shmdresource/
 ---
+{{< psd/tize >}}
 ## ShmdResource class
 
-Klasse ShmdResource. Metadateneinstellungen
+Klasse ShmdResource. Metadaten-Einstellungen
 
 ```csharp
 public class ShmdResource : LayerResource
 ```
 
-## Konstrukteure
+## Konstruktoren
 
 | Name | Beschreibung |
 | --- | --- |
-| [ShmdResource](shmdresource/#constructor)() | Initialisiert eine neue Instanz von`ShmdResource` Klasse. |
-| [ShmdResource](shmdresource/#constructor_1)(byte[]) | Initialisiert eine neue Instanz von`ShmdResource` Klasse. |
+| [ShmdResource](shmdresource/#constructor)() | Initialisiert eine neue Instanz der `ShmdResource`-Klasse. |
+| [ShmdResource](shmdresource/#constructor_1)(byte[]) | Initialisiert eine neue Instanz der `ShmdResource`-Klasse. |
 
 ## Eigenschaften
 
 | Name | Beschreibung |
 | --- | --- |
-| override [Key](../../aspose.psd.fileformats.psd.layers.layerresources/shmdresource/key/) { get; } | Ruft den Layer-Ressourcenschlüssel ab. |
-| [LayerCreatedDateTime](../../aspose.psd.fileformats.psd.layers.layerresources/shmdresource/layercreateddatetime/) { get; set; } | Ruft die Erstellungszeit der Ebene ab oder legt sie fest. Wenn die Erstellungszeit der Ebene nicht angegeben ist, wird eine neue DateTime(0) zurückgegeben. |
-| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/shmdresource/length/) { get; } | Ruft die Layer-Ressourcenlänge in Bytes ab. |
-| override [PsdVersion](../../aspose.psd.fileformats.psd.layers.layerresources/shmdresource/psdversion/) { get; } | Ruft die PSD-Version ab. |
-| override [Signature](../../aspose.psd.fileformats.psd.layers.layerresources/shmdresource/signature/) { get; } | Ruft die Signatur ab. |
-| [SubResources](../../aspose.psd.fileformats.psd.layers.layerresources/shmdresource/subresources/) { get; } | Ruft die Unterressourcen der shmd-Ressource ab. |
+| [Key](../../aspose.psd.fileformats.psd.layers/layerresource/key/) { get; } | Liest den Schichtressourcen-Schlüssel. |
+| [LayerCreatedDateTime](../../aspose.psd.fileformats.psd.layers.layerresources/shmdresource/layercreateddatetime/) { get; set; } | Liest oder setzt die Erstellungszeit der Ebene. Wenn die Erstellungszeit der Ebene nicht angegeben ist, wird new DateTime(0) zurückgegeben. |
+| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/shmdresource/length/) { get; } | Liest die Länge der Schichtressource in Bytes. |
+| virtual [PsdVersion](../../aspose.psd.fileformats.psd.layers/layerresource/psdversion/) { get; } | Liest die minimale PSD-Version, die für die Schichtressource erforderlich ist. 0 bedeutet keine Einschränkungen. |
+| virtual [Signature](../../aspose.psd.fileformats.psd.layers/layerresource/signature/) { get; } | Liest die Signatur. |
+| [SubResources](../../aspose.psd.fileformats.psd.layers.layerresources/shmdresource/subresources/) { get; } | Liest die Unterressourcen der shmd-Ressource. |
 
 ## Methoden
 
 | Name | Beschreibung |
 | --- | --- |
 | override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/shmdresource/save/)(StreamContainer, int) | Speichert den angegebenen Stream-Container. |
-| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring/)() | Gibt a zurückString die diese Instanz darstellt. |
+| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring/)() | Gibt einen String zurück, der diese Instanz darstellt. |
 
 ## Felder
 
 | Name | Beschreibung |
 | --- | --- |
-| const [SubResourceHeaderLength](../../aspose.psd.fileformats.psd.layers.layerresources/shmdresource/subresourceheaderlength/) | Die Header-Länge der Unterressource |
-| const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/shmdresource/typetoolkey/) | Der Typ-Tool-Info-Schlüssel. |
+| const [SubResourceHeaderLength](../../aspose.psd.fileformats.psd.layers.layerresources/shmdresource/subresourceheaderlength/) | Die Länge des Unterressourcen-Headers |
+| const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/shmdresource/typetoolkey/) | Der Typwerkzeug-Info-Schlüssel. |
 
 ### Siehe auch
 
 * class [LayerResource](../../aspose.psd.fileformats.psd.layers/layerresource/)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
-* Montage [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../)
 
 

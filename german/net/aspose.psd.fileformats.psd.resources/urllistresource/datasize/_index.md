@@ -1,27 +1,28 @@
 ---
-title: UrlListResource.DataSize
-second_title: Aspose.PSD für .NET-API-Referenz
-description: UrlListResource eigendom. Ruft die Ressourcendatengröße in Byte ab.
+title: "UrlListResource.DataSize"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "UrlListResource-Eigenschaft. Gibt die Ressourcendatenmenge in Bytes zurück"
 type: docs
 weight: 30
 url: /de/net/aspose.psd.fileformats.psd.resources/urllistresource/datasize/
 ---
+{{< psd/tize >}}
 ## UrlListResource.DataSize property
 
-Ruft die Ressourcendatengröße in Byte ab.
+Ruft die Größe der Ressourcendaten in Bytes ab.
 
 ```csharp
 public override int DataSize { get; }
 ```
 
-### Eigentumswert
+### Property Value
 
 Die Größe der Ressourcendaten.
 
 ### Siehe auch
 
 * class [UrlListResource](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Resources](../../urllistresource/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

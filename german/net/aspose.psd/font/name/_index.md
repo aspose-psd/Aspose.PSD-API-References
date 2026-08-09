@@ -1,27 +1,28 @@
 ---
-title: Font.Name
-second_title: Aspose.PSD für .NET-API-Referenz
-description: Font eigendom. Ruft den Gesichtsnamen davon abFont .
+title: "Font.Name"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "Font-Eigenschaft. Gibt den Schriftartnamen dieses Fonts zurück"
 type: docs
 weight: 50
 url: /de/net/aspose.psd/font/name/
 ---
+{{< psd/tize >}}
 ## Font.Name property
 
-Ruft den Gesichtsnamen davon ab[`Font`](../) .
+Ermittelt den Namen der Schriftart dieses [`Font`](../).
 
 ```csharp
 public string Name { get; }
 ```
 
-### Eigentumswert
+### Property Value
 
-Eine Zeichenfolgendarstellung des Gesichtsnamens von this[`Font`](../).
+Eine Zeichenketten-Darstellung des Schriftartnamens dieses [`Font`](../).
 
 ### Siehe auch
 
 * class [Font](../)
-* namensraum [Aspose.PSD](../../font/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

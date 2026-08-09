@@ -1,14 +1,15 @@
 ---
-title: Enum TiffAlphaStorage
-second_title: Aspose.PSD für .NET-API-Referenz
-description: Aspose.PSD.FileFormats.Tiff.Enums.TiffAlphaStorage opsomming. Gibt den AlphaSpeicher für TIFFDokumente an.
+title: "Enum TiffAlphaStorage"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "Aspose.PSD.FileFormats.Tiff.Enums.TiffAlphaStorage enum. Gibt die Alpha‑Speicherung für TIFF‑Dokumente an."
 type: docs
-weight: 4030
+weight: 4500
 url: /de/net/aspose.psd.fileformats.tiff.enums/tiffalphastorage/
 ---
+{{< psd/tize >}}
 ## TiffAlphaStorage enumeration
 
-Gibt den Alpha-Speicher für TIFF-Dokumente an.
+Gibt den Alphastatus für TIFF-Dokumente an.
 
 ```csharp
 public enum TiffAlphaStorage : ushort
@@ -18,13 +19,13 @@ public enum TiffAlphaStorage : ushort
 
 | Name | Wert | Beschreibung |
 | --- | --- | --- |
-| Unspecified | `0` | Das Alpha wird nicht angegeben und in der TIFF-Datei gespeichert. |
-| Associated | `1` | Der Alphawert wird in vormultiplizierter Form gespeichert. Wenn Alpha wiederhergestellt wird, kann es zu Rundungseffekten kommen und der wiederhergestellte Wert kann vom Original abweichen. |
-| Unassociated | `2` | Der Alpha-Wert wird in nicht zugeordneter Form gespeichert. Das bedeutet, dass das wiederhergestellte Alpha genau dasselbe ist, wie es im TIFF gespeichert wurde. |
+| Unspecified | `0` | Der Alpha‑Wert ist nicht angegeben und wird in der TIFF‑Datei gespeichert. |
+| Associated | `1` | Der Alpha‑Wert wird in vormultiplizierter Form gespeichert. Beim Wiederherstellen des Alpha‑Werts können Rundungseffekte auftreten und der wiederhergestellte Wert kann vom Original abweichen. |
+| Unassociated | `2` | Der Alpha‑Wert wird in nicht‑assoziierter Form gespeichert. Das bedeutet, dass der wiederhergestellte Alpha‑Wert exakt dem gespeicherten Wert in der TIFF‑Datei entspricht. |
 
 ### Siehe auch
 
-* namensraum [Aspose.PSD.FileFormats.Tiff.Enums](../../aspose.psd.fileformats.tiff.enums/)
-* Montage [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Tiff.Enums](../../aspose.psd.fileformats.tiff.enums/)
+* assembly [Aspose.PSD](../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: Rectangle.Offset
-second_title: Aspose.PSD für .NET-API-Referenz
-description: Rectangle methode. Passt die Position dieses Rechtecks um den angegebenen Betrag an.
+title: "Rectangle.Offset"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "Rectangle-Methode. Verschiebt die Position dieses Rechtecks um den angegebenen Betrag."
 type: docs
 weight: 270
 url: /de/net/aspose.psd/rectangle/offset/
 ---
+{{< psd/tize >}}
 ## Offset(Point) {#offset}
 
 Passt die Position dieses Rechtecks um den angegebenen Betrag an.
@@ -16,14 +17,14 @@ public void Offset(Point pos)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| pos | Point | Betrag zum Ausgleich des Standorts. |
+| pos | Point | Betrag, um den die Position verschoben wird. |
 
 ### Siehe auch
 
 * struct [Point](../../point/)
 * struct [Rectangle](../)
-* namensraum [Aspose.PSD](../../rectangle/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
@@ -43,7 +44,7 @@ public void Offset(int x, int y)
 ### Siehe auch
 
 * struct [Rectangle](../)
-* namensraum [Aspose.PSD](../../rectangle/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

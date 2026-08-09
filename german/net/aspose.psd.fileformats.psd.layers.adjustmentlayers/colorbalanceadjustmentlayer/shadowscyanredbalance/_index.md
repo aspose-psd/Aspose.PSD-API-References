@@ -1,32 +1,33 @@
 ---
-title: ColorBalanceAdjustmentLayer.ShadowsCyanRedBalance
-second_title: Aspose.PSD für .NET-API-Referenz
-description: ColorBalanceAdjustmentLayer eigendom. Ruft die SchattenCyanRotBalance ab oder legt sie fest.
+title: "ColorBalanceAdjustmentLayer.ShadowsCyanRedBalance"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "ColorBalanceAdjustmentLayer-Eigenschaft. Ruft die Schatten-Cyan-Rot-Balance ab oder legt sie fest."
 type: docs
 weight: 80
 url: /de/net/aspose.psd.fileformats.psd.layers.adjustmentlayers/colorbalanceadjustmentlayer/shadowscyanredbalance/
 ---
+{{< psd/tize >}}
 ## ColorBalanceAdjustmentLayer.ShadowsCyanRedBalance property
 
-Ruft die Schatten-Cyan-Rot-Balance ab oder legt sie fest.
+Ruft den Schatten‑Cyan‑Rot‑Ausgleich ab oder legt ihn fest.
 
 ```csharp
 public short ShadowsCyanRedBalance { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
-The Shadows Cyan Red Balance.
+Die Schatten-Cyan-Rot-Balance.
 
 ### Ausnahmen
 
 | Ausnahme | Bedingung |
 | --- | --- |
-| ArgumentOutOfRangeException | Shadows Cyan Red Balance muss im Bereich von -100 bis +100 liegen. |
+| ArgumentOutOfRangeException | Schatten-Cyan-Rot-Balance muss im Bereich von -100 bis +100 liegen. |
 
-### Beispiele
+## Beispiele
 
-Der folgende Code demonstriert die Unterstützung für ColorBalanceAdjustmentLayer.
+Der folgende Code demonstriert die Unterstützung für die ColorBalanceAdjustmentLayer.
 
 ```csharp
 [C#]
@@ -60,7 +61,7 @@ using (var im = (PsdImage)Image.Load(filePath))
 ### Siehe auch
 
 * class [ColorBalanceAdjustmentLayer](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../colorbalanceadjustmentlayer/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/)
+* assembly [Aspose.PSD](../../../)
 
 

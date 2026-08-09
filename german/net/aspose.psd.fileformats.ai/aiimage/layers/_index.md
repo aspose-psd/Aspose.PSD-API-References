@@ -1,28 +1,29 @@
 ---
-title: AiImage.Layers
-second_title: Aspose.PSD für .NET-API-Referenz
-description: AiImage eigendom. Ruft die Ebenenabschnitte ab.
+title: "AiImage.Layers"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "AiImage-Eigenschaft. Gibt die Ebenensektionen zurück"
 type: docs
-weight: 90
+weight: 100
 url: /de/net/aspose.psd.fileformats.ai/aiimage/layers/
 ---
+{{< psd/tize >}}
 ## AiImage.Layers property
 
-Ruft die Ebenenabschnitte ab.
+Liest die Ebenenabschnitte.
 
 ```csharp
 public AiLayerSection[] Layers { get; }
 ```
 
-### Eigentumswert
+### Property Value
 
-Die Ebenenabschnitte.
+Die Ebenensektionen.
 
 ### Siehe auch
 
 * class [AiLayerSection](../../ailayersection/)
 * class [AiImage](../)
-* namensraum [Aspose.PSD.FileFormats.Ai](../../aiimage/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

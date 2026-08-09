@@ -1,14 +1,15 @@
 ---
-title: Point.Truncate
-second_title: Aspose.PSD für .NET-API-Referenz
-description: Point methode. Konvertiert die angegebenePointF zu einemPoint durch Abschneiden der Werte derPoint .
+title: "Point.Truncate"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "Point-Methode. Konvertiert das angegebene PointF in einen Point, indem die Werte des Point abgeschnitten werden."
 type: docs
 weight: 70
 url: /de/net/aspose.psd/point/truncate/
 ---
+{{< psd/tize >}}
 ## Point.Truncate method
 
-Konvertiert die angegebene[`PointF`](../../pointf/) zu einem[`Point`](../) durch Abschneiden der Werte der[`Point`](../) .
+Konvertiert das angegebene [`PointF`](../../pointf/) in ein [`Point`](../), indem die Werte des [`Point`](../) abgeschnitten werden.
 
 ```csharp
 public static Point Truncate(PointF point)
@@ -16,17 +17,17 @@ public static Point Truncate(PointF point)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| point | PointF | Der[`PointF`](../../pointf/) umwandeln. |
+| point | PointF | Das zu konvertierende [`PointF`](../../pointf/). |
 
 ### Rückgabewert
 
-Der[`Point`](../) Diese Methode konvertiert in.
+Das [`Point`](../), in das diese Methode konvertiert.
 
 ### Siehe auch
 
 * struct [PointF](../../pointf/)
 * struct [Point](../)
-* namensraum [Aspose.PSD](../../point/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

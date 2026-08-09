@@ -1,14 +1,15 @@
 ---
-title: GifOptions.GifOptions
-second_title: Aspose.PSD für .NET-API-Referenz
-description: GifOptions constructeur. Initialisiert eine neue Instanz vonGifOptions Klasse.
+title: "GifOptions.GifOptions"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "GifOptions-Konstruktor. Initialisiert eine neue Instanz der GifOptions-Klasse"
 type: docs
 weight: 10
 url: /de/net/aspose.psd.imageoptions/gifoptions/gifoptions/
 ---
+{{< psd/tize >}}
 ## GifOptions() {#constructor}
 
-Initialisiert eine neue Instanz von[`GifOptions`](../) Klasse.
+Initialisiert eine neue Instanz der [`GifOptions`](../)-Klasse.
 
 ```csharp
 public GifOptions()
@@ -17,14 +18,14 @@ public GifOptions()
 ### Siehe auch
 
 * class [GifOptions](../)
-* namensraum [Aspose.PSD.ImageOptions](../../gifoptions/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## GifOptions(GifOptions) {#constructor_1}
 
-Initialisiert eine neue Instanz von[`GifOptions`](../) Klasse.
+Initialisiert eine neue Instanz der [`GifOptions`](../)-Klasse.
 
 ```csharp
 public GifOptions(GifOptions gifOptions)
@@ -37,7 +38,7 @@ public GifOptions(GifOptions gifOptions)
 ### Siehe auch
 
 * class [GifOptions](../)
-* namensraum [Aspose.PSD.ImageOptions](../../gifoptions/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

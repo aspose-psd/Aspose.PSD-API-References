@@ -1,14 +1,15 @@
 ---
-title: Blend.Blend
-second_title: Aspose.PSD für .NET-API-Referenz
-description: Blend constructeur. Initialisiert eine neue Instanz vonBlend Klasse. Die Anzahl der Elemente in den Faktor und Mischarrays ist gleich 1.
+title: "Blend.Blend"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "Blend-Konstruktor. Initialisiert eine neue Instanz der Blend-Klasse. Die Anzahl der Elemente in den Faktor‑ und Blend‑Arrays wird 1 sein."
 type: docs
 weight: 10
 url: /de/net/aspose.psd/blend/blend/
 ---
+{{< psd/tize >}}
 ## Blend() {#constructor}
 
-Initialisiert eine neue Instanz von[`Blend`](../) Klasse. Die Anzahl der Elemente in den Faktor- und Mischarrays ist gleich 1.
+Initialisiert eine neue Instanz der [`Blend`](../)-Klasse. Die Anzahl der Elemente in den Faktor‑ und Blend‑Arrays wird 1 sein.
 
 ```csharp
 public Blend()
@@ -17,14 +18,14 @@ public Blend()
 ### Siehe auch
 
 * class [Blend](../)
-* namensraum [Aspose.PSD](../../blend/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Blend(int) {#constructor_1}
 
-Initialisiert eine neue Instanz von[`Blend`](../) Klasse mit der angegebenen Anzahl an Faktoren und Positionen.
+Initialisiert eine neue Instanz der [`Blend`](../)-Klasse mit der angegebenen Anzahl von Faktoren und Positionen.
 
 ```csharp
 public Blend(int count)
@@ -32,12 +33,12 @@ public Blend(int count)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| count | Int32 | Die Anzahl der Elemente in den Faktor- und Positionsarrays. |
+| count | Int32 | Die Anzahl der Elemente in den Faktor‑ und Positions‑Arrays. |
 
 ### Siehe auch
 
 * class [Blend](../)
-* namensraum [Aspose.PSD](../../blend/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

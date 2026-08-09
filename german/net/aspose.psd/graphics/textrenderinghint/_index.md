@@ -1,28 +1,29 @@
 ---
-title: Graphics.TextRenderingHint
-second_title: Aspose.PSD für .NET-API-Referenz
-description: Graphics eigendom. Ruft den Textwiedergabehinweis ab oder legt ihn fest.
+title: "Graphics.TextRenderingHint"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "Graphics-Eigenschaft. Ruft den Text-Rendering-Hinweis ab oder legt ihn fest."
 type: docs
-weight: 120
+weight: 130
 url: /de/net/aspose.psd/graphics/textrenderinghint/
 ---
+{{< psd/tize >}}
 ## Graphics.TextRenderingHint property
 
-Ruft den Textwiedergabehinweis ab oder legt ihn fest.
+Liest oder setzt den Hinweis zur Textdarstellung.
 
 ```csharp
 public TextRenderingHint TextRenderingHint { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
-Der Textwiedergabehinweis.
+Der Textdarstellungshinweis.
 
 ### Siehe auch
 
 * enum [TextRenderingHint](../../textrenderinghint/)
 * class [Graphics](../)
-* namensraum [Aspose.PSD](../../graphics/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

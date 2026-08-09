@@ -1,14 +1,15 @@
 ---
-title: SmartObjectProvider.EmbedAllLinked
-second_title: Aspose.PSD für .NET-API-Referenz
-description: SmartObjectProvider methode. Bettet alle verknüpften SmartObjekte in das Bild ein.
+title: "SmartObjectProvider.EmbedAllLinked"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "SmartObjectProvider-Methode. Bettet alle verknüpften Smart Objects in das Bild ein."
 type: docs
 weight: 20
 url: /de/net/aspose.psd.fileformats.psd/smartobjectprovider/embedalllinked/
 ---
+{{< psd/tize >}}
 ## SmartObjectProvider.EmbedAllLinked method
 
-Bettet alle verknüpften Smart-Objekte in das Bild ein.
+Bettet alle verknüpften Smart-Objects im Bild ein.
 
 ```csharp
 public void EmbedAllLinked()
@@ -17,7 +18,7 @@ public void EmbedAllLinked()
 ### Siehe auch
 
 * class [SmartObjectProvider](../)
-* namensraum [Aspose.PSD.FileFormats.Psd](../../smartobjectprovider/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

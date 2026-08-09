@@ -1,27 +1,28 @@
 ---
-title: HueSaturationLayer.Colorize
-second_title: Aspose.PSD für .NET-API-Referenz
-description: HueSaturationLayer eigendom. Ruft einen Wert ab oder legt einen Wert fest der angibt ob dies der Fall istHueSaturationLayer ist colorize.
+title: "HueSaturationLayer.Colorize"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "HueSaturationLayer-Eigenschaft. Gibt einen Wert zurück oder legt ihn fest, der angibt, ob dieses HueSaturationLayer farbig ist"
 type: docs
 weight: 10
 url: /de/net/aspose.psd.fileformats.psd.layers.adjustmentlayers/huesaturationlayer/colorize/
 ---
+{{< psd/tize >}}
 ## HueSaturationLayer.Colorize property
 
-Ruft einen Wert ab oder legt einen Wert fest, der angibt, ob dies der Fall ist[`HueSaturationLayer`](../) ist colorize.
+Gibt einen Wert zurück oder legt ihn fest, der angibt, ob dieses [`HueSaturationLayer`](../) farbig ist.
 
 ```csharp
 public bool Colorize { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
-`WAHR` wenn kolorieren; ansonsten,`FALSCH` .
+`true` wenn farbig; andernfalls `false`.
 
 ### Siehe auch
 
 * class [HueSaturationLayer](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../huesaturationlayer/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/)
+* assembly [Aspose.PSD](../../../)
 
 

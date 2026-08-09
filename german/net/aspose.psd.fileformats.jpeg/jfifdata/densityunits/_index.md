@@ -1,14 +1,15 @@
 ---
-title: JFIFData.DensityUnits
-second_title: Aspose.PSD für .NET-API-Referenz
-description: JFIFData eigendom. Ruft die Dichteeinheiten ab oder legt sie fest.
+title: "JFIFData.DensityUnits"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "JFIFData-Eigenschaft. Liest oder schreibt die Dichteeinheiten"
 type: docs
 weight: 20
 url: /de/net/aspose.psd.fileformats.jpeg/jfifdata/densityunits/
 ---
+{{< psd/tize >}}
 ## JFIFData.DensityUnits property
 
-Ruft die Dichteeinheiten ab oder legt sie fest.
+Liest oder setzt die Dichteeinheiten.
 
 ```csharp
 public JfifDensityUnits DensityUnits { get; set; }
@@ -18,7 +19,7 @@ public JfifDensityUnits DensityUnits { get; set; }
 
 * enum [JfifDensityUnits](../../jfifdensityunits/)
 * class [JFIFData](../)
-* namensraum [Aspose.PSD.FileFormats.Jpeg](../../jfifdata/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Jpeg](../../../aspose.psd.fileformats.jpeg/)
+* assembly [Aspose.PSD](../../../)
 
 

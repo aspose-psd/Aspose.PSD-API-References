@@ -1,11 +1,12 @@
 ---
-title: PsdImage.AddLayerGroup
-second_title: Aspose.PSD für .NET-API-Referenz
-description: PsdImage methode. Fügt die Ebenengruppe hinzu.
+title: "PsdImage.AddLayerGroup"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "PsdImage Methode. Fügt die Ebenengruppe hinzu"
 type: docs
-weight: 380
+weight: 400
 url: /de/net/aspose.psd.fileformats.psd/psdimage/addlayergroup/
 ---
+{{< psd/tize >}}
 ## PsdImage.AddLayerGroup method
 
 Fügt die Ebenengruppe hinzu.
@@ -18,7 +19,7 @@ public LayerGroup AddLayerGroup(string groupName, int index, bool startBehaviour
 | --- | --- | --- |
 | groupName | String | Name der Gruppe. |
 | index | Int32 | Der Index der Ebene, nach der eingefügt werden soll. |
-| startBehaviour | Boolean | wenn eingestellt`WAHR` [Startverhalten], dann befindet sich die Gruppe beim Start im offenen Zustand, ansonsten im minimierten Zustand. |
+| startBehaviour | Boolean | wenn auf `true` [start behaviour] gesetzt, befindet sich die Gruppe beim Start im offenen Zustand, andernfalls im minimierten Zustand. |
 
 ### Rückgabewert
 
@@ -28,13 +29,13 @@ public LayerGroup AddLayerGroup(string groupName, int index, bool startBehaviour
 
 | Ausnahme | Bedingung |
 | --- | --- |
-| [PsdImageException](../../../aspose.psd.coreexceptions.imageformats/psdimageexception/) | Der Index muss innerhalb der Ebenenanzahl liegen |
+| [PsdImageException](../../../aspose.psd.coreexceptions.imageformats/psdimageexception/) | Index muss im Bereich der Ebenenzahl liegen |
 
 ### Siehe auch
 
 * class [LayerGroup](../../../aspose.psd.fileformats.psd.layers/layergroup/)
 * class [PsdImage](../)
-* namensraum [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: RenderResult.Message
-second_title: Aspose.PSD für .NET-API-Referenz
-description: RenderResult eigendom. Ruft die Zeichenfolge message ab oder setzt sie
+title: "RenderResult.Message"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "RenderResult Eigenschaft. Ruft die Zeichenkettennachricht ab oder legt sie fest"
 type: docs
 weight: 20
 url: /de/net/aspose.psd.imageoptions/renderresult/message/
 ---
+{{< psd/tize >}}
 ## RenderResult.Message property
 
-Ruft die Zeichenfolge message ab oder setzt sie
+Liest oder setzt die Zeichenkettennachricht
 
 ```csharp
 public string Message { get; set; }
@@ -17,7 +18,7 @@ public string Message { get; set; }
 ### Siehe auch
 
 * class [RenderResult](../)
-* namensraum [Aspose.PSD.ImageOptions](../../renderresult/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

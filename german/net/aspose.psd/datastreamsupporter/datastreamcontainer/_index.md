@@ -1,20 +1,21 @@
 ---
-title: DataStreamSupporter.DataStreamContainer
-second_title: Aspose.PSD für .NET-API-Referenz
-description: DataStreamSupporter eigendom. Ruft den Datenstrom des Objekts ab.
+title: "DataStreamSupporter.DataStreamContainer"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "DataStreamSupporter Eigenschaft. Gibt den Datenstrom des Objekts zurück."
 type: docs
 weight: 10
 url: /de/net/aspose.psd/datastreamsupporter/datastreamcontainer/
 ---
+{{< psd/tize >}}
 ## DataStreamSupporter.DataStreamContainer property
 
-Ruft den Datenstrom des Objekts ab.
+Liest den Datenstrom des Objekts.
 
 ```csharp
 public StreamContainer DataStreamContainer { get; }
 ```
 
-### Eigentumswert
+### Property Value
 
 Der Datenstrom des Objekts.
 
@@ -22,7 +23,7 @@ Der Datenstrom des Objekts.
 
 * class [StreamContainer](../../streamcontainer/)
 * class [DataStreamSupporter](../)
-* namensraum [Aspose.PSD](../../datastreamsupporter/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

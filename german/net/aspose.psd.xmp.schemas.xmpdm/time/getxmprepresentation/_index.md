@@ -1,14 +1,15 @@
 ---
-title: Time.GetXmpRepresentation
-second_title: Aspose.PSD für .NET-API-Referenz
-description: Time methode. Ruft den in der Zeichenfolge enthaltenen Wert im XMPFormat ab.
+title: "Time.GetXmpRepresentation"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "Time-Methode. Gibt den enthaltenen Zeichenkettenwert im XMP-Format zurück"
 type: docs
 weight: 40
 url: /de/net/aspose.psd.xmp.schemas.xmpdm/time/getxmprepresentation/
 ---
+{{< psd/tize >}}
 ## Time.GetXmpRepresentation method
 
-Ruft den in der Zeichenfolge enthaltenen Wert im XMP-Format ab.
+Liest den enthaltenen Zeichenfolgenwert im XMP-Format.
 
 ```csharp
 public override string GetXmpRepresentation()
@@ -16,12 +17,12 @@ public override string GetXmpRepresentation()
 
 ### Rückgabewert
 
-Gibt den in der Zeichenfolge enthaltenen Wert im XMP-Format zurück.
+Gibt den enthaltenen Zeichenkettenwert im XMP-Format zurück.
 
 ### Siehe auch
 
 * class [Time](../)
-* namensraum [Aspose.PSD.Xmp.Schemas.XmpDm](../../time/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpDm](../../../aspose.psd.xmp.schemas.xmpdm/)
+* assembly [Aspose.PSD](../../../)
 
 

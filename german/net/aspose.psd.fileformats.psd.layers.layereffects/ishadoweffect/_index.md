@@ -1,14 +1,15 @@
 ---
-title: Interface IShadowEffect
-second_title: Aspose.PSD für .NET-API-Referenz
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerEffects.IShadowEffect koppel. Schnittstelle für Schattenebeneneffekte
+title: "Schnittstelle IShadowEffect"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "Aspose.PSD.FileFormats.Psd.Layers.LayerEffects.IShadowEffect Schnittstelle. Schnittstelle für Schattenebenen-Effekte"
 type: docs
-weight: 2150
+weight: 2340
 url: /de/net/aspose.psd.fileformats.psd.layers.layereffects/ishadoweffect/
 ---
+{{< psd/tize >}}
 ## IShadowEffect interface
 
-Schnittstelle für Schattenebeneneffekte
+Schnittstelle für Schatten‑Ebeneneffekte
 
 ```csharp
 public interface IShadowEffect : ILayerEffect
@@ -18,18 +19,18 @@ public interface IShadowEffect : ILayerEffect
 
 | Name | Beschreibung |
 | --- | --- |
-| [Angle](../../aspose.psd.fileformats.psd.layers.layereffects/ishadoweffect/angle/) { get; set; } | Ruft den Winkel in Grad ab oder legt ihn fest. |
-| [Color](../../aspose.psd.fileformats.psd.layers.layereffects/ishadoweffect/color/) { get; set; } | Ruft die Farbe ab oder legt sie fest. |
-| [Distance](../../aspose.psd.fileformats.psd.layers.layereffects/ishadoweffect/distance/) { get; set; } | Holt oder setzt den Abstand in Pixel. |
-| [Noise](../../aspose.psd.fileformats.psd.layers.layereffects/ishadoweffect/noise/) { get; set; } | Ruft das Rauschen ab oder legt es fest. |
-| [Size](../../aspose.psd.fileformats.psd.layers.layereffects/ishadoweffect/size/) { get; set; } | Ruft den Unschärfewert in Pixel ab oder legt ihn fest. |
-| [Spread](../../aspose.psd.fileformats.psd.layers.layereffects/ishadoweffect/spread/) { get; set; } | Holt oder setzt die Intensität in Prozent. |
-| [UseGlobalLight](../../aspose.psd.fileformats.psd.layers.layereffects/ishadoweffect/usegloballight/) { get; set; } | Ruft einen Wert ab oder legt einen Wert fest, der angibt, ob [diesen Winkel in allen Ebeneneffekten verwenden]. |
+| [Angle](../../aspose.psd.fileformats.psd.layers.layereffects/ishadoweffect/angle/) { get; set; } | Liest oder setzt den Winkel in Grad. |
+| [Color](../../aspose.psd.fileformats.psd.layers.layereffects/ishadoweffect/color/) { get; set; } | Liest oder setzt die Farbe. |
+| [Distance](../../aspose.psd.fileformats.psd.layers.layereffects/ishadoweffect/distance/) { get; set; } | Liest oder setzt die Entfernung in Pixeln. |
+| [Noise](../../aspose.psd.fileformats.psd.layers.layereffects/ishadoweffect/noise/) { get; set; } | Liest oder setzt das Rauschen. |
+| [Size](../../aspose.psd.fileformats.psd.layers.layereffects/ishadoweffect/size/) { get; set; } | Liest oder setzt den Unschärfewert in Pixeln. |
+| [Spread](../../aspose.psd.fileformats.psd.layers.layereffects/ishadoweffect/spread/) { get; set; } | Liest oder setzt die Intensität als Prozentsatz. |
+| [UseGlobalLight](../../aspose.psd.fileformats.psd.layers.layereffects/ishadoweffect/usegloballight/) { get; set; } | Liest oder setzt einen Wert, der angibt, ob [use this angle in all of the layer effects]. |
 
 ### Siehe auch
 
 * interface [ILayerEffect](../ilayereffect/)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../aspose.psd.fileformats.psd.layers.layereffects/)
-* Montage [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../)
 
 

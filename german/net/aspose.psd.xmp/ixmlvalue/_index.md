@@ -1,14 +1,15 @@
 ---
-title: Interface IXmlValue
-second_title: Aspose.PSD für .NET-API-Referenz
-description: Aspose.PSD.Xmp.IXmlValue koppel. Konvertiert xmpWerte in die XMLStringDarstellung.
+title: "Schnittstelle IXmlValue"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "Aspose.PSD.Xmp.IXmlValue Schnittstelle. Konvertiert xmp-Werte in die XML-String-Darstellung."
 type: docs
-weight: 5750
+weight: 6250
 url: /de/net/aspose.psd.xmp/ixmlvalue/
 ---
+{{< psd/tize >}}
 ## IXmlValue interface
 
-Konvertiert xmp-Werte in die XML-String-Darstellung.
+Konvertiert XMP‑Werte in die XML‑String‑Darstellung.
 
 ```csharp
 public interface IXmlValue
@@ -22,7 +23,7 @@ public interface IXmlValue
 
 ### Siehe auch
 
-* namensraum [Aspose.PSD.Xmp](../../aspose.psd.xmp/)
-* Montage [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Xmp](../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: Interface IColorFillSettings
-second_title: Aspose.PSD für .NET-API-Referenz
-description: Aspose.PSD.FileFormats.Psd.Layers.FillSettings.IColorFillSettings koppel. Basisschnittstelle für Fülleinstellungen
+title: "Schnittstelle IColorFillSettings"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "Aspose.PSD.FileFormats.Psd.Layers.FillSettings.IColorFillSettings Schnittstelle. Basisschnittstelle für Füllungseinstellungen"
 type: docs
-weight: 1990
+weight: 2110
 url: /de/net/aspose.psd.fileformats.psd.layers.fillsettings/icolorfillsettings/
 ---
+{{< psd/tize >}}
 ## IColorFillSettings interface
 
-Basisschnittstelle für Fülleinstellungen
+Basisschnittstelle für Füllungseinstellungen
 
 ```csharp
 public interface IColorFillSettings : IFillSettings
@@ -18,12 +19,12 @@ public interface IColorFillSettings : IFillSettings
 
 | Name | Beschreibung |
 | --- | --- |
-| [Color](../../aspose.psd.fileformats.psd.layers.fillsettings/icolorfillsettings/color/) { get; set; } | Ruft die Farbe ab oder legt sie fest. |
+| [Color](../../aspose.psd.fileformats.psd.layers.fillsettings/icolorfillsettings/color/) { get; set; } | Liest oder setzt die Farbe. |
 
 ### Siehe auch
 
 * interface [IFillSettings](../ifillsettings/)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../aspose.psd.fileformats.psd.layers.fillsettings/)
-* Montage [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../)
 
 

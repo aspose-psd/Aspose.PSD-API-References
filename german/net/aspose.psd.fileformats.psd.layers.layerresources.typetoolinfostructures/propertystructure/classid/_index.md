@@ -1,20 +1,21 @@
 ---
-title: PropertyStructure.ClassID
-second_title: Aspose.PSD für .NET-API-Referenz
-description: PropertyStructure eigendom. Ruft die KlassenID ab oder legt sie fest.
+title: "PropertyStructure.ClassID"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "PropertyStructure Eigenschaft. Liest oder schreibt die Klassen‑ID"
 type: docs
 weight: 20
 url: /de/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/propertystructure/classid/
 ---
+{{< psd/tize >}}
 ## PropertyStructure.ClassID property
 
-Ruft die Klassen-ID ab oder legt sie fest.
+Liest oder setzt die Klassen-ID.
 
 ```csharp
 public ClassID ClassID { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
 Die Klassen-ID.
 
@@ -22,7 +23,7 @@ Die Klassen-ID.
 
 * class [ClassID](../../../aspose.psd.fileformats.psd.layers.layerresources/classid/)
 * class [PropertyStructure](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../propertystructure/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 

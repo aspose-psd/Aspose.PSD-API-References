@@ -1,11 +1,12 @@
 ---
-title: Enum NoiseDistribution
-second_title: Aspose.PSD für .NET-API-Referenz
-description: Aspose.PSD.FileFormats.Psd.Layers.SmartFilters.NoiseDistribution opsomming. Die Verteilung des Rauschfilters.
+title: "Enum NoiseDistribution"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "Aspose.PSD.FileFormats.Psd.Layers.SmartFilters.NoiseDistribution enum. Die Verteilung des Rauschfilters"
 type: docs
-weight: 3440
+weight: 3850
 url: /de/net/aspose.psd.fileformats.psd.layers.smartfilters/noisedistribution/
 ---
+{{< psd/tize >}}
 ## NoiseDistribution enumeration
 
 Die Verteilung des Rauschfilters.
@@ -18,12 +19,12 @@ public enum NoiseDistribution
 
 | Name | Wert | Beschreibung |
 | --- | --- | --- |
-| Uniform | `0` | Die gleichmäßige Geräuschverteilung. |
-| Gaussian | `1` | Die Gaußsche Rauschverteilung. |
+| Uniform | `0` | Die gleichmäßige Rauschverteilung. |
+| Gaussian | `1` | Die gaußsche Rauschverteilung. |
 
-### Beispiele
+## Beispiele
 
-Dieses Beispiel demonstriert die Unterstützung der Schnittstelle für intelligente Filter.
+Dieses Beispiel demonstriert die Unterstützung der Smart-Filter-Schnittstelle.
 
 ```csharp
 [C#]
@@ -43,7 +44,7 @@ using (var image = (PsdImage)Image.Load(sourceFilte))
 {
     SmartObjectLayer smartObj = (SmartObjectLayer)image.Layers[1];
 
-    // intelligente Filter bearbeiten
+    // Smart-Filter bearbeiten
     GaussianBlurSmartFilter gaussianBlur = (GaussianBlurSmartFilter)smartObj.SmartFilters.Filters[0];
 
     // Filterwerte prüfen
@@ -60,13 +61,13 @@ using (var image = (PsdImage)Image.Load(sourceFilte))
     AddNoiseSmartFilter addNoise = (AddNoiseSmartFilter)smartObj.SmartFilters.Filters[1];
     addNoise.Distribution = NoiseDistribution.Uniform;
 
-    // neue Filterelemente hinzufügen
+    // Neue Filterelemente hinzufügen
     var filters = new List<SmartFilter>(smartObj.SmartFilters.Filters);
     filters.Add(new GaussianBlurSmartFilter());
     filters.Add(new AddNoiseSmartFilter());
     smartObj.SmartFilters.Filters = filters.ToArray();
 
-    // Änderungen übernehmen
+    // Änderungen anwenden
     smartObj.SmartFilters.UpdateResourceValues();
 
     // Filter anwenden
@@ -95,7 +96,7 @@ using (var image = (PsdImage)Image.Load(outputPsd))
 
 ### Siehe auch
 
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.SmartFilters](../../aspose.psd.fileformats.psd.layers.smartfilters/)
-* Montage [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.SmartFilters](../../aspose.psd.fileformats.psd.layers.smartfilters/)
+* assembly [Aspose.PSD](../../)
 
 

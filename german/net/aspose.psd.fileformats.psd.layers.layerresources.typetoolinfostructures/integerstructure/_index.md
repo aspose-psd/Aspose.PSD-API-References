@@ -1,39 +1,40 @@
 ---
-title: Class IntegerStructure
-second_title: Aspose.PSD für .NET-API-Referenz
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures.IntegerStructure klas. Die ganzzahlige Struktur.
+title: "Klasse IntegerStructure"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures.IntegerStructure Klasse. Die Integerstruktur"
 type: docs
-weight: 3180
+weight: 3560
 url: /de/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/integerstructure/
 ---
+{{< psd/tize >}}
 ## IntegerStructure class
 
-Die ganzzahlige Struktur.
+Die Integer-Struktur.
 
 ```csharp
 public sealed class IntegerStructure : OSTypeStructure
 ```
 
-## Konstrukteure
+## Konstruktoren
 
 | Name | Beschreibung |
 | --- | --- |
-| [IntegerStructure](integerstructure/)(ClassID) | Initialisiert eine neue Instanz von`IntegerStructure` Klasse. |
+| [IntegerStructure](integerstructure/)(ClassID) | Initialisiert eine neue Instanz der `IntegerStructure`-Klasse. |
 
 ## Eigenschaften
 
 | Name | Beschreibung |
 | --- | --- |
-| override [Key](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/integerstructure/key/) { get; } | Ruft den Schlüssel ab. |
-| [KeyName](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/keyname/) { get; set; } | Ruft den Schlüsselnamen ab oder legt ihn fest. |
-| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/integerstructure/length/) { get; } | Ruft die ab[`OSTypeStructure`](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/) Länge in Bytes. |
-| [Value](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/integerstructure/value/) { get; set; } | Ruft einen ganzzahligen Wert ab oder legt ihn fest. |
+| override [Key](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/integerstructure/key/) { get; } | Liest den Schlüssel. |
+| [KeyName](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/keyname/) { get; set; } | Liest oder setzt den Schlüsselnamen. |
+| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/integerstructure/length/) { get; } | Liest die Länge des [`OSTypeStructure`](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/) in Bytes. |
+| [Value](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/integerstructure/value/) { get; set; } | Liest oder setzt einen Ganzzahlwert. |
 
 ## Methoden
 
 | Name | Beschreibung |
 | --- | --- |
-| virtual [GetHeaderLength](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/getheaderlength/)() | Ruft die Kopfzeilenlänge ab. |
+| virtual [GetHeaderLength](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/getheaderlength/)() | Liest die Header-Länge. |
 | [Save](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/save/)(StreamContainer) | Speichert die Struktur im angegebenen Stream-Container. |
 | [SaveWithoutKeyName](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/savewithoutkeyname/)(StreamContainer) | Speichert die Struktur im angegebenen Stream-Container. |
 
@@ -41,12 +42,12 @@ public sealed class IntegerStructure : OSTypeStructure
 
 | Name | Beschreibung |
 | --- | --- |
-| const [StructureKey](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/integerstructure/structurekey/) | Der ganzzahlige Strukturschlüssel. |
+| const [StructureKey](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/integerstructure/structurekey/) | Der Schlüssel der Integerstruktur. |
 
 ### Siehe auch
 
 * class [OSTypeStructure](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
-* Montage [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../)
 
 

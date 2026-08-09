@@ -1,27 +1,28 @@
 ---
-title: GradientOverlayEffect.IsVisible
-second_title: Aspose.PSD für .NET-API-Referenz
-description: GradientOverlayEffect eigendom. Ruft einen Wert ab oder legt einen Wert fest der angibt ob diese Instanz sichtbar ist.
+title: "GradientOverlayEffect.IsVisible"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "GradientOverlayEffect-Eigenschaft. Liest oder setzt einen Wert, der angibt, ob diese Instanz sichtbar ist"
 type: docs
 weight: 30
 url: /de/net/aspose.psd.fileformats.psd.layers.layereffects/gradientoverlayeffect/isvisible/
 ---
+{{< psd/tize >}}
 ## GradientOverlayEffect.IsVisible property
 
-Ruft einen Wert ab oder legt einen Wert fest, der angibt, ob diese Instanz sichtbar ist.
+Liest oder setzt einen Wert, der angibt, ob diese Instanz sichtbar ist.
 
 ```csharp
 public bool IsVisible { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
-`WAHR` wenn diese Instanz sichtbar ist; ansonsten,`FALSCH` .
+`true` wenn diese Instanz sichtbar ist; andernfalls `false`.
 
 ### Siehe auch
 
 * class [GradientOverlayEffect](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../gradientoverlayeffect/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../../)
 
 

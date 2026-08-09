@@ -1,14 +1,15 @@
 ---
-title: ImageLoadersRegistry.GetFirstSupportedDescriptorByTypeName
-second_title: Aspose.PSD für .NET-API-Referenz
-description: ImageLoadersRegistry methode. Ruft den ersten unterstützten Deskriptor anhand seines Typnamens ab.
+title: "ImageLoadersRegistry.GetFirstSupportedDescriptorByTypeName"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "ImageLoadersRegistry-Methode. Gibt den ersten unterstützten Deskriptor anhand seines Typnamens zurück."
 type: docs
 weight: 60
 url: /de/net/aspose.psd/imageloadersregistry/getfirstsupporteddescriptorbytypename/
 ---
+{{< psd/tize >}}
 ## ImageLoadersRegistry.GetFirstSupportedDescriptorByTypeName method
 
-Ruft den ersten unterstützten Deskriptor anhand seines Typnamens ab.
+Ermittelt den ersten unterstützten Deskriptor anhand seines Typnamens.
 
 ```csharp
 public static IImageLoaderDescriptor GetFirstSupportedDescriptorByTypeName(
@@ -17,21 +18,21 @@ public static IImageLoaderDescriptor GetFirstSupportedDescriptorByTypeName(
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| descriptorTypeName | String | Der Name des Deskriptortyps. |
+| descriptorTypeName | String | Der Deskriptortyp-Name. |
 
 ### Rückgabewert
 
-Der erste gefundene Lader-Deskriptor oder null, wenn kein solcher Deskriptor gefunden wird.
+Der zuerst gefundene Loader-Deskriptor oder null, wenn ein solcher Deskriptor nicht gefunden wird.
 
-### Bemerkungen
+## Hinweise
 
-Der erste Lader-Deskriptor wird tatsächlich der letzte registrierte sein.
+Der erste Loader-Deskriptor ist tatsächlich der zuletzt registrierte.
 
 ### Siehe auch
 
 * interface [IImageLoaderDescriptor](../../iimageloaderdescriptor/)
 * class [ImageLoadersRegistry](../)
-* namensraum [Aspose.PSD](../../imageloadersregistry/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

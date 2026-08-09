@@ -1,31 +1,32 @@
 ---
-title: Cache.MaxMemoryForCache
-second_title: Aspose.PSD für .NET-API-Referenz
-description: Cache eigendom. Ruft den maximal verfügbaren Speicher für den Cache im Speicher ab oder legt ihn fest. Der angegebene Wert ist Megabyte count.
+title: "Cache.MaxMemoryForCache"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "Cache-Eigenschaft. Gibt den maximal verfügbaren Speicher für den Cache im Arbeitsspeicher zurück oder legt ihn fest. Der angegebene Wert ist die Megabyte‑Anzahl."
 type: docs
 weight: 70
 url: /de/net/aspose.psd/cache/maxmemoryforcache/
 ---
+{{< psd/tize >}}
 ## Cache.MaxMemoryForCache property
 
-Ruft den maximal verfügbaren Speicher für den Cache im Speicher ab oder legt ihn fest. Der angegebene Wert ist Megabyte count.
+Liest oder setzt den maximal verfügbaren Speicher für den Cache im Arbeitsspeicher. Der angegebene Wert ist die Megabyte‑Anzahl.
 
 ```csharp
 public static int MaxMemoryForCache { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
 Der maximale Speicher für den Cache.
 
-### Bemerkungen
+## Hinweise
 
-Der Wert 0 verbraucht den gesamten verfügbaren Speicher und dient nicht als Obergrenze.
+Ein Wert von 0 verbraucht den gesamten verfügbaren Speicher und stellt keine Obergrenze dar.
 
 ### Siehe auch
 
 * class [Cache](../)
-* namensraum [Aspose.PSD](../../cache/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

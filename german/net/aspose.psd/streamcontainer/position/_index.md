@@ -1,27 +1,28 @@
 ---
-title: StreamContainer.Position
-second_title: Aspose.PSD für .NET-API-Referenz
-description: StreamContainer eigendom. Holt oder setzt die aktuelle Position innerhalb des Streams. Dieser Wert stellt den Offset von der StartStreamPosition dar die im StreamContainerKonstruktor übergeben wird.
+title: "StreamContainer.Position"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "StreamContainer-Eigenschaft. Gibt die aktuelle Position im Stream zurück oder legt sie fest. Dieser Wert stellt den Versatz von der beim Konstruktor von StreamContainer übergebenen Startposition des Streams dar."
 type: docs
 weight: 70
 url: /de/net/aspose.psd/streamcontainer/position/
 ---
+{{< psd/tize >}}
 ## StreamContainer.Position property
 
-Holt oder setzt die aktuelle Position innerhalb des Streams. Dieser Wert stellt den Offset von der Start-Stream-Position dar, die im StreamContainer-Konstruktor übergeben wird.
+Liest oder setzt die aktuelle Position im Stream. Dieser Wert stellt den Versatz von der Startposition des Streams dar, die im Konstruktor von StreamContainer übergeben wurde.
 
 ```csharp
 public virtual long Position { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
 Die aktuelle Stream-Position.
 
 ### Siehe auch
 
 * class [StreamContainer](../)
-* namensraum [Aspose.PSD](../../streamcontainer/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

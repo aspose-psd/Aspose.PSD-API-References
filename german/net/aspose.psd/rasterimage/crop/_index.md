@@ -1,14 +1,15 @@
 ---
-title: RasterImage.Crop
-second_title: Aspose.PSD für .NET-API-Referenz
-description: RasterImage methode. Beschneidet das angegebene Rechteck.
+title: "RasterImage.Crop"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "RasterImage-Methode. Schneidet das angegebene Rechteck zu."
 type: docs
 weight: 240
 url: /de/net/aspose.psd/rasterimage/crop/
 ---
+{{< psd/tize >}}
 ## Crop(Rectangle) {#crop}
 
-Beschneidet das angegebene Rechteck.
+Schneidet das angegebene Rechteck zu.
 
 ```csharp
 public virtual void Crop(Rectangle rectangle)
@@ -16,16 +17,16 @@ public virtual void Crop(Rectangle rectangle)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| rectangle | Rectangle | Das Rechteck. |
+| Rechteck | Rectangle | Das Rechteck. |
 
-### Beispiele
+## Beispiele
 
-Das folgende Codebeispiel zeigt, wie Sie ein Bild zuschneiden und speichern.
+Das folgende Codebeispiel zeigt, wie man ein Bild zuschneidet und speichert.
 
 ```csharp
 [C#]
 
-// Richtige Crop-Methode für PSD-Dateien implementieren.
+// Implementieren Sie die korrekte Crop‑Methode für PSD‑Dateien.
 string sourceFileName = "1.psd";
 string exportPathPsd = "CropTest.psd";
 string exportPathPng = "CropTest.png";
@@ -41,8 +42,8 @@ using (RasterImage image = Image.Load(sourceFileName) as RasterImage)
 
 * struct [Rectangle](../../rectangle/)
 * class [RasterImage](../)
-* namensraum [Aspose.PSD](../../rasterimage/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
@@ -57,14 +58,14 @@ public virtual void Crop(int leftShift, int rightShift, int topShift, int bottom
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
 | leftShift | Int32 | Die Linksverschiebung. |
-| rightShift | Int32 | Die richtige Verschiebung. |
-| topShift | Int32 | Die Top-Schicht. |
-| bottomShift | Int32 | Die untere Schicht. |
+| rightShift | Int32 | Die Rechtsverschiebung. |
+| topShift | Int32 | Die Obenverschiebung. |
+| bottomShift | Int32 | Die Untenverschiebung. |
 
 ### Siehe auch
 
 * class [RasterImage](../)
-* namensraum [Aspose.PSD](../../rasterimage/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

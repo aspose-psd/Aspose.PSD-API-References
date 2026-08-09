@@ -1,14 +1,15 @@
 ---
-title: LnkeResource.Key
-second_title: Aspose.PSD für .NET-API-Referenz
-description: LnkeResource eigendom. Ruft den globalen Adobe PhotoshopRessourcenschlüssel ab.
+title: "LnkeResource.Key"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "LnkeResource‑Eigenschaft. Gibt den globalen Ressourcenschlüssel von Adobe Photoshop zurück"
 type: docs
 weight: 30
 url: /de/net/aspose.psd.fileformats.psd.layers.layerresources/lnkeresource/key/
 ---
+{{< psd/tize >}}
 ## LnkeResource.Key property
 
-Ruft den globalen Adobe® Photoshop®-Ressourcenschlüssel ab.
+Gibt den globalen Ressourcenschlüssel von Adobe® Photoshop® zurück.
 
 ```csharp
 public override int Key { get; }
@@ -17,7 +18,7 @@ public override int Key { get; }
 ### Siehe auch
 
 * class [LnkeResource](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../lnkeresource/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

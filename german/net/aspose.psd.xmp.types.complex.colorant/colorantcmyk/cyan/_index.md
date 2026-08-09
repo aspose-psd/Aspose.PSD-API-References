@@ -1,27 +1,28 @@
 ---
-title: ColorantCmyk.Cyan
-second_title: Aspose.PSD für .NET-API-Referenz
-description: ColorantCmyk eigendom. Ruft den CyanKomponentenwert ab oder legt ihn fest.
+title: "ColorantCmyk.Cyan"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "ColorantCmyk Eigenschaft. Liest oder setzt den cyan Komponentenwert"
 type: docs
 weight: 30
 url: /de/net/aspose.psd.xmp.types.complex.colorant/colorantcmyk/cyan/
 ---
+{{< psd/tize >}}
 ## ColorantCmyk.Cyan property
 
-Ruft den Cyan-Komponentenwert ab oder legt ihn fest.
+Liest oder legt den Cyan‑Komponentenwert fest.
 
 ```csharp
 public float Cyan { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
-Der Cyan-Komponentenwert.
+Der cyan Komponentenwert.
 
 ### Siehe auch
 
 * class [ColorantCmyk](../)
-* namensraum [Aspose.PSD.Xmp.Types.Complex.Colorant](../../colorantcmyk/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.Colorant](../../../aspose.psd.xmp.types.complex.colorant/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: FileStreamContainer.FilePath
-second_title: Aspose.PSD für .NET-API-Referenz
-description: FileStreamContainer eigendom. Ruft den Dateipfad ab.
+title: "FileStreamContainer.FilePath"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "FileStreamContainer-Eigenschaft. Gibt den Dateipfad zurück"
 type: docs
 weight: 30
 url: /de/net/aspose.psd/filestreamcontainer/filepath/
 ---
+{{< psd/tize >}}
 ## FileStreamContainer.FilePath property
 
-Ruft den Dateipfad ab.
+Liefert den Dateipfad.
 
 ```csharp
 public string FilePath { get; }
 ```
 
-### Eigentumswert
+### Property Value
 
 Der Dateipfad.
 
 ### Siehe auch
 
 * class [FileStreamContainer](../)
-* namensraum [Aspose.PSD](../../filestreamcontainer/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,28 +1,29 @@
 ---
-title: TiffOptions.FillOrder
-second_title: Aspose.PSD für .NET-API-Referenz
-description: TiffOptions eigendom. Ruft die Füllreihenfolge der ByteBits ab oder legt sie fest.
+title: "TiffOptions.FillOrder"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "TiffOptions-Eigenschaft. Liest oder setzt die Byte‑Bit‑Füllreihenfolge"
 type: docs
-weight: 160
+weight: 170
 url: /de/net/aspose.psd.imageoptions/tiffoptions/fillorder/
 ---
+{{< psd/tize >}}
 ## TiffOptions.FillOrder property
 
-Ruft die Füllreihenfolge der Byte-Bits ab oder legt sie fest.
+Liest oder setzt die Füllreihenfolge der Byte‑Bits.
 
 ```csharp
 public TiffFillOrders FillOrder { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
-Die Byte-Bits füllen die Reihenfolge.
+Die Byte‑Bit‑Füllreihenfolge.
 
 ### Siehe auch
 
 * enum [TiffFillOrders](../../../aspose.psd.fileformats.tiff.enums/tifffillorders/)
 * class [TiffOptions](../)
-* namensraum [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

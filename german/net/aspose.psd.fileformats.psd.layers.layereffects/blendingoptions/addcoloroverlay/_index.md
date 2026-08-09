@@ -1,11 +1,12 @@
 ---
-title: BlendingOptions.AddColorOverlay
-second_title: Aspose.PSD für .NET-API-Referenz
-description: BlendingOptions methode. Fügt die Farbüberlagerung hinzu.
+title: "BlendingOptions.AddColorOverlay"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "BlendingOptions-Methode. Fügt die Farbüberlagerung hinzu"
 type: docs
-weight: 20
+weight: 30
 url: /de/net/aspose.psd.fileformats.psd.layers.layereffects/blendingoptions/addcoloroverlay/
 ---
+{{< psd/tize >}}
 ## BlendingOptions.AddColorOverlay method
 
 Fügt die Farbüberlagerung hinzu.
@@ -16,13 +17,13 @@ public ColorOverlayEffect AddColorOverlay()
 
 ### Rückgabewert
 
-Erstellt[`ColorOverlayEffect`](../../coloroverlayeffect/) Objekt
+Erstelltes [`ColorOverlayEffect`](../../coloroverlayeffect/) Objekt
 
 ### Siehe auch
 
 * class [ColorOverlayEffect](../../coloroverlayeffect/)
 * class [BlendingOptions](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../blendingoptions/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../../)
 
 

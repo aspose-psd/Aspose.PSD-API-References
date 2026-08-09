@@ -1,14 +1,15 @@
 ---
-title: TiffStreamWriter.WriteSlong
-second_title: Aspose.PSD für .NET-API-Referenz
-description: TiffStreamWriter methode. Schreibt einen einzelnen ganzzahligen Wert in den Stream.
+title: "TiffStreamWriter.WriteSlong"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "TiffStreamWriter-Methode. Schreibt einen einzelnen integer-Wert in den Stream"
 type: docs
 weight: 130
 url: /de/net/aspose.psd.fileformats.tiff.filemanagement/tiffstreamwriter/writeslong/
 ---
+{{< psd/tize >}}
 ## TiffStreamWriter.WriteSlong method
 
-Schreibt einen einzelnen ganzzahligen Wert in den Stream.
+Schreibt einen einzelnen Integer-Wert in den Stream.
 
 ```csharp
 public void WriteSlong(int data)
@@ -16,12 +17,12 @@ public void WriteSlong(int data)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| data | Int32 | Der zu schreibende Wert. |
+| Daten | Int32 | Der zu schreibende Wert. |
 
 ### Siehe auch
 
 * class [TiffStreamWriter](../)
-* namensraum [Aspose.PSD.FileFormats.Tiff.FileManagement](../../tiffstreamwriter/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff.FileManagement](../../../aspose.psd.fileformats.tiff.filemanagement/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: TypeToolLineInfo.Char
-second_title: Aspose.PSD für .NET-API-Referenz
-description: TypeToolLineInfo eigendom. Holt oder setzt das Zeichen
+title: "TypeToolLineInfo.Char"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "TypeToolLineInfo-Eigenschaft. Gibt das Zeichen zurück oder legt es fest."
 type: docs
 weight: 20
 url: /de/net/aspose.psd.fileformats.psd.layers.layerresources/typetoollineinfo/char/
 ---
+{{< psd/tize >}}
 ## TypeToolLineInfo.Char property
 
-Holt oder setzt das Zeichen
+Liest oder setzt das Zeichen.
 
 ```csharp
 public char Char { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
 Das Zeichen.
 
 ### Siehe auch
 
 * class [TypeToolLineInfo](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../typetoollineinfo/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

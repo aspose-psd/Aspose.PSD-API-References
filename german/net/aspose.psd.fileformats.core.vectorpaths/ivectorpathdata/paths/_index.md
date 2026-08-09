@@ -1,26 +1,27 @@
 ---
-title: IVectorPathData.Paths
-second_title: Aspose.PSD für .NET-API-Referenz
-description: IVectorPathData eigendom. Ruft die Pfaddatensätze ab oder legt sie fest.
+title: "IVectorPathData.Paths"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "IVectorPathData Eigenschaft. Liest die Pfaddatensätze aus oder legt sie fest"
 type: docs
 weight: 40
 url: /de/net/aspose.psd.fileformats.core.vectorpaths/ivectorpathdata/paths/
 ---
+{{< psd/tize >}}
 ## IVectorPathData.Paths property
 
-Ruft die Pfaddatensätze ab oder legt sie fest.
+Liest oder legt die Pfad-Datensätze fest.
 
 ```csharp
 public VectorPathRecord[] Paths { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
 Die Pfade.
 
-### Beispiele
+## Beispiele
 
-Dieses Beispiel demonstriert die Unterstützung der Ressource „WorkingPathResource“ in PsdImage.ImageResources für das korrekte Funktionieren des Crop-Vorgangs.
+Dieses Beispiel demonstriert die Unterstützung der 'WorkingPathResource'-Ressource in PsdImage.ImageResources für das korrekte Funktionieren der Zuschneide-Operation.
 
 ```csharp
 [C#]
@@ -28,7 +29,7 @@ Dieses Beispiel demonstriert die Unterstützung der Ressource „WorkingPathReso
 // Bild zuschneiden und speichern.
 using (var psdImage = (PsdImage)Image.Load(sourceFile))
 {
-    // WorkingPathResource-Ressource durchsuchen.
+    // Suche WorkingPathResource-Ressource.
     ResourceBlock[] imageResources = psdImage.ImageResources;
     WorkingPathResource workingPathResource = null;
     foreach (var imageResource in imageResources)
@@ -51,10 +52,10 @@ using (var psdImage = (PsdImage)Image.Load(sourceFile))
     psdImage.Save(outputFile);
 }
 
-// Gespeichertes Bild laden und die Änderungen überprüfen.
+// Lade das gespeicherte Bild und prüfe die Änderungen.
 using (var psdImage = (PsdImage)Image.Load(outputFile))
 {
-    // WorkingPathResource-Ressource durchsuchen.
+    // Suche WorkingPathResource-Ressource.
     ResourceBlock[] imageResources = psdImage.ImageResources;
     WorkingPathResource workingPathResource = null;
     foreach (var imageResource in imageResources)
@@ -78,7 +79,7 @@ using (var psdImage = (PsdImage)Image.Load(outputFile))
 
 * class [VectorPathRecord](../../vectorpathrecord/)
 * interface [IVectorPathData](../)
-* namensraum [Aspose.PSD.FileFormats.Core.VectorPaths](../../ivectorpathdata/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../../)
 
 

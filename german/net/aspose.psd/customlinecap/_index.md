@@ -1,48 +1,49 @@
 ---
-title: Class CustomLineCap
-second_title: Aspose.PSD für .NET-API-Referenz
-description: Aspose.PSD.CustomLineCap klas. Kapselt eine benutzerdefinierte benutzerdefinierte Leitungsobergrenze.
+title: "Klasse CustomLineCap"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "Aspose.PSD.CustomLineCap Klasse. Kapselt einen benutzerdefinierten Linienabschluss."
 type: docs
-weight: 700
+weight: 710
 url: /de/net/aspose.psd/customlinecap/
 ---
+{{< psd/tize >}}
 ## CustomLineCap class
 
-Kapselt eine benutzerdefinierte benutzerdefinierte Leitungsobergrenze.
+Kapselt ein benutzerdefiniertes, vom Benutzer definiertes Linienende.
 
 ```csharp
 public class CustomLineCap
 ```
 
-## Konstrukteure
+## Konstruktoren
 
 | Name | Beschreibung |
 | --- | --- |
-| [CustomLineCap](customlinecap/#constructor)(GraphicsPath, GraphicsPath) | Initialisiert eine neue Instanz von`CustomLineCap` Klasse mit der angegebenen Gliederung und Füllung. |
-| [CustomLineCap](customlinecap/#constructor_1)(GraphicsPath, GraphicsPath, LineCap) | Initialisiert eine neue Instanz von`CustomLineCap` Klasse aus dem angegebenen vorhandenen[`LineCap`](../linecap/) Aufzählung mit der angegebenen Kontur und Füllung. |
-| [CustomLineCap](customlinecap/#constructor_2)(GraphicsPath, GraphicsPath, LineCap, float) | Initialisiert eine neue Instanz von`CustomLineCap` Klasse aus dem angegebenen vorhandenen[`LineCap`](../linecap/)Aufzählung mit den angegebenen Umrissen, Füllungen und Einfügungen. |
+| [CustomLineCap](customlinecap/#constructor)(GraphicsPath, GraphicsPath) | Initialisiert eine neue Instanz der `CustomLineCap`‑Klasse mit der angegebenen Kontur und Füllung. |
+| [CustomLineCap](customlinecap/#constructor_1)(GraphicsPath, GraphicsPath, LineCap) | Initialisiert eine neue Instanz der `CustomLineCap`‑Klasse aus der angegebenen vorhandenen [`LineCap`](../linecap/)‑Aufzählung mit der angegebenen Kontur und Füllung. |
+| [CustomLineCap](customlinecap/#constructor_2)(GraphicsPath, GraphicsPath, LineCap, float) | Initialisiert eine neue Instanz der `CustomLineCap`‑Klasse aus der angegebenen vorhandenen [`LineCap`](../linecap/)‑Aufzählung mit der angegebenen Kontur, Füllung und Einrückung. |
 
 ## Eigenschaften
 
 | Name | Beschreibung |
 | --- | --- |
-| [BaseCap](../../aspose.psd/customlinecap/basecap/) { get; set; } | Ruft ab oder setzt die[`LineCap`](../linecap/) Aufzählung, auf der dies`CustomLineCap` basiert. |
-| [BaseInset](../../aspose.psd/customlinecap/baseinset/) { get; set; } | Ruft den Abstand zwischen der Kappe und der Linie ab oder legt ihn fest. |
-| [FillPath](../../aspose.psd/customlinecap/fillpath/) { get; set; } | Ruft das Objekt ab oder legt es fest, das die Füllung für die benutzerdefinierte Obergrenze definiert. |
-| [StrokeJoin](../../aspose.psd/customlinecap/strokejoin/) { get; set; } | Ruft ab oder setzt die[`LineJoin`](../linejoin/) Aufzählung, die bestimmt, wie Zeilen, die dies zusammensetzen`CustomLineCap`Objekt sind verbunden. |
-| [StrokePath](../../aspose.psd/customlinecap/strokepath/) { get; set; } | Ruft das Objekt ab oder legt es fest, das den Umriss der benutzerdefinierten Kappe definiert. |
-| [WidthScale](../../aspose.psd/customlinecap/widthscale/) { get; set; } | Ruft den Betrag ab, um den dies skaliert werden soll, oder legt ihn fest`CustomLineCap` Klassenobjekt in Bezug auf die Breite derPen Objekt. |
+| [BaseCap](../../aspose.psd/customlinecap/basecap/) { get; set; } | Liest oder setzt die [`LineCap`](../linecap/)‑Aufzählung, auf der dieses `CustomLineCap` basiert. |
+| [BaseInset](../../aspose.psd/customlinecap/baseinset/) { get; set; } | Liest oder setzt den Abstand zwischen dem Abschluss und der Linie. |
+| [FillPath](../../aspose.psd/customlinecap/fillpath/) { get; set; } | Liest oder setzt das Objekt, das die Füllung für den benutzerdefinierten Abschluss definiert. |
+| [StrokeJoin](../../aspose.psd/customlinecap/strokejoin/) { get; set; } | Liest oder setzt die [`LineJoin`](../linejoin/)‑Aufzählung, die bestimmt, wie Linien, die dieses `CustomLineCap`‑Objekt bilden, verbunden werden. |
+| [StrokePath](../../aspose.psd/customlinecap/strokepath/) { get; set; } | Liest oder setzt das Objekt, das die Kontur des benutzerdefinierten Abschlusses definiert. |
+| [WidthScale](../../aspose.psd/customlinecap/widthscale/) { get; set; } | Liest oder setzt den Betrag, um den dieses `CustomLineCap`‑Klassenobjekt in Bezug auf die Breite des Pen‑Objekts skaliert wird. |
 
 ## Methoden
 
 | Name | Beschreibung |
 | --- | --- |
-| [GetStrokeCaps](../../aspose.psd/customlinecap/getstrokecaps/)(out LineCap, out LineCap) | Ruft die Begrenzungen ab, die für Start- und Endzeilen verwendet werden, aus denen diese benutzerdefinierte Begrenzung besteht. |
-| [SetStrokeCaps](../../aspose.psd/customlinecap/setstrokecaps/)(LineCap, LineCap) | Legt die Begrenzungen fest, die für Start- und Endlinien verwendet werden, aus denen diese benutzerdefinierte Begrenzung besteht. |
+| [GetStrokeCaps](../../aspose.psd/customlinecap/getstrokecaps/)(out LineCap, out LineCap) | Liest die Abschlüsse, die zum Starten und Beenden von Linien verwendet werden, aus denen dieser benutzerdefinierte Abschluss besteht. |
+| [SetStrokeCaps](../../aspose.psd/customlinecap/setstrokecaps/)(LineCap, LineCap) | Setzt die Abschlüsse, die zum Starten und Beenden von Linien verwendet werden, aus denen dieser benutzerdefinierte Abschluss besteht. |
 
 ### Siehe auch
 
-* namensraum [Aspose.PSD](../../aspose.psd/)
-* Montage [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

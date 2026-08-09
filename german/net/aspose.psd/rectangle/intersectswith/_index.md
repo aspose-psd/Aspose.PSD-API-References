@@ -1,14 +1,15 @@
 ---
-title: Rectangle.IntersectsWith
-second_title: Aspose.PSD für .NET-API-Referenz
-description: Rectangle methode. Bestimmt ob sich dieses Rechteck mit schneidetrect .
+title: "Rectangle.IntersectsWith"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "Rectangle-Methode. Bestimmt, ob dieses Rechteck mit rect schneidet"
 type: docs
 weight: 250
 url: /de/net/aspose.psd/rectangle/intersectswith/
 ---
+{{< psd/tize >}}
 ## Rectangle.IntersectsWith method
 
-Bestimmt, ob sich dieses Rechteck mit schneidet*rect* .
+Bestimmt, ob dieses Rechteck mit *rect* schneidet.
 
 ```csharp
 public bool IntersectsWith(Rectangle rect)
@@ -20,12 +21,12 @@ public bool IntersectsWith(Rectangle rect)
 
 ### Rückgabewert
 
-Diese Methode gibt true zurück, wenn es eine Schnittmenge gibt, andernfalls false.
+Diese Methode gibt true zurück, wenn irgendeine Schnittmenge besteht, andernfalls false.
 
 ### Siehe auch
 
 * struct [Rectangle](../)
-* namensraum [Aspose.PSD](../../rectangle/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

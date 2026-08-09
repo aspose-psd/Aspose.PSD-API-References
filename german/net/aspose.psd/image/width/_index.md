@@ -1,27 +1,28 @@
 ---
-title: Image.Width
-second_title: Aspose.PSD für .NET-API-Referenz
-description: Image eigendom. Ruft die Bildbreite ab.
+title: "Image.Width"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "Image-Eigenschaft. Gibt die Bildbreite zurück."
 type: docs
-weight: 150
+weight: 160
 url: /de/net/aspose.psd/image/width/
 ---
+{{< psd/tize >}}
 ## Image.Width property
 
-Ruft die Bildbreite ab.
+Liest die Bildbreite.
 
 ```csharp
 public abstract int Width { get; }
 ```
 
-### Eigentumswert
+### Property Value
 
 Die Bildbreite.
 
 ### Siehe auch
 
 * class [Image](../)
-* namensraum [Aspose.PSD](../../image/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: MixrResource.MixrResource
-second_title: Aspose.PSD für .NET-API-Referenz
-description: MixrResource constructeur. Initialisiert eine neue Instanz vonMixrResource class. PSDFormatspezifikation enthält folgende Beschreibung 2 Version   1 2 Monochrom 20 RGB oder CMYKFarbe plus Konstante für die Mischereinstellungen. 4  2 Bytes Farbe mit 2 Bytes Konstante.
+title: "MixrResource.MixrResource"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "MixrResource-Konstruktor. Initialisiert eine neue Instanz der MixrResource-Klasse. Die PSD-Formatspezifikation enthält folgende Beschreibung 2 Version   1 2 Monochrome 20 RGB- oder CMYK-Farbe plus Konstante für die Mixer‑Einstellungen. 4  2 Bytes Farbe mit 2 Bytes Konstante."
 type: docs
 weight: 10
 url: /de/net/aspose.psd.fileformats.psd.layers.layerresources/mixrresource/mixrresource/
 ---
+{{< psd/tize >}}
 ## MixrResource() {#constructor}
 
-Initialisiert eine neue Instanz von[`MixrResource`](../) class. PSD-Formatspezifikation enthält folgende Beschreibung: 2 Version ( = 1) 2 Monochrom 20 RGB- oder CMYK-Farbe plus Konstante für die Mischereinstellungen. 4 * 2 Bytes Farbe mit 2 Bytes Konstante.
+Initialisiert eine neue Instanz der [`MixrResource`](../)-Klasse. Die PSD-Formatspezifikation enthält folgende Beschreibung: 2 Version (= 1) 2 Monochrome 20 RGB- oder CMYK-Farbe plus Konstante für die Mixer‑Einstellungen. 4 * 2 Bytes Farbe mit 2 Bytes Konstante.
 
 ```csharp
 public MixrResource()
@@ -17,14 +18,14 @@ public MixrResource()
 ### Siehe auch
 
 * class [MixrResource](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../mixrresource/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## MixrResource(byte[]) {#constructor_1}
 
-Initialisiert eine neue Instanz von[`MixrResource`](../) class. PSD-Formatspezifikation enthält folgende Beschreibung: 2 Version ( = 1) 2 Monochrom 20 RGB- oder CMYK-Farbe plus Konstante für die Mischereinstellungen. 4 * 2 Bytes Farbe mit 2 Bytes Konstante.
+Initialisiert eine neue Instanz der [`MixrResource`](../)-Klasse. Die PSD-Formatspezifikation enthält folgende Beschreibung: 2 Version (= 1) 2 Monochrome 20 RGB- oder CMYK-Farbe plus Konstante für die Mixer‑Einstellungen. 4 * 2 Bytes Farbe mit 2 Bytes Konstante.
 
 ```csharp
 public MixrResource(byte[] data)
@@ -32,12 +33,12 @@ public MixrResource(byte[] data)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| data | Byte[] | Die Daten der Ressource. |
+| Daten | Byte[] | Die Daten der Ressource. |
 
 ### Siehe auch
 
 * class [MixrResource](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../mixrresource/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

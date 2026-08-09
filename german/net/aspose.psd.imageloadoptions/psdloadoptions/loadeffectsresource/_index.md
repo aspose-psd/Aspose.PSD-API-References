@@ -1,27 +1,28 @@
 ---
-title: PsdLoadOptions.LoadEffectsResource
-second_title: Aspose.PSD für .NET-API-Referenz
-description: PsdLoadOptions eigendom. Ruft einen Wert ab oder legt einen Wert fest der angibt ob Last wirkt sich auf Ressource aus standardmäßig wird die Ressource nicht geladen. Wenn diese Option aktiviert ist werden nur unterstützte Effekte in das endgültig zusammengeführte Bild gerendert.
+title: "PsdLoadOptions.LoadEffectsResource"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "PsdLoadOptions‑Eigenschaft. Gibt einen Wert zurück oder legt ihn fest, der angibt, ob die Lade‑Effekt‑Ressource standardmäßig nicht geladen wird. Wenn diese Option gesetzt ist, werden nur unterstützte Effekte in das endgültige zusammengeführte Bild gerendert."
 type: docs
-weight: 50
+weight: 60
 url: /de/net/aspose.psd.imageloadoptions/psdloadoptions/loadeffectsresource/
 ---
+{{< psd/tize >}}
 ## PsdLoadOptions.LoadEffectsResource property
 
-Ruft einen Wert ab oder legt einen Wert fest, der angibt, ob [Last wirkt sich auf Ressource] aus (standardmäßig wird die Ressource nicht geladen). Wenn diese Option aktiviert ist, werden nur unterstützte Effekte in das endgültig zusammengeführte Bild gerendert.
+Liest oder setzt einen Wert, der angibt, ob [load effects resource] (standardmäßig wird die Ressource nicht geladen). Wenn diese Option gesetzt ist, werden nur unterstützte Effekte in das endgültige zusammengeführte Bild gerendert.
 
 ```csharp
 public bool LoadEffectsResource { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
-`WAHR` if [Last wirkt sich auf Ressource aus]; ansonsten,`FALSCH` .
+`true` wenn [load effects resource]; andernfalls `false`.
 
 ### Siehe auch
 
 * class [PsdLoadOptions](../)
-* namensraum [Aspose.PSD.ImageLoadOptions](../../psdloadoptions/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageLoadOptions](../../../aspose.psd.imageloadoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

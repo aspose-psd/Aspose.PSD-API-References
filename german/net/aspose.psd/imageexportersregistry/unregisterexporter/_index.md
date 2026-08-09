@@ -1,14 +1,15 @@
 ---
-title: ImageExportersRegistry.UnregisterExporter
-second_title: Aspose.PSD für .NET-API-Referenz
-description: ImageExportersRegistry methode. Hebt die Registrierung des Exporteurs auf.
+title: "ImageExportersRegistry.UnregisterExporter"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "ImageExportersRegistry-Methode. Meldet den Exporter ab."
 type: docs
 weight: 70
 url: /de/net/aspose.psd/imageexportersregistry/unregisterexporter/
 ---
+{{< psd/tize >}}
 ## ImageExportersRegistry.UnregisterExporter method
 
-Hebt die Registrierung des Exporteurs auf.
+Meldet den Exporter ab.
 
 ```csharp
 public static void UnregisterExporter(IImageExporterDescriptor exporterDescriptor)
@@ -16,13 +17,13 @@ public static void UnregisterExporter(IImageExporterDescriptor exporterDescripto
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| exporterDescriptor | IImageExporterDescriptor | Der Exporteur-Deskriptor, dessen Registrierung aufgehoben werden soll. |
+| exporterDescriptor | IImageExporterDescriptor | Der Exporter-Deskriptor zum Abmelden. |
 
 ### Siehe auch
 
 * interface [IImageExporterDescriptor](../../iimageexporterdescriptor/)
 * class [ImageExportersRegistry](../)
-* namensraum [Aspose.PSD](../../imageexportersregistry/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

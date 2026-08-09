@@ -1,28 +1,29 @@
 ---
-title: JpegOptions.RdOptSettings
-second_title: Aspose.PSD für .NET-API-Referenz
-description: JpegOptions eigendom. Ruft die RDOptimierereinstellungen ab oder legt sie fest.
+title: "JpegOptions.RdOptSettings"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "JpegOptions Eigenschaft. Liest oder setzt die RD-Optimierer-Einstellungen"
 type: docs
-weight: 150
+weight: 160
 url: /de/net/aspose.psd.imageoptions/jpegoptions/rdoptsettings/
 ---
+{{< psd/tize >}}
 ## JpegOptions.RdOptSettings property
 
-Ruft die RD-Optimierereinstellungen ab oder legt sie fest.
+Liest oder setzt die RD-Optimizer-Einstellungen.
 
 ```csharp
 public RdOptimizerSettings RdOptSettings { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
-Die RD-Optimierereinstellungen.
+Die RD-Optimierer-Einstellungen.
 
 ### Siehe auch
 
 * class [RdOptimizerSettings](../../rdoptimizersettings/)
 * class [JpegOptions](../)
-* namensraum [Aspose.PSD.ImageOptions](../../jpegoptions/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

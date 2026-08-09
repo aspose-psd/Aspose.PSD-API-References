@@ -1,20 +1,21 @@
 ---
-title: Layer.Flags
-second_title: Aspose.PSD für .NET-API-Referenz
-description: Layer eigendom. Ruft die LayerFlags ab oder setzt sie. Bit 0  Transparenz geschützt Bit 1  sichtbar Bit 2  veraltet Bit 3  1 für Photoshop 5.0 und höher gibt an ob Bit 4 nützliche Informationen enthält Bit 4  Pixeldaten sind für das Erscheinungsbild des Dokuments irrelevant.
+title: "Layer.Flags"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "Layer-Eigenschaft. Gibt oder setzt die Layer-Flags. Bit 0  Transparenz geschützt Bit 1  sichtbar Bit 2  veraltet Bit 3  1 für Photoshop 5.0 und höher gibt an, ob Bit 4 nützliche Informationen enthält Bit 4  Pixeldaten, die für das Aussehen des Dokuments irrelevant sind"
 type: docs
-weight: 140
+weight: 150
 url: /de/net/aspose.psd.fileformats.psd.layers/layer/flags/
 ---
+{{< psd/tize >}}
 ## Layer.Flags property
 
-Ruft die Layer-Flags ab oder setzt sie. Bit 0 = Transparenz geschützt; Bit 1 = sichtbar; Bit 2 = veraltet; Bit 3 = 1 für Photoshop 5.0 und höher, gibt an, ob Bit 4 nützliche Informationen enthält; Bit 4 = Pixeldaten sind für das Erscheinungsbild des Dokuments irrelevant.
+Liefert oder setzt die Ebenen‑Flags. Bit 0 = Transparenz geschützt; Bit 1 = sichtbar; Bit 2 = veraltet; Bit 3 = 1 für Photoshop 5.0 und neuer, gibt an, ob Bit 4 nützliche Informationen enthält; Bit 4 = Pixeldaten, die für das Erscheinungsbild des Dokuments irrelevant sind.
 
 ```csharp
 public LayerFlags Flags { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
 Die Layer-Flags.
 
@@ -22,7 +23,7 @@ Die Layer-Flags.
 
 * enum [LayerFlags](../../layerflags/)
 * class [Layer](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers](../../layer/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

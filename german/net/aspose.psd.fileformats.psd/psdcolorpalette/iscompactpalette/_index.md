@@ -1,31 +1,32 @@
 ---
-title: PsdColorPalette.IsCompactPalette
-second_title: Aspose.PSD für .NET-API-Referenz
-description: PsdColorPalette eigendom. Ruft einen Wert ab der angibt ob die Palette kompakt ist.
+title: "PsdColorPalette.IsCompactPalette"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "PsdColorPalette Eigenschaft. Gibt einen Wert zurück, der angibt, ob die Palette kompakt ist"
 type: docs
 weight: 70
 url: /de/net/aspose.psd.fileformats.psd/psdcolorpalette/iscompactpalette/
 ---
+{{< psd/tize >}}
 ## PsdColorPalette.IsCompactPalette property
 
-Ruft einen Wert ab, der angibt, ob die Palette kompakt ist.
+Gibt einen Wert zurück, der angibt, ob die Palette kompakt ist.
 
 ```csharp
 public bool IsCompactPalette { get; }
 ```
 
-### Eigentumswert
+### Property Value
 
-`WAHR` wenn kompakt es Palette; ansonsten,`FALSCH`.
+`true`, wenn die Palette kompakt ist; andernfalls `false`.
 
-### Bemerkungen
+## Hinweise
 
-Kompakte Palette bedeutet, dass das Bild nach Möglichkeit nur die angegebenen Paletteneinträge enthält, oder anders ausgedrückt, das Bild wird kompakter und nimmt weniger Platz ein; sonst gibt es 2^BitsPerPixel-Einträge und das Bild reserviert mehr Platz für alle möglichen Paletteneinträge . Wenn Sie diesen Wert auf „true“ setzen und Paletteneinträge ändern, kann dies zu Leistungseinbußen führen, da es zu Datenverschiebungen kommen kann. Gehen Sie daher vorsichtig vor.
+Eine kompakte Palette bedeutet, dass das Bild nur die angegebenen Paletteneinträge enthält, falls möglich – mit anderen Worten, das Bild wird kompakter und belegt weniger Speicher; andernfalls gibt es 2^BitsPerPixel Einträge und das Bild reserviert mehr Platz für alle möglichen Paletteneinträge. Das Setzen dieses Wertes auf `true` und das Ändern von Paletteneinträgen kann zu Leistungseinbußen führen, da Datenbewegungen auftreten können, daher sollte es vorsichtig verwendet werden.
 
 ### Siehe auch
 
 * class [PsdColorPalette](../)
-* namensraum [Aspose.PSD.FileFormats.Psd](../../psdcolorpalette/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

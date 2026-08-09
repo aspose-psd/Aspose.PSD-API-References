@@ -1,34 +1,35 @@
 ---
-title: Pen.LineJoin
-second_title: Aspose.PSD für .NET-API-Referenz
-description: Pen eigendom. Ermittelt oder setzt den Verbindungsstil für die Enden zweier aufeinanderfolgender Linien die damit gezeichnet werdenPen .
+title: "Pen.LineJoin"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "Pen-Eigenschaft. Gibt den Verbindungsstil für die Enden zweier aufeinanderfolgender Linien zurück oder legt ihn fest, die mit diesem Pen gezeichnet werden."
 type: docs
 weight: 130
 url: /de/net/aspose.psd/pen/linejoin/
 ---
+{{< psd/tize >}}
 ## Pen.LineJoin property
 
-Ermittelt oder setzt den Verbindungsstil für die Enden zweier aufeinanderfolgender Linien, die damit gezeichnet werden[`Pen`](../) .
+Gibt den Verbindungsstil für die Enden zweier aufeinanderfolgender Linien zurück, die mit diesem [`Pen`](../) gezeichnet werden, oder legt ihn fest.
 
 ```csharp
 public LineJoin LineJoin { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
-A`LineJoin` das den Verbindungsstil für die Enden zweier damit gezeichneter aufeinanderfolgender Linien darstellt[`Pen`](../).
+Ein `LineJoin`, das den Verbindungsstil für die Enden zweier aufeinanderfolgender Linien darstellt, die mit diesem [`Pen`](../) gezeichnet werden.
 
 ### Ausnahmen
 
 | Ausnahme | Bedingung |
 | --- | --- |
-| ArgumentException | Der`LineJoin` Eigenschaft wird auf eine unveränderliche festgelegt[`Pen`](../) , wie die von der zurückgegebenen[`Pen`](../) Klasse. |
+| ArgumentException | Die `LineJoin`-Eigenschaft wird bei einem unveränderlichen [`Pen`](../) festgelegt, wie zum Beispiel bei denen, die von der [`Pen`](../)-Klasse zurückgegeben werden. |
 
 ### Siehe auch
 
 * enum [LineJoin](../../linejoin/)
 * class [Pen](../)
-* namensraum [Aspose.PSD](../../pen/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,28 +1,29 @@
 ---
-title: PlacedResource.Bounds
-second_title: Aspose.PSD für .NET-API-Referenz
-description: PlacedResource eigendom. Ruft die Grenzen der platzierten Ebene in der PSDDatei ab oder legt sie fest.
+title: "PlacedResource.Bounds"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "PlacedResource Eigenschaft. Liest oder setzt die Begrenzungen der platzierten Ebene in der PSD-Datei"
 type: docs
 weight: 30
 url: /de/net/aspose.psd.fileformats.psd.layers.layerresources/placedresource/bounds/
 ---
+{{< psd/tize >}}
 ## PlacedResource.Bounds property
 
-Ruft die Grenzen der platzierten Ebene in der PSD-Datei ab oder legt sie fest.
+Liest oder setzt die Begrenzungen der platzierten Ebene in der PSD‑Datei.
 
 ```csharp
 public Rectangle Bounds { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
-Die Grenzen der platzierten Ebene.
+Die Begrenzungen der platzierten Ebene.
 
 ### Siehe auch
 
 * struct [Rectangle](../../../aspose.psd/rectangle/)
 * class [PlacedResource](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../placedresource/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

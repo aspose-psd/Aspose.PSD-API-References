@@ -1,27 +1,28 @@
 ---
-title: ColorMatrix.Matrix30
-second_title: Aspose.PSD für .NET-API-Referenz
-description: ColorMatrix eigendom. Holt oder setzt das Element in der dritten Zeile und 0 NullSpalte davonColorMatrix .
+title: "ColorMatrix.Matrix30"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "ColorMatrix‑Eigenschaft. Ruft das Element in der dritten Zeile und Spalte 0 (null) dieser ColorMatrix ab oder legt es fest"
 type: docs
 weight: 180
 url: /de/net/aspose.psd/colormatrix/matrix30/
 ---
+{{< psd/tize >}}
 ## ColorMatrix.Matrix30 property
 
-Holt oder setzt das Element in der dritten Zeile und 0 (Null)-Spalte davon[`ColorMatrix`](../) .
+Ruft das Element in der dritten Zeile und Spalte 0 (null) dieses [`ColorMatrix`](../) ab oder legt es fest.
 
 ```csharp
 public float Matrix30 { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
-Das Element in der dritten Zeile und 0-Spalte davon[`ColorMatrix`](../).
+Das Element in der dritten Zeile und Spalte 0 dieses [`ColorMatrix`](../).
 
 ### Siehe auch
 
 * class [ColorMatrix](../)
-* namensraum [Aspose.PSD](../../colormatrix/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

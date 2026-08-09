@@ -1,27 +1,28 @@
 ---
-title: GradientFillSettings.HorizontalOffset
-second_title: Aspose.PSD für .NET-API-Referenz
-description: GradientFillSettings eigendom. Holt oder setzt den horizontalen Versatz in Prozent.
+title: "GradientFillSettings.HorizontalOffset"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "GradientFillSettings-Eigenschaft. Ruft den horizontalen Versatz in Prozent ab oder legt ihn fest."
 type: docs
-weight: 100
+weight: 80
 url: /de/net/aspose.psd.fileformats.psd.layers.fillsettings/gradientfillsettings/horizontaloffset/
 ---
+{{< psd/tize >}}
 ## GradientFillSettings.HorizontalOffset property
 
-Holt oder setzt den horizontalen Versatz in Prozent.
+Liest oder setzt den horizontalen Versatz in Prozent.
 
 ```csharp
 public double HorizontalOffset { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
 Der horizontale Versatz.
 
 ### Siehe auch
 
 * class [GradientFillSettings](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../gradientfillsettings/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../../)
 
 

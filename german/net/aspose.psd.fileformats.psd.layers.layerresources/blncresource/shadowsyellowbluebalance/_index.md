@@ -1,27 +1,28 @@
 ---
-title: BlncResource.ShadowsYellowBlueBalance
-second_title: Aspose.PSD für .NET-API-Referenz
-description: BlncResource eigendom. Ruft die SchattenGelbBlauBalance ab oder legt sie fest.
+title: "BlncResource.ShadowsYellowBlueBalance"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "BlncResource Eigenschaft. Liest oder setzt den Shadows Yellow Blue Balance"
 type: docs
-weight: 140
+weight: 120
 url: /de/net/aspose.psd.fileformats.psd.layers.layerresources/blncresource/shadowsyellowbluebalance/
 ---
+{{< psd/tize >}}
 ## BlncResource.ShadowsYellowBlueBalance property
 
-Ruft die Schatten-Gelb-Blau-Balance ab oder legt sie fest.
+Liest oder setzt das Schatten‑Gelb‑Blau‑Gleichgewicht.
 
 ```csharp
 public short ShadowsYellowBlueBalance { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
-Die Schatten-Gelb-Blau-Balance.
+Der Shadows Yellow Blue Balance.
 
 ### Siehe auch
 
 * class [BlncResource](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../blncresource/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

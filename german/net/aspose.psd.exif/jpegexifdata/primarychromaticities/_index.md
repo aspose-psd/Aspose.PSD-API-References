@@ -1,20 +1,21 @@
 ---
-title: JpegExifData.PrimaryChromaticities
-second_title: Aspose.PSD für .NET-API-Referenz
-description: JpegExifData eigendom. Ruft die Chromatizität der drei Primärfarben des Bildes ab oder legt sie fest.
+title: "JpegExifData.PrimaryChromaticities"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "JpegExifData-Eigenschaft. Liest oder setzt die Chromatizität der drei Primärfarben des Bildes"
 type: docs
 weight: 150
 url: /de/net/aspose.psd.exif/jpegexifdata/primarychromaticities/
 ---
+{{< psd/tize >}}
 ## JpegExifData.PrimaryChromaticities property
 
-Ruft die Chromatizität der drei Primärfarben des Bildes ab oder legt sie fest.
+Liest oder setzt die Chromatik der drei Primärfarben des Bildes.
 
 ```csharp
 public TiffRational[] PrimaryChromaticities { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
 Die Chromatizität der drei Primärfarben des Bildes.
 
@@ -22,7 +23,7 @@ Die Chromatizität der drei Primärfarben des Bildes.
 
 * class [TiffRational](../../../aspose.psd.fileformats.tiff/tiffrational/)
 * class [JpegExifData](../)
-* namensraum [Aspose.PSD.Exif](../../jpegexifdata/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

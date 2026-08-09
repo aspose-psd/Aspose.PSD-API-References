@@ -1,26 +1,27 @@
 ---
-title: DropShadowEffect.Opacity
-second_title: Aspose.PSD für .NET-API-Referenz
-description: DropShadowEffect eigendom. Ruft die Deckkraft ab oder legt sie fest.
+title: "DropShadowEffect.Opacity"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "DropShadowEffect-Eigenschaft. Liest oder setzt die Deckkraft"
 type: docs
 weight: 90
 url: /de/net/aspose.psd.fileformats.psd.layers.layereffects/dropshadoweffect/opacity/
 ---
+{{< psd/tize >}}
 ## DropShadowEffect.Opacity property
 
-Ruft die Deckkraft ab oder legt sie fest.
+Liest oder setzt die Deckkraft.
 
 ```csharp
 public byte Opacity { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
 Die Deckkraft.
 
-### Beispiele
+## Beispiele
 
-Der folgende Code veranschaulicht die Verwendung der Opacity-Eigenschaft von DropShadowEffect.
+Der folgende Code demonstriert die Verwendung der Opacity-Eigenschaft von DropShadowEffect.
 
 ```csharp
 [C#]
@@ -37,11 +38,11 @@ using (PsdImage psdImage = (PsdImage)Image.Load(inputFile, new LoadOptions()))
     dropShadowEffect.Distance = 0;
     dropShadowEffect.Size = 8;
 
-    // Beispiel mit Deckkraft = 20
+    // Beispiel mit Opacity = 20
     dropShadowEffect.Opacity = 20;
     psdImage.Save(outputImage20, new PngOptions());
 
-    // Beispiel mit Deckkraft = 200
+    // Beispiel mit Opacity = 200
     dropShadowEffect.Opacity = 200;
     psdImage.Save(outputImage200, new PngOptions());
 }
@@ -50,7 +51,7 @@ using (PsdImage psdImage = (PsdImage)Image.Load(inputFile, new LoadOptions()))
 ### Siehe auch
 
 * class [DropShadowEffect](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../dropshadoweffect/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../../)
 
 

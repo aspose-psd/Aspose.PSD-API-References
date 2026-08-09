@@ -1,14 +1,15 @@
 ---
-title: NonGenericDictionary.GetEnumerator
-second_title: Aspose.PSD für .NET-API-Referenz
-description: NonGenericDictionary methode. Ruft den Enumerator ab.
+title: "NonGenericDictionary.GetEnumerator"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "NonGenericDictionary-Methode. Gibt den Enumerator zurück"
 type: docs
 weight: 140
 url: /de/net/aspose.psd/nongenericdictionary/getenumerator/
 ---
+{{< psd/tize >}}
 ## NonGenericDictionary.GetEnumerator method
 
-Ruft den Enumerator ab.
+Liest den Enumerator.
 
 ```csharp
 public IDictionaryEnumerator GetEnumerator()
@@ -21,7 +22,7 @@ Der Wörterbuch-Enumerator
 ### Siehe auch
 
 * class [NonGenericDictionary](../)
-* namensraum [Aspose.PSD](../../nongenericdictionary/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

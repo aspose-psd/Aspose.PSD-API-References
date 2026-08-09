@@ -1,27 +1,28 @@
 ---
-title: MultiPageOptions.OutputLayersNames
-second_title: Aspose.PSD für .NET-API-Referenz
-description: MultiPageOptions eigendom. Ruft die Namen der Ausgabeebenen ab oder legt sie fest funktioniert wenn das Exportformat die Benennung von Ebenen unterstützt z. B. für Psd
+title: "MultiPageOptions.OutputLayersNames"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "MultiPageOptions-Eigenschaft. Ruft die Namen der Ausgabelayer ab oder legt sie fest. Funktioniert, wenn das Exportformat die Benennung von Layern unterstützt, zum Beispiel für Psd"
 type: docs
 weight: 50
 url: /de/net/aspose.psd.imageoptions/multipageoptions/outputlayersnames/
 ---
+{{< psd/tize >}}
 ## MultiPageOptions.OutputLayersNames property
 
-Ruft die Namen der Ausgabeebenen ab oder legt sie fest (funktioniert, wenn das Exportformat die Benennung von Ebenen unterstützt, z. B. für Psd)
+Liest oder setzt die Namen der Ausgabeschichten (Funktioniert, wenn das Exportformat die Benennung von Ebenen unterstützt, zum Beispiel für Psd)
 
 ```csharp
 public string[] OutputLayersNames { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
-Die Namen der Ausgabeebenen.
+Die Namen der Ausgabelayer.
 
 ### Siehe auch
 
 * class [MultiPageOptions](../)
-* namensraum [Aspose.PSD.ImageOptions](../../multipageoptions/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

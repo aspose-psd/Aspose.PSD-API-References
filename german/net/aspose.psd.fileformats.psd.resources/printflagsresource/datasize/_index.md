@@ -1,27 +1,28 @@
 ---
-title: PrintFlagsResource.DataSize
-second_title: Aspose.PSD für .NET-API-Referenz
-description: PrintFlagsResource eigendom. Ruft die Ressourcendatengröße in Byte ab.
+title: "PrintFlagsResource.DataSize"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "PrintFlagsResource-Eigenschaft. Gibt die Ressourcendatengröße in Bytes zurück"
 type: docs
 weight: 50
 url: /de/net/aspose.psd.fileformats.psd.resources/printflagsresource/datasize/
 ---
+{{< psd/tize >}}
 ## PrintFlagsResource.DataSize property
 
-Ruft die Ressourcendatengröße in Byte ab.
+Ruft die Größe der Ressourcendaten in Bytes ab.
 
 ```csharp
 public override int DataSize { get; }
 ```
 
-### Eigentumswert
+### Property Value
 
 Die Größe der Ressourcendaten.
 
 ### Siehe auch
 
 * class [PrintFlagsResource](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Resources](../../printflagsresource/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

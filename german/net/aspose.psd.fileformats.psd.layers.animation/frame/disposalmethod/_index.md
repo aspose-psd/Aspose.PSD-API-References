@@ -1,14 +1,15 @@
 ---
-title: Frame.DisposalMethod
-second_title: Aspose.PSD für .NET-API-Referenz
-description: Frame eigendom. Ruft die Entsorgungsmethode des Frames ab oder legt sie fest.
+title: "Frame.DisposalMethod"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "Frame-Eigenschaft. Gibt die Entsorgungsmethode des Frames zurück oder legt sie fest"
 type: docs
 weight: 30
 url: /de/net/aspose.psd.fileformats.psd.layers.animation/frame/disposalmethod/
 ---
+{{< psd/tize >}}
 ## Frame.DisposalMethod property
 
-Ruft die Entsorgungsmethode des Frames ab oder legt sie fest.
+Liest oder setzt die Entsorgungsmethode des Frames.
 
 ```csharp
 public FrameDisposalMethod DisposalMethod { get; set; }
@@ -18,7 +19,7 @@ public FrameDisposalMethod DisposalMethod { get; set; }
 
 * enum [FrameDisposalMethod](../../framedisposalmethod/)
 * class [Frame](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.Animation](../../frame/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.Animation](../../../aspose.psd.fileformats.psd.layers.animation/)
+* assembly [Aspose.PSD](../../../)
 
 

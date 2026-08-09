@@ -1,14 +1,15 @@
 ---
-title: PhotoshopPackage.SetCaptionWriter
-second_title: Aspose.PSD für .NET-API-Referenz
-description: PhotoshopPackage methode. Legt den Untertitelautor fest.
+title: "PhotoshopPackage.SetCaptionWriter"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "PhotoshopPackage-Methode. Legt den Beschriftungs-Writer fest"
 type: docs
 weight: 40
 url: /de/net/aspose.psd.xmp.schemas.photoshop/photoshoppackage/setcaptionwriter/
 ---
+{{< psd/tize >}}
 ## PhotoshopPackage.SetCaptionWriter method
 
-Legt den Untertitelautor fest.
+Setzt den Untertitelautor.
 
 ```csharp
 public void SetCaptionWriter(string captionWriter)
@@ -16,12 +17,12 @@ public void SetCaptionWriter(string captionWriter)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| captionWriter | String | Der Untertitelschreiber. |
+| captionWriter | String | Der Beschriftungs-Writer. |
 
 ### Siehe auch
 
 * class [PhotoshopPackage](../)
-* namensraum [Aspose.PSD.Xmp.Schemas.Photoshop](../../photoshoppackage/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.Photoshop](../../../aspose.psd.xmp.schemas.photoshop/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: ExifData.SubjectArea
-second_title: Aspose.PSD für .NET-API-Referenz
-description: ExifData eigendom. Ruft den Themenbereich ab oder legt ihn fest.
+title: "ExifData.SubjectArea"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "ExifData Eigenschaft. Liest oder setzt den Betreffbereich."
 type: docs
 weight: 990
 url: /de/net/aspose.psd.exif/exifdata/subjectarea/
 ---
+{{< psd/tize >}}
 ## ExifData.SubjectArea property
 
-Ruft den Themenbereich ab oder legt ihn fest.
+Liest oder setzt den Bildausschnitt.
 
 ```csharp
 public ushort[] SubjectArea { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
-Das Fachgebiet.
+Der Betreffbereich.
 
 ### Siehe auch
 
 * class [ExifData](../)
-* namensraum [Aspose.PSD.Exif](../../exifdata/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

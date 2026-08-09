@@ -1,14 +1,15 @@
 ---
-title: Color.op_Equality
-second_title: Aspose.PSD für .NET-API-Referenz
-description: Color methode. Testet ob zwei angegeben sindColorStrukturen sind gleichwertig.
+title: "Color.op_Equality"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "Color-Methode. Prüft, ob zwei angegebene Color-Strukturen gleichwertig sind."
 type: docs
-weight: 1620
+weight: 1640
 url: /de/net/aspose.psd/color/op_equality/
 ---
+{{< psd/tize >}}
 ## Color Equality operator
 
-Testet, ob zwei angegeben sind[`Color`](../)Strukturen sind gleichwertig.
+Prüft, ob zwei angegebene [`Color`](../)-Strukturen gleichwertig sind.
 
 ```csharp
 public static bool operator ==(Color left, Color right)
@@ -16,17 +17,17 @@ public static bool operator ==(Color left, Color right)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| left | Color | Der[`Color`](../) das ist links vom Gleichheitsoperator. |
-| right | Color | Der[`Color`](../) das ist rechts vom Gleichheitsoperator. |
+| left | Color | Das [`Color`](../), das links vom Gleichheitsoperator steht. |
+| right | Color | Das [`Color`](../), das rechts vom Gleichheitsoperator steht. |
 
 ### Rückgabewert
 
-Stimmt, wenn die beiden[`Color`](../) Strukturen sind gleich; andernfalls falsch.
+Wahr, wenn die beiden [`Color`](../)-Strukturen gleich sind; andernfalls falsch.
 
 ### Siehe auch
 
 * struct [Color](../)
-* namensraum [Aspose.PSD](../../color/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

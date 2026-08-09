@@ -1,27 +1,28 @@
 ---
-title: PlacedResource.TransformMatrix
-second_title: Aspose.PSD für .NET-API-Referenz
-description: PlacedResource eigendom. Ruft die Transformationsmatrix der platzierten Ebene in der PSDDatei ab oder legt sie fest.
+title: "PlacedResource.TransformMatrix"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "PlacedResource-Eigenschaft. Liest oder setzt die Transformationsmatrix der platzierten Ebene in der PSD-Datei"
 type: docs
-weight: 170
+weight: 160
 url: /de/net/aspose.psd.fileformats.psd.layers.layerresources/placedresource/transformmatrix/
 ---
+{{< psd/tize >}}
 ## PlacedResource.TransformMatrix property
 
-Ruft die Transformationsmatrix der platzierten Ebene in der PSD-Datei ab oder legt sie fest.
+Liest oder legt die Transformationsmatrix der platzierten Ebene in der PSD-Datei fest.
 
 ```csharp
 public virtual double[] TransformMatrix { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
 Die Transformationsmatrix der platzierten Ebene.
 
 ### Siehe auch
 
 * class [PlacedResource](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../placedresource/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

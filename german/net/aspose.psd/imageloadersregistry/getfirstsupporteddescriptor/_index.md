@@ -1,14 +1,15 @@
 ---
-title: ImageLoadersRegistry.GetFirstSupportedDescriptor
-second_title: Aspose.PSD für .NET-API-Referenz
-description: ImageLoadersRegistry methode. Ruft den ersten gefundenen unterstützten Deskriptor ab der für den angegebenen geeignet iststream und optional dieloadOptions .
+title: "ImageLoadersRegistry.GetFirstSupportedDescriptor"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "ImageLoadersRegistry-Methode. Gibt den zuerst gefundenen unterstützten Deskriptor zurück, der für den angegebenen *stream* und optional die *loadOptions* geeignet ist."
 type: docs
 weight: 40
 url: /de/net/aspose.psd/imageloadersregistry/getfirstsupporteddescriptor/
 ---
+{{< psd/tize >}}
 ## ImageLoadersRegistry.GetFirstSupportedDescriptor method
 
-Ruft den ersten gefundenen unterstützten Deskriptor ab, der für den angegebenen geeignet ist*stream* und optional die*loadOptions* .
+Ruft den zuerst gefundenen unterstützten Deskriptor ab, der für den angegebenen *stream* geeignet ist und optional die *loadOptions*.
 
 ```csharp
 public static IImageLoaderDescriptor GetFirstSupportedDescriptor(Stream stream, 
@@ -17,23 +18,23 @@ public static IImageLoaderDescriptor GetFirstSupportedDescriptor(Stream stream,
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| stream | Stream | Der Strom. |
+| Strom | Stream | Der Stream. |
 | loadOptions | LoadOptions | Die Ladeoptionen. |
 
 ### Rückgabewert
 
-Der Loader-Deskriptor, der die angegebenen unterstützt*stream* Und*loadOptions* oder null, wenn kein solcher Deskriptor gefunden wird.
+Der Loader-Deskriptor, der den angegebenen *stream* und die *loadOptions* unterstützt, oder null, wenn kein solcher Deskriptor gefunden wird.
 
-### Bemerkungen
+## Hinweise
 
-Der erste Loader-Deskriptor ist tatsächlich der letzte registrierte.
+Der erste Loader-Deskriptor ist tatsächlich der zuletzt registrierte.
 
 ### Siehe auch
 
 * interface [IImageLoaderDescriptor](../../iimageloaderdescriptor/)
 * class [LoadOptions](../../loadoptions/)
 * class [ImageLoadersRegistry](../)
-* namensraum [Aspose.PSD](../../imageloadersregistry/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

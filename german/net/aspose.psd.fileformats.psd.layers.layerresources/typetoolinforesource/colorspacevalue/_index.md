@@ -1,27 +1,28 @@
 ---
-title: TypeToolInfoResource.ColorSpaceValue
-second_title: Aspose.PSD für .NET-API-Referenz
-description: TypeToolInfoResource eigendom. Ruft den Farbraumwert ab oder legt ihn fest.
+title: "TypeToolInfoResource.ColorSpaceValue"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "TypeToolInfoResource Eigenschaft. Gibt den Farbraumwert zurück oder setzt ihn"
 type: docs
 weight: 50
 url: /de/net/aspose.psd.fileformats.psd.layers.layerresources/typetoolinforesource/colorspacevalue/
 ---
+{{< psd/tize >}}
 ## TypeToolInfoResource.ColorSpaceValue property
 
-Ruft den Farbraumwert ab oder legt ihn fest.
+Liest oder setzt den Farbwert des Farbraums.
 
 ```csharp
 public short ColorSpaceValue { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
 Der Farbraumwert.
 
 ### Siehe auch
 
 * class [TypeToolInfoResource](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../typetoolinforesource/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: Class ChannelInformation
-second_title: Aspose.PSD für .NET-API-Referenz
-description: Aspose.PSD.FileFormats.Psd.Layers.ChannelInformation klas. Die Kanalinformationen.
+title: "Klasse ChannelInformation"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "Aspose.PSD.FileFormats.Psd.Layers.ChannelInformation Klasse. Die Kanalinformationen"
 type: docs
-weight: 1900
+weight: 2010
 url: /de/net/aspose.psd.fileformats.psd.layers/channelinformation/
 ---
+{{< psd/tize >}}
 ## ChannelInformation class
 
 Die Kanalinformationen.
@@ -14,23 +15,23 @@ Die Kanalinformationen.
 public class ChannelInformation
 ```
 
-## Konstrukteure
+## Konstruktoren
 
 | Name | Beschreibung |
 | --- | --- |
-| [ChannelInformation](channelinformation/)(CompressionMethod, int, int) | Initialisiert eine neue Instanz von`ChannelInformation` Klasse. |
+| [ChannelInformation](channelinformation/)(CompressionMethod, int, int) | Initialisiert eine neue Instanz der `ChannelInformation` Klasse. |
 
 ## Eigenschaften
 
 | Name | Beschreibung |
 | --- | --- |
-| [ChannelID](../../aspose.psd.fileformats.psd.layers/channelinformation/channelid/) { get; set; } | Ruft die Kanal-ID ab oder legt sie fest. |
-| [CompressionMethod](../../aspose.psd.fileformats.psd.layers/channelinformation/compressionmethod/) { get; set; } | Ruft die Komprimierungsmethode ab oder legt sie fest. |
-| [Length](../../aspose.psd.fileformats.psd.layers/channelinformation/length/) { get; } | Ruft die Kanallänge in Bytes ab. |
+| [ChannelID](../../aspose.psd.fileformats.psd.layers/channelinformation/channelid/) { get; set; } | Liest oder setzt die Kanal-ID. |
+| [CompressionMethod](../../aspose.psd.fileformats.psd.layers/channelinformation/compressionmethod/) { get; set; } | Liest oder setzt die Komprimierungsmethode. |
+| [Length](../../aspose.psd.fileformats.psd.layers/channelinformation/length/) { get; } | Liest die Kanal-Länge in Bytes. |
 
 ### Siehe auch
 
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers](../../aspose.psd.fileformats.psd.layers/)
-* Montage [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../)
 
 

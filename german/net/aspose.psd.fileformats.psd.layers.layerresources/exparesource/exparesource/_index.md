@@ -1,14 +1,15 @@
 ---
-title: ExpaResource.ExpaResource
-second_title: Aspose.PSD für .NET-API-Referenz
-description: ExpaResource constructeur. Initialisiert eine neue Instanz vonExpaResource Klasse.
+title: "ExpaResource.ExpaResource"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "ExpaResource-Konstruktor. Initialisiert eine neue Instanz der ExpaResource-Klasse"
 type: docs
 weight: 10
 url: /de/net/aspose.psd.fileformats.psd.layers.layerresources/exparesource/exparesource/
 ---
+{{< psd/tize >}}
 ## ExpaResource() {#constructor}
 
-Initialisiert eine neue Instanz von[`ExpaResource`](../) Klasse.
+Initialisiert eine neue Instanz der [`ExpaResource`](../)-Klasse.
 
 ```csharp
 public ExpaResource()
@@ -17,14 +18,14 @@ public ExpaResource()
 ### Siehe auch
 
 * class [ExpaResource](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../exparesource/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## ExpaResource(float, float, float) {#constructor_2}
 
-Initialisiert eine neue Instanz von[`ExpaResource`](../) Klasse.
+Initialisiert eine neue Instanz der [`ExpaResource`](../)-Klasse.
 
 ```csharp
 public ExpaResource(float exposure, float offset, float gamma)
@@ -32,21 +33,21 @@ public ExpaResource(float exposure, float offset, float gamma)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| exposure | Single | Die Belichtung. |
+| Belichtung | Single | Die Belichtung. |
 | offset | Single | Der Versatz. |
-| gamma | Single | Das Gamma. |
+| Gamma | Single | Das Gamma. |
 
 ### Siehe auch
 
 * class [ExpaResource](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../exparesource/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## ExpaResource(byte[]) {#constructor_1}
 
-Initialisiert eine neue Instanz von[`ExpaResource`](../) Klasse.
+Initialisiert eine neue Instanz der [`ExpaResource`](../)-Klasse.
 
 ```csharp
 public ExpaResource(byte[] bytes)
@@ -54,7 +55,7 @@ public ExpaResource(byte[] bytes)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| bytes | Byte[] | Die Bytes. |
+| Bytes | Byte[] | Die Bytes. |
 
 ### Ausnahmen
 
@@ -65,7 +66,7 @@ public ExpaResource(byte[] bytes)
 ### Siehe auch
 
 * class [ExpaResource](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../exparesource/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

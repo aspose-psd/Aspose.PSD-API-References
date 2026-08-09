@@ -1,27 +1,28 @@
 ---
-title: Hue2Resource.Hue
-second_title: Aspose.PSD für .NET-API-Referenz
-description: Hue2Resource eigendom. Ruft den Hauptfarbton ab oder legt ihn fest.
+title: "Hue2Resource.Hue"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "Hue2Resource-Eigenschaft. Gibt den Master-Farbton zurück oder legt ihn fest"
 type: docs
 weight: 30
 url: /de/net/aspose.psd.fileformats.psd.layers.layerresources/hue2resource/hue/
 ---
+{{< psd/tize >}}
 ## Hue2Resource.Hue property
 
-Ruft den Hauptfarbton ab oder legt ihn fest.
+Liest oder setzt den Master‑Farbton.
 
 ```csharp
 public short Hue { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
-Der Meisterfarbton.
+Der Master-Farbton.
 
 ### Siehe auch
 
 * class [Hue2Resource](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../hue2resource/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

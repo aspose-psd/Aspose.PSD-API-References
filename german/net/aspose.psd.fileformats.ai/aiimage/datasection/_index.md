@@ -1,20 +1,21 @@
 ---
-title: AiImage.DataSection
-second_title: Aspose.PSD für .NET-API-Referenz
-description: AiImage eigendom. Ruft den Datenabschnitt ab.
+title: "AiImage.DataSection"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "AiImage-Eigenschaft. Gibt den Datenabschnitt zurück"
 type: docs
-weight: 30
+weight: 40
 url: /de/net/aspose.psd.fileformats.ai/aiimage/datasection/
 ---
+{{< psd/tize >}}
 ## AiImage.DataSection property
 
-Ruft den Datenabschnitt ab.
+Liest den Datenabschnitt.
 
 ```csharp
 public AiDataSection DataSection { get; }
 ```
 
-### Eigentumswert
+### Property Value
 
 Der Datenabschnitt.
 
@@ -22,7 +23,7 @@ Der Datenabschnitt.
 
 * class [AiDataSection](../../aidatasection/)
 * class [AiImage](../)
-* namensraum [Aspose.PSD.FileFormats.Ai](../../aiimage/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

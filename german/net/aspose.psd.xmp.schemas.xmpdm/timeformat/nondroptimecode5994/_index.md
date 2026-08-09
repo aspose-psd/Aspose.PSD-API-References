@@ -1,27 +1,28 @@
 ---
-title: TimeFormat.NonDropTimecode5994
-second_title: Aspose.PSD für .NET-API-Referenz
-description: TimeFormat eigendom. Ruft den NonDropTimecode 5994 ab.
+title: "TimeFormat.NonDropTimecode5994"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "TimeFormat-Eigenschaft. Gibt den non drop timecode5994 zurück"
 type: docs
 weight: 40
 url: /de/net/aspose.psd.xmp.schemas.xmpdm/timeformat/nondroptimecode5994/
 ---
+{{< psd/tize >}}
 ## TimeFormat.NonDropTimecode5994 property
 
-Ruft den Non-Drop-Timecode 5994 ab.
+Gibt den Non‑Drop‑Zeitcode5994 zurück.
 
 ```csharp
 public static TimeFormat NonDropTimecode5994 { get; }
 ```
 
-### Eigentumswert
+### Property Value
 
-Der Non-Drop-Timecode5994.
+Der non drop timecode5994.
 
 ### Siehe auch
 
 * class [TimeFormat](../)
-* namensraum [Aspose.PSD.Xmp.Schemas.XmpDm](../../timeformat/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpDm](../../../aspose.psd.xmp.schemas.xmpdm/)
+* assembly [Aspose.PSD](../../../)
 
 

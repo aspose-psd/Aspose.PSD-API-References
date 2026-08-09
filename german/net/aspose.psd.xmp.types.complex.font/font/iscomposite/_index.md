@@ -1,27 +1,28 @@
 ---
-title: Font.IsComposite
-second_title: Aspose.PSD für .NET-API-Referenz
-description: Font eigendom. Ruft einen Wert ab oder legt einen Wert fest der angibt ob diese Schriftart zusammengesetzt ist.
+title: "Font.IsComposite"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "Font-Eigenschaft. Ruft einen Wert ab oder legt ihn fest, der angibt, ob diese Schriftart zusammengesetzt ist."
 type: docs
 weight: 80
 url: /de/net/aspose.psd.xmp.types.complex.font/font/iscomposite/
 ---
+{{< psd/tize >}}
 ## Font.IsComposite property
 
-Ruft einen Wert ab oder legt einen Wert fest, der angibt, ob diese Schriftart zusammengesetzt ist.
+Liest oder setzt einen Wert, der angibt, ob diese Schriftart zusammengesetzt ist.
 
 ```csharp
 public bool IsComposite { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
-`WAHR` wenn diese Schriftart zusammengesetzt ist; ansonsten,`FALSCH` .
+`true`, wenn diese Schriftart zusammengesetzt ist; andernfalls `false`.
 
 ### Siehe auch
 
 * class [Font](../)
-* namensraum [Aspose.PSD.Xmp.Types.Complex.Font](../../font/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.Font](../../../aspose.psd.xmp.types.complex.font/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: CaptionDigestResource.MinimalVersion
-second_title: Aspose.PSD für .NET-API-Referenz
-description: CaptionDigestResource eigendom. Ruft die minimal erforderliche PSDVersion ab.
+title: "CaptionDigestResource.MinimalVersion"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "CaptionDigestResource Eigenschaft. Liest die minimal erforderliche PSD-Version"
 type: docs
 weight: 40
 url: /de/net/aspose.psd.fileformats.psd.resources/captiondigestresource/minimalversion/
 ---
+{{< psd/tize >}}
 ## CaptionDigestResource.MinimalVersion property
 
 Ruft die minimal erforderliche PSD-Version ab.
@@ -14,14 +15,14 @@ Ruft die minimal erforderliche PSD-Version ab.
 public override int MinimalVersion { get; }
 ```
 
-### Eigentumswert
+### Property Value
 
 Die minimale PSD-Version.
 
 ### Siehe auch
 
 * class [CaptionDigestResource](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Resources](../../captiondigestresource/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

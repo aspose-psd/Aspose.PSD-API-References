@@ -1,14 +1,15 @@
 ---
-title: Interface IImageCreator
-second_title: Aspose.PSD für .NET-API-Referenz
-description: Aspose.PSD.IImageCreator koppel. Der Bildschöpfer.
+title: "Schnittstelle IImageCreator"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "Aspose.PSD.IImageCreator Schnittstelle. Der Bild-Erzeuger"
 type: docs
-weight: 4400
+weight: 4870
 url: /de/net/aspose.psd/iimagecreator/
 ---
+{{< psd/tize >}}
 ## IImageCreator interface
 
-Der Bildschöpfer.
+Der Bildgenerator.
 
 ```csharp
 public interface IImageCreator
@@ -18,11 +19,11 @@ public interface IImageCreator
 
 | Name | Beschreibung |
 | --- | --- |
-| [Create](../../aspose.psd/iimagecreator/create/)(StreamContainer, ImageOptionsBase, int, int) | Erstellt eine neue Bildinstanz mit*imageOptions* . |
+| [Create](../../aspose.psd/iimagecreator/create/)(StreamContainer, ImageOptionsBase, int, int) | Erstellt eine neue Bildinstanz mit *imageOptions*. |
 
 ### Siehe auch
 
-* namensraum [Aspose.PSD](../../aspose.psd/)
-* Montage [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

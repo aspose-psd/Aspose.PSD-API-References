@@ -1,14 +1,15 @@
 ---
-title: BooleanStructure.BooleanStructure
-second_title: Aspose.PSD für .NET-API-Referenz
-description: BooleanStructure constructeur. Initialisiert eine neue Instanz vonBooleanStructure Klasse.
+title: "BooleanStructure.BooleanStructure"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "BooleanStructure Konstruktor. Initialisiert eine neue Instanz der Klasse BooleanStructure"
 type: docs
 weight: 10
 url: /de/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/booleanstructure/booleanstructure/
 ---
+{{< psd/tize >}}
 ## BooleanStructure constructor
 
-Initialisiert eine neue Instanz von[`BooleanStructure`](../) Klasse.
+Initialisiert eine neue Instanz der [`BooleanStructure`](../) Klasse.
 
 ```csharp
 public BooleanStructure(ClassID keyName)
@@ -22,7 +23,7 @@ public BooleanStructure(ClassID keyName)
 
 * class [ClassID](../../../aspose.psd.fileformats.psd.layers.layerresources/classid/)
 * class [BooleanStructure](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../booleanstructure/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 

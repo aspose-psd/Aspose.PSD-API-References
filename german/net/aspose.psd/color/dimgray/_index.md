@@ -1,11 +1,12 @@
 ---
-title: Color.DimGray
-second_title: Aspose.PSD für .NET-API-Referenz
-description: Color eigendom. Ruft eine systemdefinierte Farbe ab.
+title: "Color.DimGray"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "Color Eigenschaft. Gibt eine systemdefinierte Farbe zurück."
 type: docs
 weight: 410
 url: /de/net/aspose.psd/color/dimgray/
 ---
+{{< psd/tize >}}
 ## Color.DimGray property
 
 Ruft eine systemdefinierte Farbe ab.
@@ -14,14 +15,14 @@ Ruft eine systemdefinierte Farbe ab.
 public static Color DimGray { get; }
 ```
 
-### Eigentumswert
+### Property Value
 
-A[`Color`](../) eine systemdefinierte Farbe darstellt.
+Ein [`Color`](../), das eine systemdefinierte Farbe darstellt.
 
 ### Siehe auch
 
 * struct [Color](../)
-* namensraum [Aspose.PSD](../../color/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

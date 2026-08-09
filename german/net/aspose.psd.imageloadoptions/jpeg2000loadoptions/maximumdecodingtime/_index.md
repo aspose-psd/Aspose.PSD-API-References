@@ -1,27 +1,28 @@
 ---
-title: Jpeg2000LoadOptions.MaximumDecodingTime
-second_title: Aspose.PSD für .NET-API-Referenz
-description: Jpeg2000LoadOptions eigendom. Ermittelt oder setzt die maximale Dekodierungszeit in Sekunden diese Option kann auf sehr langsamen Computern mit Speicher verwendet werden um ein Hängenbleiben des Prozesses bei sehr großen Bildern zu verhindern  Auflösung mehr als 5500x6500 Pixel.
+title: "Jpeg2000LoadOptions.MaximumDecodingTime"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "Jpeg2000LoadOptions-Eigenschaft. Gibt die maximale Dekodierzeit in Sekunden zurück oder legt sie fest; diese Option kann auf sehr langsamen, speicherarmen Maschinen verwendet werden, um ein Hängenbleiben beim Verarbeiten sehr großer Bilder mit einer Auflösung von mehr als 5500x6500 Pixeln zu verhindern."
 type: docs
 weight: 20
 url: /de/net/aspose.psd.imageloadoptions/jpeg2000loadoptions/maximumdecodingtime/
 ---
+{{< psd/tize >}}
 ## Jpeg2000LoadOptions.MaximumDecodingTime property
 
-Ermittelt oder setzt die maximale Dekodierungszeit in Sekunden (diese Option kann auf sehr langsamen Computern mit Speicher verwendet werden, um ein Hängenbleiben des Prozesses bei sehr großen Bildern zu verhindern - Auflösung mehr als 5500x6500 Pixel).
+Liest oder setzt die maximale Dekodierzeit in Sekunden (diese Option kann auf sehr langsamen, speicherarmen Maschinen verwendet werden, um ein Hängenbleiben bei der Verarbeitung sehr großer Bilder zu verhindern – Auflösung von mehr als 5500 x 6500 Pixeln).
 
 ```csharp
 public int MaximumDecodingTime { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
-Die maximale Dekodierungszeit.
+Die maximale Dekodierzeit.
 
 ### Siehe auch
 
 * class [Jpeg2000LoadOptions](../)
-* namensraum [Aspose.PSD.ImageLoadOptions](../../jpeg2000loadoptions/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageLoadOptions](../../../aspose.psd.imageloadoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

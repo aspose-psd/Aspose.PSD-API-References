@@ -1,11 +1,12 @@
 ---
-title: CurvesContinuousManager.AddCurvePoint
-second_title: Aspose.PSD für .NET-API-Referenz
-description: CurvesContinuousManager methode. Fügt den Kurvenpunkt hinzu.
+title: "CurvesContinuousManager.AddCurvePoint"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "CurvesContinuousManager-Methode. Fügt den Punkt der Kurve hinzu"
 type: docs
 weight: 20
 url: /de/net/aspose.psd.fileformats.psd.layers.layerresources/curvescontinuousmanager/addcurvepoint/
 ---
+{{< psd/tize >}}
 ## CurvesContinuousManager.AddCurvePoint method
 
 Fügt den Kurvenpunkt hinzu.
@@ -29,7 +30,7 @@ public void AddCurvePoint(int channelIndex, byte x, byte y)
 ### Siehe auch
 
 * class [CurvesContinuousManager](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../curvescontinuousmanager/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

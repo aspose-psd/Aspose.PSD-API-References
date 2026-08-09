@@ -1,14 +1,15 @@
 ---
-title: GdFlResource.Key
-second_title: Aspose.PSD für .NET-API-Referenz
-description: GdFlResource eigendom. Ruft den LayerRessourcenschlüssel ab.
+title: "GdFlResource.Key"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "GdFlResource Eigenschaft. Gibt den Schlüssel der Ebenenressource zurück"
 type: docs
-weight: 110
+weight: 130
 url: /de/net/aspose.psd.fileformats.psd.layers.layerresources/gdflresource/key/
 ---
+{{< psd/tize >}}
 ## GdFlResource.Key property
 
-Ruft den Layer-Ressourcenschlüssel ab.
+Liest den Schichtressourcen-Schlüssel.
 
 ```csharp
 public override int Key { get; }
@@ -17,7 +18,7 @@ public override int Key { get; }
 ### Siehe auch
 
 * class [GdFlResource](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../gdflresource/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

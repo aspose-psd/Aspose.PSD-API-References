@@ -1,14 +1,15 @@
 ---
-title: IntegerStructure.Key
-second_title: Aspose.PSD für .NET-API-Referenz
-description: IntegerStructure eigendom. Ruft den Schlüssel ab.
+title: "IntegerStructure.Key"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "IntegerStructure-Eigenschaft. Gibt den Schlüssel zurück"
 type: docs
 weight: 20
 url: /de/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/integerstructure/key/
 ---
+{{< psd/tize >}}
 ## IntegerStructure.Key property
 
-Ruft den Schlüssel ab.
+Liest den Schlüssel.
 
 ```csharp
 public override int Key { get; }
@@ -17,7 +18,7 @@ public override int Key { get; }
 ### Siehe auch
 
 * class [IntegerStructure](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../integerstructure/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 

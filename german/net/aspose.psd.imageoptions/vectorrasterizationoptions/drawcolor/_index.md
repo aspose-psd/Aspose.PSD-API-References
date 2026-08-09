@@ -1,14 +1,15 @@
 ---
-title: VectorRasterizationOptions.DrawColor
-second_title: Aspose.PSD für .NET-API-Referenz
-description: VectorRasterizationOptions eigendom. Ruft eine Vordergrundfarbe ab oder legt sie fest.
+title: "VectorRasterizationOptions.DrawColor"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "VectorRasterizationOptions Eigenschaft. Liest oder setzt eine Vordergrundfarbe"
 type: docs
 weight: 50
 url: /de/net/aspose.psd.imageoptions/vectorrasterizationoptions/drawcolor/
 ---
+{{< psd/tize >}}
 ## VectorRasterizationOptions.DrawColor property
 
-Ruft eine Vordergrundfarbe ab oder legt sie fest.
+Liest oder setzt eine Vordergrundfarbe.
 
 ```csharp
 public Color DrawColor { get; set; }
@@ -18,7 +19,7 @@ public Color DrawColor { get; set; }
 
 * struct [Color](../../../aspose.psd/color/)
 * class [VectorRasterizationOptions](../)
-* namensraum [Aspose.PSD.ImageOptions](../../vectorrasterizationoptions/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

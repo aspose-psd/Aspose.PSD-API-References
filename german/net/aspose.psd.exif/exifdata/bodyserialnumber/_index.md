@@ -1,27 +1,28 @@
 ---
-title: ExifData.BodySerialNumber
-second_title: Aspose.PSD für .NET-API-Referenz
-description: ExifData eigendom. Ruft die Seriennummer des Kameragehäuses ab oder legt sie fest.
+title: "ExifData.BodySerialNumber"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "ExifData-Eigenschaft. Liest oder schreibt die Seriennummer des Kameragehäuses"
 type: docs
 weight: 30
 url: /de/net/aspose.psd.exif/exifdata/bodyserialnumber/
 ---
+{{< psd/tize >}}
 ## ExifData.BodySerialNumber property
 
-Ruft die Seriennummer des Kameragehäuses ab oder legt sie fest.
+Liest oder setzt die Seriennummer des Kameragehäuses.
 
 ```csharp
 public string BodySerialNumber { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
-Die Seriennummer des Körpers.
+Die Seriennummer des Gehäuses.
 
 ### Siehe auch
 
 * class [ExifData](../)
-* namensraum [Aspose.PSD.Exif](../../exifdata/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

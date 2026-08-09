@@ -1,11 +1,12 @@
 ---
-title: Class License
-second_title: Aspose.PSD für .NET-API-Referenz
-description: Aspose.PSD.License klas. Stellt Methoden zur Lizenzierung der Komponente bereit.
+title: "Klasse License"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "Aspose.PSD.License Klasse. Stellt Methoden zur Lizenzierung der Komponente bereit."
 type: docs
-weight: 5050
+weight: 5540
 url: /de/net/aspose.psd/license/
 ---
+{{< psd/tize >}}
 ## License class
 
 Stellt Methoden zur Lizenzierung der Komponente bereit.
@@ -14,7 +15,7 @@ Stellt Methoden zur Lizenzierung der Komponente bereit.
 public class License
 ```
 
-## Konstrukteure
+## Konstruktoren
 
 | Name | Beschreibung |
 | --- | --- |
@@ -27,9 +28,9 @@ public class License
 | [SetLicense](../../aspose.psd/license/setlicense/#setlicense)(Stream) | Lizenziert die Komponente. |
 | [SetLicense](../../aspose.psd/license/setlicense/#setlicense_1)(string) | Lizenziert die Komponente. |
 
-### Beispiele
+## Beispiele
 
-In diesem Beispiel wird versucht, eine Lizenzdatei mit dem Namen MyLicense.lic in dem Ordner zu finden, der die Komponente enthält, in dem Ordner, der die aufrufende Assembly enthält, im Ordner des Eintrags Assembly und dann in die eingebetteten Ressourcen der aufrufenden Assembly.
+In diesem Beispiel wird versucht, eine Lizenzdatei namens MyLicense.lic im Ordner zu finden, der die Komponente enthält, im Ordner, der die aufrufende Assembly enthält, im Ordner der Einstieg-Assembly und anschließend in den eingebetteten Ressourcen der aufrufenden Assembly.
 
 ```csharp
 [C#]
@@ -46,7 +47,7 @@ License.SetLicense("MyLicense.lic")
 
 ### Siehe auch
 
-* namensraum [Aspose.PSD](../../aspose.psd/)
-* Montage [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

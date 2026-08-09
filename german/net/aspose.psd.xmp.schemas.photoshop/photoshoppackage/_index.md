@@ -1,63 +1,64 @@
 ---
-title: Class PhotoshopPackage
-second_title: Aspose.PSD für .NET-API-Referenz
-description: Aspose.PSD.Xmp.Schemas.Photoshop.PhotoshopPackage klas. Repräsentiert den Adobe PhotoshopNamespace.
+title: "Klasse PhotoshopPackage"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "Aspose.PSD.Xmp.Schemas.Photoshop.PhotoshopPackage Klasse. Stellt den Adobe Photoshop Namensraum dar"
 type: docs
-weight: 5820
+weight: 6320
 url: /de/net/aspose.psd.xmp.schemas.photoshop/photoshoppackage/
 ---
+{{< psd/tize >}}
 ## PhotoshopPackage class
 
-Repräsentiert den Adobe Photoshop-Namespace.
+Stellt den Adobe Photoshop-Namespace dar.
 
 ```csharp
 public sealed class PhotoshopPackage : XmpPackage
 ```
 
-## Konstrukteure
+## Konstruktoren
 
 | Name | Beschreibung |
 | --- | --- |
-| [PhotoshopPackage](photoshoppackage/)() | Default_Constructor |
+| [PhotoshopPackage](photoshoppackage/)() | Der Standardkonstruktor. |
 
 ## Eigenschaften
 
 | Name | Beschreibung |
 | --- | --- |
-| virtual [Item](../../aspose.psd.xmp/xmppackage/item/) { get; set; } | Ruft ab oder setzt dieObject mit dem angegebenen Schlüssel. |
-| virtual [Keys](../../aspose.psd.xmp/xmppackage/keys/) { get; } | Ruft die Schlüssel im XMP-Paket ab. |
-| [NamespaceUri](../../aspose.psd.xmp/xmppackage/namespaceuri/) { get; } | Ruft den Namespace-URI ab. |
-| [Prefix](../../aspose.psd.xmp/xmppackage/prefix/) { get; } | Ruft das Präfix ab. |
-| [XmlNamespace](../../aspose.psd.xmp/xmppackage/xmlnamespace/) { get; } | Ruft den XML-Namespace ab. |
+| virtual [Item](../../aspose.psd.xmp/xmppackage/item/) { get; set; } | Liest oder setzt das Objekt mit dem angegebenen Schlüssel. |
+| virtual [Keys](../../aspose.psd.xmp/xmppackage/keys/) { get; } | Liest die Schlüssel im XMP-Paket. |
+| [NamespaceUri](../../aspose.psd.xmp/xmppackage/namespaceuri/) { get; } | Liest die Namespace-URI. |
+| [Prefix](../../aspose.psd.xmp/xmppackage/prefix/) { get; } | Liest das Präfix. |
+| [XmlNamespace](../../aspose.psd.xmp/xmppackage/xmlnamespace/) { get; } | Liest den XML-Namespace. |
 
 ## Methoden
 
 | Name | Beschreibung |
 | --- | --- |
-| override [AddValue](../../aspose.psd.xmp.schemas.photoshop/photoshoppackage/addvalue/)(string, string) | Fügt eine String-Eigenschaft hinzu. |
+| override [AddValue](../../aspose.psd.xmp.schemas.photoshop/photoshoppackage/addvalue/)(string, string) | Fügt eine Zeichenketten-Eigenschaft hinzu. |
 | virtual [Clear](../../aspose.psd.xmp/xmppackage/clear/)() | Löscht diese Instanz. |
-| virtual [ContainsKey](../../aspose.psd.xmp/xmppackage/containskey/)(string) | Bestimmt, ob der angegebene Schlüssel Schlüssel enthält. |
+| virtual [ContainsKey](../../aspose.psd.xmp/xmppackage/containskey/)(string) | Bestimmt, ob der angegebene Schlüssel enthalten ist. |
 | [GetEnumerator](../../aspose.psd.xmp/xmppackage/getenumerator/)() | Gibt einen Enumerator zurück, der die Sammlung durchläuft. |
 | virtual [GetXmlValue](../../aspose.psd.xmp/xmppackage/getxmlvalue/)() | Konvertiert den XMP-Wert in die XML-Darstellung. |
 | virtual [Remove](../../aspose.psd.xmp/xmppackage/remove/)(string) | Entfernt den Wert mit dem angegebenen Schlüssel. |
-| [SetAuthorsPosition](../../aspose.psd.xmp.schemas.photoshop/photoshoppackage/setauthorsposition/)(string) | Legt die Position des Autors fest. |
-| [SetCaptionWriter](../../aspose.psd.xmp.schemas.photoshop/photoshoppackage/setcaptionwriter/)(string) | Legt den Untertitelautor fest. |
-| [SetCategory](../../aspose.psd.xmp.schemas.photoshop/photoshoppackage/setcategory/)(string) | Legt die Kategorie fest. |
-| [SetCity](../../aspose.psd.xmp.schemas.photoshop/photoshoppackage/setcity/)(string) | Legt die Stadt fest. |
-| [SetColorMode](../../aspose.psd.xmp.schemas.photoshop/photoshoppackage/setcolormode/)(ColorMode) | Legt den Farbmodus fest. |
-| [SetCountry](../../aspose.psd.xmp.schemas.photoshop/photoshoppackage/setcountry/)(string) | Legt das Land fest. |
-| [SetCreatedDate](../../aspose.psd.xmp.schemas.photoshop/photoshoppackage/setcreateddate/)(DateTime) | Legt das Erstellungsdatum fest. |
-| [SetCredit](../../aspose.psd.xmp.schemas.photoshop/photoshoppackage/setcredit/)(string) | Legt das Guthaben fest. |
-| [SetDocumentAncestors](../../aspose.psd.xmp.schemas.photoshop/photoshoppackage/setdocumentancestors/)(string[]) | Legt die Vorfahren des Dokuments fest. |
-| [SetHeadline](../../aspose.psd.xmp.schemas.photoshop/photoshoppackage/setheadline/)(string) | Legt die Überschrift fest. |
-| [SetHistory](../../aspose.psd.xmp.schemas.photoshop/photoshoppackage/sethistory/)(string) | Legt den Verlauf fest. |
-| [SetIccProfile](../../aspose.psd.xmp.schemas.photoshop/photoshoppackage/seticcprofile/)(string) | Legt das ICC-Profil fest. |
-| [SetInstructions](../../aspose.psd.xmp.schemas.photoshop/photoshoppackage/setinstructions/)(string) | Legt die Anweisungen fest. |
-| [SetSource](../../aspose.psd.xmp.schemas.photoshop/photoshoppackage/setsource/)(string) | Legt die Quelle fest. |
-| [SetState](../../aspose.psd.xmp.schemas.photoshop/photoshoppackage/setstate/)(string) | Legt den Status fest. |
-| [SetSupplementalCategories](../../aspose.psd.xmp.schemas.photoshop/photoshoppackage/setsupplementalcategories/)(string[]) | Legt zusätzliche Kategorien fest. |
-| [SetTransmissionReference](../../aspose.psd.xmp.schemas.photoshop/photoshoppackage/settransmissionreference/)(string) | Setzt die Sendereferenz. |
-| [SetUrgency](../../aspose.psd.xmp.schemas.photoshop/photoshoppackage/seturgency/)(int) | Legt die Dringlichkeit fest. |
+| [SetAuthorsPosition](../../aspose.psd.xmp.schemas.photoshop/photoshoppackage/setauthorsposition/)(string) | Setzt die Position des Autors. |
+| [SetCaptionWriter](../../aspose.psd.xmp.schemas.photoshop/photoshoppackage/setcaptionwriter/)(string) | Setzt den Untertitelautor. |
+| [SetCategory](../../aspose.psd.xmp.schemas.photoshop/photoshoppackage/setcategory/)(string) | Setzt die Kategorie. |
+| [SetCity](../../aspose.psd.xmp.schemas.photoshop/photoshoppackage/setcity/)(string) | Setzt die Stadt. |
+| [SetColorMode](../../aspose.psd.xmp.schemas.photoshop/photoshoppackage/setcolormode/)(ColorMode) | Setzt den Farbmodus. |
+| [SetCountry](../../aspose.psd.xmp.schemas.photoshop/photoshoppackage/setcountry/)(string) | Setzt das Land. |
+| [SetCreatedDate](../../aspose.psd.xmp.schemas.photoshop/photoshoppackage/setcreateddate/)(DateTime) | Setzt das Erstellungsdatum. |
+| [SetCredit](../../aspose.psd.xmp.schemas.photoshop/photoshoppackage/setcredit/)(string) | Setzt das Credit. |
+| [SetDocumentAncestors](../../aspose.psd.xmp.schemas.photoshop/photoshoppackage/setdocumentancestors/)(string[]) | Setzt die Dokumentvorgänger. |
+| [SetHeadline](../../aspose.psd.xmp.schemas.photoshop/photoshoppackage/setheadline/)(string) | Setzt die Überschrift. |
+| [SetHistory](../../aspose.psd.xmp.schemas.photoshop/photoshoppackage/sethistory/)(string) | Setzt die Historie. |
+| [SetIccProfile](../../aspose.psd.xmp.schemas.photoshop/photoshoppackage/seticcprofile/)(string) | Setzt das ICC-Profil. |
+| [SetInstructions](../../aspose.psd.xmp.schemas.photoshop/photoshoppackage/setinstructions/)(string) | Setzt die Anweisungen. |
+| [SetSource](../../aspose.psd.xmp.schemas.photoshop/photoshoppackage/setsource/)(string) | Setzt die Quelle. |
+| [SetState](../../aspose.psd.xmp.schemas.photoshop/photoshoppackage/setstate/)(string) | Setzt den Zustand. |
+| [SetSupplementalCategories](../../aspose.psd.xmp.schemas.photoshop/photoshoppackage/setsupplementalcategories/)(string[]) | Setzt ergänzende Kategorien. |
+| [SetTransmissionReference](../../aspose.psd.xmp.schemas.photoshop/photoshoppackage/settransmissionreference/)(string) | Setzt die Übertragungsreferenz. |
+| [SetUrgency](../../aspose.psd.xmp.schemas.photoshop/photoshoppackage/seturgency/)(int) | Setzt die Dringlichkeit. |
 | virtual [SetValue](../../aspose.psd.xmp/xmppackage/setvalue/)(string, IXmlValue) | Legt den Wert fest. |
 | virtual [SetXmpTypeValue](../../aspose.psd.xmp/xmppackage/setxmptypevalue/)(string, XmpTypeBase) | Legt den XMP-Typwert fest. |
 
@@ -65,13 +66,13 @@ public sealed class PhotoshopPackage : XmpPackage
 
 | Name | Beschreibung |
 | --- | --- |
-| const [UrgencyMax](../../aspose.psd.xmp.schemas.photoshop/photoshoppackage/urgencymax/) | Maximaler Dringlichkeitswert. |
-| const [UrgencyMin](../../aspose.psd.xmp.schemas.photoshop/photoshoppackage/urgencymin/) | Dringlichkeits-Mindestwert. |
+| const [UrgencyMax](../../aspose.psd.xmp.schemas.photoshop/photoshoppackage/urgencymax/) | Maximalwert der Dringlichkeit. |
+| const [UrgencyMin](../../aspose.psd.xmp.schemas.photoshop/photoshoppackage/urgencymin/) | Minimalwert der Dringlichkeit. |
 
 ### Siehe auch
 
 * class [XmpPackage](../../aspose.psd.xmp/xmppackage/)
-* namensraum [Aspose.PSD.Xmp.Schemas.Photoshop](../../aspose.psd.xmp.schemas.photoshop/)
-* Montage [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Xmp.Schemas.Photoshop](../../aspose.psd.xmp.schemas.photoshop/)
+* assembly [Aspose.PSD](../../)
 
 

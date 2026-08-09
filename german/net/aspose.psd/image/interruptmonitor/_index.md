@@ -1,14 +1,15 @@
 ---
-title: Image.InterruptMonitor
-second_title: Aspose.PSD für .NET-API-Referenz
-description: Image eigendom. Holt oder setzt den InterruptMonitor.
+title: "Image.InterruptMonitor"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "Image-Eigenschaft. Liest oder setzt den Interrupt-Monitor"
 type: docs
 weight: 120
 url: /de/net/aspose.psd/image/interruptmonitor/
 ---
+{{< psd/tize >}}
 ## Image.InterruptMonitor property
 
-Holt oder setzt den Interrupt-Monitor.
+Liefert oder setzt den Unterbrechungsmonitor.
 
 ```csharp
 public InterruptMonitor InterruptMonitor { get; set; }
@@ -18,7 +19,7 @@ public InterruptMonitor InterruptMonitor { get; set; }
 
 * class [InterruptMonitor](../../../aspose.psd.multithreading/interruptmonitor/)
 * class [Image](../)
-* namensraum [Aspose.PSD](../../image/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

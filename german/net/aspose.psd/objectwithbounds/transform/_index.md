@@ -1,11 +1,12 @@
 ---
-title: ObjectWithBounds.Transform
-second_title: Aspose.PSD für .NET-API-Referenz
-description: ObjectWithBounds methode. Wendet die angegebene Transformation auf die Form an.
+title: "ObjectWithBounds.Transform"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "ObjectWithBounds-Methode. Wendet die angegebene Transformation auf die Form an."
 type: docs
 weight: 30
 url: /de/net/aspose.psd/objectwithbounds/transform/
 ---
+{{< psd/tize >}}
 ## ObjectWithBounds.Transform method
 
 Wendet die angegebene Transformation auf die Form an.
@@ -16,13 +17,13 @@ public abstract void Transform(Matrix transform)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| transform | Matrix | Die anzuwendende Transformation. |
+| Transformation | Matrix | Die anzuwendende Transformation. |
 
 ### Siehe auch
 
 * class [Matrix](../../matrix/)
 * class [ObjectWithBounds](../)
-* namensraum [Aspose.PSD](../../objectwithbounds/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

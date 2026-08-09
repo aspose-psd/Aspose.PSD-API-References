@@ -1,14 +1,15 @@
 ---
-title: MixrResource.TypeToolKey
-second_title: Aspose.PSD für .NET-API-Referenz
-description: MixrResource veld. Der TypToolInfoSchlüssel.
+title: "MixrResource.TypeToolKey"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "MixrResource-Feld. Der Typwerkzeug‑Info‑Schlüssel."
 type: docs
-weight: 90
+weight: 70
 url: /de/net/aspose.psd.fileformats.psd.layers.layerresources/mixrresource/typetoolkey/
 ---
+{{< psd/tize >}}
 ## MixrResource.TypeToolKey field
 
-Der Typ-Tool-Info-Schlüssel.
+Der Typwerkzeug-Info-Schlüssel.
 
 ```csharp
 public const int TypeToolKey;
@@ -17,7 +18,7 @@ public const int TypeToolKey;
 ### Siehe auch
 
 * class [MixrResource](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../mixrresource/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

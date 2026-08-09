@@ -1,14 +1,15 @@
 ---
-title: TiffStreamReader.ReadSShort
-second_title: Aspose.PSD für .NET-API-Referenz
-description: TiffStreamReader methode. Vorzeichenbehafteter Kurzwert aus dem Stream lesen.
+title: "TiffStreamReader.ReadSShort"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "TiffStreamReader-Methode. Liest einen vorzeichenbehafteten Short-Wert aus dem Stream"
 type: docs
 weight: 170
 url: /de/net/aspose.psd.fileformats.tiff.filemanagement/tiffstreamreader/readsshort/
 ---
+{{< psd/tize >}}
 ## TiffStreamReader.ReadSShort method
 
-Vorzeichenbehafteter Kurzwert aus dem Stream lesen.
+Lese einen vorzeichenbehafteten Short-Wert aus dem Stream.
 
 ```csharp
 public short ReadSShort(long position)
@@ -16,16 +17,16 @@ public short ReadSShort(long position)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| position | Int64 | Die Position, an der gelesen werden soll. |
+| Position | Int64 | Die Position, von der gelesen werden soll. |
 
 ### Rückgabewert
 
-Ein vorzeichenbehafteter kurzer Wert.
+Ein vorzeichenbehafteter Short-Wert.
 
 ### Siehe auch
 
 * class [TiffStreamReader](../)
-* namensraum [Aspose.PSD.FileFormats.Tiff.FileManagement](../../tiffstreamreader/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff.FileManagement](../../../aspose.psd.fileformats.tiff.filemanagement/)
+* assembly [Aspose.PSD](../../../)
 
 

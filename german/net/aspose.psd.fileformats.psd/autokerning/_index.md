@@ -1,14 +1,15 @@
 ---
-title: Enum AutoKerning
-second_title: Aspose.PSD für .NET-API-Referenz
-description: Aspose.PSD.FileFormats.Psd.AutoKerning opsomming. Der automatische KerningModus von Photoshop Abstand zwischen Symbolen.
+title: "Enum AutoKerning"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "Aspose.PSD.FileFormats.Psd.AutoKerning enum. Der Photoshop‑Auto‑Kerning‑Modus, Abstand zwischen Symbolen"
 type: docs
-weight: 1600
+weight: 1610
 url: /de/net/aspose.psd.fileformats.psd/autokerning/
 ---
+{{< psd/tize >}}
 ## AutoKerning enumeration
 
-Der automatische Kerning-Modus von Photoshop (Abstand zwischen Symbolen).
+Der Photoshop-Auto-Kerning-Modus (Abstand zwischen Symbolen).
 
 ```csharp
 public enum AutoKerning
@@ -18,13 +19,13 @@ public enum AutoKerning
 
 | Name | Wert | Beschreibung |
 | --- | --- | --- |
-| Manual | `0` | Manueller Kerning-Wert. |
-| Metric | `1` | Metrics Kerning verwendet Kerning-Paare, die in den meisten Schriftarten (von ihren Designern) enthalten sind. |
-| Optical | `2` | Optisches Kerning passt den Abstand zwischen benachbarten Zeichen basierend auf ihren Formen an. |
+| Manual | `0` | Manueller Kerning‑Wert. |
+| Metric | `1` | Metrisches Kerning verwendet Kernpaare, die bei den meisten Schriftarten (von ihren Designern) enthalten sind. |
+| Optical | `2` | Optisches Kerning passt den Abstand zwischen benachbarten Zeichen basierend auf deren Formen an. |
 
-### Beispiele
+## Beispiele
 
-Der folgende Code demonstriert die Unterstützung der Unterstützung neuer ITextStyle-Eigenschaften.
+Der folgende Code demonstriert die Unterstützung der neuen ITextStyle‑Eigenschaften.
 
 ```csharp
 [C#]
@@ -78,7 +79,7 @@ using (var srcImage = (PsdImage)Image.Load(srcFile))
 
 ### Siehe auch
 
-* namensraum [Aspose.PSD.FileFormats.Psd](../../aspose.psd.fileformats.psd/)
-* Montage [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../)
 
 

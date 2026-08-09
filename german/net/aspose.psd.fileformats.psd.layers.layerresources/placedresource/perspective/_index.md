@@ -1,27 +1,28 @@
 ---
-title: PlacedResource.Perspective
-second_title: Aspose.PSD für .NET-API-Referenz
-description: PlacedResource eigendom. Ruft den Perspektivenwert der platzierten Ebene in der PSDDatei ab oder legt ihn fest.
+title: "PlacedResource.Perspective"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "PlacedResource-Eigenschaft. Liest oder setzt den Perspektivwert der platzierten Ebene in der PSD-Datei"
 type: docs
 weight: 100
 url: /de/net/aspose.psd.fileformats.psd.layers.layerresources/placedresource/perspective/
 ---
+{{< psd/tize >}}
 ## PlacedResource.Perspective property
 
-Ruft den Perspektivenwert der platzierten Ebene in der PSD-Datei ab oder legt ihn fest.
+Liest oder legt den Perspektivwert der platzierten Ebene in der PSD-Datei fest.
 
 ```csharp
 public double Perspective { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
 Der Perspektivwert der platzierten Ebene.
 
 ### Siehe auch
 
 * class [PlacedResource](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../placedresource/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

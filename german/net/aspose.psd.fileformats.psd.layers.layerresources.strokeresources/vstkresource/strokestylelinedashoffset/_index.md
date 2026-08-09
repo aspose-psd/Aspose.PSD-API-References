@@ -1,27 +1,28 @@
 ---
-title: VstkResource.StrokeStyleLineDashOffset
-second_title: Aspose.PSD für .NET-API-Referenz
-description: VstkResource eigendom. Ermittelt oder legt den Offset für Strichstillinien fest.
+title: "VstkResource.StrokeStyleLineDashOffset"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "VstkResource-Eigenschaft. Gibt oder setzt den Versatz der Strichstil-Linienunterbrechung"
 type: docs
-weight: 130
+weight: 110
 url: /de/net/aspose.psd.fileformats.psd.layers.layerresources.strokeresources/vstkresource/strokestylelinedashoffset/
 ---
+{{< psd/tize >}}
 ## VstkResource.StrokeStyleLineDashOffset property
 
-Ermittelt oder legt den Offset für Strichstillinien fest.
+Liest oder schreibt den Strichstil‑Linienstrich‑Versatz.
 
 ```csharp
 public int StrokeStyleLineDashOffset { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
-Der Linienstrich-Offset des Strichstils.
+Der Versatz der Strichstil-Linienunterbrechung.
 
 ### Siehe auch
 
 * class [VstkResource](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.StrokeResources](../../vstkresource/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.StrokeResources](../../../aspose.psd.fileformats.psd.layers.layerresources.strokeresources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: Enum PsdVersion
-second_title: Aspose.PSD für .NET-API-Referenz
-description: Aspose.PSD.FileFormats.Psd.PsdVersion opsomming. Dateiformatversion
+title: "Enum PsdVersion"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "Aspose.PSD.FileFormats.Psd.PsdVersion enum. Dateiformatversion"
 type: docs
-weight: 3600
+weight: 4060
 url: /de/net/aspose.psd.fileformats.psd/psdversion/
 ---
+{{< psd/tize >}}
 ## PsdVersion enumeration
 
 Dateiformatversion
@@ -21,9 +22,9 @@ public enum PsdVersion : byte
 | Psd | `1` | Die Standard-PSD-Version. |
 | Psb | `2` | Die PSB-Version. |
 
-### Beispiele
+## Beispiele
 
-Das folgende Beispiel zeigt die Möglichkeit, PSD-Dateien in PSB und umgekehrt zu konvertieren.
+Das folgende Beispiel zeigt die Möglichkeit, PSD-Dateien in PSB zu konvertieren und umgekehrt.
 
 ```csharp
 [C#]
@@ -47,7 +48,7 @@ using (Image img = Image.Load(sourceFilePathPsd))
 
 ### Siehe auch
 
-* namensraum [Aspose.PSD.FileFormats.Psd](../../aspose.psd.fileformats.psd/)
-* Montage [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: Font.ToString
-second_title: Aspose.PSD für .NET-API-Referenz
-description: Font methode. Gibt eine für Menschen lesbare Zeichenfolgendarstellung davon zurückFont .
+title: "Font.ToString"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "Font-Methode. Gibt eine menschenlesbare Zeichenkettenrepräsentation dieses Fonts zurück"
 type: docs
 weight: 140
 url: /de/net/aspose.psd/font/tostring/
 ---
+{{< psd/tize >}}
 ## Font.ToString method
 
-Gibt eine für Menschen lesbare Zeichenfolgendarstellung davon zurück[`Font`](../) .
+Gibt eine menschenlesbare Zeichenkettenrepräsentation dieses [`Font`](../) zurück.
 
 ```csharp
 public override string ToString()
@@ -16,12 +17,12 @@ public override string ToString()
 
 ### Rückgabewert
 
-Eine Zeichenfolge, die dies darstellt[`Font`](../).
+Eine Zeichenkette, die dieses [`Font`](../) darstellt.
 
 ### Siehe auch
 
 * class [Font](../)
-* namensraum [Aspose.PSD](../../font/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

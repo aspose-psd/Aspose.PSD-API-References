@@ -1,11 +1,12 @@
 ---
-title: Class ProjectLink
-second_title: Aspose.PSD für .NET-API-Referenz
-description: Aspose.PSD.Xmp.Schemas.XmpDm.ProjectLink klas. Stellt den Pfad des Projekts dar.
+title: "Klasse ProjectLink"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "Aspose.PSD.Xmp.Schemas.XmpDm.ProjectLink Klasse. Stellt den Pfad des Projekts dar"
 type: docs
-weight: 5860
+weight: 6360
 url: /de/net/aspose.psd.xmp.schemas.xmpdm/projectlink/
 ---
+{{< psd/tize >}}
 ## ProjectLink class
 
 Stellt den Pfad des Projekts dar.
@@ -14,29 +15,29 @@ Stellt den Pfad des Projekts dar.
 public sealed class ProjectLink : XmpTypeBase
 ```
 
-## Konstrukteure
+## Konstruktoren
 
 | Name | Beschreibung |
 | --- | --- |
-| [ProjectLink](projectlink/)() | Default_Constructor |
+| [ProjectLink](projectlink/)() | Der Standardkonstruktor. |
 
 ## Eigenschaften
 
 | Name | Beschreibung |
 | --- | --- |
-| [Path](../../aspose.psd.xmp.schemas.xmpdm/projectlink/path/) { get; set; } | Ruft den vollständigen Pfad zum Projekt ab oder legt ihn fest. |
-| [Type](../../aspose.psd.xmp.schemas.xmpdm/projectlink/type/) { get; set; } | Ruft den Dateityp ab oder legt ihn fest. |
+| [Path](../../aspose.psd.xmp.schemas.xmpdm/projectlink/path/) { get; set; } | Liest oder setzt den vollständigen Pfad zum Projekt. |
+| [Type](../../aspose.psd.xmp.schemas.xmpdm/projectlink/type/) { get; set; } | Liest oder setzt den Dateityp. |
 
 ## Methoden
 
 | Name | Beschreibung |
 | --- | --- |
-| override [GetXmpRepresentation](../../aspose.psd.xmp.schemas.xmpdm/projectlink/getxmprepresentation/)() | Gibt den in der Zeichenfolge enthaltenen Wert im XMP-Format zurück. |
+| override [GetXmpRepresentation](../../aspose.psd.xmp.schemas.xmpdm/projectlink/getxmprepresentation/)() | Gibt den in einem String enthaltenen Wert im XMP-Format zurück. |
 
 ### Siehe auch
 
 * class [XmpTypeBase](../../aspose.psd.xmp.types/xmptypebase/)
-* namensraum [Aspose.PSD.Xmp.Schemas.XmpDm](../../aspose.psd.xmp.schemas.xmpdm/)
-* Montage [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpDm](../../aspose.psd.xmp.schemas.xmpdm/)
+* assembly [Aspose.PSD](../../)
 
 

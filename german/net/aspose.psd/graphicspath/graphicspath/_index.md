@@ -1,14 +1,15 @@
 ---
-title: GraphicsPath.GraphicsPath
-second_title: Aspose.PSD für .NET-API-Referenz
-description: GraphicsPath constructeur. Initialisiert eine neue Instanz vonGraphicsPath Klasse.
+title: "GraphicsPath.GraphicsPath"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "GraphicsPath-Konstruktor. Initialisiert eine neue Instanz der GraphicsPath-Klasse."
 type: docs
 weight: 10
 url: /de/net/aspose.psd/graphicspath/graphicspath/
 ---
+{{< psd/tize >}}
 ## GraphicsPath() {#constructor}
 
-Initialisiert eine neue Instanz von[`GraphicsPath`](../) Klasse.
+Initialisiert eine neue Instanz der [`GraphicsPath`](../)-Klasse.
 
 ```csharp
 public GraphicsPath()
@@ -17,14 +18,14 @@ public GraphicsPath()
 ### Siehe auch
 
 * class [GraphicsPath](../)
-* namensraum [Aspose.PSD](../../graphicspath/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## GraphicsPath(Figure[]) {#constructor_1}
 
-Initialisiert eine neue Instanz von[`GraphicsPath`](../) Klasse.
+Initialisiert eine neue Instanz der [`GraphicsPath`](../)-Klasse.
 
 ```csharp
 public GraphicsPath(Figure[] figures)
@@ -32,20 +33,20 @@ public GraphicsPath(Figure[] figures)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| figures | Figure[] | Die zu initialisierenden Zahlen. |
+| Figuren | Figure[] | Die Figuren, aus denen initialisiert werden soll. |
 
 ### Siehe auch
 
 * class [Figure](../../figure/)
 * class [GraphicsPath](../)
-* namensraum [Aspose.PSD](../../graphicspath/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## GraphicsPath(Figure[], FillMode) {#constructor_2}
 
-Initialisiert eine neue Instanz von[`GraphicsPath`](../) Klasse.
+Initialisiert eine neue Instanz der [`GraphicsPath`](../)-Klasse.
 
 ```csharp
 public GraphicsPath(Figure[] figures, FillMode fillMode)
@@ -53,7 +54,7 @@ public GraphicsPath(Figure[] figures, FillMode fillMode)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| figures | Figure[] | Die zu initialisierenden Zahlen. |
+| Figuren | Figure[] | Die Figuren, aus denen initialisiert werden soll. |
 | fillMode | FillMode | Der Füllmodus. |
 
 ### Siehe auch
@@ -61,14 +62,14 @@ public GraphicsPath(Figure[] figures, FillMode fillMode)
 * class [Figure](../../figure/)
 * enum [FillMode](../../fillmode/)
 * class [GraphicsPath](../)
-* namensraum [Aspose.PSD](../../graphicspath/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## GraphicsPath(FillMode) {#constructor_3}
 
-Initialisiert eine neue Instanz von[`GraphicsPath`](../) Klasse.
+Initialisiert eine neue Instanz der [`GraphicsPath`](../)-Klasse.
 
 ```csharp
 public GraphicsPath(FillMode fillMode)
@@ -82,7 +83,7 @@ public GraphicsPath(FillMode fillMode)
 
 * enum [FillMode](../../fillmode/)
 * class [GraphicsPath](../)
-* namensraum [Aspose.PSD](../../graphicspath/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

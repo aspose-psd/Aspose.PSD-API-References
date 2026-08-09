@@ -1,14 +1,15 @@
 ---
-title: LzwCompressorException.LzwCompressorException
-second_title: Aspose.PSD für .NET-API-Referenz
-description: LzwCompressorException constructeur. Initialisiert eine neue Instanz vonLzwCompressorException Klasse.
+title: "LzwCompressorException.LzwCompressorException"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "LzwCompressorException-Konstruktor. Initialisiert eine neue Instanz der LzwCompressorException-Klasse"
 type: docs
 weight: 10
 url: /de/net/aspose.psd.coreexceptions.compressors/lzwcompressorexception/lzwcompressorexception/
 ---
+{{< psd/tize >}}
 ## LzwCompressorException(string) {#constructor}
 
-Initialisiert eine neue Instanz von[`LzwCompressorException`](../) Klasse.
+Initialisiert eine neue Instanz der [`LzwCompressorException`](../)-Klasse.
 
 ```csharp
 public LzwCompressorException(string message)
@@ -16,19 +17,19 @@ public LzwCompressorException(string message)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| message | String | Die Ausnahmemeldung. |
+| Nachricht | String | Die Ausnahmemeldung. |
 
 ### Siehe auch
 
 * class [LzwCompressorException](../)
-* namensraum [Aspose.PSD.CoreExceptions.Compressors](../../lzwcompressorexception/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.CoreExceptions.Compressors](../../../aspose.psd.coreexceptions.compressors/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## LzwCompressorException(string, Exception) {#constructor_1}
 
-Initialisiert eine neue Instanz von[`LzwCompressorException`](../) Klasse.
+Initialisiert eine neue Instanz der [`LzwCompressorException`](../)-Klasse.
 
 ```csharp
 public LzwCompressorException(string message, Exception innerException)
@@ -36,13 +37,13 @@ public LzwCompressorException(string message, Exception innerException)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| message | String | Die Ausnahmemeldung. |
-| innerException | Exception | Die innere Ausnahme. |
+| Nachricht | String | Die Ausnahmemeldung. |
+| innerException | Ausnahme | Die innere Ausnahme. |
 
 ### Siehe auch
 
 * class [LzwCompressorException](../)
-* namensraum [Aspose.PSD.CoreExceptions.Compressors](../../lzwcompressorexception/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.CoreExceptions.Compressors](../../../aspose.psd.coreexceptions.compressors/)
+* assembly [Aspose.PSD](../../../)
 
 

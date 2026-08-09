@@ -1,14 +1,15 @@
 ---
-title: Interface IObjectWithSizeF
-second_title: Aspose.PSD für .NET-API-Referenz
-description: Aspose.PSD.Interfaces.IObjectWithSizeF koppel. Repräsentiert ein Objekt mit einer Größe die in reellen Zahlen in Zoll ausgedrückt wird.
+title: "Schnittstelle IObjectWithSizeF"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "Aspose.PSD.Interfaces.IObjectWithSizeF Schnittstelle. Stellt ein Objekt mit Größe dar, das in reellen Zahlen in Zoll ausgedrückt wird."
 type: docs
-weight: 5020
+weight: 5510
 url: /de/net/aspose.psd.interfaces/iobjectwithsizef/
 ---
+{{< psd/tize >}}
 ## IObjectWithSizeF interface
 
-Repräsentiert ein Objekt mit einer Größe, die in reellen Zahlen (in Zoll) ausgedrückt wird.
+Stellt ein Objekt mit Größe dar, das in reellen Zahlen (in Zoll) ausgedrückt wird.
 
 ```csharp
 public interface IObjectWithSizeF
@@ -18,13 +19,13 @@ public interface IObjectWithSizeF
 
 | Name | Beschreibung |
 | --- | --- |
-| [HeightF](../../aspose.psd.interfaces/iobjectwithsizef/heightf/) { get; } | Ruft die Objekthöhe in Zoll ab. |
-| [SizeF](../../aspose.psd.interfaces/iobjectwithsizef/sizef/) { get; } | Ruft die Objektgröße in Zoll ab. |
-| [WidthF](../../aspose.psd.interfaces/iobjectwithsizef/widthf/) { get; } | Ruft die Objektbreite in Zoll ab. |
+| [HeightF](../../aspose.psd.interfaces/iobjectwithsizef/heightf/) { get; } | Ermittelt die Objekt-Höhe in Zoll. |
+| [SizeF](../../aspose.psd.interfaces/iobjectwithsizef/sizef/) { get; } | Ermittelt die Objektgröße in Zoll. |
+| [WidthF](../../aspose.psd.interfaces/iobjectwithsizef/widthf/) { get; } | Ermittelt die Objektbreite in Zoll. |
 
 ### Siehe auch
 
-* namensraum [Aspose.PSD.Interfaces](../../aspose.psd.interfaces/)
-* Montage [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Interfaces](../../aspose.psd.interfaces/)
+* assembly [Aspose.PSD](../../)
 
 

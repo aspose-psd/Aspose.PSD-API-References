@@ -1,20 +1,21 @@
 ---
-title: ILayerEffect.BlendMode
-second_title: Aspose.PSD für .NET-API-Referenz
-description: ILayerEffect eigendom. Ruft den Mischmodus ab oder legt ihn fest.
+title: "ILayerEffect.BlendMode"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "ILayerEffect Eigenschaft. Ruft den Mischmodus ab oder legt ihn fest"
 type: docs
 weight: 10
 url: /de/net/aspose.psd.fileformats.psd.layers.layereffects/ilayereffect/blendmode/
 ---
+{{< psd/tize >}}
 ## ILayerEffect.BlendMode property
 
-Ruft den Mischmodus ab oder legt ihn fest.
+Liest oder setzt den Mischmodus.
 
 ```csharp
 public BlendMode BlendMode { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
 Der Mischmodus.
 
@@ -22,7 +23,7 @@ Der Mischmodus.
 
 * enum [BlendMode](../../../aspose.psd.fileformats.core.blending/blendmode/)
 * interface [ILayerEffect](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../ilayereffect/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../../)
 
 

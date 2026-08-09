@@ -1,27 +1,28 @@
 ---
-title: ThumbnailResource.SizeAfterCompression
-second_title: Aspose.PSD für .NET-API-Referenz
-description: ThumbnailResource eigendom. Ruft die Größe nach der Komprimierung ab oder legt sie fest. Wird zur Konsistenzprüfung verwendet.
+title: "ThumbnailResource.SizeAfterCompression"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "ThumbnailResource-Eigenschaft. Gibt die Größe nach der Komprimierung zurück oder legt sie fest. Wird zur Konsistenzprüfung verwendet."
 type: docs
 weight: 90
 url: /de/net/aspose.psd.fileformats.psd.resources/thumbnailresource/sizeaftercompression/
 ---
+{{< psd/tize >}}
 ## ThumbnailResource.SizeAfterCompression property
 
-Ruft die Größe nach der Komprimierung ab oder legt sie fest. Wird zur Konsistenzprüfung verwendet.
+Liest oder setzt die Größe nach Komprimierung. Wird für Konsistenzprüfungen verwendet.
 
 ```csharp
 public int SizeAfterCompression { get; }
 ```
 
-### Eigentumswert
+### Property Value
 
 Die Größe nach der Komprimierung.
 
 ### Siehe auch
 
 * class [ThumbnailResource](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Resources](../../thumbnailresource/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

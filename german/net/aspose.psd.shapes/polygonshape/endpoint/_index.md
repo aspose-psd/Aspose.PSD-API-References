@@ -1,28 +1,29 @@
 ---
-title: PolygonShape.EndPoint
-second_title: Aspose.PSD für .NET-API-Referenz
-description: PolygonShape eigendom. Ruft den Endformpunkt ab.
+title: "PolygonShape.EndPoint"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "PolygonShape-Eigenschaft. Gibt den Endpunkt der Form zurück"
 type: docs
 weight: 40
 url: /de/net/aspose.psd.shapes/polygonshape/endpoint/
 ---
+{{< psd/tize >}}
 ## PolygonShape.EndPoint property
 
-Ruft den Endformpunkt ab.
+Liest den Endpunkt der Form.
 
 ```csharp
 public virtual PointF EndPoint { get; }
 ```
 
-### Eigentumswert
+### Property Value
 
-Der Endformpunkt.
+Der Endpunkt der Form.
 
 ### Siehe auch
 
 * struct [PointF](../../../aspose.psd/pointf/)
 * class [PolygonShape](../)
-* namensraum [Aspose.PSD.Shapes](../../polygonshape/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 

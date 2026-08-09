@@ -1,20 +1,21 @@
 ---
-title: IShadowEffect.Color
-second_title: Aspose.PSD für .NET-API-Referenz
-description: IShadowEffect eigendom. Ruft die Farbe ab oder legt sie fest.
+title: "IShadowEffect.Color"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "IShadowEffect-Eigenschaft. Gibt die Farbe zurück oder legt sie fest"
 type: docs
 weight: 20
 url: /de/net/aspose.psd.fileformats.psd.layers.layereffects/ishadoweffect/color/
 ---
+{{< psd/tize >}}
 ## IShadowEffect.Color property
 
-Ruft die Farbe ab oder legt sie fest.
+Liest oder setzt die Farbe.
 
 ```csharp
 public Color Color { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
 Die Farbe.
 
@@ -22,7 +23,7 @@ Die Farbe.
 
 * struct [Color](../../../aspose.psd/color/)
 * interface [IShadowEffect](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../ishadoweffect/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../../)
 
 

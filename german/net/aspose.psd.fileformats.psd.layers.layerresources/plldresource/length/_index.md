@@ -1,14 +1,15 @@
 ---
-title: PlLdResource.Length
-second_title: Aspose.PSD für .NET-API-Referenz
-description: PlLdResource eigendom. Ruft die PlLdRessourcenlänge in Bytes ab.
+title: "PlLdResource.Length"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "PlLdResource-Eigenschaft. Gibt die Länge der PlLd-Ressource in Bytes zurück"
 type: docs
-weight: 20
+weight: 10
 url: /de/net/aspose.psd.fileformats.psd.layers.layerresources/plldresource/length/
 ---
+{{< psd/tize >}}
 ## PlLdResource.Length property
 
-Ruft die PlLd-Ressourcenlänge in Bytes ab.
+Ermittelt die Länge der PlLd‑Ressource in Bytes.
 
 ```csharp
 public override int Length { get; }
@@ -17,7 +18,7 @@ public override int Length { get; }
 ### Siehe auch
 
 * class [PlLdResource](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../plldresource/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

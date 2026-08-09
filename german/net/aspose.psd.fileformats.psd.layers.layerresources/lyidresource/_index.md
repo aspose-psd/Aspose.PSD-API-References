@@ -1,11 +1,12 @@
 ---
-title: Class LyidResource
-second_title: Aspose.PSD für .NET-API-Referenz
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.LyidResource klas. Klasse LyidResource.
+title: "Klasse LyidResource"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "Aspose.PSD.FileFormats.Psd.Layers.LayerResources.LyidResource Klasse. Klasse LyidResource"
 type: docs
-weight: 2810
+weight: 3140
 url: /de/net/aspose.psd.fileformats.psd.layers.layerresources/lyidresource/
 ---
+{{< psd/tize >}}
 ## LyidResource class
 
 Klasse LyidResource.
@@ -14,40 +15,40 @@ Klasse LyidResource.
 public class LyidResource : LayerResource
 ```
 
-## Konstrukteure
+## Konstruktoren
 
 | Name | Beschreibung |
 | --- | --- |
-| [LyidResource](lyidresource/#constructor)(byte[]) | Initialisiert eine neue Instanz von`LyidResource` class. Mit benutzerdefiniertem oder unbekanntem Wert |
-| [LyidResource](lyidresource/#constructor_1)(int) | Initialisiert eine neue Instanz von`LyidResource` Klasse. |
+| [LyidResource](lyidresource/#constructor)(byte[]) | Initialisiert eine neue Instanz der `LyidResource` Klasse. Mit benutzerdefiniertem oder unbekanntem Wert |
+| [LyidResource](lyidresource/#constructor_1)(int) | Initialisiert eine neue Instanz der `LyidResource` Klasse. |
 
 ## Eigenschaften
 
 | Name | Beschreibung |
 | --- | --- |
-| override [Key](../../aspose.psd.fileformats.psd.layers.layerresources/lyidresource/key/) { get; } | Ruft den Layer-Ressourcenschlüssel ab. |
-| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/lyidresource/length/) { get; } | Ruft die Layer-Ressourcenlänge in Bytes ab. |
-| override [PsdVersion](../../aspose.psd.fileformats.psd.layers.layerresources/lyidresource/psdversion/) { get; } | Ruft die PSD-Version ab. |
-| override [Signature](../../aspose.psd.fileformats.psd.layers.layerresources/lyidresource/signature/) { get; } | Ruft die Signatur ab. |
-| [Value](../../aspose.psd.fileformats.psd.layers.layerresources/lyidresource/value/) { get; } | Ruft den Wert ab. |
+| [Key](../../aspose.psd.fileformats.psd.layers/layerresource/key/) { get; } | Liest den Schichtressourcen-Schlüssel. |
+| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/lyidresource/length/) { get; } | Liest die Länge der Schichtressource in Bytes. |
+| virtual [PsdVersion](../../aspose.psd.fileformats.psd.layers/layerresource/psdversion/) { get; } | Liest die minimale PSD-Version, die für die Schichtressource erforderlich ist. 0 bedeutet keine Einschränkungen. |
+| virtual [Signature](../../aspose.psd.fileformats.psd.layers/layerresource/signature/) { get; } | Liest die Signatur. |
+| [Value](../../aspose.psd.fileformats.psd.layers.layerresources/lyidresource/value/) { get; } | Liefert den Wert. |
 
 ## Methoden
 
 | Name | Beschreibung |
 | --- | --- |
-| override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/lyidresource/save/)(StreamContainer, int) | Speichert im angegebenen Stream-Container. |
-| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring/)() | Gibt a zurückString die diese Instanz darstellt. |
+| override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/lyidresource/save/)(StreamContainer, int) | Speichert in den angegebenen Stream-Container. |
+| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring/)() | Gibt einen String zurück, der diese Instanz darstellt. |
 
 ## Felder
 
 | Name | Beschreibung |
 | --- | --- |
-| const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/lyidresource/typetoolkey/) | Der Typ-Tool-Info-Schlüssel. |
+| const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/lyidresource/typetoolkey/) | Der Typwerkzeug-Info-Schlüssel. |
 
 ### Siehe auch
 
 * class [LayerResource](../../aspose.psd.fileformats.psd.layers/layerresource/)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
-* Montage [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: FontSettings.SetFontsFolder
-second_title: Aspose.PSD für .NET-API-Referenz
-description: FontSettings methode. Dies ist eine Verknüpfung zuSetFontsFolders zum Festlegen nur eines Schriftartenverzeichnisses. Es werden keine Prüfungen für den Schriftartenordner durchgeführt.
+title: "FontSettings.SetFontsFolder"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "FontSettings-Methode. Dies ist eine Abkürzung zu SetFontsFolders, um nur ein Schriftartenverzeichnis festzulegen. Es werden keine Prüfungen des Schriftartenordners durchgeführt."
 type: docs
-weight: 120
+weight: 140
 url: /de/net/aspose.psd/fontsettings/setfontsfolder/
 ---
+{{< psd/tize >}}
 ## FontSettings.SetFontsFolder method
 
-Dies ist eine Verknüpfung zu[`SetFontsFolders`](../setfontsfolders/) zum Festlegen nur eines Schriftartenverzeichnisses. Es werden keine Prüfungen für den Schriftartenordner durchgeführt.
+Dies ist eine Abkürzung zu [`SetFontsFolders`](../setfontsfolders/), um nur ein Schriftartenverzeichnis festzulegen. Es werden keine Prüfungen des Schriftartenordners durchgeführt.
 
 ```csharp
 public static void SetFontsFolder(string fontFolder)
@@ -21,7 +22,7 @@ public static void SetFontsFolder(string fontFolder)
 ### Siehe auch
 
 * class [FontSettings](../)
-* namensraum [Aspose.PSD](../../fontsettings/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

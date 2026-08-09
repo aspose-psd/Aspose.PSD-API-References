@@ -1,34 +1,35 @@
 ---
-title: Pen.DashStyle
-second_title: Aspose.PSD für .NET-API-Referenz
-description: Pen eigendom. Ermittelt oder setzt den Stil der für damit gezeichnete gestrichelte Linien verwendet wirdPen .
+title: "Pen.DashStyle"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "Pen-Eigenschaft. Ruft den Stil ab, der für gestrichelte Linien verwendet wird, die mit diesem Pen gezeichnet werden, oder legt ihn fest."
 type: docs
 weight: 110
 url: /de/net/aspose.psd/pen/dashstyle/
 ---
+{{< psd/tize >}}
 ## Pen.DashStyle property
 
-Ermittelt oder setzt den Stil, der für damit gezeichnete gestrichelte Linien verwendet wird[`Pen`](../) .
+Ruft den Stil ab, der für gestrichelte Linien verwendet wird, die mit diesem [`Pen`](../) gezeichnet werden, oder legt ihn fest.
 
 ```csharp
 public DashStyle DashStyle { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
-A`DashStyle` das den Stil darstellt, der für damit gezeichnete gestrichelte Linien verwendet wird[`Pen`](../).
+Ein `DashStyle`, der den Stil darstellt, der für gestrichelte Linien verwendet wird, die mit diesem [`Pen`](../) gezeichnet werden.
 
 ### Ausnahmen
 
 | Ausnahme | Bedingung |
 | --- | --- |
-| ArgumentException | Der`DashStyle` Eigenschaft wird auf eine unveränderliche festgelegt[`Pen`](../) , wie die von der zurückgegebenen[`Pen`](../) Klasse. |
+| ArgumentException | Die `DashStyle`-Eigenschaft wird bei einem unveränderlichen [`Pen`](../) festgelegt, wie z. B. bei denen, die von der [`Pen`](../)-Klasse zurückgegeben werden. |
 
 ### Siehe auch
 
 * enum [DashStyle](../../dashstyle/)
 * class [Pen](../)
-* namensraum [Aspose.PSD](../../pen/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

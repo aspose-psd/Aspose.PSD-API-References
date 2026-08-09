@@ -1,27 +1,28 @@
 ---
-title: Rational.Denominator
-second_title: Aspose.PSD für .NET-API-Referenz
-description: Rational eigendom. Holt oder setzt den Nenner.
+title: "Rational.Denominator"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "Rational-Eigenschaft. Liest oder schreibt den Nenner"
 type: docs
 weight: 20
 url: /de/net/aspose.psd.xmp.types.derived/rational/denominator/
 ---
+{{< psd/tize >}}
 ## Rational.Denominator property
 
-Holt oder setzt den Nenner.
+Liest oder setzt den Nenner.
 
 ```csharp
 public int Denominator { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
 Der Nenner.
 
 ### Siehe auch
 
 * class [Rational](../)
-* namensraum [Aspose.PSD.Xmp.Types.Derived](../../rational/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Derived](../../../aspose.psd.xmp.types.derived/)
+* assembly [Aspose.PSD](../../../)
 
 

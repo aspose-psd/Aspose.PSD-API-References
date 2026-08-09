@@ -1,27 +1,28 @@
 ---
-title: ExifData.PixelYDimension
-second_title: Aspose.PSD für .NET-API-Referenz
-description: ExifData eigendom. Ruft die yDimension des Pixels ab oder legt sie fest.
+title: "ExifData.PixelYDimension"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "ExifData-Eigenschaft. Gibt die Pixel‑Y‑Dimension zurück oder legt sie fest"
 type: docs
 weight: 850
 url: /de/net/aspose.psd.exif/exifdata/pixelydimension/
 ---
+{{< psd/tize >}}
 ## ExifData.PixelYDimension property
 
-Ruft die y-Dimension des Pixels ab oder legt sie fest.
+Liest oder setzt die Pixel‑Y‑Dimension.
 
 ```csharp
 public uint PixelYDimension { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
-Die Pixel-y-Dimension.
+Die Pixel‑Y‑Dimension.
 
 ### Siehe auch
 
 * class [ExifData](../)
-* namensraum [Aspose.PSD.Exif](../../exifdata/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

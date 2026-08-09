@@ -1,14 +1,15 @@
 ---
-title: Enum ExifSensingMethod
-second_title: Aspose.PSD für .NET-API-Referenz
-description: Aspose.PSD.Exif.Enums.ExifSensingMethod opsomming. ExifErkennungsmethode enum.
+title: "Enum ExifSensingMethod"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "Aspose.PSD.Exif.Enums.ExifSensingMethod Enum. Exif Erfassungsmethode-Enum"
 type: docs
-weight: 940
+weight: 950
 url: /de/net/aspose.psd.exif.enums/exifsensingmethod/
 ---
+{{< psd/tize >}}
 ## ExifSensingMethod enumeration
 
-Exif-Erkennungsmethode enum.
+exif Erfassungsmethode-Enum.
 
 ```csharp
 public enum ExifSensingMethod
@@ -19,16 +20,16 @@ public enum ExifSensingMethod
 | Name | Wert | Beschreibung |
 | --- | --- | --- |
 | Notdefined | `1` | Nicht definiert. |
-| OneChipColorArea | `2` | Ein Chip-Farbbereich. |
-| TwoChipColorArea | `3` | Farbbereich mit zwei Chips. |
-| ThreeChipColorArea | `4` | Farbbereich mit drei Chips. |
-| Colorsequentialarea | `5` | Farbsequentieller Bereich. |
+| OneChipColorArea | `2` | Ein-Chip-Farbfläche. |
+| TwoChipColorArea | `3` | Zwei-Chip-Farbfläche. |
+| ThreeChipColorArea | `4` | Drei-Chip-Farbfläche. |
+| Colorsequentialarea | `5` | Farbsequenzbereich. |
 | Trilinearsensor | `7` | Trilinearer Sensor. |
-| Colorsequentiallinear | `8` | Farbsequentieller linearer Sensor. |
+| Colorsequentiallinear | `8` | Farbensequenzieller linearer Sensor. |
 
 ### Siehe auch
 
-* namensraum [Aspose.PSD.Exif.Enums](../../aspose.psd.exif.enums/)
-* Montage [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Exif.Enums](../../aspose.psd.exif.enums/)
+* assembly [Aspose.PSD](../../)
 
 

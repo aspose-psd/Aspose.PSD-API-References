@@ -1,27 +1,28 @@
 ---
-title: Color.B
-second_title: Aspose.PSD für .NET-API-Referenz
-description: Color eigendom. Ruft den blauen Komponentenwert davon abColorStruktur.
+title: "Color.B"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "Color Eigenschaft. Gibt den Blaukomponentenwert dieser Color‑Struktur zurück."
 type: docs
 weight: 1470
 url: /de/net/aspose.psd/color/b/
 ---
+{{< psd/tize >}}
 ## Color.B property
 
-Ruft den blauen Komponentenwert davon ab[`Color`](../)Struktur.
+Gibt den Blaukomponentenwert dieser [`Color`](../) Struktur zurück.
 
 ```csharp
 public byte B { get; }
 ```
 
-### Eigentumswert
+### Property Value
 
-Der blaue Komponentenwert davon[`Color`](../).
+Der Blaukomponentenwert dieser [`Color`](../).
 
 ### Siehe auch
 
 * struct [Color](../)
-* namensraum [Aspose.PSD](../../color/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: SplitStreamContainer.CanWrite
-second_title: Aspose.PSD für .NET-API-Referenz
-description: SplitStreamContainer eigendom. Ruft einen Wert ab der angibt ob der Stream das Schreiben unterstützt.
+title: "SplitStreamContainer.CanWrite"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "SplitStreamContainer-Eigenschaft. Gibt einen Wert zurück, der angibt, ob der Stream Schreibvorgänge unterstützt"
 type: docs
 weight: 40
 url: /de/net/aspose.psd/splitstreamcontainer/canwrite/
 ---
+{{< psd/tize >}}
 ## SplitStreamContainer.CanWrite property
 
-Ruft einen Wert ab, der angibt, ob der Stream das Schreiben unterstützt.
+Gibt einen Wert zurück, der angibt, ob der Stream das Schreiben unterstützt.
 
 ```csharp
 public override bool CanWrite { get; }
 ```
 
-### Eigentumswert
+### Property Value
 
-`WAHR` wenn Stream das Schreiben unterstützt; ansonsten,`FALSCH`.
+`true`, wenn der Stream Schreiben unterstützt; andernfalls `false`.
 
 ### Siehe auch
 
 * class [SplitStreamContainer](../)
-* namensraum [Aspose.PSD](../../splitstreamcontainer/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

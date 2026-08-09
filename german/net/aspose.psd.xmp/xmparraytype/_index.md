@@ -1,14 +1,15 @@
 ---
-title: Enum XmpArrayType
-second_title: Aspose.PSD für .NET-API-Referenz
-description: Aspose.PSD.Xmp.XmpArrayType opsomming. Repräsentiert den ArrayTyp inXmpArray .
+title: "Enum XmpArrayType"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "Aspose.PSD.Xmp.XmpArrayType Enum. Stellt den Array‑Typ in XmpArray dar"
 type: docs
-weight: 6230
+weight: 6730
 url: /de/net/aspose.psd.xmp/xmparraytype/
 ---
+{{< psd/tize >}}
 ## XmpArrayType enumeration
 
-Repräsentiert den Array-Typ in[`XmpArray`](../xmparray/) .
+Stellt den Array‑Typ in [`XmpArray`](../xmparray/) dar.
 
 ```csharp
 public enum XmpArrayType
@@ -24,7 +25,7 @@ public enum XmpArrayType
 
 ### Siehe auch
 
-* namensraum [Aspose.PSD.Xmp](../../aspose.psd.xmp/)
-* Montage [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Xmp](../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: Interface IPartialArgb32PixelLoader
-second_title: Aspose.PSD für .NET-API-Referenz
-description: Aspose.PSD.IPartialArgb32PixelLoader koppel. Entspricht den teilweise geladenen 32BitARGBPixeln.
+title: "Schnittstelle IPartialArgb32PixelLoader"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "Aspose.PSD.IPartialArgb32PixelLoader Schnittstelle. Entspricht den teilweise geladenen 32‑Bit‑ARGB‑Pixeln"
 type: docs
-weight: 4510
+weight: 4980
 url: /de/net/aspose.psd/ipartialargb32pixelloader/
 ---
+{{< psd/tize >}}
 ## IPartialArgb32PixelLoader interface
 
-Entspricht den teilweise geladenen 32-Bit-ARGB-Pixeln.
+Entspricht den teilweise geladenen 32‑Bit‑ARGB‑Pixeln.
 
 ```csharp
 public interface IPartialArgb32PixelLoader
@@ -22,7 +23,7 @@ public interface IPartialArgb32PixelLoader
 
 ### Siehe auch
 
-* namensraum [Aspose.PSD](../../aspose.psd/)
-* Montage [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

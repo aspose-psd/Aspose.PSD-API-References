@@ -1,27 +1,28 @@
 ---
-title: CaptionDigestResource.Digest
-second_title: Aspose.PSD für .NET-API-Referenz
-description: CaptionDigestResource eigendom. Ruft den Digest ab oder legt ihn fest.
+title: "CaptionDigestResource.Digest"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "CaptionDigestResource Eigenschaft. Liest oder setzt den Digest"
 type: docs
 weight: 30
 url: /de/net/aspose.psd.fileformats.psd.resources/captiondigestresource/digest/
 ---
+{{< psd/tize >}}
 ## CaptionDigestResource.Digest property
 
-Ruft den Digest ab oder legt ihn fest.
+Liest oder setzt den Digest.
 
 ```csharp
 public byte[] Digest { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
-Die Zusammenfassung.
+Der Digest.
 
 ### Siehe auch
 
 * class [CaptionDigestResource](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Resources](../../captiondigestresource/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

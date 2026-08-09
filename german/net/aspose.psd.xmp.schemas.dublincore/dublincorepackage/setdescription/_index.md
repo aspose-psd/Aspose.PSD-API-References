@@ -1,11 +1,12 @@
 ---
-title: DublinCorePackage.SetDescription
-second_title: Aspose.PSD für .NET-API-Referenz
-description: DublinCorePackage methode. Fügt die Beschreibung hinzu.
+title: "DublinCorePackage.SetDescription"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "DublinCorePackage-Methode. Fügt die Beschreibung hinzu"
 type: docs
 weight: 40
 url: /de/net/aspose.psd.xmp.schemas.dublincore/dublincorepackage/setdescription/
 ---
+{{< psd/tize >}}
 ## SetDescription(string) {#setdescription_1}
 
 Fügt die Beschreibung hinzu.
@@ -21,8 +22,8 @@ public void SetDescription(string desc)
 ### Siehe auch
 
 * class [DublinCorePackage](../)
-* namensraum [Aspose.PSD.Xmp.Schemas.DublinCore](../../dublincorepackage/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.DublinCore](../../../aspose.psd.xmp.schemas.dublincore/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
@@ -42,7 +43,7 @@ public void SetDescription(LangAlt desc)
 
 * class [LangAlt](../../../aspose.psd.xmp/langalt/)
 * class [DublinCorePackage](../)
-* namensraum [Aspose.PSD.Xmp.Schemas.DublinCore](../../dublincorepackage/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.DublinCore](../../../aspose.psd.xmp.schemas.dublincore/)
+* assembly [Aspose.PSD](../../../)
 
 

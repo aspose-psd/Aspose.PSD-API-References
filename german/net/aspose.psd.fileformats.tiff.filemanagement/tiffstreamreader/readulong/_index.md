@@ -1,14 +1,15 @@
 ---
-title: TiffStreamReader.ReadULong
-second_title: Aspose.PSD für .NET-API-Referenz
-description: TiffStreamReader methode. Vorzeichenlosen ganzzahligen Wert aus dem Stream lesen.
+title: "TiffStreamReader.ReadULong"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "TiffStreamReader-Methode. Liest einen vorzeichenlosen Ganzzahlwert aus dem Stream"
 type: docs
 weight: 190
 url: /de/net/aspose.psd.fileformats.tiff.filemanagement/tiffstreamreader/readulong/
 ---
+{{< psd/tize >}}
 ## TiffStreamReader.ReadULong method
 
-Vorzeichenlosen ganzzahligen Wert aus dem Stream lesen.
+Lese einen vorzeichenlosen Ganzzahlwert aus dem Stream.
 
 ```csharp
 public uint ReadULong(long position)
@@ -16,16 +17,16 @@ public uint ReadULong(long position)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| position | Int64 | Die Position, an der gelesen werden soll. |
+| Position | Int64 | Die Position, von der gelesen werden soll. |
 
 ### Rückgabewert
 
-Ein ganzzahliger Wert ohne Vorzeichen.
+Ein vorzeichenloser Ganzzahlwert.
 
 ### Siehe auch
 
 * class [TiffStreamReader](../)
-* namensraum [Aspose.PSD.FileFormats.Tiff.FileManagement](../../tiffstreamreader/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff.FileManagement](../../../aspose.psd.fileformats.tiff.filemanagement/)
+* assembly [Aspose.PSD](../../../)
 
 

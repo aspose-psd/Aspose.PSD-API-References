@@ -1,27 +1,28 @@
 ---
-title: ExifData.FlashpixVersion
-second_title: Aspose.PSD für .NET-API-Referenz
-description: ExifData eigendom. Ruft die FlashPixelversion ab oder legt sie fest.
+title: "ExifData.FlashpixVersion"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "ExifData-Eigenschaft. Liest oder setzt die Flash-Pix-Version."
 type: docs
 weight: 270
 url: /de/net/aspose.psd.exif/exifdata/flashpixversion/
 ---
+{{< psd/tize >}}
 ## ExifData.FlashpixVersion property
 
-Ruft die Flash-Pixelversion ab oder legt sie fest.
+Liest oder setzt die Flash-Pix-Version.
 
 ```csharp
 public byte[] FlashpixVersion { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
 Die Flash-Pix-Version.
 
 ### Siehe auch
 
 * class [ExifData](../)
-* namensraum [Aspose.PSD.Exif](../../exifdata/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

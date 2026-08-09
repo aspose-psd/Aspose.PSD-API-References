@@ -1,27 +1,28 @@
 ---
-title: BilateralSmoothingFilterOptions.SpatialFactor
-second_title: Aspose.PSD für .NET-API-Referenz
-description: BilateralSmoothingFilterOptions eigendom. Ruft den räumlichen Faktor ab oder legt ihn fest.
+title: "BilateralSmoothingFilterOptions.SpatialFactor"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "BilateralSmoothingFilterOptions‑Eigenschaft. Gibt den räumlichen Faktor zurück oder legt ihn fest"
 type: docs
 weight: 50
 url: /de/net/aspose.psd.imagefilters.filteroptions/bilateralsmoothingfilteroptions/spatialfactor/
 ---
+{{< psd/tize >}}
 ## BilateralSmoothingFilterOptions.SpatialFactor property
 
-Ruft den räumlichen Faktor ab oder legt ihn fest.
+Liest oder setzt den räumlichen Faktor.
 
 ```csharp
 public double SpatialFactor { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
 Der räumliche Faktor.
 
 ### Siehe auch
 
 * class [BilateralSmoothingFilterOptions](../)
-* namensraum [Aspose.PSD.ImageFilters.FilterOptions](../../bilateralsmoothingfilteroptions/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageFilters.FilterOptions](../../../aspose.psd.imagefilters.filteroptions/)
+* assembly [Aspose.PSD](../../../)
 
 

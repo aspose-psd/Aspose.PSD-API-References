@@ -1,14 +1,15 @@
 ---
-title: SizeF.ToSize
-second_title: Aspose.PSD für .NET-API-Referenz
-description: SizeF methode. Konvertiert aSizeF zu einemSize Struktur mit abgeschnittenen Größenwerten.
+title: "SizeF.ToSize"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "SizeF-Methode. Konvertiert ein SizeF in eine Size-Struktur mit abgeschnittenen Größenwerten"
 type: docs
 weight: 110
 url: /de/net/aspose.psd/sizef/tosize/
 ---
+{{< psd/tize >}}
 ## SizeF.ToSize method
 
-Konvertiert a[`SizeF`](../) zu einem[`Size`](../../size/) Struktur mit abgeschnittenen Größenwerten.
+Konvertiert ein [`SizeF`](../) in eine [`Size`](../../size/)-Struktur mit abgeschnittenen Größenwerten.
 
 ```csharp
 public Size ToSize()
@@ -16,13 +17,13 @@ public Size ToSize()
 
 ### Rückgabewert
 
-Gibt ein[`Size`](../../size/) Struktur.
+Gibt eine [`Size`](../../size/)-Struktur zurück.
 
 ### Siehe auch
 
 * struct [Size](../../size/)
 * struct [SizeF](../)
-* namensraum [Aspose.PSD](../../sizef/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

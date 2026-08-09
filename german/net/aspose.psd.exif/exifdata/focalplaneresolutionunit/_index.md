@@ -1,28 +1,29 @@
 ---
-title: ExifData.FocalPlaneResolutionUnit
-second_title: Aspose.PSD für .NET-API-Referenz
-description: ExifData eigendom. Ruft die Auflösungseinheit der Fokusebene ab oder legt sie fest.
+title: "ExifData.FocalPlaneResolutionUnit"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "ExifData-Eigenschaft. Liest oder setzt die Einheit der Auflösung der Bildebene"
 type: docs
 weight: 310
 url: /de/net/aspose.psd.exif/exifdata/focalplaneresolutionunit/
 ---
+{{< psd/tize >}}
 ## ExifData.FocalPlaneResolutionUnit property
 
-Ruft die Auflösungseinheit der Fokusebene ab oder legt sie fest.
+Liest oder setzt die Auflösungseinheit der Bildebene.
 
 ```csharp
 public ExifUnit FocalPlaneResolutionUnit { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
-Die Auflösungseinheit der Brennebene.
+Die Einheit der Auflösung der Bildebene.
 
 ### Siehe auch
 
 * enum [ExifUnit](../../../aspose.psd.exif.enums/exifunit/)
 * class [ExifData](../)
-* namensraum [Aspose.PSD.Exif](../../exifdata/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

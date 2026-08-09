@@ -1,14 +1,15 @@
 ---
-title: Enum PlacedLayerType
-second_title: Aspose.PSD für .NET-API-Referenz
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.PlacedLayerType opsomming. Definiert die PlacedLayerTypeEnumeration für die PlLdRessource der platzierten Ebene.
+title: "Enum PlacedLayerType"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "Aspose.PSD.FileFormats.Psd.Layers.LayerResources.PlacedLayerType Enum. Definiert die PlacedLayerType-Aufzählung für die platzierte Ebene PlLd-Ressource"
 type: docs
-weight: 2930
+weight: 3280
 url: /de/net/aspose.psd.fileformats.psd.layers.layerresources/placedlayertype/
 ---
+{{< psd/tize >}}
 ## PlacedLayerType enumeration
 
-Definiert die PlacedLayerType-Enumeration für die PlLd-Ressource der platzierten Ebene.
+Definiert die Aufzählung PlacedLayerType für die platzierte Ebene PlLd-Ressource.
 
 ```csharp
 public enum PlacedLayerType
@@ -18,12 +19,12 @@ public enum PlacedLayerType
 
 | Name | Wert | Beschreibung |
 | --- | --- | --- |
-| Unknown | `0` | Der unbekannte platzierte Layertyp |
-| Vector | `1` | Der vektorplatzierte Layertyp |
-| Raster | `2` | Der im Raster platzierte Layertyp |
+| Unknown | `0` | Der unbekannte platzierte Ebenentyp |
+| Vector | `1` | Der vektorbasierte platzierte Ebenentyp |
+| Raster | `2` | Der rasterbasierte platzierte Ebenentyp |
 | ImageStack | `3` | Der Bildstapel platzierte Ebenentyp |
 
-### Beispiele
+## Beispiele
 
 Der folgende Code demonstriert die Unterstützung der PlLdResource-Ressource.
 
@@ -207,15 +208,16 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
                 resource.Bottom = 248;
                 resource.Right = 145;
 
-                // Seien Sie vorsichtig mit einigen Parametern: Das Bild kann von Adobe® Photoshop® unlesbar werden
+                // Seien Sie vorsichtig mit einigen Parametern: Das Bild könnte für Adobe® Photoshop® unlesbar werden.
                 ////resource.UOrder = 6;
                 ////resource.VOrder = 9;
 
-                // Ändern Sie dies nicht, sonst können Sie die freie Transformation nicht verwenden
-                // oder ändern Sie das unterstreichende Smart-Objekt in den Vektortyp
+                // Ändern Sie dies nicht, sonst
+ Sie können die Freie‑Transformation nicht verwenden.
+                // oder ändern Sie das unterliegende Smart-Objekt in den Vektortyp
                 ////resource.PlacedLayerType = PlacedLayerType.Vector;
 
-                // Es sollte eine gültige PlLdResource mit dieser eindeutigen ID geben
+                // Es sollte ein gültiges PlLdResource mit dieser eindeutigen Id geben
                 ////resource.UniqueId = new Guid("98765432-10fe-cba0-1234-56789abcdef0");
 
                 break;
@@ -230,7 +232,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
 
 ### Siehe auch
 
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
-* Montage [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../)
 
 

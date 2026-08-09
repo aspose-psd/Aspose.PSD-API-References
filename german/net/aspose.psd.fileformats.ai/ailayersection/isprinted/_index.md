@@ -1,26 +1,27 @@
 ---
-title: AiLayerSection.IsPrinted
-second_title: Aspose.PSD für .NET-API-Referenz
-description: AiLayerSection eigendom. Ruft einen Wert ab oder legt einen Wert fest der angibt ob diese Ebene gedruckt wird. Macht das in der Ebene enthaltene Bildmaterial druckbar wenn wahr.
+title: "AiLayerSection.IsPrinted"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "AiLayerSection-Eigenschaft. Gibt einen Wert zurück oder legt ihn fest, der angibt, ob diese Ebene gedruckt wird. Macht das in der Ebene enthaltene Kunstwerk druckbar, wenn wahr."
 type: docs
-weight: 80
+weight: 100
 url: /de/net/aspose.psd.fileformats.ai/ailayersection/isprinted/
 ---
+{{< psd/tize >}}
 ## AiLayerSection.IsPrinted property
 
-Ruft einen Wert ab oder legt einen Wert fest, der angibt, ob diese Ebene gedruckt wird. Macht das in der Ebene enthaltene Bildmaterial druckbar, wenn wahr.
+Liest oder setzt einen Wert, der angibt, ob diese Ebene gedruckt wird. Macht die in der Ebene enthaltenen Grafiken druckbar, wenn wahr.
 
 ```csharp
 public bool IsPrinted { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
-`WAHR` wenn diese Schicht gedruckt wird; ansonsten,`FALSCH` .
+`true`, wenn diese Ebene gedruckt wird; andernfalls `false`.
 
-### Beispiele
+## Beispiele
 
-Das folgende Beispiel zeigt die Unterstützung von Ebenen in Dateien im AI-Format.
+Das folgende Beispiel demonstriert die Unterstützung von Ebenen in AI-Formatdateien.
 
 ```csharp
 [C#]
@@ -73,7 +74,7 @@ using (AiImage image = (AiImage)Image.Load(sourceFilePath))
 ### Siehe auch
 
 * class [AiLayerSection](../)
-* namensraum [Aspose.PSD.FileFormats.Ai](../../ailayersection/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

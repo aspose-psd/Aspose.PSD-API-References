@@ -1,14 +1,15 @@
 ---
-title: TiffStreamWriter.TiffStreamWriter
-second_title: Aspose.PSD für .NET-API-Referenz
-description: TiffStreamWriter constructeur. Initialisiert eine neue Instanz vonTiffStreamWriter Klasse.
+title: "TiffStreamWriter.TiffStreamWriter"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "TiffStreamWriter-Konstruktor. Initialisiert eine neue Instanz der TiffStreamWriter-Klasse"
 type: docs
 weight: 10
 url: /de/net/aspose.psd.fileformats.tiff.filemanagement/tiffstreamwriter/tiffstreamwriter/
 ---
+{{< psd/tize >}}
 ## TiffStreamWriter constructor
 
-Initialisiert eine neue Instanz von[`TiffStreamWriter`](../) Klasse.
+Initialisiert eine neue Instanz der [`TiffStreamWriter`](../)-Klasse.
 
 ```csharp
 public TiffStreamWriter(StreamContainer writer)
@@ -16,13 +17,13 @@ public TiffStreamWriter(StreamContainer writer)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| writer | StreamContainer | Der Streamschreiber. |
+| Schreiber | StreamContainer | Der Stream-Schreiber. |
 
 ### Siehe auch
 
 * class [StreamContainer](../../../aspose.psd/streamcontainer/)
 * class [TiffStreamWriter](../)
-* namensraum [Aspose.PSD.FileFormats.Tiff.FileManagement](../../tiffstreamwriter/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff.FileManagement](../../../aspose.psd.fileformats.tiff.filemanagement/)
+* assembly [Aspose.PSD](../../../)
 
 

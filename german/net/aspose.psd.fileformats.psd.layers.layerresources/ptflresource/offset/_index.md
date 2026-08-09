@@ -1,26 +1,27 @@
 ---
-title: PtFlResource.Offset
-second_title: Aspose.PSD für .NET-API-Referenz
-description: PtFlResource eigendom. Ruft den Offset ab oder legt ihn fest.
+title: "PtFlResource.Offset"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "PtFlResource-Eigenschaft. Gibt den Offset zurück oder legt ihn fest"
 type: docs
 weight: 60
 url: /de/net/aspose.psd.fileformats.psd.layers.layerresources/ptflresource/offset/
 ---
+{{< psd/tize >}}
 ## PtFlResource.Offset property
 
-Ruft den Offset ab oder legt ihn fest.
+Liest oder setzt den Versatz.
 
 ```csharp
 public Point Offset { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
 Der Versatz.
 
-### Beispiele
+## Beispiele
 
-Das folgende Beispiel demonstriert die Unterstützung des Ladens und Bearbeitens einer PtFlResource-Ressource.
+Das folgende Beispiel demonstriert die Unterstützung des Ladens und Bearbeitens einer PtFlResource‑Ressource.
 
 ```csharp
 [C#]
@@ -41,7 +42,7 @@ using (im)
             {
                 if (res is PtFlResource)
                 {
-                    // Lektüre
+                    // Lesen
                     PtFlResource resource = (PtFlResource)res;
                     if (
                         resource.Offset.X != -46 ||
@@ -90,7 +91,7 @@ using (im)
 
 * struct [Point](../../../aspose.psd/point/)
 * class [PtFlResource](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../ptflresource/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

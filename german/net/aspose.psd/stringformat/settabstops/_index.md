@@ -1,14 +1,15 @@
 ---
-title: StringFormat.SetTabStops
-second_title: Aspose.PSD für .NET-API-Referenz
-description: StringFormat methode. Setzt dafür TabstoppsStringFormat Objekt.
+title: "StringFormat.SetTabStops"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "StringFormat-Methode. Legt Tabulatoren für dieses StringFormat-Objekt fest."
 type: docs
-weight: 140
+weight: 170
 url: /de/net/aspose.psd/stringformat/settabstops/
 ---
+{{< psd/tize >}}
 ## StringFormat.SetTabStops method
 
-Setzt dafür Tabstopps[`StringFormat`](../) Objekt.
+Legt Tabulatoren für dieses [`StringFormat`](../)-Objekt fest.
 
 ```csharp
 public void SetTabStops(float firstTabOffset, float[] tabStops)
@@ -16,13 +17,13 @@ public void SetTabStops(float firstTabOffset, float[] tabStops)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| firstTabOffset | Single | Die Anzahl der Leerzeichen zwischen dem Anfang einer Textzeile und dem ersten Tabstopp. |
-| tabStops | Single[] | Ein Array von Abständen zwischen Tabstopps in den Einheiten, die von angegeben werden[`PageUnit`](../../graphics/pageunit/) Eigentum. |
+| firstTabOffset | Single | Die Anzahl der Leerzeichen zwischen dem Beginn einer Textzeile und dem ersten Tabulator. |
+| tabStops | Single[] | Ein Array von Abständen zwischen Tabulatoren in den durch die [`PageUnit`](../../graphics/pageunit/)-Eigenschaft angegebenen Einheiten. |
 
 ### Siehe auch
 
 * class [StringFormat](../)
-* namensraum [Aspose.PSD](../../stringformat/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

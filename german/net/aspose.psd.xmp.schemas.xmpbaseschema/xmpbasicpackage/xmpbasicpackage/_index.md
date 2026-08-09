@@ -1,14 +1,15 @@
 ---
-title: XmpBasicPackage.XmpBasicPackage
-second_title: Aspose.PSD für .NET-API-Referenz
-description: XmpBasicPackage constructeur. Initialisiert eine neue Instanz vonXmpBasicPackage Klasse.
+title: "XmpBasicPackage.XmpBasicPackage"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "XmpBasicPackage-Konstruktor. Initialisiert eine neue Instanz der XmpBasicPackage-Klasse."
 type: docs
 weight: 10
 url: /de/net/aspose.psd.xmp.schemas.xmpbaseschema/xmpbasicpackage/xmpbasicpackage/
 ---
+{{< psd/tize >}}
 ## XmpBasicPackage() {#constructor}
 
-Initialisiert eine neue Instanz von[`XmpBasicPackage`](../) Klasse.
+Initialisiert eine neue Instanz der [`XmpBasicPackage`](../)-Klasse.
 
 ```csharp
 public XmpBasicPackage()
@@ -17,14 +18,14 @@ public XmpBasicPackage()
 ### Siehe auch
 
 * class [XmpBasicPackage](../)
-* namensraum [Aspose.PSD.Xmp.Schemas.XmpBaseSchema](../../xmpbasicpackage/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpBaseSchema](../../../aspose.psd.xmp.schemas.xmpbaseschema/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## XmpBasicPackage(string, string) {#constructor_1}
 
-Initialisiert eine neue Instanz von[`XmpBasicPackage`](../) Klasse.
+Initialisiert eine neue Instanz der [`XmpBasicPackage`](../)-Klasse.
 
 ```csharp
 public XmpBasicPackage(string prefix, string namespaceUri)
@@ -38,7 +39,7 @@ public XmpBasicPackage(string prefix, string namespaceUri)
 ### Siehe auch
 
 * class [XmpBasicPackage](../)
-* namensraum [Aspose.PSD.Xmp.Schemas.XmpBaseSchema](../../xmpbasicpackage/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpBaseSchema](../../../aspose.psd.xmp.schemas.xmpbaseschema/)
+* assembly [Aspose.PSD](../../../)
 
 

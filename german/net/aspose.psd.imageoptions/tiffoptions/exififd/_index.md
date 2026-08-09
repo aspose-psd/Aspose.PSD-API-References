@@ -1,20 +1,21 @@
 ---
-title: TiffOptions.ExifIfd
-second_title: Aspose.PSD für .NET-API-Referenz
-description: TiffOptions eigendom. Holt oder setzt den Zeiger auf EXIF IFD.
+title: "TiffOptions.ExifIfd"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "TiffOptions property. Gibt den Zeiger auf EXIF IFD zurück oder legt ihn fest"
 type: docs
-weight: 130
+weight: 140
 url: /de/net/aspose.psd.imageoptions/tiffoptions/exififd/
 ---
+{{< psd/tize >}}
 ## TiffOptions.ExifIfd property
 
-Holt oder setzt den Zeiger auf EXIF IFD.
+Liest oder setzt den Zeiger auf EXIF IFD.
 
 ```csharp
 public TiffExifIfd ExifIfd { get; }
 ```
 
-### Eigentumswert
+### Property Value
 
 Der Zeiger auf EXIF IFD.
 
@@ -22,7 +23,7 @@ Der Zeiger auf EXIF IFD.
 
 * class [TiffExifIfd](../../../aspose.psd.fileformats.tiff/tiffexififd/)
 * class [TiffOptions](../)
-* namensraum [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: SizeF.op_Equality
-second_title: Aspose.PSD für .NET-API-Referenz
-description: SizeF methode. Testet ob zweiSizeF Strukturen sind gleich.
+title: "SizeF.op_Equality"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "SizeF-Methode. Prüft, ob zwei SizeF-Strukturen gleich sind"
 type: docs
 weight: 140
 url: /de/net/aspose.psd/sizef/op_equality/
 ---
+{{< psd/tize >}}
 ## SizeF Equality operator
 
-Testet ob zwei[`SizeF`](../) Strukturen sind gleich.
+Prüft, ob zwei [`SizeF`](../)-Strukturen gleich sind.
 
 ```csharp
 public static bool operator ==(SizeF size1, SizeF size2)
@@ -16,17 +17,17 @@ public static bool operator ==(SizeF size1, SizeF size2)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| size1 | SizeF | Der[`SizeF`](../) Struktur auf der linken Seite des Gleichheitsoperators. |
-| size2 | SizeF | Der[`SizeF`](../) Struktur rechts vom Gleichheitsoperator. |
+| size1 | SizeF | Die [`SizeF`](../)-Struktur auf der linken Seite des Gleichheitsoperators. |
+| size2 | SizeF | Die [`SizeF`](../)-Struktur auf der rechten Seite des Gleichheitsoperators. |
 
 ### Rückgabewert
 
-Dieser Operator gibt true zurück, wenn*size1* Und*size2* gleiche Breite und Höhe haben; andernfalls falsch.
+Dieser Operator gibt true zurück, wenn *size1* und *size2* gleiche Breite und Höhe haben; andernfalls false.
 
 ### Siehe auch
 
 * struct [SizeF](../)
-* namensraum [Aspose.PSD](../../sizef/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

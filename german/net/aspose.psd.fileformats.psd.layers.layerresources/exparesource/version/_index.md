@@ -1,27 +1,28 @@
 ---
-title: ExpaResource.Version
-second_title: Aspose.PSD für .NET-API-Referenz
-description: ExpaResource eigendom. Ruft die Version ab. Standard ist 1
+title: "ExpaResource.Version"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "ExpaResource-Eigenschaft. Gibt die Version zurück. Standard ist 1"
 type: docs
-weight: 80
+weight: 60
 url: /de/net/aspose.psd.fileformats.psd.layers.layerresources/exparesource/version/
 ---
+{{< psd/tize >}}
 ## ExpaResource.Version property
 
-Ruft die Version ab. Standard ist 1
+Liest die Version. Standard ist 1.
 
 ```csharp
 public short Version { get; }
 ```
 
-### Eigentumswert
+### Property Value
 
 Die Version.
 
 ### Siehe auch
 
 * class [ExpaResource](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../exparesource/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

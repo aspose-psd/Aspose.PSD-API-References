@@ -1,27 +1,28 @@
 ---
-title: Matrix.Elements
-second_title: Aspose.PSD für .NET-API-Referenz
-description: Matrix eigendom. Ruft ein Array von Fließkommawerten ab das die Elemente davon darstelltMatrix .
+title: "Matrix.Elements"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "Matrix-Eigenschaft. Gibt ein Array von Fließkommawerten zurück, das die Elemente dieser Matrix darstellt"
 type: docs
 weight: 20
 url: /de/net/aspose.psd/matrix/elements/
 ---
+{{< psd/tize >}}
 ## Matrix.Elements property
 
-Ruft ein Array von Fließkommawerten ab, das die Elemente davon darstellt[`Matrix`](../) .
+Gibt ein Array von Fließkommawerten zurück, das die Elemente dieser [`Matrix`](../) darstellt.
 
 ```csharp
 public float[] Elements { get; }
 ```
 
-### Eigentumswert
+### Property Value
 
-Ein Array von Gleitkommawerten, das die Elemente davon darstellt[`Matrix`](../).
+Ein Array von Fließkommawerten, das die Elemente dieser [`Matrix`](../) darstellt.
 
 ### Siehe auch
 
 * class [Matrix](../)
-* namensraum [Aspose.PSD](../../matrix/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

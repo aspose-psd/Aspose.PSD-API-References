@@ -1,27 +1,28 @@
 ---
-title: ThumbnailResource.Width
-second_title: Aspose.PSD für .NET-API-Referenz
-description: ThumbnailResource eigendom. Ruft die Breite der Miniaturansicht in Pixel ab oder legt sie fest.
+title: "ThumbnailResource.Width"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "ThumbnailResource-Eigenschaft. Gibt die Breite des Vorschaubildes in Pixeln zurück oder legt sie fest"
 type: docs
 weight: 130
 url: /de/net/aspose.psd.fileformats.psd.resources/thumbnailresource/width/
 ---
+{{< psd/tize >}}
 ## ThumbnailResource.Width property
 
-Ruft die Breite der Miniaturansicht in Pixel ab oder legt sie fest.
+Liest oder setzt die Breite des Thumbnails in Pixeln.
 
 ```csharp
 public int Width { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
-Die Thumbnail-Breite.
+Die Breite des Vorschaubildes.
 
 ### Siehe auch
 
 * class [ThumbnailResource](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Resources](../../thumbnailresource/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

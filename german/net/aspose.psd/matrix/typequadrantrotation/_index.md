@@ -1,14 +1,15 @@
 ---
-title: Matrix.TypeQuadrantRotation
-second_title: Aspose.PSD für .NET-API-Referenz
-description: Matrix veld. Dieses FlagBit zeigt an dass die durch dieses Objekt definierte Transformation eine Quadrantendrehung um ein Vielfaches von 90 Grad in zusätzlich zu den durch andere FlagBits angezeigten Konvertierungen durchführt. Eine Drehung ändert die Winkel von Vektoren unabhängig von der ursprünglichen Richtung um denselben Betrag des Vektors und ohne die Länge des Vektors zu ändern. Dieses FlagBit schließt sich gegenseitig mit dem TypeGeneralRotationFlag aus.
+title: "Matrix.TypeQuadrantRotation"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "Matrix-Feld. Dieses Flag‑Bit gibt an, dass die von diesem Objekt definierte Transformation eine Quadrant‑Rotation um ein Vielfaches von 90 Grad zusätzlich zu den von anderen Flag‑Bits angegebenen Umwandlungen durchführt. Eine Rotation ändert die Winkel von Vektoren um denselben Betrag, unabhängig von der ursprünglichen Richtung des Vektors, und ohne die Länge des Vektors zu ändern. Dieses Flag‑Bit ist gegenseitig ausschließend mit dem Flag TypeGeneralRotation."
 type: docs
 weight: 270
 url: /de/net/aspose.psd/matrix/typequadrantrotation/
 ---
+{{< psd/tize >}}
 ## Matrix.TypeQuadrantRotation field
 
-Dieses Flag-Bit zeigt an, dass die durch dieses Objekt definierte Transformation eine Quadrantendrehung um ein Vielfaches von 90 Grad in zusätzlich zu den durch andere Flag-Bits angezeigten Konvertierungen durchführt. Eine Drehung ändert die Winkel von Vektoren unabhängig von der ursprünglichen Richtung um denselben Betrag des Vektors und ohne die Länge des Vektors zu ändern. Dieses Flag-Bit schließt sich gegenseitig mit dem TypeGeneralRotation-Flag aus.
+Dieses Flag‑Bit gibt an, dass die von diesem Objekt definierte Transformation eine Quadrant‑Rotation um ein Vielfaches von 90 Grad durchführt, zusätzlich zu den von anderen Flag‑Bits angegebenen Umwandlungen. Eine Rotation ändert die Winkel von Vektoren um denselben Betrag, unabhängig von der ursprünglichen Richtung des Vektors, und ohne die Länge des Vektors zu verändern. Dieses Flag‑Bit ist wechselseitig exklusiv mit dem TypeGeneralRotation‑Flag.
 
 ```csharp
 public const int TypeQuadrantRotation;
@@ -17,7 +18,7 @@ public const int TypeQuadrantRotation;
 ### Siehe auch
 
 * class [Matrix](../)
-* namensraum [Aspose.PSD](../../matrix/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

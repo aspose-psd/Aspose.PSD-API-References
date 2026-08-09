@@ -1,27 +1,28 @@
 ---
-title: ThumbnailResource.WidthBytes
-second_title: Aspose.PSD für .NET-API-Referenz
-description: ThumbnailResource eigendom. Ruft die Zeilenbreite in Bytes ab.
+title: "ThumbnailResource.WidthBytes"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "ThumbnailResource-Eigenschaft. Gibt die Zeilenbreite in Bytes zurück."
 type: docs
 weight: 140
 url: /de/net/aspose.psd.fileformats.psd.resources/thumbnailresource/widthbytes/
 ---
+{{< psd/tize >}}
 ## ThumbnailResource.WidthBytes property
 
-Ruft die Zeilenbreite in Bytes ab.
+Liest die Zeilenbreite in Bytes.
 
 ```csharp
 public int WidthBytes { get; }
 ```
 
-### Eigentumswert
+### Property Value
 
-Die Zeilenbreite in Byte.
+Die Zeilenbreite in Bytes.
 
 ### Siehe auch
 
 * class [ThumbnailResource](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Resources](../../thumbnailresource/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: FontSettings.SetFontsFolders
-second_title: Aspose.PSD für .NET-API-Referenz
-description: FontSettings methode. Legt die Ordner fest aus denen TrueTypeSchriftarten geladen werden und löscht alle geladenen Schriftarten. Es werden keine Überprüfungen der Schriftartenordner durchgeführt.
+title: "FontSettings.SetFontsFolders"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "FontSettings-Methode. Legt die Ordner fest, aus denen TrueType‑Schriftarten geladen werden, und löscht alle geladenen Schriftarten. Es werden keine Prüfungen der Schriftartenordner durchgeführt."
 type: docs
-weight: 130
+weight: 150
 url: /de/net/aspose.psd/fontsettings/setfontsfolders/
 ---
+{{< psd/tize >}}
 ## FontSettings.SetFontsFolders method
 
-Legt die Ordner fest, aus denen TrueType-Schriftarten geladen werden, und löscht alle geladenen Schriftarten. Es werden keine Überprüfungen der Schriftartenordner durchgeführt.
+Legt die Ordner fest, aus denen TrueType-Schriftarten geladen werden, und löscht alle geladenen Schriftarten. Es werden keine Prüfungen der Schriftartenordner durchgeführt.
 
 ```csharp
 public static void SetFontsFolders(string[] fontsFolders, bool recursive)
@@ -17,12 +18,12 @@ public static void SetFontsFolders(string[] fontsFolders, bool recursive)
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
 | fontsFolders | String[] | Die Schriftartenordner. |
-| recursive | Boolean | wenn eingestellt`WAHR` [rekursiv]. |
+| recursive | Boolean | wenn auf `true` [rekursiv] gesetzt. |
 
 ### Siehe auch
 
 * class [FontSettings](../)
-* namensraum [Aspose.PSD](../../fontsettings/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

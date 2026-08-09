@@ -1,11 +1,12 @@
 ---
-title: Txt2Resource.AddTextRecord
-second_title: Aspose.PSD für .NET-API-Referenz
-description: Txt2Resource methode. Fügt den Textdatensatz zur Ressource hinzu und gibt die ID des Textdatensatzes zurück.
+title: "Txt2Resource.AddTextRecord"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "Txt2Resource Methode. Fügt den Textdatensatz zu Resource hinzu und gibt die ID des Textdatensatzes zurück."
 type: docs
-weight: 70
+weight: 40
 url: /de/net/aspose.psd.fileformats.psd.layers.layerresources/txt2resource/addtextrecord/
 ---
+{{< psd/tize >}}
 ## Txt2Resource.AddTextRecord method
 
 Fügt den Textdatensatz zur Ressource hinzu und gibt die ID des Textdatensatzes zurück.
@@ -16,22 +17,22 @@ public int AddTextRecord(string text, RectangleF bounds)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| text | String | Der Datensatztext. |
+| Text | String | Der Text des Datensatzes. |
 | bounds | RectangleF | Die Grenzen. |
 
 ### Rückgabewert
 
-Gibt die ID des Textdatensatzes für resource zurück
+Gibt die ID des Textdatensatzes für Resource zurück.
 
 ### Ausnahmen
 
 | Ausnahme | Bedingung |
 | --- | --- |
-| [PsdImageException](../../../aspose.psd.coreexceptions.imageformats/psdimageexception/) | Unbekannte Version der Txt2-Ressource. |
+| [PsdImageException](../../../aspose.psd.coreexceptions.imageformats/psdimageexception/) | Unbekannte Txt2 Resource-Version. |
 
-### Beispiele
+## Beispiele
 
-Der folgende Code demonstriert die Unterstützung der Unterstützung neuer ITextStyle-Eigenschaften.
+Der folgende Code demonstriert die Unterstützung der neuen ITextStyle‑Eigenschaften.
 
 ```csharp
 [C#]
@@ -87,7 +88,7 @@ using (var srcImage = (PsdImage)Image.Load(srcFile))
 
 * struct [RectangleF](../../../aspose.psd/rectanglef/)
 * class [Txt2Resource](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../txt2resource/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

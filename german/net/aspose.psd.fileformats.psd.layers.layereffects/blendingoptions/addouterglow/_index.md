@@ -1,14 +1,15 @@
 ---
-title: BlendingOptions.AddOuterGlow
-second_title: Aspose.PSD für .NET-API-Referenz
-description: BlendingOptions methode. Fügt den äußeren Glüheffekt hinzu.
+title: "BlendingOptions.AddOuterGlow"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "BlendingOptions-Methode. Fügt den Außenleuchteffekt hinzu."
 type: docs
-weight: 60
+weight: 70
 url: /de/net/aspose.psd.fileformats.psd.layers.layereffects/blendingoptions/addouterglow/
 ---
+{{< psd/tize >}}
 ## BlendingOptions.AddOuterGlow method
 
-Fügt den äußeren Glüheffekt hinzu.
+Fügt den äußeren Leuchteffekt hinzu.
 
 ```csharp
 public OuterGlowEffect AddOuterGlow()
@@ -16,11 +17,11 @@ public OuterGlowEffect AddOuterGlow()
 
 ### Rückgabewert
 
-Erstellt[`OuterGlowEffect`](../../outergloweffect/) Objekt
+Erstellt das Objekt [`OuterGlowEffect`](../../outergloweffect/)
 
-### Beispiele
+## Beispiele
 
-Der folgende Code demonstriert die OuterGlowEffect-Unterstützung.
+Der folgende Code demonstriert die Unterstützung von OuterGlowEffect.
 
 ```csharp
 [C#]
@@ -45,7 +46,7 @@ using (var image = (PsdImage)Image.Load(src))
 
 * class [OuterGlowEffect](../../outergloweffect/)
 * class [BlendingOptions](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../blendingoptions/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../../)
 
 

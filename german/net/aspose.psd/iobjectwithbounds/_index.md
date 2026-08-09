@@ -1,14 +1,15 @@
 ---
-title: Interface IObjectWithBounds
-second_title: Aspose.PSD für .NET-API-Referenz
-description: Aspose.PSD.IObjectWithBounds koppel. Repräsentiert ein Objekt mit Begrenzungen.
+title: "Interface IObjectWithBounds"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "Aspose.PSD.IObjectWithBounds-Interface. Stellt ein Objekt mit Begrenzungen dar."
 type: docs
-weight: 4490
+weight: 4960
 url: /de/net/aspose.psd/iobjectwithbounds/
 ---
+{{< psd/tize >}}
 ## IObjectWithBounds interface
 
-Repräsentiert ein Objekt mit Begrenzungen.
+Stellt ein Objekt mit Begrenzungen dar.
 
 ```csharp
 public interface IObjectWithBounds
@@ -18,14 +19,14 @@ public interface IObjectWithBounds
 
 | Name | Beschreibung |
 | --- | --- |
-| [Bounds](../../aspose.psd/iobjectwithbounds/bounds/) { get; } | Ruft die Objektgrenzen ab. |
-| [Height](../../aspose.psd/iobjectwithbounds/height/) { get; } | Ruft die Objekthöhe ab. |
-| [Size](../../aspose.psd/iobjectwithbounds/size/) { get; } | Ruft die Objektgröße ab. |
-| [Width](../../aspose.psd/iobjectwithbounds/width/) { get; } | Ruft die Objektbreite ab. |
+| [Bounds](../../aspose.psd/iobjectwithbounds/bounds/) { get; } | Liefert die Begrenzungen des Objekts. |
+| [Height](../../aspose.psd/iobjectwithbounds/height/) { get; } | Liefert die Höhe des Objekts. |
+| [Size](../../aspose.psd/iobjectwithbounds/size/) { get; } | Liefert die Größe des Objekts. |
+| [Width](../../aspose.psd/iobjectwithbounds/width/) { get; } | Liefert die Breite des Objekts. |
 
 ### Siehe auch
 
-* namensraum [Aspose.PSD](../../aspose.psd/)
-* Montage [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

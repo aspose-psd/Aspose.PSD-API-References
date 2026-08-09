@@ -1,11 +1,12 @@
 ---
-title: Class ArcShape
-second_title: Aspose.PSD für .NET-API-Referenz
-description: Aspose.PSD.Shapes.ArcShape klas. Stellt eine Bogenform dar.
+title: "Klasse ArcShape"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "Aspose.PSD.Shapes.ArcShape Klasse. Stellt eine Bogenform dar"
 type: docs
-weight: 5460
+weight: 5960
 url: /de/net/aspose.psd.shapes/arcshape/
 ---
+{{< psd/tize >}}
 ## ArcShape class
 
 Stellt eine Bogenform dar.
@@ -14,87 +15,87 @@ Stellt eine Bogenform dar.
 public sealed class ArcShape : PieShape, IOrderedShape
 ```
 
-## Konstrukteure
+## Konstruktoren
 
 | Name | Beschreibung |
 | --- | --- |
-| [ArcShape](arcshape/#constructor)() | Initialisiert eine neue Instanz von`ArcShape` Klasse. |
-| [ArcShape](arcshape/#constructor_1)(RectangleF, float, float) | Initialisiert eine neue Instanz von`ArcShape` Klasse. |
-| [ArcShape](arcshape/#constructor_2)(RectangleF, float, float, bool) | Initialisiert eine neue Instanz von`ArcShape` Klasse. |
+| [ArcShape](arcshape/#constructor)() | Initialisiert eine neue Instanz der `ArcShape` Klasse. |
+| [ArcShape](arcshape/#constructor_1)(RectangleF, float, float) | Initialisiert eine neue Instanz der `ArcShape` Klasse. |
+| [ArcShape](arcshape/#constructor_2)(RectangleF, float, float, bool) | Initialisiert eine neue Instanz der `ArcShape` Klasse. |
 
 ## Eigenschaften
 
 | Name | Beschreibung |
 | --- | --- |
-| override [Bounds](../../aspose.psd.shapes/rectangleprojectedshape/bounds/) { get; } | Ruft die Grenzen des Objekts ab. |
-| override [Center](../../aspose.psd.shapes/rectangleprojectedshape/center/) { get; } | Ruft den Mittelpunkt der Form ab. |
-| [EndPoint](../../aspose.psd.shapes/arcshape/endpoint/) { get; } | Ruft den Endformpunkt ab. |
-| override [HasSegments](../../aspose.psd.shapes/rectangleprojectedshape/hassegments/) { get; } | Ruft einen Wert ab, der angibt, ob die Form Segmente hat. |
-| [IsClosed](../../aspose.psd.shapes/arcshape/isclosed/) { get; set; } | Ruft einen Wert ab oder legt einen Wert fest, der angibt, ob die geordnete Form geschlossen ist. Bei der Verarbeitung geschlossen geordneter Formen haben die Start- und Endpunkte keine Bedeutung. |
-| [LeftBottom](../../aspose.psd.shapes/rectangleprojectedshape/leftbottom/) { get; } | Ruft den linken unteren Rechteckpunkt ab. |
-| [LeftTop](../../aspose.psd.shapes/rectangleprojectedshape/lefttop/) { get; } | Ruft den linken oberen Rechteckpunkt ab. |
-| [RectangleHeight](../../aspose.psd.shapes/rectangleprojectedshape/rectangleheight/) { get; } | Ruft die Rechteckhöhe ab. |
-| [RectangleWidth](../../aspose.psd.shapes/rectangleprojectedshape/rectanglewidth/) { get; } | Ruft die Breite des Rechtecks ab. |
-| [RightBottom](../../aspose.psd.shapes/rectangleprojectedshape/rightbottom/) { get; } | Ruft den rechten unteren Rechteckpunkt ab. |
-| [RightTop](../../aspose.psd.shapes/rectangleprojectedshape/righttop/) { get; } | Ruft den rechten oberen Rechteckpunkt ab. |
-| override [Segments](../../aspose.psd.shapes/arcshape/segments/) { get; } | Ruft die Formsegmente ab. |
+| override [Bounds](../../aspose.psd.shapes/rectangleprojectedshape/bounds/) { get; } | Liest die Begrenzungen des Objekts. |
+| override [Center](../../aspose.psd.shapes/rectangleprojectedshape/center/) { get; } | Liest das Zentrum der Form. |
+| [EndPoint](../../aspose.psd.shapes/arcshape/endpoint/) { get; } | Liest den Endpunkt der Form. |
+| override [HasSegments](../../aspose.psd.shapes/rectangleprojectedshape/hassegments/) { get; } | Liest einen Wert, der angibt, ob die Form Segmente hat. |
+| [IsClosed](../../aspose.psd.shapes/arcshape/isclosed/) { get; set; } | Liest oder setzt einen Wert, der angibt, ob die geordnete Form geschlossen ist. Beim Verarbeiten einer geschlossenen geordneten Form haben die Start- und Endpunkte keine Bedeutung. |
+| [LeftBottom](../../aspose.psd.shapes/rectangleprojectedshape/leftbottom/) { get; } | Liest den linken unteren Rechteckpunkt. |
+| [LeftTop](../../aspose.psd.shapes/rectangleprojectedshape/lefttop/) { get; } | Liest den linken oberen Rechteckpunkt. |
+| [RectangleHeight](../../aspose.psd.shapes/rectangleprojectedshape/rectangleheight/) { get; } | Liest die Rechteckhöhe. |
+| [RectangleWidth](../../aspose.psd.shapes/rectangleprojectedshape/rectanglewidth/) { get; } | Liest die Rechteckbreite. |
+| [RightBottom](../../aspose.psd.shapes/rectangleprojectedshape/rightbottom/) { get; } | Liest den rechten unteren Rechteckpunkt. |
+| [RightTop](../../aspose.psd.shapes/rectangleprojectedshape/righttop/) { get; } | Liest den rechten oberen Rechteckpunkt. |
+| override [Segments](../../aspose.psd.shapes/arcshape/segments/) { get; } | Liest die Segmente der Form. |
 | [StartAngle](../../aspose.psd.shapes/pieshape/startangle/) { get; set; } | Ruft den Startwinkel ab oder legt ihn fest. |
-| [StartPoint](../../aspose.psd.shapes/arcshape/startpoint/) { get; } | Ruft den Anfangsformpunkt ab. |
+| [StartPoint](../../aspose.psd.shapes/arcshape/startpoint/) { get; } | Ruft den Startpunkt der Form ab. |
 | [SweepAngle](../../aspose.psd.shapes/pieshape/sweepangle/) { get; set; } | Ruft den Sweep-Winkel ab oder legt ihn fest. |
 
 ## Methoden
 
 | Name | Beschreibung |
 | --- | --- |
-| override [GetBounds](../../aspose.psd.shapes/arcshape/getbounds/#getbounds)(Matrix) | Ruft die Grenzen des Objekts ab. |
-| override [GetBounds](../../aspose.psd.shapes/arcshape/getbounds/#getbounds_1)(Matrix, Pen) | Ruft die Grenzen des Objekts ab. |
+| override [GetBounds](../../aspose.psd.shapes/arcshape/getbounds/#getbounds)(Matrix) | Liest die Begrenzungen des Objekts. |
+| override [GetBounds](../../aspose.psd.shapes/arcshape/getbounds/#getbounds_1)(Matrix, Pen) | Liest die Begrenzungen des Objekts. |
 | [Reverse](../../aspose.psd.shapes/arcshape/reverse/)() | Kehrt die Reihenfolge der Punkte für diese Form um. |
 | override [Transform](../../aspose.psd.shapes/rectangleprojectedshape/transform/)(Matrix) | Wendet die angegebene Transformation auf die Form an. |
 
-### Beispiele
+## Beispiele
 
-Dieses Beispiel erstellt ein neues Image und zeichnet eine Vielzahl von Formen mithilfe von Figures und GraphicsPath auf der Image-Oberfläche
+Dieses Beispiel erstellt ein neues Image und zeichnet eine Vielzahl von Formen mithilfe von Figures und GraphicsPath auf der Image-Oberfläche.
 
 ```csharp
 [C#]
 
-//Eine Instanz von Image erstellen
+//Erstelle eine Instanz von Image
 using (Aspose.PSD.Image image = new Aspose.PSD.FileFormats.Psd.PsdImage(500, 500))
 {
-    //Eine Instanz der Graphics-Klasse erstellen und initialisieren
+    //Erstelle und initialisiere eine Instanz der Klasse Graphics
     Aspose.PSD.Graphics graphics = new Aspose.PSD.Graphics(image);
 
-    //Grafikoberfläche löschen
+    //Leere die Graphics-Oberfläche
     graphics.Clear(Color.Wheat);
 
-    //Eine Instanz der GraphicsPath-Klasse erstellen
+    //Erstelle eine Instanz der Klasse GraphicsPath
     Aspose.PSD.GraphicsPath graphicspath = new Aspose.PSD.GraphicsPath();
 
-    //Eine Instanz der Figure-Klasse erstellen
+    //Erstelle eine Instanz der Klasse Figure
     Aspose.PSD.Figure figure1 = new Aspose.PSD.Figure();
 
-    //Shape zum Figure-Objekt hinzufügen
+    //Form zum Figure-Objekt hinzufügen
     figure1.AddShape(new Aspose.PSD.Shapes.EllipseShape(new RectangleF(50, 50, 300, 300)));
     figure1.AddShape(new Aspose.PSD.Shapes.PieShape(new Rectangle(new Point(110, 110), new Size(200, 200)), 0, 90));
 
-    //Eine Instanz der Figure-Klasse erstellen
+    //Erstelle eine Instanz der Klasse Figure
     Aspose.PSD.Figure figure2 = new Aspose.PSD.Figure();
 
-    //Shape zum Figure-Objekt hinzufügen
+    //Form zum Figure-Objekt hinzufügen
     figure2.AddShape(new Aspose.PSD.Shapes.ArcShape(new RectangleF(10, 10, 300, 300), 0, 45));
     figure2.AddShape(new Aspose.PSD.Shapes.PolygonShape(new[] { new PointF(150, 10), new PointF(150, 200), new PointF(250, 300), new PointF(350, 400) }, true));
     figure2.AddShape(new Aspose.PSD.Shapes.RectangleShape(new Rectangle(new Point(250, 250), new Size(200, 200))));
 
-    //Figure-Objekt zu GraphicsPath hinzufügen
+    //Füge das Figure-Objekt zu GraphicsPath hinzu
     graphicspath.AddFigures(new[] { figure1, figure2 });
 
-    // Pfad mit Stiftobjekt der Farbe Schwarz zeichnen
+    //Zeichne Pfad mit Pen-Objekt in der Farbe Schwarz
     graphics.DrawPath(new Pen(Aspose.PSD.Color.Black, 2), graphicspath);
 
-    // Exportoptionen erstellen und initialisieren.
+    // Erstelle Exportoptionen und initialisiere sie.
     Aspose.PSD.ImageOptions.BmpOptions options = new Aspose.PSD.ImageOptions.BmpOptions();
 
-    // Alle Änderungen speichern.
+    // Speichere alle Änderungen.
     image.Save("c:\\temp\\output.bmp", options);
 }
 ```
@@ -103,7 +104,7 @@ using (Aspose.PSD.Image image = new Aspose.PSD.FileFormats.Psd.PsdImage(500, 500
 
 * class [PieShape](../pieshape/)
 * interface [IOrderedShape](../../aspose.psd/iorderedshape/)
-* namensraum [Aspose.PSD.Shapes](../../aspose.psd.shapes/)
-* Montage [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Shapes](../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../)
 
 

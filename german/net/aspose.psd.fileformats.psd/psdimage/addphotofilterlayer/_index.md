@@ -1,11 +1,12 @@
 ---
-title: PsdImage.AddPhotoFilterLayer
-second_title: Aspose.PSD für .NET-API-Referenz
-description: PsdImage methode. Fügt die PhotoFilterEbene hinzu.
+title: "PsdImage.AddPhotoFilterLayer"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "PsdImage-Methode. Fügt die PhotoFilter‑Ebene hinzu"
 type: docs
-weight: 400
+weight: 420
 url: /de/net/aspose.psd.fileformats.psd/psdimage/addphotofilterlayer/
 ---
+{{< psd/tize >}}
 ## PsdImage.AddPhotoFilterLayer method
 
 Fügt die PhotoFilter-Ebene hinzu.
@@ -16,18 +17,18 @@ public PhotoFilterLayer AddPhotoFilterLayer(Color color)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| color | Color | Die Farbe. |
+| Farbe | Farbe | Die Farbe. |
 
 ### Rückgabewert
 
-PhotoFilter-Ebene erstellt
+Erstellte PhotoFilter‑Ebene
 
 ### Siehe auch
 
 * class [PhotoFilterLayer](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/photofilterlayer/)
 * struct [Color](../../../aspose.psd/color/)
 * class [PsdImage](../)
-* namensraum [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

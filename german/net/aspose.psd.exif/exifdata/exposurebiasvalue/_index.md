@@ -1,28 +1,29 @@
 ---
-title: ExifData.ExposureBiasValue
-second_title: Aspose.PSD für .NET-API-Referenz
-description: ExifData eigendom. Ruft den Belichtungsabweichungswert ab oder legt ihn fest.
+title: "ExifData.ExposureBiasValue"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "ExifData-Eigenschaft. Liest oder setzt den Belichtungswert"
 type: docs
 weight: 190
 url: /de/net/aspose.psd.exif/exifdata/exposurebiasvalue/
 ---
+{{< psd/tize >}}
 ## ExifData.ExposureBiasValue property
 
-Ruft den Belichtungsabweichungswert ab oder legt ihn fest.
+Liest oder setzt den Belichtungs-Bias-Wert.
 
 ```csharp
 public TiffSRational ExposureBiasValue { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
-Der Belichtungsverzerrungswert.
+Der Belichtungswert.
 
 ### Siehe auch
 
 * class [TiffSRational](../../../aspose.psd.fileformats.tiff/tiffsrational/)
 * class [ExifData](../)
-* namensraum [Aspose.PSD.Exif](../../exifdata/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

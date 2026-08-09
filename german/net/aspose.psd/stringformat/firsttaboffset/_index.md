@@ -1,31 +1,32 @@
 ---
-title: StringFormat.FirstTabOffset
-second_title: Aspose.PSD für .NET-API-Referenz
-description: StringFormat eigendom. Ruft die Anzahl der Leerzeichen zwischen dem Anfang einer Textzeile und dem ersten Tabstopp ab.
+title: "StringFormat.FirstTabOffset"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "StringFormat-Eigenschaft. Gibt die Anzahl der Leerzeichen zwischen dem Beginn einer Textzeile und dem ersten Tabulatorstopp zurück."
 type: docs
-weight: 70
+weight: 80
 url: /de/net/aspose.psd/stringformat/firsttaboffset/
 ---
+{{< psd/tize >}}
 ## StringFormat.FirstTabOffset property
 
-Ruft die Anzahl der Leerzeichen zwischen dem Anfang einer Textzeile und dem ersten Tabstopp ab.
+Ruft die Anzahl der Leerzeichen zwischen dem Beginn einer Textzeile und dem ersten Tabulator ab.
 
 ```csharp
 public float FirstTabOffset { get; }
 ```
 
-### Eigentumswert
+### Property Value
 
-Der erste Tab-Offset.
+Der erste Tabulatorversatz.
 
-### Bemerkungen
+## Hinweise
 
-Die Eigenschaft wird für die entfernte Methode GetTabStops eingeführt.
+Die Eigenschaft wurde für die entfernte Methode GetTabStops eingeführt.
 
 ### Siehe auch
 
 * class [StringFormat](../)
-* namensraum [Aspose.PSD](../../stringformat/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

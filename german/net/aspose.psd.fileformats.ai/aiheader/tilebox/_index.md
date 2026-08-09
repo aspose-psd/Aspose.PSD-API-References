@@ -1,28 +1,29 @@
 ---
-title: AiHeader.TileBox
-second_title: Aspose.PSD für .NET-API-Referenz
-description: AiHeader eigendom. Ruft das Kachelfeld ab oder legt es fest.
+title: "AiHeader.TileBox"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "AiHeader-Eigenschaft. Gibt die Kachelbox zurück oder legt sie fest"
 type: docs
 weight: 110
 url: /de/net/aspose.psd.fileformats.ai/aiheader/tilebox/
 ---
+{{< psd/tize >}}
 ## AiHeader.TileBox property
 
-Ruft das Kachelfeld ab oder legt es fest.
+Liest oder setzt das Kachelfeld.
 
 ```csharp
 public RectangleF TileBox { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
-Die Fliesenkiste.
+Die Kachelbox.
 
 ### Siehe auch
 
 * struct [RectangleF](../../../aspose.psd/rectanglef/)
 * class [AiHeader](../)
-* namensraum [Aspose.PSD.FileFormats.Ai](../../aiheader/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

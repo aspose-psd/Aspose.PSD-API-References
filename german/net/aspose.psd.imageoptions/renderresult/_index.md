@@ -1,35 +1,36 @@
 ---
-title: Class RenderResult
-second_title: Aspose.PSD für .NET-API-Referenz
-description: Aspose.PSD.ImageOptions.RenderResult klas. Repräsentiert Informationen mit Ergebnissen von Rendering
+title: "Klasse RenderResult"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "Aspose.PSD.ImageOptions.RenderResult Klasse. Stellt Informationen mit den Ergebnissen des Renderings dar."
 type: docs
-weight: 4930
+weight: 5420
 url: /de/net/aspose.psd.imageoptions/renderresult/
 ---
+{{< psd/tize >}}
 ## RenderResult class
 
-Repräsentiert Informationen mit Ergebnissen von Rendering
+Stellt Informationen mit den Rendering-Ergebnissen dar
 
 ```csharp
 public class RenderResult
 ```
 
-## Konstrukteure
+## Konstruktoren
 
 | Name | Beschreibung |
 | --- | --- |
-| [RenderResult](renderresult/)() | Default_Constructor |
+| [RenderResult](renderresult/)() | Der Standardkonstruktor. |
 
 ## Eigenschaften
 
 | Name | Beschreibung |
 | --- | --- |
-| [Message](../../aspose.psd.imageoptions/renderresult/message/) { get; set; } | Ruft die Zeichenfolge message ab oder setzt sie |
-| [RenderCode](../../aspose.psd.imageoptions/renderresult/rendercode/) { get; set; } | Ruft den Fehlercode ab oder legt ihn fest |
+| [Message](../../aspose.psd.imageoptions/renderresult/message/) { get; set; } | Liest oder setzt die Zeichenkettennachricht |
+| [RenderCode](../../aspose.psd.imageoptions/renderresult/rendercode/) { get; set; } | Liest oder setzt den Fehlercode |
 
 ### Siehe auch
 
-* namensraum [Aspose.PSD.ImageOptions](../../aspose.psd.imageoptions/)
-* Montage [Aspose.PSD](../../)
+* namespace [Aspose.PSD.ImageOptions](../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../)
 
 

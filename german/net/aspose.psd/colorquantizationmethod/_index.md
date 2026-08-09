@@ -1,14 +1,15 @@
 ---
-title: Enum ColorQuantizationMethod
-second_title: Aspose.PSD für .NET-API-Referenz
-description: Aspose.PSD.ColorQuantizationMethod opsomming. Farbquantisierungsmethoden
+title: "Aufzählung ColorQuantizationMethod"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "Aspose.PSD.ColorQuantizationMethod enum. Farben-Quantisierungsmethoden"
 type: docs
 weight: 390
 url: /de/net/aspose.psd/colorquantizationmethod/
 ---
+{{< psd/tize >}}
 ## ColorQuantizationMethod enumeration
 
-Farbquantisierungsmethoden
+Methoden zur Farbquantisierung
 
 ```csharp
 public enum ColorQuantizationMethod
@@ -23,7 +24,7 @@ public enum ColorQuantizationMethod
 
 ### Siehe auch
 
-* namensraum [Aspose.PSD](../../aspose.psd/)
-* Montage [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

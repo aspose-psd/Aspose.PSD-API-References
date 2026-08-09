@@ -1,27 +1,28 @@
 ---
-title: Hue2Resource.Lightness
-second_title: Aspose.PSD für .NET-API-Referenz
-description: Hue2Resource eigendom. Ruft die MasterHelligkeit ab oder legt sie fest.
+title: "Hue2Resource.Lightness"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "Hue2Resource-Eigenschaft. Gibt oder setzt die Master-Helligkeit"
 type: docs
-weight: 60
+weight: 50
 url: /de/net/aspose.psd.fileformats.psd.layers.layerresources/hue2resource/lightness/
 ---
+{{< psd/tize >}}
 ## Hue2Resource.Lightness property
 
-Ruft die Master-Helligkeit ab oder legt sie fest.
+Liest oder setzt die Master-Helligkeit.
 
 ```csharp
 public short Lightness { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
-Der Meister der Leichtigkeit.
+Die Master-Helligkeit.
 
 ### Siehe auch
 
 * class [Hue2Resource](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../hue2resource/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

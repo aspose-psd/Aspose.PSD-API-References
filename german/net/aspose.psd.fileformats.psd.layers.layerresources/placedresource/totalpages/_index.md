@@ -1,24 +1,25 @@
 ---
-title: PlacedResource.TotalPages
-second_title: Aspose.PSD für .NET-API-Referenz
-description: PlacedResource eigendom. Ruft die Gesamtseitenzahl der platzierten Ebene in der PSDDatei ab oder legt sie fest.
+title: "PlacedResource.TotalPages"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "PlacedResource-Eigenschaft. Gibt die Gesamtseitenzahl der platzierten Ebene in der PSD-Datei zurück oder legt sie fest"
 type: docs
-weight: 160
+weight: 150
 url: /de/net/aspose.psd.fileformats.psd.layers.layerresources/placedresource/totalpages/
 ---
+{{< psd/tize >}}
 ## PlacedResource.TotalPages property
 
-Ruft die Gesamtseitenzahl der platzierten Ebene in der PSD-Datei ab oder legt sie fest.
+Liest oder legt die Gesamtseitenzahl der platzierten Ebene in der PSD-Datei fest.
 
 ```csharp
 public virtual int TotalPages { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
 Die Gesamtseitenzahl der platzierten Ebene.
 
-### Beispiele
+## Beispiele
 
 Der folgende Code demonstriert die Unterstützung der PlLdResource-Ressource.
 
@@ -202,15 +203,16 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
                 resource.Bottom = 248;
                 resource.Right = 145;
 
-                // Seien Sie vorsichtig mit einigen Parametern: Das Bild kann von Adobe® Photoshop® unlesbar werden
+                // Seien Sie vorsichtig mit einigen Parametern: Das Bild könnte für Adobe® Photoshop® unlesbar werden.
                 ////resource.UOrder = 6;
                 ////resource.VOrder = 9;
 
-                // Ändern Sie dies nicht, sonst können Sie die freie Transformation nicht verwenden
-                // oder ändern Sie das unterstreichende Smart-Objekt in den Vektortyp
+                // Ändern Sie dies nicht, sonst
+ Sie können die Freie‑Transformation nicht verwenden.
+                // oder ändern Sie das unterliegende Smart-Objekt in den Vektortyp
                 ////resource.PlacedLayerType = PlacedLayerType.Vector;
 
-                // Es sollte eine gültige PlLdResource mit dieser eindeutigen ID geben
+                // Es sollte ein gültiges PlLdResource mit dieser eindeutigen Id geben
                 ////resource.UniqueId = new Guid("98765432-10fe-cba0-1234-56789abcdef0");
 
                 break;
@@ -223,12 +225,12 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
 }
 ```
 
-Der folgende Code demonstriert die Unterstützung der SoLdResource-Ressource.
+Der folgende Code demonstriert die Unterstützung der SoLdResource‑Ressource.
 
 ```csharp
 [C#]
 
-// Dieses Beispiel zeigt, wie die Dateneigenschaften der Smart-Objektebene der PSD-Datei abgerufen oder festgelegt werden.
+// Dieses Beispiel zeigt, wie man die Eigenschaften der Smart‑Object‑Ebenen‑Daten der PSD‑Datei liest oder setzt.
 
 void AssertAreEqual(object actual, object expected)
 {
@@ -462,8 +464,8 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
                     resource.HorizontalMeshPoints = temp;
                 }
 
-                // Diese Werte sollten auch in der PlLdResource (mit der angegebenen UniqueId) geändert werden
-                // und einige von ihnen müssen mit dem unterstreichenden Smart-Objekt in der LinkDataSource übereinstimmen
+                // Diese Werte sollten auch in der PlLdResource (mit der angegebenen UniqueId) geändert werden.
+                // und einige davon müssen mit dem zugrunde liegenden Smart‑Object in der LinkDataSource übereinstimmen.
                 resource.PageNumber = 2;
                 resource.TotalPages = 3;
                 resource.AntiAliasPolicy = 0;
@@ -508,18 +510,19 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
                     42
                 };
 
-                // Diese eindeutige ID sollte gegebenenfalls in Referenzen geändert werden
+                // Diese eindeutige Id sollte in Verweisen, falls vorhanden, geändert werden.
                 resource.PlacedId = new Guid("12345678-9abc-def0-9876-54321fecba98");
 
-                // Seien Sie vorsichtig mit einigen Parametern: Das Bild kann von Adobe® Photoshop® unlesbar werden
+                // Seien Sie vorsichtig mit einigen Parametern: Das Bild könnte für Adobe® Photoshop® unlesbar werden.
                 ////resource.UOrder = 6;
                 ////resource.VOrder = 9;
 
-                // Ändern Sie dies nicht, sonst können Sie die freie Transformation nicht verwenden
-                // oder ändern Sie das unterstreichende Smart-Objekt in den Vektortyp
+                // Ändern Sie dies nicht, sonst
+ Sie können die Freie‑Transformation nicht verwenden.
+                // oder ändern Sie das unterliegende Smart-Objekt in den Vektortyp
                 ////resource.PlacedLayerType = PlacedLayerType.Vector;
 
-                // Es sollte eine gültige PlLdResource mit dieser eindeutigen ID geben
+                // Es sollte ein gültiges PlLdResource mit dieser eindeutigen Id geben
                 ////resource.UniqueId = new Guid("98765432-10fe-cba0-1234-56789abcdef0");
 
                 break;
@@ -535,7 +538,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
 ### Siehe auch
 
 * class [PlacedResource](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../placedresource/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

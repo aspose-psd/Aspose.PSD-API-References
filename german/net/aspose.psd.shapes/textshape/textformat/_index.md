@@ -1,11 +1,12 @@
 ---
-title: TextShape.TextFormat
-second_title: Aspose.PSD für .NET-API-Referenz
-description: TextShape eigendom. Ruft das Textformat ab oder legt es fest.
+title: "TextShape.TextFormat"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "TextShape-Eigenschaft. Liest oder setzt das Textformat"
 type: docs
 weight: 80
 url: /de/net/aspose.psd.shapes/textshape/textformat/
 ---
+{{< psd/tize >}}
 ## TextShape.TextFormat property
 
 Ruft das Textformat ab oder legt es fest.
@@ -14,7 +15,7 @@ Ruft das Textformat ab oder legt es fest.
 public StringFormat TextFormat { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
 Das Textformat.
 
@@ -22,7 +23,7 @@ Das Textformat.
 
 * class [StringFormat](../../../aspose.psd/stringformat/)
 * class [TextShape](../)
-* namensraum [Aspose.PSD.Shapes](../../textshape/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 

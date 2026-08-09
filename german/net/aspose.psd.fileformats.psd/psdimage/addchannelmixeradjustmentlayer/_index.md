@@ -1,14 +1,15 @@
 ---
-title: PsdImage.AddChannelMixerAdjustmentLayer
-second_title: Aspose.PSD für .NET-API-Referenz
-description: PsdImage methode. Fügt die KanalmixerEinstellungsebene mit Standardparametern hinzu
+title: "PsdImage.AddChannelMixerAdjustmentLayer"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "PsdImage Methode. Fügt die Kanalmischer‑Anpassungsebene mit Standardparametern hinzu"
 type: docs
-weight: 310
+weight: 320
 url: /de/net/aspose.psd.fileformats.psd/psdimage/addchannelmixeradjustmentlayer/
 ---
+{{< psd/tize >}}
 ## PsdImage.AddChannelMixerAdjustmentLayer method
 
-Fügt die Kanalmixer-Einstellungsebene mit Standardparametern hinzu
+Fügt die Kanalmixer‑Anpassungsebene mit Standardparametern hinzu
 
 ```csharp
 public ChannelMixerLayer AddChannelMixerAdjustmentLayer()
@@ -16,13 +17,13 @@ public ChannelMixerLayer AddChannelMixerAdjustmentLayer()
 
 ### Rückgabewert
 
-Kanal-Mixer-Ebene hinzugefügt
+Hinzugefügte Kanalmischer‑Ebene
 
 ### Siehe auch
 
 * class [ChannelMixerLayer](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/channelmixerlayer/)
 * class [PsdImage](../)
-* namensraum [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

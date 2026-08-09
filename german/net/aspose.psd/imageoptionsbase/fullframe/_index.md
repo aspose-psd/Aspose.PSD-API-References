@@ -1,27 +1,28 @@
 ---
-title: ImageOptionsBase.FullFrame
-second_title: Aspose.PSD für .NET-API-Referenz
-description: ImageOptionsBase eigendom. Ruft einen Wert ab oder legt einen Wert fest der angibt ob Vollbild.
+title: "ImageOptionsBase.FullFrame"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "ImageOptionsBase-Eigenschaft. Gibt einen Wert zurück oder legt ihn fest, der angibt, ob Vollbild verwendet wird."
 type: docs
 weight: 30
 url: /de/net/aspose.psd/imageoptionsbase/fullframe/
 ---
+{{< psd/tize >}}
 ## ImageOptionsBase.FullFrame property
 
-Ruft einen Wert ab oder legt einen Wert fest, der angibt, ob [Vollbild].
+Liest oder setzt einen Wert, der angibt, ob [full frame].
 
 ```csharp
 public bool FullFrame { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
-`WAHR` wenn [Vollbild]; ansonsten,`FALSCH` .
+`true` wenn [full frame]; sonst `false`.
 
 ### Siehe auch
 
 * class [ImageOptionsBase](../)
-* namensraum [Aspose.PSD](../../imageoptionsbase/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: IGradientTransparencyPoint.Location
-second_title: Aspose.PSD für .NET-API-Referenz
-description: IGradientTransparencyPoint eigendom. Ruft den Standort ab oder legt ihn fest.
+title: "IGradientTransparencyPoint.Location"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "IGradientTransparencyPoint-Eigenschaft. Liest oder setzt die Position. Wertebereich 04096"
 type: docs
 weight: 10
 url: /de/net/aspose.psd.fileformats.psd.layers.fillsettings/igradienttransparencypoint/location/
 ---
+{{< psd/tize >}}
 ## IGradientTransparencyPoint.Location property
 
-Ruft den Standort ab oder legt ihn fest.
+Liest oder setzt den Standort. Wertebereich 0-4096.
 
 ```csharp
 public int Location { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
-Der Ort.
+Die Position.
 
 ### Siehe auch
 
 * interface [IGradientTransparencyPoint](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../igradienttransparencypoint/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../../)
 
 

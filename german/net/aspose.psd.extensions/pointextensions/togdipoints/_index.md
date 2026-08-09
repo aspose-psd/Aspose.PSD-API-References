@@ -1,14 +1,15 @@
 ---
-title: PointExtensions.ToGdiPoints
-second_title: Aspose.PSD für .NET-API-Referenz
-description: PointExtensions methode. Konvertiert diePointF Array zumPointF array.
+title: "PointExtensions.ToGdiPoints"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "PointExtensions-Methode. Konvertiert das PointF-Array zum PointF-Array."
 type: docs
 weight: 20
 url: /de/net/aspose.psd.extensions/pointextensions/togdipoints/
 ---
+{{< psd/tize >}}
 ## PointExtensions.ToGdiPoints method
 
-Konvertiert die[`PointF`](../../../aspose.psd/pointf/) Array zumPointF array.
+Konvertiert das [`PointF`](../../../aspose.psd/pointf/) Array zum PointF-Array.
 
 ```csharp
 public static PointF[] ToGdiPoints(PointF[] points)
@@ -16,17 +17,17 @@ public static PointF[] ToGdiPoints(PointF[] points)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| points | PointF[] | Der[`PointF`](../../../aspose.psd/pointf/) Array zu konvertieren. |
+| points | PointF[] | Das [`PointF`](../../../aspose.psd/pointf/) Array zum Konvertieren. |
 
 ### Rückgabewert
 
-Der konvertiertePointF Reihe.
+Das konvertierte PointF-Array.
 
 ### Siehe auch
 
 * struct [PointF](../../../aspose.psd/pointf/)
 * class [PointExtensions](../)
-* namensraum [Aspose.PSD.Extensions](../../pointextensions/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Extensions](../../../aspose.psd.extensions/)
+* assembly [Aspose.PSD](../../../)
 
 

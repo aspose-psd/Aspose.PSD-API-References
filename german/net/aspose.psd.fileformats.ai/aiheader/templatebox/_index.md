@@ -1,20 +1,21 @@
 ---
-title: AiHeader.TemplateBox
-second_title: Aspose.PSD für .NET-API-Referenz
-description: AiHeader eigendom. Ruft das Vorlagenfeld ab oder legt es fest.
+title: "AiHeader.TemplateBox"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "AiHeader-Eigenschaft. Gibt die Vorlagenbox zurück oder legt sie fest"
 type: docs
 weight: 100
 url: /de/net/aspose.psd.fileformats.ai/aiheader/templatebox/
 ---
+{{< psd/tize >}}
 ## AiHeader.TemplateBox property
 
-Ruft das Vorlagenfeld ab oder legt es fest.
+Liest oder setzt das Vorlagenfeld.
 
 ```csharp
 public RectangleF TemplateBox { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
 Die Vorlagenbox.
 
@@ -22,7 +23,7 @@ Die Vorlagenbox.
 
 * struct [RectangleF](../../../aspose.psd/rectanglef/)
 * class [AiHeader](../)
-* namensraum [Aspose.PSD.FileFormats.Ai](../../aiheader/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

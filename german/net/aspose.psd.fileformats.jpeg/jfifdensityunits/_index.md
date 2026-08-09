@@ -1,14 +1,15 @@
 ---
-title: Enum JfifDensityUnits
-second_title: Aspose.PSD für .NET-API-Referenz
-description: Aspose.PSD.FileFormats.Jpeg.JfifDensityUnits opsomming. Die jfif Dichteeinheiten.
+title: "Aufzählung JfifDensityUnits"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "Aspose.PSD.FileFormats.Jpeg.JfifDensityUnits Aufzählung. Die JFIF-Dichteeinheiten"
 type: docs
-weight: 1480
+weight: 1490
 url: /de/net/aspose.psd.fileformats.jpeg/jfifdensityunits/
 ---
+{{< psd/tize >}}
 ## JfifDensityUnits enumeration
 
-Die jfif Dichteeinheiten.
+Die jfif-Dichteeinheiten.
 
 ```csharp
 public enum JfifDensityUnits : byte
@@ -18,13 +19,13 @@ public enum JfifDensityUnits : byte
 
 | Name | Wert | Beschreibung |
 | --- | --- | --- |
-| NoUnits | `0` | Die keine Einheiten. |
+| NoUnits | `0` | Keine Einheiten. |
 | PixelsPerInch | `1` | Die Pixel pro Zoll. |
 | PixelsPerCm | `2` | Die Pixel pro cm. |
 
 ### Siehe auch
 
-* namensraum [Aspose.PSD.FileFormats.Jpeg](../../aspose.psd.fileformats.jpeg/)
-* Montage [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Jpeg](../../aspose.psd.fileformats.jpeg/)
+* assembly [Aspose.PSD](../../)
 
 

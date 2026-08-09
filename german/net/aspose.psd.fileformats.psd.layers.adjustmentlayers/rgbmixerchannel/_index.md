@@ -1,14 +1,15 @@
 ---
-title: Class RgbMixerChannel
-second_title: Aspose.PSD für .NET-API-Referenz
-description: Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers.RgbMixerChannel klas. RGBChannel. Es ist ein Wrapper für KanalRohdaten. Verwendet in MixrResource
+title: "Klasse RgbMixerChannel"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers.RgbMixerChannel Klasse. RgbChannel. Sein Wrapper für Rohdaten des Kanals. Wird in MixrResource verwendet."
 type: docs
-weight: 1820
+weight: 1890
 url: /de/net/aspose.psd.fileformats.psd.layers.adjustmentlayers/rgbmixerchannel/
 ---
+{{< psd/tize >}}
 ## RgbMixerChannel class
 
-RGBChannel. Es ist ein Wrapper für Kanal-Rohdaten. Verwendet in MixrResource
+RgbChannel. Es ist ein Wrapper für Rohdaten des Kanals. Wird in MixrResource verwendet.
 
 ```csharp
 public class RgbMixerChannel : MixerChannel
@@ -18,21 +19,21 @@ public class RgbMixerChannel : MixerChannel
 
 | Name | Beschreibung |
 | --- | --- |
-| [Blue](../../aspose.psd.fileformats.psd.layers.adjustmentlayers/rgbmixerchannel/blue/) { get; set; } | Ruft Blau ab oder legt es fest. |
-| [Constant](../../aspose.psd.fileformats.psd.layers.adjustmentlayers/mixerchannel/constant/) { get; set; } | Ruft die Konstante des Kanals ab oder setzt sie. |
-| [Green](../../aspose.psd.fileformats.psd.layers.adjustmentlayers/rgbmixerchannel/green/) { get; set; } | Holt oder setzt das Grün. |
-| [Red](../../aspose.psd.fileformats.psd.layers.adjustmentlayers/rgbmixerchannel/red/) { get; set; } | Ruft das Rot ab oder setzt es. |
+| [Blue](../../aspose.psd.fileformats.psd.layers.adjustmentlayers/rgbmixerchannel/blue/) { get; set; } | Liest oder setzt das Blau. |
+| [Constant](../../aspose.psd.fileformats.psd.layers.adjustmentlayers/mixerchannel/constant/) { get; set; } | Liest oder setzt die Konstante des Kanals. |
+| [Green](../../aspose.psd.fileformats.psd.layers.adjustmentlayers/rgbmixerchannel/green/) { get; set; } | Liest oder setzt das Grün. |
+| [Red](../../aspose.psd.fileformats.psd.layers.adjustmentlayers/rgbmixerchannel/red/) { get; set; } | Liest oder setzt das Rot. |
 
 ## Methoden
 
 | Name | Beschreibung |
 | --- | --- |
-| [GetRawData](../../aspose.psd.fileformats.psd.layers.adjustmentlayers/mixerchannel/getrawdata/)() | Ruft die Rohdaten ab. |
+| [GetRawData](../../aspose.psd.fileformats.psd.layers.adjustmentlayers/mixerchannel/getrawdata/)() | Liest die Rohdaten. |
 
 ### Siehe auch
 
 * class [MixerChannel](../mixerchannel/)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../aspose.psd.fileformats.psd.layers.adjustmentlayers/)
-* Montage [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../aspose.psd.fileformats.psd.layers.adjustmentlayers/)
+* assembly [Aspose.PSD](../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: PsdImage.AddVibranceAdjustmentLayer
-second_title: Aspose.PSD für .NET-API-Referenz
-description: PsdImage methode. Fügt die DynamikEinstellungsebene hinzu.
+title: "PsdImage.AddVibranceAdjustmentLayer"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "PsdImage-Methode. Fügt die Vibrance-Anpassungsebene hinzu."
 type: docs
-weight: 430
+weight: 490
 url: /de/net/aspose.psd.fileformats.psd/psdimage/addvibranceadjustmentlayer/
 ---
+{{< psd/tize >}}
 ## PsdImage.AddVibranceAdjustmentLayer method
 
-Fügt die Dynamik-Einstellungsebene hinzu.
+Fügt die Vibrance-Anpassungsebene hinzu.
 
 ```csharp
 public VibranceLayer AddVibranceAdjustmentLayer()
@@ -18,9 +19,9 @@ public VibranceLayer AddVibranceAdjustmentLayer()
 
 Eine neu erstellte Vibrance-Ebene.
 
-### Beispiele
+## Beispiele
 
-Das folgende Codebeispiel demonstriert die Unterstützung der VibranceLayer-Ebene und die Möglichkeit, diese Anpassung zu bearbeiten.
+Das folgende Codebeispiel demonstriert die Unterstützung der VibranceLayer Ebene und die Möglichkeit, diese Anpassung zu bearbeiten.
 
 ```csharp
 [C#]
@@ -45,7 +46,7 @@ using (PsdImage image = (PsdImage) Image.Load(sourceFileName))
 
 * class [VibranceLayer](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/vibrancelayer/)
 * class [PsdImage](../)
-* namensraum [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

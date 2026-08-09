@@ -1,14 +1,15 @@
 ---
-title: PixelDataFormat.GetRgba
-second_title: Aspose.PSD für .NET-API-Referenz
-description: PixelDataFormat methode. Ruft RGBAFarbe mit einer bestimmten Anzahl von Bits pro Sample ab.
+title: "PixelDataFormat.GetRgba"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "PixelDataFormat-Methode. Gibt RGBA-Farbe mit einer angegebenen Anzahl von Bits pro Sample zurück"
 type: docs
 weight: 260
 url: /de/net/aspose.psd/pixeldataformat/getrgba/
 ---
+{{< psd/tize >}}
 ## GetRgba(int) {#getrgba}
 
-Ruft RGBA-Farbe mit einer bestimmten Anzahl von Bits pro Sample ab.
+Ermittelt RGBA-Farbe mit einer angegebenen Anzahl von Bits pro Sample.
 
 ```csharp
 public static PixelDataFormat GetRgba(int bitsPerSample)
@@ -25,14 +26,14 @@ Die RGBA-Farbe.
 ### Siehe auch
 
 * class [PixelDataFormat](../)
-* namensraum [Aspose.PSD](../../pixeldataformat/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## GetRgba(int, int, int, int) {#getrgba_1}
 
-Ruft RGBA-Farbe mit einer bestimmten Anzahl von Bits pro Sample ab.
+Ermittelt RGBA-Farbe mit einer angegebenen Anzahl von Bits pro Sample.
 
 ```csharp
 public static PixelDataFormat GetRgba(int bitsPerRedChannel, int bitsPerGreenChannel, 
@@ -41,10 +42,10 @@ public static PixelDataFormat GetRgba(int bitsPerRedChannel, int bitsPerGreenCha
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| bitsPerRedChannel | Int32 | Die Anzahl der Bits pro Red-Kanal. |
-| bitsPerGreenChannel | Int32 | Die Anzahl der Bits pro Green-Kanal. |
-| bitsPerBlueChannel | Int32 | Die Anzahl der Bits pro Blue-Kanal. |
-| bitsPerAlphaChannel | Int32 | Die Anzahl der Bits pro Alphakanal. |
+| bitsPerRedChannel | Int32 | Die Anzahl der Bits pro Rot-Kanal. |
+| bitsPerGreenChannel | Int32 | Die Anzahl der Bits pro Grün-Kanal. |
+| bitsPerBlueChannel | Int32 | Die Anzahl der Bits pro Blau-Kanal. |
+| bitsPerAlphaChannel | Int32 | Die Anzahl der Bits pro Alpha-Kanal. |
 
 ### Rückgabewert
 
@@ -53,7 +54,7 @@ Die RGBA-Farbe.
 ### Siehe auch
 
 * class [PixelDataFormat](../)
-* namensraum [Aspose.PSD](../../pixeldataformat/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

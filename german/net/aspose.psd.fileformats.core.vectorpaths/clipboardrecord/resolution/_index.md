@@ -1,27 +1,28 @@
 ---
-title: ClipboardRecord.Resolution
-second_title: Aspose.PSD für .NET-API-Referenz
-description: ClipboardRecord eigendom. Ruft die Auflösung ab oder legt sie fest.
+title: "ClipboardRecord.Resolution"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "ClipboardRecord-Eigenschaft. Liest oder setzt die Auflösung"
 type: docs
 weight: 30
 url: /de/net/aspose.psd.fileformats.core.vectorpaths/clipboardrecord/resolution/
 ---
+{{< psd/tize >}}
 ## ClipboardRecord.Resolution property
 
-Ruft die Auflösung ab oder legt sie fest.
+Liest oder setzt die Auflösung.
 
 ```csharp
 public float Resolution { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
 Die Auflösung.
 
 ### Siehe auch
 
 * class [ClipboardRecord](../)
-* namensraum [Aspose.PSD.FileFormats.Core.VectorPaths](../../clipboardrecord/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../../)
 
 

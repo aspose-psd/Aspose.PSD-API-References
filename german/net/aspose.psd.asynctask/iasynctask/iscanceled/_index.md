@@ -1,27 +1,28 @@
 ---
-title: IAsyncTask.IsCanceled
-second_title: Aspose.PSD für .NET-API-Referenz
-description: IAsyncTask eigendom. Ruft einen Wert ab der angibt ob diese Aufgabe abgebrochen wurde.
+title: "IAsyncTask.IsCanceled"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "IAsyncTask-Eigenschaft. Gibt einen Wert zurück, der angibt, ob diese Aufgabe abgebrochen wurde."
 type: docs
 weight: 30
 url: /de/net/aspose.psd.asynctask/iasynctask/iscanceled/
 ---
+{{< psd/tize >}}
 ## IAsyncTask.IsCanceled property
 
-Ruft einen Wert ab, der angibt, ob diese Aufgabe abgebrochen wurde.
+Gibt einen Wert zurück, der angibt, ob diese Aufgabe abgebrochen wurde.
 
 ```csharp
 public bool IsCanceled { get; }
 ```
 
-### Eigentumswert
+### Property Value
 
-`WAHR` wenn diese Aufgabe abgebrochen wurde; ansonsten,`FALSCH` .
+`true`, wenn diese Aufgabe abgebrochen wurde; andernfalls `false`.
 
 ### Siehe auch
 
 * interface [IAsyncTask](../)
-* namensraum [Aspose.PSD.AsyncTask](../../iasynctask/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.AsyncTask](../../../aspose.psd.asynctask/)
+* assembly [Aspose.PSD](../../../)
 
 

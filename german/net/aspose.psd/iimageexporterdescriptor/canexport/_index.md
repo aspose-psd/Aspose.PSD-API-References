@@ -1,14 +1,15 @@
 ---
-title: IImageExporterDescriptor.CanExport
-second_title: Aspose.PSD für .NET-API-Referenz
-description: IImageExporterDescriptor methode. Legt fest ob der Bildexporter das angegebene Bild in das durch die Speicheroptionen angegebene angegebene Bildformat exportieren kann.
+title: "IImageExporterDescriptor.CanExport"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "IImageExporterDescriptor-Methode. Bestimmt, ob der Bildexporter das angegebene Bild in das durch die Speicheroptionen angegebene Bildformat exportieren kann"
 type: docs
 weight: 10
 url: /de/net/aspose.psd/iimageexporterdescriptor/canexport/
 ---
+{{< psd/tize >}}
 ## IImageExporterDescriptor.CanExport method
 
-Legt fest, ob der Bildexporter das angegebene Bild in das durch die Speicheroptionen angegebene angegebene Bildformat exportieren kann.
+Bestimmt, ob der Bildexporter das angegebene Bild in das durch die Speicheroptionen angegebene Bildformat exportieren kann.
 
 ```csharp
 public bool CanExport(Image image, ImageOptionsBase optionsBase)
@@ -21,14 +22,14 @@ public bool CanExport(Image image, ImageOptionsBase optionsBase)
 
 ### Rückgabewert
 
-`WAHR` wenn der von diesem Deskriptor erstellte Exporteur das angegebene Bild in das angegebene Dateiformat exportieren kann; ansonsten,`FALSCH` .
+`True`, wenn der durch diesen Deskriptor erstellte Exporter das angegebene Bild in das angegebene Dateiformat exportieren kann; andernfalls `false`.
 
 ### Siehe auch
 
 * class [Image](../../image/)
 * class [ImageOptionsBase](../../imageoptionsbase/)
 * interface [IImageExporterDescriptor](../)
-* namensraum [Aspose.PSD](../../iimageexporterdescriptor/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

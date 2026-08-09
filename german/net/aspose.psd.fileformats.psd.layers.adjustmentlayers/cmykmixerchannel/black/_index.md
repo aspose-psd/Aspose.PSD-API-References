@@ -1,27 +1,28 @@
 ---
-title: CmykMixerChannel.Black
-second_title: Aspose.PSD für .NET-API-Referenz
-description: CmykMixerChannel eigendom. Holt oder setzt Schwarz.
+title: "CmykMixerChannel.Black"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "CmykMixerChannel Eigenschaft. Liest oder setzt das Schwarz"
 type: docs
 weight: 20
 url: /de/net/aspose.psd.fileformats.psd.layers.adjustmentlayers/cmykmixerchannel/black/
 ---
+{{< psd/tize >}}
 ## CmykMixerChannel.Black property
 
-Holt oder setzt Schwarz.
+Liest oder setzt das Schwarz.
 
 ```csharp
 public short Black { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
-Das Schwarze.
+Das Schwarz.
 
 ### Siehe auch
 
 * class [CmykMixerChannel](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../cmykmixerchannel/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/)
+* assembly [Aspose.PSD](../../../)
 
 

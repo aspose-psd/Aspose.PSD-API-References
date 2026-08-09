@@ -1,26 +1,27 @@
 ---
-title: ITextStyle.AutoKerning
-second_title: Aspose.PSD für .NET-API-Referenz
-description: ITextStyle eigendom. Ruft das automatische Kerning ab oder legt es fest.
+title: "ITextStyle.AutoKerning"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "ITextStyle property. Gibt das automatische Kerning zurück oder legt es fest"
 type: docs
 weight: 10
 url: /de/net/aspose.psd.fileformats.psd.layers.text/itextstyle/autokerning/
 ---
+{{< psd/tize >}}
 ## ITextStyle.AutoKerning property
 
-Ruft das automatische Kerning ab oder legt es fest.
+Liest oder setzt das automatische Kerning.
 
 ```csharp
 public AutoKerning AutoKerning { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
 Das automatische Kerning zwischen zwei Zeichen.
 
-### Beispiele
+## Beispiele
 
-Der folgende Code demonstriert die Unterstützung der Unterstützung neuer ITextStyle-Eigenschaften.
+Der folgende Code demonstriert die Unterstützung der neuen ITextStyle‑Eigenschaften.
 
 ```csharp
 [C#]
@@ -76,7 +77,7 @@ using (var srcImage = (PsdImage)Image.Load(srcFile))
 
 * enum [AutoKerning](../../../aspose.psd.fileformats.psd/autokerning/)
 * interface [ITextStyle](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.Text](../../itextstyle/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.Text](../../../aspose.psd.fileformats.psd.layers.text/)
+* assembly [Aspose.PSD](../../../)
 
 

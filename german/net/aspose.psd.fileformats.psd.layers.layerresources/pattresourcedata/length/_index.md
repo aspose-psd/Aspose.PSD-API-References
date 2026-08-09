@@ -1,27 +1,28 @@
 ---
-title: PattResourceData.Length
-second_title: Aspose.PSD für .NET-API-Referenz
-description: PattResourceData eigendom. Ruft die Länge des Musters ab.
+title: "PattResourceData.Length"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "PattResourceData-Eigenschaft. Gibt die Länge des Musters zurück"
 type: docs
 weight: 40
 url: /de/net/aspose.psd.fileformats.psd.layers.layerresources/pattresourcedata/length/
 ---
+{{< psd/tize >}}
 ## PattResourceData.Length property
 
-Ruft die Länge des Musters ab.
+Liest die Länge des Musters.
 
 ```csharp
 public int Length { get; }
 ```
 
-### Eigentumswert
+### Property Value
 
 Die Länge des Musters.
 
 ### Siehe auch
 
 * class [PattResourceData](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../pattresourcedata/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

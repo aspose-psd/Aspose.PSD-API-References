@@ -1,14 +1,15 @@
 ---
-title: VmskResource.Key
-second_title: Aspose.PSD für .NET-API-Referenz
-description: VmskResource eigendom. Ruft den LayerRessourcenschlüssel ab.
+title: "VmskResource.Key"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "VmskResource-Eigenschaft. Ruft den Schichtressourcen-Schlüssel ab"
 type: docs
 weight: 20
 url: /de/net/aspose.psd.fileformats.psd.layers.layerresources/vmskresource/key/
 ---
+{{< psd/tize >}}
 ## VmskResource.Key property
 
-Ruft den Layer-Ressourcenschlüssel ab.
+Liest den Schichtressourcen-Schlüssel.
 
 ```csharp
 public override int Key { get; }
@@ -17,7 +18,7 @@ public override int Key { get; }
 ### Siehe auch
 
 * class [VmskResource](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../vmskresource/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

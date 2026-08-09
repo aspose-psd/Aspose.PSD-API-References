@@ -1,27 +1,28 @@
 ---
-title: BlendRange.Source
-second_title: Aspose.PSD für .NET-API-Referenz
-description: BlendRange eigendom. Ruft den Mischbereich der Quelle ab oder legt ihn fest.
+title: "BlendRange.Source"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "BlendRange-Eigenschaft. Gibt den Quell‑Blend‑Bereich zurück oder legt ihn fest"
 type: docs
 weight: 30
 url: /de/net/aspose.psd.fileformats.psd.layers/blendrange/source/
 ---
+{{< psd/tize >}}
 ## BlendRange.Source property
 
-Ruft den Mischbereich der Quelle ab oder legt ihn fest.
+Ermittelt oder setzt den Quell-Blendbereich.
 
 ```csharp
 public int Source { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
-Der Mischbereich der Quelle.
+Der Quell‑Blend‑Bereich.
 
 ### Siehe auch
 
 * class [BlendRange](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers](../../blendrange/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

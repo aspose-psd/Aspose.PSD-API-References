@@ -1,20 +1,21 @@
 ---
-title: PlacedResource.HorizontalMeshPointUnit
-second_title: Aspose.PSD für .NET-API-Referenz
-description: PlacedResource eigendom. Ruft die Maßeinheit der horizontalen Netzpunkte ab oder legt sie fest.
+title: "PlacedResource.HorizontalMeshPointUnit"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "PlacedResource-Eigenschaft. Liest oder setzt die Maßeinheit der horizontalen Gitterpunkte"
 type: docs
 weight: 50
 url: /de/net/aspose.psd.fileformats.psd.layers.layerresources/placedresource/horizontalmeshpointunit/
 ---
+{{< psd/tize >}}
 ## PlacedResource.HorizontalMeshPointUnit property
 
-Ruft die Maßeinheit der horizontalen Netzpunkte ab oder legt sie fest.
+Liest oder legt die Maßeinheit der horizontalen Maschenpunkte fest.
 
 ```csharp
 public UnitTypes HorizontalMeshPointUnit { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
 Die Maßeinheit der horizontalen Gitterpunkte.
 
@@ -22,7 +23,7 @@ Die Maßeinheit der horizontalen Gitterpunkte.
 
 * enum [UnitTypes](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/unittypes/)
 * class [PlacedResource](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../placedresource/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

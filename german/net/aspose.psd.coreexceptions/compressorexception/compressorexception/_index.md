@@ -1,14 +1,15 @@
 ---
-title: CompressorException.CompressorException
-second_title: Aspose.PSD für .NET-API-Referenz
-description: CompressorException constructeur. Initialisiert eine neue Instanz vonCompressorException Klasse.
+title: "CompressorException.CompressorException"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "CompressorException-Konstruktor. Initialisiert eine neue Instanz der CompressorException-Klasse"
 type: docs
 weight: 10
 url: /de/net/aspose.psd.coreexceptions/compressorexception/compressorexception/
 ---
+{{< psd/tize >}}
 ## CompressorException(string) {#constructor}
 
-Initialisiert eine neue Instanz von[`CompressorException`](../) Klasse.
+Initialisiert eine neue Instanz der [`CompressorException`](../)-Klasse.
 
 ```csharp
 public CompressorException(string message)
@@ -16,19 +17,19 @@ public CompressorException(string message)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| message | String | Die Ausnahmemeldung. |
+| Nachricht | String | Die Ausnahmemeldung. |
 
 ### Siehe auch
 
 * class [CompressorException](../)
-* namensraum [Aspose.PSD.CoreExceptions](../../compressorexception/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.CoreExceptions](../../../aspose.psd.coreexceptions/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## CompressorException(string, Exception) {#constructor_1}
 
-Initialisiert eine neue Instanz von[`CompressorException`](../) Klasse.
+Initialisiert eine neue Instanz der [`CompressorException`](../)-Klasse.
 
 ```csharp
 public CompressorException(string message, Exception innerException)
@@ -36,13 +37,13 @@ public CompressorException(string message, Exception innerException)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| message | String | Die Ausnahmemeldung. |
-| innerException | Exception | Die innere Ausnahme. |
+| Nachricht | String | Die Ausnahmemeldung. |
+| innerException | Ausnahme | Die innere Ausnahme. |
 
 ### Siehe auch
 
 * class [CompressorException](../)
-* namensraum [Aspose.PSD.CoreExceptions](../../compressorexception/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.CoreExceptions](../../../aspose.psd.coreexceptions/)
+* assembly [Aspose.PSD](../../../)
 
 

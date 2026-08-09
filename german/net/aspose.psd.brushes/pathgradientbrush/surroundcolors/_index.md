@@ -1,28 +1,29 @@
 ---
-title: PathGradientBrush.SurroundColors
-second_title: Aspose.PSD für .NET-API-Referenz
-description: PathGradientBrush eigendom. Holt oder setzt ein Array von Farben die den Punkten im Pfad this entsprechenPathGradientBrush füllt.
+title: "PathGradientBrush.SurroundColors"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "PathGradientBrush-Eigenschaft. Ruft ein Array von Farben ab oder legt es fest, das den Punkten im Pfad entspricht, den dieser PathGradientBrush füllt"
 type: docs
-weight: 40
+weight: 50
 url: /de/net/aspose.psd.brushes/pathgradientbrush/surroundcolors/
 ---
+{{< psd/tize >}}
 ## PathGradientBrush.SurroundColors property
 
-Holt oder setzt ein Array von Farben, die den Punkten im Pfad this entsprechen[`PathGradientBrush`](../) füllt.
+Ruft ein Array von Farben ab oder legt es fest, das den Punkten im Pfad entspricht, den dieses [`PathGradientBrush`](../) füllt.
 
 ```csharp
 public Color[] SurroundColors { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
-Eine Reihe von[`Color`](../../../aspose.psd/color/) Strukturen, die die Farben darstellen, die jedem Punkt im Pfad zugeordnet sind[`PathGradientBrush`](../) füllt.
+Ein Array von [`Color`](../../../aspose.psd/color/) Strukturen, das die mit jedem Punkt im Pfad verbundenen Farben darstellt, den dieses [`PathGradientBrush`](../) füllt.
 
 ### Siehe auch
 
 * struct [Color](../../../aspose.psd/color/)
 * class [PathGradientBrush](../)
-* namensraum [Aspose.PSD.Brushes](../../pathgradientbrush/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
+* assembly [Aspose.PSD](../../../)
 
 

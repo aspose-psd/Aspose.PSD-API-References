@@ -1,27 +1,28 @@
 ---
-title: StreamContainer.CanSeek
-second_title: Aspose.PSD für .NET-API-Referenz
-description: StreamContainer eigendom. Ruft einen Wert ab der angibt ob der Stream die Suche unterstützt.
+title: "StreamContainer.CanSeek"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "StreamContainer-Eigenschaft. Gibt einen Wert zurück, der angibt, ob der Stream das Suchen unterstützt."
 type: docs
 weight: 30
 url: /de/net/aspose.psd/streamcontainer/canseek/
 ---
+{{< psd/tize >}}
 ## StreamContainer.CanSeek property
 
-Ruft einen Wert ab, der angibt, ob der Stream die Suche unterstützt.
+Gibt einen Wert zurück, der angibt, ob der Stream das Suchen unterstützt.
 
 ```csharp
 public virtual bool CanSeek { get; }
 ```
 
-### Eigentumswert
+### Property Value
 
-`WAHR` wenn der Stream das Suchen unterstützt; ansonsten,`FALSCH`.
+`true`, wenn der Stream das Suchen unterstützt; andernfalls `false`.
 
 ### Siehe auch
 
 * class [StreamContainer](../)
-* namensraum [Aspose.PSD](../../streamcontainer/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

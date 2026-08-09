@@ -1,26 +1,27 @@
 ---
-title: GdFlResource.Reverse
-second_title: Aspose.PSD für .NET-API-Referenz
-description: GdFlResource eigendom. Ruft einen Wert ab oder legt einen Wert fest der angibt ob dies der Fall istGdFlResource ist umgekehrt.
+title: "GdFlResource.Reverse"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "GdFlResource Eigenschaft. Gibt einen Wert zurück oder legt ihn fest, der angibt, ob dieses GdFlResource umgekehrt ist"
 type: docs
-weight: 140
+weight: 170
 url: /de/net/aspose.psd.fileformats.psd.layers.layerresources/gdflresource/reverse/
 ---
+{{< psd/tize >}}
 ## GdFlResource.Reverse property
 
-Ruft einen Wert ab oder legt einen Wert fest, der angibt, ob dies der Fall ist[`GdFlResource`](../) ist umgekehrt.
+Gibt einen Wert zurück oder legt ihn fest, der angibt, ob dieses [`GdFlResource`](../) umgekehrt ist.
 
 ```csharp
 public bool Reverse { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
-`WAHR` wenn umgekehrt; ansonsten,`FALSCH` .
+`true`, wenn umgekehrt; andernfalls `false`.
 
-### Beispiele
+## Beispiele
 
-Das folgende Beispiel demonstriert die Unterstützung des Ladens von GdFlResource-Ressourcen.
+Das folgende Beispiel demonstriert die Unterstützung des Ladens von GdFlResource Ressourcen.
 
 ```csharp
 [C#]
@@ -40,7 +41,7 @@ using (im)
             {
                 if (res is GdFlResource)
                 {
-                    // Lektüre
+                    // Lesen
                     var resource = (GdFlResource)res;
                     if (resource.AlignWithLayer != false ||
                      (Math.Abs(resource.Angle - 45.0) > 0.001) ||
@@ -117,7 +118,7 @@ using (im)
 ### Siehe auch
 
 * class [GdFlResource](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../gdflresource/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: GifOptions.IsPaletteSorted
-second_title: Aspose.PSD für .NET-API-Referenz
-description: GifOptions eigendom. Ruft einen Wert ab oder legt einen Wert fest der angibt ob Paletteneinträge sortiert sind.
+title: "GifOptions.IsPaletteSorted"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "GifOptions-Eigenschaft. Gibt einen Wert zurück oder legt ihn fest, der angibt, ob Paletteneinträge sortiert sind"
 type: docs
 weight: 70
 url: /de/net/aspose.psd.imageoptions/gifoptions/ispalettesorted/
 ---
+{{< psd/tize >}}
 ## GifOptions.IsPaletteSorted property
 
-Ruft einen Wert ab oder legt einen Wert fest, der angibt, ob Paletteneinträge sortiert sind.
+Liest oder setzt einen Wert, der angibt, ob Paletteneinträge sortiert sind.
 
 ```csharp
 public bool IsPaletteSorted { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
-`WAHR` wenn Paletteneinträge sortiert sind; ansonsten,`FALSCH` .
+`true`, wenn Paletteneinträge sortiert sind; andernfalls `false`.
 
 ### Siehe auch
 
 * class [GifOptions](../)
-* namensraum [Aspose.PSD.ImageOptions](../../gifoptions/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

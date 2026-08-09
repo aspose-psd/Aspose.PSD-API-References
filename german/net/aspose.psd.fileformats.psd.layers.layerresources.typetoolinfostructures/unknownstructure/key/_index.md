@@ -1,14 +1,15 @@
 ---
-title: UnknownStructure.Key
-second_title: Aspose.PSD für .NET-API-Referenz
-description: UnknownStructure eigendom. Ruft den Strukturschlüssel ab.
+title: "UnknownStructure.Key"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "UnknownStructure-Eigenschaft. Gibt den Struktur‑Schlüssel zurück"
 type: docs
 weight: 30
 url: /de/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/unknownstructure/key/
 ---
+{{< psd/tize >}}
 ## UnknownStructure.Key property
 
-Ruft den Strukturschlüssel ab.
+Liest den Struktur-Schlüssel.
 
 ```csharp
 public override int Key { get; }
@@ -17,7 +18,7 @@ public override int Key { get; }
 ### Siehe auch
 
 * class [UnknownStructure](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../unknownstructure/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 

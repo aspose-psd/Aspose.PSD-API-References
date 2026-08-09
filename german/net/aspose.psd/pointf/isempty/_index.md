@@ -1,27 +1,28 @@
 ---
-title: PointF.IsEmpty
-second_title: Aspose.PSD für .NET-API-Referenz
-description: PointF eigendom. Ruft einen Wert ab der angibt ob diesPointF ist leer.
+title: "PointF.IsEmpty"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "PointF-Eigenschaft. Gibt einen Wert zurück, der angibt, ob dieses PointF leer ist."
 type: docs
 weight: 50
 url: /de/net/aspose.psd/pointf/isempty/
 ---
+{{< psd/tize >}}
 ## PointF.IsEmpty property
 
-Ruft einen Wert ab, der angibt, ob dies[`PointF`](../) ist leer.
+Gibt einen Wert zurück, der angibt, ob dieses [`PointF`](../) leer ist.
 
 ```csharp
 public bool IsEmpty { get; }
 ```
 
-### Eigentumswert
+### Property Value
 
-Stimmt, wenn beides[`X`](../x/) Und[`Y`](../y/) sind 0; andernfalls falsch.
+Wahr, wenn sowohl [`X`](../x/) als auch [`Y`](../y/) 0 sind; andernfalls falsch.
 
 ### Siehe auch
 
 * struct [PointF](../)
-* namensraum [Aspose.PSD](../../pointf/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

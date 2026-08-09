@@ -1,14 +1,15 @@
 ---
-title: FXidResource.Version
-second_title: Aspose.PSD für .NET-API-Referenz
-description: FXidResource eigendom. Ruft die Version ab.
+title: "FXidResource.Version"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "FXidResource-Eigenschaft. Gibt die Version zurück"
 type: docs
-weight: 70
+weight: 40
 url: /de/net/aspose.psd.fileformats.psd.layers.layerresources/fxidresource/version/
 ---
+{{< psd/tize >}}
 ## FXidResource.Version property
 
-Ruft die Version ab.
+Liest die Version.
 
 ```csharp
 public int Version { get; }
@@ -17,7 +18,7 @@ public int Version { get; }
 ### Siehe auch
 
 * class [FXidResource](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../fxidresource/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

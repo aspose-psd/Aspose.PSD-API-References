@@ -1,27 +1,28 @@
 ---
-title: PsdOptions.RemoveGlobalTextEngineResource
-second_title: Aspose.PSD für .NET-API-Referenz
-description: PsdOptions eigendom. Erhält oder setzt einen Wert der angibt ob  die globale TextEngineRessource entfernt wird  nur für einige PSDDateien mit Textebenen verwendet wird wenn sie nach der Verarbeitung nicht in Adobe Photoshop geöffnet werden können hauptsächlich für Textebenen mit fehlenden Schriftarten. Nachdem Sie diese Option verwendet haben müssen Sie als Nächstes die in Photoshop geöffnete Datei erstellen Menü Text  Fehlende Schriftarten verarbeiten. Nach diesem Vorgang wird der gesamte Text wieder angezeigt. Bitte beachten Sie dass dieser Vorgang einige endgültige Layoutänderungen verursachen kann.
+title: "PsdOptions.RemoveGlobalTextEngineResource"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "PsdOptions-Eigenschaft. Gibt an, ob die globale Text-Engine-Ressource entfernt werden soll. Wird für einige textlayered PSD-Dateien verwendet, wenn sie nach der Verarbeitung nicht in Adobe Photoshop geöffnet werden können, hauptsächlich wegen fehlender Schriftarten in Textlayern. Nach der Verwendung dieser Option muss der Benutzer im geöffneten Photoshop-Datei-Menü unter Text die fehlenden Schriftarten verarbeiten. Nach diesem Vorgang wird aller Text wieder angezeigt. Bitte beachten Sie, dass dieser Vorgang einige Änderungen im endgültigen Layout verursachen kann."
 type: docs
-weight: 80
+weight: 90
 url: /de/net/aspose.psd.imageoptions/psdoptions/removeglobaltextengineresource/
 ---
+{{< psd/tize >}}
 ## PsdOptions.RemoveGlobalTextEngineResource property
 
-Erhält oder setzt einen Wert, der angibt, ob - die globale Text-Engine-Ressource entfernt wird - nur für einige PSD-Dateien mit Textebenen verwendet wird, wenn sie nach der Verarbeitung nicht in Adobe Photoshop geöffnet werden können (hauptsächlich für Textebenen mit fehlenden Schriftarten). Nachdem Sie diese Option verwendet haben, müssen Sie als Nächstes die in Photoshop geöffnete Datei erstellen: Menü „Text“ -&gt; „Fehlende Schriftarten verarbeiten“. Nach diesem Vorgang wird der gesamte Text wieder angezeigt. Bitte beachten Sie, dass dieser Vorgang einige endgültige Layoutänderungen verursachen kann.
+Liest oder setzt einen Wert, der angibt, ob - Die globale Text-Engine-Ressource entfernt wird - Wird für einige textschichtige PSD-Dateien verwendet, ausschließlich in dem Fall, dass sie nach der Verarbeitung nicht in Adobe Photoshop geöffnet werden können (hauptsächlich bei fehlenden Schriftarten in Textebenen). Nach der Verwendung dieser Option muss der Benutzer im geöffneten Photoshop-Dokument Folgendes ausführen: Menü "Text" -> "Process absent fonts". Nach diesem Vorgang werden alle Texte wieder angezeigt. Bitte beachten Sie, dass dieser Vorgang einige Änderungen im endgültigen Layout verursachen kann.
 
 ```csharp
 public bool RemoveGlobalTextEngineResource { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
-`WAHR` if [globale Text-Engine-Ressource entfernen]; ansonsten,`FALSCH` .
+`true` wenn [remove global text engine resource]; andernfalls `false`.
 
 ### Siehe auch
 
 * class [PsdOptions](../)
-* namensraum [Aspose.PSD.ImageOptions](../../psdoptions/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

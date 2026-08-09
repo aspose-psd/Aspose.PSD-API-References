@@ -1,20 +1,21 @@
 ---
-title: PropertyStructure.KeyID
-second_title: Aspose.PSD für .NET-API-Referenz
-description: PropertyStructure eigendom. Ruft die SchlüsselID ab oder setzt sie.
+title: "PropertyStructure.KeyID"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "PropertyStructure Eigenschaft. Liest oder schreibt die Schlüssel‑ID"
 type: docs
 weight: 50
 url: /de/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/propertystructure/keyid/
 ---
+{{< psd/tize >}}
 ## PropertyStructure.KeyID property
 
-Ruft die Schlüssel-ID ab oder setzt sie.
+Liest oder setzt die Schlüssel-ID.
 
 ```csharp
 public ClassID KeyID { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
 Die Schlüssel-ID.
 
@@ -22,7 +23,7 @@ Die Schlüssel-ID.
 
 * class [ClassID](../../../aspose.psd.fileformats.psd.layers.layerresources/classid/)
 * class [PropertyStructure](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../propertystructure/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 

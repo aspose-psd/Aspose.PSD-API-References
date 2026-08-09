@@ -1,27 +1,28 @@
 ---
-title: ThumbnailResource.MinimalVersion
-second_title: Aspose.PSD für .NET-API-Referenz
-description: ThumbnailResource eigendom. Ruft die minimal erforderliche PSDVersion ab.
+title: "ThumbnailResource.MinimalVersion"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "ThumbnailResource-Eigenschaft. Gibt die minimal erforderliche PSD-Version zurück."
 type: docs
 weight: 70
 url: /de/net/aspose.psd.fileformats.psd.resources/thumbnailresource/minimalversion/
 ---
+{{< psd/tize >}}
 ## ThumbnailResource.MinimalVersion property
 
-Ruft die minimal erforderliche PSD-Version ab.
+Liest die minimal erforderliche PSD-Version.
 
 ```csharp
 public override int MinimalVersion { get; }
 ```
 
-### Eigentumswert
+### Property Value
 
 Die minimale PSD-Version.
 
 ### Siehe auch
 
 * class [ThumbnailResource](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Resources](../../thumbnailresource/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

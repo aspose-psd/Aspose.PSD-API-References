@@ -1,14 +1,15 @@
 ---
-title: Enum ExifGPSAltitudeRef
-second_title: Aspose.PSD für .NET-API-Referenz
-description: Aspose.PSD.Exif.Enums.ExifGPSAltitudeRef opsomming. exif gps Höhenreferenz enum.
+title: "Enum ExifGPSAltitudeRef"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "Aspose.PSD.Exif.Enums.ExifGPSAltitudeRef Enum. Exif GPS Höhenreferenz-Enum"
 type: docs
-weight: 870
+weight: 880
 url: /de/net/aspose.psd.exif.enums/exifgpsaltituderef/
 ---
+{{< psd/tize >}}
 ## ExifGPSAltitudeRef enumeration
 
-exif gps Höhenreferenz enum.
+exif GPS-Höhenreferenz-Enum.
 
 ```csharp
 public enum ExifGPSAltitudeRef : byte
@@ -18,12 +19,12 @@ public enum ExifGPSAltitudeRef : byte
 
 | Name | Wert | Beschreibung |
 | --- | --- | --- |
-| AboveSeaLevel | `0` | über dem Meeresspiegel. |
-| BelowSeaLevel | `1` | unter dem Meeresspiegel. |
+| AboveSeaLevel | `0` | Über dem Meeresspiegel. |
+| BelowSeaLevel | `1` | Unter dem Meeresspiegel. |
 
 ### Siehe auch
 
-* namensraum [Aspose.PSD.Exif.Enums](../../aspose.psd.exif.enums/)
-* Montage [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Exif.Enums](../../aspose.psd.exif.enums/)
+* assembly [Aspose.PSD](../../)
 
 

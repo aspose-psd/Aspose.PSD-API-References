@@ -1,14 +1,15 @@
 ---
-title: PsdImage.Rotate
-second_title: Aspose.PSD für .NET-API-Referenz
-description: PsdImage methode. Bild um die Mitte drehen.
+title: "PsdImage.Rotate"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "PsdImage-Methode. Bild um das Zentrum drehen"
 type: docs
-weight: 610
+weight: 670
 url: /de/net/aspose.psd.fileformats.psd/psdimage/rotate/
 ---
+{{< psd/tize >}}
 ## Rotate(float) {#rotate}
 
-Bild um die Mitte drehen.
+Dreht das Bild um die Mitte.
 
 ```csharp
 public override void Rotate(float angle)
@@ -16,11 +17,11 @@ public override void Rotate(float angle)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| angle | Single | Der Drehwinkel in Grad. Positive Werte rotieren im Uhrzeigersinn. |
+| Winkel | Single | Der Drehwinkel in Grad. Positive Werte drehen im Uhrzeigersinn. |
 
-### Beispiele
+## Beispiele
 
-Der folgende Code demonstriert die Möglichkeit, das Bild um einen bestimmten Winkelwert zu drehen.
+Der folgende Code demonstriert die Fähigkeit, das Bild um einen bestimmten Winkelwert zu drehen.
 
 ```csharp
 [C#]
@@ -28,7 +29,7 @@ Der folgende Code demonstriert die Möglichkeit, das Bild um einen bestimmten Wi
 string sourceFileName = "TheHat.psd";
 var pngOptions = new PngOptions() { ColorType = PngColorType.TruecolorWithAlpha };
 
-// Ganzes Bild rotiert
+// Gesamtes Bild drehen
 using (PsdImage image = (PsdImage)Image.Load(sourceFileName))
 {
     for (int i = 0; i < 4; i++)
@@ -42,7 +43,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFileName))
     }
 }
 
-// Layer rotiert
+// Ebene drehen
 using (PsdImage image = (PsdImage)Image.Load(sourceFileName))
 {
     for (int i = 0; i < 4; i++)
@@ -60,14 +61,14 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFileName))
 ### Siehe auch
 
 * class [PsdImage](../)
-* namensraum [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Rotate(float, bool, Color) {#rotate_1}
 
-Bild um die Mitte drehen.
+Dreht das Bild um die Mitte.
 
 ```csharp
 public override void Rotate(float angle, bool resizeProportionally, Color backgroundColor)
@@ -75,15 +76,15 @@ public override void Rotate(float angle, bool resizeProportionally, Color backgr
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| angle | Single | Der Drehwinkel in Grad. Positive Werte rotieren im Uhrzeigersinn. |
-| resizeProportionally | Boolean | wenn eingestellt`WAHR` Sie werden Ihre Bildgröße entsprechend den Projektionen des gedrehten Rechtecks (Eckpunkte) ändern lassen, in einem anderen Fall, der die Abmessungen unberührt lässt und nur interne Bildinhalte gedreht werden. |
-| backgroundColor | Color | Farbe des Hintergrunds. |
+| Winkel | Single | Der Drehwinkel in Grad. Positive Werte drehen im Uhrzeigersinn. |
+| resizeProportionally | Boolean | Wenn auf `true` gesetzt, wird die Bildgröße entsprechend den Projektionen des gedrehten Rechtecks (Eckpunkte) geändert; andernfalls bleiben die Abmessungen unverändert und nur der interne Bildinhalt wird gedreht. |
+| backgroundColor | Farbe | Farbe des Hintergrunds. |
 
 ### Siehe auch
 
 * struct [Color](../../../aspose.psd/color/)
 * class [PsdImage](../)
-* namensraum [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

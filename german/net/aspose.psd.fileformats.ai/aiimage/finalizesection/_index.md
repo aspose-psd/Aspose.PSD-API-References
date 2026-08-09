@@ -1,28 +1,29 @@
 ---
-title: AiImage.FinalizeSection
-second_title: Aspose.PSD für .NET-API-Referenz
-description: AiImage eigendom. Ruft den Abschlussabschnitt ab.
+title: "AiImage.FinalizeSection"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "AiImage-Eigenschaft. Ruft den Finalisierungsabschnitt ab"
 type: docs
-weight: 50
+weight: 60
 url: /de/net/aspose.psd.fileformats.ai/aiimage/finalizesection/
 ---
+{{< psd/tize >}}
 ## AiImage.FinalizeSection property
 
-Ruft den Abschlussabschnitt ab.
+Liest den Abschlussabschnitt.
 
 ```csharp
 public AiFinalizeSection FinalizeSection { get; }
 ```
 
-### Eigentumswert
+### Property Value
 
-Der Abschlussabschnitt.
+Der Finalisierungsabschnitt.
 
 ### Siehe auch
 
 * class [AiFinalizeSection](../../aifinalizesection/)
 * class [AiImage](../)
-* namensraum [Aspose.PSD.FileFormats.Ai](../../aiimage/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

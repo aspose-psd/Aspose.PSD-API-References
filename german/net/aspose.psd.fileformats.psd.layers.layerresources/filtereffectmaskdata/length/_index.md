@@ -1,23 +1,24 @@
 ---
-title: FilterEffectMaskData.Length
-second_title: Aspose.PSD für .NET-API-Referenz
-description: FilterEffectMaskData eigendom. Ruft die Datenlänge der Filtermaske in Bytes ab.
+title: "FilterEffectMaskData.Length"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "FilterEffectMaskData Eigenschaft. Gibt die Länge der Filtermaskendaten in Bytes zurück"
 type: docs
 weight: 40
 url: /de/net/aspose.psd.fileformats.psd.layers.layerresources/filtereffectmaskdata/length/
 ---
+{{< psd/tize >}}
 ## FilterEffectMaskData.Length property
 
-Ruft die Datenlänge der Filtermaske in Bytes ab.
+Liest die Länge der Filter‑Masken‑Daten in Bytes.
 
 ```csharp
-public int Length { get; }
+public long Length { get; }
 ```
 
 ### Siehe auch
 
 * class [FilterEffectMaskData](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../filtereffectmaskdata/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

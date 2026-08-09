@@ -1,22 +1,23 @@
 ---
-title: VogkResource.Key
-second_title: Aspose.PSD für .NET-API-Referenz
-description: VogkResource eigendom. Ruft den LayerRessourcenschlüssel ab.
+title: "VogkResource.Key"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "VogkResource Eigenschaft. Liest den Schichtressourcenschlüssel"
 type: docs
 weight: 20
 url: /de/net/aspose.psd.fileformats.psd.layers.layerresources/vogkresource/key/
 ---
+{{< psd/tize >}}
 ## VogkResource.Key property
 
-Ruft den Layer-Ressourcenschlüssel ab.
+Liest den Schichtressourcen-Schlüssel.
 
 ```csharp
 public override int Key { get; }
 ```
 
-### Beispiele
+## Beispiele
 
-Das folgende Beispiel demonstriert die Unterstützung der VogkResource-Ressource.
+Das folgende Beispiel demonstriert die Unterstützung der VogkResource‑Ressource.
 
 ```csharp
 [C#]
@@ -51,7 +52,7 @@ using (var psdImage = (PsdImage)Image.Load(sourceFilePath))
 {
     var resource = GetVogkResource(psdImage);
 
-    // Lektüre
+    // Lesen
     if (resource.ShapeOriginSettings.Length != 1 ||
         !resource.ShapeOriginSettings[0].IsShapeInvalidated ||
         resource.ShapeOriginSettings[0].OriginIndex != 0)
@@ -73,7 +74,7 @@ using (var psdImage = (PsdImage)Image.Load(sourceFilePath))
 ### Siehe auch
 
 * class [VogkResource](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../vogkresource/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

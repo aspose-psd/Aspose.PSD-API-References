@@ -1,14 +1,15 @@
 ---
-title: GlobalAltitudeResource.GlobalAltitudeResource
-second_title: Aspose.PSD für .NET-API-Referenz
-description: GlobalAltitudeResource constructeur. Default_Constructor
+title: "GlobalAltitudeResource.GlobalAltitudeResource"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "GlobalAltitudeResource-Konstruktor. Der Standardkonstruktor"
 type: docs
 weight: 10
 url: /de/net/aspose.psd.fileformats.psd.resources/globalaltituderesource/globalaltituderesource/
 ---
+{{< psd/tize >}}
 ## GlobalAltitudeResource constructor
 
-Default_Constructor
+Der Standardkonstruktor.
 
 ```csharp
 public GlobalAltitudeResource()
@@ -17,7 +18,7 @@ public GlobalAltitudeResource()
 ### Siehe auch
 
 * class [GlobalAltitudeResource](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Resources](../../globalaltituderesource/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

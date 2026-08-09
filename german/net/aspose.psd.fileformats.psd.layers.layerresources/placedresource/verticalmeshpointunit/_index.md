@@ -1,20 +1,21 @@
 ---
-title: PlacedResource.VerticalMeshPointUnit
-second_title: Aspose.PSD für .NET-API-Referenz
-description: PlacedResource eigendom. Ruft die Maßeinheit der vertikalen Gitterpunkte ab oder legt sie fest.
+title: "PlacedResource.VerticalMeshPointUnit"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "PlacedResource-Eigenschaft. Gibt die Maßeinheit der vertikalen Gitterpunkte zurück oder setzt sie."
 type: docs
-weight: 230
+weight: 220
 url: /de/net/aspose.psd.fileformats.psd.layers.layerresources/placedresource/verticalmeshpointunit/
 ---
+{{< psd/tize >}}
 ## PlacedResource.VerticalMeshPointUnit property
 
-Ruft die Maßeinheit der vertikalen Gitterpunkte ab oder legt sie fest.
+Liest oder legt die Maßeinheit der vertikalen Maschenpunkte fest.
 
 ```csharp
 public UnitTypes VerticalMeshPointUnit { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
 Die Maßeinheit der vertikalen Gitterpunkte.
 
@@ -22,7 +23,7 @@ Die Maßeinheit der vertikalen Gitterpunkte.
 
 * enum [UnitTypes](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/unittypes/)
 * class [PlacedResource](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../placedresource/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

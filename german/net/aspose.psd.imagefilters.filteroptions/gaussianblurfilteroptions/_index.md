@@ -1,39 +1,40 @@
 ---
-title: Class GaussianBlurFilterOptions
-second_title: Aspose.PSD für .NET-API-Referenz
-description: Aspose.PSD.ImageFilters.FilterOptions.GaussianBlurFilterOptions klas. Die Gaußsche Unschärfe
+title: "Klasse GaussianBlurFilterOptions"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "Aspose.PSD.ImageFilters.FilterOptions.GaussianBlurFilterOptions Klasse. Der Gaussian-Blur"
 type: docs
-weight: 4710
+weight: 5180
 url: /de/net/aspose.psd.imagefilters.filteroptions/gaussianblurfilteroptions/
 ---
+{{< psd/tize >}}
 ## GaussianBlurFilterOptions class
 
-Die Gaußsche Unschärfe
+Der Gaußsche Weichzeichner
 
 ```csharp
 public class GaussianBlurFilterOptions : ConvolutionFilterOptions
 ```
 
-## Konstrukteure
+## Konstruktoren
 
 | Name | Beschreibung |
 | --- | --- |
-| [GaussianBlurFilterOptions](gaussianblurfilteroptions/#constructor)() | Initialisiert eine neue Instanz von`GaussianBlurFilterOptions` class. Mit Standardeinstellungen. |
-| [GaussianBlurFilterOptions](gaussianblurfilteroptions/#constructor_1)(int, double) | Initialisiert eine neue Instanz von`GaussianBlurFilterOptions` Klasse. |
+| [GaussianBlurFilterOptions](gaussianblurfilteroptions/#constructor)() | Initialisiert eine neue Instanz der `GaussianBlurFilterOptions` Klasse. Mit Standardeinstellungen. |
+| [GaussianBlurFilterOptions](gaussianblurfilteroptions/#constructor_1)(int, double) | Initialisiert eine neue Instanz der `GaussianBlurFilterOptions` Klasse. |
 
 ## Eigenschaften
 
 | Name | Beschreibung |
 | --- | --- |
-| [Bias](../../aspose.psd.imagefilters.filteroptions/convolutionfilteroptions/bias/) { get; set; } | Ruft den Bias ab oder legt ihn fest. |
+| [Bias](../../aspose.psd.imagefilters.filteroptions/convolutionfilteroptions/bias/) { get; set; } | Liest oder setzt den Bias. |
 | [Factor](../../aspose.psd.imagefilters.filteroptions/convolutionfilteroptions/factor/) { get; set; } | Liest oder setzt den Faktor. |
-| [Radius](../../aspose.psd.imagefilters.filteroptions/gaussianblurfilteroptions/radius/) { get; set; } | Ruft den Radius ab oder legt ihn fest. |
-| [Sigma](../../aspose.psd.imagefilters.filteroptions/gaussianblurfilteroptions/sigma/) { get; set; } | Ruft das Sigma ab oder legt es fest. |
+| [Radius](../../aspose.psd.imagefilters.filteroptions/gaussianblurfilteroptions/radius/) { get; set; } | Liest oder setzt den Radius. |
+| [Sigma](../../aspose.psd.imagefilters.filteroptions/gaussianblurfilteroptions/sigma/) { get; set; } | Liest oder setzt das Sigma. |
 
 ### Siehe auch
 
 * class [ConvolutionFilterOptions](../convolutionfilteroptions/)
-* namensraum [Aspose.PSD.ImageFilters.FilterOptions](../../aspose.psd.imagefilters.filteroptions/)
-* Montage [Aspose.PSD](../../)
+* namespace [Aspose.PSD.ImageFilters.FilterOptions](../../aspose.psd.imagefilters.filteroptions/)
+* assembly [Aspose.PSD](../../)
 
 

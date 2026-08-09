@@ -1,27 +1,28 @@
 ---
-title: Jpeg2000Options.Comments
-second_title: Aspose.PSD für .NET-API-Referenz
-description: Jpeg2000Options eigendom. Ruft die JpegKommentarmarkierungen ab oder setzt sie.
+title: "Jpeg2000Options.Comments"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "Jpeg2000Options-Eigenschaft. Gibt die JPEG-Kommentarmarker zurück oder legt sie fest."
 type: docs
 weight: 30
 url: /de/net/aspose.psd.imageoptions/jpeg2000options/comments/
 ---
+{{< psd/tize >}}
 ## Jpeg2000Options.Comments property
 
-Ruft die Jpeg-Kommentarmarkierungen ab oder setzt sie.
+Liest oder setzt die JPEG‑Kommentarmarker.
 
 ```csharp
 public string[] Comments { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
-Die JPEG-Kommentarmarkierungen.
+Die JPEG-Kommentarmarker.
 
 ### Siehe auch
 
 * class [Jpeg2000Options](../)
-* namensraum [Aspose.PSD.ImageOptions](../../jpeg2000options/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

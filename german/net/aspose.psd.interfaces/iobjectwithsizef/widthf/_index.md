@@ -1,27 +1,28 @@
 ---
-title: IObjectWithSizeF.WidthF
-second_title: Aspose.PSD für .NET-API-Referenz
-description: IObjectWithSizeF eigendom. Ruft die Objektbreite in Zoll ab.
+title: "IObjectWithSizeF.WidthF"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "IObjectWithSizeF-Eigenschaft. Gibt die Objektbreite in Zoll zurück"
 type: docs
 weight: 30
 url: /de/net/aspose.psd.interfaces/iobjectwithsizef/widthf/
 ---
+{{< psd/tize >}}
 ## IObjectWithSizeF.WidthF property
 
-Ruft die Objektbreite in Zoll ab.
+Ermittelt die Objektbreite in Zoll.
 
 ```csharp
 public float WidthF { get; }
 ```
 
-### Eigentumswert
+### Property Value
 
-Die Objektbreite in Zoll.
+Die Objektbreite, in Zoll.
 
 ### Siehe auch
 
 * interface [IObjectWithSizeF](../)
-* namensraum [Aspose.PSD.Interfaces](../../iobjectwithsizef/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Interfaces](../../../aspose.psd.interfaces/)
+* assembly [Aspose.PSD](../../../)
 
 

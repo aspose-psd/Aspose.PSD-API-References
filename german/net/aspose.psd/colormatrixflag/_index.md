@@ -1,14 +1,15 @@
 ---
-title: Enum ColorMatrixFlag
-second_title: Aspose.PSD für .NET-API-Referenz
-description: Aspose.PSD.ColorMatrixFlag opsomming. Gibt die Typen von Bildern und Farben an die von den Farb und Graustufenanpassungseinstellungen eines beeinflusst werdenImageAttributes .
+title: "Enum ColorMatrixFlag"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "Aspose.PSD.ColorMatrixFlag-Enum. Gibt die Arten von Bildern und Farben an, die von den Farb- und Graustufen-Anpassungseinstellungen eines ImageAttributes betroffen sind."
 type: docs
 weight: 360
 url: /de/net/aspose.psd/colormatrixflag/
 ---
+{{< psd/tize >}}
 ## ColorMatrixFlag enumeration
 
-Gibt die Typen von Bildern und Farben an, die von den Farb- und Graustufenanpassungseinstellungen eines beeinflusst werden[`ImageAttributes`](../imageattributes/) .
+Gibt die Arten von Bildern und Farben an, die von den Farb- und Graustufen-Anpassungseinstellungen eines [`ImageAttributes`](../imageattributes/) betroffen sind.
 
 ```csharp
 public enum ColorMatrixFlag
@@ -18,13 +19,13 @@ public enum ColorMatrixFlag
 
 | Name | Wert | Beschreibung |
 | --- | --- | --- |
-| Default | `0` | Alle Farbwerte, einschließlich Graustufen, werden durch dieselbe Farbanpassungsmatrix angepasst. |
-| SkipGrays | `1` | Alle Farben werden angepasst, aber Graustufen werden nicht angepasst. Ein Grauton ist jede Farbe, die für ihre roten, grünen und blauen Komponenten denselben Wert hat. |
-| AltGrays | `2` | Nur Graustufen werden angepasst. |
+| Default | `0` | Alle Farbwerte, einschließlich Grautöne, werden durch dieselbe Farb-Anpassungsmatrix korrigiert. |
+| SkipGrays | `1` | Alle Farben werden angepasst, jedoch nicht die Grautöne. Ein Grauton ist jede Farbe, bei der die Rot-, Grün- und Blaukomponenten denselben Wert haben. |
+| AltGrays | `2` | Nur Grautöne werden angepasst. |
 
 ### Siehe auch
 
-* namensraum [Aspose.PSD](../../aspose.psd/)
-* Montage [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: JFIFData.YDensity
-second_title: Aspose.PSD für .NET-API-Referenz
-description: JFIFData eigendom. Ruft die yDichte ab oder legt sie fest.
+title: "JFIFData.YDensity"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "JFIFData-Eigenschaft. Liest oder schreibt die y-Dichte"
 type: docs
 weight: 60
 url: /de/net/aspose.psd.fileformats.jpeg/jfifdata/ydensity/
 ---
+{{< psd/tize >}}
 ## JFIFData.YDensity property
 
-Ruft die y-Dichte ab oder legt sie fest.
+Liest oder setzt die Y‑Dichte.
 
 ```csharp
 public short YDensity { get; set; }
@@ -17,7 +18,7 @@ public short YDensity { get; set; }
 ### Siehe auch
 
 * class [JFIFData](../)
-* namensraum [Aspose.PSD.FileFormats.Jpeg](../../jfifdata/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Jpeg](../../../aspose.psd.fileformats.jpeg/)
+* assembly [Aspose.PSD](../../../)
 
 

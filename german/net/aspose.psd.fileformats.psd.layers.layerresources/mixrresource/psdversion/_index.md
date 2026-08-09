@@ -1,14 +1,15 @@
 ---
-title: MixrResource.PsdVersion
-second_title: Aspose.PSD für .NET-API-Referenz
-description: MixrResource eigendom. Ruft die PSDVersion ab.
+title: "MixrResource.PsdVersion"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "MixrResource-Eigenschaft. Liest die PSD-Version."
 type: docs
 weight: 50
 url: /de/net/aspose.psd.fileformats.psd.layers.layerresources/mixrresource/psdversion/
 ---
+{{< psd/tize >}}
 ## MixrResource.PsdVersion property
 
-Ruft die PSD-Version ab.
+Gibt die PSD-Version zurück.
 
 ```csharp
 public override int PsdVersion { get; }
@@ -17,7 +18,7 @@ public override int PsdVersion { get; }
 ### Siehe auch
 
 * class [MixrResource](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../mixrresource/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

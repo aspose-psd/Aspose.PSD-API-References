@@ -1,26 +1,27 @@
 ---
-title: PsdOptions.PsdVersion
-second_title: Aspose.PSD für .NET-API-Referenz
-description: PsdOptions eigendom. Ruft die Version des Dateiformats ab oder legt sie fest. Es kann PSD oder PSB sein.
+title: "PsdOptions.PsdVersion"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "PsdOptions-Eigenschaft. Gibt die Dateiformatversion zurück oder legt sie fest. Sie kann PSD oder PSB sein."
 type: docs
-weight: 60
+weight: 70
 url: /de/net/aspose.psd.imageoptions/psdoptions/psdversion/
 ---
+{{< psd/tize >}}
 ## PsdOptions.PsdVersion property
 
-Ruft die Version des Dateiformats ab oder legt sie fest. Es kann PSD oder PSB sein.
+Liest oder setzt die Dateiformatversion. Sie kann PSD oder PSB sein.
 
 ```csharp
 public PsdVersion PsdVersion { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
-Die Version des Dateiformats.
+Die Dateiformatversion.
 
-### Beispiele
+## Beispiele
 
-Das folgende Beispiel zeigt die Möglichkeit, PSD-Dateien in PSB und umgekehrt zu konvertieren.
+Das folgende Beispiel zeigt die Möglichkeit, PSD-Dateien in PSB zu konvertieren und umgekehrt.
 
 ```csharp
 [C#]
@@ -46,7 +47,7 @@ using (Image img = Image.Load(sourceFilePathPsd))
 
 * enum [PsdVersion](../../../aspose.psd.fileformats.psd/psdversion/)
 * class [PsdOptions](../)
-* namensraum [Aspose.PSD.ImageOptions](../../psdoptions/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

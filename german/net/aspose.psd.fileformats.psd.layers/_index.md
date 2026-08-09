@@ -1,43 +1,47 @@
 ---
-title: Aspose.PSD.FileFormats.Psd.Layers
-second_title: Aspose.PSD für .NET-API-Referenz
-description: Der Namensraum enthält Ebenen im PSDDateiformat.
+title: "Aspose.PSD.FileFormats.Psd.Layers"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "Der Namespace enthält PSD-Datei-Format-Ebenen"
 type: docs
-weight: 210
+weight: 230
 url: /de/net/aspose.psd.fileformats.psd.layers/
 ---
-Der Namensraum enthält Ebenen im PSD-Dateiformat.
+{{< psd/tize >}}
+Der Namespace enthält PSD-Dateiformat-Ebenen.
 
 ## Klassen
 
 | Klasse | Beschreibung |
 | --- | --- |
-| [BlendRange](./blendrange/) | Der Mischungsbereich. |
+| [ArtboardLayer](./artboardlayer/) | Die Artboard-Ebenenklasse. |
+| [BlendRange](./blendrange/) | Der Mischbereich. |
 | [ChannelInformation](./channelinformation/) | Die Kanalinformationen. |
 | [GlobalLayerMaskInfo](./globallayermaskinfo/) | Der globale Ebenenmaskenabschnitt. |
 | [Layer](./layer/) | Die PSD-Ebene. |
-| [LayerBlendingRangesData](./layerblendingrangesdata/) | Die Layer-Mischbereichsdaten. |
-| [LayerGroup](./layergroup/) | Gruppenebenenklasse |
-| [LayerHashCalculator](./layerhashcalculator/) | Hash-Rechner für PSD-Layer. Es kann verwendet werden, um gleiche oder unterschiedliche Ebenen in verschiedenen PSD-Dateien zu finden |
-| [LayerMaskData](./layermaskdata/) | Definiert die Basisklasse LayerMaskData, die Informationen über die Ebenenmaskendaten in der PSD-Datei enthält. Sie kann dabei helfen, Adobe® Photoshop®-Dateien programmgesteuert zu ändern und die Bearbeitung des PSD-Formats zu automatisieren. Wenn die Ebene nur eine Rastermaske hat, enthalten die ImageData das Raster Maskendatenbytes. Wenn die Ebene nur eine Vektormaske hat, enthalten die ImageData die gerasterten (zwischengespeicherten) Datenbytes der Vektormaske. Wenn die Ebene sowohl Ebenen- als auch Vektormasken hat, enthalten die ImageData die Rastermaske und die gerasterte Vektormaske kombiniert. Der[`ImageData`](../aspose.psd.fileformats.psd.layers/layermaskdata/imagedata/)Bytes Länge sollte gleich Breite * Höhe sein[`MaskRectangle`](../aspose.psd.fileformats.psd.layers/layermaskdata/maskrectangle/) properties. Beachten Sie, dass das Entfernen / Hinzufügen / Aktualisieren der LayerMaskData nicht ausreicht, um korrekt zu speichern , da Kanäle nicht aktualisiert werden; obwohl es möglicherweise eine korrekte Wiedergabe liefert. Die[`AddLayerMask`](../aspose.psd.fileformats.psd.layers/layer/addlayermask/) Methode sollte dafür verwendet werden. |
-| [LayerMaskDataFull](./layermaskdatafull/) | Definiert die LayerMaskDataFull-Klasse, die Informationen zu den Maskendaten in der PSD-Datei layer enthält, wenn die Ebene sowohl Ebenen- als auch Vektormasken enthält. Ansonsten A[`LayerMaskDataShort`](../aspose.psd.fileformats.psd.layers/layermaskdatashort/) wird verwendet. Die ImageData enthält die Rastermaske und die gerasterte Vektormaske kombiniert. Die ImageData-Bytelänge sollte gleich MaskRectangle.Width * MaskRectangle.Height-Eigenschaften sein. |
-| [LayerMaskDataShort](./layermaskdatashort/) | Definiert die LayerMaskDataShort-Klasse, die Informationen über die Maskendaten in der PSD-Datei layer enthält, wenn die Ebene nur eine Raster- oder Vektormaske, aber nicht beides hat. Ansonsten A[`LayerMaskDataFull`](../aspose.psd.fileformats.psd.layers/layermaskdatafull/) verwendet wird. Wenn der Layer nur eine Rastermaske hat, enthält ImageData die Datenbytes der Rastermaske. Wenn der Layer nur eine Vektormaske hat, enthält ImageData die gerasterten (zwischengespeicherten) Datenbytes der Vektormaske. Die[`ImageData`](../aspose.psd.fileformats.psd.layers/layermaskdata/imagedata/)Bytes Länge sollte gleich Breite * Höhe sein[`MaskRectangle`](../aspose.psd.fileformats.psd.layers/layermaskdata/maskrectangle/) Eigenschaften. |
-| [LayerResource](./layerresource/) | Repräsentiert Schichtinformationen. |
-| [LayerResourcesRegistry](./layerresourcesregistry/) | Definieren Sie die Layer-Ressourcen-Registrierung für das Laden von PSD-Dateien. |
-| [LinkedLayersManager](./linkedlayersmanager/) | Managerklasse für verknüpfte Ebenen. |
-| [SectionDividerLayer](./sectiondividerlayer/) | Die Schnittteilerebene zur Markierung der Grenzen des Ordners (Ebenengruppe). |
-| [TextLayer](./textlayer/) | Die Textebenenklasse |
+| [LayerBlendingRangesData](./layerblendingrangesdata/) | Die Daten der Ebenen‑Blending‑Bereiche. |
+| [LayerGroup](./layergroup/) | Klasse für Gruppenebene |
+| [LayerHashCalculator](./layerhashcalculator/) | Hash‑Rechner für PSD‑Ebenen. Er kann verwendet werden, um gleiche oder unterschiedliche Ebenen in verschiedenen PSD‑Dateien zu finden. |
+| [LayerMaskData](./layermaskdata/) | Definiert die Basisklasse LayerMaskData, die Informationen über die Ebenenmaskendaten in der PSD‑Datei enthält. Sie kann dabei helfen, Adobe® Photoshop®‑Dateien programmgesteuert zu ändern und die Bearbeitung des PSD‑Formats zu automatisieren. Wenn die Ebene nur eine Rastermaske hat, enthält ImageData die Bytes der Rastermaskendaten. Wenn die Ebene nur eine Vektormaske hat, enthält ImageData die gerasterten (zwischengespeicherten) Datenbytes der Vektormaske. Wenn die Ebene sowohl Ebenen‑ als auch Vektormasken hat, enthält ImageData die kombinierte Rastermaske und die gerasterte Vektormaske. Die Länge der [`ImageData`](../aspose.psd.fileformats.psd.layers/layermaskdata/imagedata/) Bytes sollte gleich Width * Height der Eigenschaften von [`MaskRectangle`](../aspose.psd.fileformats.psd.layers/layermaskdata/maskrectangle/) sein. Beachten Sie, dass das bloße Entfernen/Hinzufügen/Aktualisieren von LayerMaskData nicht ausreicht, um korrekt zu speichern, da Kanäle nicht aktualisiert werden; es kann jedoch eine korrekte Darstellung ermöglichen. Die Methode [`AddLayerMask`](../aspose.psd.fileformats.psd.layers/layer/addlayermask/) sollte dafür verwendet werden. |
+| [LayerMaskDataFull](./layermaskdatafull/) | Definiert die Klasse LayerMaskDataFull, die Informationen über die Maskendaten in der PSD‑Dateiebene enthält, wenn die Ebene sowohl Ebenen‑ als auch Vektormasken hat. Andernfalls wird [`LayerMaskDataShort`](../aspose.psd.fileformats.psd.layers/layermaskdatashort/) verwendet. ImageData enthält die kombinierte Rastermaske und die gerasterte Vektormaske. Die Länge der ImageData‑Bytes sollte gleich den Eigenschaften MaskRectangle.Width * MaskRectangle.Height sein. |
+| [LayerMaskDataShort](./layermaskdatashort/) | Definiert die Klasse LayerMaskDataShort, die Informationen über die Maskendaten in der PSD‑Dateiebene enthält, wenn die Ebene nur eine Raster‑ oder Vektormaske, jedoch nicht beide, hat. Andernfalls wird [`LayerMaskDataFull`](../aspose.psd.fileformats.psd.layers/layermaskdatafull/) verwendet. Wenn die Ebene nur eine Rastermaske hat, enthält ImageData die Bytes der Rastermaskendaten. Wenn die Ebene nur eine Vektormaske hat, enthält ImageData die gerasterten (zwischengespeicherten) Datenbytes der Vektormaske. Die Länge der [`ImageData`](../aspose.psd.fileformats.psd.layers/layermaskdata/imagedata/) Bytes sollte gleich Width * Height der Eigenschaften von [`MaskRectangle`](../aspose.psd.fileformats.psd.layers/layermaskdata/maskrectangle/) sein. |
+| [LayerResource](./layerresource/) | Stellt Ebeneninformationen dar. |
+| [LayerResourcesRegistry](./layerresourcesregistry/) | Definiert das Ressourcenregister für Ebenen beim Laden von PSD‑Dateien. |
+| [LinkedLayersManager](./linkedlayersmanager/) | Klasse für die Verwaltung verknüpfter Ebenen. |
+| [SectionDividerLayer](./sectiondividerlayer/) | Die Abschnittstrenn‑Ebene, um die Grenzen des Ordners (Ebenengruppe) zu markieren. |
+| [ShapeLayer](./shapelayer/) | Formebene. Kapselt die Logik der Arbeit mit Formebenen und zugehörigen Ressourcen. |
+| [TextLayer](./textlayer/) | Die Text‑Ebenenklasse |
 ## Schnittstellen
 
 | Schnittstelle | Beschreibung |
 | --- | --- |
-| [IGradientColorPoint](./igradientcolorpoint/) | Basisschnittstelle für Fülleinstellungen |
-| [ILayerResourceLoader](./ilayerresourceloader/) | Der Layer-Ressourcenlader. |
+| [IGradientColorPoint](./igradientcolorpoint/) | Basisschnittstelle für Füllungseinstellungen |
+| [ILayerResourceLoader](./ilayerresourceloader/) | Der Ebenen‑Ressourcen‑Lader. |
+| [IShapeLayer](./ishapelayer/) | Beschreibt die Eigenschaften der Formebene. |
 ## Aufzählung
 
 | Aufzählung | Beschreibung |
 | --- | --- |
-| [LayerFlags](./layerflags/) | Die Layer-Flags |
-| [LayerMaskFlags](./layermaskflags/) | Die Ebenenmaske flags |
+| [LayerFlags](./layerflags/) | Die Ebenen‑Flags |
+| [LayerMaskFlags](./layermaskflags/) | Die Ebenenmasken‑Flags |
 
 

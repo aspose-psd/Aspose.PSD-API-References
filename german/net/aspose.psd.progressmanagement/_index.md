@@ -1,22 +1,23 @@
 ---
-title: Aspose.PSD.ProgressManagement
-second_title: Aspose.PSD für .NET-API-Referenz
-description: Der Namespace enthält ProgressHandlerKlassen
+title: "Aspose.PSD.ProgressManagement"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "Der Namensraum enthält Fortschritts-Handler-Klassen."
 type: docs
-weight: 480
+weight: 520
 url: /de/net/aspose.psd.progressmanagement/
 ---
-Der Namespace enthält Progress-Handler-Klassen
+{{< psd/tize >}}
+Der Namensraum enthält Fortschritts-Handler-Klassen.
 
 ## Klassen
 
 | Klasse | Beschreibung |
 | --- | --- |
-| [ProgressEventHandlerInfo](./progresseventhandlerinfo/) | Diese Klasse stellt Informationen über den Fortschritt von Lade-/Speicher-/Exportvorgängen für Bilder dar, die in externen Anwendungen verwendet werden können, um dem Endbenutzer den Konvertierungsfortschritt anzuzeigen |
+| [ProgressEventHandlerInfo](./progresseventhandlerinfo/) | Diese Klasse stellt Informationen über den Fortschritt von Bildlade-/Speicher-/Exportvorgängen bereit, die in einer externen Anwendung verwendet werden können, um dem Endbenutzer den Konvertierungsfortschritt anzuzeigen |
 ## Aufzählung
 
 | Aufzählung | Beschreibung |
 | --- | --- |
-| [EventType](./eventtype/) | Diese Aufzählung beschreibt mögliche Arten von Fortschrittsereignissen, die während Bildverarbeitungsvorgängen auftreten können |
+| [EventType](./eventtype/) | Dieses Enum beschreibt mögliche Fortschrittsereignistypen, die während Bildverarbeitungsoperationen auftreten können |
 
 

@@ -1,20 +1,21 @@
 ---
-title: RawDataSettings.IndexedColorConverter
-second_title: Aspose.PSD für .NET-API-Referenz
-description: RawDataSettings eigendom. Holt oder setzt den indizierten Farbkonverter
+title: "RawDataSettings.IndexedColorConverter"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "RawDataSettings Eigenschaft. Ruft den indizierten Farbkonverter ab oder legt ihn fest"
 type: docs
 weight: 60
 url: /de/net/aspose.psd/rawdatasettings/indexedcolorconverter/
 ---
+{{< psd/tize >}}
 ## RawDataSettings.IndexedColorConverter property
 
-Holt oder setzt den indizierten Farbkonverter
+Liest oder setzt den indizierten Farbkonverter
 
 ```csharp
 public IIndexedColorConverter IndexedColorConverter { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
 Der indizierte Farbkonverter
 
@@ -22,7 +23,7 @@ Der indizierte Farbkonverter
 
 * interface [IIndexedColorConverter](../../iindexedcolorconverter/)
 * class [RawDataSettings](../)
-* namensraum [Aspose.PSD](../../rawdatasettings/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

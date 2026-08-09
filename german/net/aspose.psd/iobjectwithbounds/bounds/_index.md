@@ -1,28 +1,29 @@
 ---
-title: IObjectWithBounds.Bounds
-second_title: Aspose.PSD für .NET-API-Referenz
-description: IObjectWithBounds eigendom. Ruft die Objektgrenzen ab.
+title: "IObjectWithBounds.Bounds"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "IObjectWithBounds-Eigenschaft. Gibt die Begrenzungen des Objekts zurück."
 type: docs
 weight: 10
 url: /de/net/aspose.psd/iobjectwithbounds/bounds/
 ---
+{{< psd/tize >}}
 ## IObjectWithBounds.Bounds property
 
-Ruft die Objektgrenzen ab.
+Liefert die Begrenzungen des Objekts.
 
 ```csharp
 public Rectangle Bounds { get; }
 ```
 
-### Eigentumswert
+### Property Value
 
-Die Objektgrenzen.
+Die Objektbegrenzungen.
 
 ### Siehe auch
 
 * struct [Rectangle](../../rectangle/)
 * interface [IObjectWithBounds](../)
-* namensraum [Aspose.PSD](../../iobjectwithbounds/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

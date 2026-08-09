@@ -1,14 +1,15 @@
 ---
-title: Rectangle.Width
-second_title: Aspose.PSD für .NET-API-Referenz
-description: Rectangle eigendom. Holt oder setzt die Breite davonRectangleStruktur.
+title: "Rectangle.Width"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "Rectangle-Eigenschaft. Gibt die Breite dieser Rectangle-Struktur zurück oder setzt sie."
 type: docs
 weight: 190
 url: /de/net/aspose.psd/rectangle/width/
 ---
+{{< psd/tize >}}
 ## Rectangle.Width property
 
-Holt oder setzt die Breite davon[`Rectangle`](../)Struktur.
+Gibt die Breite dieser [`Rectangle`](../)-Struktur zurück oder setzt sie.
 
 ```csharp
 public int Width { get; set; }
@@ -16,12 +17,12 @@ public int Width { get; set; }
 
 ### Rückgabewert
 
-Die Breite davon[`Rectangle`](../) Struktur.
+Die Breite dieser [`Rectangle`](../)-Struktur.
 
 ### Siehe auch
 
 * struct [Rectangle](../)
-* namensraum [Aspose.PSD](../../rectangle/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

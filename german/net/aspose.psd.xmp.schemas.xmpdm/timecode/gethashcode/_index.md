@@ -1,14 +1,15 @@
 ---
-title: Timecode.GetHashCode
-second_title: Aspose.PSD für .NET-API-Referenz
-description: Timecode methode. Gibt einen HashCode für diese Instanz zurück.
+title: "Timecode.GetHashCode"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "Timecode-Methode. Gibt einen Hashcode für diese Instanz zurück."
 type: docs
 weight: 50
 url: /de/net/aspose.psd.xmp.schemas.xmpdm/timecode/gethashcode/
 ---
+{{< psd/tize >}}
 ## Timecode.GetHashCode method
 
-Gibt einen Hash-Code für diese Instanz zurück.
+Gibt einen Hashcode für diese Instanz zurück.
 
 ```csharp
 public override int GetHashCode()
@@ -16,12 +17,12 @@ public override int GetHashCode()
 
 ### Rückgabewert
 
-Ein Hash-Code für diese Instanz, geeignet zur Verwendung in Hash-Algorithmen und Datenstrukturen wie einer Hash-Tabelle.
+Ein Hashcode für diese Instanz, geeignet für die Verwendung in Hash-Algorithmen und Datenstrukturen wie einer Hashtabelle.
 
 ### Siehe auch
 
 * class [Timecode](../)
-* namensraum [Aspose.PSD.Xmp.Schemas.XmpDm](../../timecode/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpDm](../../../aspose.psd.xmp.schemas.xmpdm/)
+* assembly [Aspose.PSD](../../../)
 
 

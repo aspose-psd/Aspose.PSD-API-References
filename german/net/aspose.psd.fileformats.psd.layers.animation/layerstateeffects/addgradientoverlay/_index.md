@@ -1,14 +1,15 @@
 ---
-title: LayerStateEffects.AddGradientOverlay
-second_title: Aspose.PSD für .NET-API-Referenz
-description: LayerStateEffects methode. Fügt den Verlaufsüberlagerungseffekt hinzu.
+title: "LayerStateEffects.AddGradientOverlay"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "LayerStateEffects-Methode. Fügt den Farbverlauf-Overlay-Effekt hinzu"
 type: docs
 weight: 50
 url: /de/net/aspose.psd.fileformats.psd.layers.animation/layerstateeffects/addgradientoverlay/
 ---
+{{< psd/tize >}}
 ## LayerStateEffects.AddGradientOverlay method
 
-Fügt den Verlaufsüberlagerungseffekt hinzu.
+Fügt den Verlauf-Overlay-Effekt hinzu.
 
 ```csharp
 public GradientOverlayEffect AddGradientOverlay()
@@ -16,9 +17,9 @@ public GradientOverlayEffect AddGradientOverlay()
 
 ### Rückgabewert
 
-Die neue Instanz der[`GradientOverlayEffect`](../../../aspose.psd.fileformats.psd.layers.layereffects/gradientoverlayeffect/) Klasse.
+Die neue Instanz der [`GradientOverlayEffect`](../../../aspose.psd.fileformats.psd.layers.layereffects/gradientoverlayeffect/) Klasse.
 
-### Beispiele
+## Beispiele
 
 Der folgende Code demonstriert die Unterstützung von Effekten in Timeline-Frames.
 
@@ -30,19 +31,16 @@ string outputFile = "output.psd";
 
 using (var psdImage = (PsdImage)Image.Load(sourceFile))
 {
-    TimeLine timeLine = TimeLine.InitializeFrom(psdImage);
-    int[] layerIds = timeLine.LayerIds;
+    Timeline timeline = psdImage.Timeline;
 
-    var layerStateEffects11 = timeLine.Frames[1].LayerStates[layerIds[1]].StateEffects;
+    var layerStateEffects11 = timeline.Frames[1].LayerStates[1].StateEffects;
 
     layerStateEffects11.AddDropShadow();
     layerStateEffects11.AddGradientOverlay();
 
-    var layerStateEffects21 = timeLine.Frames[2].LayerStates[layerIds[1]].StateEffects;
+    var layerStateEffects21 = timeline.Frames[2].LayerStates[1].StateEffects;
     layerStateEffects21.AddStroke(FillType.Color);
     layerStateEffects21.IsVisible = false;
-
-    timeLine.ApplyTo(psdImage);
 
     psdImage.Save(outputFile);
 }
@@ -52,7 +50,7 @@ using (var psdImage = (PsdImage)Image.Load(sourceFile))
 
 * class [GradientOverlayEffect](../../../aspose.psd.fileformats.psd.layers.layereffects/gradientoverlayeffect/)
 * class [LayerStateEffects](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.Animation](../../layerstateeffects/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.Animation](../../../aspose.psd.fileformats.psd.layers.animation/)
+* assembly [Aspose.PSD](../../../)
 
 

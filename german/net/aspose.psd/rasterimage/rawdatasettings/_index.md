@@ -1,20 +1,21 @@
 ---
-title: RasterImage.RawDataSettings
-second_title: Aspose.PSD für .NET-API-Referenz
-description: RasterImage eigendom. Ruft die aktuellen Rohdateneinstellungen ab. Beachten Sie dass bei Verwendung dieser Einstellungen die Daten ohne Konvertierung geladen werden.
+title: "RasterImage.RawDataSettings"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "RasterImage Eigenschaft. Gibt die aktuellen Rohdateneinstellungen zurück. Hinweis: Beim Verwenden dieser Einstellungen werden die Daten ohne Konvertierung geladen"
 type: docs
 weight: 90
 url: /de/net/aspose.psd/rasterimage/rawdatasettings/
 ---
+{{< psd/tize >}}
 ## RasterImage.RawDataSettings property
 
-Ruft die aktuellen Rohdateneinstellungen ab. Beachten Sie, dass bei Verwendung dieser Einstellungen die Daten ohne Konvertierung geladen werden.
+Liest die aktuellen Rohdaten-Einstellungen. Hinweis: Beim Verwenden dieser Einstellungen werden die Daten ohne Konvertierung geladen.
 
 ```csharp
 public RawDataSettings RawDataSettings { get; }
 ```
 
-### Eigentumswert
+### Property Value
 
 Die aktuellen Rohdateneinstellungen.
 
@@ -22,7 +23,7 @@ Die aktuellen Rohdateneinstellungen.
 
 * class [RawDataSettings](../../rawdatasettings/)
 * class [RasterImage](../)
-* namensraum [Aspose.PSD](../../rasterimage/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

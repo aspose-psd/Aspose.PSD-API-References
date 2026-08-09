@@ -1,31 +1,32 @@
 ---
-title: Layer.DisplayName
-second_title: Aspose.PSD für .NET-API-Referenz
-description: Layer eigendom. Ruft den Anzeigenamen der Ebene ab oder legt ihn fest.
+title: "Layer.DisplayName"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "Layer-Eigenschaft. Gibt den Anzeigenamen der Ebene zurück oder legt ihn fest"
 type: docs
-weight: 100
+weight: 110
 url: /de/net/aspose.psd.fileformats.psd.layers/layer/displayname/
 ---
+{{< psd/tize >}}
 ## Layer.DisplayName property
 
-Ruft den Anzeigenamen der Ebene ab oder legt ihn fest.
+Liest oder setzt den Anzeigenamen der Ebene.
 
 ```csharp
 public string DisplayName { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
 Der Anzeigename der Ebene.
 
-### Beispiele
+## Beispiele
 
-Das folgende Beispiel zeigt die Möglichkeit, den DisplayName-Wert festzulegen, in dem der Layer-Name korrekt angezeigt wird.
+Das folgende Beispiel demonstriert die Möglichkeit, den DisplayName-Wert zu setzen, sodass der Ebenenname korrekt angezeigt wird.
 
 ```csharp
 [C#]
 
-// Änderungen an den Ebenennamen vornehmen und speichern
+// Nehmen Sie Änderungen an Ebenennamen vor und speichern Sie sie
 string sourceFileName = "layers with names.psd";
 string output = "output.psd";
 
@@ -34,7 +35,7 @@ using (var image = (PsdImage)Image.Load(sourceFileName))
     for (int i = 0; i < image.Layers.Length; i++)
     {
         var layer = image.Layers[i];
-        // Neuen Wert in DisplayName-Eigenschaft setzen
+        // neuen Wert in die DisplayName-Eigenschaft setzen
         layer.DisplayName += "_changed";
     }
 
@@ -45,7 +46,7 @@ using (var image = (PsdImage)Image.Load(sourceFileName))
 ### Siehe auch
 
 * class [Layer](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers](../../layer/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

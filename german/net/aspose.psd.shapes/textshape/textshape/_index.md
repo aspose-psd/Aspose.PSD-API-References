@@ -1,14 +1,15 @@
 ---
-title: TextShape.TextShape
-second_title: Aspose.PSD für .NET-API-Referenz
-description: TextShape constructeur. Initialisiert eine neue Instanz vonTextShape Klasse.
+title: "TextShape.TextShape"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "TextShape-Konstruktor. Initialisiert eine neue Instanz der TextShape-Klasse"
 type: docs
 weight: 10
 url: /de/net/aspose.psd.shapes/textshape/textshape/
 ---
+{{< psd/tize >}}
 ## TextShape() {#constructor}
 
-Initialisiert eine neue Instanz von[`TextShape`](../) Klasse.
+Initialisiert eine neue Instanz der [`TextShape`](../)-Klasse.
 
 ```csharp
 public TextShape()
@@ -17,14 +18,14 @@ public TextShape()
 ### Siehe auch
 
 * class [TextShape](../)
-* namensraum [Aspose.PSD.Shapes](../../textshape/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## TextShape(string, RectangleF, Font, StringFormat) {#constructor_1}
 
-Initialisiert eine neue Instanz von[`TextShape`](../) Klasse.
+Initialisiert eine neue Instanz der [`TextShape`](../)-Klasse.
 
 ```csharp
 public TextShape(string text, RectangleF rectangle, Font font, StringFormat stringFormat)
@@ -32,10 +33,10 @@ public TextShape(string text, RectangleF rectangle, Font font, StringFormat stri
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| text | String | Der zu zeichnende Text. |
-| rectangle | RectangleF | Das Textrechteck. |
+| Text | String | Der zu zeichnende Text. |
+| Rechteck | RectangleF | Das Textrechteck. |
 | font | Font | Die zu verwendende Schriftart. |
-| stringFormat | StringFormat | Das Zeichenfolgenformat. |
+| stringFormat | StringFormat | Das String-Format. |
 
 ### Siehe auch
 
@@ -43,7 +44,7 @@ public TextShape(string text, RectangleF rectangle, Font font, StringFormat stri
 * class [Font](../../../aspose.psd/font/)
 * class [StringFormat](../../../aspose.psd/stringformat/)
 * class [TextShape](../)
-* namensraum [Aspose.PSD.Shapes](../../textshape/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 

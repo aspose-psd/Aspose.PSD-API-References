@@ -1,14 +1,15 @@
 ---
-title: RasterImage.Dither
-second_title: Aspose.PSD für .NET-API-Referenz
-description: RasterImage methode. Führt Dithering auf dem aktuellen Bild durch.
+title: "RasterImage.Dither"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "RasterImage-Methode. Führt Dithering am aktuellen Bild durch."
 type: docs
 weight: 250
 url: /de/net/aspose.psd/rasterimage/dither/
 ---
+{{< psd/tize >}}
 ## Dither(DitheringMethod, int, IColorPalette) {#dither_1}
 
-Führt Dithering auf dem aktuellen Bild durch.
+Führt Dithering am aktuellen Bild aus.
 
 ```csharp
 public abstract void Dither(DitheringMethod ditheringMethod, int bitsCount, 
@@ -17,8 +18,8 @@ public abstract void Dither(DitheringMethod ditheringMethod, int bitsCount,
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| ditheringMethod | DitheringMethod | Die Dithering-Methode. |
-| bitsCount | Int32 | Die letzten Bits zählen für das Dithering. |
+| ditheringMethod | DitheringMethod | Die Dithering‑Methode. |
+| bitsCount | Int32 | Die endgültige Bitanzahl für das Dithering. |
 | customPalette | IColorPalette | Die benutzerdefinierte Palette für Dithering. |
 
 ### Siehe auch
@@ -26,14 +27,14 @@ public abstract void Dither(DitheringMethod ditheringMethod, int bitsCount,
 * enum [DitheringMethod](../../ditheringmethod/)
 * interface [IColorPalette](../../icolorpalette/)
 * class [RasterImage](../)
-* namensraum [Aspose.PSD](../../rasterimage/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Dither(DitheringMethod, int) {#dither}
 
-Führt Dithering auf dem aktuellen Bild durch.
+Führt Dithering am aktuellen Bild aus.
 
 ```csharp
 public void Dither(DitheringMethod ditheringMethod, int bitsCount)
@@ -41,14 +42,14 @@ public void Dither(DitheringMethod ditheringMethod, int bitsCount)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| ditheringMethod | DitheringMethod | Die Dithering-Methode. |
-| bitsCount | Int32 | Die letzten Bits zählen für das Dithering. |
+| ditheringMethod | DitheringMethod | Die Dithering‑Methode. |
+| bitsCount | Int32 | Die endgültige Bitanzahl für das Dithering. |
 
 ### Siehe auch
 
 * enum [DitheringMethod](../../ditheringmethod/)
 * class [RasterImage](../)
-* namensraum [Aspose.PSD](../../rasterimage/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

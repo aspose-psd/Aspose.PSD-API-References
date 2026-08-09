@@ -1,27 +1,28 @@
 ---
-title: TiffSRational.Denominator
-second_title: Aspose.PSD für .NET-API-Referenz
-description: TiffSRational eigendom. Ruft den Nenner ab.
+title: "TiffSRational.Denominator"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "TiffSRational-Eigenschaft. Gibt den Nenner zurück."
 type: docs
 weight: 30
 url: /de/net/aspose.psd.fileformats.tiff/tiffsrational/denominator/
 ---
+{{< psd/tize >}}
 ## TiffSRational.Denominator property
 
-Ruft den Nenner ab.
+Liest den Nenner.
 
 ```csharp
 public int Denominator { get; }
 ```
 
-### Eigentumswert
+### Property Value
 
 Der Nenner.
 
 ### Siehe auch
 
 * class [TiffSRational](../)
-* namensraum [Aspose.PSD.FileFormats.Tiff](../../tiffsrational/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff](../../../aspose.psd.fileformats.tiff/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: XmpResource.XmpResource
-second_title: Aspose.PSD für .NET-API-Referenz
-description: XmpResource constructeur. Default_Constructor
+title: "XmpResource.XmpResource"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "XmpResource-Konstruktor. Der Standardkonstruktor"
 type: docs
 weight: 10
 url: /de/net/aspose.psd.fileformats.psd.resources/xmpresource/xmpresource/
 ---
+{{< psd/tize >}}
 ## XmpResource constructor
 
-Default_Constructor
+Der Standardkonstruktor.
 
 ```csharp
 public XmpResource()
@@ -17,7 +18,7 @@ public XmpResource()
 ### Siehe auch
 
 * class [XmpResource](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Resources](../../xmpresource/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

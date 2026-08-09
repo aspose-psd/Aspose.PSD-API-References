@@ -1,28 +1,29 @@
 ---
-title: ArcShape.StartPoint
-second_title: Aspose.PSD für .NET-API-Referenz
-description: ArcShape eigendom. Ruft den Anfangsformpunkt ab.
+title: "ArcShape.StartPoint"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "ArcShape-Eigenschaft. Gibt den Startpunkt der Form zurück"
 type: docs
 weight: 50
 url: /de/net/aspose.psd.shapes/arcshape/startpoint/
 ---
+{{< psd/tize >}}
 ## ArcShape.StartPoint property
 
-Ruft den Anfangsformpunkt ab.
+Ruft den Startpunkt der Form ab.
 
 ```csharp
 public PointF StartPoint { get; }
 ```
 
-### Eigentumswert
+### Property Value
 
-Der Anfangsformpunkt.
+Der Startpunkt der Form.
 
 ### Siehe auch
 
 * struct [PointF](../../../aspose.psd/pointf/)
 * class [ArcShape](../)
-* namensraum [Aspose.PSD.Shapes](../../arcshape/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 

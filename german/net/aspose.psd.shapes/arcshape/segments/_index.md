@@ -1,20 +1,21 @@
 ---
-title: ArcShape.Segments
-second_title: Aspose.PSD für .NET-API-Referenz
-description: ArcShape eigendom. Ruft die Formsegmente ab.
+title: "ArcShape.Segments"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "ArcShape-Eigenschaft. Gibt die Formsegmente zurück"
 type: docs
 weight: 40
 url: /de/net/aspose.psd.shapes/arcshape/segments/
 ---
+{{< psd/tize >}}
 ## ArcShape.Segments property
 
-Ruft die Formsegmente ab.
+Liest die Segmente der Form.
 
 ```csharp
 public override ShapeSegment[] Segments { get; }
 ```
 
-### Eigentumswert
+### Property Value
 
 Die Formsegmente.
 
@@ -22,7 +23,7 @@ Die Formsegmente.
 
 * class [ShapeSegment](../../../aspose.psd/shapesegment/)
 * class [ArcShape](../)
-* namensraum [Aspose.PSD.Shapes](../../arcshape/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 

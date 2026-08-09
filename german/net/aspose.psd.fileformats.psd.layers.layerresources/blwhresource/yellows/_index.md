@@ -1,26 +1,27 @@
 ---
-title: BlwhResource.Yellows
-second_title: Aspose.PSD für .NET-API-Referenz
-description: BlwhResource eigendom. Ruft den Gelbwert ab oder legt ihn fest.
+title: "BlwhResource.Yellows"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "BlwhResource-Eigenschaft. Gibt den Gelbwert zurück oder legt ihn fest"
 type: docs
-weight: 140
+weight: 120
 url: /de/net/aspose.psd.fileformats.psd.layers.layerresources/blwhresource/yellows/
 ---
+{{< psd/tize >}}
 ## BlwhResource.Yellows property
 
-Ruft den Gelbwert ab oder legt ihn fest.
+Liest oder setzt den yellows Wert.
 
 ```csharp
 public int Yellows { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
 Der Gelbwert.
 
-### Beispiele
+## Beispiele
 
-Das folgende Beispiel zeigt, wie Sie eine BlwhResource bearbeiten.
+Das folgende Beispiel zeigt, wie Sie ein BlwhResource bearbeiten.
 
 ```csharp
 [C#]
@@ -63,7 +64,7 @@ using (PsdImage im = (PsdImage)Image.Load(sourceFileName))
                 AssertIsTrue(Math.Abs(blwhLayer.TintColorGreen - tintColorGreen) < 1e-6, ActualPropertyValueIsWrongMessage);
                 AssertIsTrue(Math.Abs(blwhLayer.TintColorBlue - tintColorBlue) < 1e-6, ActualPropertyValueIsWrongMessage);
 
-                // Bearbeiten und Speichern testen
+                // Testen von Bearbeitung und Speicherung
                 blwhResource.Reds = reds - 15;
                 blwhResource.Yellows = yellows - 15;
                 blwhResource.Greens = greens + 15;
@@ -126,7 +127,7 @@ AssertIsTrue(isRequiredResourceFound, "The specified BlwhResource not found");
 ### Siehe auch
 
 * class [BlwhResource](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../blwhresource/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

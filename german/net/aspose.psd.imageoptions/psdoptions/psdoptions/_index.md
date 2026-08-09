@@ -1,14 +1,15 @@
 ---
-title: PsdOptions.PsdOptions
-second_title: Aspose.PSD für .NET-API-Referenz
-description: PsdOptions constructeur. Initialisiert eine neue Instanz vonPsdOptions Klasse.
+title: "PsdOptions.PsdOptions"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "PsdOptions-Konstruktor. Initialisiert eine neue Instanz der PsdOptions-Klasse."
 type: docs
 weight: 10
 url: /de/net/aspose.psd.imageoptions/psdoptions/psdoptions/
 ---
+{{< psd/tize >}}
 ## PsdOptions() {#constructor}
 
-Initialisiert eine neue Instanz von[`PsdOptions`](../) Klasse.
+Initialisiert eine neue Instanz der [`PsdOptions`](../)-Klasse.
 
 ```csharp
 public PsdOptions()
@@ -17,14 +18,14 @@ public PsdOptions()
 ### Siehe auch
 
 * class [PsdOptions](../)
-* namensraum [Aspose.PSD.ImageOptions](../../psdoptions/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## PsdOptions(PsdOptions) {#constructor_2}
 
-Initialisiert eine neue Instanz von[`PsdOptions`](../) Klasse.
+Initialisiert eine neue Instanz der [`PsdOptions`](../)-Klasse.
 
 ```csharp
 public PsdOptions(PsdOptions options)
@@ -32,19 +33,19 @@ public PsdOptions(PsdOptions options)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| options | PsdOptions | Die Optionen. |
+| Optionen | PsdOptions | Die Optionen. |
 
 ### Siehe auch
 
 * class [PsdOptions](../)
-* namensraum [Aspose.PSD.ImageOptions](../../psdoptions/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## PsdOptions(PsdImage) {#constructor_1}
 
-Initialisiert eine neue Instanz von[`PsdOptions`](../) Klasse.
+Initialisiert eine neue Instanz der [`PsdOptions`](../)-Klasse.
 
 ```csharp
 public PsdOptions(PsdImage image)
@@ -58,7 +59,7 @@ public PsdOptions(PsdImage image)
 
 * class [PsdImage](../../../aspose.psd.fileformats.psd/psdimage/)
 * class [PsdOptions](../)
-* namensraum [Aspose.PSD.ImageOptions](../../psdoptions/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

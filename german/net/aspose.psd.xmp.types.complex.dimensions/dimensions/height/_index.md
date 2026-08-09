@@ -1,20 +1,21 @@
 ---
-title: Dimensions.Height
-second_title: Aspose.PSD für .NET-API-Referenz
-description: Dimensions eigendom. Ruft die Höhe ab oder legt sie fest.
+title: "Dimensions.Height"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "Dimensions-Eigenschaft. Gibt die Höhe zurück oder legt sie fest"
 type: docs
 weight: 20
 url: /de/net/aspose.psd.xmp.types.complex.dimensions/dimensions/height/
 ---
+{{< psd/tize >}}
 ## Dimensions.Height property
 
-Ruft die Höhe ab oder legt sie fest.
+Liest oder setzt die Höhe.
 
 ```csharp
 public float Height { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
 Die Höhe.
 
@@ -27,7 +28,7 @@ Die Höhe.
 ### Siehe auch
 
 * class [Dimensions](../)
-* namensraum [Aspose.PSD.Xmp.Types.Complex.Dimensions](../../dimensions/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.Dimensions](../../../aspose.psd.xmp.types.complex.dimensions/)
+* assembly [Aspose.PSD](../../../)
 
 

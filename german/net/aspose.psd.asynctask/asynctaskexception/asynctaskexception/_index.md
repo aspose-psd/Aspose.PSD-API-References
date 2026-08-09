@@ -1,14 +1,15 @@
 ---
-title: AsyncTaskException.AsyncTaskException
-second_title: Aspose.PSD für .NET-API-Referenz
-description: AsyncTaskException constructeur. Initialisiert eine neue Instanz vonAsyncTaskException Klasse.
+title: "AsyncTaskException.AsyncTaskException"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "AsyncTaskException-Konstruktor. Initialisiert eine neue Instanz der AsyncTaskException-Klasse"
 type: docs
 weight: 10
 url: /de/net/aspose.psd.asynctask/asynctaskexception/asynctaskexception/
 ---
+{{< psd/tize >}}
 ## AsyncTaskException constructor
 
-Initialisiert eine neue Instanz von[`AsyncTaskException`](../) Klasse.
+Initialisiert eine neue Instanz der [`AsyncTaskException`](../)-Klasse.
 
 ```csharp
 public AsyncTaskException(string message)
@@ -16,12 +17,12 @@ public AsyncTaskException(string message)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| message | String | Die Nachricht, die den Fehler beschreibt. |
+| Nachricht | String | Die Nachricht, die den Fehler beschreibt. |
 
 ### Siehe auch
 
 * class [AsyncTaskException](../)
-* namensraum [Aspose.PSD.AsyncTask](../../asynctaskexception/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.AsyncTask](../../../aspose.psd.asynctask/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,31 +1,32 @@
 ---
-title: FileStreamContainer.IsTemporal
-second_title: Aspose.PSD für .NET-API-Referenz
-description: FileStreamContainer eigendom. Ruft einen Wert ab oder legt einen Wert fest der angibt ob der Stream zeitlich ist.
+title: "FileStreamContainer.IsTemporal"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "FileStreamContainer Eigenschaft. Ruft einen Wert ab oder legt ihn fest, der angibt, ob der Stream temporär ist."
 type: docs
 weight: 50
 url: /de/net/aspose.psd/filestreamcontainer/istemporal/
 ---
+{{< psd/tize >}}
 ## FileStreamContainer.IsTemporal property
 
-Ruft einen Wert ab oder legt einen Wert fest, der angibt, ob der Stream zeitlich ist.
+Liefert oder setzt einen Wert, der angibt, ob der Stream temporär ist.
 
 ```csharp
 public bool IsTemporal { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
-`WAHR` wenn der Strom zeitlich ist; ansonsten,`FALSCH` .
+`true`, wenn der Stream temporär ist; andernfalls `false`.
 
-### Bemerkungen
+## Hinweise
 
-Ein zeitlicher Strom entfernt sich selbst, wenn er verworfen wird. Wenn der Stream speicherbasiert ist, hat diese Eigenschaft keine Auswirkung. Der Stream kann als temporär oder dauerhaft markiert werden, falls er explizit erstellt wurde, andernfalls wird die entsprechende Ausnahme ausgelöst.
+Ein temporärer Stream entfernt sich selbst beim Entladen. Wenn der Stream speicherbasiert ist, hat diese Eigenschaft keine Wirkung. Der Stream kann als temporär oder persistent markiert werden, falls er explizit erstellt wurde; andernfalls wird die entsprechende Ausnahme ausgelöst.
 
 ### Siehe auch
 
 * class [FileStreamContainer](../)
-* namensraum [Aspose.PSD](../../filestreamcontainer/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

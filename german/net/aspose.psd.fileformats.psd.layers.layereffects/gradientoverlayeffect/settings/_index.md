@@ -1,20 +1,21 @@
 ---
-title: GradientOverlayEffect.Settings
-second_title: Aspose.PSD für .NET-API-Referenz
-description: GradientOverlayEffect eigendom. Ruft die Einstellungen ab oder legt sie fest.
+title: "GradientOverlayEffect.Settings"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "GradientOverlayEffect-Eigenschaft. Liest oder setzt die Einstellungen"
 type: docs
 weight: 50
 url: /de/net/aspose.psd.fileformats.psd.layers.layereffects/gradientoverlayeffect/settings/
 ---
+{{< psd/tize >}}
 ## GradientOverlayEffect.Settings property
 
-Ruft die Einstellungen ab oder legt sie fest.
+Liest oder setzt die Einstellungen.
 
 ```csharp
 public GradientFillSettings Settings { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
 Die Einstellungen.
 
@@ -22,7 +23,7 @@ Die Einstellungen.
 
 * class [GradientFillSettings](../../../aspose.psd.fileformats.psd.layers.fillsettings/gradientfillsettings/)
 * class [GradientOverlayEffect](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../gradientoverlayeffect/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../../)
 
 

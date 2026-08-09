@@ -1,20 +1,21 @@
 ---
-title: ColorOverlayEffect.BlendMode
-second_title: Aspose.PSD für .NET-API-Referenz
-description: ColorOverlayEffect eigendom. Ruft den Mischmodus ab oder legt ihn fest.
+title: "ColorOverlayEffect.BlendMode"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "ColorOverlayEffect property. Ruft den Mischmodus ab oder legt ihn fest"
 type: docs
 weight: 10
 url: /de/net/aspose.psd.fileformats.psd.layers.layereffects/coloroverlayeffect/blendmode/
 ---
+{{< psd/tize >}}
 ## ColorOverlayEffect.BlendMode property
 
-Ruft den Mischmodus ab oder legt ihn fest.
+Liest oder setzt den Mischmodus.
 
 ```csharp
 public BlendMode BlendMode { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
 Der Mischmodus.
 
@@ -22,7 +23,7 @@ Der Mischmodus.
 
 * enum [BlendMode](../../../aspose.psd.fileformats.core.blending/blendmode/)
 * class [ColorOverlayEffect](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../coloroverlayeffect/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../../)
 
 

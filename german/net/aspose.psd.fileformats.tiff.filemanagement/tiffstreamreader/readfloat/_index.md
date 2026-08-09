@@ -1,14 +1,15 @@
 ---
-title: TiffStreamReader.ReadFloat
-second_title: Aspose.PSD für .NET-API-Referenz
-description: TiffStreamReader methode. Liest einen einzelnen FloatWert aus dem Stream.
+title: "TiffStreamReader.ReadFloat"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "TiffStreamReader-Methode. Liest einen einzelnen Float-Wert aus dem Stream"
 type: docs
 weight: 70
 url: /de/net/aspose.psd.fileformats.tiff.filemanagement/tiffstreamreader/readfloat/
 ---
+{{< psd/tize >}}
 ## TiffStreamReader.ReadFloat method
 
-Liest einen einzelnen Float-Wert aus dem Stream.
+Liest einen einzelnen float-Wert aus dem Stream.
 
 ```csharp
 public float ReadFloat(long position)
@@ -16,16 +17,16 @@ public float ReadFloat(long position)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| position | Int64 | Die Position, an der gelesen werden soll. |
+| Position | Int64 | Die Position, von der gelesen werden soll. |
 
 ### Rückgabewert
 
-Der einzelne Gleitkommawert.
+Der einzelne Float-Wert.
 
 ### Siehe auch
 
 * class [TiffStreamReader](../)
-* namensraum [Aspose.PSD.FileFormats.Tiff.FileManagement](../../tiffstreamreader/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff.FileManagement](../../../aspose.psd.fileformats.tiff.filemanagement/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,26 +1,27 @@
 ---
-title: ISmartObjectLayerResource.PlacedId
-second_title: Aspose.PSD für .NET-API-Referenz
-description: ISmartObjectLayerResource eigendom. Ruft die eindeutige Kennung dieser SmartObjektLayerDaten im PSDBild ab oder legt sie fest.
+title: "ISmartObjectLayerResource.PlacedId"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "ISmartObjectLayerResource-Eigenschaft. Gibt die eindeutige Kennung dieser Smart-Object-Layer-Daten im PSD-Bild zurück oder legt sie fest"
 type: docs
 weight: 10
 url: /de/net/aspose.psd.fileformats.psd.layers.layerresources/ismartobjectlayerresource/placedid/
 ---
+{{< psd/tize >}}
 ## ISmartObjectLayerResource.PlacedId property
 
-Ruft die eindeutige Kennung dieser Smart-Objekt-Layer-Daten im PSD-Bild ab oder legt sie fest.
+Liest oder setzt den eindeutigen Bezeichner dieser Smart‑Object‑Ebenendaten im PSD‑Bild.
 
 ```csharp
 public Guid PlacedId { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
-Die eindeutige Kennung dieser Smart-Object-Layer-Ressource.
+Der eindeutige Bezeichner dieser Smart‑Object‑Ebenen‑Ressource.
 
-### Beispiele
+## Beispiele
 
-Der folgende Code demonstriert die Unterstützung eingebetteter Smart-Objekte.
+Der folgende Code demonstriert die Unterstützung eingebetteter Smart‑Objekte.
 
 ```csharp
 [C#]
@@ -33,7 +34,7 @@ void AssertAreEqual(object actual, object expected)
     }
 }
 
-// Dieses Beispiel zeigt, wie die Smart-Objekt-Ebene in der PSD-Datei geändert und der ursprünglich eingebettete Inhalt des Smart-Objekts exportiert/aktualisiert wird.
+// Dieses Beispiel zeigt, wie man die Smart‑Object‑Ebene in der PSD‑Datei ändert und die ursprünglichen eingebetteten Inhalte des Smart‑Objects exportiert / aktualisiert.
 const int left = 0;
 const int top = 0;
 const int right = 0xb;
@@ -62,10 +63,10 @@ foreach (FileFormat format in formats)
         AssertAreEqual(right, smartObjectLayer.ContentsBounds.Right);
         AssertAreEqual(bottom, smartObjectLayer.ContentsBounds.Bottom);
 
-        // Lassen Sie uns das eingebettete Smart-Objekt-Bild aus der PSD-Smart-Objekt-Ebene exportieren
+        // Exportieren wir das eingebettete Smart‑Object‑Bild aus der PSD‑Smart‑Object‑Ebene.
         smartObjectLayer.ExportContents(exportPath);
 
-        // Prüfen wir, ob das Originalbild korrekt gespeichert wurde
+        // Überprüfen wir, ob das Originalbild korrekt gespeichert wurde
         image.Save(psdOutputPath, new PsdOptions(image));
         image.Save(pngOutputPath, new PngOptions() { ColorType = PngColorType.TruecolorWithAlpha });
 
@@ -73,7 +74,7 @@ foreach (FileFormat format in formats)
         {
             AssertAreEqual(format, innerImage.FileFormat);
 
-            // Lassen Sie uns das ursprüngliche Smart-Objekt-Bild invertieren
+            // Lassen Sie das ursprüngliche Smart‑Object‑Bild invertieren
             var pixels = innerImage.LoadArgb32Pixels(innerImage.Bounds);
             for (int i = 0; i < pixels.Length; i++)
             {
@@ -84,11 +85,11 @@ foreach (FileFormat format in formats)
 
             innerImage.SaveArgb32Pixels(innerImage.Bounds, pixels);
 
-            // Lassen Sie uns das eingebettete Smart-Objekt-Bild in der PSD-Ebene ersetzen
+            // Lassen Sie das eingebettete Smart‑Object‑Bild in der PSD‑Ebene ersetzen
             smartObjectLayer.ReplaceContents(innerImage);
         }
 
-        // Prüfen wir, ob das aktualisierte Bild korrekt gespeichert wird
+        // Lassen Sie prüfen, ob das aktualisierte Bild korrekt gespeichert wurde
         image.Save(psd2OutputPath, new PsdOptions(image));
         image.Save(png2OutputPath, new PngOptions() { ColorType = PngColorType.TruecolorWithAlpha });
     }
@@ -98,7 +99,7 @@ foreach (FileFormat format in formats)
 ### Siehe auch
 
 * interface [ISmartObjectLayerResource](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../ismartobjectlayerresource/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

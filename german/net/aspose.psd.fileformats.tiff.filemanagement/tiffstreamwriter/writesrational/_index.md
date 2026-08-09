@@ -1,14 +1,15 @@
 ---
-title: TiffStreamWriter.WriteSRational
-second_title: Aspose.PSD für .NET-API-Referenz
-description: TiffStreamWriter methode. Schreibt einen einzelnen vorzeichenbehafteten rationalen Zahlenwert in den Stream.
+title: "TiffStreamWriter.WriteSRational"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "TiffStreamWriter-Methode. Schreibt einen einzelnen signierten rationalen Zahlenwert in den Stream."
 type: docs
 weight: 150
 url: /de/net/aspose.psd.fileformats.tiff.filemanagement/tiffstreamwriter/writesrational/
 ---
+{{< psd/tize >}}
 ## TiffStreamWriter.WriteSRational method
 
-Schreibt einen einzelnen vorzeichenbehafteten rationalen Zahlenwert in den Stream.
+Schreibt einen einzelnen signed rational number-Wert in den Stream.
 
 ```csharp
 public void WriteSRational(TiffSRational data)
@@ -16,13 +17,13 @@ public void WriteSRational(TiffSRational data)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| data | TiffSRational | Der zu schreibende Wert. |
+| Daten | TiffSRational | Der zu schreibende Wert. |
 
 ### Siehe auch
 
 * class [TiffSRational](../../../aspose.psd.fileformats.tiff/tiffsrational/)
 * class [TiffStreamWriter](../)
-* namensraum [Aspose.PSD.FileFormats.Tiff.FileManagement](../../tiffstreamwriter/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff.FileManagement](../../../aspose.psd.fileformats.tiff.filemanagement/)
+* assembly [Aspose.PSD](../../../)
 
 

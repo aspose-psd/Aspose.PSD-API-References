@@ -1,27 +1,28 @@
 ---
-title: IGradientColorPoint.MedianPointLocation
-second_title: Aspose.PSD für .NET-API-Referenz
-description: IGradientColorPoint eigendom. Ruft die Medianpunktposition ab oder legt sie fest.
+title: "IGradientColorPoint.MedianPointLocation"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "IGradientColorPoint-Eigenschaft. Gibt den Medianpunktort zurück oder legt ihn fest. Wertebereich 04096"
 type: docs
 weight: 20
 url: /de/net/aspose.psd.fileformats.psd.layers/igradientcolorpoint/medianpointlocation/
 ---
+{{< psd/tize >}}
 ## IGradientColorPoint.MedianPointLocation property
 
-Ruft die Medianpunktposition ab oder legt sie fest.
+Liest oder setzt den Standort des Medianpunkts. Wertebereich 0-4096.
 
 ```csharp
 public int MedianPointLocation { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
-Die Position des Medianpunkts.
+Die Medianpunkt-Position.
 
 ### Siehe auch
 
 * interface [IGradientColorPoint](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers](../../igradientcolorpoint/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

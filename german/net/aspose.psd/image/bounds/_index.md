@@ -1,20 +1,21 @@
 ---
-title: Image.Bounds
-second_title: Aspose.PSD für .NET-API-Referenz
-description: Image eigendom. Ruft die Bildgrenzen ab.
+title: "Image.Bounds"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "Image-Eigenschaft. Gibt die Bildgrenzen zurück."
 type: docs
 weight: 60
 url: /de/net/aspose.psd/image/bounds/
 ---
+{{< psd/tize >}}
 ## Image.Bounds property
 
-Ruft die Bildgrenzen ab.
+Liest die Bildgrenzen.
 
 ```csharp
 public Rectangle Bounds { get; }
 ```
 
-### Eigentumswert
+### Property Value
 
 Die Bildgrenzen.
 
@@ -22,7 +23,7 @@ Die Bildgrenzen.
 
 * struct [Rectangle](../../rectangle/)
 * class [Image](../)
-* namensraum [Aspose.PSD](../../image/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

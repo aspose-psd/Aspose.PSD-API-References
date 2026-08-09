@@ -1,27 +1,28 @@
 ---
-title: TiffOptions.TotalPages
-second_title: Aspose.PSD für .NET-API-Referenz
-description: TiffOptions eigendom. Ruft die Gesamtzahl der Seiten ab.
+title: "TiffOptions.TotalPages"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "TiffOptions-Eigenschaft. Gibt die Gesamtseitenzahl zurück"
 type: docs
-weight: 560
+weight: 570
 url: /de/net/aspose.psd.imageoptions/tiffoptions/totalpages/
 ---
+{{< psd/tize >}}
 ## TiffOptions.TotalPages property
 
-Ruft die Gesamtzahl der Seiten ab.
+Liest die Gesamtseiten.
 
 ```csharp
 public ushort TotalPages { get; }
 ```
 
-### Eigentumswert
+### Property Value
 
-Die Gesamtzahl der Seiten.
+Die Gesamtseitenzahl.
 
 ### Siehe auch
 
 * class [TiffOptions](../)
-* namensraum [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

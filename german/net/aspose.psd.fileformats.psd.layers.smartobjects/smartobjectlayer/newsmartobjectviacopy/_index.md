@@ -1,14 +1,15 @@
 ---
-title: SmartObjectLayer.NewSmartObjectViaCopy
-second_title: Aspose.PSD für .NET-API-Referenz
-description: SmartObjectLayer methode. Erstellt eine neue SmartObjektEbene durch Kopieren dieser Ebene. Reproduziert die Funktionalität Ebene  SmartObjekte  Neues SmartObjekt über Kopieren von Adobe Photoshop. Beachten Sie dass dies aufgrund des eingebetteten Bildes nur für eingebettete SmartObjekte aktiviert ist wird ebenfalls kopiert. Wenn Sie das eingebettete Bild teilen möchten verwenden Sie esDuplicateLayer Methode.
+title: "SmartObjectLayer.NewSmartObjectViaCopy"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "SmartObjectLayer-Methode. Erstellt eine neue Smart Object Layer, indem diese kopiert wird. Reproduziert Layer  Smart Objects  New Smart Object via Copy Funktionalität von Adobe Photoshop. Hinweis: Sie ist nur für eingebettete Smart Objects aktiviert, weil das eingebettete Bild ebenfalls kopiert wird. Wenn Sie das eingebettete Bild teilen möchten, verwenden Sie die DuplicateLayer-Methode."
 type: docs
-weight: 120
+weight: 140
 url: /de/net/aspose.psd.fileformats.psd.layers.smartobjects/smartobjectlayer/newsmartobjectviacopy/
 ---
+{{< psd/tize >}}
 ## SmartObjectLayer.NewSmartObjectViaCopy method
 
-Erstellt eine neue Smart-Objekt-Ebene durch Kopieren dieser Ebene. Reproduziert die Funktionalität „Ebene -&gt; Smart-Objekte -&gt; Neues Smart-Objekt über Kopieren“ von Adobe� Photoshop�. Beachten Sie, dass dies aufgrund des eingebetteten Bildes nur für eingebettete Smart-Objekte aktiviert ist wird ebenfalls kopiert. Wenn Sie das eingebettete Bild teilen möchten, verwenden Sie es[`DuplicateLayer`](../duplicatelayer/) Methode.
+Erstellt eine neue Smart Object Layer, indem diese kopiert wird. Reproduziert die Funktion `Layer -&gt; Smart Objects -&gt; New Smart Object via Copy` von Adobe Photoshop. Hinweis: Sie ist nur für eingebettete Smart Objects aktiviert, da das eingebettete Bild ebenfalls kopiert wird. Wenn Sie das eingebettete Bild teilen möchten, verwenden Sie die [`DuplicateLayer`](../duplicatelayer/) Methode.
 
 ```csharp
 public SmartObjectLayer NewSmartObjectViaCopy()
@@ -16,11 +17,11 @@ public SmartObjectLayer NewSmartObjectViaCopy()
 
 ### Rückgabewert
 
-Der geklonte[`SmartObjectLayer`](../) Beispiel.
+Die geklonte [`SmartObjectLayer`](../) Instanz.
 
-### Beispiele
+## Beispiele
 
-Diese Beispiele zeigen, wie Sie Smart-Objekt-Ebenen in ein PSD-Bild kopieren.
+Diese Beispiele zeigen, wie man Smart Object Layers in einem PSD-Bild kopiert.
 
 ```csharp
 [C#]
@@ -28,7 +29,7 @@ Diese Beispiele zeigen, wie Sie Smart-Objekt-Ebenen in ein PSD-Bild kopieren.
 string dataDir = baseFolder + Path.DirectorySeparatorChar;
 string outputDir = dataDir + "output" + Path.DirectorySeparatorChar;
 
-// Diese Beispiele zeigen, wie man Smart-Objekt-Ebenen in ein PSD-Bild kopiert.
+// Diese Beispiele zeigen, wie man Smart Object Layers in einem PSD-Bild kopiert.
 ExampleOfCopingSmartObjectLayer("r-embedded-psd");
 ExampleOfCopingSmartObjectLayer("r-embedded-png");
 ExampleOfCopingSmartObjectLayer("r-embedded-transform");
@@ -36,7 +37,7 @@ ExampleOfCopingSmartObjectLayer("new_panama-papers-8-trans4");
 
 void ExampleOfCopingSmartObjectLayer(string fileName)
 {
-    int layerNumber = 0; // Die zu kopierende Schichtnummer
+    int layerNumber = 0; // The layer number to copy
     string filePath = dataDir + fileName + ".psd";
     string outputFilePath = outputDir + fileName + "_copy_" + layerNumber;
     string pngOutputPath = outputFilePath + ".png";
@@ -57,16 +58,16 @@ void ExampleOfCopingSmartObjectLayer(string fileName)
 
         using (var innerImage = (RasterImage)smartObjectLayer.LoadContents(null))
         {
-            // Lassen Sie uns das eingebettete Smart-Objekt-Bild invertieren (für ein inneres PSD-Bild invertieren wir nur die erste Ebene)
+            // Lassen Sie das eingebettete Smart Object Bild invertieren (bei einem inneren PSD-Bild invertieren wir nur dessen erste Ebene).
             InvertImage(innerImage);
 
-            // Lassen Sie uns das eingebettete Smart-Objekt-Bild in der PSD-Ebene ersetzen
+            // Lassen Sie das eingebettete Smart‑Object‑Bild in der PSD‑Ebene ersetzen
             smartObjectLayer.ReplaceContents(innerImage);
         }
 
-        // Die duplizierte Ebene teilt ihr eingebettetes Bild mit dem ursprünglichen Smart-Objekt
-        // und es sollte explizit aktualisiert werden, sonst bleibt sein Rendering-Cache unverändert.
-        // Wir aktualisieren jedes Smart-Objekt, um sicherzustellen, dass die neue Ebene, die von NewSmartObjectViaCopy
+        // Der duplizierte Layer teilt sein eingebettetes Bild mit dem ursprünglichen Smart Object.
+        // und er sollte explizit aktualisiert werden, sonst bleibt sein Rendering-Cache unverändert.
+        // Wir aktualisieren jedes Smart‑Object, um sicherzustellen, dass die neue Ebene, die durch NewSmartObjectViaCopy erstellt wird
         // teilt das eingebettete Bild nicht mit den anderen.
         image.SmartObjectProvider.UpdateAllModifiedContent();
 
@@ -75,7 +76,7 @@ void ExampleOfCopingSmartObjectLayer(string fileName)
     }
 }
 
-// Invertiert das Rasterbild einschließlich des PSD-Bildes.
+// Invertiert das Rasterbild einschließlich des PSD‑Bildes.
 void InvertImage(RasterImage innerImage)
 {
     var innerPsdImage = innerImage as PsdImage;
@@ -115,7 +116,7 @@ void AssertIsTrue(bool condition)
 ### Siehe auch
 
 * class [SmartObjectLayer](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.SmartObjects](../../smartobjectlayer/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.SmartObjects](../../../aspose.psd.fileformats.psd.layers.smartobjects/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,28 +1,29 @@
 ---
-title: TextLayer.TextBoundBox
-second_title: Aspose.PSD für .NET-API-Referenz
-description: TextLayer eigendom. Ruft das Textbegrenzungsfeld ab oder legt es fest.
+title: "TextLayer.TextBoundBox"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "TextLayer-Eigenschaft. Gibt die Textbegrenzungsbox zurück oder legt sie fest"
 type: docs
 weight: 40
 url: /de/net/aspose.psd.fileformats.psd.layers/textlayer/textboundbox/
 ---
+{{< psd/tize >}}
 ## TextLayer.TextBoundBox property
 
-Ruft das Textbegrenzungsfeld ab oder legt es fest.
+Liest oder setzt die Textbegrenzungsbox.
 
 ```csharp
 public RectangleF TextBoundBox { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
-Das textgebundene Feld.
+Die Textbegrenzungsbox.
 
 ### Siehe auch
 
 * struct [RectangleF](../../../aspose.psd/rectanglef/)
 * class [TextLayer](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers](../../textlayer/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

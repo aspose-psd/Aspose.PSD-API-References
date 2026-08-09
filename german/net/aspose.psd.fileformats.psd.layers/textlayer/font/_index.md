@@ -1,20 +1,21 @@
 ---
-title: TextLayer.Font
-second_title: Aspose.PSD für .NET-API-Referenz
-description: TextLayer eigendom. Ruft die Schriftart ab.
+title: "TextLayer.Font"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "TextLayer Eigenschaft. Gibt die Schriftart zurück"
 type: docs
 weight: 10
 url: /de/net/aspose.psd.fileformats.psd.layers/textlayer/font/
 ---
+{{< psd/tize >}}
 ## TextLayer.Font property
 
-Ruft die Schriftart ab.
+Liest die Schriftart.
 
 ```csharp
 public Font Font { get; }
 ```
 
-### Eigentumswert
+### Property Value
 
 Die Schriftart.
 
@@ -22,7 +23,7 @@ Die Schriftart.
 
 * class [Font](../../../aspose.psd/font/)
 * class [TextLayer](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers](../../textlayer/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

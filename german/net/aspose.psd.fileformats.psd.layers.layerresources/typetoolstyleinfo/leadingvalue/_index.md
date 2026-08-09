@@ -1,27 +1,28 @@
 ---
-title: TypeToolStyleInfo.LeadingValue
-second_title: Aspose.PSD für .NET-API-Referenz
-description: TypeToolStyleInfo eigendom. Ruft den Leitwert ab oder setzt ihn.
+title: "TypeToolStyleInfo.LeadingValue"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "TypeToolStyleInfo Eigenschaft. Gibt den Zeilenabstandswert zurück oder legt ihn fest"
 type: docs
 weight: 60
 url: /de/net/aspose.psd.fileformats.psd.layers.layerresources/typetoolstyleinfo/leadingvalue/
 ---
+{{< psd/tize >}}
 ## TypeToolStyleInfo.LeadingValue property
 
-Ruft den Leitwert ab oder setzt ihn.
+Liest oder setzt den Zeilenabstandswert.
 
 ```csharp
 public int LeadingValue { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
-Der führende Wert.
+Der Zeilenabstandswert.
 
 ### Siehe auch
 
 * class [TypeToolStyleInfo](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../typetoolstyleinfo/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

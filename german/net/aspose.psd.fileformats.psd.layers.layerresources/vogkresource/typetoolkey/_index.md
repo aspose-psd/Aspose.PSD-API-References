@@ -1,14 +1,15 @@
 ---
-title: VogkResource.TypeToolKey
-second_title: Aspose.PSD für .NET-API-Referenz
-description: VogkResource veld. Der TypToolInfoSchlüssel.
+title: "VogkResource.TypeToolKey"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "VogkResource Feld. Der Typwerkzeug-Info-Schlüssel."
 type: docs
-weight: 90
+weight: 60
 url: /de/net/aspose.psd.fileformats.psd.layers.layerresources/vogkresource/typetoolkey/
 ---
+{{< psd/tize >}}
 ## VogkResource.TypeToolKey field
 
-Der Typ-Tool-Info-Schlüssel.
+Der Typwerkzeug-Info-Schlüssel.
 
 ```csharp
 public const int TypeToolKey;
@@ -17,7 +18,7 @@ public const int TypeToolKey;
 ### Siehe auch
 
 * class [VogkResource](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../vogkresource/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

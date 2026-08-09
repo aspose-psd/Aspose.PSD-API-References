@@ -1,22 +1,23 @@
 ---
-title: GradientFillSettings.Scale
-second_title: Aspose.PSD für .NET-API-Referenz
-description: GradientFillSettings eigendom. Ruft die Skalierung ab oder legt sie fest.
+title: "GradientFillSettings.Scale"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "GradientFillSettings-Eigenschaft. Ruft die normalisierte Gradienten-Skala in Prozent ab oder legt sie fest."
 type: docs
-weight: 120
+weight: 110
 url: /de/net/aspose.psd.fileformats.psd.layers.fillsettings/gradientfillsettings/scale/
 ---
+{{< psd/tize >}}
 ## GradientFillSettings.Scale property
 
-Ruft die Skalierung ab oder legt sie fest.
+Liest oder setzt die **normalisierte** Gradienten‑Skala (in Prozent)
 
 ```csharp
 public int Scale { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
-Die Waage.
+Die Skalierung.
 
 ### Ausnahmen
 
@@ -27,7 +28,7 @@ Die Waage.
 ### Siehe auch
 
 * class [GradientFillSettings](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../gradientfillsettings/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../../)
 
 

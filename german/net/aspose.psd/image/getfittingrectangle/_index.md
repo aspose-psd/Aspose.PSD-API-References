@@ -1,14 +1,15 @@
 ---
-title: Image.GetFittingRectangle
-second_title: Aspose.PSD für .NET-API-Referenz
-description: Image methode. Ruft ein Rechteck ab das zum aktuellen Bild passt.
+title: "Image.GetFittingRectangle"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "Image-Methode. Gibt das Rechteck zurück, das zum aktuellen Bild passt."
 type: docs
-weight: 270
+weight: 280
 url: /de/net/aspose.psd/image/getfittingrectangle/
 ---
+{{< psd/tize >}}
 ## GetFittingRectangle(Rectangle, int, int) {#getfittingrectangle}
 
-Ruft ein Rechteck ab, das zum aktuellen Bild passt.
+Liefert das Rechteck, das zum aktuellen Bild passt.
 
 ```csharp
 public static Rectangle GetFittingRectangle(Rectangle rectangle, int width, int height)
@@ -16,26 +17,26 @@ public static Rectangle GetFittingRectangle(Rectangle rectangle, int width, int 
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| rectangle | Rectangle | Das Rechteck, für das ein passendes Rechteck erhalten werden soll. |
-| width | Int32 | Die Objektbreite. |
-| height | Int32 | Die Objekthöhe. |
+| Rechteck | Rectangle | Das Rechteck, für das ein passendes Rechteck ermittelt werden soll. |
+| Breite | Int32 | Die Objektbreite. |
+| Höhe | Int32 | Die Objekthöhe. |
 
 ### Rückgabewert
 
-Das passende Rechteck oder Ausnahme, wenn kein passendes Rechteck gefunden werden kann.
+Das passende Rechteck oder eine Ausnahme, wenn kein passendes Rechteck gefunden werden kann.
 
 ### Siehe auch
 
 * struct [Rectangle](../../rectangle/)
 * class [Image](../)
-* namensraum [Aspose.PSD](../../image/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## GetFittingRectangle(Rectangle, int[], int, int) {#getfittingrectangle_1}
 
-Ruft ein Rechteck ab, das zum aktuellen Bild passt.
+Liefert das Rechteck, das zum aktuellen Bild passt.
 
 ```csharp
 public static Rectangle GetFittingRectangle(Rectangle rectangle, int[] pixels, int width, 
@@ -44,20 +45,20 @@ public static Rectangle GetFittingRectangle(Rectangle rectangle, int[] pixels, i
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| rectangle | Rectangle | Das Rechteck, für das ein passendes Rechteck erhalten werden soll. |
-| pixels | Int32[] | Die 32-Bit-ARGB-Pixel. |
-| width | Int32 | Die Objektbreite. |
-| height | Int32 | Die Objekthöhe. |
+| Rechteck | Rectangle | Das Rechteck, für das ein passendes Rechteck ermittelt werden soll. |
+| Pixel | Int32[] | Die 32‑Bit‑ARGB‑Pixel. |
+| Breite | Int32 | Die Objektbreite. |
+| Höhe | Int32 | Die Objekthöhe. |
 
 ### Rückgabewert
 
-Das passende Rechteck oder Ausnahme, wenn kein passendes Rechteck gefunden werden kann.
+Das passende Rechteck oder eine Ausnahme, wenn kein passendes Rechteck gefunden werden kann.
 
 ### Siehe auch
 
 * struct [Rectangle](../../rectangle/)
 * class [Image](../)
-* namensraum [Aspose.PSD](../../image/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

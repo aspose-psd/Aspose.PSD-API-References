@@ -1,27 +1,28 @@
 ---
-title: Layer.Filler
-second_title: Aspose.PSD für .NET-API-Referenz
-description: Layer eigendom. Ruft den Ebenenfüller ab oder legt ihn fest.
+title: "Layer.Filler"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "Layer-Eigenschaft. Gibt den Ebenen-Füller zurück oder legt ihn fest"
 type: docs
-weight: 120
+weight: 130
 url: /de/net/aspose.psd.fileformats.psd.layers/layer/filler/
 ---
+{{< psd/tize >}}
 ## Layer.Filler property
 
-Ruft den Ebenenfüller ab oder legt ihn fest.
+Liefert oder setzt den Ebenen‑Füller.
 
 ```csharp
 public byte Filler { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
-Der Schichtfüller.
+Der Ebenen-Füller.
 
 ### Siehe auch
 
 * class [Layer](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers](../../layer/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

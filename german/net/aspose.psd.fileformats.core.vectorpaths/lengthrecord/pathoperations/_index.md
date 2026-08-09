@@ -1,22 +1,23 @@
 ---
-title: LengthRecord.PathOperations
-second_title: Aspose.PSD für .NET-API-Referenz
-description: LengthRecord eigendom. Ruft die Pfadoperationen ab oder legt sie fest.
+title: "LengthRecord.PathOperations"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "LengthRecord-Eigenschaft. Liest oder legt die Pfadoperationen fest"
 type: docs
 weight: 50
 url: /de/net/aspose.psd.fileformats.core.vectorpaths/lengthrecord/pathoperations/
 ---
+{{< psd/tize >}}
 ## LengthRecord.PathOperations property
 
-Ruft die Pfadoperationen ab oder legt sie fest.
+Liest oder setzt die Pfadoperationen.
 
 ```csharp
 public PathOperations PathOperations { get; set; }
 ```
 
-### Beispiele
+## Beispiele
 
-Das folgende Codebeispiel veranschaulicht die Unterstützung der neuen LengthRecord-Eigenschaften PathOperations (boolesche Operationen), ShapeIndex und BezierKnotRecordsCount.
+Das folgende Codebeispiel demonstriert die Unterstützung neuer LengthRecord‑Eigenschaften, PathOperations (boolesche Operationen), ShapeIndex und BezierKnotRecordsCount.
 
 ```csharp
 [C#]
@@ -40,7 +41,7 @@ using (var im = (PsdImage)Image.Load(sourceFilePath))
     LengthRecord lengthRecord1 = (LengthRecord)resource.Paths[7];
     LengthRecord lengthRecord2 = (LengthRecord)resource.Paths[11];
 
-    // Hier ändern wir den Weg zum Kombinieren zwischen Formen.
+    // Hier ändern wir die Art und Weise, Formen zu kombinieren.
     lengthRecord0.PathOperations = PathOperations.ExcludeOverlappingShapes;
     lengthRecord1.PathOperations = PathOperations.IntersectShapeAreas;
     lengthRecord2.PathOperations = PathOperations.SubtractFrontShape;
@@ -53,7 +54,7 @@ using (var im = (PsdImage)Image.Load(sourceFilePath))
 
 * enum [PathOperations](../../pathoperations/)
 * class [LengthRecord](../)
-* namensraum [Aspose.PSD.FileFormats.Core.VectorPaths](../../lengthrecord/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../../)
 
 

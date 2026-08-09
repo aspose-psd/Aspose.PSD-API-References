@@ -1,27 +1,28 @@
 ---
-title: CmykColor.Y
-second_title: Aspose.PSD für .NET-API-Referenz
-description: CmykColor eigendom. Ruft den gelben Komponentenwert davon abColorStruktur.
+title: "CmykColor.Y"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "CmykColor-Eigenschaft. Gibt den Gelbkomponentenwert dieser Color-Struktur zurück."
 type: docs
-weight: 60
+weight: 70
 url: /de/net/aspose.psd/cmykcolor/y/
 ---
+{{< psd/tize >}}
 ## CmykColor.Y property
 
-Ruft den gelben Komponentenwert davon ab[`Color`](../../color/)Struktur.
+Gibt den Gelbkomponentenwert dieser [`Color`](../../color/) Struktur zurück.
 
 ```csharp
 public byte Y { get; }
 ```
 
-### Eigentumswert
+### Property Value
 
-Der gelbe Komponentenwert davon[`Color`](../../color/) .
+Der Gelbkomponentenwert dieser [`Color`](../../color/).
 
 ### Siehe auch
 
 * struct [CmykColor](../)
-* namensraum [Aspose.PSD](../../cmykcolor/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

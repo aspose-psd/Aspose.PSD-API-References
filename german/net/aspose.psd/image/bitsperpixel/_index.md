@@ -1,27 +1,28 @@
 ---
-title: Image.BitsPerPixel
-second_title: Aspose.PSD für .NET-API-Referenz
-description: Image eigendom. Ruft die Anzahl der Bildbits pro Pixel ab.
+title: "Image.BitsPerPixel"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "Image-Eigenschaft. Gibt die Anzahl der Bits pro Pixel des Bildes zurück"
 type: docs
 weight: 50
 url: /de/net/aspose.psd/image/bitsperpixel/
 ---
+{{< psd/tize >}}
 ## Image.BitsPerPixel property
 
-Ruft die Anzahl der Bildbits pro Pixel ab.
+Liest die Bit‑pro‑Pixel‑Anzahl des Bildes.
 
 ```csharp
 public abstract int BitsPerPixel { get; }
 ```
 
-### Eigentumswert
+### Property Value
 
-Die Bildbits pro Pixel zählen.
+Die Bild-Bits-pro-Pixel-Anzahl.
 
 ### Siehe auch
 
 * class [Image](../)
-* namensraum [Aspose.PSD](../../image/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: XmpText.Value
-second_title: Aspose.PSD für .NET-API-Referenz
-description: XmpText eigendom. Ruft den Textwert ab oder legt ihn fest.
+title: "XmpText.Value"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "XmpText Eigenschaft. Gibt den Textwert zurück oder setzt ihn."
 type: docs
 weight: 20
 url: /de/net/aspose.psd.xmp.types.basic/xmptext/value/
 ---
+{{< psd/tize >}}
 ## XmpText.Value property
 
-Ruft den Textwert ab oder legt ihn fest.
+Liest oder setzt den Textwert.
 
 ```csharp
 public string Value { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
 Der Textwert.
 
 ### Siehe auch
 
 * class [XmpText](../)
-* namensraum [Aspose.PSD.Xmp.Types.Basic](../../xmptext/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Basic](../../../aspose.psd.xmp.types.basic/)
+* assembly [Aspose.PSD](../../../)
 
 

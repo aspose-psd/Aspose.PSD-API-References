@@ -1,14 +1,15 @@
 ---
-title: FontSettings.GetFontReplacements
-second_title: Aspose.PSD für .NET-API-Referenz
-description: FontSettings methode. Ruft das FontErsetzungsArray nach dem FontNamen ab
+title: "FontSettings.GetFontReplacements"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "FontSettings‑Methode. Gibt das Array der Schriftart‑Ersetzungen anhand des Schriftartnamens zurück."
 type: docs
-weight: 50
+weight: 60
 url: /de/net/aspose.psd/fontsettings/getfontreplacements/
 ---
+{{< psd/tize >}}
 ## FontSettings.GetFontReplacements method
 
-Ruft das Font-Ersetzungs-Array nach dem Font-Namen ab
+Liefert das Array der Schriftart-Ersetzungen anhand des Schriftartnamens
 
 ```csharp
 public static string[] GetFontReplacements(string fontName)
@@ -20,11 +21,11 @@ public static string[] GetFontReplacements(string fontName)
 
 ### Rückgabewert
 
-Array von Namen von Ersetzungen für bereitgestellte Schriftarten
+Array von Namen der Ersetzungen für bereitgestellte Schriftarten.
 
-### Beispiele
+## Beispiele
 
-Der folgende Code demonstriert die Möglichkeit, die Verwendung von Schriftarten programmgesteuert einzuschränken.
+Der folgende Code demonstriert die Möglichkeit, Schriftarten programmgesteuert zu begrenzen.
 
 ```csharp
 [C#]
@@ -47,7 +48,8 @@ try
     FontSettings.SetFontReplacements("Arial", arialReplacement);
     FontSettings.SetFontReplacements("Times New Roman", timesReplacement);
 
-    using (PsdImage image = (PsdImage)Image.Load(srcFile))
+    using (PsdImage image = (PsdImage)Image.Load(srcFile,
+        new PsdLoadOptions() { AllowNonChangedLayerRepaint = true }))
     {
         image.Save(output, new PngOptions() { ColorType = PngColorType.TruecolorWithAlpha });
     }
@@ -62,7 +64,7 @@ finally
 ### Siehe auch
 
 * class [FontSettings](../)
-* namensraum [Aspose.PSD](../../fontsettings/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: Color.Name
-second_title: Aspose.PSD für .NET-API-Referenz
-description: Color eigendom. Ruft den Namen davon abColor .
+title: "Color.Name"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "Color-Eigenschaft. Gibt den Namen dieser Farbe zurück"
 type: docs
 weight: 1520
 url: /de/net/aspose.psd/color/name/
 ---
+{{< psd/tize >}}
 ## Color.Name property
 
-Ruft den Namen davon ab[`Color`](../) .
+Gibt den Namen dieser [`Color`](../) zurück.
 
 ```csharp
 public string Name { get; }
 ```
 
-### Eigentumswert
+### Property Value
 
-Der Name dafür[`Color`](../).
+Der Name dieser [`Color`](../).
 
 ### Siehe auch
 
 * struct [Color](../)
-* namensraum [Aspose.PSD](../../color/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

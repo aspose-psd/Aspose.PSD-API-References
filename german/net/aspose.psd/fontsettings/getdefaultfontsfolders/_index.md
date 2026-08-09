@@ -1,14 +1,15 @@
 ---
-title: FontSettings.GetDefaultFontsFolders
-second_title: Aspose.PSD für .NET-API-Referenz
-description: FontSettings methode. Ruft die Standardordner für Schriftarten ab.
+title: "FontSettings.GetDefaultFontsFolders"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "FontSettings-Methode. Gibt die Standard‑Schriftartenordner zurück"
 type: docs
-weight: 40
+weight: 50
 url: /de/net/aspose.psd/fontsettings/getdefaultfontsfolders/
 ---
+{{< psd/tize >}}
 ## FontSettings.GetDefaultFontsFolders method
 
-Ruft die Standardordner für Schriftarten ab.
+Liefert die Standard-Schriftartenordner.
 
 ```csharp
 public static string[] GetDefaultFontsFolders()
@@ -21,7 +22,7 @@ Gibt den Systemordner zurück
 ### Siehe auch
 
 * class [FontSettings](../)
-* namensraum [Aspose.PSD](../../fontsettings/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: TextFontInfo.FamilyName
-second_title: Aspose.PSD für .NET-API-Referenz
-description: TextFontInfo eigendom. Ruft den Namen der Schriftfamilie ab
+title: "TextFontInfo.FamilyName"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "TextFontInfo-Eigenschaft. Gibt den Schriftfamiliennamen zurück."
 type: docs
 weight: 10
 url: /de/net/aspose.psd.fileformats.psd.layers.text/textfontinfo/familyname/
 ---
+{{< psd/tize >}}
 ## TextFontInfo.FamilyName property
 
 Ruft den Namen der Schriftfamilie ab
@@ -14,14 +15,14 @@ Ruft den Namen der Schriftfamilie ab
 public string FamilyName { get; }
 ```
 
-### Eigentumswert
+### Property Value
 
-Name der Schriftfamilie
+Schriftfamilienname
 
 ### Siehe auch
 
 * class [TextFontInfo](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.Text](../../textfontinfo/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.Text](../../../aspose.psd.fileformats.psd.layers.text/)
+* assembly [Aspose.PSD](../../../)
 
 

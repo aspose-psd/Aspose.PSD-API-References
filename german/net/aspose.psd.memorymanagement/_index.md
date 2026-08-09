@@ -1,12 +1,13 @@
 ---
-title: Aspose.PSD.MemoryManagement
-second_title: Aspose.PSD für .NET-API-Referenz
-description: Der Namensraum enthält Speicherverwaltungsroutinen.
+title: "Aspose.PSD.MemoryManagement"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "Der Namespace enthält Routinen zur Speicherverwaltung"
 type: docs
-weight: 450
+weight: 490
 url: /de/net/aspose.psd.memorymanagement/
 ---
-Der Namensraum enthält Speicherverwaltungsroutinen.
+{{< psd/tize >}}
+Der Namespace enthält Speicherverwaltungsroutinen.
 
 ## Klassen
 

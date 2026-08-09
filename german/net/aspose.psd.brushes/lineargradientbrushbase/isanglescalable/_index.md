@@ -1,27 +1,28 @@
 ---
-title: LinearGradientBrushBase.IsAngleScalable
-second_title: Aspose.PSD für .NET-API-Referenz
-description: LinearGradientBrushBase eigendom. Ruft einen Wert ab oder legt einen Wert fest der angibt obAngle wird bei Transformationen damit verändertLinearGradientBrushBase .
+title: "LinearGradientBrushBase.IsAngleScalable"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "LinearGradientBrushBase-Eigenschaft. Ruft einen Wert ab oder legt ihn fest, der angibt, ob der Winkel während Transformationen mit diesem LinearGradientBrushBase geändert wird."
 type: docs
 weight: 30
 url: /de/net/aspose.psd.brushes/lineargradientbrushbase/isanglescalable/
 ---
+{{< psd/tize >}}
 ## LinearGradientBrushBase.IsAngleScalable property
 
-Ruft einen Wert ab oder legt einen Wert fest, der angibt, ob[`Angle`](../angle/) wird bei Transformationen damit verändert[`LinearGradientBrushBase`](../) .
+Ruft den Wert ab oder legt ihn fest, der angibt, ob [`Angle`](../angle/) während Transformationen mit diesem [`LinearGradientBrushBase`](../) geändert wird.
 
 ```csharp
 public bool IsAngleScalable { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
-`WAHR` Wenn[`Angle`](../angle/) wird bei Transformationen damit verändert[`LinearGradientBrushBase`](../) ; ansonsten,`FALSCH` .
+`true`, wenn [`Angle`](../angle/) während Transformationen mit diesem [`LinearGradientBrushBase`](../) geändert wird; andernfalls `false`.
 
 ### Siehe auch
 
 * class [LinearGradientBrushBase](../)
-* namensraum [Aspose.PSD.Brushes](../../lineargradientbrushbase/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
+* assembly [Aspose.PSD](../../../)
 
 

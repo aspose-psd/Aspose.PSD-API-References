@@ -1,27 +1,28 @@
 ---
-title: AiImage.IsCached
-second_title: Aspose.PSD für .NET-API-Referenz
-description: AiImage eigendom. Ruft einen Wert ab der angibt ob die Daten des Objekts derzeit zwischengespeichert sind und kein Datenlesen erforderlich ist.
+title: "AiImage.IsCached"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "AiImage-Eigenschaft. Gibt einen Wert zurück, der angibt, ob die Objektdaten derzeit zwischengespeichert sind und kein Datenlesen erforderlich ist"
 type: docs
-weight: 80
+weight: 90
 url: /de/net/aspose.psd.fileformats.ai/aiimage/iscached/
 ---
+{{< psd/tize >}}
 ## AiImage.IsCached property
 
-Ruft einen Wert ab, der angibt, ob die Daten des Objekts derzeit zwischengespeichert sind und kein Datenlesen erforderlich ist.
+Liest einen Wert, der angibt, ob die Daten des Objekts derzeit im Cache sind und kein Datenlesen erforderlich ist.
 
 ```csharp
 public override bool IsCached { get; }
 ```
 
-### Eigentumswert
+### Property Value
 
-`WAHR` wenn die Daten des Objekts zwischengespeichert sind; ansonsten,`FALSCH` .
+`true`, wenn die Daten des Objekts zwischengespeichert sind; andernfalls `false`.
 
 ### Siehe auch
 
 * class [AiImage](../)
-* namensraum [Aspose.PSD.FileFormats.Ai](../../aiimage/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

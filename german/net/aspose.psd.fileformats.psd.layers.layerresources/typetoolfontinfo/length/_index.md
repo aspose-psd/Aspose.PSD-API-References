@@ -1,27 +1,28 @@
 ---
-title: TypeToolFontInfo.Length
-second_title: Aspose.PSD für .NET-API-Referenz
-description: TypeToolFontInfo eigendom. Ruft die Länge ab.
+title: "TypeToolFontInfo.Length"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "TypeToolFontInfo-Eigenschaft. Liest die Länge."
 type: docs
 weight: 80
 url: /de/net/aspose.psd.fileformats.psd.layers.layerresources/typetoolfontinfo/length/
 ---
+{{< psd/tize >}}
 ## TypeToolFontInfo.Length property
 
-Ruft die Länge ab.
+Liest die Länge.
 
 ```csharp
 public int Length { get; }
 ```
 
-### Eigentumswert
+### Property Value
 
 Die Länge.
 
 ### Siehe auch
 
 * class [TypeToolFontInfo](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../typetoolfontinfo/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

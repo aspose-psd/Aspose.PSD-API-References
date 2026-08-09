@@ -1,20 +1,21 @@
 ---
-title: IObjectWithBounds.Size
-second_title: Aspose.PSD für .NET-API-Referenz
-description: IObjectWithBounds eigendom. Ruft die Objektgröße ab.
+title: "IObjectWithBounds.Size"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "IObjectWithBounds-Eigenschaft. Gibt die Größe des Objekts zurück."
 type: docs
 weight: 30
 url: /de/net/aspose.psd/iobjectwithbounds/size/
 ---
+{{< psd/tize >}}
 ## IObjectWithBounds.Size property
 
-Ruft die Objektgröße ab.
+Liefert die Größe des Objekts.
 
 ```csharp
 public Size Size { get; }
 ```
 
-### Eigentumswert
+### Property Value
 
 Die Objektgröße.
 
@@ -22,7 +23,7 @@ Die Objektgröße.
 
 * struct [Size](../../size/)
 * interface [IObjectWithBounds](../)
-* namensraum [Aspose.PSD](../../iobjectwithbounds/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

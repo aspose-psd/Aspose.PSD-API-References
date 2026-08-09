@@ -1,27 +1,28 @@
 ---
-title: XmpGuid.Value
-second_title: Aspose.PSD für .NET-API-Referenz
-description: XmpGuid eigendom. Ruft den Wert ab oder legt ihn fest.
+title: "XmpGuid.Value"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "XmpGuid-Eigenschaft. Gibt den Wert zurück oder legt ihn fest."
 type: docs
 weight: 30
 url: /de/net/aspose.psd.xmp.types.derived/xmpguid/value/
 ---
+{{< psd/tize >}}
 ## XmpGuid.Value property
 
-Ruft den Wert ab oder legt ihn fest.
+Liest oder setzt den Wert.
 
 ```csharp
 public Guid Value { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
 Der Wert.
 
 ### Siehe auch
 
 * class [XmpGuid](../)
-* namensraum [Aspose.PSD.Xmp.Types.Derived](../../xmpguid/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Derived](../../../aspose.psd.xmp.types.derived/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,12 +1,13 @@
 ---
-title: Aspose.PSD.Evalute
-second_title: Aspose.PSD für .NET-API-Referenz
-description: Die NamespaceDIBHeaderVerarbeitung.
+title: "Aspose.PSD.Evalute"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "Der Namensraum DIB-Header-Verarbeitung"
 type: docs
-weight: 80
+weight: 90
 url: /de/net/aspose.psd.evalute/
 ---
-Die Namespace-DIB-Header-Verarbeitung.
+{{< psd/tize >}}
+Der Namensraum verarbeitet DIB-Header.
 
 ## Klassen
 

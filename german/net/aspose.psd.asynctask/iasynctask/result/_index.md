@@ -1,27 +1,28 @@
 ---
-title: IAsyncTask.Result
-second_title: Aspose.PSD für .NET-API-Referenz
-description: IAsyncTask eigendom. Ruft das Ergebnis dieser Aufgabe ab.
+title: "IAsyncTask.Result"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "IAsyncTask-Eigenschaft. Gibt das Ergebnis dieser Aufgabe zurück"
 type: docs
 weight: 60
 url: /de/net/aspose.psd.asynctask/iasynctask/result/
 ---
+{{< psd/tize >}}
 ## IAsyncTask.Result property
 
-Ruft das Ergebnis dieser Aufgabe ab.
+Gibt das Ergebnis dieser Aufgabe zurück.
 
 ```csharp
 public object Result { get; }
 ```
 
-### Eigentumswert
+### Property Value
 
 Das Ergebnis dieser Aufgabe.
 
 ### Siehe auch
 
 * interface [IAsyncTask](../)
-* namensraum [Aspose.PSD.AsyncTask](../../iasynctask/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.AsyncTask](../../../aspose.psd.asynctask/)
+* assembly [Aspose.PSD](../../../)
 
 

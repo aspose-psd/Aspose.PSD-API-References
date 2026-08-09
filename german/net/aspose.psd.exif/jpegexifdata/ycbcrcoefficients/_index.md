@@ -1,11 +1,12 @@
 ---
-title: JpegExifData.YCbCrCoefficients
-second_title: Aspose.PSD für .NET-API-Referenz
-description: JpegExifData eigendom. Liest oder setzt die Matrixkoeffizienten für die Transformation von RGB zu YCbCrBilddaten.
+title: "JpegExifData.YCbCrCoefficients"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "JpegExifData-Eigenschaft. Ruft die Matrixkoeffizienten für die Transformation von RGB zu YCbCr‑Bilddaten ab oder legt sie fest"
 type: docs
 weight: 230
 url: /de/net/aspose.psd.exif/jpegexifdata/ycbcrcoefficients/
 ---
+{{< psd/tize >}}
 ## JpegExifData.YCbCrCoefficients property
 
 Liest oder setzt die Matrixkoeffizienten für die Transformation von RGB- zu YCbCr-Bilddaten.
@@ -14,7 +15,7 @@ Liest oder setzt die Matrixkoeffizienten für die Transformation von RGB- zu YCb
 public TiffRational[] YCbCrCoefficients { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
 Die Matrixkoeffizienten für die Transformation von RGB- zu YCbCr-Bilddaten.
 
@@ -22,7 +23,7 @@ Die Matrixkoeffizienten für die Transformation von RGB- zu YCbCr-Bilddaten.
 
 * class [TiffRational](../../../aspose.psd.fileformats.tiff/tiffrational/)
 * class [JpegExifData](../)
-* namensraum [Aspose.PSD.Exif](../../jpegexifdata/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

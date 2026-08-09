@@ -1,55 +1,56 @@
 ---
-title: Class KnkoResource
-second_title: Aspose.PSD für .NET-API-Referenz
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.KnkoResource klas. Klasse KnkoResource. Diese Ressource enthält Informationen zum Mischen von abgeschnittenen Elementen.
+title: "Klasse KnkoResource"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "Aspose.PSD.FileFormats.Psd.Layers.LayerResources.KnkoResource Klasse. Klasse KnkoResource. Diese Ressource enthält Informationen über das Blending von beschnittenen Elementen"
 type: docs
-weight: 2570
+weight: 2880
 url: /de/net/aspose.psd.fileformats.psd.layers.layerresources/knkoresource/
 ---
+{{< psd/tize >}}
 ## KnkoResource class
 
-Klasse KnkoResource. Diese Ressource enthält Informationen zum Mischen von abgeschnittenen Elementen.
+Klasse KnkoResource. Diese Ressource enthält Informationen über die Mischung des beschnittenen Elements.
 
 ```csharp
 public class KnkoResource : BooleanResource
 ```
 
-## Konstrukteure
+## Konstruktoren
 
 | Name | Beschreibung |
 | --- | --- |
-| [KnkoResource](knkoresource/#constructor)() | Initialisiert eine neue Instanz von`KnkoResource` Klasse. |
-| [KnkoResource](knkoresource/#constructor_1)(bool) | Initialisiert eine neue Instanz von`KnkoResource` Klasse. |
-| [KnkoResource](knkoresource/#constructor_2)(byte[]) | Initialisiert eine neue Instanz von`KnkoResource` class. Mit benutzerdefiniertem oder unbekanntem Wert |
+| [KnkoResource](knkoresource/#constructor)() | Initialisiert eine neue Instanz der `KnkoResource`‑Klasse. |
+| [KnkoResource](knkoresource/#constructor_1)(bool) | Initialisiert eine neue Instanz der `KnkoResource`‑Klasse. |
+| [KnkoResource](knkoresource/#constructor_2)(byte[]) | Initialisiert eine neue Instanz der `KnkoResource`‑Klasse. Mit benutzerdefiniertem oder unbekanntem Wert |
 
 ## Eigenschaften
 
 | Name | Beschreibung |
 | --- | --- |
-| override [Key](../../aspose.psd.fileformats.psd.layers.layerresources/knkoresource/key/) { get; } | Ruft den Layer-Ressourcenschlüssel ab. |
-| [Knockout](../../aspose.psd.fileformats.psd.layers.layerresources/knkoresource/knockout/) { get; set; } | Ruft einen Wert ab oder legt einen Wert fest, der angibt, ob [Innenelemente verschmelzen]. |
-| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/booleanresource/length/) { get; } | Ruft die Layer-Ressourcenlänge in Bytes ab. |
-| override [PsdVersion](../../aspose.psd.fileformats.psd.layers.layerresources/booleanresource/psdversion/) { get; } | Ruft die PSD-Version ab. |
-| override [Signature](../../aspose.psd.fileformats.psd.layers.layerresources/booleanresource/signature/) { get; } | Ruft die Signatur ab. |
+| [Key](../../aspose.psd.fileformats.psd.layers/layerresource/key/) { get; } | Liest den Schichtressourcen-Schlüssel. |
+| [Knockout](../../aspose.psd.fileformats.psd.layers.layerresources/knkoresource/knockout/) { get; set; } | Liest oder schreibt einen Wert, der angibt, ob [blend interior elements]. |
+| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/booleanresource/length/) { get; } | Liest die Länge der Schichtressource in Bytes. |
+| virtual [PsdVersion](../../aspose.psd.fileformats.psd.layers/layerresource/psdversion/) { get; } | Liest die minimale PSD-Version, die für die Schichtressource erforderlich ist. 0 bedeutet keine Einschränkungen. |
+| virtual [Signature](../../aspose.psd.fileformats.psd.layers/layerresource/signature/) { get; } | Liest die Signatur. |
 
 ## Methoden
 
 | Name | Beschreibung |
 | --- | --- |
 | override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/booleanresource/save/)(StreamContainer, int) | Speichert den angegebenen Stream-Container. |
-| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring/)() | Gibt a zurückString die diese Instanz darstellt. |
+| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring/)() | Gibt einen String zurück, der diese Instanz darstellt. |
 
 ## Felder
 
 | Name | Beschreibung |
 | --- | --- |
-| const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/knkoresource/typetoolkey/) | Der Typ-Tool-Info-Schlüssel. |
+| const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/knkoresource/typetoolkey/) | Der Typwerkzeug-Info-Schlüssel. |
 
 ### Siehe auch
 
 * class [LayerResource](../../aspose.psd.fileformats.psd.layers/layerresource/)
 * class [BooleanResource](../booleanresource/)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
-* Montage [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../)
 
 

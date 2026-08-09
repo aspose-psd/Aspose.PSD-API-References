@@ -1,14 +1,15 @@
 ---
-title: TiffOptions.GetTagByType
-second_title: Aspose.PSD für .NET-API-Referenz
-description: TiffOptions methode. Ruft die Instanz des Tags nach Typ ab.
+title: "TiffOptions.GetTagByType"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "TiffOptions-Methode. Gibt die Instanz des Tags nach Typ zurück"
 type: docs
-weight: 720
+weight: 730
 url: /de/net/aspose.psd.imageoptions/tiffoptions/gettagbytype/
 ---
+{{< psd/tize >}}
 ## TiffOptions.GetTagByType method
 
-Ruft die Instanz des Tags nach Typ ab.
+Liest die Instanz des Tags nach Typ.
 
 ```csharp
 public TiffDataType GetTagByType(TiffTags tagKey)
@@ -20,14 +21,14 @@ public TiffDataType GetTagByType(TiffTags tagKey)
 
 ### Rückgabewert
 
-Instanz des Tags, falls vorhanden, andernfalls null.
+Instanz des Tags, falls vorhanden, sonst null.
 
 ### Siehe auch
 
 * class [TiffDataType](../../../aspose.psd.fileformats.tiff/tiffdatatype/)
 * enum [TiffTags](../../../aspose.psd.fileformats.tiff.enums/tifftags/)
 * class [TiffOptions](../)
-* namensraum [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,28 +1,29 @@
 ---
-title: VectorShapeBoundingBox.Bounds
-second_title: Aspose.PSD für .NET-API-Referenz
-description: VectorShapeBoundingBox eigendom. Ruft die Grenzen des Begrenzungsrahmens der Form ab oder legt sie fest.
+title: "VectorShapeBoundingBox.Bounds"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "VectorShapeBoundingBox-Eigenschaft. Gibt die Grenzen des Shape-Bounding-Box zurück oder legt sie fest."
 type: docs
 weight: 30
 url: /de/net/aspose.psd.fileformats.core.vectorpaths/vectorshapeboundingbox/bounds/
 ---
+{{< psd/tize >}}
 ## VectorShapeBoundingBox.Bounds property
 
-Ruft die Grenzen des Begrenzungsrahmens der Form ab oder legt sie fest.
+Liest oder legt die Grenzen des Formbegrenzungsfelds fest.
 
 ```csharp
 public Rectangle Bounds { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
-Die Begrenzungsrahmen der Form.
+Die Begrenzungen des Shape-Bounding-Box.
 
 ### Siehe auch
 
 * struct [Rectangle](../../../aspose.psd/rectangle/)
 * class [VectorShapeBoundingBox](../)
-* namensraum [Aspose.PSD.FileFormats.Core.VectorPaths](../../vectorshapeboundingbox/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../../)
 
 

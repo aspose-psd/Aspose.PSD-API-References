@@ -1,20 +1,21 @@
 ---
-title: Graphics.InterpolationMode
-second_title: Aspose.PSD für .NET-API-Referenz
-description: Graphics eigendom. Ruft den Interpolationsmodus ab oder legt ihn fest.
+title: "Graphics.InterpolationMode"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "Graphics-Eigenschaft. Gibt den Interpolationsmodus zurück oder legt ihn fest."
 type: docs
 weight: 70
 url: /de/net/aspose.psd/graphics/interpolationmode/
 ---
+{{< psd/tize >}}
 ## Graphics.InterpolationMode property
 
-Ruft den Interpolationsmodus ab oder legt ihn fest.
+Liest oder setzt den Interpolationsmodus.
 
 ```csharp
 public InterpolationMode InterpolationMode { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
 Der Interpolationsmodus.
 
@@ -22,7 +23,7 @@ Der Interpolationsmodus.
 
 * enum [InterpolationMode](../../interpolationmode/)
 * class [Graphics](../)
-* namensraum [Aspose.PSD](../../graphics/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

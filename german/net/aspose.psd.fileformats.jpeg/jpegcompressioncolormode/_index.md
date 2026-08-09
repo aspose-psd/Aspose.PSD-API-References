@@ -1,11 +1,12 @@
 ---
-title: Enum JpegCompressionColorMode
-second_title: Aspose.PSD für .NET-API-Referenz
-description: Aspose.PSD.FileFormats.Jpeg.JpegCompressionColorMode opsomming. Farbmodus für JPEGBilder.
+title: "Enum JpegCompressionColorMode"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "Aspose.PSD.FileFormats.Jpeg.JpegCompressionColorMode enum. Farbmodus für JPEG-Bilder"
 type: docs
-weight: 1490
+weight: 1500
 url: /de/net/aspose.psd.fileformats.jpeg/jpegcompressioncolormode/
 ---
+{{< psd/tize >}}
 ## JpegCompressionColorMode enumeration
 
 Farbmodus für JPEG-Bilder.
@@ -20,13 +21,13 @@ public enum JpegCompressionColorMode
 | --- | --- | --- |
 | Grayscale | `0` | Das Graustufenbild. |
 | YCbCr | `1` | YCbCr-Bild, Standardoption für JPEG-Bilder. |
-| Cmyk | `2` | 4-Komponenten-CMYK-Bild. |
-| Ycck | `3` | Das ycck-Farb-JPEG-Bild. ICC-Profil zum Speichern erforderlich. |
-| Rgb | `4` | Der RGB-Farbmodus. |
+| Cmyk | `2` | 4‑Komponenten‑CMYK‑Bild. |
+| Ycck | `3` | Das YCCK-Farb-JPEG-Bild. Benötigt ICC‑Profil zum Speichern. |
+| Rgb | `4` | Der RGB‑Farbmodus. |
 
 ### Siehe auch
 
-* namensraum [Aspose.PSD.FileFormats.Jpeg](../../aspose.psd.fileformats.jpeg/)
-* Montage [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Jpeg](../../aspose.psd.fileformats.jpeg/)
+* assembly [Aspose.PSD](../../)
 
 

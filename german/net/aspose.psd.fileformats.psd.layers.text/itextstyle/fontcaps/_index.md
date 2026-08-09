@@ -1,14 +1,15 @@
 ---
-title: ITextStyle.FontCaps
-second_title: Aspose.PSD für .NET-API-Referenz
-description: ITextStyle eigendom. Die Schrift in Großbuchstaben.
+title: "ITextStyle.FontCaps"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "ITextStyle-Eigenschaft. Die Schriftkapitalisierung."
 type: docs
 weight: 100
 url: /de/net/aspose.psd.fileformats.psd.layers.text/itextstyle/fontcaps/
 ---
+{{< psd/tize >}}
 ## ITextStyle.FontCaps property
 
-Die Schrift in Großbuchstaben.
+Die Großbuchstaben der Schrift.
 
 ```csharp
 public FontCaps FontCaps { get; set; }
@@ -18,7 +19,7 @@ public FontCaps FontCaps { get; set; }
 
 * enum [FontCaps](../../../aspose.psd.fileformats.psd/fontcaps/)
 * interface [ITextStyle](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.Text](../../itextstyle/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.Text](../../../aspose.psd.fileformats.psd.layers.text/)
+* assembly [Aspose.PSD](../../../)
 
 

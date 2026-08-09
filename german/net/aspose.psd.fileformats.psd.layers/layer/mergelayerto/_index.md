@@ -1,11 +1,12 @@
 ---
-title: Layer.MergeLayerTo
-second_title: Aspose.PSD für .NET-API-Referenz
-description: Layer methode. Führt die Ebene mit der angegebenen Ebene zusammen
+title: "Layer.MergeLayerTo"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "Layer-Methode. Führt das Layer in den angegebenen Layer zusammen"
 type: docs
-weight: 360
+weight: 380
 url: /de/net/aspose.psd.fileformats.psd.layers/layer/mergelayerto/
 ---
+{{< psd/tize >}}
 ## Layer.MergeLayerTo method
 
 Führt die Ebene mit der angegebenen Ebene zusammen
@@ -16,12 +17,12 @@ public virtual void MergeLayerTo(Layer layerToMergeInto)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| layerToMergeInto | Layer | Die Ebene, mit der zusammengeführt werden soll. |
+| layerToMergeInto | Ebene | Der Layer, in den zusammengeführt wird. |
 
 ### Siehe auch
 
 * class [Layer](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers](../../layer/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

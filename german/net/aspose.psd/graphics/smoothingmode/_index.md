@@ -1,20 +1,21 @@
 ---
-title: Graphics.SmoothingMode
-second_title: Aspose.PSD für .NET-API-Referenz
-description: Graphics eigendom. Ruft den Glättungsmodus ab oder legt ihn fest.
+title: "Graphics.SmoothingMode"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "Graphics-Eigenschaft. Liest oder setzt den Glättungsmodus."
 type: docs
-weight: 110
+weight: 120
 url: /de/net/aspose.psd/graphics/smoothingmode/
 ---
+{{< psd/tize >}}
 ## Graphics.SmoothingMode property
 
-Ruft den Glättungsmodus ab oder legt ihn fest.
+Liest oder setzt den Glättungsmodus.
 
 ```csharp
 public SmoothingMode SmoothingMode { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
 Der Glättungsmodus.
 
@@ -22,7 +23,7 @@ Der Glättungsmodus.
 
 * enum [SmoothingMode](../../smoothingmode/)
 * class [Graphics](../)
-* namensraum [Aspose.PSD](../../graphics/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

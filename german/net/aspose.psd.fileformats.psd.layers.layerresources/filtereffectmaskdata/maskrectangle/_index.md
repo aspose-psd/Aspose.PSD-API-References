@@ -1,14 +1,15 @@
 ---
-title: FilterEffectMaskData.MaskRectangle
-second_title: Aspose.PSD für .NET-API-Referenz
-description: FilterEffectMaskData eigendom. Ruft das Blattmaskenrechteck ab.
+title: "FilterEffectMaskData.MaskRectangle"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "FilterEffectMaskData Eigenschaft. Gibt das Rechteck der Blattmaske zurück"
 type: docs
 weight: 50
 url: /de/net/aspose.psd.fileformats.psd.layers.layerresources/filtereffectmaskdata/maskrectangle/
 ---
+{{< psd/tize >}}
 ## FilterEffectMaskData.MaskRectangle property
 
-Ruft das Blattmaskenrechteck ab.
+Liest das Sheet‑Masken‑Rechteck.
 
 ```csharp
 public Rectangle MaskRectangle { get; }
@@ -18,7 +19,7 @@ public Rectangle MaskRectangle { get; }
 
 * struct [Rectangle](../../../aspose.psd/rectangle/)
 * class [FilterEffectMaskData](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../filtereffectmaskdata/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

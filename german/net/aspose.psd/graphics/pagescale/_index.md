@@ -1,27 +1,28 @@
 ---
-title: Graphics.PageScale
-second_title: Aspose.PSD für .NET-API-Referenz
-description: Graphics eigendom. Ruft die Skalierung zwischen Welteinheiten und Seiteneinheiten für diese Aspose.PSD.Graphics ab oder legt sie fest.
+title: "Graphics.PageScale"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "Graphics-Eigenschaft. Ruft die Skalierung zwischen Welteinheiten und Seiteneinheiten für dieses Aspose.PSD.Graphics ab oder legt sie fest."
 type: docs
 weight: 90
 url: /de/net/aspose.psd/graphics/pagescale/
 ---
+{{< psd/tize >}}
 ## Graphics.PageScale property
 
-Ruft die Skalierung zwischen Welteinheiten und Seiteneinheiten für diese Aspose.PSD.Graphics ab oder legt sie fest.
+Liest oder setzt die Skalierung zwischen Welteinheiten und Seiteneinheiten für dieses Aspose.PSD.Graphics.
 
 ```csharp
 public float PageScale { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
-Die Skalierung zwischen Welteinheiten und Seiteneinheiten für diese Aspose.PSD.Graphics.
+Die Skalierung zwischen Welteinheiten und Seiteneinheiten für dieses Aspose.PSD.Graphics.
 
 ### Siehe auch
 
 * class [Graphics](../)
-* namensraum [Aspose.PSD](../../graphics/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

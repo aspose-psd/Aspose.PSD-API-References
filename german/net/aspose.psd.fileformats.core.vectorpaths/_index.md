@@ -1,28 +1,29 @@
 ---
-title: Aspose.PSD.FileFormats.Core.VectorPaths
-second_title: Aspose.PSD für .NET-API-Referenz
-description: Der Namespace enthält PSDVektorpfade.
+title: "Aspose.PSD.FileFormats.Core.VectorPaths"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "Der Namespace enthält PSD-Vektorpfade."
 type: docs
-weight: 150
+weight: 160
 url: /de/net/aspose.psd.fileformats.core.vectorpaths/
 ---
-Der Namespace enthält PSD-Vektorpfade.
+{{< psd/tize >}}
+Der Namensraum enthält PSD-Vektorpfade.
 
 ## Klassen
 
 | Klasse | Beschreibung |
 | --- | --- |
-| [BezierKnotRecord](./bezierknotrecord/) | Bezier-Knoten-Aufzeichnungsklasse |
-| [ClipboardRecord](./clipboardrecord/) | Zwischenablage-Datensatzklasse |
-| [InitialFillRuleRecord](./initialfillrulerecord/) | Initial Fill Rule Record Klasse |
-| [LengthRecord](./lengthrecord/) | Teilpfadlängen-Datensatzklasse |
-| [PathFillRuleRecord](./pathfillrulerecord/) | Pfadfüllregel-Datensatzklasse |
-| [VectorPathRecord](./vectorpathrecord/) | Vektorpfad-Datensatzklasse |
-| [VectorPathRecordFactory](./vectorpathrecordfactory/) | Vector Path Record Factory-Klasse |
-| [VectorShapeBoundingBox](./vectorshapeboundingbox/) | Definiert die Begrenzungsrahmenklasse für Vektorformen. |
-| [VectorShapeOriginSettings](./vectorshapeoriginsettings/) | Vektorform-Ursprungseinstellungen. |
-| [VectorShapeRadiiRectangle](./vectorshaperadiirectangle/) | Definiert Vektorform Radien Rechteck class |
-| [VectorShapeTransform](./vectorshapetransform/) | Definiert Vektorformtransformationsmatrix class |
+| [BezierKnotRecord](./bezierknotrecord/) | Bezier‑Knoten‑Record‑Klasse, die zum Lesen/Schreiben von Bezier‑Knoten‑Daten aus einer Ressource verwendet wird. |
+| [ClipboardRecord](./clipboardrecord/) | Zwischenablage‑Record‑Klasse |
+| [InitialFillRuleRecord](./initialfillrulerecord/) | Initiale‑Füllregel‑Record‑Klasse |
+| [LengthRecord](./lengthrecord/) | Unterpfad‑Längen‑Record‑Klasse. |
+| [PathFillRuleRecord](./pathfillrulerecord/) | Pfad‑Füllregel‑Record‑Klasse |
+| [VectorPathRecord](./vectorpathrecord/) | Vektor‑Pfad‑Record‑Klasse |
+| [VectorPathRecordFactory](./vectorpathrecordfactory/) | Vektor‑Pfad‑Record‑Factory‑Klasse. |
+| [VectorShapeBoundingBox](./vectorshapeboundingbox/) | Definiert die Bounding‑Box‑Klasse für Vektorformen. |
+| [VectorShapeOriginSettings](./vectorshapeoriginsettings/) | Einstellungen zur Ursprungserstellung von Vektorformen. |
+| [VectorShapeRadiiRectangle](./vectorshaperadiirectangle/) | Definiert die Rechteck‑Klasse für Vektorform‑Radien |
+| [VectorShapeTransform](./vectorshapetransform/) | Definiert die Transformationsmatrix‑Klasse für Vektorformen |
 ## Schnittstellen
 
 | Schnittstelle | Beschreibung |
@@ -32,7 +33,7 @@ Der Namespace enthält PSD-Vektorpfade.
 
 | Aufzählung | Beschreibung |
 | --- | --- |
-| [PathOperations](./pathoperations/) | Die Operationen zum Kombinieren der Pfadformen (boolesche Operationen). |
+| [PathOperations](./pathoperations/) | Die Vorgänge zum Kombinieren von Pfadformen (Boolesche Operationen). |
 | [VectorPathType](./vectorpathtype/) | Vektorpfadtyp gemäß PSD-Formatspezifikation |
 
 

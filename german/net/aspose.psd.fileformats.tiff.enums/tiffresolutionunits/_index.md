@@ -1,14 +1,15 @@
 ---
-title: Enum TiffResolutionUnits
-second_title: Aspose.PSD für .NET-API-Referenz
-description: Aspose.PSD.FileFormats.Tiff.Enums.TiffResolutionUnits opsomming. TiffAuflösungseinheit Enum
+title: "Aufzählung TiffResolutionUnits"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "Aspose.PSD.FileFormats.Tiff.Enums.TiffResolutionUnits enum. Tiff-Auflösungseinheiten-Enum"
 type: docs
-weight: 4150
+weight: 4620
 url: /de/net/aspose.psd.fileformats.tiff.enums/tiffresolutionunits/
 ---
+{{< psd/tize >}}
 ## TiffResolutionUnits enumeration
 
-Tiff-Auflösungseinheit Enum
+TIFF-Auflösungseinheiten-Aufzählung
 
 ```csharp
 public enum TiffResolutionUnits : ushort
@@ -24,7 +25,7 @@ public enum TiffResolutionUnits : ushort
 
 ### Siehe auch
 
-* namensraum [Aspose.PSD.FileFormats.Tiff.Enums](../../aspose.psd.fileformats.tiff.enums/)
-* Montage [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Tiff.Enums](../../aspose.psd.fileformats.tiff.enums/)
+* assembly [Aspose.PSD](../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: RasterImage.TransparentColor
-second_title: Aspose.PSD für .NET-API-Referenz
-description: RasterImage eigendom. Ruft die transparente Farbe des Bildes ab.
+title: "RasterImage.TransparentColor"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "RasterImage‑Eigenschaft. Ruft die transparente Farbe des Bildes ab"
 type: docs
 weight: 130
 url: /de/net/aspose.psd/rasterimage/transparentcolor/
 ---
+{{< psd/tize >}}
 ## RasterImage.TransparentColor property
 
-Ruft die transparente Farbe des Bildes ab.
+Liest die transparente Bildfarbe.
 
 ```csharp
 public virtual Color TransparentColor { get; set; }
@@ -18,7 +19,7 @@ public virtual Color TransparentColor { get; set; }
 
 * struct [Color](../../color/)
 * class [RasterImage](../)
-* namensraum [Aspose.PSD](../../rasterimage/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

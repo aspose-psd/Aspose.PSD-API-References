@@ -1,22 +1,23 @@
 ---
-title: ColorBalanceAdjustmentLayer.ShadowsYellowBlueBalance
-second_title: Aspose.PSD für .NET-API-Referenz
-description: ColorBalanceAdjustmentLayer eigendom. Ruft die GelbBlauBalance der Schatten ab oder legt sie fest.
+title: "ColorBalanceAdjustmentLayer.ShadowsYellowBlueBalance"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "ColorBalanceAdjustmentLayer property. Ruft den Shadows YellowBlue Balance ab oder legt ihn fest"
 type: docs
 weight: 100
 url: /de/net/aspose.psd.fileformats.psd.layers.adjustmentlayers/colorbalanceadjustmentlayer/shadowsyellowbluebalance/
 ---
+{{< psd/tize >}}
 ## ColorBalanceAdjustmentLayer.ShadowsYellowBlueBalance property
 
-Ruft die Gelb-Blau-Balance der Schatten ab oder legt sie fest.
+Ruft den Schatten‑Gelb‑Blau‑Ausgleich ab oder legt ihn fest.
 
 ```csharp
 public short ShadowsYellowBlueBalance { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
-Die Schatten Gelb-Blau-Balance.
+Der Shadows Yellow Blue Balance.
 
 ### Ausnahmen
 
@@ -24,9 +25,9 @@ Die Schatten Gelb-Blau-Balance.
 | --- | --- |
 | ArgumentOutOfRangeException | Shadows Yellow Blue Balance muss im Bereich von -100 bis +100 liegen. |
 
-### Beispiele
+## Beispiele
 
-Der folgende Code demonstriert die Unterstützung für ColorBalanceAdjustmentLayer.
+Der folgende Code demonstriert die Unterstützung für die ColorBalanceAdjustmentLayer.
 
 ```csharp
 [C#]
@@ -60,7 +61,7 @@ using (var im = (PsdImage)Image.Load(filePath))
 ### Siehe auch
 
 * class [ColorBalanceAdjustmentLayer](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../colorbalanceadjustmentlayer/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/)
+* assembly [Aspose.PSD](../../../)
 
 

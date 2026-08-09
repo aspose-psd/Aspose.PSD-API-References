@@ -1,18 +1,19 @@
 ---
-title: Aspose.PSD.FileFormats.Tiff.FileManagement
-second_title: Aspose.PSD für .NET-API-Referenz
-description: Der Namespace enthält StreamHandlingKlassen im TIFFDateiformat.
+title: "Aspose.PSD.FileFormats.Tiff.FileManagement"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "Der Namespace enthält Klassen zur Verarbeitung von Tiff-Dateiformat‑Streams."
 type: docs
-weight: 390
+weight: 430
 url: /de/net/aspose.psd.fileformats.tiff.filemanagement/
 ---
-Der Namespace enthält Stream-Handling-Klassen im TIFF-Dateiformat.
+{{< psd/tize >}}
+Der Namespace enthält Klassen zur Verarbeitung von Tiff-Dateiformat-Streams.
 
 ## Klassen
 
 | Klasse | Beschreibung |
 | --- | --- |
-| [TiffStreamReader](./tiffstreamreader/) | Der TIFF-Stream zur Handhabung des Little-Endian-TIFF-Dateiformats. |
-| [TiffStreamWriter](./tiffstreamwriter/) | Tiff-Stream-Writer. |
+| [TiffStreamReader](./tiffstreamreader/) | Der Tiff‑Stream zur Verarbeitung des Little‑Endian‑Tiff‑Dateiformats. |
+| [TiffStreamWriter](./tiffstreamwriter/) | Tiff‑Stream‑Writer. |
 
 

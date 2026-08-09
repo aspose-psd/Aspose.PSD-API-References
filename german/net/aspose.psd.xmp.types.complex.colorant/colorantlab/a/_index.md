@@ -1,27 +1,28 @@
 ---
-title: ColorantLab.A
-second_title: Aspose.PSD für .NET-API-Referenz
-description: ColorantLab eigendom. Ruft die AKomponente ab oder setzt sie.
+title: "ColorantLab.A"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "ColorantLab-Eigenschaft. Gibt die A‑Komponente zurück oder legt sie fest"
 type: docs
 weight: 20
 url: /de/net/aspose.psd.xmp.types.complex.colorant/colorantlab/a/
 ---
+{{< psd/tize >}}
 ## ColorantLab.A property
 
-Ruft die A-Komponente ab oder setzt sie.
+Liest oder setzt die A-Komponente.
 
 ```csharp
 public int A { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
-Die A-Komponente.
+Die A‑Komponente.
 
 ### Siehe auch
 
 * class [ColorantLab](../)
-* namensraum [Aspose.PSD.Xmp.Types.Complex.Colorant](../../colorantlab/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.Colorant](../../../aspose.psd.xmp.types.complex.colorant/)
+* assembly [Aspose.PSD](../../../)
 
 

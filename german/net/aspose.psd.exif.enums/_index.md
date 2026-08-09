@@ -1,35 +1,36 @@
 ---
-title: Aspose.PSD.Exif.Enums
-second_title: Aspose.PSD für .NET-API-Referenz
-description: Der Namensraum enthält EXIFAufzählungen.
+title: "Aspose.PSD.Exif.Enums"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "Der Namespace enthält EXIF-Aufzählungen"
 type: docs
-weight: 100
+weight: 110
 url: /de/net/aspose.psd.exif.enums/
 ---
-Der Namensraum enthält EXIF-Aufzählungen.
+{{< psd/tize >}}
+Der Namensraum enthält EXIF‑Aufzählungen.
 
 ## Aufzählung
 
 | Aufzählung | Beschreibung |
 | --- | --- |
-| [ExifColorSpace](./exifcolorspace/) | Exif-Farbraum-Aufzählung. |
-| [ExifContrast](./exifcontrast/) | exif normal weich hart enum. |
-| [ExifCustomRendered](./exifcustomrendered/) | exif benutzerdefinierte gerenderte Aufzählung. |
-| [ExifExposureMode](./exifexposuremode/) | exif Belichtungsmodus enum. |
-| [ExifExposureProgram](./exifexposureprogram/) | exif Belichtungsprogramm enum. |
-| [ExifFileSource](./exiffilesource/) | Exif-Datei Quellenaufzählung. |
+| [ExifColorSpace](./exifcolorspace/) | exif Farbraum-Enum. |
+| [ExifContrast](./exifcontrast/) | exif normal weich hart Enum. |
+| [ExifCustomRendered](./exifcustomrendered/) | exif benutzerdefiniert gerendert Enum. |
+| [ExifExposureMode](./exifexposuremode/) | exif Belichtungsmodus-Enum. |
+| [ExifExposureProgram](./exifexposureprogram/) | exif Belichtungsprogramm-Enum. |
+| [ExifFileSource](./exiffilesource/) | exif Dateiquellen-Enum. |
 | [ExifFlash](./exifflash/) | Blitzmodus. |
-| [ExifGainControl](./exifgaincontrol/) | Exif-Verstärkungssteuerung enum. |
-| [ExifGPSAltitudeRef](./exifgpsaltituderef/) | exif gps Höhenreferenz enum. |
-| [ExifLightSource](./exiflightsource/) | Die Exif-Lichtquelle. |
-| [ExifMeteringMode](./exifmeteringmode/) | exif Messmodus enum. |
-| [ExifOrientation](./exiforientation/) | Exif-Bildausrichtung. |
-| [ExifSaturation](./exifsaturation/) | Exif-Sättigungsaufzählung. |
-| [ExifSceneCaptureType](./exifscenecapturetype/) | Exif-Szenenaufnahmetyp enum. |
-| [ExifSensingMethod](./exifsensingmethod/) | Exif-Erkennungsmethode enum. |
-| [ExifSubjectDistanceRange](./exifsubjectdistancerange/) | Exif Motiventfernungsbereich Aufzählung. |
-| [ExifUnit](./exifunit/) | Exif-Einheitennummer. |
-| [ExifWhiteBalance](./exifwhitebalance/) | exif Weißabgleich enum. |
-| [ExifYCbCrPositioning](./exifycbcrpositioning/) | exif y cb cr positionierung enum. |
+| [ExifGainControl](./exifgaincontrol/) | exif Verstärkungssteuerungs-Enum. |
+| [ExifGPSAltitudeRef](./exifgpsaltituderef/) | exif GPS-Höhenreferenz-Enum. |
+| [ExifLightSource](./exiflightsource/) | Die exif Lichtquelle. |
+| [ExifMeteringMode](./exifmeteringmode/) | exif Messmodus-Enum. |
+| [ExifOrientation](./exiforientation/) | Exif-Bildorientierung. |
+| [ExifSaturation](./exifsaturation/) | exif Sättigungs-Enum. |
+| [ExifSceneCaptureType](./exifscenecapturetype/) | exif Szenenerfassungs-Typ-Enum. |
+| [ExifSensingMethod](./exifsensingmethod/) | exif Erfassungsmethode-Enum. |
+| [ExifSubjectDistanceRange](./exifsubjectdistancerange/) | exif Objektabstandsbereich-Enum. |
+| [ExifUnit](./exifunit/) | exif Einheit-Enum. |
+| [ExifWhiteBalance](./exifwhitebalance/) | exif Weißabgleich-Enum. |
+| [ExifYCbCrPositioning](./exifycbcrpositioning/) | exif Y Cb Cr Positionierungs-Enum. |
 
 

@@ -1,20 +1,21 @@
 ---
-title: PsdImage.CmykColorProfile
-second_title: Aspose.PSD für .NET-API-Referenz
-description: PsdImage eigendom. Ruft das CMYKFarbprofil für CMYKPSDBilder ab oder legt es fest. Muss für eine korrekte Farbkonvertierung mit RgbColorProfile gekoppelt sein.
+title: "PsdImage.CmykColorProfile"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "PsdImage-Eigenschaft. Gibt das CMYK-Farbprofil für CMYK-PSD-Bilder zurück oder legt es fest. Muss zusammen mit RgbColorProfile für korrekte Farbkonvertierung verwendet werden."
 type: docs
 weight: 60
 url: /de/net/aspose.psd.fileformats.psd/psdimage/cmykcolorprofile/
 ---
+{{< psd/tize >}}
 ## PsdImage.CmykColorProfile property
 
-Ruft das CMYK-Farbprofil für CMYK-PSD-Bilder ab oder legt es fest. Muss für eine korrekte Farbkonvertierung mit RgbColorProfile gekoppelt sein.
+Liest oder setzt das CMYK-Farbprofil für CMYK-PSD-Bilder. Muss zusammen mit RgbColorProfile für korrekte Farbkonvertierung verwendet werden.
 
 ```csharp
 public StreamSource CmykColorProfile { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
 Das CMYK-Farbprofil.
 
@@ -22,7 +23,7 @@ Das CMYK-Farbprofil.
 
 * class [StreamSource](../../../aspose.psd.sources/streamsource/)
 * class [PsdImage](../)
-* namensraum [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

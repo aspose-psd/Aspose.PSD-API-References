@@ -1,27 +1,28 @@
 ---
-title: JpegExifData.Copyright
-second_title: Aspose.PSD für .NET-API-Referenz
-description: JpegExifData eigendom. Ruft das Urheberrecht ab oder legt es fest.
+title: "JpegExifData.Copyright"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "JpegExifData-Eigenschaft. Ruft das Copyright ab oder legt es fest"
 type: docs
 weight: 50
 url: /de/net/aspose.psd.exif/jpegexifdata/copyright/
 ---
+{{< psd/tize >}}
 ## JpegExifData.Copyright property
 
-Ruft das Urheberrecht ab oder legt es fest.
+Liest oder setzt das Urheberrecht.
 
 ```csharp
 public string Copyright { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
 Das Urheberrecht.
 
 ### Siehe auch
 
 * class [JpegExifData](../)
-* namensraum [Aspose.PSD.Exif](../../jpegexifdata/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

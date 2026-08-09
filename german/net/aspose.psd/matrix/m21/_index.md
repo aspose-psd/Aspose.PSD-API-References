@@ -1,14 +1,15 @@
 ---
-title: Matrix.M21
-second_title: Aspose.PSD für .NET-API-Referenz
-description: Matrix eigendom. Ruft das Matrixelement in der ersten Spalte der zweiten Zeile ab. Stellt Scherung entlang der XAchse dar.
+title: "Matrix.M21"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "Matrix‑Eigenschaft. Gibt das Matrixelement in der zweiten Zeile, ersten Spalte zurück. Stellt die Scherung entlang der X‑Achse dar."
 type: docs
 weight: 50
 url: /de/net/aspose.psd/matrix/m21/
 ---
+{{< psd/tize >}}
 ## Matrix.M21 property
 
-Ruft das Matrixelement in der ersten Spalte der zweiten Zeile ab. Stellt Scherung entlang der X-Achse dar.
+Liefert das Matrix-Element in der zweiten Zeile, ersten Spalte. Stellt die Scherung entlang der X-Achse dar.
 
 ```csharp
 public float M21 { get; }
@@ -17,7 +18,7 @@ public float M21 { get; }
 ### Siehe auch
 
 * class [Matrix](../)
-* namensraum [Aspose.PSD](../../matrix/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

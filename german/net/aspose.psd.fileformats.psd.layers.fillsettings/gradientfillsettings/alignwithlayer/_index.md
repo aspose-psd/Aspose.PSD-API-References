@@ -1,27 +1,28 @@
 ---
-title: GradientFillSettings.AlignWithLayer
-second_title: Aspose.PSD für .NET-API-Referenz
-description: GradientFillSettings eigendom. Ruft einen Wert ab oder legt einen Wert fest der angibt ob an Ebene ausrichten.
+title: "GradientFillSettings.AlignWithLayer"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "GradientFillSettings Eigenschaft. Liest oder setzt einen Wert, der angibt, ob mit der Ebene ausgerichtet wird"
 type: docs
 weight: 20
 url: /de/net/aspose.psd.fileformats.psd.layers.fillsettings/gradientfillsettings/alignwithlayer/
 ---
+{{< psd/tize >}}
 ## GradientFillSettings.AlignWithLayer property
 
-Ruft einen Wert ab oder legt einen Wert fest, der angibt, ob [an Ebene ausrichten].
+Liest oder setzt einen Wert, der angibt, ob [align with layer].
 
 ```csharp
 public bool AlignWithLayer { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
-`WAHR` if [an Ebene ausrichten]; ansonsten,`FALSCH` .
+`true`, wenn [align with layer]; andernfalls `false`.
 
 ### Siehe auch
 
 * class [GradientFillSettings](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../gradientfillsettings/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../../)
 
 

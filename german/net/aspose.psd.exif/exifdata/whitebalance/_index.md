@@ -1,20 +1,21 @@
 ---
-title: ExifData.WhiteBalance
-second_title: Aspose.PSD für .NET-API-Referenz
-description: ExifData eigendom. Ruft den Weißabgleich ab oder legt ihn fest.
+title: "ExifData.WhiteBalance"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "ExifData-Eigenschaft. Liest oder schreibt den Weißabgleich"
 type: docs
 weight: 1070
 url: /de/net/aspose.psd.exif/exifdata/whitebalance/
 ---
+{{< psd/tize >}}
 ## ExifData.WhiteBalance property
 
-Ruft den Weißabgleich ab oder legt ihn fest.
+Liest oder setzt den Weißabgleich.
 
 ```csharp
 public ExifWhiteBalance WhiteBalance { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
 Der Weißabgleich.
 
@@ -22,7 +23,7 @@ Der Weißabgleich.
 
 * enum [ExifWhiteBalance](../../../aspose.psd.exif.enums/exifwhitebalance/)
 * class [ExifData](../)
-* namensraum [Aspose.PSD.Exif](../../exifdata/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

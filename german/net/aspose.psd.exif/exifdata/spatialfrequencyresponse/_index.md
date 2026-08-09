@@ -1,27 +1,28 @@
 ---
-title: ExifData.SpatialFrequencyResponse
-second_title: Aspose.PSD für .NET-API-Referenz
-description: ExifData eigendom. Ruft den räumlichen Frequenzgang ab oder legt ihn fest.
+title: "ExifData.SpatialFrequencyResponse"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "ExifData-Eigenschaft. Ruft die räumliche Frequenzantwort ab oder legt sie fest"
 type: docs
 weight: 960
 url: /de/net/aspose.psd.exif/exifdata/spatialfrequencyresponse/
 ---
+{{< psd/tize >}}
 ## ExifData.SpatialFrequencyResponse property
 
-Ruft den räumlichen Frequenzgang ab oder legt ihn fest.
+Liest oder setzt die räumliche Frequenzantwort.
 
 ```csharp
 public byte[] SpatialFrequencyResponse { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
-Der räumliche Frequenzgang.
+Die räumliche Frequenzantwort.
 
 ### Siehe auch
 
 * class [ExifData](../)
-* namensraum [Aspose.PSD.Exif](../../exifdata/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

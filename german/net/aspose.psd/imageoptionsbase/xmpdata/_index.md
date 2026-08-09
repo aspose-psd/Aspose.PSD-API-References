@@ -1,20 +1,21 @@
 ---
-title: ImageOptionsBase.XmpData
-second_title: Aspose.PSD für .NET-API-Referenz
-description: ImageOptionsBase eigendom. Ruft den XMPMetadatencontainer ab oder legt ihn fest.
+title: "ImageOptionsBase.XmpData"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "ImageOptionsBase-Eigenschaft. Liest oder schreibt den XMP-Metadatencontainer"
 type: docs
 weight: 100
 url: /de/net/aspose.psd/imageoptionsbase/xmpdata/
 ---
+{{< psd/tize >}}
 ## ImageOptionsBase.XmpData property
 
-Ruft den XMP-Metadatencontainer ab oder legt ihn fest.
+Liest oder setzt den XMP‑Metadaten‑Container.
 
 ```csharp
 public virtual XmpPacketWrapper XmpData { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
 Der XMP-Datencontainer.
 
@@ -22,7 +23,7 @@ Der XMP-Datencontainer.
 
 * class [XmpPacketWrapper](../../../aspose.psd.xmp/xmppacketwrapper/)
 * class [ImageOptionsBase](../)
-* namensraum [Aspose.PSD](../../imageoptionsbase/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

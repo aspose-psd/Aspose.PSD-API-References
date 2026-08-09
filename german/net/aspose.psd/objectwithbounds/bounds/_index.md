@@ -1,20 +1,21 @@
 ---
-title: ObjectWithBounds.Bounds
-second_title: Aspose.PSD für .NET-API-Referenz
-description: ObjectWithBounds eigendom. Ruft die Grenzen des Objekts ab.
+title: "ObjectWithBounds.Bounds"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "ObjectWithBounds-Eigenschaft. Gibt die Begrenzungen des Objekts zurück."
 type: docs
 weight: 10
 url: /de/net/aspose.psd/objectwithbounds/bounds/
 ---
+{{< psd/tize >}}
 ## ObjectWithBounds.Bounds property
 
-Ruft die Grenzen des Objekts ab.
+Liest die Begrenzungen des Objekts.
 
 ```csharp
 public abstract RectangleF Bounds { get; }
 ```
 
-### Eigentumswert
+### Property Value
 
 Die Grenzen des Objekts.
 
@@ -22,7 +23,7 @@ Die Grenzen des Objekts.
 
 * struct [RectangleF](../../rectanglef/)
 * class [ObjectWithBounds](../)
-* namensraum [Aspose.PSD](../../objectwithbounds/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

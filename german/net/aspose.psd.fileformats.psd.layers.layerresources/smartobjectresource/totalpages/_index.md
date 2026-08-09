@@ -1,26 +1,27 @@
 ---
-title: SmartObjectResource.TotalPages
-second_title: Aspose.PSD für .NET-API-Referenz
-description: SmartObjectResource eigendom. Ruft die Gesamtseitenzahl der SmartObjektLayerDaten in der PSDDatei ab oder legt sie fest.
+title: "SmartObjectResource.TotalPages"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "SmartObjectResource-Eigenschaft. Gibt oder setzt die Gesamtseitenzahl der Smart‑Object‑Ebenendaten in der PSD‑Datei"
 type: docs
-weight: 220
+weight: 200
 url: /de/net/aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/totalpages/
 ---
+{{< psd/tize >}}
 ## SmartObjectResource.TotalPages property
 
-Ruft die Gesamtseitenzahl der Smart-Objekt-Layer-Daten in der PSD-Datei ab oder legt sie fest.
+Liest oder setzt die Gesamtseitenzahl der Smart‑Object‑Ebenendaten in der PSD‑Datei.
 
 ```csharp
 public override int TotalPages { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
-Die Gesamtzahl der Seiten der Smart-Objekt-Layer-Daten.
+Die Gesamtseitenzahl der Smart‑Object‑Ebenendaten.
 
-### Beispiele
+## Beispiele
 
-Der folgende Code demonstriert die Unterstützung der Ressourcen SoLEResource, SmartObjectResource und PlacedResource.
+Der folgende Code demonstriert die Unterstützung der SoLEResource-, SmartObjectResource- und PlacedResource‑Ressourcen.
 
 ```csharp
 [C#]
@@ -106,7 +107,7 @@ void CheckSmartObjectResourceValues(object[] expectedValue, SmartObjectResource 
 
 void SetNewSmartValues(SmartObjectResource resource, object[] newValues)
 {
-    // Diese Werte ändern wir nicht in der Ressource
+    // Diese Werte ändern wir nicht in der Ressource.
     newValues[0] = resource.IsCustom;
     newValues[1] = resource.UniqueId.ToString();
     newValues[5] = resource.PlacedLayerType;
@@ -114,14 +115,14 @@ void SetNewSmartValues(SmartObjectResource resource, object[] newValues)
     newValues[15] = resource.VOrder;
     newValues[28] = resource.OriginalCompId;
 
-    // Diese Werte sollten auch in der PlLdResource (mit der angegebenen UniqueId) geändert werden
-    // und einige von ihnen müssen mit dem unterstreichenden Smart-Objekt in der LinkDataSource übereinstimmen
+    // Diese Werte sollten auch in der PlLdResource (mit der angegebenen UniqueId) geändert werden.
+    // und einige davon müssen mit dem zugrunde liegenden Smart‑Object in der LinkDataSource übereinstimmen.
     resource.PageNumber = (int)newValues[2]; // 2;
     resource.TotalPages = (int)newValues[3]; // 3;
     resource.AntiAliasPolicy = (int)newValues[4]; // 0;
     resource.TransformMatrix = (double[])newValues[6];
     resource.Value = (double)newValues[7]; // 1.23456789;
-    resource.Perspective = (double)newValues[8]; // 0,123456789;
+    resource.Perspective = (double)newValues[8]; // 0.123456789;
     resource.PerspectiveOther = (double)newValues[9]; // 0.987654321;
     resource.Top = (double)newValues[10]; // -126;
     resource.Left = (double)newValues[11]; // -215;
@@ -141,7 +142,7 @@ void SetNewSmartValues(SmartObjectResource resource, object[] newValues)
     resource.CompId = (int)newValues[27]; // 22;
     resource.NonAffineTransformMatrix = (double[])newValues[30];
 
-    // Diese eindeutige ID sollte gegebenenfalls in Referenzen geändert werden
+    // Diese eindeutige Id sollte in Verweisen, falls vorhanden, geändert werden.
     resource.PlacedId = new Guid((string)newValues[29]);  // "12345678-9abc-def0-9876-54321fecba98");
     if (resource.IsCustom)
     {
@@ -151,15 +152,16 @@ void SetNewSmartValues(SmartObjectResource resource, object[] newValues)
         resource.VerticalMeshPoints = (double[])newValues[34];
     }
 
-    // Seien Sie vorsichtig mit einigen Parametern: Das gespeicherte Bild kann für Adobe® Photoshop® unlesbar werden
+    // Seien Sie vorsichtig mit einigen Parametern: Das gespeicherte Bild könnte von Adobe® Photoshop® nicht mehr gelesen werden.
     ////resource.UOrder = 6;
     ////resource.VOrder = 9;
 
-    // Ändern Sie dies nicht, sonst können Sie die freie Transformation nicht verwenden
-    // oder ändern Sie das unterstreichende Smart-Objekt in den Vektortyp
+    // Ändern Sie dies nicht, sonst
+ Sie können die Freie‑Transformation nicht verwenden.
+    // oder ändern Sie das unterliegende Smart-Objekt in den Vektortyp
     ////resource.PlacedLayerType = PlacedLayerType.Vector;
 
-    // Es sollte eine gültige PlLdResource mit dieser eindeutigen ID geben
+    // Es sollte ein gültiges PlLdResource mit dieser eindeutigen Id geben
     ////resource.UniqueId = new Guid("98765432-10fe-cba0-1234-56789abcdef0");
 }
 
@@ -326,7 +328,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
 ### Siehe auch
 
 * class [SmartObjectResource](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../smartobjectresource/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

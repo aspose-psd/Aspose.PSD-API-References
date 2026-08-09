@@ -1,14 +1,15 @@
 ---
-title: PngImageException.PngImageException
-second_title: Aspose.PSD für .NET-API-Referenz
-description: PngImageException constructeur. Initialisiert eine neue Instanz vonPngImageException Klasse.
+title: "PngImageException.PngImageException"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "PngImageException Konstruktor. Initialisiert eine neue Instanz der Klasse PngImageException"
 type: docs
 weight: 10
 url: /de/net/aspose.psd.coreexceptions.imageformats/pngimageexception/pngimageexception/
 ---
+{{< psd/tize >}}
 ## PngImageException(string) {#constructor}
 
-Initialisiert eine neue Instanz von[`PngImageException`](../) Klasse.
+Initialisiert eine neue Instanz der [`PngImageException`](../)-Klasse.
 
 ```csharp
 public PngImageException(string message)
@@ -16,19 +17,19 @@ public PngImageException(string message)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| message | String | Die Nachricht. |
+| Nachricht | String | Die Nachricht. |
 
 ### Siehe auch
 
 * class [PngImageException](../)
-* namensraum [Aspose.PSD.CoreExceptions.ImageFormats](../../pngimageexception/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.CoreExceptions.ImageFormats](../../../aspose.psd.coreexceptions.imageformats/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## PngImageException(string, Exception) {#constructor_1}
 
-Initialisiert eine neue Instanz von[`PngImageException`](../) Klasse.
+Initialisiert eine neue Instanz der [`PngImageException`](../)-Klasse.
 
 ```csharp
 public PngImageException(string message, Exception innerException)
@@ -36,13 +37,13 @@ public PngImageException(string message, Exception innerException)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| message | String | Die Nachricht. |
-| innerException | Exception | Die innere Ausnahme. |
+| Nachricht | String | Die Nachricht. |
+| innerException | Ausnahme | Die innere Ausnahme. |
 
 ### Siehe auch
 
 * class [PngImageException](../)
-* namensraum [Aspose.PSD.CoreExceptions.ImageFormats](../../pngimageexception/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.CoreExceptions.ImageFormats](../../../aspose.psd.coreexceptions.imageformats/)
+* assembly [Aspose.PSD](../../../)
 
 

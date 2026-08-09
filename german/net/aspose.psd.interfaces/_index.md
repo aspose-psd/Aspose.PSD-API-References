@@ -1,17 +1,18 @@
 ---
-title: Aspose.PSD.Interfaces
-second_title: Aspose.PSD für .NET-API-Referenz
-description: Der Namespace behandelt die Verarbeitung des TiffDateiformats.
+title: "Aspose.PSD.Interfaces"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "Der Namespace verarbeitet die Tiff-Dateiformatverarbeitung."
 type: docs
-weight: 440
+weight: 480
 url: /de/net/aspose.psd.interfaces/
 ---
-Der Namespace behandelt die Verarbeitung des Tiff-Dateiformats.
+{{< psd/tize >}}
+Der Namespace verarbeitet das Tiff-Dateiformat.
 
 ## Schnittstellen
 
 | Schnittstelle | Beschreibung |
 | --- | --- |
-| [IObjectWithSizeF](./iobjectwithsizef/) | Repräsentiert ein Objekt mit einer Größe, die in reellen Zahlen (in Zoll) ausgedrückt wird. |
+| [IObjectWithSizeF](./iobjectwithsizef/) | Stellt ein Objekt mit Größe dar, das in reellen Zahlen (in Zoll) ausgedrückt wird. |
 
 

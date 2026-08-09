@@ -1,28 +1,29 @@
 ---
-title: ITextStyle.IsStandardVerticalRomanAlignmentEnabled
-second_title: Aspose.PSD für .NET-API-Referenz
-description: ITextStyle eigendom. Ruft die standardmäßige vertikale römische Ausrichtung ab oder legt sie fest. Dies basiert auf dem Ressourcenwert BaselineDirection und gilt nur wenn die Textausrichtung aktiviert istVertical .
+title: "ITextStyle.IsStandardVerticalRomanAlignmentEnabled"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "ITextStyle-Eigenschaft. Gibt den Standard‑Vertikal‑Roman‑Ausrichtung zurück oder legt ihn fest. Dieser, basierend auf dem BaselineDirection‑Ressourcenwert, gilt nur, wenn die Textausrichtung Vertikal ist."
 type: docs
 weight: 170
 url: /de/net/aspose.psd.fileformats.psd.layers.text/itextstyle/isstandardverticalromanalignmentenabled/
 ---
+{{< psd/tize >}}
 ## ITextStyle.IsStandardVerticalRomanAlignmentEnabled property
 
-Ruft die standardmäßige vertikale römische Ausrichtung ab oder legt sie fest. Dies basiert auf dem Ressourcenwert BaselineDirection und gilt nur, wenn die Textausrichtung aktiviert istVertical .
+Liest oder setzt die standardmäßige vertikale römische Ausrichtung. Dieser, basierend auf dem BaselineDirection-Ressourcenwert, gilt nur, wenn die Textausrichtung vertikal ist.
 
 ```csharp
 public bool IsStandardVerticalRomanAlignmentEnabled { get; set; }
 ```
 
-### Beispiele
+## Beispiele
 
-Der folgende Code demonstriert die Unterstützung der neuen IsStandardVerticalRomanAlignmentEnabled-Eigenschaft.
+Der folgende Code demonstriert die Unterstützung der neuen IsStandardVerticalRomanAlignmentEnabled‑Eigenschaft.
 
 ```csharp
 [C#]
 
-// Der folgende Code demonstriert die Möglichkeit, die neue Eigenschaft IsStandardVerticalRomanAlignmentEnabled zu bearbeiten.
-// Dies wirkt sich im Moment nicht auf das Rendern aus, sondern ermöglicht Ihnen nur, den Eigenschaftswert zu bearbeiten.
+// Der folgende Code demonstriert die Möglichkeit, die neue IsStandardVerticalRomanAlignmentEnabled‑Eigenschaft zu bearbeiten.
+// Dies wirkt sich im Moment nicht auf das Rendern aus, ermöglicht jedoch nur das Bearbeiten des Eigenschaftswerts.
 
 string src = "1346test.psd";
 string output = "out_1346test.psd";
@@ -33,7 +34,7 @@ using (var image = (PsdImage)Image.Load(src))
     var textPortion = textLayer.TextData.Items[0];
     if (textPortion.Style.IsStandardVerticalRomanAlignmentEnabled)
     {
-        // Richtiges Lesen
+        // Korrektes Lesen
     }
     else
     {
@@ -52,7 +53,7 @@ using (var image = (PsdImage)Image.Load(output))
     var textPortion = textLayer.TextData.Items[0];
     if (!textPortion.Style.IsStandardVerticalRomanAlignmentEnabled)
     {
-        // Richtiges Lesen
+        // Korrektes Lesen
     }
     else
     {
@@ -64,7 +65,7 @@ using (var image = (PsdImage)Image.Load(output))
 ### Siehe auch
 
 * interface [ITextStyle](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.Text](../../itextstyle/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.Text](../../../aspose.psd.fileformats.psd.layers.text/)
+* assembly [Aspose.PSD](../../../)
 
 

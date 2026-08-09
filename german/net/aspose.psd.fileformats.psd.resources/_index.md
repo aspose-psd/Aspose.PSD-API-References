@@ -1,55 +1,56 @@
 ---
-title: Aspose.PSD.FileFormats.Psd.Resources
-second_title: Aspose.PSD für .NET-API-Referenz
-description: Der Namespace enthält Ressourcenentitäten im PSDDateiformat.
+title: "Aspose.PSD.FileFormats.Psd.Resources"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "Der Namensraum enthält PSD-Dateiformat-Ressourcen-Entitäten"
 type: docs
-weight: 350
+weight: 380
 url: /de/net/aspose.psd.fileformats.psd.resources/
 ---
-Der Namespace enthält Ressourcenentitäten im PSD-Dateiformat.
+{{< psd/tize >}}
+Der Namespace enthält PSD-Dateiformat-Ressourcen-Entitäten.
 
 ## Klassen
 
 | Klasse | Beschreibung |
 | --- | --- |
-| [AnimatedDataSectionResource](./animateddatasectionresource/) | Die Plug-In-Ressource für animierte Datenabschnitte. |
+| [AnimatedDataSectionResource](./animateddatasectionresource/) | Die Animated Data Section Plug-In Ressource. |
 | [BackgroundColorResource](./backgroundcolorresource/) | Die Ressource mit Randinformationen der Bilddruckeinstellungen. |
 | [BorderInformationResource](./borderinformationresource/) | Die Ressource mit Randinformationen der Bilddruckeinstellungen. |
-| [CaptionDigestResource](./captiondigestresource/) | CaptionDigest-Ressource |
-| [ColorHalftoneInformationResource](./colorhalftoneinformationresource/) | Halbtonressource |
-| [ColorTransferFunctionsResource](./colortransferfunctionsresource/) | Farbübertragungsressource |
-| [DocumentSpecificIdsResource](./documentspecificidsresource/) | Dokumentspezifische IDs resource |
-| [FixedPointDecimal](./fixedpointdecimal/) | Festkomma-Dezimalzahl, mit 16-Bit-Ganzzahl und 16-Bit-Bruch. |
+| [CaptionDigestResource](./captiondigestresource/) | CaptionDigest Ressource |
+| [ColorHalftoneInformationResource](./colorhalftoneinformationresource/) | Halftoning Ressource |
+| [ColorTransferFunctionsResource](./colortransferfunctionsresource/) | Color transfer Ressource |
+| [DocumentSpecificIdsResource](./documentspecificidsresource/) | Document Specific Ids Ressource |
+| [FixedPointDecimal](./fixedpointdecimal/) | Festkommazahl, mit 16-Bit-Ganzzahl und 16-Bit-Bruchteil. |
 | [GlobalAltitudeResource](./globalaltituderesource/) | Globale Höhenressource |
 | [GlobalAngleResource](./globalangleresource/) | Globale Winkelressource |
-| [GridAndGuidesResouce](./gridandguidesresouce/) | Repräsentiert die Ressource „Grid and Guides“. |
-| [GuideResource](./guideresource/) | Der Leitfaden-Ressourcenblock. |
-| [IccProfileResource](./iccprofileresource/) | Repräsentiert die ICC-Profilressource. |
-| [IccUntaggedResource](./iccuntaggedresource/) | Icc-Ressource ohne Tag |
-| [LayerGroupInformationResource](./layergroupinformationresource/) | Schichtgruppeninformationen resource |
-| [LayerGroupsEnabledResource](./layergroupsenabledresource/) | Ebenengruppen aktiviert resource |
-| [LayerSelectionIdsResource](./layerselectionidsresource/) | Ebenenauswahl-IDs resource |
-| [LayerStateInformationResource](./layerstateinformationresource/) | Schichtzustandsinformationen resource |
-| [PixelAspectRatioResource](./pixelaspectratioresource/) | Pixel-Seitenverhältnis resource |
-| [PrintFlagsResource](./printflagsresource/) | Flags drucken resource |
-| [PrintScaleResource](./printscaleresource/) | Waage drucken resource |
-| [QuickMaskInformationResource](./quickmaskinformationresource/) | Schnellmaskeninformationsressource |
-| [ResolutionInfoResource](./resolutioninforesource/) | Die Auflösungsinfo resource |
-| [Thumbnail4Resource](./thumbnail4resource/) | Repräsentiert die Thumbnail-Ressource für PSD 4.0. |
+| [GridAndGuidesResouce](./gridandguidesresouce/) | Stellt die Raster- und Führungs-Ressource dar. |
+| [GuideResource](./guideresource/) | Der Leitlinien-Ressourcenblock. |
+| [IccProfileResource](./iccprofileresource/) | Stellt die ICC-Profil-Ressource dar. |
+| [IccUntaggedResource](./iccuntaggedresource/) | Icc untagged Ressource |
+| [LayerGroupInformationResource](./layergroupinformationresource/) | Layer-Gruppen-Informations-Ressource |
+| [LayerGroupsEnabledResource](./layergroupsenabledresource/) | Layer-Gruppen-aktiviert-Ressource |
+| [LayerSelectionIdsResource](./layerselectionidsresource/) | Layer-Auswahl-IDs-Ressource |
+| [LayerStateInformationResource](./layerstateinformationresource/) | Layer-Zustands-Informations-Ressource |
+| [PixelAspectRatioResource](./pixelaspectratioresource/) | Pixel-Seitenverhältnis-Ressource |
+| [PrintFlagsResource](./printflagsresource/) | Druck-Flag-Ressource |
+| [PrintScaleResource](./printscaleresource/) | Print Scale Ressource |
+| [QuickMaskInformationResource](./quickmaskinformationresource/) | Quick mask Informationsressource |
+| [ResolutionInfoResource](./resolutioninforesource/) | Die Auflösungsinfo-Ressource |
+| [Thumbnail4Resource](./thumbnail4resource/) | Stellt die Thumbnail-Ressource für psd 4.0 dar. |
 | [ThumbnailResource](./thumbnailresource/) | Der Thumbnail-Ressourcenblock. |
 | [TransparencyIndexResource](./transparencyindexresource/) | Der Transparenzindex-Ressourcenblock. |
-| [UnicodeAlphaNamesResource](./unicodealphanamesresource/) | Alpha-Unicode-Namen resource |
+| [UnicodeAlphaNamesResource](./unicodealphanamesresource/) | Unicode Alpha-Namen-Ressource |
 | [UnknownResource](./unknownresource/) | Die unbekannte Ressource. Wenn ein Ressourcenblock nicht erkannt wird, wird dieser Ressourcenblock erstellt. |
-| [UrlListResource](./urllistresource/) | URL-Liste resource |
-| [VersionInfoResource](./versioninforesource/) | Versionsinfo resource |
-| [WatermarkResource](./watermarkresource/) | Wasserzeichenressource |
-| [WorkingPathResource](./workingpathresource/) | Arbeitspfadressource. |
-| [XmpResource](./xmpresource/) | Stellt die XMP-Metadatenressource dar. |
+| [UrlListResource](./urllistresource/) | URL-Listenressource |
+| [VersionInfoResource](./versioninforesource/) | Version-Info-Ressource |
+| [WatermarkResource](./watermarkresource/) | Wasserzeichen-Ressource |
+| [WorkingPathResource](./workingpathresource/) | Arbeitsweg-Ressource. |
+| [XmpResource](./xmpresource/) | Stellt die XMP-Metadaten-Ressource dar. |
 ## Aufzählung
 
 | Aufzählung | Beschreibung |
 | --- | --- |
 | [GuideDirection](./guidedirection/) | Die Führungsrichtung. |
-| [ThumbnailFormat](./thumbnailformat/) | Gibt das Miniaturbild-Datenformat an. |
+| [ThumbnailFormat](./thumbnailformat/) | Gibt das Thumbnail-Datenformat an. |
 
 

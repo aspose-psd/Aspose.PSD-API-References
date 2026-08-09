@@ -1,27 +1,28 @@
 ---
-title: LayerSelectionIdsResource.Count
-second_title: Aspose.PSD für .NET-API-Referenz
-description: LayerSelectionIdsResource eigendom. Ruft die Anzahl ab oder legt sie fest.
+title: "LayerSelectionIdsResource.Count"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "LayerSelectionIdsResource Eigenschaft. Gibt die Anzahl zurück oder setzt sie"
 type: docs
 weight: 20
 url: /de/net/aspose.psd.fileformats.psd.resources/layerselectionidsresource/count/
 ---
+{{< psd/tize >}}
 ## LayerSelectionIdsResource.Count property
 
-Ruft die Anzahl ab oder legt sie fest.
+Liest oder setzt die Anzahl.
 
 ```csharp
 public short Count { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
 Die Anzahl.
 
 ### Siehe auch
 
 * class [LayerSelectionIdsResource](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Resources](../../layerselectionidsresource/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

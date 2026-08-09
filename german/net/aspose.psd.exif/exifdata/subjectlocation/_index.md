@@ -1,27 +1,28 @@
 ---
-title: ExifData.SubjectLocation
-second_title: Aspose.PSD für .NET-API-Referenz
-description: ExifData eigendom. Ruft den Standort des Subjekts ab oder legt ihn fest.
+title: "ExifData.SubjectLocation"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "ExifData-Eigenschaft. Liest oder schreibt die Motivposition"
 type: docs
 weight: 1020
 url: /de/net/aspose.psd.exif/exifdata/subjectlocation/
 ---
+{{< psd/tize >}}
 ## ExifData.SubjectLocation property
 
-Ruft den Standort des Subjekts ab oder legt ihn fest.
+Liest oder setzt den Motivstandort.
 
 ```csharp
 public ushort[] SubjectLocation { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
-Der betroffene Ort.
+Der Speicherort des Motivs.
 
 ### Siehe auch
 
 * class [ExifData](../)
-* namensraum [Aspose.PSD.Exif](../../exifdata/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

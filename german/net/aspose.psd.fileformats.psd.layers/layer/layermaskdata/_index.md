@@ -1,20 +1,21 @@
 ---
-title: Layer.LayerMaskData
-second_title: Aspose.PSD für .NET-API-Referenz
-description: Layer eigendom. Ruft die Ebenenmaskendaten ab oder legt sie fest.
+title: "Layer.LayerMaskData"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "Layer-Eigenschaft. Ruft die Layer-Maskendaten ab oder legt sie fest"
 type: docs
-weight: 220
+weight: 230
 url: /de/net/aspose.psd.fileformats.psd.layers/layer/layermaskdata/
 ---
+{{< psd/tize >}}
 ## Layer.LayerMaskData property
 
-Ruft die Ebenenmaskendaten ab oder legt sie fest.
+Liefert oder setzt die Ebenenmaskendaten.
 
 ```csharp
 public LayerMaskData LayerMaskData { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
 Die Ebenenmaskendaten.
 
@@ -22,7 +23,7 @@ Die Ebenenmaskendaten.
 
 * class [LayerMaskData](../../layermaskdata/)
 * class [Layer](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers](../../layer/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: PsdImage.Convert
-second_title: Aspose.PSD für .NET-API-Referenz
-description: PsdImage methode. Konvertiert dieses Bildformat in das in den Optionen angegebene.
+title: "PsdImage.Convert"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "PsdImage-Methode. Konvertiert dieses Bildformat in das in den Optionen angegebene."
 type: docs
-weight: 500
+weight: 560
 url: /de/net/aspose.psd.fileformats.psd/psdimage/convert/
 ---
+{{< psd/tize >}}
 ## PsdImage.Convert method
 
 Konvertiert dieses Bildformat in das in den Optionen angegebene.
@@ -16,11 +17,11 @@ public void Convert(PsdOptions newOptions)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| newOptions | PsdOptions | Die neuen Möglichkeiten. |
+| newOptions | PsdOptions | Die neuen Optionen. |
 
-### Beispiele
+## Beispiele
 
-Diese Beispiele demonstrieren die Konvertierung des PSD-Bildformats in andere Farbmodi/Bittiefe.
+Diese Beispiele demonstrieren die Konvertierung des PSD-Bildformats in andere Farbmodi/Bit-Tiefen.
 
 ```csharp
 [C#]
@@ -28,7 +29,7 @@ Diese Beispiele demonstrieren die Konvertierung des PSD-Bildformats in andere Fa
 string dataDir = baseFolder + Path.DirectorySeparatorChar;
 string outputDir = dataDir + "output" + Path.DirectorySeparatorChar;
 
-// Diese Beispiele demonstrieren die Konvertierung des PSD-Bildformats in andere Farbmodi/BitDepth.
+// Diese Beispiele demonstrieren die Konvertierung des PSD-Bildformats in andere Farbmodi/Bit-Tiefen.
 ImageConversion(ColorModes.Grayscale, 16, 2);
 ImageConversion(ColorModes.Grayscale, 8, 2);
 ImageConversion(ColorModes.Grayscale, 8, 1);
@@ -63,7 +64,7 @@ void ImageConversion(ColorModes colorMode, short channelBitsCount, short channel
         3);
 }
 
-// Speichert in PSD, lädt dann die gespeicherte Datei und speichert in PNG.
+// Speichert als PSD, lädt dann die gespeicherte Datei und speichert sie als PNG.
 void SaveToPsdThenLoadAndSaveToPng(
     string file,
     ColorModes colorMode,
@@ -116,7 +117,7 @@ void SaveToPsdThenLoadAndSaveToPng(
 
 * class [PsdOptions](../../../aspose.psd.imageoptions/psdoptions/)
 * class [PsdImage](../)
-* namensraum [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

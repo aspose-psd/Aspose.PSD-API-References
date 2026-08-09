@@ -1,14 +1,15 @@
 ---
-title: SmartObjectResource.PsdVersion
-second_title: Aspose.PSD für .NET-API-Referenz
-description: SmartObjectResource eigendom. Ruft die minimale PSDVersion ab die für die SmartObjektRessource erforderlich ist. 0 zeigt keine Einschränkungen an.
+title: "SmartObjectResource.PsdVersion"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "SmartObjectResource-Eigenschaft. Gibt die minimale PSD‑Version zurück, die für die Smart‑Object‑Ressource erforderlich ist. 0 bedeutet keine Einschränkungen"
 type: docs
 weight: 180
 url: /de/net/aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/psdversion/
 ---
+{{< psd/tize >}}
 ## SmartObjectResource.PsdVersion property
 
-Ruft die minimale PSD-Version ab, die für die Smart-Objekt-Ressource erforderlich ist. 0 zeigt keine Einschränkungen an.
+Gibt die minimale PSD‑Version zurück, die für die Smart‑Object‑Ressource erforderlich ist. 0 bedeutet keine Einschränkungen.
 
 ```csharp
 public override int PsdVersion { get; }
@@ -17,7 +18,7 @@ public override int PsdVersion { get; }
 ### Siehe auch
 
 * class [SmartObjectResource](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../smartobjectresource/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

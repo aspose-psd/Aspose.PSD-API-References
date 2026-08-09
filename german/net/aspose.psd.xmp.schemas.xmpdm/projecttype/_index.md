@@ -1,14 +1,15 @@
 ---
-title: Enum ProjectType
-second_title: Aspose.PSD für .NET-API-Referenz
-description: Aspose.PSD.Xmp.Schemas.XmpDm.ProjectType opsomming. steht für den Projekttyp inXmpDynamicMediaPackage .
+title: "Enum ProjectType"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "Aspose.PSD.Xmp.Schemas.XmpDm.ProjectType enum. Stellt den Projekttyp in XmpDynamicMediaPackage dar."
 type: docs
-weight: 5870
+weight: 6370
 url: /de/net/aspose.psd.xmp.schemas.xmpdm/projecttype/
 ---
+{{< psd/tize >}}
 ## ProjectType enumeration
 
-steht für den Projekttyp in[`XmpDynamicMediaPackage`](../xmpdynamicmediapackage/) .
+Stellt den Projekttyp in [`XmpDynamicMediaPackage`](../xmpdynamicmediapackage/) dar.
 
 ```csharp
 public enum ProjectType
@@ -19,13 +20,13 @@ public enum ProjectType
 | Name | Wert | Beschreibung |
 | --- | --- | --- |
 | Movie | `0` | Der Filmprojekttyp |
-| Still | `1` | Das Stillprojekt Typ |
-| Audio | `2` | Der Audioprojekttyp |
+| Still | `1` | Der Still-Projekttyp |
+| Audio | `2` | Der Audio-Projekttyp |
 | Custom | `3` | Der benutzerdefinierte Projekttyp |
 
 ### Siehe auch
 
-* namensraum [Aspose.PSD.Xmp.Schemas.XmpDm](../../aspose.psd.xmp.schemas.xmpdm/)
-* Montage [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpDm](../../aspose.psd.xmp.schemas.xmpdm/)
+* assembly [Aspose.PSD](../../)
 
 

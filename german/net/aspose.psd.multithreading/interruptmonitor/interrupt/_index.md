@@ -1,14 +1,15 @@
 ---
-title: InterruptMonitor.Interrupt
-second_title: Aspose.PSD für .NET-API-Referenz
-description: InterruptMonitor methode. Sendet eine Anfrage zur Unterbrechung des Betriebs.
+title: "InterruptMonitor.Interrupt"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "InterruptMonitor-Methode. Sendet eine Anforderung, um Vorgänge zu unterbrechen."
 type: docs
 weight: 40
 url: /de/net/aspose.psd.multithreading/interruptmonitor/interrupt/
 ---
+{{< psd/tize >}}
 ## InterruptMonitor.Interrupt method
 
-Sendet eine Anfrage zur Unterbrechung des Betriebs.
+Sendet eine Anfrage, um Vorgänge zu unterbrechen.
 
 ```csharp
 public void Interrupt()
@@ -17,7 +18,7 @@ public void Interrupt()
 ### Siehe auch
 
 * class [InterruptMonitor](../)
-* namensraum [Aspose.PSD.Multithreading](../../interruptmonitor/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Multithreading](../../../aspose.psd.multithreading/)
+* assembly [Aspose.PSD](../../../)
 
 

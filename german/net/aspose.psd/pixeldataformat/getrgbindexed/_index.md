@@ -1,14 +1,15 @@
 ---
-title: PixelDataFormat.GetRgbIndexed
-second_title: Aspose.PSD für .NET-API-Referenz
-description: PixelDataFormat methode. Ruft BGRAindizierte Farbe mit einer angegebenen Anzahl von Bits pro Abtastung ab.
+title: "PixelDataFormat.GetRgbIndexed"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "PixelDataFormat-Methode. Gibt die indizierte BGRA-Farbe mit einer angegebenen Bitanzahl pro Sample zurück."
 type: docs
 weight: 270
 url: /de/net/aspose.psd/pixeldataformat/getrgbindexed/
 ---
+{{< psd/tize >}}
 ## PixelDataFormat.GetRgbIndexed method
 
-Ruft BGRA-indizierte Farbe mit einer angegebenen Anzahl von Bits pro Abtastung ab.
+Ermittelt indizierte BGRA-Farbe mit einer angegebenen Anzahl von Bits pro Sample.
 
 ```csharp
 public static PixelDataFormat GetRgbIndexed(int bitsPerSample)
@@ -25,7 +26,7 @@ Die BGRA-Farbe.
 ### Siehe auch
 
 * class [PixelDataFormat](../)
-* namensraum [Aspose.PSD](../../pixeldataformat/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

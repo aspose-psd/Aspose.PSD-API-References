@@ -1,20 +1,21 @@
 ---
-title: PhotoFilterLayer.Density
-second_title: Aspose.PSD für .NET-API-Referenz
-description: PhotoFilterLayer eigendom. Ruft die Dichte von filter ab oder setzt sie
+title: "PhotoFilterLayer.Density"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "PhotoFilterLayer-Eigenschaft. Liest oder schreibt die Dichte des Filters"
 type: docs
 weight: 20
 url: /de/net/aspose.psd.fileformats.psd.layers.adjustmentlayers/photofilterlayer/density/
 ---
+{{< psd/tize >}}
 ## PhotoFilterLayer.Density property
 
-Ruft die Dichte von filter ab oder setzt sie
+Liest oder setzt die Dichte des Filters.
 
 ```csharp
 public int Density { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
 Die Dichte.
 
@@ -27,7 +28,7 @@ Die Dichte.
 ### Siehe auch
 
 * class [PhotoFilterLayer](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../photofilterlayer/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/)
+* assembly [Aspose.PSD](../../../)
 
 

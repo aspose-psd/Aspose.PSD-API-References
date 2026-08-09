@@ -1,11 +1,12 @@
 ---
-title: Color.Gray
-second_title: Aspose.PSD für .NET-API-Referenz
-description: Color eigendom. Ruft eine systemdefinierte Farbe ab.
+title: "Color.Gray"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "Color Eigenschaft. Gibt eine systemdefinierte Farbe zurück."
 type: docs
 weight: 520
 url: /de/net/aspose.psd/color/gray/
 ---
+{{< psd/tize >}}
 ## Color.Gray property
 
 Ruft eine systemdefinierte Farbe ab.
@@ -14,14 +15,14 @@ Ruft eine systemdefinierte Farbe ab.
 public static Color Gray { get; }
 ```
 
-### Eigentumswert
+### Property Value
 
-A[`Color`](../) Struktur, die eine systemdefinierte Farbe darstellt.
+Eine [`Color`](../)-Struktur, die eine systemdefinierte Farbe darstellt.
 
 ### Siehe auch
 
 * struct [Color](../)
-* namensraum [Aspose.PSD](../../color/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

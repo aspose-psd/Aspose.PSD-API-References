@@ -1,14 +1,15 @@
 ---
-title: RawDataStructure.StructureKey
-second_title: Aspose.PSD für .NET-API-Referenz
-description: RawDataStructure veld. Identifiziert den Strukturschlüssel.
+title: "RawDataStructure.StructureKey"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "RawDataStructure-Feld. Identifiziert den Struktur-Schlüssel."
 type: docs
 weight: 50
 url: /de/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/rawdatastructure/structurekey/
 ---
+{{< psd/tize >}}
 ## RawDataStructure.StructureKey field
 
-Identifiziert den Strukturschlüssel.
+Identifiziert den Struktur-Schlüssel.
 
 ```csharp
 public const int StructureKey;
@@ -17,7 +18,7 @@ public const int StructureKey;
 ### Siehe auch
 
 * class [RawDataStructure](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../rawdatastructure/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 

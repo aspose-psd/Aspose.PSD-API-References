@@ -1,27 +1,28 @@
 ---
-title: TypeToolInfoResource.ScaleFactor
-second_title: Aspose.PSD für .NET-API-Referenz
-description: TypeToolInfoResource eigendom. Ruft den Skalierungsfaktor ab oder legt ihn fest.
+title: "TypeToolInfoResource.ScaleFactor"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "TypeToolInfoResource Eigenschaft. Liest oder legt den Skalierungsfaktor fest"
 type: docs
-weight: 170
+weight: 150
 url: /de/net/aspose.psd.fileformats.psd.layers.layerresources/typetoolinforesource/scalefactor/
 ---
+{{< psd/tize >}}
 ## TypeToolInfoResource.ScaleFactor property
 
-Ruft den Skalierungsfaktor ab oder legt ihn fest.
+Liest oder setzt den Skalierungsfaktor.
 
 ```csharp
 public int ScaleFactor { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
 Der Skalierungsfaktor.
 
 ### Siehe auch
 
 * class [TypeToolInfoResource](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../typetoolinforesource/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: GraphicsPath.Reverse
-second_title: Aspose.PSD für .NET-API-Referenz
-description: GraphicsPath methode. Kehrt die Reihenfolge der Figuren Formen und Punkte in jeder Form davon umGraphicsPath .
+title: "GraphicsPath.Reverse"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "GraphicsPath-Methode. Kehrt die Reihenfolge von Figuren, Formen und Punkten in jeder Form dieses GraphicsPath um."
 type: docs
 weight: 160
 url: /de/net/aspose.psd/graphicspath/reverse/
 ---
+{{< psd/tize >}}
 ## GraphicsPath.Reverse method
 
-Kehrt die Reihenfolge der Figuren, Formen und Punkte in jeder Form davon um[`GraphicsPath`](../) .
+Kehrt die Reihenfolge von Figuren, Formen und Punkten in jeder Form dieses [`GraphicsPath`](../) um.
 
 ```csharp
 public void Reverse()
@@ -17,7 +18,7 @@ public void Reverse()
 ### Siehe auch
 
 * class [GraphicsPath](../)
-* namensraum [Aspose.PSD](../../graphicspath/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: RasterImage.BinarizeOtsu
-second_title: Aspose.PSD für .NET-API-Referenz
-description: RasterImage methode. Binarisierung eines Bildes mit OtsuThresholding
+title: "RasterImage.BinarizeOtsu"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "RasterImage-Methode. Binärisierung eines Bildes mit Otsu-Schwellenwert."
 type: docs
 weight: 230
 url: /de/net/aspose.psd/rasterimage/binarizeotsu/
 ---
+{{< psd/tize >}}
 ## RasterImage.BinarizeOtsu method
 
-Binarisierung eines Bildes mit Otsu-Thresholding
+Binarisierung eines Bildes mit Otsu‑Schwellenwertbestimmung
 
 ```csharp
 public virtual void BinarizeOtsu()
@@ -17,7 +18,7 @@ public virtual void BinarizeOtsu()
 ### Siehe auch
 
 * class [RasterImage](../)
-* namensraum [Aspose.PSD](../../rasterimage/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

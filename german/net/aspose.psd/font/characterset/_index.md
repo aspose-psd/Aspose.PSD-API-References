@@ -1,28 +1,29 @@
 ---
-title: Font.CharacterSet
-second_title: Aspose.PSD für .NET-API-Referenz
-description: Font eigendom. Ruft einen Bytewert ab der den Zeichensatz angibt den dieser verwendetFont verwendet.
+title: "Font.CharacterSet"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "Font-Eigenschaft. Ermittelt einen Byte-Wert, der den Zeichensatz angibt, den diese Schriftart verwendet"
 type: docs
 weight: 30
 url: /de/net/aspose.psd/font/characterset/
 ---
+{{< psd/tize >}}
 ## Font.CharacterSet property
 
-Ruft einen Bytewert ab, der den Zeichensatz angibt, den dieser verwendet[`Font`](../) verwendet.
+Ermittelt einen Byte-Wert, der den Zeichensatz angibt, den dieses [`Font`](../) verwendet.
 
 ```csharp
 public CharacterSet CharacterSet { get; }
 ```
 
-### Eigentumswert
+### Property Value
 
-Ein Zeichensatz, der this[`Font`](../) Verwendet.
+Ein Zeichensatz, den dieses [`Font`](../) verwendet.
 
 ### Siehe auch
 
 * enum [CharacterSet](../../characterset/)
 * class [Font](../)
-* namensraum [Aspose.PSD](../../font/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

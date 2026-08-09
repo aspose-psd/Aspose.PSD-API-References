@@ -1,43 +1,44 @@
 ---
-title: Class Rational
-second_title: Aspose.PSD für .NET-API-Referenz
-description: Aspose.PSD.Xmp.Types.Derived.Rational klas. steht für XMP Rational.
+title: "Klasse Rational"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "Aspose.PSD.Xmp.Types.Derived.Rational Klasse. Stellt XMP Rational dar"
 type: docs
-weight: 6120
+weight: 6620
 url: /de/net/aspose.psd.xmp.types.derived/rational/
 ---
+{{< psd/tize >}}
 ## Rational class
 
-steht für XMP Rational.
+Stellt XMP Rational dar.
 
 ```csharp
 public class Rational : XmpTypeBase
 ```
 
-## Konstrukteure
+## Konstruktoren
 
 | Name | Beschreibung |
 | --- | --- |
-| [Rational](rational/)(int, int) | Initialisiert eine neue Instanz von`Rational` Klasse. |
+| [Rational](rational/)(int, int) | Initialisiert eine neue Instanz der `Rational` Klasse. |
 
 ## Eigenschaften
 
 | Name | Beschreibung |
 | --- | --- |
-| [Denominator](../../aspose.psd.xmp.types.derived/rational/denominator/) { get; set; } | Holt oder setzt den Nenner. |
-| [FloatValue](../../aspose.psd.xmp.types.derived/rational/floatvalue/) { get; } | Ruft den Gleitkommawert ab. |
-| [Numerator](../../aspose.psd.xmp.types.derived/rational/numerator/) { get; } | Ruft den Zähler ab. |
+| [Denominator](../../aspose.psd.xmp.types.derived/rational/denominator/) { get; set; } | Liest oder setzt den Nenner. |
+| [FloatValue](../../aspose.psd.xmp.types.derived/rational/floatvalue/) { get; } | Liest den Float‑Wert. |
+| [Numerator](../../aspose.psd.xmp.types.derived/rational/numerator/) { get; } | Liest den Zähler. |
 
 ## Methoden
 
 | Name | Beschreibung |
 | --- | --- |
-| override [GetXmpRepresentation](../../aspose.psd.xmp.types.derived/rational/getxmprepresentation/)() | Ruft den enthaltenen String-Wert im XMP-Format ab. |
+| override [GetXmpRepresentation](../../aspose.psd.xmp.types.derived/rational/getxmprepresentation/)() | Liest den enthaltenen Zeichenkettenwert im XMP-Format. |
 
 ### Siehe auch
 
 * class [XmpTypeBase](../../aspose.psd.xmp.types/xmptypebase/)
-* namensraum [Aspose.PSD.Xmp.Types.Derived](../../aspose.psd.xmp.types.derived/)
-* Montage [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Xmp.Types.Derived](../../aspose.psd.xmp.types.derived/)
+* assembly [Aspose.PSD](../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: IntRange.GetArrayOneItemFromIndex
-second_title: Aspose.PSD für .NET-API-Referenz
-description: IntRange methode. Gibt ein Elementarray aus dem angegebenen Index zurück
+title: "IntRange.GetArrayOneItemFromIndex"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "IntRange-Methode. Gibt ein Ein-Element-Array vom angegebenen Index zurück."
 type: docs
 weight: 30
 url: /de/net/aspose.psd/intrange/getarrayoneitemfromindex/
 ---
+{{< psd/tize >}}
 ## IntRange.GetArrayOneItemFromIndex method
 
-Gibt ein Elementarray aus dem angegebenen Index zurück
+Gibt ein Ein-Element-Array vom angegebenen Index zurück
 
 ```csharp
 public int[] GetArrayOneItemFromIndex(int index)
@@ -20,18 +21,18 @@ public int[] GetArrayOneItemFromIndex(int index)
 
 ### Rückgabewert
 
-Das Array vonInt32
+Das Array von Int32
 
 ### Ausnahmen
 
 | Ausnahme | Bedingung |
 | --- | --- |
-| ArgumentException | Der Index liegt außerhalb des gültigen Bereichs |
+| ArgumentException | Index liegt außerhalb des Bereichs |
 
 ### Siehe auch
 
 * class [IntRange](../)
-* namensraum [Aspose.PSD](../../intrange/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

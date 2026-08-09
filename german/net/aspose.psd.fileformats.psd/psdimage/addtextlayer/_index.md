@@ -1,14 +1,15 @@
 ---
-title: PsdImage.AddTextLayer
-second_title: Aspose.PSD für .NET-API-Referenz
-description: PsdImage methode. Fügt eine neue Textebene hinzu.
+title: "PsdImage.AddTextLayer"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "PsdImage-Methode. Fügt eine neue Textebene hinzu"
 type: docs
-weight: 420
+weight: 470
 url: /de/net/aspose.psd.fileformats.psd/psdimage/addtextlayer/
 ---
+{{< psd/tize >}}
 ## PsdImage.AddTextLayer method
 
-Fügt eine neue Textebene hinzu.
+Fügt eine neue Text-Ebene hinzu.
 
 ```csharp
 public TextLayer AddTextLayer(string text, Rectangle rect)
@@ -16,7 +17,7 @@ public TextLayer AddTextLayer(string text, Rectangle rect)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| text | String | Der Text der Ebene. |
+| Text | String | Der Text der Ebene. |
 | rect | Rectangle | Das Rechteck der Ebene. |
 
 ### Rückgabewert
@@ -28,7 +29,7 @@ Textebene erstellt.
 * class [TextLayer](../../../aspose.psd.fileformats.psd.layers/textlayer/)
 * struct [Rectangle](../../../aspose.psd/rectangle/)
 * class [PsdImage](../)
-* namensraum [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

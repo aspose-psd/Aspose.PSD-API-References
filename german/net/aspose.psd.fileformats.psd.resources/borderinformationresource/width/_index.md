@@ -1,22 +1,23 @@
 ---
-title: BorderInformationResource.Width
-second_title: Aspose.PSD für .NET-API-Referenz
-description: BorderInformationResource eigendom. Ruft die Rahmenbreite ab oder legt sie fest.
+title: "BorderInformationResource.Width"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "BorderInformationResource-Eigenschaft. Gibt die Randbreite zurück oder legt sie fest"
 type: docs
 weight: 50
 url: /de/net/aspose.psd.fileformats.psd.resources/borderinformationresource/width/
 ---
+{{< psd/tize >}}
 ## BorderInformationResource.Width property
 
-Ruft die Rahmenbreite ab oder legt sie fest.
+Liest oder setzt die Randbreite.
 
 ```csharp
 public double Width { get; set; }
 ```
 
-### Beispiele
+## Beispiele
 
-Das folgende Beispiel veranschaulicht die Unterstützung der BorderInformationResource-Ressource.
+Das folgende Beispiel demonstriert die Unterstützung der BorderInformationResource‑Ressource.
 
 ```csharp
 [C#]
@@ -48,7 +49,7 @@ using (var image = (PsdImage)Image.Load(sourceFilePath))
 ### Siehe auch
 
 * class [BorderInformationResource](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Resources](../../borderinformationresource/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

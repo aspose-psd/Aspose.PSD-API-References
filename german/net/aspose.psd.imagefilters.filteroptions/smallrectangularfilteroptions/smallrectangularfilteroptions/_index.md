@@ -1,14 +1,15 @@
 ---
-title: SmallRectangularFilterOptions.SmallRectangularFilterOptions
-second_title: Aspose.PSD für .NET-API-Referenz
-description: SmallRectangularFilterOptions constructeur. Default_Constructor
+title: "SmallRectangularFilterOptions.SmallRectangularFilterOptions"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "SmallRectangularFilterOptions‑Konstruktor. Der Standardkonstruktor"
 type: docs
 weight: 10
 url: /de/net/aspose.psd.imagefilters.filteroptions/smallrectangularfilteroptions/smallrectangularfilteroptions/
 ---
+{{< psd/tize >}}
 ## SmallRectangularFilterOptions constructor
 
-Default_Constructor
+Der Standardkonstruktor.
 
 ```csharp
 public SmallRectangularFilterOptions()
@@ -17,7 +18,7 @@ public SmallRectangularFilterOptions()
 ### Siehe auch
 
 * class [SmallRectangularFilterOptions](../)
-* namensraum [Aspose.PSD.ImageFilters.FilterOptions](../../smallrectangularfilteroptions/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageFilters.FilterOptions](../../../aspose.psd.imagefilters.filteroptions/)
+* assembly [Aspose.PSD](../../../)
 
 

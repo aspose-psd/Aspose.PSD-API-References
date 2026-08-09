@@ -1,27 +1,28 @@
 ---
-title: PsdColorPalette.TransparentIndex
-second_title: Aspose.PSD für .NET-API-Referenz
-description: PsdColorPalette eigendom. Ruft den Index der transparenten Farbe ab.
+title: "PsdColorPalette.TransparentIndex"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "PsdColorPalette Eigenschaft. Gibt den Index der transparenten Farbe zurück"
 type: docs
 weight: 110
 url: /de/net/aspose.psd.fileformats.psd/psdcolorpalette/transparentindex/
 ---
+{{< psd/tize >}}
 ## PsdColorPalette.TransparentIndex property
 
-Ruft den Index der transparenten Farbe ab.
+Ermittelt den Index der transparenten Farbe.
 
 ```csharp
 public short TransparentIndex { get; }
 ```
 
-### Eigentumswert
+### Property Value
 
 Der Index der transparenten Farbe.
 
 ### Siehe auch
 
 * class [PsdColorPalette](../)
-* namensraum [Aspose.PSD.FileFormats.Psd](../../psdcolorpalette/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: ChannelMixerLayer.Monochrome
-second_title: Aspose.PSD für .NET-API-Referenz
-description: ChannelMixerLayer eigendom. Ruft einen Wert ab oder legt einen Wert fest der angibt ob dies der Fall istChannelMixerLayer ist einfarbig.
+title: "ChannelMixerLayer.Monochrome"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "ChannelMixerLayer-Eigenschaft. Gibt einen Wert zurück oder legt ihn fest, der angibt, ob dieses ChannelMixerLayer monochrom ist"
 type: docs
 weight: 10
 url: /de/net/aspose.psd.fileformats.psd.layers.adjustmentlayers/channelmixerlayer/monochrome/
 ---
+{{< psd/tize >}}
 ## ChannelMixerLayer.Monochrome property
 
-Ruft einen Wert ab oder legt einen Wert fest, der angibt, ob dies der Fall ist[`ChannelMixerLayer`](../) ist einfarbig.
+Gibt einen Wert zurück oder legt ihn fest, der angibt, ob dieses [`ChannelMixerLayer`](../) monochrom ist.
 
 ```csharp
 public bool Monochrome { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
-`WAHR` wenn einfarbig; ansonsten,`FALSCH` .
+`true` wenn monochrom; andernfalls `false`.
 
 ### Siehe auch
 
 * class [ChannelMixerLayer](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../channelmixerlayer/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/)
+* assembly [Aspose.PSD](../../../)
 
 

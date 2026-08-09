@@ -1,27 +1,28 @@
 ---
-title: BlncResource.PreserveLuminosity
-second_title: Aspose.PSD für .NET-API-Referenz
-description: BlncResource eigendom. Ruft einen Wert ab oder legt einen Wert fest der angibt ob dies der Fall istBlncResource bewahrt die Leuchtkraft.
+title: "BlncResource.PreserveLuminosity"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "BlncResource Eigenschaft. Liest oder setzt einen Wert, der angibt, ob diese BlncResource die Luminosität beibehält"
 type: docs
-weight: 100
+weight: 90
 url: /de/net/aspose.psd.fileformats.psd.layers.layerresources/blncresource/preserveluminosity/
 ---
+{{< psd/tize >}}
 ## BlncResource.PreserveLuminosity property
 
-Ruft einen Wert ab oder legt einen Wert fest, der angibt, ob dies der Fall ist[`BlncResource`](../) bewahrt die Leuchtkraft.
+Liest oder setzt einen Wert, der angibt, ob diese [`BlncResource`](../) die Luminosität beibehält.
 
 ```csharp
 public bool PreserveLuminosity { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
-`WAHR` wenn es die Leuchtkraft bewahrt; ansonsten,`FALSCH` .
+`true`, wenn sie die Leuchtkraft erhält; andernfalls `false`.
 
 ### Siehe auch
 
 * class [BlncResource](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../blncresource/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

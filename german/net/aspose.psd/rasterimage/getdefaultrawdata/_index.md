@@ -1,14 +1,15 @@
 ---
-title: RasterImage.GetDefaultRawData
-second_title: Aspose.PSD für .NET-API-Referenz
-description: RasterImage methode. Ruft das StandardRohdatenArray mit partiellem PixelLoader ab.
+title: "RasterImage.GetDefaultRawData"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "RasterImage-Methode. Gibt das Standard-Rohdaten-Array unter Verwendung des partiellen Pixel-Laders zurück."
 type: docs
 weight: 300
 url: /de/net/aspose.psd/rasterimage/getdefaultrawdata/
 ---
+{{< psd/tize >}}
 ## GetDefaultRawData(Rectangle, IPartialRawDataLoader, RawDataSettings) {#getdefaultrawdata_1}
 
-Ruft das Standard-Rohdaten-Array mit partiellem Pixel-Loader ab.
+Liefert das Standard‑Rohdaten‑Array unter Verwendung eines partiellen Pixel‑Laders.
 
 ```csharp
 public void GetDefaultRawData(Rectangle rectangle, IPartialRawDataLoader partialRawDataLoader, 
@@ -17,9 +18,9 @@ public void GetDefaultRawData(Rectangle rectangle, IPartialRawDataLoader partial
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| rectangle | Rectangle | Das Rechteck, für das Pixel abgerufen werden sollen. |
-| partialRawDataLoader | IPartialRawDataLoader | Der partielle Rohdatenlader. |
-| rawDataSettings | RawDataSettings | Die Rohdateneinstellungen. |
+| Rechteck | Rectangle | Das Rechteck, für das die Pixel abgerufen werden sollen. |
+| partialRawDataLoader | IPartialRawDataLoader | Der partielle Rohdaten-Lader. |
+| rawDataSettings | RawDataSettings | Die Rohdaten-Einstellungen. |
 
 ### Siehe auch
 
@@ -27,14 +28,14 @@ public void GetDefaultRawData(Rectangle rectangle, IPartialRawDataLoader partial
 * interface [IPartialRawDataLoader](../../ipartialrawdataloader/)
 * class [RawDataSettings](../../rawdatasettings/)
 * class [RasterImage](../)
-* namensraum [Aspose.PSD](../../rasterimage/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## GetDefaultRawData(Rectangle, RawDataSettings) {#getdefaultrawdata}
 
-Ruft das Standard-Rohdatenarray ab.
+Liefert das Standard‑Rohdaten‑Array.
 
 ```csharp
 public byte[] GetDefaultRawData(Rectangle rectangle, RawDataSettings rawDataSettings)
@@ -42,19 +43,19 @@ public byte[] GetDefaultRawData(Rectangle rectangle, RawDataSettings rawDataSett
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| rectangle | Rectangle | Das Rechteck, für das Rohdaten abgerufen werden sollen. |
-| rawDataSettings | RawDataSettings | Die Rohdateneinstellungen. |
+| Rechteck | Rectangle | Das Rechteck, für das Rohdaten abgerufen werden sollen. |
+| rawDataSettings | RawDataSettings | Die Rohdaten-Einstellungen. |
 
 ### Rückgabewert
 
-Das standardmäßige Rohdaten-Array.
+Das Standard-Rohdaten-Array.
 
 ### Siehe auch
 
 * struct [Rectangle](../../rectangle/)
 * class [RawDataSettings](../../rawdatasettings/)
 * class [RasterImage](../)
-* namensraum [Aspose.PSD](../../rasterimage/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

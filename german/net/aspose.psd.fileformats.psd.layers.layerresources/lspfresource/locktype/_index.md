@@ -1,28 +1,29 @@
 ---
-title: LspfResource.LockType
-second_title: Aspose.PSD für .NET-API-Referenz
-description: LspfResource eigendom. Ruft den Typ der Sperre ab oder legt ihn fest.
+title: "LspfResource.LockType"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "LspfResource-Eigenschaft. Gibt den Typ der Sperre zurück oder legt ihn fest"
 type: docs
-weight: 70
+weight: 60
 url: /de/net/aspose.psd.fileformats.psd.layers.layerresources/lspfresource/locktype/
 ---
+{{< psd/tize >}}
 ## LspfResource.LockType property
 
-Ruft den Typ der Sperre ab oder legt ihn fest.
+Liest oder setzt den Typ der Sperre.
 
 ```csharp
 public LayerLockType LockType { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
-Der Typ des Schlosses.
+Der Typ der Sperre.
 
 ### Siehe auch
 
 * enum [LayerLockType](../../layerlocktype/)
 * class [LspfResource](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../lspfresource/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

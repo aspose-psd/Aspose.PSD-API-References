@@ -1,20 +1,21 @@
 ---
-title: PolygonShape.Center
-second_title: Aspose.PSD für .NET-API-Referenz
-description: PolygonShape eigendom. Ruft den Mittelpunkt der Form ab.
+title: "PolygonShape.Center"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "PolygonShape-Eigenschaft. Gibt das Zentrum der Form zurück"
 type: docs
 weight: 30
 url: /de/net/aspose.psd.shapes/polygonshape/center/
 ---
+{{< psd/tize >}}
 ## PolygonShape.Center property
 
-Ruft den Mittelpunkt der Form ab.
+Liest das Zentrum der Form.
 
 ```csharp
 public override PointF Center { get; }
 ```
 
-### Eigentumswert
+### Property Value
 
 Das Zentrum der Form.
 
@@ -22,7 +23,7 @@ Das Zentrum der Form.
 
 * struct [PointF](../../../aspose.psd/pointf/)
 * class [PolygonShape](../)
-* namensraum [Aspose.PSD.Shapes](../../polygonshape/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,46 +1,47 @@
 ---
-title: Class LayerHashCalculator
-second_title: Aspose.PSD für .NET-API-Referenz
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerHashCalculator klas. HashRechner für PSDLayer. Es kann verwendet werden um gleiche oder unterschiedliche Ebenen in verschiedenen PSDDateien zu finden
+title: "Klasse LayerHashCalculator"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "Aspose.PSD.FileFormats.Psd.Layers.LayerHashCalculator Klasse. Hash‑Rechner für PSD‑Layer. Er kann verwendet werden, um gleiche oder unterschiedliche Layer in verschiedenen PSD‑Dateien zu finden."
 type: docs
-weight: 2230
+weight: 2430
 url: /de/net/aspose.psd.fileformats.psd.layers/layerhashcalculator/
 ---
+{{< psd/tize >}}
 ## LayerHashCalculator class
 
-Hash-Rechner für PSD-Layer. Es kann verwendet werden, um gleiche oder unterschiedliche Ebenen in verschiedenen PSD-Dateien zu finden
+Hash‑Rechner für PSD‑Ebenen. Er kann verwendet werden, um gleiche oder unterschiedliche Ebenen in verschiedenen PSD‑Dateien zu finden.
 
 ```csharp
 public class LayerHashCalculator
 ```
 
-## Konstrukteure
+## Konstruktoren
 
 | Name | Beschreibung |
 | --- | --- |
-| [LayerHashCalculator](layerhashcalculator/)(Layer) | Initialisiert eine neue Instanz von`LayerHashCalculator` Klasse. |
+| [LayerHashCalculator](layerhashcalculator/)(Layer) | Initialisiert eine neue Instanz der `LayerHashCalculator`‑Klasse. |
 
 ## Methoden
 
 | Name | Beschreibung |
 | --- | --- |
-| [GetBlendingHash](../../aspose.psd.fileformats.psd.layers/layerhashcalculator/getblendinghash/)() | Ruft den Blending-Hash ab. |
-| [GetChannelsHash](../../aspose.psd.fileformats.psd.layers/layerhashcalculator/getchannelshash/)() | Ruft den Hash des Kanals ab. |
-| [GetContentHash](../../aspose.psd.fileformats.psd.layers/layerhashcalculator/getcontenthash/)() | Ruft den Inhalts-Hash ab. |
+| [GetBlendingHash](../../aspose.psd.fileformats.psd.layers/layerhashcalculator/getblendinghash/)() | Liest den Misch‑Hash. |
+| [GetChannelsHash](../../aspose.psd.fileformats.psd.layers/layerhashcalculator/getchannelshash/)() | Liest den Kanal‑Hash. |
+| [GetContentHash](../../aspose.psd.fileformats.psd.layers/layerhashcalculator/getcontenthash/)() | Liest den Inhalts‑Hash. |
 
-### Beispiele
+## Beispiele
 
-Der folgende Code demonstriert die API zum Abrufen des eindeutigen Hashs für ähnliche Ebenen in verschiedenen Dateien.
+Der folgende Code demonstriert die API zum Abrufen des eindeutigen Hashs für ähnliche Layer in verschiedenen Dateien.
 
 ```csharp
 [C#]
 
 /// <summary>
-/// Ruft den Namen der Ebene ab von.
+/// Ruft den Namen der Ebene ab nach.
 /// </summary>
-/// <typeparam name="T"></typeparam>
-/// <param name="image">Das Bild.</param>
-/// <param name="name">Der Name.</param>
+/// <typeparam name=\"T\"></typeparam>
+/// <param name=\"image\">Das Bild.</param>
+/// <param name=\"name\">Der Name.</param>
 /// <returns></returns>
 private static T GetLayerByName<T>(PsdImage image, string name) where T : Layer
 {
@@ -57,12 +58,12 @@ private static T GetLayerByName<T>(PsdImage image, string name) where T : Layer
 }
 
 /// <summary>
-/// Ist das nicht gleich.
+/// Ares das Nicht‑Gleich.
 /// </summary>
-/// <typeparam name="T"></typeparam>
-/// <param name="erwartet">Das Erwartete.</param>
-/// <param name="actual">Der aktuelle.</param>
-/// <exception cref="System.Exception">Argumente dürfen nicht gleich sein</exception>
+/// <typeparam name=\"T\"></typeparam>
+/// <param name=\"expected\">Der Erwartete.</param>
+/// <param name=\"actual\">Der Aktuelle.</param>
+/// <exception cref=\"System.Exception\">Argumente dürfen nicht gleich sein</exception>
 public static void AreNotEqual<T>(T expected, T actual)
 {
     if (expected != null && expected.Equals(actual))
@@ -72,12 +73,12 @@ public static void AreNotEqual<T>(T expected, T actual)
 }
 
 /// <summary>
-/// Ist gleich.
+/// Ares das Gleich.
 /// </summary>
-/// <typeparam name="T"></typeparam>
-/// <param name="erwartet">Das Erwartete.</param>
-/// <param name="actual">Der aktuelle.</param>
-/// <exception cref="System.Exception">Argumente müssen gleich sein</exception>
+/// <typeparam name=\"T\"></typeparam>
+/// <param name=\"expected\">Der Erwartete.</param>
+/// <param name=\"actual\">Der Aktuelle.</param>
+/// <exception cref=\"System.Exception\">Argumente müssen gleich sein</exception>
 public static void AreEqual<T>(T expected, T actual)
 {
     if (expected != null && !expected.Equals(actual))
@@ -87,7 +88,7 @@ public static void AreEqual<T>(T expected, T actual)
 }
 
 /// <summary>
-/// Reguliert den Layer-Content-Hash-Test.
+/// Regulars den Layer‑Inhalts‑Hash‑Test.
 /// </summary>
 /// <param name="fileName">Name der Datei.</param>
 public static void RegularLayerContentHashTest(string fileName)
@@ -114,12 +115,12 @@ public static void RegularLayerContentHashTest(string fileName)
         AreEqual(hashers[1].GetChannelsHash(), hashers[4].GetChannelsHash());
         AreEqual(hashers[0].GetChannelsHash(), hashers[6].GetChannelsHash());
 
-        // Überprüfen Sie den Mischmodus-Hash 
+        // Überprüfe den Mischmodus-Hash 
         AreEqual(hashers[0].GetBlendingHash(), hashers[3].GetBlendingHash());
         AreEqual(hashers[1].GetBlendingHash(), hashers[4].GetBlendingHash());
         AreNotEqual(hashers[0].GetBlendingHash(), hashers[6].GetBlendingHash());
 
-        // Aber Zeiger sind anders
+        // Aber Zeiger sind unterschiedlich
         AreNotEqual(layers[0], layers[3]);
         AreNotEqual(layers[1], layers[4]);
         AreNotEqual(layers[0], layers[6]);
@@ -127,7 +128,7 @@ public static void RegularLayerContentHashTest(string fileName)
 }
 
 /// <summary>
-/// Füllt den Layer-Content-Hash-Test.
+/// Füllt den Ebeneninhalt-Hash-Test.
 /// </summary>
 /// <param name="fileName">Name der Datei.</param>
 public static void FillLayerContentHashTest(string fileName)
@@ -153,7 +154,7 @@ public static void FillLayerContentHashTest(string fileName)
                 colorFillHashers[index] = new LayerHashCalculator(colorFillLayers[index]);
             }
 
-            // Ähnliche Ebenen befinden sich immer in einem Index
+            // Ähnliche Ebenen befinden sich immer im selben Index
             AreEqual(colorFillHashers[0].GetContentHash(), colorFillHashers[2].GetContentHash());
             AreEqual(colorFillHashers[1].GetContentHash(), colorFillHashers[3].GetContentHash());
             AreNotEqual(colorFillHashers[0].GetContentHash(), colorFillHashers[1].GetContentHash());
@@ -162,7 +163,7 @@ public static void FillLayerContentHashTest(string fileName)
 }
 
 /// <summary>
-/// Smarts den Inhalts-Hash-Test der Objektebene.
+/// Prüft den Smart-Objekt-Ebeneninhalt-Hash-Test.
 /// </summary>
 /// <param name="fileName">Name der Datei.</param>
 public static void SmartObjectLayerContentHashTest(string fileName)
@@ -188,23 +189,23 @@ public static void SmartObjectLayerContentHashTest(string fileName)
             hashers[i] = new LayerHashCalculator(smartObjects[i]);
         }
 
-        // Kanaldaten sind gleich für Layer und Createad von ihnen Smart Objects.
+        // Kanaldaten sind für Ebene und aus ihnen erstellte Smart Objects gleich.
         AreEqual(hashers[0].GetChannelsHash(), hashers[2].GetChannelsHash());
         AreEqual(hashers[0].GetChannelsHash(), hashers[4].GetChannelsHash());
 
-        // Inhalts-Hash ist anders, da Smart Object andere Daten als Inhalt verwendet
+        // Der Inhalts-Hash ist unterschiedlich, weil das Smart Object andere Daten als Inhalt verwendet
         AreNotEqual(hashers[0].GetContentHash(), hashers[4].GetContentHash());
 
-        // Aber das Mischen von Hash ist ähnlich. Beide Ebenen – Smart und Regular – haben den Normal-Mischmodus und die Deckkraft 255
+        // Aber der Mischungs-Hash ist ähnlich. Beide Ebenen – Smart und regulär – haben den Normal-Mischmodus und eine Deckkraft von 255
         AreEqual(hashers[0].GetBlendingHash(), hashers[4].GetBlendingHash());
 
-        // Kanaldaten sind gleich für Layer und Createad von ihnen Smart Objects.
+        // Kanaldaten sind für Ebene und aus ihnen erstellte Smart Objects gleich.
         AreEqual(hashers[1].GetChannelsHash(), hashers[3].GetChannelsHash());
         AreEqual(hashers[1].GetChannelsHash(), hashers[5].GetChannelsHash());
 
-        // Inhalts-Hash ist anders, da Smart Object andere Daten als Inhalt verwendet
+        // Der Inhalts-Hash ist unterschiedlich, weil das Smart Object andere Daten als Inhalt verwendet
         AreNotEqual(hashers[1].GetContentHash(), hashers[5].GetContentHash());
-        // Aber das Mischen von Hash ist ähnlich. Beide Ebenen – Smart und Regular – haben den Normal-Mischmodus und die Deckkraft 255
+        // Aber der Mischungs-Hash ist ähnlich. Beide Ebenen – Smart und regulär – haben den Normal-Mischmodus und eine Deckkraft von 255
         AreEqual(hashers[1].GetBlendingHash(), hashers[5].GetBlendingHash());
 
         AreNotEqual(hashers[0].GetChannelsHash(), hashers[1].GetChannelsHash());
@@ -214,7 +215,7 @@ public static void SmartObjectLayerContentHashTest(string fileName)
 }
 
 /// <summary>
-/// Passt den Inhalts-Hash-Test der Ebenen an.
+/// Anpassungen des Ebeneninhalt-Hash-Tests.
 /// </summary>
 /// <param name="fileName">Name der Datei.</param>
 public static void AdjustmentLayersContentHashTest(string fileName)
@@ -258,7 +259,7 @@ public static void AdjustmentLayersContentHashTest(string fileName)
 }
 
 /// <summary>
-/// Sendet den Inhalts-Hash-Test der Ebenen.
+/// Texte des Ebeneninhalt-Hash-Tests.
 /// </summary>
 /// <param name="fileName">Name der Datei.</param>
 public static void TextLayersContentHashTest(string fileName)
@@ -302,18 +303,18 @@ public static void TextLayersContentHashTest(string fileName)
         AreNotEqual(textHashers2[0].GetContentHash(), textHashers2[2].GetContentHash());
         AreNotEqual(textHashers2[0].GetContentHash(), textHashers2[3].GetContentHash());
 
-        // Transformationsmatrix wird bei der Hash-Berechnung nicht verwendet. Sie sollten es zusätzlich überprüfen
+        // Transformationsmatrix wird nicht bei der Hash-Berechnung verwendet. Sie sollten sie zusätzlich prüfen
         AreEqual(textHashers2[0].GetContentHash(), textHashers2[4].GetContentHash());
 
-        // In diesem Fall haben wir eine Drehung in der Matrix
+        // In diesem Fall haben wir eine Rotation in der Matrix
         AreNotEqual(textLayers2[0].TransformMatrix, textLayers2[4].TransformMatrix);
-        // In diesem Fall haben wir nur die Übersetzung (Textebene nach unten verschoben)
+        // In diesem Fall haben wir nur eine Translation (Text-Ebene unten verschoben)
         AreNotEqual(textLayers2[0].TransformMatrix, textLayers2[1].TransformMatrix);
     }
 }
 
 /// <summary>
-/// Gruppiert den Layer-Content-Hash-Test.
+/// Gruppen des Ebeneninhalt-Hash-Tests.
 /// </summary>
 /// <param name="fileName">Name der Datei.</param>
 public static void GroupLayerContentHashTest(string fileName)
@@ -333,14 +334,14 @@ public static void GroupLayerContentHashTest(string fileName)
             groupLayersHashers[i] = new LayerHashCalculator(groupLayers[i]);
         }
 
-        // Group Layer Hash wird aus den darin enthaltenen Layern berechnet
+        // Der Gruppenebenen-Hash wird aus den darin enthaltenen Ebenen berechnet
         AreEqual(groupLayersHashers[0].GetContentHash(), groupLayersHashers[1].GetContentHash());
         AreNotEqual(groupLayers[0], groupLayers[1]);
     }
 }
 
 /// <summary>
-/// Reguliert den Layer-Inhalt aus verschiedenen Dateien Hash-Test.
+/// Reguläre Ebeneninhalt aus verschiedenen Dateien Hash-Test.
 /// </summary>
 /// <param name="fileName">Name der Datei.</param>
 public static void RegularLayerContentFromDifferentFilesHashTest(string fileName, string outputFile)
@@ -364,7 +365,7 @@ public static void RegularLayerContentFromDifferentFilesHashTest(string fileName
                 // Ebenen haben unterschiedliche Zeiger
                 AreNotEqual(layer, layer_copied);
 
-                // Aber der Hash der Schichten ist gleich
+                // Aber die Hashes der Ebenen sind gleich
                 AreEqual(hashCalc.GetChannelsHash(), hashCalc_copied.GetChannelsHash());
                 AreEqual(hashCalc.GetContentHash(), hashCalc_copied.GetContentHash());
             }
@@ -377,7 +378,7 @@ public static void RegularLayerContentFromDifferentFilesHashTest(string fileName
 
 ### Siehe auch
 
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers](../../aspose.psd.fileformats.psd.layers/)
-* Montage [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../)
 
 

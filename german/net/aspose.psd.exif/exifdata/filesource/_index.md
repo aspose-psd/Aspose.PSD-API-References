@@ -1,28 +1,29 @@
 ---
-title: ExifData.FileSource
-second_title: Aspose.PSD für .NET-API-Referenz
-description: ExifData eigendom. Ruft den Dateiquelltyp ab oder legt ihn fest.
+title: "ExifData.FileSource"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "ExifData-Eigenschaft. Ruft den Dateiquellentyp ab oder legt ihn fest"
 type: docs
 weight: 240
 url: /de/net/aspose.psd.exif/exifdata/filesource/
 ---
+{{< psd/tize >}}
 ## ExifData.FileSource property
 
-Ruft den Dateiquelltyp ab oder legt ihn fest.
+Liest oder setzt den Dateiquellen-Typ.
 
 ```csharp
 public ExifFileSource FileSource { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
-Der Dateiquelltyp.
+Der Dateiquellentyp.
 
 ### Siehe auch
 
 * enum [ExifFileSource](../../../aspose.psd.exif.enums/exiffilesource/)
 * class [ExifData](../)
-* namensraum [Aspose.PSD.Exif](../../exifdata/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

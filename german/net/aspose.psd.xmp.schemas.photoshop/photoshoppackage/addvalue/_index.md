@@ -1,14 +1,15 @@
 ---
-title: PhotoshopPackage.AddValue
-second_title: Aspose.PSD für .NET-API-Referenz
-description: PhotoshopPackage methode. Fügt eine StringEigenschaft hinzu.
+title: "PhotoshopPackage.AddValue"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "PhotoshopPackage-Methode. Fügt eine Zeichenketten‑Eigenschaft hinzu"
 type: docs
 weight: 20
 url: /de/net/aspose.psd.xmp.schemas.photoshop/photoshoppackage/addvalue/
 ---
+{{< psd/tize >}}
 ## PhotoshopPackage.AddValue method
 
-Fügt eine String-Eigenschaft hinzu.
+Fügt eine Zeichenketten-Eigenschaft hinzu.
 
 ```csharp
 public override void AddValue(string key, string value)
@@ -16,8 +17,8 @@ public override void AddValue(string key, string value)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| key | String | Die Zeichenfolgendarstellung des Schlüssels, der mit Mehrwert gekennzeichnet ist. |
-| value | String | Der Zeichenfolgenwert. |
+| Schlüssel | String | Die Zeichenkettenrepräsentation des Schlüssels, die mit dem hinzugefügten Wert identifiziert wird. |
+| Wert | String | Der Zeichenkettenwert. |
 
 ### Ausnahmen
 
@@ -28,7 +29,7 @@ public override void AddValue(string key, string value)
 ### Siehe auch
 
 * class [PhotoshopPackage](../)
-* namensraum [Aspose.PSD.Xmp.Schemas.Photoshop](../../photoshoppackage/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.Photoshop](../../../aspose.psd.xmp.schemas.photoshop/)
+* assembly [Aspose.PSD](../../../)
 
 

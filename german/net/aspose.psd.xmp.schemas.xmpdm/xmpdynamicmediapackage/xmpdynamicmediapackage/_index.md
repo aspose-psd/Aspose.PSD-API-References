@@ -1,14 +1,15 @@
 ---
-title: XmpDynamicMediaPackage.XmpDynamicMediaPackage
-second_title: Aspose.PSD für .NET-API-Referenz
-description: XmpDynamicMediaPackage constructeur. Default_Constructor
+title: "XmpDynamicMediaPackage.XmpDynamicMediaPackage"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "XmpDynamicMediaPackage-Konstruktor. Der Standardkonstruktor"
 type: docs
 weight: 10
 url: /de/net/aspose.psd.xmp.schemas.xmpdm/xmpdynamicmediapackage/xmpdynamicmediapackage/
 ---
+{{< psd/tize >}}
 ## XmpDynamicMediaPackage constructor
 
-Default_Constructor
+Der Standardkonstruktor.
 
 ```csharp
 public XmpDynamicMediaPackage()
@@ -17,7 +18,7 @@ public XmpDynamicMediaPackage()
 ### Siehe auch
 
 * class [XmpDynamicMediaPackage](../)
-* namensraum [Aspose.PSD.Xmp.Schemas.XmpDm](../../xmpdynamicmediapackage/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpDm](../../../aspose.psd.xmp.schemas.xmpdm/)
+* assembly [Aspose.PSD](../../../)
 
 

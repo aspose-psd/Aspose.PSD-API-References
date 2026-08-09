@@ -1,11 +1,12 @@
 ---
-title: IPartialRawDataLoader.Process
-second_title: Aspose.PSD für .NET-API-Referenz
-description: IPartialRawDataLoader methode. Verarbeitet die geladenen Daten.
+title: "IPartialRawDataLoader.Process"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "IPartialRawDataLoader-Methode. Verarbeitet die geladenen Daten"
 type: docs
 weight: 10
 url: /de/net/aspose.psd/ipartialrawdataloader/process/
 ---
+{{< psd/tize >}}
 ## Process(Rectangle, byte[], Point, Point) {#process}
 
 Verarbeitet die geladenen Daten.
@@ -16,18 +17,18 @@ public void Process(Rectangle rectangle, byte[] data, Point start, Point end)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| rectangle | Rectangle | Das Datenrechteck. |
-| data | Byte[] | Die Rohdaten. |
-| start | Point | Der Startdatenpunkt. Wenn nicht gleich (links, oben), bedeutet dies, dass es kein vollständiges Rechteck ist, das wir haben. |
-| end | Point | Der Enddatenpunkt. Wenn nicht gleich (rechts, unten), bedeutet dies, dass es kein vollständiges Rechteck ist, das wir haben. |
+| Rechteck | Rectangle | Das Datenrechteck. |
+| Daten | Byte[] | Die Rohdaten. |
+| start | Point | Der Startdatenpunkt. Wenn er nicht gleich (links,oben) ist, bedeutet das, dass wir kein vollständiges Rechteck haben. |
+| Ende | Point | Der Enddatenpunkt. Wenn er nicht gleich (rechts,unten) ist, bedeutet das, dass wir kein vollständiges Rechteck haben. |
 
 ### Siehe auch
 
 * struct [Rectangle](../../rectangle/)
 * struct [Point](../../point/)
 * interface [IPartialRawDataLoader](../)
-* namensraum [Aspose.PSD](../../ipartialrawdataloader/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
@@ -42,10 +43,10 @@ public void Process(Rectangle rectangle, byte[] data, Point start, Point end,
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| rectangle | Rectangle | Das Datenrechteck. |
-| data | Byte[] | Die Rohdaten. |
-| start | Point | Der Startdatenpunkt. Wenn nicht gleich (links, oben), bedeutet dies, dass es kein vollständiges Rechteck ist, das wir haben. |
-| end | Point | Der Enddatenpunkt. Wenn nicht gleich (rechts, unten), bedeutet dies, dass es kein vollständiges Rechteck ist, das wir haben. |
+| Rechteck | Rectangle | Das Datenrechteck. |
+| Daten | Byte[] | Die Rohdaten. |
+| start | Point | Der Startdatenpunkt. Wenn er nicht gleich (links,oben) ist, bedeutet das, dass wir kein vollständiges Rechteck haben. |
+| Ende | Point | Der Enddatenpunkt. Wenn er nicht gleich (rechts,unten) ist, bedeutet das, dass wir kein vollständiges Rechteck haben. |
 | loadOptions | LoadOptions | Die Ladeoptionen. |
 
 ### Siehe auch
@@ -54,7 +55,7 @@ public void Process(Rectangle rectangle, byte[] data, Point start, Point end,
 * struct [Point](../../point/)
 * class [LoadOptions](../../loadoptions/)
 * interface [IPartialRawDataLoader](../)
-* namensraum [Aspose.PSD](../../ipartialrawdataloader/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

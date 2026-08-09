@@ -1,22 +1,23 @@
 ---
-title: ITextStyle.HorizontalScale
-second_title: Aspose.PSD für .NET-API-Referenz
-description: ITextStyle eigendom. Die horizontale Skala.
+title: "ITextStyle.HorizontalScale"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "ITextStyle property. Die horizontale Skalierung"
 type: docs
 weight: 160
 url: /de/net/aspose.psd.fileformats.psd.layers.text/itextstyle/horizontalscale/
 ---
+{{< psd/tize >}}
 ## ITextStyle.HorizontalScale property
 
-Die horizontale Skala.
+Die horizontale Skalierung.
 
 ```csharp
 public double HorizontalScale { get; set; }
 ```
 
-### Beispiele
+## Beispiele
 
-Der folgende Code demonstriert die Unterstützung der Unterstützung neuer ITextStyle-Eigenschaften.
+Der folgende Code demonstriert die Unterstützung der neuen ITextStyle‑Eigenschaften.
 
 ```csharp
 [C#]
@@ -71,7 +72,7 @@ using (var srcImage = (PsdImage)Image.Load(srcFile))
 ### Siehe auch
 
 * interface [ITextStyle](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.Text](../../itextstyle/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.Text](../../../aspose.psd.fileformats.psd.layers.text/)
+* assembly [Aspose.PSD](../../../)
 
 

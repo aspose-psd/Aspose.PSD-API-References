@@ -1,14 +1,15 @@
 ---
-title: RasterImage.GetDefaultArgb32Pixels
-second_title: Aspose.PSD für .NET-API-Referenz
-description: RasterImage methode. Ruft das standardmäßige 32BitARGBPixelArray ab.
+title: "RasterImage.GetDefaultArgb32Pixels"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "RasterImage-Methode. Gibt das Standard-32-Bit-ARGB-Pixelarray zurück"
 type: docs
 weight: 280
 url: /de/net/aspose.psd/rasterimage/getdefaultargb32pixels/
 ---
+{{< psd/tize >}}
 ## RasterImage.GetDefaultArgb32Pixels method
 
-Ruft das standardmäßige 32-Bit-ARGB-Pixel-Array ab.
+Liefert das Standard‑32‑Bit‑ARGB‑Pixel‑Array.
 
 ```csharp
 public int[] GetDefaultArgb32Pixels(Rectangle rectangle)
@@ -16,17 +17,17 @@ public int[] GetDefaultArgb32Pixels(Rectangle rectangle)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| rectangle | Rectangle | Das Rechteck, für das Pixel abgerufen werden sollen. |
+| Rechteck | Rectangle | Das Rechteck, für das die Pixel abgerufen werden sollen. |
 
 ### Rückgabewert
 
-Das Standard-Pixel-Array.
+Das Standard-Pixelarray.
 
 ### Siehe auch
 
 * struct [Rectangle](../../rectangle/)
 * class [RasterImage](../)
-* namensraum [Aspose.PSD](../../rasterimage/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

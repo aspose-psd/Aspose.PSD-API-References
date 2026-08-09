@@ -1,14 +1,15 @@
 ---
-title: CurvResource.GetCurveManager
-second_title: Aspose.PSD für .NET-API-Referenz
-description: CurvResource methode. Ruft den Kurvenmanager ab.
+title: "CurvResource.GetCurveManager"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "CurvResource-Methode. Ruft den Kurven-Manager ab"
 type: docs
-weight: 80
+weight: 60
 url: /de/net/aspose.psd.fileformats.psd.layers.layerresources/curvresource/getcurvemanager/
 ---
+{{< psd/tize >}}
 ## CurvResource.GetCurveManager method
 
-Ruft den Kurvenmanager ab.
+Ruft den Kurven‑Manager ab.
 
 ```csharp
 public CurvesManager GetCurveManager()
@@ -16,13 +17,13 @@ public CurvesManager GetCurveManager()
 
 ### Rückgabewert
 
-[`CurvesDiscreteManager`](../../curvesdiscretemanager/) oder[`CurvesContinuousManager`](../../curvescontinuousmanager/)
+[`CurvesDiscreteManager`](../../curvesdiscretemanager/) or [`CurvesContinuousManager`](../../curvescontinuousmanager/)
 
 ### Siehe auch
 
 * class [CurvesManager](../../curvesmanager/)
 * class [CurvResource](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../curvresource/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

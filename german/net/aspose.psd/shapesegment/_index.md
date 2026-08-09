@@ -1,14 +1,15 @@
 ---
-title: Class ShapeSegment
-second_title: Aspose.PSD für .NET-API-Referenz
-description: Aspose.PSD.ShapeSegment klas. Repräsentiert ein Formsegment. Ein Segment ist eine Linie oder Kurve die zwei Punkte verbindet.
+title: "Klasse ShapeSegment"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "Aspose.PSD.ShapeSegment‑Klasse. Stellt ein Formsegment dar. Ein Segment ist eine Linie oder Kurve, die zwei Punkte verbindet."
 type: docs
-weight: 5430
+weight: 5930
 url: /de/net/aspose.psd/shapesegment/
 ---
+{{< psd/tize >}}
 ## ShapeSegment class
 
-Repräsentiert ein Formsegment. Ein Segment ist eine Linie oder Kurve, die zwei Punkte verbindet.
+Stellt ein Formsegment dar. Ein Segment ist eine Linie oder Kurve, die zwei Punkte verbindet.
 
 ```csharp
 public abstract class ShapeSegment
@@ -23,7 +24,7 @@ public abstract class ShapeSegment
 
 ### Siehe auch
 
-* namensraum [Aspose.PSD](../../aspose.psd/)
-* Montage [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

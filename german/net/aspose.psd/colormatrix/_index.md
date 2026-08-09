@@ -1,74 +1,75 @@
 ---
-title: Class ColorMatrix
-second_title: Aspose.PSD für .NET-API-Referenz
-description: Aspose.PSD.ColorMatrix klas. Definiert eine 5 x 5Matrix die die Koordinaten für den RGBARaum enthält. Mehrere Methoden derImageAttributes Klasse Passen Sie die Bildfarben mithilfe einer Farbmatrix an. Diese Klasse kann nicht vererbt werden.
+title: "Klasse ColorMatrix"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "Aspose.PSD.ColorMatrix Klasse. Definiert eine 5 x 5-Matrix, die die Koordinaten für den RGBA‑Raum enthält. Mehrere Methoden der ImageAttributes Klasse passen Bildfarben mithilfe einer Farbmatrix an. Diese Klasse kann nicht geerbt werden"
 type: docs
 weight: 350
 url: /de/net/aspose.psd/colormatrix/
 ---
+{{< psd/tize >}}
 ## ColorMatrix class
 
-Definiert eine 5 x 5-Matrix, die die Koordinaten für den RGBA-Raum enthält. Mehrere Methoden der[`ImageAttributes`](../imageattributes/) Klasse Passen Sie die Bildfarben mithilfe einer Farbmatrix an. Diese Klasse kann nicht vererbt werden.
+Definiert eine 5 x 5-Matrix, die die Koordinaten für den RGBA‑Raum enthält. Mehrere Methoden der [`ImageAttributes`](../imageattributes/) Klasse passen Bildfarben mithilfe einer Farbmatrix an. Diese Klasse kann nicht geerbt werden.
 
 ```csharp
 public sealed class ColorMatrix
 ```
 
-## Konstrukteure
+## Konstruktoren
 
 | Name | Beschreibung |
 | --- | --- |
-| [ColorMatrix](colormatrix/#constructor)() | Initialisiert eine neue Instanz von`ColorMatrix` Klasse. |
-| [ColorMatrix](colormatrix/#constructor_1)(float[][]) | Initialisiert eine neue Instanz von`ColorMatrix` Klasse mit den Elementen in der angegebenen Matrix*newColorMatrix* . |
+| [ColorMatrix](colormatrix/#constructor)() | Initialisiert eine neue Instanz der `ColorMatrix`-Klasse. |
+| [ColorMatrix](colormatrix/#constructor_1)(float[][]) | Initialisiert eine neue Instanz der `ColorMatrix`-Klasse unter Verwendung der Elemente der angegebenen Matrix *newColorMatrix*. |
 
 ## Eigenschaften
 
 | Name | Beschreibung |
 | --- | --- |
-| [Item](../../aspose.psd/colormatrix/item/) { get; set; } | Ruft das Element in der angegebenen Zeile und Spalte in ab oder legt es fest`ColorMatrix` . |
-| [Matrix00](../../aspose.psd/colormatrix/matrix00/) { get; set; } | Holt oder setzt das Element in der 0 (Null)-Zeile und 0-Spalte davon`ColorMatrix` . |
-| [Matrix01](../../aspose.psd/colormatrix/matrix01/) { get; set; } | Holt oder setzt das Element in der Zeile 0 (Null) und der ersten Spalte davon`ColorMatrix` . |
-| [Matrix02](../../aspose.psd/colormatrix/matrix02/) { get; set; } | Holt oder setzt das Element in der Zeile 0 (null) und der zweiten Spalte davon`ColorMatrix` . |
-| [Matrix03](../../aspose.psd/colormatrix/matrix03/) { get; set; } | Holt oder setzt das Element in der Zeile 0 (null) und der dritten Spalte davon`ColorMatrix` . |
-| [Matrix04](../../aspose.psd/colormatrix/matrix04/) { get; set; } | Holt oder setzt das Element in der Zeile 0 (Null) und der vierten Spalte davon`ColorMatrix` . |
-| [Matrix10](../../aspose.psd/colormatrix/matrix10/) { get; set; } | Holt oder setzt das Element in der ersten Zeile und 0 (Null)-Spalte davon`ColorMatrix` . |
-| [Matrix11](../../aspose.psd/colormatrix/matrix11/) { get; set; } | Holt oder setzt das Element in der ersten Zeile und ersten Spalte davon`ColorMatrix` . |
-| [Matrix12](../../aspose.psd/colormatrix/matrix12/) { get; set; } | Holt oder setzt das Element in der ersten Zeile und zweiten Spalte davon`ColorMatrix` . |
-| [Matrix13](../../aspose.psd/colormatrix/matrix13/) { get; set; } | Holt oder setzt das Element in der ersten Zeile und dritten Spalte davon`ColorMatrix` . |
-| [Matrix14](../../aspose.psd/colormatrix/matrix14/) { get; set; } | Holt oder setzt das Element in der ersten Zeile und vierten Spalte davon`ColorMatrix` . |
-| [Matrix20](../../aspose.psd/colormatrix/matrix20/) { get; set; } | Holt oder setzt das Element in der zweiten Reihe und 0 (Null)-Spalte davon`ColorMatrix` . |
-| [Matrix21](../../aspose.psd/colormatrix/matrix21/) { get; set; } | Holt oder setzt das Element in der zweiten Reihe und ersten Spalte davon`ColorMatrix` . |
-| [Matrix22](../../aspose.psd/colormatrix/matrix22/) { get; set; } | Holt oder setzt das Element in der zweiten Zeile und zweiten Spalte davon`ColorMatrix` . |
-| [Matrix23](../../aspose.psd/colormatrix/matrix23/) { get; set; } | Holt oder setzt das Element in der zweiten Zeile und dritten Spalte davon`ColorMatrix` . |
-| [Matrix24](../../aspose.psd/colormatrix/matrix24/) { get; set; } | Holt oder setzt das Element in der zweiten Zeile und vierten Spalte davon`ColorMatrix` . |
-| [Matrix30](../../aspose.psd/colormatrix/matrix30/) { get; set; } | Holt oder setzt das Element in der dritten Zeile und 0 (Null)-Spalte davon`ColorMatrix` . |
-| [Matrix31](../../aspose.psd/colormatrix/matrix31/) { get; set; } | Holt oder setzt das Element in der dritten Zeile und ersten Spalte davon`ColorMatrix` . |
-| [Matrix32](../../aspose.psd/colormatrix/matrix32/) { get; set; } | Holt oder setzt das Element in der dritten Zeile und zweiten Spalte davon`ColorMatrix` . |
-| [Matrix33](../../aspose.psd/colormatrix/matrix33/) { get; set; } | Holt oder setzt das Element in der dritten Zeile und dritten Spalte davon`ColorMatrix` . |
-| [Matrix34](../../aspose.psd/colormatrix/matrix34/) { get; set; } | Holt oder setzt das Element in der dritten Zeile und vierten Spalte davon`ColorMatrix` . |
-| [Matrix40](../../aspose.psd/colormatrix/matrix40/) { get; set; } | Holt oder setzt das Element in der vierten Reihe und 0 (Null)-Spalte davon`ColorMatrix` . |
-| [Matrix41](../../aspose.psd/colormatrix/matrix41/) { get; set; } | Holt oder setzt das Element in der vierten Zeile und ersten Spalte davon`ColorMatrix` . |
-| [Matrix42](../../aspose.psd/colormatrix/matrix42/) { get; set; } | Holt oder setzt das Element in der vierten Zeile und zweiten Spalte davon`ColorMatrix` . |
-| [Matrix43](../../aspose.psd/colormatrix/matrix43/) { get; set; } | Holt oder setzt das Element in der vierten Zeile und dritten Spalte davon`ColorMatrix` . |
-| [Matrix44](../../aspose.psd/colormatrix/matrix44/) { get; set; } | Holt oder setzt das Element in der vierten Zeile und vierten Spalte davon`ColorMatrix` . |
+| [Item](../../aspose.psd/colormatrix/item/) { get; set; } | Liest oder setzt das Element in der angegebenen Zeile und Spalte der `ColorMatrix`. |
+| [Matrix00](../../aspose.psd/colormatrix/matrix00/) { get; set; } | Liest oder setzt das Element in Zeile 0 (null) und Spalte 0 dieser `ColorMatrix`. |
+| [Matrix01](../../aspose.psd/colormatrix/matrix01/) { get; set; } | Liest oder setzt das Element in Zeile 0 (null) und erster Spalte dieser `ColorMatrix`. |
+| [Matrix02](../../aspose.psd/colormatrix/matrix02/) { get; set; } | Liest oder setzt das Element in Zeile 0 (null) und zweiter Spalte dieser `ColorMatrix`. |
+| [Matrix03](../../aspose.psd/colormatrix/matrix03/) { get; set; } | Liest oder setzt das Element in Zeile 0 (null) und dritter Spalte dieser `ColorMatrix`. |
+| [Matrix04](../../aspose.psd/colormatrix/matrix04/) { get; set; } | Liest oder setzt das Element in Zeile 0 (null) und vierter Spalte dieser `ColorMatrix`. |
+| [Matrix10](../../aspose.psd/colormatrix/matrix10/) { get; set; } | Liest oder setzt das Element in erster Zeile und Spalte 0 (null) dieser `ColorMatrix`. |
+| [Matrix11](../../aspose.psd/colormatrix/matrix11/) { get; set; } | Liest oder setzt das Element in erster Zeile und erster Spalte dieser `ColorMatrix`. |
+| [Matrix12](../../aspose.psd/colormatrix/matrix12/) { get; set; } | Liest oder setzt das Element in erster Zeile und zweiter Spalte dieser `ColorMatrix`. |
+| [Matrix13](../../aspose.psd/colormatrix/matrix13/) { get; set; } | Liest oder setzt das Element in erster Zeile und dritter Spalte dieser `ColorMatrix`. |
+| [Matrix14](../../aspose.psd/colormatrix/matrix14/) { get; set; } | Liest oder setzt das Element in erster Zeile und vierter Spalte dieser `ColorMatrix`. |
+| [Matrix20](../../aspose.psd/colormatrix/matrix20/) { get; set; } | Liest oder setzt das Element in zweiter Zeile und Spalte 0 (null) dieser `ColorMatrix`. |
+| [Matrix21](../../aspose.psd/colormatrix/matrix21/) { get; set; } | Liest oder setzt das Element in zweiter Zeile und erster Spalte dieser `ColorMatrix`. |
+| [Matrix22](../../aspose.psd/colormatrix/matrix22/) { get; set; } | Liest oder setzt das Element in zweiter Zeile und zweiter Spalte dieser `ColorMatrix`. |
+| [Matrix23](../../aspose.psd/colormatrix/matrix23/) { get; set; } | Liest oder setzt das Element in zweiter Zeile und dritter Spalte dieser `ColorMatrix`. |
+| [Matrix24](../../aspose.psd/colormatrix/matrix24/) { get; set; } | Liest oder setzt das Element in zweiter Zeile und vierter Spalte dieser `ColorMatrix`. |
+| [Matrix30](../../aspose.psd/colormatrix/matrix30/) { get; set; } | Liest oder setzt das Element in der dritten Zeile und Spalte 0 (null) dieser `ColorMatrix`. |
+| [Matrix31](../../aspose.psd/colormatrix/matrix31/) { get; set; } | Liest oder setzt das Element in der dritten Zeile und ersten Spalte dieser `ColorMatrix`. |
+| [Matrix32](../../aspose.psd/colormatrix/matrix32/) { get; set; } | Liest oder setzt das Element in der dritten Zeile und zweiten Spalte dieser `ColorMatrix`. |
+| [Matrix33](../../aspose.psd/colormatrix/matrix33/) { get; set; } | Liest oder setzt das Element in der dritten Zeile und dritten Spalte dieser `ColorMatrix`. |
+| [Matrix34](../../aspose.psd/colormatrix/matrix34/) { get; set; } | Liest oder setzt das Element in der dritten Zeile und vierten Spalte dieser `ColorMatrix`. |
+| [Matrix40](../../aspose.psd/colormatrix/matrix40/) { get; set; } | Liest oder setzt das Element in der vierten Zeile und Spalte 0 (null) dieser `ColorMatrix`. |
+| [Matrix41](../../aspose.psd/colormatrix/matrix41/) { get; set; } | Liest oder setzt das Element in der vierten Zeile und ersten Spalte dieser `ColorMatrix`. |
+| [Matrix42](../../aspose.psd/colormatrix/matrix42/) { get; set; } | Liest oder setzt das Element in der vierten Zeile und zweiten Spalte dieser `ColorMatrix`. |
+| [Matrix43](../../aspose.psd/colormatrix/matrix43/) { get; set; } | Liest oder setzt das Element in der vierten Zeile und dritten Spalte dieser `ColorMatrix`. |
+| [Matrix44](../../aspose.psd/colormatrix/matrix44/) { get; set; } | Liest oder setzt das Element in der vierten Zeile und vierten Spalte dieser `ColorMatrix`. |
 
 ## Methoden
 
 | Name | Beschreibung |
 | --- | --- |
-| [GetMatrix](../../aspose.psd/colormatrix/getmatrix/)() | Ruft die Matrixwerte ab. |
+| [GetMatrix](../../aspose.psd/colormatrix/getmatrix/)() | Liest die Matrixwerte. |
 
 ## Felder
 
 | Name | Beschreibung |
 | --- | --- |
-| const [MatrixDimensionElementsCount](../../aspose.psd/colormatrix/matrixdimensionelementscount/) | Die Anzahl der Elemente in der Matrixdimension. |
+| const [MatrixDimensionElementsCount](../../aspose.psd/colormatrix/matrixdimensionelementscount/) | Die Anzahl der Elemente in einer Matrixdimension. |
 | const [MatrixDimensionsCount](../../aspose.psd/colormatrix/matrixdimensionscount/) | Die Anzahl der Matrixdimensionen. |
-| const [MatrixTotalElementsCount](../../aspose.psd/colormatrix/matrixtotalelementscount/) | Die Gesamtzahl der Elemente in der Matrix. |
+| const [MatrixTotalElementsCount](../../aspose.psd/colormatrix/matrixtotalelementscount/) | Die Gesamtanzahl der Elemente in der Matrix. |
 
 ### Siehe auch
 
-* namensraum [Aspose.PSD](../../aspose.psd/)
-* Montage [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

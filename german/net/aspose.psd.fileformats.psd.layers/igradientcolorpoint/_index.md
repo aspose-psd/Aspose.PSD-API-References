@@ -1,14 +1,15 @@
 ---
-title: Interface IGradientColorPoint
-second_title: Aspose.PSD für .NET-API-Referenz
-description: Aspose.PSD.FileFormats.Psd.Layers.IGradientColorPoint koppel. Basisschnittstelle für Fülleinstellungen
+title: "Schnittstelle IGradientColorPoint"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "Aspose.PSD.FileFormats.Psd.Layers.IGradientColorPoint Schnittstelle. Basisschnittstelle für Füll-Einstellungen."
 type: docs
-weight: 2060
+weight: 2240
 url: /de/net/aspose.psd.fileformats.psd.layers/igradientcolorpoint/
 ---
+{{< psd/tize >}}
 ## IGradientColorPoint interface
 
-Basisschnittstelle für Fülleinstellungen
+Basisschnittstelle für Füllungseinstellungen
 
 ```csharp
 public interface IGradientColorPoint
@@ -18,13 +19,13 @@ public interface IGradientColorPoint
 
 | Name | Beschreibung |
 | --- | --- |
-| [Location](../../aspose.psd.fileformats.psd.layers/igradientcolorpoint/location/) { get; set; } | Ruft den Standort ab oder legt ihn fest. |
-| [MedianPointLocation](../../aspose.psd.fileformats.psd.layers/igradientcolorpoint/medianpointlocation/) { get; set; } | Ruft die Medianpunktposition ab oder legt sie fest. |
-| [RawColor](../../aspose.psd.fileformats.psd.layers/igradientcolorpoint/rawcolor/) { get; set; } | Ruft die Farbe des Raw ab oder legt sie fest. |
+| [Location](../../aspose.psd.fileformats.psd.layers/igradientcolorpoint/location/) { get; set; } | Liest oder setzt den Standort. Wertebereich 0-4096. |
+| [MedianPointLocation](../../aspose.psd.fileformats.psd.layers/igradientcolorpoint/medianpointlocation/) { get; set; } | Liest oder setzt den Standort des Medianpunkts. Wertebereich 0-4096. |
+| [RawColor](../../aspose.psd.fileformats.psd.layers/igradientcolorpoint/rawcolor/) { get; set; } | Liest oder setzt die Farbe des Rohwerts. |
 
 ### Siehe auch
 
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers](../../aspose.psd.fileformats.psd.layers/)
-* Montage [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../)
 
 

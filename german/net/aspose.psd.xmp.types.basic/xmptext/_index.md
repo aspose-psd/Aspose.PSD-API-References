@@ -1,41 +1,42 @@
 ---
-title: Class XmpText
-second_title: Aspose.PSD für .NET-API-Referenz
-description: Aspose.PSD.Xmp.Types.Basic.XmpText klas. Stellt den XMPTextBasistyp dar.
+title: "Klasse XmpText"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "Aspose.PSD.Xmp.Types.Basic.XmpText Klasse. Stellt den grundlegenden XMP-Texttyp dar"
 type: docs
-weight: 5980
+weight: 6480
 url: /de/net/aspose.psd.xmp.types.basic/xmptext/
 ---
+{{< psd/tize >}}
 ## XmpText class
 
-Stellt den XMP-Text-Basistyp dar.
+Stellt den grundlegenden XMP-Texttyp dar.
 
 ```csharp
 public class XmpText : XmpTypeBase
 ```
 
-## Konstrukteure
+## Konstruktoren
 
 | Name | Beschreibung |
 | --- | --- |
-| [XmpText](xmptext/)(string) | Initialisiert eine neue Instanz von`XmpText` Klasse. |
+| [XmpText](xmptext/)(string) | Initialisiert eine neue Instanz der `XmpText`-Klasse. |
 
 ## Eigenschaften
 
 | Name | Beschreibung |
 | --- | --- |
-| [Value](../../aspose.psd.xmp.types.basic/xmptext/value/) { get; set; } | Ruft den Textwert ab oder legt ihn fest. |
+| [Value](../../aspose.psd.xmp.types.basic/xmptext/value/) { get; set; } | Liest oder setzt den Textwert. |
 
 ## Methoden
 
 | Name | Beschreibung |
 | --- | --- |
-| override [GetXmpRepresentation](../../aspose.psd.xmp.types.basic/xmptext/getxmprepresentation/)() | Ruft den in der Zeichenfolge enthaltenen Wert im XMP-Format ab. |
+| override [GetXmpRepresentation](../../aspose.psd.xmp.types.basic/xmptext/getxmprepresentation/)() | Liest den enthaltenen Zeichenfolgenwert im XMP-Format. |
 
 ### Siehe auch
 
 * class [XmpTypeBase](../../aspose.psd.xmp.types/xmptypebase/)
-* namensraum [Aspose.PSD.Xmp.Types.Basic](../../aspose.psd.xmp.types.basic/)
-* Montage [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Xmp.Types.Basic](../../aspose.psd.xmp.types.basic/)
+* assembly [Aspose.PSD](../../)
 
 

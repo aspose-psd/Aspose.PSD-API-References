@@ -1,27 +1,28 @@
 ---
-title: XmpPackage.Keys
-second_title: Aspose.PSD für .NET-API-Referenz
-description: XmpPackage eigendom. Ruft die Schlüssel im XMPPaket ab.
+title: "XmpPackage.Keys"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "XmpPackage-Eigenschaft. Gibt die Schlüssel im XMP-Paket zurück"
 type: docs
 weight: 20
 url: /de/net/aspose.psd.xmp/xmppackage/keys/
 ---
+{{< psd/tize >}}
 ## XmpPackage.Keys property
 
-Ruft die Schlüssel im XMP-Paket ab.
+Liest die Schlüssel im XMP-Paket.
 
 ```csharp
 public virtual KeyCollection<string, object> Keys { get; }
 ```
 
-### Eigentumswert
+### Property Value
 
 Die Schlüssel im XMP-Paket.
 
 ### Siehe auch
 
 * class [XmpPackage](../)
-* namensraum [Aspose.PSD.Xmp](../../xmppackage/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

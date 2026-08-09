@@ -1,27 +1,28 @@
 ---
-title: ColorantCmyk.Yellow
-second_title: Aspose.PSD für .NET-API-Referenz
-description: ColorantCmyk eigendom. Ruft den Wert der gelben Komponente ab oder legt ihn fest.
+title: "ColorantCmyk.Yellow"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "ColorantCmyk Eigenschaft. Liest oder setzt den gelben Komponentenwert"
 type: docs
 weight: 50
 url: /de/net/aspose.psd.xmp.types.complex.colorant/colorantcmyk/yellow/
 ---
+{{< psd/tize >}}
 ## ColorantCmyk.Yellow property
 
-Ruft den Wert der gelben Komponente ab oder legt ihn fest.
+Liest oder legt den Gelb‑Komponentenwert fest.
 
 ```csharp
 public float Yellow { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
 Der gelbe Komponentenwert.
 
 ### Siehe auch
 
 * class [ColorantCmyk](../)
-* namensraum [Aspose.PSD.Xmp.Types.Complex.Colorant](../../colorantcmyk/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.Colorant](../../../aspose.psd.xmp.types.complex.colorant/)
+* assembly [Aspose.PSD](../../../)
 
 

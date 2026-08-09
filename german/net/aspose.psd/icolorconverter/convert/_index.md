@@ -1,11 +1,12 @@
 ---
-title: IColorConverter.Convert
-second_title: Aspose.PSD für .NET-API-Referenz
-description: IColorConverter methode. Konvertiert die übergebenen Daten in das Ausgabeformat.
+title: "IColorConverter.Convert"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "IColorConverter-Methode. Konvertiert die übergebenen Daten in das Ausgabeformat"
 type: docs
 weight: 10
 url: /de/net/aspose.psd/icolorconverter/convert/
 ---
+{{< psd/tize >}}
 ## IColorConverter.Convert method
 
 Konvertiert die übergebenen Daten in das Ausgabeformat.
@@ -19,24 +20,24 @@ public int Convert(PixelDataFormat sourceFormat, byte[] data, int offset, int bi
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
 | sourceFormat | PixelDataFormat | Das Quellformat. |
-| data | Byte[] | Die Quelldaten. |
+| Daten | Byte[] | Die Quelldaten. |
 | offset | Int32 | Der Offset in Bytes, an dem das Kopieren der Daten beginnen soll. |
-| bitStart | Int32 | Das Bit beginnt. Beachten Sie, dass dieser Wert kein Byte-ausgerichteter Wert ist, sondern das tatsächliche Bit, an dem das Kopieren beginnen sollte. |
-| samplesCount | Int32 | Die Proben zählen. |
-| linesCount | Int32 | Die Zeilen zählen. |
+| bitStart | Int32 | Der Bit-Start. Hinweis: Dieser Wert ist nicht byte‑ausgerichtet, sondern das tatsächliche Bit, an dem das Kopieren beginnen soll. |
+| samplesCount | Int32 | Die Anzahl der Samples. |
+| linesCount | Int32 | Die Zeilenanzahl. |
 | destFormat | PixelDataFormat | Das Zielformat. |
-| outputData | Byte[] | Die Ausgangsdaten. |
-| outputOffset | Int32 | Der Ausgabe-Offset, an dem das Kopieren der Daten beginnen soll. |
+| outputData | Byte[] | Die Ausgabedaten. |
+| outputOffset | Int32 | Der output offset, bei dem das Kopieren von Daten beginnen soll. |
 
 ### Rückgabewert
 
-Die Anzahl der konvertierten Bytes.
+Die Anzahl konvertierter Bytes.
 
 ### Siehe auch
 
 * class [PixelDataFormat](../../pixeldataformat/)
 * interface [IColorConverter](../)
-* namensraum [Aspose.PSD](../../icolorconverter/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

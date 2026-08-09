@@ -1,65 +1,66 @@
 ---
-title: Class TextureBrush
-second_title: Aspose.PSD für .NET-API-Referenz
-description: Aspose.PSD.Brushes.TextureBrush klas. Jede Eigenschaft derTextureBrush Klasse ist einBrush Objekt das ein Bild verwendet um das Innere einer Form zu füllen. Diese Klasse kann nicht vererbt werden.
+title: "Klasse TextureBrush"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "Aspose.PSD.Brushes.TextureBrush Klasse. Jede Eigenschaft der TextureBrush‑Klasse ist ein Brush‑Objekt, das ein Bild verwendet, um das Innere einer Form zu füllen. Diese Klasse kann nicht abgeleitet werden."
 type: docs
 weight: 210
 url: /de/net/aspose.psd.brushes/texturebrush/
 ---
+{{< psd/tize >}}
 ## TextureBrush class
 
-Jede Eigenschaft der`TextureBrush` Klasse ist ein[`Brush`](../../aspose.psd/brush/) Objekt, das ein Bild verwendet, um das Innere einer Form zu füllen. Diese Klasse kann nicht vererbt werden.
+Jede Eigenschaft der `TextureBrush`‑Klasse ist ein [`Brush`](../../aspose.psd/brush/)‑Objekt, das ein Bild verwendet, um das Innere einer Form zu füllen. Diese Klasse kann nicht abgeleitet werden.
 
 ```csharp
 public sealed class TextureBrush : TransformBrush
 ```
 
-## Konstrukteure
+## Konstruktoren
 
 | Name | Beschreibung |
 | --- | --- |
-| [TextureBrush](texturebrush/#constructor)(Image) | Initialisiert eine neue Instanz von`TextureBrush` Klasse, die das angegebene Bild verwendet. |
-| [TextureBrush](texturebrush/#constructor_1)(Image, Rectangle) | Initialisiert eine neue Instanz von`TextureBrush` Klasse, die das angegebene Bild und das Begrenzungsrechteck verwendet. |
-| [TextureBrush](texturebrush/#constructor_3)(Image, RectangleF) | Initialisiert eine neue Instanz von`TextureBrush` Klasse, die das angegebene Bild und das Begrenzungsrechteck verwendet. |
-| [TextureBrush](texturebrush/#constructor_5)(Image, WrapMode) | Initialisiert eine neue Instanz von`TextureBrush` Klasse, die das angegebene Bild und den Umbruchmodus verwendet. |
-| [TextureBrush](texturebrush/#constructor_2)(Image, Rectangle, ImageAttributes) | Initialisiert eine neue Instanz von`TextureBrush` Klasse, die das angegebene Bild, das Begrenzungsrechteck und die Bildattribute verwendet. |
-| [TextureBrush](texturebrush/#constructor_4)(Image, RectangleF, ImageAttributes) | Initialisiert eine neue Instanz von`TextureBrush` Klasse, die das angegebene Bild, das Begrenzungsrechteck und die Bildattribute verwendet. |
-| [TextureBrush](texturebrush/#constructor_6)(Image, WrapMode, Rectangle) | Initialisiert eine neue Instanz von`TextureBrush`Klasse, die das angegebene Bild, den Umbruchmodus und das Begrenzungsrechteck verwendet. |
-| [TextureBrush](texturebrush/#constructor_7)(Image, WrapMode, RectangleF) | Initialisiert eine neue Instanz von`TextureBrush`Klasse, die das angegebene Bild, den Umbruchmodus und das Begrenzungsrechteck verwendet. |
+| [TextureBrush](texturebrush/#constructor)(Image) | Initialisiert eine neue Instanz der `TextureBrush`‑Klasse, die das angegebene Bild verwendet. |
+| [TextureBrush](texturebrush/#constructor_1)(Image, Rectangle) | Initialisiert eine neue Instanz der `TextureBrush`‑Klasse, die das angegebene Bild und das Begrenzungsrechteck verwendet. |
+| [TextureBrush](texturebrush/#constructor_3)(Image, RectangleF) | Initialisiert eine neue Instanz der `TextureBrush`‑Klasse, die das angegebene Bild und das Begrenzungsrechteck verwendet. |
+| [TextureBrush](texturebrush/#constructor_5)(Image, WrapMode) | Initialisiert eine neue Instanz der `TextureBrush`‑Klasse, die das angegebene Bild und den Wrap‑Modus verwendet. |
+| [TextureBrush](texturebrush/#constructor_2)(Image, Rectangle, ImageAttributes) | Initialisiert eine neue Instanz der `TextureBrush`‑Klasse, die das angegebene Bild, das Begrenzungsrechteck und die Bildeigenschaften verwendet. |
+| [TextureBrush](texturebrush/#constructor_4)(Image, RectangleF, ImageAttributes) | Initialisiert eine neue Instanz der `TextureBrush`‑Klasse, die das angegebene Bild, das Begrenzungsrechteck und die Bildeigenschaften verwendet. |
+| [TextureBrush](texturebrush/#constructor_6)(Image, WrapMode, Rectangle) | Initialisiert eine neue Instanz der `TextureBrush`‑Klasse, die das angegebene Bild, den Wrap‑Modus und das Begrenzungsrechteck verwendet. |
+| [TextureBrush](texturebrush/#constructor_7)(Image, WrapMode, RectangleF) | Initialisiert eine neue Instanz der `TextureBrush`‑Klasse, die das angegebene Bild, den Wrap‑Modus und das Begrenzungsrechteck verwendet. |
 
 ## Eigenschaften
 
 | Name | Beschreibung |
 | --- | --- |
-| [Disposed](../../aspose.psd/disposableobject/disposed/) { get; } | Ruft einen Wert ab, der angibt, ob diese Instanz verworfen wird. |
-| [Image](../../aspose.psd.brushes/texturebrush/image/) { get; } | Ruft die ab[`Image`](../../aspose.psd/image/) damit verbundenes Objekt`TextureBrush` Objekt. |
-| [ImageAttributes](../../aspose.psd.brushes/texturebrush/imageattributes/) { get; } | Ruft die ab[`ImageAttributes`](./imageattributes/) damit verbunden`TextureBrush` . |
-| [ImageRectangle](../../aspose.psd.brushes/texturebrush/imagerectangle/) { get; } | Ruft die ab[`Rectangle`](../../aspose.psd/rectangle/) damit verbunden`TextureBrush` . |
-| [IsTransformChanged](../../aspose.psd.brushes/transformbrush/istransformchanged/) { get; } | Ruft einen Wert ab, der angibt, ob Transformationen auf irgendeine Weise geändert wurden. Zum Beispiel Setzen der Transformationsmatrix oder Aufrufen einer der Methoden, die die Transformationsmatrix ändern. Die Eigenschaft wird aus Gründen der Abwärtskompatibilität mit GDI+ eingeführt. |
-| [Opacity](../../aspose.psd/brush/opacity/) { get; set; } | Ruft die Deckkraft des Pinsels ab oder legt sie fest. Der Wert sollte zwischen 0 und 1 liegen. Der Wert 0 bedeutet, dass der Pinsel vollständig sichtbar ist, der Wert 1 bedeutet, dass der Pinsel vollständig undurchsichtig ist. |
-| [Transform](../../aspose.psd.brushes/transformbrush/transform/) { get; set; } | Ruft eine Kopie ab oder legt sie fest[`Matrix`](../../aspose.psd/matrix/) die dafür eine lokale geometrische Transformation definiert[`TransformBrush`](../transformbrush/) . |
-| [WrapMode](../../aspose.psd.brushes/transformbrush/wrapmode/) { get; set; } | Holt oder setzt a[`WrapMode`](../../aspose.psd/wrapmode/) Enumeration, die den Umbruchmodus dafür angibt[`TransformBrush`](../transformbrush/) . |
+| [Disposed](../../aspose.psd/disposableobject/disposed/) { get; } | Liest einen Wert, der angibt, ob diese Instanz freigegeben wurde. |
+| [Image](../../aspose.psd.brushes/texturebrush/image/) { get; } | Liest das [`Image`](../../aspose.psd/image/)‑Objekt, das mit diesem `TextureBrush`‑Objekt verknüpft ist. |
+| [ImageAttributes](../../aspose.psd.brushes/texturebrush/imageattributes/) { get; } | Ruft die [`ImageAttributes`](./imageattributes/) ab, die mit diesem `TextureBrush` verknüpft ist. |
+| [ImageRectangle](../../aspose.psd.brushes/texturebrush/imagerectangle/) { get; } | Ruft das [`Rectangle`](../../aspose.psd/rectangle/) ab, das mit diesem `TextureBrush` verknüpft ist. |
+| [IsTransformChanged](../../aspose.psd.brushes/transformbrush/istransformchanged/) { get; } | Liest einen Wert, der angibt, ob Transformationen in irgendeiner Weise geändert wurden. Zum Beispiel das Setzen der Transformationsmatrix oder das Aufrufen einer der Methoden, die die Transformationsmatrix verändern. Die Eigenschaft wurde zur Abwärtskompatibilität mit GDI+ eingeführt. |
+| [Opacity](../../aspose.psd/brush/opacity/) { get; set; } | Liest oder setzt die Deckkraft des Pinsels. Der Wert sollte zwischen 0 und 1 liegen. Ein Wert von 0 bedeutet, dass der Pinsel vollständig sichtbar ist, ein Wert von 1 bedeutet, dass der Pinsel vollständig undurchsichtig ist. |
+| [Transform](../../aspose.psd.brushes/transformbrush/transform/) { get; set; } | Liest oder setzt eine Kopie von [`Matrix`](../../aspose.psd/matrix/), die eine lokale geometrische Transformation für diesen [`TransformBrush`](../transformbrush/) definiert. |
+| [WrapMode](../../aspose.psd.brushes/transformbrush/wrapmode/) { get; set; } | Liest oder setzt eine [`WrapMode`](../../aspose.psd/wrapmode/)-Aufzählung, die den Wrap-Modus für diesen [`TransformBrush`](../transformbrush/) angibt. |
 
 ## Methoden
 
 | Name | Beschreibung |
 | --- | --- |
-| virtual [DeepClone](../../aspose.psd/brush/deepclone/)() | Erstellt einen neuen tiefen Klon des aktuellen[`Brush`](../../aspose.psd/brush/) . |
-| [Dispose](../../aspose.psd/disposableobject/dispose/)() | Verwirft die aktuelle Instanz. |
-| [MultiplyTransform](../../aspose.psd.brushes/transformbrush/multiplytransform/)(Matrix) | Multipliziert die[`Matrix`](../../aspose.psd/matrix/) das die lokale geometrische Transformation davon darstellt[`LinearGradientBrush`](../lineargradientbrush/) durch die angegebenen[`Matrix`](../../aspose.psd/matrix/) durch Voranstellen der angegebenen[`Matrix`](../../aspose.psd/matrix/) . |
-| [MultiplyTransform](../../aspose.psd.brushes/transformbrush/multiplytransform/)(Matrix, MatrixOrder) | Multipliziert die[`Matrix`](../../aspose.psd/matrix/) das die lokale geometrische Transformation davon darstellt[`LinearGradientBrush`](../lineargradientbrush/) durch die angegebenen[`Matrix`](../../aspose.psd/matrix/) in der angegebenen Reihenfolge. |
-| [ResetTransform](../../aspose.psd.brushes/transformbrush/resettransform/)() | Setzt die zurück[`Transform`](../transformbrush/transform/) Eigentum an Identität. |
-| [RotateTransform](../../aspose.psd.brushes/transformbrush/rotatetransform/)(float) | Dreht die lokale geometrische Transformation um den angegebenen Betrag. Diese Methode stellt die Rotation der Transformation voran. |
-| [RotateTransform](../../aspose.psd.brushes/transformbrush/rotatetransform/)(float, MatrixOrder) | Dreht die lokale geometrische Transformation um den angegebenen Betrag in der angegebenen Reihenfolge. |
-| [ScaleTransform](../../aspose.psd.brushes/transformbrush/scaletransform/)(float, float) | Skaliert die lokale geometrische Transformation um die angegebenen Beträge. Diese Methode stellt der Transformation die Skalierungsmatrix voran. |
-| [ScaleTransform](../../aspose.psd.brushes/transformbrush/scaletransform/)(float, float, MatrixOrder) | Skaliert die lokale geometrische Transformation um die angegebenen Beträge in der angegebenen Reihenfolge. |
-| [TranslateTransform](../../aspose.psd.brushes/transformbrush/translatetransform/)(float, float) | Verschiebt die lokale geometrische Transformation um die angegebenen Abmessungen. Diese Methode stellt die Übersetzung der Transformation voran. |
-| [TranslateTransform](../../aspose.psd.brushes/transformbrush/translatetransform/)(float, float, MatrixOrder) | Verschiebt die lokale geometrische Transformation um die angegebenen Dimensionen in der angegebenen Reihenfolge. |
+| virtual [DeepClone](../../aspose.psd/brush/deepclone/)() | Erstellt einen neuen Deep-Clone des aktuellen [`Brush`](../../aspose.psd/brush/). |
+| [Dispose](../../aspose.psd/disposableobject/dispose/)() | Gibt die aktuelle Instanz frei. |
+| [MultiplyTransform](../../aspose.psd.brushes/transformbrush/multiplytransform/)(Matrix) | Multipliziert die [`Matrix`](../../aspose.psd/matrix/), die die lokale geometrische Transformation dieses [`LinearGradientBrush`](../lineargradientbrush/) darstellt, mit der angegebenen [`Matrix`](../../aspose.psd/matrix/), indem die angegebene [`Matrix`](../../aspose.psd/matrix/) vorangestellt wird. |
+| [MultiplyTransform](../../aspose.psd.brushes/transformbrush/multiplytransform/)(Matrix, MatrixOrder) | Multipliziert die [`Matrix`](../../aspose.psd/matrix/), die die lokale geometrische Transformation dieses [`LinearGradientBrush`](../lineargradientbrush/) darstellt, mit der angegebenen [`Matrix`](../../aspose.psd/matrix/) in der angegebenen Reihenfolge. |
+| [ResetTransform](../../aspose.psd.brushes/transformbrush/resettransform/)() | Setzt die [`Transform`](../transformbrush/transform/)-Eigenschaft auf die Identität zurück. |
+| [RotateTransform](../../aspose.psd.brushes/transformbrush/rotatetransform/)(float) | Rotiert die lokale geometrische Transformation um den angegebenen Betrag. Diese Methode stellt die Rotation vor die Transformation. |
+| [RotateTransform](../../aspose.psd.brushes/transformbrush/rotatetransform/)(float, MatrixOrder) | Rotiert die lokale geometrische Transformation um den angegebenen Betrag in der angegebenen Reihenfolge. |
+| [ScaleTransform](../../aspose.psd.brushes/transformbrush/scaletransform/)(float, float) | Skaliert die lokale geometrische Transformation um die angegebenen Werte. Diese Methode stellt die Skalierungs-Matrix vor die Transformation. |
+| [ScaleTransform](../../aspose.psd.brushes/transformbrush/scaletransform/)(float, float, MatrixOrder) | Skaliert die lokale geometrische Transformation um die angegebenen Werte in der angegebenen Reihenfolge. |
+| [TranslateTransform](../../aspose.psd.brushes/transformbrush/translatetransform/)(float, float) | Übersetzt die lokale geometrische Transformation um die angegebenen Dimensionen. Diese Methode fügt die Translation am Anfang der Transformation ein. |
+| [TranslateTransform](../../aspose.psd.brushes/transformbrush/translatetransform/)(float, float, MatrixOrder) | Übersetzt die lokale geometrische Transformation um die angegebenen Dimensionen in der angegebenen Reihenfolge. |
 
 ### Siehe auch
 
 * class [TransformBrush](../transformbrush/)
-* namensraum [Aspose.PSD.Brushes](../../aspose.psd.brushes/)
-* Montage [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Brushes](../../aspose.psd.brushes/)
+* assembly [Aspose.PSD](../../)
 
 

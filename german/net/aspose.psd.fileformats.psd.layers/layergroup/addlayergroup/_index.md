@@ -1,11 +1,12 @@
 ---
-title: LayerGroup.AddLayerGroup
-second_title: Aspose.PSD für .NET-API-Referenz
-description: LayerGroup methode. Fügt die Ebenengruppe hinzu.
+title: "LayerGroup.AddLayerGroup"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "LayerGroup Methode. Fügt die Ebenengruppe hinzu."
 type: docs
 weight: 70
 url: /de/net/aspose.psd.fileformats.psd.layers/layergroup/addlayergroup/
 ---
+{{< psd/tize >}}
 ## LayerGroup.AddLayerGroup method
 
 Fügt die Ebenengruppe hinzu.
@@ -21,24 +22,24 @@ public LayerGroup AddLayerGroup(string groupName, int index)
 
 ### Rückgabewert
 
-Gruppenebene öffnen
+Öffnen der Gruppenebene
 
-### Beispiele
+## Beispiele
 
-Das folgende Beispiel zeigt das Hinzufügen von LayerGroup zu einer anderen LayerGroup.
+Das folgende Beispiel demonstriert das Hinzufügen von LayerGroup in eine andere LayerGroup.
 
 ```csharp
 [C#]
 
 string sourceFileName = "psdnet190_test.psd";
 
-// Ebenenhierarchie wie folgt erstellen:
+// Erstellen einer Ebenenhierarchie wie folgt:
 // -Gruppe 1
 // --Ebene 1
 // --Gruppe 2
-// ---Schicht 2
-// ---Schicht 3
-// --Schicht 4
+// ---Ebene 2
+// ---Ebene 3
+// --Ebene 4
 
 var createOptions = new PsdOptions();
 createOptions.Source = new FileCreateSource(sourceFileName, false);
@@ -73,7 +74,7 @@ using (var psdImage = (PsdImage)Image.Create(createOptions, 500, 500))
 ### Siehe auch
 
 * class [LayerGroup](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers](../../layergroup/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

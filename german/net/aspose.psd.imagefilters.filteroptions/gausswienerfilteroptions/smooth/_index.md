@@ -1,27 +1,28 @@
 ---
-title: GaussWienerFilterOptions.Smooth
-second_title: Aspose.PSD für .NET-API-Referenz
-description: GaussWienerFilterOptions eigendom. Ruft die Glättung ab oder legt sie fest.
+title: "GaussWienerFilterOptions.Smooth"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "GaussWienerFilterOptions-Eigenschaft. Liest oder setzt die Glättung."
 type: docs
 weight: 30
 url: /de/net/aspose.psd.imagefilters.filteroptions/gausswienerfilteroptions/smooth/
 ---
+{{< psd/tize >}}
 ## GaussWienerFilterOptions.Smooth property
 
-Ruft die Glättung ab oder legt sie fest.
+Liest oder setzt die Glättung.
 
 ```csharp
 public double Smooth { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
-Der Glatte.
+Das Glatte.
 
 ### Siehe auch
 
 * class [GaussWienerFilterOptions](../)
-* namensraum [Aspose.PSD.ImageFilters.FilterOptions](../../gausswienerfilteroptions/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageFilters.FilterOptions](../../../aspose.psd.imagefilters.filteroptions/)
+* assembly [Aspose.PSD](../../../)
 
 

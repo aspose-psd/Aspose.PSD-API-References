@@ -1,14 +1,15 @@
 ---
-title: BritResource.BritResource
-second_title: Aspose.PSD für .NET-API-Referenz
-description: BritResource constructeur. Initialisiert eine neue Instanz vonBritResource Klasse.
+title: "BritResource.BritResource"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "BritResource-Konstruktor. Initialisiert eine neue Instanz der BritResource-Klasse"
 type: docs
 weight: 10
 url: /de/net/aspose.psd.fileformats.psd.layers.layerresources/britresource/britresource/
 ---
+{{< psd/tize >}}
 ## BritResource() {#constructor}
 
-Initialisiert eine neue Instanz von[`BritResource`](../) Klasse.
+Initialisiert eine neue Instanz der [`BritResource`](../)-Klasse.
 
 ```csharp
 public BritResource()
@@ -17,14 +18,14 @@ public BritResource()
 ### Siehe auch
 
 * class [BritResource](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../britresource/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## BritResource(short, short, short, bool) {#constructor_2}
 
-Initialisiert eine neue Instanz von[`BritResource`](../) Klasse.
+Initialisiert eine neue Instanz der [`BritResource`](../)-Klasse.
 
 ```csharp
 public BritResource(short brightness, short contrast, short meanValueForBrightnessAndContrast, 
@@ -33,22 +34,22 @@ public BritResource(short brightness, short contrast, short meanValueForBrightne
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| brightness | Int16 | Die Helligkeit. |
-| contrast | Int16 | Der Kontrast. |
+| Helligkeit | Int16 | Die Helligkeit. |
+| Kontrast | Int16 | Der Kontrast. |
 | meanValueForBrightnessAndContrast | Int16 | Der Mittelwert für Helligkeit und Kontrast. |
-| labColor | Boolean | wenn eingestellt`WAHR` [Laborfarbe]. |
+| labColor | Boolean | wenn auf `true` gesetzt [lab color]. |
 
 ### Siehe auch
 
 * class [BritResource](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../britresource/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## BritResource(byte[]) {#constructor_1}
 
-Initialisiert eine neue Instanz von[`BritResource`](../)class. Die PSD-Formatspezifikation enthält folgende Beschreibung: 2 Helligkeit 2 Kontrast 2 Mittelwert für Helligkeit und Kontrast 1 Nur Lab-Farbe Wird in modernen PSDs (CS5 und höher) nicht verwendet, wo CgEd ist. CgEd speichert Informationen properties
+Initialisiert eine neue Instanz der [`BritResource`](../)-Klasse. Die PSD-Format-Spezifikation enthält folgende Beschreibung: 2 Helligkeit 2 Kontrast 2 Mittelwert für Helligkeit und Kontrast 1 Nur Lab-Farbe. Sie wird in modernen PSDs (CS5 und höher) nicht verwendet, wo CgEd zum Einsatz kommt. CgEd speichert Info‑Eigenschaften.
 
 ```csharp
 public BritResource(byte[] bytes)
@@ -56,12 +57,12 @@ public BritResource(byte[] bytes)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| bytes | Byte[] | Die Bytes. |
+| Bytes | Byte[] | Die Bytes. |
 
 ### Siehe auch
 
 * class [BritResource](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../britresource/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

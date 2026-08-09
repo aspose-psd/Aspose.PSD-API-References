@@ -1,11 +1,12 @@
 ---
-title: Class LoadOptions
-second_title: Aspose.PSD für .NET-API-Referenz
-description: Aspose.PSD.LoadOptions klas. Stellt die Ladeoptionen dar.
+title: "Klasse LoadOptions"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "Aspose.PSD.LoadOptions Klasse. Repräsentiert die Ladeoptionen"
 type: docs
-weight: 5080
+weight: 5570
 url: /de/net/aspose.psd/loadoptions/
 ---
+{{< psd/tize >}}
 ## LoadOptions class
 
 Stellt die Ladeoptionen dar.
@@ -14,25 +15,25 @@ Stellt die Ladeoptionen dar.
 public class LoadOptions
 ```
 
-## Konstrukteure
+## Konstruktoren
 
 | Name | Beschreibung |
 | --- | --- |
-| [LoadOptions](loadoptions/)() | Default_Constructor |
+| [LoadOptions](loadoptions/)() | Der Standardkonstruktor. |
 
 ## Eigenschaften
 
 | Name | Beschreibung |
 | --- | --- |
-| [BufferSizeHint](../../aspose.psd/loadoptions/buffersizehint/) { get; set; } | Ruft den Puffergrößenhinweis ab oder legt ihn fest, der als maximal zulässige Größe für alle internen Puffer definiert ist. |
-| [DataBackgroundColor](../../aspose.psd/loadoptions/databackgroundcolor/) { get; set; } | Ruft ab oder setzt die[`Image`](../image/) Hintergrund[`Color`](../color/) . |
-| [DataRecoveryMode](../../aspose.psd/loadoptions/datarecoverymode/) { get; set; } | Ruft den Datenwiederherstellungsmodus ab oder legt ihn fest. |
-| [ProgressEventHandler](../../aspose.psd/loadoptions/progresseventhandler/) { get; set; } | Ruft den Fortschrittsereignishandler ab oder legt ihn fest. |
-| [UseIccProfileConversion](../../aspose.psd/loadoptions/useiccprofileconversion/) { get; set; } | Ruft einen Wert ab oder legt einen Wert fest, der angibt, ob die ICC-Profilkonvertierung angewendet werden soll. |
+| [BufferSizeHint](../../aspose.psd/loadoptions/buffersizehint/) { get; set; } | Liest oder setzt den Hinweis zur Puffergröße, der die maximal zulässige Größe für alle internen Puffer definiert. |
+| [DataBackgroundColor](../../aspose.psd/loadoptions/databackgroundcolor/) { get; set; } | Liest oder setzt den Hintergrund [`Image`](../image/) [`Color`](../color/). |
+| [DataRecoveryMode](../../aspose.psd/loadoptions/datarecoverymode/) { get; set; } | Liest oder setzt den Datenwiederherstellungsmodus. |
+| [ProgressEventHandler](../../aspose.psd/loadoptions/progresseventhandler/) { get; set; } | Liest oder setzt den Fortschritts-Event-Handler. |
+| [UseIccProfileConversion](../../aspose.psd/loadoptions/useiccprofileconversion/) { get; set; } | Liest oder setzt einen Wert, der angibt, ob die ICC-Profilkonvertierung angewendet werden soll. |
 
 ### Siehe auch
 
-* namensraum [Aspose.PSD](../../aspose.psd/)
-* Montage [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

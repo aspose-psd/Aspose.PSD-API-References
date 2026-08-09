@@ -1,14 +1,15 @@
 ---
-title: RectangleF.Height
-second_title: Aspose.PSD für .NET-API-Referenz
-description: RectangleF eigendom. Holt oder setzt die Höhe davonRectangleFStruktur.
+title: "RectangleF.Height"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "RectangleF-Eigenschaft. Gibt die Höhe dieser RectangleF-Struktur zurück oder setzt sie."
 type: docs
 weight: 90
 url: /de/net/aspose.psd/rectanglef/height/
 ---
+{{< psd/tize >}}
 ## RectangleF.Height property
 
-Holt oder setzt die Höhe davon[`RectangleF`](../)Struktur.
+Liest oder setzt die Höhe dieser [`RectangleF`](../)-Struktur.
 
 ```csharp
 public float Height { get; set; }
@@ -16,12 +17,12 @@ public float Height { get; set; }
 
 ### Rückgabewert
 
-Die Höhe davon[`RectangleF`](../) Struktur.
+Die Höhe dieser [`RectangleF`](../)-Struktur.
 
 ### Siehe auch
 
 * struct [RectangleF](../)
-* namensraum [Aspose.PSD](../../rectanglef/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

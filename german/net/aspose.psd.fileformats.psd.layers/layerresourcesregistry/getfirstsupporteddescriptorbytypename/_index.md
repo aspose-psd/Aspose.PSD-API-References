@@ -1,14 +1,15 @@
 ---
-title: LayerResourcesRegistry.GetFirstSupportedDescriptorByTypeName
-second_title: Aspose.PSD für .NET-API-Referenz
-description: LayerResourcesRegistry methode. Ruft den ersten unterstützten Deskriptor anhand seines Typnamens ab.
+title: "LayerResourcesRegistry.GetFirstSupportedDescriptorByTypeName"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "LayerResourcesRegistry-Methode. Gibt den ersten unterstützten Deskriptor anhand seines Typnamens zurück"
 type: docs
 weight: 30
 url: /de/net/aspose.psd.fileformats.psd.layers/layerresourcesregistry/getfirstsupporteddescriptorbytypename/
 ---
+{{< psd/tize >}}
 ## LayerResourcesRegistry.GetFirstSupportedDescriptorByTypeName method
 
-Ruft den ersten unterstützten Deskriptor anhand seines Typnamens ab.
+Ermittelt den ersten unterstützten Deskriptor anhand seines Typnamens.
 
 ```csharp
 public static ILayerResourceLoader GetFirstSupportedDescriptorByTypeName(string descriptorTypeName)
@@ -16,21 +17,21 @@ public static ILayerResourceLoader GetFirstSupportedDescriptorByTypeName(string 
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| descriptorTypeName | String | Der Name des Deskriptortyps. |
+| descriptorTypeName | String | Der Deskriptortyp-Name. |
 
 ### Rückgabewert
 
-Der erste gefundene Opener-Deskriptor oder null, wenn kein solcher Deskriptor gefunden wird.
+Der zuerst gefundene Öffner-Deskriptor oder null, wenn ein solcher Deskriptor nicht gefunden wird.
 
-### Bemerkungen
+## Hinweise
 
-Der erste Öffner-Deskriptor wird tatsächlich der letzte registrierte sein.
+Der erste Öffner-Deskriptor ist tatsächlich der zuletzt registrierte.
 
 ### Siehe auch
 
 * interface [ILayerResourceLoader](../../ilayerresourceloader/)
 * class [LayerResourcesRegistry](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers](../../layerresourcesregistry/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

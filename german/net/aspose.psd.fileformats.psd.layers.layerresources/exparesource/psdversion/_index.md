@@ -1,14 +1,15 @@
 ---
-title: ExpaResource.PsdVersion
-second_title: Aspose.PSD für .NET-API-Referenz
-description: ExpaResource eigendom. Ruft die PSDVersion ab.
+title: "ExpaResource.PsdVersion"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "ExpaResource-Eigenschaft. Gibt die PSD-Version zurück"
 type: docs
 weight: 70
 url: /de/net/aspose.psd.fileformats.psd.layers.layerresources/exparesource/psdversion/
 ---
+{{< psd/tize >}}
 ## ExpaResource.PsdVersion property
 
-Ruft die PSD-Version ab.
+Gibt die PSD-Version zurück.
 
 ```csharp
 public override int PsdVersion { get; }
@@ -17,7 +18,7 @@ public override int PsdVersion { get; }
 ### Siehe auch
 
 * class [ExpaResource](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../exparesource/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

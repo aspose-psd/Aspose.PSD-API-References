@@ -1,22 +1,23 @@
 ---
-title: Lnk3Resource.TypeToolKey
-second_title: Aspose.PSD für .NET-API-Referenz
-description: Lnk3Resource veld. Der TypToolInfoSchlüssel.
+title: "Lnk3Resource.TypeToolKey"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "Lnk3Resource-Feld. Der Typ-Tool-Info-Schlüssel"
 type: docs
-weight: 30
+weight: 20
 url: /de/net/aspose.psd.fileformats.psd.layers.layerresources/lnk3resource/typetoolkey/
 ---
+{{< psd/tize >}}
 ## Lnk3Resource.TypeToolKey field
 
-Der Typ-Tool-Info-Schlüssel.
+Der Typwerkzeug-Info-Schlüssel.
 
 ```csharp
 public const int TypeToolKey;
 ```
 
-### Beispiele
+## Beispiele
 
-Dieses Beispiel zeigt, wie Eigenschaften von Lnk2Resource und Lnk3Resource abgerufen und festgelegt werden.
+Dieses Beispiel demonstriert, wie man Eigenschaften von Lnk2Resource und Lnk3Resource abruft und setzt.
 
 ```csharp
 [C#]
@@ -31,90 +32,90 @@ void AssertAreEqual(object expected, object actual)
 
 object[] Lnk2ResourceSupportCases = new object[]
 {
-new object[]
-{
-    "00af34a0-a90b-674d-a821-73ee508c5479",
-    "rgb8_2x2.png",
-    "png",
-    string.Empty,
-    0x53,
-    0d,
-    string.Empty,
-    7,
-    true,
-    0x124L,
-    0x74cL
-}
+    new object[]
+    {
+        "00af34a0-a90b-674d-a821-73ee508c5479",
+        "rgb8_2x2.png",
+        "png",
+        string.Empty,
+        0x53,
+        0d,
+        string.Empty,
+        7,
+        true,
+        0x124L,
+        0x74cL
+    }
 };
 
 object[] LayeredLnk2ResourceSupportCases = new object[]
 {
-new object[]
-{
-    "69ac1c0d-1b74-fd49-9c7e-34a7aa6299ef",
-    "huset.jpg",
-    "JPEG",
-    string.Empty,
-    0x9d46,
-    0d,
-    "xmp.did:0F94B342065B11E395B1FD506DED6B07",
-    7,
-    true,
-    0x9E60L,
-    0xc60cL
-},
-new object[]
-{
-    "5a7d1965-0eae-b24e-a82f-98c7646424c2",
-    "panama-papers.jpg",
-    "JPEG",
-    string.Empty,
-    0xF56B,
-    0d,
-    "xmp.did:BDE940CBF51B11E59D759CDA690663E3",
-    7,
-    true,
-    0xF694L,
-    0x10dd4L
-},
+    new object[]
+    {
+        "69ac1c0d-1b74-fd49-9c7e-34a7aa6299ef",
+        "huset.jpg",
+        "JPEG",
+        string.Empty,
+        0x9d46,
+        0d,
+        "xmp.did:0F94B342065B11E395B1FD506DED6B07",
+        7,
+        true,
+        0x9E60L,
+        0xc60cL
+    },
+    new object[]
+    {
+        "5a7d1965-0eae-b24e-a82f-98c7646424c2",
+        "panama-papers.jpg",
+        "JPEG",
+        string.Empty,
+        0xF56B,
+        0d,
+        "xmp.did:BDE940CBF51B11E59D759CDA690663E3",
+        7,
+        true,
+        0xF694L,
+        0x10dd4L
+    },
 };
 
 object[] LayeredLnk3ResourceSupportCases = new object[]
 {
-new object[]
-{
-    "2fd7ba52-0221-de4c-bdc4-1210580c6caa",
-    "panama-papers.jpg",
-    "JPEG",
-    string.Empty,
-    0xF56B,
-    0d,
-    "xmp.did:BDE940CBF51B11E59D759CDA690663E3",
-    7,
-    true,
-    0xF694l,
-    0x10dd4L
-},
-new object[]
-{
-    "372d52eb-5825-8743-81a7-b6f32d51323d",
-    "huset.jpg",
-    "JPEG",
-    string.Empty,
-    0x9d46,
-    0d,
-    "xmp.did:0F94B342065B11E395B1FD506DED6B07",
-    7,
-    true,
-    0x9E60L,
-    0xc60cL
-},
+    new object[]
+    {
+        "2fd7ba52-0221-de4c-bdc4-1210580c6caa",
+        "panama-papers.jpg",
+        "JPEG",
+        string.Empty,
+        0xF56B,
+        0d,
+        "xmp.did:BDE940CBF51B11E59D759CDA690663E3",
+        7,
+        true,
+        0xF694l,
+        0x10dd4L
+    },
+    new object[]
+    {
+        "372d52eb-5825-8743-81a7-b6f32d51323d",
+        "huset.jpg",
+        "JPEG",
+        string.Empty,
+        0x9d46,
+        0d,
+        "xmp.did:0F94B342065B11E395B1FD506DED6B07",
+        7,
+        true,
+        0x9E60L,
+        0xc60cL
+    },
 };
 
 var basePath = "" + Path.DirectorySeparatorChar;
 string Output = "output" + Path.DirectorySeparatorChar;
 
-// Speichert die Daten eines Smart-Objekts in einer PSD-Datei in einer Datei.
+// Speichert die Daten eines Smart Objects in einer PSD-Datei in eine Datei.
 void SaveSmartObjectData(string prefix, string fileName, byte[] data)
 {
     var filePath = basePath + prefix + "_" + fileName;
@@ -125,7 +126,7 @@ void SaveSmartObjectData(string prefix, string fileName, byte[] data)
     }
 }
 
-// Lädt die neuen Daten für ein Smart-Objekt in die PSD-Datei.
+// Lädt die neuen Daten für ein Smart Object in einer PSD-Datei.
 byte[] LoadNewData(string fileName)
 {
     using (var container = FileStreamContainer.OpenFileStream(basePath + fileName))
@@ -134,7 +135,7 @@ byte[] LoadNewData(string fileName)
     }
 }
 
-// Ruft Eigenschaften der PSD-Lnk2-/Lnk3-Ressource und ihrer liFD-Datenquellen im PSD-Bild ab und legt sie fest
+// Liest und schreibt Eigenschaften der PSD Lnk2 / Lnk3 Ressource und ihrer liFD-Datenquellen im PSD-Bild.
 void ExampleOfLnk2ResourceSupport(
     string fileName,
     int dataSourceCount,
@@ -196,27 +197,27 @@ void ExampleOfLnk2ResourceSupport(
         }
 
         AssertAreEqual(true, lnk2Resource != null);
-        if (image.BitsPerChannel < 32) // Speichern mit 32 Bit pro Kanal wird noch nicht unterstützt
+        if (image.BitsPerChannel < 32) // 32 bit per channel saving is not supported yet
         {
             image.Save(basePath + Output + fileName, new PsdOptions(image));
         }
     }
 }
 
-// Dieses Beispiel zeigt, wie die Eigenschaften der PSD-Lnk2-Ressource und ihrer liFD-Datenquellen für 8 Bit pro Kanal abgerufen und festgelegt werden.
+// Dieses Beispiel demonstriert, wie man Eigenschaften der PSD Lnk2 Ressource und ihrer liFD-Datenquellen für 8‑Bit pro Kanal abruft und festlegt.
 ExampleOfLnk2ResourceSupport("rgb8_2x2_embedded_png.psd", 1, 0x12C, 0x0000079c, Lnk2ResourceSupportCases);
 
-// Dieses Beispiel zeigt, wie die Eigenschaften der PSD-Lnk3-Ressource und ihrer liFD-Datenquellen für 32 Bit pro Kanal abgerufen und festgelegt werden.
+// Dieses Beispiel demonstriert, wie man Eigenschaften der PSD Lnk3 Ressource und ihrer liFD-Datenquellen für 32‑Bit pro Kanal abruft und festlegt.
 ExampleOfLnk2ResourceSupport("Layered PSD file smart objects.psd", 2, 0x19504, 0x0001d3e0, LayeredLnk3ResourceSupportCases);
 
-// Dieses Beispiel zeigt, wie die Eigenschaften der PSD-Lnk2-Ressource und ihrer liFD-Datenquellen für 16 Bit pro Kanal abgerufen und festgelegt werden.
+// Dieses Beispiel demonstriert, wie man Eigenschaften der PSD Lnk2 Ressource und ihrer liFD-Datenquellen für 16‑Bit pro Kanal abruft und festlegt.
 ExampleOfLnk2ResourceSupport("LayeredSmartObjects16bit.psd", 2, 0x19504, 0x0001d3e0, LayeredLnk2ResourceSupportCases);
 ```
 
 ### Siehe auch
 
 * class [Lnk3Resource](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../lnk3resource/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

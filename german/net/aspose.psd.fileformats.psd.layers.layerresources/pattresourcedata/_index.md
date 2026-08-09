@@ -1,48 +1,49 @@
 ---
-title: Class PattResourceData
-second_title: Aspose.PSD für .NET-API-Referenz
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.PattResourceData klas. Die Klasse zum Speichern der MusterdatenPattResource Ressource.
+title: "Klasse PattResourceData"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "Aspose.PSD.FileFormats.Psd.Layers.LayerResources.PattResourceData Klasse. Die Klasse zum Speichern der Musterdaten für die PattResource-Ressource."
 type: docs
-weight: 2880
+weight: 3230
 url: /de/net/aspose.psd.fileformats.psd.layers.layerresources/pattresourcedata/
 ---
+{{< psd/tize >}}
 ## PattResourceData class
 
-Die Klasse zum Speichern der Musterdaten[`PattResource`](../pattresource/) Ressource.
+Die Klasse zum Speichern der Musterdaten für die [`PattResource`](../pattresource/) Ressource.
 
 ```csharp
 public sealed class PattResourceData
 ```
 
-## Konstrukteure
+## Konstruktoren
 
 | Name | Beschreibung |
 | --- | --- |
-| [PattResourceData](pattresourcedata/)() | Default_Constructor |
+| [PattResourceData](pattresourcedata/)() | Der Standardkonstruktor. |
 
 ## Eigenschaften
 
 | Name | Beschreibung |
 | --- | --- |
-| [Height](../../aspose.psd.fileformats.psd.layers.layerresources/pattresourcedata/height/) { get; } | Ruft die Höhe ab. |
-| [ImageMode](../../aspose.psd.fileformats.psd.layers.layerresources/pattresourcedata/imagemode/) { get; } | Ruft den Bildmodus ab. |
-| [Length](../../aspose.psd.fileformats.psd.layers.layerresources/pattresourcedata/length/) { get; } | Ruft die Länge des Musters ab. |
-| [Name](../../aspose.psd.fileformats.psd.layers.layerresources/pattresourcedata/name/) { get; set; } | Ruft den Namen ab oder legt ihn fest. |
-| [PatternData](../../aspose.psd.fileformats.psd.layers.layerresources/pattresourcedata/patterndata/) { get; } | Ruft die Musterdaten ab. |
-| [PatternId](../../aspose.psd.fileformats.psd.layers.layerresources/pattresourcedata/patternid/) { get; set; } | Ruft die Musterkennung ab oder legt sie fest. |
-| [Version](../../aspose.psd.fileformats.psd.layers.layerresources/pattresourcedata/version/) { get; } | Ruft die Version ab. |
-| [Width](../../aspose.psd.fileformats.psd.layers.layerresources/pattresourcedata/width/) { get; } | Ruft die Breite ab. |
+| [Height](../../aspose.psd.fileformats.psd.layers.layerresources/pattresourcedata/height/) { get; } | Gibt die Höhe zurück. |
+| [ImageMode](../../aspose.psd.fileformats.psd.layers.layerresources/pattresourcedata/imagemode/) { get; } | Liest den Bildmodus. |
+| [Length](../../aspose.psd.fileformats.psd.layers.layerresources/pattresourcedata/length/) { get; } | Liest die Länge des Musters. |
+| [Name](../../aspose.psd.fileformats.psd.layers.layerresources/pattresourcedata/name/) { get; set; } | Liest oder setzt den Namen. |
+| [PatternData](../../aspose.psd.fileformats.psd.layers.layerresources/pattresourcedata/patterndata/) { get; } | Liest die Musterdaten. |
+| [PatternId](../../aspose.psd.fileformats.psd.layers.layerresources/pattresourcedata/patternid/) { get; set; } | Liest oder setzt die Musterkennung. |
+| [Version](../../aspose.psd.fileformats.psd.layers.layerresources/pattresourcedata/version/) { get; } | Liest die Version. |
+| [Width](../../aspose.psd.fileformats.psd.layers.layerresources/pattresourcedata/width/) { get; } | Gibt die Breite zurück. |
 
 ## Methoden
 
 | Name | Beschreibung |
 | --- | --- |
 | [Save](../../aspose.psd.fileformats.psd.layers.layerresources/pattresourcedata/save/)(StreamContainer) | Speichert die Musterdaten. |
-| [SetPattern](../../aspose.psd.fileformats.psd.layers.layerresources/pattresourcedata/setpattern/)(int[], Rectangle) | Legt das Muster fest. |
+| [SetPattern](../../aspose.psd.fileformats.psd.layers.layerresources/pattresourcedata/setpattern/)(int[], Rectangle) | Setzt den Pixelpuffer des Musters und die Zielgröße, aktualisiert [`Width`](./width/) / [`Height`](./height/), und speichert die Daten zum Sichern unter Verwendung des Standard-Komprimierungsmodus (0). |
 
 ### Siehe auch
 
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
-* Montage [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../)
 
 

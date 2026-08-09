@@ -1,11 +1,12 @@
 ---
-title: BuildVersionInfo.ReleaseDate
-second_title: Aspose.PSD für .NET-API-Referenz
-description: BuildVersionInfo veld. Das Veröffentlichungsdatum des Produkts.
+title: "BuildVersionInfo.ReleaseDate"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "BuildVersionInfo-Feld. Das Produktveröffentlichungsdatum"
 type: docs
 weight: 60
 url: /de/net/aspose.psd/buildversioninfo/releasedate/
 ---
+{{< psd/tize >}}
 ## BuildVersionInfo.ReleaseDate field
 
 Das Veröffentlichungsdatum des Produkts.
@@ -17,7 +18,7 @@ public static readonly DateTime ReleaseDate;
 ### Siehe auch
 
 * class [BuildVersionInfo](../)
-* namensraum [Aspose.PSD](../../buildversioninfo/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

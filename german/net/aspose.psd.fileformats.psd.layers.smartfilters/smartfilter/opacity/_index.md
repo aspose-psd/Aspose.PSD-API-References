@@ -1,14 +1,15 @@
 ---
-title: SmartFilter.Opacity
-second_title: Aspose.PSD für .NET-API-Referenz
-description: SmartFilter eigendom. Ruft den Deckkraftwert des Smartfilters ab oder legt ihn fest.
+title: "SmartFilter.Opacity"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "SmartFilter-Eigenschaft. Gibt den Deckkraftwert des Smart-Filters zurück oder legt ihn fest"
 type: docs
 weight: 60
 url: /de/net/aspose.psd.fileformats.psd.layers.smartfilters/smartfilter/opacity/
 ---
+{{< psd/tize >}}
 ## SmartFilter.Opacity property
 
-Ruft den Deckkraftwert des Smartfilters ab oder legt ihn fest.
+Liefert oder setzt den Deckkraftwert des Smart-Filters.
 
 ```csharp
 public double Opacity { get; set; }
@@ -17,7 +18,7 @@ public double Opacity { get; set; }
 ### Siehe auch
 
 * class [SmartFilter](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.SmartFilters](../../smartfilter/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.SmartFilters](../../../aspose.psd.fileformats.psd.layers.smartfilters/)
+* assembly [Aspose.PSD](../../../)
 
 

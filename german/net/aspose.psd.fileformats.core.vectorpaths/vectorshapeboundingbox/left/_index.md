@@ -1,27 +1,28 @@
 ---
-title: VectorShapeBoundingBox.Left
-second_title: Aspose.PSD für .NET-API-Referenz
-description: VectorShapeBoundingBox eigendom. Ruft die linke Seite ab oder legt sie fest.
+title: "VectorShapeBoundingBox.Left"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "VectorShapeBoundingBox-Eigenschaft. Gibt den linken Wert zurück oder legt ihn fest"
 type: docs
 weight: 40
 url: /de/net/aspose.psd.fileformats.core.vectorpaths/vectorshapeboundingbox/left/
 ---
+{{< psd/tize >}}
 ## VectorShapeBoundingBox.Left property
 
-Ruft die linke Seite ab oder legt sie fest.
+Liest oder legt links fest.
 
 ```csharp
 public double Left { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
 Links.
 
 ### Siehe auch
 
 * class [VectorShapeBoundingBox](../)
-* namensraum [Aspose.PSD.FileFormats.Core.VectorPaths](../../vectorshapeboundingbox/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../../)
 
 

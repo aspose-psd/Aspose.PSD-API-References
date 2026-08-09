@@ -1,28 +1,29 @@
 ---
-title: Class DataMissmatchError
-second_title: Aspose.PSD für .NET-API-Referenz
-description: Aspose.PSD.CoreExceptions.DataMissmatchError klas. DatenkonfliktAusnahmeklasse
+title: "Klasse DataMissmatchError"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "Aspose.PSD.CoreExceptions.DataMissmatchError class. Dateninkonsistenz‑Ausnahmeklasse"
 type: docs
 weight: 470
 url: /de/net/aspose.psd.coreexceptions/datamissmatcherror/
 ---
+{{< psd/tize >}}
 ## DataMissmatchError class
 
-Datenkonflikt-Ausnahmeklasse
+Dateninkonsistenz-Ausnahmeklasse
 
 ```csharp
 public class DataMissmatchError : Exception
 ```
 
-## Konstrukteure
+## Konstruktoren
 
 | Name | Beschreibung |
 | --- | --- |
-| [DataMissmatchError](datamissmatcherror/)(string) | Initialisiert eine neue Instanz von`DataMissmatchError` Klasse. |
+| [DataMissmatchError](datamissmatcherror/)(string) | Initialisiert eine neue Instanz der `DataMissmatchError` class. |
 
 ### Siehe auch
 
-* namensraum [Aspose.PSD.CoreExceptions](../../aspose.psd.coreexceptions/)
-* Montage [Aspose.PSD](../../)
+* namespace [Aspose.PSD.CoreExceptions](../../aspose.psd.coreexceptions/)
+* assembly [Aspose.PSD](../../)
 
 

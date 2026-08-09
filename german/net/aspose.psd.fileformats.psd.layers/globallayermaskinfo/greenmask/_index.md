@@ -1,27 +1,28 @@
 ---
-title: GlobalLayerMaskInfo.GreenMask
-second_title: Aspose.PSD für .NET-API-Referenz
-description: GlobalLayerMaskInfo eigendom. Ruft die grüne Maske ab oder setzt sie.
+title: "GlobalLayerMaskInfo.GreenMask"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "GlobalLayerMaskInfo-Eigenschaft. Gibt die grüne Maske zurück oder legt sie fest"
 type: docs
 weight: 40
 url: /de/net/aspose.psd.fileformats.psd.layers/globallayermaskinfo/greenmask/
 ---
+{{< psd/tize >}}
 ## GlobalLayerMaskInfo.GreenMask property
 
-Ruft die grüne Maske ab oder setzt sie.
+Liest oder setzt die grüne Maske.
 
 ```csharp
 public short GreenMask { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
 Die grüne Maske.
 
 ### Siehe auch
 
 * class [GlobalLayerMaskInfo](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers](../../globallayermaskinfo/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

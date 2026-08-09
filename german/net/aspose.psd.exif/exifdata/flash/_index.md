@@ -1,28 +1,29 @@
 ---
-title: ExifData.Flash
-second_title: Aspose.PSD für .NET-API-Referenz
-description: ExifData eigendom. Ruft den Blitz ab oder stellt ihn ein.
+title: "ExifData.Flash"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "ExifData-Eigenschaft. Ruft den Blitz ab oder legt ihn fest"
 type: docs
 weight: 250
 url: /de/net/aspose.psd.exif/exifdata/flash/
 ---
+{{< psd/tize >}}
 ## ExifData.Flash property
 
-Ruft den Blitz ab oder stellt ihn ein.
+Liest oder setzt den Blitz.
 
 ```csharp
 public ExifFlash Flash { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
-Der Blitz.
+Blitz.
 
 ### Siehe auch
 
 * enum [ExifFlash](../../../aspose.psd.exif.enums/exifflash/)
 * class [ExifData](../)
-* namensraum [Aspose.PSD.Exif](../../exifdata/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

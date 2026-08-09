@@ -1,14 +1,15 @@
 ---
-title: Enum TiffCompressions
-second_title: Aspose.PSD für .NET-API-Referenz
-description: Aspose.PSD.FileFormats.Tiff.Enums.TiffCompressions opsomming. Enthält Komprimierungstypen
+title: "Enum TiffCompressions"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "Aspose.PSD.FileFormats.Tiff.Enums.TiffCompressions enum. Enthält Kompressionstypen"
 type: docs
-weight: 4050
+weight: 4520
 url: /de/net/aspose.psd.fileformats.tiff.enums/tiffcompressions/
 ---
+{{< psd/tize >}}
 ## TiffCompressions enumeration
 
-Enthält Komprimierungstypen
+Enthält Kompressionstypen
 
 ```csharp
 public enum TiffCompressions : ushort
@@ -18,34 +19,34 @@ public enum TiffCompressions : ushort
 
 | Name | Wert | Beschreibung |
 | --- | --- | --- |
-| None | `1` | Dump-Modus. |
-| CcittRle | `2` | CCITT modifizierte Huffman RLE. |
-| CcittFax3 | `3` | CCITT Gruppe 3 Faxcodierung. |
-| CcittFax4 | `4` | CCITT Gruppe 4 Faxcodierung. |
-| Lzw | `5` | Lempel-Ziv &amp; Welch. |
-| Ojpeg | `6` | Original JPEG / JPEG im alten Stil (6.0). |
-| Jpeg | `7` | JPEG DCT-Komprimierung. Eingeführt nach TIFF rev 6.0. |
-| Next | `32766` | Nächstes 2-Bit-RLE. |
-| CcittRleW | `32771` | CCITT RLE. |
-| Packbits | `32773` | Macintosh RLE. |
-| Thunderscan | `32809` | ThunderScan RLE. |
-| It8Ctpad | `32895` | IT8 CT mit Polsterung. Reserviert für ANSI IT8 TIFF/IT. |
+| None | `1` | Dump‑Modus. |
+| CcittRle | `2` | CCITT modifiziertes Huffman‑RLE. |
+| CcittFax3 | `3` | CCITT Group‑3‑Fax‑Kodierung. |
+| CcittFax4 | `4` | CCITT Group‑4‑Fax‑Kodierung. |
+| Lzw | `5` | Lempel‑Ziv &amp; Welch. |
+| Ojpeg | `6` | Original‑JPEG / Alt‑JPEG (6.0). |
+| Jpeg | `7` | JPEG‑DCT‑Kompression. Eingeführt nach TIFF‑Revision 6.0. |
+| Next | `32766` | NeXT‑2‑Bit‑RLE. |
+| CcittRleW | `32771` | CCITT‑RLE. |
+| Packbits | `32773` | Macintosh‑RLE. |
+| Thunderscan | `32809` | ThunderScan‑RLE. |
+| It8Ctpad | `32895` | IT8 CT mit Padding. Reserviert für ANSI IT8 TIFF/IT. |
 | It8Lw | `32896` | IT8 Linework RLE. Reserviert für ANSI IT8 TIFF/IT. |
-| It8Mp | `32897` | IT8 Monochromes Bild. Reserviert für ANSI IT8 TIFF/IT. |
+| It8Mp | `32897` | IT8 Monochrombild. Reserviert für ANSI IT8 TIFF/IT. |
 | It8Bl | `32898` | IT8 Binäre Liniengrafik. Reserviert für ANSI IT8 TIFF/IT. |
-| PixarFilm | `32908` | Pixar kompandierte 10-Bit-LZW. Reserviert für Pixar. |
-| PixarLog | `32909` | Pixar kompandierte 11-Bit-ZIP-Datei. Reserviert für Pixar. |
-| Deflate | `32946` | Komprimierung entleeren. |
-| AdobeDeflate | `8` | Deflate-Komprimierung, wie von Adobe erkannt. |
-| Dcs | `32947` | Kodak DCS-Codierung. Reserviert für Oceana Matrix |
-| Jbig | `34661` | ISO Jpeg groß. |
-| Sgilog | `34676` | SGI Log Leuchtdichte RLE. |
-| Sgilog24 | `34677` | SGI Log 24-bit gepackt. |
+| PixarFilm | `32908` | Pixar komprimiert mit 10‑Bit LZW. Reserviert für Pixar. |
+| PixarLog | `32909` | Pixar komprimiert mit 11‑Bit ZIP. Reserviert für Pixar. |
+| Deflate | `32946` | Deflate-Kompression. |
+| AdobeDeflate | `8` | Deflate-Kompression, wie von Adobe erkannt. |
+| Dcs | `32947` | Kodak DCS‑Kodierung. Reserviert für Oceana Matrix |
+| Jbig | `34661` | ISO JPEG groß. |
+| Sgilog | `34676` | SGI Log Luminanz RLE. |
+| Sgilog24 | `34677` | SGI Log 24‑Bit gepackt. |
 | Jp2000 | `34712` | Leadtools JPEG2000. |
 
 ### Siehe auch
 
-* namensraum [Aspose.PSD.FileFormats.Tiff.Enums](../../aspose.psd.fileformats.tiff.enums/)
-* Montage [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Tiff.Enums](../../aspose.psd.fileformats.tiff.enums/)
+* assembly [Aspose.PSD](../../)
 
 

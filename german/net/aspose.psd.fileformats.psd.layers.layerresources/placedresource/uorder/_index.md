@@ -1,27 +1,28 @@
 ---
-title: PlacedResource.UOrder
-second_title: Aspose.PSD für .NET-API-Referenz
-description: PlacedResource eigendom. Ruft den UOrdnungswert der platzierten Ebene in der PSDDatei ab oder legt ihn fest.
+title: "PlacedResource.UOrder"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "PlacedResource-Eigenschaft. Liest oder setzt den U-Order-Wert der platzierten Ebene in der PSD-Datei"
 type: docs
-weight: 190
+weight: 180
 url: /de/net/aspose.psd.fileformats.psd.layers.layerresources/placedresource/uorder/
 ---
+{{< psd/tize >}}
 ## PlacedResource.UOrder property
 
-Ruft den U-Ordnungswert der platzierten Ebene in der PSD-Datei ab oder legt ihn fest.
+Liest oder legt den U-Ordnungswert der platzierten Ebene in der PSD-Datei fest.
 
 ```csharp
 public int UOrder { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
-Der U-Ordnungswert der platzierten Ebene.
+Der U-Order-Wert der platzierten Ebene.
 
 ### Siehe auch
 
 * class [PlacedResource](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../placedresource/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: LnkeResource.LnkeResource
-second_title: Aspose.PSD für .NET-API-Referenz
-description: LnkeResource constructeur. Initialisiert eine neue Instanz vonLnkeResource Klasse.
+title: "LnkeResource.LnkeResource"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "LnkeResource‑Konstruktor. Initialisiert eine neue Instanz der LnkeResource‑Klasse"
 type: docs
 weight: 10
 url: /de/net/aspose.psd.fileformats.psd.layers.layerresources/lnkeresource/lnkeresource/
 ---
+{{< psd/tize >}}
 ## LnkeResource() {#constructor}
 
-Initialisiert eine neue Instanz von[`LnkeResource`](../) Klasse.
+Initialisiert eine neue Instanz der [`LnkeResource`](../)-Klasse.
 
 ```csharp
 public LnkeResource()
@@ -17,14 +18,14 @@ public LnkeResource()
 ### Siehe auch
 
 * class [LnkeResource](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../lnkeresource/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## LnkeResource(LinkDataSource[]) {#constructor_1}
 
-Initialisiert eine neue Instanz von[`LnkeResource`](../) Klasse.
+Initialisiert eine neue Instanz der [`LnkeResource`](../)-Klasse.
 
 ```csharp
 public LnkeResource(LinkDataSource[] dataSources)
@@ -38,7 +39,7 @@ public LnkeResource(LinkDataSource[] dataSources)
 
 * class [LinkDataSource](../../linkdatasource/)
 * class [LnkeResource](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../lnkeresource/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

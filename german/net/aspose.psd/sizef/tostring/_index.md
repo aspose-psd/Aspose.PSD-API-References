@@ -1,14 +1,15 @@
 ---
-title: SizeF.ToString
-second_title: Aspose.PSD für .NET-API-Referenz
-description: SizeF methode. Erstellt eine für Menschen lesbare Zeichenfolge die dies darstelltSizeF .
+title: "SizeF.ToString"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "SizeF-Methode. Erstellt eine menschenlesbare Zeichenkette, die dieses SizeF darstellt."
 type: docs
 weight: 120
 url: /de/net/aspose.psd/sizef/tostring/
 ---
+{{< psd/tize >}}
 ## SizeF.ToString method
 
-Erstellt eine für Menschen lesbare Zeichenfolge, die dies darstellt[`SizeF`](../) .
+Erstellt eine menschenlesbare Zeichenkette, die dieses [`SizeF`](../) darstellt.
 
 ```csharp
 public override string ToString()
@@ -16,12 +17,12 @@ public override string ToString()
 
 ### Rückgabewert
 
-Eine Zeichenfolge, die dies darstellt[`SizeF`](../).
+Eine Zeichenkette, die dieses [`SizeF`](../) darstellt.
 
 ### Siehe auch
 
 * struct [SizeF](../)
-* namensraum [Aspose.PSD](../../sizef/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

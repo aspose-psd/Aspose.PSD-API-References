@@ -1,14 +1,15 @@
 ---
-title: ExifData.ExifData
-second_title: Aspose.PSD für .NET-API-Referenz
-description: ExifData constructeur. Initialisiert eine neue Instanz vonExifData Klasse.
+title: "ExifData.ExifData"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "ExifData-Konstruktor. Initialisiert eine neue Instanz der ExifData-Klasse"
 type: docs
 weight: 10
 url: /de/net/aspose.psd.exif/exifdata/exifdata/
 ---
+{{< psd/tize >}}
 ## ExifData() {#constructor}
 
-Initialisiert eine neue Instanz von[`ExifData`](../) Klasse.
+Initialisiert eine neue Instanz der [`ExifData`](../)-Klasse.
 
 ```csharp
 public ExifData()
@@ -17,14 +18,14 @@ public ExifData()
 ### Siehe auch
 
 * class [ExifData](../)
-* namensraum [Aspose.PSD.Exif](../../exifdata/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## ExifData(TiffDataType[]) {#constructor_1}
 
-Initialisiert eine neue Instanz von[`ExifData`](../) Klasse mit Daten aus array.
+Initialisiert eine neue Instanz der [`ExifData`](../)-Klasse mit Daten aus einem Array.
 
 ```csharp
 public ExifData(TiffDataType[] exifdata)
@@ -38,14 +39,14 @@ public ExifData(TiffDataType[] exifdata)
 
 * class [TiffDataType](../../../aspose.psd.fileformats.tiff/tiffdatatype/)
 * class [ExifData](../)
-* namensraum [Aspose.PSD.Exif](../../exifdata/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## ExifData(TiffDataType[], TiffDataType[], TiffDataType[]) {#constructor_2}
 
-Initialisiert eine neue Instanz von[`ExifData`](../) Klasse mit Daten aus array.
+Initialisiert eine neue Instanz der [`ExifData`](../)-Klasse mit Daten aus einem Array.
 
 ```csharp
 public ExifData(TiffDataType[] commonTags, TiffDataType[] exifTags, TiffDataType[] gpsTags)
@@ -53,7 +54,7 @@ public ExifData(TiffDataType[] commonTags, TiffDataType[] exifTags, TiffDataType
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| commonTags | TiffDataType[] | Die gemeinsamen Tags. |
+| commonTags | TiffDataType[] | Die allgemeinen Tags. |
 | exifTags | TiffDataType[] | Die EXIF-Tags. |
 | gpsTags | TiffDataType[] | Die GPS-Tags. |
 
@@ -61,7 +62,7 @@ public ExifData(TiffDataType[] commonTags, TiffDataType[] exifTags, TiffDataType
 
 * class [TiffDataType](../../../aspose.psd.fileformats.tiff/tiffdatatype/)
 * class [ExifData](../)
-* namensraum [Aspose.PSD.Exif](../../exifdata/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

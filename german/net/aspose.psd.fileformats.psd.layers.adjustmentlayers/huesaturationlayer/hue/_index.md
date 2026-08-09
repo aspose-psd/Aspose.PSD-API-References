@@ -1,11 +1,12 @@
 ---
-title: HueSaturationLayer.Hue
-second_title: Aspose.PSD für .NET-API-Referenz
-description: HueSaturationLayer eigendom. Ruft den Farbton ab oder legt ihn fest.
+title: "HueSaturationLayer.Hue"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "HueSaturationLayer property. Ruft den Farbton ab oder legt ihn fest"
 type: docs
 weight: 20
 url: /de/net/aspose.psd.fileformats.psd.layers.adjustmentlayers/huesaturationlayer/hue/
 ---
+{{< psd/tize >}}
 ## HueSaturationLayer.Hue property
 
 Ruft den Farbton ab oder legt ihn fest.
@@ -14,7 +15,7 @@ Ruft den Farbton ab oder legt ihn fest.
 public short Hue { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
 Der Farbton.
 
@@ -22,12 +23,12 @@ Der Farbton.
 
 | Ausnahme | Bedingung |
 | --- | --- |
-| ArgumentOutOfRangeException | Der Farbton muss im Bereich von -180 bis +180 liegen |
+| ArgumentOutOfRangeException | Farbton muss im Bereich von -180 bis +180 liegen. |
 
 ### Siehe auch
 
 * class [HueSaturationLayer](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../huesaturationlayer/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: PdfPackage.PdfPackage
-second_title: Aspose.PSD für .NET-API-Referenz
-description: PdfPackage constructeur. Default_Constructor
+title: "PdfPackage.PdfPackage"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "PdfPackage-Konstruktor. Der Standardkonstruktor"
 type: docs
 weight: 10
 url: /de/net/aspose.psd.xmp.schemas.pdf/pdfpackage/pdfpackage/
 ---
+{{< psd/tize >}}
 ## PdfPackage constructor
 
-Default_Constructor
+Der Standardkonstruktor.
 
 ```csharp
 public PdfPackage()
@@ -17,7 +18,7 @@ public PdfPackage()
 ### Siehe auch
 
 * class [PdfPackage](../)
-* namensraum [Aspose.PSD.Xmp.Schemas.Pdf](../../pdfpackage/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.Pdf](../../../aspose.psd.xmp.schemas.pdf/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: DoubleStructure.Length
-second_title: Aspose.PSD für .NET-API-Referenz
-description: DoubleStructure eigendom. Ruft die abOSTypeStructure Länge in Bytes.
+title: "DoubleStructure.Length"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "DoubleStructure Eigenschaft. Liest die OSTypeStructure-Länge in Bytes"
 type: docs
 weight: 30
 url: /de/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/doublestructure/length/
 ---
+{{< psd/tize >}}
 ## DoubleStructure.Length property
 
-Ruft die ab[`OSTypeStructure`](../../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/) Länge in Bytes.
+Gibt die Länge des [`OSTypeStructure`](../../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/) in Bytes zurück.
 
 ```csharp
 public override int Length { get; }
@@ -17,7 +18,7 @@ public override int Length { get; }
 ### Siehe auch
 
 * class [DoubleStructure](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../doublestructure/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 

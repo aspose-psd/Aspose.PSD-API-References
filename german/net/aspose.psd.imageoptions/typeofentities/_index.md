@@ -1,14 +1,15 @@
 ---
-title: Enum TypeOfEntities
-second_title: Aspose.PSD für .NET-API-Referenz
-description: Aspose.PSD.ImageOptions.TypeOfEntities opsomming. Repräsentiert Entitätstypen zum Rendern
+title: "Enum TypeOfEntities"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "Aspose.PSD.ImageOptions.TypeOfEntities enum. Stellt Typen von Entitäten dar, die gerendert werden sollen"
 type: docs
-weight: 4970
+weight: 5460
 url: /de/net/aspose.psd.imageoptions/typeofentities/
 ---
+{{< psd/tize >}}
 ## TypeOfEntities enumeration
 
-Repräsentiert Entitätstypen zum Rendern
+Stellt Typen von zu rendernden Entitäten dar
 
 ```csharp
 public enum TypeOfEntities
@@ -18,12 +19,12 @@ public enum TypeOfEntities
 
 | Name | Wert | Beschreibung |
 | --- | --- | --- |
-| Entities2D | `0` | Rendern von 2D-Objekten |
-| Entities3D | `1` | Rendern von 3D-Objekten |
+| Entities2D | `0` | Rendern von 2D‑Entitäten |
+| Entities3D | `1` | Rendern von 3D‑Entitäten |
 
 ### Siehe auch
 
-* namensraum [Aspose.PSD.ImageOptions](../../aspose.psd.imageoptions/)
-* Montage [Aspose.PSD](../../)
+* namespace [Aspose.PSD.ImageOptions](../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../)
 
 

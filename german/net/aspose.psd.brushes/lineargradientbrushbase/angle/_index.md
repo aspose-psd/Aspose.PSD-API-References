@@ -1,27 +1,28 @@
 ---
-title: LinearGradientBrushBase.Angle
-second_title: Aspose.PSD für .NET-API-Referenz
-description: LinearGradientBrushBase eigendom. Ruft den Steigungswinkel ab oder legt ihn fest.
+title: "LinearGradientBrushBase.Angle"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "LinearGradientBrushBase-Eigenschaft. Ruft den Winkel des Farbverlaufs ab oder legt ihn fest"
 type: docs
 weight: 10
 url: /de/net/aspose.psd.brushes/lineargradientbrushbase/angle/
 ---
+{{< psd/tize >}}
 ## LinearGradientBrushBase.Angle property
 
-Ruft den Steigungswinkel ab oder legt ihn fest.
+Liest oder setzt den Winkel des Farbverlaufs.
 
 ```csharp
 public float Angle { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
-Der Steigungswinkel.
+Der Winkel des Farbverlaufs.
 
 ### Siehe auch
 
 * class [LinearGradientBrushBase](../)
-* namensraum [Aspose.PSD.Brushes](../../lineargradientbrushbase/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
+* assembly [Aspose.PSD](../../../)
 
 

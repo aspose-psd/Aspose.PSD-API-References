@@ -1,11 +1,12 @@
 ---
-title: BuildVersionInfo.FileVersion
-second_title: Aspose.PSD für .NET-API-Referenz
-description: BuildVersionInfo veld. Die Dateiversion.
+title: "BuildVersionInfo.FileVersion"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "BuildVersionInfo-Feld. Die Dateiversion"
 type: docs
 weight: 20
 url: /de/net/aspose.psd/buildversioninfo/fileversion/
 ---
+{{< psd/tize >}}
 ## BuildVersionInfo.FileVersion field
 
 Die Dateiversion.
@@ -17,7 +18,7 @@ public static readonly string FileVersion;
 ### Siehe auch
 
 * class [BuildVersionInfo](../)
-* namensraum [Aspose.PSD](../../buildversioninfo/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: ObjectArrayStructure.ObjectArrayStructure
-second_title: Aspose.PSD für .NET-API-Referenz
-description: ObjectArrayStructure constructeur. Initialisiert eine neue Instanz vonObjectArrayStructure Klasse.
+title: "ObjectArrayStructure.ObjectArrayStructure"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "ObjectArrayStructure-Konstruktor. Initialisiert eine neue Instanz der ObjectArrayStructure-Klasse"
 type: docs
 weight: 10
 url: /de/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/objectarraystructure/objectarraystructure/
 ---
+{{< psd/tize >}}
 ## ObjectArrayStructure(string, string, OSTypeStructure[]) {#constructor_1}
 
-Initialisiert eine neue Instanz von[`ObjectArrayStructure`](../) Klasse.
+Initialisiert eine neue Instanz der [`ObjectArrayStructure`](../)-Klasse.
 
 ```csharp
 public ObjectArrayStructure(string keyName, string classIdName, OSTypeStructure[] structures)
@@ -17,10 +18,10 @@ public ObjectArrayStructure(string keyName, string classIdName, OSTypeStructure[
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
 | keyName | String | Name des Schlüssels. |
-| classIdName | String | Name der Klassenkennung. |
-| structures | OSTypeStructure[] | Die Strukturen. |
+| classIdName | String | Name des Klassenidentifikators. |
+| Strukturen | OSTypeStructure[] | Die Strukturen. |
 
-### Beispiele
+## Beispiele
 
 Der folgende Code demonstriert die Unterstützung der ObAr- und UnFl-Signaturen.
 
@@ -78,14 +79,14 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
 
 * class [OSTypeStructure](../../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/)
 * class [ObjectArrayStructure](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../objectarraystructure/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## ObjectArrayStructure(int, ClassID, ClassID, string, OSTypeStructure[]) {#constructor}
 
-Initialisiert eine neue Instanz von[`ObjectArrayStructure`](../) Klasse.
+Initialisiert eine neue Instanz der [`ObjectArrayStructure`](../)-Klasse.
 
 ```csharp
 public ObjectArrayStructure(int key, ClassID keyName, ClassID classID, string className, 
@@ -94,11 +95,11 @@ public ObjectArrayStructure(int key, ClassID keyName, ClassID classID, string cl
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| key | Int32 | Der ganzzahlige Schlüssel. |
+| Schlüssel | Int32 | Der ganzzahlige Schlüssel. |
 | keyName | ClassID | Der Schlüsselname. |
-| classID | ClassID | Die Klassenkennung. |
+| classID | ClassID | Der Klassenidentifikator. |
 | className | String | Name der Klasse. |
-| structures | OSTypeStructure[] | Die Strukturen. |
+| Strukturen | OSTypeStructure[] | Die Strukturen. |
 
 ### Ausnahmen
 
@@ -106,7 +107,7 @@ public ObjectArrayStructure(int key, ClassID keyName, ClassID classID, string cl
 | --- | --- |
 | ArgumentNullException | classID ist null |
 
-### Beispiele
+## Beispiele
 
 Der folgende Code demonstriert die Unterstützung der ObAr- und UnFl-Signaturen.
 
@@ -165,7 +166,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
 * class [ClassID](../../../aspose.psd.fileformats.psd.layers.layerresources/classid/)
 * class [OSTypeStructure](../../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/)
 * class [ObjectArrayStructure](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../objectarraystructure/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 

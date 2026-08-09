@@ -1,20 +1,21 @@
 ---
-title: Aspose.PSD.FileFormats.Tiff
-second_title: Aspose.PSD für .NET-API-Referenz
-description: Der Namespace behandelt die Verarbeitung des TiffDateiformats.
+title: "Aspose.PSD.FileFormats.Tiff"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "Der Namespace verarbeitet die Tiff-Dateiformatverarbeitung."
 type: docs
-weight: 370
+weight: 410
 url: /de/net/aspose.psd.fileformats.tiff/
 ---
-Der Namespace behandelt die Verarbeitung des Tiff-Dateiformats.
+{{< psd/tize >}}
+Der Namespace verarbeitet das Tiff-Dateiformat.
 
 ## Klassen
 
 | Klasse | Beschreibung |
 | --- | --- |
-| [TiffDataType](./tiffdatatype/) | Der TIFF-Datentyp. |
-| [TiffExifIfd](./tiffexififd/) | Die Verzeichnisklasse der TIFF-Exif-Bilddatei. |
-| [TiffRational](./tiffrational/) | Der rationale Typ tiff. |
-| [TiffSRational](./tiffsrational/) | Der rationale Typ tiff. |
+| [TiffDataType](./tiffdatatype/) | Der Tiff-Datentyp. |
+| [TiffExifIfd](./tiffexififd/) | Die TIFF-Exif-Bilddateiverzeichnis-Klasse. |
+| [TiffRational](./tiffrational/) | Der Tiff-Rationaltyp. |
+| [TiffSRational](./tiffsrational/) | Der Tiff-Rationaltyp. |
 
 

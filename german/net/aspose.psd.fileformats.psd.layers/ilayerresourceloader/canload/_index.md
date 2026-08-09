@@ -1,14 +1,15 @@
 ---
-title: ILayerResourceLoader.CanLoad
-second_title: Aspose.PSD für .NET-API-Referenz
-description: ILayerResourceLoader methode. Legt fest ob die LayerRessource von der angegebenen geladen werden kannStreamContainer .
+title: "ILayerResourceLoader.CanLoad"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "ILayerResourceLoader-Methode. Bestimmt, ob die LayerResource aus dem angegebenen StreamContainer geladen werden kann."
 type: docs
 weight: 10
 url: /de/net/aspose.psd.fileformats.psd.layers/ilayerresourceloader/canload/
 ---
+{{< psd/tize >}}
 ## ILayerResourceLoader.CanLoad method
 
-Legt fest, ob die Layer-Ressource von der angegebenen geladen werden kann[`StreamContainer`](../../../aspose.psd/streamcontainer/) .
+Bestimmt, ob die LayerResource aus dem angegebenen [`StreamContainer`](../../../aspose.psd/streamcontainer/) geladen werden kann.
 
 ```csharp
 public bool CanLoad(StreamContainer streamContainer, int psdVersion)
@@ -16,18 +17,18 @@ public bool CanLoad(StreamContainer streamContainer, int psdVersion)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| streamContainer | StreamContainer | Der Stream-Container. |
+| `streamContainer` | StreamContainer | Der StreamContainer. |
 | psdVersion | Int32 | Die PSD-Version. |
 
 ### Rückgabewert
 
-`WAHR` wenn die Layer-Ressource von der angegebenen geladen werden kann[`StreamContainer`](../../../aspose.psd/streamcontainer/) ; ansonsten,`FALSCH` .
+`true`, wenn die LayerResource aus dem angegebenen [`StreamContainer`](../../../aspose.psd/streamcontainer/) geladen werden kann; andernfalls `false`.
 
 ### Siehe auch
 
 * class [StreamContainer](../../../aspose.psd/streamcontainer/)
 * interface [ILayerResourceLoader](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers](../../ilayerresourceloader/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: Enum ResolutionUnit
-second_title: Aspose.PSD für .NET-API-Referenz
-description: Aspose.PSD.ResolutionUnit opsomming. Auflösungseinheit enum.
+title: "Enum ResolutionUnit"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "Aspose.PSD.ResolutionUnit enum. Auflösungseinheit-Enum"
 type: docs
-weight: 5390
+weight: 5890
 url: /de/net/aspose.psd/resolutionunit/
 ---
+{{< psd/tize >}}
 ## ResolutionUnit enumeration
 
-Auflösungseinheit enum.
+Auflösungseinheiten-Enum.
 
 ```csharp
 public enum ResolutionUnit : byte
@@ -19,12 +20,12 @@ public enum ResolutionUnit : byte
 | Name | Wert | Beschreibung |
 | --- | --- | --- |
 | None | `0` | Undefinierte Einheiten |
-| Inch | `1` | Zolleinheiten |
-| Cm | `2` | Einheiten in metrischen Zentimetern |
+| Inch | `1` | Zoll-Einheiten |
+| Cm | `2` | Metrische Zentimeter-Einheiten |
 
 ### Siehe auch
 
-* namensraum [Aspose.PSD](../../aspose.psd/)
-* Montage [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

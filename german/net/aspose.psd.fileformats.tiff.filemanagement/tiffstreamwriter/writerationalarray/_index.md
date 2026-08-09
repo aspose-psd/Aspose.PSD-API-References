@@ -1,14 +1,15 @@
 ---
-title: TiffStreamWriter.WriteRationalArray
-second_title: Aspose.PSD für .NET-API-Referenz
-description: TiffStreamWriter methode. Schreibt ein Array von vorzeichenlosen rationalen Werten in den Stream.
+title: "TiffStreamWriter.WriteRationalArray"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "TiffStreamWriter-Methode. Schreibt ein Array von unsignierten rationalen Werten in den Stream."
 type: docs
 weight: 100
 url: /de/net/aspose.psd.fileformats.tiff.filemanagement/tiffstreamwriter/writerationalarray/
 ---
+{{< psd/tize >}}
 ## TiffStreamWriter.WriteRationalArray method
 
-Schreibt ein Array von vorzeichenlosen rationalen Werten in den Stream.
+Schreibt ein Array von unsignierten rationalen Werten in den Stream.
 
 ```csharp
 public void WriteRationalArray(TiffRational[] data)
@@ -16,13 +17,13 @@ public void WriteRationalArray(TiffRational[] data)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| data | TiffRational[] | Das zu schreibende Array. |
+| Daten | TiffRational[] | Das zu schreibende Array. |
 
 ### Siehe auch
 
 * class [TiffRational](../../../aspose.psd.fileformats.tiff/tiffrational/)
 * class [TiffStreamWriter](../)
-* namensraum [Aspose.PSD.FileFormats.Tiff.FileManagement](../../tiffstreamwriter/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff.FileManagement](../../../aspose.psd.fileformats.tiff.filemanagement/)
+* assembly [Aspose.PSD](../../../)
 
 

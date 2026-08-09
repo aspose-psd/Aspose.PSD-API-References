@@ -1,28 +1,29 @@
 ---
-title: ExifData.GPSTimestamp
-second_title: Aspose.PSD für .NET-API-Referenz
-description: ExifData eigendom. Ruft die GPSZeit als UTC koordinierte Weltzeit ab oder stellt sie ein.
+title: "ExifData.GPSTimestamp"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "ExifData-Eigenschaft. Gibt die GPS-Zeit als UTC (Koordinierte Weltzeit) zurück oder legt sie fest"
 type: docs
 weight: 640
 url: /de/net/aspose.psd.exif/exifdata/gpstimestamp/
 ---
+{{< psd/tize >}}
 ## ExifData.GPSTimestamp property
 
-Ruft die GPS-Zeit als UTC (koordinierte Weltzeit) ab oder stellt sie ein.
+Liest oder setzt die GPS-Zeit als UTC (Koordinierte Weltzeit).
 
 ```csharp
 public TiffRational[] GPSTimestamp { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
-Die GPS-Zeit als UTC (koordinierte Weltzeit).
+Die GPS-Zeit als UTC (Koordinierte Weltzeit).
 
 ### Siehe auch
 
 * class [TiffRational](../../../aspose.psd.fileformats.tiff/tiffrational/)
 * class [ExifData](../)
-* namensraum [Aspose.PSD.Exif](../../exifdata/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

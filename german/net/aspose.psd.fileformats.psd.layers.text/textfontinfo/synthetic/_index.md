@@ -1,27 +1,28 @@
 ---
-title: TextFontInfo.Synthetic
-second_title: Aspose.PSD für .NET-API-Referenz
-description: TextFontInfo eigendom. Ruft einen Wert ab der angibt ob diesFontInformation ist synthetisch.
+title: "TextFontInfo.Synthetic"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "TextFontInfo-Eigenschaft. Ruft einen Wert ab, der angibt, ob diese FontInformation synthetisch ist"
 type: docs
 weight: 60
 url: /de/net/aspose.psd.fileformats.psd.layers.text/textfontinfo/synthetic/
 ---
+{{< psd/tize >}}
 ## TextFontInfo.Synthetic property
 
-Ruft einen Wert ab, der angibt, ob diesFontInformation ist synthetisch.
+Ruft einen Wert ab, der angibt, ob diese FontInformation synthetisch ist.
 
 ```csharp
 public bool Synthetic { get; }
 ```
 
-### Eigentumswert
+### Property Value
 
-`WAHR` falls synthetisch; ansonsten,`FALSCH` .
+`true`, wenn synthetisch; andernfalls `false`.
 
 ### Siehe auch
 
 * class [TextFontInfo](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.Text](../../textfontinfo/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.Text](../../../aspose.psd.fileformats.psd.layers.text/)
+* assembly [Aspose.PSD](../../../)
 
 

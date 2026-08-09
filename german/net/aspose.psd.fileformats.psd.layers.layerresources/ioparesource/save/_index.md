@@ -1,14 +1,15 @@
 ---
-title: IopaResource.Save
-second_title: Aspose.PSD für .NET-API-Referenz
-description: IopaResource methode. Speichert die Ressource im angegebenen StreamContainer.
+title: "IopaResource.Save"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "IopaResource Methode. Speichert die Ressource im angegebenen Stream-Container"
 type: docs
-weight: 70
+weight: 40
 url: /de/net/aspose.psd.fileformats.psd.layers.layerresources/ioparesource/save/
 ---
+{{< psd/tize >}}
 ## IopaResource.Save method
 
-Speichert die Ressource im angegebenen Stream-Container.
+Speichert die Ressource in den angegebenen Stream-Container.
 
 ```csharp
 public override void Save(StreamContainer streamContainer, int psdVersion)
@@ -16,14 +17,14 @@ public override void Save(StreamContainer streamContainer, int psdVersion)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| streamContainer | StreamContainer | Der Stream-Container, in dem gespeichert werden soll. |
+| `streamContainer` | StreamContainer | Der Stream-Container, in dem gespeichert werden soll. |
 | psdVersion | Int32 | Die PSD-Version. |
 
 ### Siehe auch
 
 * class [StreamContainer](../../../aspose.psd/streamcontainer/)
 * class [IopaResource](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../ioparesource/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

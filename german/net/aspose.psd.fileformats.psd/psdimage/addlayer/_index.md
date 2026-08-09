@@ -1,11 +1,12 @@
 ---
-title: PsdImage.AddLayer
-second_title: Aspose.PSD für .NET-API-Referenz
-description: PsdImage methode. Fügt die Ebene hinzu.
+title: "PsdImage.AddLayer"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "PsdImage-Methode. Fügt die Ebene hinzu."
 type: docs
-weight: 370
+weight: 390
 url: /de/net/aspose.psd.fileformats.psd/psdimage/addlayer/
 ---
+{{< psd/tize >}}
 ## PsdImage.AddLayer method
 
 Fügt die Ebene hinzu.
@@ -16,11 +17,11 @@ public void AddLayer(Layer layer)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| layer | Layer | Die Schicht. |
+| Ebene | Ebene | Die Ebene. |
 
-### Beispiele
+## Beispiele
 
-Das folgende Beispiel zeigt, wie Sie auf einer neu erstellten Ebene zeichnen können, wenn die einfache Konstruktorversion in Aspose.PSD verwendet wird
+Das folgende Beispiel zeigt, wie Sie auf einer neu erstellten Ebene zeichnen können, wenn die einfache Konstruktor-Version in Aspose.PSD verwendet wird.
 
 ```csharp
 [C#]
@@ -39,10 +40,10 @@ using (var image = new PsdImage(width, height))
     Graphics graphic = new Graphics(layer);
     graphic.Clear(Color.Yellow);
 
-    // Zeichnen Sie ein Rechteck mit dem Stiftwerkzeug
+    // Zeichnen Sie ein Rechteck mit dem Pen-Werkzeug
     graphic.DrawRectangle(new Pen(Color.Red), new Rectangle(30, 10, 40, 80));
 
-    // zeichne ein weiteres Rechteck mit Solid Brush in blauer Farbe
+    // Zeichnen Sie ein weiteres Rechteck mit Solid Brush in blauer Farbe
     graphic.DrawRectangle(new Pen(new SolidBrush(Color.Blue)), new Rectangle(10, 30, 80, 40));
 
     image.Save(outputFilePath);
@@ -53,7 +54,7 @@ using (var image = new PsdImage(width, height))
 
 * class [Layer](../../../aspose.psd.fileformats.psd.layers/layer/)
 * class [PsdImage](../)
-* namensraum [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

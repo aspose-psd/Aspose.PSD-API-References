@@ -1,14 +1,15 @@
 ---
-title: Enum TextOrientation
-second_title: Aspose.PSD für .NET-API-Referenz
-description: Aspose.PSD.FileFormats.Psd.TextOrientation opsomming. Aufzählung für Textausrichtungsmodus.
+title: "Enum TextOrientation"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "Aspose.PSD.FileFormats.Psd.TextOrientation enum. Aufzählung für den Textorientierungsmodus"
 type: docs
-weight: 4010
+weight: 4480
 url: /de/net/aspose.psd.fileformats.psd/textorientation/
 ---
+{{< psd/tize >}}
 ## TextOrientation enumeration
 
-Aufzählung für Textausrichtungsmodus.
+Aufzählung für den Textorientierungsmodus.
 
 ```csharp
 public enum TextOrientation
@@ -18,12 +19,12 @@ public enum TextOrientation
 
 | Name | Wert | Beschreibung |
 | --- | --- | --- |
-| Horizontal | `0` | Die horizontale Textausrichtung. |
-| Vertical | `2` | Die vertikale Textausrichtung. |
+| Horizontal | `0` | Die horizontale Textorientierung. |
+| Vertical | `2` | Die vertikale Textorientierung. |
 
-### Beispiele
+## Beispiele
 
-Der folgende Code demonstriert die Möglichkeit, die neue TextOrientation-Eigenschaft zu bearbeiten. Dies wirkt sich im Moment nicht auf das Rendern aus, sondern ermöglicht Ihnen nur, den Eigenschaftswert zu bearbeiten.
+Der folgende Code demonstriert die Möglichkeit, die neue TextOrientation-Eigenschaft zu bearbeiten. Dies wirkt sich derzeit nicht auf das Rendering aus, sondern erlaubt lediglich das Bearbeiten des Eigenschaftswerts.
 
 ```csharp
 [C#]
@@ -36,7 +37,7 @@ using (var image = (PsdImage)Image.Load(src))
     var textLayer = image.Layers[1] as TextLayer;
     if (textLayer.TextData.TextOrientation == TextOrientation.Vertical)
     {
-        // Richtiges Lesen
+        // Korrektes Lesen
     }
     else
     {
@@ -54,7 +55,7 @@ using (var image = (PsdImage)Image.Load(output))
     var textLayer = image.Layers[1] as TextLayer;
     if (textLayer.TextData.TextOrientation == TextOrientation.Horizontal)
     {
-        // Richtiges Lesen
+        // Korrektes Lesen
     }
     else
     {
@@ -65,7 +66,7 @@ using (var image = (PsdImage)Image.Load(output))
 
 ### Siehe auch
 
-* namensraum [Aspose.PSD.FileFormats.Psd](../../aspose.psd.fileformats.psd/)
-* Montage [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../)
 
 

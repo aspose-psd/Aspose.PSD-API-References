@@ -1,20 +1,21 @@
 ---
-title: IAsyncTask.Progress
-second_title: Aspose.PSD für .NET-API-Referenz
-description: IAsyncTask eigendom. Ruft den Fortschritt der asynchronen Aufgabe ab.
+title: "IAsyncTask.Progress"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "IAsyncTask-Eigenschaft. Gibt den Fortschritt der asynchronen Aufgabe zurück."
 type: docs
 weight: 50
 url: /de/net/aspose.psd.asynctask/iasynctask/progress/
 ---
+{{< psd/tize >}}
 ## IAsyncTask.Progress property
 
-Ruft den Fortschritt der asynchronen Aufgabe ab.
+Gibt den Fortschritt der asynchronen Aufgabe zurück.
 
 ```csharp
 public AsyncTaskProgress Progress { get; }
 ```
 
-### Eigentumswert
+### Property Value
 
 Der Fortschritt der asynchronen Aufgabe.
 
@@ -22,7 +23,7 @@ Der Fortschritt der asynchronen Aufgabe.
 
 * class [AsyncTaskProgress](../../asynctaskprogress/)
 * interface [IAsyncTask](../)
-* namensraum [Aspose.PSD.AsyncTask](../../iasynctask/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.AsyncTask](../../../aspose.psd.asynctask/)
+* assembly [Aspose.PSD](../../../)
 
 

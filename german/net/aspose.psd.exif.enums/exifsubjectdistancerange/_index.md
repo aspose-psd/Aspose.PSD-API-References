@@ -1,14 +1,15 @@
 ---
-title: Enum ExifSubjectDistanceRange
-second_title: Aspose.PSD für .NET-API-Referenz
-description: Aspose.PSD.Exif.Enums.ExifSubjectDistanceRange opsomming. Exif Motiventfernungsbereich Aufzählung.
+title: "Enum ExifSubjectDistanceRange"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "Aspose.PSD.Exif.Enums.ExifSubjectDistanceRange Aufzählung. Exif-Entfernungsspanne Aufzählung"
 type: docs
-weight: 950
+weight: 960
 url: /de/net/aspose.psd.exif.enums/exifsubjectdistancerange/
 ---
+{{< psd/tize >}}
 ## ExifSubjectDistanceRange enumeration
 
-Exif Motiventfernungsbereich Aufzählung.
+exif Objektabstandsbereich-Enum.
 
 ```csharp
 public enum ExifSubjectDistanceRange
@@ -18,14 +19,14 @@ public enum ExifSubjectDistanceRange
 
 | Name | Wert | Beschreibung |
 | --- | --- | --- |
-| Unknown | `0` | Unbekannter Motiventfernungsbereich |
+| Unknown | `0` | Unbekannte Entfernungsspanne des Motivs |
 | Macro | `1` | Makrobereich |
-| CloseView | `2` | Ansicht schließen. |
-| DistantView | `3` | Fernsicht. |
+| CloseView | `2` | Nahansicht. |
+| DistantView | `3` | Fernansicht. |
 
 ### Siehe auch
 
-* namensraum [Aspose.PSD.Exif.Enums](../../aspose.psd.exif.enums/)
-* Montage [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Exif.Enums](../../aspose.psd.exif.enums/)
+* assembly [Aspose.PSD](../../)
 
 

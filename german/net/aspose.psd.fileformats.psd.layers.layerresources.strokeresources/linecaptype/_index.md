@@ -1,14 +1,15 @@
 ---
-title: Enum LineCapType
-second_title: Aspose.PSD für .NET-API-Referenz
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.StrokeResources.LineCapType opsomming. Linienkappentyp.
+title: "Enum LineCapType"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "Aspose.PSD.FileFormats.Psd.Layers.LayerResources.StrokeResources.LineCapType Enum. Linienstiltyp"
 type: docs
-weight: 3040
+weight: 3400
 url: /de/net/aspose.psd.fileformats.psd.layers.layerresources.strokeresources/linecaptype/
 ---
+{{< psd/tize >}}
 ## LineCapType enumeration
 
-Linienkappentyp.
+Linienende-Typ.
 
 ```csharp
 public enum LineCapType : short
@@ -18,11 +19,11 @@ public enum LineCapType : short
 
 | Name | Wert | Beschreibung |
 | --- | --- | --- |
-| RoundCap | `0` | Typ mit runder Kappe. |
-| SquareCap | `1` | Quadratischer Kappentyp. |
-| ButtCap | `2` | Kolbenkappentyp. |
+| RoundCap | `0` | Runder Endtyp. |
+| SquareCap | `1` | Quadratischer Endtyp. |
+| ButtCap | `2` | Flacher Endtyp. |
 
-### Beispiele
+## Beispiele
 
 Der folgende Code demonstriert die Unterstützung der VstkResource-Ressource.
 
@@ -51,7 +52,7 @@ using (PsdImage image = (PsdImage)Image.Load(srcFile))
 
 ### Siehe auch
 
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.StrokeResources](../../aspose.psd.fileformats.psd.layers.layerresources.strokeresources/)
-* Montage [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.StrokeResources](../../aspose.psd.fileformats.psd.layers.layerresources.strokeresources/)
+* assembly [Aspose.PSD](../../)
 
 

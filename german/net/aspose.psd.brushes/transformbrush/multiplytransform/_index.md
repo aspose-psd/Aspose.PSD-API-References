@@ -1,14 +1,15 @@
 ---
-title: TransformBrush.MultiplyTransform
-second_title: Aspose.PSD für .NET-API-Referenz
-description: TransformBrush methode. Multipliziert dieMatrix das die lokale geometrische Transformation davon darstelltLinearGradientBrush durch die angegebenenMatrix durch Voranstellen der angegebenenMatrix .
+title: "TransformBrush.MultiplyTransform"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "TransformBrush-Methode. Multipliziert die Matrix, die die lokale geometrische Transformation dieses LinearGradientBrush darstellt, mit der angegebenen Matrix, indem die angegebene Matrix vorangestellt wird."
 type: docs
 weight: 40
 url: /de/net/aspose.psd.brushes/transformbrush/multiplytransform/
 ---
+{{< psd/tize >}}
 ## MultiplyTransform(Matrix) {#multiplytransform}
 
-Multipliziert die[`Matrix`](../../../aspose.psd/matrix/) das die lokale geometrische Transformation davon darstellt[`LinearGradientBrush`](../../lineargradientbrush/) durch die angegebenen[`Matrix`](../../../aspose.psd/matrix/) durch Voranstellen der angegebenen[`Matrix`](../../../aspose.psd/matrix/) .
+Multipliziert die [`Matrix`](../../../aspose.psd/matrix/), die die lokale geometrische Transformation dieses [`LinearGradientBrush`](../../lineargradientbrush/) darstellt, mit der angegebenen [`Matrix`](../../../aspose.psd/matrix/), indem die angegebene [`Matrix`](../../../aspose.psd/matrix/) vorangestellt wird.
 
 ```csharp
 public void MultiplyTransform(Matrix matrix)
@@ -16,20 +17,20 @@ public void MultiplyTransform(Matrix matrix)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| matrix | Matrix | Der[`Matrix`](../../../aspose.psd/matrix/) mit der die geometrische Transformation zu multiplizieren ist. |
+| matrix | Matrix | Die [`Matrix`](../../../aspose.psd/matrix/), mit der die geometrische Transformation multipliziert werden soll. |
 
 ### Siehe auch
 
 * class [Matrix](../../../aspose.psd/matrix/)
 * class [TransformBrush](../)
-* namensraum [Aspose.PSD.Brushes](../../transformbrush/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## MultiplyTransform(Matrix, MatrixOrder) {#multiplytransform_1}
 
-Multipliziert die[`Matrix`](../../../aspose.psd/matrix/) das die lokale geometrische Transformation davon darstellt[`LinearGradientBrush`](../../lineargradientbrush/) durch die angegebenen[`Matrix`](../../../aspose.psd/matrix/) in der angegebenen Reihenfolge.
+Multipliziert die [`Matrix`](../../../aspose.psd/matrix/), die die lokale geometrische Transformation dieses [`LinearGradientBrush`](../../lineargradientbrush/) darstellt, mit der angegebenen [`Matrix`](../../../aspose.psd/matrix/) in der angegebenen Reihenfolge.
 
 ```csharp
 public void MultiplyTransform(Matrix matrix, MatrixOrder order)
@@ -37,15 +38,15 @@ public void MultiplyTransform(Matrix matrix, MatrixOrder order)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| matrix | Matrix | Der[`Matrix`](../../../aspose.psd/matrix/) mit der die geometrische Transformation zu multiplizieren ist. |
-| order | MatrixOrder | A[`MatrixOrder`](../../../aspose.psd/matrixorder/) die angibt, in welcher Reihenfolge die beiden Matrizen multipliziert werden. |
+| matrix | Matrix | Die [`Matrix`](../../../aspose.psd/matrix/), mit der die geometrische Transformation multipliziert werden soll. |
+| order | MatrixOrder | Ein [`MatrixOrder`](../../../aspose.psd/matrixorder/), das angibt, in welcher Reihenfolge die beiden Matrizen multipliziert werden sollen. |
 
 ### Siehe auch
 
 * class [Matrix](../../../aspose.psd/matrix/)
 * enum [MatrixOrder](../../../aspose.psd/matrixorder/)
 * class [TransformBrush](../)
-* namensraum [Aspose.PSD.Brushes](../../transformbrush/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
+* assembly [Aspose.PSD](../../../)
 
 

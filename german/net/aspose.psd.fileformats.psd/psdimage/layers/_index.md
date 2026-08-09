@@ -1,32 +1,33 @@
 ---
-title: PsdImage.Layers
-second_title: Aspose.PSD für .NET-API-Referenz
-description: PsdImage eigendom. Ruft die PSDEbenen ab oder legt sie fest.
+title: "PsdImage.Layers"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "PsdImage-Eigenschaft. Gibt die PSD‑Ebenen zurück oder legt sie fest"
 type: docs
 weight: 200
 url: /de/net/aspose.psd.fileformats.psd/psdimage/layers/
 ---
+{{< psd/tize >}}
 ## PsdImage.Layers property
 
-Ruft die PSD-Ebenen ab oder legt sie fest.
+Liest oder setzt die PSD-Ebenen.
 
 ```csharp
 public Layer[] Layers { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
-Die PSD-Ebenen.
+Die PSD‑Ebenen.
 
-### Bemerkungen
+## Hinweise
 
-Beachten Sie, dass, wenn keine Ebenen vorhanden sind, die anderen zugehörigen Informationen im Abschnitt „Ebenen- und Maskeninformationen“ nicht erhalten bleiben (Ebenenmasken, Ressourcen usw.).
+Beachten Sie, dass wenn keine Ebenen vorhanden sind, die anderen zugehörigen Informationen im Abschnitt für Ebenen‑ und Maskeninformationen nicht erhalten bleiben (Ebenenmasken, Ressourcen usw.).
 
 ### Siehe auch
 
 * class [Layer](../../../aspose.psd.fileformats.psd.layers/layer/)
 * class [PsdImage](../)
-* namensraum [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

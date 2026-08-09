@@ -1,28 +1,25 @@
 ---
-title: ImageOptionsBase.Palette
-second_title: Aspose.PSD für .NET-API-Referenz
-description: ImageOptionsBase eigendom. Ruft die Farbpalette ab oder legt sie fest.
+title: "ImageOptionsBase.Palette"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "ImageOptionsBase-Eigenschaft. Gibt die Farbpalette zurück oder legt sie fest."
 type: docs
 weight: 50
 url: /de/net/aspose.psd/imageoptionsbase/palette/
 ---
+{{< psd/tize >}}
 ## ImageOptionsBase.Palette property
 
-Ruft die Farbpalette ab oder legt sie fest.
+Liest oder setzt die Farbpalette.
 
 ```csharp
 public virtual IColorPalette Palette { get; set; }
 ```
 
-### Eigentumswert
-
-Die Farbpalette.
-
 ### Siehe auch
 
 * interface [IColorPalette](../../icolorpalette/)
 * class [ImageOptionsBase](../)
-* namensraum [Aspose.PSD](../../imageoptionsbase/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: PdfDocumentInfo.Author
-second_title: Aspose.PSD für .NET-API-Referenz
-description: PdfDocumentInfo eigendom. Ruft den Autor des Dokuments ab oder legt ihn fest.
+title: "PdfDocumentInfo.Author"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "PdfDocumentInfo-Eigenschaft. Gibt den Autor des Dokuments zurück oder setzt ihn"
 type: docs
 weight: 20
 url: /de/net/aspose.psd.fileformats.pdf/pdfdocumentinfo/author/
 ---
+{{< psd/tize >}}
 ## PdfDocumentInfo.Author property
 
-Ruft den Autor des Dokuments ab oder legt ihn fest.
+Liest oder setzt den Autor des Dokuments.
 
 ```csharp
 public string Author { get; set; }
@@ -17,7 +18,7 @@ public string Author { get; set; }
 ### Siehe auch
 
 * class [PdfDocumentInfo](../)
-* namensraum [Aspose.PSD.FileFormats.Pdf](../../pdfdocumentinfo/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Pdf](../../../aspose.psd.fileformats.pdf/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: SplitStreamContainer.SplitStreamContainer
-second_title: Aspose.PSD für .NET-API-Referenz
-description: SplitStreamContainer constructeur. Initialisiert eine neue Instanz vonSplitStreamContainer Klasse.
+title: "SplitStreamContainer.SplitStreamContainer"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "SplitStreamContainer-Konstruktor. Initialisiert eine neue Instanz der Klasse SplitStreamContainer"
 type: docs
 weight: 10
 url: /de/net/aspose.psd/splitstreamcontainer/splitstreamcontainer/
 ---
+{{< psd/tize >}}
 ## SplitStreamContainer(Stream) {#constructor_1}
 
-Initialisiert eine neue Instanz von[`SplitStreamContainer`](../) Klasse.
+Initialisiert eine neue Instanz der Klasse [`SplitStreamContainer`](../).
 
 ```csharp
 public SplitStreamContainer(Stream stream)
@@ -16,19 +17,19 @@ public SplitStreamContainer(Stream stream)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| stream | Stream | Der Strom. |
+| Strom | Stream | Der Stream. |
 
 ### Siehe auch
 
 * class [SplitStreamContainer](../)
-* namensraum [Aspose.PSD](../../splitstreamcontainer/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## SplitStreamContainer(Stream, bool) {#constructor_2}
 
-Initialisiert eine neue Instanz von[`SplitStreamContainer`](../) Klasse.
+Initialisiert eine neue Instanz der Klasse [`SplitStreamContainer`](../).
 
 ```csharp
 public SplitStreamContainer(Stream stream, bool disposeStream)
@@ -36,20 +37,20 @@ public SplitStreamContainer(Stream stream, bool disposeStream)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| stream | Stream | Der Datenstrom. |
-| disposeStream | Boolean | wenn eingestellt`WAHR` Der Strom wird entsorgt, wenn der Behälter entsorgt wird. |
+| Strom | Stream | Der Datenstrom. |
+| disposeStream | Boolean | Wenn auf `true` gesetzt, wird der Stream freigegeben, wenn der Container freigegeben wird. |
 
 ### Siehe auch
 
 * class [SplitStreamContainer](../)
-* namensraum [Aspose.PSD](../../splitstreamcontainer/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## SplitStreamContainer(StreamContainer, bool) {#constructor}
 
-Initialisiert eine neue Instanz von[`SplitStreamContainer`](../) Klasse.
+Initialisiert eine neue Instanz der Klasse [`SplitStreamContainer`](../).
 
 ```csharp
 public SplitStreamContainer(StreamContainer stream, bool disposeStream)
@@ -57,14 +58,14 @@ public SplitStreamContainer(StreamContainer stream, bool disposeStream)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| stream | StreamContainer | Der Stream-Container. |
-| disposeStream | Boolean | wenn eingestellt`WAHR` verfügt über Strom. |
+| Strom | StreamContainer | Der StreamContainer. |
+| disposeStream | Boolean | Wenn auf `true` gesetzt, wird der Stream freigegeben. |
 
 ### Siehe auch
 
 * class [StreamContainer](../../streamcontainer/)
 * class [SplitStreamContainer](../)
-* namensraum [Aspose.PSD](../../splitstreamcontainer/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

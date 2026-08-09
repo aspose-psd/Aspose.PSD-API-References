@@ -1,27 +1,28 @@
 ---
-title: ColorHalftoneInformationResource.HalftoneData
-second_title: Aspose.PSD für .NET-API-Referenz
-description: ColorHalftoneInformationResource eigendom. Ruft die Halbtondaten ab oder legt sie fest.
+title: "ColorHalftoneInformationResource.HalftoneData"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "ColorHalftoneInformationResource Eigenschaft. Ruft die Halftonedaten ab oder legt sie fest"
 type: docs
 weight: 30
 url: /de/net/aspose.psd.fileformats.psd.resources/colorhalftoneinformationresource/halftonedata/
 ---
+{{< psd/tize >}}
 ## ColorHalftoneInformationResource.HalftoneData property
 
-Ruft die Halbtondaten ab oder legt sie fest.
+Liest oder setzt die Halftone-Daten.
 
 ```csharp
 public byte[] HalftoneData { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
-Die Halbtondaten.
+Die Halftonedaten.
 
 ### Siehe auch
 
 * class [ColorHalftoneInformationResource](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Resources](../../colorhalftoneinformationresource/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

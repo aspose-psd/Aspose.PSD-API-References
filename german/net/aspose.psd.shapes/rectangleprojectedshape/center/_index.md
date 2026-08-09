@@ -1,20 +1,21 @@
 ---
-title: RectangleProjectedShape.Center
-second_title: Aspose.PSD für .NET-API-Referenz
-description: RectangleProjectedShape eigendom. Ruft den Mittelpunkt der Form ab.
+title: "RectangleProjectedShape.Center"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "RectangleProjectedShape Eigenschaft. Gibt das Zentrum der Form zurück"
 type: docs
 weight: 30
 url: /de/net/aspose.psd.shapes/rectangleprojectedshape/center/
 ---
+{{< psd/tize >}}
 ## RectangleProjectedShape.Center property
 
-Ruft den Mittelpunkt der Form ab.
+Liest das Zentrum der Form.
 
 ```csharp
 public override PointF Center { get; }
 ```
 
-### Eigentumswert
+### Property Value
 
 Das Zentrum der Form.
 
@@ -22,7 +23,7 @@ Das Zentrum der Form.
 
 * struct [PointF](../../../aspose.psd/pointf/)
 * class [RectangleProjectedShape](../)
-* namensraum [Aspose.PSD.Shapes](../../rectangleprojectedshape/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 

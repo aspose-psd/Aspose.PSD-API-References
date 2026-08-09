@@ -1,14 +1,15 @@
 ---
-title: Image.ResizeWidthProportionally
-second_title: Aspose.PSD für .NET-API-Referenz
-description: Image methode. Ändert die Breite proportional.
+title: "Image.ResizeWidthProportionally"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "Image-Methode. Ändert die Breite proportional. Der Standard‑NearestNeighbourResample wird verwendet."
 type: docs
-weight: 210
+weight: 220
 url: /de/net/aspose.psd/image/resizewidthproportionally/
 ---
+{{< psd/tize >}}
 ## ResizeWidthProportionally(int) {#resizewidthproportionally}
 
-Ändert die Breite proportional.
+Skaliert die Breite proportional. Der Standard‑NearestNeighbourResample wird verwendet.
 
 ```csharp
 public void ResizeWidthProportionally(int newWidth)
@@ -21,14 +22,14 @@ public void ResizeWidthProportionally(int newWidth)
 ### Siehe auch
 
 * class [Image](../)
-* namensraum [Aspose.PSD](../../image/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## ResizeWidthProportionally(int, ResizeType) {#resizewidthproportionally_2}
 
-Ändert die Breite proportional.
+Skaliert die Breite proportional.
 
 ```csharp
 public virtual void ResizeWidthProportionally(int newWidth, ResizeType resizeType)
@@ -37,20 +38,20 @@ public virtual void ResizeWidthProportionally(int newWidth, ResizeType resizeTyp
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
 | newWidth | Int32 | Die neue Breite. |
-| resizeType | ResizeType | Art der Größenänderung. |
+| resizeType | ResizeType | Typ der Größenänderung. |
 
 ### Siehe auch
 
 * enum [ResizeType](../../resizetype/)
 * class [Image](../)
-* namensraum [Aspose.PSD](../../image/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## ResizeWidthProportionally(int, ImageResizeSettings) {#resizewidthproportionally_1}
 
-Ändert die Breite proportional.
+Skaliert die Breite proportional.
 
 ```csharp
 public virtual void ResizeWidthProportionally(int newWidth, ImageResizeSettings settings)
@@ -59,13 +60,13 @@ public virtual void ResizeWidthProportionally(int newWidth, ImageResizeSettings 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
 | newWidth | Int32 | Die neue Breite. |
-| settings | ImageResizeSettings | Die Einstellungen zur Bildgrößenänderung. |
+| Einstellungen | ImageResizeSettings | Die Bildgrößen‑Einstellungen. |
 
 ### Siehe auch
 
 * class [ImageResizeSettings](../../imageresizesettings/)
 * class [Image](../)
-* namensraum [Aspose.PSD](../../image/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: CurvResource.TypeToolKey
-second_title: Aspose.PSD für .NET-API-Referenz
-description: CurvResource veld. Der TypToolInfoSchlüssel.
+title: "CurvResource.TypeToolKey"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "CurvResource-Feld. Der Typwerkzeug-Info-Schlüssel"
 type: docs
-weight: 100
+weight: 80
 url: /de/net/aspose.psd.fileformats.psd.layers.layerresources/curvresource/typetoolkey/
 ---
+{{< psd/tize >}}
 ## CurvResource.TypeToolKey field
 
-Der Typ-Tool-Info-Schlüssel.
+Der Typwerkzeug-Info-Schlüssel.
 
 ```csharp
 public const int TypeToolKey;
@@ -17,7 +18,7 @@ public const int TypeToolKey;
 ### Siehe auch
 
 * class [CurvResource](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../curvresource/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

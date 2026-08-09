@@ -1,27 +1,28 @@
 ---
-title: VectorShapeOriginSettings.IsOriginRadiiRectanglePresent
-second_title: Aspose.PSD für .NET-API-Referenz
-description: VectorShapeOriginSettings eigendom. Ruft einen Wert ab der angibt ob diese Instanz die Eigenschaft Ursprungsradienrechteck hat.
+title: "VectorShapeOriginSettings.IsOriginRadiiRectanglePresent"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "VectorShapeOriginSettings Eigenschaft. Gibt einen Wert zurück, der angibt, ob diese Instanz die Eigenschaft für das Ursprung‑Radius‑Rechteck hat"
 type: docs
 weight: 40
 url: /de/net/aspose.psd.fileformats.core.vectorpaths/vectorshapeoriginsettings/isoriginradiirectanglepresent/
 ---
+{{< psd/tize >}}
 ## VectorShapeOriginSettings.IsOriginRadiiRectanglePresent property
 
-Ruft einen Wert ab, der angibt, ob diese Instanz die Eigenschaft Ursprungsradienrechteck hat.
+Liest einen Wert, der angibt, ob diese Instanz die Eigenschaft für das Ursprung-Radius-Rechteck hat.
 
 ```csharp
 public bool IsOriginRadiiRectanglePresent { get; }
 ```
 
-### Eigentumswert
+### Property Value
 
-`WAHR` wenn diese Instanz die Eigenschaft Ursprungsradienrechteck hat; ansonsten,`FALSCH` .
+`true`, wenn diese Instanz die Eigenschaft für das Ursprung‑Radius‑Rechteck hat; andernfalls `false`.
 
 ### Siehe auch
 
 * class [VectorShapeOriginSettings](../)
-* namensraum [Aspose.PSD.FileFormats.Core.VectorPaths](../../vectorshapeoriginsettings/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../../)
 
 

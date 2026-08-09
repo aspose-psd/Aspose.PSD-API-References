@@ -1,27 +1,28 @@
 ---
-title: AliasStructure.DataLength
-second_title: Aspose.PSD für .NET-API-Referenz
-description: AliasStructure eigendom. Ruft die genaue Datenlänge in Bytes ab.
+title: "AliasStructure.DataLength"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "AliasStructure-Eigenschaft. Gibt die exakte Datenlänge in Bytes zurück"
 type: docs
 weight: 20
 url: /de/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/aliasstructure/datalength/
 ---
+{{< psd/tize >}}
 ## AliasStructure.DataLength property
 
-Ruft die genaue Datenlänge in Bytes ab.
+Liest die genaue Datenlänge in Bytes.
 
 ```csharp
 public int DataLength { get; }
 ```
 
-### Eigentumswert
+### Property Value
 
 Die Datenlänge in Bytes.
 
 ### Siehe auch
 
 * class [AliasStructure](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../aliasstructure/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 

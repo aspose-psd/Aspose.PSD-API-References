@@ -1,14 +1,15 @@
 ---
-title: Layer.AddLayerMask
-second_title: Aspose.PSD für .NET-API-Referenz
-description: Layer methode. Fügt die Maske der aktuellen Ebene hinzu.
+title: "Layer.AddLayerMask"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "Layer-Methode. Fügt die Maske zur aktuellen Ebene hinzu"
 type: docs
-weight: 330
+weight: 340
 url: /de/net/aspose.psd.fileformats.psd.layers/layer/addlayermask/
 ---
+{{< psd/tize >}}
 ## Layer.AddLayerMask method
 
-Fügt die Maske der aktuellen Ebene hinzu.
+Fügt die Maske zur aktuellen Ebene hinzu.
 
 ```csharp
 public void AddLayerMask(LayerMaskData layerMask)
@@ -22,13 +23,13 @@ public void AddLayerMask(LayerMaskData layerMask)
 
 | Ausnahme | Bedingung |
 | --- | --- |
-| [PsdImageException](../../../aspose.psd.coreexceptions.imageformats/psdimageexception/) | Die Einstellung der vollständigen Ebenenmaske wird noch nicht unterstützt, bitte verwenden Sie LayerMaskDataShort |
+| [PsdImageException](../../../aspose.psd.coreexceptions.imageformats/psdimageexception/) | Vollständige Ebenenmaske wird noch nicht unterstützt; bitte verwenden Sie LayerMaskDataShort |
 
 ### Siehe auch
 
 * class [LayerMaskData](../../layermaskdata/)
 * class [Layer](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers](../../layer/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

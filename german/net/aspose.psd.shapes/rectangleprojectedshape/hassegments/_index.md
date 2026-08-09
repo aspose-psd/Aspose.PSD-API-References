@@ -1,27 +1,28 @@
 ---
-title: RectangleProjectedShape.HasSegments
-second_title: Aspose.PSD für .NET-API-Referenz
-description: RectangleProjectedShape eigendom. Ruft einen Wert ab der angibt ob die Form Segmente hat.
+title: "RectangleProjectedShape.HasSegments"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "RectangleProjectedShape-Eigenschaft. Gibt einen Wert zurück, der angibt, ob das Shape Segmente hat"
 type: docs
 weight: 40
 url: /de/net/aspose.psd.shapes/rectangleprojectedshape/hassegments/
 ---
+{{< psd/tize >}}
 ## RectangleProjectedShape.HasSegments property
 
-Ruft einen Wert ab, der angibt, ob die Form Segmente hat.
+Liest einen Wert, der angibt, ob die Form Segmente hat.
 
 ```csharp
 public override bool HasSegments { get; }
 ```
 
-### Eigentumswert
+### Property Value
 
-`WAHR` wenn Form Segmente hat; ansonsten,`FALSCH`.
+`True`, wenn das Shape Segmente hat; andernfalls `false`.
 
 ### Siehe auch
 
 * class [RectangleProjectedShape](../)
-* namensraum [Aspose.PSD.Shapes](../../rectangleprojectedshape/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: TiffOptions.IccProfile
-second_title: Aspose.PSD für .NET-API-Referenz
-description: TiffOptions eigendom. Ruft den IccProfilstream ab oder legt ihn fest.
+title: "TiffOptions.IccProfile"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "TiffOptions Eigenschaft. Gibt den Icc-Profil-Stream zurück oder legt ihn fest."
 type: docs
-weight: 180
+weight: 190
 url: /de/net/aspose.psd.imageoptions/tiffoptions/iccprofile/
 ---
+{{< psd/tize >}}
 ## TiffOptions.IccProfile property
 
-Ruft den Icc-Profilstream ab oder legt ihn fest.
+Liest oder setzt den ICC‑Profil‑Stream.
 
 ```csharp
 public MemoryStream IccProfile { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
-Das ICC-Profil.
+Das Icc-Profil.
 
 ### Siehe auch
 
 * class [TiffOptions](../)
-* namensraum [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

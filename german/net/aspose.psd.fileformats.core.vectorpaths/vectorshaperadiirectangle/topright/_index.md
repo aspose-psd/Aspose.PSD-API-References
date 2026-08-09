@@ -1,27 +1,28 @@
 ---
-title: VectorShapeRadiiRectangle.TopRight
-second_title: Aspose.PSD für .NET-API-Referenz
-description: VectorShapeRadiiRectangle eigendom. Ruft die obere rechte Seite ab oder legt sie fest.
+title: "VectorShapeRadiiRectangle.TopRight"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "VectorShapeRadiiRectangle Eigenschaft. Liest oder setzt den oberen rechten Wert"
 type: docs
 weight: 60
 url: /de/net/aspose.psd.fileformats.core.vectorpaths/vectorshaperadiirectangle/topright/
 ---
+{{< psd/tize >}}
 ## VectorShapeRadiiRectangle.TopRight property
 
-Ruft die obere rechte Seite ab oder legt sie fest.
+Liest oder setzt die obere rechte Ecke.
 
 ```csharp
 public double TopRight { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
-Oben rechts.
+Der obere rechte Teil.
 
 ### Siehe auch
 
 * class [VectorShapeRadiiRectangle](../)
-* namensraum [Aspose.PSD.FileFormats.Core.VectorPaths](../../vectorshaperadiirectangle/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../../)
 
 

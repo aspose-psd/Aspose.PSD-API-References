@@ -1,14 +1,15 @@
 ---
-title: ImageCreateException.ImageCreateException
-second_title: Aspose.PSD für .NET-API-Referenz
-description: ImageCreateException constructeur. Initialisiert eine neue Instanz vonImageCreateException Klasse.
+title: "ImageCreateException.ImageCreateException"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "ImageCreateException-Konstruktor. Initialisiert eine neue Instanz der ImageCreateException Klasse"
 type: docs
 weight: 10
 url: /de/net/aspose.psd.coreexceptions/imagecreateexception/imagecreateexception/
 ---
+{{< psd/tize >}}
 ## ImageCreateException(string) {#constructor}
 
-Initialisiert eine neue Instanz von[`ImageCreateException`](../) Klasse.
+Initialisiert eine neue Instanz der [`ImageCreateException`](../)-Klasse.
 
 ```csharp
 public ImageCreateException(string message)
@@ -16,19 +17,19 @@ public ImageCreateException(string message)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| message | String | Die Ausnahmemeldung. |
+| Nachricht | String | Die Ausnahmemeldung. |
 
 ### Siehe auch
 
 * class [ImageCreateException](../)
-* namensraum [Aspose.PSD.CoreExceptions](../../imagecreateexception/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.CoreExceptions](../../../aspose.psd.coreexceptions/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## ImageCreateException(string, Exception) {#constructor_1}
 
-Initialisiert eine neue Instanz von[`ImageCreateException`](../) Klasse.
+Initialisiert eine neue Instanz der [`ImageCreateException`](../)-Klasse.
 
 ```csharp
 public ImageCreateException(string message, Exception innerException)
@@ -36,13 +37,13 @@ public ImageCreateException(string message, Exception innerException)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| message | String | Die Ausnahmemeldung. |
-| innerException | Exception | Die innere Ausnahme. |
+| Nachricht | String | Die Ausnahmemeldung. |
+| innerException | Ausnahme | Die innere Ausnahme. |
 
 ### Siehe auch
 
 * class [ImageCreateException](../)
-* namensraum [Aspose.PSD.CoreExceptions](../../imagecreateexception/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.CoreExceptions](../../../aspose.psd.coreexceptions/)
+* assembly [Aspose.PSD](../../../)
 
 

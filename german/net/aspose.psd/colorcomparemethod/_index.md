@@ -1,11 +1,12 @@
 ---
-title: Enum ColorCompareMethod
-second_title: Aspose.PSD für .NET-API-Referenz
-description: Aspose.PSD.ColorCompareMethod opsomming. Farbvergleichsmethode zur Anpassung an den nächsten Nachbarn
+title: "Aufzählung ColorCompareMethod"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "Aspose.PSD.ColorCompareMethod enum. Farbvergleichsmethode zur Anpassung an den nächsten Nachbarn"
 type: docs
 weight: 330
 url: /de/net/aspose.psd/colorcomparemethod/
 ---
+{{< psd/tize >}}
 ## ColorCompareMethod enumeration
 
 Farbvergleichsmethode zur Anpassung an den nächsten Nachbarn
@@ -22,7 +23,7 @@ public enum ColorCompareMethod
 
 ### Siehe auch
 
-* namensraum [Aspose.PSD](../../aspose.psd/)
-* Montage [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: TextLayer.InnerText
-second_title: Aspose.PSD für .NET-API-Referenz
-description: TextLayer eigendom. Ruft den Text der Ebene ab
+title: "TextLayer.InnerText"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "TextLayer-Eigenschaft. Gibt den Text der Ebene zurück"
 type: docs
 weight: 20
 url: /de/net/aspose.psd.fileformats.psd.layers/textlayer/innertext/
 ---
+{{< psd/tize >}}
 ## TextLayer.InnerText property
 
-Ruft den Text der Ebene ab
+Liest den Text der Ebene
 
 ```csharp
 public string InnerText { get; }
 ```
 
-### Eigentumswert
+### Property Value
 
 Der Text.
 
 ### Siehe auch
 
 * class [TextLayer](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers](../../textlayer/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

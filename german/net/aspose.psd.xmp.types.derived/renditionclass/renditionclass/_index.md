@@ -1,14 +1,15 @@
 ---
-title: RenditionClass.RenditionClass
-second_title: Aspose.PSD für .NET-API-Referenz
-description: RenditionClass constructeur. Initialisiert eine neue Instanz vonRenditionClass Klasse.
+title: "RenditionClass.RenditionClass"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "RenditionClass-Konstruktor. Initialisiert eine neue Instanz der Klasse RenditionClass"
 type: docs
 weight: 10
 url: /de/net/aspose.psd.xmp.types.derived/renditionclass/renditionclass/
 ---
+{{< psd/tize >}}
 ## RenditionClass() {#constructor}
 
-Initialisiert eine neue Instanz von[`RenditionClass`](../) Klasse.
+Initialisiert eine neue Instanz der [`RenditionClass`](../)-Klasse.
 
 ```csharp
 public RenditionClass()
@@ -17,14 +18,14 @@ public RenditionClass()
 ### Siehe auch
 
 * class [RenditionClass](../)
-* namensraum [Aspose.PSD.Xmp.Types.Derived](../../renditionclass/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Derived](../../../aspose.psd.xmp.types.derived/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## RenditionClass(string, string) {#constructor_1}
 
-Initialisiert eine neue Instanz von[`RenditionClass`](../) Klasse.
+Initialisiert eine neue Instanz der [`RenditionClass`](../)-Klasse.
 
 ```csharp
 public RenditionClass(string token, string value)
@@ -32,13 +33,13 @@ public RenditionClass(string token, string value)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| token | String | Das Token. |
-| value | String | Der Wert. |
+| Token | String | Das Token. |
+| Wert | String | Der Wert. |
 
 ### Siehe auch
 
 * class [RenditionClass](../)
-* namensraum [Aspose.PSD.Xmp.Types.Derived](../../renditionclass/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Derived](../../../aspose.psd.xmp.types.derived/)
+* assembly [Aspose.PSD](../../../)
 
 

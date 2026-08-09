@@ -1,14 +1,15 @@
 ---
-title: RasterCachedImage.Rotate
-second_title: Aspose.PSD für .NET-API-Referenz
-description: RasterCachedImage methode. Bild um die Mitte drehen.
+title: "RasterCachedImage.Rotate"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "RasterCachedImage-Methode. Bild um die Mitte drehen"
 type: docs
 weight: 130
 url: /de/net/aspose.psd/rastercachedimage/rotate/
 ---
+{{< psd/tize >}}
 ## RasterCachedImage.Rotate method
 
-Bild um die Mitte drehen.
+Dreht das Bild um die Mitte.
 
 ```csharp
 public override void Rotate(float angle, bool resizeProportionally, Color backgroundColor)
@@ -16,15 +17,15 @@ public override void Rotate(float angle, bool resizeProportionally, Color backgr
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| angle | Single | Der Drehwinkel in Grad. Positive Werte rotieren im Uhrzeigersinn. |
-| resizeProportionally | Boolean | wenn eingestellt`WAHR` Sie werden Ihre Bildgröße entsprechend den Projektionen des gedrehten Rechtecks (Eckpunkte) ändern lassen, in einem anderen Fall, der die Abmessungen unberührt lässt und nur interne Bildinhalte gedreht werden. |
-| backgroundColor | Color | Farbe des Hintergrunds. |
+| Winkel | Single | Der Drehwinkel in Grad. Positive Werte drehen im Uhrzeigersinn. |
+| resizeProportionally | Boolean | Wenn auf `true` gesetzt, wird die Bildgröße entsprechend den Projektionen des gedrehten Rechtecks (Eckpunkte) geändert; andernfalls bleiben die Abmessungen unverändert und nur der interne Bildinhalt wird gedreht. |
+| backgroundColor | Farbe | Farbe des Hintergrunds. |
 
 ### Siehe auch
 
 * struct [Color](../../color/)
 * class [RasterCachedImage](../)
-* namensraum [Aspose.PSD](../../rastercachedimage/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

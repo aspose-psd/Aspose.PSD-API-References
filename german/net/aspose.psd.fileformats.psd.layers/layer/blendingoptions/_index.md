@@ -1,20 +1,21 @@
 ---
-title: Layer.BlendingOptions
-second_title: Aspose.PSD für .NET-API-Referenz
-description: Layer eigendom. Ruft die Mischoptionen ab.
+title: "Layer.BlendingOptions"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "Layer-Eigenschaft. Gibt die Mischoptionen zurück"
 type: docs
-weight: 30
+weight: 40
 url: /de/net/aspose.psd.fileformats.psd.layers/layer/blendingoptions/
 ---
+{{< psd/tize >}}
 ## Layer.BlendingOptions property
 
-Ruft die Mischoptionen ab.
+Liest die Blending‑Optionen.
 
 ```csharp
 public BlendingOptions BlendingOptions { get; }
 ```
 
-### Eigentumswert
+### Property Value
 
 Die Mischoptionen.
 
@@ -22,7 +23,7 @@ Die Mischoptionen.
 
 * class [BlendingOptions](../../../aspose.psd.fileformats.psd.layers.layereffects/blendingoptions/)
 * class [Layer](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers](../../layer/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,28 +1,29 @@
 ---
-title: PsdImage.GrayColorProfile
-second_title: Aspose.PSD für .NET-API-Referenz
-description: PsdImage eigendom. Ruft das GRAU monochrom Farbprofil für GraustufenPSDBilder ab oder legt es fest.
+title: "PsdImage.GrayColorProfile"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "PsdImage Eigenschaft. Gibt das GRAY monochrome Farbprofil für Graustufen‑PSD‑Bilder zurück oder legt es fest"
 type: docs
 weight: 130
 url: /de/net/aspose.psd.fileformats.psd/psdimage/graycolorprofile/
 ---
+{{< psd/tize >}}
 ## PsdImage.GrayColorProfile property
 
-Ruft das GRAU (monochrom) Farbprofil für Graustufen-PSD-Bilder ab oder legt es fest.
+Liest oder setzt das GRAY (monochrom) Farbprofil für Graustufen-PSD-Bilder.
 
 ```csharp
 public StreamSource GrayColorProfile { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
-Das GRAUE (monochrome) Farbprofil.
+Das GRAY (monochrome) Farbprofil.
 
 ### Siehe auch
 
 * class [StreamSource](../../../aspose.psd.sources/streamsource/)
 * class [PsdImage](../)
-* namensraum [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

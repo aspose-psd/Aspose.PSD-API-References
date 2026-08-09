@@ -1,14 +1,15 @@
 ---
-title: Enum DitheringMethods
-second_title: Aspose.PSD für .NET-API-Referenz
-description: Aspose.PSD.DitheringMethods opsomming. Die zur Steuerung der Farbkonvertierung verwendeten DitheringMethoden.
+title: "Enum DitheringMethods"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "Aspose.PSD.DitheringMethods Aufzählung. Die Dithering‑Methoden, die zur Steuerung der Farbumwandlung verwendet werden"
 type: docs
-weight: 780
+weight: 790
 url: /de/net/aspose.psd/ditheringmethods/
 ---
+{{< psd/tize >}}
 ## DitheringMethods enumeration
 
-Die zur Steuerung der Farbkonvertierung verwendeten Dithering-Methoden.
+Die Dithering-Methoden, die zur Steuerung der Farbkonvertierung verwendet werden.
 
 ```csharp
 public enum DitheringMethods
@@ -19,12 +20,12 @@ public enum DitheringMethods
 | Name | Wert | Beschreibung |
 | --- | --- | --- |
 | PaletteIgnore | `0` | Die Palette wird ignoriert |
-| PaletteConversion | `1` | Die Palette wird nicht ignoriert und es sollte eine kluge Farbkonvertierung angewendet werden. |
+| PaletteConversion | `1` | Die Palette wird nicht ignoriert und eine intelligente Farbumwandlung sollte angewendet werden. |
 | CustomConverter | `2` | Der benutzerdefinierte Konverter. |
 
 ### Siehe auch
 
-* namensraum [Aspose.PSD](../../aspose.psd/)
-* Montage [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

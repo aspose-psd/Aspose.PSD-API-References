@@ -1,20 +1,21 @@
 ---
-title: TiffExifIfd.Offset
-second_title: Aspose.PSD für .NET-API-Referenz
-description: TiffExifIfd eigendom. Holt oder setzt den Zeiger auf EXIF IFD.
+title: "TiffExifIfd.Offset"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "TiffExifIfd-Eigenschaft. Gibt oder setzt den Zeiger auf EXIF IFD."
 type: docs
 weight: 30
 url: /de/net/aspose.psd.fileformats.tiff/tiffexififd/offset/
 ---
+{{< psd/tize >}}
 ## TiffExifIfd.Offset property
 
-Holt oder setzt den Zeiger auf EXIF IFD.
+Liest oder setzt den Zeiger auf EXIF IFD.
 
 ```csharp
 public uint Offset { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
 Der Zeiger auf EXIF IFD.
 
@@ -27,7 +28,7 @@ Der Zeiger auf EXIF IFD.
 ### Siehe auch
 
 * class [TiffExifIfd](../)
-* namensraum [Aspose.PSD.FileFormats.Tiff](../../tiffexififd/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff](../../../aspose.psd.fileformats.tiff/)
+* assembly [Aspose.PSD](../../../)
 
 

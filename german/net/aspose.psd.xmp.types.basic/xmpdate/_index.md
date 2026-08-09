@@ -1,53 +1,54 @@
 ---
-title: Class XmpDate
-second_title: Aspose.PSD für .NET-API-Referenz
-description: Aspose.PSD.Xmp.Types.Basic.XmpDate klas. Stellt das Datum im XMPPaket dar.
+title: "Klasse XmpDate"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "Aspose.PSD.Xmp.Types.Basic.XmpDate Klasse. Stellt ein Datum im XMP-Paket dar."
 type: docs
-weight: 5950
+weight: 6450
 url: /de/net/aspose.psd.xmp.types.basic/xmpdate/
 ---
+{{< psd/tize >}}
 ## XmpDate class
 
-Stellt das Datum im XMP-Paket dar.
+Stellt ein Datum im XMP-Paket dar.
 
 ```csharp
 public sealed class XmpDate : XmpTypeBase
 ```
 
-## Konstrukteure
+## Konstruktoren
 
 | Name | Beschreibung |
 | --- | --- |
-| [XmpDate](xmpdate/#constructor)(DateTime) | Initialisiert eine neue Instanz von`XmpDate` Klasse. |
-| [XmpDate](xmpdate/#constructor_1)(string) | Initialisiert eine neue Instanz von`XmpDate` Klasse. |
+| [XmpDate](xmpdate/#constructor)(DateTime) | Initialisiert eine neue Instanz der `XmpDate` Klasse. |
+| [XmpDate](xmpdate/#constructor_1)(string) | Initialisiert eine neue Instanz der `XmpDate` Klasse. |
 
 ## Eigenschaften
 
 | Name | Beschreibung |
 | --- | --- |
-| [Format](../../aspose.psd.xmp.types.basic/xmpdate/format/) { get; } | Ruft die Formatzeichenfolge für den aktuellen Wert ab. |
-| [Value](../../aspose.psd.xmp.types.basic/xmpdate/value/) { get; set; } | Ruft den Datumswert ab oder legt ihn fest. |
+| [Format](../../aspose.psd.xmp.types.basic/xmpdate/format/) { get; } | Liest die Formatzeichenfolge für den aktuellen Wert. |
+| [Value](../../aspose.psd.xmp.types.basic/xmpdate/value/) { get; set; } | Liest oder setzt den Datumswert. |
 
 ## Methoden
 
 | Name | Beschreibung |
 | --- | --- |
-| override [GetXmpRepresentation](../../aspose.psd.xmp.types.basic/xmpdate/getxmprepresentation/)() | Gibt den in der Zeichenfolge enthaltenen Wert im XMP-Format zurück. |
+| override [GetXmpRepresentation](../../aspose.psd.xmp.types.basic/xmpdate/getxmprepresentation/)() | Gibt den in einem String enthaltenen Wert im XMP-Format zurück. |
 
 ## Felder
 
 | Name | Beschreibung |
 | --- | --- |
-| const [Iso8601Format](../../aspose.psd.xmp.types.basic/xmpdate/iso8601format/) | Die Formatzeichenfolge nach ISO 8601 (Roundtrip). |
+| const [Iso8601Format](../../aspose.psd.xmp.types.basic/xmpdate/iso8601format/) | Die ISO‑8601 (Rundreise) Formatzeichenfolge. |
 
-### Bemerkungen
+## Hinweise
 
-Ein Datum-Uhrzeit-Wert wird mit einer Teilmenge der Formate dargestellt, die in Formate für Datum und Uhrzeit definiert sind: YYYY YYYY-MM YYYY-MM-DD YYYY-MM-DDThh:mmTZD YYYY-MM-DDThh:mm:ssTZD YYYY- MM-DDThh:mm:ss.sTZD
+Ein Datum‑Uhrzeit‑Wert wird unter Verwendung einer Teilmenge der Formate dargestellt, wie sie in Datum‑ und Zeitformaten definiert sind: YYYY YYYY-MM YYYY-MM-DD YYYY-MM-DDThh:mmTZD YYYY-MM-DDThh:mm:ssTZD YYYY-MM-DDThh:mm:ss.sTZD
 
 ### Siehe auch
 
 * class [XmpTypeBase](../../aspose.psd.xmp.types/xmptypebase/)
-* namensraum [Aspose.PSD.Xmp.Types.Basic](../../aspose.psd.xmp.types.basic/)
-* Montage [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Xmp.Types.Basic](../../aspose.psd.xmp.types.basic/)
+* assembly [Aspose.PSD](../../)
 
 

@@ -1,20 +1,21 @@
 ---
-title: RawDataSettings.ColorPalette
-second_title: Aspose.PSD für .NET-API-Referenz
-description: RawDataSettings eigendom. Ruft die Farbpalette ab oder legt sie fest
+title: "RawDataSettings.ColorPalette"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "RawDataSettings Eigenschaft. Ruft die Farbpalette ab oder legt sie fest"
 type: docs
 weight: 20
 url: /de/net/aspose.psd/rawdatasettings/colorpalette/
 ---
+{{< psd/tize >}}
 ## RawDataSettings.ColorPalette property
 
-Ruft die Farbpalette ab oder legt sie fest
+Liest oder setzt die Farbpalette
 
 ```csharp
 public IColorPalette ColorPalette { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
 Die Farbpalette
 
@@ -22,7 +23,7 @@ Die Farbpalette
 
 * interface [IColorPalette](../../icolorpalette/)
 * class [RawDataSettings](../)
-* namensraum [Aspose.PSD](../../rawdatasettings/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

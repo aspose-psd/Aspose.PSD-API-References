@@ -1,14 +1,15 @@
 ---
-title: LinkResource.PsdVersion
-second_title: Aspose.PSD für .NET-API-Referenz
-description: LinkResource eigendom. Ruft die Version im PSDFormat ab.
+title: "LinkResource.PsdVersion"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "LinkResource-Eigenschaft. Gibt die PSD-Formatversion zurück"
 type: docs
 weight: 50
 url: /de/net/aspose.psd.fileformats.psd.layers.layerresources/linkresource/psdversion/
 ---
+{{< psd/tize >}}
 ## LinkResource.PsdVersion property
 
-Ruft die Version im PSD-Format ab.
+Gibt die PSD-Formatversion zurück.
 
 ```csharp
 public override int PsdVersion { get; }
@@ -17,7 +18,7 @@ public override int PsdVersion { get; }
 ### Siehe auch
 
 * class [LinkResource](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../linkresource/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

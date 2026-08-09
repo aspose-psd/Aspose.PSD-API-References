@@ -1,14 +1,15 @@
 ---
-title: Lnk2Resource.TypeToolKey
-second_title: Aspose.PSD für .NET-API-Referenz
-description: Lnk2Resource veld. Der TypToolInfoSchlüssel.
+title: "Lnk2Resource.TypeToolKey"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "Lnk2Resource-Feld. Der Typwerkzeug‑Info‑Schlüssel"
 type: docs
-weight: 40
+weight: 30
 url: /de/net/aspose.psd.fileformats.psd.layers.layerresources/lnk2resource/typetoolkey/
 ---
+{{< psd/tize >}}
 ## Lnk2Resource.TypeToolKey field
 
-Der Typ-Tool-Info-Schlüssel.
+Der Typwerkzeug-Info-Schlüssel.
 
 ```csharp
 public const int TypeToolKey;
@@ -17,7 +18,7 @@ public const int TypeToolKey;
 ### Siehe auch
 
 * class [Lnk2Resource](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../lnk2resource/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

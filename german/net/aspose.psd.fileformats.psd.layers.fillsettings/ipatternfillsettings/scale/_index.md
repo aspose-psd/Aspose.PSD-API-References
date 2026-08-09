@@ -1,27 +1,28 @@
 ---
-title: IPatternFillSettings.Scale
-second_title: Aspose.PSD für .NET-API-Referenz
-description: IPatternFillSettings eigendom. Ruft die Skalierung ab oder legt sie fest.
+title: "IPatternFillSettings.Scale"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "IPatternFillSettings-Eigenschaft. Ruft den Maßstab ab oder legt ihn fest"
 type: docs
-weight: 90
+weight: 100
 url: /de/net/aspose.psd.fileformats.psd.layers.fillsettings/ipatternfillsettings/scale/
 ---
+{{< psd/tize >}}
 ## IPatternFillSettings.Scale property
 
-Ruft die Skalierung ab oder legt sie fest.
+Liest oder setzt die Skala.
 
 ```csharp
 public double Scale { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
-Die Waage.
+Die Skalierung.
 
 ### Siehe auch
 
 * interface [IPatternFillSettings](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../ipatternfillsettings/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../../)
 
 

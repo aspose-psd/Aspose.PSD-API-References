@@ -1,14 +1,15 @@
 ---
-title: PhotoshopPackage.SetCategory
-second_title: Aspose.PSD für .NET-API-Referenz
-description: PhotoshopPackage methode. Legt die Kategorie fest.
+title: "PhotoshopPackage.SetCategory"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "PhotoshopPackage-Methode. Legt die Kategorie fest"
 type: docs
 weight: 50
 url: /de/net/aspose.psd.xmp.schemas.photoshop/photoshoppackage/setcategory/
 ---
+{{< psd/tize >}}
 ## PhotoshopPackage.SetCategory method
 
-Legt die Kategorie fest.
+Setzt die Kategorie.
 
 ```csharp
 public void SetCategory(string category)
@@ -27,7 +28,7 @@ public void SetCategory(string category)
 ### Siehe auch
 
 * class [PhotoshopPackage](../)
-* namensraum [Aspose.PSD.Xmp.Schemas.Photoshop](../../photoshoppackage/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.Photoshop](../../../aspose.psd.xmp.schemas.photoshop/)
+* assembly [Aspose.PSD](../../../)
 
 

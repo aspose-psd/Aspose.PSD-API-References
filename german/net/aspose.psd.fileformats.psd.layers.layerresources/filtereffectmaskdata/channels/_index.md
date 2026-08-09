@@ -1,22 +1,23 @@
 ---
-title: FilterEffectMaskData.Channels
-second_title: Aspose.PSD für .NET-API-Referenz
-description: FilterEffectMaskData eigendom. Ruft die Kanäle ab.
+title: "FilterEffectMaskData.Channels"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "FilterEffectMaskData Eigenschaft. Gibt die Kanäle zurück"
 type: docs
 weight: 20
 url: /de/net/aspose.psd.fileformats.psd.layers.layerresources/filtereffectmaskdata/channels/
 ---
+{{< psd/tize >}}
 ## FilterEffectMaskData.Channels property
 
-Ruft die Kanäle ab.
+Liest die Kanäle.
 
 ```csharp
 public ChannelInformation[] Channels { get; }
 ```
 
-### Beispiele
+## Beispiele
 
-Dieses Beispiel zeigt, wie Eigenschaften der FXidResource-Ressource abgerufen und festgelegt werden.
+Dieses Beispiel zeigt, wie Eigenschaften der FXidResource-Ressource gelesen und geschrieben werden.
 
 ```csharp
 [C#]
@@ -25,7 +26,7 @@ string inputFilePath = "psdnet414_3.psd";
 string output = "out_psdnet414_3.psd";
 
 int resLength = 1144;
-int maskLength = 369;
+long maskLength = 369;
 
 void AssertAreEqual(object expected, object actual, string message = null)
 {
@@ -48,7 +49,7 @@ using (var psdImage = (PsdImage)Image.Load(inputFilePath))
     psdImage.Save(output);
 }
 
-// Nach dem Speichern prüfen
+// nach dem Speichern prüfen
 using (var psdImage = (PsdImage)Image.Load(output))
 {
     FXidResource fXidResource = (FXidResource)psdImage.GlobalLayerResources[3];
@@ -65,7 +66,7 @@ using (var psdImage = (PsdImage)Image.Load(output))
 
 * class [ChannelInformation](../../../aspose.psd.fileformats.psd.layers/channelinformation/)
 * class [FilterEffectMaskData](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../filtereffectmaskdata/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

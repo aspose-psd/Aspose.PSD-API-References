@@ -1,11 +1,12 @@
 ---
-title: Image.ResizeHeightProportionally
-second_title: Aspose.PSD für .NET-API-Referenz
-description: Image methode. Ändert die Höhe proportional.
+title: "Image.ResizeHeightProportionally"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "Image-Methode. Ändert die Höhe proportional."
 type: docs
-weight: 200
+weight: 210
 url: /de/net/aspose.psd/image/resizeheightproportionally/
 ---
+{{< psd/tize >}}
 ## ResizeHeightProportionally(int) {#resizeheightproportionally}
 
 Ändert die Höhe proportional.
@@ -21,8 +22,8 @@ public void ResizeHeightProportionally(int newHeight)
 ### Siehe auch
 
 * class [Image](../)
-* namensraum [Aspose.PSD](../../image/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
@@ -37,14 +38,14 @@ public virtual void ResizeHeightProportionally(int newHeight, ResizeType resizeT
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
 | newHeight | Int32 | Die neue Höhe. |
-| resizeType | ResizeType | Art der Größenänderung. |
+| resizeType | ResizeType | Typ der Größenänderung. |
 
 ### Siehe auch
 
 * enum [ResizeType](../../resizetype/)
 * class [Image](../)
-* namensraum [Aspose.PSD](../../image/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
@@ -59,13 +60,13 @@ public virtual void ResizeHeightProportionally(int newHeight, ImageResizeSetting
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
 | newHeight | Int32 | Die neue Höhe. |
-| settings | ImageResizeSettings | Die Einstellungen zur Bildgrößenänderung. |
+| Einstellungen | ImageResizeSettings | Die Bildgrößen‑Einstellungen. |
 
 ### Siehe auch
 
 * class [ImageResizeSettings](../../imageresizesettings/)
 * class [Image](../)
-* namensraum [Aspose.PSD](../../image/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

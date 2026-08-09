@@ -1,27 +1,28 @@
 ---
-title: IPlacedLayerResource.Value
-second_title: Aspose.PSD für .NET-API-Referenz
-description: IPlacedLayerResource eigendom. Ruft den WarpWert der platzierten Ebene im PSDBild ab oder legt ihn fest.
+title: "IPlacedLayerResource.Value"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "IPlacedLayerResource Eigenschaft. Ruft den Warp-Wert der platzierten Ebene im PSD-Bild ab oder legt ihn fest"
 type: docs
 weight: 190
 url: /de/net/aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/value/
 ---
+{{< psd/tize >}}
 ## IPlacedLayerResource.Value property
 
-Ruft den Warp-Wert der platzierten Ebene im PSD-Bild ab oder legt ihn fest.
+Liest oder legt den Warp-Wert der platzierten Ebene im PSD-Bild fest.
 
 ```csharp
 public double Value { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
-Der Warp-Wert der platzierten Ebene.
+Der Verzerrungswert der platzierten Ebene.
 
 ### Siehe auch
 
 * interface [IPlacedLayerResource](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../iplacedlayerresource/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

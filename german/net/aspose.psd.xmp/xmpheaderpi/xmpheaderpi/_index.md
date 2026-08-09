@@ -1,14 +1,15 @@
 ---
-title: XmpHeaderPi.XmpHeaderPi
-second_title: Aspose.PSD für .NET-API-Referenz
-description: XmpHeaderPi constructeur. Initialisiert eine neue Instanz vonXmpHeaderPi Klasse.
+title: "XmpHeaderPi.XmpHeaderPi"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "XmpHeaderPi-Konstruktor. Initialisiert eine neue Instanz der XmpHeaderPi-Klasse."
 type: docs
 weight: 10
 url: /de/net/aspose.psd.xmp/xmpheaderpi/xmpheaderpi/
 ---
+{{< psd/tize >}}
 ## XmpHeaderPi() {#constructor}
 
-Initialisiert eine neue Instanz von[`XmpHeaderPi`](../) Klasse.
+Initialisiert eine neue Instanz der [`XmpHeaderPi`](../)-Klasse.
 
 ```csharp
 public XmpHeaderPi()
@@ -17,14 +18,14 @@ public XmpHeaderPi()
 ### Siehe auch
 
 * class [XmpHeaderPi](../)
-* namensraum [Aspose.PSD.Xmp](../../xmpheaderpi/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## XmpHeaderPi(string) {#constructor_1}
 
-Initialisiert eine neue Instanz von[`XmpHeaderPi`](../) Klasse.
+Initialisiert eine neue Instanz der [`XmpHeaderPi`](../)-Klasse.
 
 ```csharp
 public XmpHeaderPi(string guid)
@@ -32,12 +33,12 @@ public XmpHeaderPi(string guid)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| guid | String | Die eindeutige Kennung. |
+| GUID | String | Der eindeutige Bezeichner. |
 
 ### Siehe auch
 
 * class [XmpHeaderPi](../)
-* namensraum [Aspose.PSD.Xmp](../../xmpheaderpi/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

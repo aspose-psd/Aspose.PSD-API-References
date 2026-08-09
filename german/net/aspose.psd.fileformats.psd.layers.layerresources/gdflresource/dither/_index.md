@@ -1,26 +1,27 @@
 ---
-title: GdFlResource.Dither
-second_title: Aspose.PSD für .NET-API-Referenz
-description: GdFlResource eigendom. Ruft einen Wert ab oder legt einen Wert fest der angibt ob dies der Fall istGdFlResource ist Zittern.
+title: "GdFlResource.Dither"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "GdFlResource Eigenschaft. Gibt einen Wert zurück oder legt ihn fest, der angibt, ob diese GdFlResource dither ist"
 type: docs
-weight: 60
+weight: 70
 url: /de/net/aspose.psd.fileformats.psd.layers.layerresources/gdflresource/dither/
 ---
+{{< psd/tize >}}
 ## GdFlResource.Dither property
 
-Ruft einen Wert ab oder legt einen Wert fest, der angibt, ob dies der Fall ist[`GdFlResource`](../) ist Zittern.
+Gibt einen Wert zurück oder legt ihn fest, der angibt, ob diese [`GdFlResource`](../) dither ist.
 
 ```csharp
 public bool Dither { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
-`WAHR` wenn schwanken; ansonsten,`FALSCH` .
+`true` wenn dither; sonst `false`.
 
-### Beispiele
+## Beispiele
 
-Das folgende Beispiel demonstriert die Unterstützung des Ladens von GdFlResource-Ressourcen.
+Das folgende Beispiel demonstriert die Unterstützung des Ladens von GdFlResource Ressourcen.
 
 ```csharp
 [C#]
@@ -40,7 +41,7 @@ using (im)
             {
                 if (res is GdFlResource)
                 {
-                    // Lektüre
+                    // Lesen
                     var resource = (GdFlResource)res;
                     if (resource.AlignWithLayer != false ||
                      (Math.Abs(resource.Angle - 45.0) > 0.001) ||
@@ -117,7 +118,7 @@ using (im)
 ### Siehe auch
 
 * class [GdFlResource](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../gdflresource/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

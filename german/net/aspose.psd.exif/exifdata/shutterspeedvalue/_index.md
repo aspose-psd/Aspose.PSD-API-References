@@ -1,28 +1,29 @@
 ---
-title: ExifData.ShutterSpeedValue
-second_title: Aspose.PSD für .NET-API-Referenz
-description: ExifData eigendom. Ruft den Verschlusszeitwert ab oder legt ihn fest.
+title: "ExifData.ShutterSpeedValue"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "ExifData-Eigenschaft. Ruft den Verschlussgeschwindigkeitswert ab oder legt ihn fest"
 type: docs
 weight: 950
 url: /de/net/aspose.psd.exif/exifdata/shutterspeedvalue/
 ---
+{{< psd/tize >}}
 ## ExifData.ShutterSpeedValue property
 
-Ruft den Verschlusszeitwert ab oder legt ihn fest.
+Liest oder setzt den Verschlusszeitwert.
 
 ```csharp
 public TiffSRational ShutterSpeedValue { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
-Der Verschlusszeitwert.
+Der Wert der Verschlusszeit.
 
 ### Siehe auch
 
 * class [TiffSRational](../../../aspose.psd.fileformats.tiff/tiffsrational/)
 * class [ExifData](../)
-* namensraum [Aspose.PSD.Exif](../../exifdata/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

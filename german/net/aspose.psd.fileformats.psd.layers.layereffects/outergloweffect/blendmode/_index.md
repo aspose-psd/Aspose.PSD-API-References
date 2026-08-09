@@ -1,26 +1,27 @@
 ---
-title: OuterGlowEffect.BlendMode
-second_title: Aspose.PSD für .NET-API-Referenz
-description: OuterGlowEffect eigendom. Ruft den Mischmodus ab oder legt ihn fest.
+title: "OuterGlowEffect.BlendMode"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "OuterGlowEffect property. Gibt einen Wert zurück oder legt ihn fest, der den Mischmodus angibt."
 type: docs
 weight: 10
 url: /de/net/aspose.psd.fileformats.psd.layers.layereffects/outergloweffect/blendmode/
 ---
+{{< psd/tize >}}
 ## OuterGlowEffect.BlendMode property
 
-Ruft den Mischmodus ab oder legt ihn fest.
+Liest oder setzt den Mischmodus.
 
 ```csharp
 public BlendMode BlendMode { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
 Der Mischmodus.
 
-### Beispiele
+## Beispiele
 
-Der folgende Code demonstriert die OuterGlowEffect-Unterstützung.
+Der folgende Code demonstriert die Unterstützung von OuterGlowEffect.
 
 ```csharp
 [C#]
@@ -45,7 +46,7 @@ using (var image = (PsdImage)Image.Load(src))
 
 * enum [BlendMode](../../../aspose.psd.fileformats.core.blending/blendmode/)
 * class [OuterGlowEffect](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../outergloweffect/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../../)
 
 

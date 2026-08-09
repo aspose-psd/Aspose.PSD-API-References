@@ -1,14 +1,15 @@
 ---
-title: JpegOptions.JpegLsInterleaveMode
-second_title: Aspose.PSD für .NET-API-Referenz
-description: JpegOptions eigendom. Ruft den JPEGLSInterleaveModus ab oder legt ihn fest.
+title: "JpegOptions.JpegLsInterleaveMode"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "JpegOptions-Eigenschaft. Gibt den JPEGLS‑Interleavemodus zurück oder legt ihn fest"
 type: docs
-weight: 110
+weight: 120
 url: /de/net/aspose.psd.imageoptions/jpegoptions/jpeglsinterleavemode/
 ---
+{{< psd/tize >}}
 ## JpegOptions.JpegLsInterleaveMode property
 
-Ruft den JPEG-LS-Interleave-Modus ab oder legt ihn fest.
+Liest oder setzt den JPEG-LS-Interleave-Modus.
 
 ```csharp
 public JpegLsInterleaveMode JpegLsInterleaveMode { get; set; }
@@ -18,7 +19,7 @@ public JpegLsInterleaveMode JpegLsInterleaveMode { get; set; }
 
 * enum [JpegLsInterleaveMode](../../../aspose.psd.fileformats.jpeg/jpeglsinterleavemode/)
 * class [JpegOptions](../)
-* namensraum [Aspose.PSD.ImageOptions](../../jpegoptions/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

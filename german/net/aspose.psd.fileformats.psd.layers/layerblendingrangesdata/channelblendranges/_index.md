@@ -1,28 +1,29 @@
 ---
-title: LayerBlendingRangesData.ChannelBlendRanges
-second_title: Aspose.PSD für .NET-API-Referenz
-description: LayerBlendingRangesData eigendom. Ruft die Mischbereiche des Kanals ab oder legt sie fest.
+title: "LayerBlendingRangesData.ChannelBlendRanges"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "LayerBlendingRangesData-Eigenschaft. Ruft die Kanal-Blend-Range ab oder legt sie fest"
 type: docs
 weight: 20
 url: /de/net/aspose.psd.fileformats.psd.layers/layerblendingrangesdata/channelblendranges/
 ---
+{{< psd/tize >}}
 ## LayerBlendingRangesData.ChannelBlendRanges property
 
-Ruft die Mischbereiche des Kanals ab oder legt sie fest.
+Liest oder setzt die Kanal‑Mischbereiche.
 
 ```csharp
 public BlendRange[] ChannelBlendRanges { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
-Die Channel Blend Ranges.
+Die Kanal-Blend-Range.
 
 ### Siehe auch
 
 * class [BlendRange](../../blendrange/)
 * class [LayerBlendingRangesData](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers](../../layerblendingrangesdata/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

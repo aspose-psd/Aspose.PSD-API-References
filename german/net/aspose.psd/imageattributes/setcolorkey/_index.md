@@ -1,14 +1,15 @@
 ---
-title: ImageAttributes.SetColorKey
-second_title: Aspose.PSD für .NET-API-Referenz
-description: ImageAttributes methode. Legt den Farbschlüssel für die Standardkategorie fest.
+title: "ImageAttributes.SetColorKey"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "ImageAttributes-Methode. Legt den Farb‑Key für die Standardkategorie fest."
 type: docs
 weight: 120
 url: /de/net/aspose.psd/imageattributes/setcolorkey/
 ---
+{{< psd/tize >}}
 ## SetColorKey(Color, Color) {#setcolorkey}
 
-Legt den Farbschlüssel für die Standardkategorie fest.
+Setzt den Farbschlüssel für die Standardkategorie.
 
 ```csharp
 public void SetColorKey(Color colorLow, Color colorHigh)
@@ -16,21 +17,21 @@ public void SetColorKey(Color colorLow, Color colorHigh)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| colorLow | Color | Der niedrige Color-Key-Wert. |
-| colorHigh | Color | Der hohe Color-Key-Wert. |
+| colorLow | Farbe | Der niedrige Farb‑Key‑Wert. |
+| colorHigh | Farbe | Der hohe color-key-Wert. |
 
 ### Siehe auch
 
 * struct [Color](../../color/)
 * class [ImageAttributes](../)
-* namensraum [Aspose.PSD](../../imageattributes/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## SetColorKey(Color, Color, ColorAdjustType) {#setcolorkey_1}
 
-Legt den Farbschlüssel (Transparenzbereich) für eine bestimmte Kategorie fest.
+Setzt den Farbschlüssel (Transparenzbereich) für eine angegebene Kategorie.
 
 ```csharp
 public void SetColorKey(Color colorLow, Color colorHigh, ColorAdjustType type)
@@ -38,16 +39,16 @@ public void SetColorKey(Color colorLow, Color colorHigh, ColorAdjustType type)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| colorLow | Color | Der niedrige Color-Key-Wert. |
-| colorHigh | Color | Der hohe Color-Key-Wert. |
-| type | ColorAdjustType | Ein Element von[`ColorAdjustType`](../../coloradjusttype/) die die Kategorie angibt, für die der Farbschlüssel festgelegt ist. |
+| colorLow | Farbe | Der niedrige Farb‑Key‑Wert. |
+| colorHigh | Farbe | Der hohe color-key-Wert. |
+| type | ColorAdjustType | Ein Element von [`ColorAdjustType`](../../coloradjusttype/), das die Kategorie angibt, für die der color key festgelegt wird. |
 
 ### Siehe auch
 
 * struct [Color](../../color/)
 * enum [ColorAdjustType](../../coloradjusttype/)
 * class [ImageAttributes](../)
-* namensraum [Aspose.PSD](../../imageattributes/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

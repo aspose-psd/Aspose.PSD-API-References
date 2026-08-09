@@ -1,14 +1,15 @@
 ---
-title: Class AiDataSection
-second_title: Aspose.PSD für .NET-API-Referenz
-description: Aspose.PSD.FileFormats.Ai.AiDataSection klas. Der Datenabschnitt im AiFormat
+title: "Klasse AiDataSection"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "Aspose.PSD.FileFormats.Ai.AiDataSection Klasse. Der Ai format Data Section"
 type: docs
-weight: 1220
+weight: 1230
 url: /de/net/aspose.psd.fileformats.ai/aidatasection/
 ---
+{{< psd/tize >}}
 ## AiDataSection class
 
-Der Datenabschnitt im Ai-Format
+Der Ai-Format-Datenabschnitt
 
 ```csharp
 public class AiDataSection : DisposableObject
@@ -18,19 +19,19 @@ public class AiDataSection : DisposableObject
 
 | Name | Beschreibung |
 | --- | --- |
-| [Disposed](../../aspose.psd/disposableobject/disposed/) { get; } | Ruft einen Wert ab, der angibt, ob diese Instanz verworfen wird. |
+| [Disposed](../../aspose.psd/disposableobject/disposed/) { get; } | Liest einen Wert, der angibt, ob diese Instanz freigegeben wurde. |
 
 ## Methoden
 
 | Name | Beschreibung |
 | --- | --- |
-| [Dispose](../../aspose.psd/disposableobject/dispose/)() | Verwirft die aktuelle Instanz. |
-| [GetData](../../aspose.psd.fileformats.ai/aidatasection/getdata/)() | Ruft die String-Daten ab. |
+| [Dispose](../../aspose.psd/disposableobject/dispose/)() | Gibt die aktuelle Instanz frei. |
+| [GetData](../../aspose.psd.fileformats.ai/aidatasection/getdata/)() | Gibt die Zeichenkettendaten zurück. |
 
 ### Siehe auch
 
 * class [DisposableObject](../../aspose.psd/disposableobject/)
-* namensraum [Aspose.PSD.FileFormats.Ai](../../aspose.psd.fileformats.ai/)
-* Montage [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../)
 
 

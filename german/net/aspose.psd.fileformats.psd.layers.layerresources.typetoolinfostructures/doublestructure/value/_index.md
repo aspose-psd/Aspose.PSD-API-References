@@ -1,27 +1,28 @@
 ---
-title: DoubleStructure.Value
-second_title: Aspose.PSD für .NET-API-Referenz
-description: DoubleStructure eigendom. Ruft den DoubleWert ab oder legt ihn fest.
+title: "DoubleStructure.Value"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "DoubleStructure Eigenschaft. Liest oder setzt den double-Wert"
 type: docs
 weight: 40
 url: /de/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/doublestructure/value/
 ---
+{{< psd/tize >}}
 ## DoubleStructure.Value property
 
-Ruft den Double-Wert ab oder legt ihn fest.
+Liest oder setzt den Double-Wert.
 
 ```csharp
 public double Value { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
-Der doppelte Wert.
+Der double-Wert.
 
 ### Siehe auch
 
 * class [DoubleStructure](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../doublestructure/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 

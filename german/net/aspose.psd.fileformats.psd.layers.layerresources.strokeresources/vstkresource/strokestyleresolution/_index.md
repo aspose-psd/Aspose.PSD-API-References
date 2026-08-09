@@ -1,14 +1,15 @@
 ---
-title: VstkResource.StrokeStyleResolution
-second_title: Aspose.PSD für .NET-API-Referenz
-description: VstkResource eigendom. Ruft die Strichstilauflösung ab oder legt sie fest.
+title: "VstkResource.StrokeStyleResolution"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "VstkResource-Eigenschaft. Gibt oder setzt die Strichstil-Auflösung"
 type: docs
-weight: 190
+weight: 170
 url: /de/net/aspose.psd.fileformats.psd.layers.layerresources.strokeresources/vstkresource/strokestyleresolution/
 ---
+{{< psd/tize >}}
 ## VstkResource.StrokeStyleResolution property
 
-Ruft die Strichstilauflösung ab oder legt sie fest.
+Liest oder setzt die Auflösung des Strichstils.
 
 ```csharp
 public double StrokeStyleResolution { get; set; }
@@ -17,7 +18,7 @@ public double StrokeStyleResolution { get; set; }
 ### Siehe auch
 
 * class [VstkResource](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.StrokeResources](../../vstkresource/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.StrokeResources](../../../aspose.psd.fileformats.psd.layers.layerresources.strokeresources/)
+* assembly [Aspose.PSD](../../../)
 
 

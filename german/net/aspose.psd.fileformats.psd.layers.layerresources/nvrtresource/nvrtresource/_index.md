@@ -1,14 +1,15 @@
 ---
-title: NvrtResource.NvrtResource
-second_title: Aspose.PSD für .NET-API-Referenz
-description: NvrtResource constructeur. Initialisiert eine neue Instanz vonNvrtResource Klasse.
+title: "NvrtResource.NvrtResource"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "NvrtResource-Konstruktor. Erstellt eine neue Instanz der NvrtResource-Klasse"
 type: docs
 weight: 10
 url: /de/net/aspose.psd.fileformats.psd.layers.layerresources/nvrtresource/nvrtresource/
 ---
+{{< psd/tize >}}
 ## NvrtResource() {#constructor}
 
-Initialisiert eine neue Instanz von[`NvrtResource`](../) Klasse.
+Erstellt eine neue Instanz der [`NvrtResource`](../)-Klasse.
 
 ```csharp
 public NvrtResource()
@@ -17,14 +18,14 @@ public NvrtResource()
 ### Siehe auch
 
 * class [NvrtResource](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../nvrtresource/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## NvrtResource(byte[]) {#constructor_1}
 
-Initialisiert eine neue Instanz von[`NvrtResource`](../) Klasse.
+Erstellt eine neue Instanz der [`NvrtResource`](../)-Klasse.
 
 ```csharp
 public NvrtResource(byte[] data)
@@ -32,7 +33,7 @@ public NvrtResource(byte[] data)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| data | Byte[] | Die Daten der Ressource. |
+| Daten | Byte[] | Die Daten der Ressource. |
 
 ### Ausnahmen
 
@@ -43,7 +44,7 @@ public NvrtResource(byte[] data)
 ### Siehe auch
 
 * class [NvrtResource](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../nvrtresource/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

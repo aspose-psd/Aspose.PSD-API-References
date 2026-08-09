@@ -1,14 +1,15 @@
 ---
-title: Interface IImageCreatorDescriptor
-second_title: Aspose.PSD für .NET-API-Referenz
-description: Aspose.PSD.IImageCreatorDescriptor koppel. Der BilderstellerDeskriptor der die Erstellereigenschaften angibt. Der ErstellerDeskriptor wird verwendet um die Notwendigkeit zu überwinden jede ImageErstellerInstanz im Speicher und MultithreadingProbleme zu enthalten.
+title: "Schnittstelle IImageCreatorDescriptor"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "Aspose.PSD.IImageCreatorDescriptor Schnittstelle. Der Bild‑Ersteller‑Deskriptor, der die Ersteller‑Eigenschaften spezifiziert. Der Deskriptor wird verwendet, um die Notwendigkeit zu umgehen, jede Bild‑Ersteller‑Instanz im Speicher zu halten und Probleme beim Multithreading zu vermeiden."
 type: docs
-weight: 4410
+weight: 4880
 url: /de/net/aspose.psd/iimagecreatordescriptor/
 ---
+{{< psd/tize >}}
 ## IImageCreatorDescriptor interface
 
-Der Bildersteller-Deskriptor, der die Erstellereigenschaften angibt. Der Ersteller-Deskriptor wird verwendet, um die Notwendigkeit zu überwinden, jede Image-Ersteller-Instanz im Speicher und Multithreading-Probleme zu enthalten.
+Der Bildgenerator-Deskriptor, der die Eigenschaften des Erstellers angibt. Der Ersteller-Deskriptor wird verwendet, um die Notwendigkeit zu umgehen, jede Bildgenerator-Instanz im Speicher zu halten und Probleme mit Multithreading zu vermeiden.
 
 ```csharp
 public interface IImageCreatorDescriptor : IImageDescriptor
@@ -18,13 +19,13 @@ public interface IImageCreatorDescriptor : IImageDescriptor
 
 | Name | Beschreibung |
 | --- | --- |
-| [CanCreate](../../aspose.psd/iimagecreatordescriptor/cancreate/)(ImageOptionsBase) | Legt fest, ob der Bildersteller ein neues Bild mit erstellen kann*imageOptions* . |
-| [CreateInstance](../../aspose.psd/iimagecreatordescriptor/createinstance/)() | Erstellt eine neue Creator-Instanz. |
+| [CanCreate](../../aspose.psd/iimagecreatordescriptor/cancreate/)(ImageOptionsBase) | Bestimmt, ob der Bild‑Ersteller ein neues Bild mit den *imageOptions* erstellen kann. |
+| [CreateInstance](../../aspose.psd/iimagecreatordescriptor/createinstance/)() | Erstellt eine neue Ersteller‑Instanz. |
 
 ### Siehe auch
 
 * interface [IImageDescriptor](../iimagedescriptor/)
-* namensraum [Aspose.PSD](../../aspose.psd/)
-* Montage [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

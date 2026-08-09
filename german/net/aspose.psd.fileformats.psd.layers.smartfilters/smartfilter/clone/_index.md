@@ -1,14 +1,15 @@
 ---
-title: SmartFilter.Clone
-second_title: Aspose.PSD für .NET-API-Referenz
-description: SmartFilter methode. Erstellt den mitgliederweisen Klon der aktuellen Instanz des Typs.
+title: "SmartFilter.Clone"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "SmartFilter-Methode. Erstellt die Memberweise-Kopie der aktuellen Instanz des Typs"
 type: docs
 weight: 100
 url: /de/net/aspose.psd.fileformats.psd.layers.smartfilters/smartfilter/clone/
 ---
+{{< psd/tize >}}
 ## SmartFilter.Clone method
 
-Erstellt den mitgliederweisen Klon der aktuellen Instanz des Typs.
+Erstellt die Mitgliedskopie der aktuellen Instanz des Typs.
 
 ```csharp
 public SmartFilter Clone()
@@ -16,12 +17,12 @@ public SmartFilter Clone()
 
 ### Rückgabewert
 
-Gibt den mitgliederweisen Klon der aktuellen Instanz des Typs zurück.
+Gibt die memberweise Kopie der aktuellen Instanz des Typs zurück.
 
 ### Siehe auch
 
 * class [SmartFilter](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.SmartFilters](../../smartfilter/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.SmartFilters](../../../aspose.psd.fileformats.psd.layers.smartfilters/)
+* assembly [Aspose.PSD](../../../)
 
 

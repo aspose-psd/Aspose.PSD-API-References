@@ -1,27 +1,28 @@
 ---
-title: ColorantRgb.Green
-second_title: Aspose.PSD für .NET-API-Referenz
-description: ColorantRgb eigendom. Ruft den grünen Komponentenwert ab oder legt ihn fest.
+title: "ColorantRgb.Green"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "ColorantRgb-Eigenschaft. Ruft den Grünkomponentenwert ab oder legt ihn fest"
 type: docs
 weight: 30
 url: /de/net/aspose.psd.xmp.types.complex.colorant/colorantrgb/green/
 ---
+{{< psd/tize >}}
 ## ColorantRgb.Green property
 
-Ruft den grünen Komponentenwert ab oder legt ihn fest.
+Liest oder legt den Grün‑Komponentenwert fest.
 
 ```csharp
 public byte Green { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
-Der grüne Komponentenwert.
+Der Grünkomponentenwert.
 
 ### Siehe auch
 
 * class [ColorantRgb](../)
-* namensraum [Aspose.PSD.Xmp.Types.Complex.Colorant](../../colorantrgb/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.Colorant](../../../aspose.psd.xmp.types.complex.colorant/)
+* assembly [Aspose.PSD](../../../)
 
 

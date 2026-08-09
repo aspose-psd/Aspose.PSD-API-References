@@ -1,14 +1,15 @@
 ---
-title: JpegLsPresetCodingParameters.JpegLsPresetCodingParameters
-second_title: Aspose.PSD für .NET-API-Referenz
-description: JpegLsPresetCodingParameters constructeur. Default_Constructor
+title: "JpegLsPresetCodingParameters.JpegLsPresetCodingParameters"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "JpegLsPresetCodingParameters-Konstruktor. Der Standardkonstruktor"
 type: docs
 weight: 10
 url: /de/net/aspose.psd.fileformats.jpeg/jpeglspresetcodingparameters/jpeglspresetcodingparameters/
 ---
+{{< psd/tize >}}
 ## JpegLsPresetCodingParameters constructor
 
-Default_Constructor
+Der Standardkonstruktor.
 
 ```csharp
 public JpegLsPresetCodingParameters()
@@ -17,7 +18,7 @@ public JpegLsPresetCodingParameters()
 ### Siehe auch
 
 * class [JpegLsPresetCodingParameters](../)
-* namensraum [Aspose.PSD.FileFormats.Jpeg](../../jpeglspresetcodingparameters/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Jpeg](../../../aspose.psd.fileformats.jpeg/)
+* assembly [Aspose.PSD](../../../)
 
 

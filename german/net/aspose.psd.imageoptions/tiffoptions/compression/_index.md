@@ -1,28 +1,29 @@
 ---
-title: TiffOptions.Compression
-second_title: Aspose.PSD für .NET-API-Referenz
-description: TiffOptions eigendom. Ruft die Komprimierung ab oder legt sie fest.
+title: "TiffOptions.Compression"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "TiffOptions-Eigenschaft. Liest oder setzt die Kompression"
 type: docs
 weight: 90
 url: /de/net/aspose.psd.imageoptions/tiffoptions/compression/
 ---
+{{< psd/tize >}}
 ## TiffOptions.Compression property
 
-Ruft die Komprimierung ab oder legt sie fest.
+Liest oder setzt die Kompression.
 
 ```csharp
 public TiffCompressions Compression { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
-Die Komprimierung.
+Die Kompression.
 
 ### Siehe auch
 
 * enum [TiffCompressions](../../../aspose.psd.fileformats.tiff.enums/tiffcompressions/)
 * class [TiffOptions](../)
-* namensraum [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

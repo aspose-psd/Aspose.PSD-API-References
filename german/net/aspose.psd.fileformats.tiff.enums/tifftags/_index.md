@@ -1,14 +1,15 @@
 ---
-title: Enum TiffTags
-second_title: Aspose.PSD für .NET-API-Referenz
-description: Aspose.PSD.FileFormats.Tiff.Enums.TiffTags opsomming. Das TIFFTag enum.
+title: "Aufzählung TiffTags"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "Aspose.PSD.FileFormats.Tiff.Enums.TiffTags Aufzählung. Die TIFF-Tag-Aufzählung"
 type: docs
-weight: 4170
+weight: 4640
 url: /de/net/aspose.psd.fileformats.tiff.enums/tifftags/
 ---
+{{< psd/tize >}}
 ## TiffTags enumeration
 
-Das TIFF-Tag enum.
+Das TIFF-Tag-Enum.
 
 ```csharp
 public enum TiffTags
@@ -18,106 +19,106 @@ public enum TiffTags
 
 | Name | Wert | Beschreibung |
 | --- | --- | --- |
-| SubFileType | `254` | Subfile-Datendeskriptor. |
-| OsubfileType | `255` | [veraltet durch TIFF rev. 5.0] Art der Daten in Subfile. |
-| ImageWidth | `256` | Bildbreite in Pixel. |
-| ImageLength | `257` | Bildhöhe in Pixel. |
-| BitsPerSample | `258` | Bits pro Kanal (Stichprobe). |
-| Compression | `259` | Datenkomprimierungstechnik. |
-| Photometric | `262` | Photometrische Auswertung. |
-| Thresholding | `263` | [veraltet durch TIFF rev. 5.0] Schwellwerte für Daten verwendet. |
-| CellWidth | `264` | [veraltet durch TIFF rev. 5.0] Breite der Dithering-Matrix. |
-| CellLength | `265` | [veraltet durch TIFF rev. 5.0] Dithering-Matrixhöhe. |
+| SubFileType | `254` | Unterdatei-Datenbeschreiber. |
+| OsubfileType | `255` | [veraltet durch TIFF Rev. 5.0] Art der Daten in Unterdatei. |
+| ImageWidth | `256` | Bildbreite in Pixeln. |
+| ImageLength | `257` | Bildhöhe in Pixeln. |
+| BitsPerSample | `258` | Bits pro Kanal (Sample). |
+| Compression | `259` | Datenkompressionstechnik. |
+| Photometric | `262` | Photometrische Interpretation. |
+| Thresholding | `263` | [veraltet durch TIFF Rev. 5.0] Schwellenwertbildung auf Daten verwendet. |
+| CellWidth | `264` | [veraltet durch TIFF Rev. 5.0] Dithering-Matrixbreite. |
+| CellLength | `265` | [veraltet durch TIFF Rev. 5.0] Dithering-Matrixhöhe. |
 | FillOrder | `266` | Datenreihenfolge innerhalb eines Bytes. |
-| DocumentName | `269` | Name des Dokuments, das für Bild gilt. |
+| DocumentName | `269` | Name des Dokuments, das das Bild enthält. |
 | ImageDescription | `270` | Informationen zum Bild. |
-| Make | `271` | Name des Scannerherstellers. |
-| Model | `272` | Name/Nummer des Scannermodells. |
+| Make | `271` | Herstellername des Scanners. |
+| Model | `272` | Modellname/Nummer des Scanners. |
 | StripOffsets | `273` | Offsets zu Datenstreifen. |
-| Orientation | `274` | [veraltet durch TIFF rev. 5.0] Bildausrichtung. |
+| Orientation | `274` | [veraltet durch TIFF Rev. 5.0] Bildorientierung. |
 | SamplesPerPixel | `277` | Samples pro Pixel. |
 | RowsPerStrip | `278` | Zeilen pro Datenstreifen. |
-| StripByteCounts | `279` | Bytes zählt für Strips. |
-| MinSampleValue | `280` | [veraltet durch TIFF rev. 5.0] Minimaler Abtastwert. |
-| MaxSampleValue | `281` | [veraltet durch TIFF rev. 5.0] Maximaler Abtastwert. |
+| StripByteCounts | `279` | Byteanzahl für Streifen. |
+| MinSampleValue | `280` | [veraltet durch TIFF Rev. 5.0] Minimaler Sample-Wert. |
+| MaxSampleValue | `281` | [veraltet durch TIFF Rev. 5.0] Maximaler Sample-Wert. |
 | Xresolution | `282` | Pixel/Auflösung in x. |
 | Yresolution | `283` | Pixel/Auflösung in y. |
 | PlanarConfig | `284` | Speicherorganisation. |
-| PageName | `285` | Bild des Seitennamens stammt von. |
-| Xposition | `286` | X Seitenversatz des Bildes links. |
-| Yposition | `287` | Y Seitenversatz des Bildes links. |
-| FreeOffsets | `288` | [veraltet durch TIFF rev. 5.0] Byte-Offset zum freien Block. |
-| FreeByteCounts | `289` | [veraltet durch TIFF rev. 5.0] Größen freier Blöcke. |
-| GrayResponseUnit | `290` | [veraltet durch TIFF rev. 6.0] Genauigkeit der Graustufenkurve. |
-| GrayResponseCurve | `291` | [veraltet durch TIFF rev. 6.0] Graustufen-Reaktionskurve. |
-| T4Options | `292` | TIFF 6.0-Eigennamen-Alias für GROUP3OPTIONS. Optionen für CCITT-Gruppe 3-Faxcodierung. 32 Flag-Bits. |
-| T6Options | `293` | Optionen für CCITT-Gruppe 4-Faxcodierung. 32 Flag-Bits. TIFF 6.0 Eigennamen-Alias für GROUP4OPTIONS. |
-| ResolutionUnit | `296` | Auflösungseinheiten. |
-| PageNumber | `297` | Seitenzahlen von mehreren Seiten. |
-| ColorResponseUnit | `300` | [veraltet durch TIFF rev. 6.0] Genauigkeit der Farbkurve. |
-| TransferFunction | `301` | Farbmetrikinfo. |
-| Software | `305` | Name &amp; Release. |
-| DateTime | `306` | Datum und Uhrzeit der Erstellung. |
+| PageName | `285` | Seitenname, von dem das Bild stammt. |
+| Xposition | `286` | X-Seitenoffset des Bildes links. |
+| Yposition | `287` | Y-Seitenoffset des Bildes links. |
+| FreeOffsets | `288` | [veraltet durch TIFF Rev. 5.0] Byte-Offset zum freien Block. |
+| FreeByteCounts | `289` | [veraltet durch TIFF Rev. 5.0] Größen freier Blöcke. |
+| GrayResponseUnit | `290` | [veraltet durch TIFF Rev. 6.0] Genauigkeit der Graustufenkurve. |
+| GrayResponseCurve | `291` | [veraltet durch TIFF rev. 6.0] Graustufen-Antwortkurve. |
+| T4Options | `292` | TIFF 6.0 richtiger Name Alias für GROUP3OPTIONS. Optionen für CCITT Group 3 Faxkodierung. 32 Flag-Bits. |
+| T6Options | `293` | Optionen für CCITT Group 4 Faxkodierung. 32 Flag-Bits. TIFF 6.0 richtiger Name Alias für GROUP4OPTIONS. |
+| ResolutionUnit | `296` | Einheiten der Auflösungen. |
+| PageNumber | `297` | Seitennummern von mehrseitigen Dokumenten. |
+| ColorResponseUnit | `300` | [veraltet durch TIFF rev. 6.0] Farbkurven-Genauigkeit. |
+| TransferFunction | `301` | Farbmetrie-Informationen. |
+| Software | `305` | Name &amp; Version. |
+| DateTime | `306` | Erstellungsdatum und -zeit. |
 | Artist | `315` | Ersteller des Bildes. |
-| HostComputer | `316` | Maschine wo erstellt. |
+| HostComputer | `316` | Maschine, auf der erstellt wurde. |
 | Predictor | `317` | Vorhersageschema mit LZW. |
-| WhitePoint | `318` | Bildweißpunkt. |
-| PrimaryChromaticities | `319` | Primäre Farbarten. |
-| ColorMap | `320` | RGB-Karte für Palettenbild. |
-| HalftoneHints | `321` | Highlight- und Schatteninfo. |
-| TileWidth | `322` | Kachelbreite in Pixel. |
-| TileLength | `323` | Kachelhöhe in Pixel. |
+| WhitePoint | `318` | Weißpunkt des Bildes. |
+| PrimaryChromaticities | `319` | Primäre Chromatizitäten. |
+| ColorMap | `320` | RGB-Zuordnung für Palettenbild. |
+| HalftoneHints | `321` | Highlight- + Schatteninformationen. |
+| TileWidth | `322` | Kachelbreite in Pixeln. |
+| TileLength | `323` | Kachelhöhe in Pixeln. |
 | TileOffsets | `324` | Offsets zu Datenkacheln. |
-| TileByteCounts | `325` | Byte-Anzahl für Kacheln. |
+| TileByteCounts | `325` | Byte-Anzahlen für Kacheln. |
 | BadFaxLines | `326` | Zeilen mit falscher Pixelanzahl. |
-| CleanFaxData | `327` | Neu generierte Zeileninfo. |
-| ConsecutiveBadFaxLines | `328` | Max. aufeinanderfolgende fehlerhafte Zeilen. |
-| SubIfd | `330` | Subimage-Deskriptoren. |
+| CleanFaxData | `327` | Regenerierte Zeileninformationen. |
+| ConsecutiveBadFaxLines | `328` | Maximale aufeinanderfolgende fehlerhafte Zeilen. |
+| SubIfd | `330` | Unterbild-Beschreiber. |
 | InkSet | `332` | Tinten in getrenntem Bild. |
 | InkNames | `333` | ASCII-Namen von Tinten. |
 | NumberOfInks | `334` | Anzahl der Tinten. |
-| DotRange | `336` | 0 % und 100 % Punktcodes. |
+| DotRange | `336` | 0%- und 100%-Punktcodes. |
 | TargetPrinter | `337` | Trennungsziel. |
 | ExtraSamples | `338` | Informationen zu zusätzlichen Proben. |
-| SampleFormat | `339` | Datenbeispielformat. |
+| SampleFormat | `339` | Datenprobenformat. |
 | SminSampleValue | `340` | Variable MinSampleValue. |
 | SmaxSampleValue | `341` | Variable MaxSampleValue. |
 | TransferRange | `342` | Variable TransferRange |
-| ClipPath | `343` | ClipPath. Eingeführt nach TIFF rev 6.0 von Adobe TIFF technote 2. |
-| Xclippathunits | `344` | XClipPathUnits. Eingeführt nach TIFF rev 6.0 von Adobe TIFF technote 2. |
-| Yclippathunits | `345` | YClipPathUnits. Eingeführt nach TIFF rev 6.0 von Adobe TIFF technote 2. |
-| Indexed | `346` | Indexiert. Eingeführt nach TIFF rev 6.0 von Adobe TIFF Technote 3. |
-| JpegTables | `347` | JPEG-Tabellenstream. Eingeführt nach TIFF rev 6.0. |
-| OpiProxy | `351` | OPI-Proxy. Eingeführt nach TIFF rev 6.0 von Adobe TIFF technote. |
-| JpegProc | `512` | [veraltet durch Technical Note #2, der ein überarbeitetes JPEG-in-TIFF-Schema angibt] JPEG-Verarbeitungsalgorithmus. |
-| JpegInerchangeFormat | `513` | [veraltet durch Technical Note #2, der ein überarbeitetes JPEG-in-TIFF-Schema angibt] Zeiger auf SOI-Marker. |
-| JpegInterchangeFormatLength | `514` | [veraltet durch Technical Note #2, der ein überarbeitetes JPEG-in-TIFF-Schema angibt] JFIF-Streamlänge |
-| JpegRestartInterval | `515` | [veraltet durch Technical Note #2, der ein überarbeitetes JPEG-in-TIFF-Schema angibt] Länge des Neustartintervalls. |
-| JpegLosslessPredictors | `517` | [veraltet durch Technical Note #2, der ein überarbeitetes JPEG-in-TIFF-Schema angibt] Prädiktor für verlustfreie Prozesse. |
-| JpegPointTransform | `518` | [veraltet durch Technical Note #2, der ein überarbeitetes JPEG-in-TIFF-Schema angibt] Verlustfreie Punkttransformation. |
-| JpegQTables | `519` | [veraltet durch Technical Note #2, der ein überarbeitetes JPEG-in-TIFF-Schema angibt] Q-Matrix-Offsets. |
-| JpegDCtables | `520` | [veraltet durch Technical Note #2, der ein überarbeitetes JPEG-in-TIFF-Schema angibt] Offsets der DCT-Tabelle. |
-| JpegACtables | `521` | [veraltet durch Technical Note #2, der ein überarbeitetes JPEG-in-TIFF-Schema angibt] AC-Koeffizienten-Offsets. |
-| YcbcrCoefficients | `529` | RGB -&gt; YCbCr-Transformation. |
+| ClipPath | `343` | ClipPath. Eingeführt nach TIFF Rev 6.0 durch Adobe TIFF Technote 2. |
+| Xclippathunits | `344` | XClipPathUnits. Eingeführt nach TIFF Rev 6.0 durch Adobe TIFF Technote 2. |
+| Yclippathunits | `345` | YClipPathUnits. Eingeführt nach TIFF Rev 6.0 durch Adobe TIFF Technote 2. |
+| Indexed | `346` | Indexed. Eingeführt nach TIFF Rev 6.0 durch Adobe TIFF Technote 3. |
+| JpegTables | `347` | JPEG-Tabellenstrom. Eingeführt nach TIFF Rev 6.0. |
+| OpiProxy | `351` | OPI-Proxy. Eingeführt nach TIFF Rev 6.0 durch Adobe TIFF Technote. |
+| JpegProc | `512` | [veraltet durch Technische Anmerkung #2, die ein überarbeitetes JPEG-in-TIFF-Schema spezifiziert] JPEG-Verarbeitungsalgorithmus. |
+| JpegInerchangeFormat | `513` | [veraltet durch Technische Anmerkung #2, die ein überarbeitetes JPEG-in-TIFF-Schema spezifiziert] Zeiger auf SOI-Markierung. |
+| JpegInterchangeFormatLength | `514` | [veraltet durch Technische Anmerkung #2, die ein überarbeitetes JPEG-in-TIFF-Schema spezifiziert] JFIF-Stream-Länge |
+| JpegRestartInterval | `515` | [veraltet durch Technische Anmerkung #2, die ein überarbeitetes JPEG-in-TIFF-Schema spezifiziert] Neustartintervall-Länge. |
+| JpegLosslessPredictors | `517` | [veraltet durch Technische Anmerkung #2, die ein überarbeitetes JPEG-in-TIFF-Schema spezifiziert] Verlustfreier Prozessor-Prädiktor. |
+| JpegPointTransform | `518` | [veraltet durch Technische Anmerkung #2, die ein überarbeitetes JPEG-in-TIFF-Schema spezifiziert] Verlustfreie Punkttransformation. |
+| JpegQTables | `519` | [veraltet durch Technische Anmerkung #2, die ein überarbeitetes JPEG-in-TIFF-Schema spezifiziert] Q-Matrix-Offsets. |
+| JpegDCtables | `520` | [veraltet durch Technische Anmerkung #2, die ein überarbeitetes JPEG-in-TIFF-Schema spezifiziert] DCT-Tabellen-Offsets. |
+| JpegACtables | `521` | [veraltet durch Technische Anmerkung #2, die ein überarbeitetes JPEG-in-TIFF-Schema spezifiziert] AC-Koeffizienten-Offsets. |
+| YcbcrCoefficients | `529` | RGB -&gt; YCbCr Transformation. |
 | YcbcrSubSampling | `530` | YCbCr-Subsampling-Faktoren. |
-| YcbcrPositioning | `531` | Subsample-Positionierung. |
-| ReferenceBlackWhite | `532` | Farbmetrikinfo. |
-| XmlPacket | `700` | XML-Paket. Eingeführt nach TIFF Rev. 6.0 von Adobe XMP Specification, Januar 2004. |
-| OpiImageid | `32781` | OPI-Bild-ID. Eingeführt nach TIFF rev 6.0 von Adobe TIFF technote. |
-| Refpts | `32953` | Bildbezugspunkte. Privates Tag registriert bei Island Graphics. |
-| Copyright | `33432` | Copyright-String. Dieses Tag ist in der TIFF-Version aufgelistet. 6.0 mit unbekanntem Eigentum. |
+| YcbcrPositioning | `531` | Subsampling-Positionierung. |
+| ReferenceBlackWhite | `532` | Farbmetrie-Informationen. |
+| XmlPacket | `700` | XML-Paket. Eingeführt nach TIFF Rev 6.0 durch die Adobe XMP-Spezifikation, Januar 2004. |
+| OpiImageid | `32781` | OPI ImageID. Eingeführt nach TIFF Rev 6.0 durch das Adobe TIFF-Technote. |
+| Refpts | `32953` | Bildreferenzpunkte. Privates Tag, registriert bei Island Graphics. |
+| Copyright | `33432` | Copyright-Zeichenkette. Dieses Tag ist in TIFF Rev. 6.0 aufgeführt, Eigentümer unbekannt. |
 | PhotoshopResources | `34377` | Photoshop-Bildressourcen. |
 | IccProfile | `34675` | Das eingebettete ICC-Geräteprofil |
 | ExifIfdPointer | `34665` | Ein Zeiger auf das Exif IFD. |
-| XPTitle | `40091` | Informationen über das Bild, verwendet von Windows Explorer. DieXPTitle wird vom Windows Explorer ignoriert, wenn dieImageDescription Tag existiert. |
+| XPTitle | `40091` | Informationen zum Bild, verwendet von Windows Explorer. Der XPTitle wird von Windows Explorer ignoriert, wenn das ImageDescription-Tag vorhanden ist. |
 | XPComment | `40092` | Kommentar zum Bild, verwendet von Windows Explorer. |
-| XPAuthor | `40093` | Bildautor, verwendet von Windows Explorer. DieXPAuthor wird vom Windows Explorer ignoriert, wenn dieArtist Tag existiert. |
+| XPAuthor | `40093` | Bildautor, verwendet von Windows Explorer. Der XPAuthor wird von Windows Explorer ignoriert, wenn das Artist-Tag vorhanden ist. |
 | XPKeywords | `40094` | Bildschlüsselwörter, verwendet von Windows Explorer. |
-| XPSubject | `40095` | Subjektbild, verwendet von Windows Explorer. |
+| XPSubject | `40095` | Bildthema, verwendet von Windows Explorer. |
 
 ### Siehe auch
 
-* namensraum [Aspose.PSD.FileFormats.Tiff.Enums](../../aspose.psd.fileformats.tiff.enums/)
-* Montage [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Tiff.Enums](../../aspose.psd.fileformats.tiff.enums/)
+* assembly [Aspose.PSD](../../)
 
 

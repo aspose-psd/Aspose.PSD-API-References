@@ -1,14 +1,15 @@
 ---
-title: Metered.SetMeteredKey
-second_title: Aspose.PSD für .NET-API-Referenz
-description: Metered methode. Legt gemessene öffentliche und private Schlüssel fest
+title: "Metered.SetMeteredKey"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "Metered-Methode. Legt den gemessenen öffentlichen und privaten Schlüssel fest. Wenn Sie eine gemessene Lizenz beim Start der Anwendung erwerben, sollte diese API normalerweise aufgerufen werden; das ist ausreichend. Sollte jedoch ständig das Hochladen von Verbrauchsdaten fehlschlagen und 24 Stunden überschreiten, wird die Lizenz auf den Evaluierungsstatus gesetzt. Um einen solchen Fall zu vermeiden, sollten Sie regelmäßig den Lizenzstatus prüfen; ist er im Evaluierungsstatus, rufen Sie diese API erneut auf."
 type: docs
-weight: 30
+weight: 40
 url: /de/net/aspose.psd/metered/setmeteredkey/
 ---
+{{< psd/tize >}}
 ## Metered.SetMeteredKey method
 
-Legt gemessene öffentliche und private Schlüssel fest
+Setzt den öffentlichen und privaten gemessenen Schlüssel. Wenn Sie eine gemessene Lizenz erwerben, sollte diese API beim Start der Anwendung aufgerufen werden; normalerweise reicht das aus. Wenn jedoch das Hochladen von Verbrauchsdaten ständig fehlschlägt und 24 Stunden überschreitet, wird die Lizenz auf den Evaluierungsstatus gesetzt. Um einen solchen Fall zu vermeiden, sollten Sie den Lizenzstatus regelmäßig prüfen; ist er im Evaluierungsstatus, rufen Sie diese API erneut auf.
 
 ```csharp
 public void SetMeteredKey(string publicKey, string privateKey)
@@ -16,13 +17,13 @@ public void SetMeteredKey(string publicKey, string privateKey)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| publicKey | String | Öffentlicher Schlüssel |
-| privateKey | String | Privat Schlüssel |
+| publicKey | String | öffentlicher Schlüssel |
+| privateKey | String | privater Schlüssel |
 
 ### Siehe auch
 
 * class [Metered](../)
-* namensraum [Aspose.PSD](../../metered/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

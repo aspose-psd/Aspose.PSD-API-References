@@ -1,27 +1,28 @@
 ---
-title: SmartObjectResource.Resolution
-second_title: Aspose.PSD für .NET-API-Referenz
-description: SmartObjectResource eigendom. Ruft die Auflösung der SmartObjektLayerDaten in der PSDDatei ab oder legt sie fest.
+title: "SmartObjectResource.Resolution"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "SmartObjectResource-Eigenschaft. Liest oder schreibt die Auflösung der Smart-Object-Ebenendaten in der PSD-Datei."
 type: docs
-weight: 190
+weight: 180
 url: /de/net/aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/resolution/
 ---
+{{< psd/tize >}}
 ## SmartObjectResource.Resolution property
 
-Ruft die Auflösung der Smart-Objekt-Layer-Daten in der PSD-Datei ab oder legt sie fest.
+Liest oder setzt die Auflösung der Smart‑Object‑Ebenendaten in der PSD‑Datei.
 
 ```csharp
 public double Resolution { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
-Die Auflösung der Smart-Objekt-Ebene.
+Die Auflösung der Smart-Object-Ebene.
 
 ### Siehe auch
 
 * class [SmartObjectResource](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../smartobjectresource/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: PsdOptions.ChannelBitsCount
-second_title: Aspose.PSD für .NET-API-Referenz
-description: PsdOptions eigendom. Ruft die Anzahl der Bits pro Farbkanal ab oder setzt sie.
+title: "PsdOptions.ChannelBitsCount"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "PsdOptions-Eigenschaft. Gibt die Bitanzahl pro Farbkanal zurück oder legt sie fest."
 type: docs
-weight: 20
+weight: 30
 url: /de/net/aspose.psd.imageoptions/psdoptions/channelbitscount/
 ---
+{{< psd/tize >}}
 ## PsdOptions.ChannelBitsCount property
 
-Ruft die Anzahl der Bits pro Farbkanal ab oder setzt sie.
+Liest oder setzt die Bitanzahl pro Farbkanal.
 
 ```csharp
 public short ChannelBitsCount { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
-Die Bits zählen pro Farbkanal.
+Die Bitanzahl pro Farbkanal.
 
 ### Siehe auch
 
 * class [PsdOptions](../)
-* namensraum [Aspose.PSD.ImageOptions](../../psdoptions/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

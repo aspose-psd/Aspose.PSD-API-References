@@ -1,20 +1,21 @@
 ---
-title: TypeToolInfoResource.Styles
-second_title: Aspose.PSD für .NET-API-Referenz
-description: TypeToolInfoResource eigendom. Ruft die Schriftstile ab oder legt sie fest.
+title: "TypeToolInfoResource.Styles"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "TypeToolInfoResource Eigenschaft. Liest oder legt die Schriftstile fest"
 type: docs
-weight: 210
+weight: 180
 url: /de/net/aspose.psd.fileformats.psd.layers.layerresources/typetoolinforesource/styles/
 ---
+{{< psd/tize >}}
 ## TypeToolInfoResource.Styles property
 
-Ruft die Schriftstile ab oder legt sie fest.
+Liest oder setzt die Schriftartenstile.
 
 ```csharp
 public TypeToolStyleInfo[] Styles { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
 Die Schriftstile.
 
@@ -22,7 +23,7 @@ Die Schriftstile.
 
 * class [TypeToolStyleInfo](../../typetoolstyleinfo/)
 * class [TypeToolInfoResource](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../typetoolinforesource/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

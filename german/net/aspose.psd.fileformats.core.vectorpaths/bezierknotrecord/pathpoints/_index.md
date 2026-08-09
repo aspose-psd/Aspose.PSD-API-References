@@ -1,28 +1,29 @@
 ---
-title: BezierKnotRecord.PathPoints
-second_title: Aspose.PSD für .NET-API-Referenz
-description: BezierKnotRecord eigendom. Ruft die Pfadpunkte ab oder setzt sie.
+title: "BezierKnotRecord.PathPoints"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "BezierKnotRecord Eigenschaft. Liest oder setzt die Pfadpunkte"
 type: docs
 weight: 50
 url: /de/net/aspose.psd.fileformats.core.vectorpaths/bezierknotrecord/pathpoints/
 ---
+{{< psd/tize >}}
 ## BezierKnotRecord.PathPoints property
 
-Ruft die Pfadpunkte ab oder setzt sie.
+Liest oder legt die Pfadpunkte fest.
 
 ```csharp
 public PointF[] PathPoints { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
-Die Wegpunkte.
+Die Pfadpunkte.
 
 ### Siehe auch
 
 * struct [PointF](../../../aspose.psd/pointf/)
 * class [BezierKnotRecord](../)
-* namensraum [Aspose.PSD.FileFormats.Core.VectorPaths](../../bezierknotrecord/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../../)
 
 

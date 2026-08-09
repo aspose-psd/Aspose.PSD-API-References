@@ -1,38 +1,39 @@
 ---
-title: Class ClipboardRecord
-second_title: Aspose.PSD für .NET-API-Referenz
-description: Aspose.PSD.FileFormats.Core.VectorPaths.ClipboardRecord klas. ZwischenablageDatensatzklasse
+title: "Klasse ClipboardRecord"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "Aspose.PSD.FileFormats.Core.VectorPaths.ClipboardRecord Klasse. Clipboard Record Klasse"
 type: docs
-weight: 1340
+weight: 1350
 url: /de/net/aspose.psd.fileformats.core.vectorpaths/clipboardrecord/
 ---
+{{< psd/tize >}}
 ## ClipboardRecord class
 
-Zwischenablage-Datensatzklasse
+Zwischenablage‑Record‑Klasse
 
 ```csharp
 public class ClipboardRecord : VectorPathRecord
 ```
 
-## Konstrukteure
+## Konstruktoren
 
 | Name | Beschreibung |
 | --- | --- |
-| [ClipboardRecord](clipboardrecord/#constructor)() | Initialisiert eine neue Instanz von`ClipboardRecord` Klasse. |
-| [ClipboardRecord](clipboardrecord/#constructor_1)(byte[]) | Initialisiert eine neue Instanz von`ClipboardRecord` Klasse. |
+| [ClipboardRecord](clipboardrecord/#constructor)() | Initialisiert eine neue Instanz der `ClipboardRecord` Klasse. |
+| [ClipboardRecord](clipboardrecord/#constructor_1)(byte[]) | Initialisiert eine neue Instanz der `ClipboardRecord` Klasse. |
 
 ## Eigenschaften
 
 | Name | Beschreibung |
 | --- | --- |
-| [BoundingRect](../../aspose.psd.fileformats.core.vectorpaths/clipboardrecord/boundingrect/) { get; set; } | Ruft das Begrenzungsrechteck ab oder legt es fest. |
-| [Resolution](../../aspose.psd.fileformats.core.vectorpaths/clipboardrecord/resolution/) { get; set; } | Ruft die Auflösung ab oder legt sie fest. |
-| override [Type](../../aspose.psd.fileformats.core.vectorpaths/clipboardrecord/type/) { get; } | Ruft den Typ ab. |
+| [BoundingRect](../../aspose.psd.fileformats.core.vectorpaths/clipboardrecord/boundingrect/) { get; set; } | Liest oder setzt das Begrenzungsrechteck. |
+| [Resolution](../../aspose.psd.fileformats.core.vectorpaths/clipboardrecord/resolution/) { get; set; } | Liest oder setzt die Auflösung. |
+| override [Type](../../aspose.psd.fileformats.core.vectorpaths/clipboardrecord/type/) { get; } | Liefert den Typ. |
 
 ### Siehe auch
 
 * class [VectorPathRecord](../vectorpathrecord/)
-* namensraum [Aspose.PSD.FileFormats.Core.VectorPaths](../../aspose.psd.fileformats.core.vectorpaths/)
-* Montage [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../)
 
 

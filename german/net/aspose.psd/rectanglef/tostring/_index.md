@@ -1,14 +1,15 @@
 ---
-title: RectangleF.ToString
-second_title: Aspose.PSD für .NET-API-Referenz
-description: RectangleF methode. Wandelt die Attribute davon umRectangleF in eine für Menschen lesbare Zeichenfolge.
+title: "RectangleF.ToString"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "RectangleF-Methode. Konvertiert die Attribute dieses RectangleF in einen menschenlesbaren String."
 type: docs
 weight: 250
 url: /de/net/aspose.psd/rectanglef/tostring/
 ---
+{{< psd/tize >}}
 ## RectangleF.ToString method
 
-Wandelt die Attribute davon um[`RectangleF`](../) in eine für Menschen lesbare Zeichenfolge.
+Konvertiert die Attribute dieses [`RectangleF`](../) in einen menschenlesbaren String.
 
 ```csharp
 public override string ToString()
@@ -16,12 +17,12 @@ public override string ToString()
 
 ### Rückgabewert
 
-Eine Zeichenfolge, die die Position, Breite und Höhe davon enthält[`RectangleF`](../) Struktur.
+Ein String, der die Position, Breite und Höhe dieser [`RectangleF`](../)-Struktur enthält.
 
 ### Siehe auch
 
 * struct [RectangleF](../)
-* namensraum [Aspose.PSD](../../rectanglef/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

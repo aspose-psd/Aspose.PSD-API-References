@@ -1,27 +1,28 @@
 ---
-title: ExifData.ImageUniqueID
-second_title: Aspose.PSD für .NET-API-Referenz
-description: ExifData eigendom. Ruft die eindeutige Bildkennung ab oder legt sie fest.
+title: "ExifData.ImageUniqueID"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "ExifData-Eigenschaft. Gibt die eindeutige Bildkennung zurück oder legt sie fest"
 type: docs
 weight: 680
 url: /de/net/aspose.psd.exif/exifdata/imageuniqueid/
 ---
+{{< psd/tize >}}
 ## ExifData.ImageUniqueID property
 
-Ruft die eindeutige Bildkennung ab oder legt sie fest.
+Liest oder setzt die eindeutige Bildkennung.
 
 ```csharp
 public string ImageUniqueID { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
-Die eindeutige Kennung des Bildes.
+Die eindeutige Bildkennung.
 
 ### Siehe auch
 
 * class [ExifData](../)
-* namensraum [Aspose.PSD.Exif](../../exifdata/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

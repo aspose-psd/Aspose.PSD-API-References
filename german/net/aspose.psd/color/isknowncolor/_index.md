@@ -1,27 +1,28 @@
 ---
-title: Color.IsKnownColor
-second_title: Aspose.PSD für .NET-API-Referenz
-description: Color eigendom. Ruft einen Wert ab der angibt ob diesColor Struktur ist eine vordefinierte Farbe. Vordefinierte Farben werden durch die Elemente der dargestelltKnownColor Aufzählung.
+title: "Color.IsKnownColor"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "Color-Eigenschaft. Gibt einen Wert zurück, der angibt, ob diese Color-Struktur eine vordefinierte Farbe ist. Vordefinierte Farben werden durch die Elemente der KnownColor‑Aufzählung dargestellt."
 type: docs
 weight: 1500
 url: /de/net/aspose.psd/color/isknowncolor/
 ---
+{{< psd/tize >}}
 ## Color.IsKnownColor property
 
-Ruft einen Wert ab, der angibt, ob dies[`Color`](../) Struktur ist eine vordefinierte Farbe. Vordefinierte Farben werden durch die Elemente der dargestellt[`KnownColor`](../../knowncolor/) Aufzählung.
+Gibt einen Wert zurück, der angibt, ob diese [`Color`](../)-Struktur eine vordefinierte Farbe ist. Vordefinierte Farben werden durch die Elemente der [`KnownColor`](../../knowncolor/)-Aufzählung dargestellt.
 
 ```csharp
 public bool IsKnownColor { get; }
 ```
 
-### Eigentumswert
+### Property Value
 
-Stimmt, wenn dies[`Color`](../) wurde aus einer vordefinierten Farbe erstellt, indem Sie entweder die[`FromName`](../fromname/) Methode oder die[`FromKnownColor`](../fromknowncolor/) Methode; andernfalls falsch.
+True, wenn diese [`Color`](../) mithilfe der [`FromName`](../fromname/)-Methode oder der [`FromKnownColor`](../fromknowncolor/)-Methode aus einer vordefinierten Farbe erstellt wurde; andernfalls false.
 
 ### Siehe auch
 
 * struct [Color](../)
-* namensraum [Aspose.PSD](../../color/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

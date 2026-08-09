@@ -1,27 +1,28 @@
 ---
-title: PlacedResource.PerspectiveOther
-second_title: Aspose.PSD für .NET-API-Referenz
-description: PlacedResource eigendom. Holt oder setzt den Perspective OtherWert der platzierten Ebene in der PSDDatei.
+title: "PlacedResource.PerspectiveOther"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "PlacedResource-Eigenschaft. Gibt den anderen Perspektivwert der platzierten Ebene in der PSD-Datei zurück oder setzt ihn."
 type: docs
 weight: 110
 url: /de/net/aspose.psd.fileformats.psd.layers.layerresources/placedresource/perspectiveother/
 ---
+{{< psd/tize >}}
 ## PlacedResource.PerspectiveOther property
 
-Holt oder setzt den Perspective Other-Wert der platzierten Ebene in der PSD-Datei.
+Liest oder legt den anderen Perspektivwert der platzierten Ebene in der PSD-Datei fest.
 
 ```csharp
 public double PerspectiveOther { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
-Der perspektivische andere Wert der platzierten Ebene.
+Der andere Perspektivwert der platzierten Ebene.
 
 ### Siehe auch
 
 * class [PlacedResource](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../placedresource/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

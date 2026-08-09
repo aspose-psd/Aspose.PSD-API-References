@@ -1,14 +1,15 @@
 ---
-title: Interface IImageExporterDescriptor
-second_title: Aspose.PSD für .NET-API-Referenz
-description: Aspose.PSD.IImageExporterDescriptor koppel. Repräsentiert den Deskriptor des Bildexportprogramms. Der ExporterDeskriptor wird verwendet um die Notwendigkeit zu überwinden jede ExporterInstanz im Arbeitsspeicher und MultithreadingProbleme einzuschließen.
+title: "Schnittstelle IImageExporterDescriptor"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "Aspose.PSD.IImageExporterDescriptor Schnittstelle. Stellt den Bildexport-Deskriptor dar. Der Export-Deskriptor wird verwendet, um die Notwendigkeit zu überwinden, jede Exporter-Instanz im Speicher zu halten und Probleme mit Multithreading zu vermeiden."
 type: docs
-weight: 4440
+weight: 4910
 url: /de/net/aspose.psd/iimageexporterdescriptor/
 ---
+{{< psd/tize >}}
 ## IImageExporterDescriptor interface
 
-Repräsentiert den Deskriptor des Bildexportprogramms. Der Exporter-Deskriptor wird verwendet, um die Notwendigkeit zu überwinden, jede Exporter-Instanz im Arbeitsspeicher und Multithreading-Probleme einzuschließen.
+Stellt den Bild-Exporter-Deskriptor dar. Der Exporter-Deskriptor wird verwendet, um die Notwendigkeit zu umgehen, jede Exporter-Instanz im Speicher zu halten und Probleme mit Multithreading zu vermeiden.
 
 ```csharp
 public interface IImageExporterDescriptor : IImageDescriptor
@@ -18,13 +19,13 @@ public interface IImageExporterDescriptor : IImageDescriptor
 
 | Name | Beschreibung |
 | --- | --- |
-| [CanExport](../../aspose.psd/iimageexporterdescriptor/canexport/)(Image, ImageOptionsBase) | Legt fest, ob der Bildexporter das angegebene Bild in das durch die Speicheroptionen angegebene angegebene Bildformat exportieren kann. |
+| [CanExport](../../aspose.psd/iimageexporterdescriptor/canexport/)(Image, ImageOptionsBase) | Bestimmt, ob der Bildexporter das angegebene Bild in das durch die Speicheroptionen angegebene Bildformat exportieren kann. |
 | [CreateInstance](../../aspose.psd/iimageexporterdescriptor/createinstance/)() | Erstellt eine neue Exporter-Instanz. |
 
 ### Siehe auch
 
 * interface [IImageDescriptor](../iimagedescriptor/)
-* namensraum [Aspose.PSD](../../aspose.psd/)
-* Montage [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

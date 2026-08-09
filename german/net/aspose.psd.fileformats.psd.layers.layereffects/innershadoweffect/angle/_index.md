@@ -1,27 +1,28 @@
 ---
-title: InnerShadowEffect.Angle
-second_title: Aspose.PSD für .NET-API-Referenz
-description: InnerShadowEffect eigendom. Ruft den Winkel in Grad ab oder legt ihn fest.
+title: "InnerShadowEffect.Angle"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "InnerShadowEffect property. Ruft den Winkel in Grad ab oder legt ihn fest"
 type: docs
 weight: 10
 url: /de/net/aspose.psd.fileformats.psd.layers.layereffects/innershadoweffect/angle/
 ---
+{{< psd/tize >}}
 ## InnerShadowEffect.Angle property
 
-Ruft den Winkel in Grad ab oder legt ihn fest.
+Liest oder setzt den Winkel in Grad.
 
 ```csharp
 public int Angle { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
 Der Winkel.
 
 ### Siehe auch
 
 * class [InnerShadowEffect](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../innershadoweffect/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../../)
 
 

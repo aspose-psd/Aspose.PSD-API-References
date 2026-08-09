@@ -1,28 +1,29 @@
 ---
-title: TiffImageException.OptionsError
-second_title: Aspose.PSD für .NET-API-Referenz
-description: TiffImageException eigendom. Ruft den TIFFOptionsfehler ab.
+title: "TiffImageException.OptionsError"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "TiffImageException Eigenschaft. Gibt den Tiff-Optionsfehler zurück"
 type: docs
 weight: 20
 url: /de/net/aspose.psd.coreexceptions.imageformats/tiffimageexception/optionserror/
 ---
+{{< psd/tize >}}
 ## TiffImageException.OptionsError property
 
-Ruft den TIFF-Optionsfehler ab.
+Liest den TIFF-Optionen-Fehler.
 
 ```csharp
 public TiffOptionsError OptionsError { get; }
 ```
 
-### Eigentumswert
+### Property Value
 
-Der TIFF-Optionsfehler.
+Der Tiff-Optionsfehler.
 
 ### Siehe auch
 
 * enum [TiffOptionsError](../../../aspose.psd.imageoptions/tiffoptionserror/)
 * class [TiffImageException](../)
-* namensraum [Aspose.PSD.CoreExceptions.ImageFormats](../../tiffimageexception/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.CoreExceptions.ImageFormats](../../../aspose.psd.coreexceptions.imageformats/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: DropShadowEffect.Size
-second_title: Aspose.PSD für .NET-API-Referenz
-description: DropShadowEffect eigendom. Ruft den Unschärfewert in Pixel ab oder legt ihn fest.
+title: "DropShadowEffect.Size"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "DropShadowEffect-Eigenschaft. Liest oder setzt den Unschärfewert in Pixeln"
 type: docs
 weight: 100
 url: /de/net/aspose.psd.fileformats.psd.layers.layereffects/dropshadoweffect/size/
 ---
+{{< psd/tize >}}
 ## DropShadowEffect.Size property
 
-Ruft den Unschärfewert in Pixel ab oder legt ihn fest.
+Liest oder setzt den Unschärfewert in Pixeln.
 
 ```csharp
 public int Size { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
 Die Größe.
 
 ### Siehe auch
 
 * class [DropShadowEffect](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../dropshadoweffect/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../../)
 
 

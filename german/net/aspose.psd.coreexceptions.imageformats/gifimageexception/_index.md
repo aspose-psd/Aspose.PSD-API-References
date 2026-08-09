@@ -1,30 +1,31 @@
 ---
-title: Class GifImageException
-second_title: Aspose.PSD für .NET-API-Referenz
-description: Aspose.PSD.CoreExceptions.ImageFormats.GifImageException klas. Die GifBildAusnahme.
+title: "Klasse GifImageException"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "Aspose.PSD.CoreExceptions.ImageFormats.GifImageException Klasse. Die Gif-Bildausnahme"
 type: docs
 weight: 520
 url: /de/net/aspose.psd.coreexceptions.imageformats/gifimageexception/
 ---
+{{< psd/tize >}}
 ## GifImageException class
 
-Die Gif-Bild-Ausnahme.
+Die GIF-Bildausnahme.
 
 ```csharp
 public class GifImageException : ImageException
 ```
 
-## Konstrukteure
+## Konstruktoren
 
 | Name | Beschreibung |
 | --- | --- |
-| [GifImageException](gifimageexception/#constructor)(string) | Initialisiert eine neue Instanz von`GifImageException` Klasse. |
-| [GifImageException](gifimageexception/#constructor_1)(string, Exception) | Initialisiert eine neue Instanz von`GifImageException` Klasse. |
+| [GifImageException](gifimageexception/#constructor)(string) | Initialisiert eine neue Instanz der `GifImageException`-Klasse. |
+| [GifImageException](gifimageexception/#constructor_1)(string, Exception) | Initialisiert eine neue Instanz der `GifImageException`-Klasse. |
 
 ### Siehe auch
 
 * class [ImageException](../../aspose.psd.coreexceptions/imageexception/)
-* namensraum [Aspose.PSD.CoreExceptions.ImageFormats](../../aspose.psd.coreexceptions.imageformats/)
-* Montage [Aspose.PSD](../../)
+* namespace [Aspose.PSD.CoreExceptions.ImageFormats](../../aspose.psd.coreexceptions.imageformats/)
+* assembly [Aspose.PSD](../../)
 
 

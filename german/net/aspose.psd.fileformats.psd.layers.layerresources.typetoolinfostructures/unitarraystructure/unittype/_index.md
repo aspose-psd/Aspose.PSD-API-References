@@ -1,24 +1,25 @@
 ---
-title: UnitArrayStructure.UnitType
-second_title: Aspose.PSD für .NET-API-Referenz
-description: UnitArrayStructure eigendom. Ruft den Typ der Maßeinheit ab oder legt ihn festUnitArrayStructure Werte.
+title: "UnitArrayStructure.UnitType"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "UnitArrayStructure Eigenschaft. Liest oder schreibt den Einheitstyp der Messung der UnitArrayStructure‑Werte"
 type: docs
 weight: 40
 url: /de/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/unitarraystructure/unittype/
 ---
+{{< psd/tize >}}
 ## UnitArrayStructure.UnitType property
 
-Ruft den Typ der Maßeinheit ab oder legt ihn fest[`UnitArrayStructure`](../) Werte.
+Liest oder schreibt den Einheitstyp der Messung der [`UnitArrayStructure`](../) Werte.
 
 ```csharp
 public UnitTypes UnitType { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
-Der Typ der Maßeinheit.
+Der Einheitstyp der Messung.
 
-### Beispiele
+## Beispiele
 
 Der folgende Code demonstriert die Unterstützung der ObAr- und UnFl-Signaturen.
 
@@ -76,7 +77,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
 
 * enum [UnitTypes](../../unittypes/)
 * class [UnitArrayStructure](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../unitarraystructure/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 

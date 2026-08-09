@@ -1,28 +1,29 @@
 ---
-title: Graphics.CompositingQuality
-second_title: Aspose.PSD für .NET-API-Referenz
-description: Graphics eigendom. Ruft die CompositingQualität ab oder legt sie fest.
+title: "Graphics.CompositingQuality"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "Graphics-Eigenschaft. Gibt die Kompositierungsqualität zurück oder legt sie fest"
 type: docs
 weight: 30
 url: /de/net/aspose.psd/graphics/compositingquality/
 ---
+{{< psd/tize >}}
 ## Graphics.CompositingQuality property
 
-Ruft die Compositing-Qualität ab oder legt sie fest.
+Liest oder setzt die Kompositierungsqualität.
 
 ```csharp
 public CompositingQuality CompositingQuality { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
-Die Compositing-Qualität.
+Die Kompositierungsqualität.
 
 ### Siehe auch
 
 * enum [CompositingQuality](../../compositingquality/)
 * class [Graphics](../)
-* namensraum [Aspose.PSD](../../graphics/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

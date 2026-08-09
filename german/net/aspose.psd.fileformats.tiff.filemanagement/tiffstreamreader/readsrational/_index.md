@@ -1,14 +1,15 @@
 ---
-title: TiffStreamReader.ReadSRational
-second_title: Aspose.PSD für .NET-API-Referenz
-description: TiffStreamReader methode. Liest einen einzelnen vorzeichenbehafteten rationalen Zahlenwert aus dem Stream.
+title: "TiffStreamReader.ReadSRational"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "TiffStreamReader-Methode. Liest einen einzelnen vorzeichenbehafteten rationalen Zahlenwert aus dem Stream"
 type: docs
 weight: 150
 url: /de/net/aspose.psd.fileformats.tiff.filemanagement/tiffstreamreader/readsrational/
 ---
+{{< psd/tize >}}
 ## TiffStreamReader.ReadSRational method
 
-Liest einen einzelnen vorzeichenbehafteten rationalen Zahlenwert aus dem Stream.
+Lese einen einzelnen vorzeichenbehafteten rationalen Zahlenwert aus dem Stream.
 
 ```csharp
 public TiffSRational ReadSRational(long position)
@@ -16,7 +17,7 @@ public TiffSRational ReadSRational(long position)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| position | Int64 | Die Position, an der gelesen werden soll. |
+| Position | Int64 | Die Position, von der gelesen werden soll. |
 
 ### Rückgabewert
 
@@ -26,7 +27,7 @@ Die vorzeichenbehaftete rationale Zahl.
 
 * class [TiffSRational](../../../aspose.psd.fileformats.tiff/tiffsrational/)
 * class [TiffStreamReader](../)
-* namensraum [Aspose.PSD.FileFormats.Tiff.FileManagement](../../tiffstreamreader/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff.FileManagement](../../../aspose.psd.fileformats.tiff.filemanagement/)
+* assembly [Aspose.PSD](../../../)
 
 

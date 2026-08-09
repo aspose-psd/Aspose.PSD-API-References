@@ -1,27 +1,28 @@
 ---
-title: PattResourceData.PatternData
-second_title: Aspose.PSD für .NET-API-Referenz
-description: PattResourceData eigendom. Ruft die Musterdaten ab.
+title: "PattResourceData.PatternData"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "PattResourceData-Eigenschaft. Gibt die Musterdaten zurück"
 type: docs
 weight: 60
 url: /de/net/aspose.psd.fileformats.psd.layers.layerresources/pattresourcedata/patterndata/
 ---
+{{< psd/tize >}}
 ## PattResourceData.PatternData property
 
-Ruft die Musterdaten ab.
+Liest die Musterdaten.
 
 ```csharp
 public int[] PatternData { get; }
 ```
 
-### Eigentumswert
+### Property Value
 
 Die Musterdaten.
 
 ### Siehe auch
 
 * class [PattResourceData](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../pattresourcedata/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

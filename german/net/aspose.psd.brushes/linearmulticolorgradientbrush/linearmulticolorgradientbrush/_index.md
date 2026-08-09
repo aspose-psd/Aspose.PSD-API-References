@@ -1,14 +1,15 @@
 ---
-title: LinearMulticolorGradientBrush.LinearMulticolorGradientBrush
-second_title: Aspose.PSD für .NET-API-Referenz
-description: LinearMulticolorGradientBrush constructeur. Initialisiert eine neue Instanz vonLinearMulticolorGradientBrush Klasse mit Standardparametern. Die Startfarbe ist Schwarz die Endfarbe Weiß der Winkel beträgt 45 Grad und das Rechteck befindet sich in 00 mit der Größe 11.
+title: "LinearMulticolorGradientBrush.LinearMulticolorGradientBrush"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "LinearMulticolorGradientBrush-Konstruktor. Initialisiert eine neue Instanz der LinearMulticolorGradientBrush-Klasse mit Standardparametern. Die Startfarbe ist Schwarz, die Endfarbe ist Weiß, der Winkel beträgt 45 Grad und das Rechteck befindet sich bei 00 mit Größe 11."
 type: docs
 weight: 10
 url: /de/net/aspose.psd.brushes/linearmulticolorgradientbrush/linearmulticolorgradientbrush/
 ---
+{{< psd/tize >}}
 ## LinearMulticolorGradientBrush() {#constructor}
 
-Initialisiert eine neue Instanz von[`LinearMulticolorGradientBrush`](../) Klasse mit Standardparametern. Die Startfarbe ist Schwarz, die Endfarbe Weiß, der Winkel beträgt 45 Grad und das Rechteck befindet sich in (0,0) mit der Größe (1,1).
+Initialisiert eine neue Instanz der [`LinearMulticolorGradientBrush`](../)-Klasse mit Standardparametern. Die Startfarbe ist Schwarz, die Endfarbe ist Weiß, der Winkel beträgt 45 Grad und das Rechteck befindet sich bei (0,0) mit Größe (1,1).
 
 ```csharp
 public LinearMulticolorGradientBrush()
@@ -17,14 +18,14 @@ public LinearMulticolorGradientBrush()
 ### Siehe auch
 
 * class [LinearMulticolorGradientBrush](../)
-* namensraum [Aspose.PSD.Brushes](../../linearmulticolorgradientbrush/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## LinearMulticolorGradientBrush(Point, Point) {#constructor_1}
 
-Initialisiert eine neue Instanz von[`LinearMulticolorGradientBrush`](../) Klasse mit den angegebenen Punkten.
+Initialisiert eine neue Instanz der [`LinearMulticolorGradientBrush`](../)-Klasse mit den angegebenen Punkten.
 
 ```csharp
 public LinearMulticolorGradientBrush(Point point1, Point point2)
@@ -32,21 +33,21 @@ public LinearMulticolorGradientBrush(Point point1, Point point2)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| point1 | Point | A[`Point`](../../../aspose.psd/point/) Struktur, die den Startpunkt des linearen Gradienten darstellt. |
-| point2 | Point | A[`Point`](../../../aspose.psd/point/) Struktur, die den Endpunkt des linearen Farbverlaufs darstellt. |
+| point1 | Point | Eine [`Point`](../../../aspose.psd/point/)-Struktur, die den Startpunkt des linearen Farbverlaufs darstellt. |
+| point2 | Point | Eine [`Point`](../../../aspose.psd/point/)-Struktur, die den Endpunkt des linearen Farbverlaufs darstellt. |
 
 ### Siehe auch
 
 * struct [Point](../../../aspose.psd/point/)
 * class [LinearMulticolorGradientBrush](../)
-* namensraum [Aspose.PSD.Brushes](../../linearmulticolorgradientbrush/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## LinearMulticolorGradientBrush(PointF, PointF) {#constructor_2}
 
-Initialisiert eine neue Instanz von[`LinearMulticolorGradientBrush`](../) Klasse mit den angegebenen Punkten.
+Initialisiert eine neue Instanz der [`LinearMulticolorGradientBrush`](../)-Klasse mit den angegebenen Punkten.
 
 ```csharp
 public LinearMulticolorGradientBrush(PointF point1, PointF point2)
@@ -54,21 +55,21 @@ public LinearMulticolorGradientBrush(PointF point1, PointF point2)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| point1 | PointF | A[`PointF`](../../../aspose.psd/pointf/) Struktur, die den Startpunkt des linearen Gradienten darstellt. |
-| point2 | PointF | A[`PointF`](../../../aspose.psd/pointf/) Struktur, die den Endpunkt des linearen Farbverlaufs darstellt. |
+| point1 | PointF | Eine [`PointF`](../../../aspose.psd/pointf/)-Struktur, die den Startpunkt des linearen Farbverlaufs darstellt. |
+| point2 | PointF | Eine [`PointF`](../../../aspose.psd/pointf/)-Struktur, die den Endpunkt des linearen Farbverlaufs darstellt. |
 
 ### Siehe auch
 
 * struct [PointF](../../../aspose.psd/pointf/)
 * class [LinearMulticolorGradientBrush](../)
-* namensraum [Aspose.PSD.Brushes](../../linearmulticolorgradientbrush/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## LinearMulticolorGradientBrush(Rectangle, float) {#constructor_3}
 
-Initialisiert eine neue Instanz von[`LinearMulticolorGradientBrush`](../) Klasse basierend auf einem Rechteck und einem Orientierungswinkel.
+Initialisiert eine neue Instanz der [`LinearMulticolorGradientBrush`](../)-Klasse basierend auf einem Rechteck und einem Orientierungwinkel.
 
 ```csharp
 public LinearMulticolorGradientBrush(Rectangle rect, float angle)
@@ -76,21 +77,21 @@ public LinearMulticolorGradientBrush(Rectangle rect, float angle)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| rect | Rectangle | A[`RectangleF`](../../../aspose.psd/rectanglef/) Struktur, die die Grenzen des linearen Farbverlaufs angibt. |
-| angle | Single | Der Winkel, gemessen in Grad im Uhrzeigersinn von der x-Achse, der Orientierungslinie des Farbverlaufs. |
+| rect | Rectangle | Eine [`RectangleF`](../../../aspose.psd/rectanglef/)-Struktur, die die Grenzen des linearen Farbverlaufs angibt. |
+| Winkel | Single | Der Winkel, gemessen in Grad im Uhrzeigersinn von der x-Achse, der Orientierungslinie des Farbverlaufs. |
 
 ### Siehe auch
 
 * struct [Rectangle](../../../aspose.psd/rectangle/)
 * class [LinearMulticolorGradientBrush](../)
-* namensraum [Aspose.PSD.Brushes](../../linearmulticolorgradientbrush/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## LinearMulticolorGradientBrush(RectangleF, float) {#constructor_5}
 
-Initialisiert eine neue Instanz von[`LinearMulticolorGradientBrush`](../) Klasse basierend auf einem Rechteck und einem Orientierungswinkel.
+Initialisiert eine neue Instanz der [`LinearMulticolorGradientBrush`](../)-Klasse basierend auf einem Rechteck und einem Orientierungwinkel.
 
 ```csharp
 public LinearMulticolorGradientBrush(RectangleF rect, float angle)
@@ -98,21 +99,21 @@ public LinearMulticolorGradientBrush(RectangleF rect, float angle)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| rect | RectangleF | A[`RectangleF`](../../../aspose.psd/rectanglef/) Struktur, die die Grenzen des linearen Farbverlaufs angibt. |
-| angle | Single | Der Winkel, gemessen in Grad im Uhrzeigersinn von der x-Achse, der Orientierungslinie des Farbverlaufs. |
+| rect | RectangleF | Eine [`RectangleF`](../../../aspose.psd/rectanglef/)-Struktur, die die Grenzen des linearen Farbverlaufs angibt. |
+| Winkel | Single | Der Winkel, gemessen in Grad im Uhrzeigersinn von der x-Achse, der Orientierungslinie des Farbverlaufs. |
 
 ### Siehe auch
 
 * struct [RectangleF](../../../aspose.psd/rectanglef/)
 * class [LinearMulticolorGradientBrush](../)
-* namensraum [Aspose.PSD.Brushes](../../linearmulticolorgradientbrush/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## LinearMulticolorGradientBrush(Rectangle, float, bool) {#constructor_4}
 
-Initialisiert eine neue Instanz von[`LinearMulticolorGradientBrush`](../) Klasse basierend auf einem Rechteck und einem Orientierungswinkel.
+Initialisiert eine neue Instanz der [`LinearMulticolorGradientBrush`](../)-Klasse basierend auf einem Rechteck und einem Orientierungwinkel.
 
 ```csharp
 public LinearMulticolorGradientBrush(Rectangle rect, float angle, bool isAngleScalable)
@@ -120,22 +121,22 @@ public LinearMulticolorGradientBrush(Rectangle rect, float angle, bool isAngleSc
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| rect | Rectangle | A[`RectangleF`](../../../aspose.psd/rectanglef/) Struktur, die die Grenzen des linearen Farbverlaufs angibt. |
-| angle | Single | Der Winkel, gemessen in Grad im Uhrzeigersinn von der x-Achse, der Orientierungslinie des Farbverlaufs. |
-| isAngleScalable | Boolean | wenn eingestellt`WAHR` damit wird der Winkel bei Transformationen verändert[`LinearMulticolorGradientBrush`](../). |
+| rect | Rectangle | Eine [`RectangleF`](../../../aspose.psd/rectanglef/)-Struktur, die die Grenzen des linearen Farbverlaufs angibt. |
+| Winkel | Single | Der Winkel, gemessen in Grad im Uhrzeigersinn von der x-Achse, der Orientierungslinie des Farbverlaufs. |
+| isAngleScalable | Boolean | Wenn auf `true` gesetzt, wird der Winkel während Transformationen mit diesem [`LinearMulticolorGradientBrush`](../) geändert. |
 
 ### Siehe auch
 
 * struct [Rectangle](../../../aspose.psd/rectangle/)
 * class [LinearMulticolorGradientBrush](../)
-* namensraum [Aspose.PSD.Brushes](../../linearmulticolorgradientbrush/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## LinearMulticolorGradientBrush(RectangleF, float, bool) {#constructor_6}
 
-Initialisiert eine neue Instanz von[`LinearMulticolorGradientBrush`](../) Klasse basierend auf einem Rechteck und einem Orientierungswinkel.
+Initialisiert eine neue Instanz der [`LinearMulticolorGradientBrush`](../)-Klasse basierend auf einem Rechteck und einem Orientierungwinkel.
 
 ```csharp
 public LinearMulticolorGradientBrush(RectangleF rect, float angle, bool isAngleScalable)
@@ -143,15 +144,15 @@ public LinearMulticolorGradientBrush(RectangleF rect, float angle, bool isAngleS
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| rect | RectangleF | A[`RectangleF`](../../../aspose.psd/rectanglef/) Struktur, die die Grenzen des linearen Farbverlaufs angibt. |
-| angle | Single | Der Winkel, gemessen in Grad im Uhrzeigersinn von der x-Achse, der Orientierungslinie des Farbverlaufs. |
-| isAngleScalable | Boolean | wenn eingestellt`WAHR` damit wird der Winkel bei Transformationen verändert[`LinearMulticolorGradientBrush`](../). |
+| rect | RectangleF | Eine [`RectangleF`](../../../aspose.psd/rectanglef/)-Struktur, die die Grenzen des linearen Farbverlaufs angibt. |
+| Winkel | Single | Der Winkel, gemessen in Grad im Uhrzeigersinn von der x-Achse, der Orientierungslinie des Farbverlaufs. |
+| isAngleScalable | Boolean | Wenn auf `true` gesetzt, wird der Winkel während Transformationen mit diesem [`LinearMulticolorGradientBrush`](../) geändert. |
 
 ### Siehe auch
 
 * struct [RectangleF](../../../aspose.psd/rectanglef/)
 * class [LinearMulticolorGradientBrush](../)
-* namensraum [Aspose.PSD.Brushes](../../linearmulticolorgradientbrush/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
+* assembly [Aspose.PSD](../../../)
 
 

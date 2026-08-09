@@ -1,27 +1,28 @@
 ---
-title: LayerMaskData.Right
-second_title: Aspose.PSD für .NET-API-Referenz
-description: LayerMaskData eigendom. Ruft die Position der richtigen Ebenenmaske ab oder legt sie fest.
+title: "LayerMaskData.Right"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "LayerMaskData-Eigenschaft. Gibt oder setzt die rechte Position der Ebenenmaske."
 type: docs
 weight: 80
 url: /de/net/aspose.psd.fileformats.psd.layers/layermaskdata/right/
 ---
+{{< psd/tize >}}
 ## LayerMaskData.Right property
 
-Ruft die Position der richtigen Ebenenmaske ab oder legt sie fest.
+Liest oder setzt die rechte Position der Ebenenmaske.
 
 ```csharp
 public int Right { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
-Die Position der richtigen Ebenenmaske.
+Die rechte Position der Ebenenmaske.
 
 ### Siehe auch
 
 * class [LayerMaskData](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers](../../layermaskdata/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,26 +1,27 @@
 ---
-title: GdFlResource.VerticalOffset
-second_title: Aspose.PSD für .NET-API-Referenz
-description: GdFlResource eigendom. Ruft den vertikalen Offset ab oder legt ihn fest.
+title: "GdFlResource.VerticalOffset"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "GdFlResource Eigenschaft. Gibt den vertikalen Versatz zurück oder legt ihn fest"
 type: docs
-weight: 180
+weight: 240
 url: /de/net/aspose.psd.fileformats.psd.layers.layerresources/gdflresource/verticaloffset/
 ---
+{{< psd/tize >}}
 ## GdFlResource.VerticalOffset property
 
-Ruft den vertikalen Offset ab oder legt ihn fest.
+Liest oder setzt den vertikalen Versatz.
 
 ```csharp
 public double VerticalOffset { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
 Der vertikale Versatz.
 
-### Beispiele
+## Beispiele
 
-Das folgende Beispiel demonstriert die Unterstützung des Ladens von GdFlResource-Ressourcen.
+Das folgende Beispiel demonstriert die Unterstützung des Ladens von GdFlResource Ressourcen.
 
 ```csharp
 [C#]
@@ -40,7 +41,7 @@ using (im)
             {
                 if (res is GdFlResource)
                 {
-                    // Lektüre
+                    // Lesen
                     var resource = (GdFlResource)res;
                     if (resource.AlignWithLayer != false ||
                      (Math.Abs(resource.Angle - 45.0) > 0.001) ||
@@ -117,7 +118,7 @@ using (im)
 ### Siehe auch
 
 * class [GdFlResource](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../gdflresource/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

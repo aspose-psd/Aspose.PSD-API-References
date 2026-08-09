@@ -1,26 +1,27 @@
 ---
-title: AiLayerSection.DimValue
-second_title: Aspose.PSD für .NET-API-Referenz
-description: AiLayerSection eigendom. Ruft den DimWert als Prozentsatz ab oder setzt ihn. Reduziert die Intensität von verknüpften Bildern und BitmapBildern die in der Ebene enthalten sind auf den angegebenen Prozentsatz.
+title: "AiLayerSection.DimValue"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "AiLayerSection-Eigenschaft. Gibt den Dim-Wert als Prozentsatz zurück oder legt ihn fest. Reduziert die Intensität von verknüpften Bildern und Bitmap-Bildern, die in der Ebene enthalten sind, auf den angegebenen Prozentsatz."
 type: docs
-weight: 30
+weight: 40
 url: /de/net/aspose.psd.fileformats.ai/ailayersection/dimvalue/
 ---
+{{< psd/tize >}}
 ## AiLayerSection.DimValue property
 
-Ruft den Dim-Wert als Prozentsatz ab oder setzt ihn. Reduziert die Intensität von verknüpften Bildern und Bitmap-Bildern, die in der Ebene enthalten sind, auf den angegebenen Prozentsatz.
+Liest oder setzt den Dimmwert als Prozentsatz. Reduziert die Intensität verknüpfter Bilder und Bitmap‑Bilder, die in der Ebene enthalten sind, auf den angegebenen Prozentsatz.
 
 ```csharp
 public int DimValue { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
-Der Dimmwert in Prozent.
+Der Dim-Wert als Prozentsatz.
 
-### Beispiele
+## Beispiele
 
-Das folgende Beispiel zeigt die Unterstützung von Ebenen in Dateien im AI-Format.
+Das folgende Beispiel demonstriert die Unterstützung von Ebenen in AI-Formatdateien.
 
 ```csharp
 [C#]
@@ -73,7 +74,7 @@ using (AiImage image = (AiImage)Image.Load(sourceFilePath))
 ### Siehe auch
 
 * class [AiLayerSection](../)
-* namensraum [Aspose.PSD.FileFormats.Ai](../../ailayersection/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: Class AiRasterImageSection
-second_title: Aspose.PSD für .NET-API-Referenz
-description: Aspose.PSD.FileFormats.Ai.AiRasterImageSection klas. Der AIRasterbildausschnitt
+title: "Klasse AiRasterImageSection"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "Aspose.PSD.FileFormats.Ai.AiRasterImageSection Klasse. Der AI Raster Image Section"
 type: docs
-weight: 1280
+weight: 1290
 url: /de/net/aspose.psd.fileformats.ai/airasterimagesection/
 ---
+{{< psd/tize >}}
 ## AiRasterImageSection class
 
-Der AI-Rasterbildausschnitt
+Der AI-Rasterbildabschnitt
 
 ```csharp
 public sealed class AiRasterImageSection
@@ -18,19 +19,19 @@ public sealed class AiRasterImageSection
 
 | Name | Beschreibung |
 | --- | --- |
-| [Angle](../../aspose.psd.fileformats.ai/airasterimagesection/angle/) { get; } | Erhält den Winkel. |
-| [Height](../../aspose.psd.fileformats.ai/airasterimagesection/height/) { get; } | Ruft die Höhe ab. |
-| [ImageRectangle](../../aspose.psd.fileformats.ai/airasterimagesection/imagerectangle/) { get; } | Ruft das Bildrechteck ab. |
-| [LeftBottomShift](../../aspose.psd.fileformats.ai/airasterimagesection/leftbottomshift/) { get; } | Ruft die linke untere Verschiebung ab. |
-| [Name](../../aspose.psd.fileformats.ai/airasterimagesection/name/) { get; } | Ruft den Namen des Rasterbildes ab. |
-| [OffsetX](../../aspose.psd.fileformats.ai/airasterimagesection/offsetx/) { get; } | Ruft den Offset X ab. |
-| [OffsetY](../../aspose.psd.fileformats.ai/airasterimagesection/offsety/) { get; } | Ruft den Offset Y ab. |
-| [Pixels](../../aspose.psd.fileformats.ai/airasterimagesection/pixels/) { get; } | Ruft das Array von Int-Farbpixeln ab. |
-| [Width](../../aspose.psd.fileformats.ai/airasterimagesection/width/) { get; } | Ruft die Breite ab. |
+| [Angle](../../aspose.psd.fileformats.ai/airasterimagesection/angle/) { get; } | Gibt den Winkel zurück. |
+| [Height](../../aspose.psd.fileformats.ai/airasterimagesection/height/) { get; } | Gibt die Höhe zurück. |
+| [ImageRectangle](../../aspose.psd.fileformats.ai/airasterimagesection/imagerectangle/) { get; } | Gibt das Bildrechteck zurück. |
+| [LeftBottomShift](../../aspose.psd.fileformats.ai/airasterimagesection/leftbottomshift/) { get; } | Gibt die Verschiebung links unten zurück. |
+| [Name](../../aspose.psd.fileformats.ai/airasterimagesection/name/) { get; } | Gibt den Namen des Rasterbildes zurück. |
+| [OffsetX](../../aspose.psd.fileformats.ai/airasterimagesection/offsetx/) { get; } | Gibt den X‑Versatz zurück. |
+| [OffsetY](../../aspose.psd.fileformats.ai/airasterimagesection/offsety/) { get; } | Gibt den Y‑Versatz zurück. |
+| [Pixels](../../aspose.psd.fileformats.ai/airasterimagesection/pixels/) { get; } | Gibt das Array von int‑Farbpixeln zurück. |
+| [Width](../../aspose.psd.fileformats.ai/airasterimagesection/width/) { get; } | Gibt die Breite zurück. |
 
-### Beispiele
+## Beispiele
 
-Der folgende Code zeigt, wie Einstellungen von Rasterbildern in AI-Formatdateien geladen werden.
+Der folgende Code demonstriert, wie Einstellungen von Rasterbildern in AI‑Formatdateien geladen werden.
 
 ```csharp
 [C#]
@@ -75,7 +76,7 @@ using (AiImage image = (AiImage)Image.Load(sourceFile))
 
 ### Siehe auch
 
-* namensraum [Aspose.PSD.FileFormats.Ai](../../aspose.psd.fileformats.ai/)
-* Montage [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../)
 
 

@@ -1,20 +1,21 @@
 ---
-title: ExifData.GPSLongitude
-second_title: Aspose.PSD für .NET-API-Referenz
-description: ExifData eigendom. Ruft den GPSLängengrad ab oder legt ihn fest.
+title: "ExifData.GPSLongitude"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "ExifData-Eigenschaft. Liest oder setzt den GPS-Längengrad."
 type: docs
 weight: 540
 url: /de/net/aspose.psd.exif/exifdata/gpslongitude/
 ---
+{{< psd/tize >}}
 ## ExifData.GPSLongitude property
 
-Ruft den GPS-Längengrad ab oder legt ihn fest.
+Liest oder setzt den GPS-Längengrad.
 
 ```csharp
 public TiffRational[] GPSLongitude { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
 Der GPS-Längengrad.
 
@@ -22,7 +23,7 @@ Der GPS-Längengrad.
 
 * class [TiffRational](../../../aspose.psd.fileformats.tiff/tiffrational/)
 * class [ExifData](../)
-* namensraum [Aspose.PSD.Exif](../../exifdata/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,20 +1,21 @@
 ---
-title: HueSaturationLayer.Saturation
-second_title: Aspose.PSD für .NET-API-Referenz
-description: HueSaturationLayer eigendom. Ruft die Sättigung ab oder legt sie fest.
+title: "HueSaturationLayer.Saturation"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "HueSaturationLayer property. Ruft die Sättigung ab oder legt sie fest"
 type: docs
 weight: 40
 url: /de/net/aspose.psd.fileformats.psd.layers.adjustmentlayers/huesaturationlayer/saturation/
 ---
+{{< psd/tize >}}
 ## HueSaturationLayer.Saturation property
 
-Ruft die Sättigung ab oder legt sie fest.
+Liest oder setzt die Sättigung.
 
 ```csharp
 public short Saturation { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
 Die Sättigung.
 
@@ -27,7 +28,7 @@ Die Sättigung.
 ### Siehe auch
 
 * class [HueSaturationLayer](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../huesaturationlayer/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/)
+* assembly [Aspose.PSD](../../../)
 
 

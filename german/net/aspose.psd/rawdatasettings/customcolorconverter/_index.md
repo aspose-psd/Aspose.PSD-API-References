@@ -1,20 +1,21 @@
 ---
-title: RawDataSettings.CustomColorConverter
-second_title: Aspose.PSD für .NET-API-Referenz
-description: RawDataSettings eigendom. Ruft den benutzerdefinierten Farbkonverter ab oder legt ihn fest
+title: "RawDataSettings.CustomColorConverter"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "RawDataSettings-Eigenschaft. Gibt den benutzerdefinierten Farbkonverter zurück oder legt ihn fest."
 type: docs
 weight: 30
 url: /de/net/aspose.psd/rawdatasettings/customcolorconverter/
 ---
+{{< psd/tize >}}
 ## RawDataSettings.CustomColorConverter property
 
-Ruft den benutzerdefinierten Farbkonverter ab oder legt ihn fest
+Liest oder setzt den benutzerdefinierten Farbkonverter
 
 ```csharp
 public IColorConverter CustomColorConverter { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
 Der benutzerdefinierte Farbkonverter
 
@@ -22,7 +23,7 @@ Der benutzerdefinierte Farbkonverter
 
 * interface [IColorConverter](../../icolorconverter/)
 * class [RawDataSettings](../)
-* namensraum [Aspose.PSD](../../rawdatasettings/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: ColorTranslator.FromWin32
-second_title: Aspose.PSD für .NET-API-Referenz
-description: ColorTranslator methode. Nimmt Farbe von der HTMLFarbe.
+title: "ColorTranslator.FromWin32"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "ColorTranslator‑Methode. Übernimmt die Farbe aus der HTML‑Farbe."
 type: docs
 weight: 30
 url: /de/net/aspose.psd/colortranslator/fromwin32/
 ---
+{{< psd/tize >}}
 ## ColorTranslator.FromWin32 method
 
-Nimmt Farbe von der HTML-Farbe.
+Nimmt die Farbe aus der HTML-Farbe.
 
 ```csharp
 public static Color FromWin32(int win32Color)
@@ -26,7 +27,7 @@ Die Farbe.
 
 * struct [Color](../../color/)
 * class [ColorTranslator](../)
-* namensraum [Aspose.PSD](../../colortranslator/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: ThumbnailResource.ValidateValues
-second_title: Aspose.PSD für .NET-API-Referenz
-description: ThumbnailResource methode. Validiert die Ressourcenwerte.
+title: "ThumbnailResource.ValidateValues"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "ThumbnailResource-Methode. Validiert die Ressourcenwerte"
 type: docs
 weight: 150
 url: /de/net/aspose.psd.fileformats.psd.resources/thumbnailresource/validatevalues/
 ---
+{{< psd/tize >}}
 ## ThumbnailResource.ValidateValues method
 
 Validiert die Ressourcenwerte.
@@ -17,7 +18,7 @@ public override void ValidateValues()
 ### Siehe auch
 
 * class [ThumbnailResource](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Resources](../../thumbnailresource/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

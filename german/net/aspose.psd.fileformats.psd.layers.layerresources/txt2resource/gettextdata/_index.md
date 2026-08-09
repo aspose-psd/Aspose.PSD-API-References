@@ -1,14 +1,15 @@
 ---
-title: Txt2Resource.GetTextData
-second_title: Aspose.PSD für .NET-API-Referenz
-description: Txt2Resource methode. Ruft den Textdatensatz aus Ressourcendaten ab.
+title: "Txt2Resource.GetTextData"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "Txt2Resource Methode. Gibt den Textdatensatz aus den Ressourcendaten zurück."
 type: docs
-weight: 80
+weight: 50
 url: /de/net/aspose.psd.fileformats.psd.layers.layerresources/txt2resource/gettextdata/
 ---
+{{< psd/tize >}}
 ## Txt2Resource.GetTextData method
 
-Ruft den Textdatensatz aus Ressourcendaten ab.
+Liest den Textdatensatz aus den Ressourcendaten.
 
 ```csharp
 public string[] GetTextData()
@@ -16,12 +17,12 @@ public string[] GetTextData()
 
 ### Rückgabewert
 
-Array von Textdatensätzen
+Array von Textdatensätzen.
 
 ### Siehe auch
 
 * class [Txt2Resource](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../txt2resource/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

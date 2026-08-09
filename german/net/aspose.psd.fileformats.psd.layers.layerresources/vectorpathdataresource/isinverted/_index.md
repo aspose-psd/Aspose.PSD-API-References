@@ -1,27 +1,28 @@
 ---
-title: VectorPathDataResource.IsInverted
-second_title: Aspose.PSD für .NET-API-Referenz
-description: VectorPathDataResource eigendom. Ruft einen Wert ab oder legt einen Wert fest der angibt ob diese Instanz invertiert ist.
+title: "VectorPathDataResource.IsInverted"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "VectorPathDataResource-Eigenschaft. Gibt einen Wert zurück oder legt ihn fest, der angibt, ob diese Instanz invertiert ist"
 type: docs
 weight: 20
 url: /de/net/aspose.psd.fileformats.psd.layers.layerresources/vectorpathdataresource/isinverted/
 ---
+{{< psd/tize >}}
 ## VectorPathDataResource.IsInverted property
 
-Ruft einen Wert ab oder legt einen Wert fest, der angibt, ob diese Instanz invertiert ist.
+Liest oder legt einen Wert fest, der angibt, ob diese Instanz invertiert ist.
 
 ```csharp
 public bool IsInverted { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
-`WAHR` wenn diese Instanz invertiert ist; ansonsten,`FALSCH` .
+`true`, wenn diese Instanz invertiert ist; andernfalls `false`.
 
 ### Siehe auch
 
 * class [VectorPathDataResource](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../vectorpathdataresource/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: TiffOptionsUtils.GetValidTagsCount
-second_title: Aspose.PSD für .NET-API-Referenz
-description: TiffOptionsUtils methode. Ruft die Anzahl gültiger Tags ab.
+title: "TiffOptionsUtils.GetValidTagsCount"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "TiffOptionsUtils Methode. Liest die Anzahl gültiger Tags"
 type: docs
 weight: 20
 url: /de/net/aspose.psd.imageoptions/tiffoptionsutils/getvalidtagscount/
 ---
+{{< psd/tize >}}
 ## TiffOptionsUtils.GetValidTagsCount method
 
-Ruft die Anzahl gültiger Tags ab.
+Ermittelt die gültige Anzahl von Tags.
 
 ```csharp
 public static int GetValidTagsCount(TiffDataType[] tags)
@@ -20,13 +21,13 @@ public static int GetValidTagsCount(TiffDataType[] tags)
 
 ### Rückgabewert
 
-Es zählen die gültigen Tags.
+Die Anzahl gültiger Tags.
 
 ### Siehe auch
 
 * class [TiffDataType](../../../aspose.psd.fileformats.tiff/tiffdatatype/)
 * class [TiffOptionsUtils](../)
-* namensraum [Aspose.PSD.ImageOptions](../../tiffoptionsutils/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: Jpeg2000Options.CompressionRatios
-second_title: Aspose.PSD für .NET-API-Referenz
-description: Jpeg2000Options eigendom. Ruft das Komprimierungsverhältnis des Arrays ab oder legt es fest. Unterschiedliche Komprimierungsverhältnisse für aufeinanderfolgende Schichten. Die für jede Qualitätsstufe angegebene Rate ist der gewünschte Komprimierungsfaktor. Verringern der Verhältnisse erforderlich.
+title: "Jpeg2000Options.CompressionRatios"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "Jpeg2000Options Eigenschaft. Liest oder setzt das Array von Kompressionsraten. Unterschiedliche Kompressionsraten für aufeinanderfolgende Schichten. Der für jede Qualitätsstufe angegebene Wert ist der gewünschte Kompressionsfaktor. Abnehmende Raten erforderlich."
 type: docs
 weight: 40
 url: /de/net/aspose.psd.imageoptions/jpeg2000options/compressionratios/
 ---
+{{< psd/tize >}}
 ## Jpeg2000Options.CompressionRatios property
 
-Ruft das Komprimierungsverhältnis des Arrays ab oder legt es fest. Unterschiedliche Komprimierungsverhältnisse für aufeinanderfolgende Schichten. Die für jede Qualitätsstufe angegebene Rate ist der gewünschte Komprimierungsfaktor. Verringern der Verhältnisse erforderlich.
+Liest oder setzt das Array der Kompressionsraten. Unterschiedliche Kompressionsraten für aufeinanderfolgende Ebenen. Der für jede Qualitätsstufe angegebene Wert ist der gewünschte Kompressionsfaktor. Abnehmende Raten sind erforderlich.
 
 ```csharp
 public int[] CompressionRatios { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
-Die Komprimierungsverhältnisse.
+Die Kompressionsraten.
 
 ### Siehe auch
 
 * class [Jpeg2000Options](../)
-* namensraum [Aspose.PSD.ImageOptions](../../jpeg2000options/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

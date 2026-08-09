@@ -1,28 +1,29 @@
 ---
-title: StringFormat.Alignment
-second_title: Aspose.PSD für .NET-API-Referenz
-description: StringFormat eigendom. Ruft Informationen zur Textausrichtung auf der vertikalen Ebene ab oder legt sie fest.
+title: "StringFormat.Alignment"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "StringFormat-Eigenschaft. Ruft Textausrichtungsinformationen in der vertikalen Ebene ab oder legt sie fest"
 type: docs
 weight: 40
 url: /de/net/aspose.psd/stringformat/alignment/
 ---
+{{< psd/tize >}}
 ## StringFormat.Alignment property
 
-Ruft Informationen zur Textausrichtung auf der vertikalen Ebene ab oder legt sie fest.
+Ruft Textausrichtungsinformationen in der Vertikalebene ab oder legt sie fest.
 
 ```csharp
 public StringAlignment Alignment { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
-A[`StringAlignment`](../../stringalignment/) Enumeration, die Informationen zur Textausrichtung angibt.
+Eine [`StringAlignment`](../../stringalignment/)-Aufzählung, die Textausrichtungsinformationen angibt.
 
 ### Siehe auch
 
 * enum [StringAlignment](../../stringalignment/)
 * class [StringFormat](../)
-* namensraum [Aspose.PSD](../../stringformat/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

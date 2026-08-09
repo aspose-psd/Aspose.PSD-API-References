@@ -1,14 +1,15 @@
 ---
-title: SmartFilters.IsEnabled
-second_title: Aspose.PSD für .NET-API-Referenz
-description: SmartFilters eigendom. Ruft den aktivierten Status der SmartFilterMaske ab.
+title: "SmartFilters.IsEnabled"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "SmartFilters-Eigenschaft. Gibt den Aktivierungsstatus der Smart-Filter-Maske zurück."
 type: docs
 weight: 20
 url: /de/net/aspose.psd.fileformats.psd.layers.smartfilters/smartfilters/isenabled/
 ---
+{{< psd/tize >}}
 ## SmartFilters.IsEnabled property
 
-Ruft den aktivierten Status der Smart-Filter-Maske ab.
+Gibt den aktivierten Status der Smart-Filter-Maske zurück.
 
 ```csharp
 public bool IsEnabled { get; }
@@ -17,7 +18,7 @@ public bool IsEnabled { get; }
 ### Siehe auch
 
 * class [SmartFilters](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.SmartFilters](../../smartfilters/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.SmartFilters](../../../aspose.psd.fileformats.psd.layers.smartfilters/)
+* assembly [Aspose.PSD](../../../)
 
 

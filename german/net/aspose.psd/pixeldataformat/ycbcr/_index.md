@@ -1,27 +1,28 @@
 ---
-title: PixelDataFormat.YCbCr
-second_title: Aspose.PSD für .NET-API-Referenz
-description: PixelDataFormat eigendom. Ruft die abPixelDataFormat definiert für 24 Bit pro Pixel mit 8 Bit für jede der Chrominanzkomponenten Luma Blaudifferenz und Rotdifferenz.
+title: "PixelDataFormat.YCbCr"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "PixelDataFormat-Eigenschaft. Gibt das PixelDataFormat zurück, das für 24 Bit pro Pixel mit 8 Bit für jede der Luma-, Blau‑Differenz‑ und Rot‑Differenz‑Chroma‑Komponenten definiert ist."
 type: docs
 weight: 160
 url: /de/net/aspose.psd/pixeldataformat/ycbcr/
 ---
+{{< psd/tize >}}
 ## PixelDataFormat.YCbCr property
 
-Ruft die ab[`PixelDataFormat`](../) definiert für 24 Bit pro Pixel mit 8 Bit für jede der Chrominanzkomponenten Luma, Blaudifferenz und Rotdifferenz.
+Gibt das [`PixelDataFormat`](../) zurück, das für 24 Bit pro Pixel mit 8 Bit für jede der Luma-, Blau‑Differenz‑ und Rot‑Differenz‑Chroma‑Komponenten definiert ist.
 
 ```csharp
 public static PixelDataFormat YCbCr { get; }
 ```
 
-### Eigentumswert
+### Property Value
 
-Die[`PixelDataFormat`](../) definiert für 24 Bit pro Pixel mit 8 Bit für jede der Chrominanzkomponenten Luma, Blaudifferenz und Rotdifferenz.
+Das [`PixelDataFormat`](../) ist für 24 Bit pro Pixel mit 8 Bit für jede der Luma-, Blau‑Differenz‑ und Rot‑Differenz‑Chroma‑Komponenten definiert.
 
 ### Siehe auch
 
 * class [PixelDataFormat](../)
-* namensraum [Aspose.PSD](../../pixeldataformat/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

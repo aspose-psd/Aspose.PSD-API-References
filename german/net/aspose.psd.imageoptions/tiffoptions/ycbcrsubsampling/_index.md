@@ -1,22 +1,23 @@
 ---
-title: TiffOptions.YCbCrSubsampling
-second_title: Aspose.PSD für .NET-API-Referenz
-description: TiffOptions eigendom. Liest oder setzt die SubsamplingFaktoren für YCbCr photometric.
+title: "TiffOptions.YCbCrSubsampling"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "TiffOptions-Eigenschaft. Ruft die Subsampling-Faktoren für YCbCr-Photometrie ab oder legt sie fest."
 type: docs
-weight: 670
+weight: 680
 url: /de/net/aspose.psd.imageoptions/tiffoptions/ycbcrsubsampling/
 ---
+{{< psd/tize >}}
 ## TiffOptions.YCbCrSubsampling property
 
-Liest oder setzt die Subsampling-Faktoren für YCbCr photometric.
+Liest oder setzt die Subsampling-Faktoren für die YCbCr-Photometrie.
 
 ```csharp
 public ushort[] YCbCrSubsampling { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
-Die Subsampling-Faktoren für YCbCr photometrisch.
+Die Subsampling-Faktoren für YCbCr-Photometrie.
 
 ### Ausnahmen
 
@@ -28,7 +29,7 @@ Die Subsampling-Faktoren für YCbCr photometrisch.
 ### Siehe auch
 
 * class [TiffOptions](../)
-* namensraum [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

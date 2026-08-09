@@ -1,11 +1,12 @@
 ---
-title: RasterImage.LoadPixels
-second_title: Aspose.PSD für .NET-API-Referenz
-description: RasterImage methode. Lädt Pixel.
+title: "RasterImage.LoadPixels"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "RasterImage-Methode. Lädt Pixel"
 type: docs
-weight: 400
+weight: 410
 url: /de/net/aspose.psd/rasterimage/loadpixels/
 ---
+{{< psd/tize >}}
 ## RasterImage.LoadPixels method
 
 Lädt Pixel.
@@ -16,55 +17,55 @@ public Color[] LoadPixels(Rectangle rectangle)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| rectangle | Rectangle | Das Rechteck, aus dem Pixel geladen werden sollen. |
+| Rechteck | Rectangle | Das Rechteck, aus dem Pixel geladen werden sollen. |
 
 ### Rückgabewert
 
 Das geladene Pixel-Array.
 
-### Beispiele
+## Beispiele
 
-Dieses Beispiel zeigt, wie Pixelinformationen in ein Array vom Typ Color geladen, das Array manipuliert und wieder auf das Bild gesetzt wird. Um diese Vorgänge auszuführen, erstellt dieses Beispiel eine neue Bilddatei (im PSD-Format) mit dem MemoryStream-Objekt.
+Dieses Beispiel zeigt, wie Pixelinformationen in einem Array vom Typ Color geladen, das Array manipuliert und zurück zum Bild gesetzt werden. Um diese Vorgänge auszuführen, erstellt dieses Beispiel eine neue Bilddatei (im PSD-Format) mithilfe eines MemoryStream-Objekts.
 
 ```csharp
 [C#]
 
-//Eine Instanz von MemoryStream erstellen
+//Erstelle eine Instanz von MemoryStream
 using (System.IO.MemoryStream stream = new System.IO.MemoryStream())
 {
-    //Erstellen Sie eine Instanz von PsdOptions und legen Sie die verschiedenen Eigenschaften einschließlich der Source-Eigenschaft fest
+    //Erstelle eine Instanz von PsdOptions und setze deren verschiedene Eigenschaften, einschließlich der Source-Eigenschaft
     Aspose.PSD.ImageOptions.PsdOptions psdOptions = new Aspose.PSD.ImageOptions.PsdOptions();
     psdOptions.Source = new Aspose.PSD.Sources.StreamSource(stream);
 
-    //Eine Instanz von Image erstellen
+    //Erstelle eine Instanz von Image
     using (Aspose.PSD.RasterImage image = (Aspose.PSD.RasterImage)Aspose.PSD.Image.Create(psdOptions, 500, 500))
     {
-        //Die Pixel des Bildes abrufen, indem der Bereich als Bildgrenze angegeben wird
+        //Hole die Pixel des Bildes, indem du den Bereich als Bildgrenze angibst
         Aspose.PSD.Color[] pixels = image.LoadPixels(image.Bounds);
 
-        // Schleife über das Array und setzt die Farbe des alternativen indizierten Pixels
+        //Durchlaufe das Array und setze die Farbe des alternativen indizierten Pixels
         for (int index = 0; index < pixels.Length; index++)
         {
             if (index % 2 == 0)
             {
-                //Indizierte Pixelfarbe auf gelb setzen
+                //Setze die Farbe des indizierten Pixels auf Gelb
                 pixels[index] = Aspose.PSD.Color.Yellow;
             }
             else
             {
-                //Indizierte Pixelfarbe auf Blau setzen
+                //Setze die Farbe des indizierten Pixels auf Blau
                 pixels[index] = Aspose.PSD.Color.Blue;
             }
         }
 
-        // Pixeländerungen auf das Bild anwenden
+        //Wende die Pixeländerungen auf das Bild an
         image.SavePixels(image.Bounds, pixels);
 
-        // Alle Änderungen speichern.
+        // Speichere alle Änderungen.
         image.Save();
     }
 
-    //MemoryStream in Datei schreiben
+    //Schreibe MemoryStream in eine Datei
     stream.WriteTo(new System.IO.FileStream(@"C:\temp\output.psd", System.IO.FileMode.CreateNew));
 }
 ```
@@ -74,7 +75,7 @@ using (System.IO.MemoryStream stream = new System.IO.MemoryStream())
 * struct [Color](../../color/)
 * struct [Rectangle](../../rectangle/)
 * class [RasterImage](../)
-* namensraum [Aspose.PSD](../../rasterimage/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

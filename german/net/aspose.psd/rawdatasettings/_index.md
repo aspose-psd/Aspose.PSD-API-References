@@ -1,40 +1,41 @@
 ---
-title: Class RawDataSettings
-second_title: Aspose.PSD für .NET-API-Referenz
-description: Aspose.PSD.RawDataSettings klas. Die Rohdateneinstellungen
+title: "Klasse RawDataSettings"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "Aspose.PSD.RawDataSettings Klasse. Die Rohdaten-Einstellungen"
 type: docs
-weight: 5330
+weight: 5830
 url: /de/net/aspose.psd/rawdatasettings/
 ---
+{{< psd/tize >}}
 ## RawDataSettings class
 
-Die Rohdateneinstellungen
+Die Rohdaten-Einstellungen
 
 ```csharp
 public class RawDataSettings
 ```
 
-## Konstrukteure
+## Konstruktoren
 
 | Name | Beschreibung |
 | --- | --- |
-| [RawDataSettings](rawdatasettings/)() | Default_Constructor |
+| [RawDataSettings](rawdatasettings/)() | Der Standardkonstruktor. |
 
 ## Eigenschaften
 
 | Name | Beschreibung |
 | --- | --- |
-| [ColorPalette](../../aspose.psd/rawdatasettings/colorpalette/) { get; set; } | Ruft die Farbpalette ab oder legt sie fest |
-| [CustomColorConverter](../../aspose.psd/rawdatasettings/customcolorconverter/) { get; set; } | Ruft den benutzerdefinierten Farbkonverter ab oder legt ihn fest |
-| [DitheringMethod](../../aspose.psd/rawdatasettings/ditheringmethod/) { get; set; } | Ruft die für die Rohdatenkonvertierung zu verwendende Dithering-Methode ab oder legt sie fest |
-| [FallbackIndex](../../aspose.psd/rawdatasettings/fallbackindex/) { get; set; } | Ruft den Fallback-Index ab oder legt ihn fest, der verwendet werden soll, wenn der Palettenindex außerhalb der Grenzen liegt |
-| [IndexedColorConverter](../../aspose.psd/rawdatasettings/indexedcolorconverter/) { get; set; } | Holt oder setzt den indizierten Farbkonverter |
-| [LineSize](../../aspose.psd/rawdatasettings/linesize/) { get; set; } | Ermittelt oder setzt die Pixelzeilengröße in Bytes für die Rohdatenverarbeitung |
-| [PixelDataFormat](../../aspose.psd/rawdatasettings/pixeldataformat/) { get; set; } | Ruft das Pixeldatenformat ab oder legt es fest |
+| [ColorPalette](../../aspose.psd/rawdatasettings/colorpalette/) { get; set; } | Liest oder setzt die Farbpalette |
+| [CustomColorConverter](../../aspose.psd/rawdatasettings/customcolorconverter/) { get; set; } | Liest oder setzt den benutzerdefinierten Farbkonverter |
+| [DitheringMethod](../../aspose.psd/rawdatasettings/ditheringmethod/) { get; set; } | Liest oder setzt die Dithering-Methode, die für die Rohdatenkonvertierung verwendet wird |
+| [FallbackIndex](../../aspose.psd/rawdatasettings/fallbackindex/) { get; set; } | Liest oder setzt den Ersatzindex, der verwendet wird, wenn der Palettenindex außerhalb des Bereichs liegt |
+| [IndexedColorConverter](../../aspose.psd/rawdatasettings/indexedcolorconverter/) { get; set; } | Liest oder setzt den indizierten Farbkonverter |
+| [LineSize](../../aspose.psd/rawdatasettings/linesize/) { get; set; } | Liest oder setzt die Zeilengröße der Pixel in Bytes für die Verarbeitung von Rohdaten |
+| [PixelDataFormat](../../aspose.psd/rawdatasettings/pixeldataformat/) { get; set; } | Liest oder setzt das Pixel-Datenformat |
 
 ### Siehe auch
 
-* namensraum [Aspose.PSD](../../aspose.psd/)
-* Montage [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

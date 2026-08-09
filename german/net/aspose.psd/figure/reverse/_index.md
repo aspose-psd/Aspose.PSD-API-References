@@ -1,14 +1,15 @@
 ---
-title: Figure.Reverse
-second_title: Aspose.PSD für .NET-API-Referenz
-description: Figure methode. Kehrt die Reihenfolge dieser Figurformen und die Punktreihenfolge um.
+title: "Figure.Reverse"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "Figure-Methode. Kehrt die Reihenfolge der Formen dieser Figur und die Punktreihenfolge der Formen um"
 type: docs
 weight: 110
 url: /de/net/aspose.psd/figure/reverse/
 ---
+{{< psd/tize >}}
 ## Figure.Reverse method
 
-Kehrt die Reihenfolge dieser Figurformen und die Punktreihenfolge um.
+Kehrt die Reihenfolge der Formen dieser Figur sowie die Punktreihenfolge der Formen um.
 
 ```csharp
 public void Reverse()
@@ -17,7 +18,7 @@ public void Reverse()
 ### Siehe auch
 
 * class [Figure](../)
-* namensraum [Aspose.PSD](../../figure/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

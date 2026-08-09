@@ -1,26 +1,27 @@
 ---
-title: PathStructure.Prefix
-second_title: Aspose.PSD für .NET-API-Referenz
-description: PathStructure eigendom. Ruft das Pfadpräfix ab oder legt es fest.
+title: "PathStructure.Prefix"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "PathStructure-Eigenschaft. Liest oder setzt das Pfadpräfix"
 type: docs
 weight: 50
 url: /de/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/pathstructure/prefix/
 ---
+{{< psd/tize >}}
 ## PathStructure.Prefix property
 
-Ruft das Pfadpräfix ab oder legt es fest.
+Liest oder setzt das Pfadpräfix.
 
 ```csharp
 public string Prefix { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
 Der vollständige Pfad.
 
-### Beispiele
+## Beispiele
 
-Der folgende Code demonstriert die Fähigkeit, Dateien mit der PathStructure-Struktur zu laden.
+Der folgende Code demonstriert die Fähigkeit, eine Datei mit der PathStructure-Struktur zu laden.
 
 ```csharp
 [C#]
@@ -37,7 +38,7 @@ using (PsdImage image = (PsdImage)Image.Load(srcFile))
 ### Siehe auch
 
 * class [PathStructure](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../pathstructure/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: Size.IsEmpty
-second_title: Aspose.PSD für .NET-API-Referenz
-description: Size eigendom. Ruft einen Wert ab der angibt ob diesSize hat Breite und Höhe von 0.
+title: "Size.IsEmpty"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "Size-Eigenschaft. Liest einen Wert, der angibt, ob diese Größe Breite und Höhe von 0 hat"
 type: docs
 weight: 90
 url: /de/net/aspose.psd/size/isempty/
 ---
+{{< psd/tize >}}
 ## Size.IsEmpty property
 
-Ruft einen Wert ab, der angibt, ob dies[`Size`](../) hat Breite und Höhe von 0.
+Liest einen Wert, der angibt, ob dieses [`Size`](../) Breite und Höhe von 0 hat.
 
 ```csharp
 public bool IsEmpty { get; }
@@ -17,7 +18,7 @@ public bool IsEmpty { get; }
 ### Siehe auch
 
 * struct [Size](../)
-* namensraum [Aspose.PSD](../../size/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

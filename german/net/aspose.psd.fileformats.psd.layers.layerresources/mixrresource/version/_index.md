@@ -1,11 +1,12 @@
 ---
-title: MixrResource.Version
-second_title: Aspose.PSD für .NET-API-Referenz
-description: MixrResource eigendom. Ruft die Version ab oder legt sie fest.
+title: "MixrResource.Version"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "MixrResource-Eigenschaft. Liest oder schreibt die Version."
 type: docs
-weight: 60
+weight: 40
 url: /de/net/aspose.psd.fileformats.psd.layers.layerresources/mixrresource/version/
 ---
+{{< psd/tize >}}
 ## MixrResource.Version property
 
 Ruft die Version ab oder legt sie fest.
@@ -14,14 +15,14 @@ Ruft die Version ab oder legt sie fest.
 public short Version { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
-Die Version. Der Standardwert ist 1
+Die Version. Standardwert ist 1.
 
 ### Siehe auch
 
 * class [MixrResource](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../mixrresource/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

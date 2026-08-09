@@ -1,27 +1,28 @@
 ---
-title: LayerStateInformationResource.LayerIndex
-second_title: Aspose.PSD für .NET-API-Referenz
-description: LayerStateInformationResource eigendom. Ruft den Index der Ebene ab oder setzt ihn.
+title: "LayerStateInformationResource.LayerIndex"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "LayerStateInformationResource-Eigenschaft. Gibt den Index der Ebene zurück oder legt ihn fest"
 type: docs
 weight: 30
 url: /de/net/aspose.psd.fileformats.psd.resources/layerstateinformationresource/layerindex/
 ---
+{{< psd/tize >}}
 ## LayerStateInformationResource.LayerIndex property
 
-Ruft den Index der Ebene ab oder setzt ihn.
+Liest oder legt den Index der Ebene fest.
 
 ```csharp
 public short LayerIndex { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
 Der Index der Ebene.
 
 ### Siehe auch
 
 * class [LayerStateInformationResource](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Resources](../../layerstateinformationresource/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: LspfResource.IsTransparencyProtected
-second_title: Aspose.PSD für .NET-API-Referenz
-description: LspfResource eigendom. Ruft einen Wert ab oder legt einen Wert fest der angibt ob diese Instanz transparent geschützt ist.
+title: "LspfResource.IsTransparencyProtected"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "LspfResource-Eigenschaft. Gibt einen Wert zurück oder legt ihn fest, der angibt, ob diese Instanz transparent geschützt ist"
 type: docs
 weight: 40
 url: /de/net/aspose.psd.fileformats.psd.layers.layerresources/lspfresource/istransparencyprotected/
 ---
+{{< psd/tize >}}
 ## LspfResource.IsTransparencyProtected property
 
-Ruft einen Wert ab oder legt einen Wert fest, der angibt, ob diese Instanz transparent geschützt ist.
+Liest oder setzt einen Wert, der angibt, ob diese Instanz transparentgeschützt ist.
 
 ```csharp
 public bool IsTransparencyProtected { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
-`WAHR` wenn diese Instanz transparent geschützt ist; ansonsten,`FALSCH` .
+`true`, wenn diese Instanz transparent geschützt ist; andernfalls `false`.
 
 ### Siehe auch
 
 * class [LspfResource](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../lspfresource/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

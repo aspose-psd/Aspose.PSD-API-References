@@ -1,14 +1,15 @@
 ---
-title: PsdImage.LinkedLayersManager
-second_title: Aspose.PSD für .NET-API-Referenz
-description: PsdImage eigendom. Ruft den Manager für verknüpfte Ebenen ab.
+title: "PsdImage.LinkedLayersManager"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "PsdImage-Eigenschaft. Gibt den LinkedLayersManager zurück."
 type: docs
 weight: 210
 url: /de/net/aspose.psd.fileformats.psd/psdimage/linkedlayersmanager/
 ---
+{{< psd/tize >}}
 ## PsdImage.LinkedLayersManager property
 
-Ruft den Manager für verknüpfte Ebenen ab.
+Liest den Manager für verknüpfte Ebenen.
 
 ```csharp
 public LinkedLayersManager LinkedLayersManager { get; }
@@ -18,7 +19,7 @@ public LinkedLayersManager LinkedLayersManager { get; }
 
 * class [LinkedLayersManager](../../../aspose.psd.fileformats.psd.layers/linkedlayersmanager/)
 * class [PsdImage](../)
-* namensraum [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

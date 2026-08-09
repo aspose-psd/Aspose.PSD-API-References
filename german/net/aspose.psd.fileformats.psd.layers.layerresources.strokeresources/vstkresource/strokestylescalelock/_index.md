@@ -1,14 +1,15 @@
 ---
-title: VstkResource.StrokeStyleScaleLock
-second_title: Aspose.PSD für .NET-API-Referenz
-description: VstkResource eigendom. Ruft StrichstilSkalierungssperre ab oder legt sie fest.
+title: "VstkResource.StrokeStyleScaleLock"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "VstkResource-Eigenschaft. Gibt oder setzt die Skalierungsverriegelung des Strichstils"
 type: docs
-weight: 200
+weight: 180
 url: /de/net/aspose.psd.fileformats.psd.layers.layerresources.strokeresources/vstkresource/strokestylescalelock/
 ---
+{{< psd/tize >}}
 ## VstkResource.StrokeStyleScaleLock property
 
-Ruft Strichstil-Skalierungssperre ab oder legt sie fest.
+Liest oder setzt die Skalierungsverriegelung des Strichstils.
 
 ```csharp
 public bool StrokeStyleScaleLock { get; set; }
@@ -17,7 +18,7 @@ public bool StrokeStyleScaleLock { get; set; }
 ### Siehe auch
 
 * class [VstkResource](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.StrokeResources](../../vstkresource/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.StrokeResources](../../../aspose.psd.fileformats.psd.layers.layerresources.strokeresources/)
+* assembly [Aspose.PSD](../../../)
 
 

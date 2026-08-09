@@ -1,14 +1,15 @@
 ---
-title: Enum ResizeType
-second_title: Aspose.PSD für .NET-API-Referenz
-description: Aspose.PSD.ResizeType opsomming. Gibt den Größenänderungstyp an.
+title: "Aufzählung ResizeType"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "Aspose.PSD.ResizeType Aufzählung. Gibt den Skalierungstyp an."
 type: docs
-weight: 5370
+weight: 5870
 url: /de/net/aspose.psd/resizetype/
 ---
+{{< psd/tize >}}
 ## ResizeType enumeration
 
-Gibt den Größenänderungstyp an.
+Gibt den Skalierungstyp an.
 
 ```csharp
 public enum ResizeType
@@ -18,27 +19,27 @@ public enum ResizeType
 
 | Name | Wert | Beschreibung |
 | --- | --- | --- |
-| None | `0` | Die Pixel werden während der Größenänderung nicht beibehalten. |
-| LeftTopToLeftTop | `1` | Der linke obere Punkt des neuen Bildes stimmt mit dem linken oberen Punkt des Originalbildes überein. Zuschneiden erfolgt bei Bedarf. |
-| RightTopToRightTop | `2` | Der rechte obere Punkt des neuen Bildes fällt mit dem rechten oberen Punkt des Originalbildes zusammen. Zuschneiden erfolgt bei Bedarf. |
-| RightBottomToRightBottom | `3` | Der rechte untere Punkt des neuen Bildes stimmt mit dem rechten unteren Punkt des Originalbildes überein. Zuschneiden erfolgt bei Bedarf. |
-| LeftBottomToLeftBottom | `4` | Der linke untere Punkt des neuen Bildes stimmt mit dem linken unteren Punkt des Originalbildes überein. Zuschneiden erfolgt bei Bedarf. |
-| CenterToCenter | `5` | Der Mittelpunkt des neuen Bildes fällt mit dem Mittelpunkt des Originalbildes zusammen. Zuschneiden erfolgt bei Bedarf. |
-| LanczosResample | `6` | Resampling mit Lanczos-Algorithmus mit a=3. |
-| NearestNeighbourResample | `7` | Resampling mit Nächster-Nachbar-Algorithmus. |
-| AdaptiveResample | `8` | Resampling mit adaptivem Algorithmus basierend auf gewichteten und gemischten rationalen Funktionen und Lanczos3-Interpolationsalgorithmen. |
-| BilinearResample | `9` | Resampling mit bilinearer Interpolation. Die Bildvorfilterung ist erlaubt, um das Rauschen vor dem Resampling zu entfernen, falls erforderlich |
-| HighQualityResample | `10` | Das hochwertige Resample |
-| CatmullRom | `11` | Die kubische Interpolationsmethode von Catmull-Rom. |
-| CubicConvolution | `12` | Die Interpolationsmethode der kubischen Faltung |
-| CubicBSpline | `13` | Die kubische Interpolationsmethode CubicBSpline |
-| Mitchell | `14` | Die kubische Interpolationsmethode von Mitchell |
-| SinC | `15` | Die Sinc (Lanczos3) kubische Interpolationsmethode |
-| Bell | `16` | Die Bell-Interpolationsmethode |
+| None | `0` | Die Pixel werden während der Skalierung nicht beibehalten. |
+| LeftTopToLeftTop | `1` | Der linke obere Punkt des neuen Bildes stimmt mit dem linken oberen Punkt des Originalbildes überein. Ein Beschnitt erfolgt bei Bedarf. |
+| RightTopToRightTop | `2` | Der rechte obere Punkt des neuen Bildes stimmt mit dem rechten oberen Punkt des Originalbildes überein. Ein Beschnitt erfolgt bei Bedarf. |
+| RightBottomToRightBottom | `3` | Der rechte untere Punkt des neuen Bildes stimmt mit dem rechten unteren Punkt des Originalbildes überein. Ein Beschnitt erfolgt bei Bedarf. |
+| LeftBottomToLeftBottom | `4` | Der linke untere Punkt des neuen Bildes stimmt mit dem linken unteren Punkt des Originalbildes überein. Ein Beschnitt erfolgt bei Bedarf. |
+| CenterToCenter | `5` | Das Zentrum des neuen Bildes wird mit dem Zentrum des Originalbildes übereinstimmen. Ein Beschnitt wird bei Bedarf durchgeführt. |
+| LanczosResample | `6` | Neu abtasten mit dem lanczos-Algorithmus mit a=3. |
+| NearestNeighbourResample | `7` | Neu abtasten mit dem Nearest‑Neighbour‑Algorithmus. |
+| AdaptiveResample | `8` | Neu abtasten mit einem adaptiven Algorithmus, basierend auf gewichteten und gemischten rationalen Funktionen sowie lanczos3-Interpolationsalgorithmen. |
+| BilinearResample | `9` | Neu abtasten mit bilinearer Interpolation. Bildvorfilterung ist erlaubt, um das Rauschen vor dem Neusampling zu entfernen, wenn nötig. |
+| HighQualityResample | `10` | Das hochqualitative Neusampling |
+| CatmullRom | `11` | Die Catmull‑Rom‑Kubikinterpolationsmethode. |
+| CubicConvolution | `12` | Die Cubic Convolution Interpolationsmethode |
+| CubicBSpline | `13` | Die CubicBSpline Kubikinterpolationsmethode |
+| Mitchell | `14` | Die Mitchell Kubikinterpolationsmethode |
+| SinC | `15` | Die Sinc (Lanczos3) Kubikinterpolationsmethode |
+| Bell | `16` | Die Bell‑Interpolationsmethode |
 
-### Beispiele
+## Beispiele
 
-Der folgende Code zeigt, wie Sie die Größe eines Bildes mit einem neuen SinC-Größenänderungstyp ändern.
+Der folgende Code demonstriert, wie man ein Bild mit einem neuen SinC‑Resize‑Typ skaliert.
 
 ```csharp
 [C#]
@@ -46,7 +47,7 @@ Der folgende Code zeigt, wie Sie die Größe eines Bildes mit einem neuen SinC-G
 string sourceFile = "sample.psd";
 string destName = "ResamplerSinCStripes_after.psd";
 
-// Ein vorhandenes Bild in eine Instanz der PsdImage-Klasse laden
+// Laden Sie ein vorhandenes Bild in eine Instanz der Klasse PsdImage.
 using (PsdImage image = (PsdImage)Image.Load(sourceFile))
 {
     image.Resize(300, 300, ResizeType.SinC);
@@ -54,7 +55,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFile))
 }
 ```
 
-Der folgende Code zeigt, wie Sie die Größe eines Bilds mit einem neuen Bell-Größenänderungstyp ändern.
+Der folgende Code demonstriert, wie man ein Bild mit einem neuen Bell‑Resize‑Typ skaliert.
 
 ```csharp
 [C#]
@@ -62,7 +63,7 @@ Der folgende Code zeigt, wie Sie die Größe eines Bilds mit einem neuen Bell-Gr
 string sourceFile = "sample.psd";
 string destName = "ResamplerBellStripes_after.psd";
 
-// Ein vorhandenes Bild in eine Instanz der PsdImage-Klasse laden
+// Laden Sie ein vorhandenes Bild in eine Instanz der Klasse PsdImage.
 using (PsdImage image = (PsdImage)Image.Load(sourceFile))
 {
     image.Resize(300, 300, ResizeType.Bell);
@@ -70,7 +71,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFile))
 }
 ```
 
-Der folgende Code zeigt, wie Sie die Größe eines Bilds mit einem neuen Mitchell-Größenänderungstyp ändern.
+Der folgende Code demonstriert, wie man ein Bild mit einem neuen Mitchell‑Resize‑Typ skaliert.
 
 ```csharp
 [C#]
@@ -78,7 +79,7 @@ Der folgende Code zeigt, wie Sie die Größe eines Bilds mit einem neuen Mitchel
 string sourceFile = "sample.psd";
 string destName = "ResamplerMitchellStripes_after.psd";
 
-// Ein vorhandenes Bild in eine Instanz der PsdImage-Klasse laden
+// Laden Sie ein vorhandenes Bild in eine Instanz der Klasse PsdImage.
 using (PsdImage image = (PsdImage)Image.Load(sourceFile))
 {
     image.Resize(300, 300, ResizeType.Mitchell);
@@ -86,7 +87,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFile))
 }
 ```
 
-Der folgende Code zeigt, wie die Größe eines Bildes mit einem neuen CatmullRom-Größenänderungstyp geändert wird.
+Der folgende Code demonstriert, wie man ein Bild mit einem neuen CatmullRom‑Resize‑Typ skaliert.
 
 ```csharp
 [C#]
@@ -94,7 +95,7 @@ Der folgende Code zeigt, wie die Größe eines Bildes mit einem neuen CatmullRom
 string sourceFile = "sample.psd";
 string destName = "ResamplerCatmullRomStripes_after.psd";
 
-// Ein vorhandenes Bild in eine Instanz der PsdImage-Klasse laden
+// Laden Sie ein vorhandenes Bild in eine Instanz der Klasse PsdImage.
 using (PsdImage image = (PsdImage)Image.Load(sourceFile))
 {
     image.Resize(300, 300, ResizeType.CatmullRom);
@@ -102,7 +103,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFile))
 }
 ```
 
-Der folgende Code zeigt, wie Sie die Größe eines Bilds mit einem neuen CubicBSpline-Größenänderungstyp ändern.
+Der folgende Code demonstriert, wie man ein Bild mit einem neuen CubicBSpline‑Resize‑Typ skaliert.
 
 ```csharp
 [C#]
@@ -110,7 +111,7 @@ Der folgende Code zeigt, wie Sie die Größe eines Bilds mit einem neuen CubicBS
 string sourceFile = "sample.psd";
 string destName = "ResamplerCubicBSplineStripes_after.psd";
 
-// Ein vorhandenes Bild in eine Instanz der PsdImage-Klasse laden
+// Laden Sie ein vorhandenes Bild in eine Instanz der Klasse PsdImage.
 using (PsdImage image = (PsdImage)Image.Load(sourceFile))
 {
     image.Resize(300, 300, ResizeType.CubicBSpline);
@@ -118,7 +119,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFile))
 }
 ```
 
-Der folgende Code zeigt, wie Sie die Größe eines Bilds mit einem neuen CubicConvolution-Größenänderungstyp ändern.
+Der folgende Code demonstriert, wie man ein Bild mit einem neuen CubicConvolution‑Resize‑Typ skaliert.
 
 ```csharp
 [C#]
@@ -126,7 +127,7 @@ Der folgende Code zeigt, wie Sie die Größe eines Bilds mit einem neuen CubicCo
 string sourceFile = "sample.psd";
 string destName = "ResamplerCubicConvolutionStripes_after.psd";
 
-// Ein vorhandenes Bild in eine Instanz der PsdImage-Klasse laden
+// Laden Sie ein vorhandenes Bild in eine Instanz der Klasse PsdImage.
 using (PsdImage image = (PsdImage)Image.Load(sourceFile))
 {
     image.Resize(300, 300, ResizeType.CubicConvolution);
@@ -136,7 +137,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFile))
 
 ### Siehe auch
 
-* namensraum [Aspose.PSD](../../aspose.psd/)
-* Montage [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

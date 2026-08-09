@@ -1,27 +1,28 @@
 ---
-title: LayerMaskData.Top
-second_title: Aspose.PSD für .NET-API-Referenz
-description: LayerMaskData eigendom. Ruft die Maskenposition der obersten Ebene ab oder legt sie fest.
+title: "LayerMaskData.Top"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "LayerMaskData-Eigenschaft. Gibt die Position der oberen Ebenenmaske zurück oder legt sie fest."
 type: docs
 weight: 90
 url: /de/net/aspose.psd.fileformats.psd.layers/layermaskdata/top/
 ---
+{{< psd/tize >}}
 ## LayerMaskData.Top property
 
-Ruft die Maskenposition der obersten Ebene ab oder legt sie fest.
+Liest oder setzt die obere Position der Ebenenmaske.
 
 ```csharp
 public int Top { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
-Die Maskenposition der obersten Ebene.
+Die Position der oberen Ebenenmaske.
 
 ### Siehe auch
 
 * class [LayerMaskData](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers](../../layermaskdata/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

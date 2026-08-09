@@ -1,14 +1,15 @@
 ---
-title: PdfPackage.SetTrapped
-second_title: Aspose.PSD für .NET-API-Referenz
-description: PdfPackage methode. Setzt die Falle.
+title: "PdfPackage.SetTrapped"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "PdfPackage-Methode. Legt das Trapped-Flag fest"
 type: docs
 weight: 60
 url: /de/net/aspose.psd.xmp.schemas.pdf/pdfpackage/settrapped/
 ---
+{{< psd/tize >}}
 ## PdfPackage.SetTrapped method
 
-Setzt die Falle.
+Setzt das Trapped.
 
 ```csharp
 public void SetTrapped(bool isTrapped)
@@ -16,12 +17,12 @@ public void SetTrapped(bool isTrapped)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| isTrapped | Boolean | wenn eingestellt`WAHR` das Dokument wurde eingeklemmt. |
+| isTrapped | Boolean | Wenn auf `true` gesetzt, ist das Dokument getrapped. |
 
 ### Siehe auch
 
 * class [PdfPackage](../)
-* namensraum [Aspose.PSD.Xmp.Schemas.Pdf](../../pdfpackage/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.Pdf](../../../aspose.psd.xmp.schemas.pdf/)
+* assembly [Aspose.PSD](../../../)
 
 

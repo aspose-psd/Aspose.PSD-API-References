@@ -1,14 +1,15 @@
 ---
-title: Enum ExifSceneCaptureType
-second_title: Aspose.PSD für .NET-API-Referenz
-description: Aspose.PSD.Exif.Enums.ExifSceneCaptureType opsomming. ExifSzenenaufnahmetyp enum.
+title: "Enum ExifSceneCaptureType"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "Aspose.PSD.Exif.Enums.ExifSceneCaptureType enum. Exif‑Szenenerfassungs‑Typ‑Enum"
 type: docs
-weight: 930
+weight: 940
 url: /de/net/aspose.psd.exif.enums/exifscenecapturetype/
 ---
+{{< psd/tize >}}
 ## ExifSceneCaptureType enumeration
 
-Exif-Szenenaufnahmetyp enum.
+exif Szenenerfassungs-Typ-Enum.
 
 ```csharp
 public enum ExifSceneCaptureType
@@ -18,14 +19,14 @@ public enum ExifSceneCaptureType
 
 | Name | Wert | Beschreibung |
 | --- | --- | --- |
-| Standard | `0` | Standardszene. |
+| Standard | `0` | Standard‑Szene. |
 | Landscape | `1` | Landschaftsszene. |
 | Portrait | `2` | Porträtszene. |
 | NightScene | `3` | Nachtszene. |
 
 ### Siehe auch
 
-* namensraum [Aspose.PSD.Exif.Enums](../../aspose.psd.exif.enums/)
-* Montage [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Exif.Enums](../../aspose.psd.exif.enums/)
+* assembly [Aspose.PSD](../../)
 
 

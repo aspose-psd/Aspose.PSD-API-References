@@ -1,27 +1,28 @@
 ---
-title: XmpReal.Value
-second_title: Aspose.PSD für .NET-API-Referenz
-description: XmpReal eigendom. Ruft den FloatWert ab oder legt ihn fest.
+title: "XmpReal.Value"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "XmpReal Eigenschaft. Gibt den float-Wert zurück oder setzt ihn."
 type: docs
 weight: 20
 url: /de/net/aspose.psd.xmp.types.basic/xmpreal/value/
 ---
+{{< psd/tize >}}
 ## XmpReal.Value property
 
-Ruft den Float-Wert ab oder legt ihn fest.
+Liest oder setzt den float-Wert.
 
 ```csharp
 public float Value { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
-Der Gleitkommawert.
+Der Fließkommawert.
 
 ### Siehe auch
 
 * class [XmpReal](../)
-* namensraum [Aspose.PSD.Xmp.Types.Basic](../../xmpreal/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Basic](../../../aspose.psd.xmp.types.basic/)
+* assembly [Aspose.PSD](../../../)
 
 

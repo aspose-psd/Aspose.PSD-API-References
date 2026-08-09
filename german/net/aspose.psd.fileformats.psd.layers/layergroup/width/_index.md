@@ -1,14 +1,15 @@
 ---
-title: LayerGroup.Width
-second_title: Aspose.PSD für .NET-API-Referenz
-description: LayerGroup eigendom. Ruft die Breite der Ebenengruppe ab.
+title: "LayerGroup.Width"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "LayerGroup-Eigenschaft. Gibt die Breite der Ebenengruppe zurück"
 type: docs
 weight: 50
 url: /de/net/aspose.psd.fileformats.psd.layers/layergroup/width/
 ---
+{{< psd/tize >}}
 ## LayerGroup.Width property
 
-Ruft die Breite der Ebenengruppe ab.
+Liest die Breite der Ebenengruppe.
 
 ```csharp
 public override int Width { get; }
@@ -17,7 +18,7 @@ public override int Width { get; }
 ### Siehe auch
 
 * class [LayerGroup](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers](../../layergroup/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

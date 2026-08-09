@@ -1,32 +1,33 @@
 ---
-title: VibranceLayer.Vibrance
-second_title: Aspose.PSD für .NET-API-Referenz
-description: VibranceLayer eigendom. Ruft die Vibration ab oder legt sie fest.
+title: "VibranceLayer.Vibrance"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "VibranceLayer-Eigenschaft. Gibt die Vibranz zurück oder legt sie fest"
 type: docs
 weight: 20
 url: /de/net/aspose.psd.fileformats.psd.layers.adjustmentlayers/vibrancelayer/vibrance/
 ---
+{{< psd/tize >}}
 ## VibranceLayer.Vibrance property
 
-Ruft die Vibration ab oder legt sie fest.
+Liest oder setzt die Lebendigkeit.
 
 ```csharp
 public int Vibrance { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
-Die Schwingung.
+Die Vibranz.
 
 ### Ausnahmen
 
 | Ausnahme | Bedingung |
 | --- | --- |
-| ArgumentOutOfRangeException | Die Vibration muss im Bereich von -180 bis +180 liegen |
+| ArgumentOutOfRangeException | Die Vibranz muss im Bereich von -180 bis +180 liegen |
 
-### Beispiele
+## Beispiele
 
-Das folgende Codebeispiel demonstriert die Unterstützung der VibranceLayer-Ebene und die Möglichkeit, diese Anpassung zu bearbeiten.
+Das folgende Codebeispiel demonstriert die Unterstützung der VibranceLayer Ebene und die Möglichkeit, diese Anpassung zu bearbeiten.
 
 ```csharp
 [C#]
@@ -50,7 +51,7 @@ using (PsdImage image = (PsdImage) Image.Load(sourceFileName))
 ### Siehe auch
 
 * class [VibranceLayer](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../vibrancelayer/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/)
+* assembly [Aspose.PSD](../../../)
 
 

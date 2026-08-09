@@ -1,27 +1,28 @@
 ---
-title: ComplexTypeBase.NamespaceUri
-second_title: Aspose.PSD für .NET-API-Referenz
-description: ComplexTypeBase eigendom. Ruft den StandardNamespaceURI ab.
+title: "ComplexTypeBase.NamespaceUri"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "ComplexTypeBase-Eigenschaft. Gibt den Standard-Namespace-URI zurück"
 type: docs
 weight: 20
 url: /de/net/aspose.psd.xmp.types.complex/complextypebase/namespaceuri/
 ---
+{{< psd/tize >}}
 ## ComplexTypeBase.NamespaceUri property
 
-Ruft den Standard-Namespace-URI ab.
+Liest die Standard-Namespace-URI.
 
 ```csharp
 public string NamespaceUri { get; }
 ```
 
-### Eigentumswert
+### Property Value
 
 Der Standard-Namespace-URI.
 
 ### Siehe auch
 
 * class [ComplexTypeBase](../)
-* namensraum [Aspose.PSD.Xmp.Types.Complex](../../complextypebase/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex](../../../aspose.psd.xmp.types.complex/)
+* assembly [Aspose.PSD](../../../)
 
 

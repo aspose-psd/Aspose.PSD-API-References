@@ -1,27 +1,28 @@
 ---
-title: BilateralSmoothingFilterOptions.Size
-second_title: Aspose.PSD für .NET-API-Referenz
-description: BilateralSmoothingFilterOptions eigendom. Ruft die Größe des Kernels ab oder legt sie fest.
+title: "BilateralSmoothingFilterOptions.Size"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "BilateralSmoothingFilterOptions-Eigenschaft. Ruft die Größe des Kerns ab oder legt sie fest"
 type: docs
 weight: 40
 url: /de/net/aspose.psd.imagefilters.filteroptions/bilateralsmoothingfilteroptions/size/
 ---
+{{< psd/tize >}}
 ## BilateralSmoothingFilterOptions.Size property
 
-Ruft die Größe des Kernels ab oder legt sie fest.
+Liest oder setzt die Größe des Kernels.
 
 ```csharp
 public int Size { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
-Die Größe des Kernels.
+Die Größe des Kerns.
 
 ### Siehe auch
 
 * class [BilateralSmoothingFilterOptions](../)
-* namensraum [Aspose.PSD.ImageFilters.FilterOptions](../../bilateralsmoothingfilteroptions/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageFilters.FilterOptions](../../../aspose.psd.imagefilters.filteroptions/)
+* assembly [Aspose.PSD](../../../)
 
 

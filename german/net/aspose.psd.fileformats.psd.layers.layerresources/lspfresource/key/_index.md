@@ -1,14 +1,15 @@
 ---
-title: LspfResource.Key
-second_title: Aspose.PSD für .NET-API-Referenz
-description: LspfResource eigendom. Ruft den LayerRessourcenschlüssel ab.
+title: "LspfResource.Key"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "LspfResource-Eigenschaft. Gibt den Schlüssel der Ebenenressource zurück"
 type: docs
 weight: 50
 url: /de/net/aspose.psd.fileformats.psd.layers.layerresources/lspfresource/key/
 ---
+{{< psd/tize >}}
 ## LspfResource.Key property
 
-Ruft den Layer-Ressourcenschlüssel ab.
+Liest den Schichtressourcen-Schlüssel.
 
 ```csharp
 public override int Key { get; }
@@ -17,7 +18,7 @@ public override int Key { get; }
 ### Siehe auch
 
 * class [LspfResource](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../lspfresource/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

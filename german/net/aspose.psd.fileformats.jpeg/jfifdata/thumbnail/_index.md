@@ -1,14 +1,15 @@
 ---
-title: JFIFData.Thumbnail
-second_title: Aspose.PSD für .NET-API-Referenz
-description: JFIFData eigendom. Ruft die Miniaturansicht ab oder legt sie fest.
+title: "JFIFData.Thumbnail"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "JFIFData-Eigenschaft. Liest oder schreibt das Thumbnail"
 type: docs
 weight: 30
 url: /de/net/aspose.psd.fileformats.jpeg/jfifdata/thumbnail/
 ---
+{{< psd/tize >}}
 ## JFIFData.Thumbnail property
 
-Ruft die Miniaturansicht ab oder legt sie fest.
+Liest oder setzt das Miniaturbild.
 
 ```csharp
 public RasterImage Thumbnail { get; set; }
@@ -18,7 +19,7 @@ public RasterImage Thumbnail { get; set; }
 
 * class [RasterImage](../../../aspose.psd/rasterimage/)
 * class [JFIFData](../)
-* namensraum [Aspose.PSD.FileFormats.Jpeg](../../jfifdata/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Jpeg](../../../aspose.psd.fileformats.jpeg/)
+* assembly [Aspose.PSD](../../../)
 
 

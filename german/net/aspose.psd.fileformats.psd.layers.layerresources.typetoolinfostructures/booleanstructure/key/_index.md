@@ -1,14 +1,15 @@
 ---
-title: BooleanStructure.Key
-second_title: Aspose.PSD für .NET-API-Referenz
-description: BooleanStructure eigendom. Ruft den Strukturschlüssel ab.
+title: "BooleanStructure.Key"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "BooleanStructure Eigenschaft. Liest den Struktur-Schlüssel"
 type: docs
 weight: 20
 url: /de/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/booleanstructure/key/
 ---
+{{< psd/tize >}}
 ## BooleanStructure.Key property
 
-Ruft den Strukturschlüssel ab.
+Liest den Struktur-Schlüssel.
 
 ```csharp
 public override int Key { get; }
@@ -17,7 +18,7 @@ public override int Key { get; }
 ### Siehe auch
 
 * class [BooleanStructure](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../booleanstructure/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 

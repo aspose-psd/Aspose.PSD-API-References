@@ -1,14 +1,15 @@
 ---
-title: Enum TiffThresholds
-second_title: Aspose.PSD für .NET-API-Referenz
-description: Aspose.PSD.FileFormats.Tiff.Enums.TiffThresholds opsomming. Schwellenwert für Daten verwendet.
+title: "Enum TiffThresholds"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "Aspose.PSD.FileFormats.Tiff.Enums.TiffThresholds enum. Schwellenwertbildung, die auf Daten angewendet wird."
 type: docs
-weight: 4180
+weight: 4650
 url: /de/net/aspose.psd.fileformats.tiff.enums/tiffthresholds/
 ---
+{{< psd/tize >}}
 ## TiffThresholds enumeration
 
-Schwellenwert für Daten verwendet.
+Schwellwertbildung, die auf Daten verwendet wird.
 
 ```csharp
 public enum TiffThresholds : ushort
@@ -18,13 +19,13 @@ public enum TiffThresholds : ushort
 
 | Name | Wert | Beschreibung |
 | --- | --- | --- |
-| NoDithering | `1` | Es wird kein Dithering durchgeführt. |
-| HalfTone | `2` | Geditherter Scan. |
-| ErrorDiffuse | `3` | Normalerweise Floyd-Steinberg. |
+| NoDithering | `1` | Kein Dithering wird durchgeführt. |
+| HalfTone | `2` | Dither‑Scan. |
+| ErrorDiffuse | `3` | Üblicherweise Floyd‑Steinberg. |
 
 ### Siehe auch
 
-* namensraum [Aspose.PSD.FileFormats.Tiff.Enums](../../aspose.psd.fileformats.tiff.enums/)
-* Montage [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Tiff.Enums](../../aspose.psd.fileformats.tiff.enums/)
+* assembly [Aspose.PSD](../../)
 
 

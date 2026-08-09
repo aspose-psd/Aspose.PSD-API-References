@@ -1,14 +1,15 @@
 ---
-title: GridAndGuidesResouce.GridAndGuidesResouce
-second_title: Aspose.PSD für .NET-API-Referenz
-description: GridAndGuidesResouce constructeur. Default_Constructor
+title: "GridAndGuidesResouce.GridAndGuidesResouce"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "GridAndGuidesResouce-Konstruktor. Der Standardkonstruktor"
 type: docs
 weight: 10
 url: /de/net/aspose.psd.fileformats.psd.resources/gridandguidesresouce/gridandguidesresouce/
 ---
+{{< psd/tize >}}
 ## GridAndGuidesResouce constructor
 
-Default_Constructor
+Der Standardkonstruktor.
 
 ```csharp
 public GridAndGuidesResouce()
@@ -17,7 +18,7 @@ public GridAndGuidesResouce()
 ### Siehe auch
 
 * class [GridAndGuidesResouce](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Resources](../../gridandguidesresouce/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

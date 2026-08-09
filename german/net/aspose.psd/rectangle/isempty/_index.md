@@ -1,27 +1,28 @@
 ---
-title: Rectangle.IsEmpty
-second_title: Aspose.PSD für .NET-API-Referenz
-description: Rectangle eigendom. Ruft einen Wert ab der angibt ob alle numerischen Eigenschaften von thisRectangle Werte von Null haben.
+title: "Rectangle.IsEmpty"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "Rectangle-Eigenschaft. Gibt einen Wert zurück, der angibt, ob alle numerischen Eigenschaften dieser Rectangle den Wert Null haben"
 type: docs
 weight: 130
 url: /de/net/aspose.psd/rectangle/isempty/
 ---
+{{< psd/tize >}}
 ## Rectangle.IsEmpty property
 
-Ruft einen Wert ab, der angibt, ob alle numerischen Eigenschaften von this[`Rectangle`](../) Werte von Null haben.
+Gibt einen Wert zurück, der angibt, ob alle numerischen Eigenschaften dieser [`Rectangle`](../) den Wert Null haben.
 
 ```csharp
 public bool IsEmpty { get; }
 ```
 
-### Eigentumswert
+### Property Value
 
-Diese Eigenschaft gibt true zurück, wenn die[`Width`](../width/) ,[`Height`](../height/) ,[`X`](../x/) , Und[`Y`](../y/) Eigenschaften davon[`Rectangle`](../) alle haben Werte von Null; andernfalls falsch.
+Diese Eigenschaft gibt true zurück, wenn die [`Width`](../width/)-, [`Height`](../height/)-, [`X`](../x/)- und [`Y`](../y/)-Eigenschaften dieser [`Rectangle`](../) alle den Wert Null haben; andernfalls false.
 
 ### Siehe auch
 
 * struct [Rectangle](../)
-* namensraum [Aspose.PSD](../../rectangle/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

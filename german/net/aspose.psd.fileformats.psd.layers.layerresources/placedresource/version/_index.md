@@ -1,27 +1,28 @@
 ---
-title: PlacedResource.Version
-second_title: Aspose.PSD für .NET-API-Referenz
-description: PlacedResource eigendom. Ruft die Version der platzierten Ebene in der PSDDatei ab normalerweise 3.
+title: "PlacedResource.Version"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "PlacedResource-Eigenschaft. Gibt die Version der platzierten Ebene in der PSD-Datei zurück, normalerweise 3"
 type: docs
-weight: 210
+weight: 200
 url: /de/net/aspose.psd.fileformats.psd.layers.layerresources/placedresource/version/
 ---
+{{< psd/tize >}}
 ## PlacedResource.Version property
 
-Ruft die Version der platzierten Ebene in der PSD-Datei ab, normalerweise 3.
+Liest die Version der platzierten Ebene in der PSD-Datei, normalerweise 3.
 
 ```csharp
 public int Version { get; }
 ```
 
-### Eigentumswert
+### Property Value
 
-Die platzierte Layer-Version.
+Die Version der platzierten Ebene.
 
 ### Siehe auch
 
 * class [PlacedResource](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../placedresource/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

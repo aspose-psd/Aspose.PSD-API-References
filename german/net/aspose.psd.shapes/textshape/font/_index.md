@@ -1,11 +1,12 @@
 ---
-title: TextShape.Font
-second_title: Aspose.PSD für .NET-API-Referenz
-description: TextShape eigendom. Ruft die zum Zeichnen des Textes verwendete Schriftart ab oder legt sie fest.
+title: "TextShape.Font"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "TextShape-Eigenschaft. Gibt die zum Zeichnen des Textes verwendete Schriftart zurück oder legt sie fest"
 type: docs
 weight: 40
 url: /de/net/aspose.psd.shapes/textshape/font/
 ---
+{{< psd/tize >}}
 ## TextShape.Font property
 
 Ruft die zum Zeichnen des Textes verwendete Schriftart ab oder legt sie fest.
@@ -14,7 +15,7 @@ Ruft die zum Zeichnen des Textes verwendete Schriftart ab oder legt sie fest.
 public Font Font { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
 Die zum Zeichnen des Textes verwendete Schriftart.
 
@@ -22,7 +23,7 @@ Die zum Zeichnen des Textes verwendete Schriftart.
 
 * class [Font](../../../aspose.psd/font/)
 * class [TextShape](../)
-* namensraum [Aspose.PSD.Shapes](../../textshape/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 

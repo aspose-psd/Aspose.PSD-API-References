@@ -1,27 +1,28 @@
 ---
-title: Layer.Top
-second_title: Aspose.PSD für .NET-API-Referenz
-description: Layer eigendom. Ruft die Position der obersten Ebene ab oder legt sie fest.
+title: "Layer.Top"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "Layer-Eigenschaft. Ruft die Position der obersten Ebene ab oder legt sie fest"
 type: docs
-weight: 310
+weight: 320
 url: /de/net/aspose.psd.fileformats.psd.layers/layer/top/
 ---
+{{< psd/tize >}}
 ## Layer.Top property
 
-Ruft die Position der obersten Ebene ab oder legt sie fest.
+Liest oder setzt die obere Ebenenposition.
 
 ```csharp
-public int Top { get; set; }
+public virtual int Top { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
 Die Position der obersten Ebene.
 
 ### Siehe auch
 
 * class [Layer](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers](../../layer/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

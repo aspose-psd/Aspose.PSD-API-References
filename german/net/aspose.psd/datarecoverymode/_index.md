@@ -1,11 +1,12 @@
 ---
-title: Enum DataRecoveryMode
-second_title: Aspose.PSD für .NET-API-Referenz
-description: Aspose.PSD.DataRecoveryMode opsomming. Der Datenwiederherstellungsmodus.
+title: "Aufzählung DataRecoveryMode"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "Aspose.PSD.DataRecoveryMode Aufzählung. Der Datenwiederherstellungsmodus"
 type: docs
-weight: 730
+weight: 740
 url: /de/net/aspose.psd/datarecoverymode/
 ---
+{{< psd/tize >}}
 ## DataRecoveryMode enumeration
 
 Der Datenwiederherstellungsmodus.
@@ -18,13 +19,13 @@ public enum DataRecoveryMode
 
 | Name | Wert | Beschreibung |
 | --- | --- | --- |
-| None | `0` | Es ist keine Datenwiederherstellung impliziert. Immer wenn das Dateiformat beschädigte Daten enthält, wird die entsprechende Ausnahme ausgelöst. |
-| ConsistentRecover | `1` | Der konsistente Wiederherstellungsmodus versucht, alle Daten wiederherzustellen, solange eine Beschädigung das Dateiformat nicht beeinträchtigt und eine korrekte Weiterverarbeitung ermöglicht. |
-| MaximalRecover | `2` | Der maximale Wiederherstellungsmodus stellt alle Daten wieder her, auch wenn das Dateiformat eine beschädigte Struktur aufweist und die weitere Verarbeitung zu unbeaufsichtigten Effekten führen kann. |
+| None | `0` | Keine Datenwiederherstellung ist impliziert. Wann immer das Dateiformat beschädigte Daten enthält, wird die entsprechende Ausnahme ausgelöst. |
+| ConsistentRecover | `1` | Der konsistente Wiederherstellungsmodus versucht, alle Daten wiederherzustellen, solange die Beschädigung das Dateiformat nicht zerstört und eine korrekte Weiterverarbeitung ermöglicht. |
+| MaximalRecover | `2` | Der maximale Wiederherstellungsmodus stellt alle Daten wieder her, selbst wenn das Dateiformat eine beschädigte Struktur aufweist, und die weitere Verarbeitung kann unbeabsichtigte Effekte erzeugen. |
 
 ### Siehe auch
 
-* namensraum [Aspose.PSD](../../aspose.psd/)
-* Montage [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

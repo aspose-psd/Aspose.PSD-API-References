@@ -1,14 +1,15 @@
 ---
-title: CurveShape.CurveShape
-second_title: Aspose.PSD für .NET-API-Referenz
-description: CurveShape constructeur. Initialisiert eine neue Instanz vonCurveShape Klasse.
+title: "CurveShape.CurveShape"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "CurveShape-Konstruktor. Initialisiert eine neue Instanz der CurveShape-Klasse"
 type: docs
 weight: 10
 url: /de/net/aspose.psd.shapes/curveshape/curveshape/
 ---
+{{< psd/tize >}}
 ## CurveShape() {#constructor}
 
-Initialisiert eine neue Instanz von[`CurveShape`](../) Klasse.
+Initialisiert eine neue Instanz der [`CurveShape`](../)-Klasse.
 
 ```csharp
 public CurveShape()
@@ -17,14 +18,14 @@ public CurveShape()
 ### Siehe auch
 
 * class [CurveShape](../)
-* namensraum [Aspose.PSD.Shapes](../../curveshape/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## CurveShape(PointF[]) {#constructor_1}
 
-Initialisiert eine neue Instanz von[`CurveShape`](../) Klasse. Die Standardspannung von 0,5 wird verwendet.
+Initialisiert eine neue Instanz der [`CurveShape`](../)-Klasse. Die Standardspannung von 0,5 wird verwendet.
 
 ```csharp
 public CurveShape(PointF[] points)
@@ -32,20 +33,20 @@ public CurveShape(PointF[] points)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| points | PointF[] | Das Punkte-Array. |
+| Punkte | PointF[] | Das Punkte-Array. |
 
 ### Siehe auch
 
 * struct [PointF](../../../aspose.psd/pointf/)
 * class [CurveShape](../)
-* namensraum [Aspose.PSD.Shapes](../../curveshape/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## CurveShape(PointF[], bool) {#constructor_2}
 
-Initialisiert eine neue Instanz von[`CurveShape`](../) Klasse. Die Standardspannung von 0,5 wird verwendet.
+Initialisiert eine neue Instanz der [`CurveShape`](../)-Klasse. Die Standardspannung von 0,5 wird verwendet.
 
 ```csharp
 public CurveShape(PointF[] points, bool isClosed)
@@ -53,21 +54,21 @@ public CurveShape(PointF[] points, bool isClosed)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| points | PointF[] | Das Punkte-Array. |
-| isClosed | Boolean | wenn eingestellt`WAHR` die Kurve ist geschlossen. |
+| Punkte | PointF[] | Das Punkte-Array. |
+| isClosed | Boolean | Wenn auf `true` gesetzt, ist die Kurve geschlossen. |
 
 ### Siehe auch
 
 * struct [PointF](../../../aspose.psd/pointf/)
 * class [CurveShape](../)
-* namensraum [Aspose.PSD.Shapes](../../curveshape/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## CurveShape(PointF[], float) {#constructor_3}
 
-Initialisiert eine neue Instanz von[`CurveShape`](../) Klasse.
+Initialisiert eine neue Instanz der [`CurveShape`](../)-Klasse.
 
 ```csharp
 public CurveShape(PointF[] points, float tension)
@@ -75,21 +76,21 @@ public CurveShape(PointF[] points, float tension)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| points | PointF[] | Das Punkte-Array. |
-| tension | Single | Die Kurvenspannung. |
+| Punkte | PointF[] | Das Punkte-Array. |
+| Spannung | Single | Die Kurvenspannung. |
 
 ### Siehe auch
 
 * struct [PointF](../../../aspose.psd/pointf/)
 * class [CurveShape](../)
-* namensraum [Aspose.PSD.Shapes](../../curveshape/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## CurveShape(PointF[], float, bool) {#constructor_4}
 
-Initialisiert eine neue Instanz von[`CurveShape`](../) Klasse.
+Initialisiert eine neue Instanz der [`CurveShape`](../)-Klasse.
 
 ```csharp
 public CurveShape(PointF[] points, float tension, bool isClosed)
@@ -97,15 +98,15 @@ public CurveShape(PointF[] points, float tension, bool isClosed)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| points | PointF[] | Das Punkte-Array. |
-| tension | Single | Die Kurvenspannung. |
-| isClosed | Boolean | wenn eingestellt`WAHR` die Kurve ist geschlossen. |
+| Punkte | PointF[] | Das Punkte-Array. |
+| Spannung | Single | Die Kurvenspannung. |
+| isClosed | Boolean | Wenn auf `true` gesetzt, ist die Kurve geschlossen. |
 
 ### Siehe auch
 
 * struct [PointF](../../../aspose.psd/pointf/)
 * class [CurveShape](../)
-* namensraum [Aspose.PSD.Shapes](../../curveshape/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 

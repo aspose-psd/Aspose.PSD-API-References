@@ -1,27 +1,28 @@
 ---
-title: AiRasterImageSection.Pixels
-second_title: Aspose.PSD für .NET-API-Referenz
-description: AiRasterImageSection eigendom. Ruft das Array von IntFarbpixeln ab.
+title: "AiRasterImageSection.Pixels"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "AiRasterImageSection Eigenschaft. Gibt das Array von int-Farbpixeln zurück"
 type: docs
 weight: 80
 url: /de/net/aspose.psd.fileformats.ai/airasterimagesection/pixels/
 ---
+{{< psd/tize >}}
 ## AiRasterImageSection.Pixels property
 
-Ruft das Array von Int-Farbpixeln ab.
+Gibt das Array von int‑Farbpixeln zurück.
 
 ```csharp
 public int[] Pixels { get; }
 ```
 
-### Eigentumswert
+### Property Value
 
-Das Array von Int-Farbpixeln.
+Das Array von int-Farbpixeln.
 
 ### Siehe auch
 
 * class [AiRasterImageSection](../)
-* namensraum [Aspose.PSD.FileFormats.Ai](../../airasterimagesection/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

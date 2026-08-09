@@ -1,14 +1,15 @@
 ---
-title: Enum LinkDataSourceType
-second_title: Aspose.PSD für .NET-API-Referenz
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.LinkDataSourceType opsomming. Definiert die LinkDataSourceTypeAufzählung für die Datenquellen in der PSDLinkRessource.
+title: "Aufzählung LinkDataSourceType"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "Aspose.PSD.FileFormats.Psd.Layers.LayerResources.LinkDataSourceType Aufzählung. Definiert die LinkDataSourceType‑Aufzählung für die Datenquellen im PSD‑Link‑Ressourcen."
 type: docs
-weight: 2700
+weight: 3000
 url: /de/net/aspose.psd.fileformats.psd.layers.layerresources/linkdatasourcetype/
 ---
+{{< psd/tize >}}
 ## LinkDataSourceType enumeration
 
-Definiert die LinkDataSourceType-Aufzählung für die Datenquellen in der PSD-Link-Ressource.
+Definiert die Aufzählung LinkDataSourceType für die Datenquellen in der PSD-Link-Ressource.
 
 ```csharp
 public enum LinkDataSourceType
@@ -18,14 +19,14 @@ public enum LinkDataSourceType
 
 | Name | Wert | Beschreibung |
 | --- | --- | --- |
-| None | `0` | Die leere Link-Ressource. |
-| liFD | `1` | Die eingebettete verknüpfte Datei data |
-| liFE | `2` | Die extern verlinkte Datei data |
-| liFA | `3` | Der verknüpfte Dateialias data |
+| None | `0` | Die leere Link‑Ressource. |
+| liFD | `1` | Die eingebetteten verknüpften Dateidaten |
+| liFE | `2` | Die externen verknüpften Dateidaten |
+| liFA | `3` | Die Alias‑Daten der verknüpften Datei |
 
-### Beispiele
+## Beispiele
 
-Der folgende Code demonstriert die Unterstützung der LnkeResource-Ressource.
+Der folgende Code demonstriert die Unterstützung der LnkeResource‑Ressource.
 
 ```csharp
 [C#]
@@ -249,7 +250,7 @@ ExampleOfComplexLnkEResourceSupport(
 
 ### Siehe auch
 
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
-* Montage [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../)
 
 

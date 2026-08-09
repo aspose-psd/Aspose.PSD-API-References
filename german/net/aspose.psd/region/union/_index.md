@@ -1,14 +1,15 @@
 ---
-title: Region.Union
-second_title: Aspose.PSD für .NET-API-Referenz
-description: Region methode. aktualisiert diesRegion zur Vereinigung von sich selbst und dem SpezifiziertenRectangleFStruktur.
+title: "Region.Union"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "Region-Methode. Aktualisiert dieses Region zur Vereinigung von sich selbst und der angegebenen RectangleF-Struktur"
 type: docs
-weight: 140
+weight: 150
 url: /de/net/aspose.psd/region/union/
 ---
+{{< psd/tize >}}
 ## Union(RectangleF) {#union_2}
 
-aktualisiert dies[`Region`](../) zur Vereinigung von sich selbst und dem Spezifizierten[`RectangleF`](../../rectanglef/)Struktur.
+Aktualisiert dieses [`Region`](../) zur Vereinigung von sich selbst und der angegebenen [`RectangleF`](../../rectanglef/) Struktur.
 
 ```csharp
 public void Union(RectangleF rect)
@@ -16,20 +17,20 @@ public void Union(RectangleF rect)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| rect | RectangleF | Der[`RectangleF`](../../rectanglef/) Struktur, um sich damit zu vereinen[`Region`](../). |
+| rect | RectangleF | Die [`RectangleF`](../../rectanglef/) Struktur, die mit diesem [`Region`](../) vereinigt werden soll. |
 
 ### Siehe auch
 
 * struct [RectangleF](../../rectanglef/)
 * class [Region](../)
-* namensraum [Aspose.PSD](../../region/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Union(Rectangle) {#union_1}
 
-aktualisiert dies[`Region`](../) zur Vereinigung von sich selbst und dem Spezifizierten[`Rectangle`](../../rectangle/)Struktur.
+Aktualisiert dieses [`Region`](../) zur Vereinigung von sich selbst und der angegebenen [`Rectangle`](../../rectangle/) Struktur.
 
 ```csharp
 public void Union(Rectangle rect)
@@ -37,20 +38,20 @@ public void Union(Rectangle rect)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| rect | Rectangle | Der[`Rectangle`](../../rectangle/) Struktur, um sich damit zu vereinen[`Region`](../). |
+| rect | Rectangle | Die [`Rectangle`](../../rectangle/) Struktur, die mit diesem [`Region`](../) vereinigt werden soll. |
 
 ### Siehe auch
 
 * struct [Rectangle](../../rectangle/)
 * class [Region](../)
-* namensraum [Aspose.PSD](../../region/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Union(GraphicsPath) {#union}
 
-aktualisiert dies[`Region`](../) zur Vereinigung von sich selbst und dem Spezifizierten[`GraphicsPath`](../../graphicspath/) .
+Aktualisiert dieses [`Region`](../) zur Vereinigung von sich selbst und dem angegebenen [`GraphicsPath`](../../graphicspath/).
 
 ```csharp
 public void Union(GraphicsPath path)
@@ -58,26 +59,26 @@ public void Union(GraphicsPath path)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| path | GraphicsPath | Der[`GraphicsPath`](../../graphicspath/) sich damit zu vereinen[`Region`](../). |
+| path | GraphicsPath | Der [`GraphicsPath`](../../graphicspath/) zum Vereinigen mit diesem [`Region`](../). |
 
 ### Ausnahmen
 
 | Ausnahme | Bedingung |
 | --- | --- |
-| ArgumentNullException | *path* ist Null. |
+| ArgumentNullException | *path* ist null. |
 
 ### Siehe auch
 
 * class [GraphicsPath](../../graphicspath/)
 * class [Region](../)
-* namensraum [Aspose.PSD](../../region/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Union(Region) {#union_3}
 
-aktualisiert dies[`Region`](../) zur Vereinigung von sich selbst und dem Spezifizierten[`Region`](../) .
+Aktualisiert dieses [`Region`](../) zur Vereinigung von sich selbst und dem angegebenen [`Region`](../).
 
 ```csharp
 public void Union(Region region)
@@ -85,18 +86,18 @@ public void Union(Region region)
 
 | Parameter | Typ | Beschreibung |
 | --- | --- | --- |
-| region | Region | Der[`Region`](../) sich damit zu vereinen[`Region`](../). |
+| region | Region | Das [`Region`](../) zum Vereinigen mit diesem [`Region`](../). |
 
 ### Ausnahmen
 
 | Ausnahme | Bedingung |
 | --- | --- |
-| ArgumentNullException | *region* ist Null. |
+| ArgumentNullException | *region* ist null. |
 
 ### Siehe auch
 
 * class [Region](../)
-* namensraum [Aspose.PSD](../../region/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

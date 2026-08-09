@@ -1,27 +1,28 @@
 ---
-title: PatternFillSettings.PatternName
-second_title: Aspose.PSD für .NET-API-Referenz
-description: PatternFillSettings eigendom. Ruft den Namen des Musters ab oder legt ihn fest.
+title: "PatternFillSettings.PatternName"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "PatternFillSettings-Eigenschaft. Liest oder setzt den Namen des Musters"
 type: docs
-weight: 90
+weight: 110
 url: /de/net/aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings/patternname/
 ---
+{{< psd/tize >}}
 ## PatternFillSettings.PatternName property
 
-Ruft den Namen des Musters ab oder legt ihn fest.
+Liest oder setzt den Namen des Musters.
 
 ```csharp
 public string PatternName { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
 Der Name des Musters.
 
 ### Siehe auch
 
 * class [PatternFillSettings](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../patternfillsettings/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: ColorPalette.Argb32Entries
-second_title: Aspose.PSD für .NET-API-Referenz
-description: ColorPalette eigendom. Ruft ein Array von 32BitARGBStrukturen ab.
+title: "ColorPalette.Argb32Entries"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "ColorPalette-Eigenschaft. Gibt ein Array von 32‑Bit‑ARGB‑Strukturen zurück"
 type: docs
 weight: 30
 url: /de/net/aspose.psd/colorpalette/argb32entries/
 ---
+{{< psd/tize >}}
 ## ColorPalette.Argb32Entries property
 
-Ruft ein Array von 32-Bit-ARGB-Strukturen ab.
+Liefert ein Array von 32‑Bit‑ARGB‑Strukturen.
 
 ```csharp
 public int[] Argb32Entries { get; }
@@ -16,16 +17,16 @@ public int[] Argb32Entries { get; }
 
 ### Rückgabewert
 
-Das Array der 32-Bit-ARGB-Struktur, aus dem dies besteht[`ColorPalette`](../) .
+Das Array der 32‑Bit‑ARGB‑Strukturen, das diese [`ColorPalette`](../) bildet.
 
-### Eigentumswert
+### Property Value
 
 Die Einträge.
 
 ### Siehe auch
 
 * class [ColorPalette](../)
-* namensraum [Aspose.PSD](../../colorpalette/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

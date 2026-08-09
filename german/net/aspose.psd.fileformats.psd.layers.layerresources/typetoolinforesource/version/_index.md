@@ -1,11 +1,12 @@
 ---
-title: TypeToolInfoResource.Version
-second_title: Aspose.PSD für .NET-API-Referenz
-description: TypeToolInfoResource eigendom. Ruft die Version ab oder legt sie fest.
+title: "TypeToolInfoResource.Version"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "TypeToolInfoResource Eigenschaft. Liest oder legt die Version fest"
 type: docs
-weight: 250
+weight: 220
 url: /de/net/aspose.psd.fileformats.psd.layers.layerresources/typetoolinforesource/version/
 ---
+{{< psd/tize >}}
 ## TypeToolInfoResource.Version property
 
 Ruft die Version ab oder legt sie fest.
@@ -14,14 +15,14 @@ Ruft die Version ab oder legt sie fest.
 public short Version { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
 Die Version.
 
 ### Siehe auch
 
 * class [TypeToolInfoResource](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../typetoolinforesource/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

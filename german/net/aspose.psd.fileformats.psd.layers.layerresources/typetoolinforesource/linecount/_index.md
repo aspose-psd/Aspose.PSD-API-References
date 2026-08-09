@@ -1,27 +1,28 @@
 ---
-title: TypeToolInfoResource.LineCount
-second_title: Aspose.PSD für .NET-API-Referenz
-description: TypeToolInfoResource eigendom. Ruft die Zeilenanzahl ab.
+title: "TypeToolInfoResource.LineCount"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "TypeToolInfoResource Eigenschaft. Gibt die Zeilenanzahl zurück"
 type: docs
-weight: 130
+weight: 120
 url: /de/net/aspose.psd.fileformats.psd.layers.layerresources/typetoolinforesource/linecount/
 ---
+{{< psd/tize >}}
 ## TypeToolInfoResource.LineCount property
 
-Ruft die Zeilenanzahl ab.
+Liest die Zeilenanzahl.
 
 ```csharp
 public short LineCount { get; }
 ```
 
-### Eigentumswert
+### Property Value
 
 Die Zeilenanzahl.
 
 ### Siehe auch
 
 * class [TypeToolInfoResource](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../typetoolinforesource/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

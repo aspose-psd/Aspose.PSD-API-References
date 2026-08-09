@@ -1,14 +1,15 @@
 ---
-title: JpegOptions.HorizontalSampling
-second_title: Aspose.PSD für .NET-API-Referenz
-description: JpegOptions eigendom. Ruft die horizontalen Unterabtastungen für jede Komponente ab oder legt sie fest.
+title: "JpegOptions.HorizontalSampling"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "JpegOptions-Eigenschaft. Gibt die horizontalen Untersamplungen für jede Komponente zurück oder legt sie fest."
 type: docs
-weight: 80
+weight: 90
 url: /de/net/aspose.psd.imageoptions/jpegoptions/horizontalsampling/
 ---
+{{< psd/tize >}}
 ## JpegOptions.HorizontalSampling property
 
-Ruft die horizontalen Unterabtastungen für jede Komponente ab oder legt sie fest.
+Liest oder setzt die horizontalen Subsamplings für jede Komponente.
 
 ```csharp
 public byte[] HorizontalSampling { get; set; }
@@ -17,7 +18,7 @@ public byte[] HorizontalSampling { get; set; }
 ### Siehe auch
 
 * class [JpegOptions](../)
-* namensraum [Aspose.PSD.ImageOptions](../../jpegoptions/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

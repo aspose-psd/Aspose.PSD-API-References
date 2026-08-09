@@ -1,28 +1,29 @@
 ---
-title: ExifData.GPSDestBearing
-second_title: Aspose.PSD für .NET-API-Referenz
-description: ExifData eigendom. Ruft die GPSPeilung zum Zielpunkt ab oder legt sie fest.
+title: "ExifData.GPSDestBearing"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "ExifData-Eigenschaft. Ruft die GPS-Richtung zum Zielpunkt ab oder legt sie fest"
 type: docs
 weight: 400
 url: /de/net/aspose.psd.exif/exifdata/gpsdestbearing/
 ---
+{{< psd/tize >}}
 ## ExifData.GPSDestBearing property
 
-Ruft die GPS-Peilung zum Zielpunkt ab oder legt sie fest.
+Liest oder setzt die GPS-Richtung zum Zielpunkt.
 
 ```csharp
 public TiffRational GPSDestBearing { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
-Die GPS-Peilung zum Zielpunkt.
+Die GPS-Richtung zum Zielpunkt.
 
 ### Siehe auch
 
 * class [TiffRational](../../../aspose.psd.fileformats.tiff/tiffrational/)
 * class [ExifData](../)
-* namensraum [Aspose.PSD.Exif](../../exifdata/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

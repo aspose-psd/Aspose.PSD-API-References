@@ -1,27 +1,28 @@
 ---
-title: ColorMatrix.Matrix41
-second_title: Aspose.PSD für .NET-API-Referenz
-description: ColorMatrix eigendom. Holt oder setzt das Element in der vierten Zeile und ersten Spalte davonColorMatrix .
+title: "ColorMatrix.Matrix41"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "ColorMatrix-Eigenschaft. Ruft das Element in der vierten Zeile und ersten Spalte dieser ColorMatrix ab oder legt es fest."
 type: docs
 weight: 240
 url: /de/net/aspose.psd/colormatrix/matrix41/
 ---
+{{< psd/tize >}}
 ## ColorMatrix.Matrix41 property
 
-Holt oder setzt das Element in der vierten Zeile und ersten Spalte davon[`ColorMatrix`](../) .
+Ruft das Element in der vierten Zeile und ersten Spalte dieses [`ColorMatrix`](../) ab oder legt es fest.
 
 ```csharp
 public float Matrix41 { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
-Das Element in der vierten Reihe und ersten Spalte davon[`ColorMatrix`](../).
+Das Element in der vierten Zeile und ersten Spalte dieses [`ColorMatrix`](../).
 
 ### Siehe auch
 
 * class [ColorMatrix](../)
-* namensraum [Aspose.PSD](../../colormatrix/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

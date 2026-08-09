@@ -1,36 +1,37 @@
 ---
-title: Class PathFillRuleRecord
-second_title: Aspose.PSD für .NET-API-Referenz
-description: Aspose.PSD.FileFormats.Core.VectorPaths.PathFillRuleRecord klas. PfadfüllregelDatensatzklasse
+title: "Klasse PathFillRuleRecord"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "Aspose.PSD.FileFormats.Core.VectorPaths.PathFillRuleRecord class. Path Fill Rule Record Klasse"
 type: docs
-weight: 1380
+weight: 1390
 url: /de/net/aspose.psd.fileformats.core.vectorpaths/pathfillrulerecord/
 ---
+{{< psd/tize >}}
 ## PathFillRuleRecord class
 
-Pfadfüllregel-Datensatzklasse
+Pfad‑Füllregel‑Record‑Klasse
 
 ```csharp
 public class PathFillRuleRecord : VectorPathRecord
 ```
 
-## Konstrukteure
+## Konstruktoren
 
 | Name | Beschreibung |
 | --- | --- |
-| [PathFillRuleRecord](pathfillrulerecord/#constructor)() | Initialisiert eine neue Instanz von`PathFillRuleRecord` Klasse. |
-| [PathFillRuleRecord](pathfillrulerecord/#constructor_1)(byte[]) | Initialisiert eine neue Instanz von`PathFillRuleRecord` Klasse. |
+| [PathFillRuleRecord](pathfillrulerecord/#constructor)() | Initialisiert eine neue Instanz der `PathFillRuleRecord` Klasse. |
+| [PathFillRuleRecord](pathfillrulerecord/#constructor_1)(byte[]) | Initialisiert eine neue Instanz der `PathFillRuleRecord` Klasse. |
 
 ## Eigenschaften
 
 | Name | Beschreibung |
 | --- | --- |
-| override [Type](../../aspose.psd.fileformats.core.vectorpaths/pathfillrulerecord/type/) { get; } | Ruft den Typ ab. |
+| override [Type](../../aspose.psd.fileformats.core.vectorpaths/pathfillrulerecord/type/) { get; } | Liefert den Typ. |
 
 ### Siehe auch
 
 * class [VectorPathRecord](../vectorpathrecord/)
-* namensraum [Aspose.PSD.FileFormats.Core.VectorPaths](../../aspose.psd.fileformats.core.vectorpaths/)
-* Montage [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../)
 
 

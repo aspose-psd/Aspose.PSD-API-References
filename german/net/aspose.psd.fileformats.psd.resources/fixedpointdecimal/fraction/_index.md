@@ -1,27 +1,28 @@
 ---
-title: FixedPointDecimal.Fraction
-second_title: Aspose.PSD für .NET-API-Referenz
-description: FixedPointDecimal eigendom. Ruft den Bruch ab oder legt ihn fest.
+title: "FixedPointDecimal.Fraction"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "FixedPointDecimal-Eigenschaft. Gibt den Bruchteil zurück oder legt ihn fest"
 type: docs
 weight: 20
 url: /de/net/aspose.psd.fileformats.psd.resources/fixedpointdecimal/fraction/
 ---
+{{< psd/tize >}}
 ## FixedPointDecimal.Fraction property
 
-Ruft den Bruch ab oder legt ihn fest.
+Liest oder setzt den Bruchteil.
 
 ```csharp
 public int Fraction { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
 Der Bruchteil.
 
 ### Siehe auch
 
 * class [FixedPointDecimal](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Resources](../../fixedpointdecimal/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,28 +1,29 @@
 ---
-title: PlacedResource.Items
-second_title: Aspose.PSD für .NET-API-Referenz
-description: PlacedResource eigendom. Ruft die WarpElemente ab oder legt sie fest.
+title: "PlacedResource.Items"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "PlacedResource-Eigenschaft. Gibt die Verzerrungselemente zurück oder setzt sie."
 type: docs
 weight: 70
 url: /de/net/aspose.psd.fileformats.psd.layers.layerresources/placedresource/items/
 ---
+{{< psd/tize >}}
 ## PlacedResource.Items property
 
-Ruft die Warp-Elemente ab oder legt sie fest.
+Liest oder legt die Warp-Elemente fest.
 
 ```csharp
 public virtual OSTypeStructure[] Items { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
-Die Warp-Gegenstände.
+Die Verzerrungselemente.
 
 ### Siehe auch
 
 * class [OSTypeStructure](../../ostypestructure/)
 * class [PlacedResource](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../placedresource/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

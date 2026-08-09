@@ -1,27 +1,28 @@
 ---
-title: PlacedResource.Right
-second_title: Aspose.PSD für .NET-API-Referenz
-description: PlacedResource eigendom. Ruft die richtige Position der platzierten Ebene in der PSDDatei ab oder legt sie fest.
+title: "PlacedResource.Right"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "PlacedResource-Eigenschaft. Gibt den rechten Standort der platzierten Ebene in der PSD-Datei zurück oder setzt ihn."
 type: docs
 weight: 130
 url: /de/net/aspose.psd.fileformats.psd.layers.layerresources/placedresource/right/
 ---
+{{< psd/tize >}}
 ## PlacedResource.Right property
 
-Ruft die richtige Position der platzierten Ebene in der PSD-Datei ab oder legt sie fest.
+Liest oder legt die rechte Position der platzierten Ebene in der PSD-Datei fest.
 
 ```csharp
 public double Right { get; set; }
 ```
 
-### Eigentumswert
+### Property Value
 
-Die richtige Position der platzierten Ebene.
+Der rechte Standort der platzierten Ebene.
 
 ### Siehe auch
 
 * class [PlacedResource](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../placedresource/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

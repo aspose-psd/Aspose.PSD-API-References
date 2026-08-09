@@ -1,14 +1,15 @@
 ---
-title: RectangleF.IntersectsWith
-second_title: Aspose.PSD für .NET-API-Referenz
-description: RectangleF methode. Bestimmt ob sich dieses Rechteck mit schneidetrect .
+title: "RectangleF.IntersectsWith"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "RectangleF-Methode. Bestimmt, ob dieses Rechteck mit rect überschneidet."
 type: docs
 weight: 220
 url: /de/net/aspose.psd/rectanglef/intersectswith/
 ---
+{{< psd/tize >}}
 ## RectangleF.IntersectsWith method
 
-Bestimmt, ob sich dieses Rechteck mit schneidet*rect* .
+Bestimmt, ob dieses Rechteck mit *rect* schneidet.
 
 ```csharp
 public bool IntersectsWith(RectangleF rect)
@@ -20,12 +21,12 @@ public bool IntersectsWith(RectangleF rect)
 
 ### Rückgabewert
 
-Diese Methode gibt true zurück, wenn es eine Schnittmenge gibt.
+Diese Methode gibt true zurück, wenn irgendeine Überschneidung besteht.
 
 ### Siehe auch
 
 * struct [RectangleF](../)
-* namensraum [Aspose.PSD](../../rectanglef/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: Enum EventType
-second_title: Aspose.PSD für .NET-API-Referenz
-description: Aspose.PSD.ProgressManagement.EventType opsomming. Diese Aufzählung beschreibt mögliche Arten von Fortschrittsereignissen die während Bildverarbeitungsvorgängen auftreten können
+title: "Enum EventType"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "Aspose.PSD.ProgressManagement.EventType‑Enum. Dieses Enum beschreibt mögliche Fortschritts‑Ereignistypen, die während Bildverarbeitungs‑Operationen auftreten können"
 type: docs
-weight: 5290
+weight: 5790
 url: /de/net/aspose.psd.progressmanagement/eventtype/
 ---
+{{< psd/tize >}}
 ## EventType enumeration
 
-Diese Aufzählung beschreibt mögliche Arten von Fortschrittsereignissen, die während Bildverarbeitungsvorgängen auftreten können
+Dieses Enum beschreibt mögliche Fortschrittsereignistypen, die während Bildverarbeitungsoperationen auftreten können
 
 ```csharp
 public enum EventType
@@ -18,16 +19,16 @@ public enum EventType
 
 | Name | Wert | Beschreibung |
 | --- | --- | --- |
-| RelativeProgress | `0` | Relativer Fortschritt der aktuellen Stufe der Vorgangsbearbeitung |
-| StageChange | `1` | Die nächste Stufe der Operation hat begonnen |
-| Initialization | `2` | Die Initialisierung der Operation |
+| RelativeProgress | `0` | Relativer Fortschritt der aktuellen Phase der Vorgangsverarbeitung |
+| StageChange | `1` | Die nächste Phase des Vorgangs hat begonnen |
+| Initialization | `2` | Die Initialisierung des Vorgangs |
 | PreProcessing | `3` | Die Vorverarbeitung |
 | Processing | `4` | Die Verarbeitung |
-| Finalization | `5` | Der Abschluss der Operation |
+| Finalization | `5` | Die Finalisierung des Vorgangs |
 
 ### Siehe auch
 
-* namensraum [Aspose.PSD.ProgressManagement](../../aspose.psd.progressmanagement/)
-* Montage [Aspose.PSD](../../)
+* namespace [Aspose.PSD.ProgressManagement](../../aspose.psd.progressmanagement/)
+* assembly [Aspose.PSD](../../)
 
 

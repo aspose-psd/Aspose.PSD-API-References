@@ -1,14 +1,15 @@
 ---
-title: Class AiHeader
-second_title: Aspose.PSD für .NET-API-Referenz
-description: Aspose.PSD.FileFormats.Ai.AiHeader klas. Der Adobe Illustrator Dateikopf
+title: "Klasse AiHeader"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "Aspose.PSD.FileFormats.Ai.AiHeader Klasse. Der Dateikopf von Adobe Illustrator"
 type: docs
-weight: 1250
+weight: 1260
 url: /de/net/aspose.psd.fileformats.ai/aiheader/
 ---
+{{< psd/tize >}}
 ## AiHeader class
 
-Der Adobe Illustrator Dateikopf
+Der Adobe Illustrator-Dateikopf
 
 ```csharp
 public sealed class AiHeader
@@ -18,22 +19,22 @@ public sealed class AiHeader
 
 | Name | Beschreibung |
 | --- | --- |
-| [BoundingBox](../../aspose.psd.fileformats.ai/aiheader/boundingbox/) { get; set; } | Ruft den Begrenzungsrahmen ab oder legt ihn fest. |
-| [ColorUsage](../../aspose.psd.fileformats.ai/aiheader/colorusage/) { get; set; } | Ruft die Farbverwendung ab oder legt sie fest. |
-| [CreationDate](../../aspose.psd.fileformats.ai/aiheader/creationdate/) { get; set; } | Ruft das Erstellungsdatum ab oder legt es fest. |
-| [Creator](../../aspose.psd.fileformats.ai/aiheader/creator/) { get; set; } | Ruft den Ersteller ab oder legt ihn fest. |
-| [DocumentPreview](../../aspose.psd.fileformats.ai/aiheader/documentpreview/) { get; set; } | Ruft die Dokumentvorschau ab oder legt sie fest. |
-| [DocumentProcessColors](../../aspose.psd.fileformats.ai/aiheader/documentprocesscolors/) { get; set; } | Ruft die Prozessfarben des Dokuments ab oder legt sie fest. |
-| [DocumentProcSets](../../aspose.psd.fileformats.ai/aiheader/documentprocsets/) { get; set; } | Ruft die Dokumentprozesssätze ab oder legt sie fest. |
-| [For](../../aspose.psd.fileformats.ai/aiheader/for/) { get; set; } | Ruft ab oder legt fest für. |
-| [Item](../../aspose.psd.fileformats.ai/aiheader/item/) { get; set; } | Ruft ab oder setzt dieString mit dem angegebenen Eigenschaftsnamen. |
-| [TemplateBox](../../aspose.psd.fileformats.ai/aiheader/templatebox/) { get; set; } | Ruft das Vorlagenfeld ab oder legt es fest. |
-| [TileBox](../../aspose.psd.fileformats.ai/aiheader/tilebox/) { get; set; } | Ruft das Kachelfeld ab oder legt es fest. |
-| [Title](../../aspose.psd.fileformats.ai/aiheader/title/) { get; set; } | Ruft den Titel ab oder legt ihn fest. |
+| [BoundingBox](../../aspose.psd.fileformats.ai/aiheader/boundingbox/) { get; set; } | Liest oder setzt das Begrenzungsfeld. |
+| [ColorUsage](../../aspose.psd.fileformats.ai/aiheader/colorusage/) { get; set; } | Liest oder setzt die Farbnutzung. |
+| [CreationDate](../../aspose.psd.fileformats.ai/aiheader/creationdate/) { get; set; } | Liest oder setzt das Erstellungsdatum. |
+| [Creator](../../aspose.psd.fileformats.ai/aiheader/creator/) { get; set; } | Liest oder setzt den Ersteller. |
+| [DocumentPreview](../../aspose.psd.fileformats.ai/aiheader/documentpreview/) { get; set; } | Liest oder setzt die Dokumentvorschau. |
+| [DocumentProcessColors](../../aspose.psd.fileformats.ai/aiheader/documentprocesscolors/) { get; set; } | Liest oder setzt die Dokumentprozessfarben. |
+| [DocumentProcSets](../../aspose.psd.fileformats.ai/aiheader/documentprocsets/) { get; set; } | Liest oder setzt die Dokument‑Proc‑Sätze. |
+| [For](../../aspose.psd.fileformats.ai/aiheader/for/) { get; set; } | Liest oder setzt für. |
+| [Item](../../aspose.psd.fileformats.ai/aiheader/item/) { get; set; } | Liest oder setzt die Zeichenkette mit dem angegebenen Eigenschaftsnamen. |
+| [TemplateBox](../../aspose.psd.fileformats.ai/aiheader/templatebox/) { get; set; } | Liest oder setzt das Vorlagenfeld. |
+| [TileBox](../../aspose.psd.fileformats.ai/aiheader/tilebox/) { get; set; } | Liest oder setzt das Kachelfeld. |
+| [Title](../../aspose.psd.fileformats.ai/aiheader/title/) { get; set; } | Liest oder setzt den Titel. |
 
 ### Siehe auch
 
-* namensraum [Aspose.PSD.FileFormats.Ai](../../aspose.psd.fileformats.ai/)
-* Montage [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../)
 
 

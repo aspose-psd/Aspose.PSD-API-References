@@ -1,14 +1,15 @@
 ---
-title: SmartFilter.SmartFilter
-second_title: Aspose.PSD für .NET-API-Referenz
-description: SmartFilter constructeur. Initialisiert eine neue Instanz vonSmartFilter Klasse.
+title: "SmartFilter.SmartFilter"
+second_title: "Aspose.PSD für .NET API-Referenz"
+description: "SmartFilter-Konstruktor. Erstellt eine neue Instanz der SmartFilter-Klasse"
 type: docs
 weight: 10
 url: /de/net/aspose.psd.fileformats.psd.layers.smartfilters/smartfilter/smartfilter/
 ---
+{{< psd/tize >}}
 ## SmartFilter constructor
 
-Initialisiert eine neue Instanz von[`SmartFilter`](../) Klasse.
+Erstellt eine neue Instanz der [`SmartFilter`](../)-Klasse.
 
 ```csharp
 public SmartFilter()
@@ -17,7 +18,7 @@ public SmartFilter()
 ### Siehe auch
 
 * class [SmartFilter](../)
-* namensraum [Aspose.PSD.FileFormats.Psd.Layers.SmartFilters](../../smartfilter/)
-* Montage [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.SmartFilters](../../../aspose.psd.fileformats.psd.layers.smartfilters/)
+* assembly [Aspose.PSD](../../../)
 
 
