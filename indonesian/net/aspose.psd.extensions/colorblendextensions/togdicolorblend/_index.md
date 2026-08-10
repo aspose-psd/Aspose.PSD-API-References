@@ -1,32 +1,33 @@
 ---
-title: ColorBlendExtensions.ToGdiColorBlend
-second_title: Aspose.PSD untuk Referensi .NET API
-description: ColorBlendExtensions metode. MengubahColorBlend keColorBlend .
+title: "ColorBlendExtensions.ToGdiColorBlend"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode ColorBlendExtensions. Mengonversi ColorBlend ke ColorBlend"
 type: docs
 weight: 10
 url: /id/net/aspose.psd.extensions/colorblendextensions/togdicolorblend/
 ---
+{{< psd/tize >}}
 ## ColorBlendExtensions.ToGdiColorBlend method
 
-Mengubah[`ColorBlend`](../../../aspose.psd/colorblend/) keColorBlend .
+Mengonversi [`ColorBlend`](../../../aspose.psd/colorblend/) ke ColorBlend.
 
 ```csharp
 public static ColorBlend ToGdiColorBlend(ColorBlend colorBlend)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| colorBlend | ColorBlend | Perpaduan warnanya. |
+| colorBlend | ColorBlend | Campuran warna. |
 
-### Nilai Pengembalian
+### Nilai Kembalian
 
-Yang dikonversiColorBlend.
+ColorBlend yang dikonversi.
 
-### Lihat juga
+### Lihat Juga
 
 * class [ColorBlend](../../../aspose.psd/colorblend/)
 * class [ColorBlendExtensions](../)
-* ruang nama [Aspose.PSD.Extensions](../../colorblendextensions/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Extensions](../../../aspose.psd.extensions/)
+* assembly [Aspose.PSD](../../../)
 
 

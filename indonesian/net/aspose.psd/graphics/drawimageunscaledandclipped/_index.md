@@ -1,36 +1,37 @@
 ---
-title: Graphics.DrawImageUnscaledAndClipped
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Graphics metode. Menggambar gambar yang ditentukan tanpa penskalaan dan memotongnya jika perlu agar sesuai dengan persegi panjang yang ditentukan.
+title: "Graphics.DrawImageUnscaledAndClipped"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode Graphics. Menggambar gambar yang ditentukan tanpa skala dan memotongnya bila perlu agar sesuai dengan persegi panjang yang ditentukan"
 type: docs
-weight: 240
+weight: 250
 url: /id/net/aspose.psd/graphics/drawimageunscaledandclipped/
 ---
+{{< psd/tize >}}
 ## Graphics.DrawImageUnscaledAndClipped method
 
-Menggambar gambar yang ditentukan tanpa penskalaan dan memotongnya, jika perlu, agar sesuai dengan persegi panjang yang ditentukan.
+Menggambar gambar yang ditentukan tanpa skala dan memotongnya, jika diperlukan, agar sesuai dalam persegi panjang yang ditentukan.
 
 ```csharp
 public void DrawImageUnscaledAndClipped(Image sourceImage, Rectangle rect)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| sourceImage | Image | Gambar untuk menggambar. |
-| rect | Rectangle | Itu[`Rectangle`](../../rectangle/) di mana untuk menggambar gambar. |
+| sourceImage | Image | Gambar yang akan digunakan untuk menggambar. |
+| rect | Rectangle | [`Rectangle`](../../rectangle/) tempat menggambar gambar. |
 
 ### Pengecualian
 
 | pengecualian | kondisi |
 | --- | --- |
-| ArgumentNullException | *sourceImage* adalah nol. |
+| ArgumentNullException | *sourceImage* bernilai null. |
 
-### Lihat juga
+### Lihat Juga
 
 * class [Image](../../image/)
 * struct [Rectangle](../../rectangle/)
 * class [Graphics](../)
-* ruang nama [Aspose.PSD](../../graphics/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

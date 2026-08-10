@@ -1,27 +1,28 @@
 ---
-title: ColorRangeHsl.Saturation
-second_title: Aspose.PSD untuk Referensi .NET API
-description: ColorRangeHsl Properti. Mendapat atau mengatur saturasi.
+title: "ColorRangeHsl.Saturation"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti ColorRangeHsl. Mendapatkan atau mengatur saturasi"
 type: docs
 weight: 80
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources/colorrangehsl/saturation/
 ---
+{{< psd/tize >}}
 ## ColorRangeHsl.Saturation property
 
-Mendapat atau mengatur saturasi.
+Mendapatkan atau mengatur saturasi.
 
 ```csharp
 public short Saturation { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
 Saturasi.
 
-### Lihat juga
+### Lihat Juga
 
 * class [ColorRangeHsl](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../colorrangehsl/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

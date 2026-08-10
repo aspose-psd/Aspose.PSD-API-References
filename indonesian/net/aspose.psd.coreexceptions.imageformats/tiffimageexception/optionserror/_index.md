@@ -1,11 +1,12 @@
 ---
-title: TiffImageException.OptionsError
-second_title: Aspose.PSD untuk Referensi .NET API
-description: TiffImageException Properti. Mendapatkan kesalahan opsi tiff.
+title: "TiffImageException.OptionsError"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti TiffImageException. Mendapatkan kesalahan opsi tiff."
 type: docs
 weight: 20
 url: /id/net/aspose.psd.coreexceptions.imageformats/tiffimageexception/optionserror/
 ---
+{{< psd/tize >}}
 ## TiffImageException.OptionsError property
 
 Mendapatkan kesalahan opsi tiff.
@@ -14,15 +15,15 @@ Mendapatkan kesalahan opsi tiff.
 public TiffOptionsError OptionsError { get; }
 ```
 
-### Nilai properti
+### Property Value
 
 Kesalahan opsi tiff.
 
-### Lihat juga
+### Lihat Juga
 
 * enum [TiffOptionsError](../../../aspose.psd.imageoptions/tiffoptionserror/)
 * class [TiffImageException](../)
-* ruang nama [Aspose.PSD.CoreExceptions.ImageFormats](../../tiffimageexception/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.CoreExceptions.ImageFormats](../../../aspose.psd.coreexceptions.imageformats/)
+* assembly [Aspose.PSD](../../../)
 
 

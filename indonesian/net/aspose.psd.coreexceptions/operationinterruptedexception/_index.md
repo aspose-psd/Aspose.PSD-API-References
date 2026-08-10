@@ -1,14 +1,15 @@
 ---
-title: Class OperationInterruptedException
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Aspose.PSD.CoreExceptions.OperationInterruptedException kelas. Terjadi saat operasi terganggu.
+title: "Kelas OperationInterruptedException"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Aspose.PSD.CoreExceptions.OperationInterruptedException kelas. Terjadi ketika sebuah operasi terinterupsi"
 type: docs
 weight: 660
 url: /id/net/aspose.psd.coreexceptions/operationinterruptedexception/
 ---
+{{< psd/tize >}}
 ## OperationInterruptedException class
 
-Terjadi saat operasi terganggu.
+Terjadi ketika operasi terputus.
 
 ```csharp
 public class OperationInterruptedException : FrameworkException
@@ -16,15 +17,15 @@ public class OperationInterruptedException : FrameworkException
 
 ## Konstruktor
 
-| Nama | Keterangan |
+| Nama | Deskripsi |
 | --- | --- |
-| [OperationInterruptedException](operationinterruptedexception/#constructor)(string) | Menginisialisasi instance baru dari`OperationInterruptedException` kelas. |
-| [OperationInterruptedException](operationinterruptedexception/#constructor_1)(string, Exception) | Menginisialisasi instance baru dari`OperationInterruptedException` kelas. |
+| [OperationInterruptedException](operationinterruptedexception/#constructor)(string) | Menginisialisasi instance baru dari kelas `OperationInterruptedException`. |
+| [OperationInterruptedException](operationinterruptedexception/#constructor_1)(string, Exception) | Menginisialisasi instance baru dari kelas `OperationInterruptedException`. |
 
-### Lihat juga
+### Lihat Juga
 
 * class [FrameworkException](../frameworkexception/)
-* ruang nama [Aspose.PSD.CoreExceptions](../../aspose.psd.coreexceptions/)
-* perakitan [Aspose.PSD](../../)
+* namespace [Aspose.PSD.CoreExceptions](../../aspose.psd.coreexceptions/)
+* assembly [Aspose.PSD](../../)
 
 

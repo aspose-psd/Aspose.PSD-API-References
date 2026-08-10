@@ -1,27 +1,28 @@
 ---
-title: ExifData.BodySerialNumber
-second_title: Aspose.PSD untuk Referensi .NET API
-description: ExifData Properti. Mendapat atau menyetel nomor seri bodi kamera.
+title: "ExifData.BodySerialNumber"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti ExifData. Mendapatkan atau mengatur nomor seri bodi kamera"
 type: docs
 weight: 30
 url: /id/net/aspose.psd.exif/exifdata/bodyserialnumber/
 ---
+{{< psd/tize >}}
 ## ExifData.BodySerialNumber property
 
-Mendapat atau menyetel nomor seri bodi kamera.
+Mendapatkan atau mengatur nomor seri bodi kamera.
 
 ```csharp
 public string BodySerialNumber { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
-Nomor seri badan.
+Nomor seri bodi.
 
-### Lihat juga
+### Lihat Juga
 
 * class [ExifData](../)
-* ruang nama [Aspose.PSD.Exif](../../exifdata/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

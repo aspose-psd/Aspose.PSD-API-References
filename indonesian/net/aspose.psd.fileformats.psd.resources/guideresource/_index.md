@@ -1,11 +1,12 @@
 ---
-title: Class GuideResource
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Aspose.PSD.FileFormats.Psd.Resources.GuideResource kelas. Blok sumber daya panduan.
+title: "Kelas GuideResource"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Aspose.PSD.FileFormats.Psd.Resources.GuideResource kelas. Blok sumber daya panduan."
 type: docs
-weight: 3750
+weight: 4220
 url: /id/net/aspose.psd.fileformats.psd.resources/guideresource/
 ---
+{{< psd/tize >}}
 ## GuideResource class
 
 Blok sumber daya panduan.
@@ -16,26 +17,26 @@ public sealed class GuideResource
 
 ## Konstruktor
 
-| Nama | Keterangan |
+| Nama | Deskripsi |
 | --- | --- |
 | [GuideResource](guideresource/)() | Konstruktor default. |
 
 ## Properti
 
-| Nama | Keterangan |
+| Nama | Deskripsi |
 | --- | --- |
-| [Direction](../../aspose.psd.fileformats.psd.resources/guideresource/direction/) { get; set; } | Mendapat atau mengatur arah panduan. |
-| [Location](../../aspose.psd.fileformats.psd.resources/guideresource/location/) { get; set; } | Mendapat atau mengatur lokasi guide dalam koordinat dokumen. |
+| [Direction](../../aspose.psd.fileformats.psd.resources/guideresource/direction/) { get; set; } | Mendapatkan atau mengatur arah panduan. |
+| [Location](../../aspose.psd.fileformats.psd.resources/guideresource/location/) { get; set; } | Mendapatkan atau mengatur lokasi panduan dalam koordinat dokumen. |
 
 ## Bidang
 
-| Nama | Keterangan |
+| Nama | Deskripsi |
 | --- | --- |
 | const [GuideResourceSize](../../aspose.psd.fileformats.psd.resources/guideresource/guideresourcesize/) | Ukuran blok sumber daya panduan. |
 
-### Lihat juga
+### Lihat Juga
 
-* ruang nama [Aspose.PSD.FileFormats.Psd.Resources](../../aspose.psd.fileformats.psd.resources/)
-* perakitan [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../)
 
 

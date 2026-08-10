@@ -1,11 +1,12 @@
 ---
-title: AsyncTask.Create
-second_title: Aspose.PSD untuk Referensi .NET API
-description: AsyncTask metode. Membuat tugas asinkron tanpa hasil apa pun.
+title: "AsyncTask.Create"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode AsyncTask. Membuat tugas asynchronous tanpa hasil apa pun."
 type: docs
 weight: 10
 url: /id/net/aspose.psd.asynctask/asynctask/create/
 ---
+{{< psd/tize >}}
 ## Create(AsyncTaskAction) {#create}
 
 Membuat tugas asinkron tanpa hasil apa pun.
@@ -14,21 +15,21 @@ Membuat tugas asinkron tanpa hasil apa pun.
 public static IAsyncTask Create(AsyncTaskAction taskAction)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
 | taskAction | AsyncTaskAction | Aksi tugas. |
 
-### Nilai Pengembalian
+### Nilai Kembalian
 
-Tugas asinkron
+Tugas asynchronous
 
-### Lihat juga
+### Lihat Juga
 
 * interface [IAsyncTask](../../iasynctask/)
 * delegate [AsyncTaskAction](../../asynctaskaction/)
 * class [AsyncTask](../)
-* ruang nama [Aspose.PSD.AsyncTask](../../asynctask/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.AsyncTask](../../../aspose.psd.asynctask/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
@@ -40,20 +41,20 @@ Membuat tugas asinkron dengan hasil tipe generik.
 public static IAsyncTask Create(AsyncTaskFunc taskFunc)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
 | taskFunc | AsyncTaskFunc | Fungsi tugas. |
 
-### Nilai Pengembalian
+### Nilai Kembalian
 
-Tugas asinkron
+Tugas asynchronous
 
-### Lihat juga
+### Lihat Juga
 
 * interface [IAsyncTask](../../iasynctask/)
 * delegate [AsyncTaskFunc](../../asynctaskfunc/)
 * class [AsyncTask](../)
-* ruang nama [Aspose.PSD.AsyncTask](../../asynctask/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.AsyncTask](../../../aspose.psd.asynctask/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,23 +1,24 @@
 ---
-title: ITextStyle.NoBreak
-second_title: Aspose.PSD untuk Referensi .NET API
-description: ITextStyle Properti. Mendapat atau menyetel nilai tanpa jeda.
+title: "ITextStyle.NoBreak"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "ITextStyle properti. Mendapatkan atau mengatur nilai tidak terputus"
 type: docs
 weight: 210
 url: /id/net/aspose.psd.fileformats.psd.layers.text/itextstyle/nobreak/
 ---
+{{< psd/tize >}}
 ## ITextStyle.NoBreak property
 
-Mendapat atau menyetel nilai tanpa jeda.
+Mendapatkan atau mengatur nilai no break.
 
 ```csharp
 public bool NoBreak { get; set; }
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * interface [ITextStyle](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.Text](../../itextstyle/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.Text](../../../aspose.psd.fileformats.psd.layers.text/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,33 +1,34 @@
 ---
-title: HueSaturationLayer.Lightness
-second_title: Aspose.PSD untuk Referensi .NET API
-description: HueSaturationLayer Properti. Mendapat atau menyetel kecerahan.
+title: "HueSaturationLayer.Lightness"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti HueSaturationLayer. Mendapatkan atau mengatur kecerahan"
 type: docs
 weight: 30
 url: /id/net/aspose.psd.fileformats.psd.layers.adjustmentlayers/huesaturationlayer/lightness/
 ---
+{{< psd/tize >}}
 ## HueSaturationLayer.Lightness property
 
-Mendapat atau menyetel kecerahan.
+Mendapatkan atau mengatur lightness.
 
 ```csharp
 public short Lightness { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
-Ringan.
+Kecerahan.
 
 ### Pengecualian
 
 | pengecualian | kondisi |
 | --- | --- |
-| ArgumentOutOfRangeException | Lightness harus dalam kisaran dari -100 hingga +100 |
+| ArgumentOutOfRangeException | Kecerahan harus berada dalam rentang -100 hingga +100 |
 
-### Lihat juga
+### Lihat Juga
 
 * class [HueSaturationLayer](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../huesaturationlayer/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/)
+* assembly [Aspose.PSD](../../../)
 
 

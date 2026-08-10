@@ -1,11 +1,12 @@
 ---
-title: AudioChannelType.Stereo
-second_title: Aspose.PSD untuk Referensi .NET API
-description: AudioChannelType Properti. Mendapatkan saluran audio stereo.
+title: "AudioChannelType.Stereo"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "AudioChannelType property. Mendapatkan saluran audio stereo"
 type: docs
 weight: 60
 url: /id/net/aspose.psd.xmp.schemas.xmpdm/audiochanneltype/stereo/
 ---
+{{< psd/tize >}}
 ## AudioChannelType.Stereo property
 
 Mendapatkan saluran audio stereo.
@@ -14,14 +15,14 @@ Mendapatkan saluran audio stereo.
 public static AudioChannelType Stereo { get; }
 ```
 
-### Nilai properti
+### Property Value
 
 Saluran audio stereo.
 
-### Lihat juga
+### Lihat Juga
 
 * class [AudioChannelType](../)
-* ruang nama [Aspose.PSD.Xmp.Schemas.XmpDm](../../audiochanneltype/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpDm](../../../aspose.psd.xmp.schemas.xmpdm/)
+* assembly [Aspose.PSD](../../../)
 
 

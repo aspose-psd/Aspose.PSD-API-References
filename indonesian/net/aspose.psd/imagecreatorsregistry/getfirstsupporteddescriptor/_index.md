@@ -1,37 +1,38 @@
 ---
-title: ImageCreatorsRegistry.GetFirstSupportedDescriptor
-second_title: Aspose.PSD untuk Referensi .NET API
-description: ImageCreatorsRegistry metode. Mendapat peninju yang ditemukan deskriptor yang didukung cocok untuk yang ditentukan.
+title: "ImageCreatorsRegistry.GetFirstSupportedDescriptor"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode ImageCreatorsRegistry. Mendapatkan deskriptor pertama yang ditemukan yang didukung dan cocok untuk yang ditentukan"
 type: docs
 weight: 40
 url: /id/net/aspose.psd/imagecreatorsregistry/getfirstsupporteddescriptor/
 ---
+{{< psd/tize >}}
 ## ImageCreatorsRegistry.GetFirstSupportedDescriptor method
 
-Mendapat peninju yang ditemukan deskriptor yang didukung cocok untuk yang ditentukan.
+Mendapatkan deskriptor dukungan pertama yang ditemukan yang cocok untuk yang ditentukan.
 
 ```csharp
 public static IImageCreatorDescriptor GetFirstSupportedDescriptor(ImageOptionsBase imageOptions)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| imageOptions | ImageOptionsBase | Pilihan gambar. |
+| imageOptions | ImageOptionsBase | Opsi gambar. |
 
-### Nilai Pengembalian
+### Nilai Kembalian
 
-Deskriptor pembuat yang mendukung yang ditentukan atau null jika tidak ditemukan deskriptor tersebut.
+Deskriptor pembuat yang mendukung yang ditentukan atau null jika tidak ada deskriptor seperti itu ditemukan.
 
-### Perkataan
+## Catatan
 
-Deskriptor kreator pertama sebenarnya adalah yang terakhir didaftarkan.
+Deskriptor pembuat pertama sebenarnya akan menjadi yang terakhir terdaftar.
 
-### Lihat juga
+### Lihat Juga
 
 * interface [IImageCreatorDescriptor](../../iimagecreatordescriptor/)
 * class [ImageOptionsBase](../../imageoptionsbase/)
 * class [ImageCreatorsRegistry](../)
-* ruang nama [Aspose.PSD](../../imagecreatorsregistry/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

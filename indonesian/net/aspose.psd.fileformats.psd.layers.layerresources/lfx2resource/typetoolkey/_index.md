@@ -1,23 +1,24 @@
 ---
-title: Lfx2Resource.TypeToolKey
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Lfx2Resource bidang. Kunci info alat ketik.
+title: "Lfx2Resource.TypeToolKey"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Lfx2Resource field. Kunci info alat tipe"
 type: docs
-weight: 80
+weight: 20
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources/lfx2resource/typetoolkey/
 ---
+{{< psd/tize >}}
 ## Lfx2Resource.TypeToolKey field
 
-Kunci info alat ketik.
+Kunci info alat tipe.
 
 ```csharp
 public const int TypeToolKey;
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [Lfx2Resource](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../lfx2resource/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

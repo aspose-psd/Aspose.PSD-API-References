@@ -1,23 +1,24 @@
 ---
-title: MlstResource.Key
-second_title: Aspose.PSD untuk Referensi .NET API
-description: MlstResource Properti. Mendapat kunci sumber daya lapisan.
+title: "MlstResource.Key"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "MlstResource properti. Mendapatkan kunci sumber lapisan"
 type: docs
 weight: 40
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources/mlstresource/key/
 ---
+{{< psd/tize >}}
 ## MlstResource.Key property
 
-Mendapat kunci sumber daya lapisan.
+Mendapatkan kunci sumber daya lapisan.
 
 ```csharp
 public override int Key { get; }
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [MlstResource](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../mlstresource/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

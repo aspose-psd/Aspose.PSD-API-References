@@ -1,14 +1,15 @@
 ---
-title: Class FileOpenSource
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Aspose.PSD.Sources.FileOpenSource kelas. Merupakan sumber file untuk dibuka.
+title: "Kelas FileOpenSource"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Kelas Aspose.PSD.Sources.FileOpenSource. Mewakili sumber file untuk membuka"
 type: docs
-weight: 5600
+weight: 6100
 url: /id/net/aspose.psd.sources/fileopensource/
 ---
+{{< psd/tize >}}
 ## FileOpenSource class
 
-Merupakan sumber file untuk dibuka.
+Mewakili sumber file untuk membuka.
 
 ```csharp
 public sealed class FileOpenSource : FileSource
@@ -16,27 +17,27 @@ public sealed class FileOpenSource : FileSource
 
 ## Konstruktor
 
-| Nama | Keterangan |
+| Nama | Deskripsi |
 | --- | --- |
-| [FileOpenSource](fileopensource/)(string) | Menginisialisasi instance baru dari`FileOpenSource` kelas. |
+| [FileOpenSource](fileopensource/)(string) | Menginisialisasi instance baru dari kelas `FileOpenSource`. |
 
 ## Properti
 
-| Nama | Keterangan |
+| Nama | Deskripsi |
 | --- | --- |
-| [FilePath](../../aspose.psd.sources/fileopensource/filepath/) { get; } | Mendapat jalur file untuk dibuka. |
-| override [IsTemporal](../../aspose.psd.sources/fileopensource/istemporal/) { get; } | Mendapat nilai yang menunjukkan apakah file akan temporal. |
+| [FilePath](../../aspose.psd.sources/fileopensource/filepath/) { get; } | Mendapatkan jalur file untuk dibuka. |
+| override [IsTemporal](../../aspose.psd.sources/fileopensource/istemporal/) { get; } | Mendapatkan nilai yang menunjukkan apakah file akan bersifat temporer. |
 
 ## Metode
 
-| Nama | Keterangan |
+| Nama | Deskripsi |
 | --- | --- |
-| override [GetStreamContainer](../../aspose.psd.sources/fileopensource/getstreamcontainer/)() | Mendapatkan wadah aliran. |
+| override [GetStreamContainer](../../aspose.psd.sources/fileopensource/getstreamcontainer/)() | Mendapatkan kontainer aliran. |
 
-### Lihat juga
+### Lihat Juga
 
 * class [FileSource](../filesource/)
-* ruang nama [Aspose.PSD.Sources](../../aspose.psd.sources/)
-* perakitan [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Sources](../../aspose.psd.sources/)
+* assembly [Aspose.PSD](../../)
 
 

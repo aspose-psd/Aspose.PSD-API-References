@@ -1,14 +1,15 @@
 ---
-title: AiImage.CacheData
-second_title: Aspose.PSD untuk Referensi .NET API
-description: AiImage metode. Mengcache data dan memastikan tidak ada pemuatan data tambahan yang dilakukan dari dasarnyaDataStreamContainer .
+title: "AiImage.CacheData"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode AiImage. Menyimpan data dalam cache dan memastikan tidak ada pemuatan data tambahan yang akan dilakukan dari DataStreamContainer yang mendasari"
 type: docs
-weight: 140
+weight: 170
 url: /id/net/aspose.psd.fileformats.ai/aiimage/cachedata/
 ---
+{{< psd/tize >}}
 ## AiImage.CacheData method
 
-Meng-cache data dan memastikan tidak ada pemuatan data tambahan yang dilakukan dari dasarnya[`DataStreamContainer`](../../../aspose.psd/datastreamsupporter/datastreamcontainer/) .
+Menyimpan data dalam cache dan memastikan tidak ada pemuatan data tambahan yang akan dilakukan dari [`DataStreamContainer`](../../../aspose.psd/datastreamsupporter/datastreamcontainer/).
 
 ```csharp
 public override void CacheData()
@@ -20,10 +21,10 @@ public override void CacheData()
 | --- | --- |
 | NotImplementedException | Tidak Diimplementasikan |
 
-### Lihat juga
+### Lihat Juga
 
 * class [AiImage](../)
-* ruang nama [Aspose.PSD.FileFormats.Ai](../../aiimage/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

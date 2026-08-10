@@ -1,27 +1,28 @@
 ---
-title: PhotoshopPackage.SetSupplementalCategories
-second_title: Aspose.PSD untuk Referensi .NET API
-description: PhotoshopPackage metode. Menetapkan kategori tambahan.
+title: "PhotoshopPackage.SetSupplementalCategories"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode PhotoshopPackage. Mengatur kategori tambahan"
 type: docs
 weight: 180
 url: /id/net/aspose.psd.xmp.schemas.photoshop/photoshoppackage/setsupplementalcategories/
 ---
+{{< psd/tize >}}
 ## PhotoshopPackage.SetSupplementalCategories method
 
-Menetapkan kategori tambahan.
+Mengatur kategori tambahan.
 
 ```csharp
 public void SetSupplementalCategories(string[] supplementalCategories)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
 | supplementalCategories | String[] | Kategori tambahan. |
 
-### Lihat juga
+### Lihat Juga
 
 * class [PhotoshopPackage](../)
-* ruang nama [Aspose.PSD.Xmp.Schemas.Photoshop](../../photoshoppackage/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.Photoshop](../../../aspose.psd.xmp.schemas.photoshop/)
+* assembly [Aspose.PSD](../../../)
 
 

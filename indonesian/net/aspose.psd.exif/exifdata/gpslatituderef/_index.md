@@ -1,27 +1,28 @@
 ---
-title: ExifData.GPSLatitudeRef
-second_title: Aspose.PSD untuk Referensi .NET API
-description: ExifData Properti. Mendapat atau mengatur lintang GPS adalah lintang utara atau selatan.
+title: "ExifData.GPSLatitudeRef"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti ExifData. Mendapatkan atau mengatur latitude GPS apakah utara atau selatan"
 type: docs
 weight: 530
 url: /id/net/aspose.psd.exif/exifdata/gpslatituderef/
 ---
+{{< psd/tize >}}
 ## ExifData.GPSLatitudeRef property
 
-Mendapat atau mengatur lintang GPS adalah lintang utara atau selatan.
+Mendapatkan atau mengatur apakah lintang GPS adalah lintang utara atau selatan.
 
 ```csharp
 public string GPSLatitudeRef { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
-Lintang GPS adalah lintang utara atau selatan.
+Latitude GPS adalah latitude utara atau selatan.
 
-### Lihat juga
+### Lihat Juga
 
 * class [ExifData](../)
-* ruang nama [Aspose.PSD.Exif](../../exifdata/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

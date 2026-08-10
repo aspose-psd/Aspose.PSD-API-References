@@ -1,27 +1,28 @@
 ---
-title: KnkoResource.Knockout
-second_title: Aspose.PSD untuk Referensi .NET API
-description: KnkoResource Properti. Mendapat atau menetapkan nilai yang menunjukkan apakah menyatukan elemen interior.
+title: "KnkoResource.Knockout"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti KnkoResource. Mendapatkan atau mengatur nilai yang menunjukkan apakah mencampur elemen interior"
 type: docs
-weight: 30
+weight: 20
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources/knkoresource/knockout/
 ---
+{{< psd/tize >}}
 ## KnkoResource.Knockout property
 
-Mendapat atau menetapkan nilai yang menunjukkan apakah [menyatukan elemen interior].
+Mendapatkan atau mengatur nilai yang menunjukkan apakah [blend interior elements].
 
 ```csharp
 public bool Knockout { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
-`BENAR` if [memadukan elemen interior]; jika tidak,`PALSU` .
+`true` jika [blend interior elements]; selainnya, `false`.
 
-### Lihat juga
+### Lihat Juga
 
 * class [KnkoResource](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../knkoresource/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

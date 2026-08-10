@@ -1,32 +1,33 @@
 ---
-title: FileFormatExtensions.IsSingleFormatDefined
-second_title: Aspose.PSD untuk Referensi .NET API
-description: FileFormatExtensions metode. Menentukan apakah format file tunggal ditentukan.
+title: "FileFormatExtensions.IsSingleFormatDefined"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode FileFormatExtensions. Menentukan apakah format file tunggal didefinisikan"
 type: docs
 weight: 10
 url: /id/net/aspose.psd.extensions/fileformatextensions/issingleformatdefined/
 ---
+{{< psd/tize >}}
 ## FileFormatExtensions.IsSingleFormatDefined method
 
-Menentukan apakah format file tunggal ditentukan.
+Menentukan apakah format file tunggal telah didefinisikan.
 
 ```csharp
 public static bool IsSingleFormatDefined(FileFormat fileFormat)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
 | fileFormat | FileFormat | Format file yang akan diperiksa. |
 
-### Nilai Pengembalian
+### Nilai Kembalian
 
-`BENAR` jika format file tunggal ditentukan; jika tidak,`PALSU` .
+`True` jika format file tunggal didefinisikan; sebaliknya, `false`.
 
-### Lihat juga
+### Lihat Juga
 
 * enum [FileFormat](../../../aspose.psd/fileformat/)
 * class [FileFormatExtensions](../)
-* ruang nama [Aspose.PSD.Extensions](../../fileformatextensions/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Extensions](../../../aspose.psd.extensions/)
+* assembly [Aspose.PSD](../../../)
 
 

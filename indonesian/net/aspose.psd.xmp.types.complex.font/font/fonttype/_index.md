@@ -1,31 +1,32 @@
 ---
-title: Font.FontType
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Font Properti. Mendapat atau menyetel jenis font.
+title: "Font.FontType"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Font properti. Mendapatkan atau mengatur tipe font"
 type: docs
 weight: 70
 url: /id/net/aspose.psd.xmp.types.complex.font/font/fonttype/
 ---
+{{< psd/tize >}}
 ## Font.FontType property
 
-Mendapat atau menyetel jenis font.
+Mendapatkan atau mengatur jenis font.
 
 ```csharp
 public string FontType { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
-Jenis font.
+Tipe font.
 
-### Contoh
+## Contoh
 
-TrueType, Tipe 1, Tipe Terbuka, dan seterusnya.
+TrueType, Type 1, Open Type, dan sebagainya.
 
-### Lihat juga
+### Lihat Juga
 
 * class [Font](../)
-* ruang nama [Aspose.PSD.Xmp.Types.Complex.Font](../../font/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.Font](../../../aspose.psd.xmp.types.complex.font/)
+* assembly [Aspose.PSD](../../../)
 
 

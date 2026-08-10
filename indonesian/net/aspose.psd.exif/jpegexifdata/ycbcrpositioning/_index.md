@@ -1,28 +1,29 @@
 ---
-title: JpegExifData.YCbCrPositioning
-second_title: Aspose.PSD untuk Referensi .NET API
-description: JpegExifData Properti. Mendapat atau mengatur posisi komponen chrominance dalam kaitannya dengan komponen luminance.
+title: "JpegExifData.YCbCrPositioning"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti JpegExifData. Mendapatkan atau mengatur posisi komponen krominansi relatif terhadap komponen luminansi"
 type: docs
 weight: 240
 url: /id/net/aspose.psd.exif/jpegexifdata/ycbcrpositioning/
 ---
+{{< psd/tize >}}
 ## JpegExifData.YCbCrPositioning property
 
-Mendapat atau mengatur posisi komponen chrominance dalam kaitannya dengan komponen luminance.
+Mendapatkan atau mengatur posisi komponen krominansi relatif terhadap komponen luminansi.
 
 ```csharp
 public ExifYCbCrPositioning YCbCrPositioning { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
-Posisi komponen chrominance dalam kaitannya dengan komponen luminance.
+Posisi komponen krominansi relatif terhadap komponen luminansi.
 
-### Lihat juga
+### Lihat Juga
 
 * enum [ExifYCbCrPositioning](../../../aspose.psd.exif.enums/exifycbcrpositioning/)
 * class [JpegExifData](../)
-* ruang nama [Aspose.PSD.Exif](../../jpegexifdata/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

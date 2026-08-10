@@ -1,28 +1,29 @@
 ---
-title: LinearGradientBrush.StartColor
-second_title: Aspose.PSD untuk Referensi .NET API
-description: LinearGradientBrush Properti. Mendapat atau menyetel warna gradien awal.
+title: "LinearGradientBrush.StartColor"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "LinearGradientBrush properti. Mendapatkan atau mengatur warna gradien awal"
 type: docs
-weight: 40
+weight: 60
 url: /id/net/aspose.psd.brushes/lineargradientbrush/startcolor/
 ---
+{{< psd/tize >}}
 ## LinearGradientBrush.StartColor property
 
-Mendapat atau menyetel warna gradien awal.
+Mendapatkan atau mengatur warna awal gradien.
 
 ```csharp
 public Color StartColor { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
 Warna gradien awal.
 
-### Lihat juga
+### Lihat Juga
 
 * struct [Color](../../../aspose.psd/color/)
 * class [LinearGradientBrush](../)
-* ruang nama [Aspose.PSD.Brushes](../../lineargradientbrush/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
+* assembly [Aspose.PSD](../../../)
 
 

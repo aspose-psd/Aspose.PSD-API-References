@@ -1,28 +1,29 @@
 ---
-title: Image.Bounds
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Image Properti. Mendapat batas gambar.
+title: "Image.Bounds"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti Image. Mendapatkan batas gambar"
 type: docs
 weight: 60
 url: /id/net/aspose.psd/image/bounds/
 ---
+{{< psd/tize >}}
 ## Image.Bounds property
 
-Mendapat batas gambar.
+Mendapatkan batas gambar.
 
 ```csharp
 public Rectangle Bounds { get; }
 ```
 
-### Nilai properti
+### Property Value
 
 Batas gambar.
 
-### Lihat juga
+### Lihat Juga
 
 * struct [Rectangle](../../rectangle/)
 * class [Image](../)
-* ruang nama [Aspose.PSD](../../image/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

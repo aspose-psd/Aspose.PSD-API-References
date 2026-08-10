@@ -1,27 +1,28 @@
 ---
-title: ObjectArrayStructure.StructureCount
-second_title: Aspose.PSD untuk Referensi .NET API
-description: ObjectArrayStructure Properti. Mendapat hitungan substruktur larik objek.
+title: "ObjectArrayStructure.StructureCount"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "ObjectArrayStructure properti. Mendapatkan jumlah substruktur array objek"
 type: docs
 weight: 60
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/objectarraystructure/structurecount/
 ---
+{{< psd/tize >}}
 ## ObjectArrayStructure.StructureCount property
 
-Mendapat hitungan substruktur larik objek.
+Mendapatkan jumlah substruktur array objek.
 
 ```csharp
 public int StructureCount { get; }
 ```
 
-### Nilai properti
+### Property Value
 
-Jumlah substruktur dalam struktur larik objek.
+Jumlah substruktur dalam struktur array objek.
 
-### Lihat juga
+### Lihat Juga
 
 * class [ObjectArrayStructure](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../objectarraystructure/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 

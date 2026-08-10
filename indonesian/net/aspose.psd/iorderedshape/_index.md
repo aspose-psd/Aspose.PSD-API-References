@@ -1,14 +1,15 @@
 ---
-title: Interface IOrderedShape
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Aspose.PSD.IOrderedShape antarmuka. Merupakan bentuk yang dipesan. Bentuk terurut adalah kumpulan titik kontinu yang memiliki titik awal dan titik akhir. Kumpulan titik kontinu yang terhubung menggunakan aturan tertentu.
+title: "Antarmuka IOrderedShape"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Antarmuka Aspose.PSD.IOrderedShape. Mewakili sebuah bentuk terurut. Sebuah bentuk terurut adalah sekumpulan titik kontinu yang memiliki titik awal dan titik akhir. Sekumpulan titik kontinu tersebut terhubung menggunakan aturan tertentu."
 type: docs
-weight: 4500
+weight: 4970
 url: /id/net/aspose.psd/iorderedshape/
 ---
+{{< psd/tize >}}
 ## IOrderedShape interface
 
-Merupakan bentuk yang dipesan. Bentuk terurut adalah kumpulan titik kontinu yang memiliki titik awal dan titik akhir. Kumpulan titik kontinu yang terhubung menggunakan aturan tertentu.
+Mewakili bentuk berurutan. Bentuk berurutan adalah sekumpulan titik kontinu yang memiliki titik awal dan titik akhir. Sekumpulan titik kontinu tersebut terhubung menggunakan aturan tertentu.
 
 ```csharp
 public interface IOrderedShape
@@ -16,21 +17,21 @@ public interface IOrderedShape
 
 ## Properti
 
-| Nama | Keterangan |
+| Nama | Deskripsi |
 | --- | --- |
-| [EndPoint](../../aspose.psd/iorderedshape/endpoint/) { get; } | Mendapatkan titik bentuk akhir. |
-| [IsClosed](../../aspose.psd/iorderedshape/isclosed/) { get; set; } | Mendapat atau menetapkan nilai yang menunjukkan apakah bentuk yang dipesan ditutup. Saat memproses bentuk pesanan tertutup, titik awal dan akhir tidak memiliki arti. |
-| [StartPoint](../../aspose.psd/iorderedshape/startpoint/) { get; } | Mendapatkan titik bentuk awal. |
+| [EndPoint](../../aspose.psd/iorderedshape/endpoint/) { get; } | Mendapatkan titik akhir bentuk. |
+| [IsClosed](../../aspose.psd/iorderedshape/isclosed/) { get; set; } | Mendapatkan atau mengatur nilai yang menunjukkan apakah bentuk terurut ditutup. Saat memproses bentuk terurut yang ditutup, titik awal dan akhir tidak memiliki arti. |
+| [StartPoint](../../aspose.psd/iorderedshape/startpoint/) { get; } | Mendapatkan titik awal bentuk. |
 
 ## Metode
 
-| Nama | Keterangan |
+| Nama | Deskripsi |
 | --- | --- |
-| [Reverse](../../aspose.psd/iorderedshape/reverse/)() | Membalik urutan poin untuk bentuk ini. |
+| [Reverse](../../aspose.psd/iorderedshape/reverse/)() | Membalik urutan titik untuk bentuk ini. |
 
-### Lihat juga
+### Lihat Juga
 
-* ruang nama [Aspose.PSD](../../aspose.psd/)
-* perakitan [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

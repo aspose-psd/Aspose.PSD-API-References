@@ -1,43 +1,44 @@
 ---
-title: Font.Font
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Font konstruktor. Menginisialisasi instance baru dariFont kelas.
+title: "Font.Font"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Konstruktor Font. Menginisialisasi instance baru dari kelas Font"
 type: docs
 weight: 10
 url: /id/net/aspose.psd.xmp.types.complex.font/font/font/
 ---
+{{< psd/tize >}}
 ## Font() {#constructor}
 
-Menginisialisasi instance baru dari[`Font`](../) kelas.
+Menginisialisasi instance baru dari kelas [`Font`](../).
 
 ```csharp
 public Font()
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [Font](../)
-* ruang nama [Aspose.PSD.Xmp.Types.Complex.Font](../../font/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.Font](../../../aspose.psd.xmp.types.complex.font/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Font(string) {#constructor_1}
 
-Menginisialisasi instance baru dari[`Font`](../) kelas.
+Menginisialisasi instance baru dari kelas [`Font`](../).
 
 ```csharp
 public Font(string fontFamily)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| fontFamily | String | keluarga font. |
+| fontFamily | String | Keluarga font. |
 
-### Lihat juga
+### Lihat Juga
 
 * class [Font](../)
-* ruang nama [Aspose.PSD.Xmp.Types.Complex.Font](../../font/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.Font](../../../aspose.psd.xmp.types.complex.font/)
+* assembly [Aspose.PSD](../../../)
 
 

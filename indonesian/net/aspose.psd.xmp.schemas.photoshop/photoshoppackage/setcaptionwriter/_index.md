@@ -1,27 +1,28 @@
 ---
-title: PhotoshopPackage.SetCaptionWriter
-second_title: Aspose.PSD untuk Referensi .NET API
-description: PhotoshopPackage metode. Mengatur penulis teks.
+title: "PhotoshopPackage.SetCaptionWriter"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "PhotoshopPackage metode. Mengatur penulis keterangan"
 type: docs
 weight: 40
 url: /id/net/aspose.psd.xmp.schemas.photoshop/photoshoppackage/setcaptionwriter/
 ---
+{{< psd/tize >}}
 ## PhotoshopPackage.SetCaptionWriter method
 
-Mengatur penulis teks.
+Mengatur penulis keterangan.
 
 ```csharp
 public void SetCaptionWriter(string captionWriter)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| captionWriter | String | Penulis caption. |
+| captionWriter | String | Penulis keterangan. |
 
-### Lihat juga
+### Lihat Juga
 
 * class [PhotoshopPackage](../)
-* ruang nama [Aspose.PSD.Xmp.Schemas.Photoshop](../../photoshoppackage/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.Photoshop](../../../aspose.psd.xmp.schemas.photoshop/)
+* assembly [Aspose.PSD](../../../)
 
 

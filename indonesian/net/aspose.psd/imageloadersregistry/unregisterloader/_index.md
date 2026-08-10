@@ -1,28 +1,29 @@
 ---
-title: ImageLoadersRegistry.UnregisterLoader
-second_title: Aspose.PSD untuk Referensi .NET API
-description: ImageLoadersRegistry metode. Membatalkan pendaftaran loader.
+title: "ImageLoadersRegistry.UnregisterLoader"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode ImageLoadersRegistry. Membatalkan pendaftaran pemuat"
 type: docs
 weight: 90
 url: /id/net/aspose.psd/imageloadersregistry/unregisterloader/
 ---
+{{< psd/tize >}}
 ## ImageLoadersRegistry.UnregisterLoader method
 
-Membatalkan pendaftaran loader.
+Membatalkan pendaftaran pemuat.
 
 ```csharp
 public static void UnregisterLoader(IImageLoaderDescriptor loaderDescriptor)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| loaderDescriptor | IImageLoaderDescriptor | Deskriptor loader untuk membatalkan pendaftaran. |
+| loaderDescriptor | IImageLoaderDescriptor | Deskriptor pemuat yang akan dibatalkan pendaftarannya. |
 
-### Lihat juga
+### Lihat Juga
 
 * interface [IImageLoaderDescriptor](../../iimageloaderdescriptor/)
 * class [ImageLoadersRegistry](../)
-* ruang nama [Aspose.PSD](../../imageloadersregistry/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

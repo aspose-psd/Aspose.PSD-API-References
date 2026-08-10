@@ -1,23 +1,24 @@
 ---
-title: JpegOptions.Quality
-second_title: Aspose.PSD untuk Referensi .NET API
-description: JpegOptions Properti. Mendapat atau menyetel kualitas gambar.
+title: "JpegOptions.Quality"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "JpegOptions properti. Mendapatkan atau mengatur kualitas gambar"
 type: docs
-weight: 140
+weight: 150
 url: /id/net/aspose.psd.imageoptions/jpegoptions/quality/
 ---
+{{< psd/tize >}}
 ## JpegOptions.Quality property
 
-Mendapat atau menyetel kualitas gambar.
+Mendapatkan atau mengatur kualitas gambar.
 
 ```csharp
 public int Quality { get; set; }
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [JpegOptions](../)
-* ruang nama [Aspose.PSD.ImageOptions](../../jpegoptions/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

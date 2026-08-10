@@ -1,14 +1,15 @@
 ---
-title: Enum ExifSaturation
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Aspose.PSD.Exif.Enums.ExifSaturation enum. enum saturasi exif.
+title: "Enum ExifSaturation"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Aspose.PSD.Exif.Enums.ExifSaturation enum. saturasi exif enum"
 type: docs
-weight: 920
+weight: 930
 url: /id/net/aspose.psd.exif.enums/exifsaturation/
 ---
+{{< psd/tize >}}
 ## ExifSaturation enumeration
 
-enum saturasi exif.
+enumerasi saturasi exif.
 
 ```csharp
 public enum ExifSaturation
@@ -16,15 +17,15 @@ public enum ExifSaturation
 
 ### Nilai
 
-| Nama | Nilai | Keterangan |
+| Nama | Nilai | Deskripsi |
 | --- | --- | --- |
 | Normal | `0` | Saturasi normal. |
 | Low | `1` | Saturasi rendah. |
 | High | `2` | Saturasi tinggi. |
 
-### Lihat juga
+### Lihat Juga
 
-* ruang nama [Aspose.PSD.Exif.Enums](../../aspose.psd.exif.enums/)
-* perakitan [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Exif.Enums](../../aspose.psd.exif.enums/)
+* assembly [Aspose.PSD](../../)
 
 

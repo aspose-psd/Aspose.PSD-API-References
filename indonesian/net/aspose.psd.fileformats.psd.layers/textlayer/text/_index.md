@@ -1,27 +1,28 @@
 ---
-title: TextLayer.Text
-second_title: Aspose.PSD untuk Referensi .NET API
-description: TextLayer Properti. Mendapat teks.
+title: "TextLayer.Text"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti TextLayer. Mendapatkan teks"
 type: docs
 weight: 30
 url: /id/net/aspose.psd.fileformats.psd.layers/textlayer/text/
 ---
+{{< psd/tize >}}
 ## TextLayer.Text property
 
-Mendapat teks.
+Mendapatkan teks.
 
 ```csharp
 public string Text { get; }
 ```
 
-### Nilai properti
+### Property Value
 
 Teks.
 
-### Lihat juga
+### Lihat Juga
 
 * class [TextLayer](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers](../../textlayer/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,28 +1,29 @@
 ---
-title: OSTypeStructure.KeyName
-second_title: Aspose.PSD untuk Referensi .NET API
-description: OSTypeStructure Properti. Mendapat atau menyetel nama kunci.
+title: "OSTypeStructure.KeyName"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "OSTypeStructure properti. Mendapatkan atau mengatur nama kunci"
 type: docs
 weight: 30
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/keyname/
 ---
+{{< psd/tize >}}
 ## OSTypeStructure.KeyName property
 
-Mendapat atau menyetel nama kunci.
+Mendapatkan atau mengatur nama kunci.
 
 ```csharp
 public ClassID KeyName { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
 Nama kunci.
 
-### Lihat juga
+### Lihat Juga
 
 * class [ClassID](../../classid/)
 * class [OSTypeStructure](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../ostypestructure/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

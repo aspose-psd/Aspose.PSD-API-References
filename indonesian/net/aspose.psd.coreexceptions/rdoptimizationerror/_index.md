@@ -1,14 +1,15 @@
 ---
-title: Class RdOptimizationError
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Aspose.PSD.CoreExceptions.RdOptimizationError kelas. kelas pengecualian kesalahan pengoptimalan RD
+title: "Kelas RdOptimizationError"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Aspose.PSD.CoreExceptions.RdOptimizationError kelas. Kelas pengecualian kesalahan optimasi RD"
 type: docs
 weight: 670
 url: /id/net/aspose.psd.coreexceptions/rdoptimizationerror/
 ---
+{{< psd/tize >}}
 ## RdOptimizationError class
 
-kelas pengecualian kesalahan pengoptimalan RD
+Kelas pengecualian kesalahan optimasi RD
 
 ```csharp
 public class RdOptimizationError : Exception
@@ -16,13 +17,13 @@ public class RdOptimizationError : Exception
 
 ## Konstruktor
 
-| Nama | Keterangan |
+| Nama | Deskripsi |
 | --- | --- |
-| [RdOptimizationError](rdoptimizationerror/)(string) | Menginisialisasi instance baru dari`RdOptimizationError` kelas. |
+| [RdOptimizationError](rdoptimizationerror/)(string) | Menginisialisasi instance baru dari kelas `RdOptimizationError`. |
 
-### Lihat juga
+### Lihat Juga
 
-* ruang nama [Aspose.PSD.CoreExceptions](../../aspose.psd.coreexceptions/)
-* perakitan [Aspose.PSD](../../)
+* namespace [Aspose.PSD.CoreExceptions](../../aspose.psd.coreexceptions/)
+* assembly [Aspose.PSD](../../)
 
 

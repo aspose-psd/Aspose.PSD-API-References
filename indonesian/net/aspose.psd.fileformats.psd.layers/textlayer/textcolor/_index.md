@@ -1,20 +1,21 @@
 ---
-title: TextLayer.TextColor
-second_title: Aspose.PSD untuk Referensi .NET API
-description: TextLayer Properti. Mendapat warna teks.
+title: "TextLayer.TextColor"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti TextLayer. Mengambil warna teks"
 type: docs
 weight: 50
 url: /id/net/aspose.psd.fileformats.psd.layers/textlayer/textcolor/
 ---
+{{< psd/tize >}}
 ## TextLayer.TextColor property
 
-Mendapat warna teks.
+Mendapatkan warna teks.
 
 ```csharp
 public Color TextColor { get; }
 ```
 
-### Nilai properti
+### Property Value
 
 Warna teks.
 
@@ -22,13 +23,13 @@ Warna teks.
 
 | pengecualian | kondisi |
 | --- | --- |
-| [PsdImageException](../../../aspose.psd.coreexceptions.imageformats/psdimageexception/) | Kesalahan mengurai data komponen warna |
+| [PsdImageException](../../../aspose.psd.coreexceptions.imageformats/psdimageexception/) | Kesalahan saat mengurai data komponen warna |
 
-### Lihat juga
+### Lihat Juga
 
 * struct [Color](../../../aspose.psd/color/)
 * class [TextLayer](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers](../../textlayer/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

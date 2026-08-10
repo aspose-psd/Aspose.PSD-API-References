@@ -1,22 +1,23 @@
 ---
-title: ITextStyle.DiscretionaryLigatures
-second_title: Aspose.PSD untuk Referensi .NET API
-description: ITextStyle Properti. Pengikat diskresi yang digunakan untuk menghubungkan huruf terutama pada font skrip.
+title: "ITextStyle.DiscretionaryLigatures"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti ITextStyle. Ligatur diskresi yang digunakan untuk menghubungkan huruf terutama dalam font skrip"
 type: docs
 weight: 50
 url: /id/net/aspose.psd.fileformats.psd.layers.text/itextstyle/discretionaryligatures/
 ---
+{{< psd/tize >}}
 ## ITextStyle.DiscretionaryLigatures property
 
-Pengikat diskresi yang digunakan untuk menghubungkan huruf, terutama pada font skrip.
+Ligatur diskresioner yang digunakan untuk menghubungkan huruf, terutama dalam font skrip.
 
 ```csharp
 public bool DiscretionaryLigatures { get; set; }
 ```
 
-### Contoh
+## Contoh
 
-Kode berikut menunjukkan dukungan dari dukungan properti ITextStyle baru.
+Kode berikut menunjukkan dukungan terhadap properti ITextStyle baru.
 
 ```csharp
 [C#]
@@ -68,10 +69,10 @@ using (var srcImage = (PsdImage)Image.Load(srcFile))
 }
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * interface [ITextStyle](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.Text](../../itextstyle/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.Text](../../../aspose.psd.fileformats.psd.layers.text/)
+* assembly [Aspose.PSD](../../../)
 
 

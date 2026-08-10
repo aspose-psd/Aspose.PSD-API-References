@@ -1,27 +1,28 @@
 ---
-title: Rectangle.Right
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Rectangle Properti. Mendapat atau menetapkan koordinat x yang merupakan jumlah dariX DanWidth nilai properti iniRectanglestruktur.
+title: "Rectangle.Right"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti Rectangle. Mendapatkan atau mengatur koordinat-x yang merupakan hasil penjumlahan nilai properti X dan Width dari struktur Rectangle ini."
 type: docs
 weight: 160
 url: /id/net/aspose.psd/rectangle/right/
 ---
+{{< psd/tize >}}
 ## Rectangle.Right property
 
-Mendapat atau menetapkan koordinat x yang merupakan jumlah dari[`X`](../x/) Dan[`Width`](../width/) nilai properti ini[`Rectangle`](../)struktur.
+Mendapatkan atau mengatur koordinat-x yang merupakan hasil penjumlahan nilai properti [`X`](../x/) dan [`Width`](../width/) dari struktur [`Rectangle`](../) ini.
 
 ```csharp
 public int Right { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
-Koordinat x yang merupakan jumlah dari[`X`](../x/) Dan[`Width`](../width/) ini[`Rectangle`](../) .
+Koordinat-x yang merupakan hasil penjumlahan [`X`](../x/) dan [`Width`](../width/) dari [`Rectangle`](../) ini.
 
-### Lihat juga
+### Lihat Juga
 
 * struct [Rectangle](../)
-* ruang nama [Aspose.PSD](../../rectangle/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: PlacedResource.Top
-second_title: Aspose.PSD untuk Referensi .NET API
-description: PlacedResource Properti. Mendapat atau menyetel lokasi teratas dari lapisan yang ditempatkan di gambar PSD.
+title: "PlacedResource.Top"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti PlacedResource. Mendapatkan atau mengatur lokasi atas dari lapisan yang ditempatkan dalam gambar PSD"
 type: docs
-weight: 150
+weight: 140
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources/placedresource/top/
 ---
+{{< psd/tize >}}
 ## PlacedResource.Top property
 
-Mendapat atau menyetel lokasi teratas dari lapisan yang ditempatkan di gambar PSD.
+Mendapatkan atau mengatur lokasi atas dari lapisan yang ditempatkan dalam gambar PSD.
 
 ```csharp
 public double Top { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
-Lokasi teratas dari lapisan yang ditempatkan.
+Lokasi atas dari lapisan yang ditempatkan.
 
-### Lihat juga
+### Lihat Juga
 
 * class [PlacedResource](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../placedresource/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

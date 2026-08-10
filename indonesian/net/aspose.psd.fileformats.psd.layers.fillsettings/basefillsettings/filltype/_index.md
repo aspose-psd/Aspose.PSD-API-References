@@ -1,28 +1,29 @@
 ---
-title: BaseFillSettings.FillType
-second_title: Aspose.PSD untuk Referensi .NET API
-description: BaseFillSettings Properti. Mendapat jenis isian.
+title: "BaseFillSettings.FillType"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti BaseFillSettings. Mendapatkan tipe pengisian"
 type: docs
 weight: 10
 url: /id/net/aspose.psd.fileformats.psd.layers.fillsettings/basefillsettings/filltype/
 ---
+{{< psd/tize >}}
 ## BaseFillSettings.FillType property
 
-Mendapat jenis isian.
+Mendapatkan tipe pengisian.
 
 ```csharp
 public abstract FillType FillType { get; }
 ```
 
-### Nilai properti
+### Property Value
 
-Jenis isian.
+Tipe pengisian.
 
-### Lihat juga
+### Lihat Juga
 
 * enum [FillType](../../filltype/)
 * class [BaseFillSettings](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../basefillsettings/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: ColorPalette.EntriesCount
-second_title: Aspose.PSD untuk Referensi .NET API
-description: ColorPalette Properti. Mendapatkan jumlah entri.
+title: "ColorPalette.EntriesCount"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti ColorPalette. Mendapatkan jumlah entri"
 type: docs
 weight: 50
 url: /id/net/aspose.psd/colorpalette/entriescount/
 ---
+{{< psd/tize >}}
 ## ColorPalette.EntriesCount property
 
 Mendapatkan jumlah entri.
@@ -14,14 +15,14 @@ Mendapatkan jumlah entri.
 public int EntriesCount { get; }
 ```
 
-### Nilai properti
+### Property Value
 
 Jumlah entri.
 
-### Lihat juga
+### Lihat Juga
 
 * class [ColorPalette](../)
-* ruang nama [Aspose.PSD](../../colorpalette/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

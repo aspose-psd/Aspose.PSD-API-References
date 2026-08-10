@@ -1,11 +1,12 @@
 ---
-title: DublinCorePackage.SetSubject
-second_title: Aspose.PSD untuk Referensi .NET API
-description: DublinCorePackage metode. Menambahkan subjek.
+title: "DublinCorePackage.SetSubject"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode DublinCorePackage. Menambahkan subjek"
 type: docs
 weight: 60
 url: /id/net/aspose.psd.xmp.schemas.dublincore/dublincorepackage/setsubject/
 ---
+{{< psd/tize >}}
 ## SetSubject(string) {#setsubject}
 
 Menambahkan subjek.
@@ -14,15 +15,15 @@ Menambahkan subjek.
 public void SetSubject(string subject)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| subject | String | Subjek. |
+| subjek | String | Subjek. |
 
-### Lihat juga
+### Lihat Juga
 
 * class [DublinCorePackage](../)
-* ruang nama [Aspose.PSD.Xmp.Schemas.DublinCore](../../dublincorepackage/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.DublinCore](../../../aspose.psd.xmp.schemas.dublincore/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
@@ -34,14 +35,14 @@ Menambahkan subjek.
 public void SetSubject(string[] subject)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| subject | String[] | Subjek. |
+| subjek | String[] | Subjek. |
 
-### Lihat juga
+### Lihat Juga
 
 * class [DublinCorePackage](../)
-* ruang nama [Aspose.PSD.Xmp.Schemas.DublinCore](../../dublincorepackage/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.DublinCore](../../../aspose.psd.xmp.schemas.dublincore/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,37 +1,38 @@
 ---
-title: IntRange.GetArrayOneItemFromIndex
-second_title: Aspose.PSD untuk Referensi .NET API
-description: IntRange metode. Mengembalikan satu larik item dari indeks yang ditentukan
+title: "IntRange.GetArrayOneItemFromIndex"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode IntRange. Mengembalikan array satu item dari indeks yang ditentukan"
 type: docs
 weight: 30
 url: /id/net/aspose.psd/intrange/getarrayoneitemfromindex/
 ---
+{{< psd/tize >}}
 ## IntRange.GetArrayOneItemFromIndex method
 
-Mengembalikan satu larik item dari indeks yang ditentukan
+Mengembalikan array satu item dari indeks yang ditentukan
 
 ```csharp
 public int[] GetArrayOneItemFromIndex(int index)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| index | Int32 | Indeks jangkauan. |
+| index | Int32 | Indeks rentang. |
 
-### Nilai Pengembalian
+### Nilai Kembalian
 
-Array dariInt32
+Array Int32
 
 ### Pengecualian
 
 | pengecualian | kondisi |
 | --- | --- |
-| ArgumentException | Indeks berada di luar jangkauan |
+| ArgumentException | Indeks berada di luar rentang |
 
-### Lihat juga
+### Lihat Juga
 
 * class [IntRange](../)
-* ruang nama [Aspose.PSD](../../intrange/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

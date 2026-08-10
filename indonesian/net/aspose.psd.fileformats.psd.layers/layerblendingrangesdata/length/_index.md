@@ -1,27 +1,28 @@
 ---
-title: LayerBlendingRangesData.Length
-second_title: Aspose.PSD untuk Referensi .NET API
-description: LayerBlendingRangesData Properti. Mendapatkan panjang data rentang campuran lapisan dalam byte.
+title: "LayerBlendingRangesData.Length"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti LayerBlendingRangesData. Mendapatkan panjang data rentang pencampuran lapisan dalam byte"
 type: docs
 weight: 40
 url: /id/net/aspose.psd.fileformats.psd.layers/layerblendingrangesdata/length/
 ---
+{{< psd/tize >}}
 ## LayerBlendingRangesData.Length property
 
-Mendapatkan panjang data rentang campuran lapisan dalam byte.
+Mendapatkan panjang data rentang pencampuran lapisan dalam byte.
 
 ```csharp
 public int Length { get; }
 ```
 
-### Nilai properti
+### Property Value
 
-Panjang data rentang pencampuran layer.
+Panjang data rentang pencampuran lapisan.
 
-### Lihat juga
+### Lihat Juga
 
 * class [LayerBlendingRangesData](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers](../../layerblendingrangesdata/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

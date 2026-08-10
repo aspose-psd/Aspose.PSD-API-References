@@ -1,14 +1,15 @@
 ---
-title: Class JpegLsPresetCodingParameters
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Aspose.PSD.FileFormats.Jpeg.JpegLsPresetCodingParameters kelas. Menentukan parameter pengkodean preset JPEGLS seperti yang didefinisikan dalam ISO/IEC 144951 C.2.4.1.1. JPEGLS menentukan kumpulan parameter default tetapi parameter khusus dapat digunakan. Saat digunakan parameter ini ditulis ke aliran bit yang disandikan karena diperlukan untuk proses decoding.
+title: "Class JpegLsPresetCodingParameters"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Aspose.PSD.FileFormats.Jpeg.JpegLsPresetCodingParameters class. Menentukan parameter pengkodean preset JPEGLS sebagaimana didefinisikan dalam ISO/IEC 144951 C.2.4.1.1. JPEGLS mendefinisikan satu set parameter default tetapi parameter khusus dapat digunakan. Ketika digunakan, parameter ini ditulis ke dalam aliran bit yang terenkode sebagaimana diperlukan untuk proses dekode."
 type: docs
-weight: 1520
+weight: 1530
 url: /id/net/aspose.psd.fileformats.jpeg/jpeglspresetcodingparameters/
 ---
+{{< psd/tize >}}
 ## JpegLsPresetCodingParameters class
 
-Menentukan parameter pengkodean preset JPEG-LS seperti yang didefinisikan dalam ISO/IEC 14495-1, C.2.4.1.1. JPEG-LS menentukan kumpulan parameter default, tetapi parameter khusus dapat digunakan. Saat digunakan, parameter ini ditulis ke aliran bit yang disandikan karena diperlukan untuk proses decoding.
+Menentukan parameter pengkodean preset JPEG-LS sebagaimana didefinisikan dalam ISO/IEC 14495-1, C.2.4.1.1. JPEG-LS mendefinisikan sekumpulan parameter default, tetapi parameter khusus dapat digunakan. Ketika digunakan, parameter ini ditulis ke dalam aliran bit yang terenkode sebagaimana diperlukan untuk proses dekoding.
 
 ```csharp
 public class JpegLsPresetCodingParameters
@@ -16,23 +17,23 @@ public class JpegLsPresetCodingParameters
 
 ## Konstruktor
 
-| Nama | Keterangan |
+| Nama | Deskripsi |
 | --- | --- |
 | [JpegLsPresetCodingParameters](jpeglspresetcodingparameters/)() | Konstruktor default. |
 
 ## Properti
 
-| Nama | Keterangan |
+| Nama | Deskripsi |
 | --- | --- |
-| [MaximumSampleValue](../../aspose.psd.fileformats.jpeg/jpeglspresetcodingparameters/maximumsamplevalue/) { get; set; } | Mendapat atau menetapkan nilai maksimum yang mungkin untuk setiap sampel gambar dalam pemindaian. Nilai ini harus lebih besar atau sama dengan nilai maksimum sebenarnya untuk komponen dalam pemindaian. |
-| [ResetValue](../../aspose.psd.fileformats.jpeg/jpeglspresetcodingparameters/resetvalue/) { get; set; } | Mendapat atau menetapkan nilai di mana penghitung A, B, dan N dibelah dua. |
-| [Threshold1](../../aspose.psd.fileformats.jpeg/jpeglspresetcodingparameters/threshold1/) { get; set; } | Mendapat atau menetapkan nilai ambang kuantisasi pertama untuk gradien lokal. |
-| [Threshold2](../../aspose.psd.fileformats.jpeg/jpeglspresetcodingparameters/threshold2/) { get; set; } | Mendapat atau menyetel nilai ambang kuantisasi kedua untuk gradien lokal. |
-| [Threshold3](../../aspose.psd.fileformats.jpeg/jpeglspresetcodingparameters/threshold3/) { get; set; } | Mendapat atau menyetel nilai ambang kuantisasi ketiga untuk gradien lokal. |
+| [MaximumSampleValue](../../aspose.psd.fileformats.jpeg/jpeglspresetcodingparameters/maximumsamplevalue/) { get; set; } | Mendapatkan atau mengatur nilai maksimum yang mungkin untuk setiap sampel gambar dalam sebuah pemindaian. Nilai ini harus lebih besar atau sama dengan nilai maksimum sebenarnya untuk komponen dalam sebuah pemindaian. |
+| [ResetValue](../../aspose.psd.fileformats.jpeg/jpeglspresetcodingparameters/resetvalue/) { get; set; } | Mendapatkan atau mengatur nilai di mana penghitung A, B, dan N dibagi dua. |
+| [Threshold1](../../aspose.psd.fileformats.jpeg/jpeglspresetcodingparameters/threshold1/) { get; set; } | Mendapatkan atau mengatur nilai ambang kuantisasi pertama untuk gradien lokal. |
+| [Threshold2](../../aspose.psd.fileformats.jpeg/jpeglspresetcodingparameters/threshold2/) { get; set; } | Mendapatkan atau mengatur nilai ambang kuantisasi kedua untuk gradien lokal. |
+| [Threshold3](../../aspose.psd.fileformats.jpeg/jpeglspresetcodingparameters/threshold3/) { get; set; } | Mendapatkan atau mengatur nilai ambang kuantisasi ketiga untuk gradien lokal. |
 
-### Lihat juga
+### Lihat Juga
 
-* ruang nama [Aspose.PSD.FileFormats.Jpeg](../../aspose.psd.fileformats.jpeg/)
-* perakitan [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Jpeg](../../aspose.psd.fileformats.jpeg/)
+* assembly [Aspose.PSD](../../)
 
 

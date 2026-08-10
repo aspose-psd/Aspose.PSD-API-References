@@ -1,27 +1,28 @@
 ---
-title: TypeToolStyleInfo.MarkValue
-second_title: Aspose.PSD untuk Referensi .NET API
-description: TypeToolStyleInfo Properti. Mendapat atau menetapkan nilai mark.
+title: "TypeToolStyleInfo.MarkValue"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti TypeToolStyleInfo. Mendapatkan atau mengatur nilai mark"
 type: docs
 weight: 70
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources/typetoolstyleinfo/markvalue/
 ---
+{{< psd/tize >}}
 ## TypeToolStyleInfo.MarkValue property
 
-Mendapat atau menetapkan nilai mark.
+Mendapatkan atau mengatur nilai tanda.
 
 ```csharp
 public short MarkValue { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
-Nilai tanda.
+Nilai mark.
 
-### Lihat juga
+### Lihat Juga
 
 * class [TypeToolStyleInfo](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../typetoolstyleinfo/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: RectangleF.Top
-second_title: Aspose.PSD untuk Referensi .NET API
-description: RectangleF Properti. Mendapat atau menetapkan koordinat y dari tepi atas iniRectangleFstruktur.
+title: "RectangleF.Top"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "RectangleF properti. Mendapatkan atau mengatur koordinat-y dari tepi atas struktur RectangleF ini"
 type: docs
 weight: 150
 url: /id/net/aspose.psd/rectanglef/top/
 ---
+{{< psd/tize >}}
 ## RectangleF.Top property
 
-Mendapat atau menetapkan koordinat y dari tepi atas ini[`RectangleF`](../)struktur.
+Mendapatkan atau mengatur koordinat-y dari tepi atas struktur [`RectangleF`](../) ini.
 
 ```csharp
 public float Top { get; set; }
 ```
 
-### Nilai Pengembalian
+### Nilai Kembalian
 
-Koordinat y dari tepi atas ini[`RectangleF`](../) struktur.
+Koordinat-y dari tepi atas struktur [`RectangleF`](../) ini.
 
-### Lihat juga
+### Lihat Juga
 
 * struct [RectangleF](../)
-* ruang nama [Aspose.PSD](../../rectanglef/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

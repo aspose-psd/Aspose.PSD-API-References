@@ -1,23 +1,24 @@
 ---
-title: Namespaces.XmpGraphics
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Namespaces bidang. ruang nama grafik XMP.
+title: "Namespaces.XmpGraphics"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Bidang Namespaces. Namespace grafis XMP"
 type: docs
 weight: 80
 url: /id/net/aspose.psd.xmp/namespaces/xmpgraphics/
 ---
+{{< psd/tize >}}
 ## Namespaces.XmpGraphics field
 
-ruang nama grafik XMP.
+Namespace XMP graphics.
 
 ```csharp
 public const string XmpGraphics;
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [Namespaces](../)
-* ruang nama [Aspose.PSD.Xmp](../../namespaces/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

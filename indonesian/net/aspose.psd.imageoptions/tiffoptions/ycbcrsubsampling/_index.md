@@ -1,20 +1,21 @@
 ---
-title: TiffOptions.YCbCrSubsampling
-second_title: Aspose.PSD untuk Referensi .NET API
-description: TiffOptions Properti. Mendapatkan atau menyetel faktor subsampling untuk fotometrik YCbCr.
+title: "TiffOptions.YCbCrSubsampling"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "TiffOptions properti. Mendapatkan atau mengatur faktor subsampling untuk fotometrik YCbCr"
 type: docs
-weight: 670
+weight: 680
 url: /id/net/aspose.psd.imageoptions/tiffoptions/ycbcrsubsampling/
 ---
+{{< psd/tize >}}
 ## TiffOptions.YCbCrSubsampling property
 
-Mendapatkan atau menyetel faktor subsampling untuk fotometrik YCbCr.
+Mendapatkan atau mengatur faktor subsampling untuk fotometrik YCbCr.
 
 ```csharp
 public ushort[] YCbCrSubsampling { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
 Faktor subsampling untuk fotometrik YCbCr.
 
@@ -22,13 +23,13 @@ Faktor subsampling untuk fotometrik YCbCr.
 
 | pengecualian | kondisi |
 | --- | --- |
-| [TiffImageException](../../../aspose.psd.coreexceptions.imageformats/tiffimageexception/) | Panjang kolom tidak valid. Bidang YCbCrSubsampling harus berisi dua nilai. |
+| [TiffImageException](../../../aspose.psd.coreexceptions.imageformats/tiffimageexception/) | Panjang bidang tidak valid. Bidang YCbCrSubsampling harus berisi dua nilai. |
 | ArgumentNullException | nilai |
 
-### Lihat juga
+### Lihat Juga
 
 * class [TiffOptions](../)
-* ruang nama [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

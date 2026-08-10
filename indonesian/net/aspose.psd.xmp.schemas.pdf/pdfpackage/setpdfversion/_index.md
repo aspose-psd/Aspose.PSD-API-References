@@ -1,11 +1,12 @@
 ---
-title: PdfPackage.SetPdfVersion
-second_title: Aspose.PSD untuk Referensi .NET API
-description: PdfPackage metode. Mengatur versi PDF.
+title: "PdfPackage.SetPdfVersion"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode PdfPackage. Mengatur versi PDF"
 type: docs
 weight: 40
 url: /id/net/aspose.psd.xmp.schemas.pdf/pdfpackage/setpdfversion/
 ---
+{{< psd/tize >}}
 ## PdfPackage.SetPdfVersion method
 
 Mengatur versi PDF.
@@ -14,14 +15,14 @@ Mengatur versi PDF.
 public void SetPdfVersion(string version)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| version | String | Versi pdf, misalnya: 1.0, 1.3 dll. |
+| version | String | Versi PDF, misalnya: 1.0, 1.3, dll. |
 
-### Lihat juga
+### Lihat Juga
 
 * class [PdfPackage](../)
-* ruang nama [Aspose.PSD.Xmp.Schemas.Pdf](../../pdfpackage/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.Pdf](../../../aspose.psd.xmp.schemas.pdf/)
+* assembly [Aspose.PSD](../../../)
 
 

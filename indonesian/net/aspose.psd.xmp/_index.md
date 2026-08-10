@@ -1,38 +1,39 @@
 ---
-title: Aspose.PSD.Xmp
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Ruang nama berisi kelas dan metode pembantu terkait XMP.
+title: "Aspose.PSD.Xmp"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Namespace ini berisi kelas dan metode pembantu terkait XMP."
 type: docs
-weight: 520
+weight: 560
 url: /id/net/aspose.psd.xmp/
 ---
-Ruang nama berisi kelas dan metode pembantu terkait XMP.
+{{< psd/tize >}}
+Namespace berisi kelas pembantu dan metode terkait XMP.
 
 ## Kelas
 
-| Kelas | Keterangan |
+| Kelas | Deskripsi |
 | --- | --- |
-| [LangAlt](./langalt/) | Merupakan Alternatif Bahasa XMP. |
-| [Namespaces](./namespaces/) | Berisi ruang nama yang digunakan dalam dokumen RDF. |
-| [XmpArray](./xmparray/) | Mewakili Xmp Array di[`XmpPackage`](../aspose.psd.xmp/xmppackage/) . TODO: Larik mungkin berisi data kompleks. |
-| [XmpArrayHelper](./xmparrayhelper/) | Kelas pembantu untuk memproses logika RDF |
-| [XmpElementBase](./xmpelementbase/) | Mewakili elemen dasar xmp berisi atribut. |
-| [XmpHeaderPi](./xmpheaderpi/) | Merupakan instruksi pemrosesan header XMP. |
-| [XmpMeta](./xmpmeta/) | Mewakili xmpmeta. Opsional. Tujuan elemen ini adalah untuk mengidentifikasi metadata XMP dalam teks XML umum yang mungkin berisi penggunaan RDF non-XMP lainnya. |
-| [XmpPackage](./xmppackage/) | Menentukan kelas XmpPackage yang merepresentasikan abstraksi dasar untuk paket XMP. |
-| [XmpPackageBaseCollection](./xmppackagebasecollection/) | Merupakan kumpulan dari[`XmpPackage`](../aspose.psd.xmp/xmppackage/) . |
-| [XmpPacketWrapper](./xmppacketwrapper/) | Berisi paket xmp serial termasuk header dan trailer. |
-| [XmpRdfRoot](./xmprdfroot/) | Mewakili rdf:RDF element. Satu paket XMP harus diserialkan menggunakan elemen XML rdf:RDF tunggal. Konten elemen rdf:RDF harus terdiri dari nol atau lebih rdf:Deskripsi elemen. |
+| [LangAlt](./langalt/) | Mewakili Alternatif Bahasa XMP. |
+| [Namespaces](./namespaces/) | Berisi namespace yang digunakan dalam dokumen RDF. |
+| [XmpArray](./xmparray/) | Mewakili Xmp Array dalam [`XmpPackage`](../aspose.psd.xmp/xmppackage/). TODO: Array dapat berisi data kompleks. |
+| [XmpArrayHelper](./xmparrayhelper/) | Kelas pembantu untuk memproses logika RDF. |
+| [XmpElementBase](./xmpelementbase/) | Mewakili elemen xmp dasar yang berisi atribut. |
+| [XmpHeaderPi](./xmpheaderpi/) | Mewakili instruksi pemrosesan header XMP. |
+| [XmpMeta](./xmpmeta/) | Mewakili xmpmeta. Opsional. Tujuan elemen ini adalah mengidentifikasi metadata XMP dalam teks XML umum yang mungkin berisi penggunaan RDF non-XMP lainnya. |
+| [XmpPackage](./xmppackage/) | Mendefinisikan kelas XmpPackage yang mewakili abstraksi dasar untuk paket XMP. |
+| [XmpPackageBaseCollection](./xmppackagebasecollection/) | Mewakili koleksi [`XmpPackage`](../aspose.psd.xmp/xmppackage/). |
+| [XmpPacketWrapper](./xmppacketwrapper/) | Berisi paket xmp yang diserialisasi termasuk header dan trailer. |
+| [XmpRdfRoot](./xmprdfroot/) | Mewakili elemen rdf:RDF. Sebuah paket XMP tunggal harus diserialisasi menggunakan satu elemen XML rdf:RDF. Konten elemen rdf:RDF hanya boleh terdiri dari nol atau lebih elemen rdf:Description. |
 | [XmpTrailerPi](./xmptrailerpi/) | Mewakili instruksi pemrosesan trailer XMP. |
 ## Antarmuka
 
-| Antarmuka | Keterangan |
+| Antarmuka | Deskripsi |
 | --- | --- |
-| [IXmlValue](./ixmlvalue/) | Mengubah nilai xmp menjadi representasi string XML. |
-## Pencacahan
+| [IXmlValue](./ixmlvalue/) | Mengonversi nilai xmp ke representasi string XML. |
+## Enumerasi
 
-| Pencacahan | Keterangan |
+| Enumerasi | Deskripsi |
 | --- | --- |
-| [XmpArrayType](./xmparraytype/) | Mewakili tipe array[`XmpArray`](../aspose.psd.xmp/xmparray/) . |
+| [XmpArrayType](./xmparraytype/) | Mewakili tipe array dalam [`XmpArray`](../aspose.psd.xmp/xmparray/). |
 
 

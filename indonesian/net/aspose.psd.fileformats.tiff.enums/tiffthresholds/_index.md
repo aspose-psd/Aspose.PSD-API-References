@@ -1,14 +1,15 @@
 ---
-title: Enum TiffThresholds
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Aspose.PSD.FileFormats.Tiff.Enums.TiffThresholds enum. Batasan yang digunakan pada data.
+title: "Enum TiffThresholds"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Aspose.PSD.FileFormats.Tiff.Enums.TiffThresholds enum. Ambang batas yang digunakan pada data"
 type: docs
-weight: 4180
+weight: 4650
 url: /id/net/aspose.psd.fileformats.tiff.enums/tiffthresholds/
 ---
+{{< psd/tize >}}
 ## TiffThresholds enumeration
 
-Batasan yang digunakan pada data.
+Thresholding yang digunakan pada data.
 
 ```csharp
 public enum TiffThresholds : ushort
@@ -16,15 +17,15 @@ public enum TiffThresholds : ushort
 
 ### Nilai
 
-| Nama | Nilai | Keterangan |
+| Nama | Nilai | Deskripsi |
 | --- | --- | --- |
-| NoDithering | `1` | Tidak ada dithering. |
-| HalfTone | `2` | Pemindaian dithered. |
+| NoDithering | `1` | Tidak ada dithering yang dilakukan. |
+| HalfTone | `2` | Pemindaian dithering. |
 | ErrorDiffuse | `3` | Biasanya Floyd-Steinberg. |
 
-### Lihat juga
+### Lihat Juga
 
-* ruang nama [Aspose.PSD.FileFormats.Tiff.Enums](../../aspose.psd.fileformats.tiff.enums/)
-* perakitan [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Tiff.Enums](../../aspose.psd.fileformats.tiff.enums/)
+* assembly [Aspose.PSD](../../)
 
 

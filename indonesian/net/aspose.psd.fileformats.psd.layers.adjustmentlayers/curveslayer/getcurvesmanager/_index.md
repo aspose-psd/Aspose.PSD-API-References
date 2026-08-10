@@ -1,28 +1,29 @@
 ---
-title: CurvesLayer.GetCurvesManager
-second_title: Aspose.PSD untuk Referensi .NET API
-description: CurvesLayer metode. Mendapatkan pengelola kurva.
+title: "CurvesLayer.GetCurvesManager"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "metode CurvesLayer. Mendapatkan manajer kurva"
 type: docs
 weight: 30
 url: /id/net/aspose.psd.fileformats.psd.layers.adjustmentlayers/curveslayer/getcurvesmanager/
 ---
+{{< psd/tize >}}
 ## CurvesLayer.GetCurvesManager method
 
-Mendapatkan pengelola kurva.
+Mendapatkan manajer kurva.
 
 ```csharp
 public CurvesManager GetCurvesManager()
 ```
 
-### Nilai Pengembalian
+### Nilai Kembalian
 
-[`CurvesDiscreteManager`](../../../aspose.psd.fileformats.psd.layers.layerresources/curvesdiscretemanager/) atau[`CurvesContinuousManager`](../../../aspose.psd.fileformats.psd.layers.layerresources/curvescontinuousmanager/) yang bergantung pada properti IsDiscreteManagerUsed dan IsContinuousManagerUsed
+[`CurvesDiscreteManager`](../../../aspose.psd.fileformats.psd.layers.layerresources/curvesdiscretemanager/) or [`CurvesContinuousManager`](../../../aspose.psd.fileformats.psd.layers.layerresources/curvescontinuousmanager/) that depends on IsDiscreteManagerUsed and IsContinuousManagerUsed property
 
-### Lihat juga
+### Lihat Juga
 
 * class [CurvesManager](../../../aspose.psd.fileformats.psd.layers.layerresources/curvesmanager/)
 * class [CurvesLayer](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../curveslayer/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/)
+* assembly [Aspose.PSD](../../../)
 
 

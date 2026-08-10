@@ -1,14 +1,15 @@
 ---
-title: Class BlendRange
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Aspose.PSD.FileFormats.Psd.Layers.BlendRange kelas. Rentang campuran.
+title: "Kelas BlendRange"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Aspose.PSD.FileFormats.Psd.Layers.BlendRange kelas. Rentang pencampuran"
 type: docs
-weight: 1890
+weight: 2000
 url: /id/net/aspose.psd.fileformats.psd.layers/blendrange/
 ---
+{{< psd/tize >}}
 ## BlendRange class
 
-Rentang campuran.
+Rentang blend.
 
 ```csharp
 public sealed class BlendRange
@@ -16,20 +17,20 @@ public sealed class BlendRange
 
 ## Konstruktor
 
-| Nama | Keterangan |
+| Nama | Deskripsi |
 | --- | --- |
 | [BlendRange](blendrange/)() | Konstruktor default. |
 
 ## Properti
 
-| Nama | Keterangan |
+| Nama | Deskripsi |
 | --- | --- |
-| [Destination](../../aspose.psd.fileformats.psd.layers/blendrange/destination/) { get; set; } | Mendapat atau menetapkan rentang campuran tujuan. |
-| [Source](../../aspose.psd.fileformats.psd.layers/blendrange/source/) { get; set; } | Mendapat atau menyetel rentang campuran sumber. |
+| [Destination](../../aspose.psd.fileformats.psd.layers/blendrange/destination/) { get; set; } | Mendapatkan atau mengatur rentang pencampuran tujuan. |
+| [Source](../../aspose.psd.fileformats.psd.layers/blendrange/source/) { get; set; } | Mendapatkan atau mengatur rentang pencampuran sumber. |
 
-### Lihat juga
+### Lihat Juga
 
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers](../../aspose.psd.fileformats.psd.layers/)
-* perakitan [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../)
 
 

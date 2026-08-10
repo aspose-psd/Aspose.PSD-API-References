@@ -1,44 +1,45 @@
 ---
-title: RenditionClass.RenditionClass
-second_title: Aspose.PSD untuk Referensi .NET API
-description: RenditionClass konstruktor. Menginisialisasi instance baru dariRenditionClass kelas.
+title: "RenditionClass.RenditionClass"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "RenditionClass konstruktor. Menginisialisasi instance baru dari kelas RenditionClass"
 type: docs
 weight: 10
 url: /id/net/aspose.psd.xmp.types.derived/renditionclass/renditionclass/
 ---
+{{< psd/tize >}}
 ## RenditionClass() {#constructor}
 
-Menginisialisasi instance baru dari[`RenditionClass`](../) kelas.
+Menginisialisasi instance baru dari kelas [`RenditionClass`](../).
 
 ```csharp
 public RenditionClass()
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [RenditionClass](../)
-* ruang nama [Aspose.PSD.Xmp.Types.Derived](../../renditionclass/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Derived](../../../aspose.psd.xmp.types.derived/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## RenditionClass(string, string) {#constructor_1}
 
-Menginisialisasi instance baru dari[`RenditionClass`](../) kelas.
+Menginisialisasi instance baru dari kelas [`RenditionClass`](../).
 
 ```csharp
 public RenditionClass(string token, string value)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
 | token | String | Token. |
-| value | String | Nilai. |
+| nilai | String | Nilai. |
 
-### Lihat juga
+### Lihat Juga
 
 * class [RenditionClass](../)
-* ruang nama [Aspose.PSD.Xmp.Types.Derived](../../renditionclass/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Derived](../../../aspose.psd.xmp.types.derived/)
+* assembly [Aspose.PSD](../../../)
 
 

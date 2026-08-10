@@ -1,28 +1,29 @@
 ---
-title: TextureBrush.ImageAttributes
-second_title: Aspose.PSD untuk Referensi .NET API
-description: TextureBrush Properti. MendapatkanImageAttributes terkait dengan iniTextureBrush .
+title: "TextureBrush.ImageAttributes"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti TextureBrush. Mendapatkan ImageAttributes yang terkait dengan TextureBrush ini."
 type: docs
 weight: 30
 url: /id/net/aspose.psd.brushes/texturebrush/imageattributes/
 ---
+{{< psd/tize >}}
 ## TextureBrush.ImageAttributes property
 
-Mendapatkan`ImageAttributes` terkait dengan ini[`TextureBrush`](../) .
+Mendapatkan `ImageAttributes` yang terkait dengan [`TextureBrush`](../) ini.
 
 ```csharp
 public ImageAttributes ImageAttributes { get; }
 ```
 
-### Nilai properti
+### Property Value
 
-Itu`ImageAttributes`.
+`ImageAttributes`.
 
-### Lihat juga
+### Lihat Juga
 
 * class [ImageAttributes](../../../aspose.psd/imageattributes/)
 * class [TextureBrush](../)
-* ruang nama [Aspose.PSD.Brushes](../../texturebrush/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
+* assembly [Aspose.PSD](../../../)
 
 

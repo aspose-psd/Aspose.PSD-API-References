@@ -1,24 +1,25 @@
 ---
-title: DataStreamSupporter.Save
-second_title: Aspose.PSD untuk Referensi .NET API
-description: DataStreamSupporter metode. Menyimpan data objek ke saat iniDataStreamSupporter .
+title: "DataStreamSupporter.Save"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode DataStreamSupporter. Menyimpan data objek ke DataStreamSupporter saat ini"
 type: docs
 weight: 40
 url: /id/net/aspose.psd/datastreamsupporter/save/
 ---
+{{< psd/tize >}}
 ## Save() {#save}
 
-Menyimpan data objek ke saat ini[`DataStreamSupporter`](../) .
+Menyimpan data objek ke [`DataStreamSupporter`](../) saat ini.
 
 ```csharp
 public virtual void Save()
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [DataStreamSupporter](../)
-* ruang nama [Aspose.PSD](../../datastreamsupporter/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
@@ -30,15 +31,15 @@ Menyimpan data objek ke aliran yang ditentukan.
 public virtual void Save(Stream stream)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| stream | Stream | Stream untuk menyimpan data objek. |
+| stream | Stream | Aliran untuk menyimpan data objek. |
 
-### Lihat juga
+### Lihat Juga
 
 * class [DataStreamSupporter](../)
-* ruang nama [Aspose.PSD](../../datastreamsupporter/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
@@ -50,15 +51,15 @@ Menyimpan data objek ke lokasi file yang ditentukan.
 public void Save(string filePath)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
 | filePath | String | Jalur file untuk menyimpan data objek. |
 
-### Lihat juga
+### Lihat Juga
 
 * class [DataStreamSupporter](../)
-* ruang nama [Aspose.PSD](../../datastreamsupporter/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
@@ -70,15 +71,15 @@ Menyimpan data objek ke lokasi file yang ditentukan.
 public virtual void Save(string filePath, bool overWrite)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
 | filePath | String | Jalur file untuk menyimpan data objek. |
-| overWrite | Boolean | jika diatur ke`BENAR` lebih dari menulis konten file, jika tidak menambahkan akan terjadi. |
+| overWrite | Boolean | jika disetel ke `true` menimpa isi file, jika tidak penambahan akan terjadi. |
 
-### Lihat juga
+### Lihat Juga
 
 * class [DataStreamSupporter](../)
-* ruang nama [Aspose.PSD](../../datastreamsupporter/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

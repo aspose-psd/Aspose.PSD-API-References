@@ -1,14 +1,15 @@
 ---
-title: Class AiFinalizeSection
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Aspose.PSD.FileFormats.Ai.AiFinalizeSection kelas. Format Ai Selesaikan Bagian
+title: "Kelas AiFinalizeSection"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Kelas Aspose.PSD.FileFormats.Ai.AiFinalizeSection. Bagian Finalisasi format Ai"
 type: docs
-weight: 1230
+weight: 1240
 url: /id/net/aspose.psd.fileformats.ai/aifinalizesection/
 ---
+{{< psd/tize >}}
 ## AiFinalizeSection class
 
-Format Ai Selesaikan Bagian
+Bagian Finalisasi format Ai
 
 ```csharp
 public sealed class AiFinalizeSection : AiSection
@@ -16,14 +17,14 @@ public sealed class AiFinalizeSection : AiSection
 
 ## Metode
 
-| Nama | Keterangan |
+| Nama | Deskripsi |
 | --- | --- |
-| [GetData](../../aspose.psd.fileformats.ai/aisection/getdata/)() | Mendapat data string. |
+| [GetData](../../aspose.psd.fileformats.ai/aisection/getdata/)() | Mendapatkan data string. |
 
-### Lihat juga
+### Lihat Juga
 
 * class [AiSection](../aisection/)
-* ruang nama [Aspose.PSD.FileFormats.Ai](../../aspose.psd.fileformats.ai/)
-* perakitan [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../)
 
 

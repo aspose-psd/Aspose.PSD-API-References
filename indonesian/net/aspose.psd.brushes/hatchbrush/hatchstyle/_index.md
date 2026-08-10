@@ -1,24 +1,25 @@
 ---
-title: HatchBrush.HatchStyle
-second_title: Aspose.PSD untuk Referensi .NET API
-description: HatchBrush Properti. Mendapat atau menyetel gaya penetasan kuas ini.
+title: "HatchBrush.HatchStyle"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti HatchBrush. Mendapatkan atau mengatur gaya hatch dari kuas ini"
 type: docs
 weight: 40
 url: /id/net/aspose.psd.brushes/hatchbrush/hatchstyle/
 ---
+{{< psd/tize >}}
 ## HatchBrush.HatchStyle property
 
-Mendapat atau menyetel gaya penetasan kuas ini.
+Mendapatkan atau mengatur gaya hatch dari brush ini.
 
 ```csharp
 public HatchStyle HatchStyle { get; set; }
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * enum [HatchStyle](../../../aspose.psd/hatchstyle/)
 * class [HatchBrush](../)
-* ruang nama [Aspose.PSD.Brushes](../../hatchbrush/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
+* assembly [Aspose.PSD](../../../)
 
 

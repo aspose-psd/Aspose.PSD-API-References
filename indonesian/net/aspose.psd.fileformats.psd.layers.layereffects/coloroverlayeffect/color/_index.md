@@ -1,28 +1,29 @@
 ---
-title: ColorOverlayEffect.Color
-second_title: Aspose.PSD untuk Referensi .NET API
-description: ColorOverlayEffect Properti. Mendapat atau mengatur warna.
+title: "ColorOverlayEffect.Color"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti ColorOverlayEffect. Mendapatkan atau mengatur warna"
 type: docs
 weight: 20
 url: /id/net/aspose.psd.fileformats.psd.layers.layereffects/coloroverlayeffect/color/
 ---
+{{< psd/tize >}}
 ## ColorOverlayEffect.Color property
 
-Mendapat atau mengatur warna.
+Mendapatkan atau mengatur warna.
 
 ```csharp
 public Color Color { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
 Warna.
 
-### Lihat juga
+### Lihat Juga
 
 * struct [Color](../../../aspose.psd/color/)
 * class [ColorOverlayEffect](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../coloroverlayeffect/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../../)
 
 

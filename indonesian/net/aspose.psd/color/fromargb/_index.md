@@ -1,84 +1,85 @@
 ---
-title: Color.FromArgb
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Color metode. Membuat aColor struktur dari nilai ARGB 32bit.
+title: "Color.FromArgb"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode Color. Membuat struktur Color dari nilai ARGB 32‑bit"
 type: docs
 weight: 1430
 url: /id/net/aspose.psd/color/fromargb/
 ---
+{{< psd/tize >}}
 ## FromArgb(int) {#fromargb}
 
-Membuat a[`Color`](../) struktur dari nilai ARGB 32-bit.
+Membuat struktur [`Color`](../) dari nilai ARGB 32‑bit.
 
 ```csharp
 public static Color FromArgb(int argb)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| argb | Int32 | Nilai yang menentukan nilai ARGB 32-bit. |
+| argb | Int32 | Nilai yang menentukan nilai ARGB 32‑bit. |
 
-### Nilai Pengembalian
+### Nilai Kembalian
 
-Itu[`Color`](../) struktur yang diciptakan metode ini.
+Struktur [`Color`](../) yang dibuat oleh metode ini.
 
-### Lihat juga
+### Lihat Juga
 
 * struct [Color](../)
-* ruang nama [Aspose.PSD](../../color/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## FromArgb(int, int, int, int) {#fromargb_3}
 
-Membuat a[`Color`](../) struktur dari empat nilai komponen ARGB (alfa, merah, hijau, dan biru). Meskipun metode ini memungkinkan nilai 32-bit dilewatkan untuk setiap komponen, nilai setiap komponen dibatasi hingga 8 bit.
+Membuat struktur [`Color`](../) dari empat nilai komponen ARGB (alpha, merah, hijau, dan biru). Meskipun metode ini memungkinkan nilai 32‑bit diberikan untuk setiap komponen, nilai setiap komponen dibatasi hingga 8 bit.
 
 ```csharp
 public static Color FromArgb(int alpha, int red, int green, int blue)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| alpha | Int32 | Komponen alfa. Nilai yang valid adalah 0 hingga 255. |
-| red | Int32 | Komponen merah. Nilai yang valid adalah 0 hingga 255. |
-| green | Int32 | Komponen hijau. Nilai yang valid adalah 0 hingga 255. |
-| blue | Int32 | Komponen biru. Nilai yang valid adalah 0 hingga 255. |
+| alpha | Int32 | Komponen alpha. Nilai yang valid antara 0 hingga 255. |
+| merah | Int32 | Komponen merah. Nilai yang valid antara 0 hingga 255. |
+| hijau | Int32 | Komponen hijau. Nilai yang valid antara 0 hingga 255. |
+| biru | Int32 | Komponen biru. Nilai yang valid antara 0 hingga 255. |
 
-### Nilai Pengembalian
+### Nilai Kembalian
 
-Itu[`Color`](../) yang dibuat oleh metode ini.
+[`Color`](../) yang dibuat oleh metode ini.
 
 ### Pengecualian
 
 | pengecualian | kondisi |
 | --- | --- |
-| ArgumentOutOfRangeException | *alpha* ,*red* ,*green* , atau*blue* kurang dari 0 atau lebih besar dari 255. |
+| ArgumentOutOfRangeException | *alpha*, *red*, *green*, atau *blue* kurang dari 0 atau lebih besar dari 255. |
 
-### Lihat juga
+### Lihat Juga
 
 * struct [Color](../)
-* ruang nama [Aspose.PSD](../../color/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## FromArgb(int, Color) {#fromargb_1}
 
-Membuat a[`Color`](../) struktur dari yang ditentukan[`Color`](../) struktur, tetapi dengan nilai alpha baru yang ditentukan. Meskipun metode ini memungkinkan nilai 32-bit dilewatkan untuk nilai alfa, nilainya dibatasi hingga 8 bit.
+Membuat struktur [`Color`](../) dari struktur [`Color`](../) yang ditentukan, tetapi dengan nilai alfa baru yang ditentukan. Meskipun metode ini memungkinkan nilai 32-bit diteruskan untuk nilai alfa, nilai tersebut dibatasi hingga 8 bit.
 
 ```csharp
 public static Color FromArgb(int alpha, Color baseColor)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| alpha | Int32 | Nilai alfa untuk yang baru[`Color`](../). Nilai yang valid adalah 0 hingga 255. |
-| baseColor | Color | Itu[`Color`](../) dari mana untuk membuat yang baru[`Color`](../). |
+| alpha | Int32 | Nilai alfa untuk [`Color`](../) baru. Nilai yang valid adalah 0 hingga 255. |
+| baseColor | Color | `[`Color`](../)` yang akan digunakan untuk membuat [`Color`](../) baru. |
 
-### Nilai Pengembalian
+### Nilai Kembalian
 
-Itu[`Color`](../) yang dibuat oleh metode ini.
+[`Color`](../) yang dibuat oleh metode ini.
 
 ### Pengecualian
 
@@ -86,42 +87,42 @@ Itu[`Color`](../) yang dibuat oleh metode ini.
 | --- | --- |
 | ArgumentOutOfRangeException | *alpha* kurang dari 0 atau lebih besar dari 255. |
 
-### Lihat juga
+### Lihat Juga
 
 * struct [Color](../)
-* ruang nama [Aspose.PSD](../../color/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## FromArgb(int, int, int) {#fromargb_2}
 
-Membuat a[`Color`](../) struktur dari nilai warna 8-bit yang ditentukan (merah, hijau, dan biru). Nilai alfa secara implisit 255 (sepenuhnya buram). Meskipun metode ini memungkinkan nilai 32-bit dilewatkan untuk setiap komponen warna, nilai setiap komponen dibatasi hingga 8 bit.
+Membuat struktur [`Color`](../) dari nilai warna 8-bit yang ditentukan (merah, hijau, dan biru). Nilai alfa secara implisit 255 (sepenuhnya tidak tembus). Meskipun metode ini memungkinkan nilai 32-bit diteruskan untuk setiap komponen warna, nilai setiap komponen dibatasi hingga 8 bit.
 
 ```csharp
 public static Color FromArgb(int red, int green, int blue)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| red | Int32 | Nilai komponen merah untuk yang baru[`Color`](../). Nilai yang valid adalah 0 hingga 255. |
-| green | Int32 | Nilai komponen hijau untuk yang baru[`Color`](../). Nilai yang valid adalah 0 hingga 255. |
-| blue | Int32 | Nilai komponen biru untuk yang baru[`Color`](../). Nilai yang valid adalah 0 hingga 255. |
+| red | Int32 | Nilai komponen merah untuk [`Color`](../) baru. Nilai yang valid adalah 0 hingga 255. |
+| green | Int32 | Nilai komponen hijau untuk [`Color`](../) baru. Nilai yang valid adalah 0 hingga 255. |
+| blue | Int32 | Nilai komponen biru untuk [`Color`](../) baru. Nilai yang valid adalah 0 hingga 255. |
 
-### Nilai Pengembalian
+### Nilai Kembalian
 
-Itu[`Color`](../) yang dibuat oleh metode ini.
+[`Color`](../) yang dibuat oleh metode ini.
 
 ### Pengecualian
 
 | pengecualian | kondisi |
 | --- | --- |
-| ArgumentOutOfRangeException | *red* ,*green* , atau*blue* kurang dari 0 atau lebih besar dari 255. |
+| ArgumentOutOfRangeException | *red*, *green*, atau *blue* kurang dari 0 atau lebih besar dari 255. |
 
-### Lihat juga
+### Lihat Juga
 
 * struct [Color](../)
-* ruang nama [Aspose.PSD](../../color/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

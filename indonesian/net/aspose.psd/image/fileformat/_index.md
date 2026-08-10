@@ -1,24 +1,25 @@
 ---
-title: Image.FileFormat
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Image Properti. Mendapat nilai format file
+title: "Image.FileFormat"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti Image. Mengambil nilai format file"
 type: docs
 weight: 90
 url: /id/net/aspose.psd/image/fileformat/
 ---
+{{< psd/tize >}}
 ## Image.FileFormat property
 
-Mendapat nilai format file
+Mendapatkan nilai format file
 
 ```csharp
 public virtual FileFormat FileFormat { get; }
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * enum [FileFormat](../../fileformat/)
 * class [Image](../)
-* ruang nama [Aspose.PSD](../../image/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

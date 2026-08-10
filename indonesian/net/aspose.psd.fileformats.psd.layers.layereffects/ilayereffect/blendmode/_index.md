@@ -1,28 +1,29 @@
 ---
-title: ILayerEffect.BlendMode
-second_title: Aspose.PSD untuk Referensi .NET API
-description: ILayerEffect Properti. Mendapat atau menyetel mode campuran.
+title: "ILayerEffect.BlendMode"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti ILayerEffect. Mendapatkan atau mengatur mode pencampuran"
 type: docs
 weight: 10
 url: /id/net/aspose.psd.fileformats.psd.layers.layereffects/ilayereffect/blendmode/
 ---
+{{< psd/tize >}}
 ## ILayerEffect.BlendMode property
 
-Mendapat atau menyetel mode campuran.
+Mendapatkan atau mengatur mode perpaduan.
 
 ```csharp
 public BlendMode BlendMode { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
-Mode campuran.
+Mode pencampuran.
 
-### Lihat juga
+### Lihat Juga
 
 * enum [BlendMode](../../../aspose.psd.fileformats.core.blending/blendmode/)
 * interface [ILayerEffect](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../ilayereffect/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../../)
 
 

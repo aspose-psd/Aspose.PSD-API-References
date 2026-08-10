@@ -1,20 +1,21 @@
 ---
-title: StrokeEffect.EffectType
-second_title: Aspose.PSD untuk Referensi .NET API
-description: StrokeEffect Properti. Mendapat jenis efek
+title: "StrokeEffect.EffectType"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "StrokeEffect property. Mendapatkan tipe efek"
 type: docs
 weight: 20
 url: /id/net/aspose.psd.fileformats.psd.layers.layereffects/strokeeffect/effecttype/
 ---
+{{< psd/tize >}}
 ## StrokeEffect.EffectType property
 
-Mendapat jenis efek
+Mendapatkan tipe efek
 
 ```csharp
 public LayerEffectsTypes EffectType { get; }
 ```
 
-### Contoh
+## Contoh
 
 Kode berikut menunjukkan dukungan properti ILayerEffect.EffectType.
 
@@ -40,18 +41,18 @@ using (PsdImage psdImage = (PsdImage)Image.Load(inputFile, new LoadOptions()))
     {
         if (iEffect.EffectType == LayerEffectsTypes.DropShadow)
         {
-            // tertangkap
+            // itu tertangkap
             psdImage.Save(outputWith, new PngOptions());
         }
     }
 }
 ```
 
-### Lihat juga
+### Lihat Juga
 
-* enum [LayerEffectsTypes](../../../aspose.psd.fileformats.psd.layers.layerresources.lfx2resources/layereffectstypes/)
+* enum [LayerEffectsTypes](../../layereffectstypes/)
 * class [StrokeEffect](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../strokeeffect/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../../)
 
 

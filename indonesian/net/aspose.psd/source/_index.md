@@ -1,14 +1,15 @@
 ---
-title: Class Source
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Aspose.PSD.Source kelas. Sumber digunakan untuk memuat semua informasi yang relevan untuk pipa objek.
+title: "Kelas Source"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Kelas Aspose.PSD.Source. Sumber ini digunakan untuk menyimpan semua informasi relevan untuk sebuah objek pipe"
 type: docs
-weight: 5580
+weight: 6080
 url: /id/net/aspose.psd/source/
 ---
+{{< psd/tize >}}
 ## Source class
 
-Sumber digunakan untuk memuat semua informasi yang relevan untuk pipa objek.
+Sumber digunakan untuk berisi semua informasi relevan untuk pipa objek.
 
 ```csharp
 public abstract class Source
@@ -16,13 +17,13 @@ public abstract class Source
 
 ## Metode
 
-| Nama | Keterangan |
+| Nama | Deskripsi |
 | --- | --- |
-| abstract [GetStreamContainer](../../aspose.psd/source/getstreamcontainer/)() | Mendapatkan wadah aliran. |
+| abstract [GetStreamContainer](../../aspose.psd/source/getstreamcontainer/)() | Mendapatkan kontainer aliran. |
 
-### Lihat juga
+### Lihat Juga
 
-* ruang nama [Aspose.PSD](../../aspose.psd/)
-* perakitan [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

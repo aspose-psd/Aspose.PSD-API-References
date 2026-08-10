@@ -1,28 +1,29 @@
 ---
-title: ExifData.CustomRendered
-second_title: Aspose.PSD untuk Referensi .NET API
-description: ExifData Properti. Mendapat atau mengatur render kustom.
+title: "ExifData.CustomRendered"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti ExifData. Mendapatkan atau mengatur hasil render khusus"
 type: docs
 weight: 120
 url: /id/net/aspose.psd.exif/exifdata/customrendered/
 ---
+{{< psd/tize >}}
 ## ExifData.CustomRendered property
 
-Mendapat atau mengatur render kustom.
+Mendapatkan atau mengatur rendering kustom.
 
 ```csharp
 public ExifCustomRendered CustomRendered { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
-Render kustom.
+Hasil render khusus.
 
-### Lihat juga
+### Lihat Juga
 
 * enum [ExifCustomRendered](../../../aspose.psd.exif.enums/exifcustomrendered/)
 * class [ExifData](../)
-* ruang nama [Aspose.PSD.Exif](../../exifdata/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: TiffRational.ValueD
-second_title: Aspose.PSD untuk Referensi .NET API
-description: TiffRational Properti. Mendapat nilai ganda.
+title: "TiffRational.ValueD"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti TiffRational. Mengambil nilai double"
 type: docs
 weight: 60
 url: /id/net/aspose.psd.fileformats.tiff/tiffrational/valued/
 ---
+{{< psd/tize >}}
 ## TiffRational.ValueD property
 
-Mendapat nilai ganda.
+Mendapatkan nilai double.
 
 ```csharp
 public double ValueD { get; }
 ```
 
-### Nilai properti
+### Property Value
 
-Nilai ganda.
+Nilai double.
 
-### Lihat juga
+### Lihat Juga
 
 * class [TiffRational](../)
-* ruang nama [Aspose.PSD.FileFormats.Tiff](../../tiffrational/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff](../../../aspose.psd.fileformats.tiff/)
+* assembly [Aspose.PSD](../../../)
 
 

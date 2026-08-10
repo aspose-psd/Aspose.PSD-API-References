@@ -1,27 +1,28 @@
 ---
-title: StreamReadException.ExpectedReadCount
-second_title: Aspose.PSD untuk Referensi .NET API
-description: StreamReadException Properti. Mendapatkan jumlah byte baca yang diharapkan.
+title: "StreamReadException.ExpectedReadCount"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "StreamReadException properti. Mendapatkan jumlah byte baca yang diharapkan"
 type: docs
 weight: 30
 url: /id/net/aspose.psd.coreexceptions/streamreadexception/expectedreadcount/
 ---
+{{< psd/tize >}}
 ## StreamReadException.ExpectedReadCount property
 
-Mendapatkan jumlah byte baca yang diharapkan.
+Mendapatkan jumlah byte yang diharapkan dibaca.
 
 ```csharp
 public int ExpectedReadCount { get; }
 ```
 
-### Nilai properti
+### Property Value
 
 Jumlah byte baca yang diharapkan.
 
-### Lihat juga
+### Lihat Juga
 
 * class [StreamReadException](../)
-* ruang nama [Aspose.PSD.CoreExceptions](../../streamreadexception/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.CoreExceptions](../../../aspose.psd.coreexceptions/)
+* assembly [Aspose.PSD](../../../)
 
 

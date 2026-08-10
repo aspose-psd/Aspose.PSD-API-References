@@ -1,27 +1,28 @@
 ---
-title: DescriptorStructure.GetHeaderLength
-second_title: Aspose.PSD untuk Referensi .NET API
-description: DescriptorStructure metode. Mendapatkan panjang tajuk.
+title: "DescriptorStructure.GetHeaderLength"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode DescriptorStructure. Mendapatkan panjang header"
 type: docs
 weight: 70
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/descriptorstructure/getheaderlength/
 ---
+{{< psd/tize >}}
 ## DescriptorStructure.GetHeaderLength method
 
-Mendapatkan panjang tajuk.
+Mendapatkan panjang header.
 
 ```csharp
 public override int GetHeaderLength()
 ```
 
-### Nilai Pengembalian
+### Nilai Kembalian
 
-Panjang tajuk
+Panjang header
 
-### Lihat juga
+### Lihat Juga
 
 * class [DescriptorStructure](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../descriptorstructure/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,28 +1,29 @@
 ---
-title: PdfOptions.PageSize
-second_title: Aspose.PSD untuk Referensi .NET API
-description: PdfOptions Properti. Mendapat atau mengatur ukuran halaman.
+title: "PdfOptions.PageSize"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti PdfOptions. Mendapatkan atau mengatur ukuran halaman"
 type: docs
 weight: 20
 url: /id/net/aspose.psd.imageoptions/pdfoptions/pagesize/
 ---
+{{< psd/tize >}}
 ## PdfOptions.PageSize property
 
-Mendapat atau mengatur ukuran halaman.
+Mendapatkan atau mengatur ukuran halaman.
 
 ```csharp
 public SizeF PageSize { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
 Ukuran halaman.
 
-### Lihat juga
+### Lihat Juga
 
 * struct [SizeF](../../../aspose.psd/sizef/)
 * class [PdfOptions](../)
-* ruang nama [Aspose.PSD.ImageOptions](../../pdfoptions/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

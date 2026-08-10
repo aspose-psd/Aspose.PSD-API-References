@@ -1,11 +1,12 @@
 ---
-title: LyidResource.PsdVersion
-second_title: Aspose.PSD untuk Referensi .NET API
-description: LyidResource Properti. Mendapatkan versi psd.
+title: "LyidResource.PsdVersion"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "LyidResource property. Mendapatkan versi psd"
 type: docs
 weight: 40
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources/lyidresource/psdversion/
 ---
+{{< psd/tize >}}
 ## LyidResource.PsdVersion property
 
 Mendapatkan versi psd.
@@ -14,10 +15,10 @@ Mendapatkan versi psd.
 public override int PsdVersion { get; }
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [LyidResource](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../lyidresource/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

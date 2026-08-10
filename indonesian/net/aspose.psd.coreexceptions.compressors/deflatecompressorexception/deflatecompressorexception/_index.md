@@ -1,48 +1,49 @@
 ---
-title: DeflateCompressorException.DeflateCompressorException
-second_title: Aspose.PSD untuk Referensi .NET API
-description: DeflateCompressorException konstruktor. Menginisialisasi instance baru dariDeflateCompressorException kelas.
+title: "DeflateCompressorException.DeflateCompressorException"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Konstruktor DeflateCompressorException. Menginisialisasi sebuah instance baru dari kelas DeflateCompressorException"
 type: docs
 weight: 10
 url: /id/net/aspose.psd.coreexceptions.compressors/deflatecompressorexception/deflatecompressorexception/
 ---
+{{< psd/tize >}}
 ## DeflateCompressorException(string) {#constructor}
 
-Menginisialisasi instance baru dari[`DeflateCompressorException`](../) kelas.
+Menginisialisasi sebuah instance baru dari kelas [`DeflateCompressorException`](../).
 
 ```csharp
 public DeflateCompressorException(string message)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
 | message | String | Pesan pengecualian. |
 
-### Lihat juga
+### Lihat Juga
 
 * class [DeflateCompressorException](../)
-* ruang nama [Aspose.PSD.CoreExceptions.Compressors](../../deflatecompressorexception/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.CoreExceptions.Compressors](../../../aspose.psd.coreexceptions.compressors/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## DeflateCompressorException(string, Exception) {#constructor_1}
 
-Menginisialisasi instance baru dari[`DeflateCompressorException`](../) kelas.
+Menginisialisasi sebuah instance baru dari kelas [`DeflateCompressorException`](../).
 
 ```csharp
 public DeflateCompressorException(string message, Exception innerException)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
 | message | String | Pesan pengecualian. |
-| innerException | Exception | Pengecualian batin. |
+| innerException | Exception | Pengecualian dalam. |
 
-### Lihat juga
+### Lihat Juga
 
 * class [DeflateCompressorException](../)
-* ruang nama [Aspose.PSD.CoreExceptions.Compressors](../../deflatecompressorexception/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.CoreExceptions.Compressors](../../../aspose.psd.coreexceptions.compressors/)
+* assembly [Aspose.PSD](../../../)
 
 

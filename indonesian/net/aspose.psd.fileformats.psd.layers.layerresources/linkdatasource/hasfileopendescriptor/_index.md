@@ -1,27 +1,28 @@
 ---
-title: LinkDataSource.HasFileOpenDescriptor
-second_title: Aspose.PSD untuk Referensi .NET API
-description: LinkDataSource Properti. Mendapat atau menetapkan nilai yang menunjukkan apakah sumber data tautan ini memiliki deskriptor terbuka file CompId dan OriginalCompId.
+title: "LinkDataSource.HasFileOpenDescriptor"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti LinkDataSource. Mendapatkan atau mengatur nilai yang menunjukkan apakah sumber data tautan ini memiliki deskriptor file terbuka CompId dan OriginalCompId"
 type: docs
 weight: 70
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/hasfileopendescriptor/
 ---
+{{< psd/tize >}}
 ## LinkDataSource.HasFileOpenDescriptor property
 
-Mendapat atau menetapkan nilai yang menunjukkan apakah sumber data tautan ini memiliki deskriptor terbuka file: CompId dan OriginalCompId.
+Mendapatkan atau mengatur nilai yang menunjukkan apakah sumber data tautan ini memiliki deskriptor file terbuka: CompId dan OriginalCompId.
 
 ```csharp
 public bool HasFileOpenDescriptor { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
-`BENAR` jika instance ini memiliki deskriptor buka file; jika tidak,`PALSU` .
+`true` jika instance ini memiliki deskriptor file terbuka; jika tidak, `false`.
 
-### Lihat juga
+### Lihat Juga
 
 * class [LinkDataSource](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../linkdatasource/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

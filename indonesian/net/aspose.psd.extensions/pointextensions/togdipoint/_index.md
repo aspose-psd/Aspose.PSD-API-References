@@ -1,32 +1,33 @@
 ---
-title: PointExtensions.ToGdiPoint
-second_title: Aspose.PSD untuk Referensi .NET API
-description: PointExtensions metode. MengubahPointF kePointF .
+title: "PointExtensions.ToGdiPoint"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode PointExtensions. Mengonversi PointF ke PointF"
 type: docs
 weight: 10
 url: /id/net/aspose.psd.extensions/pointextensions/togdipoint/
 ---
+{{< psd/tize >}}
 ## PointExtensions.ToGdiPoint method
 
-Mengubah[`PointF`](../../../aspose.psd/pointf/) kePointF .
+Mengonversi [`PointF`](../../../aspose.psd/pointf/) ke PointF.
 
 ```csharp
 public static PointF ToGdiPoint(PointF point)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| point | PointF | Itu[`PointF`](../../../aspose.psd/pointf/) untuk mengubah. |
+| point | PointF | [`PointF`](../../../aspose.psd/pointf/) untuk dikonversi. |
 
-### Nilai Pengembalian
+### Nilai Kembalian
 
-Yang dikonversiPointF.
+PointF yang telah dikonversi.
 
-### Lihat juga
+### Lihat Juga
 
 * struct [PointF](../../../aspose.psd/pointf/)
 * class [PointExtensions](../)
-* ruang nama [Aspose.PSD.Extensions](../../pointextensions/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Extensions](../../../aspose.psd.extensions/)
+* assembly [Aspose.PSD](../../../)
 
 

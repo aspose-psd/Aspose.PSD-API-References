@@ -1,11 +1,12 @@
 ---
-title: TiffRational.GetHashCode
-second_title: Aspose.PSD untuk Referensi .NET API
-description: TiffRational metode. Mengembalikan kode hash untuk instance ini.
+title: "TiffRational.GetHashCode"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode TiffRational. Mengembalikan kode hash untuk instance ini"
 type: docs
 weight: 80
 url: /id/net/aspose.psd.fileformats.tiff/tiffrational/gethashcode/
 ---
+{{< psd/tize >}}
 ## TiffRational.GetHashCode method
 
 Mengembalikan kode hash untuk instance ini.
@@ -14,14 +15,14 @@ Mengembalikan kode hash untuk instance ini.
 public override int GetHashCode()
 ```
 
-### Nilai Pengembalian
+### Nilai Kembalian
 
-Kode hash untuk instance ini, cocok untuk digunakan dalam algoritme hashing dan struktur data seperti tabel hash.
+Kode hash untuk instance ini, cocok untuk digunakan dalam algoritma hashing dan struktur data seperti tabel hash.
 
-### Lihat juga
+### Lihat Juga
 
 * class [TiffRational](../)
-* ruang nama [Aspose.PSD.FileFormats.Tiff](../../tiffrational/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff](../../../aspose.psd.fileformats.tiff/)
+* assembly [Aspose.PSD](../../../)
 
 

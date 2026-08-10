@@ -1,27 +1,28 @@
 ---
-title: PsdColorPalette.RawEntriesCount
-second_title: Aspose.PSD untuk Referensi .NET API
-description: PsdColorPalette Properti. Mendapat hitungan entri palet warna mentah.
+title: "PsdColorPalette.RawEntriesCount"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti PsdColorPalette. Mendapatkan jumlah entri palet warna mentah"
 type: docs
 weight: 90
 url: /id/net/aspose.psd.fileformats.psd/psdcolorpalette/rawentriescount/
 ---
+{{< psd/tize >}}
 ## PsdColorPalette.RawEntriesCount property
 
-Mendapat hitungan entri palet warna mentah.
+Mengambil jumlah entri palet warna mentah.
 
 ```csharp
 public int RawEntriesCount { get; }
 ```
 
-### Nilai properti
+### Property Value
 
-Entri palet warna mentah dihitung.
+Jumlah entri palet warna mentah.
 
-### Lihat juga
+### Lihat Juga
 
 * class [PsdColorPalette](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd](../../psdcolorpalette/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

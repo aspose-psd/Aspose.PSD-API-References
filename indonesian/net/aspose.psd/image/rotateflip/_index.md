@@ -1,11 +1,12 @@
 ---
-title: Image.RotateFlip
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Image metode. Memutar membalik atau memutar dan membalik gambar.
+title: "Image.RotateFlip"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode Image. Memutar, membalik, atau memutar dan membalik gambar"
 type: docs
-weight: 220
+weight: 230
 url: /id/net/aspose.psd/image/rotateflip/
 ---
+{{< psd/tize >}}
 ## Image.RotateFlip method
 
 Memutar, membalik, atau memutar dan membalik gambar.
@@ -14,21 +15,21 @@ Memutar, membalik, atau memutar dan membalik gambar.
 public abstract void RotateFlip(RotateFlipType rotateFlipType)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| rotateFlipType | RotateFlipType | Jenis flip putar. |
+| rotateFlipType | RotateFlipType | Jenis rotasi flip. |
 
-### Contoh
+## Contoh
 
-Contoh ini mendemonstrasikan penggunaan operasi Putar pada gambar. Contoh memuat file gambar yang ada dari beberapa lokasi disk dan melakukan operasi Putar pada gambar sesuai dengan nilai Enum Aspose.PSD.RotateFlipType
+Contoh ini menunjukkan penggunaan operasi Rotate pada sebuah gambar. Contoh memuat file gambar yang ada dari lokasi disk tertentu dan melakukan operasi Rotate pada gambar sesuai nilai Enum Aspose.PSD.RotateFlipType
 
 ```csharp
 [C#]
 
-//Buat instance kelas gambar dan inisialisasi dengan file gambar yang ada melalui jalur File
+//Buat sebuah instance dari kelas image dan inisialisasi dengan file gambar yang ada melalui jalur File
 using (Aspose.PSD.Image image = Aspose.PSD.Image.Load(@"C:\temp\image.psd"))
 {
-    // Putar gambar 180 derajat terhadap sumbu X
+    //Putar gambar sebesar 180 derajat tentang sumbu X
     image.RotateFlip(Aspose.PSD.RotateFlipType.Rotate180FlipX);
 
     // simpan semua perubahan.
@@ -36,11 +37,11 @@ using (Aspose.PSD.Image image = Aspose.PSD.Image.Load(@"C:\temp\image.psd"))
 }
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * enum [RotateFlipType](../../rotatefliptype/)
 * class [Image](../)
-* ruang nama [Aspose.PSD](../../image/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,28 +1,29 @@
 ---
-title: TiffOptions.FaxT4Options
-second_title: Aspose.PSD untuk Referensi .NET API
-description: TiffOptions Properti. Mendapat atau menyetel opsi t4 faks.
+title: "TiffOptions.FaxT4Options"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti TiffOptions. Mendapatkan atau mengatur opsi fax t4"
 type: docs
-weight: 140
+weight: 150
 url: /id/net/aspose.psd.imageoptions/tiffoptions/faxt4options/
 ---
+{{< psd/tize >}}
 ## TiffOptions.FaxT4Options property
 
-Mendapat atau menyetel opsi t4 faks.
+Mendapatkan atau mengatur opsi fax t4.
 
 ```csharp
 public Group3Options FaxT4Options { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
-Opsi faks t4.
+Opsi fax t4.
 
-### Lihat juga
+### Lihat Juga
 
 * enum [Group3Options](../../../aspose.psd.fileformats.tiff.enums/group3options/)
 * class [TiffOptions](../)
-* ruang nama [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,55 +1,56 @@
 ---
-title: TimeFormat.Equals
-second_title: Aspose.PSD untuk Referensi .NET API
-description: TimeFormat metode. Menunjukkan apakah objek saat ini sama dengan objek lain dengan tipe yang sama.
+title: "TimeFormat.Equals"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "TimeFormat metode. Menunjukkan apakah objek saat ini sama dengan objek lain dari tipe yang sama"
 type: docs
 weight: 110
 url: /id/net/aspose.psd.xmp.schemas.xmpdm/timeformat/equals/
 ---
+{{< psd/tize >}}
 ## Equals(TimeFormat) {#equals}
 
-Menunjukkan apakah objek saat ini sama dengan objek lain dengan tipe yang sama.
+Menunjukkan apakah objek saat ini sama dengan objek lain dari tipe yang sama.
 
 ```csharp
 public bool Equals(TimeFormat other)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
 | other | TimeFormat | Objek untuk dibandingkan dengan objek ini. |
 
-### Nilai Pengembalian
+### Nilai Kembalian
 
-true jika objek saat ini sama dengan*other* parameter; jika tidak, false.
+true jika objek saat ini sama dengan parameter *other*; jika tidak, false.
 
-### Lihat juga
+### Lihat Juga
 
 * class [TimeFormat](../)
-* ruang nama [Aspose.PSD.Xmp.Schemas.XmpDm](../../timeformat/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpDm](../../../aspose.psd.xmp.schemas.xmpdm/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Equals(object) {#equals_1}
 
-Menentukan apakah yang ditentukanObject , sama dengan instance ini.
+Menentukan apakah Object yang ditentukan, sama dengan instance ini.
 
 ```csharp
 public override bool Equals(object obj)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| obj | Object | ItuObject untuk membandingkan dengan contoh ini. |
+| obj | Object | Object untuk dibandingkan dengan instance ini. |
 
-### Nilai Pengembalian
+### Nilai Kembalian
 
-`BENAR` jika ditentukanObject sama dengan contoh ini; jika tidak,`PALSU` .
+`true` jika Object yang ditentukan sama dengan instance ini; jika tidak, `false`.
 
-### Lihat juga
+### Lihat Juga
 
 * class [TimeFormat](../)
-* ruang nama [Aspose.PSD.Xmp.Schemas.XmpDm](../../timeformat/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpDm](../../../aspose.psd.xmp.schemas.xmpdm/)
+* assembly [Aspose.PSD](../../../)
 
 

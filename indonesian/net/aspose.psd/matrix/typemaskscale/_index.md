@@ -1,23 +1,24 @@
 ---
-title: Matrix.TypeMaskScale
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Matrix bidang. Konstanta ini adalah topeng bit untuk salah satu bit bendera skala.
+title: "Matrix.TypeMaskScale"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Bidang Matrix. Konstanta ini adalah bit mask untuk setiap bit flag skala."
 type: docs
 weight: 260
 url: /id/net/aspose.psd/matrix/typemaskscale/
 ---
+{{< psd/tize >}}
 ## Matrix.TypeMaskScale field
 
-Konstanta ini adalah topeng bit untuk salah satu bit bendera skala.
+Konstanta ini adalah bit mask untuk salah satu bita flag skala.
 
 ```csharp
 public const int TypeMaskScale;
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [Matrix](../)
-* ruang nama [Aspose.PSD](../../matrix/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

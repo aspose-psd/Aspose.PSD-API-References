@@ -1,23 +1,24 @@
 ---
-title: TiffOptions.TileByteCounts
-second_title: Aspose.PSD untuk Referensi .NET API
-description: TiffOptions Properti. Mendapat atau menyetel jumlah byte petak.
+title: "TiffOptions.TileByteCounts"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti TiffOptions. Mendapatkan atau mengatur jumlah byte ubin"
 type: docs
-weight: 520
+weight: 530
 url: /id/net/aspose.psd.imageoptions/tiffoptions/tilebytecounts/
 ---
+{{< psd/tize >}}
 ## TiffOptions.TileByteCounts property
 
-Mendapat atau menyetel jumlah byte petak.
+Mendapatkan atau mengatur jumlah byte ubin.
 
 ```csharp
 public uint[] TileByteCounts { get; set; }
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [TiffOptions](../)
-* ruang nama [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

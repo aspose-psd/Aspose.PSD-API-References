@@ -1,34 +1,35 @@
 ---
-title: TiffOptions.MaxSampleValue
-second_title: Aspose.PSD untuk Referensi .NET API
-description: TiffOptions Properti. Mendapat atau menetapkan nilai sampel maks.
+title: "TiffOptions.MaxSampleValue"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti TiffOptions. Mendapatkan atau mengatur nilai sampel maksimum"
 type: docs
-weight: 260
+weight: 270
 url: /id/net/aspose.psd.imageoptions/tiffoptions/maxsamplevalue/
 ---
+{{< psd/tize >}}
 ## TiffOptions.MaxSampleValue property
 
-Mendapat atau menetapkan nilai sampel maks.
+Mendapatkan atau mengatur nilai sampel maksimum.
 
 ```csharp
 public ushort[] MaxSampleValue { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
-Nilai sampel maks.
+Nilai sampel maksimum.
 
 ### Pengecualian
 
 | pengecualian | kondisi |
 | --- | --- |
 | ArgumentNullException | nilai |
-| ArgumentOutOfRangeException | value;Panjang larik harus sesuai dengan sampel per jumlah piksel. |
+| ArgumentOutOfRangeException | value;Panjang array harus sesuai dengan jumlah sampel per piksel. |
 
-### Lihat juga
+### Lihat Juga
 
 * class [TiffOptions](../)
-* ruang nama [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

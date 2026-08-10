@@ -1,14 +1,15 @@
 ---
-title: Class PsdLoadOptions
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Aspose.PSD.ImageLoadOptions.PsdLoadOptions kelas. Opsi pemuatan psd
+title: "Kelas PsdLoadOptions"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Kelas Aspose.PSD.ImageLoadOptions.PsdLoadOptions. Opsi pemuatan Psd"
 type: docs
-weight: 4770
+weight: 5250
 url: /id/net/aspose.psd.imageloadoptions/psdloadoptions/
 ---
+{{< psd/tize >}}
 ## PsdLoadOptions class
 
-Opsi pemuatan psd
+Psd opsi pemuatan
 
 ```csharp
 public class PsdLoadOptions : LoadOptions
@@ -16,29 +17,31 @@ public class PsdLoadOptions : LoadOptions
 
 ## Konstruktor
 
-| Nama | Keterangan |
+| Nama | Deskripsi |
 | --- | --- |
 | [PsdLoadOptions](psdloadoptions/)() | Konstruktor default. |
 
 ## Properti
 
-| Nama | Keterangan |
+| Nama | Deskripsi |
 | --- | --- |
-| [AllowWarpRepaint](../../aspose.psd.imageloadoptions/psdloadoptions/allowwarprepaint/) { get; set; } | Mendapatkan atau menyetel apakah akan menyimpan dengan gambar yang dirender, dengan atau tanpa transformasi warp. |
-| [BufferSizeHint](../../aspose.psd/loadoptions/buffersizehint/) { get; set; } | Mendapat atau menyetel petunjuk ukuran buffer yang ditentukan ukuran maksimum yang diizinkan untuk semua buffer internal. |
-| [DataBackgroundColor](../../aspose.psd/loadoptions/databackgroundcolor/) { get; set; } | Mendapat atau menyetel[`Image`](../../aspose.psd/image/) latar belakang[`Color`](../../aspose.psd/color/) . |
-| [DataRecoveryMode](../../aspose.psd/loadoptions/datarecoverymode/) { get; set; } | Mendapatkan atau menyetel mode pemulihan data. |
-| [IgnoreAlphaChannel](../../aspose.psd.imageloadoptions/psdloadoptions/ignorealphachannel/) { get; set; } | Mendapat atau menyetel nilai yang menunjukkan apakah [abaikan saluran alfa]. |
-| [IgnoreTextLayerWidthOnUpdate](../../aspose.psd.imageloadoptions/psdloadoptions/ignoretextlayerwidthonupdate/) { get; set; } | Mendapat atau menetapkan nilai yang menunjukkan apakah lebar tetap lapisan teks PSD akan diabaikan pada eksekusi operasi UpdateText. |
-| [LoadEffectsResource](../../aspose.psd.imageloadoptions/psdloadoptions/loadeffectsresource/) { get; set; } | Mendapat atau menetapkan nilai yang menunjukkan apakah [memuat sumber daya efek] (secara default sumber daya tidak dimuat). Saat menyetel opsi ini, hanya efek yang didukung yang akan dirender ke gambar gabungan akhir. |
-| [ProgressEventHandler](../../aspose.psd/loadoptions/progresseventhandler/) { get; set; } | Mendapat atau menyetel pengendali event progres. |
-| [ReadOnlyMode](../../aspose.psd.imageloadoptions/psdloadoptions/readonlymode/) { get; set; } | Mendapat atau menyetel nilai yang menunjukkan apakah [gunakan mode hanya baca]. Ini adalah mode hanya-baca, didukung untuk kompatibilitas yang identik dengan Adobe Photoshop. Saat opsi ini disetel, semua perubahan yang diterapkan untuk lapisan tidak akan disimpan ke gambar akhir. Semua data digunakan dari bagian ImageData, jadi identik dengan Photoshop. Secara default, semua gambar yang dimuat tidak identik dengan yang kompatibel dengan Adobe Photoshop. |
-| [UseDiskForLoadEffectsResource](../../aspose.psd.imageloadoptions/psdloadoptions/usediskforloadeffectsresource/) { get; set; } | Mendapat atau menetapkan nilai yang menunjukkan apakah [gunakan disk untuk memuat sumber daya efek] (secara default disk digunakan untuk memuat sumber daya efek, tetapi dapat digunakan memori jika cukup dengan menyetel nilai ini ke false). |
-| [UseIccProfileConversion](../../aspose.psd/loadoptions/useiccprofileconversion/) { get; set; } | Mendapat atau menetapkan nilai yang menunjukkan apakah konversi profil ICC harus diterapkan. |
+| [AllowNonChangedLayerRepaint](../../aspose.psd.imageloadoptions/psdloadoptions/allownonchangedlayerrepaint/) { get; set; } | Mendapatkan atau mengatur apakah mempertahankan piksel lapisan asli selama rendering jika lapisan tidak dimodifikasi. |
+| [AllowWarpRepaint](../../aspose.psd.imageloadoptions/psdloadoptions/allowwarprepaint/) { get; set; } | Mendapatkan atau mengatur apakah menyimpan dengan gambar yang dirender, dengan atau tanpa transformasi warp. |
+| [BufferSizeHint](../../aspose.psd/loadoptions/buffersizehint/) { get; set; } | Mendapatkan atau mengatur petunjuk ukuran buffer yang didefinisikan sebagai ukuran maksimum yang diizinkan untuk semua buffer internal. |
+| [DataBackgroundColor](../../aspose.psd/loadoptions/databackgroundcolor/) { get; set; } | Mendapatkan atau mengatur latar belakang [`Image`](../../aspose.psd/image/) [`Color`](../../aspose.psd/color/). |
+| [DataRecoveryMode](../../aspose.psd/loadoptions/datarecoverymode/) { get; set; } | Mendapatkan atau mengatur mode pemulihan data. |
+| [IgnoreAlphaChannel](../../aspose.psd.imageloadoptions/psdloadoptions/ignorealphachannel/) { get; set; } | Mendapatkan atau mengatur nilai yang menunjukkan apakah [ignore alpha channel]. |
+| [IgnoreTextLayerWidthOnUpdate](../../aspose.psd.imageloadoptions/psdloadoptions/ignoretextlayerwidthonupdate/) { get; set; } | Mendapatkan atau mengatur nilai yang menunjukkan apakah lebar tetap lapisan teks PSD akan diabaikan pada pelaksanaan operasi UpdateText. |
+| [LoadEffectsResource](../../aspose.psd.imageloadoptions/psdloadoptions/loadeffectsresource/) { get; set; } | Mendapatkan atau mengatur nilai yang menunjukkan apakah [load effects resource] (secara default sumber daya tidak dimuat). Ketika opsi ini diatur, hanya efek yang didukung yang akan dirender ke gambar gabungan akhir. |
+| [ProgressEventHandler](../../aspose.psd/loadoptions/progresseventhandler/) { get; set; } | Mendapatkan atau mengatur penangan acara kemajuan. |
+| [ReadOnlyMode](../../aspose.psd.imageloadoptions/psdloadoptions/readonlymode/) { get; set; } | Mendapatkan atau mengatur nilai yang menunjukkan apakah [use read only mode]. Ini adalah mode hanya-baca, didukung untuk kompatibilitas identik dengan Adobe Photoshop. Ketika opsi ini diatur, semua perubahan yang diterapkan pada lapisan tidak akan disimpan ke gambar akhir. Semua data diambil dari bagian ImageData, sehingga identik dengan Photoshop. Secara default semua gambar yang dimuat tidak identik dengan kompatibilitas Adobe Photoshop. |
+| [ReadOnlyType](../../aspose.psd.imageloadoptions/psdloadoptions/readonlytype/) { get; set; } | Mendapatkan atau mengatur mode hanya-baca yang digunakan saat memuat gambar PSD. |
+| [UseDiskForLoadEffectsResource](../../aspose.psd.imageloadoptions/psdloadoptions/usediskforloadeffectsresource/) { get; set; } | Mendapatkan atau mengatur nilai yang menunjukkan apakah [use disk for load effects resource] (secara default menggunakan disk untuk memuat sumber daya efek, tetapi dapat menggunakan memori jika cukup dengan mengatur nilai ini ke false). |
+| [UseIccProfileConversion](../../aspose.psd/loadoptions/useiccprofileconversion/) { get; set; } | Mendapatkan atau mengatur nilai yang menunjukkan apakah konversi profil ICC harus diterapkan. |
 
-### Contoh
+## Contoh
 
-Contoh berikut menunjukkan bahwa progres konversi dokumen bekerja dengan benar dan tanpa pengecualian.
+Contoh berikut menunjukkan bahwa kemajuan konversi dokumen berfungsi dengan benar dan tanpa pengecualian.
 
 ```csharp
 [C#]
@@ -82,10 +85,10 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath, loadOptions))
 }
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [LoadOptions](../../aspose.psd/loadoptions/)
-* ruang nama [Aspose.PSD.ImageLoadOptions](../../aspose.psd.imageloadoptions/)
-* perakitan [Aspose.PSD](../../)
+* namespace [Aspose.PSD.ImageLoadOptions](../../aspose.psd.imageloadoptions/)
+* assembly [Aspose.PSD](../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: LayerGroupsEnabledResource.MinimalVersion
-second_title: Aspose.PSD untuk Referensi .NET API
-description: LayerGroupsEnabledResource Properti. Mendapatkan versi PSD minimal yang diperlukan.
+title: "LayerGroupsEnabledResource.MinimalVersion"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "LayerGroupsEnabledResource properti. Mendapatkan versi PSD minimal yang diperlukan"
 type: docs
 weight: 40
 url: /id/net/aspose.psd.fileformats.psd.resources/layergroupsenabledresource/minimalversion/
 ---
+{{< psd/tize >}}
 ## LayerGroupsEnabledResource.MinimalVersion property
 
 Mendapatkan versi PSD minimal yang diperlukan.
@@ -14,14 +15,14 @@ Mendapatkan versi PSD minimal yang diperlukan.
 public override int MinimalVersion { get; }
 ```
 
-### Nilai properti
+### Property Value
 
 Versi PSD minimal.
 
-### Lihat juga
+### Lihat Juga
 
 * class [LayerGroupsEnabledResource](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Resources](../../layergroupsenabledresource/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

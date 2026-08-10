@@ -1,27 +1,28 @@
 ---
-title: RasterImage.RawLineSize
-second_title: Aspose.PSD untuk Referensi .NET API
-description: RasterImage Properti. Mendapat ukuran garis mentah dalam byte.
+title: "RasterImage.RawLineSize"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti RasterImage. Mendapatkan ukuran baris mentah dalam byte"
 type: docs
 weight: 120
 url: /id/net/aspose.psd/rasterimage/rawlinesize/
 ---
+{{< psd/tize >}}
 ## RasterImage.RawLineSize property
 
-Mendapat ukuran garis mentah dalam byte.
+Mendapatkan ukuran baris mentah dalam byte.
 
 ```csharp
 public virtual int RawLineSize { get; }
 ```
 
-### Nilai properti
+### Property Value
 
-Ukuran garis mentah dalam byte.
+Ukuran baris mentah dalam byte.
 
-### Lihat juga
+### Lihat Juga
 
 * class [RasterImage](../)
-* ruang nama [Aspose.PSD](../../rasterimage/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: Class SmallRectangularFilterOptions
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Aspose.PSD.ImageFilters.FilterOptions.SmallRectangularFilterOptions kelas. Opsi filter persegi panjang kecil
+title: "Kelas SmallRectangularFilterOptions"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Kelas Aspose.PSD.ImageFilters.FilterOptions.SmallRectangularFilterOptions. Opsi filter persegi panjang kecil"
 type: docs
-weight: 4750
+weight: 5220
 url: /id/net/aspose.psd.imagefilters.filteroptions/smallrectangularfilteroptions/
 ---
+{{< psd/tize >}}
 ## SmallRectangularFilterOptions class
 
 Opsi filter persegi panjang kecil
@@ -16,14 +17,14 @@ public class SmallRectangularFilterOptions : FilterOptionsBase
 
 ## Konstruktor
 
-| Nama | Keterangan |
+| Nama | Deskripsi |
 | --- | --- |
 | [SmallRectangularFilterOptions](smallrectangularfilteroptions/)() | Konstruktor default. |
 
-### Lihat juga
+### Lihat Juga
 
 * class [FilterOptionsBase](../filteroptionsbase/)
-* ruang nama [Aspose.PSD.ImageFilters.FilterOptions](../../aspose.psd.imagefilters.filteroptions/)
-* perakitan [Aspose.PSD](../../)
+* namespace [Aspose.PSD.ImageFilters.FilterOptions](../../aspose.psd.imagefilters.filteroptions/)
+* assembly [Aspose.PSD](../../)
 
 

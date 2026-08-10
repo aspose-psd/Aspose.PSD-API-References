@@ -1,27 +1,28 @@
 ---
-title: StreamContainer.IsStreamDisposedOnClose
-second_title: Aspose.PSD untuk Referensi .NET API
-description: StreamContainer Properti. Mendapat nilai yang menunjukkan apakah aliran ini dibuang pada penutupan.
+title: "StreamContainer.IsStreamDisposedOnClose"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti StreamContainer. Mendapatkan nilai yang menunjukkan apakah aliran ini dibuang saat ditutup"
 type: docs
 weight: 50
 url: /id/net/aspose.psd/streamcontainer/isstreamdisposedonclose/
 ---
+{{< psd/tize >}}
 ## StreamContainer.IsStreamDisposedOnClose property
 
-Mendapat nilai yang menunjukkan apakah aliran ini dibuang pada penutupan.
+Mendapatkan nilai yang menunjukkan apakah aliran ini dibuang saat ditutup.
 
 ```csharp
 public virtual bool IsStreamDisposedOnClose { get; }
 ```
 
-### Nilai properti
+### Property Value
 
-`BENAR` jika aliran dibuang di dekat; jika tidak,`PALSU`.
+`true` jika aliran dibuang saat ditutup; jika tidak, `false`.
 
-### Lihat juga
+### Lihat Juga
 
 * class [StreamContainer](../)
-* ruang nama [Aspose.PSD](../../streamcontainer/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

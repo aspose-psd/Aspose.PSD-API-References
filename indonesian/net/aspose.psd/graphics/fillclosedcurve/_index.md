@@ -1,191 +1,192 @@
 ---
-title: Graphics.FillClosedCurve
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Graphics metode. Mengisi bagian dalam kurva spline kardinal tertutup yang ditentukan oleh larikPointF struktur. Metode ini menggunakan tegangan default 05 danAlternate isi mode.
+title: "Graphics.FillClosedCurve"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode Graphics. Mengisi bagian dalam kurva spline kardinal tertutup yang didefinisikan oleh array struktur PointF. Metode ini menggunakan ketegangan default 0,5 dan mode isi Alternate."
 type: docs
-weight: 340
+weight: 350
 url: /id/net/aspose.psd/graphics/fillclosedcurve/
 ---
+{{< psd/tize >}}
 ## FillClosedCurve(Brush, PointF[]) {#fillclosedcurve}
 
-Mengisi bagian dalam kurva spline kardinal tertutup yang ditentukan oleh larik[`PointF`](../../pointf/) struktur. Metode ini menggunakan tegangan default 0,5 danAlternate isi mode.
+Mengisi bagian dalam kurva spline kardinal tertutup yang didefinisikan oleh array struktur [`PointF`](../../pointf/). Metode ini menggunakan ketegangan default 0,5 dan mode isi Alternate.
 
 ```csharp
 public void FillClosedCurve(Brush brush, PointF[] points)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| brush | Brush | [`Brush`](../../brush/)yang menentukan karakteristik isian. |
-| points | PointF[] | Susunan dari[`PointF`](../../pointf/) struktur yang menentukan spline. |
+| brush | Brush | [`Brush`](../../brush/) yang menentukan karakteristik pengisian. |
+| points | PointF[] | Array struktur [`PointF`](../../pointf/) yang mendefinisikan spline. |
 
 ### Pengecualian
 
 | pengecualian | kondisi |
 | --- | --- |
-| ArgumentNullException | *brush* adalah null. -atau- *points* adalah nol. |
+| ArgumentNullException | *brush* bernilai null. -atau- *points* bernilai null. |
 
-### Lihat juga
+### Lihat Juga
 
 * class [Brush](../../brush/)
 * struct [PointF](../../pointf/)
 * class [Graphics](../)
-* ruang nama [Aspose.PSD](../../graphics/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## FillClosedCurve(Brush, PointF[], FillMode) {#fillclosedcurve_1}
 
-Mengisi bagian dalam kurva spline kardinal tertutup yang ditentukan oleh larik[`PointF`](../../pointf/) struktur menggunakan mode pengisian yang ditentukan. Metode ini menggunakan tegangan default 0.5.
+Mengisi bagian dalam kurva spline kardinal tertutup yang didefinisikan oleh array struktur [`PointF`](../../pointf/) menggunakan mode isi yang ditentukan. Metode ini menggunakan ketegangan default 0,5.
 
 ```csharp
 public void FillClosedCurve(Brush brush, PointF[] points, FillMode fillmode)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| brush | Brush | [`Brush`](../../brush/)yang menentukan karakteristik isian. |
-| points | PointF[] | Susunan dari[`PointF`](../../pointf/) struktur yang menentukan spline. |
-| fillmode | FillMode | Anggota dari[`FillMode`](../../fillmode/) pencacahan yang menentukan bagaimana kurva diisi. |
+| brush | Brush | [`Brush`](../../brush/) yang menentukan karakteristik pengisian. |
+| points | PointF[] | Array struktur [`PointF`](../../pointf/) yang mendefinisikan spline. |
+| fillmode | FillMode | Anggota enumerasi [`FillMode`](../../fillmode/) yang menentukan bagaimana kurva diisi. |
 
 ### Pengecualian
 
 | pengecualian | kondisi |
 | --- | --- |
-| ArgumentNullException | *brush* adalah null. -atau- *points* adalah nol. |
+| ArgumentNullException | *brush* bernilai null. -atau- *points* bernilai null. |
 
-### Lihat juga
+### Lihat Juga
 
 * class [Brush](../../brush/)
 * struct [PointF](../../pointf/)
 * enum [FillMode](../../fillmode/)
 * class [Graphics](../)
-* ruang nama [Aspose.PSD](../../graphics/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## FillClosedCurve(Brush, PointF[], FillMode, float) {#fillclosedcurve_2}
 
-Mengisi bagian dalam kurva spline kardinal tertutup yang ditentukan oleh larik[`PointF`](../../pointf/) struktur menggunakan mode pengisian dan ketegangan yang ditentukan.
+Mengisi bagian dalam kurva spline kardinal tertutup yang didefinisikan oleh array struktur [`PointF`](../../pointf/) menggunakan mode isi dan ketegangan yang ditentukan.
 
 ```csharp
 public void FillClosedCurve(Brush brush, PointF[] points, FillMode fillmode, float tension)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| brush | Brush | A[`Brush`](../../brush/)yang menentukan karakteristik isian. |
-| points | PointF[] | Susunan dari[`PointF`](../../pointf/) struktur yang menentukan spline. |
-| fillmode | FillMode | Anggota dari[`FillMode`](../../fillmode/) pencacahan yang menentukan bagaimana kurva diisi. |
-| tension | Single | Nilai lebih besar dari atau sama dengan 0,0F yang menentukan tegangan kurva. |
+| brush | Brush | Sebuah [`Brush`](../../brush/) yang menentukan karakteristik pengisian. |
+| points | PointF[] | Array struktur [`PointF`](../../pointf/) yang mendefinisikan spline. |
+| fillmode | FillMode | Anggota enumerasi [`FillMode`](../../fillmode/) yang menentukan bagaimana kurva diisi. |
+| tegangan | Single | Nilai yang lebih besar atau sama dengan 0,0F yang menentukan ketegangan kurva. |
 
 ### Pengecualian
 
 | pengecualian | kondisi |
 | --- | --- |
-| ArgumentNullException | *brush* adalah null. -atau- *points* adalah nol. |
+| ArgumentNullException | *brush* bernilai null. -atau- *points* bernilai null. |
 
-### Lihat juga
+### Lihat Juga
 
 * class [Brush](../../brush/)
 * struct [PointF](../../pointf/)
 * enum [FillMode](../../fillmode/)
 * class [Graphics](../)
-* ruang nama [Aspose.PSD](../../graphics/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## FillClosedCurve(Brush, Point[]) {#fillclosedcurve_3}
 
-Mengisi bagian dalam kurva spline kardinal tertutup yang ditentukan oleh larik[`Point`](../../point/) struktur. Metode ini menggunakan tegangan default 0,5 danAlternate isi mode.
+Mengisi bagian dalam kurva spline kardinal tertutup yang didefinisikan oleh array struktur [`Point`](../../point/). Metode ini menggunakan ketegangan default 0,5 dan mode isi Alternate.
 
 ```csharp
 public void FillClosedCurve(Brush brush, Point[] points)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| brush | Brush | [`Brush`](../../brush/)yang menentukan karakteristik isian. |
-| points | Point[] | Susunan dari[`Point`](../../point/) struktur yang menentukan spline. |
+| brush | Brush | [`Brush`](../../brush/) yang menentukan karakteristik pengisian. |
+| points | Point[] | Array struktur [`Point`](../../point/) yang mendefinisikan spline. |
 
 ### Pengecualian
 
 | pengecualian | kondisi |
 | --- | --- |
-| ArgumentNullException | *brush* adalah null. -atau- *points* adalah nol. |
+| ArgumentNullException | *brush* bernilai null. -atau- *points* bernilai null. |
 
-### Lihat juga
+### Lihat Juga
 
 * class [Brush](../../brush/)
 * struct [Point](../../point/)
 * class [Graphics](../)
-* ruang nama [Aspose.PSD](../../graphics/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## FillClosedCurve(Brush, Point[], FillMode) {#fillclosedcurve_4}
 
-Mengisi bagian dalam kurva spline kardinal tertutup yang ditentukan oleh larik[`Point`](../../point/) struktur menggunakan mode pengisian yang ditentukan. Metode ini menggunakan tegangan default 0.5.
+Mengisi bagian dalam kurva spline kardinal tertutup yang didefinisikan oleh array struktur [`Point`](../../point/) menggunakan mode isi yang ditentukan. Metode ini menggunakan ketegangan default 0,5.
 
 ```csharp
 public void FillClosedCurve(Brush brush, Point[] points, FillMode fillmode)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| brush | Brush | [`Brush`](../../brush/)yang menentukan karakteristik isian. |
-| points | Point[] | Susunan dari[`Point`](../../point/) struktur yang menentukan spline. |
-| fillmode | FillMode | Anggota dari[`FillMode`](../../fillmode/) pencacahan yang menentukan bagaimana kurva diisi. |
+| brush | Brush | [`Brush`](../../brush/) yang menentukan karakteristik pengisian. |
+| points | Point[] | Array struktur [`Point`](../../point/) yang mendefinisikan spline. |
+| fillmode | FillMode | Anggota enumerasi [`FillMode`](../../fillmode/) yang menentukan bagaimana kurva diisi. |
 
 ### Pengecualian
 
 | pengecualian | kondisi |
 | --- | --- |
-| ArgumentNullException | *brush* adalah null. -atau- *points* adalah nol. |
+| ArgumentNullException | *brush* bernilai null. -atau- *points* bernilai null. |
 
-### Lihat juga
+### Lihat Juga
 
 * class [Brush](../../brush/)
 * struct [Point](../../point/)
 * enum [FillMode](../../fillmode/)
 * class [Graphics](../)
-* ruang nama [Aspose.PSD](../../graphics/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## FillClosedCurve(Brush, Point[], FillMode, float) {#fillclosedcurve_5}
 
-Mengisi bagian dalam kurva spline kardinal tertutup yang ditentukan oleh larik[`Point`](../../point/) struktur menggunakan mode pengisian dan ketegangan yang ditentukan.
+Mengisi bagian dalam kurva spline kardinal tertutup yang didefinisikan oleh array struktur [`Point`](../../point/) menggunakan mode isi dan ketegangan yang ditentukan.
 
 ```csharp
 public void FillClosedCurve(Brush brush, Point[] points, FillMode fillmode, float tension)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| brush | Brush | [`Brush`](../../brush/)yang menentukan karakteristik isian. |
-| points | Point[] | Susunan dari[`Point`](../../point/) struktur yang menentukan spline. |
-| fillmode | FillMode | Anggota dari[`FillMode`](../../fillmode/) pencacahan yang menentukan bagaimana kurva diisi. |
-| tension | Single | Nilai lebih besar dari atau sama dengan 0,0F yang menentukan tegangan kurva. |
+| brush | Brush | [`Brush`](../../brush/) yang menentukan karakteristik pengisian. |
+| points | Point[] | Array struktur [`Point`](../../point/) yang mendefinisikan spline. |
+| fillmode | FillMode | Anggota enumerasi [`FillMode`](../../fillmode/) yang menentukan bagaimana kurva diisi. |
+| tegangan | Single | Nilai yang lebih besar atau sama dengan 0,0F yang menentukan ketegangan kurva. |
 
 ### Pengecualian
 
 | pengecualian | kondisi |
 | --- | --- |
-| ArgumentNullException | *brush* adalah null. -atau- *points* adalah nol. |
+| ArgumentNullException | *brush* bernilai null. -atau- *points* bernilai null. |
 
-### Lihat juga
+### Lihat Juga
 
 * class [Brush](../../brush/)
 * struct [Point](../../point/)
 * enum [FillMode](../../fillmode/)
 * class [Graphics](../)
-* ruang nama [Aspose.PSD](../../graphics/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,23 +1,24 @@
 ---
-title: TypeToolInfo6Resource.Signature
-second_title: Aspose.PSD untuk Referensi .NET API
-description: TypeToolInfo6Resource Properti. Mendapat tanda tangan sumber daya lapisan.
+title: "TypeToolInfo6Resource.Signature"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti TypeToolInfo6Resource. Mendapatkan tanda tangan sumber lapisan"
 type: docs
 weight: 120
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources/typetoolinfo6resource/signature/
 ---
+{{< psd/tize >}}
 ## TypeToolInfo6Resource.Signature property
 
-Mendapat tanda tangan sumber daya lapisan.
+Mendapatkan tanda tangan sumber daya lapisan.
 
 ```csharp
 public override int Signature { get; }
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [TypeToolInfo6Resource](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../typetoolinfo6resource/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

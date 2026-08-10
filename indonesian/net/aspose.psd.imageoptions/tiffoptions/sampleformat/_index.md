@@ -1,35 +1,36 @@
 ---
-title: TiffOptions.SampleFormat
-second_title: Aspose.PSD untuk Referensi .NET API
-description: TiffOptions Properti. Mendapat atau menyetel format sampel.
+title: "TiffOptions.SampleFormat"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "TiffOptions properti. Mendapatkan atau mengatur format sampel"
 type: docs
-weight: 390
+weight: 400
 url: /id/net/aspose.psd.imageoptions/tiffoptions/sampleformat/
 ---
+{{< psd/tize >}}
 ## TiffOptions.SampleFormat property
 
-Mendapat atau menyetel format sampel.
+Mendapatkan atau mengatur format sampel.
 
 ```csharp
 public TiffSampleFormats[] SampleFormat { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
-Format contoh.
+Format sampel.
 
 ### Pengecualian
 
 | pengecualian | kondisi |
 | --- | --- |
 | ArgumentNullException | nilai |
-| ArgumentOutOfRangeException | value;Panjang larik harus sesuai dengan sampel per jumlah piksel. |
+| ArgumentOutOfRangeException | value;Panjang array harus sesuai dengan jumlah sampel per piksel. |
 
-### Lihat juga
+### Lihat Juga
 
 * enum [TiffSampleFormats](../../../aspose.psd.fileformats.tiff.enums/tiffsampleformats/)
 * class [TiffOptions](../)
-* ruang nama [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

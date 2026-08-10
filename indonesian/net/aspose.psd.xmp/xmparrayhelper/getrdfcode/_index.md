@@ -1,26 +1,27 @@
 ---
-title: XmpArrayHelper.GetRdfCode
-second_title: Aspose.PSD untuk Referensi .NET API
-description: XmpArrayHelper metode. Mendapat kode RDF untuk spesifikXmpArrayType .
+title: "XmpArrayHelper.GetRdfCode"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode XmpArrayHelper. Mendapatkan kode RDF untuk XmpArrayType tertentu"
 type: docs
 weight: 10
 url: /id/net/aspose.psd.xmp/xmparrayhelper/getrdfcode/
 ---
+{{< psd/tize >}}
 ## XmpArrayHelper.GetRdfCode method
 
-Mendapat kode RDF untuk spesifik[`XmpArrayType`](../../xmparraytype/) .
+Mendapatkan kode RDF untuk [`XmpArrayType`](../../xmparraytype/) tertentu.
 
 ```csharp
 public static string GetRdfCode(XmpArrayType xmpArrayType)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| xmpArrayType | XmpArrayType | Jenis larik XMP. |
+| xmpArrayType | XmpArrayType | Tipe array XMP. |
 
-### Nilai Pengembalian
+### Nilai Kembalian
 
-Mengembalikan kode RDF untuk spesifik[`XmpArrayType`](../../xmparraytype/).
+Mengembalikan kode RDF untuk [`XmpArrayType`](../../xmparraytype/) tertentu.
 
 ### Pengecualian
 
@@ -28,11 +29,11 @@ Mengembalikan kode RDF untuk spesifik[`XmpArrayType`](../../xmparraytype/).
 | --- | --- |
 | [XmpException](../../../aspose.psd.coreexceptions/xmpexception/) | Pengecualian argumen enum tidak valid |
 
-### Lihat juga
+### Lihat Juga
 
 * enum [XmpArrayType](../../xmparraytype/)
 * class [XmpArrayHelper](../)
-* ruang nama [Aspose.PSD.Xmp](../../xmparrayhelper/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,32 +1,33 @@
 ---
-title: GraphicsPathExtensions.ToGdiGraphicsPath
-second_title: Aspose.PSD untuk Referensi .NET API
-description: GraphicsPathExtensions metode. MengubahGraphicsPath keGraphicsPath .
+title: "GraphicsPathExtensions.ToGdiGraphicsPath"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode GraphicsPathExtensions. Mengonversi GraphicsPath ke GraphicsPath"
 type: docs
 weight: 10
 url: /id/net/aspose.psd.extensions/graphicspathextensions/togdigraphicspath/
 ---
+{{< psd/tize >}}
 ## GraphicsPathExtensions.ToGdiGraphicsPath method
 
-Mengubah[`GraphicsPath`](../../../aspose.psd/graphicspath/) keGraphicsPath .
+Mengonversi [`GraphicsPath`](../../../aspose.psd/graphicspath/) ke GraphicsPath.
 
 ```csharp
 public static GraphicsPath ToGdiGraphicsPath(GraphicsPath graphicsPath)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| graphicsPath | GraphicsPath | Jalur grafis untuk dikonversi. |
+| graphicsPath | GraphicsPath | Jalur grafik untuk dikonversi. |
 
-### Nilai Pengembalian
+### Nilai Kembalian
 
-Yang dikonversiGraphicsPath.
+GraphicsPath yang dikonversi.
 
-### Lihat juga
+### Lihat Juga
 
 * class [GraphicsPath](../../../aspose.psd/graphicspath/)
 * class [GraphicsPathExtensions](../)
-* ruang nama [Aspose.PSD.Extensions](../../graphicspathextensions/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Extensions](../../../aspose.psd.extensions/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,23 +1,24 @@
 ---
-title: SmartFilter.Opacity
-second_title: Aspose.PSD untuk Referensi .NET API
-description: SmartFilter Properti. Mendapat atau mengatur nilai opacity dari smart filter.
+title: "SmartFilter.Opacity"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti SmartFilter. Mendapatkan atau mengatur nilai opasitas filter pintar"
 type: docs
 weight: 60
 url: /id/net/aspose.psd.fileformats.psd.layers.smartfilters/smartfilter/opacity/
 ---
+{{< psd/tize >}}
 ## SmartFilter.Opacity property
 
-Mendapat atau mengatur nilai opacity dari smart filter.
+Mendapatkan atau mengatur nilai opasitas filter pintar.
 
 ```csharp
 public double Opacity { get; set; }
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [SmartFilter](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.SmartFilters](../../smartfilter/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.SmartFilters](../../../aspose.psd.fileformats.psd.layers.smartfilters/)
+* assembly [Aspose.PSD](../../../)
 
 

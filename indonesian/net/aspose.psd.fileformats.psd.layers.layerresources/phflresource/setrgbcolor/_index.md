@@ -1,11 +1,12 @@
 ---
-title: PhflResource.SetRgbColor
-second_title: Aspose.PSD untuk Referensi .NET API
-description: PhflResource metode. Mengatur warna RGB.
+title: "PhflResource.SetRgbColor"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode PhflResource. Mengatur warna RGB"
 type: docs
-weight: 70
+weight: 50
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources/phflresource/setrgbcolor/
 ---
+{{< psd/tize >}}
 ## PhflResource.SetRgbColor method
 
 Mengatur warna RGB.
@@ -14,15 +15,15 @@ Mengatur warna RGB.
 public abstract void SetRgbColor(Color color)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| color | Color | Warna RGB. |
+| warna | Warna | Warna RGB. |
 
-### Lihat juga
+### Lihat Juga
 
 * struct [Color](../../../aspose.psd/color/)
 * class [PhflResource](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../phflresource/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

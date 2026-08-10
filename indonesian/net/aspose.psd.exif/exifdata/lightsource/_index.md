@@ -1,28 +1,29 @@
 ---
-title: ExifData.LightSource
-second_title: Aspose.PSD untuk Referensi .NET API
-description: ExifData Properti. Mendapat atau menyetel sumber cahaya.
+title: "ExifData.LightSource"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "ExifData properti. Mendapatkan atau mengatur sumber cahaya"
 type: docs
 weight: 770
 url: /id/net/aspose.psd.exif/exifdata/lightsource/
 ---
+{{< psd/tize >}}
 ## ExifData.LightSource property
 
-Mendapat atau menyetel sumber cahaya.
+Mendapatkan atau mengatur sumber cahaya.
 
 ```csharp
 public ExifLightSource LightSource { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
 Sumber cahaya.
 
-### Lihat juga
+### Lihat Juga
 
 * enum [ExifLightSource](../../../aspose.psd.exif.enums/exiflightsource/)
 * class [ExifData](../)
-* ruang nama [Aspose.PSD.Exif](../../exifdata/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

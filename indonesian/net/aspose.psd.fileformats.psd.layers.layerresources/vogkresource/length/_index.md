@@ -1,11 +1,12 @@
 ---
-title: VogkResource.Length
-second_title: Aspose.PSD untuk Referensi .NET API
-description: VogkResource Properti. Mendapatkan panjang sumber daya lapisan dalam byte.
+title: "VogkResource.Length"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "VogkResource properti. Mendapatkan panjang sumber lapisan dalam byte"
 type: docs
-weight: 30
+weight: 20
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources/vogkresource/length/
 ---
+{{< psd/tize >}}
 ## VogkResource.Length property
 
 Mendapatkan panjang sumber daya lapisan dalam byte.
@@ -14,7 +15,7 @@ Mendapatkan panjang sumber daya lapisan dalam byte.
 public override int Length { get; }
 ```
 
-### Contoh
+## Contoh
 
 Contoh berikut menunjukkan dukungan sumber daya VogkResource.
 
@@ -59,7 +60,7 @@ using (var psdImage = (PsdImage)Image.Load(sourceFilePath))
         throw new Exception("VogkResource were read wrong.");
     }
 
-    // Mengedit
+    // Menyunting
     resource.ShapeOriginSettings = new[]
     {
         resource.ShapeOriginSettings[0],
@@ -70,10 +71,10 @@ using (var psdImage = (PsdImage)Image.Load(sourceFilePath))
 }
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [VogkResource](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../vogkresource/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

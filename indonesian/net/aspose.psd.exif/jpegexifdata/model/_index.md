@@ -1,27 +1,28 @@
 ---
-title: JpegExifData.Model
-second_title: Aspose.PSD untuk Referensi .NET API
-description: JpegExifData Properti. Mendapat atau menyetel model.
+title: "JpegExifData.Model"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti JpegExifData. Mendapatkan atau mengatur model"
 type: docs
 weight: 110
 url: /id/net/aspose.psd.exif/jpegexifdata/model/
 ---
+{{< psd/tize >}}
 ## JpegExifData.Model property
 
-Mendapat atau menyetel model.
+Mendapatkan atau mengatur model.
 
 ```csharp
 public string Model { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
-Modelnya.
+Model.
 
-### Lihat juga
+### Lihat Juga
 
 * class [JpegExifData](../)
-* ruang nama [Aspose.PSD.Exif](../../jpegexifdata/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

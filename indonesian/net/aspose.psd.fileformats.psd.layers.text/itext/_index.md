@@ -1,14 +1,15 @@
 ---
-title: Interface IText
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Aspose.PSD.FileFormats.Psd.Layers.Text.IText antarmuka. Antarmuka untuk Pengeditan Teks untuk Lapisan Teks
+title: "Antarmuka IText"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Antarmuka Aspose.PSD.FileFormats.Psd.Layers.Text.IText. Antarmuka untuk Penyuntingan Teks pada Lapisan Teks"
 type: docs
-weight: 3510
+weight: 3930
 url: /id/net/aspose.psd.fileformats.psd.layers.text/itext/
 ---
+{{< psd/tize >}}
 ## IText interface
 
-Antarmuka untuk Pengeditan Teks untuk Lapisan Teks
+Antarmuka untuk Penyuntingan Teks untuk Lapisan Teks
 
 ```csharp
 public interface IText
@@ -16,26 +17,26 @@ public interface IText
 
 ## Properti
 
-| Nama | Keterangan |
+| Nama | Deskripsi |
 | --- | --- |
-| [Items](../../aspose.psd.fileformats.psd.layers.text/itext/items/) { get; } | Mendapat item. |
-| [Text](../../aspose.psd.fileformats.psd.layers.text/itext/text/) { get; } | Mendapat teks. |
-| [TextOrientation](../../aspose.psd.fileformats.psd.layers.text/itext/textorientation/) { get; set; } | Mendapat atau mengatur orientasi teks. |
+| [Items](../../aspose.psd.fileformats.psd.layers.text/itext/items/) { get; } | Mendapatkan item. |
+| [Text](../../aspose.psd.fileformats.psd.layers.text/itext/text/) { get; } | Mendapatkan teks. |
+| [TextOrientation](../../aspose.psd.fileformats.psd.layers.text/itext/textorientation/) { get; set; } | Mendapatkan atau mengatur orientasi teks. |
 
 ## Metode
 
-| Nama | Keterangan |
+| Nama | Deskripsi |
 | --- | --- |
 | [AddPortion](../../aspose.psd.fileformats.psd.layers.text/itext/addportion/)(ITextPortion) | Menambahkan bagian teks ke akhir |
-| [InsertPortion](../../aspose.psd.fileformats.psd.layers.text/itext/insertportion/)(ITextPortion, int) | Menyisipkan[`ITextPortion`](../itextportion/) ke posisi yang ditentukan |
-| [ProducePortion](../../aspose.psd.fileformats.psd.layers.text/itext/produceportion/)() | Menghasilkan porsi baru dengan parameter default |
+| [InsertPortion](../../aspose.psd.fileformats.psd.layers.text/itext/insertportion/)(ITextPortion, int) | Menyisipkan [`ITextPortion`](../itextportion/) ke posisi yang ditentukan |
+| [ProducePortion](../../aspose.psd.fileformats.psd.layers.text/itext/produceportion/)() | Menghasilkan bagian baru dengan parameter default |
 | [ProducePortions](../../aspose.psd.fileformats.psd.layers.text/itext/produceportions/)(string[], ITextStyle, ITextParagraph) | Menghasilkan bagian baru dengan input atau parameter default. |
-| [RemovePortion](../../aspose.psd.fileformats.psd.layers.text/itext/removeportion/)(int) | Menghapus bagian dalam indeks yang ditentukan |
+| [RemovePortion](../../aspose.psd.fileformats.psd.layers.text/itext/removeportion/)(int) | Menghapus bagian pada indeks yang ditentukan |
 | [UpdateLayerData](../../aspose.psd.fileformats.psd.layers.text/itext/updatelayerdata/)() | Memperbarui data lapisan. |
 
-### Contoh
+## Contoh
 
-Contoh kode berikut menunjukkan bagian teks pengeditan dan gaya teksnya.
+Contoh kode berikut menunjukkan pengeditan bagian teks dan gaya teks mereka.
 
 ```csharp
 [C#]
@@ -58,7 +59,7 @@ using (var im = (PsdImage)Image.Load(filePath))
                 throw new Exception();
             }
 
-            // Memeriksa teks dari setiap bagian
+            // Memeriksa teks setiap bagian
             if (portions[0].Text != "Old " ||
                 portions[1].Text != "color" ||
                 portions[2].Text != " text\r" ||
@@ -68,7 +69,7 @@ using (var im = (PsdImage)Image.Load(filePath))
             }
 
             // Memeriksa data paragraf
-            // Paragraf memiliki justifikasi yang berbeda
+            // Paragraf memiliki perataan yang berbeda
             if (
                 (int)portions[0].Paragraph.Justification != 0 ||
                 (int)portions[1].Paragraph.Justification != 0 ||
@@ -78,7 +79,7 @@ using (var im = (PsdImage)Image.Load(filePath))
                 throw new Exception();
             }
 
-            // Semua properti lain dari paragraf pertama dan kedua adalah sama
+            // Semua properti lain dari paragraf pertama dan kedua sama
             for (int j = 0; j < portions.Length; j++)
             {
                 var paragraph = portions[j].Paragraph;
@@ -102,7 +103,7 @@ using (var im = (PsdImage)Image.Load(filePath))
                     Math.Abs(paragraph.LetterSpacing[0]) > Tolerance ||
                     Math.Abs(paragraph.LetterSpacing[1]) > Tolerance ||
                     Math.Abs(paragraph.LetterSpacing[2]) > Tolerance ||
-                    paragraph.LeadingType != LeadingMode.Auto ||
+                    paragraph.LeadingType != LeadingType.BottomToBottom ||
                     paragraph.PreHyphen != 2 ||
                     paragraph.PostHyphen != 2 ||
                     Math.Abs(paragraph.SpaceBefore) > Tolerance ||
@@ -165,18 +166,18 @@ using (var im = (PsdImage)Image.Load(filePath))
 
             portions = layer.TextData.Items;
 
-            // Contoh paragraf dan pengeditan gaya untuk bagian
-            // Tetapkan pembenaran yang benar
+            // Contoh pengeditan paragraf dan gaya untuk bagian-bagian
+            // Atur perataan kanan
             portions[0].Paragraph.Justification = JustificationMode.Right;
             portions[1].Paragraph.Justification = JustificationMode.Right;
             portions[2].Paragraph.Justification = JustificationMode.Right;
 
-            // Warna berbeda untuk setiap gaya. Itu akan diubah, tetapi rendering tidak sepenuhnya didukung
+            // Warna berbeda untuk setiap gaya. Akan diubah, tetapi rendering tidak sepenuhnya didukung.
             portions[0].Style.FillColor = Color.Aquamarine;
             portions[1].Style.FillColor = Color.Violet;
             portions[2].Style.FillColor = Color.LightBlue;
 
-            // Huruf berbeda. Itu akan diubah, tetapi rendering tidak sepenuhnya didukung
+            // Font berbeda. Akan diubah, tetapi rendering tidak sepenuhnya didukung.
             portions[0].Style.FontSize = 6;
             portions[1].Style.FontSize = 8;
             portions[2].Style.FontSize = 10;
@@ -191,9 +192,9 @@ using (var im = (PsdImage)Image.Load(filePath))
 }
 ```
 
-### Lihat juga
+### Lihat Juga
 
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.Text](../../aspose.psd.fileformats.psd.layers.text/)
-* perakitan [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.Text](../../aspose.psd.fileformats.psd.layers.text/)
+* assembly [Aspose.PSD](../../)
 
 

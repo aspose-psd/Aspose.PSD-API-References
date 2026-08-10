@@ -1,11 +1,12 @@
 ---
-title: TiffOptionsUtils.GetValidTagsCount
-second_title: Aspose.PSD untuk Referensi .NET API
-description: TiffOptionsUtils metode. Mendapatkan jumlah tag yang valid.
+title: "TiffOptionsUtils.GetValidTagsCount"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode TiffOptionsUtils. Mendapatkan jumlah tag yang valid."
 type: docs
 weight: 20
 url: /id/net/aspose.psd.imageoptions/tiffoptionsutils/getvalidtagscount/
 ---
+{{< psd/tize >}}
 ## TiffOptionsUtils.GetValidTagsCount method
 
 Mendapatkan jumlah tag yang valid.
@@ -14,19 +15,19 @@ Mendapatkan jumlah tag yang valid.
 public static int GetValidTagsCount(TiffDataType[] tags)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| tags | TiffDataType[] | Tag untuk memvalidasi. |
+| tag | TiffDataType[] | Tag yang akan divalidasi. |
 
-### Nilai Pengembalian
+### Nilai Kembalian
 
 Jumlah tag yang valid.
 
-### Lihat juga
+### Lihat Juga
 
 * class [TiffDataType](../../../aspose.psd.fileformats.tiff/tiffdatatype/)
 * class [TiffOptionsUtils](../)
-* ruang nama [Aspose.PSD.ImageOptions](../../tiffoptionsutils/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

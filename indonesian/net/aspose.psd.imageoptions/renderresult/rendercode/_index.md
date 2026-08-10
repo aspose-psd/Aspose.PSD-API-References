@@ -1,24 +1,25 @@
 ---
-title: RenderResult.RenderCode
-second_title: Aspose.PSD untuk Referensi .NET API
-description: RenderResult Properti. Mendapat atau menyetel kode kesalahan
+title: "RenderResult.RenderCode"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti RenderResult. Mendapatkan atau mengatur kode kesalahan"
 type: docs
 weight: 30
 url: /id/net/aspose.psd.imageoptions/renderresult/rendercode/
 ---
+{{< psd/tize >}}
 ## RenderResult.RenderCode property
 
-Mendapat atau menyetel kode kesalahan
+Mendapatkan atau mengatur kode kesalahan
 
 ```csharp
 public RenderErrorCode RenderCode { get; set; }
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * enum [RenderErrorCode](../../rendererrorcode/)
 * class [RenderResult](../)
-* ruang nama [Aspose.PSD.ImageOptions](../../renderresult/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: LangAlt.AddLanguage
-second_title: Aspose.PSD untuk Referensi .NET API
-description: LangAlt metode. Menambahkan bahasa.
+title: "LangAlt.AddLanguage"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode LangAlt. Menambahkan bahasa"
 type: docs
 weight: 20
 url: /id/net/aspose.psd.xmp/langalt/addlanguage/
 ---
+{{< psd/tize >}}
 ## LangAlt.AddLanguage method
 
 Menambahkan bahasa.
@@ -14,15 +15,15 @@ Menambahkan bahasa.
 public virtual void AddLanguage(string language, string value)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| language | String | Bahasa. |
-| value | String | Nilai bahasa. |
+| bahasa | String | Bahasa. |
+| nilai | String | Nilai bahasa. |
 
-### Lihat juga
+### Lihat Juga
 
 * class [LangAlt](../)
-* ruang nama [Aspose.PSD.Xmp](../../langalt/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

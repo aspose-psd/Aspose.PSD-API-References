@@ -1,11 +1,12 @@
 ---
-title: UnknownResource.Length
-second_title: Aspose.PSD untuk Referensi .NET API
-description: UnknownResource Properti. Mendapatkan panjang sumber daya lapisan dalam byte.
+title: "UnknownResource.Length"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti UnknownResource. Mendapatkan panjang sumber lapisan dalam byte"
 type: docs
-weight: 40
+weight: 30
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources/unknownresource/length/
 ---
+{{< psd/tize >}}
 ## UnknownResource.Length property
 
 Mendapatkan panjang sumber daya lapisan dalam byte.
@@ -14,10 +15,10 @@ Mendapatkan panjang sumber daya lapisan dalam byte.
 public override int Length { get; }
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [UnknownResource](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../unknownresource/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

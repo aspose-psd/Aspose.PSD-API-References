@@ -1,11 +1,12 @@
 ---
-title: DublinCorePackage.SetDescription
-second_title: Aspose.PSD untuk Referensi .NET API
-description: DublinCorePackage metode. Menambahkan deskripsi.
+title: "DublinCorePackage.SetDescription"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode DublinCorePackage. Menambahkan deskripsi"
 type: docs
 weight: 40
 url: /id/net/aspose.psd.xmp.schemas.dublincore/dublincorepackage/setdescription/
 ---
+{{< psd/tize >}}
 ## SetDescription(string) {#setdescription_1}
 
 Menambahkan deskripsi.
@@ -14,15 +15,15 @@ Menambahkan deskripsi.
 public void SetDescription(string desc)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| desc | String | Deskripsi. |
+| deskripsi | String | Deskripsi. |
 
-### Lihat juga
+### Lihat Juga
 
 * class [DublinCorePackage](../)
-* ruang nama [Aspose.PSD.Xmp.Schemas.DublinCore](../../dublincorepackage/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.DublinCore](../../../aspose.psd.xmp.schemas.dublincore/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
@@ -34,15 +35,15 @@ Menambahkan deskripsi.
 public void SetDescription(LangAlt desc)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| desc | LangAlt | Deskripsi. |
+| deskripsi | LangAlt | Deskripsi. |
 
-### Lihat juga
+### Lihat Juga
 
 * class [LangAlt](../../../aspose.psd.xmp/langalt/)
 * class [DublinCorePackage](../)
-* ruang nama [Aspose.PSD.Xmp.Schemas.DublinCore](../../dublincorepackage/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.DublinCore](../../../aspose.psd.xmp.schemas.dublincore/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: TiffStreamWriter.WriteSShort
-second_title: Aspose.PSD untuk Referensi .NET API
-description: TiffStreamWriter metode. Menulis satu nilai singkat ke aliran.
+title: "TiffStreamWriter.WriteSShort"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "TiffStreamWriter metode. Menulis satu nilai short ke aliran"
 type: docs
 weight: 170
 url: /id/net/aspose.psd.fileformats.tiff.filemanagement/tiffstreamwriter/writesshort/
 ---
+{{< psd/tize >}}
 ## TiffStreamWriter.WriteSShort method
 
-Menulis satu nilai singkat ke aliran.
+Menulis satu nilai short ke aliran.
 
 ```csharp
 public void WriteSShort(short data)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| data | Int16 | Nilai untuk menulis. |
+| data | Int16 | Nilai yang akan ditulis. |
 
-### Lihat juga
+### Lihat Juga
 
 * class [TiffStreamWriter](../)
-* ruang nama [Aspose.PSD.FileFormats.Tiff.FileManagement](../../tiffstreamwriter/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff.FileManagement](../../../aspose.psd.fileformats.tiff.filemanagement/)
+* assembly [Aspose.PSD](../../../)
 
 

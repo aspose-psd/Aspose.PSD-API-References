@@ -1,27 +1,28 @@
 ---
-title: StreamContainer.Length
-second_title: Aspose.PSD untuk Referensi .NET API
-description: StreamContainer Properti. Mendapat atau menyetel panjang aliran dalam byte. Nilai ini kurang dariLengthdengan posisi aliran awal yang diteruskan dalam konstruktor StreamContainer.
+title: "StreamContainer.Length"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti StreamContainer. Mendapatkan atau mengatur panjang aliran dalam byte. Nilai ini lebih kecil dari Length sebesar posisi awal aliran yang diberikan pada konstruktor StreamContainer"
 type: docs
 weight: 60
 url: /id/net/aspose.psd/streamcontainer/length/
 ---
+{{< psd/tize >}}
 ## StreamContainer.Length property
 
-Mendapat atau menyetel panjang aliran dalam byte. Nilai ini kurang dariLengthdengan posisi aliran awal yang diteruskan dalam konstruktor StreamContainer.
+Mendapatkan atau mengatur panjang aliran dalam byte. Nilai ini kurang dari Length sebesar posisi awal aliran yang diberikan dalam konstruktor StreamContainer.
 
 ```csharp
 public virtual long Length { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
 Panjang aliran.
 
-### Lihat juga
+### Lihat Juga
 
 * class [StreamContainer](../)
-* ruang nama [Aspose.PSD](../../streamcontainer/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

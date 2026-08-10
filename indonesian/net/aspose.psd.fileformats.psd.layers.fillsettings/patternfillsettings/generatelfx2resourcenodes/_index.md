@@ -1,11 +1,12 @@
 ---
-title: PatternFillSettings.GenerateLfx2ResourceNodes
-second_title: Aspose.PSD untuk Referensi .NET API
-description: PatternFillSettings metode. Menghasilkan node sumber daya LFX2.
+title: "PatternFillSettings.GenerateLfx2ResourceNodes"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode PatternFillSettings. Menghasilkan node sumber daya LFX2"
 type: docs
-weight: 140
+weight: 160
 url: /id/net/aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings/generatelfx2resourcenodes/
 ---
+{{< psd/tize >}}
 ## PatternFillSettings.GenerateLfx2ResourceNodes method
 
 Menghasilkan node sumber daya LFX2.
@@ -15,27 +16,27 @@ public static IEnumerable<OSTypeStructure> GenerateLfx2ResourceNodes(string poin
     string patternName, string identifier, double scale, bool linked, PointF offset)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| pointType | String | Jenis titik. |
-| color | Color | Warna. |
+| pointType | String | Tipe titik. |
+| warna | Warna | Warna. |
 | patternName | String | Nama pola. |
 | identifier | String | Pengidentifikasi. |
 | scale | Double | Skala. |
-| linked | Boolean | jika diatur ke`BENAR` [ditautkan]. |
+| linked | Boolean | jika disetel ke `true` [linked]. |
 | offset | PointF | Offset. |
 
-### Nilai Pengembalian
+### Nilai Kembalian
 
-Daftar[`OSTypeStructure`](../../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/)
+Daftar [`OSTypeStructure`](../../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/)
 
-### Lihat juga
+### Lihat Juga
 
 * class [OSTypeStructure](../../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/)
 * struct [Color](../../../aspose.psd/color/)
 * struct [PointF](../../../aspose.psd/pointf/)
 * class [PatternFillSettings](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../patternfillsettings/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../../)
 
 

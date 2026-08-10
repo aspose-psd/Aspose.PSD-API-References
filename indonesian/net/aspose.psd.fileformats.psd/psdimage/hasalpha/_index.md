@@ -1,27 +1,28 @@
 ---
-title: PsdImage.HasAlpha
-second_title: Aspose.PSD untuk Referensi .NET API
-description: PsdImage Properti. Mendapat atau menyetel resolusi vertikal dalam piksel per inci dari iniRasterImage .
+title: "PsdImage.HasAlpha"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti PsdImage. Mendapatkan atau mengatur resolusi vertikal dalam piksel per inci dari RasterImage ini"
 type: docs
 weight: 140
 url: /id/net/aspose.psd.fileformats.psd/psdimage/hasalpha/
 ---
+{{< psd/tize >}}
 ## PsdImage.HasAlpha property
 
-Mendapat atau menyetel resolusi vertikal, dalam piksel per inci, dari ini[`RasterImage`](../../../aspose.psd/rasterimage/) .
+Mendapatkan atau mengatur resolusi vertikal, dalam piksel per inci, dari [`RasterImage`](../../../aspose.psd/rasterimage/).
 
 ```csharp
 public override bool HasAlpha { get; }
 ```
 
-### Nilai properti
+### Property Value
 
-`BENAR` jika instance ini memiliki alfa; jika tidak,`PALSU` .
+`true` jika instance ini memiliki alfa; jika tidak, `false`.
 
-### Lihat juga
+### Lihat Juga
 
 * class [PsdImage](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

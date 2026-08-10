@@ -1,28 +1,29 @@
 ---
-title: TiffOptions.SubFileType
-second_title: Aspose.PSD untuk Referensi .NET API
-description: TiffOptions Properti. Mendapat atau menetapkan indikasi umum dari jenis data yang terkandung dalam subfile ini.
+title: "TiffOptions.SubFileType"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti TiffOptions. Mendapatkan atau mengatur indikasi umum tentang jenis data yang terdapat dalam subfile ini"
 type: docs
-weight: 480
+weight: 490
 url: /id/net/aspose.psd.imageoptions/tiffoptions/subfiletype/
 ---
+{{< psd/tize >}}
 ## TiffOptions.SubFileType property
 
-Mendapat atau menetapkan indikasi umum dari jenis data yang terkandung dalam subfile ini.
+Mendapatkan atau mengatur indikasi umum tentang jenis data yang terdapat dalam subfile ini.
 
 ```csharp
 public TiffNewSubFileTypes SubFileType { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
-Indikasi umum dari jenis data yang terkandung dalam subfile ini.
+Indikasi umum tentang jenis data yang terdapat dalam subfile ini.
 
-### Lihat juga
+### Lihat Juga
 
 * enum [TiffNewSubFileTypes](../../../aspose.psd.fileformats.tiff.enums/tiffnewsubfiletypes/)
 * class [TiffOptions](../)
-* ruang nama [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

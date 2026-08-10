@@ -1,14 +1,15 @@
 ---
-title: Enum GradientType
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Aspose.PSD.FileFormats.Psd.Layers.FillSettings.GradientType enum. Jenis gradien
+title: "Enum GradientType"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Aspose.PSD.FileFormats.Psd.Layers.FillSettings.GradientType enum. Tipe gradien"
 type: docs
-weight: 1980
+weight: 2100
 url: /id/net/aspose.psd.fileformats.psd.layers.fillsettings/gradienttype/
 ---
+{{< psd/tize >}}
 ## GradientType enumeration
 
-Jenis gradien
+Tipe Gradien
 
 ```csharp
 public enum GradientType
@@ -16,18 +17,18 @@ public enum GradientType
 
 ### Nilai
 
-| Nama | Nilai | Keterangan |
+| Nama | Nilai | Deskripsi |
 | --- | --- | --- |
-| Linear | `0` | Jenis gradien linier |
-| Radial | `1` | Jenis gradien radial |
-| Angle | `2` | Jenis gradien sudut |
-| Reflected | `3` | Jenis gradien yang dipantulkan |
-| Diamond | `4` | Jenis gradien berlian |
-| ShapeBurst | `5` | Jenis gradien semburan bentuk |
+| Linear | `0` | Tipe gradien linear |
+| Radial | `1` | Tipe gradien radial |
+| Angle | `2` | Tipe gradien sudut |
+| Reflected | `3` | Tipe gradien terpantul |
+| Diamond | `4` | Tipe gradien berlian |
+| ShapeBurst | `5` | Tipe gradien bentuk ledakan |
 
-### Lihat juga
+### Lihat Juga
 
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../aspose.psd.fileformats.psd.layers.fillsettings/)
-* perakitan [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../)
 
 

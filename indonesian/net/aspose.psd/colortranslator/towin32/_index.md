@@ -1,11 +1,12 @@
 ---
-title: ColorTranslator.ToWin32
-second_title: Aspose.PSD untuk Referensi .NET API
-description: ColorTranslator metode. Menerjemahkan warna ke warna win32.
+title: "ColorTranslator.ToWin32"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode ColorTranslator. Menerjemahkan warna ke warna win32"
 type: docs
 weight: 60
 url: /id/net/aspose.psd/colortranslator/towin32/
 ---
+{{< psd/tize >}}
 ## ColorTranslator.ToWin32 method
 
 Menerjemahkan warna ke warna win32.
@@ -14,19 +15,19 @@ Menerjemahkan warna ke warna win32.
 public static int ToWin32(Color c)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| c | Color | Warna. |
+| c | Warna | Warna. |
 
-### Nilai Pengembalian
+### Nilai Kembalian
 
 Warna win32.
 
-### Lihat juga
+### Lihat Juga
 
 * struct [Color](../../color/)
 * class [ColorTranslator](../)
-* ruang nama [Aspose.PSD](../../colortranslator/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

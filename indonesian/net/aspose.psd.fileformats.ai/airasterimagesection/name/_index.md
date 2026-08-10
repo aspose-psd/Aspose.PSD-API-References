@@ -1,27 +1,28 @@
 ---
-title: AiRasterImageSection.Name
-second_title: Aspose.PSD untuk Referensi .NET API
-description: AiRasterImageSection Properti. Mendapat nama gambar raster.
+title: "AiRasterImageSection.Name"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti AiRasterImageSection. Mendapatkan nama gambar raster"
 type: docs
 weight: 50
 url: /id/net/aspose.psd.fileformats.ai/airasterimagesection/name/
 ---
+{{< psd/tize >}}
 ## AiRasterImageSection.Name property
 
-Mendapat nama gambar raster.
+Mendapatkan nama gambar raster.
 
 ```csharp
 public string Name { get; }
 ```
 
-### Nilai properti
+### Property Value
 
 Nama gambar raster.
 
-### Lihat juga
+### Lihat Juga
 
 * class [AiRasterImageSection](../)
-* ruang nama [Aspose.PSD.FileFormats.Ai](../../airasterimagesection/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

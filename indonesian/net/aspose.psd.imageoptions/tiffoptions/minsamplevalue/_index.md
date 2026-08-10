@@ -1,34 +1,35 @@
 ---
-title: TiffOptions.MinSampleValue
-second_title: Aspose.PSD untuk Referensi .NET API
-description: TiffOptions Properti. Mendapat atau menyetel nilai sampel min.
+title: "TiffOptions.MinSampleValue"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti TiffOptions. Mendapatkan atau mengatur nilai sampel minimum"
 type: docs
-weight: 270
+weight: 280
 url: /id/net/aspose.psd.imageoptions/tiffoptions/minsamplevalue/
 ---
+{{< psd/tize >}}
 ## TiffOptions.MinSampleValue property
 
-Mendapat atau menyetel nilai sampel min.
+Mendapatkan atau mengatur nilai sampel minimum.
 
 ```csharp
 public ushort[] MinSampleValue { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
-Nilai sampel min.
+Nilai sampel minimum.
 
 ### Pengecualian
 
 | pengecualian | kondisi |
 | --- | --- |
 | ArgumentNullException | nilai |
-| ArgumentOutOfRangeException | value;Panjang larik harus sesuai dengan sampel per jumlah piksel. |
+| ArgumentOutOfRangeException | value;Panjang array harus sesuai dengan jumlah sampel per piksel. |
 
-### Lihat juga
+### Lihat Juga
 
 * class [TiffOptions](../)
-* ruang nama [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

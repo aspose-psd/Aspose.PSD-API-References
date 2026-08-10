@@ -1,27 +1,28 @@
 ---
-title: Color.ToString
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Color metode. Mengubah iniColor struktur ke string yang dapat dibaca manusia.
+title: "Color.ToString"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode Color. Mengonversi struktur Color ini menjadi string yang dapat dibaca manusia"
 type: docs
 weight: 1610
 url: /id/net/aspose.psd/color/tostring/
 ---
+{{< psd/tize >}}
 ## Color.ToString method
 
-Mengubah ini[`Color`](../) struktur ke string yang dapat dibaca manusia.
+Mengonversi struktur [`Color`](../) ini menjadi string yang dapat dibaca manusia.
 
 ```csharp
 public override string ToString()
 ```
 
-### Nilai Pengembalian
+### Nilai Kembalian
 
-Sebuah string yang merupakan nama dari ini[`Color`](../) , jika[`Color`](../) dibuat dari warna yang telah ditentukan dengan menggunakan salah satu dari[`FromName`](../fromname/) metode atau[`FromKnownColor`](../fromknowncolor/) metode; jika tidak, string yang terdiri dari nama komponen ARGB dan nilainya.
+String yang merupakan nama dari [`Color`](../) ini, jika [`Color`](../) dibuat dari warna yang telah ditentukan dengan menggunakan metode [`FromName`](../fromname/) atau metode [`FromKnownColor`](../fromknowncolor/); jika tidak, string yang terdiri dari nama komponen ARGB dan nilainya.
 
-### Lihat juga
+### Lihat Juga
 
 * struct [Color](../)
-* ruang nama [Aspose.PSD](../../color/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

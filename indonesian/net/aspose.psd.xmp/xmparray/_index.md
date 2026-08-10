@@ -1,14 +1,15 @@
 ---
-title: Class XmpArray
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Aspose.PSD.Xmp.XmpArray kelas. Mewakili Xmp Array diXmpPackage . TODO Larik mungkin berisi data kompleks.
+title: "Kelas XmpArray"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Kelas Aspose.PSD.Xmp.XmpArray. Mewakili Xmp Array dalam XmpPackage. TODO Array dapat berisi data kompleks"
 type: docs
-weight: 6210
+weight: 6710
 url: /id/net/aspose.psd.xmp/xmparray/
 ---
+{{< psd/tize >}}
 ## XmpArray class
 
-Mewakili Xmp Array di[`XmpPackage`](../xmppackage/) . TODO: Larik mungkin berisi data kompleks.
+Mewakili Xmp Array dalam [`XmpPackage`](../xmppackage/). TODO: Array dapat berisi data kompleks.
 
 ```csharp
 public class XmpArray : IXmlValue
@@ -16,29 +17,29 @@ public class XmpArray : IXmlValue
 
 ## Konstruktor
 
-| Nama | Keterangan |
+| Nama | Deskripsi |
 | --- | --- |
-| [XmpArray](xmparray/#constructor)(XmpArrayType) | Menginisialisasi instance baru dari`XmpArray` kelas. |
-| [XmpArray](xmparray/#constructor_1)(XmpArrayType, string[]) | Menginisialisasi instance baru dari`XmpArray` kelas. |
+| [XmpArray](xmparray/#constructor)(XmpArrayType) | Menginisialisasi instance baru dari kelas `XmpArray`. |
+| [XmpArray](xmparray/#constructor_1)(XmpArrayType, string[]) | Menginisialisasi instance baru dari kelas `XmpArray`. |
 
 ## Properti
 
-| Nama | Keterangan |
+| Nama | Deskripsi |
 | --- | --- |
-| [Values](../../aspose.psd.xmp/xmparray/values/) { get; } | Mendapat berbagai nilai di dalamnya`XmpArray` . |
+| [Values](../../aspose.psd.xmp/xmparray/values/) { get; } | Mendapatkan array nilai di dalam `XmpArray`. |
 
 ## Metode
 
-| Nama | Keterangan |
+| Nama | Deskripsi |
 | --- | --- |
 | [AddItem](../../aspose.psd.xmp/xmparray/additem/)(string) | Menambahkan item baru. |
-| [GetXmlValue](../../aspose.psd.xmp/xmparray/getxmlvalue/)() | Mengubah nilai XMP menjadi representasi XML. |
-| override [ToString](../../aspose.psd.xmp/xmparray/tostring/)() | Mengembalikan aString yang mewakili instance ini. |
+| [GetXmlValue](../../aspose.psd.xmp/xmparray/getxmlvalue/)() | Mengonversi nilai XMP ke representasi XML. |
+| override [ToString](../../aspose.psd.xmp/xmparray/tostring/)() | Mengembalikan String yang mewakili instance ini. |
 
-### Lihat juga
+### Lihat Juga
 
 * interface [IXmlValue](../ixmlvalue/)
-* ruang nama [Aspose.PSD.Xmp](../../aspose.psd.xmp/)
-* perakitan [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Xmp](../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../)
 
 

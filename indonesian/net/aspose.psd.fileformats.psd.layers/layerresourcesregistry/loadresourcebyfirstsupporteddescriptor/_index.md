@@ -1,37 +1,38 @@
 ---
-title: LayerResourcesRegistry.LoadResourceByFirstSupportedDescriptor
-second_title: Aspose.PSD untuk Referensi .NET API
-description: LayerResourcesRegistry metode. BanyakLayerResource menggunakan pembuka pertama yang ditemukan cocok untuk yang ditentukanstream .
+title: "LayerResourcesRegistry.LoadResourceByFirstSupportedDescriptor"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode LayerResourcesRegistry. Memuat LayerResource menggunakan pembuka pertama yang ditemukan yang cocok untuk aliran yang ditentukan."
 type: docs
 weight: 40
 url: /id/net/aspose.psd.fileformats.psd.layers/layerresourcesregistry/loadresourcebyfirstsupporteddescriptor/
 ---
+{{< psd/tize >}}
 ## LayerResourcesRegistry.LoadResourceByFirstSupportedDescriptor method
 
-Banyak[`LayerResource`](../../layerresource/) menggunakan pembuka pertama yang ditemukan cocok untuk yang ditentukan*stream* .
+Memuat [`LayerResource`](../../layerresource/) menggunakan pembuka pertama yang ditemukan yang cocok untuk *aliran* yang ditentukan.
 
 ```csharp
 public static LayerResource LoadResourceByFirstSupportedDescriptor(Stream stream, int psdVersion)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
 | stream | Stream | Aliran. |
 | psdVersion | Int32 | Versi PSD. |
 
-### Nilai Pengembalian
+### Nilai Kembalian
 
-Yang dimuat[`LayerResource`](../../layerresource/) atau null jika tidak ditemukan pembuka.
+[`LayerResource`](../../layerresource/) yang dimuat atau null jika tidak ada pembuka yang ditemukan.
 
-### Perkataan
+## Catatan
 
-Pembuka pertama sebenarnya adalah yang terakhir didaftarkan.
+Pembuka pertama sebenarnya akan menjadi yang terakhir terdaftar.
 
-### Lihat juga
+### Lihat Juga
 
 * class [LayerResource](../../layerresource/)
 * class [LayerResourcesRegistry](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers](../../layerresourcesregistry/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

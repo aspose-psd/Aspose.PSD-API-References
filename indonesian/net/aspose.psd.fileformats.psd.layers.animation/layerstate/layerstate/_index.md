@@ -1,27 +1,24 @@
 ---
-title: LayerState.LayerState
-second_title: Aspose.PSD untuk Referensi .NET API
-description: LayerState konstruktor. Menginisialisasi instance baru dariLayerState kelas.
+title: "LayerState.LayerState"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Konstruktor LayerState. Konstruktor default"
 type: docs
 weight: 10
 url: /id/net/aspose.psd.fileformats.psd.layers.animation/layerstate/layerstate/
 ---
+{{< psd/tize >}}
 ## LayerState constructor
 
-Menginisialisasi instance baru dari[`LayerState`](../) kelas.
+Konstruktor default.
 
 ```csharp
-public LayerState(int layerId)
+public LayerState()
 ```
 
-| Parameter | Jenis | Keterangan |
-| --- | --- | --- |
-| layerId | Int32 | Id untuk mengidentifikasi status Layer terkait. |
-
-### Lihat juga
+### Lihat Juga
 
 * class [LayerState](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.Animation](../../layerstate/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.Animation](../../../aspose.psd.fileformats.psd.layers.animation/)
+* assembly [Aspose.PSD](../../../)
 
 

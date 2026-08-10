@@ -1,27 +1,28 @@
 ---
-title: Layer.BlendModeSignature
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Layer Properti. Mendapat tanda tangan mode campuran.
+title: "Layer.BlendModeSignature"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti Layer. Mendapatkan tanda tangan mode campuran"
 type: docs
-weight: 50
+weight: 60
 url: /id/net/aspose.psd.fileformats.psd.layers/layer/blendmodesignature/
 ---
+{{< psd/tize >}}
 ## Layer.BlendModeSignature property
 
-Mendapat tanda tangan mode campuran.
+Mendapatkan tanda tangan mode pencampuran.
 
 ```csharp
 public int BlendModeSignature { get; }
 ```
 
-### Nilai properti
+### Property Value
 
 Tanda tangan mode campuran.
 
-### Lihat juga
+### Lihat Juga
 
 * class [Layer](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers](../../layer/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

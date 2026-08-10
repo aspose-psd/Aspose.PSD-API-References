@@ -1,11 +1,12 @@
 ---
-title: Enum FontBaseline
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Aspose.PSD.FileFormats.Psd.FontBaseline enum. Ini adalah garis dasar font.
+title: "Enum FontBaseline"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Aspose.PSD.FileFormats.Psd.FontBaseline enum. Ini adalah baseline font"
 type: docs
-weight: 1630
+weight: 1670
 url: /id/net/aspose.psd.fileformats.psd/fontbaseline/
 ---
+{{< psd/tize >}}
 ## FontBaseline enumeration
 
 Ini adalah garis dasar font.
@@ -16,15 +17,15 @@ public enum FontBaseline
 
 ### Nilai
 
-| Nama | Nilai | Keterangan |
+| Nama | Nilai | Deskripsi |
 | --- | --- | --- |
-| None | `0` | Tidak ada nilai dasar |
-| Superscript | `1` | Garis dasar superskrip. |
-| Subscript | `2` | Dasar langganan. |
+| None | `0` | Tidak ada nilai baseline |
+| Superscript | `1` | Baseline superskrip. |
+| Subscript | `2` | Baseline subskrip. |
 
-### Lihat juga
+### Lihat Juga
 
-* ruang nama [Aspose.PSD.FileFormats.Psd](../../aspose.psd.fileformats.psd/)
-* perakitan [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../)
 
 

@@ -1,28 +1,29 @@
 ---
-title: AiHeader.TemplateBox
-second_title: Aspose.PSD untuk Referensi .NET API
-description: AiHeader Properti. Mendapat atau menyetel kotak template.
+title: "AiHeader.TemplateBox"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "AiHeader properti. Mendapatkan atau mengatur kotak templat"
 type: docs
 weight: 100
 url: /id/net/aspose.psd.fileformats.ai/aiheader/templatebox/
 ---
+{{< psd/tize >}}
 ## AiHeader.TemplateBox property
 
-Mendapat atau menyetel kotak template.
+Mendapatkan atau mengatur kotak templat.
 
 ```csharp
 public RectangleF TemplateBox { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
-Kotak template.
+Kotak templat.
 
-### Lihat juga
+### Lihat Juga
 
 * struct [RectangleF](../../../aspose.psd/rectanglef/)
 * class [AiHeader](../)
-* ruang nama [Aspose.PSD.FileFormats.Ai](../../aiheader/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

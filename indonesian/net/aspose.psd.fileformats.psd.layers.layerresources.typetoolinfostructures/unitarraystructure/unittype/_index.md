@@ -1,24 +1,25 @@
 ---
-title: UnitArrayStructure.UnitType
-second_title: Aspose.PSD untuk Referensi .NET API
-description: UnitArrayStructure Properti. Mendapat atau menetapkan tipe satuan ukuran dariUnitArrayStructure nilai.
+title: "UnitArrayStructure.UnitType"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti UnitArrayStructure. Mengambil atau mengatur tipe unit ukuran dari nilai UnitArrayStructure"
 type: docs
 weight: 40
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/unitarraystructure/unittype/
 ---
+{{< psd/tize >}}
 ## UnitArrayStructure.UnitType property
 
-Mendapat atau menetapkan tipe satuan ukuran dari[`UnitArrayStructure`](../) nilai.
+Mengambil atau mengatur tipe unit ukuran dari nilai [`UnitArrayStructure`](../).
 
 ```csharp
 public UnitTypes UnitType { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
-Jenis satuan ukuran.
+Tipe unit ukuran.
 
-### Contoh
+## Contoh
 
 Kode berikut menunjukkan dukungan tanda tangan ObAr dan UnFl.
 
@@ -72,11 +73,11 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
 }
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * enum [UnitTypes](../../unittypes/)
 * class [UnitArrayStructure](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../unitarraystructure/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 

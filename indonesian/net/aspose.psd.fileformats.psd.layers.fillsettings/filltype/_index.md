@@ -1,14 +1,15 @@
 ---
-title: Enum FillType
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Aspose.PSD.FileFormats.Psd.Layers.FillSettings.FillType enum. Jenis Isian
+title: "Enum FillType"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Aspose.PSD.FileFormats.Psd.Layers.FillSettings.FillType enum. Tipe Isian"
 type: docs
-weight: 1940
+weight: 2050
 url: /id/net/aspose.psd.fileformats.psd.layers.fillsettings/filltype/
 ---
+{{< psd/tize >}}
 ## FillType enumeration
 
-Jenis Isian
+Tipe Isi
 
 ```csharp
 public enum FillType
@@ -16,15 +17,15 @@ public enum FillType
 
 ### Nilai
 
-| Nama | Nilai | Keterangan |
+| Nama | Nilai | Deskripsi |
 | --- | --- | --- |
-| Color | `0` | Jenis isian warna |
-| Gradient | `1` | Jenis isian gradien |
-| Pattern | `2` | Jenis isian pola |
+| Color | `0` | Tipe isian warna |
+| Gradient | `1` | Tipe isian gradien |
+| Pattern | `2` | Tipe isian pola |
 
-### Lihat juga
+### Lihat Juga
 
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../aspose.psd.fileformats.psd.layers.fillsettings/)
-* perakitan [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../)
 
 

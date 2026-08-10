@@ -1,28 +1,29 @@
 ---
-title: Figure.Segments
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Figure Properti. Mendapat seluruh segmen gambar.
+title: "Figure.Segments"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti Figure. Mengambil semua segmen figure."
 type: docs
 weight: 40
 url: /id/net/aspose.psd/figure/segments/
 ---
+{{< psd/tize >}}
 ## Figure.Segments property
 
-Mendapat seluruh segmen gambar.
+Mendapatkan semua segmen figure.
 
 ```csharp
 public ShapeSegment[] Segments { get; }
 ```
 
-### Nilai properti
+### Property Value
 
-Segmen figur.
+Segmen figure.
 
-### Lihat juga
+### Lihat Juga
 
 * class [ShapeSegment](../../shapesegment/)
 * class [Figure](../)
-* ruang nama [Aspose.PSD](../../figure/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

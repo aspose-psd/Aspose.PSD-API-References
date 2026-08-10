@@ -1,23 +1,24 @@
 ---
-title: StringStructure.Length
-second_title: Aspose.PSD untuk Referensi .NET API
-description: StringStructure Properti. MendapatkanOSTypeStructure panjang dalam byte.
+title: "StringStructure.Length"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "StringStructure properti. Mendapatkan panjang OSTypeStructure dalam byte"
 type: docs
 weight: 30
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/stringstructure/length/
 ---
+{{< psd/tize >}}
 ## StringStructure.Length property
 
-Mendapatkan[`OSTypeStructure`](../../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/) panjang dalam byte.
+Mendapatkan panjang [`OSTypeStructure`](../../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/) dalam byte.
 
 ```csharp
 public override int Length { get; }
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [StringStructure](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../stringstructure/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 

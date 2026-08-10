@@ -1,27 +1,28 @@
 ---
-title: ExifData.RelatedSoundFile
-second_title: Aspose.PSD untuk Referensi .NET API
-description: ExifData Properti. Mendapat atau menyetel file suara terkait.
+title: "ExifData.RelatedSoundFile"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti ExifData. Mendapatkan atau mengatur file suara terkait"
 type: docs
 weight: 880
 url: /id/net/aspose.psd.exif/exifdata/relatedsoundfile/
 ---
+{{< psd/tize >}}
 ## ExifData.RelatedSoundFile property
 
-Mendapat atau menyetel file suara terkait.
+Mendapatkan atau mengatur file suara terkait.
 
 ```csharp
 public string RelatedSoundFile { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
 File suara terkait.
 
-### Lihat juga
+### Lihat Juga
 
 * class [ExifData](../)
-* ruang nama [Aspose.PSD.Exif](../../exifdata/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

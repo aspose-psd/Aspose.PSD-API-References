@@ -1,20 +1,21 @@
 ---
-title: PhotoFilterLayer.Density
-second_title: Aspose.PSD untuk Referensi .NET API
-description: PhotoFilterLayer Properti. Mendapat atau menyetel kepadatan filter
+title: "PhotoFilterLayer.Density"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti PhotoFilterLayer. Mendapatkan atau mengatur kepadatan filter"
 type: docs
 weight: 20
 url: /id/net/aspose.psd.fileformats.psd.layers.adjustmentlayers/photofilterlayer/density/
 ---
+{{< psd/tize >}}
 ## PhotoFilterLayer.Density property
 
-Mendapat atau menyetel kepadatan filter
+Mendapatkan atau mengatur kepadatan filter
 
 ```csharp
 public int Density { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
 Kepadatan.
 
@@ -22,12 +23,12 @@ Kepadatan.
 
 | pengecualian | kondisi |
 | --- | --- |
-| ArgumentOutOfRangeException | Kepadatan harus berkisar dari 0 hingga 100 |
+| ArgumentOutOfRangeException | Kepadatan harus berada dalam rentang 0 hingga 100 |
 
-### Lihat juga
+### Lihat Juga
 
 * class [PhotoFilterLayer](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../photofilterlayer/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/)
+* assembly [Aspose.PSD](../../../)
 
 

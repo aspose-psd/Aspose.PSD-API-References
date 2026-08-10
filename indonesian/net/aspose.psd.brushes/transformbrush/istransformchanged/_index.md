@@ -1,27 +1,28 @@
 ---
-title: TransformBrush.IsTransformChanged
-second_title: Aspose.PSD untuk Referensi .NET API
-description: TransformBrush Properti. Mendapat nilai yang menunjukkan apakah transformasi diubah dalam beberapa cara. Misalnya mengatur matriks transformasi atau memanggil salah satu metode yang mengubah matriks transformasi. Properti diperkenalkan untuk kompatibilitas mundur dengan GDI.
+title: "TransformBrush.IsTransformChanged"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti TransformBrush. Mengambil nilai yang menunjukkan apakah transformasi telah diubah dengan cara tertentu. Misalnya mengatur matrix transformasi atau memanggil salah satu metode yang mengubah matrix transformasi. Properti ini diperkenalkan untuk kompatibilitas mundur dengan GDI"
 type: docs
 weight: 10
 url: /id/net/aspose.psd.brushes/transformbrush/istransformchanged/
 ---
+{{< psd/tize >}}
 ## TransformBrush.IsTransformChanged property
 
-Mendapat nilai yang menunjukkan apakah transformasi diubah dalam beberapa cara. Misalnya mengatur matriks transformasi atau memanggil salah satu metode yang mengubah matriks transformasi. Properti diperkenalkan untuk kompatibilitas mundur dengan GDI+.
+Mendapatkan nilai yang menunjukkan apakah transformasi telah diubah dengan cara tertentu. Misalnya mengatur matriks transformasi atau memanggil salah satu metode yang mengubah matriks transformasi. Properti ini diperkenalkan untuk kompatibilitas mundur dengan GDI+.
 
 ```csharp
 public bool IsTransformChanged { get; }
 ```
 
-### Nilai properti
+### Property Value
 
-`BENAR` jika transformasi diubah; jika tidak,`PALSU` .
+`True` jika transformasi diubah; jika tidak, `false`.
 
-### Lihat juga
+### Lihat Juga
 
 * class [TransformBrush](../)
-* ruang nama [Aspose.PSD.Brushes](../../transformbrush/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
+* assembly [Aspose.PSD](../../../)
 
 

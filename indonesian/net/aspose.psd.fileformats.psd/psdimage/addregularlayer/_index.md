@@ -1,11 +1,12 @@
 ---
-title: PsdImage.AddRegularLayer
-second_title: Aspose.PSD untuk Referensi .NET API
-description: PsdImage metode. Menambahkan lapisan reguler baru.
+title: "PsdImage.AddRegularLayer"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "PsdImage metode. Menambahkan lapisan reguler baru"
 type: docs
-weight: 410
+weight: 440
 url: /id/net/aspose.psd.fileformats.psd/psdimage/addregularlayer/
 ---
+{{< psd/tize >}}
 ## PsdImage.AddRegularLayer method
 
 Menambahkan lapisan reguler baru.
@@ -14,13 +15,13 @@ Menambahkan lapisan reguler baru.
 public Layer AddRegularLayer()
 ```
 
-### Nilai Pengembalian
+### Nilai Kembalian
 
-Membuat lapisan biasa.
+Membuat lapisan reguler.
 
-### Contoh
+## Contoh
 
-Kode berikut menunjukkan cara menambahkan layer reguler yang baru dibuat ke PsdImage.
+Kode berikut menunjukkan cara menambahkan lapisan reguler yang baru dibuat ke PsdImage.
 
 ```csharp
 [C#]
@@ -31,7 +32,7 @@ string exportPathPng = "OneLayerEdited.png";
 
 using (var im = (PsdImage)Image.Load(sourceFileName))
 {
-    // Mempersiapkan dua larik int
+    // Menyiapkan dua array int
     var data1 = new int[2500];
     var data2 = new int[2500];
 
@@ -66,11 +67,11 @@ using (var im = (PsdImage)Image.Load(sourceFileName))
 }
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [Layer](../../../aspose.psd.fileformats.psd.layers/layer/)
 * class [PsdImage](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

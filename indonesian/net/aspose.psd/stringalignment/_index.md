@@ -1,11 +1,12 @@
 ---
-title: Enum StringAlignment
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Aspose.PSD.StringAlignment enum. Menentukan perataan string teks relatif terhadap persegi panjang tata letaknya.
+title: "Enum StringAlignment"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Enum Aspose.PSD.StringAlignment. Menentukan perataan string teks relatif terhadap persegi panjang tata letaknya"
 type: docs
-weight: 5650
+weight: 6150
 url: /id/net/aspose.psd/stringalignment/
 ---
+{{< psd/tize >}}
 ## StringAlignment enumeration
 
 Menentukan perataan string teks relatif terhadap persegi panjang tata letaknya.
@@ -16,15 +17,15 @@ public enum StringAlignment
 
 ### Nilai
 
-| Nama | Nilai | Keterangan |
+| Nama | Nilai | Deskripsi |
 | --- | --- | --- |
-| Near | `0` | Menentukan teks yang disejajarkan di dekat tata letak. Dalam tata letak kiri ke kanan, posisi dekat dibiarkan. Dalam tata letak kanan-ke-kiri, posisi dekat adalah kanan. |
-| Center | `1` | Menentukan bahwa teks diratakan di tengah persegi panjang tata letak. |
-| Far | `2` | Menentukan bahwa teks disejajarkan jauh dari posisi asal kotak tata letak. Dalam tata letak kiri ke kanan, posisi jauh adalah kanan. Dalam tata letak kanan-ke-kiri, posisi terjauh adalah kiri. |
+| Near | `0` | Menentukan teks disejajarkan dekat dengan tata letak. Pada tata letak kiri-ke-kanan, posisi dekat berada di kiri. Pada tata letak kanan-ke-kiri, posisi dekat berada di kanan. |
+| Center | `1` | Menentukan bahwa teks disejajarkan di tengah persegi panjang tata letak. |
+| Far | `2` | Menentukan bahwa teks disejajarkan jauh dari posisi asal persegi panjang tata letak. Pada tata letak kiri-ke-kanan, posisi jauh berada di kanan. Pada tata letak kanan-ke-kiri, posisi jauh berada di kiri. |
 
-### Lihat juga
+### Lihat Juga
 
-* ruang nama [Aspose.PSD](../../aspose.psd/)
-* perakitan [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: Font.Bold
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Font Properti. Mendapat nilai yang menunjukkan apakah iniFont tebal.
+title: "Font.Bold"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti Font. Mendapatkan nilai yang menunjukkan apakah Font ini tebal."
 type: docs
 weight: 20
 url: /id/net/aspose.psd/font/bold/
 ---
+{{< psd/tize >}}
 ## Font.Bold property
 
-Mendapat nilai yang menunjukkan apakah ini[`Font`](../) tebal.
+Mendapatkan nilai yang menunjukkan apakah [`Font`](../) ini tebal.
 
 ```csharp
 public bool Bold { get; }
 ```
 
-### Nilai properti
+### Property Value
 
-Benar jika ini[`Font`](../) berani; jika tidak, salah.
+True jika [`Font`](../) ini tebal; jika tidak, false.
 
-### Lihat juga
+### Lihat Juga
 
 * class [Font](../)
-* ruang nama [Aspose.PSD](../../font/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

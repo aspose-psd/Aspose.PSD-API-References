@@ -1,27 +1,28 @@
 ---
-title: Font.FontFileName
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Font Properti. Mendapat atau menyetel nama file font tanpa path lengkap.
+title: "Font.FontFileName"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Font properti. Mendapatkan atau mengatur nama file font tanpa jalur lengkap"
 type: docs
 weight: 50
 url: /id/net/aspose.psd.xmp.types.complex.font/font/fontfilename/
 ---
+{{< psd/tize >}}
 ## Font.FontFileName property
 
-Mendapat atau menyetel nama file font tanpa path lengkap.
+Mendapatkan atau menetapkan nama file font tanpa jalur lengkap.
 
 ```csharp
 public string FontFileName { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
-Nama file font tanpa path lengkap.
+Nama file font tanpa jalur lengkap.
 
-### Lihat juga
+### Lihat Juga
 
 * class [Font](../)
-* ruang nama [Aspose.PSD.Xmp.Types.Complex.Font](../../font/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.Font](../../../aspose.psd.xmp.types.complex.font/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,23 +1,24 @@
 ---
-title: PostResource.TypeToolKey
-second_title: Aspose.PSD untuk Referensi .NET API
-description: PostResource bidang. Kunci info alat ketik.
+title: "PostResource.TypeToolKey"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Bidang PostResource. Kunci info alat tipe"
 type: docs
-weight: 80
+weight: 50
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources/postresource/typetoolkey/
 ---
+{{< psd/tize >}}
 ## PostResource.TypeToolKey field
 
-Kunci info alat ketik.
+Kunci info alat tipe.
 
 ```csharp
 public const int TypeToolKey;
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [PostResource](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../postresource/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

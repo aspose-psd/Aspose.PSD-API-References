@@ -1,14 +1,15 @@
 ---
-title: Class LineSegment
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Aspose.PSD.ShapeSegments.LineSegment kelas. Merupakan segmen yang mengarah langsung dari titik tertentu ke titik berikutnya.
+title: "Kelas LineSegment"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Kelas Aspose.PSD.ShapeSegments.LineSegment. Mewakili segmen yang mengarah langsung dari satu titik tertentu ke titik berikutnya."
 type: docs
-weight: 5450
+weight: 5950
 url: /id/net/aspose.psd.shapesegments/linesegment/
 ---
+{{< psd/tize >}}
 ## LineSegment class
 
-Merupakan segmen yang mengarah langsung dari titik tertentu ke titik berikutnya.
+Mewakili segmen yang mengarah langsung dari titik tertentu ke titik berikutnya.
 
 ```csharp
 public class LineSegment : ShapeSegment
@@ -16,21 +17,21 @@ public class LineSegment : ShapeSegment
 
 ## Konstruktor
 
-| Nama | Keterangan |
+| Nama | Deskripsi |
 | --- | --- |
-| [LineSegment](linesegment/)(PointF, PointF) | Menginisialisasi instance baru dari`LineSegment` kelas. |
+| [LineSegment](linesegment/)(PointF, PointF) | Menginisialisasi sebuah instance baru dari kelas `LineSegment`. |
 
 ## Properti
 
-| Nama | Keterangan |
+| Nama | Deskripsi |
 | --- | --- |
-| override [EndPoint](../../aspose.psd.shapesegments/linesegment/endpoint/) { get; } | Mendapat titik akhir. |
-| override [StartPoint](../../aspose.psd.shapesegments/linesegment/startpoint/) { get; } | Mendapat titik awal. |
+| override [EndPoint](../../aspose.psd.shapesegments/linesegment/endpoint/) { get; } | Mendapatkan titik akhir. |
+| override [StartPoint](../../aspose.psd.shapesegments/linesegment/startpoint/) { get; } | Mendapatkan titik awal. |
 
-### Lihat juga
+### Lihat Juga
 
 * class [ShapeSegment](../../aspose.psd/shapesegment/)
-* ruang nama [Aspose.PSD.ShapeSegments](../../aspose.psd.shapesegments/)
-* perakitan [Aspose.PSD](../../)
+* namespace [Aspose.PSD.ShapeSegments](../../aspose.psd.shapesegments/)
+* assembly [Aspose.PSD](../../)
 
 

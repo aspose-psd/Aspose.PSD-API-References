@@ -1,23 +1,24 @@
 ---
-title: Size.Height
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Size Properti. Mendapat atau menyetel komponen vertikal iniSize .
+title: "Size.Height"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti Size. Mendapatkan atau mengatur komponen vertikal dari Size ini."
 type: docs
 weight: 80
 url: /id/net/aspose.psd/size/height/
 ---
+{{< psd/tize >}}
 ## Size.Height property
 
-Mendapat atau menyetel komponen vertikal ini[`Size`](../) .
+Mendapatkan atau mengatur komponen vertikal dari [`Size`](../) ini.
 
 ```csharp
 public int Height { get; set; }
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * struct [Size](../)
-* ruang nama [Aspose.PSD](../../size/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

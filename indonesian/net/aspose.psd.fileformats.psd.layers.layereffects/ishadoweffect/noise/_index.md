@@ -1,33 +1,34 @@
 ---
-title: IShadowEffect.Noise
-second_title: Aspose.PSD untuk Referensi .NET API
-description: IShadowEffect Properti. Mendapat atau mengatur kebisingan.
+title: "IShadowEffect.Noise"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti IShadowEffect. Mendapatkan atau mengatur noise"
 type: docs
 weight: 40
 url: /id/net/aspose.psd.fileformats.psd.layers.layereffects/ishadoweffect/noise/
 ---
+{{< psd/tize >}}
 ## IShadowEffect.Noise property
 
-Mendapat atau mengatur kebisingan.
+Mendapatkan atau mengatur noise.
 
 ```csharp
 public int Noise { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
-Kebisingan.
+Noise.
 
 ### Pengecualian
 
 | pengecualian | kondisi |
 | --- | --- |
-| [PsdImageArgumentException](../../../aspose.psd.coreexceptions.imageformats/psdimageargumentexception/) | Kebisingan harus ditentukan sebagai persentase dalam rentang dari 0 hingga 100 |
+| [PsdImageArgumentException](../../../aspose.psd.coreexceptions.imageformats/psdimageargumentexception/) | Noise harus ditentukan sebagai persentase dalam rentang dari 0 hingga 100 |
 
-### Lihat juga
+### Lihat Juga
 
 * interface [IShadowEffect](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../ishadoweffect/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../../)
 
 

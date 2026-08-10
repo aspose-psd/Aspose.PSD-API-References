@@ -1,11 +1,12 @@
 ---
-title: XmpBasicPackage.SetCreatorTool
-second_title: Aspose.PSD untuk Referensi .NET API
-description: XmpBasicPackage metode. Mengatur alat pembuat.
+title: "XmpBasicPackage.SetCreatorTool"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode XmpBasicPackage. Menetapkan alat pembuat"
 type: docs
-weight: 40
+weight: 60
 url: /id/net/aspose.psd.xmp.schemas.xmpbaseschema/xmpbasicpackage/setcreatortool/
 ---
+{{< psd/tize >}}
 ## XmpBasicPackage.SetCreatorTool method
 
 Mengatur alat pembuat.
@@ -14,14 +15,14 @@ Mengatur alat pembuat.
 public void SetCreatorTool(string creatorTool)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
 | creatorTool | String | Nama alat. |
 
-### Lihat juga
+### Lihat Juga
 
 * class [XmpBasicPackage](../)
-* ruang nama [Aspose.PSD.Xmp.Schemas.XmpBaseSchema](../../xmpbasicpackage/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpBaseSchema](../../../aspose.psd.xmp.schemas.xmpbaseschema/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,31 +1,32 @@
 ---
-title: Delegate AsyncTaskFunc
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Delegasi operasi panjang untuk tugas asinkron dengan hasil tipe generik.
+title: "Delegasi AsyncTaskFunc"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Delegasi operasi panjang untuk tugas asinkron dengan tipe hasil generik"
 type: docs
 weight: 50
 url: /id/net/aspose.psd.asynctask/asynctaskfunc/
 ---
+{{< psd/tize >}}
 ## AsyncTaskFunc delegate
 
-Delegasi operasi panjang untuk tugas asinkron dengan hasil tipe generik.
+Delegasi operasi panjang untuk tugas asynchronous dengan tipe hasil generik.
 
 ```csharp
 public delegate object AsyncTaskFunc(IAsyncTaskState taskState);
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| taskState | IAsyncTaskState | Status tugas asinkron. |
+| taskState | IAsyncTaskState | Keadaan tugas asinkron. |
 
-### Nilai Pengembalian
+### Nilai Kembalian
 
-Hasil dari operasi yang lama.
+Hasil operasi panjang.
 
-### Lihat juga
+### Lihat Juga
 
 * interface [IAsyncTaskState](../iasynctaskstate/)
-* ruang nama [Aspose.PSD.AsyncTask](../../aspose.psd.asynctask/)
-* perakitan [Aspose.PSD](../../)
+* namespace [Aspose.PSD.AsyncTask](../../aspose.psd.asynctask/)
+* assembly [Aspose.PSD](../../)
 
 

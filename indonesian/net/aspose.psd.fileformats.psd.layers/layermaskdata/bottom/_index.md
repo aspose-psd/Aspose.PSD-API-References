@@ -1,27 +1,28 @@
 ---
-title: LayerMaskData.Bottom
-second_title: Aspose.PSD untuk Referensi .NET API
-description: LayerMaskData Properti. Mendapat atau mengatur posisi layer mask bawah.
+title: "LayerMaskData.Bottom"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti LayerMaskData. Mendapatkan atau mengatur posisi mask lapisan bawah."
 type: docs
 weight: 10
 url: /id/net/aspose.psd.fileformats.psd.layers/layermaskdata/bottom/
 ---
+{{< psd/tize >}}
 ## LayerMaskData.Bottom property
 
-Mendapat atau mengatur posisi layer mask bawah.
+Mendapatkan atau mengatur posisi mask lapisan bagian bawah.
 
 ```csharp
 public int Bottom { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
-Posisi layer mask paling bawah.
+Posisi mask lapisan bawah.
 
-### Lihat juga
+### Lihat Juga
 
 * class [LayerMaskData](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers](../../layermaskdata/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

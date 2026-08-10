@@ -1,29 +1,30 @@
 ---
-title: XmpPackage.SetValue
-second_title: Aspose.PSD untuk Referensi .NET API
-description: XmpPackage metode. Menetapkan nilai.
+title: "XmpPackage.SetValue"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode XmpPackage. Menetapkan nilai"
 type: docs
 weight: 120
 url: /id/net/aspose.psd.xmp/xmppackage/setvalue/
 ---
+{{< psd/tize >}}
 ## XmpPackage.SetValue method
 
-Menetapkan nilai.
+Mengatur nilai.
 
 ```csharp
 public virtual void SetValue(string key, IXmlValue value)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| key | String | Representasi string kunci yang diidentifikasi dengan nilai tambah. |
-| value | IXmlValue | Nilai untuk ditambahkan. |
+| kunci | String | Representasi string dari kunci yang diidentifikasi dengan nilai yang ditambahkan. |
+| nilai | IXmlValue | Nilai yang akan ditambahkan. |
 
-### Lihat juga
+### Lihat Juga
 
 * interface [IXmlValue](../../ixmlvalue/)
 * class [XmpPackage](../)
-* ruang nama [Aspose.PSD.Xmp](../../xmppackage/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

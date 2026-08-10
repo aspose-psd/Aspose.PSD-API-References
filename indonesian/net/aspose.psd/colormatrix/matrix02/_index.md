@@ -1,27 +1,28 @@
 ---
-title: ColorMatrix.Matrix02
-second_title: Aspose.PSD untuk Referensi .NET API
-description: ColorMatrix Properti. Mendapat atau menyetel elemen pada baris 0 nol dan kolom kedua iniColorMatrix .
+title: "ColorMatrix.Matrix02"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti ColorMatrix. Mendapatkan atau mengatur elemen pada baris 0 (nol) dan kolom kedua dari ColorMatrix ini"
 type: docs
 weight: 50
 url: /id/net/aspose.psd/colormatrix/matrix02/
 ---
+{{< psd/tize >}}
 ## ColorMatrix.Matrix02 property
 
-Mendapat atau menyetel elemen pada baris 0 (nol) dan kolom kedua ini[`ColorMatrix`](../) .
+Mendapatkan atau mengatur elemen pada baris 0 (nol) dan kolom kedua dari [`ColorMatrix`](../).
 
 ```csharp
 public float Matrix02 { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
-Elemen pada baris 0 dan kolom kedua ini[`ColorMatrix`](../).
+Elemen pada baris 0 dan kolom kedua dari [`ColorMatrix`](../).
 
-### Lihat juga
+### Lihat Juga
 
 * class [ColorMatrix](../)
-* ruang nama [Aspose.PSD](../../colormatrix/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: GradientColorPoint.Location
-second_title: Aspose.PSD untuk Referensi .NET API
-description: GradientColorPoint Properti. Mendapat atau mengatur lokasi titik pada gradien.
+title: "GradientColorPoint.Location"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti GradientColorPoint. Mendapatkan atau mengatur lokasi titik pada gradien"
 type: docs
-weight: 20
+weight: 30
 url: /id/net/aspose.psd.fileformats.psd.layers.fillsettings/gradientcolorpoint/location/
 ---
+{{< psd/tize >}}
 ## GradientColorPoint.Location property
 
-Mendapat atau mengatur lokasi titik pada gradien.
+Mendapatkan atau mengatur lokasi titik pada gradien.
 
 ```csharp
 public int Location { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
 Lokasi.
 
-### Lihat juga
+### Lihat Juga
 
 * class [GradientColorPoint](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../gradientcolorpoint/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../../)
 
 

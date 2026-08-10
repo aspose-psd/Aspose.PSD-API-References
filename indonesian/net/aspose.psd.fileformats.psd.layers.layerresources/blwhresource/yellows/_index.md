@@ -1,26 +1,27 @@
 ---
-title: BlwhResource.Yellows
-second_title: Aspose.PSD untuk Referensi .NET API
-description: BlwhResource Properti. Mendapat atau menetapkan nilai kuning.
+title: "BlwhResource.Yellows"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti BlwhResource. Mendapatkan atau mengatur nilai kuning"
 type: docs
-weight: 140
+weight: 120
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources/blwhresource/yellows/
 ---
+{{< psd/tize >}}
 ## BlwhResource.Yellows property
 
-Mendapat atau menetapkan nilai kuning.
+Mendapatkan atau mengatur nilai yellows.
 
 ```csharp
 public int Yellows { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
 Nilai kuning.
 
-### Contoh
+## Contoh
 
-Contoh berikut menunjukkan bagaimana Anda mengedit BlwhResource.
+Contoh berikut menunjukkan cara Anda mengedit BlwhResource.
 
 ```csharp
 [C#]
@@ -63,7 +64,7 @@ using (PsdImage im = (PsdImage)Image.Load(sourceFileName))
                 AssertIsTrue(Math.Abs(blwhLayer.TintColorGreen - tintColorGreen) < 1e-6, ActualPropertyValueIsWrongMessage);
                 AssertIsTrue(Math.Abs(blwhLayer.TintColorBlue - tintColorBlue) < 1e-6, ActualPropertyValueIsWrongMessage);
 
-                // Uji pengeditan dan penyimpanan
+                // Uji mengedit dan menyimpan
                 blwhResource.Reds = reds - 15;
                 blwhResource.Yellows = yellows - 15;
                 blwhResource.Greens = greens + 15;
@@ -123,10 +124,10 @@ using (PsdImage im = (PsdImage)Image.Load(destinationFileName))
 AssertIsTrue(isRequiredResourceFound, "The specified BlwhResource not found");
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [BlwhResource](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../blwhresource/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

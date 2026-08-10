@@ -1,31 +1,32 @@
 ---
-title: TiffStreamReader.ReadSShort
-second_title: Aspose.PSD untuk Referensi .NET API
-description: TiffStreamReader metode. Baca nilai singkat yang ditandatangani dari arus.
+title: "TiffStreamReader.ReadSShort"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode TiffStreamReader. Membaca nilai short bertanda dari aliran"
 type: docs
 weight: 170
 url: /id/net/aspose.psd.fileformats.tiff.filemanagement/tiffstreamreader/readsshort/
 ---
+{{< psd/tize >}}
 ## TiffStreamReader.ReadSShort method
 
-Baca nilai singkat yang ditandatangani dari arus.
+Membaca nilai short bertanda dari aliran.
 
 ```csharp
 public short ReadSShort(long position)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| position | Int64 | Posisi untuk membaca dari. |
+| posisi | Int64 | Posisi untuk membaca dari. |
 
-### Nilai Pengembalian
+### Nilai Kembalian
 
-Nilai singkat yang ditandatangani.
+Nilai short bertanda.
 
-### Lihat juga
+### Lihat Juga
 
 * class [TiffStreamReader](../)
-* ruang nama [Aspose.PSD.FileFormats.Tiff.FileManagement](../../tiffstreamreader/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff.FileManagement](../../../aspose.psd.fileformats.tiff.filemanagement/)
+* assembly [Aspose.PSD](../../../)
 
 

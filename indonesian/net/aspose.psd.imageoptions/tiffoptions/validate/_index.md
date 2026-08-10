@@ -1,23 +1,24 @@
 ---
-title: TiffOptions.Validate
-second_title: Aspose.PSD untuk Referensi .NET API
-description: TiffOptions metode. Memvalidasi jika opsi memiliki kombinasi tag yang valid
+title: "TiffOptions.Validate"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode TiffOptions. Memvalidasi apakah opsi memiliki kombinasi tag yang valid"
 type: docs
-weight: 750
+weight: 760
 url: /id/net/aspose.psd.imageoptions/tiffoptions/validate/
 ---
+{{< psd/tize >}}
 ## TiffOptions.Validate method
 
-Memvalidasi jika opsi memiliki kombinasi tag yang valid
+Memvalidasi apakah opsi memiliki kombinasi tag yang valid
 
 ```csharp
 public void Validate()
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [TiffOptions](../)
-* ruang nama [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: Class TiffOptionsUtils
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Aspose.PSD.ImageOptions.TiffOptionsUtils kelas. Kelas utilitas opsi format file tiff.
+title: "Kelas TiffOptionsUtils"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Kelas Aspose.PSD.ImageOptions.TiffOptionsUtils. Kelas utilitas opsi format file tiff"
 type: docs
-weight: 4960
+weight: 5450
 url: /id/net/aspose.psd.imageoptions/tiffoptionsutils/
 ---
+{{< psd/tize >}}
 ## TiffOptionsUtils class
 
 Kelas utilitas opsi format file tiff.
@@ -16,19 +17,19 @@ public class TiffOptionsUtils
 
 ## Konstruktor
 
-| Nama | Keterangan |
+| Nama | Deskripsi |
 | --- | --- |
 | [TiffOptionsUtils](tiffoptionsutils/)() | Konstruktor default. |
 
 ## Metode
 
-| Nama | Keterangan |
+| Nama | Deskripsi |
 | --- | --- |
 | static [GetValidTagsCount](../../aspose.psd.imageoptions/tiffoptionsutils/getvalidtagscount/)(TiffDataType[]) | Mendapatkan jumlah tag yang valid. |
 
-### Lihat juga
+### Lihat Juga
 
-* ruang nama [Aspose.PSD.ImageOptions](../../aspose.psd.imageoptions/)
-* perakitan [Aspose.PSD](../../)
+* namespace [Aspose.PSD.ImageOptions](../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../)
 
 

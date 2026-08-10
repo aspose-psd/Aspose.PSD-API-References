@@ -1,11 +1,12 @@
 ---
-title: PrintScaleResource.PrintScaleResource
-second_title: Aspose.PSD untuk Referensi .NET API
-description: PrintScaleResource konstruktor. Konstruktor default.
+title: "PrintScaleResource.PrintScaleResource"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "PrintScaleResource konstruktor. Konstruktor default"
 type: docs
 weight: 10
 url: /id/net/aspose.psd.fileformats.psd.resources/printscaleresource/printscaleresource/
 ---
+{{< psd/tize >}}
 ## PrintScaleResource constructor
 
 Konstruktor default.
@@ -14,10 +15,10 @@ Konstruktor default.
 public PrintScaleResource()
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [PrintScaleResource](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Resources](../../printscaleresource/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

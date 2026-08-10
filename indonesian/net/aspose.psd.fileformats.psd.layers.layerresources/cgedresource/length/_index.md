@@ -1,11 +1,12 @@
 ---
-title: CgEdResource.Length
-second_title: Aspose.PSD untuk Referensi .NET API
-description: CgEdResource Properti. Mendapatkan panjang sumber daya lapisan dalam byte.
+title: "CgEdResource.Length"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti CgEdResource. Mendapatkan panjang sumber lapisan dalam byte"
 type: docs
-weight: 70
+weight: 60
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources/cgedresource/length/
 ---
+{{< psd/tize >}}
 ## CgEdResource.Length property
 
 Mendapatkan panjang sumber daya lapisan dalam byte.
@@ -14,10 +15,10 @@ Mendapatkan panjang sumber daya lapisan dalam byte.
 public override int Length { get; }
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [CgEdResource](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../cgedresource/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

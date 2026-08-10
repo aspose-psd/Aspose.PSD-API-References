@@ -1,27 +1,28 @@
 ---
-title: ResourceEvent.GetXmpRepresentation
-second_title: Aspose.PSD untuk Referensi .NET API
-description: ResourceEvent metode. Mendapat string berisi nilai dalam format XMP.
+title: "ResourceEvent.GetXmpRepresentation"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode ResourceEvent. Mendapatkan nilai string yang terkandung dalam format XMP"
 type: docs
 weight: 80
 url: /id/net/aspose.psd.xmp.types.complex.resourceevent/resourceevent/getxmprepresentation/
 ---
+{{< psd/tize >}}
 ## ResourceEvent.GetXmpRepresentation method
 
-Mendapat string berisi nilai dalam format XMP.
+Mendapatkan nilai string yang terkandung dalam format XMP.
 
 ```csharp
 public override string GetXmpRepresentation()
 ```
 
-### Nilai Pengembalian
+### Nilai Kembalian
 
-Mengembalikan string berisi nilai dalam format XMP.
+Mengembalikan nilai string yang terkandung dalam format XMP.
 
-### Lihat juga
+### Lihat Juga
 
 * class [ResourceEvent](../)
-* ruang nama [Aspose.PSD.Xmp.Types.Complex.ResourceEvent](../../resourceevent/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.ResourceEvent](../../../aspose.psd.xmp.types.complex.resourceevent/)
+* assembly [Aspose.PSD](../../../)
 
 

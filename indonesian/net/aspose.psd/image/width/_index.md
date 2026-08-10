@@ -1,11 +1,12 @@
 ---
-title: Image.Width
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Image Properti. Mendapatkan lebar gambar.
+title: "Image.Width"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti Image. Mengambil lebar gambar"
 type: docs
-weight: 150
+weight: 160
 url: /id/net/aspose.psd/image/width/
 ---
+{{< psd/tize >}}
 ## Image.Width property
 
 Mendapatkan lebar gambar.
@@ -14,14 +15,14 @@ Mendapatkan lebar gambar.
 public abstract int Width { get; }
 ```
 
-### Nilai properti
+### Property Value
 
 Lebar gambar.
 
-### Lihat juga
+### Lihat Juga
 
 * class [Image](../)
-* ruang nama [Aspose.PSD](../../image/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,23 +1,24 @@
 ---
-title: Lr32Resource.Length
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Lr32Resource Properti. Mendapat panjang.
+title: "Lr32Resource.Length"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Lr32Resource property. Mendapatkan panjang"
 type: docs
 weight: 40
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources/lr32resource/length/
 ---
+{{< psd/tize >}}
 ## Lr32Resource.Length property
 
-Mendapat panjang.
+Mendapatkan panjang.
 
 ```csharp
 public override int Length { get; }
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [Lr32Resource](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../lr32resource/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../lr32resource/)
+* assembly [Aspose.PSD](../../../)
 
 

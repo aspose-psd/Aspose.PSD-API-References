@@ -1,28 +1,29 @@
 ---
-title: RasterImage.RawCustomColorConverter
-second_title: Aspose.PSD untuk Referensi .NET API
-description: RasterImage Properti. Mendapat atau menyetel konverter warna khusus
+title: "RasterImage.RawCustomColorConverter"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti RasterImage. Mendapatkan atau mengatur konverter warna khusus"
 type: docs
 weight: 70
 url: /id/net/aspose.psd/rasterimage/rawcustomcolorconverter/
 ---
+{{< psd/tize >}}
 ## RasterImage.RawCustomColorConverter property
 
-Mendapat atau menyetel konverter warna khusus
+Mendapatkan atau mengatur konverter warna khusus
 
 ```csharp
 public IColorConverter RawCustomColorConverter { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
-Konverter warna khusus
+Konverter warna khusus.
 
-### Lihat juga
+### Lihat Juga
 
 * interface [IColorConverter](../../icolorconverter/)
 * class [RasterImage](../)
-* ruang nama [Aspose.PSD](../../rasterimage/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

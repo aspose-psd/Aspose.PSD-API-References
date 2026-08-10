@@ -1,55 +1,56 @@
 ---
-title: FileStreamContainer.op_Explicit
-second_title: Aspose.PSD untuk Referensi .NET API
-description: FileStreamContainer metode. Melakukan konversi eksplisit dariFileStreamContainer keStream .
+title: "FileStreamContainer.op_Explicit"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode FileStreamContainer. Melakukan konversi eksplisit dari FileStreamContainer ke Stream"
 type: docs
 weight: 60
 url: /id/net/aspose.psd/filestreamcontainer/op_explicit/
 ---
+{{< psd/tize >}}
 ## explicit operator {#op_explicit_1}
 
-Melakukan konversi eksplisit dari[`FileStreamContainer`](../) keStream .
+Melakukan konversi eksplisit dari [`FileStreamContainer`](../) ke Stream.
 
 ```csharp
 public static explicit operator Stream(FileStreamContainer fileStreamContainer)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| fileStreamContainer | FileStreamContainer | Wadah aliran file. |
+| fileStreamContainer | FileStreamContainer | Kontainer aliran file. |
 
-### Nilai Pengembalian
+### Nilai Kembalian
 
 Hasil konversi.
 
-### Lihat juga
+### Lihat Juga
 
 * class [FileStreamContainer](../)
-* ruang nama [Aspose.PSD](../../filestreamcontainer/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## explicit operator {#op_explicit}
 
-Melakukan konversi eksplisit dari[`FileStreamContainer`](../) keFileStream .
+Melakukan konversi eksplisit dari [`FileStreamContainer`](../) ke FileStream.
 
 ```csharp
 public static explicit operator FileStream(FileStreamContainer fileStreamContainer)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| fileStreamContainer | FileStreamContainer | Wadah aliran file. |
+| fileStreamContainer | FileStreamContainer | Kontainer aliran file. |
 
-### Nilai Pengembalian
+### Nilai Kembalian
 
 Hasil konversi.
 
-### Lihat juga
+### Lihat Juga
 
 * class [FileStreamContainer](../)
-* ruang nama [Aspose.PSD](../../filestreamcontainer/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

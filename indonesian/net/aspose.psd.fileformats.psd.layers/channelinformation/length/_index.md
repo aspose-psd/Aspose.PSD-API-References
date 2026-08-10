@@ -1,27 +1,28 @@
 ---
-title: ChannelInformation.Length
-second_title: Aspose.PSD untuk Referensi .NET API
-description: ChannelInformation Properti. Mendapatkan panjang saluran dalam satuan byte.
+title: "ChannelInformation.Length"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti ChannelInformation. Mendapatkan panjang kanal dalam byte"
 type: docs
 weight: 40
 url: /id/net/aspose.psd.fileformats.psd.layers/channelinformation/length/
 ---
+{{< psd/tize >}}
 ## ChannelInformation.Length property
 
-Mendapatkan panjang saluran dalam satuan byte.
+Mendapatkan panjang saluran dalam byte.
 
 ```csharp
-public int Length { get; }
+public long Length { get; }
 ```
 
-### Nilai properti
+### Property Value
 
-Panjangnya.
+Panjang.
 
-### Lihat juga
+### Lihat Juga
 
 * class [ChannelInformation](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers](../../channelinformation/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

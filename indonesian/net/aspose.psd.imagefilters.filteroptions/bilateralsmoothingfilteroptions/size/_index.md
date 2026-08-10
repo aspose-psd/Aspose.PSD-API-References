@@ -1,27 +1,28 @@
 ---
-title: BilateralSmoothingFilterOptions.Size
-second_title: Aspose.PSD untuk Referensi .NET API
-description: BilateralSmoothingFilterOptions Properti. Mendapat atau mengatur ukuran kernel.
+title: "BilateralSmoothingFilterOptions.Size"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "BilateralSmoothingFilterOptions properti. Mendapatkan atau mengatur ukuran kernel."
 type: docs
 weight: 40
 url: /id/net/aspose.psd.imagefilters.filteroptions/bilateralsmoothingfilteroptions/size/
 ---
+{{< psd/tize >}}
 ## BilateralSmoothingFilterOptions.Size property
 
-Mendapat atau mengatur ukuran kernel.
+Mendapatkan atau mengatur ukuran kernel.
 
 ```csharp
 public int Size { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
 Ukuran kernel.
 
-### Lihat juga
+### Lihat Juga
 
 * class [BilateralSmoothingFilterOptions](../)
-* ruang nama [Aspose.PSD.ImageFilters.FilterOptions](../../bilateralsmoothingfilteroptions/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageFilters.FilterOptions](../../../aspose.psd.imagefilters.filteroptions/)
+* assembly [Aspose.PSD](../../../)
 
 

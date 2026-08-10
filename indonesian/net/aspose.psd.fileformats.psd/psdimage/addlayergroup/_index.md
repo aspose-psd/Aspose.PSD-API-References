@@ -1,26 +1,27 @@
 ---
-title: PsdImage.AddLayerGroup
-second_title: Aspose.PSD untuk Referensi .NET API
-description: PsdImage metode. Menambahkan grup layer.
+title: "PsdImage.AddLayerGroup"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "PsdImage method. Menambahkan grup lapisan"
 type: docs
-weight: 380
+weight: 400
 url: /id/net/aspose.psd.fileformats.psd/psdimage/addlayergroup/
 ---
+{{< psd/tize >}}
 ## PsdImage.AddLayerGroup method
 
-Menambahkan grup layer.
+Menambahkan grup lapisan.
 
 ```csharp
 public LayerGroup AddLayerGroup(string groupName, int index, bool startBehaviour)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
 | groupName | String | Nama grup. |
-| index | Int32 | Indeks lapisan yang akan disisipkan setelahnya. |
-| startBehaviour | Boolean | jika diatur ke`BENAR` [perilaku mulai] daripada grup akan dalam keadaan terbuka saat start up, jika tidak dalam keadaan diminimalkan. |
+| index | Int32 | Indeks lapisan untuk disisipkan setelahnya. |
+| startBehaviour | Boolean | jika diatur ke `true` [start behaviour] maka grup akan berada dalam keadaan terbuka saat memulai, jika tidak dalam keadaan diminimalkan. |
 
-### Nilai Pengembalian
+### Nilai Kembalian
 
 Membuka lapisan grup
 
@@ -28,13 +29,13 @@ Membuka lapisan grup
 
 | pengecualian | kondisi |
 | --- | --- |
-| [PsdImageException](../../../aspose.psd.coreexceptions.imageformats/psdimageexception/) | Indeks harus dalam batas jumlah Lapisan |
+| [PsdImageException](../../../aspose.psd.coreexceptions.imageformats/psdimageexception/) | Indeks harus berada dalam batas jumlah Lapisan |
 
-### Lihat juga
+### Lihat Juga
 
 * class [LayerGroup](../../../aspose.psd.fileformats.psd.layers/layergroup/)
 * class [PsdImage](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

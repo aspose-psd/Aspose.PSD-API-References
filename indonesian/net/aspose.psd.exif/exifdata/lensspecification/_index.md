@@ -1,28 +1,29 @@
 ---
-title: ExifData.LensSpecification
-second_title: Aspose.PSD untuk Referensi .NET API
-description: ExifData Properti. Mendapatkan atau menyetel spesifikasi lensa
+title: "ExifData.LensSpecification"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti ExifData. Mendapatkan atau mengatur spesifikasi lensa"
 type: docs
 weight: 760
 url: /id/net/aspose.psd.exif/exifdata/lensspecification/
 ---
+{{< psd/tize >}}
 ## ExifData.LensSpecification property
 
-Mendapatkan atau menyetel spesifikasi lensa
+Mendapatkan atau mengatur spesifikasi lensa
 
 ```csharp
 public TiffRational[] LensSpecification { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
 Spesifikasi lensa.
 
-### Lihat juga
+### Lihat Juga
 
 * class [TiffRational](../../../aspose.psd.fileformats.tiff/tiffrational/)
 * class [ExifData](../)
-* ruang nama [Aspose.PSD.Exif](../../exifdata/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

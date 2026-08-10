@@ -1,11 +1,12 @@
 ---
-title: Interface IImageLoader
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Aspose.PSD.IImageLoader antarmuka. Pemuat gambar.
+title: "Interface IImageLoader"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Aspose.PSD.IImageLoader interface. Pemuat gambar"
 type: docs
-weight: 4450
+weight: 4920
 url: /id/net/aspose.psd/iimageloader/
 ---
+{{< psd/tize >}}
 ## IImageLoader interface
 
 Pemuat gambar.
@@ -16,13 +17,13 @@ public interface IImageLoader
 
 ## Metode
 
-| Nama | Keterangan |
+| Nama | Deskripsi |
 | --- | --- |
-| [Load](../../aspose.psd/iimageloader/load/)(StreamContainer, LoadOptions) | Membuka gambar baru dengan*loadOptions* . |
+| [Load](../../aspose.psd/iimageloader/load/)(StreamContainer, LoadOptions) | Membuka gambar baru dengan *loadOptions*. |
 
-### Lihat juga
+### Lihat Juga
 
-* ruang nama [Aspose.PSD](../../aspose.psd/)
-* perakitan [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: PixelDataFormat.Cmyk
-second_title: Aspose.PSD untuk Referensi .NET API
-description: PixelDataFormat Properti. MendapatkanPixelDataFormat didefinisikan untuk 32 bit per piksel dengan 8 bit untuk masingmasing cyan magenta kuning dan hitam.
+title: "PixelDataFormat.Cmyk"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "PixelDataFormat properti. Mendapatkan PixelDataFormat yang didefinisikan untuk 32 bit per piksel dengan 8 bit untuk masing-masing cyan, magenta, kuning, dan hitam"
 type: docs
 weight: 10
 url: /id/net/aspose.psd/pixeldataformat/cmyk/
 ---
+{{< psd/tize >}}
 ## PixelDataFormat.Cmyk property
 
-Mendapatkan[`PixelDataFormat`](../) didefinisikan untuk 32 bit per piksel dengan 8 bit untuk masing-masing cyan, magenta, kuning dan hitam.
+Mendapatkan [`PixelDataFormat`](../) yang didefinisikan untuk 32 bit per piksel dengan 8 bit untuk masing-masing cyan, magenta, kuning, dan hitam.
 
 ```csharp
 public static PixelDataFormat Cmyk { get; }
 ```
 
-### Nilai properti
+### Property Value
 
-Itu[`PixelDataFormat`](../) didefinisikan untuk 32 bit per piksel dengan 8 bit untuk masing-masing cyan, magenta, kuning dan hitam.
+[`PixelDataFormat`](../) yang didefinisikan untuk 32 bit per piksel dengan 8 bit untuk masing-masing cyan, magenta, kuning, dan hitam.
 
-### Lihat juga
+### Lihat Juga
 
 * class [PixelDataFormat](../)
-* ruang nama [Aspose.PSD](../../pixeldataformat/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

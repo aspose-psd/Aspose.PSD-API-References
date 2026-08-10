@@ -1,48 +1,49 @@
 ---
-title: PathGradientBrush.SetSigmaBellShape
-second_title: Aspose.PSD untuk Referensi .NET API
-description: PathGradientBrush metode. Membuat kuas gradien yang berubah warna mulai dari pusat jalur ke luar hingga batas jalur. Transisi dari satu warna ke warna lain didasarkan pada kurva berbentuk lonceng.
+title: "PathGradientBrush.SetSigmaBellShape"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode PathGradientBrush. Membuat kuas gradien yang mengubah warna mulai dari pusat jalur ke arah batas jalur. Transisi dari satu warna ke warna lain didasarkan pada kurva berbentuk lonceng."
 type: docs
-weight: 60
+weight: 70
 url: /id/net/aspose.psd.brushes/pathgradientbrush/setsigmabellshape/
 ---
+{{< psd/tize >}}
 ## SetSigmaBellShape(float) {#setsigmabellshape}
 
-Membuat kuas gradien yang berubah warna mulai dari pusat jalur ke luar hingga batas jalur. Transisi dari satu warna ke warna lain didasarkan pada kurva berbentuk lonceng.
+Membuat kuas gradien yang mengubah warna mulai dari tengah jalur ke luar hingga batas jalur. Transisi dari satu warna ke warna lain didasarkan pada kurva berbentuk lonceng.
 
 ```csharp
 public void SetSigmaBellShape(float focus)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| focus | Single | Nilai dari 0 hingga 1 yang menentukan di mana, di sepanjang radial mana pun dari pusat jalur hingga batas jalur, warna tengah akan berada pada intensitas tertinggi. Nilai 1 (default) menempatkan intensitas tertinggi di tengah jalur. |
+| fokus | Single | Nilai antara 0 hingga 1 yang menentukan di mana, sepanjang radial apa pun dari pusat jalur ke batas jalur, warna pusat akan berada pada intensitas tertinggi. Nilai 1 (default) menempatkan intensitas tertinggi di pusat jalur. |
 
-### Lihat juga
+### Lihat Juga
 
 * class [PathGradientBrush](../)
-* ruang nama [Aspose.PSD.Brushes](../../pathgradientbrush/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## SetSigmaBellShape(float, float) {#setsigmabellshape_1}
 
-Membuat kuas gradien yang berubah warna mulai dari pusat jalur ke luar hingga batas jalur. Transisi dari satu warna ke warna lain didasarkan pada kurva berbentuk lonceng.
+Membuat kuas gradien yang mengubah warna mulai dari tengah jalur ke luar hingga batas jalur. Transisi dari satu warna ke warna lain didasarkan pada kurva berbentuk lonceng.
 
 ```csharp
 public void SetSigmaBellShape(float focus, float scale)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| focus | Single | Nilai dari 0 hingga 1 yang menentukan di mana, di sepanjang radial mana pun dari pusat jalur hingga batas jalur, warna tengah akan berada pada intensitas tertinggi. Nilai 1 (default) menempatkan intensitas tertinggi di tengah jalur. |
-| scale | Single | Nilai dari 0 hingga 1 yang menentukan intensitas maksimum warna tengah yang tercampur dengan warna batas. Nilai 1 menyebabkan kemungkinan intensitas warna tengah tertinggi, dan ini adalah nilai default. |
+| fokus | Single | Nilai antara 0 hingga 1 yang menentukan di mana, sepanjang radial apa pun dari pusat jalur ke batas jalur, warna pusat akan berada pada intensitas tertinggi. Nilai 1 (default) menempatkan intensitas tertinggi di pusat jalur. |
+| scale | Single | Nilai antara 0 hingga 1 yang menentukan intensitas maksimum warna pusat yang dicampur dengan warna batas. Nilai 1 menghasilkan intensitas tertinggi yang mungkin untuk warna pusat, dan merupakan nilai default. |
 
-### Lihat juga
+### Lihat Juga
 
 * class [PathGradientBrush](../)
-* ruang nama [Aspose.PSD.Brushes](../../pathgradientbrush/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
+* assembly [Aspose.PSD](../../../)
 
 

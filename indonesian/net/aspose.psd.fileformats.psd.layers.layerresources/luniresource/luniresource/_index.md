@@ -1,23 +1,24 @@
 ---
-title: LuniResource.LuniResource
-second_title: Aspose.PSD untuk Referensi .NET API
-description: LuniResource konstruktor. Menginisialisasi instance baru dariLuniResource kelas.
+title: "LuniResource.LuniResource"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Konstruktor LuniResource. Menginisialisasi instance baru dari kelas LuniResource"
 type: docs
 weight: 10
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources/luniresource/luniresource/
 ---
+{{< psd/tize >}}
 ## LuniResource constructor
 
-Menginisialisasi instance baru dari[`LuniResource`](../) kelas.
+Menginisialisasi instance baru dari kelas [`LuniResource`](../).
 
 ```csharp
 public LuniResource()
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [LuniResource](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../luniresource/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,28 +1,29 @@
 ---
-title: ExifData.ApertureValue
-second_title: Aspose.PSD untuk Referensi .NET API
-description: ExifData Properti. Mendapat atau menyetel nilai apertur.
+title: "ExifData.ApertureValue"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti ExifData. Mendapatkan atau mengatur nilai aperture"
 type: docs
 weight: 20
 url: /id/net/aspose.psd.exif/exifdata/aperturevalue/
 ---
+{{< psd/tize >}}
 ## ExifData.ApertureValue property
 
-Mendapat atau menyetel nilai apertur.
+Mendapatkan atau mengatur nilai aperture.
 
 ```csharp
 public TiffRational ApertureValue { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
-Nilai apertur.
+Nilai aperture.
 
-### Lihat juga
+### Lihat Juga
 
 * class [TiffRational](../../../aspose.psd.fileformats.tiff/tiffrational/)
 * class [ExifData](../)
-* ruang nama [Aspose.PSD.Exif](../../exifdata/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,49 +1,50 @@
 ---
-title: Size.Size
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Size konstruktor. Menginisialisasi instance baru dariSize struktur dari yang ditentukanPoint .
+title: "Size.Size"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Konstruktor Size. Menginisialisasi instance baru dari struktur Size dari Point yang ditentukan."
 type: docs
 weight: 10
 url: /id/net/aspose.psd/size/size/
 ---
+{{< psd/tize >}}
 ## Size(Point) {#constructor}
 
-Menginisialisasi instance baru dari[`Size`](../) struktur dari yang ditentukan[`Point`](../../point/) .
+Menginisialisasi instance baru dari struktur [`Size`](../) dari [`Point`](../../point/) yang ditentukan.
 
 ```csharp
 public Size(Point point)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| point | Point | Itu[`Point`](../../point/) dari mana untuk menginisialisasi ini[`Size`](../). |
+| point | Point | `[`Point`](../../point/)` yang digunakan untuk menginisialisasi [`Size`](../) ini. |
 
-### Lihat juga
+### Lihat Juga
 
 * struct [Point](../../point/)
 * struct [Size](../)
-* ruang nama [Aspose.PSD](../../size/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Size(int, int) {#constructor_1}
 
-Menginisialisasi instance baru dari[`Size`](../) struktur dari dimensi yang ditentukan.
+Menginisialisasi instance baru dari struktur [`Size`](../) dari dimensi yang ditentukan.
 
 ```csharp
 public Size(int width, int height)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| width | Int32 | Komponen lebar yang baru[`Size`](../). |
-| height | Int32 | Komponen ketinggian yang baru[`Size`](../). |
+| width | Int32 | Komponen lebar dari [`Size`](../) baru. |
+| height | Int32 | Komponen tinggi dari [`Size`](../) baru. |
 
-### Lihat juga
+### Lihat Juga
 
 * struct [Size](../)
-* ruang nama [Aspose.PSD](../../size/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

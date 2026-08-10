@@ -1,23 +1,24 @@
 ---
-title: StreamContainer.Flush
-second_title: Aspose.PSD untuk Referensi .NET API
-description: StreamContainer metode. Menghapus semua buffer untuk streaming ini dan menyebabkan semua data buffer ditulis ke perangkat pokok.
+title: "StreamContainer.Flush"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode StreamContainer. Menghapus semua buffer untuk aliran ini dan menyebabkan data yang di-buffer ditulis ke perangkat dasar"
 type: docs
 weight: 100
 url: /id/net/aspose.psd/streamcontainer/flush/
 ---
+{{< psd/tize >}}
 ## StreamContainer.Flush method
 
-Menghapus semua buffer untuk streaming ini dan menyebabkan semua data buffer ditulis ke perangkat pokok.
+Menghapus semua buffer untuk aliran ini dan menyebabkan data yang di-buffer ditulis ke perangkat dasar.
 
 ```csharp
 public virtual void Flush()
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [StreamContainer](../)
-* ruang nama [Aspose.PSD](../../streamcontainer/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

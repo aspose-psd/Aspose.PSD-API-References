@@ -1,11 +1,12 @@
 ---
-title: StreamContainer.Read
-second_title: Aspose.PSD untuk Referensi .NET API
-description: StreamContainer metode. Membaca byte untuk mengisi buffer byte yang ditentukan.
+title: "StreamContainer.Read"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode StreamContainer. Membaca byte untuk mengisi buffer byte yang ditentukan"
 type: docs
 weight: 110
 url: /id/net/aspose.psd/streamcontainer/read/
 ---
+{{< psd/tize >}}
 ## Read(byte[]) {#read}
 
 Membaca byte untuk mengisi buffer byte yang ditentukan.
@@ -14,44 +15,44 @@ Membaca byte untuk mengisi buffer byte yang ditentukan.
 public virtual int Read(byte[] bytes)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| bytes | Byte[] | Byte untuk diisi. |
+| byte | Byte[] | Byte yang akan diisi. |
 
-### Nilai Pengembalian
+### Nilai Kembalian
 
-Jumlah byte yang dibaca. Nilai ini bisa kurang dari jumlah byte dalam buffer jika byte dalam aliran tidak cukup.
+Jumlah byte yang dibaca. Nilai ini dapat lebih kecil daripada jumlah byte dalam buffer jika tidak cukup byte dalam aliran.
 
-### Lihat juga
+### Lihat Juga
 
 * class [StreamContainer](../)
-* ruang nama [Aspose.PSD](../../streamcontainer/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Read(byte[], int, int) {#read_1}
 
-Membaca urutan byte dari aliran saat ini dan memajukan posisi dalam aliran dengan jumlah byte yang dibaca.
+Membaca urutan byte dari aliran saat ini dan memajukan posisi dalam aliran sebesar jumlah byte yang dibaca.
 
 ```csharp
 public virtual int Read(byte[] buffer, int offset, int count)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| buffer | Byte[] | Array byte. Saat metode ini kembali, buffer berisi array byte yang ditentukan dengan nilai di antaranya*offset* Dan (*offset* +*count* - 1) diganti dengan byte yang dibaca dari sumber saat ini. |
-| offset | Int32 | Offset byte berbasis nol di*buffer* di mana untuk mulai menyimpan data yang dibaca dari aliran saat ini. |
-| count | Int32 | Jumlah maksimum byte yang akan dibaca dari aliran saat ini. |
+| buffer | Byte[] | Sebuah array byte. Ketika metode ini mengembalikan, buffer berisi array byte yang ditentukan dengan nilai antara *offset* dan (*offset* + *count* - 1) digantikan oleh byte yang dibaca dari sumber saat ini. |
+| offset | Int32 | Offset byte berbasis nol dalam *buffer* tempat mulai menyimpan data yang dibaca dari aliran saat ini. |
+| jumlah | Int32 | Jumlah maksimum byte yang akan dibaca dari aliran saat ini. |
 
-### Nilai Pengembalian
+### Nilai Kembalian
 
-Jumlah total byte yang dibaca ke dalam buffer. Ini bisa kurang dari jumlah byte yang diminta jika banyak byte saat ini tidak tersedia, atau nol (0) jika akhir aliran telah tercapai.
+Total jumlah byte yang dibaca ke dalam buffer. Ini dapat lebih kecil daripada jumlah byte yang diminta jika byte tersebut tidak tersedia saat ini, atau nol (0) jika akhir aliran telah tercapai.
 
-### Lihat juga
+### Lihat Juga
 
 * class [StreamContainer](../)
-* ruang nama [Aspose.PSD](../../streamcontainer/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

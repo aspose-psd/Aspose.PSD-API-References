@@ -1,28 +1,29 @@
 ---
-title: XmpDynamicMediaPackage.SetFileDataRate
-second_title: Aspose.PSD untuk Referensi .NET API
-description: XmpDynamicMediaPackage metode. Mengatur kecepatan data file.
+title: "XmpDynamicMediaPackage.SetFileDataRate"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode XmpDynamicMediaPackage. Menetapkan laju data file"
 type: docs
 weight: 210
 url: /id/net/aspose.psd.xmp.schemas.xmpdm/xmpdynamicmediapackage/setfiledatarate/
 ---
+{{< psd/tize >}}
 ## XmpDynamicMediaPackage.SetFileDataRate method
 
-Mengatur kecepatan data file.
+Mengatur laju data file.
 
 ```csharp
 public void SetFileDataRate(Rational rate)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| rate | Rational | Kecepatan data file dalam megabita per detik. |
+| laju | Rasional | Laju data file dalam megabyte per detik. |
 
-### Lihat juga
+### Lihat Juga
 
 * class [Rational](../../../aspose.psd.xmp.types.derived/rational/)
 * class [XmpDynamicMediaPackage](../)
-* ruang nama [Aspose.PSD.Xmp.Schemas.XmpDm](../../xmpdynamicmediapackage/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpDm](../../../aspose.psd.xmp.schemas.xmpdm/)
+* assembly [Aspose.PSD](../../../)
 
 

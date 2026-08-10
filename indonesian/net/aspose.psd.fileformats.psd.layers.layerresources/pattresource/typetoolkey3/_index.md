@@ -1,11 +1,12 @@
 ---
-title: PattResource.TypeToolKey3
-second_title: Aspose.PSD untuk Referensi .NET API
-description: PattResource bidang. Kunci info alat tipe Pat3 untuk 32bit.
+title: "PattResource.TypeToolKey3"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "PattResource field. Kunci info alat tipe Pat3 untuk 32bits"
 type: docs
-weight: 100
+weight: 70
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources/pattresource/typetoolkey3/
 ---
+{{< psd/tize >}}
 ## PattResource.TypeToolKey3 field
 
 Kunci info alat tipe 'Pat3' untuk 32-bit.
@@ -14,10 +15,10 @@ Kunci info alat tipe 'Pat3' untuk 32-bit.
 public const int TypeToolKey3;
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [PattResource](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../pattresource/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

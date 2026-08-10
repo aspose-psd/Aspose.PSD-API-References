@@ -1,14 +1,15 @@
 ---
-title: Enum ExifWhiteBalance
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Aspose.PSD.Exif.Enums.ExifWhiteBalance enum. enum keseimbangan putih exif.
+title: "Enum ExifWhiteBalance"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Aspose.PSD.Exif.Enums.ExifWhiteBalance enum. keseimbangan putih exif enum"
 type: docs
-weight: 970
+weight: 980
 url: /id/net/aspose.psd.exif.enums/exifwhitebalance/
 ---
+{{< psd/tize >}}
 ## ExifWhiteBalance enumeration
 
-enum keseimbangan putih exif.
+enumerasi keseimbangan putih exif.
 
 ```csharp
 public enum ExifWhiteBalance
@@ -16,14 +17,14 @@ public enum ExifWhiteBalance
 
 ### Nilai
 
-| Nama | Nilai | Keterangan |
+| Nama | Nilai | Deskripsi |
 | --- | --- | --- |
 | Auto | `0` | Keseimbangan putih otomatis |
 | Manual | `1` | Keseimbangan putih manual |
 
-### Lihat juga
+### Lihat Juga
 
-* ruang nama [Aspose.PSD.Exif.Enums](../../aspose.psd.exif.enums/)
-* perakitan [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Exif.Enums](../../aspose.psd.exif.enums/)
+* assembly [Aspose.PSD](../../)
 
 

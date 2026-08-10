@@ -1,27 +1,28 @@
 ---
-title: XmpText.GetXmpRepresentation
-second_title: Aspose.PSD untuk Referensi .NET API
-description: XmpText metode. Mendapat string berisi nilai dalam format XMP.
+title: "XmpText.GetXmpRepresentation"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode XmpText. Mendapatkan nilai string yang terkandung dalam format XMP"
 type: docs
 weight: 30
 url: /id/net/aspose.psd.xmp.types.basic/xmptext/getxmprepresentation/
 ---
+{{< psd/tize >}}
 ## XmpText.GetXmpRepresentation method
 
-Mendapat string berisi nilai dalam format XMP.
+Mendapatkan nilai string yang terkandung dalam format XMP.
 
 ```csharp
 public override string GetXmpRepresentation()
 ```
 
-### Nilai Pengembalian
+### Nilai Kembalian
 
-Mengembalikan string berisi nilai dalam format XMP.
+Mengembalikan nilai string yang terkandung dalam format XMP.
 
-### Lihat juga
+### Lihat Juga
 
 * class [XmpText](../)
-* ruang nama [Aspose.PSD.Xmp.Types.Basic](../../xmptext/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Basic](../../../aspose.psd.xmp.types.basic/)
+* assembly [Aspose.PSD](../../../)
 
 

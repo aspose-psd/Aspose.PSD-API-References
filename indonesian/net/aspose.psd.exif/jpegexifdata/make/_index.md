@@ -1,27 +1,28 @@
 ---
-title: JpegExifData.Make
-second_title: Aspose.PSD untuk Referensi .NET API
-description: JpegExifData Properti. Mendapatkan atau menyetel pembuat peralatan rekaman.
+title: "JpegExifData.Make"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti JpegExifData. Mendapatkan atau mengatur produsen peralatan perekaman"
 type: docs
 weight: 100
 url: /id/net/aspose.psd.exif/jpegexifdata/make/
 ---
+{{< psd/tize >}}
 ## JpegExifData.Make property
 
-Mendapatkan atau menyetel pembuat peralatan rekaman.
+Mendapatkan atau mengatur produsen peralatan perekaman.
 
 ```csharp
 public string Make { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
-Produsen alat perekam.
+Produsen peralatan perekaman.
 
-### Lihat juga
+### Lihat Juga
 
 * class [JpegExifData](../)
-* ruang nama [Aspose.PSD.Exif](../../jpegexifdata/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

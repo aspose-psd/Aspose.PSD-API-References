@@ -1,14 +1,15 @@
 ---
-title: Enum PixelFormat
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Aspose.PSD.PixelFormat enum. Arti sebenarnya format data piksel.
+title: "Enum PixelFormat"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Enum Aspose.PSD.PixelFormat. Makna sebenarnya dari format data piksel"
 type: docs
-weight: 5240
+weight: 5730
 url: /id/net/aspose.psd/pixelformat/
 ---
+{{< psd/tize >}}
 ## PixelFormat enumeration
 
-Arti sebenarnya format data piksel.
+Arti sebenarnya dari format data piksel.
 
 ```csharp
 public enum PixelFormat
@@ -16,19 +17,19 @@ public enum PixelFormat
 
 ### Nilai
 
-| Nama | Nilai | Keterangan |
+| Nama | Nilai | Deskripsi |
 | --- | --- | --- |
-| Grayscale | `0` | Ruang warna abu-abu |
+| Grayscale | `0` | Ruang warna skala abu-abu |
 | Bgr | `1` | Ruang warna BGR. |
 | Rgb | `2` | Ruang warna RGB. |
 | YCbCr | `3` | Ruang warna YCbCr. |
 | Cmyk | `4` | Ruang warna CMYK. |
 | Ycck | `5` | Ruang warna YCCK. |
-| CieLab | `6` | Ruang warna lab CIE. |
+| CieLab | `6` | Ruang warna CIE lab. |
 
-### Lihat juga
+### Lihat Juga
 
-* ruang nama [Aspose.PSD](../../aspose.psd/)
-* perakitan [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

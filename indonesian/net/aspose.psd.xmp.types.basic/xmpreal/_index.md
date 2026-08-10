@@ -1,14 +1,15 @@
 ---
-title: Class XmpReal
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Aspose.PSD.Xmp.Types.Basic.XmpReal kelas. Mewakili XMP Nyata.
+title: "Kelas XmpReal"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Kelas Aspose.PSD.Xmp.Types.Basic.XmpReal. Mewakili Real XMP"
 type: docs
-weight: 5970
+weight: 6470
 url: /id/net/aspose.psd.xmp.types.basic/xmpreal/
 ---
+{{< psd/tize >}}
 ## XmpReal class
 
-Mewakili XMP Nyata.
+Mewakili XMP Real.
 
 ```csharp
 public sealed class XmpReal : XmpTypeBase
@@ -16,27 +17,27 @@ public sealed class XmpReal : XmpTypeBase
 
 ## Konstruktor
 
-| Nama | Keterangan |
+| Nama | Deskripsi |
 | --- | --- |
-| [XmpReal](xmpreal/#constructor)(float) | Menginisialisasi instance baru dari`XmpReal` kelas. |
-| [XmpReal](xmpreal/#constructor_1)(string) | Menginisialisasi instance baru dari`XmpReal` kelas. |
+| [XmpReal](xmpreal/#constructor)(float) | Menginisialisasi instance baru dari kelas `XmpReal`. |
+| [XmpReal](xmpreal/#constructor_1)(string) | Menginisialisasi instance baru dari kelas `XmpReal`. |
 
 ## Properti
 
-| Nama | Keterangan |
+| Nama | Deskripsi |
 | --- | --- |
-| [Value](../../aspose.psd.xmp.types.basic/xmpreal/value/) { get; set; } | Mendapat atau menetapkan float nilai. |
+| [Value](../../aspose.psd.xmp.types.basic/xmpreal/value/) { get; set; } | Mendapatkan atau mengatur nilai float. |
 
 ## Metode
 
-| Nama | Keterangan |
+| Nama | Deskripsi |
 | --- | --- |
-| override [GetXmpRepresentation](../../aspose.psd.xmp.types.basic/xmpreal/getxmprepresentation/)() | Mendapat string berisi nilai dalam format XMP. |
+| override [GetXmpRepresentation](../../aspose.psd.xmp.types.basic/xmpreal/getxmprepresentation/)() | Mendapatkan nilai string yang terkandung dalam format XMP. |
 
-### Lihat juga
+### Lihat Juga
 
 * class [XmpTypeBase](../../aspose.psd.xmp.types/xmptypebase/)
-* ruang nama [Aspose.PSD.Xmp.Types.Basic](../../aspose.psd.xmp.types.basic/)
-* perakitan [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Xmp.Types.Basic](../../aspose.psd.xmp.types.basic/)
+* assembly [Aspose.PSD](../../)
 
 

@@ -1,24 +1,25 @@
 ---
-title: LayerGroup.Layers
-second_title: Aspose.PSD untuk Referensi .NET API
-description: LayerGroup Properti. Mendapat lapisan dalam grup lapisan
+title: "LayerGroup.Layers"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti LayerGroup. Mendapatkan lapisan dalam grup lapisan"
 type: docs
 weight: 40
 url: /id/net/aspose.psd.fileformats.psd.layers/layergroup/layers/
 ---
+{{< psd/tize >}}
 ## LayerGroup.Layers property
 
-Mendapat lapisan dalam grup lapisan
+Mendapatkan lapisan dalam grup lapisan
 
 ```csharp
 public Layer[] Layers { get; }
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [Layer](../../layer/)
 * class [LayerGroup](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers](../../layergroup/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,28 +1,29 @@
 ---
-title: ExifData.WhiteBalance
-second_title: Aspose.PSD untuk Referensi .NET API
-description: ExifData Properti. Mendapat atau menyetel white balance.
+title: "ExifData.WhiteBalance"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti ExifData. Mendapatkan atau mengatur keseimbangan putih"
 type: docs
 weight: 1070
 url: /id/net/aspose.psd.exif/exifdata/whitebalance/
 ---
+{{< psd/tize >}}
 ## ExifData.WhiteBalance property
 
-Mendapat atau menyetel white balance.
+Mendapatkan atau mengatur keseimbangan putih.
 
 ```csharp
 public ExifWhiteBalance WhiteBalance { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
 Keseimbangan putih.
 
-### Lihat juga
+### Lihat Juga
 
 * enum [ExifWhiteBalance](../../../aspose.psd.exif.enums/exifwhitebalance/)
 * class [ExifData](../)
-* ruang nama [Aspose.PSD.Exif](../../exifdata/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

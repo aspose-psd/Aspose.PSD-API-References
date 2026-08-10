@@ -1,23 +1,24 @@
 ---
-title: PtFlResource.TypeToolKey
-second_title: Aspose.PSD untuk Referensi .NET API
-description: PtFlResource bidang. Kunci info alat ketik.
+title: "PtFlResource.TypeToolKey"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Field PtFlResource. Kunci informasi alat tipe"
 type: docs
-weight: 130
+weight: 110
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources/ptflresource/typetoolkey/
 ---
+{{< psd/tize >}}
 ## PtFlResource.TypeToolKey field
 
-Kunci info alat ketik.
+Kunci info alat tipe.
 
 ```csharp
 public const int TypeToolKey;
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [PtFlResource](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../ptflresource/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

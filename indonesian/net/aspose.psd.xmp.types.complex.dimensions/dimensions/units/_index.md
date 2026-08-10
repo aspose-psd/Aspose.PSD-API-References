@@ -1,31 +1,32 @@
 ---
-title: Dimensions.Units
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Dimensions Properti. Mendapat atau menetapkan unit.
+title: "Dimensions.Units"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "properti Dimensions. Mendapatkan atau mengatur unit"
 type: docs
 weight: 30
 url: /id/net/aspose.psd.xmp.types.complex.dimensions/dimensions/units/
 ---
+{{< psd/tize >}}
 ## Dimensions.Units property
 
-Mendapat atau menetapkan unit.
+Mendapatkan atau mengatur satuan.
 
 ```csharp
 public string Units { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
-Satuannya.
+Unit.
 
-### Contoh
+## Contoh
 
-Contoh: inci, mm, piksel, pica, titik dll.
+Misalnya: inci, mm, piksel, pica, poin, dll.
 
-### Lihat juga
+### Lihat Juga
 
 * class [Dimensions](../)
-* ruang nama [Aspose.PSD.Xmp.Types.Complex.Dimensions](../../dimensions/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.Dimensions](../../../aspose.psd.xmp.types.complex.dimensions/)
+* assembly [Aspose.PSD](../../../)
 
 

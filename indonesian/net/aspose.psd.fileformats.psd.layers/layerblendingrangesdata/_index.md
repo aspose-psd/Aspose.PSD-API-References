@@ -1,14 +1,15 @@
 ---
-title: Class LayerBlendingRangesData
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerBlendingRangesData kelas. Data rentang pencampuran layer.
+title: "Kelas LayerBlendingRangesData"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Kelas Aspose.PSD.FileFormats.Psd.Layers.LayerBlendingRangesData. Data rentang pencampuran lapisan"
 type: docs
-weight: 2090
+weight: 2280
 url: /id/net/aspose.psd.fileformats.psd.layers/layerblendingrangesdata/
 ---
+{{< psd/tize >}}
 ## LayerBlendingRangesData class
 
-Data rentang pencampuran layer.
+Data rentang pencampuran lapisan.
 
 ```csharp
 public sealed class LayerBlendingRangesData
@@ -16,21 +17,21 @@ public sealed class LayerBlendingRangesData
 
 ## Konstruktor
 
-| Nama | Keterangan |
+| Nama | Deskripsi |
 | --- | --- |
 | [LayerBlendingRangesData](layerblendingrangesdata/)() | Konstruktor default. |
 
 ## Properti
 
-| Nama | Keterangan |
+| Nama | Deskripsi |
 | --- | --- |
-| [ChannelBlendRanges](../../aspose.psd.fileformats.psd.layers/layerblendingrangesdata/channelblendranges/) { get; set; } | Mendapat atau menyetel rentang campuran saluran. |
-| [CompositeBlendRange](../../aspose.psd.fileformats.psd.layers/layerblendingrangesdata/compositeblendrange/) { get; set; } | Mendapat atau menyetel rentang campuran komposit. |
-| [Length](../../aspose.psd.fileformats.psd.layers/layerblendingrangesdata/length/) { get; } | Mendapatkan panjang data rentang campuran lapisan dalam byte. |
+| [ChannelBlendRanges](../../aspose.psd.fileformats.psd.layers/layerblendingrangesdata/channelblendranges/) { get; set; } | Mendapatkan atau mengatur rentang pencampuran kanal. |
+| [CompositeBlendRange](../../aspose.psd.fileformats.psd.layers/layerblendingrangesdata/compositeblendrange/) { get; set; } | Mendapatkan atau mengatur rentang pencampuran komposit. |
+| [Length](../../aspose.psd.fileformats.psd.layers/layerblendingrangesdata/length/) { get; } | Mendapatkan panjang data rentang pencampuran lapisan dalam byte. |
 
-### Lihat juga
+### Lihat Juga
 
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers](../../aspose.psd.fileformats.psd.layers/)
-* perakitan [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../)
 
 

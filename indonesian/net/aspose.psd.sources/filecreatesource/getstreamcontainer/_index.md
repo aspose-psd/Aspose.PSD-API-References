@@ -1,32 +1,33 @@
 ---
-title: FileCreateSource.GetStreamContainer
-second_title: Aspose.PSD untuk Referensi .NET API
-description: FileCreateSource metode. Mendapatkan wadah aliran.
+title: "FileCreateSource.GetStreamContainer"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "FileCreateSource method. Mendapatkan kontainer aliran"
 type: docs
 weight: 40
 url: /id/net/aspose.psd.sources/filecreatesource/getstreamcontainer/
 ---
+{{< psd/tize >}}
 ## FileCreateSource.GetStreamContainer method
 
-Mendapatkan wadah aliran.
+Mendapatkan kontainer aliran.
 
 ```csharp
 public override StreamContainer GetStreamContainer()
 ```
 
-### Nilai Pengembalian
+### Nilai Kembalian
 
-wadah aliran.
+kontainer aliran.
 
-### Perkataan
+## Catatan
 
-Gunakan dengan hati-hati. Anda harus membuang wadah aliran setelah pengambilan.
+Gunakan dengan hati-hati. Anda perlu membuang kontainer aliran setelah pengambilan.
 
-### Lihat juga
+### Lihat Juga
 
 * class [StreamContainer](../../../aspose.psd/streamcontainer/)
 * class [FileCreateSource](../)
-* ruang nama [Aspose.PSD.Sources](../../filecreatesource/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Sources](../../../aspose.psd.sources/)
+* assembly [Aspose.PSD](../../../)
 
 

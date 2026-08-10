@@ -1,11 +1,12 @@
 ---
-title: PixelAspectRatioResource.DataSize
-second_title: Aspose.PSD untuk Referensi .NET API
-description: PixelAspectRatioResource Properti. Mendapatkan ukuran data sumber daya dalam byte.
+title: "PixelAspectRatioResource.DataSize"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti PixelAspectRatioResource. Mendapatkan ukuran data sumber daya dalam byte"
 type: docs
 weight: 30
 url: /id/net/aspose.psd.fileformats.psd.resources/pixelaspectratioresource/datasize/
 ---
+{{< psd/tize >}}
 ## PixelAspectRatioResource.DataSize property
 
 Mendapatkan ukuran data sumber daya dalam byte.
@@ -14,14 +15,14 @@ Mendapatkan ukuran data sumber daya dalam byte.
 public override int DataSize { get; }
 ```
 
-### Nilai properti
+### Property Value
 
 Ukuran data sumber daya.
 
-### Lihat juga
+### Lihat Juga
 
 * class [PixelAspectRatioResource](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Resources](../../pixelaspectratioresource/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

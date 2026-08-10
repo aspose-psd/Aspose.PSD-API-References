@@ -1,28 +1,29 @@
 ---
-title: BlendingOptions.AddPatternOverlay
-second_title: Aspose.PSD untuk Referensi .NET API
-description: BlendingOptions metode. Menambahkan Hamparan Pola.
+title: "BlendingOptions.AddPatternOverlay"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode BlendingOptions. Menambahkan overlay Pattern"
 type: docs
-weight: 70
+weight: 80
 url: /id/net/aspose.psd.fileformats.psd.layers.layereffects/blendingoptions/addpatternoverlay/
 ---
+{{< psd/tize >}}
 ## BlendingOptions.AddPatternOverlay method
 
-Menambahkan Hamparan Pola.
+Menambahkan overlay Pola.
 
 ```csharp
 public PatternOverlayEffect AddPatternOverlay()
 ```
 
-### Nilai Pengembalian
+### Nilai Kembalian
 
-Dibuat[`PatternOverlayEffect`](../../patternoverlayeffect/) objek
+Membuat objek [`PatternOverlayEffect`](../../patternoverlayeffect/)
 
-### Lihat juga
+### Lihat Juga
 
 * class [PatternOverlayEffect](../../patternoverlayeffect/)
 * class [BlendingOptions](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../blendingoptions/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../../)
 
 

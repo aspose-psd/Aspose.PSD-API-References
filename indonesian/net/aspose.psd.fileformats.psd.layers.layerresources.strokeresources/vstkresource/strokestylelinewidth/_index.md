@@ -1,20 +1,21 @@
 ---
-title: VstkResource.StrokeStyleLineWidth
-second_title: Aspose.PSD untuk Referensi .NET API
-description: VstkResource Properti. Mendapat atau mengatur lebar garis Stroke.
+title: "VstkResource.StrokeStyleLineWidth"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "VstkResource property. Mendapatkan atau mengatur lebar garis Stroke"
 type: docs
-weight: 160
+weight: 140
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources.strokeresources/vstkresource/strokestylelinewidth/
 ---
+{{< psd/tize >}}
 ## VstkResource.StrokeStyleLineWidth property
 
-Mendapat atau mengatur lebar garis Stroke.
+Mendapatkan atau mengatur lebar garis Stroke.
 
 ```csharp
 public double StrokeStyleLineWidth { get; set; }
 ```
 
-### Contoh
+## Contoh
 
 Kode berikut menunjukkan dukungan sumber daya VstkResource.
 
@@ -41,10 +42,10 @@ using (PsdImage image = (PsdImage)Image.Load(srcFile))
 }
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [VstkResource](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.StrokeResources](../../vstkresource/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.StrokeResources](../../../aspose.psd.fileformats.psd.layers.layerresources.strokeresources/)
+* assembly [Aspose.PSD](../../../)
 
 

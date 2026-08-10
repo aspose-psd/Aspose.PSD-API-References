@@ -1,11 +1,12 @@
 ---
-title: VectorShapeBoundingBox.VectorShapeBoundingBox
-second_title: Aspose.PSD untuk Referensi .NET API
-description: VectorShapeBoundingBox konstruktor. Konstruktor default.
+title: "VectorShapeBoundingBox.VectorShapeBoundingBox"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Konstruktor VectorShapeBoundingBox. Konstruktor default"
 type: docs
 weight: 10
 url: /id/net/aspose.psd.fileformats.core.vectorpaths/vectorshapeboundingbox/vectorshapeboundingbox/
 ---
+{{< psd/tize >}}
 ## VectorShapeBoundingBox constructor
 
 Konstruktor default.
@@ -14,10 +15,10 @@ Konstruktor default.
 public VectorShapeBoundingBox()
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [VectorShapeBoundingBox](../)
-* ruang nama [Aspose.PSD.FileFormats.Core.VectorPaths](../../vectorshapeboundingbox/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: Rectangle.Width
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Rectangle Properti. Mendapat atau mengatur lebar iniRectanglestruktur.
+title: "Rectangle.Width"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti Rectangle. Mendapatkan atau mengatur lebar struktur Rectangle ini."
 type: docs
 weight: 190
 url: /id/net/aspose.psd/rectangle/width/
 ---
+{{< psd/tize >}}
 ## Rectangle.Width property
 
-Mendapat atau mengatur lebar ini[`Rectangle`](../)struktur.
+Mendapatkan atau mengatur lebar struktur [`Rectangle`](../) ini.
 
 ```csharp
 public int Width { get; set; }
 ```
 
-### Nilai Pengembalian
+### Nilai Kembalian
 
-Lebar ini[`Rectangle`](../) struktur.
+Lebar struktur [`Rectangle`](../) ini.
 
-### Lihat juga
+### Lihat Juga
 
 * struct [Rectangle](../)
-* ruang nama [Aspose.PSD](../../rectangle/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

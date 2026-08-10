@@ -1,23 +1,24 @@
 ---
-title: CustResource.Signature
-second_title: Aspose.PSD untuk Referensi .NET API
-description: CustResource Properti. Mendapat tanda tangan.
+title: "CustResource.Signature"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti CustResource. Mendapatkan tanda tangan"
 type: docs
 weight: 60
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources/custresource/signature/
 ---
+{{< psd/tize >}}
 ## CustResource.Signature property
 
-Mendapat tanda tangan.
+Mendapatkan tanda tangan.
 
 ```csharp
 public override int Signature { get; }
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [CustResource](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../custresource/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

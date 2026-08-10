@@ -1,11 +1,12 @@
 ---
-title: PdfOptions.PdfOptions
-second_title: Aspose.PSD untuk Referensi .NET API
-description: PdfOptions konstruktor. Konstruktor default.
+title: "PdfOptions.PdfOptions"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Konstruktor PdfOptions. Konstruktor default"
 type: docs
 weight: 10
 url: /id/net/aspose.psd.imageoptions/pdfoptions/pdfoptions/
 ---
+{{< psd/tize >}}
 ## PdfOptions constructor
 
 Konstruktor default.
@@ -14,10 +15,10 @@ Konstruktor default.
 public PdfOptions()
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [PdfOptions](../)
-* ruang nama [Aspose.PSD.ImageOptions](../../pdfoptions/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

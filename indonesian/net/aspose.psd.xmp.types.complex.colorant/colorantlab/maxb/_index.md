@@ -1,11 +1,12 @@
 ---
-title: ColorantLab.MaxB
-second_title: Aspose.PSD untuk Referensi .NET API
-description: ColorantLab bidang. Nilai maksimum komponen A
+title: "ColorantLab.MaxB"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Field ColorantLab. Nilai maksimum komponen A"
 type: docs
 weight: 70
 url: /id/net/aspose.psd.xmp.types.complex.colorant/colorantlab/maxb/
 ---
+{{< psd/tize >}}
 ## ColorantLab.MaxB field
 
 Nilai maksimum komponen A
@@ -14,10 +15,10 @@ Nilai maksimum komponen A
 public const int MaxB;
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [ColorantLab](../)
-* ruang nama [Aspose.PSD.Xmp.Types.Complex.Colorant](../../colorantlab/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.Colorant](../../../aspose.psd.xmp.types.complex.colorant/)
+* assembly [Aspose.PSD](../../../)
 
 

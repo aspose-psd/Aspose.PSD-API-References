@@ -1,32 +1,33 @@
 ---
-title: Rectangle.Round
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Rectangle metode. Mengonversi yang ditentukanRectangleF ke aRectangle dengan membulatkanRectangleF nilai ke nilai bilangan bulat terdekat.
+title: "Rectangle.Round"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode Rectangle. Mengonversi RectangleF yang ditentukan menjadi Rectangle dengan membulatkan nilai RectangleF ke nilai integer terdekat."
 type: docs
 weight: 80
 url: /id/net/aspose.psd/rectangle/round/
 ---
+{{< psd/tize >}}
 ## Rectangle.Round method
 
-Mengonversi yang ditentukan[`RectangleF`](../../rectanglef/) ke a[`Rectangle`](../) dengan membulatkan[`RectangleF`](../../rectanglef/) nilai ke nilai bilangan bulat terdekat.
+Mengonversi [`RectangleF`](../../rectanglef/) yang ditentukan menjadi [`Rectangle`](../) dengan membulatkan nilai [`RectangleF`](../../rectanglef/) ke nilai integer terdekat.
 
 ```csharp
 public static Rectangle Round(RectangleF value)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| value | RectangleF | Itu[`RectangleF`](../../rectanglef/) untuk dikonversi. |
+| value | RectangleF | [`RectangleF`](../../rectanglef/) yang akan dikonversi. |
 
-### Nilai Pengembalian
+### Nilai Kembalian
 
-Baru[`Rectangle`](../).
+Sebuah [`Rectangle`](../) baru.
 
-### Lihat juga
+### Lihat Juga
 
 * struct [RectangleF](../../rectanglef/)
 * struct [Rectangle](../)
-* ruang nama [Aspose.PSD](../../rectangle/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

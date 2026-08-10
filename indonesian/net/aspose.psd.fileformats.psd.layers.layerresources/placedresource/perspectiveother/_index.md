@@ -1,27 +1,28 @@
 ---
-title: PlacedResource.PerspectiveOther
-second_title: Aspose.PSD untuk Referensi .NET API
-description: PlacedResource Properti. Mendapat atau menyetel nilai perspektif lain dari lapisan yang ditempatkan di file PSD.
+title: "PlacedResource.PerspectiveOther"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti PlacedResource. Mendapatkan atau mengatur nilai perspektif lain dari lapisan yang ditempatkan dalam file PSD"
 type: docs
 weight: 110
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources/placedresource/perspectiveother/
 ---
+{{< psd/tize >}}
 ## PlacedResource.PerspectiveOther property
 
-Mendapat atau menyetel nilai perspektif lain dari lapisan yang ditempatkan di file PSD.
+Mendapatkan atau mengatur nilai perspektif lainnya lapisan yang ditempatkan dalam file PSD.
 
 ```csharp
 public double PerspectiveOther { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
-Perspektif nilai lain dari lapisan yang ditempatkan.
+Nilai perspektif lain dari lapisan yang ditempatkan.
 
-### Lihat juga
+### Lihat Juga
 
 * class [PlacedResource](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../placedresource/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

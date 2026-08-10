@@ -1,27 +1,28 @@
 ---
-title: PdfPackage.SetTrapped
-second_title: Aspose.PSD untuk Referensi .NET API
-description: PdfPackage metode. Mengatur yang terjebak.
+title: "PdfPackage.SetTrapped"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode PdfPackage. Mengatur trapped"
 type: docs
 weight: 60
 url: /id/net/aspose.psd.xmp.schemas.pdf/pdfpackage/settrapped/
 ---
+{{< psd/tize >}}
 ## PdfPackage.SetTrapped method
 
-Mengatur yang terjebak.
+Mengatur trapped.
 
 ```csharp
 public void SetTrapped(bool isTrapped)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| isTrapped | Boolean | jika diatur ke`BENAR` dokumen telah terjebak. |
+| isTrapped | Boolean | jika disetel ke `true` dokumen telah ter-trapped. |
 
-### Lihat juga
+### Lihat Juga
 
 * class [PdfPackage](../)
-* ruang nama [Aspose.PSD.Xmp.Schemas.Pdf](../../pdfpackage/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.Pdf](../../../aspose.psd.xmp.schemas.pdf/)
+* assembly [Aspose.PSD](../../../)
 
 

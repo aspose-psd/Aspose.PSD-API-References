@@ -1,11 +1,12 @@
 ---
-title: LayerSelectionIdsResource.DataSize
-second_title: Aspose.PSD untuk Referensi .NET API
-description: LayerSelectionIdsResource Properti. Mendapatkan ukuran data sumber daya dalam byte.
+title: "LayerSelectionIdsResource.DataSize"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti LayerSelectionIdsResource. Mendapatkan ukuran data sumber daya dalam byte"
 type: docs
 weight: 30
 url: /id/net/aspose.psd.fileformats.psd.resources/layerselectionidsresource/datasize/
 ---
+{{< psd/tize >}}
 ## LayerSelectionIdsResource.DataSize property
 
 Mendapatkan ukuran data sumber daya dalam byte.
@@ -14,14 +15,14 @@ Mendapatkan ukuran data sumber daya dalam byte.
 public override int DataSize { get; }
 ```
 
-### Nilai properti
+### Property Value
 
 Ukuran data sumber daya.
 
-### Lihat juga
+### Lihat Juga
 
 * class [LayerSelectionIdsResource](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Resources](../../layerselectionidsresource/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: TypeToolFontInfo.ScriptValue
-second_title: Aspose.PSD untuk Referensi .NET API
-description: TypeToolFontInfo Properti. Mendapat atau menetapkan nilai skrip.
+title: "TypeToolFontInfo.ScriptValue"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "TypeToolFontInfo properti. Mendapatkan atau mengatur nilai skrip"
 type: docs
 weight: 100
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources/typetoolfontinfo/scriptvalue/
 ---
+{{< psd/tize >}}
 ## TypeToolFontInfo.ScriptValue property
 
-Mendapat atau menetapkan nilai skrip.
+Mendapatkan atau mengatur nilai skrip.
 
 ```csharp
 public short ScriptValue { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
 Nilai skrip.
 
-### Lihat juga
+### Lihat Juga
 
 * class [TypeToolFontInfo](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../typetoolfontinfo/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

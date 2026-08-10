@@ -1,28 +1,29 @@
 ---
-title: Pen.PenType
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Pen Properti. Mendapat gaya garis yang digambar dengan iniPen .
+title: "Pen.PenType"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti Pen. Mendapatkan gaya garis yang digambar dengan Pen ini."
 type: docs
 weight: 150
 url: /id/net/aspose.psd/pen/pentype/
 ---
+{{< psd/tize >}}
 ## Pen.PenType property
 
-Mendapat gaya garis yang digambar dengan ini[`Pen`](../) .
+Mendapatkan gaya garis yang digambar dengan [`Pen`](../).
 
 ```csharp
 public PenType PenType { get; }
 ```
 
-### Nilai properti
+### Property Value
 
-A`PenType` pencacahan yang menentukan gaya garis yang digambar dengan ini[`Pen`](../).
+Enum `PenType` yang menentukan gaya garis yang digambar dengan [`Pen`](../).
 
-### Lihat juga
+### Lihat Juga
 
 * enum [PenType](../../pentype/)
 * class [Pen](../)
-* ruang nama [Aspose.PSD](../../pen/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

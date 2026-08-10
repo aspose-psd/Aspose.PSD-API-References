@@ -1,11 +1,12 @@
 ---
-title: WatermarkResource.WatermarkResource
-second_title: Aspose.PSD untuk Referensi .NET API
-description: WatermarkResource konstruktor. Konstruktor default.
+title: "WatermarkResource.WatermarkResource"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Konstruktor WatermarkResource. Konstruktor default"
 type: docs
 weight: 10
 url: /id/net/aspose.psd.fileformats.psd.resources/watermarkresource/watermarkresource/
 ---
+{{< psd/tize >}}
 ## WatermarkResource constructor
 
 Konstruktor default.
@@ -14,10 +15,10 @@ Konstruktor default.
 public WatermarkResource()
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [WatermarkResource](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Resources](../../watermarkresource/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

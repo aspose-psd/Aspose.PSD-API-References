@@ -1,23 +1,24 @@
 ---
-title: Point.Y
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Point Properti. Mendapat atau menetapkan koordinat y dari iniPoint .
+title: "Point.Y"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Point property. Mendapatkan atau mengatur koordinat y dari Point ini"
 type: docs
 weight: 100
 url: /id/net/aspose.psd/point/y/
 ---
+{{< psd/tize >}}
 ## Point.Y property
 
-Mendapat atau menetapkan koordinat y dari ini[`Point`](../) .
+Mendapatkan atau mengatur koordinat y dari [`Point`](../) ini.
 
 ```csharp
 public int Y { get; set; }
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * struct [Point](../)
-* ruang nama [Aspose.PSD](../../point/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

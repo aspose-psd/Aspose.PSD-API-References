@@ -1,27 +1,28 @@
 ---
-title: AiHeader.DocumentPreview
-second_title: Aspose.PSD untuk Referensi .NET API
-description: AiHeader Properti. Mendapat atau menyetel pratinjau dokumen.
+title: "AiHeader.DocumentPreview"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "AiHeader properti. Mendapatkan atau mengatur pratinjau dokumen"
 type: docs
 weight: 50
 url: /id/net/aspose.psd.fileformats.ai/aiheader/documentpreview/
 ---
+{{< psd/tize >}}
 ## AiHeader.DocumentPreview property
 
-Mendapat atau menyetel pratinjau dokumen.
+Mendapatkan atau mengatur pratinjau dokumen.
 
 ```csharp
 public string DocumentPreview { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
 Pratinjau dokumen.
 
-### Lihat juga
+### Lihat Juga
 
 * class [AiHeader](../)
-* ruang nama [Aspose.PSD.FileFormats.Ai](../../aiheader/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

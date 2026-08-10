@@ -1,11 +1,12 @@
 ---
-title: Version.Version
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Version konstruktor. Konstruktor default.
+title: "Version.Version"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Konstruktor Version. Konstruktor default"
 type: docs
 weight: 10
 url: /id/net/aspose.psd.xmp.types.complex.version/version/version/
 ---
+{{< psd/tize >}}
 ## Version constructor
 
 Konstruktor default.
@@ -14,10 +15,10 @@ Konstruktor default.
 public Version()
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [Version](../)
-* ruang nama [Aspose.PSD.Xmp.Types.Complex.Version](../../version/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.Version](../../../aspose.psd.xmp.types.complex.version/)
+* assembly [Aspose.PSD](../../../)
 
 

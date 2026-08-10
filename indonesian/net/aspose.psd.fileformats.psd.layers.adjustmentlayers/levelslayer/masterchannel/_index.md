@@ -1,11 +1,12 @@
 ---
-title: LevelsLayer.MasterChannel
-second_title: Aspose.PSD untuk Referensi .NET API
-description: LevelsLayer Properti. Mendapatkan saluran master.
+title: "LevelsLayer.MasterChannel"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "properti LevelsLayer. Mendapatkan saluran utama"
 type: docs
 weight: 10
 url: /id/net/aspose.psd.fileformats.psd.layers.adjustmentlayers/levelslayer/masterchannel/
 ---
+{{< psd/tize >}}
 ## LevelsLayer.MasterChannel property
 
 Mendapatkan saluran master.
@@ -14,15 +15,15 @@ Mendapatkan saluran master.
 public LevelChannel MasterChannel { get; }
 ```
 
-### Nilai properti
+### Property Value
 
 Saluran utama.
 
-### Lihat juga
+### Lihat Juga
 
 * class [LevelChannel](../../../aspose.psd.fileformats.psd.layers.layerresources/levelchannel/)
 * class [LevelsLayer](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../levelslayer/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,28 +1,29 @@
 ---
-title: GifOptions.XmpData
-second_title: Aspose.PSD untuk Referensi .NET API
-description: GifOptions Properti. Mendapat atau menyetel penampung metadata XMP.
+title: "GifOptions.XmpData"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti GifOptions. Mendapatkan atau mengatur kontainer metadata XMP"
 type: docs
 weight: 100
 url: /id/net/aspose.psd.imageoptions/gifoptions/xmpdata/
 ---
+{{< psd/tize >}}
 ## GifOptions.XmpData property
 
-Mendapat atau menyetel penampung metadata XMP.
+Mendapatkan atau mengatur kontainer metadata XMP.
 
 ```csharp
 public override XmpPacketWrapper XmpData { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
-Wadah data XMP.
+Kontainer data XMP.
 
-### Lihat juga
+### Lihat Juga
 
 * class [XmpPacketWrapper](../../../aspose.psd.xmp/xmppacketwrapper/)
 * class [GifOptions](../)
-* ruang nama [Aspose.PSD.ImageOptions](../../gifoptions/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

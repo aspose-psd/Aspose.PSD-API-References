@@ -1,27 +1,28 @@
 ---
-title: TiffStreamWriter.WriteUShortArray
-second_title: Aspose.PSD untuk Referensi .NET API
-description: TiffStreamWriter metode. Menulis larik dengan nilai singkat yang tidak ditandatangani ke aliran.
+title: "TiffStreamWriter.WriteUShortArray"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode TiffStreamWriter. Menulis array nilai short tak bertanda ke stream"
 type: docs
 weight: 230
 url: /id/net/aspose.psd.fileformats.tiff.filemanagement/tiffstreamwriter/writeushortarray/
 ---
+{{< psd/tize >}}
 ## TiffStreamWriter.WriteUShortArray method
 
-Menulis larik dengan nilai singkat yang tidak ditandatangani ke aliran.
+Menulis sebuah array nilai short tak bertanda ke aliran.
 
 ```csharp
 public void WriteUShortArray(ushort[] data)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| data | UInt16[] | Array untuk menulis. |
+| data | UInt16[] | Array yang akan ditulis. |
 
-### Lihat juga
+### Lihat Juga
 
 * class [TiffStreamWriter](../)
-* ruang nama [Aspose.PSD.FileFormats.Tiff.FileManagement](../../tiffstreamwriter/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff.FileManagement](../../../aspose.psd.fileformats.tiff.filemanagement/)
+* assembly [Aspose.PSD](../../../)
 
 

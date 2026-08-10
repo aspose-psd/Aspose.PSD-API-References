@@ -1,11 +1,12 @@
 ---
-title: PsdImage.AddBlackWhiteAdjustmentLayer
-second_title: Aspose.PSD untuk Referensi .NET API
-description: PsdImage metode. Menambahkan lapisan penyesuaian hitam putih.
+title: "PsdImage.AddBlackWhiteAdjustmentLayer"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode PsdImage. Menambahkan lapisan penyesuaian hitam putih."
 type: docs
-weight: 290
+weight: 300
 url: /id/net/aspose.psd.fileformats.psd/psdimage/addblackwhiteadjustmentlayer/
 ---
+{{< psd/tize >}}
 ## PsdImage.AddBlackWhiteAdjustmentLayer method
 
 Menambahkan lapisan penyesuaian hitam putih.
@@ -14,13 +15,13 @@ Menambahkan lapisan penyesuaian hitam putih.
 public BlackWhiteAdjustmentLayer AddBlackWhiteAdjustmentLayer()
 ```
 
-### Nilai Pengembalian
+### Nilai Kembalian
 
 Lapisan penyesuaian hitam putih yang dibuat.
 
-### Contoh
+## Contoh
 
-Contoh berikut menunjukkan bagaimana Anda dapat menambahkan lapisan penyesuaian hitam putih saat runtime di Aspose.PSD
+Contoh berikut menunjukkan cara Anda dapat menambahkan lapisan penyesuaian hitam putih pada waktu berjalan di Aspose.PSD
 
 ```csharp
 [C#]
@@ -42,11 +43,11 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFileName))
 }
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [BlackWhiteAdjustmentLayer](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/blackwhiteadjustmentlayer/)
 * class [PsdImage](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

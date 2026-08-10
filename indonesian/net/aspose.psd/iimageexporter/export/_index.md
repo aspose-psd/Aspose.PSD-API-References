@@ -1,11 +1,12 @@
 ---
-title: IImageExporter.Export
-second_title: Aspose.PSD untuk Referensi .NET API
-description: IImageExporter metode. Mengekspor data gambar yang ditentukan ke dalam format data yang ditentukan.
+title: "IImageExporter.Export"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode IImageExporter. Mengekspor data gambar yang ditentukan ke format data yang ditentukan"
 type: docs
 weight: 10
 url: /id/net/aspose.psd/iimageexporter/export/
 ---
+{{< psd/tize >}}
 ## Export(Image, Stream, ImageOptionsBase) {#export}
 
 Mengekspor data gambar yang ditentukan ke dalam format data yang ditentukan.
@@ -14,19 +15,19 @@ Mengekspor data gambar yang ditentukan ke dalam format data yang ditentukan.
 public void Export(Image image, Stream stream, ImageOptionsBase optionsBase)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| image | Image | Data gambar yang akan diekspor. |
-| stream | Stream | Aliran untuk mengekspor data ke. |
+| gambar | Image | Data gambar yang akan diekspor. |
+| stream | Stream | Stream untuk mengekspor data ke. |
 | optionsBase | ImageOptionsBase | Opsi untuk ekspor gambar |
 
-### Lihat juga
+### Lihat Juga
 
 * class [Image](../../image/)
 * class [ImageOptionsBase](../../imageoptionsbase/)
 * interface [IImageExporter](../)
-* ruang nama [Aspose.PSD](../../iimageexporter/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
@@ -39,20 +40,20 @@ public void Export(Image image, Stream stream, ImageOptionsBase optionsBase,
     Rectangle boundsRectangle)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| image | Image | Data gambar yang akan diekspor. |
-| stream | Stream | Aliran untuk mengekspor data ke. |
+| gambar | Image | Data gambar yang akan diekspor. |
+| stream | Stream | Stream untuk mengekspor data ke. |
 | optionsBase | ImageOptionsBase | Opsi untuk ekspor gambar |
-| boundsRectangle | Rectangle | Batas persegi panjang. |
+| boundsRectangle | Rectangle | Persegi panjang batas. |
 
-### Lihat juga
+### Lihat Juga
 
 * class [Image](../../image/)
 * class [ImageOptionsBase](../../imageoptionsbase/)
 * struct [Rectangle](../../rectangle/)
 * interface [IImageExporter](../)
-* ruang nama [Aspose.PSD](../../iimageexporter/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: VectorPathDataResource.PsdVersion
-second_title: Aspose.PSD untuk Referensi .NET API
-description: VectorPathDataResource Properti. Mendapatkan versi psd.
+title: "VectorPathDataResource.PsdVersion"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "VectorPathDataResource properti. Mendapatkan versi psd"
 type: docs
 weight: 60
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources/vectorpathdataresource/psdversion/
 ---
+{{< psd/tize >}}
 ## VectorPathDataResource.PsdVersion property
 
 Mendapatkan versi psd.
@@ -14,10 +15,10 @@ Mendapatkan versi psd.
 public override int PsdVersion { get; }
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [VectorPathDataResource](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../vectorpathdataresource/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

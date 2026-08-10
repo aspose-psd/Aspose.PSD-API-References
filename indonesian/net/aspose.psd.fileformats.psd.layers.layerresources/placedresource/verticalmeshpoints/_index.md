@@ -1,27 +1,28 @@
 ---
-title: PlacedResource.VerticalMeshPoints
-second_title: Aspose.PSD untuk Referensi .NET API
-description: PlacedResource Properti. Mendapat atau menyetel titik jaring horizontal dari lapisan yang ditempatkan di file PSD.
+title: "PlacedResource.VerticalMeshPoints"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti PlacedResource. Mendapatkan atau mengatur titik mesh horizontal dari lapisan yang ditempatkan dalam file PSD"
 type: docs
-weight: 220
+weight: 210
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources/placedresource/verticalmeshpoints/
 ---
+{{< psd/tize >}}
 ## PlacedResource.VerticalMeshPoints property
 
-Mendapat atau menyetel titik jaring horizontal dari lapisan yang ditempatkan di file PSD.
+Mendapatkan atau mengatur titik mesh horizontal lapisan yang ditempatkan dalam file PSD.
 
 ```csharp
 public double[] VerticalMeshPoints { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
-Titik jaring horizontal dari lapisan yang ditempatkan.
+Titik mesh horizontal dari lapisan yang ditempatkan.
 
-### Lihat juga
+### Lihat Juga
 
 * class [PlacedResource](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../placedresource/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

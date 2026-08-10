@@ -1,68 +1,69 @@
 ---
-title: TiffSRational.TiffSRational
-second_title: Aspose.PSD untuk Referensi .NET API
-description: TiffSRational konstruktor. Menginisialisasi instance baru dariTiffSRational kelas.
+title: "TiffSRational.TiffSRational"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Konstruktor TiffSRational. Menginisialisasi instance baru dari kelas TiffSRational"
 type: docs
 weight: 10
 url: /id/net/aspose.psd.fileformats.tiff/tiffsrational/tiffsrational/
 ---
+{{< psd/tize >}}
 ## TiffSRational() {#constructor}
 
-Menginisialisasi instance baru dari[`TiffSRational`](../) kelas.
+Menginisialisasi instance baru dari kelas [`TiffSRational`](../).
 
 ```csharp
 public TiffSRational()
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [TiffSRational](../)
-* ruang nama [Aspose.PSD.FileFormats.Tiff](../../tiffsrational/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff](../../../aspose.psd.fileformats.tiff/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## TiffSRational(int) {#constructor_1}
 
-Menginisialisasi instance baru dari[`TiffRational`](../../tiffrational/) kelas.
+Menginisialisasi instance baru dari kelas [`TiffRational`](../../tiffrational/).
 
 ```csharp
 public TiffSRational(int value)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| value | Int32 | Nilai nominator. |
+| nilai | Int32 | Nilai pembilang. |
 
-### Perkataan
+## Catatan
 
-Nominator akan digunakan sebagai nilai yang ditentukan dan penyebut akan sama dengan 1.
+Pembilang akan digunakan sebagai nilai yang ditentukan dan penyebut akan sama dengan 1.
 
-### Lihat juga
+### Lihat Juga
 
 * class [TiffSRational](../)
-* ruang nama [Aspose.PSD.FileFormats.Tiff](../../tiffsrational/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff](../../../aspose.psd.fileformats.tiff/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## TiffSRational(int, int) {#constructor_2}
 
-Menginisialisasi instance baru dari[`TiffSRational`](../) kelas.
+Menginisialisasi instance baru dari kelas [`TiffSRational`](../).
 
 ```csharp
 public TiffSRational(int nominator, int denominator)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| nominator | Int32 | Nominator. |
-| denominator | Int32 | Penyebut. |
+| pembilang | Int32 | Pembilang. |
+| penyebut | Int32 | Penyebut. |
 
-### Lihat juga
+### Lihat Juga
 
 * class [TiffSRational](../)
-* ruang nama [Aspose.PSD.FileFormats.Tiff](../../tiffsrational/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff](../../../aspose.psd.fileformats.tiff/)
+* assembly [Aspose.PSD](../../../)
 
 

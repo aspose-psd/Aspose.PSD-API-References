@@ -1,14 +1,15 @@
 ---
-title: Enum LineJoinType
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.StrokeResources.LineJoinType enum. Jenis Gabung Baris.
+title: "Enum LineJoinType"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Aspose.PSD.FileFormats.Psd.Layers.LayerResources.StrokeResources.LineJoinType enum. Tipe sambungan garis"
 type: docs
-weight: 3050
+weight: 3410
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources.strokeresources/linejointype/
 ---
+{{< psd/tize >}}
 ## LineJoinType enumeration
 
-Jenis Gabung Baris.
+Tipe Sambungan Garis.
 
 ```csharp
 public enum LineJoinType : short
@@ -16,13 +17,13 @@ public enum LineJoinType : short
 
 ### Nilai
 
-| Nama | Nilai | Keterangan |
+| Nama | Nilai | Deskripsi |
 | --- | --- | --- |
-| BevelJoin | `0` | Jenis gabungan bevel. |
-| RoundJoin | `1` | Jenis gabung bulat. |
-| MiterJoin | `2` | Mitre join type. |
+| BevelJoin | `0` | Tipe sambungan bevel. |
+| RoundJoin | `1` | Tipe sambungan bulat. |
+| MiterJoin | `2` | Tipe sambungan miter. |
 
-### Contoh
+## Contoh
 
 Kode berikut menunjukkan dukungan sumber daya VstkResource.
 
@@ -49,9 +50,9 @@ using (PsdImage image = (PsdImage)Image.Load(srcFile))
 }
 ```
 
-### Lihat juga
+### Lihat Juga
 
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.StrokeResources](../../aspose.psd.fileformats.psd.layers.layerresources.strokeresources/)
-* perakitan [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.StrokeResources](../../aspose.psd.fileformats.psd.layers.layerresources.strokeresources/)
+* assembly [Aspose.PSD](../../)
 
 

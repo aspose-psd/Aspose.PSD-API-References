@@ -1,28 +1,29 @@
 ---
-title: ImageAttributes.SetBrushRemapTable
-second_title: Aspose.PSD untuk Referensi .NET API
-description: ImageAttributes metode. Mengatur tabel remap warna untuk kategori kuas.
+title: "ImageAttributes.SetBrushRemapTable"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode ImageAttributes. Menetapkan tabel pemetaan warna untuk kategori kuas."
 type: docs
 weight: 110
 url: /id/net/aspose.psd/imageattributes/setbrushremaptable/
 ---
+{{< psd/tize >}}
 ## ImageAttributes.SetBrushRemapTable method
 
-Mengatur tabel remap warna untuk kategori kuas.
+Menetapkan tabel pemetaan ulang warna untuk kategori kuas.
 
 ```csharp
 public void SetBrushRemapTable(ColorMap[] map)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| map | ColorMap[] | Sebuah array dari[`ColorMap`](../../colormap/) objek. |
+| map | ColorMap[] | Sebuah array berisi objek [`ColorMap`](../../colormap/). |
 
-### Lihat juga
+### Lihat Juga
 
 * class [ColorMap](../../colormap/)
 * class [ImageAttributes](../)
-* ruang nama [Aspose.PSD](../../imageattributes/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

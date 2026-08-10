@@ -1,31 +1,32 @@
 ---
-title: Image.Container
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Image Properti. MendapatkanImage wadah.
+title: "Image.Container"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti Image. Mendapatkan kontainer Image"
 type: docs
 weight: 80
 url: /id/net/aspose.psd/image/container/
 ---
+{{< psd/tize >}}
 ## Image.Container property
 
-Mendapatkan[`Image`](../) wadah.
+Mendapatkan kontainer [`Image`](../).
 
 ```csharp
 public Image Container { get; }
 ```
 
-### Nilai properti
+### Property Value
 
-Itu[`Image`](../) wadah.
+Kontainer [`Image`](../).
 
-### Perkataan
+## Catatan
 
-Jika properti ini bukan null, ini menunjukkan bahwa gambar ada di dalam gambar lain.
+Jika properti ini tidak null, itu menunjukkan gambar berada di dalam gambar lain.
 
-### Lihat juga
+### Lihat Juga
 
 * class [Image](../)
-* ruang nama [Aspose.PSD](../../image/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

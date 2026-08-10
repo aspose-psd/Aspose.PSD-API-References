@@ -1,11 +1,12 @@
 ---
-title: ColorHalftoneInformationResource.DataSize
-second_title: Aspose.PSD untuk Referensi .NET API
-description: ColorHalftoneInformationResource Properti. Mendapatkan ukuran data sumber daya dalam byte.
+title: "ColorHalftoneInformationResource.DataSize"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti ColorHalftoneInformationResource. Mendapatkan ukuran data sumber daya dalam byte"
 type: docs
 weight: 20
 url: /id/net/aspose.psd.fileformats.psd.resources/colorhalftoneinformationresource/datasize/
 ---
+{{< psd/tize >}}
 ## ColorHalftoneInformationResource.DataSize property
 
 Mendapatkan ukuran data sumber daya dalam byte.
@@ -14,14 +15,14 @@ Mendapatkan ukuran data sumber daya dalam byte.
 public override int DataSize { get; }
 ```
 
-### Nilai properti
+### Property Value
 
 Ukuran data sumber daya.
 
-### Lihat juga
+### Lihat Juga
 
 * class [ColorHalftoneInformationResource](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Resources](../../colorhalftoneinformationresource/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,28 +1,29 @@
 ---
-title: PropertyStructure.KeyID
-second_title: Aspose.PSD untuk Referensi .NET API
-description: PropertyStructure Properti. Mendapat atau menyetel ID kunci.
+title: "PropertyStructure.KeyID"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti PropertyStructure. Mendapatkan atau mengatur ID kunci"
 type: docs
 weight: 50
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/propertystructure/keyid/
 ---
+{{< psd/tize >}}
 ## PropertyStructure.KeyID property
 
-Mendapat atau menyetel ID kunci.
+Mendapatkan atau mengatur ID kunci.
 
 ```csharp
 public ClassID KeyID { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
 ID kunci.
 
-### Lihat juga
+### Lihat Juga
 
 * class [ClassID](../../../aspose.psd.fileformats.psd.layers.layerresources/classid/)
 * class [PropertyStructure](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../propertystructure/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: XmpDate.Format
-second_title: Aspose.PSD untuk Referensi .NET API
-description: XmpDate Properti. Mendapat string format untuk nilai saat ini.
+title: "XmpDate.Format"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti XmpDate. Mendapatkan string format untuk nilai saat ini"
 type: docs
 weight: 20
 url: /id/net/aspose.psd.xmp.types.basic/xmpdate/format/
 ---
+{{< psd/tize >}}
 ## XmpDate.Format property
 
-Mendapat string format untuk nilai saat ini.
+Mendapatkan string format untuk nilai saat ini.
 
 ```csharp
 public string Format { get; }
 ```
 
-### Nilai properti
+### Property Value
 
-Format string untuk nilai saat ini.
+String format untuk nilai saat ini.
 
-### Lihat juga
+### Lihat Juga
 
 * class [XmpDate](../)
-* ruang nama [Aspose.PSD.Xmp.Types.Basic](../../xmpdate/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Basic](../../../aspose.psd.xmp.types.basic/)
+* assembly [Aspose.PSD](../../../)
 
 

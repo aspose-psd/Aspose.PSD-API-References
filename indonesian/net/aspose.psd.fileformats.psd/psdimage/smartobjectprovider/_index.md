@@ -1,11 +1,12 @@
 ---
-title: PsdImage.SmartObjectProvider
-second_title: Aspose.PSD untuk Referensi .NET API
-description: PsdImage Properti. Mendapatkan penyedia objek pintar.
+title: "PsdImage.SmartObjectProvider"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti PsdImage. Mendapatkan penyedia objek pintar."
 type: docs
 weight: 240
 url: /id/net/aspose.psd.fileformats.psd/psdimage/smartobjectprovider/
 ---
+{{< psd/tize >}}
 ## PsdImage.SmartObjectProvider property
 
 Mendapatkan penyedia objek pintar.
@@ -14,15 +15,15 @@ Mendapatkan penyedia objek pintar.
 public SmartObjectProvider SmartObjectProvider { get; }
 ```
 
-### Nilai properti
+### Property Value
 
 Penyedia objek pintar.
 
-### Lihat juga
+### Lihat Juga
 
 * class [SmartObjectProvider](../../smartobjectprovider/)
 * class [PsdImage](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

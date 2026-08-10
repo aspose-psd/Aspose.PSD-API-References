@@ -1,11 +1,12 @@
 ---
-title: FXidResource.FilterEffectMasks
-second_title: Aspose.PSD untuk Referensi .NET API
-description: FXidResource Properti. Mendapatkan masker efek filter.
+title: "FXidResource.FilterEffectMasks"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti FXidResource. Mengambil masker efek filter"
 type: docs
 weight: 20
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources/fxidresource/filtereffectmasks/
 ---
+{{< psd/tize >}}
 ## FXidResource.FilterEffectMasks property
 
 Mendapatkan masker efek filter.
@@ -14,9 +15,9 @@ Mendapatkan masker efek filter.
 public FilterEffectMaskData[] FilterEffectMasks { get; }
 ```
 
-### Contoh
+## Contoh
 
-Contoh ini mendemonstrasikan cara mendapatkan dan mengatur properti sumber daya FXidResource.
+Contoh ini menunjukkan cara mendapatkan dan mengatur properti dari sumber daya FXidResource.
 
 ```csharp
 [C#]
@@ -25,7 +26,7 @@ string inputFilePath = "psdnet414_3.psd";
 string output = "out_psdnet414_3.psd";
 
 int resLength = 1144;
-int maskLength = 369;
+long maskLength = 369;
 
 void AssertAreEqual(object expected, object actual, string message = null)
 {
@@ -61,11 +62,11 @@ using (var psdImage = (PsdImage)Image.Load(output))
 }
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [FilterEffectMaskData](../../filtereffectmaskdata/)
 * class [FXidResource](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../fxidresource/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,59 +1,60 @@
 ---
-title: PixelDataFormat.GetRgba
-second_title: Aspose.PSD untuk Referensi .NET API
-description: PixelDataFormat metode. Mendapat warna RGBA dengan jumlah bit tertentu per sampel.
+title: "PixelDataFormat.GetRgba"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "PixelDataFormat metode. Mendapatkan warna RGBA dengan jumlah bit per sampel yang ditentukan"
 type: docs
 weight: 260
 url: /id/net/aspose.psd/pixeldataformat/getrgba/
 ---
+{{< psd/tize >}}
 ## GetRgba(int) {#getrgba}
 
-Mendapat warna RGBA dengan jumlah bit tertentu per sampel.
+Mendapatkan warna RGBA dengan jumlah bit per sampel yang ditentukan.
 
 ```csharp
 public static PixelDataFormat GetRgba(int bitsPerSample)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
 | bitsPerSample | Int32 | Jumlah bit per sampel. |
 
-### Nilai Pengembalian
+### Nilai Kembalian
 
 Warna RGBA.
 
-### Lihat juga
+### Lihat Juga
 
 * class [PixelDataFormat](../)
-* ruang nama [Aspose.PSD](../../pixeldataformat/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## GetRgba(int, int, int, int) {#getrgba_1}
 
-Mendapat warna RGBA dengan jumlah bit tertentu per sampel.
+Mendapatkan warna RGBA dengan jumlah bit per sampel yang ditentukan.
 
 ```csharp
 public static PixelDataFormat GetRgba(int bitsPerRedChannel, int bitsPerGreenChannel, 
     int bitsPerBlueChannel, int bitsPerAlphaChannel)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| bitsPerRedChannel | Int32 | Jumlah bit per saluran Merah. |
-| bitsPerGreenChannel | Int32 | Jumlah bit per saluran Hijau. |
+| bitsPerRedChannel | Int32 | Jumlah bit per saluran Red. |
+| bitsPerGreenChannel | Int32 | Jumlah bit per saluran Green. |
 | bitsPerBlueChannel | Int32 | Jumlah bit per saluran Biru. |
 | bitsPerAlphaChannel | Int32 | Jumlah bit per saluran Alpha. |
 
-### Nilai Pengembalian
+### Nilai Kembalian
 
 Warna RGBA.
 
-### Lihat juga
+### Lihat Juga
 
 * class [PixelDataFormat](../)
-* ruang nama [Aspose.PSD](../../pixeldataformat/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

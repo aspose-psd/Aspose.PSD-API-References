@@ -1,14 +1,15 @@
 ---
-title: Class ProgressEventHandlerInfo
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Aspose.PSD.ProgressManagement.ProgressEventHandlerInfo kelas. Kelas ini merepresentasikan informasi tentang progres operasi pemuatan/penyimpanan/ekspor gambar yang dapat digunakan di aplikasi eksternal untuk menampilkan progres konversi ke pengguna akhir
+title: "Kelas ProgressEventHandlerInfo"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Kelas Aspose.PSD.ProgressManagement.ProgressEventHandlerInfo. Kelas ini mewakili informasi tentang kemajuan operasi memuat/menyimpan/mengekspor gambar yang dapat digunakan dalam aplikasi eksternal untuk menampilkan kemajuan konversi kepada pengguna akhir"
 type: docs
-weight: 5300
+weight: 5800
 url: /id/net/aspose.psd.progressmanagement/progresseventhandlerinfo/
 ---
+{{< psd/tize >}}
 ## ProgressEventHandlerInfo class
 
-Kelas ini merepresentasikan informasi tentang progres operasi pemuatan/penyimpanan/ekspor gambar, yang dapat digunakan di aplikasi eksternal untuk menampilkan progres konversi ke pengguna akhir
+Kelas ini mewakili informasi tentang kemajuan operasi memuat/menyimpan/mengekspor gambar, yang dapat digunakan dalam aplikasi eksternal untuk menampilkan kemajuan konversi kepada pengguna akhir
 
 ```csharp
 public class ProgressEventHandlerInfo
@@ -16,16 +17,16 @@ public class ProgressEventHandlerInfo
 
 ## Properti
 
-| Nama | Keterangan |
+| Nama | Deskripsi |
 | --- | --- |
-| [Description](../../aspose.psd.progressmanagement/progresseventhandlerinfo/description/) { get; } | Mendapat deskripsi acara |
-| [EventType](../../aspose.psd.progressmanagement/progresseventhandlerinfo/eventtype/) { get; } | Mendapatkan jenis acara. |
-| [MaxValue](../../aspose.psd.progressmanagement/progresseventhandlerinfo/maxvalue/) { get; } | Mendapat batas nilai progres atas. |
-| [Value](../../aspose.psd.progressmanagement/progresseventhandlerinfo/value/) { get; } | Mendapat nilai progres saat ini. |
+| [Description](../../aspose.psd.progressmanagement/progresseventhandlerinfo/description/) { get; } | Mendapatkan deskripsi acara |
+| [EventType](../../aspose.psd.progressmanagement/progresseventhandlerinfo/eventtype/) { get; } | Mendapatkan tipe acara. |
+| [MaxValue](../../aspose.psd.progressmanagement/progresseventhandlerinfo/maxvalue/) { get; } | Mendapatkan batas nilai kemajuan atas. |
+| [Value](../../aspose.psd.progressmanagement/progresseventhandlerinfo/value/) { get; } | Mendapatkan nilai kemajuan saat ini. |
 
-### Contoh
+## Contoh
 
-Contoh berikut menunjukkan bahwa progres konversi dokumen bekerja dengan benar dan tanpa pengecualian.
+Contoh berikut menunjukkan bahwa kemajuan konversi dokumen berfungsi dengan benar dan tanpa pengecualian.
 
 ```csharp
 [C#]
@@ -69,9 +70,9 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath, loadOptions))
 }
 ```
 
-### Lihat juga
+### Lihat Juga
 
-* ruang nama [Aspose.PSD.ProgressManagement](../../aspose.psd.progressmanagement/)
-* perakitan [Aspose.PSD](../../)
+* namespace [Aspose.PSD.ProgressManagement](../../aspose.psd.progressmanagement/)
+* assembly [Aspose.PSD](../../)
 
 

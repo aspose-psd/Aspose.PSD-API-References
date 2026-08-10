@@ -1,237 +1,238 @@
 ---
-title: MultiPageOptions.MultiPageOptions
-second_title: Aspose.PSD untuk Referensi .NET API
-description: MultiPageOptions konstruktor. Menginisialisasi instance baru dariMultiPageOptions kelas.
+title: "MultiPageOptions.MultiPageOptions"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Konstruktor MultiPageOptions. Menginisialisasi instance baru dari kelas MultiPageOptions"
 type: docs
 weight: 10
 url: /id/net/aspose.psd.imageoptions/multipageoptions/multipageoptions/
 ---
+{{< psd/tize >}}
 ## MultiPageOptions() {#constructor}
 
-Menginisialisasi instance baru dari[`MultiPageOptions`](../) kelas.
+Menginisialisasi instance baru dari kelas [`MultiPageOptions`](../).
 
 ```csharp
 public MultiPageOptions()
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [MultiPageOptions](../)
-* ruang nama [Aspose.PSD.ImageOptions](../../multipageoptions/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## MultiPageOptions(int[]) {#constructor_7}
 
-Menginisialisasi instance baru dari[`MultiPageOptions`](../) kelas.
+Menginisialisasi instance baru dari kelas [`MultiPageOptions`](../).
 
 ```csharp
 public MultiPageOptions(int[] pages)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| pages | Int32[] | Halaman. |
+| halaman | Int32[] | Halaman. |
 
-### Lihat juga
+### Lihat Juga
 
 * class [MultiPageOptions](../)
-* ruang nama [Aspose.PSD.ImageOptions](../../multipageoptions/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## MultiPageOptions(int[], Rectangle) {#constructor_8}
 
-Menginisialisasi instance baru dari[`MultiPageOptions`](../) kelas.
+Menginisialisasi instance baru dari kelas [`MultiPageOptions`](../).
 
 ```csharp
 public MultiPageOptions(int[] pages, Rectangle exportArea)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| pages | Int32[] | Susunan halaman. |
-| exportArea | Rectangle | Daerah ekspor. |
+| halaman | Int32[] | Array halaman. |
+| exportArea | Rectangle | Area ekspor. |
 
-### Lihat juga
+### Lihat Juga
 
 * struct [Rectangle](../../../aspose.psd/rectangle/)
 * class [MultiPageOptions](../)
-* ruang nama [Aspose.PSD.ImageOptions](../../multipageoptions/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## MultiPageOptions(string[]) {#constructor_9}
 
-Menginisialisasi instance baru dari[`MultiPageOptions`](../) kelas.
+Menginisialisasi instance baru dari kelas [`MultiPageOptions`](../).
 
 ```csharp
 public MultiPageOptions(string[] pageTitles)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
 | pageTitles | String[] | Judul halaman. |
 
-### Lihat juga
+### Lihat Juga
 
 * class [MultiPageOptions](../)
-* ruang nama [Aspose.PSD.ImageOptions](../../multipageoptions/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## MultiPageOptions(string[], Rectangle) {#constructor_10}
 
-Menginisialisasi instance baru dari[`MultiPageOptions`](../) kelas.
+Menginisialisasi instance baru dari kelas [`MultiPageOptions`](../).
 
 ```csharp
 public MultiPageOptions(string[] pageTitles, Rectangle exportArea)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
 | pageTitles | String[] | Judul halaman. |
-| exportArea | Rectangle | Daerah ekspor. |
+| exportArea | Rectangle | Area ekspor. |
 
-### Lihat juga
+### Lihat Juga
 
 * struct [Rectangle](../../../aspose.psd/rectangle/)
 * class [MultiPageOptions](../)
-* ruang nama [Aspose.PSD.ImageOptions](../../multipageoptions/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## MultiPageOptions(IntRange[]) {#constructor_3}
 
-Menginisialisasi instance baru dari[`MultiPageOptions`](../) kelas.
+Menginisialisasi instance baru dari kelas [`MultiPageOptions`](../).
 
 ```csharp
 public MultiPageOptions(IntRange[] ranges)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| ranges | IntRange[] | Itu[`IntRange`](../../../aspose.psd/intrange/). |
+| ranges | IntRange[] | [`IntRange`](../../../aspose.psd/intrange/). |
 
-### Lihat juga
+### Lihat Juga
 
 * class [IntRange](../../../aspose.psd/intrange/)
 * class [MultiPageOptions](../)
-* ruang nama [Aspose.PSD.ImageOptions](../../multipageoptions/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## MultiPageOptions(IntRange[], Rectangle) {#constructor_4}
 
-Menginisialisasi instance baru dari[`MultiPageOptions`](../) kelas.
+Menginisialisasi instance baru dari kelas [`MultiPageOptions`](../).
 
 ```csharp
 public MultiPageOptions(IntRange[] ranges, Rectangle exportArea)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| ranges | IntRange[] | Itu[`IntRange`](../../../aspose.psd/intrange/). |
-| exportArea | Rectangle | Daerah ekspor. |
+| ranges | IntRange[] | [`IntRange`](../../../aspose.psd/intrange/). |
+| exportArea | Rectangle | Area ekspor. |
 
-### Lihat juga
+### Lihat Juga
 
 * class [IntRange](../../../aspose.psd/intrange/)
 * struct [Rectangle](../../../aspose.psd/rectangle/)
 * class [MultiPageOptions](../)
-* ruang nama [Aspose.PSD.ImageOptions](../../multipageoptions/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## MultiPageOptions(IntRange) {#constructor_1}
 
-Menginisialisasi instance baru dari[`MultiPageOptions`](../) kelas.
+Menginisialisasi instance baru dari kelas [`MultiPageOptions`](../).
 
 ```csharp
 public MultiPageOptions(IntRange range)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| range | IntRange | Itu[`IntRange`](../../../aspose.psd/intrange/). |
+| range | IntRange | [`IntRange`](../../../aspose.psd/intrange/). |
 
-### Lihat juga
+### Lihat Juga
 
 * class [IntRange](../../../aspose.psd/intrange/)
 * class [MultiPageOptions](../)
-* ruang nama [Aspose.PSD.ImageOptions](../../multipageoptions/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## MultiPageOptions(IntRange, Rectangle) {#constructor_2}
 
-Menginisialisasi instance baru dari[`MultiPageOptions`](../) kelas.
+Menginisialisasi instance baru dari kelas [`MultiPageOptions`](../).
 
 ```csharp
 public MultiPageOptions(IntRange range, Rectangle exportArea)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| range | IntRange | Itu[`IntRange`](../../../aspose.psd/intrange/). |
-| exportArea | Rectangle | Daerah ekspor. |
+| range | IntRange | [`IntRange`](../../../aspose.psd/intrange/). |
+| exportArea | Rectangle | Area ekspor. |
 
-### Lihat juga
+### Lihat Juga
 
 * class [IntRange](../../../aspose.psd/intrange/)
 * struct [Rectangle](../../../aspose.psd/rectangle/)
 * class [MultiPageOptions](../)
-* ruang nama [Aspose.PSD.ImageOptions](../../multipageoptions/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## MultiPageOptions(int) {#constructor_5}
 
-Menginisialisasi instance baru dari[`MultiPageOptions`](../) kelas.
+Menginisialisasi instance baru dari kelas [`MultiPageOptions`](../).
 
 ```csharp
 public MultiPageOptions(int page)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| page | Int32 | Indeks halaman. |
+| halaman | Int32 | Indeks halaman. |
 
-### Lihat juga
+### Lihat Juga
 
 * class [MultiPageOptions](../)
-* ruang nama [Aspose.PSD.ImageOptions](../../multipageoptions/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## MultiPageOptions(int, Rectangle) {#constructor_6}
 
-Menginisialisasi instance baru dari[`MultiPageOptions`](../) kelas.
+Menginisialisasi instance baru dari kelas [`MultiPageOptions`](../).
 
 ```csharp
 public MultiPageOptions(int page, Rectangle exportArea)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| page | Int32 | Indeks halaman. |
-| exportArea | Rectangle | Daerah ekspor. |
+| halaman | Int32 | Indeks halaman. |
+| exportArea | Rectangle | Area ekspor. |
 
-### Lihat juga
+### Lihat Juga
 
 * struct [Rectangle](../../../aspose.psd/rectangle/)
 * class [MultiPageOptions](../)
-* ruang nama [Aspose.PSD.ImageOptions](../../multipageoptions/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

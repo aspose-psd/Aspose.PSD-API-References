@@ -1,17 +1,18 @@
 ---
-title: Aspose.PSD.Multithreading
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Ruang nama berisi kelas Multithreading.
+title: "Aspose.PSD.Multithreading"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Namespace ini berisi kelas Multithreading"
 type: docs
-weight: 460
+weight: 500
 url: /id/net/aspose.psd.multithreading/
 ---
-Ruang nama berisi kelas Multithreading.
+{{< psd/tize >}}
+Namespace ini berisi kelas Multithreading.
 
 ## Kelas
 
-| Kelas | Keterangan |
+| Kelas | Deskripsi |
 | --- | --- |
-| [InterruptMonitor](./interruptmonitor/) | Mewakili informasi tentang gangguan. |
+| [InterruptMonitor](./interruptmonitor/) | Mewakili informasi tentang interupsi. |
 
 

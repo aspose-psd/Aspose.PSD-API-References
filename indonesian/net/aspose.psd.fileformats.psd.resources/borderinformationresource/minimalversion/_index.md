@@ -1,11 +1,12 @@
 ---
-title: BorderInformationResource.MinimalVersion
-second_title: Aspose.PSD untuk Referensi .NET API
-description: BorderInformationResource Properti. Mendapatkan versi PSD minimal yang diperlukan.
+title: "BorderInformationResource.MinimalVersion"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti BorderInformationResource. Mendapatkan versi PSD minimal yang diperlukan"
 type: docs
 weight: 30
 url: /id/net/aspose.psd.fileformats.psd.resources/borderinformationresource/minimalversion/
 ---
+{{< psd/tize >}}
 ## BorderInformationResource.MinimalVersion property
 
 Mendapatkan versi PSD minimal yang diperlukan.
@@ -14,11 +15,11 @@ Mendapatkan versi PSD minimal yang diperlukan.
 public override int MinimalVersion { get; }
 ```
 
-### Nilai properti
+### Property Value
 
 Versi PSD minimal.
 
-### Contoh
+## Contoh
 
 Contoh berikut menunjukkan dukungan sumber daya BorderInformationResource.
 
@@ -49,10 +50,10 @@ using (var image = (PsdImage)Image.Load(sourceFilePath))
 }
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [BorderInformationResource](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Resources](../../borderinformationresource/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

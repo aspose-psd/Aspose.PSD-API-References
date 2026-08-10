@@ -1,11 +1,12 @@
 ---
-title: AiRasterImageSection.Angle
-second_title: Aspose.PSD untuk Referensi .NET API
-description: AiRasterImageSection Properti. Mendapatkan sudut.
+title: "AiRasterImageSection.Angle"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti AiRasterImageSection. Mendapatkan sudut"
 type: docs
 weight: 10
 url: /id/net/aspose.psd.fileformats.ai/airasterimagesection/angle/
 ---
+{{< psd/tize >}}
 ## AiRasterImageSection.Angle property
 
 Mendapatkan sudut.
@@ -14,14 +15,14 @@ Mendapatkan sudut.
 public double Angle { get; }
 ```
 
-### Nilai properti
+### Property Value
 
 Sudut.
 
-### Lihat juga
+### Lihat Juga
 
 * class [AiRasterImageSection](../)
-* ruang nama [Aspose.PSD.FileFormats.Ai](../../airasterimagesection/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,32 +1,33 @@
 ---
-title: Color.op_Inequality
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Color metode. Menguji apakah dua ditentukanColor strukturnya berbeda.
+title: "Color.op_Inequality"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode Color. Menguji apakah dua struktur Color yang ditentukan berbeda"
 type: docs
-weight: 1630
+weight: 1650
 url: /id/net/aspose.psd/color/op_inequality/
 ---
+{{< psd/tize >}}
 ## Color Inequality operator
 
-Menguji apakah dua ditentukan[`Color`](../) strukturnya berbeda.
+Menguji apakah dua struktur [`Color`](../) yang ditentukan berbeda.
 
 ```csharp
 public static bool operator !=(Color left, Color right)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| left | Color | Itu[`Color`](../) yang ada di sebelah kiri operator pertidaksamaan. |
-| right | Color | Itu[`Color`](../) yang ada di sebelah kanan operator pertidaksamaan. |
+| left | Color | [`Color`](../) yang berada di sebelah kiri operator ketidaksamaan. |
+| right | Color | [`Color`](../) yang berada di sebelah kanan operator ketidaksamaan. |
 
-### Nilai Pengembalian
+### Nilai Kembalian
 
-Benar jika keduanya[`Color`](../) strukturnya berbeda; jika tidak, salah.
+Benar jika dua struktur [`Color`](../) berbeda; jika tidak, salah.
 
-### Lihat juga
+### Lihat Juga
 
 * struct [Color](../)
-* ruang nama [Aspose.PSD](../../color/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

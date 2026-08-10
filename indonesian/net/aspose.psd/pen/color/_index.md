@@ -1,34 +1,35 @@
 ---
-title: Pen.Color
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Pen Properti. Mendapat atau menyetel warna iniPen .
+title: "Pen.Color"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti Pen. Mendapatkan atau mengatur warna Pen ini"
 type: docs
 weight: 40
 url: /id/net/aspose.psd/pen/color/
 ---
+{{< psd/tize >}}
 ## Pen.Color property
 
-Mendapat atau menyetel warna ini[`Pen`](../) .
+Mendapatkan atau mengatur warna [`Pen`](../) ini.
 
 ```csharp
 public Color Color { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
-A`Color` struktur yang mewakili warna ini[`Pen`](../).
+Sebuah struktur `Color` yang mewakili warna [`Pen`](../) ini.
 
 ### Pengecualian
 
 | pengecualian | kondisi |
 | --- | --- |
-| ArgumentException | Itu`Color` properti diatur pada yang tidak berubah[`Pen`](../) , seperti yang dikembalikan oleh[`Pen`](../) kelas. |
+| ArgumentException | Properti `Color` diatur pada [`Pen`](../) yang tidak dapat diubah, seperti yang dikembalikan oleh kelas [`Pen`](../). |
 
-### Lihat juga
+### Lihat Juga
 
 * struct [Color](../../color/)
 * class [Pen](../)
-* ruang nama [Aspose.PSD](../../pen/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

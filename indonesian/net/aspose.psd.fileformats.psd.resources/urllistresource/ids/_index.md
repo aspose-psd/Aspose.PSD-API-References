@@ -1,27 +1,28 @@
 ---
-title: UrlListResource.Ids
-second_title: Aspose.PSD untuk Referensi .NET API
-description: UrlListResource Properti. Mendapat atau menyetel id.
+title: "UrlListResource.Ids"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti UrlListResource. Mendapatkan atau mengatur id"
 type: docs
 weight: 40
 url: /id/net/aspose.psd.fileformats.psd.resources/urllistresource/ids/
 ---
+{{< psd/tize >}}
 ## UrlListResource.Ids property
 
-Mendapat atau menyetel id.
+Mendapatkan atau mengatur id.
 
 ```csharp
 public int[] Ids { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
-Id.
+ID.
 
-### Lihat juga
+### Lihat Juga
 
 * class [UrlListResource](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Resources](../../urllistresource/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

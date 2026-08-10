@@ -1,27 +1,28 @@
 ---
-title: DropShadowEffect.Size
-second_title: Aspose.PSD untuk Referensi .NET API
-description: DropShadowEffect Properti. Mendapat atau menyetel nilai buram dalam piksel.
+title: "DropShadowEffect.Size"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "DropShadowEffect properti. Mendapatkan atau mengatur nilai blur dalam piksel"
 type: docs
 weight: 100
 url: /id/net/aspose.psd.fileformats.psd.layers.layereffects/dropshadoweffect/size/
 ---
+{{< psd/tize >}}
 ## DropShadowEffect.Size property
 
-Mendapat atau menyetel nilai buram dalam piksel.
+Mendapatkan atau mengatur nilai blur dalam piksel.
 
 ```csharp
 public int Size { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
 Ukuran.
 
-### Lihat juga
+### Lihat Juga
 
 * class [DropShadowEffect](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../dropshadoweffect/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../../)
 
 

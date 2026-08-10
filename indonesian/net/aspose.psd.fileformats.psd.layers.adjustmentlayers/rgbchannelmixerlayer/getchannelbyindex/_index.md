@@ -1,24 +1,25 @@
 ---
-title: RgbChannelMixerLayer.GetChannelByIndex
-second_title: Aspose.PSD untuk Referensi .NET API
-description: RgbChannelMixerLayer metode. Mendapat indeks saluran. Mengembalikan RgbMixerChannel
+title: "RgbChannelMixerLayer.GetChannelByIndex"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode RgbChannelMixerLayer. Mendapatkan indeks saluran berdasarkan. Mengembalikan RgbMixerChannel"
 type: docs
 weight: 40
 url: /id/net/aspose.psd.fileformats.psd.layers.adjustmentlayers/rgbchannelmixerlayer/getchannelbyindex/
 ---
+{{< psd/tize >}}
 ## RgbChannelMixerLayer.GetChannelByIndex method
 
-Mendapat indeks saluran. Mengembalikan RgbMixerChannel
+Mendapatkan indeks saluran. Mengembalikan RgbMixerChannel
 
 ```csharp
 public override MixerChannel GetChannelByIndex(int index)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
 | index | Int32 | Indeks. |
 
-### Nilai Pengembalian
+### Nilai Kembalian
 
 [`RgbMixerChannel`](../../rgbmixerchannel/)
 
@@ -26,13 +27,13 @@ public override MixerChannel GetChannelByIndex(int index)
 
 | pengecualian | kondisi |
 | --- | --- |
-| [PsdImageArgumentException](../../../aspose.psd.coreexceptions.imageformats/psdimageargumentexception/) | RgbMixerChannelLayer memiliki tidak lebih dari 3 saluran. Indeks saluran Pertama adalah 0 |
+| [PsdImageArgumentException](../../../aspose.psd.coreexceptions.imageformats/psdimageargumentexception/) | RgbMixerChannelLayer tidak memiliki lebih dari 3 saluran. Indeks saluran pertama adalah 0 |
 
-### Lihat juga
+### Lihat Juga
 
 * class [MixerChannel](../../mixerchannel/)
 * class [RgbChannelMixerLayer](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../rgbchannelmixerlayer/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/)
+* assembly [Aspose.PSD](../../../)
 
 

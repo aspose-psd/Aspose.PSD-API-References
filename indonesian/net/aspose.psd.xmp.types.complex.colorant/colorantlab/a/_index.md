@@ -1,27 +1,28 @@
 ---
-title: ColorantLab.A
-second_title: Aspose.PSD untuk Referensi .NET API
-description: ColorantLab Properti. Mendapat atau menyetel komponen A.
+title: "ColorantLab.A"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti ColorantLab. Mendapatkan atau mengatur komponen A"
 type: docs
 weight: 20
 url: /id/net/aspose.psd.xmp.types.complex.colorant/colorantlab/a/
 ---
+{{< psd/tize >}}
 ## ColorantLab.A property
 
-Mendapat atau menyetel komponen A.
+Mendapatkan atau mengatur komponen A.
 
 ```csharp
 public int A { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
 Komponen A.
 
-### Lihat juga
+### Lihat Juga
 
 * class [ColorantLab](../)
-* ruang nama [Aspose.PSD.Xmp.Types.Complex.Colorant](../../colorantlab/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.Colorant](../../../aspose.psd.xmp.types.complex.colorant/)
+* assembly [Aspose.PSD](../../../)
 
 

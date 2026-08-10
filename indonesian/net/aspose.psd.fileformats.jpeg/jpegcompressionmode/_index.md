@@ -1,11 +1,12 @@
 ---
-title: Enum JpegCompressionMode
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Aspose.PSD.FileFormats.Jpeg.JpegCompressionMode enum. Mode kompresi untuk gambar jpeg.
+title: "Enum JpegCompressionMode"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Aspose.PSD.FileFormats.Jpeg.JpegCompressionMode enum. Mode kompresi untuk gambar jpeg"
 type: docs
-weight: 1500
+weight: 1510
 url: /id/net/aspose.psd.fileformats.jpeg/jpegcompressionmode/
 ---
+{{< psd/tize >}}
 ## JpegCompressionMode enumeration
 
 Mode kompresi untuk gambar jpeg.
@@ -16,16 +17,16 @@ public enum JpegCompressionMode
 
 ### Nilai
 
-| Nama | Nilai | Keterangan |
+| Nama | Nilai | Deskripsi |
 | --- | --- | --- |
-| Baseline | `0` | Kompresi dasar. |
+| Baseline | `0` | Kompresi baseline. |
 | Progressive | `1` | Kompresi progresif. |
 | Lossless | `2` | Kompresi lossless. |
 | JpegLs | `3` | Kompresi JPEG-LS. |
 
-### Lihat juga
+### Lihat Juga
 
-* ruang nama [Aspose.PSD.FileFormats.Jpeg](../../aspose.psd.fileformats.jpeg/)
-* perakitan [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Jpeg](../../aspose.psd.fileformats.jpeg/)
+* assembly [Aspose.PSD](../../)
 
 

@@ -1,28 +1,29 @@
 ---
-title: ImageCreatorsRegistry.Register
-second_title: Aspose.PSD untuk Referensi .NET API
-description: ImageCreatorsRegistry metode. Mendaftarkan deskripsi pembuat gambar yang ditentukan.
+title: "ImageCreatorsRegistry.Register"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode ImageCreatorsRegistry. Mendaftarkan deskriptor pembuat gambar yang ditentukan"
 type: docs
 weight: 50
 url: /id/net/aspose.psd/imagecreatorsregistry/register/
 ---
+{{< psd/tize >}}
 ## ImageCreatorsRegistry.Register method
 
-Mendaftarkan deskripsi pembuat gambar yang ditentukan.
+Mendaftarkan deskriptor pembuat gambar yang ditentukan.
 
 ```csharp
 public static void Register(IImageCreatorDescriptor imageCreatorDescriptor)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
 | imageCreatorDescriptor | IImageCreatorDescriptor | Deskriptor pembuat gambar. |
 
-### Lihat juga
+### Lihat Juga
 
 * interface [IImageCreatorDescriptor](../../iimagecreatordescriptor/)
 * class [ImageCreatorsRegistry](../)
-* ruang nama [Aspose.PSD](../../imagecreatorsregistry/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

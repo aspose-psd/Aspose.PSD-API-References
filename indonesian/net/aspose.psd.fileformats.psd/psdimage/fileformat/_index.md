@@ -1,24 +1,25 @@
 ---
-title: PsdImage.FileFormat
-second_title: Aspose.PSD untuk Referensi .NET API
-description: PsdImage Properti. Mendapat nilai format file
+title: "PsdImage.FileFormat"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti PsdImage. Mendapatkan nilai format file"
 type: docs
 weight: 90
 url: /id/net/aspose.psd.fileformats.psd/psdimage/fileformat/
 ---
+{{< psd/tize >}}
 ## PsdImage.FileFormat property
 
-Mendapat nilai format file
+Mendapatkan nilai format file
 
 ```csharp
 public override FileFormat FileFormat { get; }
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * enum [FileFormat](../../../aspose.psd/fileformat/)
 * class [PsdImage](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

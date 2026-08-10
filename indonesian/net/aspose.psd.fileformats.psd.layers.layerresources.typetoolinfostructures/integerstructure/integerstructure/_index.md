@@ -1,28 +1,29 @@
 ---
-title: IntegerStructure.IntegerStructure
-second_title: Aspose.PSD untuk Referensi .NET API
-description: IntegerStructure konstruktor. Menginisialisasi instance baru dariIntegerStructure kelas.
+title: "IntegerStructure.IntegerStructure"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "IntegerStructure konstruktor. Menginisialisasi sebuah instance baru dari kelas IntegerStructure"
 type: docs
 weight: 10
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/integerstructure/integerstructure/
 ---
+{{< psd/tize >}}
 ## IntegerStructure constructor
 
-Menginisialisasi instance baru dari[`IntegerStructure`](../) kelas.
+Menginisialisasi sebuah instance baru dari kelas [`IntegerStructure`](../).
 
 ```csharp
 public IntegerStructure(ClassID keyName)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
 | keyName | ClassID | Nama kunci. |
 
-### Lihat juga
+### Lihat Juga
 
 * class [ClassID](../../../aspose.psd.fileformats.psd.layers.layerresources/classid/)
 * class [IntegerStructure](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../integerstructure/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 

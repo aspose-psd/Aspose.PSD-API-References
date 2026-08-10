@@ -1,32 +1,33 @@
 ---
-title: Size.op_Addition
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Size metode. Menambahkan lebar dan tinggi dari satuSize struktur dengan lebar dan tinggi yang lainSizestruktur.
+title: "Size.op_Addition"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode Size. Menambahkan lebar dan tinggi satu struktur Size ke lebar dan tinggi struktur Size lainnya"
 type: docs
 weight: 140
 url: /id/net/aspose.psd/size/op_addition/
 ---
+{{< psd/tize >}}
 ## Size Addition operator
 
-Menambahkan lebar dan tinggi dari satu[`Size`](../) struktur dengan lebar dan tinggi yang lain[`Size`](../)struktur.
+Menambahkan lebar dan tinggi satu struktur [`Size`](../) ke lebar dan tinggi struktur [`Size`](../) lainnya.
 
 ```csharp
 public static Size operator +(Size size1, Size size2)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| size1 | Size | Pertama[`Size`](../) menambahkan. |
-| size2 | Size | Kedua[`Size`](../) menambahkan. |
+| size1 | Size | [`Size`](../) pertama untuk ditambahkan. |
+| size2 | Size | [`Size`](../) kedua untuk ditambahkan. |
 
-### Nilai Pengembalian
+### Nilai Kembalian
 
-A[`Size`](../) struktur yang merupakan hasil operasi penjumlahan.
+Sebuah struktur [`Size`](../) yang merupakan hasil operasi penjumlahan.
 
-### Lihat juga
+### Lihat Juga
 
 * struct [Size](../)
-* ruang nama [Aspose.PSD](../../size/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: XmpLocale.XmpLocale
-second_title: Aspose.PSD untuk Referensi .NET API
-description: XmpLocale konstruktor. Menginisialisasi instance baru dariXmpLocale kelas.
+title: "XmpLocale.XmpLocale"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Konstruktor XmpLocale. Menginisialisasi instance baru dari kelas XmpLocale"
 type: docs
 weight: 10
 url: /id/net/aspose.psd.xmp.types.derived/xmplocale/xmplocale/
 ---
+{{< psd/tize >}}
 ## XmpLocale constructor
 
-Menginisialisasi instance baru dari[`XmpLocale`](../) kelas.
+Menginisialisasi instance baru dari kelas [`XmpLocale`](../).
 
 ```csharp
 public XmpLocale(string value)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| value | String | Nilai. |
+| nilai | String | Nilai. |
 
-### Lihat juga
+### Lihat Juga
 
 * class [XmpLocale](../)
-* ruang nama [Aspose.PSD.Xmp.Types.Derived](../../xmplocale/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Derived](../../../aspose.psd.xmp.types.derived/)
+* assembly [Aspose.PSD](../../../)
 
 

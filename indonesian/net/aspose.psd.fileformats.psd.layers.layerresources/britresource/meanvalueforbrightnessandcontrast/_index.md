@@ -1,27 +1,28 @@
 ---
-title: BritResource.MeanValueForBrightnessAndContrast
-second_title: Aspose.PSD untuk Referensi .NET API
-description: BritResource Properti. Mendapat atau menyetel nilai ratarata untuk kecerahan dan kontras.
+title: "BritResource.MeanValueForBrightnessAndContrast"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti BritResource. Mendapatkan atau mengatur nilai rata-rata untuk kecerahan dan kontras"
 type: docs
-weight: 70
+weight: 60
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources/britresource/meanvalueforbrightnessandcontrast/
 ---
+{{< psd/tize >}}
 ## BritResource.MeanValueForBrightnessAndContrast property
 
-Mendapat atau menyetel nilai rata-rata untuk kecerahan dan kontras.
+Mendapatkan atau mengatur nilai rata-rata untuk kecerahan dan kontras.
 
 ```csharp
 public short MeanValueForBrightnessAndContrast { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
-Nilai rata-rata untuk kecerahan dan kontras.
+Nilai rata‑rata untuk kecerahan dan kontras.
 
-### Lihat juga
+### Lihat Juga
 
 * class [BritResource](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../britresource/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

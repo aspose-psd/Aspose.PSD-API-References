@@ -1,27 +1,28 @@
 ---
-title: PhflResourceVersion3.ColorX
-second_title: Aspose.PSD untuk Referensi .NET API
-description: PhflResourceVersion3 Properti. Mendapat atau menyetel warna X.
+title: "PhflResourceVersion3.ColorX"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti PhflResourceVersion3. Mengambil atau mengatur warna X"
 type: docs
 weight: 30
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources/phflresourceversion3/colorx/
 ---
+{{< psd/tize >}}
 ## PhflResourceVersion3.ColorX property
 
-Mendapat atau menyetel warna X.
+Mendapatkan atau mengatur warna X.
 
 ```csharp
 public float ColorX { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
 Warna X.
 
-### Lihat juga
+### Lihat Juga
 
 * class [PhflResourceVersion3](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../phflresourceversion3/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

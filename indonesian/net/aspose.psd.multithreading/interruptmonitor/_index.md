@@ -1,14 +1,15 @@
 ---
-title: Class InterruptMonitor
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Aspose.PSD.Multithreading.InterruptMonitor kelas. Mewakili informasi tentang gangguan.
+title: "Kelas InterruptMonitor"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Aspose.PSD.Multithreading.InterruptMonitor kelas. Mewakili informasi tentang interupsi."
 type: docs
-weight: 5130
+weight: 5620
 url: /id/net/aspose.psd.multithreading/interruptmonitor/
 ---
+{{< psd/tize >}}
 ## InterruptMonitor class
 
-Mewakili informasi tentang gangguan.
+Mewakili informasi tentang interupsi.
 
 ```csharp
 public class InterruptMonitor
@@ -16,26 +17,26 @@ public class InterruptMonitor
 
 ## Konstruktor
 
-| Nama | Keterangan |
+| Nama | Deskripsi |
 | --- | --- |
 | [InterruptMonitor](interruptmonitor/)() | Konstruktor default. |
 
 ## Properti
 
-| Nama | Keterangan |
+| Nama | Deskripsi |
 | --- | --- |
-| static [ThreadLocalInstance](../../aspose.psd.multithreading/interruptmonitor/threadlocalinstance/) { get; set; } | Mendapat atau menyetel instance InterruptMonitor yang unik untuk setiap utas. |
-| [IsInterrupted](../../aspose.psd.multithreading/interruptmonitor/isinterrupted/) { get; } | Mendapat nilai yang menunjukkan apakah operasi harus dihentikan. |
+| static [ThreadLocalInstance](../../aspose.psd.multithreading/interruptmonitor/threadlocalinstance/) { get; set; } | Mendapatkan atau mengatur instance InterruptMonitor yang unik untuk setiap thread. |
+| [IsInterrupted](../../aspose.psd.multithreading/interruptmonitor/isinterrupted/) { get; } | Mendapatkan nilai yang menunjukkan apakah operasi harus dihentikan. |
 
 ## Metode
 
-| Nama | Keterangan |
+| Nama | Deskripsi |
 | --- | --- |
 | [Interrupt](../../aspose.psd.multithreading/interruptmonitor/interrupt/)() | Mengirim permintaan untuk menghentikan operasi. |
 
-### Lihat juga
+### Lihat Juga
 
-* ruang nama [Aspose.PSD.Multithreading](../../aspose.psd.multithreading/)
-* perakitan [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Multithreading](../../aspose.psd.multithreading/)
+* assembly [Aspose.PSD](../../)
 
 

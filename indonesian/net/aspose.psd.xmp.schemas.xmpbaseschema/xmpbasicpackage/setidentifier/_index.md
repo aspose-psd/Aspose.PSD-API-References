@@ -1,27 +1,28 @@
 ---
-title: XmpBasicPackage.SetIdentifier
-second_title: Aspose.PSD untuk Referensi .NET API
-description: XmpBasicPackage metode. Mengatur pengenal.
+title: "XmpBasicPackage.SetIdentifier"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode XmpBasicPackage. Mengatur pengidentifikasi"
 type: docs
-weight: 50
+weight: 70
 url: /id/net/aspose.psd.xmp.schemas.xmpbaseschema/xmpbasicpackage/setidentifier/
 ---
+{{< psd/tize >}}
 ## XmpBasicPackage.SetIdentifier method
 
-Mengatur pengenal.
+Mengatur pengidentifikasi.
 
 ```csharp
 public void SetIdentifier(string[] idenfifier)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| idenfifier | String[] | Pengenal. |
+| idenfifier | String[] | Idenfifier tersebut. |
 
-### Lihat juga
+### Lihat Juga
 
 * class [XmpBasicPackage](../)
-* ruang nama [Aspose.PSD.Xmp.Schemas.XmpBaseSchema](../../xmpbasicpackage/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpBaseSchema](../../../aspose.psd.xmp.schemas.xmpbaseschema/)
+* assembly [Aspose.PSD](../../../)
 
 

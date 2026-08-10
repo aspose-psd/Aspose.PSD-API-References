@@ -1,27 +1,28 @@
 ---
-title: VectorPathDataResource.IsInverted
-second_title: Aspose.PSD untuk Referensi .NET API
-description: VectorPathDataResource Properti. Mendapat atau menetapkan nilai yang menunjukkan apakah instance ini terbalik.
+title: "VectorPathDataResource.IsInverted"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "VectorPathDataResource properti. Mendapatkan atau mengatur nilai yang menunjukkan apakah instance ini terbalik"
 type: docs
 weight: 20
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources/vectorpathdataresource/isinverted/
 ---
+{{< psd/tize >}}
 ## VectorPathDataResource.IsInverted property
 
-Mendapat atau menetapkan nilai yang menunjukkan apakah instance ini terbalik.
+Mendapatkan atau mengatur nilai yang menunjukkan apakah instance ini terbalik.
 
 ```csharp
 public bool IsInverted { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
-`BENAR` jika hal ini terbalik; jika tidak,`PALSU` .
+`true` jika instance ini terbalik; selainnya, `false`.
 
-### Lihat juga
+### Lihat Juga
 
 * class [VectorPathDataResource](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../vectorpathdataresource/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

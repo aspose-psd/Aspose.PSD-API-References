@@ -1,23 +1,24 @@
 ---
-title: VectorRasterizationOptions.CenterDrawing
-second_title: Aspose.PSD untuk Referensi .NET API
-description: VectorRasterizationOptions Properti. Mendapat atau menetapkan nilai yang menunjukkan apakah gambar tengah.
+title: "VectorRasterizationOptions.CenterDrawing"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti VectorRasterizationOptions. Mendapatkan atau mengatur nilai yang menunjukkan apakah menggambar di tengah"
 type: docs
 weight: 40
 url: /id/net/aspose.psd.imageoptions/vectorrasterizationoptions/centerdrawing/
 ---
+{{< psd/tize >}}
 ## VectorRasterizationOptions.CenterDrawing property
 
-Mendapat atau menetapkan nilai yang menunjukkan apakah gambar tengah.
+Mendapatkan atau mengatur nilai yang menunjukkan apakah menggambar di tengah.
 
 ```csharp
 public bool CenterDrawing { get; set; }
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [VectorRasterizationOptions](../)
-* ruang nama [Aspose.PSD.ImageOptions](../../vectorrasterizationoptions/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

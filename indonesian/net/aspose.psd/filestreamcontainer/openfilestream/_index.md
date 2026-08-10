@@ -1,31 +1,32 @@
 ---
-title: FileStreamContainer.OpenFileStream
-second_title: Aspose.PSD untuk Referensi .NET API
-description: FileStreamContainer metode. Membuka aliran file yang ada. Jika aliran file tidak ada pengecualian yang sesuai akan dilemparkan.
+title: "FileStreamContainer.OpenFileStream"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode FileStreamContainer. Membuka aliran file yang ada. Jika aliran file tidak ada, pengecualian yang sesuai akan dilempar"
 type: docs
 weight: 20
 url: /id/net/aspose.psd/filestreamcontainer/openfilestream/
 ---
+{{< psd/tize >}}
 ## FileStreamContainer.OpenFileStream method
 
-Membuka aliran file yang ada. Jika aliran file tidak ada, pengecualian yang sesuai akan dilemparkan.
+Melakukan konversi eksplisit dari `FileStreamContainer` ke Stream. (2 operator)
 
 ```csharp
 public static FileStreamContainer OpenFileStream(string fileLocation)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| fileLocation | String | Lokasi berkas. |
+| fileLocation | String | Lokasi file. |
 
-### Nilai Pengembalian
+### Nilai Kembalian
 
-Wadah aliran file.
+Kontainer aliran file.
 
-### Lihat juga
+### Lihat Juga
 
 * class [FileStreamContainer](../)
-* ruang nama [Aspose.PSD](../../filestreamcontainer/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

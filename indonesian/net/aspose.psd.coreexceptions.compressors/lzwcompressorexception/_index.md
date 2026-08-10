@@ -1,11 +1,12 @@
 ---
-title: Class LzwCompressorException
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Aspose.PSD.CoreExceptions.Compressors.LzwCompressorException kelas. Pengecualian kompresor lzw.
+title: "Kelas LzwCompressorException"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Aspose.PSD.CoreExceptions.Compressors.LzwCompressorException kelas. Pengecualian kompresor lzw"
 type: docs
 weight: 450
 url: /id/net/aspose.psd.coreexceptions.compressors/lzwcompressorexception/
 ---
+{{< psd/tize >}}
 ## LzwCompressorException class
 
 Pengecualian kompresor lzw.
@@ -16,15 +17,15 @@ public class LzwCompressorException : CompressorException
 
 ## Konstruktor
 
-| Nama | Keterangan |
+| Nama | Deskripsi |
 | --- | --- |
-| [LzwCompressorException](lzwcompressorexception/#constructor)(string) | Menginisialisasi instance baru dari`LzwCompressorException` kelas. |
-| [LzwCompressorException](lzwcompressorexception/#constructor_1)(string, Exception) | Menginisialisasi instance baru dari`LzwCompressorException` kelas. |
+| [LzwCompressorException](lzwcompressorexception/#constructor)(string) | Menginisialisasi sebuah instance baru dari kelas `LzwCompressorException`. |
+| [LzwCompressorException](lzwcompressorexception/#constructor_1)(string, Exception) | Menginisialisasi sebuah instance baru dari kelas `LzwCompressorException`. |
 
-### Lihat juga
+### Lihat Juga
 
 * class [CompressorException](../../aspose.psd.coreexceptions/compressorexception/)
-* ruang nama [Aspose.PSD.CoreExceptions.Compressors](../../aspose.psd.coreexceptions.compressors/)
-* perakitan [Aspose.PSD](../../)
+* namespace [Aspose.PSD.CoreExceptions.Compressors](../../aspose.psd.coreexceptions.compressors/)
+* assembly [Aspose.PSD](../../)
 
 

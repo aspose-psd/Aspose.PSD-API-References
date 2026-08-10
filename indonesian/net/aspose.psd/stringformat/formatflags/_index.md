@@ -1,28 +1,29 @@
 ---
-title: StringFormat.FormatFlags
-second_title: Aspose.PSD untuk Referensi .NET API
-description: StringFormat Properti. Mendapat atau menyetel aStringFormatFlags pencacahan yang berisi informasi pemformatan.
+title: "StringFormat.FormatFlags"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti StringFormat. Mengambil atau mengatur enumerasi StringFormatFlags yang berisi informasi pemformatan"
 type: docs
-weight: 80
+weight: 90
 url: /id/net/aspose.psd/stringformat/formatflags/
 ---
+{{< psd/tize >}}
 ## StringFormat.FormatFlags property
 
-Mendapat atau menyetel a[`StringFormatFlags`](../../stringformatflags/) pencacahan yang berisi informasi pemformatan.
+Mengambil atau mengatur enumerasi [`StringFormatFlags`](../../stringformatflags/) yang berisi informasi pemformatan.
 
 ```csharp
 public StringFormatFlags FormatFlags { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
-A[`StringFormatFlags`](../../stringformatflags/) pencacahan yang berisi informasi pemformatan.
+Enumerasi [`StringFormatFlags`](../../stringformatflags/) yang berisi informasi pemformatan.
 
-### Lihat juga
+### Lihat Juga
 
 * enum [StringFormatFlags](../../stringformatflags/)
 * class [StringFormat](../)
-* ruang nama [Aspose.PSD](../../stringformat/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

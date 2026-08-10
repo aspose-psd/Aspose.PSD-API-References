@@ -1,28 +1,29 @@
 ---
-title: ExifData.SubjectDistance
-second_title: Aspose.PSD untuk Referensi .NET API
-description: ExifData Properti. Mendapat atau mengatur jarak subjek.
+title: "ExifData.SubjectDistance"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti ExifData. Mendapatkan atau mengatur jarak subjek"
 type: docs
 weight: 1000
 url: /id/net/aspose.psd.exif/exifdata/subjectdistance/
 ---
+{{< psd/tize >}}
 ## ExifData.SubjectDistance property
 
-Mendapat atau mengatur jarak subjek.
+Mendapatkan atau mengatur jarak subjek.
 
 ```csharp
 public TiffRational SubjectDistance { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
 Jarak subjek.
 
-### Lihat juga
+### Lihat Juga
 
 * class [TiffRational](../../../aspose.psd.fileformats.tiff/tiffrational/)
 * class [ExifData](../)
-* ruang nama [Aspose.PSD.Exif](../../exifdata/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

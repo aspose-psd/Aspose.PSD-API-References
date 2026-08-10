@@ -1,23 +1,24 @@
 ---
-title: Namespaces.XmpBasic
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Namespaces bidang. ruang nama Dasar XMP.
+title: "Namespaces.XmpBasic"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Bidang Namespaces. namespace XMP Basic"
 type: docs
 weight: 60
 url: /id/net/aspose.psd.xmp/namespaces/xmpbasic/
 ---
+{{< psd/tize >}}
 ## Namespaces.XmpBasic field
 
-ruang nama Dasar XMP.
+Namespace XMP Basic.
 
 ```csharp
 public const string XmpBasic;
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [Namespaces](../)
-* ruang nama [Aspose.PSD.Xmp](../../namespaces/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

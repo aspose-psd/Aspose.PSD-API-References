@@ -1,43 +1,44 @@
 ---
-title: ColorBlend.ColorBlend
-second_title: Aspose.PSD untuk Referensi .NET API
-description: ColorBlend konstruktor. Menginisialisasi instance baru dariColorBlend kelas.
+title: "ColorBlend.ColorBlend"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Konstruktor ColorBlend. Menginisialisasi instance baru dari kelas ColorBlend"
 type: docs
 weight: 10
 url: /id/net/aspose.psd/colorblend/colorblend/
 ---
+{{< psd/tize >}}
 ## ColorBlend() {#constructor}
 
-Menginisialisasi instance baru dari[`ColorBlend`](../) kelas.
+Menginisialisasi instance baru dari kelas [`ColorBlend`](../).
 
 ```csharp
 public ColorBlend()
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [ColorBlend](../)
-* ruang nama [Aspose.PSD](../../colorblend/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## ColorBlend(int) {#constructor_1}
 
-Menginisialisasi instance baru dari[`ColorBlend`](../) kelas dengan jumlah warna dan posisi yang ditentukan.
+Menginisialisasi instance baru dari kelas [`ColorBlend`](../) dengan jumlah warna dan posisi yang ditentukan.
 
 ```csharp
 public ColorBlend(int count)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| count | Int32 | Jumlah warna dan posisi dalam hal ini[`ColorBlend`](../). |
+| count | Int32 | Jumlah warna dan posisi dalam [`ColorBlend`](../) ini. |
 
-### Lihat juga
+### Lihat Juga
 
 * class [ColorBlend](../)
-* ruang nama [Aspose.PSD](../../colorblend/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

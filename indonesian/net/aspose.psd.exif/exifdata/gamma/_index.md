@@ -1,28 +1,29 @@
 ---
-title: ExifData.Gamma
-second_title: Aspose.PSD untuk Referensi .NET API
-description: ExifData Properti. Mendapat atau menyetel gamma.
+title: "ExifData.Gamma"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti ExifData. Mendapatkan atau mengatur gamma"
 type: docs
 weight: 350
 url: /id/net/aspose.psd.exif/exifdata/gamma/
 ---
+{{< psd/tize >}}
 ## ExifData.Gamma property
 
-Mendapat atau menyetel gamma.
+Mendapatkan atau mengatur gamma.
 
 ```csharp
 public TiffRational Gamma { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
 Nilai gamma.
 
-### Lihat juga
+### Lihat Juga
 
 * class [TiffRational](../../../aspose.psd.fileformats.tiff/tiffrational/)
 * class [ExifData](../)
-* ruang nama [Aspose.PSD.Exif](../../exifdata/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

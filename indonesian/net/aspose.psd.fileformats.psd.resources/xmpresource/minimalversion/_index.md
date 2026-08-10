@@ -1,27 +1,28 @@
 ---
-title: XmpResource.MinimalVersion
-second_title: Aspose.PSD untuk Referensi .NET API
-description: XmpResource Properti. Mendapat versi psd minimal yang diperlukan.
+title: "XmpResource.MinimalVersion"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti XmpResource. Mendapatkan versi psd minimal yang diperlukan"
 type: docs
 weight: 30
 url: /id/net/aspose.psd.fileformats.psd.resources/xmpresource/minimalversion/
 ---
+{{< psd/tize >}}
 ## XmpResource.MinimalVersion property
 
-Mendapat versi psd minimal yang diperlukan.
+Mendapatkan versi psd minimal yang diperlukan.
 
 ```csharp
 public override int MinimalVersion { get; }
 ```
 
-### Nilai properti
+### Property Value
 
 Versi psd minimal.
 
-### Lihat juga
+### Lihat Juga
 
 * class [XmpResource](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Resources](../../xmpresource/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

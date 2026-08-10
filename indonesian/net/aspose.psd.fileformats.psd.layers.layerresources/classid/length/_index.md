@@ -1,11 +1,12 @@
 ---
-title: ClassID.Length
-second_title: Aspose.PSD untuk Referensi .NET API
-description: ClassID Properti. Mendapatkan panjang ID kelas dalam byte.
+title: "ClassID.Length"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti ClassID. Mendapatkan panjang ID kelas dalam byte"
 type: docs
 weight: 40
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources/classid/length/
 ---
+{{< psd/tize >}}
 ## ClassID.Length property
 
 Mendapatkan panjang ID kelas dalam byte.
@@ -14,10 +15,10 @@ Mendapatkan panjang ID kelas dalam byte.
 public int Length { get; }
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [ClassID](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../classid/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

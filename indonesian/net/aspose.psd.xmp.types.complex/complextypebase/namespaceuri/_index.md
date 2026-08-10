@@ -1,11 +1,12 @@
 ---
-title: ComplexTypeBase.NamespaceUri
-second_title: Aspose.PSD untuk Referensi .NET API
-description: ComplexTypeBase Properti. Mendapatkan URI namespace default.
+title: "ComplexTypeBase.NamespaceUri"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti ComplexTypeBase. Mendapatkan URI namespace default"
 type: docs
 weight: 20
 url: /id/net/aspose.psd.xmp.types.complex/complextypebase/namespaceuri/
 ---
+{{< psd/tize >}}
 ## ComplexTypeBase.NamespaceUri property
 
 Mendapatkan URI namespace default.
@@ -14,14 +15,14 @@ Mendapatkan URI namespace default.
 public string NamespaceUri { get; }
 ```
 
-### Nilai properti
+### Property Value
 
 URI namespace default.
 
-### Lihat juga
+### Lihat Juga
 
 * class [ComplexTypeBase](../)
-* ruang nama [Aspose.PSD.Xmp.Types.Complex](../../complextypebase/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex](../../../aspose.psd.xmp.types.complex/)
+* assembly [Aspose.PSD](../../../)
 
 

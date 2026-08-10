@@ -1,43 +1,44 @@
 ---
-title: ColorMatrix.ColorMatrix
-second_title: Aspose.PSD untuk Referensi .NET API
-description: ColorMatrix konstruktor. Menginisialisasi instance baru dariColorMatrix kelas.
+title: "ColorMatrix.ColorMatrix"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Konstruktor ColorMatrix. Menginisialisasi sebuah instance baru dari kelas ColorMatrix"
 type: docs
 weight: 10
 url: /id/net/aspose.psd/colormatrix/colormatrix/
 ---
+{{< psd/tize >}}
 ## ColorMatrix() {#constructor}
 
-Menginisialisasi instance baru dari[`ColorMatrix`](../) kelas.
+Menginisialisasi sebuah instance baru dari kelas [`ColorMatrix`](../).
 
 ```csharp
 public ColorMatrix()
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [ColorMatrix](../)
-* ruang nama [Aspose.PSD](../../colormatrix/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## ColorMatrix(float[][]) {#constructor_1}
 
-Menginisialisasi instance baru dari[`ColorMatrix`](../) kelas menggunakan elemen dalam matriks yang ditentukan*newColorMatrix* .
+Menginisialisasi sebuah instance baru dari kelas [`ColorMatrix`](../) menggunakan elemen-elemen dalam matriks yang ditentukan *newColorMatrix*.
 
 ```csharp
 public ColorMatrix(float[][] newColorMatrix)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| newColorMatrix | Single[][] | Nilai elemen untuk yang baru[`ColorMatrix`](../). |
+| newColorMatrix | Single[][] | Nilai-nilai elemen untuk [`ColorMatrix`](../) yang baru. |
 
-### Lihat juga
+### Lihat Juga
 
 * class [ColorMatrix](../)
-* ruang nama [Aspose.PSD](../../colormatrix/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

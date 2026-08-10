@@ -1,27 +1,28 @@
 ---
-title: RasterImage.HasAlpha
-second_title: Aspose.PSD untuk Referensi .NET API
-description: RasterImage Properti. Mendapat nilai yang menunjukkan apakah instance ini memiliki alpha.
+title: "RasterImage.HasAlpha"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti RasterImage. Mendapatkan nilai yang menunjukkan apakah instance ini memiliki alpha"
 type: docs
 weight: 10
 url: /id/net/aspose.psd/rasterimage/hasalpha/
 ---
+{{< psd/tize >}}
 ## RasterImage.HasAlpha property
 
-Mendapat nilai yang menunjukkan apakah instance ini memiliki alpha.
+Mendapatkan nilai yang menunjukkan apakah instance ini memiliki alfa.
 
 ```csharp
 public virtual bool HasAlpha { get; }
 ```
 
-### Nilai properti
+### Property Value
 
-`BENAR` jika instance ini memiliki alfa; jika tidak,`PALSU` .
+`true` jika instance ini memiliki alfa; jika tidak, `false`.
 
-### Lihat juga
+### Lihat Juga
 
 * class [RasterImage](../)
-* ruang nama [Aspose.PSD](../../rasterimage/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

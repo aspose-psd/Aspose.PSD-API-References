@@ -1,33 +1,34 @@
 ---
-title: LevelChannel.InputMidtoneLevel
-second_title: Aspose.PSD untuk Referensi .NET API
-description: LevelChannel Properti. Mendapat atau menyetel float level midtone input.
+title: "LevelChannel.InputMidtoneLevel"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti LevelChannel. Mendapatkan atau mengatur nilai float tingkat midtone input"
 type: docs
 weight: 20
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources/levelchannel/inputmidtonelevel/
 ---
+{{< psd/tize >}}
 ## LevelChannel.InputMidtoneLevel property
 
-Mendapat atau menyetel float level midtone input.
+Mendapatkan atau mengatur nilai float tingkat nada tengah input.
 
 ```csharp
 public float InputMidtoneLevel { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
-Input float level midtone.
+Nilai float tingkat midtone input.
 
 ### Pengecualian
 
 | pengecualian | kondisi |
 | --- | --- |
-| ArgumentOutOfRangeException | Level Midtone Input hanya dapat diatur dalam rentang dari 0,01 hingga 9,99 |
+| ArgumentOutOfRangeException | Tingkat Midtone Input hanya dapat diatur dalam rentang dari 0.01 hingga 9.99 |
 
-### Lihat juga
+### Lihat Juga
 
 * class [LevelChannel](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../levelchannel/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

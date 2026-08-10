@@ -1,25 +1,26 @@
 ---
-title: Aspose.PSD.FileFormats.Psd.Layers.Text
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Namespace berisi API untuk memanipulasi data layer teks
+title: "Aspose.PSD.FileFormats.Psd.Layers.Text"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Namespace ini berisi API untuk memanipulasi data lapisan teks."
 type: docs
-weight: 340
+weight: 360
 url: /id/net/aspose.psd.fileformats.psd.layers.text/
 ---
-Namespace berisi API untuk memanipulasi data layer teks
+{{< psd/tize >}}
+Namespace ini berisi API untuk memanipulasi data lapisan teks.
 
 ## Kelas
 
-| Kelas | Keterangan |
+| Kelas | Deskripsi |
 | --- | --- |
-| [TextFontInfo](./textfontinfo/) | Merupakan informasi tentang font. Kelas ini tidak dapat diwariskan. |
+| [TextFontInfo](./textfontinfo/) | Mewakili informasi tentang font. Kelas ini tidak dapat diwarisi. |
 ## Antarmuka
 
-| Antarmuka | Keterangan |
+| Antarmuka | Deskripsi |
 | --- | --- |
-| [IText](./itext/) | Antarmuka untuk Pengeditan Teks untuk Lapisan Teks |
+| [IText](./itext/) | Antarmuka untuk Penyuntingan Teks untuk Lapisan Teks |
 | [ITextParagraph](./itextparagraph/) | Antarmuka untuk bekerja dengan paragraf |
 | [ITextPortion](./itextportion/) | Antarmuka untuk memanipulasi bagian teks |
-| [ITextStyle](./itextstyle/) | Antarmuka untuk bekerja dengan Text Style |
+| [ITextStyle](./itextstyle/) | Antarmuka untuk bekerja dengan Gaya Teks |
 
 

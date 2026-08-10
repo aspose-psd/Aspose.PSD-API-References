@@ -1,23 +1,24 @@
 ---
-title: TypeToolInfoResource.FontsCount
-second_title: Aspose.PSD untuk Referensi .NET API
-description: TypeToolInfoResource Properti. Mendapat hitungan font.
+title: "TypeToolInfoResource.FontsCount"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti TypeToolInfoResource. Mendapatkan jumlah font"
 type: docs
 weight: 70
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources/typetoolinforesource/fontscount/
 ---
+{{< psd/tize >}}
 ## TypeToolInfoResource.FontsCount property
 
-Mendapat hitungan font.
+Mendapatkan jumlah font.
 
 ```csharp
 public short FontsCount { get; }
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [TypeToolInfoResource](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../typetoolinforesource/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

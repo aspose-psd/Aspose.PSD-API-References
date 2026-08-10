@@ -1,33 +1,34 @@
 ---
-title: LevelChannel.OutputShadowLevel
-second_title: Aspose.PSD untuk Referensi .NET API
-description: LevelChannel Properti. Mendapat atau menyetel tingkat bayangan keluaran.
+title: "LevelChannel.OutputShadowLevel"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti LevelChannel. Mendapatkan atau mengatur tingkat bayangan output"
 type: docs
 weight: 50
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources/levelchannel/outputshadowlevel/
 ---
+{{< psd/tize >}}
 ## LevelChannel.OutputShadowLevel property
 
-Mendapat atau menyetel tingkat bayangan keluaran.
+Mendapatkan atau mengatur tingkat bayangan output.
 
 ```csharp
 public short OutputShadowLevel { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
-Tingkat bayangan keluaran.
+Tingkat bayangan output.
 
 ### Pengecualian
 
 | pengecualian | kondisi |
 | --- | --- |
-| ArgumentOutOfRangeException | Output Shadow Level hanya dapat diatur dalam rentang dari 0 hingga " + (this.OutputHighlightLevel - 2) |
+| ArgumentOutOfRangeException | Tingkat Bayangan Output hanya dapat diatur dalam rentang dari 0 hingga " + (this.OutputHighlightLevel - 2) |
 
-### Lihat juga
+### Lihat Juga
 
 * class [LevelChannel](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../levelchannel/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

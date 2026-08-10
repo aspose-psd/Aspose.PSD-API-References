@@ -1,11 +1,12 @@
 ---
-title: RasterImage.Resize
-second_title: Aspose.PSD untuk Referensi .NET API
-description: RasterImage metode. Mengubah ukuran gambar.
+title: "RasterImage.Resize"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode RasterImage. Mengubah ukuran gambar."
 type: docs
-weight: 470
+weight: 480
 url: /id/net/aspose.psd/rasterimage/resize/
 ---
+{{< psd/tize >}}
 ## Resize(int, int, ResizeType) {#resize_2}
 
 Mengubah ukuran gambar.
@@ -14,18 +15,18 @@ Mengubah ukuran gambar.
 public override void Resize(int newWidth, int newHeight, ResizeType resizeType)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
 | newWidth | Int32 | Lebar baru. |
-| newHeight | Int32 | Ketinggian baru. |
+| newHeight | Int32 | Tinggi baru. |
 | resizeType | ResizeType | Jenis pengubahan ukuran. |
 
-### Lihat juga
+### Lihat Juga
 
 * enum [ResizeType](../../resizetype/)
 * class [RasterImage](../)
-* ruang nama [Aspose.PSD](../../rasterimage/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
@@ -37,17 +38,17 @@ Mengubah ukuran gambar dengan opsi tambahan.
 public override void Resize(int newWidth, int newHeight, ImageResizeSettings settings)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
 | newWidth | Int32 | Lebar baru. |
-| newHeight | Int32 | Ketinggian baru. |
-| settings | ImageResizeSettings | Pengaturan pengubahan ukuran. |
+| newHeight | Int32 | Tinggi baru. |
+| pengaturan | ImageResizeSettings | Pengaturan pengubahan ukuran. |
 
-### Lihat juga
+### Lihat Juga
 
 * class [ImageResizeSettings](../../imageresizesettings/)
 * class [RasterImage](../)
-* ruang nama [Aspose.PSD](../../rasterimage/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

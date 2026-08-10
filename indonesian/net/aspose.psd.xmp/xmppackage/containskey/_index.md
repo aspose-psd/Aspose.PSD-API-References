@@ -1,31 +1,32 @@
 ---
-title: XmpPackage.ContainsKey
-second_title: Aspose.PSD untuk Referensi .NET API
-description: XmpPackage metode. Menentukan apakah kunci yang ditentukan berisi kunci.
+title: "XmpPackage.ContainsKey"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode XmpPackage. Menentukan apakah kunci yang ditentukan ada"
 type: docs
 weight: 80
 url: /id/net/aspose.psd.xmp/xmppackage/containskey/
 ---
+{{< psd/tize >}}
 ## XmpPackage.ContainsKey method
 
-Menentukan apakah kunci yang ditentukan berisi kunci.
+Menentukan apakah kunci yang ditentukan mengandung kunci.
 
 ```csharp
 public virtual bool ContainsKey(string key)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| key | String | Kunci untuk diperiksa. |
+| kunci | String | Kunci yang akan diperiksa. |
 
-### Nilai Pengembalian
+### Nilai Kembalian
 
-Mengembalikan nilai true jika kunci yang ditentukan berisi kunci.
+Mengembalikan true jika kunci yang ditentukan berisi kunci.
 
-### Lihat juga
+### Lihat Juga
 
 * class [XmpPackage](../)
-* ruang nama [Aspose.PSD.Xmp](../../xmppackage/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

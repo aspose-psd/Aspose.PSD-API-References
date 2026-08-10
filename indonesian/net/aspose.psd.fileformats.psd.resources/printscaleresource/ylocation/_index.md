@@ -1,27 +1,28 @@
 ---
-title: PrintScaleResource.YLocation
-second_title: Aspose.PSD untuk Referensi .NET API
-description: PrintScaleResource Properti. Mendapat atau menetapkan lokasi y.
+title: "PrintScaleResource.YLocation"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "PrintScaleResource properti. Mendapatkan atau mengatur lokasi y"
 type: docs
 weight: 70
 url: /id/net/aspose.psd.fileformats.psd.resources/printscaleresource/ylocation/
 ---
+{{< psd/tize >}}
 ## PrintScaleResource.YLocation property
 
-Mendapat atau menetapkan lokasi y.
+Mendapatkan atau mengatur lokasi y.
 
 ```csharp
 public float YLocation { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
 Lokasi y.
 
-### Lihat juga
+### Lihat Juga
 
 * class [PrintScaleResource](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Resources](../../printscaleresource/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

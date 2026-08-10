@@ -1,27 +1,28 @@
 ---
-title: ProgressEventHandlerInfo.Value
-second_title: Aspose.PSD untuk Referensi .NET API
-description: ProgressEventHandlerInfo Properti. Mendapat nilai progres saat ini.
+title: "ProgressEventHandlerInfo.Value"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "ProgressEventHandlerInfo properti. Mendapatkan nilai kemajuan saat ini"
 type: docs
 weight: 40
 url: /id/net/aspose.psd.progressmanagement/progresseventhandlerinfo/value/
 ---
+{{< psd/tize >}}
 ## ProgressEventHandlerInfo.Value property
 
-Mendapat nilai progres saat ini.
+Mendapatkan nilai kemajuan saat ini.
 
 ```csharp
 public int Value { get; }
 ```
 
-### Nilai properti
+### Property Value
 
-Nilai progres.
+Nilai kemajuan.
 
-### Lihat juga
+### Lihat Juga
 
 * class [ProgressEventHandlerInfo](../)
-* ruang nama [Aspose.PSD.ProgressManagement](../../progresseventhandlerinfo/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ProgressManagement](../../../aspose.psd.progressmanagement/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: Class VectorShapeRadiiRectangle
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Aspose.PSD.FileFormats.Core.VectorPaths.VectorShapeRadiiRectangle kelas. Mendefinisikan bentuk vektor dengan jarijari persegi panjang class
+title: "Kelas VectorShapeRadiiRectangle"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Kelas Aspose.PSD.FileFormats.Core.VectorPaths.VectorShapeRadiiRectangle. Mendefinisikan kelas persegi panjang radius bentuk vektor"
 type: docs
-weight: 1450
+weight: 1460
 url: /id/net/aspose.psd.fileformats.core.vectorpaths/vectorshaperadiirectangle/
 ---
+{{< psd/tize >}}
 ## VectorShapeRadiiRectangle class
 
-Mendefinisikan bentuk vektor dengan jari-jari persegi panjang class
+Mendefinisikan kelas persegi panjang radius bentuk vektor
 
 ```csharp
 public sealed class VectorShapeRadiiRectangle
@@ -16,28 +17,28 @@ public sealed class VectorShapeRadiiRectangle
 
 ## Konstruktor
 
-| Nama | Keterangan |
+| Nama | Deskripsi |
 | --- | --- |
 | [VectorShapeRadiiRectangle](vectorshaperadiirectangle/)() | Konstruktor default. |
 
 ## Properti
 
-| Nama | Keterangan |
+| Nama | Deskripsi |
 | --- | --- |
-| [BottomLeft](../../aspose.psd.fileformats.core.vectorpaths/vectorshaperadiirectangle/bottomleft/) { get; set; } | Mendapat atau menyetel bagian bawah. |
-| [BottomRight](../../aspose.psd.fileformats.core.vectorpaths/vectorshaperadiirectangle/bottomright/) { get; set; } | Mendapat atau menyetel kanan bawah. |
-| [QuadVersion](../../aspose.psd.fileformats.core.vectorpaths/vectorshaperadiirectangle/quadversion/) { get; set; } | Mendapat atau menetapkan versi quad nilai unit. |
-| [TopLeft](../../aspose.psd.fileformats.core.vectorpaths/vectorshaperadiirectangle/topleft/) { get; set; } | Mendapat atau menyetel kiri atas. |
-| [TopRight](../../aspose.psd.fileformats.core.vectorpaths/vectorshaperadiirectangle/topright/) { get; set; } | Mendapat atau menyetel kanan atas. |
+| [BottomLeft](../../aspose.psd.fileformats.core.vectorpaths/vectorshaperadiirectangle/bottomleft/) { get; set; } | Mendapatkan atau mengatur bagian bawah. |
+| [BottomRight](../../aspose.psd.fileformats.core.vectorpaths/vectorshaperadiirectangle/bottomright/) { get; set; } | Mendapatkan atau mengatur kanan bawah. |
+| [QuadVersion](../../aspose.psd.fileformats.core.vectorpaths/vectorshaperadiirectangle/quadversion/) { get; set; } | Mendapatkan atau mengatur nilai unit versi kuad. |
+| [TopLeft](../../aspose.psd.fileformats.core.vectorpaths/vectorshaperadiirectangle/topleft/) { get; set; } | Mendapatkan atau mengatur kiri atas. |
+| [TopRight](../../aspose.psd.fileformats.core.vectorpaths/vectorshaperadiirectangle/topright/) { get; set; } | Mendapatkan atau mengatur kanan atas. |
 
-### Contoh
+## Contoh
 
 Contoh ini menunjukkan bahwa memuat dan menyimpan gambar PSD dengan lapisan bentuk dan jalur vektor bekerja dengan benar.
 
 ```csharp
 [C#]
 
-// Contoh ini menunjukkan bahwa memuat dan menyimpan gambar PSD dengan layer bentuk dan jalur vektor bekerja dengan benar.
+// Contoh ini menunjukkan bahwa memuat dan menyimpan gambar PSD dengan lapisan bentuk dan jalur vektor bekerja dengan benar.
 string sourcePath = "vectorShapes.psd";
 string outputFilePath = "output_vectorShapes.psd";
 using (PsdImage image = (PsdImage)Image.Load(sourcePath))
@@ -162,9 +163,9 @@ void AssertAreEqual(object expected, object actual, string message = null)
 }
 ```
 
-### Lihat juga
+### Lihat Juga
 
-* ruang nama [Aspose.PSD.FileFormats.Core.VectorPaths](../../aspose.psd.fileformats.core.vectorpaths/)
-* perakitan [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../)
 
 

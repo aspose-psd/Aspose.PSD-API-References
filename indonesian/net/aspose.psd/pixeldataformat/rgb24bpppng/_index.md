@@ -1,27 +1,28 @@
 ---
-title: PixelDataFormat.Rgb24BppPng
-second_title: Aspose.PSD untuk Referensi .NET API
-description: PixelDataFormat Properti. MendapatkanPixelDataFormat didefinisikan untuk 24 bit per piksel dengan 8 bit untuk masingmasing alfa merah hijau dan biru alfa tidak ditentukan.
+title: "PixelDataFormat.Rgb24BppPng"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "PixelDataFormat property. Mendapatkan PixelDataFormat yang didefinisikan untuk 24 bit per piksel dengan 8 bit untuk masing‑masing alfa, merah, hijau, dan biru; alfa tidak didefinisikan."
 type: docs
 weight: 80
 url: /id/net/aspose.psd/pixeldataformat/rgb24bpppng/
 ---
+{{< psd/tize >}}
 ## PixelDataFormat.Rgb24BppPng property
 
-Mendapatkan[`PixelDataFormat`](../) didefinisikan untuk 24 bit per piksel dengan 8 bit untuk masing-masing alfa, merah, hijau dan biru, alfa tidak ditentukan.
+Mendapatkan [`PixelDataFormat`](../) yang didefinisikan untuk 24 bit per piksel dengan 8 bit untuk masing‑masing alfa, merah, hijau, dan biru; alfa tidak didefinisikan.
 
 ```csharp
 public static PixelDataFormat Rgb24BppPng { get; }
 ```
 
-### Nilai properti
+### Property Value
 
-Itu[`PixelDataFormat`](../) didefinisikan untuk 24 bit per piksel dengan 8 bit untuk masing-masing alfa, merah, hijau dan biru, alfa tidak ditentukan.
+[`PixelDataFormat`](../) yang didefinisikan untuk 24 bit per piksel dengan 8 bit untuk masing‑masing alfa, merah, hijau, dan biru; alfa tidak didefinisikan.
 
-### Lihat juga
+### Lihat Juga
 
 * class [PixelDataFormat](../)
-* ruang nama [Aspose.PSD](../../pixeldataformat/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

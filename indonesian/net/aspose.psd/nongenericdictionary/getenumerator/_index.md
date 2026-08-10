@@ -1,11 +1,12 @@
 ---
-title: NonGenericDictionary.GetEnumerator
-second_title: Aspose.PSD untuk Referensi .NET API
-description: NonGenericDictionary metode. Mendapatkan enumerator.
+title: "NonGenericDictionary.GetEnumerator"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode NonGenericDictionary. Mengambil enumerator"
 type: docs
 weight: 140
 url: /id/net/aspose.psd/nongenericdictionary/getenumerator/
 ---
+{{< psd/tize >}}
 ## NonGenericDictionary.GetEnumerator method
 
 Mendapatkan enumerator.
@@ -14,14 +15,14 @@ Mendapatkan enumerator.
 public IDictionaryEnumerator GetEnumerator()
 ```
 
-### Nilai Pengembalian
+### Nilai Kembalian
 
-Pencacah kamus
+Enumerator kamus
 
-### Lihat juga
+### Lihat Juga
 
 * class [NonGenericDictionary](../)
-* ruang nama [Aspose.PSD](../../nongenericdictionary/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

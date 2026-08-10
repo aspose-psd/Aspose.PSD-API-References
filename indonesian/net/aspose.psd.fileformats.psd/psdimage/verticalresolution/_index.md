@@ -1,20 +1,21 @@
 ---
-title: PsdImage.VerticalResolution
-second_title: Aspose.PSD untuk Referensi .NET API
-description: PsdImage Properti. Mendapat atau menyetel resolusi vertikal dalam piksel per inci dari iniPsdImage .
+title: "PsdImage.VerticalResolution"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti PsdImage. Mendapatkan atau mengatur resolusi vertikal dalam piksel per inci untuk PsdImage ini"
 type: docs
-weight: 260
+weight: 270
 url: /id/net/aspose.psd.fileformats.psd/psdimage/verticalresolution/
 ---
+{{< psd/tize >}}
 ## PsdImage.VerticalResolution property
 
-Mendapat atau menyetel resolusi vertikal, dalam piksel per inci, dari ini[`PsdImage`](../) .
+Mendapatkan atau mengatur resolusi vertikal, dalam piksel per inci, dari [`PsdImage`](../) ini.
 
 ```csharp
 public override double VerticalResolution { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
 Resolusi vertikal.
 
@@ -22,16 +23,16 @@ Resolusi vertikal.
 
 | pengecualian | kondisi |
 | --- | --- |
-| [PsdImageException](../../../aspose.psd.coreexceptions.imageformats/psdimageexception/) | Sumber daya ResolutionInfo tidak ditemukan dan tidak dapat menyetel resolusi yang tepat |
+| [PsdImageException](../../../aspose.psd.coreexceptions.imageformats/psdimageexception/) | Sumber daya ResolutionInfo tidak ditemukan dan tidak dapat mengatur resolusi yang tepat |
 
-### Perkataan
+## Catatan
 
-Nilai default untuk PSD adalah 72, jadi jika[`ResolutionInfoResource`](../../../aspose.psd.fileformats.psd.resources/resolutioninforesource/) tidak ditemukan, nilai ini dikembalikan.
+Nilai default untuk PSD adalah 72, jadi jika [`ResolutionInfoResource`](../../../aspose.psd.fileformats.psd.resources/resolutioninforesource/) tidak ditemukan, nilai ini akan dikembalikan.
 
-### Lihat juga
+### Lihat Juga
 
 * class [PsdImage](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

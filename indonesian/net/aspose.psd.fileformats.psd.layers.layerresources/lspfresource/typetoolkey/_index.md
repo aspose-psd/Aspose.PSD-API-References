@@ -1,23 +1,24 @@
 ---
-title: LspfResource.TypeToolKey
-second_title: Aspose.PSD untuk Referensi .NET API
-description: LspfResource bidang. Kunci info alat jenis 1819504742
+title: "LspfResource.TypeToolKey"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "LspfResource field. Kunci info alat tipe 1819504742"
 type: docs
-weight: 110
+weight: 80
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources/lspfresource/typetoolkey/
 ---
+{{< psd/tize >}}
 ## LspfResource.TypeToolKey field
 
-Kunci info alat jenis 1819504742
+Kunci info alat tipe 1819504742
 
 ```csharp
 public const int TypeToolKey;
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [LspfResource](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../lspfresource/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

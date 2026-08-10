@@ -1,46 +1,47 @@
 ---
-title: PieShape.PieShape
-second_title: Aspose.PSD untuk Referensi .NET API
-description: PieShape konstruktor. Menginisialisasi instance baru dariPieShape kelas.
+title: "PieShape.PieShape"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Konstruktor PieShape. Menginisialisasi instance baru dari kelas PieShape"
 type: docs
 weight: 10
 url: /id/net/aspose.psd.shapes/pieshape/pieshape/
 ---
+{{< psd/tize >}}
 ## PieShape() {#constructor}
 
-Menginisialisasi instance baru dari[`PieShape`](../) kelas.
+Menginisialisasi instance baru dari kelas [`PieShape`](../).
 
 ```csharp
 public PieShape()
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [PieShape](../)
-* ruang nama [Aspose.PSD.Shapes](../../pieshape/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## PieShape(RectangleF, float, float) {#constructor_1}
 
-Menginisialisasi instance baru dari[`PieShape`](../) kelas.
+Menginisialisasi instance baru dari kelas [`PieShape`](../).
 
 ```csharp
 public PieShape(RectangleF rectangle, float startAngle, float sweepAngle)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| rectangle | RectangleF | Persegi panjang. |
+| persegi panjang | RectangleF | Persegi panjang. |
 | startAngle | Single | Sudut awal. |
 | sweepAngle | Single | Sudut sapuan. |
 
-### Lihat juga
+### Lihat Juga
 
 * struct [RectangleF](../../../aspose.psd/rectanglef/)
 * class [PieShape](../)
-* ruang nama [Aspose.PSD.Shapes](../../pieshape/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 

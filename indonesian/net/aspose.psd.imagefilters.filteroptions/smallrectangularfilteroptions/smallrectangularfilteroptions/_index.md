@@ -1,11 +1,12 @@
 ---
-title: SmallRectangularFilterOptions.SmallRectangularFilterOptions
-second_title: Aspose.PSD untuk Referensi .NET API
-description: SmallRectangularFilterOptions konstruktor. Konstruktor default.
+title: "SmallRectangularFilterOptions.SmallRectangularFilterOptions"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "SmallRectangularFilterOptions konstruktor. Konstruktor default"
 type: docs
 weight: 10
 url: /id/net/aspose.psd.imagefilters.filteroptions/smallrectangularfilteroptions/smallrectangularfilteroptions/
 ---
+{{< psd/tize >}}
 ## SmallRectangularFilterOptions constructor
 
 Konstruktor default.
@@ -14,10 +15,10 @@ Konstruktor default.
 public SmallRectangularFilterOptions()
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [SmallRectangularFilterOptions](../)
-* ruang nama [Aspose.PSD.ImageFilters.FilterOptions](../../smallrectangularfilteroptions/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageFilters.FilterOptions](../../../aspose.psd.imagefilters.filteroptions/)
+* assembly [Aspose.PSD](../../../)
 
 

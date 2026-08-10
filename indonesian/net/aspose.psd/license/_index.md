@@ -1,11 +1,12 @@
 ---
-title: Class License
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Aspose.PSD.License kelas. Menyediakan metode untuk melisensikan komponen.
+title: "Kelas Aspose.PSD.License. Menyediakan metode untuk melisensikan komponen"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Menginisialisasi instance baru dari kelas ini."
 type: docs
-weight: 5050
+weight: 5540
 url: /id/net/aspose.psd/license/
 ---
+{{< psd/tize >}}
 ## License class
 
 Menyediakan metode untuk melisensikan komponen.
@@ -16,20 +17,20 @@ public class License
 
 ## Konstruktor
 
-| Nama | Keterangan |
+| Nama | Deskripsi |
 | --- | --- |
-| [License](license/)() | Menginisialisasi instance baru dari kelas ini. |
+| [License](license/)() | Melisensikan komponen. |
 
 ## Metode
 
-| Nama | Keterangan |
+| Nama | Deskripsi |
 | --- | --- |
-| [SetLicense](../../aspose.psd/license/setlicense/#setlicense)(Stream) | Lisensi komponen. |
-| [SetLicense](../../aspose.psd/license/setlicense/#setlicense_1)(string) | Lisensi komponen. |
+| [SetLicense](../../aspose.psd/license/setlicense/#setlicense)(Stream) | Dalam contoh ini, akan dilakukan upaya untuk menemukan file lisensi bernama MyLicense.lic di folder yang berisi komponen, di folder yang berisi assembly pemanggil, di folder assembly entri, dan kemudian di sumber daya tersemat dari assembly pemanggil. |
+| [SetLicense](../../aspose.psd/license/setlicense/#setlicense_1)(string) | Dalam contoh ini, akan dilakukan upaya untuk menemukan file lisensi bernama MyLicense.lic di folder yang berisi komponen, di folder yang berisi assembly pemanggil, di folder assembly entri, dan kemudian di sumber daya tersemat dari assembly pemanggil. |
 
-### Contoh
+## Contoh
 
-Dalam contoh ini, upaya akan dilakukan untuk menemukan file lisensi bernama MyLicense.lic di folder yang berisi komponen, di folder yang berisi rakitan pemanggil, di folder rakitan entri lalu di sumber daya tersemat dari rakitan pemanggil.
+Dalam contoh ini, upaya akan dilakukan untuk menemukan file lisensi bernama MyLicense.lic di folder yang berisi komponen, di folder yang berisi assembly pemanggil, di folder assembly entri, dan kemudian di sumber daya tertanam dari assembly pemanggil.
 
 ```csharp
 [C#]
@@ -44,9 +45,9 @@ Dim license As license = New license
 License.SetLicense("MyLicense.lic")
 ```
 
-### Lihat juga
+### Lihat Juga
 
-* ruang nama [Aspose.PSD](../../aspose.psd/)
-* perakitan [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: Enum LayerSectionSubtype
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.LayerSectionSubtype enum. Subtipe bagian
+title: "Enum LayerSectionSubtype"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Enum Aspose.PSD.FileFormats.Psd.Layers.LayerResources.LayerSectionSubtype. Subtipe bagian"
 type: docs
-weight: 2600
+weight: 2910
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources/layersectionsubtype/
 ---
+{{< psd/tize >}}
 ## LayerSectionSubtype enumeration
 
 Subtipe bagian
@@ -16,15 +17,15 @@ public enum LayerSectionSubtype
 
 ### Nilai
 
-| Nama | Nilai | Keterangan |
+| Nama | Nilai | Deskripsi |
 | --- | --- | --- |
-| NotUsed | `-1` | Tidak terpakai |
+| NotUsed | `-1` | Tidak digunakan |
 | Normal | `0` | Normal |
 | SceneGroup | `1` | Grup adegan |
 
-### Lihat juga
+### Lihat Juga
 
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
-* perakitan [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../)
 
 

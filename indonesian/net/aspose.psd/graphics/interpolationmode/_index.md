@@ -1,28 +1,29 @@
 ---
-title: Graphics.InterpolationMode
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Graphics Properti. Mendapat atau menyetel mode interpolasi.
+title: "Graphics.InterpolationMode"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti Graphics. Mendapatkan atau mengatur mode interpolasi"
 type: docs
 weight: 70
 url: /id/net/aspose.psd/graphics/interpolationmode/
 ---
+{{< psd/tize >}}
 ## Graphics.InterpolationMode property
 
-Mendapat atau menyetel mode interpolasi.
+Mengambil atau mengatur mode interpolasi.
 
 ```csharp
 public InterpolationMode InterpolationMode { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
-Modus interpolasi.
+Mode interpolasi.
 
-### Lihat juga
+### Lihat Juga
 
 * enum [InterpolationMode](../../interpolationmode/)
 * class [Graphics](../)
-* ruang nama [Aspose.PSD](../../graphics/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

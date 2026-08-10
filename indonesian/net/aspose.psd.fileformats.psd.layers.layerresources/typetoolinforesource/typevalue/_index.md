@@ -1,27 +1,28 @@
 ---
-title: TypeToolInfoResource.TypeValue
-second_title: Aspose.PSD untuk Referensi .NET API
-description: TypeToolInfoResource Properti. Mendapat atau menetapkan nilai tipe.
+title: "TypeToolInfoResource.TypeValue"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti TypeToolInfoResource. Mendapatkan atau mengatur nilai tipe"
 type: docs
-weight: 240
+weight: 210
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources/typetoolinforesource/typevalue/
 ---
+{{< psd/tize >}}
 ## TypeToolInfoResource.TypeValue property
 
-Mendapat atau menetapkan nilai tipe.
+Mendapatkan atau mengatur nilai tipe.
 
 ```csharp
 public short TypeValue { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
-Nilai jenis.
+Nilai tipe.
 
-### Lihat juga
+### Lihat Juga
 
 * class [TypeToolInfoResource](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../typetoolinforesource/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

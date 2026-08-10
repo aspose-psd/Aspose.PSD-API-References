@@ -1,11 +1,12 @@
 ---
-title: VectorPathRecordFactory.VectorPathRecordFactory
-second_title: Aspose.PSD untuk Referensi .NET API
-description: VectorPathRecordFactory konstruktor. Konstruktor default.
+title: "VectorPathRecordFactory.VectorPathRecordFactory"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Konstruktor VectorPathRecordFactory. Konstruktor bawaan"
 type: docs
 weight: 10
 url: /id/net/aspose.psd.fileformats.core.vectorpaths/vectorpathrecordfactory/vectorpathrecordfactory/
 ---
+{{< psd/tize >}}
 ## VectorPathRecordFactory constructor
 
 Konstruktor default.
@@ -14,10 +15,10 @@ Konstruktor default.
 public VectorPathRecordFactory()
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [VectorPathRecordFactory](../)
-* ruang nama [Aspose.PSD.FileFormats.Core.VectorPaths](../../vectorpathrecordfactory/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../vectorpathrecordfactory/)
+* assembly [Aspose.PSD](../../../)
 
 

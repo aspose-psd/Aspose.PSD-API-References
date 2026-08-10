@@ -1,11 +1,12 @@
 ---
-title: LayerGroupInformationResource.LayerGroupInformationResource
-second_title: Aspose.PSD untuk Referensi .NET API
-description: LayerGroupInformationResource konstruktor. Konstruktor default.
+title: "LayerGroupInformationResource.LayerGroupInformationResource"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Konstruktor LayerGroupInformationResource. Konstruktor default"
 type: docs
 weight: 10
 url: /id/net/aspose.psd.fileformats.psd.resources/layergroupinformationresource/layergroupinformationresource/
 ---
+{{< psd/tize >}}
 ## LayerGroupInformationResource constructor
 
 Konstruktor default.
@@ -14,10 +15,10 @@ Konstruktor default.
 public LayerGroupInformationResource()
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [LayerGroupInformationResource](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Resources](../../layergroupinformationresource/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

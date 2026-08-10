@@ -1,11 +1,12 @@
 ---
-title: Shape.Segments
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Shape Properti. Mendapatkan segmen bentuk.
+title: "Shape.Segments"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti Shape. Mendapatkan segmen bentuk"
 type: docs
 weight: 30
 url: /id/net/aspose.psd/shape/segments/
 ---
+{{< psd/tize >}}
 ## Shape.Segments property
 
 Mendapatkan segmen bentuk.
@@ -14,15 +15,15 @@ Mendapatkan segmen bentuk.
 public abstract ShapeSegment[] Segments { get; }
 ```
 
-### Nilai properti
+### Property Value
 
 Segmen bentuk.
 
-### Lihat juga
+### Lihat Juga
 
 * class [ShapeSegment](../../shapesegment/)
 * class [Shape](../)
-* ruang nama [Aspose.PSD](../../shape/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: RgbMixerChannel.Blue
-second_title: Aspose.PSD untuk Referensi .NET API
-description: RgbMixerChannel Properti. Mendapat atau menyetel biru.
+title: "RgbMixerChannel.Blue"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "properti RgbMixerChannel. Mendapatkan atau mengatur biru"
 type: docs
 weight: 10
 url: /id/net/aspose.psd.fileformats.psd.layers.adjustmentlayers/rgbmixerchannel/blue/
 ---
+{{< psd/tize >}}
 ## RgbMixerChannel.Blue property
 
-Mendapat atau menyetel biru.
+Mendapatkan atau mengatur biru.
 
 ```csharp
 public short Blue { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
 Biru.
 
-### Lihat juga
+### Lihat Juga
 
 * class [RgbMixerChannel](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../rgbmixerchannel/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/)
+* assembly [Aspose.PSD](../../../)
 
 

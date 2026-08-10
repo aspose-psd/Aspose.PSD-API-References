@@ -1,11 +1,12 @@
 ---
-title: Image.GetFileFormat
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Image metode. Mendapatkan format file.
+title: "Image.GetFileFormat"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode Image. Mendapatkan format file"
 type: docs
-weight: 260
+weight: 270
 url: /id/net/aspose.psd/image/getfileformat/
 ---
+{{< psd/tize >}}
 ## GetFileFormat(string) {#getfileformat_1}
 
 Mendapatkan format file.
@@ -14,24 +15,24 @@ Mendapatkan format file.
 public static FileFormat GetFileFormat(string filePath)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
 | filePath | String | Jalur file. |
 
-### Nilai Pengembalian
+### Nilai Kembalian
 
 Format file yang ditentukan.
 
-### Perkataan
+## Catatan
 
-Format file yang ditentukan tidak berarti bahwa gambar yang ditentukan dapat dimuat. Gunakan salah satu kelebihan metode CanLoad untuk menentukan apakah file dapat dimuat.
+Format file yang ditentukan tidak berarti bahwa gambar yang disebutkan dapat dimuat. Gunakan salah satu overload metode CanLoad untuk menentukan apakah file dapat dimuat.
 
-### Lihat juga
+### Lihat Juga
 
 * enum [FileFormat](../../fileformat/)
 * class [Image](../)
-* ruang nama [Aspose.PSD](../../image/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
@@ -43,23 +44,23 @@ Mendapatkan format file.
 public static FileFormat GetFileFormat(Stream stream)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| stream | Stream | Arus. |
+| stream | Stream | Aliran. |
 
-### Nilai Pengembalian
+### Nilai Kembalian
 
 Format file yang ditentukan.
 
-### Perkataan
+## Catatan
 
-Format file yang ditentukan tidak berarti bahwa gambar yang ditentukan dapat dimuat. Gunakan salah satu kelebihan metode CanLoad untuk menentukan apakah streaming dapat dimuat.
+Format file yang ditentukan tidak berarti bahwa gambar yang disebutkan dapat dimuat. Gunakan salah satu overload metode CanLoad untuk menentukan apakah stream dapat dimuat.
 
-### Lihat juga
+### Lihat Juga
 
 * enum [FileFormat](../../fileformat/)
 * class [Image](../)
-* ruang nama [Aspose.PSD](../../image/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

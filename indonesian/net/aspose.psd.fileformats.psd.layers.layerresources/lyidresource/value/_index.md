@@ -1,27 +1,28 @@
 ---
-title: LyidResource.Value
-second_title: Aspose.PSD untuk Referensi .NET API
-description: LyidResource Properti. Mendapatkan nilainya.
+title: "LyidResource.Value"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "LyidResource property. Mendapatkan nilai"
 type: docs
-weight: 60
+weight: 30
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources/lyidresource/value/
 ---
+{{< psd/tize >}}
 ## LyidResource.Value property
 
-Mendapatkan nilainya.
+Mendapatkan nilai.
 
 ```csharp
 public int Value { get; }
 ```
 
-### Nilai properti
+### Property Value
 
-Nilainya.
+Nilai.
 
-### Lihat juga
+### Lihat Juga
 
 * class [LyidResource](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../lyidresource/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

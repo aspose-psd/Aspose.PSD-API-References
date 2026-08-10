@@ -1,49 +1,50 @@
 ---
-title: Region.Translate
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Region metode. Mengimbangi koordinat iniRegiondengan jumlah yang ditentukan.
+title: "Region.Translate"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode Region. Menggeser koordinat Region ini sebesar jumlah yang ditentukan"
 type: docs
-weight: 130
+weight: 140
 url: /id/net/aspose.psd/region/translate/
 ---
+{{< psd/tize >}}
 ## Translate(float, float) {#translate_1}
 
-Mengimbangi koordinat ini[`Region`](../)dengan jumlah yang ditentukan.
+Menggeser koordinat [`Region`](../) ini sebesar jumlah yang ditentukan.
 
 ```csharp
 public void Translate(float dx, float dy)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| dx | Single | Jumlah untuk mengimbangi ini[`Region`](../) secara horizontal. |
-| dy | Single | Jumlah untuk mengimbangi ini[`Region`](../) Tegak lurus. |
+| dx | Single | Jumlah untuk menggeser [`Region`](../) ini secara horizontal. |
+| dy | Single | Jumlah untuk menggeser [`Region`](../) ini secara vertikal. |
 
-### Lihat juga
+### Lihat Juga
 
 * class [Region](../)
-* ruang nama [Aspose.PSD](../../region/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Translate(int, int) {#translate}
 
-Mengimbangi koordinat ini[`Region`](../)dengan jumlah yang ditentukan.
+Menggeser koordinat [`Region`](../) ini sebesar jumlah yang ditentukan.
 
 ```csharp
 public void Translate(int dx, int dy)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| dx | Int32 | Jumlah untuk mengimbangi ini[`Region`](../) secara horizontal. |
-| dy | Int32 | Jumlah untuk mengimbangi ini[`Region`](../) Tegak lurus. |
+| dx | Int32 | Jumlah untuk menggeser [`Region`](../) ini secara horizontal. |
+| dy | Int32 | Jumlah untuk menggeser [`Region`](../) ini secara vertikal. |
 
-### Lihat juga
+### Lihat Juga
 
 * class [Region](../)
-* ruang nama [Aspose.PSD](../../region/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,28 +1,29 @@
 ---
-title: PdfCoreOptions.PdfCompliance
-second_title: Aspose.PSD untuk Referensi .NET API
-description: PdfCoreOptions Properti. Mendapat atau menyetel kepatuhan PDF.
+title: "PdfCoreOptions.PdfCompliance"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti PdfCoreOptions. Mendapatkan atau mengatur kepatuhan PDF"
 type: docs
 weight: 60
 url: /id/net/aspose.psd.fileformats.pdf/pdfcoreoptions/pdfcompliance/
 ---
+{{< psd/tize >}}
 ## PdfCoreOptions.PdfCompliance property
 
-Mendapat atau menyetel kepatuhan PDF.
+Mendapatkan atau mengatur kepatuhan PDF.
 
 ```csharp
 public PdfComplianceVersion PdfCompliance { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
 Kepatuhan PDF.
 
-### Lihat juga
+### Lihat Juga
 
 * enum [PdfComplianceVersion](../../../aspose.psd/pdfcomplianceversion/)
 * class [PdfCoreOptions](../)
-* ruang nama [Aspose.PSD.FileFormats.Pdf](../../pdfcoreoptions/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Pdf](../../../aspose.psd.fileformats.pdf/)
+* assembly [Aspose.PSD](../../../)
 
 

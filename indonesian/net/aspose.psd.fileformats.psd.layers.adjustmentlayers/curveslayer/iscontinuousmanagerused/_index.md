@@ -1,27 +1,28 @@
 ---
-title: CurvesLayer.IsContinuousManagerUsed
-second_title: Aspose.PSD untuk Referensi .NET API
-description: CurvesLayer Properti. Mendapat atau menetapkan nilai yang menunjukkan apakah instance ini digunakan oleh pengelola berkelanjutan.
+title: "CurvesLayer.IsContinuousManagerUsed"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "properti CurvesLayer. Mendapatkan atau mengatur nilai yang menunjukkan apakah instance ini menggunakan manajer kontinu"
 type: docs
 weight: 10
 url: /id/net/aspose.psd.fileformats.psd.layers.adjustmentlayers/curveslayer/iscontinuousmanagerused/
 ---
+{{< psd/tize >}}
 ## CurvesLayer.IsContinuousManagerUsed property
 
-Mendapat atau menetapkan nilai yang menunjukkan apakah instance ini digunakan oleh pengelola berkelanjutan.
+Mendapatkan atau mengatur nilai yang menunjukkan apakah instance ini menggunakan manajer kontinu.
 
 ```csharp
 public bool IsContinuousManagerUsed { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
-`BENAR` jika instance ini adalah manajer berkelanjutan yang digunakan; jika tidak,`PALSU` .
+`true` jika instance ini menggunakan manajer kontinu; lainnya, `false`.
 
-### Lihat juga
+### Lihat Juga
 
 * class [CurvesLayer](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../curveslayer/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/)
+* assembly [Aspose.PSD](../../../)
 
 

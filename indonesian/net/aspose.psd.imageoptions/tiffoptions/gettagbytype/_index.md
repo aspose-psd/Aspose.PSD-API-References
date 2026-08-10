@@ -1,33 +1,34 @@
 ---
-title: TiffOptions.GetTagByType
-second_title: Aspose.PSD untuk Referensi .NET API
-description: TiffOptions metode. Mendapat instance tag berdasarkan jenis.
+title: "TiffOptions.GetTagByType"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode TiffOptions. Mendapatkan instance tag berdasarkan tipe"
 type: docs
-weight: 720
+weight: 730
 url: /id/net/aspose.psd.imageoptions/tiffoptions/gettagbytype/
 ---
+{{< psd/tize >}}
 ## TiffOptions.GetTagByType method
 
-Mendapat instance tag berdasarkan jenis.
+Mendapatkan instance tag berdasarkan tipe.
 
 ```csharp
 public TiffDataType GetTagByType(TiffTags tagKey)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| tagKey | TiffTags | Kunci tanda. |
+| tagKey | TiffTags | Kunci tag. |
 
-### Nilai Pengembalian
+### Nilai Kembalian
 
-Instance dari tag jika ada atau null sebaliknya.
+Instance tag jika ada atau null jika tidak.
 
-### Lihat juga
+### Lihat Juga
 
 * class [TiffDataType](../../../aspose.psd.fileformats.tiff/tiffdatatype/)
 * enum [TiffTags](../../../aspose.psd.fileformats.tiff.enums/tifftags/)
 * class [TiffOptions](../)
-* ruang nama [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: Class AsyncTaskException
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Aspose.PSD.AsyncTask.AsyncTaskException kelas. Pengecualian untuk tugas asinkron.
+title: "Kelas AsyncTaskException"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Kelas Aspose.PSD.AsyncTask.AsyncTaskException. Pengecualian untuk tugas asinkron"
 type: docs
 weight: 40
 url: /id/net/aspose.psd.asynctask/asynctaskexception/
 ---
+{{< psd/tize >}}
 ## AsyncTaskException class
 
 Pengecualian untuk tugas asinkron.
@@ -16,13 +17,13 @@ public class AsyncTaskException : Exception
 
 ## Konstruktor
 
-| Nama | Keterangan |
+| Nama | Deskripsi |
 | --- | --- |
-| [AsyncTaskException](asynctaskexception/)(string) | Menginisialisasi instance baru dari`AsyncTaskException` kelas. |
+| [AsyncTaskException](asynctaskexception/)(string) | Menginisialisasi sebuah instance baru dari kelas `AsyncTaskException`. |
 
-### Lihat juga
+### Lihat Juga
 
-* ruang nama [Aspose.PSD.AsyncTask](../../aspose.psd.asynctask/)
-* perakitan [Aspose.PSD](../../)
+* namespace [Aspose.PSD.AsyncTask](../../aspose.psd.asynctask/)
+* assembly [Aspose.PSD](../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: Enum MatrixOrder
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Aspose.PSD.MatrixOrder enum. Menentukan urutan operasi transformasi matriks.
+title: "Enum MatrixOrder"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Enum Aspose.PSD.MatrixOrder. Menentukan urutan untuk operasi transformasi matriks."
 type: docs
-weight: 5100
+weight: 5590
 url: /id/net/aspose.psd/matrixorder/
 ---
+{{< psd/tize >}}
 ## MatrixOrder enumeration
 
-Menentukan urutan operasi transformasi matriks.
+Menentukan urutan untuk operasi transformasi matriks.
 
 ```csharp
 public enum MatrixOrder
@@ -16,14 +17,14 @@ public enum MatrixOrder
 
 ### Nilai
 
-| Nama | Nilai | Keterangan |
+| Nama | Nilai | Deskripsi |
 | --- | --- | --- |
 | Prepend | `0` | Operasi baru diterapkan sebelum operasi lama. |
 | Append | `1` | Operasi baru diterapkan setelah operasi lama. |
 
-### Lihat juga
+### Lihat Juga
 
-* ruang nama [Aspose.PSD](../../aspose.psd/)
-* perakitan [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

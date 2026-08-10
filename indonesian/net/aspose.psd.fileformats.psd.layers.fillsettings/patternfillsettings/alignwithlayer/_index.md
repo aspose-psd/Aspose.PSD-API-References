@@ -1,26 +1,27 @@
 ---
-title: PatternFillSettings.AlignWithLayer
-second_title: Aspose.PSD untuk Referensi .NET API
-description: PatternFillSettings Properti. Mendapat atau menetapkan nilai yang menunjukkan apakah tautan dengan lapisan.
+title: "PatternFillSettings.AlignWithLayer"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "PatternFillSettings properti. Mendapatkan atau mengatur nilai yang menunjukkan apakah ada tautan dengan lapisan"
 type: docs
-weight: 10
+weight: 20
 url: /id/net/aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings/alignwithlayer/
 ---
+{{< psd/tize >}}
 ## PatternFillSettings.AlignWithLayer property
 
-Mendapat atau menetapkan nilai yang menunjukkan apakah [tautan dengan lapisan].
+Mendapatkan atau mengatur nilai yang menunjukkan apakah [link with layer].
 
 ```csharp
 public bool AlignWithLayer { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
-`BENAR` if [tautan dengan lapisan]; jika tidak,`PALSU` .
+`true` jika [tautan dengan lapisan]; sebaliknya, `false`.
 
-### Contoh
+## Contoh
 
-Kode berikut menunjukkan dukungan dari pengeditan Fill Layer Pattern.
+Kode berikut menunjukkan dukungan pengeditan Fill Layer Pattern.
 
 ```csharp
 [C#]
@@ -75,10 +76,10 @@ using (im)
 }
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [PatternFillSettings](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../patternfillsettings/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../../)
 
 

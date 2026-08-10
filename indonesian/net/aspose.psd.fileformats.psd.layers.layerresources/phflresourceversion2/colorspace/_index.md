@@ -1,11 +1,12 @@
 ---
-title: PhflResourceVersion2.ColorSpace
-second_title: Aspose.PSD untuk Referensi .NET API
-description: PhflResourceVersion2 Properti. Mendapatkan ruang warna.
+title: "PhflResourceVersion2.ColorSpace"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti PhflResourceVersion2. Mengambil ruang warna."
 type: docs
 weight: 20
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources/phflresourceversion2/colorspace/
 ---
+{{< psd/tize >}}
 ## PhflResourceVersion2.ColorSpace property
 
 Mendapatkan ruang warna.
@@ -14,14 +15,14 @@ Mendapatkan ruang warna.
 public short ColorSpace { get; }
 ```
 
-### Nilai properti
+### Property Value
 
 Ruang warna.
 
-### Lihat juga
+### Lihat Juga
 
 * class [PhflResourceVersion2](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../phflresourceversion2/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

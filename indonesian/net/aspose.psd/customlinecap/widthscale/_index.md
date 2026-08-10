@@ -1,27 +1,28 @@
 ---
-title: CustomLineCap.WidthScale
-second_title: Aspose.PSD untuk Referensi .NET API
-description: CustomLineCap Properti. Mendapat atau menetapkan jumlah yang digunakan untuk menskalakan iniCustomLineCap Kelas objek sehubungan dengan lebarPen objek.
+title: "CustomLineCap.WidthScale"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti CustomLineCap. Mendapatkan atau mengatur jumlah skala objek CustomLineCap Class ini relatif terhadap lebar objek Pen."
 type: docs
 weight: 70
 url: /id/net/aspose.psd/customlinecap/widthscale/
 ---
+{{< psd/tize >}}
 ## CustomLineCap.WidthScale property
 
-Mendapat atau menetapkan jumlah yang digunakan untuk menskalakan ini[`CustomLineCap`](../) Kelas objek sehubungan dengan lebarPen objek.
+Mendapatkan atau mengatur jumlah skala objek Class [`CustomLineCap`](../) ini relatif terhadap lebar objek Pen.
 
 ```csharp
 public float WidthScale { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
-Jumlah yang digunakan untuk menskalakan tutup.
+Jumlah skala cap.
 
-### Lihat juga
+### Lihat Juga
 
 * class [CustomLineCap](../)
-* ruang nama [Aspose.PSD](../../customlinecap/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

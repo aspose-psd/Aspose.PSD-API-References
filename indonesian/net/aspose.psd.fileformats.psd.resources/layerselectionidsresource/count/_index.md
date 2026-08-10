@@ -1,27 +1,28 @@
 ---
-title: LayerSelectionIdsResource.Count
-second_title: Aspose.PSD untuk Referensi .NET API
-description: LayerSelectionIdsResource Properti. Mendapat atau menyetel hitungan.
+title: "LayerSelectionIdsResource.Count"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti LayerSelectionIdsResource. Mendapatkan atau mengatur jumlah"
 type: docs
 weight: 20
 url: /id/net/aspose.psd.fileformats.psd.resources/layerselectionidsresource/count/
 ---
+{{< psd/tize >}}
 ## LayerSelectionIdsResource.Count property
 
-Mendapat atau menyetel hitungan.
+Mendapatkan atau mengatur jumlah.
 
 ```csharp
 public short Count { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
-Jumlahnya.
+Jumlah.
 
-### Lihat juga
+### Lihat Juga
 
 * class [LayerSelectionIdsResource](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Resources](../../layerselectionidsresource/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

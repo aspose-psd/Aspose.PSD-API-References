@@ -1,29 +1,30 @@
 ---
-title: XmpPackage.SetXmpTypeValue
-second_title: Aspose.PSD untuk Referensi .NET API
-description: XmpPackage metode. Menetapkan nilai tipe XMP.
+title: "XmpPackage.SetXmpTypeValue"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode XmpPackage. Menetapkan nilai tipe XMP"
 type: docs
 weight: 130
 url: /id/net/aspose.psd.xmp/xmppackage/setxmptypevalue/
 ---
+{{< psd/tize >}}
 ## XmpPackage.SetXmpTypeValue method
 
-Menetapkan nilai tipe XMP.
+Mengatur nilai tipe XMP.
 
 ```csharp
 public virtual void SetXmpTypeValue(string key, XmpTypeBase value)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| key | String | Representasi string dari kunci yang diidentifikasi dengan nilai yang ditetapkan. |
-| value | XmpTypeBase | Nilai yang akan ditetapkan. |
+| kunci | String | Representasi string dari kunci yang diidentifikasi dengan nilai yang ditetapkan. |
+| nilai | XmpTypeBase | Nilai yang akan ditetapkan. |
 
-### Lihat juga
+### Lihat Juga
 
 * class [XmpTypeBase](../../../aspose.psd.xmp.types/xmptypebase/)
 * class [XmpPackage](../)
-* ruang nama [Aspose.PSD.Xmp](../../xmppackage/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

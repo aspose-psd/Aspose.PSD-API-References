@@ -1,11 +1,12 @@
 ---
-title: ColorMap.ColorMap
-second_title: Aspose.PSD untuk Referensi .NET API
-description: ColorMap konstruktor. Konstruktor default.
+title: "ColorMap.ColorMap"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "ColorMap konstruktor. Konstruktor default"
 type: docs
 weight: 10
 url: /id/net/aspose.psd/colormap/colormap/
 ---
+{{< psd/tize >}}
 ## ColorMap constructor
 
 Konstruktor default.
@@ -14,10 +15,10 @@ Konstruktor default.
 public ColorMap()
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [ColorMap](../)
-* ruang nama [Aspose.PSD](../../colormap/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

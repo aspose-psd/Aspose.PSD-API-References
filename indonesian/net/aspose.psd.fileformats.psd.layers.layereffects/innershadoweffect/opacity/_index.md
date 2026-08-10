@@ -1,27 +1,28 @@
 ---
-title: InnerShadowEffect.Opacity
-second_title: Aspose.PSD untuk Referensi .NET API
-description: InnerShadowEffect Properti. Mendapat atau mengatur opacity.
+title: "InnerShadowEffect.Opacity"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "InnerShadowEffect property. Mendapatkan atau mengatur opasitas"
 type: docs
 weight: 80
 url: /id/net/aspose.psd.fileformats.psd.layers.layereffects/innershadoweffect/opacity/
 ---
+{{< psd/tize >}}
 ## InnerShadowEffect.Opacity property
 
-Mendapat atau mengatur opacity.
+Mendapatkan atau mengatur opasitas.
 
 ```csharp
 public byte Opacity { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
 Opasitas.
 
-### Lihat juga
+### Lihat Juga
 
 * class [InnerShadowEffect](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../innershadoweffect/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../../)
 
 

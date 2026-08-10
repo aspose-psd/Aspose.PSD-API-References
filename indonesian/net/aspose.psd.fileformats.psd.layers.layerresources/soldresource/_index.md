@@ -1,14 +1,15 @@
 ---
-title: Class SoLdResource
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.SoLdResource kelas. Menentukan kelas SoLdResource yang berisi informasi tentang lapisan objek cerdas dalam file PSD. Digunakan untuk mendukung lapisan objek cerdas dalam gambar Adobe Photoshop.
+title: "Kelas SoLdResource"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Aspose.PSD.FileFormats.Psd.Layers.LayerResources.SoLdResource class. Mendefinisikan kelas SoLdResource yang berisi informasi tentang lapisan objek pintar dalam file PSD. Digunakan untuk mendukung lapisan objek pintar dalam gambar Adobe Photoshop."
 type: docs
-weight: 3020
+weight: 3370
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources/soldresource/
 ---
+{{< psd/tize >}}
 ## SoLdResource class
 
-Menentukan kelas SoLdResource yang berisi informasi tentang lapisan objek cerdas dalam file PSD. Digunakan untuk mendukung lapisan objek cerdas dalam gambar Adobe® Photoshop®.
+Mendefinisikan kelas SoLdResource yang berisi informasi tentang lapisan objek pintar dalam file PSD. Digunakan untuk mendukung lapisan objek pintar dalam gambar Adobe® Photoshop®.
 
 ```csharp
 public class SoLdResource : SmartObjectResource
@@ -16,79 +17,79 @@ public class SoLdResource : SmartObjectResource
 
 ## Konstruktor
 
-| Nama | Keterangan |
+| Nama | Deskripsi |
 | --- | --- |
-| [SoLdResource](soldresource/#constructor)() | Menginisialisasi instance baru dari`SoLdResource` class. Konstruktor default ini dirancang untuk digunakan olehSoLdResourceLoader . Gunakan[`SmartResourceCreator`](../smartresourcecreator/) untuk membuat kelas SoLdResource. |
-| [SoLdResource](soldresource/#constructor_1)(Guid, bool, bool) | Menginisialisasi instance baru dari`SoLdResource` class. Diperlukan untuk menyetel properti Items atau memanggil InitializeItems() untuk mendapatkan instance yang siap pakai. Konstruktor ini dirancang untuk digunakan oleh[`SmartResourceCreator`](../smartresourcecreator/) dan dalam pengujian unit. Gunakan[`SmartResourceCreator`](../smartresourcecreator/) untuk membuat kelas SoLdResource. |
+| [SoLdResource](soldresource/#constructor)() | Menginisialisasi instance baru dari kelas `SoLdResource`. Konstruktor default ini dirancang untuk digunakan oleh SoLdResourceLoader. Gunakan [`SmartResourceCreator`](../smartresourcecreator/) untuk membuat kelas SoLdResource. |
+| [SoLdResource](soldresource/#constructor_1)(Guid, bool, bool) | Menginisialisasi instance baru dari kelas `SoLdResource`. Perlu mengatur properti Items atau memanggil InitializeItems() untuk mendapatkan instance yang siap. Konstruktor ini dirancang untuk digunakan oleh [`SmartResourceCreator`](../smartresourcecreator/) dan dalam pengujian unit. Gunakan [`SmartResourceCreator`](../smartresourcecreator/) untuk membuat kelas SoLdResource. |
 
 ## Properti
 
-| Nama | Keterangan |
+| Nama | Deskripsi |
 | --- | --- |
-| override [AntiAliasPolicy](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/antialiaspolicy/) { get; set; } | Mendapat atau menyetel kebijakan anti alias dari data lapisan objek pintar di gambar PSD. |
-| [Bottom](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/bottom/) { get; set; } | Mendapat atau menyetel lokasi bawah dari lapisan yang ditempatkan di gambar PSD. |
-| [Bounds](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/bounds/) { get; set; } | Mendapat atau menyetel batas lapisan yang ditempatkan di file PSD. |
-| [Comp](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/comp/) { get; set; } | Mendapat atau menyetel nilai comp dari data lapisan objek pintar di file PSD. [Lapisan comps di Smart Objects](https://helpx.adobe.com/photoshop/using/layer-comps.html) |
-| [CompId](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/compid/) { get; set; } | Mendapat atau menetapkan ID comp yang dipilih saat ini untuk dokumen anak, yang akan menjadi -1 jika tidak ada yang dipilih. Comp adalah komposisi tata letak halaman yang dapat dibuat oleh desainer. Menggunakan komposisi lapisan, Anda dapat membuat, mengelola, dan melihat beberapa versi tata letak dalam satu file Adobe® Photoshop®. Layer comp adalah snapshot dari status panel Layers. Layer comps menyimpan tiga jenis opsi layer but properti ini mendapatkan pengidentifikasi pemilihan Layer Comp untuk layer smart object di file PSD. [Lapisan comps di Smart Objects](https://helpx.adobe.com/photoshop/using/layer-comps.html) |
-| [Crop](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/crop/) { get; set; } | Mendapat atau menyetel potongan data lapisan objek pintar di gambar PSD. |
-| [DurationDenominator](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/durationdenominator/) { get; set; } | Mendapatkan atau menyetel penyebut durasi. |
-| [DurationNumerator](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/durationnumerator/) { get; set; } | Mendapat atau menyetel pembilang durasi. |
-| [FrameCount](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/framecount/) { get; set; } | Mendapat atau menyetel jumlah bingkai dari data lapisan objek pintar di file PSD. |
-| [FrameStepDenominator](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/framestepdenominator/) { get; set; } | Mendapat atau menyetel penyebut langkah bingkai. |
-| [FrameStepNumerator](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/framestepnumerator/) { get; set; } | Mendapat atau menyetel pembilang langkah bingkai. |
-| [Height](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/height/) { get; set; } | Mendapat atau mengatur ketinggian. |
-| [HorizontalMeshPoints](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/horizontalmeshpoints/) { get; set; } | Mendapat atau menyetel titik jaring horizontal dari lapisan yang ditempatkan di file PSD. |
-| [HorizontalMeshPointUnit](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/horizontalmeshpointunit/) { get; set; } | Mendapat atau menetapkan satuan ukuran dari titik jaring horizontal. |
-| [IsCustom](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/iscustom/) { get; set; } | Mendapat atau menetapkan nilai yang menunjukkan apakah gaya warp instance ini adalah custom. Jika true, gaya ini berisi poin mesh. Jika disetel ke false, itu akan menghapus poin mesh. |
-| override [Items](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/items/) { get; set; } | Mendapat atau menyetel item deskriptor dari data lapisan objek pintar di file PSD. |
-| override [Key](../../aspose.psd.fileformats.psd.layers.layerresources/soldresource/key/) { get; } | Mendapat kunci sumber daya lapisan objek pintar SOLd. |
-| [Left](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/left/) { get; set; } | Mendapat atau menyetel lokasi kiri dari lapisan yang ditempatkan di file PSD. |
-| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/length/) { get; } | Mendapatkan panjang sumber daya smart object dalam byte. |
-| [NonAffineTransformMatrix](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/nonaffinetransformmatrix/) { get; set; } | Mendapat atau menyetel matriks transformasi non affine dari data lapisan objek cerdas dalam file PSD. |
-| [OriginalCompId](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/originalcompid/) { get; } | Mendapat ID asli dari Comp yang saat ini dipilih untuk dokumen anak, yang akan menjadi -1 jika tidak ada yang dipilih. Properti ini mendapatkan pengidentifikasi pilihan Comp layer asli untuk layer smart object di file PSD. [Lapisan comps di Smart Objects](https://helpx.adobe.com/photoshop/using/layer-comps.html) |
-| override [PageNumber](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/pagenumber/) { get; set; } | Mendapat atau menyetel nomor halaman data lapisan objek pintar di file PSD. |
-| [Perspective](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/perspective/) { get; set; } | Mendapat atau menyetel nilai perspektif dari lapisan yang ditempatkan di file PSD. |
-| [PerspectiveOther](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/perspectiveother/) { get; set; } | Mendapat atau menyetel nilai perspektif lain dari lapisan yang ditempatkan di file PSD. |
-| [PlacedId](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/placedid/) { get; set; } | Mendapat atau menyetel pengidentifikasi unik dari data lapisan objek pintar ini dalam gambar PSD. |
-| override [PlacedLayerType](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/placedlayertype/) { get; set; } | Mendapat atau menyetel jenis data lapisan objek pintar di file PSD. |
-| override [PsdVersion](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/psdversion/) { get; } | Mendapatkan versi psd minimal yang diperlukan untuk sumber daya smart object. 0 menunjukkan tidak ada batasan. |
-| [Resolution](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/resolution/) { get; set; } | Mendapat atau menyetel resolusi data lapisan objek pintar dalam file PSD. |
-| [ResolutionUnit](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/resolutionunit/) { get; set; } | Mendapat atau menyetel satuan ukuran resolusi dari data lapisan objek pintar dalam file PSD. |
-| [Right](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/right/) { get; set; } | Mendapatkan atau menyetel lokasi yang tepat dari lapisan yang ditempatkan di file PSD. |
-| override [Signature](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/signature/) { get; } | Mendapat tanda tangan sumber daya smart object. |
-| [Top](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/top/) { get; set; } | Mendapat atau menyetel lokasi teratas dari lapisan yang ditempatkan di gambar PSD. |
-| override [TotalPages](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/totalpages/) { get; set; } | Mendapat atau menetapkan jumlah halaman total data lapisan objek pintar dalam file PSD. |
-| override [TransformMatrix](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/transformmatrix/) { get; set; } | Mendapat atau menyetel matriks transformasi dari data lapisan objek pintar dalam file PSD. |
-| override [UniqueId](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/uniqueid/) { get; set; } | Mendapat atau menyetel pengidentifikasi unik global dari data lapisan objek pintar[`SmartObjectResource`](../smartobjectresource/) dalam gambar PSD. |
-| [UOrder](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/uorder/) { get; set; } | Mendapat atau menyetel nilai urutan U dari lapisan yang ditempatkan di file PSD. |
-| [Value](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/value/) { get; set; } | Mendapat atau menyetel nilai warp dari lapisan yang ditempatkan di gambar PSD. |
-| [Version](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/version/) { get; } | Mendapat versi lapisan yang ditempatkan di file PSD, biasanya 3. |
-| [VerticalMeshPoints](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/verticalmeshpoints/) { get; set; } | Mendapat atau menyetel titik jaring horizontal dari lapisan yang ditempatkan di file PSD. |
-| [VerticalMeshPointUnit](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/verticalmeshpointunit/) { get; set; } | Mendapat atau menetapkan satuan ukuran dari titik jaring vertikal. |
-| [VOrder](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/vorder/) { get; set; } | Mendapat atau menyetel nilai urutan V dari lapisan yang ditempatkan di file PSD. |
-| [Width](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/width/) { get; set; } | Mendapat atau mengatur lebar. |
+| override [AntiAliasPolicy](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/antialiaspolicy/) { get; set; } | Mendapatkan atau mengatur kebijakan anti alias dari data lapisan objek pintar dalam gambar PSD. |
+| [Bottom](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/bottom/) { get; set; } | Mendapatkan atau mengatur lokasi bawah lapisan yang ditempatkan dalam gambar PSD. |
+| [Bounds](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/bounds/) { get; set; } | Mendapatkan atau mengatur batas lapisan yang ditempatkan dalam file PSD. |
+| [Comp](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/comp/) { get; set; } | Mendapatkan atau mengatur nilai comp dari data lapisan objek pintar dalam file PSD. [Layer comps in Smart Objects](https://helpx.adobe.com/photoshop/using/layer-comps.html) |
+| [CompId](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/compid/) { get; set; } | Mendapatkan atau mengatur ID dari comp yang saat ini dipilih untuk dokumen anak, yang akan menjadi -1 jika tidak ada yang dipilih. Comp adalah komposisi dari tata letak halaman yang dapat dibuat oleh desainer. Dengan menggunakan layer comps, Anda dapat membuat, mengelola, dan melihat banyak versi tata letak dalam satu file Adobe� Photoshop�. Sebuah layer comp adalah snapshot dari keadaan panel Layers. Layer comps menyimpan tiga jenis opsi lapisan tetapi properti ini mendapatkan identifier pemilihan Layer Comp untuk lapisan objek pintar dalam file PSD. [Layer comps in Smart Objects](https://helpx.adobe.com/photoshop/using/layer-comps.html) |
+| [Crop](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/crop/) { get; set; } | Mendapatkan atau mengatur pemotongan (crop) dari data lapisan objek pintar dalam gambar PSD. |
+| [DurationDenominator](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/durationdenominator/) { get; set; } | Mendapatkan atau mengatur penyebut durasi. |
+| [DurationNumerator](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/durationnumerator/) { get; set; } | Mendapatkan atau mengatur pembilang durasi. |
+| [FrameCount](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/framecount/) { get; set; } | Mendapatkan atau mengatur jumlah frame data lapisan objek pintar dalam file PSD. |
+| [FrameStepDenominator](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/framestepdenominator/) { get; set; } | Mendapatkan atau mengatur penyebut langkah frame. |
+| [FrameStepNumerator](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/framestepnumerator/) { get; set; } | Mendapatkan atau mengatur pembilang langkah frame. |
+| [Height](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/height/) { get; set; } | Mendapatkan atau mengatur tinggi. |
+| [HorizontalMeshPoints](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/horizontalmeshpoints/) { get; set; } | Mendapatkan atau mengatur titik mesh horizontal lapisan yang ditempatkan dalam file PSD. |
+| [HorizontalMeshPointUnit](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/horizontalmeshpointunit/) { get; set; } | Mendapatkan atau mengatur satuan ukuran titik mesh horizontal. |
+| [IsCustom](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/iscustom/) { get; set; } | Mendapatkan atau mengatur nilai yang menunjukkan apakah gaya warp instance ini bersifat khusus. Jika true, berisi titik mesh. Jika diset ke false, menghapus titik mesh. |
+| override [Items](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/items/) { get; set; } | Mendapatkan atau mengatur item deskriptor data lapisan objek pintar dalam file PSD. |
+| [Key](../../aspose.psd.fileformats.psd.layers/layerresource/key/) { get; } | Mendapatkan kunci sumber daya lapisan. |
+| [Left](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/left/) { get; set; } | Mendapatkan atau mengatur lokasi kiri lapisan yang ditempatkan dalam file PSD. |
+| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/length/) { get; } | Mendapatkan panjang sumber daya objek pintar dalam byte. |
+| [NonAffineTransformMatrix](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/nonaffinetransformmatrix/) { get; set; } | Mendapatkan atau mengatur matriks transformasi non-afin data lapisan objek pintar dalam file PSD. |
+| [OriginalCompId](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/originalcompid/) { get; } | Mendapatkan ID asli dari Comp yang saat ini dipilih untuk dokumen anak, yang akan menjadi -1 jika tidak ada yang dipilih. Properti ini mendapatkan pengidentifikasi pilihan Comp lapisan asli untuk lapisan objek pintar dalam file PSD. [Layer comps in Smart Objects](https://helpx.adobe.com/photoshop/using/layer-comps.html) |
+| override [PageNumber](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/pagenumber/) { get; set; } | Mendapatkan atau mengatur nomor halaman data lapisan objek pintar dalam file PSD. |
+| [Perspective](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/perspective/) { get; set; } | Mendapatkan atau mengatur nilai perspektif lapisan yang ditempatkan dalam file PSD. |
+| [PerspectiveOther](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/perspectiveother/) { get; set; } | Mendapatkan atau mengatur nilai perspektif lainnya lapisan yang ditempatkan dalam file PSD. |
+| [PlacedId](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/placedid/) { get; set; } | Mendapatkan atau mengatur pengidentifikasi unik data lapisan objek pintar ini dalam gambar PSD. |
+| override [PlacedLayerType](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/placedlayertype/) { get; set; } | Mendapatkan atau mengatur tipe data lapisan objek pintar dalam file PSD. |
+| virtual [PsdVersion](../../aspose.psd.fileformats.psd.layers/layerresource/psdversion/) { get; } | Mendapatkan versi psd minimal yang diperlukan untuk sumber daya lapisan. 0 menunjukkan tidak ada batasan. |
+| [Resolution](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/resolution/) { get; set; } | Mendapatkan atau mengatur resolusi data lapisan objek pintar dalam file PSD. |
+| [ResolutionUnit](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/resolutionunit/) { get; set; } | Mendapatkan atau mengatur satuan ukuran resolusi data lapisan objek pintar dalam file PSD. |
+| [Right](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/right/) { get; set; } | Mendapatkan atau mengatur lokasi kanan lapisan yang ditempatkan dalam file PSD. |
+| virtual [Signature](../../aspose.psd.fileformats.psd.layers/layerresource/signature/) { get; } | Mendapatkan tanda tangan. |
+| [Top](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/top/) { get; set; } | Mendapatkan atau mengatur lokasi atas dari lapisan yang ditempatkan dalam gambar PSD. |
+| override [TotalPages](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/totalpages/) { get; set; } | Mendapatkan atau mengatur jumlah total halaman data lapisan objek pintar dalam file PSD. |
+| override [TransformMatrix](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/transformmatrix/) { get; set; } | Mendapatkan atau mengatur matriks transformasi data lapisan objek pintar dalam file PSD. |
+| override [UniqueId](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/uniqueid/) { get; set; } | Mendapatkan atau mengatur pengidentifikasi unik global dari data lapisan objek pintar [`SmartObjectResource`](../smartobjectresource/) dalam gambar PSD. |
+| [UOrder](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/uorder/) { get; set; } | Mendapatkan atau mengatur nilai urutan U dari lapisan yang ditempatkan dalam file PSD. |
+| [Value](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/value/) { get; set; } | Mendapatkan atau mengatur nilai warp dari lapisan yang ditempatkan dalam gambar PSD. |
+| [Version](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/version/) { get; } | Mendapatkan versi dari lapisan yang ditempatkan dalam file PSD, biasanya 3. |
+| [VerticalMeshPoints](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/verticalmeshpoints/) { get; set; } | Mendapatkan atau mengatur titik mesh horizontal lapisan yang ditempatkan dalam file PSD. |
+| [VerticalMeshPointUnit](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/verticalmeshpointunit/) { get; set; } | Mendapatkan atau mengatur satuan ukuran dari titik mesh vertikal. |
+| [VOrder](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/vorder/) { get; set; } | Mendapatkan atau mengatur nilai urutan V dari lapisan yang ditempatkan dalam file PSD. |
+| [Width](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/width/) { get; set; } | Mendapatkan atau mengatur lebar. |
 
 ## Metode
 
-| Nama | Keterangan |
+| Nama | Deskripsi |
 | --- | --- |
-| override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/save/)(StreamContainer, int) | Menyimpan sumber daya smart object ke wadah aliran yang ditentukan. |
-| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring/)() | Mengembalikan aString yang mewakili instance ini. |
+| override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/save/)(StreamContainer, int) | Menyimpan sumber daya objek pintar ke kontainer aliran yang ditentukan. |
+| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring/)() | Mengembalikan String yang mewakili instance ini. |
 
 ## Bidang
 
-| Nama | Keterangan |
+| Nama | Deskripsi |
 | --- | --- |
-| const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/soldresource/typetoolkey/) | Kunci info alat jenis: 'SoLd'. |
+| const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/soldresource/typetoolkey/) | Kunci info alat tipe: 'SoLd'. |
 
-### Contoh
+## Contoh
 
 Kode berikut menunjukkan dukungan sumber daya SoLdResource.
 
 ```csharp
 [C#]
 
-// Contoh ini menunjukkan cara mendapatkan atau menyetel properti data lapisan objek pintar dari file PSD.
+// Contoh ini menunjukkan cara mendapatkan atau mengatur properti data lapisan objek pintar dari file PSD.
 
 void AssertAreEqual(object actual, object expected)
 {
@@ -322,8 +323,8 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
                     resource.HorizontalMeshPoints = temp;
                 }
 
-                // Nilai ini juga harus diubah di PlLdResource (dengan UniqueId yang ditentukan).
-                // dan beberapa di antaranya harus sesuai dengan objek pintar yang digarisbawahi di LinkDataSource
+                // Nilai ini juga harus diubah dalam PlLdResource (dengan UniqueId yang ditentukan).
+                // dan beberapa di antaranya harus sesuai dengan objek pintar yang mendasari dalam LinkDataSource.
                 resource.PageNumber = 2;
                 resource.TotalPages = 3;
                 resource.AntiAliasPolicy = 0;
@@ -368,18 +369,18 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
                     42
                 };
 
-                // Id unik ini harus diubah dalam referensi jika ada
+                // Unique Id ini harus diubah dalam referensi jika ada.
                 resource.PlacedId = new Guid("12345678-9abc-def0-9876-54321fecba98");
 
-                // Hati-hati dengan beberapa parameter: gambar mungkin menjadi tidak terbaca oleh Adobe® Photoshop®
+                // Hati-hati dengan beberapa parameter: gambar mungkin menjadi tidak dapat dibaca oleh Adobe® Photoshop®
                 ////resource.UOrder = 6;
                 ////resource.VOrder = 9;
 
-                // Jangan ubah ini jika tidak, Anda tidak akan dapat menggunakan transformasi bebas
-                // atau ubah smart object yang digarisbawahi menjadi tipe vektor
+                // Jangan ubah ini, jika tidak Anda tidak akan dapat menggunakan transformasi bebas.
+                // atau ubah objek pintar yang mendasari menjadi tipe vektor.
                 ////resource.PlacedLayerType = PlacedLayerType.Vector;
 
-                // Harus ada PlLdResource yang valid dengan ID unik ini
+                // Harus ada PlLdResource yang valid dengan Unique Id ini.
                 ////resource.UniqueId = new Guid("98765432-10fe-cba0-1234-56789abcdef0");
 
                 break;
@@ -392,10 +393,10 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
 }
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [SmartObjectResource](../smartobjectresource/)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
-* perakitan [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../)
 
 

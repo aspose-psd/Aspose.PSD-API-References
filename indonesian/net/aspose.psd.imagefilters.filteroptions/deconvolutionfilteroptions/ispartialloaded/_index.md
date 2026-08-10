@@ -1,27 +1,28 @@
 ---
-title: DeconvolutionFilterOptions.IsPartialLoaded
-second_title: Aspose.PSD untuk Referensi .NET API
-description: DeconvolutionFilterOptions Properti. Mendapat nilai yang menunjukkan apakah instance ini dimuat sebagian.
+title: "DeconvolutionFilterOptions.IsPartialLoaded"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti DeconvolutionFilterOptions. Mendapatkan nilai yang menunjukkan apakah instance ini dimuat sebagian"
 type: docs
 weight: 30
 url: /id/net/aspose.psd.imagefilters.filteroptions/deconvolutionfilteroptions/ispartialloaded/
 ---
+{{< psd/tize >}}
 ## DeconvolutionFilterOptions.IsPartialLoaded property
 
-Mendapat nilai yang menunjukkan apakah instance ini dimuat sebagian.
+Mendapatkan nilai yang menunjukkan apakah instance ini dimuat sebagian.
 
 ```csharp
 public bool IsPartialLoaded { get; }
 ```
 
-### Nilai properti
+### Property Value
 
-`BENAR` jika instance ini dimuat sebagian; jika tidak,`PALSU` .
+`true` jika instance ini dimuat sebagian; jika tidak, `false`.
 
-### Lihat juga
+### Lihat Juga
 
 * class [DeconvolutionFilterOptions](../)
-* ruang nama [Aspose.PSD.ImageFilters.FilterOptions](../../deconvolutionfilteroptions/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageFilters.FilterOptions](../../../aspose.psd.imagefilters.filteroptions/)
+* assembly [Aspose.PSD](../../../)
 
 

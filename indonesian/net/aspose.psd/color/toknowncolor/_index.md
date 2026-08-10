@@ -1,28 +1,29 @@
 ---
-title: Color.ToKnownColor
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Color metode. MendapatkanKnownColor nilai iniColorstruktur.
+title: "Color.ToKnownColor"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode Color. Mengambil nilai KnownColor dari struktur Color ini"
 type: docs
 weight: 1600
 url: /id/net/aspose.psd/color/toknowncolor/
 ---
+{{< psd/tize >}}
 ## Color.ToKnownColor method
 
-Mendapatkan[`KnownColor`](../../knowncolor/) nilai ini[`Color`](../)struktur.
+Mengambil nilai [`KnownColor`](../../knowncolor/) dari struktur [`Color`](../) ini.
 
 ```csharp
 public KnownColor ToKnownColor()
 ```
 
-### Nilai Pengembalian
+### Nilai Kembalian
 
-Sebuah elemen dari[`KnownColor`](../../knowncolor/)pencacahan, jika[`Color`](../) dibuat dari warna yang telah ditentukan dengan menggunakan salah satu dari[`FromName`](../fromname/) metode atau[`FromKnownColor`](../fromknowncolor/) metode; jika tidak, 0.
+Elemen dari enumerasi [`KnownColor`](../../knowncolor/), jika [`Color`](../) dibuat dari warna yang telah ditentukan dengan menggunakan metode [`FromName`](../fromname/) atau metode [`FromKnownColor`](../fromknowncolor/); jika tidak, 0.
 
-### Lihat juga
+### Lihat Juga
 
 * enum [KnownColor](../../knowncolor/)
 * struct [Color](../)
-* ruang nama [Aspose.PSD](../../color/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

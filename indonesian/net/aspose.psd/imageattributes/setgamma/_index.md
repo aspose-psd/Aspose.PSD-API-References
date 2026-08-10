@@ -1,49 +1,50 @@
 ---
-title: ImageAttributes.SetGamma
-second_title: Aspose.PSD untuk Referensi .NET API
-description: ImageAttributes metode. Mengatur nilai gamma untuk kategori default.
+title: "ImageAttributes.SetGamma"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode ImageAttributes. Menetapkan nilai gamma untuk kategori default."
 type: docs
 weight: 150
 url: /id/net/aspose.psd/imageattributes/setgamma/
 ---
+{{< psd/tize >}}
 ## SetGamma(float) {#setgamma}
 
-Mengatur nilai gamma untuk kategori default.
+Menetapkan nilai gamma untuk kategori default.
 
 ```csharp
 public void SetGamma(float gamma)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
 | gamma | Single | Nilai koreksi gamma. |
 
-### Lihat juga
+### Lihat Juga
 
 * class [ImageAttributes](../)
-* ruang nama [Aspose.PSD](../../imageattributes/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## SetGamma(float, ColorAdjustType) {#setgamma_1}
 
-Mengatur nilai gamma untuk kategori tertentu.
+Menetapkan nilai gamma untuk kategori yang ditentukan.
 
 ```csharp
 public void SetGamma(float gamma, ColorAdjustType type)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
 | gamma | Single | Nilai koreksi gamma. |
-| type | ColorAdjustType | Sebuah elemen dari[`ColorAdjustType`](../../coloradjusttype/) pencacahan yang menentukan kategori yang nilai gamma ditetapkan. |
+| type | ColorAdjustType | Elemen dari enumerasi [`ColorAdjustType`](../../coloradjusttype/) yang menentukan kategori di mana nilai gamma diatur. |
 
-### Lihat juga
+### Lihat Juga
 
 * enum [ColorAdjustType](../../coloradjusttype/)
 * class [ImageAttributes](../)
-* ruang nama [Aspose.PSD](../../imageattributes/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

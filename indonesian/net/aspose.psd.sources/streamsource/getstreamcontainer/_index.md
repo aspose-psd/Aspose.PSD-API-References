@@ -1,32 +1,33 @@
 ---
-title: StreamSource.GetStreamContainer
-second_title: Aspose.PSD untuk Referensi .NET API
-description: StreamSource metode. Mendapatkan wadah aliran.
+title: "StreamSource.GetStreamContainer"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode StreamSource. Mendapatkan kontainer aliran"
 type: docs
 weight: 40
 url: /id/net/aspose.psd.sources/streamsource/getstreamcontainer/
 ---
+{{< psd/tize >}}
 ## StreamSource.GetStreamContainer method
 
-Mendapatkan wadah aliran.
+Mendapatkan kontainer aliran.
 
 ```csharp
 public override StreamContainer GetStreamContainer()
 ```
 
-### Nilai Pengembalian
+### Nilai Kembalian
 
-wadah aliran.
+kontainer aliran.
 
-### Perkataan
+## Catatan
 
-Gunakan dengan hati-hati. Anda harus membuang wadah aliran setelah pengambilan.
+Gunakan dengan hati-hati. Anda perlu membuang kontainer aliran setelah pengambilan.
 
-### Lihat juga
+### Lihat Juga
 
 * class [StreamContainer](../../../aspose.psd/streamcontainer/)
 * class [StreamSource](../)
-* ruang nama [Aspose.PSD.Sources](../../streamsource/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Sources](../../../aspose.psd.sources/)
+* assembly [Aspose.PSD](../../../)
 
 

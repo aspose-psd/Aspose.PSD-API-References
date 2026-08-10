@@ -1,23 +1,24 @@
 ---
-title: ConvolutionFilterOptions.ConvolutionFilterOptions
-second_title: Aspose.PSD untuk Referensi .NET API
-description: ConvolutionFilterOptions konstruktor. Menginisialisasi instance baru dariConvolutionFilterOptions kelas.
+title: "ConvolutionFilterOptions.ConvolutionFilterOptions"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Konstruktor ConvolutionFilterOptions. Menginisialisasi sebuah instance baru dari kelas ConvolutionFilterOptions"
 type: docs
 weight: 10
 url: /id/net/aspose.psd.imagefilters.filteroptions/convolutionfilteroptions/convolutionfilteroptions/
 ---
+{{< psd/tize >}}
 ## ConvolutionFilterOptions constructor
 
-Menginisialisasi instance baru dari[`ConvolutionFilterOptions`](../) kelas.
+Menginisialisasi sebuah instance baru dari kelas [`ConvolutionFilterOptions`](../).
 
 ```csharp
 public ConvolutionFilterOptions()
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [ConvolutionFilterOptions](../)
-* ruang nama [Aspose.PSD.ImageFilters.FilterOptions](../../convolutionfilteroptions/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageFilters.FilterOptions](../../../aspose.psd.imagefilters.filteroptions/)
+* assembly [Aspose.PSD](../../../)
 
 

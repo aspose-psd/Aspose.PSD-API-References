@@ -1,27 +1,28 @@
 ---
-title: PlacedResource.IsCustom
-second_title: Aspose.PSD untuk Referensi .NET API
-description: PlacedResource Properti. Mendapat atau menetapkan nilai yang menunjukkan apakah gaya warp instance ini adalah custom. Jika true gaya ini berisi poin mesh. Jika disetel ke false itu akan menghapus poin mesh.
+title: "PlacedResource.IsCustom"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "PlacedResource property. Mendapatkan atau mengatur nilai yang menunjukkan apakah gaya warp instance ini khusus. Jika true, berisi titik mesh. Jika set ke false, menghapus titik mesh"
 type: docs
 weight: 60
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources/placedresource/iscustom/
 ---
+{{< psd/tize >}}
 ## PlacedResource.IsCustom property
 
-Mendapat atau menetapkan nilai yang menunjukkan apakah gaya warp instance ini adalah custom. Jika true, gaya ini berisi poin mesh. Jika disetel ke false, itu akan menghapus poin mesh.
+Mendapatkan atau mengatur nilai yang menunjukkan apakah gaya warp instance ini bersifat khusus. Jika true, berisi titik mesh. Jika diset ke false, menghapus titik mesh.
 
 ```csharp
 public bool IsCustom { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
-`BENAR` jika lapisan yang ditempatkan memiliki gaya khusus; jika tidak,`PALSU` .
+`true` jika lapisan yang ditempatkan memiliki gaya khusus; sebaliknya, `false`.
 
-### Lihat juga
+### Lihat Juga
 
 * class [PlacedResource](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../placedresource/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

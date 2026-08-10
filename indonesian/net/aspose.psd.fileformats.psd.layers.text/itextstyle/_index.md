@@ -1,14 +1,15 @@
 ---
-title: Interface ITextStyle
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Aspose.PSD.FileFormats.Psd.Layers.Text.ITextStyle antarmuka. Antarmuka untuk bekerja dengan Text Style
+title: "Antarmuka ITextStyle"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Antarmuka Aspose.PSD.FileFormats.Psd.Layers.Text.ITextStyle. Antarmuka untuk bekerja dengan Gaya Teks"
 type: docs
-weight: 3540
+weight: 3960
 url: /id/net/aspose.psd.fileformats.psd.layers.text/itextstyle/
 ---
+{{< psd/tize >}}
 ## ITextStyle interface
 
-Antarmuka untuk bekerja dengan Text Style
+Antarmuka untuk bekerja dengan Gaya Teks
 
 ```csharp
 public interface ITextStyle
@@ -16,52 +17,52 @@ public interface ITextStyle
 
 ## Properti
 
-| Nama | Keterangan |
+| Nama | Deskripsi |
 | --- | --- |
-| [AutoKerning](../../aspose.psd.fileformats.psd.layers.text/itextstyle/autokerning/) { get; set; } | Mendapat atau menyetel kerning otomatis. |
-| [AutoLeading](../../aspose.psd.fileformats.psd.layers.text/itextstyle/autoleading/) { get; set; } | Mendapat atau menetapkan nilai yang menunjukkan apakah [memimpin otomatis]. |
-| [BaselineShift](../../aspose.psd.fileformats.psd.layers.text/itextstyle/baselineshift/) { get; set; } | Pergeseran garis dasar. |
-| [ContextualAlternates](../../aspose.psd.fileformats.psd.layers.text/itextstyle/contextualalternates/) { get; set; } | Pergantian kontekstual yang digunakan untuk menghubungkan huruf. |
-| [DiscretionaryLigatures](../../aspose.psd.fileformats.psd.layers.text/itextstyle/discretionaryligatures/) { get; set; } | Pengikat diskresi yang digunakan untuk menghubungkan huruf, terutama pada font skrip. |
-| [FauxBold](../../aspose.psd.fileformats.psd.layers.text/itextstyle/fauxbold/) { get; set; } | Mendapatkan atau menyetel huruf tebal palsu diaktifkan. |
-| [FauxItalic](../../aspose.psd.fileformats.psd.layers.text/itextstyle/fauxitalic/) { get; set; } | Mendapatkan atau menyetel huruf tebal palsu diaktifkan. |
-| [FillColor](../../aspose.psd.fileformats.psd.layers.text/itextstyle/fillcolor/) { get; set; } | Mendapat atau menyetel warna isian. |
-| [FontBaseline](../../aspose.psd.fileformats.psd.layers.text/itextstyle/fontbaseline/) { get; set; } | Garis dasar font. |
-| [FontCaps](../../aspose.psd.fileformats.psd.layers.text/itextstyle/fontcaps/) { get; set; } | Tutup font. |
-| [FontIndex](../../aspose.psd.fileformats.psd.layers.text/itextstyle/fontindex/) { get; } | Mendapat indeks font. |
-| [FontName](../../aspose.psd.fileformats.psd.layers.text/itextstyle/fontname/) { get; set; } | Mendapat atau menyetel nama font. |
-| [FontSize](../../aspose.psd.fileformats.psd.layers.text/itextstyle/fontsize/) { get; set; } | Mendapat atau mengatur ukuran font. |
-| [Fractions](../../aspose.psd.fileformats.psd.layers.text/itextstyle/fractions/) { get; set; } | Simbol pecahan dapat diganti dengan mesin terbang khusus. |
-| [HindiNumbers](../../aspose.psd.fileformats.psd.layers.text/itextstyle/hindinumbers/) { get; set; } | Mendapat atau menetapkan nilai yang menunjukkan apakah [angka hindi]. |
+| [AutoKerning](../../aspose.psd.fileformats.psd.layers.text/itextstyle/autokerning/) { get; set; } | Mendapatkan atau mengatur kerning otomatis. |
+| [AutoLeading](../../aspose.psd.fileformats.psd.layers.text/itextstyle/autoleading/) { get; set; } | Mendapatkan atau mengatur nilai yang menunjukkan apakah [automatic leading]. |
+| [BaselineShift](../../aspose.psd.fileformats.psd.layers.text/itextstyle/baselineshift/) { get; set; } | Perpindahan baseline. |
+| [ContextualAlternates](../../aspose.psd.fileformats.psd.layers.text/itextstyle/contextualalternates/) { get; set; } | Alternatif kontekstual yang digunakan untuk menghubungkan huruf bersama. |
+| [DiscretionaryLigatures](../../aspose.psd.fileformats.psd.layers.text/itextstyle/discretionaryligatures/) { get; set; } | Ligatur diskresioner yang digunakan untuk menghubungkan huruf, terutama dalam font skrip. |
+| [FauxBold](../../aspose.psd.fileformats.psd.layers.text/itextstyle/fauxbold/) { get; set; } | Mendapatkan atau mengatur apakah faux bold diaktifkan. |
+| [FauxItalic](../../aspose.psd.fileformats.psd.layers.text/itextstyle/fauxitalic/) { get; set; } | Mendapatkan atau mengatur apakah faux bold diaktifkan. |
+| [FillColor](../../aspose.psd.fileformats.psd.layers.text/itextstyle/fillcolor/) { get; set; } | Mendapatkan atau mengatur warna isian. |
+| [FontBaseline](../../aspose.psd.fileformats.psd.layers.text/itextstyle/fontbaseline/) { get; set; } | Baseline font. |
+| [FontCaps](../../aspose.psd.fileformats.psd.layers.text/itextstyle/fontcaps/) { get; set; } | Kapital font. |
+| [FontIndex](../../aspose.psd.fileformats.psd.layers.text/itextstyle/fontindex/) { get; } | Mendapatkan indeks font. |
+| [FontName](../../aspose.psd.fileformats.psd.layers.text/itextstyle/fontname/) { get; set; } | Mendapatkan atau mengatur nama font. |
+| [FontSize](../../aspose.psd.fileformats.psd.layers.text/itextstyle/fontsize/) { get; set; } | Mendapatkan atau mengatur ukuran font. |
+| [Fractions](../../aspose.psd.fileformats.psd.layers.text/itextstyle/fractions/) { get; set; } | Simbol pecahan dapat diganti dengan glyph khusus. |
+| [HindiNumbers](../../aspose.psd.fileformats.psd.layers.text/itextstyle/hindinumbers/) { get; set; } | Mendapatkan atau mengatur nilai yang menunjukkan apakah [hindi numbers]. |
 | [HorizontalScale](../../aspose.psd.fileformats.psd.layers.text/itextstyle/horizontalscale/) { get; set; } | Skala horizontal. |
-| [IsStandardVerticalRomanAlignmentEnabled](../../aspose.psd.fileformats.psd.layers.text/itextstyle/isstandardverticalromanalignmentenabled/) { get; set; } | Mendapat atau menyetel perataan Romawi vertikal standar. Ini berdasarkan nilai sumber daya BaselineDirection hanya berlaku jika orientasi teks adalahVertical . |
-| [Kerning](../../aspose.psd.fileformats.psd.layers.text/itextstyle/kerning/) { get; set; } | Mendapat atau menyetel kerning. |
+| [IsStandardVerticalRomanAlignmentEnabled](../../aspose.psd.fileformats.psd.layers.text/itextstyle/isstandardverticalromanalignmentenabled/) { get; set; } | Mendapatkan atau mengatur perataan Romawi vertikal standar. Ini berdasarkan nilai sumber BaselineDirection hanya berlaku ketika orientasi teks Vertikal. |
+| [Kerning](../../aspose.psd.fileformats.psd.layers.text/itextstyle/kerning/) { get; set; } | Mendapatkan atau mengatur kerning. |
 | [LanguageIndex](../../aspose.psd.fileformats.psd.layers.text/itextstyle/languageindex/) { get; } | Mendapatkan indeks bahasa. |
-| [Leading](../../aspose.psd.fileformats.psd.layers.text/itextstyle/leading/) { get; set; } | Mendapat atau mengatur yang terdepan. |
-| [NoBreak](../../aspose.psd.fileformats.psd.layers.text/itextstyle/nobreak/) { get; set; } | Mendapat atau menyetel nilai tanpa jeda. |
-| [StandardLigatures](../../aspose.psd.fileformats.psd.layers.text/itextstyle/standardligatures/) { get; set; } | Pengikat kontekstual standar yang digunakan untuk menghubungkan huruf. |
-| [Strikethrough](../../aspose.psd.fileformats.psd.layers.text/itextstyle/strikethrough/) { get; set; } | Mendapat atau menetapkan nilai yang menunjukkan apakah [dicoret]. |
-| [StrokeColor](../../aspose.psd.fileformats.psd.layers.text/itextstyle/strokecolor/) { get; set; } | Mendapat atau mengatur warna stroke. |
-| [Tracking](../../aspose.psd.fileformats.psd.layers.text/itextstyle/tracking/) { get; set; } | Mendapat atau menyetel pelacakan. |
-| [Underline](../../aspose.psd.fileformats.psd.layers.text/itextstyle/underline/) { get; set; } | Mendapat atau menetapkan nilai yang menunjukkan apakah [garis bawah]. |
+| [Leading](../../aspose.psd.fileformats.psd.layers.text/itextstyle/leading/) { get; set; } | Mendapatkan atau mengatur leading. |
+| [NoBreak](../../aspose.psd.fileformats.psd.layers.text/itextstyle/nobreak/) { get; set; } | Mendapatkan atau mengatur nilai no break. |
+| [StandardLigatures](../../aspose.psd.fileformats.psd.layers.text/itextstyle/standardligatures/) { get; set; } | Ligatur kontekstual standar yang digunakan untuk menghubungkan huruf bersama. |
+| [Strikethrough](../../aspose.psd.fileformats.psd.layers.text/itextstyle/strikethrough/) { get; set; } | Mendapatkan atau mengatur nilai yang menunjukkan apakah [strikethrough]. |
+| [StrokeColor](../../aspose.psd.fileformats.psd.layers.text/itextstyle/strokecolor/) { get; set; } | Mendapatkan atau mengatur warna goresan. |
+| [Tracking](../../aspose.psd.fileformats.psd.layers.text/itextstyle/tracking/) { get; set; } | Mendapatkan atau mengatur tracking. |
+| [Underline](../../aspose.psd.fileformats.psd.layers.text/itextstyle/underline/) { get; set; } | Mendapatkan atau mengatur nilai yang menunjukkan apakah [underline]. |
 | [VerticalScale](../../aspose.psd.fileformats.psd.layers.text/itextstyle/verticalscale/) { get; set; } | Skala vertikal. |
 
 ## Metode
 
-| Nama | Keterangan |
+| Nama | Deskripsi |
 | --- | --- |
 | [Apply](../../aspose.psd.fileformats.psd.layers.text/itextstyle/apply/)(ITextStyle) | Menerapkan gaya yang ditentukan. |
 | [IsEqual](../../aspose.psd.fileformats.psd.layers.text/itextstyle/isequal/)(ITextStyle) | Menentukan apakah gaya yang ditentukan sama. |
 
-### Contoh
+## Contoh
 
-Contoh berikut menunjukkan bagaimana Anda bisa membuat gaya yang berbeda dalam satu lapisan teks di Aspose.PSD
+Contoh berikut menunjukkan cara Anda dapat merender gaya berbeda dalam satu lapisan teks di Aspose.PSD
 
 ```csharp
 [C#]
 
 string sourceFile = "text212.psd";
-string etalonFile = "Ethalon_text212.psd";
+string etalonFile = "Output_text212.psd";
 string outputFile = "Output_text212.psd";
 
 using (var img = (PsdImage)Image.Load(sourceFile))
@@ -84,12 +85,12 @@ using (var img = (PsdImage)Image.Load(sourceFile))
         defaultStyle,
         defaultParagraph);
 
-    newPortions[0].Style.Underline = true; // edit gaya teks "E=mc"
-    newPortions[1].Style.FontBaseline = FontBaseline.Superscript; // edit gaya teks "2\r"
-    newPortions[2].Style.FauxBold = true; // edit gaya teks "Bold"
-    newPortions[3].Style.FauxItalic = true; // edit gaya teks "Italic\r"
-    newPortions[3].Style.BaselineShift = -25; // edit gaya teks "Italic\r"
-    newPortions[4].Style.FontCaps = FontCaps.SmallCaps; // edit gaya teks "Teks huruf kecil"
+    newPortions[0].Style.Underline = true; // edit text style "E=mc"
+    newPortions[1].Style.FontBaseline = FontBaseline.Superscript; // edit text style "2\r"
+    newPortions[2].Style.FauxBold = true; // edit text style "Bold"
+    newPortions[3].Style.FauxItalic = true; // edit text style "Italic\r"
+    newPortions[3].Style.BaselineShift = -25; // edit text style "Italic\r"
+    newPortions[4].Style.FontCaps = FontCaps.SmallCaps; // edit text style "Lowercasetext"
 
     foreach (var newPortion in newPortions)
     {
@@ -101,12 +102,12 @@ using (var img = (PsdImage)Image.Load(sourceFile))
 }
 ```
 
-Kode berikut menunjukkan cara mendapatkan ukuran font untuk setiap bagian teks di lapisan teks.
+Kode berikut menunjukkan cara mendapatkan ukuran font untuk setiap bagian teks dalam lapisan teks.
 
 ```csharp
 [C#]
 
-// Mengekstrak ukuran Font yang salah 
+// Ukuran Font yang diekstrak salah 
 string filePath = "直播+电商.psd";
 
 var tolerance = 0.001;
@@ -114,7 +115,7 @@ using (var image = Image.Load(filePath))
 {
     int layerIndex = 22;
 
-    // API Lama (Menggunakan font paragraf pertama)
+    // API lama (Menggunakan font paragraf pertama)
     PsdImage psdImage = image as PsdImage;
     double[] matrix = ((TextLayer)psdImage.Layers[layerIndex]).TransformMatrix;
     double baseFontSize = ((TextLayer)psdImage.Layers[layerIndex]).Font.Size;
@@ -132,18 +133,18 @@ using (var image = Image.Load(filePath))
         throw new Exception("TransformMatrix was read incorrect");
     }
 
-    // API Baru (Satu lapisan teks dapat berisi jumlah ukuran font berapa pun)
+    // API Baru (Satu lapisan teks dapat berisi jumlah ukuran font apa pun)
     ITextPortion[] portions = ((TextLayer)psdImage.Layers[layerIndex]).TextData.Items;
     ITextStyle style = portions[0].Style;
     double fontSizeOfPortion = matrix[0] * style.FontSize;
 
-    // Memeriksa ukuran font porsi dasar
+    // Memeriksa ukuran font bagian dasar
     if (Math.Abs(100.0 - style.FontSize) > tolerance)
     {
         throw new Exception("Font size was read incorrect");
     }
 
-    // Memeriksa ukuran font porsi sebenarnya
+    // Memeriksa ukuran font bagian nyata
     if (Math.Abs(88.425 - fontSizeOfPortion) > tolerance)
     {
         throw new Exception("TransformMatrix was read incorrect");
@@ -151,7 +152,7 @@ using (var image = Image.Load(filePath))
 }
 ```
 
-Contoh kode berikut menunjukkan bagian teks pengeditan dan gaya teksnya.
+Contoh kode berikut menunjukkan pengeditan bagian teks dan gaya teks mereka.
 
 ```csharp
 [C#]
@@ -174,7 +175,7 @@ using (var im = (PsdImage)Image.Load(filePath))
                 throw new Exception();
             }
 
-            // Memeriksa teks dari setiap bagian
+            // Memeriksa teks setiap bagian
             if (portions[0].Text != "Old " ||
                 portions[1].Text != "color" ||
                 portions[2].Text != " text\r" ||
@@ -184,7 +185,7 @@ using (var im = (PsdImage)Image.Load(filePath))
             }
 
             // Memeriksa data paragraf
-            // Paragraf memiliki justifikasi yang berbeda
+            // Paragraf memiliki perataan yang berbeda
             if (
                 (int)portions[0].Paragraph.Justification != 0 ||
                 (int)portions[1].Paragraph.Justification != 0 ||
@@ -194,7 +195,7 @@ using (var im = (PsdImage)Image.Load(filePath))
                 throw new Exception();
             }
 
-            // Semua properti lain dari paragraf pertama dan kedua adalah sama
+            // Semua properti lain dari paragraf pertama dan kedua sama
             for (int j = 0; j < portions.Length; j++)
             {
                 var paragraph = portions[j].Paragraph;
@@ -218,7 +219,7 @@ using (var im = (PsdImage)Image.Load(filePath))
                     Math.Abs(paragraph.LetterSpacing[0]) > Tolerance ||
                     Math.Abs(paragraph.LetterSpacing[1]) > Tolerance ||
                     Math.Abs(paragraph.LetterSpacing[2]) > Tolerance ||
-                    paragraph.LeadingType != LeadingMode.Auto ||
+                    paragraph.LeadingType != LeadingType.BottomToBottom ||
                     paragraph.PreHyphen != 2 ||
                     paragraph.PostHyphen != 2 ||
                     Math.Abs(paragraph.SpaceBefore) > Tolerance ||
@@ -281,18 +282,18 @@ using (var im = (PsdImage)Image.Load(filePath))
 
             portions = layer.TextData.Items;
 
-            // Contoh paragraf dan pengeditan gaya untuk bagian
-            // Tetapkan pembenaran yang benar
+            // Contoh pengeditan paragraf dan gaya untuk bagian-bagian
+            // Atur perataan kanan
             portions[0].Paragraph.Justification = JustificationMode.Right;
             portions[1].Paragraph.Justification = JustificationMode.Right;
             portions[2].Paragraph.Justification = JustificationMode.Right;
 
-            // Warna berbeda untuk setiap gaya. Itu akan diubah, tetapi rendering tidak sepenuhnya didukung
+            // Warna berbeda untuk setiap gaya. Akan diubah, tetapi rendering tidak sepenuhnya didukung.
             portions[0].Style.FillColor = Color.Aquamarine;
             portions[1].Style.FillColor = Color.Violet;
             portions[2].Style.FillColor = Color.LightBlue;
 
-            // Huruf berbeda. Itu akan diubah, tetapi rendering tidak sepenuhnya didukung
+            // Font berbeda. Akan diubah, tetapi rendering tidak sepenuhnya didukung.
             portions[0].Style.FontSize = 6;
             portions[1].Style.FontSize = 8;
             portions[2].Style.FontSize = 10;
@@ -307,9 +308,9 @@ using (var im = (PsdImage)Image.Load(filePath))
 }
 ```
 
-### Lihat juga
+### Lihat Juga
 
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.Text](../../aspose.psd.fileformats.psd.layers.text/)
-* perakitan [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.Text](../../aspose.psd.fileformats.psd.layers.text/)
+* assembly [Aspose.PSD](../../)
 
 

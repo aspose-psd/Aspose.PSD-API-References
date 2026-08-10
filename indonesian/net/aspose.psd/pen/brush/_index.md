@@ -1,34 +1,35 @@
 ---
-title: Pen.Brush
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Pen Properti. Mendapat atau menyetelBrush yang menentukan atribut iniPen .
+title: "Pen.Brush"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti Pen. Mendapatkan atau mengatur Brush yang menentukan atribut Pen ini."
 type: docs
 weight: 30
 url: /id/net/aspose.psd/pen/brush/
 ---
+{{< psd/tize >}}
 ## Pen.Brush property
 
-Mendapat atau menyetel`Brush` yang menentukan atribut ini[`Pen`](../) .
+Mendapatkan atau mengatur `Brush` yang menentukan atribut [`Pen`](../) ini.
 
 ```csharp
 public Brush Brush { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
-A`Brush` yang menentukan atribut ini[`Pen`](../).
+Sebuah `Brush` yang menentukan atribut [`Pen`](../) ini.
 
 ### Pengecualian
 
 | pengecualian | kondisi |
 | --- | --- |
-| ArgumentException | Itu`Brush` properti diatur pada yang tidak berubah[`Pen`](../) , seperti yang dikembalikan oleh[`Pen`](../) kelas. |
+| ArgumentException | Properti `Brush` diatur pada sebuah [`Pen`](../) yang tidak dapat diubah, seperti yang dikembalikan oleh kelas [`Pen`](../). |
 
-### Lihat juga
+### Lihat Juga
 
 * class [Brush](../../brush/)
 * class [Pen](../)
-* ruang nama [Aspose.PSD](../../pen/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

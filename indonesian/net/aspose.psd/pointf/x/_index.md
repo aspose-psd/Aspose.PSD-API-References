@@ -1,23 +1,24 @@
 ---
-title: PointF.X
-second_title: Aspose.PSD untuk Referensi .NET API
-description: PointF Properti. Mendapat atau menetapkan koordinat x dari iniPointF .
+title: "PointF.X"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti PointF. Mendapatkan atau mengatur koordinat x dari PointF ini."
 type: docs
 weight: 60
 url: /id/net/aspose.psd/pointf/x/
 ---
+{{< psd/tize >}}
 ## PointF.X property
 
-Mendapat atau menetapkan koordinat x dari ini[`PointF`](../) .
+Mendapatkan atau mengatur koordinat x dari [`PointF`](../) ini.
 
 ```csharp
 public float X { get; set; }
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * struct [PointF](../)
-* ruang nama [Aspose.PSD](../../pointf/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

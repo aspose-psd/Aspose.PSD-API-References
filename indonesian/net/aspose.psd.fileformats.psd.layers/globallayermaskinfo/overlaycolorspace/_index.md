@@ -1,27 +1,28 @@
 ---
-title: GlobalLayerMaskInfo.OverlayColorSpace
-second_title: Aspose.PSD untuk Referensi .NET API
-description: GlobalLayerMaskInfo Properti. Mendapat atau mengatur ruang warna overlay nilai tidak berdokumen.
+title: "GlobalLayerMaskInfo.OverlayColorSpace"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti GlobalLayerMaskInfo. Mendapatkan atau mengatur nilai ruang warna overlay yang tidak terdokumentasi"
 type: docs
 weight: 80
 url: /id/net/aspose.psd.fileformats.psd.layers/globallayermaskinfo/overlaycolorspace/
 ---
+{{< psd/tize >}}
 ## GlobalLayerMaskInfo.OverlayColorSpace property
 
-Mendapat atau mengatur ruang warna overlay (nilai tidak berdokumen).
+Mendapatkan atau mengatur ruang warna overlay (nilai yang tidak terdokumentasi).
 
 ```csharp
 public short OverlayColorSpace { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
-Ruang warna hamparan.
+Ruang warna overlay.
 
-### Lihat juga
+### Lihat Juga
 
 * class [GlobalLayerMaskInfo](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers](../../globallayermaskinfo/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

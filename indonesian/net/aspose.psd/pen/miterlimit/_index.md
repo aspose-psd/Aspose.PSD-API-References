@@ -1,33 +1,34 @@
 ---
-title: Pen.MiterLimit
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Pen Properti. Mendapat atau menetapkan batas ketebalan gabungan pada sudut yang disematkan.
+title: "Pen.MiterLimit"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti Pen. Mendapatkan atau mengatur batas ketebalan sambungan pada sudut miring."
 type: docs
 weight: 140
 url: /id/net/aspose.psd/pen/miterlimit/
 ---
+{{< psd/tize >}}
 ## Pen.MiterLimit property
 
-Mendapat atau menetapkan batas ketebalan gabungan pada sudut yang disematkan.
+Mendapatkan atau mengatur batas ketebalan sambungan pada sudut miring.
 
 ```csharp
 public float MiterLimit { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
-Batas ketebalan sambungan pada sudut yang disematkan.
+Batas ketebalan sambungan pada sudut miring.
 
 ### Pengecualian
 
 | pengecualian | kondisi |
 | --- | --- |
-| ArgumentException | Itu`MiterLimit` properti diatur pada yang tidak berubah[`Pen`](../) , seperti yang dikembalikan oleh[`Pen`](../) kelas. |
+| ArgumentException | Properti `MiterLimit` diatur pada sebuah [`Pen`](../) yang tidak dapat diubah, seperti yang dikembalikan oleh kelas [`Pen`](../). |
 
-### Lihat juga
+### Lihat Juga
 
 * class [Pen](../)
-* ruang nama [Aspose.PSD](../../pen/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

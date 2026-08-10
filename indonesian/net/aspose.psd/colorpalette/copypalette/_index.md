@@ -1,11 +1,12 @@
 ---
-title: ColorPalette.CopyPalette
-second_title: Aspose.PSD untuk Referensi .NET API
-description: ColorPalette metode. Menyalin palet.
+title: "ColorPalette.CopyPalette"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode ColorPalette. Menyalin palet"
 type: docs
 weight: 20
 url: /id/net/aspose.psd/colorpalette/copypalette/
 ---
+{{< psd/tize >}}
 ## CopyPalette(IColorPalette, bool) {#copypalette_1}
 
 Menyalin palet.
@@ -14,21 +15,21 @@ Menyalin palet.
 public static ColorPalette CopyPalette(IColorPalette colorPalette, bool useCompactPalette)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
 | colorPalette | IColorPalette | Palet warna. |
 | useCompactPalette | Boolean | Menunjukkan apakah palet kompak. |
 
-### Nilai Pengembalian
+### Nilai Kembalian
 
-Palet yang baru dibuat dan disalin atau null jika palet null lolos.
+Palet yang baru dibuat dan disalin atau null jika palet null diberikan.
 
-### Lihat juga
+### Lihat Juga
 
 * interface [IColorPalette](../../icolorpalette/)
 * class [ColorPalette](../)
-* ruang nama [Aspose.PSD](../../colorpalette/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
@@ -40,19 +41,19 @@ Menyalin palet.
 public static ColorPalette CopyPalette(IColorPalette colorPalette)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
 | colorPalette | IColorPalette | Palet warna. |
 
-### Nilai Pengembalian
+### Nilai Kembalian
 
-Palet yang baru dibuat dan disalin atau null jika palet null lolos.
+Palet yang baru dibuat dan disalin atau null jika palet null diberikan.
 
-### Lihat juga
+### Lihat Juga
 
 * interface [IColorPalette](../../icolorpalette/)
 * class [ColorPalette](../)
-* ruang nama [Aspose.PSD](../../colorpalette/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

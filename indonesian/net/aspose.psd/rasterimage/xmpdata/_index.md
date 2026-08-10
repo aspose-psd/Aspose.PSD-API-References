@@ -1,28 +1,29 @@
 ---
-title: RasterImage.XmpData
-second_title: Aspose.PSD untuk Referensi .NET API
-description: RasterImage Properti. Mendapat atau menyetel metadata XMP.
+title: "RasterImage.XmpData"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti RasterImage. Mendapatkan atau mengatur metadata XMP"
 type: docs
 weight: 170
 url: /id/net/aspose.psd/rasterimage/xmpdata/
 ---
+{{< psd/tize >}}
 ## RasterImage.XmpData property
 
-Mendapat atau menyetel metadata XMP.
+Mendapatkan atau mengatur metadata XMP.
 
 ```csharp
 public virtual XmpPacketWrapper XmpData { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
 Metadata XMP.
 
-### Lihat juga
+### Lihat Juga
 
 * class [XmpPacketWrapper](../../../aspose.psd.xmp/xmppacketwrapper/)
 * class [RasterImage](../)
-* ruang nama [Aspose.PSD](../../rasterimage/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

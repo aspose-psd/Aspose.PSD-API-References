@@ -1,51 +1,52 @@
 ---
-title: Pen.ScaleTransform
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Pen metode. Menskalakan transformasi geometris lokal dengan faktor yang ditentukan. Metode ini menambahkan matriks penskalaan ke transformasi.
+title: "Pen.ScaleTransform"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode Pen. Menskalakan transformasi geometris lokal dengan faktor yang ditentukan. Metode ini menambahkan matriks skala ke depan transformasi."
 type: docs
 weight: 220
 url: /id/net/aspose.psd/pen/scaletransform/
 ---
+{{< psd/tize >}}
 ## ScaleTransform(float, float) {#scaletransform}
 
-Menskalakan transformasi geometris lokal dengan faktor yang ditentukan. Metode ini menambahkan matriks penskalaan ke transformasi.
+Menskalakan transformasi geometrik lokal dengan faktor yang ditentukan. Metode ini menambahkan matriks skala ke depan transformasi.
 
 ```csharp
 public void ScaleTransform(float sx, float sy)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| sx | Single | Faktor yang digunakan untuk menskalakan transformasi dalam arah sumbu x. |
-| sy | Single | Faktor yang digunakan untuk menskalakan transformasi dalam arah sumbu y. |
+| sx | Single | Faktor yang digunakan untuk menskalakan transformasi pada arah sumbu x. |
+| sy | Single | Faktor yang digunakan untuk menskalakan transformasi pada arah sumbu y. |
 
-### Lihat juga
+### Lihat Juga
 
 * class [Pen](../)
-* ruang nama [Aspose.PSD](../../pen/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## ScaleTransform(float, float, MatrixOrder) {#scaletransform_1}
 
-Menskalakan transformasi geometris lokal dengan faktor yang ditentukan dalam urutan yang ditentukan.
+Menskalakan transformasi geometrik lokal dengan faktor yang ditentukan dalam urutan yang ditentukan.
 
 ```csharp
 public void ScaleTransform(float sx, float sy, MatrixOrder order)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| sx | Single | Faktor yang digunakan untuk menskalakan transformasi dalam arah sumbu x. |
-| sy | Single | Faktor yang digunakan untuk menskalakan transformasi dalam arah sumbu y. |
-| order | MatrixOrder | A[`MatrixOrder`](../../matrixorder/) yang menentukan apakah akan menambahkan atau menambahkan matriks penskalaan. |
+| sx | Single | Faktor yang digunakan untuk menskalakan transformasi pada arah sumbu x. |
+| sy | Single | Faktor yang digunakan untuk menskalakan transformasi pada arah sumbu y. |
+| order | MatrixOrder | Sebuah [`MatrixOrder`](../../matrixorder/) yang menentukan apakah akan menambahkan atau menempatkan di depan matriks skala. |
 
-### Lihat juga
+### Lihat Juga
 
 * enum [MatrixOrder](../../matrixorder/)
 * class [Pen](../)
-* ruang nama [Aspose.PSD](../../pen/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

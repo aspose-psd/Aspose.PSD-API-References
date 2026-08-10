@@ -1,27 +1,28 @@
 ---
-title: PsdImage.AdjustBrightness
-second_title: Aspose.PSD untuk Referensi .NET API
-description: PsdImage metode. Menyesuaikan kecerahan untuk gambar.
+title: "PsdImage.AdjustBrightness"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "PsdImage method. Menyesuaikan kecerahan gambar"
 type: docs
-weight: 440
+weight: 500
 url: /id/net/aspose.psd.fileformats.psd/psdimage/adjustbrightness/
 ---
+{{< psd/tize >}}
 ## PsdImage.AdjustBrightness method
 
-Menyesuaikan kecerahan untuk gambar.
+Penyesuaian kecerahan untuk gambar.
 
 ```csharp
 public override void AdjustBrightness(int brightness)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| brightness | Int32 | Nilai kecerahan. |
+| kecerahan | Int32 | Nilai kecerahan. |
 
-### Lihat juga
+### Lihat Juga
 
 * class [PsdImage](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

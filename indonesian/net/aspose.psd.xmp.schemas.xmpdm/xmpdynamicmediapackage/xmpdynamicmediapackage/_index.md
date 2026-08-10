@@ -1,11 +1,12 @@
 ---
-title: XmpDynamicMediaPackage.XmpDynamicMediaPackage
-second_title: Aspose.PSD untuk Referensi .NET API
-description: XmpDynamicMediaPackage konstruktor. Konstruktor default.
+title: "XmpDynamicMediaPackage.XmpDynamicMediaPackage"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Konstruktor XmpDynamicMediaPackage. Konstruktor default"
 type: docs
 weight: 10
 url: /id/net/aspose.psd.xmp.schemas.xmpdm/xmpdynamicmediapackage/xmpdynamicmediapackage/
 ---
+{{< psd/tize >}}
 ## XmpDynamicMediaPackage constructor
 
 Konstruktor default.
@@ -14,10 +15,10 @@ Konstruktor default.
 public XmpDynamicMediaPackage()
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [XmpDynamicMediaPackage](../)
-* ruang nama [Aspose.PSD.Xmp.Schemas.XmpDm](../../xmpdynamicmediapackage/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpDm](../../../aspose.psd.xmp.schemas.xmpdm/)
+* assembly [Aspose.PSD](../../../)
 
 

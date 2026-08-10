@@ -1,27 +1,28 @@
 ---
-title: ColorantCmyk.Magenta
-second_title: Aspose.PSD untuk Referensi .NET API
-description: ColorantCmyk Properti. Mendapat atau menetapkan nilai komponen magenta.
+title: "ColorantCmyk.Magenta"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti ColorantCmyk. Mendapatkan atau mengatur nilai komponen magenta"
 type: docs
 weight: 40
 url: /id/net/aspose.psd.xmp.types.complex.colorant/colorantcmyk/magenta/
 ---
+{{< psd/tize >}}
 ## ColorantCmyk.Magenta property
 
-Mendapat atau menetapkan nilai komponen magenta.
+Mendapatkan atau mengatur nilai komponen magenta.
 
 ```csharp
 public float Magenta { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
 Nilai komponen magenta.
 
-### Lihat juga
+### Lihat Juga
 
 * class [ColorantCmyk](../)
-* ruang nama [Aspose.PSD.Xmp.Types.Complex.Colorant](../../colorantcmyk/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.Colorant](../../../aspose.psd.xmp.types.complex.colorant/)
+* assembly [Aspose.PSD](../../../)
 
 

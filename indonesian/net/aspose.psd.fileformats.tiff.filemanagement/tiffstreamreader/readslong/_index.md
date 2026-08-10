@@ -1,31 +1,32 @@
 ---
-title: TiffStreamReader.ReadSLong
-second_title: Aspose.PSD untuk Referensi .NET API
-description: TiffStreamReader metode. Baca nilai bilangan bulat yang ditandatangani dari aliran.
+title: "TiffStreamReader.ReadSLong"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode TiffStreamReader. Membaca nilai integer bertanda dari aliran"
 type: docs
 weight: 130
 url: /id/net/aspose.psd.fileformats.tiff.filemanagement/tiffstreamreader/readslong/
 ---
+{{< psd/tize >}}
 ## TiffStreamReader.ReadSLong method
 
-Baca nilai bilangan bulat yang ditandatangani dari aliran.
+Membaca nilai integer bertanda dari aliran.
 
 ```csharp
 public int ReadSLong(long position)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| position | Int64 | Posisi untuk membaca dari. |
+| posisi | Int64 | Posisi untuk membaca dari. |
 
-### Nilai Pengembalian
+### Nilai Kembalian
 
-Nilai bilangan bulat bertanda.
+Nilai integer bertanda.
 
-### Lihat juga
+### Lihat Juga
 
 * class [TiffStreamReader](../)
-* ruang nama [Aspose.PSD.FileFormats.Tiff.FileManagement](../../tiffstreamreader/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff.FileManagement](../../../aspose.psd.fileformats.tiff.filemanagement/)
+* assembly [Aspose.PSD](../../../)
 
 

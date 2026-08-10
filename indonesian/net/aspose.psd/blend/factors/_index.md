@@ -1,27 +1,28 @@
 ---
-title: Blend.Factors
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Blend Properti. Mendapat atau mengatur array faktor campuran untuk gradien.
+title: "Blend.Factors"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti Blend. Mendapatkan atau mengatur array faktor blend untuk gradien"
 type: docs
 weight: 20
 url: /id/net/aspose.psd/blend/factors/
 ---
+{{< psd/tize >}}
 ## Blend.Factors property
 
-Mendapat atau mengatur array faktor campuran untuk gradien.
+Mendapatkan atau mengatur array faktor blend untuk gradien.
 
 ```csharp
 public float[] Factors { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
-Susunan faktor campuran yang menentukan persentase warna awal dan warna akhir yang akan digunakan pada posisi yang sesuai.
+Array faktor blend yang menentukan persentase warna awal dan warna akhir yang akan digunakan pada posisi yang bersesuaian.
 
-### Lihat juga
+### Lihat Juga
 
 * class [Blend](../)
-* ruang nama [Aspose.PSD](../../blend/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

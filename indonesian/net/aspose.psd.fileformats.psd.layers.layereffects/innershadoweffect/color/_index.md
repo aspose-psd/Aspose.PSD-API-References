@@ -1,28 +1,29 @@
 ---
-title: InnerShadowEffect.Color
-second_title: Aspose.PSD untuk Referensi .NET API
-description: InnerShadowEffect Properti. Mendapat atau mengatur warna.
+title: "InnerShadowEffect.Color"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "InnerShadowEffect property. Mendapatkan atau mengatur warna"
 type: docs
 weight: 30
 url: /id/net/aspose.psd.fileformats.psd.layers.layereffects/innershadoweffect/color/
 ---
+{{< psd/tize >}}
 ## InnerShadowEffect.Color property
 
-Mendapat atau mengatur warna.
+Mendapatkan atau mengatur warna.
 
 ```csharp
 public Color Color { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
 Warna.
 
-### Lihat juga
+### Lihat Juga
 
 * struct [Color](../../../aspose.psd/color/)
 * class [InnerShadowEffect](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../innershadoweffect/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../../)
 
 

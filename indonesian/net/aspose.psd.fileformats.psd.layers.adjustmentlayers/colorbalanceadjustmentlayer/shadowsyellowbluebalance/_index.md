@@ -1,30 +1,31 @@
 ---
-title: ColorBalanceAdjustmentLayer.ShadowsYellowBlueBalance
-second_title: Aspose.PSD untuk Referensi .NET API
-description: ColorBalanceAdjustmentLayer Properti. Mendapatkan atau menyetel Shadows YellowBlue Balance.
+title: "ColorBalanceAdjustmentLayer.ShadowsYellowBlueBalance"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "ColorBalanceAdjustmentLayer properti. Mendapatkan atau mengatur Shadows YellowBlue Balance"
 type: docs
 weight: 100
 url: /id/net/aspose.psd.fileformats.psd.layers.adjustmentlayers/colorbalanceadjustmentlayer/shadowsyellowbluebalance/
 ---
+{{< psd/tize >}}
 ## ColorBalanceAdjustmentLayer.ShadowsYellowBlueBalance property
 
-Mendapatkan atau menyetel Shadows YellowBlue Balance.
+Mendapatkan atau mengatur Shadows YellowBlue Balance.
 
 ```csharp
 public short ShadowsYellowBlueBalance { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
-Bayangan Kuning Biru Keseimbangan.
+Shadows Yellow Blue Balance.
 
 ### Pengecualian
 
 | pengecualian | kondisi |
 | --- | --- |
-| ArgumentOutOfRangeException | Bayangan Kuning Biru Saldo harus berada dalam rentang dari -100 hingga +100. |
+| ArgumentOutOfRangeException | Shadows Yellow Blue Balance harus berada dalam rentang -100 hingga +100. |
 
-### Contoh
+## Contoh
 
 Kode berikut menunjukkan dukungan untuk ColorBalanceAdjustmentLayer.
 
@@ -57,10 +58,10 @@ using (var im = (PsdImage)Image.Load(filePath))
 }
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [ColorBalanceAdjustmentLayer](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../colorbalanceadjustmentlayer/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,31 +1,32 @@
 ---
-title: PixelDataFormat.GetGrayscale
-second_title: Aspose.PSD untuk Referensi .NET API
-description: PixelDataFormat metode. Mendapatkan warna Grayscale dengan jumlah bit tertentu per sampel.
+title: "PixelDataFormat.GetGrayscale"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "PixelDataFormat method. Mendapatkan warna Grayscale dengan jumlah bit per sampel yang ditentukan."
 type: docs
 weight: 230
 url: /id/net/aspose.psd/pixeldataformat/getgrayscale/
 ---
+{{< psd/tize >}}
 ## PixelDataFormat.GetGrayscale method
 
-Mendapatkan warna Grayscale dengan jumlah bit tertentu per sampel.
+Mendapatkan warna Grayscale dengan jumlah bit per sampel yang ditentukan.
 
 ```csharp
 public static PixelDataFormat GetGrayscale(int bitsPerSample)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
 | bitsPerSample | Int32 | Jumlah bit per sampel. |
 
-### Nilai Pengembalian
+### Nilai Kembalian
 
 Warna Grayscale.
 
-### Lihat juga
+### Lihat Juga
 
 * class [PixelDataFormat](../)
-* ruang nama [Aspose.PSD](../../pixeldataformat/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,22 +1,23 @@
 ---
-title: LinkDataSource.FileCreator
-second_title: Aspose.PSD untuk Referensi .NET API
-description: LinkDataSource Properti. Mendapat atau menyetel pembuat file dalam format PSD sumber daya LnkE / Lnk2.
+title: "LinkDataSource.FileCreator"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti LinkDataSource. Mendapatkan atau mengatur pembuat file dalam sumber daya format PSD LnkE / Lnk2"
 type: docs
 weight: 50
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/filecreator/
 ---
+{{< psd/tize >}}
 ## LinkDataSource.FileCreator property
 
-Mendapat atau menyetel pembuat file dalam format PSD sumber daya LnkE / Lnk2.
+Mendapatkan atau mengatur pembuat file dalam sumber daya format PSD LnkE / Lnk2.
 
 ```csharp
 public string FileCreator { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
-Pembuat file yang berisi sumber data PSD LiFE / LiFD.
+Pembuat file yang terdapat dalam sumber data PSD LiFE / LiFD.
 
 ### Pengecualian
 
@@ -24,10 +25,10 @@ Pembuat file yang berisi sumber data PSD LiFE / LiFD.
 | --- | --- |
 | [PsdImageException](../../../aspose.psd.coreexceptions.imageformats/psdimageexception/) | Anda tidak dapat mengakses properti FileCreator. |
 
-### Lihat juga
+### Lihat Juga
 
 * class [LinkDataSource](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../linkdatasource/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

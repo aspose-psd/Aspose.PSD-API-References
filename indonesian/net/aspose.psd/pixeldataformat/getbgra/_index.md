@@ -1,31 +1,32 @@
 ---
-title: PixelDataFormat.GetBgra
-second_title: Aspose.PSD untuk Referensi .NET API
-description: PixelDataFormat metode. Mendapatkan warna BGRA dengan jumlah bit tertentu per sampel.
+title: "PixelDataFormat.GetBgra"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode PixelDataFormat. Mendapatkan warna BGRA dengan jumlah bit per sampel yang ditentukan"
 type: docs
 weight: 190
 url: /id/net/aspose.psd/pixeldataformat/getbgra/
 ---
+{{< psd/tize >}}
 ## PixelDataFormat.GetBgra method
 
-Mendapatkan warna BGRA dengan jumlah bit tertentu per sampel.
+Mendapatkan warna BGRA dengan jumlah bit per sampel yang ditentukan.
 
 ```csharp
 public static PixelDataFormat GetBgra(int bitsPerSample)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
 | bitsPerSample | Int32 | Jumlah bit per sampel. |
 
-### Nilai Pengembalian
+### Nilai Kembalian
 
 Warna BGRA.
 
-### Lihat juga
+### Lihat Juga
 
 * class [PixelDataFormat](../)
-* ruang nama [Aspose.PSD](../../pixeldataformat/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

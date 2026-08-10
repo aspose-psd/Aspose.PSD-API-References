@@ -1,23 +1,24 @@
 ---
-title: VstkResource.TypeToolKey
-second_title: Aspose.PSD untuk Referensi .NET API
-description: VstkResource bidang. Kunci info alat ketik.
+title: "VstkResource.TypeToolKey"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "VstkResource field. Kunci info alat tipe"
 type: docs
-weight: 240
+weight: 220
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources.strokeresources/vstkresource/typetoolkey/
 ---
+{{< psd/tize >}}
 ## VstkResource.TypeToolKey field
 
-Kunci info alat ketik.
+Kunci info alat tipe.
 
 ```csharp
 public const int TypeToolKey;
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [VstkResource](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.StrokeResources](../../vstkresource/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.StrokeResources](../../../aspose.psd.fileformats.psd.layers.layerresources.strokeresources/)
+* assembly [Aspose.PSD](../../../)
 
 

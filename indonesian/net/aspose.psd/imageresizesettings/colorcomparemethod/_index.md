@@ -1,28 +1,29 @@
 ---
-title: ImageResizeSettings.ColorCompareMethod
-second_title: Aspose.PSD untuk Referensi .NET API
-description: ImageResizeSettings Properti. Mendapat atau menyetel metode perbandingan warna.
+title: "ImageResizeSettings.ColorCompareMethod"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti ImageResizeSettings. Mendapatkan atau mengatur metode perbandingan warna"
 type: docs
 weight: 20
 url: /id/net/aspose.psd/imageresizesettings/colorcomparemethod/
 ---
+{{< psd/tize >}}
 ## ImageResizeSettings.ColorCompareMethod property
 
-Mendapat atau menyetel metode perbandingan warna.
+Mengambil atau mengatur metode perbandingan warna.
 
 ```csharp
 public ColorCompareMethod ColorCompareMethod { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
 Metode perbandingan warna.
 
-### Lihat juga
+### Lihat Juga
 
 * enum [ColorCompareMethod](../../colorcomparemethod/)
 * class [ImageResizeSettings](../)
-* ruang nama [Aspose.PSD](../../imageresizesettings/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

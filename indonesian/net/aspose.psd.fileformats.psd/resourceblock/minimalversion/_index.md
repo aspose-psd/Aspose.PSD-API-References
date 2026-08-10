@@ -1,11 +1,12 @@
 ---
-title: ResourceBlock.MinimalVersion
-second_title: Aspose.PSD untuk Referensi .NET API
-description: ResourceBlock Properti. Mendapatkan versi PSD minimal yang diperlukan.
+title: "ResourceBlock.MinimalVersion"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti ResourceBlock. Mendapatkan versi PSD minimal yang diperlukan"
 type: docs
 weight: 30
 url: /id/net/aspose.psd.fileformats.psd/resourceblock/minimalversion/
 ---
+{{< psd/tize >}}
 ## ResourceBlock.MinimalVersion property
 
 Mendapatkan versi PSD minimal yang diperlukan.
@@ -14,14 +15,14 @@ Mendapatkan versi PSD minimal yang diperlukan.
 public abstract int MinimalVersion { get; }
 ```
 
-### Nilai properti
+### Property Value
 
 Versi PSD minimal.
 
-### Lihat juga
+### Lihat Juga
 
 * class [ResourceBlock](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd](../../resourceblock/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

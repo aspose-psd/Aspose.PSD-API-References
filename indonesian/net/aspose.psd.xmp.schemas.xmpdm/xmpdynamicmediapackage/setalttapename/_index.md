@@ -1,27 +1,28 @@
 ---
-title: XmpDynamicMediaPackage.SetAltTapeName
-second_title: Aspose.PSD untuk Referensi .NET API
-description: XmpDynamicMediaPackage metode. Mengatur nama kaset alternatif.
+title: "XmpDynamicMediaPackage.SetAltTapeName"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "XmpDynamicMediaPackage metode. Mengatur nama pita alternatif"
 type: docs
 weight: 50
 url: /id/net/aspose.psd.xmp.schemas.xmpdm/xmpdynamicmediapackage/setalttapename/
 ---
+{{< psd/tize >}}
 ## XmpDynamicMediaPackage.SetAltTapeName method
 
-Mengatur nama kaset alternatif.
+Mengatur nama pita alternatif.
 
 ```csharp
 public void SetAltTapeName(string altTapeName)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| altTapeName | String | Nama kaset alternatif. |
+| altTapeName | String | Nama pita alternatif. |
 
-### Lihat juga
+### Lihat Juga
 
 * class [XmpDynamicMediaPackage](../)
-* ruang nama [Aspose.PSD.Xmp.Schemas.XmpDm](../../xmpdynamicmediapackage/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpDm](../../../aspose.psd.xmp.schemas.xmpdm/)
+* assembly [Aspose.PSD](../../../)
 
 

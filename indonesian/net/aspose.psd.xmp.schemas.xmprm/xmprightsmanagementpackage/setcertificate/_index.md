@@ -1,11 +1,12 @@
 ---
-title: XmpRightsManagementPackage.SetCertificate
-second_title: Aspose.PSD untuk Referensi .NET API
-description: XmpRightsManagementPackage metode. Mengatur sertifikat.
+title: "XmpRightsManagementPackage.SetCertificate"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "metode XmpRightsManagementPackage. Menetapkan sertifikat"
 type: docs
 weight: 30
 url: /id/net/aspose.psd.xmp.schemas.xmprm/xmprightsmanagementpackage/setcertificate/
 ---
+{{< psd/tize >}}
 ## XmpRightsManagementPackage.SetCertificate method
 
 Mengatur sertifikat.
@@ -14,14 +15,14 @@ Mengatur sertifikat.
 public void SetCertificate(string certificate)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| certificate | String | Sertifikat. |
+| sertifikat | String | Sertifikat. |
 
-### Lihat juga
+### Lihat Juga
 
 * class [XmpRightsManagementPackage](../)
-* ruang nama [Aspose.PSD.Xmp.Schemas.XmpRm](../../xmprightsmanagementpackage/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpRm](../../../aspose.psd.xmp.schemas.xmprm/)
+* assembly [Aspose.PSD](../../../)
 
 

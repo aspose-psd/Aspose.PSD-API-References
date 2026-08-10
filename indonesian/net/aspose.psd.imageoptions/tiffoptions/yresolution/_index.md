@@ -1,28 +1,29 @@
 ---
-title: TiffOptions.Yresolution
-second_title: Aspose.PSD untuk Referensi .NET API
-description: TiffOptions Properti. Mendapat atau mengatur resolusi y.
+title: "TiffOptions.Yresolution"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti TiffOptions. Mendapatkan atau mengatur resolusi y"
 type: docs
-weight: 690
+weight: 700
 url: /id/net/aspose.psd.imageoptions/tiffoptions/yresolution/
 ---
+{{< psd/tize >}}
 ## TiffOptions.Yresolution property
 
-Mendapat atau mengatur resolusi y.
+Mendapatkan atau mengatur resolusi y.
 
 ```csharp
 public TiffRational Yresolution { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
 Resolusi y.
 
-### Lihat juga
+### Lihat Juga
 
 * class [TiffRational](../../../aspose.psd.fileformats.tiff/tiffrational/)
 * class [TiffOptions](../)
-* ruang nama [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

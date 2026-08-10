@@ -1,24 +1,25 @@
 ---
-title: PsdImage.AddInvertAdjustmentLayer
-second_title: Aspose.PSD untuk Referensi .NET API
-description: PsdImage metode. Menambahkan lapisan penyesuaian terbalik.
+title: "PsdImage.AddInvertAdjustmentLayer"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode PsdImage. Menambahkan lapisan penyesuaian invert"
 type: docs
-weight: 360
+weight: 380
 url: /id/net/aspose.psd.fileformats.psd/psdimage/addinvertadjustmentlayer/
 ---
+{{< psd/tize >}}
 ## PsdImage.AddInvertAdjustmentLayer method
 
-Menambahkan lapisan penyesuaian terbalik.
+Menambahkan lapisan penyesuaian invers.
 
 ```csharp
 public InvertAdjustmentLayer AddInvertAdjustmentLayer()
 ```
 
-### Nilai Pengembalian
+### Nilai Kembalian
 
-Lapisan pembalik yang dibuat
+Lapisan invert yang dibuat
 
-### Contoh
+## Contoh
 
 Kode berikut menunjukkan dukungan untuk InvertAdjustmentLayer dan cara menambahkan InvertAdjustmentLayer.
 
@@ -34,11 +35,11 @@ using (var im = (PsdImage)Image.Load(filePath))
 }
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [InvertAdjustmentLayer](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/invertadjustmentlayer/)
 * class [PsdImage](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

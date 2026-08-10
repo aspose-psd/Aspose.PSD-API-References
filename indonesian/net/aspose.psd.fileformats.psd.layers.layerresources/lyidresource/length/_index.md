@@ -1,11 +1,12 @@
 ---
-title: LyidResource.Length
-second_title: Aspose.PSD untuk Referensi .NET API
-description: LyidResource Properti. Mendapatkan panjang sumber daya lapisan dalam byte.
+title: "LyidResource.Length"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "LyidResource property. Mendapatkan panjang sumber lapisan dalam byte"
 type: docs
-weight: 30
+weight: 20
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources/lyidresource/length/
 ---
+{{< psd/tize >}}
 ## LyidResource.Length property
 
 Mendapatkan panjang sumber daya lapisan dalam byte.
@@ -14,10 +15,10 @@ Mendapatkan panjang sumber daya lapisan dalam byte.
 public override int Length { get; }
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [LyidResource](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../lyidresource/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

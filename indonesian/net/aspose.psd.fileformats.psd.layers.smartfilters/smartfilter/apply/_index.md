@@ -1,28 +1,29 @@
 ---
-title: SmartFilter.Apply
-second_title: Aspose.PSD untuk Referensi .NET API
-description: SmartFilter metode. Menerapkan filter saat ini ke inputRasterImage gambar.
+title: "SmartFilter.Apply"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "SmartFilter metode. Menerapkan filter saat ini ke gambar RasterImage input"
 type: docs
 weight: 80
 url: /id/net/aspose.psd.fileformats.psd.layers.smartfilters/smartfilter/apply/
 ---
+{{< psd/tize >}}
 ## SmartFilter.Apply method
 
-Menerapkan filter saat ini ke input[`RasterImage`](../../../aspose.psd/rasterimage/) gambar.
+Menerapkan filter saat ini ke gambar [`RasterImage`](../../../aspose.psd/rasterimage/) input.
 
 ```csharp
 public void Apply(RasterImage rasterImage)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
 | rasterImage | RasterImage | Gambar raster. |
 
-### Lihat juga
+### Lihat Juga
 
 * class [RasterImage](../../../aspose.psd/rasterimage/)
 * class [SmartFilter](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.SmartFilters](../../smartfilter/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.SmartFilters](../../../aspose.psd.fileformats.psd.layers.smartfilters/)
+* assembly [Aspose.PSD](../../../)
 
 

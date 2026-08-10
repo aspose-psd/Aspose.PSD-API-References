@@ -1,47 +1,48 @@
 ---
-title: XmpBasicPackage.SetMetadataDate
-second_title: Aspose.PSD untuk Referensi .NET API
-description: XmpBasicPackage metode. Menambahkan metadata tanggal terakhir diubah.
+title: "XmpBasicPackage.SetMetadataDate"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode XmpBasicPackage. Menambahkan tanggal perubahan metadata terakhir"
 type: docs
-weight: 70
+weight: 90
 url: /id/net/aspose.psd.xmp.schemas.xmpbaseschema/xmpbasicpackage/setmetadatadate/
 ---
+{{< psd/tize >}}
 ## SetMetadataDate(DateTime) {#setmetadatadate}
 
-Menambahkan metadata tanggal terakhir diubah.
+Menambahkan tanggal terakhir perubahan metadata.
 
 ```csharp
 public void SetMetadataDate(DateTime metadataDate)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
 | metadataDate | DateTime | Tanggal metadata. |
 
-### Lihat juga
+### Lihat Juga
 
 * class [XmpBasicPackage](../)
-* ruang nama [Aspose.PSD.Xmp.Schemas.XmpBaseSchema](../../xmpbasicpackage/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpBaseSchema](../../../aspose.psd.xmp.schemas.xmpbaseschema/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## SetMetadataDate(string) {#setmetadatadate_1}
 
-Menambahkan metadata tanggal terakhir diubah.
+Menambahkan tanggal terakhir perubahan metadata.
 
 ```csharp
 public void SetMetadataDate(string metadataDate)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
 | metadataDate | String | Tanggal metadata. |
 
-### Lihat juga
+### Lihat Juga
 
 * class [XmpBasicPackage](../)
-* ruang nama [Aspose.PSD.Xmp.Schemas.XmpBaseSchema](../../xmpbasicpackage/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpBaseSchema](../../../aspose.psd.xmp.schemas.xmpbaseschema/)
+* assembly [Aspose.PSD](../../../)
 
 

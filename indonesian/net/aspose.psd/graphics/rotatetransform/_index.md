@@ -1,49 +1,50 @@
 ---
-title: Graphics.RotateTransform
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Graphics metode. Memutar transformasi geometrik lokal dengan jumlah yang ditentukan. Metode ini menambahkan rotasi ke transform.
+title: "Graphics.RotateTransform"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode Graphics. Memutar transformasi geometris lokal sebesar jumlah yang ditentukan. Metode ini menambahkan rotasi ke depan transformasi."
 type: docs
-weight: 440
+weight: 450
 url: /id/net/aspose.psd/graphics/rotatetransform/
 ---
+{{< psd/tize >}}
 ## RotateTransform(float) {#rotatetransform}
 
-Memutar transformasi geometrik lokal dengan jumlah yang ditentukan. Metode ini menambahkan rotasi ke transform.
+Memutar transformasi geometris lokal sebesar jumlah yang ditentukan. Metode ini menambahkan rotasi ke transformasi di depan.
 
 ```csharp
 public void RotateTransform(float angle)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
 | angle | Single | Sudut rotasi. |
 
-### Lihat juga
+### Lihat Juga
 
 * class [Graphics](../)
-* ruang nama [Aspose.PSD](../../graphics/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## RotateTransform(float, MatrixOrder) {#rotatetransform_1}
 
-Memutar transformasi geometris lokal dengan jumlah yang ditentukan dalam urutan yang ditentukan.
+Memutar transformasi geometris lokal sebesar jumlah yang ditentukan dalam urutan yang ditentukan.
 
 ```csharp
 public void RotateTransform(float angle, MatrixOrder order)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
 | angle | Single | Sudut rotasi. |
-| order | MatrixOrder | A[`MatrixOrder`](../../matrixorder/) yang menentukan apakah akan menambahkan atau menambahkan matriks rotasi. |
+| order | MatrixOrder | Sebuah [`MatrixOrder`](../../matrixorder/) yang menentukan apakah akan menambahkan atau menempatkan di depan matriks rotasi. |
 
-### Lihat juga
+### Lihat Juga
 
 * enum [MatrixOrder](../../matrixorder/)
 * class [Graphics](../)
-* ruang nama [Aspose.PSD](../../graphics/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

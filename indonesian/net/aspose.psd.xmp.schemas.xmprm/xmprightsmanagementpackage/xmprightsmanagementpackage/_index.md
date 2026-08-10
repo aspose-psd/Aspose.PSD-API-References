@@ -1,11 +1,12 @@
 ---
-title: XmpRightsManagementPackage.XmpRightsManagementPackage
-second_title: Aspose.PSD untuk Referensi .NET API
-description: XmpRightsManagementPackage konstruktor. Konstruktor default.
+title: "XmpRightsManagementPackage.XmpRightsManagementPackage"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "konstruktor XmpRightsManagementPackage. Konstruktor default"
 type: docs
 weight: 10
 url: /id/net/aspose.psd.xmp.schemas.xmprm/xmprightsmanagementpackage/xmprightsmanagementpackage/
 ---
+{{< psd/tize >}}
 ## XmpRightsManagementPackage constructor
 
 Konstruktor default.
@@ -14,10 +15,10 @@ Konstruktor default.
 public XmpRightsManagementPackage()
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [XmpRightsManagementPackage](../)
-* ruang nama [Aspose.PSD.Xmp.Schemas.XmpRm](../../xmprightsmanagementpackage/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpRm](../../../aspose.psd.xmp.schemas.xmprm/)
+* assembly [Aspose.PSD](../../../)
 
 

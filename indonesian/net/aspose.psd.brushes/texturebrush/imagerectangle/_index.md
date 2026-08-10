@@ -1,28 +1,29 @@
 ---
-title: TextureBrush.ImageRectangle
-second_title: Aspose.PSD untuk Referensi .NET API
-description: TextureBrush Properti. MendapatkanRectangle terkait dengan iniTextureBrush .
+title: "TextureBrush.ImageRectangle"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti TextureBrush. Mendapatkan Rectangle yang terkait dengan TextureBrush ini."
 type: docs
 weight: 40
 url: /id/net/aspose.psd.brushes/texturebrush/imagerectangle/
 ---
+{{< psd/tize >}}
 ## TextureBrush.ImageRectangle property
 
-Mendapatkan[`Rectangle`](../../../aspose.psd/rectangle/) terkait dengan ini[`TextureBrush`](../) .
+Mendapatkan [`Rectangle`](../../../aspose.psd/rectangle/) yang terkait dengan [`TextureBrush`](../) ini.
 
 ```csharp
 public RectangleF ImageRectangle { get; }
 ```
 
-### Nilai properti
+### Property Value
 
-Itu[`Rectangle`](../../../aspose.psd/rectangle/).
+[`Rectangle`](../../../aspose.psd/rectangle/).
 
-### Lihat juga
+### Lihat Juga
 
 * struct [RectangleF](../../../aspose.psd/rectanglef/)
 * class [TextureBrush](../)
-* ruang nama [Aspose.PSD.Brushes](../../texturebrush/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: Class DataMissmatchError
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Aspose.PSD.CoreExceptions.DataMissmatchError kelas. Kelas pengecualian ketidakcocokan data
+title: "Kelas DataMissmatchError"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Aspose.PSD.CoreExceptions.DataMissmatchError kelas. Kelas pengecualian ketidaksesuaian data"
 type: docs
 weight: 470
 url: /id/net/aspose.psd.coreexceptions/datamissmatcherror/
 ---
+{{< psd/tize >}}
 ## DataMissmatchError class
 
-Kelas pengecualian ketidakcocokan data
+Kelas pengecualian ketidaksesuaian data
 
 ```csharp
 public class DataMissmatchError : Exception
@@ -16,13 +17,13 @@ public class DataMissmatchError : Exception
 
 ## Konstruktor
 
-| Nama | Keterangan |
+| Nama | Deskripsi |
 | --- | --- |
-| [DataMissmatchError](datamissmatcherror/)(string) | Menginisialisasi instance baru dari`DataMissmatchError` kelas. |
+| [DataMissmatchError](datamissmatcherror/)(string) | Menginisialisasi instance baru dari kelas `DataMissmatchError`. |
 
-### Lihat juga
+### Lihat Juga
 
-* ruang nama [Aspose.PSD.CoreExceptions](../../aspose.psd.coreexceptions/)
-* perakitan [Aspose.PSD](../../)
+* namespace [Aspose.PSD.CoreExceptions](../../aspose.psd.coreexceptions/)
+* assembly [Aspose.PSD](../../)
 
 

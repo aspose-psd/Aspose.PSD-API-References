@@ -1,32 +1,33 @@
 ---
-title: SizeF.op_Explicit
-second_title: Aspose.PSD untuk Referensi .NET API
-description: SizeF metode. Mengonversi yang ditentukanSizeF ke aPointF .
+title: "SizeF.op_Explicit"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode SizeF. Mengonversi SizeF yang ditentukan menjadi PointF."
 type: docs
 weight: 150
 url: /id/net/aspose.psd/sizef/op_explicit/
 ---
+{{< psd/tize >}}
 ## SizeF Explicit operator
 
-Mengonversi yang ditentukan[`SizeF`](../) ke a[`PointF`](../../pointf/) .
+Mengonversi [`SizeF`](../) yang ditentukan menjadi [`PointF`](../../pointf/).
 
 ```csharp
 public static explicit operator PointF(SizeF size)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| size | SizeF | Itu[`SizeF`](../) struktur yang akan dikonversi |
+| size | SizeF | Struktur [`SizeF`](../) yang akan dikonversi |
 
-### Nilai Pengembalian
+### Nilai Kembalian
 
-Itu[`PointF`](../../pointf/) struktur yang dikonversi oleh operator ini.
+Struktur [`PointF`](../../pointf/) yang menjadi tujuan konversi operator ini.
 
-### Lihat juga
+### Lihat Juga
 
 * struct [PointF](../../pointf/)
 * struct [SizeF](../)
-* ruang nama [Aspose.PSD](../../sizef/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: PixelAspectRatioResource.PixelAspectRatioResource
-second_title: Aspose.PSD untuk Referensi .NET API
-description: PixelAspectRatioResource konstruktor. Konstruktor default.
+title: "PixelAspectRatioResource.PixelAspectRatioResource"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Konstruktor PixelAspectRatioResource. Konstruktor default"
 type: docs
 weight: 10
 url: /id/net/aspose.psd.fileformats.psd.resources/pixelaspectratioresource/pixelaspectratioresource/
 ---
+{{< psd/tize >}}
 ## PixelAspectRatioResource constructor
 
 Konstruktor default.
@@ -14,10 +15,10 @@ Konstruktor default.
 public PixelAspectRatioResource()
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [PixelAspectRatioResource](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Resources](../../pixelaspectratioresource/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

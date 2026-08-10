@@ -1,23 +1,24 @@
 ---
-title: AudioSampleType.Compressed
-second_title: Aspose.PSD untuk Referensi .NET API
-description: AudioSampleType Properti. Merupakan sampel audio terkompresi.
+title: "AudioSampleType.Compressed"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "AudioSampleType property. Mewakili sampel audio Compressed"
 type: docs
 weight: 10
 url: /id/net/aspose.psd.xmp.schemas.xmpdm/audiosampletype/compressed/
 ---
+{{< psd/tize >}}
 ## AudioSampleType.Compressed property
 
-Merupakan sampel audio terkompresi.
+Mewakili sampel audio terkompresi.
 
 ```csharp
 public static AudioSampleType Compressed { get; }
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [AudioSampleType](../)
-* ruang nama [Aspose.PSD.Xmp.Schemas.XmpDm](../../audiosampletype/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpDm](../../../aspose.psd.xmp.schemas.xmpdm/)
+* assembly [Aspose.PSD](../../../)
 
 

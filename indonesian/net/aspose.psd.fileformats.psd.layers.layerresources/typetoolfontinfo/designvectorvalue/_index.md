@@ -1,27 +1,28 @@
 ---
-title: TypeToolFontInfo.DesignVectorValue
-second_title: Aspose.PSD untuk Referensi .NET API
-description: TypeToolFontInfo Properti. Mendapat atau menetapkan nilai vektor desain.
+title: "TypeToolFontInfo.DesignVectorValue"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "TypeToolFontInfo properti. Mendapatkan atau mengatur nilai vektor desain"
 type: docs
 weight: 30
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources/typetoolfontinfo/designvectorvalue/
 ---
+{{< psd/tize >}}
 ## TypeToolFontInfo.DesignVectorValue property
 
-Mendapat atau menetapkan nilai vektor desain.
+Mendapatkan atau mengatur nilai vektor desain.
 
 ```csharp
 public int DesignVectorValue { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
 Nilai vektor desain.
 
-### Lihat juga
+### Lihat Juga
 
 * class [TypeToolFontInfo](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../typetoolfontinfo/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

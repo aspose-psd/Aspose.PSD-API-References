@@ -1,23 +1,24 @@
 ---
-title: PdfDocumentInfo.Title
-second_title: Aspose.PSD untuk Referensi .NET API
-description: PdfDocumentInfo Properti. Mendapat atau menetapkan judul dokumen.
+title: "PdfDocumentInfo.Title"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti PdfDocumentInfo. Mendapatkan atau mengatur judul dokumen"
 type: docs
 weight: 50
 url: /id/net/aspose.psd.fileformats.pdf/pdfdocumentinfo/title/
 ---
+{{< psd/tize >}}
 ## PdfDocumentInfo.Title property
 
-Mendapat atau menetapkan judul dokumen.
+Mendapatkan atau mengatur judul dokumen.
 
 ```csharp
 public string Title { get; set; }
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [PdfDocumentInfo](../)
-* ruang nama [Aspose.PSD.FileFormats.Pdf](../../pdfdocumentinfo/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Pdf](../../../aspose.psd.fileformats.pdf/)
+* assembly [Aspose.PSD](../../../)
 
 

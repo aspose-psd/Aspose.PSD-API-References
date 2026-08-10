@@ -1,34 +1,35 @@
 ---
-title: XmpRightsManagementPackage.SetUsageTerms
-second_title: Aspose.PSD untuk Referensi .NET API
-description: XmpRightsManagementPackage metode. Menetapkan ketentuan penggunaan.
+title: "XmpRightsManagementPackage.SetUsageTerms"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "metode XmpRightsManagementPackage. Menetapkan syarat penggunaan"
 type: docs
 weight: 60
 url: /id/net/aspose.psd.xmp.schemas.xmprm/xmprightsmanagementpackage/setusageterms/
 ---
+{{< psd/tize >}}
 ## XmpRightsManagementPackage.SetUsageTerms method
 
-Menetapkan ketentuan penggunaan.
+Mengatur syarat penggunaan.
 
 ```csharp
 public void SetUsageTerms(LangAlt usageTerms)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| usageTerms | LangAlt | Ketentuan penggunaan. |
+| usageTerms | LangAlt | Syarat penggunaan. |
 
 ### Pengecualian
 
 | pengecualian | kondisi |
 | --- | --- |
-| ArgumentNullException | Ketentuan penggunaan |
+| ArgumentNullException | usageTerms |
 
-### Lihat juga
+### Lihat Juga
 
 * class [LangAlt](../../../aspose.psd.xmp/langalt/)
 * class [XmpRightsManagementPackage](../)
-* ruang nama [Aspose.PSD.Xmp.Schemas.XmpRm](../../xmprightsmanagementpackage/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpRm](../../../aspose.psd.xmp.schemas.xmprm/)
+* assembly [Aspose.PSD](../../../)
 
 

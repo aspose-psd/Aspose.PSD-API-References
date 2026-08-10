@@ -1,11 +1,12 @@
 ---
-title: DublinCorePackage.SetPublisher
-second_title: Aspose.PSD untuk Referensi .NET API
-description: DublinCorePackage metode. Menambahkan penerbit.
+title: "DublinCorePackage.SetPublisher"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode DublinCorePackage. Menambahkan penerbit"
 type: docs
 weight: 50
 url: /id/net/aspose.psd.xmp.schemas.dublincore/dublincorepackage/setpublisher/
 ---
+{{< psd/tize >}}
 ## SetPublisher(string) {#setpublisher}
 
 Menambahkan penerbit.
@@ -14,15 +15,15 @@ Menambahkan penerbit.
 public void SetPublisher(string publisher)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| publisher | String | Penerbit. |
+| penerbit | String | Penerbit. |
 
-### Lihat juga
+### Lihat Juga
 
 * class [DublinCorePackage](../)
-* ruang nama [Aspose.PSD.Xmp.Schemas.DublinCore](../../dublincorepackage/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.DublinCore](../../../aspose.psd.xmp.schemas.dublincore/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
@@ -34,9 +35,9 @@ Menambahkan penerbit.
 public void SetPublisher(string[] publisher)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| publisher | String[] | Penerbit. |
+| penerbit | String[] | Penerbit. |
 
 ### Pengecualian
 
@@ -44,10 +45,10 @@ public void SetPublisher(string[] publisher)
 | --- | --- |
 | ArgumentNullException | penerbit |
 
-### Lihat juga
+### Lihat Juga
 
 * class [DublinCorePackage](../)
-* ruang nama [Aspose.PSD.Xmp.Schemas.DublinCore](../../dublincorepackage/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.DublinCore](../../../aspose.psd.xmp.schemas.dublincore/)
+* assembly [Aspose.PSD](../../../)
 
 

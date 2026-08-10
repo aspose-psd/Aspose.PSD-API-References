@@ -1,66 +1,67 @@
 ---
-title: PolygonShape.PolygonShape
-second_title: Aspose.PSD untuk Referensi .NET API
-description: PolygonShape konstruktor. Menginisialisasi instance baru dariPolygonShape kelas.
+title: "PolygonShape.PolygonShape"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Konstruktor PolygonShape. Menginisialisasi instance baru dari kelas PolygonShape"
 type: docs
 weight: 10
 url: /id/net/aspose.psd.shapes/polygonshape/polygonshape/
 ---
+{{< psd/tize >}}
 ## PolygonShape() {#constructor}
 
-Menginisialisasi instance baru dari[`PolygonShape`](../) kelas.
+Menginisialisasi instance baru dari kelas [`PolygonShape`](../).
 
 ```csharp
 public PolygonShape()
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [PolygonShape](../)
-* ruang nama [Aspose.PSD.Shapes](../../polygonshape/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## PolygonShape(PointF[]) {#constructor_1}
 
-Menginisialisasi instance baru dari[`PolygonShape`](../) kelas.
+Menginisialisasi instance baru dari kelas [`PolygonShape`](../).
 
 ```csharp
 public PolygonShape(PointF[] points)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| points | PointF[] | Susunan poin. |
+| titik | PointF[] | Array titik. |
 
-### Lihat juga
+### Lihat Juga
 
 * struct [PointF](../../../aspose.psd/pointf/)
 * class [PolygonShape](../)
-* ruang nama [Aspose.PSD.Shapes](../../polygonshape/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## PolygonShape(PointF[], bool) {#constructor_2}
 
-Menginisialisasi instance baru dari[`PolygonShape`](../) kelas.
+Menginisialisasi instance baru dari kelas [`PolygonShape`](../).
 
 ```csharp
 public PolygonShape(PointF[] points, bool isClosed)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| points | PointF[] | Susunan poin. |
-| isClosed | Boolean | Jika disetel ke`BENAR` poligon ditutup. |
+| titik | PointF[] | Array titik. |
+| isClosed | Boolean | Jika disetel ke `true` poligon akan tertutup. |
 
-### Lihat juga
+### Lihat Juga
 
 * struct [PointF](../../../aspose.psd/pointf/)
 * class [PolygonShape](../)
-* ruang nama [Aspose.PSD.Shapes](../../polygonshape/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 

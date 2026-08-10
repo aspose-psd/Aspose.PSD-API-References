@@ -1,14 +1,15 @@
 ---
-title: Class XmpDate
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Aspose.PSD.Xmp.Types.Basic.XmpDate kelas. Merupakan Tanggal dalam paket XMP.
+title: "Kelas XmpDate"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Kelas Aspose.PSD.Xmp.Types.Basic.XmpDate. Mewakili Tanggal dalam paket XMP"
 type: docs
-weight: 5950
+weight: 6450
 url: /id/net/aspose.psd.xmp.types.basic/xmpdate/
 ---
+{{< psd/tize >}}
 ## XmpDate class
 
-Merupakan Tanggal dalam paket XMP.
+Mewakili Tanggal dalam paket XMP.
 
 ```csharp
 public sealed class XmpDate : XmpTypeBase
@@ -16,38 +17,38 @@ public sealed class XmpDate : XmpTypeBase
 
 ## Konstruktor
 
-| Nama | Keterangan |
+| Nama | Deskripsi |
 | --- | --- |
-| [XmpDate](xmpdate/#constructor)(DateTime) | Menginisialisasi instance baru dari`XmpDate` kelas. |
-| [XmpDate](xmpdate/#constructor_1)(string) | Menginisialisasi instance baru dari`XmpDate` kelas. |
+| [XmpDate](xmpdate/#constructor)(DateTime) | Menginisialisasi instance baru dari kelas `XmpDate`. |
+| [XmpDate](xmpdate/#constructor_1)(string) | Menginisialisasi instance baru dari kelas `XmpDate`. |
 
 ## Properti
 
-| Nama | Keterangan |
+| Nama | Deskripsi |
 | --- | --- |
-| [Format](../../aspose.psd.xmp.types.basic/xmpdate/format/) { get; } | Mendapat string format untuk nilai saat ini. |
-| [Value](../../aspose.psd.xmp.types.basic/xmpdate/value/) { get; set; } | Mendapat atau menetapkan nilai tanggal. |
+| [Format](../../aspose.psd.xmp.types.basic/xmpdate/format/) { get; } | Mendapatkan string format untuk nilai saat ini. |
+| [Value](../../aspose.psd.xmp.types.basic/xmpdate/value/) { get; set; } | Mendapatkan atau mengatur nilai tanggal. |
 
 ## Metode
 
-| Nama | Keterangan |
+| Nama | Deskripsi |
 | --- | --- |
-| override [GetXmpRepresentation](../../aspose.psd.xmp.types.basic/xmpdate/getxmprepresentation/)() | Mengembalikan string berisi nilai dalam format XMP. |
+| override [GetXmpRepresentation](../../aspose.psd.xmp.types.basic/xmpdate/getxmprepresentation/)() | Mengembalikan nilai string yang terkandung dalam format XMP. |
 
 ## Bidang
 
-| Nama | Keterangan |
+| Nama | Deskripsi |
 | --- | --- |
-| const [Iso8601Format](../../aspose.psd.xmp.types.basic/xmpdate/iso8601format/) | String format ISO 8601 (pulang pergi). |
+| const [Iso8601Format](../../aspose.psd.xmp.types.basic/xmpdate/iso8601format/) | String format ISO 8601 (roundtrip). |
 
-### Perkataan
+## Catatan
 
-Nilai tanggal-waktu direpresentasikan menggunakan subset format seperti yang ditentukan dalam Format Tanggal dan Waktu: YYYY YYYY-MM YYYY-MM-DD YYYY-MM-DDThh:mmTZD YYYY-MM-DDThh:mm:ssTZD YYYY-MM-DDThh:mm:ssTZD YYYY-MM-DDThh:mm:ssTZD MM-DDThh:mm:ss.sTZD
+Nilai tanggal-waktu direpresentasikan menggunakan subset format seperti yang didefinisikan dalam Date and Time Formats: YYYY YYYY-MM YYYY-MM-DD YYYY-MM-DDThh:mmTZD YYYY-MM-DDThh:mm:ssTZD YYYY-MM-DDThh:mm:ss.sTZD
 
-### Lihat juga
+### Lihat Juga
 
 * class [XmpTypeBase](../../aspose.psd.xmp.types/xmptypebase/)
-* ruang nama [Aspose.PSD.Xmp.Types.Basic](../../aspose.psd.xmp.types.basic/)
-* perakitan [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Xmp.Types.Basic](../../aspose.psd.xmp.types.basic/)
+* assembly [Aspose.PSD](../../)
 
 

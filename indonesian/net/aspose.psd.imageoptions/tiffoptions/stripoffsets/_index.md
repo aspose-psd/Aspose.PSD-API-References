@@ -1,27 +1,28 @@
 ---
-title: TiffOptions.StripOffsets
-second_title: Aspose.PSD untuk Referensi .NET API
-description: TiffOptions Properti. Mendapat atau menyetel offset strip.
+title: "TiffOptions.StripOffsets"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "TiffOptions properti. Mendapatkan atau mengatur offset strip"
 type: docs
-weight: 470
+weight: 480
 url: /id/net/aspose.psd.imageoptions/tiffoptions/stripoffsets/
 ---
+{{< psd/tize >}}
 ## TiffOptions.StripOffsets property
 
-Mendapat atau menyetel offset strip.
+Mendapatkan atau mengatur offset strip.
 
 ```csharp
 public uint[] StripOffsets { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
 Offset strip.
 
-### Lihat juga
+### Lihat Juga
 
 * class [TiffOptions](../)
-* ruang nama [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

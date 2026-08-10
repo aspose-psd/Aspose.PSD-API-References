@@ -1,39 +1,40 @@
 ---
-title: ImageExportersRegistry.CreateFirstSupportedExporter
-second_title: Aspose.PSD untuk Referensi .NET API
-description: ImageExportersRegistry metode. Membuat pengekspor pertama yang ditemukan cocok untuk opsi penyimpanan dan gambar yang ditentukan.
+title: "ImageExportersRegistry.CreateFirstSupportedExporter"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "metode ImageExportersRegistry. Membuat pengekspor pertama yang ditemukan yang sesuai untuk opsi penyimpanan dan gambar yang ditentukan."
 type: docs
 weight: 30
 url: /id/net/aspose.psd/imageexportersregistry/createfirstsupportedexporter/
 ---
+{{< psd/tize >}}
 ## ImageExportersRegistry.CreateFirstSupportedExporter method
 
-Membuat pengekspor pertama yang ditemukan cocok untuk opsi penyimpanan dan gambar yang ditentukan.
+Membuat pengekspor pertama yang ditemukan yang cocok untuk opsi penyimpanan dan gambar yang ditentukan.
 
 ```csharp
 public static IImageExporter CreateFirstSupportedExporter(Image image, ImageOptionsBase options)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| image | Image | Gambar untuk diekspor. |
-| options | ImageOptionsBase | Opsi simpan untuk digunakan untuk ekspor. |
+| gambar | Image | Gambar yang akan diekspor. |
+| opsi | ImageOptionsBase | Opsi penyimpanan yang akan digunakan untuk mengekspor. |
 
-### Nilai Pengembalian
+### Nilai Kembalian
 
-Pengekspor yang mendukung gambar yang ditentukan dan menyimpan opsi atau null jika pengekspor tersebut tidak ditemukan.
+Pengekspor yang mendukung gambar dan opsi penyimpanan yang ditentukan atau null jika tidak ada pengekspor seperti itu yang ditemukan.
 
-### Perkataan
+## Catatan
 
-Eksportir pertama sebenarnya adalah yang terakhir terdaftar.
+Pengekspor pertama sebenarnya akan menjadi yang terakhir terdaftar.
 
-### Lihat juga
+### Lihat Juga
 
 * interface [IImageExporter](../../iimageexporter/)
 * class [Image](../../image/)
 * class [ImageOptionsBase](../../imageoptionsbase/)
 * class [ImageExportersRegistry](../)
-* ruang nama [Aspose.PSD](../../imageexportersregistry/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

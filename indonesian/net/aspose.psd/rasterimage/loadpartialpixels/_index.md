@@ -1,11 +1,12 @@
 ---
-title: RasterImage.LoadPartialPixels
-second_title: Aspose.PSD untuk Referensi .NET API
-description: RasterImage metode. Memuat piksel sebagian per paket.
+title: "RasterImage.LoadPartialPixels"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode RasterImage. Memuat piksel secara parsial per paket"
 type: docs
-weight: 390
+weight: 400
 url: /id/net/aspose.psd/rasterimage/loadpartialpixels/
 ---
+{{< psd/tize >}}
 ## RasterImage.LoadPartialPixels method
 
 Memuat piksel sebagian per paket.
@@ -14,17 +15,17 @@ Memuat piksel sebagian per paket.
 public void LoadPartialPixels(Rectangle desiredRectangle, IPartialPixelLoader pixelLoader)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
 | desiredRectangle | Rectangle | Persegi panjang yang diinginkan. |
 | pixelLoader | IPartialPixelLoader | Pemuat piksel. |
 
-### Lihat juga
+### Lihat Juga
 
 * struct [Rectangle](../../rectangle/)
 * interface [IPartialPixelLoader](../../ipartialpixelloader/)
 * class [RasterImage](../)
-* ruang nama [Aspose.PSD](../../rasterimage/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

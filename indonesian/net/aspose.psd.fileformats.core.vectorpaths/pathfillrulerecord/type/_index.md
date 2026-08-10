@@ -1,11 +1,12 @@
 ---
-title: PathFillRuleRecord.Type
-second_title: Aspose.PSD untuk Referensi .NET API
-description: PathFillRuleRecord Properti. Mendapatkan tipe.
+title: "PathFillRuleRecord.Type"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "PathFillRuleRecord properti. Mendapatkan tipe"
 type: docs
 weight: 20
 url: /id/net/aspose.psd.fileformats.core.vectorpaths/pathfillrulerecord/type/
 ---
+{{< psd/tize >}}
 ## PathFillRuleRecord.Type property
 
 Mendapatkan tipe.
@@ -14,15 +15,15 @@ Mendapatkan tipe.
 public override VectorPathType Type { get; }
 ```
 
-### Nilai properti
+### Property Value
 
-Tipe.
+Tipe tersebut.
 
-### Lihat juga
+### Lihat Juga
 
 * enum [VectorPathType](../../vectorpathtype/)
 * class [PathFillRuleRecord](../)
-* ruang nama [Aspose.PSD.FileFormats.Core.VectorPaths](../../pathfillrulerecord/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../../)
 
 

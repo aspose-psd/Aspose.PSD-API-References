@@ -1,27 +1,28 @@
 ---
-title: ExifData.SubsecTime
-second_title: Aspose.PSD untuk Referensi .NET API
-description: ExifData Properti. Mendapat atau menyetel pecahan detik untuk tag DateTime.
+title: "ExifData.SubsecTime"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti ExifData. Mendapatkan atau mengatur pecahan detik untuk tag DateTime"
 type: docs
 weight: 1030
 url: /id/net/aspose.psd.exif/exifdata/subsectime/
 ---
+{{< psd/tize >}}
 ## ExifData.SubsecTime property
 
-Mendapat atau menyetel pecahan detik untuk tag DateTime.
+Mendapatkan atau mengatur fraksi detik untuk tag DateTime.
 
 ```csharp
 public string SubsecTime { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
 Pecahan detik untuk tag DateTime.
 
-### Lihat juga
+### Lihat Juga
 
 * class [ExifData](../)
-* ruang nama [Aspose.PSD.Exif](../../exifdata/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

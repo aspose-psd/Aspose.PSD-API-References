@@ -1,24 +1,25 @@
 ---
-title: TiffOptions.ResolutionSettings
-second_title: Aspose.PSD untuk Referensi .NET API
-description: TiffOptions Properti. Mendapat atau menyetel pengaturan resolusi.
+title: "TiffOptions.ResolutionSettings"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti TiffOptions. Mendapatkan atau mengatur pengaturan resolusi"
 type: docs
-weight: 360
+weight: 370
 url: /id/net/aspose.psd.imageoptions/tiffoptions/resolutionsettings/
 ---
+{{< psd/tize >}}
 ## TiffOptions.ResolutionSettings property
 
-Mendapat atau menyetel pengaturan resolusi.
+Mendapatkan atau mengatur pengaturan resolusi.
 
 ```csharp
 public override ResolutionSetting ResolutionSettings { get; set; }
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [ResolutionSetting](../../../aspose.psd/resolutionsetting/)
 * class [TiffOptions](../)
-* ruang nama [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

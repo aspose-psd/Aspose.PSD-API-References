@@ -1,32 +1,33 @@
 ---
-title: RotateFlipExtensions.ToGdiRotateFlipType
-second_title: Aspose.PSD untuk Referensi .NET API
-description: RotateFlipExtensions metode. Mengubah Aspose.PSD.RotateFlipType menjadi System.Drawing.RotateFlipType.
+title: "RotateFlipExtensions.ToGdiRotateFlipType"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode RotateFlipExtensions. Mengonversi Aspose.PSD.RotateFlipType ke System.Drawing.RotateFlipType"
 type: docs
 weight: 10
 url: /id/net/aspose.psd.extensions/rotateflipextensions/togdirotatefliptype/
 ---
+{{< psd/tize >}}
 ## RotateFlipExtensions.ToGdiRotateFlipType method
 
-Mengubah Aspose.PSD.RotateFlipType menjadi System.Drawing.RotateFlipType.
+Mengonversi Aspose.PSD.RotateFlipType menjadi System.Drawing.RotateFlipType.
 
 ```csharp
 public static RotateFlipType ToGdiRotateFlipType(RotateFlipType rotateFlipType)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| rotateFlipType | RotateFlipType | Jenis flip putar. |
+| rotateFlipType | RotateFlipType | Jenis rotasi flip. |
 
-### Nilai Pengembalian
+### Nilai Kembalian
 
-gdi RotateFlipType
+RotateFlipType gdi
 
-### Lihat juga
+### Lihat Juga
 
 * enum [RotateFlipType](../../../aspose.psd/rotatefliptype/)
 * class [RotateFlipExtensions](../)
-* ruang nama [Aspose.PSD.Extensions](../../rotateflipextensions/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Extensions](../../../aspose.psd.extensions/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: ColorRangeHsl.LeftBorder
-second_title: Aspose.PSD untuk Referensi .NET API
-description: ColorRangeHsl Properti. Mendapat atau menyetel batas kiri.
+title: "ColorRangeHsl.LeftBorder"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti ColorRangeHsl. Mendapatkan atau mengatur batas kiri"
 type: docs
 weight: 30
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources/colorrangehsl/leftborder/
 ---
+{{< psd/tize >}}
 ## ColorRangeHsl.LeftBorder property
 
-Mendapat atau menyetel batas kiri.
+Mendapatkan atau mengatur batas kiri.
 
 ```csharp
 public short LeftBorder { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
 Batas kiri.
 
-### Lihat juga
+### Lihat Juga
 
 * class [ColorRangeHsl](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../colorrangehsl/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

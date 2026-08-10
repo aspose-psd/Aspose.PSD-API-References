@@ -1,25 +1,26 @@
 ---
-title: PlLdResource.Save
-second_title: Aspose.PSD untuk Referensi .NET API
-description: PlLdResource metode. Menyimpan sumber daya PLLD ke wadah aliran yang ditentukan.
+title: "PlLdResource.Save"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode PlLdResource. Menyimpan sumber PlLD ke kontainer aliran yang ditentukan"
 type: docs
-weight: 50
+weight: 20
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources/plldresource/save/
 ---
+{{< psd/tize >}}
 ## PlLdResource.Save method
 
-Menyimpan sumber daya PLLD ke wadah aliran yang ditentukan.
+Menyimpan sumber daya PlLD ke kontainer aliran yang ditentukan.
 
 ```csharp
 public override void Save(StreamContainer streamContainer, int psdVersion)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| streamContainer | StreamContainer | Wadah aliran untuk menyimpan. |
+| streamContainer | StreamContainer | Stream container untuk disimpan. |
 | psdVersion | Int32 | Versi PSD. |
 
-### Contoh
+## Contoh
 
 Kode berikut menunjukkan dukungan sumber daya PlLdResource.
 
@@ -203,15 +204,15 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
                 resource.Bottom = 248;
                 resource.Right = 145;
 
-                // Hati-hati dengan beberapa parameter: gambar mungkin menjadi tidak terbaca oleh Adobe® Photoshop®
+                // Hati-hati dengan beberapa parameter: gambar mungkin menjadi tidak dapat dibaca oleh Adobe® Photoshop®
                 ////resource.UOrder = 6;
                 ////resource.VOrder = 9;
 
-                // Jangan ubah ini jika tidak, Anda tidak akan dapat menggunakan transformasi bebas
-                // atau ubah smart object yang digarisbawahi menjadi tipe vektor
+                // Jangan ubah ini, jika tidak Anda tidak akan dapat menggunakan transformasi bebas.
+                // atau ubah objek pintar yang mendasari menjadi tipe vektor.
                 ////resource.PlacedLayerType = PlacedLayerType.Vector;
 
-                // Harus ada PlLdResource yang valid dengan ID unik ini
+                // Harus ada PlLdResource yang valid dengan Unique Id ini.
                 ////resource.UniqueId = new Guid("98765432-10fe-cba0-1234-56789abcdef0");
 
                 break;
@@ -224,11 +225,11 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
 }
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [StreamContainer](../../../aspose.psd/streamcontainer/)
 * class [PlLdResource](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../plldresource/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

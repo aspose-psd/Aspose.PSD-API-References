@@ -1,23 +1,24 @@
 ---
-title: SoCoResource.SoCoResource
-second_title: Aspose.PSD untuk Referensi .NET API
-description: SoCoResource konstruktor. Menginisialisasi instance baru dariSoCoResource kelas.
+title: "SoCoResource.SoCoResource"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "SoCoResource konstruktor. Menginisialisasi instance baru dari kelas SoCoResource"
 type: docs
 weight: 10
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources/socoresource/socoresource/
 ---
+{{< psd/tize >}}
 ## SoCoResource constructor
 
-Menginisialisasi instance baru dari[`SoCoResource`](../) kelas.
+Menginisialisasi instance baru dari kelas [`SoCoResource`](../).
 
 ```csharp
 public SoCoResource()
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [SoCoResource](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../socoresource/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

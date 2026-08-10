@@ -1,28 +1,29 @@
 ---
-title: Lr16Resource.Layers
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Lr16Resource Properti. Mendapat atau menyetel layer.
+title: "Lr16Resource.Layers"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti Lr16Resource. Mendapatkan atau mengatur lapisan"
 type: docs
 weight: 30
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources/lr16resource/layers/
 ---
+{{< psd/tize >}}
 ## Lr16Resource.Layers property
 
-Mendapat atau menyetel layer.
+Mendapatkan atau mengatur lapisan.
 
 ```csharp
 public Layer[] Layers { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
-Lapisan.
+Lapisan-lapisan.
 
-### Lihat juga
+### Lihat Juga
 
 * class [Layer](../../../aspose.psd.fileformats.psd.layers/layer/)
 * class [Lr16Resource](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../lr16resource/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../lr16resource/)
+* assembly [Aspose.PSD](../../../)
 
 

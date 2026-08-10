@@ -1,136 +1,137 @@
 ---
-title: Graphics.DrawPie
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Graphics metode. Menggambar bentuk pai yang ditentukan oleh elips yang ditentukan oleh aRectangleF struktur dan dua garis radial.
+title: "Graphics.DrawPie"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode Graphics. Menggambar bentuk pai yang didefinisikan oleh elips yang ditentukan oleh struktur RectangleF dan dua garis radial"
 type: docs
-weight: 280
+weight: 290
 url: /id/net/aspose.psd/graphics/drawpie/
 ---
+{{< psd/tize >}}
 ## DrawPie(Pen, RectangleF, float, float) {#drawpie_1}
 
-Menggambar bentuk pai yang ditentukan oleh elips yang ditentukan oleh a[`RectangleF`](../../rectanglef/) struktur dan dua garis radial.
+Menggambar bentuk pai yang didefinisikan oleh elips yang ditentukan oleh struktur [`RectangleF`](../../rectanglef/) dan dua garis radial.
 
 ```csharp
 public void DrawPie(Pen pen, RectangleF rect, float startAngle, float sweepAngle)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
 | pen | Pen | [`Pen`](../../pen/) yang menentukan warna, lebar, dan gaya bentuk pai. |
-| rect | RectangleF | [`RectangleF`](../../rectanglef/) struktur yang mewakili persegi panjang pembatas yang mendefinisikan elips dari mana bentuk pai berasal. |
+| rect | RectangleF | Struktur [`RectangleF`](../../rectanglef/) yang mewakili persegi pembatas yang mendefinisikan elips tempat bentuk pai berasal. |
 | startAngle | Single | Sudut diukur dalam derajat searah jarum jam dari sumbu x ke sisi pertama bentuk pai. |
-| sweepAngle | Single | Sudut diukur dalam derajat searah jarum jam dari*startAngle* parameter ke sisi kedua bentuk pai. |
+| sweepAngle | Single | Sudut diukur dalam derajat searah jarum jam dari parameter *startAngle* ke sisi kedua bentuk pai. |
 
 ### Pengecualian
 
 | pengecualian | kondisi |
 | --- | --- |
-| ArgumentNullException | *pen* adalah nol. |
+| ArgumentNullException | *pen* bernilai null. |
 
-### Lihat juga
+### Lihat Juga
 
 * class [Pen](../../pen/)
 * struct [RectangleF](../../rectanglef/)
 * class [Graphics](../)
-* ruang nama [Aspose.PSD](../../graphics/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## DrawPie(Pen, float, float, float, float, float, float) {#drawpie_3}
 
-Menggambar bentuk pai yang ditentukan oleh elips yang ditentukan oleh pasangan koordinat, lebar, tinggi, dan dua garis radial.
+Menggambar bentuk pai yang didefinisikan oleh sebuah elips yang ditentukan oleh pasangan koordinat, lebar, tinggi, dan dua garis radial.
 
 ```csharp
 public void DrawPie(Pen pen, float x, float y, float width, float height, float startAngle, 
     float sweepAngle)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
 | pen | Pen | [`Pen`](../../pen/) yang menentukan warna, lebar, dan gaya bentuk pai. |
-| x | Single | Koordinat x sudut kiri atas persegi panjang pembatas yang menentukan elips asal bentuk pai. |
-| y | Single | Koordinat y sudut kiri atas persegi panjang pembatas yang menentukan elips asal bentuk pai. |
-| width | Single | Lebar persegi panjang pembatas yang menentukan elips dari mana bentuk pai berasal. |
-| height | Single | Ketinggian persegi panjang pembatas yang menentukan elips dari mana bentuk pai berasal. |
+| x | Single | Koordinat x dari sudut kiri atas persegi pembatas yang mendefinisikan elips tempat bentuk pai berasal. |
+| y | Single | Koordinat y dari sudut kiri atas dari persegi panjang pembatas yang mendefinisikan elips tempat bentuk pai berasal. |
+| lebar | Single | Lebar persegi panjang pembatas yang mendefinisikan elips tempat bentuk pai berasal. |
+| tinggi | Single | Tinggi persegi panjang pembatas yang mendefinisikan elips tempat bentuk pai berasal. |
 | startAngle | Single | Sudut diukur dalam derajat searah jarum jam dari sumbu x ke sisi pertama bentuk pai. |
-| sweepAngle | Single | Sudut diukur dalam derajat searah jarum jam dari*startAngle* parameter ke sisi kedua bentuk pai. |
+| sweepAngle | Single | Sudut diukur dalam derajat searah jarum jam dari parameter *startAngle* ke sisi kedua bentuk pai. |
 
 ### Pengecualian
 
 | pengecualian | kondisi |
 | --- | --- |
-| ArgumentNullException | *pen* adalah nol. |
+| ArgumentNullException | *pen* bernilai null. |
 
-### Lihat juga
+### Lihat Juga
 
 * class [Pen](../../pen/)
 * class [Graphics](../)
-* ruang nama [Aspose.PSD](../../graphics/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## DrawPie(Pen, Rectangle, float, float) {#drawpie}
 
-Menggambar bentuk pai yang ditentukan oleh elips yang ditentukan oleh a[`Rectangle`](../../rectangle/) struktur dan dua garis radial.
+Menggambar bentuk pai yang didefinisikan oleh elips yang ditentukan oleh struktur [`Rectangle`](../../rectangle/) dan dua garis radial.
 
 ```csharp
 public void DrawPie(Pen pen, Rectangle rect, float startAngle, float sweepAngle)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
 | pen | Pen | [`Pen`](../../pen/) yang menentukan warna, lebar, dan gaya bentuk pai. |
-| rect | Rectangle | [`Rectangle`](../../rectangle/) struktur yang mewakili persegi panjang pembatas yang mendefinisikan elips dari mana bentuk pai berasal. |
+| rect | Rectangle | Struktur [`Rectangle`](../../rectangle/) yang mewakili persegi panjang pembatas yang mendefinisikan elips tempat bentuk pai berasal. |
 | startAngle | Single | Sudut diukur dalam derajat searah jarum jam dari sumbu x ke sisi pertama bentuk pai. |
-| sweepAngle | Single | Sudut diukur dalam derajat searah jarum jam dari*startAngle* parameter ke sisi kedua bentuk pai. |
+| sweepAngle | Single | Sudut diukur dalam derajat searah jarum jam dari parameter *startAngle* ke sisi kedua bentuk pai. |
 
 ### Pengecualian
 
 | pengecualian | kondisi |
 | --- | --- |
-| ArgumentNullException | *pen* adalah nol. |
+| ArgumentNullException | *pen* bernilai null. |
 
-### Lihat juga
+### Lihat Juga
 
 * class [Pen](../../pen/)
 * struct [Rectangle](../../rectangle/)
 * class [Graphics](../)
-* ruang nama [Aspose.PSD](../../graphics/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## DrawPie(Pen, int, int, int, int, int, int) {#drawpie_2}
 
-Menggambar bentuk pai yang ditentukan oleh elips yang ditentukan oleh pasangan koordinat, lebar, tinggi, dan dua garis radial.
+Menggambar bentuk pai yang didefinisikan oleh sebuah elips yang ditentukan oleh pasangan koordinat, lebar, tinggi, dan dua garis radial.
 
 ```csharp
 public void DrawPie(Pen pen, int x, int y, int width, int height, int startAngle, int sweepAngle)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
 | pen | Pen | [`Pen`](../../pen/) yang menentukan warna, lebar, dan gaya bentuk pai. |
-| x | Int32 | Koordinat x sudut kiri atas persegi panjang pembatas yang menentukan elips asal bentuk pai. |
-| y | Int32 | Koordinat y sudut kiri atas persegi panjang pembatas yang menentukan elips asal bentuk pai. |
-| width | Int32 | Lebar persegi panjang pembatas yang menentukan elips dari mana bentuk pai berasal. |
-| height | Int32 | Ketinggian persegi panjang pembatas yang menentukan elips dari mana bentuk pai berasal. |
+| x | Int32 | Koordinat x dari sudut kiri atas persegi pembatas yang mendefinisikan elips tempat bentuk pai berasal. |
+| y | Int32 | Koordinat y dari sudut kiri atas dari persegi panjang pembatas yang mendefinisikan elips tempat bentuk pai berasal. |
+| lebar | Int32 | Lebar persegi panjang pembatas yang mendefinisikan elips tempat bentuk pai berasal. |
+| tinggi | Int32 | Tinggi persegi panjang pembatas yang mendefinisikan elips tempat bentuk pai berasal. |
 | startAngle | Int32 | Sudut diukur dalam derajat searah jarum jam dari sumbu x ke sisi pertama bentuk pai. |
-| sweepAngle | Int32 | Sudut diukur dalam derajat searah jarum jam dari*startAngle* parameter ke sisi kedua bentuk pai. |
+| sweepAngle | Int32 | Sudut diukur dalam derajat searah jarum jam dari parameter *startAngle* ke sisi kedua bentuk pai. |
 
 ### Pengecualian
 
 | pengecualian | kondisi |
 | --- | --- |
-| ArgumentNullException | *pen* adalah nol. |
+| ArgumentNullException | *pen* bernilai null. |
 
-### Lihat juga
+### Lihat Juga
 
 * class [Pen](../../pen/)
 * class [Graphics](../)
-* ruang nama [Aspose.PSD](../../graphics/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

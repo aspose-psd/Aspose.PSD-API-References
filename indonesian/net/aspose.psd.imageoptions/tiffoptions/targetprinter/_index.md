@@ -1,27 +1,28 @@
 ---
-title: TiffOptions.TargetPrinter
-second_title: Aspose.PSD untuk Referensi .NET API
-description: TiffOptions Properti. Mendapat atau menyetel printer target.
+title: "TiffOptions.TargetPrinter"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti TiffOptions. Mendapatkan atau mengatur printer target"
 type: docs
-weight: 500
+weight: 510
 url: /id/net/aspose.psd.imageoptions/tiffoptions/targetprinter/
 ---
+{{< psd/tize >}}
 ## TiffOptions.TargetPrinter property
 
-Mendapat atau menyetel printer target.
+Mendapatkan atau mengatur printer target.
 
 ```csharp
 public string TargetPrinter { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
 Printer target.
 
-### Lihat juga
+### Lihat Juga
 
 * class [TiffOptions](../)
-* ruang nama [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: IGradientTransparencyPoint.Opacity
-second_title: Aspose.PSD untuk Referensi .NET API
-description: IGradientTransparencyPoint Properti. Mendapat atau mengatur opacity.
+title: "IGradientTransparencyPoint.Opacity"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti IGradientTransparencyPoint. Mendapatkan atau mengatur opasitas"
 type: docs
 weight: 30
 url: /id/net/aspose.psd.fileformats.psd.layers.fillsettings/igradienttransparencypoint/opacity/
 ---
+{{< psd/tize >}}
 ## IGradientTransparencyPoint.Opacity property
 
-Mendapat atau mengatur opacity.
+Mendapatkan atau mengatur opasitas.
 
 ```csharp
 public double Opacity { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
 Opasitas.
 
-### Lihat juga
+### Lihat Juga
 
 * interface [IGradientTransparencyPoint](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../igradienttransparencypoint/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../../)
 
 

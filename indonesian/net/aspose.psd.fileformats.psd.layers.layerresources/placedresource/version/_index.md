@@ -1,27 +1,28 @@
 ---
-title: PlacedResource.Version
-second_title: Aspose.PSD untuk Referensi .NET API
-description: PlacedResource Properti. Mendapat versi lapisan yang ditempatkan di file PSD biasanya 3.
+title: "PlacedResource.Version"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti PlacedResource. Mendapatkan versi dari lapisan yang ditempatkan dalam file PSD, biasanya 3"
 type: docs
-weight: 210
+weight: 200
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources/placedresource/version/
 ---
+{{< psd/tize >}}
 ## PlacedResource.Version property
 
-Mendapat versi lapisan yang ditempatkan di file PSD, biasanya 3.
+Mendapatkan versi dari lapisan yang ditempatkan dalam file PSD, biasanya 3.
 
 ```csharp
 public int Version { get; }
 ```
 
-### Nilai properti
+### Property Value
 
 Versi lapisan yang ditempatkan.
 
-### Lihat juga
+### Lihat Juga
 
 * class [PlacedResource](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../placedresource/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

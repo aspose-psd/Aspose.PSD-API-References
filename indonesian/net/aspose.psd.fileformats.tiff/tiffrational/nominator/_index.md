@@ -1,27 +1,28 @@
 ---
-title: TiffRational.Nominator
-second_title: Aspose.PSD untuk Referensi .NET API
-description: TiffRational Properti. Mendapat nominator.
+title: "TiffRational.Nominator"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti TiffRational. Mengambil pembilang"
 type: docs
 weight: 40
 url: /id/net/aspose.psd.fileformats.tiff/tiffrational/nominator/
 ---
+{{< psd/tize >}}
 ## TiffRational.Nominator property
 
-Mendapat nominator.
+Mendapatkan pembilang.
 
 ```csharp
 public uint Nominator { get; }
 ```
 
-### Nilai properti
+### Property Value
 
-Nominator.
+Pembilang.
 
-### Lihat juga
+### Lihat Juga
 
 * class [TiffRational](../)
-* ruang nama [Aspose.PSD.FileFormats.Tiff](../../tiffrational/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff](../../../aspose.psd.fileformats.tiff/)
+* assembly [Aspose.PSD](../../../)
 
 

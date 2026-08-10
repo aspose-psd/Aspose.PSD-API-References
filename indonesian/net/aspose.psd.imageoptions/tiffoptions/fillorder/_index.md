@@ -1,28 +1,29 @@
 ---
-title: TiffOptions.FillOrder
-second_title: Aspose.PSD untuk Referensi .NET API
-description: TiffOptions Properti. Mendapat atau menyetel urutan pengisian bit byte.
+title: "TiffOptions.FillOrder"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti TiffOptions. Mendapatkan atau mengatur urutan pengisian bit byte"
 type: docs
-weight: 160
+weight: 170
 url: /id/net/aspose.psd.imageoptions/tiffoptions/fillorder/
 ---
+{{< psd/tize >}}
 ## TiffOptions.FillOrder property
 
-Mendapat atau menyetel urutan pengisian bit byte.
+Mendapatkan atau mengatur urutan pengisian bit byte.
 
 ```csharp
 public TiffFillOrders FillOrder { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
-Urutan pengisian byte bit.
+Urutan pengisian bit byte.
 
-### Lihat juga
+### Lihat Juga
 
 * enum [TiffFillOrders](../../../aspose.psd.fileformats.tiff.enums/tifffillorders/)
 * class [TiffOptions](../)
-* ruang nama [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

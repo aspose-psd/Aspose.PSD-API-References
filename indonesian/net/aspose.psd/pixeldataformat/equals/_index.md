@@ -1,31 +1,32 @@
 ---
-title: PixelDataFormat.Equals
-second_title: Aspose.PSD untuk Referensi .NET API
-description: PixelDataFormat metode. Menentukan apakah yang ditentukanObject sama dengan instance ini.
+title: "PixelDataFormat.Equals"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode PixelDataFormat. Menentukan apakah Object yang ditentukan sama dengan instance ini."
 type: docs
 weight: 350
 url: /id/net/aspose.psd/pixeldataformat/equals/
 ---
+{{< psd/tize >}}
 ## PixelDataFormat.Equals method
 
-Menentukan apakah yang ditentukanObject sama dengan instance ini.
+Menentukan apakah Objek yang ditentukan sama dengan instance ini.
 
 ```csharp
 public override bool Equals(object obj)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| obj | Object | ItuObject untuk membandingkan dengan contoh ini. |
+| obj | Object | Object untuk dibandingkan dengan instance ini. |
 
-### Nilai Pengembalian
+### Nilai Kembalian
 
-`BENAR` jika ditentukanObject sama dengan contoh ini; jika tidak,`PALSU` .
+`true` jika Object yang ditentukan sama dengan instance ini; jika tidak, `false`.
 
-### Lihat juga
+### Lihat Juga
 
 * class [PixelDataFormat](../)
-* ruang nama [Aspose.PSD](../../pixeldataformat/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

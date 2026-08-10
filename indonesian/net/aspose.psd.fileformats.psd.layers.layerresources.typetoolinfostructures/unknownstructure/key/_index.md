@@ -1,23 +1,24 @@
 ---
-title: UnknownStructure.Key
-second_title: Aspose.PSD untuk Referensi .NET API
-description: UnknownStructure Properti. Mendapat kunci struktur.
+title: "UnknownStructure.Key"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "UnknownStructure properti. Mendapatkan kunci struktur"
 type: docs
 weight: 30
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/unknownstructure/key/
 ---
+{{< psd/tize >}}
 ## UnknownStructure.Key property
 
-Mendapat kunci struktur.
+Mendapatkan kunci struktur.
 
 ```csharp
 public override int Key { get; }
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [UnknownStructure](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../unknownstructure/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 

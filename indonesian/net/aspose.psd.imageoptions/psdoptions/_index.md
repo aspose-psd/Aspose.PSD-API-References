@@ -1,14 +1,15 @@
 ---
-title: Class PsdOptions
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Aspose.PSD.ImageOptions.PsdOptions kelas. Format file psd buat opsi.
+title: "Kelas PsdOptions"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Kelas Aspose.PSD.ImageOptions.PsdOptions. Opsi pembuatan format file psd."
 type: docs
-weight: 4900
+weight: 5390
 url: /id/net/aspose.psd.imageoptions/psdoptions/
 ---
+{{< psd/tize >}}
 ## PsdOptions class
 
-Format file psd buat opsi.
+Opsi pembuatan format file psd.
 
 ```csharp
 public class PsdOptions : ImageOptionsBase
@@ -16,47 +17,49 @@ public class PsdOptions : ImageOptionsBase
 
 ## Konstruktor
 
-| Nama | Keterangan |
+| Nama | Deskripsi |
 | --- | --- |
-| [PsdOptions](psdoptions/#constructor)() | Menginisialisasi instance baru dari`PsdOptions` kelas. |
-| [PsdOptions](psdoptions/#constructor_1)(PsdImage) | Menginisialisasi instance baru dari`PsdOptions` kelas. |
-| [PsdOptions](psdoptions/#constructor_2)(PsdOptions) | Menginisialisasi instance baru dari`PsdOptions` kelas. |
+| [PsdOptions](psdoptions/#constructor)() | Menginisialisasi instance baru dari kelas `PsdOptions`. |
+| [PsdOptions](psdoptions/#constructor_1)(PsdImage) | Menginisialisasi instance baru dari kelas `PsdOptions`. |
+| [PsdOptions](psdoptions/#constructor_2)(PsdOptions) | Menginisialisasi instance baru dari kelas `PsdOptions`. |
 
 ## Properti
 
-| Nama | Keterangan |
+| Nama | Deskripsi |
 | --- | --- |
-| [BufferSizeHint](../../aspose.psd/imageoptionsbase/buffersizehint/) { get; set; } | Mendapat atau menyetel petunjuk ukuran buffer yang ditentukan ukuran maksimum yang diizinkan untuk semua buffer internal. |
-| [ChannelBitsCount](../../aspose.psd.imageoptions/psdoptions/channelbitscount/) { get; set; } | Mendapat atau menyetel jumlah bit per saluran warna. |
-| [ChannelsCount](../../aspose.psd.imageoptions/psdoptions/channelscount/) { get; set; } | Mendapat atau menyetel jumlah saluran warna. |
-| [ColorMode](../../aspose.psd.imageoptions/psdoptions/colormode/) { get; set; } | Mendapat atau menyetel mode warna psd. |
-| [CompressionMethod](../../aspose.psd.imageoptions/psdoptions/compressionmethod/) { get; set; } | Mendapat atau menyetel metode kompresi psd. |
-| virtual [DefaultReplacementFont](../../aspose.psd/imageoptionsbase/defaultreplacementfont/) { get; set; } | Mendapat atau menyetel font pengganti default (font yang akan digunakan untuk menggambar teks saat mengekspor ke raster, jika font layer yang ada di file PSD tidak disajikan di sistem). Untuk mengambil nama yang tepat dari font default dapat digunakan potongan kode selanjutnya : System.Drawing.Text.InstalledFontCollection col = new System.Drawing.Text.InstalledFontCollection(); System.Drawing.FontFamily[] keluarga = col.Families; string defaultFontName = keluarga[0].Nama; PsdLoadOptions psdLoadOptions = new PsdLoadOptions() { DefaultReplacementFont = defaultFontName }); |
-| [Disposed](../../aspose.psd/disposableobject/disposed/) { get; } | Mendapat nilai yang menunjukkan apakah instance ini dibuang. |
-| [FullFrame](../../aspose.psd/imageoptionsbase/fullframe/) { get; set; } | Mendapat atau menetapkan nilai yang menunjukkan apakah [full frame]. |
-| [MultiPageOptions](../../aspose.psd/imageoptionsbase/multipageoptions/) { get; set; } | Opsi multi halaman |
-| virtual [Palette](../../aspose.psd/imageoptionsbase/palette/) { get; set; } | Mendapat atau menyetel palet warna. |
-| [ProgressEventHandler](../../aspose.psd/imageoptionsbase/progresseventhandler/) { get; set; } | Mendapat atau menyetel pengendali event progres. |
-| [PsdVersion](../../aspose.psd.imageoptions/psdoptions/psdversion/) { get; set; } | Mendapat atau menyetel versi format file. Bisa PSD atau PSB. |
-| [RefreshImagePreviewData](../../aspose.psd.imageoptions/psdoptions/refreshimagepreviewdata/) { get; set; } | Mendapat atau menyetel nilai yang menunjukkan apakah [segarkan data pratinjau gambar] - opsi yang digunakan untuk memaksimalkan kompatibilitas dengan pemirsa gambar PSD lainnya. Perlu diketahui, gambar lapisan teks ke tata letak akhir tidak didukung untuk platform Compact Framework |
-| [RemoveGlobalTextEngineResource](../../aspose.psd.imageoptions/psdoptions/removeglobaltextengineresource/) { get; set; } | Mendapat atau menyetel nilai yang menunjukkan apakah - Hapus sumber daya mesin teks global - Digunakan untuk beberapa file psd berlapis teks, hanya jika file tersebut tidak dapat dibuka di Adobe Photoshop setelah diproses (kebanyakan untuk font yang tidak ada terkait lapisan teks). Setelah menggunakan opsi ini, pengguna perlu Membuat file selanjutnya yang dibuka di Photoshop: Menu "Teks" -&gt; "Proses font yang tidak ada". Setelah operasi itu, semua teks akan muncul lagi. Perhatikan, bahwa operasi ini dapat menyebabkan beberapa perubahan tata letak akhir. |
-| virtual [ResolutionSettings](../../aspose.psd/imageoptionsbase/resolutionsettings/) { get; set; } | Mendapat atau menyetel pengaturan resolusi. |
-| [Resources](../../aspose.psd.imageoptions/psdoptions/resources/) { get; set; } | Mendapat atau menyetel sumber daya psd. |
-| [Source](../../aspose.psd/imageoptionsbase/source/) { get; set; } | Mendapatkan atau menyetel sumber untuk membuat gambar. |
-| [VectorRasterizationOptions](../../aspose.psd/imageoptionsbase/vectorrasterizationoptions/) { get; set; } | Mendapat atau menyetel opsi rasterisasi vektor. |
-| [Version](../../aspose.psd.imageoptions/psdoptions/version/) { get; set; } | Mendapat atau menyetel versi file psd. |
-| override [XmpData](../../aspose.psd.imageoptions/psdoptions/xmpdata/) { get; set; } | Dapatkan atau setel penampung data XMP |
+| [BackgroundContents](../../aspose.psd.imageoptions/psdoptions/backgroundcontents/) { get; set; } | Mendapatkan atau mengatur warna latar belakang. Dapat dilihat di bawah objek transparan. |
+| [BufferSizeHint](../../aspose.psd/imageoptionsbase/buffersizehint/) { get; set; } | Mendapatkan atau mengatur petunjuk ukuran buffer yang didefinisikan sebagai ukuran maksimum yang diizinkan untuk semua buffer internal. |
+| [ChannelBitsCount](../../aspose.psd.imageoptions/psdoptions/channelbitscount/) { get; set; } | Mendapatkan atau mengatur jumlah bit per saluran warna. |
+| [ChannelsCount](../../aspose.psd.imageoptions/psdoptions/channelscount/) { get; set; } | Mendapatkan atau mengatur jumlah saluran warna. |
+| [ColorMode](../../aspose.psd.imageoptions/psdoptions/colormode/) { get; set; } | Mendapatkan atau mengatur mode warna psd. |
+| [CompressionMethod](../../aspose.psd.imageoptions/psdoptions/compressionmethod/) { get; set; } | Mendapatkan atau mengatur metode kompresi psd. |
+| virtual [DefaultReplacementFont](../../aspose.psd/imageoptionsbase/defaultreplacementfont/) { get; set; } | Mendapatkan atau mengatur font pengganti default (font yang akan digunakan untuk menggambar teks saat mengekspor ke raster, jika font lapisan yang ada dalam file PSD tidak tersedia di sistem). Untuk memperoleh nama font default yang tepat dapat digunakan cuplikan kode berikut: System.Drawing.Text.InstalledFontCollection col = new System.Drawing.Text.InstalledFontCollection(); System.Drawing.FontFamily[] families = col.Families; string defaultFontName = families[0].Name; PsdLoadOptions psdLoadOptions = new PsdLoadOptions() { DefaultReplacementFont = defaultFontName }); |
+| [Disposed](../../aspose.psd/disposableobject/disposed/) { get; } | Mendapatkan nilai yang menunjukkan apakah instansi ini telah dibuang. |
+| [FullFrame](../../aspose.psd/imageoptionsbase/fullframe/) { get; set; } | Mendapatkan atau mengatur nilai yang menunjukkan apakah [full frame]. |
+| [MultiPageOptions](../../aspose.psd/imageoptionsbase/multipageoptions/) { get; set; } | Opsi multipage |
+| virtual [Palette](../../aspose.psd/imageoptionsbase/palette/) { get; set; } | Mendapatkan atau mengatur palet warna. |
+| [ProgressEventHandler](../../aspose.psd/imageoptionsbase/progresseventhandler/) { get; set; } | Mendapatkan atau mengatur penangan acara kemajuan. |
+| [PsdVersion](../../aspose.psd.imageoptions/psdoptions/psdversion/) { get; set; } | Mendapatkan atau mengatur versi format file. Bisa berupa PSD atau PSB. |
+| [RefreshImagePreviewData](../../aspose.psd.imageoptions/psdoptions/refreshimagepreviewdata/) { get; set; } | Mendapatkan atau mengatur nilai yang menunjukkan apakah [refresh image preview data] - opsi yang digunakan untuk memaksimalkan kompatibilitas dengan penampil gambar PSD lainnya. Harap dicatat, menggambar lapisan teks ke tata letak akhir tidak didukung untuk platform Compact Framework. |
+| [RemoveGlobalTextEngineResource](../../aspose.psd.imageoptions/psdoptions/removeglobaltextengineresource/) { get; set; } | Mendapatkan atau mengatur nilai yang menunjukkan apakah - Hapus sumber daya mesin teks global - Digunakan untuk beberapa file psd berlapis teks, hanya dalam kasus ketika mereka tidak dapat dibuka di Adobe Photoshop setelah diproses (biasanya terkait lapisan teks dengan font yang tidak ada). Setelah menggunakan opsi ini, pengguna perlu melakukan langkah berikut pada file yang dibuka di Photoshop: Menu "Text" -> "Process absent fonts". Setelah operasi itu semua teks akan muncul kembali. Harap dicatat, bahwa operasi ini dapat menyebabkan beberapa perubahan pada tata letak akhir. |
+| virtual [ResolutionSettings](../../aspose.psd/imageoptionsbase/resolutionsettings/) { get; set; } | Mendapatkan atau mengatur pengaturan resolusi. |
+| [Resources](../../aspose.psd.imageoptions/psdoptions/resources/) { get; set; } | Mendapatkan atau mengatur sumber daya psd. Jika nilai: NULL - maka simpan ImageResources asli (perilaku default) Tidak Kosong - maka simpan sumber daya yang diberikan ke properti ini + [required resources] Kosong - maka hanya [required resources] yang disimpan. Sumber daya yang diperlukan: ResolutionInfoResource, XmpResource |
+| [Source](../../aspose.psd/imageoptionsbase/source/) { get; set; } | Mendapatkan atau mengatur sumber untuk membuat gambar di dalamnya. |
+| [UpdateMetadata](../../aspose.psd.imageoptions/psdoptions/updatemetadata/) { get; set; } | Mendapatkan atau mengatur nilai yang menunjukkan apakah [update metadata]. Jika nilai true, metadata akan diperbarui saat menyimpan gambar. |
+| [VectorRasterizationOptions](../../aspose.psd/imageoptionsbase/vectorrasterizationoptions/) { get; set; } | Mendapatkan atau mengatur opsi rasterisasi vektor. |
+| [Version](../../aspose.psd.imageoptions/psdoptions/version/) { get; set; } | Mendapatkan atau mengatur versi file psd. |
+| override [XmpData](../../aspose.psd.imageoptions/psdoptions/xmpdata/) { get; set; } | Dapatkan atau atur kontainer data XMP |
 
 ## Metode
 
-| Nama | Keterangan |
+| Nama | Deskripsi |
 | --- | --- |
-| virtual [Clone](../../aspose.psd/imageoptionsbase/clone/)() | Menggandakan instance ini. |
+| virtual [Clone](../../aspose.psd/imageoptionsbase/clone/)() | Mengkloning instance ini. |
 | [Dispose](../../aspose.psd/disposableobject/dispose/)() | Membuang instance saat ini. |
 
-### Contoh
+## Contoh
 
-Contoh berikut menunjukkan bagaimana Anda dapat mengekspor file AI ke format PSD dan PNG di Aspose.PSD
+Contoh berikut menunjukkan cara Anda dapat mengekspor file AI ke format PSD dan PNG dalam Aspose.PSD
 
 ```csharp
 [C#]
@@ -70,29 +73,29 @@ using (AiImage image = (AiImage)Image.Load(sourceFileName))
 }
 ```
 
-Contoh ini membuat file Gambar baru di beberapa lokasi disk seperti yang ditentukan oleh properti Sumber dari instance PsdOptions. Beberapa properti untuk instance PsdOptions diatur sebelum membuat gambar sebenarnya. Terutama properti Sumber, yang mengacu pada lokasi disk sebenarnya dalam kasus ini.
+Contoh ini membuat file Image baru di lokasi disk tertentu sebagaimana ditentukan oleh properti Source dari instance PsdOptions. Beberapa properti untuk instance PsdOptions diatur sebelum membuat gambar sebenarnya. Khususnya properti Source, yang merujuk ke lokasi disk aktual dalam kasus ini.
 
 ```csharp
 [C#]
 
-//Buat instance PsdOptions dan atur berbagai propertinya
+//Buat sebuah instance dari PsdOptions dan atur berbagai propertinya
 Aspose.PSD.ImageOptions.PsdOptions psdOptions = new Aspose.PSD.ImageOptions.PsdOptions();
 
-//Buat turunan FileCreateSource dan tetapkan sebagai Sumber untuk turunan PsdOptions
-//Parameter Boolean kedua menentukan apakah file yang akan dibuat IsTemporal atau tidak
+//Buat sebuah instance dari FileCreateSource dan tetapkan sebagai Source untuk instance PsdOptions
+//Parameter Boolean kedua menentukan apakah file yang akan dibuat bersifat IsTemporal atau tidak
 psdOptions.Source = new Aspose.PSD.Sources.FileCreateSource(@"C:\temp\sample.psd", false);
 
-//Buat instance Image dan inisialisasi dengan instance PsdOptions dengan memanggil metode Create
+//Buat sebuah instance dari Image dan inisialisasi dengan instance PsdOptions dengan memanggil metode Create
 using (Aspose.PSD.Image image = Aspose.PSD.Image.Create(psdOptions, 500, 500))
 {
-    //melakukan beberapa pemrosesan gambar
+    //lakukan beberapa pemrosesan gambar
 
     // simpan semua perubahan
     image.Save();
 }
 ```
 
-Contoh berikut menunjukkan bahwa membaca dan menyimpan file PSD Grayscale 16 bit ke 16bit per saluran RGB berfungsi dengan benar dan tanpa pengecualian.
+Contoh berikut menunjukkan bahwa membaca dan menyimpan file PSD Grayscale 16 bit ke RGB 16 bit per saluran berfungsi dengan benar dan tanpa pengecualian.
 
 ```csharp
 [C#]
@@ -120,12 +123,12 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
 string pngExportPath = Path.ChangeExtension(exportFilePath, "png");
 using (PsdImage image = (PsdImage)Image.Load(exportFilePath))
 {
-    // Tidak terkecuali.
+    // Tidak seharusnya ada pengecualian di sini.
     image.Save(pngExportPath, new PngOptions() { ColorType = PngColorType.GrayscaleWithAlpha });
 }
 ```
 
-Contoh berikut menunjukkan bahwa membaca dan menyimpan file PSD Grayscale 16 bit ke 8 bit per saluran Grayscale bekerja dengan benar dan tanpa pengecualian.
+Contoh berikut menunjukkan bahwa membaca dan menyimpan file PSD Grayscale 16 bit ke Grayscale 8 bit per saluran berfungsi dengan benar dan tanpa pengecualian.
 
 ```csharp
 [C#]
@@ -153,12 +156,12 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
 string pngExportPath = Path.ChangeExtension(exportFilePath, "png");
 using (PsdImage image = (PsdImage)Image.Load(exportFilePath))
 {
-    // Tidak terkecuali.
+    // Tidak seharusnya ada pengecualian di sini.
     image.Save(pngExportPath, new PngOptions() { ColorType = PngColorType.GrayscaleWithAlpha });
 }
 ```
 
-Contoh berikut menunjukkan bagaimana Anda bisa menggunakan mode campuran lapisan PassThrough di Aspose.PSD
+Contoh berikut menunjukkan cara Anda dapat menggunakan mode campuran lapisan PassThrough dalam Aspose.PSD
 
 ```csharp
 [C#]
@@ -199,7 +202,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFileName))
 }
 ```
 
-Contoh berikut menunjukkan bahwa progres konversi dokumen bekerja dengan benar dan tanpa pengecualian.
+Contoh berikut menunjukkan bahwa kemajuan konversi dokumen berfungsi dengan benar dan tanpa pengecualian.
 
 ```csharp
 [C#]
@@ -243,52 +246,52 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath, loadOptions))
 }
 ```
 
-Contoh ini menunjukkan cara Memuat informasi Piksel dalam Larik Berjenis Warna, memanipulasi larik, dan mengaturnya kembali ke gambar. Untuk melakukan operasi ini, contoh ini membuat file Gambar baru (dalam format PSD) menggunakan objek MemoryStream.
+Contoh ini menunjukkan cara memuat informasi Piksel dalam Array bertipe Color, memanipulasi array tersebut, dan mengembalikannya ke gambar. Untuk melakukan operasi ini, contoh ini membuat file Image baru (dalam format PSD) menggunakan objek MemoryStream.
 
 ```csharp
 [C#]
 
-//Buat instance dari MemoryStream
+//Buat sebuah instance dari MemoryStream
 using (System.IO.MemoryStream stream = new System.IO.MemoryStream())
 {
-    //Buat instance PsdOptions dan atur berbagai propertinya termasuk properti Sumber
+    //Buat sebuah instance dari PsdOptions dan atur berbagai propertinya termasuk properti Source
     Aspose.PSD.ImageOptions.PsdOptions psdOptions = new Aspose.PSD.ImageOptions.PsdOptions();
     psdOptions.Source = new Aspose.PSD.Sources.StreamSource(stream);
 
-    //Buat instance dari Gambar
+    //Buat sebuah instance dari Image
     using (Aspose.PSD.RasterImage image = (Aspose.PSD.RasterImage)Aspose.PSD.Image.Create(psdOptions, 500, 500))
     {
-        // Dapatkan piksel gambar dengan menentukan area sebagai batas gambar
+        //Dapatkan piksel gambar dengan menentukan area sebagai batas gambar
         Aspose.PSD.Color[] pixels = image.LoadPixels(image.Bounds);
 
-        // Ulangi Array dan atur warna piksel terindeks alrenatif
+        //Iterasi array dan atur warna piksel terindeks alternatif
         for (int index = 0; index < pixels.Length; index++)
         {
             if (index % 2 == 0)
             {
-                //Atur warna piksel yang diindeks menjadi kuning
+                //Atur warna piksel terindeks menjadi kuning
                 pixels[index] = Aspose.PSD.Color.Yellow;
             }
             else
             {
-                //Atur warna piksel yang diindeks menjadi biru
+                //Atur warna piksel terindeks menjadi biru
                 pixels[index] = Aspose.PSD.Color.Blue;
             }
         }
 
-        //Terapkan perubahan piksel pada gambar
+        //Terapkan perubahan piksel ke gambar
         image.SavePixels(image.Bounds, pixels);
 
         // simpan semua perubahan.
         image.Save();
     }
 
-    // Tulis MemoryStream ke File
+    //Tulis MemoryStream ke File
     stream.WriteTo(new System.IO.FileStream(@"C:\temp\output.psd", System.IO.FileMode.CreateNew));
 }
 ```
 
-Contoh berikut menunjukkan bahwa membaca dan menyimpan file PSD Grayscale 16 bit bekerja dengan benar dan tanpa pengecualian.
+Contoh berikut menunjukkan bahwa membaca dan menyimpan file PSD 16 bit Grayscale bekerja dengan benar dan tanpa pengecualian.
 
 ```csharp
 [C#]
@@ -334,7 +337,7 @@ void SaveToPsdThenLoadAndSaveToPng(
     string pngExportPath = Path.ChangeExtension(exportPath, "png");
     using (PsdImage image = (PsdImage)Image.Load(exportPath))
     {
-        // Tidak terkecuali.
+        // Tidak seharusnya ada pengecualian di sini.
         image.Save(pngExportPath, new PngOptions() { ColorType = PngColorType.GrayscaleWithAlpha });
     }
 
@@ -350,10 +353,10 @@ SaveToPsdThenLoadAndSaveToPng("cmyk16bit_5x5_no_layers", ColorModes.Grayscale, 1
 SaveToPsdThenLoadAndSaveToPng("index8bit_5x5", ColorModes.Grayscale, 16, 2, CompressionMethod.RLE, -1);
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [ImageOptionsBase](../../aspose.psd/imageoptionsbase/)
-* ruang nama [Aspose.PSD.ImageOptions](../../aspose.psd.imageoptions/)
-* perakitan [Aspose.PSD](../../)
+* namespace [Aspose.PSD.ImageOptions](../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../)
 
 

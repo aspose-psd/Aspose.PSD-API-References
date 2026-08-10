@@ -1,28 +1,29 @@
 ---
-title: FillLayer.FillType
-second_title: Aspose.PSD untuk Referensi .NET API
-description: FillLayer Properti. Mendapat jenis isian.
+title: "FillLayer.FillType"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti FillLayer. Mendapatkan tipe isian."
 type: docs
 weight: 30
 url: /id/net/aspose.psd.fileformats.psd.layers.filllayers/filllayer/filltype/
 ---
+{{< psd/tize >}}
 ## FillLayer.FillType property
 
-Mendapat jenis isian.
+Mendapatkan tipe pengisian.
 
 ```csharp
 public FillType FillType { get; }
 ```
 
-### Nilai properti
+### Property Value
 
-Jenis isian.
+Tipe pengisian.
 
-### Lihat juga
+### Lihat Juga
 
 * enum [FillType](../../../aspose.psd.fileformats.psd.layers.fillsettings/filltype/)
 * class [FillLayer](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.FillLayers](../../filllayer/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillLayers](../../../aspose.psd.fileformats.psd.layers.filllayers/)
+* assembly [Aspose.PSD](../../../)
 
 

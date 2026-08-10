@@ -1,33 +1,34 @@
 ---
-title: ILayerResourceLoader.CanLoad
-second_title: Aspose.PSD untuk Referensi .NET API
-description: ILayerResourceLoader metode. Menentukan apakah sumber daya lapisan dapat dimuat dari yang ditentukanStreamContainer .
+title: "ILayerResourceLoader.CanLoad"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode ILayerResourceLoader. Menentukan apakah sumber daya lapisan dapat dimuat dari StreamContainer yang ditentukan"
 type: docs
 weight: 10
 url: /id/net/aspose.psd.fileformats.psd.layers/ilayerresourceloader/canload/
 ---
+{{< psd/tize >}}
 ## ILayerResourceLoader.CanLoad method
 
-Menentukan apakah sumber daya lapisan dapat dimuat dari yang ditentukan[`StreamContainer`](../../../aspose.psd/streamcontainer/) .
+Menentukan apakah sumber daya lapisan dapat dimuat dari [`StreamContainer`](../../../aspose.psd/streamcontainer/).
 
 ```csharp
 public bool CanLoad(StreamContainer streamContainer, int psdVersion)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| streamContainer | StreamContainer | Wadah aliran. |
+| streamContainer | StreamContainer | Kontainer aliran. |
 | psdVersion | Int32 | Versi PSD. |
 
-### Nilai Pengembalian
+### Nilai Kembalian
 
-`BENAR` jika sumber daya lapisan dapat dimuat dari yang ditentukan[`StreamContainer`](../../../aspose.psd/streamcontainer/) ; jika tidak,`PALSU` .
+`true` jika sumber daya lapisan dapat dimuat dari [`StreamContainer`](../../../aspose.psd/streamcontainer/); jika tidak, `false`.
 
-### Lihat juga
+### Lihat Juga
 
 * class [StreamContainer](../../../aspose.psd/streamcontainer/)
 * interface [ILayerResourceLoader](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers](../../ilayerresourceloader/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

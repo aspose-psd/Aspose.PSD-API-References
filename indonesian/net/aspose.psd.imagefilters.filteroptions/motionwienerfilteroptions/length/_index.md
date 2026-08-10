@@ -1,27 +1,28 @@
 ---
-title: MotionWienerFilterOptions.Length
-second_title: Aspose.PSD untuk Referensi .NET API
-description: MotionWienerFilterOptions Properti. Mendapat atau menyetel panjang.
+title: "MotionWienerFilterOptions.Length"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti MotionWienerFilterOptions. Mendapatkan atau mengatur panjang"
 type: docs
 weight: 30
 url: /id/net/aspose.psd.imagefilters.filteroptions/motionwienerfilteroptions/length/
 ---
+{{< psd/tize >}}
 ## MotionWienerFilterOptions.Length property
 
-Mendapat atau menyetel panjang.
+Mendapatkan atau mengatur panjang.
 
 ```csharp
 public int Length { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
-Panjangnya.
+Panjang.
 
-### Lihat juga
+### Lihat Juga
 
 * class [MotionWienerFilterOptions](../)
-* ruang nama [Aspose.PSD.ImageFilters.FilterOptions](../../motionwienerfilteroptions/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageFilters.FilterOptions](../../../aspose.psd.imagefilters.filteroptions/)
+* assembly [Aspose.PSD](../../../)
 
 

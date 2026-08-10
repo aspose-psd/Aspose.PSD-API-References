@@ -1,27 +1,28 @@
 ---
-title: TiffOptions.RowsPerStrip
-second_title: Aspose.PSD untuk Referensi .NET API
-description: TiffOptions Properti. Mendapat atau mengatur baris per strip.
+title: "TiffOptions.RowsPerStrip"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "TiffOptions properti. Mendapatkan atau mengatur baris per strip"
 type: docs
-weight: 380
+weight: 390
 url: /id/net/aspose.psd.imageoptions/tiffoptions/rowsperstrip/
 ---
+{{< psd/tize >}}
 ## TiffOptions.RowsPerStrip property
 
-Mendapat atau mengatur baris per strip.
+Mendapatkan atau mengatur baris per strip.
 
 ```csharp
 public uint RowsPerStrip { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
 Baris per strip.
 
-### Lihat juga
+### Lihat Juga
 
 * class [TiffOptions](../)
-* ruang nama [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,26 +1,27 @@
 ---
-title: PsdOptions.PsdVersion
-second_title: Aspose.PSD untuk Referensi .NET API
-description: PsdOptions Properti. Mendapat atau menyetel versi format file. Bisa PSD atau PSB.
+title: "PsdOptions.PsdVersion"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti PsdOptions. Mendapatkan atau mengatur versi format file. Bisa berupa PSD atau PSB."
 type: docs
-weight: 60
+weight: 70
 url: /id/net/aspose.psd.imageoptions/psdoptions/psdversion/
 ---
+{{< psd/tize >}}
 ## PsdOptions.PsdVersion property
 
-Mendapat atau menyetel versi format file. Bisa PSD atau PSB.
+Mendapatkan atau mengatur versi format file. Bisa berupa PSD atau PSB.
 
 ```csharp
 public PsdVersion PsdVersion { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
 Versi format file.
 
-### Contoh
+## Contoh
 
-Contoh berikut menunjukkan kemampuan untuk mengkonversi file PSD ke PSB dan sebaliknya.
+Contoh berikut menunjukkan kemampuan mengonversi file PSD ke PSB dan sebaliknya.
 
 ```csharp
 [C#]
@@ -42,11 +43,11 @@ using (Image img = Image.Load(sourceFilePathPsd))
 }
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * enum [PsdVersion](../../../aspose.psd.fileformats.psd/psdversion/)
 * class [PsdOptions](../)
-* ruang nama [Aspose.PSD.ImageOptions](../../psdoptions/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: VersionInfoResource.WriterName
-second_title: Aspose.PSD untuk Referensi .NET API
-description: VersionInfoResource Properti. Mendapatkan atau menetapkan nama penulis.
+title: "VersionInfoResource.WriterName"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "VersionInfoResource properti. Mendapatkan atau mengatur nama penulis"
 type: docs
 weight: 80
 url: /id/net/aspose.psd.fileformats.psd.resources/versioninforesource/writername/
 ---
+{{< psd/tize >}}
 ## VersionInfoResource.WriterName property
 
-Mendapatkan atau menetapkan nama penulis.
+Mendapatkan atau mengatur nama penulis.
 
 ```csharp
 public string WriterName { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
-Nama Penulis.
+Nama penulis.
 
-### Lihat juga
+### Lihat Juga
 
 * class [VersionInfoResource](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Resources](../../versioninforesource/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

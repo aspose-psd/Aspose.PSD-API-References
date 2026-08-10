@@ -1,27 +1,28 @@
 ---
-title: LspfResource.IsTransparencyProtected
-second_title: Aspose.PSD untuk Referensi .NET API
-description: LspfResource Properti. Mendapat atau menetapkan nilai yang menunjukkan apakah instance ini dilindungi transparansi.
+title: "LspfResource.IsTransparencyProtected"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti LspfResource. Mengambil atau mengatur nilai yang menunjukkan apakah instance ini dilindungi transparansi"
 type: docs
 weight: 40
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources/lspfresource/istransparencyprotected/
 ---
+{{< psd/tize >}}
 ## LspfResource.IsTransparencyProtected property
 
-Mendapat atau menetapkan nilai yang menunjukkan apakah instance ini dilindungi transparansi.
+Mendapatkan atau mengatur nilai yang menunjukkan apakah instance ini dilindungi transparansi.
 
 ```csharp
 public bool IsTransparencyProtected { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
-`BENAR` jika instance ini dilindungi transparansi; jika tidak,`PALSU` .
+`true` jika instance ini dilindungi transparansi; lainnya, `false`.
 
-### Lihat juga
+### Lihat Juga
 
 * class [LspfResource](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../lspfresource/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

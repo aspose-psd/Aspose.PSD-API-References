@@ -1,32 +1,33 @@
 ---
-title: TiffStreamReader.ToStreamContainer
-second_title: Aspose.PSD untuk Referensi .NET API
-description: TiffStreamReader metode. Mengonversi data pokok ke wadah aliran.
+title: "TiffStreamReader.ToStreamContainer"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode TiffStreamReader. Mengonversi data dasar menjadi kontainer aliran"
 type: docs
 weight: 230
 url: /id/net/aspose.psd.fileformats.tiff.filemanagement/tiffstreamreader/tostreamcontainer/
 ---
+{{< psd/tize >}}
 ## TiffStreamReader.ToStreamContainer method
 
-Mengonversi data pokok ke wadah aliran.
+Mengonversi data dasar ke dalam kontainer aliran.
 
 ```csharp
 public StreamContainer ToStreamContainer(long startPosition)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| startPosition | Int64 | Posisi awal untuk memulai konversi. |
+| startPosition | Int64 | Posisi awal untuk memulai konversi dari. |
 
-### Nilai Pengembalian
+### Nilai Kembalian
 
-Itu[`StreamContainer`](../../../aspose.psd/streamcontainer/) dengan data yang dikonversi.
+[`StreamContainer`](../../../aspose.psd/streamcontainer/) dengan data yang dikonversi.
 
-### Lihat juga
+### Lihat Juga
 
 * class [StreamContainer](../../../aspose.psd/streamcontainer/)
 * class [TiffStreamReader](../)
-* ruang nama [Aspose.PSD.FileFormats.Tiff.FileManagement](../../tiffstreamreader/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff.FileManagement](../../../aspose.psd.fileformats.tiff.filemanagement/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,30 +1,31 @@
 ---
-title: SmartObjectLayer.LoadContents
-second_title: Aspose.PSD untuk Referensi .NET API
-description: SmartObjectLayer metode. Mendapat konten gambar tersemat atau tertaut dari lapisan objek pintar.
+title: "SmartObjectLayer.LoadContents"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode SmartObjectLayer. Mendapatkan konten gambar yang tertanam atau ditautkan dari lapisan objek pintar"
 type: docs
-weight: 110
+weight: 130
 url: /id/net/aspose.psd.fileformats.psd.layers.smartobjects/smartobjectlayer/loadcontents/
 ---
+{{< psd/tize >}}
 ## SmartObjectLayer.LoadContents method
 
-Mendapat konten gambar tersemat atau tertaut dari lapisan objek pintar.
+Mendapatkan konten gambar yang tertanam atau ditautkan dari lapisan objek pintar.
 
 ```csharp
 public Image LoadContents(LoadOptions options)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| options | LoadOptions | Opsi. |
+| opsi | LoadOptions | Opsi. |
 
-### Nilai Pengembalian
+### Nilai Kembalian
 
-Yang dimuat[`Image`](../../../aspose.psd/image/) contoh objek pintar.
+Instansi objek pintar [`Image`](../../../aspose.psd/image/) yang dimuat.
 
-### Contoh
+## Contoh
 
-Kode berikut menunjukkan dukungan objek Cerdas Tertanam.
+Kode berikut menunjukkan dukungan objek pintar tertanam.
 
 ```csharp
 [C#]
@@ -37,7 +38,7 @@ void AssertAreEqual(object actual, object expected)
     }
 }
 
-// Contoh ini menunjukkan cara mengubah lapisan objek pintar di file PSD dan mengekspor/memperbarui konten tersemat asli objek pintar.
+// Contoh ini menunjukkan cara mengubah lapisan objek pintar dalam file PSD dan mengekspor / memperbarui konten asli objek pintar yang tertanam.
 const int left = 0;
 const int top = 0;
 const int right = 0xb;
@@ -66,10 +67,10 @@ foreach (FileFormat format in formats)
         AssertAreEqual(right, smartObjectLayer.ContentsBounds.Right);
         AssertAreEqual(bottom, smartObjectLayer.ContentsBounds.Bottom);
 
-        // Mari ekspor gambar objek pintar tersemat dari lapisan objek pintar PSD
+        // Mari ekspor gambar objek pintar tertanam dari lapisan objek pintar PSD
         smartObjectLayer.ExportContents(exportPath);
 
-        // Mari kita periksa apakah gambar aslinya disimpan dengan benar
+        // Mari periksa apakah gambar asli disimpan dengan benar
         image.Save(psdOutputPath, new PsdOptions(image));
         image.Save(pngOutputPath, new PngOptions() { ColorType = PngColorType.TruecolorWithAlpha });
 
@@ -77,7 +78,7 @@ foreach (FileFormat format in formats)
         {
             AssertAreEqual(format, innerImage.FileFormat);
 
-            // Mari kita membalikkan gambar smart object asli
+            // Mari balikkan gambar objek pintar asli
             var pixels = innerImage.LoadArgb32Pixels(innerImage.Bounds);
             for (int i = 0; i < pixels.Length; i++)
             {
@@ -88,23 +89,23 @@ foreach (FileFormat format in formats)
 
             innerImage.SaveArgb32Pixels(innerImage.Bounds, pixels);
 
-            // Mari kita ganti gambar objek pintar tersemat di lapisan PSD
+            // Mari ganti gambar objek pintar tertanam di lapisan PSD
             smartObjectLayer.ReplaceContents(innerImage);
         }
 
-        // Mari kita periksa apakah gambar yang diperbarui disimpan dengan benar
+        // Mari periksa apakah gambar yang diperbarui disimpan dengan benar
         image.Save(psd2OutputPath, new PsdOptions(image));
         image.Save(png2OutputPath, new PngOptions() { ColorType = PngColorType.TruecolorWithAlpha });
     }
 }
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [Image](../../../aspose.psd/image/)
 * class [LoadOptions](../../../aspose.psd/loadoptions/)
 * class [SmartObjectLayer](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.SmartObjects](../../smartobjectlayer/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.SmartObjects](../../../aspose.psd.fileformats.psd.layers.smartobjects/)
+* assembly [Aspose.PSD](../../../)
 
 

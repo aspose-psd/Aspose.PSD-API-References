@@ -1,27 +1,28 @@
 ---
-title: XmpPackageBaseCollection.Count
-second_title: Aspose.PSD untuk Referensi .NET API
-description: XmpPackageBaseCollection Properti. Mendapat jumlah elemen dalam koleksi.
+title: "XmpPackageBaseCollection.Count"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti XmpPackageBaseCollection. Mengambil jumlah elemen dalam koleksi"
 type: docs
 weight: 20
 url: /id/net/aspose.psd.xmp/xmppackagebasecollection/count/
 ---
+{{< psd/tize >}}
 ## XmpPackageBaseCollection.Count property
 
-Mendapat jumlah elemen dalam koleksi.
+Mendapatkan jumlah elemen dalam koleksi.
 
 ```csharp
 public int Count { get; }
 ```
 
-### Nilai properti
+### Property Value
 
 Jumlah elemen dalam koleksi.
 
-### Lihat juga
+### Lihat Juga
 
 * class [XmpPackageBaseCollection](../)
-* ruang nama [Aspose.PSD.Xmp](../../xmppackagebasecollection/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

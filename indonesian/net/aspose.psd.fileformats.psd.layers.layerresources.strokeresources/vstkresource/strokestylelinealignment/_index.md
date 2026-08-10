@@ -1,20 +1,21 @@
 ---
-title: VstkResource.StrokeStyleLineAlignment
-second_title: Aspose.PSD untuk Referensi .NET API
-description: VstkResource Properti. Mendapat atau menyetel Perataan garis gaya Stroke.
+title: "VstkResource.StrokeStyleLineAlignment"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "VstkResource property. Mendapatkan atau mengatur perataan garis gaya Stroke"
 type: docs
-weight: 100
+weight: 80
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources.strokeresources/vstkresource/strokestylelinealignment/
 ---
+{{< psd/tize >}}
 ## VstkResource.StrokeStyleLineAlignment property
 
-Mendapat atau menyetel Perataan garis gaya Stroke.
+Mendapatkan atau mengatur perataan garis gaya Goresan.
 
 ```csharp
 public StrokePosition StrokeStyleLineAlignment { get; set; }
 ```
 
-### Contoh
+## Contoh
 
 Kode berikut menunjukkan dukungan sumber daya VstkResource.
 
@@ -41,11 +42,11 @@ using (PsdImage image = (PsdImage)Image.Load(srcFile))
 }
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * enum [StrokePosition](../../../aspose.psd.fileformats.psd.layers.layereffects/strokeposition/)
 * class [VstkResource](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.StrokeResources](../../vstkresource/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.StrokeResources](../../../aspose.psd.fileformats.psd.layers.layerresources.strokeresources/)
+* assembly [Aspose.PSD](../../../)
 
 

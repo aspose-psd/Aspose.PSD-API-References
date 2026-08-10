@@ -1,28 +1,29 @@
 ---
-title: UnknownResource.UnknownResource
-second_title: Aspose.PSD untuk Referensi .NET API
-description: UnknownResource konstruktor. Menginisialisasi instance baru dariUnknownResource kelas.
+title: "UnknownResource.UnknownResource"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Konstruktor UnknownResource. Menginisialisasi instance baru dari kelas UnknownResource"
 type: docs
 weight: 10
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources/unknownresource/unknownresource/
 ---
+{{< psd/tize >}}
 ## UnknownResource constructor
 
-Menginisialisasi instance baru dari[`UnknownResource`](../) kelas.
+Menginisialisasi instance baru dari kelas [`UnknownResource`](../).
 
 ```csharp
 public UnknownResource(int signature, int key)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| signature | Int32 | Tanda tangan. |
-| key | Int32 | Kunci sumber daya. |
+| tanda tangan | Int32 | Tanda tangan. |
+| kunci | Int32 | Kunci sumber daya. |
 
-### Lihat juga
+### Lihat Juga
 
 * class [UnknownResource](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../unknownresource/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

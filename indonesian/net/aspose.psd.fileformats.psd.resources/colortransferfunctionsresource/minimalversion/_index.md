@@ -1,11 +1,12 @@
 ---
-title: ColorTransferFunctionsResource.MinimalVersion
-second_title: Aspose.PSD untuk Referensi .NET API
-description: ColorTransferFunctionsResource Properti. Mendapatkan versi PSD minimal yang diperlukan.
+title: "ColorTransferFunctionsResource.MinimalVersion"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti ColorTransferFunctionsResource. Mendapatkan versi PSD minimal yang diperlukan"
 type: docs
 weight: 40
 url: /id/net/aspose.psd.fileformats.psd.resources/colortransferfunctionsresource/minimalversion/
 ---
+{{< psd/tize >}}
 ## ColorTransferFunctionsResource.MinimalVersion property
 
 Mendapatkan versi PSD minimal yang diperlukan.
@@ -14,14 +15,14 @@ Mendapatkan versi PSD minimal yang diperlukan.
 public override int MinimalVersion { get; }
 ```
 
-### Nilai properti
+### Property Value
 
 Versi PSD minimal.
 
-### Lihat juga
+### Lihat Juga
 
 * class [ColorTransferFunctionsResource](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Resources](../../colortransferfunctionsresource/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

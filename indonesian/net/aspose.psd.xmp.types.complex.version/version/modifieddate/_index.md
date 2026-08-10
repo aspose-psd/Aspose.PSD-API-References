@@ -1,27 +1,28 @@
 ---
-title: Version.ModifiedDate
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Version Properti. Mendapat atau menyetel tanggal yang dimodifikasi.
+title: "Version.ModifiedDate"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti Version. Mendapatkan atau mengatur tanggal modifikasi"
 type: docs
 weight: 30
 url: /id/net/aspose.psd.xmp.types.complex.version/version/modifieddate/
 ---
+{{< psd/tize >}}
 ## Version.ModifiedDate property
 
-Mendapat atau menyetel tanggal yang dimodifikasi.
+Mendapatkan atau mengatur tanggal modifikasi.
 
 ```csharp
 public DateTime ModifiedDate { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
-Tanggal diubah.
+Tanggal modifikasi.
 
-### Lihat juga
+### Lihat Juga
 
 * class [Version](../)
-* ruang nama [Aspose.PSD.Xmp.Types.Complex.Version](../../version/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.Version](../../../aspose.psd.xmp.types.complex.version/)
+* assembly [Aspose.PSD](../../../)
 
 

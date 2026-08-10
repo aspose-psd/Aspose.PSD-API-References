@@ -1,27 +1,28 @@
 ---
-title: Version.GetXmpRepresentation
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Version metode. Mendapat string berisi nilai dalam format XMP.
+title: "Version.GetXmpRepresentation"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode Version. Mendapatkan nilai string yang terkandung dalam format XMP"
 type: docs
 weight: 70
 url: /id/net/aspose.psd.xmp.types.complex.version/version/getxmprepresentation/
 ---
+{{< psd/tize >}}
 ## Version.GetXmpRepresentation method
 
-Mendapat string berisi nilai dalam format XMP.
+Mendapatkan nilai string yang terkandung dalam format XMP.
 
 ```csharp
 public override string GetXmpRepresentation()
 ```
 
-### Nilai Pengembalian
+### Nilai Kembalian
 
-Mengembalikan string berisi nilai dalam format XMP.
+Mengembalikan nilai string yang terkandung dalam format XMP.
 
-### Lihat juga
+### Lihat Juga
 
 * class [Version](../)
-* ruang nama [Aspose.PSD.Xmp.Types.Complex.Version](../../version/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.Version](../../../aspose.psd.xmp.types.complex.version/)
+* assembly [Aspose.PSD](../../../)
 
 

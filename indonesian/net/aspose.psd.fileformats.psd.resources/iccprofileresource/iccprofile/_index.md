@@ -1,27 +1,28 @@
 ---
-title: IccProfileResource.IccProfile
-second_title: Aspose.PSD untuk Referensi .NET API
-description: IccProfileResource Properti. Mendapat atau menyetel profil ICC.
+title: "IccProfileResource.IccProfile"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti IccProfileResource. Mendapatkan atau mengatur profil ICC"
 type: docs
 weight: 30
 url: /id/net/aspose.psd.fileformats.psd.resources/iccprofileresource/iccprofile/
 ---
+{{< psd/tize >}}
 ## IccProfileResource.IccProfile property
 
-Mendapat atau menyetel profil ICC.
+Mendapatkan atau mengatur profil ICC.
 
 ```csharp
 public MemoryStream IccProfile { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
 Profil ICC.
 
-### Lihat juga
+### Lihat Juga
 
 * class [IccProfileResource](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Resources](../../iccprofileresource/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

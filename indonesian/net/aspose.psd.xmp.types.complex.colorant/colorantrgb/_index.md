@@ -1,14 +1,15 @@
 ---
-title: Class ColorantRgb
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Aspose.PSD.Xmp.Types.Complex.Colorant.ColorantRgb kelas. Mewakili Pewarna RGB.
+title: "Kelas ColorantRgb"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Kelas Aspose.PSD.Xmp.Types.Complex.Colorant.ColorantRgb. Mewakili Colorant RGB."
 type: docs
-weight: 6040
+weight: 6540
 url: /id/net/aspose.psd.xmp.types.complex.colorant/colorantrgb/
 ---
+{{< psd/tize >}}
 ## ColorantRgb class
 
-Mewakili Pewarna RGB.
+Mewakili Colorant RGB.
 
 ```csharp
 public sealed class ColorantRgb : ColorantBase
@@ -16,34 +17,34 @@ public sealed class ColorantRgb : ColorantBase
 
 ## Konstruktor
 
-| Nama | Keterangan |
+| Nama | Deskripsi |
 | --- | --- |
-| [ColorantRgb](colorantrgb/#constructor)() | Menginisialisasi instance baru dari`ColorantRgb` kelas. |
-| [ColorantRgb](colorantrgb/#constructor_1)(byte, byte, byte) | Menginisialisasi instance baru dari`ColorantRgb` kelas. |
+| [ColorantRgb](colorantrgb/#constructor)() | Menginisialisasi sebuah instance baru dari kelas `ColorantRgb`. |
+| [ColorantRgb](colorantrgb/#constructor_1)(byte, byte, byte) | Menginisialisasi sebuah instance baru dari kelas `ColorantRgb`. |
 
 ## Properti
 
-| Nama | Keterangan |
+| Nama | Deskripsi |
 | --- | --- |
-| [Blue](../../aspose.psd.xmp.types.complex.colorant/colorantrgb/blue/) { get; set; } | Mendapat atau menetapkan nilai komponen biru. |
-| [ColorType](../../aspose.psd.xmp.types.complex.colorant/colorantbase/colortype/) { get; set; } | Mendapat atau mengatur jenis warna. |
-| [Green](../../aspose.psd.xmp.types.complex.colorant/colorantrgb/green/) { get; set; } | Mendapat atau menetapkan nilai komponen hijau. |
-| [Mode](../../aspose.psd.xmp.types.complex.colorant/colorantbase/mode/) { get; } | Mendapat[`ColorMode`](../colormode/) . |
+| [Blue](../../aspose.psd.xmp.types.complex.colorant/colorantrgb/blue/) { get; set; } | Mendapatkan atau mengatur nilai komponen biru. |
+| [ColorType](../../aspose.psd.xmp.types.complex.colorant/colorantbase/colortype/) { get; set; } | Mendapatkan atau mengatur tipe warna. |
+| [Green](../../aspose.psd.xmp.types.complex.colorant/colorantrgb/green/) { get; set; } | Mendapatkan atau mengatur nilai komponen hijau. |
+| [Mode](../../aspose.psd.xmp.types.complex.colorant/colorantbase/mode/) { get; } | Mendapatkan [`ColorMode`](../colormode/). |
 | [NamespaceUri](../../aspose.psd.xmp.types.complex/complextypebase/namespaceuri/) { get; } | Mendapatkan URI namespace default. |
-| [Prefix](../../aspose.psd.xmp.types.complex/complextypebase/prefix/) { get; } | Mendapatkan awalan. |
-| [Red](../../aspose.psd.xmp.types.complex.colorant/colorantrgb/red/) { get; set; } | Mendapat atau menetapkan nilai komponen merah. |
-| [SwatchName](../../aspose.psd.xmp.types.complex.colorant/colorantbase/swatchname/) { get; set; } | Mendapat atau menetapkan nama swatch. |
+| [Prefix](../../aspose.psd.xmp.types.complex/complextypebase/prefix/) { get; } | Mendapatkan prefiks. |
+| [Red](../../aspose.psd.xmp.types.complex.colorant/colorantrgb/red/) { get; set; } | Mendapatkan atau mengatur nilai komponen merah. |
+| [SwatchName](../../aspose.psd.xmp.types.complex.colorant/colorantbase/swatchname/) { get; set; } | Mendapatkan atau mengatur nama swatch. |
 
 ## Metode
 
-| Nama | Keterangan |
+| Nama | Deskripsi |
 | --- | --- |
-| override [GetXmpRepresentation](../../aspose.psd.xmp.types.complex.colorant/colorantrgb/getxmprepresentation/)() | Mendapat string berisi nilai dalam format XMP. |
+| override [GetXmpRepresentation](../../aspose.psd.xmp.types.complex.colorant/colorantrgb/getxmprepresentation/)() | Mendapatkan nilai string yang terkandung dalam format XMP. |
 
-### Lihat juga
+### Lihat Juga
 
 * class [ColorantBase](../colorantbase/)
-* ruang nama [Aspose.PSD.Xmp.Types.Complex.Colorant](../../aspose.psd.xmp.types.complex.colorant/)
-* perakitan [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.Colorant](../../aspose.psd.xmp.types.complex.colorant/)
+* assembly [Aspose.PSD](../../)
 
 

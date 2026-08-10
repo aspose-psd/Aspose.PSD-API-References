@@ -1,48 +1,49 @@
 ---
-title: Point.Offset
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Point metode. Menerjemahkan iniPoint oleh yang ditentukanPoint .
+title: "Point.Offset"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode Point. Mentranslasi Point ini dengan Point yang ditentukan"
 type: docs
 weight: 130
 url: /id/net/aspose.psd/point/offset/
 ---
+{{< psd/tize >}}
 ## Offset(Point) {#offset}
 
-Menerjemahkan ini[`Point`](../) oleh yang ditentukan[`Point`](../) .
+Mentranslasi [`Point`](../) ini dengan [`Point`](../) yang ditentukan.
 
 ```csharp
 public void Offset(Point point)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| point | Point | Itu[`Point`](../) digunakan untuk mengimbangi ini[`Point`](../). |
+| point | Point | [`Point`](../) yang digunakan untuk mengoffset [`Point`](../) ini. |
 
-### Lihat juga
+### Lihat Juga
 
 * struct [Point](../)
-* ruang nama [Aspose.PSD](../../point/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Offset(int, int) {#offset_1}
 
-Menerjemahkan ini[`Point`](../)dengan jumlah yang ditentukan.
+Mentranslasi [`Point`](../) ini dengan jumlah yang ditentukan.
 
 ```csharp
 public void Offset(int dx, int dy)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| dx | Int32 | Jumlah untuk mengimbangi koordinat x. |
-| dy | Int32 | Jumlah untuk mengimbangi koordinat y. |
+| dx | Int32 | Jumlah untuk mengoffset koordinat x. |
+| dy | Int32 | Jumlah untuk mengoffset koordinat y. |
 
-### Lihat juga
+### Lihat Juga
 
 * struct [Point](../)
-* ruang nama [Aspose.PSD](../../point/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

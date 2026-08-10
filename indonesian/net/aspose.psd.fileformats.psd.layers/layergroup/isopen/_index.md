@@ -1,27 +1,28 @@
 ---
-title: LayerGroup.IsOpen
-second_title: Aspose.PSD untuk Referensi .NET API
-description: LayerGroup Properti. Mendapat atau menyetel adalah folder yang dibuka jika disetel keBENAR daripada grup akan dalam keadaan terbuka saat start up jika tidak dalam keadaan diminimalkan.
+title: "LayerGroup.IsOpen"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti LayerGroup. Mendapatkan atau mengatur apakah folder terbuka; jika diset ke true maka grup akan berada dalam keadaan terbuka saat memulai, jika tidak maka dalam keadaan diminimalkan"
 type: docs
 weight: 30
 url: /id/net/aspose.psd.fileformats.psd.layers/layergroup/isopen/
 ---
+{{< psd/tize >}}
 ## LayerGroup.IsOpen property
 
-Mendapat atau menyetel adalah folder yang dibuka jika disetel ke`BENAR` daripada grup akan dalam keadaan terbuka saat start up, jika tidak dalam keadaan diminimalkan.
+Mendapatkan atau mengatur apakah folder terbuka; jika diset ke `true` maka grup akan berada dalam keadaan terbuka saat memulai, jika tidak dalam keadaan diminimalkan.
 
 ```csharp
 public bool IsOpen { get; set; }
 ```
 
-### Contoh
+## Contoh
 
 Kode berikut menunjukkan cara membuka dan menutup LayerGroup (Folder) menggunakan properti IsOpen.
 
 ```csharp
 [C#]
 
-// Contoh membaca dan menulis properti IsOpen saat runtime.
+// Contoh membaca dan menulis properti IsOpen pada waktu berjalan.
 string sourceFileName = "LayerGroupOpenClose.psd";
 string outputFileName = "OutputLayerGroupOpenClose.psd";
 
@@ -46,10 +47,10 @@ using (var image = (PsdImage) Image.Load(sourceFileName))
 }
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [LayerGroup](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers](../../layergroup/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

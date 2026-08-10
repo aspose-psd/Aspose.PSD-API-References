@@ -1,28 +1,29 @@
 ---
-title: VstkResource.StrokeStyleLineCapType
-second_title: Aspose.PSD untuk Referensi .NET API
-description: VstkResource Properti. Mendapat atau menyetel jenis tutup garis gaya guratan.
+title: "VstkResource.StrokeStyleLineCapType"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "VstkResource property. Mendapatkan atau mengatur tipe tutup garis gaya stroke"
 type: docs
-weight: 110
+weight: 90
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources.strokeresources/vstkresource/strokestylelinecaptype/
 ---
+{{< psd/tize >}}
 ## VstkResource.StrokeStyleLineCapType property
 
-Mendapat atau menyetel jenis tutup garis gaya guratan.
+Mendapatkan atau mengatur tipe ujung garis gaya stroke.
 
 ```csharp
 public LineCapType StrokeStyleLineCapType { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
-Jenis tutup garis gaya guratan.
+Tipe tutup garis gaya stroke.
 
-### Lihat juga
+### Lihat Juga
 
 * enum [LineCapType](../../linecaptype/)
 * class [VstkResource](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.StrokeResources](../../vstkresource/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.StrokeResources](../../../aspose.psd.fileformats.psd.layers.layerresources.strokeresources/)
+* assembly [Aspose.PSD](../../../)
 
 

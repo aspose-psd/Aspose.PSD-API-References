@@ -1,27 +1,28 @@
 ---
-title: RenditionClass.Token
-second_title: Aspose.PSD untuk Referensi .NET API
-description: RenditionClass Properti. Mendapat atau menyetel token.
+title: "RenditionClass.Token"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "RenditionClass properti. Mendapatkan atau mengatur token"
 type: docs
 weight: 20
 url: /id/net/aspose.psd.xmp.types.derived/renditionclass/token/
 ---
+{{< psd/tize >}}
 ## RenditionClass.Token property
 
-Mendapat atau menyetel token.
+Mendapatkan atau mengatur token.
 
 ```csharp
 public string Token { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
 Token.
 
-### Lihat juga
+### Lihat Juga
 
 * class [RenditionClass](../)
-* ruang nama [Aspose.PSD.Xmp.Types.Derived](../../renditionclass/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Derived](../../../aspose.psd.xmp.types.derived/)
+* assembly [Aspose.PSD](../../../)
 
 

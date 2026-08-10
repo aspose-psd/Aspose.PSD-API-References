@@ -1,27 +1,28 @@
 ---
-title: VectorRasterizationOptions.CopyTo
-second_title: Aspose.PSD untuk Referensi .NET API
-description: VectorRasterizationOptions metode. Salin ke.
+title: "VectorRasterizationOptions.CopyTo"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode VectorRasterizationOptions. Menyalin ke"
 type: docs
 weight: 110
 url: /id/net/aspose.psd.imageoptions/vectorrasterizationoptions/copyto/
 ---
+{{< psd/tize >}}
 ## VectorRasterizationOptions.CopyTo method
 
-Salin ke.
+Menyalin ke.
 
 ```csharp
 public void CopyTo(VectorRasterizationOptions vectorRasterizationOptions)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
 | vectorRasterizationOptions | VectorRasterizationOptions | Opsi rasterisasi vektor. |
 
-### Lihat juga
+### Lihat Juga
 
 * class [VectorRasterizationOptions](../)
-* ruang nama [Aspose.PSD.ImageOptions](../../vectorrasterizationoptions/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,102 +1,103 @@
 ---
-title: Region.Complement
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Region metode. Memperbarui iniRegion mengandung bagian yang ditentukanRectangleF struktur yang tidak bersinggungan dengan iniRegion .
+title: "Region.Complement"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode Region. Memperbarui Region ini untuk berisi bagian dari struktur RectangleF yang ditentukan yang tidak berpotongan dengan Region ini."
 type: docs
 weight: 20
 url: /id/net/aspose.psd/region/complement/
 ---
+{{< psd/tize >}}
 ## Complement(RectangleF) {#complement_2}
 
-Memperbarui ini[`Region`](../) mengandung bagian yang ditentukan[`RectangleF`](../../rectanglef/) struktur yang tidak bersinggungan dengan ini[`Region`](../) .
+Memperbarui [`Region`](../) ini untuk berisi bagian dari struktur [`RectangleF`](../../rectanglef/) yang tidak berpotongan dengan [`Region`](../) ini.
 
 ```csharp
 public void Complement(RectangleF rect)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| rect | RectangleF | Itu[`RectangleF`](../../rectanglef/) struktur untuk melengkapi ini[`Region`](../). |
+| rect | RectangleF | Struktur [`RectangleF`](../../rectanglef/) untuk melengkapi [`Region`](../) ini. |
 
-### Lihat juga
+### Lihat Juga
 
 * struct [RectangleF](../../rectanglef/)
 * class [Region](../)
-* ruang nama [Aspose.PSD](../../region/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Complement(Rectangle) {#complement_1}
 
-Memperbarui ini[`Region`](../) mengandung bagian yang ditentukan[`Rectangle`](../../rectangle/) struktur yang tidak bersinggungan dengan ini[`Region`](../) .
+Memperbarui [`Region`](../) ini untuk berisi bagian dari struktur [`Rectangle`](../../rectangle/) yang tidak berpotongan dengan [`Region`](../) ini.
 
 ```csharp
 public void Complement(Rectangle rect)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| rect | Rectangle | Itu[`Rectangle`](../../rectangle/) struktur untuk melengkapi ini[`Region`](../). |
+| rect | Rectangle | Struktur [`Rectangle`](../../rectangle/) untuk melengkapi [`Region`](../) ini. |
 
-### Lihat juga
+### Lihat Juga
 
 * struct [Rectangle](../../rectangle/)
 * class [Region](../)
-* ruang nama [Aspose.PSD](../../region/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Complement(GraphicsPath) {#complement}
 
-Memperbarui ini[`Region`](../) mengandung bagian yang ditentukan[`GraphicsPath`](../../graphicspath/) yang tidak bersinggungan dengan ini[`Region`](../) .
+Memperbarui [`Region`](../) ini untuk berisi bagian dari [`GraphicsPath`](../../graphicspath/) yang tidak berpotongan dengan [`Region`](../) ini.
 
 ```csharp
 public void Complement(GraphicsPath path)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| path | GraphicsPath | Itu[`GraphicsPath`](../../graphicspath/) untuk melengkapi ini[`Region`](../). |
+| path | GraphicsPath | Struktur [`GraphicsPath`](../../graphicspath/) untuk melengkapi [`Region`](../) ini. |
 
 ### Pengecualian
 
 | pengecualian | kondisi |
 | --- | --- |
-| ArgumentNullException | *path*isnull. |
+| ArgumentNullException | *path* null. |
 
-### Lihat juga
+### Lihat Juga
 
 * class [GraphicsPath](../../graphicspath/)
 * class [Region](../)
-* ruang nama [Aspose.PSD](../../region/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Complement(Region) {#complement_3}
 
-Memperbarui ini[`Region`](../) mengandung bagian yang ditentukan[`Region`](../) yang tidak bersinggungan dengan ini[`Region`](../) .
+Memperbarui [`Region`](../) ini untuk berisi bagian dari [`Region`](../) yang tidak berpotongan dengan [`Region`](../) ini.
 
 ```csharp
 public void Complement(Region region)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| region | Region | Itu[`Region`](../) objek untuk melengkapi ini[`Region`](../) obyek. |
+| region | Region | Objek [`Region`](../) untuk melengkapi objek [`Region`](../) ini. |
 
 ### Pengecualian
 
 | pengecualian | kondisi |
 | --- | --- |
-| ArgumentNullException | *region*isnull. |
+| ArgumentNullException | *region* null. |
 
-### Lihat juga
+### Lihat Juga
 
 * class [Region](../)
-* ruang nama [Aspose.PSD](../../region/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

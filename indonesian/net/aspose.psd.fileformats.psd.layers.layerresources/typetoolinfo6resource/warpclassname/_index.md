@@ -1,27 +1,28 @@
 ---
-title: TypeToolInfo6Resource.WarpClassName
-second_title: Aspose.PSD untuk Referensi .NET API
-description: TypeToolInfo6Resource Properti. Mendapat atau menyetel nama kelas warp.
+title: "TypeToolInfo6Resource.WarpClassName"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti TypeToolInfo6Resource. Mendapatkan atau mengatur nama kelas warp"
 type: docs
-weight: 180
+weight: 150
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources/typetoolinfo6resource/warpclassname/
 ---
+{{< psd/tize >}}
 ## TypeToolInfo6Resource.WarpClassName property
 
-Mendapat atau menyetel nama kelas warp.
+Mendapatkan atau mengatur nama kelas warp.
 
 ```csharp
 public string WarpClassName { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
 Nama kelas warp.
 
-### Lihat juga
+### Lihat Juga
 
 * class [TypeToolInfo6Resource](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../typetoolinfo6resource/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

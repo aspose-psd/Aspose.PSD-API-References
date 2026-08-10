@@ -1,28 +1,29 @@
 ---
-title: ColorantBase.ColorType
-second_title: Aspose.PSD untuk Referensi .NET API
-description: ColorantBase Properti. Mendapat atau mengatur jenis warna.
+title: "ColorantBase.ColorType"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti ColorantBase. Mendapatkan atau mengatur tipe warna"
 type: docs
 weight: 10
 url: /id/net/aspose.psd.xmp.types.complex.colorant/colorantbase/colortype/
 ---
+{{< psd/tize >}}
 ## ColorantBase.ColorType property
 
-Mendapat atau mengatur jenis warna.
+Mendapatkan atau mengatur tipe warna.
 
 ```csharp
 public ColorType ColorType { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
-Jenis warna.
+Tipe warna.
 
-### Lihat juga
+### Lihat Juga
 
 * enum [ColorType](../../colortype/)
 * class [ColorantBase](../)
-* ruang nama [Aspose.PSD.Xmp.Types.Complex.Colorant](../../colorantbase/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.Colorant](../../../aspose.psd.xmp.types.complex.colorant/)
+* assembly [Aspose.PSD](../../../)
 
 

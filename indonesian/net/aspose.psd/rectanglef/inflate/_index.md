@@ -1,75 +1,76 @@
 ---
-title: RectangleF.Inflate
-second_title: Aspose.PSD untuk Referensi .NET API
-description: RectangleF metode. Membuat dan mengembalikan salinan yang digelembungkan dari yang ditentukanRectangleFstruktur. Salinan digelembungkan dengan jumlah yang ditentukan. Persegi panjang asli tetap tidak diubah.
+title: "RectangleF.Inflate"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode RectangleF. Membuat dan mengembalikan salinan yang diperluas dari struktur RectangleF yang ditentukan. Salinan tersebut diperluas sebesar jumlah yang ditentukan. Persegi panjang asli tetap tidak berubah"
 type: docs
 weight: 50
 url: /id/net/aspose.psd/rectanglef/inflate/
 ---
+{{< psd/tize >}}
 ## Inflate(RectangleF, float, float)
 
-Membuat dan mengembalikan salinan yang digelembungkan dari yang ditentukan[`RectangleF`](../)struktur. Salinan digelembungkan dengan jumlah yang ditentukan. Persegi panjang asli tetap tidak diubah.
+Membuat dan mengembalikan salinan yang diperluas dari struktur [`RectangleF`](../) yang ditentukan. Salinan tersebut diperluas sebesar jumlah yang ditentukan. Persegi panjang asli tetap tidak berubah.
 
 ```csharp
 public static RectangleF Inflate(RectangleF rect, float x, float y)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| rect | RectangleF | Itu[`RectangleF`](../) untuk disalin. Persegi panjang ini tidak dimodifikasi. |
-| x | Single | Jumlah untuk mengembangkan salinan persegi panjang secara horizontal. |
-| y | Single | Jumlah untuk mengembang salinan persegi panjang secara vertikal. |
+| rect | RectangleF | `[`RectangleF`](../) yang akan disalin. Persegi panjang ini tidak diubah. |
+| x | Single | Jumlah untuk memperluas salinan persegi panjang secara horizontal. |
+| y | Single | Jumlah untuk memperluas salinan persegi panjang secara vertikal. |
 
-### Nilai Pengembalian
+### Nilai Kembalian
 
-Yang menggelembung[`RectangleF`](../).
+`[`RectangleF`](../) yang diperluas.
 
-### Lihat juga
+### Lihat Juga
 
 * struct [RectangleF](../)
-* ruang nama [Aspose.PSD](../../rectanglef/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Inflate(float, float) {#inflate_1}
 
-Mengembang ini[`RectangleF`](../) struktur dengan jumlah yang ditentukan.
+Memperluas struktur [`RectangleF`](../) ini sebesar jumlah yang ditentukan.
 
 ```csharp
 public void Inflate(float x, float y)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| x | Single | Jumlah untuk mengembang ini[`RectangleF`](../) struktur secara horizontal. |
-| y | Single | Jumlah untuk mengembang ini[`RectangleF`](../) struktur secara vertikal. |
+| x | Single | Jumlah untuk memperluas struktur [`RectangleF`](../) ini secara horizontal. |
+| y | Single | Jumlah untuk memperluas struktur [`RectangleF`](../) ini secara vertikal. |
 
-### Lihat juga
+### Lihat Juga
 
 * struct [RectangleF](../)
-* ruang nama [Aspose.PSD](../../rectanglef/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Inflate(SizeF) {#inflate}
 
-Mengembang ini[`RectangleF`](../)dengan jumlah yang ditentukan.
+Memperluas [`RectangleF`](../) ini sebesar jumlah yang ditentukan.
 
 ```csharp
 public void Inflate(SizeF size)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| size | SizeF | Jumlah untuk mengembang persegi panjang ini. |
+| ukuran | SizeF | Jumlah untuk memperluas persegi panjang ini. |
 
-### Lihat juga
+### Lihat Juga
 
 * struct [SizeF](../../sizef/)
 * struct [RectangleF](../)
-* ruang nama [Aspose.PSD](../../rectanglef/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

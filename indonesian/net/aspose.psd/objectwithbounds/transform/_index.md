@@ -1,11 +1,12 @@
 ---
-title: ObjectWithBounds.Transform
-second_title: Aspose.PSD untuk Referensi .NET API
-description: ObjectWithBounds metode. Menerapkan transformasi yang ditentukan ke bentuk.
+title: "ObjectWithBounds.Transform"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode ObjectWithBounds. Menerapkan transformasi yang ditentukan ke bentuk"
 type: docs
 weight: 30
 url: /id/net/aspose.psd/objectwithbounds/transform/
 ---
+{{< psd/tize >}}
 ## ObjectWithBounds.Transform method
 
 Menerapkan transformasi yang ditentukan ke bentuk.
@@ -14,15 +15,15 @@ Menerapkan transformasi yang ditentukan ke bentuk.
 public abstract void Transform(Matrix transform)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| transform | Matrix | Transformasi untuk diterapkan. |
+| transform | Matrix | Transformasi yang akan diterapkan. |
 
-### Lihat juga
+### Lihat Juga
 
 * class [Matrix](../../matrix/)
 * class [ObjectWithBounds](../)
-* ruang nama [Aspose.PSD](../../objectwithbounds/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

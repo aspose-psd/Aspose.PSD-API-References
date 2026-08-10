@@ -1,11 +1,12 @@
 ---
-title: PsdImage.AddExposureAdjustmentLayer
-second_title: Aspose.PSD untuk Referensi .NET API
-description: PsdImage metode. Menambahkan lapisan penyesuaian eksposur.
+title: "PsdImage.AddExposureAdjustmentLayer"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "PsdImage metode. Menambahkan lapisan penyesuaian eksposur"
 type: docs
-weight: 340
+weight: 350
 url: /id/net/aspose.psd.fileformats.psd/psdimage/addexposureadjustmentlayer/
 ---
+{{< psd/tize >}}
 ## PsdImage.AddExposureAdjustmentLayer method
 
 Menambahkan lapisan penyesuaian eksposur.
@@ -15,21 +16,21 @@ public ExposureLayer AddExposureAdjustmentLayer(float exposure = 0, float offset
     float gammaCorrection = 1)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| exposure | Single | Eksposur. |
+| paparan | Single | Paparan. |
 | offset | Single | Offset. |
 | gammaCorrection | Single | Koreksi gamma. |
 
-### Nilai Pengembalian
+### Nilai Kembalian
 
 Membuat Lapisan Penyesuaian Eksposur
 
-### Lihat juga
+### Lihat Juga
 
 * class [ExposureLayer](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/exposurelayer/)
 * class [PsdImage](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

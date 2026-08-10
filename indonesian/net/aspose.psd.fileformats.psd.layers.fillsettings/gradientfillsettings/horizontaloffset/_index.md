@@ -1,27 +1,28 @@
 ---
-title: GradientFillSettings.HorizontalOffset
-second_title: Aspose.PSD untuk Referensi .NET API
-description: GradientFillSettings Properti. Mendapat atau menetapkan offset horizontal dalam persentase.
+title: "GradientFillSettings.HorizontalOffset"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti GradientFillSettings. Mendapatkan atau mengatur offset horizontal dalam persentase"
 type: docs
-weight: 100
+weight: 80
 url: /id/net/aspose.psd.fileformats.psd.layers.fillsettings/gradientfillsettings/horizontaloffset/
 ---
+{{< psd/tize >}}
 ## GradientFillSettings.HorizontalOffset property
 
-Mendapat atau menetapkan offset horizontal dalam persentase.
+Mendapatkan atau mengatur offset horizontal dalam persentase.
 
 ```csharp
 public double HorizontalOffset { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
 Offset horizontal.
 
-### Lihat juga
+### Lihat Juga
 
 * class [GradientFillSettings](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../gradientfillsettings/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../../)
 
 

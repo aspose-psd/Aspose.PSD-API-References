@@ -1,57 +1,58 @@
 ---
-title: RectangleExtensions.ToGdiRectangle
-second_title: Aspose.PSD untuk Referensi .NET API
-description: RectangleExtensions metode. MengubahRectangle keRectangle .
+title: "RectangleExtensions.ToGdiRectangle"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode RectangleExtensions. Mengonversi Rectangle menjadi Rectangle."
 type: docs
 weight: 10
 url: /id/net/aspose.psd.extensions/rectangleextensions/togdirectangle/
 ---
+{{< psd/tize >}}
 ## ToGdiRectangle(Rectangle) {#togdirectangle}
 
-Mengubah[`Rectangle`](../../../aspose.psd/rectangle/) keRectangle .
+Mengonversi [`Rectangle`](../../../aspose.psd/rectangle/) menjadi Rectangle.
 
 ```csharp
 public static Rectangle ToGdiRectangle(Rectangle rectangle)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| rectangle | Rectangle | Persegi panjang yang akan dikonversi. |
+| persegi panjang | Rectangle | Rectangle yang akan dikonversi. |
 
-### Nilai Pengembalian
+### Nilai Kembalian
 
-Yang dikonversiRectangle.
+Rectangle yang telah dikonversi.
 
-### Lihat juga
+### Lihat Juga
 
 * struct [Rectangle](../../../aspose.psd/rectangle/)
 * class [RectangleExtensions](../)
-* ruang nama [Aspose.PSD.Extensions](../../rectangleextensions/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Extensions](../../../aspose.psd.extensions/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## ToGdiRectangle(RectangleF) {#togdirectangle_1}
 
-Mengubah[`RectangleF`](../../../aspose.psd/rectanglef/) keRectangle .
+Mengonversi [`RectangleF`](../../../aspose.psd/rectanglef/) menjadi Rectangle.
 
 ```csharp
 public static RectangleF ToGdiRectangle(RectangleF rectangle)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| rectangle | RectangleF | Persegi panjang yang akan dikonversi. |
+| persegi panjang | RectangleF | Rectangle yang akan dikonversi. |
 
-### Nilai Pengembalian
+### Nilai Kembalian
 
-Yang dikonversiRectangleF.
+RectangleF yang telah dikonversi.
 
-### Lihat juga
+### Lihat Juga
 
 * struct [RectangleF](../../../aspose.psd/rectanglef/)
 * class [RectangleExtensions](../)
-* ruang nama [Aspose.PSD.Extensions](../../rectangleextensions/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Extensions](../../../aspose.psd.extensions/)
+* assembly [Aspose.PSD](../../../)
 
 

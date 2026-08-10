@@ -1,11 +1,12 @@
 ---
-title: IBufferProcessor.ProcessBuffer
-second_title: Aspose.PSD untuk Referensi .NET API
-description: IBufferProcessor metode. Memproses buffer.
+title: "IBufferProcessor.ProcessBuffer"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode IBufferProcessor. Memproses buffer"
 type: docs
 weight: 10
 url: /id/net/aspose.psd/ibufferprocessor/processbuffer/
 ---
+{{< psd/tize >}}
 ## IBufferProcessor.ProcessBuffer method
 
 Memproses buffer.
@@ -14,15 +15,15 @@ Memproses buffer.
 public void ProcessBuffer(byte[] buffer, int bufferLength)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
 | buffer | Byte[] | Buffer untuk diproses. |
 | bufferLength | Int32 | Panjang buffer untuk diproses. |
 
-### Lihat juga
+### Lihat Juga
 
 * interface [IBufferProcessor](../)
-* ruang nama [Aspose.PSD](../../ibufferprocessor/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

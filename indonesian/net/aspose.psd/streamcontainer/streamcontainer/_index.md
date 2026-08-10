@@ -1,48 +1,49 @@
 ---
-title: StreamContainer.StreamContainer
-second_title: Aspose.PSD untuk Referensi .NET API
-description: StreamContainer konstruktor. Menginisialisasi instance baru dariStreamContainer kelas.
+title: "StreamContainer.StreamContainer"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Konstruktor StreamContainer. Menginisialisasi instance baru dari kelas StreamContainer"
 type: docs
 weight: 10
 url: /id/net/aspose.psd/streamcontainer/streamcontainer/
 ---
+{{< psd/tize >}}
 ## StreamContainer(Stream) {#constructor}
 
-Menginisialisasi instance baru dari[`StreamContainer`](../) kelas.
+Menginisialisasi instance baru dari kelas [`StreamContainer`](../).
 
 ```csharp
 public StreamContainer(Stream stream)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
 | stream | Stream | Aliran. |
 
-### Lihat juga
+### Lihat Juga
 
 * class [StreamContainer](../)
-* ruang nama [Aspose.PSD](../../streamcontainer/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## StreamContainer(Stream, bool) {#constructor_1}
 
-Menginisialisasi instance baru dari[`StreamContainer`](../) kelas.
+Menginisialisasi instance baru dari kelas [`StreamContainer`](../).
 
 ```csharp
 public StreamContainer(Stream stream, bool disposeStream)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
 | stream | Stream | Aliran data. |
-| disposeStream | Boolean | jika diatur ke`BENAR` sungai akan dibuang ketika wadah dibuang. |
+| disposeStream | Boolean | jika disetel ke `true` aliran akan dibuang ketika kontainer dibuang. |
 
-### Lihat juga
+### Lihat Juga
 
 * class [StreamContainer](../)
-* ruang nama [Aspose.PSD](../../streamcontainer/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

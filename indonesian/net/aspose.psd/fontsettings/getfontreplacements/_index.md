@@ -1,30 +1,31 @@
 ---
-title: FontSettings.GetFontReplacements
-second_title: Aspose.PSD untuk Referensi .NET API
-description: FontSettings metode. Mendapatkan larik penggantian font dengan nama font
+title: "FontSettings.GetFontReplacements"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode FontSettings. Mendapatkan array pengganti font berdasarkan nama font"
 type: docs
-weight: 50
+weight: 60
 url: /id/net/aspose.psd/fontsettings/getfontreplacements/
 ---
+{{< psd/tize >}}
 ## FontSettings.GetFontReplacements method
 
-Mendapatkan larik penggantian font dengan nama font
+Mendapatkan array penggantian font berdasarkan nama font
 
 ```csharp
 public static string[] GetFontReplacements(string fontName)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| fontName | String | Nama fontnya. |
+| fontName | String | Nama font. |
 
-### Nilai Pengembalian
+### Nilai Kembalian
 
-Larik nama pengganti untuk font yang disediakan
+Array nama pengganti untuk font yang disediakan
 
-### Contoh
+## Contoh
 
-Kode berikut menunjukkan kemampuan untuk membatasi penggunaan font secara terprogram.
+Kode berikut menunjukkan kemampuan untuk secara programatik membatasi font menggunakan.
 
 ```csharp
 [C#]
@@ -47,7 +48,8 @@ try
     FontSettings.SetFontReplacements("Arial", arialReplacement);
     FontSettings.SetFontReplacements("Times New Roman", timesReplacement);
 
-    using (PsdImage image = (PsdImage)Image.Load(srcFile))
+    using (PsdImage image = (PsdImage)Image.Load(srcFile,
+        new PsdLoadOptions() { AllowNonChangedLayerRepaint = true }))
     {
         image.Save(output, new PngOptions() { ColorType = PngColorType.TruecolorWithAlpha });
     }
@@ -59,10 +61,10 @@ finally
 }
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [FontSettings](../)
-* ruang nama [Aspose.PSD](../../fontsettings/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

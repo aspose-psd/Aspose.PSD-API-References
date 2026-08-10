@@ -1,27 +1,28 @@
 ---
-title: IPlacedLayerResource.Right
-second_title: Aspose.PSD untuk Referensi .NET API
-description: IPlacedLayerResource Properti. Mendapatkan atau menyetel lokasi yang tepat dari lapisan yang ditempatkan di file PSD.
+title: "IPlacedLayerResource.Right"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti IPlacedLayerResource. Mendapatkan atau mengatur lokasi kanan lapisan yang ditempatkan dalam file PSD"
 type: docs
 weight: 130
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/right/
 ---
+{{< psd/tize >}}
 ## IPlacedLayerResource.Right property
 
-Mendapatkan atau menyetel lokasi yang tepat dari lapisan yang ditempatkan di file PSD.
+Mendapatkan atau mengatur lokasi kanan lapisan yang ditempatkan dalam file PSD.
 
 ```csharp
 public double Right { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
-Lokasi yang tepat dari lapisan yang ditempatkan.
+Lokasi kanan dari lapisan yang ditempatkan.
 
-### Lihat juga
+### Lihat Juga
 
 * interface [IPlacedLayerResource](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../iplacedlayerresource/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

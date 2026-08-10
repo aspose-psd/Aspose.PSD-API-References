@@ -1,23 +1,24 @@
 ---
-title: Namespaces.DublinCore
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Namespaces bidang. ruang nama Inti Gandakan.
+title: "Namespaces.DublinCore"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Bidang Namespaces. Namespace Dublic Core"
 type: docs
 weight: 10
 url: /id/net/aspose.psd.xmp/namespaces/dublincore/
 ---
+{{< psd/tize >}}
 ## Namespaces.DublinCore field
 
-ruang nama Inti Gandakan.
+Namespace Dublic Core.
 
 ```csharp
 public const string DublinCore;
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [Namespaces](../)
-* ruang nama [Aspose.PSD.Xmp](../../namespaces/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,47 +1,48 @@
 ---
-title: TiffExifIfd.TiffExifIfd
-second_title: Aspose.PSD untuk Referensi .NET API
-description: TiffExifIfd konstruktor. Menginisialisasi instance baru dariTiffExifIfd kelas.
+title: "TiffExifIfd.TiffExifIfd"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Konstruktor TiffExifIfd. Menginisialisasi sebuah instance baru dari kelas TiffExifIfd"
 type: docs
 weight: 10
 url: /id/net/aspose.psd.fileformats.tiff/tiffexififd/tiffexififd/
 ---
+{{< psd/tize >}}
 ## TiffExifIfd() {#constructor}
 
-Menginisialisasi instance baru dari[`TiffExifIfd`](../) kelas.
+Menginisialisasi sebuah instance baru dari kelas [`TiffExifIfd`](../).
 
 ```csharp
 public TiffExifIfd()
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [TiffExifIfd](../)
-* ruang nama [Aspose.PSD.FileFormats.Tiff](../../tiffexififd/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff](../../../aspose.psd.fileformats.tiff/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## TiffExifIfd(uint) {#constructor_1}
 
-Menginisialisasi instance baru dari[`TiffExifIfd`](../) kelas.
+Menginisialisasi sebuah instance baru dari kelas [`TiffExifIfd`](../).
 
 ```csharp
 public TiffExifIfd(uint ifdOffset)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| ifdOffset | UInt32 | Pointer ke Exif IFD. |
+| ifdOffset | UInt32 | Penunjuk ke Exif IFD. |
 
-### Perkataan
+## Catatan
 
-Interoperabilitas, Exif IFD memiliki struktur yang sama dengan IFD yang ditentukan di TIFF. biasanya, namun tidak berisi data gambar seperti pada kasus TIFF.
+Interoperabilitas, Exif IFD memiliki struktur yang sama dengan IFD yang ditentukan dalam TIFF. Namun, biasanya tidak berisi data gambar seperti pada kasus TIFF.
 
-### Lihat juga
+### Lihat Juga
 
 * class [TiffExifIfd](../)
-* ruang nama [Aspose.PSD.FileFormats.Tiff](../../tiffexififd/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff](../../../aspose.psd.fileformats.tiff/)
+* assembly [Aspose.PSD](../../../)
 
 

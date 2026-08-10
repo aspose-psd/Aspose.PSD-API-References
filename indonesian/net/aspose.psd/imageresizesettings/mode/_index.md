@@ -1,28 +1,29 @@
 ---
-title: ImageResizeSettings.Mode
-second_title: Aspose.PSD untuk Referensi .NET API
-description: ImageResizeSettings Properti. Mendapat atau menyetel mode interpolasi.
+title: "ImageResizeSettings.Mode"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti ImageResizeSettings. Mendapatkan atau mengatur mode interpolasi"
 type: docs
 weight: 60
 url: /id/net/aspose.psd/imageresizesettings/mode/
 ---
+{{< psd/tize >}}
 ## ImageResizeSettings.Mode property
 
-Mendapat atau menyetel mode interpolasi.
+Mengambil atau mengatur mode interpolasi.
 
 ```csharp
 public ResizeType Mode { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
-Modusnya.
+Mode.
 
-### Lihat juga
+### Lihat Juga
 
 * enum [ResizeType](../../resizetype/)
 * class [ImageResizeSettings](../)
-* ruang nama [Aspose.PSD](../../imageresizesettings/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: CustResource.PsdVersion
-second_title: Aspose.PSD untuk Referensi .NET API
-description: CustResource Properti. Mendapatkan versi psd.
+title: "CustResource.PsdVersion"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti CustResource. Mendapatkan versi psd"
 type: docs
 weight: 50
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources/custresource/psdversion/
 ---
+{{< psd/tize >}}
 ## CustResource.PsdVersion property
 
 Mendapatkan versi psd.
@@ -14,10 +15,10 @@ Mendapatkan versi psd.
 public override int PsdVersion { get; }
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [CustResource](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../custresource/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

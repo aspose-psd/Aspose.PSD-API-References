@@ -1,27 +1,28 @@
 ---
-title: ColorantRgb.Green
-second_title: Aspose.PSD untuk Referensi .NET API
-description: ColorantRgb Properti. Mendapat atau menetapkan nilai komponen hijau.
+title: "ColorantRgb.Green"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti ColorantRgb. Mendapatkan atau mengatur nilai komponen hijau"
 type: docs
 weight: 30
 url: /id/net/aspose.psd.xmp.types.complex.colorant/colorantrgb/green/
 ---
+{{< psd/tize >}}
 ## ColorantRgb.Green property
 
-Mendapat atau menetapkan nilai komponen hijau.
+Mendapatkan atau mengatur nilai komponen hijau.
 
 ```csharp
 public byte Green { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
 Nilai komponen hijau.
 
-### Lihat juga
+### Lihat Juga
 
 * class [ColorantRgb](../)
-* ruang nama [Aspose.PSD.Xmp.Types.Complex.Colorant](../../colorantrgb/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.Colorant](../../../aspose.psd.xmp.types.complex.colorant/)
+* assembly [Aspose.PSD](../../../)
 
 

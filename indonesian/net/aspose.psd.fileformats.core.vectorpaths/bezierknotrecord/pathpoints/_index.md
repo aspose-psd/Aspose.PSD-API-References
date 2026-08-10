@@ -1,28 +1,29 @@
 ---
-title: BezierKnotRecord.PathPoints
-second_title: Aspose.PSD untuk Referensi .NET API
-description: BezierKnotRecord Properti. Mendapat atau menetapkan titik jalur.
+title: "BezierKnotRecord.PathPoints"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti BezierKnotRecord. Mendapatkan atau mengatur titik-titik jalur"
 type: docs
 weight: 50
 url: /id/net/aspose.psd.fileformats.core.vectorpaths/bezierknotrecord/pathpoints/
 ---
+{{< psd/tize >}}
 ## BezierKnotRecord.PathPoints property
 
-Mendapat atau menetapkan titik jalur.
+Mendapatkan atau mengatur titik-titik jalur.
 
 ```csharp
 public PointF[] PathPoints { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
-Titik jalur.
+Titik-titik jalur.
 
-### Lihat juga
+### Lihat Juga
 
 * struct [PointF](../../../aspose.psd/pointf/)
 * class [BezierKnotRecord](../)
-* ruang nama [Aspose.PSD.FileFormats.Core.VectorPaths](../../bezierknotrecord/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../../)
 
 

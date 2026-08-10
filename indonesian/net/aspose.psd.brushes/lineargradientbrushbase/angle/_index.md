@@ -1,27 +1,28 @@
 ---
-title: LinearGradientBrushBase.Angle
-second_title: Aspose.PSD untuk Referensi .NET API
-description: LinearGradientBrushBase Properti. Mendapat atau mengatur sudut gradien.
+title: "LinearGradientBrushBase.Angle"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "LinearGradientBrushBase properti. Mendapatkan atau mengatur sudut gradien"
 type: docs
 weight: 10
 url: /id/net/aspose.psd.brushes/lineargradientbrushbase/angle/
 ---
+{{< psd/tize >}}
 ## LinearGradientBrushBase.Angle property
 
-Mendapat atau mengatur sudut gradien.
+Mendapatkan atau mengatur sudut gradien.
 
 ```csharp
 public float Angle { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
 Sudut gradien.
 
-### Lihat juga
+### Lihat Juga
 
 * class [LinearGradientBrushBase](../)
-* ruang nama [Aspose.PSD.Brushes](../../lineargradientbrushbase/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
+* assembly [Aspose.PSD](../../../)
 
 

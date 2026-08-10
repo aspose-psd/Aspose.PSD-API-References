@@ -1,27 +1,28 @@
 ---
-title: ExifData.CFAPattern
-second_title: Aspose.PSD untuk Referensi .NET API
-description: ExifData Properti. Mendapat atau menyetel pola CFA.
+title: "ExifData.CFAPattern"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "ExifData properti. Mendapatkan atau mengatur pola CFA"
 type: docs
 weight: 60
 url: /id/net/aspose.psd.exif/exifdata/cfapattern/
 ---
+{{< psd/tize >}}
 ## ExifData.CFAPattern property
 
-Mendapat atau menyetel pola CFA.
+Mendapatkan atau mengatur pola CFA.
 
 ```csharp
 public byte[] CFAPattern { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
 Pola CFA.
 
-### Lihat juga
+### Lihat Juga
 
 * class [ExifData](../)
-* ruang nama [Aspose.PSD.Exif](../../exifdata/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: PdfDocumentInfo.PdfDocumentInfo
-second_title: Aspose.PSD untuk Referensi .NET API
-description: PdfDocumentInfo konstruktor. Konstruktor default.
+title: "PdfDocumentInfo.PdfDocumentInfo"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Konstruktor PdfDocumentInfo. Konstruktor default"
 type: docs
 weight: 10
 url: /id/net/aspose.psd.fileformats.pdf/pdfdocumentinfo/pdfdocumentinfo/
 ---
+{{< psd/tize >}}
 ## PdfDocumentInfo constructor
 
 Konstruktor default.
@@ -14,10 +15,10 @@ Konstruktor default.
 public PdfDocumentInfo()
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [PdfDocumentInfo](../)
-* ruang nama [Aspose.PSD.FileFormats.Pdf](../../pdfdocumentinfo/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Pdf](../../../aspose.psd.fileformats.pdf/)
+* assembly [Aspose.PSD](../../../)
 
 

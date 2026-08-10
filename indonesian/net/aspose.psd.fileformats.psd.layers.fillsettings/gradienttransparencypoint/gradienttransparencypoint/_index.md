@@ -1,23 +1,24 @@
 ---
-title: GradientTransparencyPoint.GradientTransparencyPoint
-second_title: Aspose.PSD untuk Referensi .NET API
-description: GradientTransparencyPoint konstruktor. Menginisialisasi instance baru dariGradientTransparencyPoint kelas.
+title: "GradientTransparencyPoint.GradientTransparencyPoint"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "GradientTransparencyPoint constructor. Menginisialisasi instance baru dari kelas GradientTransparencyPoint"
 type: docs
 weight: 10
 url: /id/net/aspose.psd.fileformats.psd.layers.fillsettings/gradienttransparencypoint/gradienttransparencypoint/
 ---
+{{< psd/tize >}}
 ## GradientTransparencyPoint constructor
 
-Menginisialisasi instance baru dari[`GradientTransparencyPoint`](../) kelas.
+Menginisialisasi instance baru dari kelas [`GradientTransparencyPoint`](../).
 
 ```csharp
 public GradientTransparencyPoint()
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [GradientTransparencyPoint](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../gradienttransparencypoint/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../../)
 
 

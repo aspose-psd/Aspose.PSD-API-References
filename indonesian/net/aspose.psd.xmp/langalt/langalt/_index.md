@@ -1,43 +1,44 @@
 ---
-title: LangAlt.LangAlt
-second_title: Aspose.PSD untuk Referensi .NET API
-description: LangAlt konstruktor. Menginisialisasi instance baru dariLangAlt kelas.
+title: "LangAlt.LangAlt"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Konstruktor LangAlt. Menginisialisasi instance baru dari kelas LangAlt"
 type: docs
 weight: 10
 url: /id/net/aspose.psd.xmp/langalt/langalt/
 ---
+{{< psd/tize >}}
 ## LangAlt(string) {#constructor_1}
 
-Menginisialisasi instance baru dari[`LangAlt`](../) kelas.
+Menginisialisasi instance baru dari kelas [`LangAlt`](../).
 
 ```csharp
 public LangAlt(string defaultValue)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
 | defaultValue | String | Nilai default. |
 
-### Lihat juga
+### Lihat Juga
 
 * class [LangAlt](../)
-* ruang nama [Aspose.PSD.Xmp](../../langalt/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## LangAlt() {#constructor}
 
-Menginisialisasi instance baru dari[`LangAlt`](../) kelas.
+Menginisialisasi instance baru dari kelas [`LangAlt`](../).
 
 ```csharp
 public LangAlt()
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [LangAlt](../)
-* ruang nama [Aspose.PSD.Xmp](../../langalt/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

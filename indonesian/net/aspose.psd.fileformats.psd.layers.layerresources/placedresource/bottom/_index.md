@@ -1,27 +1,28 @@
 ---
-title: PlacedResource.Bottom
-second_title: Aspose.PSD untuk Referensi .NET API
-description: PlacedResource Properti. Mendapat atau menyetel lokasi bawah dari lapisan yang ditempatkan di gambar PSD.
+title: "PlacedResource.Bottom"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti PlacedResource. Mendapatkan atau mengatur lokasi bawah dari lapisan yang ditempatkan dalam gambar PSD"
 type: docs
 weight: 20
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources/placedresource/bottom/
 ---
+{{< psd/tize >}}
 ## PlacedResource.Bottom property
 
-Mendapat atau menyetel lokasi bawah dari lapisan yang ditempatkan di gambar PSD.
+Mendapatkan atau mengatur lokasi bawah lapisan yang ditempatkan dalam gambar PSD.
 
 ```csharp
 public double Bottom { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
-Lokasi paling bawah dari layer yang ditempatkan.
+Lokasi bawah dari lapisan yang ditempatkan.
 
-### Lihat juga
+### Lihat Juga
 
 * class [PlacedResource](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../placedresource/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

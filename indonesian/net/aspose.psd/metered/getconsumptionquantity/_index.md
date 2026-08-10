@@ -1,27 +1,28 @@
 ---
-title: Metered.GetConsumptionQuantity
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Metered metode. Mendapat ukuran file konsumsi
+title: "Metered.GetConsumptionQuantity"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode Metered. Mendapatkan ukuran file konsumsi"
 type: docs
-weight: 50
+weight: 60
 url: /id/net/aspose.psd/metered/getconsumptionquantity/
 ---
+{{< psd/tize >}}
 ## Metered.GetConsumptionQuantity method
 
-Mendapat ukuran file konsumsi
+Mendapatkan ukuran file konsumsi
 
 ```csharp
 public static decimal GetConsumptionQuantity()
 ```
 
-### Nilai Pengembalian
+### Nilai Kembalian
 
-kuantitas konsumsi
+jumlah konsumsi
 
-### Lihat juga
+### Lihat Juga
 
 * class [Metered](../)
-* ruang nama [Aspose.PSD](../../metered/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

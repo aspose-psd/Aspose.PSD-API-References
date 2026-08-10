@@ -1,26 +1,27 @@
 ---
-title: SmartObjectLayer.ReplaceContents
-second_title: Aspose.PSD untuk Referensi .NET API
-description: SmartObjectLayer metode. Mengganti konten smart object yang disematkan di lapisan smart object.
+title: "SmartObjectLayer.ReplaceContents"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode SmartObjectLayer. Mengganti konten objek pintar yang tertanam dalam lapisan objek pintar"
 type: docs
-weight: 140
+weight: 160
 url: /id/net/aspose.psd.fileformats.psd.layers.smartobjects/smartobjectlayer/replacecontents/
 ---
+{{< psd/tize >}}
 ## ReplaceContents(Image) {#replacecontents}
 
-Mengganti konten smart object yang disematkan di lapisan smart object.
+Mengganti konten objek pintar yang tertanam dalam lapisan objek pintar.
 
 ```csharp
 public void ReplaceContents(Image image)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| image | Image | Foto. |
+| gambar | Image | Gambar. |
 
-### Contoh
+## Contoh
 
-Kode berikut menunjukkan dukungan objek Cerdas Tertanam.
+Kode berikut menunjukkan dukungan objek pintar tertanam.
 
 ```csharp
 [C#]
@@ -33,7 +34,7 @@ void AssertAreEqual(object actual, object expected)
     }
 }
 
-// Contoh ini menunjukkan cara mengubah lapisan objek pintar di file PSD dan mengekspor/memperbarui konten tersemat asli objek pintar.
+// Contoh ini menunjukkan cara mengubah lapisan objek pintar dalam file PSD dan mengekspor / memperbarui konten asli objek pintar yang tertanam.
 const int left = 0;
 const int top = 0;
 const int right = 0xb;
@@ -62,10 +63,10 @@ foreach (FileFormat format in formats)
         AssertAreEqual(right, smartObjectLayer.ContentsBounds.Right);
         AssertAreEqual(bottom, smartObjectLayer.ContentsBounds.Bottom);
 
-        // Mari ekspor gambar objek pintar tersemat dari lapisan objek pintar PSD
+        // Mari ekspor gambar objek pintar tertanam dari lapisan objek pintar PSD
         smartObjectLayer.ExportContents(exportPath);
 
-        // Mari kita periksa apakah gambar aslinya disimpan dengan benar
+        // Mari periksa apakah gambar asli disimpan dengan benar
         image.Save(psdOutputPath, new PsdOptions(image));
         image.Save(pngOutputPath, new PngOptions() { ColorType = PngColorType.TruecolorWithAlpha });
 
@@ -73,7 +74,7 @@ foreach (FileFormat format in formats)
         {
             AssertAreEqual(format, innerImage.FileFormat);
 
-            // Mari kita membalikkan gambar smart object asli
+            // Mari balikkan gambar objek pintar asli
             var pixels = innerImage.LoadArgb32Pixels(innerImage.Bounds);
             for (int i = 0; i < pixels.Length; i++)
             {
@@ -84,59 +85,59 @@ foreach (FileFormat format in formats)
 
             innerImage.SaveArgb32Pixels(innerImage.Bounds, pixels);
 
-            // Mari kita ganti gambar objek pintar tersemat di lapisan PSD
+            // Mari ganti gambar objek pintar tertanam di lapisan PSD
             smartObjectLayer.ReplaceContents(innerImage);
         }
 
-        // Mari kita periksa apakah gambar yang diperbarui disimpan dengan benar
+        // Mari periksa apakah gambar yang diperbarui disimpan dengan benar
         image.Save(psd2OutputPath, new PsdOptions(image));
         image.Save(png2OutputPath, new PngOptions() { ColorType = PngColorType.TruecolorWithAlpha });
     }
 }
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [Image](../../../aspose.psd/image/)
 * class [SmartObjectLayer](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.SmartObjects](../../smartobjectlayer/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.SmartObjects](../../../aspose.psd.fileformats.psd.layers.smartobjects/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## ReplaceContents(Image, ResolutionSetting) {#replacecontents_1}
 
-Mengganti konten smart object yang disematkan di lapisan smart object.
+Mengganti konten objek pintar yang tertanam dalam lapisan objek pintar.
 
 ```csharp
 public void ReplaceContents(Image image, ResolutionSetting resolution)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| image | Image | Foto. |
-| resolution | ResolutionSetting | Pengaturan resolusi. Jika null, resolusi gambar akan digunakan. |
+| gambar | Image | Gambar. |
+| resolusi | ResolutionSetting | Pengaturan resolusi. Jika null, resolusi gambar akan digunakan. |
 
 ### Pengecualian
 
 | pengecualian | kondisi |
 | --- | --- |
-| [PsdImageException](../../../aspose.psd.coreexceptions.imageformats/psdimageexception/) | Hanya dapat mengganti objek pintar yang disematkan. |
+| [PsdImageException](../../../aspose.psd.coreexceptions.imageformats/psdimageexception/) | Hanya dapat mengganti objek pintar yang tertanam. |
 
-### Contoh
+## Contoh
 
-Contoh ini menunjukkan bahwa metode ReplaceContents berfungsi dengan benar saat file konten baru memiliki resolusi yang berbeda.
+Contoh ini menunjukkan bahwa metode ReplaceContents berfungsi dengan benar ketika file konten baru memiliki resolusi yang berbeda.
 
 ```csharp
 [C#]
 
-// Contoh ini menunjukkan bahwa metode ReplaceContents bekerja dengan benar ketika file konten baru memiliki resolusi yang berbeda.
+// Contoh ini menunjukkan bahwa metode ReplaceContents berfungsi dengan benar ketika file konten baru memiliki resolusi yang berbeda.
 string fileName = "CommonPsb.psd";
-string filePath = baseFolder + fileName; // gambar PSD asli
-string newContentPath = baseFolder + "image.jpg"; // file konten baru untuk smart object
+string filePath = baseFolder + fileName; // original PSD image
+string newContentPath = baseFolder + "image.jpg"; // the new content file for the smart object
 string outputFilePath = outputFolder + "ChangedPsd";
-string pngOutputPath = outputFilePath + ".png"; // file PNG keluaran
-string psdOutputPath = outputFilePath + ".psd"; // file PSD keluaran
+string pngOutputPath = outputFilePath + ".png"; // the output PNG file
+string psdOutputPath = outputFilePath + ".psd"; // the output PSD file
 using (PsdImage psd = (PsdImage)Image.Load(filePath))
 {
     for (int i = 0; i < psd.Layers.Length; i++)
@@ -154,43 +155,66 @@ using (PsdImage psd = (PsdImage)Image.Load(filePath))
 }
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [Image](../../../aspose.psd/image/)
 * class [ResolutionSetting](../../../aspose.psd/resolutionsetting/)
 * class [SmartObjectLayer](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.SmartObjects](../../smartobjectlayer/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.SmartObjects](../../../aspose.psd.fileformats.psd.layers.smartobjects/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## ReplaceContents(string, ResolutionSetting) {#replacecontents_3}
 
-Mengganti konten dengan file. Tidak perlu memanggil metode UpdateModifiedContent sesudahnya.
+Mengganti konten dengan sebuah file. Tidak perlu memanggil metode UpdateModifiedContent setelahnya.
 
 ```csharp
 public void ReplaceContents(string linkedPath, ResolutionSetting resolution)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| linkedPath | String | Jalur yang terhubung. |
-| resolution | ResolutionSetting | Pengaturan resolusi. Jika null, resolusi gambar akan digunakan. |
+| linkedPath | String | Jalur tertaut. |
+| resolusi | ResolutionSetting | Pengaturan resolusi. Jika null, resolusi gambar akan digunakan. |
 
-### Contoh
+### Lihat Juga
 
-Contoh ini menunjukkan bahwa metode ReplaceContents berfungsi dengan benar saat file konten baru memiliki resolusi yang berbeda.
+* class [ResolutionSetting](../../../aspose.psd/resolutionsetting/)
+* class [SmartObjectLayer](../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.SmartObjects](../../../aspose.psd.fileformats.psd.layers.smartobjects/)
+* assembly [Aspose.PSD](../../../)
+
+---
+
+## ReplaceContents(string, ResolutionSetting, bool) {#replacecontents_4}
+
+Mengganti konten dengan sebuah file. Tidak perlu memanggil metode UpdateModifiedContent setelahnya.
+
+```csharp
+public void ReplaceContents(string linkedPath, ResolutionSetting resolution, bool isReplaceOnlyThis)
+```
+
+| Parameter | Tipe | Deskripsi |
+| --- | --- | --- |
+| linkedPath | String | Jalur tertaut. |
+| resolusi | ResolutionSetting | Pengaturan resolusi. Jika null, resolusi gambar akan digunakan. |
+| isReplaceOnlyThis | Boolean | Bendera ini menunjukkan mengganti konten dari Smart Layer ini atau ke semua Smart Layer dengan konten ini |
+
+## Contoh
+
+Contoh ini menunjukkan bahwa metode ReplaceContents berfungsi dengan benar ketika file konten baru memiliki resolusi yang berbeda.
 
 ```csharp
 [C#]
 
-// Contoh ini menunjukkan bahwa metode ReplaceContents bekerja dengan benar ketika file konten baru memiliki resolusi yang berbeda.
+// Contoh ini menunjukkan bahwa metode ReplaceContents berfungsi dengan benar ketika file konten baru memiliki resolusi yang berbeda.
 string fileName = "CommonPsb.psd";
-string filePath = baseFolder + fileName; // gambar PSD asli
-string newContentPath = baseFolder + "image.jpg"; // file konten baru untuk smart object
+string filePath = baseFolder + fileName; // original PSD image
+string newContentPath = baseFolder + "image.jpg"; // the new content file for the smart object
 string outputFilePath = outputFolder + "ChangedPsd";
-string pngOutputPath = outputFilePath + ".png"; // file PNG keluaran
-string psdOutputPath = outputFilePath + ".psd"; // file PSD keluaran
+string pngOutputPath = outputFilePath + ".png"; // the output PNG file
+string psdOutputPath = outputFilePath + ".psd"; // the output PSD file
 using (PsdImage psd = (PsdImage)Image.Load(filePath))
 {
     for (int i = 0; i < psd.Layers.Length; i++)
@@ -208,30 +232,123 @@ using (PsdImage psd = (PsdImage)Image.Load(filePath))
 }
 ```
 
-### Lihat juga
+Kode berikut menunjukkan dukungan penggantian konten pada banyak objek pintar yang memiliki referensi sumber yang sama.
+
+```csharp
+[C#]
+
+string srcFile = "Source.psd";
+string replaceAll = "replaceAll.jpg";
+string replaceOne = "replaceOne.jpg";
+string outFileImgAll = "output_All.png";
+string outFileImgOne = "output_one.png";
+
+// Ini akan mengganti konteks yang sama di semua lapisan pintar dengan tautan yang sama.
+using (var image = (PsdImage)Image.Load(srcFile))
+{
+    var smartObjectLayer = (SmartObjectLayer)image.Layers[1];
+
+    // Ini akan mengganti konten di semua SmartLayers yang menggunakan konten yang sama.
+    smartObjectLayer.ReplaceContents(replaceAll, false);
+    smartObjectLayer.UpdateModifiedContent();
+
+    image.Save(outFileImgAll, new PngOptions());
+}
+
+//Ini akan mengganti konteks hanya pada lapisan yang dipilih, meninggalkan semua lapisan lain dengan konteks yang sama.
+using (var image = (PsdImage)Image.Load(srcFile))
+{
+    var smartObjectLayer = (SmartObjectLayer)image.Layers[1];
+
+    // Ini mengganti konten hanya pada SmartLayer yang dipilih.
+    smartObjectLayer.ReplaceContents(replaceOne, true);
+    smartObjectLayer.UpdateModifiedContent();
+
+    image.Save(outFileImgOne, new PngOptions());
+}
+```
+
+### Lihat Juga
 
 * class [ResolutionSetting](../../../aspose.psd/resolutionsetting/)
 * class [SmartObjectLayer](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.SmartObjects](../../smartobjectlayer/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.SmartObjects](../../../aspose.psd.fileformats.psd.layers.smartobjects/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## ReplaceContents(string) {#replacecontents_2}
 
-Mengganti konten dengan file. Tidak perlu memanggil metode UpdateModifiedContent sesudahnya.
+Mengganti konten dengan sebuah file. Tidak perlu memanggil metode UpdateModifiedContent setelahnya.
 
 ```csharp
 public void ReplaceContents(string linkedPath)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| linkedPath | String | Jalur yang terhubung. |
+| linkedPath | String | Jalur tertaut. |
 
-### Contoh
+### Lihat Juga
 
-Kode berikut menunjukkan dukungan untuk memperbarui objek Cerdas Tertaut.
+* class [SmartObjectLayer](../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.SmartObjects](../../../aspose.psd.fileformats.psd.layers.smartobjects/)
+* assembly [Aspose.PSD](../../../)
+
+---
+
+## ReplaceContents(string, bool) {#replacecontents_5}
+
+Mengganti konten dengan sebuah file. Tidak perlu memanggil metode UpdateModifiedContent setelahnya.
+
+```csharp
+public void ReplaceContents(string linkedPath, bool isReplaceOnlyThis)
+```
+
+| Parameter | Tipe | Deskripsi |
+| --- | --- | --- |
+| linkedPath | String | Jalur tertaut. |
+| isReplaceOnlyThis | Boolean | Bendera ini menunjukkan mengganti konten dari Smart Layer ini atau ke semua Smart Layer dengan konten ini |
+
+## Contoh
+
+Kode berikut menunjukkan dukungan penggantian konten pada banyak objek pintar yang memiliki referensi sumber yang sama.
+
+```csharp
+[C#]
+
+string srcFile = "Source.psd";
+string replaceAll = "replaceAll.jpg";
+string replaceOne = "replaceOne.jpg";
+string outFileImgAll = "output_All.png";
+string outFileImgOne = "output_one.png";
+
+// Ini akan mengganti konteks yang sama di semua lapisan pintar dengan tautan yang sama.
+using (var image = (PsdImage)Image.Load(srcFile))
+{
+    var smartObjectLayer = (SmartObjectLayer)image.Layers[1];
+
+    // Ini akan mengganti konten di semua SmartLayers yang menggunakan konten yang sama.
+    smartObjectLayer.ReplaceContents(replaceAll, false);
+    smartObjectLayer.UpdateModifiedContent();
+
+    image.Save(outFileImgAll, new PngOptions());
+}
+
+//Ini akan mengganti konteks hanya pada lapisan yang dipilih, meninggalkan semua lapisan lain dengan konteks yang sama.
+using (var image = (PsdImage)Image.Load(srcFile))
+{
+    var smartObjectLayer = (SmartObjectLayer)image.Layers[1];
+
+    // Ini mengganti konten hanya pada SmartLayer yang dipilih.
+    smartObjectLayer.ReplaceContents(replaceOne, true);
+    smartObjectLayer.UpdateModifiedContent();
+
+    image.Save(outFileImgOne, new PngOptions());
+}
+```
+
+Kode berikut menunjukkan dukungan pembaruan objek pintar tertaut.
 
 ```csharp
 [C#]
@@ -264,7 +381,7 @@ void AssertAreEqual(object actual, object expected)
     }
 }
 
-// Contoh ini menunjukkan cara memperbarui lapisan objek pintar eksternal atau tersemat menggunakan metode ini:
+// Contoh ini menunjukkan cara memperbarui lapisan objek pintar eksternal atau tersemat menggunakan metode berikut:
 // RelinkToFile, UpdateModifiedContent, ExportContents
 ExampleOfUpdatingSmartObjectLayer("rgb8_2x2_linked2.psd", 0x53, 0, 0, 2, 2, FileFormat.Png);
 ExampleOfUpdatingSmartObjectLayer("r-embedded-png.psd", 0x207, 0, 0, 0xb, 0x10, FileFormat.Png);
@@ -278,7 +395,7 @@ void ExampleOfUpdatingSmartObjectLayer(
     int bottom,
     FileFormat format)
 {
-    // Contoh ini menunjukkan cara mengubah lapisan objek pintar di file PSD dan mengekspor / memperbarui kontennya.
+    // Contoh ini menunjukkan cara mengubah lapisan objek pintar dalam file PSD dan mengekspor / memperbarui isinya.
     string fileName = Path.GetFileNameWithoutExtension(filePath);
     string dataDir = "updating_output" + Path.DirectorySeparatorChar;
     filePath = filePath;
@@ -299,13 +416,13 @@ void ExampleOfUpdatingSmartObjectLayer(
         if (contentType == SmartObjectType.AvailableLinked)
         {
             Directory.CreateDirectory(Path.GetDirectoryName(exportPath));
-            // Mari ekspor gambar smart object eksternal dari layer PSD smart object ke lokasi baru
-            // karena kita akan memodifikasinya.
+            // Mari ekspor gambar objek pintar eksternal dari lapisan objek pintar PSD ke lokasi baru
+            // karena kami akan memodifikasinya.
             smartObjectLayer.ExportContents(exportPath);
             smartObjectLayer.RelinkToFile(exportPath);
         }
 
-        // Mari kita balikkan konten smart object: gambar dalam (bukan cache).
+        // Mari balikkan konten objek pintar: gambar internal (tidak di-cache)
         using (var innerImage = (RasterImage)smartObjectLayer.LoadContents(new LoadOptions()))
         {
             InvertImage(innerImage);
@@ -316,18 +433,18 @@ void ExampleOfUpdatingSmartObjectLayer(
             }
         }
 
-        // Mari kita periksa apakah konten yang dimodifikasi belum memengaruhi rendering.
+        // Mari periksa apakah konten yang dimodifikasi belum memengaruhi rendering.
         image.Save(pngOutputPath, new PngOptions() { ColorType = PngColorType.TruecolorWithAlpha });
 
         smartObjectLayer.UpdateModifiedContent();
 
-        // Mari kita periksa apakah konten yang diperbarui memengaruhi rendering dan gambar psd disimpan dengan benar
+        // Mari periksa apakah konten yang diperbarui memengaruhi rendering dan gambar PSD disimpan dengan benar
         image.Save(psd2OutputPath, new PsdOptions(image));
         image.Save(png2OutputPath, new PngOptions() { ColorType = PngColorType.TruecolorWithAlpha });
     }
 }
 
-// Contoh ini mendemonstrasikan cara mengonversi smart object tersemat menjadi konten tertaut eksternal menggunakan metode ConvertToLinked.
+// Contoh ini menunjukkan cara mengonversi objek pintar tersemat menjadi konten tertaut eksternal menggunakan metode ConvertToLinked.
 ExampleOfEmbeddedSmartObjectLayerToLinkedConversion("new_panama-papers-4.psd", 0x10caa, 0, 0, 0x280, 0x169, FileFormat.Jpeg);
 ExampleOfEmbeddedSmartObjectLayerToLinkedConversion("r3-embedded.psd", 0x207, 0, 0, 0xb, 0x10, FileFormat.Png);
 ExampleOfEmbeddedSmartObjectLayerToLinkedConversion("r-embedded-tiff.psd", 0xca94, 0, 0, 0xb, 0x10, FileFormat.Tiff);
@@ -347,7 +464,7 @@ void ExampleOfEmbeddedSmartObjectLayerToLinkedConversion(
     int bottom,
     FileFormat format)
 {
-    // Ini mendemonstrasikan cara mengonversi lapisan objek pintar tersemat di file PSD ke lapisan eksternal.
+    // Ini menunjukkan cara mengonversi lapisan objek pintar tersemat dalam file PSD menjadi eksternal.
     var formatExt = GetFormatExt(format);
     string fileName = Path.GetFileNameWithoutExtension(filePath);
     string dataDir = "to_linked_output" + Path.DirectorySeparatorChar;
@@ -368,7 +485,7 @@ void ExampleOfEmbeddedSmartObjectLayerToLinkedConversion(
         AssertAreEqual(bottom, smartObjectLayer.ContentsBounds.Bottom);
         AssertAreEqual(SmartObjectType.AvailableLinked, smartObjectLayer.ContentType);
 
-        // Mari kita periksa apakah gambar yang dikonversi disimpan dengan benar
+        // Mari periksa apakah gambar yang dikonversi disimpan dengan benar
         image.Save(psdOutputPath, new PsdOptions(image));
         image.Save(pngOutputPath, new PngOptions() { ColorType = PngColorType.TruecolorWithAlpha });
     }
@@ -429,7 +546,7 @@ void ExampleOfLinkedSmartObjectLayerToEmbeddedConversion(
         }
 
         Directory.CreateDirectory(Path.GetDirectoryName(psdOutputPath));
-        // Mari kita periksa apakah gambar yang dikonversi disimpan dengan benar
+        // Mari periksa apakah gambar yang dikonversi disimpan dengan benar
         image.Save(psdOutputPath, new PsdOptions(image));
         image.Save(pngOutputPath, new PngOptions() { ColorType = PngColorType.TruecolorWithAlpha });
     }
@@ -446,8 +563,8 @@ void ExampleOfLinkedSmartObjectLayerToEmbeddedConversion(
     }
 }
 
-// Contoh ini menunjukkan cara mengubah lapisan objek pintar eksternal Adobe® Photoshop® dan mengekspor / memperbarui kontennya
-// menggunakan metode ExportContents dan ReplaceContents.
+// Contoh ini menunjukkan cara mengubah lapisan objek pintar eksternal Adobe® Photoshop® dan mengekspor / memperbarui isinya
+// dengan menggunakan metode ExportContents dan ReplaceContents.
 ExampleOfExternalSmartObjectLayerSupport("rgb8_2x2_linked.psd", 0x53, 0, 0, 2, 2, FileFormat.Png);
 ExampleOfExternalSmartObjectLayerSupport("rgb8_2x2_linked2.psd", 0x4aea, 0, 0, 10, 10, FileFormat.Psd);
 void ExampleOfExternalSmartObjectLayerSupport(string filePath, int contentsLength, int left, int top, int right, int bottom, FileFormat format)
@@ -473,10 +590,10 @@ void ExampleOfExternalSmartObjectLayerSupport(string filePath, int contentsLengt
         AssertAreEqual(SmartObjectType.AvailableLinked, smartObjectLayer.ContentType);
 
         Directory.CreateDirectory(Path.GetDirectoryName(exportPath));
-        // Mari ekspor gambar smart object tertaut dari layer PSD smart object
+        // Mari ekspor gambar objek pintar tertaut dari lapisan objek pintar PSD
         smartObjectLayer.ExportContents(exportPath);
 
-        // Mari kita periksa apakah gambar asli disimpan dengan benar
+        // Mari periksa apakah gambar asli disimpan dengan benar
         image.Save(psdOutputPath, new PsdOptions(image));
         image.Save(pngOutputPath, new PngOptions() { ColorType = PngColorType.TruecolorWithAlpha });
 
@@ -484,15 +601,15 @@ void ExampleOfExternalSmartObjectLayerSupport(string filePath, int contentsLengt
         {
             AssertAreEqual(format, innerImage.FileFormat);
 
-            // Mari kita balikkan gambar smart object yang ditautkan
+            // Mari balikkan gambar objek pintar tertaut
             InvertImage(innerImage);
             innerImage.Save(linkOutputPath);
 
-            // Mari ganti gambar smart object tertaut di lapisan PSD
+            // Mari ganti gambar objek pintar tertaut di lapisan PSD
             smartObjectLayer.ReplaceContents(linkOutputPath);
         }
 
-        // Mari kita periksa apakah gambar yang diperbarui disimpan dengan benar
+        // Mari periksa apakah gambar yang diperbarui disimpan dengan benar
         image.Save(psd2OutputPath, new PsdOptions(image));
         image.Save(png2OutputPath, new PngOptions() { ColorType = PngColorType.TruecolorWithAlpha });
     }
@@ -512,7 +629,7 @@ void InvertImage(RasterImage innerImage)
     }
 }
 
-// Membalik gambar raster.
+// Membalikkan citra raster.
 void InvertRasterImage(RasterImage innerImage)
 {
     var pixels = innerImage.LoadArgb32Pixels(innerImage.Bounds);
@@ -534,10 +651,10 @@ string GetFormatExt(FileFormat format)
 }
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [SmartObjectLayer](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.SmartObjects](../../smartobjectlayer/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.SmartObjects](../../../aspose.psd.fileformats.psd.layers.smartobjects/)
+* assembly [Aspose.PSD](../../../)
 
 

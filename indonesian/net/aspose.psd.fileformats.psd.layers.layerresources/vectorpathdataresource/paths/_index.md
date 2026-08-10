@@ -1,28 +1,29 @@
 ---
-title: VectorPathDataResource.Paths
-second_title: Aspose.PSD untuk Referensi .NET API
-description: VectorPathDataResource Properti. Mendapat atau menyetel catatan jalur.
+title: "VectorPathDataResource.Paths"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "VectorPathDataResource properti. Mendapatkan atau mengatur catatan jalur"
 type: docs
 weight: 50
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources/vectorpathdataresource/paths/
 ---
+{{< psd/tize >}}
 ## VectorPathDataResource.Paths property
 
-Mendapat atau menyetel catatan jalur.
+Mendapatkan atau mengatur catatan jalur.
 
 ```csharp
 public VectorPathRecord[] Paths { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
-Jalurnya.
+Jalur.
 
-### Lihat juga
+### Lihat Juga
 
 * class [VectorPathRecord](../../../aspose.psd.fileformats.core.vectorpaths/vectorpathrecord/)
 * class [VectorPathDataResource](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../vectorpathdataresource/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

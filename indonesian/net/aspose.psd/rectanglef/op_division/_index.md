@@ -1,38 +1,39 @@
 ---
-title: RectangleF.op_Division
-second_title: Aspose.PSD untuk Referensi .NET API
-description: RectangleF metode. Menerapkan operator /.
+title: "RectangleF.op_Division"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode RectangleF. Mengimplementasikan operator /"
 type: docs
 weight: 260
 url: /id/net/aspose.psd/rectanglef/op_division/
 ---
+{{< psd/tize >}}
 ## RectangleF Division operator
 
-Menerapkan operator /.
+Mengimplementasikan operator /.
 
 ```csharp
 public static RectangleF operator /(RectangleF rectangle, float divider)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| rectangle | RectangleF | Persegi panjang. |
-| divider | Single | Pembagi. |
+| persegi panjang | RectangleF | Persegi panjang. |
+| pembagi | Single | Pembagi. |
 
-### Nilai Pengembalian
+### Nilai Kembalian
 
-Hasil operator.
+Hasil dari operator.
 
 ### Pengecualian
 
 | pengecualian | kondisi |
 | --- | --- |
-| ArgumentOutOfRangeException | pembagi - Pembagian dengan nol tidak diperbolehkan. |
+| ArgumentOutOfRangeException | pembagi - Pembagian dengan nol tidak diizinkan. |
 
-### Lihat juga
+### Lihat Juga
 
 * struct [RectangleF](../)
-* ruang nama [Aspose.PSD](../../rectanglef/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,28 +1,29 @@
 ---
-title: StringFormat.LineAlignment
-second_title: Aspose.PSD untuk Referensi .NET API
-description: StringFormat Properti. Mendapat atau mengatur perataan garis pada bidang horizontal.
+title: "StringFormat.LineAlignment"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti StringFormat. Mendapatkan atau mengatur perataan baris pada bidang horizontal."
 type: docs
-weight: 100
+weight: 110
 url: /id/net/aspose.psd/stringformat/linealignment/
 ---
+{{< psd/tize >}}
 ## StringFormat.LineAlignment property
 
-Mendapat atau mengatur perataan garis pada bidang horizontal.
+Mendapatkan atau mengatur perataan baris pada bidang horizontal.
 
 ```csharp
 public StringAlignment LineAlignment { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
-A[`StringAlignment`](../../stringalignment/) pencacahan yang mewakili keselarasan garis.
+Enumerasi [`StringAlignment`](../../stringalignment/) yang merepresentasikan perataan baris.
 
-### Lihat juga
+### Lihat Juga
 
 * enum [StringAlignment](../../stringalignment/)
 * class [StringFormat](../)
-* ruang nama [Aspose.PSD](../../stringformat/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

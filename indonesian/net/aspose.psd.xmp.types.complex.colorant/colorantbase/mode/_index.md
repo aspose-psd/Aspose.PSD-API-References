@@ -1,28 +1,29 @@
 ---
-title: ColorantBase.Mode
-second_title: Aspose.PSD untuk Referensi .NET API
-description: ColorantBase Properti. MendapatColorMode .
+title: "ColorantBase.Mode"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti ColorantBase. Mendapatkan ColorMode"
 type: docs
 weight: 20
 url: /id/net/aspose.psd.xmp.types.complex.colorant/colorantbase/mode/
 ---
+{{< psd/tize >}}
 ## ColorantBase.Mode property
 
-Mendapat[`ColorMode`](../../colormode/) .
+Mendapatkan [`ColorMode`](../../colormode/).
 
 ```csharp
 public ColorMode Mode { get; }
 ```
 
-### Nilai properti
+### Property Value
 
 Mode warna.
 
-### Lihat juga
+### Lihat Juga
 
 * enum [ColorMode](../../colormode/)
 * class [ColorantBase](../)
-* ruang nama [Aspose.PSD.Xmp.Types.Complex.Colorant](../../colorantbase/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.Colorant](../../../aspose.psd.xmp.types.complex.colorant/)
+* assembly [Aspose.PSD](../../../)
 
 

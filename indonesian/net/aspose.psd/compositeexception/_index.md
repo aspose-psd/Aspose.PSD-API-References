@@ -1,11 +1,12 @@
 ---
-title: Class CompositeException
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Aspose.PSD.CompositeException kelas. Pengecualian komposit
+title: "Kelas CompositeException"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Kelas Aspose.PSD.CompositeException. Pengecualian komposit."
 type: docs
 weight: 410
 url: /id/net/aspose.psd/compositeexception/
 ---
+{{< psd/tize >}}
 ## CompositeException class
 
 Pengecualian komposit
@@ -14,9 +15,9 @@ Pengecualian komposit
 public class CompositeException : Exception
 ```
 
-### Lihat juga
+### Lihat Juga
 
-* ruang nama [Aspose.PSD](../../aspose.psd/)
-* perakitan [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

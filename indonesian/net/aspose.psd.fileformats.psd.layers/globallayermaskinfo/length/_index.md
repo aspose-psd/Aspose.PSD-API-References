@@ -1,23 +1,24 @@
 ---
-title: GlobalLayerMaskInfo.Length
-second_title: Aspose.PSD untuk Referensi .NET API
-description: GlobalLayerMaskInfo Properti. Mendapatkan panjang bagian layer mask global dalam byte.
+title: "GlobalLayerMaskInfo.Length"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti GlobalLayerMaskInfo. Mendapatkan panjang bagian mask lapisan global dalam byte"
 type: docs
 weight: 60
 url: /id/net/aspose.psd.fileformats.psd.layers/globallayermaskinfo/length/
 ---
+{{< psd/tize >}}
 ## GlobalLayerMaskInfo.Length property
 
-Mendapatkan panjang bagian layer mask global dalam byte.
+Mendapatkan panjang bagian masker lapisan global dalam byte.
 
 ```csharp
-public int Length { get; }
+public long Length { get; }
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [GlobalLayerMaskInfo](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers](../../globallayermaskinfo/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

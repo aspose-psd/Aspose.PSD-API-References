@@ -1,27 +1,28 @@
 ---
-title: ExifData.GPSStatus
-second_title: Aspose.PSD untuk Referensi .NET API
-description: ExifData Properti. Mendapatkan atau menyetel status penerima GPS saat gambar direkam.
+title: "ExifData.GPSStatus"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti ExifData. Mendapatkan atau mengatur status penerima GPS saat gambar direkam"
 type: docs
 weight: 620
 url: /id/net/aspose.psd.exif/exifdata/gpsstatus/
 ---
+{{< psd/tize >}}
 ## ExifData.GPSStatus property
 
-Mendapatkan atau menyetel status penerima GPS saat gambar direkam.
+Mendapatkan atau mengatur status penerima GPS saat gambar direkam.
 
 ```csharp
 public string GPSStatus { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
 Status penerima GPS saat gambar direkam.
 
-### Lihat juga
+### Lihat Juga
 
 * class [ExifData](../)
-* ruang nama [Aspose.PSD.Exif](../../exifdata/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

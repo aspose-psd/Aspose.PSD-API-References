@@ -1,28 +1,29 @@
 ---
-title: LspfResource.LockType
-second_title: Aspose.PSD untuk Referensi .NET API
-description: LspfResource Properti. Mendapat atau menyetel jenis kunci.
+title: "LspfResource.LockType"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti LspfResource. Mengambil atau mengatur tipe kunci"
 type: docs
-weight: 70
+weight: 60
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources/lspfresource/locktype/
 ---
+{{< psd/tize >}}
 ## LspfResource.LockType property
 
-Mendapat atau menyetel jenis kunci.
+Mendapatkan atau mengatur tipe kunci.
 
 ```csharp
 public LayerLockType LockType { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
-Jenis kunci.
+Tipe kunci.
 
-### Lihat juga
+### Lihat Juga
 
 * enum [LayerLockType](../../layerlocktype/)
 * class [LspfResource](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../lspfresource/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

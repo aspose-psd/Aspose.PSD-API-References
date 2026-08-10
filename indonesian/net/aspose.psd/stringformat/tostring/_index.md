@@ -1,27 +1,28 @@
 ---
-title: StringFormat.ToString
-second_title: Aspose.PSD untuk Referensi .NET API
-description: StringFormat metode. Mengubah iniStringFormat menolak string yang dapat dibaca manusia.
+title: "StringFormat.ToString"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode StringFormat. Mengonversi objek StringFormat ini menjadi string yang dapat dibaca manusia"
 type: docs
-weight: 150
+weight: 180
 url: /id/net/aspose.psd/stringformat/tostring/
 ---
+{{< psd/tize >}}
 ## StringFormat.ToString method
 
-Mengubah ini[`StringFormat`](../) menolak string yang dapat dibaca manusia.
+Mengonversi objek [`StringFormat`](../) ini menjadi string yang dapat dibaca manusia.
 
 ```csharp
 public override string ToString()
 ```
 
-### Nilai Pengembalian
+### Nilai Kembalian
 
-Representasi string dari ini[`StringFormat`](../) objek.
+Representasi string dari objek [`StringFormat`](../) ini.
 
-### Lihat juga
+### Lihat Juga
 
 * class [StringFormat](../)
-* ruang nama [Aspose.PSD](../../stringformat/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

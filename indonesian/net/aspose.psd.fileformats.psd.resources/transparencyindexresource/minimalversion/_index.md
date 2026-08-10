@@ -1,27 +1,28 @@
 ---
-title: TransparencyIndexResource.MinimalVersion
-second_title: Aspose.PSD untuk Referensi .NET API
-description: TransparencyIndexResource Properti. Mendapat versi psd minimal yang diperlukan.
+title: "TransparencyIndexResource.MinimalVersion"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti TransparencyIndexResource. Mendapatkan versi psd minimal yang diperlukan"
 type: docs
 weight: 30
 url: /id/net/aspose.psd.fileformats.psd.resources/transparencyindexresource/minimalversion/
 ---
+{{< psd/tize >}}
 ## TransparencyIndexResource.MinimalVersion property
 
-Mendapat versi psd minimal yang diperlukan.
+Mendapatkan versi psd minimal yang diperlukan.
 
 ```csharp
 public override int MinimalVersion { get; }
 ```
 
-### Nilai properti
+### Property Value
 
 Versi psd minimal.
 
-### Lihat juga
+### Lihat Juga
 
 * class [TransparencyIndexResource](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Resources](../../transparencyindexresource/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

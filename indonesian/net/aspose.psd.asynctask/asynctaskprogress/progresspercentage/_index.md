@@ -1,23 +1,24 @@
 ---
-title: AsyncTaskProgress.ProgressPercentage
-second_title: Aspose.PSD untuk Referensi .NET API
-description: AsyncTaskProgress bidang. Progres tugas asinkron dalam persen.
+title: "AsyncTaskProgress.ProgressPercentage"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Bidang AsyncTaskProgress. Kemajuan tugas asinkron dalam persen"
 type: docs
 weight: 30
 url: /id/net/aspose.psd.asynctask/asynctaskprogress/progresspercentage/
 ---
+{{< psd/tize >}}
 ## AsyncTaskProgress.ProgressPercentage field
 
-Progres tugas asinkron, dalam persen.
+Kemajuan tugas asinkron, dalam persen.
 
 ```csharp
 public readonly int ProgressPercentage;
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [AsyncTaskProgress](../)
-* ruang nama [Aspose.PSD.AsyncTask](../../asynctaskprogress/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.AsyncTask](../../../aspose.psd.asynctask/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,23 +1,24 @@
 ---
-title: NvrtResource.Key
-second_title: Aspose.PSD untuk Referensi .NET API
-description: NvrtResource Properti. Mendapat kunci sumber daya lapisan.
+title: "NvrtResource.Key"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti NvrtResource. Mendapatkan kunci sumber lapisan"
 type: docs
 weight: 20
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources/nvrtresource/key/
 ---
+{{< psd/tize >}}
 ## NvrtResource.Key property
 
-Mendapat kunci sumber daya lapisan.
+Mendapatkan kunci sumber daya lapisan.
 
 ```csharp
 public override int Key { get; }
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [NvrtResource](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../nvrtresource/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

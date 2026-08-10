@@ -1,27 +1,28 @@
 ---
-title: IccUntaggedResource.Profile
-second_title: Aspose.PSD untuk Referensi .NET API
-description: IccUntaggedResource Properti. Mendapat atau menyetel profil.
+title: "IccUntaggedResource.Profile"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "IccUntaggedResource properti. Mendapatkan atau mengatur profil"
 type: docs
 weight: 40
 url: /id/net/aspose.psd.fileformats.psd.resources/iccuntaggedresource/profile/
 ---
+{{< psd/tize >}}
 ## IccUntaggedResource.Profile property
 
-Mendapat atau menyetel profil.
+Mendapatkan atau mengatur profil.
 
 ```csharp
 public byte Profile { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
 Profil.
 
-### Lihat juga
+### Lihat Juga
 
 * class [IccUntaggedResource](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Resources](../../iccuntaggedresource/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

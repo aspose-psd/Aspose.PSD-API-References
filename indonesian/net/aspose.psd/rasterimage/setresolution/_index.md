@@ -1,28 +1,29 @@
 ---
-title: RasterImage.SetResolution
-second_title: Aspose.PSD untuk Referensi .NET API
-description: RasterImage metode. Menetapkan resolusi untuk iniRasterImage .
+title: "RasterImage.SetResolution"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode RasterImage. Mengatur resolusi untuk RasterImage ini"
 type: docs
-weight: 570
+weight: 590
 url: /id/net/aspose.psd/rasterimage/setresolution/
 ---
+{{< psd/tize >}}
 ## RasterImage.SetResolution method
 
-Menetapkan resolusi untuk ini[`RasterImage`](../) .
+Mengatur resolusi untuk [`RasterImage`](../) ini.
 
 ```csharp
 public virtual void SetResolution(double dpiX, double dpiY)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| dpiX | Double | Resolusi horizontal, dalam titik per inci, dari[`RasterImage`](../). |
-| dpiY | Double | Resolusi vertikal, dalam titik per inci, dari[`RasterImage`](../). |
+| dpiX | Double | Resolusi horizontal, dalam titik per inci, dari [`RasterImage`](../). |
+| dpiY | Double | Resolusi vertikal, dalam titik per inci, dari [`RasterImage`](../). |
 
-### Lihat juga
+### Lihat Juga
 
 * class [RasterImage](../)
-* ruang nama [Aspose.PSD](../../rasterimage/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

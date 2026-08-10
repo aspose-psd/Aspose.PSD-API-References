@@ -1,28 +1,29 @@
 ---
-title: JpegExifData.YResolution
-second_title: Aspose.PSD untuk Referensi .NET API
-description: JpegExifData Properti. Mendapat atau mengatur resolusi y.
+title: "JpegExifData.YResolution"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti JpegExifData. Mendapatkan atau mengatur resolusi y"
 type: docs
 weight: 260
 url: /id/net/aspose.psd.exif/jpegexifdata/yresolution/
 ---
+{{< psd/tize >}}
 ## JpegExifData.YResolution property
 
-Mendapat atau mengatur resolusi y.
+Mendapatkan atau mengatur resolusi y.
 
 ```csharp
 public TiffRational YResolution { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
 Resolusi y.
 
-### Lihat juga
+### Lihat Juga
 
 * class [TiffRational](../../../aspose.psd.fileformats.tiff/tiffrational/)
 * class [JpegExifData](../)
-* ruang nama [Aspose.PSD.Exif](../../jpegexifdata/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

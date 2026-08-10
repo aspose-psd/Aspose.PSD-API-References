@@ -1,95 +1,96 @@
 ---
-title: ColorPaletteHelper.GetCloseImagePalette
-second_title: Aspose.PSD untuk Referensi .NET API
-description: ColorPaletteHelper metode. Mendapat palet warna dari gambar raster membuat palet gambar jika gambar tidak memilikinya. Jika ada palet itu akan digunakan sebagai gantinya melakukan perhitungan.
+title: "ColorPaletteHelper.GetCloseImagePalette"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode ColorPaletteHelper. Mendapatkan palet warna dari gambar raster yang mem-paletkan gambar jika gambar tidak memiliki satu. Jika palet sudah ada, akan digunakan alih-alih melakukan perhitungan"
 type: docs
 weight: 60
 url: /id/net/aspose.psd/colorpalettehelper/getcloseimagepalette/
 ---
+{{< psd/tize >}}
 ## GetCloseImagePalette(RasterImage, int) {#getcloseimagepalette_2}
 
-Mendapat palet warna dari gambar raster (membuat palet gambar) jika gambar tidak memilikinya. Jika ada palet, itu akan digunakan sebagai gantinya melakukan perhitungan.
+Mendapatkan palet warna dari gambar raster (mem-palletkan gambar) jika gambar tidak memiliki palet. Jika palet sudah ada, akan digunakan alih-alih melakukan perhitungan.
 
 ```csharp
 public static IColorPalette GetCloseImagePalette(RasterImage image, int entriesCount)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| image | RasterImage | Gambar raster. |
+| gambar | RasterImage | Gambar raster. |
 | entriesCount | Int32 | Jumlah entri yang diinginkan. |
 
-### Nilai Pengembalian
+### Nilai Kembalian
 
-Palet warna yang dimulai dengan warna paling sering dari*image* dan berisi*entriesCount* entri.
+Palet warna yang dimulai dengan warna paling sering dari *image* dan berisi *entriesCount* entri.
 
-### Lihat juga
+### Lihat Juga
 
 * interface [IColorPalette](../../icolorpalette/)
 * class [RasterImage](../../rasterimage/)
 * class [ColorPaletteHelper](../)
-* ruang nama [Aspose.PSD](../../colorpalettehelper/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## GetCloseImagePalette(RasterImage, Rectangle, int) {#getcloseimagepalette}
 
-Mendapat palet warna dari gambar raster (membuat palet gambar) jika gambar tidak memilikinya. Jika ada palet, itu akan digunakan sebagai gantinya melakukan perhitungan.
+Mendapatkan palet warna dari gambar raster (mem-palletkan gambar) jika gambar tidak memiliki palet. Jika palet sudah ada, akan digunakan alih-alih melakukan perhitungan.
 
 ```csharp
 public static IColorPalette GetCloseImagePalette(RasterImage image, Rectangle destBounds, 
     int entriesCount)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| image | RasterImage | Gambar raster. |
+| gambar | RasterImage | Gambar raster. |
 | destBounds | Rectangle | Batas gambar tujuan. |
 | entriesCount | Int32 | Jumlah entri yang diinginkan. |
 
-### Nilai Pengembalian
+### Nilai Kembalian
 
-Palet warna yang dimulai dengan warna paling sering dari*image* dan berisi*entriesCount* entri.
+Palet warna yang dimulai dengan warna paling sering dari *image* dan berisi *entriesCount* entri.
 
-### Lihat juga
+### Lihat Juga
 
 * interface [IColorPalette](../../icolorpalette/)
 * class [RasterImage](../../rasterimage/)
 * struct [Rectangle](../../rectangle/)
 * class [ColorPaletteHelper](../)
-* ruang nama [Aspose.PSD](../../colorpalettehelper/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## GetCloseImagePalette(RasterImage, Rectangle, int, bool) {#getcloseimagepalette_1}
 
-Mendapat palet warna dari gambar raster (membuat palet gambar) jika gambar tidak memilikinya. Jika ada palet, itu akan digunakan sebagai gantinya melakukan perhitungan.
+Mendapatkan palet warna dari gambar raster (mem-palletkan gambar) jika gambar tidak memiliki palet. Jika palet sudah ada, akan digunakan alih-alih melakukan perhitungan.
 
 ```csharp
 public static IColorPalette GetCloseImagePalette(RasterImage image, Rectangle destBounds, 
     int entriesCount, bool useImagePalette)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| image | RasterImage | Gambar raster. |
+| gambar | RasterImage | Gambar raster. |
 | destBounds | Rectangle | Batas gambar tujuan. |
 | entriesCount | Int32 | Jumlah entri yang diinginkan. |
-| useImagePalette | Boolean | Jika disetel, itu akan menggunakan palet gambarnya sendiri jika tersedia |
+| useImagePalette | Boolean | Jika diatur, akan menggunakan palet gambar sendiri jika tersedia |
 
-### Nilai Pengembalian
+### Nilai Kembalian
 
-Palet warna yang dimulai dengan warna paling sering dari*image* dan berisi*entriesCount* entri.
+Palet warna yang dimulai dengan warna paling sering dari *image* dan berisi *entriesCount* entri.
 
-### Lihat juga
+### Lihat Juga
 
 * interface [IColorPalette](../../icolorpalette/)
 * class [RasterImage](../../rasterimage/)
 * struct [Rectangle](../../rectangle/)
 * class [ColorPaletteHelper](../)
-* ruang nama [Aspose.PSD](../../colorpalettehelper/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

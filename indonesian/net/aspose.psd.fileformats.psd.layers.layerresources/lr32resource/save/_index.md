@@ -1,35 +1,36 @@
 ---
-title: Lr32Resource.Save
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Lr32Resource metode. Menyimpan rekaman layer.
+title: "Lr32Resource.Save"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Lr32Resource metode. Menyimpan catatan lapisan"
 type: docs
 weight: 70
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources/lr32resource/save/
 ---
+{{< psd/tize >}}
 ## Lr32Resource.Save method
 
-Menyimpan rekaman layer.
+Menyimpan catatan lapisan.
 
 ```csharp
 public override void Save(StreamContainer streamContainer, int psdVersion)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| streamContainer | StreamContainer | Wadah aliran. |
+| streamContainer | StreamContainer | Kontainer aliran. |
 | psdVersion | Int32 | Versi psd. |
 
 ### Pengecualian
 
 | pengecualian | kondisi |
 | --- | --- |
-| NotImplementedException | Menyimpan saluran 32 bit tidak diterapkan |
+| NotImplementedException | Penyimpanan saluran 32 bit belum diimplementasikan |
 
-### Lihat juga
+### Lihat Juga
 
 * class [StreamContainer](../../../aspose.psd/streamcontainer/)
 * class [Lr32Resource](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../lr32resource/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../lr32resource/)
+* assembly [Aspose.PSD](../../../)
 
 

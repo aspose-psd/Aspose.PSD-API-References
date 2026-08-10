@@ -1,32 +1,33 @@
 ---
-title: CurvesDiscreteManager.GetValueInPosition
-second_title: Aspose.PSD untuk Referensi .NET API
-description: CurvesDiscreteManager metode. Mendapat nilai di posisi.
+title: "CurvesDiscreteManager.GetValueInPosition"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode CurvesDiscreteManager. Mendapatkan nilai pada posisi"
 type: docs
 weight: 10
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources/curvesdiscretemanager/getvalueinposition/
 ---
+{{< psd/tize >}}
 ## CurvesDiscreteManager.GetValueInPosition method
 
-Mendapat nilai di posisi.
+Mendapatkan nilai pada posisi.
 
 ```csharp
 public byte GetValueInPosition(int channelIndex, byte position)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
 | channelIndex | Int32 | Indeks saluran. |
-| position | Byte | Posisinya. |
+| posisi | Byte | Posisi. |
 
-### Nilai Pengembalian
+### Nilai Kembalian
 
 Nilai kurva berdasarkan posisinya
 
-### Lihat juga
+### Lihat Juga
 
 * class [CurvesDiscreteManager](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../curvesdiscretemanager/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: LayerResource.ResourceSignature
-second_title: Aspose.PSD untuk Referensi .NET API
-description: LayerResource bidang. Tanda tangan sumber daya umum.
+title: "LayerResource.ResourceSignature"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Field LayerResource. Tanda tangan sumber daya umum."
 type: docs
 weight: 80
 url: /id/net/aspose.psd.fileformats.psd.layers/layerresource/resourcesignature/
 ---
+{{< psd/tize >}}
 ## LayerResource.ResourceSignature field
 
 Tanda tangan sumber daya umum.
@@ -14,10 +15,10 @@ Tanda tangan sumber daya umum.
 public const int ResourceSignature;
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [LayerResource](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers](../../layerresource/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

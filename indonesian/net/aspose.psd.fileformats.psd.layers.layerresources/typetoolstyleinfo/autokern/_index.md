@@ -1,27 +1,28 @@
 ---
-title: TypeToolStyleInfo.AutoKern
-second_title: Aspose.PSD untuk Referensi .NET API
-description: TypeToolStyleInfo Properti. Mendapat atau menetapkan nilai yang menunjukkan apakah kerning otomatis aktif atau nonaktif.
+title: "TypeToolStyleInfo.AutoKern"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti TypeToolStyleInfo. Mendapatkan atau mengatur nilai yang menunjukkan apakah auto kerning aktif atau tidak"
 type: docs
 weight: 20
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources/typetoolstyleinfo/autokern/
 ---
+{{< psd/tize >}}
 ## TypeToolStyleInfo.AutoKern property
 
-Mendapat atau menetapkan nilai yang menunjukkan apakah kerning otomatis aktif atau nonaktif.
+Mendapatkan atau mengatur nilai yang menunjukkan apakah auto kerning aktif atau tidak.
 
 ```csharp
 public bool AutoKern { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
-`BENAR` jika kerning otomatis aktif; jika tidak,`PALSU` .
+`true` jika auto kerning aktif; jika tidak, `false`.
 
-### Lihat juga
+### Lihat Juga
 
 * class [TypeToolStyleInfo](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../typetoolstyleinfo/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

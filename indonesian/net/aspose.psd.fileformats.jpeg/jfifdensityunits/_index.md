@@ -1,11 +1,12 @@
 ---
-title: Enum JfifDensityUnits
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Aspose.PSD.FileFormats.Jpeg.JfifDensityUnits enum. Satuan kepadatan jfif.
+title: "Enum JfifDensityUnits"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Enum Aspose.PSD.FileFormats.Jpeg.JfifDensityUnits. Unit kepadatan jfif"
 type: docs
-weight: 1480
+weight: 1490
 url: /id/net/aspose.psd.fileformats.jpeg/jfifdensityunits/
 ---
+{{< psd/tize >}}
 ## JfifDensityUnits enumeration
 
 Satuan kepadatan jfif.
@@ -16,15 +17,15 @@ public enum JfifDensityUnits : byte
 
 ### Nilai
 
-| Nama | Nilai | Keterangan |
+| Nama | Nilai | Deskripsi |
 | --- | --- | --- |
 | NoUnits | `0` | Tidak ada satuan. |
 | PixelsPerInch | `1` | Piksel per inci. |
 | PixelsPerCm | `2` | Piksel per cm. |
 
-### Lihat juga
+### Lihat Juga
 
-* ruang nama [Aspose.PSD.FileFormats.Jpeg](../../aspose.psd.fileformats.jpeg/)
-* perakitan [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Jpeg](../../aspose.psd.fileformats.jpeg/)
+* assembly [Aspose.PSD](../../)
 
 

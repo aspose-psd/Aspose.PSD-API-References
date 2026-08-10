@@ -1,27 +1,28 @@
 ---
-title: PieShape.SweepAngle
-second_title: Aspose.PSD untuk Referensi .NET API
-description: PieShape Properti. Mendapat atau mengatur sudut sapuan.
+title: "PieShape.SweepAngle"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti PieShape. Mendapatkan atau mengatur sudut sapuan"
 type: docs
 weight: 40
 url: /id/net/aspose.psd.shapes/pieshape/sweepangle/
 ---
+{{< psd/tize >}}
 ## PieShape.SweepAngle property
 
-Mendapat atau mengatur sudut sapuan.
+Mendapatkan atau mengatur sudut sapuan.
 
 ```csharp
 public float SweepAngle { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
 Sudut sapuan.
 
-### Lihat juga
+### Lihat Juga
 
 * class [PieShape](../)
-* ruang nama [Aspose.PSD.Shapes](../../pieshape/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 

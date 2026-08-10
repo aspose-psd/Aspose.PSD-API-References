@@ -1,26 +1,27 @@
 ---
-title: PatternFillSettings.PatternId
-second_title: Aspose.PSD untuk Referensi .NET API
-description: PatternFillSettings Properti. Mendapat atau menyetel pengidentifikasi pola.
+title: "PatternFillSettings.PatternId"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti PatternFillSettings. Mendapatkan atau mengatur pengidentifikasi pola"
 type: docs
-weight: 80
+weight: 100
 url: /id/net/aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings/patternid/
 ---
+{{< psd/tize >}}
 ## PatternFillSettings.PatternId property
 
-Mendapat atau menyetel pengidentifikasi pola.
+Mendapatkan atau mengatur pengidentifikasi pola.
 
 ```csharp
 public string PatternId { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
 Pengidentifikasi pola.
 
-### Contoh
+## Contoh
 
-Kode berikut menunjukkan dukungan dari pengeditan Fill Layer Pattern.
+Kode berikut menunjukkan dukungan pengeditan Fill Layer Pattern.
 
 ```csharp
 [C#]
@@ -75,10 +76,10 @@ using (im)
 }
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [PatternFillSettings](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../patternfillsettings/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../../)
 
 

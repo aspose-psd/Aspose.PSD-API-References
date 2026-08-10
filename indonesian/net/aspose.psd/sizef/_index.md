@@ -1,14 +1,15 @@
 ---
-title: Struct SizeF
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Aspose.PSD.SizeF struct. Menyimpan sepasang angka titikmengambang yang diurutkan biasanya lebar dan tinggi persegi panjang.
+title: "Struktur SizeF"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Struktur Aspose.PSD.SizeF. Menyimpan sepasang angka floating point yang biasanya merupakan lebar dan tinggi sebuah persegi panjang."
 type: docs
-weight: 5560
+weight: 6060
 url: /id/net/aspose.psd/sizef/
 ---
+{{< psd/tize >}}
 ## SizeF structure
 
-Menyimpan sepasang angka titik-mengambang yang diurutkan, biasanya lebar dan tinggi persegi panjang.
+Menyimpan pasangan terurut dari angka floating-point, biasanya lebar dan tinggi sebuah persegi panjang.
 
 ```csharp
 public struct SizeF
@@ -16,41 +17,41 @@ public struct SizeF
 
 ## Konstruktor
 
-| Nama | Keterangan |
+| Nama | Deskripsi |
 | --- | --- |
-| [SizeF](sizef/#constructor)(PointF) | Menginisialisasi instance baru dari`SizeF` struktur dari yang ditentukan[`PointF`](../pointf/) . |
-| [SizeF](sizef/#constructor_1)(SizeF) | Menginisialisasi instance baru dari`SizeF` struktur dari yang ditentukan`SizeF` . |
-| [SizeF](sizef/#constructor_2)(float, float) | Menginisialisasi instance baru dari`SizeF` struktur dari dimensi yang ditentukan. |
+| [SizeF](sizef/#constructor)(PointF) | Menginisialisasi instance baru dari struktur `SizeF` dari [`PointF`](../pointf/) yang ditentukan. |
+| [SizeF](sizef/#constructor_1)(SizeF) | Menginisialisasi instance baru dari struktur `SizeF` dari `SizeF` yang ditentukan. |
+| [SizeF](sizef/#constructor_2)(float, float) | Menginisialisasi sebuah instance baru dari struktur `SizeF` dari dimensi yang ditentukan. |
 
 ## Properti
 
-| Nama | Keterangan |
+| Nama | Deskripsi |
 | --- | --- |
-| static [Empty](../../aspose.psd/sizef/empty/) { get; } | Mendapat instance baru dari`SizeF` struktur yang dimiliki[`Width`](./width/) Dan[`Height`](./height/) nilai disetel ke nol. |
-| [Height](../../aspose.psd/sizef/height/) { get; set; } | Mendapat atau menyetel komponen vertikal ini`SizeF` . |
-| [IsEmpty](../../aspose.psd/sizef/isempty/) { get; } | Mendapat nilai yang menunjukkan apakah ini`SizeF` memiliki lebar dan tinggi nol. |
-| [Width](../../aspose.psd/sizef/width/) { get; set; } | Mendapat atau menyetel komponen horizontal ini`SizeF` . |
+| static [Empty](../../aspose.psd/sizef/empty/) { get; } | Mendapatkan sebuah instance baru dari struktur `SizeF` yang memiliki nilai [`Width`](./width/) dan [`Height`](./height/) disetel ke nol. |
+| [Height](../../aspose.psd/sizef/height/) { get; set; } | Mendapatkan atau mengatur komponen vertikal dari `SizeF` ini. |
+| [IsEmpty](../../aspose.psd/sizef/isempty/) { get; } | Mendapatkan nilai yang menunjukkan apakah `SizeF` ini memiliki lebar dan tinggi nol. |
+| [Width](../../aspose.psd/sizef/width/) { get; set; } | Mendapatkan atau mengatur komponen horizontal dari `SizeF` ini. |
 
 ## Metode
 
-| Nama | Keterangan |
+| Nama | Deskripsi |
 | --- | --- |
-| static [Add](../../aspose.psd/sizef/add/)(SizeF, SizeF) | Menambahkan lebar dan tinggi dari satu`SizeF` struktur dengan lebar dan tinggi yang lain`SizeF`struktur. |
-| static [Subtract](../../aspose.psd/sizef/subtract/)(SizeF, SizeF) | Mengurangi lebar dan tinggi satu`SizeF` struktur dari lebar dan tinggi yang lain`SizeF`struktur. |
-| override [Equals](../../aspose.psd/sizef/equals/)(object) | Tes untuk melihat apakah objek yang ditentukan adalah a`SizeF` dengan dimensi yang sama seperti ini`SizeF` . |
-| override [GetHashCode](../../aspose.psd/sizef/gethashcode/)() | Mengembalikan kode hash untuk ini[`Size`](../size/)struktur. |
-| [ToPointF](../../aspose.psd/sizef/topointf/)() | Mengonversi a`SizeF` ke a[`PointF`](../pointf/) . |
-| [ToSize](../../aspose.psd/sizef/tosize/)() | Mengonversi a`SizeF` ke a[`Size`](../size/) struktur dengan nilai ukuran terpotong. |
-| override [ToString](../../aspose.psd/sizef/tostring/)() | Membuat string yang dapat dibaca manusia yang mewakili ini`SizeF` . |
-| [operator +](../../aspose.psd/sizef/op_addition/) | Menambahkan lebar dan tinggi dari satu`SizeF` struktur dengan lebar dan tinggi yang lain`SizeF`struktur. |
-| [operator ==](../../aspose.psd/sizef/op_equality/) | Menguji apakah dua`SizeF` strukturnya sama. |
-| [explicit operator](../../aspose.psd/sizef/op_explicit/) | Mengonversi yang ditentukan`SizeF` ke a[`PointF`](../pointf/) . |
-| [operator !=](../../aspose.psd/sizef/op_inequality/) | Menguji apakah dua`SizeF` strukturnya berbeda. |
-| [operator -](../../aspose.psd/sizef/op_subtraction/) | Mengurangi lebar dan tinggi satu`SizeF` struktur dari lebar dan tinggi yang lain`SizeF`struktur. |
+| static [Add](../../aspose.psd/sizef/add/)(SizeF, SizeF) | Menambahkan lebar dan tinggi dari satu struktur `SizeF` ke lebar dan tinggi struktur `SizeF` lainnya. |
+| static [Subtract](../../aspose.psd/sizef/subtract/)(SizeF, SizeF) | Mengurangi lebar dan tinggi dari satu struktur `SizeF` dari lebar dan tinggi struktur `SizeF` lainnya. |
+| override [Equals](../../aspose.psd/sizef/equals/)(object) | Menguji apakah objek yang ditentukan adalah `SizeF` dengan dimensi yang sama dengan `SizeF` ini. |
+| override [GetHashCode](../../aspose.psd/sizef/gethashcode/)() | Mengembalikan kode hash untuk struktur [`Size`](../size/) ini. |
+| [ToPointF](../../aspose.psd/sizef/topointf/)() | Mengonversi `SizeF` menjadi [`PointF`](../pointf/). |
+| [ToSize](../../aspose.psd/sizef/tosize/)() | Mengonversi `SizeF` menjadi struktur [`Size`](../size/) dengan nilai ukuran yang dipotong. |
+| override [ToString](../../aspose.psd/sizef/tostring/)() | Membuat string yang dapat dibaca manusia yang merepresentasikan `SizeF` ini. |
+| [operator +](../../aspose.psd/sizef/op_addition/) | Menambahkan lebar dan tinggi dari satu struktur `SizeF` ke lebar dan tinggi struktur `SizeF` lainnya. |
+| [operator ==](../../aspose.psd/sizef/op_equality/) | Menguji apakah dua struktur `SizeF` sama. |
+| [explicit operator](../../aspose.psd/sizef/op_explicit/) | Mengonversi `SizeF` yang ditentukan menjadi [`PointF`](../pointf/). |
+| [operator !=](../../aspose.psd/sizef/op_inequality/) | Menguji apakah dua struktur `SizeF` berbeda. |
+| [operator -](../../aspose.psd/sizef/op_subtraction/) | Mengurangi lebar dan tinggi dari satu struktur `SizeF` dari lebar dan tinggi struktur `SizeF` lainnya. |
 
-### Lihat juga
+### Lihat Juga
 
-* ruang nama [Aspose.PSD](../../aspose.psd/)
-* perakitan [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

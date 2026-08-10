@@ -1,32 +1,33 @@
 ---
-title: PointExtensions.ToGdiPoints
-second_title: Aspose.PSD untuk Referensi .NET API
-description: PointExtensions metode. MengubahPointF larik kePointF larik.
+title: "PointExtensions.ToGdiPoints"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode PointExtensions. Mengonversi array PointF ke array PointF"
 type: docs
 weight: 20
 url: /id/net/aspose.psd.extensions/pointextensions/togdipoints/
 ---
+{{< psd/tize >}}
 ## PointExtensions.ToGdiPoints method
 
-Mengubah[`PointF`](../../../aspose.psd/pointf/) larik kePointF larik.
+Mengonversi array [`PointF`](../../../aspose.psd/pointf/) ke array PointF.
 
 ```csharp
 public static PointF[] ToGdiPoints(PointF[] points)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| points | PointF[] | Itu[`PointF`](../../../aspose.psd/pointf/) larik untuk dikonversi. |
+| points | PointF[] | Array [`PointF`](../../../aspose.psd/pointf/) untuk dikonversi. |
 
-### Nilai Pengembalian
+### Nilai Kembalian
 
-Yang dikonversiPointF Himpunan.
+Array PointF yang telah dikonversi.
 
-### Lihat juga
+### Lihat Juga
 
 * struct [PointF](../../../aspose.psd/pointf/)
 * class [PointExtensions](../)
-* ruang nama [Aspose.PSD.Extensions](../../pointextensions/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Extensions](../../../aspose.psd.extensions/)
+* assembly [Aspose.PSD](../../../)
 
 

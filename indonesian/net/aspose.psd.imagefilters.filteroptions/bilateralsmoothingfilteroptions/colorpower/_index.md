@@ -1,27 +1,28 @@
 ---
-title: BilateralSmoothingFilterOptions.ColorPower
-second_title: Aspose.PSD untuk Referensi .NET API
-description: BilateralSmoothingFilterOptions Properti. Mendapat atau menyetel kekuatan warna.
+title: "BilateralSmoothingFilterOptions.ColorPower"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "BilateralSmoothingFilterOptions properti. Mendapatkan atau mengatur daya warna."
 type: docs
 weight: 30
 url: /id/net/aspose.psd.imagefilters.filteroptions/bilateralsmoothingfilteroptions/colorpower/
 ---
+{{< psd/tize >}}
 ## BilateralSmoothingFilterOptions.ColorPower property
 
-Mendapat atau menyetel kekuatan warna.
+Mendapatkan atau mengatur daya warna.
 
 ```csharp
 public double ColorPower { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
-Kekuatan warna.
+Daya warna.
 
-### Lihat juga
+### Lihat Juga
 
 * class [BilateralSmoothingFilterOptions](../)
-* ruang nama [Aspose.PSD.ImageFilters.FilterOptions](../../bilateralsmoothingfilteroptions/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageFilters.FilterOptions](../../../aspose.psd.imagefilters.filteroptions/)
+* assembly [Aspose.PSD](../../../)
 
 

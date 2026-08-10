@@ -1,11 +1,12 @@
 ---
-title: Figure.Figure
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Figure konstruktor. Konstruktor default.
+title: "Figure.Figure"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Konstruktor Figure. Konstruktor default"
 type: docs
 weight: 10
 url: /id/net/aspose.psd/figure/figure/
 ---
+{{< psd/tize >}}
 ## Figure constructor
 
 Konstruktor default.
@@ -14,10 +15,10 @@ Konstruktor default.
 public Figure()
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [Figure](../)
-* ruang nama [Aspose.PSD](../../figure/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

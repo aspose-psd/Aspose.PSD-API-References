@@ -1,27 +1,28 @@
 ---
-title: LayerStateInformationResource.LayerIndex
-second_title: Aspose.PSD untuk Referensi .NET API
-description: LayerStateInformationResource Properti. Mendapat atau mengatur indeks layer.
+title: "LayerStateInformationResource.LayerIndex"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti LayerStateInformationResource. Mendapatkan atau mengatur indeks lapisan"
 type: docs
 weight: 30
 url: /id/net/aspose.psd.fileformats.psd.resources/layerstateinformationresource/layerindex/
 ---
+{{< psd/tize >}}
 ## LayerStateInformationResource.LayerIndex property
 
-Mendapat atau mengatur indeks layer.
+Mendapatkan atau mengatur indeks lapisan.
 
 ```csharp
 public short LayerIndex { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
 Indeks lapisan.
 
-### Lihat juga
+### Lihat Juga
 
 * class [LayerStateInformationResource](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Resources](../../layerstateinformationresource/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

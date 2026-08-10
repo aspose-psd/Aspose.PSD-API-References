@@ -1,27 +1,28 @@
 ---
-title: FxrpResource.X
-second_title: Aspose.PSD untuk Referensi .NET API
-description: FxrpResource Properti. Mendapat atau menetapkan x titik referensi
+title: "FxrpResource.X"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "FxrpResource properti. Mendapatkan atau mengatur x dari titik referensi"
 type: docs
-weight: 60
+weight: 30
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources/fxrpresource/x/
 ---
+{{< psd/tize >}}
 ## FxrpResource.X property
 
-Mendapat atau menetapkan x titik referensi
+Mendapatkan atau mengatur x dari titik referensi
 
 ```csharp
 public double X { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
-Titik x referensi
+x dari titik referensi
 
-### Lihat juga
+### Lihat Juga
 
 * class [FxrpResource](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../fxrpresource/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: OuterGlowEffect.IsSoftBlend
-second_title: Aspose.PSD untuk Referensi .NET API
-description: OuterGlowEffect Properti. Mendapat atau menetapkan nilai yang menunjukkan apakah tersingkir.
+title: "OuterGlowEffect.IsSoftBlend"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti OuterGlowEffect. Mendapatkan atau mengatur nilai yang menunjukkan apakah melakukan knock-out"
 type: docs
 weight: 60
 url: /id/net/aspose.psd.fileformats.psd.layers.layereffects/outergloweffect/issoftblend/
 ---
+{{< psd/tize >}}
 ## OuterGlowEffect.IsSoftBlend property
 
-Mendapat atau menetapkan nilai yang menunjukkan apakah [tersingkir].
+Mendapatkan atau mengatur nilai yang menunjukkan apakah [knocks out].
 
 ```csharp
 public bool IsSoftBlend { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
-`BENAR`jika [tersingkir]; jika tidak,`PALSU` .
+`true` jika [knocks out]; sebaliknya, `false`.
 
-### Lihat juga
+### Lihat Juga
 
 * class [OuterGlowEffect](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../outergloweffect/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../../)
 
 

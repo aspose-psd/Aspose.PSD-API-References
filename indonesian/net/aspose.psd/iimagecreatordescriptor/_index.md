@@ -1,14 +1,15 @@
 ---
-title: Interface IImageCreatorDescriptor
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Aspose.PSD.IImageCreatorDescriptor antarmuka. Deskriptor pembuat gambar yang menentukan properti pembuat. Deskriptor pembuat digunakan untuk mengatasi kebutuhan untuk memuat setiap instance pembuat gambar dalam memori dan masalah multithreading.
+title: "Antarmuka IImageCreatorDescriptor"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Antarmuka Aspose.PSD.IImageCreatorDescriptor. Deskriptor pembuat gambar yang menentukan properti pembuat. Deskriptor pembuat digunakan untuk mengatasi kebutuhan menyimpan setiap instance pembuat gambar dalam memori dan masalah multithreading."
 type: docs
-weight: 4410
+weight: 4880
 url: /id/net/aspose.psd/iimagecreatordescriptor/
 ---
+{{< psd/tize >}}
 ## IImageCreatorDescriptor interface
 
-Deskriptor pembuat gambar yang menentukan properti pembuat. Deskriptor pembuat digunakan untuk mengatasi kebutuhan untuk memuat setiap instance pembuat gambar dalam memori dan masalah multithreading.
+Deskriptor pembuat gambar yang menentukan properti pembuat. Deskriptor pembuat digunakan untuk mengatasi kebutuhan menyimpan setiap instance pembuat gambar di memori dan masalah multithreading.
 
 ```csharp
 public interface IImageCreatorDescriptor : IImageDescriptor
@@ -16,15 +17,15 @@ public interface IImageCreatorDescriptor : IImageDescriptor
 
 ## Metode
 
-| Nama | Keterangan |
+| Nama | Deskripsi |
 | --- | --- |
-| [CanCreate](../../aspose.psd/iimagecreatordescriptor/cancreate/)(ImageOptionsBase) | Menentukan apakah pembuat gambar dapat membuat gambar baru menggunakan*imageOptions* . |
-| [CreateInstance](../../aspose.psd/iimagecreatordescriptor/createinstance/)() | Membuat instance kreator baru. |
+| [CanCreate](../../aspose.psd/iimagecreatordescriptor/cancreate/)(ImageOptionsBase) | Menentukan apakah pembuat gambar dapat membuat gambar baru menggunakan *imageOptions*. |
+| [CreateInstance](../../aspose.psd/iimagecreatordescriptor/createinstance/)() | Membuat instance pembuat baru. |
 
-### Lihat juga
+### Lihat Juga
 
 * interface [IImageDescriptor](../iimagedescriptor/)
-* ruang nama [Aspose.PSD](../../aspose.psd/)
-* perakitan [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

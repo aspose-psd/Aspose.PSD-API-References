@@ -1,14 +1,15 @@
 ---
-title: Class FileSource
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Aspose.PSD.Sources.FileSource kelas. Merupakan sumber file yang mampu memanipulasi file.
+title: "Kelas FileSource"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Kelas Aspose.PSD.Sources.FileSource. Mewakili sumber file yang mampu memanipulasi file"
 type: docs
-weight: 5610
+weight: 6110
 url: /id/net/aspose.psd.sources/filesource/
 ---
+{{< psd/tize >}}
 ## FileSource class
 
-Merupakan sumber file yang mampu memanipulasi file.
+Mewakili sumber file yang mampu memanipulasi file.
 
 ```csharp
 public abstract class FileSource : Source
@@ -16,20 +17,20 @@ public abstract class FileSource : Source
 
 ## Properti
 
-| Nama | Keterangan |
+| Nama | Deskripsi |
 | --- | --- |
-| abstract [IsTemporal](../../aspose.psd.sources/filesource/istemporal/) { get; } | Mendapat nilai yang menunjukkan apakah file akan temporal. |
+| abstract [IsTemporal](../../aspose.psd.sources/filesource/istemporal/) { get; } | Mendapatkan nilai yang menunjukkan apakah file akan bersifat temporer. |
 
 ## Metode
 
-| Nama | Keterangan |
+| Nama | Deskripsi |
 | --- | --- |
-| abstract [GetStreamContainer](../../aspose.psd/source/getstreamcontainer/)() | Mendapatkan wadah aliran. |
+| abstract [GetStreamContainer](../../aspose.psd/source/getstreamcontainer/)() | Mendapatkan kontainer aliran. |
 
-### Lihat juga
+### Lihat Juga
 
 * class [Source](../../aspose.psd/source/)
-* ruang nama [Aspose.PSD.Sources](../../aspose.psd.sources/)
-* perakitan [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Sources](../../aspose.psd.sources/)
+* assembly [Aspose.PSD](../../)
 
 

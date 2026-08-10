@@ -1,14 +1,15 @@
 ---
-title: Interface IAsyncTaskState
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Aspose.PSD.AsyncTask.IAsyncTaskState antarmuka. Menyediakan akses ke status tugas asinkron.
+title: "Antarmuka IAsyncTaskState"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Antarmuka Aspose.PSD.AsyncTask.IAsyncTaskState. Menyediakan akses ke status tugas asinkron"
 type: docs
 weight: 90
 url: /id/net/aspose.psd.asynctask/iasynctaskstate/
 ---
+{{< psd/tize >}}
 ## IAsyncTaskState interface
 
-Menyediakan akses ke status tugas asinkron.
+Memberikan akses ke status tugas asynchronous.
 
 ```csharp
 public interface IAsyncTaskState
@@ -16,20 +17,20 @@ public interface IAsyncTaskState
 
 ## Properti
 
-| Nama | Keterangan |
+| Nama | Deskripsi |
 | --- | --- |
-| [IsCanceled](../../aspose.psd.asynctask/iasynctaskstate/iscanceled/) { get; } | Mendapat nilai yang menunjukkan apakah tugas asinkron dibatalkan. |
-| [Progress](../../aspose.psd.asynctask/iasynctaskstate/progress/) { get; } | Mendapat progres tugas asinkron. |
+| [IsCanceled](../../aspose.psd.asynctask/iasynctaskstate/iscanceled/) { get; } | Mendapatkan nilai yang menunjukkan apakah tugas asinkron dibatalkan. |
+| [Progress](../../aspose.psd.asynctask/iasynctaskstate/progress/) { get; } | Mendapatkan kemajuan tugas asinkron. |
 
 ## Metode
 
-| Nama | Keterangan |
+| Nama | Deskripsi |
 | --- | --- |
-| [SetProgress](../../aspose.psd.asynctask/iasynctaskstate/setprogress/)(int) | Mengatur progres tugas asinkron. |
+| [SetProgress](../../aspose.psd.asynctask/iasynctaskstate/setprogress/)(int) | Mengatur kemajuan tugas asinkron. |
 
-### Lihat juga
+### Lihat Juga
 
-* ruang nama [Aspose.PSD.AsyncTask](../../aspose.psd.asynctask/)
-* perakitan [Aspose.PSD](../../)
+* namespace [Aspose.PSD.AsyncTask](../../aspose.psd.asynctask/)
+* assembly [Aspose.PSD](../../)
 
 

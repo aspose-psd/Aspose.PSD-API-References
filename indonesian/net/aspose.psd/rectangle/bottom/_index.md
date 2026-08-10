@@ -1,27 +1,28 @@
 ---
-title: Rectangle.Bottom
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Rectangle Properti. Mendapat atau menetapkan koordinat y yang merupakan jumlah dariY DanHeight nilai properti iniRectanglestruktur.
+title: "Rectangle.Bottom"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti Rectangle. Mendapatkan atau mengatur koordinat y yang merupakan jumlah nilai properti Y dan Height dari struktur Rectangle ini."
 type: docs
 weight: 110
 url: /id/net/aspose.psd/rectangle/bottom/
 ---
+{{< psd/tize >}}
 ## Rectangle.Bottom property
 
-Mendapat atau menetapkan koordinat y yang merupakan jumlah dari[`Y`](../y/) Dan[`Height`](../height/) nilai properti ini[`Rectangle`](../)struktur.
+Mendapatkan atau mengatur koordinat y yang merupakan jumlah nilai properti [`Y`](../y/) dan [`Height`](../height/) dari struktur [`Rectangle`](../) ini.
 
 ```csharp
 public int Bottom { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
-Koordinat y yang merupakan jumlah dari[`Y`](../y/) Dan[`Height`](../height/) ini[`Rectangle`](../) .
+Koordinat y yang merupakan jumlah [`Y`](../y/) dan [`Height`](../height/) dari [`Rectangle`](../) ini.
 
-### Lihat juga
+### Lihat Juga
 
 * struct [Rectangle](../)
-* ruang nama [Aspose.PSD](../../rectangle/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

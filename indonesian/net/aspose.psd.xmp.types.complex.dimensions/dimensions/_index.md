@@ -1,11 +1,12 @@
 ---
-title: Class Dimensions
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Aspose.PSD.Xmp.Types.Complex.Dimensions.Dimensions kelas. Berisi dimensi untuk objek yang digambar.
+title: "Kelas Dimensions"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Kelas Aspose.PSD.Xmp.Types.Complex.Dimensions.Dimensions. Berisi dimensi untuk objek yang digambar"
 type: docs
-weight: 6060
+weight: 6560
 url: /id/net/aspose.psd.xmp.types.complex.dimensions/dimensions/
 ---
+{{< psd/tize >}}
 ## Dimensions class
 
 Berisi dimensi untuk objek yang digambar.
@@ -16,31 +17,31 @@ public sealed class Dimensions : ComplexTypeBase
 
 ## Konstruktor
 
-| Nama | Keterangan |
+| Nama | Deskripsi |
 | --- | --- |
-| [Dimensions](dimensions/#constructor)() | Menginisialisasi instance baru dari`Dimensions` kelas. |
-| [Dimensions](dimensions/#constructor_1)(float, float) | Menginisialisasi instance baru dari`Dimensions` kelas. |
+| [Dimensions](dimensions/#constructor)() | Menginisialisasi instance baru dari kelas `Dimensions`. |
+| [Dimensions](dimensions/#constructor_1)(float, float) | Menginisialisasi instance baru dari kelas `Dimensions`. |
 
 ## Properti
 
-| Nama | Keterangan |
+| Nama | Deskripsi |
 | --- | --- |
-| [Height](../../aspose.psd.xmp.types.complex.dimensions/dimensions/height/) { get; set; } | Mendapat atau mengatur ketinggian. |
+| [Height](../../aspose.psd.xmp.types.complex.dimensions/dimensions/height/) { get; set; } | Mendapatkan atau mengatur tinggi. |
 | [NamespaceUri](../../aspose.psd.xmp.types.complex/complextypebase/namespaceuri/) { get; } | Mendapatkan URI namespace default. |
-| [Prefix](../../aspose.psd.xmp.types.complex/complextypebase/prefix/) { get; } | Mendapatkan awalan. |
-| [Units](../../aspose.psd.xmp.types.complex.dimensions/dimensions/units/) { get; set; } | Mendapat atau menetapkan unit. |
-| [Width](../../aspose.psd.xmp.types.complex.dimensions/dimensions/width/) { get; set; } | Mendapat atau mengatur lebar. |
+| [Prefix](../../aspose.psd.xmp.types.complex/complextypebase/prefix/) { get; } | Mendapatkan prefiks. |
+| [Units](../../aspose.psd.xmp.types.complex.dimensions/dimensions/units/) { get; set; } | Mendapatkan atau mengatur satuan. |
+| [Width](../../aspose.psd.xmp.types.complex.dimensions/dimensions/width/) { get; set; } | Mendapatkan atau mengatur lebar. |
 
 ## Metode
 
-| Nama | Keterangan |
+| Nama | Deskripsi |
 | --- | --- |
-| override [GetXmpRepresentation](../../aspose.psd.xmp.types.complex.dimensions/dimensions/getxmprepresentation/)() | Mendapat string berisi nilai dalam format XMP. |
+| override [GetXmpRepresentation](../../aspose.psd.xmp.types.complex.dimensions/dimensions/getxmprepresentation/)() | Mendapatkan nilai string yang terkandung dalam format XMP. |
 
-### Lihat juga
+### Lihat Juga
 
 * class [ComplexTypeBase](../../aspose.psd.xmp.types.complex/complextypebase/)
-* ruang nama [Aspose.PSD.Xmp.Types.Complex.Dimensions](../../aspose.psd.xmp.types.complex.dimensions/)
-* perakitan [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.Dimensions](../../aspose.psd.xmp.types.complex.dimensions/)
+* assembly [Aspose.PSD](../../)
 
 

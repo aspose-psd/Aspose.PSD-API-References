@@ -1,11 +1,12 @@
 ---
-title: ImageAttributes.ImageAttributes
-second_title: Aspose.PSD untuk Referensi .NET API
-description: ImageAttributes konstruktor. Konstruktor default.
+title: "ImageAttributes.ImageAttributes"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Konstruktor ImageAttributes. Konstruktor default"
 type: docs
 weight: 10
 url: /id/net/aspose.psd/imageattributes/imageattributes/
 ---
+{{< psd/tize >}}
 ## ImageAttributes constructor
 
 Konstruktor default.
@@ -14,10 +15,10 @@ Konstruktor default.
 public ImageAttributes()
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [ImageAttributes](../)
-* ruang nama [Aspose.PSD](../../imageattributes/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

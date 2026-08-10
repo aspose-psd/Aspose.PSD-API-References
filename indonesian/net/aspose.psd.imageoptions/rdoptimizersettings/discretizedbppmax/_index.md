@@ -1,27 +1,28 @@
 ---
-title: RdOptimizerSettings.DiscretizedBppMax
-second_title: Aspose.PSD untuk Referensi .NET API
-description: RdOptimizerSettings Properti. Mendapat nilai R maksimum untuk dipertimbangkan.
+title: "RdOptimizerSettings.DiscretizedBppMax"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "RdOptimizerSettings property. Mendapatkan nilai maksimum R untuk dipertimbangkan"
 type: docs
 weight: 50
 url: /id/net/aspose.psd.imageoptions/rdoptimizersettings/discretizedbppmax/
 ---
+{{< psd/tize >}}
 ## RdOptimizerSettings.DiscretizedBppMax property
 
-Mendapat nilai R maksimum untuk dipertimbangkan.
+Mendapatkan nilai R maksimum untuk dipertimbangkan.
 
 ```csharp
 public int DiscretizedBppMax { get; }
 ```
 
-### Nilai properti
+### Property Value
 
-Nilai R maksimum untuk dipertimbangkan.
+Nilai maksimum R untuk dipertimbangkan.
 
-### Lihat juga
+### Lihat Juga
 
 * class [RdOptimizerSettings](../)
-* ruang nama [Aspose.PSD.ImageOptions](../../rdoptimizersettings/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

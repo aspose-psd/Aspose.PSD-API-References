@@ -1,26 +1,27 @@
 ---
-title: VectorShapeOriginSettings.IsTransformPresent
-second_title: Aspose.PSD untuk Referensi .NET API
-description: VectorShapeOriginSettings Properti. Mendapat nilai yang menunjukkan apakah instance ini memiliki properti transform.
+title: "VectorShapeOriginSettings.IsTransformPresent"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti VectorShapeOriginSettings. Mengembalikan nilai yang menunjukkan apakah instance ini memiliki properti transformasi."
 type: docs
 weight: 100
 url: /id/net/aspose.psd.fileformats.core.vectorpaths/vectorshapeoriginsettings/istransformpresent/
 ---
+{{< psd/tize >}}
 ## VectorShapeOriginSettings.IsTransformPresent property
 
-Mendapat nilai yang menunjukkan apakah instance ini memiliki properti transform.
+Mendapatkan nilai yang menunjukkan apakah instance ini memiliki properti transform.
 
 ```csharp
 public bool IsTransformPresent { get; }
 ```
 
-### Nilai properti
+### Property Value
 
-`BENAR` jika instance ini memiliki properti transform; jika tidak,`PALSU` .
+`true` jika instance ini memiliki properti transformasi; sebaliknya, `false`.
 
-### Contoh
+## Contoh
 
-Kode berikut menunjukkan kemampuan untuk mengubah ukuran layer bentuk yang berisi jalur vektor.
+Kode berikut menunjukkan kemampuan untuk mengubah ukuran lapisan bentuk yang berisi jalur vektor.
 
 ```csharp
 [C#]
@@ -42,10 +43,10 @@ using (var psdImage = (PsdImage)Image.Load(sourcePath))
 }
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [VectorShapeOriginSettings](../)
-* ruang nama [Aspose.PSD.FileFormats.Core.VectorPaths](../../vectorshapeoriginsettings/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../../)
 
 

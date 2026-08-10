@@ -1,30 +1,31 @@
 ---
-title: FontSettings.GetAdobeFontName
-second_title: Aspose.PSD untuk Referensi .NET API
-description: FontSettings metode. Mendapatkan nama font adobe dengan nama keluarga font.
+title: "FontSettings.GetAdobeFontName"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode FontSettings. Mendapatkan nama font Adobe berdasarkan nama keluarga font"
 type: docs
-weight: 30
+weight: 40
 url: /id/net/aspose.psd/fontsettings/getadobefontname/
 ---
+{{< psd/tize >}}
 ## FontSettings.GetAdobeFontName method
 
-Mendapatkan nama font adobe dengan nama keluarga font.
+Mendapatkan nama font Adobe berdasarkan nama keluarga font.
 
 ```csharp
 public static string GetAdobeFontName(string fontFamilyName)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
 | fontFamilyName | String | Nama keluarga font. |
 
-### Nilai Pengembalian
+### Nilai Kembalian
 
-Nama font adobe dengan nama keluarga font.
+Nama font Adobe berdasarkan nama keluarga font.
 
-### Contoh
+## Contoh
 
-Kode berikut menunjukkan kemampuan untuk mengubah nama font pada gaya porsi.
+Kode berikut menunjukkan kemampuan untuk mengubah nama font pada gaya bagian.
 
 ```csharp
 [C#]
@@ -46,7 +47,7 @@ using (var image = new PsdImage(500, 500))
     ((IColorFillSettings)backgroundFillLayer.FillSettings).Color = Color.White;
     image.AddLayer(backgroundFillLayer);
 
-    TextLayer textLayer = image.AddTextLayer("Text 1", new Rectangle(10, 35, image.Width, 35));
+    TextLayer textLayer = image.AddTextLayer("Text 1", new Rectangle(10, 35, image.Width, 60));
 
     ITextPortion firstPortion = textLayer.TextData.Items[0];
     firstPortion.Style.FontSize = 24;
@@ -77,10 +78,10 @@ using (var image = (PsdImage)Image.Load(outputFilePsd))
 }
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [FontSettings](../)
-* ruang nama [Aspose.PSD](../../fontsettings/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

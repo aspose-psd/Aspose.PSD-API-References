@@ -1,23 +1,24 @@
 ---
-title: NonGenericList.IsReadOnly
-second_title: Aspose.PSD untuk Referensi .NET API
-description: NonGenericList Properti. Mendapat nilai yang menunjukkan apakahIList hanya bisa dibaca.
+title: "NonGenericList.IsReadOnly"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti NonGenericList. Mendapatkan nilai yang menunjukkan apakah IList bersifat readonly"
 type: docs
 weight: 40
 url: /id/net/aspose.psd/nongenericlist/isreadonly/
 ---
+{{< psd/tize >}}
 ## NonGenericList.IsReadOnly property
 
-Mendapat nilai yang menunjukkan apakahIList hanya bisa dibaca.
+Mendapatkan nilai yang menunjukkan apakah IList bersifat hanya-baca.
 
 ```csharp
 public bool IsReadOnly { get; }
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [NonGenericList](../)
-* ruang nama [Aspose.PSD](../../nongenericlist/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

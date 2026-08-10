@@ -1,28 +1,29 @@
 ---
-title: PointF.PointF
-second_title: Aspose.PSD untuk Referensi .NET API
-description: PointF konstruktor. Menginisialisasi instance baru dariPointF struktur dengan koordinat yang ditentukan.
+title: "PointF.PointF"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Konstruktor PointF. Menginisialisasi instance baru dari struktur PointF dengan koordinat yang ditentukan."
 type: docs
 weight: 10
 url: /id/net/aspose.psd/pointf/pointf/
 ---
+{{< psd/tize >}}
 ## PointF constructor
 
-Menginisialisasi instance baru dari[`PointF`](../) struktur dengan koordinat yang ditentukan.
+Menginisialisasi instance baru dari struktur [`PointF`](../) dengan koordinat yang ditentukan.
 
 ```csharp
 public PointF(float x, float y)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| x | Single | Posisi titik horizontal. |
-| y | Single | Posisi titik vertikal. |
+| x | Single | Posisi horizontal titik. |
+| y | Single | Posisi vertikal titik. |
 
-### Lihat juga
+### Lihat Juga
 
 * struct [PointF](../)
-* ruang nama [Aspose.PSD](../../pointf/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

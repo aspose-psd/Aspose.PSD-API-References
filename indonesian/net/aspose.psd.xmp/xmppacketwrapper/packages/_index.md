@@ -1,28 +1,29 @@
 ---
-title: XmpPacketWrapper.Packages
-second_title: Aspose.PSD untuk Referensi .NET API
-description: XmpPacketWrapper Properti. Mendapat berbagaiXmpPackage di dalam XMP.
+title: "XmpPacketWrapper.Packages"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti XmpPacketWrapper. Mendapatkan array XmpPackage di dalam XMP"
 type: docs
 weight: 40
 url: /id/net/aspose.psd.xmp/xmppacketwrapper/packages/
 ---
+{{< psd/tize >}}
 ## XmpPacketWrapper.Packages property
 
-Mendapat berbagai[`XmpPackage`](../../xmppackage/) di dalam XMP.
+Mendapatkan array dari [`XmpPackage`](../../xmppackage/) di dalam XMP.
 
 ```csharp
 public XmpPackage[] Packages { get; }
 ```
 
-### Nilai properti
+### Property Value
 
-Larik dari[`XmpPackage`](../../xmppackage/) di dalam XMP.
+Array dari [`XmpPackage`](../../xmppackage/) di dalam XMP.
 
-### Lihat juga
+### Lihat Juga
 
 * class [XmpPackage](../../xmppackage/)
 * class [XmpPacketWrapper](../)
-* ruang nama [Aspose.PSD.Xmp](../../xmppacketwrapper/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: Layer.BlendingOptions
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Layer Properti. Mendapatkan opsi pencampuran.
+title: "Layer.BlendingOptions"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti Layer. Mengambil opsi pencampuran"
 type: docs
-weight: 30
+weight: 40
 url: /id/net/aspose.psd.fileformats.psd.layers/layer/blendingoptions/
 ---
+{{< psd/tize >}}
 ## Layer.BlendingOptions property
 
 Mendapatkan opsi pencampuran.
@@ -14,15 +15,15 @@ Mendapatkan opsi pencampuran.
 public BlendingOptions BlendingOptions { get; }
 ```
 
-### Nilai properti
+### Property Value
 
 Opsi pencampuran.
 
-### Lihat juga
+### Lihat Juga
 
 * class [BlendingOptions](../../../aspose.psd.fileformats.psd.layers.layereffects/blendingoptions/)
 * class [Layer](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers](../../layer/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

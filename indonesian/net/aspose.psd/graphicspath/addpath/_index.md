@@ -1,48 +1,49 @@
 ---
-title: GraphicsPath.AddPath
-second_title: Aspose.PSD untuk Referensi .NET API
-description: GraphicsPath metode. Menambahkan yang ditentukanGraphicsPath ke jalur ini.
+title: "GraphicsPath.AddPath"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode GraphicsPath. Menambahkan GraphicsPath yang ditentukan ke jalur ini."
 type: docs
 weight: 70
 url: /id/net/aspose.psd/graphicspath/addpath/
 ---
+{{< psd/tize >}}
 ## AddPath(GraphicsPath) {#addpath}
 
-Menambahkan yang ditentukan[`GraphicsPath`](../) ke jalur ini.
+Menambahkan [`GraphicsPath`](../) yang ditentukan ke jalur ini.
 
 ```csharp
 public void AddPath(GraphicsPath addingPath)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| addingPath | GraphicsPath | Itu[`GraphicsPath`](../) menambahkan. |
+| addingPath | GraphicsPath | [`GraphicsPath`](../) yang akan ditambahkan. |
 
-### Lihat juga
+### Lihat Juga
 
 * class [GraphicsPath](../)
-* ruang nama [Aspose.PSD](../../graphicspath/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## AddPath(GraphicsPath, bool) {#addpath_1}
 
-Menambahkan yang ditentukan[`GraphicsPath`](../) ke jalur ini.
+Menambahkan [`GraphicsPath`](../) yang ditentukan ke jalur ini.
 
 ```csharp
 public void AddPath(GraphicsPath addingPath, bool connect)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| addingPath | GraphicsPath | Itu[`GraphicsPath`](../) menambahkan. |
-| connect | Boolean | Nilai Boolean yang menentukan apakah gambar pertama di jalur yang ditambahkan merupakan bagian dari gambar terakhir di jalur ini. Nilai true menentukan bahwa gambar pertama di jalur yang ditambahkan adalah bagian dari gambar terakhir di jalur ini. Nilai false menentukan bahwa gambar pertama di jalur yang ditambahkan terpisah dari gambar terakhir di jalur ini. |
+| addingPath | GraphicsPath | [`GraphicsPath`](../) yang akan ditambahkan. |
+| hubungkan | Boolean | Nilai Boolean yang menentukan apakah figure pertama dalam jalur yang ditambahkan merupakan bagian dari figure terakhir dalam jalur ini. Nilai true menunjukkan bahwa figure pertama dalam jalur yang ditambahkan merupakan bagian dari figure terakhir dalam jalur ini. Nilai false menunjukkan bahwa figure pertama dalam jalur yang ditambahkan terpisah dari figure terakhir dalam jalur ini. |
 
-### Lihat juga
+### Lihat Juga
 
 * class [GraphicsPath](../)
-* ruang nama [Aspose.PSD](../../graphicspath/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

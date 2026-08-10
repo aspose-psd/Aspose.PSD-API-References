@@ -1,28 +1,29 @@
 ---
-title: ImageExportersRegistry.RegisterExporter
-second_title: Aspose.PSD untuk Referensi .NET API
-description: ImageExportersRegistry metode. Mendaftarkan eksportir.
+title: "ImageExportersRegistry.RegisterExporter"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "metode ImageExportersRegistry. Mendaftarkan pengekspor."
 type: docs
 weight: 60
 url: /id/net/aspose.psd/imageexportersregistry/registerexporter/
 ---
+{{< psd/tize >}}
 ## ImageExportersRegistry.RegisterExporter method
 
-Mendaftarkan eksportir.
+Mendaftarkan pengekspor.
 
 ```csharp
 public static void RegisterExporter(IImageExporterDescriptor exporterDescriptor)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| exporterDescriptor | IImageExporterDescriptor | Deskriptor eksportir untuk mendaftar. |
+| exporterDescriptor | IImageExporterDescriptor | Deskriptor pengekspor yang akan didaftarkan. |
 
-### Lihat juga
+### Lihat Juga
 
 * interface [IImageExporterDescriptor](../../iimageexporterdescriptor/)
 * class [ImageExportersRegistry](../)
-* ruang nama [Aspose.PSD](../../imageexportersregistry/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

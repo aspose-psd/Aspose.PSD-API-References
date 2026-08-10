@@ -1,28 +1,29 @@
 ---
-title: ExifData.GPSLongitude
-second_title: Aspose.PSD untuk Referensi .NET API
-description: ExifData Properti. Mendapat atau menyetel bujur GPS.
+title: "ExifData.GPSLongitude"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti ExifData. Mendapatkan atau mengatur garis bujur GPS"
 type: docs
 weight: 540
 url: /id/net/aspose.psd.exif/exifdata/gpslongitude/
 ---
+{{< psd/tize >}}
 ## ExifData.GPSLongitude property
 
-Mendapat atau menyetel bujur GPS.
+Mendapatkan atau mengatur bujur GPS.
 
 ```csharp
 public TiffRational[] GPSLongitude { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
-Bujur GPS.
+Garis bujur GPS.
 
-### Lihat juga
+### Lihat Juga
 
 * class [TiffRational](../../../aspose.psd.fileformats.tiff/tiffrational/)
 * class [ExifData](../)
-* ruang nama [Aspose.PSD.Exif](../../exifdata/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

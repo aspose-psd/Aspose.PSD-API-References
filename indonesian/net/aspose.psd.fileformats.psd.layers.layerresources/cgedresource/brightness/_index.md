@@ -1,27 +1,28 @@
 ---
-title: CgEdResource.Brightness
-second_title: Aspose.PSD untuk Referensi .NET API
-description: CgEdResource Properti. Mendapat atau mengatur kecerahan.
+title: "CgEdResource.Brightness"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti CgEdResource. Mendapatkan atau mengatur kecerahan"
 type: docs
 weight: 30
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources/cgedresource/brightness/
 ---
+{{< psd/tize >}}
 ## CgEdResource.Brightness property
 
-Mendapat atau mengatur kecerahan.
+Mendapatkan atau mengatur kecerahan.
 
 ```csharp
 public int Brightness { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
 Kecerahan.
 
-### Lihat juga
+### Lihat Juga
 
 * class [CgEdResource](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../cgedresource/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

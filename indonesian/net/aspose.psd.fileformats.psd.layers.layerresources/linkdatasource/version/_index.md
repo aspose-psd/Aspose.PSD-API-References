@@ -1,33 +1,34 @@
 ---
-title: LinkDataSource.Version
-second_title: Aspose.PSD untuk Referensi .NET API
-description: LinkDataSource Properti. Mendapat versi sumber data di sumber daya PSD LnkE / Lnk2.
+title: "LinkDataSource.Version"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti LinkDataSource. Mendapatkan versi sumber data dalam sumber daya PSD LnkE / Lnk2"
 type: docs
 weight: 140
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/version/
 ---
+{{< psd/tize >}}
 ## LinkDataSource.Version property
 
-Mendapat versi sumber data di sumber daya PSD LnkE / Lnk2.
+Mendapatkan versi sumber data dalam sumber daya PSD LnkE / Lnk2.
 
 ```csharp
 public int Version { get; }
 ```
 
-### Nilai properti
+### Property Value
 
-Nomor versi sumber data link LiFE / LiFD.
+Nomor versi sumber data tautan LiFE / LiFD.
 
 ### Pengecualian
 
 | pengecualian | kondisi |
 | --- | --- |
-| [PsdImageException](../../../aspose.psd.coreexceptions.imageformats/psdimageexception/) | Anda tidak dapat mengakses properti Versi. |
+| [PsdImageException](../../../aspose.psd.coreexceptions.imageformats/psdimageexception/) | Anda tidak dapat mengakses properti Version. |
 
-### Lihat juga
+### Lihat Juga
 
 * class [LinkDataSource](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../linkdatasource/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: Image.Height
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Image Properti. Mendapatkan tinggi gambar.
+title: "Image.Height"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti Image. Mengambil tinggi gambar"
 type: docs
 weight: 110
 url: /id/net/aspose.psd/image/height/
 ---
+{{< psd/tize >}}
 ## Image.Height property
 
 Mendapatkan tinggi gambar.
@@ -14,14 +15,14 @@ Mendapatkan tinggi gambar.
 public abstract int Height { get; }
 ```
 
-### Nilai properti
+### Property Value
 
 Tinggi gambar.
 
-### Lihat juga
+### Lihat Juga
 
 * class [Image](../)
-* ruang nama [Aspose.PSD](../../image/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

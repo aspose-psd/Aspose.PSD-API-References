@@ -1,11 +1,12 @@
 ---
-title: MlstResource.MlstResource
-second_title: Aspose.PSD untuk Referensi .NET API
-description: MlstResource konstruktor. Konstruktor default.
+title: "MlstResource.MlstResource"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "MlstResource konstruktor. Konstruktor default"
 type: docs
 weight: 10
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources/mlstresource/mlstresource/
 ---
+{{< psd/tize >}}
 ## MlstResource constructor
 
 Konstruktor default.
@@ -14,10 +15,10 @@ Konstruktor default.
 public MlstResource()
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [MlstResource](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../mlstresource/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

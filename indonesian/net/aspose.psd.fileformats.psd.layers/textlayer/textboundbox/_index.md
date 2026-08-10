@@ -1,28 +1,29 @@
 ---
-title: TextLayer.TextBoundBox
-second_title: Aspose.PSD untuk Referensi .NET API
-description: TextLayer Properti. Mendapat atau menyetel kotak terikat teks.
+title: "TextLayer.TextBoundBox"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti TextLayer. Mendapatkan atau mengatur kotak batas teks"
 type: docs
 weight: 40
 url: /id/net/aspose.psd.fileformats.psd.layers/textlayer/textboundbox/
 ---
+{{< psd/tize >}}
 ## TextLayer.TextBoundBox property
 
-Mendapat atau menyetel kotak terikat teks.
+Mendapatkan atau mengatur kotak batas teks.
 
 ```csharp
 public RectangleF TextBoundBox { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
-Kotak terikat teks.
+Kotak batas teks.
 
-### Lihat juga
+### Lihat Juga
 
 * struct [RectangleF](../../../aspose.psd/rectanglef/)
 * class [TextLayer](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers](../../textlayer/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

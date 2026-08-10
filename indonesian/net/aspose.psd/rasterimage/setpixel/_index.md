@@ -1,11 +1,12 @@
 ---
-title: RasterImage.SetPixel
-second_title: Aspose.PSD untuk Referensi .NET API
-description: RasterImage metode. Mengatur piksel gambar untuk posisi yang ditentukan.
+title: "RasterImage.SetPixel"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode RasterImage. Menetapkan piksel gambar untuk posisi yang ditentukan"
 type: docs
-weight: 560
+weight: 580
 url: /id/net/aspose.psd/rasterimage/setpixel/
 ---
+{{< psd/tize >}}
 ## RasterImage.SetPixel method
 
 Mengatur piksel gambar untuk posisi yang ditentukan.
@@ -14,17 +15,17 @@ Mengatur piksel gambar untuk posisi yang ditentukan.
 public void SetPixel(int x, int y, Color color)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| x | Int32 | Lokasi piksel x. |
-| y | Int32 | Lokasi piksel y. |
-| color | Color | Warna piksel untuk posisi yang ditentukan. |
+| x | Int32 | Lokasi x piksel. |
+| y | Int32 | Lokasi y piksel. |
+| warna | Warna | Warna piksel untuk posisi yang ditentukan. |
 
-### Lihat juga
+### Lihat Juga
 
 * struct [Color](../../color/)
 * class [RasterImage](../)
-* ruang nama [Aspose.PSD](../../rasterimage/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

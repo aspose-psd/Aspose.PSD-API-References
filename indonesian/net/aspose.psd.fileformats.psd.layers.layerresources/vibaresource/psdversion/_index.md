@@ -1,11 +1,12 @@
 ---
-title: VibAResource.PsdVersion
-second_title: Aspose.PSD untuk Referensi .NET API
-description: VibAResource Properti. Mendapatkan versi psd.
+title: "VibAResource.PsdVersion"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "VibAResource properti. Mendapatkan versi psd"
 type: docs
 weight: 40
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources/vibaresource/psdversion/
 ---
+{{< psd/tize >}}
 ## VibAResource.PsdVersion property
 
 Mendapatkan versi psd.
@@ -14,14 +15,14 @@ Mendapatkan versi psd.
 public override int PsdVersion { get; }
 ```
 
-### Contoh
+## Contoh
 
 Contoh kode berikut menunjukkan dukungan sumber daya VibAResource.
 
 ```csharp
 [C#]
 
-// Contoh dukungan membaca dan menulis Sumber Daya Getaran saat runtime.
+// Contoh dukungan membaca dan menulis Sumber Daya Getaran pada waktu berjalan.
 string sourceFileName = "VibranceResource.psd";
 string outputFileName = "out_VibranceResource.psd";
 
@@ -50,10 +51,10 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFileName))
 }
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [VibAResource](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../vibaresource/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

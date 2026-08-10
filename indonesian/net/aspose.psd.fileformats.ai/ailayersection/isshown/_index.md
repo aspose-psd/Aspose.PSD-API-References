@@ -1,24 +1,25 @@
 ---
-title: AiLayerSection.IsShown
-second_title: Aspose.PSD untuk Referensi .NET API
-description: AiLayerSection Properti. Mendapat atau menetapkan nilai yang menunjukkan apakah lapisan ini ditampilkan. Menampilkan semua karya seni yang terkandung dalam lapisan di artboard jika benar.
+title: "AiLayerSection.IsShown"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti AiLayerSection. Mendapatkan atau mengatur nilai yang menunjukkan apakah lapisan ini ditampilkan. Menampilkan semua karya seni yang terdapat dalam lapisan pada artboard jika true"
 type: docs
-weight: 90
+weight: 110
 url: /id/net/aspose.psd.fileformats.ai/ailayersection/isshown/
 ---
+{{< psd/tize >}}
 ## AiLayerSection.IsShown property
 
-Mendapat atau menetapkan nilai yang menunjukkan apakah lapisan ini ditampilkan. Menampilkan semua karya seni yang terkandung dalam lapisan di artboard jika benar.
+Mendapatkan atau mengatur nilai yang menunjukkan apakah lapisan ini ditampilkan. Menampilkan semua karya seni yang terdapat dalam lapisan pada papan gambar jika true.
 
 ```csharp
 public bool IsShown { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
-`BENAR` jika lapisan ini ditampilkan; jika tidak,`PALSU` .
+`true` jika lapisan ini ditampilkan; jika tidak, `false`.
 
-### Contoh
+## Contoh
 
 Contoh berikut menunjukkan dukungan lapisan dalam file format AI.
 
@@ -70,10 +71,10 @@ using (AiImage image = (AiImage)Image.Load(sourceFilePath))
 }
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [AiLayerSection](../)
-* ruang nama [Aspose.PSD.FileFormats.Ai](../../ailayersection/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

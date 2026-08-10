@@ -1,27 +1,28 @@
 ---
-title: GlobalLayerMaskInfo.AlphaMask
-second_title: Aspose.PSD untuk Referensi .NET API
-description: GlobalLayerMaskInfo Properti. Mendapat atau menyetel topeng alfa.
+title: "GlobalLayerMaskInfo.AlphaMask"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti GlobalLayerMaskInfo. Mendapatkan atau mengatur masker alfa"
 type: docs
 weight: 20
 url: /id/net/aspose.psd.fileformats.psd.layers/globallayermaskinfo/alphamask/
 ---
+{{< psd/tize >}}
 ## GlobalLayerMaskInfo.AlphaMask property
 
-Mendapat atau menyetel topeng alfa.
+Mendapatkan atau mengatur topeng alfa.
 
 ```csharp
 public short AlphaMask { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
 Masker alfa.
 
-### Lihat juga
+### Lihat Juga
 
 * class [GlobalLayerMaskInfo](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers](../../globallayermaskinfo/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

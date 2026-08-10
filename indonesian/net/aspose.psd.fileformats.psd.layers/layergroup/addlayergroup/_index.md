@@ -1,38 +1,39 @@
 ---
-title: LayerGroup.AddLayerGroup
-second_title: Aspose.PSD untuk Referensi .NET API
-description: LayerGroup metode. Menambahkan grup layer.
+title: "LayerGroup.AddLayerGroup"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode LayerGroup. Menambahkan grup lapisan"
 type: docs
 weight: 70
 url: /id/net/aspose.psd.fileformats.psd.layers/layergroup/addlayergroup/
 ---
+{{< psd/tize >}}
 ## LayerGroup.AddLayerGroup method
 
-Menambahkan grup layer.
+Menambahkan grup lapisan.
 
 ```csharp
 public LayerGroup AddLayerGroup(string groupName, int index)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
 | groupName | String | Nama grup. |
-| index | Int32 | Indeks lapisan yang akan disisipkan setelahnya. |
+| index | Int32 | Indeks lapisan untuk disisipkan setelahnya. |
 
-### Nilai Pengembalian
+### Nilai Kembalian
 
 Membuka lapisan grup
 
-### Contoh
+## Contoh
 
-Contoh berikut menunjukkan menambahkan LayerGroup ke LayerGroup lain.
+Contoh berikut menunjukkan penambahan LayerGroup ke dalam LayerGroup lain.
 
 ```csharp
 [C#]
 
 string sourceFileName = "psdnet190_test.psd";
 
-// membuat hirarki layer seperti ini:
+// Membuat hierarki lapisan seperti ini:
 // -Grup 1
 // --Lapisan 1
 // --Grup 2
@@ -70,10 +71,10 @@ using (var psdImage = (PsdImage)Image.Create(createOptions, 500, 500))
 }
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [LayerGroup](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers](../../layergroup/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

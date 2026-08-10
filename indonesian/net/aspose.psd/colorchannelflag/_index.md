@@ -1,14 +1,15 @@
 ---
-title: Enum ColorChannelFlag
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Aspose.PSD.ColorChannelFlag enum. Menentukan masingmasing saluran dalam ruang warna CMYK sian magenta kuning hitam. Pencacahan ini digunakan oleh metode SetOutputChannel.
+title: "Enum ColorChannelFlag"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Aspose.PSD.ColorChannelFlag enum. Menentukan saluran individual dalam ruang warna CMYK cyan magenta yellow black. Enumerasi ini digunakan oleh metode SetOutputChannel."
 type: docs
 weight: 320
 url: /id/net/aspose.psd/colorchannelflag/
 ---
+{{< psd/tize >}}
 ## ColorChannelFlag enumeration
 
-Menentukan masing-masing saluran dalam ruang warna CMYK (sian, magenta, kuning, hitam). Pencacahan ini digunakan oleh metode SetOutputChannel.
+Menentukan saluran individual dalam ruang warna CMYK (cyan, magenta, kuning, hitam). Enumerasi ini digunakan oleh metode SetOutputChannel.
 
 ```csharp
 public enum ColorChannelFlag
@@ -16,17 +17,17 @@ public enum ColorChannelFlag
 
 ### Nilai
 
-| Nama | Nilai | Keterangan |
+| Nama | Nilai | Deskripsi |
 | --- | --- | --- |
 | ColorChannelC | `0` | Saluran warna cyan. |
 | ColorChannelM | `1` | Saluran warna magenta. |
 | ColorChannelY | `2` | Saluran warna kuning. |
 | ColorChannelK | `3` | Saluran warna hitam. |
-| ColorChannelLast | `4` | Saluran yang dipilih terakhir harus digunakan. |
+| ColorChannelLast | `4` | Saluran terakhir yang dipilih harus digunakan. |
 
-### Lihat juga
+### Lihat Juga
 
-* ruang nama [Aspose.PSD](../../aspose.psd/)
-* perakitan [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

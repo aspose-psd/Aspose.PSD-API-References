@@ -1,23 +1,24 @@
 ---
-title: LyidResource.TypeToolKey
-second_title: Aspose.PSD untuk Referensi .NET API
-description: LyidResource bidang. Kunci info alat ketik.
+title: "LyidResource.TypeToolKey"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "LyidResource field. Kunci informasi alat tipe"
 type: docs
-weight: 80
+weight: 50
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources/lyidresource/typetoolkey/
 ---
+{{< psd/tize >}}
 ## LyidResource.TypeToolKey field
 
-Kunci info alat ketik.
+Kunci info alat tipe.
 
 ```csharp
 public const int TypeToolKey;
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [LyidResource](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../lyidresource/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

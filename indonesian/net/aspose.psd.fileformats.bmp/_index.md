@@ -1,17 +1,18 @@
 ---
-title: Aspose.PSD.FileFormats.Bmp
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Namespace menangani pemrosesan format file Bmp.
+title: "Aspose.PSD.FileFormats.Bmp"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Namespace menangani pemrosesan format file Bmp"
 type: docs
-weight: 130
+weight: 140
 url: /id/net/aspose.psd.fileformats.bmp/
 ---
+{{< psd/tize >}}
 Namespace menangani pemrosesan format file Bmp.
 
-## Pencacahan
+## Enumerasi
 
-| Pencacahan | Keterangan |
+| Enumerasi | Deskripsi |
 | --- | --- |
-| [BitmapCompression](./bitmapcompression/) | Menentukan metode kompresi bitmap yang berbeda. |
+| [BitmapCompression](./bitmapcompression/) | Menentukan berbagai metode kompresi bitmap. |
 
 

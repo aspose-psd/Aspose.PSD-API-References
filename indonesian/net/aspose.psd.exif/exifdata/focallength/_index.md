@@ -1,28 +1,29 @@
 ---
-title: ExifData.FocalLength
-second_title: Aspose.PSD untuk Referensi .NET API
-description: ExifData Properti. Mendapat atau menyetel panjang fokus.
+title: "ExifData.FocalLength"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti ExifData. Mendapatkan atau mengatur panjang fokus"
 type: docs
 weight: 290
 url: /id/net/aspose.psd.exif/exifdata/focallength/
 ---
+{{< psd/tize >}}
 ## ExifData.FocalLength property
 
-Mendapat atau menyetel panjang fokus.
+Mendapatkan atau mengatur panjang fokus.
 
 ```csharp
 public TiffRational FocalLength { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
 Panjang fokus.
 
-### Lihat juga
+### Lihat Juga
 
 * class [TiffRational](../../../aspose.psd.fileformats.tiff/tiffrational/)
 * class [ExifData](../)
-* ruang nama [Aspose.PSD.Exif](../../exifdata/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

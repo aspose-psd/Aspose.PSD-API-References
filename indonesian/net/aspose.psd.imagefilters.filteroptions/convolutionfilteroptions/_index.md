@@ -1,11 +1,12 @@
 ---
-title: Class ConvolutionFilterOptions
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Aspose.PSD.ImageFilters.FilterOptions.ConvolutionFilterOptions kelas. Filter konvolusi.
+title: "Kelas ConvolutionFilterOptions"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Kelas Aspose.PSD.ImageFilters.FilterOptions.ConvolutionFilterOptions. Filter konvolusi"
 type: docs
-weight: 4670
+weight: 5140
 url: /id/net/aspose.psd.imagefilters.filteroptions/convolutionfilteroptions/
 ---
+{{< psd/tize >}}
 ## ConvolutionFilterOptions class
 
 Filter konvolusi.
@@ -16,21 +17,21 @@ public abstract class ConvolutionFilterOptions : FilterOptionsBase
 
 ## Konstruktor
 
-| Nama | Keterangan |
+| Nama | Deskripsi |
 | --- | --- |
-| [ConvolutionFilterOptions](convolutionfilteroptions/)() | Menginisialisasi instance baru dari`ConvolutionFilterOptions` kelas. |
+| [ConvolutionFilterOptions](convolutionfilteroptions/)() | Menginisialisasi sebuah instance baru dari kelas `ConvolutionFilterOptions`. |
 
 ## Properti
 
-| Nama | Keterangan |
+| Nama | Deskripsi |
 | --- | --- |
-| [Bias](../../aspose.psd.imagefilters.filteroptions/convolutionfilteroptions/bias/) { get; set; } | Mendapat atau menyetel bias. |
-| [Factor](../../aspose.psd.imagefilters.filteroptions/convolutionfilteroptions/factor/) { get; set; } | Mendapatkan atau menyetel faktor. |
+| [Bias](../../aspose.psd.imagefilters.filteroptions/convolutionfilteroptions/bias/) { get; set; } | Mendapatkan atau mengatur bias. |
+| [Factor](../../aspose.psd.imagefilters.filteroptions/convolutionfilteroptions/factor/) { get; set; } | Mendapatkan atau mengatur faktor. |
 
-### Lihat juga
+### Lihat Juga
 
 * class [FilterOptionsBase](../filteroptionsbase/)
-* ruang nama [Aspose.PSD.ImageFilters.FilterOptions](../../aspose.psd.imagefilters.filteroptions/)
-* perakitan [Aspose.PSD](../../)
+* namespace [Aspose.PSD.ImageFilters.FilterOptions](../../aspose.psd.imagefilters.filteroptions/)
+* assembly [Aspose.PSD](../../)
 
 

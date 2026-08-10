@@ -1,27 +1,28 @@
 ---
-title: CurvesLayer.IsDiscreteManagerUsed
-second_title: Aspose.PSD untuk Referensi .NET API
-description: CurvesLayer Properti. Mendapat atau menetapkan nilai yang menunjukkan apakah instance ini digunakan oleh manajer terpisah.
+title: "CurvesLayer.IsDiscreteManagerUsed"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "properti CurvesLayer. Mendapatkan atau mengatur nilai yang menunjukkan apakah instance ini menggunakan manajer diskrit"
 type: docs
 weight: 20
 url: /id/net/aspose.psd.fileformats.psd.layers.adjustmentlayers/curveslayer/isdiscretemanagerused/
 ---
+{{< psd/tize >}}
 ## CurvesLayer.IsDiscreteManagerUsed property
 
-Mendapat atau menetapkan nilai yang menunjukkan apakah instance ini digunakan oleh manajer terpisah.
+Mendapatkan atau mengatur nilai yang menunjukkan apakah instance ini menggunakan manajer diskrit.
 
 ```csharp
 public bool IsDiscreteManagerUsed { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
-`BENAR` jika instance ini adalah manajer diskrit yang digunakan; jika tidak,`PALSU` .
+`true` jika instance ini menggunakan manajer diskrit; lainnya, `false`.
 
-### Lihat juga
+### Lihat Juga
 
 * class [CurvesLayer](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../curveslayer/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/)
+* assembly [Aspose.PSD](../../../)
 
 

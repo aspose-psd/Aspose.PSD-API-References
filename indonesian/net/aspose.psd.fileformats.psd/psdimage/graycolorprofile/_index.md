@@ -1,28 +1,29 @@
 ---
-title: PsdImage.GrayColorProfile
-second_title: Aspose.PSD untuk Referensi .NET API
-description: PsdImage Properti. Mendapatkan atau menyetel profil warna GREY monokrom untuk gambar PSD Grayscale.
+title: "PsdImage.GrayColorProfile"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "PsdImage property. Mendapatkan atau mengatur profil warna monokrom GRAY untuk gambar PSD Grayscale"
 type: docs
 weight: 130
 url: /id/net/aspose.psd.fileformats.psd/psdimage/graycolorprofile/
 ---
+{{< psd/tize >}}
 ## PsdImage.GrayColorProfile property
 
-Mendapatkan atau menyetel profil warna GREY (monokrom) untuk gambar PSD Grayscale.
+Mendapatkan atau mengatur profil warna GRAY (monokrom) untuk gambar PSD Grayscale.
 
 ```csharp
 public StreamSource GrayColorProfile { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
-Profil warna GREY (monokrom).
+Profil warna GRAY (monokrom).
 
-### Lihat juga
+### Lihat Juga
 
 * class [StreamSource](../../../aspose.psd.sources/streamsource/)
 * class [PsdImage](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

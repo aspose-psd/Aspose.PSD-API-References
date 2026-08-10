@@ -1,14 +1,15 @@
 ---
-title: Class ColorExtensions
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Aspose.PSD.Extensions.ColorExtensions kelas. ItuColor metode ekstensi.
+title: "Kelas ColorExtensions"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Kelas Aspose.PSD.Extensions.ColorExtensions. Metode ekstensi Color."
 type: docs
-weight: 1050
+weight: 1060
 url: /id/net/aspose.psd.extensions/colorextensions/
 ---
+{{< psd/tize >}}
 ## ColorExtensions class
 
-Itu[`Color`](../../aspose.psd/color/) metode ekstensi.
+Metode ekstensi [`Color`](../../aspose.psd/color/).
 
 ```csharp
 public static class ColorExtensions
@@ -16,14 +17,14 @@ public static class ColorExtensions
 
 ## Metode
 
-| Nama | Keterangan |
+| Nama | Deskripsi |
 | --- | --- |
-| static [ToGdiColor](../../aspose.psd.extensions/colorextensions/togdicolor/)(Color) | Mengubah[`Color`](../../aspose.psd/color/) keColor . |
-| static [ToGdiColors](../../aspose.psd.extensions/colorextensions/togdicolors/)(Color[]) | Mengubah[`Color`](../../aspose.psd/color/) larik keColor larik. |
+| static [ToGdiColor](../../aspose.psd.extensions/colorextensions/togdicolor/)(Color) | Mengonversi [`Color`](../../aspose.psd/color/) menjadi Color. |
+| static [ToGdiColors](../../aspose.psd.extensions/colorextensions/togdicolors/)(Color[]) | Mengonversi array [`Color`](../../aspose.psd/color/) menjadi array Color. |
 
-### Lihat juga
+### Lihat Juga
 
-* ruang nama [Aspose.PSD.Extensions](../../aspose.psd.extensions/)
-* perakitan [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Extensions](../../aspose.psd.extensions/)
+* assembly [Aspose.PSD](../../)
 
 

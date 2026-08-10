@@ -1,11 +1,12 @@
 ---
-title: PsdColorPalette.GetColor
-second_title: Aspose.PSD untuk Referensi .NET API
-description: PsdColorPalette metode. Mendapatkan warna palet berdasarkan indeks.
+title: "PsdColorPalette.GetColor"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode PsdColorPalette. Mengambil warna palet berdasarkan indeks."
 type: docs
 weight: 130
 url: /id/net/aspose.psd.fileformats.psd/psdcolorpalette/getcolor/
 ---
+{{< psd/tize >}}
 ## PsdColorPalette.GetColor method
 
 Mendapatkan warna palet berdasarkan indeks.
@@ -14,25 +15,25 @@ Mendapatkan warna palet berdasarkan indeks.
 public Color GetColor(int index)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
 | index | Int32 | Indeks warna palet. |
 
-### Nilai Pengembalian
+### Nilai Kembalian
 
-Entri palet warna yang ditentukan oleh*index* .
+Entri palet warna yang ditentukan oleh *indeks*.
 
 ### Pengecualian
 
 | pengecualian | kondisi |
 | --- | --- |
-| ArgumentOutOfRangeException | jika palet warna*index* ditentukan berada di luar kisaran entri palet. |
+| ArgumentOutOfRangeException | jika *indeks* palet warna yang ditentukan berada di luar rentang entri palet. |
 
-### Lihat juga
+### Lihat Juga
 
 * struct [Color](../../../aspose.psd/color/)
 * class [PsdColorPalette](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd](../../psdcolorpalette/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: TypeToolInfoResource.ColorSpaceValue
-second_title: Aspose.PSD untuk Referensi .NET API
-description: TypeToolInfoResource Properti. Mendapat atau menetapkan nilai ruang warna.
+title: "TypeToolInfoResource.ColorSpaceValue"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti TypeToolInfoResource. Mendapatkan atau mengatur nilai ruang warna"
 type: docs
 weight: 50
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources/typetoolinforesource/colorspacevalue/
 ---
+{{< psd/tize >}}
 ## TypeToolInfoResource.ColorSpaceValue property
 
-Mendapat atau menetapkan nilai ruang warna.
+Mendapatkan atau mengatur nilai ruang warna.
 
 ```csharp
 public short ColorSpaceValue { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
 Nilai ruang warna.
 
-### Lihat juga
+### Lihat Juga
 
 * class [TypeToolInfoResource](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../typetoolinforesource/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

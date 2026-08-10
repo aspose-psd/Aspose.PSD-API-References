@@ -1,28 +1,29 @@
 ---
-title: StringFormat.HotkeyPrefix
-second_title: Aspose.PSD untuk Referensi .NET API
-description: StringFormat Properti. Mendapat atau menyetelHotkeyPrefix keberatan untuk iniStringFormat objek.
+title: "StringFormat.HotkeyPrefix"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti StringFormat. Mendapatkan atau mengatur objek HotkeyPrefix untuk objek StringFormat ini."
 type: docs
-weight: 90
+weight: 100
 url: /id/net/aspose.psd/stringformat/hotkeyprefix/
 ---
+{{< psd/tize >}}
 ## StringFormat.HotkeyPrefix property
 
-Mendapat atau menyetel[`HotkeyPrefix`](../../hotkeyprefix/) keberatan untuk ini[`StringFormat`](../) objek.
+Mendapatkan atau mengatur objek `[`HotkeyPrefix`](../../hotkeyprefix/)` untuk objek `[`StringFormat`](../)` ini.
 
 ```csharp
 public HotkeyPrefix HotkeyPrefix { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
-Itu[`HotkeyPrefix`](../../hotkeyprefix/) keberatan untuk ini[`StringFormat`](../) objek, defaultnya adalahNone.
+Objek [`HotkeyPrefix`](../../hotkeyprefix/) untuk objek [`StringFormat`](../) ini, defaultnya adalah None.
 
-### Lihat juga
+### Lihat Juga
 
 * enum [HotkeyPrefix](../../hotkeyprefix/)
 * class [StringFormat](../)
-* ruang nama [Aspose.PSD](../../stringformat/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

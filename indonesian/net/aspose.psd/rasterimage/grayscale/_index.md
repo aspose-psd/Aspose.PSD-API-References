@@ -1,23 +1,24 @@
 ---
-title: RasterImage.Grayscale
-second_title: Aspose.PSD untuk Referensi .NET API
-description: RasterImage metode. Transformasi gambar ke representasi skala abuabunya
+title: "RasterImage.Grayscale"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode RasterImage. Transformasi gambar menjadi representasi skala abu-abu"
 type: docs
 weight: 340
 url: /id/net/aspose.psd/rasterimage/grayscale/
 ---
+{{< psd/tize >}}
 ## RasterImage.Grayscale method
 
-Transformasi gambar ke representasi skala abu-abunya
+Transformasi gambar menjadi representasi skala abu-abu
 
 ```csharp
 public virtual void Grayscale()
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [RasterImage](../)
-* ruang nama [Aspose.PSD](../../rasterimage/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

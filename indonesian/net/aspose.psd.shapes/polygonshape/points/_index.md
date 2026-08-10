@@ -1,28 +1,29 @@
 ---
-title: PolygonShape.Points
-second_title: Aspose.PSD untuk Referensi .NET API
-description: PolygonShape Properti. Mendapat atau menetapkan titik kurva.
+title: "PolygonShape.Points"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "PolygonShape property. Mengambil atau mengatur titik kurva"
 type: docs
 weight: 70
 url: /id/net/aspose.psd.shapes/polygonshape/points/
 ---
+{{< psd/tize >}}
 ## PolygonShape.Points property
 
-Mendapat atau menetapkan titik kurva.
+Mendapatkan atau mengatur titik kurva.
 
 ```csharp
 public PointF[] Points { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
 Titik kurva.
 
-### Lihat juga
+### Lihat Juga
 
 * struct [PointF](../../../aspose.psd/pointf/)
 * class [PolygonShape](../)
-* ruang nama [Aspose.PSD.Shapes](../../polygonshape/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 

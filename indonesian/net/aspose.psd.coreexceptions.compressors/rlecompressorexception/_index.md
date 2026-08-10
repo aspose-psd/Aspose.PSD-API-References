@@ -1,14 +1,15 @@
 ---
-title: Class RleCompressorException
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Aspose.PSD.CoreExceptions.Compressors.RleCompressorException kelas. Pengecualian kompresor peran.
+title: "Kelas RleCompressorException"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Kelas Aspose.PSD.CoreExceptions.Compressors.RleCompressorException. Pengecualian kompresor rle"
 type: docs
 weight: 460
 url: /id/net/aspose.psd.coreexceptions.compressors/rlecompressorexception/
 ---
+{{< psd/tize >}}
 ## RleCompressorException class
 
-Pengecualian kompresor peran.
+Pengecualian kompresor rle.
 
 ```csharp
 public class RleCompressorException : CompressorException
@@ -16,15 +17,15 @@ public class RleCompressorException : CompressorException
 
 ## Konstruktor
 
-| Nama | Keterangan |
+| Nama | Deskripsi |
 | --- | --- |
-| [RleCompressorException](rlecompressorexception/#constructor)(string) | Menginisialisasi instance baru dari`RleCompressorException` kelas. |
-| [RleCompressorException](rlecompressorexception/#constructor_1)(string, Exception) | Menginisialisasi instance baru dari`RleCompressorException` kelas. |
+| [RleCompressorException](rlecompressorexception/#constructor)(string) | Menginisialisasi sebuah instance baru dari kelas `RleCompressorException`. |
+| [RleCompressorException](rlecompressorexception/#constructor_1)(string, Exception) | Menginisialisasi sebuah instance baru dari kelas `RleCompressorException`. |
 
-### Lihat juga
+### Lihat Juga
 
 * class [CompressorException](../../aspose.psd.coreexceptions/compressorexception/)
-* ruang nama [Aspose.PSD.CoreExceptions.Compressors](../../aspose.psd.coreexceptions.compressors/)
-* perakitan [Aspose.PSD](../../)
+* namespace [Aspose.PSD.CoreExceptions.Compressors](../../aspose.psd.coreexceptions.compressors/)
+* assembly [Aspose.PSD](../../)
 
 

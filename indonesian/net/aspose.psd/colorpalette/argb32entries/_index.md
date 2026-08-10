@@ -1,31 +1,32 @@
 ---
-title: ColorPalette.Argb32Entries
-second_title: Aspose.PSD untuk Referensi .NET API
-description: ColorPalette Properti. Mendapat susunan struktur ARGB 32bit.
+title: "ColorPalette.Argb32Entries"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti ColorPalette. Mendapatkan array struktur ARGB 32-bit."
 type: docs
 weight: 30
 url: /id/net/aspose.psd/colorpalette/argb32entries/
 ---
+{{< psd/tize >}}
 ## ColorPalette.Argb32Entries property
 
-Mendapat susunan struktur ARGB 32-bit.
+Mendapatkan array struktur ARGB 32-bit.
 
 ```csharp
 public int[] Argb32Entries { get; }
 ```
 
-### Nilai Pengembalian
+### Nilai Kembalian
 
-Susunan struktur ARGB 32-bit yang membentuk ini[`ColorPalette`](../) .
+Array struktur ARGB 32-bit yang membentuk [`ColorPalette`](../) ini.
 
-### Nilai properti
+### Property Value
 
 Entri.
 
-### Lihat juga
+### Lihat Juga
 
 * class [ColorPalette](../)
-* ruang nama [Aspose.PSD](../../colorpalette/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

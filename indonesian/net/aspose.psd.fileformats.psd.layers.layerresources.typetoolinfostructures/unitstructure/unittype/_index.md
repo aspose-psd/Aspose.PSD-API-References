@@ -1,28 +1,29 @@
 ---
-title: UnitStructure.UnitType
-second_title: Aspose.PSD untuk Referensi .NET API
-description: UnitStructure Properti. Mendapat atau menyetel tipe unit.
+title: "UnitStructure.UnitType"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti UnitStructure. Mengambil atau mengatur tipe unit"
 type: docs
 weight: 40
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/unitstructure/unittype/
 ---
+{{< psd/tize >}}
 ## UnitStructure.UnitType property
 
-Mendapat atau menyetel tipe unit.
+Mendapatkan atau mengatur tipe unit.
 
 ```csharp
 public UnitTypes UnitType { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
 Tipe unit.
 
-### Lihat juga
+### Lihat Juga
 
 * enum [UnitTypes](../../unittypes/)
 * class [UnitStructure](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../unitstructure/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 

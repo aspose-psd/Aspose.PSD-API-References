@@ -1,23 +1,24 @@
 ---
-title: ArcShape.Reverse
-second_title: Aspose.PSD untuk Referensi .NET API
-description: ArcShape metode. Membalik urutan poin untuk bentuk ini.
+title: "ArcShape.Reverse"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode ArcShape. Membalik urutan titik untuk bentuk ini"
 type: docs
 weight: 70
 url: /id/net/aspose.psd.shapes/arcshape/reverse/
 ---
+{{< psd/tize >}}
 ## ArcShape.Reverse method
 
-Membalik urutan poin untuk bentuk ini.
+Membalik urutan titik untuk bentuk ini.
 
 ```csharp
 public void Reverse()
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [ArcShape](../)
-* ruang nama [Aspose.PSD.Shapes](../../arcshape/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 

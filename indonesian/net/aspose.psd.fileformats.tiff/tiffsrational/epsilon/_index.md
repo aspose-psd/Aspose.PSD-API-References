@@ -1,11 +1,12 @@
 ---
-title: TiffSRational.Epsilon
-second_title: Aspose.PSD untuk Referensi .NET API
-description: TiffSRational bidang. Epsilon untuk perhitungan pecahan
+title: "TiffSRational.Epsilon"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Field TiffSRational. Epsilon untuk perhitungan pecahan"
 type: docs
 weight: 100
 url: /id/net/aspose.psd.fileformats.tiff/tiffsrational/epsilon/
 ---
+{{< psd/tize >}}
 ## TiffSRational.Epsilon field
 
 Epsilon untuk perhitungan pecahan
@@ -14,10 +15,10 @@ Epsilon untuk perhitungan pecahan
 public const double Epsilon;
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [TiffSRational](../)
-* ruang nama [Aspose.PSD.FileFormats.Tiff](../../tiffsrational/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff](../../../aspose.psd.fileformats.tiff/)
+* assembly [Aspose.PSD](../../../)
 
 

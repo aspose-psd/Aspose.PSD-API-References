@@ -1,11 +1,12 @@
 ---
-title: PattResourceData.ImageMode
-second_title: Aspose.PSD untuk Referensi .NET API
-description: PattResourceData Properti. Mendapatkan mode gambar.
+title: "PattResourceData.ImageMode"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti PattResourceData. Mendapatkan mode gambar"
 type: docs
 weight: 30
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources/pattresourcedata/imagemode/
 ---
+{{< psd/tize >}}
 ## PattResourceData.ImageMode property
 
 Mendapatkan mode gambar.
@@ -14,15 +15,15 @@ Mendapatkan mode gambar.
 public ColorModes ImageMode { get; }
 ```
 
-### Nilai properti
+### Property Value
 
-Modus gambar.
+Mode gambar.
 
-### Lihat juga
+### Lihat Juga
 
 * enum [ColorModes](../../../aspose.psd.fileformats.psd/colormodes/)
 * class [PattResourceData](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../pattresourcedata/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

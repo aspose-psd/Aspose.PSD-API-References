@@ -1,31 +1,32 @@
 ---
-title: StringFormat.DigitSubstitutionLanguage
-second_title: Aspose.PSD untuk Referensi .NET API
-description: StringFormat Properti. Mendapat atau mengatur bahasa yang digunakan saat digit lokal diganti dengan digit barat.
+title: "StringFormat.DigitSubstitutionLanguage"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti StringFormat. Mengambil atau mengatur bahasa yang digunakan ketika digit lokal digantikan dengan digit barat."
 type: docs
-weight: 50
+weight: 60
 url: /id/net/aspose.psd/stringformat/digitsubstitutionlanguage/
 ---
+{{< psd/tize >}}
 ## StringFormat.DigitSubstitutionLanguage property
 
-Mendapat atau mengatur bahasa yang digunakan saat digit lokal diganti dengan digit barat.
+Mendapatkan atau mengatur bahasa yang digunakan ketika digit lokal digantikan dengan digit barat.
 
 ```csharp
 public int DigitSubstitutionLanguage { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
-Pengidentifikasi bahasa Dukungan Bahasa Nasional (NLS) yang mengidentifikasi bahasa yang akan digunakan saat digit lokal diganti dengan digit barat. Anda dapat melewatiLCID properti dari aCultureInfo objek sebagai pengidentifikasi bahasa NLS. Misalnya, misalkan Anda membuatCultureInfo objek dengan meneruskan string "ar-EG" ke aCultureInfo constructor. Jika Anda lulusLCID milik ituCultureInfo objek bersama dengan. Traditional keStringDigitSubstitute) metode, maka digit Arab-Indikasi akan diganti dengan digit barat pada waktu tampilan.
+Pengidentifikasi bahasa National Language Support (NLS) yang mengidentifikasi bahasa yang akan digunakan ketika digit lokal digantikan dengan digit barat. Anda dapat meneruskan properti LCID dari objek CultureInfo sebagai pengidentifikasi bahasa NLS. Misalnya, anggap Anda membuat objek CultureInfo dengan meneruskan string "ar-EG" ke konstruktor CultureInfo. Jika Anda meneruskan properti LCID dari objek CultureInfo tersebut bersama dengan metode StringDigitSubstitute, maka digit Arab-Indic akan digantikan dengan digit barat pada saat tampilan.
 
-### Perkataan
+## Catatan
 
 Setter diperkenalkan untuk metode usang SetDigitSubstitution.
 
-### Lihat juga
+### Lihat Juga
 
 * class [StringFormat](../)
-* ruang nama [Aspose.PSD](../../stringformat/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

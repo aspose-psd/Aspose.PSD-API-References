@@ -1,28 +1,29 @@
 ---
-title: PsdImage.ImageResources
-second_title: Aspose.PSD untuk Referensi .NET API
-description: PsdImage Properti. Mendapat atau menyetel sumber daya gambar PSD.
+title: "PsdImage.ImageResources"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "PsdImage properti. Mengambil atau mengatur sumber daya gambar PSD"
 type: docs
 weight: 180
 url: /id/net/aspose.psd.fileformats.psd/psdimage/imageresources/
 ---
+{{< psd/tize >}}
 ## PsdImage.ImageResources property
 
-Mendapat atau menyetel sumber daya gambar PSD.
+Mendapatkan atau mengatur sumber daya gambar PSD.
 
 ```csharp
 public ResourceBlock[] ImageResources { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
 Sumber daya gambar PSD.
 
-### Lihat juga
+### Lihat Juga
 
 * class [ResourceBlock](../../resourceblock/)
 * class [PsdImage](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: TextShape.Transform
-second_title: Aspose.PSD untuk Referensi .NET API
-description: TextShape metode. Menerapkan transformasi yang ditentukan ke bentuk.
+title: "TextShape.Transform"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "TextShape metode. Menerapkan transformasi yang ditentukan ke bentuk"
 type: docs
 weight: 100
 url: /id/net/aspose.psd.shapes/textshape/transform/
 ---
+{{< psd/tize >}}
 ## TextShape.Transform method
 
 Menerapkan transformasi yang ditentukan ke bentuk.
@@ -14,15 +15,15 @@ Menerapkan transformasi yang ditentukan ke bentuk.
 public override void Transform(Matrix transform)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| transform | Matrix | Transformasi untuk diterapkan. |
+| transform | Matrix | Transformasi yang akan diterapkan. |
 
-### Lihat juga
+### Lihat Juga
 
 * class [Matrix](../../../aspose.psd/matrix/)
 * class [TextShape](../)
-* ruang nama [Aspose.PSD.Shapes](../../textshape/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,28 +1,29 @@
 ---
-title: Layer.Resources
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Layer Properti. Mendapat atau menyetel sumber daya lapisan.
+title: "Layer.Resources"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti Layer. Mendapatkan atau mengatur sumber daya lapisan"
 type: docs
-weight: 280
+weight: 290
 url: /id/net/aspose.psd.fileformats.psd.layers/layer/resources/
 ---
+{{< psd/tize >}}
 ## Layer.Resources property
 
-Mendapat atau menyetel sumber daya lapisan.
+Mendapatkan atau mengatur sumber daya lapisan.
 
 ```csharp
 public LayerResource[] Resources { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
 Sumber daya lapisan.
 
-### Lihat juga
+### Lihat Juga
 
 * class [LayerResource](../../layerresource/)
 * class [Layer](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers](../../layer/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

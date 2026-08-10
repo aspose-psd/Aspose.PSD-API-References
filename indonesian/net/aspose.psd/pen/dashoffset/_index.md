@@ -1,27 +1,28 @@
 ---
-title: Pen.DashOffset
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Pen Properti. Mendapat atau mengatur jarak dari awal garis ke awal pola garis putusputus.
+title: "Pen.DashOffset"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti Pen. Mendapatkan atau mengatur jarak dari awal garis ke permulaan pola dash"
 type: docs
 weight: 90
 url: /id/net/aspose.psd/pen/dashoffset/
 ---
+{{< psd/tize >}}
 ## Pen.DashOffset property
 
-Mendapat atau mengatur jarak dari awal garis ke awal pola garis putus-putus.
+Mendapatkan atau mengatur jarak dari awal sebuah garis ke permulaan pola garis putus-putus.
 
 ```csharp
 public float DashOffset { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
-Jarak dari awal garis ke awal pola garis putus-putus.
+Jarak dari awal garis ke permulaan pola dash.
 
-### Lihat juga
+### Lihat Juga
 
 * class [Pen](../)
-* ruang nama [Aspose.PSD](../../pen/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

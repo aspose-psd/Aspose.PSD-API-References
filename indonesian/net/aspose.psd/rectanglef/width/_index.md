@@ -1,27 +1,28 @@
 ---
-title: RectangleF.Width
-second_title: Aspose.PSD untuk Referensi .NET API
-description: RectangleF Properti. Mendapat atau mengatur lebar iniRectangleFstruktur.
+title: "RectangleF.Width"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti RectangleF. Mendapatkan atau mengatur lebar struktur RectangleF ini."
 type: docs
 weight: 160
 url: /id/net/aspose.psd/rectanglef/width/
 ---
+{{< psd/tize >}}
 ## RectangleF.Width property
 
-Mendapat atau mengatur lebar ini[`RectangleF`](../)struktur.
+Mendapatkan atau mengatur lebar struktur [`RectangleF`](../) ini.
 
 ```csharp
 public float Width { get; set; }
 ```
 
-### Nilai Pengembalian
+### Nilai Kembalian
 
-Lebar ini[`RectangleF`](../) struktur.
+Lebar struktur [`RectangleF`](../) ini.
 
-### Lihat juga
+### Lihat Juga
 
 * struct [RectangleF](../)
-* ruang nama [Aspose.PSD](../../rectanglef/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

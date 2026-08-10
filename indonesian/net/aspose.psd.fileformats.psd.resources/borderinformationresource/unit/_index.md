@@ -1,20 +1,21 @@
 ---
-title: BorderInformationResource.Unit
-second_title: Aspose.PSD untuk Referensi .NET API
-description: BorderInformationResource Properti. Mendapat atau mengatur unit perbatasan.
+title: "BorderInformationResource.Unit"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti BorderInformationResource. Mendapatkan atau mengatur satuan batas"
 type: docs
 weight: 40
 url: /id/net/aspose.psd.fileformats.psd.resources/borderinformationresource/unit/
 ---
+{{< psd/tize >}}
 ## BorderInformationResource.Unit property
 
-Mendapat atau mengatur unit perbatasan.
+Mendapatkan atau mengatur unit batas.
 
 ```csharp
 public PhysicalUnit Unit { get; set; }
 ```
 
-### Contoh
+## Contoh
 
 Contoh berikut menunjukkan dukungan sumber daya BorderInformationResource.
 
@@ -45,11 +46,11 @@ using (var image = (PsdImage)Image.Load(sourceFilePath))
 }
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * enum [PhysicalUnit](../../../aspose.psd.fileformats.psd.resources.resolutionenums/physicalunit/)
 * class [BorderInformationResource](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Resources](../../borderinformationresource/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

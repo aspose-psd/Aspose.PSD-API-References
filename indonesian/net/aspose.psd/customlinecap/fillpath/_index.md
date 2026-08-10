@@ -1,28 +1,29 @@
 ---
-title: CustomLineCap.FillPath
-second_title: Aspose.PSD untuk Referensi .NET API
-description: CustomLineCap Properti. Mendapat atau menyetel objek yang menentukan isian untuk batas kustom.
+title: "CustomLineCap.FillPath"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti CustomLineCap. Mendapatkan atau mengatur objek yang menentukan isian untuk tutup khusus"
 type: docs
 weight: 40
 url: /id/net/aspose.psd/customlinecap/fillpath/
 ---
+{{< psd/tize >}}
 ## CustomLineCap.FillPath property
 
-Mendapat atau menyetel objek yang menentukan isian untuk batas kustom.
+Mendapatkan atau mengatur objek yang mendefinisikan fill untuk penutup khusus.
 
 ```csharp
 public GraphicsPath FillPath { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
-Objek yang menentukan isian untuk tutup kustom.
+Objek yang menentukan isian untuk tutup khusus.
 
-### Lihat juga
+### Lihat Juga
 
 * class [GraphicsPath](../../graphicspath/)
 * class [CustomLineCap](../)
-* ruang nama [Aspose.PSD](../../customlinecap/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

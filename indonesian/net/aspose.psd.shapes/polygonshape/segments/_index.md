@@ -1,11 +1,12 @@
 ---
-title: PolygonShape.Segments
-second_title: Aspose.PSD untuk Referensi .NET API
-description: PolygonShape Properti. Mendapatkan segmen bentuk.
+title: "PolygonShape.Segments"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti PolygonShape. Mengambil segmen bentuk"
 type: docs
 weight: 80
 url: /id/net/aspose.psd.shapes/polygonshape/segments/
 ---
+{{< psd/tize >}}
 ## PolygonShape.Segments property
 
 Mendapatkan segmen bentuk.
@@ -14,15 +15,15 @@ Mendapatkan segmen bentuk.
 public override ShapeSegment[] Segments { get; }
 ```
 
-### Nilai properti
+### Property Value
 
 Segmen bentuk.
 
-### Lihat juga
+### Lihat Juga
 
 * class [ShapeSegment](../../../aspose.psd/shapesegment/)
 * class [PolygonShape](../)
-* ruang nama [Aspose.PSD.Shapes](../../polygonshape/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 

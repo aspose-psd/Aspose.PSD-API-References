@@ -1,27 +1,28 @@
 ---
-title: AiHeader.ColorUsage
-second_title: Aspose.PSD untuk Referensi .NET API
-description: AiHeader Properti. Mendapat atau menyetel penggunaan warna.
+title: "AiHeader.ColorUsage"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti AiHeader. Mendapatkan atau mengatur penggunaan warna"
 type: docs
 weight: 20
 url: /id/net/aspose.psd.fileformats.ai/aiheader/colorusage/
 ---
+{{< psd/tize >}}
 ## AiHeader.ColorUsage property
 
-Mendapat atau menyetel penggunaan warna.
+Mendapatkan atau mengatur penggunaan warna.
 
 ```csharp
 public string ColorUsage { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
 Penggunaan warna.
 
-### Lihat juga
+### Lihat Juga
 
 * class [AiHeader](../)
-* ruang nama [Aspose.PSD.FileFormats.Ai](../../aiheader/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

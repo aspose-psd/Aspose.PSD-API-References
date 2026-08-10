@@ -1,27 +1,28 @@
 ---
-title: ExifData.GPSTrack
-second_title: Aspose.PSD untuk Referensi .NET API
-description: ExifData Properti. Mendapat atau mengatur arah pergerakan penerima GPS.
+title: "ExifData.GPSTrack"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti ExifData. Mendapatkan atau mengatur arah pergerakan penerima GPS"
 type: docs
 weight: 650
 url: /id/net/aspose.psd.exif/exifdata/gpstrack/
 ---
+{{< psd/tize >}}
 ## ExifData.GPSTrack property
 
-Mendapat atau mengatur arah pergerakan penerima GPS.
+Mendapatkan atau mengatur arah pergerakan penerima GPS.
 
 ```csharp
 public string GPSTrack { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
 Arah pergerakan penerima GPS.
 
-### Lihat juga
+### Lihat Juga
 
 * class [ExifData](../)
-* ruang nama [Aspose.PSD.Exif](../../exifdata/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

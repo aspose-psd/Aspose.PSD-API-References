@@ -1,52 +1,53 @@
 ---
-title: PsdImageResourceException.PsdImageResourceException
-second_title: Aspose.PSD untuk Referensi .NET API
-description: PsdImageResourceException konstruktor. Menginisialisasi instance baru dariPsdImageResourceException kelas.
+title: "PsdImageResourceException.PsdImageResourceException"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Konstruktor PsdImageResourceException. Menginisialisasi sebuah instance baru dari kelas PsdImageResourceException."
 type: docs
 weight: 10
 url: /id/net/aspose.psd.coreexceptions.imageformats/psdimageresourceexception/psdimageresourceexception/
 ---
+{{< psd/tize >}}
 ## PsdImageResourceException(string, ResourceBlock) {#constructor}
 
-Menginisialisasi instance baru dari[`PsdImageResourceException`](../) kelas.
+Menginisialisasi sebuah instance baru dari kelas [`PsdImageResourceException`](../).
 
 ```csharp
 public PsdImageResourceException(string message, ResourceBlock resource)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
 | message | String | Pesan pengecualian. |
-| resource | ResourceBlock | Sumber daya. |
+| sumber daya | ResourceBlock | Sumber daya. |
 
-### Lihat juga
+### Lihat Juga
 
 * class [ResourceBlock](../../../aspose.psd.fileformats.psd/resourceblock/)
 * class [PsdImageResourceException](../)
-* ruang nama [Aspose.PSD.CoreExceptions.ImageFormats](../../psdimageresourceexception/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.CoreExceptions.ImageFormats](../../../aspose.psd.coreexceptions.imageformats/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## PsdImageResourceException(string, ResourceBlock, Exception) {#constructor_1}
 
-Menginisialisasi instance baru dari[`PsdImageResourceException`](../) kelas.
+Menginisialisasi sebuah instance baru dari kelas [`PsdImageResourceException`](../).
 
 ```csharp
 public PsdImageResourceException(string message, ResourceBlock resource, Exception innerException)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
 | message | String | Pesan pengecualian. |
-| resource | ResourceBlock | Sumber daya. |
-| innerException | Exception | Pengecualian batin. |
+| sumber daya | ResourceBlock | Sumber daya. |
+| innerException | Exception | Pengecualian dalam. |
 
-### Lihat juga
+### Lihat Juga
 
 * class [ResourceBlock](../../../aspose.psd.fileformats.psd/resourceblock/)
 * class [PsdImageResourceException](../)
-* ruang nama [Aspose.PSD.CoreExceptions.ImageFormats](../../psdimageresourceexception/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.CoreExceptions.ImageFormats](../../../aspose.psd.coreexceptions.imageformats/)
+* assembly [Aspose.PSD](../../../)
 
 

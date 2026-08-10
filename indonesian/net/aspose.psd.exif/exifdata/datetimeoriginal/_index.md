@@ -1,27 +1,28 @@
 ---
-title: ExifData.DateTimeOriginal
-second_title: Aspose.PSD untuk Referensi .NET API
-description: ExifData Properti. Mendapatkan atau menyetel waktu tanggal asli.
+title: "ExifData.DateTimeOriginal"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "ExifData properti. Mendapatkan atau mengatur tanggal dan waktu asli"
 type: docs
 weight: 140
 url: /id/net/aspose.psd.exif/exifdata/datetimeoriginal/
 ---
+{{< psd/tize >}}
 ## ExifData.DateTimeOriginal property
 
-Mendapatkan atau menyetel waktu tanggal asli.
+Mendapatkan atau mengatur tanggal dan waktu asli.
 
 ```csharp
 public string DateTimeOriginal { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
-Tanggal waktu aslinya.
+Tanggal dan waktu asli.
 
-### Lihat juga
+### Lihat Juga
 
 * class [ExifData](../)
-* ruang nama [Aspose.PSD.Exif](../../exifdata/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

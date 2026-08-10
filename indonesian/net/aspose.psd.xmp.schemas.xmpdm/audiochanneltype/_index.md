@@ -1,14 +1,15 @@
 ---
-title: Class AudioChannelType
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Aspose.PSD.Xmp.Schemas.XmpDm.AudioChannelType kelas. Mewakili jenis saluran audio.
+title: "Kelas AudioChannelType"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Aspose.PSD.Xmp.Schemas.XmpDm.AudioChannelType kelas. Mewakili tipe saluran audio."
 type: docs
-weight: 5840
+weight: 6340
 url: /id/net/aspose.psd.xmp.schemas.xmpdm/audiochanneltype/
 ---
+{{< psd/tize >}}
 ## AudioChannelType class
 
-Mewakili jenis saluran audio.
+Mewakili tipe saluran audio.
 
 ```csharp
 public sealed class AudioChannelType
@@ -16,24 +17,24 @@ public sealed class AudioChannelType
 
 ## Properti
 
-| Nama | Keterangan |
+| Nama | Deskripsi |
 | --- | --- |
-| static [Audio16Channel](../../aspose.psd.xmp.schemas.xmpdm/audiochanneltype/audio16channel/) { get; } | Mendapat 16 saluran audio. |
-| static [Audio51](../../aspose.psd.xmp.schemas.xmpdm/audiochanneltype/audio51/) { get; } | Mendapat saluran audio 5.1. |
-| static [Audio71](../../aspose.psd.xmp.schemas.xmpdm/audiochanneltype/audio71/) { get; } | Mendapat saluran audio 7.1. |
+| static [Audio16Channel](../../aspose.psd.xmp.schemas.xmpdm/audiochanneltype/audio16channel/) { get; } | Mendapatkan saluran audio 16. |
+| static [Audio51](../../aspose.psd.xmp.schemas.xmpdm/audiochanneltype/audio51/) { get; } | Mendapatkan saluran audio 5.1. |
+| static [Audio71](../../aspose.psd.xmp.schemas.xmpdm/audiochanneltype/audio71/) { get; } | Mendapatkan saluran audio 7.1. |
 | static [Mono](../../aspose.psd.xmp.schemas.xmpdm/audiochanneltype/mono/) { get; } | Mendapatkan saluran audio mono. |
-| static [OtherChannel](../../aspose.psd.xmp.schemas.xmpdm/audiochanneltype/otherchannel/) { get; } | Mendapat saluran lain. |
+| static [OtherChannel](../../aspose.psd.xmp.schemas.xmpdm/audiochanneltype/otherchannel/) { get; } | Mendapatkan saluran lain. |
 | static [Stereo](../../aspose.psd.xmp.schemas.xmpdm/audiochanneltype/stereo/) { get; } | Mendapatkan saluran audio stereo. |
 
 ## Metode
 
-| Nama | Keterangan |
+| Nama | Deskripsi |
 | --- | --- |
-| override [ToString](../../aspose.psd.xmp.schemas.xmpdm/audiochanneltype/tostring/)() | Mengembalikan aString yang mewakili instance ini. |
+| override [ToString](../../aspose.psd.xmp.schemas.xmpdm/audiochanneltype/tostring/)() | Mengembalikan String yang mewakili instance ini. |
 
-### Lihat juga
+### Lihat Juga
 
-* ruang nama [Aspose.PSD.Xmp.Schemas.XmpDm](../../aspose.psd.xmp.schemas.xmpdm/)
-* perakitan [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpDm](../../aspose.psd.xmp.schemas.xmpdm/)
+* assembly [Aspose.PSD](../../)
 
 

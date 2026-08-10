@@ -1,102 +1,103 @@
 ---
-title: Region.Exclude
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Region metode. Memperbarui iniRegion hanya berisi bagian interiornya yang tidak bersinggungan dengan yang ditentukanRectangleFstruktur.
+title: "Region.Exclude"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode Region. Memperbarui Region ini sehingga hanya berisi bagian interiornya yang tidak beririsan dengan struktur RectangleF yang ditentukan."
 type: docs
 weight: 50
 url: /id/net/aspose.psd/region/exclude/
 ---
+{{< psd/tize >}}
 ## Exclude(RectangleF) {#exclude_2}
 
-Memperbarui ini[`Region`](../) hanya berisi bagian interiornya yang tidak bersinggungan dengan yang ditentukan[`RectangleF`](../../rectanglef/)struktur.
+Memperbarui [`Region`](../) ini sehingga hanya berisi bagian interiornya yang tidak beririsan dengan struktur [`RectangleF`](../../rectanglef/) yang ditentukan.
 
 ```csharp
 public void Exclude(RectangleF rect)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| rect | RectangleF | Itu[`RectangleF`](../../rectanglef/) struktur untuk dikecualikan dari ini[`Region`](../). |
+| rect | RectangleF | Struktur [`RectangleF`](../../rectanglef/) untuk dikecualikan dari [`Region`](../) ini. |
 
-### Lihat juga
+### Lihat Juga
 
 * struct [RectangleF](../../rectanglef/)
 * class [Region](../)
-* ruang nama [Aspose.PSD](../../region/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Exclude(Rectangle) {#exclude_1}
 
-Memperbarui ini[`Region`](../) hanya berisi bagian interiornya yang tidak bersinggungan dengan yang ditentukan[`Rectangle`](../../rectangle/)struktur.
+Memperbarui [`Region`](../) ini sehingga hanya berisi bagian interiornya yang tidak beririsan dengan struktur [`Rectangle`](../../rectangle/) yang ditentukan.
 
 ```csharp
 public void Exclude(Rectangle rect)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| rect | Rectangle | Itu[`Rectangle`](../../rectangle/) struktur untuk dikecualikan dari ini[`Region`](../). |
+| rect | Rectangle | Struktur [`Rectangle`](../../rectangle/) untuk dikecualikan dari [`Region`](../) ini. |
 
-### Lihat juga
+### Lihat Juga
 
 * struct [Rectangle](../../rectangle/)
 * class [Region](../)
-* ruang nama [Aspose.PSD](../../region/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Exclude(GraphicsPath) {#exclude}
 
-Memperbarui ini[`Region`](../) hanya berisi bagian interiornya yang tidak bersinggungan dengan yang ditentukan[`GraphicsPath`](../../graphicspath/) .
+Memperbarui [`Region`](../) ini sehingga hanya berisi bagian interiornya yang tidak beririsan dengan [`GraphicsPath`](../../graphicspath/) yang ditentukan.
 
 ```csharp
 public void Exclude(GraphicsPath path)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| path | GraphicsPath | Itu[`GraphicsPath`](../../graphicspath/) untuk mengecualikan dari ini[`Region`](../). |
+| path | GraphicsPath | [`GraphicsPath`](../../graphicspath/) untuk dikecualikan dari [`Region`](../) ini. |
 
 ### Pengecualian
 
 | pengecualian | kondisi |
 | --- | --- |
-| ArgumentNullException | *path* adalah null. |
+| ArgumentNullException | *path* bernilai null. |
 
-### Lihat juga
+### Lihat Juga
 
 * class [GraphicsPath](../../graphicspath/)
 * class [Region](../)
-* ruang nama [Aspose.PSD](../../region/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Exclude(Region) {#exclude_3}
 
-Memperbarui ini[`Region`](../) hanya berisi bagian interiornya yang tidak bersinggungan dengan yang ditentukan[`Region`](../) .
+Memperbarui [`Region`](../) ini untuk hanya berisi bagian interiornya yang tidak berpotongan dengan [`Region`](../) yang ditentukan.
 
 ```csharp
 public void Exclude(Region region)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| region | Region | Itu[`Region`](../) untuk mengecualikan dari ini[`Region`](../). |
+| region | Region | [`Region`](../) yang akan dikecualikan dari [`Region`](../) ini. |
 
 ### Pengecualian
 
 | pengecualian | kondisi |
 | --- | --- |
-| ArgumentNullException | *region* adalah null. |
+| ArgumentNullException | *region* bernilai null. |
 
-### Lihat juga
+### Lihat Juga
 
 * class [Region](../)
-* ruang nama [Aspose.PSD](../../region/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

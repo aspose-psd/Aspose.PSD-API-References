@@ -1,28 +1,29 @@
 ---
-title: ExifData.GPSAltitudeRef
-second_title: Aspose.PSD untuk Referensi .NET API
-description: ExifData Properti. Mendapatkan atau menyetel ketinggian GPS yang digunakan sebagai ketinggian referensi.
+title: "ExifData.GPSAltitudeRef"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "ExifData properti. Mendapatkan atau mengatur ketinggian GPS yang digunakan sebagai ketinggian referensi"
 type: docs
 weight: 370
 url: /id/net/aspose.psd.exif/exifdata/gpsaltituderef/
 ---
+{{< psd/tize >}}
 ## ExifData.GPSAltitudeRef property
 
-Mendapatkan atau menyetel ketinggian GPS yang digunakan sebagai ketinggian referensi.
+Mendapatkan atau mengatur ketinggian GPS yang digunakan sebagai ketinggian referensi.
 
 ```csharp
 public ExifGPSAltitudeRef GPSAltitudeRef { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
 Ketinggian GPS yang digunakan sebagai ketinggian referensi.
 
-### Lihat juga
+### Lihat Juga
 
 * enum [ExifGPSAltitudeRef](../../../aspose.psd.exif.enums/exifgpsaltituderef/)
 * class [ExifData](../)
-* ruang nama [Aspose.PSD.Exif](../../exifdata/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

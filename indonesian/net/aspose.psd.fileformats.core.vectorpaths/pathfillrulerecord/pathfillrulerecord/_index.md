@@ -1,43 +1,44 @@
 ---
-title: PathFillRuleRecord.PathFillRuleRecord
-second_title: Aspose.PSD untuk Referensi .NET API
-description: PathFillRuleRecord konstruktor. Menginisialisasi instance baru dariPathFillRuleRecord kelas.
+title: "PathFillRuleRecord.PathFillRuleRecord"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "PathFillRuleRecord konstruktor. Menginisialisasi sebuah instance baru dari kelas PathFillRuleRecord"
 type: docs
 weight: 10
 url: /id/net/aspose.psd.fileformats.core.vectorpaths/pathfillrulerecord/pathfillrulerecord/
 ---
+{{< psd/tize >}}
 ## PathFillRuleRecord() {#constructor}
 
-Menginisialisasi instance baru dari[`PathFillRuleRecord`](../) kelas.
+Menginisialisasi sebuah instance baru dari kelas [`PathFillRuleRecord`](../).
 
 ```csharp
 public PathFillRuleRecord()
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [PathFillRuleRecord](../)
-* ruang nama [Aspose.PSD.FileFormats.Core.VectorPaths](../../pathfillrulerecord/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## PathFillRuleRecord(byte[]) {#constructor_1}
 
-Menginisialisasi instance baru dari[`PathFillRuleRecord`](../) kelas.
+Menginisialisasi sebuah instance baru dari kelas [`PathFillRuleRecord`](../).
 
 ```csharp
 public PathFillRuleRecord(byte[] data)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
 | data | Byte[] | Data rekaman. |
 
-### Lihat juga
+### Lihat Juga
 
 * class [PathFillRuleRecord](../)
-* ruang nama [Aspose.PSD.FileFormats.Core.VectorPaths](../../pathfillrulerecord/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../../)
 
 

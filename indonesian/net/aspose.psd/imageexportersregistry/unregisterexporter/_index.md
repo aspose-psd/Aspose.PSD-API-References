@@ -1,28 +1,29 @@
 ---
-title: ImageExportersRegistry.UnregisterExporter
-second_title: Aspose.PSD untuk Referensi .NET API
-description: ImageExportersRegistry metode. Membatalkan pendaftaran eksportir.
+title: "ImageExportersRegistry.UnregisterExporter"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "metode ImageExportersRegistry. Membatalkan pendaftaran pengekspor."
 type: docs
 weight: 70
 url: /id/net/aspose.psd/imageexportersregistry/unregisterexporter/
 ---
+{{< psd/tize >}}
 ## ImageExportersRegistry.UnregisterExporter method
 
-Membatalkan pendaftaran eksportir.
+Membatalkan pendaftaran pengekspor.
 
 ```csharp
 public static void UnregisterExporter(IImageExporterDescriptor exporterDescriptor)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| exporterDescriptor | IImageExporterDescriptor | Deskriptor eksportir untuk membatalkan pendaftaran. |
+| exporterDescriptor | IImageExporterDescriptor | Deskriptor pengekspor yang akan dibatalkan pendaftarannya. |
 
-### Lihat juga
+### Lihat Juga
 
 * interface [IImageExporterDescriptor](../../iimageexporterdescriptor/)
 * class [ImageExportersRegistry](../)
-* ruang nama [Aspose.PSD](../../imageexportersregistry/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

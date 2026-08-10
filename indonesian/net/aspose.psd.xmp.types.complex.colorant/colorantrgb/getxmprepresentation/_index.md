@@ -1,27 +1,28 @@
 ---
-title: ColorantRgb.GetXmpRepresentation
-second_title: Aspose.PSD untuk Referensi .NET API
-description: ColorantRgb metode. Mendapat string berisi nilai dalam format XMP.
+title: "ColorantRgb.GetXmpRepresentation"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode ColorantRgb. Mendapatkan nilai string yang terkandung dalam format XMP"
 type: docs
 weight: 50
 url: /id/net/aspose.psd.xmp.types.complex.colorant/colorantrgb/getxmprepresentation/
 ---
+{{< psd/tize >}}
 ## ColorantRgb.GetXmpRepresentation method
 
-Mendapat string berisi nilai dalam format XMP.
+Mendapatkan nilai string yang terkandung dalam format XMP.
 
 ```csharp
 public override string GetXmpRepresentation()
 ```
 
-### Nilai Pengembalian
+### Nilai Kembalian
 
-Mengembalikan string berisi nilai dalam format XMP.
+Mengembalikan nilai string yang terkandung dalam format XMP.
 
-### Lihat juga
+### Lihat Juga
 
 * class [ColorantRgb](../)
-* ruang nama [Aspose.PSD.Xmp.Types.Complex.Colorant](../../colorantrgb/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.Colorant](../../../aspose.psd.xmp.types.complex.colorant/)
+* assembly [Aspose.PSD](../../../)
 
 

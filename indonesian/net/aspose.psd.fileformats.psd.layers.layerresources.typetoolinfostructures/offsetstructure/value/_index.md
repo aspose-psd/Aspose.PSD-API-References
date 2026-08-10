@@ -1,27 +1,28 @@
 ---
-title: OffsetStructure.Value
-second_title: Aspose.PSD untuk Referensi .NET API
-description: OffsetStructure Properti. Mendapat atau menetapkan nilai integer.
+title: "OffsetStructure.Value"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti OffsetStructure. Mendapatkan atau mengatur nilai integer"
 type: docs
 weight: 60
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/offsetstructure/value/
 ---
+{{< psd/tize >}}
 ## OffsetStructure.Value property
 
-Mendapat atau menetapkan nilai integer.
+Mendapatkan atau mengatur nilai integer.
 
 ```csharp
 public int Value { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
-Nilai bilangan bulat.
+Nilai integer.
 
-### Lihat juga
+### Lihat Juga
 
 * class [OffsetStructure](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../offsetstructure/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 

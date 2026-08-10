@@ -1,27 +1,28 @@
 ---
-title: Version.Modifier
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Version Properti. Mendapat atau menyetel pengubah.
+title: "Version.Modifier"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti Version. Mendapatkan atau mengatur modifier"
 type: docs
 weight: 40
 url: /id/net/aspose.psd.xmp.types.complex.version/version/modifier/
 ---
+{{< psd/tize >}}
 ## Version.Modifier property
 
-Mendapat atau menyetel pengubah.
+Mendapatkan atau mengatur pengubah.
 
 ```csharp
 public string Modifier { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
-Pengubah.
+Modifier.
 
-### Lihat juga
+### Lihat Juga
 
 * class [Version](../)
-* ruang nama [Aspose.PSD.Xmp.Types.Complex.Version](../../version/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.Version](../../../aspose.psd.xmp.types.complex.version/)
+* assembly [Aspose.PSD](../../../)
 
 

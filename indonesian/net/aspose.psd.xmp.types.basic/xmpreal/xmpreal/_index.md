@@ -1,54 +1,55 @@
 ---
-title: XmpReal.XmpReal
-second_title: Aspose.PSD untuk Referensi .NET API
-description: XmpReal konstruktor. Menginisialisasi instance baru dariXmpReal kelas.
+title: "XmpReal.XmpReal"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Konstruktor XmpReal. Menginisialisasi instance baru dari kelas XmpReal"
 type: docs
 weight: 10
 url: /id/net/aspose.psd.xmp.types.basic/xmpreal/xmpreal/
 ---
+{{< psd/tize >}}
 ## XmpReal(float) {#constructor}
 
-Menginisialisasi instance baru dari[`XmpReal`](../) kelas.
+Menginisialisasi instance baru dari kelas [`XmpReal`](../).
 
 ```csharp
 public XmpReal(float value)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| value | Single | Nilai mengambang. |
+| nilai | Single | Nilai float. |
 
-### Lihat juga
+### Lihat Juga
 
 * class [XmpReal](../)
-* ruang nama [Aspose.PSD.Xmp.Types.Basic](../../xmpreal/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Basic](../../../aspose.psd.xmp.types.basic/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## XmpReal(string) {#constructor_1}
 
-Menginisialisasi instance baru dari[`XmpReal`](../) kelas.
+Menginisialisasi instance baru dari kelas [`XmpReal`](../).
 
 ```csharp
 public XmpReal(string value)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| value | String | Nilai. |
+| nilai | String | Nilai. |
 
 ### Pengecualian
 
 | pengecualian | kondisi |
 | --- | --- |
-| ArgumentNullException | nilainya nol. |
-| ArgumentException | Nilai tidak valid. Harus mengapung. |
+| ArgumentNullException | nilai adalah null. |
+| ArgumentException | Nilai tidak valid. Harus berupa float. |
 
-### Lihat juga
+### Lihat Juga
 
 * class [XmpReal](../)
-* ruang nama [Aspose.PSD.Xmp.Types.Basic](../../xmpreal/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Basic](../../../aspose.psd.xmp.types.basic/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,28 +1,29 @@
 ---
-title: TypeToolInfoResource.Lines
-second_title: Aspose.PSD untuk Referensi .NET API
-description: TypeToolInfoResource Properti. Mendapat atau mengatur garis.
+title: "TypeToolInfoResource.Lines"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti TypeToolInfoResource. Mendapatkan atau mengatur baris"
 type: docs
-weight: 140
+weight: 130
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources/typetoolinforesource/lines/
 ---
+{{< psd/tize >}}
 ## TypeToolInfoResource.Lines property
 
-Mendapat atau mengatur garis.
+Mendapatkan atau mengatur baris.
 
 ```csharp
 public TypeToolLineInfo[] Lines { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
-Garis.
+Baris.
 
-### Lihat juga
+### Lihat Juga
 
 * class [TypeToolLineInfo](../../typetoollineinfo/)
 * class [TypeToolInfoResource](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../typetoolinforesource/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

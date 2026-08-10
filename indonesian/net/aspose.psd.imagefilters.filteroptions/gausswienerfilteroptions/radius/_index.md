@@ -1,27 +1,28 @@
 ---
-title: GaussWienerFilterOptions.Radius
-second_title: Aspose.PSD untuk Referensi .NET API
-description: GaussWienerFilterOptions Properti. Mendapat atau menyetel radius.
+title: "GaussWienerFilterOptions.Radius"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti GaussWienerFilterOptions. Mendapatkan atau mengatur nilai radius"
 type: docs
 weight: 20
 url: /id/net/aspose.psd.imagefilters.filteroptions/gausswienerfilteroptions/radius/
 ---
+{{< psd/tize >}}
 ## GaussWienerFilterOptions.Radius property
 
-Mendapat atau menyetel radius.
+Mendapatkan atau mengatur radius.
 
 ```csharp
 public int Radius { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
 Jari-jari.
 
-### Lihat juga
+### Lihat Juga
 
 * class [GaussWienerFilterOptions](../)
-* ruang nama [Aspose.PSD.ImageFilters.FilterOptions](../../gausswienerfilteroptions/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageFilters.FilterOptions](../../../aspose.psd.imagefilters.filteroptions/)
+* assembly [Aspose.PSD](../../../)
 
 

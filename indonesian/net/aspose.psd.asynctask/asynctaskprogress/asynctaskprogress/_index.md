@@ -1,28 +1,29 @@
 ---
-title: AsyncTaskProgress.AsyncTaskProgress
-second_title: Aspose.PSD untuk Referensi .NET API
-description: AsyncTaskProgress konstruktor. Menginisialisasi instance baru dariAsyncTaskProgress kelas.
+title: "AsyncTaskProgress.AsyncTaskProgress"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Konstruktor AsyncTaskProgress. Menginisialisasi sebuah instance baru dari kelas AsyncTaskProgress"
 type: docs
 weight: 10
 url: /id/net/aspose.psd.asynctask/asynctaskprogress/asynctaskprogress/
 ---
+{{< psd/tize >}}
 ## AsyncTaskProgress constructor
 
-Menginisialisasi instance baru dari[`AsyncTaskProgress`](../) kelas.
+Menginisialisasi sebuah instance baru dari kelas [`AsyncTaskProgress`](../).
 
 ```csharp
 public AsyncTaskProgress(int progressPercentage, TimeSpan duration)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
 | progressPercentage | Int32 | Persentase kemajuan. |
 | duration | TimeSpan | Durasi. |
 
-### Lihat juga
+### Lihat Juga
 
 * class [AsyncTaskProgress](../)
-* ruang nama [Aspose.PSD.AsyncTask](../../asynctaskprogress/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.AsyncTask](../../../aspose.psd.asynctask/)
+* assembly [Aspose.PSD](../../../)
 
 

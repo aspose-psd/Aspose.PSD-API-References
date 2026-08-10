@@ -1,11 +1,12 @@
 ---
-title: XmpRightsManagementPackage.AddValue
-second_title: Aspose.PSD untuk Referensi .NET API
-description: XmpRightsManagementPackage metode. Menambahkan properti string.
+title: "XmpRightsManagementPackage.AddValue"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode XmpRightsManagementPackage. Menambahkan properti string."
 type: docs
 weight: 20
 url: /id/net/aspose.psd.xmp.schemas.xmprm/xmprightsmanagementpackage/addvalue/
 ---
+{{< psd/tize >}}
 ## XmpRightsManagementPackage.AddValue method
 
 Menambahkan properti string.
@@ -14,21 +15,21 @@ Menambahkan properti string.
 public override void AddValue(string key, string value)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| key | String | Representasi string kunci yang diidentifikasi dengan nilai tambah. |
-| value | String | Nilai string. |
+| kunci | String | Representasi string dari kunci yang diidentifikasi dengan nilai yang ditambahkan. |
+| nilai | String | Nilai string. |
 
 ### Pengecualian
 
 | pengecualian | kondisi |
 | --- | --- |
-| ArgumentNullException | key;Kunci harus disediakan untuk ruang nama Manajemen Hak XMP |
+| ArgumentNullException | key;Kunci harus disediakan untuk namespace XMP Rights Management |
 
-### Lihat juga
+### Lihat Juga
 
 * class [XmpRightsManagementPackage](../)
-* ruang nama [Aspose.PSD.Xmp.Schemas.XmpRm](../../xmprightsmanagementpackage/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpRm](../../../aspose.psd.xmp.schemas.xmprm/)
+* assembly [Aspose.PSD](../../../)
 
 

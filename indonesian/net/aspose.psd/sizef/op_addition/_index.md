@@ -1,32 +1,33 @@
 ---
-title: SizeF.op_Addition
-second_title: Aspose.PSD untuk Referensi .NET API
-description: SizeF metode. Menambahkan lebar dan tinggi dari satuSizeF struktur dengan lebar dan tinggi yang lainSizeFstruktur.
+title: "SizeF.op_Addition"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode SizeF. Menambahkan lebar dan tinggi satu struktur SizeF ke lebar dan tinggi struktur SizeF lainnya."
 type: docs
 weight: 130
 url: /id/net/aspose.psd/sizef/op_addition/
 ---
+{{< psd/tize >}}
 ## SizeF Addition operator
 
-Menambahkan lebar dan tinggi dari satu[`SizeF`](../) struktur dengan lebar dan tinggi yang lain[`SizeF`](../)struktur.
+Menambahkan lebar dan tinggi satu struktur [`SizeF`](../) ke lebar dan tinggi struktur [`SizeF`](../) lainnya.
 
 ```csharp
 public static SizeF operator +(SizeF size1, SizeF size2)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| size1 | SizeF | Pertama[`SizeF`](../) menambahkan. |
-| size2 | SizeF | Kedua[`SizeF`](../) menambahkan. |
+| size1 | SizeF | [`SizeF`](../) pertama yang akan ditambahkan. |
+| size2 | SizeF | [`SizeF`](../) kedua yang akan ditambahkan. |
 
-### Nilai Pengembalian
+### Nilai Kembalian
 
-A[`SizeF`](../) struktur yang merupakan hasil operasi penjumlahan.
+Sebuah struktur [`SizeF`](../) yang merupakan hasil operasi penjumlahan.
 
-### Lihat juga
+### Lihat Juga
 
 * struct [SizeF](../)
-* ruang nama [Aspose.PSD](../../sizef/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

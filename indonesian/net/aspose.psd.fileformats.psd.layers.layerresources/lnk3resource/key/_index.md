@@ -1,22 +1,23 @@
 ---
-title: Lnk3Resource.Key
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Lnk3Resource Properti. Mendapat kunci sumber daya lapisan.
+title: "Lnk3Resource.Key"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti Lnk3Resource. Mendapatkan kunci resource lapisan"
 type: docs
 weight: 20
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources/lnk3resource/key/
 ---
+{{< psd/tize >}}
 ## Lnk3Resource.Key property
 
-Mendapat kunci sumber daya lapisan.
+Mendapatkan kunci sumber daya lapisan.
 
 ```csharp
 public override int Key { get; }
 ```
 
-### Contoh
+## Contoh
 
-Contoh ini menunjukkan cara mendapatkan dan mengatur properti dari Lnk2Resource dan Lnk3Resource.
+Contoh ini menunjukkan cara mendapatkan dan mengatur properti Lnk2Resource dan Lnk3Resource.
 
 ```csharp
 [C#]
@@ -114,7 +115,7 @@ new object[]
 var basePath = "" + Path.DirectorySeparatorChar;
 string Output = "output" + Path.DirectorySeparatorChar;
 
-// Menyimpan data smart object di file PSD ke file.
+// Menyimpan data objek pintar dalam file PSD ke sebuah file.
 void SaveSmartObjectData(string prefix, string fileName, byte[] data)
 {
     var filePath = basePath + prefix + "_" + fileName;
@@ -125,7 +126,7 @@ void SaveSmartObjectData(string prefix, string fileName, byte[] data)
     }
 }
 
-// Memuat data baru untuk smart object di file PSD.
+// Memuat data baru untuk objek pintar dalam file PSD.
 byte[] LoadNewData(string fileName)
 {
     using (var container = FileStreamContainer.OpenFileStream(basePath + fileName))
@@ -134,7 +135,7 @@ byte[] LoadNewData(string fileName)
     }
 }
 
-// Mendapatkan dan menyetel properti Sumber Daya PSD Lnk2 / Lnk3 dan sumber data liFD-nya dalam gambar PSD
+// Mendapatkan dan mengatur properti PSD Lnk2 / Lnk3 Resource serta sumber data liFD-nya dalam gambar PSD
 void ExampleOfLnk2ResourceSupport(
     string fileName,
     int dataSourceCount,
@@ -196,27 +197,27 @@ void ExampleOfLnk2ResourceSupport(
         }
 
         AssertAreEqual(true, lnk2Resource != null);
-        if (image.BitsPerChannel < 32) // Penyimpanan 32 bit per saluran belum didukung
+        if (image.BitsPerChannel < 32) // 32 bit per channel saving is not supported yet
         {
             image.Save(basePath + Output + fileName, new PsdOptions(image));
         }
     }
 }
 
-// Contoh ini mendemonstrasikan cara mendapatkan dan menyetel properti Sumber Daya PSD Lnk2 dan sumber data liFD-nya untuk 8 bit per saluran.
+// Contoh ini menunjukkan cara mendapatkan dan mengatur properti PSD Lnk2 Resource dan sumber data liFD-nya untuk 8 bit per kanal.
 ExampleOfLnk2ResourceSupport("rgb8_2x2_embedded_png.psd", 1, 0x12C, 0x0000079c, Lnk2ResourceSupportCases);
 
-// Contoh ini mendemonstrasikan cara mendapatkan dan menyetel properti Sumber Daya PSD Lnk3 dan sumber data liFD-nya untuk 32 bit per saluran.
+// Contoh ini menunjukkan cara mendapatkan dan mengatur properti PSD Lnk3 Resource dan sumber data liFD-nya untuk 32 bit per kanal.
 ExampleOfLnk2ResourceSupport("Layered PSD file smart objects.psd", 2, 0x19504, 0x0001d3e0, LayeredLnk3ResourceSupportCases);
 
-// Contoh ini mendemonstrasikan cara mendapatkan dan menyetel properti Sumber Daya PSD Lnk2 dan sumber data liFD-nya untuk 16 bit per saluran.
+// Contoh ini menunjukkan cara mendapatkan dan mengatur properti PSD Lnk2 Resource dan sumber data liFD-nya untuk 16 bit per kanal.
 ExampleOfLnk2ResourceSupport("LayeredSmartObjects16bit.psd", 2, 0x19504, 0x0001d3e0, LayeredLnk2ResourceSupportCases);
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [Lnk3Resource](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../lnk3resource/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

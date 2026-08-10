@@ -1,14 +1,15 @@
 ---
-title: Class SmartObjectProvider
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Aspose.PSD.FileFormats.Psd.SmartObjectProvider kelas. Menentukan penyedia objek cerdas yang menyediakan pengambilan/pengaturan sumber data dari sumber tautan global file PSD dan kontennya.
+title: "Kelas SmartObjectProvider"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Kelas Aspose.PSD.FileFormats.Psd.SmartObjectProvider. Mendefinisikan penyedia objek pintar yang menyediakan pengambilan / penetapan sumber data dari sumber daya tautan global file PSD dan isinya"
 type: docs
-weight: 4000
+weight: 4470
 url: /id/net/aspose.psd.fileformats.psd/smartobjectprovider/
 ---
+{{< psd/tize >}}
 ## SmartObjectProvider class
 
-Menentukan penyedia objek cerdas yang menyediakan pengambilan/pengaturan sumber data dari sumber tautan global file PSD dan kontennya.
+Mendefinisikan penyedia objek pintar yang menyediakan pengambilan / penetapan sumber data dari sumber daya tautan global file PSD dan isinya.
 
 ```csharp
 public class SmartObjectProvider
@@ -16,17 +17,17 @@ public class SmartObjectProvider
 
 ## Metode
 
-| Nama | Keterangan |
+| Nama | Deskripsi |
 | --- | --- |
 | [ConvertToSmartObject](../../aspose.psd.fileformats.psd/smartobjectprovider/converttosmartobject/#converttosmartobject_1)(params int[]) | Mengonversi lapisan menjadi objek pintar tersemat. |
 | [ConvertToSmartObject](../../aspose.psd.fileformats.psd/smartobjectprovider/converttosmartobject/#converttosmartobject)(Layer[]) | Mengonversi lapisan menjadi objek pintar tersemat. |
-| [EmbedAllLinked](../../aspose.psd.fileformats.psd/smartobjectprovider/embedalllinked/)() | Menyematkan semua objek cerdas yang ditautkan ke dalam gambar. |
-| [NewSmartObjectViaCopy](../../aspose.psd.fileformats.psd/smartobjectprovider/newsmartobjectviacopy/)(SmartObjectLayer) | Membuat layer smart object baru dengan menyalin layer sumber. |
-| [UpdateAllModifiedContent](../../aspose.psd.fileformats.psd/smartobjectprovider/updateallmodifiedcontent/)() | Memperbarui konten semua objek pintar yang dimodifikasi pada gambar. |
+| [EmbedAllLinked](../../aspose.psd.fileformats.psd/smartobjectprovider/embedalllinked/)() | Menyematkan semua objek pintar yang ditautkan dalam gambar. |
+| [NewSmartObjectViaCopy](../../aspose.psd.fileformats.psd/smartobjectprovider/newsmartobjectviacopy/)(SmartObjectLayer) | Membuat lapisan objek pintar baru dengan menyalin yang sumber. |
+| [UpdateAllModifiedContent](../../aspose.psd.fileformats.psd/smartobjectprovider/updateallmodifiedcontent/)() | Memperbarui konten semua objek pintar yang dimodifikasi dalam gambar. |
 
-### Contoh
+## Contoh
 
-Kode berikut menunjukkan dukungan untuk memperbarui objek Cerdas Tertaut.
+Kode berikut menunjukkan dukungan pembaruan objek pintar tertaut.
 
 ```csharp
 [C#]
@@ -59,7 +60,7 @@ void AssertAreEqual(object actual, object expected)
     }
 }
 
-// Contoh ini menunjukkan cara memperbarui lapisan objek pintar eksternal atau tersemat menggunakan metode ini:
+// Contoh ini menunjukkan cara memperbarui lapisan objek pintar eksternal atau tersemat menggunakan metode berikut:
 // RelinkToFile, UpdateModifiedContent, ExportContents
 ExampleOfUpdatingSmartObjectLayer("rgb8_2x2_linked2.psd", 0x53, 0, 0, 2, 2, FileFormat.Png);
 ExampleOfUpdatingSmartObjectLayer("r-embedded-png.psd", 0x207, 0, 0, 0xb, 0x10, FileFormat.Png);
@@ -73,7 +74,7 @@ void ExampleOfUpdatingSmartObjectLayer(
     int bottom,
     FileFormat format)
 {
-    // Contoh ini menunjukkan cara mengubah lapisan objek pintar di file PSD dan mengekspor / memperbarui kontennya.
+    // Contoh ini menunjukkan cara mengubah lapisan objek pintar dalam file PSD dan mengekspor / memperbarui isinya.
     string fileName = Path.GetFileNameWithoutExtension(filePath);
     string dataDir = "updating_output" + Path.DirectorySeparatorChar;
     filePath = filePath;
@@ -94,13 +95,13 @@ void ExampleOfUpdatingSmartObjectLayer(
         if (contentType == SmartObjectType.AvailableLinked)
         {
             Directory.CreateDirectory(Path.GetDirectoryName(exportPath));
-            // Mari ekspor gambar smart object eksternal dari layer PSD smart object ke lokasi baru
-            // karena kita akan memodifikasinya.
+            // Mari ekspor gambar objek pintar eksternal dari lapisan objek pintar PSD ke lokasi baru
+            // karena kami akan memodifikasinya.
             smartObjectLayer.ExportContents(exportPath);
             smartObjectLayer.RelinkToFile(exportPath);
         }
 
-        // Mari kita balikkan konten smart object: gambar dalam (bukan cache).
+        // Mari balikkan konten objek pintar: gambar internal (tidak di-cache)
         using (var innerImage = (RasterImage)smartObjectLayer.LoadContents(new LoadOptions()))
         {
             InvertImage(innerImage);
@@ -111,18 +112,18 @@ void ExampleOfUpdatingSmartObjectLayer(
             }
         }
 
-        // Mari kita periksa apakah konten yang dimodifikasi belum memengaruhi rendering.
+        // Mari periksa apakah konten yang dimodifikasi belum memengaruhi rendering.
         image.Save(pngOutputPath, new PngOptions() { ColorType = PngColorType.TruecolorWithAlpha });
 
         smartObjectLayer.UpdateModifiedContent();
 
-        // Mari kita periksa apakah konten yang diperbarui memengaruhi rendering dan gambar psd disimpan dengan benar
+        // Mari periksa apakah konten yang diperbarui memengaruhi rendering dan gambar PSD disimpan dengan benar
         image.Save(psd2OutputPath, new PsdOptions(image));
         image.Save(png2OutputPath, new PngOptions() { ColorType = PngColorType.TruecolorWithAlpha });
     }
 }
 
-// Contoh ini mendemonstrasikan cara mengonversi smart object tersemat menjadi konten tertaut eksternal menggunakan metode ConvertToLinked.
+// Contoh ini menunjukkan cara mengonversi objek pintar tersemat menjadi konten tertaut eksternal menggunakan metode ConvertToLinked.
 ExampleOfEmbeddedSmartObjectLayerToLinkedConversion("new_panama-papers-4.psd", 0x10caa, 0, 0, 0x280, 0x169, FileFormat.Jpeg);
 ExampleOfEmbeddedSmartObjectLayerToLinkedConversion("r3-embedded.psd", 0x207, 0, 0, 0xb, 0x10, FileFormat.Png);
 ExampleOfEmbeddedSmartObjectLayerToLinkedConversion("r-embedded-tiff.psd", 0xca94, 0, 0, 0xb, 0x10, FileFormat.Tiff);
@@ -142,7 +143,7 @@ void ExampleOfEmbeddedSmartObjectLayerToLinkedConversion(
     int bottom,
     FileFormat format)
 {
-    // Ini mendemonstrasikan cara mengonversi lapisan objek pintar tersemat di file PSD ke lapisan eksternal.
+    // Ini menunjukkan cara mengonversi lapisan objek pintar tersemat dalam file PSD menjadi eksternal.
     var formatExt = GetFormatExt(format);
     string fileName = Path.GetFileNameWithoutExtension(filePath);
     string dataDir = "to_linked_output" + Path.DirectorySeparatorChar;
@@ -163,7 +164,7 @@ void ExampleOfEmbeddedSmartObjectLayerToLinkedConversion(
         AssertAreEqual(bottom, smartObjectLayer.ContentsBounds.Bottom);
         AssertAreEqual(SmartObjectType.AvailableLinked, smartObjectLayer.ContentType);
 
-        // Mari kita periksa apakah gambar yang dikonversi disimpan dengan benar
+        // Mari periksa apakah gambar yang dikonversi disimpan dengan benar
         image.Save(psdOutputPath, new PsdOptions(image));
         image.Save(pngOutputPath, new PngOptions() { ColorType = PngColorType.TruecolorWithAlpha });
     }
@@ -224,7 +225,7 @@ void ExampleOfLinkedSmartObjectLayerToEmbeddedConversion(
         }
 
         Directory.CreateDirectory(Path.GetDirectoryName(psdOutputPath));
-        // Mari kita periksa apakah gambar yang dikonversi disimpan dengan benar
+        // Mari periksa apakah gambar yang dikonversi disimpan dengan benar
         image.Save(psdOutputPath, new PsdOptions(image));
         image.Save(pngOutputPath, new PngOptions() { ColorType = PngColorType.TruecolorWithAlpha });
     }
@@ -241,8 +242,8 @@ void ExampleOfLinkedSmartObjectLayerToEmbeddedConversion(
     }
 }
 
-// Contoh ini menunjukkan cara mengubah lapisan objek pintar eksternal Adobe® Photoshop® dan mengekspor / memperbarui kontennya
-// menggunakan metode ExportContents dan ReplaceContents.
+// Contoh ini menunjukkan cara mengubah lapisan objek pintar eksternal Adobe® Photoshop® dan mengekspor / memperbarui isinya
+// dengan menggunakan metode ExportContents dan ReplaceContents.
 ExampleOfExternalSmartObjectLayerSupport("rgb8_2x2_linked.psd", 0x53, 0, 0, 2, 2, FileFormat.Png);
 ExampleOfExternalSmartObjectLayerSupport("rgb8_2x2_linked2.psd", 0x4aea, 0, 0, 10, 10, FileFormat.Psd);
 void ExampleOfExternalSmartObjectLayerSupport(string filePath, int contentsLength, int left, int top, int right, int bottom, FileFormat format)
@@ -268,10 +269,10 @@ void ExampleOfExternalSmartObjectLayerSupport(string filePath, int contentsLengt
         AssertAreEqual(SmartObjectType.AvailableLinked, smartObjectLayer.ContentType);
 
         Directory.CreateDirectory(Path.GetDirectoryName(exportPath));
-        // Mari ekspor gambar smart object tertaut dari layer PSD smart object
+        // Mari ekspor gambar objek pintar tertaut dari lapisan objek pintar PSD
         smartObjectLayer.ExportContents(exportPath);
 
-        // Mari kita periksa apakah gambar asli disimpan dengan benar
+        // Mari periksa apakah gambar asli disimpan dengan benar
         image.Save(psdOutputPath, new PsdOptions(image));
         image.Save(pngOutputPath, new PngOptions() { ColorType = PngColorType.TruecolorWithAlpha });
 
@@ -279,15 +280,15 @@ void ExampleOfExternalSmartObjectLayerSupport(string filePath, int contentsLengt
         {
             AssertAreEqual(format, innerImage.FileFormat);
 
-            // Mari kita balikkan gambar smart object yang ditautkan
+            // Mari balikkan gambar objek pintar tertaut
             InvertImage(innerImage);
             innerImage.Save(linkOutputPath);
 
-            // Mari ganti gambar smart object tertaut di lapisan PSD
+            // Mari ganti gambar objek pintar tertaut di lapisan PSD
             smartObjectLayer.ReplaceContents(linkOutputPath);
         }
 
-        // Mari kita periksa apakah gambar yang diperbarui disimpan dengan benar
+        // Mari periksa apakah gambar yang diperbarui disimpan dengan benar
         image.Save(psd2OutputPath, new PsdOptions(image));
         image.Save(png2OutputPath, new PngOptions() { ColorType = PngColorType.TruecolorWithAlpha });
     }
@@ -307,7 +308,7 @@ void InvertImage(RasterImage innerImage)
     }
 }
 
-// Membalik gambar raster.
+// Membalikkan citra raster.
 void InvertRasterImage(RasterImage innerImage)
 {
     var pixels = innerImage.LoadArgb32Pixels(innerImage.Bounds);
@@ -329,9 +330,9 @@ string GetFormatExt(FileFormat format)
 }
 ```
 
-### Lihat juga
+### Lihat Juga
 
-* ruang nama [Aspose.PSD.FileFormats.Psd](../../aspose.psd.fileformats.psd/)
-* perakitan [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../)
 
 

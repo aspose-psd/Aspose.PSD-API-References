@@ -1,23 +1,24 @@
 ---
-title: Matrix.M11
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Matrix Properti. Mendapat elemen matriks pada baris pertama kolom pertama. Merupakan skala sepanjang sumbu X.
+title: "Matrix.M11"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti Matrix. Mendapatkan elemen matriks pada baris pertama kolom pertama. Mewakili skala sepanjang sumbu X."
 type: docs
 weight: 30
 url: /id/net/aspose.psd/matrix/m11/
 ---
+{{< psd/tize >}}
 ## Matrix.M11 property
 
-Mendapat elemen matriks pada baris pertama kolom pertama. Merupakan skala sepanjang sumbu X.
+Mendapatkan elemen matriks pada baris pertama kolom pertama. Mewakili skala sepanjang sumbu X.
 
 ```csharp
 public float M11 { get; }
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [Matrix](../)
-* ruang nama [Aspose.PSD](../../matrix/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

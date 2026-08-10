@@ -1,11 +1,12 @@
 ---
-title: PsdImage.AddLayer
-second_title: Aspose.PSD untuk Referensi .NET API
-description: PsdImage metode. Menambahkan lapisan.
+title: "PsdImage.AddLayer"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode PsdImage. Menambahkan lapisan"
 type: docs
-weight: 370
+weight: 390
 url: /id/net/aspose.psd.fileformats.psd/psdimage/addlayer/
 ---
+{{< psd/tize >}}
 ## PsdImage.AddLayer method
 
 Menambahkan lapisan.
@@ -14,13 +15,13 @@ Menambahkan lapisan.
 public void AddLayer(Layer layer)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| layer | Layer | Lapisan. |
+| lapisan | Lapisan | Lapisan. |
 
-### Contoh
+## Contoh
 
-Contoh berikut menunjukkan bagaimana Anda bisa menggambar pada lapisan yang baru dibuat jika versi konstruktor sederhana digunakan di Aspose.PSD
+Contoh berikut menunjukkan cara Anda dapat menggambar pada lapisan yang baru dibuat jika versi konstruktor sederhana digunakan dalam Aspose.PSD
 
 ```csharp
 [C#]
@@ -39,21 +40,21 @@ using (var image = new PsdImage(width, height))
     Graphics graphic = new Graphics(layer);
     graphic.Clear(Color.Yellow);
 
-    // menggambar persegi panjang dengan Pen tool
+    // gambar sebuah persegi panjang dengan alat Pen
     graphic.DrawRectangle(new Pen(Color.Red), new Rectangle(30, 10, 40, 80));
 
-    // menggambar persegi panjang lain dengan Kuas Padat dalam warna Biru
+    // gambar persegi panjang lain dengan Kuas Solid berwarna Biru
     graphic.DrawRectangle(new Pen(new SolidBrush(Color.Blue)), new Rectangle(10, 30, 80, 40));
 
     image.Save(outputFilePath);
 }
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [Layer](../../../aspose.psd.fileformats.psd.layers/layer/)
 * class [PsdImage](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

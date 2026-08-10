@@ -1,11 +1,12 @@
 ---
-title: AiImage.Resize
-second_title: Aspose.PSD untuk Referensi .NET API
-description: AiImage metode. Mengubah ukuran gambar.
+title: "AiImage.Resize"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode AiImage. Mengubah ukuran gambar."
 type: docs
-weight: 150
+weight: 180
 url: /id/net/aspose.psd.fileformats.ai/aiimage/resize/
 ---
+{{< psd/tize >}}
 ## Resize(int, int, ResizeType) {#resize_2}
 
 Mengubah ukuran gambar.
@@ -14,24 +15,24 @@ Mengubah ukuran gambar.
 public override void Resize(int newWidth, int newHeight, ResizeType resizeType)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
 | newWidth | Int32 | Lebar baru. |
-| newHeight | Int32 | Ketinggian baru. |
+| newHeight | Int32 | Tinggi baru. |
 | resizeType | ResizeType | Jenis pengubahan ukuran. |
 
 ### Pengecualian
 
 | pengecualian | kondisi |
 | --- | --- |
-| NotImplementedException | &gt; Tidak Diimplementasikan |
+| NotImplementedException | &gt;Tidak Diimplementasikan |
 
-### Lihat juga
+### Lihat Juga
 
 * enum [ResizeType](../../../aspose.psd/resizetype/)
 * class [AiImage](../)
-* ruang nama [Aspose.PSD.FileFormats.Ai](../../aiimage/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
@@ -43,23 +44,23 @@ Mengubah ukuran gambar.
 public override void Resize(int newWidth, int newHeight, ImageResizeSettings settings)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
 | newWidth | Int32 | Lebar baru. |
-| newHeight | Int32 | Ketinggian baru. |
-| settings | ImageResizeSettings | Pengaturan pengubahan ukuran. |
+| newHeight | Int32 | Tinggi baru. |
+| pengaturan | ImageResizeSettings | Pengaturan pengubahan ukuran. |
 
 ### Pengecualian
 
 | pengecualian | kondisi |
 | --- | --- |
-| NotImplementedException | &gt; Tidak Diimplementasikan |
+| NotImplementedException | &gt;Tidak Diimplementasikan |
 
-### Lihat juga
+### Lihat Juga
 
 * class [ImageResizeSettings](../../../aspose.psd/imageresizesettings/)
 * class [AiImage](../)
-* ruang nama [Aspose.PSD.FileFormats.Ai](../../aiimage/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

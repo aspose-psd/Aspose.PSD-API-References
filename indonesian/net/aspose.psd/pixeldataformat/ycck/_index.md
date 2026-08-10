@@ -1,27 +1,28 @@
 ---
-title: PixelDataFormat.Ycck
-second_title: Aspose.PSD untuk Referensi .NET API
-description: PixelDataFormat Properti. MendapatkanPixelDataFormat didefinisikan untuk 32 bit per piksel dengan 8 bit untuk masingmasing komponen luma perbedaan biru perbedaan merah dan kroma hitam.
+title: "PixelDataFormat.Ycck"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti PixelDataFormat. Mengambil PixelDataFormat yang didefinisikan untuk 32 bit per piksel dengan 8 bit untuk masing-masing komponen luma, perbedaan biru, perbedaan merah, dan kromatik hitam."
 type: docs
 weight: 170
 url: /id/net/aspose.psd/pixeldataformat/ycck/
 ---
+{{< psd/tize >}}
 ## PixelDataFormat.Ycck property
 
-Mendapatkan[`PixelDataFormat`](../) didefinisikan untuk 32 bit per piksel dengan 8 bit untuk masing-masing komponen luma, perbedaan biru, perbedaan merah, dan kroma hitam.
+Mengambil [`PixelDataFormat`](../) yang didefinisikan untuk 32 bit per piksel dengan 8 bit untuk masing-masing komponen luma, perbedaan biru, perbedaan merah, dan kromatik hitam.
 
 ```csharp
 public static PixelDataFormat Ycck { get; }
 ```
 
-### Nilai properti
+### Property Value
 
-Itu[`PixelDataFormat`](../) didefinisikan untuk 32 bit per piksel dengan 8 bit untuk masing-masing komponen luma, perbedaan biru, perbedaan merah, dan kroma hitam.
+`[`PixelDataFormat`](../)` yang didefinisikan untuk 32 bit per piksel dengan 8 bit untuk masing-masing komponen luma, perbedaan biru, perbedaan merah, dan kromatik hitam.
 
-### Lihat juga
+### Lihat Juga
 
 * class [PixelDataFormat](../)
-* ruang nama [Aspose.PSD](../../pixeldataformat/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

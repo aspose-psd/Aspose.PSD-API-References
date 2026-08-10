@@ -1,14 +1,15 @@
 ---
-title: Enum LnsrResourceType
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.LnsrResourceType enum. Menemukan Kemungkinan Jenis Sumber Daya Lnsr
+title: "Enum LnsrResourceType"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Enum Aspose.PSD.FileFormats.Psd.Layers.LayerResources.LnsrResourceType. Menemukan Tipe Sumber Daya Lnsr yang Mungkin."
 type: docs
-weight: 2760
+weight: 3070
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources/lnsrresourcetype/
 ---
+{{< psd/tize >}}
 ## LnsrResourceType enumeration
 
-Menemukan Kemungkinan Jenis Sumber Daya Lnsr
+Menemukan Jenis Sumber Daya Lnsr yang Mungkin
 
 ```csharp
 public enum LnsrResourceType
@@ -16,17 +17,17 @@ public enum LnsrResourceType
 
 ### Nilai
 
-| Nama | Nilai | Keterangan |
+| Nama | Nilai | Deskripsi |
 | --- | --- | --- |
-| Rend | `0` | Rend untuk text |
-| Cont | `1` | Lanjutan untuk lapisan isian misalnya |
-| Bgnd | `2` | Lapisan Bgnd untuk Latar Belakang |
-| Layr | `3` | Lapisan untuk lapisan gambar biasa |
-| Unknown | `4` | Yang Tidak Dikenal adalah untuk situasi ketika kami tidak menjelaskan enum |
+| Rend | `0` | Rend untuk teks |
+| Cont | `1` | Konten untuk lapisan isi, misalnya |
+| Bgnd | `2` | Bgnd untuk lapisan Latar Belakang |
+| Layr | `3` | Layr untuk lapisan gambar biasa |
+| Unknown | `4` | Unknown untuk situasi ketika kami tidak mendeskripsikan enum |
 
-### Lihat juga
+### Lihat Juga
 
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
-* perakitan [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../)
 
 

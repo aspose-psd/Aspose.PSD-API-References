@@ -1,34 +1,35 @@
 ---
-title: Pen.DashCap
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Pen Properti. Mendapat atau menyetel gaya topi yang digunakan di akhir tanda hubung yang membentuk garis putusputus yang digambar dengan iniPen .
+title: "Pen.DashCap"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti Pen. Mendapatkan atau mengatur gaya cap yang digunakan di akhir garis putus-putus yang membentuk garis bergaris yang digambar dengan Pen ini"
 type: docs
 weight: 80
 url: /id/net/aspose.psd/pen/dashcap/
 ---
+{{< psd/tize >}}
 ## Pen.DashCap property
 
-Mendapat atau menyetel gaya topi yang digunakan di akhir tanda hubung yang membentuk garis putus-putus yang digambar dengan ini[`Pen`](../) .
+Mendapatkan atau mengatur gaya cap yang digunakan di akhir garis putus-putus yang membentuk garis bergaris yang digambar dengan [`Pen`](../).
 
 ```csharp
 public DashCap DashCap { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
-Salah satu dari`DashCap` nilai yang mewakili gaya topi yang digunakan di awal dan akhir tanda hubung yang membentuk garis putus-putus yang digambar dengan ini[`Pen`](../).
+Salah satu nilai `DashCap` yang mewakili gaya cap yang digunakan di awal dan akhir garis putus-putus yang membentuk garis bergaris yang digambar dengan [`Pen`](../).
 
 ### Pengecualian
 
 | pengecualian | kondisi |
 | --- | --- |
-| ArgumentException | Itu`DashCap` properti diatur pada yang tidak berubah[`Pen`](../) , seperti yang dikembalikan oleh[`Pen`](../) kelas. |
+| ArgumentException | Properti `DashCap` diatur pada sebuah [`Pen`](../) yang tidak dapat diubah, seperti yang dikembalikan oleh kelas [`Pen`](../). |
 
-### Lihat juga
+### Lihat Juga
 
 * enum [DashCap](../../dashcap/)
 * class [Pen](../)
-* ruang nama [Aspose.PSD](../../pen/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: IObjectWithBounds.Height
-second_title: Aspose.PSD untuk Referensi .NET API
-description: IObjectWithBounds Properti. Mendapat ketinggian objek.
+title: "IObjectWithBounds.Height"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "IObjectWithBounds properti. Mendapatkan tinggi objek"
 type: docs
 weight: 20
 url: /id/net/aspose.psd/iobjectwithbounds/height/
 ---
+{{< psd/tize >}}
 ## IObjectWithBounds.Height property
 
-Mendapat ketinggian objek.
+Mendapatkan tinggi objek.
 
 ```csharp
 public int Height { get; }
 ```
 
-### Nilai properti
+### Property Value
 
-Ketinggian objek.
+Tinggi objek.
 
-### Lihat juga
+### Lihat Juga
 
 * interface [IObjectWithBounds](../)
-* ruang nama [Aspose.PSD](../../iobjectwithbounds/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

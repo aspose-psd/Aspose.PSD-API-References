@@ -1,32 +1,33 @@
 ---
-title: Point.Round
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Point metode. Mengonversi yang ditentukanPointF ke aPoint objek dengan membulatkanPoint nilai ke bilangan bulat terdekat.
+title: "Point.Round"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode Point. Mengonversi PointF yang ditentukan menjadi objek Point dengan membulatkan nilai Point ke bilangan bulat terdekat."
 type: docs
 weight: 50
 url: /id/net/aspose.psd/point/round/
 ---
+{{< psd/tize >}}
 ## Point.Round method
 
-Mengonversi yang ditentukan[`PointF`](../../pointf/) ke a[`Point`](../) objek dengan membulatkan[`Point`](../) nilai ke bilangan bulat terdekat.
+Mengonversi [`PointF`](../../pointf/) yang ditentukan menjadi objek [`Point`](../) dengan membulatkan nilai [`Point`](../) ke bilangan bulat terdekat.
 
 ```csharp
 public static Point Round(PointF point)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| point | PointF | Itu[`PointF`](../../pointf/) untuk mengubah. |
+| point | PointF | [`PointF`](../../pointf/) yang akan dikonversi. |
 
-### Nilai Pengembalian
+### Nilai Kembalian
 
-Itu[`Point`](../) metode ini mengkonversi ke.
+[`Point`](../) yang dikonversi oleh metode ini.
 
-### Lihat juga
+### Lihat Juga
 
 * struct [PointF](../../pointf/)
 * struct [Point](../)
-* ruang nama [Aspose.PSD](../../point/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: Image.GetFittingRectangle
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Image metode. Mendapatkan persegi panjang yang sesuai dengan gambar saat ini.
+title: "Image.GetFittingRectangle"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode Image. Mendapatkan persegi panjang yang cocok dengan gambar saat ini"
 type: docs
-weight: 270
+weight: 280
 url: /id/net/aspose.psd/image/getfittingrectangle/
 ---
+{{< psd/tize >}}
 ## GetFittingRectangle(Rectangle, int, int) {#getfittingrectangle}
 
 Mendapatkan persegi panjang yang sesuai dengan gambar saat ini.
@@ -14,22 +15,22 @@ Mendapatkan persegi panjang yang sesuai dengan gambar saat ini.
 public static Rectangle GetFittingRectangle(Rectangle rectangle, int width, int height)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| rectangle | Rectangle | Persegi panjang untuk mendapatkan persegi panjang yang pas. |
-| width | Int32 | Lebar objek. |
-| height | Int32 | Tinggi objek. |
+| persegi panjang | Rectangle | Persegi panjang untuk mendapatkan persegi panjang yang cocok. |
+| lebar | Int32 | Lebar objek. |
+| tinggi | Int32 | Tinggi objek. |
 
-### Nilai Pengembalian
+### Nilai Kembalian
 
-Persegi panjang yang pas atau pengecualian jika tidak ada persegi panjang yang pas dapat ditemukan.
+Persegi panjang yang cocok atau pengecualian jika tidak ada persegi panjang yang cocok dapat ditemukan.
 
-### Lihat juga
+### Lihat Juga
 
 * struct [Rectangle](../../rectangle/)
 * class [Image](../)
-* ruang nama [Aspose.PSD](../../image/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
@@ -42,22 +43,22 @@ public static Rectangle GetFittingRectangle(Rectangle rectangle, int[] pixels, i
     int height)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| rectangle | Rectangle | Persegi panjang untuk mendapatkan persegi panjang yang pas. |
-| pixels | Int32[] | Piksel ARGB 32-bit. |
-| width | Int32 | Lebar objek. |
-| height | Int32 | Tinggi objek. |
+| persegi panjang | Rectangle | Persegi panjang untuk mendapatkan persegi panjang yang cocok. |
+| piksel | Int32[] | Piksel ARGB 32-bit. |
+| lebar | Int32 | Lebar objek. |
+| tinggi | Int32 | Tinggi objek. |
 
-### Nilai Pengembalian
+### Nilai Kembalian
 
-Persegi panjang yang pas atau pengecualian jika tidak ada persegi panjang yang pas dapat ditemukan.
+Persegi panjang yang cocok atau pengecualian jika tidak ada persegi panjang yang cocok dapat ditemukan.
 
-### Lihat juga
+### Lihat Juga
 
 * struct [Rectangle](../../rectangle/)
 * class [Image](../)
-* ruang nama [Aspose.PSD](../../image/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

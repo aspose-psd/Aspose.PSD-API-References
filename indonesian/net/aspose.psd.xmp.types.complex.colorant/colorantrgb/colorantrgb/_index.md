@@ -1,45 +1,46 @@
 ---
-title: ColorantRgb.ColorantRgb
-second_title: Aspose.PSD untuk Referensi .NET API
-description: ColorantRgb konstruktor. Menginisialisasi instance baru dariColorantRgb kelas.
+title: "ColorantRgb.ColorantRgb"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Konstruktor ColorantRgb. Menginisialisasi instance baru dari kelas ColorantRgb"
 type: docs
 weight: 10
 url: /id/net/aspose.psd.xmp.types.complex.colorant/colorantrgb/colorantrgb/
 ---
+{{< psd/tize >}}
 ## ColorantRgb() {#constructor}
 
-Menginisialisasi instance baru dari[`ColorantRgb`](../) kelas.
+Menginisialisasi instance baru dari kelas [`ColorantRgb`](../).
 
 ```csharp
 public ColorantRgb()
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [ColorantRgb](../)
-* ruang nama [Aspose.PSD.Xmp.Types.Complex.Colorant](../../colorantrgb/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.Colorant](../../../aspose.psd.xmp.types.complex.colorant/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## ColorantRgb(byte, byte, byte) {#constructor_1}
 
-Menginisialisasi instance baru dari[`ColorantRgb`](../) kelas.
+Menginisialisasi instance baru dari kelas [`ColorantRgb`](../).
 
 ```csharp
 public ColorantRgb(byte red, byte green, byte blue)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| red | Byte | Nilai komponen merah. |
-| green | Byte | Nilai komponen hijau. |
-| blue | Byte | Nilai komponen biru. |
+| merah | Byte | Nilai komponen merah. |
+| hijau | Byte | Nilai komponen hijau. |
+| biru | Byte | Nilai komponen biru. |
 
-### Lihat juga
+### Lihat Juga
 
 * class [ColorantRgb](../)
-* ruang nama [Aspose.PSD.Xmp.Types.Complex.Colorant](../../colorantrgb/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.Colorant](../../../aspose.psd.xmp.types.complex.colorant/)
+* assembly [Aspose.PSD](../../../)
 
 

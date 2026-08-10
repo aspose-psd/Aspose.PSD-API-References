@@ -1,11 +1,12 @@
 ---
-title: BlendingOptions.AddInnerShadow
-second_title: Aspose.PSD untuk Referensi .NET API
-description: BlendingOptions metode. Menambahkan efek bayangan dalam.
+title: "BlendingOptions.AddInnerShadow"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode BlendingOptions. Menambahkan efek bayangan dalam"
 type: docs
-weight: 50
+weight: 60
 url: /id/net/aspose.psd.fileformats.psd.layers.layereffects/blendingoptions/addinnershadow/
 ---
+{{< psd/tize >}}
 ## BlendingOptions.AddInnerShadow method
 
 Menambahkan efek bayangan dalam.
@@ -14,15 +15,15 @@ Menambahkan efek bayangan dalam.
 public InnerShadowEffect AddInnerShadow()
 ```
 
-### Nilai Pengembalian
+### Nilai Kembalian
 
-Dibuat[`InnerShadowEffect`](../../innershadoweffect/) objek
+Membuat objek [`InnerShadowEffect`](../../innershadoweffect/)
 
-### Lihat juga
+### Lihat Juga
 
 * class [InnerShadowEffect](../../innershadoweffect/)
 * class [BlendingOptions](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../blendingoptions/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../../)
 
 

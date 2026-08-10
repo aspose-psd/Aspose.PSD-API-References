@@ -1,27 +1,28 @@
 ---
-title: XmpDate.Value
-second_title: Aspose.PSD untuk Referensi .NET API
-description: XmpDate Properti. Mendapat atau menetapkan nilai tanggal.
+title: "XmpDate.Value"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti XmpDate. Mendapatkan atau mengatur nilai tanggal"
 type: docs
 weight: 30
 url: /id/net/aspose.psd.xmp.types.basic/xmpdate/value/
 ---
+{{< psd/tize >}}
 ## XmpDate.Value property
 
-Mendapat atau menetapkan nilai tanggal.
+Mendapatkan atau mengatur nilai tanggal.
 
 ```csharp
 public DateTime Value { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
 Nilai tanggal.
 
-### Lihat juga
+### Lihat Juga
 
 * class [XmpDate](../)
-* ruang nama [Aspose.PSD.Xmp.Types.Basic](../../xmpdate/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Basic](../../../aspose.psd.xmp.types.basic/)
+* assembly [Aspose.PSD](../../../)
 
 

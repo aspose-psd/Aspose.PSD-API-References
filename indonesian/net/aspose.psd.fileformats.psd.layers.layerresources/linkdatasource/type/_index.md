@@ -1,28 +1,29 @@
 ---
-title: LinkDataSource.Type
-second_title: Aspose.PSD untuk Referensi .NET API
-description: LinkDataSource Properti. Mendapatkan jenis sumber data tautan global Adobe Photoshop yang dapat berupa salah satu dari berikut ini atau tidak sama sekali LiFD file tertaut tersemat yang sesuai dengan PSD Lnk2Resource Kehidupan file tertaut eksternal yang sesuai dengan PSD LnkeResource Alias file tertaut liFA
+title: "LinkDataSource.Type"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti LinkDataSource. Mengambil tipe sumber data tautan global Adobe Photoshop yang dapat berupa salah satu dari berikut atau tidak ada: File tertaut tersemat liFD yang sesuai dengan PSD Lnk2Resource; File tertaut eksternal liFE yang sesuai dengan PSD LnkeResource; Alias file tertaut liFA."
 type: docs
 weight: 120
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/type/
 ---
+{{< psd/tize >}}
 ## LinkDataSource.Type property
 
-Mendapatkan jenis sumber data tautan global Adobe® Photoshop® yang dapat berupa salah satu dari berikut ini atau tidak sama sekali: LiFD file tertaut tersemat yang sesuai dengan PSD Lnk2Resource Kehidupan file tertaut eksternal yang sesuai dengan PSD LnkeResource Alias file tertaut liFA
+Mendapatkan tipe sumber data tautan global Adobe® Photoshop® yang dapat menjadi salah satu dari berikut ini atau tidak ada: File tautan tersemat liFD yang sesuai dengan PSD Lnk2Resource, File tautan eksternal liFE yang sesuai dengan PSD LnkeResource, Alias file tautan liFA
 
 ```csharp
 public LinkDataSourceType Type { get; }
 ```
 
-### Nilai properti
+### Property Value
 
-Jenis sumber data tautan PSD.
+Tipe sumber data tautan PSD.
 
-### Lihat juga
+### Lihat Juga
 
 * enum [LinkDataSourceType](../../linkdatasourcetype/)
 * class [LinkDataSource](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../linkdatasource/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,28 +1,29 @@
 ---
-title: JpegExifData.XResolution
-second_title: Aspose.PSD untuk Referensi .NET API
-description: JpegExifData Properti. Mendapat atau menyetel resolusi x.
+title: "JpegExifData.XResolution"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti JpegExifData. Mendapatkan atau mengatur resolusi x"
 type: docs
 weight: 220
 url: /id/net/aspose.psd.exif/jpegexifdata/xresolution/
 ---
+{{< psd/tize >}}
 ## JpegExifData.XResolution property
 
-Mendapat atau menyetel resolusi x.
+Mendapatkan atau mengatur resolusi x.
 
 ```csharp
 public TiffRational XResolution { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
 Resolusi x.
 
-### Lihat juga
+### Lihat Juga
 
 * class [TiffRational](../../../aspose.psd.fileformats.tiff/tiffrational/)
 * class [JpegExifData](../)
-* ruang nama [Aspose.PSD.Exif](../../jpegexifdata/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

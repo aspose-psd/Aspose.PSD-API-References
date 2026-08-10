@@ -1,127 +1,128 @@
 ---
-title: Graphics.FillPolygon
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Graphics metode. Mengisi bagian dalam poligon yang ditentukan oleh larik titik yang ditentukan olehPointF struktur danAlternate .
+title: "Graphics.FillPolygon"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode Graphics. Mengisi bagian dalam poligon yang didefinisikan oleh array titik yang ditentukan oleh struktur PointF dan Alternate"
 type: docs
-weight: 380
+weight: 390
 url: /id/net/aspose.psd/graphics/fillpolygon/
 ---
+{{< psd/tize >}}
 ## FillPolygon(Brush, PointF[]) {#fillpolygon}
 
-Mengisi bagian dalam poligon yang ditentukan oleh larik titik yang ditentukan oleh[`PointF`](../../pointf/) struktur danAlternate .
+Mengisi bagian dalam poligon yang didefinisikan oleh array titik yang ditentukan oleh struktur [`PointF`](../../pointf/) dan Alternate.
 
 ```csharp
 public void FillPolygon(Brush brush, PointF[] points)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| brush | Brush | [`Brush`](../../brush/)yang menentukan karakteristik isian. |
-| points | PointF[] | Susunan dari[`PointF`](../../pointf/) struktur yang mewakili simpul poligon untuk diisi. |
+| brush | Brush | [`Brush`](../../brush/) yang menentukan karakteristik pengisian. |
+| points | PointF[] | Array struktur [`PointF`](../../pointf/) yang mewakili simpul-simpul poligon yang akan diisi. |
 
 ### Pengecualian
 
 | pengecualian | kondisi |
 | --- | --- |
-| ArgumentNullException | *brush* adalah null. -atau- *points* adalah nol. |
+| ArgumentNullException | *brush* bernilai null. -atau- *points* bernilai null. |
 
-### Lihat juga
+### Lihat Juga
 
 * class [Brush](../../brush/)
 * struct [PointF](../../pointf/)
 * class [Graphics](../)
-* ruang nama [Aspose.PSD](../../graphics/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## FillPolygon(Brush, PointF[], FillMode) {#fillpolygon_1}
 
-Mengisi bagian dalam poligon yang ditentukan oleh larik titik yang ditentukan oleh[`PointF`](../../pointf/) struktur menggunakan mode isian yang ditentukan.
+Mengisi bagian dalam poligon yang didefinisikan oleh array titik yang ditentukan oleh struktur [`PointF`](../../pointf/) menggunakan mode isi yang ditentukan.
 
 ```csharp
 public void FillPolygon(Brush brush, PointF[] points, FillMode fillMode)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| brush | Brush | [`Brush`](../../brush/)yang menentukan karakteristik isian. |
-| points | PointF[] | Susunan dari[`PointF`](../../pointf/) struktur yang mewakili simpul poligon untuk diisi. |
-| fillMode | FillMode | Anggota dari[`FillMode`](../../fillmode/) pencacahan yang menentukan gaya isian. |
+| brush | Brush | [`Brush`](../../brush/) yang menentukan karakteristik pengisian. |
+| points | PointF[] | Array struktur [`PointF`](../../pointf/) yang mewakili simpul-simpul poligon yang akan diisi. |
+| fillMode | FillMode | Anggota enumerasi [`FillMode`](../../fillmode/) yang menentukan gaya isi. |
 
 ### Pengecualian
 
 | pengecualian | kondisi |
 | --- | --- |
-| ArgumentNullException | *brush* adalah null. -atau- *points* adalah nol. |
+| ArgumentNullException | *brush* bernilai null. -atau- *points* bernilai null. |
 
-### Lihat juga
+### Lihat Juga
 
 * class [Brush](../../brush/)
 * struct [PointF](../../pointf/)
 * enum [FillMode](../../fillmode/)
 * class [Graphics](../)
-* ruang nama [Aspose.PSD](../../graphics/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## FillPolygon(Brush, Point[]) {#fillpolygon_2}
 
-Mengisi bagian dalam poligon yang ditentukan oleh larik titik yang ditentukan oleh[`Point`](../../point/) struktur danAlternate .
+Mengisi bagian dalam poligon yang didefinisikan oleh array titik yang ditentukan oleh struktur [`Point`](../../point/) dan Alternate.
 
 ```csharp
 public void FillPolygon(Brush brush, Point[] points)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| brush | Brush | [`Brush`](../../brush/)yang menentukan karakteristik isian. |
-| points | Point[] | Susunan dari[`Point`](../../point/) struktur yang mewakili simpul poligon untuk diisi. |
+| brush | Brush | [`Brush`](../../brush/) yang menentukan karakteristik pengisian. |
+| points | Point[] | Array struktur [`Point`](../../point/) yang mewakili simpul-simpul poligon yang akan diisi. |
 
 ### Pengecualian
 
 | pengecualian | kondisi |
 | --- | --- |
-| ArgumentNullException | *brush* adalah null. -atau- *points* adalah nol. |
+| ArgumentNullException | *brush* bernilai null. -atau- *points* bernilai null. |
 
-### Lihat juga
+### Lihat Juga
 
 * class [Brush](../../brush/)
 * struct [Point](../../point/)
 * class [Graphics](../)
-* ruang nama [Aspose.PSD](../../graphics/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## FillPolygon(Brush, Point[], FillMode) {#fillpolygon_3}
 
-Mengisi bagian dalam poligon yang ditentukan oleh larik titik yang ditentukan oleh[`Point`](../../point/) struktur menggunakan mode isian yang ditentukan.
+Mengisi bagian dalam poligon yang didefinisikan oleh array titik yang ditentukan oleh struktur [`Point`](../../point/) menggunakan mode isi yang ditentukan.
 
 ```csharp
 public void FillPolygon(Brush brush, Point[] points, FillMode fillMode)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| brush | Brush | [`Brush`](../../brush/)yang menentukan karakteristik isian. |
-| points | Point[] | Susunan dari[`Point`](../../point/) struktur yang mewakili simpul poligon untuk diisi. |
-| fillMode | FillMode | Anggota dari[`FillMode`](../../fillmode/) pencacahan yang menentukan gaya isian. |
+| brush | Brush | [`Brush`](../../brush/) yang menentukan karakteristik pengisian. |
+| points | Point[] | Array struktur [`Point`](../../point/) yang mewakili simpul-simpul poligon yang akan diisi. |
+| fillMode | FillMode | Anggota enumerasi [`FillMode`](../../fillmode/) yang menentukan gaya isi. |
 
 ### Pengecualian
 
 | pengecualian | kondisi |
 | --- | --- |
-| ArgumentNullException | *brush* adalah null. -atau- *points* adalah nol. |
+| ArgumentNullException | *brush* bernilai null. -atau- *points* bernilai null. |
 
-### Lihat juga
+### Lihat Juga
 
 * class [Brush](../../brush/)
 * struct [Point](../../point/)
 * enum [FillMode](../../fillmode/)
 * class [Graphics](../)
-* ruang nama [Aspose.PSD](../../graphics/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: LevlResource.Version
-second_title: Aspose.PSD untuk Referensi .NET API
-description: LevlResource Properti. Mendapatkan versinya. Standarnya adalah 2
+title: "LevlResource.Version"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "LevlResource property. Mendapatkan versi. Default adalah 2"
 type: docs
-weight: 50
+weight: 30
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources/levlresource/version/
 ---
+{{< psd/tize >}}
 ## LevlResource.Version property
 
-Mendapatkan versinya. Standarnya adalah 2
+Mendapatkan versi. Defaultnya adalah 2
 
 ```csharp
 public short Version { get; }
 ```
 
-### Nilai properti
+### Property Value
 
 Versi.
 
-### Lihat juga
+### Lihat Juga
 
 * class [LevlResource](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../levlresource/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

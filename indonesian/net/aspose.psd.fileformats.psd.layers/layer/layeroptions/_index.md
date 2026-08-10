@@ -1,28 +1,29 @@
 ---
-title: Layer.LayerOptions
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Layer Properti. Mendapat opsi lapisan.
+title: "Layer.LayerOptions"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti Layer. Mendapatkan opsi lapisan"
 type: docs
-weight: 230
+weight: 240
 url: /id/net/aspose.psd.fileformats.psd.layers/layer/layeroptions/
 ---
+{{< psd/tize >}}
 ## Layer.LayerOptions property
 
-Mendapat opsi lapisan.
+Mendapatkan opsi lapisan.
 
 ```csharp
 public PsdOptions LayerOptions { get; }
 ```
 
-### Nilai properti
+### Property Value
 
 Opsi lapisan.
 
-### Lihat juga
+### Lihat Juga
 
 * class [PsdOptions](../../../aspose.psd.imageoptions/psdoptions/)
 * class [Layer](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers](../../layer/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

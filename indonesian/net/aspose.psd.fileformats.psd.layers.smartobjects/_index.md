@@ -1,22 +1,23 @@
 ---
-title: Aspose.PSD.FileFormats.Psd.Layers.SmartObjects
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Namespace berisi API untuk memanipulasi data lapisan objek pintar
+title: "Aspose.PSD.FileFormats.Psd.Layers.SmartObjects"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Namespace ini berisi API untuk memanipulasi data lapisan objek pintar."
 type: docs
-weight: 330
+weight: 350
 url: /id/net/aspose.psd.fileformats.psd.layers.smartobjects/
 ---
-Namespace berisi API untuk memanipulasi data lapisan objek pintar
+{{< psd/tize >}}
+Namespace ini berisi API untuk memanipulasi data lapisan objek pintar.
 
 ## Kelas
 
-| Kelas | Keterangan |
+| Kelas | Deskripsi |
 | --- | --- |
-| [SmartObjectLayer](./smartobjectlayer/) | Menentukan kelas SmartObjectLayer yang berisi tertanam dalam file PSD atau objek pintar yang ditautkan di file eksternal. Dengan Smart Objects, Anda dapat: Melakukan transformasi tak rusak. Anda dapat menskalakan, memutar, memiringkan, mendistorsi, mengubah perspektif, atau melengkungkan lapisan tanpa kehilangan data atau kualitas gambar asli karena transformasi tidak memengaruhi data asli. Bekerja dengan data vektor, seperti karya seni vektor dari Illustrator, yang sebaliknya akan di-raster. Melakukan pemfilteran tak rusak. Anda dapat mengedit filter yang diterapkan ke Smart Objects kapan saja. Edit satu Smart Object dan perbarui semua instance tertautnya secara otomatis. Terapkan layer mask yang tertaut atau tidak tertaut ke layer Smart Object. Coba berbagai desain dengan desain rendah resolusi gambar placeholder yang nantinya Anda ganti dengan versi final. Dalam Adobe� Photoshop�, Anda dapat menyematkan konten gambar ke dalam dokumen PSD. Informasi selengkapnya ada di sini:[https://helpx.adobe.com/photoshop/using/create-smart-objects.html](https://helpx.adobe.com/photoshop/using/create-smart-objects.html) Sebuah lapisan dengan objek pintar yang disematkan berisi sumber daya yang ditempatkan (PlLd) dan SoLd dengan properti objek pintar. Sumber daya PlLd dapat berdiri sendiri untuk versi PSD yang lebih lama dari 10. Sumber daya ini berisi UniqueId dari LiFdDataSource di Lnk2Resource global dengan yang disematkan filename dan parameter lainnya, termasuk konten file yang disematkan dalam format aslinya sebagai larik byte. |
-## Pencacahan
+| [SmartObjectLayer](./smartobjectlayer/) | Mendefinisikan kelas SmartObjectLayer yang berisi objek pintar yang disematkan dalam file PSD atau objek pintar yang ditautkan dalam file eksternal. Dengan Smart Objects, Anda dapat: Melakukan transformasi non-destruktif. Anda dapat memperbesar, memutar, memiringkan, mendistorsi, transformasi perspektif, atau melengkungkan sebuah lapisan tanpa kehilangan data gambar asli atau kualitas karena transformasi tidak memengaruhi data asli. Bekerja dengan data vektor, seperti karya seni vektor dari Illustrator, yang sebaliknya akan dirasterkan. Melakukan penyaringan non-destruktif. Anda dapat mengedit filter yang diterapkan pada Smart Objects kapan saja. Mengedit satu Smart Object dan secara otomatis memperbarui semua instance yang ditautkan. Menerapkan mask lapisan yang baik ditautkan maupun tidak ditautkan ke lapisan Smart Object. Mencoba berbagai desain dengan gambar placeholder resolusi rendah yang kemudian Anda ganti dengan versi final. Di Adobe Photoshop, Anda dapat menyematkan konten gambar ke dalam dokumen PSD. Informasi lebih lanjut ada di sini: [https://helpx.adobe.com/photoshop/using/create-smart-objects.html](https://helpx.adobe.com/photoshop/using/create-smart-objects.html) Sebuah lapisan dengan smart object yang disematkan berisi sumber daya placed (PlLd) dan SoLd dengan properti smart object. Sumber daya PlLd dapat berdiri sendiri untuk versi PSD yang lebih lama dari 10. Sumber daya ini berisi UniqueId dari LiFdDataSource dalam Lnk2Resource global dengan nama file yang disematkan dan parameter lainnya, termasuk konten file yang disematkan dalam format asli sebagai array byte. |
+## Enumerasi
 
-| Pencacahan | Keterangan |
+| Enumerasi | Deskripsi |
 | --- | --- |
-| [SmartObjectType](./smartobjecttype/) | Menentukan pencacahan SmartObjectType untuk jenis konten objek cerdas |
+| [SmartObjectType](./smartobjecttype/) | Mendefinisikan enumerasi SmartObjectType untuk tipe konten smart object |
 
 

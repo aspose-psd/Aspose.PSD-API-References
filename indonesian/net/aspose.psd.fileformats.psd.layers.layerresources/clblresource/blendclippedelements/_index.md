@@ -1,27 +1,28 @@
 ---
-title: ClblResource.BlendClippedElements
-second_title: Aspose.PSD untuk Referensi .NET API
-description: ClblResource Properti. Mendapat atau menetapkan nilai yang menunjukkan apakah campuran elemen terpotong.
+title: "ClblResource.BlendClippedElements"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti ClblResource. Mendapatkan atau mengatur nilai yang menunjukkan apakah blend clipped elements"
 type: docs
 weight: 20
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources/clblresource/blendclippedelements/
 ---
+{{< psd/tize >}}
 ## ClblResource.BlendClippedElements property
 
-Mendapat atau menetapkan nilai yang menunjukkan apakah [campuran elemen terpotong].
+Mendapatkan atau mengatur nilai yang menunjukkan apakah [blend clipped elements].
 
 ```csharp
 public bool BlendClippedElements { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
-`BENAR` if [gabungkan elemen yang dipotong]; jika tidak,`PALSU` .
+`true` jika [blend clipped elements]; selainnya, `false`.
 
-### Lihat juga
+### Lihat Juga
 
 * class [ClblResource](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../clblresource/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

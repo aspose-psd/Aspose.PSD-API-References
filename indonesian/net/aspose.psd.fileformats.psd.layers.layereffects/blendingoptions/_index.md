@@ -1,14 +1,15 @@
 ---
-title: Class BlendingOptions
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerEffects.BlendingOptions kelas. BlendingOptions. Ini adalah pembungkus untuk Lfx2Resource yang menyediakan api untuk efek lapisan
+title: "Kelas BlendingOptions"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Kelas Aspose.PSD.FileFormats.Psd.Layers.LayerEffects.BlendingOptions. BlendingOptions. Ini adalah pembungkus untuk BaseFxResource yang menyediakan API untuk efek lapisan."
 type: docs
-weight: 2100
+weight: 2290
 url: /id/net/aspose.psd.fileformats.psd.layers.layereffects/blendingoptions/
 ---
+{{< psd/tize >}}
 ## BlendingOptions class
 
-BlendingOptions. Ini adalah pembungkus untuk Lfx2Resource yang menyediakan api untuk efek lapisan
+BlendingOptions. Ini adalah pembungkus untuk BaseFxResource yang menyediakan API untuk efek lapisan.
 
 ```csharp
 public class BlendingOptions
@@ -16,25 +17,26 @@ public class BlendingOptions
 
 ## Properti
 
-| Nama | Keterangan |
+| Nama | Deskripsi |
 | --- | --- |
-| [Effects](../../aspose.psd.fileformats.psd.layers.layereffects/blendingoptions/effects/) { get; } | Mendapatkan efeknya. |
+| [AreEffectsEnabled](../../aspose.psd.fileformats.psd.layers.layereffects/blendingoptions/areeffectsenabled/) { get; set; } | Mendapatkan atau mengatur visibilitas semua efek lapisan. |
+| [Effects](../../aspose.psd.fileformats.psd.layers.layereffects/blendingoptions/effects/) { get; set; } | Mendapatkan efek. |
 
 ## Metode
 
-| Nama | Keterangan |
+| Nama | Deskripsi |
 | --- | --- |
 | [AddColorOverlay](../../aspose.psd.fileformats.psd.layers.layereffects/blendingoptions/addcoloroverlay/)() | Menambahkan overlay warna. |
 | [AddDropShadow](../../aspose.psd.fileformats.psd.layers.layereffects/blendingoptions/adddropshadow/)() | Menambahkan efek bayangan jatuh. |
-| [AddGradientOverlay](../../aspose.psd.fileformats.psd.layers.layereffects/blendingoptions/addgradientoverlay/)() | Menambahkan hamparan Gradien. |
+| [AddGradientOverlay](../../aspose.psd.fileformats.psd.layers.layereffects/blendingoptions/addgradientoverlay/)() | Menambahkan overlay Gradient. |
 | [AddInnerShadow](../../aspose.psd.fileformats.psd.layers.layereffects/blendingoptions/addinnershadow/)() | Menambahkan efek bayangan dalam. |
 | [AddOuterGlow](../../aspose.psd.fileformats.psd.layers.layereffects/blendingoptions/addouterglow/)() | Menambahkan efek cahaya luar. |
-| [AddPatternOverlay](../../aspose.psd.fileformats.psd.layers.layereffects/blendingoptions/addpatternoverlay/)() | Menambahkan Hamparan Pola. |
+| [AddPatternOverlay](../../aspose.psd.fileformats.psd.layers.layereffects/blendingoptions/addpatternoverlay/)() | Menambahkan overlay Pola. |
 | [AddStroke](../../aspose.psd.fileformats.psd.layers.layereffects/blendingoptions/addstroke/)(FillType) | Menambahkan efek goresan. |
 
-### Contoh
+## Contoh
 
-Kode berikut menunjukkan cara mengubah pengaturan Efek Lapisan Inner Shadow.
+Kode berikut menunjukkan cara mengubah pengaturan Inner Shadow Layer Effect.
 
 ```csharp
 [C#]
@@ -42,7 +44,7 @@ Kode berikut menunjukkan cara mengubah pengaturan Efek Lapisan Inner Shadow.
 string sourceFile = "example.psd";
 string outputFile = "sample_out.psd";
 
-// Memuat gambar yang ada ke dalam instance kelas PsdImage
+// Muat gambar yang ada ke dalam instance kelas PsdImage
 var loadOptions = new PsdLoadOptions();
 loadOptions.LoadEffectsResource = true;
 using (var image = (PsdImage)Image.Load(sourceFile, loadOptions))
@@ -63,9 +65,9 @@ using (var image = (PsdImage)Image.Load(sourceFile, loadOptions))
 }
 ```
 
-### Lihat juga
+### Lihat Juga
 
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../aspose.psd.fileformats.psd.layers.layereffects/)
-* perakitan [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../)
 
 

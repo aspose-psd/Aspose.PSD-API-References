@@ -1,27 +1,28 @@
 ---
-title: IGradientTransparencyPoint.MedianPointLocation
-second_title: Aspose.PSD untuk Referensi .NET API
-description: IGradientTransparencyPoint Properti. Mendapat atau menetapkan lokasi titik median.
+title: "IGradientTransparencyPoint.MedianPointLocation"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti IGradientTransparencyPoint. Mendapatkan atau mengatur lokasi titik median. Rentang nilai 04096"
 type: docs
 weight: 20
 url: /id/net/aspose.psd.fileformats.psd.layers.fillsettings/igradienttransparencypoint/medianpointlocation/
 ---
+{{< psd/tize >}}
 ## IGradientTransparencyPoint.MedianPointLocation property
 
-Mendapat atau menetapkan lokasi titik median.
+Mendapatkan atau mengatur lokasi titik median. Rentang nilai 0-4096.
 
 ```csharp
 public int MedianPointLocation { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
 Lokasi titik median.
 
-### Lihat juga
+### Lihat Juga
 
 * interface [IGradientTransparencyPoint](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../igradienttransparencypoint/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../../)
 
 

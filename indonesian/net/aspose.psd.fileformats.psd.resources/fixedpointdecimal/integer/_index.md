@@ -1,27 +1,28 @@
 ---
-title: FixedPointDecimal.Integer
-second_title: Aspose.PSD untuk Referensi .NET API
-description: FixedPointDecimal Properti. Mendapat atau menetapkan bilangan bulat.
+title: "FixedPointDecimal.Integer"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti FixedPointDecimal. Mendapatkan atau mengatur bilangan bulat"
 type: docs
 weight: 30
 url: /id/net/aspose.psd.fileformats.psd.resources/fixedpointdecimal/integer/
 ---
+{{< psd/tize >}}
 ## FixedPointDecimal.Integer property
 
-Mendapat atau menetapkan bilangan bulat.
+Mendapatkan atau mengatur bilangan bulat.
 
 ```csharp
 public int Integer { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
-bilangan bulat.
+Bilangan bulat.
 
-### Lihat juga
+### Lihat Juga
 
 * class [FixedPointDecimal](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Resources](../../fixedpointdecimal/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

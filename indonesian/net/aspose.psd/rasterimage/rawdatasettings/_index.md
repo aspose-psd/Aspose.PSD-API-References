@@ -1,28 +1,29 @@
 ---
-title: RasterImage.RawDataSettings
-second_title: Aspose.PSD untuk Referensi .NET API
-description: RasterImage Properti. Mendapat pengaturan data mentah saat ini. Perhatikan saat menggunakan setelan ini data dimuat tanpa konversi.
+title: "RasterImage.RawDataSettings"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti RasterImage. Mengambil pengaturan data mentah saat ini. Catatan: saat menggunakan pengaturan ini, data dimuat tanpa konversi."
 type: docs
 weight: 90
 url: /id/net/aspose.psd/rasterimage/rawdatasettings/
 ---
+{{< psd/tize >}}
 ## RasterImage.RawDataSettings property
 
-Mendapat pengaturan data mentah saat ini. Perhatikan saat menggunakan setelan ini, data dimuat tanpa konversi.
+Mendapatkan pengaturan data mentah saat ini. Catatan saat menggunakan pengaturan ini data dimuat tanpa konversi.
 
 ```csharp
 public RawDataSettings RawDataSettings { get; }
 ```
 
-### Nilai properti
+### Property Value
 
 Pengaturan data mentah saat ini.
 
-### Lihat juga
+### Lihat Juga
 
 * class [RawDataSettings](../../rawdatasettings/)
 * class [RasterImage](../)
-* ruang nama [Aspose.PSD](../../rasterimage/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

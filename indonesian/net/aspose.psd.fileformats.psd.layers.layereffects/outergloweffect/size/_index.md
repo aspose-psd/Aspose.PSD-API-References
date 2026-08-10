@@ -1,24 +1,25 @@
 ---
-title: OuterGlowEffect.Size
-second_title: Aspose.PSD untuk Referensi .NET API
-description: OuterGlowEffect Properti. Mendapat nilai buram dalam piksel.
+title: "OuterGlowEffect.Size"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "OuterGlowEffect property. Mendapatkan nilai blur dalam piksel"
 type: docs
 weight: 120
 url: /id/net/aspose.psd.fileformats.psd.layers.layereffects/outergloweffect/size/
 ---
+{{< psd/tize >}}
 ## OuterGlowEffect.Size property
 
-Mendapat nilai buram dalam piksel.
+Mendapatkan nilai blur dalam piksel.
 
 ```csharp
-public int Size { get; }
+public int Size { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
 Ukuran.
 
-### Contoh
+## Contoh
 
 Kode berikut menunjukkan dukungan OuterGlowEffect.
 
@@ -41,10 +42,10 @@ using (var image = (PsdImage)Image.Load(src))
 }
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [OuterGlowEffect](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../outergloweffect/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../../)
 
 

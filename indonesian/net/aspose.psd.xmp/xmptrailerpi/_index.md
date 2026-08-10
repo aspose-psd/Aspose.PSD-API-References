@@ -1,11 +1,12 @@
 ---
-title: Class XmpTrailerPi
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Aspose.PSD.Xmp.XmpTrailerPi kelas. Mewakili instruksi pemrosesan trailer XMP.
+title: "Kelas XmpTrailerPi"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Kelas Aspose.PSD.Xmp.XmpTrailerPi. Mewakili instruksi pemrosesan trailer XMP"
 type: docs
-weight: 6310
+weight: 6810
 url: /id/net/aspose.psd.xmp/xmptrailerpi/
 ---
+{{< psd/tize >}}
 ## XmpTrailerPi class
 
 Mewakili instruksi pemrosesan trailer XMP.
@@ -16,38 +17,38 @@ public sealed class XmpTrailerPi : IEquatable<XmpTrailerPi>, IXmlValue
 
 ## Konstruktor
 
-| Nama | Keterangan |
+| Nama | Deskripsi |
 | --- | --- |
-| [XmpTrailerPi](xmptrailerpi/#constructor)() | Menginisialisasi instance baru dari`XmpTrailerPi` kelas. |
-| [XmpTrailerPi](xmptrailerpi/#constructor_1)(bool) | Menginisialisasi instance baru dari`XmpTrailerPi` kelas. |
+| [XmpTrailerPi](xmptrailerpi/#constructor)() | Menginisialisasi sebuah instance baru dari kelas `XmpTrailerPi`. |
+| [XmpTrailerPi](xmptrailerpi/#constructor_1)(bool) | Menginisialisasi sebuah instance baru dari kelas `XmpTrailerPi`. |
 
 ## Properti
 
-| Nama | Keterangan |
+| Nama | Deskripsi |
 | --- | --- |
-| [IsWritable](../../aspose.psd.xmp/xmptrailerpi/iswritable/) { get; set; } | Mendapat atau menetapkan nilai yang menunjukkan apakah instance ini dapat ditulis. |
+| [IsWritable](../../aspose.psd.xmp/xmptrailerpi/iswritable/) { get; set; } | Mendapatkan atau mengatur nilai yang menunjukkan apakah instance ini dapat ditulis. |
 
 ## Metode
 
-| Nama | Keterangan |
+| Nama | Deskripsi |
 | --- | --- |
-| override [Equals](../../aspose.psd.xmp/xmptrailerpi/equals/#equals_1)(object) | Menentukan apakah yang ditentukanObject , sama dengan instance ini. |
-| [Equals](../../aspose.psd.xmp/xmptrailerpi/equals/#equals)(XmpTrailerPi) | Menunjukkan apakah objek saat ini sama dengan objek lain dengan tipe yang sama. |
+| override [Equals](../../aspose.psd.xmp/xmptrailerpi/equals/#equals_1)(object) | Menentukan apakah Object yang ditentukan, sama dengan instance ini. |
+| [Equals](../../aspose.psd.xmp/xmptrailerpi/equals/#equals)(XmpTrailerPi) | Menunjukkan apakah objek saat ini sama dengan objek lain dari tipe yang sama. |
 | override [GetHashCode](../../aspose.psd.xmp/xmptrailerpi/gethashcode/)() | Mengembalikan kode hash untuk instance ini. |
-| [GetXmlValue](../../aspose.psd.xmp/xmptrailerpi/getxmlvalue/)() | Mengubah nilai xmp menjadi representasi xml. |
+| [GetXmlValue](../../aspose.psd.xmp/xmptrailerpi/getxmlvalue/)() | Mengonversi nilai xmp ke representasi xml. |
 
-### Perkataan
+## Catatan
 
-Bagian end="w" atau end="r" akan digunakan oleh prosesor pemindaian paket untuk menentukan apakah XMP dapat dimodifikasi di tempat.
+Bagian end=\"w\" atau end=\"r\" harus digunakan oleh proses pemindaian paket untuk menentukan apakah XMP dapat dimodifikasi secara langsung.
 
-### Contoh
+## Contoh
 
-Bentuk trailer PI yang diizinkan:
+Bentuk yang diizinkan untuk PI trailer:
 
-### Lihat juga
+### Lihat Juga
 
 * interface [IXmlValue](../ixmlvalue/)
-* ruang nama [Aspose.PSD.Xmp](../../aspose.psd.xmp/)
-* perakitan [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Xmp](../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../)
 
 

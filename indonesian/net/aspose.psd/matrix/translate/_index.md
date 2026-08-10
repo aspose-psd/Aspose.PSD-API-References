@@ -1,51 +1,52 @@
 ---
-title: Matrix.Translate
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Matrix metode. Menerapkan vektor terjemahan yang ditentukan ke Matriks ini dalam urutan yang ditentukan.
+title: "Matrix.Translate"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode Matrix. Menerapkan vektor translasi yang ditentukan ke Matrix ini dalam urutan yang ditentukan."
 type: docs
 weight: 190
 url: /id/net/aspose.psd/matrix/translate/
 ---
+{{< psd/tize >}}
 ## Translate(float, float, MatrixOrder) {#translate_1}
 
-Menerapkan vektor terjemahan yang ditentukan ke Matriks ini dalam urutan yang ditentukan.
+Menerapkan vektor translasi yang ditentukan ke Matrix ini dalam urutan yang ditentukan.
 
 ```csharp
 public void Translate(float offsetX, float offsetY, MatrixOrder order)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| offsetX | Single | X offset. |
+| offsetX | Single | Offset X. |
 | offsetY | Single | Offset Y. |
-| order | MatrixOrder | Pesanan. |
+| urutan | MatrixOrder | Urutannya. |
 
-### Lihat juga
+### Lihat Juga
 
 * enum [MatrixOrder](../../matrixorder/)
 * class [Matrix](../)
-* ruang nama [Aspose.PSD](../../matrix/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Translate(float, float) {#translate}
 
-Menerapkan vektor terjemahan yang ditentukan untuk ini[`Matrix`](../) menggunakan (default) Prepend order.
+Menerapkan vektor translasi yang ditentukan ke [`Matrix`](../) ini menggunakan urutan Prepend (default).
 
 ```csharp
 public void Translate(float tx, float ty)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
 | tx | Single | tx. tx. tx. |
 | ty | Single | ty. ty. ty. |
 
-### Lihat juga
+### Lihat Juga
 
 * class [Matrix](../)
-* ruang nama [Aspose.PSD](../../matrix/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

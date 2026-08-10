@@ -1,11 +1,12 @@
 ---
-title: StreamContainer.Save
-second_title: Aspose.PSD untuk Referensi .NET API
-description: StreamContainer metode. Menyimpan menyalin data aliran ke aliran yang ditentukan.
+title: "StreamContainer.Save"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode StreamContainer. Menyimpan salinan data aliran ke aliran yang ditentukan"
 type: docs
 weight: 130
 url: /id/net/aspose.psd/streamcontainer/save/
 ---
+{{< psd/tize >}}
 ## Save(Stream, int, long) {#save_2}
 
 Menyimpan (menyalin) data aliran ke aliran yang ditentukan.
@@ -14,99 +15,99 @@ Menyimpan (menyalin) data aliran ke aliran yang ditentukan.
 public virtual void Save(Stream destinationStream, int bufferSize, long length)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
 | destinationStream | Stream | Aliran untuk menyimpan data. |
-| bufferSize | Int32 | Ukuran penyangga. Secara default[`ReadWriteBytesCount`](../readwritebytescount/) nilai digunakan. |
-| length | Int64 | Panjang aliran data yang akan disalin. Secara default panjang diatur ke[`Length`](../length/) nilai. |
+| bufferSize | Int32 | Ukuran buffer. Secara default nilai [`ReadWriteBytesCount`](../readwritebytescount/) digunakan. |
+| length | Int64 | Panjang data aliran yang akan disalin. Secara default panjang diatur ke nilai [`Length`](../length/). |
 
-### Lihat juga
+### Lihat Juga
 
 * class [StreamContainer](../)
-* ruang nama [Aspose.PSD](../../streamcontainer/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Save(Stream) {#save}
 
-Menyimpan (menyalin) data aliran ke aliran yang ditentukan. Menggunakan ukuran buffer default[`ReadWriteBytesCount`](../readwritebytescount/) dan streaming[`Length`](../length/) nilai.
+Menyimpan (menyalin) data aliran ke aliran yang ditentukan. Menggunakan ukuran buffer default [`ReadWriteBytesCount`](../readwritebytescount/) dan nilai aliran [`Length`](../length/).
 
 ```csharp
 public virtual void Save(Stream destinationStream)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
 | destinationStream | Stream | Aliran untuk menyimpan data. |
 
-### Lihat juga
+### Lihat Juga
 
 * class [StreamContainer](../)
-* ruang nama [Aspose.PSD](../../streamcontainer/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Save(Stream, int) {#save_1}
 
-Menyimpan (menyalin) semua data aliran ke aliran yang ditentukan. Menggunakan aliran[`Length`](../length/) nilai.
+Menyimpan (menyalin) semua data aliran ke aliran yang ditentukan. Menggunakan nilai aliran [`Length`](../length/).
 
 ```csharp
 public virtual void Save(Stream destinationStream, int bufferSize)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
 | destinationStream | Stream | Aliran untuk menyimpan data. |
-| bufferSize | Int32 | Penyangga. |
+| bufferSize | Int32 | Buffer. |
 
-### Lihat juga
+### Lihat Juga
 
 * class [StreamContainer](../)
-* ruang nama [Aspose.PSD](../../streamcontainer/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Save(string) {#save_3}
 
-Menyimpan (menyalin) data aliran ke aliran yang ditentukan. Menggunakan ukuran buffer default[`ReadWriteBytesCount`](../readwritebytescount/) dan streaming[`Length`](../length/) nilai.
+Menyimpan (menyalin) data aliran ke aliran yang ditentukan. Menggunakan ukuran buffer default [`ReadWriteBytesCount`](../readwritebytescount/) dan nilai aliran [`Length`](../length/).
 
 ```csharp
 public virtual void Save(string filePath)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| filePath | String | Jalur file untuk menyimpan data streaming. |
+| filePath | String | Jalur file untuk menyimpan data aliran. |
 
-### Lihat juga
+### Lihat Juga
 
 * class [StreamContainer](../)
-* ruang nama [Aspose.PSD](../../streamcontainer/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Save(string, int) {#save_4}
 
-Menyimpan (menyalin) data aliran ke aliran yang ditentukan. Menggunakan aliran[`Length`](../length/) nilai.
+Menyimpan (menyalin) data aliran ke aliran yang ditentukan. Menggunakan nilai aliran [`Length`](../length/).
 
 ```csharp
 public virtual void Save(string filePath, int bufferSize)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| filePath | String | Jalur file untuk menyimpan data streaming. |
-| bufferSize | Int32 | Ukuran penyangga. Secara default[`ReadWriteBytesCount`](../readwritebytescount/) nilai digunakan. |
+| filePath | String | Jalur file untuk menyimpan data aliran. |
+| bufferSize | Int32 | Ukuran buffer. Secara default nilai [`ReadWriteBytesCount`](../readwritebytescount/) digunakan. |
 
-### Lihat juga
+### Lihat Juga
 
 * class [StreamContainer](../)
-* ruang nama [Aspose.PSD](../../streamcontainer/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
@@ -118,16 +119,16 @@ Menyimpan (menyalin) data aliran ke aliran yang ditentukan.
 public virtual void Save(string filePath, int bufferSize, long length)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| filePath | String | Jalur file untuk menyimpan data streaming. |
-| bufferSize | Int32 | Ukuran penyangga. Secara default[`ReadWriteBytesCount`](../readwritebytescount/) nilai digunakan. |
-| length | Int64 | Panjang aliran data yang akan disalin. Secara default panjang diatur ke[`Length`](../length/) nilai. |
+| filePath | String | Jalur file untuk menyimpan data aliran. |
+| bufferSize | Int32 | Ukuran buffer. Secara default nilai [`ReadWriteBytesCount`](../readwritebytescount/) digunakan. |
+| length | Int64 | Panjang data aliran yang akan disalin. Secara default panjang diatur ke nilai [`Length`](../length/). |
 
-### Lihat juga
+### Lihat Juga
 
 * class [StreamContainer](../)
-* ruang nama [Aspose.PSD](../../streamcontainer/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

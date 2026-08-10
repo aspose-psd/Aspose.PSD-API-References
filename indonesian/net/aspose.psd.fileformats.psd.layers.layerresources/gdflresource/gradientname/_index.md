@@ -1,27 +1,28 @@
 ---
-title: GdFlResource.GradientName
-second_title: Aspose.PSD untuk Referensi .NET API
-description: GdFlResource Properti. Mendapat atau menetapkan nama gradien.
+title: "GdFlResource.GradientName"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti GdFlResource. Mendapatkan atau mengatur nama gradien"
 type: docs
-weight: 80
+weight: 100
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources/gdflresource/gradientname/
 ---
+{{< psd/tize >}}
 ## GdFlResource.GradientName property
 
-Mendapat atau menetapkan nama gradien.
+Mendapatkan atau mengatur nama gradien.
 
 ```csharp
 public string GradientName { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
 Nama gradien.
 
-### Lihat juga
+### Lihat Juga
 
 * class [GdFlResource](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../gdflresource/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

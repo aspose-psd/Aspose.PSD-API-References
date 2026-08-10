@@ -1,14 +1,15 @@
 ---
-title: Class TextFontInfo
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Aspose.PSD.FileFormats.Psd.Layers.Text.TextFontInfo kelas. Merupakan informasi tentang font. Kelas ini tidak dapat diwariskan.
+title: "Kelas TextFontInfo"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Kelas Aspose.PSD.FileFormats.Psd.Layers.Text.TextFontInfo. Mewakili informasi tentang font. Kelas ini tidak dapat diwariskan"
 type: docs
-weight: 3550
+weight: 3970
 url: /id/net/aspose.psd.fileformats.psd.layers.text/textfontinfo/
 ---
+{{< psd/tize >}}
 ## TextFontInfo class
 
-Merupakan informasi tentang font. Kelas ini tidak dapat diwariskan.
+Mewakili informasi tentang font. Kelas ini tidak dapat diwarisi.
 
 ```csharp
 public sealed class TextFontInfo
@@ -16,18 +17,18 @@ public sealed class TextFontInfo
 
 ## Properti
 
-| Nama | Keterangan |
+| Nama | Deskripsi |
 | --- | --- |
-| [FamilyName](../../aspose.psd.fileformats.psd.layers.text/textfontinfo/familyname/) { get; } | Mendapat nama keluarga font |
-| [FontType](../../aspose.psd.fileformats.psd.layers.text/textfontinfo/fonttype/) { get; } | Mendapat jenis font. |
+| [FamilyName](../../aspose.psd.fileformats.psd.layers.text/textfontinfo/familyname/) { get; } | Mendapatkan nama keluarga font |
+| [FontType](../../aspose.psd.fileformats.psd.layers.text/textfontinfo/fonttype/) { get; } | Mendapatkan tipe font. |
 | [PostScriptName](../../aspose.psd.fileformats.psd.layers.text/textfontinfo/postscriptname/) { get; } | Mendapatkan nama PostScript |
-| [Script](../../aspose.psd.fileformats.psd.layers.text/textfontinfo/script/) { get; } | Mendapat skrip. |
-| [Style](../../aspose.psd.fileformats.psd.layers.text/textfontinfo/style/) { get; } | Mendapat gaya font yang diuraikan dari nama subfamili |
-| [Synthetic](../../aspose.psd.fileformats.psd.layers.text/textfontinfo/synthetic/) { get; } | Mendapat nilai yang menunjukkan apakah iniFontInformation sintetis. |
+| [Script](../../aspose.psd.fileformats.psd.layers.text/textfontinfo/script/) { get; } | Mendapatkan skrip. |
+| [Style](../../aspose.psd.fileformats.psd.layers.text/textfontinfo/style/) { get; } | Mendapatkan gaya font yang diurai dari nama subkeluarga |
+| [Synthetic](../../aspose.psd.fileformats.psd.layers.text/textfontinfo/synthetic/) { get; } | Mendapatkan nilai yang menunjukkan apakah FontInformation ini sintetis. |
 
-### Lihat juga
+### Lihat Juga
 
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.Text](../../aspose.psd.fileformats.psd.layers.text/)
-* perakitan [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.Text](../../aspose.psd.fileformats.psd.layers.text/)
+* assembly [Aspose.PSD](../../)
 
 

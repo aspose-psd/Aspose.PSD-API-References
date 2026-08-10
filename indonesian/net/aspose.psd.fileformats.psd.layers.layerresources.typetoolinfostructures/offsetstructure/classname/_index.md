@@ -1,27 +1,28 @@
 ---
-title: OffsetStructure.ClassName
-second_title: Aspose.PSD untuk Referensi .NET API
-description: OffsetStructure Properti. Mendapat atau menetapkan nama kelas.
+title: "OffsetStructure.ClassName"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti OffsetStructure. Mendapatkan atau mengatur nama kelas"
 type: docs
 weight: 30
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/offsetstructure/classname/
 ---
+{{< psd/tize >}}
 ## OffsetStructure.ClassName property
 
-Mendapat atau menetapkan nama kelas.
+Mendapatkan atau mengatur nama kelas.
 
 ```csharp
 public string ClassName { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
 Nama kelas.
 
-### Lihat juga
+### Lihat Juga
 
 * class [OffsetStructure](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../offsetstructure/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 

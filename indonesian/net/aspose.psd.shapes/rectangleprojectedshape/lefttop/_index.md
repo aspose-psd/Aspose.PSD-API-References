@@ -1,28 +1,29 @@
 ---
-title: RectangleProjectedShape.LeftTop
-second_title: Aspose.PSD untuk Referensi .NET API
-description: RectangleProjectedShape Properti. Mendapat titik persegi panjang kiri atas.
+title: "RectangleProjectedShape.LeftTop"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti RectangleProjectedShape. Mengambil titik kiri atas segi empat"
 type: docs
 weight: 60
 url: /id/net/aspose.psd.shapes/rectangleprojectedshape/lefttop/
 ---
+{{< psd/tize >}}
 ## RectangleProjectedShape.LeftTop property
 
-Mendapat titik persegi panjang kiri atas.
+Mendapatkan titik kiri atas persegi panjang.
 
 ```csharp
 public PointF LeftTop { get; }
 ```
 
-### Nilai properti
+### Property Value
 
-Titik persegi panjang kiri atas.
+Titik kiri atas segi empat.
 
-### Lihat juga
+### Lihat Juga
 
 * struct [PointF](../../../aspose.psd/pointf/)
 * class [RectangleProjectedShape](../)
-* ruang nama [Aspose.PSD.Shapes](../../rectangleprojectedshape/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 

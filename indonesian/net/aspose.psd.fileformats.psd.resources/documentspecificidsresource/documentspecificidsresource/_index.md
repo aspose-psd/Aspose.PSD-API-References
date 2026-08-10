@@ -1,11 +1,12 @@
 ---
-title: DocumentSpecificIdsResource.DocumentSpecificIdsResource
-second_title: Aspose.PSD untuk Referensi .NET API
-description: DocumentSpecificIdsResource konstruktor. Konstruktor default.
+title: "DocumentSpecificIdsResource.DocumentSpecificIdsResource"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Konstruktor DocumentSpecificIdsResource. Konstruktor default"
 type: docs
 weight: 10
 url: /id/net/aspose.psd.fileformats.psd.resources/documentspecificidsresource/documentspecificidsresource/
 ---
+{{< psd/tize >}}
 ## DocumentSpecificIdsResource constructor
 
 Konstruktor default.
@@ -14,10 +15,10 @@ Konstruktor default.
 public DocumentSpecificIdsResource()
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [DocumentSpecificIdsResource](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Resources](../../documentspecificidsresource/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: Class CompressorException
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Aspose.PSD.CoreExceptions.CompressorException kelas. Pengecualian kompresor.
+title: "Kelas CompressorException"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Aspose.PSD.CoreExceptions.CompressorException kelas. Pengecualian kompresor"
 type: docs
 weight: 430
 url: /id/net/aspose.psd.coreexceptions/compressorexception/
 ---
+{{< psd/tize >}}
 ## CompressorException class
 
 Pengecualian kompresor.
@@ -16,15 +17,15 @@ public class CompressorException : FrameworkException
 
 ## Konstruktor
 
-| Nama | Keterangan |
+| Nama | Deskripsi |
 | --- | --- |
-| [CompressorException](compressorexception/#constructor)(string) | Menginisialisasi instance baru dari`CompressorException` kelas. |
-| [CompressorException](compressorexception/#constructor_1)(string, Exception) | Menginisialisasi instance baru dari`CompressorException` kelas. |
+| [CompressorException](compressorexception/#constructor)(string) | Menginisialisasi instance baru dari kelas `CompressorException`. |
+| [CompressorException](compressorexception/#constructor_1)(string, Exception) | Menginisialisasi instance baru dari kelas `CompressorException`. |
 
-### Lihat juga
+### Lihat Juga
 
 * class [FrameworkException](../frameworkexception/)
-* ruang nama [Aspose.PSD.CoreExceptions](../../aspose.psd.coreexceptions/)
-* perakitan [Aspose.PSD](../../)
+* namespace [Aspose.PSD.CoreExceptions](../../aspose.psd.coreexceptions/)
+* assembly [Aspose.PSD](../../)
 
 

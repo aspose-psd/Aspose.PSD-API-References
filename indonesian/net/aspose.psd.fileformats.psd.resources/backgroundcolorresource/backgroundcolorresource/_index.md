@@ -1,11 +1,12 @@
 ---
-title: BackgroundColorResource.BackgroundColorResource
-second_title: Aspose.PSD untuk Referensi .NET API
-description: BackgroundColorResource konstruktor. Konstruktor default.
+title: "BackgroundColorResource.BackgroundColorResource"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Konstruktor BackgroundColorResource. Konstruktor default"
 type: docs
 weight: 10
 url: /id/net/aspose.psd.fileformats.psd.resources/backgroundcolorresource/backgroundcolorresource/
 ---
+{{< psd/tize >}}
 ## BackgroundColorResource constructor
 
 Konstruktor default.
@@ -14,10 +15,10 @@ Konstruktor default.
 public BackgroundColorResource()
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [BackgroundColorResource](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Resources](../../backgroundcolorresource/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: MultiPageOptions.MergeLayers
-second_title: Aspose.PSD untuk Referensi .NET API
-description: MultiPageOptions Properti. Mendapat atau menetapkan nilai yang menunjukkan apakah menggabungkan lapisan.
+title: "MultiPageOptions.MergeLayers"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti MultiPageOptions. Mendapatkan atau mengatur nilai yang menunjukkan apakah menggabungkan lapisan"
 type: docs
 weight: 30
 url: /id/net/aspose.psd.imageoptions/multipageoptions/mergelayers/
 ---
+{{< psd/tize >}}
 ## MultiPageOptions.MergeLayers property
 
-Mendapat atau menetapkan nilai yang menunjukkan apakah [menggabungkan lapisan].
+Mendapatkan atau mengatur nilai yang menunjukkan apakah [merege layers].
 
 ```csharp
 public bool MergeLayers { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
-`BENAR` if [menggabungkan lapisan]; jika tidak,`PALSU` .
+`true` jika [merege layers]; selainnya, `false`.
 
-### Lihat juga
+### Lihat Juga
 
 * class [MultiPageOptions](../)
-* ruang nama [Aspose.PSD.ImageOptions](../../multipageoptions/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

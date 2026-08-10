@@ -1,28 +1,29 @@
 ---
-title: TiffOptions.AlphaStorage
-second_title: Aspose.PSD untuk Referensi .NET API
-description: TiffOptions Properti. Mendapat atau menyetel opsi penyimpanan alfa. Pilihan selainUnspecified digunakan jika ada lebih dari 3SamplesPerPixel didefinisikan.
+title: "TiffOptions.AlphaStorage"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "TiffOptions properti. Mendapatkan atau mengatur opsi penyimpanan alfa. Opsi selain Unspecified digunakan ketika ada lebih dari 3 SamplesPerPixel yang didefinisikan"
 type: docs
 weight: 20
 url: /id/net/aspose.psd.imageoptions/tiffoptions/alphastorage/
 ---
+{{< psd/tize >}}
 ## TiffOptions.AlphaStorage property
 
-Mendapat atau menyetel opsi penyimpanan alfa. Pilihan selainUnspecified digunakan jika ada lebih dari 3[`SamplesPerPixel`](../samplesperpixel/) didefinisikan.
+Mendapatkan atau mengatur opsi penyimpanan alfa. Opsi selain Unspecified digunakan ketika ada lebih dari 3 [`SamplesPerPixel`](../samplesperpixel/) yang didefinisikan.
 
 ```csharp
 public TiffAlphaStorage AlphaStorage { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
 Opsi penyimpanan alfa.
 
-### Lihat juga
+### Lihat Juga
 
 * enum [TiffAlphaStorage](../../../aspose.psd.fileformats.tiff.enums/tiffalphastorage/)
 * class [TiffOptions](../)
-* ruang nama [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

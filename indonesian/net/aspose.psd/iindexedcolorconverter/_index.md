@@ -1,14 +1,15 @@
 ---
-title: Interface IIndexedColorConverter
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Aspose.PSD.IIndexedColorConverter antarmuka. Konverter warna untuk format gambar yang diindeks.
+title: "Antarmuka IIndexedColorConverter"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Antarmuka Aspose.PSD.IIndexedColorConverter. Konverter warna untuk format gambar terindeks."
 type: docs
-weight: 4470
+weight: 4940
 url: /id/net/aspose.psd/iindexedcolorconverter/
 ---
+{{< psd/tize >}}
 ## IIndexedColorConverter interface
 
-Konverter warna untuk format gambar yang diindeks.
+Pengonversi warna untuk format gambar terindeks.
 
 ```csharp
 public interface IIndexedColorConverter
@@ -16,13 +17,13 @@ public interface IIndexedColorConverter
 
 ## Metode
 
-| Nama | Keterangan |
+| Nama | Deskripsi |
 | --- | --- |
-| [FillIndexedtoIndexedMap](../../aspose.psd/iindexedcolorconverter/fillindexedtoindexedmap/)(byte[], PixelDataFormat, PixelDataFormat) | Mengisi peta konversi indexed to indexed image. |
+| [FillIndexedtoIndexedMap](../../aspose.psd/iindexedcolorconverter/fillindexedtoindexedmap/)(byte[], PixelDataFormat, PixelDataFormat) | Mengisi peta konversi gambar terindeks ke terindeks. |
 
-### Lihat juga
+### Lihat Juga
 
-* ruang nama [Aspose.PSD](../../aspose.psd/)
-* perakitan [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

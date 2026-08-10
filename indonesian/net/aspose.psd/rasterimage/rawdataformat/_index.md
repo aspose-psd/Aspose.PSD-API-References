@@ -1,11 +1,12 @@
 ---
-title: RasterImage.RawDataFormat
-second_title: Aspose.PSD untuk Referensi .NET API
-description: RasterImage Properti. Mendapatkan format data mentah.
+title: "RasterImage.RawDataFormat"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti RasterImage. Mengambil format data mentah"
 type: docs
 weight: 80
 url: /id/net/aspose.psd/rasterimage/rawdataformat/
 ---
+{{< psd/tize >}}
 ## RasterImage.RawDataFormat property
 
 Mendapatkan format data mentah.
@@ -14,15 +15,15 @@ Mendapatkan format data mentah.
 public virtual PixelDataFormat RawDataFormat { get; }
 ```
 
-### Nilai properti
+### Property Value
 
 Format data mentah.
 
-### Lihat juga
+### Lihat Juga
 
 * class [PixelDataFormat](../../pixeldataformat/)
 * class [RasterImage](../)
-* ruang nama [Aspose.PSD](../../rasterimage/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

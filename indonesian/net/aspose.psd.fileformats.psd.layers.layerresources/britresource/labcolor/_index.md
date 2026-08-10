@@ -1,27 +1,28 @@
 ---
-title: BritResource.LabColor
-second_title: Aspose.PSD untuk Referensi .NET API
-description: BritResource Properti. Mendapat atau menetapkan nilai yang menunjukkan apakah warna lab.
+title: "BritResource.LabColor"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti BritResource. Mengambil atau mengatur nilai yang menunjukkan apakah warna lab"
 type: docs
-weight: 50
+weight: 40
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources/britresource/labcolor/
 ---
+{{< psd/tize >}}
 ## BritResource.LabColor property
 
-Mendapat atau menetapkan nilai yang menunjukkan apakah [warna lab].
+Mendapatkan atau mengatur nilai yang menunjukkan apakah [lab color].
 
 ```csharp
 public bool LabColor { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
-`BENAR` if [warna lab]; jika tidak,`PALSU` .
+`true` jika [warna lab]; lainnya, `false`.
 
-### Lihat juga
+### Lihat Juga
 
 * class [BritResource](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../britresource/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

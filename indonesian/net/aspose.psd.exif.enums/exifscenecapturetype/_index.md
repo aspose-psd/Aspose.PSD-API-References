@@ -1,14 +1,15 @@
 ---
-title: Enum ExifSceneCaptureType
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Aspose.PSD.Exif.Enums.ExifSceneCaptureType enum. jenis tangkapan pemandangan exif enum.
+title: "Enum ExifSceneCaptureType"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Aspose.PSD.Exif.Enums.ExifSceneCaptureType enum. exif tipe penangkapan adegan enum"
 type: docs
-weight: 930
+weight: 940
 url: /id/net/aspose.psd.exif.enums/exifscenecapturetype/
 ---
+{{< psd/tize >}}
 ## ExifSceneCaptureType enumeration
 
-jenis tangkapan pemandangan exif enum.
+enumerasi tipe penangkapan adegan exif.
 
 ```csharp
 public enum ExifSceneCaptureType
@@ -16,16 +17,16 @@ public enum ExifSceneCaptureType
 
 ### Nilai
 
-| Nama | Nilai | Keterangan |
+| Nama | Nilai | Deskripsi |
 | --- | --- | --- |
 | Standard | `0` | Adegan standar. |
-| Landscape | `1` | Pemandangan lanskap. |
-| Portrait | `2` | Pemandangan potret. |
+| Landscape | `1` | Adegan lanskap. |
+| Portrait | `2` | Adegan potret. |
 | NightScene | `3` | Adegan malam. |
 
-### Lihat juga
+### Lihat Juga
 
-* ruang nama [Aspose.PSD.Exif.Enums](../../aspose.psd.exif.enums/)
-* perakitan [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Exif.Enums](../../aspose.psd.exif.enums/)
+* assembly [Aspose.PSD](../../)
 
 

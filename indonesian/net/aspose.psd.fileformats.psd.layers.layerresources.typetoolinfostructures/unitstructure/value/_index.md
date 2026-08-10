@@ -1,27 +1,28 @@
 ---
-title: UnitStructure.Value
-second_title: Aspose.PSD untuk Referensi .NET API
-description: UnitStructure Properti. Mendapat atau menetapkan nilai.
+title: "UnitStructure.Value"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti UnitStructure. Mengambil atau mengatur nilai"
 type: docs
 weight: 50
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/unitstructure/value/
 ---
+{{< psd/tize >}}
 ## UnitStructure.Value property
 
-Mendapat atau menetapkan nilai.
+Mendapatkan atau mengatur nilai.
 
 ```csharp
 public double Value { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
-Nilainya.
+Nilai.
 
-### Lihat juga
+### Lihat Juga
 
 * class [UnitStructure](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../unitstructure/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 

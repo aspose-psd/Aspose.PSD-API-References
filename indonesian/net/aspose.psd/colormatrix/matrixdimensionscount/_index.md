@@ -1,11 +1,12 @@
 ---
-title: ColorMatrix.MatrixDimensionsCount
-second_title: Aspose.PSD untuk Referensi .NET API
-description: ColorMatrix bidang. Jumlah dimensi matriks.
+title: "ColorMatrix.MatrixDimensionsCount"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Field ColorMatrix. Jumlah dimensi matriks"
 type: docs
 weight: 300
 url: /id/net/aspose.psd/colormatrix/matrixdimensionscount/
 ---
+{{< psd/tize >}}
 ## ColorMatrix.MatrixDimensionsCount field
 
 Jumlah dimensi matriks.
@@ -14,10 +15,10 @@ Jumlah dimensi matriks.
 public const int MatrixDimensionsCount;
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [ColorMatrix](../)
-* ruang nama [Aspose.PSD](../../colormatrix/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: IPatternFillSettings.VerticalOffset
-second_title: Aspose.PSD untuk Referensi .NET API
-description: IPatternFillSettings Properti. Mendapat atau menyetel offset vertikal.
+title: "IPatternFillSettings.VerticalOffset"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti IPatternFillSettings. Mendapatkan atau mengatur offset vertikal"
 type: docs
-weight: 100
+weight: 110
 url: /id/net/aspose.psd.fileformats.psd.layers.fillsettings/ipatternfillsettings/verticaloffset/
 ---
+{{< psd/tize >}}
 ## IPatternFillSettings.VerticalOffset property
 
-Mendapat atau menyetel offset vertikal.
+Mendapatkan atau mengatur offset vertikal.
 
 ```csharp
 public int VerticalOffset { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
 Offset vertikal.
 
-### Lihat juga
+### Lihat Juga
 
 * interface [IPatternFillSettings](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../ipatternfillsettings/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../../)
 
 

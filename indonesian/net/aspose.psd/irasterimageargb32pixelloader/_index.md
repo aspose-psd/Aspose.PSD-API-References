@@ -1,11 +1,12 @@
 ---
-title: Interface IRasterImageArgb32PixelLoader
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Aspose.PSD.IRasterImageArgb32PixelLoader antarmuka. Pemuat piksel ARGB 32bit gambar raster.
+title: "Antarmuka IRasterImageArgb32PixelLoader"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Antarmuka Aspose.PSD.IRasterImageArgb32PixelLoader. Pemuat piksel ARGB 32‑bit gambar raster"
 type: docs
-weight: 4560
+weight: 5030
 url: /id/net/aspose.psd/irasterimageargb32pixelloader/
 ---
+{{< psd/tize >}}
 ## IRasterImageArgb32PixelLoader interface
 
 Pemuat piksel ARGB 32-bit gambar raster.
@@ -16,14 +17,14 @@ public interface IRasterImageArgb32PixelLoader : IRasterImageRawDataLoader
 
 ## Metode
 
-| Nama | Keterangan |
+| Nama | Deskripsi |
 | --- | --- |
-| [LoadPartialArgb32Pixels](../../aspose.psd/irasterimageargb32pixelloader/loadpartialargb32pixels/)(Rectangle, IPartialArgb32PixelLoader) | Memuat piksel ARGB 32-bit sebagian (menurut blok). |
+| [LoadPartialArgb32Pixels](../../aspose.psd/irasterimageargb32pixelloader/loadpartialargb32pixels/)(Rectangle, IPartialArgb32PixelLoader) | Memuat piksel ARGB 32‑bit secara parsial (per blok). |
 
-### Lihat juga
+### Lihat Juga
 
 * interface [IRasterImageRawDataLoader](../irasterimagerawdataloader/)
-* ruang nama [Aspose.PSD](../../aspose.psd/)
-* perakitan [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

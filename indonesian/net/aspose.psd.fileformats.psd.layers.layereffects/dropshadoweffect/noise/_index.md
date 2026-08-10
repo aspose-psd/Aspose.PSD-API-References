@@ -1,33 +1,34 @@
 ---
-title: DropShadowEffect.Noise
-second_title: Aspose.PSD untuk Referensi .NET API
-description: DropShadowEffect Properti. Mendapat atau mengatur kebisingan.
+title: "DropShadowEffect.Noise"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "DropShadowEffect properti. Mendapatkan atau mengatur derau"
 type: docs
 weight: 80
 url: /id/net/aspose.psd.fileformats.psd.layers.layereffects/dropshadoweffect/noise/
 ---
+{{< psd/tize >}}
 ## DropShadowEffect.Noise property
 
-Mendapat atau mengatur kebisingan.
+Mendapatkan atau mengatur noise.
 
 ```csharp
 public int Noise { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
-Kebisingan.
+Noise.
 
 ### Pengecualian
 
 | pengecualian | kondisi |
 | --- | --- |
-| [PsdImageArgumentException](../../../aspose.psd.coreexceptions.imageformats/psdimageargumentexception/) | Kebisingan harus ditentukan sebagai persentase dalam rentang dari 0 hingga 100 |
+| [PsdImageArgumentException](../../../aspose.psd.coreexceptions.imageformats/psdimageargumentexception/) | Noise harus ditentukan sebagai persentase dalam rentang dari 0 hingga 100 |
 
-### Lihat juga
+### Lihat Juga
 
 * class [DropShadowEffect](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../dropshadoweffect/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../../)
 
 

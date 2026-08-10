@@ -1,11 +1,12 @@
 ---
-title: Graphics.Image
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Graphics Properti. Mendapatkan gambar.
+title: "Graphics.Image"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti Graphics. Mendapatkan gambar."
 type: docs
 weight: 60
 url: /id/net/aspose.psd/graphics/image/
 ---
+{{< psd/tize >}}
 ## Graphics.Image property
 
 Mendapatkan gambar.
@@ -14,15 +15,15 @@ Mendapatkan gambar.
 public Image Image { get; }
 ```
 
-### Nilai properti
+### Property Value
 
 Gambar grafis.
 
-### Lihat juga
+### Lihat Juga
 
 * class [Image](../../image/)
 * class [Graphics](../)
-* ruang nama [Aspose.PSD](../../graphics/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

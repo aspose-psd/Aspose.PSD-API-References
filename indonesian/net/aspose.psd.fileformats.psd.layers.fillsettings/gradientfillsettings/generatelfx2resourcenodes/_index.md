@@ -1,11 +1,12 @@
 ---
-title: GradientFillSettings.GenerateLfx2ResourceNodes
-second_title: Aspose.PSD untuk Referensi .NET API
-description: GradientFillSettings metode. Menghasilkan node sumber daya LFX2.
+title: "GradientFillSettings.GenerateLfx2ResourceNodes"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode GradientFillSettings. Menghasilkan node sumber daya LFX2"
 type: docs
-weight: 190
+weight: 100
 url: /id/net/aspose.psd.fileformats.psd.layers.fillsettings/gradientfillsettings/generatelfx2resourcenodes/
 ---
+{{< psd/tize >}}
 ## GradientFillSettings.GenerateLfx2ResourceNodes method
 
 Menghasilkan node sumber daya LFX2.
@@ -14,15 +15,15 @@ Menghasilkan node sumber daya LFX2.
 public static List<OSTypeStructure> GenerateLfx2ResourceNodes()
 ```
 
-### Nilai Pengembalian
+### Nilai Kembalian
 
-Daftar yang Dihasilkan[`OSTypeStructure`](../../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/)
+Daftar yang Dihasilkan dari [`OSTypeStructure`](../../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/)
 
-### Lihat juga
+### Lihat Juga
 
 * class [OSTypeStructure](../../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/)
 * class [GradientFillSettings](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../gradientfillsettings/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: Class TransparencySupporter
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Aspose.PSD.TransparencySupporter kelas. Objek yang mendukung transparansi.
+title: "Kelas TransparencySupporter"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Kelas Aspose.PSD.TransparencySupporter. Objek yang mendukung transparansi"
 type: docs
-weight: 5710
+weight: 6210
 url: /id/net/aspose.psd/transparencysupporter/
 ---
+{{< psd/tize >}}
 ## TransparencySupporter class
 
 Objek yang mendukung transparansi.
@@ -16,19 +17,19 @@ public class TransparencySupporter
 
 ## Konstruktor
 
-| Nama | Keterangan |
+| Nama | Deskripsi |
 | --- | --- |
 | [TransparencySupporter](transparencysupporter/)() | Konstruktor default. |
 
 ## Properti
 
-| Nama | Keterangan |
+| Nama | Deskripsi |
 | --- | --- |
-| [Opacity](../../aspose.psd/transparencysupporter/opacity/) { get; set; } | Mendapat atau menyetel opasitas objek. Nilainya harus antara 0 dan 1. Nilai 0 berarti objek terlihat sepenuhnya, nilai 1 berarti objek sepenuhnya buram. |
+| [Opacity](../../aspose.psd/transparencysupporter/opacity/) { get; set; } | Mengambil atau mengatur opasitas objek. Nilainya harus antara 0 dan 1. Nilai 0 berarti objek sepenuhnya terlihat, nilai 1 berarti objek sepenuhnya tidak tembus. |
 
-### Lihat juga
+### Lihat Juga
 
-* ruang nama [Aspose.PSD](../../aspose.psd/)
-* perakitan [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

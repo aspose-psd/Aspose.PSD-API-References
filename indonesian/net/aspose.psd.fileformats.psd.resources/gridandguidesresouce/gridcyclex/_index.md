@@ -1,27 +1,28 @@
 ---
-title: GridAndGuidesResouce.GridCycleX
-second_title: Aspose.PSD untuk Referensi .NET API
-description: GridAndGuidesResouce Properti. Mendapat atau menyetel siklus kisi horizontal. Standarnya adalah 576.
+title: "GridAndGuidesResouce.GridCycleX"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti GridAndGuidesResouce. Mendapatkan atau mengatur siklus grid horizontal. Nilai default adalah 576"
 type: docs
 weight: 30
 url: /id/net/aspose.psd.fileformats.psd.resources/gridandguidesresouce/gridcyclex/
 ---
+{{< psd/tize >}}
 ## GridAndGuidesResouce.GridCycleX property
 
-Mendapat atau menyetel siklus kisi horizontal. Standarnya adalah 576.
+Mendapatkan atau mengatur siklus grid horizontal. Nilai default adalah 576.
 
 ```csharp
 public int GridCycleX { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
-Siklus jaringan horizontal.
+Siklus grid horizontal.
 
-### Lihat juga
+### Lihat Juga
 
 * class [GridAndGuidesResouce](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Resources](../../gridandguidesresouce/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

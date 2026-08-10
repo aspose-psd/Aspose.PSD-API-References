@@ -1,35 +1,36 @@
 ---
-title: IImageLoader.Load
-second_title: Aspose.PSD untuk Referensi .NET API
-description: IImageLoader metode. Membuka gambar baru denganloadOptions .
+title: "IImageLoader.Load"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode IImageLoader. Membuka gambar baru dengan loadOptions"
 type: docs
 weight: 10
 url: /id/net/aspose.psd/iimageloader/load/
 ---
+{{< psd/tize >}}
 ## IImageLoader.Load method
 
-Membuka gambar baru dengan*loadOptions* .
+Membuka gambar baru dengan *loadOptions*.
 
 ```csharp
 public Image Load(StreamContainer streamContainer, LoadOptions loadOptions)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| streamContainer | StreamContainer | Wadah aliran. |
-| loadOptions | LoadOptions | Opsi beban. |
+| streamContainer | StreamContainer | Kontainer aliran. |
+| loadOptions | LoadOptions | Opsi pemuatan. |
 
-### Nilai Pengembalian
+### Nilai Kembalian
 
-Instance gambar yang baru dibuka.
+Sebuah instance gambar yang baru dibuka.
 
-### Lihat juga
+### Lihat Juga
 
 * class [Image](../../image/)
 * class [StreamContainer](../../streamcontainer/)
 * class [LoadOptions](../../loadoptions/)
 * interface [IImageLoader](../)
-* ruang nama [Aspose.PSD](../../iimageloader/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

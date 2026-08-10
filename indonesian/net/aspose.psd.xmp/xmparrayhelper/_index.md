@@ -1,14 +1,15 @@
 ---
-title: Class XmpArrayHelper
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Aspose.PSD.Xmp.XmpArrayHelper kelas. Kelas pembantu untuk memproses logika RDF
+title: "Kelas XmpArrayHelper"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Kelas Aspose.PSD.Xmp.XmpArrayHelper. Kelas pembantu untuk memproses logika RDF"
 type: docs
-weight: 6220
+weight: 6720
 url: /id/net/aspose.psd.xmp/xmparrayhelper/
 ---
+{{< psd/tize >}}
 ## XmpArrayHelper class
 
-Kelas pembantu untuk memproses logika RDF
+Kelas pembantu untuk memproses logika RDF.
 
 ```csharp
 public static class XmpArrayHelper
@@ -16,13 +17,13 @@ public static class XmpArrayHelper
 
 ## Metode
 
-| Nama | Keterangan |
+| Nama | Deskripsi |
 | --- | --- |
-| static [GetRdfCode](../../aspose.psd.xmp/xmparrayhelper/getrdfcode/)(XmpArrayType) | Mendapat kode RDF untuk spesifik[`XmpArrayType`](../xmparraytype/) . |
+| static [GetRdfCode](../../aspose.psd.xmp/xmparrayhelper/getrdfcode/)(XmpArrayType) | Mendapatkan kode RDF untuk [`XmpArrayType`](../xmparraytype/) tertentu. |
 
-### Lihat juga
+### Lihat Juga
 
-* ruang nama [Aspose.PSD.Xmp](../../aspose.psd.xmp/)
-* perakitan [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Xmp](../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../)
 
 

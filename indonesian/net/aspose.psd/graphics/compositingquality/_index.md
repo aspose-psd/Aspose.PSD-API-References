@@ -1,28 +1,29 @@
 ---
-title: Graphics.CompositingQuality
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Graphics Properti. Mendapatkan atau menyetel kualitas pengomposisian.
+title: "Graphics.CompositingQuality"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti Graphics. Mendapatkan atau mengatur kualitas komposit."
 type: docs
 weight: 30
 url: /id/net/aspose.psd/graphics/compositingquality/
 ---
+{{< psd/tize >}}
 ## Graphics.CompositingQuality property
 
-Mendapatkan atau menyetel kualitas pengomposisian.
+Mendapatkan atau mengatur kualitas komposit.
 
 ```csharp
 public CompositingQuality CompositingQuality { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
-Kualitas pengomposisian.
+Kualitas komposit.
 
-### Lihat juga
+### Lihat Juga
 
 * enum [CompositingQuality](../../compositingquality/)
 * class [Graphics](../)
-* ruang nama [Aspose.PSD](../../graphics/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,28 +1,29 @@
 ---
-title: Rectangle.Location
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Rectangle Properti. Mendapat atau menetapkan koordinat sudut kiri atas iniRectanglestruktur.
+title: "Rectangle.Location"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti Rectangle. Mendapatkan atau mengatur koordinat sudut kiri atas dari struktur Rectangle ini."
 type: docs
 weight: 150
 url: /id/net/aspose.psd/rectangle/location/
 ---
+{{< psd/tize >}}
 ## Rectangle.Location property
 
-Mendapat atau menetapkan koordinat sudut kiri atas ini[`Rectangle`](../)struktur.
+Mendapatkan atau mengatur koordinat sudut kiri-atas dari struktur [`Rectangle`](../) ini.
 
 ```csharp
 public Point Location { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
-A[`Point`](../../point/) yang mewakili sudut kiri atas ini[`Rectangle`](../) struktur.
+Sebuah [`Point`](../../point/) yang mewakili sudut kiri-atas dari struktur [`Rectangle`](../) ini.
 
-### Lihat juga
+### Lihat Juga
 
 * struct [Point](../../point/)
 * struct [Rectangle](../)
-* ruang nama [Aspose.PSD](../../rectangle/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

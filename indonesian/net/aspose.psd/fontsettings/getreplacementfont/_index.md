@@ -1,30 +1,31 @@
 ---
-title: FontSettings.GetReplacementFont
-second_title: Aspose.PSD untuk Referensi .NET API
-description: FontSettings metode. Mendapatkan font pengganti yang paling sesuai. Jika semua penggantian tidak diperbolehkan maka akan dikembalikan font pertama yang diizinkan dan tersedia. Jika tidak ada font yang tersedia maka akan dikembalikan font dari argument
+title: "FontSettings.GetReplacementFont"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode FontSettings. Mendapatkan font pengganti yang paling cocok. Jika semua pengganti tidak diizinkan maka akan dikembalikan font pertama yang diizinkan dan tersedia. Jika tidak ada font yang tersedia maka akan dikembalikan font dari argumen"
 type: docs
-weight: 70
+weight: 80
 url: /id/net/aspose.psd/fontsettings/getreplacementfont/
 ---
+{{< psd/tize >}}
 ## FontSettings.GetReplacementFont method
 
-Mendapatkan font pengganti yang paling sesuai. Jika semua penggantian tidak diperbolehkan maka akan dikembalikan font pertama yang diizinkan dan tersedia. Jika tidak ada font yang tersedia maka akan dikembalikan font dari argument
+Mendapatkan font pengganti yang paling cocok. Jika semua pengganti tidak diizinkan, maka akan mengembalikan font pertama yang diizinkan dan tersedia. Jika tidak ada font yang tersedia, maka akan mengembalikan font dari argumen.
 
 ```csharp
 public static string GetReplacementFont(string fontName)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| fontName | String | Nama fontnya. |
+| fontName | String | Nama font. |
 
-### Nilai Pengembalian
+### Nilai Kembalian
 
 Nama font yang diganti
 
-### Contoh
+## Contoh
 
-Kode berikut menunjukkan kemampuan untuk membatasi penggunaan font secara terprogram.
+Kode berikut menunjukkan kemampuan untuk secara programatik membatasi font menggunakan.
 
 ```csharp
 [C#]
@@ -47,7 +48,8 @@ try
     FontSettings.SetFontReplacements("Arial", arialReplacement);
     FontSettings.SetFontReplacements("Times New Roman", timesReplacement);
 
-    using (PsdImage image = (PsdImage)Image.Load(srcFile))
+    using (PsdImage image = (PsdImage)Image.Load(srcFile,
+        new PsdLoadOptions() { AllowNonChangedLayerRepaint = true }))
     {
         image.Save(output, new PngOptions() { ColorType = PngColorType.TruecolorWithAlpha });
     }
@@ -59,10 +61,10 @@ finally
 }
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [FontSettings](../)
-* ruang nama [Aspose.PSD](../../fontsettings/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

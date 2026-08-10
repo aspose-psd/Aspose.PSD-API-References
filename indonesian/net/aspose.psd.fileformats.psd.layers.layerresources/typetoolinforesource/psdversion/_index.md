@@ -1,11 +1,12 @@
 ---
-title: TypeToolInfoResource.PsdVersion
-second_title: Aspose.PSD untuk Referensi .NET API
-description: TypeToolInfoResource Properti. Mendapatkan versi psd minimal yang diperlukan untuk sumber daya lapisan. 0 menunjukkan tidak ada batasan.
+title: "TypeToolInfoResource.PsdVersion"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti TypeToolInfoResource. Mendapatkan versi psd minimal yang diperlukan untuk sumber daya lapisan. 0 menunjukkan tidak ada batasan"
 type: docs
 weight: 150
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources/typetoolinforesource/psdversion/
 ---
+{{< psd/tize >}}
 ## TypeToolInfoResource.PsdVersion property
 
 Mendapatkan versi psd minimal yang diperlukan untuk sumber daya lapisan. 0 menunjukkan tidak ada batasan.
@@ -14,10 +15,10 @@ Mendapatkan versi psd minimal yang diperlukan untuk sumber daya lapisan. 0 menun
 public override int PsdVersion { get; }
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [TypeToolInfoResource](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../typetoolinforesource/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

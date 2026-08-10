@@ -1,28 +1,29 @@
 ---
-title: TypeToolFontInfo.Save
-second_title: Aspose.PSD untuk Referensi .NET API
-description: TypeToolFontInfo metode. MenyimpanTypeToolFontInfo informasi ke wadah aliran yang ditentukan.
+title: "TypeToolFontInfo.Save"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "TypeToolFontInfo metode. Menyimpan informasi TypeToolFontInfo ke kontainer aliran yang ditentukan"
 type: docs
 weight: 110
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources/typetoolfontinfo/save/
 ---
+{{< psd/tize >}}
 ## TypeToolFontInfo.Save method
 
-Menyimpan[`TypeToolFontInfo`](../) informasi ke wadah aliran yang ditentukan.
+Menyimpan informasi [`TypeToolFontInfo`](../) ke kontainer aliran yang ditentukan.
 
 ```csharp
 public void Save(StreamContainer streamContainer)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| streamContainer | StreamContainer | Wadah aliran untuk menyimpan. |
+| streamContainer | StreamContainer | Stream container untuk disimpan. |
 
-### Lihat juga
+### Lihat Juga
 
 * class [StreamContainer](../../../aspose.psd/streamcontainer/)
 * class [TypeToolFontInfo](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../typetoolfontinfo/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

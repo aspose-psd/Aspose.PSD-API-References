@@ -1,27 +1,28 @@
 ---
-title: VectorShapeOriginSettings.OriginResolution
-second_title: Aspose.PSD untuk Referensi .NET API
-description: VectorShapeOriginSettings Properti. Mendapat atau menyetel resolusi asal.
+title: "VectorShapeOriginSettings.OriginResolution"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti VectorShapeOriginSettings. Mendapatkan atau mengatur resolusi asal"
 type: docs
 weight: 140
 url: /id/net/aspose.psd.fileformats.core.vectorpaths/vectorshapeoriginsettings/originresolution/
 ---
+{{< psd/tize >}}
 ## VectorShapeOriginSettings.OriginResolution property
 
-Mendapat atau menyetel resolusi asal.
+Mendapatkan atau mengatur origin resolution.
 
 ```csharp
 public double OriginResolution { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
 Resolusi asal.
 
-### Lihat juga
+### Lihat Juga
 
 * class [VectorShapeOriginSettings](../)
-* ruang nama [Aspose.PSD.FileFormats.Core.VectorPaths](../../vectorshapeoriginsettings/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../../)
 
 

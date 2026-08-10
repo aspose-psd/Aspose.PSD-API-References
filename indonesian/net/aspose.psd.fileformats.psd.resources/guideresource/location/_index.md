@@ -1,27 +1,28 @@
 ---
-title: GuideResource.Location
-second_title: Aspose.PSD untuk Referensi .NET API
-description: GuideResource Properti. Mendapat atau mengatur lokasi guide dalam koordinat dokumen.
+title: "GuideResource.Location"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti GuideResource. Mendapatkan atau mengatur lokasi panduan dalam koordinat dokumen"
 type: docs
 weight: 30
 url: /id/net/aspose.psd.fileformats.psd.resources/guideresource/location/
 ---
+{{< psd/tize >}}
 ## GuideResource.Location property
 
-Mendapat atau mengatur lokasi guide dalam koordinat dokumen.
+Mendapatkan atau mengatur lokasi panduan dalam koordinat dokumen.
 
 ```csharp
 public int Location { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
 Lokasi panduan.
 
-### Lihat juga
+### Lihat Juga
 
 * class [GuideResource](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Resources](../../guideresource/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

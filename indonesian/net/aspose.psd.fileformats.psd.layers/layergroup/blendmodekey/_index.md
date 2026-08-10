@@ -1,28 +1,29 @@
 ---
-title: LayerGroup.BlendModeKey
-second_title: Aspose.PSD untuk Referensi .NET API
-description: LayerGroup Properti. Mendapat atau menyetel kunci mode campuran.
+title: "LayerGroup.BlendModeKey"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti LayerGroup. Mendapatkan atau mengatur kunci mode campuran"
 type: docs
 weight: 10
 url: /id/net/aspose.psd.fileformats.psd.layers/layergroup/blendmodekey/
 ---
+{{< psd/tize >}}
 ## LayerGroup.BlendModeKey property
 
-Mendapat atau menyetel kunci mode campuran.
+Mendapatkan atau mengatur kunci mode pencampuran.
 
 ```csharp
 public override BlendMode BlendModeKey { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
-Tombol mode campuran.
+Kunci mode campuran.
 
-### Lihat juga
+### Lihat Juga
 
 * enum [BlendMode](../../../aspose.psd.fileformats.core.blending/blendmode/)
 * class [LayerGroup](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers](../../layergroup/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

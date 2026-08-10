@@ -1,27 +1,28 @@
 ---
-title: ExifData.SubjectArea
-second_title: Aspose.PSD untuk Referensi .NET API
-description: ExifData Properti. Mendapat atau menyetel area subjek.
+title: "ExifData.SubjectArea"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti ExifData. Mendapatkan atau mengatur area subjek"
 type: docs
 weight: 990
 url: /id/net/aspose.psd.exif/exifdata/subjectarea/
 ---
+{{< psd/tize >}}
 ## ExifData.SubjectArea property
 
-Mendapat atau menyetel area subjek.
+Mendapatkan atau mengatur area subjek.
 
 ```csharp
 public ushort[] SubjectArea { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
-Bidang subjek.
+Area subjek.
 
-### Lihat juga
+### Lihat Juga
 
 * class [ExifData](../)
-* ruang nama [Aspose.PSD.Exif](../../exifdata/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

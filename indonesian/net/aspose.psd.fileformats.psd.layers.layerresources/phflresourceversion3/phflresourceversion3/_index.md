@@ -1,14 +1,15 @@
 ---
-title: PhflResourceVersion3.PhflResourceVersion3
-second_title: Aspose.PSD untuk Referensi .NET API
-description: PhflResourceVersion3 konstruktor. Menginisialisasi instance baru dariPhflResourceVersion3 kelas.
+title: "PhflResourceVersion3.PhflResourceVersion3"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Konstruktor PhflResourceVersion3. Menginisialisasi sebuah instance baru dari kelas PhflResourceVersion3"
 type: docs
 weight: 10
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources/phflresourceversion3/phflresourceversion3/
 ---
+{{< psd/tize >}}
 ## PhflResourceVersion3() {#constructor}
 
-Menginisialisasi instance baru dari[`PhflResourceVersion3`](../) kelas.
+Menginisialisasi sebuah instance baru dari kelas [`PhflResourceVersion3`](../).
 
 ```csharp
 public PhflResourceVersion3()
@@ -18,25 +19,25 @@ public PhflResourceVersion3()
 
 | pengecualian | kondisi |
 | --- | --- |
-| ArgumentException | Hanya didukung versi 2 dan 3 |
+| ArgumentException | Mendukung hanya versi 2 dan 3 |
 
-### Lihat juga
+### Lihat Juga
 
 * class [PhflResourceVersion3](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../phflresourceversion3/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## PhflResourceVersion3(byte[]) {#constructor_1}
 
-Menginisialisasi instance baru dari[`PhflResourceVersion3`](../) kelas.
+Menginisialisasi sebuah instance baru dari kelas [`PhflResourceVersion3`](../).
 
 ```csharp
 public PhflResourceVersion3(byte[] data)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
 | data | Byte[] | Data sumber daya. |
 
@@ -46,10 +47,10 @@ public PhflResourceVersion3(byte[] data)
 | --- | --- |
 | [PsdImageArgumentException](../../../aspose.psd.coreexceptions.imageformats/psdimageargumentexception/) | Panjang data tidak valid |
 
-### Lihat juga
+### Lihat Juga
 
 * class [PhflResourceVersion3](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../phflresourceversion3/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

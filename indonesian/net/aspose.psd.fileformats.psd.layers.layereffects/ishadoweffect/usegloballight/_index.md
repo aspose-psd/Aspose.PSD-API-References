@@ -1,27 +1,28 @@
 ---
-title: IShadowEffect.UseGlobalLight
-second_title: Aspose.PSD untuk Referensi .NET API
-description: IShadowEffect Properti. Mendapat atau menetapkan nilai yang menunjukkan apakah gunakan sudut ini di semua efek lapisan.
+title: "IShadowEffect.UseGlobalLight"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti IShadowEffect. Mendapatkan atau mengatur nilai yang menunjukkan apakah menggunakan sudut ini dalam semua efek lapisan"
 type: docs
 weight: 70
 url: /id/net/aspose.psd.fileformats.psd.layers.layereffects/ishadoweffect/usegloballight/
 ---
+{{< psd/tize >}}
 ## IShadowEffect.UseGlobalLight property
 
-Mendapat atau menetapkan nilai yang menunjukkan apakah [gunakan sudut ini di semua efek lapisan].
+Mendapatkan atau mengatur nilai yang menunjukkan apakah [use this angle in all of the layer effects].
 
 ```csharp
 public bool UseGlobalLight { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
-`BENAR` jika [gunakan cahaya global]; jika tidak,`PALSU` .
+`true` jika [use global light]; selainnya, `false`.
 
-### Lihat juga
+### Lihat Juga
 
 * interface [IShadowEffect](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../ishadoweffect/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,50 +1,51 @@
 ---
-title: XmpArray.XmpArray
-second_title: Aspose.PSD untuk Referensi .NET API
-description: XmpArray konstruktor. Menginisialisasi instance baru dariXmpArray kelas.
+title: "XmpArray.XmpArray"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "XmpArray konstruktor. Menginisialisasi instance baru dari kelas XmpArray"
 type: docs
 weight: 10
 url: /id/net/aspose.psd.xmp/xmparray/xmparray/
 ---
+{{< psd/tize >}}
 ## XmpArray(XmpArrayType, string[]) {#constructor_1}
 
-Menginisialisasi instance baru dari[`XmpArray`](../) kelas.
+Menginisialisasi instance baru dari kelas [`XmpArray`](../).
 
 ```csharp
 public XmpArray(XmpArrayType type, string[] items)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| type | XmpArrayType | Jenis larik. |
-| items | String[] | Daftar item. |
+| tipe | XmpArrayType | Tipe array. |
+| item | String[] | Daftar item. |
 
-### Lihat juga
+### Lihat Juga
 
 * enum [XmpArrayType](../../xmparraytype/)
 * class [XmpArray](../)
-* ruang nama [Aspose.PSD.Xmp](../../xmparray/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## XmpArray(XmpArrayType) {#constructor}
 
-Menginisialisasi instance baru dari[`XmpArray`](../) kelas.
+Menginisialisasi instance baru dari kelas [`XmpArray`](../).
 
 ```csharp
 public XmpArray(XmpArrayType type)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| type | XmpArrayType | Jenis larik. |
+| tipe | XmpArrayType | Tipe array. |
 
-### Lihat juga
+### Lihat Juga
 
 * enum [XmpArrayType](../../xmparraytype/)
 * class [XmpArray](../)
-* ruang nama [Aspose.PSD.Xmp](../../xmparray/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

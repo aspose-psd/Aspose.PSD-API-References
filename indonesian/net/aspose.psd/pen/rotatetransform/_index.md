@@ -1,49 +1,50 @@
 ---
-title: Pen.RotateTransform
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Pen metode. Memutar transformasi geometris lokal dengan sudut yang ditentukan. Metode ini menambahkan rotasi ke transformasi.
+title: "Pen.RotateTransform"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode Pen. Memutar transformasi geometris lokal sebesar sudut yang ditentukan. Metode ini menambahkan rotasi ke awal transformasi."
 type: docs
 weight: 210
 url: /id/net/aspose.psd/pen/rotatetransform/
 ---
+{{< psd/tize >}}
 ## RotateTransform(float) {#rotatetransform}
 
-Memutar transformasi geometris lokal dengan sudut yang ditentukan. Metode ini menambahkan rotasi ke transformasi.
+Memutar transformasi geometrik lokal sebesar sudut yang ditentukan. Metode ini menambahkan rotasi ke depan transformasi.
 
 ```csharp
 public void RotateTransform(float angle)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
 | angle | Single | Sudut rotasi. |
 
-### Lihat juga
+### Lihat Juga
 
 * class [Pen](../)
-* ruang nama [Aspose.PSD](../../pen/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## RotateTransform(float, MatrixOrder) {#rotatetransform_1}
 
-Memutar transformasi geometris lokal dengan sudut yang ditentukan dalam urutan yang ditentukan.
+Memutar transformasi geometrik lokal sebesar sudut yang ditentukan dalam urutan yang ditentukan.
 
 ```csharp
 public void RotateTransform(float angle, MatrixOrder order)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
 | angle | Single | Sudut rotasi. |
-| order | MatrixOrder | A[`MatrixOrder`](../../matrixorder/) yang menentukan apakah akan menambahkan atau menambahkan matriks rotasi. |
+| order | MatrixOrder | Sebuah [`MatrixOrder`](../../matrixorder/) yang menentukan apakah akan menambahkan atau menempatkan di depan matriks rotasi. |
 
-### Lihat juga
+### Lihat Juga
 
 * enum [MatrixOrder](../../matrixorder/)
 * class [Pen](../)
-* ruang nama [Aspose.PSD](../../pen/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

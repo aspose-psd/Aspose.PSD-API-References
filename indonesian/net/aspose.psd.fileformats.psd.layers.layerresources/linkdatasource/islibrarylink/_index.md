@@ -1,22 +1,23 @@
 ---
-title: LinkDataSource.IsLibraryLink
-second_title: Aspose.PSD untuk Referensi .NET API
-description: LinkDataSource Properti. Mendapat nilai yang menunjukkan apakah sumber data tautan PSD ini tertaut ke item Perpustakaan Adobe Photoshop СС.
+title: "LinkDataSource.IsLibraryLink"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti LinkDataSource. Mengembalikan nilai yang menunjukkan apakah sumber data tautan PSD ini terhubung ke item Perpustakaan Adobe Photoshop СС"
 type: docs
 weight: 80
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/islibrarylink/
 ---
+{{< psd/tize >}}
 ## LinkDataSource.IsLibraryLink property
 
-Mendapat nilai yang menunjukkan apakah sumber data tautan PSD ini tertaut ke item Perpustakaan Adobe® Photoshop® СС.
+Mendapatkan nilai yang menunjukkan apakah sumber data tautan PSD ini menautkan ke item Adobe® Photoshop® СС Library.
 
 ```csharp
 public bool IsLibraryLink { get; }
 ```
 
-### Nilai properti
+### Property Value
 
-`BENAR` jika contoh ini adalah tautan pustaka Adobe® Photoshop® СС; jika tidak,`PALSU` .
+`true` jika instance ini adalah tautan perpustakaan Adobe® Photoshop® СС; selainnya, `false`.
 
 ### Pengecualian
 
@@ -24,10 +25,10 @@ public bool IsLibraryLink { get; }
 | --- | --- |
 | [PsdImageException](../../../aspose.psd.coreexceptions.imageformats/psdimageexception/) | Anda tidak dapat mengakses properti IsLibraryLink. |
 
-### Lihat juga
+### Lihat Juga
 
 * class [LinkDataSource](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../linkdatasource/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

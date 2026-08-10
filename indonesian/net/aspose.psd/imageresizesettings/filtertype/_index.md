@@ -1,28 +1,29 @@
 ---
-title: ImageResizeSettings.FilterType
-second_title: Aspose.PSD untuk Referensi .NET API
-description: ImageResizeSettings Properti. Mendapat atau menyetel jenis filter.
+title: "ImageResizeSettings.FilterType"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti ImageResizeSettings. Mendapatkan atau mengatur jenis filter"
 type: docs
 weight: 50
 url: /id/net/aspose.psd/imageresizesettings/filtertype/
 ---
+{{< psd/tize >}}
 ## ImageResizeSettings.FilterType property
 
-Mendapat atau menyetel jenis filter.
+Mengambil atau mengatur tipe filter.
 
 ```csharp
 public ImageFilterType FilterType { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
 Jenis filter.
 
-### Lihat juga
+### Lihat Juga
 
 * enum [ImageFilterType](../../imagefiltertype/)
 * class [ImageResizeSettings](../)
-* ruang nama [Aspose.PSD](../../imageresizesettings/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

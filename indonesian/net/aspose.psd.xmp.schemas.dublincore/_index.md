@@ -1,17 +1,18 @@
 ---
-title: Aspose.PSD.Xmp.Schemas.DublinCore
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Ruang nama berisi kelas penolong terkait metadata Dublin Core konstanta dan metode.
+title: "Aspose.PSD.Xmp.Schemas.DublinCore"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Namespace berisi kelas pembantu, konstanta, dan metode terkait metadata Dublin Core"
 type: docs
-weight: 530
+weight: 570
 url: /id/net/aspose.psd.xmp.schemas.dublincore/
 ---
-Ruang nama berisi kelas penolong terkait metadata Dublin Core, konstanta, dan metode.
+{{< psd/tize >}}
+Namespace berisi kelas pembantu, konstanta, dan metode terkait metadata Dublin Core.
 
 ## Kelas
 
-| Kelas | Keterangan |
+| Kelas | Deskripsi |
 | --- | --- |
-| [DublinCorePackage](./dublincorepackage/) | Mewakili skema Inti Ganda. |
+| [DublinCorePackage](./dublincorepackage/) | Mewakili skema Dublic Core. |
 
 

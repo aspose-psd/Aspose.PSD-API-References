@@ -1,26 +1,27 @@
 ---
-title: Delegate ProgressEventHandler
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Referensi fungsi event handler progres
+title: "Delegasi ProgressEventHandler"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Referensi fungsi penangan acara kemajuan"
 type: docs
-weight: 5280
+weight: 5780
 url: /id/net/aspose.psd/progresseventhandler/
 ---
+{{< psd/tize >}}
 ## ProgressEventHandler delegate
 
-Referensi fungsi event handler progres
+Referensi fungsi penangan acara kemajuan
 
 ```csharp
 public delegate void ProgressEventHandler(ProgressEventHandlerInfo info);
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| info | ProgressEventHandlerInfo | Data penangan kejadian progres. |
+| info | ProgressEventHandlerInfo | Data penangan acara progres. |
 
-### Contoh
+## Contoh
 
-Contoh berikut menunjukkan bahwa progres konversi dokumen bekerja dengan benar dan tanpa pengecualian.
+Contoh berikut menunjukkan bahwa kemajuan konversi dokumen berfungsi dengan benar dan tanpa pengecualian.
 
 ```csharp
 [C#]
@@ -64,10 +65,10 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath, loadOptions))
 }
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [ProgressEventHandlerInfo](../../aspose.psd.progressmanagement/progresseventhandlerinfo/)
-* ruang nama [Aspose.PSD](../../aspose.psd/)
-* perakitan [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

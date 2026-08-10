@@ -1,14 +1,15 @@
 ---
-title: Enum StringTrimming
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Aspose.PSD.StringTrimming enum. Menentukan cara memangkas karakter dari string yang tidak sepenuhnya sesuai dengan bentuk tata letak.
+title: "Enum StringTrimming"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Enum Aspose.PSD.StringTrimming. Menentukan cara memangkas karakter dari string yang tidak sepenuhnya muat dalam bentuk tata letak"
 type: docs
-weight: 5690
+weight: 6190
 url: /id/net/aspose.psd/stringtrimming/
 ---
+{{< psd/tize >}}
 ## StringTrimming enumeration
 
-Menentukan cara memangkas karakter dari string yang tidak sepenuhnya sesuai dengan bentuk tata letak.
+Menentukan cara memotong karakter dari string yang tidak sepenuhnya muat dalam bentuk tata letak.
 
 ```csharp
 public enum StringTrimming
@@ -16,18 +17,18 @@ public enum StringTrimming
 
 ### Nilai
 
-| Nama | Nilai | Keterangan |
+| Nama | Nilai | Deskripsi |
 | --- | --- | --- |
-| None | `0` | Menentukan tanpa pemangkasan. |
-| Character | `1` | Menentukan bahwa teks dipangkas ke karakter terdekat. |
-| Word | `2` | Menentukan bahwa teks dipangkas menjadi kata terdekat. |
-| EllipsisCharacter | `3` | Menentukan bahwa teks dipangkas ke karakter terdekat, dan elipsis disisipkan di akhir baris yang dipangkas. |
-| EllipsisWord | `4` | Menentukan bahwa teks dipangkas ke kata terdekat, dan elipsis disisipkan di akhir baris yang dipangkas. |
-| EllipsisPath | `5` | Bagian tengah dihapus dari garis yang dipotong dan diganti dengan elipsis. Algoritma menyimpan sebanyak mungkin segmen garis yang dibatasi garis miring terakhir. |
+| None | `0` | Tidak melakukan pemangkasan. |
+| Character | `1` | Menentukan bahwa teks dipangkas hingga karakter terdekat. |
+| Word | `2` | Menentukan bahwa teks dipangkas hingga kata terdekat. |
+| EllipsisCharacter | `3` | Menentukan bahwa teks dipangkas hingga karakter terdekat, dan elipsis disisipkan di akhir baris yang dipangkas. |
+| EllipsisWord | `4` | Menentukan bahwa teks dipangkas hingga kata terdekat, dan elipsis disisipkan di akhir baris yang dipangkas. |
+| EllipsisPath | `5` | Bagian tengah dihapus dari baris yang dipangkas dan diganti dengan elipsis. Algoritma mempertahankan sebanyak mungkin segmen terakhir yang dipisahkan oleh garis miring dari baris tersebut. |
 
-### Lihat juga
+### Lihat Juga
 
-* ruang nama [Aspose.PSD](../../aspose.psd/)
-* perakitan [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

@@ -1,28 +1,29 @@
 ---
-title: ObjectWithBounds.Bounds
-second_title: Aspose.PSD untuk Referensi .NET API
-description: ObjectWithBounds Properti. Mendapat batas objek.
+title: "ObjectWithBounds.Bounds"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti ObjectWithBounds. Mendapatkan batas objek."
 type: docs
 weight: 10
 url: /id/net/aspose.psd/objectwithbounds/bounds/
 ---
+{{< psd/tize >}}
 ## ObjectWithBounds.Bounds property
 
-Mendapat batas objek.
+Mendapatkan batas objek.
 
 ```csharp
 public abstract RectangleF Bounds { get; }
 ```
 
-### Nilai properti
+### Property Value
 
 Batas objek.
 
-### Lihat juga
+### Lihat Juga
 
 * struct [RectangleF](../../rectanglef/)
 * class [ObjectWithBounds](../)
-* ruang nama [Aspose.PSD](../../objectwithbounds/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

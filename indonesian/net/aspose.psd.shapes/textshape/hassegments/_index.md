@@ -1,27 +1,28 @@
 ---
-title: TextShape.HasSegments
-second_title: Aspose.PSD untuk Referensi .NET API
-description: TextShape Properti. Mendapat nilai yang menunjukkan apakah bentuk memiliki segmen.
+title: "TextShape.HasSegments"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "TextShape properti. Mendapatkan nilai yang menunjukkan apakah bentuk memiliki segmen"
 type: docs
 weight: 50
 url: /id/net/aspose.psd.shapes/textshape/hassegments/
 ---
+{{< psd/tize >}}
 ## TextShape.HasSegments property
 
-Mendapat nilai yang menunjukkan apakah bentuk memiliki segmen.
+Mendapatkan nilai yang menunjukkan apakah bentuk memiliki segmen.
 
 ```csharp
 public override bool HasSegments { get; }
 ```
 
-### Nilai properti
+### Property Value
 
-`BENAR` jika bentuk memiliki segmen; jika tidak,`PALSU`.
+`True` jika bentuk memiliki segmen; jika tidak, `false`.
 
-### Lihat juga
+### Lihat Juga
 
 * class [TextShape](../)
-* ruang nama [Aspose.PSD.Shapes](../../textshape/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 

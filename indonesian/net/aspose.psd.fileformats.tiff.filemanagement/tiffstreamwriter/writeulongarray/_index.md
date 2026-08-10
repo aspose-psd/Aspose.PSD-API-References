@@ -1,27 +1,28 @@
 ---
-title: TiffStreamWriter.WriteULongArray
-second_title: Aspose.PSD untuk Referensi .NET API
-description: TiffStreamWriter metode. Menulis larik nilai integer yang tidak ditandatangani ke aliran.
+title: "TiffStreamWriter.WriteULongArray"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode TiffStreamWriter. Menulis sebuah array nilai integer tak bertanda ke aliran"
 type: docs
 weight: 210
 url: /id/net/aspose.psd.fileformats.tiff.filemanagement/tiffstreamwriter/writeulongarray/
 ---
+{{< psd/tize >}}
 ## TiffStreamWriter.WriteULongArray method
 
-Menulis larik nilai integer yang tidak ditandatangani ke aliran.
+Menulis sebuah array nilai integer tak bertanda ke aliran.
 
 ```csharp
 public void WriteULongArray(uint[] data)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| data | UInt32[] | Array untuk menulis. |
+| data | UInt32[] | Array yang akan ditulis. |
 
-### Lihat juga
+### Lihat Juga
 
 * class [TiffStreamWriter](../)
-* ruang nama [Aspose.PSD.FileFormats.Tiff.FileManagement](../../tiffstreamwriter/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff.FileManagement](../../../aspose.psd.fileformats.tiff.filemanagement/)
+* assembly [Aspose.PSD](../../../)
 
 

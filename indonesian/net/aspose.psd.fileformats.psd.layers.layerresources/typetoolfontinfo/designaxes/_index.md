@@ -1,27 +1,28 @@
 ---
-title: TypeToolFontInfo.DesignAxes
-second_title: Aspose.PSD untuk Referensi .NET API
-description: TypeToolFontInfo Properti. Mendapat atau menyetel vektor sumbu desain untuk diikuti.
+title: "TypeToolFontInfo.DesignAxes"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "TypeToolFontInfo properti. Mendapatkan atau mengatur vektor sumbu desain untuk diikuti"
 type: docs
 weight: 20
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources/typetoolfontinfo/designaxes/
 ---
+{{< psd/tize >}}
 ## TypeToolFontInfo.DesignAxes property
 
-Mendapat atau menyetel vektor sumbu desain untuk diikuti.
+Mendapatkan atau mengatur vektor sumbu desain yang akan diikuti.
 
 ```csharp
 public int DesignAxes { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
-Vektor sumbu desain yang akan diikuti.
+Vektor sumbu desain untuk diikuti.
 
-### Lihat juga
+### Lihat Juga
 
 * class [TypeToolFontInfo](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../typetoolfontinfo/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,32 +1,33 @@
 ---
-title: SizeF.op_Inequality
-second_title: Aspose.PSD untuk Referensi .NET API
-description: SizeF metode. Menguji apakah duaSizeF strukturnya berbeda.
+title: "SizeF.op_Inequality"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode SizeF. Menguji apakah dua struktur SizeF berbeda"
 type: docs
 weight: 160
 url: /id/net/aspose.psd/sizef/op_inequality/
 ---
+{{< psd/tize >}}
 ## SizeF Inequality operator
 
-Menguji apakah dua[`SizeF`](../) strukturnya berbeda.
+Menguji apakah dua struktur [`SizeF`](../) berbeda.
 
 ```csharp
 public static bool operator !=(SizeF size1, SizeF size2)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| size1 | SizeF | Itu[`SizeF`](../) struktur di sebelah kiri operator pertidaksamaan. |
-| size2 | SizeF | Itu[`SizeF`](../) struktur di sebelah kanan operator pertidaksamaan. |
+| size1 | SizeF | Struktur [`SizeF`](../) di sebelah kiri operator ketidaksamaan. |
+| size2 | SizeF | Struktur [`SizeF`](../) di sebelah kanan operator ketidaksamaan. |
 
-### Nilai Pengembalian
+### Nilai Kembalian
 
-Operator ini mengembalikan true jika*size1* Dan*size2* berbeda dalam lebar atau tinggi; salah jika*size1* Dan*size2* adalah sama.
+Operator ini mengembalikan true jika *size1* dan *size2* berbeda baik dalam lebar maupun tinggi; false jika *size1* dan *size2* sama.
 
-### Lihat juga
+### Lihat Juga
 
 * struct [SizeF](../)
-* ruang nama [Aspose.PSD](../../sizef/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

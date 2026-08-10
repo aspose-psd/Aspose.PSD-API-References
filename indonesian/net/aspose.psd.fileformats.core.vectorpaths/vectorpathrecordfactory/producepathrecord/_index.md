@@ -1,38 +1,33 @@
 ---
-title: VectorPathRecordFactory.ProducePathRecord
-second_title: Aspose.PSD untuk Referensi .NET API
-description: VectorPathRecordFactory metode. Menghasilkan rekaman jalur.
+title: "VectorPathRecordFactory.ProducePathRecord"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode VectorPathRecordFactory. Menghasilkan rekaman jalur"
 type: docs
-weight: 20
+weight: 10
 url: /id/net/aspose.psd.fileformats.core.vectorpaths/vectorpathrecordfactory/producepathrecord/
 ---
+{{< psd/tize >}}
 ## VectorPathRecordFactory.ProducePathRecord method
 
-Menghasilkan rekaman jalur.
+Menghasilkan catatan jalur.
 
 ```csharp
-public VectorPathRecord ProducePathRecord(byte[] data)
+public static VectorPathRecord ProducePathRecord(byte[] data)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
 | data | Byte[] | Data rekaman. |
 
-### Nilai Pengembalian
+### Nilai Kembalian
 
-Dibuat[`VectorPathRecord`](../../vectorpathrecord/)
+Dibuat [`VectorPathRecord`](../../vectorpathrecord/).
 
-### Pengecualian
-
-| pengecualian | kondisi |
-| --- | --- |
-| ArgumentOutOfRangeException |  |
-
-### Lihat juga
+### Lihat Juga
 
 * class [VectorPathRecord](../../vectorpathrecord/)
 * class [VectorPathRecordFactory](../)
-* ruang nama [Aspose.PSD.FileFormats.Core.VectorPaths](../../vectorpathrecordfactory/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../../)
 
 

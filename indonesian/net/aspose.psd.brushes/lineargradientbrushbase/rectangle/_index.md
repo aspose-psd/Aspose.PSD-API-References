@@ -1,28 +1,29 @@
 ---
-title: LinearGradientBrushBase.Rectangle
-second_title: Aspose.PSD untuk Referensi .NET API
-description: LinearGradientBrushBase Properti. Mendapat atau menyetel wilayah persegi panjang yang menentukan titik awal dan akhir gradien.
+title: "LinearGradientBrushBase.Rectangle"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "LinearGradientBrushBase properti. Mendapatkan atau mengatur wilayah persegi panjang yang menentukan titik awal dan akhir gradien"
 type: docs
 weight: 40
 url: /id/net/aspose.psd.brushes/lineargradientbrushbase/rectangle/
 ---
+{{< psd/tize >}}
 ## LinearGradientBrushBase.Rectangle property
 
-Mendapat atau menyetel wilayah persegi panjang yang menentukan titik awal dan akhir gradien.
+Menampilkan atau mengatur wilayah persegi panjang yang menentukan titik awal dan akhir gradien.
 
 ```csharp
 public RectangleF Rectangle { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
-A[`RectangleF`](../../../aspose.psd/rectanglef/) struktur yang menentukan titik awal dan akhir dari gradien.
+Struktur [`RectangleF`](../../../aspose.psd/rectanglef/) yang menentukan titik awal dan akhir gradien.
 
-### Lihat juga
+### Lihat Juga
 
 * struct [RectangleF](../../../aspose.psd/rectanglef/)
 * class [LinearGradientBrushBase](../)
-* ruang nama [Aspose.PSD.Brushes](../../lineargradientbrushbase/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
+* assembly [Aspose.PSD](../../../)
 
 

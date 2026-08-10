@@ -1,28 +1,29 @@
 ---
-title: Layer.SheetColorHighlight
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Layer Properti. Mendapat atau menyetel sorotan warna lembar dekoratif di daftar lapisan
+title: "Layer.SheetColorHighlight"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti Layer. Mendapatkan atau mengatur sorotan warna lembar dekoratif dalam daftar lapisan"
 type: docs
-weight: 300
+weight: 310
 url: /id/net/aspose.psd.fileformats.psd.layers/layer/sheetcolorhighlight/
 ---
+{{< psd/tize >}}
 ## Layer.SheetColorHighlight property
 
-Mendapat atau menyetel sorotan warna lembar dekoratif di daftar lapisan
+Mendapatkan atau mengatur sorotan warna lembar dekoratif dalam daftar lapisan.
 
 ```csharp
 public SheetColorHighlightEnum SheetColorHighlight { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
 Sorotan warna lembar.
 
-### Lihat juga
+### Lihat Juga
 
 * enum [SheetColorHighlightEnum](../../../aspose.psd.fileformats.psd.layers.layerresources/sheetcolorhighlightenum/)
 * class [Layer](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers](../../layer/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

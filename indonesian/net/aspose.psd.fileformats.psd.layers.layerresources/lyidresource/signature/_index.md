@@ -1,23 +1,24 @@
 ---
-title: LyidResource.Signature
-second_title: Aspose.PSD untuk Referensi .NET API
-description: LyidResource Properti. Mendapat tanda tangan.
+title: "LyidResource.Signature"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "LyidResource property. Mendapatkan tanda tangan"
 type: docs
 weight: 50
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources/lyidresource/signature/
 ---
+{{< psd/tize >}}
 ## LyidResource.Signature property
 
-Mendapat tanda tangan.
+Mendapatkan tanda tangan.
 
 ```csharp
 public override int Signature { get; }
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [LyidResource](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../lyidresource/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

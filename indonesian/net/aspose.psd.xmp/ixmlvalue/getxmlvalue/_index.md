@@ -1,27 +1,28 @@
 ---
-title: IXmlValue.GetXmlValue
-second_title: Aspose.PSD untuk Referensi .NET API
-description: IXmlValue metode. Mengubah nilai XMP menjadi representasi XML.
+title: "IXmlValue.GetXmlValue"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode IXmlValue. Mengonversi nilai XMP ke representasi XML"
 type: docs
 weight: 10
 url: /id/net/aspose.psd.xmp/ixmlvalue/getxmlvalue/
 ---
+{{< psd/tize >}}
 ## IXmlValue.GetXmlValue method
 
-Mengubah nilai XMP menjadi representasi XML.
+Mengonversi nilai XMP ke representasi XML.
 
 ```csharp
 public string GetXmlValue()
 ```
 
-### Nilai Pengembalian
+### Nilai Kembalian
 
 Mengembalikan nilai XMP yang dikonversi ke representasi XML.
 
-### Lihat juga
+### Lihat Juga
 
 * interface [IXmlValue](../)
-* ruang nama [Aspose.PSD.Xmp](../../ixmlvalue/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

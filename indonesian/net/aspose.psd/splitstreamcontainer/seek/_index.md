@@ -1,11 +1,12 @@
 ---
-title: SplitStreamContainer.Seek
-second_title: Aspose.PSD untuk Referensi .NET API
-description: SplitStreamContainer metode. Mengatur posisi dalam aliran saat ini.
+title: "SplitStreamContainer.Seek"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode SplitStreamContainer. Mengatur posisi dalam aliran saat ini"
 type: docs
 weight: 140
 url: /id/net/aspose.psd/splitstreamcontainer/seek/
 ---
+{{< psd/tize >}}
 ## SplitStreamContainer.Seek method
 
 Mengatur posisi dalam aliran saat ini.
@@ -14,20 +15,20 @@ Mengatur posisi dalam aliran saat ini.
 public override long Seek(long offset, SeekOrigin origin)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| offset | Int64 | Offset byte relatif terhadap*origin* parameter. Nilai ini mewakili offset dari posisi aliran awal yang diteruskan dalam konstruktor StreamContainer. |
-| origin | SeekOrigin | Nilai tipeSeekOrigin menunjukkan titik referensi yang digunakan untuk mendapatkan posisi baru. |
+| offset | Int64 | Offset byte relatif terhadap parameter *origin*. Nilai ini mewakili offset dari posisi awal aliran yang diberikan pada konstruktor StreamContainer. |
+| origin | SeekOrigin | Nilai bertipe SeekOrigin yang menunjukkan titik referensi yang digunakan untuk memperoleh posisi baru. |
 
-### Nilai Pengembalian
+### Nilai Kembalian
 
 Posisi baru dalam aliran saat ini.
 
-### Lihat juga
+### Lihat Juga
 
 * enum [SeekOrigin](../../seekorigin/)
 * class [SplitStreamContainer](../)
-* ruang nama [Aspose.PSD](../../splitstreamcontainer/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

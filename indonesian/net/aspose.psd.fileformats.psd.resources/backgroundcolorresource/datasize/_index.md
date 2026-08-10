@@ -1,11 +1,12 @@
 ---
-title: BackgroundColorResource.DataSize
-second_title: Aspose.PSD untuk Referensi .NET API
-description: BackgroundColorResource Properti. Mendapatkan ukuran data sumber daya dalam byte.
+title: "BackgroundColorResource.DataSize"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti BackgroundColorResource. Mendapatkan ukuran data sumber daya dalam byte"
 type: docs
 weight: 30
 url: /id/net/aspose.psd.fileformats.psd.resources/backgroundcolorresource/datasize/
 ---
+{{< psd/tize >}}
 ## BackgroundColorResource.DataSize property
 
 Mendapatkan ukuran data sumber daya dalam byte.
@@ -14,11 +15,11 @@ Mendapatkan ukuran data sumber daya dalam byte.
 public override int DataSize { get; }
 ```
 
-### Nilai properti
+### Property Value
 
 Ukuran data sumber daya.
 
-### Contoh
+## Contoh
 
 Contoh berikut menunjukkan dukungan sumber daya BackgroundColorResource.
 
@@ -48,10 +49,10 @@ using (var image = (PsdImage)Image.Load(sourceFilePath))
 }
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [BackgroundColorResource](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Resources](../../backgroundcolorresource/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: GradientFillSettings.AddColorPoint
-second_title: Aspose.PSD untuk Referensi .NET API
-description: GradientFillSettings metode. Menambahkan titik warna.
+title: "GradientFillSettings.AddColorPoint"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode GradientFillSettings. Menambahkan titik warna"
 type: docs
-weight: 150
+weight: 60
 url: /id/net/aspose.psd.fileformats.psd.layers.fillsettings/gradientfillsettings/addcolorpoint/
 ---
+{{< psd/tize >}}
 ## GradientFillSettings.AddColorPoint method
 
 Menambahkan titik warna.
@@ -14,15 +15,15 @@ Menambahkan titik warna.
 public GradientColorPoint AddColorPoint()
 ```
 
-### Nilai Pengembalian
+### Nilai Kembalian
 
-Titik warna yang dibuat
+Titik warna dibuat
 
-### Lihat juga
+### Lihat Juga
 
 * class [GradientColorPoint](../../gradientcolorpoint/)
 * class [GradientFillSettings](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../gradientfillsettings/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../../)
 
 

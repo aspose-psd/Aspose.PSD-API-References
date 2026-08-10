@@ -1,27 +1,28 @@
 ---
-title: PsdLoadOptions.IgnoreAlphaChannel
-second_title: Aspose.PSD untuk Referensi .NET API
-description: PsdLoadOptions Properti. Mendapat atau menyetel nilai yang menunjukkan apakah abaikan saluran alfa.
+title: "PsdLoadOptions.IgnoreAlphaChannel"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti PsdLoadOptions. Mendapatkan atau mengatur nilai yang menunjukkan apakah mengabaikan saluran alfa"
 type: docs
-weight: 30
+weight: 40
 url: /id/net/aspose.psd.imageloadoptions/psdloadoptions/ignorealphachannel/
 ---
+{{< psd/tize >}}
 ## PsdLoadOptions.IgnoreAlphaChannel property
 
-Mendapat atau menyetel nilai yang menunjukkan apakah [abaikan saluran alfa].
+Mendapatkan atau mengatur nilai yang menunjukkan apakah [ignore alpha channel].
 
 ```csharp
 public bool IgnoreAlphaChannel { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
-`BENAR` if [abaikan saluran alfa]; jika tidak,`PALSU` .
+`true` jika [ignore alpha channel]; selainnya, `false`.
 
-### Lihat juga
+### Lihat Juga
 
 * class [PsdLoadOptions](../)
-* ruang nama [Aspose.PSD.ImageLoadOptions](../../psdloadoptions/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageLoadOptions](../../../aspose.psd.imageloadoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

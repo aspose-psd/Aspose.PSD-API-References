@@ -1,27 +1,28 @@
 ---
-title: MixrResource.Version
-second_title: Aspose.PSD untuk Referensi .NET API
-description: MixrResource Properti. Mendapatkan atau menyetel versi.
+title: "MixrResource.Version"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti MixrResource. Mendapatkan atau mengatur versi"
 type: docs
-weight: 60
+weight: 40
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources/mixrresource/version/
 ---
+{{< psd/tize >}}
 ## MixrResource.Version property
 
-Mendapatkan atau menyetel versi.
+Mendapatkan atau mengatur versi.
 
 ```csharp
 public short Version { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
 Versi. Nilai default adalah 1
 
-### Lihat juga
+### Lihat Juga
 
 * class [MixrResource](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../mixrresource/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

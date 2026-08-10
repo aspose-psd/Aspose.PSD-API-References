@@ -1,23 +1,24 @@
 ---
-title: ITextStyle.BaselineShift
-second_title: Aspose.PSD untuk Referensi .NET API
-description: ITextStyle Properti. Pergeseran garis dasar.
+title: "ITextStyle.BaselineShift"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti ITextStyle. Pergeseran baseline"
 type: docs
 weight: 30
 url: /id/net/aspose.psd.fileformats.psd.layers.text/itextstyle/baselineshift/
 ---
+{{< psd/tize >}}
 ## ITextStyle.BaselineShift property
 
-Pergeseran garis dasar.
+Perpindahan baseline.
 
 ```csharp
 public double BaselineShift { get; set; }
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * interface [ITextStyle](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.Text](../../itextstyle/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.Text](../../../aspose.psd.fileformats.psd.layers.text/)
+* assembly [Aspose.PSD](../../../)
 
 

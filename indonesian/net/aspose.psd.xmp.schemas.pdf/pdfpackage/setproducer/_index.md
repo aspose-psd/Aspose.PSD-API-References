@@ -1,27 +1,28 @@
 ---
-title: PdfPackage.SetProducer
-second_title: Aspose.PSD untuk Referensi .NET API
-description: PdfPackage metode. Menetapkan nama alat yang membuat Pdf.
+title: "PdfPackage.SetProducer"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode PdfPackage. Mengatur nama alat yang membuat Pdf"
 type: docs
 weight: 50
 url: /id/net/aspose.psd.xmp.schemas.pdf/pdfpackage/setproducer/
 ---
+{{< psd/tize >}}
 ## PdfPackage.SetProducer method
 
-Menetapkan nama alat yang membuat Pdf.
+Mengatur nama alat yang membuat Pdf.
 
 ```csharp
 public void SetProducer(string producer)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| producer | String | Nama produser. |
+| produsen | String | Nama produsen. |
 
-### Lihat juga
+### Lihat Juga
 
 * class [PdfPackage](../)
-* ruang nama [Aspose.PSD.Xmp.Schemas.Pdf](../../pdfpackage/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.Pdf](../../../aspose.psd.xmp.schemas.pdf/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: IGradientFillSettings.GradientName
-second_title: Aspose.PSD untuk Referensi .NET API
-description: IGradientFillSettings Properti. Mendapat atau menetapkan nama gradien.
+title: "IGradientFillSettings.GradientName"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti IGradientFillSettings. Mendapatkan atau mengatur nama gradien"
 type: docs
-weight: 60
+weight: 50
 url: /id/net/aspose.psd.fileformats.psd.layers.fillsettings/igradientfillsettings/gradientname/
 ---
+{{< psd/tize >}}
 ## IGradientFillSettings.GradientName property
 
-Mendapat atau menetapkan nama gradien.
+Mendapatkan atau mengatur nama gradien.
 
 ```csharp
 public string GradientName { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
 Nama gradien.
 
-### Lihat juga
+### Lihat Juga
 
 * interface [IGradientFillSettings](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../igradientfillsettings/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../../)
 
 

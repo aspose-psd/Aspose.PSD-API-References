@@ -1,11 +1,12 @@
 ---
-title: Interface IPartialArgb64PixelLoader
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Aspose.PSD.IPartialArgb64PixelLoader antarmuka. Pemuat piksel ARGB 64bit.
+title: "Interface IPartialArgb64PixelLoader"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Interface Aspose.PSD.IPartialArgb64PixelLoader. Pemuat piksel ARGB 64-bit."
 type: docs
-weight: 4520
+weight: 4990
 url: /id/net/aspose.psd/ipartialargb64pixelloader/
 ---
+{{< psd/tize >}}
 ## IPartialArgb64PixelLoader interface
 
 Pemuat piksel ARGB 64-bit.
@@ -16,14 +17,14 @@ public interface IPartialArgb64PixelLoader : IPartialArgb32PixelLoader
 
 ## Metode
 
-| Nama | Keterangan |
+| Nama | Deskripsi |
 | --- | --- |
 | [Process64](../../aspose.psd/ipartialargb64pixelloader/process64/)(Rectangle, long[], Point, Point) | Memproses piksel yang dimuat. |
 
-### Lihat juga
+### Lihat Juga
 
 * interface [IPartialArgb32PixelLoader](../ipartialargb32pixelloader/)
-* ruang nama [Aspose.PSD](../../aspose.psd/)
-* perakitan [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

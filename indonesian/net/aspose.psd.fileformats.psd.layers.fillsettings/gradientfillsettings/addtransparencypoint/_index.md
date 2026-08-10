@@ -1,11 +1,12 @@
 ---
-title: GradientFillSettings.AddTransparencyPoint
-second_title: Aspose.PSD untuk Referensi .NET API
-description: GradientFillSettings metode. Menambahkan titik warna.
+title: "GradientFillSettings.AddTransparencyPoint"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode GradientFillSettings. Menambahkan titik warna"
 type: docs
-weight: 160
+weight: 70
 url: /id/net/aspose.psd.fileformats.psd.layers.fillsettings/gradientfillsettings/addtransparencypoint/
 ---
+{{< psd/tize >}}
 ## GradientFillSettings.AddTransparencyPoint method
 
 Menambahkan titik warna.
@@ -14,15 +15,15 @@ Menambahkan titik warna.
 public GradientTransparencyPoint AddTransparencyPoint()
 ```
 
-### Nilai Pengembalian
+### Nilai Kembalian
 
-Dibuat titik transparansi
+Titik transparansi dibuat
 
-### Lihat juga
+### Lihat Juga
 
 * class [GradientTransparencyPoint](../../gradienttransparencypoint/)
 * class [GradientFillSettings](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../gradientfillsettings/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: GradientFillSettings.Angle
-second_title: Aspose.PSD untuk Referensi .NET API
-description: GradientFillSettings Properti. Mendapatkan atau mengatur sudut.
+title: "GradientFillSettings.Angle"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti GradientFillSettings. Mendapatkan atau mengatur sudut"
 type: docs
 weight: 30
 url: /id/net/aspose.psd.fileformats.psd.layers.fillsettings/gradientfillsettings/angle/
 ---
+{{< psd/tize >}}
 ## GradientFillSettings.Angle property
 
 Mendapatkan atau mengatur sudut.
@@ -14,7 +15,7 @@ Mendapatkan atau mengatur sudut.
 public double Angle { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
 Sudut.
 
@@ -22,12 +23,12 @@ Sudut.
 
 | pengecualian | kondisi |
 | --- | --- |
-| [PsdImageArgumentException](../../../aspose.psd.coreexceptions.imageformats/psdimageargumentexception/) | Sudut harus dalam rentang dari -180,0 hingga 180,0 |
+| [PsdImageArgumentException](../../../aspose.psd.coreexceptions.imageformats/psdimageargumentexception/) | Sudut harus berada dalam rentang dari -180.0 hingga 180.0 |
 
-### Lihat juga
+### Lihat Juga
 
 * class [GradientFillSettings](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../gradientfillsettings/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../../)
 
 

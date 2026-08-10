@@ -1,23 +1,24 @@
 ---
-title: SmartObjectProvider.UpdateAllModifiedContent
-second_title: Aspose.PSD untuk Referensi .NET API
-description: SmartObjectProvider metode. Memperbarui konten semua objek pintar yang dimodifikasi pada gambar.
+title: "SmartObjectProvider.UpdateAllModifiedContent"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode SmartObjectProvider. Memperbarui konten semua smart object yang dimodifikasi dalam gambar"
 type: docs
 weight: 40
 url: /id/net/aspose.psd.fileformats.psd/smartobjectprovider/updateallmodifiedcontent/
 ---
+{{< psd/tize >}}
 ## SmartObjectProvider.UpdateAllModifiedContent method
 
-Memperbarui konten semua objek pintar yang dimodifikasi pada gambar.
+Memperbarui konten semua objek pintar yang dimodifikasi dalam gambar.
 
 ```csharp
 public void UpdateAllModifiedContent()
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [SmartObjectProvider](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd](../../smartobjectprovider/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,28 +1,29 @@
 ---
-title: PsdImage.XmpData
-second_title: Aspose.PSD untuk Referensi .NET API
-description: PsdImage Properti. Mendapat atau menyetel metadata XMP.
+title: "PsdImage.XmpData"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti PsdImage. Mendapatkan atau mengatur metadata XMP"
 type: docs
-weight: 280
+weight: 290
 url: /id/net/aspose.psd.fileformats.psd/psdimage/xmpdata/
 ---
+{{< psd/tize >}}
 ## PsdImage.XmpData property
 
-Mendapat atau menyetel metadata XMP.
+Mendapatkan atau mengatur metadata XMP.
 
 ```csharp
 public override XmpPacketWrapper XmpData { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
 Metadata XMP.
 
-### Lihat juga
+### Lihat Juga
 
 * class [XmpPacketWrapper](../../../aspose.psd.xmp/xmppacketwrapper/)
 * class [PsdImage](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,28 +1,29 @@
 ---
-title: TiffStreamWriter.WriteSRationalArray
-second_title: Aspose.PSD untuk Referensi .NET API
-description: TiffStreamWriter metode. Menulis larik nilai rasional bertanda ke aliran.
+title: "TiffStreamWriter.WriteSRationalArray"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode TiffStreamWriter. Menulis sebuah array nilai rasional bertanda ke aliran"
 type: docs
 weight: 160
 url: /id/net/aspose.psd.fileformats.tiff.filemanagement/tiffstreamwriter/writesrationalarray/
 ---
+{{< psd/tize >}}
 ## TiffStreamWriter.WriteSRationalArray method
 
-Menulis larik nilai rasional bertanda ke aliran.
+Menulis sebuah array nilai rasional bertanda ke aliran.
 
 ```csharp
 public void WriteSRationalArray(TiffSRational[] data)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| data | TiffSRational[] | Array untuk menulis. |
+| data | TiffSRational[] | Array yang akan ditulis. |
 
-### Lihat juga
+### Lihat Juga
 
 * class [TiffSRational](../../../aspose.psd.fileformats.tiff/tiffsrational/)
 * class [TiffStreamWriter](../)
-* ruang nama [Aspose.PSD.FileFormats.Tiff.FileManagement](../../tiffstreamwriter/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff.FileManagement](../../../aspose.psd.fileformats.tiff.filemanagement/)
+* assembly [Aspose.PSD](../../../)
 
 

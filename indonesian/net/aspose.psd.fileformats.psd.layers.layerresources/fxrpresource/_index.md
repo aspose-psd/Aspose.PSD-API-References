@@ -1,14 +1,15 @@
 ---
-title: Class FxrpResource
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.FxrpResource kelas. Kelas FxrpResource. Titik referensi layer
+title: "Kelas FxrpResource"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Aspose.PSD.FileFormats.Psd.Layers.LayerResources.FxrpResource class. Kelas FxrpResource. Titik referensi lapisan"
 type: docs
-weight: 2490
+weight: 2750
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources/fxrpresource/
 ---
+{{< psd/tize >}}
 ## FxrpResource class
 
-Kelas FxrpResource. Titik referensi layer
+Kelas FxrpResource. Titik referensi lapisan.
 
 ```csharp
 public class FxrpResource : LayerResource
@@ -16,40 +17,40 @@ public class FxrpResource : LayerResource
 
 ## Konstruktor
 
-| Nama | Keterangan |
+| Nama | Deskripsi |
 | --- | --- |
-| [FxrpResource](fxrpresource/#constructor)() | Menginisialisasi instance baru dari`FxrpResource` kelas. |
-| [FxrpResource](fxrpresource/#constructor_1)(byte[]) | Menginisialisasi instance baru dari`FxrpResource` class. Dengan nilai khusus atau tidak diketahui |
-| [FxrpResource](fxrpresource/#constructor_2)(double, double) | Menginisialisasi instance baru dari`FxrpResource` kelas. |
+| [FxrpResource](fxrpresource/#constructor)() | Menginisialisasi instance baru dari kelas `FxrpResource`. |
+| [FxrpResource](fxrpresource/#constructor_1)(byte[]) | Menginisialisasi instance baru dari kelas `FxrpResource`. Dengan nilai khusus atau tidak diketahui |
+| [FxrpResource](fxrpresource/#constructor_2)(double, double) | Menginisialisasi instance baru dari kelas `FxrpResource`. |
 
 ## Properti
 
-| Nama | Keterangan |
+| Nama | Deskripsi |
 | --- | --- |
-| override [Key](../../aspose.psd.fileformats.psd.layers.layerresources/fxrpresource/key/) { get; } | Mendapat kunci sumber daya lapisan. |
+| [Key](../../aspose.psd.fileformats.psd.layers/layerresource/key/) { get; } | Mendapatkan kunci sumber daya lapisan. |
 | override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/fxrpresource/length/) { get; } | Mendapatkan panjang sumber daya lapisan dalam byte. |
-| override [PsdVersion](../../aspose.psd.fileformats.psd.layers.layerresources/fxrpresource/psdversion/) { get; } | Mendapatkan versi psd. |
-| override [Signature](../../aspose.psd.fileformats.psd.layers.layerresources/fxrpresource/signature/) { get; } | Mendapat tanda tangan. |
-| [X](../../aspose.psd.fileformats.psd.layers.layerresources/fxrpresource/x/) { get; set; } | Mendapat atau menetapkan x titik referensi |
-| [Y](../../aspose.psd.fileformats.psd.layers.layerresources/fxrpresource/y/) { get; set; } | Mendapat atau menetapkan y dari titik referensi |
+| virtual [PsdVersion](../../aspose.psd.fileformats.psd.layers/layerresource/psdversion/) { get; } | Mendapatkan versi psd minimal yang diperlukan untuk sumber daya lapisan. 0 menunjukkan tidak ada batasan. |
+| virtual [Signature](../../aspose.psd.fileformats.psd.layers/layerresource/signature/) { get; } | Mendapatkan tanda tangan. |
+| [X](../../aspose.psd.fileformats.psd.layers.layerresources/fxrpresource/x/) { get; set; } | Mendapatkan atau mengatur x dari titik referensi |
+| [Y](../../aspose.psd.fileformats.psd.layers.layerresources/fxrpresource/y/) { get; set; } | Mendapatkan atau mengatur y dari titik referensi |
 
 ## Metode
 
-| Nama | Keterangan |
+| Nama | Deskripsi |
 | --- | --- |
-| override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/fxrpresource/save/)(StreamContainer, int) | Menyimpan ke wadah aliran yang ditentukan. |
-| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring/)() | Mengembalikan aString yang mewakili instance ini. |
+| override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/fxrpresource/save/)(StreamContainer, int) | Menyimpan ke kontainer aliran yang ditentukan. |
+| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring/)() | Mengembalikan String yang mewakili instance ini. |
 
 ## Bidang
 
-| Nama | Keterangan |
+| Nama | Deskripsi |
 | --- | --- |
-| const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/fxrpresource/typetoolkey/) | Kunci info alat ketik. |
+| const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/fxrpresource/typetoolkey/) | Kunci info alat tipe. |
 
-### Lihat juga
+### Lihat Juga
 
 * class [LayerResource](../../aspose.psd.fileformats.psd.layers/layerresource/)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
-* perakitan [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../)
 
 

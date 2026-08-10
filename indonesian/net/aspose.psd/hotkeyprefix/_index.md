@@ -1,14 +1,15 @@
 ---
-title: Enum HotkeyPrefix
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Aspose.PSD.HotkeyPrefix enum. Menentukan jenis tampilan untuk prefiks hotkey yang berhubungan dengan teks.
+title: "Enum HotkeyPrefix"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Enum Aspose.PSD.HotkeyPrefix. Menentukan jenis tampilan untuk awalan hotkey yang terkait dengan teks"
 type: docs
-weight: 4350
+weight: 4820
 url: /id/net/aspose.psd/hotkeyprefix/
 ---
+{{< psd/tize >}}
 ## HotkeyPrefix enumeration
 
-Menentukan jenis tampilan untuk prefiks hot-key yang berhubungan dengan teks.
+Menentukan jenis tampilan untuk prefiks hot-key yang terkait dengan teks.
 
 ```csharp
 public enum HotkeyPrefix
@@ -16,15 +17,15 @@ public enum HotkeyPrefix
 
 ### Nilai
 
-| Nama | Nilai | Keterangan |
+| Nama | Nilai | Deskripsi |
 | --- | --- | --- |
 | None | `0` | Tidak ada awalan hot-key. |
-| Show | `1` | Menampilkan awalan hot-key. |
+| Show | `1` | Tampilkan awalan hot-key. |
 | Hide | `2` | Jangan tampilkan awalan hot-key. |
 
-### Lihat juga
+### Lihat Juga
 
-* ruang nama [Aspose.PSD](../../aspose.psd/)
-* perakitan [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

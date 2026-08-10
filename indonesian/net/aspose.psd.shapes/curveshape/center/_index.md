@@ -1,11 +1,12 @@
 ---
-title: CurveShape.Center
-second_title: Aspose.PSD untuk Referensi .NET API
-description: CurveShape Properti. Mendapatkan pusat bentuk.
+title: "CurveShape.Center"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti CurveShape. Mendapatkan pusat bentuk"
 type: docs
 weight: 30
 url: /id/net/aspose.psd.shapes/curveshape/center/
 ---
+{{< psd/tize >}}
 ## CurveShape.Center property
 
 Mendapatkan pusat bentuk.
@@ -14,15 +15,15 @@ Mendapatkan pusat bentuk.
 public override PointF Center { get; }
 ```
 
-### Nilai properti
+### Property Value
 
-Pusat bentuknya.
+Pusat bentuk.
 
-### Lihat juga
+### Lihat Juga
 
 * struct [PointF](../../../aspose.psd/pointf/)
 * class [CurveShape](../)
-* ruang nama [Aspose.PSD.Shapes](../../curveshape/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 

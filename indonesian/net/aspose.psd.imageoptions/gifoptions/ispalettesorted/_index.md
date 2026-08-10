@@ -1,27 +1,28 @@
 ---
-title: GifOptions.IsPaletteSorted
-second_title: Aspose.PSD untuk Referensi .NET API
-description: GifOptions Properti. Mendapat atau menetapkan nilai yang menunjukkan apakah entri palet diurutkan.
+title: "GifOptions.IsPaletteSorted"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti GifOptions. Mendapatkan atau mengatur nilai yang menunjukkan apakah entri palet diurutkan"
 type: docs
 weight: 70
 url: /id/net/aspose.psd.imageoptions/gifoptions/ispalettesorted/
 ---
+{{< psd/tize >}}
 ## GifOptions.IsPaletteSorted property
 
-Mendapat atau menetapkan nilai yang menunjukkan apakah entri palet diurutkan.
+Mendapatkan atau mengatur nilai yang menunjukkan apakah entri palet diurutkan.
 
 ```csharp
 public bool IsPaletteSorted { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
-`BENAR` jika entri palet diurutkan; jika tidak,`PALSU` .
+`true` jika entri palet diurutkan; jika tidak, `false`.
 
-### Lihat juga
+### Lihat Juga
 
 * class [GifOptions](../)
-* ruang nama [Aspose.PSD.ImageOptions](../../gifoptions/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

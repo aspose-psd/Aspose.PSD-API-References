@@ -1,11 +1,12 @@
 ---
-title: PattResourceData.PattResourceData
-second_title: Aspose.PSD untuk Referensi .NET API
-description: PattResourceData konstruktor. Konstruktor default.
+title: "PattResourceData.PattResourceData"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Konstruktor PattResourceData. Konstruktor default."
 type: docs
 weight: 10
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources/pattresourcedata/pattresourcedata/
 ---
+{{< psd/tize >}}
 ## PattResourceData constructor
 
 Konstruktor default.
@@ -14,10 +15,10 @@ Konstruktor default.
 public PattResourceData()
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [PattResourceData](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../pattresourcedata/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,28 +1,29 @@
 ---
-title: GdFlResource.ColorPoints
-second_title: Aspose.PSD untuk Referensi .NET API
-description: GdFlResource Properti. Mendapat poin warna.
+title: "GdFlResource.ColorPoints"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti GdFlResource. Mendapatkan titik warna"
 type: docs
-weight: 50
+weight: 60
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources/gdflresource/colorpoints/
 ---
+{{< psd/tize >}}
 ## GdFlResource.ColorPoints property
 
-Mendapat poin warna.
+Mendapatkan titik warna.
 
 ```csharp
 public IGradientColorPoint[] ColorPoints { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
 Titik warna.
 
-### Lihat juga
+### Lihat Juga
 
 * interface [IGradientColorPoint](../../../aspose.psd.fileformats.psd.layers/igradientcolorpoint/)
 * class [GdFlResource](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../gdflresource/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

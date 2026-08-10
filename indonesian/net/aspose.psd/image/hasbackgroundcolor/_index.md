@@ -1,23 +1,24 @@
 ---
-title: Image.HasBackgroundColor
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Image Properti. Mendapat atau menetapkan nilai yang menunjukkan apakah gambar memiliki warna latar belakang.
+title: "Image.HasBackgroundColor"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti Image. Mengambil atau mengatur nilai yang menunjukkan apakah gambar memiliki warna latar belakang"
 type: docs
 weight: 100
 url: /id/net/aspose.psd/image/hasbackgroundcolor/
 ---
+{{< psd/tize >}}
 ## Image.HasBackgroundColor property
 
-Mendapat atau menetapkan nilai yang menunjukkan apakah gambar memiliki warna latar belakang.
+Mendapatkan atau mengatur nilai yang menunjukkan apakah gambar memiliki warna latar belakang.
 
 ```csharp
 public virtual bool HasBackgroundColor { get; set; }
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [Image](../)
-* ruang nama [Aspose.PSD](../../image/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

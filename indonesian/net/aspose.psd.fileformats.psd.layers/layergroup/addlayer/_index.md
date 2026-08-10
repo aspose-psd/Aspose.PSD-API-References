@@ -1,26 +1,27 @@
 ---
-title: LayerGroup.AddLayer
-second_title: Aspose.PSD untuk Referensi .NET API
-description: LayerGroup metode. Menambahkan layer ke grup layer.
+title: "LayerGroup.AddLayer"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode LayerGroup. Menambahkan lapisan ke grup lapisan"
 type: docs
 weight: 60
 url: /id/net/aspose.psd.fileformats.psd.layers/layergroup/addlayer/
 ---
+{{< psd/tize >}}
 ## LayerGroup.AddLayer method
 
-Menambahkan layer ke grup layer.
+Menambahkan lapisan ke grup lapisan.
 
 ```csharp
 public void AddLayer(Layer layer)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| layer | Layer | Lapisan. |
+| lapisan | Lapisan | Lapisan. |
 
-### Contoh
+## Contoh
 
-Contoh berikut menunjukkan bagaimana Anda dapat menambahkan gambar Bmp, Jpeg, Jpeg2000, Png, Psd, Tiff, Gif sebagai layer ke PsdImage
+Contoh berikut menunjukkan cara Anda dapat menambahkan gambar Bmp, Jpeg, Jpeg2000, Png, Psd, Tiff, Gif sebagai lapisan ke PsdImage
 
 ```csharp
 [C#]
@@ -67,11 +68,11 @@ using (var image = new PsdImage(200, 200))
 }
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [Layer](../../layer/)
 * class [LayerGroup](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers](../../layergroup/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

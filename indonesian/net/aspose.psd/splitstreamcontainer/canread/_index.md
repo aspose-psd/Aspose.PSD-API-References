@@ -1,27 +1,28 @@
 ---
-title: SplitStreamContainer.CanRead
-second_title: Aspose.PSD untuk Referensi .NET API
-description: SplitStreamContainer Properti. Mendapat nilai yang menunjukkan apakah aliran mendukung membaca.
+title: "SplitStreamContainer.CanRead"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "SplitStreamContainer property. Mendapatkan nilai yang menunjukkan apakah aliran mendukung pembacaan"
 type: docs
 weight: 20
 url: /id/net/aspose.psd/splitstreamcontainer/canread/
 ---
+{{< psd/tize >}}
 ## SplitStreamContainer.CanRead property
 
-Mendapat nilai yang menunjukkan apakah aliran mendukung membaca.
+Mendapatkan nilai yang menunjukkan apakah aliran mendukung pembacaan.
 
 ```csharp
 public override bool CanRead { get; }
 ```
 
-### Nilai properti
+### Property Value
 
-`BENAR` jika aliran mendukung membaca; jika tidak,`PALSU`.
+`true` jika aliran mendukung pembacaan; sebaliknya, `false`.
 
-### Lihat juga
+### Lihat Juga
 
 * class [SplitStreamContainer](../)
-* ruang nama [Aspose.PSD](../../splitstreamcontainer/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

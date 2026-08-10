@@ -1,20 +1,21 @@
 ---
-title: MlstResource.Items
-second_title: Aspose.PSD untuk Referensi .NET API
-description: MlstResource Properti. Mendapat atau mengatur struktur.
+title: "MlstResource.Items"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "MlstResource properti. Mendapatkan atau mengatur struktur"
 type: docs
 weight: 30
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources/mlstresource/items/
 ---
+{{< psd/tize >}}
 ## MlstResource.Items property
 
-Mendapat atau mengatur struktur.
+Mendapatkan atau mengatur struktur.
 
 ```csharp
 public OSTypeStructure[] Items { get; }
 ```
 
-### Contoh
+## Contoh
 
 Kode berikut menunjukkan dukungan sumber daya MlstResource yang memberikan mekanisme tingkat rendah untuk memanipulasi status lapisan.
 
@@ -34,18 +35,18 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFile))
     DescriptorStructure layersStateOnFrame1 = (DescriptorStructure)layerStatesList.Types[1];
     BooleanStructure layerEnabled = (BooleanStructure)layersStateOnFrame1.Structures[0];
 
-    // Nonaktifkan layer 1 pada frame 1
+    // Nonaktifkan lapisan 1 pada frame 1
     layerEnabled.Value = false;
 
     image.Save(outputPsd);
 }
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [OSTypeStructure](../../ostypestructure/)
 * class [MlstResource](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../mlstresource/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

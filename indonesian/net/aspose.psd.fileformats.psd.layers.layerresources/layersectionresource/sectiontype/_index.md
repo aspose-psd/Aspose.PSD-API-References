@@ -1,24 +1,25 @@
 ---
-title: LayerSectionResource.SectionType
-second_title: Aspose.PSD untuk Referensi .NET API
-description: LayerSectionResource Properti. Mendapat atau menyetel jenis bagian.
+title: "LayerSectionResource.SectionType"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "LayerSectionResource property. Mendapatkan atau mengatur tipe bagian"
 type: docs
-weight: 60
+weight: 40
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources/layersectionresource/sectiontype/
 ---
+{{< psd/tize >}}
 ## LayerSectionResource.SectionType property
 
-Mendapat atau menyetel jenis bagian.
+Mendapatkan atau mengatur tipe bagian.
 
 ```csharp
 public LayerSectionType SectionType { get; set; }
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * enum [LayerSectionType](../../layersectiontype/)
 * class [LayerSectionResource](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../layersectionresource/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

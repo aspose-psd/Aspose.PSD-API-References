@@ -1,24 +1,25 @@
 ---
-title: ColorBalanceAdjustmentLayer.PreserveLuminosity
-second_title: Aspose.PSD untuk Referensi .NET API
-description: ColorBalanceAdjustmentLayer Properti. Mendapat atau menetapkan nilai yang menunjukkan apakah iniBlncResource mempertahankan luminositas.
+title: "ColorBalanceAdjustmentLayer.PreserveLuminosity"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti ColorBalanceAdjustmentLayer. Mendapatkan atau mengatur nilai yang menunjukkan apakah BlncResource ini mempertahankan luminositas"
 type: docs
 weight: 70
 url: /id/net/aspose.psd.fileformats.psd.layers.adjustmentlayers/colorbalanceadjustmentlayer/preserveluminosity/
 ---
+{{< psd/tize >}}
 ## ColorBalanceAdjustmentLayer.PreserveLuminosity property
 
-Mendapat atau menetapkan nilai yang menunjukkan apakah ini[`BlncResource`](../../../aspose.psd.fileformats.psd.layers.layerresources/blncresource/) mempertahankan luminositas.
+Mendapatkan atau mengatur nilai yang menunjukkan apakah [`BlncResource`](../../../aspose.psd.fileformats.psd.layers.layerresources/blncresource/) ini mempertahankan luminositas.
 
 ```csharp
 public bool PreserveLuminosity { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
-`BENAR` jika mempertahankan luminositas; jika tidak,`PALSU` .
+`true` jika mempertahankan luminositas; jika tidak, `false`.
 
-### Contoh
+## Contoh
 
 Kode berikut menunjukkan dukungan untuk ColorBalanceAdjustmentLayer.
 
@@ -51,10 +52,10 @@ using (var im = (PsdImage)Image.Load(filePath))
 }
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [ColorBalanceAdjustmentLayer](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../colorbalanceadjustmentlayer/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/)
+* assembly [Aspose.PSD](../../../)
 
 

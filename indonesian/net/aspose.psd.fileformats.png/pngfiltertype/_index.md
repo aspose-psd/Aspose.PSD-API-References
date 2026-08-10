@@ -1,14 +1,15 @@
 ---
-title: Enum PngFilterType
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Aspose.PSD.FileFormats.Png.PngFilterType enum. Jenis filter png.
+title: "Enum PngFilterType"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Aspose.PSD.FileFormats.Png.PngFilterType enum. Tipe filter png"
 type: docs
-weight: 1590
+weight: 1600
 url: /id/net/aspose.psd.fileformats.png/pngfiltertype/
 ---
+{{< psd/tize >}}
 ## PngFilterType enumeration
 
-Jenis filter png.
+Tipe filter png.
 
 ```csharp
 public enum PngFilterType
@@ -16,18 +17,18 @@ public enum PngFilterType
 
 ### Nilai
 
-| Nama | Nilai | Keterangan |
+| Nama | Nilai | Deskripsi |
 | --- | --- | --- |
-| None | `0` | Filter nol, artinya tidak ada pemfilteran untuk baris data gambar. |
-| Sub | `1` | Sub filter, artinya pemfilteran substraktif akan diterapkan ke data gambar. |
-| Up | `2` | Filter naik, berarti filter pengurangan baris demi baris akan diterapkan. |
-| Avg | `3` | Filter rata-rata, artinya filter rata-rata akan diterapkan pada data gambar. |
-| Paeth | `4` | Filter prediktor paeth. |
-| Adaptive | `5` | Adaptive filtering, artinya proses penyimpanan akan memilih filter yang paling sesuai untuk setiap baris data. Kompresi terbaik, waktu eksekusi paling lambat. |
+| None | `0` | null-filter, berarti tidak ada penyaringan untuk baris data gambar. |
+| Sub | `1` | sub filter, berarti penyaringan substraktif akan diterapkan pada data gambar. |
+| Up | `2` | up filter, berarti filter pengurangan baris-demi-baris akan diterapkan. |
+| Avg | `3` | avg filter, berarti, bahwa filter rata-rata akan diterapkan pada data gambar. |
+| Paeth | `4` | paeth predictor filter. |
+| Adaptive | `5` | Penyaringan adaptif, berarti proses penyimpanan akan memilih filter paling cocok untuk setiap baris data. Kompresi terbaik, waktu eksekusi paling lambat. |
 
-### Lihat juga
+### Lihat Juga
 
-* ruang nama [Aspose.PSD.FileFormats.Png](../../aspose.psd.fileformats.png/)
-* perakitan [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Png](../../aspose.psd.fileformats.png/)
+* assembly [Aspose.PSD](../../)
 
 

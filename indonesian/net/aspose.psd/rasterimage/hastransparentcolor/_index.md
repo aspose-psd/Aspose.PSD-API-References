@@ -1,23 +1,24 @@
 ---
-title: RasterImage.HasTransparentColor
-second_title: Aspose.PSD untuk Referensi .NET API
-description: RasterImage Properti. Mendapat nilai yang menunjukkan apakah gambar berwarna transparan.
+title: "RasterImage.HasTransparentColor"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti RasterImage. Mendapatkan nilai yang menunjukkan apakah gambar memiliki warna transparan."
 type: docs
 weight: 20
 url: /id/net/aspose.psd/rasterimage/hastransparentcolor/
 ---
+{{< psd/tize >}}
 ## RasterImage.HasTransparentColor property
 
-Mendapat nilai yang menunjukkan apakah gambar berwarna transparan.
+Mendapatkan nilai yang menunjukkan apakah gambar memiliki warna transparan.
 
 ```csharp
 public virtual bool HasTransparentColor { get; set; }
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [RasterImage](../)
-* ruang nama [Aspose.PSD](../../rasterimage/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

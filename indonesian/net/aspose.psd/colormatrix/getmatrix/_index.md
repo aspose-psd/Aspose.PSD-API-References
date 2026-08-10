@@ -1,27 +1,28 @@
 ---
-title: ColorMatrix.GetMatrix
-second_title: Aspose.PSD untuk Referensi .NET API
-description: ColorMatrix metode. Mendapat nilai matriks.
+title: "ColorMatrix.GetMatrix"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode ColorMatrix. Mendapatkan nilai-nilai matriks"
 type: docs
 weight: 280
 url: /id/net/aspose.psd/colormatrix/getmatrix/
 ---
+{{< psd/tize >}}
 ## ColorMatrix.GetMatrix method
 
-Mendapat nilai matriks.
+Mendapatkan nilai-nilai matriks.
 
 ```csharp
 public float[][] GetMatrix()
 ```
 
-### Nilai Pengembalian
+### Nilai Kembalian
 
-Array nilai matriks.
+Array nilai-nilai matriks.
 
-### Lihat juga
+### Lihat Juga
 
 * class [ColorMatrix](../)
-* ruang nama [Aspose.PSD](../../colormatrix/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

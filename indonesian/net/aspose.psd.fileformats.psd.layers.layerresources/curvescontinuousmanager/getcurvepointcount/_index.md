@@ -1,31 +1,32 @@
 ---
-title: CurvesContinuousManager.GetCurvePointCount
-second_title: Aspose.PSD untuk Referensi .NET API
-description: CurvesContinuousManager metode. Mendapat hitungan titik kurva.
+title: "CurvesContinuousManager.GetCurvePointCount"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode CurvesContinuousManager. Mendapatkan jumlah titik kurva"
 type: docs
 weight: 40
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources/curvescontinuousmanager/getcurvepointcount/
 ---
+{{< psd/tize >}}
 ## CurvesContinuousManager.GetCurvePointCount method
 
-Mendapat hitungan titik kurva.
+Mendapatkan jumlah titik kurva.
 
 ```csharp
 public int GetCurvePointCount(int channelIndex)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
 | channelIndex | Int32 | Indeks saluran. |
 
-### Nilai Pengembalian
+### Nilai Kembalian
 
-Hitungan Curve Point di saluran
+Jumlah Titik Kurva dalam saluran
 
-### Lihat juga
+### Lihat Juga
 
 * class [CurvesContinuousManager](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../curvescontinuousmanager/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

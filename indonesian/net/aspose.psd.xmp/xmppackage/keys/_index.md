@@ -1,11 +1,12 @@
 ---
-title: XmpPackage.Keys
-second_title: Aspose.PSD untuk Referensi .NET API
-description: XmpPackage Properti. Mendapatkan kunci dalam paket XMP.
+title: "XmpPackage.Keys"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti XmpPackage. Mendapatkan kunci dalam paket XMP"
 type: docs
 weight: 20
 url: /id/net/aspose.psd.xmp/xmppackage/keys/
 ---
+{{< psd/tize >}}
 ## XmpPackage.Keys property
 
 Mendapatkan kunci dalam paket XMP.
@@ -14,14 +15,14 @@ Mendapatkan kunci dalam paket XMP.
 public virtual KeyCollection<string, object> Keys { get; }
 ```
 
-### Nilai properti
+### Property Value
 
 Kunci dalam paket XMP.
 
-### Lihat juga
+### Lihat Juga
 
 * class [XmpPackage](../)
-* ruang nama [Aspose.PSD.Xmp](../../xmppackage/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

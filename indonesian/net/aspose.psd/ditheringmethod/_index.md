@@ -1,11 +1,12 @@
 ---
-title: Enum DitheringMethod
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Aspose.PSD.DitheringMethod enum. Metode dithering.
+title: "Enum DitheringMethod"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Enum Aspose.PSD.DitheringMethod. Metode dithering"
 type: docs
-weight: 770
+weight: 780
 url: /id/net/aspose.psd/ditheringmethod/
 ---
+{{< psd/tize >}}
 ## DitheringMethod enumeration
 
 Metode dithering.
@@ -16,14 +17,14 @@ public enum DitheringMethod
 
 ### Nilai
 
-| Nama | Nilai | Keterangan |
+| Nama | Nilai | Deskripsi |
 | --- | --- | --- |
-| ThresholdDithering | `0` | Ambang batas dithering. Algoritma dithering paling sederhana dan tercepat. |
-| FloydSteinbergDithering | `1` | Dithering Floyd-Steinberg. Algoritme dithering yang lebih kompleks, menggunakan nilai intensitas tetangga terdekat. |
+| ThresholdDithering | `0` | Dithering ambang. Algoritma dithering paling sederhana dan tercepat. |
+| FloydSteinbergDithering | `1` | Dithering Floyd-Steinberg. Algoritma dithering yang lebih kompleks, menggunakan nilai intensitas tetangga terdekat. |
 
-### Lihat juga
+### Lihat Juga
 
-* ruang nama [Aspose.PSD](../../aspose.psd/)
-* perakitan [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

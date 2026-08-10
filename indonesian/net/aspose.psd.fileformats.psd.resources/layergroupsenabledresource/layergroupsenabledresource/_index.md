@@ -1,11 +1,12 @@
 ---
-title: LayerGroupsEnabledResource.LayerGroupsEnabledResource
-second_title: Aspose.PSD untuk Referensi .NET API
-description: LayerGroupsEnabledResource konstruktor. Konstruktor default.
+title: "LayerGroupsEnabledResource.LayerGroupsEnabledResource"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "LayerGroupsEnabledResource konstruktor. Konstruktor default"
 type: docs
 weight: 10
 url: /id/net/aspose.psd.fileformats.psd.resources/layergroupsenabledresource/layergroupsenabledresource/
 ---
+{{< psd/tize >}}
 ## LayerGroupsEnabledResource constructor
 
 Konstruktor default.
@@ -14,10 +15,10 @@ Konstruktor default.
 public LayerGroupsEnabledResource()
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [LayerGroupsEnabledResource](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Resources](../../layergroupsenabledresource/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

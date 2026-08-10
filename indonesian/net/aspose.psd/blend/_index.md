@@ -1,14 +1,15 @@
 ---
-title: Class Blend
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Aspose.PSD.Blend kelas. Mendefinisikan pola campuran. Kelas ini tidak dapat diwariskan.
+title: "Kelas Blend"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Kelas Aspose.PSD.Blend. Mendefinisikan pola blend. Kelas ini tidak dapat diwariskan"
 type: docs
 weight: 110
 url: /id/net/aspose.psd/blend/
 ---
+{{< psd/tize >}}
 ## Blend class
 
-Mendefinisikan pola campuran. Kelas ini tidak dapat diwariskan.
+Mendefinisikan pola pencampuran. Kelas ini tidak dapat diwariskan.
 
 ```csharp
 public sealed class Blend
@@ -16,32 +17,32 @@ public sealed class Blend
 
 ## Konstruktor
 
-| Nama | Keterangan |
+| Nama | Deskripsi |
 | --- | --- |
-| [Blend](blend/#constructor)() | Menginisialisasi instance baru dari`Blend` kelas. Jumlah elemen dalam array faktor dan campuran akan sama dengan 1. |
-| [Blend](blend/#constructor_1)(int) | Menginisialisasi instance baru dari`Blend` kelas dengan jumlah faktor dan posisi yang ditentukan. |
+| [Blend](blend/#constructor)() | Menginisialisasi instance baru dari kelas `Blend`. Jumlah elemen dalam array faktor dan blend akan sama dengan 1. |
+| [Blend](blend/#constructor_1)(int) | Menginisialisasi instance baru dari kelas `Blend` dengan jumlah faktor dan posisi yang ditentukan. |
 
 ## Properti
 
-| Nama | Keterangan |
+| Nama | Deskripsi |
 | --- | --- |
-| [Factors](../../aspose.psd/blend/factors/) { get; set; } | Mendapat atau mengatur array faktor campuran untuk gradien. |
-| [Positions](../../aspose.psd/blend/positions/) { get; set; } | Mendapat atau mengatur susunan posisi campuran untuk gradien. |
+| [Factors](../../aspose.psd/blend/factors/) { get; set; } | Mendapatkan atau mengatur array faktor blend untuk gradien. |
+| [Positions](../../aspose.psd/blend/positions/) { get; set; } | Mendapatkan atau mengatur array posisi blend untuk gradien. |
 
 ## Metode
 
-| Nama | Keterangan |
+| Nama | Deskripsi |
 | --- | --- |
-| override [Equals](../../aspose.psd/blend/equals/)(object) | Menguji apakah objek yang ditentukan adalah a`Blend` kelas dan setara dengan ini`Blend` kelas. |
+| override [Equals](../../aspose.psd/blend/equals/)(object) | Menguji apakah objek yang ditentukan adalah kelas `Blend` dan setara dengan kelas `Blend` ini. |
 | override [GetHashCode](../../aspose.psd/blend/gethashcode/)() | Mengembalikan kode hash untuk instance ini. |
 
-### Perkataan
+## Catatan
 
-Penggunaan kelas campuran yang umum adalah menentukan pola campuran untuk kuas. Dan dengan demikian properti campuran harus diinisialisasi dengan hati-hati. Null array tidak diperbolehkan. Kuas akan membuang pengecualian yang sesuai jika faktor campuran atau larik posisi kosong atau panjangnya tidak sama. Jika ada dua atau lebih elemen dalam larik posisi maka elemen pertama harus 0 dan yang terakhir harus 1.
+Penggunaan umum kelas blend adalah mendefinisikan pola blend untuk kuas. Oleh karena itu properti blend harus diinisialisasi dengan hati-hati. Array null tidak diizinkan. Kuas akan melempar pengecualian yang sesuai jika array faktor blend atau posisi kosong atau panjangnya tidak sama. Jika ada dua atau lebih elemen dalam array posisi, maka elemen pertama harus 0 dan yang terakhir harus 1.
 
-### Lihat juga
+### Lihat Juga
 
-* ruang nama [Aspose.PSD](../../aspose.psd/)
-* perakitan [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

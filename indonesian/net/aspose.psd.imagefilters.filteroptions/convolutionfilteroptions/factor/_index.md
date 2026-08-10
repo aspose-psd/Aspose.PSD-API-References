@@ -1,27 +1,28 @@
 ---
-title: ConvolutionFilterOptions.Factor
-second_title: Aspose.PSD untuk Referensi .NET API
-description: ConvolutionFilterOptions Properti. Mendapatkan atau menyetel faktor.
+title: "ConvolutionFilterOptions.Factor"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti ConvolutionFilterOptions. Mendapatkan atau mengatur faktor"
 type: docs
 weight: 30
 url: /id/net/aspose.psd.imagefilters.filteroptions/convolutionfilteroptions/factor/
 ---
+{{< psd/tize >}}
 ## ConvolutionFilterOptions.Factor property
 
-Mendapatkan atau menyetel faktor.
+Mendapatkan atau mengatur faktor.
 
 ```csharp
 public double Factor { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
 Faktor.
 
-### Lihat juga
+### Lihat Juga
 
 * class [ConvolutionFilterOptions](../)
-* ruang nama [Aspose.PSD.ImageFilters.FilterOptions](../../convolutionfilteroptions/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageFilters.FilterOptions](../../../aspose.psd.imagefilters.filteroptions/)
+* assembly [Aspose.PSD](../../../)
 
 

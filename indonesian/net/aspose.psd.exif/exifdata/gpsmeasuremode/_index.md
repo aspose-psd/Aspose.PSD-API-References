@@ -1,27 +1,28 @@
 ---
-title: ExifData.GPSMeasureMode
-second_title: Aspose.PSD untuk Referensi .NET API
-description: ExifData Properti. Mendapatkan atau menyetel mode pengukuran GPS.
+title: "ExifData.GPSMeasureMode"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti ExifData. Mendapatkan atau mengatur mode pengukuran GPS"
 type: docs
 weight: 570
 url: /id/net/aspose.psd.exif/exifdata/gpsmeasuremode/
 ---
+{{< psd/tize >}}
 ## ExifData.GPSMeasureMode property
 
-Mendapatkan atau menyetel mode pengukuran GPS.
+Mendapatkan atau mengatur mode pengukuran GPS.
 
 ```csharp
 public string GPSMeasureMode { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
 Mode pengukuran GPS.
 
-### Lihat juga
+### Lihat Juga
 
 * class [ExifData](../)
-* ruang nama [Aspose.PSD.Exif](../../exifdata/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

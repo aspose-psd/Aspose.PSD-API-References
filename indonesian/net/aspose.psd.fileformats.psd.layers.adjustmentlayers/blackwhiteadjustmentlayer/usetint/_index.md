@@ -1,24 +1,25 @@
 ---
-title: BlackWhiteAdjustmentLayer.UseTint
-second_title: Aspose.PSD untuk Referensi .NET API
-description: BlackWhiteAdjustmentLayer Properti. Mendapat atau menetapkan nilai yang menunjukkan apakah tint color digunakan.
+title: "BlackWhiteAdjustmentLayer.UseTint"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti BlackWhiteAdjustmentLayer. Mendapatkan atau mengatur nilai yang menunjukkan apakah warna tint digunakan."
 type: docs
 weight: 120
 url: /id/net/aspose.psd.fileformats.psd.layers.adjustmentlayers/blackwhiteadjustmentlayer/usetint/
 ---
+{{< psd/tize >}}
 ## BlackWhiteAdjustmentLayer.UseTint property
 
-Mendapat atau menetapkan nilai yang menunjukkan apakah [tint color] digunakan.
+Mendapatkan atau mengatur nilai yang menunjukkan apakah [tint color] digunakan.
 
 ```csharp
 public bool UseTint { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
-`BENAR` jika digunakan [warna tint]; jika tidak,`PALSU` .
+`true` jika digunakan [tint color]; jika tidak, `false`.
 
-### Contoh
+## Contoh
 
 Contoh berikut menunjukkan bagaimana Anda dapat memanipulasi properti lapisan penyesuaian hitam putih di Aspose.PSD
 
@@ -48,10 +49,10 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFileName))
 }
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [BlackWhiteAdjustmentLayer](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../blackwhiteadjustmentlayer/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/)
+* assembly [Aspose.PSD](../../../)
 
 

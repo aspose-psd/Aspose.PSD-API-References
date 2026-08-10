@@ -1,11 +1,12 @@
 ---
-title: XmpMediaManagementPackage.XmpMediaManagementPackage
-second_title: Aspose.PSD untuk Referensi .NET API
-description: XmpMediaManagementPackage konstruktor. Konstruktor default.
+title: "XmpMediaManagementPackage.XmpMediaManagementPackage"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "XmpMediaManagementPackage konstruktor. Konstruktor default"
 type: docs
 weight: 10
 url: /id/net/aspose.psd.xmp.schemas.xmpmm/xmpmediamanagementpackage/xmpmediamanagementpackage/
 ---
+{{< psd/tize >}}
 ## XmpMediaManagementPackage constructor
 
 Konstruktor default.
@@ -14,10 +15,10 @@ Konstruktor default.
 public XmpMediaManagementPackage()
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [XmpMediaManagementPackage](../)
-* ruang nama [Aspose.PSD.Xmp.Schemas.XmpMm](../../xmpmediamanagementpackage/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpMm](../../../aspose.psd.xmp.schemas.xmpmm/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: PattResourceData.Height
-second_title: Aspose.PSD untuk Referensi .NET API
-description: PattResourceData Properti. Mendapat ketinggian.
+title: "PattResourceData.Height"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti PattResourceData. Mendapatkan tinggi"
 type: docs
 weight: 20
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources/pattresourcedata/height/
 ---
+{{< psd/tize >}}
 ## PattResourceData.Height property
 
-Mendapat ketinggian.
+Mendapatkan tinggi.
 
 ```csharp
 public short Height { get; }
 ```
 
-### Nilai properti
+### Property Value
 
-Ketinggian.
+Tinggi.
 
-### Lihat juga
+### Lihat Juga
 
 * class [PattResourceData](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../pattresourcedata/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

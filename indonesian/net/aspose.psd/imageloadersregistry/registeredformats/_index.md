@@ -1,28 +1,29 @@
 ---
-title: ImageLoadersRegistry.RegisteredFormats
-second_title: Aspose.PSD untuk Referensi .NET API
-description: ImageLoadersRegistry Properti. Mendapat format pemuatan gambar terdaftar.
+title: "ImageLoadersRegistry.RegisteredFormats"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti ImageLoadersRegistry. Mendapatkan format pemuatan gambar yang terdaftar"
 type: docs
 weight: 20
 url: /id/net/aspose.psd/imageloadersregistry/registeredformats/
 ---
+{{< psd/tize >}}
 ## ImageLoadersRegistry.RegisteredFormats property
 
-Mendapat format pemuatan gambar terdaftar.
+Mendapatkan format pemuatan gambar yang terdaftar.
 
 ```csharp
 public static FileFormat RegisteredFormats { get; }
 ```
 
-### Nilai properti
+### Property Value
 
-Format pemuatan gambar terdaftar.
+Format pemuatan gambar yang terdaftar.
 
-### Lihat juga
+### Lihat Juga
 
 * enum [FileFormat](../../fileformat/)
 * class [ImageLoadersRegistry](../)
-* ruang nama [Aspose.PSD](../../imageloadersregistry/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

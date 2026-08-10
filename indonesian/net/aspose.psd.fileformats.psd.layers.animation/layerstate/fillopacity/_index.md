@@ -1,23 +1,24 @@
 ---
-title: LayerState.FillOpacity
-second_title: Aspose.PSD untuk Referensi .NET API
-description: LayerState Properti. Mendapat atau menyetel nilai opasitas isian.
+title: "LayerState.FillOpacity"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti LayerState. Mendapatkan atau mengatur nilai opacity isi"
 type: docs
 weight: 40
 url: /id/net/aspose.psd.fileformats.psd.layers.animation/layerstate/fillopacity/
 ---
+{{< psd/tize >}}
 ## LayerState.FillOpacity property
 
-Mendapat atau menyetel nilai opasitas isian.
+Mendapatkan atau mengatur nilai opacity isi.
 
 ```csharp
 public double FillOpacity { get; set; }
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [LayerState](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.Animation](../../layerstate/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.Animation](../../../aspose.psd.fileformats.psd.layers.animation/)
+* assembly [Aspose.PSD](../../../)
 
 

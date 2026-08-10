@@ -1,11 +1,12 @@
 ---
-title: PsdImage.DefaultVersion
-second_title: Aspose.PSD untuk Referensi .NET API
-description: PsdImage bidang. Versi PSD default.
+title: "PsdImage.DefaultVersion"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "PsdImage field. Versi PSD default"
 type: docs
-weight: 620
+weight: 690
 url: /id/net/aspose.psd.fileformats.psd/psdimage/defaultversion/
 ---
+{{< psd/tize >}}
 ## PsdImage.DefaultVersion field
 
 Versi PSD default.
@@ -14,10 +15,10 @@ Versi PSD default.
 public const int DefaultVersion;
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [PsdImage](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

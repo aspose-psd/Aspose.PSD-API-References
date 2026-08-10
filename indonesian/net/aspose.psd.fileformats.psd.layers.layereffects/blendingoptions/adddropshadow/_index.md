@@ -1,11 +1,12 @@
 ---
-title: BlendingOptions.AddDropShadow
-second_title: Aspose.PSD untuk Referensi .NET API
-description: BlendingOptions metode. Menambahkan efek bayangan jatuh.
+title: "BlendingOptions.AddDropShadow"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode BlendingOptions. Menambahkan efek bayangan jatuh"
 type: docs
-weight: 30
+weight: 40
 url: /id/net/aspose.psd.fileformats.psd.layers.layereffects/blendingoptions/adddropshadow/
 ---
+{{< psd/tize >}}
 ## BlendingOptions.AddDropShadow method
 
 Menambahkan efek bayangan jatuh.
@@ -14,15 +15,15 @@ Menambahkan efek bayangan jatuh.
 public DropShadowEffect AddDropShadow()
 ```
 
-### Nilai Pengembalian
+### Nilai Kembalian
 
-Dibuat[`DropShadowEffect`](../../dropshadoweffect/) objek
+Membuat objek [`DropShadowEffect`](../../dropshadoweffect/)
 
-### Lihat juga
+### Lihat Juga
 
 * class [DropShadowEffect](../../dropshadoweffect/)
 * class [BlendingOptions](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../blendingoptions/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../../)
 
 

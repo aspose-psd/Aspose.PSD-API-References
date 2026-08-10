@@ -1,32 +1,33 @@
 ---
-title: RasterImage.ReadScanLine
-second_title: Aspose.PSD untuk Referensi .NET API
-description: RasterImage metode. Membaca seluruh baris pindai dengan indeks baris pindai yang ditentukan.
+title: "RasterImage.ReadScanLine"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode RasterImage. Membaca seluruh baris pindai berdasarkan indeks baris pindai yang ditentukan"
 type: docs
-weight: 440
+weight: 450
 url: /id/net/aspose.psd/rasterimage/readscanline/
 ---
+{{< psd/tize >}}
 ## RasterImage.ReadScanLine method
 
-Membaca seluruh baris pindai dengan indeks baris pindai yang ditentukan.
+Membaca seluruh baris pemindaian berdasarkan indeks baris pemindaian yang ditentukan.
 
 ```csharp
 public Color[] ReadScanLine(int scanLineIndex)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| scanLineIndex | Int32 | Indeks berbasis nol dari garis pindai. |
+| scanLineIndex | Int32 | Indeks berbasis nol dari baris pemindaian. |
 
-### Nilai Pengembalian
+### Nilai Kembalian
 
-Array nilai warna piksel garis pemindaian.
+Array nilai warna piksel baris pindai.
 
-### Lihat juga
+### Lihat Juga
 
 * struct [Color](../../color/)
 * class [RasterImage](../)
-* ruang nama [Aspose.PSD](../../rasterimage/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

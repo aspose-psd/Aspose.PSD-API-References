@@ -1,27 +1,28 @@
 ---
-title: ExifData.GPSDestLatitudeRef
-second_title: Aspose.PSD untuk Referensi .NET API
-description: ExifData Properti. Mendapat atau menetapkan nilai GPS yang menunjukkan apakah garis lintang titik tujuan adalah garis lintang utara atau selatan.
+title: "ExifData.GPSDestLatitudeRef"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "ExifData properti. Mendapatkan atau mengatur nilai GPS yang menunjukkan apakah lintang titik tujuan berada di lintang utara atau selatan"
 type: docs
 weight: 450
 url: /id/net/aspose.psd.exif/exifdata/gpsdestlatituderef/
 ---
+{{< psd/tize >}}
 ## ExifData.GPSDestLatitudeRef property
 
-Mendapat atau menetapkan nilai GPS yang menunjukkan apakah garis lintang titik tujuan adalah garis lintang utara atau selatan.
+Mendapatkan atau mengatur nilai GPS yang menunjukkan apakah lintang titik tujuan berada di lintang utara atau selatan.
 
 ```csharp
 public string GPSDestLatitudeRef { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
-Nilai GPS yang menunjukkan apakah garis lintang titik tujuan adalah garis lintang utara atau selatan.
+Nilai GPS yang menunjukkan apakah lintang titik tujuan berada di lintang utara atau selatan.
 
-### Lihat juga
+### Lihat Juga
 
 * class [ExifData](../)
-* ruang nama [Aspose.PSD.Exif](../../exifdata/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

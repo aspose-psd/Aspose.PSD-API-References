@@ -1,26 +1,27 @@
 ---
-title: PsdImage.Rotate
-second_title: Aspose.PSD untuk Referensi .NET API
-description: PsdImage metode. Putar gambar di tengah.
+title: "PsdImage.Rotate"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode PsdImage. Memutar gambar di sekitar pusat"
 type: docs
-weight: 610
+weight: 670
 url: /id/net/aspose.psd.fileformats.psd/psdimage/rotate/
 ---
+{{< psd/tize >}}
 ## Rotate(float) {#rotate}
 
-Putar gambar di tengah.
+Memutar gambar di sekitar pusat.
 
 ```csharp
 public override void Rotate(float angle)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| angle | Single | Sudut putar dalam derajat. Nilai positif akan berputar searah jarum jam. |
+| angle | Single | Sudut rotasi dalam derajat. Nilai positif akan memutar searah jarum jam. |
 
-### Contoh
+## Contoh
 
-Kode berikut menunjukkan kemampuan untuk memutar gambar dengan nilai sudut tertentu.
+Kode berikut menunjukkan kemampuan memutar gambar dengan nilai sudut tertentu.
 
 ```csharp
 [C#]
@@ -28,7 +29,7 @@ Kode berikut menunjukkan kemampuan untuk memutar gambar dengan nilai sudut terte
 string sourceFileName = "TheHat.psd";
 var pngOptions = new PngOptions() { ColorType = PngColorType.TruecolorWithAlpha };
 
-// Seluruh gambar berputar
+// Rotasi seluruh gambar
 using (PsdImage image = (PsdImage)Image.Load(sourceFileName))
 {
     for (int i = 0; i < 4; i++)
@@ -42,7 +43,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFileName))
     }
 }
 
-// Lapisan berputar
+// Rotasi lapisan
 using (PsdImage image = (PsdImage)Image.Load(sourceFileName))
 {
     for (int i = 0; i < 4; i++)
@@ -57,33 +58,33 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFileName))
 }
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [PsdImage](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Rotate(float, bool, Color) {#rotate_1}
 
-Putar gambar di tengah.
+Memutar gambar di sekitar pusat.
 
 ```csharp
 public override void Rotate(float angle, bool resizeProportionally, Color backgroundColor)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| angle | Single | Sudut putar dalam derajat. Nilai positif akan berputar searah jarum jam. |
-| resizeProportionally | Boolean | jika diatur ke`BENAR` Anda akan mengubah ukuran gambar Anda sesuai dengan proyeksi persegi panjang (titik sudut) yang diputar dalam kasus lain yang membuat dimensi tidak tersentuh dan hanya konten gambar internal yang diputar. |
-| backgroundColor | Color | Warna latar belakang. |
+| angle | Single | Sudut rotasi dalam derajat. Nilai positif akan memutar searah jarum jam. |
+| resizeProportionally | Boolean | jika disetel ke `true` ukuran gambar Anda akan berubah sesuai proyeksi persegi panjang yang diputar (titik sudut); dalam kasus lain dimensi tetap tidak berubah dan hanya konten gambar internal yang diputar. |
+| backgroundColor | Warna | Warna latar belakang. |
 
-### Lihat juga
+### Lihat Juga
 
 * struct [Color](../../../aspose.psd/color/)
 * class [PsdImage](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

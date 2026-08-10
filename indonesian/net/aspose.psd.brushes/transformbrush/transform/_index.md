@@ -1,28 +1,29 @@
 ---
-title: TransformBrush.Transform
-second_title: Aspose.PSD untuk Referensi .NET API
-description: TransformBrush Properti. Mendapat atau menyetel salinanMatrix yang mendefinisikan transformasi geometris lokal untuk iniTransformBrush .
+title: "TransformBrush.Transform"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti TransformBrush. Mengambil atau mengatur salinan Matrix yang mendefinisikan transformasi geometris lokal untuk TransformBrush ini."
 type: docs
 weight: 20
 url: /id/net/aspose.psd.brushes/transformbrush/transform/
 ---
+{{< psd/tize >}}
 ## TransformBrush.Transform property
 
-Mendapat atau menyetel salinan[`Matrix`](../../../aspose.psd/matrix/) yang mendefinisikan transformasi geometris lokal untuk ini[`TransformBrush`](../) .
+Mengambil atau mengatur salinan [`Matrix`](../../../aspose.psd/matrix/) yang mendefinisikan transformasi geometris lokal untuk [`TransformBrush`](../).
 
 ```csharp
 public Matrix Transform { get; set; }
 ```
 
-### Nilai Pengembalian
+### Nilai Kembalian
 
-Salinan dari[`Matrix`](../../../aspose.psd/matrix/) yang mendefinisikan transformasi geometris yang hanya berlaku untuk isian yang digambar dengan ini[`TransformBrush`](../).
+Salinan [`Matrix`](../../../aspose.psd/matrix/) yang mendefinisikan transformasi geometris yang hanya berlaku untuk isian yang digambar dengan [`TransformBrush`](../).
 
-### Lihat juga
+### Lihat Juga
 
 * class [Matrix](../../../aspose.psd/matrix/)
 * class [TransformBrush](../)
-* ruang nama [Aspose.PSD.Brushes](../../transformbrush/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
+* assembly [Aspose.PSD](../../../)
 
 

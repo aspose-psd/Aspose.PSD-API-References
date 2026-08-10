@@ -1,14 +1,15 @@
 ---
-title: Class PrintFlagsResource
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Aspose.PSD.FileFormats.Psd.Resources.PrintFlagsResource kelas. Sumber bendera cetak
+title: "Kelas PrintFlagsResource"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Kelas Aspose.PSD.FileFormats.Psd.Resources.PrintFlagsResource. Sumber daya flag cetak."
 type: docs
-weight: 3830
+weight: 4300
 url: /id/net/aspose.psd.fileformats.psd.resources/printflagsresource/
 ---
+{{< psd/tize >}}
 ## PrintFlagsResource class
 
-Sumber bendera cetak
+Sumber daya bendera cetak
 
 ```csharp
 public sealed class PrintFlagsResource : ResourceBlock
@@ -16,36 +17,36 @@ public sealed class PrintFlagsResource : ResourceBlock
 
 ## Konstruktor
 
-| Nama | Keterangan |
+| Nama | Deskripsi |
 | --- | --- |
 | [PrintFlagsResource](printflagsresource/)() | Konstruktor default. |
 
 ## Properti
 
-| Nama | Keterangan |
+| Nama | Deskripsi |
 | --- | --- |
-| [BleedScale](../../aspose.psd.fileformats.psd.resources/printflagsresource/bleedscale/) { get; set; } | Mendapat atau mengatur skala bleed. |
-| [BleedWidth](../../aspose.psd.fileformats.psd.resources/printflagsresource/bleedwidth/) { get; set; } | Mendapat atau mengatur lebar dari bleed. |
-| [CenterCropMark](../../aspose.psd.fileformats.psd.resources/printflagsresource/centercropmark/) { get; set; } | Mendapat atau menyetel tanda potong tengah. |
+| [BleedScale](../../aspose.psd.fileformats.psd.resources/printflagsresource/bleedscale/) { get; set; } | Mendapatkan atau mengatur skala bleed. |
+| [BleedWidth](../../aspose.psd.fileformats.psd.resources/printflagsresource/bleedwidth/) { get; set; } | Mendapatkan atau mengatur lebar bleed. |
+| [CenterCropMark](../../aspose.psd.fileformats.psd.resources/printflagsresource/centercropmark/) { get; set; } | Mendapatkan atau mengatur tanda potong tengah. |
 | override [DataSize](../../aspose.psd.fileformats.psd.resources/printflagsresource/datasize/) { get; } | Mendapatkan ukuran data sumber daya dalam byte. |
-| [ID](../../aspose.psd.fileformats.psd/resourceblock/id/) { get; set; } | Mendapat atau menyetel pengidentifikasi unik untuk sumber daya. |
+| [ID](../../aspose.psd.fileformats.psd/resourceblock/id/) { get; set; } | Mendapatkan atau mengatur pengidentifikasi unik untuk sumber daya. |
 | override [MinimalVersion](../../aspose.psd.fileformats.psd.resources/printflagsresource/minimalversion/) { get; } | Mendapatkan versi PSD minimal yang diperlukan. |
-| [Name](../../aspose.psd.fileformats.psd/resourceblock/name/) { get; set; } | Mendapat atau menetapkan nama sumber daya. String Pascal, diisi untuk membuat ukurannya rata (nama null terdiri dari dua byte 0). |
-| [Signature](../../aspose.psd.fileformats.psd/resourceblock/signature/) { get; } | Mendapat tanda tangan sumber daya. Harus selalu '8BIM'. |
-| [Size](../../aspose.psd.fileformats.psd/resourceblock/size/) { get; } | Mendapat ukuran blok sumber daya dalam byte termasuk datanya. |
-| [Version](../../aspose.psd.fileformats.psd.resources/printflagsresource/version/) { get; set; } | Mendapatkan atau menyetel versi. |
+| [Name](../../aspose.psd.fileformats.psd/resourceblock/name/) { get; set; } | Mendapatkan atau mengatur nama sumber daya. String Pascal, dipadding agar ukuran genap (nama null terdiri dari dua byte 0). |
+| [Signature](../../aspose.psd.fileformats.psd/resourceblock/signature/) { get; } | Mendapatkan tanda tangan sumber daya. Harus selalu '8BIM'. |
+| [Size](../../aspose.psd.fileformats.psd/resourceblock/size/) { get; } | Mendapatkan ukuran blok sumber daya dalam byte termasuk datanya. |
+| [Version](../../aspose.psd.fileformats.psd.resources/printflagsresource/version/) { get; set; } | Mendapatkan atau mengatur versi. |
 
 ## Metode
 
-| Nama | Keterangan |
+| Nama | Deskripsi |
 | --- | --- |
 | [Save](../../aspose.psd.fileformats.psd/resourceblock/save/)(StreamContainer) | Menyimpan blok sumber daya ke aliran yang ditentukan. |
-| virtual [ValidateValues](../../aspose.psd.fileformats.psd/resourceblock/validatevalues/)() | Memvalidasi nilai sumber daya. |
+| virtual [ValidateValues](../../aspose.psd.fileformats.psd/resourceblock/validatevalues/)() | Memvalidasi nilai-nilai sumber daya. |
 
-### Lihat juga
+### Lihat Juga
 
 * class [ResourceBlock](../../aspose.psd.fileformats.psd/resourceblock/)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Resources](../../aspose.psd.fileformats.psd.resources/)
-* perakitan [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../)
 
 

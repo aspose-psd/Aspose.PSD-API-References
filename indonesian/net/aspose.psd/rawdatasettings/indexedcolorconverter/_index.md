@@ -1,28 +1,29 @@
 ---
-title: RawDataSettings.IndexedColorConverter
-second_title: Aspose.PSD untuk Referensi .NET API
-description: RawDataSettings Properti. Mendapat atau mengatur konverter warna yang diindeks
+title: "RawDataSettings.IndexedColorConverter"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti RawDataSettings. Mendapatkan atau mengatur konverter warna terindeks"
 type: docs
 weight: 60
 url: /id/net/aspose.psd/rawdatasettings/indexedcolorconverter/
 ---
+{{< psd/tize >}}
 ## RawDataSettings.IndexedColorConverter property
 
-Mendapat atau mengatur konverter warna yang diindeks
+Mendapatkan atau mengatur konverter warna terindeks.
 
 ```csharp
 public IIndexedColorConverter IndexedColorConverter { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
-Konverter warna yang diindeks
+Konverter warna terindeks
 
-### Lihat juga
+### Lihat Juga
 
 * interface [IIndexedColorConverter](../../iindexedcolorconverter/)
 * class [RawDataSettings](../)
-* ruang nama [Aspose.PSD](../../rawdatasettings/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

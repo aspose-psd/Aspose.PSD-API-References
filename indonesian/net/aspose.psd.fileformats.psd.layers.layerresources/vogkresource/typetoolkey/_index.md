@@ -1,23 +1,24 @@
 ---
-title: VogkResource.TypeToolKey
-second_title: Aspose.PSD untuk Referensi .NET API
-description: VogkResource bidang. Kunci info alat ketik.
+title: "VogkResource.TypeToolKey"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "VogkResource bidang. Kunci info alat tipe"
 type: docs
-weight: 90
+weight: 60
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources/vogkresource/typetoolkey/
 ---
+{{< psd/tize >}}
 ## VogkResource.TypeToolKey field
 
-Kunci info alat ketik.
+Kunci info alat tipe.
 
 ```csharp
 public const int TypeToolKey;
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [VogkResource](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../vogkresource/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

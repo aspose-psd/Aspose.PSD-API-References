@@ -1,34 +1,35 @@
 ---
-title: LinkResource.Item
-second_title: Aspose.PSD untuk Referensi .NET API
-description: LinkResource Properti. MendapatkanLinkDataSource pada indeks yang ditentukan yang merupakan pengidentifikasi unik sumber data tautan..
+title: "LinkResource.Item"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti LinkResource. Mendapatkan LinkDataSource pada indeks yang ditentukan yang merupakan pengidentifikasi unik sumber data tautan"
 type: docs
 weight: 30
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources/linkresource/item/
 ---
+{{< psd/tize >}}
 ## LinkResource indexer
 
-Mendapatkan[`LinkDataSource`](../../linkdatasource/) pada indeks yang ditentukan yang merupakan pengidentifikasi unik sumber data tautan..
+Mendapatkan [`LinkDataSource`](../../linkdatasource/) pada indeks yang ditentukan yang merupakan pengidentifikasi unik sumber data tautan..
 
 ```csharp
 public LinkDataSource this[Guid index] { get; }
 ```
 
-| Parameter | Keterangan |
+| Parameter | Deskripsi |
 | --- | --- |
 | index | Indeks sebagai pengidentifikasi unik sumber data tautan. |
 
-### Nilai Pengembalian
+### Nilai Kembalian
 
-Itu[`LinkDataSource`](../../linkdatasource/) contoh.
+Instansi [`LinkDataSource`](../../linkdatasource/).
 
-### Nilai properti
+### Property Value
 
-Itu[`LinkDataSource`](../../linkdatasource/) .
+[`LinkDataSource`](../../linkdatasource/).
 
-### Contoh
+## Contoh
 
-Kode berikut menunjukkan dukungan objek Cerdas Tertanam.
+Kode berikut menunjukkan dukungan objek pintar tertanam.
 
 ```csharp
 [C#]
@@ -41,7 +42,7 @@ void AssertAreEqual(object actual, object expected)
     }
 }
 
-// Contoh ini menunjukkan cara mengubah lapisan objek pintar di file PSD dan mengekspor/memperbarui konten tersemat asli objek pintar.
+// Contoh ini menunjukkan cara mengubah lapisan objek pintar dalam file PSD dan mengekspor / memperbarui konten asli objek pintar yang tertanam.
 const int left = 0;
 const int top = 0;
 const int right = 0xb;
@@ -70,10 +71,10 @@ foreach (FileFormat format in formats)
         AssertAreEqual(right, smartObjectLayer.ContentsBounds.Right);
         AssertAreEqual(bottom, smartObjectLayer.ContentsBounds.Bottom);
 
-        // Mari ekspor gambar objek pintar tersemat dari lapisan objek pintar PSD
+        // Mari ekspor gambar objek pintar tertanam dari lapisan objek pintar PSD
         smartObjectLayer.ExportContents(exportPath);
 
-        // Mari kita periksa apakah gambar aslinya disimpan dengan benar
+        // Mari periksa apakah gambar asli disimpan dengan benar
         image.Save(psdOutputPath, new PsdOptions(image));
         image.Save(pngOutputPath, new PngOptions() { ColorType = PngColorType.TruecolorWithAlpha });
 
@@ -81,7 +82,7 @@ foreach (FileFormat format in formats)
         {
             AssertAreEqual(format, innerImage.FileFormat);
 
-            // Mari kita membalikkan gambar smart object asli
+            // Mari balikkan gambar objek pintar asli
             var pixels = innerImage.LoadArgb32Pixels(innerImage.Bounds);
             for (int i = 0; i < pixels.Length; i++)
             {
@@ -92,22 +93,22 @@ foreach (FileFormat format in formats)
 
             innerImage.SaveArgb32Pixels(innerImage.Bounds, pixels);
 
-            // Mari kita ganti gambar objek pintar tersemat di lapisan PSD
+            // Mari ganti gambar objek pintar tertanam di lapisan PSD
             smartObjectLayer.ReplaceContents(innerImage);
         }
 
-        // Mari kita periksa apakah gambar yang diperbarui disimpan dengan benar
+        // Mari periksa apakah gambar yang diperbarui disimpan dengan benar
         image.Save(psd2OutputPath, new PsdOptions(image));
         image.Save(png2OutputPath, new PngOptions() { ColorType = PngColorType.TruecolorWithAlpha });
     }
 }
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [LinkDataSource](../../linkdatasource/)
 * class [LinkResource](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../linkresource/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

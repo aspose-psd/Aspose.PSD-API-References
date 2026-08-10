@@ -1,31 +1,32 @@
 ---
-title: TiffDataType.AlignedDataSize
-second_title: Aspose.PSD untuk Referensi .NET API
-description: TiffDataType Properti. Mendapatkan ukuran data tambahan dalam satuan byte jika 12 byte tidak cukup untuk memuat data tag.
+title: "TiffDataType.AlignedDataSize"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti TiffDataType. Mendapatkan ukuran data tambahan dalam byte jika 12 byte tidak cukup untuk menampung data tag"
 type: docs
 weight: 20
 url: /id/net/aspose.psd.fileformats.tiff/tiffdatatype/aligneddatasize/
 ---
+{{< psd/tize >}}
 ## TiffDataType.AlignedDataSize property
 
-Mendapatkan ukuran data tambahan dalam satuan byte (jika 12 byte tidak cukup untuk memuat data tag).
+Mendapatkan ukuran data tambahan dalam byte (jika 12 byte tidak cukup untuk menampung data tag).
 
 ```csharp
 public uint AlignedDataSize { get; }
 ```
 
-### Nilai properti
+### Property Value
 
 Ukuran data tambahan dalam byte.
 
-### Perkataan
+## Catatan
 
-Ini adalah jumlah byte data yang disejajarkan dengan batas kata.
+Ini adalah jumlah byte data yang diselaraskan ke batas kata.
 
-### Lihat juga
+### Lihat Juga
 
 * class [TiffDataType](../)
-* ruang nama [Aspose.PSD.FileFormats.Tiff](../../tiffdatatype/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff](../../../aspose.psd.fileformats.tiff/)
+* assembly [Aspose.PSD](../../../)
 
 

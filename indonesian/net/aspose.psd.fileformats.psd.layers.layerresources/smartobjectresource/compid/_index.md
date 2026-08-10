@@ -1,26 +1,27 @@
 ---
-title: SmartObjectResource.CompId
-second_title: Aspose.PSD untuk Referensi .NET API
-description: SmartObjectResource Properti. Mendapat atau menetapkan ID comp yang dipilih saat ini untuk dokumen anak yang akan menjadi 1 jika tidak ada yang dipilih. Comp adalah komposisi tata letak halaman yang dapat dibuat oleh desainer. Menggunakan komposisi lapisan Anda dapat membuat mengelola dan melihat beberapa versi tata letak dalam satu file Adobe Photoshop. Layer comp adalah snapshot dari status panel Layers. Layer comps menyimpan tiga jenis opsi layer but properti ini mendapatkan pengidentifikasi pemilihan Layer Comp untuk layer smart object di file PSD. Lapisan comps di Smart Objects
+title: "SmartObjectResource.CompId"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti SmartObjectResource. Mendapatkan atau mengatur ID kom yang saat ini dipilih untuk dokumen anak yang akan menjadi 1 jika tidak ada yang dipilih. Kom adalah komposisi tata letak halaman yang dapat dibuat desainer. Dengan menggunakan layer comp Anda dapat membuat, mengelola, dan melihat beberapa versi tata letak dalam satu file Adobe Photoshop. Sebuah layer comp adalah snapshot dari keadaan panel Layers. Layer comp menyimpan tiga jenis opsi layer tetapi properti ini mendapatkan identifier pemilihan Layer Comp untuk layer objek pintar dalam file PSD. Layer comp dalam Smart Objects"
 type: docs
 weight: 30
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/compid/
 ---
+{{< psd/tize >}}
 ## SmartObjectResource.CompId property
 
-Mendapat atau menetapkan ID comp yang dipilih saat ini untuk dokumen anak, yang akan menjadi -1 jika tidak ada yang dipilih. Comp adalah komposisi tata letak halaman yang dapat dibuat oleh desainer. Menggunakan komposisi lapisan, Anda dapat membuat, mengelola, dan melihat beberapa versi tata letak dalam satu file Adobe® Photoshop®. Layer comp adalah snapshot dari status panel Layers. Layer comps menyimpan tiga jenis opsi layer but properti ini mendapatkan pengidentifikasi pemilihan Layer Comp untuk layer smart object di file PSD. [Lapisan comps di Smart Objects](https://helpx.adobe.com/photoshop/using/layer-comps.html)
+Mendapatkan atau mengatur ID dari comp yang saat ini dipilih untuk dokumen anak, yang akan menjadi -1 jika tidak ada yang dipilih. Comp adalah komposisi dari tata letak halaman yang dapat dibuat oleh desainer. Dengan menggunakan layer comps, Anda dapat membuat, mengelola, dan melihat banyak versi tata letak dalam satu file Adobe� Photoshop�. Sebuah layer comp adalah snapshot dari keadaan panel Layers. Layer comps menyimpan tiga jenis opsi lapisan tetapi properti ini mendapatkan identifier pemilihan Layer Comp untuk lapisan objek pintar dalam file PSD. [Layer comps in Smart Objects](https://helpx.adobe.com/photoshop/using/layer-comps.html)
 
 ```csharp
 public int CompId { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
-ID comp yang saat ini dipilih untuk dokumen anak dalam gambar PSD, yang akan menjadi -1 jika tidak ada yang dipilih.
+ID kom yang saat ini dipilih untuk dokumen anak dalam gambar PSD, yang akan menjadi -1 jika tidak ada yang dipilih.
 
-### Contoh
+## Contoh
 
-Kode berikut menunjukkan dukungan sumber daya SoLEResource, SmartObjectResource, dan PlacedResource.
+Kode berikut menunjukkan dukungan untuk sumber daya SoLEResource, SmartObjectResource, dan PlacedResource.
 
 ```csharp
 [C#]
@@ -106,7 +107,7 @@ void CheckSmartObjectResourceValues(object[] expectedValue, SmartObjectResource 
 
 void SetNewSmartValues(SmartObjectResource resource, object[] newValues)
 {
-    // Nilai ini tidak kita ubah di sumber daya
+    // Nilai ini tidak kami ubah dalam sumber daya
     newValues[0] = resource.IsCustom;
     newValues[1] = resource.UniqueId.ToString();
     newValues[5] = resource.PlacedLayerType;
@@ -114,15 +115,15 @@ void SetNewSmartValues(SmartObjectResource resource, object[] newValues)
     newValues[15] = resource.VOrder;
     newValues[28] = resource.OriginalCompId;
 
-    // Nilai ini juga harus diubah di PlLdResource (dengan UniqueId yang ditentukan).
-    // dan beberapa di antaranya harus sesuai dengan objek pintar yang digarisbawahi di LinkDataSource
+    // Nilai ini juga harus diubah dalam PlLdResource (dengan UniqueId yang ditentukan).
+    // dan beberapa di antaranya harus sesuai dengan objek pintar yang mendasari dalam LinkDataSource.
     resource.PageNumber = (int)newValues[2]; // 2;
     resource.TotalPages = (int)newValues[3]; // 3;
     resource.AntiAliasPolicy = (int)newValues[4]; // 0;
     resource.TransformMatrix = (double[])newValues[6];
-    resource.Value = (double)newValues[7]; // 1,23456789;
-    resource.Perspective = (double)newValues[8]; // 0,123456789;
-    resource.PerspectiveOther = (double)newValues[9]; // 0,987654321;
+    resource.Value = (double)newValues[7]; // 1.23456789;
+    resource.Perspective = (double)newValues[8]; // 0.123456789;
+    resource.PerspectiveOther = (double)newValues[9]; // 0.987654321;
     resource.Top = (double)newValues[10]; // -126;
     resource.Left = (double)newValues[11]; // -215;
     resource.Bottom = (double)newValues[12]; // 248;
@@ -141,7 +142,7 @@ void SetNewSmartValues(SmartObjectResource resource, object[] newValues)
     resource.CompId = (int)newValues[27]; // 22;
     resource.NonAffineTransformMatrix = (double[])newValues[30];
 
-    // Id unik ini harus diubah dalam referensi jika ada
+    // Unique Id ini harus diubah dalam referensi jika ada.
     resource.PlacedId = new Guid((string)newValues[29]);  // "12345678-9abc-def0-9876-54321fecba98");
     if (resource.IsCustom)
     {
@@ -151,15 +152,15 @@ void SetNewSmartValues(SmartObjectResource resource, object[] newValues)
         resource.VerticalMeshPoints = (double[])newValues[34];
     }
 
-    // Berhati-hatilah dengan beberapa parameter: gambar yang disimpan mungkin tidak dapat dibaca oleh Adobe® Photoshop®
+    // Hati-hati dengan beberapa parameter: gambar yang disimpan mungkin tidak dapat dibaca oleh Adobe® Photoshop®.
     ////resource.UOrder = 6;
     ////resource.VOrder = 9;
 
-    // Jangan ubah ini jika tidak, Anda tidak akan dapat menggunakan transformasi bebas
-    // atau ubah smart object yang digarisbawahi menjadi tipe vektor
+    // Jangan ubah ini, jika tidak Anda tidak akan dapat menggunakan transformasi bebas.
+    // atau ubah objek pintar yang mendasari menjadi tipe vektor.
     ////resource.PlacedLayerType = PlacedLayerType.Vector;
 
-    // Harus ada PlLdResource yang valid dengan ID unik ini
+    // Harus ada PlLdResource yang valid dengan Unique Id ini.
     ////resource.UniqueId = new Guid("98765432-10fe-cba0-1234-56789abcdef0");
 }
 
@@ -328,7 +329,7 @@ Kode berikut menunjukkan dukungan sumber daya SoLdResource.
 ```csharp
 [C#]
 
-// Contoh ini menunjukkan cara mendapatkan atau menyetel properti data lapisan objek pintar dari file PSD.
+// Contoh ini menunjukkan cara mendapatkan atau mengatur properti data lapisan objek pintar dari file PSD.
 
 void AssertAreEqual(object actual, object expected)
 {
@@ -562,8 +563,8 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
                     resource.HorizontalMeshPoints = temp;
                 }
 
-                // Nilai ini juga harus diubah di PlLdResource (dengan UniqueId yang ditentukan).
-                // dan beberapa di antaranya harus sesuai dengan objek pintar yang digarisbawahi di LinkDataSource
+                // Nilai ini juga harus diubah dalam PlLdResource (dengan UniqueId yang ditentukan).
+                // dan beberapa di antaranya harus sesuai dengan objek pintar yang mendasari dalam LinkDataSource.
                 resource.PageNumber = 2;
                 resource.TotalPages = 3;
                 resource.AntiAliasPolicy = 0;
@@ -608,18 +609,18 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
                     42
                 };
 
-                // Id unik ini harus diubah dalam referensi jika ada
+                // Unique Id ini harus diubah dalam referensi jika ada.
                 resource.PlacedId = new Guid("12345678-9abc-def0-9876-54321fecba98");
 
-                // Hati-hati dengan beberapa parameter: gambar mungkin menjadi tidak terbaca oleh Adobe® Photoshop®
+                // Hati-hati dengan beberapa parameter: gambar mungkin menjadi tidak dapat dibaca oleh Adobe® Photoshop®
                 ////resource.UOrder = 6;
                 ////resource.VOrder = 9;
 
-                // Jangan ubah ini jika tidak, Anda tidak akan dapat menggunakan transformasi bebas
-                // atau ubah smart object yang digarisbawahi menjadi tipe vektor
+                // Jangan ubah ini, jika tidak Anda tidak akan dapat menggunakan transformasi bebas.
+                // atau ubah objek pintar yang mendasari menjadi tipe vektor.
                 ////resource.PlacedLayerType = PlacedLayerType.Vector;
 
-                // Harus ada PlLdResource yang valid dengan ID unik ini
+                // Harus ada PlLdResource yang valid dengan Unique Id ini.
                 ////resource.UniqueId = new Guid("98765432-10fe-cba0-1234-56789abcdef0");
 
                 break;
@@ -632,10 +633,10 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
 }
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [SmartObjectResource](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../smartobjectresource/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

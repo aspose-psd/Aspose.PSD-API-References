@@ -1,11 +1,12 @@
 ---
-title: LayerSectionResource.PsdVersion
-second_title: Aspose.PSD untuk Referensi .NET API
-description: LayerSectionResource Properti. Mendapatkan versi psd minimal yang diperlukan untuk sumber daya lapisan. 0 menunjukkan tidak ada batasan.
+title: "LayerSectionResource.PsdVersion"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "LayerSectionResource property. Mendapatkan versi psd minimal yang diperlukan untuk sumber daya lapisan. 0 menunjukkan tidak ada pembatasan"
 type: docs
 weight: 50
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources/layersectionresource/psdversion/
 ---
+{{< psd/tize >}}
 ## LayerSectionResource.PsdVersion property
 
 Mendapatkan versi psd minimal yang diperlukan untuk sumber daya lapisan. 0 menunjukkan tidak ada batasan.
@@ -14,10 +15,10 @@ Mendapatkan versi psd minimal yang diperlukan untuk sumber daya lapisan. 0 menun
 public override int PsdVersion { get; }
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [LayerSectionResource](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../layersectionresource/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

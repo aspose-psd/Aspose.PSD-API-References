@@ -1,28 +1,29 @@
 ---
-title: BezierSegment.SecondControlPoint
-second_title: Aspose.PSD untuk Referensi .NET API
-description: BezierSegment Properti. Mendapat titik kontrol kedua dari spline bezier.
+title: "BezierSegment.SecondControlPoint"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti BezierSegment. Mendapatkan titik kontrol kedua dari spline bezier"
 type: docs
 weight: 30
 url: /id/net/aspose.psd.shapesegments/beziersegment/secondcontrolpoint/
 ---
+{{< psd/tize >}}
 ## BezierSegment.SecondControlPoint property
 
-Mendapat titik kontrol kedua dari spline bezier.
+Mendapatkan titik kontrol kedua dari spline bezier.
 
 ```csharp
 public PointF SecondControlPoint { get; }
 ```
 
-### Nilai properti
+### Property Value
 
 Titik kontrol kedua.
 
-### Lihat juga
+### Lihat Juga
 
 * struct [PointF](../../../aspose.psd/pointf/)
 * class [BezierSegment](../)
-* ruang nama [Aspose.PSD.ShapeSegments](../../beziersegment/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ShapeSegments](../../../aspose.psd.shapesegments/)
+* assembly [Aspose.PSD](../../../)
 
 

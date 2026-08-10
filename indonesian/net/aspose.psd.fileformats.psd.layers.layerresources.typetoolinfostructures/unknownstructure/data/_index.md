@@ -1,27 +1,28 @@
 ---
-title: UnknownStructure.Data
-second_title: Aspose.PSD untuk Referensi .NET API
-description: UnknownStructure Properti. Mendapat atau menyetel data.
+title: "UnknownStructure.Data"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "UnknownStructure properti. Mendapatkan atau mengatur data"
 type: docs
 weight: 20
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/unknownstructure/data/
 ---
+{{< psd/tize >}}
 ## UnknownStructure.Data property
 
-Mendapat atau menyetel data.
+Mendapatkan atau mengatur data.
 
 ```csharp
 public byte[] Data { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
-Datanya.
+Data.
 
-### Lihat juga
+### Lihat Juga
 
 * class [UnknownStructure](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../unknownstructure/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 

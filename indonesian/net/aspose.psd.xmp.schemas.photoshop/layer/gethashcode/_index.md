@@ -1,11 +1,12 @@
 ---
-title: Layer.GetHashCode
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Layer metode. Mengembalikan kode hash untuk instance ini.
+title: "Layer.GetHashCode"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode Layer. Mengembalikan kode hash untuk instance ini"
 type: docs
 weight: 50
 url: /id/net/aspose.psd.xmp.schemas.photoshop/layer/gethashcode/
 ---
+{{< psd/tize >}}
 ## Layer.GetHashCode method
 
 Mengembalikan kode hash untuk instance ini.
@@ -14,14 +15,14 @@ Mengembalikan kode hash untuk instance ini.
 public override int GetHashCode()
 ```
 
-### Nilai Pengembalian
+### Nilai Kembalian
 
-Kode hash untuk instance ini, cocok untuk digunakan dalam algoritme hashing dan struktur data seperti tabel hash.
+Kode hash untuk instance ini, cocok untuk digunakan dalam algoritma hashing dan struktur data seperti tabel hash.
 
-### Lihat juga
+### Lihat Juga
 
 * class [Layer](../)
-* ruang nama [Aspose.PSD.Xmp.Schemas.Photoshop](../../layer/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.Photoshop](../../../aspose.psd.xmp.schemas.photoshop/)
+* assembly [Aspose.PSD](../../../)
 
 

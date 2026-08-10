@@ -1,31 +1,32 @@
 ---
-title: WorkingPathResource.WorkingPathResource
-second_title: Aspose.PSD untuk Referensi .NET API
-description: WorkingPathResource konstruktor. Menginisialisasi instance baru dariWorkingPathResource kelas.
+title: "WorkingPathResource.WorkingPathResource"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Konstruktor WorkingPathResource. Menginisialisasi instance baru dari kelas WorkingPathResource"
 type: docs
 weight: 10
 url: /id/net/aspose.psd.fileformats.psd.resources/workingpathresource/workingpathresource/
 ---
+{{< psd/tize >}}
 ## WorkingPathResource constructor
 
-Menginisialisasi instance baru dari[`WorkingPathResource`](../) kelas.
+Menginisialisasi instance baru dari kelas [`WorkingPathResource`](../).
 
 ```csharp
 public WorkingPathResource(byte[] dataBytes)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| dataBytes | Byte[] | Data jalur vektor. |
+| dataBytes | Byte[] | Data dari jalur vektor. |
 
-### Contoh
+## Contoh
 
-Contoh ini menunjukkan dukungan sumber daya 'WorkingPathResource' di PsdImage.ImageResources untuk pengoperasian Pangkas yang benar.
+Contoh ini menunjukkan dukungan sumber daya 'WorkingPathResource' dalam PsdImage.ImageResources untuk kerja yang benar dari operasi Crop.
 
 ```csharp
 [C#]
 
-// Pangkas gambar dan simpan.
+// Potong gambar dan simpan.
 using (var psdImage = (PsdImage)Image.Load(sourceFile))
 {
     // Cari sumber daya WorkingPathResource.
@@ -46,12 +47,12 @@ using (var psdImage = (PsdImage)Image.Load(sourceFile))
         throw new Exception("Values is incorrect.");
     }
 
-    // Pangkas dan simpan.
+    // Potong dan simpan.
     psdImage.Crop(0, 500, 0, 200);
     psdImage.Save(outputFile);
 }
 
-// Muat gambar yang disimpan dan periksa perubahannya.
+// Muat gambar yang disimpan dan periksa perubahan.
 using (var psdImage = (PsdImage)Image.Load(outputFile))
 {
     // Cari sumber daya WorkingPathResource.
@@ -74,10 +75,10 @@ using (var psdImage = (PsdImage)Image.Load(outputFile))
 }
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [WorkingPathResource](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Resources](../../workingpathresource/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

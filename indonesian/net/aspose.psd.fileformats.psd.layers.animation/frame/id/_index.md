@@ -1,23 +1,24 @@
 ---
-title: Frame.Id
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Frame Properti. Mendapat atau mengatur frame id.
+title: "Frame.Id"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti Frame. Mendapatkan atau mengatur id frame"
 type: docs
 weight: 40
 url: /id/net/aspose.psd.fileformats.psd.layers.animation/frame/id/
 ---
+{{< psd/tize >}}
 ## Frame.Id property
 
-Mendapat atau mengatur frame id.
+Mendapatkan atau mengatur id frame.
 
 ```csharp
 public int Id { get; set; }
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [Frame](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.Animation](../../frame/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.Animation](../../../aspose.psd.fileformats.psd.layers.animation/)
+* assembly [Aspose.PSD](../../../)
 
 

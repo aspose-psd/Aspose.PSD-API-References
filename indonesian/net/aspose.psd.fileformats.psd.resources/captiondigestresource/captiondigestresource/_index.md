@@ -1,11 +1,12 @@
 ---
-title: CaptionDigestResource.CaptionDigestResource
-second_title: Aspose.PSD untuk Referensi .NET API
-description: CaptionDigestResource konstruktor. Konstruktor default.
+title: "CaptionDigestResource.CaptionDigestResource"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Konstruktor CaptionDigestResource. Konstruktor default"
 type: docs
 weight: 10
 url: /id/net/aspose.psd.fileformats.psd.resources/captiondigestresource/captiondigestresource/
 ---
+{{< psd/tize >}}
 ## CaptionDigestResource constructor
 
 Konstruktor default.
@@ -14,10 +15,10 @@ Konstruktor default.
 public CaptionDigestResource()
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [CaptionDigestResource](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Resources](../../captiondigestresource/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

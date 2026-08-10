@@ -1,27 +1,28 @@
 ---
-title: ExifData.FocalLengthIn35MmFilm
-second_title: Aspose.PSD untuk Referensi .NET API
-description: ExifData Properti. Mendapatkan atau menyetel panjang fokus dalam film 35 mm.
+title: "ExifData.FocalLengthIn35MmFilm"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti ExifData. Mendapatkan atau mengatur panjang fokus dalam film 35 mm"
 type: docs
 weight: 300
 url: /id/net/aspose.psd.exif/exifdata/focallengthin35mmfilm/
 ---
+{{< psd/tize >}}
 ## ExifData.FocalLengthIn35MmFilm property
 
-Mendapatkan atau menyetel panjang fokus dalam film 35 mm.
+Mendapatkan atau mengatur panjang fokus dalam film 35 mm.
 
 ```csharp
 public ushort FocalLengthIn35MmFilm { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
 Panjang fokus dalam film 35 mm.
 
-### Lihat juga
+### Lihat Juga
 
 * class [ExifData](../)
-* ruang nama [Aspose.PSD.Exif](../../exifdata/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

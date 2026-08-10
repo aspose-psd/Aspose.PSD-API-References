@@ -1,28 +1,29 @@
 ---
-title: StrokeEffect.BlendMode
-second_title: Aspose.PSD untuk Referensi .NET API
-description: StrokeEffect Properti. Mendapat atau menyetel mode campuran.
+title: "StrokeEffect.BlendMode"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "StrokeEffect property. Mendapatkan atau mengatur mode campuran"
 type: docs
 weight: 10
 url: /id/net/aspose.psd.fileformats.psd.layers.layereffects/strokeeffect/blendmode/
 ---
+{{< psd/tize >}}
 ## StrokeEffect.BlendMode property
 
-Mendapat atau menyetel mode campuran.
+Mendapatkan atau mengatur mode perpaduan.
 
 ```csharp
 public BlendMode BlendMode { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
-Mode campuran.
+Mode pencampuran.
 
-### Lihat juga
+### Lihat Juga
 
 * enum [BlendMode](../../../aspose.psd.fileformats.core.blending/blendmode/)
 * class [StrokeEffect](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../strokeeffect/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../../)
 
 

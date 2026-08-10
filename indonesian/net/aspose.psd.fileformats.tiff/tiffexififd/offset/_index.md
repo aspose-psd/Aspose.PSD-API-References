@@ -1,33 +1,34 @@
 ---
-title: TiffExifIfd.Offset
-second_title: Aspose.PSD untuk Referensi .NET API
-description: TiffExifIfd Properti. Mendapat atau menyetel pointer ke EXIF IFD.
+title: "TiffExifIfd.Offset"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti TiffExifIfd. Mendapatkan atau mengatur penunjuk ke EXIF IFD"
 type: docs
 weight: 30
 url: /id/net/aspose.psd.fileformats.tiff/tiffexififd/offset/
 ---
+{{< psd/tize >}}
 ## TiffExifIfd.Offset property
 
-Mendapat atau menyetel pointer ke EXIF IFD.
+Mendapatkan atau mengatur penunjuk ke EXIF IFD.
 
 ```csharp
 public uint Offset { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
-Pointer ke EXIF IFD.
+Penunjuk ke EXIF IFD.
 
 ### Pengecualian
 
 | pengecualian | kondisi |
 | --- | --- |
-| [TiffImageException](../../../aspose.psd.coreexceptions.imageformats/tiffimageexception/) | Tidak ada pointer ke EXIF IFD. |
+| [TiffImageException](../../../aspose.psd.coreexceptions.imageformats/tiffimageexception/) | Tidak ada penunjuk ke EXIF IFD. |
 
-### Lihat juga
+### Lihat Juga
 
 * class [TiffExifIfd](../)
-* ruang nama [Aspose.PSD.FileFormats.Tiff](../../tiffexififd/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff](../../../aspose.psd.fileformats.tiff/)
+* assembly [Aspose.PSD](../../../)
 
 

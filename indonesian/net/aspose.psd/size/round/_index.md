@@ -1,32 +1,33 @@
 ---
-title: Size.Round
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Size metode. Mengonversi yang ditentukanSizeF struktur ke aSize struktur dengan membulatkan nilainilai dariSizeF struktur ke nilai integer terdekat.
+title: "Size.Round"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode Size. Mengonversi struktur SizeF yang ditentukan menjadi struktur Size dengan membulatkan nilai-nilai struktur SizeF ke nilai integer terdekat."
 type: docs
 weight: 50
 url: /id/net/aspose.psd/size/round/
 ---
+{{< psd/tize >}}
 ## Size.Round method
 
-Mengonversi yang ditentukan[`SizeF`](../../sizef/) struktur ke a[`Size`](../) struktur dengan membulatkan nilai-nilai dari[`SizeF`](../../sizef/) struktur ke nilai integer terdekat.
+Mengonversi struktur [`SizeF`](../../sizef/) yang ditentukan menjadi struktur [`Size`](../) dengan membulatkan nilai-nilai struktur [`SizeF`](../../sizef/) ke nilai integer terdekat.
 
 ```csharp
 public static Size Round(SizeF size)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| size | SizeF | Itu[`SizeF`](../../sizef/) struktur untuk dikonversi. |
+| size | SizeF | Struktur [`SizeF`](../../sizef/) yang akan dikonversi. |
 
-### Nilai Pengembalian
+### Nilai Kembalian
 
-Itu[`Size`](../) struktur metode ini dikonversi ke.
+Struktur [`Size`](../) yang menjadi hasil konversi metode ini.
 
-### Lihat juga
+### Lihat Juga
 
 * struct [SizeF](../../sizef/)
 * struct [Size](../)
-* ruang nama [Aspose.PSD](../../size/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

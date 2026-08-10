@@ -1,24 +1,25 @@
 ---
-title: CmykChannelMixerLayer.GetChannelByIndex
-second_title: Aspose.PSD untuk Referensi .NET API
-description: CmykChannelMixerLayer metode. Mendapat indeks saluran. Mengembalikan CmykMixerChannel
+title: "CmykChannelMixerLayer.GetChannelByIndex"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "CmykChannelMixerLayer metode. Mendapatkan indeks saluran dengan. Mengembalikan CmykMixerChannel"
 type: docs
 weight: 50
 url: /id/net/aspose.psd.fileformats.psd.layers.adjustmentlayers/cmykchannelmixerlayer/getchannelbyindex/
 ---
+{{< psd/tize >}}
 ## CmykChannelMixerLayer.GetChannelByIndex method
 
-Mendapat indeks saluran. Mengembalikan CmykMixerChannel
+Mendapatkan indeks saluran oleh. Mengembalikan CmykMixerChannel
 
 ```csharp
 public override MixerChannel GetChannelByIndex(int index)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
 | index | Int32 | Indeks. |
 
-### Nilai Pengembalian
+### Nilai Kembalian
 
 [`CmykMixerChannel`](../../cmykmixerchannel/)
 
@@ -26,13 +27,13 @@ public override MixerChannel GetChannelByIndex(int index)
 
 | pengecualian | kondisi |
 | --- | --- |
-| [PsdImageArgumentException](../../../aspose.psd.coreexceptions.imageformats/psdimageargumentexception/) | CmykMixerChannelLayer memiliki tidak lebih dari 4 saluran. Indeks saluran Pertama adalah 0 |
+| [PsdImageArgumentException](../../../aspose.psd.coreexceptions.imageformats/psdimageargumentexception/) | CmykMixerChannelLayer tidak memiliki lebih dari 4 saluran. Indeks saluran pertama adalah 0 |
 
-### Lihat juga
+### Lihat Juga
 
 * class [MixerChannel](../../mixerchannel/)
 * class [CmykChannelMixerLayer](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../cmykchannelmixerlayer/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/)
+* assembly [Aspose.PSD](../../../)
 
 

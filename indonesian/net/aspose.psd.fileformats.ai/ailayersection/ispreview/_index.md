@@ -1,24 +1,25 @@
 ---
-title: AiLayerSection.IsPreview
-second_title: Aspose.PSD untuk Referensi .NET API
-description: AiLayerSection Properti. Mendapat atau menetapkan nilai yang menunjukkan apakah lapisan ini adalah pratinjau. Menampilkan karya seni yang terkandung dalam lapisan dalam warna bukan sebagai garis luar.
+title: "AiLayerSection.IsPreview"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "AiLayerSection properti. Mendapatkan atau mengatur nilai yang menunjukkan apakah lapisan ini merupakan pratinjau. Menampilkan karya seni yang terdapat dalam lapisan dengan warna alih-alih sebagai garis besar."
 type: docs
-weight: 70
+weight: 90
 url: /id/net/aspose.psd.fileformats.ai/ailayersection/ispreview/
 ---
+{{< psd/tize >}}
 ## AiLayerSection.IsPreview property
 
-Mendapat atau menetapkan nilai yang menunjukkan apakah lapisan ini adalah pratinjau. Menampilkan karya seni yang terkandung dalam lapisan dalam warna, bukan sebagai garis luar.
+Mendapatkan atau mengatur nilai yang menunjukkan apakah lapisan ini dalam pratinjau. Menampilkan karya seni yang terdapat dalam lapisan dengan warna alih-alih sebagai garis besar.
 
 ```csharp
 public bool IsPreview { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
-`BENAR` jika lapisan ini adalah pratinjau; jika tidak,`PALSU` .
+`true` jika lapisan ini merupakan pratinjau; jika tidak, `false`.
 
-### Contoh
+## Contoh
 
 Contoh berikut menunjukkan dukungan lapisan dalam file format AI.
 
@@ -70,10 +71,10 @@ using (AiImage image = (AiImage)Image.Load(sourceFilePath))
 }
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [AiLayerSection](../)
-* ruang nama [Aspose.PSD.FileFormats.Ai](../../ailayersection/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

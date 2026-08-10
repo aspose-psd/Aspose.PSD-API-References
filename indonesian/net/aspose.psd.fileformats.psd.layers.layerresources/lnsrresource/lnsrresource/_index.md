@@ -1,60 +1,61 @@
 ---
-title: LnsrResource.LnsrResource
-second_title: Aspose.PSD untuk Referensi .NET API
-description: LnsrResource konstruktor. Menginisialisasi instance baru dariLnsrResource kelas.
+title: "LnsrResource.LnsrResource"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Konstruktor LnsrResource. Menginisialisasi instance baru dari kelas LnsrResource"
 type: docs
 weight: 10
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources/lnsrresource/lnsrresource/
 ---
+{{< psd/tize >}}
 ## LnsrResource(LnsrResourceType) {#constructor}
 
-Menginisialisasi instance baru dari[`LnsrResource`](../) kelas.
+Menginisialisasi instance baru dari kelas [`LnsrResource`](../).
 
 ```csharp
 public LnsrResource(LnsrResourceType lnsrResourceType)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| lnsrResourceType | LnsrResourceType | Jenis LNSR. |
+| lnsrResourceType | LnsrResourceType | Tipe LNSR. |
 
 ### Pengecualian
 
 | pengecualian | kondisi |
 | --- | --- |
-| [PsdImageArgumentException](../../../aspose.psd.coreexceptions.imageformats/psdimageargumentexception/) | Anda tidak dapat membuat lnsr dengan nilai tipe tidak diketahui |
+| [PsdImageArgumentException](../../../aspose.psd.coreexceptions.imageformats/psdimageargumentexception/) | Anda tidak dapat membuat lnsr dengan nilai tipe Unknown |
 
-### Lihat juga
+### Lihat Juga
 
 * enum [LnsrResourceType](../../lnsrresourcetype/)
 * class [LnsrResource](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../lnsrresource/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## LnsrResource(byte[]) {#constructor_1}
 
-Menginisialisasi instance baru dari[`LnsrResource`](../) class. Dengan nilai khusus atau tidak diketahui
+Menginisialisasi sebuah instance baru dari kelas [`LnsrResource`](../). Dengan nilai khusus atau tidak diketahui
 
 ```csharp
 public LnsrResource(byte[] bytes)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| bytes | Byte[] | Byte. |
+| byte | Byte[] | Byte-byte. |
 
 ### Pengecualian
 
 | pengecualian | kondisi |
 | --- | --- |
-| Exception | Nilai Sumber Daya lnsr tidak valid |
+| Exception | Tidak valid nilai lnsr Resource |
 
-### Lihat juga
+### Lihat Juga
 
 * class [LnsrResource](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../lnsrresource/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

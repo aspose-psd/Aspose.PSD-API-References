@@ -1,11 +1,12 @@
 ---
-title: BorderInformationResource.DataSize
-second_title: Aspose.PSD untuk Referensi .NET API
-description: BorderInformationResource Properti. Mendapatkan ukuran data sumber daya dalam byte.
+title: "BorderInformationResource.DataSize"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti BorderInformationResource. Mendapatkan ukuran data sumber daya dalam byte"
 type: docs
 weight: 20
 url: /id/net/aspose.psd.fileformats.psd.resources/borderinformationresource/datasize/
 ---
+{{< psd/tize >}}
 ## BorderInformationResource.DataSize property
 
 Mendapatkan ukuran data sumber daya dalam byte.
@@ -14,11 +15,11 @@ Mendapatkan ukuran data sumber daya dalam byte.
 public override int DataSize { get; }
 ```
 
-### Nilai properti
+### Property Value
 
 Ukuran data sumber daya.
 
-### Contoh
+## Contoh
 
 Contoh berikut menunjukkan dukungan sumber daya BorderInformationResource.
 
@@ -49,10 +50,10 @@ using (var image = (PsdImage)Image.Load(sourceFilePath))
 }
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [BorderInformationResource](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Resources](../../borderinformationresource/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

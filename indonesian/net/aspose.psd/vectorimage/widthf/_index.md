@@ -1,11 +1,12 @@
 ---
-title: VectorImage.WidthF
-second_title: Aspose.PSD untuk Referensi .NET API
-description: VectorImage Properti. Mendapatkan lebar objek dalam inci.
+title: "VectorImage.WidthF"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "VectorImage properti. Mendapatkan lebar objek dalam inci"
 type: docs
 weight: 50
 url: /id/net/aspose.psd/vectorimage/widthf/
 ---
+{{< psd/tize >}}
 ## VectorImage.WidthF property
 
 Mendapatkan lebar objek, dalam inci.
@@ -14,14 +15,14 @@ Mendapatkan lebar objek, dalam inci.
 public virtual float WidthF { get; }
 ```
 
-### Nilai properti
+### Property Value
 
 Lebar objek, dalam inci.
 
-### Lihat juga
+### Lihat Juga
 
 * class [VectorImage](../)
-* ruang nama [Aspose.PSD](../../vectorimage/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

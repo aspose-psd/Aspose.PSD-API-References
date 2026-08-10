@@ -1,14 +1,15 @@
 ---
-title: Class LangAlt
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Aspose.PSD.Xmp.LangAlt kelas. Merupakan Alternatif Bahasa XMP.
+title: "Kelas LangAlt"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Kelas Aspose.PSD.Xmp.LangAlt. Mewakili Alternatif Bahasa XMP"
 type: docs
-weight: 5760
+weight: 6260
 url: /id/net/aspose.psd.xmp/langalt/
 ---
+{{< psd/tize >}}
 ## LangAlt class
 
-Merupakan Alternatif Bahasa XMP.
+Mewakili Alternatif Bahasa XMP.
 
 ```csharp
 public class LangAlt : IXmlValue
@@ -16,23 +17,23 @@ public class LangAlt : IXmlValue
 
 ## Konstruktor
 
-| Nama | Keterangan |
+| Nama | Deskripsi |
 | --- | --- |
-| [LangAlt](langalt/#constructor)() | Menginisialisasi instance baru dari`LangAlt` kelas. |
-| [LangAlt](langalt/#constructor_1)(string) | Menginisialisasi instance baru dari`LangAlt` kelas. |
+| [LangAlt](langalt/#constructor)() | Menginisialisasi instance baru dari kelas `LangAlt`. |
+| [LangAlt](langalt/#constructor_1)(string) | Menginisialisasi instance baru dari kelas `LangAlt`. |
 
 ## Metode
 
-| Nama | Keterangan |
+| Nama | Deskripsi |
 | --- | --- |
 | virtual [AddLanguage](../../aspose.psd.xmp/langalt/addlanguage/)(string, string) | Menambahkan bahasa. |
-| [GetXmlValue](../../aspose.psd.xmp/langalt/getxmlvalue/)() | Mengubah nilai XMP menjadi representasi XML. |
-| override [ToString](../../aspose.psd.xmp/langalt/tostring/)() | Mengembalikan aString yang mewakili instance ini. |
+| [GetXmlValue](../../aspose.psd.xmp/langalt/getxmlvalue/)() | Mengonversi nilai XMP ke representasi XML. |
+| override [ToString](../../aspose.psd.xmp/langalt/tostring/)() | Mengembalikan String yang mewakili instance ini. |
 
-### Lihat juga
+### Lihat Juga
 
 * interface [IXmlValue](../ixmlvalue/)
-* ruang nama [Aspose.PSD.Xmp](../../aspose.psd.xmp/)
-* perakitan [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Xmp](../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../)
 
 

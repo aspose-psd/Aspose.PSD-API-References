@@ -1,28 +1,29 @@
 ---
-title: CustomLineCap.BaseCap
-second_title: Aspose.PSD untuk Referensi .NET API
-description: CustomLineCap Properti. Mendapat atau menyetelLineCap pencacahan yang iniCustomLineCap berbasis.
+title: "CustomLineCap.BaseCap"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti CustomLineCap. Mendapatkan atau mengatur enumerasi LineCap yang menjadi dasar CustomLineCap ini"
 type: docs
 weight: 20
 url: /id/net/aspose.psd/customlinecap/basecap/
 ---
+{{< psd/tize >}}
 ## CustomLineCap.BaseCap property
 
-Mendapat atau menyetel[`LineCap`](../../linecap/) pencacahan yang ini[`CustomLineCap`](../) berbasis.
+Mendapatkan atau mengatur enumerasi [`LineCap`](../../linecap/) yang menjadi dasar [`CustomLineCap`](../) ini.
 
 ```csharp
 public LineCap BaseCap { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
-Itu[`LineCap`](../../linecap/) pencacahan yang ini[`CustomLineCap`](../) berdasarkan.
+Enumerasi [`LineCap`](../../linecap/) yang menjadi dasar [`CustomLineCap`](../) ini.
 
-### Lihat juga
+### Lihat Juga
 
 * enum [LineCap](../../linecap/)
 * class [CustomLineCap](../)
-* ruang nama [Aspose.PSD](../../customlinecap/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

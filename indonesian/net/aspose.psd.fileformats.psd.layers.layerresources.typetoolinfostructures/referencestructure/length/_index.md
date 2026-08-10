@@ -1,23 +1,24 @@
 ---
-title: ReferenceStructure.Length
-second_title: Aspose.PSD untuk Referensi .NET API
-description: ReferenceStructure Properti. MendapatkanOSTypeStructure panjang dalam byte.
+title: "ReferenceStructure.Length"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "ReferenceStructure properti. Mendapatkan panjang OSTypeStructure dalam byte"
 type: docs
 weight: 40
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/referencestructure/length/
 ---
+{{< psd/tize >}}
 ## ReferenceStructure.Length property
 
-Mendapatkan[`OSTypeStructure`](../../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/) panjang dalam byte.
+Mendapatkan panjang [`OSTypeStructure`](../../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/) dalam byte.
 
 ```csharp
 public override int Length { get; }
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [ReferenceStructure](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../referencestructure/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 

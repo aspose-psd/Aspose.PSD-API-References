@@ -1,23 +1,24 @@
 ---
-title: ListStructure.ItemsCount
-second_title: Aspose.PSD untuk Referensi .NET API
-description: ListStructure Properti. Mendapatkan hitungan item.
+title: "ListStructure.ItemsCount"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti ListStructure. Mendapatkan jumlah item"
 type: docs
 weight: 20
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/liststructure/itemscount/
 ---
+{{< psd/tize >}}
 ## ListStructure.ItemsCount property
 
-Mendapatkan hitungan item.
+Mendapatkan jumlah item.
 
 ```csharp
 public int ItemsCount { get; }
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [ListStructure](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../liststructure/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 

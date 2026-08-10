@@ -1,23 +1,24 @@
 ---
-title: CgEdResource.TypeToolKey
-second_title: Aspose.PSD untuk Referensi .NET API
-description: CgEdResource bidang. Kunci info alat ketik.
+title: "CgEdResource.TypeToolKey"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Bidang CgEdResource. Kunci informasi alat tipe"
 type: docs
-weight: 130
+weight: 110
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources/cgedresource/typetoolkey/
 ---
+{{< psd/tize >}}
 ## CgEdResource.TypeToolKey field
 
-Kunci info alat ketik.
+Kunci info alat tipe.
 
 ```csharp
 public const int TypeToolKey;
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [CgEdResource](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../cgedresource/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

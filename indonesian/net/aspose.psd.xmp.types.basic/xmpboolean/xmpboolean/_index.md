@@ -1,70 +1,71 @@
 ---
-title: XmpBoolean.XmpBoolean
-second_title: Aspose.PSD untuk Referensi .NET API
-description: XmpBoolean konstruktor. Menginisialisasi instance baru dariXmpBoolean kelas berdasarkan nilai boolean.
+title: "XmpBoolean.XmpBoolean"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Konstruktor XmpBoolean. Menginisialisasi instance baru dari kelas XmpBoolean berdasarkan nilai boolean"
 type: docs
 weight: 10
 url: /id/net/aspose.psd.xmp.types.basic/xmpboolean/xmpboolean/
 ---
+{{< psd/tize >}}
 ## XmpBoolean(bool) {#constructor_1}
 
-Menginisialisasi instance baru dari[`XmpBoolean`](../) kelas berdasarkan nilai boolean.
+Menginisialisasi sebuah instance baru dari kelas [`XmpBoolean`](../) berdasarkan nilai boolean.
 
 ```csharp
 public XmpBoolean(bool value)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| value | Boolean | Nilai Boolean. Nilai yang diizinkan adalah Benar atau Salah. |
+| nilai | Boolean | Nilai Boolean. Nilai yang diizinkan adalah True atau False. |
 
-### Lihat juga
+### Lihat Juga
 
 * class [XmpBoolean](../)
-* ruang nama [Aspose.PSD.Xmp.Types.Basic](../../xmpboolean/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Basic](../../../aspose.psd.xmp.types.basic/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## XmpBoolean() {#constructor}
 
-Menginisialisasi instance baru dari[`XmpBoolean`](../) kelas dengan nilai default.
+Menginisialisasi sebuah instance baru dari kelas [`XmpBoolean`](../) dengan nilai default.
 
 ```csharp
 public XmpBoolean()
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [XmpBoolean](../)
-* ruang nama [Aspose.PSD.Xmp.Types.Basic](../../xmpboolean/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Basic](../../../aspose.psd.xmp.types.basic/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## XmpBoolean(string) {#constructor_2}
 
-Menginisialisasi instance baru dari[`XmpBoolean`](../) kelas.
+Menginisialisasi sebuah instance baru dari kelas [`XmpBoolean`](../).
 
 ```csharp
 public XmpBoolean(string value)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| value | String | Nilai. |
+| nilai | String | Nilai. |
 
 ### Pengecualian
 
 | pengecualian | kondisi |
 | --- | --- |
 | ArgumentNullException | nilai |
-| ArgumentException | Nilai string tidak valid;nilai |
+| ArgumentException | Nilai string tidak valid;value |
 
-### Lihat juga
+### Lihat Juga
 
 * class [XmpBoolean](../)
-* ruang nama [Aspose.PSD.Xmp.Types.Basic](../../xmpboolean/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Basic](../../../aspose.psd.xmp.types.basic/)
+* assembly [Aspose.PSD](../../../)
 
 

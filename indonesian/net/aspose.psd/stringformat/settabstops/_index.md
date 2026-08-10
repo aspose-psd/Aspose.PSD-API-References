@@ -1,28 +1,29 @@
 ---
-title: StringFormat.SetTabStops
-second_title: Aspose.PSD untuk Referensi .NET API
-description: StringFormat metode. Menyetel perhentian tab untuk iniStringFormat objek.
+title: "StringFormat.SetTabStops"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode StringFormat. Mengatur tab stop untuk objek StringFormat ini."
 type: docs
-weight: 140
+weight: 170
 url: /id/net/aspose.psd/stringformat/settabstops/
 ---
+{{< psd/tize >}}
 ## StringFormat.SetTabStops method
 
-Menyetel perhentian tab untuk ini[`StringFormat`](../) objek.
+Mengatur tab stop untuk objek [`StringFormat`](../) ini.
 
 ```csharp
 public void SetTabStops(float firstTabOffset, float[] tabStops)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| firstTabOffset | Single | Jumlah spasi antara awal baris teks dan perhentian tab pertama. |
-| tabStops | Single[] | Larik jarak antar tab berhenti dalam satuan yang ditentukan oleh[`PageUnit`](../../graphics/pageunit/) Properti. |
+| firstTabOffset | Single | Jumlah spasi antara awal baris teks dan tab stop pertama. |
+| tabStops | Single[] | Array jarak antara tab stop dalam satuan yang ditentukan oleh properti [`PageUnit`](../../graphics/pageunit/). |
 
-### Lihat juga
+### Lihat Juga
 
 * class [StringFormat](../)
-* ruang nama [Aspose.PSD](../../stringformat/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,31 +1,32 @@
 ---
-title: XmpRdfRoot.GetNamespaceUri
-second_title: Aspose.PSD untuk Referensi .NET API
-description: XmpRdfRoot metode. Mendapat URI namespace dengan awalan tertentu. Awalan dapat dimulai tanpa xmlns.
+title: "XmpRdfRoot.GetNamespaceUri"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode XmpRdfRoot. Mendapatkan URI namespace dengan awalan tertentu. Awalan dapat dimulai tanpa xmlns"
 type: docs
 weight: 20
 url: /id/net/aspose.psd.xmp/xmprdfroot/getnamespaceuri/
 ---
+{{< psd/tize >}}
 ## XmpRdfRoot.GetNamespaceUri method
 
-Mendapat URI namespace dengan awalan tertentu. Awalan dapat dimulai tanpa xmlns.
+Mendapatkan URI namespace berdasarkan prefiks tertentu. Prefiks dapat dimulai tanpa xmlns.
 
 ```csharp
 public string GetNamespaceUri(string prefix)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| prefix | String | Awalan. |
+| prefix | String | Prefix tersebut. |
 
-### Nilai Pengembalian
+### Nilai Kembalian
 
 Mengembalikan URI skema paket.
 
-### Lihat juga
+### Lihat Juga
 
 * class [XmpRdfRoot](../)
-* ruang nama [Aspose.PSD.Xmp](../../xmprdfroot/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

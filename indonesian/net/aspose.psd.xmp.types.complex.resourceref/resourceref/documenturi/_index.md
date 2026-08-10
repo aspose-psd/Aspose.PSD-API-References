@@ -1,27 +1,28 @@
 ---
-title: ResourceRef.DocumentUri
-second_title: Aspose.PSD untuk Referensi .NET API
-description: ResourceRef Properti. Mendapat atau menyetel URI dokumen.
+title: "ResourceRef.DocumentUri"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti ResourceRef. Mendapatkan atau mengatur URI dokumen"
 type: docs
 weight: 30
 url: /id/net/aspose.psd.xmp.types.complex.resourceref/resourceref/documenturi/
 ---
+{{< psd/tize >}}
 ## ResourceRef.DocumentUri property
 
-Mendapat atau menyetel URI dokumen.
+Mendapatkan atau mengatur URI dokumen.
 
 ```csharp
 public string DocumentUri { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
-Dokumen URI.
+URI dokumen.
 
-### Lihat juga
+### Lihat Juga
 
 * class [ResourceRef](../)
-* ruang nama [Aspose.PSD.Xmp.Types.Complex.ResourceRef](../../resourceref/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.ResourceRef](../../../aspose.psd.xmp.types.complex.resourceref/)
+* assembly [Aspose.PSD](../../../)
 
 

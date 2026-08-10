@@ -1,11 +1,12 @@
 ---
-title: BlendingOptions.AddColorOverlay
-second_title: Aspose.PSD untuk Referensi .NET API
-description: BlendingOptions metode. Menambahkan overlay warna.
+title: "BlendingOptions.AddColorOverlay"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode BlendingOptions. Menambahkan lapisan warna"
 type: docs
-weight: 20
+weight: 30
 url: /id/net/aspose.psd.fileformats.psd.layers.layereffects/blendingoptions/addcoloroverlay/
 ---
+{{< psd/tize >}}
 ## BlendingOptions.AddColorOverlay method
 
 Menambahkan overlay warna.
@@ -14,15 +15,15 @@ Menambahkan overlay warna.
 public ColorOverlayEffect AddColorOverlay()
 ```
 
-### Nilai Pengembalian
+### Nilai Kembalian
 
-Dibuat[`ColorOverlayEffect`](../../coloroverlayeffect/) objek
+Membuat objek [`ColorOverlayEffect`](../../coloroverlayeffect/)
 
-### Lihat juga
+### Lihat Juga
 
 * class [ColorOverlayEffect](../../coloroverlayeffect/)
 * class [BlendingOptions](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../blendingoptions/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../../)
 
 

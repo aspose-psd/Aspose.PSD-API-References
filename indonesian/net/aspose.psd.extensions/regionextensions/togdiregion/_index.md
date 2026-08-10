@@ -1,32 +1,33 @@
 ---
-title: RegionExtensions.ToGdiRegion
-second_title: Aspose.PSD untuk Referensi .NET API
-description: RegionExtensions metode. MengubahRegion keRegion .
+title: "RegionExtensions.ToGdiRegion"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode RegionExtensions. Mengonversi Region ke Region"
 type: docs
 weight: 10
 url: /id/net/aspose.psd.extensions/regionextensions/togdiregion/
 ---
+{{< psd/tize >}}
 ## RegionExtensions.ToGdiRegion method
 
-Mengubah[`Region`](../../../aspose.psd/region/) keRegion .
+Mengonversi [`Region`](../../../aspose.psd/region/) ke Region.
 
 ```csharp
 public static Region ToGdiRegion(Region region)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| region | Region | Itu[`Region`](../../../aspose.psd/region/) untuk mengubah. |
+| region | Region | [`Region`](../../../aspose.psd/region/) untuk dikonversi. |
 
-### Nilai Pengembalian
+### Nilai Kembalian
 
-Yang dikonversiRegion.
+Region yang telah dikonversi.
 
-### Lihat juga
+### Lihat Juga
 
 * class [Region](../../../aspose.psd/region/)
 * class [RegionExtensions](../)
-* ruang nama [Aspose.PSD.Extensions](../../regionextensions/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Extensions](../../../aspose.psd.extensions/)
+* assembly [Aspose.PSD](../../../)
 
 

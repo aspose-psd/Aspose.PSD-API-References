@@ -1,14 +1,15 @@
 ---
-title: Class OSTypeStructuresRegistry
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.OSTypeStructuresRegistry kelas. MewakiliOSTypeStructure registri sumber daya.
+title: "Kelas OSTypeStructuresRegistry"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Kelas Aspose.PSD.FileFormats.Psd.Layers.LayerResources.OSTypeStructuresRegistry. Mewakili registri sumber daya OSTypeStructure"
 type: docs
-weight: 2860
+weight: 3200
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources/ostypestructuresregistry/
 ---
+{{< psd/tize >}}
 ## OSTypeStructuresRegistry class
 
-Mewakili[`OSTypeStructure`](../ostypestructure/) registri sumber daya.
+Mewakili registri sumber daya [`OSTypeStructure`](../ostypestructure/).
 
 ```csharp
 public static class OSTypeStructuresRegistry
@@ -16,23 +17,23 @@ public static class OSTypeStructuresRegistry
 
 ## Properti
 
-| Nama | Keterangan |
+| Nama | Deskripsi |
 | --- | --- |
-| static [RegisteredDescriptors](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructuresregistry/registereddescriptors/) { get; } | Mendapat deskriptor terdaftar. |
+| static [RegisteredDescriptors](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructuresregistry/registereddescriptors/) { get; } | Mendapatkan deskriptor yang terdaftar. |
 
 ## Metode
 
-| Nama | Keterangan |
+| Nama | Deskripsi |
 | --- | --- |
-| static [GetFirstSupportedDescriptor](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructuresregistry/getfirstsupporteddescriptor/)(Stream) | Mendapat deskriptor pembuka pertama yang didukung. |
-| static [GetFirstSupportedDescriptorByTypeName](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructuresregistry/getfirstsupporteddescriptorbytypename/)(string) | Mendapatkan deskriptor pertama yang didukung dengan nama jenisnya. |
-| static [LoadResourceByFirstSupportedDescriptor](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructuresregistry/loadresourcebyfirstsupporteddescriptor/)(Stream) | Banyak[`OSTypeStructure`](../ostypestructure/) menggunakan pembuka pertama yang ditemukan cocok untuk yang ditentukan*stream* . |
+| static [GetFirstSupportedDescriptor](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructuresregistry/getfirstsupporteddescriptor/)(Stream) | Mendapatkan deskriptor pembuka pertama yang didukung. |
+| static [GetFirstSupportedDescriptorByTypeName](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructuresregistry/getfirstsupporteddescriptorbytypename/)(string) | Mendapatkan deskriptor pertama yang didukung berdasarkan nama tipenya. |
+| static [LoadResourceByFirstSupportedDescriptor](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructuresregistry/loadresourcebyfirstsupporteddescriptor/)(Stream) | Memuat [`OSTypeStructure`](../ostypestructure/) menggunakan pembuka pertama yang ditemukan yang cocok untuk *stream* yang ditentukan. |
 | static [RegisterOpener](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructuresregistry/registeropener/)(IOSTypeStructureLoader) | Mendaftarkan pembuka. |
-| static [UnregisterOpener](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructuresregistry/unregisteropener/)(IOSTypeStructureLoader) | Batalkan pendaftaran pembuka. |
+| static [UnregisterOpener](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructuresregistry/unregisteropener/)(IOSTypeStructureLoader) | Membatalkan pendaftaran pembuka. |
 
-### Lihat juga
+### Lihat Juga
 
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
-* perakitan [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../)
 
 

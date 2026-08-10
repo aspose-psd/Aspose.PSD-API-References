@@ -1,11 +1,12 @@
 ---
-title: Class ImageLoadersRegistry
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Aspose.PSD.ImageLoadersRegistry kelas. Mewakili registri pemuat gambar.
+title: "Kelas ImageLoadersRegistry"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Kelas Aspose.PSD.ImageLoadersRegistry. Mewakili registri pemuat gambar"
 type: docs
-weight: 4780
+weight: 5270
 url: /id/net/aspose.psd/imageloadersregistry/
 ---
+{{< psd/tize >}}
 ## ImageLoadersRegistry class
 
 Mewakili registri pemuat gambar.
@@ -16,26 +17,26 @@ public static class ImageLoadersRegistry
 
 ## Properti
 
-| Nama | Keterangan |
+| Nama | Deskripsi |
 | --- | --- |
-| static [RegisteredDescriptors](../../aspose.psd/imageloadersregistry/registereddescriptors/) { get; } | Mendapat deskriptor terdaftar. |
-| static [RegisteredFormats](../../aspose.psd/imageloadersregistry/registeredformats/) { get; } | Mendapat format pemuatan gambar terdaftar. |
+| static [RegisteredDescriptors](../../aspose.psd/imageloadersregistry/registereddescriptors/) { get; } | Mendapatkan deskriptor yang terdaftar. |
+| static [RegisteredFormats](../../aspose.psd/imageloadersregistry/registeredformats/) { get; } | Mendapatkan format pemuatan gambar yang terdaftar. |
 
 ## Metode
 
-| Nama | Keterangan |
+| Nama | Deskripsi |
 | --- | --- |
-| static [CreateFirstSupportedLoader](../../aspose.psd/imageloadersregistry/createfirstsupportedloader/)(Stream, LoadOptions) | Membuat loader pertama yang ditemukan cocok untuk yang ditentukan*stream* dan opsional*loadOptions* . |
-| static [GetFirstSupportedDescriptor](../../aspose.psd/imageloadersregistry/getfirstsupporteddescriptor/)(Stream, LoadOptions) | Mendapat peninju yang ditemukan deskriptor yang didukung cocok untuk yang ditentukan*stream* dan opsional*loadOptions* . |
-| static [GetFirstSupportedDescriptorByFileFormat](../../aspose.psd/imageloadersregistry/getfirstsupporteddescriptorbyfileformat/)(FileFormat) | Mendapatkan format file pertama yang didukung dengan nama jenisnya. |
-| static [GetFirstSupportedDescriptorByTypeName](../../aspose.psd/imageloadersregistry/getfirstsupporteddescriptorbytypename/)(string) | Mendapatkan deskriptor pertama yang didukung dengan nama jenisnya. |
-| static [Register](../../aspose.psd/imageloadersregistry/register/)(IImageLoaderDescriptor) | Mendaftarkan deskripsi pemuat gambar yang ditentukan. |
-| static [RegisterLoader](../../aspose.psd/imageloadersregistry/registerloader/)(IImageLoaderDescriptor) | Mendaftarkan loader. |
-| static [UnregisterLoader](../../aspose.psd/imageloadersregistry/unregisterloader/)(IImageLoaderDescriptor) | Membatalkan pendaftaran loader. |
+| static [CreateFirstSupportedLoader](../../aspose.psd/imageloadersregistry/createfirstsupportedloader/)(Stream, LoadOptions) | Membuat pemuat pertama yang ditemukan yang cocok untuk *stream* yang ditentukan dan opsional *loadOptions*. |
+| static [GetFirstSupportedDescriptor](../../aspose.psd/imageloadersregistry/getfirstsupporteddescriptor/)(Stream, LoadOptions) | Mendapatkan deskriptor yang didukung pertama yang ditemukan yang cocok untuk *stream* yang ditentukan dan opsional *loadOptions*. |
+| static [GetFirstSupportedDescriptorByFileFormat](../../aspose.psd/imageloadersregistry/getfirstsupporteddescriptorbyfileformat/)(FileFormat) | Mendapatkan format file yang didukung pertama berdasarkan nama tipenya. |
+| static [GetFirstSupportedDescriptorByTypeName](../../aspose.psd/imageloadersregistry/getfirstsupporteddescriptorbytypename/)(string) | Mendapatkan deskriptor pertama yang didukung berdasarkan nama tipenya. |
+| static [Register](../../aspose.psd/imageloadersregistry/register/)(IImageLoaderDescriptor) | Mendaftarkan deskriptor pemuat gambar yang ditentukan. |
+| static [RegisterLoader](../../aspose.psd/imageloadersregistry/registerloader/)(IImageLoaderDescriptor) | Mendaftarkan pemuat. |
+| static [UnregisterLoader](../../aspose.psd/imageloadersregistry/unregisterloader/)(IImageLoaderDescriptor) | Membatalkan pendaftaran pemuat. |
 
-### Lihat juga
+### Lihat Juga
 
-* ruang nama [Aspose.PSD](../../aspose.psd/)
-* perakitan [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

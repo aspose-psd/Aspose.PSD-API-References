@@ -1,27 +1,28 @@
 ---
-title: Font.GetHashCode
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Font metode. Mendapat kode hash untuk iniFont .
+title: "Font.GetHashCode"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode Font. Mengambil kode hash untuk Font ini."
 type: docs
 weight: 130
 url: /id/net/aspose.psd/font/gethashcode/
 ---
+{{< psd/tize >}}
 ## Font.GetHashCode method
 
-Mendapat kode hash untuk ini[`Font`](../) .
+Mengambil kode hash untuk [`Font`](../) ini.
 
 ```csharp
 public override int GetHashCode()
 ```
 
-### Nilai Pengembalian
+### Nilai Kembalian
 
-Kode hash untuk ini[`Font`](../).
+Kode hash untuk ini [`Font`](../).
 
-### Lihat juga
+### Lihat Juga
 
 * class [Font](../)
-* ruang nama [Aspose.PSD](../../font/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

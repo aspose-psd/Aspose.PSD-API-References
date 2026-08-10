@@ -1,29 +1,30 @@
 ---
-title: ShmdResource.Save
-second_title: Aspose.PSD untuk Referensi .NET API
-description: ShmdResource metode. Menyimpan wadah aliran yang ditentukan.
+title: "ShmdResource.Save"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode ShmdResource. Menyimpan kontainer aliran yang ditentukan"
 type: docs
-weight: 80
+weight: 50
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources/shmdresource/save/
 ---
+{{< psd/tize >}}
 ## ShmdResource.Save method
 
-Menyimpan wadah aliran yang ditentukan.
+Menyimpan kontainer aliran yang ditentukan.
 
 ```csharp
 public override void Save(StreamContainer streamContainer, int psdVersion)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| streamContainer | StreamContainer | Wadah aliran. |
+| streamContainer | StreamContainer | Kontainer aliran. |
 | psdVersion | Int32 | Versi PSD. |
 
-### Lihat juga
+### Lihat Juga
 
 * class [StreamContainer](../../../aspose.psd/streamcontainer/)
 * class [ShmdResource](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../shmdresource/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,28 +1,29 @@
 ---
-title: PsdOptions.CompressionMethod
-second_title: Aspose.PSD untuk Referensi .NET API
-description: PsdOptions Properti. Mendapat atau menyetel metode kompresi psd.
+title: "PsdOptions.CompressionMethod"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti PsdOptions. Mendapatkan atau mengatur metode kompresi psd"
 type: docs
-weight: 50
+weight: 60
 url: /id/net/aspose.psd.imageoptions/psdoptions/compressionmethod/
 ---
+{{< psd/tize >}}
 ## PsdOptions.CompressionMethod property
 
-Mendapat atau menyetel metode kompresi psd.
+Mendapatkan atau mengatur metode kompresi psd.
 
 ```csharp
 public CompressionMethod CompressionMethod { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
 Metode kompresi.
 
-### Lihat juga
+### Lihat Juga
 
 * enum [CompressionMethod](../../../aspose.psd.fileformats.psd/compressionmethod/)
 * class [PsdOptions](../)
-* ruang nama [Aspose.PSD.ImageOptions](../../psdoptions/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

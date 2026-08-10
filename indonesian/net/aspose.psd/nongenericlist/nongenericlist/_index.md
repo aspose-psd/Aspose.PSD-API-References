@@ -1,27 +1,28 @@
 ---
-title: NonGenericList.NonGenericList
-second_title: Aspose.PSD untuk Referensi .NET API
-description: NonGenericList konstruktor. Menginisialisasi instance baru dariNonGenericList kelas.
+title: "NonGenericList.NonGenericList"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Konstruktor NonGenericList. Menginisialisasi instance baru dari kelas NonGenericList"
 type: docs
 weight: 10
 url: /id/net/aspose.psd/nongenericlist/nongenericlist/
 ---
+{{< psd/tize >}}
 ## NonGenericList constructor
 
-Menginisialisasi instance baru dari[`NonGenericList`](../) kelas.
+Menginisialisasi instance baru dari kelas [`NonGenericList`](../).
 
 ```csharp
 public NonGenericList(IList list)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| list | IList | Daftar - wadah objek. |
+| daftar | IList | Daftar - wadah objek. |
 
-### Lihat juga
+### Lihat Juga
 
 * class [NonGenericList](../)
-* ruang nama [Aspose.PSD](../../nongenericlist/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

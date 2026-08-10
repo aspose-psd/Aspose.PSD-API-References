@@ -1,14 +1,15 @@
 ---
-title: Class StreamSource
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Aspose.PSD.Sources.StreamSource kelas. Merupakan sumber aliran.
+title: "Kelas StreamSource"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Kelas Aspose.PSD.Sources.StreamSource. Mewakili sumber aliran."
 type: docs
-weight: 5620
+weight: 6120
 url: /id/net/aspose.psd.sources/streamsource/
 ---
+{{< psd/tize >}}
 ## StreamSource class
 
-Merupakan sumber aliran.
+Mewakili sumber aliran.
 
 ```csharp
 public sealed class StreamSource : Source
@@ -16,63 +17,63 @@ public sealed class StreamSource : Source
 
 ## Konstruktor
 
-| Nama | Keterangan |
+| Nama | Deskripsi |
 | --- | --- |
-| [StreamSource](streamsource/#constructor)(Stream) | Menginisialisasi instance baru dari`StreamSource` kelas. |
-| [StreamSource](streamsource/#constructor_1)(Stream, bool) | Menginisialisasi instance baru dari`StreamSource` kelas. |
+| [StreamSource](streamsource/#constructor)(Stream) | Menginisialisasi sebuah instance baru dari kelas `StreamSource`. |
+| [StreamSource](streamsource/#constructor_1)(Stream, bool) | Menginisialisasi sebuah instance baru dari kelas `StreamSource`. |
 
 ## Properti
 
-| Nama | Keterangan |
+| Nama | Deskripsi |
 | --- | --- |
-| [DisposeStream](../../aspose.psd.sources/streamsource/disposestream/) { get; } | Mendapat nilai yang menunjukkan apakah aliran harus dibuang setiap kali wadah dibuang. |
-| [Stream](../../aspose.psd.sources/streamsource/stream/) { get; } | Mendapat streaming. |
+| [DisposeStream](../../aspose.psd.sources/streamsource/disposestream/) { get; } | Mendapatkan nilai yang menunjukkan apakah aliran harus dibuang setiap kali kontainer dibuang. |
+| [Stream](../../aspose.psd.sources/streamsource/stream/) { get; } | Mendapatkan aliran. |
 
 ## Metode
 
-| Nama | Keterangan |
+| Nama | Deskripsi |
 | --- | --- |
-| override [GetStreamContainer](../../aspose.psd.sources/streamsource/getstreamcontainer/)() | Mendapatkan wadah aliran. |
+| override [GetStreamContainer](../../aspose.psd.sources/streamsource/getstreamcontainer/)() | Mendapatkan kontainer aliran. |
 
-### Contoh
+## Contoh
 
-Contoh ini menggunakan kelas Grafik untuk membuat bentuk primitif pada permukaan Gambar. Untuk mendemonstrasikan operasi, contoh membuat Gambar baru dalam format PSD dan menggambar bentuk primitif pada permukaan Gambar menggunakan metode Gambar yang diekspos oleh kelas Grafik lalu mengekspornya ke format file PSD.
+Contoh ini menggunakan kelas Graphics untuk membuat bentuk primitif pada permukaan Image. Untuk mendemonstrasikan operasi, contoh ini membuat Image baru dalam format PSD dan menggambar bentuk primitif pada permukaan Image menggunakan metode Draw yang disediakan oleh kelas Graphics, kemudian mengekspornya ke format file PSD.
 
 ```csharp
 [C#]
 
-//Buat instance dari Gambar 
+//Buat sebuah instance dari Image
 using (Aspose.PSD.Image image = new Aspose.PSD.FileFormats.Psd.PsdImage(500, 500))
 {
-    //Membuat dan menginisialisasi sebuah instance dari kelas Graphics
+    //Buat dan inisialisasi sebuah instance dari kelas Graphics
     Aspose.PSD.Graphics graphics = new Aspose.PSD.Graphics(image);
 
-    // Bersihkan permukaan Grafik
+    //Bersihkan permukaan Graphics
     graphics.Clear(Color.Wheat);
 
-    //Gambar Arc dengan menentukan objek Pena berwarna Hitam, 
-    //Sebuah Persegi Panjang yang mengelilingi Lengkungan, Sudut Mulai, dan Sudut Sapuan
+    //Gambar sebuah Arc dengan menentukan objek Pen yang berwarna Hitam, 
+    //sebuah Rectangle yang mengelilingi Arc, Sudut Mulai, dan Sudut Penyapuan
     graphics.DrawArc(new Pen(Color.Black, 2), new Rectangle(200, 200, 100, 200), 0, 300);
 
-    //Gambar Bezier dengan menentukan objek Pen yang memiliki warna Biru dan titik koordinat.
+    //Gambar sebuah Bezier dengan menentukan objek Pen yang berwarna Biru dan Titik koordinat.
     graphics.DrawBezier(new Pen(Color.Blue, 2), new Point(250, 100), new Point(300, 30), new Point(450, 100), new Point(235, 25));
 
-    // Gambar Kurva dengan menentukan objek Pena yang memiliki warna Hijau dan larik Poin
+    //Gambar sebuah Curve dengan menentukan objek Pen yang berwarna Hijau dan sebuah array Titik
     graphics.DrawCurve(new Pen(Color.Green, 2), new[] { new Point(100, 200), new Point(100, 350), new Point(200, 450) });
 
-    //Gambar Ellipse menggunakan objek Pen dan Rectangle di sekelilingnya
+    //Gambar sebuah Ellipse menggunakan objek Pen dan Rectangle yang mengelilinginya
     graphics.DrawEllipse(new Pen(Color.Yellow, 2), new Rectangle(300, 300, 100, 100));
 
-    //Menarik garis 
+    //Gambar sebuah Garis 
     graphics.DrawLine(new Pen(Color.Violet, 2), new Point(100, 100), new Point(200, 200));
 
-    //Gambar segmen Pai
+    //Gambar sebuah segmen Pie
     graphics.DrawPie(new Pen(Color.Silver, 2), new Rectangle(new Point(200, 20), new Size(200, 200)), 0, 45);
 
-    // Gambar Poligon dengan menentukan objek Pena yang memiliki warna Merah dan larik Poin
+    //Gambar sebuah Polygon dengan menentukan objek Pen yang berwarna Merah dan sebuah array Titik
     graphics.DrawPolygon(new Pen(Color.Red, 2), new[] { new Point(20, 100), new Point(20, 200), new Point(220, 20) });
 
-    //Gambar Persegi Panjang
+    //Gambar sebuah Rectangle
     graphics.DrawRectangle(new Pen(Color.Orange, 2), new Rectangle(new Point(250, 250), new Size(100, 100)));
 
     //Buat objek SolidBrush dan atur berbagai propertinya
@@ -80,10 +81,10 @@ using (Aspose.PSD.Image image = new Aspose.PSD.FileFormats.Psd.PsdImage(500, 500
     brush.Color = Color.Purple;
     brush.Opacity = 100;
 
-    // Gambar sebuah String menggunakan objek SolidBrush dan Font, pada Titik tertentu
+    //Gambar sebuah String menggunakan objek SolidBrush dan Font, pada Point tertentu
     graphics.DrawString("This image is created by Aspose.PSD API", new Font("Times New Roman", 16), brush, new PointF(50, 400));
 
-    //Buat instance PngOptions dan atur berbagai propertinya
+    //Buat sebuah instance dari PngOptions dan atur berbagai propertinya
     Aspose.PSD.ImageOptions.PngOptions pngOptions = new Aspose.PSD.ImageOptions.PngOptions();
 
     // simpan semua perubahan.
@@ -91,10 +92,10 @@ using (Aspose.PSD.Image image = new Aspose.PSD.FileFormats.Psd.PsdImage(500, 500
 }
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [Source](../../aspose.psd/source/)
-* ruang nama [Aspose.PSD.Sources](../../aspose.psd.sources/)
-* perakitan [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Sources](../../aspose.psd.sources/)
+* assembly [Aspose.PSD](../../)
 
 

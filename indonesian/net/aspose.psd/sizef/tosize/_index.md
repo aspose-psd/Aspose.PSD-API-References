@@ -1,28 +1,29 @@
 ---
-title: SizeF.ToSize
-second_title: Aspose.PSD untuk Referensi .NET API
-description: SizeF metode. Mengonversi aSizeF ke aSize struktur dengan nilai ukuran terpotong.
+title: "SizeF.ToSize"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode SizeF. Mengonversi SizeF menjadi struktur Size dengan nilai ukuran yang dipotong."
 type: docs
 weight: 110
 url: /id/net/aspose.psd/sizef/tosize/
 ---
+{{< psd/tize >}}
 ## SizeF.ToSize method
 
-Mengonversi a[`SizeF`](../) ke a[`Size`](../../size/) struktur dengan nilai ukuran terpotong.
+Mengonversi [`SizeF`](../) menjadi struktur [`Size`](../../size/) dengan nilai ukuran yang dipotong.
 
 ```csharp
 public Size ToSize()
 ```
 
-### Nilai Pengembalian
+### Nilai Kembalian
 
-pengembalian a[`Size`](../../size/) struktur.
+Mengembalikan struktur [`Size`](../../size/).
 
-### Lihat juga
+### Lihat Juga
 
 * struct [Size](../../size/)
 * struct [SizeF](../)
-* ruang nama [Aspose.PSD](../../sizef/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

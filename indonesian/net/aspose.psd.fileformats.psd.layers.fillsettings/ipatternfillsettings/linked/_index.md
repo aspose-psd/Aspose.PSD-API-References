@@ -1,27 +1,28 @@
 ---
-title: IPatternFillSettings.Linked
-second_title: Aspose.PSD untuk Referensi .NET API
-description: IPatternFillSettings Properti. Mendapat atau menetapkan nilai yang menunjukkan apakah iniIPatternFillSettingsditautkan.
+title: "IPatternFillSettings.Linked"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti IPatternFillSettings. Mendapatkan atau mengatur nilai yang menunjukkan apakah IPatternFillSettings ini terhubung"
 type: docs
-weight: 20
+weight: 30
 url: /id/net/aspose.psd.fileformats.psd.layers.fillsettings/ipatternfillsettings/linked/
 ---
+{{< psd/tize >}}
 ## IPatternFillSettings.Linked property
 
-Mendapat atau menetapkan nilai yang menunjukkan apakah ini[`IPatternFillSettings`](../)ditautkan.
+Mendapatkan atau mengatur nilai yang menunjukkan apakah [`IPatternFillSettings`](../) ini terhubung.
 
 ```csharp
 public bool Linked { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
-`BENAR` jika ditautkan; jika tidak,`PALSU` .
+`true` jika terhubung; sebaliknya, `false`.
 
-### Lihat juga
+### Lihat Juga
 
 * interface [IPatternFillSettings](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../ipatternfillsettings/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../../)
 
 

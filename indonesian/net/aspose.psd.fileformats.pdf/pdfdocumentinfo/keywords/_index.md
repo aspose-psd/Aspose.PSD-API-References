@@ -1,23 +1,24 @@
 ---
-title: PdfDocumentInfo.Keywords
-second_title: Aspose.PSD untuk Referensi .NET API
-description: PdfDocumentInfo Properti. Mendapat atau menetapkan kata kunci dari dokumen.
+title: "PdfDocumentInfo.Keywords"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti PdfDocumentInfo. Mendapatkan atau mengatur kata kunci dokumen"
 type: docs
 weight: 30
 url: /id/net/aspose.psd.fileformats.pdf/pdfdocumentinfo/keywords/
 ---
+{{< psd/tize >}}
 ## PdfDocumentInfo.Keywords property
 
-Mendapat atau menetapkan kata kunci dari dokumen.
+Mendapatkan atau mengatur kata kunci dokumen.
 
 ```csharp
 public string Keywords { get; set; }
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [PdfDocumentInfo](../)
-* ruang nama [Aspose.PSD.FileFormats.Pdf](../../pdfdocumentinfo/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Pdf](../../../aspose.psd.fileformats.pdf/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,20 +1,21 @@
 ---
-title: GradientFillSettings.Scale
-second_title: Aspose.PSD untuk Referensi .NET API
-description: GradientFillSettings Properti. Mendapat atau menyetel skala.
+title: "GradientFillSettings.Scale"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti GradientFillSettings. Mendapatkan atau mengatur skala gradien ternormalkan dalam persen"
 type: docs
-weight: 120
+weight: 110
 url: /id/net/aspose.psd.fileformats.psd.layers.fillsettings/gradientfillsettings/scale/
 ---
+{{< psd/tize >}}
 ## GradientFillSettings.Scale property
 
-Mendapat atau menyetel skala.
+Mendapatkan atau mengatur skala gradien **normalized** (dalam persen)
 
 ```csharp
 public int Scale { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
 Skala.
 
@@ -22,12 +23,12 @@ Skala.
 
 | pengecualian | kondisi |
 | --- | --- |
-| [PsdImageArgumentException](../../../aspose.psd.coreexceptions.imageformats/psdimageargumentexception/) | Skala harus berkisar dari 1 hingga 1000. |
+| [PsdImageArgumentException](../../../aspose.psd.coreexceptions.imageformats/psdimageargumentexception/) | Skala harus berada dalam rentang dari 1 hingga 1000. |
 
-### Lihat juga
+### Lihat Juga
 
 * class [GradientFillSettings](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../gradientfillsettings/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../../)
 
 

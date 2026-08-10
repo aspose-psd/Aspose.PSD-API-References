@@ -1,65 +1,66 @@
 ---
-title: Graphics.FillRectangles
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Graphics metode. Mengisi interior rangkaian persegi panjang yang ditentukan olehRectangle struktur.
+title: "Graphics.FillRectangles"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode Graphics. Mengisi bagian dalam serangkaian persegi panjang yang ditentukan oleh struktur Rectangle"
 type: docs
-weight: 400
+weight: 410
 url: /id/net/aspose.psd/graphics/fillrectangles/
 ---
+{{< psd/tize >}}
 ## FillRectangles(Brush, Rectangle[]) {#fillrectangles_1}
 
-Mengisi interior rangkaian persegi panjang yang ditentukan oleh[`Rectangle`](../../rectangle/) struktur.
+Mengisi bagian dalam serangkaian persegi panjang yang ditentukan oleh struktur [`Rectangle`](../../rectangle/).
 
 ```csharp
 public void FillRectangles(Brush brush, Rectangle[] rects)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| brush | Brush | [`Brush`](../../brush/)yang menentukan karakteristik isian. |
-| rects | Rectangle[] | Susunan dari[`Rectangle`](../../rectangle/) struktur yang mewakili persegi panjang untuk diisi. |
+| brush | Brush | [`Brush`](../../brush/) yang menentukan karakteristik pengisian. |
+| rects | Rectangle[] | Array struktur [`Rectangle`](../../rectangle/) yang mewakili persegi panjang yang akan diisi. |
 
 ### Pengecualian
 
 | pengecualian | kondisi |
 | --- | --- |
-| ArgumentNullException | *brush* adalah nol atau*rects* adalah nol. |
+| ArgumentNullException | *brush* bernilai null atau *rects* bernilai null. |
 
-### Lihat juga
+### Lihat Juga
 
 * class [Brush](../../brush/)
 * struct [Rectangle](../../rectangle/)
 * class [Graphics](../)
-* ruang nama [Aspose.PSD](../../graphics/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## FillRectangles(Brush, RectangleF[]) {#fillrectangles}
 
-Mengisi interior rangkaian persegi panjang yang ditentukan oleh[`RectangleF`](../../rectanglef/) struktur.
+Mengisi bagian dalam serangkaian persegi panjang yang ditentukan oleh struktur [`RectangleF`](../../rectanglef/).
 
 ```csharp
 public void FillRectangles(Brush brush, RectangleF[] rects)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| brush | Brush | [`Brush`](../../brush/)yang menentukan karakteristik isian. |
-| rects | RectangleF[] | Susunan dari[`Rectangle`](../../rectangle/) struktur yang mewakili persegi panjang untuk diisi. |
+| brush | Brush | [`Brush`](../../brush/) yang menentukan karakteristik pengisian. |
+| rects | RectangleF[] | Array struktur [`Rectangle`](../../rectangle/) yang mewakili persegi panjang yang akan diisi. |
 
 ### Pengecualian
 
 | pengecualian | kondisi |
 | --- | --- |
-| ArgumentNullException | *brush* adalah nol atau*rects* adalah nol. |
+| ArgumentNullException | *brush* bernilai null atau *rects* bernilai null. |
 
-### Lihat juga
+### Lihat Juga
 
 * class [Brush](../../brush/)
 * struct [RectangleF](../../rectanglef/)
 * class [Graphics](../)
-* ruang nama [Aspose.PSD](../../graphics/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

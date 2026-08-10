@@ -1,22 +1,23 @@
 ---
-title: ITextStyle.FontName
-second_title: Aspose.PSD untuk Referensi .NET API
-description: ITextStyle Properti. Mendapat atau menyetel nama font.
+title: "ITextStyle.FontName"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti ITextStyle. Mendapatkan atau mengatur nama font"
 type: docs
 weight: 120
 url: /id/net/aspose.psd.fileformats.psd.layers.text/itextstyle/fontname/
 ---
+{{< psd/tize >}}
 ## ITextStyle.FontName property
 
-Mendapat atau menyetel nama font.
+Mendapatkan atau mengatur nama font.
 
 ```csharp
 public string FontName { get; set; }
 ```
 
-### Contoh
+## Contoh
 
-Kode berikut menunjukkan kemampuan untuk mengubah nama font pada gaya porsi.
+Kode berikut menunjukkan kemampuan untuk mengubah nama font pada gaya bagian.
 
 ```csharp
 [C#]
@@ -38,7 +39,7 @@ using (var image = new PsdImage(500, 500))
     ((IColorFillSettings)backgroundFillLayer.FillSettings).Color = Color.White;
     image.AddLayer(backgroundFillLayer);
 
-    TextLayer textLayer = image.AddTextLayer("Text 1", new Rectangle(10, 35, image.Width, 35));
+    TextLayer textLayer = image.AddTextLayer("Text 1", new Rectangle(10, 35, image.Width, 60));
 
     ITextPortion firstPortion = textLayer.TextData.Items[0];
     firstPortion.Style.FontSize = 24;
@@ -69,10 +70,10 @@ using (var image = (PsdImage)Image.Load(outputFilePsd))
 }
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * interface [ITextStyle](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.Text](../../itextstyle/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.Text](../../../aspose.psd.fileformats.psd.layers.text/)
+* assembly [Aspose.PSD](../../../)
 
 

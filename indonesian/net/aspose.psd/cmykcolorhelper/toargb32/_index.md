@@ -1,31 +1,32 @@
 ---
-title: CmykColorHelper.ToArgb32
-second_title: Aspose.PSD untuk Referensi .NET API
-description: CmykColorHelper metode. Konversi dari warna CMYK ke warna ARGB.
+title: "CmykColorHelper.ToArgb32"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode CmykColorHelper. Konversi dari warna CMYK ke warna ARGB"
 type: docs
 weight: 70
 url: /id/net/aspose.psd/cmykcolorhelper/toargb32/
 ---
+{{< psd/tize >}}
 ## CmykColorHelper.ToArgb32 method
 
-Konversi dari warna CMYK ke warna ARGB.
+Konversi dari warna-warna CMYK ke warna-warna ARGB.
 
 ```csharp
 public static int[] ToArgb32(int[] cmykPixels)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| cmykPixels | Int32[] | Warna CMYK disajikan sebagai nilai integer 32-bit. |
+| cmykPixels | Int32[] | Warna CMYK yang disajikan sebagai nilai integer 32-bit. |
 
-### Nilai Pengembalian
+### Nilai Kembalian
 
-Warna ARGB disajikan sebagai nilai integer 32-bit.
+Warna ARGB yang disajikan sebagai nilai integer 32-bit.
 
-### Lihat juga
+### Lihat Juga
 
 * class [CmykColorHelper](../)
-* ruang nama [Aspose.PSD](../../cmykcolorhelper/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

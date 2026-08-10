@@ -1,11 +1,12 @@
 ---
-title: Class PsdImageException
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Aspose.PSD.CoreExceptions.ImageFormats.PsdImageException kelas. Pengecualian gambar psd.
+title: "Kelas PsdImageException"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Kelas Aspose.PSD.CoreExceptions.ImageFormats.PsdImageException. Pengecualian gambar psd"
 type: docs
 weight: 590
 url: /id/net/aspose.psd.coreexceptions.imageformats/psdimageexception/
 ---
+{{< psd/tize >}}
 ## PsdImageException class
 
 Pengecualian gambar psd.
@@ -16,15 +17,15 @@ public class PsdImageException : ImageException
 
 ## Konstruktor
 
-| Nama | Keterangan |
+| Nama | Deskripsi |
 | --- | --- |
-| [PsdImageException](psdimageexception/#constructor)(string) | Menginisialisasi instance baru dari`PsdImageException` kelas. |
-| [PsdImageException](psdimageexception/#constructor_1)(string, Exception) | Menginisialisasi instance baru dari`PsdImageException` kelas. |
+| [PsdImageException](psdimageexception/#constructor)(string) | Menginisialisasi instance baru dari kelas `PsdImageException`. |
+| [PsdImageException](psdimageexception/#constructor_1)(string, Exception) | Menginisialisasi instance baru dari kelas `PsdImageException`. |
 
-### Lihat juga
+### Lihat Juga
 
 * class [ImageException](../../aspose.psd.coreexceptions/imageexception/)
-* ruang nama [Aspose.PSD.CoreExceptions.ImageFormats](../../aspose.psd.coreexceptions.imageformats/)
-* perakitan [Aspose.PSD](../../)
+* namespace [Aspose.PSD.CoreExceptions.ImageFormats](../../aspose.psd.coreexceptions.imageformats/)
+* assembly [Aspose.PSD](../../)
 
 

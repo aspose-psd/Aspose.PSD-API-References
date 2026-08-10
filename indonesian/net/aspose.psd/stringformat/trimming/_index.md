@@ -1,28 +1,29 @@
 ---
-title: StringFormat.Trimming
-second_title: Aspose.PSD untuk Referensi .NET API
-description: StringFormat Properti. Mendapat atau menyetelStringTrimming pencacahan untuk iniStringFormat objek.
+title: "StringFormat.Trimming"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti StringFormat. Mendapatkan atau mengatur enumerasi StringTrimming untuk objek StringFormat ini."
 type: docs
-weight: 120
+weight: 130
 url: /id/net/aspose.psd/stringformat/trimming/
 ---
+{{< psd/tize >}}
 ## StringFormat.Trimming property
 
-Mendapat atau menyetel[`StringTrimming`](../../stringtrimming/) pencacahan untuk ini[`StringFormat`](../) objek.
+Mendapatkan atau mengatur enumerasi `[`StringTrimming`](../../stringtrimming/)` untuk objek `[`StringFormat`](../)` ini.
 
 ```csharp
 public StringTrimming Trimming { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
-A[`StringTrimming`](../../stringtrimming/) pencacahan yang menunjukkan bagaimana teks digambar dengan ini[`StringFormat`](../) objek dipangkas saat melebihi tepi persegi panjang tata letak.
+Sebuah `[`StringTrimming`](../../stringtrimming/)` enumeration yang menunjukkan bagaimana teks yang digambar dengan objek `[`StringFormat`](../)` ini dipangkas ketika melebihi tepi persegi panjang tata letak.
 
-### Lihat juga
+### Lihat Juga
 
 * enum [StringTrimming](../../stringtrimming/)
 * class [StringFormat](../)
-* ruang nama [Aspose.PSD](../../stringformat/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

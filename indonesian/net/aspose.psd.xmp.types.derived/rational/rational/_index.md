@@ -1,34 +1,35 @@
 ---
-title: Rational.Rational
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Rational konstruktor. Menginisialisasi instance baru dariRational kelas.
+title: "Rational.Rational"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Rational konstruktor. Menginisialisasi instance baru dari kelas Rational"
 type: docs
 weight: 10
 url: /id/net/aspose.psd.xmp.types.derived/rational/rational/
 ---
+{{< psd/tize >}}
 ## Rational constructor
 
-Menginisialisasi instance baru dari[`Rational`](../) kelas.
+Menginisialisasi instance baru dari kelas [`Rational`](../).
 
 ```csharp
 public Rational(int numerator, int denominator)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
 | numerator | Int32 | Pembilang. |
-| denominator | Int32 | Penyebut. |
+| penyebut | Int32 | Penyebut. |
 
 ### Pengecualian
 
 | pengecualian | kondisi |
 | --- | --- |
-| ArgumentOutOfRangeException | pembilang;Pembilang harus berupa parutan nol. or penyebut;Penyebut harus berupa parutan nol. |
+| ArgumentOutOfRangeException | numerator;Numberator harus lebih besar dari nol. atau denominator;Denominator harus lebih besar dari nol. |
 
-### Lihat juga
+### Lihat Juga
 
 * class [Rational](../)
-* ruang nama [Aspose.PSD.Xmp.Types.Derived](../../rational/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Derived](../../../aspose.psd.xmp.types.derived/)
+* assembly [Aspose.PSD](../../../)
 
 

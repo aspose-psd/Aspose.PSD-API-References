@@ -1,11 +1,12 @@
 ---
-title: IObjectWithBounds.Width
-second_title: Aspose.PSD untuk Referensi .NET API
-description: IObjectWithBounds Properti. Mendapatkan lebar objek.
+title: "IObjectWithBounds.Width"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "IObjectWithBounds properti. Mendapatkan lebar objek"
 type: docs
 weight: 40
 url: /id/net/aspose.psd/iobjectwithbounds/width/
 ---
+{{< psd/tize >}}
 ## IObjectWithBounds.Width property
 
 Mendapatkan lebar objek.
@@ -14,14 +15,14 @@ Mendapatkan lebar objek.
 public int Width { get; }
 ```
 
-### Nilai properti
+### Property Value
 
 Lebar objek.
 
-### Lihat juga
+### Lihat Juga
 
 * interface [IObjectWithBounds](../)
-* ruang nama [Aspose.PSD](../../iobjectwithbounds/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

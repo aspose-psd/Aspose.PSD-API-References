@@ -1,27 +1,28 @@
 ---
-title: JpegExifData.YCbCrSubSampling
-second_title: Aspose.PSD untuk Referensi .NET API
-description: JpegExifData Properti. Mendapat atau menyetel rasio sampling komponen chrominance dalam kaitannya dengan komponen luminance.
+title: "JpegExifData.YCbCrSubSampling"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti JpegExifData. Mendapatkan atau mengatur rasio sampling komponen krominansi relatif terhadap komponen luminansi"
 type: docs
 weight: 250
 url: /id/net/aspose.psd.exif/jpegexifdata/ycbcrsubsampling/
 ---
+{{< psd/tize >}}
 ## JpegExifData.YCbCrSubSampling property
 
-Mendapat atau menyetel rasio sampling komponen chrominance dalam kaitannya dengan komponen luminance.
+Mendapatkan atau mengatur rasio sampling komponen krominansi relatif terhadap komponen luminansi.
 
 ```csharp
 public ushort[] YCbCrSubSampling { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
-Rasio sampling komponen chrominance terkait dengan komponen luminance.
+Rasio sampling komponen krominansi relatif terhadap komponen luminansi.
 
-### Lihat juga
+### Lihat Juga
 
 * class [JpegExifData](../)
-* ruang nama [Aspose.PSD.Exif](../../jpegexifdata/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

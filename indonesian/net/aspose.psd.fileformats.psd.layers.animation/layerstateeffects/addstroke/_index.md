@@ -1,11 +1,12 @@
 ---
-title: LayerStateEffects.AddStroke
-second_title: Aspose.PSD untuk Referensi .NET API
-description: LayerStateEffects metode. Menambahkan efek goresan.
+title: "LayerStateEffects.AddStroke"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode LayerStateEffects. Menambahkan efek goresan"
 type: docs
 weight: 90
 url: /id/net/aspose.psd.fileformats.psd.layers.animation/layerstateeffects/addstroke/
 ---
+{{< psd/tize >}}
 ## LayerStateEffects.AddStroke method
 
 Menambahkan efek goresan.
@@ -14,17 +15,17 @@ Menambahkan efek goresan.
 public StrokeEffect AddStroke(FillType fillType)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| fillType | FillType | Jenis mengisi stroke. |
+| fillType | FillType | Tipe isi goresan. |
 
-### Nilai Pengembalian
+### Nilai Kembalian
 
-Instance baru dari[`StrokeEffect`](../../../aspose.psd.fileformats.psd.layers.layereffects/strokeeffect/) kelas.
+Instansi baru dari kelas [`StrokeEffect`](../../../aspose.psd.fileformats.psd.layers.layereffects/strokeeffect/).
 
-### Contoh
+## Contoh
 
-Kode berikut menunjukkan dukungan efek dalam bingkai Timeline.
+Kode berikut menunjukkan dukungan efek dalam frame Timeline.
 
 ```csharp
 [C#]
@@ -34,30 +35,27 @@ string outputFile = "output.psd";
 
 using (var psdImage = (PsdImage)Image.Load(sourceFile))
 {
-    TimeLine timeLine = TimeLine.InitializeFrom(psdImage);
-    int[] layerIds = timeLine.LayerIds;
+    Timeline timeline = psdImage.Timeline;
 
-    var layerStateEffects11 = timeLine.Frames[1].LayerStates[layerIds[1]].StateEffects;
+    var layerStateEffects11 = timeline.Frames[1].LayerStates[1].StateEffects;
 
     layerStateEffects11.AddDropShadow();
     layerStateEffects11.AddGradientOverlay();
 
-    var layerStateEffects21 = timeLine.Frames[2].LayerStates[layerIds[1]].StateEffects;
+    var layerStateEffects21 = timeline.Frames[2].LayerStates[1].StateEffects;
     layerStateEffects21.AddStroke(FillType.Color);
     layerStateEffects21.IsVisible = false;
-
-    timeLine.ApplyTo(psdImage);
 
     psdImage.Save(outputFile);
 }
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [StrokeEffect](../../../aspose.psd.fileformats.psd.layers.layereffects/strokeeffect/)
 * enum [FillType](../../../aspose.psd.fileformats.psd.layers.fillsettings/filltype/)
 * class [LayerStateEffects](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.Animation](../../layerstateeffects/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.Animation](../../../aspose.psd.fileformats.psd.layers.animation/)
+* assembly [Aspose.PSD](../../../)
 
 

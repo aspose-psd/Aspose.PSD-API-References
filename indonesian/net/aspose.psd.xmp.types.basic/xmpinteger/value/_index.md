@@ -1,27 +1,28 @@
 ---
-title: XmpInteger.Value
-second_title: Aspose.PSD untuk Referensi .NET API
-description: XmpInteger Properti. Mendapat atau menetapkan nilai.
+title: "XmpInteger.Value"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti XmpInteger. Mendapatkan atau mengatur nilai"
 type: docs
 weight: 20
 url: /id/net/aspose.psd.xmp.types.basic/xmpinteger/value/
 ---
+{{< psd/tize >}}
 ## XmpInteger.Value property
 
-Mendapat atau menetapkan nilai.
+Mendapatkan atau mengatur nilai.
 
 ```csharp
 public long Value { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
-Nilainya.
+Nilai.
 
-### Lihat juga
+### Lihat Juga
 
 * class [XmpInteger](../)
-* ruang nama [Aspose.PSD.Xmp.Types.Basic](../../xmpinteger/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Basic](../../../aspose.psd.xmp.types.basic/)
+* assembly [Aspose.PSD](../../../)
 
 

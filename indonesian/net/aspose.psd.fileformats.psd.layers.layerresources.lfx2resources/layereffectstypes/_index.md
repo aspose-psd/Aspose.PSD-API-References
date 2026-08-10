@@ -1,11 +1,12 @@
 ---
-title: Enum LayerEffectsTypes
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.Lfx2Resources.LayerEffectsTypes enum. Efek pencampuran lapisan.
+title: "Enum LayerEffectsTypes"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Aspose.PSD.FileFormats.Psd.Layers.LayerResources.Lfx2Resources.LayerEffectsTypes enum. Efek pencampuran lapisan"
 type: docs
-weight: 2660
+weight: 2900
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources.lfx2resources/layereffectstypes/
 ---
+{{< psd/tize >}}
 ## LayerEffectsTypes enumeration
 
 Efek pencampuran lapisan.
@@ -16,20 +17,20 @@ public enum LayerEffectsTypes
 
 ### Nilai
 
-| Nama | Nilai | Keterangan |
+| Nama | Nilai | Deskripsi |
 | --- | --- | --- |
 | DropShadow | `0` | Bayangan jatuh. |
 | OuterGlow | `1` | Cahaya luar. |
-| PatternOverlay | `2` | Hamparan pola. |
-| GradientOverlay | `3` | Hamparan gradien. |
-| ColorOverlay | `4` | Hamparan warna. |
-| Satin | `5` | Jenis Efek Satin. |
-| InnerGlow | `6` | Cahaya batin. |
+| PatternOverlay | `2` | Lapisan pola. |
+| GradientOverlay | `3` | Lapisan gradasi. |
+| ColorOverlay | `4` | Lapisan warna. |
+| Satin | `5` | Tipe Efek satin. |
+| InnerGlow | `6` | Cahaya dalam. |
 | InnerShadow | `7` | Bayangan dalam. |
-| Stroke | `8` | Pukulan. |
-| BevelEmboss | `9` | Timbul bevel. |
+| Stroke | `8` | Garis tepi. |
+| BevelEmboss | `9` | Ukiran bevel. |
 
-### Contoh
+## Contoh
 
 Kode berikut menunjukkan dukungan properti ILayerEffect.EffectType.
 
@@ -55,16 +56,16 @@ using (PsdImage psdImage = (PsdImage)Image.Load(inputFile, new LoadOptions()))
     {
         if (iEffect.EffectType == LayerEffectsTypes.DropShadow)
         {
-            // tertangkap
+            // itu tertangkap
             psdImage.Save(outputWith, new PngOptions());
         }
     }
 }
 ```
 
-### Lihat juga
+### Lihat Juga
 
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.Lfx2Resources](../../aspose.psd.fileformats.psd.layers.layerresources.lfx2resources/)
-* perakitan [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.Lfx2Resources](../../aspose.psd.fileformats.psd.layers.layerresources.lfx2resources/)
+* assembly [Aspose.PSD](../../)
 
 

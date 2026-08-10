@@ -1,27 +1,28 @@
 ---
-title: LspfResource.IsCompositeProtected
-second_title: Aspose.PSD untuk Referensi .NET API
-description: LspfResource Properti. Mendapat atau menetapkan nilai yang menunjukkan apakah instance ini dilindungi komposit.
+title: "LspfResource.IsCompositeProtected"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "LspfResource properti. Mendapatkan atau mengatur nilai yang menunjukkan apakah instance ini dilindungi secara komposit"
 type: docs
 weight: 20
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources/lspfresource/iscompositeprotected/
 ---
+{{< psd/tize >}}
 ## LspfResource.IsCompositeProtected property
 
-Mendapat atau menetapkan nilai yang menunjukkan apakah instance ini dilindungi komposit.
+Mendapatkan atau mengatur nilai yang menunjukkan apakah instance ini dilindungi secara komposit.
 
 ```csharp
 public bool IsCompositeProtected { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
-`BENAR` jika instans ini dilindungi komposit; jika tidak,`PALSU` .
+`true` jika instance ini dilindungi secara komposit; jika tidak, `false`.
 
-### Lihat juga
+### Lihat Juga
 
 * class [LspfResource](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../lspfresource/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

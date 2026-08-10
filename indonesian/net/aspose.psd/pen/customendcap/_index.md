@@ -1,34 +1,35 @@
 ---
-title: Pen.CustomEndCap
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Pen Properti. Mendapat atau menyetel batas khusus untuk digunakan di akhir garis yang digambar dengan iniPen .
+title: "Pen.CustomEndCap"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti Pen. Mendapatkan atau mengatur cap khusus yang digunakan di akhir garis yang digambar dengan Pen ini"
 type: docs
 weight: 60
 url: /id/net/aspose.psd/pen/customendcap/
 ---
+{{< psd/tize >}}
 ## Pen.CustomEndCap property
 
-Mendapat atau menyetel batas khusus untuk digunakan di akhir garis yang digambar dengan ini[`Pen`](../) .
+Mendapatkan atau mengatur cap khusus yang digunakan di akhir garis yang digambar dengan [`Pen`](../).
 
 ```csharp
 public CustomLineCap CustomEndCap { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
-A[`CustomLineCap`](../../customlinecap/) yang mewakili tutup yang digunakan pada akhir garis yang digambar dengan ini[`Pen`](../).
+Sebuah [`CustomLineCap`](../../customlinecap/) yang mewakili cap yang digunakan di akhir garis yang digambar dengan [`Pen`](../).
 
 ### Pengecualian
 
 | pengecualian | kondisi |
 | --- | --- |
-| ArgumentException | Itu`CustomEndCap` properti diatur pada yang tidak berubah[`Pen`](../) , seperti yang dikembalikan oleh[`Pen`](../) kelas. |
+| ArgumentException | Properti `CustomEndCap` diatur pada [`Pen`](../) yang tidak dapat diubah, seperti yang dikembalikan oleh kelas [`Pen`](../). |
 
-### Lihat juga
+### Lihat Juga
 
 * class [CustomLineCap](../../customlinecap/)
 * class [Pen](../)
-* ruang nama [Aspose.PSD](../../pen/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

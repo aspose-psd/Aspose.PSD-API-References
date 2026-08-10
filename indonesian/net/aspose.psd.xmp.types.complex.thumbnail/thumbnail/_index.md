@@ -1,14 +1,15 @@
 ---
-title: Class Thumbnail
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Aspose.PSD.Xmp.Types.Complex.Thumbnail.Thumbnail kelas. Merupakan gambar thumbnail untuk file.
+title: "Kelas Thumbnail"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Aspose.PSD.Xmp.Types.Complex.Thumbnail.Thumbnail kelas. Mewakili gambar thumbnail untuk sebuah file"
 type: docs
-weight: 6100
+weight: 6600
 url: /id/net/aspose.psd.xmp.types.complex.thumbnail/thumbnail/
 ---
+{{< psd/tize >}}
 ## Thumbnail class
 
-Merupakan gambar thumbnail untuk file.
+Mewakili gambar thumbnail untuk sebuah file.
 
 ```csharp
 public sealed class Thumbnail : ComplexTypeBase
@@ -16,31 +17,31 @@ public sealed class Thumbnail : ComplexTypeBase
 
 ## Konstruktor
 
-| Nama | Keterangan |
+| Nama | Deskripsi |
 | --- | --- |
-| [Thumbnail](thumbnail/#constructor)() | Menginisialisasi instance baru dari`Thumbnail` kelas. |
-| [Thumbnail](thumbnail/#constructor_1)(int, int) | Menginisialisasi instance baru dari`Thumbnail` kelas. |
+| [Thumbnail](thumbnail/#constructor)() | Menginisialisasi sebuah instance baru dari kelas `Thumbnail`. |
+| [Thumbnail](thumbnail/#constructor_1)(int, int) | Menginisialisasi sebuah instance baru dari kelas `Thumbnail`. |
 
 ## Properti
 
-| Nama | Keterangan |
+| Nama | Deskripsi |
 | --- | --- |
-| [Height](../../aspose.psd.xmp.types.complex.thumbnail/thumbnail/height/) { get; set; } | Mendapat atau mengatur ketinggian. |
-| [ImageBase64](../../aspose.psd.xmp.types.complex.thumbnail/thumbnail/imagebase64/) { get; set; } | Mendapat atau menyetel gambar dalam format base64. |
+| [Height](../../aspose.psd.xmp.types.complex.thumbnail/thumbnail/height/) { get; set; } | Mendapatkan atau mengatur tinggi. |
+| [ImageBase64](../../aspose.psd.xmp.types.complex.thumbnail/thumbnail/imagebase64/) { get; set; } | Mendapatkan atau mengatur gambar dalam format base64. |
 | [NamespaceUri](../../aspose.psd.xmp.types.complex/complextypebase/namespaceuri/) { get; } | Mendapatkan URI namespace default. |
-| [Prefix](../../aspose.psd.xmp.types.complex/complextypebase/prefix/) { get; } | Mendapatkan awalan. |
-| [Width](../../aspose.psd.xmp.types.complex.thumbnail/thumbnail/width/) { get; set; } | Mendapat atau mengatur lebar. |
+| [Prefix](../../aspose.psd.xmp.types.complex/complextypebase/prefix/) { get; } | Mendapatkan prefiks. |
+| [Width](../../aspose.psd.xmp.types.complex.thumbnail/thumbnail/width/) { get; set; } | Mendapatkan atau mengatur lebar. |
 
 ## Metode
 
-| Nama | Keterangan |
+| Nama | Deskripsi |
 | --- | --- |
-| override [GetXmpRepresentation](../../aspose.psd.xmp.types.complex.thumbnail/thumbnail/getxmprepresentation/)() | Mendapat string berisi nilai dalam format XMP. |
+| override [GetXmpRepresentation](../../aspose.psd.xmp.types.complex.thumbnail/thumbnail/getxmprepresentation/)() | Mendapatkan nilai string yang terkandung dalam format XMP. |
 
-### Lihat juga
+### Lihat Juga
 
 * class [ComplexTypeBase](../../aspose.psd.xmp.types.complex/complextypebase/)
-* ruang nama [Aspose.PSD.Xmp.Types.Complex.Thumbnail](../../aspose.psd.xmp.types.complex.thumbnail/)
-* perakitan [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.Thumbnail](../../aspose.psd.xmp.types.complex.thumbnail/)
+* assembly [Aspose.PSD](../../)
 
 

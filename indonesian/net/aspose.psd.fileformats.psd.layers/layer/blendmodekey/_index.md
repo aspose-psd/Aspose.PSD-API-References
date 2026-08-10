@@ -1,26 +1,27 @@
 ---
-title: Layer.BlendModeKey
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Layer Properti. Mendapat atau menyetel kunci mode campuran.
+title: "Layer.BlendModeKey"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti Layer. Mendapatkan atau mengatur kunci mode pencampuran"
 type: docs
-weight: 40
+weight: 50
 url: /id/net/aspose.psd.fileformats.psd.layers/layer/blendmodekey/
 ---
+{{< psd/tize >}}
 ## Layer.BlendModeKey property
 
-Mendapat atau menyetel kunci mode campuran.
+Mendapatkan atau mengatur kunci mode pencampuran.
 
 ```csharp
 public virtual BlendMode BlendModeKey { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
-Tombol mode campuran.
+Kunci mode campuran.
 
-### Contoh
+## Contoh
 
-Contoh berikut menunjukkan bagaimana Anda bisa menggunakan mode campuran lapisan PassThrough di Aspose.PSD
+Contoh berikut menunjukkan cara Anda dapat menggunakan mode campuran lapisan PassThrough dalam Aspose.PSD
 
 ```csharp
 [C#]
@@ -61,11 +62,11 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFileName))
 }
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * enum [BlendMode](../../../aspose.psd.fileformats.core.blending/blendmode/)
 * class [Layer](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers](../../layer/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

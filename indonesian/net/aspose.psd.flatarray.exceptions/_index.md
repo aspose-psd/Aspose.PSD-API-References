@@ -1,17 +1,18 @@
 ---
-title: Aspose.PSD.FlatArray.Exceptions
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Ruang nama menangani pemrosesan format file Psd.
+title: "Aspose.PSD.FlatArray.Exceptions"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Namespace ini menangani pemrosesan format file PSD"
 type: docs
-weight: 400
+weight: 440
 url: /id/net/aspose.psd.flatarray.exceptions/
 ---
-Ruang nama menangani pemrosesan format file Psd.
+{{< psd/tize >}}
+Namespace ini menangani pemrosesan format file PSD.
 
 ## Kelas
 
-| Kelas | Keterangan |
+| Kelas | Deskripsi |
 | --- | --- |
-| [FlatArrayException](./flatarrayexception/) | Pengecualian khusus untukFlatArray kelas. |
+| [FlatArrayException](./flatarrayexception/) | Pengecualian khusus untuk kelas FlatArray. |
 
 

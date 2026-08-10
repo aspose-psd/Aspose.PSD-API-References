@@ -1,23 +1,24 @@
 ---
-title: ClassID.Bytes
-second_title: Aspose.PSD untuk Referensi .NET API
-description: ClassID Properti. Mendapat byte yang mewakili ID kelas.
+title: "ClassID.Bytes"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti ClassID. Mendapatkan byte yang mewakili ID kelas"
 type: docs
 weight: 20
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources/classid/bytes/
 ---
+{{< psd/tize >}}
 ## ClassID.Bytes property
 
-Mendapat byte yang mewakili ID kelas.
+Mendapatkan byte yang mewakili class ID.
 
 ```csharp
 public byte[] Bytes { get; }
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [ClassID](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../classid/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

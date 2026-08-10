@@ -1,11 +1,12 @@
 ---
-title: Class Jpeg2000Options
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Aspose.PSD.ImageOptions.Jpeg2000Options kelas. Opsi format file Jpeg2000.
+title: "Class Jpeg2000Options"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Kelas Aspose.PSD.ImageOptions.Jpeg2000Options. Opsi format file Jpeg2000"
 type: docs
-weight: 4830
+weight: 5320
 url: /id/net/aspose.psd.imageoptions/jpeg2000options/
 ---
+{{< psd/tize >}}
 ## Jpeg2000Options class
 
 Opsi format file Jpeg2000.
@@ -16,46 +17,46 @@ public class Jpeg2000Options : ImageOptionsBase
 
 ## Konstruktor
 
-| Nama | Keterangan |
+| Nama | Deskripsi |
 | --- | --- |
-| [Jpeg2000Options](jpeg2000options/#constructor)() | Menginisialisasi instance baru dari`Jpeg2000Options` kelas. |
-| [Jpeg2000Options](jpeg2000options/#constructor_1)(Jpeg2000Options) | Menginisialisasi instance baru dari`Jpeg2000Options` kelas. |
+| [Jpeg2000Options](jpeg2000options/#constructor)() | Menginisialisasi instance baru dari kelas `Jpeg2000Options`. |
+| [Jpeg2000Options](jpeg2000options/#constructor_1)(Jpeg2000Options) | Menginisialisasi instance baru dari kelas `Jpeg2000Options`. |
 
 ## Properti
 
-| Nama | Keterangan |
+| Nama | Deskripsi |
 | --- | --- |
-| [BufferSizeHint](../../aspose.psd/imageoptionsbase/buffersizehint/) { get; set; } | Mendapat atau menyetel petunjuk ukuran buffer yang ditentukan ukuran maksimum yang diizinkan untuk semua buffer internal. |
-| [Codec](../../aspose.psd.imageoptions/jpeg2000options/codec/) { get; set; } | Mendapat atau menyetel codec JPEG2000 |
-| [Comments](../../aspose.psd.imageoptions/jpeg2000options/comments/) { get; set; } | Mendapat atau menyetel penanda komentar Jpeg. |
-| [CompressionRatios](../../aspose.psd.imageoptions/jpeg2000options/compressionratios/) { get; set; } | Mendapat atau menyetel rasio kompresi Array. Rasio kompresi yang berbeda untuk lapisan yang berurutan. Kecepatan yang ditentukan untuk setiap tingkat kualitas adalah faktor kompresi yang diinginkan. Diperlukan rasio penurunan. |
-| virtual [DefaultReplacementFont](../../aspose.psd/imageoptionsbase/defaultreplacementfont/) { get; set; } | Mendapat atau menyetel font pengganti default (font yang akan digunakan untuk menggambar teks saat mengekspor ke raster, jika font layer yang ada di file PSD tidak disajikan di sistem). Untuk mengambil nama yang tepat dari font default dapat digunakan potongan kode selanjutnya : System.Drawing.Text.InstalledFontCollection col = new System.Drawing.Text.InstalledFontCollection(); System.Drawing.FontFamily[] keluarga = col.Families; string defaultFontName = keluarga[0].Nama; PsdLoadOptions psdLoadOptions = new PsdLoadOptions() { DefaultReplacementFont = defaultFontName }); |
-| [Disposed](../../aspose.psd/disposableobject/disposed/) { get; } | Mendapat nilai yang menunjukkan apakah instance ini dibuang. |
-| [FullFrame](../../aspose.psd/imageoptionsbase/fullframe/) { get; set; } | Mendapat atau menetapkan nilai yang menunjukkan apakah [full frame]. |
-| [Irreversible](../../aspose.psd.imageoptions/jpeg2000options/irreversible/) { get; set; } | Mendapat atau menetapkan nilai yang menunjukkan apakah menggunakan DWT 9-7 yang tidak dapat diubah (benar) atau menggunakan kompresi DWT 5-3 lossless (default). |
-| [MultiPageOptions](../../aspose.psd/imageoptionsbase/multipageoptions/) { get; set; } | Opsi multi halaman |
-| virtual [Palette](../../aspose.psd/imageoptionsbase/palette/) { get; set; } | Mendapat atau menyetel palet warna. |
-| [ProgressEventHandler](../../aspose.psd/imageoptionsbase/progresseventhandler/) { get; set; } | Mendapat atau menyetel pengendali event progres. |
-| virtual [ResolutionSettings](../../aspose.psd/imageoptionsbase/resolutionsettings/) { get; set; } | Mendapat atau menyetel pengaturan resolusi. |
-| [Source](../../aspose.psd/imageoptionsbase/source/) { get; set; } | Mendapatkan atau menyetel sumber untuk membuat gambar. |
-| [VectorRasterizationOptions](../../aspose.psd/imageoptionsbase/vectorrasterizationoptions/) { get; set; } | Mendapat atau menyetel opsi rasterisasi vektor. |
-| override [XmpData](../../aspose.psd.imageoptions/jpeg2000options/xmpdata/) { get; set; } | Mendapat atau menyetel penampung metadata XMP. |
+| [BufferSizeHint](../../aspose.psd/imageoptionsbase/buffersizehint/) { get; set; } | Mendapatkan atau mengatur petunjuk ukuran buffer yang didefinisikan sebagai ukuran maksimum yang diizinkan untuk semua buffer internal. |
+| [Codec](../../aspose.psd.imageoptions/jpeg2000options/codec/) { get; set; } | Mendapatkan atau mengatur codec JPEG2000 |
+| [Comments](../../aspose.psd.imageoptions/jpeg2000options/comments/) { get; set; } | Mendapatkan atau mengatur penanda komentar Jpeg. |
+| [CompressionRatios](../../aspose.psd.imageoptions/jpeg2000options/compressionratios/) { get; set; } | Mendapatkan atau mengatur array rasio kompresi. Rasio kompresi yang berbeda untuk lapisan berturut-turut. Tingkat yang ditentukan untuk setiap tingkat kualitas adalah faktor kompresi yang diinginkan. Rasio yang menurun diperlukan. |
+| virtual [DefaultReplacementFont](../../aspose.psd/imageoptionsbase/defaultreplacementfont/) { get; set; } | Mendapatkan atau mengatur font pengganti default (font yang akan digunakan untuk menggambar teks saat mengekspor ke raster, jika font lapisan yang ada dalam file PSD tidak tersedia di sistem). Untuk memperoleh nama font default yang tepat dapat digunakan cuplikan kode berikut: System.Drawing.Text.InstalledFontCollection col = new System.Drawing.Text.InstalledFontCollection(); System.Drawing.FontFamily[] families = col.Families; string defaultFontName = families[0].Name; PsdLoadOptions psdLoadOptions = new PsdLoadOptions() { DefaultReplacementFont = defaultFontName }); |
+| [Disposed](../../aspose.psd/disposableobject/disposed/) { get; } | Mendapatkan nilai yang menunjukkan apakah instansi ini telah dibuang. |
+| [FullFrame](../../aspose.psd/imageoptionsbase/fullframe/) { get; set; } | Mendapatkan atau mengatur nilai yang menunjukkan apakah [full frame]. |
+| [Irreversible](../../aspose.psd.imageoptions/jpeg2000options/irreversible/) { get; set; } | Mendapatkan atau mengatur nilai yang menunjukkan apakah menggunakan DWT 9-7 irreversible (true) atau menggunakan kompresi DWT 5-3 lossless (default). |
+| [MultiPageOptions](../../aspose.psd/imageoptionsbase/multipageoptions/) { get; set; } | Opsi multipage |
+| virtual [Palette](../../aspose.psd/imageoptionsbase/palette/) { get; set; } | Mendapatkan atau mengatur palet warna. |
+| [ProgressEventHandler](../../aspose.psd/imageoptionsbase/progresseventhandler/) { get; set; } | Mendapatkan atau mengatur penangan acara kemajuan. |
+| virtual [ResolutionSettings](../../aspose.psd/imageoptionsbase/resolutionsettings/) { get; set; } | Mendapatkan atau mengatur pengaturan resolusi. |
+| [Source](../../aspose.psd/imageoptionsbase/source/) { get; set; } | Mendapatkan atau mengatur sumber untuk membuat gambar di dalamnya. |
+| [VectorRasterizationOptions](../../aspose.psd/imageoptionsbase/vectorrasterizationoptions/) { get; set; } | Mendapatkan atau mengatur opsi rasterisasi vektor. |
+| override [XmpData](../../aspose.psd.imageoptions/jpeg2000options/xmpdata/) { get; set; } | Mendapatkan atau mengatur kontainer metadata XMP. |
 
 ## Metode
 
-| Nama | Keterangan |
+| Nama | Deskripsi |
 | --- | --- |
-| virtual [Clone](../../aspose.psd/imageoptionsbase/clone/)() | Menggandakan instance ini. |
+| virtual [Clone](../../aspose.psd/imageoptionsbase/clone/)() | Mengkloning instance ini. |
 | [Dispose](../../aspose.psd/disposableobject/dispose/)() | Membuang instance saat ini. |
 
-### Contoh
+## Contoh
 
-Contoh ini menunjukkan penggunaan kelas yang berbeda dari SaveOptions Namespace untuk tujuan ekspor. Gambar bertipe Psd dimuat ke dalam instance Gambar dan kemudian diekspor ke beberapa format.
+Contoh ini menunjukkan penggunaan berbagai kelas dari Namespace SaveOptions untuk tujuan ekspor. Gambar berjenis Psd dimuat ke dalam instance Image dan kemudian diekspor ke beberapa format.
 
 ```csharp
 [C#]
 
-// Muat gambar yang ada dalam instance kelas Gambar
+//Muat gambar yang ada dalam instance kelas Image
 using (Aspose.PSD.Image image = Aspose.PSD.Image.Load(@"C:\temp\image.psd"))
 {
     //Ekspor ke format file BMP menggunakan opsi default
@@ -75,10 +76,10 @@ using (Aspose.PSD.Image image = Aspose.PSD.Image.Load(@"C:\temp\image.psd"))
 }
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [ImageOptionsBase](../../aspose.psd/imageoptionsbase/)
-* ruang nama [Aspose.PSD.ImageOptions](../../aspose.psd.imageoptions/)
-* perakitan [Aspose.PSD](../../)
+* namespace [Aspose.PSD.ImageOptions](../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../)
 
 

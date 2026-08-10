@@ -1,18 +1,19 @@
 ---
-title: Aspose.PSD.ShapeSegments
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Ruang nama berisi segmen bentuk berbeda yang menggabungkan bentuk.
+title: "Aspose.PSD.ShapeSegments"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Namespace ini berisi segmen bentuk berbeda yang menggabungkan bentuk-bentuk."
 type: docs
-weight: 500
+weight: 540
 url: /id/net/aspose.psd.shapesegments/
 ---
-Ruang nama berisi segmen bentuk berbeda yang menggabungkan bentuk.
+{{< psd/tize >}}
+Namespace berisi segmen bentuk berbeda yang menggabungkan bentuk.
 
 ## Kelas
 
-| Kelas | Keterangan |
+| Kelas | Deskripsi |
 | --- | --- |
-| [BezierSegment](./beziersegment/) | Segmen bezier bergerak dari satu titik ke titik berikutnya dan menggunakan dua titik kontrol. |
-| [LineSegment](./linesegment/) | Merupakan segmen yang mengarah langsung dari titik tertentu ke titik berikutnya. |
+| [BezierSegment](./beziersegment/) | Segmen bezier yang bergerak dari satu titik ke titik berikutnya dan menggunakan dua titik kontrol. |
+| [LineSegment](./linesegment/) | Mewakili segmen yang mengarah langsung dari titik tertentu ke titik berikutnya. |
 
 

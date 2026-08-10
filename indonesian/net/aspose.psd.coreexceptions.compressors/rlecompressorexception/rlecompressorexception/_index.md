@@ -1,48 +1,49 @@
 ---
-title: RleCompressorException.RleCompressorException
-second_title: Aspose.PSD untuk Referensi .NET API
-description: RleCompressorException konstruktor. Menginisialisasi instance baru dariRleCompressorException kelas.
+title: "RleCompressorException.RleCompressorException"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Konstruktor RleCompressorException. Menginisialisasi sebuah instance baru dari kelas RleCompressorException"
 type: docs
 weight: 10
 url: /id/net/aspose.psd.coreexceptions.compressors/rlecompressorexception/rlecompressorexception/
 ---
+{{< psd/tize >}}
 ## RleCompressorException(string) {#constructor}
 
-Menginisialisasi instance baru dari[`RleCompressorException`](../) kelas.
+Menginisialisasi sebuah instance baru dari kelas [`RleCompressorException`](../).
 
 ```csharp
 public RleCompressorException(string message)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
 | message | String | Pesan pengecualian. |
 
-### Lihat juga
+### Lihat Juga
 
 * class [RleCompressorException](../)
-* ruang nama [Aspose.PSD.CoreExceptions.Compressors](../../rlecompressorexception/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.CoreExceptions.Compressors](../../../aspose.psd.coreexceptions.compressors/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## RleCompressorException(string, Exception) {#constructor_1}
 
-Menginisialisasi instance baru dari[`RleCompressorException`](../) kelas.
+Menginisialisasi sebuah instance baru dari kelas [`RleCompressorException`](../).
 
 ```csharp
 public RleCompressorException(string message, Exception innerException)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
 | message | String | Pesan pengecualian. |
-| innerException | Exception | Pengecualian batin. |
+| innerException | Exception | Pengecualian dalam. |
 
-### Lihat juga
+### Lihat Juga
 
 * class [RleCompressorException](../)
-* ruang nama [Aspose.PSD.CoreExceptions.Compressors](../../rlecompressorexception/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.CoreExceptions.Compressors](../../../aspose.psd.coreexceptions.compressors/)
+* assembly [Aspose.PSD](../../../)
 
 

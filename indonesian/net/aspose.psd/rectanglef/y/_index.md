@@ -1,27 +1,28 @@
 ---
-title: RectangleF.Y
-second_title: Aspose.PSD untuk Referensi .NET API
-description: RectangleF Properti. Mendapat atau menetapkan koordinat y dari sudut kiri atas iniRectangleFstruktur.
+title: "RectangleF.Y"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "RectangleF properti. Mendapatkan atau mengatur koordinat-y dari sudut kiri atas struktur RectangleF ini"
 type: docs
 weight: 180
 url: /id/net/aspose.psd/rectanglef/y/
 ---
+{{< psd/tize >}}
 ## RectangleF.Y property
 
-Mendapat atau menetapkan koordinat y dari sudut kiri atas ini[`RectangleF`](../)struktur.
+Mendapatkan atau mengatur koordinat-y dari sudut kiri atas struktur [`RectangleF`](../) ini.
 
 ```csharp
 public float Y { get; set; }
 ```
 
-### Nilai Pengembalian
+### Nilai Kembalian
 
-Koordinat y sudut kiri atas ini[`RectangleF`](../) struktur.
+Koordinat y dari sudut kiri atas dari struktur [`RectangleF`](../) ini.
 
-### Lihat juga
+### Lihat Juga
 
 * struct [RectangleF](../)
-* ruang nama [Aspose.PSD](../../rectanglef/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

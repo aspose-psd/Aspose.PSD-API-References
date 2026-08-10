@@ -1,27 +1,28 @@
 ---
-title: TiffOptions.Copyright
-second_title: Aspose.PSD untuk Referensi .NET API
-description: TiffOptions Properti. Mendapatkan atau menyetel hak cipta.
+title: "TiffOptions.Copyright"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "TiffOptions properti. Mendapatkan atau mengatur hak cipta"
 type: docs
 weight: 100
 url: /id/net/aspose.psd.imageoptions/tiffoptions/copyright/
 ---
+{{< psd/tize >}}
 ## TiffOptions.Copyright property
 
-Mendapatkan atau menyetel hak cipta.
+Mendapatkan atau mengatur hak cipta.
 
 ```csharp
 public string Copyright { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
-Hak Cipta.
+Hak cipta.
 
-### Lihat juga
+### Lihat Juga
 
 * class [TiffOptions](../)
-* ruang nama [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

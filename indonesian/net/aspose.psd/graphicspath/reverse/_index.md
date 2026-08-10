@@ -1,23 +1,24 @@
 ---
-title: GraphicsPath.Reverse
-second_title: Aspose.PSD untuk Referensi .NET API
-description: GraphicsPath metode. Membalik urutan angka bentuk dan titik di setiap bentuk iniGraphicsPath .
+title: "GraphicsPath.Reverse"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode GraphicsPath. Membalik urutan figur, bentuk, dan titik dalam setiap bentuk dari GraphicsPath ini."
 type: docs
 weight: 160
 url: /id/net/aspose.psd/graphicspath/reverse/
 ---
+{{< psd/tize >}}
 ## GraphicsPath.Reverse method
 
-Membalik urutan angka, bentuk, dan titik di setiap bentuk ini[`GraphicsPath`](../) .
+Membalik urutan figur, bentuk, dan titik dalam setiap bentuk dari [`GraphicsPath`](../).
 
 ```csharp
 public void Reverse()
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [GraphicsPath](../)
-* ruang nama [Aspose.PSD](../../graphicspath/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

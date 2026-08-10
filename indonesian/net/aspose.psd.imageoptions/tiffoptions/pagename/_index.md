@@ -1,27 +1,28 @@
 ---
-title: TiffOptions.PageName
-second_title: Aspose.PSD untuk Referensi .NET API
-description: TiffOptions Properti. Mendapat atau mengatur nama halaman.
+title: "TiffOptions.PageName"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti TiffOptions. Mendapatkan atau mengatur nama halaman"
 type: docs
-weight: 290
+weight: 300
 url: /id/net/aspose.psd.imageoptions/tiffoptions/pagename/
 ---
+{{< psd/tize >}}
 ## TiffOptions.PageName property
 
-Mendapat atau mengatur nama halaman.
+Mendapatkan atau mengatur nama halaman.
 
 ```csharp
 public string PageName { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
 Nama halaman.
 
-### Lihat juga
+### Lihat Juga
 
 * class [TiffOptions](../)
-* ruang nama [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

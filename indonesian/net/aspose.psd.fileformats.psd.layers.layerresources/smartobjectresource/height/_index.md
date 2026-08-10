@@ -1,27 +1,28 @@
 ---
-title: SmartObjectResource.Height
-second_title: Aspose.PSD untuk Referensi .NET API
-description: SmartObjectResource Properti. Mendapat atau mengatur ketinggian.
+title: "SmartObjectResource.Height"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "SmartObjectResource Properti. Mendapatkan atau mengatur tinggi"
 type: docs
 weight: 100
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/height/
 ---
+{{< psd/tize >}}
 ## SmartObjectResource.Height property
 
-Mendapat atau mengatur ketinggian.
+Mendapatkan atau mengatur tinggi.
 
 ```csharp
 public double Height { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
 Tinggi.
 
-### Lihat juga
+### Lihat Juga
 
 * class [SmartObjectResource](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../smartobjectresource/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

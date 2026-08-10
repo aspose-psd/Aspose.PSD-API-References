@@ -1,28 +1,29 @@
 ---
-title: CustomLineCap.StrokeJoin
-second_title: Aspose.PSD untuk Referensi .NET API
-description: CustomLineCap Properti. Mendapat atau menyetelLineJoin pencacahan yang menentukan bagaimana baris yang menyusun iniCustomLineCapobjek digabungkan.
+title: "CustomLineCap.StrokeJoin"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti CustomLineCap. Mendapatkan atau mengatur enumerasi LineJoin yang menentukan bagaimana garis yang menyusun objek CustomLineCap ini digabungkan."
 type: docs
 weight: 50
 url: /id/net/aspose.psd/customlinecap/strokejoin/
 ---
+{{< psd/tize >}}
 ## CustomLineCap.StrokeJoin property
 
-Mendapat atau menyetel[`LineJoin`](../../linejoin/) pencacahan yang menentukan bagaimana baris yang menyusun ini[`CustomLineCap`](../)objek digabungkan.
+Mendapatkan atau mengatur enumerasi [`LineJoin`](../../linejoin/) yang menentukan bagaimana garis yang menyusun objek [`CustomLineCap`](../) ini digabungkan.
 
 ```csharp
 public LineJoin StrokeJoin { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
-Itu[`LineJoin`](../../linejoin/) pencacahan ini[`CustomLineCap`](../) objek digunakan untuk menggabungkan garis.
+Enumerasi [`LineJoin`](../../linejoin/) yang digunakan objek [`CustomLineCap`](../) ini untuk menggabungkan garis.
 
-### Lihat juga
+### Lihat Juga
 
 * enum [LineJoin](../../linejoin/)
 * class [CustomLineCap](../)
-* ruang nama [Aspose.PSD](../../customlinecap/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

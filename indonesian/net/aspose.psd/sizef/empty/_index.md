@@ -1,23 +1,24 @@
 ---
-title: SizeF.Empty
-second_title: Aspose.PSD untuk Referensi .NET API
-description: SizeF Properti. Mendapat instance baru dariSizeF struktur yang dimilikiWidth DanHeight nilai disetel ke nol.
+title: "SizeF.Empty"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti SizeF. Mendapatkan sebuah instance baru dari struktur SizeF yang memiliki nilai Width dan Height diatur ke nol."
 type: docs
 weight: 20
 url: /id/net/aspose.psd/sizef/empty/
 ---
+{{< psd/tize >}}
 ## SizeF.Empty property
 
-Mendapat instance baru dari[`SizeF`](../) struktur yang dimiliki[`Width`](../width/) Dan[`Height`](../height/) nilai disetel ke nol.
+Mendapatkan sebuah instance baru dari struktur [`SizeF`](../) yang memiliki nilai [`Width`](../width/) dan [`Height`](../height/) diatur ke nol.
 
 ```csharp
 public static SizeF Empty { get; }
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * struct [SizeF](../)
-* ruang nama [Aspose.PSD](../../sizef/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

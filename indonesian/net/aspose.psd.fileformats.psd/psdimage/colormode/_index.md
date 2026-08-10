@@ -1,28 +1,29 @@
 ---
-title: PsdImage.ColorMode
-second_title: Aspose.PSD untuk Referensi .NET API
-description: PsdImage Properti. Mendapat atau menyetel mode warna.
+title: "PsdImage.ColorMode"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "PsdImage property. Mendapatkan atau mengatur mode warna"
 type: docs
 weight: 70
 url: /id/net/aspose.psd.fileformats.psd/psdimage/colormode/
 ---
+{{< psd/tize >}}
 ## PsdImage.ColorMode property
 
-Mendapat atau menyetel mode warna.
+Mendapatkan atau mengatur mode warna.
 
 ```csharp
 public ColorModes ColorMode { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
 Mode warna.
 
-### Lihat juga
+### Lihat Juga
 
 * enum [ColorModes](../../colormodes/)
 * class [PsdImage](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

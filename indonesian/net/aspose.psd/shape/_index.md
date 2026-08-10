@@ -1,14 +1,15 @@
 ---
-title: Class Shape
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Aspose.PSD.Shape kelas. Bentuknya. Serangkaian titik yang terhubung menggunakan aturan tertentu.
+title: "Kelas Shape"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Kelas Aspose.PSD.Shape. Bentuk. Sekumpulan titik kontinu yang terhubung menggunakan aturan tertentu"
 type: docs
-weight: 5420
+weight: 5920
 url: /id/net/aspose.psd/shape/
 ---
+{{< psd/tize >}}
 ## Shape class
 
-Bentuknya. Serangkaian titik yang terhubung menggunakan aturan tertentu.
+Bentuk. Sekumpulan titik kontinu yang terhubung menggunakan aturan tertentu.
 
 ```csharp
 public abstract class Shape : ObjectWithBounds
@@ -16,25 +17,25 @@ public abstract class Shape : ObjectWithBounds
 
 ## Properti
 
-| Nama | Keterangan |
+| Nama | Deskripsi |
 | --- | --- |
-| abstract [Bounds](../../aspose.psd/objectwithbounds/bounds/) { get; } | Mendapat batas objek. |
+| abstract [Bounds](../../aspose.psd/objectwithbounds/bounds/) { get; } | Mendapatkan batas objek. |
 | abstract [Center](../../aspose.psd/shape/center/) { get; } | Mendapatkan pusat bentuk. |
-| abstract [HasSegments](../../aspose.psd/shape/hassegments/) { get; } | Mendapat nilai yang menunjukkan apakah bentuk memiliki segmen. |
+| abstract [HasSegments](../../aspose.psd/shape/hassegments/) { get; } | Mendapatkan nilai yang menunjukkan apakah bentuk memiliki segmen. |
 | abstract [Segments](../../aspose.psd/shape/segments/) { get; } | Mendapatkan segmen bentuk. |
 
 ## Metode
 
-| Nama | Keterangan |
+| Nama | Deskripsi |
 | --- | --- |
-| abstract [GetBounds](../../aspose.psd/objectwithbounds/getbounds/)(Matrix) | Mendapat batas objek. |
-| abstract [GetBounds](../../aspose.psd/objectwithbounds/getbounds/)(Matrix, Pen) | Mendapat batas objek. |
+| abstract [GetBounds](../../aspose.psd/objectwithbounds/getbounds/)(Matrix) | Mendapatkan batas objek. |
+| abstract [GetBounds](../../aspose.psd/objectwithbounds/getbounds/)(Matrix, Pen) | Mendapatkan batas objek. |
 | abstract [Transform](../../aspose.psd/objectwithbounds/transform/)(Matrix) | Menerapkan transformasi yang ditentukan ke bentuk. |
 
-### Lihat juga
+### Lihat Juga
 
 * class [ObjectWithBounds](../objectwithbounds/)
-* ruang nama [Aspose.PSD](../../aspose.psd/)
-* perakitan [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

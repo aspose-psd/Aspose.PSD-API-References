@@ -1,27 +1,28 @@
 ---
-title: Font.ChildFontFiles
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Font Properti. Mendapat atau mengatur larik nama file untuk font yang membentuk font komposit.
+title: "Font.ChildFontFiles"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti Font. Mendapatkan atau mengatur array nama file untuk font yang membentuk font komposit"
 type: docs
 weight: 20
 url: /id/net/aspose.psd.xmp.types.complex.font/font/childfontfiles/
 ---
+{{< psd/tize >}}
 ## Font.ChildFontFiles property
 
-Mendapat atau mengatur larik nama file untuk font yang membentuk font komposit.
+Mendapatkan atau menetapkan array nama file untuk font yang membentuk font komposit.
 
 ```csharp
 public string[] ChildFontFiles { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
-Larik nama file untuk font yang membentuk font komposit.
+Array nama file untuk font yang membentuk font komposit.
 
-### Lihat juga
+### Lihat Juga
 
 * class [Font](../)
-* ruang nama [Aspose.PSD.Xmp.Types.Complex.Font](../../font/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.Font](../../../aspose.psd.xmp.types.complex.font/)
+* assembly [Aspose.PSD](../../../)
 
 

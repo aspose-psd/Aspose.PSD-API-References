@@ -1,49 +1,50 @@
 ---
-title: Matrix.Multiply
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Matrix metode. Mengalikan Matriks ini dengan matriks yang ditentukan dalam parameter matriks dan dalam urutan yang ditentukan dalam parameter urutan.
+title: "Matrix.Multiply"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode Matrix. Mengalikan Matrix ini dengan matrix yang ditentukan dalam parameter matrix dan dalam urutan yang ditentukan dalam parameter order."
 type: docs
 weight: 120
 url: /id/net/aspose.psd/matrix/multiply/
 ---
+{{< psd/tize >}}
 ## Multiply(Matrix, MatrixOrder) {#multiply_1}
 
-Mengalikan Matriks ini dengan matriks yang ditentukan dalam parameter matriks, dan dalam urutan yang ditentukan dalam parameter urutan.
+Mengalikan Matrix ini dengan matriks yang ditentukan dalam parameter matrix, dan dalam urutan yang ditentukan dalam parameter order.
 
 ```csharp
 public void Multiply(Matrix Tx, MatrixOrder order)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
 | Tx | Matrix | tx. tx. tx. |
-| order | MatrixOrder | Pesanan. Pesanan. Pesanan. |
+| urutan | MatrixOrder | Urutan. Urutan. Urutan. |
 
-### Lihat juga
+### Lihat Juga
 
 * enum [MatrixOrder](../../matrixorder/)
 * class [Matrix](../)
-* ruang nama [Aspose.PSD](../../matrix/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Multiply(Matrix) {#multiply}
 
-Mengalikan Matriks ini dengan matriks yang ditentukan dalam parameter matriks menggunakan (default) Prepend order.
+Mengalikan Matrix ini dengan matriks yang ditentukan dalam parameter matrix menggunakan urutan (default) Prepend.
 
 ```csharp
 public void Multiply(Matrix Tx)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| Tx | Matrix | Matriks yang akan dikalikan dengan. |
+| Tx | Matrix | Matrix yang akan dikalikan dengan. |
 
-### Lihat juga
+### Lihat Juga
 
 * class [Matrix](../)
-* ruang nama [Aspose.PSD](../../matrix/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

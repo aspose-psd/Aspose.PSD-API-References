@@ -1,27 +1,28 @@
 ---
-title: TiffOptions.SoftwareType
-second_title: Aspose.PSD untuk Referensi .NET API
-description: TiffOptions Properti. Mendapatkan atau menyetel jenis perangkat lunak.
+title: "TiffOptions.SoftwareType"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti TiffOptions. Mendapatkan atau mengatur tipe perangkat lunak"
 type: docs
-weight: 450
+weight: 460
 url: /id/net/aspose.psd.imageoptions/tiffoptions/softwaretype/
 ---
+{{< psd/tize >}}
 ## TiffOptions.SoftwareType property
 
-Mendapatkan atau menyetel jenis perangkat lunak.
+Mendapatkan atau mengatur tipe perangkat lunak.
 
 ```csharp
 public string SoftwareType { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
-Jenis perangkat lunak.
+Tipe perangkat lunak.
 
-### Lihat juga
+### Lihat Juga
 
 * class [TiffOptions](../)
-* ruang nama [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

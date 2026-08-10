@@ -1,27 +1,28 @@
 ---
-title: AudioChannelType.Audio16Channel
-second_title: Aspose.PSD untuk Referensi .NET API
-description: AudioChannelType Properti. Mendapat 16 saluran audio.
+title: "AudioChannelType.Audio16Channel"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "AudioChannelType property. Mendapatkan saluran audio 16"
 type: docs
 weight: 10
 url: /id/net/aspose.psd.xmp.schemas.xmpdm/audiochanneltype/audio16channel/
 ---
+{{< psd/tize >}}
 ## AudioChannelType.Audio16Channel property
 
-Mendapat 16 saluran audio.
+Mendapatkan saluran audio 16.
 
 ```csharp
 public static AudioChannelType Audio16Channel { get; }
 ```
 
-### Nilai properti
+### Property Value
 
-16 saluran audio.
+Saluran audio 16.
 
-### Lihat juga
+### Lihat Juga
 
 * class [AudioChannelType](../)
-* ruang nama [Aspose.PSD.Xmp.Schemas.XmpDm](../../audiochanneltype/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpDm](../../../aspose.psd.xmp.schemas.xmpdm/)
+* assembly [Aspose.PSD](../../../)
 
 

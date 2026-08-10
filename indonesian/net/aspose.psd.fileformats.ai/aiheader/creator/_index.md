@@ -1,27 +1,28 @@
 ---
-title: AiHeader.Creator
-second_title: Aspose.PSD untuk Referensi .NET API
-description: AiHeader Properti. Mendapat atau menyetel pencipta.
+title: "AiHeader.Creator"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti AiHeader. Mendapatkan atau mengatur pembuat"
 type: docs
 weight: 40
 url: /id/net/aspose.psd.fileformats.ai/aiheader/creator/
 ---
+{{< psd/tize >}}
 ## AiHeader.Creator property
 
-Mendapat atau menyetel pencipta.
+Mendapatkan atau mengatur pembuat.
 
 ```csharp
 public string Creator { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
-Pencipta.
+Pembuat.
 
-### Lihat juga
+### Lihat Juga
 
 * class [AiHeader](../)
-* ruang nama [Aspose.PSD.FileFormats.Ai](../../aiheader/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

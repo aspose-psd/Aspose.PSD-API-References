@@ -1,27 +1,28 @@
 ---
-title: SizeF.Height
-second_title: Aspose.PSD untuk Referensi .NET API
-description: SizeF Properti. Mendapat atau menyetel komponen vertikal iniSizeF .
+title: "SizeF.Height"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti SizeF. Mendapatkan atau mengatur komponen vertikal dari SizeF ini."
 type: docs
 weight: 50
 url: /id/net/aspose.psd/sizef/height/
 ---
+{{< psd/tize >}}
 ## SizeF.Height property
 
-Mendapat atau menyetel komponen vertikal ini[`SizeF`](../) .
+Mendapatkan atau mengatur komponen vertikal dari [`SizeF`](../) ini.
 
 ```csharp
 public float Height { get; set; }
 ```
 
-### Nilai Pengembalian
+### Nilai Kembalian
 
-Komponen vertikal ini[`SizeF`](../), biasanya diukur dalam piksel.
+Komponen vertikal dari [`SizeF`](../), biasanya diukur dalam piksel.
 
-### Lihat juga
+### Lihat Juga
 
 * struct [SizeF](../)
-* ruang nama [Aspose.PSD](../../sizef/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

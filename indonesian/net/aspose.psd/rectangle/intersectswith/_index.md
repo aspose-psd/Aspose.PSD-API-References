@@ -1,31 +1,32 @@
 ---
-title: Rectangle.IntersectsWith
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Rectangle metode. Menentukan apakah persegi panjang ini berpotongan denganrect .
+title: "Rectangle.IntersectsWith"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode Rectangle. Menentukan apakah rectangle ini berpotongan dengan rect."
 type: docs
 weight: 250
 url: /id/net/aspose.psd/rectangle/intersectswith/
 ---
+{{< psd/tize >}}
 ## Rectangle.IntersectsWith method
 
-Menentukan apakah persegi panjang ini berpotongan dengan*rect* .
+Menentukan apakah rectangle ini beririsan dengan *rect*.
 
 ```csharp
 public bool IntersectsWith(Rectangle rect)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
 | rect | Rectangle | Persegi panjang untuk diuji. |
 
-### Nilai Pengembalian
+### Nilai Kembalian
 
-Metode ini mengembalikan nilai true jika ada persimpangan, jika tidak salah.
+Metode ini mengembalikan true jika ada interseksi apa pun, jika tidak false.
 
-### Lihat juga
+### Lihat Juga
 
 * struct [Rectangle](../)
-* ruang nama [Aspose.PSD](../../rectangle/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

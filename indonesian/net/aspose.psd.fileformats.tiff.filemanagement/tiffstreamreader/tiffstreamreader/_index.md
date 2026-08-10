@@ -1,91 +1,92 @@
 ---
-title: TiffStreamReader.TiffStreamReader
-second_title: Aspose.PSD untuk Referensi .NET API
-description: TiffStreamReader konstruktor. Menginisialisasi instance baru dariTiffStreamReader kelas.
+title: "TiffStreamReader.TiffStreamReader"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Konstruktor TiffStreamReader. Menginisialisasi sebuah instance baru dari kelas TiffStreamReader"
 type: docs
 weight: 10
 url: /id/net/aspose.psd.fileformats.tiff.filemanagement/tiffstreamreader/tiffstreamreader/
 ---
+{{< psd/tize >}}
 ## TiffStreamReader(byte[]) {#constructor_1}
 
-Menginisialisasi instance baru dari[`TiffStreamReader`](../) kelas.
+Menginisialisasi sebuah instance baru dari kelas [`TiffStreamReader`](../).
 
 ```csharp
 public TiffStreamReader(byte[] data)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
 | data | Byte[] | Data array byte. |
 
-### Lihat juga
+### Lihat Juga
 
 * class [TiffStreamReader](../)
-* ruang nama [Aspose.PSD.FileFormats.Tiff.FileManagement](../../tiffstreamreader/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff.FileManagement](../../../aspose.psd.fileformats.tiff.filemanagement/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## TiffStreamReader(byte[], int) {#constructor_2}
 
-Menginisialisasi instance baru dari[`TiffStreamReader`](../) kelas.
+Menginisialisasi sebuah instance baru dari kelas [`TiffStreamReader`](../).
 
 ```csharp
 public TiffStreamReader(byte[] data, int startIndex)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
 | data | Byte[] | Data array byte. |
-| startIndex | Int32 | Indeks awal ke dalam*data*. |
+| startIndex | Int32 | Indeks awal ke dalam *data*. |
 
-### Lihat juga
+### Lihat Juga
 
 * class [TiffStreamReader](../)
-* ruang nama [Aspose.PSD.FileFormats.Tiff.FileManagement](../../tiffstreamreader/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff.FileManagement](../../../aspose.psd.fileformats.tiff.filemanagement/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## TiffStreamReader(byte[], int, int) {#constructor_3}
 
-Menginisialisasi instance baru dari[`TiffStreamReader`](../) kelas.
+Menginisialisasi sebuah instance baru dari kelas [`TiffStreamReader`](../).
 
 ```csharp
 public TiffStreamReader(byte[] data, int startIndex, int dataLength)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
 | data | Byte[] | Data array byte. |
-| startIndex | Int32 | Indeks awal ke dalam*data*. |
-| dataLength | Int32 | Panjang datanya. |
+| startIndex | Int32 | Indeks awal ke dalam *data*. |
+| dataLength | Int32 | Panjang data. |
 
-### Lihat juga
+### Lihat Juga
 
 * class [TiffStreamReader](../)
-* ruang nama [Aspose.PSD.FileFormats.Tiff.FileManagement](../../tiffstreamreader/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff.FileManagement](../../../aspose.psd.fileformats.tiff.filemanagement/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## TiffStreamReader(StreamContainer) {#constructor}
 
-Menginisialisasi instance baru dari[`TiffStreamReader`](../) kelas.
+Menginisialisasi sebuah instance baru dari kelas [`TiffStreamReader`](../).
 
 ```csharp
 public TiffStreamReader(StreamContainer streamContainer)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| streamContainer | StreamContainer | Wadah aliran. |
+| streamContainer | StreamContainer | Kontainer aliran. |
 
-### Lihat juga
+### Lihat Juga
 
 * class [StreamContainer](../../../aspose.psd/streamcontainer/)
 * class [TiffStreamReader](../)
-* ruang nama [Aspose.PSD.FileFormats.Tiff.FileManagement](../../tiffstreamreader/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff.FileManagement](../../../aspose.psd.fileformats.tiff.filemanagement/)
+* assembly [Aspose.PSD](../../../)
 
 

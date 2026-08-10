@@ -1,11 +1,12 @@
 ---
-title: DitheringMode.Method
-second_title: Aspose.PSD untuk Referensi .NET API
-description: DitheringMode Properti. Pemilihan algoritma dithering.
+title: "DitheringMode.Method"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "DitheringMode property. Pemilihan algoritma dithering"
 type: docs
 weight: 40
 url: /id/net/aspose.psd.dithering/ditheringmode/method/
 ---
+{{< psd/tize >}}
 ## DitheringMode.Method property
 
 Pemilihan algoritma dithering.
@@ -14,11 +15,11 @@ Pemilihan algoritma dithering.
 public DitheringMethod Method { get; set; }
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * enum [DitheringMethod](../../../aspose.psd/ditheringmethod/)
 * class [DitheringMode](../)
-* ruang nama [Aspose.PSD.Dithering](../../ditheringmode/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Dithering](../../../aspose.psd.dithering/)
+* assembly [Aspose.PSD](../../../)
 
 

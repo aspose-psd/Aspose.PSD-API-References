@@ -1,81 +1,82 @@
 ---
-title: RectangleF.Contains
-second_title: Aspose.PSD untuk Referensi .NET API
-description: RectangleF metode. Menentukan apakah titik yang ditentukan terkandung di dalamnyaRectangleFstruktur.
+title: "RectangleF.Contains"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode RectangleF. Menentukan apakah titik yang ditentukan berada di dalam struktur RectangleF ini"
 type: docs
 weight: 190
 url: /id/net/aspose.psd/rectanglef/contains/
 ---
+{{< psd/tize >}}
 ## Contains(float, float) {#contains_2}
 
-Menentukan apakah titik yang ditentukan terkandung di dalamnya[`RectangleF`](../)struktur.
+Menentukan apakah titik yang ditentukan berada di dalam struktur [`RectangleF`](../) ini.
 
 ```csharp
 public bool Contains(float x, float y)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
 | x | Single | Koordinat x dari titik yang akan diuji. |
 | y | Single | Koordinat y dari titik yang akan diuji. |
 
-### Nilai Pengembalian
+### Nilai Kembalian
 
-Metode ini mengembalikan nilai true jika titik ditentukan oleh*x* Dan*y* terkandung di dalamnya[`RectangleF`](../) struktur; sebaliknya salah.
+Metode ini mengembalikan true jika titik yang didefinisikan oleh *x* dan *y* berada di dalam struktur [`RectangleF`](../) ini; jika tidak, false.
 
-### Lihat juga
+### Lihat Juga
 
 * struct [RectangleF](../)
-* ruang nama [Aspose.PSD](../../rectanglef/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Contains(PointF) {#contains}
 
-Menentukan apakah titik yang ditentukan terkandung di dalamnya[`RectangleF`](../)struktur.
+Menentukan apakah titik yang ditentukan berada di dalam struktur [`RectangleF`](../) ini.
 
 ```csharp
 public bool Contains(PointF point)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| point | PointF | Itu[`PointF`](../../pointf/) untuk mengetes. |
+| point | PointF | `[`PointF`](../../pointf/)` untuk diuji. |
 
-### Nilai Pengembalian
+### Nilai Kembalian
 
-Metode ini mengembalikan nilai true jika titik yang diwakili oleh the*point* parameter terkandung di dalamnya[`RectangleF`](../) struktur; sebaliknya salah.
+Metode ini mengembalikan true jika titik yang direpresentasikan oleh parameter *point* berada di dalam struktur `[`RectangleF`](../)` ini; jika tidak false.
 
-### Lihat juga
+### Lihat Juga
 
 * struct [PointF](../../pointf/)
 * struct [RectangleF](../)
-* ruang nama [Aspose.PSD](../../rectanglef/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Contains(RectangleF) {#contains_1}
 
-Menentukan apakah wilayah persegi panjang diwakili oleh*rect* sepenuhnya terkandung dalam ini[`RectangleF`](../)struktur.
+Menentukan apakah wilayah persegi panjang yang direpresentasikan oleh *rect* sepenuhnya berada di dalam struktur `[`RectangleF`](../)` ini.
 
 ```csharp
 public bool Contains(RectangleF rect)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| rect | RectangleF | Itu[`RectangleF`](../) untuk mengetes. |
+| rect | RectangleF | `[`RectangleF`](../)` untuk diuji. |
 
-### Nilai Pengembalian
+### Nilai Kembalian
 
-Metode ini mengembalikan nilai true jika wilayah persegi panjang diwakili oleh*rect* seluruhnya terkandung dalam wilayah persegi panjang yang diwakili oleh ini[`RectangleF`](../); sebaliknya salah.
+Metode ini mengembalikan true jika wilayah persegi panjang yang direpresentasikan oleh *rect* sepenuhnya berada di dalam wilayah persegi panjang yang direpresentasikan oleh `[`RectangleF`](../)` ini; jika tidak false.
 
-### Lihat juga
+### Lihat Juga
 
 * struct [RectangleF](../)
-* ruang nama [Aspose.PSD](../../rectanglef/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

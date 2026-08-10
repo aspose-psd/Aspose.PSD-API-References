@@ -1,27 +1,28 @@
 ---
-title: IPsdColorPalette.RawEntries
-second_title: Aspose.PSD untuk Referensi .NET API
-description: IPsdColorPalette Properti. Mendapat data entri palet warna mentah.
+title: "IPsdColorPalette.RawEntries"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "IPsdColorPalette properti. Mendapatkan data entri palet warna mentah"
 type: docs
 weight: 20
 url: /id/net/aspose.psd/ipsdcolorpalette/rawentries/
 ---
+{{< psd/tize >}}
 ## IPsdColorPalette.RawEntries property
 
-Mendapat data entri palet warna mentah.
+Mengambil data entri palet warna mentah.
 
 ```csharp
 public byte[] RawEntries { get; }
 ```
 
-### Nilai properti
+### Property Value
 
 Data entri palet warna mentah.
 
-### Lihat juga
+### Lihat Juga
 
 * interface [IPsdColorPalette](../)
-* ruang nama [Aspose.PSD](../../ipsdcolorpalette/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

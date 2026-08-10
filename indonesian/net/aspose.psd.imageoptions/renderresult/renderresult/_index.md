@@ -1,11 +1,12 @@
 ---
-title: RenderResult.RenderResult
-second_title: Aspose.PSD untuk Referensi .NET API
-description: RenderResult konstruktor. Konstruktor default.
+title: "RenderResult.RenderResult"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Konstruktor RenderResult. Konstruktor default"
 type: docs
 weight: 10
 url: /id/net/aspose.psd.imageoptions/renderresult/renderresult/
 ---
+{{< psd/tize >}}
 ## RenderResult constructor
 
 Konstruktor default.
@@ -14,10 +15,10 @@ Konstruktor default.
 public RenderResult()
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [RenderResult](../)
-* ruang nama [Aspose.PSD.ImageOptions](../../renderresult/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: TransparencySupporter.TransparencySupporter
-second_title: Aspose.PSD untuk Referensi .NET API
-description: TransparencySupporter konstruktor. Konstruktor default.
+title: "TransparencySupporter.TransparencySupporter"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Konstruktor TransparencySupporter. Konstruktor default"
 type: docs
 weight: 10
 url: /id/net/aspose.psd/transparencysupporter/transparencysupporter/
 ---
+{{< psd/tize >}}
 ## TransparencySupporter constructor
 
 Konstruktor default.
@@ -14,10 +15,10 @@ Konstruktor default.
 public TransparencySupporter()
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [TransparencySupporter](../)
-* ruang nama [Aspose.PSD](../../transparencysupporter/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

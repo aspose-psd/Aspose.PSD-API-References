@@ -1,14 +1,15 @@
 ---
-title: Enum DashCap
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Aspose.PSD.DashCap enum. Menentukan jenis bentuk grafik untuk digunakan pada kedua ujung setiap tanda hubung dalam garis putusputus.
+title: "Enum DashCap"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Enum Aspose.PSD.DashCap. Menentukan jenis bentuk grafis yang digunakan pada kedua ujung setiap garis putus-putus dalam sebuah garis bergaris."
 type: docs
-weight: 710
+weight: 720
 url: /id/net/aspose.psd/dashcap/
 ---
+{{< psd/tize >}}
 ## DashCap enumeration
 
-Menentukan jenis bentuk grafik untuk digunakan pada kedua ujung setiap tanda hubung dalam garis putus-putus.
+Menentukan jenis bentuk grafis yang akan digunakan pada kedua ujung setiap garis putus pada garis bergaris.
 
 ```csharp
 public enum DashCap
@@ -16,15 +17,15 @@ public enum DashCap
 
 ### Nilai
 
-| Nama | Nilai | Keterangan |
+| Nama | Nilai | Deskripsi |
 | --- | --- | --- |
-| Flat | `0` | Menentukan tutup persegi yang menyamakan kedua ujung setiap tanda hubung. |
-| Round | `2` | Menentukan tutup lingkaran yang membulatkan kedua ujung setiap tanda hubung. |
-| Triangle | `3` | Menentukan tutup segitiga yang menunjuk kedua ujung setiap tanda hubung. |
+| Flat | `0` | Menentukan penutup persegi yang meratakan kedua ujung setiap garis putus-putus. |
+| Round | `2` | Menentukan penutup melingkar yang melengkungkan kedua ujung setiap garis putus-putus. |
+| Triangle | `3` | Menentukan penutup segitiga yang menunjuk pada kedua ujung setiap garis putus-putus. |
 
-### Lihat juga
+### Lihat Juga
 
-* ruang nama [Aspose.PSD](../../aspose.psd/)
-* perakitan [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

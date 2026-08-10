@@ -1,27 +1,28 @@
 ---
-title: Hue2Resource.Saturation
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Hue2Resource Properti. Mendapat atau menyetel saturasi master.
+title: "Hue2Resource.Saturation"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti Hue2Resource. Mendapatkan atau mengatur saturasi utama"
 type: docs
-weight: 90
+weight: 70
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources/hue2resource/saturation/
 ---
+{{< psd/tize >}}
 ## Hue2Resource.Saturation property
 
-Mendapat atau menyetel saturasi master.
+Mendapatkan atau mengatur saturasi utama.
 
 ```csharp
 public short Saturation { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
-Saturasi master.
+Saturasi utama.
 
-### Lihat juga
+### Lihat Juga
 
 * class [Hue2Resource](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../hue2resource/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

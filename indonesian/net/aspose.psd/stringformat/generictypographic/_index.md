@@ -1,27 +1,28 @@
 ---
-title: StringFormat.GenericTypographic
-second_title: Aspose.PSD untuk Referensi .NET API
-description: StringFormat Properti. Mendapat tipografi umumStringFormat objek.
+title: "StringFormat.GenericTypographic"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti StringFormat. Mengambil objek StringFormat tipografi generik"
 type: docs
 weight: 30
 url: /id/net/aspose.psd/stringformat/generictypographic/
 ---
+{{< psd/tize >}}
 ## StringFormat.GenericTypographic property
 
-Mendapat tipografi umum[`StringFormat`](../) objek.
+Mengambil objek [`StringFormat`](../) tipografi generik.
 
 ```csharp
 public static StringFormat GenericTypographic { get; }
 ```
 
-### Nilai properti
+### Property Value
 
-Sebuah tipografi umum[`StringFormat`](../) obyek.
+Objek [`StringFormat`](../) tipografi generik.
 
-### Lihat juga
+### Lihat Juga
 
 * class [StringFormat](../)
-* ruang nama [Aspose.PSD](../../stringformat/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

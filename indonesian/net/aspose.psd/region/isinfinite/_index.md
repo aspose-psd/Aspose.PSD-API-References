@@ -1,38 +1,39 @@
 ---
-title: Region.IsInfinite
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Region metode. Menguji apakah iniRegion memiliki interior tak terbatas pada permukaan gambar yang ditentukan.
+title: "Region.IsInfinite"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode Region. Menguji apakah Region ini memiliki interior tak berhingga pada permukaan gambar yang ditentukan"
 type: docs
-weight: 80
+weight: 90
 url: /id/net/aspose.psd/region/isinfinite/
 ---
+{{< psd/tize >}}
 ## Region.IsInfinite method
 
-Menguji apakah ini[`Region`](../) memiliki interior tak terbatas pada permukaan gambar yang ditentukan.
+Menguji apakah [`Region`](../) ini memiliki interior tak berhingga pada permukaan gambar yang ditentukan.
 
 ```csharp
 public bool IsInfinite(Graphics g)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| g | Graphics | A[`Graphics`](../../graphics/) yang mewakili permukaan gambar. |
+| g | Graphics | Sebuah [`Graphics`](../../graphics/) yang mewakili permukaan gambar. |
 
-### Nilai Pengembalian
+### Nilai Kembalian
 
-benar jika interior ini[`Region`](../) tak terbatas ketika transformasi terkait dengan*g* diterapkan; jika tidak, false.
+true jika interior dari [`Region`](../) ini tak berhingga ketika transformasi yang terkait dengan *g* diterapkan; jika tidak, false.
 
 ### Pengecualian
 
 | pengecualian | kondisi |
 | --- | --- |
-| ArgumentNullException | *g* adalah null. |
+| ArgumentNullException | *g* bernilai null. |
 
-### Lihat juga
+### Lihat Juga
 
 * class [Graphics](../../graphics/)
 * class [Region](../)
-* ruang nama [Aspose.PSD](../../region/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

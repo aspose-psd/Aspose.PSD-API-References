@@ -1,23 +1,24 @@
 ---
-title: Namespaces.XmpMm
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Namespaces bidang. ruang nama manajemen aset digital XMP.
+title: "Namespaces.XmpMm"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Bidang Namespaces. namespace manajemen aset digital XMP"
 type: docs
 weight: 100
 url: /id/net/aspose.psd.xmp/namespaces/xmpmm/
 ---
+{{< psd/tize >}}
 ## Namespaces.XmpMm field
 
-ruang nama manajemen aset digital XMP.
+Namespace XMP digital asset management.
 
 ```csharp
 public const string XmpMm;
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [Namespaces](../)
-* ruang nama [Aspose.PSD.Xmp](../../namespaces/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

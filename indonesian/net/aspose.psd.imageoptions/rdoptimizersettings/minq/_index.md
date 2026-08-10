@@ -1,11 +1,12 @@
 ---
-title: RdOptimizerSettings.MinQ
-second_title: Aspose.PSD untuk Referensi .NET API
-description: RdOptimizerSettings Properti. Mendapatkan nilai kuantisasi minimum yang diizinkan.
+title: "RdOptimizerSettings.MinQ"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "RdOptimizerSettings property. Mendapatkan nilai kuantisasi minimum yang diizinkan"
 type: docs
 weight: 80
 url: /id/net/aspose.psd.imageoptions/rdoptimizersettings/minq/
 ---
+{{< psd/tize >}}
 ## RdOptimizerSettings.MinQ property
 
 Mendapatkan nilai kuantisasi minimum yang diizinkan.
@@ -14,14 +15,14 @@ Mendapatkan nilai kuantisasi minimum yang diizinkan.
 public int MinQ { get; }
 ```
 
-### Nilai properti
+### Property Value
 
-Nilai kuantisasi minimum yang diizinkan.
+Nilai minimum minimum yang diizinkan.
 
-### Lihat juga
+### Lihat Juga
 
 * class [RdOptimizerSettings](../)
-* ruang nama [Aspose.PSD.ImageOptions](../../rdoptimizersettings/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

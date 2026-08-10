@@ -1,23 +1,24 @@
 ---
-title: ClblResource.Key
-second_title: Aspose.PSD untuk Referensi .NET API
-description: ClblResource Properti. Mendapat kunci sumber daya lapisan.
+title: "ClblResource.Key"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti ClblResource. Mendapatkan kunci sumber daya layer"
 type: docs
 weight: 30
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources/clblresource/key/
 ---
+{{< psd/tize >}}
 ## ClblResource.Key property
 
-Mendapat kunci sumber daya lapisan.
+Mendapatkan kunci sumber daya lapisan.
 
 ```csharp
 public override int Key { get; }
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [ClblResource](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../clblresource/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,23 +1,24 @@
 ---
-title: ExpaResource.TypeToolKey
-second_title: Aspose.PSD untuk Referensi .NET API
-description: ExpaResource bidang. Kunci info alat ketik.
+title: "ExpaResource.TypeToolKey"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "ExpaResource field. Kunci informasi alat tipe"
 type: docs
-weight: 90
+weight: 70
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources/exparesource/typetoolkey/
 ---
+{{< psd/tize >}}
 ## ExpaResource.TypeToolKey field
 
-Kunci info alat ketik.
+Kunci info alat tipe.
 
 ```csharp
 public const int TypeToolKey;
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [ExpaResource](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../exparesource/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

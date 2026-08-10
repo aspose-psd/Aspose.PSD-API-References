@@ -1,27 +1,28 @@
 ---
-title: FileOpenSource.FilePath
-second_title: Aspose.PSD untuk Referensi .NET API
-description: FileOpenSource Properti. Mendapat jalur file untuk dibuka.
+title: "FileOpenSource.FilePath"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti FileOpenSource. Mendapatkan jalur file yang akan dibuka"
 type: docs
 weight: 20
 url: /id/net/aspose.psd.sources/fileopensource/filepath/
 ---
+{{< psd/tize >}}
 ## FileOpenSource.FilePath property
 
-Mendapat jalur file untuk dibuka.
+Mendapatkan jalur file untuk dibuka.
 
 ```csharp
 public string FilePath { get; }
 ```
 
-### Nilai properti
+### Property Value
 
-Jalur file untuk dibuka.
+Jalur file yang akan dibuka.
 
-### Lihat juga
+### Lihat Juga
 
 * class [FileOpenSource](../)
-* ruang nama [Aspose.PSD.Sources](../../fileopensource/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Sources](../../../aspose.psd.sources/)
+* assembly [Aspose.PSD](../../../)
 
 

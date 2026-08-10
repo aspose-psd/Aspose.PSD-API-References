@@ -1,27 +1,28 @@
 ---
-title: GradientOverlayEffect.IsVisible
-second_title: Aspose.PSD untuk Referensi .NET API
-description: GradientOverlayEffect Properti. Mendapat atau menetapkan nilai yang menunjukkan apakah instance ini terlihat.
+title: "GradientOverlayEffect.IsVisible"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "GradientOverlayEffect properti. Mendapatkan atau mengatur nilai yang menunjukkan apakah instance ini terlihat"
 type: docs
 weight: 30
 url: /id/net/aspose.psd.fileformats.psd.layers.layereffects/gradientoverlayeffect/isvisible/
 ---
+{{< psd/tize >}}
 ## GradientOverlayEffect.IsVisible property
 
-Mendapat atau menetapkan nilai yang menunjukkan apakah instance ini terlihat.
+Mendapatkan atau mengatur nilai yang menunjukkan apakah instance ini terlihat.
 
 ```csharp
 public bool IsVisible { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
-`BENAR` jika contoh ini terlihat; jika tidak,`PALSU` .
+`true` jika instance ini terlihat; jika tidak, `false`.
 
-### Lihat juga
+### Lihat Juga
 
 * class [GradientOverlayEffect](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../gradientoverlayeffect/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../../)
 
 

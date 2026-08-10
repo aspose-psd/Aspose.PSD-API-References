@@ -1,27 +1,28 @@
 ---
-title: TypeToolInfo6Resource.TextVersion
-second_title: Aspose.PSD untuk Referensi .NET API
-description: TypeToolInfo6Resource Properti. Mendapat atau menyetel versi teks.
+title: "TypeToolInfo6Resource.TextVersion"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti TypeToolInfo6Resource. Mendapatkan atau mengatur versi teks"
 type: docs
-weight: 130
+weight: 100
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources/typetoolinfo6resource/textversion/
 ---
+{{< psd/tize >}}
 ## TypeToolInfo6Resource.TextVersion property
 
-Mendapat atau menyetel versi teks.
+Mendapatkan atau mengatur versi teks.
 
 ```csharp
 public short TextVersion { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
 Versi teks.
 
-### Lihat juga
+### Lihat Juga
 
 * class [TypeToolInfo6Resource](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../typetoolinfo6resource/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

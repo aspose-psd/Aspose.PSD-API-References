@@ -1,14 +1,15 @@
 ---
-title: Class LayerMaskDataShort
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerMaskDataShort kelas. Mendefinisikan kelas LayerMaskDataShort yang berisi informasi tentang data mask di file PSD layer ketika layer hanya memiliki mask raster atau vektor tetapi tidak keduanya. Jika tidak aLayerMaskDataFull digunakan. Jika layer hanya memiliki topeng raster ImageData berisi byte data topeng raster. Jika lapisan hanya memiliki topeng vektor ImageData berisi byte data raster cache topeng vektor. ImageDatapanjang byte harus sama dengan Lebar  TinggiMaskRectangle properti.
+title: "Kelas LayerMaskDataShort"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Aspose.PSD.FileFormats.Psd.Layers.LayerMaskDataShort class. Mendefinisikan kelas LayerMaskDataShort yang berisi informasi tentang data masker pada lapisan file PSD ketika lapisan hanya memiliki masker raster atau vektor tetapi tidak keduanya. Jika tidak, digunakan LayerMaskDataFull. Jika lapisan hanya memiliki masker raster, ImageData berisi byte data masker raster. Jika lapisan hanya memiliki masker vektor, ImageData berisi byte data vektor yang telah dirasterisasi dan disimpan dalam cache. Panjang byte ImageData harus sama dengan Width * Height dari properti MaskRectangle."
 type: docs
-weight: 2260
+weight: 2460
 url: /id/net/aspose.psd.fileformats.psd.layers/layermaskdatashort/
 ---
+{{< psd/tize >}}
 ## LayerMaskDataShort class
 
-Mendefinisikan kelas LayerMaskDataShort yang berisi informasi tentang data mask di file PSD layer ketika layer hanya memiliki mask raster atau vektor tetapi tidak keduanya. Jika tidak, a[`LayerMaskDataFull`](../layermaskdatafull/) digunakan. Jika layer hanya memiliki topeng raster, ImageData berisi byte data topeng raster. Jika lapisan hanya memiliki topeng vektor, ImageData berisi byte data raster (cache) topeng vektor. [`ImageData`](../layermaskdata/imagedata/)panjang byte harus sama dengan Lebar * Tinggi[`MaskRectangle`](../layermaskdata/maskrectangle/) properti.
+Mendefinisikan kelas LayerMaskDataShort yang berisi informasi tentang data masker pada lapisan file PSD ketika lapisan hanya memiliki masker raster atau vektor tetapi tidak keduanya. Jika tidak, sebuah [`LayerMaskDataFull`](../layermaskdatafull/) digunakan. Jika lapisan hanya memiliki masker raster, ImageData berisi byte data masker raster. Jika lapisan hanya memiliki masker vektor, ImageData berisi byte data vektor yang dirasterisasi (cached). Panjang byte [`ImageData`](../layermaskdata/imagedata/) harus sama dengan Width * Height dari properti [`MaskRectangle`](../layermaskdata/maskrectangle/).
 
 ```csharp
 public sealed class LayerMaskDataShort : LayerMaskData
@@ -16,29 +17,29 @@ public sealed class LayerMaskDataShort : LayerMaskData
 
 ## Konstruktor
 
-| Nama | Keterangan |
+| Nama | Deskripsi |
 | --- | --- |
-| [LayerMaskDataShort](layermaskdatashort/)() | Konstruktor default. |
+| [LayerMaskDataShort](layermaskdatashort/)() | Menginisialisasi instance baru dari kelas `LayerMaskDataShort`. |
 
 ## Properti
 
-| Nama | Keterangan |
+| Nama | Deskripsi |
 | --- | --- |
-| [Bottom](../../aspose.psd.fileformats.psd.layers/layermaskdata/bottom/) { get; set; } | Mendapat atau mengatur posisi layer mask bawah. |
-| [DataSize](../../aspose.psd.fileformats.psd.layers/layermaskdata/datasize/) { get; } | Mendapat ukuran data layer mask mask. |
-| [DefaultColor](../../aspose.psd.fileformats.psd.layers/layermaskdata/defaultcolor/) { get; set; } | Mendapat atau menyetel warna default. |
-| [Flags](../../aspose.psd.fileformats.psd.layers/layermaskdata/flags/) { get; set; } | Mendapat atau menyetel bendera layer mask. |
-| [ImageData](../../aspose.psd.fileformats.psd.layers/layermaskdata/imagedata/) { get; set; } | Mendapat atau mengatur data layer mask (atau gabungan / final mask jika ada topeng vektor) di file PSD. |
-| [Left](../../aspose.psd.fileformats.psd.layers/layermaskdata/left/) { get; set; } | Mendapat atau mengatur posisi layer mask kiri. |
-| [MaskRectangle](../../aspose.psd.fileformats.psd.layers/layermaskdata/maskrectangle/) { get; set; } | Mendapat atau menyetel topeng[`Rectangle`](../../aspose.psd/rectangle/)dari layer mask di file PSD. Dibutuhkan properti kiri, kanan, atas dan bawah dan membuat[`Rectangle`](../../aspose.psd/rectangle/) |
-| [Padding](../../aspose.psd.fileformats.psd.layers/layermaskdatashort/padding/) { get; set; } | Mendapat atau menyetel padding layer mask. |
-| [Right](../../aspose.psd.fileformats.psd.layers/layermaskdata/right/) { get; set; } | Mendapat atau mengatur posisi layer mask yang tepat. |
-| [Top](../../aspose.psd.fileformats.psd.layers/layermaskdata/top/) { get; set; } | Mendapat atau mengatur posisi top layer mask. |
+| [Bottom](../../aspose.psd.fileformats.psd.layers/layermaskdata/bottom/) { get; set; } | Mendapatkan atau mengatur posisi mask lapisan bagian bawah. |
+| [DataSize](../../aspose.psd.fileformats.psd.layers/layermaskdata/datasize/) { get; } | Mendapatkan ukuran data mask lapisan. |
+| [DefaultColor](../../aspose.psd.fileformats.psd.layers/layermaskdata/defaultcolor/) { get; set; } | Mendapatkan atau mengatur warna default. |
+| [Flags](../../aspose.psd.fileformats.psd.layers/layermaskdata/flags/) { get; set; } | Mendapatkan atau mengatur flag mask lapisan. |
+| [ImageData](../../aspose.psd.fileformats.psd.layers/layermaskdata/imagedata/) { get; set; } | Mendapatkan atau mengatur data mask lapisan (atau mask gabungan / akhir jika ada mask vektor) dalam file PSD. |
+| [Left](../../aspose.psd.fileformats.psd.layers/layermaskdata/left/) { get; set; } | Mendapatkan atau mengatur posisi mask lapisan kiri. |
+| [MaskRectangle](../../aspose.psd.fileformats.psd.layers/layermaskdata/maskrectangle/) { get; set; } | Mendapatkan atau mengatur [`Rectangle`](../../aspose.psd/rectangle/) mask dari mask lapisan dalam file PSD. Ini mengambil properti kiri, kanan, atas, dan bawah serta membuat [`Rectangle`](../../aspose.psd/rectangle/) |
+| [Padding](../../aspose.psd.fileformats.psd.layers/layermaskdatashort/padding/) { get; set; } | Mendapatkan atau mengatur padding masker lapisan. |
+| [Right](../../aspose.psd.fileformats.psd.layers/layermaskdata/right/) { get; set; } | Mendapatkan atau mengatur posisi mask lapisan kanan. |
+| [Top](../../aspose.psd.fileformats.psd.layers/layermaskdata/top/) { get; set; } | Mendapatkan atau mengatur posisi mask lapisan atas. |
 
-### Lihat juga
+### Lihat Juga
 
 * class [LayerMaskData](../layermaskdata/)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers](../../aspose.psd.fileformats.psd.layers/)
-* perakitan [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: XmpDynamicMediaPackage.SetLogComment
-second_title: Aspose.PSD untuk Referensi .NET API
-description: XmpDynamicMediaPackage metode. Mengatur komentar log pengguna.
+title: "XmpDynamicMediaPackage.SetLogComment"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode XmpDynamicMediaPackage. Mengatur komentar log pengguna"
 type: docs
 weight: 270
 url: /id/net/aspose.psd.xmp.schemas.xmpdm/xmpdynamicmediapackage/setlogcomment/
 ---
+{{< psd/tize >}}
 ## XmpDynamicMediaPackage.SetLogComment method
 
 Mengatur komentar log pengguna.
@@ -14,14 +15,14 @@ Mengatur komentar log pengguna.
 public void SetLogComment(string comment)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| comment | String | Komentar. |
+| komentar | String | Komentar. |
 
-### Lihat juga
+### Lihat Juga
 
 * class [XmpDynamicMediaPackage](../)
-* ruang nama [Aspose.PSD.Xmp.Schemas.XmpDm](../../xmpdynamicmediapackage/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpDm](../../../aspose.psd.xmp.schemas.xmpdm/)
+* assembly [Aspose.PSD](../../../)
 
 

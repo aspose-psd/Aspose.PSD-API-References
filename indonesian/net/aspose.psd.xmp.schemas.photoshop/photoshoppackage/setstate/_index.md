@@ -1,11 +1,12 @@
 ---
-title: PhotoshopPackage.SetState
-second_title: Aspose.PSD untuk Referensi .NET API
-description: PhotoshopPackage metode. Mengatur status.
+title: "PhotoshopPackage.SetState"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode PhotoshopPackage. Mengatur status"
 type: docs
 weight: 170
 url: /id/net/aspose.psd.xmp.schemas.photoshop/photoshoppackage/setstate/
 ---
+{{< psd/tize >}}
 ## PhotoshopPackage.SetState method
 
 Mengatur status.
@@ -14,14 +15,14 @@ Mengatur status.
 public void SetState(string state)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| state | String | Negara. |
+| state | String | Status. |
 
-### Lihat juga
+### Lihat Juga
 
 * class [PhotoshopPackage](../)
-* ruang nama [Aspose.PSD.Xmp.Schemas.Photoshop](../../photoshoppackage/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.Photoshop](../../../aspose.psd.xmp.schemas.photoshop/)
+* assembly [Aspose.PSD](../../../)
 
 

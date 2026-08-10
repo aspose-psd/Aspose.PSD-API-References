@@ -1,48 +1,49 @@
 ---
-title: JpegException.JpegException
-second_title: Aspose.PSD untuk Referensi .NET API
-description: JpegException konstruktor. Menginisialisasi instance baru dariJpegException kelas.
+title: "JpegException.JpegException"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Konstruktor JpegException. Menginisialisasi sebuah instance baru dari kelas JpegException."
 type: docs
 weight: 10
 url: /id/net/aspose.psd.coreexceptions.imageformats/jpegexception/jpegexception/
 ---
+{{< psd/tize >}}
 ## JpegException(string) {#constructor}
 
-Menginisialisasi instance baru dari[`JpegException`](../) kelas.
+Menginisialisasi sebuah instance baru dari kelas [`JpegException`](../).
 
 ```csharp
 public JpegException(string message)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
 | message | String | Pesan pengecualian. |
 
-### Lihat juga
+### Lihat Juga
 
 * class [JpegException](../)
-* ruang nama [Aspose.PSD.CoreExceptions.ImageFormats](../../jpegexception/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.CoreExceptions.ImageFormats](../../../aspose.psd.coreexceptions.imageformats/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## JpegException(string, Exception) {#constructor_1}
 
-Menginisialisasi instance baru dari[`JpegException`](../) kelas.
+Menginisialisasi sebuah instance baru dari kelas [`JpegException`](../).
 
 ```csharp
 public JpegException(string message, Exception innerException)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
 | message | String | Pesan. |
-| innerException | Exception | Pengecualian batin. |
+| innerException | Exception | Pengecualian dalam. |
 
-### Lihat juga
+### Lihat Juga
 
 * class [JpegException](../)
-* ruang nama [Aspose.PSD.CoreExceptions.ImageFormats](../../jpegexception/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.CoreExceptions.ImageFormats](../../../aspose.psd.coreexceptions.imageformats/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: GraphicsOptions.GraphicsOptions
-second_title: Aspose.PSD untuk Referensi .NET API
-description: GraphicsOptions konstruktor. Konstruktor default.
+title: "GraphicsOptions.GraphicsOptions"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Konstruktor GraphicsOptions. Konstruktor default"
 type: docs
 weight: 10
 url: /id/net/aspose.psd.imageoptions/graphicsoptions/graphicsoptions/
 ---
+{{< psd/tize >}}
 ## GraphicsOptions constructor
 
 Konstruktor default.
@@ -14,10 +15,10 @@ Konstruktor default.
 public GraphicsOptions()
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [GraphicsOptions](../)
-* ruang nama [Aspose.PSD.ImageOptions](../../graphicsoptions/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

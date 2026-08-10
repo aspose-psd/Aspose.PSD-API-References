@@ -1,11 +1,12 @@
 ---
-title: XmpResource.XmpResource
-second_title: Aspose.PSD untuk Referensi .NET API
-description: XmpResource konstruktor. Konstruktor default.
+title: "XmpResource.XmpResource"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Konstruktor XmpResource. Konstruktor default"
 type: docs
 weight: 10
 url: /id/net/aspose.psd.fileformats.psd.resources/xmpresource/xmpresource/
 ---
+{{< psd/tize >}}
 ## XmpResource constructor
 
 Konstruktor default.
@@ -14,10 +15,10 @@ Konstruktor default.
 public XmpResource()
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [XmpResource](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Resources](../../xmpresource/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

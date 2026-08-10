@@ -1,11 +1,12 @@
 ---
-title: XmpPackage.XmlNamespace
-second_title: Aspose.PSD untuk Referensi .NET API
-description: XmpPackage Properti. Mendapatkan ruang nama XML.
+title: "XmpPackage.XmlNamespace"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti XmpPackage. Mengambil namespace XML"
 type: docs
 weight: 50
 url: /id/net/aspose.psd.xmp/xmppackage/xmlnamespace/
 ---
+{{< psd/tize >}}
 ## XmpPackage.XmlNamespace property
 
 Mendapatkan ruang nama XML.
@@ -14,14 +15,14 @@ Mendapatkan ruang nama XML.
 public string XmlNamespace { get; }
 ```
 
-### Nilai properti
+### Property Value
 
-Ruang nama XML.
+Namespace XML.
 
-### Lihat juga
+### Lihat Juga
 
 * class [XmpPackage](../)
-* ruang nama [Aspose.PSD.Xmp](../../xmppackage/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

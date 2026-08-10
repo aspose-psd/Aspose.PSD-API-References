@@ -1,27 +1,28 @@
 ---
-title: BlendRange.Source
-second_title: Aspose.PSD untuk Referensi .NET API
-description: BlendRange Properti. Mendapat atau menyetel rentang campuran sumber.
+title: "BlendRange.Source"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti BlendRange. Mendapatkan atau mengatur rentang pencampuran sumber"
 type: docs
 weight: 30
 url: /id/net/aspose.psd.fileformats.psd.layers/blendrange/source/
 ---
+{{< psd/tize >}}
 ## BlendRange.Source property
 
-Mendapat atau menyetel rentang campuran sumber.
+Mendapatkan atau mengatur rentang pencampuran sumber.
 
 ```csharp
 public int Source { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
-Rentang campuran sumber.
+Rentang pencampuran sumber.
 
-### Lihat juga
+### Lihat Juga
 
 * class [BlendRange](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers](../../blendrange/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

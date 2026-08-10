@@ -1,14 +1,15 @@
 ---
-title: Class ColorMapExtensions
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Aspose.PSD.Extensions.ColorMapExtensions kelas. ItuColorMap metode ekstensi.
+title: "Kelas ColorMapExtensions"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Kelas Aspose.PSD.Extensions.ColorMapExtensions. Metode ekstensi ColorMap."
 type: docs
-weight: 1060
+weight: 1070
 url: /id/net/aspose.psd.extensions/colormapextensions/
 ---
+{{< psd/tize >}}
 ## ColorMapExtensions class
 
-Itu[`ColorMap`](../../aspose.psd/colormap/) metode ekstensi.
+Metode ekstensi [`ColorMap`](../../aspose.psd/colormap/).
 
 ```csharp
 public static class ColorMapExtensions
@@ -16,14 +17,14 @@ public static class ColorMapExtensions
 
 ## Metode
 
-| Nama | Keterangan |
+| Nama | Deskripsi |
 | --- | --- |
-| static [ToGdiColorMap](../../aspose.psd.extensions/colormapextensions/togdicolormap/)(ColorMap) | Mengubah[`ColorMap`](../../aspose.psd/colormap/) keColorMap . |
-| static [ToGdiColorMaps](../../aspose.psd.extensions/colormapextensions/togdicolormaps/)(ColorMap[]) | Mengubah[`ColorMap`](../../aspose.psd/colormap/) larik keColorMap larik. |
+| static [ToGdiColorMap](../../aspose.psd.extensions/colormapextensions/togdicolormap/)(ColorMap) | Mengonversi [`ColorMap`](../../aspose.psd/colormap/) menjadi ColorMap. |
+| static [ToGdiColorMaps](../../aspose.psd.extensions/colormapextensions/togdicolormaps/)(ColorMap[]) | Mengonversi array [`ColorMap`](../../aspose.psd/colormap/) menjadi array ColorMap. |
 
-### Lihat juga
+### Lihat Juga
 
-* ruang nama [Aspose.PSD.Extensions](../../aspose.psd.extensions/)
-* perakitan [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Extensions](../../aspose.psd.extensions/)
+* assembly [Aspose.PSD](../../)
 
 

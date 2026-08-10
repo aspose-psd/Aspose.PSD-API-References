@@ -1,34 +1,35 @@
 ---
-title: CmykColorHelper.FromComponents
-second_title: Aspose.PSD untuk Referensi .NET API
-description: CmykColorHelper metode. Membuat CMYK dari nilai 32bit cyan magenta kuning dan hitam.
+title: "CmykColorHelper.FromComponents"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode CmykColorHelper. Membuat CMYK dari nilai cyan, magenta, kuning, dan hitam 32-bit"
 type: docs
 weight: 10
 url: /id/net/aspose.psd/cmykcolorhelper/fromcomponents/
 ---
+{{< psd/tize >}}
 ## CmykColorHelper.FromComponents method
 
-Membuat CMYK dari nilai 32-bit cyan, magenta, kuning dan hitam.
+Membuat CMYK dari nilai cyan, magenta, kuning, dan hitam 32‑bit.
 
 ```csharp
 public static int FromComponents(int cyan, int magenta, int yellow, int black)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| cyan | Int32 | Komponen cyan. Nilai yang valid adalah 0 hingga 255. |
-| magenta | Int32 | Komponen Magenta. Nilai yang valid adalah 0 hingga 255. |
-| yellow | Int32 | Komponen kuning. Nilai yang valid adalah 0 hingga 255. |
-| black | Int32 | Komponen hitam. Nilai yang valid adalah 0 hingga 255. |
+| sian | Int32 | Komponen cyan. Nilai yang valid antara 0 hingga 255. |
+| magenta | Int32 | Komponen magenta. Nilai yang valid antara 0 hingga 255. |
+| kuning | Int32 | Komponen kuning. Nilai yang valid antara 0 hingga 255. |
+| hitam | Int32 | Komponen hitam. Nilai yang valid antara 0 hingga 255. |
 
-### Nilai Pengembalian
+### Nilai Kembalian
 
-Warna CMYK disajikan sebagai nilai integer 32-bit.
+Warna CMYK yang disajikan sebagai nilai integer 32-bit.
 
-### Lihat juga
+### Lihat Juga
 
 * class [CmykColorHelper](../)
-* ruang nama [Aspose.PSD](../../cmykcolorhelper/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

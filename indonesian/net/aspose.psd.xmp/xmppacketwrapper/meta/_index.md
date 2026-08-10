@@ -1,28 +1,29 @@
 ---
-title: XmpPacketWrapper.Meta
-second_title: Aspose.PSD untuk Referensi .NET API
-description: XmpPacketWrapper Properti. Mendapat meta XMP. Opsional.
+title: "XmpPacketWrapper.Meta"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti XmpPacketWrapper. Mendapatkan meta XMP. Opsional"
 type: docs
 weight: 30
 url: /id/net/aspose.psd.xmp/xmppacketwrapper/meta/
 ---
+{{< psd/tize >}}
 ## XmpPacketWrapper.Meta property
 
-Mendapat meta XMP. Opsional.
+Mendapatkan meta XMP. Opsional.
 
 ```csharp
 public XmpMeta Meta { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
 Meta XMP. Opsional.
 
-### Lihat juga
+### Lihat Juga
 
 * class [XmpMeta](../../xmpmeta/)
 * class [XmpPacketWrapper](../)
-* ruang nama [Aspose.PSD.Xmp](../../xmppacketwrapper/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: LoadOptions.LoadOptions
-second_title: Aspose.PSD untuk Referensi .NET API
-description: LoadOptions konstruktor. Konstruktor default.
+title: "LoadOptions.LoadOptions"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Konstruktor LoadOptions. Konstruktor default"
 type: docs
 weight: 10
 url: /id/net/aspose.psd/loadoptions/loadoptions/
 ---
+{{< psd/tize >}}
 ## LoadOptions constructor
 
 Konstruktor default.
@@ -14,10 +15,10 @@ Konstruktor default.
 public LoadOptions()
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [LoadOptions](../)
-* ruang nama [Aspose.PSD](../../loadoptions/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

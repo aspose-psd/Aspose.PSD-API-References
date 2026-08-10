@@ -1,11 +1,12 @@
 ---
-title: PdfPackage.PdfPackage
-second_title: Aspose.PSD untuk Referensi .NET API
-description: PdfPackage konstruktor. Konstruktor default.
+title: "PdfPackage.PdfPackage"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Konstruktor PdfPackage. Konstruktor default"
 type: docs
 weight: 10
 url: /id/net/aspose.psd.xmp.schemas.pdf/pdfpackage/pdfpackage/
 ---
+{{< psd/tize >}}
 ## PdfPackage constructor
 
 Konstruktor default.
@@ -14,10 +15,10 @@ Konstruktor default.
 public PdfPackage()
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [PdfPackage](../)
-* ruang nama [Aspose.PSD.Xmp.Schemas.Pdf](../../pdfpackage/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.Pdf](../../../aspose.psd.xmp.schemas.pdf/)
+* assembly [Aspose.PSD](../../../)
 
 

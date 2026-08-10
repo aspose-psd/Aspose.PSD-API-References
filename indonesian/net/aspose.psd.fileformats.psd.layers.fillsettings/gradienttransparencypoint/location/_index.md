@@ -1,27 +1,28 @@
 ---
-title: GradientTransparencyPoint.Location
-second_title: Aspose.PSD untuk Referensi .NET API
-description: GradientTransparencyPoint Properti. Mendapat atau mengatur lokasi.
+title: "GradientTransparencyPoint.Location"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "GradientTransparencyPoint property. Mendapatkan atau mengatur lokasi"
 type: docs
 weight: 20
 url: /id/net/aspose.psd.fileformats.psd.layers.fillsettings/gradienttransparencypoint/location/
 ---
+{{< psd/tize >}}
 ## GradientTransparencyPoint.Location property
 
-Mendapat atau mengatur lokasi.
+Mendapatkan atau mengatur lokasi.
 
 ```csharp
 public int Location { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
 Lokasi.
 
-### Lihat juga
+### Lihat Juga
 
 * class [GradientTransparencyPoint](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../gradienttransparencypoint/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../../)
 
 

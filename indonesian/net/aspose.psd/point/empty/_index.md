@@ -1,23 +1,24 @@
 ---
-title: Point.Empty
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Point Properti. Mendapat instance baru dariPoint struktur yang dimilikiX DanY nilai disetel ke nol.
+title: "Point.Empty"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti Point. Mendapatkan instance baru dari struktur Point yang memiliki nilai X dan Y diatur ke nol."
 type: docs
 weight: 20
 url: /id/net/aspose.psd/point/empty/
 ---
+{{< psd/tize >}}
 ## Point.Empty property
 
-Mendapat instance baru dari[`Point`](../) struktur yang dimiliki[`X`](../x/) Dan[`Y`](../y/) nilai disetel ke nol.
+Mendapatkan instance baru dari struktur [`Point`](../) yang memiliki nilai [`X`](../x/) dan [`Y`](../y/) diatur ke nol.
 
 ```csharp
 public static Point Empty { get; }
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * struct [Point](../)
-* ruang nama [Aspose.PSD](../../point/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

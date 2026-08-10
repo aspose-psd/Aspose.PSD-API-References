@@ -1,27 +1,28 @@
 ---
-title: AiRasterImageSection.Pixels
-second_title: Aspose.PSD untuk Referensi .NET API
-description: AiRasterImageSection Properti. Mendapatkan larik piksel warna int.
+title: "AiRasterImageSection.Pixels"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti AiRasterImageSection. Mendapatkan array piksel warna int"
 type: docs
 weight: 80
 url: /id/net/aspose.psd.fileformats.ai/airasterimagesection/pixels/
 ---
+{{< psd/tize >}}
 ## AiRasterImageSection.Pixels property
 
-Mendapatkan larik piksel warna int.
+Mendapatkan array piksel warna int.
 
 ```csharp
 public int[] Pixels { get; }
 ```
 
-### Nilai properti
+### Property Value
 
 Array piksel warna int.
 
-### Lihat juga
+### Lihat Juga
 
 * class [AiRasterImageSection](../)
-* ruang nama [Aspose.PSD.FileFormats.Ai](../../airasterimagesection/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

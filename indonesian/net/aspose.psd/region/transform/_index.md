@@ -1,34 +1,35 @@
 ---
-title: Region.Transform
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Region metode. Mengubah iniRegion oleh yang ditentukanMatrix .
+title: "Region.Transform"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode Region. Mengubah Region ini dengan Matrix yang ditentukan."
 type: docs
-weight: 120
+weight: 130
 url: /id/net/aspose.psd/region/transform/
 ---
+{{< psd/tize >}}
 ## Region.Transform method
 
-Mengubah ini[`Region`](../) oleh yang ditentukan[`Matrix`](../../matrix/) .
+Mengubah [`Region`](../) ini dengan [`Matrix`](../../matrix/) yang ditentukan.
 
 ```csharp
 public void Transform(Matrix matrix)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| matrix | Matrix | Itu[`Matrix`](../../matrix/) yang digunakan untuk mengubah ini[`Region`](../). |
+| matrix | Matrix | [`Matrix`](../../matrix/) yang digunakan untuk mengubah [`Region`](../) ini. |
 
 ### Pengecualian
 
 | pengecualian | kondisi |
 | --- | --- |
-| ArgumentNullException | *matrix* adalah nol. |
+| ArgumentNullException | *matrix* bernilai null. |
 
-### Lihat juga
+### Lihat Juga
 
 * class [Matrix](../../matrix/)
 * class [Region](../)
-* ruang nama [Aspose.PSD](../../region/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

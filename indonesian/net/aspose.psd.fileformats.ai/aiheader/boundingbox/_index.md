@@ -1,28 +1,29 @@
 ---
-title: AiHeader.BoundingBox
-second_title: Aspose.PSD untuk Referensi .NET API
-description: AiHeader Properti. Mendapat atau menyetel kotak pembatas.
+title: "AiHeader.BoundingBox"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti AiHeader. Mendapatkan atau mengatur kotak pembatas"
 type: docs
 weight: 10
 url: /id/net/aspose.psd.fileformats.ai/aiheader/boundingbox/
 ---
+{{< psd/tize >}}
 ## AiHeader.BoundingBox property
 
-Mendapat atau menyetel kotak pembatas.
+Mendapatkan atau mengatur kotak pembatas.
 
 ```csharp
 public Rectangle BoundingBox { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
 Kotak pembatas.
 
-### Lihat juga
+### Lihat Juga
 
 * struct [Rectangle](../../../aspose.psd/rectangle/)
 * class [AiHeader](../)
-* ruang nama [Aspose.PSD.FileFormats.Ai](../../aiheader/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

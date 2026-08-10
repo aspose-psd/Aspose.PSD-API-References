@@ -1,29 +1,30 @@
 ---
-title: LyidResource.Save
-second_title: Aspose.PSD untuk Referensi .NET API
-description: LyidResource metode. Menyimpan ke wadah aliran yang ditentukan.
+title: "LyidResource.Save"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "LyidResource method. Menyimpan ke kontainer aliran yang ditentukan"
 type: docs
-weight: 70
+weight: 40
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources/lyidresource/save/
 ---
+{{< psd/tize >}}
 ## LyidResource.Save method
 
-Menyimpan ke wadah aliran yang ditentukan.
+Menyimpan ke kontainer aliran yang ditentukan.
 
 ```csharp
 public override void Save(StreamContainer streamContainer, int psdVersion)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| streamContainer | StreamContainer | Wadah aliran. |
+| streamContainer | StreamContainer | Kontainer aliran. |
 | psdVersion | Int32 | Versi PSD. |
 
-### Lihat juga
+### Lihat Juga
 
 * class [StreamContainer](../../../aspose.psd/streamcontainer/)
 * class [LyidResource](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../lyidresource/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

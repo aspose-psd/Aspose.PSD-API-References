@@ -1,14 +1,15 @@
 ---
-title: Class PattResource
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.PattResource kelas. Kelas PattResource. Sumber daya dengan pola data
+title: "Kelas PattResource"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Kelas Aspose.PSD.FileFormats.Psd.Layers.LayerResources.PattResource. Kelas PattResource. Sumber daya dengan data pola"
 type: docs
-weight: 2870
+weight: 3220
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources/pattresource/
 ---
+{{< psd/tize >}}
 ## PattResource class
 
-Kelas PattResource. Sumber daya dengan pola data
+Kelas PattResource. Sumber daya dengan data pola
 
 ```csharp
 public class PattResource : LayerResource
@@ -16,40 +17,40 @@ public class PattResource : LayerResource
 
 ## Konstruktor
 
-| Nama | Keterangan |
+| Nama | Deskripsi |
 | --- | --- |
-| [PattResource](pattresource/#constructor)() | Menginisialisasi instance baru dari`PattResource` kelas. |
-| [PattResource](pattresource/#constructor_1)(int, PattResourceData[]) | Menginisialisasi instance baru dari`PattResource` kelas. |
+| [PattResource](pattresource/#constructor)() | Menginisialisasi instance baru dari kelas `PattResource`. |
+| [PattResource](pattresource/#constructor_1)(int, PattResourceData[]) | Menginisialisasi instance baru dari kelas `PattResource`. |
 
 ## Properti
 
-| Nama | Keterangan |
+| Nama | Deskripsi |
 | --- | --- |
-| override [Key](../../aspose.psd.fileformats.psd.layers.layerresources/pattresource/key/) { get; } | Mendapat kunci sumber daya lapisan. |
+| [Key](../../aspose.psd.fileformats.psd.layers/layerresource/key/) { get; } | Mendapatkan kunci sumber daya lapisan. |
 | override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/pattresource/length/) { get; } | Mendapatkan panjang sumber daya lapisan dalam byte. |
-| [Patterns](../../aspose.psd.fileformats.psd.layers.layerresources/pattresource/patterns/) { get; set; } | Mendapat atau mengatur pola data; |
-| override [PsdVersion](../../aspose.psd.fileformats.psd.layers.layerresources/pattresource/psdversion/) { get; } | Mendapatkan versi psd. |
-| override [Signature](../../aspose.psd.fileformats.psd.layers.layerresources/pattresource/signature/) { get; } | Mendapat tanda tangan sumber daya lapisan. |
+| [Patterns](../../aspose.psd.fileformats.psd.layers.layerresources/pattresource/patterns/) { get; set; } | Mendapatkan atau mengatur data pola; |
+| virtual [PsdVersion](../../aspose.psd.fileformats.psd.layers/layerresource/psdversion/) { get; } | Mendapatkan versi psd minimal yang diperlukan untuk sumber daya lapisan. 0 menunjukkan tidak ada batasan. |
+| virtual [Signature](../../aspose.psd.fileformats.psd.layers/layerresource/signature/) { get; } | Mendapatkan tanda tangan. |
 
 ## Metode
 
-| Nama | Keterangan |
+| Nama | Deskripsi |
 | --- | --- |
 | override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/pattresource/save/)(StreamContainer, int) | Menyimpan data blok sumber daya. |
-| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring/)() | Mengembalikan aString yang mewakili instance ini. |
+| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring/)() | Mengembalikan String yang mewakili instance ini. |
 
 ## Bidang
 
-| Nama | Keterangan |
+| Nama | Deskripsi |
 | --- | --- |
 | const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/pattresource/typetoolkey/) | Kunci info alat tipe 'Patt' untuk 8-bit. |
-| const [TypeToolKey2](../../aspose.psd.fileformats.psd.layers.layerresources/pattresource/typetoolkey2/) | Kunci info alat jenis 'Pat2' untuk 16-bit. |
+| const [TypeToolKey2](../../aspose.psd.fileformats.psd.layers.layerresources/pattresource/typetoolkey2/) | Kunci info alat tipe 'Pat2' untuk 16-bit. |
 | const [TypeToolKey3](../../aspose.psd.fileformats.psd.layers.layerresources/pattresource/typetoolkey3/) | Kunci info alat tipe 'Pat3' untuk 32-bit. |
 
-### Lihat juga
+### Lihat Juga
 
 * class [LayerResource](../../aspose.psd.fileformats.psd.layers/layerresource/)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
-* perakitan [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../)
 
 

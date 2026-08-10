@@ -1,27 +1,28 @@
 ---
-title: LayerGroupInformationResource.Groups
-second_title: Aspose.PSD untuk Referensi .NET API
-description: LayerGroupInformationResource Properti. Mendapat atau menyetel grup.
+title: "LayerGroupInformationResource.Groups"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti LayerGroupInformationResource. Mendapatkan atau mengatur grup"
 type: docs
 weight: 30
 url: /id/net/aspose.psd.fileformats.psd.resources/layergroupinformationresource/groups/
 ---
+{{< psd/tize >}}
 ## LayerGroupInformationResource.Groups property
 
-Mendapat atau menyetel grup.
+Mendapatkan atau mengatur grup.
 
 ```csharp
 public short[] Groups { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
 Grup.
 
-### Lihat juga
+### Lihat Juga
 
 * class [LayerGroupInformationResource](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Resources](../../layergroupinformationresource/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,28 +1,29 @@
 ---
-title: TiffOptions.Orientation
-second_title: Aspose.PSD untuk Referensi .NET API
-description: TiffOptions Properti. Mendapat atau menyetel orientasi.
+title: "TiffOptions.Orientation"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti TiffOptions. Mendapatkan atau mengatur orientasi"
 type: docs
-weight: 280
+weight: 290
 url: /id/net/aspose.psd.imageoptions/tiffoptions/orientation/
 ---
+{{< psd/tize >}}
 ## TiffOptions.Orientation property
 
-Mendapat atau menyetel orientasi.
+Mendapatkan atau mengatur orientasi.
 
 ```csharp
 public TiffOrientations Orientation { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
 Orientasi.
 
-### Lihat juga
+### Lihat Juga
 
 * enum [TiffOrientations](../../../aspose.psd.fileformats.tiff.enums/tifforientations/)
 * class [TiffOptions](../)
-* ruang nama [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

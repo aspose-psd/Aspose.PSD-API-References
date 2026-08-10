@@ -1,28 +1,29 @@
 ---
-title: ImageExportersRegistry.RegisteredExporterDescriptors
-second_title: Aspose.PSD untuk Referensi .NET API
-description: ImageExportersRegistry Properti. Mendapatkan deskriptor eksportir terdaftar.
+title: "ImageExportersRegistry.RegisteredExporterDescriptors"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti ImageExportersRegistry. Mendapatkan deskriptor pengekspor yang terdaftar"
 type: docs
 weight: 10
 url: /id/net/aspose.psd/imageexportersregistry/registeredexporterdescriptors/
 ---
+{{< psd/tize >}}
 ## ImageExportersRegistry.RegisteredExporterDescriptors property
 
-Mendapatkan deskriptor eksportir terdaftar.
+Mendapatkan deskriptor pengekspor yang terdaftar.
 
 ```csharp
 public static IImageExporterDescriptor[] RegisteredExporterDescriptors { get; }
 ```
 
-### Nilai properti
+### Property Value
 
-Deskriptor eksportir terdaftar.
+Deskriptor pengekspor yang terdaftar.
 
-### Lihat juga
+### Lihat Juga
 
 * interface [IImageExporterDescriptor](../../iimageexporterdescriptor/)
 * class [ImageExportersRegistry](../)
-* ruang nama [Aspose.PSD](../../imageexportersregistry/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

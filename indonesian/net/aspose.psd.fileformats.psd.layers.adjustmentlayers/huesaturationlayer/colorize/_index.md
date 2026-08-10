@@ -1,27 +1,28 @@
 ---
-title: HueSaturationLayer.Colorize
-second_title: Aspose.PSD untuk Referensi .NET API
-description: HueSaturationLayer Properti. Mendapat atau menetapkan nilai yang menunjukkan apakah iniHueSaturationLayer adalah mewarnai.
+title: "HueSaturationLayer.Colorize"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti HueSaturationLayer. Mendapatkan atau mengatur nilai yang menunjukkan apakah HueSaturationLayer ini diwarnai"
 type: docs
 weight: 10
 url: /id/net/aspose.psd.fileformats.psd.layers.adjustmentlayers/huesaturationlayer/colorize/
 ---
+{{< psd/tize >}}
 ## HueSaturationLayer.Colorize property
 
-Mendapat atau menetapkan nilai yang menunjukkan apakah ini[`HueSaturationLayer`](../) adalah mewarnai.
+Mendapatkan atau mengatur nilai yang menunjukkan apakah [`HueSaturationLayer`](../) ini diwarnai.
 
 ```csharp
 public bool Colorize { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
-`BENAR` jika mewarnai; jika tidak,`PALSU` .
+`true` jika diwarnai; jika tidak, `false`.
 
-### Lihat juga
+### Lihat Juga
 
 * class [HueSaturationLayer](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../huesaturationlayer/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/)
+* assembly [Aspose.PSD](../../../)
 
 

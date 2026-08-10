@@ -1,28 +1,29 @@
 ---
-title: Graphics.SmoothingMode
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Graphics Properti. Mendapatkan atau menyetel mode smoothing.
+title: "Graphics.SmoothingMode"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti Graphics. Mendapatkan atau mengatur mode smoothing."
 type: docs
-weight: 110
+weight: 120
 url: /id/net/aspose.psd/graphics/smoothingmode/
 ---
+{{< psd/tize >}}
 ## Graphics.SmoothingMode property
 
-Mendapatkan atau menyetel mode smoothing.
+Mendapatkan atau mengatur mode penghalusan.
 
 ```csharp
 public SmoothingMode SmoothingMode { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
-Modus menghaluskan.
+Smoothing mode.
 
-### Lihat juga
+### Lihat Juga
 
 * enum [SmoothingMode](../../smoothingmode/)
 * class [Graphics](../)
-* ruang nama [Aspose.PSD](../../graphics/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

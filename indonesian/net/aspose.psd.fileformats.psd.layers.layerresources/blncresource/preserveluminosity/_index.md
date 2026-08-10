@@ -1,27 +1,28 @@
 ---
-title: BlncResource.PreserveLuminosity
-second_title: Aspose.PSD untuk Referensi .NET API
-description: BlncResource Properti. Mendapat atau menetapkan nilai yang menunjukkan apakah iniBlncResource mempertahankan luminositas.
+title: "BlncResource.PreserveLuminosity"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "BlncResource properti. Mendapatkan atau mengatur nilai yang menunjukkan apakah BlncResource ini mempertahankan luminositas"
 type: docs
-weight: 100
+weight: 90
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources/blncresource/preserveluminosity/
 ---
+{{< psd/tize >}}
 ## BlncResource.PreserveLuminosity property
 
-Mendapat atau menetapkan nilai yang menunjukkan apakah ini[`BlncResource`](../) mempertahankan luminositas.
+Mendapatkan atau mengatur nilai yang menunjukkan apakah [`BlncResource`](../) ini mempertahankan luminositas.
 
 ```csharp
 public bool PreserveLuminosity { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
-`BENAR` jika mempertahankan luminositas; jika tidak,`PALSU` .
+`true` jika mempertahankan luminositas; jika tidak, `false`.
 
-### Lihat juga
+### Lihat Juga
 
 * class [BlncResource](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../blncresource/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: PixelDataFormat.RgbIndexed2Bpp
-second_title: Aspose.PSD untuk Referensi .NET API
-description: PixelDataFormat Properti. MendapatkanPixelDataFormatdidefinisikan untuk 2 bit per warna yang diindeks. Penyimpanan data piksel yang diindeks dimaksudkan untuk memungkinkan penyimpanan dan pengambilan data di mana pun palet warna digunakan. Gunakan dengan hatihati karena mungkin memerlukan konversi dari satu palet ke palet lainnya atau dari RGBA ke model warna yang diindeks .
+title: "PixelDataFormat.RgbIndexed2Bpp"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "PixelDataFormat property. Mendapatkan PixelDataFormat yang didefinisikan untuk indeks 2 bit per warna. Penyimpanan data piksel terindeks dimaksudkan untuk memungkinkan penyimpanan dan pengambilan data di mana pun palet warna digunakan. Gunakan dengan hati-hati karena mungkin memerlukan konversi dari satu palet ke palet lain atau dari RGBA ke model warna terindeks"
 type: docs
 weight: 130
 url: /id/net/aspose.psd/pixeldataformat/rgbindexed2bpp/
 ---
+{{< psd/tize >}}
 ## PixelDataFormat.RgbIndexed2Bpp property
 
-Mendapatkan[`PixelDataFormat`](../)didefinisikan untuk 2 bit per warna yang diindeks. Penyimpanan data piksel yang diindeks dimaksudkan untuk memungkinkan penyimpanan dan pengambilan data di mana pun palet warna digunakan. Gunakan dengan hati-hati, karena mungkin memerlukan konversi dari satu palet ke palet lainnya atau dari RGBA ke model warna yang diindeks .
+Mendapatkan [`PixelDataFormat`](../) yang didefinisikan untuk indeks 2 bit per warna. Penyimpanan data piksel terindeks dimaksudkan untuk memungkinkan penyimpanan dan pengambilan data di mana pun palet warna digunakan. Gunakan dengan hati-hati, karena mungkin memerlukan konversi dari satu palet ke palet lain atau dari RGBA ke model warna terindeks.
 
 ```csharp
 public static PixelDataFormat RgbIndexed2Bpp { get; }
 ```
 
-### Nilai properti
+### Property Value
 
-Itu[`PixelDataFormat`](../) didefinisikan untuk diindeks 2 bit per warna.
+[`PixelDataFormat`](../) yang didefinisikan untuk indeks 2 bit per warna.
 
-### Lihat juga
+### Lihat Juga
 
 * class [PixelDataFormat](../)
-* ruang nama [Aspose.PSD](../../pixeldataformat/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

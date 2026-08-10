@@ -1,27 +1,28 @@
 ---
-title: InnerShadowEffect.Spread
-second_title: Aspose.PSD untuk Referensi .NET API
-description: InnerShadowEffect Properti. Mendapat atau menetapkan spread choke sebagai persentase.
+title: "InnerShadowEffect.Spread"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti InnerShadowEffect. Mendapatkan atau mengatur choke penyebaran sebagai persentase"
 type: docs
 weight: 100
 url: /id/net/aspose.psd.fileformats.psd.layers.layereffects/innershadoweffect/spread/
 ---
+{{< psd/tize >}}
 ## InnerShadowEffect.Spread property
 
-Mendapat atau menetapkan spread (choke) sebagai persentase.
+Mendapatkan atau mengatur penyebaran (choke) sebagai persentase.
 
 ```csharp
 public int Spread { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
 Spread.
 
-### Lihat juga
+### Lihat Juga
 
 * class [InnerShadowEffect](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../innershadoweffect/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: MedianFilterOptions.MedianFilterOptions
-second_title: Aspose.PSD untuk Referensi .NET API
-description: MedianFilterOptions konstruktor. Menginisialisasi instance baru dariMedianFilterOptions kelas.
+title: "MedianFilterOptions.MedianFilterOptions"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Konstruktor MedianFilterOptions. Menginisialisasi instance baru dari kelas MedianFilterOptions"
 type: docs
 weight: 10
 url: /id/net/aspose.psd.imagefilters.filteroptions/medianfilteroptions/medianfilteroptions/
 ---
+{{< psd/tize >}}
 ## MedianFilterOptions constructor
 
-Menginisialisasi instance baru dari[`MedianFilterOptions`](../) kelas.
+Menginisialisasi instance baru dari kelas [`MedianFilterOptions`](../).
 
 ```csharp
 public MedianFilterOptions(int size)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| size | Int32 | Ukuran persegi panjang filter. |
+| ukuran | Int32 | Ukuran persegi panjang filter. |
 
-### Lihat juga
+### Lihat Juga
 
 * class [MedianFilterOptions](../)
-* ruang nama [Aspose.PSD.ImageFilters.FilterOptions](../../medianfilteroptions/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageFilters.FilterOptions](../../../aspose.psd.imagefilters.filteroptions/)
+* assembly [Aspose.PSD](../../../)
 
 

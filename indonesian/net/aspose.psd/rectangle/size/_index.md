@@ -1,28 +1,29 @@
 ---
-title: Rectangle.Size
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Rectangle Properti. Mendapat atau menyetel ukuran iniRectangle .
+title: "Rectangle.Size"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti Rectangle. Mendapatkan atau mengatur ukuran Rectangle ini."
 type: docs
 weight: 170
 url: /id/net/aspose.psd/rectangle/size/
 ---
+{{< psd/tize >}}
 ## Rectangle.Size property
 
-Mendapat atau menyetel ukuran ini[`Rectangle`](../) .
+Mendapatkan atau mengatur ukuran [`Rectangle`](../) ini.
 
 ```csharp
 public Size Size { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
-A[`Size`](../../size/) yang mewakili lebar dan tinggi ini[`Rectangle`](../) struktur.
+Sebuah [`Size`](../../size/) yang mewakili lebar dan tinggi struktur [`Rectangle`](../).
 
-### Lihat juga
+### Lihat Juga
 
 * struct [Size](../../size/)
 * struct [Rectangle](../)
-* ruang nama [Aspose.PSD](../../rectangle/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: ResolutionInfoResource.ResolutionInfoResource
-second_title: Aspose.PSD untuk Referensi .NET API
-description: ResolutionInfoResource konstruktor. Konstruktor default.
+title: "ResolutionInfoResource.ResolutionInfoResource"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "ResolutionInfoResource konstruktor. Konstruktor default"
 type: docs
 weight: 10
 url: /id/net/aspose.psd.fileformats.psd.resources/resolutioninforesource/resolutioninforesource/
 ---
+{{< psd/tize >}}
 ## ResolutionInfoResource constructor
 
 Konstruktor default.
@@ -14,10 +15,10 @@ Konstruktor default.
 public ResolutionInfoResource()
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [ResolutionInfoResource](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Resources](../../resolutioninforesource/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

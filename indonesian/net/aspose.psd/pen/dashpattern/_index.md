@@ -1,33 +1,34 @@
 ---
-title: Pen.DashPattern
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Pen Properti. Mendapat atau menyetel larik tanda hubung dan spasi khusus.
+title: "Pen.DashPattern"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti Pen. Mendapatkan atau mengatur array dash dan spasi khusus"
 type: docs
 weight: 100
 url: /id/net/aspose.psd/pen/dashpattern/
 ---
+{{< psd/tize >}}
 ## Pen.DashPattern property
 
-Mendapat atau menyetel larik tanda hubung dan spasi khusus.
+Mendapatkan atau mengatur array garis putus-putus dan spasi khusus.
 
 ```csharp
 public float[] DashPattern { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
-Larik bilangan real yang menentukan panjang garis putus-putus dan spasi dalam garis putus-putus.
+Array bilangan real yang menentukan panjang dash dan spasi bergantian dalam garis putus-putus.
 
 ### Pengecualian
 
 | pengecualian | kondisi |
 | --- | --- |
-| ArgumentException | Itu`DashPattern` properti diatur pada yang tidak berubah[`Pen`](../) , seperti yang dikembalikan oleh[`Pen`](../) kelas. |
+| ArgumentException | Properti `DashPattern` diatur pada [`Pen`](../) yang tidak dapat diubah, seperti yang dikembalikan oleh kelas [`Pen`](../). |
 
-### Lihat juga
+### Lihat Juga
 
 * class [Pen](../)
-* ruang nama [Aspose.PSD](../../pen/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

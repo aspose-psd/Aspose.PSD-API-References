@@ -1,36 +1,37 @@
 ---
-title: Graphics.FillPath
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Graphics metode. Mengisi bagian dalam aGraphicsPath .
+title: "Graphics.FillPath"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode Graphics. Mengisi bagian dalam sebuah GraphicsPath"
 type: docs
-weight: 360
+weight: 370
 url: /id/net/aspose.psd/graphics/fillpath/
 ---
+{{< psd/tize >}}
 ## Graphics.FillPath method
 
-Mengisi bagian dalam a[`GraphicsPath`](../../graphicspath/) .
+Mengisi bagian dalam sebuah [`GraphicsPath`](../../graphicspath/).
 
 ```csharp
 public void FillPath(Brush brush, GraphicsPath path)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| brush | Brush | [`Brush`](../../brush/)yang menentukan karakteristik isian. |
-| path | GraphicsPath | [`GraphicsPath`](../../graphicspath/) yang mewakili jalur untuk diisi. |
+| brush | Brush | [`Brush`](../../brush/) yang menentukan karakteristik pengisian. |
+| path | GraphicsPath | [`GraphicsPath`](../../graphicspath/) yang mewakili jalur yang akan diisi. |
 
 ### Pengecualian
 
 | pengecualian | kondisi |
 | --- | --- |
-| ArgumentNullException | *brush* adalah null. -atau- *path* adalah nol. |
+| ArgumentNullException | *brush* bernilai null. -atau- *path* bernilai null. |
 
-### Lihat juga
+### Lihat Juga
 
 * class [Brush](../../brush/)
 * class [GraphicsPath](../../graphicspath/)
 * class [Graphics](../)
-* ruang nama [Aspose.PSD](../../graphics/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

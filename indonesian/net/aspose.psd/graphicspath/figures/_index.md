@@ -1,28 +1,29 @@
 ---
-title: GraphicsPath.Figures
-second_title: Aspose.PSD untuk Referensi .NET API
-description: GraphicsPath Properti. Mendapat angka path.
+title: "GraphicsPath.Figures"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti GraphicsPath. Mendapatkan figure jalur."
 type: docs
 weight: 30
 url: /id/net/aspose.psd/graphicspath/figures/
 ---
+{{< psd/tize >}}
 ## GraphicsPath.Figures property
 
-Mendapat angka path.
+Mengambil figur jalur.
 
 ```csharp
 public Figure[] Figures { get; }
 ```
 
-### Nilai properti
+### Property Value
 
-Angka jalan.
+Figure jalur.
 
-### Lihat juga
+### Lihat Juga
 
 * class [Figure](../../figure/)
 * class [GraphicsPath](../)
-* ruang nama [Aspose.PSD](../../graphicspath/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

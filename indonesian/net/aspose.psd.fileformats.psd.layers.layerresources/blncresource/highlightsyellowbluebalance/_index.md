@@ -1,27 +1,28 @@
 ---
-title: BlncResource.HighlightsYellowBlueBalance
-second_title: Aspose.PSD untuk Referensi .NET API
-description: BlncResource Properti. Mendapatkan atau menyetel Sorotan Kuning Biru Keseimbangan.
+title: "BlncResource.HighlightsYellowBlueBalance"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "BlncResource properti. Mendapatkan atau mengatur Highlights Yellow Blue Balance"
 type: docs
 weight: 40
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources/blncresource/highlightsyellowbluebalance/
 ---
+{{< psd/tize >}}
 ## BlncResource.HighlightsYellowBlueBalance property
 
-Mendapatkan atau menyetel Sorotan Kuning Biru Keseimbangan.
+Mendapatkan atau mengatur Highlights Yellow Blue Balance.
 
 ```csharp
 public short HighlightsYellowBlueBalance { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
-Sorotan Keseimbangan Kuning Biru.
+Highlights Yellow Blue Balance.
 
-### Lihat juga
+### Lihat Juga
 
 * class [BlncResource](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../blncresource/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

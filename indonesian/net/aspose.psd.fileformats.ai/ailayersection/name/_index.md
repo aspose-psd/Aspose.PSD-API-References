@@ -1,24 +1,25 @@
 ---
-title: AiLayerSection.Name
-second_title: Aspose.PSD untuk Referensi .NET API
-description: AiLayerSection Properti. Mendapat atau menyetel nama lapisan. Menentukan nama item seperti yang muncul di panel Lapisan.
+title: "AiLayerSection.Name"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti AiLayerSection. Mendapatkan atau mengatur nama lapisan. Menentukan nama item sebagaimana muncul di panel Layers"
 type: docs
-weight: 110
+weight: 130
 url: /id/net/aspose.psd.fileformats.ai/ailayersection/name/
 ---
+{{< psd/tize >}}
 ## AiLayerSection.Name property
 
-Mendapat atau menyetel nama lapisan. Menentukan nama item seperti yang muncul di panel Lapisan.
+Mendapatkan atau mengatur nama lapisan. Menentukan nama item sebagaimana muncul di panel Lapisan.
 
 ```csharp
 public string Name { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
 Nama lapisan.
 
-### Contoh
+## Contoh
 
 Contoh berikut menunjukkan dukungan lapisan dalam file format AI.
 
@@ -70,10 +71,10 @@ using (AiImage image = (AiImage)Image.Load(sourceFilePath))
 }
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [AiLayerSection](../)
-* ruang nama [Aspose.PSD.FileFormats.Ai](../../ailayersection/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

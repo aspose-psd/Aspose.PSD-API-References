@@ -1,31 +1,32 @@
 ---
-title: Rectangle.Equals
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Rectangle metode. Menguji apakahobj adalahRectanglestruktur dengan lokasi dan ukuran yang sama iniRectanglestruktur.
+title: "Rectangle.Equals"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode Rectangle. Menguji apakah obj adalah struktur Rectangle dengan lokasi dan ukuran yang sama dengan struktur Rectangle ini."
 type: docs
 weight: 230
 url: /id/net/aspose.psd/rectangle/equals/
 ---
+{{< psd/tize >}}
 ## Rectangle.Equals method
 
-Menguji apakah*obj* adalah[`Rectangle`](../)struktur dengan lokasi dan ukuran yang sama ini[`Rectangle`](../)struktur.
+Menguji apakah *obj* adalah struktur [`Rectangle`](../) dengan lokasi dan ukuran yang sama dengan struktur [`Rectangle`](../) ini.
 
 ```csharp
 public override bool Equals(object obj)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| obj | Object | ItuObject untuk mengetes. |
+| obj | Object | Object untuk diuji. |
 
-### Nilai Pengembalian
+### Nilai Kembalian
 
-Metode ini mengembalikan true jika*obj* adalah[`Rectangle`](../) struktur dan nya[`X`](../x/) ,[`Y`](../y/) ,[`Width`](../width/) , Dan[`Height`](../height/) properti sama dengan properti yang sesuai dari ini[`Rectangle`](../) struktur; jika tidak, salah.
+Metode ini mengembalikan true jika *obj* adalah struktur [`Rectangle`](../) dan properti [`X`](../x/), [`Y`](../y/), [`Width`](../width/), serta [`Height`](../height/)‑nya sama dengan properti yang bersesuaian pada struktur [`Rectangle`](../) ini; jika tidak, false.
 
-### Lihat juga
+### Lihat Juga
 
 * struct [Rectangle](../)
-* ruang nama [Aspose.PSD](../../rectangle/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

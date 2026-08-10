@@ -1,11 +1,12 @@
 ---
-title: PsdColorPalette.GetArgb32Color
-second_title: Aspose.PSD untuk Referensi .NET API
-description: PsdColorPalette metode. Mendapatkan warna palet ARGB 32bit berdasarkan indeks.
+title: "PsdColorPalette.GetArgb32Color"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode PsdColorPalette. Mendapatkan warna palet ARGB 32-bit berdasarkan indeks"
 type: docs
 weight: 120
 url: /id/net/aspose.psd.fileformats.psd/psdcolorpalette/getargb32color/
 ---
+{{< psd/tize >}}
 ## PsdColorPalette.GetArgb32Color method
 
 Mendapatkan warna palet ARGB 32-bit berdasarkan indeks.
@@ -14,24 +15,24 @@ Mendapatkan warna palet ARGB 32-bit berdasarkan indeks.
 public int GetArgb32Color(int index)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
 | index | Int32 | Indeks warna palet ARGB 32-bit. |
 
-### Nilai Pengembalian
+### Nilai Kembalian
 
-Entri palet warna yang ditentukan oleh*index*.
+Entri palet warna yang ditentukan oleh *indeks*.
 
 ### Pengecualian
 
 | pengecualian | kondisi |
 | --- | --- |
-| ArgumentOutOfRangeException | jika palet warna*index* ditentukan berada di luar kisaran entri palet. |
+| ArgumentOutOfRangeException | jika *indeks* palet warna yang ditentukan berada di luar rentang entri palet. |
 
-### Lihat juga
+### Lihat Juga
 
 * class [PsdColorPalette](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd](../../psdcolorpalette/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

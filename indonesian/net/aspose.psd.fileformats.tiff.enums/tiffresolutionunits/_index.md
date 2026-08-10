@@ -1,11 +1,12 @@
 ---
-title: Enum TiffResolutionUnits
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Aspose.PSD.FileFormats.Tiff.Enums.TiffResolutionUnits enum. Enum Unit Resolusi Tiff
+title: "Enum TiffResolutionUnits"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Aspose.PSD.FileFormats.Tiff.Enums.TiffResolutionUnits enum. Enum Unit Resolusi Tiff"
 type: docs
-weight: 4150
+weight: 4620
 url: /id/net/aspose.psd.fileformats.tiff.enums/tiffresolutionunits/
 ---
+{{< psd/tize >}}
 ## TiffResolutionUnits enumeration
 
 Enum Unit Resolusi Tiff
@@ -16,15 +17,15 @@ public enum TiffResolutionUnits : ushort
 
 ### Nilai
 
-| Nama | Nilai | Keterangan |
+| Nama | Nilai | Deskripsi |
 | --- | --- | --- |
-| None | `1` | Tidak ada satuan yang berarti. |
-| Inch | `2` | sistem bahasa inggris. |
+| None | `1` | Tidak ada satuan yang bermakna. |
+| Inch | `2` | Sistem Inggris. |
 | Centimeter | `3` | Sistem metrik. |
 
-### Lihat juga
+### Lihat Juga
 
-* ruang nama [Aspose.PSD.FileFormats.Tiff.Enums](../../aspose.psd.fileformats.tiff.enums/)
-* perakitan [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Tiff.Enums](../../aspose.psd.fileformats.tiff.enums/)
+* assembly [Aspose.PSD](../../)
 
 

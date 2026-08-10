@@ -1,27 +1,28 @@
 ---
-title: ExifData.ISOSpeed
-second_title: Aspose.PSD untuk Referensi .NET API
-description: ExifData Properti. Mendapatkan atau menyetel kecepatan ISO
+title: "ExifData.ISOSpeed"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti ExifData. Mendapatkan atau mengatur kecepatan ISO"
 type: docs
 weight: 700
 url: /id/net/aspose.psd.exif/exifdata/isospeed/
 ---
+{{< psd/tize >}}
 ## ExifData.ISOSpeed property
 
-Mendapatkan atau menyetel kecepatan ISO
+Mendapatkan atau mengatur kecepatan ISO
 
 ```csharp
 public uint ISOSpeed { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
 Kecepatan ISO.
 
-### Lihat juga
+### Lihat Juga
 
 * class [ExifData](../)
-* ruang nama [Aspose.PSD.Exif](../../exifdata/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

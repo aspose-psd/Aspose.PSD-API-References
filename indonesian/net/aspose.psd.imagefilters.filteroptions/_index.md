@@ -1,27 +1,28 @@
 ---
-title: Aspose.PSD.ImageFilters.FilterOptions
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Namespace menangani opsi Filter.
+title: "Aspose.PSD.ImageFilters.FilterOptions"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Namespace menangani opsi Filter"
 type: docs
-weight: 410
+weight: 450
 url: /id/net/aspose.psd.imagefilters.filteroptions/
 ---
-Namespace menangani opsi Filter.
+{{< psd/tize >}}
+Namespace ini menangani opsi Filter.
 
 ## Kelas
 
-| Kelas | Keterangan |
+| Kelas | Deskripsi |
 | --- | --- |
 | [BigRectangularFilterOptions](./bigrectangularfilteroptions/) | Opsi Filter Persegi Panjang Besar |
-| [BilateralSmoothingFilterOptions](./bilateralsmoothingfilteroptions/) | Opsi Filter Pemulusan Bilateral. |
+| [BilateralSmoothingFilterOptions](./bilateralsmoothingfilteroptions/) | Opsi Filter Penghalusan Bilateral. |
 | [ConvolutionFilterOptions](./convolutionfilteroptions/) | Filter konvolusi. |
 | [DeconvolutionFilterOptions](./deconvolutionfilteroptions/) | Opsi Filter Dekonvolusi, kelas abstrak |
 | [FilterOptionsBase](./filteroptionsbase/) | Basis Opsi Filter, kelas abstrak |
-| [GaussianBlurFilterOptions](./gaussianblurfilteroptions/) | Gaussian blur |
+| [GaussianBlurFilterOptions](./gaussianblurfilteroptions/) | Blur Gaussian |
 | [GaussWienerFilterOptions](./gausswienerfilteroptions/) | Opsi Filter Gauss Wiener Deblur gauss |
-| [MedianFilterOptions](./medianfilteroptions/) | Filter median |
-| [MotionWienerFilterOptions](./motionwienerfilteroptions/) | Opsi filter dekonvolusi gerakan deblur |
-| [SharpenFilterOptions](./sharpenfilteroptions/) | Opsi filter Pertajam |
+| [MedianFilterOptions](./medianfilteroptions/) | Filter Median |
+| [MotionWienerFilterOptions](./motionwienerfilteroptions/) | Opsi filter dekonvolusi deblur motion |
+| [SharpenFilterOptions](./sharpenfilteroptions/) | Opsi filter Penajaman |
 | [SmallRectangularFilterOptions](./smallrectangularfilteroptions/) | Opsi filter persegi panjang kecil |
 
 

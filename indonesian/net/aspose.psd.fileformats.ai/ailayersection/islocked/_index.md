@@ -1,24 +1,25 @@
 ---
-title: AiLayerSection.IsLocked
-second_title: Aspose.PSD untuk Referensi .NET API
-description: AiLayerSection Properti. Mendapat atau menetapkan nilai yang menunjukkan apakah lapisan ini dikunci. Mencegah perubahan pada item.
+title: "AiLayerSection.IsLocked"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti AiLayerSection. Mendapatkan atau mengatur nilai yang menunjukkan apakah lapisan ini terkunci. Mencegah perubahan pada item"
 type: docs
-weight: 60
+weight: 80
 url: /id/net/aspose.psd.fileformats.ai/ailayersection/islocked/
 ---
+{{< psd/tize >}}
 ## AiLayerSection.IsLocked property
 
-Mendapat atau menetapkan nilai yang menunjukkan apakah lapisan ini dikunci. Mencegah perubahan pada item.
+Mendapatkan atau mengatur nilai yang menunjukkan apakah lapisan ini terkunci. Mencegah perubahan pada item.
 
 ```csharp
 public bool IsLocked { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
-`BENAR` jika lapisan ini terkunci; jika tidak,`PALSU` .
+`true` jika lapisan ini terkunci; jika tidak, `false`.
 
-### Contoh
+## Contoh
 
 Contoh berikut menunjukkan dukungan lapisan dalam file format AI.
 
@@ -70,10 +71,10 @@ using (AiImage image = (AiImage)Image.Load(sourceFilePath))
 }
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [AiLayerSection](../)
-* ruang nama [Aspose.PSD.FileFormats.Ai](../../ailayersection/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

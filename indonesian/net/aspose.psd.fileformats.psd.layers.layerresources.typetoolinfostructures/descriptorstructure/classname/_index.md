@@ -1,27 +1,28 @@
 ---
-title: DescriptorStructure.ClassName
-second_title: Aspose.PSD untuk Referensi .NET API
-description: DescriptorStructure Properti. Mendapat atau menetapkan nama kelas.
+title: "DescriptorStructure.ClassName"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti DescriptorStructure. Mendapatkan atau mengatur nama kelas"
 type: docs
 weight: 30
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/descriptorstructure/classname/
 ---
+{{< psd/tize >}}
 ## DescriptorStructure.ClassName property
 
-Mendapat atau menetapkan nama kelas.
+Mendapatkan atau mengatur nama kelas.
 
 ```csharp
 public string ClassName { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
 Nama kelas.
 
-### Lihat juga
+### Lihat Juga
 
 * class [DescriptorStructure](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../descriptorstructure/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 

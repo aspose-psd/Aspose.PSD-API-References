@@ -1,27 +1,28 @@
 ---
-title: TextFontInfo.Synthetic
-second_title: Aspose.PSD untuk Referensi .NET API
-description: TextFontInfo Properti. Mendapat nilai yang menunjukkan apakah iniFontInformation sintetis.
+title: "TextFontInfo.Synthetic"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti TextFontInfo. Mendapatkan nilai yang menunjukkan apakah FontInformation ini bersifat sintetis"
 type: docs
 weight: 60
 url: /id/net/aspose.psd.fileformats.psd.layers.text/textfontinfo/synthetic/
 ---
+{{< psd/tize >}}
 ## TextFontInfo.Synthetic property
 
-Mendapat nilai yang menunjukkan apakah iniFontInformation sintetis.
+Mendapatkan nilai yang menunjukkan apakah FontInformation ini sintetis.
 
 ```csharp
 public bool Synthetic { get; }
 ```
 
-### Nilai properti
+### Property Value
 
-`BENAR` jika sintetis; jika tidak,`PALSU` .
+`true` jika sintetis; sebaliknya, `false`.
 
-### Lihat juga
+### Lihat Juga
 
 * class [TextFontInfo](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.Text](../../textfontinfo/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.Text](../../../aspose.psd.fileformats.psd.layers.text/)
+* assembly [Aspose.PSD](../../../)
 
 

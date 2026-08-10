@@ -1,23 +1,24 @@
 ---
-title: ShmdResource.TypeToolKey
-second_title: Aspose.PSD untuk Referensi .NET API
-description: ShmdResource bidang. Kunci info alat ketik.
+title: "ShmdResource.TypeToolKey"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "ShmdResource bidang. Kunci informasi alat tipe"
 type: docs
-weight: 100
+weight: 70
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources/shmdresource/typetoolkey/
 ---
+{{< psd/tize >}}
 ## ShmdResource.TypeToolKey field
 
-Kunci info alat ketik.
+Kunci info alat tipe.
 
 ```csharp
 public const int TypeToolKey;
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [ShmdResource](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../shmdresource/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

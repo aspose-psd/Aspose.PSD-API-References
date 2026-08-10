@@ -1,27 +1,28 @@
 ---
-title: TiffSRational.Value
-second_title: Aspose.PSD untuk Referensi .NET API
-description: TiffSRational Properti. Mendapat nilai float.
+title: "TiffSRational.Value"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti TiffSRational. Mengambil nilai float"
 type: docs
 weight: 50
 url: /id/net/aspose.psd.fileformats.tiff/tiffsrational/value/
 ---
+{{< psd/tize >}}
 ## TiffSRational.Value property
 
-Mendapat nilai float.
+Mendapatkan nilai float.
 
 ```csharp
 public float Value { get; }
 ```
 
-### Nilai properti
+### Property Value
 
 Nilai float.
 
-### Lihat juga
+### Lihat Juga
 
 * class [TiffSRational](../)
-* ruang nama [Aspose.PSD.FileFormats.Tiff](../../tiffsrational/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff](../../../aspose.psd.fileformats.tiff/)
+* assembly [Aspose.PSD](../../../)
 
 

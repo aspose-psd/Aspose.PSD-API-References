@@ -1,23 +1,24 @@
 ---
-title: UnknownSmartFilter.FilterId
-second_title: Aspose.PSD untuk Referensi .NET API
-description: UnknownSmartFilter Properti. Mendapat pengidentifikasi jenis filter pintar.
+title: "UnknownSmartFilter.FilterId"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "UnknownSmartFilter properti. Mendapatkan pengidentifikasi tipe filter pintar"
 type: docs
 weight: 10
 url: /id/net/aspose.psd.fileformats.psd.layers.smartfilters/unknownsmartfilter/filterid/
 ---
+{{< psd/tize >}}
 ## UnknownSmartFilter.FilterId property
 
-Mendapat pengidentifikasi jenis filter pintar.
+Mendapatkan pengidentifikasi tipe filter pintar.
 
 ```csharp
 public override int FilterId { get; }
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [UnknownSmartFilter](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.SmartFilters](../../unknownsmartfilter/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.SmartFilters](../../../aspose.psd.fileformats.psd.layers.smartfilters/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: CmykMixerChannel.CmykMixerChannel
-second_title: Aspose.PSD untuk Referensi .NET API
-description: CmykMixerChannel konstruktor. Menginisialisasi instance baru dariCmykMixerChannel kelas.
+title: "CmykMixerChannel.CmykMixerChannel"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Konstruktor CmykMixerChannel. Menginisialisasi sebuah instance baru dari kelas CmykMixerChannel"
 type: docs
 weight: 10
 url: /id/net/aspose.psd.fileformats.psd.layers.adjustmentlayers/cmykmixerchannel/cmykmixerchannel/
 ---
+{{< psd/tize >}}
 ## CmykMixerChannel constructor
 
-Menginisialisasi instance baru dari[`CmykMixerChannel`](../) kelas.
+Menginisialisasi sebuah instance baru dari kelas [`CmykMixerChannel`](../).
 
 ```csharp
 public CmykMixerChannel(byte[] data)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
 | data | Byte[] | Data sumber daya. |
 
-### Lihat juga
+### Lihat Juga
 
 * class [CmykMixerChannel](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../cmykmixerchannel/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/)
+* assembly [Aspose.PSD](../../../)
 
 

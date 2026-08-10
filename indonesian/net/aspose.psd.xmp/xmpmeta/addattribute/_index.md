@@ -1,11 +1,12 @@
 ---
-title: XmpMeta.AddAttribute
-second_title: Aspose.PSD untuk Referensi .NET API
-description: XmpMeta metode. Menambahkan atribut.
+title: "XmpMeta.AddAttribute"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode XmpMeta. Menambahkan atribut"
 type: docs
 weight: 30
 url: /id/net/aspose.psd.xmp/xmpmeta/addattribute/
 ---
+{{< psd/tize >}}
 ## XmpMeta.AddAttribute method
 
 Menambahkan atribut.
@@ -14,15 +15,15 @@ Menambahkan atribut.
 public override void AddAttribute(string attribute, string value)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| attribute | String | Atribut. |
-| value | String | Nilai. |
+| atribut | String | Atribut tersebut. |
+| nilai | String | Nilai. |
 
-### Lihat juga
+### Lihat Juga
 
 * class [XmpMeta](../)
-* ruang nama [Aspose.PSD.Xmp](../../xmpmeta/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

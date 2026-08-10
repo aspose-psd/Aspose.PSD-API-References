@@ -1,14 +1,15 @@
 ---
-title: Interface IPlacedLayerResource
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.IPlacedLayerResource antarmuka. Menentukan antarmuka IPlacedLayerResource yang berisi informasi tentang lapisan yang ditempatkan di file PSD. Adalah antarmuka markup yang digunakan untuk menunjuk sumber daya PlLd Terjual dan Tunggal dalam gambar Adobe Photoshop. Digunakan untuk mendukung lapisan objek pintar di gambar Adobe Photoshop.
+title: "Antarmuka IPlacedLayerResource"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Antarmuka Aspose.PSD.FileFormats.Psd.Layers.LayerResources.IPlacedLayerResource. Mendefinisikan antarmuka IPlacedLayerResource yang berisi informasi tentang lapisan yang ditempatkan dalam file PSD. Ini adalah antarmuka markup yang digunakan untuk menunjuk sumber daya PlLd Sold dan Sole dalam gambar Adobe Photoshop. Ini digunakan untuk mendukung lapisan objek pintar dalam gambar Adobe Photoshop."
 type: docs
-weight: 2530
+weight: 2820
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/
 ---
+{{< psd/tize >}}
 ## IPlacedLayerResource interface
 
-Menentukan antarmuka IPlacedLayerResource yang berisi informasi tentang lapisan yang ditempatkan di file PSD. Adalah antarmuka markup yang digunakan untuk menunjuk sumber daya PlLd, Terjual, dan Tunggal dalam gambar Adobe® Photoshop®. Digunakan untuk mendukung lapisan objek pintar di gambar Adobe® Photoshop®.
+Mendefinisikan antarmuka IPlacedLayerResource yang berisi informasi tentang lapisan yang ditempatkan dalam file PSD. Merupakan antarmuka markup yang digunakan untuk menandai sumber daya PlLd, Sold, dan Sole dalam gambar Adobe® Photoshop®. Digunakan untuk mendukung lapisan objek pintar dalam gambar Adobe® Photoshop®.
 
 ```csharp
 public interface IPlacedLayerResource
@@ -16,40 +17,40 @@ public interface IPlacedLayerResource
 
 ## Properti
 
-| Nama | Keterangan |
+| Nama | Deskripsi |
 | --- | --- |
-| [AntiAliasPolicy](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/antialiaspolicy/) { get; set; } | Mendapat atau menyetel kebijakan anti alias dari lapisan yang ditempatkan di gambar PSD. |
-| [Bottom](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/bottom/) { get; set; } | Mendapat atau menyetel lokasi bawah dari lapisan yang ditempatkan di gambar PSD. |
-| [Bounds](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/bounds/) { get; set; } | Mendapat atau menyetel batas lapisan yang ditempatkan di file PSD. |
-| [HorizontalMeshPoints](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/horizontalmeshpoints/) { get; set; } | Mendapat atau menyetel titik jaring horizontal dari lapisan yang ditempatkan di file PSD. |
-| [HorizontalMeshPointUnit](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/horizontalmeshpointunit/) { get; set; } | Mendapat atau menetapkan satuan ukuran dari titik jaring horizontal. |
-| [IsCustom](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/iscustom/) { get; set; } | Mendapat atau menetapkan nilai yang menunjukkan apakah gaya warp instance ini adalah custom. Jika true, gaya ini berisi poin mesh. Jika disetel ke false, itu akan menghapus poin mesh. |
-| [Items](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/items/) { get; set; } | Mendapat atau mengatur item warp. |
-| [Left](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/left/) { get; set; } | Mendapat atau menyetel lokasi kiri dari lapisan yang ditempatkan di file PSD. |
-| [PageNumber](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/pagenumber/) { get; set; } | Mendapat atau menyetel nomor halaman dari lapisan yang ditempatkan di file PSD. |
-| [Perspective](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/perspective/) { get; set; } | Mendapat atau menyetel nilai perspektif dari lapisan yang ditempatkan di file PSD. |
-| [PerspectiveOther](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/perspectiveother/) { get; set; } | Mendapat atau menyetel nilai perspektif lain dari lapisan yang ditempatkan di file PSD. |
-| [PlacedLayerType](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/placedlayertype/) { get; set; } | Mendapat atau menyetel jenis lapisan yang ditempatkan di file PSD. |
-| [Right](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/right/) { get; set; } | Mendapatkan atau menyetel lokasi yang tepat dari lapisan yang ditempatkan di file PSD. |
-| [Top](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/top/) { get; set; } | Mendapat atau menyetel lokasi teratas dari lapisan yang ditempatkan di gambar PSD. |
-| [TotalPages](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/totalpages/) { get; set; } | Mendapat atau menyetel total halaman dari lapisan yang ditempatkan di file PSD. |
-| [TransformMatrix](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/transformmatrix/) { get; set; } | Mendapat atau menyetel matriks transformasi dari lapisan yang ditempatkan di file PSD. |
-| [UniqueId](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/uniqueid/) { get; set; } | Mendapat atau menyetel pengidentifikasi unik global dari atau lapisan penempatan objek pintar di gambar PSD. |
-| [UOrder](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/uorder/) { get; set; } | Mendapat atau menyetel nilai urutan U dari lapisan yang ditempatkan di file PSD. |
-| [Value](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/value/) { get; set; } | Mendapat atau menyetel nilai warp dari lapisan yang ditempatkan di gambar PSD. |
-| [Version](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/version/) { get; } | Mendapatkan versi lapisan yang ditempatkan di file PSD, biasanya 3-5. |
-| [VerticalMeshPoints](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/verticalmeshpoints/) { get; set; } | Mendapat atau menyetel titik jaring horizontal dari lapisan yang ditempatkan di file PSD. |
-| [VerticalMeshPointUnit](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/verticalmeshpointunit/) { get; set; } | Mendapat atau menetapkan satuan ukuran dari titik jaring vertikal. |
-| [VOrder](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/vorder/) { get; set; } | Mendapat atau menyetel nilai urutan V dari lapisan yang ditempatkan di file PSD. |
+| [AntiAliasPolicy](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/antialiaspolicy/) { get; set; } | Mendapatkan atau mengatur kebijakan anti alias pada lapisan yang ditempatkan dalam gambar PSD. |
+| [Bottom](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/bottom/) { get; set; } | Mendapatkan atau mengatur lokasi bawah lapisan yang ditempatkan dalam gambar PSD. |
+| [Bounds](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/bounds/) { get; set; } | Mendapatkan atau mengatur batas lapisan yang ditempatkan dalam file PSD. |
+| [HorizontalMeshPoints](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/horizontalmeshpoints/) { get; set; } | Mendapatkan atau mengatur titik mesh horizontal lapisan yang ditempatkan dalam file PSD. |
+| [HorizontalMeshPointUnit](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/horizontalmeshpointunit/) { get; set; } | Mendapatkan atau mengatur satuan ukuran titik mesh horizontal. |
+| [IsCustom](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/iscustom/) { get; set; } | Mendapatkan atau mengatur nilai yang menunjukkan apakah gaya warp instance ini bersifat khusus. Jika true, berisi titik mesh. Jika diset ke false, menghapus titik mesh. |
+| [Items](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/items/) { get; set; } | Mendapatkan atau mengatur item warp. |
+| [Left](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/left/) { get; set; } | Mendapatkan atau mengatur lokasi kiri lapisan yang ditempatkan dalam file PSD. |
+| [PageNumber](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/pagenumber/) { get; set; } | Mendapatkan atau mengatur nomor halaman lapisan yang ditempatkan dalam file PSD. |
+| [Perspective](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/perspective/) { get; set; } | Mendapatkan atau mengatur nilai perspektif lapisan yang ditempatkan dalam file PSD. |
+| [PerspectiveOther](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/perspectiveother/) { get; set; } | Mendapatkan atau mengatur nilai perspektif lainnya lapisan yang ditempatkan dalam file PSD. |
+| [PlacedLayerType](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/placedlayertype/) { get; set; } | Mendapatkan atau mengatur tipe lapisan yang ditempatkan dalam file PSD. |
+| [Right](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/right/) { get; set; } | Mendapatkan atau mengatur lokasi kanan lapisan yang ditempatkan dalam file PSD. |
+| [Top](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/top/) { get; set; } | Mendapatkan atau mengatur lokasi atas dari lapisan yang ditempatkan dalam gambar PSD. |
+| [TotalPages](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/totalpages/) { get; set; } | Mendapatkan atau mengatur total halaman dari lapisan yang ditempatkan dalam file PSD. |
+| [TransformMatrix](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/transformmatrix/) { get; set; } | Mendapatkan atau mengatur matriks transformasi dari lapisan yang ditempatkan dalam file PSD. |
+| [UniqueId](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/uniqueid/) { get; set; } | Mendapatkan atau mengatur pengidentifikasi unik global dari lapisan yang ditempatkan atau objek pintar dalam gambar PSD. |
+| [UOrder](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/uorder/) { get; set; } | Mendapatkan atau mengatur nilai urutan U dari lapisan yang ditempatkan dalam file PSD. |
+| [Value](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/value/) { get; set; } | Mendapatkan atau mengatur nilai warp dari lapisan yang ditempatkan dalam gambar PSD. |
+| [Version](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/version/) { get; } | Mendapatkan versi lapisan yang ditempatkan dalam file PSD, biasanya 3-5. |
+| [VerticalMeshPoints](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/verticalmeshpoints/) { get; set; } | Mendapatkan atau mengatur titik mesh horizontal lapisan yang ditempatkan dalam file PSD. |
+| [VerticalMeshPointUnit](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/verticalmeshpointunit/) { get; set; } | Mendapatkan atau mengatur satuan ukuran dari titik mesh vertikal. |
+| [VOrder](../../aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/vorder/) { get; set; } | Mendapatkan atau mengatur nilai urutan V dari lapisan yang ditempatkan dalam file PSD. |
 
-### Contoh
+## Contoh
 
 Kode berikut menunjukkan dukungan sumber daya SoLdResource.
 
 ```csharp
 [C#]
 
-// Contoh ini menunjukkan cara mendapatkan atau menyetel properti data lapisan objek pintar dari file PSD.
+// Contoh ini menunjukkan cara mendapatkan atau mengatur properti data lapisan objek pintar dari file PSD.
 
 void AssertAreEqual(object actual, object expected)
 {
@@ -283,8 +284,8 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
                     resource.HorizontalMeshPoints = temp;
                 }
 
-                // Nilai ini juga harus diubah di PlLdResource (dengan UniqueId yang ditentukan).
-                // dan beberapa di antaranya harus sesuai dengan objek pintar yang digarisbawahi di LinkDataSource
+                // Nilai ini juga harus diubah dalam PlLdResource (dengan UniqueId yang ditentukan).
+                // dan beberapa di antaranya harus sesuai dengan objek pintar yang mendasari dalam LinkDataSource.
                 resource.PageNumber = 2;
                 resource.TotalPages = 3;
                 resource.AntiAliasPolicy = 0;
@@ -329,18 +330,18 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
                     42
                 };
 
-                // Id unik ini harus diubah dalam referensi jika ada
+                // Unique Id ini harus diubah dalam referensi jika ada.
                 resource.PlacedId = new Guid("12345678-9abc-def0-9876-54321fecba98");
 
-                // Hati-hati dengan beberapa parameter: gambar mungkin menjadi tidak terbaca oleh Adobe® Photoshop®
+                // Hati-hati dengan beberapa parameter: gambar mungkin menjadi tidak dapat dibaca oleh Adobe® Photoshop®
                 ////resource.UOrder = 6;
                 ////resource.VOrder = 9;
 
-                // Jangan ubah ini jika tidak, Anda tidak akan dapat menggunakan transformasi bebas
-                // atau ubah smart object yang digarisbawahi menjadi tipe vektor
+                // Jangan ubah ini, jika tidak Anda tidak akan dapat menggunakan transformasi bebas.
+                // atau ubah objek pintar yang mendasari menjadi tipe vektor.
                 ////resource.PlacedLayerType = PlacedLayerType.Vector;
 
-                // Harus ada PlLdResource yang valid dengan ID unik ini
+                // Harus ada PlLdResource yang valid dengan Unique Id ini.
                 ////resource.UniqueId = new Guid("98765432-10fe-cba0-1234-56789abcdef0");
 
                 break;
@@ -353,9 +354,9 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
 }
 ```
 
-### Lihat juga
+### Lihat Juga
 
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
-* perakitan [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../)
 
 

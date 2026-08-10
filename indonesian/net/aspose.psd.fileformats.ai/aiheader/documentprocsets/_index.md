@@ -1,27 +1,28 @@
 ---
-title: AiHeader.DocumentProcSets
-second_title: Aspose.PSD untuk Referensi .NET API
-description: AiHeader Properti. Mendapat atau mengatur set proc dokumen.
+title: "AiHeader.DocumentProcSets"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti AiHeader. Mendapatkan atau mengatur set proses dokumen"
 type: docs
 weight: 70
 url: /id/net/aspose.psd.fileformats.ai/aiheader/documentprocsets/
 ---
+{{< psd/tize >}}
 ## AiHeader.DocumentProcSets property
 
-Mendapat atau mengatur set proc dokumen.
+Mendapatkan atau mengatur set proc dokumen.
 
 ```csharp
 public string DocumentProcSets { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
-Proses pembuatan dokumen.
+Set proses dokumen.
 
-### Lihat juga
+### Lihat Juga
 
 * class [AiHeader](../)
-* ruang nama [Aspose.PSD.FileFormats.Ai](../../aiheader/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

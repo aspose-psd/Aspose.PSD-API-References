@@ -1,23 +1,24 @@
 ---
-title: EnumeratedDescriptorStructure.StructureKey
-second_title: Aspose.PSD untuk Referensi .NET API
-description: EnumeratedDescriptorStructure bidang. Kunci deskriptor yang disebutkan.
+title: "EnumeratedDescriptorStructure.StructureKey"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Bidang EnumeratedDescriptorStructure. Kunci deskriptor terenumerasi"
 type: docs
 weight: 60
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/enumerateddescriptorstructure/structurekey/
 ---
+{{< psd/tize >}}
 ## EnumeratedDescriptorStructure.StructureKey field
 
-Kunci deskriptor yang disebutkan.
+Kunci deskriptor terenumerasi.
 
 ```csharp
 public const int StructureKey;
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [EnumeratedDescriptorStructure](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../enumerateddescriptorstructure/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 

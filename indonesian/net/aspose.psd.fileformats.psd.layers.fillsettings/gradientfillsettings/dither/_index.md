@@ -1,27 +1,28 @@
 ---
-title: GradientFillSettings.Dither
-second_title: Aspose.PSD untuk Referensi .NET API
-description: GradientFillSettings Properti. Mendapat atau menetapkan nilai yang menunjukkan apakah iniGradientFillSettings adalah gentar.
+title: "GradientFillSettings.Dither"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti GradientFillSettings. Mendapatkan atau mengatur nilai yang menunjukkan apakah GradientFillSettings ini dither"
 type: docs
-weight: 60
+weight: 40
 url: /id/net/aspose.psd.fileformats.psd.layers.fillsettings/gradientfillsettings/dither/
 ---
+{{< psd/tize >}}
 ## GradientFillSettings.Dither property
 
-Mendapat atau menetapkan nilai yang menunjukkan apakah ini[`GradientFillSettings`](../) adalah gentar.
+Mendapatkan atau mengatur nilai yang menunjukkan apakah [`GradientFillSettings`](../) ini dither.
 
 ```csharp
 public bool Dither { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
-`BENAR` jika gentar; jika tidak,`PALSU` .
+`true` jika dither; jika tidak, `false`.
 
-### Lihat juga
+### Lihat Juga
 
 * class [GradientFillSettings](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../gradientfillsettings/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../../)
 
 

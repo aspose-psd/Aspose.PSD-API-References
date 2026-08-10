@@ -1,28 +1,29 @@
 ---
-title: AiImage.FinalizeSection
-second_title: Aspose.PSD untuk Referensi .NET API
-description: AiImage Properti. Mendapat bagian finalisasi.
+title: "AiImage.FinalizeSection"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti AiImage. Mendapatkan bagian finalisasi"
 type: docs
-weight: 50
+weight: 60
 url: /id/net/aspose.psd.fileformats.ai/aiimage/finalizesection/
 ---
+{{< psd/tize >}}
 ## AiImage.FinalizeSection property
 
-Mendapat bagian finalisasi.
+Mendapatkan bagian finalisasi.
 
 ```csharp
 public AiFinalizeSection FinalizeSection { get; }
 ```
 
-### Nilai properti
+### Property Value
 
 Bagian finalisasi.
 
-### Lihat juga
+### Lihat Juga
 
 * class [AiFinalizeSection](../../aifinalizesection/)
 * class [AiImage](../)
-* ruang nama [Aspose.PSD.FileFormats.Ai](../../aiimage/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

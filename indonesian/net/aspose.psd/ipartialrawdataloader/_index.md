@@ -1,14 +1,15 @@
 ---
-title: Interface IPartialRawDataLoader
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Aspose.PSD.IPartialRawDataLoader antarmuka. Pemuat sebagian data.
+title: "Antarmuka IPartialRawDataLoader"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Antarmuka Aspose.PSD.IPartialRawDataLoader. Pemuat data parsial"
 type: docs
-weight: 4540
+weight: 5010
 url: /id/net/aspose.psd/ipartialrawdataloader/
 ---
+{{< psd/tize >}}
 ## IPartialRawDataLoader interface
 
-Pemuat sebagian data.
+Pemuat data parsial.
 
 ```csharp
 public interface IPartialRawDataLoader
@@ -16,14 +17,14 @@ public interface IPartialRawDataLoader
 
 ## Metode
 
-| Nama | Keterangan |
+| Nama | Deskripsi |
 | --- | --- |
 | [Process](../../aspose.psd/ipartialrawdataloader/process/#process)(Rectangle, byte[], Point, Point) | Memproses data yang dimuat. |
 | [Process](../../aspose.psd/ipartialrawdataloader/process/#process_1)(Rectangle, byte[], Point, Point, LoadOptions) | Memproses data yang dimuat. |
 
-### Lihat juga
+### Lihat Juga
 
-* ruang nama [Aspose.PSD](../../aspose.psd/)
-* perakitan [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

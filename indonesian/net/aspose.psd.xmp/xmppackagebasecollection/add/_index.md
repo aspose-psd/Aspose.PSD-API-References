@@ -1,28 +1,29 @@
 ---
-title: XmpPackageBaseCollection.Add
-second_title: Aspose.PSD untuk Referensi .NET API
-description: XmpPackageBaseCollection metode. Menambahkan instance baruXmpPackage .
+title: "XmpPackageBaseCollection.Add"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode XmpPackageBaseCollection. Menambahkan instance baru dari XmpPackage"
 type: docs
 weight: 30
 url: /id/net/aspose.psd.xmp/xmppackagebasecollection/add/
 ---
+{{< psd/tize >}}
 ## XmpPackageBaseCollection.Add method
 
-Menambahkan instance baru[`XmpPackage`](../../xmppackage/) .
+Menambahkan instance baru dari [`XmpPackage`](../../xmppackage/).
 
 ```csharp
 public void Add(XmpPackage package)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| package | XmpPackage | Paket XMP untuk ditambahkan. |
+| paket | XmpPackage | Paket XMP yang akan ditambahkan. |
 
-### Lihat juga
+### Lihat Juga
 
 * class [XmpPackage](../../xmppackage/)
 * class [XmpPackageBaseCollection](../)
-* ruang nama [Aspose.PSD.Xmp](../../xmppackagebasecollection/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

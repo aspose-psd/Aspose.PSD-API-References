@@ -1,27 +1,28 @@
 ---
-title: TiffOptions.StripByteCounts
-second_title: Aspose.PSD untuk Referensi .NET API
-description: TiffOptions Properti. Mendapat atau menyetel jumlah byte strip.
+title: "TiffOptions.StripByteCounts"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti TiffOptions. Mendapatkan atau mengatur jumlah byte strip"
 type: docs
-weight: 460
+weight: 470
 url: /id/net/aspose.psd.imageoptions/tiffoptions/stripbytecounts/
 ---
+{{< psd/tize >}}
 ## TiffOptions.StripByteCounts property
 
-Mendapat atau menyetel jumlah byte strip.
+Mendapatkan atau mengatur jumlah byte strip.
 
 ```csharp
 public uint[] StripByteCounts { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
 Jumlah byte strip.
 
-### Lihat juga
+### Lihat Juga
 
 * class [TiffOptions](../)
-* ruang nama [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

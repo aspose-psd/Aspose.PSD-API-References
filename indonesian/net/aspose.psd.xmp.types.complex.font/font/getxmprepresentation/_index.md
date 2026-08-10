@@ -1,27 +1,28 @@
 ---
-title: Font.GetXmpRepresentation
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Font metode. Mendapat string berisi nilai dalam format XMP.
+title: "Font.GetXmpRepresentation"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Font metode. Mendapatkan nilai string yang terkandung dalam format XMP"
 type: docs
 weight: 100
 url: /id/net/aspose.psd.xmp.types.complex.font/font/getxmprepresentation/
 ---
+{{< psd/tize >}}
 ## Font.GetXmpRepresentation method
 
-Mendapat string berisi nilai dalam format XMP.
+Mendapatkan nilai string yang terkandung dalam format XMP.
 
 ```csharp
 public override string GetXmpRepresentation()
 ```
 
-### Nilai Pengembalian
+### Nilai Kembalian
 
-Mengembalikan string berisi nilai dalam format XMP.
+Mengembalikan nilai string yang terkandung dalam format XMP.
 
-### Lihat juga
+### Lihat Juga
 
 * class [Font](../)
-* ruang nama [Aspose.PSD.Xmp.Types.Complex.Font](../../font/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.Font](../../../aspose.psd.xmp.types.complex.font/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: GridAndGuidesResouce.GuideCount
-second_title: Aspose.PSD untuk Referensi .NET API
-description: GridAndGuidesResouce Properti. Mendapatkan jumlah blok sumber daya panduan.
+title: "GridAndGuidesResouce.GuideCount"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti GridAndGuidesResouce. Mendapatkan jumlah blok sumber daya panduan"
 type: docs
 weight: 50
 url: /id/net/aspose.psd.fileformats.psd.resources/gridandguidesresouce/guidecount/
 ---
+{{< psd/tize >}}
 ## GridAndGuidesResouce.GuideCount property
 
 Mendapatkan jumlah blok sumber daya panduan.
@@ -14,14 +15,14 @@ Mendapatkan jumlah blok sumber daya panduan.
 public int GuideCount { get; }
 ```
 
-### Nilai properti
+### Property Value
 
 Jumlah blok sumber daya panduan.
 
-### Lihat juga
+### Lihat Juga
 
 * class [GridAndGuidesResouce](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Resources](../../gridandguidesresouce/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: Delegate AsyncTaskAction
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Delegasi operasi panjang untuk tugas asinkron tanpa hasil apa pun.
+title: "Delegasi AsyncTaskAction"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Delegasi operasi panjang untuk tugas asinkron tanpa hasil apa pun"
 type: docs
 weight: 30
 url: /id/net/aspose.psd.asynctask/asynctaskaction/
 ---
+{{< psd/tize >}}
 ## AsyncTaskAction delegate
 
 Delegasi operasi panjang untuk tugas asinkron tanpa hasil apa pun.
@@ -14,14 +15,14 @@ Delegasi operasi panjang untuk tugas asinkron tanpa hasil apa pun.
 public delegate void AsyncTaskAction(IAsyncTaskState taskState);
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| taskState | IAsyncTaskState | Status tugas asinkron. |
+| taskState | IAsyncTaskState | Keadaan tugas asinkron. |
 
-### Lihat juga
+### Lihat Juga
 
 * interface [IAsyncTaskState](../iasynctaskstate/)
-* ruang nama [Aspose.PSD.AsyncTask](../../aspose.psd.asynctask/)
-* perakitan [Aspose.PSD](../../)
+* namespace [Aspose.PSD.AsyncTask](../../aspose.psd.asynctask/)
+* assembly [Aspose.PSD](../../)
 
 

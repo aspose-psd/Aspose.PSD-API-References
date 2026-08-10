@@ -1,31 +1,32 @@
 ---
-title: CmykColor.Equals
-second_title: Aspose.PSD untuk Referensi .NET API
-description: CmykColor metode. Menentukan apakah yang ditentukanObject  sama dengan instance ini.
+title: "CmykColor.Equals"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode CmykColor. Menentukan apakah Object yang ditentukan sama dengan instance ini"
 type: docs
-weight: 70
+weight: 80
 url: /id/net/aspose.psd/cmykcolor/equals/
 ---
+{{< psd/tize >}}
 ## CmykColor.Equals method
 
-Menentukan apakah yang ditentukanObject , sama dengan instance ini.
+Menentukan apakah Object yang ditentukan, sama dengan instance ini.
 
 ```csharp
 public override bool Equals(object obj)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| obj | Object | ItuObject untuk membandingkan dengan contoh ini. |
+| obj | Object | Object untuk dibandingkan dengan instance ini. |
 
-### Nilai Pengembalian
+### Nilai Kembalian
 
-`BENAR` jika ditentukanObject sama dengan contoh ini; jika tidak,`PALSU` .
+`true` jika Object yang ditentukan sama dengan instance ini; jika tidak, `false`.
 
-### Lihat juga
+### Lihat Juga
 
 * struct [CmykColor](../)
-* ruang nama [Aspose.PSD](../../cmykcolor/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

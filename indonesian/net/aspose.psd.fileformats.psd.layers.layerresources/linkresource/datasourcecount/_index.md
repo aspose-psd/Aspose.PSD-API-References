@@ -1,27 +1,28 @@
 ---
-title: LinkResource.DataSourceCount
-second_title: Aspose.PSD untuk Referensi .NET API
-description: LinkResource Properti. Mendapat jumlah sumber data tautan yang dapat diakses oleh pengindeks.
+title: "LinkResource.DataSourceCount"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti LinkResource. Mendapatkan jumlah sumber data tautan yang dapat diakses melalui pengindeks"
 type: docs
 weight: 10
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources/linkresource/datasourcecount/
 ---
+{{< psd/tize >}}
 ## LinkResource.DataSourceCount property
 
-Mendapat jumlah sumber data tautan yang dapat diakses oleh pengindeks.
+Mendapatkan jumlah sumber data tautan yang dapat diakses melalui indeks.
 
 ```csharp
 public int DataSourceCount { get; }
 ```
 
-### Nilai properti
+### Property Value
 
 Jumlah sumber data.
 
-### Lihat juga
+### Lihat Juga
 
 * class [LinkResource](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../linkresource/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

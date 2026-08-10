@@ -1,28 +1,29 @@
 ---
-title: ResolutionInfoResource.HResDisplayUnit
-second_title: Aspose.PSD untuk Referensi .NET API
-description: ResolutionInfoResource Properti. Menampilkan unit untuk resolusi horizontal. Ini hanya memengaruhi antarmuka pengguna  resolusi masih tersimpan di file PSD sebagai pixels/inch.
+title: "ResolutionInfoResource.HResDisplayUnit"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "ResolutionInfoResource properti. Unit tampilan untuk resolusi horizontal. Ini hanya memengaruhi antarmuka pengguna; resolusi tetap disimpan dalam file PSD sebagai piksel/inci"
 type: docs
 weight: 50
 url: /id/net/aspose.psd.fileformats.psd.resources/resolutioninforesource/hresdisplayunit/
 ---
+{{< psd/tize >}}
 ## ResolutionInfoResource.HResDisplayUnit property
 
-Menampilkan unit untuk resolusi horizontal. Ini hanya memengaruhi antarmuka pengguna ; resolusi masih tersimpan di file PSD sebagai pixels/inch.
+Satuan tampilan untuk resolusi horizontal. Ini hanya memengaruhi antarmuka pengguna; resolusi tetap disimpan dalam file PSD sebagai piksel/inci.
 
 ```csharp
 public ResolutionUnit HResDisplayUnit { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
 Unit tampilan resolusi horizontal.
 
-### Lihat juga
+### Lihat Juga
 
 * enum [ResolutionUnit](../../../aspose.psd.fileformats.psd.resources.resolutionenums/resolutionunit/)
 * class [ResolutionInfoResource](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Resources](../../resolutioninforesource/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

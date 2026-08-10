@@ -1,20 +1,21 @@
 ---
-title: PhflResourceVersion2.ComponentL
-second_title: Aspose.PSD untuk Referensi .NET API
-description: PhflResourceVersion2 Properti. Mendapat atau mengatur komponen L dari color
+title: "PhflResourceVersion2.ComponentL"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti PhflResourceVersion2. Mendapatkan atau mengatur komponen L dari warna"
 type: docs
 weight: 50
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources/phflresourceversion2/componentl/
 ---
+{{< psd/tize >}}
 ## PhflResourceVersion2.ComponentL property
 
-Mendapat atau mengatur komponen L dari color
+Mendapatkan atau mengatur komponen L dari warna
 
 ```csharp
 public short ComponentL { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
 Komponen L.
 
@@ -22,12 +23,12 @@ Komponen L.
 
 | pengecualian | kondisi |
 | --- | --- |
-| [PsdImageArgumentException](../../../aspose.psd.coreexceptions.imageformats/psdimageargumentexception/) | L Warna harus berkisar dari 0 hingga 10.000 |
+| [PsdImageArgumentException](../../../aspose.psd.coreexceptions.imageformats/psdimageargumentexception/) | Warna L harus berada dalam rentang 0 hingga 10000 |
 
-### Lihat juga
+### Lihat Juga
 
 * class [PhflResourceVersion2](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../phflresourceversion2/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: Color.FloralWhite
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Color Properti. Mendapat warna yang ditentukan sistem.
+title: "Color.FloralWhite"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Color property. Mendapatkan warna yang didefinisikan sistem"
 type: docs
 weight: 450
 url: /id/net/aspose.psd/color/floralwhite/
 ---
+{{< psd/tize >}}
 ## Color.FloralWhite property
 
-Mendapat warna yang ditentukan sistem.
+Mendapatkan warna yang didefinisikan sistem.
 
 ```csharp
 public static Color FloralWhite { get; }
 ```
 
-### Nilai properti
+### Property Value
 
-A[`Color`](../) mewakili warna yang ditentukan sistem.
+Sebuah [`Color`](../) yang mewakili warna yang didefinisikan sistem.
 
-### Lihat juga
+### Lihat Juga
 
 * struct [Color](../)
-* ruang nama [Aspose.PSD](../../color/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

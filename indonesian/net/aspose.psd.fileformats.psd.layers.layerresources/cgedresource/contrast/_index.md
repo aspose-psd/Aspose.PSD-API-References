@@ -1,27 +1,28 @@
 ---
-title: CgEdResource.Contrast
-second_title: Aspose.PSD untuk Referensi .NET API
-description: CgEdResource Properti. Mendapat atau menyetel kontras.
+title: "CgEdResource.Contrast"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti CgEdResource. Mendapatkan atau mengatur kontras"
 type: docs
 weight: 40
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources/cgedresource/contrast/
 ---
+{{< psd/tize >}}
 ## CgEdResource.Contrast property
 
-Mendapat atau menyetel kontras.
+Mendapatkan atau mengatur kontras.
 
 ```csharp
 public int Contrast { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
-Kontras.
+Contrast.
 
-### Lihat juga
+### Lihat Juga
 
 * class [CgEdResource](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../cgedresource/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

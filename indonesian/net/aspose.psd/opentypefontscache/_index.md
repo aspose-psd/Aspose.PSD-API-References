@@ -1,14 +1,15 @@
 ---
-title: Class OpenTypeFontsCache
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Aspose.PSD.OpenTypeFontsCache kelas. Cache untuk font OpenType yang terpasang di sistem.
+title: "Kelas OpenTypeFontsCache"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Kelas Aspose.PSD.OpenTypeFontsCache. Cache untuk font OpenType yang diinstal di sistem"
 type: docs
-weight: 5170
+weight: 5660
 url: /id/net/aspose.psd/opentypefontscache/
 ---
+{{< psd/tize >}}
 ## OpenTypeFontsCache class
 
-Cache untuk font OpenType yang terpasang di sistem.
+Cache untuk font OpenType yang diinstal di sistem.
 
 ```csharp
 public static class OpenTypeFontsCache
@@ -16,13 +17,13 @@ public static class OpenTypeFontsCache
 
 ## Metode
 
-| Nama | Keterangan |
+| Nama | Deskripsi |
 | --- | --- |
 | static [UpdateCache](../../aspose.psd/opentypefontscache/updatecache/)() |  |
 
-### Lihat juga
+### Lihat Juga
 
-* ruang nama [Aspose.PSD](../../aspose.psd/)
-* perakitan [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

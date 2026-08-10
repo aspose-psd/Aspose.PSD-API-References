@@ -1,14 +1,15 @@
 ---
-title: Class MedianFilterOptions
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Aspose.PSD.ImageFilters.FilterOptions.MedianFilterOptions kelas. Filter median
+title: "Kelas MedianFilterOptions"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Kelas Aspose.PSD.ImageFilters.FilterOptions.MedianFilterOptions. Filter median"
 type: docs
-weight: 4720
+weight: 5190
 url: /id/net/aspose.psd.imagefilters.filteroptions/medianfilteroptions/
 ---
+{{< psd/tize >}}
 ## MedianFilterOptions class
 
-Filter median
+Filter Median
 
 ```csharp
 public class MedianFilterOptions : FilterOptionsBase
@@ -16,20 +17,20 @@ public class MedianFilterOptions : FilterOptionsBase
 
 ## Konstruktor
 
-| Nama | Keterangan |
+| Nama | Deskripsi |
 | --- | --- |
-| [MedianFilterOptions](medianfilteroptions/)(int) | Menginisialisasi instance baru dari`MedianFilterOptions` kelas. |
+| [MedianFilterOptions](medianfilteroptions/)(int) | Menginisialisasi sebuah instance baru dari kelas `MedianFilterOptions`. |
 
 ## Properti
 
-| Nama | Keterangan |
+| Nama | Deskripsi |
 | --- | --- |
-| [Size](../../aspose.psd.imagefilters.filteroptions/medianfilteroptions/size/) { get; set; } | Mendapat atau menyetel ukuran. |
+| [Size](../../aspose.psd.imagefilters.filteroptions/medianfilteroptions/size/) { get; set; } | Mendapatkan atau mengatur ukuran. |
 
-### Lihat juga
+### Lihat Juga
 
 * class [FilterOptionsBase](../filteroptionsbase/)
-* ruang nama [Aspose.PSD.ImageFilters.FilterOptions](../../aspose.psd.imagefilters.filteroptions/)
-* perakitan [Aspose.PSD](../../)
+* namespace [Aspose.PSD.ImageFilters.FilterOptions](../../aspose.psd.imagefilters.filteroptions/)
+* assembly [Aspose.PSD](../../)
 
 

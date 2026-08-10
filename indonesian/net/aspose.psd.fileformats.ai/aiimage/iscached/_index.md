@@ -1,27 +1,28 @@
 ---
-title: AiImage.IsCached
-second_title: Aspose.PSD untuk Referensi .NET API
-description: AiImage Properti. Mendapat nilai yang menunjukkan apakah data objek dicache saat ini dan tidak diperlukan pembacaan data.
+title: "AiImage.IsCached"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti AiImage. Mendapatkan nilai yang menunjukkan apakah data objek saat ini di-cache dan tidak diperlukan pembacaan data"
 type: docs
-weight: 80
+weight: 90
 url: /id/net/aspose.psd.fileformats.ai/aiimage/iscached/
 ---
+{{< psd/tize >}}
 ## AiImage.IsCached property
 
-Mendapat nilai yang menunjukkan apakah data objek di-cache saat ini dan tidak diperlukan pembacaan data.
+Mendapatkan nilai yang menunjukkan apakah data objek saat ini di-cache dan tidak diperlukan pembacaan data.
 
 ```csharp
 public override bool IsCached { get; }
 ```
 
-### Nilai properti
+### Property Value
 
-`BENAR` jika data objek di-cache; jika tidak,`PALSU` .
+`true` jika data objek di-cache; jika tidak, `false`.
 
-### Lihat juga
+### Lihat Juga
 
 * class [AiImage](../)
-* ruang nama [Aspose.PSD.FileFormats.Ai](../../aiimage/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

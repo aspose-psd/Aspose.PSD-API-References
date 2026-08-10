@@ -1,27 +1,28 @@
 ---
-title: CurvResource.IsDataStoredDiscretely
-second_title: Aspose.PSD untuk Referensi .NET API
-description: CurvResource Properti. Mendapat atau menetapkan nilai yang menunjukkan apakah instance ini adalah data yang disimpan secara terpisah.
+title: "CurvResource.IsDataStoredDiscretely"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti CurvResource. Mendapatkan atau mengatur nilai yang menunjukkan apakah instance ini menyimpan data secara diskrit"
 type: docs
 weight: 20
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources/curvresource/isdatastoreddiscretely/
 ---
+{{< psd/tize >}}
 ## CurvResource.IsDataStoredDiscretely property
 
-Mendapat atau menetapkan nilai yang menunjukkan apakah instance ini adalah data yang disimpan secara terpisah.
+Mendapatkan atau mengatur nilai yang menunjukkan apakah instance ini menyimpan data secara terpisah.
 
 ```csharp
 public bool IsDataStoredDiscretely { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
-`BENAR` jika instance ini adalah data yang disimpan secara terpisah; jika tidak,`PALSU` .
+`true` jika instance ini menyimpan data secara diskrit; lainnya, `false`.
 
-### Lihat juga
+### Lihat Juga
 
 * class [CurvResource](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../curvresource/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

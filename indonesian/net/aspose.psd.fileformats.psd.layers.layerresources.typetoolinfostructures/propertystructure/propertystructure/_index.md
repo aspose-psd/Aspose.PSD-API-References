@@ -1,30 +1,31 @@
 ---
-title: PropertyStructure.PropertyStructure
-second_title: Aspose.PSD untuk Referensi .NET API
-description: PropertyStructure konstruktor. Menginisialisasi instance baru dariPropertyStructure kelas.
+title: "PropertyStructure.PropertyStructure"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Konstruktor PropertyStructure. Menginisialisasi sebuah instance baru dari kelas PropertyStructure"
 type: docs
 weight: 10
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/propertystructure/propertystructure/
 ---
+{{< psd/tize >}}
 ## PropertyStructure constructor
 
-Menginisialisasi instance baru dari[`PropertyStructure`](../) kelas.
+Menginisialisasi sebuah instance baru dari kelas [`PropertyStructure`](../).
 
 ```csharp
 public PropertyStructure(ClassID keyName, ClassID classID, ClassID keyID)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
 | keyName | ClassID | Nama kunci. |
 | classID | ClassID | ID kelas. |
 | keyID | ClassID | ID kunci. |
 
-### Lihat juga
+### Lihat Juga
 
 * class [ClassID](../../../aspose.psd.fileformats.psd.layers.layerresources/classid/)
 * class [PropertyStructure](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../propertystructure/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 

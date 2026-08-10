@@ -1,14 +1,15 @@
 ---
-title: Class TypeToolFontInfo
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolFontInfo kelas. Berisi informasi tentang type tool font.
+title: "Kelas TypeToolFontInfo"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Kelas Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolFontInfo. Berisi informasi tentang font alat tipe"
 type: docs
-weight: 3080
+weight: 3460
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources/typetoolfontinfo/
 ---
+{{< psd/tize >}}
 ## TypeToolFontInfo class
 
-Berisi informasi tentang type tool font.
+Berisi informasi tentang font alat tipe.
 
 ```csharp
 public class TypeToolFontInfo
@@ -16,33 +17,33 @@ public class TypeToolFontInfo
 
 ## Konstruktor
 
-| Nama | Keterangan |
+| Nama | Deskripsi |
 | --- | --- |
 | [TypeToolFontInfo](typetoolfontinfo/)() | Konstruktor default. |
 
 ## Properti
 
-| Nama | Keterangan |
+| Nama | Deskripsi |
 | --- | --- |
-| [DesignAxes](../../aspose.psd.fileformats.psd.layers.layerresources/typetoolfontinfo/designaxes/) { get; set; } | Mendapat atau menyetel vektor sumbu desain untuk diikuti. |
-| [DesignVectorValue](../../aspose.psd.fileformats.psd.layers.layerresources/typetoolfontinfo/designvectorvalue/) { get; set; } | Mendapat atau menetapkan nilai vektor desain. |
-| [FontFamily](../../aspose.psd.fileformats.psd.layers.layerresources/typetoolfontinfo/fontfamily/) { get; set; } | Mendapat atau mengatur jenis font. |
-| [FontName](../../aspose.psd.fileformats.psd.layers.layerresources/typetoolfontinfo/fontname/) { get; set; } | Mendapat atau menyetel nama font. |
-| [FontStyle](../../aspose.psd.fileformats.psd.layers.layerresources/typetoolfontinfo/fontstyle/) { get; set; } | Mendapat atau menyetel nama gaya font. |
-| [FontTypeData](../../aspose.psd.fileformats.psd.layers.layerresources/typetoolfontinfo/fonttypedata/) { get; set; } | Mendapat atau menyetel data jenis font. |
-| [Length](../../aspose.psd.fileformats.psd.layers.layerresources/typetoolfontinfo/length/) { get; } | Mendapat panjang. |
-| [MarkValue](../../aspose.psd.fileformats.psd.layers.layerresources/typetoolfontinfo/markvalue/) { get; set; } | Mendapat atau menetapkan nilai mark. |
-| [ScriptValue](../../aspose.psd.fileformats.psd.layers.layerresources/typetoolfontinfo/scriptvalue/) { get; set; } | Mendapat atau menetapkan nilai skrip. |
+| [DesignAxes](../../aspose.psd.fileformats.psd.layers.layerresources/typetoolfontinfo/designaxes/) { get; set; } | Mendapatkan atau mengatur vektor sumbu desain yang akan diikuti. |
+| [DesignVectorValue](../../aspose.psd.fileformats.psd.layers.layerresources/typetoolfontinfo/designvectorvalue/) { get; set; } | Mendapatkan atau mengatur nilai vektor desain. |
+| [FontFamily](../../aspose.psd.fileformats.psd.layers.layerresources/typetoolfontinfo/fontfamily/) { get; set; } | Mendapatkan atau mengatur keluarga font. |
+| [FontName](../../aspose.psd.fileformats.psd.layers.layerresources/typetoolfontinfo/fontname/) { get; set; } | Mendapatkan atau mengatur nama font. |
+| [FontStyle](../../aspose.psd.fileformats.psd.layers.layerresources/typetoolfontinfo/fontstyle/) { get; set; } | Mendapatkan atau mengatur nama gaya font. |
+| [FontTypeData](../../aspose.psd.fileformats.psd.layers.layerresources/typetoolfontinfo/fonttypedata/) { get; set; } | Mendapatkan atau mengatur data tipe font. |
+| [Length](../../aspose.psd.fileformats.psd.layers.layerresources/typetoolfontinfo/length/) { get; } | Mendapatkan panjang. |
+| [MarkValue](../../aspose.psd.fileformats.psd.layers.layerresources/typetoolfontinfo/markvalue/) { get; set; } | Mendapatkan atau mengatur nilai tanda. |
+| [ScriptValue](../../aspose.psd.fileformats.psd.layers.layerresources/typetoolfontinfo/scriptvalue/) { get; set; } | Mendapatkan atau mengatur nilai skrip. |
 
 ## Metode
 
-| Nama | Keterangan |
+| Nama | Deskripsi |
 | --- | --- |
-| [Save](../../aspose.psd.fileformats.psd.layers.layerresources/typetoolfontinfo/save/)(StreamContainer) | Menyimpan`TypeToolFontInfo` informasi ke wadah aliran yang ditentukan. |
+| [Save](../../aspose.psd.fileformats.psd.layers.layerresources/typetoolfontinfo/save/)(StreamContainer) | Menyimpan informasi `TypeToolFontInfo` ke dalam kontainer stream yang ditentukan. |
 
-### Lihat juga
+### Lihat Juga
 
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
-* perakitan [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../)
 
 

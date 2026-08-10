@@ -1,11 +1,12 @@
 ---
-title: Interface IXmpType
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Aspose.PSD.Xmp.Types.IXmpType antarmuka. Antarmuka dasar untuk tipe XMP.
+title: "Antarmuka IXmpType"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Aspose.PSD.Xmp.Types.IXmpType interface. Antarmuka dasar untuk tipe XMP"
 type: docs
-weight: 6190
+weight: 6690
 url: /id/net/aspose.psd.xmp.types/ixmptype/
 ---
+{{< psd/tize >}}
 ## IXmpType interface
 
 Antarmuka dasar untuk tipe XMP.
@@ -16,13 +17,13 @@ public interface IXmpType
 
 ## Metode
 
-| Nama | Keterangan |
+| Nama | Deskripsi |
 | --- | --- |
-| [GetXmpRepresentation](../../aspose.psd.xmp.types/ixmptype/getxmprepresentation/)() | Mendapat string berisi nilai dalam format XMP. |
+| [GetXmpRepresentation](../../aspose.psd.xmp.types/ixmptype/getxmprepresentation/)() | Mendapatkan nilai string yang terkandung dalam format XMP. |
 
-### Lihat juga
+### Lihat Juga
 
-* ruang nama [Aspose.PSD.Xmp.Types](../../aspose.psd.xmp.types/)
-* perakitan [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Xmp.Types](../../aspose.psd.xmp.types/)
+* assembly [Aspose.PSD](../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: XmpMediaManagementPackage.SetInstanceId
-second_title: Aspose.PSD untuk Referensi .NET API
-description: XmpMediaManagementPackage metode. Menetapkan id instance.
+title: "XmpMediaManagementPackage.SetInstanceId"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "XmpMediaManagementPackage method. Menetapkan id instance"
 type: docs
 weight: 50
 url: /id/net/aspose.psd.xmp.schemas.xmpmm/xmpmediamanagementpackage/setinstanceid/
 ---
+{{< psd/tize >}}
 ## SetInstanceId(Guid) {#setinstanceid}
 
 Menetapkan id instance.
@@ -14,15 +15,15 @@ Menetapkan id instance.
 public void SetInstanceId(Guid guid)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
 | guid | Guid | Pengidentifikasi unik. |
 
-### Lihat juga
+### Lihat Juga
 
 * class [XmpMediaManagementPackage](../)
-* ruang nama [Aspose.PSD.Xmp.Schemas.XmpMm](../../xmpmediamanagementpackage/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpMm](../../../aspose.psd.xmp.schemas.xmpmm/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
@@ -34,14 +35,14 @@ Menetapkan id instance.
 public void SetInstanceId(string guid)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
 | guid | String | Pengidentifikasi unik. |
 
-### Lihat juga
+### Lihat Juga
 
 * class [XmpMediaManagementPackage](../)
-* ruang nama [Aspose.PSD.Xmp.Schemas.XmpMm](../../xmpmediamanagementpackage/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpMm](../../../aspose.psd.xmp.schemas.xmpmm/)
+* assembly [Aspose.PSD](../../../)
 
 

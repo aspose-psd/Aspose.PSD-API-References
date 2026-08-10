@@ -1,28 +1,29 @@
 ---
-title: ColorMap.NewColor
-second_title: Aspose.PSD untuk Referensi .NET API
-description: ColorMap Properti. Mendapat atau menyetel yang baruColor struktur yang akan dikonversi.
+title: "ColorMap.NewColor"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "ColorMap properti. Mendapatkan atau mengatur struktur Color baru untuk dikonversi"
 type: docs
 weight: 20
 url: /id/net/aspose.psd/colormap/newcolor/
 ---
+{{< psd/tize >}}
 ## ColorMap.NewColor property
 
-Mendapat atau menyetel yang baru[`Color`](../../color/) struktur yang akan dikonversi.
+Mendapatkan atau mengatur struktur [`Color`](../../color/) baru untuk dikonversi.
 
 ```csharp
 public Color NewColor { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
-Yang baru[`Color`](../../color/) struktur yang akan dikonversi.
+Struktur [`Color`](../../color/) baru untuk dikonversi.
 
-### Lihat juga
+### Lihat Juga
 
 * struct [Color](../../color/)
 * class [ColorMap](../)
-* ruang nama [Aspose.PSD](../../colormap/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

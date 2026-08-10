@@ -1,32 +1,33 @@
 ---
-title: StringFormat.DigitSubstitutionMethod
-second_title: Aspose.PSD untuk Referensi .NET API
-description: StringFormat Properti. Mendapat atau menetapkan metode yang akan digunakan untuk penggantian digit.
+title: "StringFormat.DigitSubstitutionMethod"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti StringFormat. Mengambil atau mengatur metode yang akan digunakan untuk substitusi digit"
 type: docs
-weight: 60
+weight: 70
 url: /id/net/aspose.psd/stringformat/digitsubstitutionmethod/
 ---
+{{< psd/tize >}}
 ## StringFormat.DigitSubstitutionMethod property
 
-Mendapat atau menetapkan metode yang akan digunakan untuk penggantian digit.
+Mendapatkan atau mengatur metode yang akan digunakan untuk substitusi digit.
 
 ```csharp
 public StringDigitSubstitute DigitSubstitutionMethod { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
-A[`StringDigitSubstitute`](../../stringdigitsubstitute/) nilai pencacahan yang menentukan cara mengganti karakter dalam string yang tidak dapat ditampilkan karena tidak didukung oleh font saat ini.
+Nilai enumerasi [`StringDigitSubstitute`](../../stringdigitsubstitute/) yang menentukan cara mengganti karakter dalam string yang tidak dapat ditampilkan karena tidak didukung oleh font saat ini.
 
-### Perkataan
+## Catatan
 
 Setter diperkenalkan untuk metode usang SetDigitSubstitution.
 
-### Lihat juga
+### Lihat Juga
 
 * enum [StringDigitSubstitute](../../stringdigitsubstitute/)
 * class [StringFormat](../)
-* ruang nama [Aspose.PSD](../../stringformat/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

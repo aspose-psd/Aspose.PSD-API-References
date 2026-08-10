@@ -1,27 +1,28 @@
 ---
-title: BlncResource.MidtonesCyanRedBalance
-second_title: Aspose.PSD untuk Referensi .NET API
-description: BlncResource Properti. Mendapatkan atau menyetel Midtones Cyan Red Balance.
+title: "BlncResource.MidtonesCyanRedBalance"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "BlncResource properti. Mendapatkan atau mengatur Midtones Cyan Red Balance"
 type: docs
-weight: 70
+weight: 60
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources/blncresource/midtonescyanredbalance/
 ---
+{{< psd/tize >}}
 ## BlncResource.MidtonesCyanRedBalance property
 
-Mendapatkan atau menyetel Midtones Cyan Red Balance.
+Mendapatkan atau mengatur Midtones Cyan Red Balance.
 
 ```csharp
 public short MidtonesCyanRedBalance { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
-Keseimbangan Midtones Cyan Red.
+Midtones Cyan Red Balance.
 
-### Lihat juga
+### Lihat Juga
 
 * class [BlncResource](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../blncresource/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

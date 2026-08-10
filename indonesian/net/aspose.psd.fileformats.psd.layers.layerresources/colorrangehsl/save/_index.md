@@ -1,28 +1,29 @@
 ---
-title: ColorRangeHsl.Save
-second_title: Aspose.PSD untuk Referensi .NET API
-description: ColorRangeHsl metode. Menyimpan data ke wadah aliran yang ditentukan.
+title: "ColorRangeHsl.Save"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode ColorRangeHsl. Menyimpan data ke kontainer aliran yang ditentukan"
 type: docs
 weight: 120
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources/colorrangehsl/save/
 ---
+{{< psd/tize >}}
 ## ColorRangeHsl.Save method
 
-Menyimpan data ke wadah aliran yang ditentukan.
+Menyimpan data ke kontainer aliran yang ditentukan.
 
 ```csharp
 public void Save(StreamContainer streamContainer)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| streamContainer | StreamContainer | Wadah aliran. |
+| streamContainer | StreamContainer | Kontainer aliran. |
 
-### Lihat juga
+### Lihat Juga
 
 * class [StreamContainer](../../../aspose.psd/streamcontainer/)
 * class [ColorRangeHsl](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../colorrangehsl/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

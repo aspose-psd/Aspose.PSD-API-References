@@ -1,28 +1,29 @@
 ---
-title: PhotoFilterLayer.Color
-second_title: Aspose.PSD untuk Referensi .NET API
-description: PhotoFilterLayer Properti. Mendapat atau menyetel warna RGB filter.
+title: "PhotoFilterLayer.Color"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti PhotoFilterLayer. Mendapatkan atau mengatur warna RGB filter"
 type: docs
 weight: 10
 url: /id/net/aspose.psd.fileformats.psd.layers.adjustmentlayers/photofilterlayer/color/
 ---
+{{< psd/tize >}}
 ## PhotoFilterLayer.Color property
 
-Mendapat atau menyetel warna RGB filter.
+Mendapatkan atau mengatur warna RGB filter.
 
 ```csharp
 public Color Color { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
 Warna.
 
-### Lihat juga
+### Lihat Juga
 
 * struct [Color](../../../aspose.psd/color/)
 * class [PhotoFilterLayer](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../photofilterlayer/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/)
+* assembly [Aspose.PSD](../../../)
 
 

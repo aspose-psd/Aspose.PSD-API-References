@@ -1,28 +1,29 @@
 ---
-title: PathGradientBrush.Blend
-second_title: Aspose.PSD untuk Referensi .NET API
-description: PathGradientBrush Properti. Mendapat atau menyetel aBlend yang menentukan posisi dan faktor yang menentukan penurunan kustom untuk gradien.
+title: "PathGradientBrush.Blend"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti PathGradientBrush. Mendapatkan atau mengatur sebuah Blend yang menentukan posisi dan faktor yang mendefinisikan penurunan khusus untuk gradien."
 type: docs
 weight: 20
 url: /id/net/aspose.psd.brushes/pathgradientbrush/blend/
 ---
+{{< psd/tize >}}
 ## PathGradientBrush.Blend property
 
-Mendapat atau menyetel a[`Blend`](../../../aspose.psd/blend/) yang menentukan posisi dan faktor yang menentukan penurunan kustom untuk gradien.
+Mendapatkan atau mengatur sebuah [`Blend`](../../../aspose.psd/blend/) yang menentukan posisi dan faktor yang mendefinisikan penurunan khusus untuk gradasi.
 
 ```csharp
 public Blend Blend { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
-A[`Blend`](../../../aspose.psd/blend/) yang mewakili falloff khusus untuk gradien.
+Sebuah [`Blend`](../../../aspose.psd/blend/) yang merepresentasikan penurunan khusus untuk gradasi.
 
-### Lihat juga
+### Lihat Juga
 
 * class [Blend](../../../aspose.psd/blend/)
 * class [PathGradientBrush](../)
-* ruang nama [Aspose.PSD.Brushes](../../pathgradientbrush/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
+* assembly [Aspose.PSD](../../../)
 
 

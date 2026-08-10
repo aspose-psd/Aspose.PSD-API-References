@@ -1,28 +1,29 @@
 ---
-title: XmpMediaManagementPackage.SetDerivedFrom
-second_title: Aspose.PSD untuk Referensi .NET API
-description: XmpMediaManagementPackage metode. Mengatur turunan dari.
+title: "XmpMediaManagementPackage.SetDerivedFrom"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "XmpMediaManagementPackage method. Menetapkan asal turunan"
 type: docs
 weight: 30
 url: /id/net/aspose.psd.xmp.schemas.xmpmm/xmpmediamanagementpackage/setderivedfrom/
 ---
+{{< psd/tize >}}
 ## XmpMediaManagementPackage.SetDerivedFrom method
 
-Mengatur turunan dari.
+Menetapkan asal.
 
 ```csharp
 public void SetDerivedFrom(ResourceRef resourceRef)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
 | resourceRef | ResourceRef | Referensi sumber daya. |
 
-### Lihat juga
+### Lihat Juga
 
 * class [ResourceRef](../../../aspose.psd.xmp.types.complex.resourceref/resourceref/)
 * class [XmpMediaManagementPackage](../)
-* ruang nama [Aspose.PSD.Xmp.Schemas.XmpMm](../../xmpmediamanagementpackage/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpMm](../../../aspose.psd.xmp.schemas.xmpmm/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,23 +1,24 @@
 ---
-title: SmartObjectResource.PsdVersion
-second_title: Aspose.PSD untuk Referensi .NET API
-description: SmartObjectResource Properti. Mendapatkan versi psd minimal yang diperlukan untuk sumber daya smart object. 0 menunjukkan tidak ada batasan.
+title: "SmartObjectResource.PsdVersion"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "SmartObjectResource Properti. Mendapatkan versi psd minimal yang diperlukan untuk sumber daya objek pintar. 0 menunjukkan tidak ada pembatasan"
 type: docs
 weight: 180
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/psdversion/
 ---
+{{< psd/tize >}}
 ## SmartObjectResource.PsdVersion property
 
-Mendapatkan versi psd minimal yang diperlukan untuk sumber daya smart object. 0 menunjukkan tidak ada batasan.
+Mendapatkan versi psd minimal yang diperlukan untuk sumber daya objek pintar. 0 menunjukkan tidak ada pembatasan.
 
 ```csharp
 public override int PsdVersion { get; }
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [SmartObjectResource](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../smartobjectresource/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

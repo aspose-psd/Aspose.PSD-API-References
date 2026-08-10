@@ -1,44 +1,45 @@
 ---
-title: LnkeResource.LnkeResource
-second_title: Aspose.PSD untuk Referensi .NET API
-description: LnkeResource konstruktor. Menginisialisasi instance baru dariLnkeResource kelas.
+title: "LnkeResource.LnkeResource"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Konstruktor LnkeResource. Menginisialisasi instance baru dari kelas LnkeResource"
 type: docs
 weight: 10
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources/lnkeresource/lnkeresource/
 ---
+{{< psd/tize >}}
 ## LnkeResource() {#constructor}
 
-Menginisialisasi instance baru dari[`LnkeResource`](../) kelas.
+Menginisialisasi instance baru dari kelas [`LnkeResource`](../).
 
 ```csharp
 public LnkeResource()
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [LnkeResource](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../lnkeresource/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## LnkeResource(LinkDataSource[]) {#constructor_1}
 
-Menginisialisasi instance baru dari[`LnkeResource`](../) kelas.
+Menginisialisasi instance baru dari kelas [`LnkeResource`](../).
 
 ```csharp
 public LnkeResource(LinkDataSource[] dataSources)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
 | dataSources | LinkDataSource[] | Sumber data. |
 
-### Lihat juga
+### Lihat Juga
 
 * class [LinkDataSource](../../linkdatasource/)
 * class [LnkeResource](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../lnkeresource/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

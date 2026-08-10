@@ -1,28 +1,29 @@
 ---
-title: ImageCreatorsRegistry.RegisteredDescriptors
-second_title: Aspose.PSD untuk Referensi .NET API
-description: ImageCreatorsRegistry Properti. Mendapat deskriptor terdaftar.
+title: "ImageCreatorsRegistry.RegisteredDescriptors"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti ImageCreatorsRegistry. Mendapatkan deskriptor yang terdaftar"
 type: docs
 weight: 10
 url: /id/net/aspose.psd/imagecreatorsregistry/registereddescriptors/
 ---
+{{< psd/tize >}}
 ## ImageCreatorsRegistry.RegisteredDescriptors property
 
-Mendapat deskriptor terdaftar.
+Mendapatkan deskriptor yang terdaftar.
 
 ```csharp
 public static IImageCreatorDescriptor[] RegisteredDescriptors { get; }
 ```
 
-### Nilai properti
+### Property Value
 
-Deskriptor terdaftar.
+Deskriptor yang terdaftar.
 
-### Lihat juga
+### Lihat Juga
 
 * interface [IImageCreatorDescriptor](../../iimagecreatordescriptor/)
 * class [ImageCreatorsRegistry](../)
-* ruang nama [Aspose.PSD](../../imagecreatorsregistry/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

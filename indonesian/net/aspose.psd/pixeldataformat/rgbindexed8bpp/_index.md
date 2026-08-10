@@ -1,27 +1,28 @@
 ---
-title: PixelDataFormat.RgbIndexed8Bpp
-second_title: Aspose.PSD untuk Referensi .NET API
-description: PixelDataFormat Properti. MendapatkanPixelDataFormat didefinisikan untuk indeks 8 bit per warna. Penyimpanan data piksel yang diindeks dimaksudkan untuk memungkinkan penyimpanan dan pengambilan data di mana pun palet warna digunakan. Gunakan dengan hatihati karena mungkin memerlukan konversi dari satu palet ke palet lainnya atau dari RGBA ke model warna yang diindeks .
+title: "PixelDataFormat.RgbIndexed8Bpp"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "PixelDataFormat property. Mendapatkan PixelDataFormat yang didefinisikan untuk indeks 8 bit per warna. Penyimpanan data piksel terindeks dimaksudkan untuk memungkinkan penyimpanan dan pengambilan data di mana pun palet warna digunakan. Gunakan dengan hati-hati karena mungkin memerlukan konversi dari satu palet ke palet lain atau dari RGBA ke model warna terindeks"
 type: docs
 weight: 150
 url: /id/net/aspose.psd/pixeldataformat/rgbindexed8bpp/
 ---
+{{< psd/tize >}}
 ## PixelDataFormat.RgbIndexed8Bpp property
 
-Mendapatkan[`PixelDataFormat`](../) didefinisikan untuk indeks 8 bit per warna. Penyimpanan data piksel yang diindeks dimaksudkan untuk memungkinkan penyimpanan dan pengambilan data di mana pun palet warna digunakan. Gunakan dengan hati-hati, karena mungkin memerlukan konversi dari satu palet ke palet lainnya atau dari RGBA ke model warna yang diindeks .
+Mendapatkan [`PixelDataFormat`](../) yang didefinisikan untuk indeks 8 bit per warna. Penyimpanan data piksel terindeks dimaksudkan untuk memungkinkan penyimpanan dan pengambilan data di mana pun palet warna digunakan. Gunakan dengan hati-hati, karena mungkin memerlukan konversi dari satu palet ke palet lain atau dari RGBA ke model warna terindeks.
 
 ```csharp
 public static PixelDataFormat RgbIndexed8Bpp { get; }
 ```
 
-### Nilai properti
+### Property Value
 
-Itu[`PixelDataFormat`](../) didefinisikan untuk diindeks 8 bit per warna.
+[`PixelDataFormat`](../) yang didefinisikan untuk indeks 8 bit per warna.
 
-### Lihat juga
+### Lihat Juga
 
 * class [PixelDataFormat](../)
-* ruang nama [Aspose.PSD](../../pixeldataformat/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

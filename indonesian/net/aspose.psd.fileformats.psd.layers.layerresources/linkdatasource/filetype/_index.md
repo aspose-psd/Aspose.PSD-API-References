@@ -1,22 +1,23 @@
 ---
-title: LinkDataSource.FileType
-second_title: Aspose.PSD untuk Referensi .NET API
-description: LinkDataSource Properti. Mendapat atau menyetel jenis file tersemat atau eksternal yang berisi atau ditautkan oleh sumber daya Adobe Photoshop Lnk2 / LnkE.
+title: "LinkDataSource.FileType"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti LinkDataSource. Mendapatkan atau mengatur tipe file yang disematkan atau eksternal yang dimiliki atau ditautkan oleh sumber daya Adobe Photoshop Lnk2 / LnkE"
 type: docs
 weight: 60
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/filetype/
 ---
+{{< psd/tize >}}
 ## LinkDataSource.FileType property
 
-Mendapat atau menyetel jenis file tersemat atau eksternal yang berisi atau ditautkan oleh sumber daya Adobe® Photoshop® Lnk2 / LnkE.
+Mendapatkan atau mengatur tipe file tersemat atau eksternal yang berisi atau ditautkan oleh sumber daya Adobe® Photoshop® Lnk2 / LnkE.
 
 ```csharp
 public string FileType { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
-Jenis file tertaut eksternal atau tersemat.
+Tipe file tertaut yang tersemat atau eksternal.
 
 ### Pengecualian
 
@@ -24,10 +25,10 @@ Jenis file tertaut eksternal atau tersemat.
 | --- | --- |
 | [PsdImageException](../../../aspose.psd.coreexceptions.imageformats/psdimageexception/) | Anda tidak dapat mengakses properti FileType. |
 
-### Lihat juga
+### Lihat Juga
 
 * class [LinkDataSource](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../linkdatasource/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

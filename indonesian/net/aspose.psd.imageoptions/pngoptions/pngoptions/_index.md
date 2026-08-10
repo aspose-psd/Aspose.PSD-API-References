@@ -1,43 +1,44 @@
 ---
-title: PngOptions.PngOptions
-second_title: Aspose.PSD untuk Referensi .NET API
-description: PngOptions konstruktor. Menginisialisasi instance baru dariPngOptions kelas.
+title: "PngOptions.PngOptions"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Konstruktor PngOptions. Menginisialisasi sebuah instance baru dari kelas PngOptions"
 type: docs
 weight: 10
 url: /id/net/aspose.psd.imageoptions/pngoptions/pngoptions/
 ---
+{{< psd/tize >}}
 ## PngOptions() {#constructor}
 
-Menginisialisasi instance baru dari[`PngOptions`](../) kelas.
+Menginisialisasi sebuah instance baru dari kelas [`PngOptions`](../).
 
 ```csharp
 public PngOptions()
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [PngOptions](../)
-* ruang nama [Aspose.PSD.ImageOptions](../../pngoptions/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## PngOptions(PngOptions) {#constructor_1}
 
-Menginisialisasi instance baru dari[`PngOptions`](../) kelas.
+Menginisialisasi sebuah instance baru dari kelas [`PngOptions`](../).
 
 ```csharp
 public PngOptions(PngOptions pngOptions)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
 | pngOptions | PngOptions | Opsi PNG. |
 
-### Lihat juga
+### Lihat Juga
 
 * class [PngOptions](../)
-* ruang nama [Aspose.PSD.ImageOptions](../../pngoptions/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

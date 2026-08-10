@@ -1,27 +1,28 @@
 ---
-title: FontSettings.SetFontsFolder
-second_title: Aspose.PSD untuk Referensi .NET API
-description: FontSettings metode. Ini adalah jalan pintas keSetFontsFolders untuk setting hanya satu font directory. Tidak ada pengecekan yang dilakukan pada folder fonts.
+title: "FontSettings.SetFontsFolder"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "FontSettings metode. Ini adalah pintasan ke SetFontsFolders untuk mengatur hanya satu direktori font. Tidak ada pemeriksaan yang dilakukan pada folder font."
 type: docs
-weight: 120
+weight: 140
 url: /id/net/aspose.psd/fontsettings/setfontsfolder/
 ---
+{{< psd/tize >}}
 ## FontSettings.SetFontsFolder method
 
-Ini adalah jalan pintas ke[`SetFontsFolders`](../setfontsfolders/) untuk setting hanya satu font directory. Tidak ada pengecekan yang dilakukan pada folder fonts.
+Ini adalah pintasan ke [`SetFontsFolders`](../setfontsfolders/) untuk mengatur hanya satu direktori font. Tidak ada pemeriksaan yang dilakukan pada folder font.
 
 ```csharp
 public static void SetFontsFolder(string fontFolder)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| fontFolder | String | Folder fonta. |
+| fontFolder | String | Folder font. |
 
-### Lihat juga
+### Lihat Juga
 
 * class [FontSettings](../)
-* ruang nama [Aspose.PSD](../../fontsettings/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,28 +1,29 @@
 ---
-title: IAsyncTaskState.Progress
-second_title: Aspose.PSD untuk Referensi .NET API
-description: IAsyncTaskState Properti. Mendapat progres tugas asinkron.
+title: "IAsyncTaskState.Progress"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti IAsyncTaskState. Mendapatkan kemajuan tugas asynchronous"
 type: docs
 weight: 20
 url: /id/net/aspose.psd.asynctask/iasynctaskstate/progress/
 ---
+{{< psd/tize >}}
 ## IAsyncTaskState.Progress property
 
-Mendapat progres tugas asinkron.
+Mendapatkan kemajuan tugas asinkron.
 
 ```csharp
 public AsyncTaskProgress Progress { get; }
 ```
 
-### Nilai properti
+### Property Value
 
-Kemajuan tugas asinkron.
+Kemajuan tugas asynchronous.
 
-### Lihat juga
+### Lihat Juga
 
 * class [AsyncTaskProgress](../../asynctaskprogress/)
 * interface [IAsyncTaskState](../)
-* ruang nama [Aspose.PSD.AsyncTask](../../iasynctaskstate/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.AsyncTask](../../../aspose.psd.asynctask/)
+* assembly [Aspose.PSD](../../../)
 
 

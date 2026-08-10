@@ -1,27 +1,28 @@
 ---
-title: BilateralSmoothingFilterOptions.SpatialFactor
-second_title: Aspose.PSD untuk Referensi .NET API
-description: BilateralSmoothingFilterOptions Properti. Mendapat atau menyetel faktor spasial.
+title: "BilateralSmoothingFilterOptions.SpatialFactor"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "BilateralSmoothingFilterOptions properti. Mendapatkan atau mengatur faktor spasial."
 type: docs
 weight: 50
 url: /id/net/aspose.psd.imagefilters.filteroptions/bilateralsmoothingfilteroptions/spatialfactor/
 ---
+{{< psd/tize >}}
 ## BilateralSmoothingFilterOptions.SpatialFactor property
 
-Mendapat atau menyetel faktor spasial.
+Mendapatkan atau mengatur faktor spasial.
 
 ```csharp
 public double SpatialFactor { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
 Faktor spasial.
 
-### Lihat juga
+### Lihat Juga
 
 * class [BilateralSmoothingFilterOptions](../)
-* ruang nama [Aspose.PSD.ImageFilters.FilterOptions](../../bilateralsmoothingfilteroptions/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageFilters.FilterOptions](../../../aspose.psd.imagefilters.filteroptions/)
+* assembly [Aspose.PSD](../../../)
 
 

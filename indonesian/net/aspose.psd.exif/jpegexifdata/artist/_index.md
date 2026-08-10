@@ -1,27 +1,28 @@
 ---
-title: JpegExifData.Artist
-second_title: Aspose.PSD untuk Referensi .NET API
-description: JpegExifData Properti. Mendapat atau menyetel artis.
+title: "JpegExifData.Artist"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti JpegExifData. Mendapatkan atau mengatur artis"
 type: docs
 weight: 20
 url: /id/net/aspose.psd.exif/jpegexifdata/artist/
 ---
+{{< psd/tize >}}
 ## JpegExifData.Artist property
 
-Mendapat atau menyetel artis.
+Mendapatkan atau mengatur artis.
 
 ```csharp
 public string Artist { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
 Artis.
 
-### Lihat juga
+### Lihat Juga
 
 * class [JpegExifData](../)
-* ruang nama [Aspose.PSD.Exif](../../jpegexifdata/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

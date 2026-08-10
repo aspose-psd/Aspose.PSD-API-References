@@ -1,11 +1,12 @@
 ---
-title: GdFlResource.Color
-second_title: Aspose.PSD untuk Referensi .NET API
-description: GdFlResource Properti. Mendapatkan warna RGB.
+title: "GdFlResource.Color"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti GdFlResource. Mendapatkan warna RGB"
 type: docs
 weight: 40
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources/gdflresource/color/
 ---
+{{< psd/tize >}}
 ## GdFlResource.Color property
 
 Mendapatkan warna RGB.
@@ -14,15 +15,15 @@ Mendapatkan warna RGB.
 public Color Color { get; set; }
 ```
 
-### Nilai Pengembalian
+### Nilai Kembalian
 
 Warna RGB
 
-### Lihat juga
+### Lihat Juga
 
 * struct [Color](../../../aspose.psd/color/)
 * class [GdFlResource](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../gdflresource/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

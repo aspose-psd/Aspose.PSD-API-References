@@ -1,25 +1,26 @@
 ---
-title: Aspose.PSD.Shapes
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Namespace berisi kombinasi berbagai bentuk dari segmen bentuk.
+title: "Aspose.PSD.Shapes"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Namespace berisi berbagai bentuk yang digabungkan dari segmen bentuk."
 type: docs
-weight: 490
+weight: 530
 url: /id/net/aspose.psd.shapes/
 ---
-Namespace berisi kombinasi berbagai bentuk dari segmen bentuk.
+{{< psd/tize >}}
+Namespace berisi bentuk-bentuk berbeda yang digabungkan dari segmen bentuk.
 
 ## Kelas
 
-| Kelas | Keterangan |
+| Kelas | Deskripsi |
 | --- | --- |
-| [ArcShape](./arcshape/) | Merupakan bentuk busur. |
-| [BezierShape](./beziershape/) | Merupakan spline bezier. |
+| [ArcShape](./arcshape/) | Mewakili bentuk busur. |
+| [BezierShape](./beziershape/) | Mewakili spline Bezier. |
 | [CurveShape](./curveshape/) | Mewakili bentuk spline melengkung. |
-| [EllipseShape](./ellipseshape/) | Merupakan bentuk elips. |
-| [PieShape](./pieshape/) | Merupakan bentuk pai. |
-| [PolygonShape](./polygonshape/) | Merupakan bentuk poligon. |
-| [RectangleProjectedShape](./rectangleprojectedshape/) | Merupakan bentuk yang diproyeksikan di atas persegi panjang yang diputar ke orientasi tertentu. Ditentukan oleh empat titik yang dapat diputar dalam ruang dengan mempertahankan panjang tepi yang sama dan 90 derajat antara tepi yang berdekatan. |
-| [RectangleShape](./rectangleshape/) | Merupakan bentuk persegi panjang. |
-| [TextShape](./textshape/) | Merupakan bentuk teks. |
+| [EllipseShape](./ellipseshape/) | Mewakili bentuk elips. |
+| [PieShape](./pieshape/) | Mewakili bentuk pai. |
+| [PolygonShape](./polygonshape/) | Mewakili bentuk poligon. |
+| [RectangleProjectedShape](./rectangleprojectedshape/) | Mewakili bentuk yang diproyeksikan di atas persegi panjang yang diputar ke orientasi tertentu. Ditentukan oleh empat titik yang dapat diputar dalam ruang sambil mempertahankan panjang sisi yang sama dan sudut 90 derajat antara sisi yang berdekatan. |
+| [RectangleShape](./rectangleshape/) | Mewakili bentuk persegi panjang. |
+| [TextShape](./textshape/) | Mewakili bentuk teks. |
 
 

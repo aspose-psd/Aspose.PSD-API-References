@@ -1,28 +1,29 @@
 ---
-title: Font.CharacterSet
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Font Properti. Mendapat nilai byte yang menentukan set karakter iniFont kegunaan.
+title: "Font.CharacterSet"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti Font. Mendapatkan nilai byte yang menentukan set karakter yang digunakan Font ini."
 type: docs
 weight: 30
 url: /id/net/aspose.psd/font/characterset/
 ---
+{{< psd/tize >}}
 ## Font.CharacterSet property
 
-Mendapat nilai byte yang menentukan set karakter ini[`Font`](../) kegunaan.
+Mendapatkan nilai byte yang menentukan set karakter yang digunakan oleh [`Font`](../) ini.
 
 ```csharp
 public CharacterSet CharacterSet { get; }
 ```
 
-### Nilai properti
+### Property Value
 
-Sebuah set karakter yang ini[`Font`](../) menggunakan.
+Sebuah set karakter yang digunakan oleh [`Font`](../) ini.
 
-### Lihat juga
+### Lihat Juga
 
 * enum [CharacterSet](../../characterset/)
 * class [Font](../)
-* ruang nama [Aspose.PSD](../../font/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

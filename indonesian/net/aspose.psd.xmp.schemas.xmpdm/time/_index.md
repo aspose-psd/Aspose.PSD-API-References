@@ -1,11 +1,12 @@
 ---
-title: Class Time
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Aspose.PSD.Xmp.Schemas.XmpDm.Time kelas. Representasi nilai waktu dalam detik.
+title: "Kelas Time"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Kelas Aspose.PSD.Xmp.Schemas.XmpDm.Time. Representasi nilai waktu dalam detik"
 type: docs
-weight: 5880
+weight: 6380
 url: /id/net/aspose.psd.xmp.schemas.xmpdm/time/
 ---
+{{< psd/tize >}}
 ## Time class
 
 Representasi nilai waktu dalam detik.
@@ -16,27 +17,27 @@ public sealed class Time : XmpTypeBase
 
 ## Konstruktor
 
-| Nama | Keterangan |
+| Nama | Deskripsi |
 | --- | --- |
-| [Time](time/)(Rational, int) | Menginisialisasi instance baru dari`Time` kelas. |
+| [Time](time/)(Rational, int) | Menginisialisasi instance baru dari kelas `Time`. |
 
 ## Properti
 
-| Nama | Keterangan |
+| Nama | Deskripsi |
 | --- | --- |
-| [Scale](../../aspose.psd.xmp.schemas.xmpdm/time/scale/) { get; set; } | Mendapat atau mengatur skala untuk nilai waktu. |
-| [Value](../../aspose.psd.xmp.schemas.xmpdm/time/value/) { get; set; } | Mendapat atau menetapkan nilai waktu dalam skala yang ditentukan. |
+| [Scale](../../aspose.psd.xmp.schemas.xmpdm/time/scale/) { get; set; } | Mendapatkan atau mengatur skala untuk nilai waktu. |
+| [Value](../../aspose.psd.xmp.schemas.xmpdm/time/value/) { get; set; } | Mendapatkan atau mengatur nilai waktu dalam skala yang ditentukan. |
 
 ## Metode
 
-| Nama | Keterangan |
+| Nama | Deskripsi |
 | --- | --- |
-| override [GetXmpRepresentation](../../aspose.psd.xmp.schemas.xmpdm/time/getxmprepresentation/)() | Mendapat string berisi nilai dalam format XMP. |
+| override [GetXmpRepresentation](../../aspose.psd.xmp.schemas.xmpdm/time/getxmprepresentation/)() | Mendapatkan nilai string yang terkandung dalam format XMP. |
 
-### Lihat juga
+### Lihat Juga
 
 * class [XmpTypeBase](../../aspose.psd.xmp.types/xmptypebase/)
-* ruang nama [Aspose.PSD.Xmp.Schemas.XmpDm](../../aspose.psd.xmp.schemas.xmpdm/)
-* perakitan [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpDm](../../aspose.psd.xmp.schemas.xmpdm/)
+* assembly [Aspose.PSD](../../)
 
 

@@ -1,28 +1,29 @@
 ---
-title: ExifData.Saturation
-second_title: Aspose.PSD untuk Referensi .NET API
-description: ExifData Properti. Mendapat atau mengatur saturasi.
+title: "ExifData.Saturation"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti ExifData. Mendapatkan atau mengatur saturasi"
 type: docs
 weight: 890
 url: /id/net/aspose.psd.exif/exifdata/saturation/
 ---
+{{< psd/tize >}}
 ## ExifData.Saturation property
 
-Mendapat atau mengatur saturasi.
+Mendapatkan atau mengatur saturasi.
 
 ```csharp
 public ExifSaturation Saturation { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
 Saturasi.
 
-### Lihat juga
+### Lihat Juga
 
 * enum [ExifSaturation](../../../aspose.psd.exif.enums/exifsaturation/)
 * class [ExifData](../)
-* ruang nama [Aspose.PSD.Exif](../../exifdata/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

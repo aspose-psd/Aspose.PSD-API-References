@@ -1,27 +1,28 @@
 ---
-title: IRasterImageRawDataLoader.IsRawDataAvailable
-second_title: Aspose.PSD untuk Referensi .NET API
-description: IRasterImageRawDataLoader Properti. Mendapat nilai yang menunjukkan apakah pemuatan data mentah didukung.
+title: "IRasterImageRawDataLoader.IsRawDataAvailable"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti IRasterImageRawDataLoader. Mendapatkan nilai yang menunjukkan apakah pemuatan data mentah didukung"
 type: docs
 weight: 10
 url: /id/net/aspose.psd/irasterimagerawdataloader/israwdataavailable/
 ---
+{{< psd/tize >}}
 ## IRasterImageRawDataLoader.IsRawDataAvailable property
 
-Mendapat nilai yang menunjukkan apakah pemuatan data mentah didukung.
+Mendapatkan nilai yang menunjukkan apakah pemuatan data mentah didukung.
 
 ```csharp
 public bool IsRawDataAvailable { get; }
 ```
 
-### Nilai properti
+### Property Value
 
-`BENAR` jika pemuatan data mentah didukung; jika tidak,`PALSU` .
+`true` jika pemuatan data mentah didukung; jika tidak, `false`.
 
-### Lihat juga
+### Lihat Juga
 
 * interface [IRasterImageRawDataLoader](../)
-* ruang nama [Aspose.PSD](../../irasterimagerawdataloader/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

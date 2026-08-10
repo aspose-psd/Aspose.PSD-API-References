@@ -1,28 +1,29 @@
 ---
-title: AiImage.SetupSection
-second_title: Aspose.PSD untuk Referensi .NET API
-description: AiImage Properti. Mendapatkan bagian penyiapan.
+title: "AiImage.SetupSection"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti AiImage. Mendapatkan bagian pengaturan"
 type: docs
-weight: 100
+weight: 120
 url: /id/net/aspose.psd.fileformats.ai/aiimage/setupsection/
 ---
+{{< psd/tize >}}
 ## AiImage.SetupSection property
 
-Mendapatkan bagian penyiapan.
+Mendapatkan bagian pengaturan.
 
 ```csharp
 public AiSetupSection SetupSection { get; }
 ```
 
-### Nilai properti
+### Property Value
 
-Bagian penyiapan.
+Bagian pengaturan.
 
-### Lihat juga
+### Lihat Juga
 
 * class [AiSetupSection](../../aisetupsection/)
 * class [AiImage](../)
-* ruang nama [Aspose.PSD.FileFormats.Ai](../../aiimage/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

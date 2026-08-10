@@ -1,32 +1,33 @@
 ---
-title: TiffStreamReader.ReadDoubleArray
-second_title: Aspose.PSD untuk Referensi .NET API
-description: TiffStreamReader metode. Membaca larik nilai ganda dari aliran.
+title: "TiffStreamReader.ReadDoubleArray"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode TiffStreamReader. Membaca array nilai double dari aliran."
 type: docs
 weight: 60
 url: /id/net/aspose.psd.fileformats.tiff.filemanagement/tiffstreamreader/readdoublearray/
 ---
+{{< psd/tize >}}
 ## TiffStreamReader.ReadDoubleArray method
 
-Membaca larik nilai ganda dari aliran.
+Membaca sebuah array nilai double dari aliran.
 
 ```csharp
 public double[] ReadDoubleArray(long position, long count)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| position | Int64 | Posisi untuk membaca dari. |
-| count | Int64 | Elemen dihitung. |
+| posisi | Int64 | Posisi untuk membaca dari. |
+| jumlah | Int64 | Jumlah elemen. |
 
-### Nilai Pengembalian
+### Nilai Kembalian
 
-Array nilai ganda.
+Array nilai double.
 
-### Lihat juga
+### Lihat Juga
 
 * class [TiffStreamReader](../)
-* ruang nama [Aspose.PSD.FileFormats.Tiff.FileManagement](../../tiffstreamreader/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff.FileManagement](../../../aspose.psd.fileformats.tiff.filemanagement/)
+* assembly [Aspose.PSD](../../../)
 
 

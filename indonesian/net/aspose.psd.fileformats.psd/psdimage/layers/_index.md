@@ -1,32 +1,33 @@
 ---
-title: PsdImage.Layers
-second_title: Aspose.PSD untuk Referensi .NET API
-description: PsdImage Properti. Mendapat atau menyetel layer PSD.
+title: "PsdImage.Layers"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "PsdImage property. Mendapatkan atau mengatur lapisan PSD"
 type: docs
 weight: 200
 url: /id/net/aspose.psd.fileformats.psd/psdimage/layers/
 ---
+{{< psd/tize >}}
 ## PsdImage.Layers property
 
-Mendapat atau menyetel layer PSD.
+Mendapatkan atau mengatur lapisan PSD.
 
 ```csharp
 public Layer[] Layers { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
 Lapisan PSD.
 
-### Perkataan
+## Catatan
 
-Perhatikan bahwa jika tidak ada lapisan, informasi terkait lainnya di dalam bagian informasi lapisan dan topeng tidak akan dipertahankan (lapisan topeng, sumber daya, dll).
+Catatan bahwa jika tidak ada lapisan, informasi terkait lainnya dalam bagian informasi lapisan dan masker tidak akan dipertahankan (masker lapisan, sumber daya, dll).
 
-### Lihat juga
+### Lihat Juga
 
 * class [Layer](../../../aspose.psd.fileformats.psd.layers/layer/)
 * class [PsdImage](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

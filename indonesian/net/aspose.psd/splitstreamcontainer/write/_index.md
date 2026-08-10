@@ -1,11 +1,12 @@
 ---
-title: SplitStreamContainer.Write
-second_title: Aspose.PSD untuk Referensi .NET API
-description: SplitStreamContainer metode. Menulis semua byte yang ditentukan ke aliran.
+title: "SplitStreamContainer.Write"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "SplitStreamContainer method. Menulis semua byte yang ditentukan ke aliran"
 type: docs
 weight: 170
 url: /id/net/aspose.psd/splitstreamcontainer/write/
 ---
+{{< psd/tize >}}
 ## Write(byte[]) {#write}
 
 Menulis semua byte yang ditentukan ke aliran.
@@ -14,36 +15,36 @@ Menulis semua byte yang ditentukan ke aliran.
 public override void Write(byte[] bytes)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| bytes | Byte[] | Byte untuk menulis. |
+| byte | Byte[] | Byte yang akan ditulis. |
 
-### Lihat juga
+### Lihat Juga
 
 * class [SplitStreamContainer](../)
-* ruang nama [Aspose.PSD](../../splitstreamcontainer/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Write(byte[], int, int) {#write_1}
 
-Menulis urutan byte ke aliran saat ini dan memajukan posisi saat ini dalam aliran ini dengan jumlah byte yang ditulis.
+Menulis urutan byte ke aliran saat ini dan memajukan posisi saat ini dalam aliran ini sebesar jumlah byte yang ditulis.
 
 ```csharp
 public override void Write(byte[] buffer, int offset, int count)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| buffer | Byte[] | Array byte. Metode ini menyalin*count* byte dari*buffer* ke arus saat ini. |
-| offset | Int32 | Offset byte berbasis nol di*buffer*untuk mulai menyalin byte ke aliran saat ini. |
-| count | Int32 | Jumlah byte yang akan ditulis ke aliran saat ini. |
+| buffer | Byte[] | Sebuah array byte. Metode ini menyalin *count* byte dari *buffer* ke aliran saat ini. |
+| offset | Int32 | Offset byte berbasis nol dalam *buffer* tempat mulai menyalin byte ke aliran saat ini. |
+| jumlah | Int32 | Jumlah byte yang akan ditulis ke aliran saat ini. |
 
-### Lihat juga
+### Lihat Juga
 
 * class [SplitStreamContainer](../)
-* ruang nama [Aspose.PSD](../../splitstreamcontainer/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

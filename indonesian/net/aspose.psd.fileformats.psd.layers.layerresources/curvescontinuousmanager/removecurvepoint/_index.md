@@ -1,28 +1,29 @@
 ---
-title: CurvesContinuousManager.RemoveCurvePoint
-second_title: Aspose.PSD untuk Referensi .NET API
-description: CurvesContinuousManager metode. Menghilangkan titik kurva.
+title: "CurvesContinuousManager.RemoveCurvePoint"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode CurvesContinuousManager. Menghapus titik kurva"
 type: docs
 weight: 50
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources/curvescontinuousmanager/removecurvepoint/
 ---
+{{< psd/tize >}}
 ## CurvesContinuousManager.RemoveCurvePoint method
 
-Menghilangkan titik kurva.
+Menghapus titik kurva.
 
 ```csharp
 public void RemoveCurvePoint(int channelIndex, int pointIndex)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
 | channelIndex | Int32 | Indeks saluran. |
-| pointIndex | Int32 | Indeks poin. |
+| pointIndex | Int32 | Indeks titik. |
 
-### Lihat juga
+### Lihat Juga
 
 * class [CurvesContinuousManager](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../curvescontinuousmanager/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

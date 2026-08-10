@@ -1,11 +1,12 @@
 ---
-title: TextShape.Segments
-second_title: Aspose.PSD untuk Referensi .NET API
-description: TextShape Properti. Mendapatkan segmen bentuk.
+title: "TextShape.Segments"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti TextShape. Mendapatkan segmen bentuk"
 type: docs
 weight: 60
 url: /id/net/aspose.psd.shapes/textshape/segments/
 ---
+{{< psd/tize >}}
 ## TextShape.Segments property
 
 Mendapatkan segmen bentuk.
@@ -14,15 +15,15 @@ Mendapatkan segmen bentuk.
 public override ShapeSegment[] Segments { get; }
 ```
 
-### Nilai properti
+### Property Value
 
 Segmen bentuk.
 
-### Lihat juga
+### Lihat Juga
 
 * class [ShapeSegment](../../../aspose.psd/shapesegment/)
 * class [TextShape](../)
-* ruang nama [Aspose.PSD.Shapes](../../textshape/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 

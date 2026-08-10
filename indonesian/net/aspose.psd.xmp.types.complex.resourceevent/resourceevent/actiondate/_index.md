@@ -1,27 +1,28 @@
 ---
-title: ResourceEvent.ActionDate
-second_title: Aspose.PSD untuk Referensi .NET API
-description: ResourceEvent Properti. Mendapat atau menyetel tanggal tindakan.
+title: "ResourceEvent.ActionDate"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti ResourceEvent. Mendapatkan atau mengatur tanggal aksi"
 type: docs
 weight: 30
 url: /id/net/aspose.psd.xmp.types.complex.resourceevent/resourceevent/actiondate/
 ---
+{{< psd/tize >}}
 ## ResourceEvent.ActionDate property
 
-Mendapat atau menyetel tanggal tindakan.
+Mendapatkan atau mengatur tanggal aksi.
 
 ```csharp
 public DateTime ActionDate { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
-Tanggal tindakan.
+Tanggal aksi.
 
-### Lihat juga
+### Lihat Juga
 
 * class [ResourceEvent](../)
-* ruang nama [Aspose.PSD.Xmp.Types.Complex.ResourceEvent](../../resourceevent/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.ResourceEvent](../../../aspose.psd.xmp.types.complex.resourceevent/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: LayerSelectionIdsResource.LayerSelectionIdsResource
-second_title: Aspose.PSD untuk Referensi .NET API
-description: LayerSelectionIdsResource konstruktor. Konstruktor default.
+title: "LayerSelectionIdsResource.LayerSelectionIdsResource"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Konstruktor LayerSelectionIdsResource. Konstruktor default"
 type: docs
 weight: 10
 url: /id/net/aspose.psd.fileformats.psd.resources/layerselectionidsresource/layerselectionidsresource/
 ---
+{{< psd/tize >}}
 ## LayerSelectionIdsResource constructor
 
 Konstruktor default.
@@ -14,10 +15,10 @@ Konstruktor default.
 public LayerSelectionIdsResource()
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [LayerSelectionIdsResource](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Resources](../../layerselectionidsresource/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

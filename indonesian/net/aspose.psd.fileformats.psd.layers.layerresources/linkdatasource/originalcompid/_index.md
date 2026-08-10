@@ -1,22 +1,23 @@
 ---
-title: LinkDataSource.OriginalCompId
-second_title: Aspose.PSD untuk Referensi .NET API
-description: LinkDataSource Properti. Mendapatkan ID asli dari Comp yang saat ini dipilih untuk dokumen anak yang akan menjadi 1 jika tidak ada yang dipilih. Properti ini mendapatkan pengidentifikasi pilihan lapisan Comp asli untuk Smart Objects. Lapisan comps di Smart Objects
+title: "LinkDataSource.OriginalCompId"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti LinkDataSource. Mendapatkan ID asli dari Comp yang saat ini dipilih untuk dokumen anak yang akan menjadi 1 jika tidak ada yang dipilih. Properti ini mendapatkan pengidentifikasi pilihan Comp lapisan asli untuk Smart Objects. Layer comps dalam Smart Objects"
 type: docs
 weight: 100
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/originalcompid/
 ---
+{{< psd/tize >}}
 ## LinkDataSource.OriginalCompId property
 
-Mendapatkan ID asli dari Comp yang saat ini dipilih untuk dokumen anak, yang akan menjadi -1 jika tidak ada yang dipilih. Properti ini mendapatkan pengidentifikasi pilihan lapisan Comp asli untuk Smart Objects. [Lapisan comps di Smart Objects](https://helpx.adobe.com/photoshop/using/layer-comps.html)
+Mendapatkan ID asli dari Comp yang saat ini dipilih untuk dokumen anak, yang akan bernilai -1 jika tidak ada yang dipilih. Properti ini mendapatkan pengidentifikasi pemilihan layer Comp asli untuk Smart Objects. [Layer comps in Smart Objects](https://helpx.adobe.com/photoshop/using/layer-comps.html)
 
 ```csharp
 public int OriginalCompId { get; }
 ```
 
-### Nilai properti
+### Property Value
 
-ID asli dari comp yang dipilih saat ini untuk dokumen anak, yang akan menjadi -1 jika tidak ada yang dipilih.
+ID asli dari comp yang saat ini dipilih untuk dokumen anak, yang akan menjadi -1 jika tidak ada yang dipilih.
 
 ### Pengecualian
 
@@ -24,10 +25,10 @@ ID asli dari comp yang dipilih saat ini untuk dokumen anak, yang akan menjadi -1
 | --- | --- |
 | [PsdImageException](../../../aspose.psd.coreexceptions.imageformats/psdimageexception/) | Anda tidak dapat mengakses properti OriginalCompId |
 
-### Lihat juga
+### Lihat Juga
 
 * class [LinkDataSource](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../linkdatasource/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

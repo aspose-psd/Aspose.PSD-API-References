@@ -1,28 +1,29 @@
 ---
-title: PsdColorPalette.TransparentColor
-second_title: Aspose.PSD untuk Referensi .NET API
-description: PsdColorPalette Properti. Mendapatkan warna transparan.
+title: "PsdColorPalette.TransparentColor"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti PsdColorPalette. Mengambil warna transparan."
 type: docs
 weight: 100
 url: /id/net/aspose.psd.fileformats.psd/psdcolorpalette/transparentcolor/
 ---
+{{< psd/tize >}}
 ## PsdColorPalette.TransparentColor property
 
-Mendapatkan warna transparan.
+Mengambil warna transparan.
 
 ```csharp
 public Color TransparentColor { get; }
 ```
 
-### Nilai properti
+### Property Value
 
 Warna transparan.
 
-### Lihat juga
+### Lihat Juga
 
 * struct [Color](../../../aspose.psd/color/)
 * class [PsdColorPalette](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd](../../psdcolorpalette/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

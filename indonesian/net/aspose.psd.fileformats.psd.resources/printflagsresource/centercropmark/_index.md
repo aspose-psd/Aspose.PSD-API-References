@@ -1,27 +1,28 @@
 ---
-title: PrintFlagsResource.CenterCropMark
-second_title: Aspose.PSD untuk Referensi .NET API
-description: PrintFlagsResource Properti. Mendapat atau menyetel tanda potong tengah.
+title: "PrintFlagsResource.CenterCropMark"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti PrintFlagsResource. Mendapatkan atau mengatur tanda potong tengah"
 type: docs
 weight: 40
 url: /id/net/aspose.psd.fileformats.psd.resources/printflagsresource/centercropmark/
 ---
+{{< psd/tize >}}
 ## PrintFlagsResource.CenterCropMark property
 
-Mendapat atau menyetel tanda potong tengah.
+Mendapatkan atau mengatur tanda potong tengah.
 
 ```csharp
 public byte CenterCropMark { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
 Tanda potong tengah.
 
-### Lihat juga
+### Lihat Juga
 
 * class [PrintFlagsResource](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Resources](../../printflagsresource/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

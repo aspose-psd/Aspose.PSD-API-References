@@ -1,11 +1,12 @@
 ---
-title: CmxRasterizationOptions.CmxRasterizationOptions
-second_title: Aspose.PSD untuk Referensi .NET API
-description: CmxRasterizationOptions konstruktor. Konstruktor default.
+title: "CmxRasterizationOptions.CmxRasterizationOptions"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "CmxRasterizationOptions constructor. Konstruktor default"
 type: docs
 weight: 10
 url: /id/net/aspose.psd.imageoptions/cmxrasterizationoptions/cmxrasterizationoptions/
 ---
+{{< psd/tize >}}
 ## CmxRasterizationOptions constructor
 
 Konstruktor default.
@@ -14,10 +15,10 @@ Konstruktor default.
 public CmxRasterizationOptions()
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [CmxRasterizationOptions](../)
-* ruang nama [Aspose.PSD.ImageOptions](../../cmxrasterizationoptions/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

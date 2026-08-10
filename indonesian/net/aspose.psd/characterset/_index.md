@@ -1,14 +1,15 @@
 ---
-title: Enum CharacterSet
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Aspose.PSD.CharacterSet enum. Mewakili kumpulan karakter yang digunakan.
+title: "Enum CharacterSet"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Enum Aspose.PSD.CharacterSet. Mewakili set karakter yang digunakan"
 type: docs
 weight: 260
 url: /id/net/aspose.psd/characterset/
 ---
+{{< psd/tize >}}
 ## CharacterSet enumeration
 
-Mewakili kumpulan karakter yang digunakan.
+Mewakili set karakter yang digunakan.
 
 ```csharp
 public enum CharacterSet
@@ -16,32 +17,32 @@ public enum CharacterSet
 
 ### Nilai
 
-| Nama | Nilai | Keterangan |
+| Nama | Nilai | Deskripsi |
 | --- | --- | --- |
-| Ansi | `0` | 1252 Latin 1, 1250 Latin 2, 1256 set karakter Arab |
-| Default | `1` | Kumpulan karakter default. |
-| Symbol | `2` | Kumpulan karakter simbol |
-| Shiftjis | `128` | DBCS, kumpulan karakter Jepang 932. |
-| Hangeul | `129` | DBCS, kumpulan karakter Korea 949. |
-| Hangul | `129` | DBCS, kumpulan karakter Korea 949. |
-| Gb2312 | `134` | DBCS, 936 kumpulan karakter Cina Sederhana. |
-| ChineseBig5 | `136` | DBCS, 950 kumpulan karakter Tionghoa Tradisional. |
-| Oem | `255` | 437 MS-DOS Latin 1, 852 MS-DOS Latin 2, 864 MS-DOS Kumpulan karakter Arab. |
-| Johab | `130` | DBCS, kumpulan karakter Korea 1361. |
-| Hebrew | `177` | 1255 set karakter Ibrani. |
-| Arabic | `178` | 1256 kumpulan karakter Arab. |
-| Greek | `161` | 1253 set karakter Yunani. |
-| Turkish | `162` | 1254 set karakter Turki. |
-| Vietnamese | `163` | 1258 set karakter Vietnam. |
-| Thai | `222` | 874 set karakter Thailand. |
-| Easteurope | `238` | 1250 Latin 2, set karakter Eropa Tengah. |
-| Russian | `204` | 1251 kumpulan karakter Sirilik (Slavia). |
-| Mac | `77` | 10000 Mac Roman, 10029 Mac Eropa Tengah, 10007 rangkaian karakter Mac Cyrillic. |
-| Baltic | `186` | 1257 kumpulan karakter Lingkar Baltik. |
+| Ansi | `0` | Set karakter 1252 Latin 1, 1250 Latin 2, 1256 Arab |
+| Default | `1` | Set karakter default. |
+| Symbol | `2` | Set karakter simbol |
+| Shiftjis | `128` | DBCS, set karakter Jepang 932. |
+| Hangeul | `129` | DBCS, set karakter Korea 949. |
+| Hangul | `129` | DBCS, set karakter Korea 949. |
+| Gb2312 | `134` | DBCS, set karakter Cina Sederhana 936. |
+| ChineseBig5 | `136` | DBCS, set karakter Cina Tradisional 950. |
+| Oem | `255` | Set karakter 437 MS-DOS Latin 1, 852 MS-DOS Latin 2, 864 MS-DOS Arab. |
+| Johab | `130` | DBCS, set karakter Korea 1361. |
+| Hebrew | `177` | Set karakter Ibrani 1255. |
+| Arabic | `178` | Set karakter Arab 1256. |
+| Greek | `161` | Set karakter Yunani 1253. |
+| Turkish | `162` | Set karakter Turki 1254. |
+| Vietnamese | `163` | Set karakter Vietnam 1258. |
+| Thai | `222` | Set karakter Thai 874. |
+| Easteurope | `238` | Set karakter 1250 Latin 2, Eropa Tengah. |
+| Russian | `204` | Set karakter Cyrillic (Slavik) 1251. |
+| Mac | `77` | Set karakter 10000 Mac Roman, 10029 Mac Eropa Tengah, 10007 Mac Cyrillic. |
+| Baltic | `186` | Set karakter Baltic Rim 1257. |
 
-### Lihat juga
+### Lihat Juga
 
-* ruang nama [Aspose.PSD](../../aspose.psd/)
-* perakitan [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

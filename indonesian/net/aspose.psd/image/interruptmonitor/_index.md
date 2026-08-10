@@ -1,24 +1,25 @@
 ---
-title: Image.InterruptMonitor
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Image Properti. Mendapat atau menyetel monitor interupsi.
+title: "Image.InterruptMonitor"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti Image. Mengambil atau mengatur interrupt monitor"
 type: docs
 weight: 120
 url: /id/net/aspose.psd/image/interruptmonitor/
 ---
+{{< psd/tize >}}
 ## Image.InterruptMonitor property
 
-Mendapat atau menyetel monitor interupsi.
+Mendapatkan atau mengatur monitor interupsi.
 
 ```csharp
 public InterruptMonitor InterruptMonitor { get; set; }
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [InterruptMonitor](../../../aspose.psd.multithreading/interruptmonitor/)
 * class [Image](../)
-* ruang nama [Aspose.PSD](../../image/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

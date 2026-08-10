@@ -1,28 +1,29 @@
 ---
-title: LinearGradientBrush.EndColor
-second_title: Aspose.PSD untuk Referensi .NET API
-description: LinearGradientBrush Properti. Mendapat atau menyetel warna gradien akhir.
+title: "LinearGradientBrush.EndColor"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti LinearGradientBrush. Mendapatkan atau mengatur warna gradasi akhir"
 type: docs
 weight: 30
 url: /id/net/aspose.psd.brushes/lineargradientbrush/endcolor/
 ---
+{{< psd/tize >}}
 ## LinearGradientBrush.EndColor property
 
-Mendapat atau menyetel warna gradien akhir.
+Mendapatkan atau mengatur warna akhir gradien.
 
 ```csharp
 public Color EndColor { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
-Warna gradien akhir.
+Warna gradasi akhir.
 
-### Lihat juga
+### Lihat Juga
 
 * struct [Color](../../../aspose.psd/color/)
 * class [LinearGradientBrush](../)
-* ruang nama [Aspose.PSD.Brushes](../../lineargradientbrush/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
+* assembly [Aspose.PSD](../../../)
 
 

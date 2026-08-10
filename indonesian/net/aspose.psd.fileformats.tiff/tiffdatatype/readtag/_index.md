@@ -1,11 +1,12 @@
 ---
-title: TiffDataType.ReadTag
-second_title: Aspose.PSD untuk Referensi .NET API
-description: TiffDataType metode. Membaca data tag.
+title: "TiffDataType.ReadTag"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "TiffDataType method. Membaca data tag"
 type: docs
 weight: 10
 url: /id/net/aspose.psd.fileformats.tiff/tiffdatatype/readtag/
 ---
+{{< psd/tize >}}
 ## TiffDataType.ReadTag method
 
 Membaca data tag.
@@ -14,26 +15,26 @@ Membaca data tag.
 public static TiffDataType ReadTag(TiffStreamReader dataStream, long position)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
 | dataStream | TiffStreamReader | Aliran data. |
-| position | Int64 | Posisi tag. |
+| posisi | Int64 | Posisi tag. |
 
-### Nilai Pengembalian
+### Nilai Kembalian
 
-Tag baca.
+Tag yang dibaca.
 
 ### Pengecualian
 
 | pengecualian | kondisi |
 | --- | --- |
-| ArgumentNullException | aliran data |
+| ArgumentNullException | dataStream |
 
-### Lihat juga
+### Lihat Juga
 
 * class [TiffStreamReader](../../../aspose.psd.fileformats.tiff.filemanagement/tiffstreamreader/)
 * class [TiffDataType](../)
-* ruang nama [Aspose.PSD.FileFormats.Tiff](../../tiffdatatype/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff](../../../aspose.psd.fileformats.tiff/)
+* assembly [Aspose.PSD](../../../)
 
 

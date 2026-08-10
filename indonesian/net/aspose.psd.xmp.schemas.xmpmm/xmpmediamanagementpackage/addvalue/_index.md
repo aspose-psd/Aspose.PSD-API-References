@@ -1,11 +1,12 @@
 ---
-title: XmpMediaManagementPackage.AddValue
-second_title: Aspose.PSD untuk Referensi .NET API
-description: XmpMediaManagementPackage metode. Menambahkan properti string.
+title: "XmpMediaManagementPackage.AddValue"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "XmpMediaManagementPackage method. Menambahkan properti string"
 type: docs
 weight: 20
 url: /id/net/aspose.psd.xmp.schemas.xmpmm/xmpmediamanagementpackage/addvalue/
 ---
+{{< psd/tize >}}
 ## XmpMediaManagementPackage.AddValue method
 
 Menambahkan properti string.
@@ -14,15 +15,15 @@ Menambahkan properti string.
 public override void AddValue(string key, string value)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| key | String | Representasi string kunci yang diidentifikasi dengan nilai tambah. |
-| value | String | Nilai string. |
+| kunci | String | Representasi string dari kunci yang diidentifikasi dengan nilai yang ditambahkan. |
+| nilai | String | Nilai string. |
 
-### Lihat juga
+### Lihat Juga
 
 * class [XmpMediaManagementPackage](../)
-* ruang nama [Aspose.PSD.Xmp.Schemas.XmpMm](../../xmpmediamanagementpackage/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpMm](../../../aspose.psd.xmp.schemas.xmpmm/)
+* assembly [Aspose.PSD](../../../)
 
 

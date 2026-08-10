@@ -1,23 +1,24 @@
 ---
-title: BuildVersionInfo.AssemblyVersion
-second_title: Aspose.PSD untuk Referensi .NET API
-description: BuildVersionInfo bidang. Versi rakitan.
+title: "BuildVersionInfo.AssemblyVersion"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Field BuildVersionInfo. Versi assembly"
 type: docs
 weight: 10
 url: /id/net/aspose.psd/buildversioninfo/assemblyversion/
 ---
+{{< psd/tize >}}
 ## BuildVersionInfo.AssemblyVersion field
 
-Versi rakitan.
+Versi assembly.
 
 ```csharp
 public static readonly string AssemblyVersion;
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [BuildVersionInfo](../)
-* ruang nama [Aspose.PSD](../../buildversioninfo/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

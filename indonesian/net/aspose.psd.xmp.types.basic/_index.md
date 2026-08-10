@@ -1,21 +1,22 @@
 ---
-title: Aspose.PSD.Xmp.Types.Basic
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Ruang nama berisi kelas yang mewakili nilai tipe dasar properti XMP.
+title: "Aspose.PSD.Xmp.Types.Basic"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Namespace ini berisi kelas yang mewakili nilai tipe dasar dari properti XMP"
 type: docs
-weight: 610
+weight: 650
 url: /id/net/aspose.psd.xmp.types.basic/
 ---
-Ruang nama berisi kelas yang mewakili nilai tipe dasar properti XMP.
+{{< psd/tize >}}
+Namespace berisi kelas yang mewakili nilai tipe dasar properti XMP.
 
 ## Kelas
 
-| Kelas | Keterangan |
+| Kelas | Deskripsi |
 | --- | --- |
 | [XmpBoolean](./xmpboolean/) | Mewakili tipe dasar Boolean XMP. |
-| [XmpDate](./xmpdate/) | Merupakan Tanggal dalam paket XMP. |
-| [XmpInteger](./xmpinteger/) | Mewakili tipe dasar Integer XMP. |
-| [XmpReal](./xmpreal/) | Mewakili XMP Nyata. |
-| [XmpText](./xmptext/) | Mewakili tipe dasar Teks XMP. |
+| [XmpDate](./xmpdate/) | Mewakili Tanggal dalam paket XMP. |
+| [XmpInteger](./xmpinteger/) | Mewakili tipe dasar XMP Integer. |
+| [XmpReal](./xmpreal/) | Mewakili XMP Real. |
+| [XmpText](./xmptext/) | Mewakili tipe dasar XMP Text. |
 
 

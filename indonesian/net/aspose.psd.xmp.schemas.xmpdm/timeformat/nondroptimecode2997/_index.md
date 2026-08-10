@@ -1,27 +1,28 @@
 ---
-title: TimeFormat.NonDropTimecode2997
-second_title: Aspose.PSD untuk Referensi .NET API
-description: TimeFormat Properti. Mendapat kode waktu nondrop2997.
+title: "TimeFormat.NonDropTimecode2997"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti TimeFormat. Mendapatkan non drop timecode2997"
 type: docs
 weight: 30
 url: /id/net/aspose.psd.xmp.schemas.xmpdm/timeformat/nondroptimecode2997/
 ---
+{{< psd/tize >}}
 ## TimeFormat.NonDropTimecode2997 property
 
-Mendapat kode waktu non-drop2997.
+Mendapatkan timecode non-drop 2997.
 
 ```csharp
 public static TimeFormat NonDropTimecode2997 { get; }
 ```
 
-### Nilai properti
+### Property Value
 
-Kode waktu non-drop2997.
+non drop timecode2997.
 
-### Lihat juga
+### Lihat Juga
 
 * class [TimeFormat](../)
-* ruang nama [Aspose.PSD.Xmp.Schemas.XmpDm](../../timeformat/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpDm](../../../aspose.psd.xmp.schemas.xmpdm/)
+* assembly [Aspose.PSD](../../../)
 
 

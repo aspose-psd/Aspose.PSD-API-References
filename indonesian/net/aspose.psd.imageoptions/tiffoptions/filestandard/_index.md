@@ -1,28 +1,29 @@
 ---
-title: TiffOptions.FileStandard
-second_title: Aspose.PSD untuk Referensi .NET API
-description: TiffOptions Properti. Mendapat atau menyetel standar file TIFF.
+title: "TiffOptions.FileStandard"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti TiffOptions. Mendapatkan atau mengatur standar file TIFF"
 type: docs
-weight: 150
+weight: 160
 url: /id/net/aspose.psd.imageoptions/tiffoptions/filestandard/
 ---
+{{< psd/tize >}}
 ## TiffOptions.FileStandard property
 
-Mendapat atau menyetel standar file TIFF.
+Mendapatkan atau mengatur standar file TIFF.
 
 ```csharp
 public TiffFileStandards FileStandard { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
 Standar file TIFF.
 
-### Lihat juga
+### Lihat Juga
 
 * enum [TiffFileStandards](../../../aspose.psd.fileformats.tiff.enums/tifffilestandards/)
 * class [TiffOptions](../)
-* ruang nama [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

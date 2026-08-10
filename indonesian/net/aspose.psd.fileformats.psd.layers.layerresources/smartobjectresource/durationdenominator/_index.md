@@ -1,27 +1,28 @@
 ---
-title: SmartObjectResource.DurationDenominator
-second_title: Aspose.PSD untuk Referensi .NET API
-description: SmartObjectResource Properti. Mendapatkan atau menyetel penyebut durasi.
+title: "SmartObjectResource.DurationDenominator"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "SmartObjectResource Properti. Mendapatkan atau mengatur penyebut durasi"
 type: docs
 weight: 50
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/durationdenominator/
 ---
+{{< psd/tize >}}
 ## SmartObjectResource.DurationDenominator property
 
-Mendapatkan atau menyetel penyebut durasi.
+Mendapatkan atau mengatur penyebut durasi.
 
 ```csharp
 public int DurationDenominator { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
 Penyebut durasi.
 
-### Lihat juga
+### Lihat Juga
 
 * class [SmartObjectResource](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../smartobjectresource/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

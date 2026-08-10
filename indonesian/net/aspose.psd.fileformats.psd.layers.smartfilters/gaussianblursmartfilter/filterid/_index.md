@@ -1,23 +1,24 @@
 ---
-title: GaussianBlurSmartFilter.FilterId
-second_title: Aspose.PSD untuk Referensi .NET API
-description: GaussianBlurSmartFilter Properti. Mendapat pengidentifikasi jenis filter pintar.
+title: "GaussianBlurSmartFilter.FilterId"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "GaussianBlurSmartFilter properti. Mendapatkan pengidentifikasi tipe filter pintar"
 type: docs
 weight: 20
 url: /id/net/aspose.psd.fileformats.psd.layers.smartfilters/gaussianblursmartfilter/filterid/
 ---
+{{< psd/tize >}}
 ## GaussianBlurSmartFilter.FilterId property
 
-Mendapat pengidentifikasi jenis filter pintar.
+Mendapatkan pengidentifikasi tipe filter pintar.
 
 ```csharp
 public override int FilterId { get; }
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [GaussianBlurSmartFilter](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.SmartFilters](../../gaussianblursmartfilter/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.SmartFilters](../../../aspose.psd.fileformats.psd.layers.smartfilters/)
+* assembly [Aspose.PSD](../../../)
 
 

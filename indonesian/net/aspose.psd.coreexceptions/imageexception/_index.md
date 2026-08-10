@@ -1,11 +1,12 @@
 ---
-title: Class ImageException
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Aspose.PSD.CoreExceptions.ImageException kelas. Pengecualian gambar.
+title: "Kelas ImageException"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Aspose.PSD.CoreExceptions.ImageException class. Pengecualian gambar"
 type: docs
 weight: 500
 url: /id/net/aspose.psd.coreexceptions/imageexception/
 ---
+{{< psd/tize >}}
 ## ImageException class
 
 Pengecualian gambar.
@@ -16,14 +17,14 @@ public class ImageException : Exception
 
 ## Konstruktor
 
-| Nama | Keterangan |
+| Nama | Deskripsi |
 | --- | --- |
-| [ImageException](imageexception/#constructor)(string) | Menginisialisasi instance baru dari`ImageException` kelas. |
-| [ImageException](imageexception/#constructor_1)(string, Exception) | Menginisialisasi instance baru dari`ImageException` kelas. |
+| [ImageException](imageexception/#constructor)(string) | Menginisialisasi instance baru dari kelas `ImageException`. |
+| [ImageException](imageexception/#constructor_1)(string, Exception) | Menginisialisasi instance baru dari kelas `ImageException`. |
 
-### Lihat juga
+### Lihat Juga
 
-* ruang nama [Aspose.PSD.CoreExceptions](../../aspose.psd.coreexceptions/)
-* perakitan [Aspose.PSD](../../)
+* namespace [Aspose.PSD.CoreExceptions](../../aspose.psd.coreexceptions/)
+* assembly [Aspose.PSD](../../)
 
 

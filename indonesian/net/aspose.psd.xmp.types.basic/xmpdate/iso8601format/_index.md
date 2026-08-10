@@ -1,27 +1,28 @@
 ---
-title: XmpDate.Iso8601Format
-second_title: Aspose.PSD untuk Referensi .NET API
-description: XmpDate bidang. String format ISO 8601 pulang pergi.
+title: "XmpDate.Iso8601Format"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Field XmpDate. String format ISO 8601 untuk roundtrip."
 type: docs
 weight: 50
 url: /id/net/aspose.psd.xmp.types.basic/xmpdate/iso8601format/
 ---
+{{< psd/tize >}}
 ## XmpDate.Iso8601Format field
 
-String format ISO 8601 (pulang pergi).
+String format ISO 8601 (roundtrip).
 
 ```csharp
 public const string Iso8601Format;
 ```
 
-### Perkataan
+## Catatan
 
 Lihat selengkapnya: https://en.wikipedia.org/wiki/ISO_8601.
 
-### Lihat juga
+### Lihat Juga
 
 * class [XmpDate](../)
-* ruang nama [Aspose.PSD.Xmp.Types.Basic](../../xmpdate/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Basic](../../../aspose.psd.xmp.types.basic/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,23 +1,24 @@
 ---
-title: Namespaces.XmpTypeDimensions
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Namespaces bidang. Tipe Dimensi XMP.
+title: "Namespaces.XmpTypeDimensions"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Bidang Namespaces. tipe XMP Dimensions"
 type: docs
 weight: 120
 url: /id/net/aspose.psd.xmp/namespaces/xmptypedimensions/
 ---
+{{< psd/tize >}}
 ## Namespaces.XmpTypeDimensions field
 
-Tipe Dimensi XMP.
+Tipe XMP Dimensions.
 
 ```csharp
 public const string XmpTypeDimensions;
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [Namespaces](../)
-* ruang nama [Aspose.PSD.Xmp](../../namespaces/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

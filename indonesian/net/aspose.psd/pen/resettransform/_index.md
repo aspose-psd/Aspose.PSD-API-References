@@ -1,23 +1,24 @@
 ---
-title: Pen.ResetTransform
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Pen metode. Mereset matriks transformasi geometrik untuk iniPen ke identitas.
+title: "Pen.ResetTransform"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode Pen. Mengatur ulang matriks transformasi geometrik untuk Pen ini ke identitas"
 type: docs
 weight: 200
 url: /id/net/aspose.psd/pen/resettransform/
 ---
+{{< psd/tize >}}
 ## Pen.ResetTransform method
 
-Mereset matriks transformasi geometrik untuk ini[`Pen`](../) ke identitas.
+Mengatur ulang matriks transformasi geometrik untuk [`Pen`](../) ini ke identitas.
 
 ```csharp
 public void ResetTransform()
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [Pen](../)
-* ruang nama [Aspose.PSD](../../pen/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

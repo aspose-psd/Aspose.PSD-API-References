@@ -1,33 +1,34 @@
 ---
-title: Image.GetProportionalWidth
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Image metode. Mendapat lebar proporsional.
+title: "Image.GetProportionalWidth"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode Image. Mendapatkan lebar proporsional"
 type: docs
-weight: 290
+weight: 300
 url: /id/net/aspose.psd/image/getproportionalwidth/
 ---
+{{< psd/tize >}}
 ## Image.GetProportionalWidth method
 
-Mendapat lebar proporsional.
+Mendapatkan lebar proporsional.
 
 ```csharp
 public static int GetProportionalWidth(int width, int height, int newHeight)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| width | Int32 | Lebar. |
-| height | Int32 | Ketinggian. |
-| newHeight | Int32 | Ketinggian baru. |
+| lebar | Int32 | Lebar. |
+| tinggi | Int32 | Tinggi. |
+| newHeight | Int32 | Tinggi baru. |
 
-### Nilai Pengembalian
+### Nilai Kembalian
 
 Lebar proporsional.
 
-### Lihat juga
+### Lihat Juga
 
 * class [Image](../)
-* ruang nama [Aspose.PSD](../../image/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

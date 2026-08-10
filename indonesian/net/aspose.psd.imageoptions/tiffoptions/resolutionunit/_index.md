@@ -1,28 +1,29 @@
 ---
-title: TiffOptions.ResolutionUnit
-second_title: Aspose.PSD untuk Referensi .NET API
-description: TiffOptions Properti. Mendapat atau menyetel unit resolusi.
+title: "TiffOptions.ResolutionUnit"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti TiffOptions. Mendapatkan atau mengatur unit resolusi"
 type: docs
-weight: 370
+weight: 380
 url: /id/net/aspose.psd.imageoptions/tiffoptions/resolutionunit/
 ---
+{{< psd/tize >}}
 ## TiffOptions.ResolutionUnit property
 
-Mendapat atau menyetel unit resolusi.
+Mendapatkan atau mengatur satuan resolusi.
 
 ```csharp
 public TiffResolutionUnits ResolutionUnit { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
-Satuan resolusi.
+Unit resolusi.
 
-### Lihat juga
+### Lihat Juga
 
 * enum [TiffResolutionUnits](../../../aspose.psd.fileformats.tiff.enums/tiffresolutionunits/)
 * class [TiffOptions](../)
-* ruang nama [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

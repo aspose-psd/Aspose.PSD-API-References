@@ -1,28 +1,29 @@
 ---
-title: Aspose.PSD.Xmp.Schemas.XmpDm
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Ruang nama berisi kelas pembantu terkait XMP konstanta dan metode yang digunakan oleh grup media dinamis Adobe.
+title: "Aspose.PSD.Xmp.Schemas.XmpDm"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Namespace ini berisi kelas pembantu, konstanta, dan metode terkait XMP yang digunakan oleh grup media dinamis Adobe"
 type: docs
-weight: 570
+weight: 610
 url: /id/net/aspose.psd.xmp.schemas.xmpdm/
 ---
-Ruang nama berisi kelas pembantu terkait XMP, konstanta, dan metode yang digunakan oleh grup media dinamis Adobe.
+{{< psd/tize >}}
+Namespace berisi kelas pembantu, konstanta, dan metode terkait XMP yang digunakan oleh grup media dinamis Adobe.
 
 ## Kelas
 
-| Kelas | Keterangan |
+| Kelas | Deskripsi |
 | --- | --- |
-| [AudioChannelType](./audiochanneltype/) | Mewakili jenis saluran audio. |
-| [AudioSampleType](./audiosampletype/) | Mewakili jenis sampel Audio[`XmpDynamicMediaPackage`](../aspose.psd.xmp.schemas.xmpdm/xmpdynamicmediapackage/) . |
+| [AudioChannelType](./audiochanneltype/) | Mewakili tipe saluran audio. |
+| [AudioSampleType](./audiosampletype/) | Mewakili tipe sampel Audio dalam [`XmpDynamicMediaPackage`](../aspose.psd.xmp.schemas.xmpdm/xmpdynamicmediapackage/). |
 | [ProjectLink](./projectlink/) | Mewakili jalur proyek. |
 | [Time](./time/) | Representasi nilai waktu dalam detik. |
-| [Timecode](./timecode/) | Mewakili nilai kode waktu dalam video. |
-| [TimeFormat](./timeformat/) | Merupakan format waktu di[`Timecode`](../aspose.psd.xmp.schemas.xmpdm/timecode/) . |
-| [XmpDynamicMediaPackage](./xmpdynamicmediapackage/) | Mewakili ruang nama Media Dinamis XMP. |
-## Pencacahan
+| [Timecode](./timecode/) | Mewakili nilai timecode dalam video. |
+| [TimeFormat](./timeformat/) | Mewakili format waktu dalam [`Timecode`](../aspose.psd.xmp.schemas.xmpdm/timecode/). |
+| [XmpDynamicMediaPackage](./xmpdynamicmediapackage/) | Mewakili namespace XMP Dynamic Media. |
+## Enumerasi
 
-| Pencacahan | Keterangan |
+| Enumerasi | Deskripsi |
 | --- | --- |
-| [ProjectType](./projecttype/) | Mewakili jenis proyek[`XmpDynamicMediaPackage`](../aspose.psd.xmp.schemas.xmpdm/xmpdynamicmediapackage/) . |
+| [ProjectType](./projecttype/) | Mewakili tipe proyek dalam [`XmpDynamicMediaPackage`](../aspose.psd.xmp.schemas.xmpdm/xmpdynamicmediapackage/). |
 
 

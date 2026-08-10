@@ -1,11 +1,12 @@
 ---
-title: Class LayerState
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Aspose.PSD.FileFormats.Psd.Layers.Animation.LayerState kelas. Opsi status lapisan garis waktu.
+title: "Kelas LayerState"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Aspose.PSD.FileFormats.Psd.Layers.Animation.LayerState class. Opsi status lapisan pada timeline"
 type: docs
-weight: 1860
+weight: 1960
 url: /id/net/aspose.psd.fileformats.psd.layers.animation/layerstate/
 ---
+{{< psd/tize >}}
 ## LayerState class
 
 Opsi status lapisan garis waktu.
@@ -16,27 +17,27 @@ public sealed class LayerState
 
 ## Konstruktor
 
-| Nama | Keterangan |
+| Nama | Deskripsi |
 | --- | --- |
-| [LayerState](layerstate/)(int) | Menginisialisasi instance baru dari`LayerState` kelas. |
+| [LayerState](layerstate/)() | Konstruktor default. |
 
 ## Properti
 
-| Nama | Keterangan |
+| Nama | Deskripsi |
 | --- | --- |
-| [BlendMode](../../aspose.psd.fileformats.psd.layers.animation/layerstate/blendmode/) { get; set; } | Mendapatkan atau menyetel mode campuran. |
-| [Enabled](../../aspose.psd.fileformats.psd.layers.animation/layerstate/enabled/) { get; set; } | Mendapat atau menyetel status aktif. |
-| [FillOpacity](../../aspose.psd.fileformats.psd.layers.animation/layerstate/fillopacity/) { get; set; } | Mendapat atau menyetel nilai opasitas isian. |
-| [HorizontalFXRf](../../aspose.psd.fileformats.psd.layers.animation/layerstate/horizontalfxrf/) { get; set; } | Mendapat atau menetapkan nilai HorizontalFXRf. |
-| [Id](../../aspose.psd.fileformats.psd.layers.animation/layerstate/id/) { get; set; } | Mendapat atau mengatur id. |
-| [Opacity](../../aspose.psd.fileformats.psd.layers.animation/layerstate/opacity/) { get; set; } | Mendapat atau mengatur nilai opacity. |
-| [PositionOffset](../../aspose.psd.fileformats.psd.layers.animation/layerstate/positionoffset/) { get; set; } | Mendapat atau menyetel offset posisi lapisan yang terkait dengan posisi lapisan sebenarnya. |
-| [StateEffects](../../aspose.psd.fileformats.psd.layers.animation/layerstate/stateeffects/) { get; } | Mendapat efek status lapisan. |
-| [VerticalFXRf](../../aspose.psd.fileformats.psd.layers.animation/layerstate/verticalfxrf/) { get; set; } | Mendapat atau menyetel nilai VerticalFXRf. |
+| [BlendMode](../../aspose.psd.fileformats.psd.layers.animation/layerstate/blendmode/) { get; set; } | Mendapatkan atau mengatur mode pencampuran. |
+| [Enabled](../../aspose.psd.fileformats.psd.layers.animation/layerstate/enabled/) { get; set; } | Mendapatkan atau mengatur status aktif. |
+| [FillOpacity](../../aspose.psd.fileformats.psd.layers.animation/layerstate/fillopacity/) { get; set; } | Mendapatkan atau mengatur nilai opacity isi. |
+| [HorizontalFXRf](../../aspose.psd.fileformats.psd.layers.animation/layerstate/horizontalfxrf/) { get; set; } | Mendapatkan atau mengatur nilai HorizontalFXRf. |
+| [Id](../../aspose.psd.fileformats.psd.layers.animation/layerstate/id/) { get; set; } | Mendapatkan atau mengatur id lapisan. |
+| [Opacity](../../aspose.psd.fileformats.psd.layers.animation/layerstate/opacity/) { get; set; } | Mendapatkan atau mengatur nilai opacity. |
+| [PositionOffset](../../aspose.psd.fileformats.psd.layers.animation/layerstate/positionoffset/) { get; set; } | Mendapatkan atau mengatur offset posisi lapisan yang terkait dengan posisi lapisan sebenarnya. |
+| [StateEffects](../../aspose.psd.fileformats.psd.layers.animation/layerstate/stateeffects/) { get; } | Mendapatkan efek status lapisan. |
+| [VerticalFXRf](../../aspose.psd.fileformats.psd.layers.animation/layerstate/verticalfxrf/) { get; set; } | Mendapatkan atau mengatur nilai VerticalFXRf. |
 
-### Contoh
+## Contoh
 
-Kelas TimeLine memberikan kemampuan tingkat tinggi untuk memanipulasi garis waktu PsdImage, seperti mengubah penundaan bingkai atau mengedit status lapisan pada bingkai tertentu.
+Kelas Timeline memberikan kemampuan tingkat tinggi untuk memanipulasi timeline PsdImage, seperti mengubah penundaan frame atau menyunting status lapisan pada frame tertentu.
 
 ```csharp
 [C#]
@@ -46,40 +47,39 @@ string outputPsd = "output_image800.psd";
 
 using (PsdImage psdImage = (PsdImage)Image.Load(sourceFile))
 {
-    TimeLine timeLine = TimeLine.InitializeFrom(psdImage);
+    Timeline timeline = psdImage.Timeline;
 
-    // Ubah metode pembuangan frame 1
-    timeLine.Frames[0].DisposalMethod = FrameDisposalMethod.DoNotDispose;
+    // Ubah metode dispose pada frame 1
+    timeline.Frames[0].DisposalMethod = FrameDisposalMethod.DoNotDispose;
 
-    // Ubah delay frame 2
-    timeLine.Frames[1].Delay = 15;
+    // Ubah penundaan pada frame 2
+    timeline.Frames[1].Delay = 15;
 
-    // Ubah opasitas 'Lapisan 1' pada bingkai 2
-    LayerState layerState11 = timeLine.Frames[1].LayerStates[timeLine.LayerIds[1]];
+    // Ubah opasitas 'Layer 1' pada frame 2
+    LayerState layerState11 = timeline.Frames[1].LayerStates[1];
     layerState11.Opacity = 50;
 
-    // pindahkan 'Lapisan 1' ke pojok kiri bawah pada bingkai 3
-    LayerState layerState21 = timeLine.Frames[2].LayerStates[timeLine.LayerIds[1]];
+    // Pindahkan 'Layer 1' ke sudut kiri-bawah pada frame 3
+    LayerState layerState21 = timeline.Frames[2].LayerStates[1];
     layerState21.PositionOffset = new Point(-50, 230);
 
-    // Menambahkan bingkai baru
-    List<Frame> frames = new List<Frame>(timeLine.Frames);
-    frames.Add(new Frame(timeLine));
-    timeLine.Frames = frames.ToArray();
+    // Menambahkan frame baru
+    List<Frame> frames = new List<Frame>(timeline.Frames);
+    frames.Add(new Frame());
+    timeline.Frames = frames.ToArray();
 
     // Ubah blendMode dari 'Layer 1' pada frame 4
-    LayerState layerState31 = timeLine.Frames[3].LayerStates[timeLine.LayerIds[1]];
+    LayerState layerState31 = timeline.Frames[3].LayerStates[1];
     layerState31.BlendMode = BlendMode.Dissolve;
 
-    // Menerapkan perubahan kembali ke instance PsdImage
-    timeLine.ApplyTo(psdImage);
+    // Terapkan perubahan kembali ke instance PsdImage
     psdImage.Save(outputPsd);
 }
 ```
 
-### Lihat juga
+### Lihat Juga
 
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.Animation](../../aspose.psd.fileformats.psd.layers.animation/)
-* perakitan [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.Animation](../../aspose.psd.fileformats.psd.layers.animation/)
+* assembly [Aspose.PSD](../../)
 
 

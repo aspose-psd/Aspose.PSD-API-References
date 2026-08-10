@@ -1,31 +1,32 @@
 ---
-title: Blend.Equals
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Blend metode. Menguji apakah objek yang ditentukan adalah aBlend kelas dan setara dengan iniBlend kelas.
+title: "Blend.Equals"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode Blend. Menguji apakah objek yang ditentukan adalah kelas Blend dan setara dengan kelas Blend ini."
 type: docs
 weight: 40
 url: /id/net/aspose.psd/blend/equals/
 ---
+{{< psd/tize >}}
 ## Blend.Equals method
 
-Menguji apakah objek yang ditentukan adalah a[`Blend`](../) kelas dan setara dengan ini[`Blend`](../) kelas.
+Menguji apakah objek yang ditentukan adalah kelas [`Blend`](../) dan setara dengan kelas [`Blend`](../) ini.
 
 ```csharp
 public override bool Equals(object obj)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
 | obj | Object | Objek yang akan diuji. |
 
-### Nilai Pengembalian
+### Nilai Kembalian
 
-Benar jika*obj* adalah[`Blend`](../) kelas setara dengan ini[`Blend`](../) kelas; jika tidak, salah.
+Benar jika *obj* adalah kelas [`Blend`](../) yang setara dengan kelas [`Blend`](../) ini; jika tidak, salah.
 
-### Lihat juga
+### Lihat Juga
 
 * class [Blend](../)
-* ruang nama [Aspose.PSD](../../blend/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

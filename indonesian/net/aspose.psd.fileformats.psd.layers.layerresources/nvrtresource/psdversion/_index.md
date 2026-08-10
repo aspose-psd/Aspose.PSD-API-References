@@ -1,11 +1,12 @@
 ---
-title: NvrtResource.PsdVersion
-second_title: Aspose.PSD untuk Referensi .NET API
-description: NvrtResource Properti. Mendapatkan versi PSD.
+title: "NvrtResource.PsdVersion"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti NvrtResource. Mendapatkan versi PSD"
 type: docs
 weight: 40
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources/nvrtresource/psdversion/
 ---
+{{< psd/tize >}}
 ## NvrtResource.PsdVersion property
 
 Mendapatkan versi PSD.
@@ -14,10 +15,10 @@ Mendapatkan versi PSD.
 public override int PsdVersion { get; }
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [NvrtResource](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../nvrtresource/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

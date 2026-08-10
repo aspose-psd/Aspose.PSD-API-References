@@ -1,27 +1,28 @@
 ---
-title: LayerMaskDataShort.Padding
-second_title: Aspose.PSD untuk Referensi .NET API
-description: LayerMaskDataShort Properti. Mendapat atau menyetel padding layer mask.
+title: "LayerMaskDataShort.Padding"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti LayerMaskDataShort. Mendapatkan atau mengatur padding masker lapisan"
 type: docs
 weight: 20
 url: /id/net/aspose.psd.fileformats.psd.layers/layermaskdatashort/padding/
 ---
+{{< psd/tize >}}
 ## LayerMaskDataShort.Padding property
 
-Mendapat atau menyetel padding layer mask.
+Mendapatkan atau mengatur padding masker lapisan.
 
 ```csharp
 public short Padding { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
-Padding layer mask.
+Padding masker lapisan.
 
-### Lihat juga
+### Lihat Juga
 
 * class [LayerMaskDataShort](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers](../../layermaskdatashort/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

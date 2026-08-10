@@ -1,28 +1,29 @@
 ---
-title: ImageLoadersRegistry.Register
-second_title: Aspose.PSD untuk Referensi .NET API
-description: ImageLoadersRegistry metode. Mendaftarkan deskripsi pemuat gambar yang ditentukan.
+title: "ImageLoadersRegistry.Register"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode ImageLoadersRegistry. Mendaftarkan deskriptor pemuat gambar yang ditentukan"
 type: docs
 weight: 70
 url: /id/net/aspose.psd/imageloadersregistry/register/
 ---
+{{< psd/tize >}}
 ## ImageLoadersRegistry.Register method
 
-Mendaftarkan deskripsi pemuat gambar yang ditentukan.
+Mendaftarkan deskriptor pemuat gambar yang ditentukan.
 
 ```csharp
 public static void Register(IImageLoaderDescriptor imageLoaderDescriptor)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
 | imageLoaderDescriptor | IImageLoaderDescriptor | Deskriptor pemuat gambar. |
 
-### Lihat juga
+### Lihat Juga
 
 * interface [IImageLoaderDescriptor](../../iimageloaderdescriptor/)
 * class [ImageLoadersRegistry](../)
-* ruang nama [Aspose.PSD](../../imageloadersregistry/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

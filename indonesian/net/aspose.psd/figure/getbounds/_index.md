@@ -1,61 +1,62 @@
 ---
-title: Figure.GetBounds
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Figure metode. Mendapat batas objek.
+title: "Figure.GetBounds"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode Figure. Mendapatkan batas objek"
 type: docs
 weight: 80
 url: /id/net/aspose.psd/figure/getbounds/
 ---
+{{< psd/tize >}}
 ## GetBounds(Matrix) {#getbounds}
 
-Mendapat batas objek.
+Mendapatkan batas objek.
 
 ```csharp
 public override RectangleF GetBounds(Matrix matrix)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| matrix | Matrix | Matriks yang diterapkan sebelum batas akan dihitung. |
+| matriks | Matrix | Matriks yang akan diterapkan sebelum batas dihitung. |
 
-### Nilai Pengembalian
+### Nilai Kembalian
 
-Batas objek yang diestimasi.
+Batas perkiraan objek.
 
-### Lihat juga
+### Lihat Juga
 
 * struct [RectangleF](../../rectanglef/)
 * class [Matrix](../../matrix/)
 * class [Figure](../)
-* ruang nama [Aspose.PSD](../../figure/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## GetBounds(Matrix, Pen) {#getbounds_1}
 
-Mendapat batas objek.
+Mendapatkan batas objek.
 
 ```csharp
 public override RectangleF GetBounds(Matrix matrix, Pen pen)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| matrix | Matrix | Matriks yang diterapkan sebelum batas akan dihitung. |
-| pen | Pen | Pena yang akan digunakan untuk objek. Ini dapat memengaruhi ukuran batas objek. |
+| matriks | Matrix | Matriks yang akan diterapkan sebelum batas dihitung. |
+| pena | Pen | Pena yang digunakan untuk objek. Ini dapat memengaruhi ukuran batas objek. |
 
-### Nilai Pengembalian
+### Nilai Kembalian
 
-Batas objek yang diestimasi.
+Batas perkiraan objek.
 
-### Lihat juga
+### Lihat Juga
 
 * struct [RectangleF](../../rectanglef/)
 * class [Matrix](../../matrix/)
 * class [Pen](../../pen/)
 * class [Figure](../)
-* ruang nama [Aspose.PSD](../../figure/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

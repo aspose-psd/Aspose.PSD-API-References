@@ -1,14 +1,15 @@
 ---
-title: Class VectorShapeOriginSettings
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Aspose.PSD.FileFormats.Core.VectorPaths.VectorShapeOriginSettings kelas. Pengaturan originasi bentuk vektor.
+title: "Kelas VectorShapeOriginSettings"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Kelas Aspose.PSD.FileFormats.Core.VectorPaths.VectorShapeOriginSettings. Pengaturan asal bentuk vektor"
 type: docs
-weight: 1440
+weight: 1450
 url: /id/net/aspose.psd.fileformats.core.vectorpaths/vectorshapeoriginsettings/
 ---
+{{< psd/tize >}}
 ## VectorShapeOriginSettings class
 
-Pengaturan originasi bentuk vektor.
+Pengaturan asal bentuk vektor.
 
 ```csharp
 public sealed class VectorShapeOriginSettings
@@ -16,32 +17,33 @@ public sealed class VectorShapeOriginSettings
 
 ## Konstruktor
 
-| Nama | Keterangan |
+| Nama | Deskripsi |
 | --- | --- |
-| [VectorShapeOriginSettings](vectorshapeoriginsettings/#constructor)() | Menginisialisasi instance baru dari`VectorShapeOriginSettings` kelas. |
+| [VectorShapeOriginSettings](vectorshapeoriginsettings/#constructor)() | Menginisialisasi instance baru dari kelas `VectorShapeOriginSettings`. |
+| [VectorShapeOriginSettings](vectorshapeoriginsettings/#constructor_1)(bool, int) | Menginisialisasi instance baru dari kelas `VectorShapeOriginSettings`. |
 
 ## Properti
 
-| Nama | Keterangan |
+| Nama | Deskripsi |
 | --- | --- |
-| [IsOriginBoxCornersPresent](../../aspose.psd.fileformats.core.vectorpaths/vectorshapeoriginsettings/isoriginboxcornerspresent/) { get; } | Mendapat nilai yang menunjukkan apakah instance ini memiliki properti pojok kotak asal. |
-| [IsOriginIndexPresent](../../aspose.psd.fileformats.core.vectorpaths/vectorshapeoriginsettings/isoriginindexpresent/) { get; } | Mendapat nilai yang menunjukkan apakah instance ini memiliki properti indeks asal. |
-| [IsOriginRadiiRectanglePresent](../../aspose.psd.fileformats.core.vectorpaths/vectorshapeoriginsettings/isoriginradiirectanglepresent/) { get; } | Mendapat nilai yang menunjukkan apakah instance ini memiliki properti persegi panjang radius asal. |
-| [IsOriginResolutionPresent](../../aspose.psd.fileformats.core.vectorpaths/vectorshapeoriginsettings/isoriginresolutionpresent/) { get; } | Mendapat nilai yang menunjukkan apakah instance ini memiliki properti resolusi asal. |
-| [IsOriginShapeBBoxPresent](../../aspose.psd.fileformats.core.vectorpaths/vectorshapeoriginsettings/isoriginshapebboxpresent/) { get; } | Mendapat nilai yang menunjukkan apakah instance ini memiliki properti persegi panjang. |
-| [IsOriginTypePresent](../../aspose.psd.fileformats.core.vectorpaths/vectorshapeoriginsettings/isorigintypepresent/) { get; } | Mendapat nilai yang menunjukkan apakah instance ini memiliki properti tipe asal. |
-| [IsShapeInvalidated](../../aspose.psd.fileformats.core.vectorpaths/vectorshapeoriginsettings/isshapeinvalidated/) { get; set; } | Mendapat atau menetapkan nilai yang menunjukkan apakah bentuk tidak valid. |
-| [IsShapeInvalidatedPresent](../../aspose.psd.fileformats.core.vectorpaths/vectorshapeoriginsettings/isshapeinvalidatedpresent/) { get; } | Mendapat nilai yang menunjukkan apakah instance ini memiliki kumpulan properti bentuk yang tidak valid. |
-| [IsTransformPresent](../../aspose.psd.fileformats.core.vectorpaths/vectorshapeoriginsettings/istransformpresent/) { get; } | Mendapat nilai yang menunjukkan apakah instance ini memiliki properti transform. |
-| [OriginBoxCorners](../../aspose.psd.fileformats.core.vectorpaths/vectorshapeoriginsettings/originboxcorners/) { get; set; } | Mendapat atau menyetel sudut kotak asal. |
-| [OriginIndex](../../aspose.psd.fileformats.core.vectorpaths/vectorshapeoriginsettings/originindex/) { get; set; } | Mendapat atau menyetel indeks bentuk asal. |
-| [OriginRadiiRectangle](../../aspose.psd.fileformats.core.vectorpaths/vectorshapeoriginsettings/originradiirectangle/) { get; set; } | Mendapat atau menyetel persegi panjang radius asal. |
-| [OriginResolution](../../aspose.psd.fileformats.core.vectorpaths/vectorshapeoriginsettings/originresolution/) { get; set; } | Mendapat atau menyetel resolusi asal. |
-| [OriginShapeBox](../../aspose.psd.fileformats.core.vectorpaths/vectorshapeoriginsettings/originshapebox/) { get; set; } | Mendapat atau menyetel kotak pembatas bentuk asal. |
-| [OriginType](../../aspose.psd.fileformats.core.vectorpaths/vectorshapeoriginsettings/origintype/) { get; set; } | Mendapat atau menetapkan jenis asal. |
-| [Transform](../../aspose.psd.fileformats.core.vectorpaths/vectorshapeoriginsettings/transform/) { get; set; } | Mendapat atau mengatur matriks transformasi. |
+| [IsOriginBoxCornersPresent](../../aspose.psd.fileformats.core.vectorpaths/vectorshapeoriginsettings/isoriginboxcornerspresent/) { get; } | Mendapatkan nilai yang menunjukkan apakah instance ini memiliki properti sudut kotak asal. |
+| [IsOriginIndexPresent](../../aspose.psd.fileformats.core.vectorpaths/vectorshapeoriginsettings/isoriginindexpresent/) { get; } | Mendapatkan nilai yang menunjukkan apakah instance ini memiliki properti origin index. |
+| [IsOriginRadiiRectanglePresent](../../aspose.psd.fileformats.core.vectorpaths/vectorshapeoriginsettings/isoriginradiirectanglepresent/) { get; } | Mendapatkan nilai yang menunjukkan apakah instance ini memiliki properti origin radii rectangle. |
+| [IsOriginResolutionPresent](../../aspose.psd.fileformats.core.vectorpaths/vectorshapeoriginsettings/isoriginresolutionpresent/) { get; } | Mendapatkan nilai yang menunjukkan apakah instance ini memiliki properti origin resolution. |
+| [IsOriginShapeBBoxPresent](../../aspose.psd.fileformats.core.vectorpaths/vectorshapeoriginsettings/isoriginshapebboxpresent/) { get; } | Mendapatkan nilai yang menunjukkan apakah instance ini memiliki properti rectangle. |
+| [IsOriginTypePresent](../../aspose.psd.fileformats.core.vectorpaths/vectorshapeoriginsettings/isorigintypepresent/) { get; } | Mendapatkan nilai yang menunjukkan apakah instance ini memiliki properti origin type. |
+| [IsShapeInvalidated](../../aspose.psd.fileformats.core.vectorpaths/vectorshapeoriginsettings/isshapeinvalidated/) { get; set; } | Mendapatkan atau mengatur nilai yang menunjukkan apakah shape tidak valid. |
+| [IsShapeInvalidatedPresent](../../aspose.psd.fileformats.core.vectorpaths/vectorshapeoriginsettings/isshapeinvalidatedpresent/) { get; } | Mendapatkan nilai yang menunjukkan apakah instance ini memiliki properti shape invalidated yang diatur. |
+| [IsTransformPresent](../../aspose.psd.fileformats.core.vectorpaths/vectorshapeoriginsettings/istransformpresent/) { get; } | Mendapatkan nilai yang menunjukkan apakah instance ini memiliki properti transform. |
+| [OriginBoxCorners](../../aspose.psd.fileformats.core.vectorpaths/vectorshapeoriginsettings/originboxcorners/) { get; set; } | Mendapatkan atau mengatur sudut kotak origin. |
+| [OriginIndex](../../aspose.psd.fileformats.core.vectorpaths/vectorshapeoriginsettings/originindex/) { get; set; } | Mendapatkan atau mengatur indeks shape origin. |
+| [OriginRadiiRectangle](../../aspose.psd.fileformats.core.vectorpaths/vectorshapeoriginsettings/originradiirectangle/) { get; set; } | Mendapatkan atau mengatur origin radii rectangle. |
+| [OriginResolution](../../aspose.psd.fileformats.core.vectorpaths/vectorshapeoriginsettings/originresolution/) { get; set; } | Mendapatkan atau mengatur origin resolution. |
+| [OriginShapeBox](../../aspose.psd.fileformats.core.vectorpaths/vectorshapeoriginsettings/originshapebox/) { get; set; } | Mendapatkan atau mengatur bounding box shape origin. |
+| [OriginType](../../aspose.psd.fileformats.core.vectorpaths/vectorshapeoriginsettings/origintype/) { get; set; } | Mendapatkan atau mengatur tipe origin. |
+| [Transform](../../aspose.psd.fileformats.core.vectorpaths/vectorshapeoriginsettings/transform/) { get; set; } | Mendapatkan atau mengatur matriks transformasi. |
 
-### Contoh
+## Contoh
 
 Contoh berikut menunjukkan dukungan sumber daya VogkResource.
 
@@ -86,7 +88,7 @@ using (var psdImage = (PsdImage)Image.Load(sourceFilePath))
         throw new Exception("VogkResource were read wrong.");
     }
 
-    // Mengedit
+    // Menyunting
     resource.ShapeOriginSettings = new[]
     {
         resource.ShapeOriginSettings[0],
@@ -97,9 +99,9 @@ using (var psdImage = (PsdImage)Image.Load(sourceFilePath))
 }
 ```
 
-### Lihat juga
+### Lihat Juga
 
-* ruang nama [Aspose.PSD.FileFormats.Core.VectorPaths](../../aspose.psd.fileformats.core.vectorpaths/)
-* perakitan [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../)
 
 

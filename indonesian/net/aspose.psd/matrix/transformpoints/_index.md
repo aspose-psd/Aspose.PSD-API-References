@@ -1,28 +1,29 @@
 ---
-title: Matrix.TransformPoints
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Matrix metode. Menerapkan transformasi geometris yang diwakili oleh iniMatrix ke array poin tertentu.
+title: "Matrix.TransformPoints"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode Matrix. Menerapkan transformasi geometrik yang diwakili oleh Matrix ini ke array titik yang ditentukan."
 type: docs
 weight: 180
 url: /id/net/aspose.psd/matrix/transformpoints/
 ---
+{{< psd/tize >}}
 ## Matrix.TransformPoints method
 
-Menerapkan transformasi geometris yang diwakili oleh ini[`Matrix`](../) ke array poin tertentu.
+Menerapkan transformasi geometrik yang diwakili oleh [`Matrix`](../) ini ke array titik yang ditentukan.
 
 ```csharp
 public void TransformPoints(PointF[] points)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| points | PointF[] | Intinya. |
+| titik | PointF[] | Titik-titik. |
 
-### Lihat juga
+### Lihat Juga
 
 * struct [PointF](../../pointf/)
 * class [Matrix](../)
-* ruang nama [Aspose.PSD](../../matrix/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

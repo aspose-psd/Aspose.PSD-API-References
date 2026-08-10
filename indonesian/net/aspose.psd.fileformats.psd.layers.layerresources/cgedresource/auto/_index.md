@@ -1,27 +1,28 @@
 ---
-title: CgEdResource.Auto
-second_title: Aspose.PSD untuk Referensi .NET API
-description: CgEdResource Properti. Mendapat atau menetapkan nilai yang menunjukkan apakah iniCgEdResource otomatis.
+title: "CgEdResource.Auto"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti CgEdResource. Mendapatkan atau mengatur nilai yang menunjukkan apakah CgEdResource ini otomatis"
 type: docs
 weight: 20
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources/cgedresource/auto/
 ---
+{{< psd/tize >}}
 ## CgEdResource.Auto property
 
-Mendapat atau menetapkan nilai yang menunjukkan apakah ini[`CgEdResource`](../) otomatis.
+Mendapatkan atau mengatur nilai yang menunjukkan apakah [`CgEdResource`](../) ini otomatis.
 
 ```csharp
 public bool Auto { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
-`BENAR` jika otomatis; jika tidak,`PALSU` .
+`true` jika otomatis; selainnya, `false`.
 
-### Lihat juga
+### Lihat Juga
 
 * class [CgEdResource](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../cgedresource/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

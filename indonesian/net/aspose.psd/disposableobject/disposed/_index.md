@@ -1,27 +1,28 @@
 ---
-title: DisposableObject.Disposed
-second_title: Aspose.PSD untuk Referensi .NET API
-description: DisposableObject Properti. Mendapat nilai yang menunjukkan apakah instance ini dibuang.
+title: "DisposableObject.Disposed"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti DisposableObject. Mendapatkan nilai yang menunjukkan apakah instance ini dibebaskan"
 type: docs
 weight: 20
 url: /id/net/aspose.psd/disposableobject/disposed/
 ---
+{{< psd/tize >}}
 ## DisposableObject.Disposed property
 
-Mendapat nilai yang menunjukkan apakah instance ini dibuang.
+Mendapatkan nilai yang menunjukkan apakah instansi ini telah dibuang.
 
 ```csharp
 public bool Disposed { get; }
 ```
 
-### Nilai properti
+### Property Value
 
-`BENAR` jika dibuang; jika tidak,`PALSU`.
+`true` jika dibebaskan; sebaliknya, `false`.
 
-### Lihat juga
+### Lihat Juga
 
 * class [DisposableObject](../)
-* ruang nama [Aspose.PSD](../../disposableobject/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

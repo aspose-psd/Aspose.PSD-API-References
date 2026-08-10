@@ -1,28 +1,29 @@
 ---
-title: JpegExifData.PrimaryChromaticities
-second_title: Aspose.PSD untuk Referensi .NET API
-description: JpegExifData Properti. Mendapat atau menyetel kromatisitas dari tiga warna primer gambar.
+title: "JpegExifData.PrimaryChromaticities"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti JpegExifData. Mendapatkan atau mengatur kromatisitas tiga warna primer pada gambar"
 type: docs
 weight: 150
 url: /id/net/aspose.psd.exif/jpegexifdata/primarychromaticities/
 ---
+{{< psd/tize >}}
 ## JpegExifData.PrimaryChromaticities property
 
-Mendapat atau menyetel kromatisitas dari tiga warna primer gambar.
+Mendapatkan atau mengatur kromatisitas tiga warna primer pada gambar.
 
 ```csharp
 public TiffRational[] PrimaryChromaticities { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
-Kromatisitas dari tiga warna primer gambar.
+Kromatisitas tiga warna primer pada gambar.
 
-### Lihat juga
+### Lihat Juga
 
 * class [TiffRational](../../../aspose.psd.fileformats.tiff/tiffrational/)
 * class [JpegExifData](../)
-* ruang nama [Aspose.PSD.Exif](../../jpegexifdata/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

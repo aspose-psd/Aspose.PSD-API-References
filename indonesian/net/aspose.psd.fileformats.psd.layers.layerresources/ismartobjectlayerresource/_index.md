@@ -1,14 +1,15 @@
 ---
-title: Interface ISmartObjectLayerResource
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.ISmartObjectLayerResource antarmuka. Menentukan antarmuka ISmartObjectLayerResource yang berisi informasi tentang sumber daya lapisan objek cerdas dalam file PSD. Juga merupakan antarmuka markup yang digunakan untuk menetapkan sumber daya Terjual dan Tunggal dalam gambar Adobe Photoshop.
+title: "Antarmuka ISmartObjectLayerResource"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Antarmuka Aspose.PSD.FileFormats.Psd.Layers.LayerResources.ISmartObjectLayerResource. Mendefinisikan antarmuka ISmartObjectLayerResource yang berisi informasi tentang sumber daya lapisan objek pintar dalam file PSD. Ini juga merupakan antarmuka markup yang digunakan untuk menandai sumber daya Sold dan Sole dalam gambar Adobe Photoshop."
 type: docs
-weight: 2540
+weight: 2830
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources/ismartobjectlayerresource/
 ---
+{{< psd/tize >}}
 ## ISmartObjectLayerResource interface
 
-Menentukan antarmuka ISmartObjectLayerResource yang berisi informasi tentang sumber daya lapisan objek cerdas dalam file PSD. Juga merupakan antarmuka markup yang digunakan untuk menetapkan sumber daya Terjual dan Tunggal dalam gambar Adobe® Photoshop®.
+Mendefinisikan antarmuka ISmartObjectLayerResource yang berisi informasi tentang sumber daya lapisan objek pintar dalam file PSD. Juga merupakan antarmuka markup yang digunakan untuk menandai sumber daya Sold dan Sole dalam gambar Adobe® Photoshop®.
 
 ```csharp
 public interface ISmartObjectLayerResource : IPlacedLayerResource
@@ -16,13 +17,13 @@ public interface ISmartObjectLayerResource : IPlacedLayerResource
 
 ## Properti
 
-| Nama | Keterangan |
+| Nama | Deskripsi |
 | --- | --- |
-| [PlacedId](../../aspose.psd.fileformats.psd.layers.layerresources/ismartobjectlayerresource/placedid/) { get; set; } | Mendapat atau menyetel pengidentifikasi unik dari data lapisan objek pintar ini dalam gambar PSD. |
+| [PlacedId](../../aspose.psd.fileformats.psd.layers.layerresources/ismartobjectlayerresource/placedid/) { get; set; } | Mendapatkan atau mengatur pengidentifikasi unik data lapisan objek pintar ini dalam gambar PSD. |
 
-### Contoh
+## Contoh
 
-Kode berikut menunjukkan dukungan objek Cerdas Tertanam.
+Kode berikut menunjukkan dukungan objek pintar tertanam.
 
 ```csharp
 [C#]
@@ -35,7 +36,7 @@ void AssertAreEqual(object actual, object expected)
     }
 }
 
-// Contoh ini menunjukkan cara mengubah lapisan objek pintar di file PSD dan mengekspor/memperbarui konten tersemat asli objek pintar.
+// Contoh ini menunjukkan cara mengubah lapisan objek pintar dalam file PSD dan mengekspor / memperbarui konten asli objek pintar yang tertanam.
 const int left = 0;
 const int top = 0;
 const int right = 0xb;
@@ -64,10 +65,10 @@ foreach (FileFormat format in formats)
         AssertAreEqual(right, smartObjectLayer.ContentsBounds.Right);
         AssertAreEqual(bottom, smartObjectLayer.ContentsBounds.Bottom);
 
-        // Mari ekspor gambar objek pintar tersemat dari lapisan objek pintar PSD
+        // Mari ekspor gambar objek pintar tertanam dari lapisan objek pintar PSD
         smartObjectLayer.ExportContents(exportPath);
 
-        // Mari kita periksa apakah gambar aslinya disimpan dengan benar
+        // Mari periksa apakah gambar asli disimpan dengan benar
         image.Save(psdOutputPath, new PsdOptions(image));
         image.Save(pngOutputPath, new PngOptions() { ColorType = PngColorType.TruecolorWithAlpha });
 
@@ -75,7 +76,7 @@ foreach (FileFormat format in formats)
         {
             AssertAreEqual(format, innerImage.FileFormat);
 
-            // Mari kita membalikkan gambar smart object asli
+            // Mari balikkan gambar objek pintar asli
             var pixels = innerImage.LoadArgb32Pixels(innerImage.Bounds);
             for (int i = 0; i < pixels.Length; i++)
             {
@@ -86,21 +87,21 @@ foreach (FileFormat format in formats)
 
             innerImage.SaveArgb32Pixels(innerImage.Bounds, pixels);
 
-            // Mari kita ganti gambar objek pintar tersemat di lapisan PSD
+            // Mari ganti gambar objek pintar tertanam di lapisan PSD
             smartObjectLayer.ReplaceContents(innerImage);
         }
 
-        // Mari kita periksa apakah gambar yang diperbarui disimpan dengan benar
+        // Mari periksa apakah gambar yang diperbarui disimpan dengan benar
         image.Save(psd2OutputPath, new PsdOptions(image));
         image.Save(png2OutputPath, new PngOptions() { ColorType = PngColorType.TruecolorWithAlpha });
     }
 }
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * interface [IPlacedLayerResource](../iplacedlayerresource/)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
-* perakitan [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../)
 
 

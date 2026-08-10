@@ -1,20 +1,21 @@
 ---
-title: LinkDataSource.AssetModTime
-second_title: Aspose.PSD untuk Referensi .NET API
-description: LinkDataSource Properti. Mendapat atau menyetel waktu modifikasi aset untuk aset Perpustakaan Adobe Photoshop СС.
+title: "LinkDataSource.AssetModTime"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti LinkDataSource. Mendapatkan atau mengatur waktu modifikasi aset untuk aset Adobe Photoshop СС Libraries"
 type: docs
 weight: 20
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/assetmodtime/
 ---
+{{< psd/tize >}}
 ## LinkDataSource.AssetModTime property
 
-Mendapat atau menyetel waktu modifikasi aset, untuk aset Perpustakaan Adobe® Photoshop® СС.
+Mendapatkan atau mengatur waktu modifikasi aset, untuk aset Adobe® Photoshop® СС Libraries.
 
 ```csharp
 public double AssetModTime { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
 Waktu modifikasi aset.
 
@@ -22,12 +23,12 @@ Waktu modifikasi aset.
 
 | pengecualian | kondisi |
 | --- | --- |
-| [PsdImageException](../../../aspose.psd.coreexceptions.imageformats/psdimageexception/) | Anda tidak dapat mengakses properti AssetModTime, ini hanya tersedia untuk sumber data seumur hidup atau hidup dengan versi 6 atau lebih tinggi. |
+| [PsdImageException](../../../aspose.psd.coreexceptions.imageformats/psdimageexception/) | Anda tidak dapat mengakses properti AssetModTime, properti ini hanya tersedia untuk sumber data liFE atau liFE dengan versi 6 atau lebih tinggi. |
 
-### Lihat juga
+### Lihat Juga
 
 * class [LinkDataSource](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../linkdatasource/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

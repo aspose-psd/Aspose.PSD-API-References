@@ -1,11 +1,12 @@
 ---
-title: XmpBasicPackage.SetCreatedDate
-second_title: Aspose.PSD untuk Referensi .NET API
-description: XmpBasicPackage metode. Menambahkan tanggal pembuatan sumber daya.
+title: "XmpBasicPackage.SetCreatedDate"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode XmpBasicPackage. Menambahkan tanggal pembuatan sumber daya"
 type: docs
-weight: 30
+weight: 50
 url: /id/net/aspose.psd.xmp.schemas.xmpbaseschema/xmpbasicpackage/setcreateddate/
 ---
+{{< psd/tize >}}
 ## SetCreatedDate(DateTime) {#setcreateddate}
 
 Menambahkan tanggal pembuatan sumber daya.
@@ -14,15 +15,15 @@ Menambahkan tanggal pembuatan sumber daya.
 public void SetCreatedDate(DateTime createdDate)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
 | createdDate | DateTime | Tanggal dibuat. |
 
-### Lihat juga
+### Lihat Juga
 
 * class [XmpBasicPackage](../)
-* ruang nama [Aspose.PSD.Xmp.Schemas.XmpBaseSchema](../../xmpbasicpackage/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpBaseSchema](../../../aspose.psd.xmp.schemas.xmpbaseschema/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
@@ -34,14 +35,14 @@ Menambahkan tanggal pembuatan sumber daya.
 public void SetCreatedDate(string createdDate)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
 | createdDate | String | Tanggal dibuat. |
 
-### Lihat juga
+### Lihat Juga
 
 * class [XmpBasicPackage](../)
-* ruang nama [Aspose.PSD.Xmp.Schemas.XmpBaseSchema](../../xmpbasicpackage/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpBaseSchema](../../../aspose.psd.xmp.schemas.xmpbaseschema/)
+* assembly [Aspose.PSD](../../../)
 
 

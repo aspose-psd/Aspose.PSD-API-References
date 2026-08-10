@@ -1,11 +1,12 @@
 ---
-title: Enum JpegLsInterleaveMode
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Aspose.PSD.FileFormats.Jpeg.JpegLsInterleaveMode enum. Menentukan mode interleave untuk data piksel multikomponen warna.
+title: "Enum JpegLsInterleaveMode"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Aspose.PSD.FileFormats.Jpeg.JpegLsInterleaveMode enum. Menentukan mode interleave untuk data piksel warna multikomponen"
 type: docs
-weight: 1510
+weight: 1520
 url: /id/net/aspose.psd.fileformats.jpeg/jpeglsinterleavemode/
 ---
+{{< psd/tize >}}
 ## JpegLsInterleaveMode enumeration
 
 Menentukan mode interleave untuk data piksel multi-komponen (warna).
@@ -16,15 +17,15 @@ public enum JpegLsInterleaveMode
 
 ### Nilai
 
-| Nama | Nilai | Keterangan |
+| Nama | Nilai | Deskripsi |
 | --- | --- | --- |
-| None | `0` | Data dikodekan dan disimpan sebagai komponen untuk komponen: RRRGGGBBB. |
-| Line | `1` | Mode interleave adalah per baris. Baris penuh dari setiap komponen dikodekan sebelum berpindah ke baris berikutnya. |
-| Sample | `2` | Data dikodekan dan disimpan oleh sampel. Untuk gambar berwarna ini formatnya seperti RGBRGBRGB. |
+| None | `0` | Data dienkode dan disimpan sebagai komponen per komponen: RRRGGGBBB. |
+| Line | `1` | Mode interleave adalah per baris. Sebuah baris penuh setiap komponen dienkode sebelum beralih ke baris berikutnya. |
+| Sample | `2` | Data dienkode dan disimpan per sampel. Untuk gambar berwarna ini adalah format seperti RGBRGBRGB. |
 
-### Lihat juga
+### Lihat Juga
 
-* ruang nama [Aspose.PSD.FileFormats.Jpeg](../../aspose.psd.fileformats.jpeg/)
-* perakitan [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Jpeg](../../aspose.psd.fileformats.jpeg/)
+* assembly [Aspose.PSD](../../)
 
 

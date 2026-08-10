@@ -1,14 +1,15 @@
 ---
-title: Interface IImageExporter
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Aspose.PSD.IImageExporter antarmuka. Pengekspor gambar. Dapat mengekspor data dari format Aspose.PSD internal ke format data yang ditentukan.
+title: "Antarmuka IImageExporter"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Antarmuka Aspose.PSD.IImageExporter. Pengekspor gambar. Dapat mengekspor data dari format internal Aspose.PSD ke format data yang ditentukan."
 type: docs
-weight: 4430
+weight: 4900
 url: /id/net/aspose.psd/iimageexporter/
 ---
+{{< psd/tize >}}
 ## IImageExporter interface
 
-Pengekspor gambar. Dapat mengekspor data dari format Aspose.PSD internal ke format data yang ditentukan.
+Pengekspor gambar. Dapat mengekspor data dari format internal Aspose.PSD ke format data yang ditentukan.
 
 ```csharp
 public interface IImageExporter
@@ -16,14 +17,14 @@ public interface IImageExporter
 
 ## Metode
 
-| Nama | Keterangan |
+| Nama | Deskripsi |
 | --- | --- |
 | [Export](../../aspose.psd/iimageexporter/export/#export)(Image, Stream, ImageOptionsBase) | Mengekspor data gambar yang ditentukan ke dalam format data yang ditentukan. |
 | [Export](../../aspose.psd/iimageexporter/export/#export_1)(Image, Stream, ImageOptionsBase, Rectangle) | Mengekspor data gambar yang ditentukan ke dalam format data yang ditentukan. |
 
-### Lihat juga
+### Lihat Juga
 
-* ruang nama [Aspose.PSD](../../aspose.psd/)
-* perakitan [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

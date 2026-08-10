@@ -1,11 +1,12 @@
 ---
-title: DitheringMode.CustomPalette
-second_title: Aspose.PSD untuk Referensi .NET API
-description: DitheringMode Properti. Palet khusus untuk dithering.
+title: "DitheringMode.CustomPalette"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "DitheringMode property. Palet khusus untuk dithering"
 type: docs
 weight: 30
 url: /id/net/aspose.psd.dithering/ditheringmode/custompalette/
 ---
+{{< psd/tize >}}
 ## DitheringMode.CustomPalette property
 
 Palet khusus untuk dithering.
@@ -14,11 +15,11 @@ Palet khusus untuk dithering.
 public IColorPalette CustomPalette { get; set; }
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * interface [IColorPalette](../../../aspose.psd/icolorpalette/)
 * class [DitheringMode](../)
-* ruang nama [Aspose.PSD.Dithering](../../ditheringmode/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Dithering](../../../aspose.psd.dithering/)
+* assembly [Aspose.PSD](../../../)
 
 

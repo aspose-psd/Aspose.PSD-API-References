@@ -1,27 +1,28 @@
 ---
-title: ProgressEventHandlerInfo.MaxValue
-second_title: Aspose.PSD untuk Referensi .NET API
-description: ProgressEventHandlerInfo Properti. Mendapat batas nilai progres atas.
+title: "ProgressEventHandlerInfo.MaxValue"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "ProgressEventHandlerInfo properti. Mendapatkan batas nilai kemajuan atas"
 type: docs
 weight: 30
 url: /id/net/aspose.psd.progressmanagement/progresseventhandlerinfo/maxvalue/
 ---
+{{< psd/tize >}}
 ## ProgressEventHandlerInfo.MaxValue property
 
-Mendapat batas nilai progres atas.
+Mendapatkan batas nilai kemajuan atas.
 
 ```csharp
 public int MaxValue { get; }
 ```
 
-### Nilai properti
+### Property Value
 
-Batas nilai progres atas.
+Batas nilai kemajuan atas.
 
-### Lihat juga
+### Lihat Juga
 
 * class [ProgressEventHandlerInfo](../)
-* ruang nama [Aspose.PSD.ProgressManagement](../../progresseventhandlerinfo/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ProgressManagement](../../../aspose.psd.progressmanagement/)
+* assembly [Aspose.PSD](../../../)
 
 

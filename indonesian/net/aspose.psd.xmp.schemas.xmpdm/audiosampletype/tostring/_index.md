@@ -1,27 +1,28 @@
 ---
-title: AudioSampleType.ToString
-second_title: Aspose.PSD untuk Referensi .NET API
-description: AudioSampleType metode. Mengembalikan aString yang mewakili instance ini.
+title: "AudioSampleType.ToString"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "AudioSampleType method. Mengembalikan String yang mewakili instance ini"
 type: docs
 weight: 80
 url: /id/net/aspose.psd.xmp.schemas.xmpdm/audiosampletype/tostring/
 ---
+{{< psd/tize >}}
 ## AudioSampleType.ToString method
 
-Mengembalikan aString yang mewakili instance ini.
+Mengembalikan String yang mewakili instance ini.
 
 ```csharp
 public override string ToString()
 ```
 
-### Nilai Pengembalian
+### Nilai Kembalian
 
-AString yang mewakili instance ini.
+String yang mewakili instance ini.
 
-### Lihat juga
+### Lihat Juga
 
 * class [AudioSampleType](../)
-* ruang nama [Aspose.PSD.Xmp.Schemas.XmpDm](../../audiosampletype/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpDm](../../../aspose.psd.xmp.schemas.xmpdm/)
+* assembly [Aspose.PSD](../../../)
 
 

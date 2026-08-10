@@ -1,44 +1,45 @@
 ---
-title: Dimensions.Dimensions
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Dimensions konstruktor. Menginisialisasi instance baru dariDimensions kelas.
+title: "Dimensions.Dimensions"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Konstruktor Dimensions. Menginisialisasi sebuah instance baru dari kelas Dimensions"
 type: docs
 weight: 10
 url: /id/net/aspose.psd.xmp.types.complex.dimensions/dimensions/dimensions/
 ---
+{{< psd/tize >}}
 ## Dimensions() {#constructor}
 
-Menginisialisasi instance baru dari[`Dimensions`](../) kelas.
+Menginisialisasi sebuah instance baru dari kelas [`Dimensions`](../).
 
 ```csharp
 public Dimensions()
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [Dimensions](../)
-* ruang nama [Aspose.PSD.Xmp.Types.Complex.Dimensions](../../dimensions/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.Dimensions](../../../aspose.psd.xmp.types.complex.dimensions/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Dimensions(float, float) {#constructor_1}
 
-Menginisialisasi instance baru dari[`Dimensions`](../) kelas.
+Menginisialisasi sebuah instance baru dari kelas [`Dimensions`](../).
 
 ```csharp
 public Dimensions(float width, float height)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| width | Single | Lebar. |
-| height | Single | Ketinggian. |
+| lebar | Single | Lebar. |
+| tinggi | Single | Tinggi. |
 
-### Lihat juga
+### Lihat Juga
 
 * class [Dimensions](../)
-* ruang nama [Aspose.PSD.Xmp.Types.Complex.Dimensions](../../dimensions/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.Dimensions](../../../aspose.psd.xmp.types.complex.dimensions/)
+* assembly [Aspose.PSD](../../../)
 
 

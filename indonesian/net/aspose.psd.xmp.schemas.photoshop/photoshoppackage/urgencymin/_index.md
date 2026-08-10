@@ -1,23 +1,24 @@
 ---
-title: PhotoshopPackage.UrgencyMin
-second_title: Aspose.PSD untuk Referensi .NET API
-description: PhotoshopPackage bidang. Nilai min urgensi.
+title: "PhotoshopPackage.UrgencyMin"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "PhotoshopPackage field. Nilai minimum urgensi"
 type: docs
 weight: 220
 url: /id/net/aspose.psd.xmp.schemas.photoshop/photoshoppackage/urgencymin/
 ---
+{{< psd/tize >}}
 ## PhotoshopPackage.UrgencyMin field
 
-Nilai min urgensi.
+Nilai minimum urgensi.
 
 ```csharp
 public const int UrgencyMin;
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [PhotoshopPackage](../)
-* ruang nama [Aspose.PSD.Xmp.Schemas.Photoshop](../../photoshoppackage/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.Photoshop](../../../aspose.psd.xmp.schemas.photoshop/)
+* assembly [Aspose.PSD](../../../)
 
 

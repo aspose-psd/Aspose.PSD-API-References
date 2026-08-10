@@ -1,27 +1,28 @@
 ---
-title: ArcShape.IsClosed
-second_title: Aspose.PSD untuk Referensi .NET API
-description: ArcShape Properti. Mendapat atau menetapkan nilai yang menunjukkan apakah bentuk yang dipesan ditutup. Saat memproses bentuk pesanan tertutup titik awal dan akhir tidak memiliki arti.
+title: "ArcShape.IsClosed"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti ArcShape. Mendapatkan atau mengatur nilai yang menunjukkan apakah bentuk terurut ditutup. Saat memproses bentuk terurut yang ditutup, titik awal dan akhir tidak memiliki arti"
 type: docs
 weight: 30
 url: /id/net/aspose.psd.shapes/arcshape/isclosed/
 ---
+{{< psd/tize >}}
 ## ArcShape.IsClosed property
 
-Mendapat atau menetapkan nilai yang menunjukkan apakah bentuk yang dipesan ditutup. Saat memproses bentuk pesanan tertutup, titik awal dan akhir tidak memiliki arti.
+Mendapatkan atau mengatur nilai yang menunjukkan apakah bentuk terurut ditutup. Saat memproses bentuk terurut yang ditutup, titik awal dan akhir tidak memiliki arti.
 
 ```csharp
 public bool IsClosed { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
-`BENAR` jika bentuk yang dipesan ini ditutup; jika tidak,`PALSU` .
+`True` jika bentuk terurut ini ditutup; jika tidak, `false`.
 
-### Lihat juga
+### Lihat Juga
 
 * class [ArcShape](../)
-* ruang nama [Aspose.PSD.Shapes](../../arcshape/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 

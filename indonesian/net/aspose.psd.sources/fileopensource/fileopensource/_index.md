@@ -1,27 +1,28 @@
 ---
-title: FileOpenSource.FileOpenSource
-second_title: Aspose.PSD untuk Referensi .NET API
-description: FileOpenSource konstruktor. Menginisialisasi instance baru dariFileOpenSource kelas.
+title: "FileOpenSource.FileOpenSource"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Konstruktor FileOpenSource. Menginisialisasi instance baru dari kelas FileOpenSource"
 type: docs
 weight: 10
 url: /id/net/aspose.psd.sources/fileopensource/fileopensource/
 ---
+{{< psd/tize >}}
 ## FileOpenSource constructor
 
-Menginisialisasi instance baru dari[`FileOpenSource`](../) kelas.
+Menginisialisasi instance baru dari kelas [`FileOpenSource`](../).
 
 ```csharp
 public FileOpenSource(string filePath)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| filePath | String | Jalur file untuk dibuka. |
+| filePath | String | Jalur file yang akan dibuka. |
 
-### Lihat juga
+### Lihat Juga
 
 * class [FileOpenSource](../)
-* ruang nama [Aspose.PSD.Sources](../../fileopensource/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Sources](../../../aspose.psd.sources/)
+* assembly [Aspose.PSD](../../../)
 
 

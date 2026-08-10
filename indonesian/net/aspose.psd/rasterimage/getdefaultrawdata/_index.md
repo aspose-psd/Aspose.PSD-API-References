@@ -1,60 +1,61 @@
 ---
-title: RasterImage.GetDefaultRawData
-second_title: Aspose.PSD untuk Referensi .NET API
-description: RasterImage metode. Mendapatkan larik data mentah default menggunakan pemuat piksel parsial.
+title: "RasterImage.GetDefaultRawData"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode RasterImage. Mendapatkan array data mentah default menggunakan pemuat piksel parsial"
 type: docs
 weight: 300
 url: /id/net/aspose.psd/rasterimage/getdefaultrawdata/
 ---
+{{< psd/tize >}}
 ## GetDefaultRawData(Rectangle, IPartialRawDataLoader, RawDataSettings) {#getdefaultrawdata_1}
 
-Mendapatkan larik data mentah default menggunakan pemuat piksel parsial.
+Mendapatkan array data mentah default menggunakan pemuat piksel parsial.
 
 ```csharp
 public void GetDefaultRawData(Rectangle rectangle, IPartialRawDataLoader partialRawDataLoader, 
     RawDataSettings rawDataSettings)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| rectangle | Rectangle | Persegi panjang untuk mendapatkan piksel. |
+| persegi panjang | Rectangle | Persegi panjang untuk mengambil piksel. |
 | partialRawDataLoader | IPartialRawDataLoader | Pemuat data mentah parsial. |
 | rawDataSettings | RawDataSettings | Pengaturan data mentah. |
 
-### Lihat juga
+### Lihat Juga
 
 * struct [Rectangle](../../rectangle/)
 * interface [IPartialRawDataLoader](../../ipartialrawdataloader/)
 * class [RawDataSettings](../../rawdatasettings/)
 * class [RasterImage](../)
-* ruang nama [Aspose.PSD](../../rasterimage/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## GetDefaultRawData(Rectangle, RawDataSettings) {#getdefaultrawdata}
 
-Mendapat larik data mentah default.
+Mendapatkan array data mentah default.
 
 ```csharp
 public byte[] GetDefaultRawData(Rectangle rectangle, RawDataSettings rawDataSettings)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| rectangle | Rectangle | Persegi panjang untuk mendapatkan data mentah. |
+| persegi panjang | Rectangle | Persegi panjang untuk mendapatkan data mentah. |
 | rawDataSettings | RawDataSettings | Pengaturan data mentah. |
 
-### Nilai Pengembalian
+### Nilai Kembalian
 
-Larik data mentah default.
+Array data mentah default.
 
-### Lihat juga
+### Lihat Juga
 
 * struct [Rectangle](../../rectangle/)
 * class [RawDataSettings](../../rawdatasettings/)
 * class [RasterImage](../)
-* ruang nama [Aspose.PSD](../../rasterimage/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

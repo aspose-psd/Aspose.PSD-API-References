@@ -1,14 +1,15 @@
 ---
-title: Enum ExifContrast
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Aspose.PSD.Exif.Enums.ExifContrast enum. exif normal soft hard enum.
+title: "Enum ExifContrast"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Aspose.PSD.Exif.Enums.ExifContrast enum. exif normal lembut keras enum"
 type: docs
-weight: 810
+weight: 820
 url: /id/net/aspose.psd.exif.enums/exifcontrast/
 ---
+{{< psd/tize >}}
 ## ExifContrast enumeration
 
-exif normal soft hard enum.
+enumerasi normal lunak keras exif.
 
 ```csharp
 public enum ExifContrast
@@ -16,15 +17,15 @@ public enum ExifContrast
 
 ### Nilai
 
-| Nama | Nilai | Keterangan |
+| Nama | Nilai | Deskripsi |
 | --- | --- | --- |
 | Normal | `0` | Kontras normal. |
 | Low | `1` | Kontras rendah. |
 | High | `2` | Kontras tinggi. |
 
-### Lihat juga
+### Lihat Juga
 
-* ruang nama [Aspose.PSD.Exif.Enums](../../aspose.psd.exif.enums/)
-* perakitan [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Exif.Enums](../../aspose.psd.exif.enums/)
+* assembly [Aspose.PSD](../../)
 
 

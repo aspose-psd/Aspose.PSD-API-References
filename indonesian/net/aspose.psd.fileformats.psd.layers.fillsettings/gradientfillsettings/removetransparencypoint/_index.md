@@ -1,11 +1,12 @@
 ---
-title: GradientFillSettings.RemoveTransparencyPoint
-second_title: Aspose.PSD untuk Referensi .NET API
-description: GradientFillSettings metode. Menghapus titik transparansi.
+title: "GradientFillSettings.RemoveTransparencyPoint"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode GradientFillSettings. Menghapus titik transparansi"
 type: docs
-weight: 180
+weight: 90
 url: /id/net/aspose.psd.fileformats.psd.layers.fillsettings/gradientfillsettings/removetransparencypoint/
 ---
+{{< psd/tize >}}
 ## GradientFillSettings.RemoveTransparencyPoint method
 
 Menghapus titik transparansi.
@@ -14,15 +15,15 @@ Menghapus titik transparansi.
 public void RemoveTransparencyPoint(IGradientTransparencyPoint point)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| point | IGradientTransparencyPoint | Inti nya. |
+| titik | IGradientTransparencyPoint | Titik. |
 
-### Lihat juga
+### Lihat Juga
 
 * interface [IGradientTransparencyPoint](../../igradienttransparencypoint/)
 * class [GradientFillSettings](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../gradientfillsettings/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../../)
 
 

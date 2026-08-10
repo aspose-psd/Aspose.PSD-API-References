@@ -1,11 +1,12 @@
 ---
-title: LinkResource.PsdVersion
-second_title: Aspose.PSD untuk Referensi .NET API
-description: LinkResource Properti. Mendapatkan versi format PSD.
+title: "LinkResource.PsdVersion"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti LinkResource. Mendapatkan versi format PSD"
 type: docs
 weight: 50
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources/linkresource/psdversion/
 ---
+{{< psd/tize >}}
 ## LinkResource.PsdVersion property
 
 Mendapatkan versi format PSD.
@@ -14,10 +15,10 @@ Mendapatkan versi format PSD.
 public override int PsdVersion { get; }
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [LinkResource](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../linkresource/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

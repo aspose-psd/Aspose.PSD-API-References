@@ -1,32 +1,33 @@
 ---
-title: Size.Subtract
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Size metode. Mengurangi lebar dan tinggi satuSize struktur dari lebar dan tinggi yang lainSizestruktur.
+title: "Size.Subtract"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode Size. Mengurangi lebar dan tinggi satu struktur Size dari lebar dan tinggi struktur Size lainnya."
 type: docs
 weight: 60
 url: /id/net/aspose.psd/size/subtract/
 ---
+{{< psd/tize >}}
 ## Size.Subtract method
 
-Mengurangi lebar dan tinggi satu[`Size`](../) struktur dari lebar dan tinggi yang lain[`Size`](../)struktur.
+Mengurangi lebar dan tinggi satu struktur [`Size`](../) dari lebar dan tinggi struktur [`Size`](../) lainnya.
 
 ```csharp
 public static Size Subtract(Size size1, Size size2)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| size1 | Size | Itu[`Size`](../) struktur di sisi kiri operator pengurangan. |
-| size2 | Size | Itu[`Size`](../) struktur di sisi kanan operator pengurangan. |
+| size1 | Size | Struktur [`Size`](../) di sisi kiri operator pengurangan. |
+| size2 | Size | Struktur [`Size`](../) di sisi kanan operator pengurangan. |
 
-### Nilai Pengembalian
+### Nilai Kembalian
 
-Itu[`Size`](../)yang merupakan hasil dari operasi pengurangan.
+[`Size`](../) yang merupakan hasil dari operasi pengurangan.
 
-### Lihat juga
+### Lihat Juga
 
 * struct [Size](../)
-* ruang nama [Aspose.PSD](../../size/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

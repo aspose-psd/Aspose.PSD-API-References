@@ -1,24 +1,25 @@
 ---
-title: XmpPacketWrapper.GetPackage
-second_title: Aspose.PSD untuk Referensi .NET API
-description: XmpPacketWrapper metode. Mendapat paket dengan namespace URI.
+title: "XmpPacketWrapper.GetPackage"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode XmpPacketWrapper. Mendapatkan paket berdasarkan URI namespace"
 type: docs
 weight: 100
 url: /id/net/aspose.psd.xmp/xmppacketwrapper/getpackage/
 ---
+{{< psd/tize >}}
 ## XmpPacketWrapper.GetPackage method
 
-Mendapat paket dengan namespace URI.
+Mendapatkan paket berdasarkan URI namespace.
 
 ```csharp
 public XmpPackage GetPackage(string namespaceUri)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
 | namespaceUri | String | URI skema paket. |
 
-### Nilai Pengembalian
+### Nilai Kembalian
 
 Mengembalikan paket XMP untuk URI namespace yang ditentukan.
 
@@ -28,11 +29,11 @@ Mengembalikan paket XMP untuk URI namespace yang ditentukan.
 | --- | --- |
 | ArgumentNullException | namespaceUri |
 
-### Lihat juga
+### Lihat Juga
 
 * class [XmpPackage](../../xmppackage/)
 * class [XmpPacketWrapper](../)
-* ruang nama [Aspose.PSD.Xmp](../../xmppacketwrapper/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

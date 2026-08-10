@@ -1,27 +1,28 @@
 ---
-title: RectangleF.Right
-second_title: Aspose.PSD untuk Referensi .NET API
-description: RectangleF Properti. Mendapat atau menetapkan koordinat x yang merupakan jumlah dariX DanWidth iniRectangleFstruktur.
+title: "RectangleF.Right"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti RectangleF. Mendapatkan atau mengatur koordinat x yang merupakan jumlah dari X dan Width struktur RectangleF ini"
 type: docs
 weight: 130
 url: /id/net/aspose.psd/rectanglef/right/
 ---
+{{< psd/tize >}}
 ## RectangleF.Right property
 
-Mendapat atau menetapkan koordinat x yang merupakan jumlah dari[`X`](../x/) Dan[`Width`](../width/) ini[`RectangleF`](../)struktur.
+Mendapatkan atau mengatur koordinat x yang merupakan jumlah dari [`X`](../x/) dan [`Width`](../width/) struktur [`RectangleF`](../) ini.
 
 ```csharp
 public float Right { get; set; }
 ```
 
-### Nilai Pengembalian
+### Nilai Kembalian
 
-Koordinat x yang merupakan jumlah dari[`X`](../x/) Dan[`Width`](../width/) ini[`RectangleF`](../) struktur.
+Koordinat x yang merupakan jumlah dari [`X`](../x/) dan [`Width`](../width/) struktur [`RectangleF`](../) ini.
 
-### Lihat juga
+### Lihat Juga
 
 * struct [RectangleF](../)
-* ruang nama [Aspose.PSD](../../rectanglef/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

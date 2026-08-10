@@ -1,28 +1,29 @@
 ---
-title: Image.ResizeWidthProportionally
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Image metode. Mengubah ukuran lebar secara proporsional.
+title: "Image.ResizeWidthProportionally"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode Image. Mengubah ukuran lebar secara proporsional. NearestNeighbourResample default digunakan."
 type: docs
-weight: 210
+weight: 220
 url: /id/net/aspose.psd/image/resizewidthproportionally/
 ---
+{{< psd/tize >}}
 ## ResizeWidthProportionally(int) {#resizewidthproportionally}
 
-Mengubah ukuran lebar secara proporsional.
+Mengubah ukuran lebar secara proporsional. NearestNeighbourResample default digunakan.
 
 ```csharp
 public void ResizeWidthProportionally(int newWidth)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
 | newWidth | Int32 | Lebar baru. |
 
-### Lihat juga
+### Lihat Juga
 
 * class [Image](../)
-* ruang nama [Aspose.PSD](../../image/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
@@ -34,17 +35,17 @@ Mengubah ukuran lebar secara proporsional.
 public virtual void ResizeWidthProportionally(int newWidth, ResizeType resizeType)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
 | newWidth | Int32 | Lebar baru. |
 | resizeType | ResizeType | Jenis pengubahan ukuran. |
 
-### Lihat juga
+### Lihat Juga
 
 * enum [ResizeType](../../resizetype/)
 * class [Image](../)
-* ruang nama [Aspose.PSD](../../image/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
@@ -56,16 +57,16 @@ Mengubah ukuran lebar secara proporsional.
 public virtual void ResizeWidthProportionally(int newWidth, ImageResizeSettings settings)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
 | newWidth | Int32 | Lebar baru. |
-| settings | ImageResizeSettings | Pengaturan pengubahan ukuran gambar. |
+| pengaturan | ImageResizeSettings | Pengaturan pengubahan ukuran gambar. |
 
-### Lihat juga
+### Lihat Juga
 
 * class [ImageResizeSettings](../../imageresizesettings/)
 * class [Image](../)
-* ruang nama [Aspose.PSD](../../image/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

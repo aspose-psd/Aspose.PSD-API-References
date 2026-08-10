@@ -1,27 +1,28 @@
 ---
-title: XmpChoise1.IsOpen
-second_title: Aspose.PSD untuk Referensi .NET API
-description: XmpChoise Properti. Mendapat atau menetapkan nilai yang menunjukkan apakah nilai pilihan dapat diperpanjang.
+title: "XmpChoise1.IsOpen"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti XmpChoise. Mendapatkan atau mengatur nilai yang menunjukkan apakah nilai yang disukai dapat diperluas"
 type: docs
 weight: 20
 url: /id/net/aspose.psd.xmp.types.derived/xmpchoise-1/isopen/
 ---
+{{< psd/tize >}}
 ## XmpChoise&lt;T&gt;.IsOpen property
 
-Mendapat atau menetapkan nilai yang menunjukkan apakah nilai pilihan dapat diperpanjang.
+Mendapatkan atau mengatur nilai yang menunjukkan apakah nilai yang disukai dapat diperluas.
 
 ```csharp
 public bool IsOpen { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
-`BENAR` jika nilai yang disukai dapat diperpanjang; jika tidak,`PALSU` .
+`true` jika nilai yang disukai dapat diperluas; jika tidak, `false`.
 
-### Lihat juga
+### Lihat Juga
 
 * class [XmpChoise&lt;T&gt;](../)
-* ruang nama [Aspose.PSD.Xmp.Types.Derived](../../xmpchoise-1/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Derived](../../../aspose.psd.xmp.types.derived/)
+* assembly [Aspose.PSD](../../../)
 
 

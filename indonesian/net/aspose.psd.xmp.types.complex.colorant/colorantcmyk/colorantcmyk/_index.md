@@ -1,46 +1,47 @@
 ---
-title: ColorantCmyk.ColorantCmyk
-second_title: Aspose.PSD untuk Referensi .NET API
-description: ColorantCmyk konstruktor. Menginisialisasi instance baru dariColorantCmyk kelas.
+title: "ColorantCmyk.ColorantCmyk"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "ColorantCmyk constructor. Menginisialisasi instance baru dari kelas ColorantCmyk"
 type: docs
 weight: 10
 url: /id/net/aspose.psd.xmp.types.complex.colorant/colorantcmyk/colorantcmyk/
 ---
+{{< psd/tize >}}
 ## ColorantCmyk() {#constructor}
 
-Menginisialisasi instance baru dari[`ColorantCmyk`](../) kelas.
+Menginisialisasi sebuah instance baru dari kelas [`ColorantCmyk`](../).
 
 ```csharp
 public ColorantCmyk()
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [ColorantCmyk](../)
-* ruang nama [Aspose.PSD.Xmp.Types.Complex.Colorant](../../colorantcmyk/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.Colorant](../../../aspose.psd.xmp.types.complex.colorant/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## ColorantCmyk(float, float, float, float) {#constructor_1}
 
-Menginisialisasi instance baru dari[`ColorantCmyk`](../) kelas.
+Menginisialisasi sebuah instance baru dari kelas [`ColorantCmyk`](../).
 
 ```csharp
 public ColorantCmyk(float black, float cyan, float magenta, float yellow)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| black | Single | Nilai komponen hitam. |
-| cyan | Single | Nilai komponen warna cyan. |
+| hitam | Single | Nilai komponen hitam. |
+| sian | Single | Nilai komponen warna sian. |
 | magenta | Single | Nilai komponen magenta. |
-| yellow | Single | Nilai komponen kuning. |
+| kuning | Single | Nilai komponen kuning. |
 
-### Lihat juga
+### Lihat Juga
 
 * class [ColorantCmyk](../)
-* ruang nama [Aspose.PSD.Xmp.Types.Complex.Colorant](../../colorantcmyk/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.Colorant](../../../aspose.psd.xmp.types.complex.colorant/)
+* assembly [Aspose.PSD](../../../)
 
 

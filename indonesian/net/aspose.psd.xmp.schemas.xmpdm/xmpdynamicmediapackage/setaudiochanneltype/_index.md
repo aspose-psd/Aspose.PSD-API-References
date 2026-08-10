@@ -1,28 +1,29 @@
 ---
-title: XmpDynamicMediaPackage.SetAudioChannelType
-second_title: Aspose.PSD untuk Referensi .NET API
-description: XmpDynamicMediaPackage metode. Mengatur jenis saluran audio.
+title: "XmpDynamicMediaPackage.SetAudioChannelType"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode XmpDynamicMediaPackage. Mengatur tipe saluran audio"
 type: docs
 weight: 80
 url: /id/net/aspose.psd.xmp.schemas.xmpdm/xmpdynamicmediapackage/setaudiochanneltype/
 ---
+{{< psd/tize >}}
 ## XmpDynamicMediaPackage.SetAudioChannelType method
 
-Mengatur jenis saluran audio.
+Mengatur tipe saluran audio.
 
 ```csharp
 public void SetAudioChannelType(AudioChannelType audioChannelType)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| audioChannelType | AudioChannelType | Jenis saluran audio. |
+| audioChannelType | AudioChannelType | Tipe saluran audio. |
 
-### Lihat juga
+### Lihat Juga
 
 * class [AudioChannelType](../../audiochanneltype/)
 * class [XmpDynamicMediaPackage](../)
-* ruang nama [Aspose.PSD.Xmp.Schemas.XmpDm](../../xmpdynamicmediapackage/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpDm](../../../aspose.psd.xmp.schemas.xmpdm/)
+* assembly [Aspose.PSD](../../../)
 
 

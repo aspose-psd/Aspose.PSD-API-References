@@ -1,28 +1,29 @@
 ---
-title: VectorRasterizationOptions.SmoothingMode
-second_title: Aspose.PSD untuk Referensi .NET API
-description: VectorRasterizationOptions Properti. Mendapatkan atau menyetel mode smoothing.
+title: "VectorRasterizationOptions.SmoothingMode"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti VectorRasterizationOptions. Mendapatkan atau mengatur smoothing mode"
 type: docs
 weight: 90
 url: /id/net/aspose.psd.imageoptions/vectorrasterizationoptions/smoothingmode/
 ---
+{{< psd/tize >}}
 ## VectorRasterizationOptions.SmoothingMode property
 
-Mendapatkan atau menyetel mode smoothing.
+Mendapatkan atau mengatur mode penghalusan.
 
 ```csharp
 public SmoothingMode SmoothingMode { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
-Mode perataan.
+Smoothing mode.
 
-### Lihat juga
+### Lihat Juga
 
 * enum [SmoothingMode](../../../aspose.psd/smoothingmode/)
 * class [VectorRasterizationOptions](../)
-* ruang nama [Aspose.PSD.ImageOptions](../../vectorrasterizationoptions/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

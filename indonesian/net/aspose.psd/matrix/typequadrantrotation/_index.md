@@ -1,23 +1,24 @@
 ---
-title: Matrix.TypeQuadrantRotation
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Matrix bidang. Bit bendera ini menunjukkan bahwa transformasi yang ditentukan oleh objek ini melakukan rotasi kuadran dengan kelipatan 90 derajat di selain konversi yang ditunjukkan oleh bit bendera lainnya. Rotasi mengubah sudut vektor dengan jumlah yang sama terlepas dari arah aslinya vektor dan tanpa mengubah panjang vektor. Bit bendera ini saling eksklusif dengan bendera TypeGeneralRotation.
+title: "Matrix.TypeQuadrantRotation"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Bidang Matrix. Bit flag ini menunjukkan bahwa transformasi yang didefinisikan oleh objek ini melakukan rotasi kuadran sebesar kelipatan 90 derajat, selain konversi yang ditunjukkan oleh bit flag lainnya. Rotasi mengubah sudut vektor dengan jumlah yang sama terlepas dari arah asli vektor dan tanpa mengubah panjang vektor. Bit flag ini saling eksklusif dengan flag TypeGeneralRotation."
 type: docs
 weight: 270
 url: /id/net/aspose.psd/matrix/typequadrantrotation/
 ---
+{{< psd/tize >}}
 ## Matrix.TypeQuadrantRotation field
 
-Bit bendera ini menunjukkan bahwa transformasi yang ditentukan oleh objek ini melakukan rotasi kuadran dengan kelipatan 90 derajat di selain konversi yang ditunjukkan oleh bit bendera lainnya. Rotasi mengubah sudut vektor dengan jumlah yang sama terlepas dari arah aslinya vektor dan tanpa mengubah panjang vektor. Bit bendera ini saling eksklusif dengan bendera TypeGeneralRotation.
+Bit flag ini menunjukkan bahwa transformasi yang didefinisikan oleh objek ini melakukan rotasi kuadran sebesar kelipatan 90 derajat selain konversi yang ditunjukkan oleh bit flag lainnya. Rotasi mengubah sudut vektor dengan jumlah yang sama terlepas dari arah asli vektor dan tanpa mengubah panjang vektor. Bit flag ini bersifat saling eksklusif dengan flag TypeGeneralRotation.
 
 ```csharp
 public const int TypeQuadrantRotation;
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [Matrix](../)
-* ruang nama [Aspose.PSD](../../matrix/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

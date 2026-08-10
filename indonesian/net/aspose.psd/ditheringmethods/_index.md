@@ -1,11 +1,12 @@
 ---
-title: Enum DitheringMethods
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Aspose.PSD.DitheringMethods enum. Metode dithering yang digunakan untuk mengontrol konversi warna.
+title: "Enum DitheringMethods"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Enum Aspose.PSD.DitheringMethods. Metode dithering yang digunakan untuk mengontrol konversi warna."
 type: docs
-weight: 780
+weight: 790
 url: /id/net/aspose.psd/ditheringmethods/
 ---
+{{< psd/tize >}}
 ## DitheringMethods enumeration
 
 Metode dithering yang digunakan untuk mengontrol konversi warna.
@@ -16,15 +17,15 @@ public enum DitheringMethods
 
 ### Nilai
 
-| Nama | Nilai | Keterangan |
+| Nama | Nilai | Deskripsi |
 | --- | --- | --- |
 | PaletteIgnore | `0` | Palet diabaikan |
 | PaletteConversion | `1` | Palet tidak diabaikan dan konversi warna yang bijaksana harus diterapkan. |
 | CustomConverter | `2` | Konverter khusus. |
 
-### Lihat juga
+### Lihat Juga
 
-* ruang nama [Aspose.PSD](../../aspose.psd/)
-* perakitan [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

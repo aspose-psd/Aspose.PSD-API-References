@@ -1,44 +1,45 @@
 ---
-title: ImageAttributes.ClearColorKey
-second_title: Aspose.PSD untuk Referensi .NET API
-description: ImageAttributes metode. Menghapus kunci warna rentang transparansi untuk kategori default.
+title: "ImageAttributes.ClearColorKey"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode ImageAttributes. Menghapus rentang transparansi kunci warna untuk kategori default."
 type: docs
 weight: 30
 url: /id/net/aspose.psd/imageattributes/clearcolorkey/
 ---
+{{< psd/tize >}}
 ## ClearColorKey() {#clearcolorkey}
 
-Menghapus kunci warna (rentang transparansi) untuk kategori default.
+Membersihkan kunci warna (rentang transparansi) untuk kategori default.
 
 ```csharp
 public void ClearColorKey()
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [ImageAttributes](../)
-* ruang nama [Aspose.PSD](../../imageattributes/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## ClearColorKey(ColorAdjustType) {#clearcolorkey_1}
 
-Menghapus kunci warna (rentang transparansi) untuk kategori tertentu.
+Membersihkan kunci warna (rentang transparansi) untuk kategori yang ditentukan.
 
 ```csharp
 public void ClearColorKey(ColorAdjustType type)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| type | ColorAdjustType | Elemen dari[`ColorAdjustType`](../../coloradjusttype/) yang menentukan kategori yang kunci warna dihapus. |
+| type | ColorAdjustType | Elemen dari [`ColorAdjustType`](../../coloradjusttype/) yang menentukan kategori di mana kunci warna dihapus. |
 
-### Lihat juga
+### Lihat Juga
 
 * enum [ColorAdjustType](../../coloradjusttype/)
 * class [ImageAttributes](../)
-* ruang nama [Aspose.PSD](../../imageattributes/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

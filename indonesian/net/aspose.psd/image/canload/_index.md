@@ -1,11 +1,12 @@
 ---
-title: Image.CanLoad
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Image metode. Menentukan apakah gambar dapat dimuat dari jalur file yang ditentukan.
+title: "Image.CanLoad"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode Image. Menentukan apakah gambar dapat dimuat dari jalur file yang ditentukan"
 type: docs
-weight: 250
+weight: 260
 url: /id/net/aspose.psd/image/canload/
 ---
+{{< psd/tize >}}
 ## CanLoad(string) {#canload_2}
 
 Menentukan apakah gambar dapat dimuat dari jalur file yang ditentukan.
@@ -14,45 +15,45 @@ Menentukan apakah gambar dapat dimuat dari jalur file yang ditentukan.
 public static bool CanLoad(string filePath)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
 | filePath | String | Jalur file. |
 
-### Nilai Pengembalian
+### Nilai Kembalian
 
-`BENAR` jika gambar dapat dimuat dari file yang ditentukan; jika tidak,`PALSU` .
+`true` jika gambar dapat dimuat dari file yang ditentukan; jika tidak, `false`.
 
-### Lihat juga
+### Lihat Juga
 
 * class [Image](../)
-* ruang nama [Aspose.PSD](../../image/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## CanLoad(string, LoadOptions) {#canload_3}
 
-Menentukan apakah gambar dapat dimuat dari jalur file yang ditentukan dan secara opsional menggunakan opsi terbuka yang ditentukan.
+Menentukan apakah gambar dapat dimuat dari jalur file yang ditentukan dan opsional menggunakan opsi buka yang ditentukan.
 
 ```csharp
 public static bool CanLoad(string filePath, LoadOptions loadOptions)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
 | filePath | String | Jalur file. |
 | loadOptions | LoadOptions | Opsi pemuatan. |
 
-### Nilai Pengembalian
+### Nilai Kembalian
 
-`BENAR` jika gambar dapat dimuat dari file yang ditentukan; jika tidak,`PALSU` .
+`true` jika gambar dapat dimuat dari file yang ditentukan; jika tidak, `false`.
 
-### Lihat juga
+### Lihat Juga
 
 * class [LoadOptions](../../loadoptions/)
 * class [Image](../)
-* ruang nama [Aspose.PSD](../../image/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
@@ -64,44 +65,44 @@ Menentukan apakah gambar dapat dimuat dari aliran yang ditentukan.
 public static bool CanLoad(Stream stream)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| stream | Stream | Aliran untuk memuat dari. |
+| stream | Stream | Stream untuk dimuat. |
 
-### Nilai Pengembalian
+### Nilai Kembalian
 
-`BENAR` jika gambar dapat dimuat dari aliran yang ditentukan; jika tidak,`PALSU` .
+`true` jika gambar dapat dimuat dari stream yang ditentukan; jika tidak, `false`.
 
-### Lihat juga
+### Lihat Juga
 
 * class [Image](../)
-* ruang nama [Aspose.PSD](../../image/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## CanLoad(Stream, LoadOptions) {#canload_1}
 
-Menentukan apakah gambar dapat dimuat dari aliran yang ditentukan dan secara opsional menggunakan yang ditentukan*loadOptions* .
+Menentukan apakah gambar dapat dimuat dari aliran yang ditentukan dan opsional menggunakan *loadOptions* yang ditentukan.
 
 ```csharp
 public static bool CanLoad(Stream stream, LoadOptions loadOptions)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| stream | Stream | Aliran untuk memuat dari. |
+| stream | Stream | Stream untuk dimuat. |
 | loadOptions | LoadOptions | Opsi pemuatan. |
 
-### Nilai Pengembalian
+### Nilai Kembalian
 
-`BENAR` jika gambar dapat dimuat dari aliran yang ditentukan; jika tidak,`PALSU` .
+`true` jika gambar dapat dimuat dari stream yang ditentukan; jika tidak, `false`.
 
-### Lihat juga
+### Lihat Juga
 
 * class [LoadOptions](../../loadoptions/)
 * class [Image](../)
-* ruang nama [Aspose.PSD](../../image/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

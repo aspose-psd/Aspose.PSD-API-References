@@ -1,28 +1,29 @@
 ---
-title: ShapeSegment.StartPoint
-second_title: Aspose.PSD untuk Referensi .NET API
-description: ShapeSegment Properti. Mendapat titik awal.
+title: "ShapeSegment.StartPoint"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti ShapeSegment. Mendapatkan titik awal"
 type: docs
 weight: 20
 url: /id/net/aspose.psd/shapesegment/startpoint/
 ---
+{{< psd/tize >}}
 ## ShapeSegment.StartPoint property
 
-Mendapat titik awal.
+Mendapatkan titik awal.
 
 ```csharp
 public abstract PointF StartPoint { get; }
 ```
 
-### Nilai properti
+### Property Value
 
 Titik awal.
 
-### Lihat juga
+### Lihat Juga
 
 * struct [PointF](../../pointf/)
 * class [ShapeSegment](../)
-* ruang nama [Aspose.PSD](../../shapesegment/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

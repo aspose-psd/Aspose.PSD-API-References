@@ -1,27 +1,28 @@
 ---
-title: PsdLoadOptions.IgnoreTextLayerWidthOnUpdate
-second_title: Aspose.PSD untuk Referensi .NET API
-description: PsdLoadOptions Properti. Mendapat atau menetapkan nilai yang menunjukkan apakah lebar tetap lapisan teks PSD akan diabaikan pada eksekusi operasi UpdateText.
+title: "PsdLoadOptions.IgnoreTextLayerWidthOnUpdate"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti PsdLoadOptions. Mendapatkan atau mengatur nilai yang menunjukkan apakah lebar tetap lapisan teks PSD akan diabaikan saat eksekusi operasi UpdateText"
 type: docs
-weight: 40
+weight: 50
 url: /id/net/aspose.psd.imageloadoptions/psdloadoptions/ignoretextlayerwidthonupdate/
 ---
+{{< psd/tize >}}
 ## PsdLoadOptions.IgnoreTextLayerWidthOnUpdate property
 
-Mendapat atau menetapkan nilai yang menunjukkan apakah lebar tetap lapisan teks PSD akan diabaikan pada eksekusi operasi UpdateText.
+Mendapatkan atau mengatur nilai yang menunjukkan apakah lebar tetap lapisan teks PSD akan diabaikan pada pelaksanaan operasi UpdateText.
 
 ```csharp
 public bool IgnoreTextLayerWidthOnUpdate { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
-`BENAR` if [abaikan lebar lapisan teks]; jika tidak,`PALSU` .
+`true` jika [ignore text layer width]; selainnya, `false`.
 
-### Lihat juga
+### Lihat Juga
 
 * class [PsdLoadOptions](../)
-* ruang nama [Aspose.PSD.ImageLoadOptions](../../psdloadoptions/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageLoadOptions](../../../aspose.psd.imageloadoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,48 +1,49 @@
 ---
-title: ImageCreateException.ImageCreateException
-second_title: Aspose.PSD untuk Referensi .NET API
-description: ImageCreateException konstruktor. Menginisialisasi instance baru dariImageCreateException kelas.
+title: "ImageCreateException.ImageCreateException"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "ImageCreateException konstruktor. Menginisialisasi sebuah instance baru dari kelas ImageCreateException"
 type: docs
 weight: 10
 url: /id/net/aspose.psd.coreexceptions/imagecreateexception/imagecreateexception/
 ---
+{{< psd/tize >}}
 ## ImageCreateException(string) {#constructor}
 
-Menginisialisasi instance baru dari[`ImageCreateException`](../) kelas.
+Menginisialisasi sebuah instance baru dari kelas [`ImageCreateException`](../).
 
 ```csharp
 public ImageCreateException(string message)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
 | message | String | Pesan pengecualian. |
 
-### Lihat juga
+### Lihat Juga
 
 * class [ImageCreateException](../)
-* ruang nama [Aspose.PSD.CoreExceptions](../../imagecreateexception/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.CoreExceptions](../../../aspose.psd.coreexceptions/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## ImageCreateException(string, Exception) {#constructor_1}
 
-Menginisialisasi instance baru dari[`ImageCreateException`](../) kelas.
+Menginisialisasi sebuah instance baru dari kelas [`ImageCreateException`](../).
 
 ```csharp
 public ImageCreateException(string message, Exception innerException)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
 | message | String | Pesan pengecualian. |
-| innerException | Exception | Pengecualian batin. |
+| innerException | Exception | Pengecualian dalam. |
 
-### Lihat juga
+### Lihat Juga
 
 * class [ImageCreateException](../)
-* ruang nama [Aspose.PSD.CoreExceptions](../../imagecreateexception/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.CoreExceptions](../../../aspose.psd.coreexceptions/)
+* assembly [Aspose.PSD](../../../)
 
 

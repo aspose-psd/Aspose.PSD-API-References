@@ -1,24 +1,25 @@
 ---
-title: SplitStreamContainer.Insert
-second_title: Aspose.PSD untuk Referensi .NET API
-description: SplitStreamContainer metode. Menyisipkan wadah aliran ke posisi yang ditentukan.
+title: "SplitStreamContainer.Insert"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode SplitStreamContainer. Menyisipkan kontainer aliran ke posisi yang ditentukan"
 type: docs
 weight: 100
 url: /id/net/aspose.psd/splitstreamcontainer/insert/
 ---
+{{< psd/tize >}}
 ## SplitStreamContainer.Insert method
 
-Menyisipkan wadah aliran ke posisi yang ditentukan.
+Menyisipkan kontainer aliran ke posisi yang ditentukan.
 
 ```csharp
 public void Insert(int position, StreamContainer stream, bool disposeStream)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| position | Int32 | Posisi untuk memasukkan ke. |
-| stream | StreamContainer | Wadah aliran untuk disisipkan. |
-| disposeStream | Boolean | jika diatur ke`BENAR` mengatur aliran. |
+| posisi | Int32 | Posisi untuk menyisipkan. |
+| stream | StreamContainer | Kontainer aliran untuk disisipkan. |
+| disposeStream | Boolean | jika diatur ke `true` akan membuang aliran. |
 
 ### Pengecualian
 
@@ -26,11 +27,11 @@ public void Insert(int position, StreamContainer stream, bool disposeStream)
 | --- | --- |
 | [FrameworkException](../../../aspose.psd.coreexceptions/frameworkexception/) |  |
 
-### Lihat juga
+### Lihat Juga
 
 * class [StreamContainer](../../streamcontainer/)
 * class [SplitStreamContainer](../)
-* ruang nama [Aspose.PSD](../../splitstreamcontainer/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

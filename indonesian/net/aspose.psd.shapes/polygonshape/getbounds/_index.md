@@ -1,61 +1,62 @@
 ---
-title: PolygonShape.GetBounds
-second_title: Aspose.PSD untuk Referensi .NET API
-description: PolygonShape metode. Mendapat batas objek.
+title: "PolygonShape.GetBounds"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "PolygonShape method. Mengambil batas objek"
 type: docs
 weight: 100
 url: /id/net/aspose.psd.shapes/polygonshape/getbounds/
 ---
+{{< psd/tize >}}
 ## GetBounds(Matrix) {#getbounds}
 
-Mendapat batas objek.
+Mendapatkan batas objek.
 
 ```csharp
 public override RectangleF GetBounds(Matrix matrix)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| matrix | Matrix | Matriks yang diterapkan sebelum batas akan dihitung. |
+| matriks | Matrix | Matriks yang akan diterapkan sebelum batas dihitung. |
 
-### Nilai Pengembalian
+### Nilai Kembalian
 
-Batas objek yang diestimasi.
+Batas perkiraan objek.
 
-### Lihat juga
+### Lihat Juga
 
 * struct [RectangleF](../../../aspose.psd/rectanglef/)
 * class [Matrix](../../../aspose.psd/matrix/)
 * class [PolygonShape](../)
-* ruang nama [Aspose.PSD.Shapes](../../polygonshape/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## GetBounds(Matrix, Pen) {#getbounds_1}
 
-Mendapat batas objek.
+Mendapatkan batas objek.
 
 ```csharp
 public override RectangleF GetBounds(Matrix matrix, Pen pen)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| matrix | Matrix | Matriks yang diterapkan sebelum batas akan dihitung. |
-| pen | Pen | Pena yang akan digunakan untuk objek. Ini dapat memengaruhi ukuran batas objek. |
+| matriks | Matrix | Matriks yang akan diterapkan sebelum batas dihitung. |
+| pena | Pen | Pena yang digunakan untuk objek. Ini dapat memengaruhi ukuran batas objek. |
 
-### Nilai Pengembalian
+### Nilai Kembalian
 
-Batas objek yang diestimasi.
+Batas perkiraan objek.
 
-### Lihat juga
+### Lihat Juga
 
 * struct [RectangleF](../../../aspose.psd/rectanglef/)
 * class [Matrix](../../../aspose.psd/matrix/)
 * class [Pen](../../../aspose.psd/pen/)
 * class [PolygonShape](../)
-* ruang nama [Aspose.PSD.Shapes](../../polygonshape/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 

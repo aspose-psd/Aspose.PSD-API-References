@@ -1,27 +1,28 @@
 ---
-title: GradientOverlayEffect.Opacity
-second_title: Aspose.PSD untuk Referensi .NET API
-description: GradientOverlayEffect Properti. Mendapat atau mengatur opacity.
+title: "GradientOverlayEffect.Opacity"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "GradientOverlayEffect properti. Mendapatkan atau mengatur opasitas"
 type: docs
 weight: 40
 url: /id/net/aspose.psd.fileformats.psd.layers.layereffects/gradientoverlayeffect/opacity/
 ---
+{{< psd/tize >}}
 ## GradientOverlayEffect.Opacity property
 
-Mendapat atau mengatur opacity.
+Mendapatkan atau mengatur opasitas.
 
 ```csharp
 public byte Opacity { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
 Opasitas.
 
-### Lihat juga
+### Lihat Juga
 
 * class [GradientOverlayEffect](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../gradientoverlayeffect/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../../)
 
 

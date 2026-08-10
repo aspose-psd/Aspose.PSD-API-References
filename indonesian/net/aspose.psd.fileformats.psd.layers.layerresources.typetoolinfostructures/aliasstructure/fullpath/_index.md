@@ -1,27 +1,28 @@
 ---
-title: AliasStructure.FullPath
-second_title: Aspose.PSD untuk Referensi .NET API
-description: AliasStructure Properti. Mendapat atau menyetel path lengkap.
+title: "AliasStructure.FullPath"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti AliasStructure. Mendapatkan atau mengatur jalur lengkap"
 type: docs
 weight: 30
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/aliasstructure/fullpath/
 ---
+{{< psd/tize >}}
 ## AliasStructure.FullPath property
 
-Mendapat atau menyetel path lengkap.
+Mendapatkan atau mengatur jalur lengkap.
 
 ```csharp
 public string FullPath { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
 Jalur lengkap.
 
-### Lihat juga
+### Lihat Juga
 
 * class [AliasStructure](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../aliasstructure/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 

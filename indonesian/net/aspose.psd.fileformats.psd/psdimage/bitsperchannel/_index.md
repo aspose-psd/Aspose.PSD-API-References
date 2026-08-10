@@ -1,27 +1,28 @@
 ---
-title: PsdImage.BitsPerChannel
-second_title: Aspose.PSD untuk Referensi .NET API
-description: PsdImage Properti. Mendapat bit per saluran.
+title: "PsdImage.BitsPerChannel"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti PsdImage. Mendapatkan bit per saluran"
 type: docs
 weight: 30
 url: /id/net/aspose.psd.fileformats.psd/psdimage/bitsperchannel/
 ---
+{{< psd/tize >}}
 ## PsdImage.BitsPerChannel property
 
-Mendapat bit per saluran.
+Mendapatkan bit per saluran.
 
 ```csharp
 public int BitsPerChannel { get; }
 ```
 
-### Nilai properti
+### Property Value
 
 Bit per saluran.
 
-### Lihat juga
+### Lihat Juga
 
 * class [PsdImage](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

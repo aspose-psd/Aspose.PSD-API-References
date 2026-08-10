@@ -1,27 +1,28 @@
 ---
-title: LspfResource.IsPositionProtected
-second_title: Aspose.PSD untuk Referensi .NET API
-description: LspfResource Properti. Mendapat atau menetapkan nilai yang menunjukkan apakah instance ini dilindungi posisinya.
+title: "LspfResource.IsPositionProtected"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti LspfResource. Mengambil atau mengatur nilai yang menunjukkan apakah instance ini dilindungi posisi"
 type: docs
 weight: 30
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources/lspfresource/ispositionprotected/
 ---
+{{< psd/tize >}}
 ## LspfResource.IsPositionProtected property
 
-Mendapat atau menetapkan nilai yang menunjukkan apakah instance ini dilindungi posisinya.
+Mendapatkan atau mengatur nilai yang menunjukkan apakah instance ini dilindungi posisi.
 
 ```csharp
 public bool IsPositionProtected { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
-`BENAR` jika instance ini dilindungi posisinya; jika tidak,`PALSU` .
+`true` jika instance ini dilindungi posisi; lainnya, `false`.
 
-### Lihat juga
+### Lihat Juga
 
 * class [LspfResource](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../lspfresource/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

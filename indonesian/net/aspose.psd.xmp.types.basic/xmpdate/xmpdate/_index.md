@@ -1,53 +1,54 @@
 ---
-title: XmpDate.XmpDate
-second_title: Aspose.PSD untuk Referensi .NET API
-description: XmpDate konstruktor. Menginisialisasi instance baru dariXmpDate kelas.
+title: "XmpDate.XmpDate"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Konstruktor XmpDate. Menginisialisasi sebuah instance baru dari kelas XmpDate"
 type: docs
 weight: 10
 url: /id/net/aspose.psd.xmp.types.basic/xmpdate/xmpdate/
 ---
+{{< psd/tize >}}
 ## XmpDate(DateTime) {#constructor}
 
-Menginisialisasi instance baru dari[`XmpDate`](../) kelas.
+Menginisialisasi sebuah instance baru dari kelas [`XmpDate`](../).
 
 ```csharp
 public XmpDate(DateTime dateTime)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| dateTime | DateTime | Nilai tanggal-waktu yang direpresentasikan menggunakan subset pemformatan ISO RFC 8601. |
+| dateTime | DateTime | Nilai date-time yang direpresentasikan menggunakan subset format ISO RFC 8601. |
 
-### Lihat juga
+### Lihat Juga
 
 * class [XmpDate](../)
-* ruang nama [Aspose.PSD.Xmp.Types.Basic](../../xmpdate/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Basic](../../../aspose.psd.xmp.types.basic/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## XmpDate(string) {#constructor_1}
 
-Menginisialisasi instance baru dari[`XmpDate`](../) kelas.
+Menginisialisasi sebuah instance baru dari kelas [`XmpDate`](../).
 
 ```csharp
 public XmpDate(string dateString)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| dateString | String | Representasi string tanggal. |
+| dateString | String | Representasi string dari tanggal. |
 
 ### Pengecualian
 
 | pengecualian | kondisi |
 | --- | --- |
-| ArgumentException | Format tanggal tidak valid;tanggal |
+| ArgumentException | Format tanggal tidak valid;date |
 
-### Lihat juga
+### Lihat Juga
 
 * class [XmpDate](../)
-* ruang nama [Aspose.PSD.Xmp.Types.Basic](../../xmpdate/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Basic](../../../aspose.psd.xmp.types.basic/)
+* assembly [Aspose.PSD](../../../)
 
 

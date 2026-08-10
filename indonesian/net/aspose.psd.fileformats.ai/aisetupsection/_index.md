@@ -1,14 +1,15 @@
 ---
-title: Class AiSetupSection
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Aspose.PSD.FileFormats.Ai.AiSetupSection kelas. Bagian Penyiapan Format Ai
+title: "Kelas AiSetupSection"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Aspose.PSD.FileFormats.Ai.AiSetupSection class. Bagian Pengaturan format Ai"
 type: docs
-weight: 1300
+weight: 1310
 url: /id/net/aspose.psd.fileformats.ai/aisetupsection/
 ---
+{{< psd/tize >}}
 ## AiSetupSection class
 
-Bagian Penyiapan Format Ai
+Bagian Penyiapan format Ai
 
 ```csharp
 public sealed class AiSetupSection : AiSection
@@ -16,14 +17,14 @@ public sealed class AiSetupSection : AiSection
 
 ## Metode
 
-| Nama | Keterangan |
+| Nama | Deskripsi |
 | --- | --- |
-| [GetData](../../aspose.psd.fileformats.ai/aisection/getdata/)() | Mendapat data string. |
+| [GetData](../../aspose.psd.fileformats.ai/aisection/getdata/)() | Mendapatkan data string. |
 
-### Lihat juga
+### Lihat Juga
 
 * class [AiSection](../aisection/)
-* ruang nama [Aspose.PSD.FileFormats.Ai](../../aspose.psd.fileformats.ai/)
-* perakitan [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../)
 
 

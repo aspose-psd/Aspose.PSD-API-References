@@ -1,27 +1,28 @@
 ---
-title: LayerMaskDataFull.EnclosingRight
-second_title: Aspose.PSD untuk Referensi .NET API
-description: LayerMaskDataFull Properti. Mendapat atau menyetel posisi topeng raster yang tepat di lapisan file PSD.
+title: "LayerMaskDataFull.EnclosingRight"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti LayerMaskDataFull. Mendapatkan atau mengatur posisi raster mask kanan yang membungkus dalam lapisan file PSD"
 type: docs
 weight: 50
 url: /id/net/aspose.psd.fileformats.psd.layers/layermaskdatafull/enclosingright/
 ---
+{{< psd/tize >}}
 ## LayerMaskDataFull.EnclosingRight property
 
-Mendapat atau menyetel posisi topeng raster yang tepat di lapisan file PSD.
+Mendapatkan atau mengatur posisi raster mask kanan yang melingkupi dalam lapisan file PSD.
 
 ```csharp
 public int EnclosingRight { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
-Posisi layer mask kanan.
+Posisi mask lapisan kanan.
 
-### Lihat juga
+### Lihat Juga
 
 * class [LayerMaskDataFull](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers](../../layermaskdatafull/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

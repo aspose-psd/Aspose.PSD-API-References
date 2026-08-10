@@ -1,11 +1,12 @@
 ---
-title: GuideResource.GuideResourceSize
-second_title: Aspose.PSD untuk Referensi .NET API
-description: GuideResource bidang. Ukuran blok sumber daya panduan.
+title: "GuideResource.GuideResourceSize"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Bidang GuideResource. Ukuran blok sumber daya panduan"
 type: docs
 weight: 40
 url: /id/net/aspose.psd.fileformats.psd.resources/guideresource/guideresourcesize/
 ---
+{{< psd/tize >}}
 ## GuideResource.GuideResourceSize field
 
 Ukuran blok sumber daya panduan.
@@ -14,10 +15,10 @@ Ukuran blok sumber daya panduan.
 public const int GuideResourceSize;
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [GuideResource](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Resources](../../guideresource/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

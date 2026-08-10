@@ -1,27 +1,28 @@
 ---
-title: TiffExifIfd.HasValue
-second_title: Aspose.PSD untuk Referensi .NET API
-description: TiffExifIfd Properti. Mendapat nilai yang menunjukkan apakah instance ini memiliki nilai.
+title: "TiffExifIfd.HasValue"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti TiffExifIfd. Mendapatkan nilai yang menunjukkan apakah instance ini memiliki nilai"
 type: docs
 weight: 20
 url: /id/net/aspose.psd.fileformats.tiff/tiffexififd/hasvalue/
 ---
+{{< psd/tize >}}
 ## TiffExifIfd.HasValue property
 
-Mendapat nilai yang menunjukkan apakah instance ini memiliki nilai.
+Mendapatkan nilai yang menunjukkan apakah instance ini memiliki nilai.
 
 ```csharp
 public bool HasValue { get; }
 ```
 
-### Nilai properti
+### Property Value
 
-`BENAR` jika hal ini memiliki nilai; jika tidak,`PALSU` .
+`true` jika instance ini memiliki nilai; jika tidak, `false`.
 
-### Lihat juga
+### Lihat Juga
 
 * class [TiffExifIfd](../)
-* ruang nama [Aspose.PSD.FileFormats.Tiff](../../tiffexififd/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff](../../../aspose.psd.fileformats.tiff/)
+* assembly [Aspose.PSD](../../../)
 
 

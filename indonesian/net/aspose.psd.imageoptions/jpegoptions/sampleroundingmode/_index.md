@@ -1,24 +1,25 @@
 ---
-title: JpegOptions.SampleRoundingMode
-second_title: Aspose.PSD untuk Referensi .NET API
-description: JpegOptions Properti. Mendapatkan atau menyetel mode pembulatan sampel agar sesuai dengan nilai 8bit ke nilai nbit.BitsPerChannel
+title: "JpegOptions.SampleRoundingMode"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti JpegOptions. Mendapatkan atau mengatur mode pembulatan sampel untuk menyesuaikan nilai 8-bit ke nilai n-bit. BitsPerChannel"
 type: docs
-weight: 180
+weight: 190
 url: /id/net/aspose.psd.imageoptions/jpegoptions/sampleroundingmode/
 ---
+{{< psd/tize >}}
 ## JpegOptions.SampleRoundingMode property
 
-Mendapatkan atau menyetel mode pembulatan sampel agar sesuai dengan nilai 8-bit ke nilai n-bit.BitsPerChannel
+Mendapatkan atau mengatur mode pembulatan sampel untuk menyesuaikan nilai 8-bit ke nilai n-bit. BitsPerChannel
 
 ```csharp
 public SampleRoundingMode SampleRoundingMode { get; set; }
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * enum [SampleRoundingMode](../../../aspose.psd.fileformats.jpeg/sampleroundingmode/)
 * class [JpegOptions](../)
-* ruang nama [Aspose.PSD.ImageOptions](../../jpegoptions/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: FilterEffectMaskData.GUID
-second_title: Aspose.PSD untuk Referensi .NET API
-description: FilterEffectMaskData Properti. Mendapatkan GUID.
+title: "FilterEffectMaskData.GUID"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "FilterEffectMaskData properti. Mendapatkan GUID"
 type: docs
 weight: 30
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources/filtereffectmaskdata/guid/
 ---
+{{< psd/tize >}}
 ## FilterEffectMaskData.GUID property
 
 Mendapatkan GUID.
@@ -14,9 +15,9 @@ Mendapatkan GUID.
 public string GUID { get; }
 ```
 
-### Contoh
+## Contoh
 
-Contoh ini mendemonstrasikan cara mendapatkan dan mengatur properti sumber daya FXidResource.
+Contoh ini menunjukkan cara mendapatkan dan mengatur properti dari sumber daya FXidResource.
 
 ```csharp
 [C#]
@@ -25,7 +26,7 @@ string inputFilePath = "psdnet414_3.psd";
 string output = "out_psdnet414_3.psd";
 
 int resLength = 1144;
-int maskLength = 369;
+long maskLength = 369;
 
 void AssertAreEqual(object expected, object actual, string message = null)
 {
@@ -61,10 +62,10 @@ using (var psdImage = (PsdImage)Image.Load(output))
 }
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [FilterEffectMaskData](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../filtereffectmaskdata/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

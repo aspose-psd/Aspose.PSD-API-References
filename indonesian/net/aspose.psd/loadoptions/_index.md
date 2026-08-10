@@ -1,11 +1,12 @@
 ---
-title: Class LoadOptions
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Aspose.PSD.LoadOptions kelas. Mewakili opsi pemuatan.
+title: "Kelas LoadOptions"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Kelas Aspose.PSD.LoadOptions. Mewakili opsi pemuatan"
 type: docs
-weight: 5080
+weight: 5570
 url: /id/net/aspose.psd/loadoptions/
 ---
+{{< psd/tize >}}
 ## LoadOptions class
 
 Mewakili opsi pemuatan.
@@ -16,23 +17,23 @@ public class LoadOptions
 
 ## Konstruktor
 
-| Nama | Keterangan |
+| Nama | Deskripsi |
 | --- | --- |
 | [LoadOptions](loadoptions/)() | Konstruktor default. |
 
 ## Properti
 
-| Nama | Keterangan |
+| Nama | Deskripsi |
 | --- | --- |
-| [BufferSizeHint](../../aspose.psd/loadoptions/buffersizehint/) { get; set; } | Mendapat atau menyetel petunjuk ukuran buffer yang ditentukan ukuran maksimum yang diizinkan untuk semua buffer internal. |
-| [DataBackgroundColor](../../aspose.psd/loadoptions/databackgroundcolor/) { get; set; } | Mendapat atau menyetel[`Image`](../image/) latar belakang[`Color`](../color/) . |
-| [DataRecoveryMode](../../aspose.psd/loadoptions/datarecoverymode/) { get; set; } | Mendapatkan atau menyetel mode pemulihan data. |
-| [ProgressEventHandler](../../aspose.psd/loadoptions/progresseventhandler/) { get; set; } | Mendapat atau menyetel pengendali event progres. |
-| [UseIccProfileConversion](../../aspose.psd/loadoptions/useiccprofileconversion/) { get; set; } | Mendapat atau menetapkan nilai yang menunjukkan apakah konversi profil ICC harus diterapkan. |
+| [BufferSizeHint](../../aspose.psd/loadoptions/buffersizehint/) { get; set; } | Mendapatkan atau mengatur petunjuk ukuran buffer yang didefinisikan sebagai ukuran maksimum yang diizinkan untuk semua buffer internal. |
+| [DataBackgroundColor](../../aspose.psd/loadoptions/databackgroundcolor/) { get; set; } | Mendapatkan atau mengatur latar belakang [`Image`](../image/) [`Color`](../color/). |
+| [DataRecoveryMode](../../aspose.psd/loadoptions/datarecoverymode/) { get; set; } | Mendapatkan atau mengatur mode pemulihan data. |
+| [ProgressEventHandler](../../aspose.psd/loadoptions/progresseventhandler/) { get; set; } | Mendapatkan atau mengatur penangan acara kemajuan. |
+| [UseIccProfileConversion](../../aspose.psd/loadoptions/useiccprofileconversion/) { get; set; } | Mendapatkan atau mengatur nilai yang menunjukkan apakah konversi profil ICC harus diterapkan. |
 
-### Lihat juga
+### Lihat Juga
 
-* ruang nama [Aspose.PSD](../../aspose.psd/)
-* perakitan [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

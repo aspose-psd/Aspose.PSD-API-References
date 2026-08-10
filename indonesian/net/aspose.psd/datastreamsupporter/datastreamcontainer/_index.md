@@ -1,28 +1,29 @@
 ---
-title: DataStreamSupporter.DataStreamContainer
-second_title: Aspose.PSD untuk Referensi .NET API
-description: DataStreamSupporter Properti. Mendapat aliran data objek.
+title: "DataStreamSupporter.DataStreamContainer"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti DataStreamSupporter. Mendapatkan aliran data objek"
 type: docs
 weight: 10
 url: /id/net/aspose.psd/datastreamsupporter/datastreamcontainer/
 ---
+{{< psd/tize >}}
 ## DataStreamSupporter.DataStreamContainer property
 
-Mendapat aliran data objek.
+Mendapatkan aliran data objek.
 
 ```csharp
 public StreamContainer DataStreamContainer { get; }
 ```
 
-### Nilai properti
+### Property Value
 
 Aliran data objek.
 
-### Lihat juga
+### Lihat Juga
 
 * class [StreamContainer](../../streamcontainer/)
 * class [DataStreamSupporter](../)
-* ruang nama [Aspose.PSD](../../datastreamsupporter/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

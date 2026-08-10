@@ -1,11 +1,12 @@
 ---
-title: Enum FillMode
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Aspose.PSD.FillMode enum. Menentukan bagaimana interior jalur tertutup diisi.
+title: "Enum FillMode"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Enum Aspose.PSD.FillMode. Menentukan bagaimana interior jalur tertutup diisi"
 type: docs
-weight: 4260
+weight: 4730
 url: /id/net/aspose.psd/fillmode/
 ---
+{{< psd/tize >}}
 ## FillMode enumeration
 
 Menentukan bagaimana interior jalur tertutup diisi.
@@ -16,14 +17,14 @@ public enum FillMode
 
 ### Nilai
 
-| Nama | Nilai | Keterangan |
+| Nama | Nilai | Deskripsi |
 | --- | --- | --- |
-| Alternate | `0` | Menentukan mode pengisian alternatif. |
-| Winding | `1` | Menentukan mode isi belitan. |
+| Alternate | `0` | Menentukan mode isi alternatif. |
+| Winding | `1` | Menentukan mode isi winding. |
 
-### Lihat juga
+### Lihat Juga
 
-* ruang nama [Aspose.PSD](../../aspose.psd/)
-* perakitan [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

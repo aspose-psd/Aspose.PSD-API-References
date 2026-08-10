@@ -1,23 +1,24 @@
 ---
-title: GradientFillSettings.GradientFillSettings
-second_title: Aspose.PSD untuk Referensi .NET API
-description: GradientFillSettings konstruktor. Menginisialisasi instance baru dariGradientFillSettings kelas.
+title: "GradientFillSettings.GradientFillSettings"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Konstruktor GradientFillSettings. Konstruktor default"
 type: docs
 weight: 10
 url: /id/net/aspose.psd.fileformats.psd.layers.fillsettings/gradientfillsettings/gradientfillsettings/
 ---
+{{< psd/tize >}}
 ## GradientFillSettings constructor
 
-Menginisialisasi instance baru dari[`GradientFillSettings`](../) kelas.
+Konstruktor default.
 
 ```csharp
 public GradientFillSettings()
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [GradientFillSettings](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../gradientfillsettings/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../../)
 
 

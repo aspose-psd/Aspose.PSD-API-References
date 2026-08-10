@@ -1,31 +1,32 @@
 ---
-title: ColorRangeHsl.IsHueInSmallRange
-second_title: Aspose.PSD untuk Referensi .NET API
-description: ColorRangeHsl metode. Menentukan apakah rona dalam rentang kecil.
+title: "ColorRangeHsl.IsHueInSmallRange"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode ColorRangeHsl. Menentukan apakah hue berada dalam rentang kecil"
 type: docs
 weight: 110
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources/colorrangehsl/ishueinsmallrange/
 ---
+{{< psd/tize >}}
 ## ColorRangeHsl.IsHueInSmallRange method
 
-Menentukan apakah rona dalam rentang kecil.
+Menentukan apakah hue berada dalam rentang kecil.
 
 ```csharp
 public bool IsHueInSmallRange(double hue)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| hue | Double | Nilai rona. |
+| hue | Double | Nilai hue. |
 
-### Nilai Pengembalian
+### Nilai Kembalian
 
-`BENAR` jika rona dalam kisaran kecil; jika tidak,`PALSU` .
+`true` jika hue berada dalam rentang kecil; jika tidak, `false`.
 
-### Lihat juga
+### Lihat Juga
 
 * class [ColorRangeHsl](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../colorrangehsl/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

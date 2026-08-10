@@ -1,11 +1,12 @@
 ---
-title: AiImage.SetPalette
-second_title: Aspose.PSD untuk Referensi .NET API
-description: AiImage metode. Mengatur palet gambar.
+title: "AiImage.SetPalette"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode AiImage. Menetapkan palet gambar"
 type: docs
-weight: 170
+weight: 200
 url: /id/net/aspose.psd.fileformats.ai/aiimage/setpalette/
 ---
+{{< psd/tize >}}
 ## AiImage.SetPalette method
 
 Mengatur palet gambar.
@@ -14,10 +15,10 @@ Mengatur palet gambar.
 public override void SetPalette(IColorPalette palette, bool updateColors)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| palette | IColorPalette | Palet untuk diatur. |
-| updateColors | Boolean | jika diatur ke`BENAR` warna akan diperbarui sesuai dengan palet baru; jika tidak, indeks warna tetap tidak berubah. Perhatikan bahwa indeks yang tidak berubah dapat merusak gambar saat memuat jika beberapa indeks tidak memiliki entri palet yang sesuai. |
+| palet | IColorPalette | Palet yang akan disetel. |
+| updateColors | Boolean | jika disetel ke `true` warna akan diperbarui sesuai dengan palet baru; jika tidak indeks warna tetap tidak berubah. Perhatikan bahwa indeks yang tidak berubah dapat menyebabkan gambar crash saat dimuat jika beberapa indeks tidak memiliki entri palet yang sesuai. |
 
 ### Pengecualian
 
@@ -25,11 +26,11 @@ public override void SetPalette(IColorPalette palette, bool updateColors)
 | --- | --- |
 | NotImplementedException | Tidak Diimplementasikan |
 
-### Lihat juga
+### Lihat Juga
 
 * interface [IColorPalette](../../../aspose.psd/icolorpalette/)
 * class [AiImage](../)
-* ruang nama [Aspose.PSD.FileFormats.Ai](../../aiimage/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

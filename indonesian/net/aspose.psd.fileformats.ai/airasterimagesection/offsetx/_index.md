@@ -1,11 +1,12 @@
 ---
-title: AiRasterImageSection.OffsetX
-second_title: Aspose.PSD untuk Referensi .NET API
-description: AiRasterImageSection Properti. Mendapatkan offset X.
+title: "AiRasterImageSection.OffsetX"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti AiRasterImageSection. Mendapatkan offset X"
 type: docs
 weight: 60
 url: /id/net/aspose.psd.fileformats.ai/airasterimagesection/offsetx/
 ---
+{{< psd/tize >}}
 ## AiRasterImageSection.OffsetX property
 
 Mendapatkan offset X.
@@ -14,14 +15,14 @@ Mendapatkan offset X.
 public double OffsetX { get; }
 ```
 
-### Nilai properti
+### Property Value
 
-X offset.
+Offset X.
 
-### Lihat juga
+### Lihat Juga
 
 * class [AiRasterImageSection](../)
-* ruang nama [Aspose.PSD.FileFormats.Ai](../../airasterimagesection/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: AudioSampleType.Sample32Float
-second_title: Aspose.PSD untuk Referensi .NET API
-description: AudioSampleType Properti. Mewakili sampel audio 32Float.
+title: "AudioSampleType.Sample32Float"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "AudioSampleType property. Mewakili sampel audio 32Float"
 type: docs
 weight: 50
 url: /id/net/aspose.psd.xmp.schemas.xmpdm/audiosampletype/sample32float/
 ---
+{{< psd/tize >}}
 ## AudioSampleType.Sample32Float property
 
 Mewakili sampel audio 32Float.
@@ -14,10 +15,10 @@ Mewakili sampel audio 32Float.
 public static AudioSampleType Sample32Float { get; }
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [AudioSampleType](../)
-* ruang nama [Aspose.PSD.Xmp.Schemas.XmpDm](../../audiosampletype/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpDm](../../../aspose.psd.xmp.schemas.xmpdm/)
+* assembly [Aspose.PSD](../../../)
 
 

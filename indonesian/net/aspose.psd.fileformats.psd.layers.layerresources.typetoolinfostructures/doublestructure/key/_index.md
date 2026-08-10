@@ -1,23 +1,24 @@
 ---
-title: DoubleStructure.Key
-second_title: Aspose.PSD untuk Referensi .NET API
-description: DoubleStructure Properti. Mendapat kunci struktur.
+title: "DoubleStructure.Key"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti DoubleStructure. Mendapatkan kunci struktur"
 type: docs
 weight: 20
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/doublestructure/key/
 ---
+{{< psd/tize >}}
 ## DoubleStructure.Key property
 
-Mendapat kunci struktur.
+Mendapatkan kunci struktur.
 
 ```csharp
 public override int Key { get; }
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [DoubleStructure](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../doublestructure/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: Enum ColorMode
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Aspose.PSD.Xmp.Types.Complex.Colorant.ColorMode enum. Mewakili mode warna.
+title: "Enum ColorMode"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Enum Aspose.PSD.Xmp.Types.Complex.Colorant.ColorMode. Mewakili mode warna"
 type: docs
-weight: 5990
+weight: 6490
 url: /id/net/aspose.psd.xmp.types.complex.colorant/colormode/
 ---
+{{< psd/tize >}}
 ## ColorMode enumeration
 
 Mewakili mode warna.
@@ -16,15 +17,15 @@ public enum ColorMode
 
 ### Nilai
 
-| Nama | Nilai | Keterangan |
+| Nama | Nilai | Deskripsi |
 | --- | --- | --- |
-| Cmyk | `1` | mode warna CMYK. |
-| Rgb | `2` | mode warna RGB. |
-| Lab | `3` | mode warna LAB. |
+| Cmyk | `1` | Mode warna CMYK. |
+| Rgb | `2` | Mode warna RGB. |
+| Lab | `3` | Mode warna LAB. |
 
-### Lihat juga
+### Lihat Juga
 
-* ruang nama [Aspose.PSD.Xmp.Types.Complex.Colorant](../../aspose.psd.xmp.types.complex.colorant/)
-* perakitan [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.Colorant](../../aspose.psd.xmp.types.complex.colorant/)
+* assembly [Aspose.PSD](../../)
 
 

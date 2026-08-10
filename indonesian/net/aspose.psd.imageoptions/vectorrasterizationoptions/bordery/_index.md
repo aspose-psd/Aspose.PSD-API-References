@@ -1,27 +1,28 @@
 ---
-title: VectorRasterizationOptions.BorderY
-second_title: Aspose.PSD untuk Referensi .NET API
-description: VectorRasterizationOptions Properti. Mendapat atau mengatur perbatasan Y.
+title: "VectorRasterizationOptions.BorderY"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti VectorRasterizationOptions. Mendapatkan atau mengatur border Y"
 type: docs
 weight: 30
 url: /id/net/aspose.psd.imageoptions/vectorrasterizationoptions/bordery/
 ---
+{{< psd/tize >}}
 ## VectorRasterizationOptions.BorderY property
 
-Mendapat atau mengatur perbatasan Y.
+Mendapatkan atau mengatur batas Y.
 
 ```csharp
 public float BorderY { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
-Perbatasan Y.
+Border Y.
 
-### Lihat juga
+### Lihat Juga
 
 * class [VectorRasterizationOptions](../)
-* ruang nama [Aspose.PSD.ImageOptions](../../vectorrasterizationoptions/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

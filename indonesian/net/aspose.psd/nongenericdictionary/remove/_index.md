@@ -1,27 +1,28 @@
 ---
-title: NonGenericDictionary.Remove
-second_title: Aspose.PSD untuk Referensi .NET API
-description: NonGenericDictionary metode. Menghapus elemen dengan kunci tertentu dari IDictionary objek.
+title: "NonGenericDictionary.Remove"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode NonGenericDictionary. Menghapus elemen dengan kunci tertentu dari objek IDictionary"
 type: docs
 weight: 150
 url: /id/net/aspose.psd/nongenericdictionary/remove/
 ---
+{{< psd/tize >}}
 ## NonGenericDictionary.Remove method
 
-Menghapus elemen dengan kunci tertentu dari IDictionary objek.
+Menghapus elemen dengan kunci yang ditentukan dari objek IDictionary.
 
 ```csharp
 public void Remove(object key)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| key | Object | Kunci elemen yang akan dihapus. |
+| kunci | Object | Kunci elemen yang akan dihapus. |
 
-### Lihat juga
+### Lihat Juga
 
 * class [NonGenericDictionary](../)
-* ruang nama [Aspose.PSD](../../nongenericdictionary/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,22 +1,23 @@
 ---
-title: TimeLine.Frames
-second_title: Aspose.PSD untuk Referensi .NET API
-description: TimeLine Properti. Mendapat daftar frame.
+title: "Timeline.Frames"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti Timeline. Mendapatkan daftar frame"
 type: docs
-weight: 50
+weight: 40
 url: /id/net/aspose.psd.fileformats.psd.layers.animation/timeline/frames/
 ---
-## TimeLine.Frames property
+{{< psd/tize >}}
+## Timeline.Frames property
 
-Mendapat daftar frame.
+Mendapatkan daftar frame.
 
 ```csharp
 public Frame[] Frames { get; set; }
 ```
 
-### Contoh
+## Contoh
 
-Kelas TimeLine memberikan kemampuan tingkat tinggi untuk memanipulasi garis waktu PsdImage, seperti mengubah penundaan bingkai atau mengedit status lapisan pada bingkai tertentu.
+Kelas Timeline memberikan kemampuan tingkat tinggi untuk memanipulasi timeline PsdImage, seperti mengubah penundaan frame atau menyunting status lapisan pada frame tertentu.
 
 ```csharp
 [C#]
@@ -26,42 +27,41 @@ string outputPsd = "output_image800.psd";
 
 using (PsdImage psdImage = (PsdImage)Image.Load(sourceFile))
 {
-    TimeLine timeLine = TimeLine.InitializeFrom(psdImage);
+    Timeline timeline = psdImage.Timeline;
 
-    // Ubah metode pembuangan frame 1
-    timeLine.Frames[0].DisposalMethod = FrameDisposalMethod.DoNotDispose;
+    // Ubah metode dispose pada frame 1
+    timeline.Frames[0].DisposalMethod = FrameDisposalMethod.DoNotDispose;
 
-    // Ubah delay frame 2
-    timeLine.Frames[1].Delay = 15;
+    // Ubah penundaan pada frame 2
+    timeline.Frames[1].Delay = 15;
 
-    // Ubah opasitas 'Lapisan 1' pada bingkai 2
-    LayerState layerState11 = timeLine.Frames[1].LayerStates[timeLine.LayerIds[1]];
+    // Ubah opasitas 'Layer 1' pada frame 2
+    LayerState layerState11 = timeline.Frames[1].LayerStates[1];
     layerState11.Opacity = 50;
 
-    // pindahkan 'Lapisan 1' ke pojok kiri bawah pada bingkai 3
-    LayerState layerState21 = timeLine.Frames[2].LayerStates[timeLine.LayerIds[1]];
+    // Pindahkan 'Layer 1' ke sudut kiri-bawah pada frame 3
+    LayerState layerState21 = timeline.Frames[2].LayerStates[1];
     layerState21.PositionOffset = new Point(-50, 230);
 
-    // Menambahkan bingkai baru
-    List<Frame> frames = new List<Frame>(timeLine.Frames);
-    frames.Add(new Frame(timeLine));
-    timeLine.Frames = frames.ToArray();
+    // Menambahkan frame baru
+    List<Frame> frames = new List<Frame>(timeline.Frames);
+    frames.Add(new Frame());
+    timeline.Frames = frames.ToArray();
 
     // Ubah blendMode dari 'Layer 1' pada frame 4
-    LayerState layerState31 = timeLine.Frames[3].LayerStates[timeLine.LayerIds[1]];
+    LayerState layerState31 = timeline.Frames[3].LayerStates[1];
     layerState31.BlendMode = BlendMode.Dissolve;
 
-    // Menerapkan perubahan kembali ke instance PsdImage
-    timeLine.ApplyTo(psdImage);
+    // Terapkan perubahan kembali ke instance PsdImage
     psdImage.Save(outputPsd);
 }
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [Frame](../../frame/)
-* class [TimeLine](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.Animation](../../timeline/)
-* perakitan [Aspose.PSD](../../../)
+* class [Timeline](../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.Animation](../../../aspose.psd.fileformats.psd.layers.animation/)
+* assembly [Aspose.PSD](../../../)
 
 

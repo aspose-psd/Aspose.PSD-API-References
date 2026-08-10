@@ -1,14 +1,15 @@
 ---
-title: Class LayerHashCalculator
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerHashCalculator kelas. Kalkulator Hash untuk Lapisan PSD. Ini dapat digunakan untuk menemukan lapisan yang sama atau berbeda dalam file PSD yang berbeda
+title: "Kelas LayerHashCalculator"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Aspose.PSD.FileFormats.Psd.Layers.LayerHashCalculator class. Kalkulator Hash untuk Lapisan PSD. Ini dapat digunakan untuk menemukan lapisan yang sama atau berbeda dalam file PSD yang berbeda"
 type: docs
-weight: 2230
+weight: 2430
 url: /id/net/aspose.psd.fileformats.psd.layers/layerhashcalculator/
 ---
+{{< psd/tize >}}
 ## LayerHashCalculator class
 
-Kalkulator Hash untuk Lapisan PSD. Ini dapat digunakan untuk menemukan lapisan yang sama atau berbeda dalam file PSD yang berbeda
+Kalkulator Hash untuk Lapisan PSD. Ini dapat digunakan untuk menemukan lapisan yang sama atau berbeda dalam file PSD yang berbeda.
 
 ```csharp
 public class LayerHashCalculator
@@ -16,31 +17,31 @@ public class LayerHashCalculator
 
 ## Konstruktor
 
-| Nama | Keterangan |
+| Nama | Deskripsi |
 | --- | --- |
-| [LayerHashCalculator](layerhashcalculator/)(Layer) | Menginisialisasi instance baru dari`LayerHashCalculator` kelas. |
+| [LayerHashCalculator](layerhashcalculator/)(Layer) | Menginisialisasi instance baru dari kelas `LayerHashCalculator`. |
 
 ## Metode
 
-| Nama | Keterangan |
+| Nama | Deskripsi |
 | --- | --- |
-| [GetBlendingHash](../../aspose.psd.fileformats.psd.layers/layerhashcalculator/getblendinghash/)() | Mendapat campuran hash. |
+| [GetBlendingHash](../../aspose.psd.fileformats.psd.layers/layerhashcalculator/getblendinghash/)() | Mendapatkan hash pencampuran. |
 | [GetChannelsHash](../../aspose.psd.fileformats.psd.layers/layerhashcalculator/getchannelshash/)() | Mendapatkan hash saluran. |
-| [GetContentHash](../../aspose.psd.fileformats.psd.layers/layerhashcalculator/getcontenthash/)() | Mendapat hash konten. |
+| [GetContentHash](../../aspose.psd.fileformats.psd.layers/layerhashcalculator/getcontenthash/)() | Mendapatkan hash konten. |
 
-### Contoh
+## Contoh
 
-Kode berikut mendemonstrasikan API untuk mendapatkan hash unik untuk lapisan serupa di file berbeda.
+Kode berikut menunjukkan API untuk mendapatkan hash unik bagi lapisan serupa dalam file yang berbeda.
 
 ```csharp
 [C#]
 
 /// <summary>
-/// Mendapatkan nama layer dengan.
+/// Mendapatkan nama lapisan oleh.
 /// </summary>
 /// <typeparam name="T"></typeparam>
-/// <param name="gambar">Gambar.</param>
-/// <nama param="nama">Nama.</param>
+/// <param name="image">Gambar.</param>
+/// <param name="name">Nama.</param>
 /// <returns></returns>
 private static T GetLayerByName<T>(PsdImage image, string name) where T : Layer
 {
@@ -57,11 +58,11 @@ private static T GetLayerByName<T>(PsdImage image, string name) where T : Layer
 }
 
 /// <summary>
-/// Apakah tidak sama.
+/// Ares yang tidak sama.
 /// </summary>
 /// <typeparam name="T"></typeparam>
 /// <param name="expected">Yang diharapkan.</param>
-/// <param name="aktual">Aktual.</param>
+/// <param name="actual">Yang sebenarnya.</param>
 /// <exception cref="System.Exception">Argumen tidak boleh sama</exception>
 public static void AreNotEqual<T>(T expected, T actual)
 {
@@ -72,11 +73,11 @@ public static void AreNotEqual<T>(T expected, T actual)
 }
 
 /// <summary>
-/// Apakah sama.
+/// Ares yang sama.
 /// </summary>
 /// <typeparam name="T"></typeparam>
 /// <param name="expected">Yang diharapkan.</param>
-/// <param name="aktual">Aktual.</param>
+/// <param name="actual">Yang sebenarnya.</param>
 /// <exception cref="System.Exception">Argumen harus sama</exception>
 public static void AreEqual<T>(T expected, T actual)
 {
@@ -87,7 +88,7 @@ public static void AreEqual<T>(T expected, T actual)
 }
 
 /// <summary>
-/// Reguler uji hash konten lapisan.
+/// Regulars tes hash konten lapisan.
 /// </summary>
 /// <param name="fileName">Nama file.</param>
 public static void RegularLayerContentHashTest(string fileName)
@@ -109,7 +110,7 @@ public static void RegularLayerContentHashTest(string fileName)
         AreNotEqual(hashers[5].GetChannelsHash(), hashers[7].GetChannelsHash());
         AreNotEqual(hashers[0].GetChannelsHash(), hashers[8].GetChannelsHash());
 
-        // Hash dari layer ini sama
+        // Hash lapisan ini sama
         AreEqual(hashers[0].GetChannelsHash(), hashers[3].GetChannelsHash());
         AreEqual(hashers[1].GetChannelsHash(), hashers[4].GetChannelsHash());
         AreEqual(hashers[0].GetChannelsHash(), hashers[6].GetChannelsHash());
@@ -119,7 +120,7 @@ public static void RegularLayerContentHashTest(string fileName)
         AreEqual(hashers[1].GetBlendingHash(), hashers[4].GetBlendingHash());
         AreNotEqual(hashers[0].GetBlendingHash(), hashers[6].GetBlendingHash());
 
-        // Tapi pointer berbeda
+        // Namun pointer berbeda
         AreNotEqual(layers[0], layers[3]);
         AreNotEqual(layers[1], layers[4]);
         AreNotEqual(layers[0], layers[6]);
@@ -127,7 +128,7 @@ public static void RegularLayerContentHashTest(string fileName)
 }
 
 /// <summary>
-/// Mengisi tes hash konten lapisan.
+/// Fills tes hash konten lapisan.
 /// </summary>
 /// <param name="fileName">Nama file.</param>
 public static void FillLayerContentHashTest(string fileName)
@@ -153,7 +154,7 @@ public static void FillLayerContentHashTest(string fileName)
                 colorFillHashers[index] = new LayerHashCalculator(colorFillLayers[index]);
             }
 
-            // Lapisan serupa selalu ada dalam satu indeks
+            // Lapisan serupa selalu berada di satu indeks
             AreEqual(colorFillHashers[0].GetContentHash(), colorFillHashers[2].GetContentHash());
             AreEqual(colorFillHashers[1].GetContentHash(), colorFillHashers[3].GetContentHash());
             AreNotEqual(colorFillHashers[0].GetContentHash(), colorFillHashers[1].GetContentHash());
@@ -162,7 +163,7 @@ public static void FillLayerContentHashTest(string fileName)
 }
 
 /// <summary>
-/// Mencerdaskan uji hash konten lapisan objek.
+/// Smarts tes hash konten lapisan objek.
 /// </summary>
 /// <param name="fileName">Nama file.</param>
 public static void SmartObjectLayerContentHashTest(string fileName)
@@ -188,23 +189,23 @@ public static void SmartObjectLayerContentHashTest(string fileName)
             hashers[i] = new LayerHashCalculator(smartObjects[i]);
         }
 
-        // Data saluran sama untuk Layer dan Createad dari mereka Smart Objects.
+        // Data saluran sama untuk Lapisan dan Createad dari Objek Pintar mereka.
         AreEqual(hashers[0].GetChannelsHash(), hashers[2].GetChannelsHash());
         AreEqual(hashers[0].GetChannelsHash(), hashers[4].GetChannelsHash());
 
-        // Content Hash berbeda, karena Smart Object menggunakan data lain sebagai konten
+        // Hash Konten berbeda, karena Objek Pintar menggunakan data lain sebagai konten
         AreNotEqual(hashers[0].GetContentHash(), hashers[4].GetContentHash());
 
-        // Tapi pencampuran hash serupa. Kedua layer - smart dan regular memiliki mode Normal Blend dan opacity 255
+        // Namun hash pencampuran serupa. Kedua lapisan - pintar dan reguler memiliki mode Normal Blend dan opasitas 255
         AreEqual(hashers[0].GetBlendingHash(), hashers[4].GetBlendingHash());
 
-        // Data saluran sama untuk Layer dan Createad dari mereka Smart Objects.
+        // Data saluran sama untuk Lapisan dan Createad dari Objek Pintar mereka.
         AreEqual(hashers[1].GetChannelsHash(), hashers[3].GetChannelsHash());
         AreEqual(hashers[1].GetChannelsHash(), hashers[5].GetChannelsHash());
 
-        // Content Hash berbeda, karena Smart Object menggunakan data lain sebagai konten
+        // Hash Konten berbeda, karena Objek Pintar menggunakan data lain sebagai konten
         AreNotEqual(hashers[1].GetContentHash(), hashers[5].GetContentHash());
-        // Tapi pencampuran hash serupa. Kedua layer - smart dan regular memiliki mode Normal Blend dan opacity 255
+        // Namun hash pencampuran serupa. Kedua lapisan - pintar dan reguler memiliki mode Normal Blend dan opasitas 255
         AreEqual(hashers[1].GetBlendingHash(), hashers[5].GetBlendingHash());
 
         AreNotEqual(hashers[0].GetChannelsHash(), hashers[1].GetChannelsHash());
@@ -214,7 +215,7 @@ public static void SmartObjectLayerContentHashTest(string fileName)
 }
 
 /// <summary>
-/// Penyesuaian uji hash konten lapisan.
+/// Penyesuaian hash konten lapisan test.
 /// </summary>
 /// <param name="fileName">Nama file.</param>
 public static void AdjustmentLayersContentHashTest(string fileName)
@@ -258,7 +259,7 @@ public static void AdjustmentLayersContentHashTest(string fileName)
 }
 
 /// <summary>
-/// Mengirim teks uji hash konten lapisan.
+/// Teks hash konten lapisan test.
 /// </summary>
 /// <param name="fileName">Nama file.</param>
 public static void TextLayersContentHashTest(string fileName)
@@ -302,18 +303,18 @@ public static void TextLayersContentHashTest(string fileName)
         AreNotEqual(textHashers2[0].GetContentHash(), textHashers2[2].GetContentHash());
         AreNotEqual(textHashers2[0].GetContentHash(), textHashers2[3].GetContentHash());
 
-        // Matriks transformasi tidak digunakan dalam perhitungan hash. Anda juga harus memeriksanya
+        // Matriks transformasi tidak digunakan dalam perhitungan hash. Anda harus memeriksanya secara tambahan.
         AreEqual(textHashers2[0].GetContentHash(), textHashers2[4].GetContentHash());
 
-        // Dalam hal ini kita memiliki rotasi dalam matriks
+        // Dalam kasus ini kami memiliki rotasi dalam matriks
         AreNotEqual(textLayers2[0].TransformMatrix, textLayers2[4].TransformMatrix);
-        // Dalam hal ini kami hanya memiliki terjemahan (Lapisan Teks Bergeser di bawah)
+        // Dalam kasus ini kami hanya memiliki translasi (Lapisan Teks Dipindahkan ke bawah)
         AreNotEqual(textLayers2[0].TransformMatrix, textLayers2[1].TransformMatrix);
     }
 }
 
 /// <summary>
-/// Mengelompokkan uji hash konten lapisan.
+/// Kelompokkan hash konten lapisan test.
 /// </summary>
 /// <param name="fileName">Nama file.</param>
 public static void GroupLayerContentHashTest(string fileName)
@@ -333,14 +334,14 @@ public static void GroupLayerContentHashTest(string fileName)
             groupLayersHashers[i] = new LayerHashCalculator(groupLayers[i]);
         }
 
-        // Group Layer Hash dihitung dari layer di dalamnya
+        // Group Layer Hash dihitung dari lapisan di dalamnya
         AreEqual(groupLayersHashers[0].GetContentHash(), groupLayersHashers[1].GetContentHash());
         AreNotEqual(groupLayers[0], groupLayers[1]);
     }
 }
 
 /// <summary>
-/// Reguler konten lapisan dari file yang berbeda tes hash.
+/// Reguler hash konten lapisan dari file yang berbeda test.
 /// </summary>
 /// <param name="fileName">Nama file.</param>
 public static void RegularLayerContentFromDifferentFilesHashTest(string fileName, string outputFile)
@@ -361,10 +362,10 @@ public static void RegularLayerContentFromDifferentFilesHashTest(string fileName
                 var hashCalc = new LayerHashCalculator(layer);
                 var hashCalc_copied = new LayerHashCalculator(layer_copied);
 
-                // Layer memiliki pointer yang berbeda
+                // Lapisan memiliki penunjuk yang berbeda
                 AreNotEqual(layer, layer_copied);
 
-                // Tapi hash dari layer adalah sama
+                // Namun hash lapisan sama
                 AreEqual(hashCalc.GetChannelsHash(), hashCalc_copied.GetChannelsHash());
                 AreEqual(hashCalc.GetContentHash(), hashCalc_copied.GetContentHash());
             }
@@ -375,9 +376,9 @@ public static void RegularLayerContentFromDifferentFilesHashTest(string fileName
 }
 ```
 
-### Lihat juga
+### Lihat Juga
 
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers](../../aspose.psd.fileformats.psd.layers/)
-* perakitan [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../)
 
 

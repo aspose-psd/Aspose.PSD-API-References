@@ -1,32 +1,33 @@
 ---
-title: RectangleF.op_Implicit
-second_title: Aspose.PSD untuk Referensi .NET API
-description: RectangleF metode. Mengonversi yang ditentukanRectangle struktur ke aRectangleFstruktur.
+title: "RectangleF.op_Implicit"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode RectangleF. Mengonversi struktur Rectangle yang ditentukan menjadi struktur RectangleF"
 type: docs
 weight: 280
 url: /id/net/aspose.psd/rectanglef/op_implicit/
 ---
+{{< psd/tize >}}
 ## RectangleF Implicit operator
 
-Mengonversi yang ditentukan[`Rectangle`](../../rectangle/) struktur ke a[`RectangleF`](../)struktur.
+Mengonversi struktur [`Rectangle`](../../rectangle/) yang ditentukan menjadi struktur [`RectangleF`](../).
 
 ```csharp
 public static implicit operator RectangleF(Rectangle rect)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| rect | Rectangle | Itu[`Rectangle`](../../rectangle/) struktur untuk dikonversi. |
+| rect | Rectangle | Struktur [`Rectangle`](../../rectangle/) yang akan dikonversi. |
 
-### Nilai Pengembalian
+### Nilai Kembalian
 
-Itu[`RectangleF`](../) struktur yang dikonversi dari yang ditentukan[`Rectangle`](../../rectangle/) struktur.
+Struktur [`RectangleF`](../) yang dikonversi dari struktur [`Rectangle`](../../rectangle/) yang ditentukan.
 
-### Lihat juga
+### Lihat Juga
 
 * struct [Rectangle](../../rectangle/)
 * struct [RectangleF](../)
-* ruang nama [Aspose.PSD](../../rectanglef/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

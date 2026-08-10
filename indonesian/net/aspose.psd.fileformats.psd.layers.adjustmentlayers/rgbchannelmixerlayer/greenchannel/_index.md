@@ -1,28 +1,29 @@
 ---
-title: RgbChannelMixerLayer.GreenChannel
-second_title: Aspose.PSD untuk Referensi .NET API
-description: RgbChannelMixerLayer Properti. Mendapat saluran hijau.
+title: "RgbChannelMixerLayer.GreenChannel"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti RgbChannelMixerLayer. Mendapatkan saluran hijau"
 type: docs
 weight: 20
 url: /id/net/aspose.psd.fileformats.psd.layers.adjustmentlayers/rgbchannelmixerlayer/greenchannel/
 ---
+{{< psd/tize >}}
 ## RgbChannelMixerLayer.GreenChannel property
 
-Mendapat saluran hijau.
+Mendapatkan saluran hijau.
 
 ```csharp
 public RgbMixerChannel GreenChannel { get; }
 ```
 
-### Nilai properti
+### Property Value
 
 Saluran hijau.
 
-### Lihat juga
+### Lihat Juga
 
 * class [RgbMixerChannel](../../rgbmixerchannel/)
 * class [RgbChannelMixerLayer](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../rgbchannelmixerlayer/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,28 +1,29 @@
 ---
-title: ColorMap.OldColor
-second_title: Aspose.PSD untuk Referensi .NET API
-description: ColorMap Properti. Mendapat atau mengatur yang sudah adaColor struktur yang akan dikonversi.
+title: "ColorMap.OldColor"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "ColorMap properti. Mendapatkan atau mengatur struktur Color yang ada untuk dikonversi"
 type: docs
 weight: 30
 url: /id/net/aspose.psd/colormap/oldcolor/
 ---
+{{< psd/tize >}}
 ## ColorMap.OldColor property
 
-Mendapat atau mengatur yang sudah ada[`Color`](../../color/) struktur yang akan dikonversi.
+Mendapatkan atau mengatur struktur [`Color`](../../color/) yang ada untuk dikonversi.
 
 ```csharp
 public Color OldColor { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
-Yang ada[`Color`](../../color/) struktur yang akan dikonversi.
+Struktur [`Color`](../../color/) yang ada untuk dikonversi.
 
-### Lihat juga
+### Lihat Juga
 
 * struct [Color](../../color/)
 * class [ColorMap](../)
-* ruang nama [Aspose.PSD](../../colormap/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

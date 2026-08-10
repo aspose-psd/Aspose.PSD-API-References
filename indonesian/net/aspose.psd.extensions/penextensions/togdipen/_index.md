@@ -1,32 +1,33 @@
 ---
-title: PenExtensions.ToGdiPen
-second_title: Aspose.PSD untuk Referensi .NET API
-description: PenExtensions metode. MengubahPen kePen .
+title: "PenExtensions.ToGdiPen"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode PenExtensions. Mengonversi Pen ke Pen"
 type: docs
 weight: 10
 url: /id/net/aspose.psd.extensions/penextensions/togdipen/
 ---
+{{< psd/tize >}}
 ## PenExtensions.ToGdiPen method
 
-Mengubah[`Pen`](../../../aspose.psd/pen/) kePen .
+Mengonversi [`Pen`](../../../aspose.psd/pen/) ke Pen.
 
 ```csharp
 public static Pen ToGdiPen(Pen pen)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| pen | Pen | Itu[`Pen`](../../../aspose.psd/pen/) untuk mengubah. |
+| pen | Pen | [`Pen`](../../../aspose.psd/pen/) untuk dikonversi. |
 
-### Nilai Pengembalian
+### Nilai Kembalian
 
-Yang dikonversiPen.
+Pen yang dikonversi.
 
-### Lihat juga
+### Lihat Juga
 
 * class [Pen](../../../aspose.psd/pen/)
 * class [PenExtensions](../)
-* ruang nama [Aspose.PSD.Extensions](../../penextensions/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Extensions](../../../aspose.psd.extensions/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,35 +1,36 @@
 ---
-title: TiffOptions.YCbCrCoefficients
-second_title: Aspose.PSD untuk Referensi .NET API
-description: TiffOptions Properti. Mendapat atau menyetel Koefisien YCbCr.
+title: "TiffOptions.YCbCrCoefficients"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti TiffOptions. Mendapatkan atau mengatur YCbCrCoefficients"
 type: docs
-weight: 660
+weight: 670
 url: /id/net/aspose.psd.imageoptions/tiffoptions/ycbcrcoefficients/
 ---
+{{< psd/tize >}}
 ## TiffOptions.YCbCrCoefficients property
 
-Mendapat atau menyetel Koefisien YCbCr.
+Mendapatkan atau mengatur YCbCrCoefficients.
 
 ```csharp
 public TiffRational[] YCbCrCoefficients { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
-Koefisien YCbCr.
+YCbCrCoefficients.
 
 ### Pengecualian
 
 | pengecualian | kondisi |
 | --- | --- |
-| [TiffImageException](../../../aspose.psd.coreexceptions.imageformats/tiffimageexception/) | Hitungan nilai koefisien rasional tidak valid. Harus sama dengan 3. |
+| [TiffImageException](../../../aspose.psd.coreexceptions.imageformats/tiffimageexception/) | Jumlah nilai koefisien rasional tidak valid. Harus sama dengan 3. |
 | ArgumentNullException | nilai |
 
-### Lihat juga
+### Lihat Juga
 
 * class [TiffRational](../../../aspose.psd.fileformats.tiff/tiffrational/)
 * class [TiffOptions](../)
-* ruang nama [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

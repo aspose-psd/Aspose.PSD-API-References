@@ -1,29 +1,30 @@
 ---
-title: VectorPathDataResource.Save
-second_title: Aspose.PSD untuk Referensi .NET API
-description: VectorPathDataResource metode. Menyimpan sumber daya ke wadah aliran yang ditentukan.
+title: "VectorPathDataResource.Save"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "VectorPathDataResource metode. Menyimpan sumber daya ke kontainer aliran yang ditentukan"
 type: docs
-weight: 90
+weight: 70
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources/vectorpathdataresource/save/
 ---
+{{< psd/tize >}}
 ## VectorPathDataResource.Save method
 
-Menyimpan sumber daya ke wadah aliran yang ditentukan.
+Menyimpan sumber daya ke kontainer aliran yang ditentukan.
 
 ```csharp
 public override void Save(StreamContainer streamContainer, int psdVersion)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| streamContainer | StreamContainer | Wadah aliran untuk menyimpan. |
+| streamContainer | StreamContainer | Stream container untuk disimpan. |
 | psdVersion | Int32 | Versi PSD. |
 
-### Lihat juga
+### Lihat Juga
 
 * class [StreamContainer](../../../aspose.psd/streamcontainer/)
 * class [VectorPathDataResource](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../vectorpathdataresource/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

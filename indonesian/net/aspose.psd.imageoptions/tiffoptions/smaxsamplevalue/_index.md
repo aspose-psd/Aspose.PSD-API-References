@@ -1,27 +1,28 @@
 ---
-title: TiffOptions.SmaxSampleValue
-second_title: Aspose.PSD untuk Referensi .NET API
-description: TiffOptions Properti. Mendapat atau menetapkan nilai sampel maks. Nilai memiliki jenis bidang yang paling cocok dengan data sampel tipe Byte Pendek atau Panjang.
+title: "TiffOptions.SmaxSampleValue"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti TiffOptions. Mendapatkan atau mengatur nilai sampel maksimum. Nilai memiliki tipe bidang yang paling cocok dengan data sampel tipe Byte Short atau Long"
 type: docs
-weight: 430
+weight: 440
 url: /id/net/aspose.psd.imageoptions/tiffoptions/smaxsamplevalue/
 ---
+{{< psd/tize >}}
 ## TiffOptions.SmaxSampleValue property
 
-Mendapat atau menetapkan nilai sampel maks. Nilai memiliki jenis bidang yang paling cocok dengan data sampel (tipe Byte, Pendek, atau Panjang).
+Mendapatkan atau mengatur nilai sampel maksimum. Nilai memiliki tipe bidang yang paling cocok dengan data sampel (tipe Byte, Short, atau Long).
 
 ```csharp
 public uint[] SmaxSampleValue { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
-Nilai sampel maks.
+Nilai sampel maksimum.
 
-### Lihat juga
+### Lihat Juga
 
 * class [TiffOptions](../)
-* ruang nama [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

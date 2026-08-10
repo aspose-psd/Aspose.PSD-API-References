@@ -1,23 +1,24 @@
 ---
-title: Layer.Length
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Layer Properti. Mendapat panjang lapisan keseluruhan dalam byte.
+title: "Layer.Length"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti Layer. Mendapatkan panjang keseluruhan lapisan dalam byte"
 type: docs
-weight: 250
+weight: 260
 url: /id/net/aspose.psd.fileformats.psd.layers/layer/length/
 ---
+{{< psd/tize >}}
 ## Layer.Length property
 
-Mendapat panjang lapisan keseluruhan dalam byte.
+Mendapatkan panjang total lapisan dalam byte.
 
 ```csharp
-public int Length { get; }
+public long Length { get; }
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [Layer](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers](../../layer/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

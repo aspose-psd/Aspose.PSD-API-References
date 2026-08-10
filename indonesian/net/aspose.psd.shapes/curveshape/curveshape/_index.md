@@ -1,111 +1,112 @@
 ---
-title: CurveShape.CurveShape
-second_title: Aspose.PSD untuk Referensi .NET API
-description: CurveShape konstruktor. Menginisialisasi instance baru dariCurveShape kelas.
+title: "CurveShape.CurveShape"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Konstruktor CurveShape. Menginisialisasi instance baru dari kelas CurveShape"
 type: docs
 weight: 10
 url: /id/net/aspose.psd.shapes/curveshape/curveshape/
 ---
+{{< psd/tize >}}
 ## CurveShape() {#constructor}
 
-Menginisialisasi instance baru dari[`CurveShape`](../) kelas.
+Menginisialisasi instance baru dari kelas [`CurveShape`](../).
 
 ```csharp
 public CurveShape()
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [CurveShape](../)
-* ruang nama [Aspose.PSD.Shapes](../../curveshape/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## CurveShape(PointF[]) {#constructor_1}
 
-Menginisialisasi instance baru dari[`CurveShape`](../) kelas. Ketegangan default 0,5 digunakan.
+Menginisialisasi instance baru dari kelas [`CurveShape`](../). Tegangan default 0.5 digunakan.
 
 ```csharp
 public CurveShape(PointF[] points)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| points | PointF[] | Susunan poin. |
+| titik | PointF[] | Array titik. |
 
-### Lihat juga
+### Lihat Juga
 
 * struct [PointF](../../../aspose.psd/pointf/)
 * class [CurveShape](../)
-* ruang nama [Aspose.PSD.Shapes](../../curveshape/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## CurveShape(PointF[], bool) {#constructor_2}
 
-Menginisialisasi instance baru dari[`CurveShape`](../) kelas. Ketegangan default 0,5 digunakan.
+Menginisialisasi instance baru dari kelas [`CurveShape`](../). Tegangan default 0.5 digunakan.
 
 ```csharp
 public CurveShape(PointF[] points, bool isClosed)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| points | PointF[] | Susunan poin. |
-| isClosed | Boolean | jika diatur ke`BENAR` kurva ditutup. |
+| titik | PointF[] | Array titik. |
+| isClosed | Boolean | Jika disetel ke `true` kurva akan tertutup. |
 
-### Lihat juga
+### Lihat Juga
 
 * struct [PointF](../../../aspose.psd/pointf/)
 * class [CurveShape](../)
-* ruang nama [Aspose.PSD.Shapes](../../curveshape/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## CurveShape(PointF[], float) {#constructor_3}
 
-Menginisialisasi instance baru dari[`CurveShape`](../) kelas.
+Menginisialisasi instance baru dari kelas [`CurveShape`](../).
 
 ```csharp
 public CurveShape(PointF[] points, float tension)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| points | PointF[] | Susunan poin. |
-| tension | Single | Ketegangan kurva. |
+| titik | PointF[] | Array titik. |
+| tegangan | Single | Tegangan kurva. |
 
-### Lihat juga
+### Lihat Juga
 
 * struct [PointF](../../../aspose.psd/pointf/)
 * class [CurveShape](../)
-* ruang nama [Aspose.PSD.Shapes](../../curveshape/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## CurveShape(PointF[], float, bool) {#constructor_4}
 
-Menginisialisasi instance baru dari[`CurveShape`](../) kelas.
+Menginisialisasi instance baru dari kelas [`CurveShape`](../).
 
 ```csharp
 public CurveShape(PointF[] points, float tension, bool isClosed)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| points | PointF[] | Susunan poin. |
-| tension | Single | Ketegangan kurva. |
-| isClosed | Boolean | jika diatur ke`BENAR` kurva ditutup. |
+| titik | PointF[] | Array titik. |
+| tegangan | Single | Tegangan kurva. |
+| isClosed | Boolean | Jika disetel ke `true` kurva akan tertutup. |
 
-### Lihat juga
+### Lihat Juga
 
 * struct [PointF](../../../aspose.psd/pointf/)
 * class [CurveShape](../)
-* ruang nama [Aspose.PSD.Shapes](../../curveshape/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 

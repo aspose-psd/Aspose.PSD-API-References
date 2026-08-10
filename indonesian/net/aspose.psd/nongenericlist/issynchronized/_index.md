@@ -1,23 +1,24 @@
 ---
-title: NonGenericList.IsSynchronized
-second_title: Aspose.PSD untuk Referensi .NET API
-description: NonGenericList Properti. Mendapat nilai yang menunjukkan apakah akses keICollection disinkronkan thread safe.
+title: "NonGenericList.IsSynchronized"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti NonGenericList. Mendapatkan nilai yang menunjukkan apakah akses ke ICollection disinkronkan dan aman untuk thread"
 type: docs
 weight: 50
 url: /id/net/aspose.psd/nongenericlist/issynchronized/
 ---
+{{< psd/tize >}}
 ## NonGenericList.IsSynchronized property
 
-Mendapat nilai yang menunjukkan apakah akses keICollection disinkronkan (thread safe).
+Mendapatkan nilai yang menunjukkan apakah akses ke ICollection disinkronkan (aman terhadap thread).
 
 ```csharp
 public bool IsSynchronized { get; }
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [NonGenericList](../)
-* ruang nama [Aspose.PSD](../../nongenericlist/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

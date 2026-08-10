@@ -1,27 +1,28 @@
 ---
-title: Font.Name
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Font Properti. Mendapat nama wajah iniFont .
+title: "Font.Name"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti Font. Mendapatkan nama jenis huruf dari Font ini"
 type: docs
 weight: 50
 url: /id/net/aspose.psd/font/name/
 ---
+{{< psd/tize >}}
 ## Font.Name property
 
-Mendapat nama wajah ini[`Font`](../) .
+Mendapatkan nama jenis huruf dari [`Font`](../) ini.
 
 ```csharp
 public string Name { get; }
 ```
 
-### Nilai properti
+### Property Value
 
-Representasi string dari nama wajah ini[`Font`](../).
+Representasi string dari nama jenis huruf dari [`Font`](../) ini.
 
-### Lihat juga
+### Lihat Juga
 
 * class [Font](../)
-* ruang nama [Aspose.PSD](../../font/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

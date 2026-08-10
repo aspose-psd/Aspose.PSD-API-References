@@ -1,32 +1,33 @@
 ---
-title: Size.op_Implicit
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Size metode. Mengonversi yang ditentukanSize ke aSizeF .
+title: "Size.op_Implicit"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode Size. Mengonversi Size yang ditentukan menjadi SizeF"
 type: docs
 weight: 170
 url: /id/net/aspose.psd/size/op_implicit/
 ---
+{{< psd/tize >}}
 ## Size Implicit operator
 
-Mengonversi yang ditentukan[`Size`](../) ke a[`SizeF`](../../sizef/) .
+Mengonversi [`Size`](../) yang ditentukan menjadi [`SizeF`](../../sizef/).
 
 ```csharp
 public static implicit operator SizeF(Size size)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| size | Size | Itu[`Size`](../) untuk mengubah. |
+| size | Size | [`Size`](../) yang akan dikonversi. |
 
-### Nilai Pengembalian
+### Nilai Kembalian
 
-Itu[`SizeF`](../../sizef/) struktur yang dikonversi oleh operator ini.
+Struktur [`SizeF`](../../sizef/) yang menjadi target konversi operator ini.
 
-### Lihat juga
+### Lihat Juga
 
 * struct [SizeF](../../sizef/)
 * struct [Size](../)
-* ruang nama [Aspose.PSD](../../size/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

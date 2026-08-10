@@ -1,28 +1,29 @@
 ---
-title: RawDataSettings.DitheringMethod
-second_title: Aspose.PSD untuk Referensi .NET API
-description: RawDataSettings Properti. Mendapatkan atau menyetel metode dithering yang akan digunakan untuk konversi data mentah
+title: "RawDataSettings.DitheringMethod"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti RawDataSettings. Mengambil atau mengatur metode dithering yang digunakan untuk konversi data mentah."
 type: docs
 weight: 40
 url: /id/net/aspose.psd/rawdatasettings/ditheringmethod/
 ---
+{{< psd/tize >}}
 ## RawDataSettings.DitheringMethod property
 
-Mendapatkan atau menyetel metode dithering yang akan digunakan untuk konversi data mentah
+Mendapatkan atau mengatur metode dithering yang digunakan untuk konversi data mentah
 
 ```csharp
 public DitheringMethods DitheringMethod { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
-Metode dithering yang digunakan untuk konversi data mentah
+Metode dithering yang digunakan untuk konversi data mentah.
 
-### Lihat juga
+### Lihat Juga
 
 * enum [DitheringMethods](../../ditheringmethods/)
 * class [RawDataSettings](../)
-* ruang nama [Aspose.PSD](../../rawdatasettings/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

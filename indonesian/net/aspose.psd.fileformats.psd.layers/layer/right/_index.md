@@ -1,27 +1,28 @@
 ---
-title: Layer.Right
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Layer Properti. Mendapat atau mengatur posisi layer yang tepat.
+title: "Layer.Right"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti Layer. Mendapatkan atau mengatur posisi lapisan kanan"
 type: docs
-weight: 290
+weight: 300
 url: /id/net/aspose.psd.fileformats.psd.layers/layer/right/
 ---
+{{< psd/tize >}}
 ## Layer.Right property
 
-Mendapat atau mengatur posisi layer yang tepat.
+Mendapatkan atau mengatur posisi lapisan kanan.
 
 ```csharp
-public int Right { get; set; }
+public virtual int Right { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
 Posisi lapisan kanan.
 
-### Lihat juga
+### Lihat Juga
 
 * class [Layer](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers](../../layer/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

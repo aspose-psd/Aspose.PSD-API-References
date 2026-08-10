@@ -1,43 +1,44 @@
 ---
-title: GifOptions.GifOptions
-second_title: Aspose.PSD untuk Referensi .NET API
-description: GifOptions konstruktor. Menginisialisasi instance baru dariGifOptions kelas.
+title: "GifOptions.GifOptions"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Konstruktor GifOptions. Menginisialisasi sebuah instance baru dari kelas GifOptions"
 type: docs
 weight: 10
 url: /id/net/aspose.psd.imageoptions/gifoptions/gifoptions/
 ---
+{{< psd/tize >}}
 ## GifOptions() {#constructor}
 
-Menginisialisasi instance baru dari[`GifOptions`](../) kelas.
+Menginisialisasi sebuah instance baru dari kelas [`GifOptions`](../).
 
 ```csharp
 public GifOptions()
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [GifOptions](../)
-* ruang nama [Aspose.PSD.ImageOptions](../../gifoptions/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## GifOptions(GifOptions) {#constructor_1}
 
-Menginisialisasi instance baru dari[`GifOptions`](../) kelas.
+Menginisialisasi sebuah instance baru dari kelas [`GifOptions`](../).
 
 ```csharp
 public GifOptions(GifOptions gifOptions)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
 | gifOptions | GifOptions | Opsi GIF. |
 
-### Lihat juga
+### Lihat Juga
 
 * class [GifOptions](../)
-* ruang nama [Aspose.PSD.ImageOptions](../../gifoptions/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

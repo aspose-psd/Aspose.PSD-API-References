@@ -1,27 +1,28 @@
 ---
-title: ResourceEvent.SofwareAgentName
-second_title: Aspose.PSD untuk Referensi .NET API
-description: ResourceEvent Properti. Mendapatkan atau menyetel nama agen perangkat lunak.
+title: "ResourceEvent.SofwareAgentName"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti ResourceEvent. Mendapatkan atau mengatur nama agen perangkat lunak"
 type: docs
 weight: 70
 url: /id/net/aspose.psd.xmp.types.complex.resourceevent/resourceevent/sofwareagentname/
 ---
+{{< psd/tize >}}
 ## ResourceEvent.SofwareAgentName property
 
-Mendapatkan atau menyetel nama agen perangkat lunak.
+Mendapatkan atau mengatur nama agen perangkat lunak.
 
 ```csharp
 public string SofwareAgentName { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
 Nama agen perangkat lunak.
 
-### Lihat juga
+### Lihat Juga
 
 * class [ResourceEvent](../)
-* ruang nama [Aspose.PSD.Xmp.Types.Complex.ResourceEvent](../../resourceevent/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.ResourceEvent](../../../aspose.psd.xmp.types.complex.resourceevent/)
+* assembly [Aspose.PSD](../../../)
 
 

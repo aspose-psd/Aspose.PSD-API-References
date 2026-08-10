@@ -1,17 +1,18 @@
 ---
-title: Aspose.PSD.FileFormats.Core.Blending
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Namespace menangani Blending Types Classes dan utilitas lainnya. Aspose.PSD mendukung semua mode Blending PSD.
+title: "Aspose.PSD.FileFormats.Core.Blending"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Namespace menangani Blending Types Classes dan utilitas lainnya. Aspose.PSD mendukung semua mode Blending PSD."
 type: docs
-weight: 140
+weight: 150
 url: /id/net/aspose.psd.fileformats.core.blending/
 ---
-Namespace menangani Blending Types, Classes dan utilitas lainnya. Aspose.PSD mendukung semua mode Blending PSD.
+{{< psd/tize >}}
+Namespace menangani Tipe Blending, Kelas, dan utilitas lainnya. Aspose.PSD mendukung semua mode Blending PSD.
 
-## Pencacahan
+## Enumerasi
 
-| Pencacahan | Keterangan |
+| Enumerasi | Deskripsi |
 | --- | --- |
-| [BlendMode](./blendmode/) | Mode campuran lapisan. |
+| [BlendMode](./blendmode/) | Mode blend lapisan. |
 
 

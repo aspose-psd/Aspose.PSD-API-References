@@ -1,11 +1,12 @@
 ---
-title: XmpPacketWrapper.RemovePackage
-second_title: Aspose.PSD untuk Referensi .NET API
-description: XmpPacketWrapper metode. Menghapus paket XMP.
+title: "XmpPacketWrapper.RemovePackage"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode XmpPacketWrapper. Menghapus paket XMP"
 type: docs
 weight: 110
 url: /id/net/aspose.psd.xmp/xmppacketwrapper/removepackage/
 ---
+{{< psd/tize >}}
 ## XmpPacketWrapper.RemovePackage method
 
 Menghapus paket XMP.
@@ -14,15 +15,15 @@ Menghapus paket XMP.
 public void RemovePackage(XmpPackage package)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| package | XmpPackage | Paket. |
+| paket | XmpPackage | Paket. |
 
-### Lihat juga
+### Lihat Juga
 
 * class [XmpPackage](../../xmppackage/)
 * class [XmpPacketWrapper](../)
-* ruang nama [Aspose.PSD.Xmp](../../xmppacketwrapper/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

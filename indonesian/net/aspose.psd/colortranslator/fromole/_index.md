@@ -1,11 +1,12 @@
 ---
-title: ColorTranslator.FromOle
-second_title: Aspose.PSD untuk Referensi .NET API
-description: ColorTranslator metode. Mengambil warna dari warna OLE.
+title: "ColorTranslator.FromOle"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode ColorTranslator. Mengambil warna dari warna OLE"
 type: docs
 weight: 20
 url: /id/net/aspose.psd/colortranslator/fromole/
 ---
+{{< psd/tize >}}
 ## ColorTranslator.FromOle method
 
 Mengambil warna dari warna OLE.
@@ -14,19 +15,19 @@ Mengambil warna dari warna OLE.
 public static Color FromOle(int oleColor)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| oleColor | Int32 | warna OL. |
+| oleColor | Int32 | Warna OLE. |
 
-### Nilai Pengembalian
+### Nilai Kembalian
 
 Warna.
 
-### Lihat juga
+### Lihat Juga
 
 * struct [Color](../../color/)
 * class [ColorTranslator](../)
-* ruang nama [Aspose.PSD](../../colortranslator/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

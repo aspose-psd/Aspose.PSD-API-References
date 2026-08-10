@@ -1,34 +1,35 @@
 ---
-title: Pen.LineJoin
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Pen Properti. Mendapat atau menyetel gaya gabungan untuk ujung dari dua garis berurutan yang digambar dengan iniPen .
+title: "Pen.LineJoin"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti Pen. Mendapatkan atau mengatur gaya sambungan untuk ujung dua garis berurutan yang digambar dengan Pen ini."
 type: docs
 weight: 130
 url: /id/net/aspose.psd/pen/linejoin/
 ---
+{{< psd/tize >}}
 ## Pen.LineJoin property
 
-Mendapat atau menyetel gaya gabungan untuk ujung dari dua garis berurutan yang digambar dengan ini[`Pen`](../) .
+Mendapatkan atau mengatur gaya sambungan untuk ujung dua garis berurutan yang digambar dengan [`Pen`](../).
 
 ```csharp
 public LineJoin LineJoin { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
-A`LineJoin` yang mewakili gaya gabungan untuk ujung dua garis berurutan yang digambar dengan ini[`Pen`](../).
+`LineJoin` yang mewakili gaya sambungan untuk ujung dua garis berurutan yang digambar dengan [`Pen`](../).
 
 ### Pengecualian
 
 | pengecualian | kondisi |
 | --- | --- |
-| ArgumentException | Itu`LineJoin` properti diatur pada yang tidak berubah[`Pen`](../) , seperti yang dikembalikan oleh[`Pen`](../) kelas. |
+| ArgumentException | Properti `LineJoin` diatur pada [`Pen`](../) yang tidak dapat diubah, seperti yang dikembalikan oleh kelas [`Pen`](../). |
 
-### Lihat juga
+### Lihat Juga
 
 * enum [LineJoin](../../linejoin/)
 * class [Pen](../)
-* ruang nama [Aspose.PSD](../../pen/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

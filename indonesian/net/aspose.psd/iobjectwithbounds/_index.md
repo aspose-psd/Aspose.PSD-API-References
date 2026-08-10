@@ -1,14 +1,15 @@
 ---
-title: Interface IObjectWithBounds
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Aspose.PSD.IObjectWithBounds antarmuka. Merupakan objek dengan batas.
+title: "Antarmuka IObjectWithBounds"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Antarmuka Aspose.PSD.IObjectWithBounds. Mewakili sebuah objek dengan batas."
 type: docs
-weight: 4490
+weight: 4960
 url: /id/net/aspose.psd/iobjectwithbounds/
 ---
+{{< psd/tize >}}
 ## IObjectWithBounds interface
 
-Merupakan objek dengan batas.
+Mewakili objek dengan batas.
 
 ```csharp
 public interface IObjectWithBounds
@@ -16,16 +17,16 @@ public interface IObjectWithBounds
 
 ## Properti
 
-| Nama | Keterangan |
+| Nama | Deskripsi |
 | --- | --- |
-| [Bounds](../../aspose.psd/iobjectwithbounds/bounds/) { get; } | Mendapat batas objek. |
-| [Height](../../aspose.psd/iobjectwithbounds/height/) { get; } | Mendapat ketinggian objek. |
+| [Bounds](../../aspose.psd/iobjectwithbounds/bounds/) { get; } | Mendapatkan batas objek. |
+| [Height](../../aspose.psd/iobjectwithbounds/height/) { get; } | Mendapatkan tinggi objek. |
 | [Size](../../aspose.psd/iobjectwithbounds/size/) { get; } | Mendapatkan ukuran objek. |
 | [Width](../../aspose.psd/iobjectwithbounds/width/) { get; } | Mendapatkan lebar objek. |
 
-### Lihat juga
+### Lihat Juga
 
-* ruang nama [Aspose.PSD](../../aspose.psd/)
-* perakitan [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

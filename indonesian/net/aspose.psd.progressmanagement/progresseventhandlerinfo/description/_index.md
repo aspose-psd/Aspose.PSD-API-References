@@ -1,27 +1,28 @@
 ---
-title: ProgressEventHandlerInfo.Description
-second_title: Aspose.PSD untuk Referensi .NET API
-description: ProgressEventHandlerInfo Properti. Mendapat deskripsi acara
+title: "ProgressEventHandlerInfo.Description"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "ProgressEventHandlerInfo properti. Mendapatkan deskripsi acara"
 type: docs
 weight: 10
 url: /id/net/aspose.psd.progressmanagement/progresseventhandlerinfo/description/
 ---
+{{< psd/tize >}}
 ## ProgressEventHandlerInfo.Description property
 
-Mendapat deskripsi acara
+Mendapatkan deskripsi acara
 
 ```csharp
 public string Description { get; }
 ```
 
-### Nilai properti
+### Property Value
 
 Deskripsi.
 
-### Lihat juga
+### Lihat Juga
 
 * class [ProgressEventHandlerInfo](../)
-* ruang nama [Aspose.PSD.ProgressManagement](../../progresseventhandlerinfo/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ProgressManagement](../../../aspose.psd.progressmanagement/)
+* assembly [Aspose.PSD](../../../)
 
 

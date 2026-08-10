@@ -1,14 +1,15 @@
 ---
-title: Enum ProjectType
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Aspose.PSD.Xmp.Schemas.XmpDm.ProjectType enum. Mewakili jenis proyekXmpDynamicMediaPackage .
+title: "Enum ProjectType"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Aspose.PSD.Xmp.Schemas.XmpDm.ProjectType enum. Mewakili tipe proyek dalam XmpDynamicMediaPackage"
 type: docs
-weight: 5870
+weight: 6370
 url: /id/net/aspose.psd.xmp.schemas.xmpdm/projecttype/
 ---
+{{< psd/tize >}}
 ## ProjectType enumeration
 
-Mewakili jenis proyek[`XmpDynamicMediaPackage`](../xmpdynamicmediapackage/) .
+Mewakili tipe proyek dalam [`XmpDynamicMediaPackage`](../xmpdynamicmediapackage/).
 
 ```csharp
 public enum ProjectType
@@ -16,16 +17,16 @@ public enum ProjectType
 
 ### Nilai
 
-| Nama | Nilai | Keterangan |
+| Nama | Nilai | Deskripsi |
 | --- | --- | --- |
-| Movie | `0` | Jenis proyek film |
-| Still | `1` | Jenis proyek diam |
-| Audio | `2` | Jenis proyek audio |
-| Custom | `3` | Jenis proyek khusus |
+| Movie | `0` | Tipe proyek film |
+| Still | `1` | Tipe proyek gambar diam |
+| Audio | `2` | Tipe proyek audio |
+| Custom | `3` | Tipe proyek kustom |
 
-### Lihat juga
+### Lihat Juga
 
-* ruang nama [Aspose.PSD.Xmp.Schemas.XmpDm](../../aspose.psd.xmp.schemas.xmpdm/)
-* perakitan [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpDm](../../aspose.psd.xmp.schemas.xmpdm/)
+* assembly [Aspose.PSD](../../)
 
 

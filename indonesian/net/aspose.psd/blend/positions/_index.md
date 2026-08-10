@@ -1,27 +1,28 @@
 ---
-title: Blend.Positions
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Blend Properti. Mendapat atau mengatur susunan posisi campuran untuk gradien.
+title: "Blend.Positions"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti Blend. Mendapatkan atau mengatur array posisi blend untuk gradien"
 type: docs
 weight: 30
 url: /id/net/aspose.psd/blend/positions/
 ---
+{{< psd/tize >}}
 ## Blend.Positions property
 
-Mendapat atau mengatur susunan posisi campuran untuk gradien.
+Mendapatkan atau mengatur array posisi blend untuk gradien.
 
 ```csharp
 public float[] Positions { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
-Array posisi campuran yang menentukan persentase jarak sepanjang garis gradien.
+Array posisi blend yang menentukan persentase jarak sepanjang garis gradien.
 
-### Lihat juga
+### Lihat Juga
 
 * class [Blend](../)
-* ruang nama [Aspose.PSD](../../blend/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

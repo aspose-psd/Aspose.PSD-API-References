@@ -1,11 +1,12 @@
 ---
-title: RasterCachedImage.Crop
-second_title: Aspose.PSD untuk Referensi .NET API
-description: RasterCachedImage metode. Memotong gambar.
+title: "RasterCachedImage.Crop"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode RasterCachedImage. Memotong gambar"
 type: docs
 weight: 90
 url: /id/net/aspose.psd/rastercachedimage/crop/
 ---
+{{< psd/tize >}}
 ## RasterCachedImage.Crop method
 
 Memotong gambar.
@@ -14,13 +15,13 @@ Memotong gambar.
 public override void Crop(Rectangle rectangle)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| rectangle | Rectangle | Persegi panjang. |
+| persegi panjang | Rectangle | Persegi panjang. |
 
-### Contoh
+## Contoh
 
-Kode berikut menunjukkan kemampuan untuk memotong gambar dengan persegi panjang tertentu.
+Kode berikut menunjukkan kemampuan memotong gambar dengan persegi panjang tertentu.
 
 ```csharp
 [C#]
@@ -78,11 +79,11 @@ using (var image = (PsdImage)Image.Load(sourceFileName))
 }
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * struct [Rectangle](../../rectangle/)
 * class [RasterCachedImage](../)
-* ruang nama [Aspose.PSD](../../rastercachedimage/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

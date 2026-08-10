@@ -1,27 +1,28 @@
 ---
-title: StreamContainer.WriteByte
-second_title: Aspose.PSD untuk Referensi .NET API
-description: StreamContainer metode. Menulis satu byte ke posisi saat ini dalam aliran dan memajukan posisi dalam aliran sebanyak satu byte.
+title: "StreamContainer.WriteByte"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode StreamContainer. Menulis satu byte ke posisi saat ini dalam aliran dan memajukan posisi dalam aliran satu byte."
 type: docs
 weight: 180
 url: /id/net/aspose.psd/streamcontainer/writebyte/
 ---
+{{< psd/tize >}}
 ## StreamContainer.WriteByte method
 
-Menulis satu byte ke posisi saat ini dalam aliran dan memajukan posisi dalam aliran sebanyak satu byte.
+Menulis satu byte ke posisi saat ini dalam aliran dan memajukan posisi dalam aliran satu byte.
 
 ```csharp
 public virtual void WriteByte(byte value)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| value | Byte | Byte untuk menulis ke aliran. |
+| nilai | Byte | Byte yang akan ditulis ke aliran. |
 
-### Lihat juga
+### Lihat Juga
 
 * class [StreamContainer](../)
-* ruang nama [Aspose.PSD](../../streamcontainer/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

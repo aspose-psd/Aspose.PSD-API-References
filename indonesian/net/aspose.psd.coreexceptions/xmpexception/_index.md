@@ -1,14 +1,15 @@
 ---
-title: Class XmpException
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Aspose.PSD.CoreExceptions.XmpException kelas. Pengecualian yang dilontarkan saat XMP memiliki struktur yang tidak valid.
+title: "Kelas XmpException"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Aspose.PSD.CoreExceptions.XmpException kelas. Pengecualian yang dilemparkan ketika XMP memiliki struktur yang tidak valid"
 type: docs
 weight: 690
 url: /id/net/aspose.psd.coreexceptions/xmpexception/
 ---
+{{< psd/tize >}}
 ## XmpException class
 
-Pengecualian yang dilontarkan saat XMP memiliki struktur yang tidak valid.
+Pengecualian yang dilemparkan ketika XMP memiliki struktur yang tidak valid.
 
 ```csharp
 public class XmpException : FrameworkException
@@ -16,16 +17,16 @@ public class XmpException : FrameworkException
 
 ## Konstruktor
 
-| Nama | Keterangan |
+| Nama | Deskripsi |
 | --- | --- |
-| [XmpException](xmpexception/#constructor)() | Menginisialisasi instance baru dari`XmpException` kelas. |
-| [XmpException](xmpexception/#constructor_1)(string) | Menginisialisasi instance baru dari`XmpException` kelas. |
-| [XmpException](xmpexception/#constructor_2)(string, Exception) | Menginisialisasi instance baru dari`XmpException` kelas. |
+| [XmpException](xmpexception/#constructor)() | Menginisialisasi instance baru dari kelas `XmpException`. |
+| [XmpException](xmpexception/#constructor_1)(string) | Menginisialisasi instance baru dari kelas `XmpException`. |
+| [XmpException](xmpexception/#constructor_2)(string, Exception) | Menginisialisasi instance baru dari kelas `XmpException`. |
 
-### Lihat juga
+### Lihat Juga
 
 * class [FrameworkException](../frameworkexception/)
-* ruang nama [Aspose.PSD.CoreExceptions](../../aspose.psd.coreexceptions/)
-* perakitan [Aspose.PSD](../../)
+* namespace [Aspose.PSD.CoreExceptions](../../aspose.psd.coreexceptions/)
+* assembly [Aspose.PSD](../../)
 
 

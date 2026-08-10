@@ -1,27 +1,28 @@
 ---
-title: XmpPackage.Prefix
-second_title: Aspose.PSD untuk Referensi .NET API
-description: XmpPackage Properti. Mendapatkan awalan.
+title: "XmpPackage.Prefix"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti XmpPackage. Mendapatkan prefiks"
 type: docs
 weight: 40
 url: /id/net/aspose.psd.xmp/xmppackage/prefix/
 ---
+{{< psd/tize >}}
 ## XmpPackage.Prefix property
 
-Mendapatkan awalan.
+Mendapatkan prefiks.
 
 ```csharp
 public string Prefix { get; }
 ```
 
-### Nilai properti
+### Property Value
 
-Awalan.
+Prefix tersebut.
 
-### Lihat juga
+### Lihat Juga
 
 * class [XmpPackage](../)
-* ruang nama [Aspose.PSD.Xmp](../../xmppackage/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

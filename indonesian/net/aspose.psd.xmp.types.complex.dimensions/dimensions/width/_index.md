@@ -1,20 +1,21 @@
 ---
-title: Dimensions.Width
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Dimensions Properti. Mendapat atau mengatur lebar.
+title: "Dimensions.Width"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti Dimensions. Mendapatkan atau mengatur lebar"
 type: docs
 weight: 40
 url: /id/net/aspose.psd.xmp.types.complex.dimensions/dimensions/width/
 ---
+{{< psd/tize >}}
 ## Dimensions.Width property
 
-Mendapat atau mengatur lebar.
+Mendapatkan atau mengatur lebar.
 
 ```csharp
 public float Width { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
 Lebar.
 
@@ -22,12 +23,12 @@ Lebar.
 
 | pengecualian | kondisi |
 | --- | --- |
-| ArgumentOutOfRangeException | value;Lebar tidak boleh kurang dari nol |
+| ArgumentOutOfRangeException | nilai;Lebar tidak boleh kurang dari nol |
 
-### Lihat juga
+### Lihat Juga
 
 * class [Dimensions](../)
-* ruang nama [Aspose.PSD.Xmp.Types.Complex.Dimensions](../../dimensions/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.Dimensions](../../../aspose.psd.xmp.types.complex.dimensions/)
+* assembly [Aspose.PSD](../../../)
 
 

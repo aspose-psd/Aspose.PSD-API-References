@@ -1,24 +1,25 @@
 ---
-title: JFIFData.Thumbnail
-second_title: Aspose.PSD untuk Referensi .NET API
-description: JFIFData Properti. Mendapat atau menyetel thumbnail.
+title: "JFIFData.Thumbnail"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti JFIFData. Mendapatkan atau mengatur thumbnail"
 type: docs
 weight: 30
 url: /id/net/aspose.psd.fileformats.jpeg/jfifdata/thumbnail/
 ---
+{{< psd/tize >}}
 ## JFIFData.Thumbnail property
 
-Mendapat atau menyetel thumbnail.
+Mendapatkan atau mengatur thumbnail.
 
 ```csharp
 public RasterImage Thumbnail { get; set; }
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [RasterImage](../../../aspose.psd/rasterimage/)
 * class [JFIFData](../)
-* ruang nama [Aspose.PSD.FileFormats.Jpeg](../../jfifdata/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Jpeg](../../../aspose.psd.fileformats.jpeg/)
+* assembly [Aspose.PSD](../../../)
 
 

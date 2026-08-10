@@ -1,24 +1,25 @@
 ---
-title: AiLayerSection.ColorNumber
-second_title: Aspose.PSD untuk Referensi .NET API
-description: AiLayerSection Properti. Mendapat atau menetapkan nomor warna. 1 adalah nilai warna khusus dari properti Merah Hijau Biru. Menentukan pengaturan warna lapisan.
+title: "AiLayerSection.ColorNumber"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti AiLayerSection. Mendapatkan atau mengatur nomor warna. 1 adalah nilai warna khusus dari properti Merah Hijau Biru. Menentukan pengaturan warna lapisan"
 type: docs
-weight: 20
+weight: 30
 url: /id/net/aspose.psd.fileformats.ai/ailayersection/colornumber/
 ---
+{{< psd/tize >}}
 ## AiLayerSection.ColorNumber property
 
-Mendapat atau menetapkan nomor warna. -1 adalah nilai warna khusus dari properti Merah, Hijau, Biru. Menentukan pengaturan warna lapisan.
+Mendapatkan atau mengatur nomor warna. -1 adalah nilai warna khusus dari properti Merah, Hijau, Biru. Menentukan pengaturan warna lapisan.
 
 ```csharp
 public int ColorNumber { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
 Nomor warna.
 
-### Contoh
+## Contoh
 
 Contoh berikut menunjukkan dukungan lapisan dalam file format AI.
 
@@ -70,10 +71,10 @@ using (AiImage image = (AiImage)Image.Load(sourceFilePath))
 }
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [AiLayerSection](../)
-* ruang nama [Aspose.PSD.FileFormats.Ai](../../ailayersection/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

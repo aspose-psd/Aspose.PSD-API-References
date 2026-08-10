@@ -1,11 +1,12 @@
 ---
-title: AsyncTaskProgress.Duration
-second_title: Aspose.PSD untuk Referensi .NET API
-description: AsyncTaskProgress bidang. Durasi tugas asinkron.
+title: "AsyncTaskProgress.Duration"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Bidang AsyncTaskProgress. Durasi tugas asinkron"
 type: docs
 weight: 20
 url: /id/net/aspose.psd.asynctask/asynctaskprogress/duration/
 ---
+{{< psd/tize >}}
 ## AsyncTaskProgress.Duration field
 
 Durasi tugas asinkron.
@@ -14,10 +15,10 @@ Durasi tugas asinkron.
 public readonly TimeSpan Duration;
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [AsyncTaskProgress](../)
-* ruang nama [Aspose.PSD.AsyncTask](../../asynctaskprogress/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.AsyncTask](../../../aspose.psd.asynctask/)
+* assembly [Aspose.PSD](../../../)
 
 

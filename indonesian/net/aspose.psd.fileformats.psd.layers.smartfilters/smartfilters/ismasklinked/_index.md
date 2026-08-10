@@ -1,23 +1,24 @@
 ---
-title: SmartFilters.IsMaskLinked
-second_title: Aspose.PSD untuk Referensi .NET API
-description: SmartFilters Properti. Mendapat status terkait masker dari filter cerdas.
+title: "SmartFilters.IsMaskLinked"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti SmartFilters. Mendapatkan status apakah mask terhubung pada smart filter"
 type: docs
 weight: 50
 url: /id/net/aspose.psd.fileformats.psd.layers.smartfilters/smartfilters/ismasklinked/
 ---
+{{< psd/tize >}}
 ## SmartFilters.IsMaskLinked property
 
-Mendapat status terkait masker dari filter cerdas.
+Mendapatkan status apakah mask terhubung pada filter pintar.
 
 ```csharp
 public bool IsMaskLinked { get; }
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [SmartFilters](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.SmartFilters](../../smartfilters/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.SmartFilters](../../../aspose.psd.fileformats.psd.layers.smartfilters/)
+* assembly [Aspose.PSD](../../../)
 
 

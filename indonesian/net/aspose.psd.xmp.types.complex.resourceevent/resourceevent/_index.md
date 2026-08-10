@@ -1,11 +1,12 @@
 ---
-title: Class ResourceEvent
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Aspose.PSD.Xmp.Types.Complex.ResourceEvent.ResourceEvent kelas. Berisi dimensi untuk objek yang digambar.
+title: "Kelas ResourceEvent"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Aspose.PSD.Xmp.Types.Complex.ResourceEvent.ResourceEvent kelas. Berisi dimensi untuk objek yang digambar."
 type: docs
-weight: 6080
+weight: 6580
 url: /id/net/aspose.psd.xmp.types.complex.resourceevent/resourceevent/
 ---
+{{< psd/tize >}}
 ## ResourceEvent class
 
 Berisi dimensi untuk objek yang digambar.
@@ -16,33 +17,33 @@ public sealed class ResourceEvent : ComplexTypeBase
 
 ## Konstruktor
 
-| Nama | Keterangan |
+| Nama | Deskripsi |
 | --- | --- |
 | [ResourceEvent](resourceevent/)() | Konstruktor default. |
 
 ## Properti
 
-| Nama | Keterangan |
+| Nama | Deskripsi |
 | --- | --- |
-| [Action](../../aspose.psd.xmp.types.complex.resourceevent/resourceevent/action/) { get; set; } | Mendapat atau menyetel tindakan. |
-| [ActionDate](../../aspose.psd.xmp.types.complex.resourceevent/resourceevent/actiondate/) { get; set; } | Mendapat atau menyetel tanggal tindakan. |
-| [Changed](../../aspose.psd.xmp.types.complex.resourceevent/resourceevent/changed/) { get; set; } | Mendapat atau menyetel daftar yang dipisahkan titik koma dari bagian sumber daya yang diubah sejak riwayat peristiwa sebelumnya. |
-| [InstanceId](../../aspose.psd.xmp.types.complex.resourceevent/resourceevent/instanceid/) { get; set; } | Mendapat atau menyetel nilai xmpMM:InstanceId. |
+| [Action](../../aspose.psd.xmp.types.complex.resourceevent/resourceevent/action/) { get; set; } | Mendapatkan atau mengatur aksi. |
+| [ActionDate](../../aspose.psd.xmp.types.complex.resourceevent/resourceevent/actiondate/) { get; set; } | Mendapatkan atau mengatur tanggal aksi. |
+| [Changed](../../aspose.psd.xmp.types.complex.resourceevent/resourceevent/changed/) { get; set; } | Mendapatkan atau mengatur daftar yang dipisahkan dengan titik koma dari bagian-bagian sumber daya yang telah diubah sejak riwayat peristiwa sebelumnya. |
+| [InstanceId](../../aspose.psd.xmp.types.complex.resourceevent/resourceevent/instanceid/) { get; set; } | Mendapatkan atau mengatur nilai xmpMM:InstanceId. |
 | [NamespaceUri](../../aspose.psd.xmp.types.complex/complextypebase/namespaceuri/) { get; } | Mendapatkan URI namespace default. |
-| [Parameters](../../aspose.psd.xmp.types.complex.resourceevent/resourceevent/parameters/) { get; set; } | Mendapat atau menyetel deskripsi tambahan dari tindakan. |
-| [Prefix](../../aspose.psd.xmp.types.complex/complextypebase/prefix/) { get; } | Mendapatkan awalan. |
-| [SofwareAgentName](../../aspose.psd.xmp.types.complex.resourceevent/resourceevent/sofwareagentname/) { get; set; } | Mendapatkan atau menyetel nama agen perangkat lunak. |
+| [Parameters](../../aspose.psd.xmp.types.complex.resourceevent/resourceevent/parameters/) { get; set; } | Mendapatkan atau mengatur deskripsi tambahan aksi. |
+| [Prefix](../../aspose.psd.xmp.types.complex/complextypebase/prefix/) { get; } | Mendapatkan prefiks. |
+| [SofwareAgentName](../../aspose.psd.xmp.types.complex.resourceevent/resourceevent/sofwareagentname/) { get; set; } | Mendapatkan atau mengatur nama agen perangkat lunak. |
 
 ## Metode
 
-| Nama | Keterangan |
+| Nama | Deskripsi |
 | --- | --- |
-| override [GetXmpRepresentation](../../aspose.psd.xmp.types.complex.resourceevent/resourceevent/getxmprepresentation/)() | Mendapat string berisi nilai dalam format XMP. |
+| override [GetXmpRepresentation](../../aspose.psd.xmp.types.complex.resourceevent/resourceevent/getxmprepresentation/)() | Mendapatkan nilai string yang terkandung dalam format XMP. |
 
-### Lihat juga
+### Lihat Juga
 
 * class [ComplexTypeBase](../../aspose.psd.xmp.types.complex/complextypebase/)
-* ruang nama [Aspose.PSD.Xmp.Types.Complex.ResourceEvent](../../aspose.psd.xmp.types.complex.resourceevent/)
-* perakitan [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.ResourceEvent](../../aspose.psd.xmp.types.complex.resourceevent/)
+* assembly [Aspose.PSD](../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: LuniResource.Name
-second_title: Aspose.PSD untuk Referensi .NET API
-description: LuniResource Properti. Mendapat atau menetapkan nama.
+title: "LuniResource.Name"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti LuniResource. Mengambil atau mengatur nama"
 type: docs
-weight: 40
+weight: 30
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources/luniresource/name/
 ---
+{{< psd/tize >}}
 ## LuniResource.Name property
 
-Mendapat atau menetapkan nama.
+Mendapatkan atau mengatur nama.
 
 ```csharp
 public string Name { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
 Nama.
 
-### Lihat juga
+### Lihat Juga
 
 * class [LuniResource](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../luniresource/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

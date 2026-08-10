@@ -1,11 +1,12 @@
 ---
-title: WorkingPathResource.DataSize
-second_title: Aspose.PSD untuk Referensi .NET API
-description: WorkingPathResource Properti. Mendapatkan ukuran data sumber daya dalam byte.
+title: "WorkingPathResource.DataSize"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti WorkingPathResource. Mendapatkan ukuran data sumber daya dalam byte"
 type: docs
 weight: 20
 url: /id/net/aspose.psd.fileformats.psd.resources/workingpathresource/datasize/
 ---
+{{< psd/tize >}}
 ## WorkingPathResource.DataSize property
 
 Mendapatkan ukuran data sumber daya dalam byte.
@@ -14,14 +15,14 @@ Mendapatkan ukuran data sumber daya dalam byte.
 public override int DataSize { get; }
 ```
 
-### Nilai properti
+### Property Value
 
 Ukuran data sumber daya.
 
-### Lihat juga
+### Lihat Juga
 
 * class [WorkingPathResource](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Resources](../../workingpathresource/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

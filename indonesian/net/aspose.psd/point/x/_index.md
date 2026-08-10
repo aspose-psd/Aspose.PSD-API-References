@@ -1,23 +1,24 @@
 ---
-title: Point.X
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Point Properti. Mendapat atau menetapkan koordinat x dari iniPoint .
+title: "Point.X"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Point property. Mendapatkan atau mengatur koordinat x dari Point ini"
 type: docs
 weight: 90
 url: /id/net/aspose.psd/point/x/
 ---
+{{< psd/tize >}}
 ## Point.X property
 
-Mendapat atau menetapkan koordinat x dari ini[`Point`](../) .
+Mendapatkan atau mengatur koordinat x dari [`Point`](../) ini.
 
 ```csharp
 public int X { get; set; }
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * struct [Point](../)
-* ruang nama [Aspose.PSD](../../point/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: PsdImage.IsFlatten
-second_title: Aspose.PSD untuk Referensi .NET API
-description: PsdImage Properti. Mendapat nilai yang menunjukkan apakah gambar psd diratakan.
+title: "PsdImage.IsFlatten"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "PsdImage property. Mendapatkan nilai yang menunjukkan apakah psd image telah diratakan"
 type: docs
 weight: 190
 url: /id/net/aspose.psd.fileformats.psd/psdimage/isflatten/
 ---
+{{< psd/tize >}}
 ## PsdImage.IsFlatten property
 
-Mendapat nilai yang menunjukkan apakah gambar psd diratakan.
+Mendapatkan nilai yang menunjukkan apakah gambar psd telah diratakan.
 
 ```csharp
 public bool IsFlatten { get; }
 ```
 
-### Nilai properti
+### Property Value
 
-`BENAR` jika hal ini diratakan; jika tidak,`PALSU` .
+`true` jika instansi ini diratakan; sebaliknya, `false`.
 
-### Lihat juga
+### Lihat Juga
 
 * class [PsdImage](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

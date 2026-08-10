@@ -1,28 +1,29 @@
 ---
-title: IPsdColorPalette.TransparentColor
-second_title: Aspose.PSD untuk Referensi .NET API
-description: IPsdColorPalette Properti. Mendapatkan warna transparan.
+title: "IPsdColorPalette.TransparentColor"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "IPsdColorPalette properti. Mendapatkan warna transparan"
 type: docs
 weight: 40
 url: /id/net/aspose.psd/ipsdcolorpalette/transparentcolor/
 ---
+{{< psd/tize >}}
 ## IPsdColorPalette.TransparentColor property
 
-Mendapatkan warna transparan.
+Mengambil warna transparan.
 
 ```csharp
 public Color TransparentColor { get; }
 ```
 
-### Nilai properti
+### Property Value
 
 Warna transparan.
 
-### Lihat juga
+### Lihat Juga
 
 * struct [Color](../../color/)
 * interface [IPsdColorPalette](../)
-* ruang nama [Aspose.PSD](../../ipsdcolorpalette/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

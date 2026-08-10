@@ -1,36 +1,37 @@
 ---
-title: PixelDataFormat.GetCmyka
-second_title: Aspose.PSD untuk Referensi .NET API
-description: PixelDataFormat metode. Mendapat warna CMYKA dengan jumlah bit tertentu per sampel.
+title: "PixelDataFormat.GetCmyka"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "PixelDataFormat metode. Mendapatkan warna CMYKA dengan jumlah bit per sampel yang ditentukan"
 type: docs
 weight: 220
 url: /id/net/aspose.psd/pixeldataformat/getcmyka/
 ---
+{{< psd/tize >}}
 ## PixelDataFormat.GetCmyka method
 
-Mendapat warna CMYKA dengan jumlah bit tertentu per sampel.
+Mendapatkan warna CMYKA dengan jumlah bit per sampel yang ditentukan.
 
 ```csharp
 public static PixelDataFormat GetCmyka(int bitsPerCyanChannel, int bitsPerMagentaChannel, 
     int bitsPerYellowChannel, int bitsPerKeyChannel, int bitsPerAlphaChannel)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
 | bitsPerCyanChannel | Int32 | Jumlah bit per saluran Cyan. |
 | bitsPerMagentaChannel | Int32 | Jumlah bit per saluran Magenta. |
-| bitsPerYellowChannel | Int32 | Jumlah bit per saluran Kuning. |
-| bitsPerKeyChannel | Int32 | Jumlah bit per saluran Kunci. |
+| bitsPerYellowChannel | Int32 | Jumlah bit per saluran Yellow. |
+| bitsPerKeyChannel | Int32 | Jumlah bit per saluran Key. |
 | bitsPerAlphaChannel | Int32 | Jumlah bit per saluran Alpha. |
 
-### Nilai Pengembalian
+### Nilai Kembalian
 
 Warna CMYK.
 
-### Lihat juga
+### Lihat Juga
 
 * class [PixelDataFormat](../)
-* ruang nama [Aspose.PSD](../../pixeldataformat/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

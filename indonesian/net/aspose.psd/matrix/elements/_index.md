@@ -1,27 +1,28 @@
 ---
-title: Matrix.Elements
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Matrix Properti. Mendapat array nilai floatingpoint yang mewakili elemen iniMatrix .
+title: "Matrix.Elements"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti Matrix. Mendapatkan array nilai floating-point yang mewakili elemen-elemen Matrix ini."
 type: docs
 weight: 20
 url: /id/net/aspose.psd/matrix/elements/
 ---
+{{< psd/tize >}}
 ## Matrix.Elements property
 
-Mendapat array nilai floating-point yang mewakili elemen ini[`Matrix`](../) .
+Mendapatkan array nilai floating-point yang mewakili elemen-elemen [`Matrix`](../) ini.
 
 ```csharp
 public float[] Elements { get; }
 ```
 
-### Nilai properti
+### Property Value
 
-Array nilai floating-point yang mewakili elemen ini[`Matrix`](../).
+Sebuah array nilai floating-point yang mewakili elemen-elemen [`Matrix`](../) ini.
 
-### Lihat juga
+### Lihat Juga
 
 * class [Matrix](../)
-* ruang nama [Aspose.PSD](../../matrix/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

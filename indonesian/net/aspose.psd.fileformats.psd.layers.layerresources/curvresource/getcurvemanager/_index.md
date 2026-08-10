@@ -1,11 +1,12 @@
 ---
-title: CurvResource.GetCurveManager
-second_title: Aspose.PSD untuk Referensi .NET API
-description: CurvResource metode. Mendapatkan manajer kurva.
+title: "CurvResource.GetCurveManager"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode CurvResource. Mendapatkan manajer kurva"
 type: docs
-weight: 80
+weight: 60
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources/curvresource/getcurvemanager/
 ---
+{{< psd/tize >}}
 ## CurvResource.GetCurveManager method
 
 Mendapatkan manajer kurva.
@@ -14,15 +15,15 @@ Mendapatkan manajer kurva.
 public CurvesManager GetCurveManager()
 ```
 
-### Nilai Pengembalian
+### Nilai Kembalian
 
-[`CurvesDiscreteManager`](../../curvesdiscretemanager/) atau[`CurvesContinuousManager`](../../curvescontinuousmanager/)
+[`CurvesDiscreteManager`](../../curvesdiscretemanager/) or [`CurvesContinuousManager`](../../curvescontinuousmanager/)
 
-### Lihat juga
+### Lihat Juga
 
 * class [CurvesManager](../../curvesmanager/)
 * class [CurvResource](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../curvresource/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,24 +1,25 @@
 ---
-title: PlacedResource.UniqueId
-second_title: Aspose.PSD untuk Referensi .NET API
-description: PlacedResource Properti. Mendapat atau menyetel pengidentifikasi unik global dari lapisan yang ditempatkan di gambar PSD.
+title: "PlacedResource.UniqueId"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "PlacedResource property. Mendapatkan atau mengatur pengidentifikasi unik global lapisan yang ditempatkan dalam gambar PSD"
 type: docs
-weight: 180
+weight: 170
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources/placedresource/uniqueid/
 ---
+{{< psd/tize >}}
 ## PlacedResource.UniqueId property
 
-Mendapat atau menyetel pengidentifikasi unik global dari lapisan yang ditempatkan di gambar PSD.
+Mendapatkan atau mengatur pengidentifikasi unik global dari lapisan yang ditempatkan dalam gambar PSD.
 
 ```csharp
 public virtual Guid UniqueId { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
-Pengidentifikasi unik dari lapisan yang ditempatkan.
+Pengidentifikasi unik lapisan yang ditempatkan.
 
-### Contoh
+## Contoh
 
 Kode berikut menunjukkan dukungan sumber daya PlLdResource.
 
@@ -202,15 +203,15 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
                 resource.Bottom = 248;
                 resource.Right = 145;
 
-                // Hati-hati dengan beberapa parameter: gambar mungkin menjadi tidak terbaca oleh Adobe® Photoshop®
+                // Hati-hati dengan beberapa parameter: gambar mungkin menjadi tidak dapat dibaca oleh Adobe® Photoshop®
                 ////resource.UOrder = 6;
                 ////resource.VOrder = 9;
 
-                // Jangan ubah ini jika tidak, Anda tidak akan dapat menggunakan transformasi bebas
-                // atau ubah smart object yang digarisbawahi menjadi tipe vektor
+                // Jangan ubah ini, jika tidak Anda tidak akan dapat menggunakan transformasi bebas.
+                // atau ubah objek pintar yang mendasari menjadi tipe vektor.
                 ////resource.PlacedLayerType = PlacedLayerType.Vector;
 
-                // Harus ada PlLdResource yang valid dengan ID unik ini
+                // Harus ada PlLdResource yang valid dengan Unique Id ini.
                 ////resource.UniqueId = new Guid("98765432-10fe-cba0-1234-56789abcdef0");
 
                 break;
@@ -228,7 +229,7 @@ Kode berikut menunjukkan dukungan sumber daya SoLdResource.
 ```csharp
 [C#]
 
-// Contoh ini menunjukkan cara mendapatkan atau menyetel properti data lapisan objek pintar dari file PSD.
+// Contoh ini menunjukkan cara mendapatkan atau mengatur properti data lapisan objek pintar dari file PSD.
 
 void AssertAreEqual(object actual, object expected)
 {
@@ -462,8 +463,8 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
                     resource.HorizontalMeshPoints = temp;
                 }
 
-                // Nilai ini juga harus diubah di PlLdResource (dengan UniqueId yang ditentukan).
-                // dan beberapa di antaranya harus sesuai dengan objek pintar yang digarisbawahi di LinkDataSource
+                // Nilai ini juga harus diubah dalam PlLdResource (dengan UniqueId yang ditentukan).
+                // dan beberapa di antaranya harus sesuai dengan objek pintar yang mendasari dalam LinkDataSource.
                 resource.PageNumber = 2;
                 resource.TotalPages = 3;
                 resource.AntiAliasPolicy = 0;
@@ -508,18 +509,18 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
                     42
                 };
 
-                // Id unik ini harus diubah dalam referensi jika ada
+                // Unique Id ini harus diubah dalam referensi jika ada.
                 resource.PlacedId = new Guid("12345678-9abc-def0-9876-54321fecba98");
 
-                // Hati-hati dengan beberapa parameter: gambar mungkin menjadi tidak terbaca oleh Adobe® Photoshop®
+                // Hati-hati dengan beberapa parameter: gambar mungkin menjadi tidak dapat dibaca oleh Adobe® Photoshop®
                 ////resource.UOrder = 6;
                 ////resource.VOrder = 9;
 
-                // Jangan ubah ini jika tidak, Anda tidak akan dapat menggunakan transformasi bebas
-                // atau ubah smart object yang digarisbawahi menjadi tipe vektor
+                // Jangan ubah ini, jika tidak Anda tidak akan dapat menggunakan transformasi bebas.
+                // atau ubah objek pintar yang mendasari menjadi tipe vektor.
                 ////resource.PlacedLayerType = PlacedLayerType.Vector;
 
-                // Harus ada PlLdResource yang valid dengan ID unik ini
+                // Harus ada PlLdResource yang valid dengan Unique Id ini.
                 ////resource.UniqueId = new Guid("98765432-10fe-cba0-1234-56789abcdef0");
 
                 break;
@@ -532,10 +533,10 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
 }
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [PlacedResource](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../placedresource/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

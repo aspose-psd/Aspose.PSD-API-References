@@ -1,27 +1,28 @@
 ---
-title: ExifData.DeviceSettingDescription
-second_title: Aspose.PSD untuk Referensi .NET API
-description: ExifData Properti. Mendapatkan atau menyetel deskripsi pengaturan perangkat
+title: "ExifData.DeviceSettingDescription"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti ExifData. Mendapatkan atau mengatur deskripsi pengaturan perangkat"
 type: docs
 weight: 150
 url: /id/net/aspose.psd.exif/exifdata/devicesettingdescription/
 ---
+{{< psd/tize >}}
 ## ExifData.DeviceSettingDescription property
 
-Mendapatkan atau menyetel deskripsi pengaturan perangkat
+Mendapatkan atau mengatur deskripsi pengaturan perangkat
 
 ```csharp
 public byte[] DeviceSettingDescription { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
 Deskripsi pengaturan perangkat.
 
-### Lihat juga
+### Lihat Juga
 
 * class [ExifData](../)
-* ruang nama [Aspose.PSD.Exif](../../exifdata/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: Graphics.DpiX
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Graphics Properti. Mendapatkan resolusi horizontal dari Aspose.PSD.Graphics. ini
+title: "Graphics.DpiX"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti Graphics. Mendapatkan resolusi horizontal dari Aspose.PSD.Graphics ini."
 type: docs
 weight: 40
 url: /id/net/aspose.psd/graphics/dpix/
 ---
+{{< psd/tize >}}
 ## Graphics.DpiX property
 
-Mendapatkan resolusi horizontal dari Aspose.PSD.Graphics. ini
+Mendapatkan resolusi horizontal dari Aspose.PSD.Graphics ini.
 
 ```csharp
 public float DpiX { get; }
 ```
 
-### Nilai properti
+### Property Value
 
-Nilai, dalam titik per inci, untuk resolusi horizontal yang didukung oleh Aspose.PSD.Graphics. ini
+Nilai, dalam titik per inci, untuk resolusi horizontal yang didukung oleh Aspose.PSD.Graphics ini.
 
-### Lihat juga
+### Lihat Juga
 
 * class [Graphics](../)
-* ruang nama [Aspose.PSD](../../graphics/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

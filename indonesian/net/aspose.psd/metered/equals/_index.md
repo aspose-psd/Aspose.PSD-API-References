@@ -1,31 +1,32 @@
 ---
-title: Metered.Equals
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Metered metode. Menentukan apakah yang ditentukanObject  sama dengan instance ini.
+title: "Metered.Equals"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode Metered. Menentukan apakah Object yang ditentukan sama dengan instance ini"
 type: docs
 weight: 20
 url: /id/net/aspose.psd/metered/equals/
 ---
+{{< psd/tize >}}
 ## Metered.Equals method
 
-Menentukan apakah yang ditentukanObject , sama dengan instance ini.
+Menentukan apakah Object yang ditentukan, sama dengan instance ini.
 
 ```csharp
 public override bool Equals(object obj)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| obj | Object | ItuObject untuk membandingkan dengan contoh ini. |
+| obj | Object | Object untuk dibandingkan dengan instance ini. |
 
-### Nilai Pengembalian
+### Nilai Kembalian
 
-`BENAR` jika ditentukanObject sama dengan contoh ini; jika tidak,`PALSU` .
+`true` jika Object yang ditentukan sama dengan instance ini; jika tidak, `false`.
 
-### Lihat juga
+### Lihat Juga
 
 * class [Metered](../)
-* ruang nama [Aspose.PSD](../../metered/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

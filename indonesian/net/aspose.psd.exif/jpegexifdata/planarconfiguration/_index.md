@@ -1,27 +1,28 @@
 ---
-title: JpegExifData.PlanarConfiguration
-second_title: Aspose.PSD untuk Referensi .NET API
-description: JpegExifData Properti. Mendapat atau menyetel konfigurasi planar.
+title: "JpegExifData.PlanarConfiguration"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti JpegExifData. Mendapatkan atau mengatur konfigurasi planar"
 type: docs
 weight: 140
 url: /id/net/aspose.psd.exif/jpegexifdata/planarconfiguration/
 ---
+{{< psd/tize >}}
 ## JpegExifData.PlanarConfiguration property
 
-Mendapat atau menyetel konfigurasi planar.
+Mendapatkan atau mengatur konfigurasi planar.
 
 ```csharp
 public ushort PlanarConfiguration { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
 Konfigurasi planar.
 
-### Lihat juga
+### Lihat Juga
 
 * class [JpegExifData](../)
-* ruang nama [Aspose.PSD.Exif](../../jpegexifdata/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

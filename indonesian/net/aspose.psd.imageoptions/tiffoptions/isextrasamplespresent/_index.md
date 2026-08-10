@@ -1,27 +1,28 @@
 ---
-title: TiffOptions.IsExtraSamplesPresent
-second_title: Aspose.PSD untuk Referensi .NET API
-description: TiffOptions Properti. Mendapat nilai yang menunjukkan apakah ada sampel tambahan.
+title: "TiffOptions.IsExtraSamplesPresent"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti TiffOptions. Mendapatkan nilai yang menunjukkan apakah sampel tambahan ada"
 type: docs
-weight: 230
+weight: 240
 url: /id/net/aspose.psd.imageoptions/tiffoptions/isextrasamplespresent/
 ---
+{{< psd/tize >}}
 ## TiffOptions.IsExtraSamplesPresent property
 
-Mendapat nilai yang menunjukkan apakah ada sampel tambahan.
+Mendapatkan nilai yang menunjukkan apakah sampel ekstra ada.
 
 ```csharp
 public bool IsExtraSamplesPresent { get; }
 ```
 
-### Nilai properti
+### Property Value
 
-`BENAR` jika ada sampel tambahan; jika tidak,`PALSU` .
+`true` jika sampel tambahan ada; jika tidak, `false`.
 
-### Lihat juga
+### Lihat Juga
 
 * class [TiffOptions](../)
-* ruang nama [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

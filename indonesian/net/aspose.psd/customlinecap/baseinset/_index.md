@@ -1,27 +1,28 @@
 ---
-title: CustomLineCap.BaseInset
-second_title: Aspose.PSD untuk Referensi .NET API
-description: CustomLineCap Properti. Mendapat atau mengatur jarak antara tutup dan garis.
+title: "CustomLineCap.BaseInset"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti CustomLineCap. Mendapatkan atau mengatur jarak antara penutup dan garis."
 type: docs
 weight: 30
 url: /id/net/aspose.psd/customlinecap/baseinset/
 ---
+{{< psd/tize >}}
 ## CustomLineCap.BaseInset property
 
-Mendapat atau mengatur jarak antara tutup dan garis.
+Mendapatkan atau mengatur jarak antara penutup (cap) dan garis.
 
 ```csharp
 public float BaseInset { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
-Jarak antara awal tutup dan akhir baris.
+Jarak antara awal penutup dan akhir garis.
 
-### Lihat juga
+### Lihat Juga
 
 * class [CustomLineCap](../)
-* ruang nama [Aspose.PSD](../../customlinecap/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,23 +1,24 @@
 ---
-title: PngOptions.DefaultCompressionLevel
-second_title: Aspose.PSD untuk Referensi .NET API
-description: PngOptions bidang. Tingkat kompresi default.
+title: "PngOptions.DefaultCompressionLevel"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Bidang PngOptions. Tingkat kompresi default"
 type: docs
 weight: 80
 url: /id/net/aspose.psd.imageoptions/pngoptions/defaultcompressionlevel/
 ---
+{{< psd/tize >}}
 ## PngOptions.DefaultCompressionLevel field
 
-Tingkat kompresi default.
+Level kompresi default.
 
 ```csharp
 public const int DefaultCompressionLevel;
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [PngOptions](../)
-* ruang nama [Aspose.PSD.ImageOptions](../../pngoptions/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

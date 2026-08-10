@@ -1,14 +1,15 @@
 ---
-title: Interface IAsyncTask
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Aspose.PSD.AsyncTask.IAsyncTask antarmuka. Tugas asinkron.
+title: "Antarmuka IAsyncTask"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Antarmuka Aspose.PSD.AsyncTask.IAsyncTask. Tugas asinkron"
 type: docs
 weight: 80
 url: /id/net/aspose.psd.asynctask/iasynctask/
 ---
+{{< psd/tize >}}
 ## IAsyncTask interface
 
-Tugas asinkron.
+Tugas asynchronous.
 
 ```csharp
 public interface IAsyncTask : IAsyncResult, IDisposable
@@ -16,29 +17,29 @@ public interface IAsyncTask : IAsyncResult, IDisposable
 
 ## Properti
 
-| Nama | Keterangan |
+| Nama | Deskripsi |
 | --- | --- |
-| [Error](../../aspose.psd.asynctask/iasynctask/error/) { get; } | Mendapat kesalahan tugas yang tersedia setelah tugas selesai. |
-| [IsBusy](../../aspose.psd.asynctask/iasynctask/isbusy/) { get; } | Mendapat nilai yang menunjukkan apakah tugas ini sedang berjalan. |
-| [IsCanceled](../../aspose.psd.asynctask/iasynctask/iscanceled/) { get; } | Mendapat nilai yang menunjukkan apakah tugas ini dibatalkan. |
-| [IsFaulted](../../aspose.psd.asynctask/iasynctask/isfaulted/) { get; } | Mendapat nilai yang menunjukkan apakah tugas ini salah. |
-| [Progress](../../aspose.psd.asynctask/iasynctask/progress/) { get; } | Mendapat progres tugas asinkron. |
-| [Result](../../aspose.psd.asynctask/iasynctask/result/) { get; } | Mendapat hasil dari tugas ini. |
+| [Error](../../aspose.psd.asynctask/iasynctask/error/) { get; } | Mendapatkan kesalahan tugas yang tersedia setelah tugas selesai. |
+| [IsBusy](../../aspose.psd.asynctask/iasynctask/isbusy/) { get; } | Mendapatkan nilai yang menunjukkan apakah tugas ini sedang berjalan. |
+| [IsCanceled](../../aspose.psd.asynctask/iasynctask/iscanceled/) { get; } | Mendapatkan nilai yang menunjukkan apakah tugas ini dibatalkan. |
+| [IsFaulted](../../aspose.psd.asynctask/iasynctask/isfaulted/) { get; } | Mendapatkan nilai yang menunjukkan apakah tugas ini mengalami kesalahan. |
+| [Progress](../../aspose.psd.asynctask/iasynctask/progress/) { get; } | Mendapatkan kemajuan tugas asinkron. |
+| [Result](../../aspose.psd.asynctask/iasynctask/result/) { get; } | Mendapatkan hasil dari tugas ini. |
 
 ## Metode
 
-| Nama | Keterangan |
+| Nama | Deskripsi |
 | --- | --- |
-| [Abort](../../aspose.psd.asynctask/iasynctask/abort/)() | Membatalkan tugas ini. Tugas segera diselesaikan, dengan risiko tidak membebaskan sumber daya internal yang tidak dikelola. |
-| [Cancel](../../aspose.psd.asynctask/iasynctask/cancel/)() | Membatalkan tugas ini. Tugas diselesaikan dengan aman dengan penghentian algoritme yang terkontrol. |
+| [Abort](../../aspose.psd.asynctask/iasynctask/abort/)() | Membatalkan tugas ini. Tugas selesai segera, dengan risiko tidak membebaskan sumber daya tidak terkelola internal. |
+| [Cancel](../../aspose.psd.asynctask/iasynctask/cancel/)() | Membatalkan tugas ini. Tugas selesai dengan aman melalui penghentian terkontrol dari algoritma. |
 | [RunAsync](../../aspose.psd.asynctask/iasynctask/runasync/#runasync)() | Menjalankan tugas ini. |
 | [RunAsync](../../aspose.psd.asynctask/iasynctask/runasync/#runasync_1)(ThreadPriority) | Menjalankan tugas ini. |
-| [SetCompleteCallback](../../aspose.psd.asynctask/iasynctask/setcompletecallback/)(CompleteCallback) | Menyetel delegasi callback lengkap. |
-| [SetProgressCallback](../../aspose.psd.asynctask/iasynctask/setprogresscallback/)(ProgressCallback) | Menetapkan delegasi panggilan balik progres. |
+| [SetCompleteCallback](../../aspose.psd.asynctask/iasynctask/setcompletecallback/)(CompleteCallback) | Mengatur delegasi callback lengkap. |
+| [SetProgressCallback](../../aspose.psd.asynctask/iasynctask/setprogresscallback/)(ProgressCallback) | Mengatur delegasi callback kemajuan. |
 
-### Lihat juga
+### Lihat Juga
 
-* ruang nama [Aspose.PSD.AsyncTask](../../aspose.psd.asynctask/)
-* perakitan [Aspose.PSD](../../)
+* namespace [Aspose.PSD.AsyncTask](../../aspose.psd.asynctask/)
+* assembly [Aspose.PSD](../../)
 
 

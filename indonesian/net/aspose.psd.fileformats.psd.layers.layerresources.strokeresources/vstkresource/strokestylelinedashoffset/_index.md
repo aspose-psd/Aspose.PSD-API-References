@@ -1,27 +1,28 @@
 ---
-title: VstkResource.StrokeStyleLineDashOffset
-second_title: Aspose.PSD untuk Referensi .NET API
-description: VstkResource Properti. Mendapat atau menyetel offset garis gaya guratan.
+title: "VstkResource.StrokeStyleLineDashOffset"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "VstkResource property. Mendapatkan atau mengatur offset dash garis gaya stroke"
 type: docs
-weight: 130
+weight: 110
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources.strokeresources/vstkresource/strokestylelinedashoffset/
 ---
+{{< psd/tize >}}
 ## VstkResource.StrokeStyleLineDashOffset property
 
-Mendapat atau menyetel offset garis gaya guratan.
+Mendapatkan atau mengatur offset dash garis gaya stroke.
 
 ```csharp
 public int StrokeStyleLineDashOffset { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
-Offset tanda hubung garis gaya coretan.
+Offset dash garis gaya stroke.
 
-### Lihat juga
+### Lihat Juga
 
 * class [VstkResource](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.StrokeResources](../../vstkresource/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.StrokeResources](../../../aspose.psd.fileformats.psd.layers.layerresources.strokeresources/)
+* assembly [Aspose.PSD](../../../)
 
 

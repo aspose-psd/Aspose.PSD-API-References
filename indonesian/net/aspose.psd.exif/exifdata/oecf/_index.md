@@ -1,27 +1,28 @@
 ---
-title: ExifData.OECF
-second_title: Aspose.PSD untuk Referensi .NET API
-description: ExifData Properti. Mendapatkan atau menyetel Fungsi Konversi OptoListrik OECF yang ditentukan dalam ISO 14524.
+title: "ExifData.OECF"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti ExifData. Mendapatkan atau mengatur Fungsi Konversi OptoElectric OECF yang ditentukan dalam ISO 14524"
 type: docs
 weight: 820
 url: /id/net/aspose.psd.exif/exifdata/oecf/
 ---
+{{< psd/tize >}}
 ## ExifData.OECF property
 
-Mendapatkan atau menyetel Fungsi Konversi Opto-Listrik (OECF) yang ditentukan dalam ISO 14524.
+Mendapatkan atau mengatur Fungsi Konversi Opto-Elektrik (OECF) yang ditentukan dalam ISO 14524.
 
 ```csharp
 public byte[] OECF { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
-Fungsi Konversi Opto-Listrik (OECF) yang ditentukan dalam ISO 14524.
+Fungsi Konversi Opto-Elektrik (OECF) yang ditentukan dalam ISO 14524.
 
-### Lihat juga
+### Lihat Juga
 
 * class [ExifData](../)
-* ruang nama [Aspose.PSD.Exif](../../exifdata/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

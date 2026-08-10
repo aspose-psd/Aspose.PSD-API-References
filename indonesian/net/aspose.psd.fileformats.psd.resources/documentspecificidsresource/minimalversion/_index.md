@@ -1,11 +1,12 @@
 ---
-title: DocumentSpecificIdsResource.MinimalVersion
-second_title: Aspose.PSD untuk Referensi .NET API
-description: DocumentSpecificIdsResource Properti. Mendapatkan versi PSD minimal yang diperlukan.
+title: "DocumentSpecificIdsResource.MinimalVersion"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti DocumentSpecificIdsResource. Mendapatkan versi PSD minimal yang diperlukan"
 type: docs
 weight: 40
 url: /id/net/aspose.psd.fileformats.psd.resources/documentspecificidsresource/minimalversion/
 ---
+{{< psd/tize >}}
 ## DocumentSpecificIdsResource.MinimalVersion property
 
 Mendapatkan versi PSD minimal yang diperlukan.
@@ -14,14 +15,14 @@ Mendapatkan versi PSD minimal yang diperlukan.
 public override int MinimalVersion { get; }
 ```
 
-### Nilai properti
+### Property Value
 
 Versi PSD minimal.
 
-### Lihat juga
+### Lihat Juga
 
 * class [DocumentSpecificIdsResource](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Resources](../../documentspecificidsresource/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

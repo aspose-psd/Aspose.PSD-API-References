@@ -1,27 +1,28 @@
 ---
-title: WorkingPathResource.IsInverted
-second_title: Aspose.PSD untuk Referensi .NET API
-description: WorkingPathResource Properti. Mendapat atau menetapkan nilai yang menunjukkan apakah instance ini terbalik.
+title: "WorkingPathResource.IsInverted"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti WorkingPathResource. Mendapatkan atau mengatur nilai yang menunjukkan apakah instance ini terbalik"
 type: docs
 weight: 40
 url: /id/net/aspose.psd.fileformats.psd.resources/workingpathresource/isinverted/
 ---
+{{< psd/tize >}}
 ## WorkingPathResource.IsInverted property
 
-Mendapat atau menetapkan nilai yang menunjukkan apakah instance ini terbalik.
+Mendapatkan atau mengatur nilai yang menunjukkan apakah instance ini terbalik.
 
 ```csharp
 public bool IsInverted { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
-`BENAR` jika hal ini terbalik; jika tidak,`PALSU` .
+`true` jika instance ini terbalik; selainnya, `false`.
 
-### Lihat juga
+### Lihat Juga
 
 * class [WorkingPathResource](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Resources](../../workingpathresource/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

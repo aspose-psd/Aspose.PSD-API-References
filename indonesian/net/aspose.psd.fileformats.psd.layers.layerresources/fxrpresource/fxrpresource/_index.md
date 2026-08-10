@@ -1,57 +1,58 @@
 ---
-title: FxrpResource.FxrpResource
-second_title: Aspose.PSD untuk Referensi .NET API
-description: FxrpResource konstruktor. Menginisialisasi instance baru dariFxrpResource kelas.
+title: "FxrpResource.FxrpResource"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "FxrpResource konstruktor. Menginisialisasi instance baru dari kelas FxrpResource"
 type: docs
 weight: 10
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources/fxrpresource/fxrpresource/
 ---
+{{< psd/tize >}}
 ## FxrpResource(double, double) {#constructor_2}
 
-Menginisialisasi instance baru dari[`FxrpResource`](../) kelas.
+Menginisialisasi instance baru dari kelas [`FxrpResource`](../).
 
 ```csharp
 public FxrpResource(double x, double y)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| x | Double | Koordinat x titik acuan |
-| y | Double | Koordinat y titik acuan |
+| x | Double | Koordinat x dari titik referensi |
+| y | Double | Koordinat y dari titik referensi |
 
-### Lihat juga
+### Lihat Juga
 
 * class [FxrpResource](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../fxrpresource/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## FxrpResource() {#constructor}
 
-Menginisialisasi instance baru dari[`FxrpResource`](../) kelas.
+Menginisialisasi instance baru dari kelas [`FxrpResource`](../).
 
 ```csharp
 public FxrpResource()
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [FxrpResource](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../fxrpresource/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## FxrpResource(byte[]) {#constructor_1}
 
-Menginisialisasi instance baru dari[`FxrpResource`](../) class. Dengan nilai khusus atau tidak diketahui
+Menginisialisasi instance baru dari kelas [`FxrpResource`](../). Dengan nilai khusus atau tidak diketahui
 
 ```csharp
 public FxrpResource(byte[] data)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
 | data | Byte[] | Data sumber daya. |
 
@@ -59,12 +60,12 @@ public FxrpResource(byte[] data)
 
 | pengecualian | kondisi |
 | --- | --- |
-| [PsdImageArgumentException](../../../aspose.psd.coreexceptions.imageformats/psdimageargumentexception/) | Nilai Sumber Daya Fxrp tidak valid |
+| [PsdImageArgumentException](../../../aspose.psd.coreexceptions.imageformats/psdimageargumentexception/) | Nilai Sumber Daya Fxrp Tidak Valid |
 
-### Lihat juga
+### Lihat Juga
 
 * class [FxrpResource](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../fxrpresource/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

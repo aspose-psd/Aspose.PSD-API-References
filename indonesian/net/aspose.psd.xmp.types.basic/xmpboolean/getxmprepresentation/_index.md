@@ -1,27 +1,28 @@
 ---
-title: XmpBoolean.GetXmpRepresentation
-second_title: Aspose.PSD untuk Referensi .NET API
-description: XmpBoolean metode. Mengembalikan string berisi nilai dalam format XMP.
+title: "XmpBoolean.GetXmpRepresentation"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode XmpBoolean. Mengembalikan nilai string yang terkandung dalam format XMP"
 type: docs
 weight: 30
 url: /id/net/aspose.psd.xmp.types.basic/xmpboolean/getxmprepresentation/
 ---
+{{< psd/tize >}}
 ## XmpBoolean.GetXmpRepresentation method
 
-Mengembalikan string berisi nilai dalam format XMP.
+Mengembalikan nilai string yang terkandung dalam format XMP.
 
 ```csharp
 public override string GetXmpRepresentation()
 ```
 
-### Nilai Pengembalian
+### Nilai Kembalian
 
-Mengembalikan string berisi nilai dalam format XMP.
+Mengembalikan nilai string yang terkandung dalam format XMP.
 
-### Lihat juga
+### Lihat Juga
 
 * class [XmpBoolean](../)
-* ruang nama [Aspose.PSD.Xmp.Types.Basic](../../xmpboolean/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Basic](../../../aspose.psd.xmp.types.basic/)
+* assembly [Aspose.PSD](../../../)
 
 

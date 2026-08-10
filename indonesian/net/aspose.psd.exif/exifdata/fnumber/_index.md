@@ -1,28 +1,29 @@
 ---
-title: ExifData.FNumber
-second_title: Aspose.PSD untuk Referensi .NET API
-description: ExifData Properti. Mendapatkan atau menyetel Fnumber.
+title: "ExifData.FNumber"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti ExifData. Mendapatkan atau mengatur Fnumber"
 type: docs
 weight: 280
 url: /id/net/aspose.psd.exif/exifdata/fnumber/
 ---
+{{< psd/tize >}}
 ## ExifData.FNumber property
 
-Mendapatkan atau menyetel F-number.
+Mendapatkan atau mengatur angka F.
 
 ```csharp
 public TiffRational FNumber { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
-Angka-F.
+F-number.
 
-### Lihat juga
+### Lihat Juga
 
 * class [TiffRational](../../../aspose.psd.fileformats.tiff/tiffrational/)
 * class [ExifData](../)
-* ruang nama [Aspose.PSD.Exif](../../exifdata/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

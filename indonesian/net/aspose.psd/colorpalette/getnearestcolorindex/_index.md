@@ -1,56 +1,57 @@
 ---
-title: ColorPalette.GetNearestColorIndex
-second_title: Aspose.PSD untuk Referensi .NET API
-description: ColorPalette metode. Mendapat indeks warna terdekat.
+title: "ColorPalette.GetNearestColorIndex"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode ColorPalette. Mendapatkan indeks warna terdekat."
 type: docs
 weight: 90
 url: /id/net/aspose.psd/colorpalette/getnearestcolorindex/
 ---
+{{< psd/tize >}}
 ## GetNearestColorIndex(int) {#getnearestcolorindex_1}
 
-Mendapat indeks warna terdekat.
+Mendapatkan indeks warna terdekat.
 
 ```csharp
 public int GetNearestColorIndex(int argb32Color)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
 | argb32Color | Int32 | Warna ARGB 32-bit. |
 
-### Nilai Pengembalian
+### Nilai Kembalian
 
 Indeks warna terdekat.
 
-### Lihat juga
+### Lihat Juga
 
 * class [ColorPalette](../)
-* ruang nama [Aspose.PSD](../../colorpalette/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## GetNearestColorIndex(Color) {#getnearestcolorindex}
 
-Mendapat indeks warna terdekat.
+Mendapatkan indeks warna terdekat.
 
 ```csharp
 public int GetNearestColorIndex(Color color)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| color | Color | Warna. |
+| warna | Warna | Warna. |
 
-### Nilai Pengembalian
+### Nilai Kembalian
 
 Indeks warna terdekat.
 
-### Lihat juga
+### Lihat Juga
 
 * struct [Color](../../color/)
 * class [ColorPalette](../)
-* ruang nama [Aspose.PSD](../../colorpalette/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

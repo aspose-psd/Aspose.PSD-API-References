@@ -1,14 +1,15 @@
 ---
-title: FillLayer.Update
-second_title: Aspose.PSD untuk Referensi .NET API
-description: FillLayer metode. Update Fill Layer Pixels Data sesuai aktualIFillSettings .
+title: "FillLayer.Update"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "FillLayer method. Memperbarui data piksel lapisan isi berdasarkan IFillSettings saat ini"
 type: docs
 weight: 50
 url: /id/net/aspose.psd.fileformats.psd.layers.filllayers/filllayer/update/
 ---
+{{< psd/tize >}}
 ## FillLayer.Update method
 
-Update Fill Layer Pixels Data sesuai aktual[`IFillSettings`](../../../aspose.psd.fileformats.psd.layers.fillsettings/ifillsettings/) .
+Memperbarui data piksel lapisan isi berdasarkan [`IFillSettings`](../../../aspose.psd.fileformats.psd.layers.fillsettings/ifillsettings/) saat ini.
 
 ```csharp
 public void Update()
@@ -18,16 +19,16 @@ public void Update()
 
 | pengecualian | kondisi |
 | --- | --- |
-| ArgumentOutOfRangeException | Jenis FillType tidak diketahui |
+| ArgumentOutOfRangeException | Dilempar ketika FillType yang tidak dikenal ditemui. |
 
-### Contoh
+## Contoh
 
-Kode berikut mendemonstrasikan dukungan dari Fill layers: Color fill.
+Kode berikut menunjukkan dukungan lapisan Fill: pengisian Warna.
 
 ```csharp
 [C#]
 
-// Tambahkan dukungan lapisan Isi: Isi warna
+// Tambahkan dukungan lapisan Fill: pengisian Warna
 string sourceFileName = "ColorFillLayer.psd";
 string exportPath = "ColorFillLayer_output.psd";
 
@@ -53,7 +54,7 @@ using (im)
 }
 ```
 
-Kode berikut menyimpan gambar dengan berbagai jenis gradien dan menunjukkan cara Aspose.PSD menggambar gradien.
+Kode berikut menyimpan gambar dengan tipe gradien yang berbeda dan menunjukkan bagaimana Aspose.PSD menggambar gradien.
 
 ```csharp
 [C#]
@@ -81,7 +82,7 @@ using (var image = Image.Load(sourceFile))
 }
 ```
 
-Kode berikut menyimpan gambar dengan pola Fill Layer dan mendemonstrasikan bagaimana Aspose.PSD merender pola tersebut.
+Kode berikut menyimpan gambar dengan lapisan isian pola dan menunjukkan cara Aspose.PSD merender pola tersebut.
 
 ```csharp
 [C#]
@@ -90,7 +91,7 @@ string sourceFile = "sample.psd";
 string outputFile = "sample_out.psd";
 string outputPngFile = "sample_out.png";
 
-// Memuat gambar yang ada ke dalam instance kelas PsdImage
+// Muat gambar yang ada ke dalam instance kelas PsdImage
 using (var image = (PsdImage)Image.Load(sourceFile))
 {
     foreach (var layer in image.Layers)
@@ -131,10 +132,10 @@ using (var image = (PsdImage)Image.Load(sourceFile))
 }
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [FillLayer](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.FillLayers](../../filllayer/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillLayers](../../../aspose.psd.fileformats.psd.layers.filllayers/)
+* assembly [Aspose.PSD](../../../)
 
 

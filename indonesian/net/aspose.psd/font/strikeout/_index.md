@@ -1,27 +1,28 @@
 ---
-title: Font.Strikeout
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Font Properti. Mendapat nilai yang menunjukkan apakah iniFont menentukan garis horizontal melalui font.
+title: "Font.Strikeout"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti Font. Mendapatkan nilai yang menunjukkan apakah Font ini memiliki garis horizontal melalui huruf."
 type: docs
 weight: 70
 url: /id/net/aspose.psd/font/strikeout/
 ---
+{{< psd/tize >}}
 ## Font.Strikeout property
 
-Mendapat nilai yang menunjukkan apakah ini[`Font`](../) menentukan garis horizontal melalui font.
+Mendapatkan nilai yang menunjukkan apakah [`Font`](../) ini memiliki garis horizontal melalui huruf.
 
 ```csharp
 public bool Strikeout { get; }
 ```
 
-### Nilai properti
+### Property Value
 
-Benar jika ini[`Font`](../) memiliki garis horizontal melaluinya; jika tidak, salah.
+True jika [`Font`](../) ini memiliki garis horizontal melaluinya; jika tidak, false.
 
-### Lihat juga
+### Lihat Juga
 
 * class [Font](../)
-* ruang nama [Aspose.PSD](../../font/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

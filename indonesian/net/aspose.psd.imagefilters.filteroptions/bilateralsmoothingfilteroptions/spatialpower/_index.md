@@ -1,27 +1,28 @@
 ---
-title: BilateralSmoothingFilterOptions.SpatialPower
-second_title: Aspose.PSD untuk Referensi .NET API
-description: BilateralSmoothingFilterOptions Properti. Mendapat atau mengatur kekuatan spasial.
+title: "BilateralSmoothingFilterOptions.SpatialPower"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "BilateralSmoothingFilterOptions properti. Mendapatkan atau mengatur daya spasial."
 type: docs
 weight: 60
 url: /id/net/aspose.psd.imagefilters.filteroptions/bilateralsmoothingfilteroptions/spatialpower/
 ---
+{{< psd/tize >}}
 ## BilateralSmoothingFilterOptions.SpatialPower property
 
-Mendapat atau mengatur kekuatan spasial.
+Mendapatkan atau mengatur daya spasial.
 
 ```csharp
 public double SpatialPower { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
-Kekuatan spasial.
+Daya spasial.
 
-### Lihat juga
+### Lihat Juga
 
 * class [BilateralSmoothingFilterOptions](../)
-* ruang nama [Aspose.PSD.ImageFilters.FilterOptions](../../bilateralsmoothingfilteroptions/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageFilters.FilterOptions](../../../aspose.psd.imagefilters.filteroptions/)
+* assembly [Aspose.PSD](../../../)
 
 

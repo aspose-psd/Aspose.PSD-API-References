@@ -1,27 +1,28 @@
 ---
-title: PrintFlagsResource.BleedScale
-second_title: Aspose.PSD untuk Referensi .NET API
-description: PrintFlagsResource Properti. Mendapat atau mengatur skala bleed.
+title: "PrintFlagsResource.BleedScale"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti PrintFlagsResource. Mendapatkan atau mengatur skala bleed"
 type: docs
 weight: 20
 url: /id/net/aspose.psd.fileformats.psd.resources/printflagsresource/bleedscale/
 ---
+{{< psd/tize >}}
 ## PrintFlagsResource.BleedScale property
 
-Mendapat atau mengatur skala bleed.
+Mendapatkan atau mengatur skala bleed.
 
 ```csharp
 public short BleedScale { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
-Skala berdarah.
+Skala bleed.
 
-### Lihat juga
+### Lihat Juga
 
 * class [PrintFlagsResource](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Resources](../../printflagsresource/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

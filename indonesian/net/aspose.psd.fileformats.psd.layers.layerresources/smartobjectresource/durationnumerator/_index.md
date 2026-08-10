@@ -1,27 +1,28 @@
 ---
-title: SmartObjectResource.DurationNumerator
-second_title: Aspose.PSD untuk Referensi .NET API
-description: SmartObjectResource Properti. Mendapat atau menyetel pembilang durasi.
+title: "SmartObjectResource.DurationNumerator"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti SmartObjectResource. Mendapatkan atau mengatur pembilang durasi."
 type: docs
 weight: 60
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/durationnumerator/
 ---
+{{< psd/tize >}}
 ## SmartObjectResource.DurationNumerator property
 
-Mendapat atau menyetel pembilang durasi.
+Mendapatkan atau mengatur pembilang durasi.
 
 ```csharp
 public int DurationNumerator { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
 Pembilang durasi.
 
-### Lihat juga
+### Lihat Juga
 
 * class [SmartObjectResource](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../smartobjectresource/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

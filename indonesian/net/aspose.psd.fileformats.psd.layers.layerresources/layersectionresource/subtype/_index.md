@@ -1,24 +1,25 @@
 ---
-title: LayerSectionResource.Subtype
-second_title: Aspose.PSD untuk Referensi .NET API
-description: LayerSectionResource Properti. Mendapat atau menyetel subtipe.
+title: "LayerSectionResource.Subtype"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "LayerSectionResource property. Mendapatkan atau mengatur subtipe"
 type: docs
-weight: 80
+weight: 50
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources/layersectionresource/subtype/
 ---
+{{< psd/tize >}}
 ## LayerSectionResource.Subtype property
 
-Mendapat atau menyetel subtipe.
+Mendapatkan atau mengatur subtipe.
 
 ```csharp
 public LayerSectionSubtype Subtype { get; set; }
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * enum [LayerSectionSubtype](../../layersectionsubtype/)
 * class [LayerSectionResource](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../layersectionresource/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

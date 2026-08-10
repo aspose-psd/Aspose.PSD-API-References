@@ -1,14 +1,15 @@
 ---
-title: Enum ExifFlash
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Aspose.PSD.Exif.Enums.ExifFlash enum. Mode lampu kilat.
+title: "Enum ExifFlash"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Aspose.PSD.Exif.Enums.ExifFlash enum. Mode kilat"
 type: docs
-weight: 860
+weight: 870
 url: /id/net/aspose.psd.exif.enums/exifflash/
 ---
+{{< psd/tize >}}
 ## ExifFlash enumeration
 
-Mode lampu kilat.
+Mode kilat.
 
 ```csharp
 public enum ExifFlash
@@ -16,26 +17,26 @@ public enum ExifFlash
 
 ### Nilai
 
-| Nama | Nilai | Keterangan |
+| Nama | Nilai | Deskripsi |
 | --- | --- | --- |
-| Noflash | `0` | Tidak ada flash yang diaktifkan. |
-| Fired | `1` | Flash diaktifkan. |
-| FiredReturnLightNotDetected | `5` | Flash menyala, lampu kembali tidak terdeteksi. |
-| FiredReturnLightDetected | `7` | Flash menyala, cahaya kembali terdeteksi. |
-| YesCompulsory | `9` | Flash diaktifkan, mode flash wajib. |
-| YesCompulsoryReturnLightNotDetected | `13` | Flash menyala, mode wajib, lampu kembali tidak terdeteksi. |
-| YesCompulsoryReturnLightDetected | `15` | Flash menyala, mode wajib, cahaya kembali terdeteksi. |
-| NoCompulsory | `16` | Lampu kilat tidak menyala, mode lampu kilat wajib. |
-| NoDidNotFireReturnLightNotDetected | `20` | Lampu kilat tidak menyala, lampu kembali tidak terdeteksi. |
-| NoAuto | `24` | Flash tidak menyala, mode otomatis. |
-| YesAuto | `25` | Mode flash otomatis diaktifkan. |
-| YesAutoReturnLightNotDetected | `29` | Flash menyala, mode otomatis, lampu kembali tidak terdeteksi. |
-| YesAutoReturnLightDetected | `31` | Lampu kilat menyala, mode otomatis, lampu kembali terdeteksi. |
-| NoFlashFunction | `32` | Tidak ada fungsi flash. |
+| Noflash | `0` | Tidak ada kilat yang menyala. |
+| Fired | `1` | Kilat menyala. |
+| FiredReturnLightNotDetected | `5` | Kilat menyala, cahaya kembali tidak terdeteksi. |
+| FiredReturnLightDetected | `7` | Kilat menyala, cahaya kembali terdeteksi. |
+| YesCompulsory | `9` | Kilat menyala, mode kilat wajib. |
+| YesCompulsoryReturnLightNotDetected | `13` | Kilat menyala, mode wajib, cahaya kembali tidak terdeteksi. |
+| YesCompulsoryReturnLightDetected | `15` | Kilat menyala, mode wajib, cahaya kembali terdeteksi. |
+| NoCompulsory | `16` | Kilat tidak menyala, mode kilat wajib. |
+| NoDidNotFireReturnLightNotDetected | `20` | Kilat tidak menyala, cahaya kembali tidak terdeteksi. |
+| NoAuto | `24` | Kilat tidak menyala, mode otomatis. |
+| YesAuto | `25` | Kilat menyala, mode otomatis. |
+| YesAutoReturnLightNotDetected | `29` | Kilat menyala, mode otomatis, cahaya kembali tidak terdeteksi. |
+| YesAutoReturnLightDetected | `31` | Kilat menyala, mode otomatis, cahaya kembali terdeteksi. |
+| NoFlashFunction | `32` | Tidak ada fungsi kilat. |
 
-### Lihat juga
+### Lihat Juga
 
-* ruang nama [Aspose.PSD.Exif.Enums](../../aspose.psd.exif.enums/)
-* perakitan [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Exif.Enums](../../aspose.psd.exif.enums/)
+* assembly [Aspose.PSD](../../)
 
 

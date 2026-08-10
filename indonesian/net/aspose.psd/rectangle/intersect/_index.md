@@ -1,52 +1,53 @@
 ---
-title: Rectangle.Intersect
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Rectangle metode. Mengembalikan sepertigaRectangle struktur yang mewakili persimpangan dua lainnyaRectangle struktur. Jika tidak ada persimpangan kosongRectangle dikembalikan.
+title: "Rectangle.Intersect"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode Rectangle. Mengembalikan struktur Rectangle ketiga yang mewakili irisan dari dua struktur Rectangle lainnya. Jika tidak ada irisan, sebuah Rectangle kosong dikembalikan."
 type: docs
 weight: 70
 url: /id/net/aspose.psd/rectangle/intersect/
 ---
+{{< psd/tize >}}
 ## Intersect(Rectangle, Rectangle)
 
-Mengembalikan sepertiga[`Rectangle`](../) struktur yang mewakili persimpangan dua lainnya[`Rectangle`](../) struktur. Jika tidak ada persimpangan, kosong[`Rectangle`](../) dikembalikan.
+Mengembalikan struktur [`Rectangle`](../) ketiga yang mewakili irisan dari dua struktur [`Rectangle`](../) lainnya. Jika tidak ada irisan, sebuah [`Rectangle`](../) kosong dikembalikan.
 
 ```csharp
 public static Rectangle Intersect(Rectangle a, Rectangle b)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| a | Rectangle | Persegi panjang pertama yang berpotongan. |
-| b | Rectangle | Sebuah persegi panjang kedua untuk berpotongan. |
+| a | Rectangle | Persegi panjang pertama untuk diiris. |
+| b | Rectangle | Persegi panjang kedua untuk diiris. |
 
-### Nilai Pengembalian
+### Nilai Kembalian
 
-A[`Rectangle`](../) yang mewakili persimpangan dari*a* Dan*b*.
+Sebuah [`Rectangle`](../) yang mewakili irisan antara *a* dan *b*.
 
-### Lihat juga
+### Lihat Juga
 
 * struct [Rectangle](../)
-* ruang nama [Aspose.PSD](../../rectangle/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Intersect(Rectangle)
 
-Menggantikan ini[`Rectangle`](../) dengan perpotongan dirinya dan yang ditentukan[`Rectangle`](../) .
+Mengganti [`Rectangle`](../) ini dengan irisan antara dirinya sendiri dan [`Rectangle`](../) yang ditentukan.
 
 ```csharp
 public void Intersect(Rectangle rect)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| rect | Rectangle | Itu[`Rectangle`](../) dengan mana untuk berpotongan. |
+| rect | Rectangle | `[`Rectangle`](../)` yang akan diiris. |
 
-### Lihat juga
+### Lihat Juga
 
 * struct [Rectangle](../)
-* ruang nama [Aspose.PSD](../../rectangle/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

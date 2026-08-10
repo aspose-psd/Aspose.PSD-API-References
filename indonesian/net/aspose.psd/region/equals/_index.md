@@ -1,39 +1,64 @@
 ---
-title: Region.Equals
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Region metode. Menguji apakah yang ditentukanRegion identik dengan iniRegion pada permukaan gambar yang ditentukan.
+title: "Region.Equals"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode Region. Menguji apakah Region yang ditentukan identik dengan Region ini pada permukaan gambar yang ditentukan"
 type: docs
 weight: 40
 url: /id/net/aspose.psd/region/equals/
 ---
-## Region.Equals method
+{{< psd/tize >}}
+## Equals(Region, Graphics) {#equals}
 
-Menguji apakah yang ditentukan[`Region`](../) identik dengan ini[`Region`](../) pada permukaan gambar yang ditentukan.
+Menguji apakah [`Region`](../) yang ditentukan identik dengan [`Region`](../) ini pada permukaan gambar yang ditentukan.
 
 ```csharp
 public bool Equals(Region region, Graphics g)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| region | Region | Itu[`Region`](../) untuk mengetes. |
-| g | Graphics | A[`Graphics`](../../graphics/) yang mewakili permukaan gambar. |
+| region | Region | `[`Region`](../)` yang akan diuji. |
+| g | Graphics | Sebuah [`Graphics`](../../graphics/) yang mewakili permukaan gambar. |
 
-### Nilai Pengembalian
+### Nilai Kembalian
 
-Benar jika interior suatu region identik dengan interior region ini saat transformasi terkait dengan*g*parameter diterapkan; jika tidak, false.
+True jika interior region identik dengan interior region ini ketika transformasi yang terkait dengan parameter *g* diterapkan; jika tidak, false.
 
 ### Pengecualian
 
 | pengecualian | kondisi |
 | --- | --- |
-| ArgumentNullException | *g *atau* region* adalah nol. |
+| ArgumentNullException | *g *or* region* adalah null. |
 
-### Lihat juga
+### Lihat Juga
 
 * class [Graphics](../../graphics/)
 * class [Region](../)
-* ruang nama [Aspose.PSD](../../region/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
+
+---
+
+## Equals(object) {#equals_1}
+
+Periksa apakah objek-objek sama.
+
+```csharp
+public override bool Equals(object obj)
+```
+
+| Parameter | Tipe | Deskripsi |
+| --- | --- | --- |
+| obj | Object | Objek lain. |
+
+### Nilai Kembalian
+
+Hasil perbandingan kesetaraan.
+
+### Lihat Juga
+
+* class [Region](../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

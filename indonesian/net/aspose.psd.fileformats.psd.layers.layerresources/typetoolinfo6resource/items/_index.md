@@ -1,28 +1,29 @@
 ---
-title: TypeToolInfo6Resource.Items
-second_title: Aspose.PSD untuk Referensi .NET API
-description: TypeToolInfo6Resource Properti. Mendapat atau menyetel item.
+title: "TypeToolInfo6Resource.Items"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti TypeToolInfo6Resource. Mendapatkan atau mengatur item"
 type: docs
 weight: 60
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources/typetoolinfo6resource/items/
 ---
+{{< psd/tize >}}
 ## TypeToolInfo6Resource.Items property
 
-Mendapat atau menyetel item.
+Mendapatkan atau mengatur item.
 
 ```csharp
 public OSTypeStructure[] Items { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
-Item.
+Item-item.
 
-### Lihat juga
+### Lihat Juga
 
 * class [OSTypeStructure](../../ostypestructure/)
 * class [TypeToolInfo6Resource](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../typetoolinfo6resource/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

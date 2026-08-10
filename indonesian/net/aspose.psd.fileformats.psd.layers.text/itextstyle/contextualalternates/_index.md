@@ -1,22 +1,23 @@
 ---
-title: ITextStyle.ContextualAlternates
-second_title: Aspose.PSD untuk Referensi .NET API
-description: ITextStyle Properti. Pergantian kontekstual yang digunakan untuk menghubungkan huruf.
+title: "ITextStyle.ContextualAlternates"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "ITextStyle properti. Alternatif kontekstual yang digunakan untuk menghubungkan huruf bersama-sama"
 type: docs
 weight: 40
 url: /id/net/aspose.psd.fileformats.psd.layers.text/itextstyle/contextualalternates/
 ---
+{{< psd/tize >}}
 ## ITextStyle.ContextualAlternates property
 
-Pergantian kontekstual yang digunakan untuk menghubungkan huruf.
+Alternatif kontekstual yang digunakan untuk menghubungkan huruf bersama.
 
 ```csharp
 public bool ContextualAlternates { get; set; }
 ```
 
-### Contoh
+## Contoh
 
-Kode berikut menunjukkan dukungan dari dukungan properti ITextStyle baru.
+Kode berikut menunjukkan dukungan terhadap properti ITextStyle baru.
 
 ```csharp
 [C#]
@@ -68,10 +69,10 @@ using (var srcImage = (PsdImage)Image.Load(srcFile))
 }
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * interface [ITextStyle](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.Text](../../itextstyle/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.Text](../../../aspose.psd.fileformats.psd.layers.text/)
+* assembly [Aspose.PSD](../../../)
 
 

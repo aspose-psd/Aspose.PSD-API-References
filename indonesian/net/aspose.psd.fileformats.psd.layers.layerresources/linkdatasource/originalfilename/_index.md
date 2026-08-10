@@ -1,22 +1,23 @@
 ---
-title: LinkDataSource.OriginalFileName
-second_title: Aspose.PSD untuk Referensi .NET API
-description: LinkDataSource Properti. Mendapatkan nama file asli dari sumber data di sumber tautan global Adobe Photoshop.
+title: "LinkDataSource.OriginalFileName"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti LinkDataSource. Mengambil nama file asli dari sumber data dalam sumber daya tautan global Adobe Photoshop"
 type: docs
 weight: 110
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/originalfilename/
 ---
+{{< psd/tize >}}
 ## LinkDataSource.OriginalFileName property
 
-Mendapatkan nama file asli dari sumber data di sumber tautan global Adobe® Photoshop®.
+Mendapatkan nama file asli dari sumber data dalam sumber daya tautan global Adobe® Photoshop®.
 
 ```csharp
 public string OriginalFileName { get; }
 ```
 
-### Nilai properti
+### Property Value
 
-Nama file asli dalam format PSD LnkE / Lnk2 resource.
+Nama file asli dalam sumber daya format PSD LnkE / Lnk2.
 
 ### Pengecualian
 
@@ -24,10 +25,10 @@ Nama file asli dalam format PSD LnkE / Lnk2 resource.
 | --- | --- |
 | [PsdImageException](../../../aspose.psd.coreexceptions.imageformats/psdimageexception/) | Anda tidak dapat mengakses properti OriginalFileName. |
 
-### Lihat juga
+### Lihat Juga
 
 * class [LinkDataSource](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../linkdatasource/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

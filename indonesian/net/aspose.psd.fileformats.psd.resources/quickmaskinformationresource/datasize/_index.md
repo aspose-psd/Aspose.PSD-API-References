@@ -1,11 +1,12 @@
 ---
-title: QuickMaskInformationResource.DataSize
-second_title: Aspose.PSD untuk Referensi .NET API
-description: QuickMaskInformationResource Properti. Mendapatkan ukuran data sumber daya dalam byte.
+title: "QuickMaskInformationResource.DataSize"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "QuickMaskInformationResource properti. Mendapatkan ukuran data sumber daya dalam byte"
 type: docs
 weight: 30
 url: /id/net/aspose.psd.fileformats.psd.resources/quickmaskinformationresource/datasize/
 ---
+{{< psd/tize >}}
 ## QuickMaskInformationResource.DataSize property
 
 Mendapatkan ukuran data sumber daya dalam byte.
@@ -14,14 +15,14 @@ Mendapatkan ukuran data sumber daya dalam byte.
 public override int DataSize { get; }
 ```
 
-### Nilai properti
+### Property Value
 
 Ukuran data sumber daya.
 
-### Lihat juga
+### Lihat Juga
 
 * class [QuickMaskInformationResource](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Resources](../../quickmaskinformationresource/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

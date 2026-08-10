@@ -1,11 +1,12 @@
 ---
-title: Metered.Metered
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Metered konstruktor. Konstruktor default.
+title: "Metered.Metered"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metered constructor. Konstruktor default"
 type: docs
 weight: 10
 url: /id/net/aspose.psd/metered/metered/
 ---
+{{< psd/tize >}}
 ## Metered constructor
 
 Konstruktor default.
@@ -14,10 +15,10 @@ Konstruktor default.
 public Metered()
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [Metered](../)
-* ruang nama [Aspose.PSD](../../metered/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

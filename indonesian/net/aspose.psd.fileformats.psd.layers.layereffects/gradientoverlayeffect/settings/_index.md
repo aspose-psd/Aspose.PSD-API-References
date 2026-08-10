@@ -1,28 +1,29 @@
 ---
-title: GradientOverlayEffect.Settings
-second_title: Aspose.PSD untuk Referensi .NET API
-description: GradientOverlayEffect Properti. Mendapat atau menyetel pengaturan.
+title: "GradientOverlayEffect.Settings"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "GradientOverlayEffect properti. Mendapatkan atau mengatur pengaturan"
 type: docs
 weight: 50
 url: /id/net/aspose.psd.fileformats.psd.layers.layereffects/gradientoverlayeffect/settings/
 ---
+{{< psd/tize >}}
 ## GradientOverlayEffect.Settings property
 
-Mendapat atau menyetel pengaturan.
+Mendapatkan atau mengatur pengaturan.
 
 ```csharp
 public GradientFillSettings Settings { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
 Pengaturan.
 
-### Lihat juga
+### Lihat Juga
 
 * class [GradientFillSettings](../../../aspose.psd.fileformats.psd.layers.fillsettings/gradientfillsettings/)
 * class [GradientOverlayEffect](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../gradientoverlayeffect/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../../)
 
 

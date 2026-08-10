@@ -1,61 +1,62 @@
 ---
-title: GraphicsPath.GetBounds
-second_title: Aspose.PSD untuk Referensi .NET API
-description: GraphicsPath metode. Mendapat batas objek.
+title: "GraphicsPath.GetBounds"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode GraphicsPath. Mendapatkan batas objek"
 type: docs
 weight: 100
 url: /id/net/aspose.psd/graphicspath/getbounds/
 ---
+{{< psd/tize >}}
 ## GetBounds(Matrix) {#getbounds}
 
-Mendapat batas objek.
+Mendapatkan batas objek.
 
 ```csharp
 public override RectangleF GetBounds(Matrix matrix)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| matrix | Matrix | Matriks yang diterapkan sebelum batas akan dihitung. |
+| matriks | Matrix | Matriks yang akan diterapkan sebelum batas dihitung. |
 
-### Nilai Pengembalian
+### Nilai Kembalian
 
-Batas objek yang diestimasi.
+Batas perkiraan objek.
 
-### Lihat juga
+### Lihat Juga
 
 * struct [RectangleF](../../rectanglef/)
 * class [Matrix](../../matrix/)
 * class [GraphicsPath](../)
-* ruang nama [Aspose.PSD](../../graphicspath/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## GetBounds(Matrix, Pen) {#getbounds_1}
 
-Mendapat batas objek.
+Mendapatkan batas objek.
 
 ```csharp
 public override RectangleF GetBounds(Matrix matrix, Pen pen)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| matrix | Matrix | Matriks yang diterapkan sebelum batas akan dihitung. |
-| pen | Pen | Pena yang akan digunakan untuk objek. Ini dapat memengaruhi ukuran batas objek. |
+| matriks | Matrix | Matriks yang akan diterapkan sebelum batas dihitung. |
+| pena | Pen | Pena yang digunakan untuk objek. Ini dapat memengaruhi ukuran batas objek. |
 
-### Nilai Pengembalian
+### Nilai Kembalian
 
-Batas objek yang diestimasi.
+Batas perkiraan objek.
 
-### Lihat juga
+### Lihat Juga
 
 * struct [RectangleF](../../rectanglef/)
 * class [Matrix](../../matrix/)
 * class [Pen](../../pen/)
 * class [GraphicsPath](../)
-* ruang nama [Aspose.PSD](../../graphicspath/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

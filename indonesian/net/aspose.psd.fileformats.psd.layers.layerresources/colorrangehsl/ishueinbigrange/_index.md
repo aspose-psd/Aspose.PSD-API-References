@@ -1,31 +1,32 @@
 ---
-title: ColorRangeHsl.IsHueInBigRange
-second_title: Aspose.PSD untuk Referensi .NET API
-description: ColorRangeHsl metode. Menentukan apakah rona dalam rentang besar.
+title: "ColorRangeHsl.IsHueInBigRange"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode ColorRangeHsl. Menentukan apakah hue berada dalam rentang besar"
 type: docs
 weight: 100
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources/colorrangehsl/ishueinbigrange/
 ---
+{{< psd/tize >}}
 ## ColorRangeHsl.IsHueInBigRange method
 
-Menentukan apakah rona dalam rentang besar.
+Menentukan apakah hue berada dalam rentang besar.
 
 ```csharp
 public bool IsHueInBigRange(double hue)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| hue | Double | Nilai rona. |
+| hue | Double | Nilai hue. |
 
-### Nilai Pengembalian
+### Nilai Kembalian
 
-`BENAR` jika rona dalam kisaran besar; jika tidak,`PALSU` .
+`true` jika hue berada dalam rentang besar; jika tidak, `false`.
 
-### Lihat juga
+### Lihat Juga
 
 * class [ColorRangeHsl](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../colorrangehsl/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

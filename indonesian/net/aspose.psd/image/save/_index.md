@@ -1,43 +1,44 @@
 ---
-title: Image.Save
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Image metode. Menyimpan data gambar ke aliran yang mendasarinya.
+title: "Image.Save"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode Image. Menyimpan data gambar ke aliran dasar"
 type: docs
-weight: 230
+weight: 240
 url: /id/net/aspose.psd/image/save/
 ---
+{{< psd/tize >}}
 ## Save() {#save}
 
-Menyimpan data gambar ke aliran yang mendasarinya.
+Menyimpan data gambar ke aliran dasar.
 
 ```csharp
 public void Save()
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [Image](../)
-* ruang nama [Aspose.PSD](../../image/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Save(string, ImageOptionsBase) {#save_5}
 
-Menyimpan data objek ke lokasi file yang ditentukan dalam format file yang ditentukan sesuai dengan opsi penyimpanan.
+Menyimpan data objek ke lokasi file yang ditentukan dalam format file yang ditentukan sesuai opsi penyimpanan.
 
 ```csharp
 public virtual void Save(string filePath, ImageOptionsBase options)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
 | filePath | String | Jalur file. |
-| options | ImageOptionsBase | Opsi. |
+| opsi | ImageOptionsBase | Opsi. |
 
-### Contoh
+## Contoh
 
-Contoh berikut menunjukkan bagaimana Anda dapat mengekspor file Adobe Illustrator ke format PDF di Aspose.PSD
+Contoh berikut menunjukkan cara Anda dapat mengekspor file Adobe Illustrator ke format PDF dalam Aspose.PSD
 
 ```csharp
 [C#]
@@ -55,7 +56,7 @@ Contoh berikut menunjukkan bahwa AsposePSD mendukung file PSB yang diekspor ke f
 ```csharp
 [C#]
 
-// Mendukung penyimpanan PSB sebagai PDF
+// Dukungan menyimpan PSB sebagai PDF
 string sourceFileName = "sample.psb";
 string outFileName = "sample.pdf";
 
@@ -70,7 +71,7 @@ Kode berikut menyimpan PsdImage sebagai dokumen PDF dengan teks yang dapat dipil
 ```csharp
 [C#]
 
-// Menyimpan PSD ke dalam PDF tidak menyediakan teks yang dapat dipilih
+// Menyimpan PSD ke PDF tidak menyediakan teks yang dapat dipilih
 string sourceFileName = "text.psd";
 string outFileName = "text.pdf";
 
@@ -80,7 +81,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFileName))
 }
 ```
 
-Contoh berikut menunjukkan bagaimana Anda dapat mengekspor file AI ke format PSD dan PNG di Aspose.PSD
+Contoh berikut menunjukkan cara Anda dapat mengekspor file AI ke format PSD dan PNG dalam Aspose.PSD
 
 ```csharp
 [C#]
@@ -94,7 +95,7 @@ using (AiImage image = (AiImage)Image.Load(sourceFileName))
 }
 ```
 
-Contoh berikut menunjukkan bahwa Perataan Teks melalui ITextPortion untuk bahasa kanan ke kiri berfungsi dengan benar.
+Contoh berikut menunjukkan bahwa Penjajaran Teks melalui ITextPortion untuk bahasa kanan-ke-kiri berfungsi dengan benar.
 
 ```csharp
 [C#]
@@ -114,23 +115,23 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
 }
 ```
 
-Contoh ini menunjukkan langkah-langkah sederhana untuk Menyimpan Gambar. Untuk mendemonstrasikan operasi ini, kami memuat file yang ada dari beberapa lokasi disk, melakukan operasi Putar pada gambar dan Menyimpan gambar dalam format file Jpeg menggunakan File Path
+Contoh ini menunjukkan langkah sederhana untuk Save sebuah Image. Untuk mendemonstrasikan operasi ini, kami memuat file yang ada dari lokasi disk tertentu, melakukan operasi Rotate pada gambar dan Save gambar dalam format file Jpeg menggunakan File Path
 
 ```csharp
 [C#]
 
-//Buat instance kelas gambar dan inisialisasi dengan file yang ada melalui jalur File
+//Buat sebuah instance dari kelas image dan inisialisasi dengan file yang ada melalui File path
 using (Aspose.PSD.Image image = Aspose.PSD.Image.Load(@"C:\temp\image.psd"))
 {
-    // Putar gambar 180 derajat terhadap sumbu X
+    //Putar gambar sebesar 180 derajat tentang sumbu X
     image.RotateFlip(Aspose.PSD.RotateFlipType.Rotate180FlipX);
 
-    //Simpan Gambar sebagai Jpeg ke File Path dengan pengaturan default JpegOptions
+    //Simpan Image sebagai Jpeg ke File Path dengan pengaturan JpegOptions default
     image.Save(@"C:\temp\output.jpeg", new Aspose.PSD.ImageOptions.JpegOptions());
 }
 ```
 
-Contoh berikut menunjukkan bagaimana Anda dapat mengubah visibilitas LayerGroup di Aspose.PSD
+Contoh berikut menunjukkan cara Anda dapat mengubah visibilitas LayerGroup di Aspose.PSD
 
 ```csharp
 [C#]
@@ -138,14 +139,14 @@ Contoh berikut menunjukkan bagaimana Anda dapat mengubah visibilitas LayerGroup 
 string sourceFilePath = "input.psd";
 string outputFilePath = "output.psd";
 
-// buat perubahan pada nama layer dan simpan
+// lakukan perubahan pada nama lapisan dan simpan
 using (var image = (PsdImage)Image.Load(sourceFilePath))
 {
     for (int i = 0; i < image.Layers.Length; i++)
     {
         var layer = image.Layers[i];
 
-        // Matikan semua yang ada di dalam grup
+        // Matikan semua di dalam grup
         if (layer is LayerGroup)
         {
             layer.IsVisible = false;
@@ -156,7 +157,7 @@ using (var image = (PsdImage)Image.Load(sourceFilePath))
 }
 ```
 
-Contoh berikut menunjukkan bagaimana Anda bisa menggambar pada lapisan yang baru dibuat jika versi konstruktor sederhana digunakan di Aspose.PSD
+Contoh berikut menunjukkan cara Anda dapat menggambar pada lapisan yang baru dibuat jika versi konstruktor sederhana digunakan dalam Aspose.PSD
 
 ```csharp
 [C#]
@@ -175,17 +176,17 @@ using (var image = new PsdImage(width, height))
     Graphics graphic = new Graphics(layer);
     graphic.Clear(Color.Yellow);
 
-    // menggambar persegi panjang dengan Pen tool
+    // gambar sebuah persegi panjang dengan alat Pen
     graphic.DrawRectangle(new Pen(Color.Red), new Rectangle(30, 10, 40, 80));
 
-    // menggambar persegi panjang lain dengan Kuas Padat dalam warna Biru
+    // gambar persegi panjang lain dengan Kuas Solid berwarna Biru
     graphic.DrawRectangle(new Pen(new SolidBrush(Color.Blue)), new Rectangle(10, 30, 80, 40));
 
     image.Save(outputFilePath);
 }
 ```
 
-Contoh berikut menunjukkan bahwa membaca dan menyimpan file PSD Grayscale 16 bit ke 16bit per saluran RGB berfungsi dengan benar dan tanpa pengecualian.
+Contoh berikut menunjukkan bahwa membaca dan menyimpan file PSD Grayscale 16 bit ke RGB 16 bit per saluran berfungsi dengan benar dan tanpa pengecualian.
 
 ```csharp
 [C#]
@@ -213,12 +214,12 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
 string pngExportPath = Path.ChangeExtension(exportFilePath, "png");
 using (PsdImage image = (PsdImage)Image.Load(exportFilePath))
 {
-    // Tidak terkecuali.
+    // Tidak seharusnya ada pengecualian di sini.
     image.Save(pngExportPath, new PngOptions() { ColorType = PngColorType.GrayscaleWithAlpha });
 }
 ```
 
-Contoh berikut menunjukkan bahwa membaca dan menyimpan file PSD Grayscale 16 bit ke 8 bit per saluran Grayscale bekerja dengan benar dan tanpa pengecualian.
+Contoh berikut menunjukkan bahwa membaca dan menyimpan file PSD Grayscale 16 bit ke Grayscale 8 bit per saluran berfungsi dengan benar dan tanpa pengecualian.
 
 ```csharp
 [C#]
@@ -246,12 +247,12 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
 string pngExportPath = Path.ChangeExtension(exportFilePath, "png");
 using (PsdImage image = (PsdImage)Image.Load(exportFilePath))
 {
-    // Tidak terkecuali.
+    // Tidak seharusnya ada pengecualian di sini.
     image.Save(pngExportPath, new PngOptions() { ColorType = PngColorType.GrayscaleWithAlpha });
 }
 ```
 
-Contoh berikut menunjukkan bagaimana Anda bisa menggunakan mode campuran lapisan PassThrough di Aspose.PSD
+Contoh berikut menunjukkan cara Anda dapat menggunakan mode campuran lapisan PassThrough dalam Aspose.PSD
 
 ```csharp
 [C#]
@@ -292,7 +293,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFileName))
 }
 ```
 
-Contoh berikut menunjukkan bahwa progres konversi dokumen bekerja dengan benar dan tanpa pengecualian.
+Contoh berikut menunjukkan bahwa kemajuan konversi dokumen berfungsi dengan benar dan tanpa pengecualian.
 
 ```csharp
 [C#]
@@ -336,7 +337,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath, loadOptions))
 }
 ```
 
-Contoh berikut menunjukkan bahwa membaca dan menyimpan file PSD Grayscale 16 bit bekerja dengan benar dan tanpa pengecualian.
+Contoh berikut menunjukkan bahwa membaca dan menyimpan file PSD 16 bit Grayscale bekerja dengan benar dan tanpa pengecualian.
 
 ```csharp
 [C#]
@@ -382,7 +383,7 @@ void SaveToPsdThenLoadAndSaveToPng(
     string pngExportPath = Path.ChangeExtension(exportPath, "png");
     using (PsdImage image = (PsdImage)Image.Load(exportPath))
     {
-        // Tidak terkecuali.
+        // Tidak seharusnya ada pengecualian di sini.
         image.Save(pngExportPath, new PngOptions() { ColorType = PngColorType.GrayscaleWithAlpha });
     }
 
@@ -398,58 +399,58 @@ SaveToPsdThenLoadAndSaveToPng("cmyk16bit_5x5_no_layers", ColorModes.Grayscale, 1
 SaveToPsdThenLoadAndSaveToPng("index8bit_5x5", ColorModes.Grayscale, 16, 2, CompressionMethod.RLE, -1);
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [ImageOptionsBase](../../imageoptionsbase/)
 * class [Image](../)
-* ruang nama [Aspose.PSD](../../image/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Save(string, ImageOptionsBase, Rectangle) {#save_6}
 
-Menyimpan data objek ke lokasi file yang ditentukan dalam format file yang ditentukan sesuai dengan opsi penyimpanan.
+Menyimpan data objek ke lokasi file yang ditentukan dalam format file yang ditentukan sesuai opsi penyimpanan.
 
 ```csharp
 public virtual void Save(string filePath, ImageOptionsBase options, Rectangle boundsRectangle)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
 | filePath | String | Jalur file. |
-| options | ImageOptionsBase | Opsi. |
-| boundsRectangle | Rectangle | Gambar tujuan membatasi persegi panjang. Atur persegi panjang kosong untuk menggunakan batas sumber. |
+| opsi | ImageOptionsBase | Opsi. |
+| boundsRectangle | Rectangle | Segi empat batas gambar tujuan. Atur segi empat kosong untuk digunakan sebagai batas sourse. |
 
 ### Pengecualian
 
 | pengecualian | kondisi |
 | --- | --- |
-| ArgumentNullException | pilihan |
+| ArgumentNullException | opsi |
 | [ImageSaveException](../../../aspose.psd.coreexceptions/imagesaveexception/) | Penyimpanan gambar gagal. |
 
-### Lihat juga
+### Lihat Juga
 
 * class [ImageOptionsBase](../../imageoptionsbase/)
 * struct [Rectangle](../../rectangle/)
 * class [Image](../)
-* ruang nama [Aspose.PSD](../../image/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Save(Stream, ImageOptionsBase) {#save_2}
 
-Menyimpan data gambar ke aliran yang ditentukan dalam format file yang ditentukan sesuai dengan opsi penyimpanan.
+Menyimpan data gambar ke aliran yang ditentukan dalam format file yang ditentukan sesuai opsi penyimpanan.
 
 ```csharp
 public void Save(Stream stream, ImageOptionsBase optionsBase)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| stream | Stream | Stream untuk menyimpan data gambar. |
-| optionsBase | ImageOptionsBase | Opsi simpan. |
+| stream | Stream | Aliran untuk menyimpan data gambar. |
+| optionsBase | ImageOptionsBase | Opsi penyimpanan. |
 
 ### Pengecualian
 
@@ -459,50 +460,50 @@ public void Save(Stream stream, ImageOptionsBase optionsBase)
 | ArgumentException | Tidak dapat menyimpan ke format yang ditentukan karena saat ini tidak didukung.;optionsBase |
 | [ImageSaveException](../../../aspose.psd.coreexceptions/imagesaveexception/) | Ekspor gambar gagal. |
 
-### Contoh
+## Contoh
 
-Contoh ini menunjukkan proses Menyimpan Gambar ke MemoryStream. Untuk mendemonstrasikan operasi ini, misalnya memuat file yang ada dari beberapa lokasi disk, melakukan operasi Putar pada gambar dan Menyimpan gambar dalam format Gif
+Contoh ini menunjukkan proses Menyimpan Gambar ke MemoryStream. Untuk mendemonstrasikan operasi ini, contoh memuat file yang ada dari lokasi disk tertentu, melakukan operasi Rotate pada gambar, dan Menyimpan gambar dalam format Gif.
 
 ```csharp
 [C#]
 
-//Buat instance dari MemoryStream
+//Buat sebuah instance dari MemoryStream
 using (System.IO.MemoryStream stream = new System.IO.MemoryStream())
 {
-    //Buat instance kelas gambar dan inisialisasi dengan file yang ada melalui jalur File
+    //Buat sebuah instance dari kelas image dan inisialisasi dengan file yang ada melalui File path
     using (Aspose.PSD.Image image = Aspose.PSD.Image.Load(@"C:\temp\image.psd"))
     {
-        // Putar gambar 180 derajat terhadap sumbu X
+        //Putar gambar sebesar 180 derajat tentang sumbu X
         image.RotateFlip(Aspose.PSD.RotateFlipType.Rotate180FlipX);
 
-        //Simpan Gambar sebagai PSD ke MemoryStream dengan pengaturan default GifOptions
+        //Simpan Gambar sebagai PSD ke MemoryStream dengan pengaturan GifOptions default
         image.Save(stream, new Aspose.PSD.ImageOptions.GifOptions());
     }
 }
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [ImageOptionsBase](../../imageoptionsbase/)
 * class [Image](../)
-* ruang nama [Aspose.PSD](../../image/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Save(Stream, ImageOptionsBase, Rectangle) {#save_3}
 
-Menyimpan data gambar ke aliran yang ditentukan dalam format file yang ditentukan sesuai dengan opsi penyimpanan.
+Menyimpan data gambar ke aliran yang ditentukan dalam format file yang ditentukan sesuai opsi penyimpanan.
 
 ```csharp
 public virtual void Save(Stream stream, ImageOptionsBase optionsBase, Rectangle boundsRectangle)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| stream | Stream | Stream untuk menyimpan data gambar. |
-| optionsBase | ImageOptionsBase | Opsi simpan. |
-| boundsRectangle | Rectangle | Gambar tujuan membatasi persegi panjang. Atur persegi panjang kosong untuk menggunakan batas sumber. |
+| stream | Stream | Aliran untuk menyimpan data gambar. |
+| optionsBase | ImageOptionsBase | Opsi penyimpanan. |
+| boundsRectangle | Rectangle | Segi empat batas gambar tujuan. Atur segi empat kosong untuk menggunakan batas sumber. |
 
 ### Pengecualian
 
@@ -512,12 +513,12 @@ public virtual void Save(Stream stream, ImageOptionsBase optionsBase, Rectangle 
 | ArgumentException | Tidak dapat menyimpan ke format yang ditentukan karena saat ini tidak didukung.;optionsBase |
 | [ImageSaveException](../../../aspose.psd.coreexceptions/imagesaveexception/) | Ekspor gambar gagal. |
 
-### Lihat juga
+### Lihat Juga
 
 * class [ImageOptionsBase](../../imageoptionsbase/)
 * struct [Rectangle](../../rectangle/)
 * class [Image](../)
-* ruang nama [Aspose.PSD](../../image/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

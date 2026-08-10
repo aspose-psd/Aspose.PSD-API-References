@@ -1,14 +1,15 @@
 ---
-title: Class FileFormatExtensions
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Aspose.PSD.Extensions.FileFormatExtensions kelas. BerisiFileFormat metode ekstensi.
+title: "Kelas FileFormatExtensions"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Kelas Aspose.PSD.Extensions.FileFormatExtensions. Berisi metode ekstensi FileFormat."
 type: docs
-weight: 1080
+weight: 1090
 url: /id/net/aspose.psd.extensions/fileformatextensions/
 ---
+{{< psd/tize >}}
 ## FileFormatExtensions class
 
-Berisi[`FileFormat`](../../aspose.psd/fileformat/) metode ekstensi.
+Berisi metode ekstensi [`FileFormat`](../../aspose.psd/fileformat/).
 
 ```csharp
 public static class FileFormatExtensions
@@ -16,13 +17,13 @@ public static class FileFormatExtensions
 
 ## Metode
 
-| Nama | Keterangan |
+| Nama | Deskripsi |
 | --- | --- |
-| static [IsSingleFormatDefined](../../aspose.psd.extensions/fileformatextensions/issingleformatdefined/)(FileFormat) | Menentukan apakah format file tunggal ditentukan. |
+| static [IsSingleFormatDefined](../../aspose.psd.extensions/fileformatextensions/issingleformatdefined/)(FileFormat) | Menentukan apakah format file tunggal telah didefinisikan. |
 
-### Lihat juga
+### Lihat Juga
 
-* ruang nama [Aspose.PSD.Extensions](../../aspose.psd.extensions/)
-* perakitan [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Extensions](../../aspose.psd.extensions/)
+* assembly [Aspose.PSD](../../)
 
 

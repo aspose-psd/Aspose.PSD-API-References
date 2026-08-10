@@ -1,27 +1,28 @@
 ---
-title: ExpaResource.Exposure
-second_title: Aspose.PSD untuk Referensi .NET API
-description: ExpaResource Properti. Mendapat atau menyetel eksposur.
+title: "ExpaResource.Exposure"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti ExpaResource. Mendapatkan atau mengatur paparan"
 type: docs
 weight: 20
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources/exparesource/exposure/
 ---
+{{< psd/tize >}}
 ## ExpaResource.Exposure property
 
-Mendapat atau menyetel eksposur.
+Mendapatkan atau mengatur eksposur.
 
 ```csharp
 public float Exposure { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
-Eksposur.
+Paparan.
 
-### Lihat juga
+### Lihat Juga
 
 * class [ExpaResource](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../exparesource/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: PattResourceData.Version
-second_title: Aspose.PSD untuk Referensi .NET API
-description: PattResourceData Properti. Mendapatkan versinya.
+title: "PattResourceData.Version"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti PattResourceData. Mendapatkan versi."
 type: docs
 weight: 80
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources/pattresourcedata/version/
 ---
+{{< psd/tize >}}
 ## PattResourceData.Version property
 
-Mendapatkan versinya.
+Mendapatkan versi.
 
 ```csharp
 public int Version { get; }
 ```
 
-### Nilai properti
+### Property Value
 
 Versi.
 
-### Lihat juga
+### Lihat Juga
 
 * class [PattResourceData](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../pattresourcedata/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

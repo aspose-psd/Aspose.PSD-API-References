@@ -1,27 +1,28 @@
 ---
-title: Timecode.GetXmpRepresentation
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Timecode metode. Mengembalikan string berisi nilai dalam format XMP.
+title: "Timecode.GetXmpRepresentation"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode Timecode. Mengembalikan nilai string yang terkandung dalam format XMP"
 type: docs
 weight: 60
 url: /id/net/aspose.psd.xmp.schemas.xmpdm/timecode/getxmprepresentation/
 ---
+{{< psd/tize >}}
 ## Timecode.GetXmpRepresentation method
 
-Mengembalikan string berisi nilai dalam format XMP.
+Mengembalikan nilai string yang terkandung dalam format XMP.
 
 ```csharp
 public override string GetXmpRepresentation()
 ```
 
-### Nilai Pengembalian
+### Nilai Kembalian
 
-Mengembalikan string berisi nilai dalam format XMP.
+Mengembalikan nilai string yang terkandung dalam format XMP.
 
-### Lihat juga
+### Lihat Juga
 
 * class [Timecode](../)
-* ruang nama [Aspose.PSD.Xmp.Schemas.XmpDm](../../timecode/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpDm](../../../aspose.psd.xmp.schemas.xmpdm/)
+* assembly [Aspose.PSD](../../../)
 
 

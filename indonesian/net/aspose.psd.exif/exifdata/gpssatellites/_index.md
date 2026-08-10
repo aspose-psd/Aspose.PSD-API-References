@@ -1,27 +1,28 @@
 ---
-title: ExifData.GPSSatellites
-second_title: Aspose.PSD untuk Referensi .NET API
-description: ExifData Properti. Mendapatkan atau menyetel satelit GPS yang digunakan untuk pengukuran.
+title: "ExifData.GPSSatellites"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti ExifData. Mendapatkan atau mengatur satelit GPS yang digunakan untuk pengukuran"
 type: docs
 weight: 590
 url: /id/net/aspose.psd.exif/exifdata/gpssatellites/
 ---
+{{< psd/tize >}}
 ## ExifData.GPSSatellites property
 
-Mendapatkan atau menyetel satelit GPS yang digunakan untuk pengukuran.
+Mendapatkan atau mengatur satelit GPS yang digunakan untuk pengukuran.
 
 ```csharp
 public string GPSSatellites { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
 Satelit GPS yang digunakan untuk pengukuran.
 
-### Lihat juga
+### Lihat Juga
 
 * class [ExifData](../)
-* ruang nama [Aspose.PSD.Exif](../../exifdata/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

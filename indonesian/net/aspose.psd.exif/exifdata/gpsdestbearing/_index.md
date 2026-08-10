@@ -1,28 +1,29 @@
 ---
-title: ExifData.GPSDestBearing
-second_title: Aspose.PSD untuk Referensi .NET API
-description: ExifData Properti. Mendapat atau menyetel bantalan GPS ke titik tujuan.
+title: "ExifData.GPSDestBearing"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti ExifData. Mendapatkan atau mengatur arah GPS ke titik tujuan"
 type: docs
 weight: 400
 url: /id/net/aspose.psd.exif/exifdata/gpsdestbearing/
 ---
+{{< psd/tize >}}
 ## ExifData.GPSDestBearing property
 
-Mendapat atau menyetel bantalan GPS ke titik tujuan.
+Mendapatkan atau mengatur arah GPS ke titik tujuan.
 
 ```csharp
 public TiffRational GPSDestBearing { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
-Arahan GPS ke titik tujuan.
+Arah GPS ke titik tujuan.
 
-### Lihat juga
+### Lihat Juga
 
 * class [TiffRational](../../../aspose.psd.fileformats.tiff/tiffrational/)
 * class [ExifData](../)
-* ruang nama [Aspose.PSD.Exif](../../exifdata/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

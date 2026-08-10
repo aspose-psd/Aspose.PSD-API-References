@@ -1,32 +1,33 @@
 ---
-title: Size.Truncate
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Size metode. Mengonversi yang ditentukanSizeF struktur ke aSize struktur dengan memotong nilainilai dariSizeF struktur ke nilai integer yang lebih rendah berikutnya.
+title: "Size.Truncate"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode Size. Mengonversi struktur SizeF yang ditentukan menjadi struktur Size dengan memotong nilai-nilai struktur SizeF ke nilai integer terdekat yang lebih rendah."
 type: docs
 weight: 70
 url: /id/net/aspose.psd/size/truncate/
 ---
+{{< psd/tize >}}
 ## Size.Truncate method
 
-Mengonversi yang ditentukan[`SizeF`](../../sizef/) struktur ke a[`Size`](../) struktur dengan memotong nilai-nilai dari[`SizeF`](../../sizef/) struktur ke nilai integer yang lebih rendah berikutnya.
+Mengonversi struktur [`SizeF`](../../sizef/) yang ditentukan menjadi struktur [`Size`](../) dengan memotong nilai-nilai struktur [`SizeF`](../../sizef/) ke nilai integer terdekat yang lebih rendah.
 
 ```csharp
 public static Size Truncate(SizeF size)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| size | SizeF | Itu[`SizeF`](../../sizef/) struktur untuk dikonversi. |
+| size | SizeF | Struktur [`SizeF`](../../sizef/) yang akan dikonversi. |
 
-### Nilai Pengembalian
+### Nilai Kembalian
 
-Itu[`Size`](../) struktur metode ini dikonversi ke.
+Struktur [`Size`](../) yang menjadi hasil konversi metode ini.
 
-### Lihat juga
+### Lihat Juga
 
 * struct [SizeF](../../sizef/)
 * struct [Size](../)
-* ruang nama [Aspose.PSD](../../size/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

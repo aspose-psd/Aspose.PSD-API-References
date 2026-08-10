@@ -1,27 +1,28 @@
 ---
-title: PixelDataFormat.Cmyka
-second_title: Aspose.PSD untuk Referensi .NET API
-description: PixelDataFormat Properti. Mendapat acmyk.
+title: "PixelDataFormat.Cmyka"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti PixelDataFormat. Mendapatkan acmyk"
 type: docs
 weight: 20
 url: /id/net/aspose.psd/pixeldataformat/cmyka/
 ---
+{{< psd/tize >}}
 ## PixelDataFormat.Cmyka property
 
-Mendapat acmyk.
+Mendapatkan acmyk.
 
 ```csharp
 public static PixelDataFormat Cmyka { get; }
 ```
 
-### Nilai properti
+### Property Value
 
-Itu[`PixelDataFormat`](../) didefinisikan untuk 40 bit per piksel dengan 8 bit untuk masing-masing alfa, cyan, magenta, kuning, dan hitam.
+[`PixelDataFormat`](../) yang didefinisikan untuk 40 bit per piksel dengan 8 bit untuk masing-masing alfa, sian, magenta, kuning, dan hitam.
 
-### Lihat juga
+### Lihat Juga
 
 * class [PixelDataFormat](../)
-* ruang nama [Aspose.PSD](../../pixeldataformat/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

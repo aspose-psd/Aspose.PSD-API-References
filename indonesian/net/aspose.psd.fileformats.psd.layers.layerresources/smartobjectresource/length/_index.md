@@ -1,23 +1,24 @@
 ---
-title: SmartObjectResource.Length
-second_title: Aspose.PSD untuk Referensi .NET API
-description: SmartObjectResource Properti. Mendapatkan panjang sumber daya smart object dalam byte.
+title: "SmartObjectResource.Length"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti SmartObjectResource. Mendapatkan panjang sumber daya objek pintar dalam byte"
 type: docs
 weight: 120
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/length/
 ---
+{{< psd/tize >}}
 ## SmartObjectResource.Length property
 
-Mendapatkan panjang sumber daya smart object dalam byte.
+Mendapatkan panjang sumber daya objek pintar dalam byte.
 
 ```csharp
 public override int Length { get; }
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [SmartObjectResource](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../smartobjectresource/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

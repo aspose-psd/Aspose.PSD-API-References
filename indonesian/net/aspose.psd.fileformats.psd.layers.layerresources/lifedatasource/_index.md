@@ -1,14 +1,15 @@
 ---
-title: Class LiFeDataSource
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.LiFeDataSource kelas. Menentukan kelas LnkeDataSource yang berisi informasi tentang file tertaut eksternal. Ini adalah bagian dari API Manipulasi Format File PSD yang membantu memodifikasi file Adobe Photoshop
+title: "Kelas LiFeDataSource"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Aspose.PSD.FileFormats.Psd.Layers.LayerResources.LiFeDataSource class. Mendefinisikan kelas LnkeDataSource yang berisi informasi tentang file eksternal yang ditautkan. Ini merupakan bagian dari API Manipulasi Format File PSD yang membantu memodifikasi file Adobe Photoshop."
 type: docs
-weight: 2680
+weight: 2980
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources/lifedatasource/
 ---
+{{< psd/tize >}}
 ## LiFeDataSource class
 
-Menentukan kelas LnkeDataSource yang berisi informasi tentang file tertaut eksternal. Ini adalah bagian dari API Manipulasi Format File PSD yang membantu memodifikasi file Adobe® Photoshop®
+Mendefinisikan kelas LnkeDataSource yang berisi informasi tentang file tertaut eksternal. Ini adalah bagian dari API Manipulasi Format File PSD yang membantu memodifikasi file Adobe® Photoshop®.
 
 ```csharp
 public class LiFeDataSource : LinkDataSource
@@ -16,42 +17,42 @@ public class LiFeDataSource : LinkDataSource
 
 ## Konstruktor
 
-| Nama | Keterangan |
+| Nama | Deskripsi |
 | --- | --- |
-| [LiFeDataSource](lifedatasource/#constructor)() | Menginisialisasi instance baru dari`LiFeDataSource` kelas. |
-| [LiFeDataSource](lifedatasource/#constructor_1)(int, Guid, string, string, string) | Menginisialisasi instance baru dari`LiFeDataSource` kelas. |
+| [LiFeDataSource](lifedatasource/#constructor)() | Menginisialisasi instance baru dari kelas `LiFeDataSource`. |
+| [LiFeDataSource](lifedatasource/#constructor_1)(int, Guid, string, string, string) | Menginisialisasi instance baru dari kelas `LiFeDataSource`. |
 
 ## Properti
 
-| Nama | Keterangan |
+| Nama | Deskripsi |
 | --- | --- |
-| [AdobeStockId](../../aspose.psd.fileformats.psd.layers.layerresources/lifedatasource/adobestockid/) { get; set; } | Mendapat atau menyetel perpustakaan grafis AdobeStockId, untuk Perpustakaan Adobe® Photoshop® CC. |
-| [AdobeStockLicenseState](../../aspose.psd.fileformats.psd.layers.layerresources/lifedatasource/adobestocklicensestate/) { get; } | Mendapatkan status lisensi adobe stock jika tersedia, untuk perpustakaan Adobe® Photoshop® CC. |
-| [AssetLockedState](../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/assetlockedstate/) { get; set; } | Mendapat atau menyetel nilai yang menunjukkan apakah aset PSD dikunci. Status aset terkunci, untuk aset Perpustakaan Adobe® Photoshop® СС. |
-| [AssetModTime](../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/assetmodtime/) { get; set; } | Mendapat atau menyetel waktu modifikasi aset, untuk aset Perpustakaan Adobe® Photoshop® СС. |
-| [ChildDocId](../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/childdocid/) { get; set; } | Mendapat atau menyetel pengenal dokumen anak dalam sumber data liFE atau liFD dari sumber daya Lnk2 / LnkE Adobe® Photoshop®. |
-| [CompId](../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/compid/) { get; set; } | Mendapat atau menetapkan ID comp yang dipilih saat ini untuk dokumen anak, yang akan menjadi -1 jika tidak ada yang dipilih. Comp adalah komposisi tata letak halaman yang dapat dibuat oleh desainer. Menggunakan komposisi lapisan, Anda dapat membuat, mengelola, dan melihat beberapa versi tata letak dalam satu file Adobe® Photoshop®. Layer comp adalah snapshot dari status panel Layers. Layer comps menyimpan tiga jenis opsi layer but properti ini mendapatkan pengidentifikasi pilihan Layer Comp untuk Smart Objects. [Lapisan comps di Smart Objects](https://helpx.adobe.com/photoshop/using/layer-comps.html) |
-| [Date](../../aspose.psd.fileformats.psd.layers.layerresources/lifedatasource/date/) { get; set; } | Mendapatkan atau menyetel tanggal dan waktu penulisan terakhir file eksternal di sumber data LiFE sumber daya LnkE PSD. |
-| [ElementName](../../aspose.psd.fileformats.psd.layers.layerresources/lifedatasource/elementname/) { get; set; } | Mendapatkan atau menyetel nama elemen pustaka grafis, untuk Adobe® Photoshop® CC Libraries. |
-| [ElementRef](../../aspose.psd.fileformats.psd.layers.layerresources/lifedatasource/elementref/) { get; set; } | Mendapat atau menyetel referensi elemen pustaka grafis, untuk Adobe® Photoshop® CC Libraries. |
-| [FileCreator](../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/filecreator/) { get; set; } | Mendapat atau menyetel pembuat file dalam format PSD sumber daya LnkE / Lnk2. |
-| [FileName](../../aspose.psd.fileformats.psd.layers.layerresources/lifedatasource/filename/) { get; set; } | Mendapat atau menyetel nama file eksternal atau tersemat di sumber tautan PSD . |
-| [FileSize](../../aspose.psd.fileformats.psd.layers.layerresources/lifedatasource/filesize/) { get; set; } | Mendapat atau menyetel ukuran file eksternal di sumber data LiFE sumber daya PSD LnkE. |
-| [FileType](../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/filetype/) { get; set; } | Mendapat atau menyetel jenis file tersemat atau eksternal yang berisi atau ditautkan oleh sumber daya Adobe® Photoshop® Lnk2 / LnkE. |
-| [FullPath](../../aspose.psd.fileformats.psd.layers.layerresources/lifedatasource/fullpath/) { get; set; } | Mendapat atau menyetel jalur lengkap file eksternal di sumber data LiFE sumber daya PSD LnkE. |
-| [HasFileOpenDescriptor](../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/hasfileopendescriptor/) { get; set; } | Mendapat atau menetapkan nilai yang menunjukkan apakah sumber data tautan ini memiliki deskriptor terbuka file: CompId dan OriginalCompId. |
-| [IsLibraryLink](../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/islibrarylink/) { get; } | Mendapat nilai yang menunjukkan apakah sumber data tautan PSD ini tertaut ke item Perpustakaan Adobe® Photoshop® СС. |
+| [AdobeStockId](../../aspose.psd.fileformats.psd.layers.layerresources/lifedatasource/adobestockid/) { get; set; } | Mendapatkan atau mengatur pustaka grafis AdobeStockId, untuk Adobe® Photoshop® CC Libraries. |
+| [AdobeStockLicenseState](../../aspose.psd.fileformats.psd.layers.layerresources/lifedatasource/adobestocklicensestate/) { get; } | Mendapatkan status lisensi Adobe Stock jika tersedia, untuk Adobe® Photoshop® CC libraries. |
+| [AssetLockedState](../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/assetlockedstate/) { get; set; } | Mendapatkan atau mengatur nilai yang menunjukkan apakah aset PSD terkunci. Status terkunci aset, untuk aset Adobe® Photoshop® СС Libraries. |
+| [AssetModTime](../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/assetmodtime/) { get; set; } | Mendapatkan atau mengatur waktu modifikasi aset, untuk aset Adobe® Photoshop® СС Libraries. |
+| [ChildDocId](../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/childdocid/) { get; set; } | Mendapatkan atau mengatur pengidentifikasi dokumen anak dalam sumber data liFE atau liFD dari sumber daya Lnk2 / LnkE Adobe® Photoshop®. |
+| [CompId](../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/compid/) { get; set; } | Mendapatkan atau mengatur ID komposisi yang saat ini dipilih untuk dokumen anak, yang akan bernilai -1 jika tidak ada yang dipilih. Komposisi (comps) adalah susunan tata letak halaman yang dapat dibuat oleh desainer. Dengan menggunakan layer comps, Anda dapat membuat, mengelola, dan melihat beberapa versi tata letak dalam satu file Adobe® Photoshop®. Sebuah layer comp adalah snapshot dari keadaan panel Layers. Layer comps menyimpan tiga jenis opsi layer tetapi properti ini mendapatkan pengidentifikasi pemilihan Layer Comp untuk Smart Objects. [Layer comps in Smart Objects](https://helpx.adobe.com/photoshop/using/layer-comps.html) |
+| [Date](../../aspose.psd.fileformats.psd.layers.layerresources/lifedatasource/date/) { get; set; } | Mendapatkan atau mengatur tanggal dan waktu penulisan terakhir dari file eksternal dalam sumber data LiFE dari sumber daya PSD LnkE. |
+| [ElementName](../../aspose.psd.fileformats.psd.layers.layerresources/lifedatasource/elementname/) { get; set; } | Mendapatkan atau mengatur nama elemen perpustakaan grafis, untuk Adobe® Photoshop® CC Libraries. |
+| [ElementRef](../../aspose.psd.fileformats.psd.layers.layerresources/lifedatasource/elementref/) { get; set; } | Mendapatkan atau mengatur referensi elemen perpustakaan grafis, untuk Adobe® Photoshop® CC Libraries. |
+| [FileCreator](../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/filecreator/) { get; set; } | Mendapatkan atau mengatur pembuat file dalam sumber daya format PSD LnkE / Lnk2. |
+| [FileName](../../aspose.psd.fileformats.psd.layers.layerresources/lifedatasource/filename/) { get; set; } | Mendapatkan atau mengatur nama file eksternal atau tersemat dalam sumber daya tautan PSD. |
+| [FileSize](../../aspose.psd.fileformats.psd.layers.layerresources/lifedatasource/filesize/) { get; set; } | Mendapatkan atau mengatur ukuran file eksternal dalam sumber data LiFE dari sumber daya PSD LnkE. |
+| [FileType](../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/filetype/) { get; set; } | Mendapatkan atau mengatur tipe file tersemat atau eksternal yang berisi atau ditautkan oleh sumber daya Adobe® Photoshop® Lnk2 / LnkE. |
+| [FullPath](../../aspose.psd.fileformats.psd.layers.layerresources/lifedatasource/fullpath/) { get; set; } | Mendapatkan atau mengatur jalur lengkap file eksternal dalam sumber data LiFE dari sumber daya PSD LnkE. |
+| [HasFileOpenDescriptor](../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/hasfileopendescriptor/) { get; set; } | Mendapatkan atau mengatur nilai yang menunjukkan apakah sumber data tautan ini memiliki deskriptor file terbuka: CompId dan OriginalCompId. |
+| [IsLibraryLink](../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/islibrarylink/) { get; } | Mendapatkan nilai yang menunjukkan apakah sumber data tautan PSD ini menautkan ke item Adobe® Photoshop® СС Library. |
 | [Length](../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/length/) { get; } | Mendapatkan panjang sumber data tautan dalam byte. |
-| [OriginalCompId](../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/originalcompid/) { get; } | Mendapatkan ID asli dari Comp yang saat ini dipilih untuk dokumen anak, yang akan menjadi -1 jika tidak ada yang dipilih. Properti ini mendapatkan pengidentifikasi pilihan lapisan Comp asli untuk Smart Objects. [Lapisan comps di Smart Objects](https://helpx.adobe.com/photoshop/using/layer-comps.html) |
-| [OriginalFileName](../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/originalfilename/) { get; } | Mendapatkan nama file asli dari sumber data di sumber tautan global Adobe® Photoshop®. |
-| [RelativePath](../../aspose.psd.fileformats.psd.layers.layerresources/lifedatasource/relativepath/) { get; set; } | Mendapat atau menyetel jalur relatif file eksternal di sumber data LiFE sumber daya PSD LnkE. |
-| [Type](../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/type/) { get; } | Mendapatkan jenis sumber data tautan global Adobe® Photoshop® yang dapat berupa salah satu dari berikut ini atau tidak sama sekali: LiFD file tertaut tersemat yang sesuai dengan PSD Lnk2Resource Kehidupan file tertaut eksternal yang sesuai dengan PSD LnkeResource Alias file tertaut liFA |
-| [UniqueId](../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/uniqueid/) { get; } | Mendapatkan pengidentifikasi unik global dari sumber data di sumber daya tautan PSD. |
-| [Version](../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/version/) { get; } | Mendapat versi sumber data di sumber daya PSD LnkE / Lnk2. |
+| [OriginalCompId](../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/originalcompid/) { get; } | Mendapatkan ID asli dari Comp yang saat ini dipilih untuk dokumen anak, yang akan bernilai -1 jika tidak ada yang dipilih. Properti ini mendapatkan pengidentifikasi pemilihan layer Comp asli untuk Smart Objects. [Layer comps in Smart Objects](https://helpx.adobe.com/photoshop/using/layer-comps.html) |
+| [OriginalFileName](../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/originalfilename/) { get; } | Mendapatkan nama file asli dari sumber data dalam sumber daya tautan global Adobe® Photoshop®. |
+| [RelativePath](../../aspose.psd.fileformats.psd.layers.layerresources/lifedatasource/relativepath/) { get; set; } | Mendapatkan atau mengatur jalur relatif file eksternal dalam sumber data LiFE dari sumber daya PSD LnkE. |
+| [Type](../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/type/) { get; } | Mendapatkan tipe sumber data tautan global Adobe® Photoshop® yang dapat menjadi salah satu dari berikut ini atau tidak ada: File tautan tersemat liFD yang sesuai dengan PSD Lnk2Resource, File tautan eksternal liFE yang sesuai dengan PSD LnkeResource, Alias file tautan liFA |
+| [UniqueId](../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/uniqueid/) { get; } | Mendapatkan pengidentifikasi unik global dari sumber data dalam sumber daya tautan PSD. |
+| [Version](../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/version/) { get; } | Mendapatkan versi sumber data dalam sumber daya PSD LnkE / Lnk2. |
 
-### Contoh
+## Contoh
 
-Contoh ini menunjukkan cara mendapatkan dan mengatur properti Sumber Daya Psd LnkE.
+Contoh ini menunjukkan cara mendapatkan dan mengatur properti dari Resource Psd LnkE.
 
 ```csharp
 [C#]
@@ -65,7 +66,7 @@ void AssertAreEqual(object actual, object expected)
     }
 }
 
-// Contoh ini mendemonstrasikan cara mendapatkan dan menyetel properti Sumber Daya Psd LnkE yang berisi informasi tentang file tertaut eksternal.
+// Contoh ini menunjukkan cara mendapatkan dan mengatur properti dari Resource Psd LnkE yang berisi informasi tentang file tautan eksternal.
 void ExampleOfLnkEResourceSupport(
     string fileName,
     int length,
@@ -142,7 +143,7 @@ void ExampleOfLnkEResourceSupport(
     }
 }
 
-// Contoh ini mendemonstrasikan cara mendapatkan dan menyetel properti Psd LnkeResource yang berisi informasi tentang file JPEG tertaut eksternal.
+// Contoh ini menunjukkan cara mendapatkan dan mengatur properti dari Resource Psd Lnke yang berisi informasi tentang file JPEG tautan eksternal.
 ExampleOfLnkEResourceSupport(
     @"photooverlay_5_new.psd",
     0x21c,
@@ -161,7 +162,7 @@ ExampleOfLnkEResourceSupport(
     0x1520d,
     7);
 
-// Contoh ini mendemonstrasikan cara mendapatkan dan menyetel properti PSD LnkeResource yang berisi informasi tentang file PNG tertaut eksternal.
+// Contoh ini menunjukkan cara mendapatkan dan mengatur properti dari Resource PSD Lnke yang berisi informasi tentang file PNG tautan eksternal.
 ExampleOfLnkEResourceSupport(
     "rgb8_2x2_linked.psd",
     0x284,
@@ -180,7 +181,7 @@ ExampleOfLnkEResourceSupport(
     0x53,
     7);
 
-// Contoh ini mendemonstrasikan cara mendapatkan dan menyetel properti PSD LnkeResource yang berisi informasi tentang dua file PNG dan PSD yang ditautkan secara eksternal.
+// Contoh ini menunjukkan cara mendapatkan dan mengatur properti PSD LnkeResource yang berisi informasi tentang dua file PNG dan PSD yang ditautkan secara eksternal.
 ExampleOfLnkEResourceSupport(
     "rgb8_2x2_linked2.psd",
     0x590,
@@ -199,7 +200,7 @@ ExampleOfLnkEResourceSupport(
     0x4aea,
     7);
 
-// Contoh ini mendemonstrasikan cara mendapatkan dan menyetel properti Photoshop Psd LnkeResource yang berisi informasi tentang Aset Perpustakaan CC tertaut eksternal.
+// Contoh ini menunjukkan cara mendapatkan dan mengatur properti Photoshop Psd LnkeResource yang berisi informasi tentang satu aset CC Libraries yang ditautkan secara eksternal.
 ExampleOfLnkEResourceSupport(
     "rgb8_2x2_asset_linked.psd",
     0x398,
@@ -441,10 +442,10 @@ ExampleOfComplexLnkEResourceSupport(
     ComplexLnkEResourceSupportCases);
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [LinkDataSource](../linkdatasource/)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
-* perakitan [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../)
 
 

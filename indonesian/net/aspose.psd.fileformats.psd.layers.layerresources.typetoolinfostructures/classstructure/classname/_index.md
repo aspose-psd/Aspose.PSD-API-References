@@ -1,27 +1,28 @@
 ---
-title: ClassStructure.ClassName
-second_title: Aspose.PSD untuk Referensi .NET API
-description: ClassStructure Properti. Mendapat atau menetapkan nama kelas.
+title: "ClassStructure.ClassName"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti ClassStructure. Mendapatkan atau mengatur nama kelas"
 type: docs
 weight: 30
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/classstructure/classname/
 ---
+{{< psd/tize >}}
 ## ClassStructure.ClassName property
 
-Mendapat atau menetapkan nama kelas.
+Mendapatkan atau mengatur nama kelas.
 
 ```csharp
 public string ClassName { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
 Nama kelas.
 
-### Lihat juga
+### Lihat Juga
 
 * class [ClassStructure](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../classstructure/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 

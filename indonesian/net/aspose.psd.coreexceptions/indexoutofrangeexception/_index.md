@@ -1,11 +1,12 @@
 ---
-title: Class IndexOutOFRangeException
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Aspose.PSD.CoreExceptions.IndexOutOFRangeException kelas. Pengecualian kompresor.
+title: "Kelas IndexOutOFRangeException"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Aspose.PSD.CoreExceptions.IndexOutOFRangeException class. Pengecualian kompresor"
 type: docs
 weight: 640
 url: /id/net/aspose.psd.coreexceptions/indexoutofrangeexception/
 ---
+{{< psd/tize >}}
 ## IndexOutOFRangeException class
 
 Pengecualian kompresor.
@@ -16,14 +17,14 @@ public class IndexOutOFRangeException : Exception
 
 ## Konstruktor
 
-| Nama | Keterangan |
+| Nama | Deskripsi |
 | --- | --- |
-| [IndexOutOFRangeException](indexoutofrangeexception/#constructor)(string) | Menginisialisasi instance baru dari[`CompressorException`](../compressorexception/) kelas. |
-| [IndexOutOFRangeException](indexoutofrangeexception/#constructor_1)(string, Exception) | Menginisialisasi instance baru dari[`CompressorException`](../compressorexception/) kelas. |
+| [IndexOutOFRangeException](indexoutofrangeexception/#constructor)(string) | Menginisialisasi instance baru dari kelas [`CompressorException`](../compressorexception/). |
+| [IndexOutOFRangeException](indexoutofrangeexception/#constructor_1)(string, Exception) | Menginisialisasi instance baru dari kelas [`CompressorException`](../compressorexception/). |
 
-### Lihat juga
+### Lihat Juga
 
-* ruang nama [Aspose.PSD.CoreExceptions](../../aspose.psd.coreexceptions/)
-* perakitan [Aspose.PSD](../../)
+* namespace [Aspose.PSD.CoreExceptions](../../aspose.psd.coreexceptions/)
+* assembly [Aspose.PSD](../../)
 
 

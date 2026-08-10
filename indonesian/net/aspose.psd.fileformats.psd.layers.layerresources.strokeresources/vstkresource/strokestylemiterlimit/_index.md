@@ -1,27 +1,28 @@
 ---
-title: VstkResource.StrokeStyleMiterLimit
-second_title: Aspose.PSD untuk Referensi .NET API
-description: VstkResource Properti. Mendapat atau menyetel batas mitra gaya goresan.
+title: "VstkResource.StrokeStyleMiterLimit"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "VstkResource property. Mendapatkan atau mengatur batas miter gaya stroke"
 type: docs
-weight: 170
+weight: 150
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources.strokeresources/vstkresource/strokestylemiterlimit/
 ---
+{{< psd/tize >}}
 ## VstkResource.StrokeStyleMiterLimit property
 
-Mendapat atau menyetel batas mitra gaya goresan.
+Mendapatkan atau mengatur batas miter gaya stroke.
 
 ```csharp
 public double StrokeStyleMiterLimit { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
-Batas mitra gaya goresan.
+Batas miter gaya stroke.
 
-### Lihat juga
+### Lihat Juga
 
 * class [VstkResource](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.StrokeResources](../../vstkresource/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.StrokeResources](../../../aspose.psd.fileformats.psd.layers.layerresources.strokeresources/)
+* assembly [Aspose.PSD](../../../)
 
 

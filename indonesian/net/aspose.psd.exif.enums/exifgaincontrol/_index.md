@@ -1,14 +1,15 @@
 ---
-title: Enum ExifGainControl
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Aspose.PSD.Exif.Enums.ExifGainControl enum. exif mendapatkan kontrol enum.
+title: "Enum ExifGainControl"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Aspose.PSD.Exif.Enums.ExifGainControl enum. kontrol gain exif enum"
 type: docs
-weight: 880
+weight: 890
 url: /id/net/aspose.psd.exif.enums/exifgaincontrol/
 ---
+{{< psd/tize >}}
 ## ExifGainControl enumeration
 
-exif mendapatkan kontrol enum.
+enumerasi kontrol gain exif.
 
 ```csharp
 public enum ExifGainControl
@@ -16,17 +17,17 @@ public enum ExifGainControl
 
 ### Nilai
 
-| Nama | Nilai | Keterangan |
+| Nama | Nilai | Deskripsi |
 | --- | --- | --- |
 | None | `0` | Tidak ada kontrol gain. |
-| LowGainUp | `1` | Kenaikan rendah. |
-| HighGainUp | `2` | Kenaikan tinggi. |
-| LowGainDown | `3` | Keuntungan rendah turun. |
-| HighGainDown | `4` | Keuntungan tinggi turun. |
+| LowGainUp | `1` | Gain rendah naik. |
+| HighGainUp | `2` | Gain tinggi naik. |
+| LowGainDown | `3` | Gain rendah turun. |
+| HighGainDown | `4` | Gain tinggi turun. |
 
-### Lihat juga
+### Lihat Juga
 
-* ruang nama [Aspose.PSD.Exif.Enums](../../aspose.psd.exif.enums/)
-* perakitan [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Exif.Enums](../../aspose.psd.exif.enums/)
+* assembly [Aspose.PSD](../../)
 
 

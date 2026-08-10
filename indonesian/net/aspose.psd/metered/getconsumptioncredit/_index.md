@@ -1,27 +1,28 @@
 ---
-title: Metered.GetConsumptionCredit
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Metered metode. Mendapat kredit konsumsi
+title: "Metered.GetConsumptionCredit"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode Metered. Mendapatkan kredit konsumsi"
 type: docs
-weight: 40
+weight: 50
 url: /id/net/aspose.psd/metered/getconsumptioncredit/
 ---
+{{< psd/tize >}}
 ## Metered.GetConsumptionCredit method
 
-Mendapat kredit konsumsi
+Mendapatkan kredit konsumsi
 
 ```csharp
 public static decimal GetConsumptionCredit()
 ```
 
-### Nilai Pengembalian
+### Nilai Kembalian
 
-kuantitas konsumsi
+jumlah konsumsi
 
-### Lihat juga
+### Lihat Juga
 
 * class [Metered](../)
-* ruang nama [Aspose.PSD](../../metered/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

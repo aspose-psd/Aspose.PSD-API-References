@@ -1,27 +1,28 @@
 ---
-title: PsdOptions.ChannelBitsCount
-second_title: Aspose.PSD untuk Referensi .NET API
-description: PsdOptions Properti. Mendapat atau menyetel jumlah bit per saluran warna.
+title: "PsdOptions.ChannelBitsCount"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti PsdOptions. Mendapatkan atau mengatur jumlah bit per saluran warna."
 type: docs
-weight: 20
+weight: 30
 url: /id/net/aspose.psd.imageoptions/psdoptions/channelbitscount/
 ---
+{{< psd/tize >}}
 ## PsdOptions.ChannelBitsCount property
 
-Mendapat atau menyetel jumlah bit per saluran warna.
+Mendapatkan atau mengatur jumlah bit per saluran warna.
 
 ```csharp
 public short ChannelBitsCount { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
 Jumlah bit per saluran warna.
 
-### Lihat juga
+### Lihat Juga
 
 * class [PsdOptions](../)
-* ruang nama [Aspose.PSD.ImageOptions](../../psdoptions/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

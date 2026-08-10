@@ -1,27 +1,28 @@
 ---
-title: CmykMixerChannel.Black
-second_title: Aspose.PSD untuk Referensi .NET API
-description: CmykMixerChannel Properti. Mendapat atau menyetel hitam.
+title: "CmykMixerChannel.Black"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "CmykMixerChannel property. Mendapatkan atau mengatur hitam"
 type: docs
 weight: 20
 url: /id/net/aspose.psd.fileformats.psd.layers.adjustmentlayers/cmykmixerchannel/black/
 ---
+{{< psd/tize >}}
 ## CmykMixerChannel.Black property
 
-Mendapat atau menyetel hitam.
+Mendapatkan atau mengatur hitam.
 
 ```csharp
 public short Black { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
-Hitam.
+Hitam tersebut.
 
-### Lihat juga
+### Lihat Juga
 
 * class [CmykMixerChannel](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../cmykmixerchannel/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/)
+* assembly [Aspose.PSD](../../../)
 
 

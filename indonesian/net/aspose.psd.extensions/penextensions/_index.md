@@ -1,14 +1,15 @@
 ---
-title: Class PenExtensions
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Aspose.PSD.Extensions.PenExtensions kelas. Berisi metode ekstensi untukPen DanPen .
+title: "Kelas PenExtensions"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Kelas Aspose.PSD.Extensions.PenExtensions. Berisi metode ekstensi untuk Pen dan Pen"
 type: docs
-weight: 1140
+weight: 1150
 url: /id/net/aspose.psd.extensions/penextensions/
 ---
+{{< psd/tize >}}
 ## PenExtensions class
 
-Berisi metode ekstensi untuk[`Pen`](../../aspose.psd/pen/) DanPen .
+Berisi metode ekstensi untuk [`Pen`](../../aspose.psd/pen/) dan Pen.
 
 ```csharp
 public static class PenExtensions
@@ -16,13 +17,13 @@ public static class PenExtensions
 
 ## Metode
 
-| Nama | Keterangan |
+| Nama | Deskripsi |
 | --- | --- |
-| static [ToGdiPen](../../aspose.psd.extensions/penextensions/togdipen/)(Pen) | Mengubah[`Pen`](../../aspose.psd/pen/) kePen . |
+| static [ToGdiPen](../../aspose.psd.extensions/penextensions/togdipen/)(Pen) | Mengonversi [`Pen`](../../aspose.psd/pen/) menjadi Pen. |
 
-### Lihat juga
+### Lihat Juga
 
-* ruang nama [Aspose.PSD.Extensions](../../aspose.psd.extensions/)
-* perakitan [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Extensions](../../aspose.psd.extensions/)
+* assembly [Aspose.PSD](../../)
 
 

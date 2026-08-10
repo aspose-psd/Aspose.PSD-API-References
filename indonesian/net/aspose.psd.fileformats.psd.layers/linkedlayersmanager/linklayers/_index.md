@@ -1,38 +1,39 @@
 ---
-title: LinkedLayersManager.LinkLayers
-second_title: Aspose.PSD untuk Referensi .NET API
-description: LinkedLayersManager metode. Menautkan lapisan masukan dan mengembalikan LingGroupId.
+title: "LinkedLayersManager.LinkLayers"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode LinkedLayersManager. Menautkan lapisan input dan mengembalikan LingGroupId"
 type: docs
 weight: 30
 url: /id/net/aspose.psd.fileformats.psd.layers/linkedlayersmanager/linklayers/
 ---
+{{< psd/tize >}}
 ## LinkedLayersManager.LinkLayers method
 
-Menautkan lapisan masukan dan mengembalikan LingGroupId.
+Menautkan lapisan input dan mengembalikan LingGroupId.
 
 ```csharp
 public short LinkLayers(Layer[] layers)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| layers | Layer[] | Lapisan. |
+| layers | Layer[] | Lapisan-lapisan. |
 
-### Nilai Pengembalian
+### Nilai Kembalian
 
-ID grup tautan.
+Id grup tautan.
 
 ### Pengecualian
 
 | pengecualian | kondisi |
 | --- | --- |
-| ArgumentNullException | Lapisannya nol. |
+| ArgumentNullException | Lapisan-lapisan bernilai null. |
 | ArgumentException | Jumlah lapisan harus lebih besar dari 1. |
-| ArgumentException | Wadah setiap lapisan harus sama dengan PsdImage saat ini. |
+| ArgumentException | Kontainer setiap lapisan harus sama dengan PsdImage saat ini. |
 
-### Contoh
+## Contoh
 
-Contoh berikut menunjukkan bagaimana Anda dapat memanipulasi Linked Layers di Aspose.PSD
+Contoh berikut menunjukkan cara Anda dapat memanipulasi Linked Layers di Aspose.PSD
 
 ```csharp
 [C#]
@@ -40,12 +41,12 @@ Contoh berikut menunjukkan bagaimana Anda dapat memanipulasi Linked Layers di As
 string sourceFile = "example.psd";
 string outputFile = "psdnet11_output.psd";
 
-// Memuat gambar yang ada ke dalam instance kelas PsdImage
+// Muat gambar yang ada ke dalam instance kelas PsdImage
 using (var psd = (PsdImage)Image.Load(sourceFile))
 {
     Layer[] layers = psd.Layers;
 
-    // tautkan semua layer dalam satu grup tertaut
+    // tautkan semua lapisan dalam satu grup tertaut
     short layersLinkGroupId = psd.LinkedLayersManager.LinkLayers(layers);
 
     // mendapatkan id untuk satu lapisan
@@ -55,16 +56,16 @@ using (var psd = (PsdImage)Image.Load(sourceFile))
         throw new Exception("layersLinkGroupId and linkGroupId are not equal.");
     }
 
-    // dapatkan semua lapisan tertaut dengan id grup tautan.
+    // mendapatkan semua lapisan tertaut berdasarkan ID grup tautan.
     Layer[] linkedLayers = psd.LinkedLayersManager.GetLayersByLinkGroupId(linkGroupId);
 
-    // batalkan tautan setiap lapisan dari grup
+    // lepaskan tautan setiap lapisan dari grup
     foreach (var linkedLayer in linkedLayers)
     {
         psd.LinkedLayersManager.UnlinkLayer(linkedLayer);
     }
 
-    // mengambil NULL untuk ID grup tautan yang tidak memiliki lapisan dalam grup.
+    // mengembalikan NULL untuk ID grup tautan yang tidak memiliki lapisan dalam grup.
     linkedLayers = psd.LinkedLayersManager.GetLayersByLinkGroupId(linkGroupId);
     if (linkedLayers != null)
     {
@@ -74,11 +75,11 @@ using (var psd = (PsdImage)Image.Load(sourceFile))
 }
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [Layer](../../layer/)
 * class [LinkedLayersManager](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers](../../linkedlayersmanager/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

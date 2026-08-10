@@ -1,27 +1,28 @@
 ---
-title: BezierKnotRecord.IsLinked
-second_title: Aspose.PSD untuk Referensi .NET API
-description: BezierKnotRecord Properti. Mendapat atau menetapkan nilai yang menunjukkan apakah instance ini ditautkan.
+title: "BezierKnotRecord.IsLinked"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti BezierKnotRecord. Mendapatkan atau mengatur nilai yang menunjukkan apakah instance ini terhubung"
 type: docs
 weight: 30
 url: /id/net/aspose.psd.fileformats.core.vectorpaths/bezierknotrecord/islinked/
 ---
+{{< psd/tize >}}
 ## BezierKnotRecord.IsLinked property
 
-Mendapat atau menetapkan nilai yang menunjukkan apakah instance ini ditautkan.
+Mendapatkan atau mengatur nilai yang menunjukkan apakah instance ini terhubung.
 
 ```csharp
 public bool IsLinked { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
-`BENAR` jika instance ini ditautkan; jika tidak,`PALSU` .
+`true` jika instance ini terhubung; sebaliknya, `false`.
 
-### Lihat juga
+### Lihat Juga
 
 * class [BezierKnotRecord](../)
-* ruang nama [Aspose.PSD.FileFormats.Core.VectorPaths](../../bezierknotrecord/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../../)
 
 

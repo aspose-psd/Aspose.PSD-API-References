@@ -1,14 +1,15 @@
 ---
-title: Class ColorBlendExtensions
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Aspose.PSD.Extensions.ColorBlendExtensions kelas. BerisiColorBlend metode ekstensi.
+title: "Kelas ColorBlendExtensions"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Kelas Aspose.PSD.Extensions.ColorBlendExtensions. Berisi metode ekstensi ColorBlend"
 type: docs
-weight: 1040
+weight: 1050
 url: /id/net/aspose.psd.extensions/colorblendextensions/
 ---
+{{< psd/tize >}}
 ## ColorBlendExtensions class
 
-Berisi[`ColorBlend`](../../aspose.psd/colorblend/) metode ekstensi.
+Berisi metode ekstensi [`ColorBlend`](../../aspose.psd/colorblend/).
 
 ```csharp
 public static class ColorBlendExtensions
@@ -16,13 +17,13 @@ public static class ColorBlendExtensions
 
 ## Metode
 
-| Nama | Keterangan |
+| Nama | Deskripsi |
 | --- | --- |
-| static [ToGdiColorBlend](../../aspose.psd.extensions/colorblendextensions/togdicolorblend/)(ColorBlend) | Mengubah[`ColorBlend`](../../aspose.psd/colorblend/) keColorBlend . |
+| static [ToGdiColorBlend](../../aspose.psd.extensions/colorblendextensions/togdicolorblend/)(ColorBlend) | Mengonversi [`ColorBlend`](../../aspose.psd/colorblend/) menjadi ColorBlend. |
 
-### Lihat juga
+### Lihat Juga
 
-* ruang nama [Aspose.PSD.Extensions](../../aspose.psd.extensions/)
-* perakitan [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Extensions](../../aspose.psd.extensions/)
+* assembly [Aspose.PSD](../../)
 
 

@@ -1,33 +1,34 @@
 ---
-title: RasterImage.GetPixel
-second_title: Aspose.PSD untuk Referensi .NET API
-description: RasterImage metode. Mendapat piksel gambar.
+title: "RasterImage.GetPixel"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode RasterImage. Mendapatkan sebuah piksel gambar. Peringatan Kinerja: Hindari menggunakan metode ini untuk mengiterasi semua piksel gambar karena dapat menyebabkan masalah kinerja yang signifikan. Untuk manipulasi piksel yang lebih efisien, gunakan metode LoadArgb32Pixels untuk mengambil seluruh array piksel sekaligus."
 type: docs
 weight: 320
 url: /id/net/aspose.psd/rasterimage/getpixel/
 ---
+{{< psd/tize >}}
 ## RasterImage.GetPixel method
 
-Mendapat piksel gambar.
+Mendapatkan piksel gambar. Peringatan Kinerja: Hindari menggunakan metode ini untuk mengiterasi semua piksel gambar karena dapat menyebabkan masalah kinerja yang signifikan. Untuk manipulasi piksel yang lebih efisien, gunakan metode `LoadArgb32Pixels` untuk mengambil seluruh array piksel sekaligus.
 
 ```csharp
 public Color GetPixel(int x, int y)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| x | Int32 | Lokasi piksel x. |
-| y | Int32 | Lokasi piksel y. |
+| x | Int32 | Lokasi x piksel. |
+| y | Int32 | Lokasi y piksel. |
 
-### Nilai Pengembalian
+### Nilai Kembalian
 
 Warna piksel untuk lokasi yang ditentukan.
 
-### Lihat juga
+### Lihat Juga
 
 * struct [Color](../../color/)
 * class [RasterImage](../)
-* ruang nama [Aspose.PSD](../../rasterimage/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

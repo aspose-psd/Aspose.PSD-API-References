@@ -1,27 +1,28 @@
 ---
-title: XmpReal.Value
-second_title: Aspose.PSD untuk Referensi .NET API
-description: XmpReal Properti. Mendapat atau menetapkan float nilai.
+title: "XmpReal.Value"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti XmpReal. Mendapatkan atau mengatur nilai float"
 type: docs
 weight: 20
 url: /id/net/aspose.psd.xmp.types.basic/xmpreal/value/
 ---
+{{< psd/tize >}}
 ## XmpReal.Value property
 
-Mendapat atau menetapkan float nilai.
+Mendapatkan atau mengatur nilai float.
 
 ```csharp
 public float Value { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
 Nilai float.
 
-### Lihat juga
+### Lihat Juga
 
 * class [XmpReal](../)
-* ruang nama [Aspose.PSD.Xmp.Types.Basic](../../xmpreal/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Basic](../../../aspose.psd.xmp.types.basic/)
+* assembly [Aspose.PSD](../../../)
 
 

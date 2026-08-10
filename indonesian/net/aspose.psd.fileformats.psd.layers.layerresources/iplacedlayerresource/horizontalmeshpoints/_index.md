@@ -1,27 +1,28 @@
 ---
-title: IPlacedLayerResource.HorizontalMeshPoints
-second_title: Aspose.PSD untuk Referensi .NET API
-description: IPlacedLayerResource Properti. Mendapat atau menyetel titik jaring horizontal dari lapisan yang ditempatkan di file PSD.
+title: "IPlacedLayerResource.HorizontalMeshPoints"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti IPlacedLayerResource. Mendapatkan atau mengatur titik mesh horizontal dari lapisan yang ditempatkan dalam file PSD"
 type: docs
 weight: 40
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/horizontalmeshpoints/
 ---
+{{< psd/tize >}}
 ## IPlacedLayerResource.HorizontalMeshPoints property
 
-Mendapat atau menyetel titik jaring horizontal dari lapisan yang ditempatkan di file PSD.
+Mendapatkan atau mengatur titik mesh horizontal lapisan yang ditempatkan dalam file PSD.
 
 ```csharp
 public double[] HorizontalMeshPoints { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
-Titik jaring horizontal dari lapisan yang ditempatkan.
+Titik mesh horizontal dari lapisan yang ditempatkan.
 
-### Lihat juga
+### Lihat Juga
 
 * interface [IPlacedLayerResource](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../iplacedlayerresource/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

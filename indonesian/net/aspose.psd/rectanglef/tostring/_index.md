@@ -1,27 +1,28 @@
 ---
-title: RectangleF.ToString
-second_title: Aspose.PSD untuk Referensi .NET API
-description: RectangleF metode. Mengubah atribut iniRectangleF ke string yang dapat dibaca manusia.
+title: "RectangleF.ToString"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode RectangleF. Mengonversi atribut dari RectangleF ini menjadi string yang dapat dibaca manusia"
 type: docs
 weight: 250
 url: /id/net/aspose.psd/rectanglef/tostring/
 ---
+{{< psd/tize >}}
 ## RectangleF.ToString method
 
-Mengubah atribut ini[`RectangleF`](../) ke string yang dapat dibaca manusia.
+Mengonversi atribut dari [`RectangleF`](../) ini menjadi string yang dapat dibaca manusia.
 
 ```csharp
 public override string ToString()
 ```
 
-### Nilai Pengembalian
+### Nilai Kembalian
 
-Sebuah string yang berisi posisi, lebar, dan tinggi ini[`RectangleF`](../) struktur.
+String yang berisi posisi, lebar, dan tinggi dari struktur [`RectangleF`](../) ini.
 
-### Lihat juga
+### Lihat Juga
 
 * struct [RectangleF](../)
-* ruang nama [Aspose.PSD](../../rectanglef/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

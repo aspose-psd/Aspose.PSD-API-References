@@ -1,11 +1,12 @@
 ---
-title: TextLayer.UpdateText
-second_title: Aspose.PSD untuk Referensi .NET API
-description: TextLayer metode. Memperbarui teks.
+title: "TextLayer.UpdateText"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode TextLayer. Memperbarui teks"
 type: docs
-weight: 100
+weight: 110
 url: /id/net/aspose.psd.fileformats.psd.layers/textlayer/updatetext/
 ---
+{{< psd/tize >}}
 ## UpdateText(string) {#updatetext}
 
 Memperbarui teks.
@@ -14,15 +15,15 @@ Memperbarui teks.
 public void UpdateText(string text)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
 | text | String | Nilai teks. |
 
-### Lihat juga
+### Lihat Juga
 
 * class [TextLayer](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers](../../textlayer/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
@@ -34,16 +35,16 @@ Memperbarui teks.
 public void UpdateText(string text, float fontSize)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
 | text | String | Nilai teks. |
-| fontSize | Single | Ukuran fonta. |
+| fontSize | Single | Ukuran font. |
 
-### Lihat juga
+### Lihat Juga
 
 * class [TextLayer](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers](../../textlayer/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
@@ -55,17 +56,17 @@ Memperbarui teks.
 public void UpdateText(string text, Color color)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
 | text | String | Nilai teks. |
-| color | Color | Nilai warna. |
+| warna | Warna | Nilai warna. |
 
-### Lihat juga
+### Lihat Juga
 
 * struct [Color](../../../aspose.psd/color/)
 * class [TextLayer](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers](../../textlayer/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
@@ -77,18 +78,18 @@ Memperbarui teks.
 public void UpdateText(string text, float fontSize, Color color)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
 | text | String | Nilai teks. |
-| fontSize | Single | Ukuran fonta. |
-| color | Color | Nilai warna. |
+| fontSize | Single | Ukuran font. |
+| warna | Warna | Nilai warna. |
 
-### Lihat juga
+### Lihat Juga
 
 * struct [Color](../../../aspose.psd/color/)
 * class [TextLayer](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers](../../textlayer/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
@@ -100,18 +101,18 @@ Memperbarui teks.
 public void UpdateText(string text, Point leftTopCoordinate, float fontSize)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
 | text | String | Nilai teks. |
 | leftTopCoordinate | Point | Koordinat kiri atas. |
-| fontSize | Single | Ukuran fonta. |
+| fontSize | Single | Ukuran font. |
 
-### Lihat juga
+### Lihat Juga
 
 * struct [Point](../../../aspose.psd/point/)
 * class [TextLayer](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers](../../textlayer/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
@@ -123,19 +124,19 @@ Memperbarui teks.
 public void UpdateText(string text, Point leftTopCoordinate, Color color)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
 | text | String | Nilai teks. |
 | leftTopCoordinate | Point | Koordinat kiri atas. |
-| color | Color | Nilai warna. |
+| warna | Warna | Nilai warna. |
 
-### Lihat juga
+### Lihat Juga
 
 * struct [Point](../../../aspose.psd/point/)
 * struct [Color](../../../aspose.psd/color/)
 * class [TextLayer](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers](../../textlayer/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
@@ -147,17 +148,17 @@ Memperbarui teks.
 public void UpdateText(string text, Point leftTopCoordinate)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
 | text | String | Nilai teks. |
 | leftTopCoordinate | Point | Koordinat kiri atas. |
 
-### Lihat juga
+### Lihat Juga
 
 * struct [Point](../../../aspose.psd/point/)
 * class [TextLayer](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers](../../textlayer/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
@@ -169,19 +170,19 @@ Memperbarui teks.
 public void UpdateText(string text, Point leftTopCoordinate, float fontSize, Color color)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
 | text | String | Nilai teks. |
 | leftTopCoordinate | Point | Koordinat kiri atas. |
-| fontSize | Single | Ukuran fonta. |
-| color | Color | Nilai warna. |
+| fontSize | Single | Ukuran font. |
+| warna | Warna | Nilai warna. |
 
-### Lihat juga
+### Lihat Juga
 
 * struct [Point](../../../aspose.psd/point/)
 * struct [Color](../../../aspose.psd/color/)
 * class [TextLayer](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers](../../textlayer/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

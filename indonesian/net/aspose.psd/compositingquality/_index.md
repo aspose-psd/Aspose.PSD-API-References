@@ -1,14 +1,15 @@
 ---
-title: Enum CompositingQuality
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Aspose.PSD.CompositingQuality enum. Menentukan tingkat kualitas untuk digunakan selama pengomposisian.
+title: "Enum CompositingQuality"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Enum Aspose.PSD.CompositingQuality. Menentukan tingkat kualitas yang digunakan selama komposit."
 type: docs
 weight: 420
 url: /id/net/aspose.psd/compositingquality/
 ---
+{{< psd/tize >}}
 ## CompositingQuality enumeration
 
-Menentukan tingkat kualitas untuk digunakan selama pengomposisian.
+Menentukan tingkat kualitas yang akan digunakan selama komposit.
 
 ```csharp
 public enum CompositingQuality
@@ -16,18 +17,18 @@ public enum CompositingQuality
 
 ### Nilai
 
-| Nama | Nilai | Keterangan |
+| Nama | Nilai | Deskripsi |
 | --- | --- | --- |
 | Invalid | `-1` | Kualitas tidak valid. |
-| Default | `0` | Kualitas standar. |
+| Default | `0` | Kualitas default. |
 | HighSpeed | `1` | Kecepatan tinggi, kualitas rendah. |
-| HighQuality | `2` | Kualitas tinggi, pengomposisian kecepatan rendah. |
+| HighQuality | `2` | Komposit kualitas tinggi, kecepatan rendah. |
 | GammaCorrected | `3` | Koreksi gamma digunakan. |
-| AssumeLinear | `4` | Asumsikan nilai linier. |
+| AssumeLinear | `4` | Asumsikan nilai linear. |
 
-### Lihat juga
+### Lihat Juga
 
-* ruang nama [Aspose.PSD](../../aspose.psd/)
-* perakitan [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

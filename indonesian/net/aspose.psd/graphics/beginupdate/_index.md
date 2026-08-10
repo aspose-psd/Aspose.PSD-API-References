@@ -1,27 +1,28 @@
 ---
-title: Graphics.BeginUpdate
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Graphics metode. Memulai caching dari operasi grafis berikut. Efek grafik yang diterapkan setelahnya tidak akan langsung diterapkan melainkan EndUpdate akan menyebabkan penerapan semua efek sekaligus.
+title: "Graphics.BeginUpdate"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode Graphics. Memulai caching operasi grafis berikutnya. Efek grafis yang diterapkan setelahnya tidak akan diterapkan secara langsung; sebaliknya EndUpdate akan menerapkan semua efek sekaligus"
 type: docs
-weight: 140
+weight: 150
 url: /id/net/aspose.psd/graphics/beginupdate/
 ---
+{{< psd/tize >}}
 ## Graphics.BeginUpdate method
 
-Memulai caching dari operasi grafis berikut. Efek grafik yang diterapkan setelahnya tidak akan langsung diterapkan, melainkan EndUpdate akan menyebabkan penerapan semua efek sekaligus.
+Memulai caching operasi grafik berikut. Efek grafik yang diterapkan setelahnya tidak akan diterapkan secara langsung; sebaliknya EndUpdate akan menyebabkan penerapan semua efek sekaligus.
 
 ```csharp
 public void BeginUpdate()
 ```
 
-### Perkataan
+## Catatan
 
-Perhatikan efek setelah BeginUpdate dipanggil tidak akan diterapkan jika EndUpdate tidak dipanggil.
+Catatan: efek setelah BeginUpdate dipanggil tidak akan diterapkan jika EndUpdate tidak dipanggil.
 
-### Lihat juga
+### Lihat Juga
 
 * class [Graphics](../)
-* ruang nama [Aspose.PSD](../../graphics/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

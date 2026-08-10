@@ -1,29 +1,30 @@
 ---
-title: Txt2Resource.Save
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Txt2Resource metode. Menyimpan wadah aliran yang ditentukan.
+title: "Txt2Resource.Save"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "metode Txt2Resource. Menyimpan kontainer aliran yang ditentukan"
 type: docs
-weight: 90
+weight: 60
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources/txt2resource/save/
 ---
+{{< psd/tize >}}
 ## Txt2Resource.Save method
 
-Menyimpan wadah aliran yang ditentukan.
+Menyimpan kontainer aliran yang ditentukan.
 
 ```csharp
 public override void Save(StreamContainer streamContainer, int psdVersion)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| streamContainer | StreamContainer | Wadah aliran. |
+| streamContainer | StreamContainer | Kontainer aliran. |
 | psdVersion | Int32 | Versi PSD. |
 
-### Lihat juga
+### Lihat Juga
 
 * class [StreamContainer](../../../aspose.psd/streamcontainer/)
 * class [Txt2Resource](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../txt2resource/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: Class GaussianBlurFilterOptions
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Aspose.PSD.ImageFilters.FilterOptions.GaussianBlurFilterOptions kelas. Gaussian blur
+title: "Kelas GaussianBlurFilterOptions"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Kelas Aspose.PSD.ImageFilters.FilterOptions.GaussianBlurFilterOptions. Blur Gaussian"
 type: docs
-weight: 4710
+weight: 5180
 url: /id/net/aspose.psd.imagefilters.filteroptions/gaussianblurfilteroptions/
 ---
+{{< psd/tize >}}
 ## GaussianBlurFilterOptions class
 
-Gaussian blur
+Blur Gaussian
 
 ```csharp
 public class GaussianBlurFilterOptions : ConvolutionFilterOptions
@@ -16,24 +17,24 @@ public class GaussianBlurFilterOptions : ConvolutionFilterOptions
 
 ## Konstruktor
 
-| Nama | Keterangan |
+| Nama | Deskripsi |
 | --- | --- |
-| [GaussianBlurFilterOptions](gaussianblurfilteroptions/#constructor)() | Menginisialisasi instance baru dari`GaussianBlurFilterOptions` class. Dengan pengaturan default. |
-| [GaussianBlurFilterOptions](gaussianblurfilteroptions/#constructor_1)(int, double) | Menginisialisasi instance baru dari`GaussianBlurFilterOptions` kelas. |
+| [GaussianBlurFilterOptions](gaussianblurfilteroptions/#constructor)() | Menginisialisasi sebuah instance baru dari kelas `GaussianBlurFilterOptions`. Dengan pengaturan default. |
+| [GaussianBlurFilterOptions](gaussianblurfilteroptions/#constructor_1)(int, double) | Menginisialisasi sebuah instance baru dari kelas `GaussianBlurFilterOptions`. |
 
 ## Properti
 
-| Nama | Keterangan |
+| Nama | Deskripsi |
 | --- | --- |
-| [Bias](../../aspose.psd.imagefilters.filteroptions/convolutionfilteroptions/bias/) { get; set; } | Mendapat atau menyetel bias. |
-| [Factor](../../aspose.psd.imagefilters.filteroptions/convolutionfilteroptions/factor/) { get; set; } | Mendapatkan atau menyetel faktor. |
-| [Radius](../../aspose.psd.imagefilters.filteroptions/gaussianblurfilteroptions/radius/) { get; set; } | Mendapat atau menyetel radius. |
-| [Sigma](../../aspose.psd.imagefilters.filteroptions/gaussianblurfilteroptions/sigma/) { get; set; } | Mendapat atau menyetel sigma. |
+| [Bias](../../aspose.psd.imagefilters.filteroptions/convolutionfilteroptions/bias/) { get; set; } | Mendapatkan atau mengatur bias. |
+| [Factor](../../aspose.psd.imagefilters.filteroptions/convolutionfilteroptions/factor/) { get; set; } | Mendapatkan atau mengatur faktor. |
+| [Radius](../../aspose.psd.imagefilters.filteroptions/gaussianblurfilteroptions/radius/) { get; set; } | Mendapatkan atau mengatur radius. |
+| [Sigma](../../aspose.psd.imagefilters.filteroptions/gaussianblurfilteroptions/sigma/) { get; set; } | Mendapatkan atau mengatur sigma. |
 
-### Lihat juga
+### Lihat Juga
 
 * class [ConvolutionFilterOptions](../convolutionfilteroptions/)
-* ruang nama [Aspose.PSD.ImageFilters.FilterOptions](../../aspose.psd.imagefilters.filteroptions/)
-* perakitan [Aspose.PSD](../../)
+* namespace [Aspose.PSD.ImageFilters.FilterOptions](../../aspose.psd.imagefilters.filteroptions/)
+* assembly [Aspose.PSD](../../)
 
 

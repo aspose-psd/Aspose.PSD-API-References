@@ -1,28 +1,29 @@
 ---
-title: TextShape.TextFormat
-second_title: Aspose.PSD untuk Referensi .NET API
-description: TextShape Properti. Mendapat atau menyetel format teks.
+title: "TextShape.TextFormat"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "TextShape properti. Mendapatkan atau mengatur format teks"
 type: docs
 weight: 80
 url: /id/net/aspose.psd.shapes/textshape/textformat/
 ---
+{{< psd/tize >}}
 ## TextShape.TextFormat property
 
-Mendapat atau menyetel format teks.
+Mendapatkan atau mengatur format teks.
 
 ```csharp
 public StringFormat TextFormat { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
 Format teks.
 
-### Lihat juga
+### Lihat Juga
 
 * class [StringFormat](../../../aspose.psd/stringformat/)
 * class [TextShape](../)
-* ruang nama [Aspose.PSD.Shapes](../../textshape/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: Cache.AllocatedDiskBytesCount
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Cache Properti. Mendapat jumlah byte disk yang dialokasikan.
+title: "Cache.AllocatedDiskBytesCount"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti Cache. Mendapatkan jumlah byte disk yang dialokasikan"
 type: docs
 weight: 10
 url: /id/net/aspose.psd/cache/allocateddiskbytescount/
 ---
+{{< psd/tize >}}
 ## Cache.AllocatedDiskBytesCount property
 
-Mendapat jumlah byte disk yang dialokasikan.
+Mendapatkan jumlah byte disk yang dialokasikan.
 
 ```csharp
 public static long AllocatedDiskBytesCount { get; }
 ```
 
-### Nilai properti
+### Property Value
 
 Jumlah byte disk yang dialokasikan.
 
-### Lihat juga
+### Lihat Juga
 
 * class [Cache](../)
-* ruang nama [Aspose.PSD](../../cache/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

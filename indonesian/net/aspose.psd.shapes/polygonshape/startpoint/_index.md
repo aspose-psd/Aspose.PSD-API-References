@@ -1,28 +1,29 @@
 ---
-title: PolygonShape.StartPoint
-second_title: Aspose.PSD untuk Referensi .NET API
-description: PolygonShape Properti. Mendapatkan titik bentuk awal.
+title: "PolygonShape.StartPoint"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "PolygonShape property. Mengambil titik awal bentuk"
 type: docs
 weight: 90
 url: /id/net/aspose.psd.shapes/polygonshape/startpoint/
 ---
+{{< psd/tize >}}
 ## PolygonShape.StartPoint property
 
-Mendapatkan titik bentuk awal.
+Mendapatkan titik awal bentuk.
 
 ```csharp
 public virtual PointF StartPoint { get; }
 ```
 
-### Nilai properti
+### Property Value
 
-Titik bentuk awal.
+Titik awal bentuk.
 
-### Lihat juga
+### Lihat Juga
 
 * struct [PointF](../../../aspose.psd/pointf/)
 * class [PolygonShape](../)
-* ruang nama [Aspose.PSD.Shapes](../../polygonshape/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 

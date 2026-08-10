@@ -1,14 +1,15 @@
 ---
-title: Interface IColorFillSettings
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Aspose.PSD.FileFormats.Psd.Layers.FillSettings.IColorFillSettings antarmuka. Antarmuka dasar untuk pengaturan isian
+title: "Antarmuka IColorFillSettings"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Antarmuka Aspose.PSD.FileFormats.Psd.Layers.FillSettings.IColorFillSettings. Antarmuka dasar untuk pengaturan isi"
 type: docs
-weight: 1990
+weight: 2110
 url: /id/net/aspose.psd.fileformats.psd.layers.fillsettings/icolorfillsettings/
 ---
+{{< psd/tize >}}
 ## IColorFillSettings interface
 
-Antarmuka dasar untuk pengaturan isian
+Antarmuka dasar untuk pengaturan isi
 
 ```csharp
 public interface IColorFillSettings : IFillSettings
@@ -16,14 +17,14 @@ public interface IColorFillSettings : IFillSettings
 
 ## Properti
 
-| Nama | Keterangan |
+| Nama | Deskripsi |
 | --- | --- |
-| [Color](../../aspose.psd.fileformats.psd.layers.fillsettings/icolorfillsettings/color/) { get; set; } | Mendapat atau mengatur warna. |
+| [Color](../../aspose.psd.fileformats.psd.layers.fillsettings/icolorfillsettings/color/) { get; set; } | Mendapatkan atau mengatur warna. |
 
-### Lihat juga
+### Lihat Juga
 
 * interface [IFillSettings](../ifillsettings/)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../aspose.psd.fileformats.psd.layers.fillsettings/)
-* perakitan [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../)
 
 

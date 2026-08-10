@@ -1,14 +1,15 @@
 ---
-title: Class Lnk3Resource
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.Lnk3Resource kelas. Menentukan kelas yang berisi informasi tentang file tersemat dalam format PSD 32 bit per gambar saluran. Sumber tautan mungkin berisi beberapaLiFdDataSource contoh yang dapat diakses oleh pengindeks.
+title: "Kelas Lnk3Resource"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Kelas Aspose.PSD.FileFormats.Psd.Layers.LayerResources.Lnk3Resource. Mendefinisikan kelas yang berisi informasi tentang file tersemat dalam format PSD gambar 32 bit per kanal. Sumber daya tautan dapat berisi beberapa instance LiFdDataSource yang dapat diakses melalui indeks"
 type: docs
-weight: 2730
+weight: 3040
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources/lnk3resource/
 ---
+{{< psd/tize >}}
 ## Lnk3Resource class
 
-Menentukan kelas yang berisi informasi tentang file tersemat dalam format PSD 32 bit per gambar saluran. Sumber tautan mungkin berisi beberapa[`LiFdDataSource`](../lifddatasource/) contoh yang dapat diakses oleh pengindeks.
+Mendefinisikan kelas yang berisi informasi tentang file tersemat dalam format PSD gambar 32 bit per kanal. Sumber daya tautan dapat berisi beberapa instance [`LiFdDataSource`](../lifddatasource/) yang dapat diakses melalui indeks.
 
 ```csharp
 public class Lnk3Resource : Lnk2Resource
@@ -16,38 +17,38 @@ public class Lnk3Resource : Lnk2Resource
 
 ## Konstruktor
 
-| Nama | Keterangan |
+| Nama | Deskripsi |
 | --- | --- |
-| [Lnk3Resource](lnk3resource/)() | Menginisialisasi instance baru dari`Lnk3Resource` kelas. |
+| [Lnk3Resource](lnk3resource/)() | Menginisialisasi instance baru dari kelas `Lnk3Resource`. |
 
 ## Properti
 
-| Nama | Keterangan |
+| Nama | Deskripsi |
 | --- | --- |
-| [DataSourceCount](../../aspose.psd.fileformats.psd.layers.layerresources/linkresource/datasourcecount/) { get; } | Mendapat jumlah sumber data tautan yang dapat diakses oleh pengindeks. |
-| [IsEmpty](../../aspose.psd.fileformats.psd.layers.layerresources/linkresource/isempty/) { get; } | Mendapat nilai yang menunjukkan apakah instance sumber daya tautan ini kosong. |
-| [Item](../../aspose.psd.fileformats.psd.layers.layerresources/lnk2resource/item/) { get; } | Mendapatkan[`LiFdDataSource`](../lifddatasource/) pada indeks yang ditentukan. (2 indexers) |
-| override [Key](../../aspose.psd.fileformats.psd.layers.layerresources/lnk3resource/key/) { get; } | Mendapat kunci sumber daya lapisan. |
-| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/linkresource/length/) { get; } | Mendapatkan panjang sumber daya tautan global PSD dalam satuan byte. |
-| override [PsdVersion](../../aspose.psd.fileformats.psd.layers.layerresources/linkresource/psdversion/) { get; } | Mendapatkan versi format PSD. |
-| override [Signature](../../aspose.psd.fileformats.psd.layers.layerresources/linkresource/signature/) { get; } | Mendapatkan tanda tangan sumber daya tautan global PSD. |
+| [DataSourceCount](../../aspose.psd.fileformats.psd.layers.layerresources/linkresource/datasourcecount/) { get; } | Mendapatkan jumlah sumber data tautan yang dapat diakses melalui indeks. |
+| [IsEmpty](../../aspose.psd.fileformats.psd.layers.layerresources/linkresource/isempty/) { get; } | Mendapatkan nilai yang menunjukkan apakah instance sumber daya tautan ini kosong. |
+| [Item](../../aspose.psd.fileformats.psd.layers.layerresources/lnk2resource/item/) { get; } | Mendapatkan [`LiFdDataSource`](../lifddatasource/) pada indeks yang ditentukan. (2 indeks) |
+| [Key](../../aspose.psd.fileformats.psd.layers/layerresource/key/) { get; } | Mendapatkan kunci sumber daya lapisan. |
+| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/linkresource/length/) { get; } | Mendapatkan panjang sumber daya tautan global PSD dalam byte. |
+| virtual [PsdVersion](../../aspose.psd.fileformats.psd.layers/layerresource/psdversion/) { get; } | Mendapatkan versi psd minimal yang diperlukan untuk sumber daya lapisan. 0 menunjukkan tidak ada batasan. |
+| virtual [Signature](../../aspose.psd.fileformats.psd.layers/layerresource/signature/) { get; } | Mendapatkan tanda tangan. |
 
 ## Metode
 
-| Nama | Keterangan |
+| Nama | Deskripsi |
 | --- | --- |
 | override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/linkresource/save/)(StreamContainer, int) | Menyimpan data blok sumber daya. |
-| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring/)() | Mengembalikan aString yang mewakili instance ini. |
+| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring/)() | Mengembalikan String yang mewakili instance ini. |
 
 ## Bidang
 
-| Nama | Keterangan |
+| Nama | Deskripsi |
 | --- | --- |
-| const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/lnk3resource/typetoolkey/) | Kunci info alat ketik. |
+| const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/lnk3resource/typetoolkey/) | Kunci info alat tipe. |
 
-### Contoh
+## Contoh
 
-Contoh ini menunjukkan cara mendapatkan dan mengatur properti dari Lnk2Resource dan Lnk3Resource.
+Contoh ini menunjukkan cara mendapatkan dan mengatur properti Lnk2Resource dan Lnk3Resource.
 
 ```csharp
 [C#]
@@ -62,90 +63,90 @@ void AssertAreEqual(object expected, object actual)
 
 object[] Lnk2ResourceSupportCases = new object[]
 {
-new object[]
-{
-    "00af34a0-a90b-674d-a821-73ee508c5479",
-    "rgb8_2x2.png",
-    "png",
-    string.Empty,
-    0x53,
-    0d,
-    string.Empty,
-    7,
-    true,
-    0x124L,
-    0x74cL
-}
+    new object[]
+    {
+        "00af34a0-a90b-674d-a821-73ee508c5479",
+        "rgb8_2x2.png",
+        "png",
+        string.Empty,
+        0x53,
+        0d,
+        string.Empty,
+        7,
+        true,
+        0x124L,
+        0x74cL
+    }
 };
 
 object[] LayeredLnk2ResourceSupportCases = new object[]
 {
-new object[]
-{
-    "69ac1c0d-1b74-fd49-9c7e-34a7aa6299ef",
-    "huset.jpg",
-    "JPEG",
-    string.Empty,
-    0x9d46,
-    0d,
-    "xmp.did:0F94B342065B11E395B1FD506DED6B07",
-    7,
-    true,
-    0x9E60L,
-    0xc60cL
-},
-new object[]
-{
-    "5a7d1965-0eae-b24e-a82f-98c7646424c2",
-    "panama-papers.jpg",
-    "JPEG",
-    string.Empty,
-    0xF56B,
-    0d,
-    "xmp.did:BDE940CBF51B11E59D759CDA690663E3",
-    7,
-    true,
-    0xF694L,
-    0x10dd4L
-},
+    new object[]
+    {
+        "69ac1c0d-1b74-fd49-9c7e-34a7aa6299ef",
+        "huset.jpg",
+        "JPEG",
+        string.Empty,
+        0x9d46,
+        0d,
+        "xmp.did:0F94B342065B11E395B1FD506DED6B07",
+        7,
+        true,
+        0x9E60L,
+        0xc60cL
+    },
+    new object[]
+    {
+        "5a7d1965-0eae-b24e-a82f-98c7646424c2",
+        "panama-papers.jpg",
+        "JPEG",
+        string.Empty,
+        0xF56B,
+        0d,
+        "xmp.did:BDE940CBF51B11E59D759CDA690663E3",
+        7,
+        true,
+        0xF694L,
+        0x10dd4L
+    },
 };
 
 object[] LayeredLnk3ResourceSupportCases = new object[]
 {
-new object[]
-{
-    "2fd7ba52-0221-de4c-bdc4-1210580c6caa",
-    "panama-papers.jpg",
-    "JPEG",
-    string.Empty,
-    0xF56B,
-    0d,
-    "xmp.did:BDE940CBF51B11E59D759CDA690663E3",
-    7,
-    true,
-    0xF694l,
-    0x10dd4L
-},
-new object[]
-{
-    "372d52eb-5825-8743-81a7-b6f32d51323d",
-    "huset.jpg",
-    "JPEG",
-    string.Empty,
-    0x9d46,
-    0d,
-    "xmp.did:0F94B342065B11E395B1FD506DED6B07",
-    7,
-    true,
-    0x9E60L,
-    0xc60cL
-},
+    new object[]
+    {
+        "2fd7ba52-0221-de4c-bdc4-1210580c6caa",
+        "panama-papers.jpg",
+        "JPEG",
+        string.Empty,
+        0xF56B,
+        0d,
+        "xmp.did:BDE940CBF51B11E59D759CDA690663E3",
+        7,
+        true,
+        0xF694l,
+        0x10dd4L
+    },
+    new object[]
+    {
+        "372d52eb-5825-8743-81a7-b6f32d51323d",
+        "huset.jpg",
+        "JPEG",
+        string.Empty,
+        0x9d46,
+        0d,
+        "xmp.did:0F94B342065B11E395B1FD506DED6B07",
+        7,
+        true,
+        0x9E60L,
+        0xc60cL
+    },
 };
 
 var basePath = "" + Path.DirectorySeparatorChar;
 string Output = "output" + Path.DirectorySeparatorChar;
 
-// Menyimpan data smart object di file PSD ke file.
+// Menyimpan data objek pintar dalam file PSD ke sebuah file.
 void SaveSmartObjectData(string prefix, string fileName, byte[] data)
 {
     var filePath = basePath + prefix + "_" + fileName;
@@ -156,7 +157,7 @@ void SaveSmartObjectData(string prefix, string fileName, byte[] data)
     }
 }
 
-// Memuat data baru untuk smart object di file PSD.
+// Memuat data baru untuk objek pintar dalam file PSD.
 byte[] LoadNewData(string fileName)
 {
     using (var container = FileStreamContainer.OpenFileStream(basePath + fileName))
@@ -165,7 +166,7 @@ byte[] LoadNewData(string fileName)
     }
 }
 
-// Mendapatkan dan menyetel properti Sumber Daya PSD Lnk2 / Lnk3 dan sumber data liFD-nya dalam gambar PSD
+// Mendapatkan dan mengatur properti PSD Lnk2 / Lnk3 Resource serta sumber data liFD-nya dalam gambar PSD
 void ExampleOfLnk2ResourceSupport(
     string fileName,
     int dataSourceCount,
@@ -227,29 +228,29 @@ void ExampleOfLnk2ResourceSupport(
         }
 
         AssertAreEqual(true, lnk2Resource != null);
-        if (image.BitsPerChannel < 32) // Penyimpanan 32 bit per saluran belum didukung
+        if (image.BitsPerChannel < 32) // 32 bit per channel saving is not supported yet
         {
             image.Save(basePath + Output + fileName, new PsdOptions(image));
         }
     }
 }
 
-// Contoh ini mendemonstrasikan cara mendapatkan dan menyetel properti Sumber Daya PSD Lnk2 dan sumber data liFD-nya untuk 8 bit per saluran.
+// Contoh ini menunjukkan cara mendapatkan dan mengatur properti PSD Lnk2 Resource dan sumber data liFD-nya untuk 8 bit per kanal.
 ExampleOfLnk2ResourceSupport("rgb8_2x2_embedded_png.psd", 1, 0x12C, 0x0000079c, Lnk2ResourceSupportCases);
 
-// Contoh ini mendemonstrasikan cara mendapatkan dan menyetel properti Sumber Daya PSD Lnk3 dan sumber data liFD-nya untuk 32 bit per saluran.
+// Contoh ini menunjukkan cara mendapatkan dan mengatur properti PSD Lnk3 Resource dan sumber data liFD-nya untuk 32 bit per kanal.
 ExampleOfLnk2ResourceSupport("Layered PSD file smart objects.psd", 2, 0x19504, 0x0001d3e0, LayeredLnk3ResourceSupportCases);
 
-// Contoh ini mendemonstrasikan cara mendapatkan dan menyetel properti Sumber Daya PSD Lnk2 dan sumber data liFD-nya untuk 16 bit per saluran.
+// Contoh ini menunjukkan cara mendapatkan dan mengatur properti PSD Lnk2 Resource dan sumber data liFD-nya untuk 16 bit per kanal.
 ExampleOfLnk2ResourceSupport("LayeredSmartObjects16bit.psd", 2, 0x19504, 0x0001d3e0, LayeredLnk2ResourceSupportCases);
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [LayerResource](../../aspose.psd.fileformats.psd.layers/layerresource/)
 * class [LinkResource](../linkresource/)
 * class [Lnk2Resource](../lnk2resource/)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
-* perakitan [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../)
 
 

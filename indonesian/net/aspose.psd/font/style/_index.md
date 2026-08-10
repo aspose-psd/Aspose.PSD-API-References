@@ -1,28 +1,29 @@
 ---
-title: Font.Style
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Font Properti. Mendapat informasi gaya untuk iniFont .
+title: "Font.Style"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti Font. Mendapatkan informasi gaya untuk Font ini"
 type: docs
 weight: 80
 url: /id/net/aspose.psd/font/style/
 ---
+{{< psd/tize >}}
 ## Font.Style property
 
-Mendapat informasi gaya untuk ini[`Font`](../) .
+Mendapatkan informasi gaya untuk [`Font`](../) ini.
 
 ```csharp
 public FontStyle Style { get; }
 ```
 
-### Nilai properti
+### Property Value
 
-A[`FontStyle`](../../fontstyle/) pencacahan yang berisi informasi gaya untuk ini[`Font`](../).
+Enum [`FontStyle`](../../fontstyle/) yang berisi informasi gaya untuk [`Font`](../) ini.
 
-### Lihat juga
+### Lihat Juga
 
 * enum [FontStyle](../../fontstyle/)
 * class [Font](../)
-* ruang nama [Aspose.PSD](../../font/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

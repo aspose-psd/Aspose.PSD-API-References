@@ -1,27 +1,28 @@
 ---
-title: ExpaResource.GammaCorrection
-second_title: Aspose.PSD untuk Referensi .NET API
-description: ExpaResource Properti. Mendapat atau menyetel gamma.
+title: "ExpaResource.GammaCorrection"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti ExpaResource. Mendapatkan atau mengatur gamma"
 type: docs
 weight: 30
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources/exparesource/gammacorrection/
 ---
+{{< psd/tize >}}
 ## ExpaResource.GammaCorrection property
 
-Mendapat atau menyetel gamma.
+Mendapatkan atau mengatur gamma.
 
 ```csharp
 public float GammaCorrection { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
 Gamma.
 
-### Lihat juga
+### Lihat Juga
 
 * class [ExpaResource](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../exparesource/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: Matrix.GetElements
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Matrix metode. Mendapat salinan elemen matriks.
+title: "Matrix.GetElements"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode Matrix. Mendapatkan salinan elemen matriks"
 type: docs
 weight: 100
 url: /id/net/aspose.psd/matrix/getelements/
 ---
+{{< psd/tize >}}
 ## Matrix.GetElements method
 
-Mendapat salinan elemen matriks.
+Mendapatkan salinan elemen-elemen matriks.
 
 ```csharp
 public float[] GetElements()
 ```
 
-### Nilai Pengembalian
+### Nilai Kembalian
 
-Salinan elemen matriks.
+Sebuah salinan elemen matriks.
 
-### Lihat juga
+### Lihat Juga
 
 * class [Matrix](../)
-* ruang nama [Aspose.PSD](../../matrix/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

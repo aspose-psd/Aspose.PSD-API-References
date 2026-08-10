@@ -1,27 +1,28 @@
 ---
-title: Size.GetHashCode
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Size metode. Mengembalikan kode hash untuk iniSizestruktur.
+title: "Size.GetHashCode"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode Size. Mengembalikan kode hash untuk struktur Size ini."
 type: docs
 weight: 120
 url: /id/net/aspose.psd/size/gethashcode/
 ---
+{{< psd/tize >}}
 ## Size.GetHashCode method
 
-Mengembalikan kode hash untuk ini[`Size`](../)struktur.
+Mengembalikan kode hash untuk struktur [`Size`](../) ini.
 
 ```csharp
 public override int GetHashCode()
 ```
 
-### Nilai Pengembalian
+### Nilai Kembalian
 
-Nilai integer yang menentukan nilai hash untuk ini[`Size`](../) struktur.
+Nilai integer yang menentukan nilai hash untuk struktur [`Size`](../) ini.
 
-### Lihat juga
+### Lihat Juga
 
 * struct [Size](../)
-* ruang nama [Aspose.PSD](../../size/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

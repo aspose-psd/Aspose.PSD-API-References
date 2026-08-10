@@ -1,11 +1,12 @@
 ---
-title: Image.Resize
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Image metode. Mengubah ukuran gambar.
+title: "Image.Resize"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode Image. Mengubah ukuran gambar"
 type: docs
-weight: 190
+weight: 200
 url: /id/net/aspose.psd/image/resize/
 ---
+{{< psd/tize >}}
 ## Resize(int, int, ResizeType) {#resize_2}
 
 Mengubah ukuran gambar.
@@ -14,37 +15,37 @@ Mengubah ukuran gambar.
 public abstract void Resize(int newWidth, int newHeight, ResizeType resizeType)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
 | newWidth | Int32 | Lebar baru. |
 | newHeight | Int32 | Tinggi baru. |
 | resizeType | ResizeType | Jenis pengubahan ukuran. |
 
-### Lihat juga
+### Lihat Juga
 
 * enum [ResizeType](../../resizetype/)
 * class [Image](../)
-* ruang nama [Aspose.PSD](../../image/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Resize(int, int) {#resize}
 
-Mengubah ukuran gambar. DefaultLeftTopToLeftTopdigunakan.
+Mengubah ukuran gambar. NearestNeighbourResample default digunakan.
 
 ```csharp
 public void Resize(int newWidth, int newHeight)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
 | newWidth | Int32 | Lebar baru. |
 | newHeight | Int32 | Tinggi baru. |
 
-### Contoh
+## Contoh
 
-Contoh berikut menunjukkan bagaimana mengubah ukuran gambar PSD dan hasil yang kita dapatkan dengan Aspose.PSD
+Contoh berikut menunjukkan cara mengubah ukuran gambar PSD dan hasil yang kita dapatkan dengan Aspose.PSD
 
 ```csharp
 [C#]
@@ -53,7 +54,7 @@ string sourceFileName = "1.psd";
 string exportPathPsd = "ResizeTest.psd";
 string exportPathPng = "ResizeTest.png";
 
-using (RasterImage image = Image.Load(sourceFileName) as RasterImage)
+using (RasterImage image = Image.Load(sourceFileName, new PsdLoadOptions() { LoadEffectsResource = true }) as RasterImage)
 {
     image.Resize(190, 143);
     image.Save(exportPathPsd, new PsdOptions());
@@ -61,11 +62,11 @@ using (RasterImage image = Image.Load(sourceFileName) as RasterImage)
 }
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [Image](../)
-* ruang nama [Aspose.PSD](../../image/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
@@ -77,17 +78,17 @@ Mengubah ukuran gambar.
 public abstract void Resize(int newWidth, int newHeight, ImageResizeSettings settings)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
 | newWidth | Int32 | Lebar baru. |
-| newHeight | Int32 | Ketinggian baru. |
-| settings | ImageResizeSettings | Pengaturan pengubahan ukuran. |
+| newHeight | Int32 | Tinggi baru. |
+| pengaturan | ImageResizeSettings | Pengaturan pengubahan ukuran. |
 
-### Lihat juga
+### Lihat Juga
 
 * class [ImageResizeSettings](../../imageresizesettings/)
 * class [Image](../)
-* ruang nama [Aspose.PSD](../../image/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

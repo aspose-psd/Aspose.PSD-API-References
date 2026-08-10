@@ -1,11 +1,12 @@
 ---
-title: UnitStructure.StructureKey
-second_title: Aspose.PSD untuk Referensi .NET API
-description: UnitStructure bidang. Mengidentifikasi kunci struktur.
+title: "UnitStructure.StructureKey"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Field UnitStructure. Mengidentifikasi kunci struktur"
 type: docs
 weight: 60
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/unitstructure/structurekey/
 ---
+{{< psd/tize >}}
 ## UnitStructure.StructureKey field
 
 Mengidentifikasi kunci struktur.
@@ -14,10 +15,10 @@ Mengidentifikasi kunci struktur.
 public const int StructureKey;
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [UnitStructure](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../unitstructure/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 

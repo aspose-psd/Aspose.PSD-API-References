@@ -1,27 +1,28 @@
 ---
-title: GaussWienerFilterOptions.Smooth
-second_title: Aspose.PSD untuk Referensi .NET API
-description: GaussWienerFilterOptions Properti. Mendapat atau mengatur kelancaran.
+title: "GaussWienerFilterOptions.Smooth"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti GaussWienerFilterOptions. Mendapatkan atau mengatur nilai smooth"
 type: docs
 weight: 30
 url: /id/net/aspose.psd.imagefilters.filteroptions/gausswienerfilteroptions/smooth/
 ---
+{{< psd/tize >}}
 ## GaussWienerFilterOptions.Smooth property
 
-Mendapat atau mengatur kelancaran.
+Mendapatkan atau mengatur nilai smooth.
 
 ```csharp
 public double Smooth { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
-mulus.
+Kelancaran.
 
-### Lihat juga
+### Lihat Juga
 
 * class [GaussWienerFilterOptions](../)
-* ruang nama [Aspose.PSD.ImageFilters.FilterOptions](../../gausswienerfilteroptions/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageFilters.FilterOptions](../../../aspose.psd.imagefilters.filteroptions/)
+* assembly [Aspose.PSD](../../../)
 
 

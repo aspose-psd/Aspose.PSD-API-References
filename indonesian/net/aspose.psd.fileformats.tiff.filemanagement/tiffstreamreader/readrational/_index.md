@@ -1,32 +1,33 @@
 ---
-title: TiffStreamReader.ReadRational
-second_title: Aspose.PSD untuk Referensi .NET API
-description: TiffStreamReader metode. Baca satu nilai bilangan rasional dari aliran.
+title: "TiffStreamReader.ReadRational"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode TiffStreamReader. Membaca satu nilai angka rasional dari aliran."
 type: docs
 weight: 90
 url: /id/net/aspose.psd.fileformats.tiff.filemanagement/tiffstreamreader/readrational/
 ---
+{{< psd/tize >}}
 ## TiffStreamReader.ReadRational method
 
-Baca satu nilai bilangan rasional dari aliran.
+Membaca satu nilai bilangan rasional dari aliran.
 
 ```csharp
 public TiffRational ReadRational(long position)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| position | Int64 | Posisi untuk membaca dari. |
+| posisi | Int64 | Posisi untuk membaca dari. |
 
-### Nilai Pengembalian
+### Nilai Kembalian
 
-bilangan rasional.
+Angka rasional.
 
-### Lihat juga
+### Lihat Juga
 
 * class [TiffRational](../../../aspose.psd.fileformats.tiff/tiffrational/)
 * class [TiffStreamReader](../)
-* ruang nama [Aspose.PSD.FileFormats.Tiff.FileManagement](../../tiffstreamreader/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff.FileManagement](../../../aspose.psd.fileformats.tiff.filemanagement/)
+* assembly [Aspose.PSD](../../../)
 
 

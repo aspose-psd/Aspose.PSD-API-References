@@ -1,14 +1,15 @@
 ---
-title: Class XmpPackageBaseCollection
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Aspose.PSD.Xmp.XmpPackageBaseCollection kelas. Merupakan kumpulan dariXmpPackage .
+title: "Kelas XmpPackageBaseCollection"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Kelas Aspose.PSD.Xmp.XmpPackageBaseCollection. Mewakili koleksi XmpPackage"
 type: docs
-weight: 6280
+weight: 6780
 url: /id/net/aspose.psd.xmp/xmppackagebasecollection/
 ---
+{{< psd/tize >}}
 ## XmpPackageBaseCollection class
 
-Merupakan kumpulan dari[`XmpPackage`](../xmppackage/) .
+Mewakili koleksi [`XmpPackage`](../xmppackage/).
 
 ```csharp
 public sealed class XmpPackageBaseCollection : IEnumerable<XmpPackage>
@@ -16,31 +17,31 @@ public sealed class XmpPackageBaseCollection : IEnumerable<XmpPackage>
 
 ## Konstruktor
 
-| Nama | Keterangan |
+| Nama | Deskripsi |
 | --- | --- |
 | [XmpPackageBaseCollection](xmppackagebasecollection/)() | Konstruktor default. |
 
 ## Properti
 
-| Nama | Keterangan |
+| Nama | Deskripsi |
 | --- | --- |
-| [Count](../../aspose.psd.xmp/xmppackagebasecollection/count/) { get; } | Mendapat jumlah elemen dalam koleksi. |
+| [Count](../../aspose.psd.xmp/xmppackagebasecollection/count/) { get; } | Mendapatkan jumlah elemen dalam koleksi. |
 
 ## Metode
 
-| Nama | Keterangan |
+| Nama | Deskripsi |
 | --- | --- |
-| [Add](../../aspose.psd.xmp/xmppackagebasecollection/add/)(XmpPackage) | Menambahkan instance baru[`XmpPackage`](../xmppackage/) . |
-| [Clear](../../aspose.psd.xmp/xmppackagebasecollection/clear/)() | Hapus semua[`XmpPackage`](../xmppackage/) di dalam koleksi. |
-| [GetEnumerator](../../aspose.psd.xmp/xmppackagebasecollection/getenumerator/)() | Mengembalikan pencacah yang mengulang melalui koleksi. |
-| [GetPackage](../../aspose.psd.xmp/xmppackagebasecollection/getpackage/)(string) | Mendapat[`XmpPackage`](../xmppackage/) dengan itu namespaceURI. |
-| [GetPackages](../../aspose.psd.xmp/xmppackagebasecollection/getpackages/)() | Dapatkan berbagai[`XmpPackage`](../xmppackage/) . |
+| [Add](../../aspose.psd.xmp/xmppackagebasecollection/add/)(XmpPackage) | Menambahkan instance baru dari [`XmpPackage`](../xmppackage/). |
+| [Clear](../../aspose.psd.xmp/xmppackagebasecollection/clear/)() | Menghapus semua [`XmpPackage`](../xmppackage/) di dalam koleksi. |
+| [GetEnumerator](../../aspose.psd.xmp/xmppackagebasecollection/getenumerator/)() | Mengembalikan enumerator yang mengiterasi melalui koleksi. |
+| [GetPackage](../../aspose.psd.xmp/xmppackagebasecollection/getpackage/)(string) | Mendapatkan [`XmpPackage`](../xmppackage/) berdasarkan namespaceURI-nya. |
+| [GetPackages](../../aspose.psd.xmp/xmppackagebasecollection/getpackages/)() | Mendapatkan array [`XmpPackage`](../xmppackage/). |
 | [Remove](../../aspose.psd.xmp/xmppackagebasecollection/remove/)(XmpPackage) | Menghapus paket XMP yang ditentukan. |
 
-### Lihat juga
+### Lihat Juga
 
 * class [XmpPackage](../xmppackage/)
-* ruang nama [Aspose.PSD.Xmp](../../aspose.psd.xmp/)
-* perakitan [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Xmp](../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../)
 
 

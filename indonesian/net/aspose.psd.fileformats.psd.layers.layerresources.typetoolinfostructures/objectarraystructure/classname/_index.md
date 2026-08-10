@@ -1,27 +1,28 @@
 ---
-title: ObjectArrayStructure.ClassName
-second_title: Aspose.PSD untuk Referensi .NET API
-description: ObjectArrayStructure Properti. Mendapat atau menetapkan nama kelas array objek.
+title: "ObjectArrayStructure.ClassName"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "ObjectArrayStructure properti. Mendapatkan atau mengatur nama kelas array objek"
 type: docs
 weight: 30
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/objectarraystructure/classname/
 ---
+{{< psd/tize >}}
 ## ObjectArrayStructure.ClassName property
 
-Mendapat atau menetapkan nama kelas array objek.
+Mendapatkan atau mengatur nama kelas array objek.
 
 ```csharp
 public string ClassName { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
-Nama kelas larik objek.
+Nama kelas array objek.
 
-### Lihat juga
+### Lihat Juga
 
 * class [ObjectArrayStructure](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../objectarraystructure/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 

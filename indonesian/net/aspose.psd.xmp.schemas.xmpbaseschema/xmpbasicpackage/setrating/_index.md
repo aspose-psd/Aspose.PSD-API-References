@@ -1,27 +1,28 @@
 ---
-title: XmpBasicPackage.SetRating
-second_title: Aspose.PSD untuk Referensi .NET API
-description: XmpBasicPackage metode. Tetapkan peringkat.
+title: "XmpBasicPackage.SetRating"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode XmpBasicPackage. Mengatur rating"
 type: docs
-weight: 90
+weight: 110
 url: /id/net/aspose.psd.xmp.schemas.xmpbaseschema/xmpbasicpackage/setrating/
 ---
+{{< psd/tize >}}
 ## XmpBasicPackage.SetRating method
 
-Tetapkan peringkat.
+Mengatur rating.
 
 ```csharp
 public void SetRating(int choise)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| choise | Int32 | Dari -1 hingga 5 |
+| pilihan | Int32 | Dari -1 hingga 5 |
 
-### Lihat juga
+### Lihat Juga
 
 * class [XmpBasicPackage](../)
-* ruang nama [Aspose.PSD.Xmp.Schemas.XmpBaseSchema](../../xmpbasicpackage/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpBaseSchema](../../../aspose.psd.xmp.schemas.xmpbaseschema/)
+* assembly [Aspose.PSD](../../../)
 
 

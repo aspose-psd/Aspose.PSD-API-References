@@ -1,24 +1,25 @@
 ---
-title: ITextStyle.FontCaps
-second_title: Aspose.PSD untuk Referensi .NET API
-description: ITextStyle Properti. Tutup font.
+title: "ITextStyle.FontCaps"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti ITextStyle. Kapital font"
 type: docs
 weight: 100
 url: /id/net/aspose.psd.fileformats.psd.layers.text/itextstyle/fontcaps/
 ---
+{{< psd/tize >}}
 ## ITextStyle.FontCaps property
 
-Tutup font.
+Kapital font.
 
 ```csharp
 public FontCaps FontCaps { get; set; }
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * enum [FontCaps](../../../aspose.psd.fileformats.psd/fontcaps/)
 * interface [ITextStyle](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.Text](../../itextstyle/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.Text](../../../aspose.psd.fileformats.psd.layers.text/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,43 +1,44 @@
 ---
-title: XmpHeaderPi.XmpHeaderPi
-second_title: Aspose.PSD untuk Referensi .NET API
-description: XmpHeaderPi konstruktor. Menginisialisasi instance baru dariXmpHeaderPi kelas.
+title: "XmpHeaderPi.XmpHeaderPi"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Konstruktor XmpHeaderPi. Menginisialisasi sebuah instance baru dari kelas XmpHeaderPi"
 type: docs
 weight: 10
 url: /id/net/aspose.psd.xmp/xmpheaderpi/xmpheaderpi/
 ---
+{{< psd/tize >}}
 ## XmpHeaderPi() {#constructor}
 
-Menginisialisasi instance baru dari[`XmpHeaderPi`](../) kelas.
+Menginisialisasi sebuah instance baru dari kelas [`XmpHeaderPi`](../).
 
 ```csharp
 public XmpHeaderPi()
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [XmpHeaderPi](../)
-* ruang nama [Aspose.PSD.Xmp](../../xmpheaderpi/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## XmpHeaderPi(string) {#constructor_1}
 
-Menginisialisasi instance baru dari[`XmpHeaderPi`](../) kelas.
+Menginisialisasi sebuah instance baru dari kelas [`XmpHeaderPi`](../).
 
 ```csharp
 public XmpHeaderPi(string guid)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
 | guid | String | Pengidentifikasi unik. |
 
-### Lihat juga
+### Lihat Juga
 
 * class [XmpHeaderPi](../)
-* ruang nama [Aspose.PSD.Xmp](../../xmpheaderpi/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

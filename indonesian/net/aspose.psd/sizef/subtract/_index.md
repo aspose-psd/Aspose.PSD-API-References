@@ -1,32 +1,33 @@
 ---
-title: SizeF.Subtract
-second_title: Aspose.PSD untuk Referensi .NET API
-description: SizeF metode. Mengurangi lebar dan tinggi satuSizeF struktur dari lebar dan tinggi yang lainSizeFstruktur.
+title: "SizeF.Subtract"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode SizeF. Mengurangi lebar dan tinggi satu struktur SizeF dari lebar dan tinggi struktur SizeF lainnya"
 type: docs
 weight: 40
 url: /id/net/aspose.psd/sizef/subtract/
 ---
+{{< psd/tize >}}
 ## SizeF.Subtract method
 
-Mengurangi lebar dan tinggi satu[`SizeF`](../) struktur dari lebar dan tinggi yang lain[`SizeF`](../)struktur.
+Mengurangi lebar dan tinggi satu struktur [`SizeF`](../) dari lebar dan tinggi struktur [`SizeF`](../) lainnya.
 
 ```csharp
 public static SizeF Subtract(SizeF size1, SizeF size2)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| size1 | SizeF | Itu[`SizeF`](../) struktur di sisi kiri operator pengurangan. |
-| size2 | SizeF | Itu[`SizeF`](../) struktur di sisi kanan operator pengurangan. |
+| size1 | SizeF | Struktur [`SizeF`](../) pada sisi kiri operator pengurangan. |
+| size2 | SizeF | Struktur [`SizeF`](../) pada sisi kanan operator pengurangan. |
 
-### Nilai Pengembalian
+### Nilai Kembalian
 
-Itu[`SizeF`](../)yang merupakan hasil dari operasi pengurangan.
+[`SizeF`](../) yang merupakan hasil operasi pengurangan.
 
-### Lihat juga
+### Lihat Juga
 
 * struct [SizeF](../)
-* ruang nama [Aspose.PSD](../../sizef/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

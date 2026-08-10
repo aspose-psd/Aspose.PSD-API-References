@@ -1,32 +1,33 @@
 ---
-title: UnitArrayStructure.UnitArrayStructure
-second_title: Aspose.PSD untuk Referensi .NET API
-description: UnitArrayStructure konstruktor. Menginisialisasi instance baru dariUnitArrayStructure kelas.
+title: "UnitArrayStructure.UnitArrayStructure"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "UnitArrayStructure konstruktor. Menginisialisasi instance baru dari kelas UnitArrayStructure"
 type: docs
 weight: 10
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/unitarraystructure/unitarraystructure/
 ---
+{{< psd/tize >}}
 ## UnitArrayStructure constructor
 
-Menginisialisasi instance baru dari[`UnitArrayStructure`](../) kelas.
+Menginisialisasi instance baru dari kelas [`UnitArrayStructure`](../).
 
 ```csharp
 public UnitArrayStructure(ClassID keyName, UnitTypes unitType, double[] values)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
 | keyName | ClassID | Nama kunci. |
-| unitType | UnitTypes | Jenis unit. |
-| values | Double[] | Nilai. |
+| unitType | UnitTypes | Tipe unit. |
+| values | Double[] | Nilai-nilai. |
 
 ### Pengecualian
 
 | pengecualian | kondisi |
 | --- | --- |
-| ArgumentNullException | nilai tidak boleh nol |
+| ArgumentNullException | nilai tidak boleh null |
 
-### Contoh
+## Contoh
 
 Kode berikut menunjukkan dukungan tanda tangan ObAr dan UnFl.
 
@@ -80,12 +81,12 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
 }
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [ClassID](../../../aspose.psd.fileformats.psd.layers.layerresources/classid/)
 * enum [UnitTypes](../../unittypes/)
 * class [UnitArrayStructure](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../unitarraystructure/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 

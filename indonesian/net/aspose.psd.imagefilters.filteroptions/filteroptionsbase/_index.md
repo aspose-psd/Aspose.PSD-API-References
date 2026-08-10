@@ -1,11 +1,12 @@
 ---
-title: Class FilterOptionsBase
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Aspose.PSD.ImageFilters.FilterOptions.FilterOptionsBase kelas. Basis Opsi Filter kelas abstrak
+title: "Kelas FilterOptionsBase"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Kelas Aspose.PSD.ImageFilters.FilterOptions.FilterOptionsBase. Kelas dasar abstrak Filter Options Base"
 type: docs
-weight: 4690
+weight: 5160
 url: /id/net/aspose.psd.imagefilters.filteroptions/filteroptionsbase/
 ---
+{{< psd/tize >}}
 ## FilterOptionsBase class
 
 Basis Opsi Filter, kelas abstrak
@@ -14,9 +15,9 @@ Basis Opsi Filter, kelas abstrak
 public abstract class FilterOptionsBase
 ```
 
-### Lihat juga
+### Lihat Juga
 
-* ruang nama [Aspose.PSD.ImageFilters.FilterOptions](../../aspose.psd.imagefilters.filteroptions/)
-* perakitan [Aspose.PSD](../../)
+* namespace [Aspose.PSD.ImageFilters.FilterOptions](../../aspose.psd.imagefilters.filteroptions/)
+* assembly [Aspose.PSD](../../)
 
 

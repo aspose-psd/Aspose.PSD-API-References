@@ -1,51 +1,52 @@
 ---
-title: Graphics.ScaleTransform
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Graphics metode. Menskalakan transformasi geometris lokal dengan jumlah yang ditentukan. Metode ini menambahkan matriks penskalaan ke transformasi.
+title: "Graphics.ScaleTransform"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode Graphics. Menskala transformasi geometris lokal dengan jumlah yang ditentukan. Metode ini menambahkan matriks skala ke depan transformasi."
 type: docs
-weight: 450
+weight: 460
 url: /id/net/aspose.psd/graphics/scaletransform/
 ---
+{{< psd/tize >}}
 ## ScaleTransform(float, float) {#scaletransform}
 
-Menskalakan transformasi geometris lokal dengan jumlah yang ditentukan. Metode ini menambahkan matriks penskalaan ke transformasi.
+Menskalakan transformasi geometris lokal dengan nilai yang ditentukan. Metode ini menambahkan matriks skala ke transformasi di depan.
 
 ```csharp
 public void ScaleTransform(float sx, float sy)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| sx | Single | Jumlah yang digunakan untuk menskalakan transformasi dalam arah sumbu x. |
-| sy | Single | Jumlah yang digunakan untuk menskalakan transformasi dalam arah sumbu y. |
+| sx | Single | Jumlah yang digunakan untuk menskalakan transformasi pada arah sumbu x. |
+| sy | Single | Jumlah yang digunakan untuk menskalakan transformasi pada arah sumbu y. |
 
-### Lihat juga
+### Lihat Juga
 
 * class [Graphics](../)
-* ruang nama [Aspose.PSD](../../graphics/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## ScaleTransform(float, float, MatrixOrder) {#scaletransform_1}
 
-Menskalakan transformasi geometris lokal dengan jumlah yang ditentukan dalam urutan yang ditentukan.
+Menskalakan transformasi geometris lokal dengan nilai yang ditentukan dalam urutan yang ditentukan.
 
 ```csharp
 public void ScaleTransform(float sx, float sy, MatrixOrder order)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| sx | Single | Jumlah yang digunakan untuk menskalakan transformasi dalam arah sumbu x. |
-| sy | Single | Jumlah yang digunakan untuk menskalakan transformasi dalam arah sumbu y. |
-| order | MatrixOrder | A[`MatrixOrder`](../../matrixorder/) yang menentukan apakah akan menambahkan atau menambahkan matriks penskalaan. |
+| sx | Single | Jumlah yang digunakan untuk menskalakan transformasi pada arah sumbu x. |
+| sy | Single | Jumlah yang digunakan untuk menskalakan transformasi pada arah sumbu y. |
+| order | MatrixOrder | Sebuah [`MatrixOrder`](../../matrixorder/) yang menentukan apakah akan menambahkan atau menempatkan di depan matriks skala. |
 
-### Lihat juga
+### Lihat Juga
 
 * enum [MatrixOrder](../../matrixorder/)
 * class [Graphics](../)
-* ruang nama [Aspose.PSD](../../graphics/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

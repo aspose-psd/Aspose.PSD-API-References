@@ -1,23 +1,24 @@
 ---
-title: Lr16Resource.Key
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Lr16Resource Properti. Mendapat kunci sumber daya lapisan.
+title: "Lr16Resource.Key"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti Lr16Resource. Mendapatkan kunci sumber daya lapisan"
 type: docs
 weight: 20
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources/lr16resource/key/
 ---
+{{< psd/tize >}}
 ## Lr16Resource.Key property
 
-Mendapat kunci sumber daya lapisan.
+Mendapatkan kunci sumber daya lapisan.
 
 ```csharp
 public override int Key { get; }
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [Lr16Resource](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../lr16resource/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../lr16resource/)
+* assembly [Aspose.PSD](../../../)
 
 

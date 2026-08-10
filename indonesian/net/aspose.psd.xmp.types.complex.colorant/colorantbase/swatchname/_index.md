@@ -1,27 +1,28 @@
 ---
-title: ColorantBase.SwatchName
-second_title: Aspose.PSD untuk Referensi .NET API
-description: ColorantBase Properti. Mendapat atau menetapkan nama swatch.
+title: "ColorantBase.SwatchName"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti ColorantBase. Mendapatkan atau mengatur nama swatch"
 type: docs
 weight: 30
 url: /id/net/aspose.psd.xmp.types.complex.colorant/colorantbase/swatchname/
 ---
+{{< psd/tize >}}
 ## ColorantBase.SwatchName property
 
-Mendapat atau menetapkan nama swatch.
+Mendapatkan atau mengatur nama swatch.
 
 ```csharp
 public string SwatchName { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
-Nama carikan.
+Nama swatch.
 
-### Lihat juga
+### Lihat Juga
 
 * class [ColorantBase](../)
-* ruang nama [Aspose.PSD.Xmp.Types.Complex.Colorant](../../colorantbase/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.Colorant](../../../aspose.psd.xmp.types.complex.colorant/)
+* assembly [Aspose.PSD](../../../)
 
 

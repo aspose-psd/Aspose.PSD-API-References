@@ -1,14 +1,15 @@
 ---
-title: Class SharpenFilterOptions
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Aspose.PSD.ImageFilters.FilterOptions.SharpenFilterOptions kelas. Opsi filter Pertajam
+title: "Kelas SharpenFilterOptions"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Kelas Aspose.PSD.ImageFilters.FilterOptions.SharpenFilterOptions. Opsi filter Penajaman"
 type: docs
-weight: 4740
+weight: 5210
 url: /id/net/aspose.psd.imagefilters.filteroptions/sharpenfilteroptions/
 ---
+{{< psd/tize >}}
 ## SharpenFilterOptions class
 
-Opsi filter Pertajam
+Opsi filter Penajaman
 
 ```csharp
 public class SharpenFilterOptions : ConvolutionFilterOptions
@@ -16,24 +17,24 @@ public class SharpenFilterOptions : ConvolutionFilterOptions
 
 ## Konstruktor
 
-| Nama | Keterangan |
+| Nama | Deskripsi |
 | --- | --- |
-| [SharpenFilterOptions](sharpenfilteroptions/#constructor)() | Menginisialisasi instance baru dari`SharpenFilterOptions` class. Dengan pengaturan default. |
-| [SharpenFilterOptions](sharpenfilteroptions/#constructor_1)(int, double) | Menginisialisasi instance baru dari`SharpenFilterOptions` kelas. |
+| [SharpenFilterOptions](sharpenfilteroptions/#constructor)() | Menginisialisasi sebuah instance baru dari kelas `SharpenFilterOptions`. Dengan pengaturan default. |
+| [SharpenFilterOptions](sharpenfilteroptions/#constructor_1)(int, double) | Menginisialisasi sebuah instance baru dari kelas `SharpenFilterOptions`. |
 
 ## Properti
 
-| Nama | Keterangan |
+| Nama | Deskripsi |
 | --- | --- |
-| [Bias](../../aspose.psd.imagefilters.filteroptions/convolutionfilteroptions/bias/) { get; set; } | Mendapat atau menyetel bias. |
-| [Factor](../../aspose.psd.imagefilters.filteroptions/convolutionfilteroptions/factor/) { get; set; } | Mendapatkan atau menyetel faktor. |
-| [Sigma](../../aspose.psd.imagefilters.filteroptions/sharpenfilteroptions/sigma/) { get; set; } | Mendapat atau menyetel sigma. |
-| [Size](../../aspose.psd.imagefilters.filteroptions/sharpenfilteroptions/size/) { get; set; } | Mendapat atau menyetel ukuran. |
+| [Bias](../../aspose.psd.imagefilters.filteroptions/convolutionfilteroptions/bias/) { get; set; } | Mendapatkan atau mengatur bias. |
+| [Factor](../../aspose.psd.imagefilters.filteroptions/convolutionfilteroptions/factor/) { get; set; } | Mendapatkan atau mengatur faktor. |
+| [Sigma](../../aspose.psd.imagefilters.filteroptions/sharpenfilteroptions/sigma/) { get; set; } | Mendapatkan atau mengatur sigma. |
+| [Size](../../aspose.psd.imagefilters.filteroptions/sharpenfilteroptions/size/) { get; set; } | Mendapatkan atau mengatur ukuran. |
 
-### Lihat juga
+### Lihat Juga
 
 * class [ConvolutionFilterOptions](../convolutionfilteroptions/)
-* ruang nama [Aspose.PSD.ImageFilters.FilterOptions](../../aspose.psd.imagefilters.filteroptions/)
-* perakitan [Aspose.PSD](../../)
+* namespace [Aspose.PSD.ImageFilters.FilterOptions](../../aspose.psd.imagefilters.filteroptions/)
+* assembly [Aspose.PSD](../../)
 
 

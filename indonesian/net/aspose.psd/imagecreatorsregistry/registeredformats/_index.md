@@ -1,28 +1,29 @@
 ---
-title: ImageCreatorsRegistry.RegisteredFormats
-second_title: Aspose.PSD untuk Referensi .NET API
-description: ImageCreatorsRegistry Properti. Mendapatkan format pembuatan gambar terdaftar.
+title: "ImageCreatorsRegistry.RegisteredFormats"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti ImageCreatorsRegistry. Mendapatkan format pembuatan gambar yang terdaftar"
 type: docs
 weight: 20
 url: /id/net/aspose.psd/imagecreatorsregistry/registeredformats/
 ---
+{{< psd/tize >}}
 ## ImageCreatorsRegistry.RegisteredFormats property
 
-Mendapatkan format pembuatan gambar terdaftar.
+Mendapatkan format pembuatan gambar yang terdaftar.
 
 ```csharp
 public static FileFormat RegisteredFormats { get; }
 ```
 
-### Nilai properti
+### Property Value
 
-Format pembuatan gambar terdaftar.
+Format pembuatan gambar yang terdaftar.
 
-### Lihat juga
+### Lihat Juga
 
 * enum [FileFormat](../../fileformat/)
 * class [ImageCreatorsRegistry](../)
-* ruang nama [Aspose.PSD](../../imagecreatorsregistry/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: Font.Underline
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Font Properti. Mendapat nilai yang menunjukkan apakah iniFont digarisbawahi.
+title: "Font.Underline"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti Font. Mendapatkan nilai yang menunjukkan apakah Font ini digarisbawahi"
 type: docs
 weight: 90
 url: /id/net/aspose.psd/font/underline/
 ---
+{{< psd/tize >}}
 ## Font.Underline property
 
-Mendapat nilai yang menunjukkan apakah ini[`Font`](../) digarisbawahi.
+Mendapatkan nilai yang menunjukkan apakah [`Font`](../) ini digarisbawahi.
 
 ```csharp
 public bool Underline { get; }
 ```
 
-### Nilai properti
+### Property Value
 
-Benar jika ini[`Font`](../) digarisbawahi; jika tidak, salah.
+True jika [`Font`](../) ini digarisbawahi; jika tidak, false.
 
-### Lihat juga
+### Lihat Juga
 
 * class [Font](../)
-* ruang nama [Aspose.PSD](../../font/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

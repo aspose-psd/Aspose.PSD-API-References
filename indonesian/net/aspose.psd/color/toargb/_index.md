@@ -1,27 +1,28 @@
 ---
-title: Color.ToArgb
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Color metode. Mendapat nilai ARGB 32bit iniColorstruktur.
+title: "Color.ToArgb"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Color method. Mendapatkan nilai ARGB 32-bit dari struktur Color ini"
 type: docs
 weight: 1590
 url: /id/net/aspose.psd/color/toargb/
 ---
+{{< psd/tize >}}
 ## Color.ToArgb method
 
-Mendapat nilai ARGB 32-bit ini[`Color`](../)struktur.
+Mendapatkan nilai ARGB 32-bit dari struktur [`Color`](../) ini.
 
 ```csharp
 public int ToArgb()
 ```
 
-### Nilai Pengembalian
+### Nilai Kembalian
 
-Nilai ARGB 32-bit ini[`Color`](../).
+Nilai ARGB 32-bit dari [`Color`](../) ini.
 
-### Lihat juga
+### Lihat Juga
 
 * struct [Color](../)
-* ruang nama [Aspose.PSD](../../color/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

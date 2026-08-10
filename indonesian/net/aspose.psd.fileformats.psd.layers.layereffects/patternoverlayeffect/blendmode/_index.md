@@ -1,28 +1,29 @@
 ---
-title: PatternOverlayEffect.BlendMode
-second_title: Aspose.PSD untuk Referensi .NET API
-description: PatternOverlayEffect Properti. Mendapat atau menyetel mode campuran.
+title: "PatternOverlayEffect.BlendMode"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti PatternOverlayEffect. Mendapatkan atau mengatur mode pencampuran"
 type: docs
 weight: 10
 url: /id/net/aspose.psd.fileformats.psd.layers.layereffects/patternoverlayeffect/blendmode/
 ---
+{{< psd/tize >}}
 ## PatternOverlayEffect.BlendMode property
 
-Mendapat atau menyetel mode campuran.
+Mendapatkan atau mengatur mode perpaduan.
 
 ```csharp
 public BlendMode BlendMode { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
-Mode campuran.
+Mode pencampuran.
 
-### Lihat juga
+### Lihat Juga
 
 * enum [BlendMode](../../../aspose.psd.fileformats.core.blending/blendmode/)
 * class [PatternOverlayEffect](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../patternoverlayeffect/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../../)
 
 

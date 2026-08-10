@@ -1,28 +1,29 @@
 ---
-title: LayerBlendingRangesData.ChannelBlendRanges
-second_title: Aspose.PSD untuk Referensi .NET API
-description: LayerBlendingRangesData Properti. Mendapat atau menyetel rentang campuran saluran.
+title: "LayerBlendingRangesData.ChannelBlendRanges"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti LayerBlendingRangesData. Mendapatkan atau mengatur rentang pencampuran kanal"
 type: docs
 weight: 20
 url: /id/net/aspose.psd.fileformats.psd.layers/layerblendingrangesdata/channelblendranges/
 ---
+{{< psd/tize >}}
 ## LayerBlendingRangesData.ChannelBlendRanges property
 
-Mendapat atau menyetel rentang campuran saluran.
+Mendapatkan atau mengatur rentang pencampuran kanal.
 
 ```csharp
 public BlendRange[] ChannelBlendRanges { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
-Rentang campuran saluran.
+Rentang pencampuran saluran.
 
-### Lihat juga
+### Lihat Juga
 
 * class [BlendRange](../../blendrange/)
 * class [LayerBlendingRangesData](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers](../../layerblendingrangesdata/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

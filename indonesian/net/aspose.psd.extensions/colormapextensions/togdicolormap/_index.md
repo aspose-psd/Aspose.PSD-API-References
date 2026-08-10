@@ -1,32 +1,33 @@
 ---
-title: ColorMapExtensions.ToGdiColorMap
-second_title: Aspose.PSD untuk Referensi .NET API
-description: ColorMapExtensions metode. MengubahColorMap keColorMap .
+title: "ColorMapExtensions.ToGdiColorMap"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode ColorMapExtensions. Mengonversi ColorMap ke ColorMap"
 type: docs
 weight: 10
 url: /id/net/aspose.psd.extensions/colormapextensions/togdicolormap/
 ---
+{{< psd/tize >}}
 ## ColorMapExtensions.ToGdiColorMap method
 
-Mengubah[`ColorMap`](../../../aspose.psd/colormap/) keColorMap .
+Mengonversi [`ColorMap`](../../../aspose.psd/colormap/) ke ColorMap.
 
 ```csharp
 public static ColorMap ToGdiColorMap(ColorMap colorMap)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| colorMap | ColorMap | Peta warna yang akan dikonversi. |
+| colorMap | ColorMap | Peta warna untuk dikonversi. |
 
-### Nilai Pengembalian
+### Nilai Kembalian
 
-KonversiColorMap .
+ColorMap yang telah dikonversi.
 
-### Lihat juga
+### Lihat Juga
 
 * class [ColorMap](../../../aspose.psd/colormap/)
 * class [ColorMapExtensions](../)
-* ruang nama [Aspose.PSD.Extensions](../../colormapextensions/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Extensions](../../../aspose.psd.extensions/)
+* assembly [Aspose.PSD](../../../)
 
 

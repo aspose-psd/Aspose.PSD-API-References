@@ -1,32 +1,33 @@
 ---
-title: ChannelMixerLayer.GetChannelByIndex
-second_title: Aspose.PSD untuk Referensi .NET API
-description: ChannelMixerLayer metode. Mendapat indeks saluran. Dapat mengembalikan RgbMixerChannel atau CmykMixerChannel
+title: "ChannelMixerLayer.GetChannelByIndex"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "metode ChannelMixerLayer. Mendapatkan indeks saluran dengan. Dapat mengembalikan RgbMixerChannel atau CmykMixerChannel"
 type: docs
 weight: 20
 url: /id/net/aspose.psd.fileformats.psd.layers.adjustmentlayers/channelmixerlayer/getchannelbyindex/
 ---
+{{< psd/tize >}}
 ## ChannelMixerLayer.GetChannelByIndex method
 
-Mendapat indeks saluran. Dapat mengembalikan RgbMixerChannel atau CmykMixerChannel
+Mendapatkan indeks saluran. Dapat mengembalikan RgbMixerChannel atau CmykMixerChannel
 
 ```csharp
 public abstract MixerChannel GetChannelByIndex(int index)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
 | index | Int32 | Indeks. |
 
-### Nilai Pengembalian
+### Nilai Kembalian
 
 [`MixerChannel`](../../mixerchannel/)
 
-### Lihat juga
+### Lihat Juga
 
 * class [MixerChannel](../../mixerchannel/)
 * class [ChannelMixerLayer](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../channelmixerlayer/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/)
+* assembly [Aspose.PSD](../../../)
 
 

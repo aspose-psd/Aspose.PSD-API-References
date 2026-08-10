@@ -1,28 +1,29 @@
 ---
-title: ShapeSegment.EndPoint
-second_title: Aspose.PSD untuk Referensi .NET API
-description: ShapeSegment Properti. Mendapat titik akhir.
+title: "ShapeSegment.EndPoint"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti ShapeSegment. Mendapatkan titik akhir"
 type: docs
 weight: 10
 url: /id/net/aspose.psd/shapesegment/endpoint/
 ---
+{{< psd/tize >}}
 ## ShapeSegment.EndPoint property
 
-Mendapat titik akhir.
+Mendapatkan titik akhir.
 
 ```csharp
 public abstract PointF EndPoint { get; }
 ```
 
-### Nilai properti
+### Property Value
 
 Titik akhir.
 
-### Lihat juga
+### Lihat Juga
 
 * struct [PointF](../../pointf/)
 * class [ShapeSegment](../)
-* ruang nama [Aspose.PSD](../../shapesegment/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

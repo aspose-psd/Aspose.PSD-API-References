@@ -1,11 +1,12 @@
 ---
-title: IText.ProducePortions
-second_title: Aspose.PSD untuk Referensi .NET API
-description: IText metode. Menghasilkan bagian baru dengan input atau parameter default.
+title: "IText.ProducePortions"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "IText metode. Menghasilkan bagian-bagian baru dengan parameter masukan atau default"
 type: docs
 weight: 70
 url: /id/net/aspose.psd.fileformats.psd.layers.text/itext/produceportions/
 ---
+{{< psd/tize >}}
 ## IText.ProducePortions method
 
 Menghasilkan bagian baru dengan input atau parameter default.
@@ -15,25 +16,25 @@ public ITextPortion[] ProducePortions(string[] portionsOfText, ITextStyle styleP
     ITextParagraph paragraphPrototype)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| portionsOfText | String[] | Bagian teks yang akan dibuat baru[`ITextPortion`](../../itextportion/). |
-| stylePrototype | ITextStyle | Sebuah gaya yang, jika bukan nol, akan diterapkan pada yang baru, jika tidak akan menjadi default. |
-| paragraphPrototype | ITextParagraph | Paragraf yang, jika bukan nol, akan diterapkan di paragraf baru, jika tidak akan menjadi default. |
+| portionsOfText | String[] | Bagian-bagian teks untuk membuat [`ITextPortion`](../../itextportion/) baru. |
+| stylePrototype | ITextStyle | Gaya yang, jika tidak null, akan diterapkan pada [`ITextPortion`](../../itextportion/) baru, jika tidak maka akan menjadi default. |
+| paragraphPrototype | ITextParagraph | Paragraf yang, jika tidak null, akan diterapkan pada [`ITextPortion`](../../itextportion/) baru, jika tidak maka akan menjadi default. |
 
-### Nilai Pengembalian
+### Nilai Kembalian
 
-Mengembalikan porsi baru[`ITextPortion`](../../itextportion/) berdasarkan parameter masukan.
+Mengembalikan bagian-bagian baru [`ITextPortion`](../../itextportion/) berdasarkan parameter masukan.
 
-### Contoh
+## Contoh
 
-Contoh berikut menunjukkan bagaimana Anda bisa membuat gaya yang berbeda dalam satu lapisan teks di Aspose.PSD
+Contoh berikut menunjukkan cara Anda dapat merender gaya berbeda dalam satu lapisan teks di Aspose.PSD
 
 ```csharp
 [C#]
 
 string sourceFile = "text212.psd";
-string etalonFile = "Ethalon_text212.psd";
+string etalonFile = "Output_text212.psd";
 string outputFile = "Output_text212.psd";
 
 using (var img = (PsdImage)Image.Load(sourceFile))
@@ -56,12 +57,12 @@ using (var img = (PsdImage)Image.Load(sourceFile))
         defaultStyle,
         defaultParagraph);
 
-    newPortions[0].Style.Underline = true; // edit gaya teks "E=mc"
-    newPortions[1].Style.FontBaseline = FontBaseline.Superscript; // edit gaya teks "2\r"
-    newPortions[2].Style.FauxBold = true; // edit gaya teks "Bold"
-    newPortions[3].Style.FauxItalic = true; // edit gaya teks "Italic\r"
-    newPortions[3].Style.BaselineShift = -25; // edit gaya teks "Italic\r"
-    newPortions[4].Style.FontCaps = FontCaps.SmallCaps; // edit gaya teks "Teks huruf kecil"
+    newPortions[0].Style.Underline = true; // edit text style "E=mc"
+    newPortions[1].Style.FontBaseline = FontBaseline.Superscript; // edit text style "2\r"
+    newPortions[2].Style.FauxBold = true; // edit text style "Bold"
+    newPortions[3].Style.FauxItalic = true; // edit text style "Italic\r"
+    newPortions[3].Style.BaselineShift = -25; // edit text style "Italic\r"
+    newPortions[4].Style.FontCaps = FontCaps.SmallCaps; // edit text style "Lowercasetext"
 
     foreach (var newPortion in newPortions)
     {
@@ -73,13 +74,13 @@ using (var img = (PsdImage)Image.Load(sourceFile))
 }
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * interface [ITextPortion](../../itextportion/)
 * interface [ITextStyle](../../itextstyle/)
 * interface [ITextParagraph](../../itextparagraph/)
 * interface [IText](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.Text](../../itext/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.Text](../../../aspose.psd.fileformats.psd.layers.text/)
+* assembly [Aspose.PSD](../../../)
 
 

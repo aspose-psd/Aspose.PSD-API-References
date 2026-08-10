@@ -1,17 +1,18 @@
 ---
-title: Aspose.PSD.Interfaces
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Namespace menangani pemrosesan format file Tiff.
+title: "Aspose.PSD.Interfaces"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Namespace menangani pemrosesan format file Tiff"
 type: docs
-weight: 440
+weight: 480
 url: /id/net/aspose.psd.interfaces/
 ---
-Namespace menangani pemrosesan format file Tiff.
+{{< psd/tize >}}
+Namespace ini menangani pemrosesan format file TIFF.
 
 ## Antarmuka
 
-| Antarmuka | Keterangan |
+| Antarmuka | Deskripsi |
 | --- | --- |
-| [IObjectWithSizeF](./iobjectwithsizef/) | Merupakan objek dengan Ukuran yang dinyatakan dalam bilangan real (dalam inci). |
+| [IObjectWithSizeF](./iobjectwithsizef/) | Mewakili objek dengan Size yang diekspresikan dalam angka riil (dalam inci). |
 
 

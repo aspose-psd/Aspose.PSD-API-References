@@ -1,14 +1,15 @@
 ---
-title: Class TiffExifIfd
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Aspose.PSD.FileFormats.Tiff.TiffExifIfd kelas. Kelas direktori file gambar TIFF Exif.
+title: "Kelas TiffExifIfd"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Kelas Aspose.PSD.FileFormats.Tiff.TiffExifIfd. Kelas direktori file gambar Exif TIFF"
 type: docs
-weight: 4220
+weight: 4690
 url: /id/net/aspose.psd.fileformats.tiff/tiffexififd/
 ---
+{{< psd/tize >}}
 ## TiffExifIfd class
 
-Kelas direktori file gambar TIFF Exif.
+Kelas direktori file gambar Exif TIFF.
 
 ```csharp
 public class TiffExifIfd
@@ -16,25 +17,25 @@ public class TiffExifIfd
 
 ## Konstruktor
 
-| Nama | Keterangan |
+| Nama | Deskripsi |
 | --- | --- |
-| [TiffExifIfd](tiffexififd/#constructor)() | Menginisialisasi instance baru dari`TiffExifIfd` kelas. |
-| [TiffExifIfd](tiffexififd/#constructor_1)(uint) | Menginisialisasi instance baru dari`TiffExifIfd` kelas. |
+| [TiffExifIfd](tiffexififd/#constructor)() | Menginisialisasi instance baru dari kelas `TiffExifIfd`. |
+| [TiffExifIfd](tiffexififd/#constructor_1)(uint) | Menginisialisasi instance baru dari kelas `TiffExifIfd`. |
 
 ## Properti
 
-| Nama | Keterangan |
+| Nama | Deskripsi |
 | --- | --- |
-| [HasValue](../../aspose.psd.fileformats.tiff/tiffexififd/hasvalue/) { get; } | Mendapat nilai yang menunjukkan apakah instance ini memiliki nilai. |
-| [Offset](../../aspose.psd.fileformats.tiff/tiffexififd/offset/) { get; set; } | Mendapat atau menyetel pointer ke EXIF IFD. |
+| [HasValue](../../aspose.psd.fileformats.tiff/tiffexififd/hasvalue/) { get; } | Mendapatkan nilai yang menunjukkan apakah instance ini memiliki nilai. |
+| [Offset](../../aspose.psd.fileformats.tiff/tiffexififd/offset/) { get; set; } | Mendapatkan atau mengatur penunjuk ke EXIF IFD. |
 
-### Perkataan
+## Catatan
 
-Merangkum pointer ke Exif IFD. Interoperabilitas, Exif IFD memiliki struktur yang sama dengan IFD yang ditentukan dalam TIFF. biasanya, bagaimanapun, itu tidak berisi data gambar seperti dalam kasus TIFF. Lihat http://www.exiv2.org/tags.html dan http://www.awaresystems.be/imaging/tiff/tifftags/exififd .html untuk detail lebih lanjut.
+Mengkapsulkan penunjuk ke Exif IFD. Interoperabilitas, Exif IFD memiliki struktur yang sama dengan IFD yang ditentukan dalam TIFF. Namun, biasanya tidak berisi data gambar seperti pada TIFF. Lihat http://www.exiv2.org/tags.html dan http://www.awaresystems.be/imaging/tiff/tifftags/exififd.html untuk detail lebih lanjut.
 
-### Lihat juga
+### Lihat Juga
 
-* ruang nama [Aspose.PSD.FileFormats.Tiff](../../aspose.psd.fileformats.tiff/)
-* perakitan [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Tiff](../../aspose.psd.fileformats.tiff/)
+* assembly [Aspose.PSD](../../)
 
 

@@ -1,32 +1,33 @@
 ---
-title: BrushExtensions.ToGdiBrush
-second_title: Aspose.PSD untuk Referensi .NET API
-description: BrushExtensions metode. MengubahBrush keBrush .
+title: "BrushExtensions.ToGdiBrush"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode BrushExtensions. Mengonversi Brush menjadi Brush"
 type: docs
 weight: 10
 url: /id/net/aspose.psd.extensions/brushextensions/togdibrush/
 ---
+{{< psd/tize >}}
 ## BrushExtensions.ToGdiBrush method
 
-Mengubah[`Brush`](../../../aspose.psd/brush/) keBrush .
+Mengonversi [`Brush`](../../../aspose.psd/brush/) menjadi Brush.
 
 ```csharp
 public static Brush ToGdiBrush(Brush brush)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| brush | Brush | Itu[`Brush`](../../../aspose.psd/brush/) untuk mengubah. |
+| brush | Brush | [`Brush`](../../../aspose.psd/brush/) untuk dikonversi. |
 
-### Nilai Pengembalian
+### Nilai Kembalian
 
-Yang dikonversiBrush.
+Brush yang telah dikonversi.
 
-### Lihat juga
+### Lihat Juga
 
 * class [Brush](../../../aspose.psd/brush/)
 * class [BrushExtensions](../)
-* ruang nama [Aspose.PSD.Extensions](../../brushextensions/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Extensions](../../../aspose.psd.extensions/)
+* assembly [Aspose.PSD](../../../)
 
 

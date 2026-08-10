@@ -1,27 +1,28 @@
 ---
-title: SplitStreamContainer.CanWrite
-second_title: Aspose.PSD untuk Referensi .NET API
-description: SplitStreamContainer Properti. Mendapat nilai yang menunjukkan apakah streaming mendukung penulisan.
+title: "SplitStreamContainer.CanWrite"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "SplitStreamContainer property. Mendapatkan nilai yang menunjukkan apakah aliran mendukung penulisan"
 type: docs
 weight: 40
 url: /id/net/aspose.psd/splitstreamcontainer/canwrite/
 ---
+{{< psd/tize >}}
 ## SplitStreamContainer.CanWrite property
 
-Mendapat nilai yang menunjukkan apakah streaming mendukung penulisan.
+Mendapatkan nilai yang menunjukkan apakah aliran mendukung penulisan.
 
 ```csharp
 public override bool CanWrite { get; }
 ```
 
-### Nilai properti
+### Property Value
 
-`BENAR` jika aliran mendukung penulisan; jika tidak,`PALSU`.
+`true` jika aliran mendukung penulisan; sebaliknya, `false`.
 
-### Lihat juga
+### Lihat Juga
 
 * class [SplitStreamContainer](../)
-* ruang nama [Aspose.PSD](../../splitstreamcontainer/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

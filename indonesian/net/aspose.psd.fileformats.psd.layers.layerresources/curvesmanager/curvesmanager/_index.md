@@ -1,27 +1,28 @@
 ---
-title: CurvesManager.CurvesManager
-second_title: Aspose.PSD untuk Referensi .NET API
-description: CurvesManager konstruktor. Menginisialisasi instance baru dariCurvesManager kelas.
+title: "CurvesManager.CurvesManager"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Konstruktor CurvesManager. Menginisialisasi sebuah instance baru dari kelas CurvesManager"
 type: docs
 weight: 10
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources/curvesmanager/curvesmanager/
 ---
+{{< psd/tize >}}
 ## CurvesManager constructor
 
-Menginisialisasi instance baru dari[`CurvesManager`](../) kelas.
+Menginisialisasi sebuah instance baru dari kelas [`CurvesManager`](../).
 
 ```csharp
 public CurvesManager(int maxChannelCount)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
 | maxChannelCount | Int32 | Jumlah saluran maksimum. |
 
-### Lihat juga
+### Lihat Juga
 
 * class [CurvesManager](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../curvesmanager/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,243 +1,244 @@
 ---
-title: PsdColorPalette.PsdColorPalette
-second_title: Aspose.PSD untuk Referensi .NET API
-description: PsdColorPalette konstruktor. Menginisialisasi instance baru dariPsdColorPalette kelas.
+title: "PsdColorPalette.PsdColorPalette"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Konstruktor PsdColorPalette. Menginisialisasi sebuah instansi baru dari kelas PsdColorPalette."
 type: docs
 weight: 10
 url: /id/net/aspose.psd.fileformats.psd/psdcolorpalette/psdcolorpalette/
 ---
+{{< psd/tize >}}
 ## PsdColorPalette(IColorPalette) {#constructor_4}
 
-Menginisialisasi instance baru dari[`PsdColorPalette`](../) kelas.
+Menginisialisasi sebuah instansi baru dari kelas [`PsdColorPalette`](../).
 
 ```csharp
 public PsdColorPalette(IColorPalette colorPalette)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
 | colorPalette | IColorPalette | Palet warna. |
 
-### Lihat juga
+### Lihat Juga
 
 * interface [IColorPalette](../../../aspose.psd/icolorpalette/)
 * class [PsdColorPalette](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd](../../psdcolorpalette/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## PsdColorPalette(IColorPalette, short) {#constructor_5}
 
-Menginisialisasi instance baru dari[`PsdColorPalette`](../) kelas.
+Menginisialisasi sebuah instansi baru dari kelas [`PsdColorPalette`](../).
 
 ```csharp
 public PsdColorPalette(IColorPalette colorPalette, short transparentIndex)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
 | colorPalette | IColorPalette | Palet warna. |
 | transparentIndex | Int16 | Indeks warna transparan. |
 
-### Lihat juga
+### Lihat Juga
 
 * interface [IColorPalette](../../../aspose.psd/icolorpalette/)
 * class [PsdColorPalette](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd](../../psdcolorpalette/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## PsdColorPalette(byte[], bool) {#constructor_7}
 
-Menginisialisasi instance baru dari[`PsdColorPalette`](../) kelas.
+Menginisialisasi sebuah instansi baru dari kelas [`PsdColorPalette`](../).
 
 ```csharp
 public PsdColorPalette(byte[] rawEntriesData, bool isCompactPalette)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
 | rawEntriesData | Byte[] | Data entri mentah. |
-| isCompactPalette | Boolean | Menunjukkan apakah kompak itu palet. |
+| isCompactPalette | Boolean | Menunjukkan apakah palet tersebut kompak. |
 
-### Lihat juga
+### Lihat Juga
 
 * class [PsdColorPalette](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd](../../psdcolorpalette/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## PsdColorPalette(byte[]) {#constructor_6}
 
-Menginisialisasi instance baru dari[`PsdColorPalette`](../) kelas dan IsCompactPalette salah.
+Menginisialisasi sebuah instansi baru dari kelas [`PsdColorPalette`](../) dan IsCompactPalette bernilai false.
 
 ```csharp
 public PsdColorPalette(byte[] rawEntriesData)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
 | rawEntriesData | Byte[] | Data entri mentah. |
 
-### Lihat juga
+### Lihat Juga
 
 * class [PsdColorPalette](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd](../../psdcolorpalette/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## PsdColorPalette(byte[], short, bool) {#constructor_9}
 
-Menginisialisasi instance baru dari[`PsdColorPalette`](../) kelas.
+Menginisialisasi sebuah instansi baru dari kelas [`PsdColorPalette`](../).
 
 ```csharp
 public PsdColorPalette(byte[] rawEntriesData, short transparentIndex, bool useCompactPalette)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
 | rawEntriesData | Byte[] | Data entri mentah. |
-| transparentIndex | Int16 | Indeks warna transparan. Perhatikan indeks bukan indeks entri mentah melainkan untuk array warna yang dikonversi. |
-| useCompactPalette | Boolean | Menunjukkan apakah kompak itu palet. |
+| transparentIndex | Int16 | Indeks warna transparan. Catatan, indeks ini bukan indeks entri mentah melainkan untuk array warna yang telah dikonversi. |
+| useCompactPalette | Boolean | Menunjukkan apakah palet tersebut kompak. |
 
-### Lihat juga
+### Lihat Juga
 
 * class [PsdColorPalette](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd](../../psdcolorpalette/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## PsdColorPalette(byte[], short) {#constructor_8}
 
-Menginisialisasi instance baru dari[`PsdColorPalette`](../) kelas dan IsCompactPalette salah.
+Menginisialisasi sebuah instansi baru dari kelas [`PsdColorPalette`](../) dan IsCompactPalette bernilai false.
 
 ```csharp
 public PsdColorPalette(byte[] rawEntriesData, short transparentIndex)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
 | rawEntriesData | Byte[] | Data entri mentah. |
-| transparentIndex | Int16 | Indeks warna transparan. Perhatikan indeks bukan indeks entri mentah melainkan untuk array warna yang dikonversi. |
+| transparentIndex | Int16 | Indeks warna transparan. Catatan, indeks ini bukan indeks entri mentah melainkan untuk array warna yang telah dikonversi. |
 
-### Lihat juga
+### Lihat Juga
 
 * class [PsdColorPalette](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd](../../psdcolorpalette/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## PsdColorPalette(int[], bool) {#constructor_10}
 
-Menginisialisasi instance baru dari[`PsdColorPalette`](../) kelas.
+Menginisialisasi sebuah instansi baru dari kelas [`PsdColorPalette`](../).
 
 ```csharp
 public PsdColorPalette(int[] colorPaletteArgb32Entries, bool isCompactPalette)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| colorPaletteArgb32Entries | Int32[] | Palet warna entri ARGB 32-bit. |
-| isCompactPalette | Boolean | Menunjukkan apakah kompak itu palet. |
+| colorPaletteArgb32Entries | Int32[] | Entri ARGB 32-bit palet warna. |
+| isCompactPalette | Boolean | Menunjukkan apakah palet tersebut kompak. |
 
-### Lihat juga
+### Lihat Juga
 
 * class [PsdColorPalette](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd](../../psdcolorpalette/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## PsdColorPalette(Color[], bool) {#constructor_1}
 
-Menginisialisasi instance baru dari[`PsdColorPalette`](../) kelas.
+Menginisialisasi sebuah instansi baru dari kelas [`PsdColorPalette`](../).
 
 ```csharp
 public PsdColorPalette(Color[] colorPaletteEntries, bool isCompactPalette)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
 | colorPaletteEntries | Color[] | Entri palet warna. |
-| isCompactPalette | Boolean | Menunjukkan apakah kompak itu palet. |
+| isCompactPalette | Boolean | Menunjukkan apakah palet tersebut kompak. |
 
-### Lihat juga
+### Lihat Juga
 
 * struct [Color](../../../aspose.psd/color/)
 * class [PsdColorPalette](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd](../../psdcolorpalette/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## PsdColorPalette(Color[]) {#constructor}
 
-Menginisialisasi instance baru dari[`PsdColorPalette`](../) kelas dan IsCompactPalette salah.
+Menginisialisasi sebuah instansi baru dari kelas [`PsdColorPalette`](../) dan IsCompactPalette bernilai false.
 
 ```csharp
 public PsdColorPalette(Color[] colorPaletteEntries)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
 | colorPaletteEntries | Color[] | Entri palet warna. |
 
-### Lihat juga
+### Lihat Juga
 
 * struct [Color](../../../aspose.psd/color/)
 * class [PsdColorPalette](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd](../../psdcolorpalette/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## PsdColorPalette(Color[], short, bool) {#constructor_3}
 
-Menginisialisasi instance baru dari[`PsdColorPalette`](../) kelas.
+Menginisialisasi sebuah instansi baru dari kelas [`PsdColorPalette`](../).
 
 ```csharp
 public PsdColorPalette(Color[] colorPaletteEntries, short transparentIndex, bool useCompactPalette)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
 | colorPaletteEntries | Color[] | Entri palet warna. |
 | transparentIndex | Int16 | Indeks warna transparan. |
-| useCompactPalette | Boolean | Menunjukkan apakah kompak itu palet. |
+| useCompactPalette | Boolean | Menunjukkan apakah palet tersebut kompak. |
 
-### Lihat juga
+### Lihat Juga
 
 * struct [Color](../../../aspose.psd/color/)
 * class [PsdColorPalette](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd](../../psdcolorpalette/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## PsdColorPalette(Color[], short) {#constructor_2}
 
-Menginisialisasi instance baru dari[`PsdColorPalette`](../) kelas dan IsCompactPalette salah.
+Menginisialisasi sebuah instansi baru dari kelas [`PsdColorPalette`](../) dan IsCompactPalette bernilai false.
 
 ```csharp
 public PsdColorPalette(Color[] colorPaletteEntries, short transparentIndex)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
 | colorPaletteEntries | Color[] | Entri palet warna. |
 | transparentIndex | Int16 | Indeks warna transparan. |
 
-### Lihat juga
+### Lihat Juga
 
 * struct [Color](../../../aspose.psd/color/)
 * class [PsdColorPalette](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd](../../psdcolorpalette/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

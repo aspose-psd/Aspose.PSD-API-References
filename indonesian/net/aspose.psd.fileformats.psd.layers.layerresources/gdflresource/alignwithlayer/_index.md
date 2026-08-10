@@ -1,24 +1,25 @@
 ---
-title: GdFlResource.AlignWithLayer
-second_title: Aspose.PSD untuk Referensi .NET API
-description: GdFlResource Properti. Mendapat atau menetapkan nilai yang menunjukkan apakah sejajar dengan lapisan.
+title: "GdFlResource.AlignWithLayer"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti GdFlResource. Mendapatkan atau mengatur nilai yang menunjukkan apakah diselaraskan dengan lapisan"
 type: docs
 weight: 20
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources/gdflresource/alignwithlayer/
 ---
+{{< psd/tize >}}
 ## GdFlResource.AlignWithLayer property
 
-Mendapat atau menetapkan nilai yang menunjukkan apakah [sejajar dengan lapisan].
+Mendapatkan atau mengatur nilai yang menunjukkan apakah [align with layer].
 
 ```csharp
 public bool AlignWithLayer { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
-`BENAR` if [sejajarkan dengan lapisan]; jika tidak,`PALSU` .
+`true` jika [align with layer]; selainnya, `false`.
 
-### Contoh
+## Contoh
 
 Contoh berikut menunjukkan dukungan pemuatan sumber daya GdFlResource.
 
@@ -77,7 +78,7 @@ using (im)
                     {
                         throw new Exception("Gradient Color Points were read Wrong");
                     }
-                    // Mengedit
+                    // Menyunting
                     resource.Angle = 30.0;
                     resource.Dither = false;
                     resource.AlignWithLayer = true;
@@ -114,10 +115,10 @@ using (im)
 }
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [GdFlResource](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../gdflresource/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

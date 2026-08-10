@@ -1,20 +1,21 @@
 ---
-title: LiFeDataSource.FileSize
-second_title: Aspose.PSD untuk Referensi .NET API
-description: LiFeDataSource Properti. Mendapat atau menyetel ukuran file eksternal di sumber data LiFE sumber daya PSD LnkE.
+title: "LiFeDataSource.FileSize"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti LiFeDataSource. Mendapatkan atau mengatur ukuran file eksternal dalam sumber data LiFE dari sumber daya PSD LnkE"
 type: docs
 weight: 80
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources/lifedatasource/filesize/
 ---
+{{< psd/tize >}}
 ## LiFeDataSource.FileSize property
 
-Mendapat atau menyetel ukuran file eksternal di sumber data LiFE sumber daya PSD LnkE.
+Mendapatkan atau mengatur ukuran file eksternal dalam sumber data LiFE dari sumber daya PSD LnkE.
 
 ```csharp
 public long FileSize { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
 Ukuran file.
 
@@ -22,11 +23,11 @@ Ukuran file.
 
 | pengecualian | kondisi |
 | --- | --- |
-| [PsdImageException](../../../aspose.psd.coreexceptions.imageformats/psdimageexception/) | Anda tidak dapat mengakses properti FileSize, ini hanya tersedia untuk sumber data seumur hidup |
+| [PsdImageException](../../../aspose.psd.coreexceptions.imageformats/psdimageexception/) | Anda tidak dapat mengakses properti FileSize, properti ini hanya tersedia untuk sumber data liFE |
 
-### Contoh
+## Contoh
 
-Contoh ini menunjukkan cara mendapatkan dan mengatur properti Sumber Daya Psd LnkE.
+Contoh ini menunjukkan cara mendapatkan dan mengatur properti dari Resource Psd LnkE.
 
 ```csharp
 [C#]
@@ -40,7 +41,7 @@ void AssertAreEqual(object actual, object expected)
     }
 }
 
-// Contoh ini mendemonstrasikan cara mendapatkan dan menyetel properti Sumber Daya Psd LnkE yang berisi informasi tentang file tertaut eksternal.
+// Contoh ini menunjukkan cara mendapatkan dan mengatur properti dari Resource Psd LnkE yang berisi informasi tentang file tautan eksternal.
 void ExampleOfLnkEResourceSupport(
     string fileName,
     int length,
@@ -117,7 +118,7 @@ void ExampleOfLnkEResourceSupport(
     }
 }
 
-// Contoh ini mendemonstrasikan cara mendapatkan dan menyetel properti Psd LnkeResource yang berisi informasi tentang file JPEG tertaut eksternal.
+// Contoh ini menunjukkan cara mendapatkan dan mengatur properti dari Resource Psd Lnke yang berisi informasi tentang file JPEG tautan eksternal.
 ExampleOfLnkEResourceSupport(
     @"photooverlay_5_new.psd",
     0x21c,
@@ -136,7 +137,7 @@ ExampleOfLnkEResourceSupport(
     0x1520d,
     7);
 
-// Contoh ini mendemonstrasikan cara mendapatkan dan menyetel properti PSD LnkeResource yang berisi informasi tentang file PNG tertaut eksternal.
+// Contoh ini menunjukkan cara mendapatkan dan mengatur properti dari Resource PSD Lnke yang berisi informasi tentang file PNG tautan eksternal.
 ExampleOfLnkEResourceSupport(
     "rgb8_2x2_linked.psd",
     0x284,
@@ -155,7 +156,7 @@ ExampleOfLnkEResourceSupport(
     0x53,
     7);
 
-// Contoh ini mendemonstrasikan cara mendapatkan dan menyetel properti PSD LnkeResource yang berisi informasi tentang dua file PNG dan PSD yang ditautkan secara eksternal.
+// Contoh ini menunjukkan cara mendapatkan dan mengatur properti PSD LnkeResource yang berisi informasi tentang dua file PNG dan PSD yang ditautkan secara eksternal.
 ExampleOfLnkEResourceSupport(
     "rgb8_2x2_linked2.psd",
     0x590,
@@ -174,7 +175,7 @@ ExampleOfLnkEResourceSupport(
     0x4aea,
     7);
 
-// Contoh ini mendemonstrasikan cara mendapatkan dan menyetel properti Photoshop Psd LnkeResource yang berisi informasi tentang Aset Perpustakaan CC tertaut eksternal.
+// Contoh ini menunjukkan cara mendapatkan dan mengatur properti Photoshop Psd LnkeResource yang berisi informasi tentang satu aset CC Libraries yang ditautkan secara eksternal.
 ExampleOfLnkEResourceSupport(
     "rgb8_2x2_asset_linked.psd",
     0x398,
@@ -416,10 +417,10 @@ ExampleOfComplexLnkEResourceSupport(
     ComplexLnkEResourceSupportCases);
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [LiFeDataSource](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../lifedatasource/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: DocumentSpecificIdsResource.DataSize
-second_title: Aspose.PSD untuk Referensi .NET API
-description: DocumentSpecificIdsResource Properti. Mendapatkan ukuran data sumber daya dalam byte.
+title: "DocumentSpecificIdsResource.DataSize"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti DocumentSpecificIdsResource. Mendapatkan ukuran data sumber daya dalam byte"
 type: docs
 weight: 20
 url: /id/net/aspose.psd.fileformats.psd.resources/documentspecificidsresource/datasize/
 ---
+{{< psd/tize >}}
 ## DocumentSpecificIdsResource.DataSize property
 
 Mendapatkan ukuran data sumber daya dalam byte.
@@ -14,14 +15,14 @@ Mendapatkan ukuran data sumber daya dalam byte.
 public override int DataSize { get; }
 ```
 
-### Nilai properti
+### Property Value
 
 Ukuran data sumber daya.
 
-### Lihat juga
+### Lihat Juga
 
 * class [DocumentSpecificIdsResource](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Resources](../../documentspecificidsresource/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

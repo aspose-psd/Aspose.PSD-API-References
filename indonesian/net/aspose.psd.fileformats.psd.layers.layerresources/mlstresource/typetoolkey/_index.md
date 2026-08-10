@@ -1,23 +1,24 @@
 ---
-title: MlstResource.TypeToolKey
-second_title: Aspose.PSD untuk Referensi .NET API
-description: MlstResource bidang. Kunci info alat ketik.
+title: "MlstResource.TypeToolKey"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "MlstResource field. Kunci info alat tipe"
 type: docs
-weight: 90
+weight: 60
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources/mlstresource/typetoolkey/
 ---
+{{< psd/tize >}}
 ## MlstResource.TypeToolKey field
 
-Kunci info alat ketik.
+Kunci info alat tipe.
 
 ```csharp
 public const int TypeToolKey;
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [MlstResource](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../mlstresource/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

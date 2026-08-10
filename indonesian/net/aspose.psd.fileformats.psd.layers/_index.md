@@ -1,43 +1,47 @@
 ---
-title: Aspose.PSD.FileFormats.Psd.Layers
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Ruang nama berisi lapisan format file PSD.
+title: "Aspose.PSD.FileFormats.Psd.Layers"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Namespace ini berisi lapisan format file PSD"
 type: docs
-weight: 210
+weight: 230
 url: /id/net/aspose.psd.fileformats.psd.layers/
 ---
-Ruang nama berisi lapisan format file PSD.
+{{< psd/tize >}}
+Namespace ini berisi lapisan format file PSD.
 
 ## Kelas
 
-| Kelas | Keterangan |
+| Kelas | Deskripsi |
 | --- | --- |
-| [BlendRange](./blendrange/) | Rentang campuran. |
+| [ArtboardLayer](./artboardlayer/) | Kelas lapisan artboard. |
+| [BlendRange](./blendrange/) | Rentang blend. |
 | [ChannelInformation](./channelinformation/) | Informasi saluran. |
-| [GlobalLayerMaskInfo](./globallayermaskinfo/) | Bagian layer mask global. |
+| [GlobalLayerMaskInfo](./globallayermaskinfo/) | Bagian topeng lapisan global. |
 | [Layer](./layer/) | Lapisan psd. |
-| [LayerBlendingRangesData](./layerblendingrangesdata/) | Data rentang pencampuran layer. |
+| [LayerBlendingRangesData](./layerblendingrangesdata/) | Data rentang pencampuran lapisan. |
 | [LayerGroup](./layergroup/) | Kelas lapisan grup |
-| [LayerHashCalculator](./layerhashcalculator/) | Kalkulator Hash untuk Lapisan PSD. Ini dapat digunakan untuk menemukan lapisan yang sama atau berbeda dalam file PSD yang berbeda |
-| [LayerMaskData](./layermaskdata/) | Menentukan kelas LayerMaskData dasar yang berisi informasi tentang data layer mask dalam file PSD. Ini dapat membantu memodifikasi file Adobe® Photoshop® secara terprogram dan mengotomatiskan pengeditan format PSD. Jika layer hanya memiliki masker raster, ImageData berisi raster mask data bytes. Jika layer hanya memiliki mask vektor, ImageData berisi byte data raster (cache) mask vektor. Jika layer memiliki layer dan mask vektor, ImageData berisi masker raster dan masker vektor raster digabungkan. Itu[`ImageData`](../aspose.psd.fileformats.psd.layers/layermaskdata/imagedata/)panjang byte harus sama dengan Lebar * Tinggi[`MaskRectangle`](../aspose.psd.fileformats.psd.layers/layermaskdata/maskrectangle/) properties. Perhatikan, bahwa menghapus / menambah / memperbarui LayerMaskData saja tidak cukup untuk menyimpan dengan benar karena saluran tidak diperbarui; meskipun mungkin memberikan rendering yang benar. The[`AddLayerMask`](../aspose.psd.fileformats.psd.layers/layer/addlayermask/) metode harus digunakan untuk itu. |
-| [LayerMaskDataFull](./layermaskdatafull/) | Mendefinisikan kelas LayerMaskDataFull yang berisi informasi tentang data mask di file PSD layer saat layer memiliki layer dan mask vektor. Jika tidak, a[`LayerMaskDataShort`](../aspose.psd.fileformats.psd.layers/layermaskdatashort/) digunakan. ImageData berisi topeng raster dan gabungan topeng vektor raster. Panjang byte ImageData harus sama dengan properti MaskRectangle.Width * MaskRectangle.Height. |
-| [LayerMaskDataShort](./layermaskdatashort/) | Mendefinisikan kelas LayerMaskDataShort yang berisi informasi tentang data mask di file PSD layer ketika layer hanya memiliki mask raster atau vektor tetapi tidak keduanya. Jika tidak, a[`LayerMaskDataFull`](../aspose.psd.fileformats.psd.layers/layermaskdatafull/) digunakan. Jika layer hanya memiliki topeng raster, ImageData berisi byte data topeng raster. Jika lapisan hanya memiliki topeng vektor, ImageData berisi byte data raster (cache) topeng vektor. [`ImageData`](../aspose.psd.fileformats.psd.layers/layermaskdata/imagedata/)panjang byte harus sama dengan Lebar * Tinggi[`MaskRectangle`](../aspose.psd.fileformats.psd.layers/layermaskdata/maskrectangle/) properti. |
-| [LayerResource](./layerresource/) | Merupakan info lapisan. |
-| [LayerResourcesRegistry](./layerresourcesregistry/) | Menentukan registri sumber daya lapisan untuk pemuatan file PSD. |
-| [LinkedLayersManager](./linkedlayersmanager/) | Kelas manajer lapisan tertaut. |
-| [SectionDividerLayer](./sectiondividerlayer/) | Layer pembagi bagian untuk menandai batas folder (grup layer). |
+| [LayerHashCalculator](./layerhashcalculator/) | Kalkulator Hash untuk Lapisan PSD. Ini dapat digunakan untuk menemukan lapisan yang sama atau berbeda dalam file PSD yang berbeda. |
+| [LayerMaskData](./layermaskdata/) | Menetapkan kelas dasar LayerMaskData yang berisi informasi tentang data topeng lapisan dalam file PSD. Ini dapat membantu memodifikasi file Adobe® Photoshop® secara programatis dan mengotomatiskan penyuntingan format PSD. Jika lapisan hanya memiliki topeng raster, ImageData berisi byte data topeng raster. Jika lapisan hanya memiliki topeng vektor, ImageData berisi byte data topeng vektor yang dirasterisasi (cached). Jika lapisan memiliki kedua topeng lapisan dan vektor, ImageData berisi gabungan topeng raster dan topeng vektor yang dirasterisasi. Panjang byte [`ImageData`](../aspose.psd.fileformats.psd.layers/layermaskdata/imagedata/) harus sama dengan Lebar * Tinggi dari properti [`MaskRectangle`](../aspose.psd.fileformats.psd.layers/layermaskdata/maskrectangle/). Perhatikan bahwa hanya menghapus / menambahkan / memperbarui LayerMaskData tidak cukup untuk penyimpanan yang benar karena saluran tidak diperbarui; meskipun dapat memberikan rendering yang tepat. Metode [`AddLayerMask`](../aspose.psd.fileformats.psd.layers/layer/addlayermask/) harus digunakan untuk itu. |
+| [LayerMaskDataFull](./layermaskdatafull/) | Menetapkan kelas LayerMaskDataFull yang berisi informasi tentang data topeng dalam lapisan file PSD ketika lapisan memiliki kedua topeng lapisan dan vektor. Jika tidak, digunakan [`LayerMaskDataShort`](../aspose.psd.fileformats.psd.layers/layermaskdatashort/). ImageData berisi gabungan topeng raster dan topeng vektor yang dirasterisasi. Panjang byte ImageData harus sama dengan properti MaskRectangle.Width * MaskRectangle.Height. |
+| [LayerMaskDataShort](./layermaskdatashort/) | Menetapkan kelas LayerMaskDataShort yang berisi informasi tentang data topeng dalam lapisan file PSD ketika lapisan hanya memiliki topeng raster atau vektor tetapi tidak keduanya. Jika tidak, digunakan [`LayerMaskDataFull`](../aspose.psd.fileformats.psd.layers/layermaskdatafull/). Jika lapisan hanya memiliki topeng raster, ImageData berisi byte data topeng raster. Jika lapisan hanya memiliki topeng vektor, ImageData berisi byte data topeng vektor yang dirasterisasi (cached). Panjang byte [`ImageData`](../aspose.psd.fileformats.psd.layers/layermaskdata/imagedata/) harus sama dengan Lebar * Tinggi dari properti [`MaskRectangle`](../aspose.psd.fileformats.psd.layers/layermaskdata/maskrectangle/). |
+| [LayerResource](./layerresource/) | Mewakili informasi lapisan. |
+| [LayerResourcesRegistry](./layerresourcesregistry/) | Mendefinisikan registri sumber daya lapisan untuk pemuatan file PSD. |
+| [LinkedLayersManager](./linkedlayersmanager/) | Kelas manajer lapisan terkait. |
+| [SectionDividerLayer](./sectiondividerlayer/) | Lapisan pembagi bagian untuk menandai batas folder (grup lapisan). |
+| [ShapeLayer](./shapelayer/) | Lapisan Bentuk. Membungkus logika kerja dengan lapisan Bentuk dan sumber daya terkait. |
 | [TextLayer](./textlayer/) | Kelas lapisan teks |
 ## Antarmuka
 
-| Antarmuka | Keterangan |
+| Antarmuka | Deskripsi |
 | --- | --- |
-| [IGradientColorPoint](./igradientcolorpoint/) | Antarmuka dasar untuk pengaturan isian |
+| [IGradientColorPoint](./igradientcolorpoint/) | Antarmuka dasar untuk pengaturan isi |
 | [ILayerResourceLoader](./ilayerresourceloader/) | Pemuat sumber daya lapisan. |
-## Pencacahan
+| [IShapeLayer](./ishapelayer/) | Menjelaskan properti lapisan Bentuk. |
+## Enumerasi
 
-| Pencacahan | Keterangan |
+| Enumerasi | Deskripsi |
 | --- | --- |
 | [LayerFlags](./layerflags/) | Bendera lapisan |
-| [LayerMaskFlags](./layermaskflags/) | Bendera layer mask |
+| [LayerMaskFlags](./layermaskflags/) | Bendera topeng lapisan |
 
 

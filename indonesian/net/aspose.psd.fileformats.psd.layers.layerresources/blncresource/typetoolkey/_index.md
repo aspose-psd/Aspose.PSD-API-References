@@ -1,23 +1,24 @@
 ---
-title: BlncResource.TypeToolKey
-second_title: Aspose.PSD untuk Referensi .NET API
-description: BlncResource bidang. Kunci info alat jenis.
+title: "BlncResource.TypeToolKey"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "BlncResource bidang. Kunci info alat tipe"
 type: docs
-weight: 160
+weight: 140
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources/blncresource/typetoolkey/
 ---
+{{< psd/tize >}}
 ## BlncResource.TypeToolKey field
 
-Kunci info alat jenis.
+Kunci info alat tipe.
 
 ```csharp
 public const int TypeToolKey;
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [BlncResource](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../blncresource/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

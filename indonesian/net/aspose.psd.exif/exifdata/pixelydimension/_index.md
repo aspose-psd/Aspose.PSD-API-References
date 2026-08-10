@@ -1,27 +1,28 @@
 ---
-title: ExifData.PixelYDimension
-second_title: Aspose.PSD untuk Referensi .NET API
-description: ExifData Properti. Mendapat atau menyetel dimensi piksel y.
+title: "ExifData.PixelYDimension"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti ExifData. Mendapatkan atau mengatur dimensi y piksel"
 type: docs
 weight: 850
 url: /id/net/aspose.psd.exif/exifdata/pixelydimension/
 ---
+{{< psd/tize >}}
 ## ExifData.PixelYDimension property
 
-Mendapat atau menyetel dimensi piksel y.
+Mendapatkan atau mengatur dimensi y piksel.
 
 ```csharp
 public uint PixelYDimension { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
-Dimensi piksel y.
+Dimensi y piksel.
 
-### Lihat juga
+### Lihat Juga
 
 * class [ExifData](../)
-* ruang nama [Aspose.PSD.Exif](../../exifdata/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

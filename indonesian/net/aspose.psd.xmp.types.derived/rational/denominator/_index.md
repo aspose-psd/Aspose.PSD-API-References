@@ -1,27 +1,28 @@
 ---
-title: Rational.Denominator
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Rational Properti. Mendapat atau menyetel penyebut.
+title: "Rational.Denominator"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti Rational. Mendapatkan atau mengatur penyebut"
 type: docs
 weight: 20
 url: /id/net/aspose.psd.xmp.types.derived/rational/denominator/
 ---
+{{< psd/tize >}}
 ## Rational.Denominator property
 
-Mendapat atau menyetel penyebut.
+Mendapatkan atau mengatur penyebut.
 
 ```csharp
 public int Denominator { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
 Penyebut.
 
-### Lihat juga
+### Lihat Juga
 
 * class [Rational](../)
-* ruang nama [Aspose.PSD.Xmp.Types.Derived](../../rational/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Derived](../../../aspose.psd.xmp.types.derived/)
+* assembly [Aspose.PSD](../../../)
 
 

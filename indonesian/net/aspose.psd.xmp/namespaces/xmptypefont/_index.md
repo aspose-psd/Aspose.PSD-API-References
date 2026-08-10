@@ -1,23 +1,24 @@
 ---
-title: Namespaces.XmpTypeFont
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Namespaces bidang. Jenis Font XMP.
+title: "Namespaces.XmpTypeFont"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Bidang Namespaces. Tipe Font XMP"
 type: docs
 weight: 130
 url: /id/net/aspose.psd.xmp/namespaces/xmptypefont/
 ---
+{{< psd/tize >}}
 ## Namespaces.XmpTypeFont field
 
-Jenis Font XMP.
+Tipe XMP Font.
 
 ```csharp
 public const string XmpTypeFont;
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [Namespaces](../)
-* ruang nama [Aspose.PSD.Xmp](../../namespaces/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,34 +1,35 @@
 ---
-title: PsdImage.AddTextLayer
-second_title: Aspose.PSD untuk Referensi .NET API
-description: PsdImage metode. Menambahkan layer Teks baru.
+title: "PsdImage.AddTextLayer"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode PsdImage. Menambahkan lapisan Teks baru"
 type: docs
-weight: 420
+weight: 470
 url: /id/net/aspose.psd.fileformats.psd/psdimage/addtextlayer/
 ---
+{{< psd/tize >}}
 ## PsdImage.AddTextLayer method
 
-Menambahkan layer Teks baru.
+Menambahkan lapisan Teks baru.
 
 ```csharp
 public TextLayer AddTextLayer(string text, Rectangle rect)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| text | String | Teks layer. |
-| rect | Rectangle | Persegi panjang layer. |
+| text | String | Teks lapisan. |
+| rect | Rectangle | Persegi panjang lapisan. |
 
-### Nilai Pengembalian
+### Nilai Kembalian
 
 Lapisan teks dibuat.
 
-### Lihat juga
+### Lihat Juga
 
 * class [TextLayer](../../../aspose.psd.fileformats.psd.layers/textlayer/)
 * struct [Rectangle](../../../aspose.psd/rectangle/)
 * class [PsdImage](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

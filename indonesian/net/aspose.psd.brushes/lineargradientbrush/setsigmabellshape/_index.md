@@ -1,11 +1,12 @@
 ---
-title: LinearGradientBrush.SetSigmaBellShape
-second_title: Aspose.PSD untuk Referensi .NET API
-description: LinearGradientBrush metode. Membuat penurunan gradien berdasarkan kurva berbentuk lonceng.
+title: "LinearGradientBrush.SetSigmaBellShape"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode LinearGradientBrush. Membuat penurunan gradasi berdasarkan kurva berbentuk lonceng"
 type: docs
-weight: 60
+weight: 80
 url: /id/net/aspose.psd.brushes/lineargradientbrush/setsigmabellshape/
 ---
+{{< psd/tize >}}
 ## SetSigmaBellShape(float) {#setsigmabellshape}
 
 Membuat penurunan gradien berdasarkan kurva berbentuk lonceng.
@@ -14,15 +15,15 @@ Membuat penurunan gradien berdasarkan kurva berbentuk lonceng.
 public void SetSigmaBellShape(float focus)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| focus | Single | Nilai dari 0 hingga 1 yang menentukan pusat gradien (titik di mana warna awal dan warna akhir tercampur rata). |
+| fokus | Single | Nilai antara 0 hingga 1 yang menentukan pusat gradasi (titik di mana warna awal dan warna akhir dicampur secara merata). |
 
-### Lihat juga
+### Lihat Juga
 
 * class [LinearGradientBrush](../)
-* ruang nama [Aspose.PSD.Brushes](../../lineargradientbrush/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
@@ -34,15 +35,15 @@ Membuat penurunan gradien berdasarkan kurva berbentuk lonceng.
 public void SetSigmaBellShape(float focus, float scale)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| focus | Single | Nilai dari 0 hingga 1 yang menentukan pusat gradien (titik di mana gradien hanya terdiri dari warna akhir). |
-| scale | Single | Nilai dari 0 hingga 1 yang menentukan seberapa cepat warna jatuh dari*focus*. |
+| fokus | Single | Nilai antara 0 hingga 1 yang menentukan pusat gradasi (titik di mana gradasi terdiri hanya dari warna akhir). |
+| scale | Single | Nilai antara 0 hingga 1 yang menentukan seberapa cepat warna menurun dari *fokus*. |
 
-### Lihat juga
+### Lihat Juga
 
 * class [LinearGradientBrush](../)
-* ruang nama [Aspose.PSD.Brushes](../../lineargradientbrush/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,24 +1,25 @@
 ---
-title: LiFeDataSource.AdobeStockLicenseState
-second_title: Aspose.PSD untuk Referensi .NET API
-description: LiFeDataSource Properti. Mendapatkan status lisensi adobe stock jika tersedia untuk perpustakaan Adobe Photoshop CC.
+title: "LiFeDataSource.AdobeStockLicenseState"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti LiFeDataSource. Mendapatkan status lisensi adobe stock jika tersedia untuk perpustakaan Adobe Photoshop CC"
 type: docs
 weight: 30
 url: /id/net/aspose.psd.fileformats.psd.layers.layerresources/lifedatasource/adobestocklicensestate/
 ---
+{{< psd/tize >}}
 ## LiFeDataSource.AdobeStockLicenseState property
 
-Mendapatkan status lisensi adobe stock jika tersedia, untuk perpustakaan Adobe® Photoshop® CC.
+Mendapatkan status lisensi Adobe Stock jika tersedia, untuk Adobe® Photoshop® CC libraries.
 
 ```csharp
 public string AdobeStockLicenseState { get; }
 ```
 
-### Nilai properti
+### Property Value
 
-Keadaan lisensi saham adobe atau string kosong jika tidak tersedia.
+Status lisensi Adobe Stock atau string kosong jika tidak tersedia.
 
-### Contoh
+## Contoh
 
 Kode berikut menunjukkan dukungan sumber daya LnkeResource.
 
@@ -242,10 +243,10 @@ ExampleOfComplexLnkEResourceSupport(
     ComplexLnkEResourceSupportCases);
 ```
 
-### Lihat juga
+### Lihat Juga
 
 * class [LiFeDataSource](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../lifedatasource/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: Timecode.GetHashCode
-second_title: Aspose.PSD untuk Referensi .NET API
-description: Timecode metode. Mengembalikan kode hash untuk instance ini.
+title: "Timecode.GetHashCode"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode Timecode. Mengembalikan kode hash untuk instance ini"
 type: docs
 weight: 50
 url: /id/net/aspose.psd.xmp.schemas.xmpdm/timecode/gethashcode/
 ---
+{{< psd/tize >}}
 ## Timecode.GetHashCode method
 
 Mengembalikan kode hash untuk instance ini.
@@ -14,14 +15,14 @@ Mengembalikan kode hash untuk instance ini.
 public override int GetHashCode()
 ```
 
-### Nilai Pengembalian
+### Nilai Kembalian
 
-Kode hash untuk instance ini, cocok untuk digunakan dalam algoritme hashing dan struktur data seperti tabel hash.
+Kode hash untuk instance ini, cocok untuk digunakan dalam algoritma hashing dan struktur data seperti tabel hash.
 
-### Lihat juga
+### Lihat Juga
 
 * class [Timecode](../)
-* ruang nama [Aspose.PSD.Xmp.Schemas.XmpDm](../../timecode/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpDm](../../../aspose.psd.xmp.schemas.xmpdm/)
+* assembly [Aspose.PSD](../../../)
 
 

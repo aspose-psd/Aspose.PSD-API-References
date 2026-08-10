@@ -1,39 +1,40 @@
 ---
-title: ImageLoadersRegistry.GetFirstSupportedDescriptor
-second_title: Aspose.PSD untuk Referensi .NET API
-description: ImageLoadersRegistry metode. Mendapat peninju yang ditemukan deskriptor yang didukung cocok untuk yang ditentukanstream dan opsionalloadOptions .
+title: "ImageLoadersRegistry.GetFirstSupportedDescriptor"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Metode ImageLoadersRegistry. Mendapatkan deskriptor yang didukung pertama yang ditemukan yang cocok untuk *stream* yang ditentukan dan opsional *loadOptions*"
 type: docs
 weight: 40
 url: /id/net/aspose.psd/imageloadersregistry/getfirstsupporteddescriptor/
 ---
+{{< psd/tize >}}
 ## ImageLoadersRegistry.GetFirstSupportedDescriptor method
 
-Mendapat peninju yang ditemukan deskriptor yang didukung cocok untuk yang ditentukan*stream* dan opsional*loadOptions* .
+Mendapatkan deskriptor yang didukung pertama yang ditemukan yang cocok untuk *stream* yang ditentukan dan opsional *loadOptions*.
 
 ```csharp
 public static IImageLoaderDescriptor GetFirstSupportedDescriptor(Stream stream, 
     LoadOptions loadOptions)
 ```
 
-| Parameter | Jenis | Keterangan |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
 | stream | Stream | Aliran. |
-| loadOptions | LoadOptions | Opsi beban. |
+| loadOptions | LoadOptions | Opsi pemuatan. |
 
-### Nilai Pengembalian
+### Nilai Kembalian
 
-Deskriptor loader yang mendukung yang ditentukan*stream* Dan*loadOptions* atau null jika deskriptor tersebut tidak ditemukan.
+Deskriptor pemuat yang mendukung *stream* dan *loadOptions* yang ditentukan atau null jika tidak ada deskriptor seperti itu.
 
-### Perkataan
+## Catatan
 
-Deskriptor loader pertama sebenarnya adalah yang terakhir didaftarkan.
+Deskriptor pemuat pertama sebenarnya akan menjadi yang terakhir terdaftar.
 
-### Lihat juga
+### Lihat Juga
 
 * interface [IImageLoaderDescriptor](../../iimageloaderdescriptor/)
 * class [LoadOptions](../../loadoptions/)
 * class [ImageLoadersRegistry](../)
-* ruang nama [Aspose.PSD](../../imageloadersregistry/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

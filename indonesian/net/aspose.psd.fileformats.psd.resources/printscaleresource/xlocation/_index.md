@@ -1,27 +1,28 @@
 ---
-title: PrintScaleResource.XLocation
-second_title: Aspose.PSD untuk Referensi .NET API
-description: PrintScaleResource Properti. Mendapat atau menetapkan lokasi x.
+title: "PrintScaleResource.XLocation"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti PrintScaleResource. Mendapatkan atau mengatur lokasi x"
 type: docs
 weight: 60
 url: /id/net/aspose.psd.fileformats.psd.resources/printscaleresource/xlocation/
 ---
+{{< psd/tize >}}
 ## PrintScaleResource.XLocation property
 
-Mendapat atau menetapkan lokasi x.
+Mendapatkan atau mengatur lokasi x.
 
 ```csharp
 public float XLocation { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
 Lokasi x.
 
-### Lihat juga
+### Lihat Juga
 
 * class [PrintScaleResource](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Resources](../../printscaleresource/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

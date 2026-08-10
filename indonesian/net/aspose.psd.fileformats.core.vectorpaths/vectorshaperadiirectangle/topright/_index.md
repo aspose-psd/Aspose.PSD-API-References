@@ -1,27 +1,28 @@
 ---
-title: VectorShapeRadiiRectangle.TopRight
-second_title: Aspose.PSD untuk Referensi .NET API
-description: VectorShapeRadiiRectangle Properti. Mendapat atau menyetel kanan atas.
+title: "VectorShapeRadiiRectangle.TopRight"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti VectorShapeRadiiRectangle. Mendapatkan atau mengatur kanan atas"
 type: docs
 weight: 60
 url: /id/net/aspose.psd.fileformats.core.vectorpaths/vectorshaperadiirectangle/topright/
 ---
+{{< psd/tize >}}
 ## VectorShapeRadiiRectangle.TopRight property
 
-Mendapat atau menyetel kanan atas.
+Mendapatkan atau mengatur kanan atas.
 
 ```csharp
 public double TopRight { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
 Kanan atas.
 
-### Lihat juga
+### Lihat Juga
 
 * class [VectorShapeRadiiRectangle](../)
-* ruang nama [Aspose.PSD.FileFormats.Core.VectorPaths](../../vectorshaperadiirectangle/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../../)
 
 

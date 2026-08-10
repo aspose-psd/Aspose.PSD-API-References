@@ -1,27 +1,28 @@
 ---
-title: ColorTransferFunctionsResource.ColorTransferData
-second_title: Aspose.PSD untuk Referensi .NET API
-description: ColorTransferFunctionsResource Properti. Mendapat atau menyetel data transfer warna.
+title: "ColorTransferFunctionsResource.ColorTransferData"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti ColorTransferFunctionsResource. Mendapatkan atau mengatur data transfer warna"
 type: docs
 weight: 20
 url: /id/net/aspose.psd.fileformats.psd.resources/colortransferfunctionsresource/colortransferdata/
 ---
+{{< psd/tize >}}
 ## ColorTransferFunctionsResource.ColorTransferData property
 
-Mendapat atau menyetel data transfer warna.
+Mendapatkan atau mengatur data transfer warna.
 
 ```csharp
 public byte[] ColorTransferData { get; set; }
 ```
 
-### Nilai properti
+### Property Value
 
 Data transfer warna.
 
-### Lihat juga
+### Lihat Juga
 
 * class [ColorTransferFunctionsResource](../)
-* ruang nama [Aspose.PSD.FileFormats.Psd.Resources](../../colortransferfunctionsresource/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

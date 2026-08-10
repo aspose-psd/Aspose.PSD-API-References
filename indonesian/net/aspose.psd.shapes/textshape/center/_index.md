@@ -1,11 +1,12 @@
 ---
-title: TextShape.Center
-second_title: Aspose.PSD untuk Referensi .NET API
-description: TextShape Properti. Mendapatkan pusat bentuk.
+title: "TextShape.Center"
+second_title: "Aspose.PSD untuk Referensi API .NET"
+description: "Properti TextShape. Mendapatkan pusat bentuk"
 type: docs
 weight: 30
 url: /id/net/aspose.psd.shapes/textshape/center/
 ---
+{{< psd/tize >}}
 ## TextShape.Center property
 
 Mendapatkan pusat bentuk.
@@ -14,15 +15,15 @@ Mendapatkan pusat bentuk.
 public override PointF Center { get; }
 ```
 
-### Nilai properti
+### Property Value
 
-Pusat bentuknya.
+Pusat bentuk.
 
-### Lihat juga
+### Lihat Juga
 
 * struct [PointF](../../../aspose.psd/pointf/)
 * class [TextShape](../)
-* ruang nama [Aspose.PSD.Shapes](../../textshape/)
-* perakitan [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 
