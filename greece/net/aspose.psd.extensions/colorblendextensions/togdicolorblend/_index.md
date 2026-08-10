@@ -1,14 +1,15 @@
 ---
-title: ColorBlendExtensions.ToGdiColorBlend
-second_title: Aspose.PSD για Αναφορά API .NET
-description: ColorBlendExtensions μέθοδος. Μετατρέπει τοColorBlend προς τηνColorBlend .
+title: "ColorBlendExtensions.ToGdiColorBlend"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "ColorBlendExtensions μέθοδος. Μετατρέπει το ColorBlend σε ColorBlend"
 type: docs
 weight: 10
 url: /el/net/aspose.psd.extensions/colorblendextensions/togdicolorblend/
 ---
+{{< psd/tize >}}
 ## ColorBlendExtensions.ToGdiColorBlend method
 
-Μετατρέπει το[`ColorBlend`](../../../aspose.psd/colorblend/) προς τηνColorBlend .
+Μετατρέπει το [`ColorBlend`](../../../aspose.psd/colorblend/) σε ColorBlend.
 
 ```csharp
 public static ColorBlend ToGdiColorBlend(ColorBlend colorBlend)
@@ -16,17 +17,17 @@ public static ColorBlend ToGdiColorBlend(ColorBlend colorBlend)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| colorBlend | ColorBlend | Το χρωματικό μείγμα. |
+| colorBlend | ColorBlend | Το χρωματικό μίγμα. |
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-Οι μετατρεπόμενοιColorBlend.
+Το μετατρεπόμενο ColorBlend.
 
 ### Δείτε επίσης
 
 * class [ColorBlend](../../../aspose.psd/colorblend/)
 * class [ColorBlendExtensions](../)
-* χώρος ονομάτων [Aspose.PSD.Extensions](../../colorblendextensions/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Extensions](../../../aspose.psd.extensions/)
+* assembly [Aspose.PSD](../../../)
 
 

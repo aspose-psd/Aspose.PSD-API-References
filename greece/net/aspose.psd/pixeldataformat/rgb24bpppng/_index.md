@@ -1,27 +1,28 @@
 ---
-title: PixelDataFormat.Rgb24BppPng
-second_title: Aspose.PSD για Αναφορά API .NET
-description: PixelDataFormat ιδιοκτησία. Λαμβάνει τοPixelDataFormat ορίζεται για 24 bit ανά pixel με 8 bit για καθένα από τα άλφα κόκκινο πράσινο και μπλε το άλφα δεν ορίζεται.
+title: "PixelDataFormat.Rgb24BppPng"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα PixelDataFormat. Λαμβάνει το PixelDataFormat που ορίζεται για 24 bits ανά pixel με 8 bits για καθένα από τα αλφα, κόκκινο, πράσινο και μπλε· το αλφα δεν ορίζεται"
 type: docs
 weight: 80
 url: /el/net/aspose.psd/pixeldataformat/rgb24bpppng/
 ---
+{{< psd/tize >}}
 ## PixelDataFormat.Rgb24BppPng property
 
-Λαμβάνει το[`PixelDataFormat`](../) ορίζεται για 24 bit ανά pixel με 8 bit για καθένα από τα άλφα, κόκκινο, πράσινο και μπλε, το άλφα δεν ορίζεται.
+Λαμβάνει το [`PixelDataFormat`](../) που ορίζεται για 24 bits ανά pixel με 8 bits για καθένα από τα αλφα, κόκκινο, πράσινο και μπλε· το αλφα δεν ορίζεται.
 
 ```csharp
 public static PixelDataFormat Rgb24BppPng { get; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Το[`PixelDataFormat`](../) ορίζεται για 24 bit ανά pixel με 8 bit για καθένα από τα άλφα, κόκκινο, πράσινο και μπλε, το άλφα δεν ορίζεται.
+Το [`PixelDataFormat`](../) που ορίζεται για 24 bits ανά pixel με 8 bits για καθένα από τα αλφα, κόκκινο, πράσινο και μπλε· το αλφα δεν ορίζεται.
 
 ### Δείτε επίσης
 
 * class [PixelDataFormat](../)
-* χώρος ονομάτων [Aspose.PSD](../../pixeldataformat/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

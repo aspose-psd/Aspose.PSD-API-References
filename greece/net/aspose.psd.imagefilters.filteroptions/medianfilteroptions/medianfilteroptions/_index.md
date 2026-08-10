@@ -1,14 +1,15 @@
 ---
-title: MedianFilterOptions.MedianFilterOptions
-second_title: Aspose.PSD για Αναφορά API .NET
-description: MedianFilterOptions κατασκευαστής. Αρχικοποιεί μια νέα παρουσία τουMedianFilterOptions τάξη.
+title: "MedianFilterOptions κατασκευαστής. Αρχικοποιεί μια νέα παρουσία της κλάσης MedianFilterOptions"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "MedianFilterOptions constructor. Initializes a new instance of the MedianFilterOptions class"
 type: docs
 weight: 10
 url: /el/net/aspose.psd.imagefilters.filteroptions/medianfilteroptions/medianfilteroptions/
 ---
+{{< psd/tize >}}
 ## MedianFilterOptions constructor
 
-Αρχικοποιεί μια νέα παρουσία του[`MedianFilterOptions`](../) τάξη.
+Αρχικοποιεί μια νέα παρουσία της κλάσης [`MedianFilterOptions`](../).
 
 ```csharp
 public MedianFilterOptions(int size)
@@ -16,12 +17,12 @@ public MedianFilterOptions(int size)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| size | Int32 | Το μέγεθος του ορθογωνίου φίλτρου. |
+| μέγεθος | Int32 | Το μέγεθος του ορθογωνίου φίλτρου. |
 
 ### Δείτε επίσης
 
 * class [MedianFilterOptions](../)
-* χώρος ονομάτων [Aspose.PSD.ImageFilters.FilterOptions](../../medianfilteroptions/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageFilters.FilterOptions](../../../aspose.psd.imagefilters.filteroptions/)
+* assembly [Aspose.PSD](../../../)
 
 

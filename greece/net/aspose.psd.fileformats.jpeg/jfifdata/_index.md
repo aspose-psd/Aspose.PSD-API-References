@@ -1,11 +1,12 @@
 ---
-title: Class JFIFData
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Aspose.PSD.FileFormats.Jpeg.JFIFData τάξη. Το τμήμα jfif.
+title: "Κλάση JFIFData"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Aspose.PSD.FileFormats.Jpeg.JFIFData class. Το τμήμα jfif"
 type: docs
-weight: 1470
+weight: 1480
 url: /el/net/aspose.psd.fileformats.jpeg/jfifdata/
 ---
+{{< psd/tize >}}
 ## JFIFData class
 
 Το τμήμα jfif.
@@ -16,13 +17,13 @@ public sealed class JFIFData
 
 ## Κατασκευαστές
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
-| [JFIFData](jfifdata/)() | Αρχικοποιεί μια νέα παρουσία του`JFIFData` τάξη. |
+| [JFIFData](jfifdata/)() | Αρχικοποιεί μια νέα παρουσία της κλάσης `JFIFData`. |
 
 ## Ιδιότητες
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
 | [DensityUnits](../../aspose.psd.fileformats.jpeg/jfifdata/densityunits/) { get; set; } | Λαμβάνει ή ορίζει τις μονάδες πυκνότητας. |
 | [Thumbnail](../../aspose.psd.fileformats.jpeg/jfifdata/thumbnail/) { get; set; } | Λαμβάνει ή ορίζει τη μικρογραφία. |
@@ -32,7 +33,7 @@ public sealed class JFIFData
 
 ### Δείτε επίσης
 
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Jpeg](../../aspose.psd.fileformats.jpeg/)
-* συνέλευση [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Jpeg](../../aspose.psd.fileformats.jpeg/)
+* assembly [Aspose.PSD](../../)
 
 

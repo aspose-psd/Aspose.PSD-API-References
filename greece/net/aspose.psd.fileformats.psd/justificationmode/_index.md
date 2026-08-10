@@ -1,11 +1,12 @@
 ---
-title: Enum JustificationMode
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Aspose.PSD.FileFormats.Psd.JustificationMode αρίθμηση. Η λειτουργία στοίχισης κειμένου.
+title: "Απαρίθμηση JustificationMode"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Aspose.PSD.FileFormats.Psd.JustificationMode enum. Η λειτουργία στοίχισης κειμένου"
 type: docs
-weight: 1650
+weight: 1690
 url: /el/net/aspose.psd.fileformats.psd/justificationmode/
 ---
+{{< psd/tize >}}
 ## JustificationMode enumeration
 
 Η λειτουργία στοίχισης κειμένου.
@@ -14,17 +15,17 @@ url: /el/net/aspose.psd.fileformats.psd/justificationmode/
 public enum JustificationMode
 ```
 
-### Αξίες
+### Τιμές
 
-| Ονομα | αξία | Περιγραφή |
+| Όνομα | Τιμή | Περιγραφή |
 | --- | --- | --- |
-| Left | `0` | Το κείμενο αριστερής στοίχισης. |
-| Right | `1` | Το κείμενο δεξιά στοίχισης. |
+| Left | `0` | Το αριστερό ευθυγραμμισμένο κείμενο. Σε λειτουργία αριστερά προς δεξιά, η θέση Left είναι Left. Σε λειτουργία δεξιά προς αριστερά, η θέση Left είναι Right. |
+| Right | `1` | Το δεξιό ευθυγραμμισμένο κείμενο. Σε λειτουργία αριστερά προς δεξιά, η θέση Right είναι Right. Σε λειτουργία δεξιά προς αριστερά, η θέση Right είναι Left. |
 | Center | `2` | Το κεντρικό κείμενο. |
 
-### Παραδείγματα
+## Παραδείγματα
 
-Ο ακόλουθος κώδικας δείχνει την υποστήριξη του JustificationMode enum για να ορίσετε τη στοίχιση κειμένου για τμήματα κειμένου.
+Ο παρακάτω κώδικας δείχνει την υποστήριξη της απαρίθμησης JustificationMode για ορισμό της στοίχισης κειμένου σε τμήματα κειμένου.
 
 ```csharp
 [C#]
@@ -57,7 +58,7 @@ using (var image = (PsdImage) Image.Load(src))
 
 ### Δείτε επίσης
 
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd](../../aspose.psd.fileformats.psd/)
-* συνέλευση [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../)
 
 

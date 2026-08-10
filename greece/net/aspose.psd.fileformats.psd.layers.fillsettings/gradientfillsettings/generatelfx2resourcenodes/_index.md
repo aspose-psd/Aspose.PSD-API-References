@@ -1,11 +1,12 @@
 ---
-title: GradientFillSettings.GenerateLfx2ResourceNodes
-second_title: Aspose.PSD για Αναφορά API .NET
-description: GradientFillSettings μέθοδος. Δημιουργεί τους κόμβους πόρων LFX2.
+title: "GradientFillSettings.GenerateLfx2ResourceNodes"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "GradientFillSettings μέθοδος. Δημιουργεί τους κόμβους πόρων LFX2"
 type: docs
-weight: 190
+weight: 100
 url: /el/net/aspose.psd.fileformats.psd.layers.fillsettings/gradientfillsettings/generatelfx2resourcenodes/
 ---
+{{< psd/tize >}}
 ## GradientFillSettings.GenerateLfx2ResourceNodes method
 
 Δημιουργεί τους κόμβους πόρων LFX2.
@@ -14,15 +15,15 @@ url: /el/net/aspose.psd.fileformats.psd.layers.fillsettings/gradientfillsettings
 public static List<OSTypeStructure> GenerateLfx2ResourceNodes()
 ```
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-Δημιουργήθηκε λίστα με[`OSTypeStructure`](../../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/)
+Δημιουργημένη λίστα του [`OSTypeStructure`](../../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/)
 
 ### Δείτε επίσης
 
 * class [OSTypeStructure](../../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/)
 * class [GradientFillSettings](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../gradientfillsettings/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../../)
 
 

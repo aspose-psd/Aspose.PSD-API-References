@@ -1,27 +1,28 @@
 ---
-title: LayerMaskDataFull.EnclosingBottom
-second_title: Aspose.PSD για Αναφορά API .NET
-description: LayerMaskDataFull ιδιοκτησία. Λαμβάνει ή ορίζει τη θέση μάσκας κάτω ράστερ που περικλείει στο επίπεδο εικόνας PSD.
+title: "LayerMaskDataFull.EnclosingBottom"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "LayerMaskDataFull ιδιότητα. Λαμβάνει ή ορίζει τη θέση του κάτω περιβάλλοντος raster mask στο στρώμα εικόνας PSD"
 type: docs
 weight: 30
 url: /el/net/aspose.psd.fileformats.psd.layers/layermaskdatafull/enclosingbottom/
 ---
+{{< psd/tize >}}
 ## LayerMaskDataFull.EnclosingBottom property
 
-Λαμβάνει ή ορίζει τη θέση μάσκας κάτω ράστερ που περικλείει στο επίπεδο εικόνας PSD.
+Λαμβάνει ή ορίζει τη θέση της κάτω raster μάσκας που περιβάλλει τη στρώση εικόνας PSD.
 
 ```csharp
 public int EnclosingBottom { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Η θέση της μάσκας κάτω στρώματος.
+Η θέση της κάτω μάσκας στρώσης.
 
 ### Δείτε επίσης
 
 * class [LayerMaskDataFull](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers](../../layermaskdatafull/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

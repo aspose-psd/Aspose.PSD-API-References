@@ -1,26 +1,27 @@
 ---
-title: GdFlResource.Dither
-second_title: Aspose.PSD για Αναφορά API .NET
-description: GdFlResource ιδιοκτησία. Λαμβάνει ή ορίζει μια τιμή που υποδεικνύει εάν αυτόGdFlResource είναι διχασμός.
+title: "GdFlResource.Dither"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "GdFlResource ιδιότητα. Λαμβάνει ή ορίζει μια τιμή που υποδεικνύει εάν αυτό το GdFlResource είναι dither"
 type: docs
-weight: 60
+weight: 70
 url: /el/net/aspose.psd.fileformats.psd.layers.layerresources/gdflresource/dither/
 ---
+{{< psd/tize >}}
 ## GdFlResource.Dither property
 
-Λαμβάνει ή ορίζει μια τιμή που υποδεικνύει εάν αυτό[`GdFlResource`](../) είναι διχασμός.
+Λαμβάνει ή ορίζει μια τιμή που υποδεικνύει εάν αυτό το [`GdFlResource`](../) είναι dither.
 
 ```csharp
 public bool Dither { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-`αληθής` αν διχάζει? σε διαφορετική περίπτωση,`ψευδής` .
+`true` εάν είναι θόλωση· διαφορετικά, `false`.
 
-### Παραδείγματα
+## Παραδείγματα
 
-Το ακόλουθο παράδειγμα δείχνει την υποστήριξη της φόρτωσης πόρων GdFlResource.
+Το παρακάτω παράδειγμα δείχνει την υποστήριξη της φόρτωσης πόρων GdFlResource.
 
 ```csharp
 [C#]
@@ -40,7 +41,7 @@ using (im)
             {
                 if (res is GdFlResource)
                 {
-                    // ΑΝΑΓΝΩΣΗ
+                    // Ανάγνωση
                     var resource = (GdFlResource)res;
                     if (resource.AlignWithLayer != false ||
                      (Math.Abs(resource.Angle - 45.0) > 0.001) ||
@@ -117,7 +118,7 @@ using (im)
 ### Δείτε επίσης
 
 * class [GdFlResource](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../gdflresource/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

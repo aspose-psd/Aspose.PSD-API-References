@@ -1,20 +1,21 @@
 ---
-title: PatternFillSettings.Color
-second_title: Aspose.PSD για Αναφορά API .NET
-description: PatternFillSettings ιδιοκτησία. Παίρνει ή ρυθμίζει το χρώμα.
+title: "PatternFillSettings.Color"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "PatternFillSettings ιδιότητα. Λαμβάνει ή ορίζει το χρώμα"
 type: docs
-weight: 20
+weight: 40
 url: /el/net/aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings/color/
 ---
+{{< psd/tize >}}
 ## PatternFillSettings.Color property
 
-Παίρνει ή ρυθμίζει το χρώμα.
+Λαμβάνει ή ορίζει το χρώμα.
 
 ```csharp
 public Color Color { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
 Το χρώμα.
 
@@ -22,7 +23,7 @@ public Color Color { get; set; }
 
 * struct [Color](../../../aspose.psd/color/)
 * class [PatternFillSettings](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../patternfillsettings/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../../)
 
 

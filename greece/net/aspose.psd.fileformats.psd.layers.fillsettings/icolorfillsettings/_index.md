@@ -1,14 +1,15 @@
 ---
-title: Interface IColorFillSettings
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Aspose.PSD.FileFormats.Psd.Layers.FillSettings.IColorFillSettings διεπαφή. Βασική διεπαφή για ρυθμίσεις πλήρωσης
+title: "Διεπαφή IColorFillSettings"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Aspose.PSD.FileFormats.Psd.Layers.FillSettings.IColorFillSettings διεπαφή. Βασική διεπαφή για ρυθμίσεις γεμίσματος"
 type: docs
-weight: 1990
+weight: 2110
 url: /el/net/aspose.psd.fileformats.psd.layers.fillsettings/icolorfillsettings/
 ---
+{{< psd/tize >}}
 ## IColorFillSettings interface
 
-Βασική διεπαφή για ρυθμίσεις πλήρωσης
+Βασική διεπαφή για ρυθμίσεις γεμίσματος
 
 ```csharp
 public interface IColorFillSettings : IFillSettings
@@ -16,14 +17,14 @@ public interface IColorFillSettings : IFillSettings
 
 ## Ιδιότητες
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
-| [Color](../../aspose.psd.fileformats.psd.layers.fillsettings/icolorfillsettings/color/) { get; set; } | Παίρνει ή ρυθμίζει το χρώμα. |
+| [Color](../../aspose.psd.fileformats.psd.layers.fillsettings/icolorfillsettings/color/) { get; set; } | Λαμβάνει ή ορίζει το χρώμα. |
 
 ### Δείτε επίσης
 
 * interface [IFillSettings](../ifillsettings/)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../aspose.psd.fileformats.psd.layers.fillsettings/)
-* συνέλευση [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../)
 
 

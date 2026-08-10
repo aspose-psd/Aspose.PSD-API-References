@@ -1,11 +1,12 @@
 ---
-title: CaptionDigestResource.CaptionDigestResource
-second_title: Aspose.PSD για Αναφορά API .NET
-description: CaptionDigestResource κατασκευαστής. Ο προεπιλεγμένος κατασκευαστής.
+title: "CaptionDigestResource.CaptionDigestResource"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "CaptionDigestResource constructor. Ο προεπιλεγμένος κατασκευαστής"
 type: docs
 weight: 10
 url: /el/net/aspose.psd.fileformats.psd.resources/captiondigestresource/captiondigestresource/
 ---
+{{< psd/tize >}}
 ## CaptionDigestResource constructor
 
 Ο προεπιλεγμένος κατασκευαστής.
@@ -17,7 +18,7 @@ public CaptionDigestResource()
 ### Δείτε επίσης
 
 * class [CaptionDigestResource](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Resources](../../captiondigestresource/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

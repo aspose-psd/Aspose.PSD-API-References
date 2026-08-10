@@ -1,27 +1,28 @@
 ---
-title: TimeFormat.Timecode25
-second_title: Aspose.PSD για Αναφορά API .NET
-description: TimeFormat ιδιοκτησία. Λαμβάνει τον timecode25.
+title: "TimeFormat.Timecode25"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα TimeFormat. Λαμβάνει το timecode25"
 type: docs
 weight: 70
 url: /el/net/aspose.psd.xmp.schemas.xmpdm/timeformat/timecode25/
 ---
+{{< psd/tize >}}
 ## TimeFormat.Timecode25 property
 
-Λαμβάνει τον timecode25.
+Λαμβάνει το timecode25.
 
 ```csharp
 public static TimeFormat Timecode25 { get; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Ο κωδικός χρόνου25.
+Ο timecode25.
 
 ### Δείτε επίσης
 
 * class [TimeFormat](../)
-* χώρος ονομάτων [Aspose.PSD.Xmp.Schemas.XmpDm](../../timeformat/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpDm](../../../aspose.psd.xmp.schemas.xmpdm/)
+* assembly [Aspose.PSD](../../../)
 
 

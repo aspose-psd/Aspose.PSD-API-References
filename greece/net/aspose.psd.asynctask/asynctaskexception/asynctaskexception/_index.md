@@ -1,14 +1,15 @@
 ---
-title: AsyncTaskException.AsyncTaskException
-second_title: Aspose.PSD για Αναφορά API .NET
-description: AsyncTaskException κατασκευαστής. Αρχικοποιεί μια νέα παρουσία τουAsyncTaskException τάξη.
+title: "AsyncTaskException.AsyncTaskException"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Κατασκευαστής AsyncTaskException. Αρχικοποιεί μια νέα παρουσία της κλάσης AsyncTaskException"
 type: docs
 weight: 10
 url: /el/net/aspose.psd.asynctask/asynctaskexception/asynctaskexception/
 ---
+{{< psd/tize >}}
 ## AsyncTaskException constructor
 
-Αρχικοποιεί μια νέα παρουσία του[`AsyncTaskException`](../) τάξη.
+Αρχικοποιεί μια νέα παρουσία της κλάσης [`AsyncTaskException`](../).
 
 ```csharp
 public AsyncTaskException(string message)
@@ -21,7 +22,7 @@ public AsyncTaskException(string message)
 ### Δείτε επίσης
 
 * class [AsyncTaskException](../)
-* χώρος ονομάτων [Aspose.PSD.AsyncTask](../../asynctaskexception/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.AsyncTask](../../../aspose.psd.asynctask/)
+* assembly [Aspose.PSD](../../../)
 
 

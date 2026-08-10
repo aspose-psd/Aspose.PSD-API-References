@@ -1,26 +1,27 @@
 ---
-title: BlackWhiteAdjustmentLayer.BwPresetKind
-second_title: Aspose.PSD για Αναφορά API .NET
-description: BlackWhiteAdjustmentLayer ιδιοκτησία. Λαμβάνει ή ορίζει την ασπρόμαυρη προκαθορισμένη τιμή είδους.
+title: "BlackWhiteAdjustmentLayer.BwPresetKind"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "BlackWhiteAdjustmentLayer ιδιότητα. Λαμβάνει ή ορίζει την τιμή του τύπου προεπιλογής ασπρόμαυρου"
 type: docs
 weight: 30
 url: /el/net/aspose.psd.fileformats.psd.layers.adjustmentlayers/blackwhiteadjustmentlayer/bwpresetkind/
 ---
+{{< psd/tize >}}
 ## BlackWhiteAdjustmentLayer.BwPresetKind property
 
-Λαμβάνει ή ορίζει την ασπρόμαυρη προκαθορισμένη τιμή είδους.
+Λαμβάνει ή ορίζει την τιμή του τύπου προεπιλογής μαύρο-άσπρου.
 
 ```csharp
 public int BwPresetKind { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Η ασπρόμαυρη προκαθορισμένη τιμή είδους.
+Η τιμή του τύπου προεπιλογής ασπρόμαυρου.
 
-### Παραδείγματα
+## Παραδείγματα
 
-Το ακόλουθο παράδειγμα δείχνει πώς μπορείτε να χειριστείτε τις ιδιότητες του επιπέδου προσαρμογής μαύρου λευκού στο Aspose.PSD
+Το παρακάτω παράδειγμα δείχνει πώς μπορείτε να διαχειριστείτε τις ιδιότητες του στρώματος ρυθμίσεων ασπρόμαυρου στο Aspose.PSD
 
 ```csharp
 [C#]
@@ -51,7 +52,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFileName))
 ### Δείτε επίσης
 
 * class [BlackWhiteAdjustmentLayer](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../blackwhiteadjustmentlayer/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/)
+* assembly [Aspose.PSD](../../../)
 
 

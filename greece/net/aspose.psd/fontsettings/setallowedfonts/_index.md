@@ -1,14 +1,15 @@
 ---
-title: FontSettings.SetAllowedFonts
-second_title: Aspose.PSD για Αναφορά API .NET
-description: FontSettings μέθοδος. Περιορίζει τη γραμματοσειρά χρησιμοποιώντας κατά λίστα γραμματοσειρών. Ελέγξτε τα πραγματικά ονόματα γραμματοσειρών πριν από περιορισμό Ορίστε τη λίστα επιτρεπόμενων γραμματοσειρών σε Null για να αφαιρέσετε limitrions
+title: "FontSettings.SetAllowedFonts"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Μέθοδος FontSettings. Περιορίζει τη χρήση γραμματοσειρών με λίστα γραμματοσειρών. Παρακαλώ ελέγξτε τα πραγματικά ονόματα γραμματοσειρών πριν από τον περιορισμό. Ορίστε τη λίστα επιτρεπόμενων γραμματοσειρών σε Null για να αφαιρέσετε τους περιορισμούς"
 type: docs
-weight: 100
+weight: 120
 url: /el/net/aspose.psd/fontsettings/setallowedfonts/
 ---
+{{< psd/tize >}}
 ## FontSettings.SetAllowedFonts method
 
-Περιορίζει τη γραμματοσειρά χρησιμοποιώντας κατά λίστα γραμματοσειρών. Ελέγξτε τα πραγματικά ονόματα γραμματοσειρών πριν από περιορισμό Ορίστε τη λίστα επιτρεπόμενων γραμματοσειρών σε Null για να αφαιρέσετε limitrions
+Περιορίζει τη χρήση γραμματοσειρών με βάση λίστα γραμματοσειρών. Παρακαλώ ελέγξτε τα πραγματικά ονόματα γραμματοσειρών πριν από τον περιορισμό. Ορίστε τη λίστα επιτρεπόμενων γραμματοσειρών σε Null για να αφαιρέσετε τους περιορισμούς.
 
 ```csharp
 public static void SetAllowedFonts(string[] fontList)
@@ -18,9 +19,9 @@ public static void SetAllowedFonts(string[] fontList)
 | --- | --- | --- |
 | fontList | String[] | Η λίστα γραμματοσειρών. |
 
-### Παραδείγματα
+## Παραδείγματα
 
-Ο παρακάτω κώδικας δείχνει τη δυνατότητα προγραμματισμού περιορισμού γραμματοσειρών με χρήση.
+Ο παρακάτω κώδικας δείχνει τη δυνατότητα περιορισμού των γραμματοσειρών προγραμματιστικά χρησιμοποιώντας.
 
 ```csharp
 [C#]
@@ -43,7 +44,8 @@ try
     FontSettings.SetFontReplacements("Arial", arialReplacement);
     FontSettings.SetFontReplacements("Times New Roman", timesReplacement);
 
-    using (PsdImage image = (PsdImage)Image.Load(srcFile))
+    using (PsdImage image = (PsdImage)Image.Load(srcFile,
+        new PsdLoadOptions() { AllowNonChangedLayerRepaint = true }))
     {
         image.Save(output, new PngOptions() { ColorType = PngColorType.TruecolorWithAlpha });
     }
@@ -58,7 +60,7 @@ finally
 ### Δείτε επίσης
 
 * class [FontSettings](../)
-* χώρος ονομάτων [Aspose.PSD](../../fontsettings/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

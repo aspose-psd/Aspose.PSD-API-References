@@ -1,14 +1,15 @@
 ---
-title: XmpPackage.Item
-second_title: Aspose.PSD για Αναφορά API .NET
-description: XmpPackage ιδιοκτησία. Λαμβάνει ή ορίζει τοObject με το καθορισμένο κλειδί.
+title: "XmpPackage.Item"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα XmpPackage. Λαμβάνει ή ορίζει το Object με το καθορισμένο κλειδί"
 type: docs
 weight: 10
 url: /el/net/aspose.psd.xmp/xmppackage/item/
 ---
+{{< psd/tize >}}
 ## XmpPackage indexer
 
-Λαμβάνει ή ορίζει τοObject με το καθορισμένο κλειδί.
+Λαμβάνει ή ορίζει το Object με το καθορισμένο κλειδί.
 
 ```csharp
 public virtual object this[string key] { get; set; }
@@ -16,20 +17,20 @@ public virtual object this[string key] { get; set; }
 
 | Παράμετρος | Περιγραφή |
 | --- | --- |
-| key | Το κλειδί που προσδιορίζει την αξία. |
+| κλειδί | Το κλειδί που αναγνωρίζει την τιμή. |
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-Επιστρέφει τοObject με το καθορισμένο κλειδί.
+Επιστρέφει το Object με το καθορισμένο κλειδί.
 
-### Αξία περιουσίας
+### Property Value
 
-ΤοObject .
+Το Object.
 
 ### Δείτε επίσης
 
 * class [XmpPackage](../)
-* χώρος ονομάτων [Aspose.PSD.Xmp](../../xmppackage/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

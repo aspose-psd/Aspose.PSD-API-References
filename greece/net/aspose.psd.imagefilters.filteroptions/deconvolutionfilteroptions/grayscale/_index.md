@@ -1,27 +1,28 @@
 ---
-title: DeconvolutionFilterOptions.Grayscale
-second_title: Aspose.PSD για Αναφορά API .NET
-description: DeconvolutionFilterOptions ιδιοκτησία. Λαμβάνει ή ορίζει μια τιμή που υποδεικνύει εάν αυτόDeconvolutionFilterOptions είναι σε κλίμακα του γκρι. Επιστροφή σε λειτουργία κλίμακας του γκρι ή λειτουργία RGB.
+title: "DeconvolutionFilterOptions.Grayscale"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "DeconvolutionFilterOptions ιδιότητα. Λαμβάνει ή ορίζει μια τιμή που υποδεικνύει εάν αυτό το DeconvolutionFilterOptions είναι σε αποχρώσεις του γκρι. Επιστρέφει λειτουργία αποχρώσεων του γκρι ή λειτουργία RGB"
 type: docs
 weight: 20
 url: /el/net/aspose.psd.imagefilters.filteroptions/deconvolutionfilteroptions/grayscale/
 ---
+{{< psd/tize >}}
 ## DeconvolutionFilterOptions.Grayscale property
 
-Λαμβάνει ή ορίζει μια τιμή που υποδεικνύει εάν αυτό[`DeconvolutionFilterOptions`](../) είναι σε κλίμακα του γκρι. Επιστροφή σε λειτουργία κλίμακας του γκρι ή λειτουργία RGB.
+Λαμβάνει ή ορίζει μια τιμή που υποδεικνύει εάν αυτό το [`DeconvolutionFilterOptions`](../) είναι σε αποχρώσεις του γκρι. Επιστρέφει λειτουργία αποχρώσεων του γκρι ή λειτουργία RGB.
 
 ```csharp
 public bool Grayscale { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-`αληθής` εάν κλίμακα του γκρι? σε διαφορετική περίπτωση,`ψευδής` .
+`true` εάν είναι σε αποχρώσεις του γκρι· διαφορετικά, `false`.
 
 ### Δείτε επίσης
 
 * class [DeconvolutionFilterOptions](../)
-* χώρος ονομάτων [Aspose.PSD.ImageFilters.FilterOptions](../../deconvolutionfilteroptions/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageFilters.FilterOptions](../../../aspose.psd.imagefilters.filteroptions/)
+* assembly [Aspose.PSD](../../../)
 
 

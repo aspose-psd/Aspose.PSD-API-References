@@ -1,11 +1,12 @@
 ---
-title: IObjectWithSizeF.HeightF
-second_title: Aspose.PSD για Αναφορά API .NET
-description: IObjectWithSizeF ιδιοκτησία. Λαμβάνει το ύψος του αντικειμένου σε ίντσες.
+title: "IObjectWithSizeF.HeightF"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα IObjectWithSizeF. Λαμβάνει το ύψος του αντικειμένου σε ίντσες"
 type: docs
 weight: 10
 url: /el/net/aspose.psd.interfaces/iobjectwithsizef/heightf/
 ---
+{{< psd/tize >}}
 ## IObjectWithSizeF.HeightF property
 
 Λαμβάνει το ύψος του αντικειμένου, σε ίντσες.
@@ -14,14 +15,14 @@ url: /el/net/aspose.psd.interfaces/iobjectwithsizef/heightf/
 public float HeightF { get; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
 Το ύψος του αντικειμένου, σε ίντσες.
 
 ### Δείτε επίσης
 
 * interface [IObjectWithSizeF](../)
-* χώρος ονομάτων [Aspose.PSD.Interfaces](../../iobjectwithsizef/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Interfaces](../../../aspose.psd.interfaces/)
+* assembly [Aspose.PSD](../../../)
 
 

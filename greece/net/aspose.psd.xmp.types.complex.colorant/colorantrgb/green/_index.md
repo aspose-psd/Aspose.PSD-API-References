@@ -1,27 +1,28 @@
 ---
-title: ColorantRgb.Green
-second_title: Aspose.PSD για Αναφορά API .NET
-description: ColorantRgb ιδιοκτησία. Λαμβάνει ή ορίζει την τιμή του πράσινου στοιχείου.
+title: "ColorantRgb.Green"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα ColorantRgb. Λαμβάνει ή ορίζει την τιμή του πράσινου συστατικού"
 type: docs
 weight: 30
 url: /el/net/aspose.psd.xmp.types.complex.colorant/colorantrgb/green/
 ---
+{{< psd/tize >}}
 ## ColorantRgb.Green property
 
-Λαμβάνει ή ορίζει την τιμή του πράσινου στοιχείου.
+Λαμβάνει ή ορίζει την τιμή του στοιχείου πράσινου.
 
 ```csharp
 public byte Green { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Η τιμή του πράσινου στοιχείου.
+Η τιμή του πράσινου συστατικού.
 
 ### Δείτε επίσης
 
 * class [ColorantRgb](../)
-* χώρος ονομάτων [Aspose.PSD.Xmp.Types.Complex.Colorant](../../colorantrgb/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.Colorant](../../../aspose.psd.xmp.types.complex.colorant/)
+* assembly [Aspose.PSD](../../../)
 
 

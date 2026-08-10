@@ -1,20 +1,21 @@
 ---
-title: ExifData.ColorSpace
-second_title: Aspose.PSD για Αναφορά API .NET
-description: ExifData ιδιοκτησία. Λαμβάνει ή ορίζει τον χρωματικό χώρο.
+title: "ExifData.ColorSpace"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα ExifData. Λαμβάνει ή ορίζει το χρωματικό χώρο"
 type: docs
 weight: 70
 url: /el/net/aspose.psd.exif/exifdata/colorspace/
 ---
+{{< psd/tize >}}
 ## ExifData.ColorSpace property
 
-Λαμβάνει ή ορίζει τον χρωματικό χώρο.
+Λαμβάνει ή ορίζει το χρωματικό χώρο.
 
 ```csharp
 public ExifColorSpace ColorSpace { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
 Ο χρωματικός χώρος.
 
@@ -22,7 +23,7 @@ public ExifColorSpace ColorSpace { get; set; }
 
 * enum [ExifColorSpace](../../../aspose.psd.exif.enums/exifcolorspace/)
 * class [ExifData](../)
-* χώρος ονομάτων [Aspose.PSD.Exif](../../exifdata/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

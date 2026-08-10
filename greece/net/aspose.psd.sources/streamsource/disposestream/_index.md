@@ -1,27 +1,28 @@
 ---
-title: StreamSource.DisposeStream
-second_title: Aspose.PSD για Αναφορά API .NET
-description: StreamSource ιδιοκτησία. Λαμβάνει μια τιμή που υποδεικνύει εάν η ροή πρέπει να απορρίπτεται κάθε φορά που απορρίπτεται το δοχείο.
+title: "StreamSource.DisposeStream"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα StreamSource. Λαμβάνει μια τιμή που υποδεικνύει εάν η ροή πρέπει να απορριφθεί όταν το δοχείο απορριφθεί"
 type: docs
 weight: 20
 url: /el/net/aspose.psd.sources/streamsource/disposestream/
 ---
+{{< psd/tize >}}
 ## StreamSource.DisposeStream property
 
-Λαμβάνει μια τιμή που υποδεικνύει εάν η ροή πρέπει να απορρίπτεται κάθε φορά που απορρίπτεται το δοχείο.
+Λαμβάνει μια τιμή που υποδεικνύει εάν η ροή πρέπει να διαγραφεί όταν το δοχείο διαγραφεί.
 
 ```csharp
 public bool DisposeStream { get; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-`αληθής` εάν το ρεύμα πρέπει να απορριφθεί· σε διαφορετική περίπτωση,`ψευδής`.
+`true` εάν η ροή πρέπει να απορριφθεί· διαφορετικά, `false`.
 
 ### Δείτε επίσης
 
 * class [StreamSource](../)
-* χώρος ονομάτων [Aspose.PSD.Sources](../../streamsource/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Sources](../../../aspose.psd.sources/)
+* assembly [Aspose.PSD](../../../)
 
 

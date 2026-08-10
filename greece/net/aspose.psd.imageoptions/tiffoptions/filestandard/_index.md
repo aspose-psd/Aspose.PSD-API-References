@@ -1,11 +1,12 @@
 ---
-title: TiffOptions.FileStandard
-second_title: Aspose.PSD για Αναφορά API .NET
-description: TiffOptions ιδιοκτησία. Λαμβάνει ή ορίζει το πρότυπο αρχείου TIFF.
+title: "TiffOptions.FileStandard"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα TiffOptions. Λαμβάνει ή ορίζει το πρότυπο αρχείου TIFF"
 type: docs
-weight: 150
+weight: 160
 url: /el/net/aspose.psd.imageoptions/tiffoptions/filestandard/
 ---
+{{< psd/tize >}}
 ## TiffOptions.FileStandard property
 
 Λαμβάνει ή ορίζει το πρότυπο αρχείου TIFF.
@@ -14,7 +15,7 @@ url: /el/net/aspose.psd.imageoptions/tiffoptions/filestandard/
 public TiffFileStandards FileStandard { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
 Το πρότυπο αρχείου TIFF.
 
@@ -22,7 +23,7 @@ public TiffFileStandards FileStandard { get; set; }
 
 * enum [TiffFileStandards](../../../aspose.psd.fileformats.tiff.enums/tifffilestandards/)
 * class [TiffOptions](../)
-* χώρος ονομάτων [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

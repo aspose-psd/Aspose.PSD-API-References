@@ -1,27 +1,28 @@
 ---
-title: Font.FontFamily
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Font ιδιοκτησία. Λαμβάνει ή ορίζει την οικογένεια γραμματοσειρών.
+title: "Font.FontFamily"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα Font. Λαμβάνει ή ορίζει την οικογένεια γραμματοσειράς"
 type: docs
 weight: 40
 url: /el/net/aspose.psd.xmp.types.complex.font/font/fontfamily/
 ---
+{{< psd/tize >}}
 ## Font.FontFamily property
 
-Λαμβάνει ή ορίζει την οικογένεια γραμματοσειρών.
+Λαμβάνει ή ορίζει την οικογένεια γραμματοσειράς.
 
 ```csharp
 public string FontFamily { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Η οικογένεια γραμματοσειρών.
+Η οικογένεια γραμματοσειράς.
 
 ### Δείτε επίσης
 
 * class [Font](../)
-* χώρος ονομάτων [Aspose.PSD.Xmp.Types.Complex.Font](../../font/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.Font](../../../aspose.psd.xmp.types.complex.font/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: Source.GetStreamContainer
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Source μέθοδος. Λαμβάνει το κοντέινερ ροής.
+title: "Source.GetStreamContainer"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Μέθοδος Source. Λαμβάνει το κοντέινερ ροής"
 type: docs
 weight: 10
 url: /el/net/aspose.psd/source/getstreamcontainer/
 ---
+{{< psd/tize >}}
 ## Source.GetStreamContainer method
 
 Λαμβάνει το κοντέινερ ροής.
@@ -14,11 +15,11 @@ url: /el/net/aspose.psd/source/getstreamcontainer/
 public abstract StreamContainer GetStreamContainer()
 ```
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-το δοχείο του ρέματος.
+το δοχείο ροής.
 
-### Παρατηρήσεις
+## Σχόλια
 
 Χρησιμοποιήστε με προσοχή. Θα χρειαστεί να απορρίψετε το δοχείο ροής μετά την ανάκτηση.
 
@@ -26,7 +27,7 @@ public abstract StreamContainer GetStreamContainer()
 
 * class [StreamContainer](../../streamcontainer/)
 * class [Source](../)
-* χώρος ονομάτων [Aspose.PSD](../../source/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

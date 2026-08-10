@@ -1,20 +1,21 @@
 ---
-title: Graphics.SmoothingMode
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Graphics ιδιοκτησία. Λαμβάνει ή ρυθμίζει τη λειτουργία εξομάλυνσης.
+title: "Graphics.SmoothingMode"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα Graphics. Λαμβάνει ή ορίζει τη λειτουργία εξομάλυνσης"
 type: docs
-weight: 110
+weight: 120
 url: /el/net/aspose.psd/graphics/smoothingmode/
 ---
+{{< psd/tize >}}
 ## Graphics.SmoothingMode property
 
-Λαμβάνει ή ρυθμίζει τη λειτουργία εξομάλυνσης.
+Λαμβάνει ή ορίζει τη λειτουργία εξομάλυνσης.
 
 ```csharp
 public SmoothingMode SmoothingMode { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
 Η λειτουργία εξομάλυνσης.
 
@@ -22,7 +23,7 @@ public SmoothingMode SmoothingMode { get; set; }
 
 * enum [SmoothingMode](../../smoothingmode/)
 * class [Graphics](../)
-* χώρος ονομάτων [Aspose.PSD](../../graphics/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

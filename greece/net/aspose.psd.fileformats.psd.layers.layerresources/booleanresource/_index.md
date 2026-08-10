@@ -1,14 +1,15 @@
 ---
-title: Class BooleanResource
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.BooleanResource τάξη. Τάξη BooleanResource. Είναι ψευδοπόρος. Το Photoshop δεν το έχει
+title: "Class BooleanResource"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Aspose.PSD.FileFormats.Psd.Layers.LayerResources.BooleanResource class. Class BooleanResource. Ο ψευδοπόρος του. Το Photoshop δεν το διαθέτει"
 type: docs
-weight: 2330
+weight: 2590
 url: /el/net/aspose.psd.fileformats.psd.layers.layerresources/booleanresource/
 ---
+{{< psd/tize >}}
 ## BooleanResource class
 
-Τάξη BooleanResource. Είναι ψευδοπόρος. Το Photoshop δεν το έχει
+Κλάση BooleanResource. Είναι ψευδοπόρος. Το Photoshop δεν το διαθέτει.
 
 ```csharp
 public abstract class BooleanResource : LayerResource
@@ -16,24 +17,24 @@ public abstract class BooleanResource : LayerResource
 
 ## Ιδιότητες
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
-| abstract [Key](../../aspose.psd.fileformats.psd.layers/layerresource/key/) { get; } | Λαμβάνει το κλειδί πόρων επιπέδου. |
-| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/booleanresource/length/) { get; } | Λαμβάνει το μήκος του πόρου του επιπέδου σε byte. |
-| override [PsdVersion](../../aspose.psd.fileformats.psd.layers.layerresources/booleanresource/psdversion/) { get; } | Λαμβάνει την έκδοση psd. |
-| override [Signature](../../aspose.psd.fileformats.psd.layers.layerresources/booleanresource/signature/) { get; } | Παίρνει την υπογραφή. |
+| [Key](../../aspose.psd.fileformats.psd.layers/layerresource/key/) { get; } | Λαμβάνει το κλειδί πόρου του επιπέδου. |
+| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/booleanresource/length/) { get; } | Λαμβάνει το μήκος του πόρου του επιπέδου σε bytes. |
+| virtual [PsdVersion](../../aspose.psd.fileformats.psd.layers/layerresource/psdversion/) { get; } | Λαμβάνει την ελάχιστη έκδοση psd που απαιτείται για τον πόρο του επιπέδου. 0 υποδεικνύει ότι δεν υπάρχουν περιορισμοί. |
+| virtual [Signature](../../aspose.psd.fileformats.psd.layers/layerresource/signature/) { get; } | Λαμβάνει την υπογραφή. |
 
 ## Μέθοδοι
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
 | override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/booleanresource/save/)(StreamContainer, int) | Αποθηκεύει το καθορισμένο κοντέινερ ροής. |
-| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring/)() | Επιστρέφει αString που αντιπροσωπεύει αυτήν την περίπτωση. |
+| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring/)() | Επιστρέφει ένα String που αντιπροσωπεύει αυτήν την περίπτωση. |
 
 ### Δείτε επίσης
 
 * class [LayerResource](../../aspose.psd.fileformats.psd.layers/layerresource/)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
-* συνέλευση [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../)
 
 

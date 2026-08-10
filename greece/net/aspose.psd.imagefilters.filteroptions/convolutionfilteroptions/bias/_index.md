@@ -1,11 +1,12 @@
 ---
-title: ConvolutionFilterOptions.Bias
-second_title: Aspose.PSD για Αναφορά API .NET
-description: ConvolutionFilterOptions ιδιοκτησία. Λαμβάνει ή ορίζει την προκατάληψη.
+title: "ConvolutionFilterOptions.Bias"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα ConvolutionFilterOptions. Λαμβάνει ή ορίζει την προκατάληψη"
 type: docs
 weight: 20
 url: /el/net/aspose.psd.imagefilters.filteroptions/convolutionfilteroptions/bias/
 ---
+{{< psd/tize >}}
 ## ConvolutionFilterOptions.Bias property
 
 Λαμβάνει ή ορίζει την προκατάληψη.
@@ -14,14 +15,14 @@ url: /el/net/aspose.psd.imagefilters.filteroptions/convolutionfilteroptions/bias
 public int Bias { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
 Η προκατάληψη.
 
 ### Δείτε επίσης
 
 * class [ConvolutionFilterOptions](../)
-* χώρος ονομάτων [Aspose.PSD.ImageFilters.FilterOptions](../../convolutionfilteroptions/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageFilters.FilterOptions](../../../aspose.psd.imagefilters.filteroptions/)
+* assembly [Aspose.PSD](../../../)
 
 

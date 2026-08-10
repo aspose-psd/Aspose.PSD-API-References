@@ -1,27 +1,28 @@
 ---
-title: PixelDataFormat.YCbCr
-second_title: Aspose.PSD για Αναφορά API .NET
-description: PixelDataFormat ιδιοκτησία. Λαμβάνει τοPixelDataFormat ορίζεται για 24 bit ανά εικονοστοιχείο με 8 bit για καθένα από τα στοιχεία χρώματος luma μπλε διαφοράς και κόκκινης διαφοράς.
+title: "PixelDataFormat.YCbCr"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα PixelDataFormat. Λαμβάνει το PixelDataFormat που ορίζεται για 24 bits ανά pixel με 8 bits για το luma, τη διαφορά μπλε και τη διαφορά κόκκινο."
 type: docs
 weight: 160
 url: /el/net/aspose.psd/pixeldataformat/ycbcr/
 ---
+{{< psd/tize >}}
 ## PixelDataFormat.YCbCr property
 
-Λαμβάνει το[`PixelDataFormat`](../) ορίζεται για 24 bit ανά εικονοστοιχείο με 8 bit για καθένα από τα στοιχεία χρώματος luma, μπλε διαφοράς και κόκκινης διαφοράς.
+Λαμβάνει το [`PixelDataFormat`](../) που ορίζεται για 24 bits ανά pixel με 8 bits για το luma, τη διαφορά μπλε και τη διαφορά κόκκινο.
 
 ```csharp
 public static PixelDataFormat YCbCr { get; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Το[`PixelDataFormat`](../) ορίζεται για 24 bit ανά εικονοστοιχείο με 8 bit για καθένα από τα στοιχεία χρώματος luma, μπλε διαφοράς και κόκκινης διαφοράς.
+Το [`PixelDataFormat`](../) που ορίζεται για 24 bits ανά pixel με 8 bits για το luma, τη διαφορά μπλε και τη διαφορά κόκκινο.
 
 ### Δείτε επίσης
 
 * class [PixelDataFormat](../)
-* χώρος ονομάτων [Aspose.PSD](../../pixeldataformat/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

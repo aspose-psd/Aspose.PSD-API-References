@@ -1,14 +1,15 @@
 ---
-title: Class CmlsResource
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.CmlsResource τάξη. Κατηγορία CmlsResource.
+title: "Κλάση CmlsResource"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Κλάση Aspose.PSD.FileFormats.Psd.Layers.LayerResources.CmlsResource. Κλάση CmlsResource"
 type: docs
-weight: 2380
+weight: 2640
 url: /el/net/aspose.psd.fileformats.psd.layers.layerresources/cmlsresource/
 ---
+{{< psd/tize >}}
 ## CmlsResource class
 
-Κατηγορία CmlsResource.
+Κλάση CmlsResource.
 
 ```csharp
 public class CmlsResource : LayerResource
@@ -16,36 +17,36 @@ public class CmlsResource : LayerResource
 
 ## Κατασκευαστές
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
-| [CmlsResource](cmlsresource/)(byte[]) | Αρχικοποιεί μια νέα παρουσία του`CmlsResource` τάξη. |
+| [CmlsResource](cmlsresource/)(byte[]) | Αρχικοποιεί ένα νέο αντικείμενο της κλάσης `CmlsResource`. |
 
 ## Ιδιότητες
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
-| override [Key](../../aspose.psd.fileformats.psd.layers.layerresources/cmlsresource/key/) { get; } | Λαμβάνει το κλειδί πόρων επιπέδου. |
-| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/cmlsresource/length/) { get; } | Λαμβάνει το μήκος του πόρου του επιπέδου σε byte. |
-| override [PsdVersion](../../aspose.psd.fileformats.psd.layers.layerresources/cmlsresource/psdversion/) { get; } | Λαμβάνει την έκδοση psd. |
-| override [Signature](../../aspose.psd.fileformats.psd.layers.layerresources/cmlsresource/signature/) { get; } | Παίρνει την υπογραφή. |
+| [Key](../../aspose.psd.fileformats.psd.layers/layerresource/key/) { get; } | Λαμβάνει το κλειδί πόρου του επιπέδου. |
+| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/cmlsresource/length/) { get; } | Λαμβάνει το μήκος του πόρου του επιπέδου σε bytes. |
+| virtual [PsdVersion](../../aspose.psd.fileformats.psd.layers/layerresource/psdversion/) { get; } | Λαμβάνει την ελάχιστη έκδοση psd που απαιτείται για τον πόρο του επιπέδου. 0 υποδεικνύει ότι δεν υπάρχουν περιορισμοί. |
+| virtual [Signature](../../aspose.psd.fileformats.psd.layers/layerresource/signature/) { get; } | Λαμβάνει την υπογραφή. |
 
 ## Μέθοδοι
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
 | override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/cmlsresource/save/)(StreamContainer, int) | Αποθηκεύει τον πόρο στο καθορισμένο κοντέινερ ροής. |
-| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring/)() | Επιστρέφει αString που αντιπροσωπεύει αυτήν την περίπτωση. |
+| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring/)() | Επιστρέφει ένα String που αντιπροσωπεύει αυτήν την περίπτωση. |
 
 ## Πεδία
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
-| const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/cmlsresource/typetoolkey/) | Το κλειδί πληροφοριών εργαλείου τύπου. |
+| const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/cmlsresource/typetoolkey/) | Το κλειδί πληροφοριών του εργαλείου τύπου. |
 
 ### Δείτε επίσης
 
 * class [LayerResource](../../aspose.psd.fileformats.psd.layers/layerresource/)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
-* συνέλευση [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../)
 
 

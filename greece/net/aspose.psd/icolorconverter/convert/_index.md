@@ -1,14 +1,15 @@
 ---
-title: IColorConverter.Convert
-second_title: Aspose.PSD για Αναφορά API .NET
-description: IColorConverter μέθοδος. Μετατρέπει τα δεδομένα που έχουν περάσει στη μορφή εξόδου.
+title: "IColorConverter.Convert"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Μέθοδος IColorConverter. Μετατρέπει τα παρεχόμενα δεδομένα στη μορφή εξόδου"
 type: docs
 weight: 10
 url: /el/net/aspose.psd/icolorconverter/convert/
 ---
+{{< psd/tize >}}
 ## IColorConverter.Convert method
 
-Μετατρέπει τα δεδομένα που έχουν περάσει στη μορφή εξόδου.
+Μετατρέπει τα παρεχόμενα δεδομένα στη μορφή εξόδου.
 
 ```csharp
 public int Convert(PixelDataFormat sourceFormat, byte[] data, int offset, int bitStart, 
@@ -18,25 +19,25 @@ public int Convert(PixelDataFormat sourceFormat, byte[] data, int offset, int bi
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| sourceFormat | PixelDataFormat | Η μορφή πηγής. |
-| data | Byte[] | Τα δεδομένα πηγής. |
-| offset | Int32 | Η μετατόπιση σε byte όπου πρέπει να ξεκινήσει η αντιγραφή δεδομένων. |
-| bitStart | Int32 | Το κομμάτι ξεκινά. Σημειώστε ότι αυτή η τιμή δεν είναι τιμή στοίχισης byte, αλλά είναι το πραγματικό bit όπου πρέπει να ξεκινήσει η αντιγραφή. |
-| samplesCount | Int32 | Τα δείγματα μετράνε. |
-| linesCount | Int32 | Οι γραμμές μετράνε. |
+| sourceFormat | PixelDataFormat | Η μορφή προέλευσης. |
+| δεδομένα | Byte[] | Τα δεδομένα προέλευσης. |
+| offset | Int32 | Η μετατόπιση σε bytes όπου πρέπει να ξεκινήσει η αντιγραφή των δεδομένων. |
+| bitStart | Int32 | Η αρχή του bit. Σημειώστε ότι αυτή η τιμή δεν είναι ευθυγραμμισμένη σε byte, αλλά είναι το πραγματικό bit όπου πρέπει να ξεκινήσει η αντιγραφή. |
+| samplesCount | Int32 | Ο αριθμός των δειγμάτων. |
+| linesCount | Int32 | Ο αριθμός των γραμμών. |
 | destFormat | PixelDataFormat | Η μορφή προορισμού. |
 | outputData | Byte[] | Τα δεδομένα εξόδου. |
-| outputOffset | Int32 | Η μετατόπιση εξόδου όπου πρέπει να ξεκινήσει η αντιγραφή δεδομένων. |
+| outputOffset | Int32 | Η μετατόπιση εξόδου όπου πρέπει να ξεκινήσει η αντιγραφή των δεδομένων. |
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-Τα byte που έχουν μετατραπεί μετράνε.
+Ο αριθμός των μετατρεπόμενων bytes.
 
 ### Δείτε επίσης
 
 * class [PixelDataFormat](../../pixeldataformat/)
 * interface [IColorConverter](../)
-* χώρος ονομάτων [Aspose.PSD](../../icolorconverter/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

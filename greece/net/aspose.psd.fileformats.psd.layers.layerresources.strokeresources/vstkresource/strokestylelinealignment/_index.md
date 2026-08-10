@@ -1,22 +1,23 @@
 ---
-title: VstkResource.StrokeStyleLineAlignment
-second_title: Aspose.PSD για Αναφορά API .NET
-description: VstkResource ιδιοκτησία. Λαμβάνει ή ορίζει τη στοίχιση γραμμής στυλ περιγράμματος.
+title: "VstkResource.StrokeStyleLineAlignment"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "VstkResource ιδιότητα. Λαμβάνει ή ορίζει το Stroke style line alignment"
 type: docs
-weight: 100
+weight: 80
 url: /el/net/aspose.psd.fileformats.psd.layers.layerresources.strokeresources/vstkresource/strokestylelinealignment/
 ---
+{{< psd/tize >}}
 ## VstkResource.StrokeStyleLineAlignment property
 
-Λαμβάνει ή ορίζει τη στοίχιση γραμμής στυλ περιγράμματος.
+Λαμβάνει ή ορίζει την ευθυγράμμιση γραμμής του στυλ Stroke.
 
 ```csharp
 public StrokePosition StrokeStyleLineAlignment { get; set; }
 ```
 
-### Παραδείγματα
+## Παραδείγματα
 
-Ο ακόλουθος κώδικας δείχνει την υποστήριξη του πόρου VstkResource.
+Ο παρακάτω κώδικας δείχνει την υποστήριξη του πόρου VstkResource.
 
 ```csharp
 [C#]
@@ -45,7 +46,7 @@ using (PsdImage image = (PsdImage)Image.Load(srcFile))
 
 * enum [StrokePosition](../../../aspose.psd.fileformats.psd.layers.layereffects/strokeposition/)
 * class [VstkResource](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.StrokeResources](../../vstkresource/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.StrokeResources](../../../aspose.psd.fileformats.psd.layers.layerresources.strokeresources/)
+* assembly [Aspose.PSD](../../../)
 
 

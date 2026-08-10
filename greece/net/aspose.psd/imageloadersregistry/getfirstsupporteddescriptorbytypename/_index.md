@@ -1,14 +1,15 @@
 ---
-title: ImageLoadersRegistry.GetFirstSupportedDescriptorByTypeName
-second_title: Aspose.PSD για Αναφορά API .NET
-description: ImageLoadersRegistry μέθοδος. Λαμβάνει τον πρώτο υποστηριζόμενο περιγραφέα με το όνομα τύπου του.
+title: "ImageLoadersRegistry.GetFirstSupportedDescriptorByTypeName"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Μέθοδος ImageLoadersRegistry. Λαμβάνει τον πρώτο υποστηριζόμενο περιγραφέα με το όνομα τύπου του"
 type: docs
 weight: 60
 url: /el/net/aspose.psd/imageloadersregistry/getfirstsupporteddescriptorbytypename/
 ---
+{{< psd/tize >}}
 ## ImageLoadersRegistry.GetFirstSupportedDescriptorByTypeName method
 
-Λαμβάνει τον πρώτο υποστηριζόμενο περιγραφέα με το όνομα τύπου του.
+Λαμβάνει τον πρώτο υποστηριζόμενο περιγραφέα με βάση το όνομα τύπου του.
 
 ```csharp
 public static IImageLoaderDescriptor GetFirstSupportedDescriptorByTypeName(
@@ -17,21 +18,21 @@ public static IImageLoaderDescriptor GetFirstSupportedDescriptorByTypeName(
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| descriptorTypeName | String | Όνομα τύπου περιγραφέα. |
+| descriptorTypeName | String | Το όνομα τύπου περιγραφέα. |
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-Βρέθηκε ο πρώτος περιγραφέας φόρτωσης ή μηδενικός, εάν όχι, αυτός ο περιγραφέας.
+Ο πρώτος ευρεθέν περιγραφέας φορτωτή ή null εάν δεν βρεθεί τέτοιος περιγραφέας.
 
-### Παρατηρήσεις
+## Σχόλια
 
-Ο πρώτος περιγραφέας φόρτωσης θα είναι στην πραγματικότητα ο τελευταίος καταχωρημένος.
+Ο πρώτος περιγραφέας φορτωτή θα είναι στην πραγματικότητα ο τελευταίος που έχει καταχωρηθεί.
 
 ### Δείτε επίσης
 
 * interface [IImageLoaderDescriptor](../../iimageloaderdescriptor/)
 * class [ImageLoadersRegistry](../)
-* χώρος ονομάτων [Aspose.PSD](../../imageloadersregistry/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

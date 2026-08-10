@@ -1,11 +1,12 @@
 ---
-title: AdjustPalette.AdjustPalette
-second_title: Aspose.PSD για Αναφορά API .NET
-description: AdjustPalette κατασκευαστής. Ο προεπιλεγμένος κατασκευαστής.
+title: "AdjustPalette.AdjustPalette"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Κατασκευαστής AdjustPalette. Ο προεπιλεγμένος κατασκευαστής"
 type: docs
 weight: 10
 url: /el/net/aspose.psd.palettehelper/adjustpalette/adjustpalette/
 ---
+{{< psd/tize >}}
 ## AdjustPalette constructor
 
 Ο προεπιλεγμένος κατασκευαστής.
@@ -17,7 +18,7 @@ public AdjustPalette()
 ### Δείτε επίσης
 
 * class [AdjustPalette](../)
-* χώρος ονομάτων [Aspose.PSD.PaletteHelper](../../adjustpalette/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.PaletteHelper](../../../aspose.psd.palettehelper/)
+* assembly [Aspose.PSD](../../../)
 
 

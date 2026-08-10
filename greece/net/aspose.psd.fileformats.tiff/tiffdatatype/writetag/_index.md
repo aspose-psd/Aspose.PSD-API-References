@@ -1,14 +1,15 @@
 ---
-title: TiffDataType.WriteTag
-second_title: Aspose.PSD για Αναφορά API .NET
-description: TiffDataType μέθοδος. Γράφει τα δεδομένα της ετικέτας.
+title: "TiffDataType.WriteTag"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "TiffDataType μέθοδος. Γράφει τα δεδομένα της ετικέτας"
 type: docs
 weight: 140
 url: /el/net/aspose.psd.fileformats.tiff/tiffdatatype/writetag/
 ---
+{{< psd/tize >}}
 ## TiffDataType.WriteTag method
 
-Γράφει τα δεδομένα της ετικέτας.
+Γράφει τα δεδομένα ετικέτας.
 
 ```csharp
 public void WriteTag(TiffStreamWriter dataStream, long additionalDataOffset)
@@ -21,15 +22,15 @@ public void WriteTag(TiffStreamWriter dataStream, long additionalDataOffset)
 
 ### Εξαιρέσεις
 
-| εξαίρεση | κατάσταση |
+| εξαίρεση | συνθήκη |
 | --- | --- |
-| [ImageSaveException](../../../aspose.psd.coreexceptions/imagesaveexception/) | Δεν είναι δυνατή η εγγραφή τιμών για + this.TagType + Message : +exception.Message |
+| [ImageSaveException](../../../aspose.psd.coreexceptions/imagesaveexception/) | Αδυναμία εγγραφής τιμών για + this.TagType + Message : + exception.Message |
 
 ### Δείτε επίσης
 
 * class [TiffStreamWriter](../../../aspose.psd.fileformats.tiff.filemanagement/tiffstreamwriter/)
 * class [TiffDataType](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Tiff](../../tiffdatatype/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff](../../../aspose.psd.fileformats.tiff/)
+* assembly [Aspose.PSD](../../../)
 
 

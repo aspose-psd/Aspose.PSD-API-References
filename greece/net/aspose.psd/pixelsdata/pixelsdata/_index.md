@@ -1,32 +1,33 @@
 ---
-title: PixelsData.PixelsData
-second_title: Aspose.PSD για Αναφορά API .NET
-description: PixelsData κατασκευαστής. Αρχικοποιεί μια νέα παρουσία τουPixelsData τάξη.
+title: "PixelsData.PixelsData"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Κατασκευαστής PixelsData. Δημιουργεί ένα νέο στιγμιότυπο της κλάσης PixelsData"
 type: docs
 weight: 10
 url: /el/net/aspose.psd/pixelsdata/pixelsdata/
 ---
+{{< psd/tize >}}
 ## PixelsData() {#constructor}
 
-Αρχικοποιεί μια νέα παρουσία του[`PixelsData`](../) τάξη.
+Δημιουργεί ένα νέο στιγμιότυπο της κλάσης [`PixelsData`](../).
 
 ```csharp
 public PixelsData()
 ```
 
-### Παραδείγματα
+## Παραδείγματα
 
-Ο παρακάτω κώδικας σάς δείχνει πώς να δημιουργήσετε ένα προσαρμοσμένο έξυπνο φίλτρο που διαθέτει προσαρμοσμένη απόδοση απόδοσης.
+Ο παρακάτω κώδικας δείχνει πώς να δημιουργήσετε ένα προσαρμοσμένο έξυπνο φίλτρο με προσαρμοσμένο renderer.
 
 ```csharp
 [C#]
 
 public void CustomSmartFilterExample(string sourceFile = "psdnet1057.psd", string outputPsd = "out_psdnet1057.psd", string outputPng = "out_psdnet1057.png")
 {
-    // Εκκινεί το μη υποστηριζόμενο έξυπνο φίλτρο «Crystallize» στον πίνακα εισόδου
+    // Αρχικοποιεί το μη υποστηριζόμενο έξυπνο φίλτρο 'Crystallize' στον πίνακα εισόδου.
     SmartFilter[] InitUnknownSmartFilters(SmartFilter[] smartFilters)
     {
-        // το αναγνωριστικό έξυπνου φίλτρου «Crystallize».
+        // το αναγνωριστικό (ID) του έξυπνου φίλτρου 'Crystallize'.
         int id = 1131574132;
 
         for (int i = 0; i < smartFilters.Length; i++)
@@ -52,14 +53,14 @@ public void CustomSmartFilterExample(string sourceFile = "psdnet1057.psd", strin
         smartLayer.SmartFilters.Filters = InitUnknownSmartFilters(smartLayer.SmartFilters.Filters);
         var smartFilter = smartLayer.SmartFilters.Filters[0];
 
-        // Εφαρμογή φίλτρου στο SmartObject
+        // Εφαρμόστε φίλτρο στο SmartObject
         smartLayer.UpdateModifiedContent();
         smartLayer.SmartFilters.UpdateResourceValues();
 
-        // Εφαρμογή φίλτρου σε μάσκα στρώματος
+        // Εφαρμόστε φίλτρο στη μάσκα στρώσης
         smartFilter.ApplyToMask(maskLayer);
 
-        //Εφαρμογή φίλτρου σε στρώμα
+        //Εφαρμόστε φίλτρο στη στρώση
         smartFilter.Apply(regularLayer);
 
         image.Save(outputPsd);
@@ -76,15 +77,15 @@ public sealed class CustomSmartFilterWithRenderer : SmartFilter, ISmartFilterRen
 
     public override int FilterId
     {
-        // το αναγνωριστικό έξυπνου φίλτρου «Crystallize».
+        // το αναγνωριστικό (ID) του έξυπνου φίλτρου 'Crystallize'.
         get { return 1131574132; }
     }
 
     public PixelsData Render(PixelsData pixelsData)
     {
-        // λήψη δομής φίλτρου
+        // λάβετε τη δομή του φίλτρου
         var filterDescriptor = (DescriptorStructure) this.SourceDescriptor.Structures[6];
-        // λάβετε την τιμή του Crystallize Size
+        // λάβετε την τιμή του μεγέθους Crystallize
         var valueStructure = (IntegerStructure) filterDescriptor.Structures[0];
 
         for (int i = 0; i < pixelsData.Pixels.Length; i++)
@@ -103,14 +104,14 @@ public sealed class CustomSmartFilterWithRenderer : SmartFilter, ISmartFilterRen
 ### Δείτε επίσης
 
 * class [PixelsData](../)
-* χώρος ονομάτων [Aspose.PSD](../../pixelsdata/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## PixelsData(int[], Rectangle) {#constructor_1}
 
-Αρχικοποιεί μια νέα παρουσία του[`PixelsData`](../) τάξη.
+Δημιουργεί ένα νέο στιγμιότυπο της κλάσης [`PixelsData`](../).
 
 ```csharp
 public PixelsData(int[] pixels, Rectangle bounds)
@@ -118,22 +119,22 @@ public PixelsData(int[] pixels, Rectangle bounds)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| pixels | Int32[] | Τα δεδομένα των pixels. |
-| bounds | Rectangle | Τα pixel περιορίζουν το ορθογώνιο. |
+| pixel | Int32[] | Τα δεδομένα εικονοστοιχείων. |
+| όρια | Rectangle | Το ορθογώνιο των ορίων των εικονοστοιχείων. |
 
-### Παραδείγματα
+## Παραδείγματα
 
-Ο παρακάτω κώδικας σάς δείχνει πώς να δημιουργήσετε ένα προσαρμοσμένο έξυπνο φίλτρο που διαθέτει προσαρμοσμένη απόδοση απόδοσης.
+Ο παρακάτω κώδικας δείχνει πώς να δημιουργήσετε ένα προσαρμοσμένο έξυπνο φίλτρο με προσαρμοσμένο renderer.
 
 ```csharp
 [C#]
 
 public void CustomSmartFilterExample(string sourceFile = "psdnet1057.psd", string outputPsd = "out_psdnet1057.psd", string outputPng = "out_psdnet1057.png")
 {
-    // Εκκινεί το μη υποστηριζόμενο έξυπνο φίλτρο «Crystallize» στον πίνακα εισόδου
+    // Αρχικοποιεί το μη υποστηριζόμενο έξυπνο φίλτρο 'Crystallize' στον πίνακα εισόδου.
     SmartFilter[] InitUnknownSmartFilters(SmartFilter[] smartFilters)
     {
-        // το αναγνωριστικό έξυπνου φίλτρου «Crystallize».
+        // το αναγνωριστικό (ID) του έξυπνου φίλτρου 'Crystallize'.
         int id = 1131574132;
 
         for (int i = 0; i < smartFilters.Length; i++)
@@ -159,14 +160,14 @@ public void CustomSmartFilterExample(string sourceFile = "psdnet1057.psd", strin
         smartLayer.SmartFilters.Filters = InitUnknownSmartFilters(smartLayer.SmartFilters.Filters);
         var smartFilter = smartLayer.SmartFilters.Filters[0];
 
-        // Εφαρμογή φίλτρου στο SmartObject
+        // Εφαρμόστε φίλτρο στο SmartObject
         smartLayer.UpdateModifiedContent();
         smartLayer.SmartFilters.UpdateResourceValues();
 
-        // Εφαρμογή φίλτρου σε μάσκα στρώματος
+        // Εφαρμόστε φίλτρο στη μάσκα στρώσης
         smartFilter.ApplyToMask(maskLayer);
 
-        //Εφαρμογή φίλτρου σε στρώμα
+        //Εφαρμόστε φίλτρο στη στρώση
         smartFilter.Apply(regularLayer);
 
         image.Save(outputPsd);
@@ -183,15 +184,15 @@ public sealed class CustomSmartFilterWithRenderer : SmartFilter, ISmartFilterRen
 
     public override int FilterId
     {
-        // το αναγνωριστικό έξυπνου φίλτρου «Crystallize».
+        // το αναγνωριστικό (ID) του έξυπνου φίλτρου 'Crystallize'.
         get { return 1131574132; }
     }
 
     public PixelsData Render(PixelsData pixelsData)
     {
-        // λήψη δομής φίλτρου
+        // λάβετε τη δομή του φίλτρου
         var filterDescriptor = (DescriptorStructure) this.SourceDescriptor.Structures[6];
-        // λάβετε την τιμή του Crystallize Size
+        // λάβετε την τιμή του μεγέθους Crystallize
         var valueStructure = (IntegerStructure) filterDescriptor.Structures[0];
 
         for (int i = 0; i < pixelsData.Pixels.Length; i++)
@@ -211,7 +212,7 @@ public sealed class CustomSmartFilterWithRenderer : SmartFilter, ISmartFilterRen
 
 * struct [Rectangle](../../rectangle/)
 * class [PixelsData](../)
-* χώρος ονομάτων [Aspose.PSD](../../pixelsdata/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

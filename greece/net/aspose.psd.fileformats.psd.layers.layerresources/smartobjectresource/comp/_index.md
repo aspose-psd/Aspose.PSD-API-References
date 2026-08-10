@@ -1,27 +1,28 @@
 ---
-title: SmartObjectResource.Comp
-second_title: Aspose.PSD για Αναφορά API .NET
-description: SmartObjectResource ιδιοκτησία. Λαμβάνει ή ορίζει την τιμή comp των δεδομένων επιπέδου έξυπνου αντικειμένου στο αρχείο PSD. Σύνθεση επιπέδων σε Έξυπνα Αντικείμενα
+title: "SmartObjectResource.Comp"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα SmartObjectResource. Λαμβάνει ή ορίζει την τιμή comp των δεδομένων της στρώσης smart object στο αρχείο PSD. Layer comps σε Smart Objects"
 type: docs
 weight: 20
 url: /el/net/aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/comp/
 ---
+{{< psd/tize >}}
 ## SmartObjectResource.Comp property
 
-Λαμβάνει ή ορίζει την τιμή comp των δεδομένων επιπέδου έξυπνου αντικειμένου στο αρχείο PSD. [Σύνθεση επιπέδων σε Έξυπνα Αντικείμενα](https://helpx.adobe.com/photoshop/using/layer-comps.html)
+Ανακτά ή ορίζει την τιμή comp των δεδομένων στρώματος έξυπνου αντικειμένου στο αρχείο PSD. [Στοιχεία επιπέδων σε Έξυπνα Αντικείμενα](https://helpx.adobe.com/photoshop/using/layer-comps.html)
 
 ```csharp
 public int Comp { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Η τιμή comp, είναι -1 αν καμία.
+Η τιμή comp, είναι -1 εάν δεν υπάρχει κανένα.
 
 ### Δείτε επίσης
 
 * class [SmartObjectResource](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../smartobjectresource/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

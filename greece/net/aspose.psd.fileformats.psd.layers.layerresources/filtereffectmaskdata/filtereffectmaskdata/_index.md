@@ -1,14 +1,15 @@
 ---
-title: FilterEffectMaskData.FilterEffectMaskData
-second_title: Aspose.PSD για Αναφορά API .NET
-description: FilterEffectMaskData κατασκευαστής. Αρχικοποιεί μια νέα παρουσία τουFilterEffectMaskData τάξη.
+title: "FilterEffectMaskData.FilterEffectMaskData"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Κατασκευαστής FilterEffectMaskData. Αρχικοποιεί μια νέα παρουσία της κλάσης FilterEffectMaskData"
 type: docs
 weight: 10
 url: /el/net/aspose.psd.fileformats.psd.layers.layerresources/filtereffectmaskdata/filtereffectmaskdata/
 ---
+{{< psd/tize >}}
 ## FilterEffectMaskData constructor
 
-Αρχικοποιεί μια νέα παρουσία του[`FilterEffectMaskData`](../) τάξη.
+Αρχικοποιεί μια νέα παρουσία της κλάσης [`FilterEffectMaskData`](../).
 
 ```csharp
 public FilterEffectMaskData(string guid, Rectangle rectangle, int pixelsDepth, int maxChannels, 
@@ -18,18 +19,18 @@ public FilterEffectMaskData(string guid, Rectangle rectangle, int pixelsDepth, i
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| guid | String | Ο οδηγός πόρων. |
-| rectangle | Rectangle | Τα κανάλια είναι ορθογώνια. |
-| pixelsDepth | Int32 | Το βάθος των pixel. |
-| maxChannels | Int32 | Η μέγιστη τιμή καναλιών. |
+| guid | String | Το GUID του πόρου. |
+| ορθογώνιο | Rectangle | Το ορθογώνιο των καναλιών. |
+| pixelsDepth | Int32 | Το βάθος εικονοστοιχείων. |
+| maxChannels | Int32 | Η μέγιστη τιμή των καναλιών. |
 | channels | ChannelInformation[] | Τα κανάλια. |
 | userMask | ChannelInformation | Η μάσκα χρήστη. |
 | maskRectangle | Rectangle | Το ορθογώνιο μάσκα φύλλου. |
-| sheetMask | ChannelInformation | Η σεντόνι μάσκα. |
+| sheetMask | ChannelInformation | Η μάσκα φύλλου. |
 
-### Παραδείγματα
+## Παραδείγματα
 
-Αυτό το παράδειγμα δείχνει πώς να αποκτήσετε και να ορίσετε ιδιότητες του πόρου FXidResource.
+Αυτό το παράδειγμα δείχνει πώς να λαμβάνετε και να ορίζετε ιδιότητες του πόρου FXidResource.
 
 ```csharp
 [C#]
@@ -38,7 +39,7 @@ string inputFilePath = "psdnet414_3.psd";
 string output = "out_psdnet414_3.psd";
 
 int resLength = 1144;
-int maskLength = 369;
+long maskLength = 369;
 
 void AssertAreEqual(object expected, object actual, string message = null)
 {
@@ -61,7 +62,7 @@ using (var psdImage = (PsdImage)Image.Load(inputFilePath))
     psdImage.Save(output);
 }
 
-// έλεγχος μετά την αποθήκευση
+// ελέγξτε μετά την αποθήκευση
 using (var psdImage = (PsdImage)Image.Load(output))
 {
     FXidResource fXidResource = (FXidResource)psdImage.GlobalLayerResources[3];
@@ -79,7 +80,7 @@ using (var psdImage = (PsdImage)Image.Load(output))
 * struct [Rectangle](../../../aspose.psd/rectangle/)
 * class [ChannelInformation](../../../aspose.psd.fileformats.psd.layers/channelinformation/)
 * class [FilterEffectMaskData](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../filtereffectmaskdata/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,31 +1,32 @@
 ---
-title: TiffOptions.BitsPerSample
-second_title: Aspose.PSD για Αναφορά API .NET
-description: TiffOptions ιδιοκτησία. Λαμβάνει ή ορίζει τα bit ανά δείγμα.
+title: "TiffOptions.BitsPerSample"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα TiffOptions. Λαμβάνει ή ορίζει τα bits ανά δείγμα"
 type: docs
 weight: 50
 url: /el/net/aspose.psd.imageoptions/tiffoptions/bitspersample/
 ---
+{{< psd/tize >}}
 ## TiffOptions.BitsPerSample property
 
-Λαμβάνει ή ορίζει τα bit ανά δείγμα.
+Λαμβάνει ή ορίζει τα bits ανά δείγμα.
 
 ```csharp
 public ushort[] BitsPerSample { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Τα bit ανά τιμή δείγματος.
+Η τιμή των bits ανά δείγμα.
 
-### Παρατηρήσεις
+## Σχόλια
 
-Όταν ορίζετε αυτήν την τιμή, έχετε υπόψη σας ότι θα ορίσει επίσης την τιμή SamplesPerPixel σε μήκος πίνακα. Αυτές οι 2 ιδιότητες είναι πολύ στενά συνδεδεμένες, επομένως μπορούν να ρυθμιστούν μόνο συνολικά.
+Κατά τον ορισμό αυτής της τιμής, λάβετε υπόψη ότι θα ορίσει επίσης την τιμή SamplesPerPixel στο μήκος του πίνακα. Αυτές οι 2 ιδιότητες είναι πολύ στενά συνδεδεμένες, επομένως μπορούν να οριστούν μόνο μαζί.
 
 ### Δείτε επίσης
 
 * class [TiffOptions](../)
-* χώρος ονομάτων [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

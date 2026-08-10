@@ -1,31 +1,32 @@
 ---
-title: Enum MultiPageMode
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Aspose.PSD.ImageOptions.MultiPageMode αρίθμηση. Αντιπροσωπεύει λειτουργία πολλαπλών σελίδων
+title: "Enum MultiPageMode"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Aspose.PSD.ImageOptions.MultiPageMode enum. Αντιπροσωπεύει τη λειτουργία πολλαπλών σελίδων"
 type: docs
-weight: 4850
+weight: 5340
 url: /el/net/aspose.psd.imageoptions/multipagemode/
 ---
+{{< psd/tize >}}
 ## MultiPageMode enumeration
 
-Αντιπροσωπεύει λειτουργία πολλαπλών σελίδων
+Αντιπροσωπεύει τη λειτουργία πολλαπλών σελίδων
 
 ```csharp
 public enum MultiPageMode
 ```
 
-### Αξίες
+### Τιμές
 
-| Ονομα | αξία | Περιγραφή |
+| Όνομα | Τιμή | Περιγραφή |
 | --- | --- | --- |
-| Pages | `0` | Χρησιμοποιημένα στοιχεία σελίδας |
-| Titles | `1` | Μεταχειρισμένοι τίτλοι σελίδων |
+| Pages | `0` | Χρησιμοποιημένοι δείκτες σελίδας |
+| Titles | `1` | Χρησιμοποιημένοι τίτλοι σελίδας |
 | Range | `2` | Χρησιμοποιημένο εύρος σελίδων |
-| AllPages | `3` | Χρησιμοποιούνται όλες οι σελίδες |
+| AllPages | `3` | Χρησιμοποιήθηκαν όλες οι σελίδες |
 
 ### Δείτε επίσης
 
-* χώρος ονομάτων [Aspose.PSD.ImageOptions](../../aspose.psd.imageoptions/)
-* συνέλευση [Aspose.PSD](../../)
+* namespace [Aspose.PSD.ImageOptions](../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../)
 
 

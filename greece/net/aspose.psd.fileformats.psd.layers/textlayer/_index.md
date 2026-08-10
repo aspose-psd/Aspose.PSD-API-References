@@ -1,14 +1,15 @@
 ---
-title: Class TextLayer
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Aspose.PSD.FileFormats.Psd.Layers.TextLayer τάξη. Το επίπεδο κειμένου class
+title: "Κλάση TextLayer"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Κλάση Aspose.PSD.FileFormats.Psd.Layers.TextLayer. Η κλάση στρώματος κειμένου"
 type: docs
-weight: 3560
+weight: 3980
 url: /el/net/aspose.psd.fileformats.psd.layers/textlayer/
 ---
+{{< psd/tize >}}
 ## TextLayer class
 
-Το επίπεδο κειμένου class
+Η κλάση στρώσης κειμένου
 
 ```csharp
 public class TextLayer : Layer
@@ -16,158 +17,164 @@ public class TextLayer : Layer
 
 ## Ιδιότητες
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
-| [AutoAdjustPalette](../../aspose.psd/image/autoadjustpalette/) { get; set; } | Λαμβάνει ή ορίζει μια τιμή που υποδεικνύει εάν η παλέτα αυτόματης προσαρμογής. |
+| [AutoAdjustPalette](../../aspose.psd/image/autoadjustpalette/) { get; set; } | Λαμβάνει ή ορίζει μια τιμή που υποδεικνύει εάν γίνεται αυτόματη προσαρμογή παλέτας. |
 | virtual [BackgroundColor](../../aspose.psd/image/backgroundcolor/) { get; set; } | Λαμβάνει ή ορίζει μια τιμή για το χρώμα φόντου. |
-| override [BitsPerPixel](../../aspose.psd.fileformats.psd.layers/layer/bitsperpixel/) { get; } | Λαμβάνει τα bit της εικόνας ανά πλήθος pixel. |
-| [BlendingOptions](../../aspose.psd.fileformats.psd.layers/layer/blendingoptions/) { get; } | Λαμβάνει τις επιλογές ανάμειξης. |
-| virtual [BlendModeKey](../../aspose.psd.fileformats.psd.layers/layer/blendmodekey/) { get; set; } | Λαμβάνει ή ρυθμίζει το πλήκτρο λειτουργίας ανάμειξης. |
-| [BlendModeSignature](../../aspose.psd.fileformats.psd.layers/layer/blendmodesignature/) { get; } | Αποκτά την υπογραφή blend mode. |
-| [Bottom](../../aspose.psd.fileformats.psd.layers/layer/bottom/) { get; set; } | Λαμβάνει ή ορίζει τη θέση του κάτω στρώματος. |
-| [Bounds](../../aspose.psd/image/bounds/) { get; } | Παίρνει τα όρια της εικόνας. |
-| [BufferSizeHint](../../aspose.psd/image/buffersizehint/) { get; set; } | Λαμβάνει ή ορίζει την υπόδειξη μεγέθους buffer που ορίζεται ως μέγιστο επιτρεπόμενο μέγεθος για όλα τα εσωτερικά buffer. |
+| override [BitsPerPixel](../../aspose.psd.fileformats.psd.layers/layer/bitsperpixel/) { get; } | Λαμβάνει τον αριθμό των bits ανά pixel της εικόνας. |
+| [BlendClippedElements](../../aspose.psd.fileformats.psd.layers/layer/blendclippedelements/) { get; set; } | Λαμβάνει ή ορίζει τη συγχώνευση του περικομμένου στοιχείου. |
+| [BlendingOptions](../../aspose.psd.fileformats.psd.layers/layer/blendingoptions/) { get; } | Λαμβάνει τις επιλογές συγχώνευσης. |
+| virtual [BlendModeKey](../../aspose.psd.fileformats.psd.layers/layer/blendmodekey/) { get; set; } | Λαμβάνει ή ορίζει το κλειδί της λειτουργίας ανάμειξης. |
+| [BlendModeSignature](../../aspose.psd.fileformats.psd.layers/layer/blendmodesignature/) { get; } | Λαμβάνει την υπογραφή της λειτουργίας ανάμειξης. |
+| virtual [Bottom](../../aspose.psd.fileformats.psd.layers/layer/bottom/) { get; set; } | Λαμβάνει ή ορίζει τη θέση του κάτω επιπέδου. |
+| [Bounds](../../aspose.psd/image/bounds/) { get; } | Λαμβάνει τα όρια της εικόνας. |
+| [BufferSizeHint](../../aspose.psd/image/buffersizehint/) { get; set; } | Λαμβάνει ή ορίζει την υπόδειξη μεγέθους του buffer, η οποία ορίζεται ως το μέγιστο επιτρεπόμενο μέγεθος για όλα τα εσωτερικά buffers. |
 | [ChannelInformation](../../aspose.psd.fileformats.psd.layers/layer/channelinformation/) { get; set; } | Λαμβάνει ή ορίζει τις πληροφορίες του καναλιού. |
 | [ChannelsCount](../../aspose.psd.fileformats.psd.layers/layer/channelscount/) { get; } | Λαμβάνει τον αριθμό των καναλιών του επιπέδου. |
-| [Clipping](../../aspose.psd.fileformats.psd.layers/layer/clipping/) { get; set; } | Λαμβάνει ή ορίζει το απόκομμα στρώματος. 0 = βάση, 1 = μη βάση. |
-| [Container](../../aspose.psd/image/container/) { get; } | Λαμβάνει το[`Image`](../../aspose.psd/image/) δοχείο. |
+| [Clipping](../../aspose.psd.fileformats.psd.layers/layer/clipping/) { get; set; } | Λαμβάνει ή ορίζει την αποκοπή του επιπέδου. 0 = βάση, 1 = μη-βάση. |
+| [Container](../../aspose.psd/image/container/) { get; } | Λαμβάνει το κοντέινερ [`Image`](../../aspose.psd/image/). |
 | [DataStreamContainer](../../aspose.psd/datastreamsupporter/datastreamcontainer/) { get; } | Λαμβάνει τη ροή δεδομένων του αντικειμένου. |
 | [DisplayName](../../aspose.psd.fileformats.psd.layers/layer/displayname/) { get; set; } | Λαμβάνει ή ορίζει το εμφανιζόμενο όνομα του επιπέδου. |
-| [Disposed](../../aspose.psd/disposableobject/disposed/) { get; } | Λαμβάνει μια τιμή που υποδεικνύει εάν αυτή η παρουσία έχει διατεθεί. |
-| [ExtraLength](../../aspose.psd.fileformats.psd.layers/layer/extralength/) { get; } | Λαμβάνει το επιπλέον μήκος πληροφοριών του επιπέδου σε byte. |
-| virtual [FileFormat](../../aspose.psd/image/fileformat/) { get; } | Λαμβάνει μια τιμή της μορφής αρχείου |
-| [Filler](../../aspose.psd.fileformats.psd.layers/layer/filler/) { get; set; } | Λαμβάνει ή ορίζει το πληρωτικό στρώμα. |
-| [FillOpacity](../../aspose.psd.fileformats.psd.layers/layer/fillopacity/) { get; set; } | Λαμβάνει ή ορίζει την αδιαφάνεια πλήρωσης. |
-| [Flags](../../aspose.psd.fileformats.psd.layers/layer/flags/) { get; set; } | Λαμβάνει ή ορίζει τις σημαίες του επιπέδου. bit 0 = προστασία διαφάνειας; bit 1 = ορατό; bit 2 = απαρχαιωμένο; bit 3 = 1 για Photoshop 5.0 και νεότερες εκδόσεις, λέει εάν το bit = 0 bit = 4 έχει χρήσιμες πληροφορίες;_0 δεδομένα pixel που δεν σχετίζονται με την εμφάνιση του εγγράφου. |
-| [Font](../../aspose.psd.fileformats.psd.layers/textlayer/font/) { get; } | Παίρνει τη γραμματοσειρά. |
+| [Disposed](../../aspose.psd/disposableobject/disposed/) { get; } | Λαμβάνει μια τιμή που υποδεικνύει εάν αυτή η παρουσία έχει απελευθερωθεί. |
+| [ExtraLength](../../aspose.psd.fileformats.psd.layers/layer/extralength/) { get; } | Λαμβάνει το μήκος των επιπλέον πληροφοριών του επιπέδου σε bytes. |
+| virtual [FileFormat](../../aspose.psd/image/fileformat/) { get; } | Λαμβάνει μια τιμή μορφής αρχείου |
+| [Filler](../../aspose.psd.fileformats.psd.layers/layer/filler/) { get; set; } | Λαμβάνει ή ορίζει το γέμισμα του επιπέδου. |
+| [FillOpacity](../../aspose.psd.fileformats.psd.layers/layer/fillopacity/) { get; set; } | Λαμβάνει ή ορίζει τη διαφάνεια γεμίσματος. |
+| [Flags](../../aspose.psd.fileformats.psd.layers/layer/flags/) { get; set; } | Λαμβάνει ή ορίζει τις σημαίες του στρώματος. bit 0 = προστασία διαφάνειας· bit 1 = ορατό· bit 2 = παρωχημένο· bit 3 = 1 για Photoshop 5.0 και μεταγενέστερα, υποδεικνύει εάν το bit 4 περιέχει χρήσιμες πληροφορίες· bit 4 = δεδομένα pixel που δεν επηρεάζουν την εμφάνιση του εγγράφου. |
+| [Font](../../aspose.psd.fileformats.psd.layers/textlayer/font/) { get; } | Λαμβάνει τη γραμματοσειρά. |
 | override [HasAlpha](../../aspose.psd.fileformats.psd.layers/layer/hasalpha/) { get; } | Λαμβάνει μια τιμή που υποδεικνύει εάν αυτή η παρουσία έχει άλφα. |
 | virtual [HasBackgroundColor](../../aspose.psd/image/hasbackgroundcolor/) { get; set; } | Λαμβάνει ή ορίζει μια τιμή που υποδεικνύει εάν η εικόνα έχει χρώμα φόντου. |
 | virtual [HasTransparentColor](../../aspose.psd/rasterimage/hastransparentcolor/) { get; set; } | Λαμβάνει μια τιμή που υποδεικνύει εάν η εικόνα έχει διαφανές χρώμα. |
 | override [Height](../../aspose.psd.fileformats.psd.layers/layer/height/) { get; } | Λαμβάνει το ύψος της εικόνας. |
-| virtual [HorizontalResolution](../../aspose.psd/rasterimage/horizontalresolution/) { get; set; } | Λαμβάνει ή ορίζει την οριζόντια ανάλυση, σε pixel ανά ίντσα, αυτής[`RasterImage`](../../aspose.psd/rasterimage/) . |
-| virtual [ImageOpacity](../../aspose.psd/rasterimage/imageopacity/) { get; } | Λαμβάνει αδιαφάνεια αυτής της εικόνας. |
-| [InnerText](../../aspose.psd.fileformats.psd.layers/textlayer/innertext/) { get; } | Λαμβάνει το κείμενο του layer |
-| [InterruptMonitor](../../aspose.psd/image/interruptmonitor/) { get; set; } | Λήψη ή ρύθμιση της οθόνης διακοπής. |
-| override [IsCached](../../aspose.psd/rastercachedimage/iscached/) { get; } | Λαμβάνει μια τιμή που υποδεικνύει εάν τα δεδομένα εικόνας αποθηκεύονται προσωρινά. |
-| [IsRawDataAvailable](../../aspose.psd/rasterimage/israwdataavailable/) { get; } | Λαμβάνει μια τιμή που υποδεικνύει εάν είναι διαθέσιμη η φόρτωση πρωτογενών δεδομένων. |
-| [IsVisible](../../aspose.psd.fileformats.psd.layers/layer/isvisible/) { get; set; } | Λαμβάνει ή ορίζει μια τιμή που υποδεικνύει εάν το επίπεδο είναι ορατό |
-| virtual [IsVisibleInGroup](../../aspose.psd.fileformats.psd.layers/layer/isvisibleingroup/) { get; } | Λαμβάνει μια τιμή που υποδεικνύει εάν αυτή η παρουσία είναι ορατή σε ομάδα (Εάν το στρώμα δεν είναι στην ομάδα, σημαίνει ομάδα ρίζας). |
-| [LayerBlendingRangesData](../../aspose.psd.fileformats.psd.layers/layer/layerblendingrangesdata/) { get; set; } | Λαμβάνει ή ορίζει τα δεδομένα σειρών ανάμειξης επιπέδων. |
-| [LayerCreationDateTime](../../aspose.psd.fileformats.psd.layers/layer/layercreationdatetime/) { get; set; } | Λαμβάνει ή ορίζει την ώρα της ημερομηνίας δημιουργίας επιπέδου. |
-| [LayerLock](../../aspose.psd.fileformats.psd.layers/layer/layerlock/) { get; set; } | Λαμβάνει ή ορίζει το κλείδωμα επιπέδου. Λάβετε υπόψη ότι εάν έχει οριστεί η σημαία LayerFlags.TransparencyProtected, θα αντικατασταθεί από τη σημαία κλειδώματος επιπέδου. Για να επιστρέψετε τη σημαία LayerFlags.TransparencyProtected πρέπει να κάνετε αίτηση για την επιλογή layer.Flagsparency00. |
-| [LayerMaskData](../../aspose.psd.fileformats.psd.layers/layer/layermaskdata/) { get; set; } | Λαμβάνει ή ορίζει τα δεδομένα μάσκας επιπέδου. |
-| [LayerOptions](../../aspose.psd.fileformats.psd.layers/layer/layeroptions/) { get; } | Λαμβάνει τις επιλογές επιπέδου. |
-| [Left](../../aspose.psd.fileformats.psd.layers/layer/left/) { get; set; } | Λαμβάνει ή ορίζει τη θέση του αριστερού στρώματος. |
-| [Length](../../aspose.psd.fileformats.psd.layers/layer/length/) { get; } | Λαμβάνει το συνολικό μήκος στρώματος σε byte. |
-| [Name](../../aspose.psd.fileformats.psd.layers/layer/name/) { get; set; } | Λαμβάνει ή ορίζει το όνομα του επιπέδου. |
-| [Opacity](../../aspose.psd.fileformats.psd.layers/layer/opacity/) { get; set; } | Λαμβάνει ή ορίζει την αδιαφάνεια του επιπέδου. 0 = διαφανές, 255 = αδιαφανές. |
-| [Palette](../../aspose.psd/image/palette/) { get; set; } | Λαμβάνει ή ορίζει την παλέτα χρωμάτων. Η χρωματική παλέτα δεν χρησιμοποιείται όταν τα εικονοστοιχεία αναπαρίστανται απευθείας. |
-| virtual [PremultiplyComponents](../../aspose.psd/rasterimage/premultiplycomponents/) { get; set; } | Λαμβάνει ή ορίζει μια τιμή που υποδεικνύει εάν τα στοιχεία της εικόνας πρέπει να πολλαπλασιαστούν εκ των προτέρων. |
+| virtual [HorizontalResolution](../../aspose.psd/rasterimage/horizontalresolution/) { get; set; } | Λαμβάνει ή ορίζει την οριζόντια ανάλυση, σε pixel ανά ίντσα, αυτού του [`RasterImage`](../../aspose.psd/rasterimage/). |
+| virtual [ImageOpacity](../../aspose.psd/rasterimage/imageopacity/) { get; } | Λαμβάνει τη διαφάνεια αυτής της εικόνας. |
+| [InnerText](../../aspose.psd.fileformats.psd.layers/textlayer/innertext/) { get; } | Λαμβάνει το κείμενο του στρώματος |
+| [InterruptMonitor](../../aspose.psd/image/interruptmonitor/) { get; set; } | Λαμβάνει ή ορίζει τον παρακολουθητή διακοπής. |
+| override [IsCached](../../aspose.psd/rastercachedimage/iscached/) { get; } | Λαμβάνει μια τιμή που υποδεικνύει εάν τα δεδομένα εικόνας είναι προσωρινά αποθηκευμένα αυτή τη στιγμή. |
+| [IsRawDataAvailable](../../aspose.psd/rasterimage/israwdataavailable/) { get; } | Λαμβάνει μια τιμή που υποδεικνύει εάν η φόρτωση ακατέργαστων δεδομένων είναι διαθέσιμη. |
+| [IsVisible](../../aspose.psd.fileformats.psd.layers/layer/isvisible/) { get; set; } | Λαμβάνει ή ορίζει μια τιμή που υποδεικνύει εάν το στρώμα είναι ορατό |
+| virtual [IsVisibleInGroup](../../aspose.psd.fileformats.psd.layers/layer/isvisibleingroup/) { get; } | Λαμβάνει μια τιμή που υποδεικνύει εάν αυτή η παρουσία είναι ορατή στην ομάδα (Εάν το στρώμα δεν βρίσκεται σε ομάδα, σημαίνει ότι είναι η ριζική ομάδα). |
+| [LayerBlendingRangesData](../../aspose.psd.fileformats.psd.layers/layer/layerblendingrangesdata/) { get; set; } | Λαμβάνει ή ορίζει τα δεδομένα περιοχών ανάμειξης του στρώματος. |
+| [LayerCreationDateTime](../../aspose.psd.fileformats.psd.layers/layer/layercreationdatetime/) { get; set; } | Λαμβάνει ή ορίζει την ημερομηνία και ώρα δημιουργίας του στρώματος. |
+| [LayerLock](../../aspose.psd.fileformats.psd.layers/layer/layerlock/) { get; set; } | Λαμβάνει ή ορίζει το κλείδωμα του στρώματος. Σημειώστε ότι εάν η σημαία LayerFlags.TransparencyProtected είναι ορισμένη, θα αντικατασταθεί από τη σημαία κλειδώματος στρώματος. Για να επιστραφεί η σημαία LayerFlags.TransparencyProtected, πρέπει να εφαρμοστεί η επιλογή στρώματος layer.Flags &#x7C;= LayerFlags.TransparencyProtected |
+| [LayerMaskData](../../aspose.psd.fileformats.psd.layers/layer/layermaskdata/) { get; set; } | Λαμβάνει ή ορίζει τα δεδομένα μάσκας του στρώματος. |
+| [LayerOptions](../../aspose.psd.fileformats.psd.layers/layer/layeroptions/) { get; } | Λαμβάνει τις επιλογές του στρώματος. |
+| virtual [Left](../../aspose.psd.fileformats.psd.layers/layer/left/) { get; set; } | Λαμβάνει ή ορίζει τη θέση αριστερά του στρώματος. |
+| [Length](../../aspose.psd.fileformats.psd.layers/layer/length/) { get; } | Λαμβάνει το συνολικό μήκος του στρώματος σε bytes. |
+| [Name](../../aspose.psd.fileformats.psd.layers/layer/name/) { get; set; } | Λαμβάνει ή ορίζει το όνομα του στρώματος. |
+| [Opacity](../../aspose.psd.fileformats.psd.layers/layer/opacity/) { get; set; } | Λαμβάνει ή ορίζει τη διαφάνεια του στρώματος. 0 = διαφανές, 255 = αδιαφανές. |
+| [Palette](../../aspose.psd/image/palette/) { get; set; } | Λαμβάνει ή ορίζει την παλέτα χρωμάτων. Η παλέτα χρωμάτων δεν χρησιμοποιείται όταν τα pixel αναπαρίστανται άμεσα. |
+| virtual [PremultiplyComponents](../../aspose.psd/rasterimage/premultiplycomponents/) { get; set; } | Λαμβάνει ή ορίζει μια τιμή που υποδεικνύει εάν τα στοιχεία της εικόνας πρέπει να είναι προπολλαπλασιασμένα. |
 | [RawCustomColorConverter](../../aspose.psd/rasterimage/rawcustomcolorconverter/) { get; set; } | Λαμβάνει ή ορίζει τον προσαρμοσμένο μετατροπέα χρωμάτων |
-| virtual [RawDataFormat](../../aspose.psd/rasterimage/rawdataformat/) { get; } | Λαμβάνει τη μορφή πρωτογενών δεδομένων. |
-| [RawDataSettings](../../aspose.psd/rasterimage/rawdatasettings/) { get; } | Λαμβάνει τις τρέχουσες ρυθμίσεις πρωτογενών δεδομένων. Σημείωση όταν χρησιμοποιείτε αυτές τις ρυθμίσεις, τα δεδομένα φορτώνονται χωρίς μετατροπή. |
-| [RawFallbackIndex](../../aspose.psd/rasterimage/rawfallbackindex/) { get; set; } | Λαμβάνει ή ορίζει το εφεδρικό ευρετήριο για χρήση όταν το ευρετήριο παλέτας είναι εκτός ορίων |
-| [RawIndexedColorConverter](../../aspose.psd/rasterimage/rawindexedcolorconverter/) { get; set; } | Λαμβάνει ή ορίζει τον μετατροπέα χρώματος με ευρετήριο |
-| virtual [RawLineSize](../../aspose.psd/rasterimage/rawlinesize/) { get; } | Λαμβάνει το ακατέργαστο μέγεθος γραμμής σε byte. |
-| [Resources](../../aspose.psd.fileformats.psd.layers/layer/resources/) { get; set; } | Λαμβάνει ή ορίζει τους πόρους του επιπέδου. |
-| [Right](../../aspose.psd.fileformats.psd.layers/layer/right/) { get; set; } | Λαμβάνει ή ορίζει τη σωστή θέση στρώσης. |
-| [SheetColorHighlight](../../aspose.psd.fileformats.psd.layers/layer/sheetcolorhighlight/) { get; set; } | Λαμβάνει ή ορίζει την επισήμανση χρώματος διακοσμητικού φύλλου στη λίστα στρώσεων |
+| virtual [RawDataFormat](../../aspose.psd/rasterimage/rawdataformat/) { get; } | Λαμβάνει τη μορφή ακατέργαστων δεδομένων. |
+| [RawDataSettings](../../aspose.psd/rasterimage/rawdatasettings/) { get; } | Λαμβάνει τις τρέχουσες ρυθμίσεις ακατέργαστων δεδομένων. Σημειώστε ότι όταν χρησιμοποιείτε αυτές τις ρυθμίσεις, τα δεδομένα φορτώνονται χωρίς μετατροπή. |
+| [RawFallbackIndex](../../aspose.psd/rasterimage/rawfallbackindex/) { get; set; } | Ανακτά ή ορίζει το εφεδρικό δείκτη που θα χρησιμοποιηθεί όταν ο δείκτης παλέτας είναι εκτός ορίων |
+| [RawIndexedColorConverter](../../aspose.psd/rasterimage/rawindexedcolorconverter/) { get; set; } | Ανακτά ή ορίζει τον μετατροπέα χρωμάτων με δείκτη |
+| virtual [RawLineSize](../../aspose.psd/rasterimage/rawlinesize/) { get; } | Λαμβάνει το μέγεθος της ακατέργαστης γραμμής σε byte. |
+| [Resources](../../aspose.psd.fileformats.psd.layers/layer/resources/) { get; set; } | Ανακτά ή ορίζει τους πόρους στρώσης. |
+| virtual [Right](../../aspose.psd.fileformats.psd.layers/layer/right/) { get; set; } | Ανακτά ή ορίζει τη θέση της δεξιάς στρώσης. |
+| [SheetColorHighlight](../../aspose.psd.fileformats.psd.layers/layer/sheetcolorhighlight/) { get; set; } | Ανακτά ή ορίζει την επισήμανση χρώματος διακοσμητικού φύλλου στη λίστα στρώσεων |
 | [Size](../../aspose.psd/image/size/) { get; } | Λαμβάνει το μέγεθος της εικόνας. |
 | [Text](../../aspose.psd.fileformats.psd.layers/textlayer/text/) { get; } | Λαμβάνει το κείμενο. |
-| [TextBoundBox](../../aspose.psd.fileformats.psd.layers/textlayer/textboundbox/) { get; set; } | Λαμβάνει ή ορίζει το πλαίσιο δεσμευμένου κειμένου. |
-| [TextColor](../../aspose.psd.fileformats.psd.layers/textlayer/textcolor/) { get; } | Παίρνει το χρώμα του κειμένου. |
+| [TextBoundBox](../../aspose.psd.fileformats.psd.layers/textlayer/textboundbox/) { get; set; } | Λαμβάνει ή ορίζει το πλαίσιο οριοθέτησης του κειμένου. |
+| [TextColor](../../aspose.psd.fileformats.psd.layers/textlayer/textcolor/) { get; } | Λαμβάνει το χρώμα του κειμένου. |
 | [TextData](../../aspose.psd.fileformats.psd.layers/textlayer/textdata/) { get; } | Λαμβάνει τα τμήματα του κειμένου. |
-| [Top](../../aspose.psd.fileformats.psd.layers/layer/top/) { get; set; } | Λαμβάνει ή ορίζει τη θέση του επάνω στρώματος. |
+| virtual [Top](../../aspose.psd.fileformats.psd.layers/layer/top/) { get; set; } | Ανακτά ή ορίζει τη θέση της επάνω στρώσης. |
 | [TransformMatrix](../../aspose.psd.fileformats.psd.layers/textlayer/transformmatrix/) { get; set; } | Λαμβάνει ή ορίζει τον πίνακα μετασχηματισμού |
-| virtual [TransparentColor](../../aspose.psd/rasterimage/transparentcolor/) { get; set; } | Παίρνει την εικόνα διαφανές χρώμα. |
-| virtual [UpdateXmpData](../../aspose.psd/rasterimage/updatexmpdata/) { get; set; } | Λαμβάνει ή ορίζει μια τιμή που υποδεικνύει εάν θα ενημερώσει τα μεταδεδομένα XMP. |
-| virtual [UseRawData](../../aspose.psd/rasterimage/userawdata/) { get; set; } | Λαμβάνει ή ορίζει μια τιμή που υποδεικνύει εάν θα χρησιμοποιηθεί φόρτωση πρωτογενών δεδομένων όταν είναι διαθέσιμη η φόρτωση πρωτογενών δεδομένων. |
-| virtual [VerticalResolution](../../aspose.psd/rasterimage/verticalresolution/) { get; set; } | Λαμβάνει ή ορίζει την κατακόρυφη ανάλυση, σε pixel ανά ίντσα, αυτής[`RasterImage`](../../aspose.psd/rasterimage/) . |
+| virtual [TransparentColor](../../aspose.psd/rasterimage/transparentcolor/) { get; set; } | Λαμβάνει το διαφανές χρώμα της εικόνας. |
+| virtual [UpdateXmpData](../../aspose.psd/rasterimage/updatexmpdata/) { get; set; } | Ανακτά ή ορίζει μια τιμή που υποδεικνύει εάν θα ενημερωθούν τα μεταδεδομένα XMP. |
+| virtual [UsePalette](../../aspose.psd/image/usepalette/) { get; } | Λαμβάνει μια τιμή που υποδεικνύει εάν χρησιμοποιείται η παλέτα της εικόνας. |
+| virtual [UseRawData](../../aspose.psd/rasterimage/userawdata/) { get; set; } | Ανακτά ή ορίζει μια τιμή που υποδεικνύει εάν θα χρησιμοποιηθεί η φόρτωση ακατέργαστων δεδομένων όταν η φόρτωση ακατέργαστων δεδομένων είναι διαθέσιμη. |
+| virtual [VerticalResolution](../../aspose.psd/rasterimage/verticalresolution/) { get; set; } | Ανακτά ή ορίζει την κάθετη ανάλυση, σε pixel ανά ίντσα, αυτού του [`RasterImage`](../../aspose.psd/rasterimage/). |
+| [WarpSettings](../../aspose.psd.fileformats.psd.layers/textlayer/warpsettings/) { get; set; } | Ανακτά ή ορίζει τις παραμέτρους Warp που είχαν οριστεί ή ληφθεί από τον πόρο (προεπιλογή) |
 | override [Width](../../aspose.psd.fileformats.psd.layers/layer/width/) { get; } | Λαμβάνει το πλάτος της εικόνας. |
-| virtual [XmpData](../../aspose.psd/rasterimage/xmpdata/) { get; set; } | Λαμβάνει ή ορίζει τα μεταδεδομένα XMP. |
+| virtual [XmpData](../../aspose.psd/rasterimage/xmpdata/) { get; set; } | Ανακτά ή ορίζει τα μεταδεδομένα XMP. |
 
 ## Μέθοδοι
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
-| [AddLayerMask](../../aspose.psd.fileformats.psd.layers/layer/addlayermask/)(LayerMaskData) | Προσθέτει τη μάσκα στο τρέχον επίπεδο. |
-| override [AdjustBrightness](../../aspose.psd/rastercachedimage/adjustbrightness/)(int) | Προσαρμογή φωτεινότητας για την εικόνα. |
+| [AddLayerMask](../../aspose.psd.fileformats.psd.layers/layer/addlayermask/)(LayerMaskData) | Προσθέτει τη μάσκα στην τρέχουσα στρώση. |
+| override [AdjustBrightness](../../aspose.psd/rastercachedimage/adjustbrightness/)(int) | Ρύθμιση της φωτεινότητας για την εικόνα. |
 | override [AdjustContrast](../../aspose.psd/rastercachedimage/adjustcontrast/)(float) | Αντίθεση εικόνας |
-| override [AdjustGamma](../../aspose.psd/rastercachedimage/adjustgamma/)(float) | Διόρθωση γάμμα εικόνας. |
-| override [AdjustGamma](../../aspose.psd/rastercachedimage/adjustgamma/)(float, float, float) | Διόρθωση γάμμα εικόνας. |
-| override [BinarizeBradley](../../aspose.psd/rastercachedimage/binarizebradley/)(double) | Δυαδοποίηση μιας εικόνας χρησιμοποιώντας τον προσαρμοστικό αλγόριθμο κατωφλίου του Bradley χρησιμοποιώντας το ενσωματωμένο thresholding |
-| override [BinarizeBradley](../../aspose.psd/rastercachedimage/binarizebradley/)(double, int) | Δυαδοποίηση μιας εικόνας χρησιμοποιώντας τον προσαρμοστικό αλγόριθμο κατωφλίου του Bradley χρησιμοποιώντας το ενσωματωμένο thresholding |
-| override [BinarizeFixed](../../aspose.psd/rastercachedimage/binarizefixed/)(byte) | Δυαδοποίηση εικόνας με προκαθορισμένο όριο |
-| override [BinarizeOtsu](../../aspose.psd/rastercachedimage/binarizeotsu/)() | Δυαδοποίηση εικόνας με thresholding Otsu |
-| override [CacheData](../../aspose.psd/rastercachedimage/cachedata/)() | Αποθηκεύει προσωρινά τα δεδομένα και διασφαλίζει ότι δεν θα πραγματοποιηθεί πρόσθετη φόρτωση δεδομένων από το υποκείμενο[`DataStreamContainer`](../../aspose.psd/datastreamsupporter/datastreamcontainer/) . |
-| [CanSave](../../aspose.psd/image/cansave/)(ImageOptionsBase) | Καθορίζει εάν η εικόνα μπορεί να αποθηκευτεί στην καθορισμένη μορφή αρχείου που αντιπροσωπεύεται από τις περασμένες επιλογές αποθήκευσης. |
+| override [AdjustGamma](../../aspose.psd/rastercachedimage/adjustgamma/)(float) | Διόρθωση γάμμα μιας εικόνας. |
+| override [AdjustGamma](../../aspose.psd/rastercachedimage/adjustgamma/)(float, float, float) | Διόρθωση γάμμα μιας εικόνας. |
+| [ApplyLayerMask](../../aspose.psd.fileformats.psd.layers/layer/applylayermask/)() | Εφαρμόζει τη μάσκα στρώσης στο στρώμα, στη συνέχεια διαγράφει τη μάσκα. |
+| override [BinarizeBradley](../../aspose.psd/rastercachedimage/binarizebradley/)(double) | Δυαδικοποίηση μιας εικόνας χρησιμοποιώντας τον αλγόριθμο προσαρμοστικού κατωφλίου του Bradley με χρήση του ολοκληρωτικού κατωφλίου εικόνας. |
+| override [BinarizeBradley](../../aspose.psd/rastercachedimage/binarizebradley/)(double, int) | Δυαδικοποίηση μιας εικόνας χρησιμοποιώντας τον αλγόριθμο προσαρμοστικού κατωφλίου του Bradley με χρήση του ολοκληρωτικού κατωφλίου εικόνας. |
+| override [BinarizeFixed](../../aspose.psd/rastercachedimage/binarizefixed/)(byte) | Δυαδικοποίηση μιας εικόνας με προκαθορισμένο κατώφλι |
+| override [BinarizeOtsu](../../aspose.psd/rastercachedimage/binarizeotsu/)() | Δυαδικοποίηση μιας εικόνας με κατώφλι Otsu |
+| override [CacheData](../../aspose.psd/rastercachedimage/cachedata/)() | Αποθηκεύει στην κρυφή μνήμη τα δεδομένα και εξασφαλίζει ότι δεν θα γίνει πρόσθετη φόρτωση δεδομένων από το υποκείμενο [`DataStreamContainer`](../../aspose.psd/datastreamsupporter/datastreamcontainer/). |
+| [CanSave](../../aspose.psd/image/cansave/)(ImageOptionsBase) | Καθορίζει εάν η εικόνα μπορεί να αποθηκευτεί στη συγκεκριμένη μορφή αρχείου που αντιπροσωπεύεται από τις παρεχόμενες επιλογές αποθήκευσης. |
 | override [Crop](../../aspose.psd/rastercachedimage/crop/)(Rectangle) | Περικοπή της εικόνας. |
 | virtual [Crop](../../aspose.psd/rasterimage/crop/)(int, int, int, int) | Περικοπή εικόνας με μετατοπίσεις. |
-| [Dispose](../../aspose.psd/disposableobject/dispose/)() | Διαθέτει την τρέχουσα παρουσία. |
-| [Dither](../../aspose.psd/rasterimage/dither/)(DitheringMethod, int) | Εκτελεί παραμόρφωση στην τρέχουσα εικόνα. |
-| override [Dither](../../aspose.psd/rastercachedimage/dither/)(DitheringMethod, int, IColorPalette) | Εκτελεί παραμόρφωση στην τρέχουσα εικόνα. |
-| [DrawImage](../../aspose.psd.fileformats.psd.layers/layer/drawimage/)(Point, RasterImage) | Σχεδιάζει την εικόνα σε επίπεδο. |
+| [Dispose](../../aspose.psd/disposableobject/dispose/)() | Αποδεσμεύει την τρέχουσα παρουσία. |
+| [Dither](../../aspose.psd/rasterimage/dither/)(DitheringMethod, int) | Εκτελεί dithering στην τρέχουσα εικόνα. |
+| override [Dither](../../aspose.psd/rastercachedimage/dither/)(DitheringMethod, int, IColorPalette) | Εκτελεί dithering στην τρέχουσα εικόνα. |
+| [DrawImage](../../aspose.psd.fileformats.psd.layers/layer/drawimage/)(Point, RasterImage) | Σχεδιάζει την εικόνα στο layer. |
 | virtual [Filter](../../aspose.psd/rasterimage/filter/)(Rectangle, FilterOptionsBase) | Φιλτράρει το καθορισμένο ορθογώνιο. |
-| [GetArgb32Pixel](../../aspose.psd/rasterimage/getargb32pixel/)(int, int) | Λαμβάνει μια εικόνα 32-bit ARGB pixel. |
-| [GetDefaultArgb32Pixels](../../aspose.psd/rasterimage/getdefaultargb32pixels/)(Rectangle) | Λαμβάνει τον προεπιλεγμένο πίνακα pixel ARGB 32-bit. |
+| [GetArgb32Pixel](../../aspose.psd/rasterimage/getargb32pixel/)(int, int) | Λαμβάνει ένα pixel εικόνας 32-bit ARGB. |
+| [GetDefaultArgb32Pixels](../../aspose.psd/rasterimage/getdefaultargb32pixels/)(Rectangle) | Λαμβάνει τον προεπιλεγμένο πίνακα pixel 32-bit ARGB. |
 | virtual [GetDefaultOptions](../../aspose.psd/image/getdefaultoptions/)(object[]) | Λαμβάνει τις προεπιλεγμένες επιλογές. |
 | [GetDefaultPixels](../../aspose.psd/rasterimage/getdefaultpixels/)(Rectangle, IPartialArgb32PixelLoader) | Λαμβάνει τον προεπιλεγμένο πίνακα pixel χρησιμοποιώντας μερικό φορτωτή pixel. |
-| [GetDefaultRawData](../../aspose.psd/rasterimage/getdefaultrawdata/)(Rectangle, RawDataSettings) | Λαμβάνει τον προεπιλεγμένο πίνακα πρωτογενών δεδομένων. |
-| [GetDefaultRawData](../../aspose.psd/rasterimage/getdefaultrawdata/)(Rectangle, IPartialRawDataLoader, RawDataSettings) | Λαμβάνει τον προεπιλεγμένο πίνακα ακατέργαστων δεδομένων χρησιμοποιώντας μερικό φορτωτή εικονοστοιχείων. |
-| [GetFonts](../../aspose.psd.fileformats.psd.layers/textlayer/getfonts/)() | Λαμβάνει το σύνολο γραμματοσειρών του επιπέδου κειμένου. |
-| override [GetHashCode](../../aspose.psd.fileformats.psd.layers/layer/gethashcode/)() | Επιστρέφει έναν κωδικό κατακερματισμού για αυτήν την εμφάνιση. |
-| virtual [GetModifyDate](../../aspose.psd/rasterimage/getmodifydate/)(bool) | Λαμβάνει την ημερομηνία και την ώρα της τελευταίας τροποποίησης της εικόνας του πόρου. |
-| virtual [GetOriginalOptions](../../aspose.psd/image/getoriginaloptions/)() | Λαμβάνει τις επιλογές με βάση τις ρυθμίσεις του αρχικού αρχείου. Αυτό μπορεί να είναι χρήσιμο για να διατηρήσουμε το βάθος bit και άλλες παραμέτρους της αρχικής εικόνας αμετάβλητες. Για παράδειγμα, αν φορτώσουμε μια ασπρόμαυρη εικόνα PNG με 1 bit ανά pixel και στη συνέχεια αποθηκεύστε το χρησιμοποιώντας το [`Save`](../../aspose.psd/datastreamsupporter/save/) Με τη μέθοδο, θα παραχθεί η εικόνα εξόδου PNG με 8 bit ανά pixel. Για να το αποφύγετε και να αποθηκεύσετε εικόνα PNG με 1 bit ανά pixel, χρησιμοποιήστε αυτήν τη μέθοδο για να λάβετε τις αντίστοιχες επιλογές αποθήκευσης και να τις μεταφέρετε στο[`Save`](../../aspose.psd/image/save/)μέθοδος ως δεύτερη παράμετρος. |
-| [GetPixel](../../aspose.psd/rasterimage/getpixel/)(int, int) | Λαμβάνει ένα εικονοστοιχείο εικόνας. |
+| [GetDefaultRawData](../../aspose.psd/rasterimage/getdefaultrawdata/)(Rectangle, RawDataSettings) | Λαμβάνει τον προεπιλεγμένο ακατέργαστο πίνακα δεδομένων. |
+| [GetDefaultRawData](../../aspose.psd/rasterimage/getdefaultrawdata/)(Rectangle, IPartialRawDataLoader, RawDataSettings) | Λαμβάνει τον προεπιλεγμένο ακατέργαστο πίνακα δεδομένων χρησιμοποιώντας μερικό φορτωτή pixel. |
+| [GetFonts](../../aspose.psd.fileformats.psd.layers/textlayer/getfonts/)() | Λαμβάνει το σύνολο γραμματοσειρών του στρώματος κειμένου. |
+| override [GetHashCode](../../aspose.psd.fileformats.psd.layers/layer/gethashcode/)() | Επιστρέφει έναν κωδικό hash για αυτήν την παρουσία. |
+| virtual [GetModifyDate](../../aspose.psd/rasterimage/getmodifydate/)(bool) | Λαμβάνει την ημερομηνία και ώρα που η εικόνα πόρου τροποποιήθηκε τελευταία. |
+| virtual [GetOriginalOptions](../../aspose.psd/image/getoriginaloptions/)() | Λαμβάνει τις επιλογές βάσει των αρχικών ρυθμίσεων του αρχείου. Αυτό μπορεί να είναι χρήσιμο για να διατηρηθεί το βάθος χρώματος και άλλες παράμετροι της αρχικής εικόνας αμετάβλητες. Για παράδειγμα, εάν φορτώσουμε μια ασπρόμαυρη εικόνα PNG με 1 bit ανά pixel και στη συνέχεια την αποθηκεύσουμε χρησιμοποιώντας τη μέθοδο [`Save`](../../aspose.psd/datastreamsupporter/save/), θα παραχθεί η έξοδος PNG εικόνα με 8-bit ανά pixel. Για να το αποφύγουμε και να αποθηκεύσουμε την PNG εικόνα με 1-bit ανά pixel, χρησιμοποιήστε αυτή τη μέθοδο για να λάβετε τις αντίστοιχες επιλογές αποθήκευσης και περάστε τις στη μέθοδο [`Save`](../../aspose.psd/image/save/) ως δεύτερη παράμετρο. |
+| [GetPixel](../../aspose.psd/rasterimage/getpixel/)(int, int) | Λαμβάνει ένα pixel εικόνας. Προειδοποίηση απόδοσης: Αποφύγετε τη χρήση αυτής της μεθόδου για επανάληψη σε όλα τα pixel της εικόνας, καθώς μπορεί να προκαλέσει σημαντικά προβλήματα απόδοσης. Για πιο αποδοτική διαχείριση pixel, χρησιμοποιήστε τη μέθοδο `LoadArgb32Pixels` για να ανακτήσετε ολόκληρο τον πίνακα pixel ταυτόχρονα. |
 | [GetSkewAngle](../../aspose.psd/rasterimage/getskewangle/)() | Λαμβάνει τη γωνία κλίσης. Αυτή η μέθοδος εφαρμόζεται σε σαρωμένα έγγραφα κειμένου, για τον προσδιορισμό της γωνίας κλίσης κατά τη σάρωση. |
-| override [Grayscale](../../aspose.psd/rastercachedimage/grayscale/)() | Μεταμόρφωση μιας εικόνας στην αναπαράστασή της σε κλίμακα του γκρι |
-| [LoadArgb32Pixels](../../aspose.psd/rasterimage/loadargb32pixels/)(Rectangle) | Φορτώνει pixel ARGB 32-bit. |
-| [LoadArgb64Pixels](../../aspose.psd/rasterimage/loadargb64pixels/)(Rectangle) | Φορτώνει pixel ARGB 64-bit. |
-| [LoadCmyk32Pixels](../../aspose.psd/rasterimage/loadcmyk32pixels/)(Rectangle) | Φορτώνει pixel σε μορφή CMYK. |
-| [LoadPartialArgb32Pixels](../../aspose.psd/rasterimage/loadpartialargb32pixels/)(Rectangle, IPartialArgb32PixelLoader) | Φορτώνει pixel ARGB 32-bit μερικώς ανά πακέτα. |
-| [LoadPartialPixels](../../aspose.psd/rasterimage/loadpartialpixels/)(Rectangle, IPartialPixelLoader) | Φορτώνει τα pixel μερικώς ανά πακέτα. |
-| [LoadPixels](../../aspose.psd/rasterimage/loadpixels/)(Rectangle) | Φορτώνει pixel. |
+| override [Grayscale](../../aspose.psd/rastercachedimage/grayscale/)() | Μετασχηματισμός μιας εικόνας στην γκρι κλίμακα της |
+| [LoadArgb32Pixels](../../aspose.psd/rasterimage/loadargb32pixels/)(Rectangle) | Φορτώνει εικονοστοιχεία 32-bit ARGB. |
+| [LoadArgb64Pixels](../../aspose.psd/rasterimage/loadargb64pixels/)(Rectangle) | Φορτώνει εικονοστοιχεία 64-bit ARGB. |
+| [LoadCmyk32Pixels](../../aspose.psd/rasterimage/loadcmyk32pixels/)(Rectangle) | Φορτώνει εικονοστοιχεία σε μορφή CMYK. |
+| [LoadCmykPixels](../../aspose.psd/rasterimage/loadcmykpixels/)(Rectangle) | Φορτώνει εικονοστοιχεία σε μορφή CMYK. Αυτή η μέθοδος είναι παρωχημένη. Παρακαλούμε χρησιμοποιήστε πιο αποτελεσματική τη μέθοδο [`LoadCmyk32Pixels`](../../aspose.psd/rasterimage/loadcmyk32pixels/). |
+| [LoadPartialArgb32Pixels](../../aspose.psd/rasterimage/loadpartialargb32pixels/)(Rectangle, IPartialArgb32PixelLoader) | Φορτώνει εικονοστοιχεία 32-bit ARGB μερικώς ανά πακέτα. |
+| [LoadPartialPixels](../../aspose.psd/rasterimage/loadpartialpixels/)(Rectangle, IPartialPixelLoader) | Φορτώνει εικονοστοιχεία μερικώς ανά πακέτα. |
+| [LoadPixels](../../aspose.psd/rasterimage/loadpixels/)(Rectangle) | Φορτώνει εικονοστοιχεία. |
 | [LoadRawData](../../aspose.psd/rasterimage/loadrawdata/)(Rectangle, RawDataSettings, IPartialRawDataLoader) | Φορτώνει ακατέργαστα δεδομένα. |
 | [LoadRawData](../../aspose.psd/rasterimage/loadrawdata/)(Rectangle, Rectangle, RawDataSettings, IPartialRawDataLoader) | Φορτώνει ακατέργαστα δεδομένα. |
-| virtual [MergeLayerTo](../../aspose.psd.fileformats.psd.layers/layer/mergelayerto/)(Layer) | Συγχωνεύει το επίπεδο με το καθορισμένο layer |
-| [NormalizeAngle](../../aspose.psd/rasterimage/normalizeangle/)() | Κανονικοποιεί τη γωνία. Αυτή η μέθοδος εφαρμόζεται σε σαρωμένα έγγραφα κειμένου για να απαλλαγούμε από τη λοξή σάρωση. Αυτή η μέθοδος χρησιμοποιεί[`GetSkewAngle`](../../aspose.psd/rasterimage/getskewangle/) και[`Rotate`](../../aspose.psd/rasterimage/rotate/) μέθοδοι. |
-| virtual [NormalizeAngle](../../aspose.psd/rasterimage/normalizeangle/)(bool, Color) | Κανονικοποιεί τη γωνία. Αυτή η μέθοδος εφαρμόζεται σε σαρωμένα έγγραφα κειμένου για να απαλλαγούμε από τη λοξή σάρωση. Αυτή η μέθοδος χρησιμοποιεί[`GetSkewAngle`](../../aspose.psd/rasterimage/getskewangle/) και[`Rotate`](../../aspose.psd/rasterimage/rotate/) μέθοδοι. |
-| [ReadArgb32ScanLine](../../aspose.psd/rasterimage/readargb32scanline/)(int) | Διαβάζει ολόκληρη τη γραμμή σάρωσης από το καθορισμένο ευρετήριο γραμμής σάρωσης. |
-| [ReadScanLine](../../aspose.psd/rasterimage/readscanline/)(int) | Διαβάζει ολόκληρη τη γραμμή σάρωσης από το καθορισμένο ευρετήριο γραμμής σάρωσης. |
-| [ReplaceColor](../../aspose.psd/rasterimage/replacecolor/)(Color, byte, Color) | Αντικαθιστά το ένα χρώμα στο άλλο με την επιτρεπόμενη διαφορά και διατηρεί την αρχική τιμή άλφα για εξοικονόμηση ομαλών άκρων. |
-| virtual [ReplaceColor](../../aspose.psd/rasterimage/replacecolor/)(int, byte, int) | Αντικαθιστά το ένα χρώμα στο άλλο με την επιτρεπόμενη διαφορά και διατηρεί την αρχική τιμή άλφα για εξοικονόμηση ομαλών άκρων. |
-| [ReplaceNonTransparentColors](../../aspose.psd/rasterimage/replacenontransparentcolors/)(Color) | Αντικαθιστά όλα τα αδιαφανή χρώματα με νέο χρώμα και διατηρεί την αρχική τιμή άλφα για εξοικονόμηση ομαλών άκρων. Σημείωση: εάν το χρησιμοποιείτε σε εικόνες χωρίς διαφάνεια, όλα τα χρώματα θα αντικατασταθούν με ένα. |
-| virtual [ReplaceNonTransparentColors](../../aspose.psd/rasterimage/replacenontransparentcolors/)(int) | Αντικαθιστά όλα τα αδιαφανή χρώματα με νέο χρώμα και διατηρεί την αρχική τιμή άλφα για εξοικονόμηση ομαλών άκρων. Σημείωση: εάν το χρησιμοποιείτε σε εικόνες χωρίς διαφάνεια, όλα τα χρώματα θα αντικατασταθούν με ένα. |
-| [Resize](../../aspose.psd/image/resize/)(int, int) | Αλλάζει το μέγεθος της εικόνας. Η προεπιλεγμένηLeftTopToLeftTopχρησιμοποιείται. |
+| virtual [MergeLayerTo](../../aspose.psd.fileformats.psd.layers/layer/mergelayerto/)(Layer) | Συγχωνεύει το επίπεδο με το καθορισμένο επίπεδο |
+| [NormalizeAngle](../../aspose.psd/rasterimage/normalizeangle/)() | Κανονικοποιεί τη γωνία. Αυτή η μέθοδος είναι εφαρμόσιμη σε σαρωμένα έγγραφα κειμένου για την απομάκρυνση της κλίσης της σάρωσης. Αυτή η μέθοδος χρησιμοποιεί τις μεθόδους [`GetSkewAngle`](../../aspose.psd/rasterimage/getskewangle/) και [`Rotate`](../../aspose.psd/rasterimage/rotate/). |
+| virtual [NormalizeAngle](../../aspose.psd/rasterimage/normalizeangle/)(bool, Color) | Κανονικοποιεί τη γωνία. Αυτή η μέθοδος είναι εφαρμόσιμη σε σαρωμένα έγγραφα κειμένου για την απομάκρυνση της κλίσης της σάρωσης. Αυτή η μέθοδος χρησιμοποιεί τις μεθόδους [`GetSkewAngle`](../../aspose.psd/rasterimage/getskewangle/) και [`Rotate`](../../aspose.psd/rasterimage/rotate/). |
+| [ReadArgb32ScanLine](../../aspose.psd/rasterimage/readargb32scanline/)(int) | Διαβάζει ολόκληρη τη γραμμή σάρωσης με τον καθορισμένο δείκτη γραμμής σάρωσης. |
+| [ReadScanLine](../../aspose.psd/rasterimage/readscanline/)(int) | Διαβάζει ολόκληρη τη γραμμή σάρωσης με τον καθορισμένο δείκτη γραμμής σάρωσης. |
+| [ReplaceColor](../../aspose.psd/rasterimage/replacecolor/)(Color, byte, Color) | Αντικαθιστά ένα χρώμα με άλλο με επιτρεπόμενη διαφορά και διατηρεί την αρχική τιμή άλφα για τη διατήρηση ομαλών άκρων. |
+| virtual [ReplaceColor](../../aspose.psd/rasterimage/replacecolor/)(int, byte, int) | Αντικαθιστά ένα χρώμα με άλλο με επιτρεπόμενη διαφορά και διατηρεί την αρχική τιμή άλφα για τη διατήρηση ομαλών άκρων. |
+| [ReplaceNonTransparentColors](../../aspose.psd/rasterimage/replacenontransparentcolors/)(Color) | Αντικαθιστά όλα τα μη διαφανή χρώματα με νέο χρώμα και διατηρεί την αρχική τιμή άλφα για τη διατήρηση ομαλών άκρων. Σημείωση: εάν το χρησιμοποιήσετε σε εικόνες χωρίς διαφάνεια, όλα τα χρώματα θα αντικατασταθούν με ένα ενιαίο. |
+| virtual [ReplaceNonTransparentColors](../../aspose.psd/rasterimage/replacenontransparentcolors/)(int) | Αντικαθιστά όλα τα μη διαφανή χρώματα με νέο χρώμα και διατηρεί την αρχική τιμή άλφα για τη διατήρηση ομαλών άκρων. Σημείωση: εάν το χρησιμοποιήσετε σε εικόνες χωρίς διαφάνεια, όλα τα χρώματα θα αντικατασταθούν με ένα ενιαίο. |
+| [Resize](../../aspose.psd/image/resize/)(int, int) | Αλλάζει το μέγεθος της εικόνας. Χρησιμοποιείται η προεπιλεγμένη μέθοδος NearestNeighbourResample. |
 | override [Resize](../../aspose.psd/rastercachedimage/resize/)(int, int, ImageResizeSettings) | Αλλάζει το μέγεθος της εικόνας. |
-| override [Resize](../../aspose.psd.fileformats.psd.layers/textlayer/resize/#resize_2)(int, int, ResizeType) | Αλλάζει το μέγεθος της εικόνας. Η προεπιλεγμένηLeftTopToLeftTopχρησιμοποιείται. |
+| override [Resize](../../aspose.psd.fileformats.psd.layers/textlayer/resize/#resize_2)(int, int, ResizeType) | Αλλάζει το μέγεθος της εικόνας. Χρησιμοποιείται η προεπιλογή LeftTopToLeftTop. |
 | [ResizeHeightProportionally](../../aspose.psd/image/resizeheightproportionally/)(int) | Αλλάζει το ύψος αναλογικά. |
 | virtual [ResizeHeightProportionally](../../aspose.psd/image/resizeheightproportionally/)(int, ImageResizeSettings) | Αλλάζει το ύψος αναλογικά. |
 | virtual [ResizeHeightProportionally](../../aspose.psd/image/resizeheightproportionally/)(int, ResizeType) | Αλλάζει το ύψος αναλογικά. |
-| [ResizeWidthProportionally](../../aspose.psd/image/resizewidthproportionally/)(int) | Αλλάζει το μέγεθος του πλάτους αναλογικά. |
-| virtual [ResizeWidthProportionally](../../aspose.psd/image/resizewidthproportionally/)(int, ImageResizeSettings) | Αλλάζει το μέγεθος του πλάτους αναλογικά. |
-| virtual [ResizeWidthProportionally](../../aspose.psd/image/resizewidthproportionally/)(int, ResizeType) | Αλλάζει το μέγεθος του πλάτους αναλογικά. |
-| virtual [Rotate](../../aspose.psd/rasterimage/rotate/)(float) | Περιστροφή εικόνας γύρω από το κέντρο. |
-| override [Rotate](../../aspose.psd/rastercachedimage/rotate/)(float, bool, Color) | Περιστροφή εικόνας γύρω από το κέντρο. |
+| [ResizeWidthProportionally](../../aspose.psd/image/resizewidthproportionally/)(int) | Αλλάζει το πλάτος αναλογικά. Χρησιμοποιείται η προεπιλεγμένη μέθοδος NearestNeighbourResample. |
+| virtual [ResizeWidthProportionally](../../aspose.psd/image/resizewidthproportionally/)(int, ImageResizeSettings) | Αλλάζει το πλάτος αναλογικά. |
+| virtual [ResizeWidthProportionally](../../aspose.psd/image/resizewidthproportionally/)(int, ResizeType) | Αλλάζει το πλάτος αναλογικά. |
+| virtual [Rotate](../../aspose.psd/rasterimage/rotate/)(float) | Περιστρέφει την εικόνα γύρω από το κέντρο. |
+| override [Rotate](../../aspose.psd/rastercachedimage/rotate/)(float, bool, Color) | Περιστρέφει την εικόνα γύρω από το κέντρο. |
 | override [RotateFlip](../../aspose.psd/rastercachedimage/rotateflip/)(RotateFlipType) | Περιστρέφει, αναστρέφει ή περιστρέφει και αναστρέφει την εικόνα. |
-| [Save](../../aspose.psd/image/save/)() | Αποθηκεύει τα δεδομένα της εικόνας στην υποκείμενη ροή. |
-| override [Save](../../aspose.psd.fileformats.psd.layers/layer/save/)(Stream) | Αποθηκεύει τα δεδομένα του αντικειμένου στην καθορισμένη ροή. |
+| [Save](../../aspose.psd/image/save/)() | Αποθηκεύει τα δεδομένα της εικόνας στο υποκείμενο ρεύμα. |
+| override [Save](../../aspose.psd.fileformats.psd.layers/layer/save/)(Stream) | Αποθηκεύει τα δεδομένα του αντικειμένου στο καθορισμένο ρεύμα. |
 | [Save](../../aspose.psd/datastreamsupporter/save/)(string) | Αποθηκεύει τα δεδομένα του αντικειμένου στην καθορισμένη θέση αρχείου. |
-| [Save](../../aspose.psd/image/save/)(Stream, ImageOptionsBase) | Αποθηκεύει τα δεδομένα της εικόνας στην καθορισμένη ροή στην καθορισμένη μορφή αρχείου σύμφωνα με τις επιλογές αποθήκευσης. |
+| [Save](../../aspose.psd/image/save/)(Stream, ImageOptionsBase) | Αποθηκεύει τα δεδομένα της εικόνας στο καθορισμένο ρεύμα στην καθορισμένη μορφή αρχείου σύμφωνα με τις επιλογές αποθήκευσης. |
 | override [Save](../../aspose.psd.fileformats.psd.layers/layer/save/)(string, bool) | Αποθηκεύει τα δεδομένα του αντικειμένου στην καθορισμένη θέση αρχείου. |
 | override [Save](../../aspose.psd.fileformats.psd.layers/layer/save/)(string, ImageOptionsBase) | Αποθηκεύει τα δεδομένα του αντικειμένου στην καθορισμένη θέση αρχείου στην καθορισμένη μορφή αρχείου σύμφωνα με τις επιλογές αποθήκευσης. |
-| override [Save](../../aspose.psd.fileformats.psd.layers/layer/save/)(Stream, ImageOptionsBase, Rectangle) | Αποθηκεύει τα δεδομένα της εικόνας στην καθορισμένη ροή στην καθορισμένη μορφή αρχείου σύμφωνα με τις επιλογές αποθήκευσης. |
+| override [Save](../../aspose.psd.fileformats.psd.layers/layer/save/)(Stream, ImageOptionsBase, Rectangle) | Αποθηκεύει τα δεδομένα της εικόνας στο καθορισμένο ρεύμα στην καθορισμένη μορφή αρχείου σύμφωνα με τις επιλογές αποθήκευσης. |
 | override [Save](../../aspose.psd.fileformats.psd.layers/layer/save/)(string, ImageOptionsBase, Rectangle) | Αποθηκεύει τα δεδομένα του αντικειμένου στην καθορισμένη θέση αρχείου στην καθορισμένη μορφή αρχείου σύμφωνα με τις επιλογές αποθήκευσης. |
-| [SaveArgb32Pixels](../../aspose.psd/rasterimage/saveargb32pixels/)(Rectangle, int[]) | Αποθηκεύει τα εικονοστοιχεία ARGB 32-bit. |
+| [SaveArgb32Pixels](../../aspose.psd/rasterimage/saveargb32pixels/)(Rectangle, int[]) | Αποθηκεύει τα 32-bit ARGB pixel. |
 | [SaveCmyk32Pixels](../../aspose.psd/rasterimage/savecmyk32pixels/)(Rectangle, int[]) | Αποθηκεύει τα pixel. |
+| [SaveCmykPixels](../../aspose.psd/rasterimage/savecmykpixels/)(Rectangle, CmykColor[]) | Αποθηκεύει τα pixel. Αυτή η μέθοδος είναι παρωχημένη. Παρακαλώ χρησιμοποιήστε πιο αποτελεσματική τη μέθοδο [`SaveCmyk32Pixels`](../../aspose.psd/rasterimage/savecmyk32pixels/). |
 | [SavePixels](../../aspose.psd/rasterimage/savepixels/)(Rectangle, Color[]) | Αποθηκεύει τα pixel. |
-| [SaveRawData](../../aspose.psd/rasterimage/saverawdata/)(byte[], int, Rectangle, RawDataSettings) | Αποθηκεύει τα πρωτογενή δεδομένα. |
-| [SetArgb32Pixel](../../aspose.psd/rasterimage/setargb32pixel/)(int, int, int) | Ορίζει μια εικόνα 32-bit ARGB pixel για την καθορισμένη θέση. |
-| override [SetPalette](../../aspose.psd/rasterimage/setpalette/)(IColorPalette, bool) | Ορίζει την παλέτα εικόνων. |
-| [SetPixel](../../aspose.psd/rasterimage/setpixel/)(int, int, Color) | Ορίζει ένα εικονοστοιχείο εικόνας για την καθορισμένη θέση. |
-| virtual [SetResolution](../../aspose.psd/rasterimage/setresolution/)(double, double) | Ορίζει την ανάλυση για αυτό[`RasterImage`](../../aspose.psd/rasterimage/) . |
-| [ShallowCopy](../../aspose.psd.fileformats.psd.layers/layer/shallowcopy/)() | Δημιουργεί ένα ρηχό αντίγραφο του τρέχοντος επιπέδου. Παρακαλώ[https://msdn.microsoft.com/ru-ru/library/system.object.memberwiseclone(v=vs.110).aspx](https://msdn.microsoft.com/ru-ru/library/system.object.memberwiseclone(v=vs.110).aspx) για επεξήγηση. |
-| virtual [ToBitmap](../../aspose.psd/rasterimage/tobitmap/)() | Μετατρέπει την εικόνα ράστερ στο bitmap. |
+| [SaveRawData](../../aspose.psd/rasterimage/saverawdata/)(byte[], int, Rectangle, RawDataSettings) | Αποθηκεύει τα ακατέργαστα δεδομένα. |
+| [SetArgb32Pixel](../../aspose.psd/rasterimage/setargb32pixel/)(int, int, int) | Ορίζει ένα 32-bit ARGB pixel εικόνας για τη συγκεκριμένη θέση. |
+| override [SetPalette](../../aspose.psd/rasterimage/setpalette/)(IColorPalette, bool) | Ορίζει την παλέτα της εικόνας. |
+| [SetPixel](../../aspose.psd/rasterimage/setpixel/)(int, int, Color) | Ορίζει το pixel της εικόνας για τη συγκεκριμένη θέση. |
+| virtual [SetResolution](../../aspose.psd/rasterimage/setresolution/)(double, double) | Ορίζει την ανάλυση για αυτή τη [`RasterImage`](../../aspose.psd/rasterimage/). |
+| [ShallowCopy](../../aspose.psd.fileformats.psd.layers/layer/shallowcopy/)() | Δημιουργεί ένα ρηχό αντίγραφο του τρέχοντος Layer. Παρακαλώ [https://msdn.microsoft.com/ru-ru/library/system.object.memberwiseclone(v=vs.110).aspx](https://msdn.microsoft.com/ru-ru/library/system.object.memberwiseclone(v=vs.110).aspx) για εξήγηση. |
+| virtual [ToBitmap](../../aspose.psd/rasterimage/tobitmap/)() | Μετατρέπει την raster εικόνα σε bitmap. |
 | [UpdateText](../../aspose.psd.fileformats.psd.layers/textlayer/updatetext/#updatetext)(string) | Ενημερώνει το κείμενο. |
 | [UpdateText](../../aspose.psd.fileformats.psd.layers/textlayer/updatetext/#updatetext_1)(string, Color) | Ενημερώνει το κείμενο. |
 | [UpdateText](../../aspose.psd.fileformats.psd.layers/textlayer/updatetext/#updatetext_6)(string, float) | Ενημερώνει το κείμενο. |
@@ -176,12 +183,12 @@ public class TextLayer : Layer
 | [UpdateText](../../aspose.psd.fileformats.psd.layers/textlayer/updatetext/#updatetext_3)(string, Point, Color) | Ενημερώνει το κείμενο. |
 | [UpdateText](../../aspose.psd.fileformats.psd.layers/textlayer/updatetext/#updatetext_4)(string, Point, float) | Ενημερώνει το κείμενο. |
 | [UpdateText](../../aspose.psd.fileformats.psd.layers/textlayer/updatetext/#updatetext_5)(string, Point, float, Color) | Ενημερώνει το κείμενο. |
-| [WriteArgb32ScanLine](../../aspose.psd/rasterimage/writeargb32scanline/)(int, int[]) | Εγγράφει ολόκληρη τη γραμμή σάρωσης στο καθορισμένο ευρετήριο γραμμής σάρωσης. |
-| [WriteScanLine](../../aspose.psd/rasterimage/writescanline/)(int, Color[]) | Εγγράφει ολόκληρη τη γραμμή σάρωσης στο καθορισμένο ευρετήριο γραμμής σάρωσης. |
+| [WriteArgb32ScanLine](../../aspose.psd/rasterimage/writeargb32scanline/)(int, int[]) | Γράφει ολόκληρη τη γραμμή σάρωσης στον καθορισμένο δείκτη γραμμής σάρωσης. |
+| [WriteScanLine](../../aspose.psd/rasterimage/writescanline/)(int, Color[]) | Γράφει ολόκληρη τη γραμμή σάρωσης στον καθορισμένο δείκτη γραμμής σάρωσης. |
 
-### Παραδείγματα
+## Παραδείγματα
 
-Το ακόλουθο παράδειγμα δείχνει ότι η στοίχιση κειμένου μέσω του ITextPortion για γλώσσες από δεξιά προς τα αριστερά λειτουργεί σωστά.
+Το παρακάτω παράδειγμα δείχνει ότι η Στοίχιση Κειμένου μέσω ITextPortion για γλώσσες δεξιά‑προς‑αριστερά λειτουργεί σωστά.
 
 ```csharp
 [C#]
@@ -201,12 +208,12 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
 }
 ```
 
-Ο ακόλουθος κώδικας δείχνει πώς να λάβετε μέγεθος γραμματοσειράς για οποιοδήποτε τμήμα κειμένου στο επίπεδο κειμένου.
+Ο παρακάτω κώδικας δείχνει πώς να λάβετε το μέγεθος γραμματοσειράς για οποιοδήποτε τμήμα κειμένου στο στρώμα κειμένου.
 
 ```csharp
 [C#]
 
-// Εξήχθη λάθος μέγεθος γραμματοσειράς 
+// Εξήχθη λανθασμένο μέγεθος γραμματοσειράς 
 string filePath = "直播+电商.psd";
 
 var tolerance = 0.001;
@@ -214,7 +221,7 @@ using (var image = Image.Load(filePath))
 {
     int layerIndex = 22;
 
-    // Παλιό API (Χρησιμοποιώντας τη γραμματοσειρά της πρώτης παραγράφου)
+    // Παλαιό API (Χρήση της γραμματοσειράς της πρώτης παραγράφου)
     PsdImage psdImage = image as PsdImage;
     double[] matrix = ((TextLayer)psdImage.Layers[layerIndex]).TransformMatrix;
     double baseFontSize = ((TextLayer)psdImage.Layers[layerIndex]).Font.Size;
@@ -226,7 +233,7 @@ using (var image = Image.Load(filePath))
         throw new Exception("Font size was read incorrect");
     }
 
-    // Έλεγχος πραγματικού μεγέθους γραμματοσειράς
+    // Έλεγχος του πραγματικού μεγέθους γραμματοσειράς
     if (Math.Abs(88.425 - fontSize) > tolerance)
     {
         throw new Exception("TransformMatrix was read incorrect");
@@ -237,13 +244,13 @@ using (var image = Image.Load(filePath))
     ITextStyle style = portions[0].Style;
     double fontSizeOfPortion = matrix[0] * style.FontSize;
 
-    // Έλεγχος του μεγέθους γραμματοσειράς του βασικού τμήματος
+    // Έλεγχος του μεγέθους γραμματοσειράς της βασικής περιοχής
     if (Math.Abs(100.0 - style.FontSize) > tolerance)
     {
         throw new Exception("Font size was read incorrect");
     }
 
-    // Έλεγχος μεγέθους γραμματοσειράς πραγματικού τμήματος
+    // Έλεγχος του μεγέθους γραμματοσειράς της πραγματικής περιοχής
     if (Math.Abs(88.425 - fontSizeOfPortion) > tolerance)
     {
         throw new Exception("TransformMatrix was read incorrect");
@@ -254,7 +261,7 @@ using (var image = Image.Load(filePath))
 ### Δείτε επίσης
 
 * class [Layer](../layer/)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers](../../aspose.psd.fileformats.psd.layers/)
-* συνέλευση [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../)
 
 

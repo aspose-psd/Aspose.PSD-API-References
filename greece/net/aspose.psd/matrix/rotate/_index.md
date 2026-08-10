@@ -1,14 +1,15 @@
 ---
-title: Matrix.Rotate
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Matrix μέθοδος. Εφαρμόζει δεξιόστροφη περιστροφή ενός ποσού που καθορίζεται στην παράμετρο γωνίας γύρω από την αρχή μηδέν συντεταγμένες x και y για αυτόν τον πίνακα με την καθορισμένη σειρά.
+title: "Matrix.Rotate"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Μέθοδος Matrix. Εφαρμόζει μια δεξιόστροφη περιστροφή του ποσού που καθορίζεται στην παράμετρο γωνίας γύρω από το μηδενικό σημείο των συντεταγμένων x και y για αυτό το Matrix με την καθορισμένη σειρά"
 type: docs
 weight: 140
 url: /el/net/aspose.psd/matrix/rotate/
 ---
+{{< psd/tize >}}
 ## Rotate(float, MatrixOrder) {#rotate_1}
 
-Εφαρμόζει δεξιόστροφη περιστροφή ενός ποσού που καθορίζεται στην παράμετρο γωνίας, γύρω από την αρχή (μηδέν συντεταγμένες x και y) για αυτόν τον πίνακα με την καθορισμένη σειρά.
+Εφαρμόζει μια δεξιόστροφη περιστροφή ποσού που καθορίζεται στην παράμετρο angle, γύρω από το αρχικό σημείο (μηδενικές συντεταγμένες x και y) για αυτό το Matrix στην καθορισμένη σειρά.
 
 ```csharp
 public void Rotate(float angle, MatrixOrder order)
@@ -16,21 +17,21 @@ public void Rotate(float angle, MatrixOrder order)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| angle | Single | Η γωνία περιστροφής. |
-| order | MatrixOrder | Η σειρά του πίνακα. |
+| γωνία | Single | Η γωνία περιστροφής. |
+| σειρά | MatrixOrder | Η σειρά του πίνακα. |
 
 ### Δείτε επίσης
 
 * enum [MatrixOrder](../../matrixorder/)
 * class [Matrix](../)
-* χώρος ονομάτων [Aspose.PSD](../../matrix/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Rotate(float) {#rotate}
 
-Εφαρμόζει δεξιόστροφη περιστροφή ενός ποσού που καθορίζεται στην παράμετρο γωνίας, γύρω από την αρχή (μηδέν συντεταγμένες x και y) για αυτόν τον πίνακα με την προεπιλεγμένη σειρά (Prepend).
+Εφαρμόζει μια δεξιόστροφη περιστροφή ποσού που καθορίζεται στην παράμετρο angle, γύρω από το αρχικό σημείο (μηδενικές συντεταγμένες x και y) για αυτό το Matrix στην προεπιλεγμένη (Prepend) σειρά.
 
 ```csharp
 public void Rotate(float angle)
@@ -38,12 +39,12 @@ public void Rotate(float angle)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| angle | Single | Η γωνία περιστροφής. |
+| γωνία | Single | Η γωνία περιστροφής. |
 
 ### Δείτε επίσης
 
 * class [Matrix](../)
-* χώρος ονομάτων [Aspose.PSD](../../matrix/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

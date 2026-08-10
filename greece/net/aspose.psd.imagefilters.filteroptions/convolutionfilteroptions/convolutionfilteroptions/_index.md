@@ -1,14 +1,15 @@
 ---
-title: ConvolutionFilterOptions.ConvolutionFilterOptions
-second_title: Aspose.PSD για Αναφορά API .NET
-description: ConvolutionFilterOptions κατασκευαστής. Αρχικοποιεί μια νέα παρουσία τουConvolutionFilterOptions τάξη.
+title: "ConvolutionFilterOptions.ConvolutionFilterOptions"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Κατασκευαστής ConvolutionFilterOptions. Αρχικοποιεί μια νέα παρουσία της κλάσης ConvolutionFilterOptions"
 type: docs
 weight: 10
 url: /el/net/aspose.psd.imagefilters.filteroptions/convolutionfilteroptions/convolutionfilteroptions/
 ---
+{{< psd/tize >}}
 ## ConvolutionFilterOptions constructor
 
-Αρχικοποιεί μια νέα παρουσία του[`ConvolutionFilterOptions`](../) τάξη.
+Αρχικοποιεί μια νέα παρουσία της κλάσης [`ConvolutionFilterOptions`](../).
 
 ```csharp
 public ConvolutionFilterOptions()
@@ -17,7 +18,7 @@ public ConvolutionFilterOptions()
 ### Δείτε επίσης
 
 * class [ConvolutionFilterOptions](../)
-* χώρος ονομάτων [Aspose.PSD.ImageFilters.FilterOptions](../../convolutionfilteroptions/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageFilters.FilterOptions](../../../aspose.psd.imagefilters.filteroptions/)
+* assembly [Aspose.PSD](../../../)
 
 

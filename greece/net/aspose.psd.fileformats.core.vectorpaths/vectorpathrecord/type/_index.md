@@ -1,20 +1,21 @@
 ---
-title: VectorPathRecord.Type
-second_title: Aspose.PSD για Αναφορά API .NET
-description: VectorPathRecord ιδιοκτησία. Παίρνει τον τύπο.
+title: "VectorPathRecord.Type"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα VectorPathRecord. Λαμβάνει τον τύπο"
 type: docs
 weight: 10
 url: /el/net/aspose.psd.fileformats.core.vectorpaths/vectorpathrecord/type/
 ---
+{{< psd/tize >}}
 ## VectorPathRecord.Type property
 
-Παίρνει τον τύπο.
+Λαμβάνει τον τύπο.
 
 ```csharp
 public abstract VectorPathType Type { get; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
 Ο τύπος διανυσματικής διαδρομής.
 
@@ -22,7 +23,7 @@ public abstract VectorPathType Type { get; }
 
 * enum [VectorPathType](../../vectorpathtype/)
 * class [VectorPathRecord](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Core.VectorPaths](../../vectorpathrecord/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../../)
 
 

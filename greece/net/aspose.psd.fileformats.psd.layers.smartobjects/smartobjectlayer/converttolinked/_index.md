@@ -1,11 +1,12 @@
 ---
-title: SmartObjectLayer.ConvertToLinked
-second_title: Aspose.PSD για Αναφορά API .NET
-description: SmartObjectLayer μέθοδος. Μετατρέπει αυτό το ενσωματωμένο έξυπνο αντικείμενο σε συνδεδεμένο έξυπνο αντικείμενο.
+title: "SmartObjectLayer.ConvertToLinked"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "SmartObjectLayer μέθοδος. Μετατρέπει αυτό το ενσωματωμένο έξυπνο αντικείμενο σε συνδεδεμένο έξυπνο αντικείμενο"
 type: docs
-weight: 70
+weight: 90
 url: /el/net/aspose.psd.fileformats.psd.layers.smartobjects/smartobjectlayer/converttolinked/
 ---
+{{< psd/tize >}}
 ## SmartObjectLayer.ConvertToLinked method
 
 Μετατρέπει αυτό το ενσωματωμένο έξυπνο αντικείμενο σε συνδεδεμένο έξυπνο αντικείμενο.
@@ -21,7 +22,7 @@ public void ConvertToLinked(string linkedPath)
 ### Δείτε επίσης
 
 * class [SmartObjectLayer](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.SmartObjects](../../smartobjectlayer/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.SmartObjects](../../../aspose.psd.fileformats.psd.layers.smartobjects/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: FilterEffectMaskData.UserMask
-second_title: Aspose.PSD για Αναφορά API .NET
-description: FilterEffectMaskData ιδιοκτησία. Λαμβάνει τη μάσκα χρήστη.
+title: "FilterEffectMaskData.UserMask"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα FilterEffectMaskData. Επιστρέφει τη μάσκα χρήστη."
 type: docs
 weight: 100
 url: /el/net/aspose.psd.fileformats.psd.layers.layerresources/filtereffectmaskdata/usermask/
 ---
+{{< psd/tize >}}
 ## FilterEffectMaskData.UserMask property
 
 Λαμβάνει τη μάσκα χρήστη.
@@ -18,7 +19,7 @@ public ChannelInformation UserMask { get; }
 
 * class [ChannelInformation](../../../aspose.psd.fileformats.psd.layers/channelinformation/)
 * class [FilterEffectMaskData](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../filtereffectmaskdata/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

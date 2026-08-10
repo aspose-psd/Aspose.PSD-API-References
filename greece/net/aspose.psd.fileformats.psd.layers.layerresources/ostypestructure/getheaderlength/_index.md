@@ -1,11 +1,12 @@
 ---
-title: OSTypeStructure.GetHeaderLength
-second_title: Aspose.PSD για Αναφορά API .NET
-description: OSTypeStructure μέθοδος. Λαμβάνει το μήκος της κεφαλίδας.
+title: "OSTypeStructure.GetHeaderLength"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Μέθοδος OSTypeStructure. Λαμβάνει το μήκος της κεφαλίδας"
 type: docs
 weight: 50
 url: /el/net/aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/getheaderlength/
 ---
+{{< psd/tize >}}
 ## OSTypeStructure.GetHeaderLength method
 
 Λαμβάνει το μήκος της κεφαλίδας.
@@ -14,14 +15,14 @@ url: /el/net/aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/ge
 public virtual int GetHeaderLength()
 ```
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
 Το μήκος της κεφαλίδας
 
 ### Δείτε επίσης
 
 * class [OSTypeStructure](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../ostypestructure/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

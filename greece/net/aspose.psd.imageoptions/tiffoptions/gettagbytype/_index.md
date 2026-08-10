@@ -1,14 +1,15 @@
 ---
-title: TiffOptions.GetTagByType
-second_title: Aspose.PSD για Αναφορά API .NET
-description: TiffOptions μέθοδος. Λαμβάνει την παρουσία της ετικέτας ανά τύπο.
+title: "TiffOptions.GetTagByType"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Μέθοδος TiffOptions. Λαμβάνει την παρουσία της ετικέτας κατά τύπο"
 type: docs
-weight: 720
+weight: 730
 url: /el/net/aspose.psd.imageoptions/tiffoptions/gettagbytype/
 ---
+{{< psd/tize >}}
 ## TiffOptions.GetTagByType method
 
-Λαμβάνει την παρουσία της ετικέτας ανά τύπο.
+Λαμβάνει το στιγμιότυπο της ετικέτας ανά τύπο.
 
 ```csharp
 public TiffDataType GetTagByType(TiffTags tagKey)
@@ -16,18 +17,18 @@ public TiffDataType GetTagByType(TiffTags tagKey)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| tagKey | TiffTags | Το κλειδί ετικέτας. |
+| tagKey | TiffTags | Το κλειδί της ετικέτας. |
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-Παρουσίαση της ετικέτας εάν υπάρχει ή μηδενική διαφορετικά.
+Παράδειγμα της ετικέτας εάν υπάρχει ή null διαφορετικά.
 
 ### Δείτε επίσης
 
 * class [TiffDataType](../../../aspose.psd.fileformats.tiff/tiffdatatype/)
 * enum [TiffTags](../../../aspose.psd.fileformats.tiff.enums/tifftags/)
 * class [TiffOptions](../)
-* χώρος ονομάτων [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

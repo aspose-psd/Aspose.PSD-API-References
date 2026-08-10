@@ -1,27 +1,28 @@
 ---
-title: BlendRange.Destination
-second_title: Aspose.PSD για Αναφορά API .NET
-description: BlendRange ιδιοκτησία. Λαμβάνει ή ορίζει το εύρος συνδυασμού προορισμού.
+title: "BlendRange.Destination"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα BlendRange. Λαμβάνει ή ορίζει την περιοχή ανάμειξης προορισμού"
 type: docs
 weight: 20
 url: /el/net/aspose.psd.fileformats.psd.layers/blendrange/destination/
 ---
+{{< psd/tize >}}
 ## BlendRange.Destination property
 
-Λαμβάνει ή ορίζει το εύρος συνδυασμού προορισμού.
+Λαμβάνει ή ορίζει την περιοχή ανάμειξης προορισμού.
 
 ```csharp
 public int Destination { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Το εύρος συνδυασμού προορισμού.
+Η περιοχή ανάμειξης προορισμού.
 
 ### Δείτε επίσης
 
 * class [BlendRange](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers](../../blendrange/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

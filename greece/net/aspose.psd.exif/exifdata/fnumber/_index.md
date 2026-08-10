@@ -1,11 +1,12 @@
 ---
-title: ExifData.FNumber
-second_title: Aspose.PSD για Αναφορά API .NET
-description: ExifData ιδιοκτησία. Λαμβάνει ή ορίζει τον αριθμό F.
+title: "ExifData.FNumber"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα ExifData. Λαμβάνει ή ορίζει το Fnumber"
 type: docs
 weight: 280
 url: /el/net/aspose.psd.exif/exifdata/fnumber/
 ---
+{{< psd/tize >}}
 ## ExifData.FNumber property
 
 Λαμβάνει ή ορίζει τον αριθμό F.
@@ -14,15 +15,15 @@ url: /el/net/aspose.psd.exif/exifdata/fnumber/
 public TiffRational FNumber { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Ο αριθμός F.
+Ο F-number.
 
 ### Δείτε επίσης
 
 * class [TiffRational](../../../aspose.psd.fileformats.tiff/tiffrational/)
 * class [ExifData](../)
-* χώρος ονομάτων [Aspose.PSD.Exif](../../exifdata/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: Image.BitsPerPixel
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Image ιδιοκτησία. Λαμβάνει τα bit της εικόνας ανά πλήθος pixel.
+title: "Image.BitsPerPixel"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα Image. Λαμβάνει τον αριθμό bits ανά pixel της εικόνας"
 type: docs
 weight: 50
 url: /el/net/aspose.psd/image/bitsperpixel/
 ---
+{{< psd/tize >}}
 ## Image.BitsPerPixel property
 
-Λαμβάνει τα bit της εικόνας ανά πλήθος pixel.
+Λαμβάνει τον αριθμό των bits ανά pixel της εικόνας.
 
 ```csharp
 public abstract int BitsPerPixel { get; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Αριθμός bits εικόνας ανά pixel.
+Ο αριθμός των bits ανά pixel της εικόνας.
 
 ### Δείτε επίσης
 
 * class [Image](../)
-* χώρος ονομάτων [Aspose.PSD](../../image/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

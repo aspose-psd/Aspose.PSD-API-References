@@ -1,14 +1,15 @@
 ---
-title: OSTypeStructure.Length
-second_title: Aspose.PSD για Αναφορά API .NET
-description: OSTypeStructure ιδιοκτησία. Λαμβάνει τοOSTypeStructure μήκος σε byte.
+title: "OSTypeStructure.Length"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα OSTypeStructure. Λαμβάνει το μήκος OSTypeStructure σε bytes"
 type: docs
 weight: 40
 url: /el/net/aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/length/
 ---
+{{< psd/tize >}}
 ## OSTypeStructure.Length property
 
-Λαμβάνει το[`OSTypeStructure`](../) μήκος σε byte.
+Λαμβάνει το μήκος του [`OSTypeStructure`](../) σε bytes.
 
 ```csharp
 public abstract int Length { get; }
@@ -17,7 +18,7 @@ public abstract int Length { get; }
 ### Δείτε επίσης
 
 * class [OSTypeStructure](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../ostypestructure/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

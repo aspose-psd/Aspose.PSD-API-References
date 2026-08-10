@@ -1,14 +1,15 @@
 ---
-title: LspfResource.TypeToolKey
-second_title: Aspose.PSD για Αναφορά API .NET
-description: LspfResource πεδίο. Το κλειδί πληροφοριών εργαλείου τύπου 1819504742
+title: "LspfResource.TypeToolKey"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "LspfResource πεδίο. Το κλειδί πληροφοριών του εργαλείου τύπου 1819504742"
 type: docs
-weight: 110
+weight: 80
 url: /el/net/aspose.psd.fileformats.psd.layers.layerresources/lspfresource/typetoolkey/
 ---
+{{< psd/tize >}}
 ## LspfResource.TypeToolKey field
 
-Το κλειδί πληροφοριών εργαλείου τύπου 1819504742
+Το κλειδί πληροφοριών τύπου εργαλείου 1819504742
 
 ```csharp
 public const int TypeToolKey;
@@ -17,7 +18,7 @@ public const int TypeToolKey;
 ### Δείτε επίσης
 
 * class [LspfResource](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../lspfresource/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

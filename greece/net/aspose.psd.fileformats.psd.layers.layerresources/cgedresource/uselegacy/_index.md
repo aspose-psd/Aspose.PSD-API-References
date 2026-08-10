@@ -1,27 +1,28 @@
 ---
-title: CgEdResource.UseLegacy
-second_title: Aspose.PSD για Αναφορά API .NET
-description: CgEdResource ιδιοκτησία. Λαμβάνει ή ορίζει μια τιμή που υποδεικνύει εάν χρήση παλαιού τύπου.
+title: "CgEdResource.UseLegacy"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "CgEdResource property. Λαμβάνει ή ορίζει μια τιμή που υποδεικνύει εάν χρησιμοποιείται παλαιό"
 type: docs
-weight: 100
+weight: 80
 url: /el/net/aspose.psd.fileformats.psd.layers.layerresources/cgedresource/uselegacy/
 ---
+{{< psd/tize >}}
 ## CgEdResource.UseLegacy property
 
-Λαμβάνει ή ορίζει μια τιμή που υποδεικνύει εάν [χρήση παλαιού τύπου].
+Λαμβάνει ή ορίζει μια τιμή που υποδεικνύει εάν [use legacy].
 
 ```csharp
 public bool UseLegacy { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-`αληθής` εάν [χρησιμοποιήστε κληρονομιά]; σε διαφορετική περίπτωση,`ψευδής` .
+`true` εάν [use legacy]; διαφορετικά, `false`.
 
 ### Δείτε επίσης
 
 * class [CgEdResource](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../cgedresource/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

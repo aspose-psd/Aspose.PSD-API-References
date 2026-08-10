@@ -1,11 +1,12 @@
 ---
-title: TypeToolInfoResource.Version
-second_title: Aspose.PSD για Αναφορά API .NET
-description: TypeToolInfoResource ιδιοκτησία. Λαμβάνει ή ορίζει την έκδοση.
+title: "TypeToolInfoResource.Version"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα TypeToolInfoResource. Λαμβάνει ή ορίζει την έκδοση"
 type: docs
-weight: 250
+weight: 220
 url: /el/net/aspose.psd.fileformats.psd.layers.layerresources/typetoolinforesource/version/
 ---
+{{< psd/tize >}}
 ## TypeToolInfoResource.Version property
 
 Λαμβάνει ή ορίζει την έκδοση.
@@ -14,14 +15,14 @@ url: /el/net/aspose.psd.fileformats.psd.layers.layerresources/typetoolinforesour
 public short Version { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
 Η έκδοση.
 
 ### Δείτε επίσης
 
 * class [TypeToolInfoResource](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../typetoolinforesource/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

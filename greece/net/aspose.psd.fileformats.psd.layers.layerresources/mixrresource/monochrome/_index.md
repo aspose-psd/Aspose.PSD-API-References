@@ -1,27 +1,28 @@
 ---
-title: MixrResource.Monochrome
-second_title: Aspose.PSD για Αναφορά API .NET
-description: MixrResource ιδιοκτησία. Λαμβάνει ή ορίζει μια τιμή που υποδεικνύει εάν αυτόMixrResource είναι μονόχρωμη.
+title: "MixrResource.Monochrome"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "MixrResource ιδιότητα. Λαμβάνει ή ορίζει μια τιμή που υποδεικνύει εάν αυτό το MixrResource είναι μονόχρωμο"
 type: docs
-weight: 40
+weight: 30
 url: /el/net/aspose.psd.fileformats.psd.layers.layerresources/mixrresource/monochrome/
 ---
+{{< psd/tize >}}
 ## MixrResource.Monochrome property
 
-Λαμβάνει ή ορίζει μια τιμή που υποδεικνύει εάν αυτό[`MixrResource`](../) είναι μονόχρωμη.
+Λαμβάνει ή ορίζει μια τιμή που υποδεικνύει εάν αυτό το [`MixrResource`](../) είναι μονόχρωμο.
 
 ```csharp
 public bool Monochrome { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-`αληθής` αν μονόχρωμη? σε διαφορετική περίπτωση,`ψευδής` .
+`true` εάν είναι μονόχρωμο· διαφορετικά, `false`.
 
 ### Δείτε επίσης
 
 * class [MixrResource](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../mixrresource/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

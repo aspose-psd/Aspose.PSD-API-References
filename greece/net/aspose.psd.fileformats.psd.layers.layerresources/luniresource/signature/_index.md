@@ -1,14 +1,15 @@
 ---
-title: LuniResource.Signature
-second_title: Aspose.PSD για Αναφορά API .NET
-description: LuniResource ιδιοκτησία. Λαμβάνει την υπογραφή του πόρου του επιπέδου.
+title: "LuniResource.Signature"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα LuniResource. Λαμβάνει την υπογραφή του πόρου στρώσης"
 type: docs
 weight: 60
 url: /el/net/aspose.psd.fileformats.psd.layers.layerresources/luniresource/signature/
 ---
+{{< psd/tize >}}
 ## LuniResource.Signature property
 
-Λαμβάνει την υπογραφή του πόρου του επιπέδου.
+Λαμβάνει την υπογραφή του πόρου στρώματος.
 
 ```csharp
 public override int Signature { get; }
@@ -17,7 +18,7 @@ public override int Signature { get; }
 ### Δείτε επίσης
 
 * class [LuniResource](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../luniresource/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

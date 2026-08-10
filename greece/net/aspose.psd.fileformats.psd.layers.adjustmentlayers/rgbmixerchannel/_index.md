@@ -1,11 +1,12 @@
 ---
-title: Class RgbMixerChannel
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers.RgbMixerChannel τάξη. RgbChannel. Είναι περιτύλιγμα για ακατέργαστα δεδομένα καναλιού. Χρησιμοποιείται στο MixrResource
+title: "Κλάση RgbMixerChannel"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers.RgbMixerChannel κλάση. RgbChannel. Η περιτύλιξή του για τα ακατέργαστα δεδομένα του καναλιού. Χρησιμοποιείται στο MixrResource"
 type: docs
-weight: 1820
+weight: 1890
 url: /el/net/aspose.psd.fileformats.psd.layers.adjustmentlayers/rgbmixerchannel/
 ---
+{{< psd/tize >}}
 ## RgbMixerChannel class
 
 RgbChannel. Είναι περιτύλιγμα για ακατέργαστα δεδομένα καναλιού. Χρησιμοποιείται στο MixrResource
@@ -16,23 +17,23 @@ public class RgbMixerChannel : MixerChannel
 
 ## Ιδιότητες
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
-| [Blue](../../aspose.psd.fileformats.psd.layers.adjustmentlayers/rgbmixerchannel/blue/) { get; set; } | Παίρνει ή ρυθμίζει το μπλε. |
+| [Blue](../../aspose.psd.fileformats.psd.layers.adjustmentlayers/rgbmixerchannel/blue/) { get; set; } | Λαμβάνει ή ορίζει το μπλε. |
 | [Constant](../../aspose.psd.fileformats.psd.layers.adjustmentlayers/mixerchannel/constant/) { get; set; } | Λαμβάνει ή ορίζει τη σταθερά του καναλιού. |
-| [Green](../../aspose.psd.fileformats.psd.layers.adjustmentlayers/rgbmixerchannel/green/) { get; set; } | Παίρνει ή ρυθμίζει το πράσινο. |
-| [Red](../../aspose.psd.fileformats.psd.layers.adjustmentlayers/rgbmixerchannel/red/) { get; set; } | Παίρνει ή ρυθμίζει το κόκκινο. |
+| [Green](../../aspose.psd.fileformats.psd.layers.adjustmentlayers/rgbmixerchannel/green/) { get; set; } | Λαμβάνει ή ορίζει το πράσινο. |
+| [Red](../../aspose.psd.fileformats.psd.layers.adjustmentlayers/rgbmixerchannel/red/) { get; set; } | Λαμβάνει ή ορίζει το κόκκινο. |
 
 ## Μέθοδοι
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
-| [GetRawData](../../aspose.psd.fileformats.psd.layers.adjustmentlayers/mixerchannel/getrawdata/)() | Λαμβάνει τα πρωτογενή δεδομένα. |
+| [GetRawData](../../aspose.psd.fileformats.psd.layers.adjustmentlayers/mixerchannel/getrawdata/)() | Λαμβάνει τα ακατέργαστα δεδομένα. |
 
 ### Δείτε επίσης
 
 * class [MixerChannel](../mixerchannel/)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../aspose.psd.fileformats.psd.layers.adjustmentlayers/)
-* συνέλευση [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../aspose.psd.fileformats.psd.layers.adjustmentlayers/)
+* assembly [Aspose.PSD](../../)
 
 

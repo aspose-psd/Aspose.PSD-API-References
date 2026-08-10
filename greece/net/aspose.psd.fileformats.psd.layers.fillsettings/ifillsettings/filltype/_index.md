@@ -1,20 +1,21 @@
 ---
-title: IFillSettings.FillType
-second_title: Aspose.PSD για Αναφορά API .NET
-description: IFillSettings ιδιοκτησία. Παίρνει τον τύπο του γεμίσματος.
+title: "IFillSettings.FillType"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα IFillSettings. Λαμβάνει τον τύπο του γεμίσματος"
 type: docs
 weight: 10
 url: /el/net/aspose.psd.fileformats.psd.layers.fillsettings/ifillsettings/filltype/
 ---
+{{< psd/tize >}}
 ## IFillSettings.FillType property
 
-Παίρνει τον τύπο του γεμίσματος.
+Λαμβάνει τον τύπο του γεμίσματος.
 
 ```csharp
 public FillType FillType { get; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
 Ο τύπος του γεμίσματος.
 
@@ -22,7 +23,7 @@ public FillType FillType { get; }
 
 * enum [FillType](../../filltype/)
 * interface [IFillSettings](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../ifillsettings/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../../)
 
 

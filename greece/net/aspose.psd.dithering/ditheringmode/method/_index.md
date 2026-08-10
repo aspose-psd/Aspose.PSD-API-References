@@ -1,14 +1,15 @@
 ---
-title: DitheringMode.Method
-second_title: Aspose.PSD για Αναφορά API .NET
-description: DitheringMode ιδιοκτησία. Επιλογή αλγορίθμου διένεξης.
+title: "DitheringMode.Method"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "DitheringMode ιδιότητα. Επιλογή αλγορίθμου dithering"
 type: docs
 weight: 40
 url: /el/net/aspose.psd.dithering/ditheringmode/method/
 ---
+{{< psd/tize >}}
 ## DitheringMode.Method property
 
-Επιλογή αλγορίθμου διένεξης.
+Επιλογή αλγορίθμου dithering.
 
 ```csharp
 public DitheringMethod Method { get; set; }
@@ -18,7 +19,7 @@ public DitheringMethod Method { get; set; }
 
 * enum [DitheringMethod](../../../aspose.psd/ditheringmethod/)
 * class [DitheringMode](../)
-* χώρος ονομάτων [Aspose.PSD.Dithering](../../ditheringmode/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Dithering](../../../aspose.psd.dithering/)
+* assembly [Aspose.PSD](../../../)
 
 

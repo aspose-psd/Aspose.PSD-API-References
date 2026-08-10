@@ -1,11 +1,12 @@
 ---
-title: PsdColorPalette.CopyPalette
-second_title: Aspose.PSD για Αναφορά API .NET
-description: PsdColorPalette μέθοδος. Αντιγράφει την παλέτα.
+title: "PsdColorPalette.CopyPalette"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Μέθοδος PsdColorPalette. Αντιγράφει την παλέτα"
 type: docs
 weight: 20
 url: /el/net/aspose.psd.fileformats.psd/psdcolorpalette/copypalette/
 ---
+{{< psd/tize >}}
 ## CopyPalette(IColorPalette, bool) {#copypalette_1}
 
 Αντιγράφει την παλέτα.
@@ -16,19 +17,19 @@ public static PsdColorPalette CopyPalette(IColorPalette colorPalette, bool useCo
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| colorPalette | IColorPalette | Η χρωματική παλέτα. |
-| useCompactPalette | Boolean | Υποδεικνύει εάν η παλέτα είναι συμπαγής. |
+| colorPalette | IColorPalette | Η παλέτα χρωμάτων. |
+| useCompactPalette | Boolean | Δείχνει αν η παλέτα είναι συμπαγής. |
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-Η πρόσφατα δημιουργημένη και αντιγραμμένη παλέτα ή μηδενική αν η παλέτα null πέρασε.
+Η νεοδημιουργημένη και αντιγραμμένη παλέτα ή null εάν περάστηκε null παλέτα.
 
 ### Δείτε επίσης
 
 * interface [IColorPalette](../../../aspose.psd/icolorpalette/)
 * class [PsdColorPalette](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd](../../psdcolorpalette/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
@@ -42,17 +43,17 @@ public static PsdColorPalette CopyPalette(IColorPalette colorPalette)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| colorPalette | IColorPalette | Η χρωματική παλέτα. |
+| colorPalette | IColorPalette | Η παλέτα χρωμάτων. |
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-Η πρόσφατα δημιουργημένη και αντιγραμμένη παλέτα ή μηδενική αν η παλέτα null πέρασε.
+Η νεοδημιουργημένη και αντιγραμμένη παλέτα ή null εάν περάστηκε null παλέτα.
 
 ### Δείτε επίσης
 
 * interface [IColorPalette](../../../aspose.psd/icolorpalette/)
 * class [PsdColorPalette](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd](../../psdcolorpalette/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

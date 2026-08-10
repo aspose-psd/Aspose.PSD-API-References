@@ -1,27 +1,28 @@
 ---
-title: PattResourceData.Name
-second_title: Aspose.PSD για Αναφορά API .NET
-description: PattResourceData ιδιοκτησία. Παίρνει ή ορίζει το όνομα.
+title: "PattResourceData.Name"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα PattResourceData. Λαμβάνει ή ορίζει το όνομα"
 type: docs
 weight: 50
 url: /el/net/aspose.psd.fileformats.psd.layers.layerresources/pattresourcedata/name/
 ---
+{{< psd/tize >}}
 ## PattResourceData.Name property
 
-Παίρνει ή ορίζει το όνομα.
+Λαμβάνει ή ορίζει το όνομα.
 
 ```csharp
 public string Name { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
 Το όνομα.
 
 ### Δείτε επίσης
 
 * class [PattResourceData](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../pattresourcedata/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

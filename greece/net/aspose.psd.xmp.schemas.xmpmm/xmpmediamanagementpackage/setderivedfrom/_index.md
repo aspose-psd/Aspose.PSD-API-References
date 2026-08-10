@@ -1,14 +1,15 @@
 ---
-title: XmpMediaManagementPackage.SetDerivedFrom
-second_title: Aspose.PSD για Αναφορά API .NET
-description: XmpMediaManagementPackage μέθοδος. Ορίζει την προερχόμενη από.
+title: "XmpMediaManagementPackage.SetDerivedFrom"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "XmpMediaManagementPackage μέθοδος. Ορίζει την προέλευση"
 type: docs
 weight: 30
 url: /el/net/aspose.psd.xmp.schemas.xmpmm/xmpmediamanagementpackage/setderivedfrom/
 ---
+{{< psd/tize >}}
 ## XmpMediaManagementPackage.SetDerivedFrom method
 
-Ορίζει την προερχόμενη από.
+Ορίζει το derived from.
 
 ```csharp
 public void SetDerivedFrom(ResourceRef resourceRef)
@@ -16,13 +17,13 @@ public void SetDerivedFrom(ResourceRef resourceRef)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| resourceRef | ResourceRef | Η αναφορά στον πόρο. |
+| resourceRef | ResourceRef | Η αναφορά πόρου. |
 
 ### Δείτε επίσης
 
 * class [ResourceRef](../../../aspose.psd.xmp.types.complex.resourceref/resourceref/)
 * class [XmpMediaManagementPackage](../)
-* χώρος ονομάτων [Aspose.PSD.Xmp.Schemas.XmpMm](../../xmpmediamanagementpackage/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpMm](../../../aspose.psd.xmp.schemas.xmpmm/)
+* assembly [Aspose.PSD](../../../)
 
 

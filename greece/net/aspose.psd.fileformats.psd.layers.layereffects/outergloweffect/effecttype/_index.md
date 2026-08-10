@@ -1,14 +1,15 @@
 ---
-title: OuterGlowEffect.EffectType
-second_title: Aspose.PSD για Αναφορά API .NET
-description: OuterGlowEffect ιδιοκτησία. Λαμβάνει έναν τύπο εφέ type
+title: "OuterGlowEffect.EffectType"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "OuterGlowEffect ιδιότητα. Λαμβάνει έναν τύπο εφέ"
 type: docs
 weight: 20
 url: /el/net/aspose.psd.fileformats.psd.layers.layereffects/outergloweffect/effecttype/
 ---
+{{< psd/tize >}}
 ## OuterGlowEffect.EffectType property
 
-Λαμβάνει έναν τύπο εφέ type
+Λαμβάνει έναν τύπο εφέ.
 
 ```csharp
 public LayerEffectsTypes EffectType { get; }
@@ -16,9 +17,9 @@ public LayerEffectsTypes EffectType { get; }
 
 ### Δείτε επίσης
 
-* enum [LayerEffectsTypes](../../../aspose.psd.fileformats.psd.layers.layerresources.lfx2resources/layereffectstypes/)
+* enum [LayerEffectsTypes](../../layereffectstypes/)
 * class [OuterGlowEffect](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../outergloweffect/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../../)
 
 

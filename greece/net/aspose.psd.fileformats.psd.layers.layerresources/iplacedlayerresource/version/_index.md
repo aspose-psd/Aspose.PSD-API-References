@@ -1,27 +1,28 @@
 ---
-title: IPlacedLayerResource.Version
-second_title: Aspose.PSD για Αναφορά API .NET
-description: IPlacedLayerResource ιδιοκτησία. Λαμβάνει την έκδοση του τοποθετημένου επιπέδου στο αρχείο PSD συνήθως 35.
+title: "IPlacedLayerResource.Version"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "IPlacedLayerResource ιδιότητα. Λαμβάνει την έκδοση του τοποθετημένου στρώματος στο αρχείο PSD, συνήθως 35"
 type: docs
 weight: 200
 url: /el/net/aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/version/
 ---
+{{< psd/tize >}}
 ## IPlacedLayerResource.Version property
 
-Λαμβάνει την έκδοση του τοποθετημένου επιπέδου στο αρχείο PSD, συνήθως 3-5.
+Λαμβάνει την έκδοση του τοποθετημένου στρώματος στο αρχείο PSD, συνήθως 3-5.
 
 ```csharp
 public int Version { get; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Η έκδοση του στρώματος τοποθετημένου ή έξυπνου αντικειμένου.
+Η έκδοση του τοποθετημένου ή έξυπνου αντικειμένου στρώματος.
 
 ### Δείτε επίσης
 
 * interface [IPlacedLayerResource](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../iplacedlayerresource/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

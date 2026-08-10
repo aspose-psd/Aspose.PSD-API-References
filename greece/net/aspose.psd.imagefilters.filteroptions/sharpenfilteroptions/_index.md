@@ -1,14 +1,15 @@
 ---
-title: Class SharpenFilterOptions
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Aspose.PSD.ImageFilters.FilterOptions.SharpenFilterOptions τάξη. Επιλογές φίλτρου Sharpen
+title: "Κλάση SharpenFilterOptions"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Aspose.PSD.ImageFilters.FilterOptions.SharpenFilterOptions κλάση. Οι επιλογές φίλτρου όξυνσης"
 type: docs
-weight: 4740
+weight: 5210
 url: /el/net/aspose.psd.imagefilters.filteroptions/sharpenfilteroptions/
 ---
+{{< psd/tize >}}
 ## SharpenFilterOptions class
 
-Επιλογές φίλτρου Sharpen
+Οι επιλογές φίλτρου ενίσχυσης
 
 ```csharp
 public class SharpenFilterOptions : ConvolutionFilterOptions
@@ -16,24 +17,24 @@ public class SharpenFilterOptions : ConvolutionFilterOptions
 
 ## Κατασκευαστές
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
-| [SharpenFilterOptions](sharpenfilteroptions/#constructor)() | Αρχικοποιεί μια νέα παρουσία του`SharpenFilterOptions` class. Με προεπιλεγμένες ρυθμίσεις. |
-| [SharpenFilterOptions](sharpenfilteroptions/#constructor_1)(int, double) | Αρχικοποιεί μια νέα παρουσία του`SharpenFilterOptions` τάξη. |
+| [SharpenFilterOptions](sharpenfilteroptions/#constructor)() | Αρχικοποιεί ένα νέο αντικείμενο της κλάσης `SharpenFilterOptions`. Με προεπιλεγμένες ρυθμίσεις. |
+| [SharpenFilterOptions](sharpenfilteroptions/#constructor_1)(int, double) | Αρχικοποιεί ένα νέο αντικείμενο της κλάσης `SharpenFilterOptions`. |
 
 ## Ιδιότητες
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
 | [Bias](../../aspose.psd.imagefilters.filteroptions/convolutionfilteroptions/bias/) { get; set; } | Λαμβάνει ή ορίζει την προκατάληψη. |
 | [Factor](../../aspose.psd.imagefilters.filteroptions/convolutionfilteroptions/factor/) { get; set; } | Λαμβάνει ή ορίζει τον παράγοντα. |
-| [Sigma](../../aspose.psd.imagefilters.filteroptions/sharpenfilteroptions/sigma/) { get; set; } | Λαμβάνει ή ορίζει το σίγμα. |
+| [Sigma](../../aspose.psd.imagefilters.filteroptions/sharpenfilteroptions/sigma/) { get; set; } | Λαμβάνει ή ορίζει το sigma. |
 | [Size](../../aspose.psd.imagefilters.filteroptions/sharpenfilteroptions/size/) { get; set; } | Λαμβάνει ή ορίζει το μέγεθος. |
 
 ### Δείτε επίσης
 
 * class [ConvolutionFilterOptions](../convolutionfilteroptions/)
-* χώρος ονομάτων [Aspose.PSD.ImageFilters.FilterOptions](../../aspose.psd.imagefilters.filteroptions/)
-* συνέλευση [Aspose.PSD](../../)
+* namespace [Aspose.PSD.ImageFilters.FilterOptions](../../aspose.psd.imagefilters.filteroptions/)
+* assembly [Aspose.PSD](../../)
 
 

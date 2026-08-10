@@ -1,14 +1,15 @@
 ---
-title: XmpPackageBaseCollection.GetPackage
-second_title: Aspose.PSD για Αναφορά API .NET
-description: XmpPackageBaseCollection μέθοδος. ΠαίρνειXmpPackage από το namespaceURI.
+title: "XmpPackageBaseCollection.GetPackage"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "XmpPackageBaseCollection method. Αποκτά XmpPackage με βάση το namespaceURI του"
 type: docs
 weight: 60
 url: /el/net/aspose.psd.xmp/xmppackagebasecollection/getpackage/
 ---
+{{< psd/tize >}}
 ## XmpPackageBaseCollection.GetPackage method
 
-Παίρνει[`XmpPackage`](../../xmppackage/) από το namespaceURI.
+Αποκτά το [`XmpPackage`](../../xmppackage/) με βάση το namespaceURI του.
 
 ```csharp
 public XmpPackage GetPackage(string namespaceUri)
@@ -16,17 +17,17 @@ public XmpPackage GetPackage(string namespaceUri)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| namespaceUri | String | Το URI χώρου ονομάτων για να λάβετε πακέτο. |
+| namespaceUri | String | Το namespace URI για το οποίο θα ληφθεί το πακέτο. |
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-Επιστρέφει πακέτο XMP για καθορισμένο χώρο ονομάτων Uri.
+Επιστρέφει το πακέτο XMP για το καθορισμένο namespace Uri.
 
 ### Δείτε επίσης
 
 * class [XmpPackage](../../xmppackage/)
 * class [XmpPackageBaseCollection](../)
-* χώρος ονομάτων [Aspose.PSD.Xmp](../../xmppackagebasecollection/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

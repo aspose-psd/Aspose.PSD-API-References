@@ -1,14 +1,15 @@
 ---
-title: StreamReadException.StreamReadException
-second_title: Aspose.PSD για Αναφορά API .NET
-description: StreamReadException κατασκευαστής. Αρχικοποιεί μια νέα παρουσία τουStreamReadException τάξη.
+title: "StreamReadException.StreamReadException"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Κατασκευαστής StreamReadException. Δημιουργεί ένα νέο στιγμιότυπο της κλάσης StreamReadException"
 type: docs
 weight: 10
 url: /el/net/aspose.psd.coreexceptions/streamreadexception/streamreadexception/
 ---
+{{< psd/tize >}}
 ## StreamReadException(string) {#constructor}
 
-Αρχικοποιεί μια νέα παρουσία του[`StreamReadException`](../) τάξη.
+Δημιουργεί ένα νέο στιγμιότυπο της κλάσης [`StreamReadException`](../).
 
 ```csharp
 public StreamReadException(string message)
@@ -21,14 +22,14 @@ public StreamReadException(string message)
 ### Δείτε επίσης
 
 * class [StreamReadException](../)
-* χώρος ονομάτων [Aspose.PSD.CoreExceptions](../../streamreadexception/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.CoreExceptions](../../../aspose.psd.coreexceptions/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## StreamReadException(string, Exception) {#constructor_2}
 
-Αρχικοποιεί μια νέα παρουσία του[`StreamReadException`](../) τάξη.
+Δημιουργεί ένα νέο στιγμιότυπο της κλάσης [`StreamReadException`](../).
 
 ```csharp
 public StreamReadException(string message, Exception innerException)
@@ -42,14 +43,14 @@ public StreamReadException(string message, Exception innerException)
 ### Δείτε επίσης
 
 * class [StreamReadException](../)
-* χώρος ονομάτων [Aspose.PSD.CoreExceptions](../../streamreadexception/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.CoreExceptions](../../../aspose.psd.coreexceptions/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## StreamReadException(string, Exception, int, int) {#constructor_3}
 
-Αρχικοποιεί μια νέα παρουσία του[`StreamReadException`](../) τάξη.
+Δημιουργεί ένα νέο στιγμιότυπο της κλάσης [`StreamReadException`](../).
 
 ```csharp
 public StreamReadException(string message, Exception innerException, int expectedReadCount, 
@@ -60,20 +61,20 @@ public StreamReadException(string message, Exception innerException, int expecte
 | --- | --- | --- |
 | message | String | Το μήνυμα. |
 | innerException | Exception | Η εσωτερική εξαίρεση. |
-| expectedReadCount | Int32 | Ο αναμενόμενος αριθμός αναγνωσμένων. |
-| actualReadCount | Int32 | Ο πραγματικός αριθμός αναγνωσμένων. |
+| expectedReadCount | Int32 | Ο αναμενόμενος αριθμός διαβάσματος. |
+| actualReadCount | Int32 | Ο πραγματικός αριθμός διαβάσματος. |
 
 ### Δείτε επίσης
 
 * class [StreamReadException](../)
-* χώρος ονομάτων [Aspose.PSD.CoreExceptions](../../streamreadexception/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.CoreExceptions](../../../aspose.psd.coreexceptions/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## StreamReadException(string, int, int) {#constructor_1}
 
-Αρχικοποιεί μια νέα παρουσία του[`StreamReadException`](../) τάξη.
+Δημιουργεί ένα νέο στιγμιότυπο της κλάσης [`StreamReadException`](../).
 
 ```csharp
 public StreamReadException(string message, int expectedReadCount, int actualReadCount)
@@ -82,13 +83,13 @@ public StreamReadException(string message, int expectedReadCount, int actualRead
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
 | message | String | Το μήνυμα. |
-| expectedReadCount | Int32 | Ο αναμενόμενος αριθμός αναγνωσμένων. |
-| actualReadCount | Int32 | Ο πραγματικός αριθμός αναγνωσμένων. |
+| expectedReadCount | Int32 | Ο αναμενόμενος αριθμός διαβάσματος. |
+| actualReadCount | Int32 | Ο πραγματικός αριθμός διαβάσματος. |
 
 ### Δείτε επίσης
 
 * class [StreamReadException](../)
-* χώρος ονομάτων [Aspose.PSD.CoreExceptions](../../streamreadexception/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.CoreExceptions](../../../aspose.psd.coreexceptions/)
+* assembly [Aspose.PSD](../../../)
 
 

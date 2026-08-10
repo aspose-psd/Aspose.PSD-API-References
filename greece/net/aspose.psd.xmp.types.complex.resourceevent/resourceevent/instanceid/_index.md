@@ -1,11 +1,12 @@
 ---
-title: ResourceEvent.InstanceId
-second_title: Aspose.PSD για Αναφορά API .NET
-description: ResourceEvent ιδιοκτησία. Λαμβάνει ή ορίζει την τιμή του xmpMMInstanceId.
+title: "ResourceEvent.InstanceId"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα ResourceEvent. Λαμβάνει ή ορίζει την τιμή του xmpMMInstanceId"
 type: docs
 weight: 50
 url: /el/net/aspose.psd.xmp.types.complex.resourceevent/resourceevent/instanceid/
 ---
+{{< psd/tize >}}
 ## ResourceEvent.InstanceId property
 
 Λαμβάνει ή ορίζει την τιμή του xmpMM:InstanceId.
@@ -14,14 +15,14 @@ url: /el/net/aspose.psd.xmp.types.complex.resourceevent/resourceevent/instanceid
 public Guid InstanceId { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
 Η τιμή του xmpMM:InstanceId.
 
 ### Δείτε επίσης
 
 * class [ResourceEvent](../)
-* χώρος ονομάτων [Aspose.PSD.Xmp.Types.Complex.ResourceEvent](../../resourceevent/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.ResourceEvent](../../../aspose.psd.xmp.types.complex.resourceevent/)
+* assembly [Aspose.PSD](../../../)
 
 

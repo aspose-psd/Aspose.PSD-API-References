@@ -1,32 +1,33 @@
 ---
-title: GraphicsPath.FillMode
-second_title: Aspose.PSD για Αναφορά API .NET
-description: GraphicsPath ιδιοκτησία. Λαμβάνει ή ορίζει αFillMode απαρίθμηση που καθορίζει πώς οι εσωτερικοί χώροι των σχημάτων σε αυτόGraphicsPath γεμίζουν.
+title: "GraphicsPath.FillMode"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα GraphicsPath. Λαμβάνει ή ορίζει μια απαρίθμηση FillMode που καθορίζει πώς γεμίζουν τα εσωτερικά των σχημάτων σε αυτό το GraphicsPath."
 type: docs
 weight: 40
 url: /el/net/aspose.psd/graphicspath/fillmode/
 ---
+{{< psd/tize >}}
 ## GraphicsPath.FillMode property
 
-Λαμβάνει ή ορίζει α[`FillMode`](../../fillmode/) απαρίθμηση που καθορίζει πώς οι εσωτερικοί χώροι των σχημάτων σε αυτό[`GraphicsPath`](../) γεμίζουν.
+Λαμβάνει ή ορίζει μια απαρίθμηση [`FillMode`](../../fillmode/) που καθορίζει πώς γεμίζουν τα εσωτερικά των σχημάτων σε αυτό το [`GraphicsPath`](../).
 
 ```csharp
 public FillMode FillMode { get; set; }
 ```
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-Α[`FillMode`](../../fillmode/) απαρίθμηση που καθορίζει πώς οι εσωτερικοί χώροι των σχημάτων σε αυτό[`GraphicsPath`](../) γεμίζουν.
+Μια απαρίθμηση [`FillMode`](../../fillmode/) που καθορίζει πώς γεμίζουν τα εσωτερικά των σχημάτων σε αυτό το [`GraphicsPath`](../).
 
-### Αξία περιουσίας
+### Property Value
 
-Η λειτουργία πλήρωσης.
+Η λειτουργία γεμίσματος.
 
 ### Δείτε επίσης
 
 * enum [FillMode](../../fillmode/)
 * class [GraphicsPath](../)
-* χώρος ονομάτων [Aspose.PSD](../../graphicspath/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

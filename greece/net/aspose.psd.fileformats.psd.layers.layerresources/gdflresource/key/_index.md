@@ -1,14 +1,15 @@
 ---
-title: GdFlResource.Key
-second_title: Aspose.PSD για Αναφορά API .NET
-description: GdFlResource ιδιοκτησία. Λαμβάνει το κλειδί πόρων επιπέδου.
+title: "GdFlResource.Key"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "GdFlResource property. Λαμβάνει το κλειδί πόρου του στρώματος"
 type: docs
-weight: 110
+weight: 130
 url: /el/net/aspose.psd.fileformats.psd.layers.layerresources/gdflresource/key/
 ---
+{{< psd/tize >}}
 ## GdFlResource.Key property
 
-Λαμβάνει το κλειδί πόρων επιπέδου.
+Λαμβάνει το κλειδί πόρου του επιπέδου.
 
 ```csharp
 public override int Key { get; }
@@ -17,7 +18,7 @@ public override int Key { get; }
 ### Δείτε επίσης
 
 * class [GdFlResource](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../gdflresource/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

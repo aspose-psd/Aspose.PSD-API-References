@@ -1,11 +1,12 @@
 ---
-title: DitheringMode.DitheringMode
-second_title: Aspose.PSD για Αναφορά API .NET
-description: DitheringMode κατασκευαστής. Ο προεπιλεγμένος κατασκευαστής.
+title: "DitheringMode.DitheringMode"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "DitheringMode κατασκευαστής. Ο προεπιλεγμένος κατασκευαστής"
 type: docs
 weight: 10
 url: /el/net/aspose.psd.dithering/ditheringmode/ditheringmode/
 ---
+{{< psd/tize >}}
 ## DitheringMode constructor
 
 Ο προεπιλεγμένος κατασκευαστής.
@@ -17,7 +18,7 @@ public DitheringMode()
 ### Δείτε επίσης
 
 * class [DitheringMode](../)
-* χώρος ονομάτων [Aspose.PSD.Dithering](../../ditheringmode/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Dithering](../../../aspose.psd.dithering/)
+* assembly [Aspose.PSD](../../../)
 
 

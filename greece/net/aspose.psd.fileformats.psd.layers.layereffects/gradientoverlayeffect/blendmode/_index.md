@@ -1,20 +1,21 @@
 ---
-title: GradientOverlayEffect.BlendMode
-second_title: Aspose.PSD για Αναφορά API .NET
-description: GradientOverlayEffect ιδιοκτησία. Λαμβάνει ή ρυθμίζει τη λειτουργία ανάμειξης.
+title: "GradientOverlayEffect.BlendMode"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα GradientOverlayEffect. Λαμβάνει ή ορίζει τη λειτουργία ανάμειξης"
 type: docs
 weight: 10
 url: /el/net/aspose.psd.fileformats.psd.layers.layereffects/gradientoverlayeffect/blendmode/
 ---
+{{< psd/tize >}}
 ## GradientOverlayEffect.BlendMode property
 
-Λαμβάνει ή ρυθμίζει τη λειτουργία ανάμειξης.
+Λαμβάνει ή ορίζει τη λειτουργία ανάμειξης.
 
 ```csharp
 public BlendMode BlendMode { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
 Η λειτουργία ανάμειξης.
 
@@ -22,7 +23,7 @@ public BlendMode BlendMode { get; set; }
 
 * enum [BlendMode](../../../aspose.psd.fileformats.core.blending/blendmode/)
 * class [GradientOverlayEffect](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../gradientoverlayeffect/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: InfxResource.TypeToolKey
-second_title: Aspose.PSD για Αναφορά API .NET
-description: InfxResource πεδίο. Το κλειδί πληροφοριών εργαλείου τύπου.
+title: "InfxResource.TypeToolKey"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Πεδίο InfxResource. Το κλειδί πληροφοριών τύπου εργαλείου"
 type: docs
-weight: 40
+weight: 30
 url: /el/net/aspose.psd.fileformats.psd.layers.layerresources/infxresource/typetoolkey/
 ---
+{{< psd/tize >}}
 ## InfxResource.TypeToolKey field
 
-Το κλειδί πληροφοριών εργαλείου τύπου.
+Το κλειδί πληροφοριών του εργαλείου τύπου.
 
 ```csharp
 public const int TypeToolKey;
@@ -17,7 +18,7 @@ public const int TypeToolKey;
 ### Δείτε επίσης
 
 * class [InfxResource](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../infxresource/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: ColorMatrix.GetMatrix
-second_title: Aspose.PSD για Αναφορά API .NET
-description: ColorMatrix μέθοδος. Λαμβάνει τις τιμές του πίνακα.
+title: "ColorMatrix.GetMatrix"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Μέθοδος ColorMatrix. Λαμβάνει τις τιμές του πίνακα"
 type: docs
 weight: 280
 url: /el/net/aspose.psd/colormatrix/getmatrix/
 ---
+{{< psd/tize >}}
 ## ColorMatrix.GetMatrix method
 
 Λαμβάνει τις τιμές του πίνακα.
@@ -14,14 +15,14 @@ url: /el/net/aspose.psd/colormatrix/getmatrix/
 public float[][] GetMatrix()
 ```
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-Ο πίνακας τιμών μήτρας.
+Ο πίνακας τιμών της μήτρας.
 
 ### Δείτε επίσης
 
 * class [ColorMatrix](../)
-* χώρος ονομάτων [Aspose.PSD](../../colormatrix/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

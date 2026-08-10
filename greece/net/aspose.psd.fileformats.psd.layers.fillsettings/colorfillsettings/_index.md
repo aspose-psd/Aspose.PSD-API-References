@@ -1,29 +1,36 @@
 ---
-title: Class ColorFillSettings
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Aspose.PSD.FileFormats.Psd.Layers.FillSettings.ColorFillSettings τάξη. Ρυθμίσεις εφέ πλήρωσης χρώματος
+title: "Κλάση ColorFillSettings"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Aspose.PSD.FileFormats.Psd.Layers.FillSettings.ColorFillSettings κλάση. Ρυθμίσεις εφέ χρωματικού γεμίσματος"
 type: docs
-weight: 1930
+weight: 2040
 url: /el/net/aspose.psd.fileformats.psd.layers.fillsettings/colorfillsettings/
 ---
+{{< psd/tize >}}
 ## ColorFillSettings class
 
-Ρυθμίσεις εφέ πλήρωσης χρώματος
+Ρυθμίσεις εφέ χρωματικού γεμίσματος
 
 ```csharp
 public class ColorFillSettings : BaseFillSettings, IColorFillSettings
 ```
 
+## Κατασκευαστές
+
+| Όνομα | Περιγραφή |
+| --- | --- |
+| [ColorFillSettings](colorfillsettings/)() | Ο προεπιλεγμένος κατασκευαστής. |
+
 ## Ιδιότητες
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
-| [Color](../../aspose.psd.fileformats.psd.layers.fillsettings/colorfillsettings/color/) { get; set; } | Παίρνει ή ρυθμίζει το χρώμα. |
-| override [FillType](../../aspose.psd.fileformats.psd.layers.fillsettings/colorfillsettings/filltype/) { get; } | Ο τύπος πλήρωσης |
+| [Color](../../aspose.psd.fileformats.psd.layers.fillsettings/colorfillsettings/color/) { get; set; } | Λαμβάνει ή ορίζει το χρώμα. |
+| override [FillType](../../aspose.psd.fileformats.psd.layers.fillsettings/colorfillsettings/filltype/) { get; } | Ο τύπος γεμίσματος |
 
-### Παραδείγματα
+## Παραδείγματα
 
-Ο ακόλουθος κώδικας δείχνει την υποστήριξη του επιπέδου εφέ stroke με τύπο γεμίσματος - Χρώμα.
+Ο παρακάτω κώδικας δείχνει την υποστήριξη του στρώματος εφέ γραμμής με τύπο γεμίσματος - Color.
 
 ```csharp
 [C#]
@@ -63,7 +70,7 @@ using (var im = (PsdImage)Image.Load(sourceFileName, loadOptions))
     im.Save(exportPath);
 }
 
-// Δοκιμή αρχείου μετά την επεξεργασία
+// Αρχείο δοκιμής μετά την επεξεργασία
 using (var im = (PsdImage)Image.Load(exportPath, loadOptions))
 {
     var colorStroke = (StrokeEffect)im.Layers[1].BlendingOptions.Effects[0];
@@ -82,7 +89,7 @@ using (var im = (PsdImage)Image.Load(exportPath, loadOptions))
 
 * class [BaseFillSettings](../basefillsettings/)
 * interface [IColorFillSettings](../icolorfillsettings/)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../aspose.psd.fileformats.psd.layers.fillsettings/)
-* συνέλευση [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: SplitStreamContainer.Position
-second_title: Aspose.PSD για Αναφορά API .NET
-description: SplitStreamContainer ιδιοκτησία. Λαμβάνει ή ορίζει την τρέχουσα θέση εντός της ροής. Αυτή η τιμή αντιπροσωπεύει τη μετατόπιση από τη θέση έναρξης ροής που μεταβιβάστηκε στον κατασκευαστή StreamContainer.
+title: "SplitStreamContainer.Position"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα SplitStreamContainer. Λαμβάνει ή ορίζει την τρέχουσα θέση μέσα στη ροή. Αυτή η τιμή αντιπροσωπεύει την απόσταση από τη θέση εκκίνησης της ροής που περνιέται στον κατασκευαστή StreamContainer"
 type: docs
 weight: 60
 url: /el/net/aspose.psd/splitstreamcontainer/position/
 ---
+{{< psd/tize >}}
 ## SplitStreamContainer.Position property
 
-Λαμβάνει ή ορίζει την τρέχουσα θέση εντός της ροής. Αυτή η τιμή αντιπροσωπεύει τη μετατόπιση από τη θέση έναρξης ροής που μεταβιβάστηκε στον κατασκευαστή StreamContainer.
+Λαμβάνει ή ορίζει την τρέχουσα θέση εντός του stream. Αυτή η τιμή αντιπροσωπεύει την απόσταση από τη θέση εκκίνησης του stream που περάστηκε στον κατασκευαστή StreamContainer.
 
 ```csharp
 public override long Position { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Η τρέχουσα θέση ροής.
+Η τρέχουσα θέση της ροής.
 
 ### Δείτε επίσης
 
 * class [SplitStreamContainer](../)
-* χώρος ονομάτων [Aspose.PSD](../../splitstreamcontainer/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

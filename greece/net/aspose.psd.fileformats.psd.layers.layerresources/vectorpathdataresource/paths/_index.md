@@ -1,11 +1,12 @@
 ---
-title: VectorPathDataResource.Paths
-second_title: Aspose.PSD για Αναφορά API .NET
-description: VectorPathDataResource ιδιοκτησία. Λαμβάνει ή ορίζει τις εγγραφές διαδρομής.
+title: "VectorPathDataResource.Paths"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα VectorPathDataResource. Λαμβάνει ή ορίζει τις εγγραφές διαδρομής"
 type: docs
 weight: 50
 url: /el/net/aspose.psd.fileformats.psd.layers.layerresources/vectorpathdataresource/paths/
 ---
+{{< psd/tize >}}
 ## VectorPathDataResource.Paths property
 
 Λαμβάνει ή ορίζει τις εγγραφές διαδρομής.
@@ -14,15 +15,15 @@ url: /el/net/aspose.psd.fileformats.psd.layers.layerresources/vectorpathdatareso
 public VectorPathRecord[] Paths { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Τα μονοπάτια.
+Οι διαδρομές.
 
 ### Δείτε επίσης
 
 * class [VectorPathRecord](../../../aspose.psd.fileformats.core.vectorpaths/vectorpathrecord/)
 * class [VectorPathDataResource](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../vectorpathdataresource/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: XmpDynamicMediaPackage.SetGood
-second_title: Aspose.PSD για Αναφορά API .NET
-description: XmpDynamicMediaPackage μέθοδος. Ορίζει το καλό.
+title: "XmpDynamicMediaPackage.SetGood"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Μέθοδος XmpDynamicMediaPackage. Ορίζει το καλό"
 type: docs
 weight: 230
 url: /el/net/aspose.psd.xmp.schemas.xmpdm/xmpdynamicmediapackage/setgood/
 ---
+{{< psd/tize >}}
 ## XmpDynamicMediaPackage.SetGood method
 
 Ορίζει το καλό.
@@ -16,12 +17,12 @@ public void SetGood(bool good)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| good | Boolean | εάν έχει οριστεί σε`αληθής` ένα σουτ είναι ένας τερματοφύλακας. |
+| καλό | Boolean | αν οριστεί σε `true` μια λήψη είναι πολύτιμη. |
 
 ### Δείτε επίσης
 
 * class [XmpDynamicMediaPackage](../)
-* χώρος ονομάτων [Aspose.PSD.Xmp.Schemas.XmpDm](../../xmpdynamicmediapackage/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpDm](../../../aspose.psd.xmp.schemas.xmpdm/)
+* assembly [Aspose.PSD](../../../)
 
 

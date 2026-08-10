@@ -1,14 +1,15 @@
 ---
-title: VstkResource.StrokeStyleScaleLock
-second_title: Aspose.PSD για Αναφορά API .NET
-description: VstkResource ιδιοκτησία. Λήψη ή ρύθμιση κλειδώματος κλίμακας στυλ Stroke.
+title: "VstkResource.StrokeStyleScaleLock"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "VstkResource ιδιότητα. Λαμβάνει ή ορίζει το Stroke style scale lock"
 type: docs
-weight: 200
+weight: 180
 url: /el/net/aspose.psd.fileformats.psd.layers.layerresources.strokeresources/vstkresource/strokestylescalelock/
 ---
+{{< psd/tize >}}
 ## VstkResource.StrokeStyleScaleLock property
 
-Λήψη ή ρύθμιση κλειδώματος κλίμακας στυλ Stroke.
+Λαμβάνει ή ορίζει το κλείδωμα κλίμακας του στυλ Stroke.
 
 ```csharp
 public bool StrokeStyleScaleLock { get; set; }
@@ -17,7 +18,7 @@ public bool StrokeStyleScaleLock { get; set; }
 ### Δείτε επίσης
 
 * class [VstkResource](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.StrokeResources](../../vstkresource/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.StrokeResources](../../../aspose.psd.fileformats.psd.layers.layerresources.strokeresources/)
+* assembly [Aspose.PSD](../../../)
 
 

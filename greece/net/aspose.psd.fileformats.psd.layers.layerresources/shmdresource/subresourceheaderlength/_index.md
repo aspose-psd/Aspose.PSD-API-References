@@ -1,14 +1,15 @@
 ---
-title: ShmdResource.SubResourceHeaderLength
-second_title: Aspose.PSD για Αναφορά API .NET
-description: ShmdResource πεδίο. Η κεφαλίδα δευτερεύοντος πόρου μήκος
+title: "ShmdResource.SubResourceHeaderLength"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Πεδίο ShmdResource. Το μήκος της κεφαλίδας του υποπόρου"
 type: docs
-weight: 90
+weight: 60
 url: /el/net/aspose.psd.fileformats.psd.layers.layerresources/shmdresource/subresourceheaderlength/
 ---
+{{< psd/tize >}}
 ## ShmdResource.SubResourceHeaderLength field
 
-Η κεφαλίδα δευτερεύοντος πόρου μήκος
+Το μήκος της κεφαλίδας του υποπόρου
 
 ```csharp
 public const int SubResourceHeaderLength;
@@ -17,7 +18,7 @@ public const int SubResourceHeaderLength;
 ### Δείτε επίσης
 
 * class [ShmdResource](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../shmdresource/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

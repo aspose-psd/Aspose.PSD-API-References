@@ -1,14 +1,15 @@
 ---
-title: Class RdOptimizationError
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Aspose.PSD.CoreExceptions.RdOptimizationError τάξη. Εξαίρεση σφάλματος βελτιστοποίησης RD class
+title: "Κλάση RdOptimizationError"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Aspose.PSD.CoreExceptions.RdOptimizationError κλάση. Κλάση εξαίρεσης σφάλματος βελτιστοποίησης RD"
 type: docs
 weight: 670
 url: /el/net/aspose.psd.coreexceptions/rdoptimizationerror/
 ---
+{{< psd/tize >}}
 ## RdOptimizationError class
 
-Εξαίρεση σφάλματος βελτιστοποίησης RD class
+Κλάση εξαίρεσης σφάλματος βελτιστοποίησης RD
 
 ```csharp
 public class RdOptimizationError : Exception
@@ -16,13 +17,13 @@ public class RdOptimizationError : Exception
 
 ## Κατασκευαστές
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
-| [RdOptimizationError](rdoptimizationerror/)(string) | Αρχικοποιεί μια νέα παρουσία του`RdOptimizationError` τάξη. |
+| [RdOptimizationError](rdoptimizationerror/)(string) | Αρχικοποιεί μια νέα παρουσία της κλάσης `RdOptimizationError`. |
 
 ### Δείτε επίσης
 
-* χώρος ονομάτων [Aspose.PSD.CoreExceptions](../../aspose.psd.coreexceptions/)
-* συνέλευση [Aspose.PSD](../../)
+* namespace [Aspose.PSD.CoreExceptions](../../aspose.psd.coreexceptions/)
+* assembly [Aspose.PSD](../../)
 
 

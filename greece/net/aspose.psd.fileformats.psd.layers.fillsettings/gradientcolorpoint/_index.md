@@ -1,14 +1,15 @@
 ---
-title: Class GradientColorPoint
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Aspose.PSD.FileFormats.Psd.Layers.FillSettings.GradientColorPoint τάξη. Το σημείο χρώματος κλίσης.
+title: "Κλάση GradientColorPoint"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Aspose.PSD.FileFormats.Psd.Layers.FillSettings.GradientColorPoint κλάση. Το Gradient Color Point"
 type: docs
-weight: 1950
+weight: 2060
 url: /el/net/aspose.psd.fileformats.psd.layers.fillsettings/gradientcolorpoint/
 ---
+{{< psd/tize >}}
 ## GradientColorPoint class
 
-Το σημείο χρώματος κλίσης.
+Το σημείο χρώματος διαβάθμισης.
 
 ```csharp
 public class GradientColorPoint : IGradientColorPoint
@@ -16,23 +17,24 @@ public class GradientColorPoint : IGradientColorPoint
 
 ## Κατασκευαστές
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
-| [GradientColorPoint](gradientcolorpoint/#constructor)() | Αρχικοποιεί μια νέα παρουσία του`GradientColorPoint` τάξη. |
-| [GradientColorPoint](gradientcolorpoint/#constructor_1)(Color, int, int) | Αρχικοποιεί μια νέα παρουσία του`GradientColorPoint` τάξη. |
+| [GradientColorPoint](gradientcolorpoint/#constructor)() | Αρχικοποιεί μια νέα παρουσία της κλάσης `GradientColorPoint`. |
+| [GradientColorPoint](gradientcolorpoint/#constructor_1)(Color, int, int) | Αρχικοποιεί μια νέα παρουσία της κλάσης `GradientColorPoint`. |
 
 ## Ιδιότητες
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
-| [Location](../../aspose.psd.fileformats.psd.layers.fillsettings/gradientcolorpoint/location/) { get; set; } | Λαμβάνει ή ορίζει τη θέση του σημείου σε κλίση. |
-| [MedianPointLocation](../../aspose.psd.fileformats.psd.layers.fillsettings/gradientcolorpoint/medianpointlocation/) { get; set; } | Λαμβάνει ή ορίζει τη θέση του σημείου διάμεσης κλίσης. |
-| [RawColor](../../aspose.psd.fileformats.psd.layers.fillsettings/gradientcolorpoint/rawcolor/) { get; set; } | Παίρνει ή ορίζει το χρώμα του ακατέργαστου. |
+| [ColorMode](../../aspose.psd.fileformats.psd.layers.fillsettings/gradientcolorpoint/colormode/) { get; set; } | Λειτουργία για το χρώμα που ακολουθεί |
+| [Location](../../aspose.psd.fileformats.psd.layers.fillsettings/gradientcolorpoint/location/) { get; set; } | Λαμβάνει ή ορίζει τη θέση του σημείου στη διαβάθμιση. |
+| [MedianPointLocation](../../aspose.psd.fileformats.psd.layers.fillsettings/gradientcolorpoint/medianpointlocation/) { get; set; } | Λαμβάνει ή ορίζει τη θέση του μεσαίου σημείου διαβάθμισης. |
+| [RawColor](../../aspose.psd.fileformats.psd.layers.fillsettings/gradientcolorpoint/rawcolor/) { get; set; } | Λαμβάνει ή ορίζει το χρώμα του raw. |
 
 ### Δείτε επίσης
 
 * interface [IGradientColorPoint](../../aspose.psd.fileformats.psd.layers/igradientcolorpoint/)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../aspose.psd.fileformats.psd.layers.fillsettings/)
-* συνέλευση [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../)
 
 

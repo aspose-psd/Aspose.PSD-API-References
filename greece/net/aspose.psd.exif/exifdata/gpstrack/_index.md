@@ -1,27 +1,28 @@
 ---
-title: ExifData.GPSTrack
-second_title: Aspose.PSD για Αναφορά API .NET
-description: ExifData ιδιοκτησία. Λαμβάνει ή ρυθμίζει την κατεύθυνση της κίνησης του δέκτη GPS.
+title: "ExifData.GPSTrack"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα ExifData. Λαμβάνει ή ορίζει την κατεύθυνση κίνησης του δέκτη GPS"
 type: docs
 weight: 650
 url: /el/net/aspose.psd.exif/exifdata/gpstrack/
 ---
+{{< psd/tize >}}
 ## ExifData.GPSTrack property
 
-Λαμβάνει ή ρυθμίζει την κατεύθυνση της κίνησης του δέκτη GPS.
+Λαμβάνει ή ορίζει την κατεύθυνση κίνησης του δέκτη GPS.
 
 ```csharp
 public string GPSTrack { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
 Η κατεύθυνση κίνησης του δέκτη GPS.
 
 ### Δείτε επίσης
 
 * class [ExifData](../)
-* χώρος ονομάτων [Aspose.PSD.Exif](../../exifdata/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

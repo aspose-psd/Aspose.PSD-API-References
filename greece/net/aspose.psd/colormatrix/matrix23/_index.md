@@ -1,27 +1,28 @@
 ---
-title: ColorMatrix.Matrix23
-second_title: Aspose.PSD για Αναφορά API .NET
-description: ColorMatrix ιδιοκτησία. Λαμβάνει ή ορίζει το στοιχείο στη δεύτερη γραμμή και την τρίτη στήλη αυτούColorMatrix .
+title: "ColorMatrix.Matrix23"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα ColorMatrix. Λαμβάνει ή ορίζει το στοιχείο στη δεύτερη γραμμή και την τρίτη στήλη αυτού του ColorMatrix"
 type: docs
 weight: 160
 url: /el/net/aspose.psd/colormatrix/matrix23/
 ---
+{{< psd/tize >}}
 ## ColorMatrix.Matrix23 property
 
-Λαμβάνει ή ορίζει το στοιχείο στη δεύτερη γραμμή και την τρίτη στήλη αυτού[`ColorMatrix`](../) .
+Λαμβάνει ή ορίζει το στοιχείο στη δεύτερη γραμμή και την τρίτη στήλη αυτού του [`ColorMatrix`](../).
 
 ```csharp
 public float Matrix23 { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Το στοιχείο στη δεύτερη σειρά και στην τρίτη στήλη αυτού[`ColorMatrix`](../).
+Το στοιχείο στη δεύτερη γραμμή και την τρίτη στήλη αυτού του [`ColorMatrix`](../).
 
 ### Δείτε επίσης
 
 * class [ColorMatrix](../)
-* χώρος ονομάτων [Aspose.PSD](../../colormatrix/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

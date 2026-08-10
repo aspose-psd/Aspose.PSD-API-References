@@ -1,11 +1,12 @@
 ---
-title: IAsyncTask.RunAsync
-second_title: Aspose.PSD για Αναφορά API .NET
-description: IAsyncTask μέθοδος. Εκτελεί αυτήν την εργασία.
+title: "IAsyncTask.RunAsync"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "IAsyncTask μέθοδος. Εκτελεί αυτή τη διεργασία."
 type: docs
 weight: 90
 url: /el/net/aspose.psd.asynctask/iasynctask/runasync/
 ---
+{{< psd/tize >}}
 ## RunAsync() {#runasync}
 
 Εκτελεί αυτήν την εργασία.
@@ -17,8 +18,8 @@ public void RunAsync()
 ### Δείτε επίσης
 
 * interface [IAsyncTask](../)
-* χώρος ονομάτων [Aspose.PSD.AsyncTask](../../iasynctask/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.AsyncTask](../../../aspose.psd.asynctask/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
@@ -32,12 +33,12 @@ public void RunAsync(ThreadPriority priority)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| priority | ThreadPriority | Η προτεραιότητα του νήματος. |
+| προτεραιότητα | ThreadPriority | Η προτεραιότητα του νήματος. |
 
 ### Δείτε επίσης
 
 * interface [IAsyncTask](../)
-* χώρος ονομάτων [Aspose.PSD.AsyncTask](../../iasynctask/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.AsyncTask](../../../aspose.psd.asynctask/)
+* assembly [Aspose.PSD](../../../)
 
 

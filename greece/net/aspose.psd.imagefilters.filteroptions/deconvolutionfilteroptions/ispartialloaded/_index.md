@@ -1,27 +1,28 @@
 ---
-title: DeconvolutionFilterOptions.IsPartialLoaded
-second_title: Aspose.PSD για Αναφορά API .NET
-description: DeconvolutionFilterOptions ιδιοκτησία. Λαμβάνει μια τιμή που υποδεικνύει εάν αυτό το στιγμιότυπο είναι μερικώς φορτωμένο.
+title: "DeconvolutionFilterOptions.IsPartialLoaded"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "DeconvolutionFilterOptions ιδιότητα. Λαμβάνει μια τιμή που υποδεικνύει εάν αυτή η παρουσία είναι μερικώς φορτωμένη"
 type: docs
 weight: 30
 url: /el/net/aspose.psd.imagefilters.filteroptions/deconvolutionfilteroptions/ispartialloaded/
 ---
+{{< psd/tize >}}
 ## DeconvolutionFilterOptions.IsPartialLoaded property
 
-Λαμβάνει μια τιμή που υποδεικνύει εάν αυτό το στιγμιότυπο είναι μερικώς φορτωμένο.
+Λαμβάνει μια τιμή που υποδεικνύει εάν αυτή η παρουσία είναι μερικά φορτωμένη.
 
 ```csharp
 public bool IsPartialLoaded { get; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-`αληθής` εάν αυτό το στιγμιότυπο είναι μερικώς φορτωμένο. σε διαφορετική περίπτωση,`ψευδής` .
+`true` εάν αυτή η παρουσία είναι μερικώς φορτωμένη· διαφορετικά, `false`.
 
 ### Δείτε επίσης
 
 * class [DeconvolutionFilterOptions](../)
-* χώρος ονομάτων [Aspose.PSD.ImageFilters.FilterOptions](../../deconvolutionfilteroptions/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageFilters.FilterOptions](../../../aspose.psd.imagefilters.filteroptions/)
+* assembly [Aspose.PSD](../../../)
 
 

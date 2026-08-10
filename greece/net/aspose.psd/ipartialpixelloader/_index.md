@@ -1,14 +1,15 @@
 ---
-title: Interface IPartialPixelLoader
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Aspose.PSD.IPartialPixelLoader διεπαφή. Συμμορφώνεται με τα εικονοστοιχεία που έχουν φορτωθεί μερικώς.
+title: "Διεπαφή IPartialPixelLoader"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Aspose.PSD.IPartialPixelLoader διεπαφή. Συμφωνεί με τα εικονοστοιχεία που φορτώνονται μερικώς"
 type: docs
-weight: 4530
+weight: 5000
 url: /el/net/aspose.psd/ipartialpixelloader/
 ---
+{{< psd/tize >}}
 ## IPartialPixelLoader interface
 
-Συμμορφώνεται με τα εικονοστοιχεία που έχουν φορτωθεί μερικώς.
+Συμμορφώνεται με τα pixel που φορτώνονται μερικώς.
 
 ```csharp
 public interface IPartialPixelLoader
@@ -16,13 +17,13 @@ public interface IPartialPixelLoader
 
 ## Μέθοδοι
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
-| [Process](../../aspose.psd/ipartialpixelloader/process/)(Rectangle, Color[], Point, Point) | Επεξεργάζεται τα φορτωμένα pixel. |
+| [Process](../../aspose.psd/ipartialpixelloader/process/)(Rectangle, Color[], Point, Point) | Επεξεργάζεται τα φορτωμένα εικονοστοιχεία. |
 
 ### Δείτε επίσης
 
-* χώρος ονομάτων [Aspose.PSD](../../aspose.psd/)
-* συνέλευση [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

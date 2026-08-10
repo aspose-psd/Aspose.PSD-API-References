@@ -1,27 +1,28 @@
 ---
-title: TiffOptions.ScannerModel
-second_title: Aspose.PSD για Αναφορά API .NET
-description: TiffOptions ιδιοκτησία. Λήψη ή ρύθμιση του μοντέλου σαρωτή.
+title: "TiffOptions.ScannerModel"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα TiffOptions. Λαμβάνει ή ορίζει το μοντέλο σαρωτή"
 type: docs
-weight: 420
+weight: 430
 url: /el/net/aspose.psd.imageoptions/tiffoptions/scannermodel/
 ---
+{{< psd/tize >}}
 ## TiffOptions.ScannerModel property
 
-Λήψη ή ρύθμιση του μοντέλου σαρωτή.
+Λαμβάνει ή ορίζει το μοντέλο του σαρωτή.
 
 ```csharp
 public string ScannerModel { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Το μοντέλο του σαρωτή.
+Το μοντέλο σαρωτή.
 
 ### Δείτε επίσης
 
 * class [TiffOptions](../)
-* χώρος ονομάτων [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,20 +1,21 @@
 ---
-title: Graphics.CompositingQuality
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Graphics ιδιοκτησία. Λαμβάνει ή ρυθμίζει την ποιότητα σύνθεσης.
+title: "Graphics.CompositingQuality"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα Graphics. Λαμβάνει ή ορίζει την ποιότητα σύνθεσης."
 type: docs
 weight: 30
 url: /el/net/aspose.psd/graphics/compositingquality/
 ---
+{{< psd/tize >}}
 ## Graphics.CompositingQuality property
 
-Λαμβάνει ή ρυθμίζει την ποιότητα σύνθεσης.
+Ανακτά ή ορίζει την ποιότητα σύνθεσης.
 
 ```csharp
 public CompositingQuality CompositingQuality { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
 Η ποιότητα σύνθεσης.
 
@@ -22,7 +23,7 @@ public CompositingQuality CompositingQuality { get; set; }
 
 * enum [CompositingQuality](../../compositingquality/)
 * class [Graphics](../)
-* χώρος ονομάτων [Aspose.PSD](../../graphics/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

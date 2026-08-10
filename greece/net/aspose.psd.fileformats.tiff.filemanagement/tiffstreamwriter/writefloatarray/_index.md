@@ -1,14 +1,15 @@
 ---
-title: TiffStreamWriter.WriteFloatArray
-second_title: Aspose.PSD για Αναφορά API .NET
-description: TiffStreamWriter μέθοδος. Γράφει μια σειρά από τιμές float στη ροή.
+title: "TiffStreamWriter.WriteFloatArray"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Μέθοδος TiffStreamWriter. Γράφει έναν πίνακα τιμών κινητής υποδιαστολής στη ροή"
 type: docs
 weight: 80
 url: /el/net/aspose.psd.fileformats.tiff.filemanagement/tiffstreamwriter/writefloatarray/
 ---
+{{< psd/tize >}}
 ## TiffStreamWriter.WriteFloatArray method
 
-Γράφει μια σειρά από τιμές float στη ροή.
+Γράφει έναν πίνακα τιμών float στη ροή.
 
 ```csharp
 public void WriteFloatArray(float[] data)
@@ -16,12 +17,12 @@ public void WriteFloatArray(float[] data)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| data | Single[] | Ο πίνακας για να γράψετε. |
+| δεδομένα | Single[] | Ο πίνακας για εγγραφή. |
 
 ### Δείτε επίσης
 
 * class [TiffStreamWriter](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Tiff.FileManagement](../../tiffstreamwriter/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff.FileManagement](../../../aspose.psd.fileformats.tiff.filemanagement/)
+* assembly [Aspose.PSD](../../../)
 
 

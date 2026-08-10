@@ -1,11 +1,12 @@
 ---
-title: IntegerStructure.Value
-second_title: Aspose.PSD για Αναφορά API .NET
-description: IntegerStructure ιδιοκτησία. Λαμβάνει ή ορίζει μια ακέραια τιμή.
+title: "IntegerStructure.Value"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα IntegerStructure. Λαμβάνει ή ορίζει μια ακέραια τιμή"
 type: docs
 weight: 40
 url: /el/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/integerstructure/value/
 ---
+{{< psd/tize >}}
 ## IntegerStructure.Value property
 
 Λαμβάνει ή ορίζει μια ακέραια τιμή.
@@ -14,14 +15,14 @@ url: /el/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostruct
 public int Value { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
 Μια ακέραια τιμή.
 
 ### Δείτε επίσης
 
 * class [IntegerStructure](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../integerstructure/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 

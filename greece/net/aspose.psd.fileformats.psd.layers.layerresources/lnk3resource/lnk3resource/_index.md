@@ -1,22 +1,23 @@
 ---
-title: Lnk3Resource.Lnk3Resource
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Lnk3Resource κατασκευαστής. Αρχικοποιεί μια νέα παρουσία τουLnk3Resource τάξη.
+title: "Lnk3Resource.Lnk3Resource"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Κατασκευαστής Lnk3Resource. Αρχικοποιεί ένα νέο αντικείμενο της κλάσης Lnk3Resource"
 type: docs
 weight: 10
 url: /el/net/aspose.psd.fileformats.psd.layers.layerresources/lnk3resource/lnk3resource/
 ---
+{{< psd/tize >}}
 ## Lnk3Resource constructor
 
-Αρχικοποιεί μια νέα παρουσία του[`Lnk3Resource`](../) τάξη.
+Αρχικοποιεί ένα νέο αντικείμενο της κλάσης [`Lnk3Resource`](../).
 
 ```csharp
 public Lnk3Resource()
 ```
 
-### Παραδείγματα
+## Παραδείγματα
 
-Αυτό το παράδειγμα δείχνει πώς να αποκτήσετε και να ορίσετε ιδιότητες των Lnk2Resource και Lnk3Resource.
+Αυτό το παράδειγμα δείχνει πώς να ανακτήσετε και να ορίσετε ιδιότητες του Lnk2Resource και του Lnk3Resource.
 
 ```csharp
 [C#]
@@ -31,84 +32,84 @@ void AssertAreEqual(object expected, object actual)
 
 object[] Lnk2ResourceSupportCases = new object[]
 {
-new object[]
-{
-    "00af34a0-a90b-674d-a821-73ee508c5479",
-    "rgb8_2x2.png",
-    "png",
-    string.Empty,
-    0x53,
-    0d,
-    string.Empty,
-    7,
-    true,
-    0x124L,
-    0x74cL
-}
+    new object[]
+    {
+        "00af34a0-a90b-674d-a821-73ee508c5479",
+        "rgb8_2x2.png",
+        "png",
+        string.Empty,
+        0x53,
+        0d,
+        string.Empty,
+        7,
+        true,
+        0x124L,
+        0x74cL
+    }
 };
 
 object[] LayeredLnk2ResourceSupportCases = new object[]
 {
-new object[]
-{
-    "69ac1c0d-1b74-fd49-9c7e-34a7aa6299ef",
-    "huset.jpg",
-    "JPEG",
-    string.Empty,
-    0x9d46,
-    0d,
-    "xmp.did:0F94B342065B11E395B1FD506DED6B07",
-    7,
-    true,
-    0x9E60L,
-    0xc60cL
-},
-new object[]
-{
-    "5a7d1965-0eae-b24e-a82f-98c7646424c2",
-    "panama-papers.jpg",
-    "JPEG",
-    string.Empty,
-    0xF56B,
-    0d,
-    "xmp.did:BDE940CBF51B11E59D759CDA690663E3",
-    7,
-    true,
-    0xF694L,
-    0x10dd4L
-},
+    new object[]
+    {
+        "69ac1c0d-1b74-fd49-9c7e-34a7aa6299ef",
+        "huset.jpg",
+        "JPEG",
+        string.Empty,
+        0x9d46,
+        0d,
+        "xmp.did:0F94B342065B11E395B1FD506DED6B07",
+        7,
+        true,
+        0x9E60L,
+        0xc60cL
+    },
+    new object[]
+    {
+        "5a7d1965-0eae-b24e-a82f-98c7646424c2",
+        "panama-papers.jpg",
+        "JPEG",
+        string.Empty,
+        0xF56B,
+        0d,
+        "xmp.did:BDE940CBF51B11E59D759CDA690663E3",
+        7,
+        true,
+        0xF694L,
+        0x10dd4L
+    },
 };
 
 object[] LayeredLnk3ResourceSupportCases = new object[]
 {
-new object[]
-{
-    "2fd7ba52-0221-de4c-bdc4-1210580c6caa",
-    "panama-papers.jpg",
-    "JPEG",
-    string.Empty,
-    0xF56B,
-    0d,
-    "xmp.did:BDE940CBF51B11E59D759CDA690663E3",
-    7,
-    true,
-    0xF694l,
-    0x10dd4L
-},
-new object[]
-{
-    "372d52eb-5825-8743-81a7-b6f32d51323d",
-    "huset.jpg",
-    "JPEG",
-    string.Empty,
-    0x9d46,
-    0d,
-    "xmp.did:0F94B342065B11E395B1FD506DED6B07",
-    7,
-    true,
-    0x9E60L,
-    0xc60cL
-},
+    new object[]
+    {
+        "2fd7ba52-0221-de4c-bdc4-1210580c6caa",
+        "panama-papers.jpg",
+        "JPEG",
+        string.Empty,
+        0xF56B,
+        0d,
+        "xmp.did:BDE940CBF51B11E59D759CDA690663E3",
+        7,
+        true,
+        0xF694l,
+        0x10dd4L
+    },
+    new object[]
+    {
+        "372d52eb-5825-8743-81a7-b6f32d51323d",
+        "huset.jpg",
+        "JPEG",
+        string.Empty,
+        0x9d46,
+        0d,
+        "xmp.did:0F94B342065B11E395B1FD506DED6B07",
+        7,
+        true,
+        0x9E60L,
+        0xc60cL
+    },
 };
 
 var basePath = "" + Path.DirectorySeparatorChar;
@@ -134,7 +135,7 @@ byte[] LoadNewData(string fileName)
     }
 }
 
-// Λαμβάνει και ορίζει ιδιότητες του πόρου PSD Lnk2 / Lnk3 και των πηγών δεδομένων του liFD στην εικόνα PSD
+// Ανακτά και ορίζει ιδιότητες του πόρου PSD Lnk2 / Lnk3 και των πηγών δεδομένων liFD του σε εικόνα PSD.
 void ExampleOfLnk2ResourceSupport(
     string fileName,
     int dataSourceCount,
@@ -196,27 +197,27 @@ void ExampleOfLnk2ResourceSupport(
         }
 
         AssertAreEqual(true, lnk2Resource != null);
-        if (image.BitsPerChannel < 32) // Η αποθήκευση 32 bit ανά κανάλι δεν υποστηρίζεται ακόμη
+        if (image.BitsPerChannel < 32) // 32 bit per channel saving is not supported yet
         {
             image.Save(basePath + Output + fileName, new PsdOptions(image));
         }
     }
 }
 
-// Αυτό το παράδειγμα δείχνει πώς να αποκτήσετε και να ορίσετε ιδιότητες του πόρου PSD Lnk2 και των πηγών δεδομένων του liFD για 8 bit ανά κανάλι.
+// Αυτό το παράδειγμα δείχνει πώς να ανακτήσετε και να ορίσετε ιδιότητες του πόρου PSD Lnk2 και των πηγών δεδομένων liFD του για 8 bit ανά κανάλι.
 ExampleOfLnk2ResourceSupport("rgb8_2x2_embedded_png.psd", 1, 0x12C, 0x0000079c, Lnk2ResourceSupportCases);
 
-// Αυτό το παράδειγμα δείχνει πώς να αποκτήσετε και να ορίσετε ιδιότητες του πόρου PSD Lnk3 και των πηγών δεδομένων του liFD για 32 bit ανά κανάλι.
+// Αυτό το παράδειγμα δείχνει πώς να ανακτήσετε και να ορίσετε ιδιότητες του πόρου PSD Lnk3 και των πηγών δεδομένων liFD του για 32 bit ανά κανάλι.
 ExampleOfLnk2ResourceSupport("Layered PSD file smart objects.psd", 2, 0x19504, 0x0001d3e0, LayeredLnk3ResourceSupportCases);
 
-// Αυτό το παράδειγμα δείχνει πώς να αποκτήσετε και να ορίσετε ιδιότητες του πόρου PSD Lnk2 και των πηγών δεδομένων του liFD για 16 bit ανά κανάλι.
+// Αυτό το παράδειγμα δείχνει πώς να ανακτήσετε και να ορίσετε ιδιότητες του πόρου PSD Lnk2 και των πηγών δεδομένων liFD του για 16 bit ανά κανάλι
 ExampleOfLnk2ResourceSupport("LayeredSmartObjects16bit.psd", 2, 0x19504, 0x0001d3e0, LayeredLnk2ResourceSupportCases);
 ```
 
 ### Δείτε επίσης
 
 * class [Lnk3Resource](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../lnk3resource/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: NonGenericDictionary.Count
-second_title: Aspose.PSD για Αναφορά API .NET
-description: NonGenericDictionary ιδιοκτησία. Παίρνει τον αριθμό των στοιχείων που περιέχονται στο ICollection .
+title: "NonGenericDictionary.Count"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "NonGenericDictionary ιδιότητα. Λαμβάνει τον αριθμό των στοιχείων που περιέχονται στο ICollection"
 type: docs
 weight: 20
 url: /el/net/aspose.psd/nongenericdictionary/count/
 ---
+{{< psd/tize >}}
 ## NonGenericDictionary.Count property
 
-Παίρνει τον αριθμό των στοιχείων που περιέχονται στο ICollection .
+Λαμβάνει τον αριθμό των στοιχείων που περιέχονται στο ICollection.
 
 ```csharp
 public int Count { get; }
 ```
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-Ο αριθμός των στοιχείων που περιέχονται στοICollection.
+Ο αριθμός των στοιχείων που περιέχονται στο ICollection.
 
 ### Δείτε επίσης
 
 * class [NonGenericDictionary](../)
-* χώρος ονομάτων [Aspose.PSD](../../nongenericdictionary/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

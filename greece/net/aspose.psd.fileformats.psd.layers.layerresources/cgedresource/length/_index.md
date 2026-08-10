@@ -1,14 +1,15 @@
 ---
-title: CgEdResource.Length
-second_title: Aspose.PSD για Αναφορά API .NET
-description: CgEdResource ιδιοκτησία. Λαμβάνει το μήκος του πόρου του επιπέδου σε byte.
+title: "CgEdResource.Length"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "CgEdResource property. Λαμβάνει το μήκος του πόρου στρώσης σε bytes"
 type: docs
-weight: 70
+weight: 60
 url: /el/net/aspose.psd.fileformats.psd.layers.layerresources/cgedresource/length/
 ---
+{{< psd/tize >}}
 ## CgEdResource.Length property
 
-Λαμβάνει το μήκος του πόρου του επιπέδου σε byte.
+Λαμβάνει το μήκος του πόρου του επιπέδου σε bytes.
 
 ```csharp
 public override int Length { get; }
@@ -17,7 +18,7 @@ public override int Length { get; }
 ### Δείτε επίσης
 
 * class [CgEdResource](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../cgedresource/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: Point.op_Explicit
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Point μέθοδος. Μετατρέπει το καθορισμένοPoint δομή σε αSizeδομή.
+title: "Point.op_Explicit"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Μέθοδος Point. Μετατρέπει τη καθορισμένη δομή Point σε δομή Size."
 type: docs
 weight: 170
 url: /el/net/aspose.psd/point/op_explicit/
 ---
+{{< psd/tize >}}
 ## Point Explicit operator
 
-Μετατρέπει το καθορισμένο[`Point`](../) δομή σε α[`Size`](../../size/)δομή.
+Μετατρέπει τη καθορισμένη δομή [`Point`](../) σε δομή [`Size`](../../size/).
 
 ```csharp
 public static explicit operator Size(Point point)
@@ -16,17 +17,17 @@ public static explicit operator Size(Point point)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| point | Point | ο[`Point`](../) να μετατραπεί. |
+| point | Point | Το [`Point`](../) που θα μετατραπεί. |
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-ο[`Size`](../../size/) που προκύπτει από τη μετατροπή.
+Το [`Size`](../../size/) που προκύπτει από τη μετατροπή.
 
 ### Δείτε επίσης
 
 * struct [Size](../../size/)
 * struct [Point](../)
-* χώρος ονομάτων [Aspose.PSD](../../point/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

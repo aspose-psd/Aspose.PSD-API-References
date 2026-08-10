@@ -1,11 +1,12 @@
 ---
-title: BorderInformationResource.Width
-second_title: Aspose.PSD για Αναφορά API .NET
-description: BorderInformationResource ιδιοκτησία. Λαμβάνει ή ορίζει το πλάτος περιγράμματος.
+title: "BorderInformationResource.Width"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "BorderInformationResource ιδιότητα. Λαμβάνει ή ορίζει το πλάτος του περιγράμματος"
 type: docs
 weight: 50
 url: /el/net/aspose.psd.fileformats.psd.resources/borderinformationresource/width/
 ---
+{{< psd/tize >}}
 ## BorderInformationResource.Width property
 
 Λαμβάνει ή ορίζει το πλάτος περιγράμματος.
@@ -14,9 +15,9 @@ url: /el/net/aspose.psd.fileformats.psd.resources/borderinformationresource/widt
 public double Width { get; set; }
 ```
 
-### Παραδείγματα
+## Παραδείγματα
 
-Το ακόλουθο παράδειγμα δείχνει την υποστήριξη του πόρου BorderInformationResource.
+Το παρακάτω παράδειγμα δείχνει την υποστήριξη του πόρου BorderInformationResource.
 
 ```csharp
 [C#]
@@ -48,7 +49,7 @@ using (var image = (PsdImage)Image.Load(sourceFilePath))
 ### Δείτε επίσης
 
 * class [BorderInformationResource](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Resources](../../borderinformationresource/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

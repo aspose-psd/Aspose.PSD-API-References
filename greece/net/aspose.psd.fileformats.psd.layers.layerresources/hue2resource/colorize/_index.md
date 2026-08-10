@@ -1,27 +1,28 @@
 ---
-title: Hue2Resource.Colorize
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Hue2Resource ιδιοκτησία. Λαμβάνει ή ορίζει μια τιμή που υποδεικνύει εάν αυτόHue2Resource είναι colorize.
+title: "Hue2Resource.Colorize"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα Hue2Resource. Λαμβάνει ή ορίζει μια τιμή που υποδεικνύει εάν αυτό το Hue2Resource είναι χρωματισμένο"
 type: docs
 weight: 20
 url: /el/net/aspose.psd.fileformats.psd.layers.layerresources/hue2resource/colorize/
 ---
+{{< psd/tize >}}
 ## Hue2Resource.Colorize property
 
-Λαμβάνει ή ορίζει μια τιμή που υποδεικνύει εάν αυτό[`Hue2Resource`](../) είναι colorize.
+Λαμβάνει ή ορίζει μια τιμή που υποδεικνύει εάν αυτό το [`Hue2Resource`](../) είναι χρωματισμένο.
 
 ```csharp
 public bool Colorize { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-`αληθής` αν χρωματίσει? σε διαφορετική περίπτωση,`ψευδής` .
+`true` εάν χρωματίζει· διαφορετικά, `false`.
 
 ### Δείτε επίσης
 
 * class [Hue2Resource](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../hue2resource/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

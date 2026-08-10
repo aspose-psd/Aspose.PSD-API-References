@@ -1,11 +1,12 @@
 ---
-title: ImageAttributes.SetNoOp
-second_title: Aspose.PSD για Αναφορά API .NET
-description: ImageAttributes μέθοδος. Απενεργοποιεί τη ρύθμιση χρώματος για την προεπιλεγμένη κατηγορία.
+title: "ImageAttributes.SetNoOp"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Μέθοδος ImageAttributes. Απενεργοποιεί τη ρύθμιση χρώματος για την προεπιλεγμένη κατηγορία."
 type: docs
 weight: 160
 url: /el/net/aspose.psd/imageattributes/setnoop/
 ---
+{{< psd/tize >}}
 ## SetNoOp() {#setnoop}
 
 Απενεργοποιεί τη ρύθμιση χρώματος για την προεπιλεγμένη κατηγορία.
@@ -17,8 +18,8 @@ public void SetNoOp()
 ### Δείτε επίσης
 
 * class [ImageAttributes](../)
-* χώρος ονομάτων [Aspose.PSD](../../imageattributes/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
@@ -32,13 +33,13 @@ public void SetNoOp(ColorAdjustType type)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| type | ColorAdjustType | Ένα στοιχείο του[`ColorAdjustType`](../../coloradjusttype/) που καθορίζει την κατηγορία για την οποία είναι απενεργοποιημένη η διόρθωση χρώματος. |
+| type | ColorAdjustType | Ένα στοιχείο του [`ColorAdjustType`](../../coloradjusttype/) που καθορίζει την κατηγορία για την οποία η διόρθωση χρώματος είναι απενεργοποιημένη. |
 
 ### Δείτε επίσης
 
 * enum [ColorAdjustType](../../coloradjusttype/)
 * class [ImageAttributes](../)
-* χώρος ονομάτων [Aspose.PSD](../../imageattributes/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

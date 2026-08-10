@@ -1,27 +1,28 @@
 ---
-title: XmpTypeBase.GetXmpRepresentation
-second_title: Aspose.PSD για Αναφορά API .NET
-description: XmpTypeBase μέθοδος. Λαμβάνει την τιμή που περιέχεται στη συμβολοσειρά σε μορφή XMP.
+title: "XmpTypeBase.GetXmpRepresentation"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "XmpTypeBase μέθοδος. Λαμβάνει την τιμή της συμβολοσειράς σε μορφή XMP"
 type: docs
 weight: 10
 url: /el/net/aspose.psd.xmp.types/xmptypebase/getxmprepresentation/
 ---
+{{< psd/tize >}}
 ## XmpTypeBase.GetXmpRepresentation method
 
-Λαμβάνει την τιμή που περιέχεται στη συμβολοσειρά σε μορφή XMP.
+Λαμβάνει τη συμβολοσειρά που περιέχει την τιμή σε μορφή XMP.
 
 ```csharp
 public abstract string GetXmpRepresentation()
 ```
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-Επιστρέφει την τιμή που περιέχεται στη συμβολοσειρά σε μορφή XMP.
+Επιστρέφει την τιμή της συμβολοσειράς σε μορφή XMP.
 
 ### Δείτε επίσης
 
 * class [XmpTypeBase](../)
-* χώρος ονομάτων [Aspose.PSD.Xmp.Types](../../xmptypebase/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types](../../../aspose.psd.xmp.types/)
+* assembly [Aspose.PSD](../../../)
 
 

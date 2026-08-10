@@ -1,11 +1,12 @@
 ---
-title: DataStreamSupporter.DataStreamContainer
-second_title: Aspose.PSD για Αναφορά API .NET
-description: DataStreamSupporter ιδιοκτησία. Λαμβάνει τη ροή δεδομένων του αντικειμένου.
+title: "DataStreamSupporter.DataStreamContainer"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα DataStreamSupporter. Λαμβάνει τη ροή δεδομένων του αντικειμένου"
 type: docs
 weight: 10
 url: /el/net/aspose.psd/datastreamsupporter/datastreamcontainer/
 ---
+{{< psd/tize >}}
 ## DataStreamSupporter.DataStreamContainer property
 
 Λαμβάνει τη ροή δεδομένων του αντικειμένου.
@@ -14,15 +15,15 @@ url: /el/net/aspose.psd/datastreamsupporter/datastreamcontainer/
 public StreamContainer DataStreamContainer { get; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Ροή δεδομένων του αντικειμένου.
+Η ροή δεδομένων του αντικειμένου.
 
 ### Δείτε επίσης
 
 * class [StreamContainer](../../streamcontainer/)
 * class [DataStreamSupporter](../)
-* χώρος ονομάτων [Aspose.PSD](../../datastreamsupporter/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

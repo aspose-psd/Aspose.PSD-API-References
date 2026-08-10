@@ -1,28 +1,29 @@
 ---
-title: ColorMap.OldColor
-second_title: Aspose.PSD για Αναφορά API .NET
-description: ColorMap ιδιοκτησία. Λαμβάνει ή ορίζει το υπάρχονColor δομή προς μετατροπή.
+title: "ColorMap.OldColor"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα ColorMap. Λαμβάνει ή ορίζει την υπάρχουσα δομή Color που θα μετατραπεί"
 type: docs
 weight: 30
 url: /el/net/aspose.psd/colormap/oldcolor/
 ---
+{{< psd/tize >}}
 ## ColorMap.OldColor property
 
-Λαμβάνει ή ορίζει το υπάρχον[`Color`](../../color/) δομή προς μετατροπή.
+Λαμβάνει ή ορίζει την υπάρχουσα δομή [`Color`](../../color/) που θα μετατραπεί.
 
 ```csharp
 public Color OldColor { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Τα υπαρχοντα[`Color`](../../color/) δομή που θα μετατραπεί.
+Η υπάρχουσα δομή [`Color`](../../color/) που θα μετατραπεί.
 
 ### Δείτε επίσης
 
 * struct [Color](../../color/)
 * class [ColorMap](../)
-* χώρος ονομάτων [Aspose.PSD](../../colormap/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

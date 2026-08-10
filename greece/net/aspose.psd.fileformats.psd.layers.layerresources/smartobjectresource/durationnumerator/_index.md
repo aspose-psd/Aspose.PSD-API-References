@@ -1,11 +1,12 @@
 ---
-title: SmartObjectResource.DurationNumerator
-second_title: Aspose.PSD για Αναφορά API .NET
-description: SmartObjectResource ιδιοκτησία. Λαμβάνει ή ορίζει τον αριθμητή διάρκειας.
+title: "SmartObjectResource.DurationNumerator"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "SmartObjectResource ιδιότητα. Λαμβάνει ή ορίζει τον αριθμητή της διάρκειας"
 type: docs
 weight: 60
 url: /el/net/aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/durationnumerator/
 ---
+{{< psd/tize >}}
 ## SmartObjectResource.DurationNumerator property
 
 Λαμβάνει ή ορίζει τον αριθμητή διάρκειας.
@@ -14,14 +15,14 @@ url: /el/net/aspose.psd.fileformats.psd.layers.layerresources/smartobjectresourc
 public int DurationNumerator { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Ο αριθμητής διάρκειας.
+Ο αριθμητής της διάρκειας.
 
 ### Δείτε επίσης
 
 * class [SmartObjectResource](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../smartobjectresource/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

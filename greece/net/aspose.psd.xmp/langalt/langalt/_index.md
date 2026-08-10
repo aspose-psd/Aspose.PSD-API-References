@@ -1,14 +1,15 @@
 ---
-title: LangAlt.LangAlt
-second_title: Aspose.PSD για Αναφορά API .NET
-description: LangAlt κατασκευαστής. Αρχικοποιεί μια νέα παρουσία τουLangAlt τάξη.
+title: "LangAlt.LangAlt"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Κατασκευαστής LangAlt. Αρχικοποιεί ένα νέο αντικείμενο της κλάσης LangAlt"
 type: docs
 weight: 10
 url: /el/net/aspose.psd.xmp/langalt/langalt/
 ---
+{{< psd/tize >}}
 ## LangAlt(string) {#constructor_1}
 
-Αρχικοποιεί μια νέα παρουσία του[`LangAlt`](../) τάξη.
+Αρχικοποιεί ένα νέο αντικείμενο της κλάσης [`LangAlt`](../).
 
 ```csharp
 public LangAlt(string defaultValue)
@@ -21,14 +22,14 @@ public LangAlt(string defaultValue)
 ### Δείτε επίσης
 
 * class [LangAlt](../)
-* χώρος ονομάτων [Aspose.PSD.Xmp](../../langalt/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## LangAlt() {#constructor}
 
-Αρχικοποιεί μια νέα παρουσία του[`LangAlt`](../) τάξη.
+Αρχικοποιεί ένα νέο αντικείμενο της κλάσης [`LangAlt`](../).
 
 ```csharp
 public LangAlt()
@@ -37,7 +38,7 @@ public LangAlt()
 ### Δείτε επίσης
 
 * class [LangAlt](../)
-* χώρος ονομάτων [Aspose.PSD.Xmp](../../langalt/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

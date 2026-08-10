@@ -1,20 +1,21 @@
 ---
-title: ColorOverlayEffect.Color
-second_title: Aspose.PSD για Αναφορά API .NET
-description: ColorOverlayEffect ιδιοκτησία. Παίρνει ή ρυθμίζει το χρώμα.
+title: "ColorOverlayEffect.Color"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "ColorOverlayEffect ιδιότητα. Λαμβάνει ή ορίζει το χρώμα"
 type: docs
 weight: 20
 url: /el/net/aspose.psd.fileformats.psd.layers.layereffects/coloroverlayeffect/color/
 ---
+{{< psd/tize >}}
 ## ColorOverlayEffect.Color property
 
-Παίρνει ή ρυθμίζει το χρώμα.
+Λαμβάνει ή ορίζει το χρώμα.
 
 ```csharp
 public Color Color { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
 Το χρώμα.
 
@@ -22,7 +23,7 @@ public Color Color { get; set; }
 
 * struct [Color](../../../aspose.psd/color/)
 * class [ColorOverlayEffect](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../coloroverlayeffect/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../../)
 
 

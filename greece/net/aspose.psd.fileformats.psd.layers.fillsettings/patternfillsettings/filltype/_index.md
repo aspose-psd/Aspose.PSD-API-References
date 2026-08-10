@@ -1,14 +1,15 @@
 ---
-title: PatternFillSettings.FillType
-second_title: Aspose.PSD για Αναφορά API .NET
-description: PatternFillSettings ιδιοκτησία. Ο τύπος πλήρωσης
+title: "PatternFillSettings.FillType"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα PatternFillSettings. Ο τύπος γεμίσματος"
 type: docs
-weight: 30
+weight: 50
 url: /el/net/aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings/filltype/
 ---
+{{< psd/tize >}}
 ## PatternFillSettings.FillType property
 
-Ο τύπος πλήρωσης
+Ο τύπος γεμίσματος
 
 ```csharp
 public override FillType FillType { get; }
@@ -18,7 +19,7 @@ public override FillType FillType { get; }
 
 * enum [FillType](../../filltype/)
 * class [PatternFillSettings](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../patternfillsettings/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../../)
 
 

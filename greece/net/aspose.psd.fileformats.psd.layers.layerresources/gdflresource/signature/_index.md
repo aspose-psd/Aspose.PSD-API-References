@@ -1,14 +1,15 @@
 ---
-title: GdFlResource.Signature
-second_title: Aspose.PSD για Αναφορά API .NET
-description: GdFlResource ιδιοκτησία. Λαμβάνει την υπογραφή του πόρου του επιπέδου.
+title: "GdFlResource.Signature"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "GdFlResource ιδιότητα. Λαμβάνει την υπογραφή πόρου στρώσης"
 type: docs
-weight: 160
+weight: 230
 url: /el/net/aspose.psd.fileformats.psd.layers.layerresources/gdflresource/signature/
 ---
+{{< psd/tize >}}
 ## GdFlResource.Signature property
 
-Λαμβάνει την υπογραφή του πόρου του επιπέδου.
+Λαμβάνει την υπογραφή του πόρου στρώματος.
 
 ```csharp
 public override int Signature { get; }
@@ -17,7 +18,7 @@ public override int Signature { get; }
 ### Δείτε επίσης
 
 * class [GdFlResource](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../gdflresource/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

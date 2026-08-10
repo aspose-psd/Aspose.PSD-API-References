@@ -1,14 +1,15 @@
 ---
-title: XmpArray.XmpArray
-second_title: Aspose.PSD για Αναφορά API .NET
-description: XmpArray κατασκευαστής. Αρχικοποιεί μια νέα παρουσία τουXmpArray τάξη.
+title: "XmpArray.XmpArray"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "XmpArray κατασκευαστής. Αρχικοποιεί μια νέα παρουσία της κλάσης XmpArray"
 type: docs
 weight: 10
 url: /el/net/aspose.psd.xmp/xmparray/xmparray/
 ---
+{{< psd/tize >}}
 ## XmpArray(XmpArrayType, string[]) {#constructor_1}
 
-Αρχικοποιεί μια νέα παρουσία του[`XmpArray`](../) τάξη.
+Αρχικοποιεί μια νέα παρουσία της κλάσης [`XmpArray`](../).
 
 ```csharp
 public XmpArray(XmpArrayType type, string[] items)
@@ -16,21 +17,21 @@ public XmpArray(XmpArrayType type, string[] items)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| type | XmpArrayType | Ο τύπος του πίνακα. |
-| items | String[] | Η λίστα στοιχείων. |
+| τύπος | XmpArrayType | Ο τύπος του πίνακα. |
+| στοιχεία | String[] | Η λίστα των στοιχείων. |
 
 ### Δείτε επίσης
 
 * enum [XmpArrayType](../../xmparraytype/)
 * class [XmpArray](../)
-* χώρος ονομάτων [Aspose.PSD.Xmp](../../xmparray/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## XmpArray(XmpArrayType) {#constructor}
 
-Αρχικοποιεί μια νέα παρουσία του[`XmpArray`](../) τάξη.
+Αρχικοποιεί μια νέα παρουσία της κλάσης [`XmpArray`](../).
 
 ```csharp
 public XmpArray(XmpArrayType type)
@@ -38,13 +39,13 @@ public XmpArray(XmpArrayType type)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| type | XmpArrayType | Ο τύπος του πίνακα. |
+| τύπος | XmpArrayType | Ο τύπος του πίνακα. |
 
 ### Δείτε επίσης
 
 * enum [XmpArrayType](../../xmparraytype/)
 * class [XmpArray](../)
-* χώρος ονομάτων [Aspose.PSD.Xmp](../../xmparray/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

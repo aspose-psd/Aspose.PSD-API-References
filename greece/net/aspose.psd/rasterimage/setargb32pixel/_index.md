@@ -1,14 +1,15 @@
 ---
-title: RasterImage.SetArgb32Pixel
-second_title: Aspose.PSD για Αναφορά API .NET
-description: RasterImage μέθοδος. Ορίζει μια εικόνα 32bit ARGB pixel για την καθορισμένη θέση.
+title: "RasterImage.SetArgb32Pixel"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "RasterImage method. Ορίζει ένα 32-bit ARGB εικονοστοιχείο εικόνας για τη συγκεκριμένη θέση"
 type: docs
-weight: 540
+weight: 560
 url: /el/net/aspose.psd/rasterimage/setargb32pixel/
 ---
+{{< psd/tize >}}
 ## RasterImage.SetArgb32Pixel method
 
-Ορίζει μια εικόνα 32-bit ARGB pixel για την καθορισμένη θέση.
+Ορίζει ένα 32-bit ARGB pixel εικόνας για τη συγκεκριμένη θέση.
 
 ```csharp
 public void SetArgb32Pixel(int x, int y, int argb32Color)
@@ -16,14 +17,14 @@ public void SetArgb32Pixel(int x, int y, int argb32Color)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| x | Int32 | Η θέση pixel x. |
-| y | Int32 | Η θέση του pixel y. |
-| argb32Color | Int32 | Το εικονοστοιχείο ARGB 32 bit για την καθορισμένη θέση. |
+| x | Int32 | Η θέση x του εικονοστοιχείου. |
+| y | Int32 | Η θέση y του εικονοστοιχείου. |
+| argb32Color | Int32 | Το 32-bit ARGB εικονοστοιχείο για τη συγκεκριμένη θέση. |
 
 ### Δείτε επίσης
 
 * class [RasterImage](../)
-* χώρος ονομάτων [Aspose.PSD](../../rasterimage/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

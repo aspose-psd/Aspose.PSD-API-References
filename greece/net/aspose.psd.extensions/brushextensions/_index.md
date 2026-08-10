@@ -1,14 +1,15 @@
 ---
-title: Class BrushExtensions
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Aspose.PSD.Extensions.BrushExtensions τάξη. Περιέχει μεθόδους επέκτασης γιαBrush καιBrush .
+title: "Κλάση BrushExtensions"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Aspose.PSD.Extensions.BrushExtensions κλάση. Περιέχει μεθόδους επέκτασης για Brush και Brush"
 type: docs
-weight: 1030
+weight: 1040
 url: /el/net/aspose.psd.extensions/brushextensions/
 ---
+{{< psd/tize >}}
 ## BrushExtensions class
 
-Περιέχει μεθόδους επέκτασης για[`Brush`](../../aspose.psd/brush/) καιBrush .
+Περιέχει μεθόδους επέκτασης για [`Brush`](../../aspose.psd/brush/) και Brush.
 
 ```csharp
 public static class BrushExtensions
@@ -16,13 +17,13 @@ public static class BrushExtensions
 
 ## Μέθοδοι
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
-| static [ToGdiBrush](../../aspose.psd.extensions/brushextensions/togdibrush/)(Brush) | Μετατρέπει το[`Brush`](../../aspose.psd/brush/) στοBrush . |
+| static [ToGdiBrush](../../aspose.psd.extensions/brushextensions/togdibrush/)(Brush) | Μετατρέπει το [`Brush`](../../aspose.psd/brush/) σε Brush. |
 
 ### Δείτε επίσης
 
-* χώρος ονομάτων [Aspose.PSD.Extensions](../../aspose.psd.extensions/)
-* συνέλευση [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Extensions](../../aspose.psd.extensions/)
+* assembly [Aspose.PSD](../../)
 
 

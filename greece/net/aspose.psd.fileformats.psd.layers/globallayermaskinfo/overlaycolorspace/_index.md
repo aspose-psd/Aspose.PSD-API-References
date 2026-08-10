@@ -1,27 +1,28 @@
 ---
-title: GlobalLayerMaskInfo.OverlayColorSpace
-second_title: Aspose.PSD για Αναφορά API .NET
-description: GlobalLayerMaskInfo ιδιοκτησία. Λαμβάνει ή ορίζει τον χρωματικό χώρο επικάλυψης μη τεκμηριωμένη τιμή.
+title: "GlobalLayerMaskInfo.OverlayColorSpace"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα GlobalLayerMaskInfo. Λαμβάνει ή ορίζει την μη τεκμηριωμένη τιμή του χρωματικού χώρου επικάλυψης"
 type: docs
 weight: 80
 url: /el/net/aspose.psd.fileformats.psd.layers/globallayermaskinfo/overlaycolorspace/
 ---
+{{< psd/tize >}}
 ## GlobalLayerMaskInfo.OverlayColorSpace property
 
-Λαμβάνει ή ορίζει τον χρωματικό χώρο επικάλυψης (μη τεκμηριωμένη τιμή).
+Λαμβάνει ή ορίζει το χώρο χρώματος επικάλυψης (ατεκμηριωμένη τιμή).
 
 ```csharp
 public short OverlayColorSpace { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
 Ο χρωματικός χώρος επικάλυψης.
 
 ### Δείτε επίσης
 
 * class [GlobalLayerMaskInfo](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers](../../globallayermaskinfo/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

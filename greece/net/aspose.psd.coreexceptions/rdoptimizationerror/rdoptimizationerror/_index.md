@@ -1,14 +1,15 @@
 ---
-title: RdOptimizationError.RdOptimizationError
-second_title: Aspose.PSD για Αναφορά API .NET
-description: RdOptimizationError κατασκευαστής. Αρχικοποιεί μια νέα παρουσία τουRdOptimizationError τάξη.
+title: "RdOptimizationError.RdOptimizationError"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Κατασκευαστής RdOptimizationError. Δημιουργεί μια νέα παρουσία της κλάσης RdOptimizationError"
 type: docs
 weight: 10
 url: /el/net/aspose.psd.coreexceptions/rdoptimizationerror/rdoptimizationerror/
 ---
+{{< psd/tize >}}
 ## RdOptimizationError constructor
 
-Αρχικοποιεί μια νέα παρουσία του[`RdOptimizationError`](../) τάξη.
+Δημιουργεί μια νέα παρουσία της κλάσης [`RdOptimizationError`](../).
 
 ```csharp
 public RdOptimizationError(string message)
@@ -21,7 +22,7 @@ public RdOptimizationError(string message)
 ### Δείτε επίσης
 
 * class [RdOptimizationError](../)
-* χώρος ονομάτων [Aspose.PSD.CoreExceptions](../../rdoptimizationerror/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.CoreExceptions](../../../aspose.psd.coreexceptions/)
+* assembly [Aspose.PSD](../../../)
 
 

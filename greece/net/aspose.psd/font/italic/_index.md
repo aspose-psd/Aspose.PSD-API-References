@@ -1,27 +1,28 @@
 ---
-title: Font.Italic
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Font ιδιοκτησία. Λαμβάνει μια τιμή που υποδεικνύει αν αυτόFontείναι πλάγιο.
+title: "Font.Italic"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα Font. Επιστρέφει μια τιμή που υποδεικνύει εάν αυτή η Font είναι πλάγια."
 type: docs
 weight: 40
 url: /el/net/aspose.psd/font/italic/
 ---
+{{< psd/tize >}}
 ## Font.Italic property
 
-Λαμβάνει μια τιμή που υποδεικνύει αν αυτό[`Font`](../)είναι πλάγιο.
+Επιστρέφει μια τιμή που υποδεικνύει εάν αυτή η [`Font`](../) είναι πλάγια.
 
 ```csharp
 public bool Italic { get; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Αλήθεια αν αυτό[`Font`](../) είναι πλάγιο? αλλιώς, ψευδής.
+True εάν αυτή η [`Font`](../) είναι πλάγια· διαφορετικά, false.
 
 ### Δείτε επίσης
 
 * class [Font](../)
-* χώρος ονομάτων [Aspose.PSD](../../font/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,28 +1,29 @@
 ---
-title: TiffOptions.XmpData
-second_title: Aspose.PSD για Αναφορά API .NET
-description: TiffOptions ιδιοκτησία. Λαμβάνει ή ορίζει το κοντέινερ μεταδεδομένων XMP.
+title: "TiffOptions.XmpData"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα TiffOptions. Λαμβάνει ή ορίζει το δοχείο μεταδεδομένων XMP"
 type: docs
-weight: 580
+weight: 590
 url: /el/net/aspose.psd.imageoptions/tiffoptions/xmpdata/
 ---
+{{< psd/tize >}}
 ## TiffOptions.XmpData property
 
-Λαμβάνει ή ορίζει το κοντέινερ μεταδεδομένων XMP.
+Λαμβάνει ή ορίζει το δοχείο μεταδεδομένων XMP.
 
 ```csharp
 public override XmpPacketWrapper XmpData { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Το κοντέινερ δεδομένων XMP.
+Το δοχείο δεδομένων XMP.
 
 ### Δείτε επίσης
 
 * class [XmpPacketWrapper](../../../aspose.psd.xmp/xmppacketwrapper/)
 * class [TiffOptions](../)
-* χώρος ονομάτων [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,26 +1,27 @@
 ---
-title: OuterGlowEffect.BlendMode
-second_title: Aspose.PSD για Αναφορά API .NET
-description: OuterGlowEffect ιδιοκτησία. Λαμβάνει ή ρυθμίζει τη λειτουργία ανάμειξης.
+title: "OuterGlowEffect.BlendMode"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "OuterGlowEffect ιδιότητα. Λαμβάνει ή ορίζει τη λειτουργία ανάμειξης"
 type: docs
 weight: 10
 url: /el/net/aspose.psd.fileformats.psd.layers.layereffects/outergloweffect/blendmode/
 ---
+{{< psd/tize >}}
 ## OuterGlowEffect.BlendMode property
 
-Λαμβάνει ή ρυθμίζει τη λειτουργία ανάμειξης.
+Λαμβάνει ή ορίζει τη λειτουργία ανάμειξης.
 
 ```csharp
 public BlendMode BlendMode { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
 Η λειτουργία ανάμειξης.
 
-### Παραδείγματα
+## Παραδείγματα
 
-Ο παρακάτω κώδικας δείχνει την υποστήριξη OuterGlowEffect.
+Ο παρακάτω κώδικας δείχνει την υποστήριξη του OuterGlowEffect.
 
 ```csharp
 [C#]
@@ -45,7 +46,7 @@ using (var image = (PsdImage)Image.Load(src))
 
 * enum [BlendMode](../../../aspose.psd.fileformats.core.blending/blendmode/)
 * class [OuterGlowEffect](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../outergloweffect/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../../)
 
 

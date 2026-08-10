@@ -1,14 +1,15 @@
 ---
-title: LnkeResource.TypeToolKey
-second_title: Aspose.PSD για Αναφορά API .NET
-description: LnkeResource πεδίο. Το κλειδί πληροφοριών εργαλείου τύπου.
+title: "LnkeResource.TypeToolKey"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Πεδίο LnkeResource. Το κλειδί πληροφοριών εργαλείου τύπου."
 type: docs
-weight: 40
+weight: 30
 url: /el/net/aspose.psd.fileformats.psd.layers.layerresources/lnkeresource/typetoolkey/
 ---
+{{< psd/tize >}}
 ## LnkeResource.TypeToolKey field
 
-Το κλειδί πληροφοριών εργαλείου τύπου.
+Το κλειδί πληροφοριών του εργαλείου τύπου.
 
 ```csharp
 public const int TypeToolKey;
@@ -17,7 +18,7 @@ public const int TypeToolKey;
 ### Δείτε επίσης
 
 * class [LnkeResource](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../lnkeresource/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: PsdImage.Rotate
-second_title: Aspose.PSD για Αναφορά API .NET
-description: PsdImage μέθοδος. Περιστροφή εικόνας γύρω από το κέντρο.
+title: "PsdImage.Rotate"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Μέθοδος PsdImage. Περιστρέφει την εικόνα γύρω από το κέντρο"
 type: docs
-weight: 610
+weight: 670
 url: /el/net/aspose.psd.fileformats.psd/psdimage/rotate/
 ---
+{{< psd/tize >}}
 ## Rotate(float) {#rotate}
 
-Περιστροφή εικόνας γύρω από το κέντρο.
+Περιστρέφει την εικόνα γύρω από το κέντρο.
 
 ```csharp
 public override void Rotate(float angle)
@@ -16,11 +17,11 @@ public override void Rotate(float angle)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| angle | Single | Η γωνία περιστροφής σε μοίρες. Οι θετικές τιμές θα περιστρέφονται δεξιόστροφα. |
+| γωνία | Single | Η γωνία περιστροφής σε μοίρες. Οι θετικές τιμές θα περιστρέφουν δεξιόστροφα. |
 
-### Παραδείγματα
+## Παραδείγματα
 
-Ο παρακάτω κώδικας δείχνει την ικανότητα περιστροφής της εικόνας κατά συγκεκριμένη τιμή γωνίας.
+Ο παρακάτω κώδικας δείχνει τη δυνατότητα περιστροφής της εικόνας κατά συγκεκριμένη τιμή γωνίας.
 
 ```csharp
 [C#]
@@ -28,7 +29,7 @@ public override void Rotate(float angle)
 string sourceFileName = "TheHat.psd";
 var pngOptions = new PngOptions() { ColorType = PngColorType.TruecolorWithAlpha };
 
-// Ολόκληρη η εικόνα περιστρέφεται
+// Περιστροφή ολόκληρης εικόνας
 using (PsdImage image = (PsdImage)Image.Load(sourceFileName))
 {
     for (int i = 0; i < 4; i++)
@@ -42,7 +43,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFileName))
     }
 }
 
-// Περιστροφή στρώματος
+// Περιστροφή επιπέδου
 using (PsdImage image = (PsdImage)Image.Load(sourceFileName))
 {
     for (int i = 0; i < 4; i++)
@@ -60,14 +61,14 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFileName))
 ### Δείτε επίσης
 
 * class [PsdImage](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Rotate(float, bool, Color) {#rotate_1}
 
-Περιστροφή εικόνας γύρω από το κέντρο.
+Περιστρέφει την εικόνα γύρω από το κέντρο.
 
 ```csharp
 public override void Rotate(float angle, bool resizeProportionally, Color backgroundColor)
@@ -75,15 +76,15 @@ public override void Rotate(float angle, bool resizeProportionally, Color backgr
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| angle | Single | Η γωνία περιστροφής σε μοίρες. Οι θετικές τιμές θα περιστρέφονται δεξιόστροφα. |
-| resizeProportionally | Boolean | εάν έχει οριστεί σε`αληθής` θα αλλάξετε το μέγεθος της εικόνας σας σύμφωνα με τις προβολές περιστρεφόμενου ορθογωνίου (γωνιακά σημεία) σε άλλη περίπτωση που αφήνει ανέγγιχτες τις διαστάσεις και περιστρέφονται μόνο τα εσωτερικά περιεχόμενα της εικόνας. |
-| backgroundColor | Color | Χρώμα φόντου. |
+| γωνία | Single | Η γωνία περιστροφής σε μοίρες. Οι θετικές τιμές θα περιστρέφουν δεξιόστροφα. |
+| resizeProportionally | Boolean | εάν οριστεί σε `true` το μέγεθος της εικόνας θα αλλάξει σύμφωνα με τις προβολές του περιστρεφόμενου ορθογωνίου (σημεία γωνιών), διαφορετικά οι διαστάσεις θα παραμείνουν αμετάβλητες και μόνο τα εσωτερικά περιεχόμενα της εικόνας θα περιστραφούν. |
+| backgroundColor | Χρώμα | Χρώμα του φόντου. |
 
 ### Δείτε επίσης
 
 * struct [Color](../../../aspose.psd/color/)
 * class [PsdImage](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

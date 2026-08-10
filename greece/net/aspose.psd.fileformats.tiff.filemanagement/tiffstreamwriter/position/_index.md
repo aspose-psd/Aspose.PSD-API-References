@@ -1,27 +1,28 @@
 ---
-title: TiffStreamWriter.Position
-second_title: Aspose.PSD για Αναφορά API .NET
-description: TiffStreamWriter ιδιοκτησία. Λαμβάνει ή ορίζει τη θέση ροής.
+title: "TiffStreamWriter.Position"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "TiffStreamWriter property. Λαμβάνει ή ορίζει τη θέση του ρεύματος"
 type: docs
 weight: 20
 url: /el/net/aspose.psd.fileformats.tiff.filemanagement/tiffstreamwriter/position/
 ---
+{{< psd/tize >}}
 ## TiffStreamWriter.Position property
 
-Λαμβάνει ή ορίζει τη θέση ροής.
+Λαμβάνει ή ορίζει τη θέση της ροής.
 
 ```csharp
 public long Position { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Η θέση ροής.
+Η θέση του ρεύματος.
 
 ### Δείτε επίσης
 
 * class [TiffStreamWriter](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Tiff.FileManagement](../../tiffstreamwriter/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff.FileManagement](../../../aspose.psd.fileformats.tiff.filemanagement/)
+* assembly [Aspose.PSD](../../../)
 
 

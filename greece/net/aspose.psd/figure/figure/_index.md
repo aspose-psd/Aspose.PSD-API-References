@@ -1,11 +1,12 @@
 ---
-title: Figure.Figure
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Figure κατασκευαστής. Ο προεπιλεγμένος κατασκευαστής.
+title: "Figure.Figure"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Κατασκευαστής Figure. Ο προεπιλεγμένος κατασκευαστής"
 type: docs
 weight: 10
 url: /el/net/aspose.psd/figure/figure/
 ---
+{{< psd/tize >}}
 ## Figure constructor
 
 Ο προεπιλεγμένος κατασκευαστής.
@@ -17,7 +18,7 @@ public Figure()
 ### Δείτε επίσης
 
 * class [Figure](../)
-* χώρος ονομάτων [Aspose.PSD](../../figure/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

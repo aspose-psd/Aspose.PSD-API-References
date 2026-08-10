@@ -1,14 +1,15 @@
 ---
-title: PdfCoreOptions.HeadingsOutlineLevels
-second_title: Aspose.PSD για Αναφορά API .NET
-description: PdfCoreOptions ιδιοκτησία. Καθορίζει πόσα επίπεδα στοιχείων περιγράμματος θα συμπεριληφθούν στο περίγραμμα του εγγράφου. 0  χωρίς περίγραμμα 1  ένα επίπεδο διάρθρωσης και ούτω καθεξής. Η προεπιλογή είναι 0.
+title: "PdfCoreOptions.HeadingsOutlineLevels"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα PdfCoreOptions. Καθορίζει πόσα επίπεδα στοιχείων περιγράμματος να συμπεριληφθούν στο περίγραμμα του εγγράφου. 0  χωρίς περίγραμμα 1  ένα επίπεδο περιγράμματος κ.ο.κ. Προεπιλογή είναι 0"
 type: docs
 weight: 40
 url: /el/net/aspose.psd.fileformats.pdf/pdfcoreoptions/headingsoutlinelevels/
 ---
+{{< psd/tize >}}
 ## PdfCoreOptions.HeadingsOutlineLevels property
 
-Καθορίζει πόσα επίπεδα στοιχείων περιγράμματος θα συμπεριληφθούν στο περίγραμμα του εγγράφου. 0 - χωρίς περίγραμμα, 1 - ένα επίπεδο διάρθρωσης και ούτω καθεξής. Η προεπιλογή είναι 0.
+Καθορίζει πόσα επίπεδα στοιχείων περιγράμματος θα συμπεριληφθούν στο περίγραμμα του εγγράφου. 0 - χωρίς περίγραμμα, 1 - ένα επίπεδο περιγράμματος κ.ο.κ. Η προεπιλογή είναι 0.
 
 ```csharp
 public int HeadingsOutlineLevels { get; set; }
@@ -17,7 +18,7 @@ public int HeadingsOutlineLevels { get; set; }
 ### Δείτε επίσης
 
 * class [PdfCoreOptions](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Pdf](../../pdfcoreoptions/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Pdf](../../../aspose.psd.fileformats.pdf/)
+* assembly [Aspose.PSD](../../../)
 
 

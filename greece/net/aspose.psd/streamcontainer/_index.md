@@ -1,14 +1,15 @@
 ---
-title: Class StreamContainer
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Aspose.PSD.StreamContainer τάξη. Αντιπροσωπεύει το κοντέινερ ροής που περιέχει τη ροή και παρέχει ρουτίνες επεξεργασίας ροής.
+title: "Κλάση StreamContainer"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Κλάση Aspose.PSD.StreamContainer. Αντιπροσωπεύει το κοντέινερ ροής που περιέχει τη ροή και παρέχει διαδικασίες επεξεργασίας ροής."
 type: docs
-weight: 5640
+weight: 6140
 url: /el/net/aspose.psd/streamcontainer/
 ---
+{{< psd/tize >}}
 ## StreamContainer class
 
-Αντιπροσωπεύει το κοντέινερ ροής που περιέχει τη ροή και παρέχει ρουτίνες επεξεργασίας ροής.
+Αναπαριστά ένα δοχείο ρεύματος που περιέχει το ρεύμα και παρέχει ρουτίνες επεξεργασίας ρεύματος.
 
 ```csharp
 public class StreamContainer : DisposableObject
@@ -16,61 +17,61 @@ public class StreamContainer : DisposableObject
 
 ## Κατασκευαστές
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
-| [StreamContainer](streamcontainer/#constructor)(Stream) | Αρχικοποιεί μια νέα παρουσία του`StreamContainer` τάξη. |
-| [StreamContainer](streamcontainer/#constructor_1)(Stream, bool) | Αρχικοποιεί μια νέα παρουσία του`StreamContainer` τάξη. |
+| [StreamContainer](streamcontainer/#constructor)(Stream) | Αρχικοποιεί ένα νέο στιγμιότυπο της κλάσης `StreamContainer`. |
+| [StreamContainer](streamcontainer/#constructor_1)(Stream, bool) | Αρχικοποιεί ένα νέο στιγμιότυπο της κλάσης `StreamContainer`. |
 
 ## Ιδιότητες
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
-| virtual [CanRead](../../aspose.psd/streamcontainer/canread/) { get; } | Λαμβάνει μια τιμή που υποδεικνύει εάν η ροή υποστηρίζει ανάγνωση. |
-| virtual [CanSeek](../../aspose.psd/streamcontainer/canseek/) { get; } | Λαμβάνει μια τιμή που υποδεικνύει εάν η ροή υποστηρίζει αναζήτηση. |
-| virtual [CanWrite](../../aspose.psd/streamcontainer/canwrite/) { get; } | Λαμβάνει μια τιμή που υποδεικνύει εάν η ροή υποστηρίζει εγγραφή. |
-| [Disposed](../../aspose.psd/disposableobject/disposed/) { get; } | Λαμβάνει μια τιμή που υποδεικνύει εάν αυτή η παρουσία έχει διατεθεί. |
-| virtual [IsStreamDisposedOnClose](../../aspose.psd/streamcontainer/isstreamdisposedonclose/) { get; } | Λαμβάνει μια τιμή που υποδεικνύει εάν αυτή η ροή διατίθεται στο κλείσιμο. |
-| virtual [Length](../../aspose.psd/streamcontainer/length/) { get; set; } | Λαμβάνει ή ορίζει το μήκος ροής σε byte. Αυτή η τιμή είναι μικρότερη από τοLengthαπό τη θέση έναρξης ροής που μεταβιβάστηκε στον κατασκευαστή StreamContainer. |
-| virtual [Position](../../aspose.psd/streamcontainer/position/) { get; set; } | Λαμβάνει ή ορίζει την τρέχουσα θέση εντός της ροής. Αυτή η τιμή αντιπροσωπεύει τη μετατόπιση από τη θέση έναρξης ροής που μεταβιβάστηκε στον κατασκευαστή StreamContainer. |
-| virtual [Stream](../../aspose.psd/streamcontainer/stream/) { get; } | Λαμβάνει τη ροή δεδομένων. |
-| [SyncRoot](../../aspose.psd/streamcontainer/syncroot/) { get; } | Λαμβάνει ένα αντικείμενο που μπορεί να χρησιμοποιηθεί για τον συγχρονισμό της πρόσβασης στον συγχρονισμένο πόρο. |
+| virtual [CanRead](../../aspose.psd/streamcontainer/canread/) { get; } | Λαμβάνει μια τιμή που υποδεικνύει αν το stream υποστηρίζει ανάγνωση. |
+| virtual [CanSeek](../../aspose.psd/streamcontainer/canseek/) { get; } | Λαμβάνει μια τιμή που υποδεικνύει αν το stream υποστηρίζει αναζήτηση. |
+| virtual [CanWrite](../../aspose.psd/streamcontainer/canwrite/) { get; } | Λαμβάνει μια τιμή που υποδεικνύει αν το stream υποστηρίζει εγγραφή. |
+| [Disposed](../../aspose.psd/disposableobject/disposed/) { get; } | Λαμβάνει μια τιμή που υποδεικνύει εάν αυτή η παρουσία έχει απελευθερωθεί. |
+| virtual [IsStreamDisposedOnClose](../../aspose.psd/streamcontainer/isstreamdisposedonclose/) { get; } | Λαμβάνει μια τιμή που υποδεικνύει αν αυτό το stream διαγράφεται κατά το κλείσιμο. |
+| virtual [Length](../../aspose.psd/streamcontainer/length/) { get; set; } | Λαμβάνει ή ορίζει το μήκος του stream σε bytes. Αυτή η τιμή είναι μικρότερη από το Length κατά τη θέση εκκίνησης του stream που περάστηκε στον κατασκευαστή StreamContainer. |
+| virtual [Position](../../aspose.psd/streamcontainer/position/) { get; set; } | Λαμβάνει ή ορίζει την τρέχουσα θέση εντός του stream. Αυτή η τιμή αντιπροσωπεύει την απόσταση από τη θέση εκκίνησης του stream που περάστηκε στον κατασκευαστή StreamContainer. |
+| virtual [Stream](../../aspose.psd/streamcontainer/stream/) { get; } | Λαμβάνει το data stream. |
+| [SyncRoot](../../aspose.psd/streamcontainer/syncroot/) { get; } | Λαμβάνει ένα αντικείμενο που μπορεί να χρησιμοποιηθεί για το συγχρονισμό της πρόσβασης στον συγχρονισμένο πόρο. |
 
 ## Μέθοδοι
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
-| [Dispose](../../aspose.psd/disposableobject/dispose/)() | Διαθέτει την τρέχουσα παρουσία. |
-| virtual [Flush](../../aspose.psd/streamcontainer/flush/)() | Διαγράφει όλα τα buffer για αυτήν τη ροή και προκαλεί την εγγραφή τυχόν αποθηκευμένων δεδομένων στην υποκείμενη συσκευή. |
-| virtual [Read](../../aspose.psd/streamcontainer/read/#read)(byte[]) | Διαβάζει byte για να γεμίσει το καθορισμένο buffer bytes. |
-| virtual [Read](../../aspose.psd/streamcontainer/read/#read_1)(byte[], int, int) | Διαβάζει μια ακολουθία byte από την τρέχουσα ροή και προωθεί τη θέση εντός της ροής κατά τον αριθμό των byte που διαβάζονται. |
-| virtual [ReadByte](../../aspose.psd/streamcontainer/readbyte/)() | Διαβάζει ένα byte από τη ροή και προωθεί τη θέση εντός της ροής κατά ένα byte ή επιστρέφει -1 εάν στο τέλος της ροής. |
-| virtual [Save](../../aspose.psd/streamcontainer/save/#save)(Stream) | Αποθηκεύει (αντιγράφει) τα δεδομένα της ροής στην καθορισμένη ροή. Χρησιμοποιεί προεπιλεγμένο μέγεθος buffer[`ReadWriteBytesCount`](./readwritebytescount/) και ρέμα[`Length`](./length/) τιμή. |
-| virtual [Save](../../aspose.psd/streamcontainer/save/#save_3)(string) | Αποθηκεύει (αντιγράφει) τα δεδομένα της ροής στην καθορισμένη ροή. Χρησιμοποιεί προεπιλεγμένο μέγεθος buffer[`ReadWriteBytesCount`](./readwritebytescount/) και ρέμα[`Length`](./length/) τιμή. |
-| virtual [Save](../../aspose.psd/streamcontainer/save/#save_1)(Stream, int) | Αποθηκεύει (αντιγράφει) όλα τα δεδομένα της ροής στην καθορισμένη ροή. Χρησιμοποιεί ροή[`Length`](./length/) τιμή. |
-| virtual [Save](../../aspose.psd/streamcontainer/save/#save_4)(string, int) | Αποθηκεύει (αντιγράφει) τα δεδομένα της ροής στην καθορισμένη ροή. Χρησιμοποιεί ροή[`Length`](./length/) τιμή. |
-| virtual [Save](../../aspose.psd/streamcontainer/save/#save_2)(Stream, int, long) | Αποθηκεύει (αντιγράφει) τα δεδομένα της ροής στην καθορισμένη ροή. |
-| virtual [Save](../../aspose.psd/streamcontainer/save/#save_5)(string, int, long) | Αποθηκεύει (αντιγράφει) τα δεδομένα της ροής στην καθορισμένη ροή. |
-| virtual [Seek](../../aspose.psd/streamcontainer/seek/)(long, SeekOrigin) | Ορίζει τη θέση εντός της τρέχουσας ροής. |
-| virtual [SeekBegin](../../aspose.psd/streamcontainer/seekbegin/)() | Ορίζει τη θέση ροής στην αρχή της ροής. Αυτή η τιμή αντιπροσωπεύει τη μετατόπιση από τη θέση έναρξης ροής που μεταβιβάστηκε στον κατασκευαστή StreamContainer. |
-| virtual [ToBytes](../../aspose.psd/streamcontainer/tobytes/#tobytes)() | Μετατρέπει τα δεδομένα ροής σεByte συστοιχία. |
-| virtual [ToBytes](../../aspose.psd/streamcontainer/tobytes/#tobytes_1)(long, long) | Μετατρέπει τα δεδομένα ροής σεByte συστοιχία. |
+| [Dispose](../../aspose.psd/disposableobject/dispose/)() | Αποδεσμεύει την τρέχουσα παρουσία. |
+| virtual [Flush](../../aspose.psd/streamcontainer/flush/)() | Καθαρίζει όλες τις προσωρινές μνήμες για αυτή τη ροή και προκαλεί την εγγραφή τυχόν προσωρινών δεδομένων στη βασική συσκευή. |
+| virtual [Read](../../aspose.psd/streamcontainer/read/#read)(byte[]) | Διαβάζει byte για να γεμίσει την καθορισμένη προσωρινή μνήμη byte. |
+| virtual [Read](../../aspose.psd/streamcontainer/read/#read_1)(byte[], int, int) | Διαβάζει μια ακολουθία byte από την τρέχουσα ροή και προχωρά τη θέση μέσα στη ροή κατά τον αριθμό των byte που διαβάστηκαν. |
+| virtual [ReadByte](../../aspose.psd/streamcontainer/readbyte/)() | Διαβάζει ένα byte από τη ροή και προχωρά τη θέση μέσα στη ροή κατά ένα byte, ή επιστρέφει -1 εάν βρίσκεται στο τέλος της ροής. |
+| virtual [Save](../../aspose.psd/streamcontainer/save/#save)(Stream) | Αποθηκεύει (αντιγράφει) τα δεδομένα της ροής στον καθορισμένο προορισμό. Χρησιμοποιεί το προεπιλεγμένο μέγεθος buffer [`ReadWriteBytesCount`](./readwritebytescount/) και την τιμή της ροής [`Length`](./length/). |
+| virtual [Save](../../aspose.psd/streamcontainer/save/#save_3)(string) | Αποθηκεύει (αντιγράφει) τα δεδομένα της ροής στον καθορισμένο προορισμό. Χρησιμοποιεί το προεπιλεγμένο μέγεθος buffer [`ReadWriteBytesCount`](./readwritebytescount/) και την τιμή της ροής [`Length`](./length/). |
+| virtual [Save](../../aspose.psd/streamcontainer/save/#save_1)(Stream, int) | Αποθηκεύει (αντιγράφει) όλα τα δεδομένα της ροής στον καθορισμένο προορισμό. Χρησιμοποιεί την τιμή της ροής [`Length`](./length/). |
+| virtual [Save](../../aspose.psd/streamcontainer/save/#save_4)(string, int) | Αποθηκεύει (αντιγράφει) τα δεδομένα της ροής στον καθορισμένο προορισμό. Χρησιμοποιεί την τιμή της ροής [`Length`](./length/). |
+| virtual [Save](../../aspose.psd/streamcontainer/save/#save_2)(Stream, int, long) | Αποθηκεύει (αντιγράφει) τα δεδομένα της ροής στο καθορισμένο ρεύμα. |
+| virtual [Save](../../aspose.psd/streamcontainer/save/#save_5)(string, int, long) | Αποθηκεύει (αντιγράφει) τα δεδομένα της ροής στο καθορισμένο ρεύμα. |
+| virtual [Seek](../../aspose.psd/streamcontainer/seek/)(long, SeekOrigin) | Ορίζει τη θέση μέσα στην τρέχουσα ροή. |
+| virtual [SeekBegin](../../aspose.psd/streamcontainer/seekbegin/)() | Ορίζει τη θέση της ροής στην αρχή της ροής. Αυτή η τιμή αντιπροσωπεύει την απόσταση από τη θέση έναρξης της ροής που δόθηκε στον κατασκευαστή StreamContainer. |
+| virtual [ToBytes](../../aspose.psd/streamcontainer/tobytes/#tobytes)() | Μετατρέπει τα δεδομένα της ροής σε πίνακα Byte. |
+| virtual [ToBytes](../../aspose.psd/streamcontainer/tobytes/#tobytes_1)(long, long) | Μετατρέπει τα δεδομένα της ροής σε πίνακα Byte. |
 | virtual [Write](../../aspose.psd/streamcontainer/write/#write)(byte[]) | Γράφει όλα τα καθορισμένα byte στη ροή. |
-| virtual [Write](../../aspose.psd/streamcontainer/write/#write_1)(byte[], int, int) | Γράφει μια ακολουθία byte στην τρέχουσα ροή και προωθεί την τρέχουσα θέση σε αυτήν τη ροή με τον αριθμό των byte που γράφτηκαν. |
-| virtual [WriteByte](../../aspose.psd/streamcontainer/writebyte/)(byte) | Γράφει ένα byte στην τρέχουσα θέση στη ροή και προωθεί τη θέση μέσα στη ροή κατά ένα byte. |
-| virtual [WriteTo](../../aspose.psd/streamcontainer/writeto/#writeto)(StreamContainer) | Αντιγράφει τα δεδομένα που περιέχονται σε άλλο`StreamContainer` . |
-| virtual [WriteTo](../../aspose.psd/streamcontainer/writeto/#writeto_1)(StreamContainer, long) | Αντιγράφει τα δεδομένα που περιέχονται σε άλλο`StreamContainer` . |
-| [explicit operator](../../aspose.psd/streamcontainer/op_explicit/) | Εκτελεί ρητή μετατροπή από`StreamContainer` προς τηνStream . |
+| virtual [Write](../../aspose.psd/streamcontainer/write/#write_1)(byte[], int, int) | Γράφει μια ακολουθία byte στην τρέχουσα ροή και προχωρά τη τρέχουσα θέση μέσα σε αυτή τη ροή κατά τον αριθμό των byte που γράφτηκαν. |
+| virtual [WriteByte](../../aspose.psd/streamcontainer/writebyte/)(byte) | Γράφει ένα byte στην τρέχουσα θέση στη ροή και προχωρά τη θέση μέσα στη ροή κατά ένα byte. |
+| virtual [WriteTo](../../aspose.psd/streamcontainer/writeto/#writeto)(StreamContainer) | Αντιγράφει τα περιεχόμενα δεδομένα σε ένα άλλο `StreamContainer`. |
+| virtual [WriteTo](../../aspose.psd/streamcontainer/writeto/#writeto_1)(StreamContainer, long) | Αντιγράφει τα περιεχόμενα δεδομένα σε ένα άλλο `StreamContainer`. |
+| [explicit operator](../../aspose.psd/streamcontainer/op_explicit/) | Εκτελεί μια ρητή μετατροπή από το `StreamContainer` σε Stream. |
 
 ## Πεδία
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
-| const [ReadWriteBytesCount](../../aspose.psd/streamcontainer/readwritebytescount/) | Καθορίζει τον αριθμό των byte ανάγνωσης και εγγραφής κατά τη διαδοχική ανάγνωση. |
+| const [ReadWriteBytesCount](../../aspose.psd/streamcontainer/readwritebytescount/) | Καθορίζει τον αριθμό των byte ανάγνωσης και εγγραφής κατά την σειριακή ανάγνωση. |
 
 ### Δείτε επίσης
 
 * class [DisposableObject](../disposableobject/)
-* χώρος ονομάτων [Aspose.PSD](../../aspose.psd/)
-* συνέλευση [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

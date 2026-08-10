@@ -1,11 +1,12 @@
 ---
-title: PsdOptions.PsdVersion
-second_title: Aspose.PSD για Αναφορά API .NET
-description: PsdOptions ιδιοκτησία. Λαμβάνει ή ορίζει την έκδοση μορφής αρχείου. Μπορεί να είναι PSD ή PSB.
+title: "PsdOptions.PsdVersion"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα PsdOptions. Λαμβάνει ή ορίζει την έκδοση μορφής αρχείου. Μπορεί να είναι PSD ή PSB."
 type: docs
-weight: 60
+weight: 70
 url: /el/net/aspose.psd.imageoptions/psdoptions/psdversion/
 ---
+{{< psd/tize >}}
 ## PsdOptions.PsdVersion property
 
 Λαμβάνει ή ορίζει την έκδοση μορφής αρχείου. Μπορεί να είναι PSD ή PSB.
@@ -14,11 +15,11 @@ url: /el/net/aspose.psd.imageoptions/psdoptions/psdversion/
 public PsdVersion PsdVersion { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
 Η έκδοση μορφής αρχείου.
 
-### Παραδείγματα
+## Παραδείγματα
 
 Το παρακάτω παράδειγμα δείχνει τη δυνατότητα μετατροπής αρχείου PSD σε PSB και αντίστροφα.
 
@@ -46,7 +47,7 @@ using (Image img = Image.Load(sourceFilePathPsd))
 
 * enum [PsdVersion](../../../aspose.psd.fileformats.psd/psdversion/)
 * class [PsdOptions](../)
-* χώρος ονομάτων [Aspose.PSD.ImageOptions](../../psdoptions/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

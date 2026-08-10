@@ -1,14 +1,15 @@
 ---
-title: Txt2Resource.Length
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Txt2Resource ιδιοκτησία. Λαμβάνει το μήκος του πόρου του επιπέδου σε byte.
+title: "Txt2Resource.Length"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα Txt2Resource. Λαμβάνει το μήκος του πόρου επιπέδου σε byte."
 type: docs
-weight: 40
+weight: 30
 url: /el/net/aspose.psd.fileformats.psd.layers.layerresources/txt2resource/length/
 ---
+{{< psd/tize >}}
 ## Txt2Resource.Length property
 
-Λαμβάνει το μήκος του πόρου του επιπέδου σε byte.
+Λαμβάνει το μήκος του πόρου του επιπέδου σε bytes.
 
 ```csharp
 public override int Length { get; }
@@ -17,7 +18,7 @@ public override int Length { get; }
 ### Δείτε επίσης
 
 * class [Txt2Resource](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../txt2resource/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

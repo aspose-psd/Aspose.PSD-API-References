@@ -1,16 +1,17 @@
 ---
-title: Aspose.PSD.CoreExceptions.ImageFormats
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Ο χώρος ονομάτων περιέχει εξαιρέσεις που δημιουργούνται από μία από τις υποστηριζόμενες μορφές αρχείων.
+title: "Aspose.PSD.CoreExceptions.ImageFormats"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ο χώρος ονομάτων περιέχει εξαιρέσεις που ρίχνονται από μία από τις υποστηριζόμενες μορφές αρχείων"
 type: docs
 weight: 60
 url: /el/net/aspose.psd.coreexceptions.imageformats/
 ---
-Ο χώρος ονομάτων περιέχει εξαιρέσεις που δημιουργούνται από μία από τις υποστηριζόμενες μορφές αρχείων.
+{{< psd/tize >}}
+Ο χώρος ονομάτων περιέχει εξαιρέσεις που ρίχνονται από μία από τις υποστηριζόμενες μορφές αρχείων.
 
-## Τάξεις
+## Κλάσεις
 
-| Τάξη | Περιγραφή |
+| Κλάση | Περιγραφή |
 | --- | --- |
 | [BmpImageException](./bmpimageexception/) | Η εξαίρεση εικόνας bmp. |
 | [GifImageException](./gifimageexception/) | Η εξαίρεση εικόνας Gif. |
@@ -18,7 +19,7 @@ url: /el/net/aspose.psd.coreexceptions.imageformats/
 | [JpegException](./jpegexception/) | Εξαιρέσεις για αρχεία Jpeg |
 | [JpegLoadException](./jpegloadexception/) | Αντιπροσωπεύει την εξαίρεση φόρτωσης εικόνας JPEG. |
 | [PngImageException](./pngimageexception/) | Η εξαίρεση εικόνας png. |
-| [PsdImageArgumentException](./psdimageargumentexception/) | Η εξαίρεση του ορίσματος εικόνας psd. |
+| [PsdImageArgumentException](./psdimageargumentexception/) | Η εξαίρεση ορίσματος εικόνας psd. |
 | [PsdImageException](./psdimageexception/) | Η εξαίρεση εικόνας psd. |
 | [PsdImageResourceException](./psdimageresourceexception/) | Η εξαίρεση πόρου εικόνας psd. |
 | [TiffImageException](./tiffimageexception/) | Η εξαίρεση εικόνας Tiff |

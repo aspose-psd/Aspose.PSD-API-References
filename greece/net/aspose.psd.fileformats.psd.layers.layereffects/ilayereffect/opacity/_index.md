@@ -1,27 +1,28 @@
 ---
-title: ILayerEffect.Opacity
-second_title: Aspose.PSD για Αναφορά API .NET
-description: ILayerEffect ιδιοκτησία. Λαμβάνει ή ορίζει την αδιαφάνεια όπου 255  100
+title: "ILayerEffect.Opacity"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "ILayerEffect property. Λαμβάνει ή ορίζει τη διαφάνεια όπου 255  100"
 type: docs
 weight: 40
 url: /el/net/aspose.psd.fileformats.psd.layers.layereffects/ilayereffect/opacity/
 ---
+{{< psd/tize >}}
 ## ILayerEffect.Opacity property
 
-Λαμβάνει ή ορίζει την αδιαφάνεια όπου 255 = 100%
+Λαμβάνει ή ορίζει τη διαφάνεια όπου 255 = 100%.
 
 ```csharp
 public byte Opacity { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Η αδιαφάνεια.
+Η διαφάνεια.
 
 ### Δείτε επίσης
 
 * interface [ILayerEffect](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../ilayereffect/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../../)
 
 

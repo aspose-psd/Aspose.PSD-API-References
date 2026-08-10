@@ -1,11 +1,12 @@
 ---
-title: Enum ExifMeteringMode
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Aspose.PSD.Exif.Enums.ExifMeteringMode αρίθμηση. exif λειτουργία μέτρησης enum.
+title: "Απαρίθμηση ExifMeteringMode"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Aspose.PSD.Exif.Enums.ExifMeteringMode enum. λειτουργία μέτρησης exif enum"
 type: docs
-weight: 900
+weight: 910
 url: /el/net/aspose.psd.exif.enums/exifmeteringmode/
 ---
+{{< psd/tize >}}
 ## ExifMeteringMode enumeration
 
 exif λειτουργία μέτρησης enum.
@@ -14,22 +15,22 @@ exif λειτουργία μέτρησης enum.
 public enum ExifMeteringMode
 ```
 
-### Αξίες
+### Τιμές
 
-| Ονομα | αξία | Περιγραφή |
+| Όνομα | Τιμή | Περιγραφή |
 | --- | --- | --- |
-| Unknown | `0` | Undefined mode |
-| Average | `1` | Μέση μέτρηση |
-| Centerweightedaverage | `2` | Κέντρο σταθμισμένου μέσου όρου. |
-| Spot | `3` | Σημειακή μέτρηση |
-| MultiSpot | `4` | Πολυσημείο μέτρησης |
-| MultiSegment | `5` | Μέτρηση πολλαπλών τμημάτων. |
+| Unknown | `0` | Μη ορισμένη λειτουργία |
+| Average | `1` | Μέτρηση μέσου όρου |
+| Centerweightedaverage | `2` | Κεντρική σταθμισμένη μέση τιμή. |
+| Spot | `3` | Μετρητής σημείου |
+| MultiSpot | `4` | Πολλαπλή μέτρηση σημείων |
+| MultiSegment | `5` | Πολλαπλή τμηματική μέτρηση. |
 | Partial | `6` | Μερική μέτρηση. |
 | Other | `255` | Για άλλες λειτουργίες. |
 
 ### Δείτε επίσης
 
-* χώρος ονομάτων [Aspose.PSD.Exif.Enums](../../aspose.psd.exif.enums/)
-* συνέλευση [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Exif.Enums](../../aspose.psd.exif.enums/)
+* assembly [Aspose.PSD](../../)
 
 

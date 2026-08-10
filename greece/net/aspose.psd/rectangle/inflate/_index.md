@@ -1,14 +1,15 @@
 ---
-title: Rectangle.Inflate
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Rectangle μέθοδος. Δημιουργεί και επιστρέφει ένα διογκωμένο αντίγραφο του καθορισμένουRectangleδομή. Το αντίγραφο διογκώνεται κατά το καθορισμένο ποσό. Το πρωτότυποRectangle η δομή παραμένει αμετάβλητη.
+title: "Rectangle.Inflate"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Rectangle method. Δημιουργεί και επιστρέφει ένα φουσκωτό αντίγραφο της καθορισμένης δομής Rectangle. Το αντίγραφο φουσκώνεται κατά το καθορισμένο ποσό. Η αρχική δομή Rectangle παραμένει αμετάβλητη"
 type: docs
 weight: 60
 url: /el/net/aspose.psd/rectangle/inflate/
 ---
+{{< psd/tize >}}
 ## Inflate(Rectangle, int, int)
 
-Δημιουργεί και επιστρέφει ένα διογκωμένο αντίγραφο του καθορισμένου[`Rectangle`](../)δομή. Το αντίγραφο διογκώνεται κατά το καθορισμένο ποσό. Το πρωτότυπο[`Rectangle`](../) η δομή παραμένει αμετάβλητη.
+Δημιουργεί και επιστρέφει ένα φουσκωτό αντίγραφο της καθορισμένης δομής [`Rectangle`](../). Το αντίγραφο φουσκώνεται κατά το καθορισμένο ποσό. Η αρχική δομή [`Rectangle`](../) παραμένει αμετάβλητη.
 
 ```csharp
 public static Rectangle Inflate(Rectangle rect, int x, int y)
@@ -16,25 +17,25 @@ public static Rectangle Inflate(Rectangle rect, int x, int y)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| rect | Rectangle | ο[`Rectangle`](../) με το οποίο να ξεκινήσετε. Αυτό το ορθογώνιο δεν έχει τροποποιηθεί. |
-| x | Int32 | Το ποσό για να φουσκώσει αυτό[`Rectangle`](../) οριζόντια. |
-| y | Int32 | Το ποσό για να φουσκώσει αυτό[`Rectangle`](../) κάθετα. |
+| rect | Rectangle | Το [`Rectangle`](../) με το οποίο θα ξεκινήσετε. Αυτό το rectangle δεν τροποποιείται. |
+| x | Int32 | Το ποσό για φούσκωμα αυτού του [`Rectangle`](../) οριζόντια. |
+| y | Int32 | Το ποσό για φούσκωμα αυτού του [`Rectangle`](../) κάθετα. |
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-Το φουσκωμένο[`Rectangle`](../).
+Το φουσκωτό [`Rectangle`](../).
 
 ### Δείτε επίσης
 
 * struct [Rectangle](../)
-* χώρος ονομάτων [Aspose.PSD](../../rectangle/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Inflate(int, int) {#inflate_1}
 
-Φουσκώνει αυτό[`Rectangle`](../)κατά το καθορισμένο ποσό.
+Φουσκώνει αυτό το [`Rectangle`](../) κατά το καθορισμένο ποσό.
 
 ```csharp
 public void Inflate(int width, int height)
@@ -42,20 +43,20 @@ public void Inflate(int width, int height)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| width | Int32 | Το ποσό για να φουσκώσει αυτό[`Rectangle`](../) οριζόντια. |
-| height | Int32 | Το ποσό για να φουσκώσει αυτό[`Rectangle`](../) κάθετα. |
+| width | Int32 | Το ποσό για φούσκωμα αυτού του [`Rectangle`](../) οριζόντια. |
+| height | Int32 | Το ποσό για φούσκωμα αυτού του [`Rectangle`](../) κάθετα. |
 
 ### Δείτε επίσης
 
 * struct [Rectangle](../)
-* χώρος ονομάτων [Aspose.PSD](../../rectangle/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Inflate(Size) {#inflate}
 
-Φουσκώνει αυτό[`Rectangle`](../)κατά το καθορισμένο ποσό.
+Φουσκώνει αυτό το [`Rectangle`](../) κατά το καθορισμένο ποσό.
 
 ```csharp
 public void Inflate(Size size)
@@ -63,13 +64,13 @@ public void Inflate(Size size)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| size | Size | Το ποσό για να φουσκώσει αυτό το ορθογώνιο. |
+| μέγεθος | Μέγεθος | Το ποσό για τη φούσκωση αυτού του ορθογωνίου. |
 
 ### Δείτε επίσης
 
 * struct [Size](../../size/)
 * struct [Rectangle](../)
-* χώρος ονομάτων [Aspose.PSD](../../rectangle/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

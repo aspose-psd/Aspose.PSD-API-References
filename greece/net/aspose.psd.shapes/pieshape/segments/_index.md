@@ -1,28 +1,29 @@
 ---
-title: PieShape.Segments
-second_title: Aspose.PSD για Αναφορά API .NET
-description: PieShape ιδιοκτησία. Παίρνει τα τμήματα σχήματος.
+title: "PieShape.Segments"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα PieShape. Λαμβάνει τα τμήματα του σχήματος"
 type: docs
 weight: 20
 url: /el/net/aspose.psd.shapes/pieshape/segments/
 ---
+{{< psd/tize >}}
 ## PieShape.Segments property
 
-Παίρνει τα τμήματα σχήματος.
+Λαμβάνει τα τμήματα του σχήματος.
 
 ```csharp
 public override ShapeSegment[] Segments { get; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Τα τμήματα σχήματος.
+Τα τμήματα του σχήματος.
 
 ### Δείτε επίσης
 
 * class [ShapeSegment](../../../aspose.psd/shapesegment/)
 * class [PieShape](../)
-* χώρος ονομάτων [Aspose.PSD.Shapes](../../pieshape/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 

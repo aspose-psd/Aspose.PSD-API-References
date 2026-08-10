@@ -1,11 +1,12 @@
 ---
-title: PdfDocumentInfo.Title
-second_title: Aspose.PSD για Αναφορά API .NET
-description: PdfDocumentInfo ιδιοκτησία. Λαμβάνει ή ορίζει τον τίτλο του εγγράφου.
+title: "PdfDocumentInfo.Title"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα PdfDocumentInfo. Λαμβάνει ή ορίζει τον τίτλο του εγγράφου"
 type: docs
 weight: 50
 url: /el/net/aspose.psd.fileformats.pdf/pdfdocumentinfo/title/
 ---
+{{< psd/tize >}}
 ## PdfDocumentInfo.Title property
 
 Λαμβάνει ή ορίζει τον τίτλο του εγγράφου.
@@ -17,7 +18,7 @@ public string Title { get; set; }
 ### Δείτε επίσης
 
 * class [PdfDocumentInfo](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Pdf](../../pdfdocumentinfo/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Pdf](../../../aspose.psd.fileformats.pdf/)
+* assembly [Aspose.PSD](../../../)
 
 

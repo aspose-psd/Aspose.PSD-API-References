@@ -1,11 +1,12 @@
 ---
-title: TextLayer.TextData
-second_title: Aspose.PSD για Αναφορά API .NET
-description: TextLayer ιδιοκτησία. Λαμβάνει τα τμήματα του κειμένου.
+title: "TextLayer.TextData"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα TextLayer. Λαμβάνει τα τμήματα του κειμένου"
 type: docs
 weight: 60
 url: /el/net/aspose.psd.fileformats.psd.layers/textlayer/textdata/
 ---
+{{< psd/tize >}}
 ## TextLayer.TextData property
 
 Λαμβάνει τα τμήματα του κειμένου.
@@ -14,9 +15,9 @@ url: /el/net/aspose.psd.fileformats.psd.layers/textlayer/textdata/
 public IText TextData { get; }
 ```
 
-### Παραδείγματα
+## Παραδείγματα
 
-Ο παρακάτω κώδικας δείχνει πώς το Aspose.PSD λαμβάνει ιδιότητες ενσωματωμένης μορφοποίησης του επιπέδου κειμένου.
+Ο παρακάτω κώδικας δείχνει πώς το Aspose.PSD λαμβάνει τις ιδιότητες της ενσωματωμένης μορφοποίησης του Text Layer.
 
 ```csharp
 [C#]
@@ -26,7 +27,7 @@ List<ITextPortion> regularText = new List<ITextPortion>();
 List<ITextPortion> boldText = new List<ITextPortion>();
 List<ITextPortion> italicText = new List<ITextPortion>();
 
-// Φόρτωση μιας υπάρχουσας εικόνας σε μια παρουσία της κλάσης PsdImage
+// Φορτώστε μια υπάρχουσα εικόνα σε μια παρουσία της κλάσης PsdImage
 using (var psdImage = (PsdImage)Image.Load(sourceFile))
 {
 
@@ -41,7 +42,7 @@ using (var psdImage = (PsdImage)Image.Load(sourceFile))
 
         var textLayer = (TextLayer)layer;
 
-        // λαμβάνει γραμματοσειρές που περιέχει στο επίπεδο κειμένου
+        // λαμβάνει τις γραμματοσειρές που περιέχονται στο text layer
         var fonts = textLayer.GetFonts();
         var textPortions = textLayer.TextData.Items;
 
@@ -70,7 +71,7 @@ using (var psdImage = (PsdImage)Image.Load(sourceFile))
 }
 ```
 
-Το ακόλουθο παράδειγμα κώδικα δείχνει τα τμήματα κειμένου επεξεργασίας και το στυλ κειμένου τους.
+Το παρακάτω παράδειγμα κώδικα δείχνει την επεξεργασία τμημάτων κειμένου και του στυλ κειμένου τους.
 
 ```csharp
 [C#]
@@ -103,7 +104,7 @@ using (var im = (PsdImage)Image.Load(filePath))
             }
 
             // Έλεγχος δεδομένων παραγράφων
-            // Οι παράγραφοι έχουν διαφορετική αιτιολόγηση
+            // Οι παράγραφοι έχουν διαφορετική στοίχιση
             if (
                 (int)portions[0].Paragraph.Justification != 0 ||
                 (int)portions[1].Paragraph.Justification != 0 ||
@@ -137,7 +138,7 @@ using (var im = (PsdImage)Image.Load(filePath))
                     Math.Abs(paragraph.LetterSpacing[0]) > Tolerance ||
                     Math.Abs(paragraph.LetterSpacing[1]) > Tolerance ||
                     Math.Abs(paragraph.LetterSpacing[2]) > Tolerance ||
-                    paragraph.LeadingType != LeadingMode.Auto ||
+                    paragraph.LeadingType != LeadingType.BottomToBottom ||
                     paragraph.PreHyphen != 2 ||
                     paragraph.PostHyphen != 2 ||
                     Math.Abs(paragraph.SpaceBefore) > Tolerance ||
@@ -201,12 +202,12 @@ using (var im = (PsdImage)Image.Load(filePath))
             portions = layer.TextData.Items;
 
             // Παράδειγμα επεξεργασίας παραγράφου και στυλ για τμήματα
-            // Ορισμός σωστής αιτιολόγησης
+            // Ορισμός δεξιάς στοίχισης
             portions[0].Paragraph.Justification = JustificationMode.Right;
             portions[1].Paragraph.Justification = JustificationMode.Right;
             portions[2].Paragraph.Justification = JustificationMode.Right;
 
-            // Διαφορετικά χρώματα για κάθε στυλ. Θα αλλάξει, αλλά η απόδοση δεν υποστηρίζεται πλήρως
+            // Διαφορετικά χρώματα για κάθε στυλ. Θα αλλάξουν, αλλά η απόδοση δεν υποστηρίζεται πλήρως
             portions[0].Style.FillColor = Color.Aquamarine;
             portions[1].Style.FillColor = Color.Violet;
             portions[2].Style.FillColor = Color.LightBlue;
@@ -230,7 +231,7 @@ using (var im = (PsdImage)Image.Load(filePath))
 
 * interface [IText](../../../aspose.psd.fileformats.psd.layers.text/itext/)
 * class [TextLayer](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers](../../textlayer/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

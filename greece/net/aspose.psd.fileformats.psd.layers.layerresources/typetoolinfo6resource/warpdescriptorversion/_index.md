@@ -1,27 +1,28 @@
 ---
-title: TypeToolInfo6Resource.WarpDescriptorVersion
-second_title: Aspose.PSD για Αναφορά API .NET
-description: TypeToolInfo6Resource ιδιοκτησία. Λαμβάνει ή ορίζει την έκδοση περιγραφής στημόνι.
+title: "TypeToolInfo6Resource.WarpDescriptorVersion"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα TypeToolInfo6Resource. Λαμβάνει ή ορίζει την έκδοση του περιγραφέα παραμόρφωσης"
 type: docs
-weight: 190
+weight: 160
 url: /el/net/aspose.psd.fileformats.psd.layers.layerresources/typetoolinfo6resource/warpdescriptorversion/
 ---
+{{< psd/tize >}}
 ## TypeToolInfo6Resource.WarpDescriptorVersion property
 
-Λαμβάνει ή ορίζει την έκδοση περιγραφής στημόνι.
+Λαμβάνει ή ορίζει την έκδοση περιγραφέα παραμόρφωσης.
 
 ```csharp
 public int WarpDescriptorVersion { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Η έκδοση του warp descriptor.
+Η έκδοση του περιγραφέα παραμόρφωσης.
 
 ### Δείτε επίσης
 
 * class [TypeToolInfo6Resource](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../typetoolinfo6resource/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

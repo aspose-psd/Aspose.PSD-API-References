@@ -1,26 +1,27 @@
 ---
-title: Aspose.PSD.Xmp.Types.Complex.Colorant
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Ο χώρος ονομάτων περιέχει κλάσεις που αντιπροσωπεύουν τις δομές που περιέχουν τα χαρακτηριστικά μιας χρωστικής ουσίας swatch που χρησιμοποιείται σε ένα έγγραφο.
+title: "Aspose.PSD.Xmp.Types.Complex.Colorant"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ο χώρος ονομάτων περιέχει κλάσεις που αντιπροσωπεύουν τις δομές που περιέχουν τα χαρακτηριστικά ενός δείγματος χρωστικού που χρησιμοποιείται σε ένα έγγραφο"
 type: docs
-weight: 630
+weight: 670
 url: /el/net/aspose.psd.xmp.types.complex.colorant/
 ---
-Ο χώρος ονομάτων περιέχει κλάσεις που αντιπροσωπεύουν τις δομές που περιέχουν τα χαρακτηριστικά μιας χρωστικής ουσίας (swatch) που χρησιμοποιείται σε ένα έγγραφο.
+{{< psd/tize >}}
+Ο χώρος ονομάτων περιέχει κλάσεις που αντιπροσωπεύουν τις δομές που περιέχουν τα χαρακτηριστικά ενός χρωστικού (δείγματος) που χρησιμοποιείται σε ένα έγγραφο.
 
-## Τάξεις
+## Κλάσεις
 
-| Τάξη | Περιγραφή |
+| Κλάση | Περιγραφή |
 | --- | --- |
-| [ColorantBase](./colorantbase/) | Αντιπροσωπεύει τον τύπο XMP Colorant. |
-| [ColorantCmyk](./colorantcmyk/) | Αντιπροσωπεύει το CMYK Colorant. |
-| [ColorantLab](./colorantlab/) | Αντιπροσωπεύει το LAB Colorant. |
-| [ColorantRgb](./colorantrgb/) | Αντιπροσωπεύει το RGB Colorant. |
+| [ColorantBase](./colorantbase/) | Αναπαριστά τον τύπο χρωστικού XMP. |
+| [ColorantCmyk](./colorantcmyk/) | Αναπαριστά χρωστικό CMYK. |
+| [ColorantLab](./colorantlab/) | Αναπαριστά χρωστικό LAB. |
+| [ColorantRgb](./colorantrgb/) | Αναπαριστά χρωστικό RGB. |
 ## Απαρίθμηση
 
 | Απαρίθμηση | Περιγραφή |
 | --- | --- |
-| [ColorMode](./colormode/) | Αντιπροσωπεύει τη λειτουργία χρώματος. |
+| [ColorMode](./colormode/) | Αναπαριστά τη λειτουργία χρώματος. |
 | [ColorType](./colortype/) | Τύπος χρώματος. |
 
 

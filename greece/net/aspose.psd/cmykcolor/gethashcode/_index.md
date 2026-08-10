@@ -1,27 +1,28 @@
 ---
-title: CmykColor.GetHashCode
-second_title: Aspose.PSD για Αναφορά API .NET
-description: CmykColor μέθοδος. Ο κωδικός λήψης κατακερματισμού.
+title: "CmykColor.GetHashCode"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Μέθοδος CmykColor. Η λήψη κώδικα κατακερματισμού"
 type: docs
-weight: 80
+weight: 90
 url: /el/net/aspose.psd/cmykcolor/gethashcode/
 ---
+{{< psd/tize >}}
 ## CmykColor.GetHashCode method
 
-Ο κωδικός λήψης κατακερματισμού.
+Η λήψη του κώδικα κατακερματισμού.
 
 ```csharp
 public override int GetHashCode()
 ```
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-ΤοInt32 .
+Το Int32.
 
 ### Δείτε επίσης
 
 * struct [CmykColor](../)
-* χώρος ονομάτων [Aspose.PSD](../../cmykcolor/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

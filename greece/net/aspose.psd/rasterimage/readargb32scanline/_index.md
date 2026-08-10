@@ -1,14 +1,15 @@
 ---
-title: RasterImage.ReadArgb32ScanLine
-second_title: Aspose.PSD για Αναφορά API .NET
-description: RasterImage μέθοδος. Διαβάζει ολόκληρη τη γραμμή σάρωσης από το καθορισμένο ευρετήριο γραμμής σάρωσης.
+title: "RasterImage.ReadArgb32ScanLine"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "RasterImage μέθοδος. Διαβάζει ολόκληρη τη γραμμή σάρωσης με το καθορισμένο δείκτη γραμμής σάρωσης"
 type: docs
-weight: 430
+weight: 440
 url: /el/net/aspose.psd/rasterimage/readargb32scanline/
 ---
+{{< psd/tize >}}
 ## RasterImage.ReadArgb32ScanLine method
 
-Διαβάζει ολόκληρη τη γραμμή σάρωσης από το καθορισμένο ευρετήριο γραμμής σάρωσης.
+Διαβάζει ολόκληρη τη γραμμή σάρωσης με τον καθορισμένο δείκτη γραμμής σάρωσης.
 
 ```csharp
 public int[] ReadArgb32ScanLine(int scanLineIndex)
@@ -16,16 +17,16 @@ public int[] ReadArgb32ScanLine(int scanLineIndex)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| scanLineIndex | Int32 | Μηδενικός δείκτης της γραμμής σάρωσης. |
+| scanLineIndex | Int32 | Δείκτης μηδενικής βάσης της γραμμής σάρωσης. |
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-Ο πίνακας τιμών χρωμάτων ARGB 32-bit γραμμής σάρωσης.
+Ο πίνακας τιμών χρώματος 32-bit ARGB της γραμμής σάρωσης.
 
 ### Δείτε επίσης
 
 * class [RasterImage](../)
-* χώρος ονομάτων [Aspose.PSD](../../rasterimage/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

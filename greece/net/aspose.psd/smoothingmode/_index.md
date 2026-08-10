@@ -1,33 +1,34 @@
 ---
-title: Enum SmoothingMode
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Aspose.PSD.SmoothingMode αρίθμηση. Καθορίζει εάν η εξομάλυνση antialiasing εφαρμόζεται σε γραμμές και καμπύλες και στις άκρες των γεμισμένων περιοχών.
+title: "Απαρίθμηση SmoothingMode"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Απαρίθμηση Aspose.PSD.SmoothingMode. Καθορίζει εάν εφαρμόζεται εξομάλυνση anti-aliasing σε γραμμές, καμπύλες και στις άκρες γεμισμένων περιοχών."
 type: docs
-weight: 5570
+weight: 6070
 url: /el/net/aspose.psd/smoothingmode/
 ---
+{{< psd/tize >}}
 ## SmoothingMode enumeration
 
-Καθορίζει εάν η εξομάλυνση (antialiasing) εφαρμόζεται σε γραμμές και καμπύλες και στις άκρες των γεμισμένων περιοχών.
+Καθορίζει αν η εξομάλυνση (antialiasing) εφαρμόζεται σε γραμμές και καμπύλες και στα άκρα των γεμάτων περιοχών.
 
 ```csharp
 public enum SmoothingMode
 ```
 
-### Αξίες
+### Τιμές
 
-| Ονομα | αξία | Περιγραφή |
+| Όνομα | Τιμή | Περιγραφή |
 | --- | --- | --- |
 | Invalid | `-1` | Καθορίζει μια μη έγκυρη λειτουργία. |
-| Default | `0` | Καθορίζει καμία αντιαλυσίωση. |
-| HighSpeed | `1` | Καθορίζει καμία αντιαλυσίωση. |
-| HighQuality | `2` | Καθορίζει την απόδοση με το ψευδώνυμο. |
-| None | `3` | Καθορίζει καμία αντιαλυσίωση. |
-| AntiAlias | `4` | Καθορίζει την απόδοση με το ψευδώνυμο. |
+| Default | `0` | Καθορίζει χωρίς anti-aliasing. |
+| HighSpeed | `1` | Καθορίζει χωρίς anti-aliasing. |
+| HighQuality | `2` | Καθορίζει απόδοση με anti-aliasing. |
+| None | `3` | Καθορίζει χωρίς anti-aliasing. |
+| AntiAlias | `4` | Καθορίζει απόδοση με anti-aliasing. |
 
 ### Δείτε επίσης
 
-* χώρος ονομάτων [Aspose.PSD](../../aspose.psd/)
-* συνέλευση [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

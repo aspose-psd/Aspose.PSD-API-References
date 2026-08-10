@@ -1,36 +1,37 @@
 ---
-title: LayerHashCalculator.GetChannelsHash
-second_title: Aspose.PSD για Αναφορά API .NET
-description: LayerHashCalculator μέθοδος. Λαμβάνει τον κατακερματισμό των καναλιών.
+title: "LayerHashCalculator.GetChannelsHash"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Μέθοδος LayerHashCalculator. Λαμβάνει το hash των καναλιών"
 type: docs
 weight: 30
 url: /el/net/aspose.psd.fileformats.psd.layers/layerhashcalculator/getchannelshash/
 ---
+{{< psd/tize >}}
 ## LayerHashCalculator.GetChannelsHash method
 
-Λαμβάνει τον κατακερματισμό των καναλιών.
+Λαμβάνει το hash των καναλιών.
 
 ```csharp
 public int GetChannelsHash()
 ```
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-Κατακερματισμός όλων των καναλιών επιπέδου
+Hash όλων των καναλιών του στρώματος
 
-### Παραδείγματα
+## Παραδείγματα
 
-Ο παρακάτω κώδικας δείχνει το API για τη λήψη του μοναδικού κατακερματισμού για παρόμοια επίπεδα σε διαφορετικά αρχεία.
+Ο παρακάτω κώδικας δείχνει το API για την λήψη του μοναδικού hash για παρόμοια στρώματα σε διαφορετικά αρχεία.
 
 ```csharp
 [C#]
 
 /// <summary>
-/// Παίρνει το όνομα του επιπέδου από.
+/// Λαμβάνει το όνομα του στρώματος από.
 /// </summary>
-/// <typeparam name="T"></typeparam>
-/// <param name="image">Η εικόνα.</param>
-/// <param name="name">Το όνομα.</param>
+/// <typeparam name=\"T\"></typeparam>
+/// <param name=\"image\">Η εικόνα.</param>
+/// <param name=\"name\">Το όνομα.</param>
 /// <returns></returns>
 private static T GetLayerByName<T>(PsdImage image, string name) where T : Layer
 {
@@ -47,12 +48,12 @@ private static T GetLayerByName<T>(PsdImage image, string name) where T : Layer
 }
 
 /// <summary>
-/// Είναι το μη ίσο.
+/// Ares το μη ίσο.
 /// </summary>
-/// <typeparam name="T"></typeparam>
-/// <param name="αναμενόμενο">Το αναμενόμενο.</param>
-/// <param name="actual">Το πραγματικό.</param>
-/// <exception cref="System.Exception">Τα επιχειρήματα δεν πρέπει να είναι ίσα</exception>
+/// <typeparam name=\"T\"></typeparam>
+/// <param name=\"expected\">Το αναμενόμενο.</param>
+/// <param name=\"actual\">Το πραγματικό.</param>
+/// <exception cref=\"System.Exception\">Τα επιχειρήματα δεν πρέπει να είναι ίσα</exception>
 public static void AreNotEqual<T>(T expected, T actual)
 {
     if (expected != null && expected.Equals(actual))
@@ -62,12 +63,12 @@ public static void AreNotEqual<T>(T expected, T actual)
 }
 
 /// <summary>
-/// Είναι το ίσο.
+/// Ares το ίσο.
 /// </summary>
-/// <typeparam name="T"></typeparam>
-/// <param name="αναμενόμενο">Το αναμενόμενο.</param>
-/// <param name="actual">Το πραγματικό.</param>
-/// <exception cref="System.Exception">Τα επιχειρήματα πρέπει να είναι ίσα</exception>
+/// <typeparam name=\"T\"></typeparam>
+/// <param name=\"expected\">Το αναμενόμενο.</param>
+/// <param name=\"actual\">Το πραγματικό.</param>
+/// <exception cref=\"System.Exception\">Τα επιχειρήματα πρέπει να είναι ίσα</exception>
 public static void AreEqual<T>(T expected, T actual)
 {
     if (expected != null && !expected.Equals(actual))
@@ -77,9 +78,9 @@ public static void AreEqual<T>(T expected, T actual)
 }
 
 /// <summary>
-/// Ρυθμίζει τη δοκιμή κατακερματισμού περιεχομένου επιπέδου.
+/// Regulars τη δοκιμή hash περιεχομένου του στρώματος.
 /// </summary>
-/// <param name="fileName">Όνομα του αρχείου.</param>
+/// <param name=\"fileName\">Το όνομα του αρχείου.</param>
 public static void RegularLayerContentHashTest(string fileName)
 {
     using (var im = (PsdImage) Image.Load(fileName))
@@ -99,12 +100,12 @@ public static void RegularLayerContentHashTest(string fileName)
         AreNotEqual(hashers[5].GetChannelsHash(), hashers[7].GetChannelsHash());
         AreNotEqual(hashers[0].GetChannelsHash(), hashers[8].GetChannelsHash());
 
-        // Οι κατακερματισμοί αυτών των επιπέδων είναι ίσοι
+        // Τα hash των στρωμάτων είναι ίσα
         AreEqual(hashers[0].GetChannelsHash(), hashers[3].GetChannelsHash());
         AreEqual(hashers[1].GetChannelsHash(), hashers[4].GetChannelsHash());
         AreEqual(hashers[0].GetChannelsHash(), hashers[6].GetChannelsHash());
 
-        // Ελέγξτε τον κατακερματισμό της λειτουργίας ανάμειξης 
+        // Ελέγξτε το hash της λειτουργίας ανάμειξης
         AreEqual(hashers[0].GetBlendingHash(), hashers[3].GetBlendingHash());
         AreEqual(hashers[1].GetBlendingHash(), hashers[4].GetBlendingHash());
         AreNotEqual(hashers[0].GetBlendingHash(), hashers[6].GetBlendingHash());
@@ -117,9 +118,9 @@ public static void RegularLayerContentHashTest(string fileName)
 }
 
 /// <summary>
-/// Γεμίζει τη δοκιμή κατακερματισμού περιεχομένου επιπέδου.
+/// Γεμίζει τη δοκιμή hash περιεχομένου του στρώματος.
 /// </summary>
-/// <param name="fileName">Όνομα του αρχείου.</param>
+/// <param name=\"fileName\">Το όνομα του αρχείου.</param>
 public static void FillLayerContentHashTest(string fileName)
 {
     using (var im = (PsdImage) Image.Load(fileName))
@@ -143,7 +144,7 @@ public static void FillLayerContentHashTest(string fileName)
                 colorFillHashers[index] = new LayerHashCalculator(colorFillLayers[index]);
             }
 
-            // Παρόμοια επίπεδα βρίσκονται πάντα στο ένα ευρετήριο
+            // Τα παρόμοια στρώματα είναι πάντα στον ίδιο δείκτη
             AreEqual(colorFillHashers[0].GetContentHash(), colorFillHashers[2].GetContentHash());
             AreEqual(colorFillHashers[1].GetContentHash(), colorFillHashers[3].GetContentHash());
             AreNotEqual(colorFillHashers[0].GetContentHash(), colorFillHashers[1].GetContentHash());
@@ -152,9 +153,9 @@ public static void FillLayerContentHashTest(string fileName)
 }
 
 /// <summary>
-/// Έξυπνα τη δοκιμή κατακερματισμού περιεχομένου επιπέδου αντικειμένου.
+/// Εξυπνίζει τη δοκιμή hash περιεχομένου του αντικειμένου στρώματος.
 /// </summary>
-/// <param name="fileName">Όνομα του αρχείου.</param>
+/// <param name=\"fileName\">Το όνομα του αρχείου.</param>
 public static void SmartObjectLayerContentHashTest(string fileName)
 {
     using (var im = (PsdImage) Image.Load(fileName))
@@ -178,23 +179,23 @@ public static void SmartObjectLayerContentHashTest(string fileName)
             hashers[i] = new LayerHashCalculator(smartObjects[i]);
         }
 
-        // Τα δεδομένα καναλιού είναι ίσα για Επίπεδο και Δημιουργία από αυτά Έξυπνα αντικείμενα.
+        // Τα δεδομένα καναλιού είναι ίσα για το Στρώμα και δημιουργημένα από αυτά Smart Objects.
         AreEqual(hashers[0].GetChannelsHash(), hashers[2].GetChannelsHash());
         AreEqual(hashers[0].GetChannelsHash(), hashers[4].GetChannelsHash());
 
         // Το Content Hash είναι διαφορετικό, επειδή το Smart Object χρησιμοποιεί άλλα δεδομένα ως περιεχόμενο
         AreNotEqual(hashers[0].GetContentHash(), hashers[4].GetContentHash());
 
-        // Αλλά η ανάμειξη κατακερματισμού είναι παρόμοια. Και τα δύο επίπεδα - έξυπνα και κανονικά έχουν λειτουργία Normal Blend και αδιαφάνεια 255
+        // Αλλά το hash ανάμειξης είναι παρόμοιο. Και τα δύο στρώματα - έξυπνα και κανονικά - έχουν λειτουργία Normal Blend και διαφάνεια 255
         AreEqual(hashers[0].GetBlendingHash(), hashers[4].GetBlendingHash());
 
-        // Τα δεδομένα καναλιού είναι ίσα για Επίπεδο και Δημιουργία από αυτά Έξυπνα αντικείμενα.
+        // Τα δεδομένα καναλιού είναι ίσα για το Στρώμα και δημιουργημένα από αυτά Smart Objects.
         AreEqual(hashers[1].GetChannelsHash(), hashers[3].GetChannelsHash());
         AreEqual(hashers[1].GetChannelsHash(), hashers[5].GetChannelsHash());
 
         // Το Content Hash είναι διαφορετικό, επειδή το Smart Object χρησιμοποιεί άλλα δεδομένα ως περιεχόμενο
         AreNotEqual(hashers[1].GetContentHash(), hashers[5].GetContentHash());
-        // Αλλά η ανάμειξη κατακερματισμού είναι παρόμοια. Και τα δύο επίπεδα - έξυπνα και κανονικά έχουν λειτουργία Normal Blend και αδιαφάνεια 255
+        // Αλλά το hash ανάμειξης είναι παρόμοιο. Και τα δύο στρώματα - έξυπνα και κανονικά - έχουν λειτουργία Normal Blend και διαφάνεια 255
         AreEqual(hashers[1].GetBlendingHash(), hashers[5].GetBlendingHash());
 
         AreNotEqual(hashers[0].GetChannelsHash(), hashers[1].GetChannelsHash());
@@ -204,9 +205,9 @@ public static void SmartObjectLayerContentHashTest(string fileName)
 }
 
 /// <summary>
-/// Προσαρμόζει τη δοκιμή κατακερματισμού περιεχομένου επιπέδων.
+/// Προσαρμογές το hash περιεχομένου των στρωμάτων δοκιμή.
 /// </summary>
-/// <param name="fileName">Όνομα του αρχείου.</param>
+/// <param name=\"fileName\">Το όνομα του αρχείου.</param>
 public static void AdjustmentLayersContentHashTest(string fileName)
 {
     using (var im = (PsdImage) Image.Load(fileName))
@@ -235,7 +236,7 @@ public static void AdjustmentLayersContentHashTest(string fileName)
             hashers[i] = new LayerHashCalculator(adjustments[i]);
         }
 
-        // Όλοι οι κατακερματισμοί πρέπει να είναι διαφορετικοί
+        // Όλα τα hashes πρέπει να είναι διαφορετικά
         for (int i = 0; i < length; i++)
         {
             for (int j = i + 1; j < length; j++)
@@ -248,9 +249,9 @@ public static void AdjustmentLayersContentHashTest(string fileName)
 }
 
 /// <summary>
-/// Αποστέλλει κείμενο στη δοκιμή κατακερματισμού περιεχομένου των επιπέδων.
+/// Κείμενα το hash περιεχομένου των στρωμάτων δοκιμή.
 /// </summary>
-/// <param name="fileName">Όνομα του αρχείου.</param>
+/// <param name=\"fileName\">Το όνομα του αρχείου.</param>
 public static void TextLayersContentHashTest(string fileName)
 {
     using (var im = (PsdImage) Image.Load(fileName))
@@ -292,20 +293,20 @@ public static void TextLayersContentHashTest(string fileName)
         AreNotEqual(textHashers2[0].GetContentHash(), textHashers2[2].GetContentHash());
         AreNotEqual(textHashers2[0].GetContentHash(), textHashers2[3].GetContentHash());
 
-        // Ο πίνακας μετασχηματισμού δεν χρησιμοποιείται στον υπολογισμό κατακερματισμού. Θα πρέπει να το ελέγξετε επιπλέον
+        // Ο πίνακας μετασχηματισμού δεν χρησιμοποιείται στον υπολογισμό του hash. Θα πρέπει επίσης να τον ελέγξετε.
         AreEqual(textHashers2[0].GetContentHash(), textHashers2[4].GetContentHash());
 
         // Σε αυτήν την περίπτωση έχουμε μια περιστροφή στον πίνακα
         AreNotEqual(textLayers2[0].TransformMatrix, textLayers2[4].TransformMatrix);
-        // Σε αυτήν την περίπτωση έχουμε μόνο μετάφραση (Text Layer Shifted παρακάτω)
+        // Σε αυτήν την περίπτωση έχουμε μόνο μετάθεση (Το κείμενο στρώματος μετατοπίστηκε παρακάτω)
         AreNotEqual(textLayers2[0].TransformMatrix, textLayers2[1].TransformMatrix);
     }
 }
 
 /// <summary>
-/// Ομαδοποιεί τη δοκιμή κατακερματισμού περιεχομένου επιπέδου.
+/// Ομάδες το hash περιεχομένου του στρώματος δοκιμή.
 /// </summary>
-/// <param name="fileName">Όνομα του αρχείου.</param>
+/// <param name=\"fileName\">Το όνομα του αρχείου.</param>
 public static void GroupLayerContentHashTest(string fileName)
 {
     using (var im = (PsdImage) Image.Load(fileName))
@@ -323,16 +324,16 @@ public static void GroupLayerContentHashTest(string fileName)
             groupLayersHashers[i] = new LayerHashCalculator(groupLayers[i]);
         }
 
-        // Ο κατακερματισμός στρώματος ομάδας υπολογίζεται από τα επίπεδα στο εσωτερικό του
+        // Το Group Layer Hash υπολογίζεται από τα στρώματα μέσα του
         AreEqual(groupLayersHashers[0].GetContentHash(), groupLayersHashers[1].GetContentHash());
         AreNotEqual(groupLayers[0], groupLayers[1]);
     }
 }
 
 /// <summary>
-/// Ρυθμίζει το περιεχόμενο του επιπέδου από τη δοκιμή κατακερματισμού διαφορετικών αρχείων.
+/// Κανονικά το hash περιεχομένου του στρώματος από διαφορετικά αρχεία δοκιμή.
 /// </summary>
-/// <param name="fileName">Όνομα του αρχείου.</param>
+/// <param name=\"fileName\">Το όνομα του αρχείου.</param>
 public static void RegularLayerContentFromDifferentFilesHashTest(string fileName, string outputFile)
 {
     using (var im = (PsdImage) Image.Load(fileName, new PsdLoadOptions() { ReadOnlyMode = true }))
@@ -351,10 +352,10 @@ public static void RegularLayerContentFromDifferentFilesHashTest(string fileName
                 var hashCalc = new LayerHashCalculator(layer);
                 var hashCalc_copied = new LayerHashCalculator(layer_copied);
 
-                // Τα επίπεδα έχουν διαφορετικούς δείκτες
+                // Τα στρώματα έχουν διαφορετικούς δείκτες
                 AreNotEqual(layer, layer_copied);
 
-                // Αλλά ο κατακερματισμός των επιπέδων είναι ίσος
+                // Αλλά το hash των στρωμάτων είναι ίσο
                 AreEqual(hashCalc.GetChannelsHash(), hashCalc_copied.GetChannelsHash());
                 AreEqual(hashCalc.GetContentHash(), hashCalc_copied.GetContentHash());
             }
@@ -368,7 +369,7 @@ public static void RegularLayerContentFromDifferentFilesHashTest(string fileName
 ### Δείτε επίσης
 
 * class [LayerHashCalculator](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers](../../layerhashcalculator/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

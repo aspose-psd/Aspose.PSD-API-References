@@ -1,14 +1,15 @@
 ---
-title: CgEdResource.Key
-second_title: Aspose.PSD για Αναφορά API .NET
-description: CgEdResource ιδιοκτησία. Λαμβάνει το κλειδί πόρων επιπέδου.
+title: "CgEdResource.Key"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "CgEdResource property. Λαμβάνει το κλειδί του πόρου στρώσης"
 type: docs
 weight: 50
 url: /el/net/aspose.psd.fileformats.psd.layers.layerresources/cgedresource/key/
 ---
+{{< psd/tize >}}
 ## CgEdResource.Key property
 
-Λαμβάνει το κλειδί πόρων επιπέδου.
+Λαμβάνει το κλειδί πόρου του επιπέδου.
 
 ```csharp
 public override int Key { get; }
@@ -17,7 +18,7 @@ public override int Key { get; }
 ### Δείτε επίσης
 
 * class [CgEdResource](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../cgedresource/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

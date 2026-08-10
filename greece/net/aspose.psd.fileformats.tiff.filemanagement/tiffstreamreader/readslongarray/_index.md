@@ -1,14 +1,15 @@
 ---
-title: TiffStreamReader.ReadSLongArray
-second_title: Aspose.PSD για Αναφορά API .NET
-description: TiffStreamReader μέθοδος. Διαβάζει έναν πίνακα με υπογεγραμμένες ακέραιες τιμές από τη ροή.
+title: "TiffStreamReader.ReadSLongArray"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "TiffStreamReader μέθοδος. Διαβάζει έναν πίνακα υπογεγραμμένων τιμών ακέραιου από τη ροή."
 type: docs
 weight: 140
 url: /el/net/aspose.psd.fileformats.tiff.filemanagement/tiffstreamreader/readslongarray/
 ---
+{{< psd/tize >}}
 ## TiffStreamReader.ReadSLongArray method
 
-Διαβάζει έναν πίνακα με υπογεγραμμένες ακέραιες τιμές από τη ροή.
+Διαβάζει έναν πίνακα τιμών υπογεγραμμένων ακεραίων από τη ροή.
 
 ```csharp
 public int[] ReadSLongArray(long position, long count)
@@ -16,23 +17,23 @@ public int[] ReadSLongArray(long position, long count)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| position | Int64 | Η θέση για να διαβάσετε από. |
-| count | Int64 | Τα στοιχεία μετράνε. |
+| θέση | Int64 | Η θέση από την οποία θα διαβαστεί. |
+| πλήθος | Int64 | Ο αριθμός των στοιχείων. |
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-Ο πίνακας με υπογεγραμμένες ακέραιες τιμές.
+Ο πίνακας των υπογεγραμμένων τιμών ακέραιου.
 
 ### Εξαιρέσεις
 
-| εξαίρεση | κατάσταση |
+| εξαίρεση | συνθήκη |
 | --- | --- |
-| ArgumentOutOfRangeException | count; Ο συνολικός αριθμός byte είναι αρνητικός. + count + x4= + totalBytes |
+| ArgumentOutOfRangeException | count;Συνολικός αριθμός byte είναι αρνητικός. + count + x4= + totalBytes |
 
 ### Δείτε επίσης
 
 * class [TiffStreamReader](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Tiff.FileManagement](../../tiffstreamreader/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff.FileManagement](../../../aspose.psd.fileformats.tiff.filemanagement/)
+* assembly [Aspose.PSD](../../../)
 
 

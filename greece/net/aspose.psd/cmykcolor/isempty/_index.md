@@ -1,27 +1,28 @@
 ---
-title: CmykColor.IsEmpty
-second_title: Aspose.PSD για Αναφορά API .NET
-description: CmykColor ιδιοκτησία. Λαμβάνει μια τιμή που υποδεικνύει αν αυτόColor η δομή δεν έχει αρχικοποιηθεί.
+title: "CmykColor.IsEmpty"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα CmykColor. Λαμβάνει μια τιμή που υποδεικνύει εάν αυτή η δομή Color δεν έχει αρχικοποιηθεί."
 type: docs
-weight: 30
+weight: 40
 url: /el/net/aspose.psd/cmykcolor/isempty/
 ---
+{{< psd/tize >}}
 ## CmykColor.IsEmpty property
 
-Λαμβάνει μια τιμή που υποδεικνύει αν αυτό[`Color`](../../color/) η δομή δεν έχει αρχικοποιηθεί.
+Λαμβάνει μια τιμή που υποδεικνύει εάν αυτή η δομή [`Color`](../../color/) δεν έχει αρχικοποιηθεί.
 
 ```csharp
 public bool IsEmpty { get; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Αυτή η ιδιότητα επιστρέφει true εάν αυτό το χρώμα είναι μη αρχικοποιημένο. διαφορετικά, ψευδής.
+Αυτή η ιδιότητα επιστρέφει true εάν αυτό το χρώμα δεν έχει αρχικοποιηθεί· διαφορετικά, false.
 
 ### Δείτε επίσης
 
 * struct [CmykColor](../)
-* χώρος ονομάτων [Aspose.PSD](../../cmykcolor/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

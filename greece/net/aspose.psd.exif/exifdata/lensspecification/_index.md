@@ -1,28 +1,29 @@
 ---
-title: ExifData.LensSpecification
-second_title: Aspose.PSD για Αναφορά API .NET
-description: ExifData ιδιοκτησία. Λαμβάνει ή ορίζει την προδιαγραφή φακού
+title: "ExifData.LensSpecification"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα ExifData. Λαμβάνει ή ορίζει τις προδιαγραφές του φακού"
 type: docs
 weight: 760
 url: /el/net/aspose.psd.exif/exifdata/lensspecification/
 ---
+{{< psd/tize >}}
 ## ExifData.LensSpecification property
 
-Λαμβάνει ή ορίζει την προδιαγραφή φακού
+Λαμβάνει ή ορίζει τις προδιαγραφές του φακού
 
 ```csharp
 public TiffRational[] LensSpecification { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Οι προδιαγραφές του φακού.
+Η προδιαγραφή του φακού.
 
 ### Δείτε επίσης
 
 * class [TiffRational](../../../aspose.psd.fileformats.tiff/tiffrational/)
 * class [ExifData](../)
-* χώρος ονομάτων [Aspose.PSD.Exif](../../exifdata/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,33 +1,34 @@
 ---
-title: LinkDataSource.OriginalCompId
-second_title: Aspose.PSD για Αναφορά API .NET
-description: LinkDataSource ιδιοκτησία. Λαμβάνει το αρχικό αναγνωριστικό του τρέχοντος επιλεγμένου Comp για το θυγατρικό έγγραφο το οποίο θα είναι 1 αν δεν επιλεγεί κανένα. Αυτή η ιδιότητα λαμβάνει το αρχικό αναγνωριστικό επιλογής επιπέδου Comp για τα Έξυπνα Αντικείμενα. Σύνθεση επιπέδων σε Έξυπνα Αντικείμενα
+title: "LinkDataSource.OriginalCompId"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα LinkDataSource. Λαμβάνει το αρχικό ID του τρέχοντος επιλεγμένου Comp για το υπο-έγγραφο, το οποίο θα είναι 1 εάν δεν υπάρχει επιλογή. Αυτή η ιδιότητα λαμβάνει το αρχικό αναγνωριστικό επιλογής layer Comp για Smart Objects. Layer comps σε Smart Objects"
 type: docs
 weight: 100
 url: /el/net/aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/originalcompid/
 ---
+{{< psd/tize >}}
 ## LinkDataSource.OriginalCompId property
 
-Λαμβάνει το αρχικό αναγνωριστικό του τρέχοντος επιλεγμένου Comp για το θυγατρικό έγγραφο, το οποίο θα είναι -1 αν δεν επιλεγεί κανένα. Αυτή η ιδιότητα λαμβάνει το αρχικό αναγνωριστικό επιλογής επιπέδου Comp για τα Έξυπνα Αντικείμενα. [Σύνθεση επιπέδων σε Έξυπνα Αντικείμενα](https://helpx.adobe.com/photoshop/using/layer-comps.html)
+Λαμβάνει το αρχικό αναγνωριστικό του τρέχοντος επιλεγμένου Comp για το θυγατρικό έγγραφο, το οποίο θα είναι -1 εάν δεν υπάρχει επιλογή. Αυτή η ιδιότητα λαμβάνει το αρχικό αναγνωριστικό επιλογής layer Comp για Smart Objects. [Layer comps in Smart Objects](https://helpx.adobe.com/photoshop/using/layer-comps.html)
 
 ```csharp
 public int OriginalCompId { get; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Το αρχικό αναγνωριστικό του τρέχοντος επιλεγμένου comp για το θυγατρικό έγγραφο, το οποίο θα είναι -1 εάν δεν επιλεγεί κανένα.
+Το αρχικό ID του τρέχοντος επιλεγμένου comp για το υπο-έγγραφο, το οποίο θα είναι -1 εάν δεν υπάρχει επιλογή.
 
 ### Εξαιρέσεις
 
-| εξαίρεση | κατάσταση |
+| εξαίρεση | συνθήκη |
 | --- | --- |
-| [PsdImageException](../../../aspose.psd.coreexceptions.imageformats/psdimageexception/) | Δεν μπορείτε να αποκτήσετε πρόσβαση στην ιδιότητα OriginalCompId |
+| [PsdImageException](../../../aspose.psd.coreexceptions.imageformats/psdimageexception/) | Δεν μπορείτε να προσπελάσετε την ιδιότητα OriginalCompId |
 
 ### Δείτε επίσης
 
 * class [LinkDataSource](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../linkdatasource/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

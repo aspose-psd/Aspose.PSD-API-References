@@ -1,14 +1,15 @@
 ---
-title: XmpElementBase.GetAttribute
-second_title: Aspose.PSD για Αναφορά API .NET
-description: XmpElementBase μέθοδος. Παίρνει το χαρακτηριστικό.
+title: "XmpElementBase.GetAttribute"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Μέθοδος XmpElementBase. Λαμβάνει το χαρακτηριστικό"
 type: docs
 weight: 40
 url: /el/net/aspose.psd.xmp/xmpelementbase/getattribute/
 ---
+{{< psd/tize >}}
 ## XmpElementBase.GetAttribute method
 
-Παίρνει το χαρακτηριστικό.
+Λαμβάνει το χαρακτηριστικό.
 
 ```csharp
 public virtual string GetAttribute(string attribute)
@@ -16,16 +17,16 @@ public virtual string GetAttribute(string attribute)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| attribute | String | Η ιδιότητα. |
+| χαρακτηριστικό | String | Το χαρακτηριστικό. |
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-Επιστρέφει το χαρακτηριστικό για το καθορισμένο όνομα χαρακτηριστικού.
+Επιστρέφει το χαρακτηριστικό για το συγκεκριμένο όνομα χαρακτηριστικού.
 
 ### Δείτε επίσης
 
 * class [XmpElementBase](../)
-* χώρος ονομάτων [Aspose.PSD.Xmp](../../xmpelementbase/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

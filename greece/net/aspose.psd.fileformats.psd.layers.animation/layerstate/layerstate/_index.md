@@ -1,27 +1,24 @@
 ---
-title: LayerState.LayerState
-second_title: Aspose.PSD για Αναφορά API .NET
-description: LayerState κατασκευαστής. Αρχικοποιεί μια νέα παρουσία τουLayerState τάξη.
+title: "LayerState.LayerState"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "LayerState κατασκευαστής. Ο προεπιλεγμένος κατασκευαστής"
 type: docs
 weight: 10
 url: /el/net/aspose.psd.fileformats.psd.layers.animation/layerstate/layerstate/
 ---
+{{< psd/tize >}}
 ## LayerState constructor
 
-Αρχικοποιεί μια νέα παρουσία του[`LayerState`](../) τάξη.
+Ο προεπιλεγμένος κατασκευαστής.
 
 ```csharp
-public LayerState(int layerId)
+public LayerState()
 ```
-
-| Παράμετρος | Τύπος | Περιγραφή |
-| --- | --- | --- |
-| layerId | Int32 | Το αναγνωριστικό για τον προσδιορισμό της κατάστασης του σχετικού επιπέδου. |
 
 ### Δείτε επίσης
 
 * class [LayerState](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.Animation](../../layerstate/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.Animation](../../../aspose.psd.fileformats.psd.layers.animation/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: Region.Xor
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Region μέθοδος. Ενημερώνει αυτόRegion στην ένωση μείον τη διασταύρωση του εαυτού του με το καθορισμένοRectangleFδομή.
+title: "Region.Xor"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Μέθοδος Region. Ενημερώνει αυτή τη Region στην ένωση με αφαίρεση της τομής της με τη συγκεκριμένη δομή RectangleF"
 type: docs
-weight: 150
+weight: 160
 url: /el/net/aspose.psd/region/xor/
 ---
+{{< psd/tize >}}
 ## Xor(RectangleF) {#xor_2}
 
-Ενημερώνει αυτό[`Region`](../) στην ένωση μείον τη διασταύρωση του εαυτού του με το καθορισμένο[`RectangleF`](../../rectanglef/)δομή.
+Ενημερώνει αυτή τη [`Region`](../) στην ένωση με αφαίρεση της τομής της με τη συγκεκριμένη δομή [`RectangleF`](../../rectanglef/).
 
 ```csharp
 public void Xor(RectangleF rect)
@@ -16,20 +17,20 @@ public void Xor(RectangleF rect)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| rect | RectangleF | ο[`RectangleF`](../../rectanglef/) δομή να xor με αυτό[`Region`](../). |
+| rect | RectangleF | Η δομή [`RectangleF`](../../rectanglef/) για xor με αυτή τη [`Region`](../). |
 
 ### Δείτε επίσης
 
 * struct [RectangleF](../../rectanglef/)
 * class [Region](../)
-* χώρος ονομάτων [Aspose.PSD](../../region/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Xor(Rectangle) {#xor_1}
 
-Ενημερώνει αυτό[`Region`](../) στην ένωση μείον τη διασταύρωση του εαυτού του με το καθορισμένο[`Rectangle`](../../rectangle/)δομή.
+Ενημερώνει αυτή τη [`Region`](../) στην ένωση με αφαίρεση της τομής της με τη συγκεκριμένη δομή [`Rectangle`](../../rectangle/).
 
 ```csharp
 public void Xor(Rectangle rect)
@@ -37,20 +38,20 @@ public void Xor(Rectangle rect)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| rect | Rectangle | ο[`Rectangle`](../../rectangle/) δομή να xor με αυτό[`Region`](../). |
+| rect | Rectangle | Η δομή [`Rectangle`](../../rectangle/) για xor με αυτή τη [`Region`](../). |
 
 ### Δείτε επίσης
 
 * struct [Rectangle](../../rectangle/)
 * class [Region](../)
-* χώρος ονομάτων [Aspose.PSD](../../region/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Xor(GraphicsPath) {#xor}
 
-Ενημερώνει αυτό[`Region`](../) στην ένωση μείον τη διασταύρωση του εαυτού του με το καθορισμένο[`GraphicsPath`](../../graphicspath/) .
+Ενημερώνει αυτή τη [`Region`](../) στην ένωση με αφαίρεση της τομής της με τη συγκεκριμένη δομή [`GraphicsPath`](../../graphicspath/).
 
 ```csharp
 public void Xor(GraphicsPath path)
@@ -58,26 +59,26 @@ public void Xor(GraphicsPath path)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| path | GraphicsPath | ο[`GraphicsPath`](../../graphicspath/) να xor με αυτό[`Region`](../). |
+| path | GraphicsPath | Η [`GraphicsPath`](../../graphicspath/) για xor με αυτή τη [`Region`](../). |
 
 ### Εξαιρέσεις
 
-| εξαίρεση | κατάσταση |
+| εξαίρεση | συνθήκη |
 | --- | --- |
-| ArgumentNullException | *path* είναι μηδενικό. |
+| ArgumentNullException | *path* είναι null. |
 
 ### Δείτε επίσης
 
 * class [GraphicsPath](../../graphicspath/)
 * class [Region](../)
-* χώρος ονομάτων [Aspose.PSD](../../region/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Xor(Region) {#xor_3}
 
-Ενημερώνει αυτό[`Region`](../) στην ένωση μείον τη διασταύρωση του εαυτού του με το καθορισμένο[`Region`](../) .
+Ενημερώνει αυτή τη [`Region`](../) στην ένωση με αφαίρεση της τομής της με τη συγκεκριμένη [`Region`](../).
 
 ```csharp
 public void Xor(Region region)
@@ -85,18 +86,18 @@ public void Xor(Region region)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| region | Region | ο[`Region`](../) να xor με αυτό[`Region`](../). |
+| region | Region | Η [`Region`](../) για xor με αυτή τη [`Region`](../). |
 
 ### Εξαιρέσεις
 
-| εξαίρεση | κατάσταση |
+| εξαίρεση | συνθήκη |
 | --- | --- |
-| ArgumentNullException | *region* είναι μηδενικό. |
+| ArgumentNullException | *region* είναι null. |
 
 ### Δείτε επίσης
 
 * class [Region](../)
-* χώρος ονομάτων [Aspose.PSD](../../region/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

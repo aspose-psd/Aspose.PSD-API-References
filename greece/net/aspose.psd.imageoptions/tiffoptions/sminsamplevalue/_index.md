@@ -1,27 +1,28 @@
 ---
-title: TiffOptions.SminSampleValue
-second_title: Aspose.PSD για Αναφορά API .NET
-description: TiffOptions ιδιοκτησία. Λαμβάνει ή ορίζει την ελάχιστη τιμή δείγματος. Η τιμή έχει έναν τύπο πεδίου που ταιριάζει καλύτερα με τα δείγματα δεδομένων τύπος Byte Short ή Long.
+title: "TiffOptions.SminSampleValue"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα TiffOptions. Λαμβάνει ή ορίζει την ελάχιστη τιμή δείγματος. Η τιμή έχει τύπο πεδίου που ταιριάζει καλύτερα στα δεδομένα δείγματος τύπου Byte, Short ή Long."
 type: docs
-weight: 440
+weight: 450
 url: /el/net/aspose.psd.imageoptions/tiffoptions/sminsamplevalue/
 ---
+{{< psd/tize >}}
 ## TiffOptions.SminSampleValue property
 
-Λαμβάνει ή ορίζει την ελάχιστη τιμή δείγματος. Η τιμή έχει έναν τύπο πεδίου που ταιριάζει καλύτερα με τα δείγματα δεδομένων (τύπος Byte, Short ή Long).
+Λαμβάνει ή ορίζει τη ελάχιστη τιμή δείγματος. Η τιμή έχει τύπο πεδίου που ταιριάζει καλύτερα με τα δεδομένα δείγματος (τύπος Byte, Short ή Long).
 
 ```csharp
 public uint[] SminSampleValue { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
 Η ελάχιστη τιμή δείγματος.
 
 ### Δείτε επίσης
 
 * class [TiffOptions](../)
-* χώρος ονομάτων [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

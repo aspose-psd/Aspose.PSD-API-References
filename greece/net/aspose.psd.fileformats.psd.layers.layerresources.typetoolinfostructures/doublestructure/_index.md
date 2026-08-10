@@ -1,14 +1,15 @@
 ---
-title: Class DoubleStructure
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures.DoubleStructure τάξη. Η διπλή δομή.
+title: "Κλάση DoubleStructure"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures.DoubleStructure class. Η διπλή δομή."
 type: docs
-weight: 3150
+weight: 3530
 url: /el/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/doublestructure/
 ---
+{{< psd/tize >}}
 ## DoubleStructure class
 
-Η διπλή δομή.
+Η δομή double.
 
 ```csharp
 public sealed class DoubleStructure : OSTypeStructure
@@ -16,22 +17,22 @@ public sealed class DoubleStructure : OSTypeStructure
 
 ## Κατασκευαστές
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
-| [DoubleStructure](doublestructure/)(ClassID) | Αρχικοποιεί μια νέα παρουσία του`DoubleStructure` τάξη. |
+| [DoubleStructure](doublestructure/)(ClassID) | Αρχικοποιεί ένα νέο παράδειγμα της κλάσης `DoubleStructure`. |
 
 ## Ιδιότητες
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
-| override [Key](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/doublestructure/key/) { get; } | Λαμβάνει το κλειδί δομής. |
+| override [Key](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/doublestructure/key/) { get; } | Λαμβάνει το κλειδί της δομής. |
 | [KeyName](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/keyname/) { get; set; } | Λαμβάνει ή ορίζει το όνομα του κλειδιού. |
-| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/doublestructure/length/) { get; } | Λαμβάνει το[`OSTypeStructure`](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/) μήκος σε byte. |
+| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/doublestructure/length/) { get; } | Λαμβάνει το μήκος του [`OSTypeStructure`](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/) σε bytes. |
 | [Value](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/doublestructure/value/) { get; set; } | Λαμβάνει ή ορίζει τη διπλή τιμή. |
 
 ## Μέθοδοι
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
 | virtual [GetHeaderLength](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/getheaderlength/)() | Λαμβάνει το μήκος της κεφαλίδας. |
 | [Save](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/save/)(StreamContainer) | Αποθηκεύει τη δομή στο καθορισμένο κοντέινερ ροής. |
@@ -39,14 +40,14 @@ public sealed class DoubleStructure : OSTypeStructure
 
 ## Πεδία
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
-| const [StructureKey](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/doublestructure/structurekey/) | Προσδιορίζει το κλειδί δομής. |
+| const [StructureKey](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/doublestructure/structurekey/) | Αναγνωρίζει το κλειδί της δομής. |
 
 ### Δείτε επίσης
 
 * class [OSTypeStructure](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
-* συνέλευση [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../)
 
 

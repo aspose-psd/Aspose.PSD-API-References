@@ -1,28 +1,29 @@
 ---
-title: ImageCreatorsRegistry.RegisteredFormats
-second_title: Aspose.PSD για Αναφορά API .NET
-description: ImageCreatorsRegistry ιδιοκτησία. Λαμβάνει τις καταχωρημένες μορφές δημιουργίας εικόνων.
+title: "ImageCreatorsRegistry.RegisteredFormats"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "ImageCreatorsRegistry ιδιότητα. Λαμβάνει τις καταχωρημένες μορφές δημιουργίας εικόνας"
 type: docs
 weight: 20
 url: /el/net/aspose.psd/imagecreatorsregistry/registeredformats/
 ---
+{{< psd/tize >}}
 ## ImageCreatorsRegistry.RegisteredFormats property
 
-Λαμβάνει τις καταχωρημένες μορφές δημιουργίας εικόνων.
+Λαμβάνει τις καταχωρημένες μορφές δημιουργίας εικόνας.
 
 ```csharp
 public static FileFormat RegisteredFormats { get; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Οι καταχωρημένες μορφές δημιουργίας εικόνων.
+Οι καταχωρημένες μορφές δημιουργίας εικόνας.
 
 ### Δείτε επίσης
 
 * enum [FileFormat](../../fileformat/)
 * class [ImageCreatorsRegistry](../)
-* χώρος ονομάτων [Aspose.PSD](../../imagecreatorsregistry/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

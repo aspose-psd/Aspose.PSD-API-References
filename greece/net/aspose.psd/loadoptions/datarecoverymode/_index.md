@@ -1,20 +1,21 @@
 ---
-title: LoadOptions.DataRecoveryMode
-second_title: Aspose.PSD για Αναφορά API .NET
-description: LoadOptions ιδιοκτησία. Λαμβάνει ή ρυθμίζει τη λειτουργία ανάκτησης δεδομένων.
+title: "LoadOptions.DataRecoveryMode"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "LoadOptions ιδιότητα. Λαμβάνει ή ορίζει τη λειτουργία ανάκτησης δεδομένων"
 type: docs
 weight: 40
 url: /el/net/aspose.psd/loadoptions/datarecoverymode/
 ---
+{{< psd/tize >}}
 ## LoadOptions.DataRecoveryMode property
 
-Λαμβάνει ή ρυθμίζει τη λειτουργία ανάκτησης δεδομένων.
+Λαμβάνει ή ορίζει τη λειτουργία ανάκτησης δεδομένων.
 
 ```csharp
 public DataRecoveryMode DataRecoveryMode { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
 Η λειτουργία ανάκτησης δεδομένων.
 
@@ -22,7 +23,7 @@ public DataRecoveryMode DataRecoveryMode { get; set; }
 
 * enum [DataRecoveryMode](../../datarecoverymode/)
 * class [LoadOptions](../)
-* χώρος ονομάτων [Aspose.PSD](../../loadoptions/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

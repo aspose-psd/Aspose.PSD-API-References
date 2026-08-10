@@ -1,14 +1,15 @@
 ---
-title: ExpaResource.ExpaResource
-second_title: Aspose.PSD για Αναφορά API .NET
-description: ExpaResource κατασκευαστής. Αρχικοποιεί μια νέα παρουσία τουExpaResource τάξη.
+title: "ExpaResource.ExpaResource"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Κατασκευαστής ExpaResource. Αρχικοποιεί μια νέα παρουσία της κλάσης ExpaResource"
 type: docs
 weight: 10
 url: /el/net/aspose.psd.fileformats.psd.layers.layerresources/exparesource/exparesource/
 ---
+{{< psd/tize >}}
 ## ExpaResource() {#constructor}
 
-Αρχικοποιεί μια νέα παρουσία του[`ExpaResource`](../) τάξη.
+Αρχικοποιεί μια νέα παρουσία της κλάσης [`ExpaResource`](../).
 
 ```csharp
 public ExpaResource()
@@ -17,14 +18,14 @@ public ExpaResource()
 ### Δείτε επίσης
 
 * class [ExpaResource](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../exparesource/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## ExpaResource(float, float, float) {#constructor_2}
 
-Αρχικοποιεί μια νέα παρουσία του[`ExpaResource`](../) τάξη.
+Αρχικοποιεί μια νέα παρουσία της κλάσης [`ExpaResource`](../).
 
 ```csharp
 public ExpaResource(float exposure, float offset, float gamma)
@@ -32,21 +33,21 @@ public ExpaResource(float exposure, float offset, float gamma)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| exposure | Single | Η έκθεση. |
-| offset | Single | Το offset. |
-| gamma | Single | Το γάμμα. |
+| έκθεση | Single | Η έκθεση. |
+| offset | Single | Η μετατόπιση. |
+| γάμμα | Single | Το γάμμα. |
 
 ### Δείτε επίσης
 
 * class [ExpaResource](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../exparesource/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## ExpaResource(byte[]) {#constructor_1}
 
-Αρχικοποιεί μια νέα παρουσία του[`ExpaResource`](../) τάξη.
+Αρχικοποιεί μια νέα παρουσία της κλάσης [`ExpaResource`](../).
 
 ```csharp
 public ExpaResource(byte[] bytes)
@@ -54,18 +55,18 @@ public ExpaResource(byte[] bytes)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| bytes | Byte[] | Τα byte. |
+| bytes | Byte[] | Τα bytes. |
 
 ### Εξαιρέσεις
 
-| εξαίρεση | κατάσταση |
+| εξαίρεση | συνθήκη |
 | --- | --- |
-| [PsdImageArgumentException](../../../aspose.psd.coreexceptions.imageformats/psdimageargumentexception/) | Μη έγκυρα δεδομένα πόρων Expa |
+| [PsdImageArgumentException](../../../aspose.psd.coreexceptions.imageformats/psdimageargumentexception/) | Μη έγκυρα δεδομένα πόρου Expa |
 
 ### Δείτε επίσης
 
 * class [ExpaResource](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../exparesource/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

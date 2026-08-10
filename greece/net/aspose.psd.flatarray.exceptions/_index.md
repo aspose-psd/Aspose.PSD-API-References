@@ -1,17 +1,18 @@
 ---
-title: Aspose.PSD.FlatArray.Exceptions
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Ο χώρος ονομάτων χειρίζεται την επεξεργασία μορφής αρχείου Psd.
+title: "Aspose.PSD.FlatArray.Exceptions"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ο χώρος ονομάτων διαχειρίζεται την επεξεργασία μορφής αρχείου PSD"
 type: docs
-weight: 400
+weight: 440
 url: /el/net/aspose.psd.flatarray.exceptions/
 ---
-Ο χώρος ονομάτων χειρίζεται την επεξεργασία μορφής αρχείου Psd.
+{{< psd/tize >}}
+Ο χώρος ονομάτων διαχειρίζεται την επεξεργασία μορφής αρχείου PSD.
 
-## Τάξεις
+## Κλάσεις
 
-| Τάξη | Περιγραφή |
+| Κλάση | Περιγραφή |
 | --- | --- |
-| [FlatArrayException](./flatarrayexception/) | Ειδική εξαίρεση γιαFlatArray τάξη. |
+| [FlatArrayException](./flatarrayexception/) | Ειδική εξαίρεση για την κλάση FlatArray. |
 
 

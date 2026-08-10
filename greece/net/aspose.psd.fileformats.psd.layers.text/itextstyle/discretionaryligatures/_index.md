@@ -1,22 +1,23 @@
 ---
-title: ITextStyle.DiscretionaryLigatures
-second_title: Aspose.PSD για Αναφορά API .NET
-description: ITextStyle ιδιοκτησία. Οι διακριτικές συνδέσεις που χρησιμοποιούνται για τη σύνδεση γραμμάτων ειδικά σε γραμματοσειρές σεναρίου.
+title: "ITextStyle.DiscretionaryLigatures"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα ITextStyle. Οι προαιρετικές συνδέσεις γραμμάτων που χρησιμοποιούνται για τη σύνδεση γραμμάτων, ιδιαίτερα σε γραμματοσειρές με σενάριο"
 type: docs
 weight: 50
 url: /el/net/aspose.psd.fileformats.psd.layers.text/itextstyle/discretionaryligatures/
 ---
+{{< psd/tize >}}
 ## ITextStyle.DiscretionaryLigatures property
 
-Οι διακριτικές συνδέσεις που χρησιμοποιούνται για τη σύνδεση γραμμάτων, ειδικά σε γραμματοσειρές σεναρίου.
+Οι προαιρετικές συνδέσεις γραμμάτων που χρησιμοποιούνται για τη σύνδεση των γραμμάτων, ειδικά σε γραμματοσειρές σκριπτ.
 
 ```csharp
 public bool DiscretionaryLigatures { get; set; }
 ```
 
-### Παραδείγματα
+## Παραδείγματα
 
-Ο παρακάτω κώδικας δείχνει την υποστήριξη της υποστήριξης νέων ιδιοτήτων ITextStyle.
+Ο παρακάτω κώδικας δείχνει την υποστήριξη των νέων ιδιοτήτων ITextStyle.
 
 ```csharp
 [C#]
@@ -71,7 +72,7 @@ using (var srcImage = (PsdImage)Image.Load(srcFile))
 ### Δείτε επίσης
 
 * interface [ITextStyle](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.Text](../../itextstyle/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.Text](../../../aspose.psd.fileformats.psd.layers.text/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: PattResourceData.Save
-second_title: Aspose.PSD για Αναφορά API .NET
-description: PattResourceData μέθοδος. Αποθηκεύει τα δεδομένα του μοτίβου.
+title: "PattResourceData.Save"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Μέθοδος PattResourceData. Αποθηκεύει τα δεδομένα του μοτίβου"
 type: docs
 weight: 100
 url: /el/net/aspose.psd.fileformats.psd.layers.layerresources/pattresourcedata/save/
 ---
+{{< psd/tize >}}
 ## PattResourceData.Save method
 
 Αποθηκεύει τα δεδομένα του μοτίβου.
@@ -16,13 +17,13 @@ public void Save(StreamContainer streamContainer)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| streamContainer | StreamContainer | Το κοντέινερ ροής για αποθήκευση. |
+| streamContainer | StreamContainer | Το stream container για αποθήκευση. |
 
 ### Δείτε επίσης
 
 * class [StreamContainer](../../../aspose.psd/streamcontainer/)
 * class [PattResourceData](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../pattresourcedata/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

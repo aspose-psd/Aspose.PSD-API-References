@@ -1,27 +1,28 @@
 ---
-title: CurveShape.Tension
-second_title: Aspose.PSD για Αναφορά API .NET
-description: CurveShape ιδιοκτησία. Λαμβάνει ή ρυθμίζει την τάση της καμπύλης.
+title: "CurveShape.Tension"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα CurveShape. Λαμβάνει ή ορίζει την ένταση της καμπύλης"
 type: docs
 weight: 50
 url: /el/net/aspose.psd.shapes/curveshape/tension/
 ---
+{{< psd/tize >}}
 ## CurveShape.Tension property
 
-Λαμβάνει ή ρυθμίζει την τάση της καμπύλης.
+Λαμβάνει ή ορίζει την τάση της καμπύλης.
 
 ```csharp
 public float Tension { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Η τάση της καμπύλης.
+Η ένταση της καμπύλης.
 
 ### Δείτε επίσης
 
 * class [CurveShape](../)
-* χώρος ονομάτων [Aspose.PSD.Shapes](../../curveshape/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 

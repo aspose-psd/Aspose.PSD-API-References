@@ -1,28 +1,29 @@
 ---
-title: CustomLineCap.FillPath
-second_title: Aspose.PSD για Αναφορά API .NET
-description: CustomLineCap ιδιοκτησία. Λαμβάνει ή ορίζει το αντικείμενο που ορίζει το γέμισμα για το προσαρμοσμένο όριο.
+title: "CustomLineCap.FillPath"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα CustomLineCap. Αποκτά ή ορίζει το αντικείμενο που καθορίζει το γέμισμα για το προσαρμοσμένο άκρο"
 type: docs
 weight: 40
 url: /el/net/aspose.psd/customlinecap/fillpath/
 ---
+{{< psd/tize >}}
 ## CustomLineCap.FillPath property
 
-Λαμβάνει ή ορίζει το αντικείμενο που ορίζει το γέμισμα για το προσαρμοσμένο όριο.
+Ανακτά ή ορίζει το αντικείμενο που ορίζει το γέμισμα για την προσαρμοσμένη άκρη.
 
 ```csharp
 public GraphicsPath FillPath { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Το αντικείμενο που ορίζει το γέμισμα για το προσαρμοσμένο όριο.
+Το αντικείμενο που καθορίζει το γέμισμα για το προσαρμοσμένο άκρο.
 
 ### Δείτε επίσης
 
 * class [GraphicsPath](../../graphicspath/)
 * class [CustomLineCap](../)
-* χώρος ονομάτων [Aspose.PSD](../../customlinecap/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

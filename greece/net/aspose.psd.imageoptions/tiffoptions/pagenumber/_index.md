@@ -1,11 +1,12 @@
 ---
-title: TiffOptions.PageNumber
-second_title: Aspose.PSD για Αναφορά API .NET
-description: TiffOptions ιδιοκτησία. Λαμβάνει ή ορίζει την ετικέτα αριθμού σελίδας.
+title: "TiffOptions.PageNumber"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα TiffOptions. Λαμβάνει ή ορίζει την ετικέτα αριθμού σελίδας."
 type: docs
-weight: 300
+weight: 310
 url: /el/net/aspose.psd.imageoptions/tiffoptions/pagenumber/
 ---
+{{< psd/tize >}}
 ## TiffOptions.PageNumber property
 
 Λαμβάνει ή ορίζει την ετικέτα αριθμού σελίδας.
@@ -14,21 +15,21 @@ url: /el/net/aspose.psd.imageoptions/tiffoptions/pagenumber/
 public ushort[] PageNumber { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
 Η ετικέτα αριθμού σελίδας.
 
 ### Εξαιρέσεις
 
-| εξαίρεση | κατάσταση |
+| εξαίρεση | συνθήκη |
 | --- | --- |
-| ArgumentNullException | αξία |
+| ArgumentNullException | τιμή |
 | ArgumentOutOfRangeException | value;Αναμενόμενες 2 τιμές στον πίνακα: PageNumber[0] είναι ο αριθμός σελίδας και PageNumber[1] είναι ο συνολικός αριθμός σελίδων στο έγγραφο. |
 
 ### Δείτε επίσης
 
 * class [TiffOptions](../)
-* χώρος ονομάτων [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

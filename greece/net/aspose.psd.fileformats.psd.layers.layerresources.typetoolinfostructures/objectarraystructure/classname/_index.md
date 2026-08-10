@@ -1,27 +1,28 @@
 ---
-title: ObjectArrayStructure.ClassName
-second_title: Aspose.PSD για Αναφορά API .NET
-description: ObjectArrayStructure ιδιοκτησία. Λαμβάνει ή ορίζει το όνομα της κλάσης του πίνακα αντικειμένων.
+title: "ObjectArrayStructure.ClassName"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "ObjectArrayStructure ιδιότητα. Λαμβάνει ή ορίζει το όνομα κλάσης του πίνακα αντικειμένων"
 type: docs
 weight: 30
 url: /el/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/objectarraystructure/classname/
 ---
+{{< psd/tize >}}
 ## ObjectArrayStructure.ClassName property
 
-Λαμβάνει ή ορίζει το όνομα της κλάσης του πίνακα αντικειμένων.
+Λαμβάνει ή ορίζει το όνομα της κλάσης πίνακα αντικειμένων.
 
 ```csharp
 public string ClassName { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Το όνομα της κλάσης του πίνακα αντικειμένων.
+Το όνομα κλάσης του πίνακα αντικειμένων.
 
 ### Δείτε επίσης
 
 * class [ObjectArrayStructure](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../objectarraystructure/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 

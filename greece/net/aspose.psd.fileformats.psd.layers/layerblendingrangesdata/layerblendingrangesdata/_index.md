@@ -1,11 +1,12 @@
 ---
-title: LayerBlendingRangesData.LayerBlendingRangesData
-second_title: Aspose.PSD για Αναφορά API .NET
-description: LayerBlendingRangesData κατασκευαστής. Ο προεπιλεγμένος κατασκευαστής.
+title: "LayerBlendingRangesData.LayerBlendingRangesData"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "LayerBlendingRangesData κατασκευαστής. Ο προεπιλεγμένος κατασκευαστής"
 type: docs
 weight: 10
 url: /el/net/aspose.psd.fileformats.psd.layers/layerblendingrangesdata/layerblendingrangesdata/
 ---
+{{< psd/tize >}}
 ## LayerBlendingRangesData constructor
 
 Ο προεπιλεγμένος κατασκευαστής.
@@ -17,7 +18,7 @@ public LayerBlendingRangesData()
 ### Δείτε επίσης
 
 * class [LayerBlendingRangesData](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers](../../layerblendingrangesdata/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

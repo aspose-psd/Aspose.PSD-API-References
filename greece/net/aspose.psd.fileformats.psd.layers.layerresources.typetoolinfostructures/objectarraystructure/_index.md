@@ -1,14 +1,15 @@
 ---
-title: Class ObjectArrayStructure
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures.ObjectArrayStructure τάξη. Καθορίζει την κλάση ObjectArrayStructure που συνήθως ισχύειUnitArrayStructure array. Χρησιμοποιείται στους πόρους αρχείων PSD όπως το PlLd Resource και το SoLd Resource.
+title: "Κλάση ObjectArrayStructure"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures.ObjectArrayStructure class. Ορίζει την κλάση ObjectArrayStructure που συνήθως περιέχει πίνακα UnitArrayStructure. Χρησιμοποιείται στους πόρους αρχείων PSD όπως οι Πόροι PlLd και SoLd."
 type: docs
-weight: 3200
+weight: 3590
 url: /el/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/objectarraystructure/
 ---
+{{< psd/tize >}}
 ## ObjectArrayStructure class
 
-Καθορίζει την κλάση ObjectArrayStructure που συνήθως ισχύει[`UnitArrayStructure`](../unitarraystructure/) array. Χρησιμοποιείται στους πόρους αρχείων PSD, όπως το PlLd Resource και το SoLd Resource.
+Ορίζει την κλάση ObjectArrayStructure που συνήθως περιέχει πίνακα [`UnitArrayStructure`](../unitarraystructure/). Χρησιμοποιείται στους πόρους αρχείων PSD, όπως οι Πόροι PlLd και SoLd.
 
 ```csharp
 public sealed class ObjectArrayStructure : OSTypeStructure
@@ -16,26 +17,26 @@ public sealed class ObjectArrayStructure : OSTypeStructure
 
 ## Κατασκευαστές
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
-| [ObjectArrayStructure](objectarraystructure/#constructor_1)(string, string, OSTypeStructure[]) | Αρχικοποιεί μια νέα παρουσία του`ObjectArrayStructure` τάξη. |
-| [ObjectArrayStructure](objectarraystructure/#constructor)(int, ClassID, ClassID, string, OSTypeStructure[]) | Αρχικοποιεί μια νέα παρουσία του`ObjectArrayStructure` τάξη. |
+| [ObjectArrayStructure](objectarraystructure/#constructor_1)(string, string, OSTypeStructure[]) | Αρχικοποιεί ένα νέο παράδειγμα της κλάσης `ObjectArrayStructure`. |
+| [ObjectArrayStructure](objectarraystructure/#constructor)(int, ClassID, ClassID, string, OSTypeStructure[]) | Αρχικοποιεί ένα νέο παράδειγμα της κλάσης `ObjectArrayStructure`. |
 
 ## Ιδιότητες
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
-| [ClassID](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/objectarraystructure/classid/) { get; set; } | Λαμβάνει ή ορίζει το αναγνωριστικό κλάσης του πίνακα αντικειμένων. |
-| [ClassName](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/objectarraystructure/classname/) { get; set; } | Λαμβάνει ή ορίζει το όνομα της κλάσης του πίνακα αντικειμένων. |
-| override [Key](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/objectarraystructure/key/) { get; } | Λαμβάνει το κλειδί δομής πίνακα αντικειμένων. |
+| [ClassID](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/objectarraystructure/classid/) { get; set; } | Λαμβάνει ή ορίζει το αναγνωριστικό (ID) της κλάσης πίνακα αντικειμένων. |
+| [ClassName](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/objectarraystructure/classname/) { get; set; } | Λαμβάνει ή ορίζει το όνομα της κλάσης πίνακα αντικειμένων. |
+| override [Key](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/objectarraystructure/key/) { get; } | Λαμβάνει το κλειδί δομής του πίνακα αντικειμένων. |
 | [KeyName](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/keyname/) { get; set; } | Λαμβάνει ή ορίζει το όνομα του κλειδιού. |
-| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/objectarraystructure/length/) { get; } | Λαμβάνει το[`OSTypeStructure`](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/) μήκος σε byte. |
-| [StructureCount](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/objectarraystructure/structurecount/) { get; } | Λαμβάνει τον αριθμό υποδομής του πίνακα αντικειμένων. |
-| [Structures](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/objectarraystructure/structures/) { get; set; } | Λαμβάνει ή ορίζει ένα αντίγραφο μιας σειράς δομών. |
+| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/objectarraystructure/length/) { get; } | Λαμβάνει το μήκος του [`OSTypeStructure`](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/) σε bytes. |
+| [StructureCount](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/objectarraystructure/structurecount/) { get; } | Λαμβάνει τον αριθμό υποδομών του πίνακα αντικειμένων. |
+| [Structures](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/objectarraystructure/structures/) { get; set; } | Λαμβάνει ή ορίζει ένα αντίγραφο ενός πίνακα δομών. |
 
 ## Μέθοδοι
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
 | virtual [GetHeaderLength](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/getheaderlength/)() | Λαμβάνει το μήκος της κεφαλίδας. |
 | [Save](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/save/)(StreamContainer) | Αποθηκεύει τη δομή στο καθορισμένο κοντέινερ ροής. |
@@ -43,11 +44,11 @@ public sealed class ObjectArrayStructure : OSTypeStructure
 
 ## Πεδία
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
-| const [StructureKey](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/objectarraystructure/structurekey/) | Προσδιορίζει το κλειδί δομής "ObAr". |
+| const [StructureKey](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/objectarraystructure/structurekey/) | Αναγνωρίζει το κλειδί δομής 'ObAr'. |
 
-### Παραδείγματα
+## Παραδείγματα
 
 Ο παρακάτω κώδικας δείχνει την υποστήριξη των υπογραφών ObAr και UnFl.
 
@@ -104,7 +105,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
 ### Δείτε επίσης
 
 * class [OSTypeStructure](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
-* συνέλευση [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../)
 
 

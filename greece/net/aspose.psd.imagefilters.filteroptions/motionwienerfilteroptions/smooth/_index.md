@@ -1,27 +1,28 @@
 ---
-title: MotionWienerFilterOptions.Smooth
-second_title: Aspose.PSD για Αναφορά API .NET
-description: MotionWienerFilterOptions ιδιοκτησία. Παίρνει ή ρυθμίζει την ομαλή.
+title: "MotionWienerFilterOptions.Smooth"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα MotionWienerFilterOptions. Λαμβάνει ή ορίζει την εξομάλυνση"
 type: docs
 weight: 40
 url: /el/net/aspose.psd.imagefilters.filteroptions/motionwienerfilteroptions/smooth/
 ---
+{{< psd/tize >}}
 ## MotionWienerFilterOptions.Smooth property
 
-Παίρνει ή ρυθμίζει την ομαλή.
+Λαμβάνει ή ορίζει το ομαλό.
 
 ```csharp
 public double Smooth { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Η λεία.
+Η εξομάλυνση.
 
 ### Δείτε επίσης
 
 * class [MotionWienerFilterOptions](../)
-* χώρος ονομάτων [Aspose.PSD.ImageFilters.FilterOptions](../../motionwienerfilteroptions/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageFilters.FilterOptions](../../../aspose.psd.imagefilters.filteroptions/)
+* assembly [Aspose.PSD](../../../)
 
 

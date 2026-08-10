@@ -1,14 +1,15 @@
 ---
-title: Namespaces.XmpTypeResourceEvent
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Namespaces πεδίο. XMP ResourceEvent URI.
+title: "Namespaces.XmpTypeResourceEvent"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Πεδίο Namespaces. URI του XMP ResourceEvent"
 type: docs
 weight: 140
 url: /el/net/aspose.psd.xmp/namespaces/xmptyperesourceevent/
 ---
+{{< psd/tize >}}
 ## Namespaces.XmpTypeResourceEvent field
 
-XMP ResourceEvent URI.
+URI XMP ResourceEvent.
 
 ```csharp
 public const string XmpTypeResourceEvent;
@@ -17,7 +18,7 @@ public const string XmpTypeResourceEvent;
 ### Δείτε επίσης
 
 * class [Namespaces](../)
-* χώρος ονομάτων [Aspose.PSD.Xmp](../../namespaces/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

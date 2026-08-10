@@ -1,26 +1,27 @@
 ---
-title: AiLayerSection.IsPrinted
-second_title: Aspose.PSD για Αναφορά API .NET
-description: AiLayerSection ιδιοκτησία. Λαμβάνει ή ορίζει μια τιμή που υποδεικνύει εάν αυτό το επίπεδο έχει εκτυπωθεί. Κάνει το έργο τέχνης που περιέχεται στο επίπεδο εκτυπώσιμο εάν είναι αληθές.
+title: "AiLayerSection.IsPrinted"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα AiLayerSection. Λαμβάνει ή ορίζει μια τιμή που υποδεικνύει εάν αυτό το στρώμα είναι εκτυπωμένο. Καθιστά το έργο που περιέχεται στο στρώμα εκτυπώσιμο εάν είναι αληθές."
 type: docs
-weight: 80
+weight: 100
 url: /el/net/aspose.psd.fileformats.ai/ailayersection/isprinted/
 ---
+{{< psd/tize >}}
 ## AiLayerSection.IsPrinted property
 
-Λαμβάνει ή ορίζει μια τιμή που υποδεικνύει εάν αυτό το επίπεδο έχει εκτυπωθεί. Κάνει το έργο τέχνης που περιέχεται στο επίπεδο εκτυπώσιμο εάν είναι αληθές.
+Λαμβάνει ή ορίζει μια τιμή που υποδεικνύει εάν αυτό το στρώμα εκτυπώνεται. Καθιστά το έργο τέχνης που περιέχεται στο στρώμα εκτυπώσιμο αν είναι αληθές.
 
 ```csharp
 public bool IsPrinted { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-`αληθής` εάν αυτό το στρώμα είναι τυπωμένο? σε διαφορετική περίπτωση,`ψευδής` .
+`true` εάν αυτό το στρώμα είναι εκτυπωμένο· διαφορετικά, `false`.
 
-### Παραδείγματα
+## Παραδείγματα
 
-Το ακόλουθο παράδειγμα δείχνει την υποστήριξη επιπέδων σε αρχεία μορφής AI.
+Το παρακάτω παράδειγμα δείχνει την υποστήριξη των στρωμάτων σε αρχεία μορφής AI.
 
 ```csharp
 [C#]
@@ -73,7 +74,7 @@ using (AiImage image = (AiImage)Image.Load(sourceFilePath))
 ### Δείτε επίσης
 
 * class [AiLayerSection](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Ai](../../ailayersection/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

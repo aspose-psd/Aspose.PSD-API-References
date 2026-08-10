@@ -1,11 +1,12 @@
 ---
-title: Interface IImageExporter
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Aspose.PSD.IImageExporter διεπαφή. Ο εξαγωγέας εικόνας. Μπορεί να εξάγει δεδομένα από την εσωτερική μορφή Aspose.PSD σε μια καθορισμένη μορφή δεδομένων.
+title: "Διεπαφή IImageExporter"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Διεπαφή Aspose.PSD.IImageExporter. Ο εξαγωγέας εικόνας. Μπορεί να εξάγει δεδομένα από την εσωτερική μορφή Aspose.PSD σε μια καθορισμένη μορφή δεδομένων"
 type: docs
-weight: 4430
+weight: 4900
 url: /el/net/aspose.psd/iimageexporter/
 ---
+{{< psd/tize >}}
 ## IImageExporter interface
 
 Ο εξαγωγέας εικόνας. Μπορεί να εξάγει δεδομένα από την εσωτερική μορφή Aspose.PSD σε μια καθορισμένη μορφή δεδομένων.
@@ -16,14 +17,14 @@ public interface IImageExporter
 
 ## Μέθοδοι
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
 | [Export](../../aspose.psd/iimageexporter/export/#export)(Image, Stream, ImageOptionsBase) | Εξάγει τα καθορισμένα δεδομένα εικόνας σε καθορισμένη μορφή δεδομένων. |
 | [Export](../../aspose.psd/iimageexporter/export/#export_1)(Image, Stream, ImageOptionsBase, Rectangle) | Εξάγει τα καθορισμένα δεδομένα εικόνας σε καθορισμένη μορφή δεδομένων. |
 
 ### Δείτε επίσης
 
-* χώρος ονομάτων [Aspose.PSD](../../aspose.psd/)
-* συνέλευση [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

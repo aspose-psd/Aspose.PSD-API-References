@@ -1,14 +1,15 @@
 ---
-title: TiffOptions.TiffOptions
-second_title: Aspose.PSD για Αναφορά API .NET
-description: TiffOptions κατασκευαστής. Αρχικοποιεί μια νέα παρουσία τουTiffOptions τάξη.
+title: "TiffOptions.TiffOptions"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Κατασκευαστής TiffOptions. Αρχικοποιεί ένα νέο αντικείμενο της κλάσης TiffOptions"
 type: docs
 weight: 10
 url: /el/net/aspose.psd.imageoptions/tiffoptions/tiffoptions/
 ---
+{{< psd/tize >}}
 ## TiffOptions(TiffExpectedFormat, TiffByteOrder) {#constructor_1}
 
-Αρχικοποιεί μια νέα παρουσία του[`TiffOptions`](../) τάξη.
+Αρχικοποιεί ένα νέο αντικείμενο της κλάσης [`TiffOptions`](../).
 
 ```csharp
 public TiffOptions(TiffExpectedFormat expectedFormat, TiffByteOrder byteOrder)
@@ -17,21 +18,21 @@ public TiffOptions(TiffExpectedFormat expectedFormat, TiffByteOrder byteOrder)
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
 | expectedFormat | TiffExpectedFormat | Η αναμενόμενη μορφή αρχείου tiff. |
-| byteOrder | TiffByteOrder | Η σειρά byte της μορφής αρχείου tiff προς χρήση. |
+| byteOrder | TiffByteOrder | Η σειρά byte της μορφής αρχείου tiff που θα χρησιμοποιηθεί. |
 
 ### Δείτε επίσης
 
 * enum [TiffExpectedFormat](../../../aspose.psd.fileformats.tiff.enums/tiffexpectedformat/)
 * enum [TiffByteOrder](../../../aspose.psd.fileformats.tiff.enums/tiffbyteorder/)
 * class [TiffOptions](../)
-* χώρος ονομάτων [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## TiffOptions(TiffExpectedFormat) {#constructor}
 
-Αρχικοποιεί μια νέα παρουσία του[`TiffOptions`](../) τάξη. Από προεπιλογή χρησιμοποιείται μικρή σύμβαση endian.
+Αρχικοποιεί ένα νέο αντικείμενο της κλάσης [`TiffOptions`](../). Από προεπιλογή χρησιμοποιείται η σύμβαση μικρού τελειοσειράς (little endian).
 
 ```csharp
 public TiffOptions(TiffExpectedFormat expectedFormat)
@@ -45,14 +46,14 @@ public TiffOptions(TiffExpectedFormat expectedFormat)
 
 * enum [TiffExpectedFormat](../../../aspose.psd.fileformats.tiff.enums/tiffexpectedformat/)
 * class [TiffOptions](../)
-* χώρος ονομάτων [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## TiffOptions(TiffOptions) {#constructor_3}
 
-Αρχικοποιεί μια νέα παρουσία του[`TiffOptions`](../) τάξη.
+Αρχικοποιεί ένα νέο αντικείμενο της κλάσης [`TiffOptions`](../).
 
 ```csharp
 public TiffOptions(TiffOptions options)
@@ -60,19 +61,19 @@ public TiffOptions(TiffOptions options)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| options | TiffOptions | Οι επιλογές για αντιγραφή. |
+| επιλογές | TiffOptions | Οι επιλογές για αντιγραφή από. |
 
 ### Δείτε επίσης
 
 * class [TiffOptions](../)
-* χώρος ονομάτων [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## TiffOptions(TiffDataType[]) {#constructor_2}
 
-Αρχικοποιεί μια νέα παρουσία του[`TiffOptions`](../) τάξη.
+Αρχικοποιεί ένα νέο αντικείμενο της κλάσης [`TiffOptions`](../).
 
 ```csharp
 public TiffOptions(TiffDataType[] tags)
@@ -80,13 +81,13 @@ public TiffOptions(TiffDataType[] tags)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| tags | TiffDataType[] | Οι ετικέτες με τις οποίες θα αρχικοποιηθούν οι επιλογές. |
+| ετικέτες | TiffDataType[] | Οι ετικέτες για την αρχικοποίηση των επιλογών. |
 
 ### Δείτε επίσης
 
 * class [TiffDataType](../../../aspose.psd.fileformats.tiff/tiffdatatype/)
 * class [TiffOptions](../)
-* χώρος ονομάτων [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

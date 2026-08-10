@@ -1,14 +1,15 @@
 ---
-title: FileStreamContainer.OpenFileStream
-second_title: Aspose.PSD για Αναφορά API .NET
-description: FileStreamContainer μέθοδος. Ανοίγει μια υπάρχουσα ροή αρχείων. Εάν η ροή αρχείου δεν υπάρχει δημιουργείται η κατάλληλη εξαίρεση.
+title: "FileStreamContainer.OpenFileStream"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Μέθοδος FileStreamContainer. Ανοίγει μια υπάρχουσα ροή αρχείου. Εάν η ροή αρχείου δεν υπάρχει, θα εξαχθεί η κατάλληλη εξαίρεση."
 type: docs
 weight: 20
 url: /el/net/aspose.psd/filestreamcontainer/openfilestream/
 ---
+{{< psd/tize >}}
 ## FileStreamContainer.OpenFileStream method
 
-Ανοίγει μια υπάρχουσα ροή αρχείων. Εάν η ροή αρχείου δεν υπάρχει, δημιουργείται η κατάλληλη εξαίρεση.
+Ανοίγει μια υπάρχουσα ροή αρχείου. Εάν η ροή αρχείου δεν υπάρχει, η κατάλληλη εξαίρεση ρίχνεται.
 
 ```csharp
 public static FileStreamContainer OpenFileStream(string fileLocation)
@@ -18,14 +19,14 @@ public static FileStreamContainer OpenFileStream(string fileLocation)
 | --- | --- | --- |
 | fileLocation | String | Η θέση του αρχείου. |
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-Το κοντέινερ ροής αρχείων.
+Το δοχείο ροής αρχείου.
 
 ### Δείτε επίσης
 
 * class [FileStreamContainer](../)
-* χώρος ονομάτων [Aspose.PSD](../../filestreamcontainer/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

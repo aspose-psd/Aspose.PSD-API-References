@@ -1,14 +1,15 @@
 ---
-title: ImageAttributes.ClearBrushRemapTable
-second_title: Aspose.PSD για Αναφορά API .NET
-description: ImageAttributes μέθοδος. Καθαρίζει τον πίνακα χρωματικής αντιστοίχισης πινέλου από αυτόImageAttributes αντικείμενο.
+title: "ImageAttributes.ClearBrushRemapTable"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Μέθοδος ImageAttributes. Αφαιρεί τον πίνακα χρωματικής αντιστοίχισης πινέλου αυτού του αντικειμένου ImageAttributes."
 type: docs
 weight: 20
 url: /el/net/aspose.psd/imageattributes/clearbrushremaptable/
 ---
+{{< psd/tize >}}
 ## ImageAttributes.ClearBrushRemapTable method
 
-Καθαρίζει τον πίνακα χρωματικής αντιστοίχισης πινέλου από αυτό[`ImageAttributes`](../) αντικείμενο.
+Αφαιρεί τον πίνακα χρωματικής αντιστοίχισης πινέλου αυτού του αντικειμένου [`ImageAttributes`](../).
 
 ```csharp
 public void ClearBrushRemapTable()
@@ -17,7 +18,7 @@ public void ClearBrushRemapTable()
 ### Δείτε επίσης
 
 * class [ImageAttributes](../)
-* χώρος ονομάτων [Aspose.PSD](../../imageattributes/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

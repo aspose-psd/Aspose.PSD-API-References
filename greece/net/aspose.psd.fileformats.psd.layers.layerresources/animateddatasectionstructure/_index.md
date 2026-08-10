@@ -1,11 +1,12 @@
 ---
-title: Class AnimatedDataSectionStructure
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.AnimatedDataSectionStructure τάξη. Η ενότητα με κινούμενα δεδομένα.
+title: "Κλάση AnimatedDataSectionStructure"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Κλάση Aspose.PSD.FileFormats.Psd.Layers.LayerResources.AnimatedDataSectionStructure. Η ενότητα με κινούμενα δεδομένα."
 type: docs
-weight: 2300
+weight: 2510
 url: /el/net/aspose.psd.fileformats.psd.layers.layerresources/animateddatasectionstructure/
 ---
+{{< psd/tize >}}
 ## AnimatedDataSectionStructure class
 
 Η ενότητα με κινούμενα δεδομένα.
@@ -16,16 +17,16 @@ public class AnimatedDataSectionStructure : OSTypeStructure
 
 ## Ιδιότητες
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
 | [Items](../../aspose.psd.fileformats.psd.layers.layerresources/animateddatasectionstructure/items/) { get; } | Λαμβάνει ή ορίζει τις δομές της ενότητας κινούμενων δεδομένων. |
-| override [Key](../../aspose.psd.fileformats.psd.layers.layerresources/animateddatasectionstructure/key/) { get; } | Λαμβάνει το κλειδί δομής. |
+| override [Key](../../aspose.psd.fileformats.psd.layers.layerresources/animateddatasectionstructure/key/) { get; } | Λαμβάνει το κλειδί της δομής. |
 | [KeyName](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/keyname/) { get; set; } | Λαμβάνει ή ορίζει το όνομα του κλειδιού. |
-| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/animateddatasectionstructure/length/) { get; } | Λαμβάνει το[`OSTypeStructure`](../ostypestructure/) μήκος σε byte. |
+| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/animateddatasectionstructure/length/) { get; } | Λαμβάνει το μήκος σε bytes του [`OSTypeStructure`](../ostypestructure/). |
 
 ## Μέθοδοι
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
 | virtual [GetHeaderLength](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/getheaderlength/)() | Λαμβάνει το μήκος της κεφαλίδας. |
 | [Save](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/save/)(StreamContainer) | Αποθηκεύει τη δομή στο καθορισμένο κοντέινερ ροής. |
@@ -33,13 +34,13 @@ public class AnimatedDataSectionStructure : OSTypeStructure
 
 ## Πεδία
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
-| const [StructureKey](../../aspose.psd.fileformats.psd.layers.layerresources/animateddatasectionstructure/structurekey/) | Προσδιορίζει το κλειδί δομής των AnD. |
+| const [StructureKey](../../aspose.psd.fileformats.psd.layers.layerresources/animateddatasectionstructure/structurekey/) | Αναγνωρίζει το κλειδί δομής του AnDs. |
 
-### Παραδείγματα
+## Παραδείγματα
 
-Ο παρακάτω κώδικας δείχνει τον τρόπο ρύθμισης/ενημέρωσης του χρόνου καθυστέρησης στο πλαίσιο της γραμμής χρόνου των κινούμενων δεδομένων.
+Ο παρακάτω κώδικας δείχνει πώς να ορίσετε/ενημερώσετε τον χρόνο καθυστέρησης στο πλαίσιο της χρονογραμμής των κινητών δεδομένων.
 
 ```csharp
 [C#]
@@ -91,9 +92,9 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFile))
 
             var frame1 = (DescriptorStructure)framesList.Types[1];
 
-            // Δημιουργεί την εγγραφή καθυστέρησης καρέ με τιμή 100 centi-second που ισούται με 1 δευτερόλεπτο.
+            // Δημιουργεί την εγγραφή καθυστέρησης πλαισίου με τιμή 100 εκατοδευτερόλεπτα, που ισούται με 1 δευτερόλεπτο.
             var frameDelay = new IntegerStructure(new ClassID("FrDl"));
-            frameDelay.Value = 100; // ορισμός χρόνου σε εκατοστά του δευτερολέπτου.
+            frameDelay.Value = 100; // set time in centi-seconds.
 
             frame1.Structures = AddOrReplaceStructure(frame1.Structures, frameDelay);
 
@@ -108,7 +109,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFile))
 ### Δείτε επίσης
 
 * class [OSTypeStructure](../ostypestructure/)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
-* συνέλευση [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../)
 
 

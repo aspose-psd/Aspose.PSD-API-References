@@ -1,14 +1,15 @@
 ---
-title: Class VectorPathRecord
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Aspose.PSD.FileFormats.Core.VectorPaths.VectorPathRecord τάξη. Vector Path Record Class
+title: "Κλάση VectorPathRecord"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Κλάση Aspose.PSD.FileFormats.Core.VectorPaths.VectorPathRecord. Κλάση εγγραφής διανυσματικής διαδρομής"
 type: docs
-weight: 1400
+weight: 1410
 url: /el/net/aspose.psd.fileformats.core.vectorpaths/vectorpathrecord/
 ---
+{{< psd/tize >}}
 ## VectorPathRecord class
 
-Vector Path Record Class
+Κλάση Vector Path Record
 
 ```csharp
 public abstract class VectorPathRecord
@@ -16,13 +17,13 @@ public abstract class VectorPathRecord
 
 ## Ιδιότητες
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
-| abstract [Type](../../aspose.psd.fileformats.core.vectorpaths/vectorpathrecord/type/) { get; } | Παίρνει τον τύπο. |
+| abstract [Type](../../aspose.psd.fileformats.core.vectorpaths/vectorpathrecord/type/) { get; } | Λαμβάνει τον τύπο. |
 
 ### Δείτε επίσης
 
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Core.VectorPaths](../../aspose.psd.fileformats.core.vectorpaths/)
-* συνέλευση [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../)
 
 

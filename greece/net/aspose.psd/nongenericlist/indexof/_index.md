@@ -1,14 +1,15 @@
 ---
-title: NonGenericList.IndexOf
-second_title: Aspose.PSD για Αναφορά API .NET
-description: NonGenericList μέθοδος. Καθορίζει το ευρετήριο ενός συγκεκριμένου στοιχείου στοIList .
+title: "NonGenericList.IndexOf"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "NonGenericList μέθοδος. Καθορίζει τον δείκτη ενός συγκεκριμένου στοιχείου στη IList"
 type: docs
 weight: 130
 url: /el/net/aspose.psd/nongenericlist/indexof/
 ---
+{{< psd/tize >}}
 ## NonGenericList.IndexOf method
 
-Καθορίζει το ευρετήριο ενός συγκεκριμένου στοιχείου στοIList .
+Καθορίζει τον δείκτη ενός συγκεκριμένου στοιχείου στο IList.
 
 ```csharp
 public int IndexOf(object value)
@@ -16,16 +17,16 @@ public int IndexOf(object value)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| value | Object | οObjectγια να εντοπίσετε στοIList. |
+| τιμή | Object | Το αντικείμενο προς εντοπισμό στη IList. |
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-Ο δείκτης του*value* αν βρεθεί στη λίστα? διαφορετικά, -1.
+Ο δείκτης του *value* αν βρεθεί στη λίστα· διαφορετικά, -1.
 
 ### Δείτε επίσης
 
 * class [NonGenericList](../)
-* χώρος ονομάτων [Aspose.PSD](../../nongenericlist/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

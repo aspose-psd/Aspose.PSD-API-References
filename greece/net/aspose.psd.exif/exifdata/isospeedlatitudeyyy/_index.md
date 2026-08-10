@@ -1,31 +1,32 @@
 ---
-title: ExifData.ISOSpeedLatitudeYYY
-second_title: Aspose.PSD για Αναφορά API .NET
-description: ExifData ιδιοκτησία. Λαμβάνει ή ορίζει την τιμή γεωγραφικού πλάτους εεε ταχύτητας ISO μιας κάμερας ή συσκευής εισόδου που ορίζεται στο ISO 12232.
+title: "ExifData.ISOSpeedLatitudeYYY"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα ExifData. Λαμβάνει ή ορίζει την τιμή ISO ταχύτητας latitude yyy μιας κάμερας ή συσκευής εισόδου που ορίζεται στο ISO 12232"
 type: docs
 weight: 710
 url: /el/net/aspose.psd.exif/exifdata/isospeedlatitudeyyy/
 ---
+{{< psd/tize >}}
 ## ExifData.ISOSpeedLatitudeYYY property
 
-Λαμβάνει ή ορίζει την τιμή γεωγραφικού πλάτους εεε ταχύτητας ISO μιας κάμερας ή συσκευής εισόδου που ορίζεται στο ISO 12232.
+Λαμβάνει ή ορίζει την τιμή latitude yyy της ταχύτητας ISO μιας κάμερας ή συσκευής εισόδου που ορίζεται στο ISO 12232.
 
 ```csharp
 public uint ISOSpeedLatitudeYYY { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Η τιμή γεωγραφικού πλάτους εεε ταχύτητας ISO μιας κάμερας ή συσκευής εισόδου που ορίζεται στο ISO 12232.
+Η τιμή ISO ταχύτητας latitude yyy μιας κάμερας ή συσκευής εισόδου που ορίζεται στο ISO 12232.
 
-### Παρατηρήσεις
+## Σχόλια
 
-Αυτή η ετικέτα δεν θα καταγράφεται χωρίς ISOSpeed και ISOSpeedLatitudezzz
+Αυτή η ετικέτα δεν πρέπει να καταγραφεί χωρίς το ISOSpeed και το ISOSpeedLatitudezzz
 
 ### Δείτε επίσης
 
 * class [ExifData](../)
-* χώρος ονομάτων [Aspose.PSD.Exif](../../exifdata/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,22 +1,23 @@
 ---
-title: Lnk3Resource.Key
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Lnk3Resource ιδιοκτησία. Λαμβάνει το κλειδί πόρων επιπέδου.
+title: "Lnk3Resource.Key"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα Lnk3Resource. Επιστρέφει το κλειδί πόρου στρώσης"
 type: docs
 weight: 20
 url: /el/net/aspose.psd.fileformats.psd.layers.layerresources/lnk3resource/key/
 ---
+{{< psd/tize >}}
 ## Lnk3Resource.Key property
 
-Λαμβάνει το κλειδί πόρων επιπέδου.
+Λαμβάνει το κλειδί πόρου του επιπέδου.
 
 ```csharp
 public override int Key { get; }
 ```
 
-### Παραδείγματα
+## Παραδείγματα
 
-Αυτό το παράδειγμα δείχνει πώς να αποκτήσετε και να ορίσετε ιδιότητες των Lnk2Resource και Lnk3Resource.
+Αυτό το παράδειγμα δείχνει πώς να ανακτήσετε και να ορίσετε ιδιότητες του Lnk2Resource και του Lnk3Resource.
 
 ```csharp
 [C#]
@@ -134,7 +135,7 @@ byte[] LoadNewData(string fileName)
     }
 }
 
-// Λαμβάνει και ορίζει ιδιότητες του πόρου PSD Lnk2 / Lnk3 και των πηγών δεδομένων του liFD στην εικόνα PSD
+// Ανακτά και ορίζει ιδιότητες του πόρου PSD Lnk2 / Lnk3 και των πηγών δεδομένων liFD του σε εικόνα PSD.
 void ExampleOfLnk2ResourceSupport(
     string fileName,
     int dataSourceCount,
@@ -196,27 +197,27 @@ void ExampleOfLnk2ResourceSupport(
         }
 
         AssertAreEqual(true, lnk2Resource != null);
-        if (image.BitsPerChannel < 32) // Η αποθήκευση 32 bit ανά κανάλι δεν υποστηρίζεται ακόμη
+        if (image.BitsPerChannel < 32) // 32 bit per channel saving is not supported yet
         {
             image.Save(basePath + Output + fileName, new PsdOptions(image));
         }
     }
 }
 
-// Αυτό το παράδειγμα δείχνει πώς να αποκτήσετε και να ορίσετε ιδιότητες του πόρου PSD Lnk2 και των πηγών δεδομένων του liFD για 8 bit ανά κανάλι.
+// Αυτό το παράδειγμα δείχνει πώς να ανακτήσετε και να ορίσετε ιδιότητες του πόρου PSD Lnk2 και των πηγών δεδομένων liFD του για 8 bit ανά κανάλι.
 ExampleOfLnk2ResourceSupport("rgb8_2x2_embedded_png.psd", 1, 0x12C, 0x0000079c, Lnk2ResourceSupportCases);
 
-// Αυτό το παράδειγμα δείχνει πώς να αποκτήσετε και να ορίσετε ιδιότητες του πόρου PSD Lnk3 και των πηγών δεδομένων του liFD για 32 bit ανά κανάλι.
+// Αυτό το παράδειγμα δείχνει πώς να ανακτήσετε και να ορίσετε ιδιότητες του πόρου PSD Lnk3 και των πηγών δεδομένων liFD του για 32 bit ανά κανάλι.
 ExampleOfLnk2ResourceSupport("Layered PSD file smart objects.psd", 2, 0x19504, 0x0001d3e0, LayeredLnk3ResourceSupportCases);
 
-// Αυτό το παράδειγμα δείχνει πώς να αποκτήσετε και να ορίσετε ιδιότητες του πόρου PSD Lnk2 και των πηγών δεδομένων του liFD για 16 bit ανά κανάλι.
+// Αυτό το παράδειγμα δείχνει πώς να ανακτήσετε και να ορίσετε ιδιότητες του πόρου PSD Lnk2 και των πηγών δεδομένων liFD του για 16 bit ανά κανάλι
 ExampleOfLnk2ResourceSupport("LayeredSmartObjects16bit.psd", 2, 0x19504, 0x0001d3e0, LayeredLnk2ResourceSupportCases);
 ```
 
 ### Δείτε επίσης
 
 * class [Lnk3Resource](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../lnk3resource/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

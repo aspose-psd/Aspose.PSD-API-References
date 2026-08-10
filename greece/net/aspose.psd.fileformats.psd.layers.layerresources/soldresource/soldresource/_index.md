@@ -1,14 +1,15 @@
 ---
-title: SoLdResource.SoLdResource
-second_title: Aspose.PSD για Αναφορά API .NET
-description: SoLdResource κατασκευαστής. Αρχικοποιεί μια νέα παρουσία τουSoLdResource class. Είναι απαραίτητο να ορίσετε την ιδιότητα Items ή να καλέσετε την InitializeItems για να λάβετε μια έτοιμη παρουσία. Αυτός ο κατασκευαστής έχει σχεδιαστεί για χρήση απόSmartResourceCreator και σε μοναδιαίες δοκιμές. ΧρήσηSmartResourceCreator για τη δημιουργία κλάσεων SoLdResource.
+title: "SoLdResource.SoLdResource"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Κατασκευαστής SoLdResource. Αρχικοποιεί μια νέα παρουσία της κλάσης SoLdResource. Είναι απαραίτητο να οριστεί η ιδιότητα Items ή να κληθεί η μέθοδος InitializeItems για να ληφθεί μια έτοιμη παρουσία. Αυτός ο κατασκευαστής έχει σχεδιαστεί για χρήση από το SmartResourceCreator και σε μονάδες δοκιμών. Χρησιμοποιήστε το SmartResourceCreator για τη δημιουργία κλάσεων SoLdResource."
 type: docs
 weight: 10
 url: /el/net/aspose.psd.fileformats.psd.layers.layerresources/soldresource/soldresource/
 ---
+{{< psd/tize >}}
 ## SoLdResource(Guid, bool, bool) {#constructor_1}
 
-Αρχικοποιεί μια νέα παρουσία του[`SoLdResource`](../) class. Είναι απαραίτητο να ορίσετε την ιδιότητα Items ή να καλέσετε την InitializeItems() για να λάβετε μια έτοιμη παρουσία. Αυτός ο κατασκευαστής έχει σχεδιαστεί για χρήση από[`SmartResourceCreator`](../../smartresourcecreator/) και σε μοναδιαίες δοκιμές. Χρήση[`SmartResourceCreator`](../../smartresourcecreator/) για τη δημιουργία κλάσεων SoLdResource.
+Αρχικοποιεί μια νέα παρουσία της κλάσης [`SoLdResource`](../). Είναι απαραίτητο να οριστεί η ιδιότητα Items ή να κληθεί η μέθοδος InitializeItems() για να ληφθεί μια έτοιμη παρουσία. Αυτός ο κατασκευαστής έχει σχεδιαστεί για χρήση από το [`SmartResourceCreator`](../../smartresourcecreator/) και σε μονάδες δοκιμών. Χρησιμοποιήστε το [`SmartResourceCreator`](../../smartresourcecreator/) για τη δημιουργία κλάσεων SoLdResource.
 
 ```csharp
 public SoLdResource(Guid uniqueId, bool isCustom, bool hasCompInfo)
@@ -16,18 +17,18 @@ public SoLdResource(Guid uniqueId, bool isCustom, bool hasCompInfo)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| uniqueId | Guid | Το μοναδικό αναγνωριστικό των δεδομένων επιπέδου έξυπνου αντικειμένου[`SoLdResource`](../). |
-| isCustom | Boolean | εάν έχει οριστεί σε`αληθής` [είναι έθιμο]. |
-| hasCompInfo | Boolean | εάν έχει οριστεί σε`αληθής` [έχει πληροφορίες comp]. |
+| uniqueId | Guid | Το μοναδικό αναγνωριστικό των δεδομένων στρώσης έξυπνου αντικειμένου [`SoLdResource`](../). |
+| isCustom | Boolean | αν οριστεί σε `true` [είναι προσαρμοσμένο]. |
+| hasCompInfo | Boolean | αν οριστεί σε `true` [έχει πληροφορίες συνθέσεων]. |
 
-### Παραδείγματα
+## Παραδείγματα
 
 Ο παρακάτω κώδικας δείχνει την υποστήριξη του πόρου SoLdResource.
 
 ```csharp
 [C#]
 
-// Αυτό το παράδειγμα δείχνει πώς να λάβετε ή να ορίσετε τις ιδιότητες δεδομένων επιπέδου έξυπνου αντικειμένου του αρχείου PSD.
+// Αυτό το παράδειγμα δείχνει πώς να ανακτήσετε ή να ορίσετε τις ιδιότητες των δεδομένων επιπέδου έξυπνου αντικειμένου του αρχείου PSD.
 
 void AssertAreEqual(object actual, object expected)
 {
@@ -261,8 +262,8 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
                     resource.HorizontalMeshPoints = temp;
                 }
 
-                // Αυτές οι τιμές πρέπει να αλλάξουν και στο PlLdResource (με το καθορισμένο UniqueId)
-                // και μερικά από αυτά πρέπει να είναι σε συμφωνία με το υπογραμμιζόμενο έξυπνο αντικείμενο στο LinkDataSource
+                // Αυτές οι τιμές πρέπει επίσης να αλλάξουν στο PlLdResource (με το καθορισμένο UniqueId)
+                // και μερικές από αυτές πρέπει να είναι σύμφωνες με το υποκείμενο έξυπνο αντικείμενο στο LinkDataSource
                 resource.PageNumber = 2;
                 resource.TotalPages = 3;
                 resource.AntiAliasPolicy = 0;
@@ -307,19 +308,19 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
                     42
                 };
 
-                // Αυτό το μοναδικό αναγνωριστικό θα πρέπει να αλλάξει σε αναφορές εάν υπάρχουν
+                // Αυτό το μοναδικό Id πρέπει να αλλάξει στις αναφορές, εάν υπάρχουν
                 resource.PlacedId = new Guid("12345678-9abc-def0-9876-54321fecba98");
 
-                // Να είστε προσεκτικοί με ορισμένες παραμέτρους: η εικόνα ενδέχεται να μην είναι αναγνώσιμη από το Adobe® Photoshop®
+                // Να είστε προσεκτικοί με ορισμένες παραμέτρους: η εικόνα μπορεί να γίνει μη αναγνώσιμη από το Adobe® Photoshop®
                 ////resource.UOrder = 6;
                 ////resource.VOrder = 9;
 
-                // Μην το αλλάξετε αυτό, διαφορετικά δεν θα μπορείτε να χρησιμοποιήσετε τον ελεύθερο μετασχηματισμό
-                // ή αλλάξτε το έξυπνο αντικείμενο υπογράμμισης σε διανυσματικό τύπο
+                // Μην το αλλάξετε, διαφορετικά δεν θα μπορείτε να χρησιμοποιήσετε το free transform
+                // ή αλλάξτε το υποκείμενο έξυπνο αντικείμενο σε τύπο vector
                 ////resource.PlacedLayerType = PlacedLayerType.Vector;
 
-                // Θα πρέπει να υπάρχει έγκυρος PlLdResource με αυτό το μοναδικό αναγνωριστικό
-                ////resource.UniqueId = νέος οδηγός("98765432-10fe-cba0-1234-56789abcdef0");
+                // Θα πρέπει να υπάρχει έγκυρο PlLdResource με αυτό το μοναδικό Id
+                ////resource.UniqueId = new Guid("98765432-10fe-cba0-1234-56789abcdef0");
 
                 break;
             }
@@ -334,14 +335,14 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
 ### Δείτε επίσης
 
 * class [SoLdResource](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../soldresource/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## SoLdResource() {#constructor}
 
-Αρχικοποιεί μια νέα παρουσία του[`SoLdResource`](../) class. Αυτός ο προεπιλεγμένος κατασκευαστής έχει σχεδιαστεί για χρήση απόSoLdResourceLoader . Χρήση[`SmartResourceCreator`](../../smartresourcecreator/) για τη δημιουργία κλάσεων SoLdResource.
+Αρχικοποιεί μια νέα παρουσία της κλάσης [`SoLdResource`](../). Αυτός ο προεπιλεγμένος κατασκευαστής έχει σχεδιαστεί για χρήση από το SoLdResourceLoader. Χρησιμοποιήστε το [`SmartResourceCreator`](../../smartresourcecreator/) για τη δημιουργία κλάσεων SoLdResource.
 
 ```csharp
 public SoLdResource()
@@ -350,7 +351,7 @@ public SoLdResource()
 ### Δείτε επίσης
 
 * class [SoLdResource](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../soldresource/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

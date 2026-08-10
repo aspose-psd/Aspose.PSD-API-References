@@ -1,27 +1,28 @@
 ---
-title: IPlacedLayerResource.PerspectiveOther
-second_title: Aspose.PSD για Αναφορά API .NET
-description: IPlacedLayerResource ιδιοκτησία. Λαμβάνει ή ορίζει την άλλη τιμή προοπτικής του τοποθετημένου επιπέδου στο αρχείο PSD.
+title: "IPlacedLayerResource.PerspectiveOther"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "IPlacedLayerResource ιδιότητα. Λαμβάνει ή ορίζει την άλλη τιμή προοπτικής του τοποθετημένου στρώματος στο αρχείο PSD"
 type: docs
 weight: 110
 url: /el/net/aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/perspectiveother/
 ---
+{{< psd/tize >}}
 ## IPlacedLayerResource.PerspectiveOther property
 
-Λαμβάνει ή ορίζει την άλλη τιμή προοπτικής του τοποθετημένου επιπέδου στο αρχείο PSD.
+Λαμβάνει ή ορίζει την άλλη τιμή προοπτικής του τοποθετημένου στρώματος στο αρχείο PSD.
 
 ```csharp
 public double PerspectiveOther { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Η προοπτική άλλη τιμή του τοποθετημένου επιπέδου.
+Η προοπτική άλλη τιμή του τοποθετημένου στρώματος.
 
 ### Δείτε επίσης
 
 * interface [IPlacedLayerResource](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../iplacedlayerresource/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

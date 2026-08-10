@@ -1,14 +1,15 @@
 ---
-title: XmpBasicPackage.SetModifyDate
-second_title: Aspose.PSD για Αναφορά API .NET
-description: XmpBasicPackage μέθοδος. Προσθέτει πόρο την ημερομηνία τελευταίας τροποποίησης.
+title: "XmpBasicPackage.SetModifyDate"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Μέθοδος XmpBasicPackage. Προσθέτει την ημερομηνία τελευταίας τροποποίησης του πόρου"
 type: docs
-weight: 80
+weight: 100
 url: /el/net/aspose.psd.xmp.schemas.xmpbaseschema/xmpbasicpackage/setmodifydate/
 ---
+{{< psd/tize >}}
 ## SetModifyDate(DateTime) {#setmodifydate}
 
-Προσθέτει πόρο την ημερομηνία τελευταίας τροποποίησης.
+Προσθέτει την ημερομηνία τελευταίας τροποποίησης του πόρου.
 
 ```csharp
 public void SetModifyDate(DateTime modifiedDate)
@@ -21,14 +22,14 @@ public void SetModifyDate(DateTime modifiedDate)
 ### Δείτε επίσης
 
 * class [XmpBasicPackage](../)
-* χώρος ονομάτων [Aspose.PSD.Xmp.Schemas.XmpBaseSchema](../../xmpbasicpackage/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpBaseSchema](../../../aspose.psd.xmp.schemas.xmpbaseschema/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## SetModifyDate(string) {#setmodifydate_1}
 
-Προσθέτει πόρο την ημερομηνία τελευταίας τροποποίησης.
+Προσθέτει την ημερομηνία τελευταίας τροποποίησης του πόρου.
 
 ```csharp
 public void SetModifyDate(string modifiedDate)
@@ -41,7 +42,7 @@ public void SetModifyDate(string modifiedDate)
 ### Δείτε επίσης
 
 * class [XmpBasicPackage](../)
-* χώρος ονομάτων [Aspose.PSD.Xmp.Schemas.XmpBaseSchema](../../xmpbasicpackage/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpBaseSchema](../../../aspose.psd.xmp.schemas.xmpbaseschema/)
+* assembly [Aspose.PSD](../../../)
 
 

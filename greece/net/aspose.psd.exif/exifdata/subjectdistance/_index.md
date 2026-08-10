@@ -1,28 +1,29 @@
 ---
-title: ExifData.SubjectDistance
-second_title: Aspose.PSD για Αναφορά API .NET
-description: ExifData ιδιοκτησία. Λαμβάνει ή ορίζει την απόσταση θέματος.
+title: "ExifData.SubjectDistance"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα ExifData. Λαμβάνει ή ορίζει την απόσταση του αντικειμένου"
 type: docs
 weight: 1000
 url: /el/net/aspose.psd.exif/exifdata/subjectdistance/
 ---
+{{< psd/tize >}}
 ## ExifData.SubjectDistance property
 
-Λαμβάνει ή ορίζει την απόσταση θέματος.
+Λαμβάνει ή ορίζει την απόσταση του αντικειμένου.
 
 ```csharp
 public TiffRational SubjectDistance { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Η απόσταση του θέματος.
+Η απόσταση του αντικειμένου.
 
 ### Δείτε επίσης
 
 * class [TiffRational](../../../aspose.psd.fileformats.tiff/tiffrational/)
 * class [ExifData](../)
-* χώρος ονομάτων [Aspose.PSD.Exif](../../exifdata/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

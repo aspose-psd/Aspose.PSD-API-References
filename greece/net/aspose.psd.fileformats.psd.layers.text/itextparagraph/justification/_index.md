@@ -1,26 +1,27 @@
 ---
-title: ITextParagraph.Justification
-second_title: Aspose.PSD για Αναφορά API .NET
-description: ITextParagraph ιδιοκτησία. Λαμβάνει ή ορίζει την αιτιολόγηση.
+title: "ITextParagraph.Justification"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "ITextParagraph ιδιότητα. Λαμβάνει ή ορίζει τη στοίχιση"
 type: docs
 weight: 110
 url: /el/net/aspose.psd.fileformats.psd.layers.text/itextparagraph/justification/
 ---
+{{< psd/tize >}}
 ## ITextParagraph.Justification property
 
-Λαμβάνει ή ορίζει την αιτιολόγηση.
+Λαμβάνει ή ορίζει τη στοίχιση.
 
 ```csharp
 public JustificationMode Justification { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Η αιτιολόγηση.
+Η στοίχιση.
 
-### Παραδείγματα
+## Παραδείγματα
 
-Το ακόλουθο παράδειγμα δείχνει ότι η στοίχιση κειμένου μέσω του ITextPortion για γλώσσες από δεξιά προς τα αριστερά λειτουργεί σωστά.
+Το παρακάτω παράδειγμα δείχνει ότι η Στοίχιση Κειμένου μέσω ITextPortion για γλώσσες δεξιά‑προς‑αριστερά λειτουργεί σωστά.
 
 ```csharp
 [C#]
@@ -40,7 +41,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
 }
 ```
 
-Το ακόλουθο παράδειγμα κώδικα δείχνει τα τμήματα κειμένου επεξεργασίας και το στυλ κειμένου τους.
+Το παρακάτω παράδειγμα κώδικα δείχνει την επεξεργασία τμημάτων κειμένου και του στυλ κειμένου τους.
 
 ```csharp
 [C#]
@@ -73,7 +74,7 @@ using (var im = (PsdImage)Image.Load(filePath))
             }
 
             // Έλεγχος δεδομένων παραγράφων
-            // Οι παράγραφοι έχουν διαφορετική αιτιολόγηση
+            // Οι παράγραφοι έχουν διαφορετική στοίχιση
             if (
                 (int)portions[0].Paragraph.Justification != 0 ||
                 (int)portions[1].Paragraph.Justification != 0 ||
@@ -107,7 +108,7 @@ using (var im = (PsdImage)Image.Load(filePath))
                     Math.Abs(paragraph.LetterSpacing[0]) > Tolerance ||
                     Math.Abs(paragraph.LetterSpacing[1]) > Tolerance ||
                     Math.Abs(paragraph.LetterSpacing[2]) > Tolerance ||
-                    paragraph.LeadingType != LeadingMode.Auto ||
+                    paragraph.LeadingType != LeadingType.BottomToBottom ||
                     paragraph.PreHyphen != 2 ||
                     paragraph.PostHyphen != 2 ||
                     Math.Abs(paragraph.SpaceBefore) > Tolerance ||
@@ -171,12 +172,12 @@ using (var im = (PsdImage)Image.Load(filePath))
             portions = layer.TextData.Items;
 
             // Παράδειγμα επεξεργασίας παραγράφου και στυλ για τμήματα
-            // Ορισμός σωστής αιτιολόγησης
+            // Ορισμός δεξιάς στοίχισης
             portions[0].Paragraph.Justification = JustificationMode.Right;
             portions[1].Paragraph.Justification = JustificationMode.Right;
             portions[2].Paragraph.Justification = JustificationMode.Right;
 
-            // Διαφορετικά χρώματα για κάθε στυλ. Θα αλλάξει, αλλά η απόδοση δεν υποστηρίζεται πλήρως
+            // Διαφορετικά χρώματα για κάθε στυλ. Θα αλλάξουν, αλλά η απόδοση δεν υποστηρίζεται πλήρως
             portions[0].Style.FillColor = Color.Aquamarine;
             portions[1].Style.FillColor = Color.Violet;
             portions[2].Style.FillColor = Color.LightBlue;
@@ -200,7 +201,7 @@ using (var im = (PsdImage)Image.Load(filePath))
 
 * enum [JustificationMode](../../../aspose.psd.fileformats.psd/justificationmode/)
 * interface [ITextParagraph](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.Text](../../itextparagraph/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.Text](../../../aspose.psd.fileformats.psd.layers.text/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: Rectangle.op_Equality
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Rectangle μέθοδος. Ελέγχει εάν δύοRectangle οι δομές έχουν ίση θέση και μέγεθος.
+title: "Rectangle.op_Equality"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Μέθοδος Rectangle. Ελέγχει αν δύο δομές Rectangle έχουν ίση θέση και μέγεθος."
 type: docs
 weight: 290
 url: /el/net/aspose.psd/rectangle/op_equality/
 ---
+{{< psd/tize >}}
 ## Rectangle Equality operator
 
-Ελέγχει εάν δύο[`Rectangle`](../) οι δομές έχουν ίση θέση και μέγεθος.
+Ελέγχει αν δύο δομές [`Rectangle`](../) έχουν ίση θέση και μέγεθος.
 
 ```csharp
 public static bool operator ==(Rectangle left, Rectangle right)
@@ -16,17 +17,17 @@ public static bool operator ==(Rectangle left, Rectangle right)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| left | Rectangle | ο[`Rectangle`](../) δομή που βρίσκεται στα αριστερά του τελεστή ισότητας. |
-| right | Rectangle | ο[`Rectangle`](../)δομή που βρίσκεται στα δεξιά του τελεστή ισότητας. |
+| left | Rectangle | Η δομή [`Rectangle`](../) που βρίσκεται αριστερά του τελεστή ισότητας. |
+| right | Rectangle | Η δομή [`Rectangle`](../) που βρίσκεται δεξιά του τελεστή ισότητας. |
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-Αυτός ο τελεστής επιστρέφει true αν τα δύο[`Rectangle`](../) οι δομές έχουν ίσες[`X`](../x/) ,[`Y`](../y/) ,[`Width`](../width/) , και[`Height`](../height/) ιδιότητες.
+Αυτός ο τελεστής επιστρέφει true εάν οι δύο δομές [`Rectangle`](../) έχουν ίσες ιδιότητες [`X`](../x/), [`Y`](../y/), [`Width`](../width/) και [`Height`](../height/).
 
 ### Δείτε επίσης
 
 * struct [Rectangle](../)
-* χώρος ονομάτων [Aspose.PSD](../../rectangle/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

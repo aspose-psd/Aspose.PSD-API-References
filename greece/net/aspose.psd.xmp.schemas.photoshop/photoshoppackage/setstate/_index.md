@@ -1,11 +1,12 @@
 ---
-title: PhotoshopPackage.SetState
-second_title: Aspose.PSD για Αναφορά API .NET
-description: PhotoshopPackage μέθοδος. Ορίζει την κατάσταση.
+title: "PhotoshopPackage.SetState"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Μέθοδος PhotoshopPackage. Ορίζει την κατάσταση"
 type: docs
 weight: 170
 url: /el/net/aspose.psd.xmp.schemas.photoshop/photoshoppackage/setstate/
 ---
+{{< psd/tize >}}
 ## PhotoshopPackage.SetState method
 
 Ορίζει την κατάσταση.
@@ -16,12 +17,12 @@ public void SetState(string state)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| state | String | Το κράτος. |
+| κατάσταση | String | Η κατάσταση. |
 
 ### Δείτε επίσης
 
 * class [PhotoshopPackage](../)
-* χώρος ονομάτων [Aspose.PSD.Xmp.Schemas.Photoshop](../../photoshoppackage/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.Photoshop](../../../aspose.psd.xmp.schemas.photoshop/)
+* assembly [Aspose.PSD](../../../)
 
 

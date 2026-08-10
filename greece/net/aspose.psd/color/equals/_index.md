@@ -1,14 +1,15 @@
 ---
-title: Color.Equals
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Color μέθοδος. Ελέγχει εάν το καθορισμένο αντικείμενο είναι αColor δομή και είναι ισοδύναμο με αυτόColorδομή.
+title: "Color.Equals"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Μέθοδος Color. Ελέγχει εάν το καθορισμένο αντικείμενο είναι μια δομή Color και είναι ισοδύναμο με αυτή τη δομή Color."
 type: docs
 weight: 1540
 url: /el/net/aspose.psd/color/equals/
 ---
+{{< psd/tize >}}
 ## Color.Equals method
 
-Ελέγχει εάν το καθορισμένο αντικείμενο είναι α[`Color`](../) δομή και είναι ισοδύναμο με αυτό[`Color`](../)δομή.
+Ελέγχει εάν το καθορισμένο αντικείμενο είναι μια δομή [`Color`](../) και είναι ισοδύναμο με αυτή τη δομή [`Color`](../).
 
 ```csharp
 public override bool Equals(object obj)
@@ -16,16 +17,16 @@ public override bool Equals(object obj)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| obj | Object | Το αντικείμενο προς δοκιμή. |
+| obj | Object | Το αντικείμενο προς έλεγχο. |
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-Αλήθεια αν*obj* είναι ένα[`Color`](../) δομή ισοδύναμη με αυτήν[`Color`](../) δομή; διαφορετικά, ψευδής.
+Αληθές εάν το *obj* είναι μια δομή [`Color`](../) ισοδύναμη με αυτή τη δομή [`Color`](../); διαφορετικά, ψευδές.
 
 ### Δείτε επίσης
 
 * struct [Color](../)
-* χώρος ονομάτων [Aspose.PSD](../../color/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

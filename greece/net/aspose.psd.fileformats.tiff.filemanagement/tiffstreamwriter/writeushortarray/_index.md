@@ -1,14 +1,15 @@
 ---
-title: TiffStreamWriter.WriteUShortArray
-second_title: Aspose.PSD για Αναφορά API .NET
-description: TiffStreamWriter μέθοδος. Γράφει έναν πίνακα ανυπόγραφων σύντομων τιμών στη ροή.
+title: "TiffStreamWriter.WriteUShortArray"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Μέθοδος TiffStreamWriter. Γράφει έναν πίνακα τιμών μη υπογεγραμμένων short στο ρεύμα"
 type: docs
 weight: 230
 url: /el/net/aspose.psd.fileformats.tiff.filemanagement/tiffstreamwriter/writeushortarray/
 ---
+{{< psd/tize >}}
 ## TiffStreamWriter.WriteUShortArray method
 
-Γράφει έναν πίνακα ανυπόγραφων σύντομων τιμών στη ροή.
+Γράφει έναν πίνακα τιμών μη υπογεγραμμένων short στο ρεύμα.
 
 ```csharp
 public void WriteUShortArray(ushort[] data)
@@ -16,12 +17,12 @@ public void WriteUShortArray(ushort[] data)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| data | UInt16[] | Ο πίνακας για να γράψετε. |
+| δεδομένα | UInt16[] | Ο πίνακας για εγγραφή. |
 
 ### Δείτε επίσης
 
 * class [TiffStreamWriter](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Tiff.FileManagement](../../tiffstreamwriter/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff.FileManagement](../../../aspose.psd.fileformats.tiff.filemanagement/)
+* assembly [Aspose.PSD](../../../)
 
 

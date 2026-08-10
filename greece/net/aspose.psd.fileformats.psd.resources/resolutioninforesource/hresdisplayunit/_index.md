@@ -1,28 +1,29 @@
 ---
-title: ResolutionInfoResource.HResDisplayUnit
-second_title: Aspose.PSD για Αναφορά API .NET
-description: ResolutionInfoResource ιδιοκτησία. Εμφάνιση μονάδων για οριζόντια ανάλυση. Αυτό επηρεάζει μόνο τη διεπαφή χρήστη . η ανάλυση εξακολουθεί να είναι αποθηκευμένη στο αρχείο PSD ως εικονοστοιχεία/ίντσα.
+title: "ResolutionInfoResource.HResDisplayUnit"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα ResolutionInfoResource. Μονάδες εμφάνισης για οριζόντια ανάλυση. Αυτό επηρεάζει μόνο τη διεπαφή χρήστη· η ανάλυση εξακολουθεί να αποθηκεύεται στο αρχείο PSD ως pixel/inch"
 type: docs
 weight: 50
 url: /el/net/aspose.psd.fileformats.psd.resources/resolutioninforesource/hresdisplayunit/
 ---
+{{< psd/tize >}}
 ## ResolutionInfoResource.HResDisplayUnit property
 
-Εμφάνιση μονάδων για οριζόντια ανάλυση. Αυτό επηρεάζει μόνο τη διεπαφή χρήστη . η ανάλυση εξακολουθεί να είναι αποθηκευμένη στο αρχείο PSD ως εικονοστοιχεία/ίντσα.
+Μονάδες εμφάνισης για την οριζόντια ανάλυση. Αυτό επηρεάζει μόνο τη διεπαφή χρήστη· η ανάλυση εξακολουθεί να αποθηκεύεται στο αρχείο PSD ως pixels/inch.
 
 ```csharp
 public ResolutionUnit HResDisplayUnit { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Η μονάδα προβολής οριζόντιας ανάλυσης.
+Η μονάδα εμφάνισης της οριζόντιας ανάλυσης.
 
 ### Δείτε επίσης
 
 * enum [ResolutionUnit](../../../aspose.psd.fileformats.psd.resources.resolutionenums/resolutionunit/)
 * class [ResolutionInfoResource](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Resources](../../resolutioninforesource/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: PsdImage.Compression
-second_title: Aspose.PSD για Αναφορά API .NET
-description: PsdImage ιδιοκτησία. Λαμβάνει τη μέθοδο συμπίεσης.
+title: "PsdImage.Compression"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα PsdImage. Επιστρέφει τη μέθοδο συμπίεσης."
 type: docs
 weight: 80
 url: /el/net/aspose.psd.fileformats.psd/psdimage/compression/
 ---
+{{< psd/tize >}}
 ## PsdImage.Compression property
 
 Λαμβάνει τη μέθοδο συμπίεσης.
@@ -14,7 +15,7 @@ url: /el/net/aspose.psd.fileformats.psd/psdimage/compression/
 public CompressionMethod Compression { get; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
 Η συμπίεση.
 
@@ -22,7 +23,7 @@ public CompressionMethod Compression { get; }
 
 * enum [CompressionMethod](../../compressionmethod/)
 * class [PsdImage](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

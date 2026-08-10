@@ -1,11 +1,12 @@
 ---
-title: ExifData.ImageUniqueID
-second_title: Aspose.PSD για Αναφορά API .NET
-description: ExifData ιδιοκτησία. Λαμβάνει ή ορίζει το μοναδικό αναγνωριστικό της εικόνας.
+title: "ExifData.ImageUniqueID"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "ExifData ιδιότητα. Λαμβάνει ή ορίζει το μοναδικό αναγνωριστικό της εικόνας"
 type: docs
 weight: 680
 url: /el/net/aspose.psd.exif/exifdata/imageuniqueid/
 ---
+{{< psd/tize >}}
 ## ExifData.ImageUniqueID property
 
 Λαμβάνει ή ορίζει το μοναδικό αναγνωριστικό της εικόνας.
@@ -14,14 +15,14 @@ url: /el/net/aspose.psd.exif/exifdata/imageuniqueid/
 public string ImageUniqueID { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
 Το μοναδικό αναγνωριστικό της εικόνας.
 
 ### Δείτε επίσης
 
 * class [ExifData](../)
-* χώρος ονομάτων [Aspose.PSD.Exif](../../exifdata/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

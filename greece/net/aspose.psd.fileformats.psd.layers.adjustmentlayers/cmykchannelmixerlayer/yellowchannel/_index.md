@@ -1,20 +1,21 @@
 ---
-title: CmykChannelMixerLayer.YellowChannel
-second_title: Aspose.PSD για Αναφορά API .NET
-description: CmykChannelMixerLayer ιδιοκτησία. Παίρνει το κίτρινο κανάλι.
+title: "CmykChannelMixerLayer.YellowChannel"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα CmykChannelMixerLayer. Λαμβάνει το κίτρινο κανάλι"
 type: docs
 weight: 40
 url: /el/net/aspose.psd.fileformats.psd.layers.adjustmentlayers/cmykchannelmixerlayer/yellowchannel/
 ---
+{{< psd/tize >}}
 ## CmykChannelMixerLayer.YellowChannel property
 
-Παίρνει το κίτρινο κανάλι.
+Λαμβάνει το κίτρινο κανάλι.
 
 ```csharp
 public CmykMixerChannel YellowChannel { get; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
 Το κίτρινο κανάλι.
 
@@ -22,7 +23,7 @@ public CmykMixerChannel YellowChannel { get; }
 
 * class [CmykMixerChannel](../../cmykmixerchannel/)
 * class [CmykChannelMixerLayer](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../cmykchannelmixerlayer/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/)
+* assembly [Aspose.PSD](../../../)
 
 

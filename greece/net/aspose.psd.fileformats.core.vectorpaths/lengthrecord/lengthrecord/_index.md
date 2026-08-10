@@ -1,14 +1,15 @@
 ---
-title: LengthRecord.LengthRecord
-second_title: Aspose.PSD για Αναφορά API .NET
-description: LengthRecord κατασκευαστής. Αρχικοποιεί μια νέα παρουσία τουLengthRecord τάξη.
+title: "LengthRecord.LengthRecord"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "LengthRecord κατασκευαστής. Αρχικοποιεί μια νέα παρουσία της κλάσης LengthRecord"
 type: docs
 weight: 10
 url: /el/net/aspose.psd.fileformats.core.vectorpaths/lengthrecord/lengthrecord/
 ---
+{{< psd/tize >}}
 ## LengthRecord(byte[]) {#constructor_1}
 
-Αρχικοποιεί μια νέα παρουσία του[`LengthRecord`](../) τάξη.
+Αρχικοποιεί μια νέα παρουσία της κλάσης [`LengthRecord`](../).
 
 ```csharp
 public LengthRecord(byte[] data)
@@ -16,33 +17,27 @@ public LengthRecord(byte[] data)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| data | Byte[] | Τα δεδομένα εγγραφής. |
-
-### Εξαιρέσεις
-
-| εξαίρεση | κατάσταση |
-| --- | --- |
-| !:PsdImageArgumentException | Εσφαλμένα δεδομένα για τη δημιουργία LengthRecord |
+| δεδομένα | Byte[] | Τα δεδομένα της εγγραφής. |
 
 ### Δείτε επίσης
 
 * class [LengthRecord](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Core.VectorPaths](../../lengthrecord/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## LengthRecord() {#constructor}
 
-Αρχικοποιεί μια νέα παρουσία του[`LengthRecord`](../) τάξη.
+Αρχικοποιεί μια νέα παρουσία της κλάσης [`LengthRecord`](../).
 
 ```csharp
 public LengthRecord()
 ```
 
-### Παραδείγματα
+## Παραδείγματα
 
-Το ακόλουθο παράδειγμα κώδικα δείχνει την υποστήριξη νέων ιδιοτήτων LengthRecord, PathOperations (λειτουργίες boolean), ShapeIndex και BezierKnotRecordsCount.
+Το παρακάτω παράδειγμα κώδικα δείχνει την υποστήριξη των νέων ιδιοτήτων LengthRecord, PathOperations (λογικές λειτουργίες), ShapeIndex και BezierKnotRecordsCount.
 
 ```csharp
 [C#]
@@ -66,7 +61,7 @@ using (var im = (PsdImage)Image.Load(sourceFilePath))
     LengthRecord lengthRecord1 = (LengthRecord)resource.Paths[7];
     LengthRecord lengthRecord2 = (LengthRecord)resource.Paths[11];
 
-    // Εδώ αλλάζουμε τον τρόπο για το συνδυασμό μεταξύ σχημάτων.
+    // Εδώ αλλάζουμε τον τρόπο συνδυασμού μεταξύ σχημάτων.
     lengthRecord0.PathOperations = PathOperations.ExcludeOverlappingShapes;
     lengthRecord1.PathOperations = PathOperations.IntersectShapeAreas;
     lengthRecord2.PathOperations = PathOperations.SubtractFrontShape;
@@ -78,7 +73,7 @@ using (var im = (PsdImage)Image.Load(sourceFilePath))
 ### Δείτε επίσης
 
 * class [LengthRecord](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Core.VectorPaths](../../lengthrecord/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../../)
 
 

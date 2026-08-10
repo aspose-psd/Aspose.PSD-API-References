@@ -1,14 +1,15 @@
 ---
-title: Class FXidResource
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.FXidResource τάξη. Ο πόρος Filter Effects περιέχει κανάλια μια μάσκα χρήστη και μια μάσκα φύλλου για το έξυπνο φίλτρο.
+title: "Κλάση FXidResource"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Aspose.PSD.FileFormats.Psd.Layers.LayerResources.FXidResource κλάση. Ο πόρος Filter Effects περιέχει κανάλια, μια μάσκα χρήστη και μια μάσκα φύλλου για το έξυπνο φίλτρο."
 type: docs
-weight: 2460
+weight: 2720
 url: /el/net/aspose.psd.fileformats.psd.layers.layerresources/fxidresource/
 ---
+{{< psd/tize >}}
 ## FXidResource class
 
-Ο πόρος Filter Effects περιέχει κανάλια, μια μάσκα χρήστη και μια μάσκα φύλλου για το έξυπνο φίλτρο.
+Ο πόρος Filter Effects περιέχει κανάλια, μάσκα χρήστη και μάσκα φύλλου για το έξυπνο φίλτρο.
 
 ```csharp
 public sealed class FXidResource : LayerResource
@@ -16,38 +17,38 @@ public sealed class FXidResource : LayerResource
 
 ## Κατασκευαστές
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
-| [FXidResource](fxidresource/)(int, int, FilterEffectMaskData[]) | Αρχικοποιεί μια νέα παρουσία του`FXidResource` τάξη. |
+| [FXidResource](fxidresource/)(int, int, FilterEffectMaskData[]) | Αρχικοποιεί μια νέα παρουσία της κλάσης `FXidResource`. |
 
 ## Ιδιότητες
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
-| [FilterEffectMasks](../../aspose.psd.fileformats.psd.layers.layerresources/fxidresource/filtereffectmasks/) { get; } | Λαμβάνει τις μάσκες εφέ φίλτρου. |
-| override [Key](../../aspose.psd.fileformats.psd.layers.layerresources/fxidresource/key/) { get; } | Λαμβάνει το κλειδί πόρων επιπέδου. |
-| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/fxidresource/length/) { get; } | Λαμβάνει το μήκος του πόρου του επιπέδου σε byte. |
-| override [PsdVersion](../../aspose.psd.fileformats.psd.layers.layerresources/fxidresource/psdversion/) { get; } | Λαμβάνει την ελάχιστη έκδοση psd που απαιτείται για τον πόρο του επιπέδου. Το 0 δεν υποδηλώνει περιορισμούς. |
-| override [Signature](../../aspose.psd.fileformats.psd.layers.layerresources/fxidresource/signature/) { get; } | Λαμβάνει την υπογραφή του πόρου του επιπέδου. |
+| [FilterEffectMasks](../../aspose.psd.fileformats.psd.layers.layerresources/fxidresource/filtereffectmasks/) { get; } | Λαμβάνει τις μάσκες του εφέ φίλτρου. |
+| [Key](../../aspose.psd.fileformats.psd.layers/layerresource/key/) { get; } | Λαμβάνει το κλειδί πόρου του επιπέδου. |
+| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/fxidresource/length/) { get; } | Λαμβάνει το μήκος του πόρου του επιπέδου σε bytes. |
+| virtual [PsdVersion](../../aspose.psd.fileformats.psd.layers/layerresource/psdversion/) { get; } | Λαμβάνει την ελάχιστη έκδοση psd που απαιτείται για τον πόρο του επιπέδου. 0 υποδεικνύει ότι δεν υπάρχουν περιορισμοί. |
+| virtual [Signature](../../aspose.psd.fileformats.psd.layers/layerresource/signature/) { get; } | Λαμβάνει την υπογραφή. |
 | [Version](../../aspose.psd.fileformats.psd.layers.layerresources/fxidresource/version/) { get; } | Λαμβάνει την έκδοση. |
 
 ## Μέθοδοι
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
 | override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/fxidresource/save/)(StreamContainer, int) | Αποθηκεύει τον πόρο στο καθορισμένο κοντέινερ ροής. |
-| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring/)() | Επιστρέφει αString που αντιπροσωπεύει αυτήν την περίπτωση. |
+| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring/)() | Επιστρέφει ένα String που αντιπροσωπεύει αυτήν την περίπτωση. |
 
 ## Πεδία
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
 | const [FEidTypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/fxidresource/feidtypetoolkey/) | Το κλειδί πληροφοριών εργαλείου τύπου FEid. |
 | const [FXidTypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/fxidresource/fxidtypetoolkey/) | Το κλειδί πληροφοριών εργαλείου τύπου FXid. |
 
-### Παραδείγματα
+## Παραδείγματα
 
-Αυτό το παράδειγμα δείχνει πώς να αποκτήσετε και να ορίσετε ιδιότητες του πόρου FXidResource.
+Αυτό το παράδειγμα δείχνει πώς να λαμβάνετε και να ορίζετε ιδιότητες του πόρου FXidResource.
 
 ```csharp
 [C#]
@@ -56,7 +57,7 @@ string inputFilePath = "psdnet414_3.psd";
 string output = "out_psdnet414_3.psd";
 
 int resLength = 1144;
-int maskLength = 369;
+long maskLength = 369;
 
 void AssertAreEqual(object expected, object actual, string message = null)
 {
@@ -79,7 +80,7 @@ using (var psdImage = (PsdImage)Image.Load(inputFilePath))
     psdImage.Save(output);
 }
 
-// έλεγχος μετά την αποθήκευση
+// ελέγξτε μετά την αποθήκευση
 using (var psdImage = (PsdImage)Image.Load(output))
 {
     FXidResource fXidResource = (FXidResource)psdImage.GlobalLayerResources[3];
@@ -95,7 +96,7 @@ using (var psdImage = (PsdImage)Image.Load(output))
 ### Δείτε επίσης
 
 * class [LayerResource](../../aspose.psd.fileformats.psd.layers/layerresource/)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
-* συνέλευση [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../)
 
 

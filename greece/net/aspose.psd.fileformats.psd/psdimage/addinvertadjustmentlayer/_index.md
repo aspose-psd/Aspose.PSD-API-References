@@ -1,11 +1,12 @@
 ---
-title: PsdImage.AddInvertAdjustmentLayer
-second_title: Aspose.PSD για Αναφορά API .NET
-description: PsdImage μέθοδος. Προσθέτει ένα επίπεδο προσαρμογής αντιστροφής.
+title: "PsdImage.AddInvertAdjustmentLayer"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "PsdImage μέθοδος. Προσθέτει ένα στρώμα ρύθμισης αντιστροφής"
 type: docs
-weight: 360
+weight: 380
 url: /el/net/aspose.psd.fileformats.psd/psdimage/addinvertadjustmentlayer/
 ---
+{{< psd/tize >}}
 ## PsdImage.AddInvertAdjustmentLayer method
 
 Προσθέτει ένα επίπεδο προσαρμογής αντιστροφής.
@@ -14,13 +15,13 @@ url: /el/net/aspose.psd.fileformats.psd/psdimage/addinvertadjustmentlayer/
 public InvertAdjustmentLayer AddInvertAdjustmentLayer()
 ```
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-Το δημιουργημένο ανεστραμμένο στρώμα
+Το δημιουργημένο στρώμα αντιστροφής
 
-### Παραδείγματα
+## Παραδείγματα
 
-Ο παρακάτω κώδικας δείχνει την υποστήριξη για το InvertAdjustmentLayer και τον τρόπο προσθήκης InvertAdjustmentLayer.
+Ο παρακάτω κώδικας δείχνει την υποστήριξη για το InvertAdjustmentLayer και πώς να προσθέσετε το InvertAdjustmentLayer.
 
 ```csharp
 [C#]
@@ -38,7 +39,7 @@ using (var im = (PsdImage)Image.Load(filePath))
 
 * class [InvertAdjustmentLayer](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/invertadjustmentlayer/)
 * class [PsdImage](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

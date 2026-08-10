@@ -1,27 +1,28 @@
 ---
-title: JpegExifData.Model
-second_title: Aspose.PSD για Αναφορά API .NET
-description: JpegExifData ιδιοκτησία. Παίρνει ή ρυθμίζει το μοντέλο.
+title: "JpegExifData.Model"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "JpegExifData ιδιότητα. Λαμβάνει ή ορίζει το μοντέλο"
 type: docs
 weight: 110
 url: /el/net/aspose.psd.exif/jpegexifdata/model/
 ---
+{{< psd/tize >}}
 ## JpegExifData.Model property
 
-Παίρνει ή ρυθμίζει το μοντέλο.
+Λαμβάνει ή ορίζει το μοντέλο.
 
 ```csharp
 public string Model { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
 Το μοντέλο.
 
 ### Δείτε επίσης
 
 * class [JpegExifData](../)
-* χώρος ονομάτων [Aspose.PSD.Exif](../../jpegexifdata/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

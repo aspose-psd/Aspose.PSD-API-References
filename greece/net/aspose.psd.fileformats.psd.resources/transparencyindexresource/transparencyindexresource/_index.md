@@ -1,11 +1,12 @@
 ---
-title: TransparencyIndexResource.TransparencyIndexResource
-second_title: Aspose.PSD για Αναφορά API .NET
-description: TransparencyIndexResource κατασκευαστής. Ο προεπιλεγμένος κατασκευαστής.
+title: "TransparencyIndexResource.TransparencyIndexResource"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Κατασκευαστής TransparencyIndexResource. Ο προεπιλεγμένος κατασκευαστής"
 type: docs
 weight: 10
 url: /el/net/aspose.psd.fileformats.psd.resources/transparencyindexresource/transparencyindexresource/
 ---
+{{< psd/tize >}}
 ## TransparencyIndexResource constructor
 
 Ο προεπιλεγμένος κατασκευαστής.
@@ -17,7 +18,7 @@ public TransparencyIndexResource()
 ### Δείτε επίσης
 
 * class [TransparencyIndexResource](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Resources](../../transparencyindexresource/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

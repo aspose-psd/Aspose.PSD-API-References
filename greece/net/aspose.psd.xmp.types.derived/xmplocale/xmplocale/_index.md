@@ -1,14 +1,15 @@
 ---
-title: XmpLocale.XmpLocale
-second_title: Aspose.PSD για Αναφορά API .NET
-description: XmpLocale κατασκευαστής. Αρχικοποιεί μια νέα παρουσία τουXmpLocale τάξη.
+title: "XmpLocale.XmpLocale"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Κατασκευαστής XmpLocale. Αρχικοποιεί μια νέα παρουσία της κλάσης XmpLocale"
 type: docs
 weight: 10
 url: /el/net/aspose.psd.xmp.types.derived/xmplocale/xmplocale/
 ---
+{{< psd/tize >}}
 ## XmpLocale constructor
 
-Αρχικοποιεί μια νέα παρουσία του[`XmpLocale`](../) τάξη.
+Αρχικοποιεί μια νέα παρουσία της κλάσης [`XmpLocale`](../).
 
 ```csharp
 public XmpLocale(string value)
@@ -16,12 +17,12 @@ public XmpLocale(string value)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| value | String | Η αξία. |
+| τιμή | String | Η τιμή. |
 
 ### Δείτε επίσης
 
 * class [XmpLocale](../)
-* χώρος ονομάτων [Aspose.PSD.Xmp.Types.Derived](../../xmplocale/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Derived](../../../aspose.psd.xmp.types.derived/)
+* assembly [Aspose.PSD](../../../)
 
 

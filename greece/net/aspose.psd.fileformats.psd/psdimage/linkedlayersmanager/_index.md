@@ -1,11 +1,12 @@
 ---
-title: PsdImage.LinkedLayersManager
-second_title: Aspose.PSD για Αναφορά API .NET
-description: PsdImage ιδιοκτησία. Λαμβάνει τον διαχειριστή συνδεδεμένων επιπέδων.
+title: "PsdImage.LinkedLayersManager"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα PsdImage. Λαμβάνει τον διαχειριστή συνδεδεμένων στρωμάτων"
 type: docs
 weight: 210
 url: /el/net/aspose.psd.fileformats.psd/psdimage/linkedlayersmanager/
 ---
+{{< psd/tize >}}
 ## PsdImage.LinkedLayersManager property
 
 Λαμβάνει τον διαχειριστή συνδεδεμένων επιπέδων.
@@ -18,7 +19,7 @@ public LinkedLayersManager LinkedLayersManager { get; }
 
 * class [LinkedLayersManager](../../../aspose.psd.fileformats.psd.layers/linkedlayersmanager/)
 * class [PsdImage](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

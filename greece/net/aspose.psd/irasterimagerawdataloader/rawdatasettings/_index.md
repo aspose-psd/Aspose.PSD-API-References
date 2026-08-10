@@ -1,28 +1,29 @@
 ---
-title: IRasterImageRawDataLoader.RawDataSettings
-second_title: Aspose.PSD για Αναφορά API .NET
-description: IRasterImageRawDataLoader ιδιοκτησία. Λαμβάνει τις τρέχουσες ρυθμίσεις πρωτογενών δεδομένων. Σημείωση όταν χρησιμοποιείτε αυτές τις ρυθμίσεις τα δεδομένα φορτώνονται χωρίς μετατροπή.
+title: "IRasterImageRawDataLoader.RawDataSettings"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα IRasterImageRawDataLoader. Επιστρέφει τις τρέχουσες ρυθμίσεις ακατέργαστων δεδομένων. Σημειώστε ότι κατά τη χρήση αυτών των ρυθμίσεων τα δεδομένα φορτώνονται χωρίς μετατροπή."
 type: docs
 weight: 20
 url: /el/net/aspose.psd/irasterimagerawdataloader/rawdatasettings/
 ---
+{{< psd/tize >}}
 ## IRasterImageRawDataLoader.RawDataSettings property
 
-Λαμβάνει τις τρέχουσες ρυθμίσεις πρωτογενών δεδομένων. Σημείωση όταν χρησιμοποιείτε αυτές τις ρυθμίσεις, τα δεδομένα φορτώνονται χωρίς μετατροπή.
+Λαμβάνει τις τρέχουσες ρυθμίσεις ακατέργαστων δεδομένων. Σημειώστε ότι όταν χρησιμοποιείτε αυτές τις ρυθμίσεις, τα δεδομένα φορτώνονται χωρίς μετατροπή.
 
 ```csharp
 public RawDataSettings RawDataSettings { get; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Οι τρέχουσες ρυθμίσεις πρωτογενών δεδομένων.
+Οι τρέχουσες ρυθμίσεις ακατέργαστων δεδομένων.
 
 ### Δείτε επίσης
 
 * class [RawDataSettings](../../rawdatasettings/)
 * interface [IRasterImageRawDataLoader](../)
-* χώρος ονομάτων [Aspose.PSD](../../irasterimagerawdataloader/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

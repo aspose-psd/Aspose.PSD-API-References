@@ -1,14 +1,15 @@
 ---
-title: CmykChannelMixerLayer.GetChannelByIndex
-second_title: Aspose.PSD για Αναφορά API .NET
-description: CmykChannelMixerLayer μέθοδος. Λαμβάνει το ευρετήριο του καναλιού κατά. Επιστρέφει CmykMixerChannel
+title: "CmykChannelMixerLayer.GetChannelByIndex"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Μέθοδος CmykChannelMixerLayer. Λαμβάνει το δείκτη του καναλιού κατά. Επιστρέφει CmykMixerChannel"
 type: docs
 weight: 50
 url: /el/net/aspose.psd.fileformats.psd.layers.adjustmentlayers/cmykchannelmixerlayer/getchannelbyindex/
 ---
+{{< psd/tize >}}
 ## CmykChannelMixerLayer.GetChannelByIndex method
 
-Λαμβάνει το ευρετήριο του καναλιού κατά. Επιστρέφει CmykMixerChannel
+Λαμβάνει το δείκτη του καναλιού κατά. Επιστρέφει CmykMixerChannel
 
 ```csharp
 public override MixerChannel GetChannelByIndex(int index)
@@ -16,15 +17,15 @@ public override MixerChannel GetChannelByIndex(int index)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| index | Int32 | Ο δείκτης. |
+| δείκτης | Int32 | Ο δείκτης. |
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
 [`CmykMixerChannel`](../../cmykmixerchannel/)
 
 ### Εξαιρέσεις
 
-| εξαίρεση | κατάσταση |
+| εξαίρεση | συνθήκη |
 | --- | --- |
 | [PsdImageArgumentException](../../../aspose.psd.coreexceptions.imageformats/psdimageargumentexception/) | Το CmykMixerChannelLayer δεν έχει περισσότερα από 4 κανάλια. Ο δείκτης του πρώτου καναλιού είναι 0 |
 
@@ -32,7 +33,7 @@ public override MixerChannel GetChannelByIndex(int index)
 
 * class [MixerChannel](../../mixerchannel/)
 * class [CmykChannelMixerLayer](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../cmykchannelmixerlayer/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/)
+* assembly [Aspose.PSD](../../../)
 
 

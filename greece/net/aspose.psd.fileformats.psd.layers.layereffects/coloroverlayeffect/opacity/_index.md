@@ -1,27 +1,28 @@
 ---
-title: ColorOverlayEffect.Opacity
-second_title: Aspose.PSD για Αναφορά API .NET
-description: ColorOverlayEffect ιδιοκτησία. Λαμβάνει ή ορίζει την αδιαφάνεια.
+title: "ColorOverlayEffect.Opacity"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "ColorOverlayEffect ιδιότητα. Λαμβάνει ή ορίζει τη διαφάνεια"
 type: docs
 weight: 50
 url: /el/net/aspose.psd.fileformats.psd.layers.layereffects/coloroverlayeffect/opacity/
 ---
+{{< psd/tize >}}
 ## ColorOverlayEffect.Opacity property
 
-Λαμβάνει ή ορίζει την αδιαφάνεια.
+Λαμβάνει ή ορίζει τη διαφάνεια.
 
 ```csharp
 public byte Opacity { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Η αδιαφάνεια.
+Η διαφάνεια.
 
 ### Δείτε επίσης
 
 * class [ColorOverlayEffect](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../coloroverlayeffect/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../../)
 
 

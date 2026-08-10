@@ -1,11 +1,12 @@
 ---
-title: CgEdResource.MeanValueForBrightnessAndContrast
-second_title: Aspose.PSD για Αναφορά API .NET
-description: CgEdResource ιδιοκτησία. Λαμβάνει ή ορίζει τη μέση τιμή για τη φωτεινότητα και την αντίθεση.
+title: "CgEdResource.MeanValueForBrightnessAndContrast"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα CgEdResource. Λαμβάνει ή ορίζει την μέση τιμή για φωτεινότητα και αντίθεση"
 type: docs
-weight: 80
+weight: 70
 url: /el/net/aspose.psd.fileformats.psd.layers.layerresources/cgedresource/meanvalueforbrightnessandcontrast/
 ---
+{{< psd/tize >}}
 ## CgEdResource.MeanValueForBrightnessAndContrast property
 
 Λαμβάνει ή ορίζει τη μέση τιμή για τη φωτεινότητα και την αντίθεση.
@@ -14,14 +15,14 @@ url: /el/net/aspose.psd.fileformats.psd.layers.layerresources/cgedresource/meanv
 public int MeanValueForBrightnessAndContrast { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Η μέση τιμή για τη φωτεινότητα και την αντίθεση.
+Η μέση τιμή για φωτεινότητα και αντίθεση.
 
 ### Δείτε επίσης
 
 * class [CgEdResource](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../cgedresource/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

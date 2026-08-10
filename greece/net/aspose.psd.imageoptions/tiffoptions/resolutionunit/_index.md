@@ -1,11 +1,12 @@
 ---
-title: TiffOptions.ResolutionUnit
-second_title: Aspose.PSD για Αναφορά API .NET
-description: TiffOptions ιδιοκτησία. Λαμβάνει ή ορίζει τη μονάδα ανάλυσης.
+title: "TiffOptions.ResolutionUnit"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "TiffOptions ιδιότητα. Λαμβάνει ή ορίζει τη μονάδα ανάλυσης"
 type: docs
-weight: 370
+weight: 380
 url: /el/net/aspose.psd.imageoptions/tiffoptions/resolutionunit/
 ---
+{{< psd/tize >}}
 ## TiffOptions.ResolutionUnit property
 
 Λαμβάνει ή ορίζει τη μονάδα ανάλυσης.
@@ -14,7 +15,7 @@ url: /el/net/aspose.psd.imageoptions/tiffoptions/resolutionunit/
 public TiffResolutionUnits ResolutionUnit { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
 Η μονάδα ανάλυσης.
 
@@ -22,7 +23,7 @@ public TiffResolutionUnits ResolutionUnit { get; set; }
 
 * enum [TiffResolutionUnits](../../../aspose.psd.fileformats.tiff.enums/tiffresolutionunits/)
 * class [TiffOptions](../)
-* χώρος ονομάτων [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

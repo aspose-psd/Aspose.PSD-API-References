@@ -1,11 +1,12 @@
 ---
-title: XmpText.Value
-second_title: Aspose.PSD για Αναφορά API .NET
-description: XmpText ιδιοκτησία. Λαμβάνει ή ορίζει την τιμή κειμένου.
+title: "XmpText.Value"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "XmpText ιδιότητα. Λαμβάνει ή ορίζει την τιμή κειμένου"
 type: docs
 weight: 20
 url: /el/net/aspose.psd.xmp.types.basic/xmptext/value/
 ---
+{{< psd/tize >}}
 ## XmpText.Value property
 
 Λαμβάνει ή ορίζει την τιμή κειμένου.
@@ -14,14 +15,14 @@ url: /el/net/aspose.psd.xmp.types.basic/xmptext/value/
 public string Value { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Η τιμή κειμένου.
+Η τιμή του κειμένου.
 
 ### Δείτε επίσης
 
 * class [XmpText](../)
-* χώρος ονομάτων [Aspose.PSD.Xmp.Types.Basic](../../xmptext/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Basic](../../../aspose.psd.xmp.types.basic/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: FileOpenSource.FileOpenSource
-second_title: Aspose.PSD για Αναφορά API .NET
-description: FileOpenSource κατασκευαστής. Αρχικοποιεί μια νέα παρουσία τουFileOpenSource τάξη.
+title: "FileOpenSource.FileOpenSource"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Κατασκευαστής FileOpenSource. Αρχικοποιεί ένα νέο αντικείμενο της κλάσης FileOpenSource."
 type: docs
 weight: 10
 url: /el/net/aspose.psd.sources/fileopensource/fileopensource/
 ---
+{{< psd/tize >}}
 ## FileOpenSource constructor
 
-Αρχικοποιεί μια νέα παρουσία του[`FileOpenSource`](../) τάξη.
+Αρχικοποιεί ένα νέο αντικείμενο της κλάσης [`FileOpenSource`](../).
 
 ```csharp
 public FileOpenSource(string filePath)
@@ -21,7 +22,7 @@ public FileOpenSource(string filePath)
 ### Δείτε επίσης
 
 * class [FileOpenSource](../)
-* χώρος ονομάτων [Aspose.PSD.Sources](../../fileopensource/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Sources](../../../aspose.psd.sources/)
+* assembly [Aspose.PSD](../../../)
 
 

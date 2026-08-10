@@ -1,14 +1,15 @@
 ---
-title: BlwhResource.TypeToolKey
-second_title: Aspose.PSD για Αναφορά API .NET
-description: BlwhResource πεδίο. Το κλειδί πληροφοριών εργαλείου τύπου.
+title: "BlwhResource.TypeToolKey"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Πεδίο BlwhResource. Το κλειδί πληροφοριών εργαλείου τύπου"
 type: docs
-weight: 160
+weight: 140
 url: /el/net/aspose.psd.fileformats.psd.layers.layerresources/blwhresource/typetoolkey/
 ---
+{{< psd/tize >}}
 ## BlwhResource.TypeToolKey field
 
-Το κλειδί πληροφοριών εργαλείου τύπου.
+Το κλειδί πληροφοριών του εργαλείου τύπου.
 
 ```csharp
 public const int TypeToolKey;
@@ -17,7 +18,7 @@ public const int TypeToolKey;
 ### Δείτε επίσης
 
 * class [BlwhResource](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../blwhresource/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

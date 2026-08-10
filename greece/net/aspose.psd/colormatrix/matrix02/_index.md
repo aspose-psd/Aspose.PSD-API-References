@@ -1,27 +1,28 @@
 ---
-title: ColorMatrix.Matrix02
-second_title: Aspose.PSD για Αναφορά API .NET
-description: ColorMatrix ιδιοκτησία. Λαμβάνει ή ορίζει το στοιχείο στη γραμμή 0 μηδέν και στη δεύτερη στήλη αυτούColorMatrix .
+title: "ColorMatrix.Matrix02"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα ColorMatrix. Λαμβάνει ή ορίζει το στοιχείο στη γραμμή 0 (μηδέν) και τη δεύτερη στήλη αυτού του ColorMatrix"
 type: docs
 weight: 50
 url: /el/net/aspose.psd/colormatrix/matrix02/
 ---
+{{< psd/tize >}}
 ## ColorMatrix.Matrix02 property
 
-Λαμβάνει ή ορίζει το στοιχείο στη γραμμή 0 (μηδέν) και στη δεύτερη στήλη αυτού[`ColorMatrix`](../) .
+Λαμβάνει ή ορίζει το στοιχείο στη γραμμή 0 (μηδέν) και τη δεύτερη στήλη αυτού του [`ColorMatrix`](../).
 
 ```csharp
 public float Matrix02 { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Το στοιχείο στη γραμμή 0 και στη δεύτερη στήλη αυτού[`ColorMatrix`](../).
+Το στοιχείο στη γραμμή 0 και τη δεύτερη στήλη αυτού του [`ColorMatrix`](../).
 
 ### Δείτε επίσης
 
 * class [ColorMatrix](../)
-* χώρος ονομάτων [Aspose.PSD](../../colormatrix/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: AliasStructure.FullPath
-second_title: Aspose.PSD για Αναφορά API .NET
-description: AliasStructure ιδιοκτησία. Λαμβάνει ή ορίζει την πλήρη διαδρομή.
+title: "AliasStructure.FullPath"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα AliasStructure. Λαμβάνει ή ορίζει τη πλήρη διαδρομή"
 type: docs
 weight: 30
 url: /el/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/aliasstructure/fullpath/
 ---
+{{< psd/tize >}}
 ## AliasStructure.FullPath property
 
-Λαμβάνει ή ορίζει την πλήρη διαδρομή.
+Λαμβάνει ή ορίζει τη πλήρη διαδρομή.
 
 ```csharp
 public string FullPath { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
 Η πλήρης διαδρομή.
 
 ### Δείτε επίσης
 
 * class [AliasStructure](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../aliasstructure/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 

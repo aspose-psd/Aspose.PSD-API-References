@@ -1,34 +1,35 @@
 ---
-title: Pen.Brush
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Pen ιδιοκτησία. Λαμβάνει ή ορίζει τοBrush που καθορίζει τις ιδιότητες αυτούPen .
+title: "Pen.Brush"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα Pen. Λαμβάνει ή ορίζει το Brush που καθορίζει τα χαρακτηριστικά αυτού του Pen."
 type: docs
 weight: 30
 url: /el/net/aspose.psd/pen/brush/
 ---
+{{< psd/tize >}}
 ## Pen.Brush property
 
-Λαμβάνει ή ορίζει το`Brush` που καθορίζει τις ιδιότητες αυτού[`Pen`](../) .
+Λαμβάνει ή ορίζει το `Brush` που καθορίζει τα χαρακτηριστικά αυτού του [`Pen`](../).
 
 ```csharp
 public Brush Brush { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-ΕΝΑ`Brush` που καθορίζει τις ιδιότητες αυτού[`Pen`](../).
+Ένα `Brush` που καθορίζει τα χαρακτηριστικά αυτού του [`Pen`](../).
 
 ### Εξαιρέσεις
 
-| εξαίρεση | κατάσταση |
+| εξαίρεση | συνθήκη |
 | --- | --- |
-| ArgumentException | ο`Brush` η ιδιοκτησία έχει οριστεί σε αμετάβλητο[`Pen`](../) , όπως αυτά που επιστράφηκαν από το[`Pen`](../) τάξη. |
+| ArgumentException | Η ιδιότητα `Brush` ορίζεται σε ένα αμετάβλητο [`Pen`](../), όπως αυτά που επιστρέφονται από την κλάση [`Pen`](../). |
 
 ### Δείτε επίσης
 
 * class [Brush](../../brush/)
 * class [Pen](../)
-* χώρος ονομάτων [Aspose.PSD](../../pen/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

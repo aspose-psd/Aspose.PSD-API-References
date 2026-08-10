@@ -1,14 +1,15 @@
 ---
-title: Class JpegLsPresetCodingParameters
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Aspose.PSD.FileFormats.Jpeg.JpegLsPresetCodingParameters τάξη. Καθορίζει τις προκαθορισμένες παραμέτρους κωδικοποίησης JPEGLS όπως ορίζονται στο ISO/IEC 144951 C.2.4.1.1. Το JPEGLS ορίζει ένα προεπιλεγμένο σύνολο παραμέτρων αλλά μπορούν να χρησιμοποιηθούν προσαρμοσμένες παράμετροι. Όταν χρησιμοποιούνται γράφονται αυτές οι παράμετροι στη ροή κωδικοποιημένων bit καθώς χρειάζονται για τη διαδικασία αποκωδικοποίησης.
+title: "Κλάση JpegLsPresetCodingParameters"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Aspose.PSD.FileFormats.Jpeg.JpegLsPresetCodingParameters class. Ορίζει τις προρυθμισμένες παραμέτρους κωδικοποίησης JPEGLS όπως ορίζονται στο ISO/IEC 144951 C.2.4.1.1. Το JPEGLS ορίζει ένα προεπιλεγμένο σύνολο παραμέτρων αλλά μπορούν να χρησιμοποιηθούν προσαρμοσμένες παράμετροι. Όταν χρησιμοποιούνται, αυτές οι παράμετροι γράφονται στο κωδικοποιημένο bit stream όπως απαιτούνται για τη διαδικασία αποκωδικοποίησης."
 type: docs
-weight: 1520
+weight: 1530
 url: /el/net/aspose.psd.fileformats.jpeg/jpeglspresetcodingparameters/
 ---
+{{< psd/tize >}}
 ## JpegLsPresetCodingParameters class
 
-Καθορίζει τις προκαθορισμένες παραμέτρους κωδικοποίησης JPEG-LS όπως ορίζονται στο ISO/IEC 14495-1, C.2.4.1.1. Το JPEG-LS ορίζει ένα προεπιλεγμένο σύνολο παραμέτρων, αλλά μπορούν να χρησιμοποιηθούν προσαρμοσμένες παράμετροι. Όταν χρησιμοποιούνται γράφονται αυτές οι παράμετροι στη ροή κωδικοποιημένων bit καθώς χρειάζονται για τη διαδικασία αποκωδικοποίησης.
+Ορίζει τις προρυθμισμένες παραμέτρους κωδικοποίησης JPEG-LS όπως ορίζονται στο ISO/IEC 14495-1, C.2.4.1.1. Το JPEG-LS ορίζει ένα προεπιλεγμένο σύνολο παραμέτρων, αλλά μπορούν να χρησιμοποιηθούν προσαρμοσμένες παράμετροι. Όταν χρησιμοποιούνται, αυτές οι παράμετροι γράφονται στο κωδικοποιημένο ρεύμα bit όπως απαιτούνται για τη διαδικασία αποκωδικοποίησης.
 
 ```csharp
 public class JpegLsPresetCodingParameters
@@ -16,15 +17,15 @@ public class JpegLsPresetCodingParameters
 
 ## Κατασκευαστές
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
 | [JpegLsPresetCodingParameters](jpeglspresetcodingparameters/)() | Ο προεπιλεγμένος κατασκευαστής. |
 
 ## Ιδιότητες
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
-| [MaximumSampleValue](../../aspose.psd.fileformats.jpeg/jpeglspresetcodingparameters/maximumsamplevalue/) { get; set; } | Λαμβάνει ή ορίζει τη μέγιστη δυνατή τιμή για οποιοδήποτε δείγμα εικόνας σε μια σάρωση. Αυτή πρέπει να είναι μεγαλύτερη ή ίση με την πραγματική μέγιστη τιμή για τα στοιχεία σε μια σάρωση. |
+| [MaximumSampleValue](../../aspose.psd.fileformats.jpeg/jpeglspresetcodingparameters/maximumsamplevalue/) { get; set; } | Λαμβάνει ή ορίζει τη μέγιστη δυνατή τιμή για οποιοδήποτε δείγμα εικόνας σε σάρωση. Αυτό πρέπει να είναι μεγαλύτερο ή ίσο με τη πραγματική μέγιστη τιμή για τα συστατικά σε σάρωση. |
 | [ResetValue](../../aspose.psd.fileformats.jpeg/jpeglspresetcodingparameters/resetvalue/) { get; set; } | Λαμβάνει ή ορίζει την τιμή στην οποία οι μετρητές A, B και N μειώνονται στο μισό. |
 | [Threshold1](../../aspose.psd.fileformats.jpeg/jpeglspresetcodingparameters/threshold1/) { get; set; } | Λαμβάνει ή ορίζει την πρώτη τιμή κατωφλίου κβαντισμού για τις τοπικές κλίσεις. |
 | [Threshold2](../../aspose.psd.fileformats.jpeg/jpeglspresetcodingparameters/threshold2/) { get; set; } | Λαμβάνει ή ορίζει τη δεύτερη τιμή κατωφλίου κβαντισμού για τις τοπικές κλίσεις. |
@@ -32,7 +33,7 @@ public class JpegLsPresetCodingParameters
 
 ### Δείτε επίσης
 
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Jpeg](../../aspose.psd.fileformats.jpeg/)
-* συνέλευση [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Jpeg](../../aspose.psd.fileformats.jpeg/)
+* assembly [Aspose.PSD](../../)
 
 

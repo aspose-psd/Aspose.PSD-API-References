@@ -1,14 +1,15 @@
 ---
-title: XmpException.XmpException
-second_title: Aspose.PSD για Αναφορά API .NET
-description: XmpException κατασκευαστής. Αρχικοποιεί μια νέα παρουσία τουXmpException τάξη.
+title: "XmpException.XmpException"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "XmpException κατασκευαστής. Αρχικοποιεί μια νέα παρουσία της κλάσης XmpException"
 type: docs
 weight: 10
 url: /el/net/aspose.psd.coreexceptions/xmpexception/xmpexception/
 ---
+{{< psd/tize >}}
 ## XmpException() {#constructor}
 
-Αρχικοποιεί μια νέα παρουσία του[`XmpException`](../) τάξη.
+Αρχικοποιεί μια νέα παρουσία της κλάσης [`XmpException`](../).
 
 ```csharp
 public XmpException()
@@ -17,14 +18,14 @@ public XmpException()
 ### Δείτε επίσης
 
 * class [XmpException](../)
-* χώρος ονομάτων [Aspose.PSD.CoreExceptions](../../xmpexception/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.CoreExceptions](../../../aspose.psd.coreexceptions/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## XmpException(string) {#constructor_1}
 
-Αρχικοποιεί μια νέα παρουσία του[`XmpException`](../) τάξη.
+Αρχικοποιεί μια νέα παρουσία της κλάσης [`XmpException`](../).
 
 ```csharp
 public XmpException(string message)
@@ -37,14 +38,14 @@ public XmpException(string message)
 ### Δείτε επίσης
 
 * class [XmpException](../)
-* χώρος ονομάτων [Aspose.PSD.CoreExceptions](../../xmpexception/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.CoreExceptions](../../../aspose.psd.coreexceptions/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## XmpException(string, Exception) {#constructor_2}
 
-Αρχικοποιεί μια νέα παρουσία του[`XmpException`](../) τάξη.
+Αρχικοποιεί μια νέα παρουσία της κλάσης [`XmpException`](../).
 
 ```csharp
 public XmpException(string message, Exception innerException)
@@ -58,7 +59,7 @@ public XmpException(string message, Exception innerException)
 ### Δείτε επίσης
 
 * class [XmpException](../)
-* χώρος ονομάτων [Aspose.PSD.CoreExceptions](../../xmpexception/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.CoreExceptions](../../../aspose.psd.coreexceptions/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: Class FileOpenSource
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Aspose.PSD.Sources.FileOpenSource τάξη. Αντιπροσωπεύει μια πηγή αρχείου για άνοιγμα.
+title: "Κλάση FileOpenSource"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Κλάση Aspose.PSD.Sources.FileOpenSource. Αντιπροσωπεύει μια πηγή αρχείου για άνοιγμα"
 type: docs
-weight: 5600
+weight: 6100
 url: /el/net/aspose.psd.sources/fileopensource/
 ---
+{{< psd/tize >}}
 ## FileOpenSource class
 
-Αντιπροσωπεύει μια πηγή αρχείου για άνοιγμα.
+Αναπαριστά πηγή αρχείου για άνοιγμα.
 
 ```csharp
 public sealed class FileOpenSource : FileSource
@@ -16,27 +17,27 @@ public sealed class FileOpenSource : FileSource
 
 ## Κατασκευαστές
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
-| [FileOpenSource](fileopensource/)(string) | Αρχικοποιεί μια νέα παρουσία του`FileOpenSource` τάξη. |
+| [FileOpenSource](fileopensource/)(string) | Αρχικοποιεί ένα νέο στιγμιότυπο της κλάσης `FileOpenSource`. |
 
 ## Ιδιότητες
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
 | [FilePath](../../aspose.psd.sources/fileopensource/filepath/) { get; } | Λαμβάνει τη διαδρομή του αρχείου για άνοιγμα. |
-| override [IsTemporal](../../aspose.psd.sources/fileopensource/istemporal/) { get; } | Λαμβάνει μια τιμή που υποδεικνύει εάν το αρχείο θα είναι προσωρινό. |
+| override [IsTemporal](../../aspose.psd.sources/fileopensource/istemporal/) { get; } | Λαμβάνει μια τιμή που υποδεικνύει αν το αρχείο θα είναι προσωρινό. |
 
 ## Μέθοδοι
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
 | override [GetStreamContainer](../../aspose.psd.sources/fileopensource/getstreamcontainer/)() | Λαμβάνει το κοντέινερ ροής. |
 
 ### Δείτε επίσης
 
 * class [FileSource](../filesource/)
-* χώρος ονομάτων [Aspose.PSD.Sources](../../aspose.psd.sources/)
-* συνέλευση [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Sources](../../aspose.psd.sources/)
+* assembly [Aspose.PSD](../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: RectangleF.op_Implicit
-second_title: Aspose.PSD για Αναφορά API .NET
-description: RectangleF μέθοδος. Μετατρέπει το καθορισμένοRectangle δομή σε αRectangleFδομή.
+title: "RectangleF.op_Implicit"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Μέθοδος RectangleF. Μετατρέπει τη συγκεκριμένη δομή Rectangle σε δομή RectangleF"
 type: docs
 weight: 280
 url: /el/net/aspose.psd/rectanglef/op_implicit/
 ---
+{{< psd/tize >}}
 ## RectangleF Implicit operator
 
-Μετατρέπει το καθορισμένο[`Rectangle`](../../rectangle/) δομή σε α[`RectangleF`](../)δομή.
+Μετατρέπει τη συγκεκριμένη δομή [`Rectangle`](../../rectangle/) σε δομή [`RectangleF`](../).
 
 ```csharp
 public static implicit operator RectangleF(Rectangle rect)
@@ -16,17 +17,17 @@ public static implicit operator RectangleF(Rectangle rect)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| rect | Rectangle | ο[`Rectangle`](../../rectangle/) δομή για μετατροπή. |
+| rect | Rectangle | Η δομή [`Rectangle`](../../rectangle/) προς μετατροπή. |
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-ο[`RectangleF`](../) δομή που μετατρέπεται από την καθορισμένη[`Rectangle`](../../rectangle/) δομή.
+Η δομή [`RectangleF`](../) που μετατράπηκε από τη συγκεκριμένη δομή [`Rectangle`](../../rectangle/).
 
 ### Δείτε επίσης
 
 * struct [Rectangle](../../rectangle/)
 * struct [RectangleF](../)
-* χώρος ονομάτων [Aspose.PSD](../../rectanglef/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

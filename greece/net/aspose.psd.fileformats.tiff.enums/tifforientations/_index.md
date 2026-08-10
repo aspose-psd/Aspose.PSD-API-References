@@ -1,11 +1,12 @@
 ---
-title: Enum TiffOrientations
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Aspose.PSD.FileFormats.Tiff.Enums.TiffOrientations αρίθμηση. Προσανατολισμός εικόνας. Πιθανές τιμές για την ετικέτα ORIENTATION.
+title: "Enum TiffOrientations"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Aspose.PSD.FileFormats.Tiff.Enums.TiffOrientations enum. Προσανατολισμός εικόνας. Πιθανές τιμές για την ετικέτα ORIENTATION."
 type: docs
-weight: 4110
+weight: 4580
 url: /el/net/aspose.psd.fileformats.tiff.enums/tifforientations/
 ---
+{{< psd/tize >}}
 ## TiffOrientations enumeration
 
 Προσανατολισμός εικόνας. Πιθανές τιμές για την ετικέτα ORIENTATION.
@@ -14,22 +15,22 @@ url: /el/net/aspose.psd.fileformats.tiff.enums/tifforientations/
 public enum TiffOrientations : ushort
 ```
 
-### Αξίες
+### Τιμές
 
-| Ονομα | αξία | Περιγραφή |
+| Όνομα | Τιμή | Περιγραφή |
 | --- | --- | --- |
-| TopLeft | `1` | Σειρά 0 επάνω, Στήλη 0 lhs. |
-| TopRight | `2` | Σειρά 0 επάνω, Στήλη 0 rhs. |
-| BottomRight | `3` | Σειρά 0 κάτω, Στήλη 0 rhs. |
-| BottomLeft | `4` | Σειρά 0 κάτω, στήλη 0 lhs. |
-| LeftTop | `5` | Σειρά 0 lhs, Στήλη 0 επάνω. |
-| RightTop | `6` | Σειρά 0 rhs, Στήλη 0 επάνω. |
-| RightBottom | `7` | Σειρά 0 rhs, Στήλη 0 κάτω. |
-| LeftBottom | `8` | Σειρά 0 lhs, Στήλη 0 κάτω. |
+| TopLeft | `1` | Γραμμή 0 πάνω, Στήλη 0 αριστερά. |
+| TopRight | `2` | Γραμμή 0 πάνω, Στήλη 0 δεξιά. |
+| BottomRight | `3` | Γραμμή 0 κάτω, Στήλη 0 δεξιά. |
+| BottomLeft | `4` | Γραμμή 0 κάτω, Στήλη 0 αριστερά. |
+| LeftTop | `5` | Γραμμή 0 αριστερά, Στήλη 0 πάνω. |
+| RightTop | `6` | Γραμμή 0 δεξιά, Στήλη 0 πάνω. |
+| RightBottom | `7` | Γραμμή 0 δεξιά, Στήλη 0 κάτω. |
+| LeftBottom | `8` | Γραμμή 0 αριστερά, Στήλη 0 κάτω. |
 
 ### Δείτε επίσης
 
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Tiff.Enums](../../aspose.psd.fileformats.tiff.enums/)
-* συνέλευση [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Tiff.Enums](../../aspose.psd.fileformats.tiff.enums/)
+* assembly [Aspose.PSD](../../)
 
 

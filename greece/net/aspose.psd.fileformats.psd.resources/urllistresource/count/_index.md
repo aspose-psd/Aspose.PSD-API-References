@@ -1,27 +1,28 @@
 ---
-title: UrlListResource.Count
-second_title: Aspose.PSD για Αναφορά API .NET
-description: UrlListResource ιδιοκτησία. Λαμβάνει ή ορίζει το πλήθος.
+title: "UrlListResource.Count"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "UrlListResource ιδιότητα. Λαμβάνει ή ορίζει το count"
 type: docs
 weight: 20
 url: /el/net/aspose.psd.fileformats.psd.resources/urllistresource/count/
 ---
+{{< psd/tize >}}
 ## UrlListResource.Count property
 
-Λαμβάνει ή ορίζει το πλήθος.
+Λαμβάνει ή ορίζει τον αριθμό.
 
 ```csharp
 public int Count { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Το πλήθος.
+Ο αριθμός.
 
 ### Δείτε επίσης
 
 * class [UrlListResource](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Resources](../../urllistresource/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

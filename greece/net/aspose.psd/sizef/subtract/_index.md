@@ -1,14 +1,15 @@
 ---
-title: SizeF.Subtract
-second_title: Aspose.PSD για Αναφορά API .NET
-description: SizeF μέθοδος. Αφαιρεί το πλάτος και το ύψος του ενόςSizeF δομή από το πλάτος και το ύψος μιας άλληςSizeFδομή.
+title: "SizeF.Subtract"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Μέθοδος SizeF. Αφαιρεί το πλάτος και το ύψος μιας δομής SizeF από το πλάτος και το ύψος μιας άλλης δομής SizeF."
 type: docs
 weight: 40
 url: /el/net/aspose.psd/sizef/subtract/
 ---
+{{< psd/tize >}}
 ## SizeF.Subtract method
 
-Αφαιρεί το πλάτος και το ύψος του ενός[`SizeF`](../) δομή από το πλάτος και το ύψος μιας άλλης[`SizeF`](../)δομή.
+Αφαιρεί το πλάτος και το ύψος μιας δομής [`SizeF`](../) από το πλάτος και το ύψος μιας άλλης δομής [`SizeF`](../).
 
 ```csharp
 public static SizeF Subtract(SizeF size1, SizeF size2)
@@ -16,17 +17,17 @@ public static SizeF Subtract(SizeF size1, SizeF size2)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| size1 | SizeF | ο[`SizeF`](../) δομή στην αριστερή πλευρά του τελεστή αφαίρεσης. |
-| size2 | SizeF | ο[`SizeF`](../) δομή στη δεξιά πλευρά του τελεστή αφαίρεσης. |
+| size1 | SizeF | Η δομή [`SizeF`](../) στην αριστερή πλευρά του τελεστή αφαίρεσης. |
+| size2 | SizeF | Η δομή [`SizeF`](../) στη δεξιά πλευρά του τελεστή αφαίρεσης. |
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-ο[`SizeF`](../)που είναι αποτέλεσμα της αφαίρεσης.
+Η [`SizeF`](../) που είναι αποτέλεσμα της λειτουργίας αφαίρεσης.
 
 ### Δείτε επίσης
 
 * struct [SizeF](../)
-* χώρος ονομάτων [Aspose.PSD](../../sizef/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

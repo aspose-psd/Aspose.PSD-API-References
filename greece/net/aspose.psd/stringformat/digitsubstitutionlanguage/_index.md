@@ -1,31 +1,32 @@
 ---
-title: StringFormat.DigitSubstitutionLanguage
-second_title: Aspose.PSD για Αναφορά API .NET
-description: StringFormat ιδιοκτησία. Λαμβάνει ή ορίζει τη γλώσσα που χρησιμοποιείται όταν τα τοπικά ψηφία αντικαθιστούν τα δυτικά ψηφία.
+title: "StringFormat.DigitSubstitutionLanguage"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα StringFormat. Επιστρέφει ή ορίζει τη γλώσσα που χρησιμοποιείται όταν τα τοπικά ψηφία αντικαθίστανται από δυτικά ψηφία"
 type: docs
-weight: 50
+weight: 60
 url: /el/net/aspose.psd/stringformat/digitsubstitutionlanguage/
 ---
+{{< psd/tize >}}
 ## StringFormat.DigitSubstitutionLanguage property
 
-Λαμβάνει ή ορίζει τη γλώσσα που χρησιμοποιείται όταν τα τοπικά ψηφία αντικαθιστούν τα δυτικά ψηφία.
+Λαμβάνει ή ορίζει τη γλώσσα που χρησιμοποιείται όταν τα τοπικά ψηφία αντικαθίστανται με δυτικά ψηφία.
 
 ```csharp
 public int DigitSubstitutionLanguage { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Ένα αναγνωριστικό γλώσσας National Language Support (NLS) που προσδιορίζει τη γλώσσα που θα χρησιμοποιηθεί όταν τα δυτικά ψηφία αντικαθιστούν τα τοπικά ψηφία. Μπορείτε να περάσετε τοLCID ιδιοκτησία του αCultureInfo αντικείμενο ως αναγνωριστικό γλώσσας NLS. Για παράδειγμα, ας υποθέσουμε ότι δημιουργήσατε έναCultureInfo αντικείμενο περνώντας τη συμβολοσειρά "ar-EG" στο aCultureInfo κατασκευαστής. Αν περάσετε τοLCID ιδιοκτησία αυτούCultureInfo αντικείμενο μαζί με. Traditional στοStringDigitSubstitute) μέθοδος, τότε τα δυτικά ψηφία θα αντικατασταθούν με τα δυτικά ψηφία κατά την εμφάνιση.
+Ένα αναγνωριστικό γλώσσας National Language Support (NLS) που προσδιορίζει τη γλώσσα που θα χρησιμοποιηθεί όταν τα τοπικά ψηφία αντικατασταθούν από δυτικά ψηφία. Μπορείτε να περάσετε την ιδιότητα LCID ενός αντικειμένου CultureInfo ως το αναγνωριστικό γλώσσας NLS. Για παράδειγμα, υποθέστε ότι δημιουργείτε ένα αντικείμενο CultureInfo περνώντας τη συμβολοσειρά "ar-EG" σε έναν κατασκευαστή CultureInfo. Εάν περάσετε την ιδιότητα LCID εκείνου του αντικειμένου CultureInfo μαζί με τη μέθοδο StringDigitSubstitute, τότε τα αραβικά-ινδικά ψηφία θα αντικατασταθούν από δυτικά ψηφία κατά την εμφάνιση.
 
-### Παρατηρήσεις
+## Σχόλια
 
-Ο ρυθμιστής εισάγεται για την απαρχαιωμένη μέθοδο SetDigitSubstitution.
+Ο οριστής εισάγεται για την παρωχημένη μέθοδο SetDigitSubstitution.
 
 ### Δείτε επίσης
 
 * class [StringFormat](../)
-* χώρος ονομάτων [Aspose.PSD](../../stringformat/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

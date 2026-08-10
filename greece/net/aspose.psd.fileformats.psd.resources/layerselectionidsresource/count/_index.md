@@ -1,27 +1,28 @@
 ---
-title: LayerSelectionIdsResource.Count
-second_title: Aspose.PSD για Αναφορά API .NET
-description: LayerSelectionIdsResource ιδιοκτησία. Λαμβάνει ή ορίζει το πλήθος.
+title: "LayerSelectionIdsResource.Count"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα LayerSelectionIdsResource. Λαμβάνει ή ορίζει τον αριθμό"
 type: docs
 weight: 20
 url: /el/net/aspose.psd.fileformats.psd.resources/layerselectionidsresource/count/
 ---
+{{< psd/tize >}}
 ## LayerSelectionIdsResource.Count property
 
-Λαμβάνει ή ορίζει το πλήθος.
+Λαμβάνει ή ορίζει τον αριθμό.
 
 ```csharp
 public short Count { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Το πλήθος.
+Ο αριθμός.
 
 ### Δείτε επίσης
 
 * class [LayerSelectionIdsResource](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Resources](../../layerselectionidsresource/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

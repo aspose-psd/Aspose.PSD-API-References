@@ -1,14 +1,15 @@
 ---
-title: Lfx2Resource.Length
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Lfx2Resource ιδιοκτησία. Λαμβάνει το μήκος του πόρου του επιπέδου σε byte.
+title: "Lfx2Resource.Length"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Lfx2Resource ιδιότητα. Λαμβάνει το μήκος του πόρου στρώματος σε byte"
 type: docs
-weight: 40
+weight: 30
 url: /el/net/aspose.psd.fileformats.psd.layers.layerresources/lfx2resource/length/
 ---
+{{< psd/tize >}}
 ## Lfx2Resource.Length property
 
-Λαμβάνει το μήκος του πόρου του επιπέδου σε byte.
+Λαμβάνει το μήκος του πόρου του επιπέδου σε bytes.
 
 ```csharp
 public override int Length { get; }
@@ -17,7 +18,7 @@ public override int Length { get; }
 ### Δείτε επίσης
 
 * class [Lfx2Resource](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../lfx2resource/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

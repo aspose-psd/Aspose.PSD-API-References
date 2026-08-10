@@ -1,14 +1,15 @@
 ---
-title: XmpMeta.Equals
-second_title: Aspose.PSD για Αναφορά API .NET
-description: XmpMeta μέθοδος. Υποδεικνύει εάν το τρέχον αντικείμενο είναι ίσο με άλλο αντικείμενο του ίδιου τύπου.
+title: "XmpMeta.Equals"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Μέθοδος XmpMeta. Υποδεικνύει εάν το τρέχον αντικείμενο είναι ίσο με άλλο αντικείμενο του ίδιου τύπου"
 type: docs
 weight: 40
 url: /el/net/aspose.psd.xmp/xmpmeta/equals/
 ---
+{{< psd/tize >}}
 ## Equals(XmpMeta) {#equals_1}
 
-Υποδεικνύει εάν το τρέχον αντικείμενο είναι ίσο με άλλο αντικείμενο του ίδιου τύπου.
+Δείχνει εάν το τρέχον αντικείμενο είναι ίσο με άλλο αντικείμενο του ίδιου τύπου.
 
 ```csharp
 public bool Equals(XmpMeta other)
@@ -16,23 +17,23 @@ public bool Equals(XmpMeta other)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| other | XmpMeta | Ένα αντικείμενο προς σύγκριση με αυτό το αντικείμενο. |
+| other | XmpMeta | Ένα αντικείμενο για σύγκριση με αυτό το αντικείμενο. |
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-true αν το τρέχον αντικείμενο είναι ίσο με το*other* παράμετρος? διαφορετικά, ψευδής.
+αληθές εάν το τρέχον αντικείμενο είναι ίσο με την παράμετρο *other*· διαφορετικά, ψευδές.
 
 ### Δείτε επίσης
 
 * class [XmpMeta](../)
-* χώρος ονομάτων [Aspose.PSD.Xmp](../../xmpmeta/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Equals(object) {#equals_2}
 
-Καθορίζει εάν το καθορισμένοObject , ισούται με αυτήν την περίπτωση.
+Καθορίζει εάν το καθορισμένο Object είναι ίσο με αυτήν την παρουσία.
 
 ```csharp
 public override bool Equals(object other)
@@ -40,16 +41,16 @@ public override bool Equals(object other)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| other | Object | οObject για σύγκριση με αυτήν την περίπτωση. |
+| other | Object | Το Object για σύγκριση με αυτήν την παρουσία. |
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-`αληθής` εάν το καθορισμένοObject ισούται με αυτήν την περίπτωση. σε διαφορετική περίπτωση,`ψευδής` .
+`true` εάν το καθορισμένο Object είναι ίσο με αυτήν την παρουσία· διαφορετικά, `false`.
 
 ### Δείτε επίσης
 
 * class [XmpMeta](../)
-* χώρος ονομάτων [Aspose.PSD.Xmp](../../xmpmeta/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

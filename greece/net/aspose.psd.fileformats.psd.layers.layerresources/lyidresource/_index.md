@@ -1,14 +1,15 @@
 ---
-title: Class LyidResource
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.LyidResource τάξη. Class LyidResource.
+title: "Κλάση LyidResource"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Aspose.PSD.FileFormats.Psd.Layers.LayerResources.LyidResource κλάση. Κλάση LyidResource"
 type: docs
-weight: 2810
+weight: 3140
 url: /el/net/aspose.psd.fileformats.psd.layers.layerresources/lyidresource/
 ---
+{{< psd/tize >}}
 ## LyidResource class
 
-Class LyidResource.
+Κλάση LyidResource.
 
 ```csharp
 public class LyidResource : LayerResource
@@ -16,38 +17,38 @@ public class LyidResource : LayerResource
 
 ## Κατασκευαστές
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
-| [LyidResource](lyidresource/#constructor)(byte[]) | Αρχικοποιεί μια νέα παρουσία του`LyidResource` class. Με προσαρμοσμένη ή άγνωστη τιμή |
-| [LyidResource](lyidresource/#constructor_1)(int) | Αρχικοποιεί μια νέα παρουσία του`LyidResource` τάξη. |
+| [LyidResource](lyidresource/#constructor)(byte[]) | Αρχικοποιεί μια νέα παρουσία της κλάσης `LyidResource`. Με προσαρμοσμένη ή άγνωστη τιμή |
+| [LyidResource](lyidresource/#constructor_1)(int) | Αρχικοποιεί μια νέα παρουσία της κλάσης `LyidResource`. |
 
 ## Ιδιότητες
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
-| override [Key](../../aspose.psd.fileformats.psd.layers.layerresources/lyidresource/key/) { get; } | Λαμβάνει το κλειδί πόρων επιπέδου. |
-| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/lyidresource/length/) { get; } | Λαμβάνει το μήκος του πόρου του επιπέδου σε byte. |
-| override [PsdVersion](../../aspose.psd.fileformats.psd.layers.layerresources/lyidresource/psdversion/) { get; } | Λαμβάνει την έκδοση psd. |
-| override [Signature](../../aspose.psd.fileformats.psd.layers.layerresources/lyidresource/signature/) { get; } | Παίρνει την υπογραφή. |
-| [Value](../../aspose.psd.fileformats.psd.layers.layerresources/lyidresource/value/) { get; } | Παίρνει την τιμή. |
+| [Key](../../aspose.psd.fileformats.psd.layers/layerresource/key/) { get; } | Λαμβάνει το κλειδί πόρου του επιπέδου. |
+| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/lyidresource/length/) { get; } | Λαμβάνει το μήκος του πόρου του επιπέδου σε bytes. |
+| virtual [PsdVersion](../../aspose.psd.fileformats.psd.layers/layerresource/psdversion/) { get; } | Λαμβάνει την ελάχιστη έκδοση psd που απαιτείται για τον πόρο του επιπέδου. 0 υποδεικνύει ότι δεν υπάρχουν περιορισμοί. |
+| virtual [Signature](../../aspose.psd.fileformats.psd.layers/layerresource/signature/) { get; } | Λαμβάνει την υπογραφή. |
+| [Value](../../aspose.psd.fileformats.psd.layers.layerresources/lyidresource/value/) { get; } | Λαμβάνει την τιμή. |
 
 ## Μέθοδοι
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
-| override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/lyidresource/save/)(StreamContainer, int) | Αποθηκεύεται στο καθορισμένο κοντέινερ ροής. |
-| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring/)() | Επιστρέφει αString που αντιπροσωπεύει αυτήν την περίπτωση. |
+| override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/lyidresource/save/)(StreamContainer, int) | Αποθηκεύει στο καθορισμένο κοντέινερ ροής. |
+| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring/)() | Επιστρέφει ένα String που αντιπροσωπεύει αυτήν την περίπτωση. |
 
 ## Πεδία
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
-| const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/lyidresource/typetoolkey/) | Το κλειδί πληροφοριών εργαλείου τύπου. |
+| const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/lyidresource/typetoolkey/) | Το κλειδί πληροφοριών του εργαλείου τύπου. |
 
 ### Δείτε επίσης
 
 * class [LayerResource](../../aspose.psd.fileformats.psd.layers/layerresource/)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
-* συνέλευση [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../)
 
 

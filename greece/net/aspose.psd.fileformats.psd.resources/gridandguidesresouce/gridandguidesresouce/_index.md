@@ -1,11 +1,12 @@
 ---
-title: GridAndGuidesResouce.GridAndGuidesResouce
-second_title: Aspose.PSD για Αναφορά API .NET
-description: GridAndGuidesResouce κατασκευαστής. Ο προεπιλεγμένος κατασκευαστής.
+title: "GridAndGuidesResouce.GridAndGuidesResouce"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Κατασκευαστής GridAndGuidesResouce. Ο προεπιλεγμένος κατασκευαστής."
 type: docs
 weight: 10
 url: /el/net/aspose.psd.fileformats.psd.resources/gridandguidesresouce/gridandguidesresouce/
 ---
+{{< psd/tize >}}
 ## GridAndGuidesResouce constructor
 
 Ο προεπιλεγμένος κατασκευαστής.
@@ -17,7 +18,7 @@ public GridAndGuidesResouce()
 ### Δείτε επίσης
 
 * class [GridAndGuidesResouce](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Resources](../../gridandguidesresouce/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

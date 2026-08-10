@@ -1,14 +1,15 @@
 ---
-title: AiHeader.Item
-second_title: Aspose.PSD για Αναφορά API .NET
-description: AiHeader ιδιοκτησία. Λαμβάνει ή ορίζει τοString με το καθορισμένο όνομα ιδιότητας.
+title: "AiHeader.Item"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "AiHeader ιδιότητα. Λαμβάνει ή ορίζει το String με το καθορισμένο όνομα ιδιότητας"
 type: docs
 weight: 90
 url: /el/net/aspose.psd.fileformats.ai/aiheader/item/
 ---
+{{< psd/tize >}}
 ## AiHeader indexer
 
-Λαμβάνει ή ορίζει τοString με το καθορισμένο όνομα ιδιότητας.
+Λαμβάνει ή ορίζει τη συμβολοσειρά με το συγκεκριμένο όνομα ιδιότητας.
 
 ```csharp
 public string this[string propertyName] { get; set; }
@@ -16,16 +17,16 @@ public string this[string propertyName] { get; set; }
 
 | Παράμετρος | Περιγραφή |
 | --- | --- |
-| propertyName | Όνομα του ακινήτου. |
+| propertyName | Όνομα της ιδιότητας. |
 
-### Αξία περιουσίας
+### Property Value
 
-ΤοString .
+Το String.
 
 ### Δείτε επίσης
 
 * class [AiHeader](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Ai](../../aiheader/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: Class AiFinalizeSection
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Aspose.PSD.FileFormats.Ai.AiFinalizeSection τάξη. Η μορφή Ai Finalize Section
+title: "Κλάση AiFinalizeSection"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Aspose.PSD.FileFormats.Ai.AiFinalizeSection κλάση. Η ενότητα ολοκλήρωσης μορφής Ai"
 type: docs
-weight: 1230
+weight: 1240
 url: /el/net/aspose.psd.fileformats.ai/aifinalizesection/
 ---
+{{< psd/tize >}}
 ## AiFinalizeSection class
 
-Η μορφή Ai Finalize Section
+Η ενότητα ολοκλήρωσης του μορφότυπου Ai
 
 ```csharp
 public sealed class AiFinalizeSection : AiSection
@@ -16,14 +17,14 @@ public sealed class AiFinalizeSection : AiSection
 
 ## Μέθοδοι
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
 | [GetData](../../aspose.psd.fileformats.ai/aisection/getdata/)() | Λαμβάνει τα δεδομένα συμβολοσειράς. |
 
 ### Δείτε επίσης
 
 * class [AiSection](../aisection/)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Ai](../../aspose.psd.fileformats.ai/)
-* συνέλευση [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../)
 
 

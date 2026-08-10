@@ -1,14 +1,15 @@
 ---
-title: ColorTranslator.ToOle
-second_title: Aspose.PSD για Αναφορά API .NET
-description: ColorTranslator μέθοδος. Μεταφράζει το χρώμα OLE σε χρώμα.
+title: "ColorTranslator.ToOle"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Μέθοδος ColorTranslator. Μετατρέπει το χρώμα OLE σε χρώμα"
 type: docs
 weight: 50
 url: /el/net/aspose.psd/colortranslator/toole/
 ---
+{{< psd/tize >}}
 ## ColorTranslator.ToOle method
 
-Μεταφράζει το χρώμα OLE σε χρώμα.
+Μετατρέπει χρώμα OLE σε χρώμα.
 
 ```csharp
 public static int ToOle(Color c)
@@ -16,9 +17,9 @@ public static int ToOle(Color c)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| c | Color | Το χρώμα. |
+| c | Χρώμα | Το χρώμα. |
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
 Το χρώμα OLE.
 
@@ -26,7 +27,7 @@ public static int ToOle(Color c)
 
 * struct [Color](../../color/)
 * class [ColorTranslator](../)
-* χώρος ονομάτων [Aspose.PSD](../../colortranslator/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

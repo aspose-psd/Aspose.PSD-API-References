@@ -1,22 +1,23 @@
 ---
-title: PathStructure.StructureKey
-second_title: Aspose.PSD για Αναφορά API .NET
-description: PathStructure πεδίο. Προσδιορίζει το κλειδί δομής.
+title: "PathStructure.StructureKey"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Πεδίο PathStructure. Προσδιορίζει το κλειδί της δομής"
 type: docs
 weight: 60
 url: /el/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/pathstructure/structurekey/
 ---
+{{< psd/tize >}}
 ## PathStructure.StructureKey field
 
-Προσδιορίζει το κλειδί δομής.
+Αναγνωρίζει το κλειδί της δομής.
 
 ```csharp
 public const int StructureKey;
 ```
 
-### Παραδείγματα
+## Παραδείγματα
 
-Ο παρακάτω κώδικας δείχνει τη δυνατότητα φόρτωσης αρχείου με δομή PathStructure.
+Ο παρακάτω κώδικας δείχνει τη δυνατότητα φόρτωσης αρχείου με τη δομή PathStructure.
 
 ```csharp
 [C#]
@@ -33,7 +34,7 @@ using (PsdImage image = (PsdImage)Image.Load(srcFile))
 ### Δείτε επίσης
 
 * class [PathStructure](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../pathstructure/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 

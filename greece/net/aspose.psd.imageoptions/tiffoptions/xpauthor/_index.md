@@ -1,27 +1,28 @@
 ---
-title: TiffOptions.XPAuthor
-second_title: Aspose.PSD για Αναφορά API .NET
-description: TiffOptions ιδιοκτησία. Λαμβάνει ή ορίζει τον συγγραφέα εικόνας που χρησιμοποιείται από την Εξερεύνηση των Windows.
+title: "TiffOptions.XPAuthor"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα TiffOptions. Λαμβάνει ή ορίζει τον δημιουργό εικόνας που χρησιμοποιείται από τον Windows Explorer"
 type: docs
-weight: 590
+weight: 600
 url: /el/net/aspose.psd.imageoptions/tiffoptions/xpauthor/
 ---
+{{< psd/tize >}}
 ## TiffOptions.XPAuthor property
 
-Λαμβάνει ή ορίζει τον συγγραφέα εικόνας, που χρησιμοποιείται από την Εξερεύνηση των Windows.
+Λαμβάνει ή ορίζει τον δημιουργό της εικόνας, που χρησιμοποιείται από τον Windows Explorer.
 
 ```csharp
 public string XPAuthor { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Image Author, που χρησιμοποιείται από την Εξερεύνηση των Windows. Το`XPAuthor` αγνοείται από την Εξερεύνηση των Windows εάν το[`Artist`](../artist/) η ετικέτα υπάρχει.
+Δημιουργός εικόνας, χρησιμοποιείται από τον Windows Explorer. Το `XPAuthor` αγνοείται από τον Windows Explorer εάν υπάρχει η ετικέτα [`Artist`](../artist/).
 
 ### Δείτε επίσης
 
 * class [TiffOptions](../)
-* χώρος ονομάτων [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

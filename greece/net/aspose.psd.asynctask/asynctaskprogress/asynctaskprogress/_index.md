@@ -1,14 +1,15 @@
 ---
-title: AsyncTaskProgress.AsyncTaskProgress
-second_title: Aspose.PSD για Αναφορά API .NET
-description: AsyncTaskProgress κατασκευαστής. Αρχικοποιεί μια νέα παρουσία τουAsyncTaskProgress τάξη.
+title: "AsyncTaskProgress.AsyncTaskProgress"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Κατασκευαστής AsyncTaskProgress. Αρχικοποιεί μια νέα παρουσία της κλάσης AsyncTaskProgress"
 type: docs
 weight: 10
 url: /el/net/aspose.psd.asynctask/asynctaskprogress/asynctaskprogress/
 ---
+{{< psd/tize >}}
 ## AsyncTaskProgress constructor
 
-Αρχικοποιεί μια νέα παρουσία του[`AsyncTaskProgress`](../) τάξη.
+Αρχικοποιεί μια νέα παρουσία της κλάσης [`AsyncTaskProgress`](../).
 
 ```csharp
 public AsyncTaskProgress(int progressPercentage, TimeSpan duration)
@@ -17,12 +18,12 @@ public AsyncTaskProgress(int progressPercentage, TimeSpan duration)
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
 | progressPercentage | Int32 | Το ποσοστό προόδου. |
-| duration | TimeSpan | Η διάρκεια. |
+| διάρκεια | TimeSpan | Η διάρκεια. |
 
 ### Δείτε επίσης
 
 * class [AsyncTaskProgress](../)
-* χώρος ονομάτων [Aspose.PSD.AsyncTask](../../asynctaskprogress/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.AsyncTask](../../../aspose.psd.asynctask/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: FXidResource.Version
-second_title: Aspose.PSD για Αναφορά API .NET
-description: FXidResource ιδιοκτησία. Λαμβάνει την έκδοση.
+title: "FXidResource.Version"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "FXidResource ιδιότητα. Επιστρέφει την έκδοση"
 type: docs
-weight: 70
+weight: 40
 url: /el/net/aspose.psd.fileformats.psd.layers.layerresources/fxidresource/version/
 ---
+{{< psd/tize >}}
 ## FXidResource.Version property
 
 Λαμβάνει την έκδοση.
@@ -17,7 +18,7 @@ public int Version { get; }
 ### Δείτε επίσης
 
 * class [FXidResource](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../fxidresource/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

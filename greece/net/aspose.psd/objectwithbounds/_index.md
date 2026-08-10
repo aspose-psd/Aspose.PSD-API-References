@@ -1,11 +1,12 @@
 ---
-title: Class ObjectWithBounds
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Aspose.PSD.ObjectWithBounds τάξη. Το αντικείμενο που έχει όρια.
+title: "Κλάση ObjectWithBounds"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Κλάση Aspose.PSD.ObjectWithBounds. Το αντικείμενο που έχει όρια."
 type: docs
-weight: 5160
+weight: 5650
 url: /el/net/aspose.psd/objectwithbounds/
 ---
+{{< psd/tize >}}
 ## ObjectWithBounds class
 
 Το αντικείμενο που έχει όρια.
@@ -16,13 +17,13 @@ public abstract class ObjectWithBounds
 
 ## Ιδιότητες
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
 | abstract [Bounds](../../aspose.psd/objectwithbounds/bounds/) { get; } | Λαμβάνει τα όρια του αντικειμένου. |
 
 ## Μέθοδοι
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
 | abstract [GetBounds](../../aspose.psd/objectwithbounds/getbounds/#getbounds)(Matrix) | Λαμβάνει τα όρια του αντικειμένου. |
 | abstract [GetBounds](../../aspose.psd/objectwithbounds/getbounds/#getbounds_1)(Matrix, Pen) | Λαμβάνει τα όρια του αντικειμένου. |
@@ -30,7 +31,7 @@ public abstract class ObjectWithBounds
 
 ### Δείτε επίσης
 
-* χώρος ονομάτων [Aspose.PSD](../../aspose.psd/)
-* συνέλευση [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

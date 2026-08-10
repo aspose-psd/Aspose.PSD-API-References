@@ -1,11 +1,12 @@
 ---
-title: Class DublinCorePackage
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Aspose.PSD.Xmp.Schemas.DublinCore.DublinCorePackage τάξη. Αντιπροσωπεύει το σχήμα Dublic Core.
+title: "Κλάση DublinCorePackage"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Aspose.PSD.Xmp.Schemas.DublinCore.DublinCorePackage κλάση. Αναπαριστά το σχήμα Dublin Core."
 type: docs
-weight: 5780
+weight: 6280
 url: /el/net/aspose.psd.xmp.schemas.dublincore/dublincorepackage/
 ---
+{{< psd/tize >}}
 ## DublinCorePackage class
 
 Αντιπροσωπεύει το σχήμα Dublic Core.
@@ -16,30 +17,30 @@ public sealed class DublinCorePackage : XmpPackage
 
 ## Κατασκευαστές
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
 | [DublinCorePackage](dublincorepackage/)() | Ο προεπιλεγμένος κατασκευαστής. |
 
 ## Ιδιότητες
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
-| virtual [Item](../../aspose.psd.xmp/xmppackage/item/) { get; set; } | Λαμβάνει ή ορίζει τοObject με το καθορισμένο κλειδί. |
-| virtual [Keys](../../aspose.psd.xmp/xmppackage/keys/) { get; } | Παίρνει τα κλειδιά στο πακέτο XMP. |
-| [NamespaceUri](../../aspose.psd.xmp/xmppackage/namespaceuri/) { get; } | Λαμβάνει το URI χώρου ονομάτων. |
-| [Prefix](../../aspose.psd.xmp/xmppackage/prefix/) { get; } | Παίρνει το πρόθεμα. |
-| [XmlNamespace](../../aspose.psd.xmp/xmppackage/xmlnamespace/) { get; } | Λαμβάνει τον χώρο ονομάτων XML. |
+| virtual [Item](../../aspose.psd.xmp/xmppackage/item/) { get; set; } | Λαμβάνει ή ορίζει το Object με το καθορισμένο κλειδί. |
+| virtual [Keys](../../aspose.psd.xmp/xmppackage/keys/) { get; } | Λαμβάνει τα κλειδιά στο πακέτο XMP. |
+| [NamespaceUri](../../aspose.psd.xmp/xmppackage/namespaceuri/) { get; } | Λαμβάνει το URI του χώρου ονομάτων. |
+| [Prefix](../../aspose.psd.xmp/xmppackage/prefix/) { get; } | Λαμβάνει το πρόθεμα. |
+| [XmlNamespace](../../aspose.psd.xmp/xmppackage/xmlnamespace/) { get; } | Λαμβάνει το χώρο ονομάτων XML. |
 
 ## Μέθοδοι
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
-| override [AddValue](../../aspose.psd.xmp.schemas.dublincore/dublincorepackage/addvalue/)(string, string) | Προσθέτει την ιδιότητα συμβολοσειράς. |
-| virtual [Clear](../../aspose.psd.xmp/xmppackage/clear/)() | Διαγράφει αυτήν την παρουσία. |
-| virtual [ContainsKey](../../aspose.psd.xmp/xmppackage/containskey/)(string) | Καθορίζει εάν το καθορισμένο κλειδί περιέχει κλειδί. |
-| [GetEnumerator](../../aspose.psd.xmp/xmppackage/getenumerator/)() | Επιστρέφει έναν απαριθμητή που επαναλαμβάνει τη συλλογή. |
+| override [AddValue](../../aspose.psd.xmp.schemas.dublincore/dublincorepackage/addvalue/)(string, string) | Προσθέτει ιδιότητα συμβολοσειράς. |
+| virtual [Clear](../../aspose.psd.xmp/xmppackage/clear/)() | Καθαρίζει αυτήν την παρουσία. |
+| virtual [ContainsKey](../../aspose.psd.xmp/xmppackage/containskey/)(string) | Καθορίζει εάν το καθορισμένο κλειδί περιέχει το κλειδί. |
+| [GetEnumerator](../../aspose.psd.xmp/xmppackage/getenumerator/)() | Επιστρέφει έναν enumerator που διατρέχει τη συλλογή. |
 | virtual [GetXmlValue](../../aspose.psd.xmp/xmppackage/getxmlvalue/)() | Μετατρέπει την τιμή XMP στην αναπαράσταση XML. |
-| virtual [Remove](../../aspose.psd.xmp/xmppackage/remove/)(string) | Αφαιρέστε την τιμή με το καθορισμένο κλειδί. |
+| virtual [Remove](../../aspose.psd.xmp/xmppackage/remove/)(string) | Αφαιρεί την τιμή με το καθορισμένο κλειδί. |
 | [SetAuthor](../../aspose.psd.xmp.schemas.dublincore/dublincorepackage/setauthor/#setauthor)(string) | Προσθέτει τον συγγραφέα. |
 | [SetAuthor](../../aspose.psd.xmp.schemas.dublincore/dublincorepackage/setauthor/#setauthor_1)(string[]) | Προσθέτει τον συγγραφέα. |
 | [SetDescription](../../aspose.psd.xmp.schemas.dublincore/dublincorepackage/setdescription/#setdescription)(LangAlt) | Προσθέτει την περιγραφή. |
@@ -53,14 +54,14 @@ public sealed class DublinCorePackage : XmpPackage
 | virtual [SetValue](../../aspose.psd.xmp/xmppackage/setvalue/)(string, IXmlValue) | Ορίζει την τιμή. |
 | virtual [SetXmpTypeValue](../../aspose.psd.xmp/xmppackage/setxmptypevalue/)(string, XmpTypeBase) | Ορίζει την τιμή τύπου XMP. |
 
-### Παρατηρήσεις
+## Σχόλια
 
 Για περισσότερες πληροφορίες, δείτε: http://dublincore.org/documents/usageguide/elements.shtml.
 
 ### Δείτε επίσης
 
 * class [XmpPackage](../../aspose.psd.xmp/xmppackage/)
-* χώρος ονομάτων [Aspose.PSD.Xmp.Schemas.DublinCore](../../aspose.psd.xmp.schemas.dublincore/)
-* συνέλευση [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Xmp.Schemas.DublinCore](../../aspose.psd.xmp.schemas.dublincore/)
+* assembly [Aspose.PSD](../../)
 
 

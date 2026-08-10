@@ -1,14 +1,15 @@
 ---
-title: XmpHeaderPi.XmpHeaderPi
-second_title: Aspose.PSD για Αναφορά API .NET
-description: XmpHeaderPi κατασκευαστής. Αρχικοποιεί μια νέα παρουσία τουXmpHeaderPi τάξη.
+title: "XmpHeaderPi.XmpHeaderPi"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Κατασκευαστής XmpHeaderPi. Αρχικοποιεί ένα νέο αντικείμενο της κλάσης XmpHeaderPi."
 type: docs
 weight: 10
 url: /el/net/aspose.psd.xmp/xmpheaderpi/xmpheaderpi/
 ---
+{{< psd/tize >}}
 ## XmpHeaderPi() {#constructor}
 
-Αρχικοποιεί μια νέα παρουσία του[`XmpHeaderPi`](../) τάξη.
+Αρχικοποιεί ένα νέο αντικείμενο της κλάσης [`XmpHeaderPi`](../).
 
 ```csharp
 public XmpHeaderPi()
@@ -17,14 +18,14 @@ public XmpHeaderPi()
 ### Δείτε επίσης
 
 * class [XmpHeaderPi](../)
-* χώρος ονομάτων [Aspose.PSD.Xmp](../../xmpheaderpi/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## XmpHeaderPi(string) {#constructor_1}
 
-Αρχικοποιεί μια νέα παρουσία του[`XmpHeaderPi`](../) τάξη.
+Αρχικοποιεί ένα νέο αντικείμενο της κλάσης [`XmpHeaderPi`](../).
 
 ```csharp
 public XmpHeaderPi(string guid)
@@ -37,7 +38,7 @@ public XmpHeaderPi(string guid)
 ### Δείτε επίσης
 
 * class [XmpHeaderPi](../)
-* χώρος ονομάτων [Aspose.PSD.Xmp](../../xmpheaderpi/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

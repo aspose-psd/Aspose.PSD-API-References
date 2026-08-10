@@ -1,14 +1,15 @@
 ---
-title: ColorantCmyk.ColorValueMin
-second_title: Aspose.PSD για Αναφορά API .NET
-description: ColorantCmyk πεδίο. Ελάχιστη τιμή χρώματος σε χρωστική CMYK.
+title: "ColorantCmyk.ColorValueMin"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Πεδίο ColorantCmyk. Ελάχιστη τιμή χρώματος σε χρωστικό CMYK"
 type: docs
 weight: 80
 url: /el/net/aspose.psd.xmp.types.complex.colorant/colorantcmyk/colorvaluemin/
 ---
+{{< psd/tize >}}
 ## ColorantCmyk.ColorValueMin field
 
-Ελάχιστη τιμή χρώματος σε χρωστική CMYK.
+Ελάχιστη τιμή χρώματος στο χρωστικό CMYK.
 
 ```csharp
 public const float ColorValueMin;
@@ -17,7 +18,7 @@ public const float ColorValueMin;
 ### Δείτε επίσης
 
 * class [ColorantCmyk](../)
-* χώρος ονομάτων [Aspose.PSD.Xmp.Types.Complex.Colorant](../../colorantcmyk/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.Colorant](../../../aspose.psd.xmp.types.complex.colorant/)
+* assembly [Aspose.PSD](../../../)
 
 

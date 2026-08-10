@@ -1,14 +1,15 @@
 ---
-title: CustResource.CustResource
-second_title: Aspose.PSD για Αναφορά API .NET
-description: CustResource κατασκευαστής. Αρχικοποιεί μια νέα παρουσία τουCustResource τάξη.
+title: "CustResource.CustResource"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Κατασκευαστής CustResource. Αρχικοποιεί μια νέα παρουσία της κλάσης CustResource"
 type: docs
 weight: 10
 url: /el/net/aspose.psd.fileformats.psd.layers.layerresources/custresource/custresource/
 ---
+{{< psd/tize >}}
 ## CustResource() {#constructor}
 
-Αρχικοποιεί μια νέα παρουσία του[`CustResource`](../) τάξη.
+Αρχικοποιεί μια νέα παρουσία της κλάσης [`CustResource`](../).
 
 ```csharp
 public CustResource()
@@ -17,14 +18,14 @@ public CustResource()
 ### Δείτε επίσης
 
 * class [CustResource](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../custresource/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## CustResource(byte[]) {#constructor_1}
 
-Αρχικοποιεί μια νέα παρουσία του[`CustResource`](../) τάξη.
+Αρχικοποιεί μια νέα παρουσία της κλάσης [`CustResource`](../).
 
 ```csharp
 public CustResource(byte[] data)
@@ -32,12 +33,12 @@ public CustResource(byte[] data)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| data | Byte[] | Τα δεδομένα του πόρου. |
+| δεδομένα | Byte[] | Τα δεδομένα του πόρου. |
 
 ### Δείτε επίσης
 
 * class [CustResource](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../custresource/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

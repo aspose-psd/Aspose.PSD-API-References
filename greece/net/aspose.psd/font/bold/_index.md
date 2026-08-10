@@ -1,27 +1,28 @@
 ---
-title: Font.Bold
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Font ιδιοκτησία. Λαμβάνει μια τιμή που υποδεικνύει αν αυτόFont είναι τολμηρή.
+title: "Font.Bold"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα Font. Λαμβάνει μια τιμή που υποδεικνύει εάν αυτό το Font είναι έντονο."
 type: docs
 weight: 20
 url: /el/net/aspose.psd/font/bold/
 ---
+{{< psd/tize >}}
 ## Font.Bold property
 
-Λαμβάνει μια τιμή που υποδεικνύει αν αυτό[`Font`](../) είναι τολμηρή.
+Λαμβάνει μια τιμή που υποδεικνύει εάν αυτό το [`Font`](../) είναι έντονο.
 
 ```csharp
 public bool Bold { get; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Αλήθεια αν αυτό[`Font`](../) είναι τολμηρή? αλλιώς, ψευδής.
+Αληθές εάν αυτό το [`Font`](../) είναι έντονο· διαφορετικά, ψευδές.
 
 ### Δείτε επίσης
 
 * class [Font](../)
-* χώρος ονομάτων [Aspose.PSD](../../font/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

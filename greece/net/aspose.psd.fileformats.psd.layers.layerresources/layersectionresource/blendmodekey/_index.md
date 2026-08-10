@@ -1,14 +1,15 @@
 ---
-title: LayerSectionResource.BlendModeKey
-second_title: Aspose.PSD για Αναφορά API .NET
-description: LayerSectionResource ιδιοκτησία. Λαμβάνει ή ρυθμίζει το πλήκτρο λειτουργίας ανάμειξης.
+title: "LayerSectionResource.BlendModeKey"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "LayerSectionResource ιδιότητα. Λαμβάνει ή ορίζει το κλειδί λειτουργίας ανάμειξης"
 type: docs
 weight: 20
 url: /el/net/aspose.psd.fileformats.psd.layers.layerresources/layersectionresource/blendmodekey/
 ---
+{{< psd/tize >}}
 ## LayerSectionResource.BlendModeKey property
 
-Λαμβάνει ή ρυθμίζει το πλήκτρο λειτουργίας ανάμειξης.
+Λαμβάνει ή ορίζει το κλειδί της λειτουργίας ανάμειξης.
 
 ```csharp
 public BlendMode BlendModeKey { get; set; }
@@ -16,15 +17,15 @@ public BlendMode BlendModeKey { get; set; }
 
 ### Εξαιρέσεις
 
-| εξαίρεση | κατάσταση |
+| εξαίρεση | συνθήκη |
 | --- | --- |
-| [PsdImageArgumentException](../../../aspose.psd.coreexceptions.imageformats/psdimageargumentexception/) | Το BlendModeKey πρέπει να έχει μήκος 4 χαρακτήρες. |
+| [PsdImageArgumentException](../../../aspose.psd.coreexceptions.imageformats/psdimageargumentexception/) | BlendModeKey πρέπει να έχει μήκος 4 χαρακτήρες. |
 
 ### Δείτε επίσης
 
 * enum [BlendMode](../../../aspose.psd.fileformats.core.blending/blendmode/)
 * class [LayerSectionResource](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../layersectionresource/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

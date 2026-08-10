@@ -1,27 +1,28 @@
 ---
-title: Color.PeachPuff
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Color ιδιοκτησία. Παίρνει ένα χρώμα που καθορίζεται από το σύστημα.
+title: "Color.PeachPuff"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Color ιδιότητα. Επιστρέφει ένα χρώμα ορισμένο από το σύστημα"
 type: docs
 weight: 1090
 url: /el/net/aspose.psd/color/peachpuff/
 ---
+{{< psd/tize >}}
 ## Color.PeachPuff property
 
-Παίρνει ένα χρώμα που καθορίζεται από το σύστημα.
+Λαμβάνει ένα χρώμα ορισμένο από το σύστημα.
 
 ```csharp
 public static Color PeachPuff { get; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-ΕΝΑ[`Color`](../) που αντιπροσωπεύει ένα χρώμα που καθορίζεται από το σύστημα.
+Ένα [`Color`](../) που αντιπροσωπεύει ένα χρώμα ορισμένο από το σύστημα.
 
 ### Δείτε επίσης
 
 * struct [Color](../)
-* χώρος ονομάτων [Aspose.PSD](../../color/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

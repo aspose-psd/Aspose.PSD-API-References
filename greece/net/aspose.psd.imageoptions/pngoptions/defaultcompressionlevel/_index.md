@@ -1,11 +1,12 @@
 ---
-title: PngOptions.DefaultCompressionLevel
-second_title: Aspose.PSD για Αναφορά API .NET
-description: PngOptions πεδίο. Το προεπιλεγμένο επίπεδο συμπίεσης.
+title: "PngOptions.DefaultCompressionLevel"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Πεδίο PngOptions. Το προεπιλεγμένο επίπεδο συμπίεσης"
 type: docs
 weight: 80
 url: /el/net/aspose.psd.imageoptions/pngoptions/defaultcompressionlevel/
 ---
+{{< psd/tize >}}
 ## PngOptions.DefaultCompressionLevel field
 
 Το προεπιλεγμένο επίπεδο συμπίεσης.
@@ -17,7 +18,7 @@ public const int DefaultCompressionLevel;
 ### Δείτε επίσης
 
 * class [PngOptions](../)
-* χώρος ονομάτων [Aspose.PSD.ImageOptions](../../pngoptions/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

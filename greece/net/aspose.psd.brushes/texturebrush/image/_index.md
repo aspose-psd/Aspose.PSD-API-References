@@ -1,28 +1,29 @@
 ---
-title: TextureBrush.Image
-second_title: Aspose.PSD για Αναφορά API .NET
-description: TextureBrush ιδιοκτησία. Λαμβάνει τοImage αντικείμενο που σχετίζεται με αυτόTextureBrush αντικείμενο.
+title: "TextureBrush.Image"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα TextureBrush. Λαμβάνει το αντικείμενο Image που σχετίζεται με αυτό το αντικείμενο TextureBrush."
 type: docs
 weight: 20
 url: /el/net/aspose.psd.brushes/texturebrush/image/
 ---
+{{< psd/tize >}}
 ## TextureBrush.Image property
 
-Λαμβάνει το[`Image`](../../../aspose.psd/image/) αντικείμενο που σχετίζεται με αυτό[`TextureBrush`](../) αντικείμενο.
+Λαμβάνει το αντικείμενο [`Image`](../../../aspose.psd/image/) που σχετίζεται με αυτό το αντικείμενο [`TextureBrush`](../).
 
 ```csharp
 public Image Image { get; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Ενα[`Image`](../../../aspose.psd/image/) αντικείμενο που αντιπροσωπεύει την εικόνα με την οποία αυτό[`TextureBrush`](../) το αντικείμενο γεμίζει σχήματα.
+Ένα αντικείμενο [`Image`](../../../aspose.psd/image/) που αντιπροσωπεύει την εικόνα με την οποία αυτό το αντικείμενο [`TextureBrush`](../) γεμίζει σχήματα.
 
 ### Δείτε επίσης
 
 * class [Image](../../../aspose.psd/image/)
 * class [TextureBrush](../)
-* χώρος ονομάτων [Aspose.PSD.Brushes](../../texturebrush/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
+* assembly [Aspose.PSD](../../../)
 
 

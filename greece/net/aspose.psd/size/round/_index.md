@@ -1,14 +1,15 @@
 ---
-title: Size.Round
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Size μέθοδος. Μετατρέπει το καθορισμένοSizeF δομή σε αSize δομή στρογγυλοποιώντας τις τιμές τουSizeF δομή στις πλησιέστερες ακέραιες τιμές.
+title: "Size.Round"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Μέθοδος Size. Μετατρέπει τη συγκεκριμένη δομή SizeF σε δομή Size στρογγυλοποιώντας τις τιμές της δομής SizeF στα πλησιέστερα ακέραια."
 type: docs
 weight: 50
 url: /el/net/aspose.psd/size/round/
 ---
+{{< psd/tize >}}
 ## Size.Round method
 
-Μετατρέπει το καθορισμένο[`SizeF`](../../sizef/) δομή σε α[`Size`](../) δομή στρογγυλοποιώντας τις τιμές του[`SizeF`](../../sizef/) δομή στις πλησιέστερες ακέραιες τιμές.
+Μετατρέπει τη συγκεκριμένη δομή [`SizeF`](../../sizef/) σε δομή [`Size`](../) στρογγυλοποιώντας τις τιμές της δομής [`SizeF`](../../sizef/) στα πλησιέστερα ακέραια.
 
 ```csharp
 public static Size Round(SizeF size)
@@ -16,17 +17,17 @@ public static Size Round(SizeF size)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| size | SizeF | ο[`SizeF`](../../sizef/) δομή για μετατροπή. |
+| size | SizeF | Η δομή [`SizeF`](../../sizef/) προς μετατροπή. |
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-ο[`Size`](../) δομή σε αυτή τη μέθοδο μετατρέπεται.
+Η δομή [`Size`](../) στην οποία αυτή η μέθοδος μετατρέπει.
 
 ### Δείτε επίσης
 
 * struct [SizeF](../../sizef/)
 * struct [Size](../)
-* χώρος ονομάτων [Aspose.PSD](../../size/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

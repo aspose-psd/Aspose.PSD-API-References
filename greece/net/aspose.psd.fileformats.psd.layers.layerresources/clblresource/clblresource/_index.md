@@ -1,34 +1,15 @@
 ---
-title: ClblResource.ClblResource
-second_title: Aspose.PSD για Αναφορά API .NET
-description: ClblResource κατασκευαστής. Αρχικοποιεί μια νέα παρουσία τουClblResource τάξη.
+title: "ClblResource.ClblResource"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Κατασκευαστής ClblResource. Αρχικοποιεί μια νέα παρουσία της κλάσης ClblResource"
 type: docs
 weight: 10
 url: /el/net/aspose.psd.fileformats.psd.layers.layerresources/clblresource/clblresource/
 ---
-## ClblResource(bool) {#constructor_1}
-
-Αρχικοποιεί μια νέα παρουσία του[`ClblResource`](../) τάξη.
-
-```csharp
-public ClblResource(bool blendClippedElements)
-```
-
-| Παράμετρος | Τύπος | Περιγραφή |
-| --- | --- | --- |
-| blendClippedElements | Boolean | εάν έχει οριστεί σε`αληθής` [αναμείξτε κομμένα στοιχεία]. |
-
-### Δείτε επίσης
-
-* class [ClblResource](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../clblresource/)
-* συνέλευση [Aspose.PSD](../../../)
-
----
-
+{{< psd/tize >}}
 ## ClblResource() {#constructor}
 
-Αρχικοποιεί μια νέα παρουσία του[`ClblResource`](../) τάξη.
+Αρχικοποιεί μια νέα παρουσία της κλάσης [`ClblResource`](../).
 
 ```csharp
 public ClblResource()
@@ -37,14 +18,34 @@ public ClblResource()
 ### Δείτε επίσης
 
 * class [ClblResource](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../clblresource/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
+
+---
+
+## ClblResource(bool) {#constructor_1}
+
+Αρχικοποιεί μια νέα παρουσία της κλάσης [`ClblResource`](../).
+
+```csharp
+public ClblResource(bool blendClippedElements)
+```
+
+| Παράμετρος | Τύπος | Περιγραφή |
+| --- | --- | --- |
+| blendClippedElements | Boolean | εάν οριστεί σε `true` [blend clipped elements]. |
+
+### Δείτε επίσης
+
+* class [ClblResource](../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## ClblResource(byte[]) {#constructor_2}
 
-Αρχικοποιεί μια νέα παρουσία του[`ClblResource`](../) class. Με προσαρμοσμένη ή άγνωστη τιμή
+Αρχικοποιεί μια νέα παρουσία της κλάσης [`ClblResource`](../). Με προσαρμοσμένη ή άγνωστη τιμή
 
 ```csharp
 public ClblResource(byte[] data)
@@ -52,18 +53,18 @@ public ClblResource(byte[] data)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| data | Byte[] | Τα δεδομένα των πόρων. |
+| δεδομένα | Byte[] | Τα δεδομένα πόρου. |
 
 ### Εξαιρέσεις
 
-| εξαίρεση | κατάσταση |
+| εξαίρεση | συνθήκη |
 | --- | --- |
-| ArgumentException | Μη έγκυρη τιμή πόρου clbl |
+| ArgumentException | Μη έγκυρη τιμή clbl Resource |
 
 ### Δείτε επίσης
 
 * class [ClblResource](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../clblresource/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

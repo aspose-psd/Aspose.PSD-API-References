@@ -1,14 +1,15 @@
 ---
-title: Class SmartResourceCreator
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.SmartResourceCreator τάξη. Καθορίζει την κλάση SmartResourceCreator που μπορεί να δημιουργήσει πόρους PlLd SoLd και SoLe. Is χρησιμοποιείται για την υποστήριξη επιπέδων έξυπνων αντικειμένων στις εικόνες του Adobe Photoshop.
+title: "Κλάση SmartResourceCreator"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Aspose.PSD.FileFormats.Psd.Layers.LayerResources.SmartResourceCreator κλάση. Ορίζει την κλάση SmartResourceCreator που μπορεί να δημιουργήσει πόρους PlLd SoLd και SoLe. Χρησιμοποιείται για την υποστήριξη επιπέδων έξυπνων αντικειμένων στις εικόνες Adobe Photoshop"
 type: docs
-weight: 3000
+weight: 3350
 url: /el/net/aspose.psd.fileformats.psd.layers.layerresources/smartresourcecreator/
 ---
+{{< psd/tize >}}
 ## SmartResourceCreator class
 
-Καθορίζει την κλάση SmartResourceCreator που μπορεί να δημιουργήσει πόρους PlLd, SoLd και SoLe. Is χρησιμοποιείται για την υποστήριξη επιπέδων έξυπνων αντικειμένων στις εικόνες του Adobe® Photoshop®.
+Ορίζει την κλάση SmartResourceCreator που μπορεί να δημιουργήσει πόρους PlLd, SoLd και SoLe. Χρησιμοποιείται για την υποστήριξη επιπέδων έξυπνων αντικειμένων στις εικόνες Adobe® Photoshop®.
 
 ```csharp
 public class SmartResourceCreator
@@ -16,21 +17,21 @@ public class SmartResourceCreator
 
 ## Κατασκευαστές
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
-| [SmartResourceCreator](smartresourcecreator/#constructor)() | Αρχικοποιεί μια νέα παρουσία του`SmartResourceCreator` τάξη. |
-| [SmartResourceCreator](smartresourcecreator/#constructor_1)(PlacedResource) | Αρχικοποιεί μια νέα παρουσία του`SmartResourceCreator` class με το δεδομένο πρότυπο. |
-| [SmartResourceCreator](smartresourcecreator/#constructor_2)(bool, bool) | Αρχικοποιεί μια νέα παρουσία του`SmartResourceCreator` τάξη. |
+| [SmartResourceCreator](smartresourcecreator/#constructor)() | Αρχικοποιεί μια νέα παρουσία της κλάσης `SmartResourceCreator`. |
+| [SmartResourceCreator](smartresourcecreator/#constructor_1)(PlacedResource) | Αρχικοποιεί μια νέα παρουσία της κλάσης `SmartResourceCreator` με το δεδομένο πρότυπο. |
+| [SmartResourceCreator](smartresourcecreator/#constructor_2)(bool, bool) | Αρχικοποιεί μια νέα παρουσία της κλάσης `SmartResourceCreator`. |
 
 ## Μέθοδοι
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
 | [GeneratePlacedResource](../../aspose.psd.fileformats.psd.layers.layerresources/smartresourcecreator/generateplacedresource/)() | Δημιουργεί τον τοποθετημένο πόρο. |
 | [GenerateSmartEmbeddedResource](../../aspose.psd.fileformats.psd.layers.layerresources/smartresourcecreator/generatesmartembeddedresource/)() | Δημιουργεί τον ενσωματωμένο πόρο έξυπνου αντικειμένου. |
 | [GenerateSmartExternalResource](../../aspose.psd.fileformats.psd.layers.layerresources/smartresourcecreator/generatesmartexternalresource/)() | Δημιουργεί τον εξωτερικό πόρο έξυπνου αντικειμένου. |
 
-### Παραδείγματα
+## Παραδείγματα
 
 Ο παρακάτω κώδικας δείχνει την υποστήριξη των πόρων SoLEResource, SmartObjectResource και PlacedResource.
 
@@ -118,7 +119,7 @@ void CheckSmartObjectResourceValues(object[] expectedValue, SmartObjectResource 
 
 void SetNewSmartValues(SmartObjectResource resource, object[] newValues)
 {
-    // Αυτές οι τιμές δεν αλλάζουμε στον πόρο
+    // Αυτές τις τιμές δεν αλλάζουμε στον πόρο
     newValues[0] = resource.IsCustom;
     newValues[1] = resource.UniqueId.ToString();
     newValues[5] = resource.PlacedLayerType;
@@ -126,15 +127,15 @@ void SetNewSmartValues(SmartObjectResource resource, object[] newValues)
     newValues[15] = resource.VOrder;
     newValues[28] = resource.OriginalCompId;
 
-    // Αυτές οι τιμές πρέπει να αλλάξουν και στο PlLdResource (με το καθορισμένο UniqueId)
-    // και μερικά από αυτά πρέπει να είναι σε συμφωνία με το υπογραμμιζόμενο έξυπνο αντικείμενο στο LinkDataSource
+    // Αυτές οι τιμές πρέπει επίσης να αλλάξουν στο PlLdResource (με το καθορισμένο UniqueId)
+    // και μερικές από αυτές πρέπει να είναι σύμφωνες με το υποκείμενο έξυπνο αντικείμενο στο LinkDataSource
     resource.PageNumber = (int)newValues[2]; // 2;
     resource.TotalPages = (int)newValues[3]; // 3;
     resource.AntiAliasPolicy = (int)newValues[4]; // 0;
     resource.TransformMatrix = (double[])newValues[6];
     resource.Value = (double)newValues[7]; // 1.23456789;
-    resource.Perspective = (double)newValues[8]; // 0,123456789;
-    resource.PerspectiveOther = (double)newValues[9]; // 0,987654321;
+    resource.Perspective = (double)newValues[8]; // 0.123456789;
+    resource.PerspectiveOther = (double)newValues[9]; // 0.987654321;
     resource.Top = (double)newValues[10]; // -126;
     resource.Left = (double)newValues[11]; // -215;
     resource.Bottom = (double)newValues[12]; // 248;
@@ -153,7 +154,7 @@ void SetNewSmartValues(SmartObjectResource resource, object[] newValues)
     resource.CompId = (int)newValues[27]; // 22;
     resource.NonAffineTransformMatrix = (double[])newValues[30];
 
-    // Αυτό το μοναδικό αναγνωριστικό θα πρέπει να αλλάξει σε αναφορές εάν υπάρχουν
+    // Αυτό το μοναδικό Id πρέπει να αλλάξει στις αναφορές, εάν υπάρχουν
     resource.PlacedId = new Guid((string)newValues[29]);  // "12345678-9abc-def0-9876-54321fecba98");
     if (resource.IsCustom)
     {
@@ -163,16 +164,16 @@ void SetNewSmartValues(SmartObjectResource resource, object[] newValues)
         resource.VerticalMeshPoints = (double[])newValues[34];
     }
 
-    // Να είστε προσεκτικοί με ορισμένες παραμέτρους: η αποθηκευμένη εικόνα ενδέχεται να μην είναι αναγνώσιμη από το Adobe® Photoshop®
+    // Να είστε προσεκτικοί με ορισμένες παραμέτρους: η αποθηκευμένη εικόνα μπορεί να γίνει μη αναγνώσιμη από το Adobe® Photoshop®
     ////resource.UOrder = 6;
     ////resource.VOrder = 9;
 
-    // Μην το αλλάξετε αυτό, διαφορετικά δεν θα μπορείτε να χρησιμοποιήσετε τον ελεύθερο μετασχηματισμό
-    // ή αλλάξτε το έξυπνο αντικείμενο υπογράμμισης σε διανυσματικό τύπο
+    // Μην το αλλάξετε, διαφορετικά δεν θα μπορείτε να χρησιμοποιήσετε το free transform
+    // ή αλλάξτε το υποκείμενο έξυπνο αντικείμενο σε τύπο vector
     ////resource.PlacedLayerType = PlacedLayerType.Vector;
 
-    // Θα πρέπει να υπάρχει έγκυρος PlLdResource με αυτό το μοναδικό αναγνωριστικό
-    ////resource.UniqueId = νέος οδηγός("98765432-10fe-cba0-1234-56789abcdef0");
+    // Θα πρέπει να υπάρχει έγκυρο PlLdResource με αυτό το μοναδικό Id
+    ////resource.UniqueId = new Guid("98765432-10fe-cba0-1234-56789abcdef0");
 }
 
 object[] newSmartValues = new object[]
@@ -340,7 +341,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
 * class [PlLdResource](../plldresource/)
 * class [SoLdResource](../soldresource/)
 * class [SoLeResource](../soleresource/)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
-* συνέλευση [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../)
 
 

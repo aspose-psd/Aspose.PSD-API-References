@@ -1,27 +1,28 @@
 ---
-title: NonGenericDictionary.GetEnumerator
-second_title: Aspose.PSD για Αναφορά API .NET
-description: NonGenericDictionary μέθοδος. Παίρνει τον απαριθμητή.
+title: "NonGenericDictionary.GetEnumerator"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Μέθοδος NonGenericDictionary. Λαμβάνει τον απαριθμητή"
 type: docs
 weight: 140
 url: /el/net/aspose.psd/nongenericdictionary/getenumerator/
 ---
+{{< psd/tize >}}
 ## NonGenericDictionary.GetEnumerator method
 
-Παίρνει τον απαριθμητή.
+Λαμβάνει τον απαριθμητή.
 
 ```csharp
 public IDictionaryEnumerator GetEnumerator()
 ```
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
 Ο απαριθμητής του λεξικού
 
 ### Δείτε επίσης
 
 * class [NonGenericDictionary](../)
-* χώρος ονομάτων [Aspose.PSD](../../nongenericdictionary/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

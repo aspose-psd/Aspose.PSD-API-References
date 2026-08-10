@@ -1,11 +1,12 @@
 ---
-title: XmpPackage.GetXmlValue
-second_title: Aspose.PSD για Αναφορά API .NET
-description: XmpPackage μέθοδος. Μετατρέπει την τιμή XMP στην αναπαράσταση XML.
+title: "XmpPackage.GetXmlValue"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Μέθοδος XmpPackage. Μετατρέπει την τιμή XMP στην XML αναπαράσταση"
 type: docs
 weight: 100
 url: /el/net/aspose.psd.xmp/xmppackage/getxmlvalue/
 ---
+{{< psd/tize >}}
 ## XmpPackage.GetXmlValue method
 
 Μετατρέπει την τιμή XMP στην αναπαράσταση XML.
@@ -14,14 +15,14 @@ url: /el/net/aspose.psd.xmp/xmppackage/getxmlvalue/
 public virtual string GetXmlValue()
 ```
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-Επιστρέφει την τιμή XMP που μετατράπηκε στην αναπαράσταση XML.
+Επιστρέφει την τιμή XMP που έχει μετατραπεί στην αναπαράσταση XML.
 
 ### Δείτε επίσης
 
 * class [XmpPackage](../)
-* χώρος ονομάτων [Aspose.PSD.Xmp](../../xmppackage/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

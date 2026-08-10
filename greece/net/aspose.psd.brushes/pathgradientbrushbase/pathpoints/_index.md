@@ -1,28 +1,29 @@
 ---
-title: PathGradientBrushBase.PathPoints
-second_title: Aspose.PSD για Αναφορά API .NET
-description: PathGradientBrushBase ιδιοκτησία. Λαμβάνει τα σημεία διαδρομής πάνω στα οποία βασίστηκε αυτό το πινέλο.
+title: "PathGradientBrushBase.PathPoints"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα PathGradientBrushBase. Λαμβάνει τα σημεία διαδρομής πάνω στα οποία χτίστηκε αυτό το πινέλο"
 type: docs
 weight: 40
 url: /el/net/aspose.psd.brushes/pathgradientbrushbase/pathpoints/
 ---
+{{< psd/tize >}}
 ## PathGradientBrushBase.PathPoints property
 
-Λαμβάνει τα σημεία διαδρομής πάνω στα οποία βασίστηκε αυτό το πινέλο.
+Αποκτά τα σημεία διαδρομής πάνω στα οποία χτίστηκε αυτό το brush.
 
 ```csharp
 public PointF[] PathPoints { get; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Τα σημεία της διαδρομής.
+Τα σημεία διαδρομής.
 
 ### Δείτε επίσης
 
 * struct [PointF](../../../aspose.psd/pointf/)
 * class [PathGradientBrushBase](../)
-* χώρος ονομάτων [Aspose.PSD.Brushes](../../pathgradientbrushbase/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
+* assembly [Aspose.PSD](../../../)
 
 

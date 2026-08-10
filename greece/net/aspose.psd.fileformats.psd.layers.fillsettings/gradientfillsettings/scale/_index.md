@@ -1,33 +1,34 @@
 ---
-title: GradientFillSettings.Scale
-second_title: Aspose.PSD για Αναφορά API .NET
-description: GradientFillSettings ιδιοκτησία. Παίρνει ή ρυθμίζει την κλίμακα.
+title: "GradientFillSettings.Scale"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα GradientFillSettings. Λαμβάνει ή ορίζει την κανονικοποιημένη κλίμακα διαβάθμισης σε ποσοστό"
 type: docs
-weight: 120
+weight: 110
 url: /el/net/aspose.psd.fileformats.psd.layers.fillsettings/gradientfillsettings/scale/
 ---
+{{< psd/tize >}}
 ## GradientFillSettings.Scale property
 
-Παίρνει ή ρυθμίζει την κλίμακα.
+Λαμβάνει ή ορίζει την **κανονικοποιημένη** κλίμακα διαβάθμισης (σε ποσοστό)
 
 ```csharp
 public int Scale { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
 Η κλίμακα.
 
 ### Εξαιρέσεις
 
-| εξαίρεση | κατάσταση |
+| εξαίρεση | συνθήκη |
 | --- | --- |
-| [PsdImageArgumentException](../../../aspose.psd.coreexceptions.imageformats/psdimageargumentexception/) | Η κλίμακα πρέπει να κυμαίνεται από 1 έως 1000. |
+| [PsdImageArgumentException](../../../aspose.psd.coreexceptions.imageformats/psdimageargumentexception/) | Η κλίμακα πρέπει να είναι στο εύρος από 1 έως 1000. |
 
 ### Δείτε επίσης
 
 * class [GradientFillSettings](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../gradientfillsettings/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../../)
 
 

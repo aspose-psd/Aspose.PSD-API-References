@@ -1,14 +1,15 @@
 ---
-title: Region.MakeEmpty
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Region μέθοδος. Το Αρχικοποιεί αυτόRegion σε ένα άδειο εσωτερικό.
+title: "Region.MakeEmpty"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Μέθοδος Region. Αρχικοποιεί αυτή τη Region σε κενό εσωτερικό"
 type: docs
-weight: 100
+weight: 110
 url: /el/net/aspose.psd/region/makeempty/
 ---
+{{< psd/tize >}}
 ## Region.MakeEmpty method
 
-Το Αρχικοποιεί αυτό[`Region`](../) σε ένα άδειο εσωτερικό.
+Αρχικοποιεί αυτή τη [`Region`](../) σε κενό εσωτερικό.
 
 ```csharp
 public void MakeEmpty()
@@ -17,7 +18,7 @@ public void MakeEmpty()
 ### Δείτε επίσης
 
 * class [Region](../)
-* χώρος ονομάτων [Aspose.PSD](../../region/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

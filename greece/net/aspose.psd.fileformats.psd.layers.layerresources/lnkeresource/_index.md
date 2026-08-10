@@ -1,14 +1,15 @@
 ---
-title: Class LnkeResource
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.LnkeResource τάξη. Καθορίζει την κλάση LnkeResource που περιέχει πληροφορίες σχετικά με εξωτερικά συνδεδεμένα αρχεία ή στοιχεία στην εικόνα μορφής PSD. Ο πόρος σύνδεσης μπορεί να περιέχει πολλάLiFeDataSource στιγμιότυπα που μπορούν να προσπελαστούν από το indexer. Αυτό είναι ένα μέρος του PSD File Format Manipulation API που βοηθά στην τροποποίηση των αρχείων Adobe Photoshop μέσω προγραμματισμού
+title: "Κλάση LnkeResource"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Aspose.PSD.FileFormats.Psd.Layers.LayerResources.LnkeResource κλάση. Ορίζει την κλάση LnkeResource που περιέχει πληροφορίες σχετικά με εξωτερικά συνδεδεμένα αρχεία ή πόρους στην εικόνα μορφής PSD. Ο πόρος σύνδεσης μπορεί να περιέχει πολλές εμφανίσεις LiFeDataSource που μπορούν να προσπελαστούν μέσω του δείκτη. Αυτό αποτελεί μέρος του API Διαχείρισης Μορφής Αρχείων PSD που βοηθά στην προγραμματιστική τροποποίηση αρχείων Adobe Photoshop."
 type: docs
-weight: 2740
+weight: 3050
 url: /el/net/aspose.psd.fileformats.psd.layers.layerresources/lnkeresource/
 ---
+{{< psd/tize >}}
 ## LnkeResource class
 
-Καθορίζει την κλάση LnkeResource που περιέχει πληροφορίες σχετικά με εξωτερικά συνδεδεμένα αρχεία ή στοιχεία στην εικόνα μορφής PSD. Ο πόρος σύνδεσης μπορεί να περιέχει πολλά[`LiFeDataSource`](../lifedatasource/) στιγμιότυπα που μπορούν να προσπελαστούν από το indexer. Αυτό είναι ένα μέρος του PSD File Format Manipulation API που βοηθά στην τροποποίηση των αρχείων Adobe® Photoshop® μέσω προγραμματισμού
+Ορίζει την κλάση LnkeResource που περιέχει πληροφορίες σχετικά με εξωτερικά συνδεδεμένα αρχεία ή πόρους στην εικόνα μορφής PSD. Ο πόρος σύνδεσης μπορεί να περιέχει πολλές εμφανίσεις [`LiFeDataSource`](../lifedatasource/) που μπορούν να προσπελαστούν μέσω του δείκτη. Αυτό αποτελεί μέρος του API Διαχείρισης Μορφής Αρχείων PSD που βοηθά στην προγραμματιστική τροποποίηση αρχείων Adobe® Photoshop®.
 
 ```csharp
 public class LnkeResource : LinkResource
@@ -16,39 +17,39 @@ public class LnkeResource : LinkResource
 
 ## Κατασκευαστές
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
-| [LnkeResource](lnkeresource/#constructor)() | Αρχικοποιεί μια νέα παρουσία του`LnkeResource` τάξη. |
-| [LnkeResource](lnkeresource/#constructor_1)(LinkDataSource[]) | Αρχικοποιεί μια νέα παρουσία του`LnkeResource` τάξη. |
+| [LnkeResource](lnkeresource/#constructor)() | Αρχικοποιεί μια νέα παρουσία της κλάσης `LnkeResource`. |
+| [LnkeResource](lnkeresource/#constructor_1)(LinkDataSource[]) | Αρχικοποιεί μια νέα παρουσία της κλάσης `LnkeResource`. |
 
 ## Ιδιότητες
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
-| [DataSourceCount](../../aspose.psd.fileformats.psd.layers.layerresources/linkresource/datasourcecount/) { get; } | Λαμβάνει τον αριθμό των πηγών δεδομένων συνδέσμων στις οποίες μπορεί να προσπελαστεί ο ευρετηριαστής. |
-| [IsEmpty](../../aspose.psd.fileformats.psd.layers.layerresources/linkresource/isempty/) { get; } | Λαμβάνει μια τιμή που υποδεικνύει εάν αυτή η παρουσία πόρου συνδέσμου είναι κενή. |
-| [Item](../../aspose.psd.fileformats.psd.layers.layerresources/lnkeresource/item/) { get; } | Λαμβάνει το[`LiFeDataSource`](../lifedatasource/) στον καθορισμένο δείκτη. (2 indexers) |
-| override [Key](../../aspose.psd.fileformats.psd.layers.layerresources/lnkeresource/key/) { get; } | Λαμβάνει το παγκόσμιο κλειδί πόρων Adobe® Photoshop®. |
-| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/linkresource/length/) { get; } | Λαμβάνει το συνολικό μήκος πόρου συνδέσμου PSD σε byte. |
-| override [PsdVersion](../../aspose.psd.fileformats.psd.layers.layerresources/linkresource/psdversion/) { get; } | Λαμβάνει την έκδοση μορφής PSD. |
-| override [Signature](../../aspose.psd.fileformats.psd.layers.layerresources/linkresource/signature/) { get; } | Αποκτά την υπογραφή του παγκόσμιου πόρου συνδέσμου PSD. |
+| [DataSourceCount](../../aspose.psd.fileformats.psd.layers.layerresources/linkresource/datasourcecount/) { get; } | Ανακτά τον αριθμό των πηγών δεδομένων σύνδεσης που μπορούν να προσπελαστούν μέσω του δείκτη. |
+| [IsEmpty](../../aspose.psd.fileformats.psd.layers.layerresources/linkresource/isempty/) { get; } | Ανακτά μια τιμή που υποδεικνύει εάν αυτό το στιγμιότυπο πόρου σύνδεσης είναι κενό. |
+| [Item](../../aspose.psd.fileformats.psd.layers.layerresources/lnkeresource/item/) { get; } | Λαμβάνει το [`LiFeDataSource`](../lifedatasource/) στο καθορισμένο δείκτη. (2 δείκτες) |
+| [Key](../../aspose.psd.fileformats.psd.layers/layerresource/key/) { get; } | Λαμβάνει το κλειδί πόρου του επιπέδου. |
+| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/linkresource/length/) { get; } | Ανακτά το συνολικό μήκος του πόρου σύνδεσης PSD σε bytes. |
+| virtual [PsdVersion](../../aspose.psd.fileformats.psd.layers/layerresource/psdversion/) { get; } | Λαμβάνει την ελάχιστη έκδοση psd που απαιτείται για τον πόρο του επιπέδου. 0 υποδεικνύει ότι δεν υπάρχουν περιορισμοί. |
+| virtual [Signature](../../aspose.psd.fileformats.psd.layers/layerresource/signature/) { get; } | Λαμβάνει την υπογραφή. |
 
 ## Μέθοδοι
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
-| override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/linkresource/save/)(StreamContainer, int) | Αποθηκεύει τα δεδομένα του μπλοκ πόρων. |
-| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring/)() | Επιστρέφει αString που αντιπροσωπεύει αυτήν την περίπτωση. |
+| override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/linkresource/save/)(StreamContainer, int) | Αποθηκεύει τα δεδομένα του μπλοκ πόρου. |
+| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring/)() | Επιστρέφει ένα String που αντιπροσωπεύει αυτήν την περίπτωση. |
 
 ## Πεδία
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
-| const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/lnkeresource/typetoolkey/) | Το κλειδί πληροφοριών εργαλείου τύπου. |
+| const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/lnkeresource/typetoolkey/) | Το κλειδί πληροφοριών του εργαλείου τύπου. |
 
-### Παραδείγματα
+## Παραδείγματα
 
-Ο ακόλουθος κώδικας δείχνει την υποστήριξη του πόρου LnkeResource.
+Ο παρακάτω κώδικας δείχνει την υποστήριξη του πόρου LnkeResource.
 
 ```csharp
 [C#]
@@ -274,7 +275,7 @@ ExampleOfComplexLnkEResourceSupport(
 
 * class [LayerResource](../../aspose.psd.fileformats.psd.layers/layerresource/)
 * class [LinkResource](../linkresource/)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
-* συνέλευση [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../)
 
 

@@ -1,20 +1,21 @@
 ---
-title: AiRasterImageSection.ImageRectangle
-second_title: Aspose.PSD για Αναφορά API .NET
-description: AiRasterImageSection ιδιοκτησία. Παίρνει το ορθογώνιο της εικόνας.
+title: "AiRasterImageSection.ImageRectangle"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα AiRasterImageSection. Λαμβάνει το ορθογώνιο της εικόνας"
 type: docs
 weight: 30
 url: /el/net/aspose.psd.fileformats.ai/airasterimagesection/imagerectangle/
 ---
+{{< psd/tize >}}
 ## AiRasterImageSection.ImageRectangle property
 
-Παίρνει το ορθογώνιο της εικόνας.
+Λαμβάνει το ορθογώνιο της εικόνας.
 
 ```csharp
 public Rectangle ImageRectangle { get; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
 Το ορθογώνιο της εικόνας.
 
@@ -22,7 +23,7 @@ public Rectangle ImageRectangle { get; }
 
 * struct [Rectangle](../../../aspose.psd/rectangle/)
 * class [AiRasterImageSection](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Ai](../../airasterimagesection/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: ArcShape.Reverse
-second_title: Aspose.PSD για Αναφορά API .NET
-description: ArcShape μέθοδος. Αντιστρέφει τη σειρά των σημείων για αυτό το σχήμα.
+title: "ArcShape.Reverse"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "ArcShape μέθοδος. Αντιστρέφει τη σειρά των σημείων για αυτό το σχήμα"
 type: docs
 weight: 70
 url: /el/net/aspose.psd.shapes/arcshape/reverse/
 ---
+{{< psd/tize >}}
 ## ArcShape.Reverse method
 
 Αντιστρέφει τη σειρά των σημείων για αυτό το σχήμα.
@@ -17,7 +18,7 @@ public void Reverse()
 ### Δείτε επίσης
 
 * class [ArcShape](../)
-* χώρος ονομάτων [Aspose.PSD.Shapes](../../arcshape/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 

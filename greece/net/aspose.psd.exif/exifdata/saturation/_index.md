@@ -1,20 +1,21 @@
 ---
-title: ExifData.Saturation
-second_title: Aspose.PSD για Αναφορά API .NET
-description: ExifData ιδιοκτησία. Λαμβάνει ή ρυθμίζει τον κορεσμό.
+title: "ExifData.Saturation"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα ExifData. Λαμβάνει ή ορίζει τον κορεσμό"
 type: docs
 weight: 890
 url: /el/net/aspose.psd.exif/exifdata/saturation/
 ---
+{{< psd/tize >}}
 ## ExifData.Saturation property
 
-Λαμβάνει ή ρυθμίζει τον κορεσμό.
+Αποκτά ή ορίζει τον κορεσμό.
 
 ```csharp
 public ExifSaturation Saturation { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
 Ο κορεσμός.
 
@@ -22,7 +23,7 @@ public ExifSaturation Saturation { get; set; }
 
 * enum [ExifSaturation](../../../aspose.psd.exif.enums/exifsaturation/)
 * class [ExifData](../)
-* χώρος ονομάτων [Aspose.PSD.Exif](../../exifdata/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

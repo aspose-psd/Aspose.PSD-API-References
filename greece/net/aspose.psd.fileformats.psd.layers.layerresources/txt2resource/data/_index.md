@@ -1,11 +1,12 @@
 ---
-title: Txt2Resource.Data
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Txt2Resource ιδιοκτησία. Λαμβάνει ή ορίζει τα δεδομένα.
+title: "Txt2Resource.Data"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα Txt2Resource. Λαμβάνει ή ορίζει τα δεδομένα"
 type: docs
 weight: 20
 url: /el/net/aspose.psd.fileformats.psd.layers.layerresources/txt2resource/data/
 ---
+{{< psd/tize >}}
 ## Txt2Resource.Data property
 
 Λαμβάνει ή ορίζει τα δεδομένα.
@@ -14,14 +15,14 @@ url: /el/net/aspose.psd.fileformats.psd.layers.layerresources/txt2resource/data/
 public byte[] Data { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
 Τα δεδομένα.
 
 ### Δείτε επίσης
 
 * class [Txt2Resource](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../txt2resource/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

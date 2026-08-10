@@ -1,33 +1,34 @@
 ---
-title: ProjectLink.GetXmpRepresentation
-second_title: Aspose.PSD για Αναφορά API .NET
-description: ProjectLink μέθοδος. Επιστρέφει την τιμή που περιέχεται στη συμβολοσειρά σε μορφή XMP.
+title: "ProjectLink.GetXmpRepresentation"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "ProjectLink μέθοδος. Επιστρέφει τη συμβολοσειρά που περιέχει την τιμή σε μορφή XMP"
 type: docs
 weight: 40
 url: /el/net/aspose.psd.xmp.schemas.xmpdm/projectlink/getxmprepresentation/
 ---
+{{< psd/tize >}}
 ## ProjectLink.GetXmpRepresentation method
 
-Επιστρέφει την τιμή που περιέχεται στη συμβολοσειρά σε μορφή XMP.
+Επιστρέφει την τιμή της συμβολοσειράς σε μορφή XMP.
 
 ```csharp
 public override string GetXmpRepresentation()
 ```
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-Επιστρέφει την τιμή που περιέχεται στη συμβολοσειρά σε μορφή XMP.
+Επιστρέφει την τιμή της συμβολοσειράς σε μορφή XMP.
 
 ### Εξαιρέσεις
 
-| εξαίρεση | κατάσταση |
+| εξαίρεση | συνθήκη |
 | --- | --- |
 | NotImplementedException |  |
 
 ### Δείτε επίσης
 
 * class [ProjectLink](../)
-* χώρος ονομάτων [Aspose.PSD.Xmp.Schemas.XmpDm](../../projectlink/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpDm](../../../aspose.psd.xmp.schemas.xmpdm/)
+* assembly [Aspose.PSD](../../../)
 
 

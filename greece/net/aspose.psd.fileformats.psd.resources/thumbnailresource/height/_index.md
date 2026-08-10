@@ -1,27 +1,28 @@
 ---
-title: ThumbnailResource.Height
-second_title: Aspose.PSD για Αναφορά API .NET
-description: ThumbnailResource ιδιοκτησία. Λαμβάνει ή ορίζει το ύψος της μικρογραφίας σε pixel.
+title: "ThumbnailResource.Height"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα ThumbnailResource. Λαμβάνει ή ορίζει το ύψος της μικρογραφίας σε εικονοστοιχεία."
 type: docs
 weight: 50
 url: /el/net/aspose.psd.fileformats.psd.resources/thumbnailresource/height/
 ---
+{{< psd/tize >}}
 ## ThumbnailResource.Height property
 
-Λαμβάνει ή ορίζει το ύψος της μικρογραφίας σε pixel.
+Λαμβάνει ή ορίζει το ύψος της μικρογραφίας σε εικονοστοιχεία.
 
 ```csharp
 public int Height { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
 Το ύψος της μικρογραφίας.
 
 ### Δείτε επίσης
 
 * class [ThumbnailResource](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Resources](../../thumbnailresource/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

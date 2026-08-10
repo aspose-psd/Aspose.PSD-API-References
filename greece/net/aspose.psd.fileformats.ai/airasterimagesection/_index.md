@@ -1,14 +1,15 @@
 ---
-title: Class AiRasterImageSection
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Aspose.PSD.FileFormats.Ai.AiRasterImageSection τάξη. Το τμήμα εικόνας ράστερ AI
+title: "Κλάση AiRasterImageSection"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Aspose.PSD.FileFormats.Ai.AiRasterImageSection κλάση. Η ενότητα AI Raster Image"
 type: docs
-weight: 1280
+weight: 1290
 url: /el/net/aspose.psd.fileformats.ai/airasterimagesection/
 ---
+{{< psd/tize >}}
 ## AiRasterImageSection class
 
-Το τμήμα εικόνας ράστερ AI
+Η ενότητα raster εικόνας AI
 
 ```csharp
 public sealed class AiRasterImageSection
@@ -16,21 +17,21 @@ public sealed class AiRasterImageSection
 
 ## Ιδιότητες
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
-| [Angle](../../aspose.psd.fileformats.ai/airasterimagesection/angle/) { get; } | Παίρνει τη γωνία. |
-| [Height](../../aspose.psd.fileformats.ai/airasterimagesection/height/) { get; } | Παίρνει το ύψος. |
-| [ImageRectangle](../../aspose.psd.fileformats.ai/airasterimagesection/imagerectangle/) { get; } | Παίρνει το ορθογώνιο της εικόνας. |
-| [LeftBottomShift](../../aspose.psd.fileformats.ai/airasterimagesection/leftbottomshift/) { get; } | Παίρνει την αριστερή κάτω μετατόπιση. |
-| [Name](../../aspose.psd.fileformats.ai/airasterimagesection/name/) { get; } | Παίρνει το όνομα της εικόνας ράστερ. |
-| [OffsetX](../../aspose.psd.fileformats.ai/airasterimagesection/offsetx/) { get; } | Παίρνει τη μετατόπιση Χ. |
-| [OffsetY](../../aspose.psd.fileformats.ai/airasterimagesection/offsety/) { get; } | Λαμβάνει τη μετατόπιση Υ. |
-| [Pixels](../../aspose.psd.fileformats.ai/airasterimagesection/pixels/) { get; } | Λαμβάνει τη σειρά των int έγχρωμων pixel. |
-| [Width](../../aspose.psd.fileformats.ai/airasterimagesection/width/) { get; } | Παίρνει το πλάτος. |
+| [Angle](../../aspose.psd.fileformats.ai/airasterimagesection/angle/) { get; } | Λαμβάνει τη γωνία. |
+| [Height](../../aspose.psd.fileformats.ai/airasterimagesection/height/) { get; } | Λαμβάνει το ύψος. |
+| [ImageRectangle](../../aspose.psd.fileformats.ai/airasterimagesection/imagerectangle/) { get; } | Λαμβάνει το ορθογώνιο της εικόνας. |
+| [LeftBottomShift](../../aspose.psd.fileformats.ai/airasterimagesection/leftbottomshift/) { get; } | Λαμβάνει τη μετατόπιση αριστερά-κάτω. |
+| [Name](../../aspose.psd.fileformats.ai/airasterimagesection/name/) { get; } | Λαμβάνει το όνομα της raster εικόνας. |
+| [OffsetX](../../aspose.psd.fileformats.ai/airasterimagesection/offsetx/) { get; } | Λαμβάνει την μετατόπιση X. |
+| [OffsetY](../../aspose.psd.fileformats.ai/airasterimagesection/offsety/) { get; } | Λαμβάνει την μετατόπιση Y. |
+| [Pixels](../../aspose.psd.fileformats.ai/airasterimagesection/pixels/) { get; } | Λαμβάνει τον πίνακα των int χρωματικών εικονοστοιχείων. |
+| [Width](../../aspose.psd.fileformats.ai/airasterimagesection/width/) { get; } | Λαμβάνει το πλάτος. |
 
-### Παραδείγματα
+## Παραδείγματα
 
-Ο παρακάτω κώδικας δείχνει τον τρόπο φόρτωσης των ρυθμίσεων των εικόνων ράστερ σε αρχεία μορφής AI.
+Ο παρακάτω κώδικας δείχνει πώς να φορτώσετε τις ρυθμίσεις των Raster Images σε αρχεία μορφής AI.
 
 ```csharp
 [C#]
@@ -75,7 +76,7 @@ using (AiImage image = (AiImage)Image.Load(sourceFile))
 
 ### Δείτε επίσης
 
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Ai](../../aspose.psd.fileformats.ai/)
-* συνέλευση [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../)
 
 

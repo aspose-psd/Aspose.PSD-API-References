@@ -1,14 +1,15 @@
 ---
-title: Class ImageAttributesExtensions
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Aspose.PSD.Extensions.ImageAttributesExtensions τάξη. Περιέχει μεθόδους επέκτασης γιαImageAttributes καιImageAttributes .
+title: "Κλάση ImageAttributesExtensions"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Aspose.PSD.Extensions.ImageAttributesExtensions κλάση. Περιέχει μεθόδους επέκτασης για ImageAttributes και ImageAttributes."
 type: docs
-weight: 1110
+weight: 1120
 url: /el/net/aspose.psd.extensions/imageattributesextensions/
 ---
+{{< psd/tize >}}
 ## ImageAttributesExtensions class
 
-Περιέχει μεθόδους επέκτασης για[`ImageAttributes`](../../aspose.psd/imageattributes/) καιImageAttributes .
+Περιέχει μεθόδους επέκτασης για το [`ImageAttributes`](../../aspose.psd/imageattributes/) και το ImageAttributes.
 
 ```csharp
 public static class ImageAttributesExtensions
@@ -16,13 +17,13 @@ public static class ImageAttributesExtensions
 
 ## Μέθοδοι
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
-| static [ToGdiImageAttributes](../../aspose.psd.extensions/imageattributesextensions/togdiimageattributes/)(ImageAttributes) | Μετατρέπει το[`ImageAttributes`](../../aspose.psd/imageattributes/) στοImageAttributes . |
+| static [ToGdiImageAttributes](../../aspose.psd.extensions/imageattributesextensions/togdiimageattributes/)(ImageAttributes) | Μετατρέπει το [`ImageAttributes`](../../aspose.psd/imageattributes/) σε ImageAttributes. |
 
 ### Δείτε επίσης
 
-* χώρος ονομάτων [Aspose.PSD.Extensions](../../aspose.psd.extensions/)
-* συνέλευση [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Extensions](../../aspose.psd.extensions/)
+* assembly [Aspose.PSD](../../)
 
 

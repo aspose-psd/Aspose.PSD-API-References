@@ -1,14 +1,15 @@
 ---
-title: Graphics.MultiplyTransform
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Graphics μέθοδος. Πολλαπλασιάζει τοMatrix που αντιπροσωπεύει τον τοπικό γεωμετρικό μετασχηματισμό αυτούGraphics από τα καθορισμέναMatrix με την προετοιμασία του καθορισμένουMatrix .
+title: "Graphics.MultiplyTransform"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Μέθοδος Graphics. Πολλαπλασιάζει τη Matrix που αντιπροσωπεύει τη τοπική γεωμετρική μετασχηματισμό αυτού του Graphics με τη συγκεκριμένη Matrix, προσθέτοντας τη συγκεκριμένη Matrix στην αρχή."
 type: docs
-weight: 420
+weight: 430
 url: /el/net/aspose.psd/graphics/multiplytransform/
 ---
+{{< psd/tize >}}
 ## MultiplyTransform(Matrix) {#multiplytransform}
 
-Πολλαπλασιάζει το[`Matrix`](../../matrix/) που αντιπροσωπεύει τον τοπικό γεωμετρικό μετασχηματισμό αυτού[`Graphics`](../) από τα καθορισμένα[`Matrix`](../../matrix/) με την προετοιμασία του καθορισμένου[`Matrix`](../../matrix/) .
+Πολλαπλασιάζει τη [`Matrix`](../../matrix/) που αντιπροσωπεύει τη τοπική γεωμετρική μετασχηματισμό αυτού του [`Graphics`](../) με τη συγκεκριμένη [`Matrix`](../../matrix/), προσθέτοντας τη συγκεκριμένη [`Matrix`](../../matrix/).
 
 ```csharp
 public void MultiplyTransform(Matrix matrix)
@@ -16,20 +17,20 @@ public void MultiplyTransform(Matrix matrix)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| matrix | Matrix | ο[`Matrix`](../../matrix/) με το οποίο πολλαπλασιάζεται ο γεωμετρικός μετασχηματισμός. |
+| matrix | Matrix | Η [`Matrix`](../../matrix/) με την οποία θα πολλαπλασιαστεί ο γεωμετρικός μετασχηματισμός. |
 
 ### Δείτε επίσης
 
 * class [Matrix](../../matrix/)
 * class [Graphics](../)
-* χώρος ονομάτων [Aspose.PSD](../../graphics/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## MultiplyTransform(Matrix, MatrixOrder) {#multiplytransform_1}
 
-Πολλαπλασιάζει το[`Matrix`](../../matrix/) που αντιπροσωπεύει τον τοπικό γεωμετρικό μετασχηματισμό αυτού[`Graphics`](../) από τα καθορισμένα[`Matrix`](../../matrix/) με την καθορισμένη σειρά.
+Πολλαπλασιάζει τη [`Matrix`](../../matrix/) που αντιπροσωπεύει τη τοπική γεωμετρική μετασχηματισμό αυτού του [`Graphics`](../) με τη συγκεκριμένη [`Matrix`](../../matrix/) με τη συγκεκριμένη σειρά.
 
 ```csharp
 public void MultiplyTransform(Matrix matrix, MatrixOrder order)
@@ -37,15 +38,15 @@ public void MultiplyTransform(Matrix matrix, MatrixOrder order)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| matrix | Matrix | ο[`Matrix`](../../matrix/) με το οποίο πολλαπλασιάζεται ο γεωμετρικός μετασχηματισμός. |
-| order | MatrixOrder | ΕΝΑ[`MatrixOrder`](../../matrixorder/) που καθορίζει με ποια σειρά πολλαπλασιάζονται οι δύο πίνακες. |
+| matrix | Matrix | Η [`Matrix`](../../matrix/) με την οποία θα πολλαπλασιαστεί ο γεωμετρικός μετασχηματισμός. |
+| order | MatrixOrder | Ένα [`MatrixOrder`](../../matrixorder/) που καθορίζει με ποια σειρά θα πολλαπλασιαστούν οι δύο matrices. |
 
 ### Δείτε επίσης
 
 * class [Matrix](../../matrix/)
 * enum [MatrixOrder](../../matrixorder/)
 * class [Graphics](../)
-* χώρος ονομάτων [Aspose.PSD](../../graphics/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

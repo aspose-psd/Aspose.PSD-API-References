@@ -1,14 +1,15 @@
 ---
-title: ColorRangeHsl.IsHueInSmallRange
-second_title: Aspose.PSD για Αναφορά API .NET
-description: ColorRangeHsl μέθοδος. Καθορίζει εάν η απόχρωση σε μικρό εύρος.
+title: "ColorRangeHsl.IsHueInSmallRange"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Μέθοδος ColorRangeHsl. Καθορίζει εάν η απόχρωση είναι σε μικρό εύρος"
 type: docs
 weight: 110
 url: /el/net/aspose.psd.fileformats.psd.layers.layerresources/colorrangehsl/ishueinsmallrange/
 ---
+{{< psd/tize >}}
 ## ColorRangeHsl.IsHueInSmallRange method
 
-Καθορίζει εάν η απόχρωση σε μικρό εύρος.
+Καθορίζει εάν η απόχρωση είναι σε μικρή περιοχή.
 
 ```csharp
 public bool IsHueInSmallRange(double hue)
@@ -16,16 +17,16 @@ public bool IsHueInSmallRange(double hue)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| hue | Double | Η τιμή της απόχρωσης. |
+| απόχρωση | Double | Η τιμή της απόχρωσης. |
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-`αληθής` εάν απόχρωση σε μικρό εύρος? σε διαφορετική περίπτωση,`ψευδής` .
+`true` εάν η απόχρωση είναι σε μικρό εύρος· διαφορετικά, `false`.
 
 ### Δείτε επίσης
 
 * class [ColorRangeHsl](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../colorrangehsl/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

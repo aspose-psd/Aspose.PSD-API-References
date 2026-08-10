@@ -1,20 +1,21 @@
 ---
-title: Graphics.PageUnit
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Graphics ιδιοκτησία. Λαμβάνει ή ορίζει τη μονάδα μέτρησης που χρησιμοποιείται για τις συντεταγμένες σελίδας σε αυτό το Aspose.PSD.Graphics.
+title: "Graphics.PageUnit"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα Graphics. Λαμβάνει ή ορίζει τη μονάδα μέτρησης που χρησιμοποιείται για τις συντεταγμένες σελίδας σε αυτό το Aspose.PSD.Graphics."
 type: docs
 weight: 100
 url: /el/net/aspose.psd/graphics/pageunit/
 ---
+{{< psd/tize >}}
 ## Graphics.PageUnit property
 
-Λαμβάνει ή ορίζει τη μονάδα μέτρησης που χρησιμοποιείται για τις συντεταγμένες σελίδας σε αυτό το Aspose.PSD.Graphics.
+Ανακτά ή ορίζει τη μονάδα μέτρησης που χρησιμοποιείται για τις συντεταγμένες σελίδας σε αυτό το Aspose.PSD.Graphics.
 
 ```csharp
 public GraphicsUnit PageUnit { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
 Η μονάδα μέτρησης που χρησιμοποιείται για τις συντεταγμένες σελίδας σε αυτό το Aspose.PSD.Graphics.
 
@@ -22,7 +23,7 @@ public GraphicsUnit PageUnit { get; set; }
 
 * enum [GraphicsUnit](../../graphicsunit/)
 * class [Graphics](../)
-* χώρος ονομάτων [Aspose.PSD](../../graphics/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,26 +1,27 @@
 ---
-title: PtFlResource.Scale
-second_title: Aspose.PSD για Αναφορά API .NET
-description: PtFlResource ιδιοκτησία. Παίρνει ή ρυθμίζει την κλίμακα.
+title: "PtFlResource.Scale"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα PtFlResource. Λαμβάνει ή ορίζει την κλίμακα"
 type: docs
-weight: 100
+weight: 90
 url: /el/net/aspose.psd.fileformats.psd.layers.layerresources/ptflresource/scale/
 ---
+{{< psd/tize >}}
 ## PtFlResource.Scale property
 
-Παίρνει ή ρυθμίζει την κλίμακα.
+Λαμβάνει ή ορίζει την κλίμακα.
 
 ```csharp
 public double Scale { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
 Η κλίμακα.
 
-### Παραδείγματα
+## Παραδείγματα
 
-Το ακόλουθο παράδειγμα δείχνει την υποστήριξη της φόρτωσης και της επεξεργασίας ενός πόρου PtFlResource.
+Το παρακάτω παράδειγμα δείχνει την υποστήριξη της φόρτωσης και επεξεργασίας ενός πόρου PtFlResource.
 
 ```csharp
 [C#]
@@ -41,7 +42,7 @@ using (im)
             {
                 if (res is PtFlResource)
                 {
-                    // ΑΝΑΓΝΩΣΗ
+                    // Ανάγνωση
                     PtFlResource resource = (PtFlResource)res;
                     if (
                         resource.Offset.X != -46 ||
@@ -89,7 +90,7 @@ using (im)
 ### Δείτε επίσης
 
 * class [PtFlResource](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../ptflresource/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

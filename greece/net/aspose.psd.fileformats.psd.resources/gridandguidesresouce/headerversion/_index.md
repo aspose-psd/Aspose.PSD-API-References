@@ -1,27 +1,28 @@
 ---
-title: GridAndGuidesResouce.HeaderVersion
-second_title: Aspose.PSD για Αναφορά API .NET
-description: GridAndGuidesResouce ιδιοκτησία. Λαμβάνει ή ορίζει την έκδοση κεφαλίδας. Αυτή η τιμή πρέπει να είναι πάντα 1.
+title: "GridAndGuidesResouce.HeaderVersion"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα GridAndGuidesResouce. Λαμβάνει ή ορίζει την έκδοση της κεφαλίδας. Αυτή η τιμή πρέπει πάντα να είναι 1"
 type: docs
 weight: 70
 url: /el/net/aspose.psd.fileformats.psd.resources/gridandguidesresouce/headerversion/
 ---
+{{< psd/tize >}}
 ## GridAndGuidesResouce.HeaderVersion property
 
-Λαμβάνει ή ορίζει την έκδοση κεφαλίδας. Αυτή η τιμή πρέπει να είναι πάντα 1.
+Λαμβάνει ή ορίζει την έκδοση της κεφαλίδας. Αυτή η τιμή πρέπει πάντα να είναι 1.
 
 ```csharp
 public int HeaderVersion { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Η έκδοση κεφαλίδας.
+Η έκδοση της κεφαλίδας.
 
 ### Δείτε επίσης
 
 * class [GridAndGuidesResouce](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Resources](../../gridandguidesresouce/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

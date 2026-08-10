@@ -1,11 +1,12 @@
 ---
-title: Enum ColorQuantizationMethod
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Aspose.PSD.ColorQuantizationMethod αρίθμηση. Μέθοδοι κβαντισμού χρωμάτων
+title: "Απαρίθμηση ColorQuantizationMethod"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Απαρίθμηση Aspose.PSD.ColorQuantizationMethod. Μέθοδοι ποσοτικοποίησης χρωμάτων"
 type: docs
 weight: 390
 url: /el/net/aspose.psd/colorquantizationmethod/
 ---
+{{< psd/tize >}}
 ## ColorQuantizationMethod enumeration
 
 Μέθοδοι κβαντισμού χρωμάτων
@@ -14,16 +15,16 @@ url: /el/net/aspose.psd/colorquantizationmethod/
 public enum ColorQuantizationMethod
 ```
 
-### Αξίες
+### Τιμές
 
-| Ονομα | αξία | Περιγραφή |
+| Όνομα | Τιμή | Περιγραφή |
 | --- | --- | --- |
-| None | `0` | Δεν χρησιμοποιείται καμία μέθοδος κβαντισμού χρώματος |
+| None | `0` | Δεν χρησιμοποιείται μέθοδος ποσοτικοποίησης χρώματος |
 | Popularity | `1` | Η μέθοδος δημοτικότητας |
 
 ### Δείτε επίσης
 
-* χώρος ονομάτων [Aspose.PSD](../../aspose.psd/)
-* συνέλευση [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

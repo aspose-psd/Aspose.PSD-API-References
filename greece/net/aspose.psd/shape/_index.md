@@ -1,14 +1,15 @@
 ---
-title: Class Shape
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Aspose.PSD.Shape τάξη. Το σχήμα. Ένα συνεχές σύνολο σημείων που συνδέονται χρησιμοποιώντας έναν συγκεκριμένο κανόνα.
+title: "Κλάση Shape"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Κλάση Aspose.PSD.Shape. Το σχήμα. Ένα συνεχές σύνολο σημείων συνδεδεμένων με συγκεκριμένο κανόνα"
 type: docs
-weight: 5420
+weight: 5920
 url: /el/net/aspose.psd/shape/
 ---
+{{< psd/tize >}}
 ## Shape class
 
-Το σχήμα. Ένα συνεχές σύνολο σημείων που συνδέονται χρησιμοποιώντας έναν συγκεκριμένο κανόνα.
+Το σχήμα. Ένα συνεχές σύνολο σημείων συνδεδεμένων με χρήση συγκεκριμένου κανόνα.
 
 ```csharp
 public abstract class Shape : ObjectWithBounds
@@ -16,16 +17,16 @@ public abstract class Shape : ObjectWithBounds
 
 ## Ιδιότητες
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
 | abstract [Bounds](../../aspose.psd/objectwithbounds/bounds/) { get; } | Λαμβάνει τα όρια του αντικειμένου. |
 | abstract [Center](../../aspose.psd/shape/center/) { get; } | Λαμβάνει το κέντρο του σχήματος. |
-| abstract [HasSegments](../../aspose.psd/shape/hassegments/) { get; } | Λαμβάνει μια τιμή που υποδεικνύει αν το σχήμα έχει τμήματα. |
-| abstract [Segments](../../aspose.psd/shape/segments/) { get; } | Παίρνει τα τμήματα σχήματος. |
+| abstract [HasSegments](../../aspose.psd/shape/hassegments/) { get; } | Λαμβάνει μια τιμή που υποδεικνύει εάν το σχήμα έχει τμήματα. |
+| abstract [Segments](../../aspose.psd/shape/segments/) { get; } | Λαμβάνει τα τμήματα του σχήματος. |
 
 ## Μέθοδοι
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
 | abstract [GetBounds](../../aspose.psd/objectwithbounds/getbounds/)(Matrix) | Λαμβάνει τα όρια του αντικειμένου. |
 | abstract [GetBounds](../../aspose.psd/objectwithbounds/getbounds/)(Matrix, Pen) | Λαμβάνει τα όρια του αντικειμένου. |
@@ -34,7 +35,7 @@ public abstract class Shape : ObjectWithBounds
 ### Δείτε επίσης
 
 * class [ObjectWithBounds](../objectwithbounds/)
-* χώρος ονομάτων [Aspose.PSD](../../aspose.psd/)
-* συνέλευση [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: TiffOptions.Palette
-second_title: Aspose.PSD για Αναφορά API .NET
-description: TiffOptions ιδιοκτησία. Λαμβάνει ή ορίζει την παλέτα χρωμάτων.
+title: "TiffOptions.Palette"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα TiffOptions. Λαμβάνει ή ορίζει την παλέτα χρωμάτων"
 type: docs
-weight: 310
+weight: 320
 url: /el/net/aspose.psd.imageoptions/tiffoptions/palette/
 ---
+{{< psd/tize >}}
 ## TiffOptions.Palette property
 
 Λαμβάνει ή ορίζει την παλέτα χρωμάτων.
@@ -14,15 +15,15 @@ url: /el/net/aspose.psd.imageoptions/tiffoptions/palette/
 public override IColorPalette Palette { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Η χρωματική παλέτα.
+Η παλέτα χρωμάτων.
 
 ### Δείτε επίσης
 
 * interface [IColorPalette](../../../aspose.psd/icolorpalette/)
 * class [TiffOptions](../)
-* χώρος ονομάτων [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

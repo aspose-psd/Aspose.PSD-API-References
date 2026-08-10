@@ -1,28 +1,29 @@
 ---
-title: StringFormat.FormatFlags
-second_title: Aspose.PSD για Αναφορά API .NET
-description: StringFormat ιδιοκτησία. Λαμβάνει ή ορίζει αStringFormatFlags απαρίθμηση που περιέχει πληροφορίες μορφοποίησης.
+title: "StringFormat.FormatFlags"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα StringFormat. Επιστρέφει ή ορίζει μια απαρίθμηση StringFormatFlags που περιέχει πληροφορίες μορφοποίησης"
 type: docs
-weight: 80
+weight: 90
 url: /el/net/aspose.psd/stringformat/formatflags/
 ---
+{{< psd/tize >}}
 ## StringFormat.FormatFlags property
 
-Λαμβάνει ή ορίζει α[`StringFormatFlags`](../../stringformatflags/) απαρίθμηση που περιέχει πληροφορίες μορφοποίησης.
+Επιστρέφει ή ορίζει μια απαρίθμηση [`StringFormatFlags`](../../stringformatflags/) που περιέχει πληροφορίες μορφοποίησης.
 
 ```csharp
 public StringFormatFlags FormatFlags { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-ΕΝΑ[`StringFormatFlags`](../../stringformatflags/) απαρίθμηση που περιέχει πληροφορίες μορφοποίησης.
+Μια απαρίθμηση [`StringFormatFlags`](../../stringformatflags/) που περιέχει πληροφορίες μορφοποίησης.
 
 ### Δείτε επίσης
 
 * enum [StringFormatFlags](../../stringformatflags/)
 * class [StringFormat](../)
-* χώρος ονομάτων [Aspose.PSD](../../stringformat/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: LayerResource.PsbResourceSignature
-second_title: Aspose.PSD για Αναφορά API .NET
-description: LayerResource πεδίο. Η υπογραφή πόρων για το PSB.
+title: "LayerResource.PsbResourceSignature"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Πεδίο LayerResource. Η υπογραφή πόρου PSB-specific"
 type: docs
 weight: 70
 url: /el/net/aspose.psd.fileformats.psd.layers/layerresource/psbresourcesignature/
 ---
+{{< psd/tize >}}
 ## LayerResource.PsbResourceSignature field
 
-Η υπογραφή πόρων για το PSB.
+Η υπογραφή πόρου ειδική για PSB.
 
 ```csharp
 public const int PsbResourceSignature;
@@ -17,7 +18,7 @@ public const int PsbResourceSignature;
 ### Δείτε επίσης
 
 * class [LayerResource](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers](../../layerresource/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

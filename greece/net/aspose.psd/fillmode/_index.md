@@ -1,29 +1,30 @@
 ---
-title: Enum FillMode
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Aspose.PSD.FillMode αρίθμηση. Καθορίζει πώς γεμίζεται το εσωτερικό μιας κλειστής διαδρομής.
+title: "Απαρίθμηση FillMode"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Απαρίθμηση Aspose.PSD.FillMode. Καθορίζει πώς γεμίζει το εσωτερικό μιας κλειστής διαδρομής."
 type: docs
-weight: 4260
+weight: 4730
 url: /el/net/aspose.psd/fillmode/
 ---
+{{< psd/tize >}}
 ## FillMode enumeration
 
-Καθορίζει πώς γεμίζεται το εσωτερικό μιας κλειστής διαδρομής.
+Καθορίζει πώς γεμίζει το εσωτερικό ενός κλειστού μονοπατιού.
 
 ```csharp
 public enum FillMode
 ```
 
-### Αξίες
+### Τιμές
 
-| Ονομα | αξία | Περιγραφή |
+| Όνομα | Τιμή | Περιγραφή |
 | --- | --- | --- |
-| Alternate | `0` | Καθορίζει την εναλλακτική λειτουργία πλήρωσης. |
-| Winding | `1` | Καθορίζει τη λειτουργία πλήρωσης περιέλιξης. |
+| Alternate | `0` | Καθορίζει τη εναλλακτική λειτουργία γεμίσματος. |
+| Winding | `1` | Καθορίζει τη λειτουργία γεμίσματος τύπου winding. |
 
 ### Δείτε επίσης
 
-* χώρος ονομάτων [Aspose.PSD](../../aspose.psd/)
-* συνέλευση [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

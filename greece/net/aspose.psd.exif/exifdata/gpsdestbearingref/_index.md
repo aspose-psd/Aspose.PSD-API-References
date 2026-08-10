@@ -1,27 +1,28 @@
 ---
-title: ExifData.GPSDestBearingRef
-second_title: Aspose.PSD για Αναφορά API .NET
-description: ExifData ιδιοκτησία. Λαμβάνει ή ορίζει την αναφορά GPS που χρησιμοποιείται για τη μεταφορά του ρουλεμάν στο σημείο προορισμού.
+title: "ExifData.GPSDestBearingRef"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα ExifData. Λαμβάνει ή ορίζει την αναφορά GPS που χρησιμοποιείται για τον καθορισμό της κατεύθυνσης προς το σημείο προορισμού"
 type: docs
 weight: 410
 url: /el/net/aspose.psd.exif/exifdata/gpsdestbearingref/
 ---
+{{< psd/tize >}}
 ## ExifData.GPSDestBearingRef property
 
-Λαμβάνει ή ορίζει την αναφορά GPS που χρησιμοποιείται για τη μεταφορά του ρουλεμάν στο σημείο προορισμού.
+Λαμβάνει ή ορίζει την αναφορά GPS που χρησιμοποιείται για την παροχή της κατεύθυνσης προς το σημείο προορισμού.
 
 ```csharp
 public string GPSDestBearingRef { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Η αναφορά GPS που χρησιμοποιείται για τη μεταφορά του ρουλεμάν στο σημείο προορισμού.
+Η αναφορά GPS που χρησιμοποιείται για τον καθορισμό της κατεύθυνσης προς το σημείο προορισμού.
 
 ### Δείτε επίσης
 
 * class [ExifData](../)
-* χώρος ονομάτων [Aspose.PSD.Exif](../../exifdata/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

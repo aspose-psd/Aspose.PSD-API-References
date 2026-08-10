@@ -1,14 +1,15 @@
 ---
-title: SolidBrush.SolidBrush
-second_title: Aspose.PSD για Αναφορά API .NET
-description: SolidBrush κατασκευαστής. Αρχικοποιεί μια νέα παρουσία τουSolidBrush τάξη.
+title: "SolidBrush.SolidBrush"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Κατασκευαστής SolidBrush. Αρχικοποιεί μια νέα παρουσία της κλάσης SolidBrush"
 type: docs
 weight: 10
 url: /el/net/aspose.psd.brushes/solidbrush/solidbrush/
 ---
+{{< psd/tize >}}
 ## SolidBrush() {#constructor}
 
-Αρχικοποιεί μια νέα παρουσία του[`SolidBrush`](../) τάξη.
+Αρχικοποιεί μια νέα παρουσία της κλάσης [`SolidBrush`](../).
 
 ```csharp
 public SolidBrush()
@@ -17,14 +18,14 @@ public SolidBrush()
 ### Δείτε επίσης
 
 * class [SolidBrush](../)
-* χώρος ονομάτων [Aspose.PSD.Brushes](../../solidbrush/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## SolidBrush(Color) {#constructor_1}
 
-Αρχικοποιεί μια νέα παρουσία του[`SolidBrush`](../) τάξη.
+Αρχικοποιεί μια νέα παρουσία της κλάσης [`SolidBrush`](../).
 
 ```csharp
 public SolidBrush(Color color)
@@ -32,13 +33,13 @@ public SolidBrush(Color color)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| color | Color | Το συμπαγές χρώμα του πινέλου. |
+| χρώμα | Χρώμα | Το χρώμα του solid brush. |
 
 ### Δείτε επίσης
 
 * struct [Color](../../../aspose.psd/color/)
 * class [SolidBrush](../)
-* χώρος ονομάτων [Aspose.PSD.Brushes](../../solidbrush/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
+* assembly [Aspose.PSD](../../../)
 
 

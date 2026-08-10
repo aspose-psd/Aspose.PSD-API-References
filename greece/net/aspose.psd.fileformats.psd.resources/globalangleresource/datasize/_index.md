@@ -1,27 +1,28 @@
 ---
-title: GlobalAngleResource.DataSize
-second_title: Aspose.PSD για Αναφορά API .NET
-description: GlobalAngleResource ιδιοκτησία. Λαμβάνει το μέγεθος δεδομένων πόρων σε byte.
+title: "GlobalAngleResource.DataSize"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα GlobalAngleResource. Λαμβάνει το μέγεθος δεδομένων του πόρου σε byte"
 type: docs
 weight: 20
 url: /el/net/aspose.psd.fileformats.psd.resources/globalangleresource/datasize/
 ---
+{{< psd/tize >}}
 ## GlobalAngleResource.DataSize property
 
-Λαμβάνει το μέγεθος δεδομένων πόρων σε byte.
+Λαμβάνει το μέγεθος δεδομένων του πόρου σε byte.
 
 ```csharp
 public override int DataSize { get; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Το μέγεθος δεδομένων πόρων.
+Το μέγεθος δεδομένων του πόρου.
 
 ### Δείτε επίσης
 
 * class [GlobalAngleResource](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Resources](../../globalangleresource/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

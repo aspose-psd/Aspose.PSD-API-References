@@ -1,11 +1,12 @@
 ---
-title: SmartFilter.Opacity
-second_title: Aspose.PSD για Αναφορά API .NET
-description: SmartFilter ιδιοκτησία. Λαμβάνει ή ορίζει την τιμή αδιαφάνειας του έξυπνου φίλτρου.
+title: "SmartFilter.Opacity"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα SmartFilter. Λαμβάνει ή ορίζει την τιμή διαφάνειας του έξυπνου φίλτρου"
 type: docs
 weight: 60
 url: /el/net/aspose.psd.fileformats.psd.layers.smartfilters/smartfilter/opacity/
 ---
+{{< psd/tize >}}
 ## SmartFilter.Opacity property
 
 Λαμβάνει ή ορίζει την τιμή αδιαφάνειας του έξυπνου φίλτρου.
@@ -17,7 +18,7 @@ public double Opacity { get; set; }
 ### Δείτε επίσης
 
 * class [SmartFilter](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.SmartFilters](../../smartfilter/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.SmartFilters](../../../aspose.psd.fileformats.psd.layers.smartfilters/)
+* assembly [Aspose.PSD](../../../)
 
 

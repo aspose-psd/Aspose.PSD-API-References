@@ -1,14 +1,15 @@
 ---
-title: ComplexTypeBase.ComplexTypeBase
-second_title: Aspose.PSD για Αναφορά API .NET
-description: ComplexTypeBase κατασκευαστής. Αρχικοποιεί μια νέα παρουσία τουComplexTypeBase τάξη.
+title: "ComplexTypeBase.ComplexTypeBase"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Κατασκευαστής ComplexTypeBase. Αρχικοποιεί μια νέα παρουσία της κλάσης ComplexTypeBase"
 type: docs
 weight: 10
 url: /el/net/aspose.psd.xmp.types.complex/complextypebase/complextypebase/
 ---
+{{< psd/tize >}}
 ## ComplexTypeBase constructor
 
-Αρχικοποιεί μια νέα παρουσία του[`ComplexTypeBase`](../) τάξη.
+Αρχικοποιεί μια νέα παρουσία της κλάσης [`ComplexTypeBase`](../).
 
 ```csharp
 public ComplexTypeBase(string prefix, string namespaceUri)
@@ -16,19 +17,19 @@ public ComplexTypeBase(string prefix, string namespaceUri)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| prefix | String | Το πρόθεμα. |
-| namespaceUri | String | Το URI του χώρου ονομάτων. |
+| πρόθεμα | String | Το πρόθεμα. |
+| namespaceUri | String | Το URI του ονοματοχώρου. |
 
 ### Εξαιρέσεις
 
-| εξαίρεση | κατάσταση |
+| εξαίρεση | συνθήκη |
 | --- | --- |
-| ArgumentNullException | Το πρόθεμα είναι null ή namespaceUri είναι null |
+| ArgumentNullException | Το πρόθεμα είναι null ή το namespaceUri είναι null |
 
 ### Δείτε επίσης
 
 * class [ComplexTypeBase](../)
-* χώρος ονομάτων [Aspose.PSD.Xmp.Types.Complex](../../complextypebase/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex](../../../aspose.psd.xmp.types.complex/)
+* assembly [Aspose.PSD](../../../)
 
 

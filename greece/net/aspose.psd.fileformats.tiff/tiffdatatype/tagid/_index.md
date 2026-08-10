@@ -1,28 +1,29 @@
 ---
-title: TiffDataType.TagId
-second_title: Aspose.PSD για Αναφορά API .NET
-description: TiffDataType ιδιοκτησία. Λαμβάνει το αναγνωριστικό ετικέτας.
+title: "TiffDataType.TagId"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "TiffDataType ιδιότητα. Λαμβάνει το αναγνωριστικό της ετικέτας"
 type: docs
 weight: 70
 url: /el/net/aspose.psd.fileformats.tiff/tiffdatatype/tagid/
 ---
+{{< psd/tize >}}
 ## TiffDataType.TagId property
 
-Λαμβάνει το αναγνωριστικό ετικέτας.
+Λαμβάνει το αναγνωριστικό της ετικέτας.
 
 ```csharp
 public TiffTags TagId { get; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Το αναγνωριστικό ετικέτας.
+Το αναγνωριστικό της ετικέτας.
 
 ### Δείτε επίσης
 
 * enum [TiffTags](../../../aspose.psd.fileformats.tiff.enums/tifftags/)
 * class [TiffDataType](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Tiff](../../tiffdatatype/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff](../../../aspose.psd.fileformats.tiff/)
+* assembly [Aspose.PSD](../../../)
 
 

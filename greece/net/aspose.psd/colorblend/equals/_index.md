@@ -1,14 +1,15 @@
 ---
-title: ColorBlend.Equals
-second_title: Aspose.PSD για Αναφορά API .NET
-description: ColorBlend μέθοδος. Ελέγχει εάν το καθορισμένο αντικείμενο είναι αColorBlend κατηγορίας και ισοδυναμεί με αυτήνColorBlend τάξη.
+title: "ColorBlend.Equals"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Μέθοδος ColorBlend. Ελέγχει εάν το καθορισμένο αντικείμενο είναι κλάση ColorBlend και είναι ισοδύναμο με αυτήν την κλάση ColorBlend"
 type: docs
 weight: 40
 url: /el/net/aspose.psd/colorblend/equals/
 ---
+{{< psd/tize >}}
 ## ColorBlend.Equals method
 
-Ελέγχει εάν το καθορισμένο αντικείμενο είναι α[`ColorBlend`](../) κατηγορίας και ισοδυναμεί με αυτήν[`ColorBlend`](../) τάξη.
+Δοκιμάζει εάν το καθορισμένο αντικείμενο είναι μια κλάση [`ColorBlend`](../) και είναι ισοδύναμη με αυτήν την κλάση [`ColorBlend`](../).
 
 ```csharp
 public override bool Equals(object obj)
@@ -16,16 +17,16 @@ public override bool Equals(object obj)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| obj | Object | Το αντικείμενο προς δοκιμή. |
+| obj | Object | Το αντικείμενο προς έλεγχο. |
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-Αλήθεια αν*obj* είναι ένα[`ColorBlend`](../) τάξη ισοδύναμη με αυτήν[`ColorBlend`](../) τάξη; διαφορετικά, ψευδής.
+Αληθές εάν το *obj* είναι μια κλάση [`ColorBlend`](../) ισοδύναμη με αυτήν την κλάση [`ColorBlend`](../); διαφορετικά, ψευδές.
 
 ### Δείτε επίσης
 
 * class [ColorBlend](../)
-* χώρος ονομάτων [Aspose.PSD](../../colorblend/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

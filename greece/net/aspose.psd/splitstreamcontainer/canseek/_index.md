@@ -1,27 +1,28 @@
 ---
-title: SplitStreamContainer.CanSeek
-second_title: Aspose.PSD για Αναφορά API .NET
-description: SplitStreamContainer ιδιοκτησία. Λαμβάνει μια τιμή που υποδεικνύει εάν η ροή υποστηρίζει αναζήτηση.
+title: "SplitStreamContainer.CanSeek"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "SplitStreamContainer ιδιότητα. Επιστρέφει μια τιμή που υποδεικνύει αν η ροή υποστηρίζει αναζήτηση"
 type: docs
 weight: 30
 url: /el/net/aspose.psd/splitstreamcontainer/canseek/
 ---
+{{< psd/tize >}}
 ## SplitStreamContainer.CanSeek property
 
-Λαμβάνει μια τιμή που υποδεικνύει εάν η ροή υποστηρίζει αναζήτηση.
+Λαμβάνει μια τιμή που υποδεικνύει αν το stream υποστηρίζει αναζήτηση.
 
 ```csharp
 public override bool CanSeek { get; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-`αληθής` εάν το ρεύμα υποστηρίζει την αναζήτηση. σε διαφορετική περίπτωση,`ψευδής`.
+`true` εάν η ροή υποστηρίζει αναζήτηση· διαφορετικά, `false`.
 
 ### Δείτε επίσης
 
 * class [SplitStreamContainer](../)
-* χώρος ονομάτων [Aspose.PSD](../../splitstreamcontainer/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

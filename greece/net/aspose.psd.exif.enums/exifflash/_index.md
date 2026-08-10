@@ -1,11 +1,12 @@
 ---
-title: Enum ExifFlash
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Aspose.PSD.Exif.Enums.ExifFlash αρίθμηση. Λειτουργία φλας.
+title: "Enum ExifFlash"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Aspose.PSD.Exif.Enums.ExifFlash enum. Λειτουργία φλας"
 type: docs
-weight: 860
+weight: 870
 url: /el/net/aspose.psd.exif.enums/exifflash/
 ---
+{{< psd/tize >}}
 ## ExifFlash enumeration
 
 Λειτουργία φλας.
@@ -14,28 +15,28 @@ url: /el/net/aspose.psd.exif.enums/exifflash/
 public enum ExifFlash
 ```
 
-### Αξίες
+### Τιμές
 
-| Ονομα | αξία | Περιγραφή |
+| Όνομα | Τιμή | Περιγραφή |
 | --- | --- | --- |
 | Noflash | `0` | Δεν ενεργοποιήθηκε φλας. |
-| Fired | `1` | Το φλας ενεργοποιήθηκε. |
-| FiredReturnLightNotDetected | `5` | Το φλας ενεργοποιήθηκε, το φως επιστροφής δεν ανιχνεύθηκε. |
-| FiredReturnLightDetected | `7` | Ενεργοποιήθηκε το φλας, ανιχνεύθηκε φως επιστροφής. |
-| YesCompulsory | `9` | Το φλας ενεργοποιήθηκε, υποχρεωτική λειτουργία φλας. |
-| YesCompulsoryReturnLightNotDetected | `13` | Το φλας ενεργοποιήθηκε, υποχρεωτική λειτουργία, το φως επιστροφής δεν ανιχνεύθηκε. |
-| YesCompulsoryReturnLightDetected | `15` | Το φλας ενεργοποιήθηκε, υποχρεωτική λειτουργία, ανιχνεύθηκε φως επιστροφής. |
-| NoCompulsory | `16` | Το φλας δεν ενεργοποιήθηκε, υποχρεωτική λειτουργία φλας. |
-| NoDidNotFireReturnLightNotDetected | `20` | Το φλας δεν ενεργοποιήθηκε, το φως επιστροφής δεν ανιχνεύθηκε. |
-| NoAuto | `24` | Το φλας δεν ενεργοποιήθηκε, αυτόματη λειτουργία. |
-| YesAuto | `25` | Αυτόματη λειτουργία φλας. |
-| YesAutoReturnLightNotDetected | `29` | Το φλας ενεργοποιήθηκε, αυτόματη λειτουργία, το φως επιστροφής δεν ανιχνεύθηκε. |
-| YesAutoReturnLightDetected | `31` | Ενεργοποιήθηκε το φλας, αυτόματη λειτουργία, ανιχνεύθηκε φως επιστροφής. |
-| NoFlashFunction | `32` | Χωρίς λειτουργία φλας. |
+| Fired | `1` | Ενεργοποιήθηκε φλας. |
+| FiredReturnLightNotDetected | `5` | Ενεργοποιήθηκε φλας, δεν ανιχνεύτηκε επιστρεπτικό φως. |
+| FiredReturnLightDetected | `7` | Ενεργοποιήθηκε φλας, ανιχνεύτηκε επιστρεπτικό φως. |
+| YesCompulsory | `9` | Ενεργοποιήθηκε φλας, υποχρεωτική λειτουργία φλας. |
+| YesCompulsoryReturnLightNotDetected | `13` | Ενεργοποιήθηκε φλας, υποχρεωτική λειτουργία, δεν ανιχνεύτηκε επιστρεπτικό φως. |
+| YesCompulsoryReturnLightDetected | `15` | Ενεργοποιήθηκε φλας, υποχρεωτική λειτουργία, ανιχνεύτηκε επιστρεπτικό φως. |
+| NoCompulsory | `16` | Δεν ενεργοποιήθηκε φλας, υποχρεωτική λειτουργία φλας. |
+| NoDidNotFireReturnLightNotDetected | `20` | Δεν ενεργοποιήθηκε φλας, δεν ανιχνεύτηκε επιστρεπτικό φως. |
+| NoAuto | `24` | Δεν ενεργοποιήθηκε φλας, αυτόματη λειτουργία. |
+| YesAuto | `25` | Ενεργοποιήθηκε φλαςm αυτόματη λειτουργία. |
+| YesAutoReturnLightNotDetected | `29` | Ενεργοποιήθηκε φλας, αυτόματη λειτουργία, δεν ανιχνεύτηκε επιστρεπτικό φως. |
+| YesAutoReturnLightDetected | `31` | Ενεργοποιήθηκε φλας, αυτόματη λειτουργία, ανιχνεύτηκε επιστρεπτικό φως. |
+| NoFlashFunction | `32` | Δεν υπάρχει λειτουργία φλας. |
 
 ### Δείτε επίσης
 
-* χώρος ονομάτων [Aspose.PSD.Exif.Enums](../../aspose.psd.exif.enums/)
-* συνέλευση [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Exif.Enums](../../aspose.psd.exif.enums/)
+* assembly [Aspose.PSD](../../)
 
 

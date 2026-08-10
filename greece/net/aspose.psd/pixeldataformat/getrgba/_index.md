@@ -1,11 +1,12 @@
 ---
-title: PixelDataFormat.GetRgba
-second_title: Aspose.PSD για Αναφορά API .NET
-description: PixelDataFormat μέθοδος. Λαμβάνει χρώμα RGBA με καθορισμένο αριθμό bit ανά δείγμα.
+title: "PixelDataFormat.GetRgba"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Μέθοδος PixelDataFormat. Λαμβάνει το χρώμα RGBA με καθορισμένο αριθμό bits ανά δείγμα"
 type: docs
 weight: 260
 url: /el/net/aspose.psd/pixeldataformat/getrgba/
 ---
+{{< psd/tize >}}
 ## GetRgba(int) {#getrgba}
 
 Λαμβάνει χρώμα RGBA με καθορισμένο αριθμό bit ανά δείγμα.
@@ -18,15 +19,15 @@ public static PixelDataFormat GetRgba(int bitsPerSample)
 | --- | --- | --- |
 | bitsPerSample | Int32 | Ο αριθμός των bit ανά δείγμα. |
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
 Το χρώμα RGBA.
 
 ### Δείτε επίσης
 
 * class [PixelDataFormat](../)
-* χώρος ονομάτων [Aspose.PSD](../../pixeldataformat/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
@@ -41,19 +42,19 @@ public static PixelDataFormat GetRgba(int bitsPerRedChannel, int bitsPerGreenCha
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| bitsPerRedChannel | Int32 | Ο αριθμός των bit ανά κανάλι Red. |
-| bitsPerGreenChannel | Int32 | Ο αριθμός των bit ανά Πράσινο κανάλι. |
-| bitsPerBlueChannel | Int32 | Ο αριθμός των bit ανά μπλε κανάλι. |
-| bitsPerAlphaChannel | Int32 | Ο αριθμός των bit ανά κανάλι Alpha. |
+| bitsPerRedChannel | Int32 | Ο αριθμός των bits ανά κανάλι Κόκκινο. |
+| bitsPerGreenChannel | Int32 | Ο αριθμός των bits ανά κανάλι Πράσινο. |
+| bitsPerBlueChannel | Int32 | Ο αριθμός των bits ανά μπλε κανάλι. |
+| bitsPerAlphaChannel | Int32 | Ο αριθμός των bits ανά κανάλι Άλφα. |
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
 Το χρώμα RGBA.
 
 ### Δείτε επίσης
 
 * class [PixelDataFormat](../)
-* χώρος ονομάτων [Aspose.PSD](../../pixeldataformat/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: Class RenderResult
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Aspose.PSD.ImageOptions.RenderResult τάξη. Αντιπροσωπεύει πληροφορίες με αποτελέσματα απόδοσης
+title: "Κλάση RenderResult"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Aspose.PSD.ImageOptions.RenderResult κλάση. Αντιπροσωπεύει πληροφορίες με τα αποτελέσματα της απόδοσης"
 type: docs
-weight: 4930
+weight: 5420
 url: /el/net/aspose.psd.imageoptions/renderresult/
 ---
+{{< psd/tize >}}
 ## RenderResult class
 
-Αντιπροσωπεύει πληροφορίες με αποτελέσματα απόδοσης
+Αντιπροσωπεύει πληροφορίες με τα αποτελέσματα της απόδοσης
 
 ```csharp
 public class RenderResult
@@ -16,20 +17,20 @@ public class RenderResult
 
 ## Κατασκευαστές
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
 | [RenderResult](renderresult/)() | Ο προεπιλεγμένος κατασκευαστής. |
 
 ## Ιδιότητες
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
-| [Message](../../aspose.psd.imageoptions/renderresult/message/) { get; set; } | Λαμβάνει ή ορίζει συμβολοσειρά message |
-| [RenderCode](../../aspose.psd.imageoptions/renderresult/rendercode/) { get; set; } | Λαμβάνει ή ορίζει τον κωδικό σφάλματος |
+| [Message](../../aspose.psd.imageoptions/renderresult/message/) { get; set; } | Λαμβάνει ή ορίζει το μήνυμα string |
+| [RenderCode](../../aspose.psd.imageoptions/renderresult/rendercode/) { get; set; } | Λαμβάνει ή ορίζει τον κωδικό του σφάλματος |
 
 ### Δείτε επίσης
 
-* χώρος ονομάτων [Aspose.PSD.ImageOptions](../../aspose.psd.imageoptions/)
-* συνέλευση [Aspose.PSD](../../)
+* namespace [Aspose.PSD.ImageOptions](../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../)
 
 

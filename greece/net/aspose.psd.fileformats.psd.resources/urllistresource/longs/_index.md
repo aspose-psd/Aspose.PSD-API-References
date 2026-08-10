@@ -1,27 +1,28 @@
 ---
-title: UrlListResource.Longs
-second_title: Aspose.PSD για Αναφορά API .NET
-description: UrlListResource ιδιοκτησία. Παίρνει ή ρυθμίζει τα long.
+title: "UrlListResource.Longs"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "UrlListResource ιδιότητα. Λαμβάνει ή ορίζει τα longs"
 type: docs
 weight: 50
 url: /el/net/aspose.psd.fileformats.psd.resources/urllistresource/longs/
 ---
+{{< psd/tize >}}
 ## UrlListResource.Longs property
 
-Παίρνει ή ρυθμίζει τα long.
+Λαμβάνει ή ορίζει τα longs.
 
 ```csharp
 public int[] Longs { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Οι μακριές.
+Τα longs.
 
 ### Δείτε επίσης
 
 * class [UrlListResource](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Resources](../../urllistresource/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

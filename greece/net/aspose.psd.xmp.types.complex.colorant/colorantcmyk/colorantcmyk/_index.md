@@ -1,14 +1,15 @@
 ---
-title: ColorantCmyk.ColorantCmyk
-second_title: Aspose.PSD για Αναφορά API .NET
-description: ColorantCmyk κατασκευαστής. Αρχικοποιεί μια νέα παρουσία τουColorantCmyk τάξη.
+title: "ColorantCmyk.ColorantCmyk"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Κατασκευαστής ColorantCmyk. Αρχικοποιεί ένα νέο αντικείμενο της κλάσης ColorantCmyk"
 type: docs
 weight: 10
 url: /el/net/aspose.psd.xmp.types.complex.colorant/colorantcmyk/colorantcmyk/
 ---
+{{< psd/tize >}}
 ## ColorantCmyk() {#constructor}
 
-Αρχικοποιεί μια νέα παρουσία του[`ColorantCmyk`](../) τάξη.
+Αρχικοποιεί ένα νέο αντικείμενο της κλάσης [`ColorantCmyk`](../).
 
 ```csharp
 public ColorantCmyk()
@@ -17,14 +18,14 @@ public ColorantCmyk()
 ### Δείτε επίσης
 
 * class [ColorantCmyk](../)
-* χώρος ονομάτων [Aspose.PSD.Xmp.Types.Complex.Colorant](../../colorantcmyk/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.Colorant](../../../aspose.psd.xmp.types.complex.colorant/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## ColorantCmyk(float, float, float, float) {#constructor_1}
 
-Αρχικοποιεί μια νέα παρουσία του[`ColorantCmyk`](../) τάξη.
+Αρχικοποιεί ένα νέο αντικείμενο της κλάσης [`ColorantCmyk`](../).
 
 ```csharp
 public ColorantCmyk(float black, float cyan, float magenta, float yellow)
@@ -32,15 +33,15 @@ public ColorantCmyk(float black, float cyan, float magenta, float yellow)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| black | Single | Η τιμή του μαύρου συστατικού. |
-| cyan | Single | Η τιμή συστατικού κυανού χρώματος. |
-| magenta | Single | Η τιμή συστατικού ματζέντα. |
-| yellow | Single | Η τιμή του κίτρινου στοιχείου. |
+| μαύρο | Single | Η τιμή του μαύρου συστατικού. |
+| κυανό | Single | Η τιμή του συστατικού κυανόχρωμου. |
+| ματζέντα | Single | Η τιμή του συστατικού ματζέντα. |
+| κίτρινο | Single | Η τιμή του κίτρινου συστατικού. |
 
 ### Δείτε επίσης
 
 * class [ColorantCmyk](../)
-* χώρος ονομάτων [Aspose.PSD.Xmp.Types.Complex.Colorant](../../colorantcmyk/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.Colorant](../../../aspose.psd.xmp.types.complex.colorant/)
+* assembly [Aspose.PSD](../../../)
 
 

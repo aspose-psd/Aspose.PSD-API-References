@@ -1,14 +1,15 @@
 ---
-title: ColorPaletteHelper.GetCloseImagePalette
-second_title: Aspose.PSD για Αναφορά API .NET
-description: ColorPaletteHelper μέθοδος. Λαμβάνει χρωματική παλέτα από εικόνα ράστερ παλετοποιεί την εικόνα σε περίπτωση που η εικόνα δεν έχει. Σε περίπτωση που υπάρχει παλέτα θα χρησιμοποιηθεί αντί για την εκτέλεση υπολογισμών.
+title: "ColorPaletteHelper.GetCloseImagePalette"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Μέθοδος ColorPaletteHelper. Λαμβάνει την παλέτα χρωμάτων από την raster εικόνα που παλετοποιεί την εικόνα σε περίπτωση που η εικόνα δεν έχει μία. Σε περίπτωση που η παλέτα υπάρχει, θα χρησιμοποιηθεί αντί να εκτελείται υπολογισμός."
 type: docs
 weight: 60
 url: /el/net/aspose.psd/colorpalettehelper/getcloseimagepalette/
 ---
+{{< psd/tize >}}
 ## GetCloseImagePalette(RasterImage, int) {#getcloseimagepalette_2}
 
-Λαμβάνει χρωματική παλέτα από εικόνα ράστερ (παλετοποιεί την εικόνα) σε περίπτωση που η εικόνα δεν έχει. Σε περίπτωση που υπάρχει παλέτα, θα χρησιμοποιηθεί αντί για την εκτέλεση υπολογισμών.
+Αποκτά την παλέτα χρωμάτων από raster εικόνα (δημιουργεί παλέτα εικόνας) σε περίπτωση που η εικόνα δεν διαθέτει παλέτα. Εάν η παλέτα υπάρχει, θα χρησιμοποιηθεί αντί για την εκτέλεση υπολογισμών.
 
 ```csharp
 public static IColorPalette GetCloseImagePalette(RasterImage image, int entriesCount)
@@ -16,26 +17,26 @@ public static IColorPalette GetCloseImagePalette(RasterImage image, int entriesC
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| image | RasterImage | Η εικόνα ράστερ. |
-| entriesCount | Int32 | Οι επιθυμητές καταχωρήσεις μετράνε. |
+| εικόνα | RasterImage | Η raster εικόνα. |
+| entriesCount | Int32 | Ο επιθυμητός αριθμός καταχωρίσεων. |
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-Η χρωματική παλέτα που ξεκινά με τα πιο συχνά χρώματα από το*image* και περιέχει*entriesCount* καταχωρήσεις.
+Η παλέτα χρωμάτων που ξεκινά με τα πιο συχνά χρώματα από την *image* και περιέχει *entriesCount* καταχωρίσεις.
 
 ### Δείτε επίσης
 
 * interface [IColorPalette](../../icolorpalette/)
 * class [RasterImage](../../rasterimage/)
 * class [ColorPaletteHelper](../)
-* χώρος ονομάτων [Aspose.PSD](../../colorpalettehelper/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## GetCloseImagePalette(RasterImage, Rectangle, int) {#getcloseimagepalette}
 
-Λαμβάνει χρωματική παλέτα από εικόνα ράστερ (παλετοποιεί την εικόνα) σε περίπτωση που η εικόνα δεν έχει. Σε περίπτωση που υπάρχει παλέτα, θα χρησιμοποιηθεί αντί για την εκτέλεση υπολογισμών.
+Αποκτά την παλέτα χρωμάτων από raster εικόνα (δημιουργεί παλέτα εικόνας) σε περίπτωση που η εικόνα δεν διαθέτει παλέτα. Εάν η παλέτα υπάρχει, θα χρησιμοποιηθεί αντί για την εκτέλεση υπολογισμών.
 
 ```csharp
 public static IColorPalette GetCloseImagePalette(RasterImage image, Rectangle destBounds, 
@@ -44,13 +45,13 @@ public static IColorPalette GetCloseImagePalette(RasterImage image, Rectangle de
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| image | RasterImage | Η εικόνα ράστερ. |
+| εικόνα | RasterImage | Η raster εικόνα. |
 | destBounds | Rectangle | Τα όρια της εικόνας προορισμού. |
-| entriesCount | Int32 | Οι επιθυμητές καταχωρήσεις μετράνε. |
+| entriesCount | Int32 | Ο επιθυμητός αριθμός καταχωρίσεων. |
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-Η χρωματική παλέτα που ξεκινά με τα πιο συχνά χρώματα από το*image* και περιέχει*entriesCount* καταχωρήσεις.
+Η παλέτα χρωμάτων που ξεκινά με τα πιο συχνά χρώματα από την *image* και περιέχει *entriesCount* καταχωρίσεις.
 
 ### Δείτε επίσης
 
@@ -58,14 +59,14 @@ public static IColorPalette GetCloseImagePalette(RasterImage image, Rectangle de
 * class [RasterImage](../../rasterimage/)
 * struct [Rectangle](../../rectangle/)
 * class [ColorPaletteHelper](../)
-* χώρος ονομάτων [Aspose.PSD](../../colorpalettehelper/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## GetCloseImagePalette(RasterImage, Rectangle, int, bool) {#getcloseimagepalette_1}
 
-Λαμβάνει χρωματική παλέτα από εικόνα ράστερ (παλετοποιεί την εικόνα) σε περίπτωση που η εικόνα δεν έχει. Σε περίπτωση που υπάρχει παλέτα, θα χρησιμοποιηθεί αντί για την εκτέλεση υπολογισμών.
+Αποκτά την παλέτα χρωμάτων από raster εικόνα (δημιουργεί παλέτα εικόνας) σε περίπτωση που η εικόνα δεν διαθέτει παλέτα. Εάν η παλέτα υπάρχει, θα χρησιμοποιηθεί αντί για την εκτέλεση υπολογισμών.
 
 ```csharp
 public static IColorPalette GetCloseImagePalette(RasterImage image, Rectangle destBounds, 
@@ -74,14 +75,14 @@ public static IColorPalette GetCloseImagePalette(RasterImage image, Rectangle de
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| image | RasterImage | Η εικόνα ράστερ. |
+| εικόνα | RasterImage | Η raster εικόνα. |
 | destBounds | Rectangle | Τα όρια της εικόνας προορισμού. |
-| entriesCount | Int32 | Οι επιθυμητές καταχωρήσεις μετράνε. |
-| useImagePalette | Boolean | Εάν οριστεί, θα χρησιμοποιήσει τη δική του παλέτα εικόνων εάν είναι διαθέσιμη |
+| entriesCount | Int32 | Ο επιθυμητός αριθμός καταχωρίσεων. |
+| useImagePalette | Boolean | Εάν οριστεί, θα χρησιμοποιήσει τη δική του παλέτα εικόνας εάν είναι διαθέσιμη. |
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-Η χρωματική παλέτα που ξεκινά με τα πιο συχνά χρώματα από το*image* και περιέχει*entriesCount* καταχωρήσεις.
+Η παλέτα χρωμάτων που ξεκινά με τα πιο συχνά χρώματα από την *image* και περιέχει *entriesCount* καταχωρίσεις.
 
 ### Δείτε επίσης
 
@@ -89,7 +90,7 @@ public static IColorPalette GetCloseImagePalette(RasterImage image, Rectangle de
 * class [RasterImage](../../rasterimage/)
 * struct [Rectangle](../../rectangle/)
 * class [ColorPaletteHelper](../)
-* χώρος ονομάτων [Aspose.PSD](../../colorpalettehelper/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

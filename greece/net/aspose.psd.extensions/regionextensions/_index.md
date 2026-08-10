@@ -1,14 +1,15 @@
 ---
-title: Class RegionExtensions
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Aspose.PSD.Extensions.RegionExtensions τάξη. Περιέχει μεθόδους επέκτασης για τοRegion τάξη.
+title: "Κλάση RegionExtensions"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Aspose.PSD.Extensions.RegionExtensions κλάση. Περιέχει μεθόδους επέκτασης για την κλάση Region"
 type: docs
-weight: 1170
+weight: 1180
 url: /el/net/aspose.psd.extensions/regionextensions/
 ---
+{{< psd/tize >}}
 ## RegionExtensions class
 
-Περιέχει μεθόδους επέκτασης για το[`Region`](../../aspose.psd/region/) τάξη.
+Περιέχει μεθόδους επέκτασης για την κλάση [`Region`](../../aspose.psd/region/).
 
 ```csharp
 public static class RegionExtensions
@@ -16,13 +17,13 @@ public static class RegionExtensions
 
 ## Μέθοδοι
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
-| static [ToGdiRegion](../../aspose.psd.extensions/regionextensions/togdiregion/)(Region) | Μετατρέπει το[`Region`](../../aspose.psd/region/) στοRegion . |
+| static [ToGdiRegion](../../aspose.psd.extensions/regionextensions/togdiregion/)(Region) | Μετατρέπει το [`Region`](../../aspose.psd/region/) σε Region. |
 
 ### Δείτε επίσης
 
-* χώρος ονομάτων [Aspose.PSD.Extensions](../../aspose.psd.extensions/)
-* συνέλευση [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Extensions](../../aspose.psd.extensions/)
+* assembly [Aspose.PSD](../../)
 
 

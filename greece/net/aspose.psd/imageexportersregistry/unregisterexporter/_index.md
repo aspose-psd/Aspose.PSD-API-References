@@ -1,14 +1,15 @@
 ---
-title: ImageExportersRegistry.UnregisterExporter
-second_title: Aspose.PSD για Αναφορά API .NET
-description: ImageExportersRegistry μέθοδος. Καταργεί την εγγραφή του εξαγωγέα.
+title: "ImageExportersRegistry.UnregisterExporter"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "ImageExportersRegistry μέθοδος. Απομακρύνει την καταχώρηση του εξαγωγέα"
 type: docs
 weight: 70
 url: /el/net/aspose.psd/imageexportersregistry/unregisterexporter/
 ---
+{{< psd/tize >}}
 ## ImageExportersRegistry.UnregisterExporter method
 
-Καταργεί την εγγραφή του εξαγωγέα.
+Καταργεί την καταχώρηση του εξαγωγέα.
 
 ```csharp
 public static void UnregisterExporter(IImageExporterDescriptor exporterDescriptor)
@@ -16,13 +17,13 @@ public static void UnregisterExporter(IImageExporterDescriptor exporterDescripto
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| exporterDescriptor | IImageExporterDescriptor | Ο περιγραφέας εξαγωγέα προς κατάργηση καταχώρισης. |
+| exporterDescriptor | IImageExporterDescriptor | Ο περιγραφέας εξαγωγέα για αποεγγραφή. |
 
 ### Δείτε επίσης
 
 * interface [IImageExporterDescriptor](../../iimageexporterdescriptor/)
 * class [ImageExportersRegistry](../)
-* χώρος ονομάτων [Aspose.PSD](../../imageexportersregistry/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

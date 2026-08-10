@@ -1,14 +1,15 @@
 ---
-title: TiffStreamReader.ReadSRationalArray
-second_title: Aspose.PSD για Αναφορά API .NET
-description: TiffStreamReader μέθοδος. Διαβάζει έναν πίνακα υπογεγραμμένων ορθολογικών τιμών από τη ροή.
+title: "TiffStreamReader.ReadSRationalArray"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "TiffStreamReader μέθοδος. Διαβάζει έναν πίνακα υπογεγραμμένων τιμών rational από τη ροή."
 type: docs
 weight: 160
 url: /el/net/aspose.psd.fileformats.tiff.filemanagement/tiffstreamreader/readsrationalarray/
 ---
+{{< psd/tize >}}
 ## TiffStreamReader.ReadSRationalArray method
 
-Διαβάζει έναν πίνακα υπογεγραμμένων ορθολογικών τιμών από τη ροή.
+Διαβάζει έναν πίνακα υπογεγραμμένων ρητών τιμών από τη ροή.
 
 ```csharp
 public TiffSRational[] ReadSRationalArray(long position, long count)
@@ -16,24 +17,24 @@ public TiffSRational[] ReadSRationalArray(long position, long count)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| position | Int64 | Η θέση για να διαβάσετε από. |
-| count | Int64 | Τα στοιχεία μετράνε. |
+| θέση | Int64 | Η θέση από την οποία θα διαβαστεί. |
+| πλήθος | Int64 | Ο αριθμός των στοιχείων. |
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-Ο πίνακας των υπογεγραμμένων ορθολογικών τιμών.
+Ο πίνακας των υπογεγραμμένων τιμών rational.
 
 ### Εξαιρέσεις
 
-| εξαίρεση | κατάσταση |
+| εξαίρεση | συνθήκη |
 | --- | --- |
-| ArgumentOutOfRangeException | count; Αναμενόταν θετικός αριθμός. |
+| ArgumentOutOfRangeException | count;Αναμενόταν θετικός αριθμός. |
 
 ### Δείτε επίσης
 
 * class [TiffSRational](../../../aspose.psd.fileformats.tiff/tiffsrational/)
 * class [TiffStreamReader](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Tiff.FileManagement](../../tiffstreamreader/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff.FileManagement](../../../aspose.psd.fileformats.tiff.filemanagement/)
+* assembly [Aspose.PSD](../../../)
 
 

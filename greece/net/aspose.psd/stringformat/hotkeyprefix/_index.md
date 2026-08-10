@@ -1,28 +1,29 @@
 ---
-title: StringFormat.HotkeyPrefix
-second_title: Aspose.PSD για Αναφορά API .NET
-description: StringFormat ιδιοκτησία. Λαμβάνει ή ορίζει τοHotkeyPrefix αντικείμενο για αυτόStringFormat αντικείμενο.
+title: "StringFormat.HotkeyPrefix"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα StringFormat. Λαμβάνει ή ορίζει το αντικείμενο HotkeyPrefix για αυτό το αντικείμενο StringFormat"
 type: docs
-weight: 90
+weight: 100
 url: /el/net/aspose.psd/stringformat/hotkeyprefix/
 ---
+{{< psd/tize >}}
 ## StringFormat.HotkeyPrefix property
 
-Λαμβάνει ή ορίζει το[`HotkeyPrefix`](../../hotkeyprefix/) αντικείμενο για αυτό[`StringFormat`](../) αντικείμενο.
+Λαμβάνει ή ορίζει το αντικείμενο [`HotkeyPrefix`](../../hotkeyprefix/) για αυτό το αντικείμενο [`StringFormat`](../).
 
 ```csharp
 public HotkeyPrefix HotkeyPrefix { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-ο[`HotkeyPrefix`](../../hotkeyprefix/) αντικείμενο για αυτό[`StringFormat`](../) αντικείμενο, η προεπιλογή είναιNone.
+Το αντικείμενο [`HotkeyPrefix`](../../hotkeyprefix/) για αυτό το αντικείμενο [`StringFormat`](../), η προεπιλογή είναι None.
 
 ### Δείτε επίσης
 
 * enum [HotkeyPrefix](../../hotkeyprefix/)
 * class [StringFormat](../)
-* χώρος ονομάτων [Aspose.PSD](../../stringformat/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

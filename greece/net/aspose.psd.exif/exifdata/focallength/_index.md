@@ -1,20 +1,21 @@
 ---
-title: ExifData.FocalLength
-second_title: Aspose.PSD για Αναφορά API .NET
-description: ExifData ιδιοκτησία. Λαμβάνει ή ορίζει την εστιακή απόσταση.
+title: "ExifData.FocalLength"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "ExifData ιδιότητα. Λαμβάνει ή ορίζει το εστιακό μήκος"
 type: docs
 weight: 290
 url: /el/net/aspose.psd.exif/exifdata/focallength/
 ---
+{{< psd/tize >}}
 ## ExifData.FocalLength property
 
-Λαμβάνει ή ορίζει την εστιακή απόσταση.
+Λαμβάνει ή ορίζει το εστιακό μήκος.
 
 ```csharp
 public TiffRational FocalLength { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
 Το μήκος του εστιακού.
 
@@ -22,7 +23,7 @@ public TiffRational FocalLength { get; set; }
 
 * class [TiffRational](../../../aspose.psd.fileformats.tiff/tiffrational/)
 * class [ExifData](../)
-* χώρος ονομάτων [Aspose.PSD.Exif](../../exifdata/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

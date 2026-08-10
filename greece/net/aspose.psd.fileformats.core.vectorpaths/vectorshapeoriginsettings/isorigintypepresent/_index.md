@@ -1,27 +1,28 @@
 ---
-title: VectorShapeOriginSettings.IsOriginTypePresent
-second_title: Aspose.PSD για Αναφορά API .NET
-description: VectorShapeOriginSettings ιδιοκτησία. Λαμβάνει μια τιμή που υποδεικνύει εάν αυτή η παρουσία έχει ιδιότητα τύπου προέλευσης.
+title: "VectorShapeOriginSettings.IsOriginTypePresent"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα VectorShapeOriginSettings. Λαμβάνει μια τιμή που υποδεικνύει εάν αυτή η παρουσία έχει την ιδιότητα τύπου προέλευσης"
 type: docs
 weight: 70
 url: /el/net/aspose.psd.fileformats.core.vectorpaths/vectorshapeoriginsettings/isorigintypepresent/
 ---
+{{< psd/tize >}}
 ## VectorShapeOriginSettings.IsOriginTypePresent property
 
-Λαμβάνει μια τιμή που υποδεικνύει εάν αυτή η παρουσία έχει ιδιότητα τύπου προέλευσης.
+Λαμβάνει μια τιμή που υποδεικνύει εάν αυτή η παρουσία έχει την ιδιότητα τύπου προέλευσης.
 
 ```csharp
 public bool IsOriginTypePresent { get; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-`αληθής` εάν αυτό το στιγμιότυπο έχει ιδιότητα τύπου προέλευσης. σε διαφορετική περίπτωση,`ψευδής` .
+`true` εάν αυτή η παρουσία έχει την ιδιότητα τύπου προέλευσης· διαφορετικά, `false`.
 
 ### Δείτε επίσης
 
 * class [VectorShapeOriginSettings](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Core.VectorPaths](../../vectorshapeoriginsettings/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../../)
 
 

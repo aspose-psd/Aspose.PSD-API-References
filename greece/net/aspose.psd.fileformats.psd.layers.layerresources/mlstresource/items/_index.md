@@ -1,11 +1,12 @@
 ---
-title: MlstResource.Items
-second_title: Aspose.PSD για Αναφορά API .NET
-description: MlstResource ιδιοκτησία. Λαμβάνει ή ορίζει τις δομές.
+title: "MlstResource.Items"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "MlstResource ιδιότητα. Λαμβάνει ή ορίζει τις δομές"
 type: docs
 weight: 30
 url: /el/net/aspose.psd.fileformats.psd.layers.layerresources/mlstresource/items/
 ---
+{{< psd/tize >}}
 ## MlstResource.Items property
 
 Λαμβάνει ή ορίζει τις δομές.
@@ -14,9 +15,9 @@ url: /el/net/aspose.psd.fileformats.psd.layers.layerresources/mlstresource/items
 public OSTypeStructure[] Items { get; }
 ```
 
-### Παραδείγματα
+## Παραδείγματα
 
-Ο παρακάτω κώδικας δείχνει την υποστήριξη του πόρου MlstResource που παρέχει έναν μηχανισμό χαμηλού επιπέδου για τον χειρισμό των καταστάσεων του επιπέδου.
+Ο παρακάτω κώδικας δείχνει την υποστήριξη του πόρου MlstResource που παρέχει έναν χαμηλού επιπέδου μηχανισμό για τη διαχείριση των καταστάσεων του στρώματος.
 
 ```csharp
 [C#]
@@ -34,7 +35,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFile))
     DescriptorStructure layersStateOnFrame1 = (DescriptorStructure)layerStatesList.Types[1];
     BooleanStructure layerEnabled = (BooleanStructure)layersStateOnFrame1.Structures[0];
 
-    // Απενεργοποιήστε το επίπεδο 1 στο πλαίσιο 1
+    // Απενεργοποίηση του στρώματος 1 στο πλαίσιο 1
     layerEnabled.Value = false;
 
     image.Save(outputPsd);
@@ -45,7 +46,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFile))
 
 * class [OSTypeStructure](../../ostypestructure/)
 * class [MlstResource](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../mlstresource/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

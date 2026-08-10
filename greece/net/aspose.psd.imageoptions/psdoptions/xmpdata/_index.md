@@ -1,14 +1,15 @@
 ---
-title: PsdOptions.XmpData
-second_title: Aspose.PSD για Αναφορά API .NET
-description: PsdOptions ιδιοκτησία. Λήψη ή ρύθμιση XMP data container
+title: "PsdOptions.XmpData"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα PsdOptions. Λαμβάνει ή ορίζει το δοχείο δεδομένων XMP."
 type: docs
-weight: 110
+weight: 130
 url: /el/net/aspose.psd.imageoptions/psdoptions/xmpdata/
 ---
+{{< psd/tize >}}
 ## PsdOptions.XmpData property
 
-Λήψη ή ρύθμιση XMP data container
+Λάβετε ή ορίστε το δοχείο δεδομένων XMP.
 
 ```csharp
 public override XmpPacketWrapper XmpData { get; set; }
@@ -18,7 +19,7 @@ public override XmpPacketWrapper XmpData { get; set; }
 
 * class [XmpPacketWrapper](../../../aspose.psd.xmp/xmppacketwrapper/)
 * class [PsdOptions](../)
-* χώρος ονομάτων [Aspose.PSD.ImageOptions](../../psdoptions/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

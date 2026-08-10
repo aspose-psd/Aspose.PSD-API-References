@@ -1,20 +1,21 @@
 ---
-title: RgbChannelMixerLayer.BlueChannel
-second_title: Aspose.PSD για Αναφορά API .NET
-description: RgbChannelMixerLayer ιδιοκτησία. Παίρνει το μπλε κανάλι.
+title: "RgbChannelMixerLayer.BlueChannel"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα RgbChannelMixerLayer. Λαμβάνει το μπλε κανάλι"
 type: docs
 weight: 10
 url: /el/net/aspose.psd.fileformats.psd.layers.adjustmentlayers/rgbchannelmixerlayer/bluechannel/
 ---
+{{< psd/tize >}}
 ## RgbChannelMixerLayer.BlueChannel property
 
-Παίρνει το μπλε κανάλι.
+Αποκτά το μπλε κανάλι.
 
 ```csharp
 public RgbMixerChannel BlueChannel { get; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
 Το μπλε κανάλι.
 
@@ -22,7 +23,7 @@ public RgbMixerChannel BlueChannel { get; }
 
 * class [RgbMixerChannel](../../rgbmixerchannel/)
 * class [RgbChannelMixerLayer](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../rgbchannelmixerlayer/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/)
+* assembly [Aspose.PSD](../../../)
 
 

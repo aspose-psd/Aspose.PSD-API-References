@@ -1,14 +1,15 @@
 ---
-title: LuniResource.Key
-second_title: Aspose.PSD για Αναφορά API .NET
-description: LuniResource ιδιοκτησία. Λαμβάνει το κλειδί πόρων επιπέδου.
+title: "LuniResource.Key"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα LuniResource. Λαμβάνει το κλειδί του πόρου στρώσης"
 type: docs
 weight: 20
 url: /el/net/aspose.psd.fileformats.psd.layers.layerresources/luniresource/key/
 ---
+{{< psd/tize >}}
 ## LuniResource.Key property
 
-Λαμβάνει το κλειδί πόρων επιπέδου.
+Λαμβάνει το κλειδί πόρου του επιπέδου.
 
 ```csharp
 public override int Key { get; }
@@ -17,7 +18,7 @@ public override int Key { get; }
 ### Δείτε επίσης
 
 * class [LuniResource](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../luniresource/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

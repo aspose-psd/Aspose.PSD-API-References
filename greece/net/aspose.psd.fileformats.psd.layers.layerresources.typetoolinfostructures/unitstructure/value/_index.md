@@ -1,11 +1,12 @@
 ---
-title: UnitStructure.Value
-second_title: Aspose.PSD για Αναφορά API .NET
-description: UnitStructure ιδιοκτησία. Λαμβάνει ή ορίζει την τιμή.
+title: "UnitStructure.Value"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα UnitStructure. Λαμβάνει ή ορίζει την τιμή"
 type: docs
 weight: 50
 url: /el/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/unitstructure/value/
 ---
+{{< psd/tize >}}
 ## UnitStructure.Value property
 
 Λαμβάνει ή ορίζει την τιμή.
@@ -14,14 +15,14 @@ url: /el/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostruct
 public double Value { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
 Η τιμή.
 
 ### Δείτε επίσης
 
 * class [UnitStructure](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../unitstructure/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 

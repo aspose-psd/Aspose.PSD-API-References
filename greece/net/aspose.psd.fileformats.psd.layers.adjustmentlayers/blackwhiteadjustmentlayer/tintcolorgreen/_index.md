@@ -1,26 +1,27 @@
 ---
-title: BlackWhiteAdjustmentLayer.TintColorGreen
-second_title: Aspose.PSD για Αναφορά API .NET
-description: BlackWhiteAdjustmentLayer ιδιοκτησία. Λαμβάνει ή ορίζει τη διπλή τιμή Green Tint Color.
+title: "BlackWhiteAdjustmentLayer.TintColorGreen"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα BlackWhiteAdjustmentLayer. Λαμβάνει ή ορίζει τη διπλή τιμή του πράσινου χρώματος απόχρωσης."
 type: docs
 weight: 100
 url: /el/net/aspose.psd.fileformats.psd.layers.adjustmentlayers/blackwhiteadjustmentlayer/tintcolorgreen/
 ---
+{{< psd/tize >}}
 ## BlackWhiteAdjustmentLayer.TintColorGreen property
 
-Λαμβάνει ή ορίζει τη διπλή τιμή Green Tint Color.
+Λαμβάνει ή ορίζει τη διπλή τιμή του Green Tint Color.
 
 ```csharp
 public double TintColorGreen { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Η διπλή τιμή του πράσινου χρώματος.
+Η διπλή τιμή του πράσινου χρώματος απόχρωσης.
 
-### Παραδείγματα
+## Παραδείγματα
 
-Το ακόλουθο παράδειγμα δείχνει πώς επεξεργάζεστε ένα BlwhResource.
+Το παρακάτω παράδειγμα δείχνει πώς επεξεργάζεστε ένα BlwhResource.
 
 ```csharp
 [C#]
@@ -126,7 +127,7 @@ AssertIsTrue(isRequiredResourceFound, "The specified BlwhResource not found");
 ### Δείτε επίσης
 
 * class [BlackWhiteAdjustmentLayer](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../blackwhiteadjustmentlayer/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/)
+* assembly [Aspose.PSD](../../../)
 
 

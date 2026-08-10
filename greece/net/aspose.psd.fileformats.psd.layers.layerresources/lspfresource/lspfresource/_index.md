@@ -1,14 +1,15 @@
 ---
-title: LspfResource.LspfResource
-second_title: Aspose.PSD για Αναφορά API .NET
-description: LspfResource κατασκευαστής. Αρχικοποιεί μια νέα παρουσία τουLspfResource class. Με προσαρμοσμένη ή άγνωστη τιμή
+title: "LspfResource.LspfResource"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Κατασκευαστής LspfResource. Αρχικοποιεί ένα νέο στιγμιότυπο της κλάσης LspfResource. Με προσαρμοσμένη ή άγνωστη τιμή"
 type: docs
 weight: 10
 url: /el/net/aspose.psd.fileformats.psd.layers.layerresources/lspfresource/lspfresource/
 ---
+{{< psd/tize >}}
 ## LspfResource(byte[]) {#constructor_2}
 
-Αρχικοποιεί μια νέα παρουσία του[`LspfResource`](../) class. Με προσαρμοσμένη ή άγνωστη τιμή
+Αρχικοποιεί ένα νέο στιγμιότυπο της κλάσης [`LspfResource`](../). Με προσαρμοσμένη ή άγνωστη τιμή
 
 ```csharp
 public LspfResource(byte[] data)
@@ -16,25 +17,25 @@ public LspfResource(byte[] data)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| data | Byte[] | Τα δεδομένα των πόρων. |
+| δεδομένα | Byte[] | Τα δεδομένα πόρου. |
 
 ### Εξαιρέσεις
 
-| εξαίρεση | κατάσταση |
+| εξαίρεση | συνθήκη |
 | --- | --- |
-| [PsdImageArgumentException](../../../aspose.psd.coreexceptions.imageformats/psdimageargumentexception/) | Μη έγκυρο μήκος δεδομένων πόρων Lspf |
+| [PsdImageArgumentException](../../../aspose.psd.coreexceptions.imageformats/psdimageargumentexception/) | Μη έγκυρο μήκος δεδομένων Lspf Resource |
 
 ### Δείτε επίσης
 
 * class [LspfResource](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../lspfresource/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## LspfResource(bool, bool, bool) {#constructor_1}
 
-Αρχικοποιεί μια νέα παρουσία του[`LspfResource`](../) τάξη.
+Αρχικοποιεί ένα νέο στιγμιότυπο της κλάσης [`LspfResource`](../).
 
 ```csharp
 public LspfResource(bool isTransparencyProtected, bool isCompositeProtected, 
@@ -43,21 +44,21 @@ public LspfResource(bool isTransparencyProtected, bool isCompositeProtected,
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| isTransparencyProtected | Boolean | εάν έχει οριστεί σε`αληθής` [προστατεύεται η διαφάνεια]. |
-| isCompositeProtected | Boolean | εάν έχει οριστεί σε`αληθής` [προστατεύεται από σύνθετο υλικό]. |
-| isPositionProtected | Boolean | εάν έχει οριστεί σε`αληθής` [προστατεύεται η θέση]. |
+| isTransparencyProtected | Boolean | αν οριστεί σε `true` [είναι προστατευμένο από διαφάνεια]. |
+| isCompositeProtected | Boolean | αν οριστεί σε `true` [είναι προστατευμένο σύνθετα]. |
+| isPositionProtected | Boolean | αν οριστεί σε `true` [είναι προστατευμένο θέσης]. |
 
 ### Δείτε επίσης
 
 * class [LspfResource](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../lspfresource/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## LspfResource() {#constructor}
 
-Αρχικοποιεί μια νέα παρουσία του[`LspfResource`](../) τάξη.
+Αρχικοποιεί ένα νέο στιγμιότυπο της κλάσης [`LspfResource`](../).
 
 ```csharp
 public LspfResource()
@@ -66,7 +67,7 @@ public LspfResource()
 ### Δείτε επίσης
 
 * class [LspfResource](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../lspfresource/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

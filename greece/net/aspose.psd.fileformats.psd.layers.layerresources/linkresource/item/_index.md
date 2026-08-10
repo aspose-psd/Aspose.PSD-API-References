@@ -1,14 +1,15 @@
 ---
-title: LinkResource.Item
-second_title: Aspose.PSD για Αναφορά API .NET
-description: LinkResource ιδιοκτησία. Λαμβάνει τοLinkDataSource στο καθορισμένο ευρετήριο που είναι το μοναδικό αναγνωριστικό πηγής δεδομένων συνδέσμου..
+title: "LinkResource.Item"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα LinkResource. Λαμβάνει το LinkDataSource στο καθορισμένο δείκτη, το οποίο είναι το μοναδικό αναγνωριστικό της πηγής δεδομένων συνδέσμου"
 type: docs
 weight: 30
 url: /el/net/aspose.psd.fileformats.psd.layers.layerresources/linkresource/item/
 ---
+{{< psd/tize >}}
 ## LinkResource indexer
 
-Λαμβάνει το[`LinkDataSource`](../../linkdatasource/) στο καθορισμένο ευρετήριο που είναι το μοναδικό αναγνωριστικό πηγής δεδομένων συνδέσμου..
+Λαμβάνει το [`LinkDataSource`](../../linkdatasource/) στο καθορισμένο δείκτη, το οποίο είναι το μοναδικό αναγνωριστικό της πηγής δεδομένων συνδέσμου..
 
 ```csharp
 public LinkDataSource this[Guid index] { get; }
@@ -16,19 +17,19 @@ public LinkDataSource this[Guid index] { get; }
 
 | Παράμετρος | Περιγραφή |
 | --- | --- |
-| index | Το ευρετήριο ως μοναδικό αναγνωριστικό πηγής δεδομένων συνδέσμου. |
+| δείκτης | Ο δείκτης ως μοναδικό αναγνωριστικό της πηγής δεδομένων συνδέσμου. |
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-Το[`LinkDataSource`](../../linkdatasource/) παράδειγμα.
+Το αντικείμενο [`LinkDataSource`](../../linkdatasource/).
 
-### Αξία περιουσίας
+### Property Value
 
-Το[`LinkDataSource`](../../linkdatasource/) .
+Το [`LinkDataSource`](../../linkdatasource/).
 
-### Παραδείγματα
+## Παραδείγματα
 
-Ο παρακάτω κώδικας δείχνει την υποστήριξη ενσωματωμένων έξυπνων αντικειμένων.
+Ο παρακάτω κώδικας δείχνει την υποστήριξη των ενσωματωμένων Smart objects.
 
 ```csharp
 [C#]
@@ -41,7 +42,7 @@ void AssertAreEqual(object actual, object expected)
     }
 }
 
-// Αυτό το παράδειγμα δείχνει τον τρόπο αλλαγής του επιπέδου έξυπνου αντικειμένου στο αρχείο PSD και εξαγωγής/ενημέρωσης του αρχικού ενσωματωμένου περιεχομένου του έξυπνου αντικειμένου.
+// Αυτό το παράδειγμα δείχνει πώς να αλλάξετε το επίπεδο smart object στο αρχείο PSD και να εξάγετε / ενημερώσετε τα αρχικά ενσωματωμένα περιεχόμενα του smart object.
 const int left = 0;
 const int top = 0;
 const int right = 0xb;
@@ -70,10 +71,10 @@ foreach (FileFormat format in formats)
         AssertAreEqual(right, smartObjectLayer.ContentsBounds.Right);
         AssertAreEqual(bottom, smartObjectLayer.ContentsBounds.Bottom);
 
-        // Ας εξάγουμε την εικόνα του ενσωματωμένου έξυπνου αντικειμένου από το επίπεδο έξυπνου αντικειμένου PSD
+        // Ας εξάγουμε την ενσωματωμένη εικόνα smart object από το επίπεδο smart object του PSD
         smartObjectLayer.ExportContents(exportPath);
 
-        // Ας ελέγξουμε αν η αρχική εικόνα έχει αποθηκευτεί σωστά
+        // Ας ελέγξουμε αν η αρχική εικόνα αποθηκεύτηκε σωστά
         image.Save(psdOutputPath, new PsdOptions(image));
         image.Save(pngOutputPath, new PngOptions() { ColorType = PngColorType.TruecolorWithAlpha });
 
@@ -81,7 +82,7 @@ foreach (FileFormat format in formats)
         {
             AssertAreEqual(format, innerImage.FileFormat);
 
-            // Ας αντιστρέψουμε την αρχική εικόνα έξυπνου αντικειμένου
+            // Ας αντιστρέψουμε την αρχική εικόνα smart object
             var pixels = innerImage.LoadArgb32Pixels(innerImage.Bounds);
             for (int i = 0; i < pixels.Length; i++)
             {
@@ -92,11 +93,11 @@ foreach (FileFormat format in formats)
 
             innerImage.SaveArgb32Pixels(innerImage.Bounds, pixels);
 
-            // Ας αντικαταστήσουμε την εικόνα του ενσωματωμένου έξυπνου αντικειμένου στο επίπεδο PSD
+            // Ας αντικαταστήσουμε την ενσωματωμένη εικόνα smart object στο επίπεδο PSD
             smartObjectLayer.ReplaceContents(innerImage);
         }
 
-        // Ας ελέγξουμε αν η ενημερωμένη εικόνα έχει αποθηκευτεί σωστά
+        // Ας ελέγξουμε αν η ενημερωμένη εικόνα αποθηκεύτηκε σωστά
         image.Save(psd2OutputPath, new PsdOptions(image));
         image.Save(png2OutputPath, new PngOptions() { ColorType = PngColorType.TruecolorWithAlpha });
     }
@@ -107,7 +108,7 @@ foreach (FileFormat format in formats)
 
 * class [LinkDataSource](../../linkdatasource/)
 * class [LinkResource](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../linkresource/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

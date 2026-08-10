@@ -1,11 +1,12 @@
 ---
-title: Class ResourceEvent
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Aspose.PSD.Xmp.Types.Complex.ResourceEvent.ResourceEvent τάξη. Περιέχει διαστάσεις για ένα σχεδιασμένο αντικείμενο.
+title: "Κλάση ResourceEvent"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Aspose.PSD.Xmp.Types.Complex.ResourceEvent.ResourceEvent κλάση. Περιέχει διαστάσεις για ένα σχεδιασμένο αντικείμενο"
 type: docs
-weight: 6080
+weight: 6580
 url: /el/net/aspose.psd.xmp.types.complex.resourceevent/resourceevent/
 ---
+{{< psd/tize >}}
 ## ResourceEvent class
 
 Περιέχει διαστάσεις για ένα σχεδιασμένο αντικείμενο.
@@ -16,33 +17,33 @@ public sealed class ResourceEvent : ComplexTypeBase
 
 ## Κατασκευαστές
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
 | [ResourceEvent](resourceevent/)() | Ο προεπιλεγμένος κατασκευαστής. |
 
 ## Ιδιότητες
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
-| [Action](../../aspose.psd.xmp.types.complex.resourceevent/resourceevent/action/) { get; set; } | Λαμβάνει ή ορίζει ενέργεια. |
-| [ActionDate](../../aspose.psd.xmp.types.complex.resourceevent/resourceevent/actiondate/) { get; set; } | Λαμβάνει ή ορίζει την ημερομηνία ενέργειας. |
-| [Changed](../../aspose.psd.xmp.types.complex.resourceevent/resourceevent/changed/) { get; set; } | Λαμβάνει ή ορίζει τη λίστα οριοθετημένη με ερωτηματικό των τμημάτων του πόρου που άλλαξαν από το προηγούμενο ιστορικό συμβάντων. |
+| [Action](../../aspose.psd.xmp.types.complex.resourceevent/resourceevent/action/) { get; set; } | Λαμβάνει ή ορίζει τη δράση. |
+| [ActionDate](../../aspose.psd.xmp.types.complex.resourceevent/resourceevent/actiondate/) { get; set; } | Λαμβάνει ή ορίζει την ημερομηνία δράσης. |
+| [Changed](../../aspose.psd.xmp.types.complex.resourceevent/resourceevent/changed/) { get; set; } | Λαμβάνει ή ορίζει τη λίστα χωρισμένη με ερωτηματικό των τμημάτων του πόρου που άλλαξαν από το προηγούμενο ιστορικό συμβάντων. |
 | [InstanceId](../../aspose.psd.xmp.types.complex.resourceevent/resourceevent/instanceid/) { get; set; } | Λαμβάνει ή ορίζει την τιμή του xmpMM:InstanceId. |
-| [NamespaceUri](../../aspose.psd.xmp.types.complex/complextypebase/namespaceuri/) { get; } | Λαμβάνει το προεπιλεγμένο URI χώρου ονομάτων. |
-| [Parameters](../../aspose.psd.xmp.types.complex.resourceevent/resourceevent/parameters/) { get; set; } | Λαμβάνει ή ορίζει την πρόσθετη περιγραφή της ενέργειας. |
-| [Prefix](../../aspose.psd.xmp.types.complex/complextypebase/prefix/) { get; } | Παίρνει το πρόθεμα. |
-| [SofwareAgentName](../../aspose.psd.xmp.types.complex.resourceevent/resourceevent/sofwareagentname/) { get; set; } | Λαμβάνει ή ορίζει το όνομα παράγοντα λογισμικού. |
+| [NamespaceUri](../../aspose.psd.xmp.types.complex/complextypebase/namespaceuri/) { get; } | Λαμβάνει το προεπιλεγμένο URI του χώρου ονομάτων. |
+| [Parameters](../../aspose.psd.xmp.types.complex.resourceevent/resourceevent/parameters/) { get; set; } | Λαμβάνει ή ορίζει την πρόσθετη περιγραφή της δράσης. |
+| [Prefix](../../aspose.psd.xmp.types.complex/complextypebase/prefix/) { get; } | Λαμβάνει το πρόθεμα. |
+| [SofwareAgentName](../../aspose.psd.xmp.types.complex.resourceevent/resourceevent/sofwareagentname/) { get; set; } | Λαμβάνει ή ορίζει το όνομα του πράκτορα λογισμικού. |
 
 ## Μέθοδοι
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
-| override [GetXmpRepresentation](../../aspose.psd.xmp.types.complex.resourceevent/resourceevent/getxmprepresentation/)() | Λαμβάνει την τιμή που περιέχεται στη συμβολοσειρά σε μορφή XMP. |
+| override [GetXmpRepresentation](../../aspose.psd.xmp.types.complex.resourceevent/resourceevent/getxmprepresentation/)() | Λαμβάνει τη συμβολοσειρά που περιέχει την τιμή σε μορφή XMP. |
 
 ### Δείτε επίσης
 
 * class [ComplexTypeBase](../../aspose.psd.xmp.types.complex/complextypebase/)
-* χώρος ονομάτων [Aspose.PSD.Xmp.Types.Complex.ResourceEvent](../../aspose.psd.xmp.types.complex.resourceevent/)
-* συνέλευση [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.ResourceEvent](../../aspose.psd.xmp.types.complex.resourceevent/)
+* assembly [Aspose.PSD](../../)
 
 

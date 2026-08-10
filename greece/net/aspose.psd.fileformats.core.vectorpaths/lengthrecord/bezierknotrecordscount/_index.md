@@ -1,22 +1,23 @@
 ---
-title: LengthRecord.BezierKnotRecordsCount
-second_title: Aspose.PSD για Αναφορά API .NET
-description: LengthRecord ιδιοκτησία. Λαμβάνει ή ορίζει τον αριθμό των εγγραφών των κόμβων bezier.
+title: "LengthRecord.BezierKnotRecordsCount"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα LengthRecord. Λαμβάνει ή ορίζει τον αριθμό των εγγραφών κόμβων Bezier"
 type: docs
 weight: 20
 url: /el/net/aspose.psd.fileformats.core.vectorpaths/lengthrecord/bezierknotrecordscount/
 ---
+{{< psd/tize >}}
 ## LengthRecord.BezierKnotRecordsCount property
 
-Λαμβάνει ή ορίζει τον αριθμό των εγγραφών των κόμβων bezier.
+Λαμβάνει ή ορίζει τον αριθμό των εγγραφών κόμβων Bezier.
 
 ```csharp
 public int BezierKnotRecordsCount { get; set; }
 ```
 
-### Παραδείγματα
+## Παραδείγματα
 
-Το ακόλουθο παράδειγμα κώδικα δείχνει την υποστήριξη νέων ιδιοτήτων LengthRecord, PathOperations (λειτουργίες boolean), ShapeIndex και BezierKnotRecordsCount.
+Το παρακάτω παράδειγμα κώδικα δείχνει την υποστήριξη των νέων ιδιοτήτων LengthRecord, PathOperations (λογικές λειτουργίες), ShapeIndex και BezierKnotRecordsCount.
 
 ```csharp
 [C#]
@@ -40,7 +41,7 @@ using (var im = (PsdImage)Image.Load(sourceFilePath))
     LengthRecord lengthRecord1 = (LengthRecord)resource.Paths[7];
     LengthRecord lengthRecord2 = (LengthRecord)resource.Paths[11];
 
-    // Εδώ αλλάζουμε τον τρόπο για το συνδυασμό μεταξύ σχημάτων.
+    // Εδώ αλλάζουμε τον τρόπο συνδυασμού μεταξύ σχημάτων.
     lengthRecord0.PathOperations = PathOperations.ExcludeOverlappingShapes;
     lengthRecord1.PathOperations = PathOperations.IntersectShapeAreas;
     lengthRecord2.PathOperations = PathOperations.SubtractFrontShape;
@@ -52,7 +53,7 @@ using (var im = (PsdImage)Image.Load(sourceFilePath))
 ### Δείτε επίσης
 
 * class [LengthRecord](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Core.VectorPaths](../../lengthrecord/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../../)
 
 

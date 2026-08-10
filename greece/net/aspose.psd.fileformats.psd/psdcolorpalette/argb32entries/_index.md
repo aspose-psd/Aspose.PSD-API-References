@@ -1,31 +1,32 @@
 ---
-title: PsdColorPalette.Argb32Entries
-second_title: Aspose.PSD για Αναφορά API .NET
-description: PsdColorPalette ιδιοκτησία. Λαμβάνει μια σειρά χρωμάτων ARGB 32 bit.
+title: "PsdColorPalette.Argb32Entries"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "PsdColorPalette ιδιότητα. Λαμβάνει έναν πίνακα 32-bit χρωμάτων ARGB"
 type: docs
 weight: 30
 url: /el/net/aspose.psd.fileformats.psd/psdcolorpalette/argb32entries/
 ---
+{{< psd/tize >}}
 ## PsdColorPalette.Argb32Entries property
 
-Λαμβάνει μια σειρά χρωμάτων ARGB 32 bit.
+Λαμβάνει έναν πίνακα 32-bit χρωμάτων ARGB.
 
 ```csharp
 public int[] Argb32Entries { get; }
 ```
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-Ο πίνακας της δομής ARGB 32-bit που το απαρτίζει[`ColorPalette`](../../../aspose.psd/colorpalette/) .
+Ο πίνακας της 32-bit δομής ARGB που συνθέτει αυτό το [`ColorPalette`](../../../aspose.psd/colorpalette/).
 
-### Αξία περιουσίας
+### Property Value
 
-Οι συμμετοχές.
+Οι καταχωρήσεις.
 
 ### Δείτε επίσης
 
 * class [PsdColorPalette](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd](../../psdcolorpalette/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

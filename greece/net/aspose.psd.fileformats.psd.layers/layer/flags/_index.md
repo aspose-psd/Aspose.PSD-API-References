@@ -1,28 +1,29 @@
 ---
-title: Layer.Flags
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Layer ιδιοκτησία. Λαμβάνει ή ορίζει τις σημαίες του επιπέδου. bit 0  προστασία διαφάνειας bit 1  ορατό bit 2  απαρχαιωμένο bit 3  1 για Photoshop 5.0 και νεότερες εκδόσεις λέει εάν το bit  0 bit  4 έχει χρήσιμες πληροφορίες_0 δεδομένα pixel που δεν σχετίζονται με την εμφάνιση του εγγράφου.
+title: "Layer.Flags"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα Layer. Λαμβάνει ή ορίζει τις σημαίες του στρώματος. bit 0  προστασία διαφάνειας bit 1  ορατό bit 2  παρωχημένο bit 3  1 για Photoshop 5.0 και μεταγενέστερα δείχνει εάν το bit 4 έχει χρήσιμες πληροφορίες bit 4  δεδομένα pixel που δεν επηρεάζουν την εμφάνιση του εγγράφου"
 type: docs
-weight: 140
+weight: 150
 url: /el/net/aspose.psd.fileformats.psd.layers/layer/flags/
 ---
+{{< psd/tize >}}
 ## Layer.Flags property
 
-Λαμβάνει ή ορίζει τις σημαίες του επιπέδου. bit 0 = προστασία διαφάνειας; bit 1 = ορατό; bit 2 = απαρχαιωμένο; bit 3 = 1 για Photoshop 5.0 και νεότερες εκδόσεις, λέει εάν το bit = 0 bit = 4 έχει χρήσιμες πληροφορίες;_0 δεδομένα pixel που δεν σχετίζονται με την εμφάνιση του εγγράφου.
+Λαμβάνει ή ορίζει τις σημαίες του στρώματος. bit 0 = προστασία διαφάνειας· bit 1 = ορατό· bit 2 = παρωχημένο· bit 3 = 1 για Photoshop 5.0 και μεταγενέστερα, υποδεικνύει εάν το bit 4 περιέχει χρήσιμες πληροφορίες· bit 4 = δεδομένα pixel που δεν επηρεάζουν την εμφάνιση του εγγράφου.
 
 ```csharp
 public LayerFlags Flags { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Οι σημαίες του επιπέδου.
+Οι σημαίες του στρώματος.
 
 ### Δείτε επίσης
 
 * enum [LayerFlags](../../layerflags/)
 * class [Layer](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers](../../layer/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

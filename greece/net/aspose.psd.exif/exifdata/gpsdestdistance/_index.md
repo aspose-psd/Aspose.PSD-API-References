@@ -1,28 +1,29 @@
 ---
-title: ExifData.GPSDestDistance
-second_title: Aspose.PSD για Αναφορά API .NET
-description: ExifData ιδιοκτησία. Λαμβάνει ή ορίζει την απόσταση GPS στο σημείο προορισμού.
+title: "ExifData.GPSDestDistance"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "ExifData ιδιότητα. Λαμβάνει ή ορίζει την απόσταση GPS προς το σημείο προορισμού"
 type: docs
 weight: 420
 url: /el/net/aspose.psd.exif/exifdata/gpsdestdistance/
 ---
+{{< psd/tize >}}
 ## ExifData.GPSDestDistance property
 
-Λαμβάνει ή ορίζει την απόσταση GPS στο σημείο προορισμού.
+Λαμβάνει ή ορίζει την απόσταση GPS προς το σημείο προορισμού.
 
 ```csharp
 public TiffRational GPSDestDistance { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Η απόσταση GPS από το σημείο προορισμού.
+Η απόσταση GPS προς το σημείο προορισμού.
 
 ### Δείτε επίσης
 
 * class [TiffRational](../../../aspose.psd.fileformats.tiff/tiffrational/)
 * class [ExifData](../)
-* χώρος ονομάτων [Aspose.PSD.Exif](../../exifdata/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

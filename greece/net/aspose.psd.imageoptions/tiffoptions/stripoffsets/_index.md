@@ -1,11 +1,12 @@
 ---
-title: TiffOptions.StripOffsets
-second_title: Aspose.PSD για Αναφορά API .NET
-description: TiffOptions ιδιοκτησία. Λαμβάνει ή ορίζει τις μετατοπίσεις της ταινίας.
+title: "TiffOptions.StripOffsets"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα TiffOptions. Λαμβάνει ή ορίζει τις μετατοπίσεις λωρίδας"
 type: docs
-weight: 470
+weight: 480
 url: /el/net/aspose.psd.imageoptions/tiffoptions/stripoffsets/
 ---
+{{< psd/tize >}}
 ## TiffOptions.StripOffsets property
 
 Λαμβάνει ή ορίζει τις μετατοπίσεις της ταινίας.
@@ -14,14 +15,14 @@ url: /el/net/aspose.psd.imageoptions/tiffoptions/stripoffsets/
 public uint[] StripOffsets { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Η λωρίδα μετατοπίζεται.
+Οι μετατοπίσεις λωρίδας.
 
 ### Δείτε επίσης
 
 * class [TiffOptions](../)
-* χώρος ονομάτων [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

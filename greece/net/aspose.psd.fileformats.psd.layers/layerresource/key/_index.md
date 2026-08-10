@@ -1,23 +1,24 @@
 ---
-title: LayerResource.Key
-second_title: Aspose.PSD για Αναφορά API .NET
-description: LayerResource ιδιοκτησία. Λαμβάνει το κλειδί πόρων επιπέδου.
+title: "LayerResource.Key"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα LayerResource. Λαμβάνει το κλειδί του πόρου επιπέδου"
 type: docs
 weight: 10
 url: /el/net/aspose.psd.fileformats.psd.layers/layerresource/key/
 ---
+{{< psd/tize >}}
 ## LayerResource.Key property
 
-Λαμβάνει το κλειδί πόρων επιπέδου.
+Λαμβάνει το κλειδί πόρου του επιπέδου.
 
 ```csharp
-public abstract int Key { get; }
+public int Key { get; }
 ```
 
 ### Δείτε επίσης
 
 * class [LayerResource](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers](../../layerresource/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

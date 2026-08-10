@@ -1,14 +1,15 @@
 ---
-title: FontSettings.SetFontsFolders
-second_title: Aspose.PSD για Αναφορά API .NET
-description: FontSettings μέθοδος. Ορίζει τους φακέλους από τους οποίους φορτώνονται οι γραμματοσειρές TrueType και διαγράφει όλες τις φορτωμένες γραμματοσειρές. Δεν γίνονται έλεγχοι στους φακέλους γραμματοσειρών.
+title: "FontSettings.SetFontsFolders"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Μέθοδος FontSettings. Ορίζει τους φακέλους από τους οποίους φορτώνονται οι γραμματοσειρές TrueType και καθαρίζει όλες τις φορτωμένες γραμματοσειρές. Δεν γίνονται έλεγχοι στους φακέλους γραμματοσειρών"
 type: docs
-weight: 130
+weight: 150
 url: /el/net/aspose.psd/fontsettings/setfontsfolders/
 ---
+{{< psd/tize >}}
 ## FontSettings.SetFontsFolders method
 
-Ορίζει τους φακέλους από τους οποίους φορτώνονται οι γραμματοσειρές TrueType και διαγράφει όλες τις φορτωμένες γραμματοσειρές. Δεν γίνονται έλεγχοι στους φακέλους γραμματοσειρών.
+Ορίζει τους φακέλους από τους οποίους φορτώνονται οι γραμματοσειρές TrueType και καθαρίζει όλες τις φορτωμένες γραμματοσειρές. Δεν πραγματοποιούνται έλεγχοι στους φακέλους γραμματοσειρών.
 
 ```csharp
 public static void SetFontsFolders(string[] fontsFolders, bool recursive)
@@ -17,12 +18,12 @@ public static void SetFontsFolders(string[] fontsFolders, bool recursive)
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
 | fontsFolders | String[] | Οι φάκελοι γραμματοσειρών. |
-| recursive | Boolean | εάν έχει οριστεί σε`αληθής` [αναδρομικό]. |
+| αναδρομικό | Boolean | αν οριστεί σε `true` [αναδρομικό]. |
 
 ### Δείτε επίσης
 
 * class [FontSettings](../)
-* χώρος ονομάτων [Aspose.PSD](../../fontsettings/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: UnitArrayStructure.Length
-second_title: Aspose.PSD για Αναφορά API .NET
-description: UnitArrayStructure ιδιοκτησία. Λαμβάνει τοOSTypeStructure μήκος σε byte.
+title: "UnitArrayStructure.Length"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα UnitArrayStructure. Λαμβάνει το μήκος OSTypeStructure σε byte"
 type: docs
 weight: 30
 url: /el/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/unitarraystructure/length/
 ---
+{{< psd/tize >}}
 ## UnitArrayStructure.Length property
 
-Λαμβάνει το[`OSTypeStructure`](../../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/) μήκος σε byte.
+Λαμβάνει το μήκος του [`OSTypeStructure`](../../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/) σε bytes.
 
 ```csharp
 public override int Length { get; }
@@ -17,7 +18,7 @@ public override int Length { get; }
 ### Δείτε επίσης
 
 * class [UnitArrayStructure](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../unitarraystructure/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 

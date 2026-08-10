@@ -1,14 +1,15 @@
 ---
-title: Class InfxResource
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.InfxResource τάξη. Class InfxResource. Αυτός ο πόρος περιέχει πληροφορίες σχετικά με την ανάμειξη του αποκομμένου στοιχείου.
+title: "Κλάση InfxResource"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Aspose.PSD.FileFormats.Psd.Layers.LayerResources.InfxResource κλάση. Κλάση InfxResource. Αυτός ο πόρος περιέχει πληροφορίες σχετικά με την ανάμειξη του περικομμένου στοιχείου"
 type: docs
-weight: 2550
+weight: 2860
 url: /el/net/aspose.psd.fileformats.psd.layers.layerresources/infxresource/
 ---
+{{< psd/tize >}}
 ## InfxResource class
 
-Class InfxResource. Αυτός ο πόρος περιέχει πληροφορίες σχετικά με την ανάμειξη του αποκομμένου στοιχείου.
+Κλάση InfxResource. Αυτός ο πόρος περιέχει πληροφορίες σχετικά με τη συγχώνευση του περικομμένου στοιχείου.
 
 ```csharp
 public class InfxResource : BooleanResource
@@ -16,40 +17,40 @@ public class InfxResource : BooleanResource
 
 ## Κατασκευαστές
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
-| [InfxResource](infxresource/#constructor)() | Αρχικοποιεί μια νέα παρουσία του`InfxResource` τάξη. |
-| [InfxResource](infxresource/#constructor_1)(bool) | Αρχικοποιεί μια νέα παρουσία του`InfxResource` τάξη. |
-| [InfxResource](infxresource/#constructor_2)(byte[]) | Αρχικοποιεί μια νέα παρουσία του`InfxResource` class. Με προσαρμοσμένη ή άγνωστη τιμή |
+| [InfxResource](infxresource/#constructor)() | Αρχικοποιεί ένα νέο αντικείμενο της κλάσης `InfxResource`. |
+| [InfxResource](infxresource/#constructor_1)(bool) | Αρχικοποιεί ένα νέο αντικείμενο της κλάσης `InfxResource`. |
+| [InfxResource](infxresource/#constructor_2)(byte[]) | Αρχικοποιεί ένα νέο αντικείμενο της κλάσης `InfxResource`. Με προσαρμοσμένη ή άγνωστη τιμή. |
 
 ## Ιδιότητες
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
-| [BlendInteriorElements](../../aspose.psd.fileformats.psd.layers.layerresources/infxresource/blendinteriorelements/) { get; set; } | Λαμβάνει ή ορίζει μια τιμή που υποδεικνύει εάν [blend interior element]. |
-| override [Key](../../aspose.psd.fileformats.psd.layers.layerresources/infxresource/key/) { get; } | Λαμβάνει το κλειδί πόρων επιπέδου. |
-| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/booleanresource/length/) { get; } | Λαμβάνει το μήκος του πόρου του επιπέδου σε byte. |
-| override [PsdVersion](../../aspose.psd.fileformats.psd.layers.layerresources/booleanresource/psdversion/) { get; } | Λαμβάνει την έκδοση psd. |
-| override [Signature](../../aspose.psd.fileformats.psd.layers.layerresources/booleanresource/signature/) { get; } | Παίρνει την υπογραφή. |
+| [BlendInteriorElements](../../aspose.psd.fileformats.psd.layers.layerresources/infxresource/blendinteriorelements/) { get; set; } | Λαμβάνει ή ορίζει μια τιμή που υποδεικνύει αν [blend interior elements]. |
+| [Key](../../aspose.psd.fileformats.psd.layers/layerresource/key/) { get; } | Λαμβάνει το κλειδί πόρου του επιπέδου. |
+| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/booleanresource/length/) { get; } | Λαμβάνει το μήκος του πόρου του επιπέδου σε bytes. |
+| virtual [PsdVersion](../../aspose.psd.fileformats.psd.layers/layerresource/psdversion/) { get; } | Λαμβάνει την ελάχιστη έκδοση psd που απαιτείται για τον πόρο του επιπέδου. 0 υποδεικνύει ότι δεν υπάρχουν περιορισμοί. |
+| virtual [Signature](../../aspose.psd.fileformats.psd.layers/layerresource/signature/) { get; } | Λαμβάνει την υπογραφή. |
 
 ## Μέθοδοι
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
 | override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/booleanresource/save/)(StreamContainer, int) | Αποθηκεύει το καθορισμένο κοντέινερ ροής. |
-| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring/)() | Επιστρέφει αString που αντιπροσωπεύει αυτήν την περίπτωση. |
+| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring/)() | Επιστρέφει ένα String που αντιπροσωπεύει αυτήν την περίπτωση. |
 
 ## Πεδία
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
-| const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/infxresource/typetoolkey/) | Το κλειδί πληροφοριών εργαλείου τύπου. |
+| const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/infxresource/typetoolkey/) | Το κλειδί πληροφοριών του εργαλείου τύπου. |
 
 ### Δείτε επίσης
 
 * class [LayerResource](../../aspose.psd.fileformats.psd.layers/layerresource/)
 * class [BooleanResource](../booleanresource/)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
-* συνέλευση [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../)
 
 

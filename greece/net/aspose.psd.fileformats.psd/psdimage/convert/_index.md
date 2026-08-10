@@ -1,14 +1,15 @@
 ---
-title: PsdImage.Convert
-second_title: Aspose.PSD για Αναφορά API .NET
-description: PsdImage μέθοδος. Μετατρέπει αυτήν τη μορφή εικόνας σε αυτήν που καθορίζεται στις επιλογές.
+title: "PsdImage.Convert"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Μέθοδος PsdImage. Μετατρέπει αυτή τη μορφή εικόνας στην μορφή που καθορίζεται στις επιλογές"
 type: docs
-weight: 500
+weight: 560
 url: /el/net/aspose.psd.fileformats.psd/psdimage/convert/
 ---
+{{< psd/tize >}}
 ## PsdImage.Convert method
 
-Μετατρέπει αυτήν τη μορφή εικόνας σε αυτήν που καθορίζεται στις επιλογές.
+Μετατρέπει αυτή τη μορφή εικόνας στην μορφή που καθορίζεται στις επιλογές.
 
 ```csharp
 public void Convert(PsdOptions newOptions)
@@ -18,9 +19,9 @@ public void Convert(PsdOptions newOptions)
 | --- | --- | --- |
 | newOptions | PsdOptions | Οι νέες επιλογές. |
 
-### Παραδείγματα
+## Παραδείγματα
 
-Αυτά τα παραδείγματα δείχνουν τη μετατροπή της μορφής εικόνας PSD σε άλλες λειτουργίες χρώματος/Βάθος bit.
+Αυτά τα παραδείγματα δείχνουν τη μετατροπή της μορφής εικόνας PSD σε άλλες λειτουργίες χρώματος/βάθος bit.
 
 ```csharp
 [C#]
@@ -28,7 +29,7 @@ public void Convert(PsdOptions newOptions)
 string dataDir = baseFolder + Path.DirectorySeparatorChar;
 string outputDir = dataDir + "output" + Path.DirectorySeparatorChar;
 
-// Αυτά τα παραδείγματα δείχνουν τη μετατροπή της μορφής εικόνας PSD σε άλλες λειτουργίες χρώματος/Βάθος Bit.
+// Αυτά τα παραδείγματα δείχνουν τη μετατροπή της μορφής εικόνας PSD σε άλλες λειτουργίες χρώματος/βάθος bit.
 ImageConversion(ColorModes.Grayscale, 16, 2);
 ImageConversion(ColorModes.Grayscale, 8, 2);
 ImageConversion(ColorModes.Grayscale, 8, 1);
@@ -63,7 +64,7 @@ void ImageConversion(ColorModes colorMode, short channelBitsCount, short channel
         3);
 }
 
-// Αποθηκεύει σε PSD, στη συνέχεια φορτώνει το αποθηκευμένο αρχείο και αποθηκεύει σε PNG.
+// Αποθηκεύει σε PSD, στη συνέχεια φορτώνει το αποθηκευμένο αρχείο και το αποθηκεύει σε PNG.
 void SaveToPsdThenLoadAndSaveToPng(
     string file,
     ColorModes colorMode,
@@ -116,7 +117,7 @@ void SaveToPsdThenLoadAndSaveToPng(
 
 * class [PsdOptions](../../../aspose.psd.imageoptions/psdoptions/)
 * class [PsdImage](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

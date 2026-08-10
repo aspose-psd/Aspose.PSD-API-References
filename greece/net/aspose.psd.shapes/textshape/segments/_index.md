@@ -1,28 +1,29 @@
 ---
-title: TextShape.Segments
-second_title: Aspose.PSD για Αναφορά API .NET
-description: TextShape ιδιοκτησία. Παίρνει τα τμήματα σχήματος.
+title: "TextShape.Segments"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα TextShape. Λαμβάνει τα τμήματα του σχήματος"
 type: docs
 weight: 60
 url: /el/net/aspose.psd.shapes/textshape/segments/
 ---
+{{< psd/tize >}}
 ## TextShape.Segments property
 
-Παίρνει τα τμήματα σχήματος.
+Λαμβάνει τα τμήματα του σχήματος.
 
 ```csharp
 public override ShapeSegment[] Segments { get; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Τα τμήματα σχήματος.
+Τα τμήματα του σχήματος.
 
 ### Δείτε επίσης
 
 * class [ShapeSegment](../../../aspose.psd/shapesegment/)
 * class [TextShape](../)
-* χώρος ονομάτων [Aspose.PSD.Shapes](../../textshape/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 

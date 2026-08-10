@@ -1,28 +1,29 @@
 ---
-title: IImageCreatorDescriptor.CreateInstance
-second_title: Aspose.PSD για Αναφορά API .NET
-description: IImageCreatorDescriptor μέθοδος. Δημιουργεί μια νέα παρουσία δημιουργού.
+title: "IImageCreatorDescriptor.CreateInstance"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Μέθοδος IImageCreatorDescriptor. Δημιουργεί μια νέα παρουσία δημιουργού"
 type: docs
 weight: 20
 url: /el/net/aspose.psd/iimagecreatordescriptor/createinstance/
 ---
+{{< psd/tize >}}
 ## IImageCreatorDescriptor.CreateInstance method
 
-Δημιουργεί μια νέα παρουσία δημιουργού.
+Δημιουργεί ένα νέο στιγμιότυπο δημιουργού.
 
 ```csharp
 public IImageCreator CreateInstance()
 ```
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-Ένα νέο παράδειγμα δημιουργού.
+Μια νέα παρουσία δημιουργού.
 
 ### Δείτε επίσης
 
 * interface [IImageCreator](../../iimagecreator/)
 * interface [IImageCreatorDescriptor](../)
-* χώρος ονομάτων [Aspose.PSD](../../iimagecreatordescriptor/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

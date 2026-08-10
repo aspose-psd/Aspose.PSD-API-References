@@ -1,26 +1,27 @@
 ---
-title: PtFlResource.Offset
-second_title: Aspose.PSD για Αναφορά API .NET
-description: PtFlResource ιδιοκτησία. Λαμβάνει ή ορίζει τη μετατόπιση.
+title: "PtFlResource.Offset"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "PtFlResource ιδιότητα. Λαμβάνει ή ορίζει την μετατόπιση"
 type: docs
 weight: 60
 url: /el/net/aspose.psd.fileformats.psd.layers.layerresources/ptflresource/offset/
 ---
+{{< psd/tize >}}
 ## PtFlResource.Offset property
 
-Λαμβάνει ή ορίζει τη μετατόπιση.
+Λαμβάνει ή ορίζει την μετατόπιση.
 
 ```csharp
 public Point Offset { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
 Η μετατόπιση.
 
-### Παραδείγματα
+## Παραδείγματα
 
-Το ακόλουθο παράδειγμα δείχνει την υποστήριξη της φόρτωσης και της επεξεργασίας ενός πόρου PtFlResource.
+Το παρακάτω παράδειγμα δείχνει την υποστήριξη της φόρτωσης και επεξεργασίας ενός πόρου PtFlResource.
 
 ```csharp
 [C#]
@@ -41,7 +42,7 @@ using (im)
             {
                 if (res is PtFlResource)
                 {
-                    // ΑΝΑΓΝΩΣΗ
+                    // Ανάγνωση
                     PtFlResource resource = (PtFlResource)res;
                     if (
                         resource.Offset.X != -46 ||
@@ -90,7 +91,7 @@ using (im)
 
 * struct [Point](../../../aspose.psd/point/)
 * class [PtFlResource](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../ptflresource/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

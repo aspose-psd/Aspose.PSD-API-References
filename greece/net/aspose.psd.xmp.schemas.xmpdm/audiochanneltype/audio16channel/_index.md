@@ -1,27 +1,28 @@
 ---
-title: AudioChannelType.Audio16Channel
-second_title: Aspose.PSD για Αναφορά API .NET
-description: AudioChannelType ιδιοκτησία. Λαμβάνει το 16 κανάλι ήχου.
+title: "AudioChannelType.Audio16Channel"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "AudioChannelType ιδιότητα. Λαμβάνει το 16 κανάλι ήχου"
 type: docs
 weight: 10
 url: /el/net/aspose.psd.xmp.schemas.xmpdm/audiochanneltype/audio16channel/
 ---
+{{< psd/tize >}}
 ## AudioChannelType.Audio16Channel property
 
-Λαμβάνει το 16 κανάλι ήχου.
+Λαμβάνει το κανάλι ήχου 16.
 
 ```csharp
 public static AudioChannelType Audio16Channel { get; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Το κανάλι ήχου 16.
+Το 16 κανάλι ήχου.
 
 ### Δείτε επίσης
 
 * class [AudioChannelType](../)
-* χώρος ονομάτων [Aspose.PSD.Xmp.Schemas.XmpDm](../../audiochanneltype/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpDm](../../../aspose.psd.xmp.schemas.xmpdm/)
+* assembly [Aspose.PSD](../../../)
 
 

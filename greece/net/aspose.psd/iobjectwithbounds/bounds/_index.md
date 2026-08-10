@@ -1,28 +1,29 @@
 ---
-title: IObjectWithBounds.Bounds
-second_title: Aspose.PSD για Αναφορά API .NET
-description: IObjectWithBounds ιδιοκτησία. Παίρνει τα όρια του αντικειμένου.
+title: "IObjectWithBounds.Bounds"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα IObjectWithBounds. Λαμβάνει τα όρια του αντικειμένου"
 type: docs
 weight: 10
 url: /el/net/aspose.psd/iobjectwithbounds/bounds/
 ---
+{{< psd/tize >}}
 ## IObjectWithBounds.Bounds property
 
-Παίρνει τα όρια του αντικειμένου.
+Λαμβάνει τα όρια του αντικειμένου.
 
 ```csharp
 public Rectangle Bounds { get; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Το αντικείμενο περιορίζει.
+Τα όρια του αντικειμένου.
 
 ### Δείτε επίσης
 
 * struct [Rectangle](../../rectangle/)
 * interface [IObjectWithBounds](../)
-* χώρος ονομάτων [Aspose.PSD](../../iobjectwithbounds/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

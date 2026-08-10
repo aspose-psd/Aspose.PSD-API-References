@@ -1,11 +1,12 @@
 ---
-title: HatchBrush.HatchBrush
-second_title: Aspose.PSD για Αναφορά API .NET
-description: HatchBrush κατασκευαστής. Ο προεπιλεγμένος κατασκευαστής.
+title: "HatchBrush.HatchBrush"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Κατασκευαστής HatchBrush. Ο προεπιλεγμένος κατασκευαστής"
 type: docs
 weight: 10
 url: /el/net/aspose.psd.brushes/hatchbrush/hatchbrush/
 ---
+{{< psd/tize >}}
 ## HatchBrush constructor
 
 Ο προεπιλεγμένος κατασκευαστής.
@@ -17,7 +18,7 @@ public HatchBrush()
 ### Δείτε επίσης
 
 * class [HatchBrush](../)
-* χώρος ονομάτων [Aspose.PSD.Brushes](../../hatchbrush/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
+* assembly [Aspose.PSD](../../../)
 
 

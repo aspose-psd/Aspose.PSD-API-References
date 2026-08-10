@@ -1,11 +1,12 @@
 ---
-title: PsdImage.AddLayer
-second_title: Aspose.PSD για Αναφορά API .NET
-description: PsdImage μέθοδος. Προσθέτει το επίπεδο.
+title: "PsdImage.AddLayer"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Μέθοδος PsdImage. Προσθέτει το στρώμα"
 type: docs
-weight: 370
+weight: 390
 url: /el/net/aspose.psd.fileformats.psd/psdimage/addlayer/
 ---
+{{< psd/tize >}}
 ## PsdImage.AddLayer method
 
 Προσθέτει το επίπεδο.
@@ -16,11 +17,11 @@ public void AddLayer(Layer layer)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| layer | Layer | Το στρώμα. |
+| στρώση | Στρώση | Το στρώμα. |
 
-### Παραδείγματα
+## Παραδείγματα
 
-Το ακόλουθο παράδειγμα δείχνει πώς μπορείτε να σχεδιάσετε σε ένα επίπεδο που δημιουργήθηκε πρόσφατα εάν χρησιμοποιείται η απλή έκδοση κατασκευαστή στο Aspose.PSD
+Το παρακάτω παράδειγμα δείχνει πώς μπορείτε να σχεδιάσετε σε ένα νεοδημιουργημένο layer εάν χρησιμοποιηθεί η απλή έκδοση του κατασκευαστή στο Aspose.PSD
 
 ```csharp
 [C#]
@@ -39,10 +40,10 @@ using (var image = new PsdImage(width, height))
     Graphics graphic = new Graphics(layer);
     graphic.Clear(Color.Yellow);
 
-    // σχεδιάστε ένα ορθογώνιο με το εργαλείο στυλό
+    // σχεδιάστε ένα ορθογώνιο με το εργαλείο Pen
     graphic.DrawRectangle(new Pen(Color.Red), new Rectangle(30, 10, 40, 80));
 
-    // σχεδιάστε ένα άλλο ορθογώνιο με το Solid Brush σε μπλε χρώμα
+    // σχεδιάστε ένα άλλο ορθογώνιο με Solid Brush σε μπλε χρώμα
     graphic.DrawRectangle(new Pen(new SolidBrush(Color.Blue)), new Rectangle(10, 30, 80, 40));
 
     image.Save(outputFilePath);
@@ -53,7 +54,7 @@ using (var image = new PsdImage(width, height))
 
 * class [Layer](../../../aspose.psd.fileformats.psd.layers/layer/)
 * class [PsdImage](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,33 +1,34 @@
 ---
-title: PhotoFilterLayer.Density
-second_title: Aspose.PSD για Αναφορά API .NET
-description: PhotoFilterLayer ιδιοκτησία. Λαμβάνει ή ορίζει την πυκνότητα του filter
+title: "PhotoFilterLayer.Density"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα PhotoFilterLayer. Λαμβάνει ή ορίζει την πυκνότητα του φίλτρου"
 type: docs
 weight: 20
 url: /el/net/aspose.psd.fileformats.psd.layers.adjustmentlayers/photofilterlayer/density/
 ---
+{{< psd/tize >}}
 ## PhotoFilterLayer.Density property
 
-Λαμβάνει ή ορίζει την πυκνότητα του filter
+Αποκτά ή ορίζει την πυκνότητα του φίλτρου
 
 ```csharp
 public int Density { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
 Η πυκνότητα.
 
 ### Εξαιρέσεις
 
-| εξαίρεση | κατάσταση |
+| εξαίρεση | συνθήκη |
 | --- | --- |
-| ArgumentOutOfRangeException | Η πυκνότητα πρέπει να κυμαίνεται από 0 έως 100 |
+| ArgumentOutOfRangeException | Η πυκνότητα πρέπει να είναι στο εύρος από 0 έως 100 |
 
 ### Δείτε επίσης
 
 * class [PhotoFilterLayer](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../photofilterlayer/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: XmpText.XmpText
-second_title: Aspose.PSD για Αναφορά API .NET
-description: XmpText κατασκευαστής. Αρχικοποιεί μια νέα παρουσία τουXmpText τάξη.
+title: "XmpText.XmpText"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "XmpText κατασκευαστής. Αρχικοποιεί ένα νέο αντικείμενο της κλάσης XmpText"
 type: docs
 weight: 10
 url: /el/net/aspose.psd.xmp.types.basic/xmptext/xmptext/
 ---
+{{< psd/tize >}}
 ## XmpText constructor
 
-Αρχικοποιεί μια νέα παρουσία του[`XmpText`](../) τάξη.
+Αρχικοποιεί ένα νέο αντικείμενο της κλάσης [`XmpText`](../).
 
 ```csharp
 public XmpText(string value)
@@ -16,12 +17,12 @@ public XmpText(string value)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| value | String | Η αξία. |
+| τιμή | String | Η τιμή. |
 
 ### Δείτε επίσης
 
 * class [XmpText](../)
-* χώρος ονομάτων [Aspose.PSD.Xmp.Types.Basic](../../xmptext/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Basic](../../../aspose.psd.xmp.types.basic/)
+* assembly [Aspose.PSD](../../../)
 
 

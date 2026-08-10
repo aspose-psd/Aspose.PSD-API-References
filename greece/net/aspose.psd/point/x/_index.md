@@ -1,14 +1,15 @@
 ---
-title: Point.X
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Point ιδιοκτησία. Λαμβάνει ή ορίζει τη συντεταγμένη x αυτούPoint .
+title: "Point.X"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα Point. Λαμβάνει ή ορίζει τη συντεταγμένη x αυτού του Point"
 type: docs
 weight: 90
 url: /el/net/aspose.psd/point/x/
 ---
+{{< psd/tize >}}
 ## Point.X property
 
-Λαμβάνει ή ορίζει τη συντεταγμένη x αυτού[`Point`](../) .
+Λαμβάνει ή ορίζει τη συντεταγμένη x αυτού του [`Point`](../).
 
 ```csharp
 public int X { get; set; }
@@ -17,7 +18,7 @@ public int X { get; set; }
 ### Δείτε επίσης
 
 * struct [Point](../)
-* χώρος ονομάτων [Aspose.PSD](../../point/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

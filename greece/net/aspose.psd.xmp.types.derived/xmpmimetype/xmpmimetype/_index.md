@@ -1,14 +1,15 @@
 ---
-title: XmpMimeType.XmpMimeType
-second_title: Aspose.PSD για Αναφορά API .NET
-description: XmpMimeType κατασκευαστής. Αρχικοποιεί μια νέα παρουσία τουXmpMimeType τάξη.
+title: "XmpMimeType.XmpMimeType"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Κατασκευαστής XmpMimeType. Αρχικοποιεί μια νέα παρουσία της κλάσης XmpMimeType"
 type: docs
 weight: 10
 url: /el/net/aspose.psd.xmp.types.derived/xmpmimetype/xmpmimetype/
 ---
+{{< psd/tize >}}
 ## XmpMimeType constructor
 
-Αρχικοποιεί μια νέα παρουσία του[`XmpMimeType`](../) τάξη.
+Αρχικοποιεί μια νέα παρουσία της κλάσης [`XmpMimeType`](../).
 
 ```csharp
 public XmpMimeType(string value)
@@ -16,12 +17,12 @@ public XmpMimeType(string value)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| value | String | Η αξία. |
+| τιμή | String | Η τιμή. |
 
 ### Δείτε επίσης
 
 * class [XmpMimeType](../)
-* χώρος ονομάτων [Aspose.PSD.Xmp.Types.Derived](../../xmpmimetype/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Derived](../../../aspose.psd.xmp.types.derived/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: Image.Height
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Image ιδιοκτησία. Λαμβάνει το ύψος της εικόνας.
+title: "Image.Height"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Image property. Επιστρέφει το ύψος της εικόνας"
 type: docs
 weight: 110
 url: /el/net/aspose.psd/image/height/
 ---
+{{< psd/tize >}}
 ## Image.Height property
 
 Λαμβάνει το ύψος της εικόνας.
@@ -14,14 +15,14 @@ url: /el/net/aspose.psd/image/height/
 public abstract int Height { get; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
 Το ύψος της εικόνας.
 
 ### Δείτε επίσης
 
 * class [Image](../)
-* χώρος ονομάτων [Aspose.PSD](../../image/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

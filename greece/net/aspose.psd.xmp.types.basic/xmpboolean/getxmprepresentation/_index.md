@@ -1,27 +1,28 @@
 ---
-title: XmpBoolean.GetXmpRepresentation
-second_title: Aspose.PSD για Αναφορά API .NET
-description: XmpBoolean μέθοδος. Επιστρέφει την τιμή που περιέχεται στη συμβολοσειρά σε μορφή XMP.
+title: "XmpBoolean.GetXmpRepresentation"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "XmpBoolean μέθοδος. Επιστρέφει την τιμή συμβολοσειράς σε μορφή XMP"
 type: docs
 weight: 30
 url: /el/net/aspose.psd.xmp.types.basic/xmpboolean/getxmprepresentation/
 ---
+{{< psd/tize >}}
 ## XmpBoolean.GetXmpRepresentation method
 
-Επιστρέφει την τιμή που περιέχεται στη συμβολοσειρά σε μορφή XMP.
+Επιστρέφει την τιμή της συμβολοσειράς σε μορφή XMP.
 
 ```csharp
 public override string GetXmpRepresentation()
 ```
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-Επιστρέφει την τιμή που περιέχεται στη συμβολοσειρά σε μορφή XMP.
+Επιστρέφει την τιμή της συμβολοσειράς σε μορφή XMP.
 
 ### Δείτε επίσης
 
 * class [XmpBoolean](../)
-* χώρος ονομάτων [Aspose.PSD.Xmp.Types.Basic](../../xmpboolean/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Basic](../../../aspose.psd.xmp.types.basic/)
+* assembly [Aspose.PSD](../../../)
 
 

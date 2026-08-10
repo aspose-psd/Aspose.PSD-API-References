@@ -1,11 +1,12 @@
 ---
-title: XmpResource.MinimalVersion
-second_title: Aspose.PSD για Αναφορά API .NET
-description: XmpResource ιδιοκτησία. Λαμβάνει την ελάχιστη απαιτούμενη έκδοση psd.
+title: "XmpResource.MinimalVersion"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "XmpResource ιδιότητα. Λαμβάνει την ελάχιστη απαιτούμενη έκδοση psd"
 type: docs
 weight: 30
 url: /el/net/aspose.psd.fileformats.psd.resources/xmpresource/minimalversion/
 ---
+{{< psd/tize >}}
 ## XmpResource.MinimalVersion property
 
 Λαμβάνει την ελάχιστη απαιτούμενη έκδοση psd.
@@ -14,14 +15,14 @@ url: /el/net/aspose.psd.fileformats.psd.resources/xmpresource/minimalversion/
 public override int MinimalVersion { get; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Η minimal έκδοση psd.
+Η ελάχιστη έκδοση psd.
 
 ### Δείτε επίσης
 
 * class [XmpResource](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Resources](../../xmpresource/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

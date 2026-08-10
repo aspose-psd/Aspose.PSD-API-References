@@ -1,27 +1,28 @@
 ---
-title: RasterImage.PremultiplyComponents
-second_title: Aspose.PSD για Αναφορά API .NET
-description: RasterImage ιδιοκτησία. Λαμβάνει ή ορίζει μια τιμή που υποδεικνύει εάν τα στοιχεία της εικόνας πρέπει να πολλαπλασιαστούν εκ των προτέρων.
+title: "RasterImage.PremultiplyComponents"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα RasterImage. Λαμβάνει ή ορίζει μια τιμή που υποδεικνύει εάν τα συστατικά της εικόνας πρέπει να προ-πολλαπλασιαστούν."
 type: docs
 weight: 60
 url: /el/net/aspose.psd/rasterimage/premultiplycomponents/
 ---
+{{< psd/tize >}}
 ## RasterImage.PremultiplyComponents property
 
-Λαμβάνει ή ορίζει μια τιμή που υποδεικνύει εάν τα στοιχεία της εικόνας πρέπει να πολλαπλασιαστούν εκ των προτέρων.
+Λαμβάνει ή ορίζει μια τιμή που υποδεικνύει εάν τα στοιχεία της εικόνας πρέπει να είναι προπολλαπλασιασμένα.
 
 ```csharp
 public virtual bool PremultiplyComponents { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-`αληθής` εάν τα στοιχεία της εικόνας πρέπει να πολλαπλασιαστούν εκ των προτέρων. σε διαφορετική περίπτωση,`ψευδής` .
+`true` εάν τα συστατικά της εικόνας πρέπει να προ-πολλαπλασιαστούν· διαφορετικά, `false`.
 
 ### Δείτε επίσης
 
 * class [RasterImage](../)
-* χώρος ονομάτων [Aspose.PSD](../../rasterimage/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

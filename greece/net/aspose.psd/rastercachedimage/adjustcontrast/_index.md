@@ -1,11 +1,12 @@
 ---
-title: RasterCachedImage.AdjustContrast
-second_title: Aspose.PSD για Αναφορά API .NET
-description: RasterCachedImage μέθοδος. Αντίθεση εικόνας
+title: "RasterCachedImage.AdjustContrast"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Μέθοδος RasterCachedImage. Αντιθέτηση εικόνας"
 type: docs
 weight: 30
 url: /el/net/aspose.psd/rastercachedimage/adjustcontrast/
 ---
+{{< psd/tize >}}
 ## RasterCachedImage.AdjustContrast method
 
 Αντίθεση εικόνας
@@ -16,12 +17,12 @@ public override void AdjustContrast(float contrast)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| contrast | Single | Τιμή αντίθεσης (στο εύρος [-100; 100]) |
+| αντίθεση | Single | Τιμή αντίθεσης (στην περιοχή [-100; 100]) |
 
 ### Δείτε επίσης
 
 * class [RasterCachedImage](../)
-* χώρος ονομάτων [Aspose.PSD](../../rastercachedimage/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

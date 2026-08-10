@@ -1,14 +1,15 @@
 ---
-title: VstkResource.StrokeStyleLineDashSet
-second_title: Aspose.PSD για Αναφορά API .NET
-description: VstkResource ιδιοκτησία. Λαμβάνει ή ορίζει μια σειρά από παύλες.
+title: "VstkResource.StrokeStyleLineDashSet"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "VstkResource ιδιότητα. Λαμβάνει ή ορίζει πίνακα διακεκοσμένων γραμμών"
 type: docs
-weight: 140
+weight: 120
 url: /el/net/aspose.psd.fileformats.psd.layers.layerresources.strokeresources/vstkresource/strokestylelinedashset/
 ---
+{{< psd/tize >}}
 ## VstkResource.StrokeStyleLineDashSet property
 
-Λαμβάνει ή ορίζει μια σειρά από παύλες.
+Λαμβάνει ή ορίζει τον πίνακα των παύλων γραμμής.
 
 ```csharp
 public double[] StrokeStyleLineDashSet { get; set; }
@@ -17,7 +18,7 @@ public double[] StrokeStyleLineDashSet { get; set; }
 ### Δείτε επίσης
 
 * class [VstkResource](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.StrokeResources](../../vstkresource/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.StrokeResources](../../../aspose.psd.fileformats.psd.layers.layerresources.strokeresources/)
+* assembly [Aspose.PSD](../../../)
 
 

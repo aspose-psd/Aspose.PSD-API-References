@@ -1,27 +1,28 @@
 ---
-title: PrintFlagsResource.BleedScale
-second_title: Aspose.PSD για Αναφορά API .NET
-description: PrintFlagsResource ιδιοκτησία. Λαμβάνει ή ρυθμίζει την κλίμακα εξαέρωσης.
+title: "PrintFlagsResource.BleedScale"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "PrintFlagsResource ιδιότητα. Λαμβάνει ή ορίζει την κλίμακα του bleed"
 type: docs
 weight: 20
 url: /el/net/aspose.psd.fileformats.psd.resources/printflagsresource/bleedscale/
 ---
+{{< psd/tize >}}
 ## PrintFlagsResource.BleedScale property
 
-Λαμβάνει ή ρυθμίζει την κλίμακα εξαέρωσης.
+Λαμβάνει ή ορίζει την κλίμακα υπερέκτασης.
 
 ```csharp
 public short BleedScale { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Η κλίμακα αιμορραγίας.
+Η κλίμακα του bleed.
 
 ### Δείτε επίσης
 
 * class [PrintFlagsResource](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Resources](../../printflagsresource/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

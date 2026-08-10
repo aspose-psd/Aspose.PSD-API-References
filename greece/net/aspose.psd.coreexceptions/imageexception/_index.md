@@ -1,14 +1,15 @@
 ---
-title: Class ImageException
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Aspose.PSD.CoreExceptions.ImageException τάξη. Η εξαίρεση της εικόνας.
+title: "Κλάση ImageException"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Aspose.PSD.CoreExceptions.ImageException κλάση. Η εξαίρεση εικόνας"
 type: docs
 weight: 500
 url: /el/net/aspose.psd.coreexceptions/imageexception/
 ---
+{{< psd/tize >}}
 ## ImageException class
 
-Η εξαίρεση της εικόνας.
+Η εξαίρεση εικόνας.
 
 ```csharp
 public class ImageException : Exception
@@ -16,14 +17,14 @@ public class ImageException : Exception
 
 ## Κατασκευαστές
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
-| [ImageException](imageexception/#constructor)(string) | Αρχικοποιεί μια νέα παρουσία του`ImageException` τάξη. |
-| [ImageException](imageexception/#constructor_1)(string, Exception) | Αρχικοποιεί μια νέα παρουσία του`ImageException` τάξη. |
+| [ImageException](imageexception/#constructor)(string) | Αρχικοποιεί μια νέα παρουσία της `ImageException` κλάσης. |
+| [ImageException](imageexception/#constructor_1)(string, Exception) | Αρχικοποιεί μια νέα παρουσία της `ImageException` κλάσης. |
 
 ### Δείτε επίσης
 
-* χώρος ονομάτων [Aspose.PSD.CoreExceptions](../../aspose.psd.coreexceptions/)
-* συνέλευση [Aspose.PSD](../../)
+* namespace [Aspose.PSD.CoreExceptions](../../aspose.psd.coreexceptions/)
+* assembly [Aspose.PSD](../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: PhotoshopPackage.PhotoshopPackage
-second_title: Aspose.PSD για Αναφορά API .NET
-description: PhotoshopPackage κατασκευαστής. Ο προεπιλεγμένος κατασκευαστής.
+title: "PhotoshopPackage.PhotoshopPackage"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "PhotoshopPackage κατασκευαστής. Ο προεπιλεγμένος κατασκευαστής"
 type: docs
 weight: 10
 url: /el/net/aspose.psd.xmp.schemas.photoshop/photoshoppackage/photoshoppackage/
 ---
+{{< psd/tize >}}
 ## PhotoshopPackage constructor
 
 Ο προεπιλεγμένος κατασκευαστής.
@@ -17,7 +18,7 @@ public PhotoshopPackage()
 ### Δείτε επίσης
 
 * class [PhotoshopPackage](../)
-* χώρος ονομάτων [Aspose.PSD.Xmp.Schemas.Photoshop](../../photoshoppackage/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.Photoshop](../../../aspose.psd.xmp.schemas.photoshop/)
+* assembly [Aspose.PSD](../../../)
 
 

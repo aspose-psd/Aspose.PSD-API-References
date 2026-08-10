@@ -1,14 +1,15 @@
 ---
-title: PointF.op_Subtraction
-second_title: Aspose.PSD για Αναφορά API .NET
-description: PointF μέθοδος. Μεταφράζει αPointF από το αρνητικό ενός δεδομένουSize .
+title: "PointF.op_Subtraction"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Μέθοδος PointF. Μετατοπίζει ένα PointF με το αρνητικό ενός δεδομένου Size"
 type: docs
 weight: 140
 url: /el/net/aspose.psd/pointf/op_subtraction/
 ---
+{{< psd/tize >}}
 ## operator - {#op_subtraction}
 
-Μεταφράζει α[`PointF`](../) από το αρνητικό ενός δεδομένου[`Size`](../../size/) .
+Μετατοπίζει ένα [`PointF`](../) με το αρνητικό ενός δεδομένου [`Size`](../../size/).
 
 ```csharp
 public static PointF operator -(PointF point, Size size)
@@ -16,25 +17,25 @@ public static PointF operator -(PointF point, Size size)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| point | PointF | ΕΝΑ[`PointF`](../) να μεταφράσω. |
-| size | Size | ΕΝΑ[`Size`](../../size/)που καθορίζει τους αριθμούς που πρέπει να αφαιρεθούν από τις συντεταγμένες x και y του*point*. |
+| point | PointF | Ένα [`PointF`](../) για μετατόπιση. |
+| size | Size | Ένα [`Size`](../../size/) που καθορίζει τους αριθμούς που θα αφαιρεθούν από τις x- και y-συντεταγμένες του *point*. |
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-Το μεταφρασμένο[`PointF`](../).
+Το μετατοπισμένο [`PointF`](../).
 
 ### Δείτε επίσης
 
 * struct [Size](../../size/)
 * struct [PointF](../)
-* χώρος ονομάτων [Aspose.PSD](../../pointf/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## operator - {#op_subtraction_1}
 
-Μεταφράζει α[`PointF`](../) με το αρνητικό ενός καθορισμένου[`SizeF`](../../sizef/) .
+Μετατοπίζει ένα [`PointF`](../) με το αρνητικό ενός καθορισμένου [`SizeF`](../../sizef/).
 
 ```csharp
 public static PointF operator -(PointF point, SizeF size)
@@ -42,18 +43,18 @@ public static PointF operator -(PointF point, SizeF size)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| point | PointF | ο[`PointF`](../) να μεταφράσω. |
-| size | SizeF | ο[`SizeF`](../../sizef/) που καθορίζει τους αριθμούς που πρέπει να αφαιρεθούν από τις συντεταγμένες του*point*. |
+| point | PointF | Το [`PointF`](../) προς μετατόπιση. |
+| size | SizeF | Το [`SizeF`](../../sizef/) που καθορίζει τους αριθμούς που θα αφαιρεθούν από τις συντεταγμένες του *point*. |
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-Το μεταφρασμένο[`PointF`](../).
+Το μετατοπισμένο [`PointF`](../).
 
 ### Δείτε επίσης
 
 * struct [SizeF](../../sizef/)
 * struct [PointF](../)
-* χώρος ονομάτων [Aspose.PSD](../../pointf/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

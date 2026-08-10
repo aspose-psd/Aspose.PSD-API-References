@@ -1,28 +1,29 @@
 ---
-title: TiffOptions.PlanarConfiguration
-second_title: Aspose.PSD για Αναφορά API .NET
-description: TiffOptions ιδιοκτησία. Λαμβάνει ή ορίζει την επίπεδη διαμόρφωση.
+title: "TiffOptions.PlanarConfiguration"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα TiffOptions. Λαμβάνει ή ορίζει τη διαμόρφωση επίπεδου"
 type: docs
-weight: 330
+weight: 340
 url: /el/net/aspose.psd.imageoptions/tiffoptions/planarconfiguration/
 ---
+{{< psd/tize >}}
 ## TiffOptions.PlanarConfiguration property
 
-Λαμβάνει ή ορίζει την επίπεδη διαμόρφωση.
+Λαμβάνει ή ορίζει τη διαμόρφωση επιπέδου.
 
 ```csharp
 public TiffPlanarConfigs PlanarConfiguration { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Η επίπεδη διαμόρφωση.
+Η διαμόρφωση επίπεδου.
 
 ### Δείτε επίσης
 
 * enum [TiffPlanarConfigs](../../../aspose.psd.fileformats.tiff.enums/tiffplanarconfigs/)
 * class [TiffOptions](../)
-* χώρος ονομάτων [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

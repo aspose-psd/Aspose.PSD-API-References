@@ -1,14 +1,15 @@
 ---
-title: Pen.RotateTransform
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Pen μέθοδος. Περιστρέφει τον τοπικό γεωμετρικό μετασχηματισμό κατά την καθορισμένη γωνία. Αυτή η μέθοδος προϋποθέτει την περιστροφή στον μετασχηματισμό.
+title: "Pen.RotateTransform"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Μέθοδος Pen. Περιστρέφει τη τοπική γεωμετρική μετασχηματισμό κατά τη συγκεκριμένη γωνία. Αυτή η μέθοδος προσθέτει την περιστροφή στην αρχή του μετασχηματισμού."
 type: docs
 weight: 210
 url: /el/net/aspose.psd/pen/rotatetransform/
 ---
+{{< psd/tize >}}
 ## RotateTransform(float) {#rotatetransform}
 
-Περιστρέφει τον τοπικό γεωμετρικό μετασχηματισμό κατά την καθορισμένη γωνία. Αυτή η μέθοδος προϋποθέτει την περιστροφή στον μετασχηματισμό.
+Περιστρέφει τον τοπικό γεωμετρικό μετασχηματισμό κατά τη συγκεκριμένη γωνία. Αυτή η μέθοδος προσθέτει την περιστροφή στην αρχή του μετασχηματισμού.
 
 ```csharp
 public void RotateTransform(float angle)
@@ -16,19 +17,19 @@ public void RotateTransform(float angle)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| angle | Single | Η γωνία περιστροφής. |
+| γωνία | Single | Η γωνία της περιστροφής. |
 
 ### Δείτε επίσης
 
 * class [Pen](../)
-* χώρος ονομάτων [Aspose.PSD](../../pen/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## RotateTransform(float, MatrixOrder) {#rotatetransform_1}
 
-Περιστρέφει τον τοπικό γεωμετρικό μετασχηματισμό κατά την καθορισμένη γωνία με την καθορισμένη σειρά.
+Περιστρέφει τον τοπικό γεωμετρικό μετασχηματισμό κατά τη συγκεκριμένη γωνία με τη συγκεκριμένη σειρά.
 
 ```csharp
 public void RotateTransform(float angle, MatrixOrder order)
@@ -36,14 +37,14 @@ public void RotateTransform(float angle, MatrixOrder order)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| angle | Single | Η γωνία περιστροφής. |
-| order | MatrixOrder | ΕΝΑ[`MatrixOrder`](../../matrixorder/) που καθορίζει εάν θα προσαρτηθεί ή θα προστεθεί ο πίνακας περιστροφής. |
+| γωνία | Single | Η γωνία της περιστροφής. |
+| order | MatrixOrder | Ένα [`MatrixOrder`](../../matrixorder/) που καθορίζει εάν θα γίνει append ή prepend στο μητρώο περιστροφής. |
 
 ### Δείτε επίσης
 
 * enum [MatrixOrder](../../matrixorder/)
 * class [Pen](../)
-* χώρος ονομάτων [Aspose.PSD](../../pen/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

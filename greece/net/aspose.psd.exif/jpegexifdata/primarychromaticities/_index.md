@@ -1,11 +1,12 @@
 ---
-title: JpegExifData.PrimaryChromaticities
-second_title: Aspose.PSD για Αναφορά API .NET
-description: JpegExifData ιδιοκτησία. Λαμβάνει ή ορίζει τη χρωματικότητα των τριών βασικών χρωμάτων της εικόνας.
+title: "JpegExifData.PrimaryChromaticities"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "JpegExifData ιδιότητα. Λαμβάνει ή ορίζει τη χρωματική απόδοση των τριών πρωτεύοντων χρωμάτων της εικόνας"
 type: docs
 weight: 150
 url: /el/net/aspose.psd.exif/jpegexifdata/primarychromaticities/
 ---
+{{< psd/tize >}}
 ## JpegExifData.PrimaryChromaticities property
 
 Λαμβάνει ή ορίζει τη χρωματικότητα των τριών βασικών χρωμάτων της εικόνας.
@@ -14,15 +15,15 @@ url: /el/net/aspose.psd.exif/jpegexifdata/primarychromaticities/
 public TiffRational[] PrimaryChromaticities { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Η χρωματικότητα των τριών βασικών χρωμάτων της εικόνας.
+Η χρωματική απόδοση των τριών πρωτεύοντων χρωμάτων της εικόνας.
 
 ### Δείτε επίσης
 
 * class [TiffRational](../../../aspose.psd.fileformats.tiff/tiffrational/)
 * class [JpegExifData](../)
-* χώρος ονομάτων [Aspose.PSD.Exif](../../jpegexifdata/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

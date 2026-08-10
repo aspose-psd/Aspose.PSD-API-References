@@ -1,27 +1,28 @@
 ---
-title: IPlacedLayerResource.IsCustom
-second_title: Aspose.PSD για Αναφορά API .NET
-description: IPlacedLayerResource ιδιοκτησία. Λαμβάνει ή ορίζει μια τιμή που υποδεικνύει εάν αυτό το στιλ παραμόρφωσης της παρουσίας είναι προσαρμοσμένο. Εάν είναι αληθές περιέχει σημεία πλέγματος. Εάν οριστεί σε false διαγράφει σημεία πλέγματος.
+title: "IPlacedLayerResource.IsCustom"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "IPlacedLayerResource ιδιότητα. Λαμβάνει ή ορίζει μια τιμή που υποδεικνύει εάν αυτό το στυλ παραμόρφωσης είναι προσαρμοσμένο. Εάν είναι `true` περιέχει σημεία πλέγματος. Εάν οριστεί σε `false` διαγράφει τα σημεία πλέγματος"
 type: docs
 weight: 60
 url: /el/net/aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/iscustom/
 ---
+{{< psd/tize >}}
 ## IPlacedLayerResource.IsCustom property
 
-Λαμβάνει ή ορίζει μια τιμή που υποδεικνύει εάν αυτό το στιλ παραμόρφωσης της παρουσίας είναι προσαρμοσμένο. Εάν είναι αληθές, περιέχει σημεία πλέγματος. Εάν οριστεί σε false, διαγράφει σημεία πλέγματος.
+Λαμβάνει ή ορίζει μια τιμή που υποδεικνύει αν το στυλ παραμόρφωσης αυτής της παρουσίας είναι προσαρμοσμένο. Εάν είναι true, περιέχει σημεία πλέγματος. Εάν οριστεί σε false, διαγράφει τα σημεία πλέγματος.
 
 ```csharp
 public bool IsCustom { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-`αληθής` εάν ο πόρος στρώματος τοποθετημένου ή έξυπνου αντικειμένου έχει προσαρμοσμένο στυλ. σε διαφορετική περίπτωση,`ψευδής` .
+`true` εάν ο τοποθετημένος ή έξυπνος αντικειμενικός πόρος στρώματος έχει προσαρμοσμένο στυλ· διαφορετικά, `false`.
 
 ### Δείτε επίσης
 
 * interface [IPlacedLayerResource](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../iplacedlayerresource/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

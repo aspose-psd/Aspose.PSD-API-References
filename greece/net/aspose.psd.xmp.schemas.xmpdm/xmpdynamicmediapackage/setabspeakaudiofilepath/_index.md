@@ -1,14 +1,15 @@
 ---
-title: XmpDynamicMediaPackage.SetAbsPeakAudioFilePath
-second_title: Aspose.PSD για Αναφορά API .NET
-description: XmpDynamicMediaPackage μέθοδος. Ορίζει την απόλυτη κορυφαία διαδρομή αρχείου ήχου.
+title: "XmpDynamicMediaPackage.SetAbsPeakAudioFilePath"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "XmpDynamicMediaPackage μέθοδος. Ορίζει τη απόλυτη διαδρομή του αρχείου κορυφαίου ήχου"
 type: docs
 weight: 30
 url: /el/net/aspose.psd.xmp.schemas.xmpdm/xmpdynamicmediapackage/setabspeakaudiofilepath/
 ---
+{{< psd/tize >}}
 ## XmpDynamicMediaPackage.SetAbsPeakAudioFilePath method
 
-Ορίζει την απόλυτη κορυφαία διαδρομή αρχείου ήχου.
+Ορίζει τη διαδρομή του απόλυτου κορυφαίου αρχείου ήχου.
 
 ```csharp
 public void SetAbsPeakAudioFilePath(string uri)
@@ -16,12 +17,12 @@ public void SetAbsPeakAudioFilePath(string uri)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| uri | String | Η απόλυτη διαδρομή προς το κορυφαίο αρχείο ήχου του αρχείου. |
+| uri | String | Η απόλυτη διαδρομή προς το αρχείο κορυφαίου ήχου του αρχείου. |
 
 ### Δείτε επίσης
 
 * class [XmpDynamicMediaPackage](../)
-* χώρος ονομάτων [Aspose.PSD.Xmp.Schemas.XmpDm](../../xmpdynamicmediapackage/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpDm](../../../aspose.psd.xmp.schemas.xmpdm/)
+* assembly [Aspose.PSD](../../../)
 
 

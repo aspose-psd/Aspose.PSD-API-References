@@ -1,14 +1,15 @@
 ---
-title: PsdImageException.PsdImageException
-second_title: Aspose.PSD για Αναφορά API .NET
-description: PsdImageException κατασκευαστής. Αρχικοποιεί μια νέα παρουσία τουPsdImageException τάξη.
+title: "PsdImageException.PsdImageException"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "PsdImageException κατασκευαστής. Αρχικοποιεί ένα νέο στιγμιότυπο της κλάσης PsdImageException."
 type: docs
 weight: 10
 url: /el/net/aspose.psd.coreexceptions.imageformats/psdimageexception/psdimageexception/
 ---
+{{< psd/tize >}}
 ## PsdImageException(string) {#constructor}
 
-Αρχικοποιεί μια νέα παρουσία του[`PsdImageException`](../) τάξη.
+Αρχικοποιεί ένα νέο στιγμιότυπο της κλάσης [`PsdImageException`](../).
 
 ```csharp
 public PsdImageException(string message)
@@ -16,19 +17,19 @@ public PsdImageException(string message)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| message | String | Το μήνυμα εξαίρεσης. |
+| message | String | Το μήνυμα της εξαίρεσης. |
 
 ### Δείτε επίσης
 
 * class [PsdImageException](../)
-* χώρος ονομάτων [Aspose.PSD.CoreExceptions.ImageFormats](../../psdimageexception/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.CoreExceptions.ImageFormats](../../../aspose.psd.coreexceptions.imageformats/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## PsdImageException(string, Exception) {#constructor_1}
 
-Αρχικοποιεί μια νέα παρουσία του[`PsdImageException`](../) τάξη.
+Αρχικοποιεί ένα νέο στιγμιότυπο της κλάσης [`PsdImageException`](../).
 
 ```csharp
 public PsdImageException(string message, Exception innerException)
@@ -36,13 +37,13 @@ public PsdImageException(string message, Exception innerException)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| message | String | Το μήνυμα εξαίρεσης. |
+| message | String | Το μήνυμα της εξαίρεσης. |
 | innerException | Exception | Η εσωτερική εξαίρεση. |
 
 ### Δείτε επίσης
 
 * class [PsdImageException](../)
-* χώρος ονομάτων [Aspose.PSD.CoreExceptions.ImageFormats](../../psdimageexception/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.CoreExceptions.ImageFormats](../../../aspose.psd.coreexceptions.imageformats/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: BritResource.BritResource
-second_title: Aspose.PSD για Αναφορά API .NET
-description: BritResource κατασκευαστής. Αρχικοποιεί μια νέα παρουσία τουBritResource τάξη.
+title: "BritResource.BritResource"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Κατασκευαστής BritResource. Αρχικοποιεί ένα νέο αντικείμενο της κλάσης BritResource"
 type: docs
 weight: 10
 url: /el/net/aspose.psd.fileformats.psd.layers.layerresources/britresource/britresource/
 ---
+{{< psd/tize >}}
 ## BritResource() {#constructor}
 
-Αρχικοποιεί μια νέα παρουσία του[`BritResource`](../) τάξη.
+Αρχικοποιεί ένα νέο αντικείμενο της κλάσης [`BritResource`](../).
 
 ```csharp
 public BritResource()
@@ -17,14 +18,14 @@ public BritResource()
 ### Δείτε επίσης
 
 * class [BritResource](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../britresource/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## BritResource(short, short, short, bool) {#constructor_2}
 
-Αρχικοποιεί μια νέα παρουσία του[`BritResource`](../) τάξη.
+Αρχικοποιεί ένα νέο αντικείμενο της κλάσης [`BritResource`](../).
 
 ```csharp
 public BritResource(short brightness, short contrast, short meanValueForBrightnessAndContrast, 
@@ -33,22 +34,22 @@ public BritResource(short brightness, short contrast, short meanValueForBrightne
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| brightness | Int16 | Η φωτεινότητα. |
-| contrast | Int16 | Η αντίθεση. |
-| meanValueForBrightnessAndContrast | Int16 | Η μέση τιμή για τη φωτεινότητα και την αντίθεση. |
-| labColor | Boolean | εάν έχει οριστεί σε`αληθής` [χρώμα εργαστηρίου]. |
+| φωτεινότητα | Int16 | Η φωτεινότητα. |
+| αντίθεση | Int16 | Η αντίθεση. |
+| meanValueForBrightnessAndContrast | Int16 | Η μέση τιμή για φωτεινότητα και αντίθεση. |
+| labColor | Boolean | αν οριστεί σε `true` [lab color]. |
 
 ### Δείτε επίσης
 
 * class [BritResource](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../britresource/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## BritResource(byte[]) {#constructor_1}
 
-Αρχικοποιεί μια νέα παρουσία του[`BritResource`](../)class. Η προδιαγραφή μορφής PSD περιέχει την ακόλουθη περιγραφή: 2 Brightness 2 Contrast 2 Μέση τιμή για τη φωτεινότητα και την αντίθεση 1 Χρώμα εργαστηρίου μόνο Δεν χρησιμοποιείται στο σύγχρονο PSD (CS5 και άνω) όπου η CgE. Το CgEd αποθηκεύει πληροφορίες ιδιότητες
+Αρχικοποιεί ένα νέο αντικείμενο της κλάσης [`BritResource`](../). Η προδιαγραφή μορφής PSD περιέχει την ακόλουθη περιγραφή: 2 Φωτεινότητα 2 Αντίθεση 2 Μέση τιμή για φωτεινότητα και αντίθεση 1 Μόνο χρώμα Lab. Δεν χρησιμοποιείται σε σύγχρονα PSD (CS5 και μετά) όπου υπάρχει το CgEd. Το CgEd αποθηκεύει ιδιότητες πληροφοριών
 
 ```csharp
 public BritResource(byte[] bytes)
@@ -56,12 +57,12 @@ public BritResource(byte[] bytes)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| bytes | Byte[] | Τα byte. |
+| bytes | Byte[] | Τα bytes. |
 
 ### Δείτε επίσης
 
 * class [BritResource](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../britresource/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

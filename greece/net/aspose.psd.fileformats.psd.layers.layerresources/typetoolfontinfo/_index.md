@@ -1,14 +1,15 @@
 ---
-title: Class TypeToolFontInfo
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolFontInfo τάξη. Περιέχει πληροφορίες σχετικά με τη γραμματοσειρά του εργαλείου τύπου.
+title: "Κλάση TypeToolFontInfo"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolFontInfo κλάση. Περιέχει πληροφορίες σχετικά με τη γραμματοσειρά του εργαλείου τύπου"
 type: docs
-weight: 3080
+weight: 3460
 url: /el/net/aspose.psd.fileformats.psd.layers.layerresources/typetoolfontinfo/
 ---
+{{< psd/tize >}}
 ## TypeToolFontInfo class
 
-Περιέχει πληροφορίες σχετικά με τη γραμματοσειρά του εργαλείου τύπου.
+Περιέχει πληροφορίες σχετικά με τη γραμματοσειρά του εργαλείου κειμένου.
 
 ```csharp
 public class TypeToolFontInfo
@@ -16,33 +17,33 @@ public class TypeToolFontInfo
 
 ## Κατασκευαστές
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
 | [TypeToolFontInfo](typetoolfontinfo/)() | Ο προεπιλεγμένος κατασκευαστής. |
 
 ## Ιδιότητες
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
-| [DesignAxes](../../aspose.psd.fileformats.psd.layers.layerresources/typetoolfontinfo/designaxes/) { get; set; } | Λαμβάνει ή ορίζει το διάνυσμα αξόνων σχεδίασης που θα ακολουθήσει. |
-| [DesignVectorValue](../../aspose.psd.fileformats.psd.layers.layerresources/typetoolfontinfo/designvectorvalue/) { get; set; } | Λαμβάνει ή ορίζει την τιμή διανύσματος σχεδίασης. |
-| [FontFamily](../../aspose.psd.fileformats.psd.layers.layerresources/typetoolfontinfo/fontfamily/) { get; set; } | Λαμβάνει ή ορίζει την οικογένεια γραμματοσειρών. |
-| [FontName](../../aspose.psd.fileformats.psd.layers.layerresources/typetoolfontinfo/fontname/) { get; set; } | Λαμβάνει ή ορίζει το όνομα της γραμματοσειράς. |
+| [DesignAxes](../../aspose.psd.fileformats.psd.layers.layerresources/typetoolfontinfo/designaxes/) { get; set; } | Λαμβάνει ή ορίζει το διάνυσμα αξόνων σχεδίασης προς παρακολούθηση. |
+| [DesignVectorValue](../../aspose.psd.fileformats.psd.layers.layerresources/typetoolfontinfo/designvectorvalue/) { get; set; } | Λαμβάνει ή ορίζει την τιμή του διανύσματος σχεδίασης. |
+| [FontFamily](../../aspose.psd.fileformats.psd.layers.layerresources/typetoolfontinfo/fontfamily/) { get; set; } | Λαμβάνει ή ορίζει την οικογένεια γραμματοσειράς. |
+| [FontName](../../aspose.psd.fileformats.psd.layers.layerresources/typetoolfontinfo/fontname/) { get; set; } | Λαμβάνει ή ορίζει το όνομα γραμματοσειράς. |
 | [FontStyle](../../aspose.psd.fileformats.psd.layers.layerresources/typetoolfontinfo/fontstyle/) { get; set; } | Λαμβάνει ή ορίζει το όνομα του στυλ γραμματοσειράς. |
 | [FontTypeData](../../aspose.psd.fileformats.psd.layers.layerresources/typetoolfontinfo/fonttypedata/) { get; set; } | Λαμβάνει ή ορίζει τα δεδομένα τύπου γραμματοσειράς. |
-| [Length](../../aspose.psd.fileformats.psd.layers.layerresources/typetoolfontinfo/length/) { get; } | Παίρνει το μήκος. |
-| [MarkValue](../../aspose.psd.fileformats.psd.layers.layerresources/typetoolfontinfo/markvalue/) { get; set; } | Λαμβάνει ή ορίζει την τιμή σήμανσης. |
-| [ScriptValue](../../aspose.psd.fileformats.psd.layers.layerresources/typetoolfontinfo/scriptvalue/) { get; set; } | Λαμβάνει ή ορίζει την τιμή του σεναρίου. |
+| [Length](../../aspose.psd.fileformats.psd.layers.layerresources/typetoolfontinfo/length/) { get; } | Λαμβάνει το μήκος. |
+| [MarkValue](../../aspose.psd.fileformats.psd.layers.layerresources/typetoolfontinfo/markvalue/) { get; set; } | Λαμβάνει ή ορίζει την τιμή σήματος. |
+| [ScriptValue](../../aspose.psd.fileformats.psd.layers.layerresources/typetoolfontinfo/scriptvalue/) { get; set; } | Λαμβάνει ή ορίζει την τιμή του script. |
 
 ## Μέθοδοι
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
-| [Save](../../aspose.psd.fileformats.psd.layers.layerresources/typetoolfontinfo/save/)(StreamContainer) | Αποθηκεύει το`TypeToolFontInfo` πληροφορίες στο καθορισμένο κοντέινερ ροής. |
+| [Save](../../aspose.psd.fileformats.psd.layers.layerresources/typetoolfontinfo/save/)(StreamContainer) | Αποθηκεύει τις πληροφορίες `TypeToolFontInfo` στο καθορισμένο container ροής. |
 
 ### Δείτε επίσης
 
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
-* συνέλευση [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../)
 
 

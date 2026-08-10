@@ -1,11 +1,12 @@
 ---
-title: IPlacedLayerResource.PlacedLayerType
-second_title: Aspose.PSD για Αναφορά API .NET
-description: IPlacedLayerResource ιδιοκτησία. Λαμβάνει ή ορίζει τον τύπο του τοποθετημένου στρώματος στο αρχείο PSD.
+title: "IPlacedLayerResource.PlacedLayerType"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "IPlacedLayerResource ιδιότητα. Λαμβάνει ή ορίζει τον τύπο του τοποθετημένου στρώματος στο αρχείο PSD"
 type: docs
 weight: 120
 url: /el/net/aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/placedlayertype/
 ---
+{{< psd/tize >}}
 ## IPlacedLayerResource.PlacedLayerType property
 
 Λαμβάνει ή ορίζει τον τύπο του τοποθετημένου στρώματος στο αρχείο PSD.
@@ -14,7 +15,7 @@ url: /el/net/aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresour
 public PlacedLayerType PlacedLayerType { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
 Ο τύπος του τοποθετημένου στρώματος.
 
@@ -22,7 +23,7 @@ public PlacedLayerType PlacedLayerType { get; set; }
 
 * enum [PlacedLayerType](../../placedlayertype/)
 * interface [IPlacedLayerResource](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../iplacedlayerresource/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

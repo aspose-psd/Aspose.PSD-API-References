@@ -1,32 +1,33 @@
 ---
-title: ColorPalette.Entries
-second_title: Aspose.PSD για Αναφορά API .NET
-description: ColorPalette ιδιοκτησία. Λαμβάνει έναν πίνακα απόColor δομές.
+title: "ColorPalette.Entries"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα ColorPalette. Λαμβάνει έναν πίνακα από δομές Color."
 type: docs
 weight: 40
 url: /el/net/aspose.psd/colorpalette/entries/
 ---
+{{< psd/tize >}}
 ## ColorPalette.Entries property
 
-Λαμβάνει έναν πίνακα από[`Color`](../../color/) δομές.
+Λαμβάνει έναν πίνακα από δομές [`Color`](../../color/).
 
 ```csharp
 public Color[] Entries { get; }
 ```
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-Ο πίνακας των[`Color`](../../color/) δομή που το συνθέτουν[`ColorPalette`](../) .
+Ο πίνακας των δομών [`Color`](../../color/) που αποτελούν αυτή τη [`ColorPalette`](../).
 
-### Αξία περιουσίας
+### Property Value
 
-Οι συμμετοχές.
+Οι καταχωρήσεις.
 
 ### Δείτε επίσης
 
 * struct [Color](../../color/)
 * class [ColorPalette](../)
-* χώρος ονομάτων [Aspose.PSD](../../colorpalette/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

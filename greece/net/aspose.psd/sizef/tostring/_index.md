@@ -1,27 +1,28 @@
 ---
-title: SizeF.ToString
-second_title: Aspose.PSD για Αναφορά API .NET
-description: SizeF μέθοδος. Δημιουργεί μια συμβολοσειρά αναγνώσιμη από τον άνθρωπο που αντιπροσωπεύει αυτόSizeF .
+title: "SizeF.ToString"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Μέθοδος SizeF. Δημιουργεί μια ανθρώπινα αναγνώσιμη συμβολοσειρά που αντιπροσωπεύει αυτό το SizeF"
 type: docs
 weight: 120
 url: /el/net/aspose.psd/sizef/tostring/
 ---
+{{< psd/tize >}}
 ## SizeF.ToString method
 
-Δημιουργεί μια συμβολοσειρά αναγνώσιμη από τον άνθρωπο που αντιπροσωπεύει αυτό[`SizeF`](../) .
+Δημιουργεί μια ευανάγνωστη συμβολοσειρά που αντιπροσωπεύει αυτό το [`SizeF`](../).
 
 ```csharp
 public override string ToString()
 ```
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-Μια συμβολοσειρά που αντιπροσωπεύει αυτό[`SizeF`](../).
+Μια συμβολοσειρά που αντιπροσωπεύει αυτό το [`SizeF`](../).
 
 ### Δείτε επίσης
 
 * struct [SizeF](../)
-* χώρος ονομάτων [Aspose.PSD](../../sizef/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

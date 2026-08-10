@@ -1,14 +1,15 @@
 ---
-title: FixedPointDecimal.FixedPointDecimal
-second_title: Aspose.PSD για Αναφορά API .NET
-description: FixedPointDecimal κατασκευαστής. Αρχικοποιεί μια νέα παρουσία τουFixedPointDecimal τάξη.
+title: "FixedPointDecimal.FixedPointDecimal"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "FixedPointDecimal κατασκευαστής. Αρχικοποιεί μια νέα παρουσία της κλάσης FixedPointDecimal"
 type: docs
 weight: 10
 url: /el/net/aspose.psd.fileformats.psd.resources/fixedpointdecimal/fixedpointdecimal/
 ---
+{{< psd/tize >}}
 ## FixedPointDecimal(int, int) {#constructor_1}
 
-Αρχικοποιεί μια νέα παρουσία του[`FixedPointDecimal`](../) τάξη.
+Αρχικοποιεί μια νέα παρουσία της κλάσης [`FixedPointDecimal`](../).
 
 ```csharp
 public FixedPointDecimal(int integer, int fraction)
@@ -16,20 +17,20 @@ public FixedPointDecimal(int integer, int fraction)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| integer | Int32 | Ο ακέραιος αριθμός. |
-| fraction | Int32 | Το κλάσμα. |
+| ακέραιος | Int32 | Ο ακέραιος. |
+| κλάσμα | Int32 | Το κλάσμα. |
 
 ### Δείτε επίσης
 
 * class [FixedPointDecimal](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Resources](../../fixedpointdecimal/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## FixedPointDecimal(long) {#constructor_2}
 
-Αρχικοποιεί μια νέα παρουσία του[`FixedPointDecimal`](../) τάξη. Διαχωρίστε τις λέξεις υψηλής και χαμηλής τιμής ενός ακέραιου αριθμού 32 bit σε έναν αριθμό σταθερού σημείου.
+Αρχικοποιεί μια νέα παρουσία της κλάσης [`FixedPointDecimal`](../). Διαχωρίζει τις υψηλές και χαμηλές λέξεις ενός 32-bit ακέραιου σε αριθμό σταθερού σημείου.
 
 ```csharp
 public FixedPointDecimal(long value)
@@ -37,19 +38,19 @@ public FixedPointDecimal(long value)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| value | Int64 | Η αξία. |
+| τιμή | Int64 | Η τιμή. |
 
 ### Δείτε επίσης
 
 * class [FixedPointDecimal](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Resources](../../fixedpointdecimal/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## FixedPointDecimal(double) {#constructor}
 
-Αρχικοποιεί μια νέα παρουσία του[`FixedPointDecimal`](../) τάξη.
+Αρχικοποιεί μια νέα παρουσία της κλάσης [`FixedPointDecimal`](../).
 
 ```csharp
 public FixedPointDecimal(double value)
@@ -57,18 +58,18 @@ public FixedPointDecimal(double value)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| value | Double | Η αξία. |
+| τιμή | Double | Η τιμή. |
 
 ### Εξαιρέσεις
 
-| εξαίρεση | κατάσταση |
+| εξαίρεση | συνθήκη |
 | --- | --- |
 | OverflowException |  |
 
 ### Δείτε επίσης
 
 * class [FixedPointDecimal](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Resources](../../fixedpointdecimal/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: PsdOptions.ChannelsCount
-second_title: Aspose.PSD για Αναφορά API .NET
-description: PsdOptions ιδιοκτησία. Λαμβάνει ή ρυθμίζει τον αριθμό των καναλιών χρώματος.
+title: "PsdOptions.ChannelsCount"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα PsdOptions. Λαμβάνει ή ορίζει τον αριθμό των καναλιών χρώματος"
 type: docs
-weight: 30
+weight: 40
 url: /el/net/aspose.psd.imageoptions/psdoptions/channelscount/
 ---
+{{< psd/tize >}}
 ## PsdOptions.ChannelsCount property
 
-Λαμβάνει ή ρυθμίζει τον αριθμό των καναλιών χρώματος.
+Λαμβάνει ή ορίζει τον αριθμό των καναλιών χρώματος.
 
 ```csharp
 public short ChannelsCount { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Τα κανάλια χρώματος μετράνε.
+Ο αριθμός των καναλιών χρώματος.
 
 ### Δείτε επίσης
 
 * class [PsdOptions](../)
-* χώρος ονομάτων [Aspose.PSD.ImageOptions](../../psdoptions/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

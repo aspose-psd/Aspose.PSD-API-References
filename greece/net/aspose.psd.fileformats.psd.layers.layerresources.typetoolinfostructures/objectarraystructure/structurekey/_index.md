@@ -1,14 +1,15 @@
 ---
-title: ObjectArrayStructure.StructureKey
-second_title: Aspose.PSD για Αναφορά API .NET
-description: ObjectArrayStructure πεδίο. Προσδιορίζει το κλειδί δομής ObAr.
+title: "ObjectArrayStructure.StructureKey"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "ObjectArrayStructure πεδίο. Αναγνωρίζει το κλειδί της δομής ObAr"
 type: docs
 weight: 80
 url: /el/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/objectarraystructure/structurekey/
 ---
+{{< psd/tize >}}
 ## ObjectArrayStructure.StructureKey field
 
-Προσδιορίζει το κλειδί δομής "ObAr".
+Αναγνωρίζει το κλειδί δομής 'ObAr'.
 
 ```csharp
 public const int StructureKey;
@@ -17,7 +18,7 @@ public const int StructureKey;
 ### Δείτε επίσης
 
 * class [ObjectArrayStructure](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../objectarraystructure/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 

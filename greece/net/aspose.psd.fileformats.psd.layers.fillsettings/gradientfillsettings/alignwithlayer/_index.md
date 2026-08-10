@@ -1,27 +1,28 @@
 ---
-title: GradientFillSettings.AlignWithLayer
-second_title: Aspose.PSD για Αναφορά API .NET
-description: GradientFillSettings ιδιοκτησία. Λαμβάνει ή ορίζει μια τιμή που υποδεικνύει εάν ευθυγράμμιση με το επίπεδο.
+title: "GradientFillSettings.AlignWithLayer"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα GradientFillSettings. Λαμβάνει ή ορίζει τιμή που υποδεικνύει εάν ευθυγραμμίζεται με τη στρώση"
 type: docs
 weight: 20
 url: /el/net/aspose.psd.fileformats.psd.layers.fillsettings/gradientfillsettings/alignwithlayer/
 ---
+{{< psd/tize >}}
 ## GradientFillSettings.AlignWithLayer property
 
-Λαμβάνει ή ορίζει μια τιμή που υποδεικνύει εάν [ευθυγράμμιση με το επίπεδο].
+Λαμβάνει ή ορίζει μια τιμή που υποδεικνύει εάν αυτό το `BaseGradientFillSettings` είναι με θόρυβο.
 
 ```csharp
 public bool AlignWithLayer { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-`αληθής` εάν [ευθυγράμμιση με στρώμα]; σε διαφορετική περίπτωση,`ψευδής` .
+`true` αν [ευθυγραμμίζεται με το στρώμα]; διαφορετικά, `false`.
 
 ### Δείτε επίσης
 
 * class [GradientFillSettings](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../gradientfillsettings/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../../)
 
 

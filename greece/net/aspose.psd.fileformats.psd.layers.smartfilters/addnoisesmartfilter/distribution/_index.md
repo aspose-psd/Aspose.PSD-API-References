@@ -1,20 +1,21 @@
 ---
-title: AddNoiseSmartFilter.Distribution
-second_title: Aspose.PSD για Αναφορά API .NET
-description: AddNoiseSmartFilter ιδιοκτησία. Λαμβάνει ή ρυθμίζει την κατανομή του φίλτρου θορύβου.
+title: "AddNoiseSmartFilter.Distribution"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "AddNoiseSmartFilter ιδιότητα. Λαμβάνει ή ορίζει την κατανομή του φίλτρου θορύβου"
 type: docs
 weight: 30
 url: /el/net/aspose.psd.fileformats.psd.layers.smartfilters/addnoisesmartfilter/distribution/
 ---
+{{< psd/tize >}}
 ## AddNoiseSmartFilter.Distribution property
 
-Λαμβάνει ή ρυθμίζει την κατανομή του φίλτρου θορύβου.
+Λαμβάνει ή ορίζει την κατανομή του φίλτρου θορύβου.
 
 ```csharp
 public NoiseDistribution Distribution { get; set; }
 ```
 
-### Παραδείγματα
+## Παραδείγματα
 
 Αυτό το παράδειγμα δείχνει την υποστήριξη της διεπαφής έξυπνων φίλτρων.
 
@@ -36,7 +37,7 @@ using (var image = (PsdImage)Image.Load(sourceFilte))
 {
     SmartObjectLayer smartObj = (SmartObjectLayer)image.Layers[1];
 
-    // Επεξεργασία έξυπνων φίλτρων
+    // επεξεργασία έξυπνων φίλτρων
     GaussianBlurSmartFilter gaussianBlur = (GaussianBlurSmartFilter)smartObj.SmartFilters.Filters[0];
 
     // έλεγχος τιμών φίλτρου
@@ -90,7 +91,7 @@ using (var image = (PsdImage)Image.Load(outputPsd))
 
 * enum [NoiseDistribution](../../noisedistribution/)
 * class [AddNoiseSmartFilter](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.SmartFilters](../../addnoisesmartfilter/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.SmartFilters](../../../aspose.psd.fileformats.psd.layers.smartfilters/)
+* assembly [Aspose.PSD](../../../)
 
 

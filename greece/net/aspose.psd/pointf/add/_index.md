@@ -1,14 +1,15 @@
 ---
-title: PointF.Add
-second_title: Aspose.PSD για Αναφορά API .NET
-description: PointF μέθοδος. Μεταφράζει ένα δεδομένοPointF από τα καθορισμέναSize .
+title: "PointF.Add"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Μέθοδος PointF. Μετατοπίζει ένα δεδομένο PointF κατά το καθορισμένο Size."
 type: docs
 weight: 30
 url: /el/net/aspose.psd/pointf/add/
 ---
+{{< psd/tize >}}
 ## Add(PointF, Size) {#add}
 
-Μεταφράζει ένα δεδομένο[`PointF`](../) από τα καθορισμένα[`Size`](../../size/) .
+Μετατοπίζει ένα δεδομένο [`PointF`](../) κατά το καθορισμένο [`Size`](../../size/).
 
 ```csharp
 public static PointF Add(PointF point, Size size)
@@ -16,25 +17,25 @@ public static PointF Add(PointF point, Size size)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| point | PointF | ο[`PointF`](../) να μεταφράσω. |
-| size | Size | ο[`Size`](../../size/) που καθορίζει τους αριθμούς που θα προστεθούν στις συντεταγμένες του*point*. |
+| point | PointF | Το [`PointF`](../) προς μετατόπιση. |
+| size | Size | Το [`Size`](../../size/) που καθορίζει τους αριθμούς που θα προστεθούν στις συντεταγμένες του *point*. |
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-Το μεταφρασμένο[`PointF`](../).
+Το μετατοπισμένο [`PointF`](../).
 
 ### Δείτε επίσης
 
 * struct [Size](../../size/)
 * struct [PointF](../)
-* χώρος ονομάτων [Aspose.PSD](../../pointf/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Add(PointF, SizeF) {#add_1}
 
-Μεταφράζει ένα δεδομένο[`PointF`](../) από ένα καθορισμένο[`SizeF`](../../sizef/) .
+Μετατοπίζει ένα δεδομένο [`PointF`](../) κατά ένα καθορισμένο [`SizeF`](../../sizef/).
 
 ```csharp
 public static PointF Add(PointF point, SizeF size)
@@ -42,18 +43,18 @@ public static PointF Add(PointF point, SizeF size)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| point | PointF | ο[`PointF`](../) να μεταφράσω. |
-| size | SizeF | ο[`SizeF`](../../sizef/) που καθορίζει τους αριθμούς που θα προστεθούν στις συντεταγμένες του*point*. |
+| point | PointF | Το [`PointF`](../) προς μετατόπιση. |
+| size | SizeF | Το [`SizeF`](../../sizef/) που καθορίζει τους αριθμούς που θα προστεθούν στις συντεταγμένες του *point*. |
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-Το μεταφρασμένο[`PointF`](../).
+Το μετατοπισμένο [`PointF`](../).
 
 ### Δείτε επίσης
 
 * struct [SizeF](../../sizef/)
 * struct [PointF](../)
-* χώρος ονομάτων [Aspose.PSD](../../pointf/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

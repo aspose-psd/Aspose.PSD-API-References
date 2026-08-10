@@ -1,26 +1,28 @@
 ---
-title: IGradientFillSettings.ColorPoints
-second_title: Aspose.PSD για Αναφορά API .NET
-description: IGradientFillSettings ιδιοκτησία. Παίρνει τους χρωματικούς πόντους.
+title: "IGradientFillSettings.ColorPoints"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα IGradientFillSettings. Λαμβάνει τα σημεία χρώματος"
 type: docs
 weight: 40
 url: /el/net/aspose.psd.fileformats.psd.layers.fillsettings/igradientfillsettings/colorpoints/
 ---
+{{< psd/tize >}}
 ## IGradientFillSettings.ColorPoints property
 
-Παίρνει τους χρωματικούς πόντους.
+Λαμβάνει τα σημεία χρώματος.
 
 ```csharp
+[Obsolete("This property is obsolete. It is moved to GradientFillSettings class. Property will be removed in 23.10 release.")]
 public IGradientColorPoint[] ColorPoints { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
 Τα σημεία χρώματος.
 
-### Παραδείγματα
+## Παραδείγματα
 
-Το παρακάτω παράδειγμα δείχνει την υποστήριξη Gradient FillLayer και τις επιλογές επεξεργασίας IGradientFillSettings..
+Το παρακάτω παράδειγμα δείχνει την υποστήριξη του Gradient FillLayer και τις επιλογές επεξεργασίας του IGradientFillSettings.
 
 ```csharp
 [C#]
@@ -39,7 +41,7 @@ using (im)
             {
                 throw new Exception("Wrong Fill Layer");
             }
-            var settings = (IGradientFillSettings)fillLayer.FillSettings;
+            var settings = (GradientFillSettings)fillLayer.FillSettings;
             if (
              Math.Abs(settings.Angle - 45) > 0.25 ||
              settings.Dither != true ||
@@ -94,7 +96,7 @@ using (im)
 
 * interface [IGradientColorPoint](../../../aspose.psd.fileformats.psd.layers/igradientcolorpoint/)
 * interface [IGradientFillSettings](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../igradientfillsettings/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../../)
 
 

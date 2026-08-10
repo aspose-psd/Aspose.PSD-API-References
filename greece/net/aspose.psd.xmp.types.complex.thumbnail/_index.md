@@ -1,17 +1,18 @@
 ---
-title: Aspose.PSD.Xmp.Types.Complex.Thumbnail
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Ο χώρος ονομάτων περιέχει κλάση που είναι μια μικρογραφία για ένα αρχείο.
+title: "Aspose.PSD.Xmp.Types.Complex.Thumbnail"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ο χώρος ονομάτων περιέχει κλάση που είναι μια μικρογραφία εικόνας για ένα αρχείο"
 type: docs
-weight: 680
+weight: 720
 url: /el/net/aspose.psd.xmp.types.complex.thumbnail/
 ---
-Ο χώρος ονομάτων περιέχει κλάση που είναι μια μικρογραφία για ένα αρχείο.
+{{< psd/tize >}}
+Ο χώρος ονομάτων περιέχει κλάση που είναι μια μικρογραφία εικόνας για ένα αρχείο.
 
-## Τάξεις
+## Κλάσεις
 
-| Τάξη | Περιγραφή |
+| Κλάση | Περιγραφή |
 | --- | --- |
-| [Thumbnail](./thumbnail/) | Αντιπροσωπεύει μια εικόνα μικρογραφίας για ένα αρχείο. |
+| [Thumbnail](./thumbnail/) | Αναπαριστά μικρογραφία εικόνας για ένα αρχείο. |
 
 

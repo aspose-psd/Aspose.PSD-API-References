@@ -1,14 +1,15 @@
 ---
-title: CmykColor.Equals
-second_title: Aspose.PSD για Αναφορά API .NET
-description: CmykColor μέθοδος. Καθορίζει εάν το καθορισμένοObject  ισούται με αυτήν την περίπτωση.
+title: "CmykColor.Equals"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Μέθοδος CmykColor. Καθορίζει εάν το συγκεκριμένο Object είναι ίσο με αυτήν την παρουσία"
 type: docs
-weight: 70
+weight: 80
 url: /el/net/aspose.psd/cmykcolor/equals/
 ---
+{{< psd/tize >}}
 ## CmykColor.Equals method
 
-Καθορίζει εάν το καθορισμένοObject , ισούται με αυτήν την περίπτωση.
+Καθορίζει εάν το καθορισμένο Object είναι ίσο με αυτήν την παρουσία.
 
 ```csharp
 public override bool Equals(object obj)
@@ -16,16 +17,16 @@ public override bool Equals(object obj)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| obj | Object | οObject για σύγκριση με αυτήν την περίπτωση. |
+| obj | Object | Το Object για σύγκριση με αυτήν την παρουσία. |
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-`αληθής` εάν το καθορισμένοObject ισούται με αυτήν την περίπτωση. σε διαφορετική περίπτωση,`ψευδής` .
+`true` εάν το καθορισμένο Object είναι ίσο με αυτήν την παρουσία· διαφορετικά, `false`.
 
 ### Δείτε επίσης
 
 * struct [CmykColor](../)
-* χώρος ονομάτων [Aspose.PSD](../../cmykcolor/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

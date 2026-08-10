@@ -1,52 +1,53 @@
 ---
-title: Class Lr32Resource
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.Lr32Resource τάξη. Ο πόρος lr32.
+title: "Κλάση Lr32Resource"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Aspose.PSD.FileFormats.Psd.Layers.LayerResources.Lr32Resource κλάση. Ο πόρος lr32"
 type: docs
-weight: 2780
+weight: 3090
 url: /el/net/aspose.psd.fileformats.psd.layers.layerresources/lr32resource/
 ---
+{{< psd/tize >}}
 ## Lr32Resource class
 
 Ο πόρος lr32.
 
 ```csharp
-public class Lr32Resource : LayerResource
+public class Lr32Resource : LrXxResource
 ```
 
 ## Κατασκευαστές
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
-| [Lr32Resource](lr32resource/)(int) | Αρχικοποιεί μια νέα παρουσία του`Lr32Resource` τάξη. |
+| [Lr32Resource](lr32resource/)() | Ο προεπιλεγμένος κατασκευαστής. |
 
 ## Ιδιότητες
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
-| override [Key](../../aspose.psd.fileformats.psd.layers.layerresources/lr32resource/key/) { get; } | Λαμβάνει το κλειδί πόρων επιπέδου. |
-| [Layers](../../aspose.psd.fileformats.psd.layers.layerresources/lr32resource/layers/) { get; set; } | Λαμβάνει ή ορίζει τα επίπεδα. |
-| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/lr32resource/length/) { get; } | Παίρνει το μήκος. |
-| override [PsdVersion](../../aspose.psd.fileformats.psd.layers.layerresources/lr32resource/psdversion/) { get; } | Λαμβάνει την έκδοση psd. |
-| override [Signature](../../aspose.psd.fileformats.psd.layers.layerresources/lr32resource/signature/) { get; } | Παίρνει την υπογραφή. |
+| [Key](../../aspose.psd.fileformats.psd.layers/layerresource/key/) { get; } | Λαμβάνει το κλειδί πόρου του επιπέδου. |
+| [Layers](../../aspose.psd.fileformats.psd.layers.layerresources/lrxxresource/layers/) { get; set; } | Λαμβάνει ή ορίζει τις στρώσεις. |
+| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/lrxxresource/length/) { get; } | Λαμβάνει το μήκος του πόρου για την έκδοση κεφαλίδας PSD της εικόνας. |
+| virtual [PsdVersion](../../aspose.psd.fileformats.psd.layers/layerresource/psdversion/) { get; } | Λαμβάνει την ελάχιστη έκδοση psd που απαιτείται για τον πόρο του επιπέδου. 0 υποδεικνύει ότι δεν υπάρχουν περιορισμοί. |
+| virtual [Signature](../../aspose.psd.fileformats.psd.layers/layerresource/signature/) { get; } | Λαμβάνει την υπογραφή. |
 
 ## Μέθοδοι
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
-| override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/lr32resource/save/)(StreamContainer, int) | Αποθηκεύει την εγγραφή επιπέδου. |
-| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring/)() | Επιστρέφει αString που αντιπροσωπεύει αυτήν την περίπτωση. |
+| override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/lrxxresource/save/)(StreamContainer, int) | Αποθηκεύει την εγγραφή της στρώσης. |
+| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring/)() | Επιστρέφει ένα String που αντιπροσωπεύει αυτήν την περίπτωση. |
 
 ## Πεδία
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
-| const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/lr32resource/typetoolkey/) | Το κλειδί πληροφοριών εργαλείου τύπου. |
+| const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/lr32resource/typetoolkey/) | Το κλειδί πληροφοριών του εργαλείου τύπου. |
 
 ### Δείτε επίσης
 
-* class [LayerResource](../../aspose.psd.fileformats.psd.layers/layerresource/)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
-* συνέλευση [Aspose.PSD](../../)
+* class [LrXxResource](../lrxxresource/)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../)
 
 

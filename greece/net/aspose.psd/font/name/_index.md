@@ -1,27 +1,28 @@
 ---
-title: Font.Name
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Font ιδιοκτησία. Λαμβάνει το όνομα προσώπου αυτούFont .
+title: "Font.Name"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα Font. Επιστρέφει το όνομα γραμματοσειράς αυτής της Font."
 type: docs
 weight: 50
 url: /el/net/aspose.psd/font/name/
 ---
+{{< psd/tize >}}
 ## Font.Name property
 
-Λαμβάνει το όνομα προσώπου αυτού[`Font`](../) .
+Επιστρέφει το όνομα γραμματοσειράς αυτής της [`Font`](../).
 
 ```csharp
 public string Name { get; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Μια συμβολοσειρά του ονόματος προσώπου αυτού[`Font`](../).
+Μια συμβολοσειρά που αντιπροσωπεύει το όνομα γραμματοσειράς αυτής της [`Font`](../).
 
 ### Δείτε επίσης
 
 * class [Font](../)
-* χώρος ονομάτων [Aspose.PSD](../../font/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

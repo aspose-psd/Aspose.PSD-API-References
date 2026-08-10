@@ -1,28 +1,29 @@
 ---
-title: RasterImage.RawDataFormat
-second_title: Aspose.PSD για Αναφορά API .NET
-description: RasterImage ιδιοκτησία. Λαμβάνει τη μορφή πρωτογενών δεδομένων.
+title: "RasterImage.RawDataFormat"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "RasterImage ιδιότητα. Λαμβάνει τη μορφή των ακατέργαστων δεδομένων"
 type: docs
 weight: 80
 url: /el/net/aspose.psd/rasterimage/rawdataformat/
 ---
+{{< psd/tize >}}
 ## RasterImage.RawDataFormat property
 
-Λαμβάνει τη μορφή πρωτογενών δεδομένων.
+Λαμβάνει τη μορφή ακατέργαστων δεδομένων.
 
 ```csharp
 public virtual PixelDataFormat RawDataFormat { get; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Η μορφή πρωτογενών δεδομένων.
+Η μορφή των ακατέργαστων δεδομένων.
 
 ### Δείτε επίσης
 
 * class [PixelDataFormat](../../pixeldataformat/)
 * class [RasterImage](../)
-* χώρος ονομάτων [Aspose.PSD](../../rasterimage/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

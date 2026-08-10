@@ -1,11 +1,12 @@
 ---
-title: TypeToolInfoResource.Lines
-second_title: Aspose.PSD για Αναφορά API .NET
-description: TypeToolInfoResource ιδιοκτησία. Λαμβάνει ή ορίζει τις γραμμές.
+title: "TypeToolInfoResource.Lines"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "TypeToolInfoResource property. Λαμβάνει ή ορίζει τις γραμμές"
 type: docs
-weight: 140
+weight: 130
 url: /el/net/aspose.psd.fileformats.psd.layers.layerresources/typetoolinforesource/lines/
 ---
+{{< psd/tize >}}
 ## TypeToolInfoResource.Lines property
 
 Λαμβάνει ή ορίζει τις γραμμές.
@@ -14,7 +15,7 @@ url: /el/net/aspose.psd.fileformats.psd.layers.layerresources/typetoolinforesour
 public TypeToolLineInfo[] Lines { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
 Οι γραμμές.
 
@@ -22,7 +23,7 @@ public TypeToolLineInfo[] Lines { get; set; }
 
 * class [TypeToolLineInfo](../../typetoollineinfo/)
 * class [TypeToolInfoResource](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../typetoolinforesource/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

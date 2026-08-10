@@ -1,14 +1,15 @@
 ---
-title: PathStructure.PathStructure
-second_title: Aspose.PSD για Αναφορά API .NET
-description: PathStructure κατασκευαστής. Αρχικοποιεί μια νέα παρουσία τουPathStructure τάξη.
+title: "PathStructure.PathStructure"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Κατασκευαστής PathStructure. Αρχικοποιεί μια νέα παρουσία της κλάσης PathStructure"
 type: docs
 weight: 10
 url: /el/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/pathstructure/pathstructure/
 ---
+{{< psd/tize >}}
 ## PathStructure constructor
 
-Αρχικοποιεί μια νέα παρουσία του[`PathStructure`](../) τάξη.
+Αρχικοποιεί μια νέα παρουσία της κλάσης [`PathStructure`](../).
 
 ```csharp
 public PathStructure(ClassID keyName)
@@ -18,9 +19,9 @@ public PathStructure(ClassID keyName)
 | --- | --- | --- |
 | keyName | ClassID | Το όνομα κλειδιού. |
 
-### Παραδείγματα
+## Παραδείγματα
 
-Ο παρακάτω κώδικας δείχνει τη δυνατότητα φόρτωσης αρχείου με δομή PathStructure.
+Ο παρακάτω κώδικας δείχνει τη δυνατότητα φόρτωσης αρχείου με τη δομή PathStructure.
 
 ```csharp
 [C#]
@@ -38,7 +39,7 @@ using (PsdImage image = (PsdImage)Image.Load(srcFile))
 
 * class [ClassID](../../../aspose.psd.fileformats.psd.layers.layerresources/classid/)
 * class [PathStructure](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../pathstructure/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 

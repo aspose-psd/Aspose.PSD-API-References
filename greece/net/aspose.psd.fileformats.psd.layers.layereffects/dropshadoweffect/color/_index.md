@@ -1,24 +1,25 @@
 ---
-title: DropShadowEffect.Color
-second_title: Aspose.PSD για Αναφορά API .NET
-description: DropShadowEffect ιδιοκτησία. Παίρνει ή ρυθμίζει το χρώμα.
+title: "DropShadowEffect.Color"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "DropShadowEffect ιδιότητα. Λαμβάνει ή ορίζει το χρώμα"
 type: docs
 weight: 30
 url: /el/net/aspose.psd.fileformats.psd.layers.layereffects/dropshadoweffect/color/
 ---
+{{< psd/tize >}}
 ## DropShadowEffect.Color property
 
-Παίρνει ή ρυθμίζει το χρώμα.
+Λαμβάνει ή ορίζει το χρώμα.
 
 ```csharp
 public Color Color { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
 Το χρώμα.
 
-### Παραδείγματα
+## Παραδείγματα
 
 Ο παρακάτω κώδικας δείχνει τη χρήση της ιδιότητας Opacity του DropShadowEffect.
 
@@ -37,11 +38,11 @@ using (PsdImage psdImage = (PsdImage)Image.Load(inputFile, new LoadOptions()))
     dropShadowEffect.Distance = 0;
     dropShadowEffect.Size = 8;
 
-    // Παράδειγμα με Αδιαφάνεια = 20
+    // Παράδειγμα με Opacity = 20
     dropShadowEffect.Opacity = 20;
     psdImage.Save(outputImage20, new PngOptions());
 
-    // Παράδειγμα με Αδιαφάνεια = 200
+    // Παράδειγμα με Opacity = 200
     dropShadowEffect.Opacity = 200;
     psdImage.Save(outputImage200, new PngOptions());
 }
@@ -51,7 +52,7 @@ using (PsdImage psdImage = (PsdImage)Image.Load(inputFile, new LoadOptions()))
 
 * struct [Color](../../../aspose.psd/color/)
 * class [DropShadowEffect](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../dropshadoweffect/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: ReferenceStructure.ReferenceStructure
-second_title: Aspose.PSD για Αναφορά API .NET
-description: ReferenceStructure κατασκευαστής. Αρχικοποιεί μια νέα παρουσία τουReferenceStructure τάξη.
+title: "ReferenceStructure.ReferenceStructure"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Κατασκευαστής ReferenceStructure. Αρχικοποιεί μια νέα παρουσία της κλάσης ReferenceStructure"
 type: docs
 weight: 10
 url: /el/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/referencestructure/referencestructure/
 ---
+{{< psd/tize >}}
 ## ReferenceStructure constructor
 
-Αρχικοποιεί μια νέα παρουσία του[`ReferenceStructure`](../) τάξη.
+Αρχικοποιεί μια νέα παρουσία της κλάσης [`ReferenceStructure`](../).
 
 ```csharp
 public ReferenceStructure(ClassID keyName)
@@ -22,7 +23,7 @@ public ReferenceStructure(ClassID keyName)
 
 * class [ClassID](../../../aspose.psd.fileformats.psd.layers.layerresources/classid/)
 * class [ReferenceStructure](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../referencestructure/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 

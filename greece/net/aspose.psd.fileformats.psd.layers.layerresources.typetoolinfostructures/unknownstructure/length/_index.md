@@ -1,14 +1,15 @@
 ---
-title: UnknownStructure.Length
-second_title: Aspose.PSD για Αναφορά API .NET
-description: UnknownStructure ιδιοκτησία. Λαμβάνει τοOSTypeStructure μήκος σε byte.
+title: "UnknownStructure.Length"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα UnknownStructure. Λαμβάνει το μήκος του OSTypeStructure σε bytes"
 type: docs
 weight: 40
 url: /el/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/unknownstructure/length/
 ---
+{{< psd/tize >}}
 ## UnknownStructure.Length property
 
-Λαμβάνει το[`OSTypeStructure`](../../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/) μήκος σε byte.
+Λαμβάνει το μήκος του [`OSTypeStructure`](../../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/) σε bytes.
 
 ```csharp
 public override int Length { get; }
@@ -17,7 +18,7 @@ public override int Length { get; }
 ### Δείτε επίσης
 
 * class [UnknownStructure](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../unknownstructure/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 

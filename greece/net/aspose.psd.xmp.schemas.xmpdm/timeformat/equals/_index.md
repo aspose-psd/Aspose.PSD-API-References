@@ -1,14 +1,15 @@
 ---
-title: TimeFormat.Equals
-second_title: Aspose.PSD για Αναφορά API .NET
-description: TimeFormat μέθοδος. Υποδεικνύει εάν το τρέχον αντικείμενο είναι ίσο με άλλο αντικείμενο του ίδιου τύπου.
+title: "TimeFormat.Equals"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "TimeFormat μέθοδος. Υποδεικνύει εάν το τρέχον αντικείμενο είναι ίσο με άλλο αντικείμενο του ίδιου τύπου"
 type: docs
 weight: 110
 url: /el/net/aspose.psd.xmp.schemas.xmpdm/timeformat/equals/
 ---
+{{< psd/tize >}}
 ## Equals(TimeFormat) {#equals}
 
-Υποδεικνύει εάν το τρέχον αντικείμενο είναι ίσο με άλλο αντικείμενο του ίδιου τύπου.
+Δείχνει εάν το τρέχον αντικείμενο είναι ίσο με άλλο αντικείμενο του ίδιου τύπου.
 
 ```csharp
 public bool Equals(TimeFormat other)
@@ -16,23 +17,23 @@ public bool Equals(TimeFormat other)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| other | TimeFormat | Ένα αντικείμενο προς σύγκριση με αυτό το αντικείμενο. |
+| other | TimeFormat | Ένα αντικείμενο για σύγκριση με αυτό το αντικείμενο. |
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-true αν το τρέχον αντικείμενο είναι ίσο με το*other* παράμετρος? διαφορετικά, ψευδής.
+αληθές εάν το τρέχον αντικείμενο είναι ίσο με την παράμετρο *other*· διαφορετικά, ψευδές.
 
 ### Δείτε επίσης
 
 * class [TimeFormat](../)
-* χώρος ονομάτων [Aspose.PSD.Xmp.Schemas.XmpDm](../../timeformat/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpDm](../../../aspose.psd.xmp.schemas.xmpdm/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Equals(object) {#equals_1}
 
-Καθορίζει εάν το καθορισμένοObject , ισούται με αυτήν την περίπτωση.
+Καθορίζει εάν το καθορισμένο Object είναι ίσο με αυτήν την παρουσία.
 
 ```csharp
 public override bool Equals(object obj)
@@ -40,16 +41,16 @@ public override bool Equals(object obj)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| obj | Object | οObject για σύγκριση με αυτήν την περίπτωση. |
+| obj | Object | Το Object για σύγκριση με αυτήν την παρουσία. |
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-`αληθής` εάν το καθορισμένοObject ισούται με αυτήν την περίπτωση. σε διαφορετική περίπτωση,`ψευδής` .
+`true` εάν το καθορισμένο Object είναι ίσο με αυτήν την παρουσία· διαφορετικά, `false`.
 
 ### Δείτε επίσης
 
 * class [TimeFormat](../)
-* χώρος ονομάτων [Aspose.PSD.Xmp.Schemas.XmpDm](../../timeformat/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpDm](../../../aspose.psd.xmp.schemas.xmpdm/)
+* assembly [Aspose.PSD](../../../)
 
 

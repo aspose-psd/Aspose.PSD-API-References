@@ -1,11 +1,12 @@
 ---
-title: TiffOptions.PageName
-second_title: Aspose.PSD για Αναφορά API .NET
-description: TiffOptions ιδιοκτησία. Λαμβάνει ή ορίζει το όνομα της σελίδας.
+title: "TiffOptions.PageName"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα TiffOptions. Λαμβάνει ή ορίζει το όνομα της σελίδας"
 type: docs
-weight: 290
+weight: 300
 url: /el/net/aspose.psd.imageoptions/tiffoptions/pagename/
 ---
+{{< psd/tize >}}
 ## TiffOptions.PageName property
 
 Λαμβάνει ή ορίζει το όνομα της σελίδας.
@@ -14,14 +15,14 @@ url: /el/net/aspose.psd.imageoptions/tiffoptions/pagename/
 public string PageName { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
 Το όνομα της σελίδας.
 
 ### Δείτε επίσης
 
 * class [TiffOptions](../)
-* χώρος ονομάτων [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

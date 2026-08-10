@@ -1,11 +1,12 @@
 ---
-title: ExifData.GPSVersionID
-second_title: Aspose.PSD για Αναφορά API .NET
-description: ExifData ιδιοκτησία. Λαμβάνει ή ορίζει το αναγνωριστικό έκδοσης GPS.
+title: "ExifData.GPSVersionID"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα ExifData. Λαμβάνει ή ορίζει το αναγνωριστικό έκδοσης GPS"
 type: docs
 weight: 670
 url: /el/net/aspose.psd.exif/exifdata/gpsversionid/
 ---
+{{< psd/tize >}}
 ## ExifData.GPSVersionID property
 
 Λαμβάνει ή ορίζει το αναγνωριστικό έκδοσης GPS.
@@ -14,14 +15,14 @@ url: /el/net/aspose.psd.exif/exifdata/gpsversionid/
 public byte[] GPSVersionID { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
 Το αναγνωριστικό έκδοσης GPS.
 
 ### Δείτε επίσης
 
 * class [ExifData](../)
-* χώρος ονομάτων [Aspose.PSD.Exif](../../exifdata/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

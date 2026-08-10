@@ -1,30 +1,31 @@
 ---
-title: Enum ExifColorSpace
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Aspose.PSD.Exif.Enums.ExifColorSpace αρίθμηση. exif χρωματικός αριθμός enum.
+title: "Απαρίθμηση ExifColorSpace"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Aspose.PSD.Exif.Enums.ExifColorSpace enum. χρωματικός χώρος exif enum"
 type: docs
-weight: 800
+weight: 810
 url: /el/net/aspose.psd.exif.enums/exifcolorspace/
 ---
+{{< psd/tize >}}
 ## ExifColorSpace enumeration
 
-exif χρωματικός αριθμός enum.
+exif χρωματικός χώρος enum.
 
 ```csharp
 public enum ExifColorSpace
 ```
 
-### Αξίες
+### Τιμές
 
-| Ονομα | αξία | Περιγραφή |
+| Όνομα | Τιμή | Περιγραφή |
 | --- | --- | --- |
-| SRgb | `1` | χρωματικός χώρος SRGB. |
-| AdobeRgb | `2` | Χρωματικός χώρος Adobe rgb. |
-| Uncalibrated | `65535` | Μη βαθμονομημένος χρωματικός χώρος. |
+| SRgb | `1` | Χρωματικός χώρος SRGB. |
+| AdobeRgb | `2` | Χρωματικός χώρος Adobe RGB. |
+| Uncalibrated | `65535` | Μη βαθμονόμητος χρωματικός χώρος. |
 
 ### Δείτε επίσης
 
-* χώρος ονομάτων [Aspose.PSD.Exif.Enums](../../aspose.psd.exif.enums/)
-* συνέλευση [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Exif.Enums](../../aspose.psd.exif.enums/)
+* assembly [Aspose.PSD](../../)
 
 

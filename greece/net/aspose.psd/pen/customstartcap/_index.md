@@ -1,34 +1,35 @@
 ---
-title: Pen.CustomStartCap
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Pen ιδιοκτησία. Λαμβάνει ή ορίζει ένα προσαρμοσμένο όριο για χρήση στην αρχή των γραμμών που σχεδιάζονται με αυτόPen .
+title: "Pen.CustomStartCap"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα Pen. Λαμβάνει ή ορίζει ένα προσαρμοσμένο άκρο για χρήση στην αρχή των γραμμών που σχεδιάζονται με αυτό το Pen."
 type: docs
 weight: 70
 url: /el/net/aspose.psd/pen/customstartcap/
 ---
+{{< psd/tize >}}
 ## Pen.CustomStartCap property
 
-Λαμβάνει ή ορίζει ένα προσαρμοσμένο όριο για χρήση στην αρχή των γραμμών που σχεδιάζονται με αυτό[`Pen`](../) .
+Λαμβάνει ή ορίζει ένα προσαρμοσμένο άκρο για χρήση στην αρχή των γραμμών που σχεδιάζονται με αυτό το [`Pen`](../).
 
 ```csharp
 public CustomLineCap CustomStartCap { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-ΕΝΑ[`CustomLineCap`](../../customlinecap/) που αντιπροσωπεύει το καπάκι που χρησιμοποιείται στην αρχή των γραμμών που σχεδιάζονται με αυτό[`Pen`](../).
+Ένα [`CustomLineCap`](../../customlinecap/) που αντιπροσωπεύει το άκρο που χρησιμοποιείται στην αρχή των γραμμών που σχεδιάζονται με αυτό το [`Pen`](../).
 
 ### Εξαιρέσεις
 
-| εξαίρεση | κατάσταση |
+| εξαίρεση | συνθήκη |
 | --- | --- |
-| ArgumentException | ο`CustomStartCap` η ιδιοκτησία έχει οριστεί σε αμετάβλητο[`Pen`](../) , όπως αυτά που επιστράφηκαν από το[`Pen`](../) τάξη. |
+| ArgumentException | Η ιδιότητα `CustomStartCap` ορίζεται σε ένα αμετάβλητο [`Pen`](../), όπως αυτά που επιστρέφονται από την κλάση [`Pen`](../). |
 
 ### Δείτε επίσης
 
 * class [CustomLineCap](../../customlinecap/)
 * class [Pen](../)
-* χώρος ονομάτων [Aspose.PSD](../../pen/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

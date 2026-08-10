@@ -1,14 +1,15 @@
 ---
-title: RgbChannelMixerLayer.GetChannelByIndex
-second_title: Aspose.PSD για Αναφορά API .NET
-description: RgbChannelMixerLayer μέθοδος. Λαμβάνει το ευρετήριο του καναλιού κατά. Επιστρέφει RgbMixerChannel
+title: "RgbChannelMixerLayer.GetChannelByIndex"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Μέθοδος RgbChannelMixerLayer. Λαμβάνει τον δείκτη του καναλιού κατά. Επιστρέφει RgbMixerChannel"
 type: docs
 weight: 40
 url: /el/net/aspose.psd.fileformats.psd.layers.adjustmentlayers/rgbchannelmixerlayer/getchannelbyindex/
 ---
+{{< psd/tize >}}
 ## RgbChannelMixerLayer.GetChannelByIndex method
 
-Λαμβάνει το ευρετήριο του καναλιού κατά. Επιστρέφει RgbMixerChannel
+Αποκτά τον δείκτη του καναλιού. Επιστρέφει RgbMixerChannel
 
 ```csharp
 public override MixerChannel GetChannelByIndex(int index)
@@ -16,15 +17,15 @@ public override MixerChannel GetChannelByIndex(int index)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| index | Int32 | Ο δείκτης. |
+| δείκτης | Int32 | Ο δείκτης. |
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
 [`RgbMixerChannel`](../../rgbmixerchannel/)
 
 ### Εξαιρέσεις
 
-| εξαίρεση | κατάσταση |
+| εξαίρεση | συνθήκη |
 | --- | --- |
 | [PsdImageArgumentException](../../../aspose.psd.coreexceptions.imageformats/psdimageargumentexception/) | Το RgbMixerChannelLayer δεν έχει περισσότερα από 3 κανάλια. Ο δείκτης του πρώτου καναλιού είναι 0 |
 
@@ -32,7 +33,7 @@ public override MixerChannel GetChannelByIndex(int index)
 
 * class [MixerChannel](../../mixerchannel/)
 * class [RgbChannelMixerLayer](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../rgbchannelmixerlayer/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/)
+* assembly [Aspose.PSD](../../../)
 
 

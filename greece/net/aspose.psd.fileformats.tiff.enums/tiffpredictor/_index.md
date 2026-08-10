@@ -1,11 +1,12 @@
 ---
-title: Enum TiffPredictor
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Aspose.PSD.FileFormats.Tiff.Enums.TiffPredictor αρίθμηση. Σχέδιο πρόβλεψης για LZW
+title: "Enum TiffPredictor"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Aspose.PSD.FileFormats.Tiff.Enums.TiffPredictor enum. Σχέδιο πρόβλεψης για LZW"
 type: docs
-weight: 4140
+weight: 4610
 url: /el/net/aspose.psd.fileformats.tiff.enums/tiffpredictor/
 ---
+{{< psd/tize >}}
 ## TiffPredictor enumeration
 
 Σχέδιο πρόβλεψης για LZW
@@ -14,16 +15,16 @@ url: /el/net/aspose.psd.fileformats.tiff.enums/tiffpredictor/
 public enum TiffPredictor : ushort
 ```
 
-### Αξίες
+### Τιμές
 
-| Ονομα | αξία | Περιγραφή |
+| Όνομα | Τιμή | Περιγραφή |
 | --- | --- | --- |
-| None | `1` | Δεν χρησιμοποιείται σχήμα πρόβλεψης. |
-| Horizontal | `2` | Οριζόντια διαφορά. |
+| None | `1` | Δεν χρησιμοποιείται σχέδιο πρόβλεψης. |
+| Horizontal | `2` | Οριζόντια διαφοροποίηση. |
 
 ### Δείτε επίσης
 
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Tiff.Enums](../../aspose.psd.fileformats.tiff.enums/)
-* συνέλευση [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Tiff.Enums](../../aspose.psd.fileformats.tiff.enums/)
+* assembly [Aspose.PSD](../../)
 
 

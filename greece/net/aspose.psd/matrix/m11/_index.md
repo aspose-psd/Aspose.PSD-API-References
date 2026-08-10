@@ -1,14 +1,15 @@
 ---
-title: Matrix.M11
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Matrix ιδιοκτησία. Παίρνει το στοιχείο μήτρας στην πρώτη γραμμή πρώτη στήλη. Αντιπροσωπεύει την κλίμακα κατά μήκος του άξονα Χ.
+title: "Matrix.M11"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα Matrix. Λαμβάνει το στοιχείο του πίνακα στην πρώτη σειρά, πρώτη στήλη. Αντιπροσωπεύει κλίμακα κατά τον άξονα X"
 type: docs
 weight: 30
 url: /el/net/aspose.psd/matrix/m11/
 ---
+{{< psd/tize >}}
 ## Matrix.M11 property
 
-Παίρνει το στοιχείο μήτρας στην πρώτη γραμμή πρώτη στήλη. Αντιπροσωπεύει την κλίμακα κατά μήκος του άξονα Χ.
+Λαμβάνει το στοιχείο της μήτρας στην πρώτη γραμμή, πρώτη στήλη. Αντιπροσωπεύει κλίμακα κατά τον άξονα X.
 
 ```csharp
 public float M11 { get; }
@@ -17,7 +18,7 @@ public float M11 { get; }
 ### Δείτε επίσης
 
 * class [Matrix](../)
-* χώρος ονομάτων [Aspose.PSD](../../matrix/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

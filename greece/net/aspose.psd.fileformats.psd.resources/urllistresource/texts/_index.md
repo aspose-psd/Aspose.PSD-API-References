@@ -1,11 +1,12 @@
 ---
-title: UrlListResource.Texts
-second_title: Aspose.PSD για Αναφορά API .NET
-description: UrlListResource ιδιοκτησία. Λαμβάνει ή ορίζει τα κείμενα.
+title: "UrlListResource.Texts"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "UrlListResource ιδιότητα. Λαμβάνει ή ορίζει τα texts"
 type: docs
 weight: 70
 url: /el/net/aspose.psd.fileformats.psd.resources/urllistresource/texts/
 ---
+{{< psd/tize >}}
 ## UrlListResource.Texts property
 
 Λαμβάνει ή ορίζει τα κείμενα.
@@ -14,14 +15,14 @@ url: /el/net/aspose.psd.fileformats.psd.resources/urllistresource/texts/
 public string[] Texts { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Τα κείμενα.
+Τα texts.
 
 ### Δείτε επίσης
 
 * class [UrlListResource](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Resources](../../urllistresource/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

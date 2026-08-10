@@ -1,27 +1,28 @@
 ---
-title: VectorPathDataResource.IsInverted
-second_title: Aspose.PSD για Αναφορά API .NET
-description: VectorPathDataResource ιδιοκτησία. Λαμβάνει ή ορίζει μια τιμή που υποδεικνύει εάν αυτή η παρουσία είναι ανεστραμμένη.
+title: "VectorPathDataResource.IsInverted"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα VectorPathDataResource. Λαμβάνει ή ορίζει μια τιμή που υποδεικνύει εάν αυτή η παρουσία είναι ανεστραμμένη"
 type: docs
 weight: 20
 url: /el/net/aspose.psd.fileformats.psd.layers.layerresources/vectorpathdataresource/isinverted/
 ---
+{{< psd/tize >}}
 ## VectorPathDataResource.IsInverted property
 
-Λαμβάνει ή ορίζει μια τιμή που υποδεικνύει εάν αυτή η παρουσία είναι ανεστραμμένη.
+Λαμβάνει ή ορίζει μια τιμή που υποδεικνύει αν αυτή η παρουσία είναι ανεστραμμένη.
 
 ```csharp
 public bool IsInverted { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-`αληθής` αν αυτή η περίπτωση είναι ανεστραμμένη. σε διαφορετική περίπτωση,`ψευδής` .
+`true` εάν αυτή η παρουσία είναι αντιστραμμένη· διαφορετικά, `false`.
 
 ### Δείτε επίσης
 
 * class [VectorPathDataResource](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../vectorpathdataresource/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

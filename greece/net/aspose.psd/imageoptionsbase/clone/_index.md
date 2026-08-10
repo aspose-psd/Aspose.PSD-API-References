@@ -1,11 +1,12 @@
 ---
-title: ImageOptionsBase.Clone
-second_title: Aspose.PSD για Αναφορά API .NET
-description: ImageOptionsBase μέθοδος. Κλωνοποιεί αυτήν την παρουσία.
+title: "ImageOptionsBase.Clone"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Μέθοδος ImageOptionsBase. Κλωνοποιεί αυτήν την παρουσία"
 type: docs
 weight: 110
 url: /el/net/aspose.psd/imageoptionsbase/clone/
 ---
+{{< psd/tize >}}
 ## ImageOptionsBase.Clone method
 
 Κλωνοποιεί αυτήν την παρουσία.
@@ -14,14 +15,14 @@ url: /el/net/aspose.psd/imageoptionsbase/clone/
 public virtual ImageOptionsBase Clone()
 ```
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-Επιστρέφει το ρηχό αντίγραφο αυτής της παρουσίας
+Επιστρέφει ένα ρηχό αντίγραφο αυτού του αντικειμένου
 
 ### Δείτε επίσης
 
 * class [ImageOptionsBase](../)
-* χώρος ονομάτων [Aspose.PSD](../../imageoptionsbase/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

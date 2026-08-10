@@ -1,11 +1,12 @@
 ---
-title: AiImage.RotateFlip
-second_title: Aspose.PSD για Αναφορά API .NET
-description: AiImage μέθοδος. Περιστρέφει αναστρέφει ή περιστρέφει και αναστρέφει την εικόνα.
+title: "AiImage.RotateFlip"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "AiImage method. Περιστρέφει, αναστρέφει ή περιστρέφει και αναστρέφει την εικόνα"
 type: docs
-weight: 160
+weight: 190
 url: /el/net/aspose.psd.fileformats.ai/aiimage/rotateflip/
 ---
+{{< psd/tize >}}
 ## AiImage.RotateFlip method
 
 Περιστρέφει, αναστρέφει ή περιστρέφει και αναστρέφει την εικόνα.
@@ -16,19 +17,19 @@ public override void RotateFlip(RotateFlipType rotateFlipType)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| rotateFlipType | RotateFlipType | Τύπος περιστροφής. |
+| rotateFlipType | RotateFlipType | Τύπος της περιστροφής/αναστροφής. |
 
 ### Εξαιρέσεις
 
-| εξαίρεση | κατάσταση |
+| εξαίρεση | συνθήκη |
 | --- | --- |
-| NotImplementedException | Δεν εφαρμόζεται |
+| NotImplementedException | Δεν έχει υλοποιηθεί |
 
 ### Δείτε επίσης
 
 * enum [RotateFlipType](../../../aspose.psd/rotatefliptype/)
 * class [AiImage](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Ai](../../aiimage/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

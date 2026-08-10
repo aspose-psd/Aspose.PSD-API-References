@@ -1,14 +1,15 @@
 ---
-title: UnitStructure.UnitStructure
-second_title: Aspose.PSD για Αναφορά API .NET
-description: UnitStructure κατασκευαστής. Αρχικοποιεί μια νέα παρουσία τουUnitStructure τάξη.
+title: "UnitStructure.UnitStructure"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Κατασκευαστής UnitStructure. Αρχικοποιεί ένα νέο αντικείμενο της κλάσης UnitStructure"
 type: docs
 weight: 10
 url: /el/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/unitstructure/unitstructure/
 ---
+{{< psd/tize >}}
 ## UnitStructure constructor
 
-Αρχικοποιεί μια νέα παρουσία του[`UnitStructure`](../) τάξη.
+Αρχικοποιεί ένα νέο αντικείμενο της κλάσης [`UnitStructure`](../).
 
 ```csharp
 public UnitStructure(ClassID keyName)
@@ -22,7 +23,7 @@ public UnitStructure(ClassID keyName)
 
 * class [ClassID](../../../aspose.psd.fileformats.psd.layers.layerresources/classid/)
 * class [UnitStructure](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../unitstructure/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 

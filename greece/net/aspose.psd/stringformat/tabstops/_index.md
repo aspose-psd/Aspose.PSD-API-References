@@ -1,31 +1,32 @@
 ---
-title: StringFormat.TabStops
-second_title: Aspose.PSD για Αναφορά API .NET
-description: StringFormat ιδιοκτησία. Λαμβάνει μια σειρά αποστάσεων μεταξύ θέσεων καρτελών στις μονάδες που καθορίζονται από τοPageUnit ιδιοκτησία.
+title: "StringFormat.TabStops"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα StringFormat. Επιστρέφει έναν πίνακα αποστάσεων μεταξύ των σημείων στηλοθέτη στις μονάδες που καθορίζονται από την ιδιότητα PageUnit"
 type: docs
-weight: 110
+weight: 120
 url: /el/net/aspose.psd/stringformat/tabstops/
 ---
+{{< psd/tize >}}
 ## StringFormat.TabStops property
 
-Λαμβάνει μια σειρά αποστάσεων μεταξύ θέσεων καρτελών στις μονάδες που καθορίζονται από το[`PageUnit`](../../graphics/pageunit/) ιδιοκτησία.
+Επιστρέφει έναν πίνακα αποστάσεων μεταξύ των σημείων στηλοθέτη στις μονάδες που καθορίζονται από την ιδιότητα [`PageUnit`](../../graphics/pageunit/).
 
 ```csharp
 public float[] TabStops { get; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Η καρτέλα σταματά.
+Τα σημεία στηλοθέτη.
 
-### Παρατηρήσεις
+## Σχόλια
 
-Η ιδιότητα εισάγεται για την καταργημένη μέθοδο GetTabStops.
+Η ιδιότητα εισάγεται για την αφαιρεθείσα μέθοδο GetTabStops.
 
 ### Δείτε επίσης
 
 * class [StringFormat](../)
-* χώρος ονομάτων [Aspose.PSD](../../stringformat/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

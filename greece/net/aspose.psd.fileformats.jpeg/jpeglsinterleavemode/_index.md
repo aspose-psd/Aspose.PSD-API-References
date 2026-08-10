@@ -1,30 +1,31 @@
 ---
-title: Enum JpegLsInterleaveMode
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Aspose.PSD.FileFormats.Jpeg.JpegLsInterleaveMode αρίθμηση. Καθορίζει τη λειτουργία παρεμβολής για δεδομένα pixel πολλαπλών συστατικών έγχρωμη.
+title: "Enum JpegLsInterleaveMode"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Aspose.PSD.FileFormats.Jpeg.JpegLsInterleaveMode enum. Ορίζει τη λειτουργία διαπλοκής για πολυσυστατικά χρωματικά δεδομένα pixel"
 type: docs
-weight: 1510
+weight: 1520
 url: /el/net/aspose.psd.fileformats.jpeg/jpeglsinterleavemode/
 ---
+{{< psd/tize >}}
 ## JpegLsInterleaveMode enumeration
 
-Καθορίζει τη λειτουργία παρεμβολής για δεδομένα pixel πολλαπλών συστατικών (έγχρωμη).
+Ορίζει τη λειτουργία διαπλέξης για πολυσυστατικά (χρωματικά) δεδομένα εικονοστοιχείου.
 
 ```csharp
 public enum JpegLsInterleaveMode
 ```
 
-### Αξίες
+### Τιμές
 
-| Ονομα | αξία | Περιγραφή |
+| Όνομα | Τιμή | Περιγραφή |
 | --- | --- | --- |
-| None | `0` | Τα δεδομένα κωδικοποιούνται και αποθηκεύονται ως στοιχείο για το στοιχείο: RRRGGGBBB. |
-| Line | `1` | Η λειτουργία παρεμβολής είναι κατά γραμμή. Μια πλήρης γραμμή κάθε στοιχείου κωδικοποιείται πριν μεταβείτε στην επόμενη γραμμή. |
-| Sample | `2` | Τα δεδομένα κωδικοποιούνται και αποθηκεύονται κατά δείγμα. Για έγχρωμες εικόνες αυτή είναι η μορφή όπως RGBRGBRGB. |
+| None | `0` | Τα δεδομένα κωδικοποιούνται και αποθηκεύονται ως στοιχείο ανά στοιχείο: RRRGGGBBB. |
+| Line | `1` | Η λειτουργία διαπλοκής είναι ανά γραμμή. Μία πλήρης γραμμή κάθε στοιχείου κωδικοποιείται πριν μεταβεί στην επόμενη γραμμή. |
+| Sample | `2` | Τα δεδομένα κωδικοποιούνται και αποθηκεύονται ανά δείγμα. Για έγχρωμες εικόνες αυτό είναι η μορφή όπως RGBRGBRGB. |
 
 ### Δείτε επίσης
 
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Jpeg](../../aspose.psd.fileformats.jpeg/)
-* συνέλευση [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Jpeg](../../aspose.psd.fileformats.jpeg/)
+* assembly [Aspose.PSD](../../)
 
 

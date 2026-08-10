@@ -1,27 +1,28 @@
 ---
-title: TypeToolInfoResource.RComponent
-second_title: Aspose.PSD για Αναφορά API .NET
-description: TypeToolInfoResource ιδιοκτησία. Λαμβάνει ή ορίζει το στοιχείο r.
+title: "TypeToolInfoResource.RComponent"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα TypeToolInfoResource. Λαμβάνει ή ορίζει το r συστατικό"
 type: docs
-weight: 160
+weight: 140
 url: /el/net/aspose.psd.fileformats.psd.layers.layerresources/typetoolinforesource/rcomponent/
 ---
+{{< psd/tize >}}
 ## TypeToolInfoResource.RComponent property
 
-Λαμβάνει ή ορίζει το στοιχείο r.
+Λαμβάνει ή ορίζει το συστατικό r.
 
 ```csharp
 public short RComponent { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Το συστατικό r.
+Το r συστατικό.
 
 ### Δείτε επίσης
 
 * class [TypeToolInfoResource](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../typetoolinforesource/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

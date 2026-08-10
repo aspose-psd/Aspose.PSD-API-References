@@ -1,28 +1,29 @@
 ---
-title: BlendingOptions.AddPatternOverlay
-second_title: Aspose.PSD για Αναφορά API .NET
-description: BlendingOptions μέθοδος. Προσθέτει την επικάλυψη Μοτίβου.
+title: "BlendingOptions.AddPatternOverlay"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "BlendingOptions μέθοδος. Προσθέτει την επικάλυψη Pattern"
 type: docs
-weight: 70
+weight: 80
 url: /el/net/aspose.psd.fileformats.psd.layers.layereffects/blendingoptions/addpatternoverlay/
 ---
+{{< psd/tize >}}
 ## BlendingOptions.AddPatternOverlay method
 
-Προσθέτει την επικάλυψη Μοτίβου.
+Προσθέτει την επικάλυψη Pattern.
 
 ```csharp
 public PatternOverlayEffect AddPatternOverlay()
 ```
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-Δημιουργήθηκε[`PatternOverlayEffect`](../../patternoverlayeffect/) αντικείμενο
+Δημιουργήθηκε αντικείμενο [`PatternOverlayEffect`](../../patternoverlayeffect/)
 
 ### Δείτε επίσης
 
 * class [PatternOverlayEffect](../../patternoverlayeffect/)
 * class [BlendingOptions](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../blendingoptions/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../../)
 
 

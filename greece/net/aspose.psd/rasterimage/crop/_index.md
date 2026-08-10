@@ -1,14 +1,15 @@
 ---
-title: RasterImage.Crop
-second_title: Aspose.PSD για Αναφορά API .NET
-description: RasterImage μέθοδος. Περικόπτει το καθορισμένο ορθογώνιο.
+title: "RasterImage.Crop"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Μέθοδος RasterImage. Κόβει το καθορισμένο ορθογώνιο."
 type: docs
 weight: 240
 url: /el/net/aspose.psd/rasterimage/crop/
 ---
+{{< psd/tize >}}
 ## Crop(Rectangle) {#crop}
 
-Περικόπτει το καθορισμένο ορθογώνιο.
+Κόβει το καθορισμένο ορθογώνιο.
 
 ```csharp
 public virtual void Crop(Rectangle rectangle)
@@ -16,16 +17,16 @@ public virtual void Crop(Rectangle rectangle)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| rectangle | Rectangle | Το ορθογώνιο. |
+| ορθογώνιο | Rectangle | Το ορθογώνιο. |
 
-### Παραδείγματα
+## Παραδείγματα
 
-Το ακόλουθο παράδειγμα κώδικα δείχνει πώς να περικόψετε μια εικόνα και να την αποθηκεύσετε.
+Το παρακάτω παράδειγμα κώδικα δείχνει πώς να κόψετε μια εικόνα και να την αποθηκεύσετε.
 
 ```csharp
 [C#]
 
-// Εφαρμογή σωστής μεθόδου περικοπής για αρχεία PSD.
+// Υλοποιήστε τη σωστή μέθοδο Crop για αρχεία PSD.
 string sourceFileName = "1.psd";
 string exportPathPsd = "CropTest.psd";
 string exportPathPng = "CropTest.png";
@@ -41,8 +42,8 @@ using (RasterImage image = Image.Load(sourceFileName) as RasterImage)
 
 * struct [Rectangle](../../rectangle/)
 * class [RasterImage](../)
-* χώρος ονομάτων [Aspose.PSD](../../rasterimage/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
@@ -57,14 +58,14 @@ public virtual void Crop(int leftShift, int rightShift, int topShift, int bottom
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
 | leftShift | Int32 | Η αριστερή μετατόπιση. |
-| rightShift | Int32 | Η σωστή μετατόπιση. |
-| topShift | Int32 | Η μετατόπιση στην κορυφή. |
+| rightShift | Int32 | Η δεξιά μετατόπιση. |
+| topShift | Int32 | Η άνω μετατόπιση. |
 | bottomShift | Int32 | Η κάτω μετατόπιση. |
 
 ### Δείτε επίσης
 
 * class [RasterImage](../)
-* χώρος ονομάτων [Aspose.PSD](../../rasterimage/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

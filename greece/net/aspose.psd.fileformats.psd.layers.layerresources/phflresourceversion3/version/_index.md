@@ -1,33 +1,34 @@
 ---
-title: PhflResourceVersion3.Version
-second_title: Aspose.PSD για Αναφορά API .NET
-description: PhflResourceVersion3 ιδιοκτησία. Λαμβάνει την έκδοση. Η προεπιλογή είναι 2 ή 3
+title: "PhflResourceVersion3.Version"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "PhflResourceVersion3 ιδιότητα. Επιστρέφει την έκδοση. Η προεπιλογή είναι 2 ή 3"
 type: docs
-weight: 90
+weight: 70
 url: /el/net/aspose.psd.fileformats.psd.layers.layerresources/phflresourceversion3/version/
 ---
+{{< psd/tize >}}
 ## PhflResourceVersion3.Version property
 
-Λαμβάνει την έκδοση. Η προεπιλογή είναι 2 ή 3
+Λαμβάνει την έκδοση. Η προεπιλογή είναι 2 ή 3.
 
 ```csharp
 public override short Version { get; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
 Η έκδοση.
 
 ### Εξαιρέσεις
 
-| εξαίρεση | κατάσταση |
+| εξαίρεση | συνθήκη |
 | --- | --- |
 | NotImplementedException |  |
 
 ### Δείτε επίσης
 
 * class [PhflResourceVersion3](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../phflresourceversion3/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

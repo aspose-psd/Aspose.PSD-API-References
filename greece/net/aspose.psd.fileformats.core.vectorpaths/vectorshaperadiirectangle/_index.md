@@ -1,14 +1,15 @@
 ---
-title: Class VectorShapeRadiiRectangle
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Aspose.PSD.FileFormats.Core.VectorPaths.VectorShapeRadiiRectangle τάξη. Ορίζει διανυσματικές ακτίνες ορθογωνίου σχήματος class
+title: "Κλάση VectorShapeRadiiRectangle"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Aspose.PSD.FileFormats.Core.VectorPaths.VectorShapeRadiiRectangle κλάση. Ορίζει κλάση ορθογωνίου ακτίνων διανυσματικού σχήματος"
 type: docs
-weight: 1450
+weight: 1460
 url: /el/net/aspose.psd.fileformats.core.vectorpaths/vectorshaperadiirectangle/
 ---
+{{< psd/tize >}}
 ## VectorShapeRadiiRectangle class
 
-Ορίζει διανυσματικές ακτίνες ορθογωνίου σχήματος class
+Ορίζει την κλάση vector shape radii rectangle
 
 ```csharp
 public sealed class VectorShapeRadiiRectangle
@@ -16,28 +17,28 @@ public sealed class VectorShapeRadiiRectangle
 
 ## Κατασκευαστές
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
 | [VectorShapeRadiiRectangle](vectorshaperadiirectangle/)() | Ο προεπιλεγμένος κατασκευαστής. |
 
 ## Ιδιότητες
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
-| [BottomLeft](../../aspose.psd.fileformats.core.vectorpaths/vectorshaperadiirectangle/bottomleft/) { get; set; } | Παίρνει ή θέτει το κάτω μέρος. |
-| [BottomRight](../../aspose.psd.fileformats.core.vectorpaths/vectorshaperadiirectangle/bottomright/) { get; set; } | Παίρνει ή θέτει το κάτω δεξιά. |
-| [QuadVersion](../../aspose.psd.fileformats.core.vectorpaths/vectorshaperadiirectangle/quadversion/) { get; set; } | Λαμβάνει ή ορίζει την τετραπλή έκδοση της τιμής μονάδας. |
-| [TopLeft](../../aspose.psd.fileformats.core.vectorpaths/vectorshaperadiirectangle/topleft/) { get; set; } | Παίρνει ή ρυθμίζει το επάνω αριστερό μέρος. |
-| [TopRight](../../aspose.psd.fileformats.core.vectorpaths/vectorshaperadiirectangle/topright/) { get; set; } | Παίρνει ή θέτει την επάνω δεξιά γωνία. |
+| [BottomLeft](../../aspose.psd.fileformats.core.vectorpaths/vectorshaperadiirectangle/bottomleft/) { get; set; } | Λαμβάνει ή ορίζει το κάτω μέρος. |
+| [BottomRight](../../aspose.psd.fileformats.core.vectorpaths/vectorshaperadiirectangle/bottomright/) { get; set; } | Λαμβάνει ή ορίζει το κάτω δεξιό. |
+| [QuadVersion](../../aspose.psd.fileformats.core.vectorpaths/vectorshaperadiirectangle/quadversion/) { get; set; } | Λαμβάνει ή ορίζει την τετραγωνική έκδοση της μονάδας τιμής. |
+| [TopLeft](../../aspose.psd.fileformats.core.vectorpaths/vectorshaperadiirectangle/topleft/) { get; set; } | Λαμβάνει ή ορίζει το πάνω αριστερό. |
+| [TopRight](../../aspose.psd.fileformats.core.vectorpaths/vectorshaperadiirectangle/topright/) { get; set; } | Λαμβάνει ή ορίζει το πάνω δεξιό. |
 
-### Παραδείγματα
+## Παραδείγματα
 
-Αυτό το παράδειγμα δείχνει ότι η φόρτωση και η αποθήκευση της εικόνας PSD με επίπεδα σχήματος και διανυσματικές διαδρομές λειτουργεί σωστά.
+Αυτό το παράδειγμα δείχνει ότι η φόρτωση και αποθήκευση της εικόνας PSD με στρώματα σχήματος και διανυσματικές διαδρομές λειτουργούν σωστά.
 
 ```csharp
 [C#]
 
-// Αυτό το παράδειγμα δείχνει ότι η φόρτωση και η αποθήκευση της εικόνας PSD με επίπεδα σχήματος και διανυσματικές διαδρομές λειτουργεί σωστά.
+// Αυτό το παράδειγμα δείχνει ότι η φόρτωση και αποθήκευση της εικόνας PSD με στρώματα σχήματος και διανυσματικές διαδρομές λειτουργούν σωστά.
 string sourcePath = "vectorShapes.psd";
 string outputFilePath = "output_vectorShapes.psd";
 using (PsdImage image = (PsdImage)Image.Load(sourcePath))
@@ -164,7 +165,7 @@ void AssertAreEqual(object expected, object actual, string message = null)
 
 ### Δείτε επίσης
 
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Core.VectorPaths](../../aspose.psd.fileformats.core.vectorpaths/)
-* συνέλευση [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../)
 
 

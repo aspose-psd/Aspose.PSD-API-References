@@ -1,27 +1,28 @@
 ---
-title: Rectangle.GetHashCode
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Rectangle μέθοδος. Επιστρέφει τον κωδικό κατακερματισμού για αυτόRectangleδομή.
+title: "Rectangle.GetHashCode"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Μέθοδος Rectangle. Επιστρέφει τον κωδικό hash για αυτή τη δομή Rectangle"
 type: docs
 weight: 240
 url: /el/net/aspose.psd/rectangle/gethashcode/
 ---
+{{< psd/tize >}}
 ## Rectangle.GetHashCode method
 
-Επιστρέφει τον κωδικό κατακερματισμού για αυτό[`Rectangle`](../)δομή.
+Επιστρέφει τον κωδικό hash για αυτή τη δομή [`Rectangle`](../).
 
 ```csharp
 public override int GetHashCode()
 ```
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-Ένας ακέραιος αριθμός που αντιπροσωπεύει τον κωδικό κατακερματισμού για αυτό το ορθογώνιο.
+Ένας ακέραιος που αντιπροσωπεύει τον κωδικό hash για αυτό το rectangle.
 
 ### Δείτε επίσης
 
 * struct [Rectangle](../)
-* χώρος ονομάτων [Aspose.PSD](../../rectangle/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

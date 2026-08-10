@@ -1,14 +1,15 @@
 ---
-title: PostResource.Signature
-second_title: Aspose.PSD για Αναφορά API .NET
-description: PostResource ιδιοκτησία. Παίρνει την υπογραφή.
+title: "PostResource.Signature"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα PostResource. Λαμβάνει την υπογραφή"
 type: docs
 weight: 60
 url: /el/net/aspose.psd.fileformats.psd.layers.layerresources/postresource/signature/
 ---
+{{< psd/tize >}}
 ## PostResource.Signature property
 
-Παίρνει την υπογραφή.
+Λαμβάνει την υπογραφή.
 
 ```csharp
 public override int Signature { get; }
@@ -17,7 +18,7 @@ public override int Signature { get; }
 ### Δείτε επίσης
 
 * class [PostResource](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../postresource/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

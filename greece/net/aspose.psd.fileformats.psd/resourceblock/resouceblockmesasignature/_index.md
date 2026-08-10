@@ -1,22 +1,23 @@
 ---
-title: ResourceBlock.ResouceBlockMeSaSignature
-second_title: Aspose.PSD για Αναφορά API .NET
-description: ResourceBlock πεδίο. Η υπογραφή πόρων του ImageReady.
+title: "ResourceBlock.ResouceBlockMeSaSignature"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Πεδίο ResourceBlock. Η υπογραφή του πόρου του ImageReady"
 type: docs
 weight: 90
 url: /el/net/aspose.psd.fileformats.psd/resourceblock/resouceblockmesasignature/
 ---
+{{< psd/tize >}}
 ## ResourceBlock.ResouceBlockMeSaSignature field
 
-Η υπογραφή πόρων του ImageReady.
+Η υπογραφή πόρου του ImageReady.
 
 ```csharp
 public const int ResouceBlockMeSaSignature;
 ```
 
-### Παραδείγματα
+## Παραδείγματα
 
-Το επόμενο παράδειγμα κώδικα δείχνει την ικανότητα διόρθωσης φόρτωσης και αποθήκευσης αρχείων PSD με πόρους με υπογραφή MeSa.
+Το παρακάτω παράδειγμα κώδικα δείχνει τη δυνατότητα σωστής φόρτωσης και αποθήκευσης αρχείων PSD με πόρους με υπογραφή MeSa.
 
 ```csharp
 [C#]
@@ -29,7 +30,7 @@ void AreEqual(object expected, object actual)
     }
 }
 
-string srcFile = "GST-CHALLAN(21..psd");
+string srcFile = "GST-CHALLAN(2)1..psd";
 string output = "output.psd";
 
 using (PsdImage psdImage = (PsdImage)Image.Load(srcFile))
@@ -43,7 +44,7 @@ using (PsdImage psdImage = (PsdImage)Image.Load(srcFile))
 ### Δείτε επίσης
 
 * class [ResourceBlock](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd](../../resourceblock/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

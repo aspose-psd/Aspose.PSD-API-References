@@ -1,14 +1,15 @@
 ---
-title: TiffRational.Equals
-second_title: Aspose.PSD για Αναφορά API .NET
-description: TiffRational μέθοδος. Καθορίζει εάν το καθορισμένοObject ισούται με αυτήν την περίπτωση.
+title: "TiffRational.Equals"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Μέθοδος TiffRational. Καθορίζει εάν το συγκεκριμένο Object είναι ίσο με αυτήν την περίπτωση"
 type: docs
 weight: 70
 url: /el/net/aspose.psd.fileformats.tiff/tiffrational/equals/
 ---
+{{< psd/tize >}}
 ## TiffRational.Equals method
 
-Καθορίζει εάν το καθορισμένοObject ισούται με αυτήν την περίπτωση.
+Καθορίζει εάν το καθορισμένο Object είναι ίσο με αυτήν την παρουσία.
 
 ```csharp
 public override bool Equals(object obj)
@@ -16,16 +17,16 @@ public override bool Equals(object obj)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| obj | Object | οObject για σύγκριση με αυτήν την περίπτωση. |
+| obj | Object | Το Object για σύγκριση με αυτήν την παρουσία. |
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-`αληθής` εάν το καθορισμένοObject ισούται με αυτήν την περίπτωση. σε διαφορετική περίπτωση,`ψευδής` .
+`true` εάν το καθορισμένο Object είναι ίσο με αυτήν την παρουσία· διαφορετικά, `false`.
 
 ### Δείτε επίσης
 
 * class [TiffRational](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Tiff](../../tiffrational/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff](../../../aspose.psd.fileformats.tiff/)
+* assembly [Aspose.PSD](../../../)
 
 

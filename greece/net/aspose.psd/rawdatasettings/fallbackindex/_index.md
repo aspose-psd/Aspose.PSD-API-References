@@ -1,27 +1,28 @@
 ---
-title: RawDataSettings.FallbackIndex
-second_title: Aspose.PSD για Αναφορά API .NET
-description: RawDataSettings ιδιοκτησία. Λαμβάνει ή ορίζει το εφεδρικό ευρετήριο για χρήση όταν το ευρετήριο παλέτας είναι εκτός ορίων
+title: "RawDataSettings.FallbackIndex"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "RawDataSettings ιδιότητα. Λαμβάνει ή ορίζει το εφεδρικό δείκτη που χρησιμοποιείται όταν ο δείκτης παλέτας είναι εκτός ορίων."
 type: docs
 weight: 50
 url: /el/net/aspose.psd/rawdatasettings/fallbackindex/
 ---
+{{< psd/tize >}}
 ## RawDataSettings.FallbackIndex property
 
-Λαμβάνει ή ορίζει το εφεδρικό ευρετήριο για χρήση όταν το ευρετήριο παλέτας είναι εκτός ορίων
+Ανακτά ή ορίζει το εφεδρικό δείκτη που θα χρησιμοποιηθεί όταν ο δείκτης παλέτας είναι εκτός ορίων
 
 ```csharp
 public int FallbackIndex { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Το εφεδρικό ευρετήριο που χρησιμοποιείται όταν το ευρετήριο παλέτας είναι εκτός ορίων
+Ο εφεδρικός δείκτης που χρησιμοποιείται όταν ο δείκτης παλέτας είναι εκτός ορίων.
 
 ### Δείτε επίσης
 
 * class [RawDataSettings](../)
-* χώρος ονομάτων [Aspose.PSD](../../rawdatasettings/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

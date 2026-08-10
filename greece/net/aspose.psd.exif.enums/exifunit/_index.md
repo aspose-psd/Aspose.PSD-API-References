@@ -1,30 +1,31 @@
 ---
-title: Enum ExifUnit
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Aspose.PSD.Exif.Enums.ExifUnit αρίθμηση. exif unit enum.
+title: "Enum ExifUnit"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Aspose.PSD.Exif.Enums.ExifUnit enum. exif unit enum"
 type: docs
-weight: 960
+weight: 970
 url: /el/net/aspose.psd.exif.enums/exifunit/
 ---
+{{< psd/tize >}}
 ## ExifUnit enumeration
 
-exif unit enum.
+exif μονάδα enum.
 
 ```csharp
 public enum ExifUnit
 ```
 
-### Αξίες
+### Τιμές
 
-| Ονομα | αξία | Περιγραφή |
+| Όνομα | Τιμή | Περιγραφή |
 | --- | --- | --- |
-| None | `1` | Undefined units |
+| None | `1` | Απροσδιόριστες μονάδες |
 | Inch | `2` | Μονάδες ίντσας |
-| Cm | `3` | Μετρικές εκατοστομετρικές μονάδες |
+| Cm | `3` | Μετρικές μονάδες εκατοστών |
 
 ### Δείτε επίσης
 
-* χώρος ονομάτων [Aspose.PSD.Exif.Enums](../../aspose.psd.exif.enums/)
-* συνέλευση [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Exif.Enums](../../aspose.psd.exif.enums/)
+* assembly [Aspose.PSD](../../)
 
 

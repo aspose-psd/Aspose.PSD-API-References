@@ -1,11 +1,12 @@
 ---
-title: TiffStreamReader.Length
-second_title: Aspose.PSD για Αναφορά API .NET
-description: TiffStreamReader ιδιοκτησία. Λαμβάνει το μήκος του αναγνώστη.
+title: "TiffStreamReader.Length"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα TiffStreamReader. Λαμβάνει το μήκος του αναγνώστη"
 type: docs
 weight: 20
 url: /el/net/aspose.psd.fileformats.tiff.filemanagement/tiffstreamreader/length/
 ---
+{{< psd/tize >}}
 ## TiffStreamReader.Length property
 
 Λαμβάνει το μήκος του αναγνώστη.
@@ -14,14 +15,14 @@ url: /el/net/aspose.psd.fileformats.tiff.filemanagement/tiffstreamreader/length/
 public long Length { get; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
 Το μήκος του αναγνώστη.
 
 ### Δείτε επίσης
 
 * class [TiffStreamReader](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Tiff.FileManagement](../../tiffstreamreader/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff.FileManagement](../../../aspose.psd.fileformats.tiff.filemanagement/)
+* assembly [Aspose.PSD](../../../)
 
 

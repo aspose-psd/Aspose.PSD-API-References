@@ -1,27 +1,28 @@
 ---
-title: AiRasterImageSection.Width
-second_title: Aspose.PSD για Αναφορά API .NET
-description: AiRasterImageSection ιδιοκτησία. Παίρνει το πλάτος.
+title: "AiRasterImageSection.Width"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα AiRasterImageSection. Λαμβάνει το πλάτος"
 type: docs
 weight: 90
 url: /el/net/aspose.psd.fileformats.ai/airasterimagesection/width/
 ---
+{{< psd/tize >}}
 ## AiRasterImageSection.Width property
 
-Παίρνει το πλάτος.
+Λαμβάνει το πλάτος.
 
 ```csharp
 public double Width { get; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
 Το πλάτος.
 
 ### Δείτε επίσης
 
 * class [AiRasterImageSection](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Ai](../../airasterimagesection/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

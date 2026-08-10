@@ -1,27 +1,28 @@
 ---
-title: TypeToolInfo6Resource.Bottom
-second_title: Aspose.PSD για Αναφορά API .NET
-description: TypeToolInfo6Resource ιδιοκτησία. Λαμβάνει ή ορίζει την κάτω θέση.
+title: "TypeToolInfo6Resource.Bottom"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "TypeToolInfo6Resource ιδιότητα. Λαμβάνει ή ορίζει τη θέση κάτω"
 type: docs
 weight: 20
 url: /el/net/aspose.psd.fileformats.psd.layers.layerresources/typetoolinfo6resource/bottom/
 ---
+{{< psd/tize >}}
 ## TypeToolInfo6Resource.Bottom property
 
-Λαμβάνει ή ορίζει την κάτω θέση.
+Λαμβάνει ή ορίζει τη θέση κάτω.
 
 ```csharp
 public int Bottom { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Η κάτω θέση.
+Η θέση κάτω.
 
 ### Δείτε επίσης
 
 * class [TypeToolInfo6Resource](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../typetoolinfo6resource/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

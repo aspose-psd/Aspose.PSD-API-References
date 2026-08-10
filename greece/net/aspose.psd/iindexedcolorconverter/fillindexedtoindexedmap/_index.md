@@ -1,14 +1,15 @@
 ---
-title: IIndexedColorConverter.FillIndexedtoIndexedMap
-second_title: Aspose.PSD για Αναφορά API .NET
-description: IIndexedColorConverter μέθοδος. Συμπληρώνει τον χάρτη μετατροπής εικόνας με ευρετήριο σε ευρετηριασμένη.
+title: "IIndexedColorConverter.FillIndexedtoIndexedMap"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "IIndexedColorConverter μέθοδος. Συμπληρώνει τον χάρτη μετατροπής εικόνας από ευρετήριο σε ευρετήριο"
 type: docs
 weight: 10
 url: /el/net/aspose.psd/iindexedcolorconverter/fillindexedtoindexedmap/
 ---
+{{< psd/tize >}}
 ## IIndexedColorConverter.FillIndexedtoIndexedMap method
 
-Συμπληρώνει τον χάρτη μετατροπής εικόνας με ευρετήριο σε ευρετηριασμένη.
+Γεμίζει τον χάρτη μετατροπής εικόνας από ευρετήριο σε ευρετήριο.
 
 ```csharp
 public void FillIndexedtoIndexedMap(byte[] map, PixelDataFormat sourceFormat, 
@@ -17,15 +18,15 @@ public void FillIndexedtoIndexedMap(byte[] map, PixelDataFormat sourceFormat,
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| map | Byte[] | Ο χάρτης μετατροπής. |
-| sourceFormat | PixelDataFormat | Η μορφή πηγής. |
+| χάρτης | Byte[] | Ο χάρτης μετατροπής. |
+| sourceFormat | PixelDataFormat | Η μορφή προέλευσης. |
 | destFormat | PixelDataFormat | Η μορφή προορισμού. |
 
 ### Δείτε επίσης
 
 * class [PixelDataFormat](../../pixeldataformat/)
 * interface [IIndexedColorConverter](../)
-* χώρος ονομάτων [Aspose.PSD](../../iindexedcolorconverter/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

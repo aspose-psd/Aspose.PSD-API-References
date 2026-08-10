@@ -1,29 +1,30 @@
 ---
-title: Enum TextOrientation
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Aspose.PSD.FileFormats.Psd.TextOrientation αρίθμηση. Απαρίθμηση για λειτουργία προσανατολισμού κειμένου.
+title: "Απαρίθμηση TextOrientation"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Απαρίθμηση Aspose.PSD.FileFormats.Psd.TextOrientation. Απαρίθμηση για τη λειτουργία προσανατολισμού κειμένου"
 type: docs
-weight: 4010
+weight: 4480
 url: /el/net/aspose.psd.fileformats.psd/textorientation/
 ---
+{{< psd/tize >}}
 ## TextOrientation enumeration
 
-Απαρίθμηση για λειτουργία προσανατολισμού κειμένου.
+Απαρίθμηση για τη λειτουργία προσανατολισμού κειμένου.
 
 ```csharp
 public enum TextOrientation
 ```
 
-### Αξίες
+### Τιμές
 
-| Ονομα | αξία | Περιγραφή |
+| Όνομα | Τιμή | Περιγραφή |
 | --- | --- | --- |
 | Horizontal | `0` | Ο οριζόντιος προσανατολισμός κειμένου. |
-| Vertical | `2` | Ο κατακόρυφος προσανατολισμός κειμένου. |
+| Vertical | `2` | Ο κάθετος προσανατολισμός κειμένου. |
 
-### Παραδείγματα
+## Παραδείγματα
 
-Ο παρακάτω κώδικας δείχνει τη δυνατότητα επεξεργασίας της νέας ιδιότητας TextOrientation. Αυτό δεν επηρεάζει την απόδοση αυτή τη στιγμή, αλλά σας επιτρέπει μόνο να επεξεργαστείτε την τιμή της ιδιότητας.
+Ο παρακάτω κώδικας δείχνει τη δυνατότητα επεξεργασίας της νέας ιδιότητας TextOrientation. Αυτό δεν επηρεάζει την απόδοση αυτή τη στιγμή, αλλά επιτρέπει μόνο την επεξεργασία της τιμής της ιδιότητας.
 
 ```csharp
 [C#]
@@ -65,7 +66,7 @@ using (var image = (PsdImage)Image.Load(output))
 
 ### Δείτε επίσης
 
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd](../../aspose.psd.fileformats.psd/)
-* συνέλευση [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../)
 
 

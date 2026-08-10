@@ -1,11 +1,12 @@
 ---
-title: RdOptimizerSettings.MaxPixelValue
-second_title: Aspose.PSD για Αναφορά API .NET
-description: RdOptimizerSettings ιδιοκτησία. Λαμβάνει τη μέγιστη τιμή pixel.
+title: "RdOptimizerSettings.MaxPixelValue"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα RdOptimizerSettings. Λαμβάνει τη μέγιστη τιμή pixel"
 type: docs
 weight: 60
 url: /el/net/aspose.psd.imageoptions/rdoptimizersettings/maxpixelvalue/
 ---
+{{< psd/tize >}}
 ## RdOptimizerSettings.MaxPixelValue property
 
 Λαμβάνει τη μέγιστη τιμή pixel.
@@ -14,14 +15,14 @@ url: /el/net/aspose.psd.imageoptions/rdoptimizersettings/maxpixelvalue/
 public int MaxPixelValue { get; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
 Η μέγιστη μέγιστη τιμή pixel.
 
 ### Δείτε επίσης
 
 * class [RdOptimizerSettings](../)
-* χώρος ονομάτων [Aspose.PSD.ImageOptions](../../rdoptimizersettings/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

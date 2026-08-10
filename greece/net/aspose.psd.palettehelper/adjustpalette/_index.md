@@ -1,14 +1,15 @@
 ---
-title: Class AdjustPalette
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Aspose.PSD.PaletteHelper.AdjustPalette τάξη. Κλάση προσαρμογής παλέτας χρωμάτων
+title: "Κλάση AdjustPalette"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Aspose.PSD.PaletteHelper.AdjustPalette κλάση. Κλάση προσαρμογής χρωματικής παλέτας"
 type: docs
-weight: 5180
+weight: 5670
 url: /el/net/aspose.psd.palettehelper/adjustpalette/
 ---
+{{< psd/tize >}}
 ## AdjustPalette class
 
-Κλάση προσαρμογής παλέτας χρωμάτων
+Κλάση ρύθμισης παλέτας χρωμάτων
 
 ```csharp
 public class AdjustPalette
@@ -16,13 +17,13 @@ public class AdjustPalette
 
 ## Κατασκευαστές
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
 | [AdjustPalette](adjustpalette/)() | Ο προεπιλεγμένος κατασκευαστής. |
 
 ### Δείτε επίσης
 
-* χώρος ονομάτων [Aspose.PSD.PaletteHelper](../../aspose.psd.palettehelper/)
-* συνέλευση [Aspose.PSD](../../)
+* namespace [Aspose.PSD.PaletteHelper](../../aspose.psd.palettehelper/)
+* assembly [Aspose.PSD](../../)
 
 

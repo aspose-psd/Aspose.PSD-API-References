@@ -1,14 +1,15 @@
 ---
-title: PieShape.PieShape
-second_title: Aspose.PSD για Αναφορά API .NET
-description: PieShape κατασκευαστής. Αρχικοποιεί μια νέα παρουσία τουPieShape τάξη.
+title: "PieShape.PieShape"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Κατασκευαστής PieShape. Αρχικοποιεί ένα νέο αντικείμενο της κλάσης PieShape."
 type: docs
 weight: 10
 url: /el/net/aspose.psd.shapes/pieshape/pieshape/
 ---
+{{< psd/tize >}}
 ## PieShape() {#constructor}
 
-Αρχικοποιεί μια νέα παρουσία του[`PieShape`](../) τάξη.
+Αρχικοποιεί ένα νέο αντικείμενο της κλάσης [`PieShape`](../).
 
 ```csharp
 public PieShape()
@@ -17,14 +18,14 @@ public PieShape()
 ### Δείτε επίσης
 
 * class [PieShape](../)
-* χώρος ονομάτων [Aspose.PSD.Shapes](../../pieshape/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## PieShape(RectangleF, float, float) {#constructor_1}
 
-Αρχικοποιεί μια νέα παρουσία του[`PieShape`](../) τάξη.
+Αρχικοποιεί ένα νέο αντικείμενο της κλάσης [`PieShape`](../).
 
 ```csharp
 public PieShape(RectangleF rectangle, float startAngle, float sweepAngle)
@@ -32,15 +33,15 @@ public PieShape(RectangleF rectangle, float startAngle, float sweepAngle)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| rectangle | RectangleF | Το ορθογώνιο. |
-| startAngle | Single | Η γωνία εκκίνησης. |
+| ορθογώνιο | RectangleF | Το ορθογώνιο. |
+| startAngle | Single | Η αρχική γωνία. |
 | sweepAngle | Single | Η γωνία σάρωσης. |
 
 ### Δείτε επίσης
 
 * struct [RectangleF](../../../aspose.psd/rectanglef/)
 * class [PieShape](../)
-* χώρος ονομάτων [Aspose.PSD.Shapes](../../pieshape/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 

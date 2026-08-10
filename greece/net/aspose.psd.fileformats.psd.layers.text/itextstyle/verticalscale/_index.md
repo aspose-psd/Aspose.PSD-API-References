@@ -1,22 +1,23 @@
 ---
-title: ITextStyle.VerticalScale
-second_title: Aspose.PSD για Αναφορά API .NET
-description: ITextStyle ιδιοκτησία. Η κατακόρυφη κλίμακα.
+title: "ITextStyle.VerticalScale"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "ITextStyle property. Η κάθετη κλίμακα"
 type: docs
 weight: 270
 url: /el/net/aspose.psd.fileformats.psd.layers.text/itextstyle/verticalscale/
 ---
+{{< psd/tize >}}
 ## ITextStyle.VerticalScale property
 
-Η κατακόρυφη κλίμακα.
+Κάθετη κλίμακα.
 
 ```csharp
 public double VerticalScale { get; set; }
 ```
 
-### Παραδείγματα
+## Παραδείγματα
 
-Ο παρακάτω κώδικας δείχνει την υποστήριξη της υποστήριξης νέων ιδιοτήτων ITextStyle.
+Ο παρακάτω κώδικας δείχνει την υποστήριξη των νέων ιδιοτήτων ITextStyle.
 
 ```csharp
 [C#]
@@ -71,7 +72,7 @@ using (var srcImage = (PsdImage)Image.Load(srcFile))
 ### Δείτε επίσης
 
 * interface [ITextStyle](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.Text](../../itextstyle/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.Text](../../../aspose.psd.fileformats.psd.layers.text/)
+* assembly [Aspose.PSD](../../../)
 
 

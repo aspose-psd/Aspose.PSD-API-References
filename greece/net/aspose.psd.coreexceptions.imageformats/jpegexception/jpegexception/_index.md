@@ -1,14 +1,15 @@
 ---
-title: JpegException.JpegException
-second_title: Aspose.PSD για Αναφορά API .NET
-description: JpegException κατασκευαστής. Αρχικοποιεί μια νέα παρουσία τουJpegException τάξη.
+title: "JpegException.JpegException"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Κατασκευαστής JpegException. Αρχικοποιεί μια νέα παρουσία της κλάσης JpegException"
 type: docs
 weight: 10
 url: /el/net/aspose.psd.coreexceptions.imageformats/jpegexception/jpegexception/
 ---
+{{< psd/tize >}}
 ## JpegException(string) {#constructor}
 
-Αρχικοποιεί μια νέα παρουσία του[`JpegException`](../) τάξη.
+Αρχικοποιεί μια νέα παρουσία της κλάσης [`JpegException`](../).
 
 ```csharp
 public JpegException(string message)
@@ -16,19 +17,19 @@ public JpegException(string message)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| message | String | Το μήνυμα εξαίρεσης. |
+| message | String | Το μήνυμα της εξαίρεσης. |
 
 ### Δείτε επίσης
 
 * class [JpegException](../)
-* χώρος ονομάτων [Aspose.PSD.CoreExceptions.ImageFormats](../../jpegexception/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.CoreExceptions.ImageFormats](../../../aspose.psd.coreexceptions.imageformats/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## JpegException(string, Exception) {#constructor_1}
 
-Αρχικοποιεί μια νέα παρουσία του[`JpegException`](../) τάξη.
+Αρχικοποιεί μια νέα παρουσία της κλάσης [`JpegException`](../).
 
 ```csharp
 public JpegException(string message, Exception innerException)
@@ -42,7 +43,7 @@ public JpegException(string message, Exception innerException)
 ### Δείτε επίσης
 
 * class [JpegException](../)
-* χώρος ονομάτων [Aspose.PSD.CoreExceptions.ImageFormats](../../jpegexception/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.CoreExceptions.ImageFormats](../../../aspose.psd.coreexceptions.imageformats/)
+* assembly [Aspose.PSD](../../../)
 
 

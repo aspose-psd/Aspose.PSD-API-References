@@ -1,11 +1,12 @@
 ---
-title: IPatternFillSettings.PatternHeight
-second_title: Aspose.PSD για Αναφορά API .NET
-description: IPatternFillSettings ιδιοκτησία. Λαμβάνει ή ορίζει το ύψος του μοτίβου.
+title: "IPatternFillSettings.PatternHeight"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "IPatternFillSettings ιδιότητα. Λαμβάνει ή ορίζει το ύψος του μοτίβου"
 type: docs
-weight: 40
+weight: 50
 url: /el/net/aspose.psd.fileformats.psd.layers.fillsettings/ipatternfillsettings/patternheight/
 ---
+{{< psd/tize >}}
 ## IPatternFillSettings.PatternHeight property
 
 Λαμβάνει ή ορίζει το ύψος του μοτίβου.
@@ -14,14 +15,14 @@ url: /el/net/aspose.psd.fileformats.psd.layers.fillsettings/ipatternfillsettings
 public int PatternHeight { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Το ύψος του σχεδίου.
+Το ύψος του μοτίβου.
 
 ### Δείτε επίσης
 
 * interface [IPatternFillSettings](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../ipatternfillsettings/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../../)
 
 

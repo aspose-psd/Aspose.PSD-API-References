@@ -1,14 +1,15 @@
 ---
-title: Class GdFlResource
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.GdFlResource τάξη. Κατηγορία GdFlResource. Αυτός ο πόρος περιέχει πληροφορίες σχετικά με την ανάμειξη αποκομμένου στοιχείου.
+title: "Κλάση GdFlResource"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Aspose.PSD.FileFormats.Psd.Layers.LayerResources.GdFlResource κλάση. Κλάση GdFlResource. Αυτός ο πόρος περιέχει πληροφορίες σχετικά με την ανάμειξη του περικομμένου στοιχείου"
 type: docs
-weight: 2500
+weight: 2760
 url: /el/net/aspose.psd.fileformats.psd.layers.layerresources/gdflresource/
 ---
+{{< psd/tize >}}
 ## GdFlResource class
 
-Κατηγορία GdFlResource. Αυτός ο πόρος περιέχει πληροφορίες σχετικά με την ανάμειξη αποκομμένου στοιχείου.
+Κλάση GdFlResource. Αυτός ο πόρος περιέχει πληροφορίες σχετικά με τη συγχώνευση του περικομμένου στοιχείου.
 
 ```csharp
 public class GdFlResource : FillLayerResource
@@ -16,48 +17,57 @@ public class GdFlResource : FillLayerResource
 
 ## Κατασκευαστές
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
 | [GdFlResource](gdflresource/)() | Ο προεπιλεγμένος κατασκευαστής. |
 
 ## Ιδιότητες
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
-| [AlignWithLayer](../../aspose.psd.fileformats.psd.layers.layerresources/gdflresource/alignwithlayer/) { get; set; } | Λαμβάνει ή ορίζει μια τιμή που υποδεικνύει εάν [ευθυγράμμιση με το επίπεδο]. |
-| [Angle](../../aspose.psd.fileformats.psd.layers.layerresources/gdflresource/angle/) { get; set; } | Παίρνει ή ρυθμίζει τη γωνία. |
-| [Color](../../aspose.psd.fileformats.psd.layers.layerresources/gdflresource/color/) { get; set; } | Παίρνει το χρώμα του RGB. |
-| [ColorPoints](../../aspose.psd.fileformats.psd.layers.layerresources/gdflresource/colorpoints/) { get; set; } | Παίρνει τους χρωματικούς πόντους. |
-| [Dither](../../aspose.psd.fileformats.psd.layers.layerresources/gdflresource/dither/) { get; set; } | Λαμβάνει ή ορίζει μια τιμή που υποδεικνύει εάν αυτό`GdFlResource` είναι διχασμός. |
-| [GradientInterval](../../aspose.psd.fileformats.psd.layers.layerresources/gdflresource/gradientinterval/) { get; set; } | Λαμβάνει ή ορίζει το διάστημα κλίσης. |
-| [GradientName](../../aspose.psd.fileformats.psd.layers.layerresources/gdflresource/gradientname/) { get; set; } | Λαμβάνει ή ορίζει το όνομα της διαβάθμισης. |
-| [GradientType](../../aspose.psd.fileformats.psd.layers.layerresources/gdflresource/gradienttype/) { get; set; } | Λαμβάνει ή ορίζει τον τύπο της κλίσης. |
+| [AlignWithLayer](../../aspose.psd.fileformats.psd.layers.layerresources/gdflresource/alignwithlayer/) { get; set; } | Λαμβάνει ή ορίζει μια τιμή που υποδεικνύει εάν αυτό το `BaseGradientFillSettings` είναι με θόρυβο. |
+| [Angle](../../aspose.psd.fileformats.psd.layers.layerresources/gdflresource/angle/) { get; set; } | Λαμβάνει ή ορίζει τη γωνία. |
+| [Color](../../aspose.psd.fileformats.psd.layers.layerresources/gdflresource/color/) { get; set; } | Λαμβάνει το χρώμα του RGB. |
+| [ColorModel](../../aspose.psd.fileformats.psd.layers.layerresources/gdflresource/colormodel/) { get; set; } | Μοντέλο χρώματος - RGB/HSB/LAB ("RGBC"/"HSBl"/"LbCl"). |
+| [ColorPoints](../../aspose.psd.fileformats.psd.layers.layerresources/gdflresource/colorpoints/) { get; set; } | Λαμβάνει τα σημεία χρώματος. |
+| [Dither](../../aspose.psd.fileformats.psd.layers.layerresources/gdflresource/dither/) { get; set; } | Λαμβάνει ή ορίζει μια τιμή που υποδεικνύει αν αυτό το `GdFlResource` είναι dithering. |
+| [GradientInterval](../../aspose.psd.fileformats.psd.layers.layerresources/gdflresource/gradientinterval/) { get; set; } | Λαμβάνει ή ορίζει το διάστημα διαβάθμισης. |
+| [GradientMode](../../aspose.psd.fileformats.psd.layers.layerresources/gdflresource/gradientmode/) { get; set; } | Λειτουργία για αυτή τη διαβάθμιση. Καθορίζει 'Gradient Type' = 'Solid/Noise' = "CstS"/"ClNs". |
+| [GradientName](../../aspose.psd.fileformats.psd.layers.layerresources/gdflresource/gradientname/) { get; set; } | Λαμβάνει ή ορίζει τον τύπο της διαβάθμισης. |
+| [GradientType](../../aspose.psd.fileformats.psd.layers.layerresources/gdflresource/gradienttype/) { get; set; } | Λαμβάνει ή ορίζει την οριζόντια μετατόπιση σε ποσοστό. |
 | [HorizontalOffset](../../aspose.psd.fileformats.psd.layers.layerresources/gdflresource/horizontaloffset/) { get; set; } | Λαμβάνει ή ορίζει την οριζόντια μετατόπιση. |
-| override [Key](../../aspose.psd.fileformats.psd.layers.layerresources/gdflresource/key/) { get; } | Λαμβάνει το κλειδί πόρων επιπέδου. |
-| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/gdflresource/length/) { get; } | Λαμβάνει το μήκος του πόρου του επιπέδου σε byte. |
-| override [PsdVersion](../../aspose.psd.fileformats.psd.layers.layerresources/gdflresource/psdversion/) { get; } | Λαμβάνει την ελάχιστη έκδοση psd που απαιτείται για τον πόρο του επιπέδου. Το 0 δεν υποδηλώνει περιορισμούς. |
-| [Reverse](../../aspose.psd.fileformats.psd.layers.layerresources/gdflresource/reverse/) { get; set; } | Λαμβάνει ή ορίζει μια τιμή που υποδεικνύει εάν αυτό`GdFlResource` είναι αντίστροφη. |
-| [Scale](../../aspose.psd.fileformats.psd.layers.layerresources/gdflresource/scale/) { get; set; } | Παίρνει ή ρυθμίζει την κλίμακα. |
-| override [Signature](../../aspose.psd.fileformats.psd.layers.layerresources/gdflresource/signature/) { get; } | Λαμβάνει την υπογραφή του πόρου του επιπέδου. |
-| [TransparencyPoints](../../aspose.psd.fileformats.psd.layers.layerresources/gdflresource/transparencypoints/) { get; set; } | Λαμβάνει τους πόντους διαφάνειας. |
+| [InterpolationMethod](../../aspose.psd.fileformats.psd.layers.layerresources/gdflresource/interpolationmethod/) { get; set; } | Λαμβάνει ή ορίζει τη μέθοδο παρεμβολής για τη διαβάθμιση. |
+| [Key](../../aspose.psd.fileformats.psd.layers/layerresource/key/) { get; } | Λαμβάνει το κλειδί πόρου του επιπέδου. |
+| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/gdflresource/length/) { get; } | Λαμβάνει το μήκος του πόρου του επιπέδου σε bytes. |
+| [MaximumColor](../../aspose.psd.fileformats.psd.layers.layerresources/gdflresource/maximumcolor/) { get; set; } | Μέγιστο χρώμα του PixelDataFormat. |
+| [MinimumColor](../../aspose.psd.fileformats.psd.layers.layerresources/gdflresource/minimumcolor/) { get; set; } | Ελάχιστο χρώμα του PixelDataFormat. |
+| virtual [PsdVersion](../../aspose.psd.fileformats.psd.layers/layerresource/psdversion/) { get; } | Λαμβάνει την ελάχιστη έκδοση psd που απαιτείται για τον πόρο του επιπέδου. 0 υποδεικνύει ότι δεν υπάρχουν περιορισμοί. |
+| [Reverse](../../aspose.psd.fileformats.psd.layers.layerresources/gdflresource/reverse/) { get; set; } | Λαμβάνει ή ορίζει μια τιμή που υποδεικνύει αν αυτό το `GdFlResource` είναι αντίστροφο. |
+| [RndNumberSeed](../../aspose.psd.fileformats.psd.layers.layerresources/gdflresource/rndnumberseed/) { get; set; } | Ο τυχαίος σπόρος αριθμού που χρησιμοποιείται για τη δημιουργία χρωμάτων για τη διαβάθμιση Noise. |
+| [Roughness](../../aspose.psd.fileformats.psd.layers.layerresources/gdflresource/roughness/) { get; set; } | Συντελεστής τραχύτητας. |
+| [Scale](../../aspose.psd.fileformats.psd.layers.layerresources/gdflresource/scale/) { get; set; } | Λαμβάνει ή ορίζει την κλίμακα. |
+| [ShowTransparency](../../aspose.psd.fileformats.psd.layers.layerresources/gdflresource/showtransparency/) { get; set; } | Σημαία για εμφάνιση διαφάνειας. |
+| virtual [Signature](../../aspose.psd.fileformats.psd.layers/layerresource/signature/) { get; } | Λαμβάνει την υπογραφή. |
+| [TransparencyPoints](../../aspose.psd.fileformats.psd.layers.layerresources/gdflresource/transparencypoints/) { get; set; } | Λαμβάνει τα σημεία διαφάνειας. |
+| [UseVectorColor](../../aspose.psd.fileformats.psd.layers.layerresources/gdflresource/usevectorcolor/) { get; set; } | Σημαία για χρήση διανυσματικού χρώματος. |
 | [VerticalOffset](../../aspose.psd.fileformats.psd.layers.layerresources/gdflresource/verticaloffset/) { get; set; } | Λαμβάνει ή ορίζει την κατακόρυφη μετατόπιση. |
 
 ## Μέθοδοι
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
 | override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/gdflresource/save/)(StreamContainer, int) | Αποθηκεύει τον πόρο στο καθορισμένο κοντέινερ ροής. |
-| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring/)() | Επιστρέφει αString που αντιπροσωπεύει αυτήν την περίπτωση. |
+| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring/)() | Επιστρέφει ένα String που αντιπροσωπεύει αυτήν την περίπτωση. |
 
 ## Πεδία
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
-| const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/gdflresource/typetoolkey/) | Το κλειδί πληροφοριών εργαλείου τύπου. |
+| const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/gdflresource/typetoolkey/) | Το κλειδί πληροφοριών του εργαλείου τύπου. |
 
-### Παραδείγματα
+## Παραδείγματα
 
-Το ακόλουθο παράδειγμα δείχνει την υποστήριξη της φόρτωσης πόρων GdFlResource.
+Το παρακάτω παράδειγμα δείχνει την υποστήριξη της φόρτωσης πόρων GdFlResource.
 
 ```csharp
 [C#]
@@ -77,7 +87,7 @@ using (im)
             {
                 if (res is GdFlResource)
                 {
-                    // ΑΝΑΓΝΩΣΗ
+                    // Ανάγνωση
                     var resource = (GdFlResource)res;
                     if (resource.AlignWithLayer != false ||
                      (Math.Abs(resource.Angle - 45.0) > 0.001) ||
@@ -155,7 +165,7 @@ using (im)
 
 * class [LayerResource](../../aspose.psd.fileformats.psd.layers/layerresource/)
 * class [FillLayerResource](../filllayerresource/)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
-* συνέλευση [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../)
 
 

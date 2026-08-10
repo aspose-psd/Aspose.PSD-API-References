@@ -1,27 +1,28 @@
 ---
-title: FxrpResource.Y
-second_title: Aspose.PSD για Αναφορά API .NET
-description: FxrpResource ιδιοκτησία. Παίρνει ή ορίζει το y του σημείου αναφοράς
+title: "FxrpResource.Y"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "FxrpResource ιδιότητα. Λαμβάνει ή ορίζει το y του σημείου αναφοράς"
 type: docs
-weight: 70
+weight: 40
 url: /el/net/aspose.psd.fileformats.psd.layers.layerresources/fxrpresource/y/
 ---
+{{< psd/tize >}}
 ## FxrpResource.Y property
 
-Παίρνει ή ορίζει το y του σημείου αναφοράς
+Λαμβάνει ή ορίζει το y του σημείου αναφοράς
 
 ```csharp
 public double Y { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
 Το y του σημείου αναφοράς
 
 ### Δείτε επίσης
 
 * class [FxrpResource](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../fxrpresource/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

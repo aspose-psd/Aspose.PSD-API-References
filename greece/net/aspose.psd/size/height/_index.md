@@ -1,14 +1,15 @@
 ---
-title: Size.Height
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Size ιδιοκτησία. Λαμβάνει ή ορίζει το κατακόρυφο στοιχείο αυτούSize .
+title: "Size.Height"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα Size. Αποκτά ή ορίζει το κάθετο στοιχείο αυτής της Size."
 type: docs
 weight: 80
 url: /el/net/aspose.psd/size/height/
 ---
+{{< psd/tize >}}
 ## Size.Height property
 
-Λαμβάνει ή ορίζει το κατακόρυφο στοιχείο αυτού[`Size`](../) .
+Αποκτά ή ορίζει το κάθετο στοιχείο αυτής της [`Size`](../).
 
 ```csharp
 public int Height { get; set; }
@@ -17,7 +18,7 @@ public int Height { get; set; }
 ### Δείτε επίσης
 
 * struct [Size](../)
-* χώρος ονομάτων [Aspose.PSD](../../size/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

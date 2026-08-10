@@ -1,11 +1,12 @@
 ---
-title: Class GifImageException
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Aspose.PSD.CoreExceptions.ImageFormats.GifImageException τάξη. Η εξαίρεση εικόνας Gif.
+title: "Κλάση GifImageException"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Κλάση Aspose.PSD.CoreExceptions.ImageFormats.GifImageException. Η εξαίρεση εικόνας Gif"
 type: docs
 weight: 520
 url: /el/net/aspose.psd.coreexceptions.imageformats/gifimageexception/
 ---
+{{< psd/tize >}}
 ## GifImageException class
 
 Η εξαίρεση εικόνας Gif.
@@ -16,15 +17,15 @@ public class GifImageException : ImageException
 
 ## Κατασκευαστές
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
-| [GifImageException](gifimageexception/#constructor)(string) | Αρχικοποιεί μια νέα παρουσία του`GifImageException` τάξη. |
-| [GifImageException](gifimageexception/#constructor_1)(string, Exception) | Αρχικοποιεί μια νέα παρουσία του`GifImageException` τάξη. |
+| [GifImageException](gifimageexception/#constructor)(string) | Αρχικοποιεί μια νέα παρουσία της κλάσης `GifImageException`. |
+| [GifImageException](gifimageexception/#constructor_1)(string, Exception) | Αρχικοποιεί μια νέα παρουσία της κλάσης `GifImageException`. |
 
 ### Δείτε επίσης
 
 * class [ImageException](../../aspose.psd.coreexceptions/imageexception/)
-* χώρος ονομάτων [Aspose.PSD.CoreExceptions.ImageFormats](../../aspose.psd.coreexceptions.imageformats/)
-* συνέλευση [Aspose.PSD](../../)
+* namespace [Aspose.PSD.CoreExceptions.ImageFormats](../../aspose.psd.coreexceptions.imageformats/)
+* assembly [Aspose.PSD](../../)
 
 

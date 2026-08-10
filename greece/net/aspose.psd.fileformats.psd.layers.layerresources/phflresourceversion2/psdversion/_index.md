@@ -1,11 +1,12 @@
 ---
-title: PhflResourceVersion2.PsdVersion
-second_title: Aspose.PSD για Αναφορά API .NET
-description: PhflResourceVersion2 ιδιοκτησία. Λαμβάνει την έκδοση psd.
+title: "PhflResourceVersion2.PsdVersion"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "PhflResourceVersion2 ιδιότητα. Λαμβάνει την έκδοση psd"
 type: docs
 weight: 80
 url: /el/net/aspose.psd.fileformats.psd.layers.layerresources/phflresourceversion2/psdversion/
 ---
+{{< psd/tize >}}
 ## PhflResourceVersion2.PsdVersion property
 
 Λαμβάνει την έκδοση psd.
@@ -17,7 +18,7 @@ public override int PsdVersion { get; }
 ### Δείτε επίσης
 
 * class [PhflResourceVersion2](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../phflresourceversion2/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: Font.FontName
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Font ιδιοκτησία. Λαμβάνει ή ορίζει το όνομα γραμματοσειράς PostScript.
+title: "Font.FontName"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα Font. Λαμβάνει ή ορίζει το όνομα γραμματοσειράς PostScript"
 type: docs
 weight: 60
 url: /el/net/aspose.psd.xmp.types.complex.font/font/fontname/
 ---
+{{< psd/tize >}}
 ## Font.FontName property
 
 Λαμβάνει ή ορίζει το όνομα γραμματοσειράς PostScript.
@@ -14,14 +15,14 @@ url: /el/net/aspose.psd.xmp.types.complex.font/font/fontname/
 public string FontName { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Το όνομα του ονόματος γραμματοσειράς PostScript.
+Το όνομα της γραμματοσειράς PostScript.
 
 ### Δείτε επίσης
 
 * class [Font](../)
-* χώρος ονομάτων [Aspose.PSD.Xmp.Types.Complex.Font](../../font/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.Font](../../../aspose.psd.xmp.types.complex.font/)
+* assembly [Aspose.PSD](../../../)
 
 

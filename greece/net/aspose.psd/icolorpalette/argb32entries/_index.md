@@ -1,31 +1,32 @@
 ---
-title: IColorPalette.Argb32Entries
-second_title: Aspose.PSD για Αναφορά API .NET
-description: IColorPalette ιδιοκτησία. Λαμβάνει έναν πίνακα δομών ARGB 32bit.
+title: "IColorPalette.Argb32Entries"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "IColorPalette ιδιότητα. Λαμβάνει έναν πίνακα 32bit ARGB δομών"
 type: docs
 weight: 10
 url: /el/net/aspose.psd/icolorpalette/argb32entries/
 ---
+{{< psd/tize >}}
 ## IColorPalette.Argb32Entries property
 
-Λαμβάνει έναν πίνακα δομών ARGB 32-bit.
+Λαμβάνει έναν πίνακα δομών 32-bit ARGB.
 
 ```csharp
 public int[] Argb32Entries { get; }
 ```
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-Ο πίνακας της δομής ARGB 32-bit που το απαρτίζει[`ColorPalette`](../../colorpalette/) .
+Ο πίνακας των 32-bit ARGB δομών που αποτελούν αυτό το [`ColorPalette`](../../colorpalette/).
 
-### Αξία περιουσίας
+### Property Value
 
-Οι καταχωρήσεις ARGB 32-bit.
+Οι 32-bit ARGB καταχωρήσεις.
 
 ### Δείτε επίσης
 
 * interface [IColorPalette](../)
-* χώρος ονομάτων [Aspose.PSD](../../icolorpalette/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

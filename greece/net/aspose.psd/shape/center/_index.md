@@ -1,11 +1,12 @@
 ---
-title: Shape.Center
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Shape ιδιοκτησία. Λαμβάνει το κέντρο του σχήματος.
+title: "Shape.Center"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα Shape. Επιστρέφει το κέντρο του σχήματος"
 type: docs
 weight: 10
 url: /el/net/aspose.psd/shape/center/
 ---
+{{< psd/tize >}}
 ## Shape.Center property
 
 Λαμβάνει το κέντρο του σχήματος.
@@ -14,7 +15,7 @@ url: /el/net/aspose.psd/shape/center/
 public abstract PointF Center { get; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
 Το κέντρο του σχήματος.
 
@@ -22,7 +23,7 @@ public abstract PointF Center { get; }
 
 * struct [PointF](../../pointf/)
 * class [Shape](../)
-* χώρος ονομάτων [Aspose.PSD](../../shape/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

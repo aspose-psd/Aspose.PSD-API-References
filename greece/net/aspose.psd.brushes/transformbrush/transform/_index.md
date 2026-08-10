@@ -1,28 +1,29 @@
 ---
-title: TransformBrush.Transform
-second_title: Aspose.PSD για Αναφορά API .NET
-description: TransformBrush ιδιοκτησία. Λαμβάνει ή ορίζει ένα αντίγραφοMatrix που ορίζει έναν τοπικό γεωμετρικό μετασχηματισμό για αυτόTransformBrush .
+title: "TransformBrush.Transform"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα TransformBrush. Λαμβάνει ή ορίζει ένα αντίγραφο της Matrix που ορίζει έναν τοπικό γεωμετρικό μετασχηματισμό για αυτό το TransformBrush"
 type: docs
 weight: 20
 url: /el/net/aspose.psd.brushes/transformbrush/transform/
 ---
+{{< psd/tize >}}
 ## TransformBrush.Transform property
 
-Λαμβάνει ή ορίζει ένα αντίγραφο[`Matrix`](../../../aspose.psd/matrix/) που ορίζει έναν τοπικό γεωμετρικό μετασχηματισμό για αυτό[`TransformBrush`](../) .
+Λαμβάνει ή ορίζει ένα αντίγραφο της [`Matrix`](../../../aspose.psd/matrix/) που ορίζει έναν τοπικό γεωμετρικό μετασχηματισμό για αυτό το [`TransformBrush`](../).
 
 ```csharp
 public Matrix Transform { get; set; }
 ```
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-Ένα αντίγραφο του[`Matrix`](../../../aspose.psd/matrix/) που ορίζει έναν γεωμετρικό μετασχηματισμό που ισχύει μόνο για γεμίσματα που σχεδιάζονται με αυτό[`TransformBrush`](../).
+Ένα αντίγραφο της [`Matrix`](../../../aspose.psd/matrix/) που ορίζει έναν γεωμετρικό μετασχηματισμό που εφαρμόζεται μόνο σε γεμίσματα που σχεδιάζονται με αυτό το [`TransformBrush`](../).
 
 ### Δείτε επίσης
 
 * class [Matrix](../../../aspose.psd/matrix/)
 * class [TransformBrush](../)
-* χώρος ονομάτων [Aspose.PSD.Brushes](../../transformbrush/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
+* assembly [Aspose.PSD](../../../)
 
 

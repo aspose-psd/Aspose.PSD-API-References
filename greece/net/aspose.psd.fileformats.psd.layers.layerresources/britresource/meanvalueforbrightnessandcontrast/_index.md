@@ -1,11 +1,12 @@
 ---
-title: BritResource.MeanValueForBrightnessAndContrast
-second_title: Aspose.PSD για Αναφορά API .NET
-description: BritResource ιδιοκτησία. Λαμβάνει ή ορίζει τη μέση τιμή για τη φωτεινότητα και την αντίθεση.
+title: "BritResource.MeanValueForBrightnessAndContrast"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα BritResource. Λαμβάνει ή ορίζει τη μέση τιμή για φωτεινότητα και αντίθεση"
 type: docs
-weight: 70
+weight: 60
 url: /el/net/aspose.psd.fileformats.psd.layers.layerresources/britresource/meanvalueforbrightnessandcontrast/
 ---
+{{< psd/tize >}}
 ## BritResource.MeanValueForBrightnessAndContrast property
 
 Λαμβάνει ή ορίζει τη μέση τιμή για τη φωτεινότητα και την αντίθεση.
@@ -14,14 +15,14 @@ url: /el/net/aspose.psd.fileformats.psd.layers.layerresources/britresource/meanv
 public short MeanValueForBrightnessAndContrast { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Η μέση τιμή για τη φωτεινότητα και την αντίθεση.
+Η μέση τιμή για φωτεινότητα και αντίθεση.
 
 ### Δείτε επίσης
 
 * class [BritResource](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../britresource/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

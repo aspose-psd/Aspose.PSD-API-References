@@ -1,11 +1,12 @@
 ---
-title: TiffDataType.Count
-second_title: Aspose.PSD για Αναφορά API .NET
-description: TiffDataType ιδιοκτησία. Λαμβάνει τον αριθμό των στοιχείων.
+title: "TiffDataType.Count"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "TiffDataType ιδιότητα. Λαμβάνει τον αριθμό των στοιχείων"
 type: docs
 weight: 30
 url: /el/net/aspose.psd.fileformats.tiff/tiffdatatype/count/
 ---
+{{< psd/tize >}}
 ## TiffDataType.Count property
 
 Λαμβάνει τον αριθμό των στοιχείων.
@@ -14,14 +15,14 @@ url: /el/net/aspose.psd.fileformats.tiff/tiffdatatype/count/
 public abstract uint Count { get; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Το πλήθος των στοιχείων.
+Ο αριθμός των στοιχείων.
 
 ### Δείτε επίσης
 
 * class [TiffDataType](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Tiff](../../tiffdatatype/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff](../../../aspose.psd.fileformats.tiff/)
+* assembly [Aspose.PSD](../../../)
 
 

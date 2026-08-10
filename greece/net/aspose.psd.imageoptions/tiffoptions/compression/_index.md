@@ -1,20 +1,21 @@
 ---
-title: TiffOptions.Compression
-second_title: Aspose.PSD για Αναφορά API .NET
-description: TiffOptions ιδιοκτησία. Λαμβάνει ή ρυθμίζει τη συμπίεση.
+title: "TiffOptions.Compression"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "TiffOptions ιδιότητα. Λαμβάνει ή ορίζει τη συμπίεση"
 type: docs
 weight: 90
 url: /el/net/aspose.psd.imageoptions/tiffoptions/compression/
 ---
+{{< psd/tize >}}
 ## TiffOptions.Compression property
 
-Λαμβάνει ή ρυθμίζει τη συμπίεση.
+Λαμβάνει ή ορίζει τη συμπίεση.
 
 ```csharp
 public TiffCompressions Compression { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
 Η συμπίεση.
 
@@ -22,7 +23,7 @@ public TiffCompressions Compression { get; set; }
 
 * enum [TiffCompressions](../../../aspose.psd.fileformats.tiff.enums/tiffcompressions/)
 * class [TiffOptions](../)
-* χώρος ονομάτων [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: Dimensions.Width
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Dimensions ιδιοκτησία. Λαμβάνει ή ορίζει το πλάτος.
+title: "Dimensions.Width"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα Dimensions. Λαμβάνει ή ορίζει το πλάτος"
 type: docs
 weight: 40
 url: /el/net/aspose.psd.xmp.types.complex.dimensions/dimensions/width/
 ---
+{{< psd/tize >}}
 ## Dimensions.Width property
 
 Λαμβάνει ή ορίζει το πλάτος.
@@ -14,20 +15,20 @@ url: /el/net/aspose.psd.xmp.types.complex.dimensions/dimensions/width/
 public float Width { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
 Το πλάτος.
 
 ### Εξαιρέσεις
 
-| εξαίρεση | κατάσταση |
+| εξαίρεση | συνθήκη |
 | --- | --- |
-| ArgumentOutOfRangeException | τιμή;Το πλάτος δεν θα μπορούσε να είναι μικρότερο από μηδέν |
+| ArgumentOutOfRangeException | value;Το πλάτος δεν μπορεί να είναι μικρότερο του μηδενός |
 
 ### Δείτε επίσης
 
 * class [Dimensions](../)
-* χώρος ονομάτων [Aspose.PSD.Xmp.Types.Complex.Dimensions](../../dimensions/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.Dimensions](../../../aspose.psd.xmp.types.complex.dimensions/)
+* assembly [Aspose.PSD](../../../)
 
 

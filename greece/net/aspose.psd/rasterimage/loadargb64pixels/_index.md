@@ -1,14 +1,15 @@
 ---
-title: RasterImage.LoadArgb64Pixels
-second_title: Aspose.PSD για Αναφορά API .NET
-description: RasterImage μέθοδος. Φορτώνει pixel ARGB 64bit.
+title: "RasterImage.LoadArgb64Pixels"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Μέθοδος RasterImage. Φορτώνει εικονοστοιχεία ARGB 64bit"
 type: docs
 weight: 360
 url: /el/net/aspose.psd/rasterimage/loadargb64pixels/
 ---
+{{< psd/tize >}}
 ## RasterImage.LoadArgb64Pixels method
 
-Φορτώνει pixel ARGB 64-bit.
+Φορτώνει εικονοστοιχεία 64-bit ARGB.
 
 ```csharp
 public long[] LoadArgb64Pixels(Rectangle rectangle)
@@ -16,9 +17,9 @@ public long[] LoadArgb64Pixels(Rectangle rectangle)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| rectangle | Rectangle | Το ορθογώνιο από το οποίο φορτώνονται τα εικονοστοιχεία. |
+| ορθογώνιο | Rectangle | Το ορθογώνιο από το οποίο θα φορτωθούν τα εικονοστοιχεία. |
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
 Ο φορτωμένος πίνακας εικονοστοιχείων ARGB 64-bit.
 
@@ -26,7 +27,7 @@ public long[] LoadArgb64Pixels(Rectangle rectangle)
 
 * struct [Rectangle](../../rectangle/)
 * class [RasterImage](../)
-* χώρος ονομάτων [Aspose.PSD](../../rasterimage/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

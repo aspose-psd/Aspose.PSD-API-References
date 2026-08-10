@@ -1,11 +1,12 @@
 ---
-title: DocumentSpecificIdsResource.Id
-second_title: Aspose.PSD για Αναφορά API .NET
-description: DocumentSpecificIdsResource ιδιοκτησία. Λαμβάνει ή ορίζει το αναγνωριστικό.
+title: "DocumentSpecificIdsResource.Id"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα DocumentSpecificIdsResource. Λαμβάνει ή ορίζει το αναγνωριστικό"
 type: docs
 weight: 30
 url: /el/net/aspose.psd.fileformats.psd.resources/documentspecificidsresource/id/
 ---
+{{< psd/tize >}}
 ## DocumentSpecificIdsResource.Id property
 
 Λαμβάνει ή ορίζει το αναγνωριστικό.
@@ -14,14 +15,14 @@ url: /el/net/aspose.psd.fileformats.psd.resources/documentspecificidsresource/id
 public int Id { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
 Το αναγνωριστικό.
 
 ### Δείτε επίσης
 
 * class [DocumentSpecificIdsResource](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Resources](../../documentspecificidsresource/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

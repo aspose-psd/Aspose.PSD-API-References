@@ -1,14 +1,15 @@
 ---
-title: Class ColorBlendExtensions
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Aspose.PSD.Extensions.ColorBlendExtensions τάξη. ΠεριέχειColorBlend μέθοδοι επέκτασης.
+title: "Κλάση ColorBlendExtensions"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Κλάση Aspose.PSD.Extensions.ColorBlendExtensions. Περιέχει μεθόδους επέκτασης ColorBlend"
 type: docs
-weight: 1040
+weight: 1050
 url: /el/net/aspose.psd.extensions/colorblendextensions/
 ---
+{{< psd/tize >}}
 ## ColorBlendExtensions class
 
-Περιέχει[`ColorBlend`](../../aspose.psd/colorblend/) μέθοδοι επέκτασης.
+Περιέχει μεθόδους επέκτασης [`ColorBlend`](../../aspose.psd/colorblend/).
 
 ```csharp
 public static class ColorBlendExtensions
@@ -16,13 +17,13 @@ public static class ColorBlendExtensions
 
 ## Μέθοδοι
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
-| static [ToGdiColorBlend](../../aspose.psd.extensions/colorblendextensions/togdicolorblend/)(ColorBlend) | Μετατρέπει το[`ColorBlend`](../../aspose.psd/colorblend/) προς τηνColorBlend . |
+| static [ToGdiColorBlend](../../aspose.psd.extensions/colorblendextensions/togdicolorblend/)(ColorBlend) | Μετατρέπει το [`ColorBlend`](../../aspose.psd/colorblend/) σε ColorBlend. |
 
 ### Δείτε επίσης
 
-* χώρος ονομάτων [Aspose.PSD.Extensions](../../aspose.psd.extensions/)
-* συνέλευση [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Extensions](../../aspose.psd.extensions/)
+* assembly [Aspose.PSD](../../)
 
 

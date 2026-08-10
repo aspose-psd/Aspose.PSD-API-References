@@ -1,14 +1,15 @@
 ---
-title: Class OuterGlowEffect
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerEffects.OuterGlowEffect τάξη. Εφέ εξωτερικού στρώματος λάμψης
+title: "Κλάση OuterGlowEffect"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Aspose.PSD.FileFormats.Psd.Layers.LayerEffects.OuterGlowEffect κλάση. Εφέ στρώσης Outer Glow."
 type: docs
-weight: 2170
+weight: 2370
 url: /el/net/aspose.psd.fileformats.psd.layers.layereffects/outergloweffect/
 ---
+{{< psd/tize >}}
 ## OuterGlowEffect class
 
-Εφέ εξωτερικού στρώματος λάμψης
+Εφέ στρώσης Εξωτερικής Λάμψης
 
 ```csharp
 public class OuterGlowEffect : ILayerEffect
@@ -16,25 +17,31 @@ public class OuterGlowEffect : ILayerEffect
 
 ## Ιδιότητες
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
-| [BlendMode](../../aspose.psd.fileformats.psd.layers.layereffects/outergloweffect/blendmode/) { get; set; } | Λαμβάνει ή ρυθμίζει τη λειτουργία ανάμειξης. |
-| [EffectType](../../aspose.psd.fileformats.psd.layers.layereffects/outergloweffect/effecttype/) { get; } | Λαμβάνει έναν τύπο εφέ type |
-| [FillColor](../../aspose.psd.fileformats.psd.layers.layereffects/outergloweffect/fillcolor/) { get; set; } | Παίρνει ή ρυθμίζει το χρώμα. |
-| [Intensity](../../aspose.psd.fileformats.psd.layers.layereffects/outergloweffect/intensity/) { get; set; } | Λαμβάνει ή ρυθμίζει τη γωνία σε μοίρες. |
-| [IsAntiAliasing](../../aspose.psd.fileformats.psd.layers.layereffects/outergloweffect/isantialiasing/) { get; set; } | Αποκτά ή ενεργοποιεί το AntiAliasing effect |
+| [BlendMode](../../aspose.psd.fileformats.psd.layers.layereffects/outergloweffect/blendmode/) { get; set; } | Λαμβάνει ή ορίζει τη λειτουργία ανάμειξης. |
+| [EffectType](../../aspose.psd.fileformats.psd.layers.layereffects/outergloweffect/effecttype/) { get; } | Λαμβάνει έναν τύπο εφέ. |
+| [FillColor](../../aspose.psd.fileformats.psd.layers.layereffects/outergloweffect/fillcolor/) { get; set; } | Λαμβάνει ή ορίζει το χρώμα. |
+| [Intensity](../../aspose.psd.fileformats.psd.layers.layereffects/outergloweffect/intensity/) { get; set; } | Λαμβάνει ή ορίζει τη γωνία σε μοίρες. |
+| [IsAntiAliasing](../../aspose.psd.fileformats.psd.layers.layereffects/outergloweffect/isantialiasing/) { get; set; } | Λαμβάνει ή ορίζει το ενεργοποιημένο εφέ AntiAliasing. |
 | [IsSoftBlend](../../aspose.psd.fileformats.psd.layers.layereffects/outergloweffect/issoftblend/) { get; set; } | Λαμβάνει ή ορίζει μια τιμή που υποδεικνύει εάν [knocks out]. |
 | [IsVisible](../../aspose.psd.fileformats.psd.layers.layereffects/outergloweffect/isvisible/) { get; set; } | Λαμβάνει ή ορίζει μια τιμή που υποδεικνύει εάν αυτή η παρουσία είναι ορατή. |
-| [Jitter](../../aspose.psd.fileformats.psd.layers.layereffects/outergloweffect/jitter/) { get; set; } | Λαμβάνει ή ρυθμίζει το θόρυβο. |
-| [Noise](../../aspose.psd.fileformats.psd.layers.layereffects/outergloweffect/noise/) { get; set; } | Λαμβάνει ή ρυθμίζει το θόρυβο. |
-| [Opacity](../../aspose.psd.fileformats.psd.layers.layereffects/outergloweffect/opacity/) { get; set; } | Λαμβάνει ή ορίζει την αδιαφάνεια. |
-| [Range](../../aspose.psd.fileformats.psd.layers.layereffects/outergloweffect/range/) { get; set; } | Λαμβάνει ή ρυθμίζει το θόρυβο. |
-| [Size](../../aspose.psd.fileformats.psd.layers.layereffects/outergloweffect/size/) { get; } | Λαμβάνει την τιμή θαμπώματος σε pixel. |
+| [Jitter](../../aspose.psd.fileformats.psd.layers.layereffects/outergloweffect/jitter/) { get; set; } | Λαμβάνει ή ορίζει τον θόρυβο. |
+| [Noise](../../aspose.psd.fileformats.psd.layers.layereffects/outergloweffect/noise/) { get; set; } | Λαμβάνει ή ορίζει τον θόρυβο. |
+| [Opacity](../../aspose.psd.fileformats.psd.layers.layereffects/outergloweffect/opacity/) { get; set; } | Λαμβάνει ή ορίζει τη διαφάνεια. |
+| [Range](../../aspose.psd.fileformats.psd.layers.layereffects/outergloweffect/range/) { get; set; } | Λαμβάνει ή ορίζει τον θόρυβο. |
+| [Size](../../aspose.psd.fileformats.psd.layers.layereffects/outergloweffect/size/) { get; set; } | Λαμβάνει την τιμή θολώματος σε εικονοστοιχεία. |
 | [Spread](../../aspose.psd.fileformats.psd.layers.layereffects/outergloweffect/spread/) { get; set; } | Λαμβάνει ή ορίζει την ένταση ως ποσοστό. |
 
-### Παραδείγματα
+## Μέθοδοι
 
-Ο παρακάτω κώδικας δείχνει την υποστήριξη OuterGlowEffect.
+| Όνομα | Περιγραφή |
+| --- | --- |
+| [GetEffectBounds](../../aspose.psd.fileformats.psd.layers.layereffects/outergloweffect/geteffectbounds/)(Rectangle, int) | Υπολογίζει και λαμβάνει τα όρια των εικονοστοιχείων εφέ βάσει των ορίων των εικονοστοιχείων εισόδου της στρώσης. |
+
+## Παραδείγματα
+
+Ο παρακάτω κώδικας δείχνει την υποστήριξη του OuterGlowEffect.
 
 ```csharp
 [C#]
@@ -58,7 +65,7 @@ using (var image = (PsdImage)Image.Load(src))
 ### Δείτε επίσης
 
 * interface [ILayerEffect](../ilayereffect/)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../aspose.psd.fileformats.psd.layers.layereffects/)
-* συνέλευση [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../)
 
 

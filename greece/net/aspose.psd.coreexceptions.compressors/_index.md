@@ -1,16 +1,17 @@
 ---
-title: Aspose.PSD.CoreExceptions.Compressors
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Ο χώρος ονομάτων περιέχει εξαιρέσεις που δημιουργούνται από έναν από τους υποστηριζόμενους αλγόριθμους συμπίεσης.
+title: "Aspose.PSD.CoreExceptions.Compressors"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ο χώρος ονομάτων περιέχει εξαιρέσεις που ρίχνονται από έναν από τους υποστηριζόμενους αλγορίθμους συμπίεσης"
 type: docs
 weight: 50
 url: /el/net/aspose.psd.coreexceptions.compressors/
 ---
-Ο χώρος ονομάτων περιέχει εξαιρέσεις που δημιουργούνται από έναν από τους υποστηριζόμενους αλγόριθμους συμπίεσης.
+{{< psd/tize >}}
+Ο χώρος ονομάτων περιέχει εξαιρέσεις που ρίχνονται από έναν από τους υποστηριζόμενους αλγόριθμους συμπίεσης.
 
-## Τάξεις
+## Κλάσεις
 
-| Τάξη | Περιγραφή |
+| Κλάση | Περιγραφή |
 | --- | --- |
 | [DeflateCompressorException](./deflatecompressorexception/) | Η εξαίρεση του συμπιεστή Deflate. |
 | [LzwCompressorException](./lzwcompressorexception/) | Η εξαίρεση του συμπιεστή lzw. |

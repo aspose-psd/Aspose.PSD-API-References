@@ -1,27 +1,28 @@
 ---
-title: InfxResource.BlendInteriorElements
-second_title: Aspose.PSD για Αναφορά API .NET
-description: InfxResource ιδιοκτησία. Λαμβάνει ή ορίζει μια τιμή που υποδεικνύει εάν blend interior element.
+title: "InfxResource.BlendInteriorElements"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα InfxResource. Λαμβάνει ή ορίζει μια τιμή που υποδεικνύει εάν γίνεται συνδυασμός εσωτερικών στοιχείων"
 type: docs
 weight: 20
 url: /el/net/aspose.psd.fileformats.psd.layers.layerresources/infxresource/blendinteriorelements/
 ---
+{{< psd/tize >}}
 ## InfxResource.BlendInteriorElements property
 
-Λαμβάνει ή ορίζει μια τιμή που υποδεικνύει εάν [blend interior element].
+Λαμβάνει ή ορίζει μια τιμή που υποδεικνύει αν [blend interior elements].
 
 ```csharp
 public bool BlendInteriorElements { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-`αληθής` εάν [αναμείξτε εσωτερικά στοιχεία]; σε διαφορετική περίπτωση,`ψευδής` .
+`true` εάν [συνδυασμός εσωτερικών στοιχείων]; διαφορετικά, `false`.
 
 ### Δείτε επίσης
 
 * class [InfxResource](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../infxresource/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

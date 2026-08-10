@@ -1,14 +1,15 @@
 ---
-title: RectangleF.Normalize
-second_title: Aspose.PSD για Αναφορά API .NET
-description: RectangleF μέθοδος. Κανονικοποιεί το ορθογώνιο καθιστώντας το πλάτος και το ύψος του θετικά αριστερά λιγότερο από δεξιά και πάνω λιγότερο από κάτω.
+title: "RectangleF.Normalize"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Μέθοδος RectangleF. Κανονικοποιεί το ορθογώνιο κάνοντας το πλάτος και το ύψος του θετικά, το αριστερό μικρότερο από το δεξί και το άνω μικρότερο από το κάτω"
 type: docs
 weight: 230
 url: /el/net/aspose.psd/rectanglef/normalize/
 ---
+{{< psd/tize >}}
 ## RectangleF.Normalize method
 
-Κανονικοποιεί το ορθογώνιο καθιστώντας το πλάτος και το ύψος του θετικά, αριστερά λιγότερο από δεξιά και πάνω λιγότερο από κάτω.
+Κανονικοποιεί το ορθογώνιο κάνοντας το πλάτος και το ύψος του θετικά, το αριστερό μικρότερο από το δεξί και το άνω μικρότερο από το κάτω.
 
 ```csharp
 public void Normalize()
@@ -17,7 +18,7 @@ public void Normalize()
 ### Δείτε επίσης
 
 * struct [RectangleF](../)
-* χώρος ονομάτων [Aspose.PSD](../../rectanglef/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

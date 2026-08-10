@@ -1,27 +1,28 @@
 ---
-title: StreamContainer.CanWrite
-second_title: Aspose.PSD για Αναφορά API .NET
-description: StreamContainer ιδιοκτησία. Λαμβάνει μια τιμή που υποδεικνύει εάν η ροή υποστηρίζει εγγραφή.
+title: "StreamContainer.CanWrite"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα StreamContainer. Λαμβάνει μια τιμή που υποδεικνύει εάν η ροή υποστηρίζει εγγραφή"
 type: docs
 weight: 40
 url: /el/net/aspose.psd/streamcontainer/canwrite/
 ---
+{{< psd/tize >}}
 ## StreamContainer.CanWrite property
 
-Λαμβάνει μια τιμή που υποδεικνύει εάν η ροή υποστηρίζει εγγραφή.
+Λαμβάνει μια τιμή που υποδεικνύει αν το stream υποστηρίζει εγγραφή.
 
 ```csharp
 public virtual bool CanWrite { get; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-`αληθής` αν η ροή υποστηρίζει γραφή. σε διαφορετική περίπτωση,`ψευδής`.
+`true` εάν η ροή υποστηρίζει εγγραφή· διαφορετικά, `false`.
 
 ### Δείτε επίσης
 
 * class [StreamContainer](../)
-* χώρος ονομάτων [Aspose.PSD](../../streamcontainer/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

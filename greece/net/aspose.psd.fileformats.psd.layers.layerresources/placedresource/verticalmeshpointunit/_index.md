@@ -1,28 +1,29 @@
 ---
-title: PlacedResource.VerticalMeshPointUnit
-second_title: Aspose.PSD για Αναφορά API .NET
-description: PlacedResource ιδιοκτησία. Λαμβάνει ή ορίζει τη μονάδα μέτρησης των κατακόρυφων σημείων πλέγματος.
+title: "PlacedResource.VerticalMeshPointUnit"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα PlacedResource. Λαμβάνει ή ορίζει τη μονάδα μέτρησης των κάθετων σημείων πλέγματος"
 type: docs
-weight: 230
+weight: 220
 url: /el/net/aspose.psd.fileformats.psd.layers.layerresources/placedresource/verticalmeshpointunit/
 ---
+{{< psd/tize >}}
 ## PlacedResource.VerticalMeshPointUnit property
 
-Λαμβάνει ή ορίζει τη μονάδα μέτρησης των κατακόρυφων σημείων πλέγματος.
+Ανακτά ή ορίζει τη μονάδα μέτρησης των κάθετων σημείων πλέγματος.
 
 ```csharp
 public UnitTypes VerticalMeshPointUnit { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Η μονάδα μέτρησης των κατακόρυφων σημείων πλέγματος.
+Η μονάδα μέτρησης των κάθετων σημείων πλέγματος.
 
 ### Δείτε επίσης
 
 * enum [UnitTypes](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/unittypes/)
 * class [PlacedResource](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../placedresource/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

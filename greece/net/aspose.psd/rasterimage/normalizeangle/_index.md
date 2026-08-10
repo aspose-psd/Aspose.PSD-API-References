@@ -1,14 +1,15 @@
 ---
-title: RasterImage.NormalizeAngle
-second_title: Aspose.PSD για Αναφορά API .NET
-description: RasterImage μέθοδος. Κανονικοποιεί τη γωνία. Αυτή η μέθοδος εφαρμόζεται σε σαρωμένα έγγραφα κειμένου για να απαλλαγούμε από τη λοξή σάρωση. Αυτή η μέθοδος χρησιμοποιείGetSkewAngle καιRotate μέθοδοι.
+title: "RasterImage.NormalizeAngle"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Μέθοδος RasterImage. Κανονικοποιεί τη γωνία. Αυτή η μέθοδος εφαρμόζεται σε σαρωμένα έγγραφα κειμένου για την απομάκρυνση της παραμόρφωσης της σάρωσης. Η μέθοδος χρησιμοποιεί τις μεθόδους GetSkewAngle και Rotate."
 type: docs
-weight: 420
+weight: 430
 url: /el/net/aspose.psd/rasterimage/normalizeangle/
 ---
+{{< psd/tize >}}
 ## NormalizeAngle() {#normalizeangle}
 
-Κανονικοποιεί τη γωνία. Αυτή η μέθοδος εφαρμόζεται σε σαρωμένα έγγραφα κειμένου για να απαλλαγούμε από τη λοξή σάρωση. Αυτή η μέθοδος χρησιμοποιεί[`GetSkewAngle`](../getskewangle/) και[`Rotate`](../rotate/) μέθοδοι.
+Κανονικοποιεί τη γωνία. Αυτή η μέθοδος εφαρμόζεται σε σαρωμένα έγγραφα κειμένου για την απομάκρυνση της παραμόρφωσης της σάρωσης. Η μέθοδος χρησιμοποιεί τις μεθόδους [`GetSkewAngle`](../getskewangle/) και [`Rotate`](../rotate/).
 
 ```csharp
 public void NormalizeAngle()
@@ -17,14 +18,14 @@ public void NormalizeAngle()
 ### Δείτε επίσης
 
 * class [RasterImage](../)
-* χώρος ονομάτων [Aspose.PSD](../../rasterimage/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## NormalizeAngle(bool, Color) {#normalizeangle_1}
 
-Κανονικοποιεί τη γωνία. Αυτή η μέθοδος εφαρμόζεται σε σαρωμένα έγγραφα κειμένου για να απαλλαγούμε από τη λοξή σάρωση. Αυτή η μέθοδος χρησιμοποιεί[`GetSkewAngle`](../getskewangle/) και[`Rotate`](../rotate/) μέθοδοι.
+Κανονικοποιεί τη γωνία. Αυτή η μέθοδος εφαρμόζεται σε σαρωμένα έγγραφα κειμένου για την απομάκρυνση της παραμόρφωσης της σάρωσης. Η μέθοδος χρησιμοποιεί τις μεθόδους [`GetSkewAngle`](../getskewangle/) και [`Rotate`](../rotate/).
 
 ```csharp
 public virtual void NormalizeAngle(bool resizeProportionally, Color backgroundColor)
@@ -32,14 +33,14 @@ public virtual void NormalizeAngle(bool resizeProportionally, Color backgroundCo
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| resizeProportionally | Boolean | εάν έχει οριστεί σε`αληθής` θα αλλάξετε το μέγεθος της εικόνας σας σύμφωνα με τις προβολές περιστρεφόμενου ορθογωνίου (γωνιακά σημεία) σε άλλη περίπτωση που αφήνει ανέγγιχτες τις διαστάσεις και περιστρέφονται μόνο τα εσωτερικά περιεχόμενα της εικόνας. |
-| backgroundColor | Color | Χρώμα φόντου. |
+| resizeProportionally | Boolean | εάν οριστεί σε `true` το μέγεθος της εικόνας θα αλλάξει σύμφωνα με τις προβολές του περιστρεφόμενου ορθογωνίου (σημεία γωνιών), διαφορετικά οι διαστάσεις θα παραμείνουν αμετάβλητες και μόνο τα εσωτερικά περιεχόμενα της εικόνας θα περιστραφούν. |
+| backgroundColor | Χρώμα | Χρώμα του φόντου. |
 
 ### Δείτε επίσης
 
 * struct [Color](../../color/)
 * class [RasterImage](../)
-* χώρος ονομάτων [Aspose.PSD](../../rasterimage/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

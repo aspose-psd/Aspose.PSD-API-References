@@ -1,27 +1,28 @@
 ---
-title: TypeToolStyleInfo.FaceMarkValue
-second_title: Aspose.PSD για Αναφορά API .NET
-description: TypeToolStyleInfo ιδιοκτησία. Λαμβάνει ή ορίζει την τιμή της ονομαστικής σήμανσης.
+title: "TypeToolStyleInfo.FaceMarkValue"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα TypeToolStyleInfo. Λαμβάνει ή ορίζει την τιμή σήμανσης προσώπου"
 type: docs
 weight: 40
 url: /el/net/aspose.psd.fileformats.psd.layers.layerresources/typetoolstyleinfo/facemarkvalue/
 ---
+{{< psd/tize >}}
 ## TypeToolStyleInfo.FaceMarkValue property
 
-Λαμβάνει ή ορίζει την τιμή της ονομαστικής σήμανσης.
+Λαμβάνει ή ορίζει την τιμή σήματος προσώπου.
 
 ```csharp
 public short FaceMarkValue { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Η ονομαστική τιμή.
+Η τιμή σήμανσης προσώπου.
 
 ### Δείτε επίσης
 
 * class [TypeToolStyleInfo](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../typetoolstyleinfo/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

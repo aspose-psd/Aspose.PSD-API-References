@@ -1,11 +1,12 @@
 ---
-title: PsdImage.AddRegularLayer
-second_title: Aspose.PSD για Αναφορά API .NET
-description: PsdImage μέθοδος. Προσθέτει ένα νέο κανονικό επίπεδο.
+title: "PsdImage.AddRegularLayer"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Μέθοδος PsdImage. Προσθέτει μια νέα κανονική στρώση"
 type: docs
-weight: 410
+weight: 440
 url: /el/net/aspose.psd.fileformats.psd/psdimage/addregularlayer/
 ---
+{{< psd/tize >}}
 ## PsdImage.AddRegularLayer method
 
 Προσθέτει ένα νέο κανονικό επίπεδο.
@@ -14,13 +15,13 @@ url: /el/net/aspose.psd.fileformats.psd/psdimage/addregularlayer/
 public Layer AddRegularLayer()
 ```
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-Δημιουργήθηκε κανονικό επίπεδο.
+Δημιουργήθηκε κανονική στρώση.
 
-### Παραδείγματα
+## Παραδείγματα
 
-Ο παρακάτω κώδικας δείχνει πώς να προσθέσετε το νέο κανονικό επίπεδο που δημιουργήθηκε στο PsdImage.
+Ο παρακάτω κώδικας δείχνει πώς να προσθέσετε τη νεοδημιουργημένη κανονική στρώση στο PsdImage.
 
 ```csharp
 [C#]
@@ -70,7 +71,7 @@ using (var im = (PsdImage)Image.Load(sourceFileName))
 
 * class [Layer](../../../aspose.psd.fileformats.psd.layers/layer/)
 * class [PsdImage](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

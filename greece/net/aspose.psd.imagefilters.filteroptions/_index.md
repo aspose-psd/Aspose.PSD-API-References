@@ -1,27 +1,28 @@
 ---
-title: Aspose.PSD.ImageFilters.FilterOptions
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Ο χώρος ονομάτων χειρίζεται τις επιλογές φίλτρου.
+title: "Aspose.PSD.ImageFilters.FilterOptions"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ο χώρος ονομάτων διαχειρίζεται επιλογές φίλτρου"
 type: docs
-weight: 410
+weight: 450
 url: /el/net/aspose.psd.imagefilters.filteroptions/
 ---
-Ο χώρος ονομάτων χειρίζεται τις επιλογές φίλτρου.
+{{< psd/tize >}}
+Ο χώρος ονομάτων διαχειρίζεται τις επιλογές φίλτρου.
 
-## Τάξεις
+## Κλάσεις
 
-| Τάξη | Περιγραφή |
+| Κλάση | Περιγραφή |
 | --- | --- |
-| [BigRectangularFilterOptions](./bigrectangularfilteroptions/) | Επιλογές μεγάλου ορθογώνιου φίλτρου |
-| [BilateralSmoothingFilterOptions](./bilateralsmoothingfilteroptions/) | Οι επιλογές διμερούς φίλτρου εξομάλυνσης. |
+| [BigRectangularFilterOptions](./bigrectangularfilteroptions/) | Μεγάλες ορθογώνιες επιλογές φίλτρου |
+| [BilateralSmoothingFilterOptions](./bilateralsmoothingfilteroptions/) | Οι επιλογές διπλής εξομάλυνσης φίλτρου. |
 | [ConvolutionFilterOptions](./convolutionfilteroptions/) | Το φίλτρο συνέλιξης. |
-| [DeconvolutionFilterOptions](./deconvolutionfilteroptions/) | Επιλογές φίλτρου αποσυνέλιξης, αφηρημένη κλάση |
-| [FilterOptionsBase](./filteroptionsbase/) | Βάση επιλογών φίλτρου, abstract class |
-| [GaussianBlurFilterOptions](./gaussianblurfilteroptions/) | Το Gaussian blur |
-| [GaussWienerFilterOptions](./gausswienerfilteroptions/) | Επιλογές φίλτρου Gauss Wiener Deblur gauss |
-| [MedianFilterOptions](./medianfilteroptions/) | Μέσο φίλτρο |
-| [MotionWienerFilterOptions](./motionwienerfilteroptions/) | Επιλογές φίλτρου αποσυνέλιξης deblur motion |
-| [SharpenFilterOptions](./sharpenfilteroptions/) | Επιλογές φίλτρου Sharpen |
+| [DeconvolutionFilterOptions](./deconvolutionfilteroptions/) | Επιλογές φίλτρου αποσύνθεσης, αφηρημένη κλάση |
+| [FilterOptionsBase](./filteroptionsbase/) | Βάση επιλογών φίλτρου, αφηρημένη κλάση |
+| [GaussianBlurFilterOptions](./gaussianblurfilteroptions/) | Η θολή Gaussian |
+| [GaussWienerFilterOptions](./gausswienerfilteroptions/) | Επιλογές φίλτρου Gauss Wiener αποθόλωση gauss |
+| [MedianFilterOptions](./medianfilteroptions/) | Φίλτρο διαμέσου |
+| [MotionWienerFilterOptions](./motionwienerfilteroptions/) | Επιλογές φίλτρου αποσύνθεσης αποθόλωση κίνησης |
+| [SharpenFilterOptions](./sharpenfilteroptions/) | Οι επιλογές φίλτρου ενίσχυσης |
 | [SmallRectangularFilterOptions](./smallrectangularfilteroptions/) | Μικρές ορθογώνιες επιλογές φίλτρου |
 
 

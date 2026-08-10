@@ -1,14 +1,15 @@
 ---
-title: ImageLoadersRegistry.GetFirstSupportedDescriptorByFileFormat
-second_title: Aspose.PSD για Αναφορά API .NET
-description: ImageLoadersRegistry μέθοδος. Λαμβάνει την πρώτη υποστηριζόμενη μορφή αρχείου με το όνομα τύπου.
+title: "ImageLoadersRegistry.GetFirstSupportedDescriptorByFileFormat"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Μέθοδος ImageLoadersRegistry. Παίρνει την πρώτη υποστηριζόμενη μορφή αρχείου βάσει του ονόματος τύπου της"
 type: docs
 weight: 50
 url: /el/net/aspose.psd/imageloadersregistry/getfirstsupporteddescriptorbyfileformat/
 ---
+{{< psd/tize >}}
 ## ImageLoadersRegistry.GetFirstSupportedDescriptorByFileFormat method
 
-Λαμβάνει την πρώτη υποστηριζόμενη μορφή αρχείου με το όνομα τύπου.
+Λαμβάνει την πρώτη υποστηριζόμενη μορφή αρχείου με βάση το όνομα τύπου της.
 
 ```csharp
 public static IImageLoaderDescriptor GetFirstSupportedDescriptorByFileFormat(FileFormat fileFormat)
@@ -16,22 +17,22 @@ public static IImageLoaderDescriptor GetFirstSupportedDescriptorByFileFormat(Fil
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| fileFormat | FileFormat | Η υποστηριζόμενη μορφή αρχείου περιγραφής. |
+| fileFormat | FileFormat | Η υποστηριζόμενη μορφή αρχείου του περιγραφέα. |
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-Βρέθηκε ο πρώτος περιγραφέας φόρτωσης ή μηδενικός, εάν όχι, αυτός ο περιγραφέας.
+Ο πρώτος ευρεθέν περιγραφέας φορτωτή ή null εάν δεν βρεθεί τέτοιος περιγραφέας.
 
-### Παρατηρήσεις
+## Σχόλια
 
-Ο πρώτος περιγραφέας φόρτωσης θα είναι στην πραγματικότητα ο τελευταίος καταχωρημένος.
+Ο πρώτος περιγραφέας φορτωτή θα είναι στην πραγματικότητα ο τελευταίος που έχει καταχωρηθεί.
 
 ### Δείτε επίσης
 
 * interface [IImageLoaderDescriptor](../../iimageloaderdescriptor/)
 * enum [FileFormat](../../fileformat/)
 * class [ImageLoadersRegistry](../)
-* χώρος ονομάτων [Aspose.PSD](../../imageloadersregistry/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

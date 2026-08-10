@@ -1,11 +1,12 @@
 ---
-title: BuildVersionInfo.Product
-second_title: Aspose.PSD για Αναφορά API .NET
-description: BuildVersionInfo πεδίο. Ο τίτλος του προϊόντος.
+title: "BuildVersionInfo.Product"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "BuildVersionInfo field. Ο τίτλος του προϊόντος"
 type: docs
 weight: 30
 url: /el/net/aspose.psd/buildversioninfo/product/
 ---
+{{< psd/tize >}}
 ## BuildVersionInfo.Product field
 
 Ο τίτλος του προϊόντος.
@@ -17,7 +18,7 @@ public static readonly string Product;
 ### Δείτε επίσης
 
 * class [BuildVersionInfo](../)
-* χώρος ονομάτων [Aspose.PSD](../../buildversioninfo/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

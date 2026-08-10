@@ -1,14 +1,15 @@
 ---
-title: Interface IRasterImageRawDataLoader
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Aspose.PSD.IRasterImageRawDataLoader διεπαφή. Το πρόγραμμα φόρτωσης ακατέργαστων δεδομένων εικόνας ράστερ.
+title: "Διεπαφή IRasterImageRawDataLoader"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Διεπαφή Aspose.PSD.IRasterImageRawDataLoader. Ο φορτωτής ακατέργαστων δεδομένων ραστερ εικόνας"
 type: docs
-weight: 4580
+weight: 5050
 url: /el/net/aspose.psd/irasterimagerawdataloader/
 ---
+{{< psd/tize >}}
 ## IRasterImageRawDataLoader interface
 
-Το πρόγραμμα φόρτωσης ακατέργαστων δεδομένων εικόνας ράστερ.
+Φορτωτής ακατέργαστων δεδομένων raster εικόνας.
 
 ```csharp
 public interface IRasterImageRawDataLoader
@@ -16,20 +17,20 @@ public interface IRasterImageRawDataLoader
 
 ## Ιδιότητες
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
-| [IsRawDataAvailable](../../aspose.psd/irasterimagerawdataloader/israwdataavailable/) { get; } | Λαμβάνει μια τιμή που υποδεικνύει εάν υποστηρίζεται η φόρτωση μη επεξεργασμένων δεδομένων. |
-| [RawDataSettings](../../aspose.psd/irasterimagerawdataloader/rawdatasettings/) { get; } | Λαμβάνει τις τρέχουσες ρυθμίσεις πρωτογενών δεδομένων. Σημείωση όταν χρησιμοποιείτε αυτές τις ρυθμίσεις, τα δεδομένα φορτώνονται χωρίς μετατροπή. |
+| [IsRawDataAvailable](../../aspose.psd/irasterimagerawdataloader/israwdataavailable/) { get; } | Λαμβάνει μια τιμή που υποδεικνύει εάν η φόρτωση ακατέργαστων δεδομένων υποστηρίζεται. |
+| [RawDataSettings](../../aspose.psd/irasterimagerawdataloader/rawdatasettings/) { get; } | Λαμβάνει τις τρέχουσες ρυθμίσεις ακατέργαστων δεδομένων. Σημειώστε ότι όταν χρησιμοποιείτε αυτές τις ρυθμίσεις, τα δεδομένα φορτώνονται χωρίς μετατροπή. |
 
 ## Μέθοδοι
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
 | [LoadRawData](../../aspose.psd/irasterimagerawdataloader/loadrawdata/)(Rectangle, RawDataSettings, IPartialRawDataLoader) | Φορτώνει ακατέργαστα δεδομένα. |
 
 ### Δείτε επίσης
 
-* χώρος ονομάτων [Aspose.PSD](../../aspose.psd/)
-* συνέλευση [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

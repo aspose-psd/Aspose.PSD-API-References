@@ -1,11 +1,12 @@
 ---
-title: PsdImage.Crop
-second_title: Aspose.PSD για Αναφορά API .NET
-description: PsdImage μέθοδος. Περικοπή της εικόνας.
+title: "PsdImage.Crop"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Μέθοδος PsdImage. Κόψιμο της εικόνας"
 type: docs
-weight: 510
+weight: 570
 url: /el/net/aspose.psd.fileformats.psd/psdimage/crop/
 ---
+{{< psd/tize >}}
 ## PsdImage.Crop method
 
 Περικοπή της εικόνας.
@@ -16,13 +17,13 @@ public override void Crop(Rectangle rectangle)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| rectangle | Rectangle | Το ορθογώνιο. |
+| ορθογώνιο | Rectangle | Το ορθογώνιο. |
 
 ### Δείτε επίσης
 
 * struct [Rectangle](../../../aspose.psd/rectangle/)
 * class [PsdImage](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

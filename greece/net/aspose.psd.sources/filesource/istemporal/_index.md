@@ -1,27 +1,28 @@
 ---
-title: FileSource.IsTemporal
-second_title: Aspose.PSD για Αναφορά API .NET
-description: FileSource ιδιοκτησία. Λαμβάνει μια τιμή που υποδεικνύει εάν το αρχείο θα είναι προσωρινό.
+title: "FileSource.IsTemporal"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "FileSource ιδιότητα. Λαμβάνει μια τιμή που υποδεικνύει αν το αρχείο θα είναι προσωρινό"
 type: docs
 weight: 10
 url: /el/net/aspose.psd.sources/filesource/istemporal/
 ---
+{{< psd/tize >}}
 ## FileSource.IsTemporal property
 
-Λαμβάνει μια τιμή που υποδεικνύει εάν το αρχείο θα είναι προσωρινό.
+Λαμβάνει μια τιμή που υποδεικνύει αν το αρχείο θα είναι προσωρινό.
 
 ```csharp
 public abstract bool IsTemporal { get; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-`αληθής` εάν το αρχείο θα είναι προσωρινό? σε διαφορετική περίπτωση,`ψευδής` .
+`true` εάν το αρχείο θα είναι προσωρινό· διαφορετικά, `false`.
 
 ### Δείτε επίσης
 
 * class [FileSource](../)
-* χώρος ονομάτων [Aspose.PSD.Sources](../../filesource/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Sources](../../../aspose.psd.sources/)
+* assembly [Aspose.PSD](../../../)
 
 

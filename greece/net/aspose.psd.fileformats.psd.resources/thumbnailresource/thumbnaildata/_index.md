@@ -1,11 +1,12 @@
 ---
-title: ThumbnailResource.ThumbnailData
-second_title: Aspose.PSD για Αναφορά API .NET
-description: ThumbnailResource ιδιοκτησία. Λαμβάνει ή ορίζει τα δεδομένα μικρογραφίας.
+title: "ThumbnailResource.ThumbnailData"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "ThumbnailResource ιδιότητα. Λαμβάνει ή ορίζει τα δεδομένα μικρογραφίας"
 type: docs
 weight: 110
 url: /el/net/aspose.psd.fileformats.psd.resources/thumbnailresource/thumbnaildata/
 ---
+{{< psd/tize >}}
 ## ThumbnailResource.ThumbnailData property
 
 Λαμβάνει ή ορίζει τα δεδομένα μικρογραφίας.
@@ -14,15 +15,15 @@ url: /el/net/aspose.psd.fileformats.psd.resources/thumbnailresource/thumbnaildat
 public Color[] ThumbnailData { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Τα δεδομένα της μικρογραφίας.
+Τα δεδομένα μικρογραφίας.
 
 ### Δείτε επίσης
 
 * struct [Color](../../../aspose.psd/color/)
 * class [ThumbnailResource](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Resources](../../thumbnailresource/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,28 +1,29 @@
 ---
-title: ExifData.GPSDestBearing
-second_title: Aspose.PSD για Αναφορά API .NET
-description: ExifData ιδιοκτησία. Λαμβάνει ή ρυθμίζει το ρουλεμάν GPS στο σημείο προορισμού.
+title: "ExifData.GPSDestBearing"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα ExifData. Λαμβάνει ή ορίζει την κατεύθυνση GPS προς το σημείο προορισμού"
 type: docs
 weight: 400
 url: /el/net/aspose.psd.exif/exifdata/gpsdestbearing/
 ---
+{{< psd/tize >}}
 ## ExifData.GPSDestBearing property
 
-Λαμβάνει ή ρυθμίζει το ρουλεμάν GPS στο σημείο προορισμού.
+Λαμβάνει ή ορίζει την κατεύθυνση GPS προς το σημείο προορισμού.
 
 ```csharp
 public TiffRational GPSDestBearing { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Το ρουλεμάν GPS στο σημείο προορισμού.
+Η κατεύθυνση GPS προς το σημείο προορισμού.
 
 ### Δείτε επίσης
 
 * class [TiffRational](../../../aspose.psd.fileformats.tiff/tiffrational/)
 * class [ExifData](../)
-* χώρος ονομάτων [Aspose.PSD.Exif](../../exifdata/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

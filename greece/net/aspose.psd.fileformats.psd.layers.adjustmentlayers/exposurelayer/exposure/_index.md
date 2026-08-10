@@ -1,27 +1,28 @@
 ---
-title: ExposureLayer.Exposure
-second_title: Aspose.PSD για Αναφορά API .NET
-description: ExposureLayer ιδιοκτησία. Λαμβάνει ή ορίζει την έκθεση. Για PS το εύρος έκθεσης είναι από 20 έως 20.
+title: "ExposureLayer.Exposure"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα ExposureLayer. Λαμβάνει ή ορίζει το Exposure. Για το PS το εύρος του Exposure είναι από 20 έως 20."
 type: docs
 weight: 10
 url: /el/net/aspose.psd.fileformats.psd.layers.adjustmentlayers/exposurelayer/exposure/
 ---
+{{< psd/tize >}}
 ## ExposureLayer.Exposure property
 
-Λαμβάνει ή ορίζει την έκθεση. Για PS το εύρος έκθεσης είναι από -20 έως +20.
+Αποκτά ή ορίζει το Exposure. Για το PS το εύρος του Exposure είναι από -20 έως +20.
 
 ```csharp
 public float Exposure { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Η έκθεση.
+Το Exposure.
 
 ### Δείτε επίσης
 
 * class [ExposureLayer](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../exposurelayer/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/)
+* assembly [Aspose.PSD](../../../)
 
 

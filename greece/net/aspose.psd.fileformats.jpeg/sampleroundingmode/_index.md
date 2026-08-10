@@ -1,29 +1,30 @@
 ---
-title: Enum SampleRoundingMode
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Aspose.PSD.FileFormats.Jpeg.SampleRoundingMode αρίθμηση. Καθορίζει έναν τρόπο με τον οποίο μια τιμή nbit μετατρέπεται σε μια τιμή 8bit.
+title: "Απαρίθμηση SampleRoundingMode"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Απαρίθμηση Aspose.PSD.FileFormats.Jpeg.SampleRoundingMode. Ορίζει έναν τρόπο με τον οποίο μια τιμή nbit μετατρέπεται σε τιμή 8bit."
 type: docs
-weight: 1530
+weight: 1540
 url: /el/net/aspose.psd.fileformats.jpeg/sampleroundingmode/
 ---
+{{< psd/tize >}}
 ## SampleRoundingMode enumeration
 
-Καθορίζει έναν τρόπο με τον οποίο μια τιμή n-bit μετατρέπεται σε μια τιμή 8-bit.
+Ορίζει έναν τρόπο με τον οποίο μια τιμή n-bit μετατρέπεται σε τιμή 8-bit.
 
 ```csharp
 public enum SampleRoundingMode
 ```
 
-### Αξίες
+### Τιμές
 
-| Ονομα | αξία | Περιγραφή |
+| Όνομα | Τιμή | Περιγραφή |
 | --- | --- | --- |
-| Extrapolate | `0` | Προεκτείνετε μια τιμή 8 bit για να την χωρέσετε σε n bit, όπου 1 &lt; n &lt; 8. Ο αριθμός όλων των πιθανών τιμών 8 bit είναι 1 &lt;&lt; 8 = 256, από 0 έως 255. Ο αριθμός όλων των δυνατών Οι τιμές n-bit είναι 1 &lt;&lt; n, από 0 έως (1 &lt;&lt; n) - 1. Η πιο λογική τιμή n-bit Vn που αντιστοιχεί σε κάποια τιμή 8-bit V8 είναι ίση με Vn = V8 &gt;&gt; (8 - ιδ). |
-| Truncate | `1` | Περικόψτε μια τιμή 8-bit για να την χωρέσετε σε n bit, όπου 1 &lt; n &lt; 8. Ο αριθμός όλων των πιθανών τιμών n-bit είναι 1 &lt;&lt; n, από 0 έως (1 &lt;&lt; n) - 1. Η πιο λογική τιμή n-bit Vn που αντιστοιχεί σε κάποια τιμή 8-bit V8 είναι ίση με Vn = V8 &amp; ((1 &lt;&lt; n) - 1). |
+| Extrapolate | `0` | Εκτείνεται εξώθηση μιας 8-bit τιμής ώστε να ταιριάζει σε n bits, όπου 1 &lt; n &lt; 8. Ο αριθμός όλων των δυνατών 8-bit τιμών είναι 1 &lt;&lt; 8 = 256, από 0 έως 255. Ο αριθμός όλων των δυνατών n-bit τιμών είναι 1 &lt;&lt; n, από 0 έως (1 &lt;&lt; n) - 1. Η πιο λογική n-bit τιμή Vn που αντιστοιχεί σε κάποια 8-bit τιμή V8 είναι ίση με Vn = V8 &gt;&gt; (8 - n). |
+| Truncate | `1` | Κόβει μια 8-bit τιμή ώστε να ταιριάζει σε n bits, όπου 1 &lt; n &lt; 8. Ο αριθμός όλων των δυνατών n-bit τιμών είναι 1 &lt;&lt; n, από 0 έως (1 &lt;&lt; n) - 1. Η πιο λογική n-bit τιμή Vn που αντιστοιχεί σε κάποια 8-bit τιμή V8 είναι ίση με Vn = V8 &amp; ((1 &lt;&lt; n) - 1). |
 
 ### Δείτε επίσης
 
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Jpeg](../../aspose.psd.fileformats.jpeg/)
-* συνέλευση [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Jpeg](../../aspose.psd.fileformats.jpeg/)
+* assembly [Aspose.PSD](../../)
 
 

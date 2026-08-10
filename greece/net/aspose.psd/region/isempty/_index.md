@@ -1,14 +1,15 @@
 ---
-title: Region.IsEmpty
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Region μέθοδος. Ελέγχει εάν αυτόRegion έχει ένα άδειο εσωτερικό στην καθορισμένη επιφάνεια σχεδίασης.
+title: "Region.IsEmpty"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Μέθοδος Region. Ελέγχει αν αυτή η Region έχει κενό εσωτερικό στην καθορισμένη επιφάνεια σχεδίασης"
 type: docs
-weight: 70
+weight: 80
 url: /el/net/aspose.psd/region/isempty/
 ---
+{{< psd/tize >}}
 ## Region.IsEmpty method
 
-Ελέγχει εάν αυτό[`Region`](../) έχει ένα άδειο εσωτερικό στην καθορισμένη επιφάνεια σχεδίασης.
+Ελέγχει αν αυτή η [`Region`](../) έχει κενό εσωτερικό στην καθορισμένη επιφάνεια σχεδίασης.
 
 ```csharp
 public bool IsEmpty(Graphics g)
@@ -16,23 +17,23 @@ public bool IsEmpty(Graphics g)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| g | Graphics | ΕΝΑ[`Graphics`](../../graphics/) που αντιπροσωπεύει μια επιφάνεια σχεδίασης. |
+| g | Graphics | Ένα [`Graphics`](../../graphics/) που αντιπροσωπεύει μια επιφάνεια σχεδίασης. |
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-αληθεύει αν το εσωτερικό αυτού[`Region`](../) είναι κενό όταν ο μετασχηματισμός σχετίζεται με*g* εφαρμόζεται; διαφορετικά, ψευδής.
+true εάν το εσωτερικό αυτής της [`Region`](../) είναι κενό όταν εφαρμόζεται η μετασχηματισμός που σχετίζεται με *g*· διαφορετικά, false.
 
 ### Εξαιρέσεις
 
-| εξαίρεση | κατάσταση |
+| εξαίρεση | συνθήκη |
 | --- | --- |
-| ArgumentNullException | *g* είναι μηδενικό. |
+| ArgumentNullException | *g* είναι null. |
 
 ### Δείτε επίσης
 
 * class [Graphics](../../graphics/)
 * class [Region](../)
-* χώρος ονομάτων [Aspose.PSD](../../region/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

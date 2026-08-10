@@ -1,14 +1,15 @@
 ---
-title: Matrix.Multiply
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Matrix μέθοδος. Πολλαπλασιάζει αυτόν τον πίνακα με τον πίνακα που καθορίζεται στην παράμετρο πίνακα και με τη σειρά που καθορίζεται στην παράμετρο σειράς.
+title: "Matrix.Multiply"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Μέθοδος Matrix. Πολλαπλασιάζει αυτό το Matrix με το matrix που καθορίζεται στην παράμετρο matrix και με τη σειρά που καθορίζεται στην παράμετρο order."
 type: docs
 weight: 120
 url: /el/net/aspose.psd/matrix/multiply/
 ---
+{{< psd/tize >}}
 ## Multiply(Matrix, MatrixOrder) {#multiply_1}
 
-Πολλαπλασιάζει αυτόν τον πίνακα με τον πίνακα που καθορίζεται στην παράμετρο πίνακα και με τη σειρά που καθορίζεται στην παράμετρο σειράς.
+Πολλαπλασιάζει αυτό το Matrix με το matrix που καθορίζεται στην παράμετρο matrix, και στη σειρά που καθορίζεται στην παράμετρο order.
 
 ```csharp
 public void Multiply(Matrix Tx, MatrixOrder order)
@@ -16,21 +17,21 @@ public void Multiply(Matrix Tx, MatrixOrder order)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| Tx | Matrix | Το τχ. Το τχ. Το τχ. |
-| order | MatrixOrder | Η σειρά. Η σειρά. Η σειρά. |
+| Tx | Matrix | Το tx. Το tx. Το tx. |
+| σειρά | MatrixOrder | Η σειρά. Η σειρά. Η σειρά. |
 
 ### Δείτε επίσης
 
 * enum [MatrixOrder](../../matrixorder/)
 * class [Matrix](../)
-* χώρος ονομάτων [Aspose.PSD](../../matrix/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Multiply(Matrix) {#multiply}
 
-Πολλαπλασιάζει αυτόν τον πίνακα με τον πίνακα που καθορίζεται στην παράμετρο πίνακα χρησιμοποιώντας (προεπιλογή) σειρά Prepend.
+Πολλαπλασιάζει αυτό το Matrix με το matrix που καθορίζεται στην παράμετρο matrix χρησιμοποιώντας την (προεπιλεγμένη) σειρά Prepend.
 
 ```csharp
 public void Multiply(Matrix Tx)
@@ -38,12 +39,12 @@ public void Multiply(Matrix Tx)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| Tx | Matrix | Ο πίνακας με τον οποίο πολλαπλασιάζεται. |
+| Tx | Matrix | Το matrix για πολλαπλασιασμό. |
 
 ### Δείτε επίσης
 
 * class [Matrix](../)
-* χώρος ονομάτων [Aspose.PSD](../../matrix/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

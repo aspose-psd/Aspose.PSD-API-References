@@ -1,14 +1,15 @@
 ---
-title: GraphicsPath.IsVisible
-second_title: Aspose.PSD για Αναφορά API .NET
-description: GraphicsPath μέθοδος. Υποδεικνύει εάν το καθορισμένο σημείο περιέχεται σε αυτόGraphicsPath .
+title: "GraphicsPath.IsVisible"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Μέθοδος GraphicsPath. Δείχνει εάν το καθορισμένο σημείο περιέχεται μέσα σε αυτό το GraphicsPath"
 type: docs
 weight: 120
 url: /el/net/aspose.psd/graphicspath/isvisible/
 ---
+{{< psd/tize >}}
 ## IsVisible(float, float) {#isvisible_6}
 
-Υποδεικνύει εάν το καθορισμένο σημείο περιέχεται σε αυτό[`GraphicsPath`](../) .
+Δείχνει εάν το καθορισμένο σημείο περιέχεται μέσα σε αυτό το [`GraphicsPath`](../).
 
 ```csharp
 public bool IsVisible(float x, float y)
@@ -19,21 +20,21 @@ public bool IsVisible(float x, float y)
 | x | Single | Η συντεταγμένη x του σημείου προς δοκιμή. |
 | y | Single | Η συντεταγμένη y του σημείου προς δοκιμή. |
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-Αυτή η μέθοδος επιστρέφει true εάν το καθορισμένο σημείο περιέχεται σε αυτό[`GraphicsPath`](../) ; διαφορετικά, ψευδής.
+Αυτή η μέθοδος επιστρέφει true εάν το καθορισμένο σημείο περιέχεται μέσα σε αυτό το [`GraphicsPath`](../); διαφορετικά, false.
 
 ### Δείτε επίσης
 
 * class [GraphicsPath](../)
-* χώρος ονομάτων [Aspose.PSD](../../graphicspath/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## IsVisible(PointF) {#isvisible_2}
 
-Υποδεικνύει εάν το καθορισμένο σημείο περιέχεται σε αυτό[`GraphicsPath`](../) .
+Δείχνει εάν το καθορισμένο σημείο περιέχεται μέσα σε αυτό το [`GraphicsPath`](../).
 
 ```csharp
 public bool IsVisible(PointF point)
@@ -41,24 +42,24 @@ public bool IsVisible(PointF point)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| point | PointF | ΕΝΑ[`PointF`](../../pointf/) που αντιπροσωπεύει το σημείο προς δοκιμή. |
+| point | PointF | Ένα [`PointF`](../../pointf/) που αντιπροσωπεύει το σημείο προς δοκιμή. |
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-Αυτή η μέθοδος επιστρέφει true εάν το καθορισμένο σημείο περιέχεται σε αυτό[`GraphicsPath`](../) ; διαφορετικά, ψευδής.
+Αυτή η μέθοδος επιστρέφει true εάν το καθορισμένο σημείο περιέχεται μέσα σε αυτό το [`GraphicsPath`](../); διαφορετικά, false.
 
 ### Δείτε επίσης
 
 * struct [PointF](../../pointf/)
 * class [GraphicsPath](../)
-* χώρος ονομάτων [Aspose.PSD](../../graphicspath/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## IsVisible(int, int) {#isvisible_4}
 
-Υποδεικνύει εάν το καθορισμένο σημείο περιέχεται σε αυτό[`GraphicsPath`](../) .
+Δείχνει εάν το καθορισμένο σημείο περιέχεται μέσα σε αυτό το [`GraphicsPath`](../).
 
 ```csharp
 public bool IsVisible(int x, int y)
@@ -69,21 +70,21 @@ public bool IsVisible(int x, int y)
 | x | Int32 | Η συντεταγμένη x του σημείου προς δοκιμή. |
 | y | Int32 | Η συντεταγμένη y του σημείου προς δοκιμή. |
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-Αυτή η μέθοδος επιστρέφει true εάν το καθορισμένο σημείο περιέχεται σε αυτό[`GraphicsPath`](../) ; διαφορετικά, ψευδής.
+Αυτή η μέθοδος επιστρέφει true εάν το καθορισμένο σημείο περιέχεται μέσα σε αυτό το [`GraphicsPath`](../); διαφορετικά, false.
 
 ### Δείτε επίσης
 
 * class [GraphicsPath](../)
-* χώρος ονομάτων [Aspose.PSD](../../graphicspath/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## IsVisible(Point) {#isvisible}
 
-Υποδεικνύει εάν το καθορισμένο σημείο περιέχεται σε αυτό[`GraphicsPath`](../) .
+Δείχνει εάν το καθορισμένο σημείο περιέχεται μέσα σε αυτό το [`GraphicsPath`](../).
 
 ```csharp
 public bool IsVisible(Point point)
@@ -91,24 +92,24 @@ public bool IsVisible(Point point)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| point | Point | ΕΝΑ[`Point`](../../point/) που αντιπροσωπεύει το σημείο προς δοκιμή. |
+| point | Point | Ένα [`Point`](../../point/) που αντιπροσωπεύει το σημείο προς δοκιμή. |
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-Αυτή η μέθοδος επιστρέφει true εάν το καθορισμένο σημείο περιέχεται σε αυτό[`GraphicsPath`](../) ; διαφορετικά, ψευδής.
+Αυτή η μέθοδος επιστρέφει true εάν το καθορισμένο σημείο περιέχεται μέσα σε αυτό το [`GraphicsPath`](../); διαφορετικά, false.
 
 ### Δείτε επίσης
 
 * struct [Point](../../point/)
 * class [GraphicsPath](../)
-* χώρος ονομάτων [Aspose.PSD](../../graphicspath/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## IsVisible(float, float, Graphics) {#isvisible_7}
 
-Υποδεικνύει εάν το καθορισμένο σημείο περιέχεται σε αυτό[`GraphicsPath`](../) στην περιοχή ορατού κλιπ του καθορισμένου[`Graphics`](../../graphics/) .
+Δείχνει εάν το καθορισμένο σημείο περιέχεται μέσα σε αυτό το [`GraphicsPath`](../) στην ορατή περιοχή αποκοπής του καθορισμένου [`Graphics`](../../graphics/).
 
 ```csharp
 public bool IsVisible(float x, float y, Graphics graphics)
@@ -118,24 +119,24 @@ public bool IsVisible(float x, float y, Graphics graphics)
 | --- | --- | --- |
 | x | Single | Η συντεταγμένη x του σημείου προς δοκιμή. |
 | y | Single | Η συντεταγμένη y του σημείου προς δοκιμή. |
-| graphics | Graphics | ο[`Graphics`](../../graphics/) για το οποίο να δοκιμάσετε την ορατότητα. |
+| graphics | Graphics | Το [`Graphics`](../../graphics/) για το οποίο θα δοκιμαστεί η ορατότητα. |
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-Αυτή η μέθοδος επιστρέφει true εάν το καθορισμένο σημείο περιέχεται σε αυτό[`GraphicsPath`](../) ; διαφορετικά, ψευδής.
+Αυτή η μέθοδος επιστρέφει true εάν το καθορισμένο σημείο περιέχεται μέσα σε αυτό το [`GraphicsPath`](../); διαφορετικά, false.
 
 ### Δείτε επίσης
 
 * class [Graphics](../../graphics/)
 * class [GraphicsPath](../)
-* χώρος ονομάτων [Aspose.PSD](../../graphicspath/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## IsVisible(PointF, Graphics) {#isvisible_3}
 
-Υποδεικνύει εάν το καθορισμένο σημείο περιέχεται σε αυτό[`GraphicsPath`](../) .
+Δείχνει εάν το καθορισμένο σημείο περιέχεται μέσα σε αυτό το [`GraphicsPath`](../).
 
 ```csharp
 public bool IsVisible(PointF pt, Graphics graphics)
@@ -143,26 +144,26 @@ public bool IsVisible(PointF pt, Graphics graphics)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| pt | PointF | ΕΝΑ[`PointF`](../../pointf/) που αντιπροσωπεύει το σημείο προς δοκιμή. |
-| graphics | Graphics | ο[`Graphics`](../../graphics/) για το οποίο να δοκιμάσετε την ορατότητα. |
+| pt | PointF | Ένα [`PointF`](../../pointf/) που αντιπροσωπεύει το σημείο προς δοκιμή. |
+| graphics | Graphics | Το [`Graphics`](../../graphics/) για το οποίο θα δοκιμαστεί η ορατότητα. |
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-Αυτή η μέθοδος επιστρέφει true εάν το καθορισμένο σημείο περιέχεται σε αυτό. διαφορετικά, ψευδής.
+Αυτή η μέθοδος επιστρέφει true εάν το καθορισμένο σημείο περιέχεται μέσα σε αυτό· διαφορετικά, false.
 
 ### Δείτε επίσης
 
 * struct [PointF](../../pointf/)
 * class [Graphics](../../graphics/)
 * class [GraphicsPath](../)
-* χώρος ονομάτων [Aspose.PSD](../../graphicspath/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## IsVisible(int, int, Graphics) {#isvisible_5}
 
-Υποδεικνύει εάν το καθορισμένο σημείο περιέχεται σε αυτό[`GraphicsPath`](../) , χρησιμοποιώντας το καθορισμένο[`Graphics`](../../graphics/) .
+Δείχνει εάν το καθορισμένο σημείο περιέχεται μέσα σε αυτό το [`GraphicsPath`](../), χρησιμοποιώντας το καθορισμένο [`Graphics`](../../graphics/).
 
 ```csharp
 public bool IsVisible(int x, int y, Graphics graphics)
@@ -172,24 +173,24 @@ public bool IsVisible(int x, int y, Graphics graphics)
 | --- | --- | --- |
 | x | Int32 | Η συντεταγμένη x του σημείου προς δοκιμή. |
 | y | Int32 | Η συντεταγμένη y του σημείου προς δοκιμή. |
-| graphics | Graphics | ο[`Graphics`](../../graphics/) για το οποίο να δοκιμάσετε την ορατότητα. |
+| graphics | Graphics | Το [`Graphics`](../../graphics/) για το οποίο θα δοκιμαστεί η ορατότητα. |
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-Αυτή η μέθοδος επιστρέφει true εάν το καθορισμένο σημείο περιέχεται σε αυτό[`GraphicsPath`](../) ; διαφορετικά, ψευδής.
+Αυτή η μέθοδος επιστρέφει true εάν το καθορισμένο σημείο περιέχεται μέσα σε αυτό το [`GraphicsPath`](../); διαφορετικά, false.
 
 ### Δείτε επίσης
 
 * class [Graphics](../../graphics/)
 * class [GraphicsPath](../)
-* χώρος ονομάτων [Aspose.PSD](../../graphicspath/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## IsVisible(Point, Graphics) {#isvisible_1}
 
-Υποδεικνύει εάν το καθορισμένο σημείο περιέχεται σε αυτό[`GraphicsPath`](../) .
+Δείχνει εάν το καθορισμένο σημείο περιέχεται μέσα σε αυτό το [`GraphicsPath`](../).
 
 ```csharp
 public bool IsVisible(Point pt, Graphics graphics)
@@ -197,19 +198,19 @@ public bool IsVisible(Point pt, Graphics graphics)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| pt | Point | ΕΝΑ[`Point`](../../point/) που αντιπροσωπεύει το σημείο προς δοκιμή. |
-| graphics | Graphics | ο[`Graphics`](../../graphics/) για το οποίο να δοκιμάσετε την ορατότητα. |
+| pt | Point | Ένα [`Point`](../../point/) που αντιπροσωπεύει το σημείο προς δοκιμή. |
+| graphics | Graphics | Το [`Graphics`](../../graphics/) για το οποίο θα δοκιμαστεί η ορατότητα. |
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-Αυτή η μέθοδος επιστρέφει true εάν το καθορισμένο σημείο περιέχεται σε αυτό[`GraphicsPath`](../) ; διαφορετικά, ψευδής.
+Αυτή η μέθοδος επιστρέφει true εάν το καθορισμένο σημείο περιέχεται μέσα σε αυτό το [`GraphicsPath`](../); διαφορετικά, false.
 
 ### Δείτε επίσης
 
 * struct [Point](../../point/)
 * class [Graphics](../../graphics/)
 * class [GraphicsPath](../)
-* χώρος ονομάτων [Aspose.PSD](../../graphicspath/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

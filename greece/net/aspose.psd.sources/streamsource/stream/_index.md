@@ -1,11 +1,12 @@
 ---
-title: StreamSource.Stream
-second_title: Aspose.PSD για Αναφορά API .NET
-description: StreamSource ιδιοκτησία. Λαμβάνει τη ροή.
+title: "StreamSource.Stream"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα StreamSource. Λαμβάνει τη ροή"
 type: docs
 weight: 30
 url: /el/net/aspose.psd.sources/streamsource/stream/
 ---
+{{< psd/tize >}}
 ## StreamSource.Stream property
 
 Λαμβάνει τη ροή.
@@ -14,14 +15,14 @@ url: /el/net/aspose.psd.sources/streamsource/stream/
 public Stream Stream { get; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Η ροή πηγής.
+Η πηγαία ροή.
 
 ### Δείτε επίσης
 
 * class [StreamSource](../)
-* χώρος ονομάτων [Aspose.PSD.Sources](../../streamsource/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Sources](../../../aspose.psd.sources/)
+* assembly [Aspose.PSD](../../../)
 
 

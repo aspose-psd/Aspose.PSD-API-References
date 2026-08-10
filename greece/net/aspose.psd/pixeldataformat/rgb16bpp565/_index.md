@@ -1,27 +1,28 @@
 ---
-title: PixelDataFormat.Rgb16Bpp565
-second_title: Aspose.PSD για Αναφορά API .NET
-description: PixelDataFormat ιδιοκτησία. Λαμβάνει τοPixelDataFormatορίζεται για 16 bit ανά pixel με 5 bit για το κόκκινο 6 bit για το πράσινο και 5 bit για το μπλε το alpha δεν ορίζεται.
+title: "PixelDataFormat.Rgb16Bpp565"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα PixelDataFormat. Λαμβάνει το PixelDataFormat που ορίζεται για 16 bits ανά pixel με 5 bits για το κόκκινο 6 bits για το πράσινο και 5 bits για το μπλε, το alpha δεν ορίζεται"
 type: docs
 weight: 60
 url: /el/net/aspose.psd/pixeldataformat/rgb16bpp565/
 ---
+{{< psd/tize >}}
 ## PixelDataFormat.Rgb16Bpp565 property
 
-Λαμβάνει το[`PixelDataFormat`](../)ορίζεται για 16 bit ανά pixel με 5 bit για το κόκκινο, 6 bit για το πράσινο και 5 bit για το μπλε, το alpha δεν ορίζεται.
+Λαμβάνει το [`PixelDataFormat`](../) που ορίζεται για 16 bits ανά pixel με 5 bits για το κόκκινο, 6 bits για το πράσινο και 5 bits για το μπλε, το alpha δεν ορίζεται.
 
 ```csharp
 public static PixelDataFormat Rgb16Bpp565 { get; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Το[`PixelDataFormat`](../)ορίζεται για 16 bit ανά pixel με 5 bit για το κόκκινο, 6 bit για το πράσινο και 5 bit για το μπλε, το alpha δεν ορίζεται.
+Το [`PixelDataFormat`](../) που ορίζεται για 16 bits ανά pixel με 5 bits για το κόκκινο, 6 bits για το πράσινο και 5 bits για το μπλε, το alpha δεν ορίζεται.
 
 ### Δείτε επίσης
 
 * class [PixelDataFormat](../)
-* χώρος ονομάτων [Aspose.PSD](../../pixeldataformat/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

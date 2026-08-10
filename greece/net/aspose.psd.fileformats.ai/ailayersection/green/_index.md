@@ -1,27 +1,28 @@
 ---
-title: AiLayerSection.Green
-second_title: Aspose.PSD για Αναφορά API .NET
-description: AiLayerSection ιδιοκτησία. Λαμβάνει ή ορίζει το στοιχείο πράσινου χρώματος.
+title: "AiLayerSection.Green"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα AiLayerSection. Λαμβάνει ή ορίζει το πράσινο συστατικό χρώματος"
 type: docs
-weight: 40
+weight: 50
 url: /el/net/aspose.psd.fileformats.ai/ailayersection/green/
 ---
+{{< psd/tize >}}
 ## AiLayerSection.Green property
 
-Λαμβάνει ή ορίζει το στοιχείο πράσινου χρώματος.
+Λαμβάνει ή ορίζει το πράσινο συστατικό χρώματος.
 
 ```csharp
 public int Green { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Το στοιχείο πράσινου χρώματος.
+Το πράσινο συστατικό χρώματος.
 
 ### Δείτε επίσης
 
 * class [AiLayerSection](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Ai](../../ailayersection/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

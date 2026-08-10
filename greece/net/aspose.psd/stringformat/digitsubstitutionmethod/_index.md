@@ -1,32 +1,33 @@
 ---
-title: StringFormat.DigitSubstitutionMethod
-second_title: Aspose.PSD για Αναφορά API .NET
-description: StringFormat ιδιοκτησία. Λαμβάνει ή ορίζει τη μέθοδο που θα χρησιμοποιηθεί για την αντικατάσταση ψηφίου.
+title: "StringFormat.DigitSubstitutionMethod"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα StringFormat. Επιστρέφει ή ορίζει τη μέθοδο που θα χρησιμοποιηθεί για την αντικατάσταση ψηφίων"
 type: docs
-weight: 60
+weight: 70
 url: /el/net/aspose.psd/stringformat/digitsubstitutionmethod/
 ---
+{{< psd/tize >}}
 ## StringFormat.DigitSubstitutionMethod property
 
-Λαμβάνει ή ορίζει τη μέθοδο που θα χρησιμοποιηθεί για την αντικατάσταση ψηφίου.
+Λαμβάνει ή ορίζει τη μέθοδο που θα χρησιμοποιηθεί για την αντικατάσταση ψηφίων.
 
 ```csharp
 public StringDigitSubstitute DigitSubstitutionMethod { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-ΕΝΑ[`StringDigitSubstitute`](../../stringdigitsubstitute/) τιμή απαρίθμησης που καθορίζει τον τρόπο αντικατάστασης χαρακτήρων σε μια συμβολοσειρά που δεν μπορεί να εμφανιστεί επειδή δεν υποστηρίζονται από την τρέχουσα γραμματοσειρά.
+Μια τιμή απαρίθμησης [`StringDigitSubstitute`](../../stringdigitsubstitute/) που καθορίζει πώς να αντικατασταθούν χαρακτήρες σε μια συμβολοσειρά που δεν μπορεί να εμφανιστεί επειδή δεν υποστηρίζεται από την τρέχουσα γραμματοσειρά.
 
-### Παρατηρήσεις
+## Σχόλια
 
-Ο ρυθμιστής εισάγεται για την απαρχαιωμένη μέθοδο SetDigitSubstitution.
+Ο οριστής εισάγεται για την παρωχημένη μέθοδο SetDigitSubstitution.
 
 ### Δείτε επίσης
 
 * enum [StringDigitSubstitute](../../stringdigitsubstitute/)
 * class [StringFormat](../)
-* χώρος ονομάτων [Aspose.PSD](../../stringformat/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

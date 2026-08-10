@@ -1,27 +1,28 @@
 ---
-title: ThumbnailResource.WidthBytes
-second_title: Aspose.PSD για Αναφορά API .NET
-description: ThumbnailResource ιδιοκτησία. Λαμβάνει το πλάτος της σειράς σε byte.
+title: "ThumbnailResource.WidthBytes"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "ThumbnailResource ιδιότητα. Επιστρέφει το πλάτος γραμμής σε byte"
 type: docs
 weight: 140
 url: /el/net/aspose.psd.fileformats.psd.resources/thumbnailresource/widthbytes/
 ---
+{{< psd/tize >}}
 ## ThumbnailResource.WidthBytes property
 
-Λαμβάνει το πλάτος της σειράς σε byte.
+Λαμβάνει το πλάτος γραμμής σε bytes.
 
 ```csharp
 public int WidthBytes { get; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Το πλάτος της σειράς σε byte.
+Το πλάτος γραμμής σε byte.
 
 ### Δείτε επίσης
 
 * class [ThumbnailResource](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Resources](../../thumbnailresource/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

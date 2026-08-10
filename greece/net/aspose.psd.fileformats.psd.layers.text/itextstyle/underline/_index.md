@@ -1,14 +1,15 @@
 ---
-title: ITextStyle.Underline
-second_title: Aspose.PSD για Αναφορά API .NET
-description: ITextStyle ιδιοκτησία. Λαμβάνει ή ορίζει μια τιμή που υποδεικνύει εάν υπογράμμιση.
+title: "ITextStyle.Underline"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "ITextStyle property. Λαμβάνει ή ορίζει μια τιμή που υποδεικνύει αν είναι υπογραμμισμένο"
 type: docs
 weight: 260
 url: /el/net/aspose.psd.fileformats.psd.layers.text/itextstyle/underline/
 ---
+{{< psd/tize >}}
 ## ITextStyle.Underline property
 
-Λαμβάνει ή ορίζει μια τιμή που υποδεικνύει εάν [υπογράμμιση].
+Λαμβάνει ή ορίζει μια τιμή που υποδεικνύει εάν [underline].
 
 ```csharp
 public bool Underline { get; set; }
@@ -17,7 +18,7 @@ public bool Underline { get; set; }
 ### Δείτε επίσης
 
 * interface [ITextStyle](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.Text](../../itextstyle/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.Text](../../../aspose.psd.fileformats.psd.layers.text/)
+* assembly [Aspose.PSD](../../../)
 
 

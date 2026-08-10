@@ -1,14 +1,15 @@
 ---
-title: Point.op_Implicit
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Point μέθοδος. Μετατρέπει το καθορισμένοPoint δομή στοPointFδομή.
+title: "Point.op_Implicit"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Μέθοδος Point. Μετατρέπει τη συγκεκριμένη δομή Point στη δομή PointF"
 type: docs
 weight: 180
 url: /el/net/aspose.psd/point/op_implicit/
 ---
+{{< psd/tize >}}
 ## Point Implicit operator
 
-Μετατρέπει το καθορισμένο[`Point`](../) δομή στο[`PointF`](../../pointf/)δομή.
+Μετατρέπει τη συγκεκριμένη δομή [`Point`](../) στη δομή [`PointF`](../../pointf/).
 
 ```csharp
 public static implicit operator PointF(Point point)
@@ -16,17 +17,17 @@ public static implicit operator PointF(Point point)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| point | Point | ο[`Point`](../) να μετατραπεί. |
+| point | Point | Το [`Point`](../) που θα μετατραπεί. |
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-ο[`PointF`](../../pointf/) που προκύπτει από τη μετατροπή.
+Το [`PointF`](../../pointf/) που προκύπτει από τη μετατροπή.
 
 ### Δείτε επίσης
 
 * struct [PointF](../../pointf/)
 * struct [Point](../)
-* χώρος ονομάτων [Aspose.PSD](../../point/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

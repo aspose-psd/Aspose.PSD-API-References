@@ -1,14 +1,15 @@
 ---
-title: EnumeratedReferenceStructure.EnumeratedStructureKey
-second_title: Aspose.PSD για Αναφορά API .NET
-description: EnumeratedReferenceStructure πεδίο. Προσδιορίζει το κλειδί δομής.
+title: "EnumeratedReferenceStructure.EnumeratedStructureKey"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Πεδίο EnumeratedReferenceStructure. Αναγνωρίζει το κλειδί της δομής"
 type: docs
 weight: 60
 url: /el/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/enumeratedreferencestructure/enumeratedstructurekey/
 ---
+{{< psd/tize >}}
 ## EnumeratedReferenceStructure.EnumeratedStructureKey field
 
-Προσδιορίζει το κλειδί δομής.
+Αναγνωρίζει το κλειδί της δομής.
 
 ```csharp
 public const int EnumeratedStructureKey;
@@ -17,7 +18,7 @@ public const int EnumeratedStructureKey;
 ### Δείτε επίσης
 
 * class [EnumeratedReferenceStructure](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../enumeratedreferencestructure/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 

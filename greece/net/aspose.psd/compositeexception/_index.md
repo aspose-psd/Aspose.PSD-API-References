@@ -1,11 +1,12 @@
 ---
-title: Class CompositeException
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Aspose.PSD.CompositeException τάξη. Η σύνθετη εξαίρεση
+title: "Κλάση CompositeException"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Aspose.PSD.CompositeException κλάση. Η σύνθετη εξαίρεση"
 type: docs
 weight: 410
 url: /el/net/aspose.psd/compositeexception/
 ---
+{{< psd/tize >}}
 ## CompositeException class
 
 Η σύνθετη εξαίρεση
@@ -16,7 +17,7 @@ public class CompositeException : Exception
 
 ### Δείτε επίσης
 
-* χώρος ονομάτων [Aspose.PSD](../../aspose.psd/)
-* συνέλευση [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

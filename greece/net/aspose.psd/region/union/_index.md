@@ -1,14 +1,15 @@
 ---
-title: Region.Union
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Region μέθοδος. Ενημερώνει αυτόRegion στην ένωση του εαυτού του και του καθορισμένουRectangleFδομή.
+title: "Region.Union"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Μέθοδος Region. Ενημερώνει αυτή τη Region στην ένωση της με τη συγκεκριμένη δομή RectangleF"
 type: docs
-weight: 140
+weight: 150
 url: /el/net/aspose.psd/region/union/
 ---
+{{< psd/tize >}}
 ## Union(RectangleF) {#union_2}
 
-Ενημερώνει αυτό[`Region`](../) στην ένωση του εαυτού του και του καθορισμένου[`RectangleF`](../../rectanglef/)δομή.
+Ενημερώνει αυτό το [`Region`](../) ώστε να είναι η ένωση του με τη συγκεκριμένη δομή [`RectangleF`](../../rectanglef/).
 
 ```csharp
 public void Union(RectangleF rect)
@@ -16,20 +17,20 @@ public void Union(RectangleF rect)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| rect | RectangleF | ο[`RectangleF`](../../rectanglef/) δομή για να ενωθεί με αυτό[`Region`](../). |
+| rect | RectangleF | Η δομή [`RectangleF`](../../rectanglef/) που ενώνεται με αυτό το [`Region`](../). |
 
 ### Δείτε επίσης
 
 * struct [RectangleF](../../rectanglef/)
 * class [Region](../)
-* χώρος ονομάτων [Aspose.PSD](../../region/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Union(Rectangle) {#union_1}
 
-Ενημερώνει αυτό[`Region`](../) στην ένωση του εαυτού του και του καθορισμένου[`Rectangle`](../../rectangle/)δομή.
+Ενημερώνει αυτό το [`Region`](../) ώστε να είναι η ένωση του με τη συγκεκριμένη δομή [`Rectangle`](../../rectangle/).
 
 ```csharp
 public void Union(Rectangle rect)
@@ -37,20 +38,20 @@ public void Union(Rectangle rect)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| rect | Rectangle | ο[`Rectangle`](../../rectangle/) δομή για να ενωθεί με αυτό[`Region`](../). |
+| rect | Rectangle | Η δομή [`Rectangle`](../../rectangle/) που ενώνεται με αυτό το [`Region`](../). |
 
 ### Δείτε επίσης
 
 * struct [Rectangle](../../rectangle/)
 * class [Region](../)
-* χώρος ονομάτων [Aspose.PSD](../../region/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Union(GraphicsPath) {#union}
 
-Ενημερώνει αυτό[`Region`](../) στην ένωση του εαυτού του και του καθορισμένου[`GraphicsPath`](../../graphicspath/) .
+Ενημερώνει αυτό το [`Region`](../) ώστε να είναι η ένωση του με τη συγκεκριμένη [`GraphicsPath`](../../graphicspath/).
 
 ```csharp
 public void Union(GraphicsPath path)
@@ -58,26 +59,26 @@ public void Union(GraphicsPath path)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| path | GraphicsPath | ο[`GraphicsPath`](../../graphicspath/) να ενωθεί με αυτό[`Region`](../). |
+| path | GraphicsPath | Η [`GraphicsPath`](../../graphicspath/) που ενώνεται με αυτό το [`Region`](../). |
 
 ### Εξαιρέσεις
 
-| εξαίρεση | κατάσταση |
+| εξαίρεση | συνθήκη |
 | --- | --- |
-| ArgumentNullException | *path* είναι μηδενικό. |
+| ArgumentNullException | *path* είναι null. |
 
 ### Δείτε επίσης
 
 * class [GraphicsPath](../../graphicspath/)
 * class [Region](../)
-* χώρος ονομάτων [Aspose.PSD](../../region/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Union(Region) {#union_3}
 
-Ενημερώνει αυτό[`Region`](../) στην ένωση του εαυτού του και του καθορισμένου[`Region`](../) .
+Ενημερώνει αυτό το [`Region`](../) ώστε να είναι η ένωση του με το καθορισμένο [`Region`](../).
 
 ```csharp
 public void Union(Region region)
@@ -85,18 +86,18 @@ public void Union(Region region)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| region | Region | ο[`Region`](../) να ενωθεί με αυτό[`Region`](../). |
+| region | Region | Το [`Region`](../) που ενώνεται με αυτό το [`Region`](../). |
 
 ### Εξαιρέσεις
 
-| εξαίρεση | κατάσταση |
+| εξαίρεση | συνθήκη |
 | --- | --- |
-| ArgumentNullException | *region* είναι μηδενικό. |
+| ArgumentNullException | *region* είναι null. |
 
 ### Δείτε επίσης
 
 * class [Region](../)
-* χώρος ονομάτων [Aspose.PSD](../../region/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: ColorBalanceAdjustmentLayer.ShadowsMagentaGreenBalance
-second_title: Aspose.PSD για Αναφορά API .NET
-description: ColorBalanceAdjustmentLayer ιδιοκτησία. Λαμβάνει ή ορίζει το Shadows Magenta Green Balance.
+title: "ColorBalanceAdjustmentLayer.ShadowsMagentaGreenBalance"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "ColorBalanceAdjustmentLayer ιδιότητα. Λαμβάνει ή ορίζει το ισοζύγιο Σκιών Ματζέντα Πράσινο"
 type: docs
 weight: 90
 url: /el/net/aspose.psd.fileformats.psd.layers.adjustmentlayers/colorbalanceadjustmentlayer/shadowsmagentagreenbalance/
 ---
+{{< psd/tize >}}
 ## ColorBalanceAdjustmentLayer.ShadowsMagentaGreenBalance property
 
 Λαμβάνει ή ορίζει το Shadows Magenta Green Balance.
@@ -14,19 +15,19 @@ url: /el/net/aspose.psd.fileformats.psd.layers.adjustmentlayers/colorbalanceadju
 public short ShadowsMagentaGreenBalance { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-The Shadows Magenta Green Balance.
+Το ισοζύγιο Σκιών Ματζέντα Πράσινο.
 
 ### Εξαιρέσεις
 
-| εξαίρεση | κατάσταση |
+| εξαίρεση | συνθήκη |
 | --- | --- |
-| ArgumentOutOfRangeException | Το Shadows Magenta Green Balance πρέπει να κυμαίνεται από -100 έως +100. |
+| ArgumentOutOfRangeException | Το ισοζύγιο Σκιών Ματζέντα Πράσινο πρέπει να είναι στο εύρος από -100 έως +100. |
 
-### Παραδείγματα
+## Παραδείγματα
 
-Ο παρακάτω κώδικας δείχνει υποστήριξη για το ColorBalanceAdjustmentLayer.
+Ο παρακάτω κώδικας δείχνει την υποστήριξη για το ColorBalanceAdjustmentLayer.
 
 ```csharp
 [C#]
@@ -60,7 +61,7 @@ using (var im = (PsdImage)Image.Load(filePath))
 ### Δείτε επίσης
 
 * class [ColorBalanceAdjustmentLayer](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../colorbalanceadjustmentlayer/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,28 +1,29 @@
 ---
-title: ReferenceStructure.Items
-second_title: Aspose.PSD για Αναφορά API .NET
-description: ReferenceStructure ιδιοκτησία. Λαμβάνει ή ορίζει ένα αντίγραφο μιας σειράς δομών.
+title: "ReferenceStructure.Items"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα ReferenceStructure. Λαμβάνει ή ορίζει ένα αντίγραφο ενός πίνακα δομών"
 type: docs
 weight: 20
 url: /el/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/referencestructure/items/
 ---
+{{< psd/tize >}}
 ## ReferenceStructure.Items property
 
-Λαμβάνει ή ορίζει ένα αντίγραφο μιας σειράς δομών.
+Λαμβάνει ή ορίζει ένα αντίγραφο ενός πίνακα δομών.
 
 ```csharp
 public OSTypeStructure[] Items { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Τα είδη.
+Τα στοιχεία.
 
 ### Δείτε επίσης
 
 * class [OSTypeStructure](../../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/)
 * class [ReferenceStructure](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../referencestructure/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 

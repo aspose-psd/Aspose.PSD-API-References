@@ -1,27 +1,28 @@
 ---
-title: ColorMatrix.Matrix44
-second_title: Aspose.PSD για Αναφορά API .NET
-description: ColorMatrix ιδιοκτησία. Λαμβάνει ή ορίζει το στοιχείο στην τέταρτη σειρά και την τέταρτη στήλη αυτούColorMatrix .
+title: "ColorMatrix.Matrix44"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα ColorMatrix. Λαμβάνει ή ορίζει το στοιχείο στην τέταρτη γραμμή και τέταρτη στήλη αυτού του ColorMatrix."
 type: docs
 weight: 270
 url: /el/net/aspose.psd/colormatrix/matrix44/
 ---
+{{< psd/tize >}}
 ## ColorMatrix.Matrix44 property
 
-Λαμβάνει ή ορίζει το στοιχείο στην τέταρτη σειρά και την τέταρτη στήλη αυτού[`ColorMatrix`](../) .
+Λαμβάνει ή ορίζει το στοιχείο στην τέταρτη γραμμή και τέταρτη στήλη αυτού του [`ColorMatrix`](../).
 
 ```csharp
 public float Matrix44 { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Το στοιχείο στην τέταρτη σειρά και την τέταρτη στήλη αυτού[`ColorMatrix`](../).
+Το στοιχείο στην τέταρτη γραμμή και τέταρτη στήλη αυτού του [`ColorMatrix`](../).
 
 ### Δείτε επίσης
 
 * class [ColorMatrix](../)
-* χώρος ονομάτων [Aspose.PSD](../../colormatrix/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

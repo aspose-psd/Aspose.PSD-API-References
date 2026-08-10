@@ -1,11 +1,12 @@
 ---
-title: GradientOverlayEffect.Settings
-second_title: Aspose.PSD για Αναφορά API .NET
-description: GradientOverlayEffect ιδιοκτησία. Λαμβάνει ή ορίζει τις ρυθμίσεις.
+title: "GradientOverlayEffect.Settings"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα GradientOverlayEffect. Λαμβάνει ή ορίζει τις ρυθμίσεις"
 type: docs
 weight: 50
 url: /el/net/aspose.psd.fileformats.psd.layers.layereffects/gradientoverlayeffect/settings/
 ---
+{{< psd/tize >}}
 ## GradientOverlayEffect.Settings property
 
 Λαμβάνει ή ορίζει τις ρυθμίσεις.
@@ -14,7 +15,7 @@ url: /el/net/aspose.psd.fileformats.psd.layers.layereffects/gradientoverlayeffec
 public GradientFillSettings Settings { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
 Οι ρυθμίσεις.
 
@@ -22,7 +23,7 @@ public GradientFillSettings Settings { get; set; }
 
 * class [GradientFillSettings](../../../aspose.psd.fileformats.psd.layers.fillsettings/gradientfillsettings/)
 * class [GradientOverlayEffect](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../gradientoverlayeffect/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../../)
 
 

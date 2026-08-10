@@ -1,11 +1,12 @@
 ---
-title: ExifData.MaxApertureValue
-second_title: Aspose.PSD για Αναφορά API .NET
-description: ExifData ιδιοκτησία. Λαμβάνει ή ορίζει τη μέγιστη τιμή διαφράγματος.
+title: "ExifData.MaxApertureValue"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα ExifData. Λαμβάνει ή ορίζει τη μέγιστη τιμή διαφράγματος"
 type: docs
 weight: 800
 url: /el/net/aspose.psd.exif/exifdata/maxaperturevalue/
 ---
+{{< psd/tize >}}
 ## ExifData.MaxApertureValue property
 
 Λαμβάνει ή ορίζει τη μέγιστη τιμή διαφράγματος.
@@ -14,7 +15,7 @@ url: /el/net/aspose.psd.exif/exifdata/maxaperturevalue/
 public TiffRational MaxApertureValue { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
 Η μέγιστη τιμή διαφράγματος.
 
@@ -22,7 +23,7 @@ public TiffRational MaxApertureValue { get; set; }
 
 * class [TiffRational](../../../aspose.psd.fileformats.tiff/tiffrational/)
 * class [ExifData](../)
-* χώρος ονομάτων [Aspose.PSD.Exif](../../exifdata/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

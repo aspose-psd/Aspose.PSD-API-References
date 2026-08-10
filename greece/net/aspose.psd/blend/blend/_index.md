@@ -1,14 +1,15 @@
 ---
-title: Blend.Blend
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Blend κατασκευαστής. Αρχικοποιεί μια νέα παρουσία τουBlend τάξη. Ο αριθμός των στοιχείων στους πίνακες παράγοντα και μείγματος θα είναι ίσος με 1.
+title: "Blend.Blend"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Κατασκευαστής Blend. Αρχικοποιεί μια νέα παρουσία της κλάσης Blend. Ο αριθμός των στοιχείων στους πίνακες παραγόντων και ανάμειξης θα είναι ίσος με 1"
 type: docs
 weight: 10
 url: /el/net/aspose.psd/blend/blend/
 ---
+{{< psd/tize >}}
 ## Blend() {#constructor}
 
-Αρχικοποιεί μια νέα παρουσία του[`Blend`](../) τάξη. Ο αριθμός των στοιχείων στους πίνακες παράγοντα και μείγματος θα είναι ίσος με 1.
+Αρχικοποιεί μια νέα παρουσία της κλάσης [`Blend`](../). Ο αριθμός των στοιχείων στους πίνακες factor και blend θα είναι ίσος με 1.
 
 ```csharp
 public Blend()
@@ -17,14 +18,14 @@ public Blend()
 ### Δείτε επίσης
 
 * class [Blend](../)
-* χώρος ονομάτων [Aspose.PSD](../../blend/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Blend(int) {#constructor_1}
 
-Αρχικοποιεί μια νέα παρουσία του[`Blend`](../) τάξη με τον καθορισμένο αριθμό παραγόντων και θέσεων.
+Αρχικοποιεί μια νέα παρουσία της κλάσης [`Blend`](../) με τον καθορισμένο αριθμό παραγόντων και θέσεων.
 
 ```csharp
 public Blend(int count)
@@ -32,12 +33,12 @@ public Blend(int count)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| count | Int32 | Ο αριθμός των στοιχείων στους πίνακες παραγόντων και θέσης. |
+| πλήθος | Int32 | Ο αριθμός των στοιχείων στους πίνακες factor και position. |
 
 ### Δείτε επίσης
 
 * class [Blend](../)
-* χώρος ονομάτων [Aspose.PSD](../../blend/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

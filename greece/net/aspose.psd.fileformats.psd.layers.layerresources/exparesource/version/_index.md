@@ -1,11 +1,12 @@
 ---
-title: ExpaResource.Version
-second_title: Aspose.PSD για Αναφορά API .NET
-description: ExpaResource ιδιοκτησία. Λαμβάνει την έκδοση. Η προεπιλογή είναι 1
+title: "ExpaResource.Version"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα ExpaResource. Λαμβάνει την έκδοση. Η προεπιλογή είναι 1"
 type: docs
-weight: 80
+weight: 60
 url: /el/net/aspose.psd.fileformats.psd.layers.layerresources/exparesource/version/
 ---
+{{< psd/tize >}}
 ## ExpaResource.Version property
 
 Λαμβάνει την έκδοση. Η προεπιλογή είναι 1
@@ -14,14 +15,14 @@ url: /el/net/aspose.psd.fileformats.psd.layers.layerresources/exparesource/versi
 public short Version { get; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
 Η έκδοση.
 
 ### Δείτε επίσης
 
 * class [ExpaResource](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../exparesource/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

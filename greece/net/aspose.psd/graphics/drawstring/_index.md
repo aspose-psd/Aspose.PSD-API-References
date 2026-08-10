@@ -1,14 +1,15 @@
 ---
-title: Graphics.DrawString
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Graphics μέθοδος. Σχεδιάζει την καθορισμένη συμβολοσειρά κειμένου στην καθορισμένη θέση με την καθορισμένηBrush καιFont αντικείμενα.
+title: "Graphics.DrawString"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Μέθοδος Graphics. Σχεδίαζει τη συγκεκριμένη συμβολοσειρά κειμένου στην καθορισμένη θέση με τα καθορισμένα Brush και Font αντικείμενα."
 type: docs
-weight: 320
+weight: 330
 url: /el/net/aspose.psd/graphics/drawstring/
 ---
+{{< psd/tize >}}
 ## DrawString(string, Font, Brush, float, float) {#drawstring_4}
 
-Σχεδιάζει την καθορισμένη συμβολοσειρά κειμένου στην καθορισμένη θέση με την καθορισμένη[`Brush`](../../brush/) και[`Font`](../../font/) αντικείμενα.
+Σχεδίαζει τη συγκεκριμένη συμβολοσειρά κειμένου στην καθορισμένη θέση με τα καθορισμένα `Brush` και `Font` αντικείμενα.
 
 ```csharp
 public void DrawString(string s, Font font, Brush brush, float x, float y)
@@ -16,31 +17,31 @@ public void DrawString(string s, Font font, Brush brush, float x, float y)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| s | String | Κορδόνι για να σχεδιάσετε. |
-| font | Font | [`Font`](../../font/) που καθορίζει τη μορφή κειμένου της συμβολοσειράς. |
-| brush | Brush | [`Brush`](../../brush/) που καθορίζει το χρώμα και την υφή του σχεδιασμένου κειμένου. |
+| s | String | Συμβολοσειρά για σχεδίαση. |
+| font | Font | `Font` που ορίζει τη μορφή κειμένου της συμβολοσειράς. |
+| brush | Brush | `Brush` που καθορίζει το χρώμα και την υφή του σχεδιασμένου κειμένου. |
 | x | Single | Η συντεταγμένη x της επάνω αριστερής γωνίας του σχεδιασμένου κειμένου. |
 | y | Single | Η συντεταγμένη y της επάνω αριστερής γωνίας του σχεδιασμένου κειμένου. |
 
 ### Εξαιρέσεις
 
-| εξαίρεση | κατάσταση |
+| εξαίρεση | συνθήκη |
 | --- | --- |
-| ArgumentNullException | *brush* είναι μηδενικό. -ή- *s* είναι μηδενικό. |
+| ArgumentNullException | *brush* είναι null. -ή- *s* είναι null. |
 
 ### Δείτε επίσης
 
 * class [Font](../../font/)
 * class [Brush](../../brush/)
 * class [Graphics](../)
-* χώρος ονομάτων [Aspose.PSD](../../graphics/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## DrawString(string, Font, Brush, PointF) {#drawstring}
 
-Σχεδιάζει την καθορισμένη συμβολοσειρά κειμένου στην καθορισμένη θέση με την καθορισμένη[`Brush`](../../brush/) και[`Font`](../../font/) αντικείμενα.
+Σχεδίαζει τη συγκεκριμένη συμβολοσειρά κειμένου στην καθορισμένη θέση με τα καθορισμένα `Brush` και `Font` αντικείμενα.
 
 ```csharp
 public void DrawString(string s, Font font, Brush brush, PointF point)
@@ -48,46 +49,46 @@ public void DrawString(string s, Font font, Brush brush, PointF point)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| s | String | Κορδόνι για να σχεδιάσετε. |
-| font | Font | [`Font`](../../font/) που καθορίζει τη μορφή κειμένου της συμβολοσειράς. |
-| brush | Brush | [`Brush`](../../brush/) που καθορίζει το χρώμα και την υφή του σχεδιασμένου κειμένου. |
-| point | PointF | [`PointF`](../../pointf/) δομή που καθορίζει την επάνω αριστερή γωνία του σχεδιασμένου κειμένου. |
+| s | String | Συμβολοσειρά για σχεδίαση. |
+| font | Font | `Font` που ορίζει τη μορφή κειμένου της συμβολοσειράς. |
+| brush | Brush | `Brush` που καθορίζει το χρώμα και την υφή του σχεδιασμένου κειμένου. |
+| point | PointF | `PointF` δομή που καθορίζει την επάνω αριστερή γωνία του σχεδιασμένου κειμένου. |
 
 ### Εξαιρέσεις
 
-| εξαίρεση | κατάσταση |
+| εξαίρεση | συνθήκη |
 | --- | --- |
-| ArgumentNullException | *brush* είναι μηδενικό. -ή- *s* είναι μηδενικό. |
+| ArgumentNullException | *brush* είναι null. -ή- *s* είναι null. |
 
-### Παραδείγματα
+## Παραδείγματα
 
-Αυτό το παράδειγμα δείχνει τη χρήση της κλάσης Font και SolidBrush για τη σχεδίαση συμβολοσειρών στην επιφάνεια εικόνας. Το παράδειγμα δημιουργεί μια νέα εικόνα και σχεδιάζει σχήματα χρησιμοποιώντας το Figure και το GraphicsPath
+Αυτό το παράδειγμα δείχνει τη χρήση των κλάσεων Font και SolidBrush για τη σχεδίαση κειμένων στην επιφάνεια της Image. Το παράδειγμα δημιουργεί μια νέα Image και σχεδιάζει σχήματα χρησιμοποιώντας τις Figures και το GraphicsPath.
 
 ```csharp
 [C#]
 
-//Δημιουργεί μια παρουσία εικόνας
+//Δημιουργεί ένα στιγμιότυπο της Image.
 using (Aspose.PSD.Image image = new Aspose.PSD.FileFormats.Psd.PsdImage(500, 500))
 {
-    //Δημιουργεί και προετοιμάζει μια παρουσία της κλάσης Graphics
+    //Δημιουργεί και αρχικοποιεί ένα στιγμιότυπο της κλάσης Graphics.
     Aspose.PSD.Graphics graphics = new Aspose.PSD.Graphics(image);
 
-    //Καθαρίζει την επιφάνεια γραφικών
+    //Καθαρίζει την επιφάνεια Graphics.
     graphics.Clear(Color.Wheat);
 
-    //Δημιουργεί μια παρουσία γραμματοσειράς
+    //Δημιουργεί ένα στιγμιότυπο της Font.
     Aspose.PSD.Font font = new Aspose.PSD.Font("Times New Roman", 16);
 
-    //Δημιουργήστε μια παρουσία του SolidBrush με κόκκινο χρώμα
+    //Δημιουργεί ένα στιγμιότυπο της SolidBrush με κόκκινο χρώμα.
     Aspose.PSD.Brushes.SolidBrush brush = new Aspose.PSD.Brushes.SolidBrush(Color.Red);
 
-    //Σχεδιάστε μια συμβολοσειρά
+    //Σχεδιάζει μια συμβολοσειρά.
     graphics.DrawString("Created by Aspose.PSD for .Net", font, brush, new PointF(100, 100));
 
-    // δημιουργία επιλογών εξαγωγής.
+    // Δημιουργεί επιλογές εξαγωγής.
     Aspose.PSD.ImageOptions.GifOptions options = new Aspose.PSD.ImageOptions.GifOptions();
 
-    // αποθήκευση όλων των αλλαγών
+    // αποθηκεύστε όλες τις αλλαγές
     image.Save("C:\\temp\\output.gif", options);
 }
 ```
@@ -98,14 +99,14 @@ using (Aspose.PSD.Image image = new Aspose.PSD.FileFormats.Psd.PsdImage(500, 500
 * class [Brush](../../brush/)
 * struct [PointF](../../pointf/)
 * class [Graphics](../)
-* χώρος ονομάτων [Aspose.PSD](../../graphics/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## DrawString(string, Font, Brush, float, float, StringFormat) {#drawstring_5}
 
-Σχεδιάζει την καθορισμένη συμβολοσειρά κειμένου στην καθορισμένη θέση με την καθορισμένη[`Brush`](../../brush/) και[`Font`](../../font/) αντικείμενα που χρησιμοποιούν τα χαρακτηριστικά μορφοποίησης του καθορισμένου[`StringFormat`](../../stringformat/) .
+Σχεδίαζει τη συγκεκριμένη συμβολοσειρά κειμένου στην καθορισμένη θέση με τα καθορισμένα `Brush` και `Font` αντικείμενα χρησιμοποιώντας τα χαρακτηριστικά μορφοποίησης του καθορισμένου `StringFormat`.
 
 ```csharp
 public void DrawString(string s, Font font, Brush brush, float x, float y, StringFormat format)
@@ -113,18 +114,18 @@ public void DrawString(string s, Font font, Brush brush, float x, float y, Strin
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| s | String | Κορδόνι για να σχεδιάσετε. |
-| font | Font | [`Font`](../../font/) που καθορίζει τη μορφή κειμένου της συμβολοσειράς. |
-| brush | Brush | [`Brush`](../../brush/) που καθορίζει το χρώμα και την υφή του σχεδιασμένου κειμένου. |
+| s | String | Συμβολοσειρά για σχεδίαση. |
+| font | Font | `Font` που ορίζει τη μορφή κειμένου της συμβολοσειράς. |
+| brush | Brush | `Brush` που καθορίζει το χρώμα και την υφή του σχεδιασμένου κειμένου. |
 | x | Single | Η συντεταγμένη x της επάνω αριστερής γωνίας του σχεδιασμένου κειμένου. |
 | y | Single | Η συντεταγμένη y της επάνω αριστερής γωνίας του σχεδιασμένου κειμένου. |
-| format | StringFormat | [`StringFormat`](../../stringformat/) που καθορίζει χαρακτηριστικά μορφοποίησης, όπως διάστιχο και στοίχιση, που εφαρμόζονται στο σχεδιασμένο κείμενο. |
+| format | StringFormat | `StringFormat` που καθορίζει χαρακτηριστικά μορφοποίησης, όπως το διάστημα γραμμών και η στοίχιση, που εφαρμόζονται στο σχεδιασμένο κείμενο. |
 
 ### Εξαιρέσεις
 
-| εξαίρεση | κατάσταση |
+| εξαίρεση | συνθήκη |
 | --- | --- |
-| ArgumentNullException | *brush* είναι μηδενικό. -ή- *s* είναι μηδενικό. |
+| ArgumentNullException | *brush* είναι null. -ή- *s* είναι null. |
 
 ### Δείτε επίσης
 
@@ -132,14 +133,14 @@ public void DrawString(string s, Font font, Brush brush, float x, float y, Strin
 * class [Brush](../../brush/)
 * class [StringFormat](../../stringformat/)
 * class [Graphics](../)
-* χώρος ονομάτων [Aspose.PSD](../../graphics/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## DrawString(string, Font, Brush, PointF, StringFormat) {#drawstring_1}
 
-Σχεδιάζει την καθορισμένη συμβολοσειρά κειμένου στην καθορισμένη θέση με την καθορισμένη[`Brush`](../../brush/) και[`Font`](../../font/) αντικείμενα που χρησιμοποιούν τα χαρακτηριστικά μορφοποίησης του καθορισμένου[`StringFormat`](../../stringformat/) .
+Σχεδίαζει τη συγκεκριμένη συμβολοσειρά κειμένου στην καθορισμένη θέση με τα καθορισμένα `Brush` και `Font` αντικείμενα χρησιμοποιώντας τα χαρακτηριστικά μορφοποίησης του καθορισμένου `StringFormat`.
 
 ```csharp
 public void DrawString(string s, Font font, Brush brush, PointF point, StringFormat format)
@@ -147,17 +148,17 @@ public void DrawString(string s, Font font, Brush brush, PointF point, StringFor
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| s | String | Κορδόνι για να σχεδιάσετε. |
-| font | Font | [`Font`](../../font/) που καθορίζει τη μορφή κειμένου της συμβολοσειράς. |
-| brush | Brush | [`Brush`](../../brush/) που καθορίζει το χρώμα και την υφή του σχεδιασμένου κειμένου. |
-| point | PointF | [`PointF`](../../pointf/) δομή που καθορίζει την επάνω αριστερή γωνία του σχεδιασμένου κειμένου. |
-| format | StringFormat | [`StringFormat`](../../stringformat/) που καθορίζει χαρακτηριστικά μορφοποίησης, όπως διάστιχο και στοίχιση, που εφαρμόζονται στο σχεδιασμένο κείμενο. |
+| s | String | Συμβολοσειρά για σχεδίαση. |
+| font | Font | `Font` που ορίζει τη μορφή κειμένου της συμβολοσειράς. |
+| brush | Brush | `Brush` που καθορίζει το χρώμα και την υφή του σχεδιασμένου κειμένου. |
+| point | PointF | `PointF` δομή που καθορίζει την επάνω αριστερή γωνία του σχεδιασμένου κειμένου. |
+| format | StringFormat | `StringFormat` που καθορίζει χαρακτηριστικά μορφοποίησης, όπως το διάστημα γραμμών και η στοίχιση, που εφαρμόζονται στο σχεδιασμένο κείμενο. |
 
 ### Εξαιρέσεις
 
-| εξαίρεση | κατάσταση |
+| εξαίρεση | συνθήκη |
 | --- | --- |
-| ArgumentNullException | *brush* είναι μηδενικό. -ή- *s* είναι μηδενικό. |
+| ArgumentNullException | *brush* είναι null. -ή- *s* είναι null. |
 
 ### Δείτε επίσης
 
@@ -166,14 +167,14 @@ public void DrawString(string s, Font font, Brush brush, PointF point, StringFor
 * struct [PointF](../../pointf/)
 * class [StringFormat](../../stringformat/)
 * class [Graphics](../)
-* χώρος ονομάτων [Aspose.PSD](../../graphics/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## DrawString(string, Font, Brush, RectangleF) {#drawstring_2}
 
-Σχεδιάζει την καθορισμένη συμβολοσειρά κειμένου στο καθορισμένο ορθογώνιο με το καθορισμένο[`Brush`](../../brush/) και[`Font`](../../font/) αντικείμενα.
+Σχεδίαζει τη συγκεκριμένη συμβολοσειρά κειμένου στο καθορισμένο ορθογώνιο με τα καθορισμένα `Brush` και `Font` αντικείμενα.
 
 ```csharp
 public void DrawString(string s, Font font, Brush brush, RectangleF layoutRectangle)
@@ -181,16 +182,16 @@ public void DrawString(string s, Font font, Brush brush, RectangleF layoutRectan
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| s | String | Κορδόνι για να σχεδιάσετε. |
-| font | Font | [`Font`](../../font/) που καθορίζει τη μορφή κειμένου της συμβολοσειράς. |
-| brush | Brush | [`Brush`](../../brush/) που καθορίζει το χρώμα και την υφή του σχεδιασμένου κειμένου. |
-| layoutRectangle | RectangleF | [`RectangleF`](../../rectanglef/) δομή που καθορίζει τη θέση του σχεδιασμένου κειμένου. |
+| s | String | Συμβολοσειρά για σχεδίαση. |
+| font | Font | `Font` που ορίζει τη μορφή κειμένου της συμβολοσειράς. |
+| brush | Brush | `Brush` που καθορίζει το χρώμα και την υφή του σχεδιασμένου κειμένου. |
+| layoutRectangle | RectangleF | `RectangleF` δομή που καθορίζει τη θέση του σχεδιασμένου κειμένου. |
 
 ### Εξαιρέσεις
 
-| εξαίρεση | κατάσταση |
+| εξαίρεση | συνθήκη |
 | --- | --- |
-| ArgumentNullException | *brush* είναι μηδενικό. -ή- *s* είναι μηδενικό. |
+| ArgumentNullException | *brush* είναι null. -ή- *s* είναι null. |
 
 ### Δείτε επίσης
 
@@ -198,14 +199,14 @@ public void DrawString(string s, Font font, Brush brush, RectangleF layoutRectan
 * class [Brush](../../brush/)
 * struct [RectangleF](../../rectanglef/)
 * class [Graphics](../)
-* χώρος ονομάτων [Aspose.PSD](../../graphics/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## DrawString(string, Font, Brush, RectangleF, StringFormat) {#drawstring_3}
 
-Σχεδιάζει την καθορισμένη συμβολοσειρά κειμένου στο καθορισμένο ορθογώνιο με το καθορισμένο[`Brush`](../../brush/) και[`Font`](../../font/) αντικείμενα που χρησιμοποιούν τα χαρακτηριστικά μορφοποίησης του καθορισμένου[`StringFormat`](../../stringformat/) .
+Σχεδίαζει τη συγκεκριμένη συμβολοσειρά κειμένου στο καθορισμένο ορθογώνιο με τα καθορισμένα `Brush` και `Font` αντικείμενα χρησιμοποιώντας τα χαρακτηριστικά μορφοποίησης του καθορισμένου `StringFormat`.
 
 ```csharp
 public void DrawString(string s, Font font, Brush brush, RectangleF layoutRectangle, 
@@ -214,17 +215,17 @@ public void DrawString(string s, Font font, Brush brush, RectangleF layoutRectan
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| s | String | Κορδόνι για να σχεδιάσετε. |
-| font | Font | [`Font`](../../font/) που καθορίζει τη μορφή κειμένου της συμβολοσειράς. |
-| brush | Brush | [`Brush`](../../brush/) που καθορίζει το χρώμα και την υφή του σχεδιασμένου κειμένου. |
-| layoutRectangle | RectangleF | [`RectangleF`](../../rectanglef/) δομή που καθορίζει τη θέση του σχεδιασμένου κειμένου. |
-| format | StringFormat | [`StringFormat`](../../stringformat/) που καθορίζει χαρακτηριστικά μορφοποίησης, όπως διάστιχο και στοίχιση, που εφαρμόζονται στο σχεδιασμένο κείμενο. |
+| s | String | Συμβολοσειρά για σχεδίαση. |
+| font | Font | `Font` που ορίζει τη μορφή κειμένου της συμβολοσειράς. |
+| brush | Brush | `Brush` που καθορίζει το χρώμα και την υφή του σχεδιασμένου κειμένου. |
+| layoutRectangle | RectangleF | `RectangleF` δομή που καθορίζει τη θέση του σχεδιασμένου κειμένου. |
+| format | StringFormat | `StringFormat` που καθορίζει χαρακτηριστικά μορφοποίησης, όπως το διάστημα γραμμών και η στοίχιση, που εφαρμόζονται στο σχεδιασμένο κείμενο. |
 
 ### Εξαιρέσεις
 
-| εξαίρεση | κατάσταση |
+| εξαίρεση | συνθήκη |
 | --- | --- |
-| ArgumentNullException | *brush* είναι μηδενικό. -ή- *s* είναι μηδενικό. -ή- *brush* είναι μηδενικό. |
+| ArgumentNullException | *brush* είναι null. -ή- *s* είναι null. -ή- *brush* είναι null. |
 
 ### Δείτε επίσης
 
@@ -233,7 +234,7 @@ public void DrawString(string s, Font font, Brush brush, RectangleF layoutRectan
 * struct [RectangleF](../../rectanglef/)
 * class [StringFormat](../../stringformat/)
 * class [Graphics](../)
-* χώρος ονομάτων [Aspose.PSD](../../graphics/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

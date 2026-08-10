@@ -1,11 +1,12 @@
 ---
-title: TextShape.Center
-second_title: Aspose.PSD για Αναφορά API .NET
-description: TextShape ιδιοκτησία. Λαμβάνει το κέντρο του σχήματος.
+title: "TextShape.Center"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα TextShape. Λαμβάνει το κέντρο του σχήματος"
 type: docs
 weight: 30
 url: /el/net/aspose.psd.shapes/textshape/center/
 ---
+{{< psd/tize >}}
 ## TextShape.Center property
 
 Λαμβάνει το κέντρο του σχήματος.
@@ -14,7 +15,7 @@ url: /el/net/aspose.psd.shapes/textshape/center/
 public override PointF Center { get; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
 Το κέντρο του σχήματος.
 
@@ -22,7 +23,7 @@ public override PointF Center { get; }
 
 * struct [PointF](../../../aspose.psd/pointf/)
 * class [TextShape](../)
-* χώρος ονομάτων [Aspose.PSD.Shapes](../../textshape/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 

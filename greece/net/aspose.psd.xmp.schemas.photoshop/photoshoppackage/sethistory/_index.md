@@ -1,11 +1,12 @@
 ---
-title: PhotoshopPackage.SetHistory
-second_title: Aspose.PSD για Αναφορά API .NET
-description: PhotoshopPackage μέθοδος. Ορίζει το ιστορικό.
+title: "PhotoshopPackage.SetHistory"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "PhotoshopPackage μέθοδος. Ορίζει το ιστορικό"
 type: docs
 weight: 130
 url: /el/net/aspose.psd.xmp.schemas.photoshop/photoshoppackage/sethistory/
 ---
+{{< psd/tize >}}
 ## PhotoshopPackage.SetHistory method
 
 Ορίζει το ιστορικό.
@@ -16,12 +17,12 @@ public void SetHistory(string history)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| history | String | Η ιστορία. |
+| history | String | Το ιστορικό. |
 
 ### Δείτε επίσης
 
 * class [PhotoshopPackage](../)
-* χώρος ονομάτων [Aspose.PSD.Xmp.Schemas.Photoshop](../../photoshoppackage/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.Photoshop](../../../aspose.psd.xmp.schemas.photoshop/)
+* assembly [Aspose.PSD](../../../)
 
 

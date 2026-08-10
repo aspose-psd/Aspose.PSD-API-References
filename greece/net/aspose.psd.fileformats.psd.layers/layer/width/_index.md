@@ -1,11 +1,12 @@
 ---
-title: Layer.Width
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Layer ιδιοκτησία. Λαμβάνει το πλάτος της εικόνας.
+title: "Layer.Width"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα Layer. Λαμβάνει το πλάτος της εικόνας"
 type: docs
-weight: 320
+weight: 330
 url: /el/net/aspose.psd.fileformats.psd.layers/layer/width/
 ---
+{{< psd/tize >}}
 ## Layer.Width property
 
 Λαμβάνει το πλάτος της εικόνας.
@@ -14,14 +15,14 @@ url: /el/net/aspose.psd.fileformats.psd.layers/layer/width/
 public override int Width { get; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
 Το πλάτος της εικόνας.
 
 ### Δείτε επίσης
 
 * class [Layer](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers](../../layer/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

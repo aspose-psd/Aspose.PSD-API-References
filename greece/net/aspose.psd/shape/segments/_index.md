@@ -1,28 +1,29 @@
 ---
-title: Shape.Segments
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Shape ιδιοκτησία. Παίρνει τα τμήματα σχήματος.
+title: "Shape.Segments"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα Shape. Επιστρέφει τα τμήματα του σχήματος"
 type: docs
 weight: 30
 url: /el/net/aspose.psd/shape/segments/
 ---
+{{< psd/tize >}}
 ## Shape.Segments property
 
-Παίρνει τα τμήματα σχήματος.
+Λαμβάνει τα τμήματα του σχήματος.
 
 ```csharp
 public abstract ShapeSegment[] Segments { get; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Τα τμήματα σχήματος.
+Τα τμήματα του σχήματος.
 
 ### Δείτε επίσης
 
 * class [ShapeSegment](../../shapesegment/)
 * class [Shape](../)
-* χώρος ονομάτων [Aspose.PSD](../../shape/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

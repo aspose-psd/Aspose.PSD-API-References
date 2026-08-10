@@ -1,11 +1,12 @@
 ---
-title: PatternFillSettings.HorizontalOffset
-second_title: Aspose.PSD για Αναφορά API .NET
-description: PatternFillSettings ιδιοκτησία. Λαμβάνει ή ορίζει την οριζόντια μετατόπιση.
+title: "PatternFillSettings.HorizontalOffset"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "PatternFillSettings ιδιότητα. Λαμβάνει ή ορίζει την οριζόντια μετατόπιση"
 type: docs
-weight: 40
+weight: 60
 url: /el/net/aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings/horizontaloffset/
 ---
+{{< psd/tize >}}
 ## PatternFillSettings.HorizontalOffset property
 
 Λαμβάνει ή ορίζει την οριζόντια μετατόπιση.
@@ -14,13 +15,13 @@ url: /el/net/aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings/
 public int HorizontalOffset { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
 Η οριζόντια μετατόπιση.
 
-### Παραδείγματα
+## Παραδείγματα
 
-Ο ακόλουθος κώδικας δείχνει την υποστήριξη της επεξεργασίας του μοτίβου στρώματος γεμίσματος.
+Ο παρακάτω κώδικας δείχνει την υποστήριξη της επεξεργασίας του μοτίβου στρώσης γεμίσματος.
 
 ```csharp
 [C#]
@@ -78,7 +79,7 @@ using (im)
 ### Δείτε επίσης
 
 * class [PatternFillSettings](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../patternfillsettings/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: BlncResource.ShadowsMagentaGreenBalance
-second_title: Aspose.PSD για Αναφορά API .NET
-description: BlncResource ιδιοκτησία. Λαμβάνει ή ορίζει το Shadows Magenta Green Balance.
+title: "BlncResource.ShadowsMagentaGreenBalance"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "BlncResource property. Λαμβάνει ή ορίζει το Ισοζύγιο Σκιών Ματζέντα Πράσινο"
 type: docs
-weight: 130
+weight: 110
 url: /el/net/aspose.psd.fileformats.psd.layers.layerresources/blncresource/shadowsmagentagreenbalance/
 ---
+{{< psd/tize >}}
 ## BlncResource.ShadowsMagentaGreenBalance property
 
 Λαμβάνει ή ορίζει το Shadows Magenta Green Balance.
@@ -14,14 +15,14 @@ url: /el/net/aspose.psd.fileformats.psd.layers.layerresources/blncresource/shado
 public short ShadowsMagentaGreenBalance { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-The Shadows Magenta Green Balance.
+Το ισοζύγιο Σκιών Ματζέντα Πράσινο.
 
 ### Δείτε επίσης
 
 * class [BlncResource](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../blncresource/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

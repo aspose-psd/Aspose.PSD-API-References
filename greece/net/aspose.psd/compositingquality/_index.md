@@ -1,11 +1,12 @@
 ---
-title: Enum CompositingQuality
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Aspose.PSD.CompositingQuality αρίθμηση. Καθορίζει το επίπεδο ποιότητας που θα χρησιμοποιηθεί κατά τη σύνθεση.
+title: "Απαρίθμηση CompositingQuality"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Απαρίθμηση Aspose.PSD.CompositingQuality. Καθορίζει το επίπεδο ποιότητας που θα χρησιμοποιηθεί κατά τη σύνθεση."
 type: docs
 weight: 420
 url: /el/net/aspose.psd/compositingquality/
 ---
+{{< psd/tize >}}
 ## CompositingQuality enumeration
 
 Καθορίζει το επίπεδο ποιότητας που θα χρησιμοποιηθεί κατά τη σύνθεση.
@@ -14,20 +15,20 @@ url: /el/net/aspose.psd/compositingquality/
 public enum CompositingQuality
 ```
 
-### Αξίες
+### Τιμές
 
-| Ονομα | αξία | Περιγραφή |
+| Όνομα | Τιμή | Περιγραφή |
 | --- | --- | --- |
 | Invalid | `-1` | Μη έγκυρη ποιότητα. |
 | Default | `0` | Προεπιλεγμένη ποιότητα. |
 | HighSpeed | `1` | Υψηλή ταχύτητα, χαμηλή ποιότητα. |
 | HighQuality | `2` | Σύνθεση υψηλής ποιότητας, χαμηλής ταχύτητας. |
 | GammaCorrected | `3` | Χρησιμοποιείται διόρθωση γάμμα. |
-| AssumeLinear | `4` | Υποθέστε γραμμικές τιμές. |
+| AssumeLinear | `4` | Υποθέτει γραμμικές τιμές. |
 
 ### Δείτε επίσης
 
-* χώρος ονομάτων [Aspose.PSD](../../aspose.psd/)
-* συνέλευση [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

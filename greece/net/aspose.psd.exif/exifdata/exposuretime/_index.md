@@ -1,20 +1,21 @@
 ---
-title: ExifData.ExposureTime
-second_title: Aspose.PSD για Αναφορά API .NET
-description: ExifData ιδιοκτησία. Λαμβάνει ή ρυθμίζει το χρόνο έκθεσης.
+title: "ExifData.ExposureTime"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα ExifData. Λαμβάνει ή ορίζει τον χρόνο έκθεσης"
 type: docs
 weight: 230
 url: /el/net/aspose.psd.exif/exifdata/exposuretime/
 ---
+{{< psd/tize >}}
 ## ExifData.ExposureTime property
 
-Λαμβάνει ή ρυθμίζει το χρόνο έκθεσης.
+Λαμβάνει ή ορίζει το χρόνο έκθεσης.
 
 ```csharp
 public TiffRational ExposureTime { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
 Ο χρόνος έκθεσης.
 
@@ -22,7 +23,7 @@ public TiffRational ExposureTime { get; set; }
 
 * class [TiffRational](../../../aspose.psd.fileformats.tiff/tiffrational/)
 * class [ExifData](../)
-* χώρος ονομάτων [Aspose.PSD.Exif](../../exifdata/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

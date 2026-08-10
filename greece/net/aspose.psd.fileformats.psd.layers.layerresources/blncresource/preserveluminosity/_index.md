@@ -1,27 +1,28 @@
 ---
-title: BlncResource.PreserveLuminosity
-second_title: Aspose.PSD για Αναφορά API .NET
-description: BlncResource ιδιοκτησία. Λαμβάνει ή ορίζει μια τιμή που υποδεικνύει εάν αυτόBlncResource διατηρεί τη φωτεινότητα.
+title: "BlncResource.PreserveLuminosity"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "BlncResource ιδιότητα. Λαμβάνει ή ορίζει μια τιμή που υποδεικνύει εάν αυτό το BlncResource διατηρεί τη φωτεινότητα"
 type: docs
-weight: 100
+weight: 90
 url: /el/net/aspose.psd.fileformats.psd.layers.layerresources/blncresource/preserveluminosity/
 ---
+{{< psd/tize >}}
 ## BlncResource.PreserveLuminosity property
 
-Λαμβάνει ή ορίζει μια τιμή που υποδεικνύει εάν αυτό[`BlncResource`](../) διατηρεί τη φωτεινότητα.
+Λαμβάνει ή ορίζει μια τιμή που υποδεικνύει εάν αυτό το [`BlncResource`](../) διατηρεί τη φωτεινότητα.
 
 ```csharp
 public bool PreserveLuminosity { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-`αληθής` αν διατηρεί τη φωτεινότητα? σε διαφορετική περίπτωση,`ψευδής` .
+`true` εάν διατηρεί τη φωτεινότητα· διαφορετικά, `false`.
 
 ### Δείτε επίσης
 
 * class [BlncResource](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../blncresource/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,28 +1,29 @@
 ---
-title: LayerMaskData.Flags
-second_title: Aspose.PSD για Αναφορά API .NET
-description: LayerMaskData ιδιοκτησία. Λαμβάνει ή ορίζει τις σημαίες μάσκας επιπέδου.
+title: "LayerMaskData.Flags"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα LayerMaskData. Λαμβάνει ή ορίζει τις σημαίες της μάσκας στρώσης."
 type: docs
 weight: 40
 url: /el/net/aspose.psd.fileformats.psd.layers/layermaskdata/flags/
 ---
+{{< psd/tize >}}
 ## LayerMaskData.Flags property
 
-Λαμβάνει ή ορίζει τις σημαίες μάσκας επιπέδου.
+Λαμβάνει ή ορίζει τις σημαίες της μάσκας στρώσης.
 
 ```csharp
 public LayerMaskFlags Flags { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Οι σημαίες μάσκας στρώματος.
+Οι σημαίες της μάσκας στρώσης.
 
 ### Δείτε επίσης
 
 * enum [LayerMaskFlags](../../layermaskflags/)
 * class [LayerMaskData](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers](../../layermaskdata/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

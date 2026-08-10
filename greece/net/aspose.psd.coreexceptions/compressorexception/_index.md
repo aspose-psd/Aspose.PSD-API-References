@@ -1,14 +1,15 @@
 ---
-title: Class CompressorException
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Aspose.PSD.CoreExceptions.CompressorException τάξη. Η εξαίρεση του συμπιεστή.
+title: "Κλάση CompressorException"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Aspose.PSD.CoreExceptions.CompressorException κλάση. Η εξαίρεση συμπίεσης"
 type: docs
 weight: 430
 url: /el/net/aspose.psd.coreexceptions/compressorexception/
 ---
+{{< psd/tize >}}
 ## CompressorException class
 
-Η εξαίρεση του συμπιεστή.
+Η εξαίρεση συμπιεστή.
 
 ```csharp
 public class CompressorException : FrameworkException
@@ -16,15 +17,15 @@ public class CompressorException : FrameworkException
 
 ## Κατασκευαστές
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
-| [CompressorException](compressorexception/#constructor)(string) | Αρχικοποιεί μια νέα παρουσία του`CompressorException` τάξη. |
-| [CompressorException](compressorexception/#constructor_1)(string, Exception) | Αρχικοποιεί μια νέα παρουσία του`CompressorException` τάξη. |
+| [CompressorException](compressorexception/#constructor)(string) | Αρχικοποιεί μια νέα παρουσία της κλάσης `CompressorException`. |
+| [CompressorException](compressorexception/#constructor_1)(string, Exception) | Αρχικοποιεί μια νέα παρουσία της κλάσης `CompressorException`. |
 
 ### Δείτε επίσης
 
 * class [FrameworkException](../frameworkexception/)
-* χώρος ονομάτων [Aspose.PSD.CoreExceptions](../../aspose.psd.coreexceptions/)
-* συνέλευση [Aspose.PSD](../../)
+* namespace [Aspose.PSD.CoreExceptions](../../aspose.psd.coreexceptions/)
+* assembly [Aspose.PSD](../../)
 
 

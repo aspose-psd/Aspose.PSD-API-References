@@ -1,11 +1,12 @@
 ---
-title: Graphics.Clear
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Graphics μέθοδος. Καθαρίζει την επιφάνεια γραφικών χρησιμοποιώντας το καθορισμένο χρώμα.
+title: "Graphics.Clear"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Graphics μέθοδος. Καθαρίζει την επιφάνεια γραφικών χρησιμοποιώντας το καθορισμένο χρώμα."
 type: docs
-weight: 150
+weight: 160
 url: /el/net/aspose.psd/graphics/clear/
 ---
+{{< psd/tize >}}
 ## Graphics.Clear method
 
 Καθαρίζει την επιφάνεια γραφικών χρησιμοποιώντας το καθορισμένο χρώμα.
@@ -16,13 +17,13 @@ public void Clear(Color color)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| color | Color | Το χρώμα για να καθαρίσετε την επιφάνεια των γραφικών. |
+| χρώμα | Χρώμα | Το χρώμα με το οποίο θα καθαριστεί η επιφάνεια γραφικών. |
 
 ### Δείτε επίσης
 
 * struct [Color](../../color/)
 * class [Graphics](../)
-* χώρος ονομάτων [Aspose.PSD](../../graphics/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

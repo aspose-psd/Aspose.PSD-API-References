@@ -1,14 +1,15 @@
 ---
-title: XmpBasicPackage.SetMetadataDate
-second_title: Aspose.PSD για Αναφορά API .NET
-description: XmpBasicPackage μέθοδος. Προσθέτει μεταδεδομένα τελευταίας αλλαγής ημερομηνίας.
+title: "XmpBasicPackage.SetMetadataDate"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "XmpBasicPackage μέθοδος. Προσθέτει την ημερομηνία τελευταίας αλλαγής μεταδεδομένων"
 type: docs
-weight: 70
+weight: 90
 url: /el/net/aspose.psd.xmp.schemas.xmpbaseschema/xmpbasicpackage/setmetadatadate/
 ---
+{{< psd/tize >}}
 ## SetMetadataDate(DateTime) {#setmetadatadate}
 
-Προσθέτει μεταδεδομένα τελευταίας αλλαγής ημερομηνίας.
+Προσθέτει την ημερομηνία τελευταίας αλλαγής των μεταδεδομένων.
 
 ```csharp
 public void SetMetadataDate(DateTime metadataDate)
@@ -21,14 +22,14 @@ public void SetMetadataDate(DateTime metadataDate)
 ### Δείτε επίσης
 
 * class [XmpBasicPackage](../)
-* χώρος ονομάτων [Aspose.PSD.Xmp.Schemas.XmpBaseSchema](../../xmpbasicpackage/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpBaseSchema](../../../aspose.psd.xmp.schemas.xmpbaseschema/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## SetMetadataDate(string) {#setmetadatadate_1}
 
-Προσθέτει μεταδεδομένα τελευταίας αλλαγής ημερομηνίας.
+Προσθέτει την ημερομηνία τελευταίας αλλαγής των μεταδεδομένων.
 
 ```csharp
 public void SetMetadataDate(string metadataDate)
@@ -41,7 +42,7 @@ public void SetMetadataDate(string metadataDate)
 ### Δείτε επίσης
 
 * class [XmpBasicPackage](../)
-* χώρος ονομάτων [Aspose.PSD.Xmp.Schemas.XmpBaseSchema](../../xmpbasicpackage/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpBaseSchema](../../../aspose.psd.xmp.schemas.xmpbaseschema/)
+* assembly [Aspose.PSD](../../../)
 
 

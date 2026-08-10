@@ -1,16 +1,17 @@
 ---
-title: Aspose.PSD.Xmp.Schemas.DublinCore
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Ο χώρος ονομάτων περιέχει βοηθητικές κλάσεις σταθερές και μεθόδους που σχετίζονται με μεταδεδομένα Dublin Core.
+title: "Aspose.PSD.Xmp.Schemas.DublinCore"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Το namespace περιέχει βοηθητικές κλάσεις, σταθερές και μεθόδους σχετικές με τα μεταδεδομένα Dublin Core"
 type: docs
-weight: 530
+weight: 570
 url: /el/net/aspose.psd.xmp.schemas.dublincore/
 ---
-Ο χώρος ονομάτων περιέχει βοηθητικές κλάσεις, σταθερές και μεθόδους που σχετίζονται με μεταδεδομένα Dublin Core.
+{{< psd/tize >}}
+Ο χώρος ονομάτων περιέχει βοηθητικές κλάσεις, σταθερές και μεθόδους σχετικές με τα μεταδεδομένα Dublin Core.
 
-## Τάξεις
+## Κλάσεις
 
-| Τάξη | Περιγραφή |
+| Κλάση | Περιγραφή |
 | --- | --- |
 | [DublinCorePackage](./dublincorepackage/) | Αντιπροσωπεύει το σχήμα Dublic Core. |
 

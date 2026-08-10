@@ -1,28 +1,29 @@
 ---
-title: ColorMap.NewColor
-second_title: Aspose.PSD για Αναφορά API .NET
-description: ColorMap ιδιοκτησία. Λαμβάνει ή ορίζει το νέοColor δομή στην οποία θα μετατραπεί.
+title: "ColorMap.NewColor"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα ColorMap. Λαμβάνει ή ορίζει τη νέα δομή Color στην οποία θα μετατραπεί"
 type: docs
 weight: 20
 url: /el/net/aspose.psd/colormap/newcolor/
 ---
+{{< psd/tize >}}
 ## ColorMap.NewColor property
 
-Λαμβάνει ή ορίζει το νέο[`Color`](../../color/) δομή στην οποία θα μετατραπεί.
+Λαμβάνει ή ορίζει τη νέα δομή [`Color`](../../color/) στην οποία θα μετατραπεί.
 
 ```csharp
 public Color NewColor { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Το νέο[`Color`](../../color/) δομή στην οποία θα μετατραπεί.
+Η νέα δομή [`Color`](../../color/) στην οποία θα μετατραπεί.
 
 ### Δείτε επίσης
 
 * struct [Color](../../color/)
 * class [ColorMap](../)
-* χώρος ονομάτων [Aspose.PSD](../../colormap/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,26 +1,27 @@
 ---
-title: BlackWhiteAdjustmentLayer.UseTint
-second_title: Aspose.PSD για Αναφορά API .NET
-description: BlackWhiteAdjustmentLayer ιδιοκτησία. Λαμβάνει ή ορίζει μια τιμή που υποδεικνύει εάν χρησιμοποιείται χρώμα απόχρωσης.
+title: "BlackWhiteAdjustmentLayer.UseTint"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "BlackWhiteAdjustmentLayer ιδιότητα. Λαμβάνει ή ορίζει μια τιμή που υποδεικνύει εάν το χρώμα απόχρωσης χρησιμοποιείται"
 type: docs
 weight: 120
 url: /el/net/aspose.psd.fileformats.psd.layers.adjustmentlayers/blackwhiteadjustmentlayer/usetint/
 ---
+{{< psd/tize >}}
 ## BlackWhiteAdjustmentLayer.UseTint property
 
-Λαμβάνει ή ορίζει μια τιμή που υποδεικνύει εάν χρησιμοποιείται [χρώμα απόχρωσης].
+Λαμβάνει ή ορίζει μια τιμή που υποδεικνύει εάν [tint color] χρησιμοποιείται.
 
 ```csharp
 public bool UseTint { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-`αληθής` εάν χρησιμοποιείται [χρώμα απόχρωσης]. σε διαφορετική περίπτωση,`ψευδής` .
+`true` εάν χρησιμοποιείται [tint color]; διαφορετικά, `false`.
 
-### Παραδείγματα
+## Παραδείγματα
 
-Το ακόλουθο παράδειγμα δείχνει πώς μπορείτε να χειριστείτε τις ιδιότητες του επιπέδου προσαρμογής μαύρου λευκού στο Aspose.PSD
+Το παρακάτω παράδειγμα δείχνει πώς μπορείτε να διαχειριστείτε τις ιδιότητες του στρώματος ρυθμίσεων ασπρόμαυρου στο Aspose.PSD
 
 ```csharp
 [C#]
@@ -51,7 +52,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFileName))
 ### Δείτε επίσης
 
 * class [BlackWhiteAdjustmentLayer](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../blackwhiteadjustmentlayer/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: ExifData.PixelXDimension
-second_title: Aspose.PSD για Αναφορά API .NET
-description: ExifData ιδιοκτησία. Λαμβάνει ή ορίζει τη διάσταση pixel x.
+title: "ExifData.PixelXDimension"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα ExifData. Λαμβάνει ή ορίζει τη διάσταση x του pixel"
 type: docs
 weight: 840
 url: /el/net/aspose.psd.exif/exifdata/pixelxdimension/
 ---
+{{< psd/tize >}}
 ## ExifData.PixelXDimension property
 
 Λαμβάνει ή ορίζει τη διάσταση pixel x.
@@ -14,14 +15,14 @@ url: /el/net/aspose.psd.exif/exifdata/pixelxdimension/
 public uint PixelXDimension { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Η διάσταση pixel x.
+Η διάσταση x του pixel.
 
 ### Δείτε επίσης
 
 * class [ExifData](../)
-* χώρος ονομάτων [Aspose.PSD.Exif](../../exifdata/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

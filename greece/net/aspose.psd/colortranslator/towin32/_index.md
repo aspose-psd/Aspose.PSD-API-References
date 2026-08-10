@@ -1,14 +1,15 @@
 ---
-title: ColorTranslator.ToWin32
-second_title: Aspose.PSD για Αναφορά API .NET
-description: ColorTranslator μέθοδος. Μεταφράζει το χρώμα σε χρώμα win32.
+title: "ColorTranslator.ToWin32"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Μέθοδος ColorTranslator. Μετατρέπει το χρώμα σε χρώμα win32"
 type: docs
 weight: 60
 url: /el/net/aspose.psd/colortranslator/towin32/
 ---
+{{< psd/tize >}}
 ## ColorTranslator.ToWin32 method
 
-Μεταφράζει το χρώμα σε χρώμα win32.
+Μετατρέπει το χρώμα σε χρώμα win32.
 
 ```csharp
 public static int ToWin32(Color c)
@@ -16,9 +17,9 @@ public static int ToWin32(Color c)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| c | Color | Το χρώμα. |
+| c | Χρώμα | Το χρώμα. |
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
 Το χρώμα win32.
 
@@ -26,7 +27,7 @@ public static int ToWin32(Color c)
 
 * struct [Color](../../color/)
 * class [ColorTranslator](../)
-* χώρος ονομάτων [Aspose.PSD](../../colortranslator/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

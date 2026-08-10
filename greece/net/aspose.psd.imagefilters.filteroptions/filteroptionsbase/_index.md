@@ -1,14 +1,15 @@
 ---
-title: Class FilterOptionsBase
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Aspose.PSD.ImageFilters.FilterOptions.FilterOptionsBase τάξη. Βάση επιλογών φίλτρου abstract class
+title: "Κλάση FilterOptionsBase"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Aspose.PSD.ImageFilters.FilterOptions.FilterOptionsBase κλάση. Η αφηρημένη κλάση βάσης επιλογών φίλτρου"
 type: docs
-weight: 4690
+weight: 5160
 url: /el/net/aspose.psd.imagefilters.filteroptions/filteroptionsbase/
 ---
+{{< psd/tize >}}
 ## FilterOptionsBase class
 
-Βάση επιλογών φίλτρου, abstract class
+Βάση επιλογών φίλτρου, αφηρημένη κλάση
 
 ```csharp
 public abstract class FilterOptionsBase
@@ -16,7 +17,7 @@ public abstract class FilterOptionsBase
 
 ### Δείτε επίσης
 
-* χώρος ονομάτων [Aspose.PSD.ImageFilters.FilterOptions](../../aspose.psd.imagefilters.filteroptions/)
-* συνέλευση [Aspose.PSD](../../)
+* namespace [Aspose.PSD.ImageFilters.FilterOptions](../../aspose.psd.imagefilters.filteroptions/)
+* assembly [Aspose.PSD](../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: VstkResource.Key
-second_title: Aspose.PSD για Αναφορά API .NET
-description: VstkResource ιδιοκτησία. Λαμβάνει το κλειδί πόρων επιπέδου.
+title: "VstkResource.Key"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "VstkResource ιδιότητα. Λαμβάνει το layer resource key"
 type: docs
-weight: 30
+weight: 40
 url: /el/net/aspose.psd.fileformats.psd.layers.layerresources.strokeresources/vstkresource/key/
 ---
+{{< psd/tize >}}
 ## VstkResource.Key property
 
-Λαμβάνει το κλειδί πόρων επιπέδου.
+Λαμβάνει το κλειδί πόρου του επιπέδου.
 
 ```csharp
 public override int Key { get; }
@@ -17,7 +18,7 @@ public override int Key { get; }
 ### Δείτε επίσης
 
 * class [VstkResource](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.StrokeResources](../../vstkresource/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.StrokeResources](../../../aspose.psd.fileformats.psd.layers.layerresources.strokeresources/)
+* assembly [Aspose.PSD](../../../)
 
 

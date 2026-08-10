@@ -1,27 +1,28 @@
 ---
-title: CustResource.LayerCreatedDateTime
-second_title: Aspose.PSD για Αναφορά API .NET
-description: CustResource ιδιοκτησία. Λαμβάνει ή ορίζει την ημερομηνία δημιουργίας του επιπέδου.
+title: "CustResource.LayerCreatedDateTime"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα CustResource. Λαμβάνει ή ορίζει την ημερομηνία δημιουργίας του επιπέδου"
 type: docs
-weight: 30
+weight: 20
 url: /el/net/aspose.psd.fileformats.psd.layers.layerresources/custresource/layercreateddatetime/
 ---
+{{< psd/tize >}}
 ## CustResource.LayerCreatedDateTime property
 
-Λαμβάνει ή ορίζει την ημερομηνία δημιουργίας του επιπέδου.
+Λαμβάνει ή ορίζει την ημερομηνία δημιουργίας της στρώσης.
 
 ```csharp
 public DateTime LayerCreatedDateTime { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
 Η ημερομηνία δημιουργίας του επιπέδου.
 
 ### Δείτε επίσης
 
 * class [CustResource](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../custresource/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

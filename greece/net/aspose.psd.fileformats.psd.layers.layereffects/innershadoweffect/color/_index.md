@@ -1,20 +1,21 @@
 ---
-title: InnerShadowEffect.Color
-second_title: Aspose.PSD για Αναφορά API .NET
-description: InnerShadowEffect ιδιοκτησία. Παίρνει ή ρυθμίζει το χρώμα.
+title: "InnerShadowEffect.Color"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "InnerShadowEffect ιδιότητα. Λαμβάνει ή ορίζει το χρώμα"
 type: docs
 weight: 30
 url: /el/net/aspose.psd.fileformats.psd.layers.layereffects/innershadoweffect/color/
 ---
+{{< psd/tize >}}
 ## InnerShadowEffect.Color property
 
-Παίρνει ή ρυθμίζει το χρώμα.
+Λαμβάνει ή ορίζει το χρώμα.
 
 ```csharp
 public Color Color { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
 Το χρώμα.
 
@@ -22,7 +23,7 @@ public Color Color { get; set; }
 
 * struct [Color](../../../aspose.psd/color/)
 * class [InnerShadowEffect](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../innershadoweffect/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../../)
 
 

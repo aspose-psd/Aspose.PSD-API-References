@@ -1,14 +1,15 @@
 ---
-title: AnimatedDataSectionStructure.Length
-second_title: Aspose.PSD για Αναφορά API .NET
-description: AnimatedDataSectionStructure ιδιοκτησία. Λαμβάνει τοOSTypeStructure μήκος σε byte.
+title: "AnimatedDataSectionStructure.Length"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα AnimatedDataSectionStructure. Επιστρέφει το μήκος του OSTypeStructure σε byte"
 type: docs
 weight: 30
 url: /el/net/aspose.psd.fileformats.psd.layers.layerresources/animateddatasectionstructure/length/
 ---
+{{< psd/tize >}}
 ## AnimatedDataSectionStructure.Length property
 
-Λαμβάνει το[`OSTypeStructure`](../../ostypestructure/) μήκος σε byte.
+Επιστρέφει το μήκος του [`OSTypeStructure`](../../ostypestructure/) σε byte.
 
 ```csharp
 public override int Length { get; }
@@ -17,7 +18,7 @@ public override int Length { get; }
 ### Δείτε επίσης
 
 * class [AnimatedDataSectionStructure](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../animateddatasectionstructure/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

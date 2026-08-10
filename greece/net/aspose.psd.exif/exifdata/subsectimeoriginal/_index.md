@@ -1,27 +1,28 @@
 ---
-title: ExifData.SubsecTimeOriginal
-second_title: Aspose.PSD για Αναφορά API .NET
-description: ExifData ιδιοκτησία. Λαμβάνει ή ορίζει τα κλάσματα δευτερολέπτων για την ετικέτα DateTimeOriginal.
+title: "ExifData.SubsecTimeOriginal"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα ExifData. Λαμβάνει ή ορίζει τα κλάσματα του δευτερολέπτου για την ετικέτα DateTimeOriginal"
 type: docs
 weight: 1050
 url: /el/net/aspose.psd.exif/exifdata/subsectimeoriginal/
 ---
+{{< psd/tize >}}
 ## ExifData.SubsecTimeOriginal property
 
-Λαμβάνει ή ορίζει τα κλάσματα δευτερολέπτων για την ετικέτα DateTimeOriginal.
+Λαμβάνει ή ορίζει τα κλάσματα του δευτερολέπτου για την ετικέτα DateTimeOriginal.
 
 ```csharp
 public string SubsecTimeOriginal { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Τα κλάσματα δευτερολέπτων για την ετικέτα DateTimeOriginal.
+Τα κλάσματα του δευτερολέπτου για την ετικέτα DateTimeOriginal.
 
 ### Δείτε επίσης
 
 * class [ExifData](../)
-* χώρος ονομάτων [Aspose.PSD.Exif](../../exifdata/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: Class SplitStreamContainer
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Aspose.PSD.SplitStreamContainer τάξη. Αντιπροσωπεύει το κοντέινερ διαχωρισμού ροής που περιέχει τη ροή και παρέχει ρουτίνες επεξεργασίας ροής.
+title: "Κλάση SplitStreamContainer"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Aspose.PSD.SplitStreamContainer κλάση. Αντιπροσωπεύει το split stream container που περιέχει το stream και παρέχει ρουτίνες επεξεργασίας stream"
 type: docs
-weight: 5630
+weight: 6130
 url: /el/net/aspose.psd/splitstreamcontainer/
 ---
+{{< psd/tize >}}
 ## SplitStreamContainer class
 
-Αντιπροσωπεύει το κοντέινερ διαχωρισμού ροής που περιέχει τη ροή και παρέχει ρουτίνες επεξεργασίας ροής.
+Αναπαριστά ένα δοχείο διαχωρισμένου ρεύματος που περιέχει το ρεύμα και παρέχει ρουτίνες επεξεργασίας ρεύματος.
 
 ```csharp
 public class SplitStreamContainer : StreamContainer
@@ -16,56 +17,56 @@ public class SplitStreamContainer : StreamContainer
 
 ## Κατασκευαστές
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
-| [SplitStreamContainer](splitstreamcontainer/#constructor_1)(Stream) | Αρχικοποιεί μια νέα παρουσία του`SplitStreamContainer` τάξη. |
-| [SplitStreamContainer](splitstreamcontainer/#constructor_2)(Stream, bool) | Αρχικοποιεί μια νέα παρουσία του`SplitStreamContainer` τάξη. |
-| [SplitStreamContainer](splitstreamcontainer/#constructor)(StreamContainer, bool) | Αρχικοποιεί μια νέα παρουσία του`SplitStreamContainer` τάξη. |
+| [SplitStreamContainer](splitstreamcontainer/#constructor_1)(Stream) | Αρχικοποιεί μια νέα παρουσία της κλάσης `SplitStreamContainer`. |
+| [SplitStreamContainer](splitstreamcontainer/#constructor_2)(Stream, bool) | Αρχικοποιεί μια νέα παρουσία της κλάσης `SplitStreamContainer`. |
+| [SplitStreamContainer](splitstreamcontainer/#constructor)(StreamContainer, bool) | Αρχικοποιεί μια νέα παρουσία της κλάσης `SplitStreamContainer`. |
 
 ## Ιδιότητες
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
-| override [CanRead](../../aspose.psd/splitstreamcontainer/canread/) { get; } | Λαμβάνει μια τιμή που υποδεικνύει εάν η ροή υποστηρίζει ανάγνωση. |
-| override [CanSeek](../../aspose.psd/splitstreamcontainer/canseek/) { get; } | Λαμβάνει μια τιμή που υποδεικνύει εάν η ροή υποστηρίζει αναζήτηση. |
-| override [CanWrite](../../aspose.psd/splitstreamcontainer/canwrite/) { get; } | Λαμβάνει μια τιμή που υποδεικνύει εάν η ροή υποστηρίζει εγγραφή. |
-| [Disposed](../../aspose.psd/disposableobject/disposed/) { get; } | Λαμβάνει μια τιμή που υποδεικνύει εάν αυτή η παρουσία έχει διατεθεί. |
-| virtual [IsStreamDisposedOnClose](../../aspose.psd/streamcontainer/isstreamdisposedonclose/) { get; } | Λαμβάνει μια τιμή που υποδεικνύει εάν αυτή η ροή διατίθεται στο κλείσιμο. |
-| override [Length](../../aspose.psd/splitstreamcontainer/length/) { get; set; } | Λαμβάνει ή ορίζει το μήκος ροής σε byte. Αυτή η τιμή είναι μικρότερη από τοLengthαπό τη θέση έναρξης ροής που μεταβιβάστηκε στον κατασκευαστή StreamContainer. |
-| override [Position](../../aspose.psd/splitstreamcontainer/position/) { get; set; } | Λαμβάνει ή ορίζει την τρέχουσα θέση εντός της ροής. Αυτή η τιμή αντιπροσωπεύει τη μετατόπιση από τη θέση έναρξης ροής που μεταβιβάστηκε στον κατασκευαστή StreamContainer. |
-| override [Stream](../../aspose.psd/splitstreamcontainer/stream/) { get; } | Λαμβάνει τη ροή δεδομένων. |
-| [SyncRoot](../../aspose.psd/splitstreamcontainer/syncroot/) { get; } | Λαμβάνει ένα αντικείμενο που μπορεί να χρησιμοποιηθεί για τον συγχρονισμό της πρόσβασης στον συγχρονισμένο πόρο. |
+| override [CanRead](../../aspose.psd/splitstreamcontainer/canread/) { get; } | Λαμβάνει μια τιμή που υποδεικνύει αν το stream υποστηρίζει ανάγνωση. |
+| override [CanSeek](../../aspose.psd/splitstreamcontainer/canseek/) { get; } | Λαμβάνει μια τιμή που υποδεικνύει αν το stream υποστηρίζει αναζήτηση. |
+| override [CanWrite](../../aspose.psd/splitstreamcontainer/canwrite/) { get; } | Λαμβάνει μια τιμή που υποδεικνύει αν το stream υποστηρίζει εγγραφή. |
+| [Disposed](../../aspose.psd/disposableobject/disposed/) { get; } | Λαμβάνει μια τιμή που υποδεικνύει εάν αυτή η παρουσία έχει απελευθερωθεί. |
+| virtual [IsStreamDisposedOnClose](../../aspose.psd/streamcontainer/isstreamdisposedonclose/) { get; } | Λαμβάνει μια τιμή που υποδεικνύει αν αυτό το stream διαγράφεται κατά το κλείσιμο. |
+| override [Length](../../aspose.psd/splitstreamcontainer/length/) { get; set; } | Λαμβάνει ή ορίζει το μήκος του stream σε bytes. Αυτή η τιμή είναι μικρότερη από το Length κατά τη θέση εκκίνησης του stream που περάστηκε στον κατασκευαστή StreamContainer. |
+| override [Position](../../aspose.psd/splitstreamcontainer/position/) { get; set; } | Λαμβάνει ή ορίζει την τρέχουσα θέση εντός του stream. Αυτή η τιμή αντιπροσωπεύει την απόσταση από τη θέση εκκίνησης του stream που περάστηκε στον κατασκευαστή StreamContainer. |
+| override [Stream](../../aspose.psd/splitstreamcontainer/stream/) { get; } | Λαμβάνει το data stream. |
+| [SyncRoot](../../aspose.psd/splitstreamcontainer/syncroot/) { get; } | Λαμβάνει ένα αντικείμενο που μπορεί να χρησιμοποιηθεί για το συγχρονισμό της πρόσβασης στον συγχρονισμένο πόρο. |
 
 ## Μέθοδοι
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
-| [Dispose](../../aspose.psd/disposableobject/dispose/)() | Διαθέτει την τρέχουσα παρουσία. |
-| override [Flush](../../aspose.psd/splitstreamcontainer/flush/)() | Διαγράφει όλα τα buffer για αυτήν τη ροή και προκαλεί την εγγραφή τυχόν αποθηκευμένων δεδομένων στην υποκείμενη συσκευή. |
-| [Insert](../../aspose.psd/splitstreamcontainer/insert/)(int, StreamContainer, bool) | Εισάγει το κοντέινερ ροής στην καθορισμένη θέση. |
-| override [Read](../../aspose.psd/splitstreamcontainer/read/#read)(byte[]) | Διαβάζει byte για να γεμίσει το καθορισμένο buffer bytes. |
-| override [Read](../../aspose.psd/splitstreamcontainer/read/#read_1)(byte[], int, int) | Διαβάζει μια ακολουθία byte από την τρέχουσα ροή και προωθεί τη θέση εντός της ροής κατά τον αριθμό των byte που διαβάζονται. |
-| override [ReadByte](../../aspose.psd/splitstreamcontainer/readbyte/)() | Διαβάζει ένα byte από τη ροή και προωθεί τη θέση εντός της ροής κατά ένα byte ή επιστρέφει -1 εάν στο τέλος της ροής. |
-| virtual [Save](../../aspose.psd/streamcontainer/save/)(Stream) | Αποθηκεύει (αντιγράφει) τα δεδομένα της ροής στην καθορισμένη ροή. Χρησιμοποιεί προεπιλεγμένο μέγεθος buffer[`ReadWriteBytesCount`](../streamcontainer/readwritebytescount/) και ρέμα[`Length`](../streamcontainer/length/) τιμή. |
-| virtual [Save](../../aspose.psd/streamcontainer/save/)(string) | Αποθηκεύει (αντιγράφει) τα δεδομένα της ροής στην καθορισμένη ροή. Χρησιμοποιεί προεπιλεγμένο μέγεθος buffer[`ReadWriteBytesCount`](../streamcontainer/readwritebytescount/) και ρέμα[`Length`](../streamcontainer/length/) τιμή. |
-| virtual [Save](../../aspose.psd/streamcontainer/save/)(Stream, int) | Αποθηκεύει (αντιγράφει) όλα τα δεδομένα της ροής στην καθορισμένη ροή. Χρησιμοποιεί ροή[`Length`](../streamcontainer/length/) τιμή. |
-| virtual [Save](../../aspose.psd/streamcontainer/save/)(string, int) | Αποθηκεύει (αντιγράφει) τα δεδομένα της ροής στην καθορισμένη ροή. Χρησιμοποιεί ροή[`Length`](../streamcontainer/length/) τιμή. |
-| override [Save](../../aspose.psd/splitstreamcontainer/save/#save_2)(Stream, int, long) | Αποθηκεύει (αντιγράφει) τα δεδομένα της ροής στην καθορισμένη ροή. |
-| virtual [Save](../../aspose.psd/streamcontainer/save/)(string, int, long) | Αποθηκεύει (αντιγράφει) τα δεδομένα της ροής στην καθορισμένη ροή. |
-| override [Seek](../../aspose.psd/splitstreamcontainer/seek/)(long, SeekOrigin) | Ορίζει τη θέση εντός της τρέχουσας ροής. |
-| override [SeekBegin](../../aspose.psd/splitstreamcontainer/seekbegin/)() | Ορίζει τη θέση ροής στην αρχή της ροής. Αυτή η τιμή αντιπροσωπεύει τη μετατόπιση από τη θέση έναρξης ροής που μεταβιβάστηκε στον κατασκευαστή StreamContainer. |
-| override [ToBytes](../../aspose.psd/splitstreamcontainer/tobytes/#tobytes)() | Μετατρέπει τα δεδομένα ροής σεByte συστοιχία. |
-| override [ToBytes](../../aspose.psd/splitstreamcontainer/tobytes/#tobytes_1)(long, long) | Μετατρέπει τα δεδομένα ροής σεByte συστοιχία. |
+| [Dispose](../../aspose.psd/disposableobject/dispose/)() | Αποδεσμεύει την τρέχουσα παρουσία. |
+| override [Flush](../../aspose.psd/splitstreamcontainer/flush/)() | Καθαρίζει όλες τις προσωρινές μνήμες για αυτή τη ροή και προκαλεί την εγγραφή τυχόν προσωρινών δεδομένων στη βασική συσκευή. |
+| [Insert](../../aspose.psd/splitstreamcontainer/insert/)(int, StreamContainer, bool) | Εισάγει το δοχείο ροής στη συγκεκριμένη θέση. |
+| override [Read](../../aspose.psd/splitstreamcontainer/read/#read)(byte[]) | Διαβάζει byte για να γεμίσει την καθορισμένη προσωρινή μνήμη byte. |
+| override [Read](../../aspose.psd/splitstreamcontainer/read/#read_1)(byte[], int, int) | Διαβάζει μια ακολουθία byte από την τρέχουσα ροή και προχωρά τη θέση μέσα στη ροή κατά τον αριθμό των byte που διαβάστηκαν. |
+| override [ReadByte](../../aspose.psd/splitstreamcontainer/readbyte/)() | Διαβάζει ένα byte από τη ροή και προχωρά τη θέση μέσα στη ροή κατά ένα byte, ή επιστρέφει -1 εάν βρίσκεται στο τέλος της ροής. |
+| virtual [Save](../../aspose.psd/streamcontainer/save/)(Stream) | Αποθηκεύει (αντιγράφει) τα δεδομένα της ροής στο καθορισμένο ρεύμα. Χρησιμοποιεί το προεπιλεγμένο μέγεθος προσωρινής μνήμης [`ReadWriteBytesCount`](../streamcontainer/readwritebytescount/) και την τιμή της ροής [`Length`](../streamcontainer/length/). |
+| virtual [Save](../../aspose.psd/streamcontainer/save/)(string) | Αποθηκεύει (αντιγράφει) τα δεδομένα της ροής στο καθορισμένο ρεύμα. Χρησιμοποιεί το προεπιλεγμένο μέγεθος προσωρινής μνήμης [`ReadWriteBytesCount`](../streamcontainer/readwritebytescount/) και την τιμή της ροής [`Length`](../streamcontainer/length/). |
+| virtual [Save](../../aspose.psd/streamcontainer/save/)(Stream, int) | Αποθηκεύει (αντιγράφει) όλα τα δεδομένα της ροής στο καθορισμένο ρεύμα. Χρησιμοποιεί την τιμή της ροής [`Length`](../streamcontainer/length/). |
+| virtual [Save](../../aspose.psd/streamcontainer/save/)(string, int) | Αποθηκεύει (αντιγράφει) τα δεδομένα της ροής στο καθορισμένο ρεύμα. Χρησιμοποιεί την τιμή της ροής [`Length`](../streamcontainer/length/). |
+| override [Save](../../aspose.psd/splitstreamcontainer/save/#save_2)(Stream, int, long) | Αποθηκεύει (αντιγράφει) τα δεδομένα της ροής στο καθορισμένο ρεύμα. |
+| virtual [Save](../../aspose.psd/streamcontainer/save/)(string, int, long) | Αποθηκεύει (αντιγράφει) τα δεδομένα της ροής στο καθορισμένο ρεύμα. |
+| override [Seek](../../aspose.psd/splitstreamcontainer/seek/)(long, SeekOrigin) | Ορίζει τη θέση μέσα στην τρέχουσα ροή. |
+| override [SeekBegin](../../aspose.psd/splitstreamcontainer/seekbegin/)() | Ορίζει τη θέση της ροής στην αρχή της ροής. Αυτή η τιμή αντιπροσωπεύει την απόσταση από τη θέση έναρξης της ροής που δόθηκε στον κατασκευαστή StreamContainer. |
+| override [ToBytes](../../aspose.psd/splitstreamcontainer/tobytes/#tobytes)() | Μετατρέπει τα δεδομένα της ροής σε πίνακα Byte. |
+| override [ToBytes](../../aspose.psd/splitstreamcontainer/tobytes/#tobytes_1)(long, long) | Μετατρέπει τα δεδομένα της ροής σε πίνακα Byte. |
 | override [Write](../../aspose.psd/splitstreamcontainer/write/#write)(byte[]) | Γράφει όλα τα καθορισμένα byte στη ροή. |
-| override [Write](../../aspose.psd/splitstreamcontainer/write/#write_1)(byte[], int, int) | Γράφει μια ακολουθία byte στην τρέχουσα ροή και προωθεί την τρέχουσα θέση σε αυτήν τη ροή με τον αριθμό των byte που γράφτηκαν. |
-| override [WriteByte](../../aspose.psd/splitstreamcontainer/writebyte/)(byte) | Γράφει ένα byte στην τρέχουσα θέση στη ροή και προωθεί τη θέση μέσα στη ροή κατά ένα byte. |
-| virtual [WriteTo](../../aspose.psd/streamcontainer/writeto/)(StreamContainer) | Αντιγράφει τα δεδομένα που περιέχονται σε άλλο[`StreamContainer`](../streamcontainer/) . |
-| virtual [WriteTo](../../aspose.psd/streamcontainer/writeto/)(StreamContainer, long) | Αντιγράφει τα δεδομένα που περιέχονται σε άλλο[`StreamContainer`](../streamcontainer/) . |
+| override [Write](../../aspose.psd/splitstreamcontainer/write/#write_1)(byte[], int, int) | Γράφει μια ακολουθία byte στην τρέχουσα ροή και προχωρά τη τρέχουσα θέση μέσα σε αυτή τη ροή κατά τον αριθμό των byte που γράφτηκαν. |
+| override [WriteByte](../../aspose.psd/splitstreamcontainer/writebyte/)(byte) | Γράφει ένα byte στην τρέχουσα θέση στη ροή και προχωρά τη θέση μέσα στη ροή κατά ένα byte. |
+| virtual [WriteTo](../../aspose.psd/streamcontainer/writeto/)(StreamContainer) | Αντιγράφει τα περιεχόμενα δεδομένα σε ένα άλλο [`StreamContainer`](../streamcontainer/). |
+| virtual [WriteTo](../../aspose.psd/streamcontainer/writeto/)(StreamContainer, long) | Αντιγράφει τα περιεχόμενα δεδομένα σε ένα άλλο [`StreamContainer`](../streamcontainer/). |
 
 ### Δείτε επίσης
 
 * class [StreamContainer](../streamcontainer/)
-* χώρος ονομάτων [Aspose.PSD](../../aspose.psd/)
-* συνέλευση [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

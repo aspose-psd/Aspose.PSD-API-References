@@ -1,14 +1,15 @@
 ---
-title: GaussianBlurSmartFilter.GaussianBlurSmartFilter
-second_title: Aspose.PSD για Αναφορά API .NET
-description: GaussianBlurSmartFilter κατασκευαστής. Αρχικοποιεί μια νέα παρουσία τουGaussianBlurSmartFilter τάξη.
+title: "GaussianBlurSmartFilter.GaussianBlurSmartFilter"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "GaussianBlurSmartFilter constructor. Αρχικοποιεί ένα νέο αντικείμενο της κλάσης GaussianBlurSmartFilter"
 type: docs
 weight: 10
 url: /el/net/aspose.psd.fileformats.psd.layers.smartfilters/gaussianblursmartfilter/gaussianblursmartfilter/
 ---
+{{< psd/tize >}}
 ## GaussianBlurSmartFilter constructor
 
-Αρχικοποιεί μια νέα παρουσία του[`GaussianBlurSmartFilter`](../) τάξη.
+Αρχικοποιεί μια νέα παρουσία της κλάσης [`GaussianBlurSmartFilter`](../).
 
 ```csharp
 public GaussianBlurSmartFilter()
@@ -17,7 +18,7 @@ public GaussianBlurSmartFilter()
 ### Δείτε επίσης
 
 * class [GaussianBlurSmartFilter](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.SmartFilters](../../gaussianblursmartfilter/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.SmartFilters](../../../aspose.psd.fileformats.psd.layers.smartfilters/)
+* assembly [Aspose.PSD](../../../)
 
 

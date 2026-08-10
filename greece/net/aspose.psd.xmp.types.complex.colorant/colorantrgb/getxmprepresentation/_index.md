@@ -1,27 +1,28 @@
 ---
-title: ColorantRgb.GetXmpRepresentation
-second_title: Aspose.PSD για Αναφορά API .NET
-description: ColorantRgb μέθοδος. Λαμβάνει την τιμή που περιέχεται στη συμβολοσειρά σε μορφή XMP.
+title: "ColorantRgb.GetXmpRepresentation"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Μέθοδος ColorantRgb. Λαμβάνει την τιμή συμβολοσειράς που περιέχεται σε μορφή XMP"
 type: docs
 weight: 50
 url: /el/net/aspose.psd.xmp.types.complex.colorant/colorantrgb/getxmprepresentation/
 ---
+{{< psd/tize >}}
 ## ColorantRgb.GetXmpRepresentation method
 
-Λαμβάνει την τιμή που περιέχεται στη συμβολοσειρά σε μορφή XMP.
+Λαμβάνει τη συμβολοσειρά που περιέχει την τιμή σε μορφή XMP.
 
 ```csharp
 public override string GetXmpRepresentation()
 ```
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-Επιστρέφει την τιμή που περιέχεται στη συμβολοσειρά σε μορφή XMP.
+Επιστρέφει την τιμή της συμβολοσειράς σε μορφή XMP.
 
 ### Δείτε επίσης
 
 * class [ColorantRgb](../)
-* χώρος ονομάτων [Aspose.PSD.Xmp.Types.Complex.Colorant](../../colorantrgb/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.Colorant](../../../aspose.psd.xmp.types.complex.colorant/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: JpegExifData.Orientation
-second_title: Aspose.PSD για Αναφορά API .NET
-description: JpegExifData ιδιοκτησία. Λαμβάνει ή ορίζει τον προσανατολισμό.
+title: "JpegExifData.Orientation"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα JpegExifData. Λαμβάνει ή ορίζει τον προσανατολισμό."
 type: docs
 weight: 120
 url: /el/net/aspose.psd.exif/jpegexifdata/orientation/
 ---
+{{< psd/tize >}}
 ## JpegExifData.Orientation property
 
 Λαμβάνει ή ορίζει τον προσανατολισμό.
@@ -14,7 +15,7 @@ url: /el/net/aspose.psd.exif/jpegexifdata/orientation/
 public ExifOrientation Orientation { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
 Ο προσανατολισμός.
 
@@ -22,7 +23,7 @@ public ExifOrientation Orientation { get; set; }
 
 * enum [ExifOrientation](../../../aspose.psd.exif.enums/exiforientation/)
 * class [JpegExifData](../)
-* χώρος ονομάτων [Aspose.PSD.Exif](../../jpegexifdata/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

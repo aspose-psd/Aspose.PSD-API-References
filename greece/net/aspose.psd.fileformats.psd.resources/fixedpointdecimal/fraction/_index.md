@@ -1,27 +1,28 @@
 ---
-title: FixedPointDecimal.Fraction
-second_title: Aspose.PSD για Αναφορά API .NET
-description: FixedPointDecimal ιδιοκτησία. Παίρνει ή ορίζει το κλάσμα.
+title: "FixedPointDecimal.Fraction"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "FixedPointDecimal ιδιότητα. Λαμβάνει ή ορίζει το κλάσμα"
 type: docs
 weight: 20
 url: /el/net/aspose.psd.fileformats.psd.resources/fixedpointdecimal/fraction/
 ---
+{{< psd/tize >}}
 ## FixedPointDecimal.Fraction property
 
-Παίρνει ή ορίζει το κλάσμα.
+Λαμβάνει ή ορίζει το κλάσμα.
 
 ```csharp
 public int Fraction { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
 Το κλάσμα.
 
 ### Δείτε επίσης
 
 * class [FixedPointDecimal](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Resources](../../fixedpointdecimal/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,28 +1,29 @@
 ---
-title: ExifData.FocalPlaneXResolution
-second_title: Aspose.PSD για Αναφορά API .NET
-description: ExifData ιδιοκτησία. Λαμβάνει ή ορίζει το εστιακό επίπεδο x ανάλυση.
+title: "ExifData.FocalPlaneXResolution"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα ExifData. Λαμβάνει ή ορίζει την ανάλυση x του εστιακού επιπέδου"
 type: docs
 weight: 320
 url: /el/net/aspose.psd.exif/exifdata/focalplanexresolution/
 ---
+{{< psd/tize >}}
 ## ExifData.FocalPlaneXResolution property
 
-Λαμβάνει ή ορίζει το εστιακό επίπεδο x ανάλυση.
+Λαμβάνει ή ορίζει την ανάλυση x του εστιακού επιπέδου.
 
 ```csharp
 public TiffRational FocalPlaneXResolution { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Το εστιακό επίπεδο x ανάλυση.
+Η ανάλυση x του εστιακού επιπέδου.
 
 ### Δείτε επίσης
 
 * class [TiffRational](../../../aspose.psd.fileformats.tiff/tiffrational/)
 * class [ExifData](../)
-* χώρος ονομάτων [Aspose.PSD.Exif](../../exifdata/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

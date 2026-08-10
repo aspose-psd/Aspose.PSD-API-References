@@ -1,28 +1,29 @@
 ---
-title: CustomLineCap.StrokePath
-second_title: Aspose.PSD για Αναφορά API .NET
-description: CustomLineCap ιδιοκτησία. Λαμβάνει ή ορίζει το αντικείμενο που ορίζει το περίγραμμα του προσαρμοσμένου κεφαλιού.
+title: "CustomLineCap.StrokePath"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα CustomLineCap. Λαμβάνει ή ορίζει το αντικείμενο που ορίζει το περίγραμμα του custom cap."
 type: docs
 weight: 60
 url: /el/net/aspose.psd/customlinecap/strokepath/
 ---
+{{< psd/tize >}}
 ## CustomLineCap.StrokePath property
 
-Λαμβάνει ή ορίζει το αντικείμενο που ορίζει το περίγραμμα του προσαρμοσμένου κεφαλιού.
+Ανακτά ή ορίζει το αντικείμενο που ορίζει το περίγραμμα της προσαρμοσμένης άκρης.
 
 ```csharp
 public GraphicsPath StrokePath { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Το αντικείμενο που ορίζει το περίγραμμα του προσαρμοσμένου κεφαλιού.
+Το αντικείμενο που ορίζει το περίγραμμα του custom cap.
 
 ### Δείτε επίσης
 
 * class [GraphicsPath](../../graphicspath/)
 * class [CustomLineCap](../)
-* χώρος ονομάτων [Aspose.PSD](../../customlinecap/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

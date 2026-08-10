@@ -1,27 +1,28 @@
 ---
-title: ColorHalftoneInformationResource.HalftoneData
-second_title: Aspose.PSD για Αναφορά API .NET
-description: ColorHalftoneInformationResource ιδιοκτησία. Λαμβάνει ή ορίζει τα δεδομένα ημίτονο.
+title: "ColorHalftoneInformationResource.HalftoneData"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "ColorHalftoneInformationResource ιδιότητα. Λαμβάνει ή ορίζει τα δεδομένα ημιτονοειδούς"
 type: docs
 weight: 30
 url: /el/net/aspose.psd.fileformats.psd.resources/colorhalftoneinformationresource/halftonedata/
 ---
+{{< psd/tize >}}
 ## ColorHalftoneInformationResource.HalftoneData property
 
-Λαμβάνει ή ορίζει τα δεδομένα ημίτονο.
+Λαμβάνει ή ορίζει τα δεδομένα ημιτονοποίησης.
 
 ```csharp
 public byte[] HalftoneData { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Τα δεδομένα ημίτονο.
+Τα δεδομένα ημιτονοειδούς.
 
 ### Δείτε επίσης
 
 * class [ColorHalftoneInformationResource](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Resources](../../colorhalftoneinformationresource/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

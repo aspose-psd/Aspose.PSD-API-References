@@ -1,27 +1,28 @@
 ---
-title: Color.IsNamedColor
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Color ιδιοκτησία. Λαμβάνει μια τιμή που υποδεικνύει αν αυτόColor δομή είναι ένα ονομασμένο χρώμα ή ένα μέλος τουKnownColor απαρίθμηση.
+title: "Color.IsNamedColor"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα Color. Λαμβάνει μια τιμή που υποδεικνύει εάν αυτή η δομή Color είναι ένα ονομαστικό χρώμα ή μέλος της απαρίθμησης KnownColor."
 type: docs
 weight: 1510
 url: /el/net/aspose.psd/color/isnamedcolor/
 ---
+{{< psd/tize >}}
 ## Color.IsNamedColor property
 
-Λαμβάνει μια τιμή που υποδεικνύει αν αυτό[`Color`](../) δομή είναι ένα ονομασμένο χρώμα ή ένα μέλος του[`KnownColor`](../../knowncolor/) απαρίθμηση.
+Λαμβάνει μια τιμή που υποδεικνύει εάν αυτή η δομή [`Color`](../) είναι ένα ονομαστικό χρώμα ή μέλος της απαρίθμησης [`KnownColor`](../../knowncolor/).
 
 ```csharp
 public bool IsNamedColor { get; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Αλήθεια αν αυτό[`Color`](../) δημιουργήθηκε χρησιμοποιώντας είτε το[`FromName`](../fromname/) μέθοδο ή το[`FromKnownColor`](../fromknowncolor/) μέθοδος; διαφορετικά, ψευδής.
+Αληθές εάν αυτή η [`Color`](../) δημιουργήθηκε χρησιμοποιώντας είτε τη μέθοδο [`FromName`](../fromname/) είτε τη μέθοδο [`FromKnownColor`](../fromknowncolor/); διαφορετικά, ψευδές.
 
 ### Δείτε επίσης
 
 * struct [Color](../)
-* χώρος ονομάτων [Aspose.PSD](../../color/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

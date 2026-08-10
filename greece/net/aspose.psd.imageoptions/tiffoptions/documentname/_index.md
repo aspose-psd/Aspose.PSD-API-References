@@ -1,11 +1,12 @@
 ---
-title: TiffOptions.DocumentName
-second_title: Aspose.PSD για Αναφορά API .NET
-description: TiffOptions ιδιοκτησία. Λαμβάνει ή ορίζει το όνομα του εγγράφου.
+title: "TiffOptions.DocumentName"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα TiffOptions. Λαμβάνει ή ορίζει το όνομα του εγγράφου."
 type: docs
-weight: 120
+weight: 130
 url: /el/net/aspose.psd.imageoptions/tiffoptions/documentname/
 ---
+{{< psd/tize >}}
 ## TiffOptions.DocumentName property
 
 Λαμβάνει ή ορίζει το όνομα του εγγράφου.
@@ -14,14 +15,14 @@ url: /el/net/aspose.psd.imageoptions/tiffoptions/documentname/
 public string DocumentName { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
 Το όνομα του εγγράφου.
 
 ### Δείτε επίσης
 
 * class [TiffOptions](../)
-* χώρος ονομάτων [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

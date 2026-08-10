@@ -1,36 +1,15 @@
 ---
-title: RasterCachedImage.AdjustGamma
-second_title: Aspose.PSD για Αναφορά API .NET
-description: RasterCachedImage μέθοδος. Διόρθωση γάμμα εικόνας.
+title: "RasterCachedImage.AdjustGamma"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Μέθοδος RasterCachedImage. Διόρθωση γάμμα μιας εικόνας"
 type: docs
 weight: 40
 url: /el/net/aspose.psd/rastercachedimage/adjustgamma/
 ---
-## AdjustGamma(float, float, float) {#adjustgamma_1}
-
-Διόρθωση γάμμα εικόνας.
-
-```csharp
-public override void AdjustGamma(float gammaRed, float gammaGreen, float gammaBlue)
-```
-
-| Παράμετρος | Τύπος | Περιγραφή |
-| --- | --- | --- |
-| gammaRed | Single | Συντελεστής γάμα για κόκκινο κανάλι |
-| gammaGreen | Single | Γάμμα για συντελεστή πράσινου καναλιού |
-| gammaBlue | Single | Συντελεστής γάμμα για μπλε κανάλι |
-
-### Δείτε επίσης
-
-* class [RasterCachedImage](../)
-* χώρος ονομάτων [Aspose.PSD](../../rastercachedimage/)
-* συνέλευση [Aspose.PSD](../../../)
-
----
-
+{{< psd/tize >}}
 ## AdjustGamma(float) {#adjustgamma}
 
-Διόρθωση γάμμα εικόνας.
+Διόρθωση γάμμα μιας εικόνας.
 
 ```csharp
 public override void AdjustGamma(float gamma)
@@ -38,12 +17,34 @@ public override void AdjustGamma(float gamma)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| gamma | Single | Συντελεστής γάμα για κόκκινα, πράσινα και μπλε κανάλια |
+| γάμμα | Single | Συντελεστής γάμμα για τα κανάλια κόκκινο, πράσινο και μπλε |
 
 ### Δείτε επίσης
 
 * class [RasterCachedImage](../)
-* χώρος ονομάτων [Aspose.PSD](../../rastercachedimage/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
+
+---
+
+## AdjustGamma(float, float, float) {#adjustgamma_1}
+
+Διόρθωση γάμμα μιας εικόνας.
+
+```csharp
+public override void AdjustGamma(float gammaRed, float gammaGreen, float gammaBlue)
+```
+
+| Παράμετρος | Τύπος | Περιγραφή |
+| --- | --- | --- |
+| gammaRed | Single | Συντελεστής γάμμα για το κόκκινο κανάλι |
+| gammaGreen | Single | Συντελεστής γάμμα για το πράσινο κανάλι |
+| gammaBlue | Single | Συντελεστής γάμμα για το μπλε κανάλι |
+
+### Δείτε επίσης
+
+* class [RasterCachedImage](../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

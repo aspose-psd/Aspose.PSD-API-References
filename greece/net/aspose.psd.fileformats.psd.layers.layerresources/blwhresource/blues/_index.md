@@ -1,26 +1,27 @@
 ---
-title: BlwhResource.Blues
-second_title: Aspose.PSD για Αναφορά API .NET
-description: BlwhResource ιδιοκτησία. Λαμβάνει ή ορίζει την τιμή blues.
+title: "BlwhResource.Blues"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα BlwhResource. Λαμβάνει ή ορίζει την τιμή των μπλε"
 type: docs
 weight: 30
 url: /el/net/aspose.psd.fileformats.psd.layers.layerresources/blwhresource/blues/
 ---
+{{< psd/tize >}}
 ## BlwhResource.Blues property
 
-Λαμβάνει ή ορίζει την τιμή blues.
+Λαμβάνει ή ορίζει την τιμή των μπλε.
 
 ```csharp
 public int Blues { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Η τιμή του μπλουζ.
+Η τιμή των μπλε.
 
-### Παραδείγματα
+## Παραδείγματα
 
-Το ακόλουθο παράδειγμα δείχνει πώς επεξεργάζεστε ένα BlwhResource.
+Το παρακάτω παράδειγμα δείχνει πώς επεξεργάζεστε ένα BlwhResource.
 
 ```csharp
 [C#]
@@ -126,7 +127,7 @@ AssertIsTrue(isRequiredResourceFound, "The specified BlwhResource not found");
 ### Δείτε επίσης
 
 * class [BlwhResource](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../blwhresource/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

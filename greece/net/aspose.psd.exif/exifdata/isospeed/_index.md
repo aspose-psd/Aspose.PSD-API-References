@@ -1,27 +1,28 @@
 ---
-title: ExifData.ISOSpeed
-second_title: Aspose.PSD για Αναφορά API .NET
-description: ExifData ιδιοκτησία. Λαμβάνει ή ρυθμίζει το ISO speed
+title: "ExifData.ISOSpeed"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα ExifData. Λαμβάνει ή ορίζει την ταχύτητα ISO"
 type: docs
 weight: 700
 url: /el/net/aspose.psd.exif/exifdata/isospeed/
 ---
+{{< psd/tize >}}
 ## ExifData.ISOSpeed property
 
-Λαμβάνει ή ρυθμίζει το ISO speed
+Λαμβάνει ή ορίζει την ταχύτητα ISO
 
 ```csharp
 public uint ISOSpeed { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
 Η ταχύτητα ISO.
 
 ### Δείτε επίσης
 
 * class [ExifData](../)
-* χώρος ονομάτων [Aspose.PSD.Exif](../../exifdata/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

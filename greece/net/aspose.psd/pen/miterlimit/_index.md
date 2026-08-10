@@ -1,33 +1,34 @@
 ---
-title: Pen.MiterLimit
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Pen ιδιοκτησία. Λαμβάνει ή θέτει το όριο του πάχους της ένωσης σε μια λοξό γωνία.
+title: "Pen.MiterLimit"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα Pen. Λαμβάνει ή ορίζει το όριο του πάχους της ένωσης σε μια γωνία με κοψί"
 type: docs
 weight: 140
 url: /el/net/aspose.psd/pen/miterlimit/
 ---
+{{< psd/tize >}}
 ## Pen.MiterLimit property
 
-Λαμβάνει ή θέτει το όριο του πάχους της ένωσης σε μια λοξό γωνία.
+Λαμβάνει ή ορίζει το όριο του πάχους της σύνδεσης σε γωνία μύτης.
 
 ```csharp
 public float MiterLimit { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Το όριο του πάχους της ένωσης σε λοξό γωνία.
+Το όριο του πάχους της ένωσης σε μια γωνία με κοψί.
 
 ### Εξαιρέσεις
 
-| εξαίρεση | κατάσταση |
+| εξαίρεση | συνθήκη |
 | --- | --- |
-| ArgumentException | ο`MiterLimit` η ιδιοκτησία έχει οριστεί σε αμετάβλητο[`Pen`](../) , όπως αυτά που επιστράφηκαν από το[`Pen`](../) τάξη. |
+| ArgumentException | Η ιδιότητα `MiterLimit` ορίζεται σε ένα αμετάβλητο [`Pen`](../), όπως αυτά που επιστρέφονται από την κλάση [`Pen`](../). |
 
 ### Δείτε επίσης
 
 * class [Pen](../)
-* χώρος ονομάτων [Aspose.PSD](../../pen/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

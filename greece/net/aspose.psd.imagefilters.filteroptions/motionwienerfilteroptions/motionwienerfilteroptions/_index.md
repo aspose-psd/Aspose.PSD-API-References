@@ -1,14 +1,15 @@
 ---
-title: MotionWienerFilterOptions.MotionWienerFilterOptions
-second_title: Aspose.PSD για Αναφορά API .NET
-description: MotionWienerFilterOptions κατασκευαστής. Αρχικοποιεί μια νέα παρουσία τουMotionWienerFilterOptions τάξη.
+title: "MotionWienerFilterOptions.MotionWienerFilterOptions"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Κατασκευαστής MotionWienerFilterOptions. Αρχικοποιεί μια νέα παρουσία της κλάσης MotionWienerFilterOptions"
 type: docs
 weight: 10
 url: /el/net/aspose.psd.imagefilters.filteroptions/motionwienerfilteroptions/motionwienerfilteroptions/
 ---
+{{< psd/tize >}}
 ## MotionWienerFilterOptions constructor
 
-Αρχικοποιεί μια νέα παρουσία του[`MotionWienerFilterOptions`](../) τάξη.
+Αρχικοποιεί μια νέα παρουσία της κλάσης [`MotionWienerFilterOptions`](../).
 
 ```csharp
 public MotionWienerFilterOptions(int length, double smooth, double angle)
@@ -16,14 +17,14 @@ public MotionWienerFilterOptions(int length, double smooth, double angle)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| length | Int32 | Το μήκος. |
-| smooth | Double | Το ομαλό. |
-| angle | Double | Η γωνία σε βαθμιαία. |
+| μήκος | Int32 | Το μήκος. |
+| εξομάλυνση | Double | Η εξομάλυνση. |
+| γωνία | Double | Η γωνία σε βαθμούς. |
 
 ### Δείτε επίσης
 
 * class [MotionWienerFilterOptions](../)
-* χώρος ονομάτων [Aspose.PSD.ImageFilters.FilterOptions](../../motionwienerfilteroptions/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageFilters.FilterOptions](../../../aspose.psd.imagefilters.filteroptions/)
+* assembly [Aspose.PSD](../../../)
 
 

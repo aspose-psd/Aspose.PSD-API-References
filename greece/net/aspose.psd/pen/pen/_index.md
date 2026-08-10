@@ -1,14 +1,15 @@
 ---
-title: Pen.Pen
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Pen κατασκευαστής. Αρχικοποιεί μια νέα παρουσία τουPen τάξη με το καθορισμένο χρώμα.
+title: "Pen.Pen"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Κατασκευαστής Pen. Αρχικοποιεί ένα νέο αντικείμενο της κλάσης Pen με το καθορισμένο χρώμα"
 type: docs
 weight: 10
 url: /el/net/aspose.psd/pen/pen/
 ---
+{{< psd/tize >}}
 ## Pen(Color) {#constructor_2}
 
-Αρχικοποιεί μια νέα παρουσία του[`Pen`](../) τάξη με το καθορισμένο χρώμα.
+Αρχικοποιεί ένα νέο αντικείμενο της κλάσης [`Pen`](../) με το καθορισμένο χρώμα.
 
 ```csharp
 public Pen(Color color)
@@ -16,20 +17,20 @@ public Pen(Color color)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| color | Color | ΕΝΑ[`Color`](../color/) δομή που δείχνει το χρώμα αυτού[`Pen`](../). |
+| color | Color | Μια δομή [`Color`](../color/) που υποδεικνύει το χρώμα αυτού του [`Pen`](../). |
 
 ### Δείτε επίσης
 
 * struct [Color](../../color/)
 * class [Pen](../)
-* χώρος ονομάτων [Aspose.PSD](../../pen/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Pen(Color, float) {#constructor_3}
 
-Αρχικοποιεί μια νέα παρουσία του[`Pen`](../) τάξη με τα καθορισμένα[`Color`](../color/) και[`Width`](../width/) ιδιότητες.
+Αρχικοποιεί ένα νέο αντικείμενο της κλάσης [`Pen`](../) με τις καθορισμένες ιδιότητες [`Color`](../color/) και [`Width`](../width/).
 
 ```csharp
 public Pen(Color color, float width)
@@ -37,21 +38,21 @@ public Pen(Color color, float width)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| color | Color | ΕΝΑ[`Color`](../color/) δομή που δείχνει το χρώμα αυτού[`Pen`](../). |
-| width | Single | Μια τιμή που υποδεικνύει το πλάτος αυτού[`Pen`](../). |
+| color | Color | Μια δομή [`Color`](../color/) που υποδεικνύει το χρώμα αυτού του [`Pen`](../). |
+| width | Single | Μια τιμή που υποδεικνύει το πλάτος αυτού του [`Pen`](../). |
 
 ### Δείτε επίσης
 
 * struct [Color](../../color/)
 * class [Pen](../)
-* χώρος ονομάτων [Aspose.PSD](../../pen/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Pen(Brush) {#constructor}
 
-Αρχικοποιεί μια νέα παρουσία του[`Pen`](../) τάξη με τα καθορισμένα[`Brush`](../brush/) .
+Αρχικοποιεί ένα νέο αντικείμενο της κλάσης [`Pen`](../) με το καθορισμένο [`Brush`](../brush/).
 
 ```csharp
 public Pen(Brush brush)
@@ -59,26 +60,26 @@ public Pen(Brush brush)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| brush | Brush | ΕΝΑ[`Brush`](../brush/) που καθορίζει τις ιδιότητες πλήρωσης αυτού[`Pen`](../). |
+| brush | Brush | Ένα [`Brush`](../brush/) που καθορίζει τις ιδιότητες γεμίσματος αυτού του [`Pen`](../). |
 
 ### Εξαιρέσεις
 
-| εξαίρεση | κατάσταση |
+| εξαίρεση | συνθήκη |
 | --- | --- |
-| ArgumentNullException | *brush* είναι μηδενικό. |
+| ArgumentNullException | *brush* είναι null. |
 
 ### Δείτε επίσης
 
 * class [Brush](../../brush/)
 * class [Pen](../)
-* χώρος ονομάτων [Aspose.PSD](../../pen/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Pen(Brush, float) {#constructor_1}
 
-Αρχικοποιεί μια νέα παρουσία του[`Pen`](../) τάξη με τα καθορισμένα[`Brush`](../brush/) και[`Width`](../width/) .
+Αρχικοποιεί ένα νέο αντικείμενο της κλάσης [`Pen`](../) με το καθορισμένο [`Brush`](../brush/) και [`Width`](../width/).
 
 ```csharp
 public Pen(Brush brush, float width)
@@ -86,20 +87,20 @@ public Pen(Brush brush, float width)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| brush | Brush | ΕΝΑ[`Brush`](../brush/) που καθορίζει τα χαρακτηριστικά αυτού[`Pen`](../). |
-| width | Single | Το πλάτος του νέου[`Pen`](../). |
+| brush | Brush | Ένα [`Brush`](../brush/) που καθορίζει τα χαρακτηριστικά αυτού του [`Pen`](../). |
+| width | Single | Το πλάτος του νέου [`Pen`](../). |
 
 ### Εξαιρέσεις
 
-| εξαίρεση | κατάσταση |
+| εξαίρεση | συνθήκη |
 | --- | --- |
-| ArgumentNullException | *brush* είναι μηδενικό. |
+| ArgumentNullException | *brush* είναι null. |
 
 ### Δείτε επίσης
 
 * class [Brush](../../brush/)
 * class [Pen](../)
-* χώρος ονομάτων [Aspose.PSD](../../pen/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

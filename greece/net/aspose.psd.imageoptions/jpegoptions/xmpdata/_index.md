@@ -1,28 +1,29 @@
 ---
-title: JpegOptions.XmpData
-second_title: Aspose.PSD για Αναφορά API .NET
-description: JpegOptions ιδιοκτησία. Λαμβάνει ή ορίζει το κοντέινερ μεταδεδομένων XMP.
+title: "JpegOptions.XmpData"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα JpegOptions. Λαμβάνει ή ορίζει το δοχείο μεταδεδομένων XMP"
 type: docs
-weight: 210
+weight: 220
 url: /el/net/aspose.psd.imageoptions/jpegoptions/xmpdata/
 ---
+{{< psd/tize >}}
 ## JpegOptions.XmpData property
 
-Λαμβάνει ή ορίζει το κοντέινερ μεταδεδομένων XMP.
+Λαμβάνει ή ορίζει το δοχείο μεταδεδομένων XMP.
 
 ```csharp
 public override XmpPacketWrapper XmpData { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Το κοντέινερ δεδομένων XMP.
+Το δοχείο δεδομένων XMP.
 
 ### Δείτε επίσης
 
 * class [XmpPacketWrapper](../../../aspose.psd.xmp/xmppacketwrapper/)
 * class [JpegOptions](../)
-* χώρος ονομάτων [Aspose.PSD.ImageOptions](../../jpegoptions/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

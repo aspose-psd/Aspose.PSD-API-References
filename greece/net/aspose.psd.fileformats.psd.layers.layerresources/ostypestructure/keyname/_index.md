@@ -1,11 +1,12 @@
 ---
-title: OSTypeStructure.KeyName
-second_title: Aspose.PSD για Αναφορά API .NET
-description: OSTypeStructure ιδιοκτησία. Λαμβάνει ή ορίζει το όνομα του κλειδιού.
+title: "OSTypeStructure.KeyName"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα OSTypeStructure. Λαμβάνει ή ορίζει το όνομα κλειδιού"
 type: docs
 weight: 30
 url: /el/net/aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/keyname/
 ---
+{{< psd/tize >}}
 ## OSTypeStructure.KeyName property
 
 Λαμβάνει ή ορίζει το όνομα του κλειδιού.
@@ -14,7 +15,7 @@ url: /el/net/aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/ke
 public ClassID KeyName { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
 Το όνομα κλειδιού.
 
@@ -22,7 +23,7 @@ public ClassID KeyName { get; set; }
 
 * class [ClassID](../../classid/)
 * class [OSTypeStructure](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../ostypestructure/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: PhotoshopPackage.SetTransmissionReference
-second_title: Aspose.PSD για Αναφορά API .NET
-description: PhotoshopPackage μέθοδος. Ορίζει την αναφορά μετάδοσης.
+title: "PhotoshopPackage.SetTransmissionReference"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "PhotoshopPackage μέθοδος. Ορίζει την αναφορά μετάδοσης"
 type: docs
 weight: 190
 url: /el/net/aspose.psd.xmp.schemas.photoshop/photoshoppackage/settransmissionreference/
 ---
+{{< psd/tize >}}
 ## PhotoshopPackage.SetTransmissionReference method
 
 Ορίζει την αναφορά μετάδοσης.
@@ -21,7 +22,7 @@ public void SetTransmissionReference(string transmissionReference)
 ### Δείτε επίσης
 
 * class [PhotoshopPackage](../)
-* χώρος ονομάτων [Aspose.PSD.Xmp.Schemas.Photoshop](../../photoshoppackage/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.Photoshop](../../../aspose.psd.xmp.schemas.photoshop/)
+* assembly [Aspose.PSD](../../../)
 
 

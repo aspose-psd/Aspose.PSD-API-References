@@ -1,14 +1,15 @@
 ---
-title: InfxResource.InfxResource
-second_title: Aspose.PSD για Αναφορά API .NET
-description: InfxResource κατασκευαστής. Αρχικοποιεί μια νέα παρουσία τουInfxResource τάξη.
+title: "InfxResource.InfxResource"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Κατασκευαστής InfxResource. Αρχικοποιεί μια νέα παρουσία της κλάσης InfxResource"
 type: docs
 weight: 10
 url: /el/net/aspose.psd.fileformats.psd.layers.layerresources/infxresource/infxresource/
 ---
+{{< psd/tize >}}
 ## InfxResource(bool) {#constructor_1}
 
-Αρχικοποιεί μια νέα παρουσία του[`InfxResource`](../) τάξη.
+Αρχικοποιεί μια νέα παρουσία της κλάσης [`InfxResource`](../).
 
 ```csharp
 public InfxResource(bool blendInteriorElements)
@@ -16,19 +17,19 @@ public InfxResource(bool blendInteriorElements)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| blendInteriorElements | Boolean | εάν έχει οριστεί σε`αληθής` [αναμείξτε εσωτερικά στοιχεία]. |
+| blendInteriorElements | Boolean | αν οριστεί σε `true` [συνδυασμός εσωτερικών στοιχείων]. |
 
 ### Δείτε επίσης
 
 * class [InfxResource](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../infxresource/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## InfxResource() {#constructor}
 
-Αρχικοποιεί μια νέα παρουσία του[`InfxResource`](../) τάξη.
+Αρχικοποιεί μια νέα παρουσία της κλάσης [`InfxResource`](../).
 
 ```csharp
 public InfxResource()
@@ -37,14 +38,14 @@ public InfxResource()
 ### Δείτε επίσης
 
 * class [InfxResource](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../infxresource/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## InfxResource(byte[]) {#constructor_2}
 
-Αρχικοποιεί μια νέα παρουσία του[`InfxResource`](../) class. Με προσαρμοσμένη ή άγνωστη τιμή
+Αρχικοποιεί μια νέα παρουσία της κλάσης [`InfxResource`](../). Με προσαρμοσμένη ή άγνωστη τιμή
 
 ```csharp
 public InfxResource(byte[] data)
@@ -52,18 +53,18 @@ public InfxResource(byte[] data)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| data | Byte[] | Τα δεδομένα των πόρων. |
+| δεδομένα | Byte[] | Τα δεδομένα πόρου. |
 
 ### Εξαιρέσεις
 
-| εξαίρεση | κατάσταση |
+| εξαίρεση | συνθήκη |
 | --- | --- |
 | ArgumentException | Μη έγκυρη τιμή πόρου infx |
 
 ### Δείτε επίσης
 
 * class [InfxResource](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../infxresource/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

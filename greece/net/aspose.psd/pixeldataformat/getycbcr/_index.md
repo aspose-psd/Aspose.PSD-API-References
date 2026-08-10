@@ -1,11 +1,12 @@
 ---
-title: PixelDataFormat.GetYCbCr
-second_title: Aspose.PSD για Αναφορά API .NET
-description: PixelDataFormat μέθοδος. Λαμβάνει χρώμα YCbCr με καθορισμένο αριθμό bit ανά δείγμα.
+title: "PixelDataFormat.GetYCbCr"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Μέθοδος PixelDataFormat. Παίρνει χρώμα YCbCr με καθορισμένο αριθμό bits ανά δείγμα."
 type: docs
 weight: 280
 url: /el/net/aspose.psd/pixeldataformat/getycbcr/
 ---
+{{< psd/tize >}}
 ## GetYCbCr(int) {#getycbcr}
 
 Λαμβάνει χρώμα YCbCr με καθορισμένο αριθμό bit ανά δείγμα.
@@ -18,15 +19,15 @@ public static PixelDataFormat GetYCbCr(int bitsPerSample)
 | --- | --- | --- |
 | bitsPerSample | Int32 | Ο αριθμός των bit ανά δείγμα. |
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
 Το χρώμα YCbCr.
 
 ### Δείτε επίσης
 
 * class [PixelDataFormat](../)
-* χώρος ονομάτων [Aspose.PSD](../../pixeldataformat/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
@@ -40,18 +41,18 @@ public static PixelDataFormat GetYCbCr(int bitsPerY, int bitsPerCb, int bitsPerC
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| bitsPerY | Int32 | Ο αριθμός των bit ανά κανάλι Y. |
-| bitsPerCb | Int32 | Ο αριθμός των bit ανά κανάλι Cb. |
-| bitsPerCr | Int32 | Ο αριθμός των bit ανά κανάλι Cr. |
+| bitsPerY | Int32 | Ο αριθμός των bits ανά κανάλι Y. |
+| bitsPerCb | Int32 | Ο αριθμός των bits ανά κανάλι Cb. |
+| bitsPerCr | Int32 | Ο αριθμός των bits ανά κανάλι Cr. |
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
 Το χρώμα YCbCr.
 
 ### Δείτε επίσης
 
 * class [PixelDataFormat](../)
-* χώρος ονομάτων [Aspose.PSD](../../pixeldataformat/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

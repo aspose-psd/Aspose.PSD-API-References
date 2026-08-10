@@ -1,27 +1,28 @@
 ---
-title: ColorantBase.SwatchName
-second_title: Aspose.PSD για Αναφορά API .NET
-description: ColorantBase ιδιοκτησία. Παίρνει ή ορίζει το όνομα του δείγματος.
+title: "ColorantBase.SwatchName"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα ColorantBase. Λαμβάνει ή ορίζει το όνομα του δείγματος"
 type: docs
 weight: 30
 url: /el/net/aspose.psd.xmp.types.complex.colorant/colorantbase/swatchname/
 ---
+{{< psd/tize >}}
 ## ColorantBase.SwatchName property
 
-Παίρνει ή ορίζει το όνομα του δείγματος.
+Λαμβάνει ή ορίζει το όνομα του δείγματος.
 
 ```csharp
 public string SwatchName { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
 Το όνομα του δείγματος.
 
 ### Δείτε επίσης
 
 * class [ColorantBase](../)
-* χώρος ονομάτων [Aspose.PSD.Xmp.Types.Complex.Colorant](../../colorantbase/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.Colorant](../../../aspose.psd.xmp.types.complex.colorant/)
+* assembly [Aspose.PSD](../../../)
 
 

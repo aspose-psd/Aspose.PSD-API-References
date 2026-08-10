@@ -1,27 +1,28 @@
 ---
-title: ExifData.BodySerialNumber
-second_title: Aspose.PSD για Αναφορά API .NET
-description: ExifData ιδιοκτησία. Λαμβάνει ή ορίζει σειριακό αριθμό σώματος κάμερας.
+title: "ExifData.BodySerialNumber"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα ExifData. Λαμβάνει ή ορίζει τον σειριακό αριθμό του σώματος της κάμερας"
 type: docs
 weight: 30
 url: /el/net/aspose.psd.exif/exifdata/bodyserialnumber/
 ---
+{{< psd/tize >}}
 ## ExifData.BodySerialNumber property
 
-Λαμβάνει ή ορίζει σειριακό αριθμό σώματος κάμερας.
+Λαμβάνει ή ορίζει τον σειριακό αριθμό του σώματος της κάμερας.
 
 ```csharp
 public string BodySerialNumber { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
 Ο σειριακός αριθμός του σώματος.
 
 ### Δείτε επίσης
 
 * class [ExifData](../)
-* χώρος ονομάτων [Aspose.PSD.Exif](../../exifdata/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

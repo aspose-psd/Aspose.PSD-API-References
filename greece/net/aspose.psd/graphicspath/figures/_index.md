@@ -1,28 +1,29 @@
 ---
-title: GraphicsPath.Figures
-second_title: Aspose.PSD για Αναφορά API .NET
-description: GraphicsPath ιδιοκτησία. Λαμβάνει τα στοιχεία της διαδρομής.
+title: "GraphicsPath.Figures"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα GraphicsPath. Λαμβάνει τα σχήματα της διαδρομής."
 type: docs
 weight: 30
 url: /el/net/aspose.psd/graphicspath/figures/
 ---
+{{< psd/tize >}}
 ## GraphicsPath.Figures property
 
-Λαμβάνει τα στοιχεία της διαδρομής.
+Λαμβάνει τα σχήματα διαδρομής.
 
 ```csharp
 public Figure[] Figures { get; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Το μονοπάτι φιγουράρει.
+Τα σχήματα της διαδρομής.
 
 ### Δείτε επίσης
 
 * class [Figure](../../figure/)
 * class [GraphicsPath](../)
-* χώρος ονομάτων [Aspose.PSD](../../graphicspath/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: TypeToolInfo6Resource.Left
-second_title: Aspose.PSD για Αναφορά API .NET
-description: TypeToolInfo6Resource ιδιοκτησία. Λαμβάνει ή ορίζει την αριστερή τοποθεσία.
+title: "TypeToolInfo6Resource.Left"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "TypeToolInfo6Resource ιδιότητα. Λαμβάνει ή ορίζει τη θέση αριστερά"
 type: docs
-weight: 80
+weight: 70
 url: /el/net/aspose.psd.fileformats.psd.layers.layerresources/typetoolinfo6resource/left/
 ---
+{{< psd/tize >}}
 ## TypeToolInfo6Resource.Left property
 
-Λαμβάνει ή ορίζει την αριστερή τοποθεσία.
+Λαμβάνει ή ορίζει τη θέση αριστερά.
 
 ```csharp
 public int Left { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Η αριστερή τοποθεσία.
+Η θέση αριστερά.
 
 ### Δείτε επίσης
 
 * class [TypeToolInfo6Resource](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../typetoolinfo6resource/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

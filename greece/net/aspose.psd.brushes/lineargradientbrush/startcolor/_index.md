@@ -1,28 +1,29 @@
 ---
-title: LinearGradientBrush.StartColor
-second_title: Aspose.PSD για Αναφορά API .NET
-description: LinearGradientBrush ιδιοκτησία. Λαμβάνει ή ορίζει το αρχικό χρώμα ντεγκραντέ.
+title: "LinearGradientBrush.StartColor"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "LinearGradientBrush property. Λαμβάνει ή ορίζει το αρχικό χρώμα του gradient"
 type: docs
-weight: 40
+weight: 60
 url: /el/net/aspose.psd.brushes/lineargradientbrush/startcolor/
 ---
+{{< psd/tize >}}
 ## LinearGradientBrush.StartColor property
 
-Λαμβάνει ή ορίζει το αρχικό χρώμα ντεγκραντέ.
+Λαμβάνει ή ορίζει το αρχικό χρώμα της κλίσης.
 
 ```csharp
 public Color StartColor { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Το αρχικό ντεγκραντέ χρώμα.
+Το αρχικό χρώμα του gradient.
 
 ### Δείτε επίσης
 
 * struct [Color](../../../aspose.psd/color/)
 * class [LinearGradientBrush](../)
-* χώρος ονομάτων [Aspose.PSD.Brushes](../../lineargradientbrush/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: CmykColor.Empty
-second_title: Aspose.PSD για Αναφορά API .NET
-description: CmykColor ιδιοκτησία. Παίρνει το κενό.
+title: "CmykColor.Empty"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα CmykColor. Λαμβάνει το κενό"
 type: docs
 weight: 10
 url: /el/net/aspose.psd/cmykcolor/empty/
 ---
+{{< psd/tize >}}
 ## CmykColor.Empty property
 
-Παίρνει το κενό.
+Λαμβάνει το κενό.
 
 ```csharp
 public static CmykColor Empty { get; }
@@ -17,7 +18,7 @@ public static CmykColor Empty { get; }
 ### Δείτε επίσης
 
 * struct [CmykColor](../)
-* χώρος ονομάτων [Aspose.PSD](../../cmykcolor/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

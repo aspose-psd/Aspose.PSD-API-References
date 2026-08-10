@@ -1,14 +1,15 @@
 ---
-title: Class UnitArrayStructure
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures.UnitArrayStructure τάξη. Καθορίζει την κλάση UnitArrayStructure που ισχύειDouble πίνακας τιμών και η μονάδα μέτρησής τους. Χρησιμοποιείται στους πόρους αρχείων PSD συνήθως απόObjectArrayStructure .
+title: "Κλάση UnitArrayStructure"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures.UnitArrayStructure class. Ορίζει την κλάση UnitArrayStructure που περιέχει έναν πίνακα τιμών Double και τη μονάδα μέτρησής τους. Χρησιμοποιείται στους πόρους αρχείων PSD συνήθως από την ObjectArrayStructure."
 type: docs
-weight: 3270
+weight: 3660
 url: /el/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/unitarraystructure/
 ---
+{{< psd/tize >}}
 ## UnitArrayStructure class
 
-Καθορίζει την κλάση UnitArrayStructure που ισχύειDouble πίνακας τιμών και η μονάδα μέτρησής τους. Χρησιμοποιείται στους πόρους αρχείων PSD, συνήθως από[`ObjectArrayStructure`](../objectarraystructure/) .
+Ορίζει την κλάση UnitArrayStructure που περιέχει έναν πίνακα τιμών Double και τη μονάδα μέτρησής τους. Χρησιμοποιείται στους πόρους αρχείων PSD, συνήθως από το [`ObjectArrayStructure`](../objectarraystructure/).
 
 ```csharp
 public sealed class UnitArrayStructure : OSTypeStructure
@@ -16,24 +17,24 @@ public sealed class UnitArrayStructure : OSTypeStructure
 
 ## Κατασκευαστές
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
-| [UnitArrayStructure](unitarraystructure/)(ClassID, UnitTypes, double[]) | Αρχικοποιεί μια νέα παρουσία του`UnitArrayStructure` τάξη. |
+| [UnitArrayStructure](unitarraystructure/)(ClassID, UnitTypes, double[]) | Αρχικοποιεί μια νέα παρουσία της κλάσης `UnitArrayStructure`. |
 
 ## Ιδιότητες
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
-| override [Key](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/unitarraystructure/key/) { get; } | Λαμβάνει αυτό το κλειδί δομής πίνακα μονάδων. |
+| override [Key](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/unitarraystructure/key/) { get; } | Λαμβάνει αυτό το κλειδί δομής πίνακα μονάδας. |
 | [KeyName](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/keyname/) { get; set; } | Λαμβάνει ή ορίζει το όνομα του κλειδιού. |
-| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/unitarraystructure/length/) { get; } | Λαμβάνει το[`OSTypeStructure`](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/) μήκος σε byte. |
-| [UnitType](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/unitarraystructure/unittype/) { get; set; } | Λαμβάνει ή ορίζει τον τύπο μονάδας μέτρησης του`UnitArrayStructure` τιμές. |
-| [ValueCount](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/unitarraystructure/valuecount/) { get; } | Λαμβάνει τον αριθμό τιμών. |
-| [Values](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/unitarraystructure/values/) { get; set; } | Λαμβάνει ή ορίζει τις τιμές δομής του πίνακα μονάδων. |
+| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/unitarraystructure/length/) { get; } | Λαμβάνει το μήκος του [`OSTypeStructure`](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/) σε bytes. |
+| [UnitType](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/unitarraystructure/unittype/) { get; set; } | Λαμβάνει ή ορίζει τον τύπο μονάδας μέτρησης των τιμών του `UnitArrayStructure`. |
+| [ValueCount](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/unitarraystructure/valuecount/) { get; } | Λαμβάνει τον αριθμό των τιμών. |
+| [Values](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/unitarraystructure/values/) { get; set; } | Λαμβάνει ή ορίζει τις τιμές δομής πίνακα μονάδας. |
 
 ## Μέθοδοι
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
 | virtual [GetHeaderLength](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/getheaderlength/)() | Λαμβάνει το μήκος της κεφαλίδας. |
 | [Save](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/save/)(StreamContainer) | Αποθηκεύει τη δομή στο καθορισμένο κοντέινερ ροής. |
@@ -41,11 +42,11 @@ public sealed class UnitArrayStructure : OSTypeStructure
 
 ## Πεδία
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
-| const [StructureKey](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/unitarraystructure/structurekey/) | Ορίζει το "UnFl"`UnitArrayStructure` κλειδί. |
+| const [StructureKey](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/unitarraystructure/structurekey/) | Ορίζει το κλειδί 'UnFl' του `UnitArrayStructure`. |
 
-### Παραδείγματα
+## Παραδείγματα
 
 Ο παρακάτω κώδικας δείχνει την υποστήριξη των υπογραφών ObAr και UnFl.
 
@@ -102,7 +103,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
 ### Δείτε επίσης
 
 * class [OSTypeStructure](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
-* συνέλευση [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../)
 
 

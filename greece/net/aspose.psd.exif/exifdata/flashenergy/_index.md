@@ -1,20 +1,21 @@
 ---
-title: ExifData.FlashEnergy
-second_title: Aspose.PSD για Αναφορά API .NET
-description: ExifData ιδιοκτησία. Λαμβάνει ή ρυθμίζει την ενέργεια φλας.
+title: "ExifData.FlashEnergy"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα ExifData. Λαμβάνει ή ορίζει την ενέργεια του φλας"
 type: docs
 weight: 260
 url: /el/net/aspose.psd.exif/exifdata/flashenergy/
 ---
+{{< psd/tize >}}
 ## ExifData.FlashEnergy property
 
-Λαμβάνει ή ρυθμίζει την ενέργεια φλας.
+Λαμβάνει ή ορίζει την ενέργεια φλας.
 
 ```csharp
 public TiffRational FlashEnergy { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
 Η ενέργεια του φλας.
 
@@ -22,7 +23,7 @@ public TiffRational FlashEnergy { get; set; }
 
 * class [TiffRational](../../../aspose.psd.fileformats.tiff/tiffrational/)
 * class [ExifData](../)
-* χώρος ονομάτων [Aspose.PSD.Exif](../../exifdata/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

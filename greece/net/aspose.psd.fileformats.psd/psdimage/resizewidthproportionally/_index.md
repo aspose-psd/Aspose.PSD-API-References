@@ -1,14 +1,15 @@
 ---
-title: PsdImage.ResizeWidthProportionally
-second_title: Aspose.PSD για Αναφορά API .NET
-description: PsdImage μέθοδος. Αλλάζει το μέγεθος του πλάτους αναλογικά.
+title: "PsdImage.ResizeWidthProportionally"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Μέθοδος PsdImage. Αλλάζει το πλάτος αναλογικά"
 type: docs
-weight: 600
+weight: 660
 url: /el/net/aspose.psd.fileformats.psd/psdimage/resizewidthproportionally/
 ---
+{{< psd/tize >}}
 ## ResizeWidthProportionally(int, ImageResizeSettings) {#resizewidthproportionally_1}
 
-Αλλάζει το μέγεθος του πλάτους αναλογικά.
+Αλλάζει το πλάτος αναλογικά.
 
 ```csharp
 public override void ResizeWidthProportionally(int newWidth, ImageResizeSettings settings)
@@ -17,20 +18,20 @@ public override void ResizeWidthProportionally(int newWidth, ImageResizeSettings
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
 | newWidth | Int32 | Το νέο πλάτος. |
-| settings | ImageResizeSettings | Ρυθμίσεις αλλαγής μεγέθους εικόνας. |
+| ρυθμίσεις | ImageResizeSettings | Οι ρυθμίσεις αλλαγής μεγέθους εικόνας. |
 
 ### Δείτε επίσης
 
 * class [ImageResizeSettings](../../../aspose.psd/imageresizesettings/)
 * class [PsdImage](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## ResizeWidthProportionally(int, ResizeType) {#resizewidthproportionally_2}
 
-Αλλάζει το μέγεθος του πλάτους αναλογικά.
+Αλλάζει το πλάτος αναλογικά.
 
 ```csharp
 public override void ResizeWidthProportionally(int newWidth, ResizeType resizeType)
@@ -39,13 +40,13 @@ public override void ResizeWidthProportionally(int newWidth, ResizeType resizeTy
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
 | newWidth | Int32 | Το νέο πλάτος. |
-| resizeType | ResizeType | Τύπος αλλαγής μεγέθους. |
+| resizeType | ResizeType | Τύπος της αλλαγής μεγέθους. |
 
 ### Δείτε επίσης
 
 * enum [ResizeType](../../../aspose.psd/resizetype/)
 * class [PsdImage](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

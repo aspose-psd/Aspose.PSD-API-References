@@ -1,14 +1,15 @@
 ---
-title: JpegLoadException.JpegLoadException
-second_title: Aspose.PSD για Αναφορά API .NET
-description: JpegLoadException κατασκευαστής. Αρχικοποιεί μια νέα παρουσία τουJpegLoadException τάξη.
+title: "JpegLoadException.JpegLoadException"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "JpegLoadException κατασκευαστής. Αρχικοποιεί ένα νέο στιγμιότυπο της κλάσης JpegLoadException."
 type: docs
 weight: 10
 url: /el/net/aspose.psd.coreexceptions.imageformats/jpegloadexception/jpegloadexception/
 ---
+{{< psd/tize >}}
 ## JpegLoadException(string) {#constructor}
 
-Αρχικοποιεί μια νέα παρουσία του[`JpegLoadException`](../) τάξη.
+Αρχικοποιεί ένα νέο στιγμιότυπο της κλάσης [`JpegLoadException`](../).
 
 ```csharp
 public JpegLoadException(string message)
@@ -16,19 +17,19 @@ public JpegLoadException(string message)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| message | String | Το μήνυμα εξαίρεσης. |
+| message | String | Το μήνυμα της εξαίρεσης. |
 
 ### Δείτε επίσης
 
 * class [JpegLoadException](../)
-* χώρος ονομάτων [Aspose.PSD.CoreExceptions.ImageFormats](../../jpegloadexception/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.CoreExceptions.ImageFormats](../../../aspose.psd.coreexceptions.imageformats/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## JpegLoadException(string, Exception) {#constructor_2}
 
-Αρχικοποιεί μια νέα παρουσία του[`JpegLoadException`](../) τάξη.
+Αρχικοποιεί ένα νέο στιγμιότυπο της κλάσης [`JpegLoadException`](../).
 
 ```csharp
 public JpegLoadException(string message, Exception innerException)
@@ -42,14 +43,14 @@ public JpegLoadException(string message, Exception innerException)
 ### Δείτε επίσης
 
 * class [JpegLoadException](../)
-* χώρος ονομάτων [Aspose.PSD.CoreExceptions.ImageFormats](../../jpegloadexception/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.CoreExceptions.ImageFormats](../../../aspose.psd.coreexceptions.imageformats/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## JpegLoadException(string, ErrorReason) {#constructor_1}
 
-Αρχικοποιεί μια νέα παρουσία του[`JpegLoadException`](../) τάξη.
+Αρχικοποιεί ένα νέο στιγμιότυπο της κλάσης [`JpegLoadException`](../).
 
 ```csharp
 public JpegLoadException(string message, ErrorReason reason)
@@ -57,21 +58,21 @@ public JpegLoadException(string message, ErrorReason reason)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| message | String | Το μήνυμα εξαίρεσης. |
-| reason | ErrorReason | Ο λόγος του λάθους. |
+| message | String | Το μήνυμα της εξαίρεσης. |
+| reason | ErrorReason | Ο λόγος του σφάλματος. |
 
 ### Δείτε επίσης
 
 * enum [ErrorReason](../../jpegloadexception.errorreason/)
 * class [JpegLoadException](../)
-* χώρος ονομάτων [Aspose.PSD.CoreExceptions.ImageFormats](../../jpegloadexception/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.CoreExceptions.ImageFormats](../../../aspose.psd.coreexceptions.imageformats/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## JpegLoadException(string, Exception, ErrorReason) {#constructor_3}
 
-Αρχικοποιεί μια νέα παρουσία του[`JpegLoadException`](../) τάξη.
+Αρχικοποιεί ένα νέο στιγμιότυπο της κλάσης [`JpegLoadException`](../).
 
 ```csharp
 public JpegLoadException(string message, Exception innerException, ErrorReason reason)
@@ -79,15 +80,15 @@ public JpegLoadException(string message, Exception innerException, ErrorReason r
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| message | String | Το μήνυμα εξαίρεσης. |
+| message | String | Το μήνυμα της εξαίρεσης. |
 | innerException | Exception | Η εσωτερική εξαίρεση. |
-| reason | ErrorReason | Ο λόγος του λάθους. |
+| reason | ErrorReason | Ο λόγος του σφάλματος. |
 
 ### Δείτε επίσης
 
 * enum [ErrorReason](../../jpegloadexception.errorreason/)
 * class [JpegLoadException](../)
-* χώρος ονομάτων [Aspose.PSD.CoreExceptions.ImageFormats](../../jpegloadexception/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.CoreExceptions.ImageFormats](../../../aspose.psd.coreexceptions.imageformats/)
+* assembly [Aspose.PSD](../../../)
 
 

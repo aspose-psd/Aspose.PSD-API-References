@@ -1,11 +1,12 @@
 ---
-title: TiffOptions.Orientation
-second_title: Aspose.PSD για Αναφορά API .NET
-description: TiffOptions ιδιοκτησία. Λαμβάνει ή ορίζει τον προσανατολισμό.
+title: "TiffOptions.Orientation"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα TiffOptions. Λαμβάνει ή ορίζει τον προσανατολισμό"
 type: docs
-weight: 280
+weight: 290
 url: /el/net/aspose.psd.imageoptions/tiffoptions/orientation/
 ---
+{{< psd/tize >}}
 ## TiffOptions.Orientation property
 
 Λαμβάνει ή ορίζει τον προσανατολισμό.
@@ -14,7 +15,7 @@ url: /el/net/aspose.psd.imageoptions/tiffoptions/orientation/
 public TiffOrientations Orientation { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
 Ο προσανατολισμός.
 
@@ -22,7 +23,7 @@ public TiffOrientations Orientation { get; set; }
 
 * enum [TiffOrientations](../../../aspose.psd.fileformats.tiff.enums/tifforientations/)
 * class [TiffOptions](../)
-* χώρος ονομάτων [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

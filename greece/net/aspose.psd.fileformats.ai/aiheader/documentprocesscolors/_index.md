@@ -1,27 +1,28 @@
 ---
-title: AiHeader.DocumentProcessColors
-second_title: Aspose.PSD για Αναφορά API .NET
-description: AiHeader ιδιοκτησία. Λαμβάνει ή ορίζει τα χρώματα της διαδικασίας του εγγράφου.
+title: "AiHeader.DocumentProcessColors"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα AiHeader. Λαμβάνει ή ορίζει τα χρώματα επεξεργασίας εγγράφου"
 type: docs
 weight: 60
 url: /el/net/aspose.psd.fileformats.ai/aiheader/documentprocesscolors/
 ---
+{{< psd/tize >}}
 ## AiHeader.DocumentProcessColors property
 
-Λαμβάνει ή ορίζει τα χρώματα της διαδικασίας του εγγράφου.
+Λαμβάνει ή ορίζει τα χρώματα επεξεργασίας του εγγράφου.
 
 ```csharp
 public string DocumentProcessColors { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Τα χρώματα της διαδικασίας του εγγράφου.
+Τα χρώματα επεξεργασίας εγγράφου.
 
 ### Δείτε επίσης
 
 * class [AiHeader](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Ai](../../aiheader/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

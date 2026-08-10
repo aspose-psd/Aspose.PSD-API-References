@@ -1,11 +1,12 @@
 ---
-title: ConvolutionFilterOptions.Factor
-second_title: Aspose.PSD για Αναφορά API .NET
-description: ConvolutionFilterOptions ιδιοκτησία. Λαμβάνει ή ορίζει τον παράγοντα.
+title: "ConvolutionFilterOptions.Factor"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα ConvolutionFilterOptions. Λαμβάνει ή ορίζει τον παράγοντα"
 type: docs
 weight: 30
 url: /el/net/aspose.psd.imagefilters.filteroptions/convolutionfilteroptions/factor/
 ---
+{{< psd/tize >}}
 ## ConvolutionFilterOptions.Factor property
 
 Λαμβάνει ή ορίζει τον παράγοντα.
@@ -14,14 +15,14 @@ url: /el/net/aspose.psd.imagefilters.filteroptions/convolutionfilteroptions/fact
 public double Factor { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
 Ο παράγοντας.
 
 ### Δείτε επίσης
 
 * class [ConvolutionFilterOptions](../)
-* χώρος ονομάτων [Aspose.PSD.ImageFilters.FilterOptions](../../convolutionfilteroptions/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageFilters.FilterOptions](../../../aspose.psd.imagefilters.filteroptions/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,29 +1,30 @@
 ---
-title: Aspose.PSD.Xmp
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Ο χώρος ονομάτων περιέχει κλάσεις και μεθόδους βοήθειας που σχετίζονται με XMP.
+title: "Aspose.PSD.Xmp"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ο χώρος ονομάτων περιέχει βοηθητικές κλάσεις και μεθόδους σχετικές με XMP"
 type: docs
-weight: 520
+weight: 560
 url: /el/net/aspose.psd.xmp/
 ---
-Ο χώρος ονομάτων περιέχει κλάσεις και μεθόδους βοήθειας που σχετίζονται με XMP.
+{{< psd/tize >}}
+Ο χώρος ονομάτων περιέχει βοηθητικές κλάσεις και μεθόδους σχετικές με το XMP.
 
-## Τάξεις
+## Κλάσεις
 
-| Τάξη | Περιγραφή |
+| Κλάση | Περιγραφή |
 | --- | --- |
-| [LangAlt](./langalt/) | Αντιπροσωπεύει την εναλλακτική γλώσσας XMP. |
-| [Namespaces](./namespaces/) | Περιέχει χώρους ονομάτων που χρησιμοποιούνται στο έγγραφο RDF. |
-| [XmpArray](./xmparray/) | Το Αντιπροσωπεύει τον πίνακα Xmp μέσα[`XmpPackage`](../aspose.psd.xmp/xmppackage/) . TODO: Ο πίνακας μπορεί να περιέχει πολύπλοκα δεδομένα. |
-| [XmpArrayHelper](./xmparrayhelper/) | Η βοηθητική κλάση για την επεξεργασία RDF logic |
-| [XmpElementBase](./xmpelementbase/) | Αντιπροσωπεύει το βασικό στοιχείο xmp που περιέχει χαρακτηριστικά. |
-| [XmpHeaderPi](./xmpheaderpi/) | Αντιπροσωπεύει την οδηγία επεξεργασίας κεφαλίδας XMP. |
-| [XmpMeta](./xmpmeta/) | Αντιπροσωπεύει το xmpmeta. Προαιρετικό. Ο σκοπός αυτού του στοιχείου είναι να προσδιορίσει μεταδεδομένα XMP μέσα σε γενικό κείμενο XML που μπορεί να περιέχει άλλες μη XMP χρήσεις του RDF. |
-| [XmpPackage](./xmppackage/) | Καθορίζει την κλάση XmpPackage που αντιπροσωπεύει την αφαίρεση βάσης για το πακέτο XMP. |
-| [XmpPackageBaseCollection](./xmppackagebasecollection/) | Αντιπροσωπεύει συλλογή από[`XmpPackage`](../aspose.psd.xmp/xmppackage/) . |
-| [XmpPacketWrapper](./xmppacketwrapper/) | Περιέχει σειριακό πακέτο xmp που περιλαμβάνει κεφαλίδα και τρέιλερ. |
-| [XmpRdfRoot](./xmprdfroot/) | Αντιπροσωπεύει το στοιχείο rdf:RDF. Ένα μεμονωμένο πακέτο XMP θα σειριοποιηθεί χρησιμοποιώντας ένα μόνο στοιχείο rdf:RDF XML. Το περιεχόμενο του στοιχείου rdf:RDF θα αποτελείται μόνο από μηδέν ή περισσότερα στοιχεία rdf:Description. |
-| [XmpTrailerPi](./xmptrailerpi/) | Αντιπροσωπεύει την οδηγία επεξεργασίας τρέιλερ XMP. |
+| [LangAlt](./langalt/) | Αναπαριστά το XMP Language Alternative. |
+| [Namespaces](./namespaces/) | Περιέχει χώρους ονομάτων που χρησιμοποιούνται σε έγγραφο RDF. |
+| [XmpArray](./xmparray/) | Αναπαριστά το Xmp Array στο [`XmpPackage`](../aspose.psd.xmp/xmppackage/). TODO: Ο πίνακας μπορεί να περιέχει σύνθετα δεδομένα. |
+| [XmpArrayHelper](./xmparrayhelper/) | Η βοηθητική κλάση για την επεξεργασία λογικής RDF |
+| [XmpElementBase](./xmpelementbase/) | Αναπαριστά το βασικό στοιχείο xmp που περιέχει χαρακτηριστικά. |
+| [XmpHeaderPi](./xmpheaderpi/) | Αναπαριστά την οδηγία επεξεργασίας κεφαλίδας XMP. |
+| [XmpMeta](./xmpmeta/) | Αναπαριστά το xmpmeta. Προαιρετικό. Ο σκοπός αυτού του στοιχείου είναι η ταυτοποίηση μεταδεδομένων XMP μέσα σε γενικό κείμενο XML που μπορεί να περιέχει άλλες μη‑XMP χρήσεις του RDF. |
+| [XmpPackage](./xmppackage/) | Ορίζει την κλάση XmpPackage που αναπαριστά τη βασική αφαίρεση για το πακέτο XMP. |
+| [XmpPackageBaseCollection](./xmppackagebasecollection/) | Αναπαριστά τη συλλογή του [`XmpPackage`](../aspose.psd.xmp/xmppackage/). |
+| [XmpPacketWrapper](./xmppacketwrapper/) | Περιέχει το σειριοποιημένο πακέτο xmp συμπεριλαμβανομένης της κεφαλίδας και του υποσέλιδου. |
+| [XmpRdfRoot](./xmprdfroot/) | Αναπαριστά το στοιχείο rdf:RDF. Ένα μοναδικό πακέτο XMP πρέπει να σειριοποιείται χρησιμοποιώντας ένα μοναδικό στοιχείο XML rdf:RDF. Το περιεχόμενο του στοιχείου rdf:RDF πρέπει να αποτελείται μόνο από μηδέν ή περισσότερα στοιχεία rdf:Description. |
+| [XmpTrailerPi](./xmptrailerpi/) | Αναπαριστά την οδηγία επεξεργασίας υποσέλιδου XMP. |
 ## Διεπαφές
 
 | Διεπαφή | Περιγραφή |
@@ -33,6 +34,6 @@ url: /el/net/aspose.psd.xmp/
 
 | Απαρίθμηση | Περιγραφή |
 | --- | --- |
-| [XmpArrayType](./xmparraytype/) | Αντιπροσωπεύει τον τύπο πίνακα μέσα[`XmpArray`](../aspose.psd.xmp/xmparray/) . |
+| [XmpArrayType](./xmparraytype/) | Αναπαριστά τον τύπο πίνακα στο [`XmpArray`](../aspose.psd.xmp/xmparray/). |
 
 

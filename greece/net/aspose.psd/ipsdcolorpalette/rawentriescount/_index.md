@@ -1,27 +1,28 @@
 ---
-title: IPsdColorPalette.RawEntriesCount
-second_title: Aspose.PSD για Αναφορά API .NET
-description: IPsdColorPalette ιδιοκτησία. Λαμβάνει τον αριθμό των καταχωρήσεων της παλέτας ακατέργαστων χρωμάτων.
+title: "IPsdColorPalette.RawEntriesCount"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "IPsdColorPalette ιδιότητα. Αποκτά τον αριθμό των ακατέργαστων καταχωρίσεων της παλέτας χρωμάτων"
 type: docs
 weight: 30
 url: /el/net/aspose.psd/ipsdcolorpalette/rawentriescount/
 ---
+{{< psd/tize >}}
 ## IPsdColorPalette.RawEntriesCount property
 
-Λαμβάνει τον αριθμό των καταχωρήσεων της παλέτας ακατέργαστων χρωμάτων.
+Λαμβάνει τον αριθμό των ακατέργαστων καταχωρήσεων της παλέτας χρωμάτων.
 
 ```csharp
 public int RawEntriesCount { get; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Οι καταχωρήσεις της παλέτας ακατέργαστων χρωμάτων μετράνε.
+Ο αριθμός των ακατέργαστων καταχωρίσεων της παλέτας χρωμάτων.
 
 ### Δείτε επίσης
 
 * interface [IPsdColorPalette](../)
-* χώρος ονομάτων [Aspose.PSD](../../ipsdcolorpalette/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

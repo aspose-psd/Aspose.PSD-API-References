@@ -1,27 +1,28 @@
 ---
-title: LayerMaskData.Top
-second_title: Aspose.PSD για Αναφορά API .NET
-description: LayerMaskData ιδιοκτησία. Λαμβάνει ή ρυθμίζει τη θέση της μάσκας ανώτερης στρώσης.
+title: "LayerMaskData.Top"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα LayerMaskData. Λαμβάνει ή ορίζει τη θέση της άνω μάσκας στρώσης."
 type: docs
 weight: 90
 url: /el/net/aspose.psd.fileformats.psd.layers/layermaskdata/top/
 ---
+{{< psd/tize >}}
 ## LayerMaskData.Top property
 
-Λαμβάνει ή ρυθμίζει τη θέση της μάσκας ανώτερης στρώσης.
+Λαμβάνει ή ορίζει τη θέση της πάνω μάσκας στρώσης.
 
 ```csharp
 public int Top { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Η θέση της μάσκας ανώτερης στρώσης.
+Η θέση της άνω μάσκας στρώσης.
 
 ### Δείτε επίσης
 
 * class [LayerMaskData](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers](../../layermaskdata/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

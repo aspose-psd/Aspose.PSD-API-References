@@ -1,14 +1,15 @@
 ---
-title: TiffStreamReader.TiffStreamReader
-second_title: Aspose.PSD για Αναφορά API .NET
-description: TiffStreamReader κατασκευαστής. Αρχικοποιεί μια νέα παρουσία τουTiffStreamReader τάξη.
+title: "TiffStreamReader.TiffStreamReader"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Κατασκευαστής TiffStreamReader. Αρχικοποιεί μια νέα παρουσία της κλάσης TiffStreamReader."
 type: docs
 weight: 10
 url: /el/net/aspose.psd.fileformats.tiff.filemanagement/tiffstreamreader/tiffstreamreader/
 ---
+{{< psd/tize >}}
 ## TiffStreamReader(byte[]) {#constructor_1}
 
-Αρχικοποιεί μια νέα παρουσία του[`TiffStreamReader`](../) τάξη.
+Αρχικοποιεί μια νέα παρουσία της κλάσης [`TiffStreamReader`](../).
 
 ```csharp
 public TiffStreamReader(byte[] data)
@@ -16,19 +17,19 @@ public TiffStreamReader(byte[] data)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| data | Byte[] | Τα δεδομένα του πίνακα byte. |
+| δεδομένα | Byte[] | Τα δεδομένα του πίνακα byte. |
 
 ### Δείτε επίσης
 
 * class [TiffStreamReader](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Tiff.FileManagement](../../tiffstreamreader/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff.FileManagement](../../../aspose.psd.fileformats.tiff.filemanagement/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## TiffStreamReader(byte[], int) {#constructor_2}
 
-Αρχικοποιεί μια νέα παρουσία του[`TiffStreamReader`](../) τάξη.
+Αρχικοποιεί μια νέα παρουσία της κλάσης [`TiffStreamReader`](../).
 
 ```csharp
 public TiffStreamReader(byte[] data, int startIndex)
@@ -36,20 +37,20 @@ public TiffStreamReader(byte[] data, int startIndex)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| data | Byte[] | Τα δεδομένα του πίνακα byte. |
-| startIndex | Int32 | Ο δείκτης έναρξης σε*data*. |
+| δεδομένα | Byte[] | Τα δεδομένα του πίνακα byte. |
+| startIndex | Int32 | Ο δείκτης έναρξης στο *data*. |
 
 ### Δείτε επίσης
 
 * class [TiffStreamReader](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Tiff.FileManagement](../../tiffstreamreader/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff.FileManagement](../../../aspose.psd.fileformats.tiff.filemanagement/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## TiffStreamReader(byte[], int, int) {#constructor_3}
 
-Αρχικοποιεί μια νέα παρουσία του[`TiffStreamReader`](../) τάξη.
+Αρχικοποιεί μια νέα παρουσία της κλάσης [`TiffStreamReader`](../).
 
 ```csharp
 public TiffStreamReader(byte[] data, int startIndex, int dataLength)
@@ -57,21 +58,21 @@ public TiffStreamReader(byte[] data, int startIndex, int dataLength)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| data | Byte[] | Τα δεδομένα του πίνακα byte. |
-| startIndex | Int32 | Ο δείκτης έναρξης σε*data*. |
+| δεδομένα | Byte[] | Τα δεδομένα του πίνακα byte. |
+| startIndex | Int32 | Ο δείκτης έναρξης στο *data*. |
 | dataLength | Int32 | Μήκος των δεδομένων. |
 
 ### Δείτε επίσης
 
 * class [TiffStreamReader](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Tiff.FileManagement](../../tiffstreamreader/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff.FileManagement](../../../aspose.psd.fileformats.tiff.filemanagement/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## TiffStreamReader(StreamContainer) {#constructor}
 
-Αρχικοποιεί μια νέα παρουσία του[`TiffStreamReader`](../) τάξη.
+Αρχικοποιεί μια νέα παρουσία της κλάσης [`TiffStreamReader`](../).
 
 ```csharp
 public TiffStreamReader(StreamContainer streamContainer)
@@ -79,13 +80,13 @@ public TiffStreamReader(StreamContainer streamContainer)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| streamContainer | StreamContainer | Το δοχείο του ρέματος. |
+| streamContainer | StreamContainer | Το container ροής. |
 
 ### Δείτε επίσης
 
 * class [StreamContainer](../../../aspose.psd/streamcontainer/)
 * class [TiffStreamReader](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Tiff.FileManagement](../../tiffstreamreader/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff.FileManagement](../../../aspose.psd.fileformats.tiff.filemanagement/)
+* assembly [Aspose.PSD](../../../)
 
 

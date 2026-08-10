@@ -1,27 +1,28 @@
 ---
-title: TypeToolFontInfo.Length
-second_title: Aspose.PSD για Αναφορά API .NET
-description: TypeToolFontInfo ιδιοκτησία. Παίρνει το μήκος.
+title: "TypeToolFontInfo.Length"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "TypeToolFontInfo ιδιότητα. Λαμβάνει το μήκος"
 type: docs
 weight: 80
 url: /el/net/aspose.psd.fileformats.psd.layers.layerresources/typetoolfontinfo/length/
 ---
+{{< psd/tize >}}
 ## TypeToolFontInfo.Length property
 
-Παίρνει το μήκος.
+Λαμβάνει το μήκος.
 
 ```csharp
 public int Length { get; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
 Το μήκος.
 
 ### Δείτε επίσης
 
 * class [TypeToolFontInfo](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../typetoolfontinfo/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

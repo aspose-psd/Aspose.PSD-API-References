@@ -1,14 +1,15 @@
 ---
-title: CustResource.TypeToolKey
-second_title: Aspose.PSD για Αναφορά API .NET
-description: CustResource πεδίο. Το κλειδί πληροφοριών εργαλείου τύπου.
+title: "CustResource.TypeToolKey"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Πεδίο CustResource. Το κλειδί πληροφοριών τύπου εργαλείου"
 type: docs
-weight: 80
+weight: 50
 url: /el/net/aspose.psd.fileformats.psd.layers.layerresources/custresource/typetoolkey/
 ---
+{{< psd/tize >}}
 ## CustResource.TypeToolKey field
 
-Το κλειδί πληροφοριών εργαλείου τύπου.
+Το κλειδί πληροφοριών του εργαλείου τύπου.
 
 ```csharp
 public const int TypeToolKey;
@@ -17,7 +18,7 @@ public const int TypeToolKey;
 ### Δείτε επίσης
 
 * class [CustResource](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../custresource/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

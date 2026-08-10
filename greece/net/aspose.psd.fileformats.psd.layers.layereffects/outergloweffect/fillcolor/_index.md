@@ -1,26 +1,27 @@
 ---
-title: OuterGlowEffect.FillColor
-second_title: Aspose.PSD για Αναφορά API .NET
-description: OuterGlowEffect ιδιοκτησία. Παίρνει ή ρυθμίζει το χρώμα.
+title: "OuterGlowEffect.FillColor"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "OuterGlowEffect ιδιότητα. Λαμβάνει ή ορίζει το χρώμα"
 type: docs
 weight: 30
 url: /el/net/aspose.psd.fileformats.psd.layers.layereffects/outergloweffect/fillcolor/
 ---
+{{< psd/tize >}}
 ## OuterGlowEffect.FillColor property
 
-Παίρνει ή ρυθμίζει το χρώμα.
+Λαμβάνει ή ορίζει το χρώμα.
 
 ```csharp
 public IFillSettings FillColor { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
 Το χρώμα.
 
-### Παραδείγματα
+## Παραδείγματα
 
-Ο παρακάτω κώδικας δείχνει την υποστήριξη OuterGlowEffect.
+Ο παρακάτω κώδικας δείχνει την υποστήριξη του OuterGlowEffect.
 
 ```csharp
 [C#]
@@ -45,7 +46,7 @@ using (var image = (PsdImage)Image.Load(src))
 
 * interface [IFillSettings](../../../aspose.psd.fileformats.psd.layers.fillsettings/ifillsettings/)
 * class [OuterGlowEffect](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../outergloweffect/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../../)
 
 

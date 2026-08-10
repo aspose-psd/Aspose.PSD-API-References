@@ -1,11 +1,12 @@
 ---
-title: ClassID.Bytes
-second_title: Aspose.PSD για Αναφορά API .NET
-description: ClassID ιδιοκτησία. Λαμβάνει τα byte που αντιπροσωπεύουν το αναγνωριστικό κλάσης.
+title: "ClassID.Bytes"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα ClassID. Λαμβάνει τα byte που αντιπροσωπεύουν το ClassID"
 type: docs
 weight: 20
 url: /el/net/aspose.psd.fileformats.psd.layers.layerresources/classid/bytes/
 ---
+{{< psd/tize >}}
 ## ClassID.Bytes property
 
 Λαμβάνει τα byte που αντιπροσωπεύουν το αναγνωριστικό κλάσης.
@@ -17,7 +18,7 @@ public byte[] Bytes { get; }
 ### Δείτε επίσης
 
 * class [ClassID](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../classid/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

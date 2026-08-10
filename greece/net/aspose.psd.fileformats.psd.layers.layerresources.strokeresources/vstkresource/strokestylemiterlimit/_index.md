@@ -1,27 +1,28 @@
 ---
-title: VstkResource.StrokeStyleMiterLimit
-second_title: Aspose.PSD για Αναφορά API .NET
-description: VstkResource ιδιοκτησία. Λαμβάνει ή ορίζει το όριο μίτρας στυλ διαδρομής.
+title: "VstkResource.StrokeStyleMiterLimit"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "VstkResource ιδιότητα. Λαμβάνει ή ορίζει το Stroke style miter limit"
 type: docs
-weight: 170
+weight: 150
 url: /el/net/aspose.psd.fileformats.psd.layers.layerresources.strokeresources/vstkresource/strokestylemiterlimit/
 ---
+{{< psd/tize >}}
 ## VstkResource.StrokeStyleMiterLimit property
 
-Λαμβάνει ή ορίζει το όριο μίτρας στυλ διαδρομής.
+Λαμβάνει ή ορίζει το όριο μύτης του στυλ stroke.
 
 ```csharp
 public double StrokeStyleMiterLimit { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Το όριο μίτρα στυλ κτύπημα.
+Το Stroke style miter limit.
 
 ### Δείτε επίσης
 
 * class [VstkResource](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.StrokeResources](../../vstkresource/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.StrokeResources](../../../aspose.psd.fileformats.psd.layers.layerresources.strokeresources/)
+* assembly [Aspose.PSD](../../../)
 
 

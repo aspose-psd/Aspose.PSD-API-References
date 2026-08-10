@@ -1,20 +1,21 @@
 ---
-title: ExifData.BrightnessValue
-second_title: Aspose.PSD για Αναφορά API .NET
-description: ExifData ιδιοκτησία. Λαμβάνει ή ορίζει την τιμή φωτεινότητας.
+title: "ExifData.BrightnessValue"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα ExifData. Λαμβάνει ή ορίζει την τιμή φωτεινότητας"
 type: docs
 weight: 40
 url: /el/net/aspose.psd.exif/exifdata/brightnessvalue/
 ---
+{{< psd/tize >}}
 ## ExifData.BrightnessValue property
 
-Λαμβάνει ή ορίζει την τιμή φωτεινότητας.
+Λαμβάνει ή ορίζει την τιμή της φωτεινότητας.
 
 ```csharp
 public TiffSRational BrightnessValue { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
 Η τιμή φωτεινότητας.
 
@@ -22,7 +23,7 @@ public TiffSRational BrightnessValue { get; set; }
 
 * class [TiffSRational](../../../aspose.psd.fileformats.tiff/tiffsrational/)
 * class [ExifData](../)
-* χώρος ονομάτων [Aspose.PSD.Exif](../../exifdata/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

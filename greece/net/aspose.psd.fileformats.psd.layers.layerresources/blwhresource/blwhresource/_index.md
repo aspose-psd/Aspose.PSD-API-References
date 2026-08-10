@@ -1,11 +1,12 @@
 ---
-title: BlwhResource.BlwhResource
-second_title: Aspose.PSD για Αναφορά API .NET
-description: BlwhResource κατασκευαστής. Ο προεπιλεγμένος κατασκευαστής.
+title: "BlwhResource.BlwhResource"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Κατασκευαστής BlwhResource. Ο προεπιλεγμένος κατασκευαστής"
 type: docs
 weight: 10
 url: /el/net/aspose.psd.fileformats.psd.layers.layerresources/blwhresource/blwhresource/
 ---
+{{< psd/tize >}}
 ## BlwhResource constructor
 
 Ο προεπιλεγμένος κατασκευαστής.
@@ -17,7 +18,7 @@ public BlwhResource()
 ### Δείτε επίσης
 
 * class [BlwhResource](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../blwhresource/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

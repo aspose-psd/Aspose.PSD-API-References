@@ -1,27 +1,28 @@
 ---
-title: CurvesLayer.IsDiscreteManagerUsed
-second_title: Aspose.PSD για Αναφορά API .NET
-description: CurvesLayer ιδιοκτησία. Λαμβάνει ή ορίζει μια τιμή που υποδεικνύει εάν αυτή η παρουσία χρησιμοποιείται διακριτικό διαχειριστή.
+title: "CurvesLayer.IsDiscreteManagerUsed"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "CurvesLayer ιδιότητα. Λαμβάνει ή ορίζει μια τιμή που υποδεικνύει αν αυτή η παρουσία χρησιμοποιεί διακριτό διαχειριστή"
 type: docs
 weight: 20
 url: /el/net/aspose.psd.fileformats.psd.layers.adjustmentlayers/curveslayer/isdiscretemanagerused/
 ---
+{{< psd/tize >}}
 ## CurvesLayer.IsDiscreteManagerUsed property
 
-Λαμβάνει ή ορίζει μια τιμή που υποδεικνύει εάν αυτή η παρουσία χρησιμοποιείται διακριτικό διαχειριστή.
+Λαμβάνει ή ορίζει μια τιμή που υποδεικνύει αν αυτή η παρουσία χρησιμοποιεί διακριτό διαχειριστή.
 
 ```csharp
 public bool IsDiscreteManagerUsed { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-`αληθής` εάν αυτή η περίπτωση χρησιμοποιείται διακριτικό διαχειριστή. σε διαφορετική περίπτωση,`ψευδής` .
+`true` εάν αυτή η παρουσία χρησιμοποιεί διακριτό διαχειριστή· διαφορετικά, `false`.
 
 ### Δείτε επίσης
 
 * class [CurvesLayer](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../curveslayer/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/)
+* assembly [Aspose.PSD](../../../)
 
 

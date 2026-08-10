@@ -1,14 +1,15 @@
 ---
-title: Class LnsrResource
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.LnsrResource τάξη. Class lnsrResource.
+title: "Κλάση LnsrResource"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Aspose.PSD.FileFormats.Psd.Layers.LayerResources.LnsrResource κλάση. Κλάση lnsrResource"
 type: docs
-weight: 2750
+weight: 3060
 url: /el/net/aspose.psd.fileformats.psd.layers.layerresources/lnsrresource/
 ---
+{{< psd/tize >}}
 ## LnsrResource class
 
-Class lnsrResource.
+Κλάση lnsrResource.
 
 ```csharp
 public class LnsrResource : LayerResource
@@ -16,39 +17,39 @@ public class LnsrResource : LayerResource
 
 ## Κατασκευαστές
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
-| [LnsrResource](lnsrresource/#constructor_1)(byte[]) | Αρχικοποιεί μια νέα παρουσία του`LnsrResource` class. Με προσαρμοσμένη ή άγνωστη τιμή |
-| [LnsrResource](lnsrresource/#constructor)(LnsrResourceType) | Αρχικοποιεί μια νέα παρουσία του`LnsrResource` τάξη. |
+| [LnsrResource](lnsrresource/#constructor_1)(byte[]) | Αρχικοποιεί ένα νέο στιγμιότυπο της κλάσης `LnsrResource`. Με προσαρμοσμένη ή άγνωστη τιμή |
+| [LnsrResource](lnsrresource/#constructor)(LnsrResourceType) | Αρχικοποιεί ένα νέο στιγμιότυπο της κλάσης `LnsrResource`. |
 
 ## Ιδιότητες
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
-| [Data](../../aspose.psd.fileformats.psd.layers.layerresources/lnsrresource/data/) { get; } | Λαμβάνει τα πρωτογενή δεδομένα. |
-| override [Key](../../aspose.psd.fileformats.psd.layers.layerresources/lnsrresource/key/) { get; } | Λαμβάνει το κλειδί πόρων επιπέδου. |
-| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/lnsrresource/length/) { get; } | Λαμβάνει το μήκος του πόρου του επιπέδου σε byte. |
-| override [PsdVersion](../../aspose.psd.fileformats.psd.layers.layerresources/lnsrresource/psdversion/) { get; } | Λαμβάνει την έκδοση psd. |
-| override [Signature](../../aspose.psd.fileformats.psd.layers.layerresources/lnsrresource/signature/) { get; } | Παίρνει την υπογραφή. |
-| [Value](../../aspose.psd.fileformats.psd.layers.layerresources/lnsrresource/value/) { get; } | Λαμβάνει την τιμή ως LnsrResourceType, εάν περιγράφεται ο αντίστοιχος αριθμός. Διαφορετικά, επιστρέψτε Unknown |
+| [Data](../../aspose.psd.fileformats.psd.layers.layerresources/lnsrresource/data/) { get; } | Λαμβάνει τα ακατέργαστα δεδομένα. |
+| [Key](../../aspose.psd.fileformats.psd.layers/layerresource/key/) { get; } | Λαμβάνει το κλειδί πόρου του επιπέδου. |
+| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/lnsrresource/length/) { get; } | Λαμβάνει το μήκος του πόρου του επιπέδου σε bytes. |
+| virtual [PsdVersion](../../aspose.psd.fileformats.psd.layers/layerresource/psdversion/) { get; } | Λαμβάνει την ελάχιστη έκδοση psd που απαιτείται για τον πόρο του επιπέδου. 0 υποδεικνύει ότι δεν υπάρχουν περιορισμοί. |
+| virtual [Signature](../../aspose.psd.fileformats.psd.layers/layerresource/signature/) { get; } | Λαμβάνει την υπογραφή. |
+| [Value](../../aspose.psd.fileformats.psd.layers.layerresources/lnsrresource/value/) { get; } | Λαμβάνει την τιμή ως LnsrResourceType εάν περιγράφεται το αντίστοιχο enum. Διαφορετικά επιστρέφει Unknown |
 
 ## Μέθοδοι
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
 | override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/lnsrresource/save/)(StreamContainer, int) | Αποθηκεύει το καθορισμένο κοντέινερ ροής. |
-| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring/)() | Επιστρέφει αString που αντιπροσωπεύει αυτήν την περίπτωση. |
+| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring/)() | Επιστρέφει ένα String που αντιπροσωπεύει αυτήν την περίπτωση. |
 
 ## Πεδία
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
-| const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/lnsrresource/typetoolkey/) | Το κλειδί πληροφοριών εργαλείου τύπου. |
+| const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/lnsrresource/typetoolkey/) | Το κλειδί πληροφοριών του εργαλείου τύπου. |
 
 ### Δείτε επίσης
 
 * class [LayerResource](../../aspose.psd.fileformats.psd.layers/layerresource/)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
-* συνέλευση [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../)
 
 

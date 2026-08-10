@@ -1,14 +1,15 @@
 ---
-title: Namespaces.XmpTypeDimensions
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Namespaces πεδίο. Τύπος διαστάσεων XMP.
+title: "Namespaces.XmpTypeDimensions"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Πεδίο Namespaces. Τύπος XMP Dimensions"
 type: docs
 weight: 120
 url: /el/net/aspose.psd.xmp/namespaces/xmptypedimensions/
 ---
+{{< psd/tize >}}
 ## Namespaces.XmpTypeDimensions field
 
-Τύπος διαστάσεων XMP.
+Τύπος XMP Dimensions.
 
 ```csharp
 public const string XmpTypeDimensions;
@@ -17,7 +18,7 @@ public const string XmpTypeDimensions;
 ### Δείτε επίσης
 
 * class [Namespaces](../)
-* χώρος ονομάτων [Aspose.PSD.Xmp](../../namespaces/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

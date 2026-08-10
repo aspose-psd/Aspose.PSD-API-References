@@ -1,27 +1,28 @@
 ---
-title: ColorantCmyk.Magenta
-second_title: Aspose.PSD για Αναφορά API .NET
-description: ColorantCmyk ιδιοκτησία. Λαμβάνει ή ορίζει την τιμή του ματζέντα στοιχείου.
+title: "ColorantCmyk.Magenta"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα ColorantCmyk. Λαμβάνει ή ορίζει την τιμή του συστατικού ματζέντα"
 type: docs
 weight: 40
 url: /el/net/aspose.psd.xmp.types.complex.colorant/colorantcmyk/magenta/
 ---
+{{< psd/tize >}}
 ## ColorantCmyk.Magenta property
 
-Λαμβάνει ή ορίζει την τιμή του ματζέντα στοιχείου.
+Λαμβάνει ή ορίζει την τιμή του στοιχείου ματζέντας.
 
 ```csharp
 public float Magenta { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Η τιμή του ματζέντα στοιχείου.
+Η τιμή του συστατικού ματζέντα.
 
 ### Δείτε επίσης
 
 * class [ColorantCmyk](../)
-* χώρος ονομάτων [Aspose.PSD.Xmp.Types.Complex.Colorant](../../colorantcmyk/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.Colorant](../../../aspose.psd.xmp.types.complex.colorant/)
+* assembly [Aspose.PSD](../../../)
 
 

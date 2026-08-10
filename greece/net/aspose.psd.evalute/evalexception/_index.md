@@ -1,11 +1,12 @@
 ---
-title: Class EvalException
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Aspose.PSD.Evalute.EvalException τάξη. Προσαρμοσμένη εξαίρεση για σφάλματα αξιολόγησης
+title: "Κλάση EvalException"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Κλάση Aspose.PSD.Evalute.EvalException. Προσαρμοσμένη εξαίρεση για σφάλματα αξιολόγησης"
 type: docs
-weight: 790
+weight: 800
 url: /el/net/aspose.psd.evalute/evalexception/
 ---
+{{< psd/tize >}}
 ## EvalException class
 
 Προσαρμοσμένη εξαίρεση για σφάλματα αξιολόγησης
@@ -16,13 +17,13 @@ public class EvalException : Exception
 
 ## Ιδιότητες
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
 | override [Message](../../aspose.psd.evalute/evalexception/message/) { get; } | Λαμβάνει το μήνυμα που σχετίζεται με αυτήν την εξαίρεση |
 
 ### Δείτε επίσης
 
-* χώρος ονομάτων [Aspose.PSD.Evalute](../../aspose.psd.evalute/)
-* συνέλευση [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Evalute](../../aspose.psd.evalute/)
+* assembly [Aspose.PSD](../../)
 
 

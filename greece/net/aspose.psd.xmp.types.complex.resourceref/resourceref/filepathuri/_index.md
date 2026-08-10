@@ -1,27 +1,28 @@
 ---
-title: ResourceRef.FilePathUri
-second_title: Aspose.PSD για Αναφορά API .NET
-description: ResourceRef ιδιοκτησία. Λαμβάνει ή ορίζει τη διαδρομή αρχείου URI.
+title: "ResourceRef.FilePathUri"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "ResourceRef ιδιότητα. Λαμβάνει ή ορίζει το file path URI"
 type: docs
 weight: 40
 url: /el/net/aspose.psd.xmp.types.complex.resourceref/resourceref/filepathuri/
 ---
+{{< psd/tize >}}
 ## ResourceRef.FilePathUri property
 
-Λαμβάνει ή ορίζει τη διαδρομή αρχείου URI.
+Λαμβάνει ή ορίζει το URI της διαδρομής αρχείου.
 
 ```csharp
 public string FilePathUri { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Η διαδρομή αρχείου URI.
+Το file path URI.
 
 ### Δείτε επίσης
 
 * class [ResourceRef](../)
-* χώρος ονομάτων [Aspose.PSD.Xmp.Types.Complex.ResourceRef](../../resourceref/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.ResourceRef](../../../aspose.psd.xmp.types.complex.resourceref/)
+* assembly [Aspose.PSD](../../../)
 
 

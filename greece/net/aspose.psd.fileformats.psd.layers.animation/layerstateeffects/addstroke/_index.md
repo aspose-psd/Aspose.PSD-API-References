@@ -1,14 +1,15 @@
 ---
-title: LayerStateEffects.AddStroke
-second_title: Aspose.PSD για Αναφορά API .NET
-description: LayerStateEffects μέθοδος. Προσθέτει το εφέ stroke.
+title: "LayerStateEffects.AddStroke"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Μέθοδος LayerStateEffects. Προσθέτει το εφέ γραμμής"
 type: docs
 weight: 90
 url: /el/net/aspose.psd.fileformats.psd.layers.animation/layerstateeffects/addstroke/
 ---
+{{< psd/tize >}}
 ## LayerStateEffects.AddStroke method
 
-Προσθέτει το εφέ stroke.
+Προσθέτει το εφέ γραμμής.
 
 ```csharp
 public StrokeEffect AddStroke(FillType fillType)
@@ -16,15 +17,15 @@ public StrokeEffect AddStroke(FillType fillType)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| fillType | FillType | Το γέμισμα τύπου stroke. |
+| fillType | FillType | Ο τύπος γεμίσματος γραμμής. |
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-Το νέο παράδειγμα του[`StrokeEffect`](../../../aspose.psd.fileformats.psd.layers.layereffects/strokeeffect/) τάξη.
+Η νέα παρουσία της κλάσης [`StrokeEffect`](../../../aspose.psd.fileformats.psd.layers.layereffects/strokeeffect/).
 
-### Παραδείγματα
+## Παραδείγματα
 
-Ο ακόλουθος κώδικας δείχνει την υποστήριξη των εφέ σε πλαίσια Timeline.
+Ο παρακάτω κώδικας δείχνει την υποστήριξη εφέ στα πλαίσια Timeline.
 
 ```csharp
 [C#]
@@ -34,19 +35,16 @@ string outputFile = "output.psd";
 
 using (var psdImage = (PsdImage)Image.Load(sourceFile))
 {
-    TimeLine timeLine = TimeLine.InitializeFrom(psdImage);
-    int[] layerIds = timeLine.LayerIds;
+    Timeline timeline = psdImage.Timeline;
 
-    var layerStateEffects11 = timeLine.Frames[1].LayerStates[layerIds[1]].StateEffects;
+    var layerStateEffects11 = timeline.Frames[1].LayerStates[1].StateEffects;
 
     layerStateEffects11.AddDropShadow();
     layerStateEffects11.AddGradientOverlay();
 
-    var layerStateEffects21 = timeLine.Frames[2].LayerStates[layerIds[1]].StateEffects;
+    var layerStateEffects21 = timeline.Frames[2].LayerStates[1].StateEffects;
     layerStateEffects21.AddStroke(FillType.Color);
     layerStateEffects21.IsVisible = false;
-
-    timeLine.ApplyTo(psdImage);
 
     psdImage.Save(outputFile);
 }
@@ -57,7 +55,7 @@ using (var psdImage = (PsdImage)Image.Load(sourceFile))
 * class [StrokeEffect](../../../aspose.psd.fileformats.psd.layers.layereffects/strokeeffect/)
 * enum [FillType](../../../aspose.psd.fileformats.psd.layers.fillsettings/filltype/)
 * class [LayerStateEffects](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.Animation](../../layerstateeffects/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.Animation](../../../aspose.psd.fileformats.psd.layers.animation/)
+* assembly [Aspose.PSD](../../../)
 
 

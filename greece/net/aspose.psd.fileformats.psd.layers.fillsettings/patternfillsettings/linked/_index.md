@@ -1,26 +1,27 @@
 ---
-title: PatternFillSettings.Linked
-second_title: Aspose.PSD για Αναφορά API .NET
-description: PatternFillSettings ιδιοκτησία. Λαμβάνει ή ορίζει μια τιμή που υποδεικνύει εάν αυτόPatternFillSettingsείναι συνδεδεμένο.
+title: "PatternFillSettings.Linked"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "PatternFillSettings ιδιότητα. Λαμβάνει ή ορίζει μια τιμή που υποδεικνύει εάν αυτό το PatternFillSettings είναι συνδεδεμένο"
 type: docs
-weight: 50
+weight: 70
 url: /el/net/aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings/linked/
 ---
+{{< psd/tize >}}
 ## PatternFillSettings.Linked property
 
-Λαμβάνει ή ορίζει μια τιμή που υποδεικνύει εάν αυτό[`PatternFillSettings`](../)είναι συνδεδεμένο.
+Λαμβάνει ή ορίζει μια τιμή που υποδεικνύει εάν αυτό το [`PatternFillSettings`](../) είναι συνδεδεμένο.
 
 ```csharp
 public bool Linked { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-`αληθής` αν συνδεεται? σε διαφορετική περίπτωση,`ψευδής` .
+`true` εάν είναι συνδεδεμένο· διαφορετικά, `false`.
 
-### Παραδείγματα
+## Παραδείγματα
 
-Ο ακόλουθος κώδικας δείχνει την υποστήριξη της επεξεργασίας του μοτίβου στρώματος γεμίσματος.
+Ο παρακάτω κώδικας δείχνει την υποστήριξη της επεξεργασίας του μοτίβου στρώσης γεμίσματος.
 
 ```csharp
 [C#]
@@ -78,7 +79,7 @@ using (im)
 ### Δείτε επίσης
 
 * class [PatternFillSettings](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../patternfillsettings/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../../)
 
 

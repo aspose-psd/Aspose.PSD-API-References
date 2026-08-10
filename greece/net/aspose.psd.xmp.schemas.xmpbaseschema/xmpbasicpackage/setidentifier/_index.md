@@ -1,11 +1,12 @@
 ---
-title: XmpBasicPackage.SetIdentifier
-second_title: Aspose.PSD για Αναφορά API .NET
-description: XmpBasicPackage μέθοδος. Ορίζει το αναγνωριστικό.
+title: "XmpBasicPackage.SetIdentifier"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "XmpBasicPackage μέθοδος. Ορίζει το αναγνωριστικό"
 type: docs
-weight: 50
+weight: 70
 url: /el/net/aspose.psd.xmp.schemas.xmpbaseschema/xmpbasicpackage/setidentifier/
 ---
+{{< psd/tize >}}
 ## XmpBasicPackage.SetIdentifier method
 
 Ορίζει το αναγνωριστικό.
@@ -16,12 +17,12 @@ public void SetIdentifier(string[] idenfifier)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| idenfifier | String[] | Το αναγνωριστικό. |
+| αναγνωριστικό | String[] | Το αναγνωριστικό. |
 
 ### Δείτε επίσης
 
 * class [XmpBasicPackage](../)
-* χώρος ονομάτων [Aspose.PSD.Xmp.Schemas.XmpBaseSchema](../../xmpbasicpackage/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpBaseSchema](../../../aspose.psd.xmp.schemas.xmpbaseschema/)
+* assembly [Aspose.PSD](../../../)
 
 

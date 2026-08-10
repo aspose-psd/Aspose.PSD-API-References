@@ -1,11 +1,12 @@
 ---
-title: LevelChannel.OutputShadowLevel
-second_title: Aspose.PSD για Αναφορά API .NET
-description: LevelChannel ιδιοκτησία. Λαμβάνει ή ορίζει το επίπεδο σκιάς εξόδου.
+title: "LevelChannel.OutputShadowLevel"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα LevelChannel. Λαμβάνει ή ορίζει το επίπεδο σκιάς εξόδου"
 type: docs
 weight: 50
 url: /el/net/aspose.psd.fileformats.psd.layers.layerresources/levelchannel/outputshadowlevel/
 ---
+{{< psd/tize >}}
 ## LevelChannel.OutputShadowLevel property
 
 Λαμβάνει ή ορίζει το επίπεδο σκιάς εξόδου.
@@ -14,20 +15,20 @@ url: /el/net/aspose.psd.fileformats.psd.layers.layerresources/levelchannel/outpu
 public short OutputShadowLevel { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
 Το επίπεδο σκιάς εξόδου.
 
 ### Εξαιρέσεις
 
-| εξαίρεση | κατάσταση |
+| εξαίρεση | συνθήκη |
 | --- | --- |
-| ArgumentOutOfRangeException | Το Output Shadow Level μπορεί να οριστεί μόνο στην περιοχή από 0 έως " + (this.OutputHighlightLevel - 2) |
+| ArgumentOutOfRangeException | Το επίπεδο σκιάς εξόδου μπορεί να οριστεί μόνο στο εύρος από 0 έως " + (this.OutputHighlightLevel - 2) |
 
 ### Δείτε επίσης
 
 * class [LevelChannel](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../levelchannel/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

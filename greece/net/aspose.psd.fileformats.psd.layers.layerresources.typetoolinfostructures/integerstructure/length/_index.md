@@ -1,14 +1,15 @@
 ---
-title: IntegerStructure.Length
-second_title: Aspose.PSD για Αναφορά API .NET
-description: IntegerStructure ιδιοκτησία. Λαμβάνει τοOSTypeStructure μήκος σε byte.
+title: "IntegerStructure.Length"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα IntegerStructure. Λαμβάνει το μήκος του OSTypeStructure σε bytes"
 type: docs
 weight: 30
 url: /el/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/integerstructure/length/
 ---
+{{< psd/tize >}}
 ## IntegerStructure.Length property
 
-Λαμβάνει το[`OSTypeStructure`](../../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/) μήκος σε byte.
+Λαμβάνει το μήκος του [`OSTypeStructure`](../../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/) σε bytes.
 
 ```csharp
 public override int Length { get; }
@@ -17,7 +18,7 @@ public override int Length { get; }
 ### Δείτε επίσης
 
 * class [IntegerStructure](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../integerstructure/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: Matrix.M32
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Matrix ιδιοκτησία. Παίρνει το στοιχείο μήτρας στην τρίτη σειρά πρώτη στήλη. Αντιπροσωπεύει τη μετάφραση κατά μήκος του άξονα Y.
+title: "Matrix.M32"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα Matrix. Λαμβάνει το στοιχείο του πίνακα στην τρίτη γραμμή, πρώτη στήλη. Αντιπροσωπεύει μετάθεση κατά τον άξονα Y."
 type: docs
 weight: 80
 url: /el/net/aspose.psd/matrix/m32/
 ---
+{{< psd/tize >}}
 ## Matrix.M32 property
 
-Παίρνει το στοιχείο μήτρας στην τρίτη σειρά πρώτη στήλη. Αντιπροσωπεύει τη μετάφραση κατά μήκος του άξονα Y.
+Λαμβάνει το στοιχείο της μήτρας στην τρίτη γραμμή, πρώτη στήλη. Αντιπροσωπεύει μετάθεση κατά τον άξονα Y.
 
 ```csharp
 public float M32 { get; }
@@ -17,7 +18,7 @@ public float M32 { get; }
 ### Δείτε επίσης
 
 * class [Matrix](../)
-* χώρος ονομάτων [Aspose.PSD](../../matrix/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

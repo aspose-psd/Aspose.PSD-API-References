@@ -1,14 +1,15 @@
 ---
-title: Class OffsetStructure
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures.OffsetStructure τάξη. Η δομή μετατόπισης.
+title: "Κλάση OffsetStructure"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures.OffsetStructure class. Η δομή μετατόπισης"
 type: docs
-weight: 3210
+weight: 3600
 url: /el/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/offsetstructure/
 ---
+{{< psd/tize >}}
 ## OffsetStructure class
 
-Η δομή μετατόπισης.
+Η δομή offset.
 
 ```csharp
 public sealed class OffsetStructure : OSTypeStructure
@@ -16,24 +17,24 @@ public sealed class OffsetStructure : OSTypeStructure
 
 ## Κατασκευαστές
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
-| [OffsetStructure](offsetstructure/)(ClassID, ClassID) | Αρχικοποιεί μια νέα παρουσία του`OffsetStructure` τάξη. |
+| [OffsetStructure](offsetstructure/)(ClassID, ClassID) | Αρχικοποιεί ένα νέο παράδειγμα της κλάσης `OffsetStructure`. |
 
 ## Ιδιότητες
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
-| [ClassID](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/offsetstructure/classid/) { get; set; } | Λαμβάνει ή ορίζει το αναγνωριστικό κλάσης. |
-| [ClassName](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/offsetstructure/classname/) { get; set; } | Λαμβάνει ή ορίζει το όνομα της τάξης. |
-| override [Key](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/offsetstructure/key/) { get; } | Λαμβάνει το κλειδί δομής. |
+| [ClassID](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/offsetstructure/classid/) { get; set; } | Λαμβάνει ή ορίζει το αναγνωριστικό της κλάσης. |
+| [ClassName](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/offsetstructure/classname/) { get; set; } | Λαμβάνει ή ορίζει το όνομα της κλάσης. |
+| override [Key](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/offsetstructure/key/) { get; } | Λαμβάνει το κλειδί της δομής. |
 | [KeyName](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/keyname/) { get; set; } | Λαμβάνει ή ορίζει το όνομα του κλειδιού. |
-| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/offsetstructure/length/) { get; } | Λαμβάνει το[`OSTypeStructure`](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/) μήκος σε byte. |
+| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/offsetstructure/length/) { get; } | Λαμβάνει το μήκος του [`OSTypeStructure`](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/) σε bytes. |
 | [Value](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/offsetstructure/value/) { get; set; } | Λαμβάνει ή ορίζει την ακέραια τιμή. |
 
 ## Μέθοδοι
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
 | virtual [GetHeaderLength](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/getheaderlength/)() | Λαμβάνει το μήκος της κεφαλίδας. |
 | [Save](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/save/)(StreamContainer) | Αποθηκεύει τη δομή στο καθορισμένο κοντέινερ ροής. |
@@ -41,14 +42,14 @@ public sealed class OffsetStructure : OSTypeStructure
 
 ## Πεδία
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
-| const [StructureKey](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/offsetstructure/structurekey/) | Προσδιορίζει το κλειδί δομής. |
+| const [StructureKey](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/offsetstructure/structurekey/) | Αναγνωρίζει το κλειδί της δομής. |
 
 ### Δείτε επίσης
 
 * class [OSTypeStructure](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
-* συνέλευση [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../)
 
 

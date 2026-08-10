@@ -1,22 +1,23 @@
 ---
-title: VogkResource.PsdVersion
-second_title: Aspose.PSD για Αναφορά API .NET
-description: VogkResource ιδιοκτησία. Λαμβάνει την ελάχιστη έκδοση psd που απαιτείται για τον πόρο του επιπέδου. Το 0 δεν υποδηλώνει περιορισμούς.
+title: "VogkResource.PsdVersion"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα VogkResource. Λαμβάνει την ελάχιστη έκδοση psd που απαιτείται για τον πόρο του στρώματος. 0 υποδεικνύει καμία περιορισμό"
 type: docs
 weight: 40
 url: /el/net/aspose.psd.fileformats.psd.layers.layerresources/vogkresource/psdversion/
 ---
+{{< psd/tize >}}
 ## VogkResource.PsdVersion property
 
-Λαμβάνει την ελάχιστη έκδοση psd που απαιτείται για τον πόρο του επιπέδου. Το 0 δεν υποδηλώνει περιορισμούς.
+Λαμβάνει την ελάχιστη έκδοση psd που απαιτείται για τον πόρο του επιπέδου. 0 υποδεικνύει ότι δεν υπάρχουν περιορισμοί.
 
 ```csharp
 public override int PsdVersion { get; }
 ```
 
-### Παραδείγματα
+## Παραδείγματα
 
-Το ακόλουθο παράδειγμα δείχνει την υποστήριξη του πόρου VogkResource.
+Το παρακάτω παράδειγμα δείχνει την υποστήριξη του πόρου VogkResource.
 
 ```csharp
 [C#]
@@ -51,7 +52,7 @@ using (var psdImage = (PsdImage)Image.Load(sourceFilePath))
 {
     var resource = GetVogkResource(psdImage);
 
-    // ΑΝΑΓΝΩΣΗ
+    // Ανάγνωση
     if (resource.ShapeOriginSettings.Length != 1 ||
         !resource.ShapeOriginSettings[0].IsShapeInvalidated ||
         resource.ShapeOriginSettings[0].OriginIndex != 0)
@@ -73,7 +74,7 @@ using (var psdImage = (PsdImage)Image.Load(sourceFilePath))
 ### Δείτε επίσης
 
 * class [VogkResource](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../vogkresource/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

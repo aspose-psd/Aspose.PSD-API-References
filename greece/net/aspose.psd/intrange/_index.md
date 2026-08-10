@@ -1,14 +1,15 @@
 ---
-title: Class IntRange
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Aspose.PSD.IntRange τάξη. Κλάση για την αναπαράσταση της ακολουθίας στοιχείων
+title: "Κλάση IntRange"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Κλάση Aspose.PSD.IntRange. Κλάση για την αναπαράσταση ακολουθίας στοιχείων"
 type: docs
-weight: 5010
+weight: 5500
 url: /el/net/aspose.psd/intrange/
 ---
+{{< psd/tize >}}
 ## IntRange class
 
-Κλάση για την αναπαράσταση της ακολουθίας στοιχείων
+Κλάση για την αναπαράσταση ακολουθίας στοιχείων.
 
 ```csharp
 public class IntRange
@@ -16,28 +17,28 @@ public class IntRange
 
 ## Κατασκευαστές
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
-| [IntRange](intrange/#constructor_2)(int[]) | Αρχικοποιεί μια νέα παρουσία του`IntRange` τάξη. |
-| [IntRange](intrange/#constructor)(int, int) | Αρχικοποιεί μια νέα παρουσία του`IntRange` τάξη. |
-| [IntRange](intrange/#constructor_1)(int, int, int) | Αρχικοποιεί μια νέα παρουσία του`IntRange` τάξη. |
+| [IntRange](intrange/#constructor_2)(int[]) | Αρχικοποιεί μια νέα παρουσία της κλάσης `IntRange`. |
+| [IntRange](intrange/#constructor)(int, int) | Αρχικοποιεί μια νέα παρουσία της κλάσης `IntRange`. |
+| [IntRange](intrange/#constructor_1)(int, int, int) | Αρχικοποιεί μια νέα παρουσία της κλάσης `IntRange`. |
 
 ## Ιδιότητες
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
 | [Range](../../aspose.psd/intrange/range/) { get; set; } | Λαμβάνει ή ορίζει το εύρος. |
 
 ## Μέθοδοι
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
-| [GetArrayOneItemFromIndex](../../aspose.psd/intrange/getarrayoneitemfromindex/)(int) | Επιστρέφει έναν πίνακα στοιχείων από καθορισμένο index |
-| static [GetRange](../../aspose.psd/intrange/getrange/)(int, int, int) | Λαμβάνει το εύρος μέτρησης των στοιχείων int ξεκινώντας από start |
+| [GetArrayOneItemFromIndex](../../aspose.psd/intrange/getarrayoneitemfromindex/)(int) | Επιστρέφει έναν πίνακα με ένα στοιχείο από το καθορισμένο δείκτη |
+| static [GetRange](../../aspose.psd/intrange/getrange/)(int, int, int) | Λαμβάνει το εύρος καταμέτρησης των στοιχείων int που ξεκινά από το start |
 
 ### Δείτε επίσης
 
-* χώρος ονομάτων [Aspose.PSD](../../aspose.psd/)
-* συνέλευση [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: Interface IImageExporterDescriptor
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Aspose.PSD.IImageExporterDescriptor διεπαφή. Αντιπροσωπεύει την περιγραφή του εξαγωγέα εικόνας. Ο περιγραφέας εξαγωγέα χρησιμοποιείται για να ξεπεραστεί η ανάγκη να περιέχει κάθε εξαγωγέα instance στη μνήμη και ζητήματα πολλαπλών νημάτων.
+title: "Διεπαφή IImageExporterDescriptor"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Aspose.PSD.IImageExporterDescriptor διεπαφή. Αντιπροσωπεύει τον περιγραφέα εξαγωγέα εικόνας. Ο περιγραφέας εξαγωγέα χρησιμοποιείται για να ξεπεραστεί η ανάγκη διατήρησης κάθε στιγμής εξαγωγέα στη μνήμη και τα προβλήματα πολυνηματικότητας."
 type: docs
-weight: 4440
+weight: 4910
 url: /el/net/aspose.psd/iimageexporterdescriptor/
 ---
+{{< psd/tize >}}
 ## IImageExporterDescriptor interface
 
-Αντιπροσωπεύει την περιγραφή του εξαγωγέα εικόνας. Ο περιγραφέας εξαγωγέα χρησιμοποιείται για να ξεπεραστεί η ανάγκη να περιέχει κάθε εξαγωγέα instance στη μνήμη και ζητήματα πολλαπλών νημάτων.
+Αντιπροσωπεύει τον περιγραφέα εξαγωγέα εικόνας. Ο περιγραφέας εξαγωγέα χρησιμοποιείται για να ξεπεραστεί η ανάγκη διατήρησης κάθε παρουσίας εξαγωγέα στη μνήμη και τα προβλήματα πολυνηματικότητας.
 
 ```csharp
 public interface IImageExporterDescriptor : IImageDescriptor
@@ -16,15 +17,15 @@ public interface IImageExporterDescriptor : IImageDescriptor
 
 ## Μέθοδοι
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
-| [CanExport](../../aspose.psd/iimageexporterdescriptor/canexport/)(Image, ImageOptionsBase) | Καθορίζει εάν ο εξαγωγέας εικόνας μπορεί να εξαγάγει την καθορισμένη εικόνα στην καθορισμένη μορφή εικόνας που καθορίζεται από τις επιλογές αποθήκευσης. |
+| [CanExport](../../aspose.psd/iimageexporterdescriptor/canexport/)(Image, ImageOptionsBase) | Καθορίζει εάν ο εξαγωγέας εικόνας μπορεί να εξάγει την καθορισμένη εικόνα στην καθορισμένη μορφή εικόνας που ορίζεται από τις επιλογές αποθήκευσης. |
 | [CreateInstance](../../aspose.psd/iimageexporterdescriptor/createinstance/)() | Δημιουργεί μια νέα παρουσία εξαγωγέα. |
 
 ### Δείτε επίσης
 
 * interface [IImageDescriptor](../iimagedescriptor/)
-* χώρος ονομάτων [Aspose.PSD](../../aspose.psd/)
-* συνέλευση [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

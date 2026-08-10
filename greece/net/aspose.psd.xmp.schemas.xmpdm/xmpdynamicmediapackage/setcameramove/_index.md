@@ -1,14 +1,15 @@
 ---
-title: XmpDynamicMediaPackage.SetCameraMove
-second_title: Aspose.PSD για Αναφορά API .NET
-description: XmpDynamicMediaPackage μέθοδος. Ρυθμίζει την κίνηση της κάμερας.
+title: "XmpDynamicMediaPackage.SetCameraMove"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "XmpDynamicMediaPackage μέθοδος. Ορίζει την κίνηση της κάμερας"
 type: docs
 weight: 130
 url: /el/net/aspose.psd.xmp.schemas.xmpdm/xmpdynamicmediapackage/setcameramove/
 ---
+{{< psd/tize >}}
 ## XmpDynamicMediaPackage.SetCameraMove method
 
-Ρυθμίζει την κίνηση της κάμερας.
+Ορίζει την κίνηση της κάμερας.
 
 ```csharp
 public void SetCameraMove(string cameraMove)
@@ -16,12 +17,12 @@ public void SetCameraMove(string cameraMove)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| cameraMove | String | Η κάμερα κινείται. |
+| cameraMove | String | Η κίνηση της κάμερας. |
 
 ### Δείτε επίσης
 
 * class [XmpDynamicMediaPackage](../)
-* χώρος ονομάτων [Aspose.PSD.Xmp.Schemas.XmpDm](../../xmpdynamicmediapackage/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpDm](../../../aspose.psd.xmp.schemas.xmpdm/)
+* assembly [Aspose.PSD](../../../)
 
 

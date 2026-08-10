@@ -1,11 +1,12 @@
 ---
-title: RectangleProjectedShape.Transform
-second_title: Aspose.PSD για Αναφορά API .NET
-description: RectangleProjectedShape μέθοδος. Εφαρμόζει τον καθορισμένο μετασχηματισμό στο σχήμα.
+title: "RectangleProjectedShape.Transform"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Μέθοδος RectangleProjectedShape. Εφαρμόζει τον καθορισμένο μετασχηματισμό στο σχήμα."
 type: docs
 weight: 120
 url: /el/net/aspose.psd.shapes/rectangleprojectedshape/transform/
 ---
+{{< psd/tize >}}
 ## RectangleProjectedShape.Transform method
 
 Εφαρμόζει τον καθορισμένο μετασχηματισμό στο σχήμα.
@@ -16,13 +17,13 @@ public override void Transform(Matrix transform)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| transform | Matrix | Ο μετασχηματισμός για εφαρμογή. |
+| transform | Matrix | Ο μετασχηματισμός που θα εφαρμοστεί. |
 
 ### Δείτε επίσης
 
 * class [Matrix](../../../aspose.psd/matrix/)
 * class [RectangleProjectedShape](../)
-* χώρος ονομάτων [Aspose.PSD.Shapes](../../rectangleprojectedshape/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 

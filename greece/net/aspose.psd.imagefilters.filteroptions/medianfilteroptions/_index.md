@@ -1,14 +1,15 @@
 ---
-title: Class MedianFilterOptions
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Aspose.PSD.ImageFilters.FilterOptions.MedianFilterOptions τάξη. Μέσο φίλτρο
+title: "Κλάση MedianFilterOptions"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Aspose.PSD.ImageFilters.FilterOptions.MedianFilterOptions κλάση. Διαμεσικό φίλτρο"
 type: docs
-weight: 4720
+weight: 5190
 url: /el/net/aspose.psd.imagefilters.filteroptions/medianfilteroptions/
 ---
+{{< psd/tize >}}
 ## MedianFilterOptions class
 
-Μέσο φίλτρο
+Φίλτρο διαμέσου
 
 ```csharp
 public class MedianFilterOptions : FilterOptionsBase
@@ -16,20 +17,20 @@ public class MedianFilterOptions : FilterOptionsBase
 
 ## Κατασκευαστές
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
-| [MedianFilterOptions](medianfilteroptions/)(int) | Αρχικοποιεί μια νέα παρουσία του`MedianFilterOptions` τάξη. |
+| [MedianFilterOptions](medianfilteroptions/)(int) | Αρχικοποιεί ένα νέο αντικείμενο της κλάσης `MedianFilterOptions`. |
 
 ## Ιδιότητες
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
 | [Size](../../aspose.psd.imagefilters.filteroptions/medianfilteroptions/size/) { get; set; } | Λαμβάνει ή ορίζει το μέγεθος. |
 
 ### Δείτε επίσης
 
 * class [FilterOptionsBase](../filteroptionsbase/)
-* χώρος ονομάτων [Aspose.PSD.ImageFilters.FilterOptions](../../aspose.psd.imagefilters.filteroptions/)
-* συνέλευση [Aspose.PSD](../../)
+* namespace [Aspose.PSD.ImageFilters.FilterOptions](../../aspose.psd.imagefilters.filteroptions/)
+* assembly [Aspose.PSD](../../)
 
 

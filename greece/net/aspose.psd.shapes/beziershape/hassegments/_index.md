@@ -1,27 +1,28 @@
 ---
-title: BezierShape.HasSegments
-second_title: Aspose.PSD για Αναφορά API .NET
-description: BezierShape ιδιοκτησία. Λαμβάνει μια τιμή που υποδεικνύει αν το σχήμα έχει τμήματα.
+title: "BezierShape.HasSegments"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "BezierShape ιδιότητα. Λαμβάνει μια τιμή που υποδεικνύει εάν το σχήμα έχει τμήματα"
 type: docs
 weight: 50
 url: /el/net/aspose.psd.shapes/beziershape/hassegments/
 ---
+{{< psd/tize >}}
 ## BezierShape.HasSegments property
 
-Λαμβάνει μια τιμή που υποδεικνύει αν το σχήμα έχει τμήματα.
+Λαμβάνει μια τιμή που υποδεικνύει εάν το σχήμα έχει τμήματα.
 
 ```csharp
 public override bool HasSegments { get; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-`Αληθής` αν το σχήμα έχει τμήματα? σε διαφορετική περίπτωση,`ψευδής`.
+`True` εάν το σχήμα έχει τμήματα· διαφορετικά, `false`.
 
 ### Δείτε επίσης
 
 * class [BezierShape](../)
-* χώρος ονομάτων [Aspose.PSD.Shapes](../../beziershape/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 

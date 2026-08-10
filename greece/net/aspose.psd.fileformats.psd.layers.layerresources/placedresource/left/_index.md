@@ -1,27 +1,28 @@
 ---
-title: PlacedResource.Left
-second_title: Aspose.PSD για Αναφορά API .NET
-description: PlacedResource ιδιοκτησία. Λαμβάνει ή ορίζει την αριστερή θέση του τοποθετημένου επιπέδου στο αρχείο PSD.
+title: "PlacedResource.Left"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα PlacedResource. Λαμβάνει ή ορίζει την αριστερή θέση του τοποθετημένου στρώματος στο αρχείο PSD"
 type: docs
 weight: 80
 url: /el/net/aspose.psd.fileformats.psd.layers.layerresources/placedresource/left/
 ---
+{{< psd/tize >}}
 ## PlacedResource.Left property
 
-Λαμβάνει ή ορίζει την αριστερή θέση του τοποθετημένου επιπέδου στο αρχείο PSD.
+Λαμβάνει ή ορίζει τη θέση αριστερά του τοποθετημένου στρώματος στο αρχείο PSD.
 
 ```csharp
 public double Left { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
 Η αριστερή θέση του τοποθετημένου στρώματος.
 
 ### Δείτε επίσης
 
 * class [PlacedResource](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../placedresource/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

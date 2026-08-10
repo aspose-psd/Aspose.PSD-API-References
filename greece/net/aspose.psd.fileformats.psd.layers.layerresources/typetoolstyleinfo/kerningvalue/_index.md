@@ -1,27 +1,28 @@
 ---
-title: TypeToolStyleInfo.KerningValue
-second_title: Aspose.PSD για Αναφορά API .NET
-description: TypeToolStyleInfo ιδιοκτησία. Λαμβάνει ή ορίζει την τιμή πυρήνα.
+title: "TypeToolStyleInfo.KerningValue"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα TypeToolStyleInfo. Λαμβάνει ή ορίζει την τιμή του kerning"
 type: docs
 weight: 50
 url: /el/net/aspose.psd.fileformats.psd.layers.layerresources/typetoolstyleinfo/kerningvalue/
 ---
+{{< psd/tize >}}
 ## TypeToolStyleInfo.KerningValue property
 
-Λαμβάνει ή ορίζει την τιμή πυρήνα.
+Λαμβάνει ή ορίζει την τιμή στοίχισης.
 
 ```csharp
 public int KerningValue { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Η τιμή πυρήνα.
+Η τιμή του kerning.
 
 ### Δείτε επίσης
 
 * class [TypeToolStyleInfo](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../typetoolstyleinfo/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

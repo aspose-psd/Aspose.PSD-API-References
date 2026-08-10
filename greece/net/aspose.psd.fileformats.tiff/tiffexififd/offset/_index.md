@@ -1,33 +1,34 @@
 ---
-title: TiffExifIfd.Offset
-second_title: Aspose.PSD για Αναφορά API .NET
-description: TiffExifIfd ιδιοκτησία. Λαμβάνει ή ορίζει τον δείκτη σε EXIF IFD.
+title: "TiffExifIfd.Offset"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "TiffExifIfd property. Λαμβάνει ή ορίζει τον δείκτη στο EXIF IFD"
 type: docs
 weight: 30
 url: /el/net/aspose.psd.fileformats.tiff/tiffexififd/offset/
 ---
+{{< psd/tize >}}
 ## TiffExifIfd.Offset property
 
-Λαμβάνει ή ορίζει τον δείκτη σε EXIF IFD.
+Λαμβάνει ή ορίζει τον δείκτη στο EXIF IFD.
 
 ```csharp
 public uint Offset { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
 Ο δείκτης στο EXIF IFD.
 
 ### Εξαιρέσεις
 
-| εξαίρεση | κατάσταση |
+| εξαίρεση | συνθήκη |
 | --- | --- |
-| [TiffImageException](../../../aspose.psd.coreexceptions.imageformats/tiffimageexception/) | Δεν υπάρχει δείκτης για το EXIF IFD. |
+| [TiffImageException](../../../aspose.psd.coreexceptions.imageformats/tiffimageexception/) | Δεν υπάρχει δείκτης στο EXIF IFD. |
 
 ### Δείτε επίσης
 
 * class [TiffExifIfd](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Tiff](../../tiffexififd/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff](../../../aspose.psd.fileformats.tiff/)
+* assembly [Aspose.PSD](../../../)
 
 

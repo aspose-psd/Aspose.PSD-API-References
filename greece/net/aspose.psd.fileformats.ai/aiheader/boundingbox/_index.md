@@ -1,11 +1,12 @@
 ---
-title: AiHeader.BoundingBox
-second_title: Aspose.PSD για Αναφορά API .NET
-description: AiHeader ιδιοκτησία. Λαμβάνει ή ορίζει το πλαίσιο οριοθέτησης.
+title: "AiHeader.BoundingBox"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "AiHeader ιδιότητα. Λαμβάνει ή ορίζει το πλαίσιο περιγράμματος"
 type: docs
 weight: 10
 url: /el/net/aspose.psd.fileformats.ai/aiheader/boundingbox/
 ---
+{{< psd/tize >}}
 ## AiHeader.BoundingBox property
 
 Λαμβάνει ή ορίζει το πλαίσιο οριοθέτησης.
@@ -14,15 +15,15 @@ url: /el/net/aspose.psd.fileformats.ai/aiheader/boundingbox/
 public Rectangle BoundingBox { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Το πλαίσιο οριοθέτησης.
+Το πλαίσιο περιγράμματος.
 
 ### Δείτε επίσης
 
 * struct [Rectangle](../../../aspose.psd/rectangle/)
 * class [AiHeader](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Ai](../../aiheader/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: GuideResource.Location
-second_title: Aspose.PSD για Αναφορά API .NET
-description: GuideResource ιδιοκτησία. Λαμβάνει ή ορίζει τη θέση του οδηγού στις συντεταγμένες του εγγράφου.
+title: "GuideResource.Location"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "GuideResource property. Λαμβάνει ή ορίζει τη θέση του οδηγού σε συντεταγμένες εγγράφου"
 type: docs
 weight: 30
 url: /el/net/aspose.psd.fileformats.psd.resources/guideresource/location/
 ---
+{{< psd/tize >}}
 ## GuideResource.Location property
 
-Λαμβάνει ή ορίζει τη θέση του οδηγού στις συντεταγμένες του εγγράφου.
+Λαμβάνει ή ορίζει τη θέση του οδηγού σε συντεταγμένες εγγράφου.
 
 ```csharp
 public int Location { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Η τοποθεσία του οδηγού.
+Η θέση του οδηγού.
 
 ### Δείτε επίσης
 
 * class [GuideResource](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Resources](../../guideresource/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

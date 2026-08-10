@@ -1,28 +1,29 @@
 ---
-title: Font.Unit
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Font ιδιοκτησία. Παίρνει τη μονάδα μέτρησης για αυτόFont .
+title: "Font.Unit"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα Font. Λαμβάνει τη μονάδα μέτρησης για αυτό το Font."
 type: docs
 weight: 100
 url: /el/net/aspose.psd/font/unit/
 ---
+{{< psd/tize >}}
 ## Font.Unit property
 
-Παίρνει τη μονάδα μέτρησης για αυτό[`Font`](../) .
+Λαμβάνει τη μονάδα μέτρησης για αυτό το [`Font`](../).
 
 ```csharp
 public GraphicsUnit Unit { get; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-ΕΝΑ[`GraphicsUnit`](../../graphicsunit/) που αντιπροσωπεύει τη μονάδα μέτρησης για αυτό[`Font`](../).
+Ένα [`GraphicsUnit`](../../graphicsunit/) που αντιπροσωπεύει τη μονάδα μέτρησης για αυτό το [`Font`](../).
 
 ### Δείτε επίσης
 
 * enum [GraphicsUnit](../../graphicsunit/)
 * class [Font](../)
-* χώρος ονομάτων [Aspose.PSD](../../font/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

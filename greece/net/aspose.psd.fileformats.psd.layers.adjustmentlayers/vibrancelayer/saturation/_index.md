@@ -1,32 +1,33 @@
 ---
-title: VibranceLayer.Saturation
-second_title: Aspose.PSD για Αναφορά API .NET
-description: VibranceLayer ιδιοκτησία. Λαμβάνει ή ρυθμίζει τον κορεσμό.
+title: "VibranceLayer.Saturation"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα VibranceLayer. Λαμβάνει ή ορίζει τον κορεσμό"
 type: docs
 weight: 10
 url: /el/net/aspose.psd.fileformats.psd.layers.adjustmentlayers/vibrancelayer/saturation/
 ---
+{{< psd/tize >}}
 ## VibranceLayer.Saturation property
 
-Λαμβάνει ή ρυθμίζει τον κορεσμό.
+Αποκτά ή ορίζει τον κορεσμό.
 
 ```csharp
 public int Saturation { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
 Ο κορεσμός.
 
 ### Εξαιρέσεις
 
-| εξαίρεση | κατάσταση |
+| εξαίρεση | συνθήκη |
 | --- | --- |
-| ArgumentOutOfRangeException | Ο κορεσμός πρέπει να κυμαίνεται από -100 έως +100 |
+| ArgumentOutOfRangeException | Ο κορεσμός πρέπει να είναι στο εύρος από -100 έως +100 |
 
-### Παραδείγματα
+## Παραδείγματα
 
-Το ακόλουθο παράδειγμα κώδικα δείχνει την υποστήριξη του επιπέδου VibranceLayer και τη δυνατότητα επεξεργασίας αυτής της προσαρμογής.
+Το παρακάτω παράδειγμα κώδικα δείχνει την υποστήριξη της στρώσης VibranceLayer και τη δυνατότητα επεξεργασίας αυτής της ρύθμισης.
 
 ```csharp
 [C#]
@@ -37,7 +38,7 @@ string outputFileNamePng = "out_VibranceLayer.png";
 
 using (PsdImage image = (PsdImage) Image.Load(sourceFileName))
 {
-    // Δημιουργία νέου VibranceLayer
+    // Δημιουργία μιας νέας VibranceLayer
     VibranceLayer vibranceLayer = image.AddVibranceAdjustmentLayer();
     vibranceLayer.Vibrance = 50;
     vibranceLayer.Saturation = 100;
@@ -50,7 +51,7 @@ using (PsdImage image = (PsdImage) Image.Load(sourceFileName))
 ### Δείτε επίσης
 
 * class [VibranceLayer](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../vibrancelayer/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/)
+* assembly [Aspose.PSD](../../../)
 
 

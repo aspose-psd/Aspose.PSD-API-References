@@ -1,20 +1,21 @@
 ---
-title: GaussianBlurSmartFilter.Radius
-second_title: Aspose.PSD για Αναφορά API .NET
-description: GaussianBlurSmartFilter ιδιοκτησία. Λαμβάνει ή ορίζει την ακτίνα του έξυπνου φίλτρου Gauss.
+title: "GaussianBlurSmartFilter.Radius"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "GaussianBlurSmartFilter property. Λαμβάνει ή ορίζει την ακτίνα του Gaussian έξυπνου φίλτρου"
 type: docs
 weight: 40
 url: /el/net/aspose.psd.fileformats.psd.layers.smartfilters/gaussianblursmartfilter/radius/
 ---
+{{< psd/tize >}}
 ## GaussianBlurSmartFilter.Radius property
 
-Λαμβάνει ή ορίζει την ακτίνα του έξυπνου φίλτρου Gauss.
+Λαμβάνει ή ορίζει την ακτίνα του gaussian έξυπνου φίλτρου.
 
 ```csharp
 public double Radius { get; set; }
 ```
 
-### Παραδείγματα
+## Παραδείγματα
 
 Αυτό το παράδειγμα δείχνει την υποστήριξη της διεπαφής έξυπνων φίλτρων.
 
@@ -36,7 +37,7 @@ using (var image = (PsdImage)Image.Load(sourceFilte))
 {
     SmartObjectLayer smartObj = (SmartObjectLayer)image.Layers[1];
 
-    // Επεξεργασία έξυπνων φίλτρων
+    // επεξεργασία έξυπνων φίλτρων
     GaussianBlurSmartFilter gaussianBlur = (GaussianBlurSmartFilter)smartObj.SmartFilters.Filters[0];
 
     // έλεγχος τιμών φίλτρου
@@ -89,7 +90,7 @@ using (var image = (PsdImage)Image.Load(outputPsd))
 ### Δείτε επίσης
 
 * class [GaussianBlurSmartFilter](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.SmartFilters](../../gaussianblursmartfilter/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.SmartFilters](../../../aspose.psd.fileformats.psd.layers.smartfilters/)
+* assembly [Aspose.PSD](../../../)
 
 

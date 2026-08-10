@@ -1,27 +1,28 @@
 ---
-title: PixelDataFormat.BitsPerPixel
-second_title: Aspose.PSD για Αναφορά API .NET
-description: PixelDataFormat ιδιοκτησία. Λαμβάνει τα bit ανά pixel.
+title: "PixelDataFormat.BitsPerPixel"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα PixelDataFormat. Λαμβάνει τα bits ανά pixel"
 type: docs
 weight: 300
 url: /el/net/aspose.psd/pixeldataformat/bitsperpixel/
 ---
+{{< psd/tize >}}
 ## PixelDataFormat.BitsPerPixel property
 
-Λαμβάνει τα bit ανά pixel.
+Λαμβάνει τα bits ανά pixel.
 
 ```csharp
 public int BitsPerPixel { get; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Τα bit ανά pixel.
+Τα bits ανά pixel.
 
 ### Δείτε επίσης
 
 * class [PixelDataFormat](../)
-* χώρος ονομάτων [Aspose.PSD](../../pixeldataformat/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,28 +1,29 @@
 ---
-title: AiImage.FinalizeSection
-second_title: Aspose.PSD για Αναφορά API .NET
-description: AiImage ιδιοκτησία. Λαμβάνει την ενότητα οριστικοποίησης.
+title: "AiImage.FinalizeSection"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "AiImage property. Λαμβάνει την ενότητα ολοκλήρωσης"
 type: docs
-weight: 50
+weight: 60
 url: /el/net/aspose.psd.fileformats.ai/aiimage/finalizesection/
 ---
+{{< psd/tize >}}
 ## AiImage.FinalizeSection property
 
-Λαμβάνει την ενότητα οριστικοποίησης.
+Λαμβάνει την ενότητα ολοκλήρωσης.
 
 ```csharp
 public AiFinalizeSection FinalizeSection { get; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Το τελικό τμήμα.
+Η ενότητα ολοκλήρωσης.
 
 ### Δείτε επίσης
 
 * class [AiFinalizeSection](../../aifinalizesection/)
 * class [AiImage](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Ai](../../aiimage/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

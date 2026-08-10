@@ -1,27 +1,28 @@
 ---
-title: LayerBlendingRangesData.Length
-second_title: Aspose.PSD για Αναφορά API .NET
-description: LayerBlendingRangesData ιδιοκτησία. Λαμβάνει το μήκος των δεδομένων σειρών ανάμειξης επιπέδων σε byte.
+title: "LayerBlendingRangesData.Length"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα LayerBlendingRangesData. Λαμβάνει το μήκος των δεδομένων περιοχών ανάμειξης στρώματος σε byte"
 type: docs
 weight: 40
 url: /el/net/aspose.psd.fileformats.psd.layers/layerblendingrangesdata/length/
 ---
+{{< psd/tize >}}
 ## LayerBlendingRangesData.Length property
 
-Λαμβάνει το μήκος των δεδομένων σειρών ανάμειξης επιπέδων σε byte.
+Λαμβάνει το μήκος των δεδομένων εύρους ανάμειξης στρώσης σε bytes.
 
 ```csharp
 public int Length { get; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Το μήκος των δεδομένων σειρών ανάμειξης επιπέδων.
+Το μήκος των δεδομένων περιοχών ανάμειξης στρώματος.
 
 ### Δείτε επίσης
 
 * class [LayerBlendingRangesData](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers](../../layerblendingrangesdata/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

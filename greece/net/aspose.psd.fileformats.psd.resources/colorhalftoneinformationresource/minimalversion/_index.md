@@ -1,27 +1,28 @@
 ---
-title: ColorHalftoneInformationResource.MinimalVersion
-second_title: Aspose.PSD για Αναφορά API .NET
-description: ColorHalftoneInformationResource ιδιοκτησία. Αποκτά την ελάχιστη απαιτούμενη έκδοση PSD.
+title: "ColorHalftoneInformationResource.MinimalVersion"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "ColorHalftoneInformationResource ιδιότητα. Λαμβάνει την ελάχιστη απαιτούμενη έκδοση PSD"
 type: docs
 weight: 40
 url: /el/net/aspose.psd.fileformats.psd.resources/colorhalftoneinformationresource/minimalversion/
 ---
+{{< psd/tize >}}
 ## ColorHalftoneInformationResource.MinimalVersion property
 
-Αποκτά την ελάχιστη απαιτούμενη έκδοση PSD.
+Λαμβάνει την ελάχιστη απαιτούμενη έκδοση PSD.
 
 ```csharp
 public override int MinimalVersion { get; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Η minimal έκδοση PSD.
+Η ελάχιστη έκδοση PSD.
 
 ### Δείτε επίσης
 
 * class [ColorHalftoneInformationResource](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Resources](../../colorhalftoneinformationresource/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

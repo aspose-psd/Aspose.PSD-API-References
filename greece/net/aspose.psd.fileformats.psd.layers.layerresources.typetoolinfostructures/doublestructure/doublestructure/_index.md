@@ -1,14 +1,15 @@
 ---
-title: DoubleStructure.DoubleStructure
-second_title: Aspose.PSD για Αναφορά API .NET
-description: DoubleStructure κατασκευαστής. Αρχικοποιεί μια νέα παρουσία τουDoubleStructure τάξη.
+title: "DoubleStructure.DoubleStructure"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "DoubleStructure constructor. Δημιουργεί ένα νέο στιγμιότυπο της κλάσης DoubleStructure"
 type: docs
 weight: 10
 url: /el/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/doublestructure/doublestructure/
 ---
+{{< psd/tize >}}
 ## DoubleStructure constructor
 
-Αρχικοποιεί μια νέα παρουσία του[`DoubleStructure`](../) τάξη.
+Αρχικοποιεί μια νέα παρουσία της κλάσης [`DoubleStructure`](../).
 
 ```csharp
 public DoubleStructure(ClassID keyName)
@@ -22,7 +23,7 @@ public DoubleStructure(ClassID keyName)
 
 * class [ClassID](../../../aspose.psd.fileformats.psd.layers.layerresources/classid/)
 * class [DoubleStructure](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../doublestructure/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 

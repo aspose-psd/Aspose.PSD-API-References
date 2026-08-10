@@ -1,11 +1,12 @@
 ---
-title: TiffOptions.Xposition
-second_title: Aspose.PSD για Αναφορά API .NET
-description: TiffOptions ιδιοκτησία. Λαμβάνει ή ορίζει τη θέση x.
+title: "TiffOptions.Xposition"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα TiffOptions. Λαμβάνει ή ορίζει τη θέση x"
 type: docs
-weight: 620
+weight: 630
 url: /el/net/aspose.psd.imageoptions/tiffoptions/xposition/
 ---
+{{< psd/tize >}}
 ## TiffOptions.Xposition property
 
 Λαμβάνει ή ορίζει τη θέση x.
@@ -14,7 +15,7 @@ url: /el/net/aspose.psd.imageoptions/tiffoptions/xposition/
 public TiffRational Xposition { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
 Η θέση x.
 
@@ -22,7 +23,7 @@ public TiffRational Xposition { get; set; }
 
 * class [TiffRational](../../../aspose.psd.fileformats.tiff/tiffrational/)
 * class [TiffOptions](../)
-* χώρος ονομάτων [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: Timecode.TimeValue
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Timecode ιδιοκτησία. Λαμβάνει ή ορίζει την τιμή χρόνου στην καθορισμένη μορφή.
+title: "Timecode.TimeValue"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα Timecode. Λαμβάνει ή ορίζει την τιμή χρόνου στην καθορισμένη μορφή"
 type: docs
 weight: 30
 url: /el/net/aspose.psd.xmp.schemas.xmpdm/timecode/timevalue/
 ---
+{{< psd/tize >}}
 ## Timecode.TimeValue property
 
 Λαμβάνει ή ορίζει την τιμή χρόνου στην καθορισμένη μορφή.
@@ -14,14 +15,14 @@ url: /el/net/aspose.psd.xmp.schemas.xmpdm/timecode/timevalue/
 public string TimeValue { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
 Η τιμή χρόνου στην καθορισμένη μορφή.
 
 ### Δείτε επίσης
 
 * class [Timecode](../)
-* χώρος ονομάτων [Aspose.PSD.Xmp.Schemas.XmpDm](../../timecode/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpDm](../../../aspose.psd.xmp.schemas.xmpdm/)
+* assembly [Aspose.PSD](../../../)
 
 

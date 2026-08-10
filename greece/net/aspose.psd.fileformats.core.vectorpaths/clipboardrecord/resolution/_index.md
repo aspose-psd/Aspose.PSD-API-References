@@ -1,11 +1,12 @@
 ---
-title: ClipboardRecord.Resolution
-second_title: Aspose.PSD για Αναφορά API .NET
-description: ClipboardRecord ιδιοκτησία. Λαμβάνει ή ορίζει την ανάλυση.
+title: "ClipboardRecord.Resolution"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα ClipboardRecord. Λαμβάνει ή ορίζει την ανάλυση"
 type: docs
 weight: 30
 url: /el/net/aspose.psd.fileformats.core.vectorpaths/clipboardrecord/resolution/
 ---
+{{< psd/tize >}}
 ## ClipboardRecord.Resolution property
 
 Λαμβάνει ή ορίζει την ανάλυση.
@@ -14,14 +15,14 @@ url: /el/net/aspose.psd.fileformats.core.vectorpaths/clipboardrecord/resolution/
 public float Resolution { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
 Η ανάλυση.
 
 ### Δείτε επίσης
 
 * class [ClipboardRecord](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Core.VectorPaths](../../clipboardrecord/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../../)
 
 

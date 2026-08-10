@@ -1,14 +1,15 @@
 ---
-title: Class StringFormatExtensions
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Aspose.PSD.Extensions.StringFormatExtensions τάξη. Περιέχει μεθόδους επέκτασης για τοStringFormat τάξη.
+title: "Κλάση StringFormatExtensions"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Aspose.PSD.Extensions.StringFormatExtensions κλάση. Περιέχει μεθόδους επέκτασης για την κλάση StringFormat"
 type: docs
-weight: 1190
+weight: 1200
 url: /el/net/aspose.psd.extensions/stringformatextensions/
 ---
+{{< psd/tize >}}
 ## StringFormatExtensions class
 
-Περιέχει μεθόδους επέκτασης για το[`StringFormat`](../../aspose.psd/stringformat/) τάξη.
+Περιέχει μεθόδους επέκτασης για την κλάση [`StringFormat`](../../aspose.psd/stringformat/).
 
 ```csharp
 public static class StringFormatExtensions
@@ -16,13 +17,13 @@ public static class StringFormatExtensions
 
 ## Μέθοδοι
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
-| static [ToGdiStringFormat](../../aspose.psd.extensions/stringformatextensions/togdistringformat/)(StringFormat) | Μετατρέπει το[`StringFormat`](../../aspose.psd/stringformat/) στοStringFormat . |
+| static [ToGdiStringFormat](../../aspose.psd.extensions/stringformatextensions/togdistringformat/)(StringFormat) | Μετατρέπει το [`StringFormat`](../../aspose.psd/stringformat/) σε StringFormat. |
 
 ### Δείτε επίσης
 
-* χώρος ονομάτων [Aspose.PSD.Extensions](../../aspose.psd.extensions/)
-* συνέλευση [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Extensions](../../aspose.psd.extensions/)
+* assembly [Aspose.PSD](../../)
 
 

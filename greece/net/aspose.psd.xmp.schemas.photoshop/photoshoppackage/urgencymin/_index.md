@@ -1,14 +1,15 @@
 ---
-title: PhotoshopPackage.UrgencyMin
-second_title: Aspose.PSD για Αναφορά API .NET
-description: PhotoshopPackage πεδίο. Ελάχιστη τιμή επείγουσας ανάγκης.
+title: "PhotoshopPackage.UrgencyMin"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "PhotoshopPackage πεδίο. Ελάχιστη τιμή επείγουσας"
 type: docs
 weight: 220
 url: /el/net/aspose.psd.xmp.schemas.photoshop/photoshoppackage/urgencymin/
 ---
+{{< psd/tize >}}
 ## PhotoshopPackage.UrgencyMin field
 
-Ελάχιστη τιμή επείγουσας ανάγκης.
+Ελάχιστη τιμή επείγουσας.
 
 ```csharp
 public const int UrgencyMin;
@@ -17,7 +18,7 @@ public const int UrgencyMin;
 ### Δείτε επίσης
 
 * class [PhotoshopPackage](../)
-* χώρος ονομάτων [Aspose.PSD.Xmp.Schemas.Photoshop](../../photoshoppackage/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.Photoshop](../../../aspose.psd.xmp.schemas.photoshop/)
+* assembly [Aspose.PSD](../../../)
 
 

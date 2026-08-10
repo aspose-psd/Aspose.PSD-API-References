@@ -1,14 +1,15 @@
 ---
-title: StreamContainer.op_Explicit
-second_title: Aspose.PSD για Αναφορά API .NET
-description: StreamContainer μέθοδος. Εκτελεί ρητή μετατροπή απόStreamContainer προς τηνStream .
+title: "StreamContainer.op_Explicit"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "StreamContainer μέθοδος. Εκτελεί μια ρητή μετατροπή από StreamContainer σε Stream"
 type: docs
 weight: 210
 url: /el/net/aspose.psd/streamcontainer/op_explicit/
 ---
+{{< psd/tize >}}
 ## StreamContainer Explicit operator
 
-Εκτελεί ρητή μετατροπή από[`StreamContainer`](../) προς τηνStream .
+Εκτελεί μια ρητή μετατροπή από [`StreamContainer`](../) σε Stream.
 
 ```csharp
 public static explicit operator Stream(StreamContainer streamContainer)
@@ -16,16 +17,16 @@ public static explicit operator Stream(StreamContainer streamContainer)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| streamContainer | StreamContainer | Το δοχείο του ρέματος. |
+| streamContainer | StreamContainer | Το container ροής. |
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
 Το αποτέλεσμα της μετατροπής.
 
 ### Δείτε επίσης
 
 * class [StreamContainer](../)
-* χώρος ονομάτων [Aspose.PSD](../../streamcontainer/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

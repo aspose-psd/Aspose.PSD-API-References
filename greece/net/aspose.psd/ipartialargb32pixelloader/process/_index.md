@@ -1,14 +1,15 @@
 ---
-title: IPartialArgb32PixelLoader.Process
-second_title: Aspose.PSD για Αναφορά API .NET
-description: IPartialArgb32PixelLoader μέθοδος. Επεξεργάζεται τα φορτωμένα pixel.
+title: "IPartialArgb32PixelLoader.Process"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Μέθοδος IPartialArgb32PixelLoader. Επεξεργάζεται τα φορτωμένα pixel"
 type: docs
 weight: 10
 url: /el/net/aspose.psd/ipartialargb32pixelloader/process/
 ---
+{{< psd/tize >}}
 ## IPartialArgb32PixelLoader.Process method
 
-Επεξεργάζεται τα φορτωμένα pixel.
+Επεξεργάζεται τα φορτωμένα εικονοστοιχεία.
 
 ```csharp
 public void Process(Rectangle pixelsRectangle, int[] pixels, Point start, Point end)
@@ -16,17 +17,17 @@ public void Process(Rectangle pixelsRectangle, int[] pixels, Point start, Point 
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| pixelsRectangle | Rectangle | Τα εικονοστοιχεία ορθογώνιο. |
-| pixels | Int32[] | Τα εικονοστοιχεία ARGB 32-bit. |
-| start | Point | Το σημείο έναρξης των εικονοστοιχείων. Αν δεν είναι ίσο με (αριστερά, πάνω) που σημαίνει ότι δεν είναι πλήρες ορθογώνιο έχουμε. |
-| end | Point | Τα τελικά εικονοστοιχεία δείχνουν. Αν δεν είναι ίσο με (δεξιά,κάτω) που σημαίνει ότι δεν είναι πλήρες ορθογώνιο έχουμε. |
+| pixelsRectangle | Rectangle | Το ορθογώνιο των pixel. |
+| pixel | Int32[] | Τα 32-bit ARGB pixel. |
+| αρχή | Σημείο | Το σημείο εκκίνησης των pixel. Εάν δεν είναι ίσο με (left,top) σημαίνει ότι δεν έχουμε πλήρες ορθογώνιο. |
+| τέλος | Σημείο | Το σημείο λήξης των pixel. Εάν δεν είναι ίσο με (right,bottom) σημαίνει ότι δεν έχουμε πλήρες ορθογώνιο. |
 
 ### Δείτε επίσης
 
 * struct [Rectangle](../../rectangle/)
 * struct [Point](../../point/)
 * interface [IPartialArgb32PixelLoader](../)
-* χώρος ονομάτων [Aspose.PSD](../../ipartialargb32pixelloader/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

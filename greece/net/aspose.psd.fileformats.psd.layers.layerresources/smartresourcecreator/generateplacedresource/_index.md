@@ -1,11 +1,12 @@
 ---
-title: SmartResourceCreator.GeneratePlacedResource
-second_title: Aspose.PSD για Αναφορά API .NET
-description: SmartResourceCreator μέθοδος. Δημιουργεί τον τοποθετημένο πόρο.
+title: "SmartResourceCreator.GeneratePlacedResource"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "SmartResourceCreator μέθοδος. Δημιουργεί τον τοποθετημένο πόρο"
 type: docs
 weight: 20
 url: /el/net/aspose.psd.fileformats.psd.layers.layerresources/smartresourcecreator/generateplacedresource/
 ---
+{{< psd/tize >}}
 ## SmartResourceCreator.GeneratePlacedResource method
 
 Δημιουργεί τον τοποθετημένο πόρο.
@@ -14,15 +15,15 @@ url: /el/net/aspose.psd.fileformats.psd.layers.layerresources/smartresourcecreat
 public PlLdResource GeneratePlacedResource()
 ```
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-Το παραγόμενο[`PlLdResource`](../../plldresource/) παράδειγμα.
+Το παραγόμενο [`PlLdResource`](../../plldresource/) αντικείμενο.
 
 ### Δείτε επίσης
 
 * class [PlLdResource](../../plldresource/)
 * class [SmartResourceCreator](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../smartresourcecreator/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

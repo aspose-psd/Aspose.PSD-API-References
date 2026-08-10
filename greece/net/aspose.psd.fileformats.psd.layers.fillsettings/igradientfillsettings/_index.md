@@ -1,14 +1,15 @@
 ---
-title: Interface IGradientFillSettings
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Aspose.PSD.FileFormats.Psd.Layers.FillSettings.IGradientFillSettings διεπαφή. Βασική διεπαφή για ρυθμίσεις πλήρωσης
+title: "Διεπαφή IGradientFillSettings"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Aspose.PSD.FileFormats.Psd.Layers.FillSettings.IGradientFillSettings διεπαφή. Βασική διεπαφή για ρυθμίσεις γεμίσματος Gradient"
 type: docs
-weight: 2010
+weight: 2130
 url: /el/net/aspose.psd.fileformats.psd.layers.fillsettings/igradientfillsettings/
 ---
+{{< psd/tize >}}
 ## IGradientFillSettings interface
 
-Βασική διεπαφή για ρυθμίσεις πλήρωσης
+Βασική διεπαφή για ρυθμίσεις γεμίσματος διαβάθμισης.
 
 ```csharp
 public interface IGradientFillSettings : IFillSettings
@@ -16,24 +17,22 @@ public interface IGradientFillSettings : IFillSettings
 
 ## Ιδιότητες
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
-| [AlignWithLayer](../../aspose.psd.fileformats.psd.layers.fillsettings/igradientfillsettings/alignwithlayer/) { get; set; } | Λαμβάνει ή ορίζει μια τιμή που υποδεικνύει εάν [ευθυγράμμιση με το επίπεδο]. |
-| [Angle](../../aspose.psd.fileformats.psd.layers.fillsettings/igradientfillsettings/angle/) { get; set; } | Παίρνει ή ρυθμίζει τη γωνία. |
-| [Color](../../aspose.psd.fileformats.psd.layers.fillsettings/igradientfillsettings/color/) { get; set; } | Παίρνει ή ρυθμίζει το χρώμα. |
-| [ColorPoints](../../aspose.psd.fileformats.psd.layers.fillsettings/igradientfillsettings/colorpoints/) { get; set; } | Παίρνει τους χρωματικούς πόντους. |
-| [Dither](../../aspose.psd.fileformats.psd.layers.fillsettings/igradientfillsettings/dither/) { get; set; } | Λαμβάνει ή ορίζει μια τιμή που υποδεικνύει εάν αυτό`IGradientFillSettings` είναι διχασμός. |
-| [GradientName](../../aspose.psd.fileformats.psd.layers.fillsettings/igradientfillsettings/gradientname/) { get; set; } | Λαμβάνει ή ορίζει το όνομα της διαβάθμισης. |
-| [GradientType](../../aspose.psd.fileformats.psd.layers.fillsettings/igradientfillsettings/gradienttype/) { get; set; } | Λαμβάνει ή ορίζει τον τύπο της κλίσης. |
+| [AlignWithLayer](../../aspose.psd.fileformats.psd.layers.fillsettings/igradientfillsettings/alignwithlayer/) { get; set; } | Λαμβάνει ή ορίζει μια τιμή που υποδεικνύει εάν αυτό το `BaseGradientFillSettings` είναι με θόρυβο. |
+| [Angle](../../aspose.psd.fileformats.psd.layers.fillsettings/igradientfillsettings/angle/) { get; set; } | Λαμβάνει ή ορίζει τη γωνία. |
+| [Dither](../../aspose.psd.fileformats.psd.layers.fillsettings/igradientfillsettings/dither/) { get; set; } | Λαμβάνει ή ορίζει μια τιμή που υποδεικνύει εάν αυτό το `IGradientFillSettings` είναι δεντρά. |
+| [Gradient](../../aspose.psd.fileformats.psd.layers.fillsettings/igradientfillsettings/gradient/) { get; set; } | Λαμβάνει ή ορίζει συγκεκριμένη παρουσία ορισμού διαβάθμισης (Solid/Noise). |
+| [GradientType](../../aspose.psd.fileformats.psd.layers.fillsettings/igradientfillsettings/gradienttype/) { get; set; } | Λαμβάνει ή ορίζει την οριζόντια μετατόπιση σε ποσοστό. |
 | [HorizontalOffset](../../aspose.psd.fileformats.psd.layers.fillsettings/igradientfillsettings/horizontaloffset/) { get; set; } | Λαμβάνει ή ορίζει την οριζόντια μετατόπιση. |
-| [Reverse](../../aspose.psd.fileformats.psd.layers.fillsettings/igradientfillsettings/reverse/) { get; set; } | Λαμβάνει ή ορίζει μια τιμή που υποδεικνύει εάν αυτό`IGradientFillSettings` είναι αντίστροφη. |
-| [Scale](../../aspose.psd.fileformats.psd.layers.fillsettings/igradientfillsettings/scale/) { get; set; } | Παίρνει ή ρυθμίζει την κλίμακα. |
-| [TransparencyPoints](../../aspose.psd.fileformats.psd.layers.fillsettings/igradientfillsettings/transparencypoints/) { get; set; } | Λαμβάνει τους πόντους διαφάνειας. |
+| [InterpolationMethod](../../aspose.psd.fileformats.psd.layers.fillsettings/igradientfillsettings/interpolationmethod/) { get; set; } | Λαμβάνει ή ορίζει τη μέθοδο παρεμβολής για τη διαβάθμιση. |
+| [Reverse](../../aspose.psd.fileformats.psd.layers.fillsettings/igradientfillsettings/reverse/) { get; set; } | Λαμβάνει ή ορίζει μια τιμή που υποδεικνύει εάν αυτό το `IGradientFillSettings` είναι αντίστροφο. |
+| [Scale](../../aspose.psd.fileformats.psd.layers.fillsettings/igradientfillsettings/scale/) { get; set; } | Λαμβάνει ή ορίζει την **κανονικοποιημένη** κλίμακα διαβάθμισης (σε ποσοστό). |
 | [VerticalOffset](../../aspose.psd.fileformats.psd.layers.fillsettings/igradientfillsettings/verticaloffset/) { get; set; } | Λαμβάνει ή ορίζει την κατακόρυφη μετατόπιση. |
 
-### Παραδείγματα
+## Παραδείγματα
 
-Το παρακάτω παράδειγμα δείχνει την υποστήριξη Gradient FillLayer και τις επιλογές επεξεργασίας IGradientFillSettings..
+Το παρακάτω παράδειγμα δείχνει την υποστήριξη του Gradient FillLayer και τις επιλογές επεξεργασίας του IGradientFillSettings.
 
 ```csharp
 [C#]
@@ -52,7 +51,8 @@ using (im)
             {
                 throw new Exception("Wrong Fill Layer");
             }
-            var settings = (IGradientFillSettings)fillLayer.FillSettings;
+            var settings = (GradientFillSettings)fillLayer.FillSettings;
+            var solidGradient = (SolidGradient)settings.Gradient;
             if (
              Math.Abs(settings.Angle - 45) > 0.25 ||
              settings.Dither != true ||
@@ -60,14 +60,14 @@ using (im)
              settings.Reverse != false ||
              Math.Abs(settings.HorizontalOffset - (-39)) > 0.25 ||
              Math.Abs(settings.VerticalOffset - (-5)) > 0.25 ||
-             settings.TransparencyPoints.Length != 3 ||
-             settings.ColorPoints.Length != 2 ||
-             Math.Abs(100.0 - settings.TransparencyPoints[0].Opacity) > 0.25 ||
-             settings.TransparencyPoints[0].Location != 0 ||
-             settings.TransparencyPoints[0].MedianPointLocation != 50 ||
-             settings.ColorPoints[0].Color != Color.FromArgb(203, 64, 140) ||
-             settings.ColorPoints[0].Location != 0 ||
-             settings.ColorPoints[0].MedianPointLocation != 50)
+             solidGradient.TransparencyPoints.Length != 3 ||
+             solidGradient.ColorPoints.Length != 2 ||
+             Math.Abs(100.0 - solidGradient.TransparencyPoints[0].Opacity) > 0.25 ||
+             solidGradient.TransparencyPoints[0].Location != 0 ||
+             solidGradient.TransparencyPoints[0].MedianPointLocation != 50 ||
+             solidGradient.ColorPoints[0].Color != Color.FromArgb(203, 64, 140) ||
+             solidGradient.ColorPoints[0].Location != 0 ||
+             solidGradient.ColorPoints[0].MedianPointLocation != 50)
             {
                 throw new Exception("Gradient Fill was not read correctly");
             }
@@ -77,8 +77,8 @@ using (im)
             settings.Reverse = true;
             settings.HorizontalOffset = 25;
             settings.VerticalOffset = -15;
-            var colorPoints = new List<IGradientColorPoint>(settings.ColorPoints);
-            var transparencyPoints = new List<IGradientTransparencyPoint>(settings.TransparencyPoints);
+            var colorPoints = new List<IGradientColorPoint>(solidGradient.ColorPoints);
+            var transparencyPoints = new List<IGradientTransparencyPoint>(solidGradient.TransparencyPoints);
             colorPoints.Add(new GradientColorPoint()
             {
                 Color = Color.Violet,
@@ -93,8 +93,8 @@ using (im)
                 MedianPointLocation = 25
             });
             transparencyPoints[2].Location = 3000;
-            settings.ColorPoints = colorPoints.ToArray();
-            settings.TransparencyPoints = transparencyPoints.ToArray();
+            solidGradient.ColorPoints = colorPoints.ToArray();
+            solidGradient.TransparencyPoints = transparencyPoints.ToArray();
             fillLayer.Update();
             im.Save(outputFile, new PsdOptions(im));
             break;
@@ -106,7 +106,7 @@ using (im)
 ### Δείτε επίσης
 
 * interface [IFillSettings](../ifillsettings/)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../aspose.psd.fileformats.psd.layers.fillsettings/)
-* συνέλευση [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../)
 
 

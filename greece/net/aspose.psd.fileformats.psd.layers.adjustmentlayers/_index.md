@@ -1,34 +1,45 @@
 ---
-title: Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Ο χώρος ονομάτων περιέχει επίπεδα προσαρμογής PSD.
+title: "Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ο χώρος ονομάτων περιέχει στρώματα ρύθμισης PSD"
 type: docs
-weight: 220
+weight: 240
 url: /el/net/aspose.psd.fileformats.psd.layers.adjustmentlayers/
 ---
-Ο χώρος ονομάτων περιέχει επίπεδα προσαρμογής PSD.
+{{< psd/tize >}}
+Ο χώρος ονομάτων περιέχει στρώματα προσαρμογής PSD.
 
-## Τάξεις
+## Κλάσεις
 
-| Τάξη | Περιγραφή |
+| Κλάση | Περιγραφή |
 | --- | --- |
-| [AdjustmentLayer](./adjustmentlayer/) | Επίπεδο προσαρμογής. Για παράδειγμα Brightness/contrast |
-| [BlackWhiteAdjustmentLayer](./blackwhiteadjustmentlayer/) | Η κλάση στρώματος προσαρμογής Ασπρόμαυρο. |
-| [BrightnessContrastLayer](./brightnesscontrastlayer/) | Στρώμα φωτεινότητας/αντίθεσης. |
-| [ChannelMixerLayer](./channelmixerlayer/) | Επίπεδο προσαρμογής μείκτη καναλιών. |
-| [CmykChannelMixerLayer](./cmykchannelmixerlayer/) | Επίπεδο προσαρμογής μείκτη καναλιού Cmyk. |
+| [AdjustmentLayer](./adjustmentlayer/) | Στρώμα ρύθμισης. Για παράδειγμα Brightness/contrast |
+| [BlackWhiteAdjustmentLayer](./blackwhiteadjustmentlayer/) | Η κλάση στρώματος ρύθμισης Black and White. |
+| [BrightnessContrastLayer](./brightnesscontrastlayer/) | Στρώμα Brightness/contrast. |
+| [ChannelMixerLayer](./channelmixerlayer/) | Στρώμα Channel Mixer Adjustment. |
+| [CmykChannelMixerLayer](./cmykchannelmixerlayer/) | Στρώμα Cmyk Channel Mixer Adjustment. |
+| [CmykCorrection](./cmykcorrection/) | Διόρθωση χρωμάτων σε στρώμα ρύθμισης selective color. |
 | [CmykMixerChannel](./cmykmixerchannel/) | CmykChannel. Είναι περιτύλιγμα για ακατέργαστα δεδομένα καναλιού. Χρησιμοποιείται στο MixrResource |
-| [ColorBalanceAdjustmentLayer](./colorbalanceadjustmentlayer/) | Η κλάση του επιπέδου ρύθμισης ισορροπίας χρώματος. |
-| [CurvesLayer](./curveslayer/) | Επίπεδο προσαρμογής καμπυλών |
-| [ExposureLayer](./exposurelayer/) | Επίπεδο προσαρμογής έκθεσης. |
-| [HueSaturationLayer](./huesaturationlayer/) | Επίπεδο ρύθμισης HueSaturation. |
-| [InvertAdjustmentLayer](./invertadjustmentlayer/) | Η κλάση στρώματος προσαρμογής αναστροφής. |
-| [LevelsLayer](./levelslayer/) | Επίπεδο Προσαρμογής Επιπέδων |
+| [ColorBalanceAdjustmentLayer](./colorbalanceadjustmentlayer/) | Η κλάση στρώματος ρύθμισης color balance. |
+| [CurvesLayer](./curveslayer/) | Curves Adjustment Layer |
+| [ExposureLayer](./exposurelayer/) | Exposure Adjustment layer. |
+| [GradientMapLayer](./gradientmaplayer/) | Στρώμα Gradient map. Διαχειρίζεται την απόδοση του Gradient map χρησιμοποιώντας δεδομένα από το GrdmResource. |
+| [HueSaturationLayer](./huesaturationlayer/) | HueSaturation adjustment layer. |
+| [InvertAdjustmentLayer](./invertadjustmentlayer/) | Η κλάση στρώματος ρύθμισης invert. |
+| [LevelsLayer](./levelslayer/) | Levels Adjustment Layer |
 | [MixerChannel](./mixerchannel/) | MixerChannel. Είναι περιτύλιγμα για ακατέργαστα δεδομένα καναλιού. Χρησιμοποιείται στο MixrResource |
-| [PhotoFilterLayer](./photofilterlayer/) | Επίπεδο προσαρμογής PhotoFilter. |
-| [PosterizeLayer](./posterizelayer/) | Στρώση αφίσας. Χειρίζεται την απόδοση Posterize χρησιμοποιώντας δεδομένα από το PostResource. |
-| [RgbChannelMixerLayer](./rgbchannelmixerlayer/) | Επίπεδο προσαρμογής μείκτη καναλιών Rgb. |
+| [PhotoFilterLayer](./photofilterlayer/) | PhotoFilter adjustment layer. |
+| [PosterizeLayer](./posterizelayer/) | Στρώμα Posterize. Διαχειρίζεται την απόδοση του Posterize χρησιμοποιώντας δεδομένα από το PostResource. |
+| [RgbChannelMixerLayer](./rgbchannelmixerlayer/) | Rgb Channel Mixer Στρώση προσαρμογής. |
 | [RgbMixerChannel](./rgbmixerchannel/) | RgbChannel. Είναι περιτύλιγμα για ακατέργαστα δεδομένα καναλιού. Χρησιμοποιείται στο MixrResource |
-| [VibranceLayer](./vibrancelayer/) | Πραγματοποίηση του επιπέδου προσαρμογής Vibrance |
+| [SelectiveColorLayer](./selectivecolorlayer/) | Στρώση προσαρμογής επιλεκτικού χρώματος. |
+| [ThresholdLayer](./thresholdlayer/) | Στρώση προσαρμογής κατωφλίου. |
+| [VibranceLayer](./vibrancelayer/) | Υλοποίηση στρώσης προσαρμογής Vibrance |
+## Απαρίθμηση
+
+| Απαρίθμηση | Περιγραφή |
+| --- | --- |
+| [CorrectionMethodTypes](./correctionmethodtypes/) | Μέθοδος διόρθωσης στη στρώση προσαρμογής επιλεκτικού χρώματος. |
+| [SelectiveColorsTypes](./selectivecolorstypes/) | Τύποι χρώματος στη στρώση προσαρμογής επιλεκτικού χρώματος. |
 
 

@@ -1,20 +1,21 @@
 ---
-title: PhflResourceVersion3.GetRgbColor
-second_title: Aspose.PSD για Αναφορά API .NET
-description: PhflResourceVersion3 μέθοδος. Παίρνει το χρώμα.
+title: "PhflResourceVersion3.GetRgbColor"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "PhflResourceVersion3 μέθοδος. Επιστρέφει το χρώμα"
 type: docs
-weight: 100
+weight: 80
 url: /el/net/aspose.psd.fileformats.psd.layers.layerresources/phflresourceversion3/getrgbcolor/
 ---
+{{< psd/tize >}}
 ## PhflResourceVersion3.GetRgbColor method
 
-Παίρνει το χρώμα.
+Λαμβάνει το χρώμα.
 
 ```csharp
 public override Color GetRgbColor()
 ```
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
 Το χρώμα RGB
 
@@ -22,7 +23,7 @@ public override Color GetRgbColor()
 
 * struct [Color](../../../aspose.psd/color/)
 * class [PhflResourceVersion3](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../phflresourceversion3/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

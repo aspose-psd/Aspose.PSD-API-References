@@ -1,27 +1,28 @@
 ---
-title: ResourceEvent.GetXmpRepresentation
-second_title: Aspose.PSD για Αναφορά API .NET
-description: ResourceEvent μέθοδος. Λαμβάνει την τιμή που περιέχεται στη συμβολοσειρά σε μορφή XMP.
+title: "ResourceEvent.GetXmpRepresentation"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Μέθοδος ResourceEvent. Λαμβάνει την τιμή συμβολοσειράς σε μορφή XMP."
 type: docs
 weight: 80
 url: /el/net/aspose.psd.xmp.types.complex.resourceevent/resourceevent/getxmprepresentation/
 ---
+{{< psd/tize >}}
 ## ResourceEvent.GetXmpRepresentation method
 
-Λαμβάνει την τιμή που περιέχεται στη συμβολοσειρά σε μορφή XMP.
+Λαμβάνει τη συμβολοσειρά που περιέχει την τιμή σε μορφή XMP.
 
 ```csharp
 public override string GetXmpRepresentation()
 ```
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-Επιστρέφει την τιμή που περιέχεται στη συμβολοσειρά σε μορφή XMP.
+Επιστρέφει την τιμή της συμβολοσειράς σε μορφή XMP.
 
 ### Δείτε επίσης
 
 * class [ResourceEvent](../)
-* χώρος ονομάτων [Aspose.PSD.Xmp.Types.Complex.ResourceEvent](../../resourceevent/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.ResourceEvent](../../../aspose.psd.xmp.types.complex.resourceevent/)
+* assembly [Aspose.PSD](../../../)
 
 

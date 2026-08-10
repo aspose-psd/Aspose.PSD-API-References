@@ -1,11 +1,12 @@
 ---
-title: ITextStyle.IsEqual
-second_title: Aspose.PSD για Αναφορά API .NET
-description: ITextStyle μέθοδος. Καθορίζει εάν το καθορισμένο στυλ είναι ίσο.
+title: "ITextStyle.IsEqual"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Μέθοδος ITextStyle. Καθορίζει εάν το καθορισμένο στυλ είναι ίσο"
 type: docs
 weight: 290
 url: /el/net/aspose.psd.fileformats.psd.layers.text/itextstyle/isequal/
 ---
+{{< psd/tize >}}
 ## ITextStyle.IsEqual method
 
 Καθορίζει εάν το καθορισμένο στυλ είναι ίσο.
@@ -18,13 +19,13 @@ public bool IsEqual(ITextStyle style)
 | --- | --- | --- |
 | style | ITextStyle | Το στυλ. |
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-`αληθής` εάν το καθορισμένο στυλ είναι ίσο. σε διαφορετική περίπτωση,`ψευδής` .
+`true` εάν το καθορισμένο στυλ είναι ίσο· διαφορετικά, `false`.
 
-### Παραδείγματα
+## Παραδείγματα
 
-Το ακόλουθο παράδειγμα κώδικα δείχνει τα τμήματα κειμένου επεξεργασίας και το στυλ κειμένου τους.
+Το παρακάτω παράδειγμα κώδικα δείχνει την επεξεργασία τμημάτων κειμένου και του στυλ κειμένου τους.
 
 ```csharp
 [C#]
@@ -57,7 +58,7 @@ using (var im = (PsdImage)Image.Load(filePath))
             }
 
             // Έλεγχος δεδομένων παραγράφων
-            // Οι παράγραφοι έχουν διαφορετική αιτιολόγηση
+            // Οι παράγραφοι έχουν διαφορετική στοίχιση
             if (
                 (int)portions[0].Paragraph.Justification != 0 ||
                 (int)portions[1].Paragraph.Justification != 0 ||
@@ -91,7 +92,7 @@ using (var im = (PsdImage)Image.Load(filePath))
                     Math.Abs(paragraph.LetterSpacing[0]) > Tolerance ||
                     Math.Abs(paragraph.LetterSpacing[1]) > Tolerance ||
                     Math.Abs(paragraph.LetterSpacing[2]) > Tolerance ||
-                    paragraph.LeadingType != LeadingMode.Auto ||
+                    paragraph.LeadingType != LeadingType.BottomToBottom ||
                     paragraph.PreHyphen != 2 ||
                     paragraph.PostHyphen != 2 ||
                     Math.Abs(paragraph.SpaceBefore) > Tolerance ||
@@ -155,12 +156,12 @@ using (var im = (PsdImage)Image.Load(filePath))
             portions = layer.TextData.Items;
 
             // Παράδειγμα επεξεργασίας παραγράφου και στυλ για τμήματα
-            // Ορισμός σωστής αιτιολόγησης
+            // Ορισμός δεξιάς στοίχισης
             portions[0].Paragraph.Justification = JustificationMode.Right;
             portions[1].Paragraph.Justification = JustificationMode.Right;
             portions[2].Paragraph.Justification = JustificationMode.Right;
 
-            // Διαφορετικά χρώματα για κάθε στυλ. Θα αλλάξει, αλλά η απόδοση δεν υποστηρίζεται πλήρως
+            // Διαφορετικά χρώματα για κάθε στυλ. Θα αλλάξουν, αλλά η απόδοση δεν υποστηρίζεται πλήρως
             portions[0].Style.FillColor = Color.Aquamarine;
             portions[1].Style.FillColor = Color.Violet;
             portions[2].Style.FillColor = Color.LightBlue;
@@ -183,7 +184,7 @@ using (var im = (PsdImage)Image.Load(filePath))
 ### Δείτε επίσης
 
 * interface [ITextStyle](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.Text](../../itextstyle/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.Text](../../../aspose.psd.fileformats.psd.layers.text/)
+* assembly [Aspose.PSD](../../../)
 
 

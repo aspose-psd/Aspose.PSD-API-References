@@ -1,14 +1,15 @@
 ---
-title: Class BlncResource
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.BlncResource τάξη. Η κλάση BlncResource είναι ένας πόρος του επιπέδου προσαρμογής χρώματος.
+title: "Κλάση BlncResource"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Κλάση Aspose.PSD.FileFormats.Psd.Layers.LayerResources.BlncResource. Η κλάση BlncResource είναι πόρος του στρώματος Προσαρμογής Χρώματος"
 type: docs
-weight: 2310
+weight: 2570
 url: /el/net/aspose.psd.fileformats.psd.layers.layerresources/blncresource/
 ---
+{{< psd/tize >}}
 ## BlncResource class
 
-Η κλάση BlncResource είναι ένας πόρος του επιπέδου προσαρμογής χρώματος.
+Η κλάση BlncResource είναι πόρος της στρώσης προσαρμογής χρώματος.
 
 ```csharp
 public class BlncResource : AdjustmentLayerResource
@@ -16,47 +17,47 @@ public class BlncResource : AdjustmentLayerResource
 
 ## Κατασκευαστές
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
-| [BlncResource](blncresource/)() | Αρχικοποιεί μια νέα παρουσία του`BlncResource` τάξη. |
+| [BlncResource](blncresource/)() | Αρχικοποιεί μια νέα παρουσία της κλάσης `BlncResource`. |
 
 ## Ιδιότητες
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
-| [HighlightsCyanRedBalance](../../aspose.psd.fileformats.psd.layers.layerresources/blncresource/highlightscyanredbalance/) { get; set; } | Λαμβάνει ή ορίζει το κυανό κόκκινο ισορροπία. |
-| [HighlightsMagentaGreenBalance](../../aspose.psd.fileformats.psd.layers.layerresources/blncresource/highlightsmagentagreenbalance/) { get; set; } | Λαμβάνει ή ορίζει τα Highlights Magenta Green Balance. |
-| [HighlightsYellowBlueBalance](../../aspose.psd.fileformats.psd.layers.layerresources/blncresource/highlightsyellowbluebalance/) { get; set; } | Λαμβάνει ή ορίζει την ισορροπία κίτρινου μπλε χρώματος. |
-| override [Key](../../aspose.psd.fileformats.psd.layers.layerresources/blncresource/key/) { get; } | Λαμβάνει το κλειδί πόρων επιπέδου. |
-| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/blncresource/length/) { get; } | Λαμβάνει το μήκος του πόρου του επιπέδου σε byte. |
-| [MidtonesCyanRedBalance](../../aspose.psd.fileformats.psd.layers.layerresources/blncresource/midtonescyanredbalance/) { get; set; } | Λαμβάνει ή ρυθμίζει το Midtones Cyan Red Balance. |
-| [MidtonesMagentaGreenBalance](../../aspose.psd.fileformats.psd.layers.layerresources/blncresource/midtonesmagentagreenbalance/) { get; set; } | Λαμβάνει ή ρυθμίζει το Midtones Magenta Green Balance. |
-| [MidtonesYellowBlueBalance](../../aspose.psd.fileformats.psd.layers.layerresources/blncresource/midtonesyellowbluebalance/) { get; set; } | Λαμβάνει ή ρυθμίζει το Midtones Yellow Blue Balance. |
-| [PreserveLuminosity](../../aspose.psd.fileformats.psd.layers.layerresources/blncresource/preserveluminosity/) { get; set; } | Λαμβάνει ή ορίζει μια τιμή που υποδεικνύει εάν αυτό`BlncResource` διατηρεί τη φωτεινότητα. |
-| override [PsdVersion](../../aspose.psd.fileformats.psd.layers.layerresources/blncresource/psdversion/) { get; } | Λαμβάνει την έκδοση PSD. |
-| [ShadowsCyanRedBalance](../../aspose.psd.fileformats.psd.layers.layerresources/blncresource/shadowscyanredbalance/) { get; set; } | Λαμβάνει ή ρυθμίζει το Shadows Cyan Red Balance. |
+| [HighlightsCyanRedBalance](../../aspose.psd.fileformats.psd.layers.layerresources/blncresource/highlightscyanredbalance/) { get; set; } | Λαμβάνει ή ορίζει το Highlights Cyan Red Balance. |
+| [HighlightsMagentaGreenBalance](../../aspose.psd.fileformats.psd.layers.layerresources/blncresource/highlightsmagentagreenbalance/) { get; set; } | Λαμβάνει ή ορίζει το Highlights Magenta Green Balance. |
+| [HighlightsYellowBlueBalance](../../aspose.psd.fileformats.psd.layers.layerresources/blncresource/highlightsyellowbluebalance/) { get; set; } | Λαμβάνει ή ορίζει το Highlights Yellow Blue Balance. |
+| [Key](../../aspose.psd.fileformats.psd.layers/layerresource/key/) { get; } | Λαμβάνει το κλειδί πόρου του επιπέδου. |
+| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/blncresource/length/) { get; } | Λαμβάνει το μήκος του πόρου του επιπέδου σε bytes. |
+| [MidtonesCyanRedBalance](../../aspose.psd.fileformats.psd.layers.layerresources/blncresource/midtonescyanredbalance/) { get; set; } | Λαμβάνει ή ορίζει το Midtones Cyan Red Balance. |
+| [MidtonesMagentaGreenBalance](../../aspose.psd.fileformats.psd.layers.layerresources/blncresource/midtonesmagentagreenbalance/) { get; set; } | Λαμβάνει ή ορίζει το Midtones Magenta Green Balance. |
+| [MidtonesYellowBlueBalance](../../aspose.psd.fileformats.psd.layers.layerresources/blncresource/midtonesyellowbluebalance/) { get; set; } | Λαμβάνει ή ορίζει το Midtones Yellow Blue Balance. |
+| [PreserveLuminosity](../../aspose.psd.fileformats.psd.layers.layerresources/blncresource/preserveluminosity/) { get; set; } | Λαμβάνει ή ορίζει μια τιμή που υποδεικνύει εάν αυτό το `BlncResource` διατηρεί τη φωτεινότητα. |
+| virtual [PsdVersion](../../aspose.psd.fileformats.psd.layers/layerresource/psdversion/) { get; } | Λαμβάνει την ελάχιστη έκδοση psd που απαιτείται για τον πόρο του επιπέδου. 0 υποδεικνύει ότι δεν υπάρχουν περιορισμοί. |
+| [ShadowsCyanRedBalance](../../aspose.psd.fileformats.psd.layers.layerresources/blncresource/shadowscyanredbalance/) { get; set; } | Λαμβάνει ή ορίζει το Shadows Cyan Red Balance. |
 | [ShadowsMagentaGreenBalance](../../aspose.psd.fileformats.psd.layers.layerresources/blncresource/shadowsmagentagreenbalance/) { get; set; } | Λαμβάνει ή ορίζει το Shadows Magenta Green Balance. |
-| [ShadowsYellowBlueBalance](../../aspose.psd.fileformats.psd.layers.layerresources/blncresource/shadowsyellowbluebalance/) { get; set; } | Λαμβάνει ή ορίζει το Shadows Yellow Blue Balance. |
-| override [Signature](../../aspose.psd.fileformats.psd.layers.layerresources/adjustmentlayerresource/signature/) { get; } | Παίρνει την υπογραφή. |
+| [ShadowsYellowBlueBalance](../../aspose.psd.fileformats.psd.layers.layerresources/blncresource/shadowsyellowbluebalance/) { get; set; } | Λαμβάνει ή ορίζει την ισορροπία Σκιές Κίτρινο Μπλε. |
+| virtual [Signature](../../aspose.psd.fileformats.psd.layers/layerresource/signature/) { get; } | Λαμβάνει την υπογραφή. |
 
 ## Μέθοδοι
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
 | override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/blncresource/save/)(StreamContainer, int) | Αποθηκεύει τον πόρο στο καθορισμένο κοντέινερ ροής. |
-| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring/)() | Επιστρέφει αString που αντιπροσωπεύει αυτήν την περίπτωση. |
+| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring/)() | Επιστρέφει ένα String που αντιπροσωπεύει αυτήν την περίπτωση. |
 
 ## Πεδία
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
-| const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/blncresource/typetoolkey/) | Το κλειδί πληροφοριών εργαλείου τύπου. |
+| const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/blncresource/typetoolkey/) | Το κλειδί πληροφοριών του εργαλείου τύπου. |
 
 ### Δείτε επίσης
 
 * class [AdjustmentLayerResource](../adjustmentlayerresource/)
 * class [LayerResource](../../aspose.psd.fileformats.psd.layers/layerresource/)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
-* συνέλευση [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: ColorRangeHsl.Lightness
-second_title: Aspose.PSD για Αναφορά API .NET
-description: ColorRangeHsl ιδιοκτησία. Παίρνει ή ρυθμίζει την ελαφρότητα.
+title: "ColorRangeHsl.Lightness"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα ColorRangeHsl. Λαμβάνει ή ορίζει τη φωτεινότητα"
 type: docs
 weight: 40
 url: /el/net/aspose.psd.fileformats.psd.layers.layerresources/colorrangehsl/lightness/
 ---
+{{< psd/tize >}}
 ## ColorRangeHsl.Lightness property
 
-Παίρνει ή ρυθμίζει την ελαφρότητα.
+Λαμβάνει ή ορίζει τη φωτεινότητα.
 
 ```csharp
 public short Lightness { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Η ελαφρότητα.
+Η φωτεινότητα.
 
 ### Δείτε επίσης
 
 * class [ColorRangeHsl](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../colorrangehsl/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

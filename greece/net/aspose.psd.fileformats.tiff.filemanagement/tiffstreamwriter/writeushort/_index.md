@@ -1,14 +1,15 @@
 ---
-title: TiffStreamWriter.WriteUShort
-second_title: Aspose.PSD για Αναφορά API .NET
-description: TiffStreamWriter μέθοδος. Γράφει μια μοναδική ανυπόγραφη σύντομη τιμή στη ροή.
+title: "TiffStreamWriter.WriteUShort"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Μέθοδος TiffStreamWriter. Γράφει μια μοναδική τιμή μη υπογεγραμμένου short στο ρεύμα"
 type: docs
 weight: 220
 url: /el/net/aspose.psd.fileformats.tiff.filemanagement/tiffstreamwriter/writeushort/
 ---
+{{< psd/tize >}}
 ## TiffStreamWriter.WriteUShort method
 
-Γράφει μια μοναδική ανυπόγραφη σύντομη τιμή στη ροή.
+Γράφει μια μοναδική τιμή μη υπογεγραμμένου short στο ρεύμα.
 
 ```csharp
 public void WriteUShort(ushort data)
@@ -16,12 +17,12 @@ public void WriteUShort(ushort data)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| data | UInt16 | Η αξία να γραφτεί. |
+| δεδομένα | UInt16 | Η τιμή για εγγραφή. |
 
 ### Δείτε επίσης
 
 * class [TiffStreamWriter](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Tiff.FileManagement](../../tiffstreamwriter/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff.FileManagement](../../../aspose.psd.fileformats.tiff.filemanagement/)
+* assembly [Aspose.PSD](../../../)
 
 

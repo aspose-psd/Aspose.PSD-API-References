@@ -1,11 +1,12 @@
 ---
-title: TypeToolStyleInfo.SizeValue
-second_title: Aspose.PSD για Αναφορά API .NET
-description: TypeToolStyleInfo ιδιοκτησία. Λαμβάνει ή ορίζει την τιμή μεγέθους.
+title: "TypeToolStyleInfo.SizeValue"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα TypeToolStyleInfo. Λαμβάνει ή ορίζει την τιμή του size"
 type: docs
 weight: 90
 url: /el/net/aspose.psd.fileformats.psd.layers.layerresources/typetoolstyleinfo/sizevalue/
 ---
+{{< psd/tize >}}
 ## TypeToolStyleInfo.SizeValue property
 
 Λαμβάνει ή ορίζει την τιμή μεγέθους.
@@ -14,14 +15,14 @@ url: /el/net/aspose.psd.fileformats.psd.layers.layerresources/typetoolstyleinfo/
 public int SizeValue { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Η τιμή μεγέθους.
+Η τιμή του μεγέθους.
 
 ### Δείτε επίσης
 
 * class [TypeToolStyleInfo](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../typetoolstyleinfo/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: MlstResource.Length
-second_title: Aspose.PSD για Αναφορά API .NET
-description: MlstResource ιδιοκτησία. Λαμβάνει το μήκος του πόρου του επιπέδου σε byte.
+title: "MlstResource.Length"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "MlstResource ιδιότητα. Λαμβάνει το μήκος του πόρου στρώσης σε bytes"
 type: docs
-weight: 50
+weight: 40
 url: /el/net/aspose.psd.fileformats.psd.layers.layerresources/mlstresource/length/
 ---
+{{< psd/tize >}}
 ## MlstResource.Length property
 
-Λαμβάνει το μήκος του πόρου του επιπέδου σε byte.
+Λαμβάνει το μήκος του πόρου του επιπέδου σε bytes.
 
 ```csharp
 public override int Length { get; }
@@ -17,7 +18,7 @@ public override int Length { get; }
 ### Δείτε επίσης
 
 * class [MlstResource](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../mlstresource/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

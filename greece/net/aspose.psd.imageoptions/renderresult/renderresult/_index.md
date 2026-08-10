@@ -1,11 +1,12 @@
 ---
-title: RenderResult.RenderResult
-second_title: Aspose.PSD για Αναφορά API .NET
-description: RenderResult κατασκευαστής. Ο προεπιλεγμένος κατασκευαστής.
+title: "RenderResult.RenderResult"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "RenderResult constructor. Ο προεπιλεγμένος κατασκευαστής"
 type: docs
 weight: 10
 url: /el/net/aspose.psd.imageoptions/renderresult/renderresult/
 ---
+{{< psd/tize >}}
 ## RenderResult constructor
 
 Ο προεπιλεγμένος κατασκευαστής.
@@ -17,7 +18,7 @@ public RenderResult()
 ### Δείτε επίσης
 
 * class [RenderResult](../)
-* χώρος ονομάτων [Aspose.PSD.ImageOptions](../../renderresult/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

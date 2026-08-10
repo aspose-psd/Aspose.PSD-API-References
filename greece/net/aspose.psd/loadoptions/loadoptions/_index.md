@@ -1,11 +1,12 @@
 ---
-title: LoadOptions.LoadOptions
-second_title: Aspose.PSD για Αναφορά API .NET
-description: LoadOptions κατασκευαστής. Ο προεπιλεγμένος κατασκευαστής.
+title: "LoadOptions.LoadOptions"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "LoadOptions κατασκευαστής. Ο προεπιλεγμένος κατασκευαστής"
 type: docs
 weight: 10
 url: /el/net/aspose.psd/loadoptions/loadoptions/
 ---
+{{< psd/tize >}}
 ## LoadOptions constructor
 
 Ο προεπιλεγμένος κατασκευαστής.
@@ -17,7 +18,7 @@ public LoadOptions()
 ### Δείτε επίσης
 
 * class [LoadOptions](../)
-* χώρος ονομάτων [Aspose.PSD](../../loadoptions/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

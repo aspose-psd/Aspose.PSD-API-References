@@ -1,34 +1,35 @@
 ---
-title: Pen.Color
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Pen ιδιοκτησία. Παίρνει ή ορίζει το χρώμα αυτούPen .
+title: "Pen.Color"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα Pen. Λαμβάνει ή ορίζει το χρώμα αυτού του Pen"
 type: docs
 weight: 40
 url: /el/net/aspose.psd/pen/color/
 ---
+{{< psd/tize >}}
 ## Pen.Color property
 
-Παίρνει ή ορίζει το χρώμα αυτού[`Pen`](../) .
+Λαμβάνει ή ορίζει το χρώμα αυτού του [`Pen`](../).
 
 ```csharp
 public Color Color { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-ΕΝΑ`Color` δομή που αντιπροσωπεύει το χρώμα αυτού[`Pen`](../).
+Μια δομή `Color` που αντιπροσωπεύει το χρώμα αυτού του [`Pen`](../).
 
 ### Εξαιρέσεις
 
-| εξαίρεση | κατάσταση |
+| εξαίρεση | συνθήκη |
 | --- | --- |
-| ArgumentException | ο`Color` η ιδιοκτησία έχει οριστεί σε αμετάβλητο[`Pen`](../) , όπως αυτά που επιστράφηκαν από το[`Pen`](../) τάξη. |
+| ArgumentException | Η ιδιότητα `Color` ορίζεται σε ένα αμετάβλητο [`Pen`](../), όπως αυτά που επιστρέφονται από την κλάση [`Pen`](../). |
 
 ### Δείτε επίσης
 
 * struct [Color](../../color/)
 * class [Pen](../)
-* χώρος ονομάτων [Aspose.PSD](../../pen/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

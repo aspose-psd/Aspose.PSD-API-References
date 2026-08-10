@@ -1,20 +1,21 @@
 ---
-title: BezierSegment.FirstControlPoint
-second_title: Aspose.PSD για Αναφορά API .NET
-description: BezierSegment ιδιοκτησία. Λαμβάνει το πρώτο σημείο ελέγχου ενός bezier spline.
+title: "BezierSegment.FirstControlPoint"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα BezierSegment. Λαμβάνει το πρώτο σημείο ελέγχου μιας καμπύλης Bezier."
 type: docs
 weight: 20
 url: /el/net/aspose.psd.shapesegments/beziersegment/firstcontrolpoint/
 ---
+{{< psd/tize >}}
 ## BezierSegment.FirstControlPoint property
 
-Λαμβάνει το πρώτο σημείο ελέγχου ενός bezier spline.
+Λαμβάνει το πρώτο σημείο ελέγχου μιας καμπύλης bezier.
 
 ```csharp
 public PointF FirstControlPoint { get; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
 Το πρώτο σημείο ελέγχου.
 
@@ -22,7 +23,7 @@ public PointF FirstControlPoint { get; }
 
 * struct [PointF](../../../aspose.psd/pointf/)
 * class [BezierSegment](../)
-* χώρος ονομάτων [Aspose.PSD.ShapeSegments](../../beziersegment/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ShapeSegments](../../../aspose.psd.shapesegments/)
+* assembly [Aspose.PSD](../../../)
 
 

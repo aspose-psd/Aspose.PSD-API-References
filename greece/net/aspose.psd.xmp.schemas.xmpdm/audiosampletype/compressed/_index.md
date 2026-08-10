@@ -1,14 +1,15 @@
 ---
-title: AudioSampleType.Compressed
-second_title: Aspose.PSD για Αναφορά API .NET
-description: AudioSampleType ιδιοκτησία. Αντιπροσωπεύει δείγμα συμπιεσμένου ήχου.
+title: "AudioSampleType.Compressed"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "AudioSampleType ιδιότητα. Αντιπροσωπεύει συμπιεσμένο δείγμα ήχου"
 type: docs
 weight: 10
 url: /el/net/aspose.psd.xmp.schemas.xmpdm/audiosampletype/compressed/
 ---
+{{< psd/tize >}}
 ## AudioSampleType.Compressed property
 
-Αντιπροσωπεύει δείγμα συμπιεσμένου ήχου.
+Αναπαριστά συμπιεσμένο δείγμα ήχου.
 
 ```csharp
 public static AudioSampleType Compressed { get; }
@@ -17,7 +18,7 @@ public static AudioSampleType Compressed { get; }
 ### Δείτε επίσης
 
 * class [AudioSampleType](../)
-* χώρος ονομάτων [Aspose.PSD.Xmp.Schemas.XmpDm](../../audiosampletype/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpDm](../../../aspose.psd.xmp.schemas.xmpdm/)
+* assembly [Aspose.PSD](../../../)
 
 

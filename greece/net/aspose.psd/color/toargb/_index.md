@@ -1,27 +1,28 @@
 ---
-title: Color.ToArgb
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Color μέθοδος. Λαμβάνει την τιμή ARGB 32bit αυτούColorδομή.
+title: "Color.ToArgb"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Color μέθοδος. Επιστρέφει την 32-bit τιμή ARGB αυτής της δομής Color"
 type: docs
 weight: 1590
 url: /el/net/aspose.psd/color/toargb/
 ---
+{{< psd/tize >}}
 ## Color.ToArgb method
 
-Λαμβάνει την τιμή ARGB 32-bit αυτού[`Color`](../)δομή.
+Επιστρέφει την 32-bit τιμή ARGB αυτής της δομής [`Color`](../).
 
 ```csharp
 public int ToArgb()
 ```
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-Η τιμή ARGB 32-bit αυτού[`Color`](../).
+Η 32-bit τιμή ARGB αυτής της [`Color`](../).
 
 ### Δείτε επίσης
 
 * struct [Color](../)
-* χώρος ονομάτων [Aspose.PSD](../../color/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

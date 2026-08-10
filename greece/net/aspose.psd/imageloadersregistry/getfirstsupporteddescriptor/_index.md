@@ -1,14 +1,15 @@
 ---
-title: ImageLoadersRegistry.GetFirstSupportedDescriptor
-second_title: Aspose.PSD για Αναφορά API .NET
-description: ImageLoadersRegistry μέθοδος. Λαμβάνει τον υποστηριζόμενο περιγραφέα που βρέθηκε κατάλληλος για το καθορισμένοstream και προαιρετικά τοloadOptions .
+title: "ImageLoadersRegistry.GetFirstSupportedDescriptor"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Μέθοδος ImageLoadersRegistry. Παίρνει τον πρώτο ευρεθέν υποστηριζόμενο περιγραφέα που είναι κατάλληλος για το καθορισμένο *stream* και προαιρετικά τα *loadOptions*"
 type: docs
 weight: 40
 url: /el/net/aspose.psd/imageloadersregistry/getfirstsupporteddescriptor/
 ---
+{{< psd/tize >}}
 ## ImageLoadersRegistry.GetFirstSupportedDescriptor method
 
-Λαμβάνει τον υποστηριζόμενο περιγραφέα που βρέθηκε κατάλληλος για το καθορισμένο*stream* και προαιρετικά το*loadOptions* .
+Λαμβάνει τον πρώτο βρεθέντα υποστηριζόμενο περιγραφέα που είναι κατάλληλος για το καθορισμένο *stream* και προαιρετικά για τις *loadOptions*.
 
 ```csharp
 public static IImageLoaderDescriptor GetFirstSupportedDescriptor(Stream stream, 
@@ -17,23 +18,23 @@ public static IImageLoaderDescriptor GetFirstSupportedDescriptor(Stream stream,
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| stream | Stream | Το ρεύμα. |
+| stream | Stream | Η ροή. |
 | loadOptions | LoadOptions | Οι επιλογές φόρτωσης. |
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-Ο περιγραφέας φόρτωσης που υποστηρίζει το καθορισμένο*stream* και*loadOptions* ή μηδενική αν δεν βρεθεί τέτοιος περιγραφέας.
+Ο περιγραφέας φορτωτή που υποστηρίζει το καθορισμένο *stream* και *loadOptions* ή null εάν δεν βρεθεί τέτοιος περιγραφέας.
 
-### Παρατηρήσεις
+## Σχόλια
 
-Ο πρώτος περιγραφέας φόρτωσης θα είναι στην πραγματικότητα ο τελευταίος καταχωρημένος.
+Ο πρώτος περιγραφέας φορτωτή θα είναι στην πραγματικότητα ο τελευταίος που έχει καταχωρηθεί.
 
 ### Δείτε επίσης
 
 * interface [IImageLoaderDescriptor](../../iimageloaderdescriptor/)
 * class [LoadOptions](../../loadoptions/)
 * class [ImageLoadersRegistry](../)
-* χώρος ονομάτων [Aspose.PSD](../../imageloadersregistry/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

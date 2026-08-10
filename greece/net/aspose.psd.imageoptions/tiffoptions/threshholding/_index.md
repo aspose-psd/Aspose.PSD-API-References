@@ -1,20 +1,21 @@
 ---
-title: TiffOptions.Threshholding
-second_title: Aspose.PSD για Αναφορά API .NET
-description: TiffOptions ιδιοκτησία. Λαμβάνει ή ορίζει το όριο.
+title: "TiffOptions.Threshholding"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα TiffOptions. Λαμβάνει ή ορίζει το κατώφλι"
 type: docs
-weight: 510
+weight: 520
 url: /el/net/aspose.psd.imageoptions/tiffoptions/threshholding/
 ---
+{{< psd/tize >}}
 ## TiffOptions.Threshholding property
 
-Λαμβάνει ή ορίζει το όριο.
+Λαμβάνει ή ορίζει το κατώφλι.
 
 ```csharp
 public TiffThresholds Threshholding { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
 Το κατώφλι.
 
@@ -22,7 +23,7 @@ public TiffThresholds Threshholding { get; set; }
 
 * enum [TiffThresholds](../../../aspose.psd.fileformats.tiff.enums/tiffthresholds/)
 * class [TiffOptions](../)
-* χώρος ονομάτων [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

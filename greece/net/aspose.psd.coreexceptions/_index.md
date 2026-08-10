@@ -1,29 +1,30 @@
 ---
-title: Aspose.PSD.CoreExceptions
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Ο χώρος ονομάτων περιέχει εξαιρέσεις που δημιουργούνται από οποιοδήποτε από τα βασικά στοιχεία PSD.
+title: "Aspose.PSD.CoreExceptions"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ο χώρος ονομάτων περιέχει εξαιρέσεις που προκαλούνται από οποιοδήποτε από τα βασικά συστατικά PSD"
 type: docs
 weight: 40
 url: /el/net/aspose.psd.coreexceptions/
 ---
-Ο χώρος ονομάτων περιέχει εξαιρέσεις που δημιουργούνται από οποιοδήποτε από τα βασικά στοιχεία PSD.
+{{< psd/tize >}}
+Ο χώρος ονομάτων περιέχει εξαιρέσεις που ρίχνονται από οποιοδήποτε από τα βασικά στοιχεία PSD.
 
-## Τάξεις
+## Κλάσεις
 
-| Τάξη | Περιγραφή |
+| Κλάση | Περιγραφή |
 | --- | --- |
-| [CompressorException](./compressorexception/) | Η εξαίρεση του συμπιεστή. |
-| [DataMissmatchError](./datamissmatcherror/) | Εξαίρεση αναντιστοιχίας δεδομένων class |
-| [FrameworkException](./frameworkexception/) | Η εξαίρεση πλαισίου PSD. Αυτή η κλάση είναι μια βασική κλάση για όλες τις εξαιρέσεις Aspose.PSD. Εισήχθη για τη διάκριση μεταξύ των εξαιρέσεων που δημιουργούνται από τον κινητήρα Aspose.PSD και όλων των άλλων τύπων εξαιρέσεων. |
-| [ImageCreateException](./imagecreateexception/) | Η εξαίρεση δημιουργίας εικόνας. Εμφανίζεται κατά τη δημιουργία εικόνας. |
-| [ImageException](./imageexception/) | Η εξαίρεση της εικόνας. |
-| [ImageLoadException](./imageloadexception/) | Η εξαίρεση φόρτωσης εικόνας. Εμφανίζεται κατά τη φόρτωση εικόνας. |
-| [ImageSaveException](./imagesaveexception/) | Η εξαίρεση αποθήκευσης εικόνας. Εμφανίζεται κατά την αποθήκευση εικόνας. |
-| [IndexOutOFRangeException](./indexoutofrangeexception/) | Η εξαίρεση του συμπιεστή. |
-| [LimitMemoryException](./limitmemoryexception/) | Η εξαίρεση της οριακής μνήμης. Εμφανίζεται όταν η χρήση μνήμης πρέπει να μειωθεί. |
-| [OperationInterruptedException](./operationinterruptedexception/) | Εμφανίζεται όταν μια λειτουργία διακόπτεται. |
-| [RdOptimizationError](./rdoptimizationerror/) | Εξαίρεση σφάλματος βελτιστοποίησης RD class |
-| [StreamReadException](./streamreadexception/) | Η εξαίρεση ανάγνωσης ροής. Προκλήθηκε όταν η ανάγνωση ροής απέτυχε λόγω εσφαλμένης μετατόπισης και αιτήματος μέτρησης byte. |
-| [XmpException](./xmpexception/) | Η εξαίρεση που γίνεται όταν το XMP έχει μη έγκυρη δομή. |
+| [CompressorException](./compressorexception/) | Η εξαίρεση συμπιεστή. |
+| [DataMissmatchError](./datamissmatcherror/) | Κλάση εξαίρεσης ασυμφωνίας δεδομένων |
+| [FrameworkException](./frameworkexception/) | Η εξαίρεση πλαισίου PSD. Αυτή η κλάση είναι μια βασική κλάση για όλες τις εξαιρέσεις Aspose.PSD. Εισάγεται για να διακρίνει μεταξύ των εξαιρέσεων που προκαλούνται από τη μηχανή Aspose.PSD και όλων των άλλων τύπων εξαιρέσεων. |
+| [ImageCreateException](./imagecreateexception/) | Η εξαίρεση δημιουργίας εικόνας. Συμβαίνει κατά τη δημιουργία της εικόνας. |
+| [ImageException](./imageexception/) | Η εξαίρεση εικόνας. |
+| [ImageLoadException](./imageloadexception/) | Η εξαίρεση φόρτωσης εικόνας. Συμβαίνει κατά τη φόρτωση της εικόνας. |
+| [ImageSaveException](./imagesaveexception/) | Η εξαίρεση αποθήκευσης εικόνας. Συμβαίνει κατά την αποθήκευση της εικόνας. |
+| [IndexOutOFRangeException](./indexoutofrangeexception/) | Η εξαίρεση συμπιεστή. |
+| [LimitMemoryException](./limitmemoryexception/) | Η εξαίρεση περιορισμού μνήμης. Συμβαίνει όταν η χρήση μνήμης πρέπει να μειωθεί. |
+| [OperationInterruptedException](./operationinterruptedexception/) | Συμβαίνει όταν μια λειτουργία διακόπτεται. |
+| [RdOptimizationError](./rdoptimizationerror/) | Κλάση εξαίρεσης σφάλματος βελτιστοποίησης RD |
+| [StreamReadException](./streamreadexception/) | Η εξαίρεση ανάγνωσης ροής. Προκαλείται όταν η ανάγνωση της ροής αποτυγχάνει λόγω λανθασμένης μετατόπισης και αιτήματος αριθμού byte. |
+| [XmpException](./xmpexception/) | Η εξαίρεση που ρίχνεται όταν το XMP έχει μη έγκυρη δομή. |
 
 

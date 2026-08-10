@@ -1,11 +1,12 @@
 ---
-title: Layer.Height
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Layer ιδιοκτησία. Λαμβάνει το ύψος της εικόνας.
+title: "Layer.Height"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα Layer. Λαμβάνει το ύψος της εικόνας"
 type: docs
-weight: 160
+weight: 170
 url: /el/net/aspose.psd.fileformats.psd.layers/layer/height/
 ---
+{{< psd/tize >}}
 ## Layer.Height property
 
 Λαμβάνει το ύψος της εικόνας.
@@ -14,14 +15,14 @@ url: /el/net/aspose.psd.fileformats.psd.layers/layer/height/
 public override int Height { get; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
 Το ύψος της εικόνας.
 
 ### Δείτε επίσης
 
 * class [Layer](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers](../../layer/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

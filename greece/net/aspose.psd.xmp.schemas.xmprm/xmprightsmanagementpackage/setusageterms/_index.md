@@ -1,11 +1,12 @@
 ---
-title: XmpRightsManagementPackage.SetUsageTerms
-second_title: Aspose.PSD για Αναφορά API .NET
-description: XmpRightsManagementPackage μέθοδος. Ορίζει τους όρους χρήσης.
+title: "XmpRightsManagementPackage.SetUsageTerms"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Μέθοδος XmpRightsManagementPackage. Ορίζει τους όρους χρήσης"
 type: docs
 weight: 60
 url: /el/net/aspose.psd.xmp.schemas.xmprm/xmprightsmanagementpackage/setusageterms/
 ---
+{{< psd/tize >}}
 ## XmpRightsManagementPackage.SetUsageTerms method
 
 Ορίζει τους όρους χρήσης.
@@ -20,15 +21,15 @@ public void SetUsageTerms(LangAlt usageTerms)
 
 ### Εξαιρέσεις
 
-| εξαίρεση | κατάσταση |
+| εξαίρεση | συνθήκη |
 | --- | --- |
-| ArgumentNullException | Όροι χρήσης |
+| ArgumentNullException | usageTerms |
 
 ### Δείτε επίσης
 
 * class [LangAlt](../../../aspose.psd.xmp/langalt/)
 * class [XmpRightsManagementPackage](../)
-* χώρος ονομάτων [Aspose.PSD.Xmp.Schemas.XmpRm](../../xmprightsmanagementpackage/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpRm](../../../aspose.psd.xmp.schemas.xmprm/)
+* assembly [Aspose.PSD](../../../)
 
 

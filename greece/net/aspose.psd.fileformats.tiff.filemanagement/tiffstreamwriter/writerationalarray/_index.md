@@ -1,14 +1,15 @@
 ---
-title: TiffStreamWriter.WriteRationalArray
-second_title: Aspose.PSD για Αναφορά API .NET
-description: TiffStreamWriter μέθοδος. Γράφει έναν πίνακα ανυπόγραφων ορθολογικών τιμών στη ροή.
+title: "TiffStreamWriter.WriteRationalArray"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Μέθοδος TiffStreamWriter. Γράφει έναν πίνακα μη υπογεγραμμένων ρητών τιμών στη ροή"
 type: docs
 weight: 100
 url: /el/net/aspose.psd.fileformats.tiff.filemanagement/tiffstreamwriter/writerationalarray/
 ---
+{{< psd/tize >}}
 ## TiffStreamWriter.WriteRationalArray method
 
-Γράφει έναν πίνακα ανυπόγραφων ορθολογικών τιμών στη ροή.
+Γράφει έναν πίνακα μη υπογεγραμμένων ρητών τιμών στη ροή.
 
 ```csharp
 public void WriteRationalArray(TiffRational[] data)
@@ -16,13 +17,13 @@ public void WriteRationalArray(TiffRational[] data)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| data | TiffRational[] | Ο πίνακας για να γράψετε. |
+| δεδομένα | TiffRational[] | Ο πίνακας για εγγραφή. |
 
 ### Δείτε επίσης
 
 * class [TiffRational](../../../aspose.psd.fileformats.tiff/tiffrational/)
 * class [TiffStreamWriter](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Tiff.FileManagement](../../tiffstreamwriter/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff.FileManagement](../../../aspose.psd.fileformats.tiff.filemanagement/)
+* assembly [Aspose.PSD](../../../)
 
 

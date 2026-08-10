@@ -1,14 +1,15 @@
 ---
-title: FillLayer.Update
-second_title: Aspose.PSD για Αναφορά API .NET
-description: FillLayer μέθοδος. Ενημερώνει τα δεδομένα εικονοστοιχείων γεμίσματος επιπέδου σύμφωνα με τα πραγματικάIFillSettings .
+title: "FillLayer.Update"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "FillLayer μέθοδος. Ενημερώνει τα δεδομένα εικονοστοιχείων της στρώσης γεμίσματος βάσει των τρεχουσών IFillSettings"
 type: docs
 weight: 50
 url: /el/net/aspose.psd.fileformats.psd.layers.filllayers/filllayer/update/
 ---
+{{< psd/tize >}}
 ## FillLayer.Update method
 
-Ενημερώνει τα δεδομένα εικονοστοιχείων γεμίσματος επιπέδου σύμφωνα με τα πραγματικά[`IFillSettings`](../../../aspose.psd.fileformats.psd.layers.fillsettings/ifillsettings/) .
+Ενημερώνει τα δεδομένα εικονοστοιχείων της στρώσης γεμίσματος βάσει των τρεχουσών [`IFillSettings`](../../../aspose.psd.fileformats.psd.layers.fillsettings/ifillsettings/).
 
 ```csharp
 public void Update()
@@ -16,18 +17,18 @@ public void Update()
 
 ### Εξαιρέσεις
 
-| εξαίρεση | κατάσταση |
+| εξαίρεση | συνθήκη |
 | --- | --- |
-| ArgumentOutOfRangeException | Άγνωστος τύπος FillType |
+| ArgumentOutOfRangeException | Εκτοπίζεται όταν αντιμετωπιστεί άγνωστος FillType. |
 
-### Παραδείγματα
+## Παραδείγματα
 
-Ο ακόλουθος κώδικας δείχνει την υποστήριξη των επιπέδων γεμίσματος: Έγχρωμο γέμισμα.
+Ο παρακάτω κώδικας δείχνει την υποστήριξη των στρωμάτων Fill: Color fill.
 
 ```csharp
 [C#]
 
-// Προσθήκη υποστήριξης επιπέδων γεμίσματος: Έγχρωμο γέμισμα
+// Προσθέστε υποστήριξη των στρωμάτων Fill: Color fill
 string sourceFileName = "ColorFillLayer.psd";
 string exportPath = "ColorFillLayer_output.psd";
 
@@ -53,7 +54,7 @@ using (im)
 }
 ```
 
-Ο παρακάτω κώδικας αποθηκεύει εικόνες με διαφορετικό τύπο διαβάθμισης και δείχνει πώς να Aspose.Το PSD σχεδιάζει τη διαβάθμιση.
+Ο παρακάτω κώδικας αποθηκεύει εικόνες με διαφορετικούς τύπους διαβάθμισης και δείχνει πώς το Aspose.PSD σχεδιάζει τη διαβάθμιση.
 
 ```csharp
 [C#]
@@ -81,7 +82,7 @@ using (var image = Image.Load(sourceFile))
 }
 ```
 
-Ο παρακάτω κώδικας αποθηκεύει εικόνες με μοτίβο Fill Layer και δείχνει πώς το Aspose.PSD αποδίδει το μοτίβο.
+Ο παρακάτω κώδικας αποθηκεύει εικόνες με το επίπεδο γεμίσματος μοτίβου και δείχνει πώς το Aspose.PSD αποδίδει το μοτίβο.
 
 ```csharp
 [C#]
@@ -90,7 +91,7 @@ string sourceFile = "sample.psd";
 string outputFile = "sample_out.psd";
 string outputPngFile = "sample_out.png";
 
-// Φόρτωση μιας υπάρχουσας εικόνας σε μια παρουσία της κλάσης PsdImage
+// Φορτώστε μια υπάρχουσα εικόνα σε μια παρουσία της κλάσης PsdImage
 using (var image = (PsdImage)Image.Load(sourceFile))
 {
     foreach (var layer in image.Layers)
@@ -134,7 +135,7 @@ using (var image = (PsdImage)Image.Load(sourceFile))
 ### Δείτε επίσης
 
 * class [FillLayer](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.FillLayers](../../filllayer/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillLayers](../../../aspose.psd.fileformats.psd.layers.filllayers/)
+* assembly [Aspose.PSD](../../../)
 
 

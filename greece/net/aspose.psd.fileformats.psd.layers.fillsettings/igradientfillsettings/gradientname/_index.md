@@ -1,27 +1,28 @@
 ---
-title: IGradientFillSettings.GradientName
-second_title: Aspose.PSD για Αναφορά API .NET
-description: IGradientFillSettings ιδιοκτησία. Λαμβάνει ή ορίζει το όνομα της διαβάθμισης.
+title: "IGradientFillSettings.GradientName"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "IGradientFillSettings ιδιότητα. Λαμβάνει ή ορίζει το όνομα της διαβάθμισης"
 type: docs
-weight: 60
+weight: 50
 url: /el/net/aspose.psd.fileformats.psd.layers.fillsettings/igradientfillsettings/gradientname/
 ---
+{{< psd/tize >}}
 ## IGradientFillSettings.GradientName property
 
-Λαμβάνει ή ορίζει το όνομα της διαβάθμισης.
+Λαμβάνει ή ορίζει τον τύπο της διαβάθμισης.
 
 ```csharp
 public string GradientName { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Το όνομα της κλίσης.
+Το όνομα της διαβάθμισης.
 
 ### Δείτε επίσης
 
 * interface [IGradientFillSettings](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../igradientfillsettings/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../../)
 
 

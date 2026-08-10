@@ -1,14 +1,15 @@
 ---
-title: Graphics.ResetTransform
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Graphics μέθοδος. Επαναφέρει τοTransform ιδιοκτησία στην ταυτότητα.
+title: "Graphics.ResetTransform"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Graphics μέθοδος. Επαναφέρει την ιδιότητα Transform στην ταυτότητα"
 type: docs
-weight: 430
+weight: 440
 url: /el/net/aspose.psd/graphics/resettransform/
 ---
+{{< psd/tize >}}
 ## Graphics.ResetTransform method
 
-Επαναφέρει το[`Transform`](../transform/) ιδιοκτησία στην ταυτότητα.
+Επαναφέρει την ιδιότητα [`Transform`](../transform/) στην ταυτότητα.
 
 ```csharp
 public void ResetTransform()
@@ -17,7 +18,7 @@ public void ResetTransform()
 ### Δείτε επίσης
 
 * class [Graphics](../)
-* χώρος ονομάτων [Aspose.PSD](../../graphics/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

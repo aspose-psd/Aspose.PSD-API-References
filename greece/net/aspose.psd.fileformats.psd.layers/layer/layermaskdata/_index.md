@@ -1,28 +1,29 @@
 ---
-title: Layer.LayerMaskData
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Layer ιδιοκτησία. Λαμβάνει ή ορίζει τα δεδομένα μάσκας επιπέδου.
+title: "Layer.LayerMaskData"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Layer ιδιότητα. Λαμβάνει ή ορίζει τα δεδομένα μάσκας του στρώματος"
 type: docs
-weight: 220
+weight: 230
 url: /el/net/aspose.psd.fileformats.psd.layers/layer/layermaskdata/
 ---
+{{< psd/tize >}}
 ## Layer.LayerMaskData property
 
-Λαμβάνει ή ορίζει τα δεδομένα μάσκας επιπέδου.
+Λαμβάνει ή ορίζει τα δεδομένα μάσκας του στρώματος.
 
 ```csharp
 public LayerMaskData LayerMaskData { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Τα δεδομένα μάσκας επιπέδου.
+Τα δεδομένα μάσκας του στρώματος.
 
 ### Δείτε επίσης
 
 * class [LayerMaskData](../../layermaskdata/)
 * class [Layer](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers](../../layer/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

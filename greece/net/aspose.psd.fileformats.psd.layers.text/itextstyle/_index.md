@@ -1,14 +1,15 @@
 ---
-title: Interface ITextStyle
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Aspose.PSD.FileFormats.Psd.Layers.Text.ITextStyle διεπαφή. Διεπαφή για εργασία με Text Style
+title: "Διεπαφή ITextStyle"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Διεπαφή Aspose.PSD.FileFormats.Psd.Layers.Text.ITextStyle. Διεπαφή για εργασία με το στυλ κειμένου"
 type: docs
-weight: 3540
+weight: 3960
 url: /el/net/aspose.psd.fileformats.psd.layers.text/itextstyle/
 ---
+{{< psd/tize >}}
 ## ITextStyle interface
 
-Διεπαφή για εργασία με Text Style
+Διεπαφή για εργασία με στυλ κειμένου
 
 ```csharp
 public interface ITextStyle
@@ -16,52 +17,52 @@ public interface ITextStyle
 
 ## Ιδιότητες
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
-| [AutoKerning](../../aspose.psd.fileformats.psd.layers.text/itextstyle/autokerning/) { get; set; } | Λαμβάνει ή ρυθμίζει την αυτόματη πυροδότηση. |
-| [AutoLeading](../../aspose.psd.fileformats.psd.layers.text/itextstyle/autoleading/) { get; set; } | Λαμβάνει ή ορίζει μια τιμή που υποδεικνύει εάν [αυτόματη προαγωγή]. |
-| [BaselineShift](../../aspose.psd.fileformats.psd.layers.text/itextstyle/baselineshift/) { get; set; } | Η μετατόπιση της γραμμής βάσης. |
-| [ContextualAlternates](../../aspose.psd.fileformats.psd.layers.text/itextstyle/contextualalternates/) { get; set; } | Τα συμφραζόμενα εναλλακτικά που χρησιμοποιούνται για τη σύνδεση των γραμμάτων μεταξύ τους. |
-| [DiscretionaryLigatures](../../aspose.psd.fileformats.psd.layers.text/itextstyle/discretionaryligatures/) { get; set; } | Οι διακριτικές συνδέσεις που χρησιμοποιούνται για τη σύνδεση γραμμάτων, ειδικά σε γραμματοσειρές σεναρίου. |
-| [FauxBold](../../aspose.psd.fileformats.psd.layers.text/itextstyle/fauxbold/) { get; set; } | Λαμβάνει ή ρυθμίζει το faux bold είναι ενεργοποιημένο. |
-| [FauxItalic](../../aspose.psd.fileformats.psd.layers.text/itextstyle/fauxitalic/) { get; set; } | Λαμβάνει ή ρυθμίζει το faux bold είναι ενεργοποιημένο. |
-| [FillColor](../../aspose.psd.fileformats.psd.layers.text/itextstyle/fillcolor/) { get; set; } | Παίρνει ή ορίζει το χρώμα του γεμίσματος. |
-| [FontBaseline](../../aspose.psd.fileformats.psd.layers.text/itextstyle/fontbaseline/) { get; set; } | Η βασική γραμμή γραμματοσειράς. |
-| [FontCaps](../../aspose.psd.fileformats.psd.layers.text/itextstyle/fontcaps/) { get; set; } | Τα κεφαλαία γραμματοσειράς. |
-| [FontIndex](../../aspose.psd.fileformats.psd.layers.text/itextstyle/fontindex/) { get; } | Λαμβάνει το ευρετήριο γραμματοσειράς. |
-| [FontName](../../aspose.psd.fileformats.psd.layers.text/itextstyle/fontname/) { get; set; } | Λαμβάνει ή ορίζει το όνομα της γραμματοσειράς. |
+| [AutoKerning](../../aspose.psd.fileformats.psd.layers.text/itextstyle/autokerning/) { get; set; } | Λαμβάνει ή ορίζει το αυτόματο kerning. |
+| [AutoLeading](../../aspose.psd.fileformats.psd.layers.text/itextstyle/autoleading/) { get; set; } | Λαμβάνει ή ορίζει μια τιμή που υποδεικνύει εάν [automatic leading]. |
+| [BaselineShift](../../aspose.psd.fileformats.psd.layers.text/itextstyle/baselineshift/) { get; set; } | Η μετατόπιση γραμμής βάσης. |
+| [ContextualAlternates](../../aspose.psd.fileformats.psd.layers.text/itextstyle/contextualalternates/) { get; set; } | Οι συμφραζόμενες εναλλακτικές που χρησιμοποιούνται για τη σύνδεση των γραμμάτων. |
+| [DiscretionaryLigatures](../../aspose.psd.fileformats.psd.layers.text/itextstyle/discretionaryligatures/) { get; set; } | Οι προαιρετικές συνδέσεις γραμμάτων που χρησιμοποιούνται για τη σύνδεση των γραμμάτων, ειδικά σε γραμματοσειρές σκριπτ. |
+| [FauxBold](../../aspose.psd.fileformats.psd.layers.text/itextstyle/fauxbold/) { get; set; } | Λαμβάνει ή ορίζει αν το faux bold είναι ενεργοποιημένο. |
+| [FauxItalic](../../aspose.psd.fileformats.psd.layers.text/itextstyle/fauxitalic/) { get; set; } | Λαμβάνει ή ορίζει αν το faux bold είναι ενεργοποιημένο. |
+| [FillColor](../../aspose.psd.fileformats.psd.layers.text/itextstyle/fillcolor/) { get; set; } | Λαμβάνει ή ορίζει το χρώμα του γεμίσματος. |
+| [FontBaseline](../../aspose.psd.fileformats.psd.layers.text/itextstyle/fontbaseline/) { get; set; } | Η γραμμή βάσης της γραμματοσειράς. |
+| [FontCaps](../../aspose.psd.fileformats.psd.layers.text/itextstyle/fontcaps/) { get; set; } | Τα κεφαλαία της γραμματοσειράς. |
+| [FontIndex](../../aspose.psd.fileformats.psd.layers.text/itextstyle/fontindex/) { get; } | Λαμβάνει τον δείκτη της γραμματοσειράς. |
+| [FontName](../../aspose.psd.fileformats.psd.layers.text/itextstyle/fontname/) { get; set; } | Λαμβάνει ή ορίζει το όνομα γραμματοσειράς. |
 | [FontSize](../../aspose.psd.fileformats.psd.layers.text/itextstyle/fontsize/) { get; set; } | Λαμβάνει ή ορίζει το μέγεθος της γραμματοσειράς. |
-| [Fractions](../../aspose.psd.fileformats.psd.layers.text/itextstyle/fractions/) { get; set; } | Τα σύμβολα των κλασμάτων μπορούν να αντικατασταθούν με ειδική γλυφή. |
-| [HindiNumbers](../../aspose.psd.fileformats.psd.layers.text/itextstyle/hindinumbers/) { get; set; } | Λαμβάνει ή ορίζει μια τιμή που υποδεικνύει αν [hindi numbers]. |
+| [Fractions](../../aspose.psd.fileformats.psd.layers.text/itextstyle/fractions/) { get; set; } | Τα σύμβολα κλασμάτων μπορούν να αντικατασταθούν με ειδικό γλύφο. |
+| [HindiNumbers](../../aspose.psd.fileformats.psd.layers.text/itextstyle/hindinumbers/) { get; set; } | Λαμβάνει ή ορίζει μια τιμή που υποδεικνύει εάν [hindi numbers]. |
 | [HorizontalScale](../../aspose.psd.fileformats.psd.layers.text/itextstyle/horizontalscale/) { get; set; } | Η οριζόντια κλίμακα. |
-| [IsStandardVerticalRomanAlignmentEnabled](../../aspose.psd.fileformats.psd.layers.text/itextstyle/isstandardverticalromanalignmentenabled/) { get; set; } | Λαμβάνει ή ορίζει την τυπική κάθετη ρωμαϊκή στοίχιση. Αυτό με βάση την τιμή πόρου BaselineDirection ισχύει μόνο όταν ο προσανατολισμός κειμένου είναιVertical . |
-| [Kerning](../../aspose.psd.fileformats.psd.layers.text/itextstyle/kerning/) { get; set; } | Λαμβάνει ή ορίζει τον πυρήνα. |
-| [LanguageIndex](../../aspose.psd.fileformats.psd.layers.text/itextstyle/languageindex/) { get; } | Λαμβάνει το ευρετήριο γλώσσας. |
-| [Leading](../../aspose.psd.fileformats.psd.layers.text/itextstyle/leading/) { get; set; } | Παίρνει ή θέτει το προβάδισμα. |
-| [NoBreak](../../aspose.psd.fileformats.psd.layers.text/itextstyle/nobreak/) { get; set; } | Παίρνει ot ορίζει την τιμή χωρίς διακοπή. |
-| [StandardLigatures](../../aspose.psd.fileformats.psd.layers.text/itextstyle/standardligatures/) { get; set; } | Οι τυπικές συμφραζόμενες απολινώσεις που χρησιμοποιούνται για τη σύνδεση των γραμμάτων μεταξύ τους. |
+| [IsStandardVerticalRomanAlignmentEnabled](../../aspose.psd.fileformats.psd.layers.text/itextstyle/isstandardverticalromanalignmentenabled/) { get; set; } | Λαμβάνει ή ορίζει την τυπική κατακόρυφη ρωμαϊκή στοίχιση. Αυτό βασίζεται στην τιμή πόρου BaselineDirection και εφαρμόζεται μόνο όταν ο προσανατολισμός κειμένου είναι Κατακόρυφος. |
+| [Kerning](../../aspose.psd.fileformats.psd.layers.text/itextstyle/kerning/) { get; set; } | Λαμβάνει ή ορίζει το kerning. |
+| [LanguageIndex](../../aspose.psd.fileformats.psd.layers.text/itextstyle/languageindex/) { get; } | Λαμβάνει τον δείκτη της γλώσσας. |
+| [Leading](../../aspose.psd.fileformats.psd.layers.text/itextstyle/leading/) { get; set; } | Λαμβάνει ή ορίζει το leading. |
+| [NoBreak](../../aspose.psd.fileformats.psd.layers.text/itextstyle/nobreak/) { get; set; } | Λαμβάνει ή ορίζει την τιμή χωρίς διάλειμμα. |
+| [StandardLigatures](../../aspose.psd.fileformats.psd.layers.text/itextstyle/standardligatures/) { get; set; } | Οι τυπικές συμφραζόμενες συνδέσεις γραμμάτων που χρησιμοποιούνται για τη σύνδεση των γραμμάτων. |
 | [Strikethrough](../../aspose.psd.fileformats.psd.layers.text/itextstyle/strikethrough/) { get; set; } | Λαμβάνει ή ορίζει μια τιμή που υποδεικνύει εάν [strikethrough]. |
-| [StrokeColor](../../aspose.psd.fileformats.psd.layers.text/itextstyle/strokecolor/) { get; set; } | Λαμβάνει ή ρυθμίζει το χρώμα της διαδρομής. |
-| [Tracking](../../aspose.psd.fileformats.psd.layers.text/itextstyle/tracking/) { get; set; } | Λαμβάνει ή ορίζει την παρακολούθηση. |
-| [Underline](../../aspose.psd.fileformats.psd.layers.text/itextstyle/underline/) { get; set; } | Λαμβάνει ή ορίζει μια τιμή που υποδεικνύει εάν [υπογράμμιση]. |
-| [VerticalScale](../../aspose.psd.fileformats.psd.layers.text/itextstyle/verticalscale/) { get; set; } | Η κατακόρυφη κλίμακα. |
+| [StrokeColor](../../aspose.psd.fileformats.psd.layers.text/itextstyle/strokecolor/) { get; set; } | Λαμβάνει ή ορίζει το χρώμα του περιγράμματος. |
+| [Tracking](../../aspose.psd.fileformats.psd.layers.text/itextstyle/tracking/) { get; set; } | Λαμβάνει ή ορίζει το tracking. |
+| [Underline](../../aspose.psd.fileformats.psd.layers.text/itextstyle/underline/) { get; set; } | Λαμβάνει ή ορίζει μια τιμή που υποδεικνύει εάν [underline]. |
+| [VerticalScale](../../aspose.psd.fileformats.psd.layers.text/itextstyle/verticalscale/) { get; set; } | Κάθετη κλίμακα. |
 
 ## Μέθοδοι
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
 | [Apply](../../aspose.psd.fileformats.psd.layers.text/itextstyle/apply/)(ITextStyle) | Εφαρμόζει το καθορισμένο στυλ. |
 | [IsEqual](../../aspose.psd.fileformats.psd.layers.text/itextstyle/isequal/)(ITextStyle) | Καθορίζει εάν το καθορισμένο στυλ είναι ίσο. |
 
-### Παραδείγματα
+## Παραδείγματα
 
-Το ακόλουθο παράδειγμα δείχνει πώς μπορείτε να αποδώσετε διαφορετικά στυλ σε ένα επίπεδο κειμένου στο Aspose.PSD
+Το παρακάτω παράδειγμα δείχνει πώς μπορείτε να αποδώσετε διαφορετικά στυλ σε ένα στρώμα κειμένου στο Aspose.PSD
 
 ```csharp
 [C#]
 
 string sourceFile = "text212.psd";
-string etalonFile = "Ethalon_text212.psd";
+string etalonFile = "Output_text212.psd";
 string outputFile = "Output_text212.psd";
 
 using (var img = (PsdImage)Image.Load(sourceFile))
@@ -84,12 +85,12 @@ using (var img = (PsdImage)Image.Load(sourceFile))
         defaultStyle,
         defaultParagraph);
 
-    newPortions[0].Style.Underline = true; // Επεξεργασία στυλ κειμένου "E=mc"
-    newPortions[1].Style.FontBaseline = FontBaseline.Superscript; // Επεξεργασία στυλ κειμένου "2\r"
-    newPortions[2].Style.FauxBold = true; // Επεξεργασία στυλ κειμένου "Έντονη"
-    newPortions[3].Style.FauxItalic = true; // Επεξεργασία στυλ κειμένου "Italic\r"
-    newPortions[3].Style.BaselineShift = -25; // Επεξεργασία στυλ κειμένου "Italic\r"
-    newPortions[4].Style.FontCaps = FontCaps.SmallCaps; // Επεξεργασία στυλ κειμένου "Κείμενο με πεζά γράμματα"
+    newPortions[0].Style.Underline = true; // edit text style "E=mc"
+    newPortions[1].Style.FontBaseline = FontBaseline.Superscript; // edit text style "2\r"
+    newPortions[2].Style.FauxBold = true; // edit text style "Bold"
+    newPortions[3].Style.FauxItalic = true; // edit text style "Italic\r"
+    newPortions[3].Style.BaselineShift = -25; // edit text style "Italic\r"
+    newPortions[4].Style.FontCaps = FontCaps.SmallCaps; // edit text style "Lowercasetext"
 
     foreach (var newPortion in newPortions)
     {
@@ -101,12 +102,12 @@ using (var img = (PsdImage)Image.Load(sourceFile))
 }
 ```
 
-Ο ακόλουθος κώδικας δείχνει πώς να λάβετε μέγεθος γραμματοσειράς για οποιοδήποτε τμήμα κειμένου στο επίπεδο κειμένου.
+Ο παρακάτω κώδικας δείχνει πώς να λάβετε το μέγεθος γραμματοσειράς για οποιοδήποτε τμήμα κειμένου στο στρώμα κειμένου.
 
 ```csharp
 [C#]
 
-// Εξήχθη λάθος μέγεθος γραμματοσειράς 
+// Εξήχθη λανθασμένο μέγεθος γραμματοσειράς 
 string filePath = "直播+电商.psd";
 
 var tolerance = 0.001;
@@ -114,7 +115,7 @@ using (var image = Image.Load(filePath))
 {
     int layerIndex = 22;
 
-    // Παλιό API (Χρησιμοποιώντας τη γραμματοσειρά της πρώτης παραγράφου)
+    // Παλαιό API (Χρήση της γραμματοσειράς της πρώτης παραγράφου)
     PsdImage psdImage = image as PsdImage;
     double[] matrix = ((TextLayer)psdImage.Layers[layerIndex]).TransformMatrix;
     double baseFontSize = ((TextLayer)psdImage.Layers[layerIndex]).Font.Size;
@@ -126,7 +127,7 @@ using (var image = Image.Load(filePath))
         throw new Exception("Font size was read incorrect");
     }
 
-    // Έλεγχος πραγματικού μεγέθους γραμματοσειράς
+    // Έλεγχος του πραγματικού μεγέθους γραμματοσειράς
     if (Math.Abs(88.425 - fontSize) > tolerance)
     {
         throw new Exception("TransformMatrix was read incorrect");
@@ -137,13 +138,13 @@ using (var image = Image.Load(filePath))
     ITextStyle style = portions[0].Style;
     double fontSizeOfPortion = matrix[0] * style.FontSize;
 
-    // Έλεγχος του μεγέθους γραμματοσειράς του βασικού τμήματος
+    // Έλεγχος του μεγέθους γραμματοσειράς της βασικής περιοχής
     if (Math.Abs(100.0 - style.FontSize) > tolerance)
     {
         throw new Exception("Font size was read incorrect");
     }
 
-    // Έλεγχος μεγέθους γραμματοσειράς πραγματικού τμήματος
+    // Έλεγχος του μεγέθους γραμματοσειράς της πραγματικής περιοχής
     if (Math.Abs(88.425 - fontSizeOfPortion) > tolerance)
     {
         throw new Exception("TransformMatrix was read incorrect");
@@ -151,7 +152,7 @@ using (var image = Image.Load(filePath))
 }
 ```
 
-Το ακόλουθο παράδειγμα κώδικα δείχνει τα τμήματα κειμένου επεξεργασίας και το στυλ κειμένου τους.
+Το παρακάτω παράδειγμα κώδικα δείχνει την επεξεργασία τμημάτων κειμένου και του στυλ κειμένου τους.
 
 ```csharp
 [C#]
@@ -184,7 +185,7 @@ using (var im = (PsdImage)Image.Load(filePath))
             }
 
             // Έλεγχος δεδομένων παραγράφων
-            // Οι παράγραφοι έχουν διαφορετική αιτιολόγηση
+            // Οι παράγραφοι έχουν διαφορετική στοίχιση
             if (
                 (int)portions[0].Paragraph.Justification != 0 ||
                 (int)portions[1].Paragraph.Justification != 0 ||
@@ -218,7 +219,7 @@ using (var im = (PsdImage)Image.Load(filePath))
                     Math.Abs(paragraph.LetterSpacing[0]) > Tolerance ||
                     Math.Abs(paragraph.LetterSpacing[1]) > Tolerance ||
                     Math.Abs(paragraph.LetterSpacing[2]) > Tolerance ||
-                    paragraph.LeadingType != LeadingMode.Auto ||
+                    paragraph.LeadingType != LeadingType.BottomToBottom ||
                     paragraph.PreHyphen != 2 ||
                     paragraph.PostHyphen != 2 ||
                     Math.Abs(paragraph.SpaceBefore) > Tolerance ||
@@ -282,12 +283,12 @@ using (var im = (PsdImage)Image.Load(filePath))
             portions = layer.TextData.Items;
 
             // Παράδειγμα επεξεργασίας παραγράφου και στυλ για τμήματα
-            // Ορισμός σωστής αιτιολόγησης
+            // Ορισμός δεξιάς στοίχισης
             portions[0].Paragraph.Justification = JustificationMode.Right;
             portions[1].Paragraph.Justification = JustificationMode.Right;
             portions[2].Paragraph.Justification = JustificationMode.Right;
 
-            // Διαφορετικά χρώματα για κάθε στυλ. Θα αλλάξει, αλλά η απόδοση δεν υποστηρίζεται πλήρως
+            // Διαφορετικά χρώματα για κάθε στυλ. Θα αλλάξουν, αλλά η απόδοση δεν υποστηρίζεται πλήρως
             portions[0].Style.FillColor = Color.Aquamarine;
             portions[1].Style.FillColor = Color.Violet;
             portions[2].Style.FillColor = Color.LightBlue;
@@ -309,7 +310,7 @@ using (var im = (PsdImage)Image.Load(filePath))
 
 ### Δείτε επίσης
 
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.Text](../../aspose.psd.fileformats.psd.layers.text/)
-* συνέλευση [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.Text](../../aspose.psd.fileformats.psd.layers.text/)
+* assembly [Aspose.PSD](../../)
 
 

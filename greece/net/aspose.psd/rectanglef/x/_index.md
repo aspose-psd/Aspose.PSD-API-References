@@ -1,27 +1,28 @@
 ---
-title: RectangleF.X
-second_title: Aspose.PSD για Αναφορά API .NET
-description: RectangleF ιδιοκτησία. Λαμβάνει ή ορίζει τη συντεταγμένη x της επάνω αριστερής γωνίας αυτούRectangleFδομή.
+title: "RectangleF.X"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα RectangleF. Λαμβάνει ή ορίζει τη συντεταγμένη x της επάνω αριστερής γωνίας αυτής της δομής RectangleF"
 type: docs
 weight: 170
 url: /el/net/aspose.psd/rectanglef/x/
 ---
+{{< psd/tize >}}
 ## RectangleF.X property
 
-Λαμβάνει ή ορίζει τη συντεταγμένη x της επάνω αριστερής γωνίας αυτού[`RectangleF`](../)δομή.
+Λαμβάνει ή ορίζει τη συντεταγμένη x της επάνω αριστερής γωνίας αυτής της δομής [`RectangleF`](../).
 
 ```csharp
 public float X { get; set; }
 ```
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-Η συντεταγμένη x της επάνω αριστερής γωνίας αυτού[`RectangleF`](../) δομή.
+Η συντεταγμένη x της επάνω αριστερής γωνίας αυτής της δομής [`RectangleF`](../).
 
 ### Δείτε επίσης
 
 * struct [RectangleF](../)
-* χώρος ονομάτων [Aspose.PSD](../../rectanglef/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: FontSettings.GetDefaultFontsFolders
-second_title: Aspose.PSD για Αναφορά API .NET
-description: FontSettings μέθοδος. Λαμβάνει τους προεπιλεγμένους φακέλους γραμματοσειρών.
+title: "FontSettings.GetDefaultFontsFolders"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Μέθοδος FontSettings. Λαμβάνει τους προεπιλεγμένους φακέλους γραμματοσειρών"
 type: docs
-weight: 40
+weight: 50
 url: /el/net/aspose.psd/fontsettings/getdefaultfontsfolders/
 ---
+{{< psd/tize >}}
 ## FontSettings.GetDefaultFontsFolders method
 
 Λαμβάνει τους προεπιλεγμένους φακέλους γραμματοσειρών.
@@ -14,14 +15,14 @@ url: /el/net/aspose.psd/fontsettings/getdefaultfontsfolders/
 public static string[] GetDefaultFontsFolders()
 ```
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
 Επιστρέφει το φάκελο συστήματος
 
 ### Δείτε επίσης
 
 * class [FontSettings](../)
-* χώρος ονομάτων [Aspose.PSD](../../fontsettings/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

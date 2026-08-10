@@ -1,26 +1,27 @@
 ---
-title: PatternFillSettings.AlignWithLayer
-second_title: Aspose.PSD για Αναφορά API .NET
-description: PatternFillSettings ιδιοκτησία. Λαμβάνει ή ορίζει μια τιμή που υποδεικνύει εάν σύνδεση με επίπεδο.
+title: "PatternFillSettings.AlignWithLayer"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "PatternFillSettings ιδιότητα. Λαμβάνει ή ορίζει μια τιμή που υποδεικνύει εάν υπάρχει σύνδεση με το επίπεδο"
 type: docs
-weight: 10
+weight: 20
 url: /el/net/aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings/alignwithlayer/
 ---
+{{< psd/tize >}}
 ## PatternFillSettings.AlignWithLayer property
 
-Λαμβάνει ή ορίζει μια τιμή που υποδεικνύει εάν [σύνδεση με επίπεδο].
+Λαμβάνει ή ορίζει μια τιμή που υποδεικνύει εάν [link with layer].
 
 ```csharp
 public bool AlignWithLayer { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-`αληθής` εάν [σύνδεσμος με στρώμα]; σε διαφορετική περίπτωση,`ψευδής` .
+`true` εάν [link with layer]· διαφορετικά, `false`.
 
-### Παραδείγματα
+## Παραδείγματα
 
-Ο ακόλουθος κώδικας δείχνει την υποστήριξη της επεξεργασίας του μοτίβου στρώματος γεμίσματος.
+Ο παρακάτω κώδικας δείχνει την υποστήριξη της επεξεργασίας του μοτίβου στρώσης γεμίσματος.
 
 ```csharp
 [C#]
@@ -78,7 +79,7 @@ using (im)
 ### Δείτε επίσης
 
 * class [PatternFillSettings](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../patternfillsettings/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,35 +1,36 @@
 ---
-title: Enum ColorModes
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Aspose.PSD.FileFormats.Psd.ColorModes αρίθμηση. Αντιπροσωπεύει τις χρωματικές λειτουργίες μορφής αρχείου psd.
+title: "Enum ColorModes"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Aspose.PSD.FileFormats.Psd.ColorModes enum. Αναπαριστά τις λειτουργίες χρώματος της μορφής αρχείου psd"
 type: docs
-weight: 1610
+weight: 1620
 url: /el/net/aspose.psd.fileformats.psd/colormodes/
 ---
+{{< psd/tize >}}
 ## ColorModes enumeration
 
-Αντιπροσωπεύει τις χρωματικές λειτουργίες μορφής αρχείου psd.
+Αναπαριστά τις λειτουργίες χρώματος του μορφότυπου αρχείου PSD.
 
 ```csharp
 public enum ColorModes : short
 ```
 
-### Αξίες
+### Τιμές
 
-| Ονομα | αξία | Περιγραφή |
+| Όνομα | Τιμή | Περιγραφή |
 | --- | --- | --- |
 | Bitmap | `0` | Η λειτουργία χρώματος bitmap. |
 | Grayscale | `1` | Η λειτουργία κλίμακας του γκρι. |
-| Indexed | `2` | Λειτουργία με ευρετήριο χρώματος. |
-| Rgb | `3` | λειτουργία χρώματος RGB. |
-| Cmyk | `4` | λειτουργία χρώματος CMYK. |
+| Indexed | `2` | Λειτουργία χρώματος με ευρετήριο. |
+| Rgb | `3` | Λειτουργία χρώματος RGB. |
+| Cmyk | `4` | Λειτουργία χρώματος CMYK. |
 | Multichannel | `7` | Λειτουργία χρώματος πολλαπλών καναλιών. |
-| Duotone | `8` | Λειτουργία χρώματος Duotone. |
-| Lab | `9` | Λειτουργία χρώματος εργαστηρίου. |
+| Duotone | `8` | Λειτουργία χρώματος δυοτονική. |
+| Lab | `9` | Λειτουργία χρώματος Lab. |
 
 ### Δείτε επίσης
 
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd](../../aspose.psd.fileformats.psd/)
-* συνέλευση [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../)
 
 

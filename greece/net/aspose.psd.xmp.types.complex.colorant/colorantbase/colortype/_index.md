@@ -1,11 +1,12 @@
 ---
-title: ColorantBase.ColorType
-second_title: Aspose.PSD για Αναφορά API .NET
-description: ColorantBase ιδιοκτησία. Λαμβάνει ή ορίζει τον τύπο του χρώματος.
+title: "ColorantBase.ColorType"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα ColorantBase. Λαμβάνει ή ορίζει τον τύπο του χρώματος"
 type: docs
 weight: 10
 url: /el/net/aspose.psd.xmp.types.complex.colorant/colorantbase/colortype/
 ---
+{{< psd/tize >}}
 ## ColorantBase.ColorType property
 
 Λαμβάνει ή ορίζει τον τύπο του χρώματος.
@@ -14,7 +15,7 @@ url: /el/net/aspose.psd.xmp.types.complex.colorant/colorantbase/colortype/
 public ColorType ColorType { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
 Ο τύπος του χρώματος.
 
@@ -22,7 +23,7 @@ public ColorType ColorType { get; set; }
 
 * enum [ColorType](../../colortype/)
 * class [ColorantBase](../)
-* χώρος ονομάτων [Aspose.PSD.Xmp.Types.Complex.Colorant](../../colorantbase/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.Colorant](../../../aspose.psd.xmp.types.complex.colorant/)
+* assembly [Aspose.PSD](../../../)
 
 

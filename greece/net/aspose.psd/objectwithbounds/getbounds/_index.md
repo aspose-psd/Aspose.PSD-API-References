@@ -1,11 +1,12 @@
 ---
-title: ObjectWithBounds.GetBounds
-second_title: Aspose.PSD για Αναφορά API .NET
-description: ObjectWithBounds μέθοδος. Λαμβάνει τα όρια του αντικειμένου.
+title: "ObjectWithBounds.GetBounds"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Μέθοδος ObjectWithBounds. Λαμβάνει τα όρια του αντικειμένου"
 type: docs
 weight: 20
 url: /el/net/aspose.psd/objectwithbounds/getbounds/
 ---
+{{< psd/tize >}}
 ## GetBounds(Matrix) {#getbounds}
 
 Λαμβάνει τα όρια του αντικειμένου.
@@ -16,19 +17,19 @@ public abstract RectangleF GetBounds(Matrix matrix)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| matrix | Matrix | Θα υπολογιστεί ο πίνακας που θα εφαρμοστεί πριν από τα όρια. |
+| μήτρα | Matrix | Η μήτρα που θα εφαρμοστεί πριν υπολογιστούν τα όρια. |
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-Τα όρια του εκτιμώμενου αντικειμένου.
+Τα εκτιμώμενα όρια του αντικειμένου.
 
 ### Δείτε επίσης
 
 * struct [RectangleF](../../rectanglef/)
 * class [Matrix](../../matrix/)
 * class [ObjectWithBounds](../)
-* χώρος ονομάτων [Aspose.PSD](../../objectwithbounds/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
@@ -42,12 +43,12 @@ public abstract RectangleF GetBounds(Matrix matrix, Pen pen)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| matrix | Matrix | Θα υπολογιστεί ο πίνακας που θα εφαρμοστεί πριν από τα όρια. |
-| pen | Pen | Το στυλό που χρησιμοποιείται για αντικείμενο. Αυτό μπορεί να επηρεάσει το μέγεθος των ορίων του αντικειμένου. |
+| μήτρα | Matrix | Η μήτρα που θα εφαρμοστεί πριν υπολογιστούν τα όρια. |
+| πέννα | Πέννα | Η πέννα που θα χρησιμοποιηθεί για το αντικείμενο. Αυτό μπορεί να επηρεάσει το μέγεθος των ορίων του αντικειμένου. |
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-Τα όρια του εκτιμώμενου αντικειμένου.
+Τα εκτιμώμενα όρια του αντικειμένου.
 
 ### Δείτε επίσης
 
@@ -55,7 +56,7 @@ public abstract RectangleF GetBounds(Matrix matrix, Pen pen)
 * class [Matrix](../../matrix/)
 * class [Pen](../../pen/)
 * class [ObjectWithBounds](../)
-* χώρος ονομάτων [Aspose.PSD](../../objectwithbounds/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

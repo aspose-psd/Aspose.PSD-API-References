@@ -1,20 +1,21 @@
 ---
-title: PsdOptions.Resources
-second_title: Aspose.PSD για Αναφορά API .NET
-description: PsdOptions ιδιοκτησία. Λαμβάνει ή ορίζει τους πόρους psd.
+title: "PsdOptions.Resources"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα PsdOptions. Λαμβάνει ή ορίζει τους πόρους psd. Εάν η τιμή είναι NULL, τότε αποθηκεύει το αρχικό ImageResources (προεπιλεγμένη συμπεριφορά). Εάν δεν είναι κενή, αποθηκεύει τους πόρους που περάστηκαν σε αυτήν την ιδιότητα. Εάν οι απαιτούμενοι πόροι είναι κενές, αποθηκεύονται μόνο οι απαιτούμενοι πόροι. Απαιτούμενοι πόροι: ResolutionInfoResource, XmpResource."
 type: docs
-weight: 90
+weight: 100
 url: /el/net/aspose.psd.imageoptions/psdoptions/resources/
 ---
+{{< psd/tize >}}
 ## PsdOptions.Resources property
 
-Λαμβάνει ή ορίζει τους πόρους psd.
+Λαμβάνει ή ορίζει τους πόρους psd. Εάν η τιμή: NULL - τότε αποθηκεύει τους αρχικούς ImageResources (προεπιλεγμένη συμπεριφορά) Not Empty - τότε αποθηκεύει τους πόρους που περάστηκαν σε αυτή την ιδιότητα + [required resources] Empty - τότε αποθηκεύονται μόνο [required resources]. Απαιτούμενοι πόροι: ResolutionInfoResource, XmpResource
 
 ```csharp
 public ResourceBlock[] Resources { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
 Οι πόροι psd.
 
@@ -22,7 +23,7 @@ public ResourceBlock[] Resources { get; set; }
 
 * class [ResourceBlock](../../../aspose.psd.fileformats.psd/resourceblock/)
 * class [PsdOptions](../)
-* χώρος ονομάτων [Aspose.PSD.ImageOptions](../../psdoptions/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: TiffStreamReader.ReadSLong
-second_title: Aspose.PSD για Αναφορά API .NET
-description: TiffStreamReader μέθοδος. Ανάγνωση υπογεγραμμένης ακέραιας τιμής από τη ροή.
+title: "TiffStreamReader.ReadSLong"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Μέθοδος TiffStreamReader. Διαβάζει τιμή υπογεγραμμένου ακέραιου από τη ροή"
 type: docs
 weight: 130
 url: /el/net/aspose.psd.fileformats.tiff.filemanagement/tiffstreamreader/readslong/
 ---
+{{< psd/tize >}}
 ## TiffStreamReader.ReadSLong method
 
-Ανάγνωση υπογεγραμμένης ακέραιας τιμής από τη ροή.
+Διαβάζει τιμή υπογεγραμμένου ακέραιου από το ρεύμα.
 
 ```csharp
 public int ReadSLong(long position)
@@ -16,16 +17,16 @@ public int ReadSLong(long position)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| position | Int64 | Η θέση για να διαβάσετε από. |
+| θέση | Int64 | Η θέση από την οποία θα διαβαστεί. |
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-Μια υπογεγραμμένη ακέραια τιμή.
+Μια υπογεγραμμένη τιμή ακέραιου.
 
 ### Δείτε επίσης
 
 * class [TiffStreamReader](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Tiff.FileManagement](../../tiffstreamreader/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff.FileManagement](../../../aspose.psd.fileformats.tiff.filemanagement/)
+* assembly [Aspose.PSD](../../../)
 
 

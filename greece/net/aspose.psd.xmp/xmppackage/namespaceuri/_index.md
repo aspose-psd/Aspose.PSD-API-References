@@ -1,27 +1,28 @@
 ---
-title: XmpPackage.NamespaceUri
-second_title: Aspose.PSD για Αναφορά API .NET
-description: XmpPackage ιδιοκτησία. Λαμβάνει το URI χώρου ονομάτων.
+title: "XmpPackage.NamespaceUri"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα XmpPackage. Ανακτά το URI του namespace"
 type: docs
 weight: 30
 url: /el/net/aspose.psd.xmp/xmppackage/namespaceuri/
 ---
+{{< psd/tize >}}
 ## XmpPackage.NamespaceUri property
 
-Λαμβάνει το URI χώρου ονομάτων.
+Λαμβάνει το URI του χώρου ονομάτων.
 
 ```csharp
 public string NamespaceUri { get; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Ο χώρος ονομάτων URI.
+Το URI του ονοματοχώρου.
 
 ### Δείτε επίσης
 
 * class [XmpPackage](../)
-* χώρος ονομάτων [Aspose.PSD.Xmp](../../xmppackage/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

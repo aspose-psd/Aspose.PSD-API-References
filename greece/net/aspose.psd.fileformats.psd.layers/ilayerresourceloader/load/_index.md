@@ -1,14 +1,15 @@
 ---
-title: ILayerResourceLoader.Load
-second_title: Aspose.PSD για Αναφορά API .NET
-description: ILayerResourceLoader μέθοδος. Φορτώνει τοLayerResource .
+title: "ILayerResourceLoader.Load"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Μέθοδος ILayerResourceLoader. Φορτώνει το LayerResource"
 type: docs
 weight: 20
 url: /el/net/aspose.psd.fileformats.psd.layers/ilayerresourceloader/load/
 ---
+{{< psd/tize >}}
 ## ILayerResourceLoader.Load method
 
-Φορτώνει το[`LayerResource`](../../layerresource/) .
+Φορτώνει το [`LayerResource`](../../layerresource/).
 
 ```csharp
 public LayerResource Load(StreamContainer streamContainer, int psdVersion)
@@ -16,10 +17,10 @@ public LayerResource Load(StreamContainer streamContainer, int psdVersion)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| streamContainer | StreamContainer | Το κοντέινερ ροής για φόρτωση. |
+| streamContainer | StreamContainer | Το κοντέινερ ροής από το οποίο θα φορτωθεί. |
 | psdVersion | Int32 | Η έκδοση PSD. |
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
 Ο φορτωμένος πόρος.
 
@@ -28,7 +29,7 @@ public LayerResource Load(StreamContainer streamContainer, int psdVersion)
 * class [LayerResource](../../layerresource/)
 * class [StreamContainer](../../../aspose.psd/streamcontainer/)
 * interface [ILayerResourceLoader](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers](../../ilayerresourceloader/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

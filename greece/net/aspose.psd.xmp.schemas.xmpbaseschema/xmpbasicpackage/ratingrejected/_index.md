@@ -1,14 +1,15 @@
 ---
-title: XmpBasicPackage.RatingRejected
-second_title: Aspose.PSD για Αναφορά API .NET
-description: XmpBasicPackage πεδίο. Απορριφθείσα τιμή αξιολόγησης.
+title: "XmpBasicPackage.RatingRejected"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Πεδίο XmpBasicPackage. Τιμή απόρριψης αξιολόγησης"
 type: docs
-weight: 120
+weight: 150
 url: /el/net/aspose.psd.xmp.schemas.xmpbaseschema/xmpbasicpackage/ratingrejected/
 ---
+{{< psd/tize >}}
 ## XmpBasicPackage.RatingRejected field
 
-Απορριφθείσα τιμή αξιολόγησης.
+Απορριπτέα τιμή αξιολόγησης.
 
 ```csharp
 public const int RatingRejected;
@@ -17,7 +18,7 @@ public const int RatingRejected;
 ### Δείτε επίσης
 
 * class [XmpBasicPackage](../)
-* χώρος ονομάτων [Aspose.PSD.Xmp.Schemas.XmpBaseSchema](../../xmpbasicpackage/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpBaseSchema](../../../aspose.psd.xmp.schemas.xmpbaseschema/)
+* assembly [Aspose.PSD](../../../)
 
 

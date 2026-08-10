@@ -1,11 +1,12 @@
 ---
-title: Enum ExifSceneCaptureType
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Aspose.PSD.Exif.Enums.ExifSceneCaptureType αρίθμηση. exif τύπος λήψης σκηνής enum.
+title: "Enum ExifSceneCaptureType"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Aspose.PSD.Exif.Enums.ExifSceneCaptureType enum. exif scene capture type enum"
 type: docs
-weight: 930
+weight: 940
 url: /el/net/aspose.psd.exif.enums/exifscenecapturetype/
 ---
+{{< psd/tize >}}
 ## ExifSceneCaptureType enumeration
 
 exif τύπος λήψης σκηνής enum.
@@ -14,18 +15,18 @@ exif τύπος λήψης σκηνής enum.
 public enum ExifSceneCaptureType
 ```
 
-### Αξίες
+### Τιμές
 
-| Ονομα | αξία | Περιγραφή |
+| Όνομα | Τιμή | Περιγραφή |
 | --- | --- | --- |
 | Standard | `0` | Τυπική σκηνή. |
-| Landscape | `1` | Τοπίο σκηνή. |
+| Landscape | `1` | Σκηνή τοπίου. |
 | Portrait | `2` | Σκηνή πορτραίτου. |
 | NightScene | `3` | Νυχτερινή σκηνή. |
 
 ### Δείτε επίσης
 
-* χώρος ονομάτων [Aspose.PSD.Exif.Enums](../../aspose.psd.exif.enums/)
-* συνέλευση [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Exif.Enums](../../aspose.psd.exif.enums/)
+* assembly [Aspose.PSD](../../)
 
 

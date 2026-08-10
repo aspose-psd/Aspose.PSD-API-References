@@ -1,14 +1,15 @@
 ---
-title: Class FileCreateSource
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Aspose.PSD.Sources.FileCreateSource τάξη. Αντιπροσωπεύει μια πηγή αρχείου για δημιουργία.
+title: "Κλάση FileCreateSource"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Κλάση Aspose.PSD.Sources.FileCreateSource. Αντιπροσωπεύει μια πηγή αρχείου για δημιουργία."
 type: docs
-weight: 5590
+weight: 6090
 url: /el/net/aspose.psd.sources/filecreatesource/
 ---
+{{< psd/tize >}}
 ## FileCreateSource class
 
-Αντιπροσωπεύει μια πηγή αρχείου για δημιουργία.
+Αναπαριστά πηγή αρχείου για δημιουργία.
 
 ```csharp
 public sealed class FileCreateSource : FileSource
@@ -16,53 +17,53 @@ public sealed class FileCreateSource : FileSource
 
 ## Κατασκευαστές
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
-| [FileCreateSource](filecreatesource/#constructor)(string) | Αρχικοποιεί μια νέα παρουσία του`FileCreateSource` τάξη. |
-| [FileCreateSource](filecreatesource/#constructor_1)(string, bool) | Αρχικοποιεί μια νέα παρουσία του`FileCreateSource` τάξη. |
+| [FileCreateSource](filecreatesource/#constructor)(string) | Αρχικοποιεί ένα νέο στιγμιότυπο της κλάσης `FileCreateSource`. |
+| [FileCreateSource](filecreatesource/#constructor_1)(string, bool) | Αρχικοποιεί ένα νέο στιγμιότυπο της κλάσης `FileCreateSource`. |
 
 ## Ιδιότητες
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
-| [FilePath](../../aspose.psd.sources/filecreatesource/filepath/) { get; } | Λαμβάνει τη διαδρομή αρχείου για δημιουργία. |
-| override [IsTemporal](../../aspose.psd.sources/filecreatesource/istemporal/) { get; } | Λαμβάνει μια τιμή που υποδεικνύει εάν το αρχείο θα είναι προσωρινό. |
+| [FilePath](../../aspose.psd.sources/filecreatesource/filepath/) { get; } | Λαμβάνει τη διαδρομή του αρχείου για δημιουργία. |
+| override [IsTemporal](../../aspose.psd.sources/filecreatesource/istemporal/) { get; } | Λαμβάνει μια τιμή που υποδεικνύει αν το αρχείο θα είναι προσωρινό. |
 
 ## Μέθοδοι
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
 | override [GetStreamContainer](../../aspose.psd.sources/filecreatesource/getstreamcontainer/)() | Λαμβάνει το κοντέινερ ροής. |
 
-### Παραδείγματα
+## Παραδείγματα
 
-Αυτό το παράδειγμα δείχνει τη χρήση της κλάσης Font και SolidBrush για τη σχεδίαση συμβολοσειρών στην επιφάνεια εικόνας. Το παράδειγμα δημιουργεί μια νέα εικόνα και σχεδιάζει σχήματα χρησιμοποιώντας το Figure και το GraphicsPath
+Αυτό το παράδειγμα δείχνει τη χρήση των κλάσεων Font και SolidBrush για τη σχεδίαση κειμένων στην επιφάνεια της Image. Το παράδειγμα δημιουργεί μια νέα Image και σχεδιάζει σχήματα χρησιμοποιώντας τις Figures και το GraphicsPath.
 
 ```csharp
 [C#]
 
-//Δημιουργεί μια παρουσία εικόνας
+//Δημιουργεί ένα στιγμιότυπο της Image.
 using (Aspose.PSD.Image image = new Aspose.PSD.FileFormats.Psd.PsdImage(500, 500))
 {
-    //Δημιουργεί και προετοιμάζει μια παρουσία της κλάσης Graphics
+    //Δημιουργεί και αρχικοποιεί ένα στιγμιότυπο της κλάσης Graphics.
     Aspose.PSD.Graphics graphics = new Aspose.PSD.Graphics(image);
 
-    //Καθαρίζει την επιφάνεια γραφικών
+    //Καθαρίζει την επιφάνεια Graphics.
     graphics.Clear(Color.Wheat);
 
-    //Δημιουργεί μια παρουσία γραμματοσειράς
+    //Δημιουργεί ένα στιγμιότυπο της Font.
     Aspose.PSD.Font font = new Aspose.PSD.Font("Times New Roman", 16);
 
-    //Δημιουργήστε μια παρουσία του SolidBrush με κόκκινο χρώμα
+    //Δημιουργεί ένα στιγμιότυπο της SolidBrush με κόκκινο χρώμα.
     Aspose.PSD.Brushes.SolidBrush brush = new Aspose.PSD.Brushes.SolidBrush(Color.Red);
 
-    //Σχεδιάστε μια συμβολοσειρά
+    //Σχεδιάζει μια συμβολοσειρά.
     graphics.DrawString("Created by Aspose.PSD for .Net", font, brush, new PointF(100, 100));
 
-    // δημιουργία επιλογών εξαγωγής.
+    // Δημιουργεί επιλογές εξαγωγής.
     Aspose.PSD.ImageOptions.GifOptions options = new Aspose.PSD.ImageOptions.GifOptions();
 
-    // αποθήκευση όλων των αλλαγών
+    // αποθηκεύστε όλες τις αλλαγές
     image.Save("C:\\temp\\output.gif", options);
 }
 ```
@@ -70,7 +71,7 @@ using (Aspose.PSD.Image image = new Aspose.PSD.FileFormats.Psd.PsdImage(500, 500
 ### Δείτε επίσης
 
 * class [FileSource](../filesource/)
-* χώρος ονομάτων [Aspose.PSD.Sources](../../aspose.psd.sources/)
-* συνέλευση [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Sources](../../aspose.psd.sources/)
+* assembly [Aspose.PSD](../../)
 
 

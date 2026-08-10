@@ -1,14 +1,15 @@
 ---
-title: JpegOptions.ExifData
-second_title: Aspose.PSD για Αναφορά API .NET
-description: JpegOptions ιδιοκτησία. Λήψη ή ρύθμιση exif data container
+title: "JpegOptions.ExifData"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα JpegOptions. Λαμβάνει ή ορίζει το δοχείο δεδομένων exif"
 type: docs
-weight: 70
+weight: 80
 url: /el/net/aspose.psd.imageoptions/jpegoptions/exifdata/
 ---
+{{< psd/tize >}}
 ## JpegOptions.ExifData property
 
-Λήψη ή ρύθμιση exif data container
+Λάβετε ή ορίστε το δοχείο δεδομένων exif
 
 ```csharp
 public JpegExifData ExifData { get; set; }
@@ -18,7 +19,7 @@ public JpegExifData ExifData { get; set; }
 
 * class [JpegExifData](../../../aspose.psd.exif/jpegexifdata/)
 * class [JpegOptions](../)
-* χώρος ονομάτων [Aspose.PSD.ImageOptions](../../jpegoptions/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

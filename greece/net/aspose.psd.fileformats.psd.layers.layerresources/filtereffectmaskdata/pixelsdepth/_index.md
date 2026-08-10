@@ -1,14 +1,15 @@
 ---
-title: FilterEffectMaskData.PixelsDepth
-second_title: Aspose.PSD για Αναφορά API .NET
-description: FilterEffectMaskData ιδιοκτησία. Λαμβάνει το βάθος των pixel.
+title: "FilterEffectMaskData.PixelsDepth"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα FilterEffectMaskData. Παίρνει το βάθος εικονοστοιχείων"
 type: docs
 weight: 70
 url: /el/net/aspose.psd.fileformats.psd.layers.layerresources/filtereffectmaskdata/pixelsdepth/
 ---
+{{< psd/tize >}}
 ## FilterEffectMaskData.PixelsDepth property
 
-Λαμβάνει το βάθος των pixel.
+Λαμβάνει το βάθος των εικονοστοιχείων.
 
 ```csharp
 public int PixelsDepth { get; }
@@ -17,7 +18,7 @@ public int PixelsDepth { get; }
 ### Δείτε επίσης
 
 * class [FilterEffectMaskData](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../filtereffectmaskdata/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

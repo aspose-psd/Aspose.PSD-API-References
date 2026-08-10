@@ -1,14 +1,15 @@
 ---
-title: NonGenericDictionary.Contains
-second_title: Aspose.PSD για Αναφορά API .NET
-description: NonGenericDictionary μέθοδος. Καθορίζει εάν το IDictionary Το αντικείμενο περιέχει ένα στοιχείο με το καθορισμένο κλειδί.
+title: "NonGenericDictionary.Contains"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Μέθοδος NonGenericDictionary. Καθορίζει εάν το αντικείμενο IDictionary περιέχει ένα στοιχείο με το καθορισμένο κλειδί"
 type: docs
 weight: 120
 url: /el/net/aspose.psd/nongenericdictionary/contains/
 ---
+{{< psd/tize >}}
 ## NonGenericDictionary.Contains method
 
-Καθορίζει εάν το IDictionary Το αντικείμενο περιέχει ένα στοιχείο με το καθορισμένο κλειδί.
+Καθορίζει εάν το αντικείμενο IDictionary περιέχει ένα στοιχείο με το καθορισμένο κλειδί.
 
 ```csharp
 public bool Contains(object key)
@@ -16,16 +17,16 @@ public bool Contains(object key)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| key | Object | Το κλειδί για εντοπισμό στο IDictionary αντικείμενο. |
+| κλειδί | Object | Το κλειδί για εντοπισμό στο αντικείμενο IDictionary. |
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-αληθές αν το IDictionary περιέχει ένα στοιχείο με το κλειδί. διαφορετικά, ψευδής.
+αληθές εάν το IDictionary περιέχει ένα στοιχείο με το κλειδί· διαφορετικά, ψευδές.
 
 ### Δείτε επίσης
 
 * class [NonGenericDictionary](../)
-* χώρος ονομάτων [Aspose.PSD](../../nongenericdictionary/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

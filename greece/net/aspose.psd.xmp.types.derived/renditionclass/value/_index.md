@@ -1,11 +1,12 @@
 ---
-title: RenditionClass.Value
-second_title: Aspose.PSD για Αναφορά API .NET
-description: RenditionClass ιδιοκτησία. Λαμβάνει ή ορίζει την τιμή.
+title: "RenditionClass.Value"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα RenditionClass. Λαμβάνει ή ορίζει την τιμή"
 type: docs
 weight: 30
 url: /el/net/aspose.psd.xmp.types.derived/renditionclass/value/
 ---
+{{< psd/tize >}}
 ## RenditionClass.Value property
 
 Λαμβάνει ή ορίζει την τιμή.
@@ -14,14 +15,14 @@ url: /el/net/aspose.psd.xmp.types.derived/renditionclass/value/
 public string Value { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
 Η τιμή.
 
 ### Δείτε επίσης
 
 * class [RenditionClass](../)
-* χώρος ονομάτων [Aspose.PSD.Xmp.Types.Derived](../../renditionclass/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Derived](../../../aspose.psd.xmp.types.derived/)
+* assembly [Aspose.PSD](../../../)
 
 

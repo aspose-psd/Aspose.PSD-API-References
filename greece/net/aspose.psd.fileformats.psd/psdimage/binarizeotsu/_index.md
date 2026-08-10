@@ -1,14 +1,15 @@
 ---
-title: PsdImage.BinarizeOtsu
-second_title: Aspose.PSD για Αναφορά API .NET
-description: PsdImage μέθοδος. Δυαδοποίηση εικόνας με thresholding Otsu
+title: "PsdImage.BinarizeOtsu"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Μέθοδος PsdImage. Δυαδικοποίηση μιας εικόνας με κατώφλι Otsu"
 type: docs
-weight: 490
+weight: 550
 url: /el/net/aspose.psd.fileformats.psd/psdimage/binarizeotsu/
 ---
+{{< psd/tize >}}
 ## PsdImage.BinarizeOtsu method
 
-Δυαδοποίηση εικόνας με thresholding Otsu
+Δυαδικοποίηση μιας εικόνας με κατώφλι Otsu
 
 ```csharp
 public override void BinarizeOtsu()
@@ -17,7 +18,7 @@ public override void BinarizeOtsu()
 ### Δείτε επίσης
 
 * class [PsdImage](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

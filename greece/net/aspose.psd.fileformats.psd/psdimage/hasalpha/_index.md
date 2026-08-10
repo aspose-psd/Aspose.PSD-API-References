@@ -1,27 +1,28 @@
 ---
-title: PsdImage.HasAlpha
-second_title: Aspose.PSD για Αναφορά API .NET
-description: PsdImage ιδιοκτησία. Λαμβάνει ή ορίζει την κατακόρυφη ανάλυση σε pixel ανά ίντσα αυτήςRasterImage .
+title: "PsdImage.HasAlpha"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα PsdImage. Λαμβάνει ή ορίζει την κάθετη ανάλυση σε pixel ανά ίντσα του RasterImage"
 type: docs
 weight: 140
 url: /el/net/aspose.psd.fileformats.psd/psdimage/hasalpha/
 ---
+{{< psd/tize >}}
 ## PsdImage.HasAlpha property
 
-Λαμβάνει ή ορίζει την κατακόρυφη ανάλυση, σε pixel ανά ίντσα, αυτής[`RasterImage`](../../../aspose.psd/rasterimage/) .
+Λαμβάνει ή ορίζει την κάθετη ανάλυση, σε pixel ανά ίντσα, αυτού του [`RasterImage`](../../../aspose.psd/rasterimage/).
 
 ```csharp
 public override bool HasAlpha { get; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-`αληθής` αν αυτή η περίπτωση έχει άλφα. σε διαφορετική περίπτωση,`ψευδής` .
+`true` εάν αυτή η παρουσία έχει άλφα· διαφορετικά, `false`.
 
 ### Δείτε επίσης
 
 * class [PsdImage](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

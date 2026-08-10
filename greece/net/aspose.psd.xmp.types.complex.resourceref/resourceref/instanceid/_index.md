@@ -1,27 +1,28 @@
 ---
-title: ResourceRef.InstanceId
-second_title: Aspose.PSD για Αναφορά API .NET
-description: ResourceRef ιδιοκτησία. Λαμβάνει ή ορίζει το αναγνωριστικό παρουσίας.
+title: "ResourceRef.InstanceId"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "ResourceRef ιδιότητα. Λαμβάνει ή ορίζει το instance αναγνωριστικό"
 type: docs
 weight: 50
 url: /el/net/aspose.psd.xmp.types.complex.resourceref/resourceref/instanceid/
 ---
+{{< psd/tize >}}
 ## ResourceRef.InstanceId property
 
-Λαμβάνει ή ορίζει το αναγνωριστικό παρουσίας.
+Λαμβάνει ή ορίζει το αναγνωριστικό της παρουσίας.
 
 ```csharp
 public string InstanceId { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Το αναγνωριστικό παρουσίας.
+Το αναγνωριστικό της παρουσίας.
 
 ### Δείτε επίσης
 
 * class [ResourceRef](../)
-* χώρος ονομάτων [Aspose.PSD.Xmp.Types.Complex.ResourceRef](../../resourceref/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.ResourceRef](../../../aspose.psd.xmp.types.complex.resourceref/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: Rectangle.op_Inequality
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Rectangle μέθοδος. Ελέγχει εάν δύοRectangle οι δομές διαφέρουν ως προς τη θέση ή το μέγεθος.
+title: "Rectangle.op_Inequality"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Rectangle method. Ελέγχει αν δύο δομές Rectangle διαφέρουν στη θέση ή στο μέγεθος"
 type: docs
 weight: 300
 url: /el/net/aspose.psd/rectangle/op_inequality/
 ---
+{{< psd/tize >}}
 ## Rectangle Inequality operator
 
-Ελέγχει εάν δύο[`Rectangle`](../) οι δομές διαφέρουν ως προς τη θέση ή το μέγεθος.
+Ελέγχει αν δύο δομές [`Rectangle`](../) διαφέρουν στη θέση ή στο μέγεθος.
 
 ```csharp
 public static bool operator !=(Rectangle left, Rectangle right)
@@ -16,17 +17,17 @@ public static bool operator !=(Rectangle left, Rectangle right)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| left | Rectangle | ο[`Rectangle`](../) δομή που βρίσκεται στα αριστερά του τελεστή ανισότητας. |
-| right | Rectangle | ο[`Rectangle`](../) δομή που βρίσκεται στα δεξιά του τελεστή ανισότητας. |
+| left | Rectangle | Η δομή [`Rectangle`](../) που βρίσκεται αριστερά του τελεστή ανισότητας. |
+| right | Rectangle | Η δομή [`Rectangle`](../) που βρίσκεται δεξιά του τελεστή ανισότητας. |
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-Αυτός ο τελεστής επιστρέφει true εάν κάποιο από τα[`X`](../x/) ,[`Y`](../y/) ,[`Width`](../width/) ή[`Height`](../height/) ιδιότητες των δύο[`Rectangle`](../) Οι δομές είναι άνισες. αλλιώς ψευδής.
+Αυτός ο τελεστής επιστρέφει true εάν οποιαδήποτε από τις ιδιότητες [`X`](../x/), [`Y`](../y/), [`Width`](../width/) ή [`Height`](../height/) των δύο δομών [`Rectangle`](../) είναι διαφορετικές· διαφορετικά false.
 
 ### Δείτε επίσης
 
 * struct [Rectangle](../)
-* χώρος ονομάτων [Aspose.PSD](../../rectangle/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

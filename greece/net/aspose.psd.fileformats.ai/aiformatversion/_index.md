@@ -1,31 +1,35 @@
 ---
-title: Enum AiFormatVersion
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Aspose.PSD.FileFormats.Ai.AiFormatVersion αρίθμηση. Έκδοση Adobe Illustrator
+title: "Απαρίθμηση AiFormatVersion"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Aspose.PSD.FileFormats.Ai.AiFormatVersion απαρίθμηση. Η έκδοση Adobe Illustrator."
 type: docs
-weight: 1240
+weight: 1250
 url: /el/net/aspose.psd.fileformats.ai/aiformatversion/
 ---
+{{< psd/tize >}}
 ## AiFormatVersion enumeration
 
-Έκδοση Adobe Illustrator
+Η έκδοση του Adobe Illustrator
 
 ```csharp
 public enum AiFormatVersion
 ```
 
-### Αξίες
+### Τιμές
 
-| Ονομα | αξία | Περιγραφή |
+| Όνομα | Τιμή | Περιγραφή |
 | --- | --- | --- |
-| PsAdobe20 | `0` | Το PS-Adobe-2.0 Header |
-| PsAdobe30 | `1` | Το PS-Adobe-3.0 Header |
-| Pdf14 | `2` | Το PDF-1.4 Header |
-| Pdf15 | `3` | Το PDF-1.5 Header |
+| PsAdobeEpsf | `0` | Η κεφαλίδα PS-Adobe EPSF |
+| PsAdobe20 | `1` | Η κεφαλίδα PS-Adobe-2.0 |
+| PsAdobe30 | `2` | Η κεφαλίδα PS-Adobe-3.0 |
+| Pdf14 | `3` | Η κεφαλίδα PDF-1.4 |
+| Pdf15 | `4` | Η κεφαλίδα PDF-1.5 |
+| Pdf16 | `5` | Η κεφαλίδα PDF-1.6 |
+| Pdf17 | `6` | Η κεφαλίδα PDF-1.7 |
 
 ### Δείτε επίσης
 
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Ai](../../aspose.psd.fileformats.ai/)
-* συνέλευση [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../)
 
 

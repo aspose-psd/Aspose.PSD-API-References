@@ -1,31 +1,32 @@
 ---
-title: Enum PlacedLayerType
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.PlacedLayerType αρίθμηση. Καθορίζει την απαρίθμηση PlacedLayerType για τον πόρο PlLd τοποθετημένου επιπέδου.
+title: "Enum PlacedLayerType"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Aspose.PSD.FileFormats.Psd.Layers.LayerResources.PlacedLayerType enum. Ορίζει την απαρίθμηση PlacedLayerType για τον τοποθετημένο στρώμα πόρο PlLd"
 type: docs
-weight: 2930
+weight: 3280
 url: /el/net/aspose.psd.fileformats.psd.layers.layerresources/placedlayertype/
 ---
+{{< psd/tize >}}
 ## PlacedLayerType enumeration
 
-Καθορίζει την απαρίθμηση PlacedLayerType για τον πόρο PlLd τοποθετημένου επιπέδου.
+Ορίζει την απαρίθμηση PlacedLayerType για τον πόρο τοποθετημένου στρώματος PlLd.
 
 ```csharp
 public enum PlacedLayerType
 ```
 
-### Αξίες
+### Τιμές
 
-| Ονομα | αξία | Περιγραφή |
+| Όνομα | Τιμή | Περιγραφή |
 | --- | --- | --- |
-| Unknown | `0` | Το άγνωστο τοποθετημένο επίπεδο type |
-| Vector | `1` | Το διάνυσμα τοποθετημένο στρώμα τύπου |
-| Raster | `2` | Το ράστερ τοποθετημένο στρώμα τύπου |
-| ImageStack | `3` | Η στοίβα εικόνων που τοποθετήθηκε στο επίπεδο type |
+| Unknown | `0` | Ο άγνωστος τύπος τοποθετημένου στρώματος |
+| Vector | `1` | Ο τύπος τοποθετημένου στρώματος διανύσματος |
+| Raster | `2` | Ο τύπος τοποθετημένου στρώματος raster |
+| ImageStack | `3` | Ο τύπος τοποθετημένου στρώματος στοίβας εικόνας |
 
-### Παραδείγματα
+## Παραδείγματα
 
-Ο ακόλουθος κώδικας δείχνει την υποστήριξη του πόρου PlLdResource.
+Ο παρακάτω κώδικας δείχνει την υποστήριξη του πόρου PlLdResource.
 
 ```csharp
 [C#]
@@ -207,16 +208,16 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
                 resource.Bottom = 248;
                 resource.Right = 145;
 
-                // Να είστε προσεκτικοί με ορισμένες παραμέτρους: η εικόνα ενδέχεται να μην είναι αναγνώσιμη από το Adobe® Photoshop®
+                // Να είστε προσεκτικοί με ορισμένες παραμέτρους: η εικόνα μπορεί να γίνει μη αναγνώσιμη από το Adobe® Photoshop®
                 ////resource.UOrder = 6;
                 ////resource.VOrder = 9;
 
-                // Μην το αλλάξετε αυτό, διαφορετικά δεν θα μπορείτε να χρησιμοποιήσετε τον ελεύθερο μετασχηματισμό
-                // ή αλλάξτε το έξυπνο αντικείμενο υπογράμμισης σε διανυσματικό τύπο
+                // Μην το αλλάξετε, διαφορετικά δεν θα μπορείτε να χρησιμοποιήσετε το free transform
+                // ή αλλάξτε το υποκείμενο έξυπνο αντικείμενο σε τύπο vector
                 ////resource.PlacedLayerType = PlacedLayerType.Vector;
 
-                // Θα πρέπει να υπάρχει έγκυρος PlLdResource με αυτό το μοναδικό αναγνωριστικό
-                ////resource.UniqueId = νέος οδηγός("98765432-10fe-cba0-1234-56789abcdef0");
+                // Θα πρέπει να υπάρχει έγκυρο PlLdResource με αυτό το μοναδικό Id
+                ////resource.UniqueId = new Guid("98765432-10fe-cba0-1234-56789abcdef0");
 
                 break;
             }
@@ -230,7 +231,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
 
 ### Δείτε επίσης
 
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
-* συνέλευση [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../)
 
 

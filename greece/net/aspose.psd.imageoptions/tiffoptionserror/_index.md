@@ -1,36 +1,37 @@
 ---
-title: Enum TiffOptionsError
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Aspose.PSD.ImageOptions.TiffOptionsError αρίθμηση. Οι κωδικοί σφάλματος των επιλογών tiff.
+title: "Enum TiffOptionsError"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Aspose.PSD.ImageOptions.TiffOptionsError enum. Οι κωδικοί σφαλμάτων επιλογών tiff."
 type: docs
-weight: 4950
+weight: 5440
 url: /el/net/aspose.psd.imageoptions/tiffoptionserror/
 ---
+{{< psd/tize >}}
 ## TiffOptionsError enumeration
 
-Οι κωδικοί σφάλματος των επιλογών tiff.
+Οι κωδικοί σφάλματος επιλογών tiff.
 
 ```csharp
 public enum TiffOptionsError
 ```
 
-### Αξίες
+### Τιμές
 
-| Ονομα | αξία | Περιγραφή |
+| Όνομα | Τιμή | Περιγραφή |
 | --- | --- | --- |
-| NoError | `0` | Χωρίς κωδικό σφάλματος. |
-| NoColorMap | `1` | Ο χρωματικός χάρτης δεν έχει οριστεί. |
-| ColorMapLengthInvalid | `2` | Το μήκος του χρωματικού χάρτη δεν είναι έγκυρο. |
-| CompressionSppMismatch | `3` | Η συμπίεση δεν ταιριάζει με τα δείγματα ανά πλήθος pixel. |
+| NoError | `0` | Δεν υπάρχει κωδικός σφάλματος. |
+| NoColorMap | `1` | Ο χάρτης χρωμάτων δεν έχει οριστεί. |
+| ColorMapLengthInvalid | `2` | Το μήκος του χάρτη χρωμάτων είναι άκυρο. |
+| CompressionSppMismatch | `3` | Η συμπίεση δεν ταιριάζει με τον αριθμό δειγμάτων ανά εικονοστοιχείο. |
 | PhotometricCompressionMismatch | `4` | Η συμπίεση δεν ταιριάζει με τις φωτομετρικές ρυθμίσεις. |
-| PhotometricSppMismatch | `5` | Το φωτομετρικό δεν ταιριάζει με τα δείγματα ανά πλήθος pixel. |
-| NotSupportedAlphaStorage | `6` | Ο χώρος αποθήκευσης alpha δεν υποστηρίζεται. |
-| PhotometricBitsPerSampleMismatch | `7` | Τα φωτομετρικά bit ανά δείγμα είναι invalid |
-| Baseline6OptionsMismatch | `8` | Οι καθορισμένες παράμετροι επιλογών TIFF δεν συμμορφώνονται με το TIFF Baseline 6.0 standard |
+| PhotometricSppMismatch | `5` | Η φωτομετρική ρύθμιση δεν ταιριάζει με τον αριθμό δειγμάτων ανά εικονοστοιχείο. |
+| NotSupportedAlphaStorage | `6` | Η αποθήκευση άλφα δεν υποστηρίζεται. |
+| PhotometricBitsPerSampleMismatch | `7` | Τα φωτομετρικά bits ανά δείγμα είναι άκυρα. |
+| Baseline6OptionsMismatch | `8` | Οι καθορισμένες παράμετροι επιλογών TIFF δεν συμμορφώνονται με το πρότυπο TIFF Baseline 6.0. |
 
 ### Δείτε επίσης
 
-* χώρος ονομάτων [Aspose.PSD.ImageOptions](../../aspose.psd.imageoptions/)
-* συνέλευση [Aspose.PSD](../../)
+* namespace [Aspose.PSD.ImageOptions](../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../)
 
 

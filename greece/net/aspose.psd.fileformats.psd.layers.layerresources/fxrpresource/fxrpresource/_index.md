@@ -1,14 +1,15 @@
 ---
-title: FxrpResource.FxrpResource
-second_title: Aspose.PSD για Αναφορά API .NET
-description: FxrpResource κατασκευαστής. Αρχικοποιεί μια νέα παρουσία τουFxrpResource τάξη.
+title: "FxrpResource.FxrpResource"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "FxrpResource κατασκευαστής. Αρχικοποιεί μια νέα παρουσία της κλάσης FxrpResource"
 type: docs
 weight: 10
 url: /el/net/aspose.psd.fileformats.psd.layers.layerresources/fxrpresource/fxrpresource/
 ---
+{{< psd/tize >}}
 ## FxrpResource(double, double) {#constructor_2}
 
-Αρχικοποιεί μια νέα παρουσία του[`FxrpResource`](../) τάξη.
+Αρχικοποιεί μια νέα παρουσία της κλάσης [`FxrpResource`](../).
 
 ```csharp
 public FxrpResource(double x, double y)
@@ -22,14 +23,14 @@ public FxrpResource(double x, double y)
 ### Δείτε επίσης
 
 * class [FxrpResource](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../fxrpresource/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## FxrpResource() {#constructor}
 
-Αρχικοποιεί μια νέα παρουσία του[`FxrpResource`](../) τάξη.
+Αρχικοποιεί μια νέα παρουσία της κλάσης [`FxrpResource`](../).
 
 ```csharp
 public FxrpResource()
@@ -38,14 +39,14 @@ public FxrpResource()
 ### Δείτε επίσης
 
 * class [FxrpResource](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../fxrpresource/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## FxrpResource(byte[]) {#constructor_1}
 
-Αρχικοποιεί μια νέα παρουσία του[`FxrpResource`](../) class. Με προσαρμοσμένη ή άγνωστη τιμή
+Αρχικοποιεί μια νέα παρουσία της κλάσης [`FxrpResource`](../). Με προσαρμοσμένη ή άγνωστη τιμή
 
 ```csharp
 public FxrpResource(byte[] data)
@@ -53,18 +54,18 @@ public FxrpResource(byte[] data)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| data | Byte[] | Τα δεδομένα των πόρων. |
+| δεδομένα | Byte[] | Τα δεδομένα πόρου. |
 
 ### Εξαιρέσεις
 
-| εξαίρεση | κατάσταση |
+| εξαίρεση | συνθήκη |
 | --- | --- |
-| [PsdImageArgumentException](../../../aspose.psd.coreexceptions.imageformats/psdimageargumentexception/) | Μη έγκυρη τιμή πόρου Fxrp |
+| [PsdImageArgumentException](../../../aspose.psd.coreexceptions.imageformats/psdimageargumentexception/) | Μη έγκυρη τιμή Fxrp Resource |
 
 ### Δείτε επίσης
 
 * class [FxrpResource](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../fxrpresource/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

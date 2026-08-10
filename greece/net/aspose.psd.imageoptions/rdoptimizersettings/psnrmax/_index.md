@@ -1,11 +1,12 @@
 ---
-title: RdOptimizerSettings.PsnrMax
-second_title: Aspose.PSD για Αναφορά API .NET
-description: RdOptimizerSettings ιδιοκτησία. Λαμβάνει τη μέγιστη αναμενόμενη τιμή PSNR.
+title: "RdOptimizerSettings.PsnrMax"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "RdOptimizerSettings property. Λαμβάνει τη μέγιστη αναμενόμενη τιμή PSNR"
 type: docs
 weight: 90
 url: /el/net/aspose.psd.imageoptions/rdoptimizersettings/psnrmax/
 ---
+{{< psd/tize >}}
 ## RdOptimizerSettings.PsnrMax property
 
 Λαμβάνει τη μέγιστη αναμενόμενη τιμή PSNR.
@@ -14,14 +15,14 @@ url: /el/net/aspose.psd.imageoptions/rdoptimizersettings/psnrmax/
 public int PsnrMax { get; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
 Η μέγιστη μέγιστη τιμή pixel.
 
 ### Δείτε επίσης
 
 * class [RdOptimizerSettings](../)
-* χώρος ονομάτων [Aspose.PSD.ImageOptions](../../rdoptimizersettings/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

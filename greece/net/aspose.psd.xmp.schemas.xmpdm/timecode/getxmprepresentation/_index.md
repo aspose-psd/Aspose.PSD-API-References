@@ -1,27 +1,28 @@
 ---
-title: Timecode.GetXmpRepresentation
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Timecode μέθοδος. Επιστρέφει την τιμή που περιέχεται στη συμβολοσειρά σε μορφή XMP.
+title: "Timecode.GetXmpRepresentation"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Μέθοδος Timecode. Επιστρέφει την τιμή της συμβολοσειράς σε μορφή XMP"
 type: docs
 weight: 60
 url: /el/net/aspose.psd.xmp.schemas.xmpdm/timecode/getxmprepresentation/
 ---
+{{< psd/tize >}}
 ## Timecode.GetXmpRepresentation method
 
-Επιστρέφει την τιμή που περιέχεται στη συμβολοσειρά σε μορφή XMP.
+Επιστρέφει την τιμή της συμβολοσειράς σε μορφή XMP.
 
 ```csharp
 public override string GetXmpRepresentation()
 ```
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-Επιστρέφει την τιμή που περιέχεται στη συμβολοσειρά σε μορφή XMP.
+Επιστρέφει την τιμή της συμβολοσειράς σε μορφή XMP.
 
 ### Δείτε επίσης
 
 * class [Timecode](../)
-* χώρος ονομάτων [Aspose.PSD.Xmp.Schemas.XmpDm](../../timecode/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpDm](../../../aspose.psd.xmp.schemas.xmpdm/)
+* assembly [Aspose.PSD](../../../)
 
 

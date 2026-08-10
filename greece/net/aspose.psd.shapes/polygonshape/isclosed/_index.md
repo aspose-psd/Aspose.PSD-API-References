@@ -1,27 +1,28 @@
 ---
-title: PolygonShape.IsClosed
-second_title: Aspose.PSD για Αναφορά API .NET
-description: PolygonShape ιδιοκτησία. Λαμβάνει ή ορίζει μια τιμή που υποδεικνύει εάν το σχήμα είναι κλειστό.
+title: "PolygonShape.IsClosed"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα PolygonShape. Λαμβάνει ή ορίζει μια τιμή που υποδεικνύει εάν το σχήμα είναι κλειστό"
 type: docs
 weight: 60
 url: /el/net/aspose.psd.shapes/polygonshape/isclosed/
 ---
+{{< psd/tize >}}
 ## PolygonShape.IsClosed property
 
-Λαμβάνει ή ορίζει μια τιμή που υποδεικνύει εάν το σχήμα είναι κλειστό.
+Λαμβάνει ή ορίζει μια τιμή που υποδεικνύει αν το σχήμα είναι κλειστό.
 
 ```csharp
 public bool IsClosed { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-`αληθής` εάν το σχήμα είναι κλειστό. σε διαφορετική περίπτωση,`ψευδής`.
+`true` εάν το σχήμα είναι κλειστό· διαφορετικά, `false`.
 
 ### Δείτε επίσης
 
 * class [PolygonShape](../)
-* χώρος ονομάτων [Aspose.PSD.Shapes](../../polygonshape/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 

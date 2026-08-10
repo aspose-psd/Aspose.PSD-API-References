@@ -1,11 +1,12 @@
 ---
-title: VibAResource.Save
-second_title: Aspose.PSD για Αναφορά API .NET
-description: VibAResource μέθοδος. Αποθηκεύει τον πόρο στο καθορισμένο κοντέινερ ροής.
+title: "VibAResource.Save"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "VibAResource method. Αποθηκεύει το πόρο στο καθορισμένο κοντέινερ ροής"
 type: docs
-weight: 70
+weight: 50
 url: /el/net/aspose.psd.fileformats.psd.layers.layerresources/vibaresource/save/
 ---
+{{< psd/tize >}}
 ## VibAResource.Save method
 
 Αποθηκεύει τον πόρο στο καθορισμένο κοντέινερ ροής.
@@ -16,17 +17,17 @@ public override void Save(StreamContainer streamContainer, int psdVersion)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| streamContainer | StreamContainer | Το κοντέινερ ροής για αποθήκευση. |
+| streamContainer | StreamContainer | Το stream container για αποθήκευση. |
 | psdVersion | Int32 | Η έκδοση PSD. |
 
-### Παραδείγματα
+## Παραδείγματα
 
-Το ακόλουθο παράδειγμα κώδικα δείχνει την υποστήριξη του πόρου VibAResource.
+Το παρακάτω παράδειγμα κώδικα δείχνει την υποστήριξη του πόρου VibAResource.
 
 ```csharp
 [C#]
 
-// Παράδειγμα υποστήριξης ανάγνωσης και εγγραφής Vibration Resource κατά τη διάρκεια εκτέλεσης.
+// Παράδειγμα υποστήριξης ανάγνωσης και εγγραφής του πόρου Δόνησης σε χρόνο εκτέλεσης.
 string sourceFileName = "VibranceResource.psd";
 string outputFileName = "out_VibranceResource.psd";
 
@@ -59,7 +60,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFileName))
 
 * class [StreamContainer](../../../aspose.psd/streamcontainer/)
 * class [VibAResource](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../vibaresource/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

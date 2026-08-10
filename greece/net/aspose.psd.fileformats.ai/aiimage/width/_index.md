@@ -1,11 +1,12 @@
 ---
-title: AiImage.Width
-second_title: Aspose.PSD για Αναφορά API .NET
-description: AiImage ιδιοκτησία. Λαμβάνει το πλάτος της εικόνας.
+title: "AiImage.Width"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα AiImage. Λαμβάνει το πλάτος της εικόνας"
 type: docs
-weight: 120
+weight: 140
 url: /el/net/aspose.psd.fileformats.ai/aiimage/width/
 ---
+{{< psd/tize >}}
 ## AiImage.Width property
 
 Λαμβάνει το πλάτος της εικόνας.
@@ -14,14 +15,14 @@ url: /el/net/aspose.psd.fileformats.ai/aiimage/width/
 public override int Width { get; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
 Το πλάτος της εικόνας.
 
 ### Δείτε επίσης
 
 * class [AiImage](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Ai](../../aiimage/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: XmpDynamicMediaPackage.SetGenre
-second_title: Aspose.PSD για Αναφορά API .NET
-description: XmpDynamicMediaPackage μέθοδος. Ορίζει το είδος.
+title: "XmpDynamicMediaPackage.SetGenre"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "XmpDynamicMediaPackage μέθοδος. Ορίζει το είδος"
 type: docs
 weight: 220
 url: /el/net/aspose.psd.xmp.schemas.xmpdm/xmpdynamicmediapackage/setgenre/
 ---
+{{< psd/tize >}}
 ## XmpDynamicMediaPackage.SetGenre method
 
 Ορίζει το είδος.
@@ -16,12 +17,12 @@ public void SetGenre(string genre)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| genre | String | Το είδος. |
+| είδος | String | Το είδος. |
 
 ### Δείτε επίσης
 
 * class [XmpDynamicMediaPackage](../)
-* χώρος ονομάτων [Aspose.PSD.Xmp.Schemas.XmpDm](../../xmpdynamicmediapackage/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpDm](../../../aspose.psd.xmp.schemas.xmpdm/)
+* assembly [Aspose.PSD](../../../)
 
 

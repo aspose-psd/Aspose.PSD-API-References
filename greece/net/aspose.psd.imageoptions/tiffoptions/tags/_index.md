@@ -1,11 +1,12 @@
 ---
-title: TiffOptions.Tags
-second_title: Aspose.PSD για Αναφορά API .NET
-description: TiffOptions ιδιοκτησία. Λαμβάνει ή ορίζει τις ετικέτες.
+title: "TiffOptions.Tags"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα TiffOptions. Λαμβάνει ή ορίζει τις ετικέτες."
 type: docs
-weight: 490
+weight: 500
 url: /el/net/aspose.psd.imageoptions/tiffoptions/tags/
 ---
+{{< psd/tize >}}
 ## TiffOptions.Tags property
 
 Λαμβάνει ή ορίζει τις ετικέτες.
@@ -14,7 +15,7 @@ url: /el/net/aspose.psd.imageoptions/tiffoptions/tags/
 public TiffDataType[] Tags { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
 Οι ετικέτες.
 
@@ -22,7 +23,7 @@ public TiffDataType[] Tags { get; set; }
 
 * class [TiffDataType](../../../aspose.psd.fileformats.tiff/tiffdatatype/)
 * class [TiffOptions](../)
-* χώρος ονομάτων [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

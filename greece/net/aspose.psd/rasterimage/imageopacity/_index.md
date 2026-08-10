@@ -1,27 +1,28 @@
 ---
-title: RasterImage.ImageOpacity
-second_title: Aspose.PSD για Αναφορά API .NET
-description: RasterImage ιδιοκτησία. Λαμβάνει αδιαφάνεια αυτής της εικόνας.
+title: "RasterImage.ImageOpacity"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα RasterImage. Λαμβάνει τη διαφάνεια αυτής της εικόνας."
 type: docs
 weight: 40
 url: /el/net/aspose.psd/rasterimage/imageopacity/
 ---
+{{< psd/tize >}}
 ## RasterImage.ImageOpacity property
 
-Λαμβάνει αδιαφάνεια αυτής της εικόνας.
+Λαμβάνει τη διαφάνεια αυτής της εικόνας.
 
 ```csharp
 public virtual float ImageOpacity { get; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Η τιμή αδιαφάνειας μεταξύ 0,0 (πλήρως διαφανές) και 1,0 (πλήρως αδιαφανές).
+Η τιμή διαφάνειας μεταξύ 0.0 (πλήρως διαυγής) και 1.0 (πλήρως αδιαφανής).
 
 ### Δείτε επίσης
 
 * class [RasterImage](../)
-* χώρος ονομάτων [Aspose.PSD](../../rasterimage/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: Version.VersionText
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Version ιδιοκτησία. Λαμβάνει ή ορίζει το κείμενο έκδοσης.
+title: "Version.VersionText"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα Version. Λαμβάνει ή ορίζει το κείμενο έκδοσης"
 type: docs
 weight: 60
 url: /el/net/aspose.psd.xmp.types.complex.version/version/versiontext/
 ---
+{{< psd/tize >}}
 ## Version.VersionText property
 
 Λαμβάνει ή ορίζει το κείμενο έκδοσης.
@@ -14,14 +15,14 @@ url: /el/net/aspose.psd.xmp.types.complex.version/version/versiontext/
 public string VersionText { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Το κείμενο της έκδοσης.
+Το κείμενο έκδοσης.
 
 ### Δείτε επίσης
 
 * class [Version](../)
-* χώρος ονομάτων [Aspose.PSD.Xmp.Types.Complex.Version](../../version/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.Version](../../../aspose.psd.xmp.types.complex.version/)
+* assembly [Aspose.PSD](../../../)
 
 

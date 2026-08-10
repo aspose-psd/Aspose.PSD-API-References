@@ -1,14 +1,15 @@
 ---
-title: LayerStateEffects.ClearLayerStyle
-second_title: Aspose.PSD για Αναφορά API .NET
-description: LayerStateEffects μέθοδος. Διαγράφει όλα τα εφέ στυλ επιπέδου.
+title: "LayerStateEffects.ClearLayerStyle"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Μέθοδος LayerStateEffects. Καθαρίζει όλα τα εφέ στυλ στρώματος"
 type: docs
 weight: 100
 url: /el/net/aspose.psd.fileformats.psd.layers.animation/layerstateeffects/clearlayerstyle/
 ---
+{{< psd/tize >}}
 ## LayerStateEffects.ClearLayerStyle method
 
-Διαγράφει όλα τα εφέ στυλ επιπέδου.
+Καθαρίζει όλα τα εφέ στυλ στρώσης.
 
 ```csharp
 public void ClearLayerStyle()
@@ -17,7 +18,7 @@ public void ClearLayerStyle()
 ### Δείτε επίσης
 
 * class [LayerStateEffects](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.Animation](../../layerstateeffects/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.Animation](../../../aspose.psd.fileformats.psd.layers.animation/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: XmpPackageBaseCollection.Clear
-second_title: Aspose.PSD για Αναφορά API .NET
-description: XmpPackageBaseCollection μέθοδος. Εκκαθάριση όλωνXmpPackage μέσα συλλογή.
+title: "XmpPackageBaseCollection.Clear"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "XmpPackageBaseCollection method. Καθαρίζει όλα τα XmpPackage μέσα στη συλλογή"
 type: docs
 weight: 40
 url: /el/net/aspose.psd.xmp/xmppackagebasecollection/clear/
 ---
+{{< psd/tize >}}
 ## XmpPackageBaseCollection.Clear method
 
-Εκκαθάριση όλων[`XmpPackage`](../../xmppackage/) μέσα συλλογή.
+Καθαρίζει όλα τα [`XmpPackage`](../../xmppackage/) μέσα στη συλλογή.
 
 ```csharp
 public void Clear()
@@ -17,7 +18,7 @@ public void Clear()
 ### Δείτε επίσης
 
 * class [XmpPackageBaseCollection](../)
-* χώρος ονομάτων [Aspose.PSD.Xmp](../../xmppackagebasecollection/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

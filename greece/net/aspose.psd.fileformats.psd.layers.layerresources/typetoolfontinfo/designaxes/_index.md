@@ -1,27 +1,28 @@
 ---
-title: TypeToolFontInfo.DesignAxes
-second_title: Aspose.PSD για Αναφορά API .NET
-description: TypeToolFontInfo ιδιοκτησία. Λαμβάνει ή ορίζει το διάνυσμα αξόνων σχεδίασης που θα ακολουθήσει.
+title: "TypeToolFontInfo.DesignAxes"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "TypeToolFontInfo ιδιότητα. Λαμβάνει ή ορίζει το διάνυσμα αξόνων σχεδίασης προς ακολούθηση"
 type: docs
 weight: 20
 url: /el/net/aspose.psd.fileformats.psd.layers.layerresources/typetoolfontinfo/designaxes/
 ---
+{{< psd/tize >}}
 ## TypeToolFontInfo.DesignAxes property
 
-Λαμβάνει ή ορίζει το διάνυσμα αξόνων σχεδίασης που θα ακολουθήσει.
+Λαμβάνει ή ορίζει το διάνυσμα αξόνων σχεδίασης προς παρακολούθηση.
 
 ```csharp
 public int DesignAxes { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Το διάνυσμα των αξόνων σχεδίασης που πρέπει να ακολουθήσει.
+Το διάνυσμα αξόνων σχεδίασης προς ακολούθηση.
 
 ### Δείτε επίσης
 
 * class [TypeToolFontInfo](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../typetoolfontinfo/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

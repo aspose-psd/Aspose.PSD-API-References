@@ -1,14 +1,15 @@
 ---
-title: FileCreateSource.FileCreateSource
-second_title: Aspose.PSD για Αναφορά API .NET
-description: FileCreateSource κατασκευαστής. Αρχικοποιεί μια νέα παρουσία τουFileCreateSource τάξη.
+title: "FileCreateSource.FileCreateSource"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "FileCreateSource κατασκευαστής. Αρχικοποιεί μια νέα παρουσία της κλάσης FileCreateSource"
 type: docs
 weight: 10
 url: /el/net/aspose.psd.sources/filecreatesource/filecreatesource/
 ---
+{{< psd/tize >}}
 ## FileCreateSource(string) {#constructor}
 
-Αρχικοποιεί μια νέα παρουσία του[`FileCreateSource`](../) τάξη.
+Αρχικοποιεί μια νέα παρουσία της κλάσης [`FileCreateSource`](../).
 
 ```csharp
 public FileCreateSource(string filePath)
@@ -16,42 +17,42 @@ public FileCreateSource(string filePath)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| filePath | String | Η διαδρομή αρχείου προς δημιουργία. |
+| filePath | String | Η διαδρομή αρχείου για δημιουργία. |
 
-### Παραδείγματα
+## Παραδείγματα
 
-Αυτό το παράδειγμα δημιουργεί ένα νέο αρχείο εικόνας σε κάποια θέση δίσκου, όπως καθορίζεται από την ιδιότητα Source της παρουσίας BmpOptions. Εάν η δεύτερη παράμετρος δεν μεταβιβαστεί στον κατασκευαστή του FileCreateSource, τότε από προεπιλογή το αρχείο που θα δημιουργηθεί έχει την ιδιότητα IsTemporal που έχει οριστεί σε True. Όταν το IsTemporal έχει οριστεί σε True, κανένα αρχείο δεν θα αποθηκευτεί στο δίσκο στο τέλος της εκτέλεσης.
+Αυτό το παράδειγμα δημιουργεί ένα νέο αρχείο Image σε κάποια θέση δίσκου όπως ορίζεται από την ιδιότητα Source της παρουσίας BmpOptions. Εάν δεν περαστεί το δεύτερο παράμετρος στον κατασκευαστή του FileCreateSource, τότε εξ ορισμού το αρχείο που θα δημιουργηθεί έχει την ιδιότητα IsTemporal ορισμένη σε True. Με το IsTemporal ορισμένο σε True, κανένα αρχείο δεν θα αποθηκευτεί στον δίσκο στο τέλος της εκτέλεσης.
 
 ```csharp
 [C#]
 
 string path = "C:\\temp\\image.psd";
     
-//Δημιουργεί μια παρουσία του PsdOptions και ορίζει τις διάφορες ιδιότητές του
+//Δημιουργεί μια παρουσία του PsdOptions και ορίζει τις διάφορες ιδιότητές του.
 Aspose.PSD.ImageOptions.PsdOptions psdOptions = new Aspose.PSD.ImageOptions.PsdOptions();
 
-//Δημιουργήστε μια παρουσία του FileCreateSource και αντιστοιχίστε την ως πηγή για την παρουσία του PsdOptions
-//Εάν η δεύτερη παράμετρος δεν μεταβιβαστεί, τότε από προεπιλογή το αρχείο έχει IsTemporal οριστεί σε True
+//Δημιουργήστε ένα στιγμιότυπο του FileCreateSource και αναθέστε το ως Source για το στιγμιότυπο του PsdOptions
+//Εάν δεν περαστεί το δεύτερο παράμετρος, τότε εξ ορισμού το αρχείο έχει το IsTemporal ορισμένο σε True
 psdOptions.Source = new Aspose.PSD.Sources.FileCreateSource(@"C:\temp\output.bmp");
 
-//Δημιουργεί μια παρουσία εικόνας 
+//Δημιουργεί μια παρουσία του Image 
 using (Aspose.PSD.Image image = Aspose.PSD.Image.Create(psdOptions, 500, 500))
 {
-    //Κάνε κάποια επεξεργασία εικόνας
+    //κάντε κάποια επεξεργασία εικόνας
 }
 ```
 
 ### Δείτε επίσης
 
 * class [FileCreateSource](../)
-* χώρος ονομάτων [Aspose.PSD.Sources](../../filecreatesource/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Sources](../../../aspose.psd.sources/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## FileCreateSource(string, bool) {#constructor_1}
 
-Αρχικοποιεί μια νέα παρουσία του[`FileCreateSource`](../) τάξη.
+Αρχικοποιεί μια νέα παρουσία της κλάσης [`FileCreateSource`](../).
 
 ```csharp
 public FileCreateSource(string filePath, bool isTemporal)
@@ -59,29 +60,29 @@ public FileCreateSource(string filePath, bool isTemporal)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| filePath | String | Η διαδρομή αρχείου προς δημιουργία. |
-| isTemporal | Boolean | Εάν έχει οριστεί σε`αληθής` το αρχείο που δημιουργήθηκε θα είναι προσωρινό. |
+| filePath | String | Η διαδρομή αρχείου για δημιουργία. |
+| isTemporal | Boolean | Εάν οριστεί σε `true` το δημιουργημένο αρχείο θα είναι προσωρινό. |
 
-### Παραδείγματα
+## Παραδείγματα
 
-Αυτό το παράδειγμα δημιουργεί ένα νέο αρχείο εικόνας σε κάποια θέση δίσκου, όπως καθορίζεται από την ιδιότητα Source της παρουσίας PsdOptions. Ορίζονται πολλές ιδιότητες για την παρουσία PsdOptions πριν από τη δημιουργία της πραγματικής εικόνας. Ειδικά η ιδιότητα Source, που αναφέρεται στην πραγματική θέση του δίσκου σε αυτήν την περίπτωση.
+Αυτό το παράδειγμα δημιουργεί ένα νέο αρχείο Image σε κάποια θέση δίσκου όπως καθορίζεται από την ιδιότητα Source του αντικειμένου PsdOptions. Πολλές ιδιότητες του αντικειμένου PsdOptions ορίζονται πριν δημιουργηθεί η πραγματική εικόνα. Ιδιαίτερα η ιδιότητα Source, που αναφέρεται στην πραγματική θέση δίσκου σε αυτή την περίπτωση.
 
 ```csharp
 [C#]
 
-//Δημιουργήστε μια παρουσία του PsdOptions και ορίστε τις διάφορες ιδιότητές του
+//Δημιουργήστε ένα στιγμιότυπο του PsdOptions και ορίστε τις διάφορες ιδιότητές του
 Aspose.PSD.ImageOptions.PsdOptions psdOptions = new Aspose.PSD.ImageOptions.PsdOptions();
 
-//Δημιουργήστε μια παρουσία του FileCreateSource και αντιστοιχίστε την ως πηγή για την παρουσία του PsdOptions
-//Δεύτερη παράμετρος Boolean καθορίζει εάν το αρχείο που θα δημιουργηθεί είναι Temporal ή όχι
+//Δημιουργήστε ένα στιγμιότυπο του FileCreateSource και αναθέστε το ως Source για το στιγμιότυπο του PsdOptions
+//Η δεύτερη παράμετρος Boolean καθορίζει εάν το αρχείο που θα δημιουργηθεί είναι IsTemporal ή όχι
 psdOptions.Source = new Aspose.PSD.Sources.FileCreateSource(@"C:\temp\sample.psd", false);
 
-//Δημιουργήστε μια παρουσία της εικόνας και αρχικοποιήστε την με την παρουσία της PsdOptions καλώντας τη μέθοδο Δημιουργία
+//Δημιουργήστε ένα στιγμιότυπο του Image και αρχικοποιήστε το με το στιγμιότυπο του PsdOptions καλώντας τη μέθοδο Create
 using (Aspose.PSD.Image image = Aspose.PSD.Image.Create(psdOptions, 500, 500))
 {
-    //Κάνε κάποια επεξεργασία εικόνας
+    //κάντε κάποια επεξεργασία εικόνας
 
-    // αποθήκευση όλων των αλλαγών
+    // αποθηκεύστε όλες τις αλλαγές
     image.Save();
 }
 ```
@@ -89,7 +90,7 @@ using (Aspose.PSD.Image image = Aspose.PSD.Image.Create(psdOptions, 500, 500))
 ### Δείτε επίσης
 
 * class [FileCreateSource](../)
-* χώρος ονομάτων [Aspose.PSD.Sources](../../filecreatesource/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Sources](../../../aspose.psd.sources/)
+* assembly [Aspose.PSD](../../../)
 
 

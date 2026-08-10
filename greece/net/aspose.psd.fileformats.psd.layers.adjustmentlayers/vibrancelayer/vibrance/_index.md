@@ -1,32 +1,33 @@
 ---
-title: VibranceLayer.Vibrance
-second_title: Aspose.PSD για Αναφορά API .NET
-description: VibranceLayer ιδιοκτησία. Λαμβάνει ή ρυθμίζει τη δόνηση.
+title: "VibranceLayer.Vibrance"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα VibranceLayer. Λαμβάνει ή ορίζει τη ζωντάνια"
 type: docs
 weight: 20
 url: /el/net/aspose.psd.fileformats.psd.layers.adjustmentlayers/vibrancelayer/vibrance/
 ---
+{{< psd/tize >}}
 ## VibranceLayer.Vibrance property
 
-Λαμβάνει ή ρυθμίζει τη δόνηση.
+Αποκτά ή ορίζει τη ζωντάνια.
 
 ```csharp
 public int Vibrance { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Η δόνηση.
+Η ζωντάνια.
 
 ### Εξαιρέσεις
 
-| εξαίρεση | κατάσταση |
+| εξαίρεση | συνθήκη |
 | --- | --- |
-| ArgumentOutOfRangeException | Η δόνηση πρέπει να κυμαίνεται από -180 έως +180 |
+| ArgumentOutOfRangeException | Η ζωντάνια πρέπει να είναι στο εύρος από -180 έως +180 |
 
-### Παραδείγματα
+## Παραδείγματα
 
-Το ακόλουθο παράδειγμα κώδικα δείχνει την υποστήριξη του επιπέδου VibranceLayer και τη δυνατότητα επεξεργασίας αυτής της προσαρμογής.
+Το παρακάτω παράδειγμα κώδικα δείχνει την υποστήριξη της στρώσης VibranceLayer και τη δυνατότητα επεξεργασίας αυτής της ρύθμισης.
 
 ```csharp
 [C#]
@@ -37,7 +38,7 @@ string outputFileNamePng = "out_VibranceLayer.png";
 
 using (PsdImage image = (PsdImage) Image.Load(sourceFileName))
 {
-    // Δημιουργία νέου VibranceLayer
+    // Δημιουργία μιας νέας VibranceLayer
     VibranceLayer vibranceLayer = image.AddVibranceAdjustmentLayer();
     vibranceLayer.Vibrance = 50;
     vibranceLayer.Saturation = 100;
@@ -50,7 +51,7 @@ using (PsdImage image = (PsdImage) Image.Load(sourceFileName))
 ### Δείτε επίσης
 
 * class [VibranceLayer](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../vibrancelayer/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/)
+* assembly [Aspose.PSD](../../../)
 
 

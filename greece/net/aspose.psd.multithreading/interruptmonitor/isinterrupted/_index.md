@@ -1,14 +1,15 @@
 ---
-title: InterruptMonitor.IsInterrupted
-second_title: Aspose.PSD για Αναφορά API .NET
-description: InterruptMonitor ιδιοκτησία. Λαμβάνει την τιμή που υποδεικνύει εάν οι λειτουργίες πρέπει να διακοπούν.
+title: "InterruptMonitor.IsInterrupted"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα InterruptMonitor. Λαμβάνει την τιμή που υποδεικνύει αν πρέπει να διακοπούν οι λειτουργίες"
 type: docs
 weight: 30
 url: /el/net/aspose.psd.multithreading/interruptmonitor/isinterrupted/
 ---
+{{< psd/tize >}}
 ## InterruptMonitor.IsInterrupted property
 
-Λαμβάνει την τιμή που υποδεικνύει εάν οι λειτουργίες πρέπει να διακοπούν.
+Λαμβάνει την τιμή που υποδεικνύει εάν πρέπει να διακοπούν οι λειτουργίες.
 
 ```csharp
 public bool IsInterrupted { get; }
@@ -17,7 +18,7 @@ public bool IsInterrupted { get; }
 ### Δείτε επίσης
 
 * class [InterruptMonitor](../)
-* χώρος ονομάτων [Aspose.PSD.Multithreading](../../interruptmonitor/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Multithreading](../../../aspose.psd.multithreading/)
+* assembly [Aspose.PSD](../../../)
 
 

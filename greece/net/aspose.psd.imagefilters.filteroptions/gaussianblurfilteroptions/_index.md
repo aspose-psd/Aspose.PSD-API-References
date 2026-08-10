@@ -1,14 +1,15 @@
 ---
-title: Class GaussianBlurFilterOptions
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Aspose.PSD.ImageFilters.FilterOptions.GaussianBlurFilterOptions τάξη. Το Gaussian blur
+title: "Κλάση GaussianBlurFilterOptions"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Aspose.PSD.ImageFilters.FilterOptions.GaussianBlurFilterOptions κλάση. Η γκαουσιανή θόλωση"
 type: docs
-weight: 4710
+weight: 5180
 url: /el/net/aspose.psd.imagefilters.filteroptions/gaussianblurfilteroptions/
 ---
+{{< psd/tize >}}
 ## GaussianBlurFilterOptions class
 
-Το Gaussian blur
+Η θολή Gaussian
 
 ```csharp
 public class GaussianBlurFilterOptions : ConvolutionFilterOptions
@@ -16,24 +17,24 @@ public class GaussianBlurFilterOptions : ConvolutionFilterOptions
 
 ## Κατασκευαστές
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
-| [GaussianBlurFilterOptions](gaussianblurfilteroptions/#constructor)() | Αρχικοποιεί μια νέα παρουσία του`GaussianBlurFilterOptions` class. Με προεπιλεγμένες ρυθμίσεις. |
-| [GaussianBlurFilterOptions](gaussianblurfilteroptions/#constructor_1)(int, double) | Αρχικοποιεί μια νέα παρουσία του`GaussianBlurFilterOptions` τάξη. |
+| [GaussianBlurFilterOptions](gaussianblurfilteroptions/#constructor)() | Αρχικοποιεί μια νέα παρουσία της κλάσης `GaussianBlurFilterOptions`. Με προεπιλεγμένες ρυθμίσεις. |
+| [GaussianBlurFilterOptions](gaussianblurfilteroptions/#constructor_1)(int, double) | Αρχικοποιεί μια νέα παρουσία της κλάσης `GaussianBlurFilterOptions`. |
 
 ## Ιδιότητες
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
 | [Bias](../../aspose.psd.imagefilters.filteroptions/convolutionfilteroptions/bias/) { get; set; } | Λαμβάνει ή ορίζει την προκατάληψη. |
 | [Factor](../../aspose.psd.imagefilters.filteroptions/convolutionfilteroptions/factor/) { get; set; } | Λαμβάνει ή ορίζει τον παράγοντα. |
 | [Radius](../../aspose.psd.imagefilters.filteroptions/gaussianblurfilteroptions/radius/) { get; set; } | Λαμβάνει ή ορίζει την ακτίνα. |
-| [Sigma](../../aspose.psd.imagefilters.filteroptions/gaussianblurfilteroptions/sigma/) { get; set; } | Λαμβάνει ή ορίζει το σίγμα. |
+| [Sigma](../../aspose.psd.imagefilters.filteroptions/gaussianblurfilteroptions/sigma/) { get; set; } | Λαμβάνει ή ορίζει το sigma. |
 
 ### Δείτε επίσης
 
 * class [ConvolutionFilterOptions](../convolutionfilteroptions/)
-* χώρος ονομάτων [Aspose.PSD.ImageFilters.FilterOptions](../../aspose.psd.imagefilters.filteroptions/)
-* συνέλευση [Aspose.PSD](../../)
+* namespace [Aspose.PSD.ImageFilters.FilterOptions](../../aspose.psd.imagefilters.filteroptions/)
+* assembly [Aspose.PSD](../../)
 
 

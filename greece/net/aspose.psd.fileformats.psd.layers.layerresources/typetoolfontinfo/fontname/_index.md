@@ -1,27 +1,28 @@
 ---
-title: TypeToolFontInfo.FontName
-second_title: Aspose.PSD για Αναφορά API .NET
-description: TypeToolFontInfo ιδιοκτησία. Λαμβάνει ή ορίζει το όνομα της γραμματοσειράς.
+title: "TypeToolFontInfo.FontName"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "TypeToolFontInfo ιδιότητα. Λαμβάνει ή ορίζει το όνομα γραμματοσειράς"
 type: docs
 weight: 50
 url: /el/net/aspose.psd.fileformats.psd.layers.layerresources/typetoolfontinfo/fontname/
 ---
+{{< psd/tize >}}
 ## TypeToolFontInfo.FontName property
 
-Λαμβάνει ή ορίζει το όνομα της γραμματοσειράς.
+Λαμβάνει ή ορίζει το όνομα γραμματοσειράς.
 
 ```csharp
 public string FontName { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Το όνομα της γραμματοσειράς.
+Το όνομα γραμματοσειράς.
 
 ### Δείτε επίσης
 
 * class [TypeToolFontInfo](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../typetoolfontinfo/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: CmykColorHelper.ToCmyk
-second_title: Aspose.PSD για Αναφορά API .NET
-description: CmykColorHelper μέθοδος. Η μετατροπή από χρώματα ARGB σε χρώματα CMYK.
+title: "CmykColorHelper.ToCmyk"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "CmykColorHelper μέθοδος. Η μετατροπή από χρώματα ARGB σε χρώματα CMYK"
 type: docs
 weight: 90
 url: /el/net/aspose.psd/cmykcolorhelper/tocmyk/
 ---
+{{< psd/tize >}}
 ## ToCmyk(int[]) {#tocmyk_3}
 
 Η μετατροπή από χρώματα ARGB σε χρώματα CMYK.
@@ -16,17 +17,17 @@ public static int[] ToCmyk(int[] argbPixels)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| argbPixels | Int32[] | Τα χρώματα ARGB παρουσιάζονται ως ακέραιες τιμές 32-bit. |
+| argbPixels | Int32[] | Τα χρώματα ARGB παρουσιάζονται ως 32-bit ακέραιες τιμές. |
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-Τα χρώματα CMYK παρουσιάζονται ως ακέραιες τιμές 32-bit.
+Τα χρώματα CMYK που παρουσιάζονται ως τιμές 32-bit ακέραιου.
 
 ### Δείτε επίσης
 
 * class [CmykColorHelper](../)
-* χώρος ονομάτων [Aspose.PSD](../../cmykcolorhelper/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
@@ -40,17 +41,17 @@ public static int ToCmyk(int argbPixel)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| argbPixel | Int32 | Το χρώμα ARGB παρουσιάζεται ως ακέραια τιμή 32 bit. |
+| argbPixel | Int32 | Το χρώμα ARGB που παρουσιάζεται ως τιμή ακέραιου 32-bit. |
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-Το χρώμα CMYK παρουσιάζεται ως ακέραιος αριθμός 32 bit.
+Το χρώμα CMYK που παρουσιάζεται ως τιμή 32-bit ακέραιου.
 
 ### Δείτε επίσης
 
 * class [CmykColorHelper](../)
-* χώρος ονομάτων [Aspose.PSD](../../cmykcolorhelper/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
@@ -64,18 +65,18 @@ public static int ToCmyk(Color pixel)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| pixel | Color | Το χρώμα ARGB. |
+| pixel | Χρώμα | Το χρώμα ARGB. |
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-Το χρώμα CMYK παρουσιάζεται ως ακέραιος αριθμός 32 bit.
+Το χρώμα CMYK που παρουσιάζεται ως τιμή 32-bit ακέραιου.
 
 ### Δείτε επίσης
 
 * struct [Color](../../color/)
 * class [CmykColorHelper](../)
-* χώρος ονομάτων [Aspose.PSD](../../cmykcolorhelper/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
@@ -89,17 +90,17 @@ public static int[] ToCmyk(Color[] pixels)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| pixels | Color[] | Τα χρώματα ARGB. |
+| pixel | Color[] | Τα χρώματα ARGB. |
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-Τα χρώματα CMYK παρουσιάζονται ως ακέραιες τιμές 32-bit.
+Τα χρώματα CMYK που παρουσιάζονται ως τιμές 32-bit ακέραιου.
 
 ### Δείτε επίσης
 
 * struct [Color](../../color/)
 * class [CmykColorHelper](../)
-* χώρος ονομάτων [Aspose.PSD](../../cmykcolorhelper/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

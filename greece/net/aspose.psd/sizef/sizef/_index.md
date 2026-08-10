@@ -1,14 +1,15 @@
 ---
-title: SizeF.SizeF
-second_title: Aspose.PSD για Αναφορά API .NET
-description: SizeF κατασκευαστής. Αρχικοποιεί μια νέα παρουσία τουSizeF δομή από την καθορισμένηSizeF .
+title: "SizeF.SizeF"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Κατασκευαστής SizeF. Αρχικοποιεί μια νέα παρουσία της δομής SizeF από το καθορισμένο SizeF."
 type: docs
 weight: 10
 url: /el/net/aspose.psd/sizef/sizef/
 ---
+{{< psd/tize >}}
 ## SizeF(SizeF) {#constructor_1}
 
-Αρχικοποιεί μια νέα παρουσία του[`SizeF`](../) δομή από την καθορισμένη[`SizeF`](../) .
+Αρχικοποιεί μια νέα παρουσία της δομής [`SizeF`](../) από το καθορισμένο [`SizeF`](../).
 
 ```csharp
 public SizeF(SizeF size)
@@ -16,19 +17,19 @@ public SizeF(SizeF size)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| size | SizeF | ο[`SizeF`](../) από το οποίο να δημιουργηθεί το νέο[`SizeF`](../). |
+| size | SizeF | Το [`SizeF`](../) από το οποίο θα δημιουργηθεί το νέο [`SizeF`](../). |
 
 ### Δείτε επίσης
 
 * struct [SizeF](../)
-* χώρος ονομάτων [Aspose.PSD](../../sizef/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## SizeF(PointF) {#constructor}
 
-Αρχικοποιεί μια νέα παρουσία του[`SizeF`](../) δομή από την καθορισμένη[`PointF`](../../pointf/) .
+Αρχικοποιεί μια νέα παρουσία της δομής [`SizeF`](../) από το καθορισμένο [`PointF`](../../pointf/).
 
 ```csharp
 public SizeF(PointF point)
@@ -36,20 +37,20 @@ public SizeF(PointF point)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| point | PointF | ο[`PointF`](../../pointf/) από το οποίο να αρχικοποιηθεί αυτό[`SizeF`](../). |
+| point | PointF | Το [`PointF`](../../pointf/) από το οποίο θα αρχικοποιηθεί αυτό το [`SizeF`](../). |
 
 ### Δείτε επίσης
 
 * struct [PointF](../../pointf/)
 * struct [SizeF](../)
-* χώρος ονομάτων [Aspose.PSD](../../sizef/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## SizeF(float, float) {#constructor_2}
 
-Αρχικοποιεί μια νέα παρουσία του[`SizeF`](../) δομή από τις καθορισμένες διαστάσεις.
+Αρχικοποιεί μια νέα παρουσία της δομής [`SizeF`](../) από τις καθορισμένες διαστάσεις.
 
 ```csharp
 public SizeF(float width, float height)
@@ -57,13 +58,13 @@ public SizeF(float width, float height)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| width | Single | Το στοιχείο πλάτους του νέου[`SizeF`](../). |
-| height | Single | Η συνιστώσα ύψους του νέου[`SizeF`](../). |
+| width | Single | Το στοιχείο πλάτους της νέας [`SizeF`](../). |
+| height | Single | Το στοιχείο ύψους της νέας [`SizeF`](../). |
 
 ### Δείτε επίσης
 
 * struct [SizeF](../)
-* χώρος ονομάτων [Aspose.PSD](../../sizef/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: JpegExifData.ResolutionUnit
-second_title: Aspose.PSD για Αναφορά API .NET
-description: JpegExifData ιδιοκτησία. Λαμβάνει ή ορίζει τη μονάδα ανάλυσης.
+title: "JpegExifData.ResolutionUnit"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα JpegExifData. Λαμβάνει ή ορίζει τη μονάδα ανάλυσης"
 type: docs
 weight: 170
 url: /el/net/aspose.psd.exif/jpegexifdata/resolutionunit/
 ---
+{{< psd/tize >}}
 ## JpegExifData.ResolutionUnit property
 
 Λαμβάνει ή ορίζει τη μονάδα ανάλυσης.
@@ -14,7 +15,7 @@ url: /el/net/aspose.psd.exif/jpegexifdata/resolutionunit/
 public ExifUnit ResolutionUnit { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
 Η μονάδα ανάλυσης.
 
@@ -22,7 +23,7 @@ public ExifUnit ResolutionUnit { get; set; }
 
 * enum [ExifUnit](../../../aspose.psd.exif.enums/exifunit/)
 * class [JpegExifData](../)
-* χώρος ονομάτων [Aspose.PSD.Exif](../../jpegexifdata/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

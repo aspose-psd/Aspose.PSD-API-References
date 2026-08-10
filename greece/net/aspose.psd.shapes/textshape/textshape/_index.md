@@ -1,14 +1,15 @@
 ---
-title: TextShape.TextShape
-second_title: Aspose.PSD για Αναφορά API .NET
-description: TextShape κατασκευαστής. Αρχικοποιεί μια νέα παρουσία τουTextShape τάξη.
+title: "TextShape.TextShape"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Κατασκευαστής TextShape. Αρχικοποιεί ένα νέο αντικείμενο της κλάσης TextShape"
 type: docs
 weight: 10
 url: /el/net/aspose.psd.shapes/textshape/textshape/
 ---
+{{< psd/tize >}}
 ## TextShape() {#constructor}
 
-Αρχικοποιεί μια νέα παρουσία του[`TextShape`](../) τάξη.
+Αρχικοποιεί ένα νέο στιγμιότυπο της κλάσης [`TextShape`](../).
 
 ```csharp
 public TextShape()
@@ -17,14 +18,14 @@ public TextShape()
 ### Δείτε επίσης
 
 * class [TextShape](../)
-* χώρος ονομάτων [Aspose.PSD.Shapes](../../textshape/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## TextShape(string, RectangleF, Font, StringFormat) {#constructor_1}
 
-Αρχικοποιεί μια νέα παρουσία του[`TextShape`](../) τάξη.
+Αρχικοποιεί ένα νέο στιγμιότυπο της κλάσης [`TextShape`](../).
 
 ```csharp
 public TextShape(string text, RectangleF rectangle, Font font, StringFormat stringFormat)
@@ -32,9 +33,9 @@ public TextShape(string text, RectangleF rectangle, Font font, StringFormat stri
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| text | String | Το κείμενο προς σχεδίαση. |
-| rectangle | RectangleF | Το ορθογώνιο του κειμένου. |
-| font | Font | Η γραμματοσειρά που θα χρησιμοποιήσετε. |
+| κείμενο | String | Το κείμενο προς σχεδίαση. |
+| ορθογώνιο | RectangleF | Το ορθογώνιο του κειμένου. |
+| γραμματοσειρά | Γραμματοσειρά | Η γραμματοσειρά προς χρήση. |
 | stringFormat | StringFormat | Η μορφή συμβολοσειράς. |
 
 ### Δείτε επίσης
@@ -43,7 +44,7 @@ public TextShape(string text, RectangleF rectangle, Font font, StringFormat stri
 * class [Font](../../../aspose.psd/font/)
 * class [StringFormat](../../../aspose.psd/stringformat/)
 * class [TextShape](../)
-* χώρος ονομάτων [Aspose.PSD.Shapes](../../textshape/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 

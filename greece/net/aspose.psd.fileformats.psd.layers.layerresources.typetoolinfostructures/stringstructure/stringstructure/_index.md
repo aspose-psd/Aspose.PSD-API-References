@@ -1,14 +1,15 @@
 ---
-title: StringStructure.StringStructure
-second_title: Aspose.PSD για Αναφορά API .NET
-description: StringStructure κατασκευαστής. Αρχικοποιεί μια νέα παρουσία τουStringStructure τάξη.
+title: "StringStructure.StringStructure"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Κατασκευαστής StringStructure. Αρχικοποιεί μια νέα παρουσία της κλάσης StringStructure"
 type: docs
 weight: 10
 url: /el/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/stringstructure/stringstructure/
 ---
+{{< psd/tize >}}
 ## StringStructure(ClassID) {#constructor}
 
-Αρχικοποιεί μια νέα παρουσία του[`StringStructure`](../) τάξη.
+Αρχικοποιεί μια νέα παρουσία της κλάσης [`StringStructure`](../).
 
 ```csharp
 public StringStructure(ClassID keyName)
@@ -22,14 +23,14 @@ public StringStructure(ClassID keyName)
 
 * class [ClassID](../../../aspose.psd.fileformats.psd.layers.layerresources/classid/)
 * class [StringStructure](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../stringstructure/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## StringStructure(ClassID, string) {#constructor_1}
 
-Αρχικοποιεί μια νέα παρουσία του[`StringStructure`](../)κλάση με τιμή.
+Αρχικοποιεί μια νέα παρουσία της κλάσης [`StringStructure`](../) με τιμή.
 
 ```csharp
 public StringStructure(ClassID keyName, string value)
@@ -38,11 +39,11 @@ public StringStructure(ClassID keyName, string value)
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
 | keyName | ClassID | Το όνομα κλειδιού. |
-| value | String | Η αξία. |
+| τιμή | String | Η τιμή. |
 
-### Παραδείγματα
+## Παραδείγματα
 
-Αυτό το παράδειγμα δείχνει πώς να αποκτήσετε και να ορίσετε ιδιότητες του πόρου Psd LnkE.
+Αυτό το παράδειγμα δείχνει πώς να λαμβάνετε και να ορίζετε ιδιότητες του πόρου Psd LnkE.
 
 ```csharp
 [C#]
@@ -56,7 +57,7 @@ void AssertAreEqual(object actual, object expected)
     }
 }
 
-// Αυτό το παράδειγμα δείχνει πώς να αποκτήσετε και να ορίσετε ιδιότητες του πόρου Psd LnkE που περιέχει πληροφορίες σχετικά με ένα εξωτερικό συνδεδεμένο αρχείο.
+// Αυτό το παράδειγμα δείχνει πώς να λαμβάνετε και να ορίζετε ιδιότητες του πόρου Psd LnkE που περιέχει πληροφορίες για ένα εξωτερικό συνδεδεμένο αρχείο.
 void ExampleOfLnkEResourceSupport(
     string fileName,
     int length,
@@ -133,7 +134,7 @@ void ExampleOfLnkEResourceSupport(
     }
 }
 
-// Αυτό το παράδειγμα δείχνει πώς να αποκτήσετε και να ορίσετε ιδιότητες του Psd LnkeResource που περιέχει πληροφορίες σχετικά με το εξωτερικό συνδεδεμένο αρχείο JPEG.
+// Αυτό το παράδειγμα δείχνει πώς να λαμβάνετε και να ορίζετε ιδιότητες του πόρου Psd LnkeResource που περιέχει πληροφορίες για εξωτερικό συνδεδεμένο αρχείο JPEG.
 ExampleOfLnkEResourceSupport(
     @"photooverlay_5_new.psd",
     0x21c,
@@ -152,7 +153,7 @@ ExampleOfLnkEResourceSupport(
     0x1520d,
     7);
 
-// Αυτό το παράδειγμα δείχνει πώς να αποκτήσετε και να ορίσετε ιδιότητες του PSD LnkeResource που περιέχει πληροφορίες σχετικά με ένα εξωτερικό συνδεδεμένο αρχείο PNG.
+// Αυτό το παράδειγμα δείχνει πώς να λαμβάνετε και να ορίζετε ιδιότητες του πόρου PSD LnkeResource που περιέχει πληροφορίες για εξωτερικό συνδεδεμένο αρχείο PNG.
 ExampleOfLnkEResourceSupport(
     "rgb8_2x2_linked.psd",
     0x284,
@@ -171,7 +172,7 @@ ExampleOfLnkEResourceSupport(
     0x53,
     7);
 
-// Αυτό το παράδειγμα δείχνει πώς να αποκτήσετε και να ορίσετε ιδιότητες του PSD LnkeResource που περιέχει πληροφορίες σχετικά με δύο εξωτερικά συνδεδεμένα αρχεία PNG και PSD.
+// Αυτό το παράδειγμα δείχνει πώς να λαμβάνετε και να ορίζετε ιδιότητες του PSD LnkeResource που περιέχει πληροφορίες για δύο εξωτερικά συνδεδεμένα αρχεία PNG και PSD.
 ExampleOfLnkEResourceSupport(
     "rgb8_2x2_linked2.psd",
     0x590,
@@ -190,7 +191,7 @@ ExampleOfLnkEResourceSupport(
     0x4aea,
     7);
 
-// Αυτό το παράδειγμα δείχνει πώς να αποκτήσετε και να ορίσετε ιδιότητες του Photoshop Psd LnkeResource που περιέχει πληροφορίες σχετικά με ένα εξωτερικό συνδεδεμένο στοιχείο CC Libraries.
+// Αυτό το παράδειγμα δείχνει πώς να λαμβάνετε και να ορίζετε ιδιότητες του Photoshop Psd LnkeResource που περιέχει πληροφορίες για ένα εξωτερικά συνδεδεμένο αντικείμενο CC Libraries.
 ExampleOfLnkEResourceSupport(
     "rgb8_2x2_asset_linked.psd",
     0x398,
@@ -214,7 +215,7 @@ ExampleOfLnkEResourceSupport(
 
 * class [ClassID](../../../aspose.psd.fileformats.psd.layers.layerresources/classid/)
 * class [StringStructure](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../stringstructure/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 

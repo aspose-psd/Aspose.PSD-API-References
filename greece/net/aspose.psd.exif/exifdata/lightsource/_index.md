@@ -1,20 +1,21 @@
 ---
-title: ExifData.LightSource
-second_title: Aspose.PSD για Αναφορά API .NET
-description: ExifData ιδιοκτησία. Λαμβάνει ή ρυθμίζει την πηγή φωτός.
+title: "ExifData.LightSource"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα ExifData. Λαμβάνει ή ορίζει την πηγή φωτός"
 type: docs
 weight: 770
 url: /el/net/aspose.psd.exif/exifdata/lightsource/
 ---
+{{< psd/tize >}}
 ## ExifData.LightSource property
 
-Λαμβάνει ή ρυθμίζει την πηγή φωτός.
+Λαμβάνει ή ορίζει την πηγή φωτός.
 
 ```csharp
 public ExifLightSource LightSource { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
 Η πηγή φωτός.
 
@@ -22,7 +23,7 @@ public ExifLightSource LightSource { get; set; }
 
 * enum [ExifLightSource](../../../aspose.psd.exif.enums/exiflightsource/)
 * class [ExifData](../)
-* χώρος ονομάτων [Aspose.PSD.Exif](../../exifdata/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

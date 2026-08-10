@@ -1,14 +1,15 @@
 ---
-title: Graphics.FillPath
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Graphics μέθοδος. Γεμίζει το εσωτερικό του αGraphicsPath .
+title: "Graphics.FillPath"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Μέθοδος Graphics. Γεμίζει το εσωτερικό ενός GraphicsPath"
 type: docs
-weight: 360
+weight: 370
 url: /el/net/aspose.psd/graphics/fillpath/
 ---
+{{< psd/tize >}}
 ## Graphics.FillPath method
 
-Γεμίζει το εσωτερικό του α[`GraphicsPath`](../../graphicspath/) .
+Γεμίζει το εσωτερικό ενός [`GraphicsPath`](../../graphicspath/).
 
 ```csharp
 public void FillPath(Brush brush, GraphicsPath path)
@@ -16,21 +17,21 @@ public void FillPath(Brush brush, GraphicsPath path)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| brush | Brush | [`Brush`](../../brush/)που καθορίζει τα χαρακτηριστικά του γεμίσματος. |
-| path | GraphicsPath | [`GraphicsPath`](../../graphicspath/) που αντιπροσωπεύει τη διαδρομή προς συμπλήρωση. |
+| brush | Brush | [`Brush`](../../brush/) που καθορίζει τα χαρακτηριστικά της συμπλήρωσης. |
+| path | GraphicsPath | [`GraphicsPath`](../../graphicspath/) που αντιπροσωπεύει τη διαδρομή προς γέμισμα. |
 
 ### Εξαιρέσεις
 
-| εξαίρεση | κατάσταση |
+| εξαίρεση | συνθήκη |
 | --- | --- |
-| ArgumentNullException | *brush* είναι μηδενικό. -ή- *path* είναι μηδενικό. |
+| ArgumentNullException | *brush* είναι null. -ή- *path* είναι null. |
 
 ### Δείτε επίσης
 
 * class [Brush](../../brush/)
 * class [GraphicsPath](../../graphicspath/)
 * class [Graphics](../)
-* χώρος ονομάτων [Aspose.PSD](../../graphics/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: XmpDynamicMediaPackage.SetClient
-second_title: Aspose.PSD για Αναφορά API .NET
-description: XmpDynamicMediaPackage μέθοδος. Ορίζει τον πελάτη.
+title: "XmpDynamicMediaPackage.SetClient"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "XmpDynamicMediaPackage μέθοδος. Ορίζει τον πελάτη"
 type: docs
 weight: 140
 url: /el/net/aspose.psd.xmp.schemas.xmpdm/xmpdynamicmediapackage/setclient/
 ---
+{{< psd/tize >}}
 ## XmpDynamicMediaPackage.SetClient method
 
 Ορίζει τον πελάτη.
@@ -21,7 +22,7 @@ public void SetClient(string client)
 ### Δείτε επίσης
 
 * class [XmpDynamicMediaPackage](../)
-* χώρος ονομάτων [Aspose.PSD.Xmp.Schemas.XmpDm](../../xmpdynamicmediapackage/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpDm](../../../aspose.psd.xmp.schemas.xmpdm/)
+* assembly [Aspose.PSD](../../../)
 
 

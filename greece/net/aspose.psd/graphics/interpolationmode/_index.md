@@ -1,20 +1,21 @@
 ---
-title: Graphics.InterpolationMode
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Graphics ιδιοκτησία. Λαμβάνει ή ρυθμίζει τη λειτουργία παρεμβολής.
+title: "Graphics.InterpolationMode"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Graphics property. Λαμβάνει ή ορίζει τη λειτουργία παρεμβολής"
 type: docs
 weight: 70
 url: /el/net/aspose.psd/graphics/interpolationmode/
 ---
+{{< psd/tize >}}
 ## Graphics.InterpolationMode property
 
-Λαμβάνει ή ρυθμίζει τη λειτουργία παρεμβολής.
+Λαμβάνει ή ορίζει τη λειτουργία παρεμβολής.
 
 ```csharp
 public InterpolationMode InterpolationMode { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
 Η λειτουργία παρεμβολής.
 
@@ -22,7 +23,7 @@ public InterpolationMode InterpolationMode { get; set; }
 
 * enum [InterpolationMode](../../interpolationmode/)
 * class [Graphics](../)
-* χώρος ονομάτων [Aspose.PSD](../../graphics/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: Class ImageResizeSettings
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Aspose.PSD.ImageResizeSettings τάξη. Ρυθμίσεις αλλαγής μεγέθους εικόνας class
+title: "Κλάση ImageResizeSettings"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Κλάση Aspose.PSD.ImageResizeSettings. Κλάση ρυθμίσεων αλλαγής μεγέθους εικόνας"
 type: docs
-weight: 5000
+weight: 5490
 url: /el/net/aspose.psd/imageresizesettings/
 ---
+{{< psd/tize >}}
 ## ImageResizeSettings class
 
-Ρυθμίσεις αλλαγής μεγέθους εικόνας class
+Κλάση ρυθμίσεων αλλαγής μεγέθους εικόνας.
 
 ```csharp
 public class ImageResizeSettings
@@ -16,23 +17,23 @@ public class ImageResizeSettings
 
 ## Κατασκευαστές
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
 | [ImageResizeSettings](imageresizesettings/)() | Ο προεπιλεγμένος κατασκευαστής. |
 
 ## Ιδιότητες
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
 | [ColorCompareMethod](../../aspose.psd/imageresizesettings/colorcomparemethod/) { get; set; } | Λαμβάνει ή ορίζει τη μέθοδο σύγκρισης χρωμάτων. |
-| [ColorQuantizationMethod](../../aspose.psd/imageresizesettings/colorquantizationmethod/) { get; set; } | Λαμβάνει ή ορίζει τη μέθοδο κβαντισμού χρώματος. |
-| [EntriesCount](../../aspose.psd/imageresizesettings/entriescount/) { get; set; } | Λαμβάνει ή ορίζει τις καταχωρήσεις count |
+| [ColorQuantizationMethod](../../aspose.psd/imageresizesettings/colorquantizationmethod/) { get; set; } | Λαμβάνει ή ορίζει τη μέθοδο ποσοτικοποίησης χρωμάτων. |
+| [EntriesCount](../../aspose.psd/imageresizesettings/entriescount/) { get; set; } | Λαμβάνει ή ορίζει τον αριθμό των καταχωρήσεων |
 | [FilterType](../../aspose.psd/imageresizesettings/filtertype/) { get; set; } | Λαμβάνει ή ορίζει τον τύπο του φίλτρου. |
-| [Mode](../../aspose.psd/imageresizesettings/mode/) { get; set; } | Λαμβάνει ή ρυθμίζει τη λειτουργία παρεμβολής. |
+| [Mode](../../aspose.psd/imageresizesettings/mode/) { get; set; } | Λαμβάνει ή ορίζει τη λειτουργία παρεμβολής. |
 
 ### Δείτε επίσης
 
-* χώρος ονομάτων [Aspose.PSD](../../aspose.psd/)
-* συνέλευση [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

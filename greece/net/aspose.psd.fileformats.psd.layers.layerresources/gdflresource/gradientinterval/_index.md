@@ -1,27 +1,28 @@
 ---
-title: GdFlResource.GradientInterval
-second_title: Aspose.PSD για Αναφορά API .NET
-description: GdFlResource ιδιοκτησία. Λαμβάνει ή ορίζει το διάστημα κλίσης.
+title: "GdFlResource.GradientInterval"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "GdFlResource ιδιότητα. Λαμβάνει ή ορίζει το διάστημα της διαβάθμισης"
 type: docs
-weight: 70
+weight: 80
 url: /el/net/aspose.psd.fileformats.psd.layers.layerresources/gdflresource/gradientinterval/
 ---
+{{< psd/tize >}}
 ## GdFlResource.GradientInterval property
 
-Λαμβάνει ή ορίζει το διάστημα κλίσης.
+Λαμβάνει ή ορίζει το διάστημα διαβάθμισης.
 
 ```csharp
 public double GradientInterval { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Το διάστημα κλίσης.
+Το διάστημα της διαβάθμισης.
 
 ### Δείτε επίσης
 
 * class [GdFlResource](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../gdflresource/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

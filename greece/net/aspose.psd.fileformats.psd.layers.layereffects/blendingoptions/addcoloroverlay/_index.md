@@ -1,11 +1,12 @@
 ---
-title: BlendingOptions.AddColorOverlay
-second_title: Aspose.PSD για Αναφορά API .NET
-description: BlendingOptions μέθοδος. Προσθέτει την επικάλυψη χρώματος.
+title: "BlendingOptions.AddColorOverlay"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Μέθοδος BlendingOptions. Προσθέτει την επικάλυψη χρώματος"
 type: docs
-weight: 20
+weight: 30
 url: /el/net/aspose.psd.fileformats.psd.layers.layereffects/blendingoptions/addcoloroverlay/
 ---
+{{< psd/tize >}}
 ## BlendingOptions.AddColorOverlay method
 
 Προσθέτει την επικάλυψη χρώματος.
@@ -14,15 +15,15 @@ url: /el/net/aspose.psd.fileformats.psd.layers.layereffects/blendingoptions/addc
 public ColorOverlayEffect AddColorOverlay()
 ```
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-Δημιουργήθηκε[`ColorOverlayEffect`](../../coloroverlayeffect/) αντικείμενο
+Δημιουργήθηκε αντικείμενο [`ColorOverlayEffect`](../../coloroverlayeffect/)
 
 ### Δείτε επίσης
 
 * class [ColorOverlayEffect](../../coloroverlayeffect/)
 * class [BlendingOptions](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../blendingoptions/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../../)
 
 

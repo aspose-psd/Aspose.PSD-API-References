@@ -1,27 +1,28 @@
 ---
-title: StreamContainer.Position
-second_title: Aspose.PSD για Αναφορά API .NET
-description: StreamContainer ιδιοκτησία. Λαμβάνει ή ορίζει την τρέχουσα θέση εντός της ροής. Αυτή η τιμή αντιπροσωπεύει τη μετατόπιση από τη θέση έναρξης ροής που μεταβιβάστηκε στον κατασκευαστή StreamContainer.
+title: "StreamContainer.Position"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα StreamContainer. Λαμβάνει ή ορίζει τη τρέχουσα θέση μέσα στη ροή. Αυτή η τιμή αντιπροσωπεύει την απόσταση από τη θέση εκκίνησης της ροής που περάστηκε στον κατασκευαστή StreamContainer"
 type: docs
 weight: 70
 url: /el/net/aspose.psd/streamcontainer/position/
 ---
+{{< psd/tize >}}
 ## StreamContainer.Position property
 
-Λαμβάνει ή ορίζει την τρέχουσα θέση εντός της ροής. Αυτή η τιμή αντιπροσωπεύει τη μετατόπιση από τη θέση έναρξης ροής που μεταβιβάστηκε στον κατασκευαστή StreamContainer.
+Λαμβάνει ή ορίζει την τρέχουσα θέση εντός του stream. Αυτή η τιμή αντιπροσωπεύει την απόσταση από τη θέση εκκίνησης του stream που περάστηκε στον κατασκευαστή StreamContainer.
 
 ```csharp
 public virtual long Position { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Η τρέχουσα θέση ροής.
+Η τρέχουσα θέση της ροής.
 
 ### Δείτε επίσης
 
 * class [StreamContainer](../)
-* χώρος ονομάτων [Aspose.PSD](../../streamcontainer/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

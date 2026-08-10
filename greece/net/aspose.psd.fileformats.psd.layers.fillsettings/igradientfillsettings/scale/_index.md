@@ -1,26 +1,27 @@
 ---
-title: IGradientFillSettings.Scale
-second_title: Aspose.PSD για Αναφορά API .NET
-description: IGradientFillSettings ιδιοκτησία. Παίρνει ή ρυθμίζει την κλίμακα.
+title: "IGradientFillSettings.Scale"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα IGradientFillSettings. Λαμβάνει ή ορίζει την κανονικοποιημένη κλίμακα διαβάθμισης σε ποσοστό"
 type: docs
-weight: 100
+weight: 90
 url: /el/net/aspose.psd.fileformats.psd.layers.fillsettings/igradientfillsettings/scale/
 ---
+{{< psd/tize >}}
 ## IGradientFillSettings.Scale property
 
-Παίρνει ή ρυθμίζει την κλίμακα.
+Λαμβάνει ή ορίζει την **κανονικοποιημένη** κλίμακα διαβάθμισης (σε ποσοστό).
 
 ```csharp
 public int Scale { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
 Η κλίμακα.
 
-### Παραδείγματα
+## Παραδείγματα
 
-Το ακόλουθο παράδειγμα δείχνει πώς να χρησιμοποιήσετε την ιδιότητα Scale για να κλιμακώσετε το FillLayer με κλίση.
+Το παρακάτω παράδειγμα δείχνει πώς να χρησιμοποιήσετε την ιδιότητα Scale για να κλιμακώσετε το FillLayer με διαβάθμιση.
 
 ```csharp
 [C#]
@@ -30,7 +31,7 @@ string output = "scaledImage.png";
 
 using (var image = (PsdImage)Image.Load(sourceFileName))
 {
-    // λήψη ενός στρώματος πλήρωσης
+    // Λήψη ενός FillLayer
     FillLayer fillLayer = null;
     foreach (var layer in image.Layers)
     {
@@ -43,9 +44,9 @@ using (var image = (PsdImage)Image.Load(sourceFileName))
 
     var settings = fillLayer.FillSettings as IGradientFillSettings;
 
-    // τιμή κλίμακας ενημέρωσης
+    // Ενημέρωση τιμής κλίμακας
     settings.Scale = 200;
-    fillLayer.Update(); // Ενημερώνει δεδομένα pixel
+    fillLayer.Update(); // Updates pixels data
 
     image.Save(output, new PngOptions() { ColorType = PngColorType.TruecolorWithAlpha });
 }
@@ -54,7 +55,7 @@ using (var image = (PsdImage)Image.Load(sourceFileName))
 ### Δείτε επίσης
 
 * interface [IGradientFillSettings](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../igradientfillsettings/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../../)
 
 

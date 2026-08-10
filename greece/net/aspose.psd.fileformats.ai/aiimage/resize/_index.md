@@ -1,11 +1,12 @@
 ---
-title: AiImage.Resize
-second_title: Aspose.PSD για Αναφορά API .NET
-description: AiImage μέθοδος. Αλλάζει το μέγεθος της εικόνας.
+title: "AiImage.Resize"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Μέθοδος AiImage. Αλλάζει το μέγεθος της εικόνας"
 type: docs
-weight: 150
+weight: 180
 url: /el/net/aspose.psd.fileformats.ai/aiimage/resize/
 ---
+{{< psd/tize >}}
 ## Resize(int, int, ResizeType) {#resize_2}
 
 Αλλάζει το μέγεθος της εικόνας.
@@ -22,16 +23,16 @@ public override void Resize(int newWidth, int newHeight, ResizeType resizeType)
 
 ### Εξαιρέσεις
 
-| εξαίρεση | κατάσταση |
+| εξαίρεση | συνθήκη |
 | --- | --- |
-| NotImplementedException | &gt;Δεν εφαρμόζεται |
+| NotImplementedException | &gt;Δεν έχει υλοποιηθεί |
 
 ### Δείτε επίσης
 
 * enum [ResizeType](../../../aspose.psd/resizetype/)
 * class [AiImage](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Ai](../../aiimage/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
@@ -47,19 +48,19 @@ public override void Resize(int newWidth, int newHeight, ImageResizeSettings set
 | --- | --- | --- |
 | newWidth | Int32 | Το νέο πλάτος. |
 | newHeight | Int32 | Το νέο ύψος. |
-| settings | ImageResizeSettings | Οι ρυθμίσεις αλλαγής μεγέθους. |
+| ρυθμίσεις | ImageResizeSettings | Οι ρυθμίσεις αλλαγής μεγέθους. |
 
 ### Εξαιρέσεις
 
-| εξαίρεση | κατάσταση |
+| εξαίρεση | συνθήκη |
 | --- | --- |
-| NotImplementedException | &gt;Δεν εφαρμόζεται |
+| NotImplementedException | &gt;Δεν έχει υλοποιηθεί |
 
 ### Δείτε επίσης
 
 * class [ImageResizeSettings](../../../aspose.psd/imageresizesettings/)
 * class [AiImage](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Ai](../../aiimage/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

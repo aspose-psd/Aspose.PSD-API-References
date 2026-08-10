@@ -1,31 +1,32 @@
 ---
-title: Enum ProjectType
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Aspose.PSD.Xmp.Schemas.XmpDm.ProjectType αρίθμηση. Αντιπροσωπεύει τον τύπο έργουXmpDynamicMediaPackage .
+title: "Απαρίθμηση ProjectType"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Aspose.PSD.Xmp.Schemas.XmpDm.ProjectType απαρίθμηση. Αναπαριστά τον τύπο έργου στο XmpDynamicMediaPackage"
 type: docs
-weight: 5870
+weight: 6370
 url: /el/net/aspose.psd.xmp.schemas.xmpdm/projecttype/
 ---
+{{< psd/tize >}}
 ## ProjectType enumeration
 
-Αντιπροσωπεύει τον τύπο έργου[`XmpDynamicMediaPackage`](../xmpdynamicmediapackage/) .
+Αναπαριστά τον τύπο έργου στο [`XmpDynamicMediaPackage`](../xmpdynamicmediapackage/).
 
 ```csharp
 public enum ProjectType
 ```
 
-### Αξίες
+### Τιμές
 
-| Ονομα | αξία | Περιγραφή |
+| Όνομα | Τιμή | Περιγραφή |
 | --- | --- | --- |
-| Movie | `0` | Το έργο της ταινίας type |
-| Still | `1` | Ο ακίνητος τύπος έργου |
-| Audio | `2` | Το ηχητικό έργο type |
+| Movie | `0` | Ο τύπος έργου ταινίας |
+| Still | `1` | Ο τύπος έργου στατικού |
+| Audio | `2` | Ο τύπος έργου ήχου |
 | Custom | `3` | Ο προσαρμοσμένος τύπος έργου |
 
 ### Δείτε επίσης
 
-* χώρος ονομάτων [Aspose.PSD.Xmp.Schemas.XmpDm](../../aspose.psd.xmp.schemas.xmpdm/)
-* συνέλευση [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpDm](../../aspose.psd.xmp.schemas.xmpdm/)
+* assembly [Aspose.PSD](../../)
 
 

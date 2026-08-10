@@ -1,11 +1,12 @@
 ---
-title: Class Configuration
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Aspose.PSD.MemoryManagement.Configuration τάξη. Η παγκόσμια διαμόρφωση διαχείρισης μνήμης
+title: "Κλάση Configuration"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Aspose.PSD.MemoryManagement.Configuration κλάση. Η καθολική διαμόρφωση διαχείρισης μνήμης"
 type: docs
-weight: 5110
+weight: 5600
 url: /el/net/aspose.psd.memorymanagement/configuration/
 ---
+{{< psd/tize >}}
 ## Configuration class
 
 Η παγκόσμια διαμόρφωση διαχείρισης μνήμης
@@ -16,13 +17,13 @@ public static class Configuration
 
 ## Ιδιότητες
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
-| static [BufferSizeHint](../../aspose.psd.memorymanagement/configuration/buffersizehint/) { get; set; } | Λαμβάνει ή ορίζει την υπόδειξη μεγέθους buffer που ορίζεται ως μέγιστο επιτρεπόμενο μέγεθος για όλα τα εσωτερικά buffer. |
+| static [BufferSizeHint](../../aspose.psd.memorymanagement/configuration/buffersizehint/) { get; set; } | Λαμβάνει ή ορίζει την υπόδειξη μεγέθους του buffer, η οποία ορίζεται ως το μέγιστο επιτρεπόμενο μέγεθος για όλα τα εσωτερικά buffers. |
 
 ### Δείτε επίσης
 
-* χώρος ονομάτων [Aspose.PSD.MemoryManagement](../../aspose.psd.memorymanagement/)
-* συνέλευση [Aspose.PSD](../../)
+* namespace [Aspose.PSD.MemoryManagement](../../aspose.psd.memorymanagement/)
+* assembly [Aspose.PSD](../../)
 
 

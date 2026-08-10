@@ -1,23 +1,24 @@
 ---
-title: LayerResource.Signature
-second_title: Aspose.PSD για Αναφορά API .NET
-description: LayerResource ιδιοκτησία. Λαμβάνει την υπογραφή του πόρου του επιπέδου.
+title: "LayerResource.Signature"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα LayerResource. Λαμβάνει την υπογραφή"
 type: docs
 weight: 40
 url: /el/net/aspose.psd.fileformats.psd.layers/layerresource/signature/
 ---
+{{< psd/tize >}}
 ## LayerResource.Signature property
 
-Λαμβάνει την υπογραφή του πόρου του επιπέδου.
+Λαμβάνει την υπογραφή.
 
 ```csharp
-public abstract int Signature { get; }
+public virtual int Signature { get; }
 ```
 
 ### Δείτε επίσης
 
 * class [LayerResource](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers](../../layerresource/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

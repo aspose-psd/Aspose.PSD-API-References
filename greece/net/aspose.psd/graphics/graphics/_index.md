@@ -1,14 +1,15 @@
 ---
-title: Graphics.Graphics
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Graphics κατασκευαστής. Αρχικοποιεί μια νέα παρουσία τουGraphics τάξη.
+title: "Graphics.Graphics"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Κατασκευαστής Graphics. Αρχικοποιεί ένα νέο στιγμιότυπο της κλάσης Graphics."
 type: docs
 weight: 10
 url: /el/net/aspose.psd/graphics/graphics/
 ---
+{{< psd/tize >}}
 ## Graphics constructor
 
-Αρχικοποιεί μια νέα παρουσία του[`Graphics`](../) τάξη.
+Αρχικοποιεί ένα νέο στιγμιότυπο της κλάσης [`Graphics`](../).
 
 ```csharp
 public Graphics(Image sourceImage)
@@ -16,13 +17,13 @@ public Graphics(Image sourceImage)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| sourceImage | Image | Η εικόνα της πηγής. |
+| sourceImage | Εικόνα | Η πηγή εικόνας. |
 
 ### Δείτε επίσης
 
 * class [Image](../../image/)
 * class [Graphics](../)
-* χώρος ονομάτων [Aspose.PSD](../../graphics/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

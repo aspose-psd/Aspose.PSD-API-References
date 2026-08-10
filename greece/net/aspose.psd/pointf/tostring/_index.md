@@ -1,27 +1,28 @@
 ---
-title: PointF.ToString
-second_title: Aspose.PSD για Αναφορά API .NET
-description: PointF μέθοδος. Μετατρέπει αυτόPointF σε μια συμβολοσειρά αναγνώσιμη από τον άνθρωπο.
+title: "PointF.ToString"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Μέθοδος PointF. Μετατρέπει αυτό το PointF σε μια αναγνώσιμη από άνθρωπο συμβολοσειρά"
 type: docs
 weight: 100
 url: /el/net/aspose.psd/pointf/tostring/
 ---
+{{< psd/tize >}}
 ## PointF.ToString method
 
-Μετατρέπει αυτό[`PointF`](../) σε μια συμβολοσειρά αναγνώσιμη από τον άνθρωπο.
+Μετατρέπει αυτό το [`PointF`](../) σε μια αναγνώσιμη από άνθρωπο συμβολοσειρά.
 
 ```csharp
 public override string ToString()
 ```
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-Μια συμβολοσειρά που αντιπροσωπεύει αυτό[`PointF`](../).
+Μια συμβολοσειρά που αντιπροσωπεύει αυτό το [`PointF`](../).
 
 ### Δείτε επίσης
 
 * struct [PointF](../)
-* χώρος ονομάτων [Aspose.PSD](../../pointf/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

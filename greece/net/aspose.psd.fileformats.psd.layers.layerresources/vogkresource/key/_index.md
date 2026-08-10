@@ -1,22 +1,23 @@
 ---
-title: VogkResource.Key
-second_title: Aspose.PSD για Αναφορά API .NET
-description: VogkResource ιδιοκτησία. Λαμβάνει το κλειδί πόρων επιπέδου.
+title: "VogkResource.Key"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα VogkResource. Λαμβάνει το κλειδί του πόρου στρώσης."
 type: docs
 weight: 20
 url: /el/net/aspose.psd.fileformats.psd.layers.layerresources/vogkresource/key/
 ---
+{{< psd/tize >}}
 ## VogkResource.Key property
 
-Λαμβάνει το κλειδί πόρων επιπέδου.
+Λαμβάνει το κλειδί πόρου του επιπέδου.
 
 ```csharp
 public override int Key { get; }
 ```
 
-### Παραδείγματα
+## Παραδείγματα
 
-Το ακόλουθο παράδειγμα δείχνει την υποστήριξη του πόρου VogkResource.
+Το παρακάτω παράδειγμα δείχνει την υποστήριξη του πόρου VogkResource.
 
 ```csharp
 [C#]
@@ -51,7 +52,7 @@ using (var psdImage = (PsdImage)Image.Load(sourceFilePath))
 {
     var resource = GetVogkResource(psdImage);
 
-    // ΑΝΑΓΝΩΣΗ
+    // Ανάγνωση
     if (resource.ShapeOriginSettings.Length != 1 ||
         !resource.ShapeOriginSettings[0].IsShapeInvalidated ||
         resource.ShapeOriginSettings[0].OriginIndex != 0)
@@ -73,7 +74,7 @@ using (var psdImage = (PsdImage)Image.Load(sourceFilePath))
 ### Δείτε επίσης
 
 * class [VogkResource](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../vogkresource/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: VstkResource.FillEnabled
-second_title: Aspose.PSD για Αναφορά API .NET
-description: VstkResource ιδιοκτησία. Λαμβάνει ή ορίζει μια τιμή που υποδεικνύει εάν το Stroke Fill είναι ενεργοποιημένο.
+title: "VstkResource.FillEnabled"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "VstkResource ιδιότητα. Λαμβάνει ή ορίζει μια τιμή που υποδεικνύει αν το Stroke fill είναι ενεργό"
 type: docs
 weight: 20
 url: /el/net/aspose.psd.fileformats.psd.layers.layerresources.strokeresources/vstkresource/fillenabled/
 ---
+{{< psd/tize >}}
 ## VstkResource.FillEnabled property
 
-Λαμβάνει ή ορίζει μια τιμή που υποδεικνύει εάν το Stroke Fill είναι ενεργοποιημένο.
+Λαμβάνει ή ορίζει μια τιμή που υποδεικνύει αν το γεμιστό Stroke είναι ενεργό.
 
 ```csharp
 public bool FillEnabled { get; set; }
@@ -17,7 +18,7 @@ public bool FillEnabled { get; set; }
 ### Δείτε επίσης
 
 * class [VstkResource](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.StrokeResources](../../vstkresource/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.StrokeResources](../../../aspose.psd.fileformats.psd.layers.layerresources.strokeresources/)
+* assembly [Aspose.PSD](../../../)
 
 

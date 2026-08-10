@@ -1,11 +1,12 @@
 ---
-title: LayerGroupInformationResource.LayerGroupInformationResource
-second_title: Aspose.PSD για Αναφορά API .NET
-description: LayerGroupInformationResource κατασκευαστής. Ο προεπιλεγμένος κατασκευαστής.
+title: "LayerGroupInformationResource.LayerGroupInformationResource"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "LayerGroupInformationResource constructor. Ο προεπιλεγμένος κατασκευαστής"
 type: docs
 weight: 10
 url: /el/net/aspose.psd.fileformats.psd.resources/layergroupinformationresource/layergroupinformationresource/
 ---
+{{< psd/tize >}}
 ## LayerGroupInformationResource constructor
 
 Ο προεπιλεγμένος κατασκευαστής.
@@ -17,7 +18,7 @@ public LayerGroupInformationResource()
 ### Δείτε επίσης
 
 * class [LayerGroupInformationResource](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Resources](../../layergroupinformationresource/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

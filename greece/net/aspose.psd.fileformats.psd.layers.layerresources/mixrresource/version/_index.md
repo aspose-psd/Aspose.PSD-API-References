@@ -1,11 +1,12 @@
 ---
-title: MixrResource.Version
-second_title: Aspose.PSD για Αναφορά API .NET
-description: MixrResource ιδιοκτησία. Λαμβάνει ή ορίζει την έκδοση.
+title: "MixrResource.Version"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "MixrResource ιδιότητα. Λαμβάνει ή ορίζει την έκδοση"
 type: docs
-weight: 60
+weight: 40
 url: /el/net/aspose.psd.fileformats.psd.layers.layerresources/mixrresource/version/
 ---
+{{< psd/tize >}}
 ## MixrResource.Version property
 
 Λαμβάνει ή ορίζει την έκδοση.
@@ -14,14 +15,14 @@ url: /el/net/aspose.psd.fileformats.psd.layers.layerresources/mixrresource/versi
 public short Version { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
 Η έκδοση. Η προεπιλεγμένη τιμή είναι 1
 
 ### Δείτε επίσης
 
 * class [MixrResource](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../mixrresource/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

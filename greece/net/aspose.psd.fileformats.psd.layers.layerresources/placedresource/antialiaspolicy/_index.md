@@ -1,27 +1,28 @@
 ---
-title: PlacedResource.AntiAliasPolicy
-second_title: Aspose.PSD για Αναφορά API .NET
-description: PlacedResource ιδιοκτησία. Λαμβάνει ή ορίζει την πολιτική κατά του ψευδωνύμου του τοποθετημένου επιπέδου στην εικόνα PSD.
+title: "PlacedResource.AntiAliasPolicy"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα PlacedResource. Λαμβάνει ή ορίζει την πολιτική anti alias του τοποθετημένου στρώματος στην εικόνα PSD"
 type: docs
 weight: 10
 url: /el/net/aspose.psd.fileformats.psd.layers.layerresources/placedresource/antialiaspolicy/
 ---
+{{< psd/tize >}}
 ## PlacedResource.AntiAliasPolicy property
 
-Λαμβάνει ή ορίζει την πολιτική κατά του ψευδωνύμου του τοποθετημένου επιπέδου στην εικόνα PSD.
+Λαμβάνει ή ορίζει την πολιτική anti-alias του τοποθετημένου στρώματος στην εικόνα PSD.
 
 ```csharp
 public virtual int AntiAliasPolicy { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Η πολιτική κατά του ψευδωνύμου του τοποθετημένου επιπέδου.
+Η πολιτική anti alias του τοποθετημένου στρώματος.
 
 ### Δείτε επίσης
 
 * class [PlacedResource](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../placedresource/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

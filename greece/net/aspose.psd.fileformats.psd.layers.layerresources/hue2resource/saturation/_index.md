@@ -1,27 +1,28 @@
 ---
-title: Hue2Resource.Saturation
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Hue2Resource ιδιοκτησία. Λαμβάνει ή ρυθμίζει τον κύριο κορεσμό.
+title: "Hue2Resource.Saturation"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα Hue2Resource. Λαμβάνει ή ορίζει τον κύριο κορεσμό"
 type: docs
-weight: 90
+weight: 70
 url: /el/net/aspose.psd.fileformats.psd.layers.layerresources/hue2resource/saturation/
 ---
+{{< psd/tize >}}
 ## Hue2Resource.Saturation property
 
-Λαμβάνει ή ρυθμίζει τον κύριο κορεσμό.
+Ανακτά ή ορίζει τον κύριο κορεσμό.
 
 ```csharp
 public short Saturation { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
 Ο κύριος κορεσμός.
 
 ### Δείτε επίσης
 
 * class [Hue2Resource](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../hue2resource/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: JpegExifData.Artist
-second_title: Aspose.PSD για Αναφορά API .NET
-description: JpegExifData ιδιοκτησία. Παίρνει ή ρυθμίζει τον καλλιτέχνη.
+title: "JpegExifData.Artist"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα JpegExifData. Λαμβάνει ή ορίζει τον καλλιτέχνη"
 type: docs
 weight: 20
 url: /el/net/aspose.psd.exif/jpegexifdata/artist/
 ---
+{{< psd/tize >}}
 ## JpegExifData.Artist property
 
-Παίρνει ή ρυθμίζει τον καλλιτέχνη.
+Λαμβάνει ή ορίζει τον καλλιτέχνη.
 
 ```csharp
 public string Artist { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
 Ο καλλιτέχνης.
 
 ### Δείτε επίσης
 
 * class [JpegExifData](../)
-* χώρος ονομάτων [Aspose.PSD.Exif](../../jpegexifdata/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

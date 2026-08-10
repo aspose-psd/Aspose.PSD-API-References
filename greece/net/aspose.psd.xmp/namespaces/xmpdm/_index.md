@@ -1,11 +1,12 @@
 ---
-title: Namespaces.XmpDm
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Namespaces πεδίο. Χώρος ονομάτων XMP Dynamic Media.
+title: "Namespaces.XmpDm"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Πεδίο Namespaces. Χώρος ονομάτων XMP Dynamic Media"
 type: docs
 weight: 70
 url: /el/net/aspose.psd.xmp/namespaces/xmpdm/
 ---
+{{< psd/tize >}}
 ## Namespaces.XmpDm field
 
 Χώρος ονομάτων XMP Dynamic Media.
@@ -17,7 +18,7 @@ public const string XmpDm;
 ### Δείτε επίσης
 
 * class [Namespaces](../)
-* χώρος ονομάτων [Aspose.PSD.Xmp](../../namespaces/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: SoLeResource.Key
-second_title: Aspose.PSD για Αναφορά API .NET
-description: SoLeResource ιδιοκτησία. Λαμβάνει το κλειδί πόρων επιπέδου Sole smart object.
+title: "SoLeResource.Key"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα SoLeResource. Επιστρέφει το κλειδί πόρου στρώσης έξυπνου αντικειμένου Sole"
 type: docs
 weight: 20
 url: /el/net/aspose.psd.fileformats.psd.layers.layerresources/soleresource/key/
 ---
+{{< psd/tize >}}
 ## SoLeResource.Key property
 
-Λαμβάνει το κλειδί πόρων επιπέδου Sole smart object.
+Επιστρέφει το κλειδί πόρου στρώσης έξυπνου αντικειμένου Sole.
 
 ```csharp
 public override int Key { get; }
@@ -17,7 +18,7 @@ public override int Key { get; }
 ### Δείτε επίσης
 
 * class [SoLeResource](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../soleresource/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

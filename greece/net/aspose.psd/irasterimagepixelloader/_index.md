@@ -1,14 +1,15 @@
 ---
-title: Interface IRasterImagePixelLoader
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Aspose.PSD.IRasterImagePixelLoader διεπαφή. Ο φορτωτής pixel εικόνας ράστερ.
+title: "Διεπαφή IRasterImagePixelLoader"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Διεπαφή Aspose.PSD.IRasterImagePixelLoader. Ο φορτωτής εικονοστοιχείων raster."
 type: docs
-weight: 4570
+weight: 5040
 url: /el/net/aspose.psd/irasterimagepixelloader/
 ---
+{{< psd/tize >}}
 ## IRasterImagePixelLoader interface
 
-Ο φορτωτής pixel εικόνας ράστερ.
+Ο φορτωτής raster εικόνας pixel.
 
 ```csharp
 public interface IRasterImagePixelLoader : IRasterImageRawDataLoader
@@ -16,14 +17,14 @@ public interface IRasterImagePixelLoader : IRasterImageRawDataLoader
 
 ## Μέθοδοι
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
-| [LoadPartialPixels](../../aspose.psd/irasterimagepixelloader/loadpartialpixels/)(Rectangle, IPartialPixelLoader) | Φορτώνει μερικώς pixel (κατά μπλοκ). |
+| [LoadPartialPixels](../../aspose.psd/irasterimagepixelloader/loadpartialpixels/)(Rectangle, IPartialPixelLoader) | Φορτώνει εικονοστοιχεία μερικώς (ανά μπλοκ). |
 
 ### Δείτε επίσης
 
 * interface [IRasterImageRawDataLoader](../irasterimagerawdataloader/)
-* χώρος ονομάτων [Aspose.PSD](../../aspose.psd/)
-* συνέλευση [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

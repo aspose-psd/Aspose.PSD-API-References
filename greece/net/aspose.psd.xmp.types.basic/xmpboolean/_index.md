@@ -1,14 +1,15 @@
 ---
-title: Class XmpBoolean
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Aspose.PSD.Xmp.Types.Basic.XmpBoolean τάξη. Αντιπροσωπεύει τον βασικό τύπο Boolean XMP.
+title: "Κλάση XmpBoolean"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Κλάση Aspose.PSD.Xmp.Types.Basic.XmpBoolean. Αντιπροσωπεύει τον βασικό τύπο Boolean XMP"
 type: docs
-weight: 5940
+weight: 6440
 url: /el/net/aspose.psd.xmp.types.basic/xmpboolean/
 ---
+{{< psd/tize >}}
 ## XmpBoolean class
 
-Αντιπροσωπεύει τον βασικό τύπο Boolean XMP.
+Αντιπροσωπεύει τον βασικό τύπο Boolean του XMP.
 
 ```csharp
 public sealed class XmpBoolean : XmpTypeBase
@@ -16,28 +17,28 @@ public sealed class XmpBoolean : XmpTypeBase
 
 ## Κατασκευαστές
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
-| [XmpBoolean](xmpboolean/#constructor)() | Αρχικοποιεί μια νέα παρουσία του`XmpBoolean` κλάση με προεπιλεγμένη τιμή. |
-| [XmpBoolean](xmpboolean/#constructor_1)(bool) | Αρχικοποιεί μια νέα παρουσία του`XmpBoolean` κλάση με βάση τη δυαδική τιμή. |
-| [XmpBoolean](xmpboolean/#constructor_2)(string) | Αρχικοποιεί μια νέα παρουσία του`XmpBoolean` τάξη. |
+| [XmpBoolean](xmpboolean/#constructor)() | Αρχικοποιεί μια νέα παρουσία της κλάσης `XmpBoolean` με προεπιλεγμένη τιμή. |
+| [XmpBoolean](xmpboolean/#constructor_1)(bool) | Αρχικοποιεί μια νέα παρουσία της κλάσης `XmpBoolean` βάσει boolean τιμής. |
+| [XmpBoolean](xmpboolean/#constructor_2)(string) | Αρχικοποιεί μια νέα παρουσία της κλάσης `XmpBoolean`. |
 
 ## Ιδιότητες
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
-| [Value](../../aspose.psd.xmp.types.basic/xmpboolean/value/) { get; set; } | Λαμβάνει ή ορίζει μια τιμή που υποδεικνύει εάν αυτό`XmpBoolean` είναι τιμή. |
+| [Value](../../aspose.psd.xmp.types.basic/xmpboolean/value/) { get; set; } | Λαμβάνει ή ορίζει μια τιμή που υποδεικνύει εάν αυτό το `XmpBoolean` είναι τιμή. |
 
 ## Μέθοδοι
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
-| override [GetXmpRepresentation](../../aspose.psd.xmp.types.basic/xmpboolean/getxmprepresentation/)() | Επιστρέφει την τιμή που περιέχεται στη συμβολοσειρά σε μορφή XMP. |
+| override [GetXmpRepresentation](../../aspose.psd.xmp.types.basic/xmpboolean/getxmprepresentation/)() | Επιστρέφει την τιμή της συμβολοσειράς σε μορφή XMP. |
 
 ### Δείτε επίσης
 
 * class [XmpTypeBase](../../aspose.psd.xmp.types/xmptypebase/)
-* χώρος ονομάτων [Aspose.PSD.Xmp.Types.Basic](../../aspose.psd.xmp.types.basic/)
-* συνέλευση [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Xmp.Types.Basic](../../aspose.psd.xmp.types.basic/)
+* assembly [Aspose.PSD](../../)
 
 

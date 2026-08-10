@@ -1,11 +1,12 @@
 ---
-title: SplitStreamContainer.Write
-second_title: Aspose.PSD για Αναφορά API .NET
-description: SplitStreamContainer μέθοδος. Γράφει όλα τα καθορισμένα byte στη ροή.
+title: "SplitStreamContainer.Write"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "SplitStreamContainer method. Γράφει όλα τα καθορισμένα bytes στη ροή"
 type: docs
 weight: 170
 url: /el/net/aspose.psd/splitstreamcontainer/write/
 ---
+{{< psd/tize >}}
 ## Write(byte[]) {#write}
 
 Γράφει όλα τα καθορισμένα byte στη ροή.
@@ -16,19 +17,19 @@ public override void Write(byte[] bytes)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| bytes | Byte[] | Τα byte για να γράψετε. |
+| bytes | Byte[] | Τα bytes προς εγγραφή. |
 
 ### Δείτε επίσης
 
 * class [SplitStreamContainer](../)
-* χώρος ονομάτων [Aspose.PSD](../../splitstreamcontainer/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Write(byte[], int, int) {#write_1}
 
-Γράφει μια ακολουθία byte στην τρέχουσα ροή και προωθεί την τρέχουσα θέση σε αυτήν τη ροή με τον αριθμό των byte που γράφτηκαν.
+Γράφει μια ακολουθία byte στην τρέχουσα ροή και προχωρά τη τρέχουσα θέση μέσα σε αυτή τη ροή κατά τον αριθμό των byte που γράφτηκαν.
 
 ```csharp
 public override void Write(byte[] buffer, int offset, int count)
@@ -36,14 +37,14 @@ public override void Write(byte[] buffer, int offset, int count)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| buffer | Byte[] | Μια σειρά από byte. Αυτή η μέθοδος αντιγράφει*count* byte από*buffer* στην τρέχουσα ροή. |
-| offset | Int32 | Η μετατόπιση του byte με βάση το μηδέν*buffer*όπου θα ξεκινήσει η αντιγραφή byte στην τρέχουσα ροή. |
-| count | Int32 | Ο αριθμός των byte που θα εγγραφούν στην τρέχουσα ροή. |
+| buffer | Byte[] | Ένας πίνακας bytes. Αυτή η μέθοδος αντιγράφει *count* bytes από *buffer* στην τρέχουσα ροή. |
+| offset | Int32 | Η μηδενική βάση offset byte στο *buffer* στην οποία θα ξεκινήσει η αντιγραφή bytes στην τρέχουσα ροή. |
+| πλήθος | Int32 | Ο αριθμός των bytes που θα γραφτούν στην τρέχουσα ροή. |
 
 ### Δείτε επίσης
 
 * class [SplitStreamContainer](../)
-* χώρος ονομάτων [Aspose.PSD](../../splitstreamcontainer/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

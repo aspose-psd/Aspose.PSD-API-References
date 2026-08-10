@@ -1,27 +1,28 @@
 ---
-title: Jpeg2000Options.Comments
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Jpeg2000Options ιδιοκτησία. Λαμβάνει ή ορίζει τους δείκτες σχολίων Jpeg.
+title: "Jpeg2000Options.Comments"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Jpeg2000Options ιδιότητα. Λαμβάνει ή ορίζει τα σημεία σχολίων Jpeg"
 type: docs
 weight: 30
 url: /el/net/aspose.psd.imageoptions/jpeg2000options/comments/
 ---
+{{< psd/tize >}}
 ## Jpeg2000Options.Comments property
 
-Λαμβάνει ή ορίζει τους δείκτες σχολίων Jpeg.
+Λαμβάνει ή ορίζει τα δείκτες σχολίων Jpeg
 
 ```csharp
 public string[] Comments { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Οι δείκτες σχολίων Jpeg.
+Τα σημεία σχολίων Jpeg.
 
 ### Δείτε επίσης
 
 * class [Jpeg2000Options](../)
-* χώρος ονομάτων [Aspose.PSD.ImageOptions](../../jpeg2000options/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

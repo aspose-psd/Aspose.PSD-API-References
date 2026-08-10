@@ -1,11 +1,12 @@
 ---
-title: IOrderedShape.Reverse
-second_title: Aspose.PSD για Αναφορά API .NET
-description: IOrderedShape μέθοδος. Αντιστρέφει τη σειρά των σημείων για αυτό το σχήμα.
+title: "IOrderedShape.Reverse"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "IOrderedShape μέθοδος. Αντιστρέφει τη σειρά των σημείων για αυτό το σχήμα"
 type: docs
 weight: 40
 url: /el/net/aspose.psd/iorderedshape/reverse/
 ---
+{{< psd/tize >}}
 ## IOrderedShape.Reverse method
 
 Αντιστρέφει τη σειρά των σημείων για αυτό το σχήμα.
@@ -17,7 +18,7 @@ public void Reverse()
 ### Δείτε επίσης
 
 * interface [IOrderedShape](../)
-* χώρος ονομάτων [Aspose.PSD](../../iorderedshape/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

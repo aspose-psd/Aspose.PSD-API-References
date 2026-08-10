@@ -1,26 +1,27 @@
 ---
-title: PsdImage.AddBlackWhiteAdjustmentLayer
-second_title: Aspose.PSD για Αναφορά API .NET
-description: PsdImage μέθοδος. Προσθέτει το μαύρο λευκό επίπεδο προσαρμογής.
+title: "PsdImage.AddBlackWhiteAdjustmentLayer"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Μέθοδος PsdImage. Προσθέτει το επίπεδο προσαρμογής ασπρόμαυρου"
 type: docs
-weight: 290
+weight: 300
 url: /el/net/aspose.psd.fileformats.psd/psdimage/addblackwhiteadjustmentlayer/
 ---
+{{< psd/tize >}}
 ## PsdImage.AddBlackWhiteAdjustmentLayer method
 
-Προσθέτει το μαύρο λευκό επίπεδο προσαρμογής.
+Προσθέτει το επίπεδο προσαρμογής ασπρόμαυρου.
 
 ```csharp
 public BlackWhiteAdjustmentLayer AddBlackWhiteAdjustmentLayer()
 ```
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-Το δημιουργημένο στρώμα προσαρμογής μαύρου λευκού.
+Το δημιουργημένο επίπεδο προσαρμογής ασπρόμαυρου.
 
-### Παραδείγματα
+## Παραδείγματα
 
-Το ακόλουθο παράδειγμα δείχνει πώς μπορείτε να προσθέσετε το στρώμα προσαρμογής μαύρου λευκού κατά το χρόνο εκτέλεσης στο Aspose.PSD
+Το παρακάτω παράδειγμα δείχνει πώς μπορείτε να προσθέσετε το black white adjustment layer κατά την εκτέλεση στο Aspose.PSD
 
 ```csharp
 [C#]
@@ -46,7 +47,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFileName))
 
 * class [BlackWhiteAdjustmentLayer](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/blackwhiteadjustmentlayer/)
 * class [PsdImage](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

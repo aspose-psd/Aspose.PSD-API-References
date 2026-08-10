@@ -1,14 +1,15 @@
 ---
-title: RasterImage.GetDefaultArgb32Pixels
-second_title: Aspose.PSD για Αναφορά API .NET
-description: RasterImage μέθοδος. Λαμβάνει τον προεπιλεγμένο πίνακα pixel ARGB 32bit.
+title: "RasterImage.GetDefaultArgb32Pixels"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Μέθοδος RasterImage. Λαμβάνει τον προεπιλεγμένο πίνακα των 32-bit pixel ARGB."
 type: docs
 weight: 280
 url: /el/net/aspose.psd/rasterimage/getdefaultargb32pixels/
 ---
+{{< psd/tize >}}
 ## RasterImage.GetDefaultArgb32Pixels method
 
-Λαμβάνει τον προεπιλεγμένο πίνακα pixel ARGB 32-bit.
+Λαμβάνει τον προεπιλεγμένο πίνακα pixel 32-bit ARGB.
 
 ```csharp
 public int[] GetDefaultArgb32Pixels(Rectangle rectangle)
@@ -16,17 +17,17 @@ public int[] GetDefaultArgb32Pixels(Rectangle rectangle)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| rectangle | Rectangle | Το ορθογώνιο για να λάβετε pixel. |
+| ορθογώνιο | Rectangle | Το ορθογώνιο για το οποίο θα ληφθούν τα pixel. |
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-Ο προεπιλεγμένος πίνακας εικονοστοιχείων.
+Ο προεπιλεγμένος πίνακας pixel.
 
 ### Δείτε επίσης
 
 * struct [Rectangle](../../rectangle/)
 * class [RasterImage](../)
-* χώρος ονομάτων [Aspose.PSD](../../rasterimage/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

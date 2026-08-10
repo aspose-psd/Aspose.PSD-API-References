@@ -1,14 +1,15 @@
 ---
-title: VstkResource.StrokeStyleStrokeAdjust
-second_title: Aspose.PSD για Αναφορά API .NET
-description: VstkResource ιδιοκτησία. Λαμβάνει ή ρυθμίζει την προσαρμογή διαδρομής.
+title: "VstkResource.StrokeStyleStrokeAdjust"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "VstkResource ιδιότητα. Λαμβάνει ή ορίζει τη ρύθμιση γραμμής"
 type: docs
-weight: 210
+weight: 190
 url: /el/net/aspose.psd.fileformats.psd.layers.layerresources.strokeresources/vstkresource/strokestylestrokeadjust/
 ---
+{{< psd/tize >}}
 ## VstkResource.StrokeStyleStrokeAdjust property
 
-Λαμβάνει ή ρυθμίζει την προσαρμογή διαδρομής.
+Λαμβάνει ή ορίζει τη ρύθμιση Stroke.
 
 ```csharp
 public bool StrokeStyleStrokeAdjust { get; set; }
@@ -17,7 +18,7 @@ public bool StrokeStyleStrokeAdjust { get; set; }
 ### Δείτε επίσης
 
 * class [VstkResource](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.StrokeResources](../../vstkresource/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.StrokeResources](../../../aspose.psd.fileformats.psd.layers.layerresources.strokeresources/)
+* assembly [Aspose.PSD](../../../)
 
 

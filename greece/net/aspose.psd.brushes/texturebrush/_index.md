@@ -1,14 +1,15 @@
 ---
-title: Class TextureBrush
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Aspose.PSD.Brushes.TextureBrush τάξη. Κάθε ιδιότητα τουTextureBrush η τάξη είναι αBrush αντικείμενο που χρησιμοποιεί μια εικόνα για να γεμίσει το εσωτερικό ενός σχήματος. Αυτή η κλάση δεν μπορεί να κληρονομηθεί.
+title: "Κλάση TextureBrush"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Κλάση Aspose.PSD.Brushes.TextureBrush. Κάθε ιδιότητα της κλάσης TextureBrush είναι ένα αντικείμενο Brush που χρησιμοποιεί μια εικόνα για να γεμίσει το εσωτερικό ενός σχήματος. Αυτή η κλάση δεν μπορεί να κληρονομηθεί."
 type: docs
 weight: 210
 url: /el/net/aspose.psd.brushes/texturebrush/
 ---
+{{< psd/tize >}}
 ## TextureBrush class
 
-Κάθε ιδιότητα του`TextureBrush` η τάξη είναι α[`Brush`](../../aspose.psd/brush/) αντικείμενο που χρησιμοποιεί μια εικόνα για να γεμίσει το εσωτερικό ενός σχήματος. Αυτή η κλάση δεν μπορεί να κληρονομηθεί.
+Κάθε ιδιότητα της κλάσης `TextureBrush` είναι ένα αντικείμενο [`Brush`](../../aspose.psd/brush/) που χρησιμοποιεί μια εικόνα για να γεμίσει το εσωτερικό ενός σχήματος. Αυτή η κλάση δεν μπορεί να κληρονομηθεί.
 
 ```csharp
 public sealed class TextureBrush : TransformBrush
@@ -16,50 +17,50 @@ public sealed class TextureBrush : TransformBrush
 
 ## Κατασκευαστές
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
-| [TextureBrush](texturebrush/#constructor)(Image) | Αρχικοποιεί μια νέα παρουσία του`TextureBrush` κλάση που χρησιμοποιεί την καθορισμένη εικόνα. |
-| [TextureBrush](texturebrush/#constructor_1)(Image, Rectangle) | Αρχικοποιεί μια νέα παρουσία του`TextureBrush` κλάση που χρησιμοποιεί την καθορισμένη εικόνα και το οριοθετημένο ορθογώνιο. |
-| [TextureBrush](texturebrush/#constructor_3)(Image, RectangleF) | Αρχικοποιεί μια νέα παρουσία του`TextureBrush` κλάση που χρησιμοποιεί την καθορισμένη εικόνα και το οριοθετημένο ορθογώνιο. |
-| [TextureBrush](texturebrush/#constructor_5)(Image, WrapMode) | Αρχικοποιεί μια νέα παρουσία του`TextureBrush` κλάση που χρησιμοποιεί την καθορισμένη λειτουργία εικόνας και αναδίπλωσης. |
-| [TextureBrush](texturebrush/#constructor_2)(Image, Rectangle, ImageAttributes) | Αρχικοποιεί μια νέα παρουσία του`TextureBrush` κλάση που χρησιμοποιεί τα χαρακτηριστικά εικόνας, οριοθέτησης ορθογωνίου και εικόνας. |
-| [TextureBrush](texturebrush/#constructor_4)(Image, RectangleF, ImageAttributes) | Αρχικοποιεί μια νέα παρουσία του`TextureBrush` κλάση που χρησιμοποιεί τα χαρακτηριστικά εικόνας, οριοθέτησης ορθογωνίου και εικόνας. |
-| [TextureBrush](texturebrush/#constructor_6)(Image, WrapMode, Rectangle) | Αρχικοποιεί μια νέα παρουσία του`TextureBrush`κλάση που χρησιμοποιεί την καθορισμένη εικόνα, τη λειτουργία αναδίπλωσης και το οριοθετημένο ορθογώνιο. |
-| [TextureBrush](texturebrush/#constructor_7)(Image, WrapMode, RectangleF) | Αρχικοποιεί μια νέα παρουσία του`TextureBrush`κλάση που χρησιμοποιεί την καθορισμένη εικόνα, τη λειτουργία αναδίπλωσης και το οριοθετημένο ορθογώνιο. |
+| [TextureBrush](texturebrush/#constructor)(Image) | Αρχικοποιεί ένα νέο αντικείμενο της κλάσης `TextureBrush` που χρησιμοποιεί την καθορισμένη εικόνα. |
+| [TextureBrush](texturebrush/#constructor_1)(Image, Rectangle) | Αρχικοποιεί ένα νέο αντικείμενο της κλάσης `TextureBrush` που χρησιμοποιεί την καθορισμένη εικόνα και το περιοριστικό ορθογώνιο. |
+| [TextureBrush](texturebrush/#constructor_3)(Image, RectangleF) | Αρχικοποιεί ένα νέο αντικείμενο της κλάσης `TextureBrush` που χρησιμοποιεί την καθορισμένη εικόνα και το περιοριστικό ορθογώνιο. |
+| [TextureBrush](texturebrush/#constructor_5)(Image, WrapMode) | Αρχικοποιεί ένα νέο αντικείμενο της κλάσης `TextureBrush` που χρησιμοποιεί την καθορισμένη εικόνα και τη λειτουργία περιτύλιξης. |
+| [TextureBrush](texturebrush/#constructor_2)(Image, Rectangle, ImageAttributes) | Αρχικοποιεί ένα νέο αντικείμενο της κλάσης `TextureBrush` που χρησιμοποιεί την καθορισμένη εικόνα, το περιοριστικό ορθογώνιο και τις ιδιότητες εικόνας. |
+| [TextureBrush](texturebrush/#constructor_4)(Image, RectangleF, ImageAttributes) | Αρχικοποιεί ένα νέο αντικείμενο της κλάσης `TextureBrush` που χρησιμοποιεί την καθορισμένη εικόνα, το περιοριστικό ορθογώνιο και τις ιδιότητες εικόνας. |
+| [TextureBrush](texturebrush/#constructor_6)(Image, WrapMode, Rectangle) | Αρχικοποιεί ένα νέο αντικείμενο της κλάσης `TextureBrush` που χρησιμοποιεί την καθορισμένη εικόνα, τη λειτουργία περιτύλιξης και το περιοριστικό ορθογώνιο. |
+| [TextureBrush](texturebrush/#constructor_7)(Image, WrapMode, RectangleF) | Αρχικοποιεί ένα νέο αντικείμενο της κλάσης `TextureBrush` που χρησιμοποιεί την καθορισμένη εικόνα, τη λειτουργία περιτύλιξης και το περιοριστικό ορθογώνιο. |
 
 ## Ιδιότητες
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
-| [Disposed](../../aspose.psd/disposableobject/disposed/) { get; } | Λαμβάνει μια τιμή που υποδεικνύει εάν αυτή η παρουσία έχει διατεθεί. |
-| [Image](../../aspose.psd.brushes/texturebrush/image/) { get; } | Λαμβάνει το[`Image`](../../aspose.psd/image/) αντικείμενο που σχετίζεται με αυτό`TextureBrush` αντικείμενο. |
-| [ImageAttributes](../../aspose.psd.brushes/texturebrush/imageattributes/) { get; } | Λαμβάνει το[`ImageAttributes`](./imageattributes/) συνδέονται με αυτό`TextureBrush` . |
-| [ImageRectangle](../../aspose.psd.brushes/texturebrush/imagerectangle/) { get; } | Λαμβάνει το[`Rectangle`](../../aspose.psd/rectangle/) συνδέονται με αυτό`TextureBrush` . |
-| [IsTransformChanged](../../aspose.psd.brushes/transformbrush/istransformchanged/) { get; } | Λαμβάνει μια τιμή που υποδεικνύει εάν οι μετασχηματισμοί άλλαξαν με κάποιο τρόπο. Για παράδειγμα, ορίζοντας τον πίνακα μετασχηματισμού ή καλώντας οποιαδήποτε από τις μεθόδους που αλλάζουν τον πίνακα μετασχηματισμού. Η ιδιότητα εισάγεται για συμβατότητα με το GDI+. |
-| [Opacity](../../aspose.psd/brush/opacity/) { get; set; } | Λαμβάνει ή ρυθμίζει την αδιαφάνεια του πινέλου. Η τιμή πρέπει να είναι μεταξύ 0 και 1. Η τιμή 0 σημαίνει ότι η βούρτσα είναι πλήρως ορατή, η τιμή 1 σημαίνει ότι η βούρτσα είναι πλήρως αδιαφανής. |
-| [Transform](../../aspose.psd.brushes/transformbrush/transform/) { get; set; } | Λαμβάνει ή ορίζει ένα αντίγραφο[`Matrix`](../../aspose.psd/matrix/) που ορίζει έναν τοπικό γεωμετρικό μετασχηματισμό για αυτό[`TransformBrush`](../transformbrush/) . |
-| [WrapMode](../../aspose.psd.brushes/transformbrush/wrapmode/) { get; set; } | Λαμβάνει ή ορίζει α[`WrapMode`](../../aspose.psd/wrapmode/) απαρίθμηση που υποδεικνύει τη λειτουργία αναδίπλωσης για αυτό[`TransformBrush`](../transformbrush/) . |
+| [Disposed](../../aspose.psd/disposableobject/disposed/) { get; } | Λαμβάνει μια τιμή που υποδεικνύει εάν αυτή η παρουσία έχει απελευθερωθεί. |
+| [Image](../../aspose.psd.brushes/texturebrush/image/) { get; } | Ανακτά το αντικείμενο [`Image`](../../aspose.psd/image/) που σχετίζεται με αυτό το αντικείμενο `TextureBrush`. |
+| [ImageAttributes](../../aspose.psd.brushes/texturebrush/imageattributes/) { get; } | Ανακτά τα [`ImageAttributes`](./imageattributes/) που σχετίζονται με αυτό το `TextureBrush`. |
+| [ImageRectangle](../../aspose.psd.brushes/texturebrush/imagerectangle/) { get; } | Ανακτά το [`Rectangle`](../../aspose.psd/rectangle/) που σχετίζεται με αυτό το `TextureBrush`. |
+| [IsTransformChanged](../../aspose.psd.brushes/transformbrush/istransformchanged/) { get; } | Λαμβάνει μια τιμή που υποδεικνύει εάν οι μετασχηματισμοί άλλαξαν με κάποιο τρόπο. Για παράδειγμα ορίζοντας τον πίνακα μετασχηματισμού ή καλώντας οποιαδήποτε από τις μεθόδους που τροποποιούν τον πίνακα μετασχηματισμού. Η ιδιότητα εισάγεται για συμβατότητα με παλαιότερες εκδόσεις του GDI+. |
+| [Opacity](../../aspose.psd/brush/opacity/) { get; set; } | Αποκτά ή ορίζει τη διαφάνεια του πινέλου. Η τιμή πρέπει να βρίσκεται μεταξύ 0 και 1. Τιμή 0 σημαίνει ότι το πινέλο είναι πλήρως ορατό, τιμή 1 σημαίνει ότι το πινέλο είναι πλήρως αδιαφανές. |
+| [Transform](../../aspose.psd.brushes/transformbrush/transform/) { get; set; } | Αποκτά ή ορίζει ένα αντίγραφο του [`Matrix`](../../aspose.psd/matrix/) που ορίζει ένα τοπικό γεωμετρικό μετασχηματισμό για αυτό το [`TransformBrush`](../transformbrush/). |
+| [WrapMode](../../aspose.psd.brushes/transformbrush/wrapmode/) { get; set; } | Αποκτά ή ορίζει μια απαρίθμηση [`WrapMode`](../../aspose.psd/wrapmode/) που υποδεικνύει τη λειτουργία περιτύλιξης για αυτό το [`TransformBrush`](../transformbrush/). |
 
 ## Μέθοδοι
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
-| virtual [DeepClone](../../aspose.psd/brush/deepclone/)() | Δημιουργεί έναν νέο βαθύ κλώνο του ρεύματος[`Brush`](../../aspose.psd/brush/) . |
-| [Dispose](../../aspose.psd/disposableobject/dispose/)() | Διαθέτει την τρέχουσα παρουσία. |
-| [MultiplyTransform](../../aspose.psd.brushes/transformbrush/multiplytransform/)(Matrix) | Πολλαπλασιάζει το[`Matrix`](../../aspose.psd/matrix/) που αντιπροσωπεύει τον τοπικό γεωμετρικό μετασχηματισμό αυτού[`LinearGradientBrush`](../lineargradientbrush/) από τα καθορισμένα[`Matrix`](../../aspose.psd/matrix/) με την προετοιμασία του καθορισμένου[`Matrix`](../../aspose.psd/matrix/) . |
-| [MultiplyTransform](../../aspose.psd.brushes/transformbrush/multiplytransform/)(Matrix, MatrixOrder) | Πολλαπλασιάζει το[`Matrix`](../../aspose.psd/matrix/) που αντιπροσωπεύει τον τοπικό γεωμετρικό μετασχηματισμό αυτού[`LinearGradientBrush`](../lineargradientbrush/) από τα καθορισμένα[`Matrix`](../../aspose.psd/matrix/) με την καθορισμένη σειρά. |
-| [ResetTransform](../../aspose.psd.brushes/transformbrush/resettransform/)() | Επαναφέρει το[`Transform`](../transformbrush/transform/) ιδιοκτησία στην ταυτότητα. |
-| [RotateTransform](../../aspose.psd.brushes/transformbrush/rotatetransform/)(float) | Περιστρέφει τον τοπικό γεωμετρικό μετασχηματισμό κατά το καθορισμένο ποσό. Αυτή η μέθοδος προϋποθέτει την περιστροφή στον μετασχηματισμό. |
-| [RotateTransform](../../aspose.psd.brushes/transformbrush/rotatetransform/)(float, MatrixOrder) | Περιστρέφει τον τοπικό γεωμετρικό μετασχηματισμό κατά το καθορισμένο ποσό με την καθορισμένη σειρά. |
-| [ScaleTransform](../../aspose.psd.brushes/transformbrush/scaletransform/)(float, float) | Κλιμακώνει τον τοπικό γεωμετρικό μετασχηματισμό κατά τα καθορισμένα ποσά. Αυτή η μέθοδος προσαρτά τον πίνακα κλιμάκωσης στον μετασχηματισμό. |
-| [ScaleTransform](../../aspose.psd.brushes/transformbrush/scaletransform/)(float, float, MatrixOrder) | Κλιμακώνει τον τοπικό γεωμετρικό μετασχηματισμό κατά τα καθορισμένα ποσά με την καθορισμένη σειρά. |
-| [TranslateTransform](../../aspose.psd.brushes/transformbrush/translatetransform/)(float, float) | Μεταφράζει τον τοπικό γεωμετρικό μετασχηματισμό με τις καθορισμένες διαστάσεις. Αυτή η μέθοδος προϋποθέτει τη μετάφραση στον μετασχηματισμό. |
-| [TranslateTransform](../../aspose.psd.brushes/transformbrush/translatetransform/)(float, float, MatrixOrder) | Μεταφράζει τον τοπικό γεωμετρικό μετασχηματισμό με τις καθορισμένες διαστάσεις με την καθορισμένη σειρά. |
+| virtual [DeepClone](../../aspose.psd/brush/deepclone/)() | Δημιουργεί ένα νέο βαθύ κλώνο του τρέχοντος [`Brush`](../../aspose.psd/brush/). |
+| [Dispose](../../aspose.psd/disposableobject/dispose/)() | Αποδεσμεύει την τρέχουσα παρουσία. |
+| [MultiplyTransform](../../aspose.psd.brushes/transformbrush/multiplytransform/)(Matrix) | Πολλαπλασιάζει το [`Matrix`](../../aspose.psd/matrix/) που αντιπροσωπεύει τον τοπικό γεωμετρικό μετασχηματισμό αυτού του [`LinearGradientBrush`](../lineargradientbrush/) με το καθορισμένο [`Matrix`](../../aspose.psd/matrix/) προσθέτοντας το καθορισμένο [`Matrix`](../../aspose.psd/matrix/) στην αρχή. |
+| [MultiplyTransform](../../aspose.psd.brushes/transformbrush/multiplytransform/)(Matrix, MatrixOrder) | Πολλαπλασιάζει το [`Matrix`](../../aspose.psd/matrix/) που αντιπροσωπεύει τον τοπικό γεωμετρικό μετασχηματισμό αυτού του [`LinearGradientBrush`](../lineargradientbrush/) με το καθορισμένο [`Matrix`](../../aspose.psd/matrix/) με τη συγκεκριμένη σειρά. |
+| [ResetTransform](../../aspose.psd.brushes/transformbrush/resettransform/)() | Επαναφέρει την ιδιότητα [`Transform`](../transformbrush/transform/) στην ταυτότητα. |
+| [RotateTransform](../../aspose.psd.brushes/transformbrush/rotatetransform/)(float) | Περιστρέφει τον τοπικό γεωμετρικό μετασχηματισμό κατά το καθορισμένο ποσό. Αυτή η μέθοδος προσθέτει την περιστροφή στον μετασχηματισμό στην αρχή. |
+| [RotateTransform](../../aspose.psd.brushes/transformbrush/rotatetransform/)(float, MatrixOrder) | Περιστρέφει τον τοπικό γεωμετρικό μετασχηματισμό κατά το καθορισμένο ποσό με τη συγκεκριμένη σειρά. |
+| [ScaleTransform](../../aspose.psd.brushes/transformbrush/scaletransform/)(float, float) | Κλιμακώνει τον τοπικό γεωμετρικό μετασχηματισμό κατά τα καθορισμένα μεγέθη. Αυτή η μέθοδος προσθέτει τον πίνακα κλιμάκωσης στον μετασχηματισμό στην αρχή. |
+| [ScaleTransform](../../aspose.psd.brushes/transformbrush/scaletransform/)(float, float, MatrixOrder) | Κλιμακώνει τον τοπικό γεωμετρικό μετασχηματισμό κατά τα καθορισμένα μεγέθη με τη συγκεκριμένη σειρά. |
+| [TranslateTransform](../../aspose.psd.brushes/transformbrush/translatetransform/)(float, float) | Μετατοπίζει τον τοπικό γεωμετρικό μετασχηματισμό κατά τις καθορισμένες διαστάσεις. Αυτή η μέθοδος προσθέτει τη μετάφραση στον μετασχηματισμό στην αρχή. |
+| [TranslateTransform](../../aspose.psd.brushes/transformbrush/translatetransform/)(float, float, MatrixOrder) | Μετατοπίζει τον τοπικό γεωμετρικό μετασχηματισμό κατά τις καθορισμένες διαστάσεις με τη συγκεκριμένη σειρά. |
 
 ### Δείτε επίσης
 
 * class [TransformBrush](../transformbrush/)
-* χώρος ονομάτων [Aspose.PSD.Brushes](../../aspose.psd.brushes/)
-* συνέλευση [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Brushes](../../aspose.psd.brushes/)
+* assembly [Aspose.PSD](../../)
 
 

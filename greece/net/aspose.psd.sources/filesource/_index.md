@@ -1,14 +1,15 @@
 ---
-title: Class FileSource
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Aspose.PSD.Sources.FileSource τάξη. Αντιπροσωπεύει μια πηγή αρχείου που είναι ικανή για χειρισμό αρχείων.
+title: "Κλάση FileSource"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Κλάση Aspose.PSD.Sources.FileSource. Αντιπροσωπεύει μια πηγή αρχείου που είναι ικανή για διαχείριση αρχείων."
 type: docs
-weight: 5610
+weight: 6110
 url: /el/net/aspose.psd.sources/filesource/
 ---
+{{< psd/tize >}}
 ## FileSource class
 
-Αντιπροσωπεύει μια πηγή αρχείου που είναι ικανή για χειρισμό αρχείων.
+Αναπαριστά πηγή αρχείου που είναι ικανή για χειρισμό αρχείων.
 
 ```csharp
 public abstract class FileSource : Source
@@ -16,20 +17,20 @@ public abstract class FileSource : Source
 
 ## Ιδιότητες
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
-| abstract [IsTemporal](../../aspose.psd.sources/filesource/istemporal/) { get; } | Λαμβάνει μια τιμή που υποδεικνύει εάν το αρχείο θα είναι προσωρινό. |
+| abstract [IsTemporal](../../aspose.psd.sources/filesource/istemporal/) { get; } | Λαμβάνει μια τιμή που υποδεικνύει αν το αρχείο θα είναι προσωρινό. |
 
 ## Μέθοδοι
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
 | abstract [GetStreamContainer](../../aspose.psd/source/getstreamcontainer/)() | Λαμβάνει το κοντέινερ ροής. |
 
 ### Δείτε επίσης
 
 * class [Source](../../aspose.psd/source/)
-* χώρος ονομάτων [Aspose.PSD.Sources](../../aspose.psd.sources/)
-* συνέλευση [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Sources](../../aspose.psd.sources/)
+* assembly [Aspose.PSD](../../)
 
 

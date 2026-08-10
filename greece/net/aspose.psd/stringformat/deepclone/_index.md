@@ -1,27 +1,28 @@
 ---
-title: StringFormat.DeepClone
-second_title: Aspose.PSD για Αναφορά API .NET
-description: StringFormat μέθοδος. Δημιουργεί έναν βαθύ κλώνο αυτούStringFormat αντικείμενο.
+title: "StringFormat.DeepClone"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Μέθοδος StringFormat. Δημιουργεί ένα βαθύ αντίγραφο αυτού του αντικειμένου StringFormat"
 type: docs
-weight: 130
+weight: 140
 url: /el/net/aspose.psd/stringformat/deepclone/
 ---
+{{< psd/tize >}}
 ## StringFormat.DeepClone method
 
-Δημιουργεί έναν βαθύ κλώνο αυτού[`StringFormat`](../) αντικείμενο.
+Δημιουργεί ένα βαθύ αντίγραφο αυτού του αντικειμένου [`StringFormat`](../).
 
 ```csharp
 public StringFormat DeepClone()
 ```
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-Ο βαθύς κλώνος του ρεύματος[`StringFormat`](../) .
+Το βαθύ αντίγραφο του τρέχοντος [`StringFormat`](../).
 
 ### Δείτε επίσης
 
 * class [StringFormat](../)
-* χώρος ονομάτων [Aspose.PSD](../../stringformat/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

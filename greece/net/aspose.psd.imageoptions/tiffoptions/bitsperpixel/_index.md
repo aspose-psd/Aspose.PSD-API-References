@@ -1,27 +1,28 @@
 ---
-title: TiffOptions.BitsPerPixel
-second_title: Aspose.PSD για Αναφορά API .NET
-description: TiffOptions ιδιοκτησία. Λαμβάνει τα bit ανά pixel.
+title: "TiffOptions.BitsPerPixel"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα TiffOptions. Λαμβάνει τα bits ανά pixel"
 type: docs
 weight: 40
 url: /el/net/aspose.psd.imageoptions/tiffoptions/bitsperpixel/
 ---
+{{< psd/tize >}}
 ## TiffOptions.BitsPerPixel property
 
-Λαμβάνει τα bit ανά pixel.
+Λαμβάνει τα bits ανά pixel.
 
 ```csharp
 public int BitsPerPixel { get; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Τα bit ανά pixel.
+Τα bits ανά pixel.
 
 ### Δείτε επίσης
 
 * class [TiffOptions](../)
-* χώρος ονομάτων [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

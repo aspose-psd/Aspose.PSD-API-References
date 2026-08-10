@@ -1,14 +1,15 @@
 ---
-title: Class XmpRdfRoot
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Aspose.PSD.Xmp.XmpRdfRoot τάξη. Αντιπροσωπεύει το στοιχείο rdfRDF. Ένα μεμονωμένο πακέτο XMP θα σειριοποιηθεί χρησιμοποιώντας ένα μόνο στοιχείο rdfRDF XML. Το περιεχόμενο του στοιχείου rdfRDF θα αποτελείται μόνο από μηδέν ή περισσότερα στοιχεία rdfDescription.
+title: "Κλάση XmpRdfRoot"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Κλάση Aspose.PSD.Xmp.XmpRdfRoot. Αντιπροσωπεύει το στοιχείο rdfRDF. Ένα μοναδικό πακέτο XMP πρέπει να σειριοποιείται χρησιμοποιώντας ένα μοναδικό στοιχείο XML rdfRDF. Το περιεχόμενο του στοιχείου rdfRDF πρέπει να αποτελείται μόνο από μηδέν ή περισσότερα στοιχεία rdfDescription"
 type: docs
-weight: 6300
+weight: 6800
 url: /el/net/aspose.psd.xmp/xmprdfroot/
 ---
+{{< psd/tize >}}
 ## XmpRdfRoot class
 
-Αντιπροσωπεύει το στοιχείο rdf:RDF. Ένα μεμονωμένο πακέτο XMP θα σειριοποιηθεί χρησιμοποιώντας ένα μόνο στοιχείο rdf:RDF XML. Το περιεχόμενο του στοιχείου rdf:RDF θα αποτελείται μόνο από μηδέν ή περισσότερα στοιχεία rdf:Description.
+Αναπαριστά το στοιχείο rdf:RDF. Ένα μοναδικό πακέτο XMP πρέπει να σειριοποιείται χρησιμοποιώντας ένα μοναδικό στοιχείο XML rdf:RDF. Το περιεχόμενο του στοιχείου rdf:RDF πρέπει να αποτελείται μόνο από μηδέν ή περισσότερα στοιχεία rdf:Description.
 
 ```csharp
 public sealed class XmpRdfRoot : XmpElementBase, IXmlValue
@@ -16,29 +17,29 @@ public sealed class XmpRdfRoot : XmpElementBase, IXmlValue
 
 ## Κατασκευαστές
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
 | [XmpRdfRoot](xmprdfroot/)() | Ο προεπιλεγμένος κατασκευαστής. |
 
 ## Μέθοδοι
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
 | virtual [AddAttribute](../../aspose.psd.xmp/xmpelementbase/addattribute/)(string, string) | Προσθέτει το χαρακτηριστικό. |
-| virtual [ClearAttributes](../../aspose.psd.xmp/xmpelementbase/clearattributes/)() | Καταργεί όλα τα χαρακτηριστικά. |
-| override [Equals](../../aspose.psd.xmp/xmpelementbase/equals/)(object) | Καθορίζει εάν το καθορισμένοObject , ισούται με αυτήν την περίπτωση. |
-| [Equals](../../aspose.psd.xmp/xmpelementbase/equals/)(XmpElementBase) | Υποδεικνύει εάν το τρέχον αντικείμενο είναι ίσο με άλλο αντικείμενο του ίδιου τύπου. |
-| virtual [GetAttribute](../../aspose.psd.xmp/xmpelementbase/getattribute/)(string) | Παίρνει το χαρακτηριστικό. |
-| override [GetHashCode](../../aspose.psd.xmp/xmpelementbase/gethashcode/)() | Επιστρέφει έναν κωδικό κατακερματισμού για αυτήν την εμφάνιση. |
-| [GetNamespaceUri](../../aspose.psd.xmp/xmprdfroot/getnamespaceuri/)(string) | Λαμβάνει URI χώρου ονομάτων με συγκεκριμένο πρόθεμα. Το πρόθεμα μπορεί να ξεκινά χωρίς xmlns. |
+| virtual [ClearAttributes](../../aspose.psd.xmp/xmpelementbase/clearattributes/)() | Αφαιρεί όλα τα χαρακτηριστικά. |
+| override [Equals](../../aspose.psd.xmp/xmpelementbase/equals/)(object) | Καθορίζει εάν το καθορισμένο Object είναι ίσο με αυτήν την παρουσία. |
+| [Equals](../../aspose.psd.xmp/xmpelementbase/equals/)(XmpElementBase) | Δείχνει εάν το τρέχον αντικείμενο είναι ίσο με άλλο αντικείμενο του ίδιου τύπου. |
+| virtual [GetAttribute](../../aspose.psd.xmp/xmpelementbase/getattribute/)(string) | Λαμβάνει το χαρακτηριστικό. |
+| override [GetHashCode](../../aspose.psd.xmp/xmpelementbase/gethashcode/)() | Επιστρέφει έναν κωδικό hash για αυτήν την παρουσία. |
+| [GetNamespaceUri](../../aspose.psd.xmp/xmprdfroot/getnamespaceuri/)(string) | Λαμβάνει το URI του χώρου ονομάτων με συγκεκριμένο πρόθεμα. Το πρόθεμα μπορεί να αρχίζει χωρίς xmlns. |
 | [GetXmlValue](../../aspose.psd.xmp/xmprdfroot/getxmlvalue/)() | Μετατρέπει την τιμή xmp στην αναπαράσταση xml. |
-| [RegisterNamespaceUri](../../aspose.psd.xmp/xmprdfroot/registernamespaceuri/)(string, string) | Προσθέτει τον χώρο ονομάτων uri κατά πρόθεμα. Το πρόθεμα μπορεί να ξεκινά χωρίς xmlns. |
+| [RegisterNamespaceUri](../../aspose.psd.xmp/xmprdfroot/registernamespaceuri/)(string, string) | Προσθέτει το URI του χώρου ονομάτων με πρόθεμα. Το πρόθεμα μπορεί να αρχίζει χωρίς xmlns. |
 
 ### Δείτε επίσης
 
 * class [XmpElementBase](../xmpelementbase/)
 * interface [IXmlValue](../ixmlvalue/)
-* χώρος ονομάτων [Aspose.PSD.Xmp](../../aspose.psd.xmp/)
-* συνέλευση [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Xmp](../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../)
 
 

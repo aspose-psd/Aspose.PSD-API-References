@@ -1,14 +1,15 @@
 ---
-title: XmpMediaManagementPackage.SetInstanceId
-second_title: Aspose.PSD για Αναφορά API .NET
-description: XmpMediaManagementPackage μέθοδος. Ορίζει το αναγνωριστικό παρουσίας.
+title: "XmpMediaManagementPackage.SetInstanceId"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "XmpMediaManagementPackage μέθοδος. Ορίζει το αναγνωριστικό της παρουσίας"
 type: docs
 weight: 50
 url: /el/net/aspose.psd.xmp.schemas.xmpmm/xmpmediamanagementpackage/setinstanceid/
 ---
+{{< psd/tize >}}
 ## SetInstanceId(Guid) {#setinstanceid}
 
-Ορίζει το αναγνωριστικό παρουσίας.
+Ορίζει το instance id.
 
 ```csharp
 public void SetInstanceId(Guid guid)
@@ -21,14 +22,14 @@ public void SetInstanceId(Guid guid)
 ### Δείτε επίσης
 
 * class [XmpMediaManagementPackage](../)
-* χώρος ονομάτων [Aspose.PSD.Xmp.Schemas.XmpMm](../../xmpmediamanagementpackage/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpMm](../../../aspose.psd.xmp.schemas.xmpmm/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## SetInstanceId(string) {#setinstanceid_1}
 
-Ορίζει το αναγνωριστικό παρουσίας.
+Ορίζει το instance id.
 
 ```csharp
 public void SetInstanceId(string guid)
@@ -41,7 +42,7 @@ public void SetInstanceId(string guid)
 ### Δείτε επίσης
 
 * class [XmpMediaManagementPackage](../)
-* χώρος ονομάτων [Aspose.PSD.Xmp.Schemas.XmpMm](../../xmpmediamanagementpackage/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpMm](../../../aspose.psd.xmp.schemas.xmpmm/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: IndexOutOFRangeException.IndexOutOFRangeException
-second_title: Aspose.PSD για Αναφορά API .NET
-description: IndexOutOFRangeException κατασκευαστής. Αρχικοποιεί μια νέα παρουσία τουCompressorException τάξη.
+title: "IndexOutOFRangeException.IndexOutOFRangeException"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Κατασκευαστής IndexOutOFRangeException. Δημιουργεί ένα νέο στιγμιότυπο της κλάσης CompressorException"
 type: docs
 weight: 10
 url: /el/net/aspose.psd.coreexceptions/indexoutofrangeexception/indexoutofrangeexception/
 ---
+{{< psd/tize >}}
 ## IndexOutOFRangeException(string) {#constructor}
 
-Αρχικοποιεί μια νέα παρουσία του[`CompressorException`](../../compressorexception/) τάξη.
+Δημιουργεί ένα νέο στιγμιότυπο της κλάσης [`CompressorException`](../../compressorexception/).
 
 ```csharp
 public IndexOutOFRangeException(string message)
@@ -16,19 +17,19 @@ public IndexOutOFRangeException(string message)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| message | String | Το μήνυμα εξαίρεσης. |
+| message | String | Το μήνυμα της εξαίρεσης. |
 
 ### Δείτε επίσης
 
 * class [IndexOutOFRangeException](../)
-* χώρος ονομάτων [Aspose.PSD.CoreExceptions](../../indexoutofrangeexception/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.CoreExceptions](../../../aspose.psd.coreexceptions/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## IndexOutOFRangeException(string, Exception) {#constructor_1}
 
-Αρχικοποιεί μια νέα παρουσία του[`CompressorException`](../../compressorexception/) τάξη.
+Δημιουργεί ένα νέο στιγμιότυπο της κλάσης [`CompressorException`](../../compressorexception/).
 
 ```csharp
 public IndexOutOFRangeException(string message, Exception innerException)
@@ -36,13 +37,13 @@ public IndexOutOFRangeException(string message, Exception innerException)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| message | String | Το μήνυμα εξαίρεσης. |
+| message | String | Το μήνυμα της εξαίρεσης. |
 | innerException | Exception | Η εσωτερική εξαίρεση. |
 
 ### Δείτε επίσης
 
 * class [IndexOutOFRangeException](../)
-* χώρος ονομάτων [Aspose.PSD.CoreExceptions](../../indexoutofrangeexception/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.CoreExceptions](../../../aspose.psd.coreexceptions/)
+* assembly [Aspose.PSD](../../../)
 
 

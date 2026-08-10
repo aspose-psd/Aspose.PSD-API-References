@@ -1,14 +1,15 @@
 ---
-title: TiffOptions.IsTagPresent
-second_title: Aspose.PSD για Αναφορά API .NET
-description: TiffOptions μέθοδος. Καθορίζει εάν υπάρχει ετικέτα στις επιλογές ή όχι.
+title: "TiffOptions.IsTagPresent"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Μέθοδος TiffOptions. Καθορίζει εάν η ετικέτα υπάρχει στις επιλογές ή όχι."
 type: docs
-weight: 730
+weight: 740
 url: /el/net/aspose.psd.imageoptions/tiffoptions/istagpresent/
 ---
+{{< psd/tize >}}
 ## TiffOptions.IsTagPresent method
 
-Καθορίζει εάν υπάρχει ετικέτα στις επιλογές ή όχι.
+Καθορίζει αν η ετικέτα υπάρχει στις επιλογές ή όχι.
 
 ```csharp
 public bool IsTagPresent(TiffTags tag)
@@ -16,17 +17,17 @@ public bool IsTagPresent(TiffTags tag)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| tag | TiffTags | Το αναγνωριστικό ετικέτας για έλεγχο. |
+| ετικέτα | TiffTags | Το αναγνωριστικό ετικέτας για έλεγχο. |
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-`αληθής` εάν υπάρχει ετικέτα. σε διαφορετική περίπτωση,`ψευδής` .
+`true` εάν η ετικέτα υπάρχει· διαφορετικά, `false`.
 
 ### Δείτε επίσης
 
 * enum [TiffTags](../../../aspose.psd.fileformats.tiff.enums/tifftags/)
 * class [TiffOptions](../)
-* χώρος ονομάτων [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

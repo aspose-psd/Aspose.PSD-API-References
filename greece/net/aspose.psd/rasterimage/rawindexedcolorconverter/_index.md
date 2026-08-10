@@ -1,28 +1,29 @@
 ---
-title: RasterImage.RawIndexedColorConverter
-second_title: Aspose.PSD για Αναφορά API .NET
-description: RasterImage ιδιοκτησία. Λαμβάνει ή ορίζει τον μετατροπέα χρώματος με ευρετήριο
+title: "RasterImage.RawIndexedColorConverter"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα RasterImage. Λαμβάνει ή ορίζει τον μετατροπέα χρωμάτων με ευρετήριο."
 type: docs
 weight: 110
 url: /el/net/aspose.psd/rasterimage/rawindexedcolorconverter/
 ---
+{{< psd/tize >}}
 ## RasterImage.RawIndexedColorConverter property
 
-Λαμβάνει ή ορίζει τον μετατροπέα χρώματος με ευρετήριο
+Ανακτά ή ορίζει τον μετατροπέα χρωμάτων με δείκτη
 
 ```csharp
 public IIndexedColorConverter RawIndexedColorConverter { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Ο μετατροπέας χρώματος με ευρετήριο
+Ο μετατροπέας χρωμάτων με ευρετήριο
 
 ### Δείτε επίσης
 
 * interface [IIndexedColorConverter](../../iindexedcolorconverter/)
 * class [RasterImage](../)
-* χώρος ονομάτων [Aspose.PSD](../../rasterimage/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

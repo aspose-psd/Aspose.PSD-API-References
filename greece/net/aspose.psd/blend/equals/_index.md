@@ -1,14 +1,15 @@
 ---
-title: Blend.Equals
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Blend μέθοδος. Ελέγχει εάν το καθορισμένο αντικείμενο είναι αBlend κατηγορίας και ισοδυναμεί με αυτήνBlend τάξη.
+title: "Blend.Equals"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Μέθοδος Blend. Ελέγχει εάν το καθορισμένο αντικείμενο είναι κλάση Blend και είναι ισοδύναμο με αυτήν την κλάση Blend."
 type: docs
 weight: 40
 url: /el/net/aspose.psd/blend/equals/
 ---
+{{< psd/tize >}}
 ## Blend.Equals method
 
-Ελέγχει εάν το καθορισμένο αντικείμενο είναι α[`Blend`](../) κατηγορίας και ισοδυναμεί με αυτήν[`Blend`](../) τάξη.
+Ελέγχει εάν το καθορισμένο αντικείμενο είναι κλάση [`Blend`](../) και είναι ισοδύναμο με αυτήν την κλάση [`Blend`](../).
 
 ```csharp
 public override bool Equals(object obj)
@@ -16,16 +17,16 @@ public override bool Equals(object obj)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| obj | Object | Το αντικείμενο προς δοκιμή. |
+| obj | Object | Το αντικείμενο προς έλεγχο. |
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-Αλήθεια αν*obj* είναι ένα[`Blend`](../) τάξη ισοδύναμη με αυτήν[`Blend`](../) τάξη; διαφορετικά, ψευδής.
+Αληθές εάν το *obj* είναι κλάση [`Blend`](../) ισοδύναμη με αυτήν την κλάση [`Blend`](../); διαφορετικά, ψευδές.
 
 ### Δείτε επίσης
 
 * class [Blend](../)
-* χώρος ονομάτων [Aspose.PSD](../../blend/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

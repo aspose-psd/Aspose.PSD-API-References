@@ -1,24 +1,25 @@
 ---
-title: Enum ExifExposureProgram
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Aspose.PSD.Exif.Enums.ExifExposureProgram αρίθμηση. enum πρόγραμμα έκθεσης exif.
+title: "Απαρίθμηση ExifExposureProgram"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Aspose.PSD.Exif.Enums.ExifExposureProgram enum. πρόγραμμα έκθεσης exif enum"
 type: docs
-weight: 840
+weight: 850
 url: /el/net/aspose.psd.exif.enums/exifexposureprogram/
 ---
+{{< psd/tize >}}
 ## ExifExposureProgram enumeration
 
-enum πρόγραμμα έκθεσης exif.
+exif πρόγραμμα έκθεσης enum.
 
 ```csharp
 public enum ExifExposureProgram
 ```
 
-### Αξίες
+### Τιμές
 
-| Ονομα | αξία | Περιγραφή |
+| Όνομα | Τιμή | Περιγραφή |
 | --- | --- | --- |
-| Notdefined | `0` | Δεν έχει οριστεί. |
+| Notdefined | `0` | Δεν ορίζεται. |
 | Manual | `1` | Χειροκίνητο πρόγραμμα. |
 | Auto | `2` | Αυτόματη έκθεση. |
 | Aperturepriority | `3` | Προτεραιότητα διαφράγματος. |
@@ -30,7 +31,7 @@ public enum ExifExposureProgram
 
 ### Δείτε επίσης
 
-* χώρος ονομάτων [Aspose.PSD.Exif.Enums](../../aspose.psd.exif.enums/)
-* συνέλευση [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Exif.Enums](../../aspose.psd.exif.enums/)
+* assembly [Aspose.PSD](../../)
 
 

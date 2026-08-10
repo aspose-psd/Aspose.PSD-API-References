@@ -1,11 +1,12 @@
 ---
-title: XmpPackage.SetXmpTypeValue
-second_title: Aspose.PSD για Αναφορά API .NET
-description: XmpPackage μέθοδος. Ορίζει την τιμή τύπου XMP.
+title: "XmpPackage.SetXmpTypeValue"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Μέθοδος XmpPackage. Ορίζει την τιμή τύπου XMP"
 type: docs
 weight: 130
 url: /el/net/aspose.psd.xmp/xmppackage/setxmptypevalue/
 ---
+{{< psd/tize >}}
 ## XmpPackage.SetXmpTypeValue method
 
 Ορίζει την τιμή τύπου XMP.
@@ -16,14 +17,14 @@ public virtual void SetXmpTypeValue(string key, XmpTypeBase value)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| key | String | Η αναπαράσταση συμβολοσειράς του κλειδιού που προσδιορίζεται με την τιμή συνόλου. |
-| value | XmpTypeBase | Η τιμή στην οποία πρέπει να οριστεί. |
+| κλειδί | String | Η συμβολοσειρά που αντιπροσωπεύει το κλειδί που προσδιορίζεται με την ορισμένη τιμή. |
+| τιμή | XmpTypeBase | Η τιμή προς ορισμό. |
 
 ### Δείτε επίσης
 
 * class [XmpTypeBase](../../../aspose.psd.xmp.types/xmptypebase/)
 * class [XmpPackage](../)
-* χώρος ονομάτων [Aspose.PSD.Xmp](../../xmppackage/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

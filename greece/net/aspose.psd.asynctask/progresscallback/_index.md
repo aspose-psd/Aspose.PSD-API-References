@@ -1,14 +1,15 @@
 ---
-title: Delegate ProgressCallback
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Λειτουργία επανάκλησης για λήψη συμβάντος αλλαγής προόδου εργασίας.
+title: "Αντιπρόσωπος ProgressCallback"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Συνάρτηση κλήσης επιστροφής για λήψη του γεγονότος αλλαγής προόδου της εργασίας"
 type: docs
 weight: 100
 url: /el/net/aspose.psd.asynctask/progresscallback/
 ---
+{{< psd/tize >}}
 ## ProgressCallback delegate
 
-Λειτουργία επανάκλησης για λήψη συμβάντος αλλαγής προόδου εργασίας.
+Συνάρτηση επανάκλησης για λήψη του γεγονότος αλλαγής προόδου εργασίας.
 
 ```csharp
 public delegate void ProgressCallback(int progressPercentage);
@@ -20,7 +21,7 @@ public delegate void ProgressCallback(int progressPercentage);
 
 ### Δείτε επίσης
 
-* χώρος ονομάτων [Aspose.PSD.AsyncTask](../../aspose.psd.asynctask/)
-* συνέλευση [Aspose.PSD](../../)
+* namespace [Aspose.PSD.AsyncTask](../../aspose.psd.asynctask/)
+* assembly [Aspose.PSD](../../)
 
 

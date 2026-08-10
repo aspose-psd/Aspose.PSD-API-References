@@ -1,14 +1,15 @@
 ---
-title: Class CustomLineCap
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Aspose.PSD.CustomLineCap τάξη. Ενσωματώνει ένα προσαρμοσμένο όριο γραμμής που ορίζεται από το χρήστη.
+title: "Κλάση CustomLineCap"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Κλάση Aspose.PSD.CustomLineCap. Περιλαμβάνει μια προσαρμοσμένη, ορισμένη από το χρήστη, άκρη γραμμής."
 type: docs
-weight: 700
+weight: 710
 url: /el/net/aspose.psd/customlinecap/
 ---
+{{< psd/tize >}}
 ## CustomLineCap class
 
-Ενσωματώνει ένα προσαρμοσμένο όριο γραμμής που ορίζεται από το χρήστη.
+Περιέχει ένα προσαρμοσμένο άκρο γραμμής ορισμένο από το χρήστη.
 
 ```csharp
 public class CustomLineCap
@@ -16,33 +17,33 @@ public class CustomLineCap
 
 ## Κατασκευαστές
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
-| [CustomLineCap](customlinecap/#constructor)(GraphicsPath, GraphicsPath) | Αρχικοποιεί μια νέα παρουσία του`CustomLineCap` τάξη με το καθορισμένο περίγραμμα και συμπλήρωση. |
-| [CustomLineCap](customlinecap/#constructor_1)(GraphicsPath, GraphicsPath, LineCap) | Αρχικοποιεί μια νέα παρουσία του`CustomLineCap` κλάση από την καθορισμένη υπάρχουσα[`LineCap`](../linecap/) απαρίθμηση με το καθορισμένο περίγραμμα και συμπλήρωση. |
-| [CustomLineCap](customlinecap/#constructor_2)(GraphicsPath, GraphicsPath, LineCap, float) | Αρχικοποιεί μια νέα παρουσία του`CustomLineCap` κλάση από την καθορισμένη υπάρχουσα[`LineCap`](../linecap/)απαρίθμηση με το καθορισμένο περίγραμμα, συμπλήρωση και εισαγωγή. |
+| [CustomLineCap](customlinecap/#constructor)(GraphicsPath, GraphicsPath) | Αρχικοποιεί ένα νέο στιγμιότυπο της κλάσης `CustomLineCap` με το καθορισμένο περίγραμμα και γέμισμα. |
+| [CustomLineCap](customlinecap/#constructor_1)(GraphicsPath, GraphicsPath, LineCap) | Αρχικοποιεί ένα νέο στιγμιότυπο της κλάσης `CustomLineCap` από την καθορισμένη υπάρχουσα απαρίθμηση [`LineCap`](../linecap/) με το καθορισμένο περίγραμμα και γέμισμα. |
+| [CustomLineCap](customlinecap/#constructor_2)(GraphicsPath, GraphicsPath, LineCap, float) | Αρχικοποιεί ένα νέο στιγμιότυπο της κλάσης `CustomLineCap` από την καθορισμένη υπάρχουσα απαρίθμηση [`LineCap`](../linecap/) με το καθορισμένο περίγραμμα, γέμισμα και εσωτερική απόσταση. |
 
 ## Ιδιότητες
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
-| [BaseCap](../../aspose.psd/customlinecap/basecap/) { get; set; } | Λαμβάνει ή ορίζει το[`LineCap`](../linecap/) απαρίθμηση επί της οποίας αυτό`CustomLineCap` βασίζεται. |
-| [BaseInset](../../aspose.psd/customlinecap/baseinset/) { get; set; } | Λαμβάνει ή ορίζει την απόσταση μεταξύ του καπακιού και της γραμμής. |
-| [FillPath](../../aspose.psd/customlinecap/fillpath/) { get; set; } | Λαμβάνει ή ορίζει το αντικείμενο που ορίζει το γέμισμα για το προσαρμοσμένο όριο. |
-| [StrokeJoin](../../aspose.psd/customlinecap/strokejoin/) { get; set; } | Λαμβάνει ή ορίζει το[`LineJoin`](../linejoin/) απαρίθμηση που καθορίζει τον τρόπο με τον οποίο το συνθέτουν οι γραμμές`CustomLineCap`αντικείμενο ενώνονται. |
-| [StrokePath](../../aspose.psd/customlinecap/strokepath/) { get; set; } | Λαμβάνει ή ορίζει το αντικείμενο που ορίζει το περίγραμμα του προσαρμοσμένου κεφαλιού. |
-| [WidthScale](../../aspose.psd/customlinecap/widthscale/) { get; set; } | Λαμβάνει ή ορίζει το ποσό κατά το οποίο θα κλιμακωθεί αυτό`CustomLineCap` Αντικείμενο κλάσης σε σχέση με το πλάτος τουPen αντικείμενο. |
+| [BaseCap](../../aspose.psd/customlinecap/basecap/) { get; set; } | Ανακτά ή ορίζει την απαρίθμηση [`LineCap`](../linecap/) πάνω στην οποία βασίζεται αυτό το `CustomLineCap`. |
+| [BaseInset](../../aspose.psd/customlinecap/baseinset/) { get; set; } | Ανακτά ή ορίζει την απόσταση μεταξύ της άκρης και της γραμμής. |
+| [FillPath](../../aspose.psd/customlinecap/fillpath/) { get; set; } | Ανακτά ή ορίζει το αντικείμενο που ορίζει το γέμισμα για την προσαρμοσμένη άκρη. |
+| [StrokeJoin](../../aspose.psd/customlinecap/strokejoin/) { get; set; } | Ανακτά ή ορίζει την απαρίθμηση [`LineJoin`](../linejoin/) που καθορίζει πώς ενώνονται οι γραμμές που συνθέτουν αυτό το αντικείμενο `CustomLineCap`. |
+| [StrokePath](../../aspose.psd/customlinecap/strokepath/) { get; set; } | Ανακτά ή ορίζει το αντικείμενο που ορίζει το περίγραμμα της προσαρμοσμένης άκρης. |
+| [WidthScale](../../aspose.psd/customlinecap/widthscale/) { get; set; } | Ανακτά ή ορίζει το ποσό κατά το οποίο θα κλιμακωθεί αυτό το αντικείμενο κλάσης `CustomLineCap` σε σχέση με το πλάτος του αντικειμένου Pen. |
 
 ## Μέθοδοι
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
-| [GetStrokeCaps](../../aspose.psd/customlinecap/getstrokecaps/)(out LineCap, out LineCap) | Χρησιμοποιεί τα κεφαλαία για τις γραμμές έναρξης και λήξης που συνθέτουν αυτό το προσαρμοσμένο όριο. |
-| [SetStrokeCaps](../../aspose.psd/customlinecap/setstrokecaps/)(LineCap, LineCap) | Ορίζει τα κεφαλαία που χρησιμοποιούνται για τις γραμμές έναρξης και λήξης που συνθέτουν αυτό το προσαρμοσμένο όριο. |
+| [GetStrokeCaps](../../aspose.psd/customlinecap/getstrokecaps/)(out LineCap, out LineCap) | Ανακτά τις άκρες που χρησιμοποιούνται για την έναρξη και το τέλος των γραμμών που αποτελούν αυτήν την προσαρμοσμένη άκρη. |
+| [SetStrokeCaps](../../aspose.psd/customlinecap/setstrokecaps/)(LineCap, LineCap) | Ορίζει τις άκρες που χρησιμοποιούνται για την έναρξη και το τέλος των γραμμών που αποτελούν αυτήν την προσαρμοσμένη άκρη. |
 
 ### Δείτε επίσης
 
-* χώρος ονομάτων [Aspose.PSD](../../aspose.psd/)
-* συνέλευση [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: Font.ChildFontFiles
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Font ιδιοκτησία. Λαμβάνει ή ορίζει τη σειρά ονομάτων αρχείων για τις γραμματοσειρές που συνθέτουν μια σύνθετη γραμματοσειρά.
+title: "Font.ChildFontFiles"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα Font. Λαμβάνει ή ορίζει τον πίνακα των ονομάτων αρχείων για τις γραμματοσειρές που αποτελούν μια σύνθετη γραμματοσειρά"
 type: docs
 weight: 20
 url: /el/net/aspose.psd.xmp.types.complex.font/font/childfontfiles/
 ---
+{{< psd/tize >}}
 ## Font.ChildFontFiles property
 
-Λαμβάνει ή ορίζει τη σειρά ονομάτων αρχείων για τις γραμματοσειρές που συνθέτουν μια σύνθετη γραμματοσειρά.
+Λαμβάνει ή ορίζει τον πίνακα των ονομάτων αρχείων για τις γραμματοσειρές που αποτελούν μια σύνθετη γραμματοσειρά.
 
 ```csharp
 public string[] ChildFontFiles { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Η σειρά ονομάτων αρχείων για τις γραμματοσειρές που συνθέτουν μια σύνθετη γραμματοσειρά.
+Ο πίνακας των ονομάτων αρχείων για τις γραμματοσειρές που αποτελούν μια σύνθετη γραμματοσειρά.
 
 ### Δείτε επίσης
 
 * class [Font](../)
-* χώρος ονομάτων [Aspose.PSD.Xmp.Types.Complex.Font](../../font/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.Font](../../../aspose.psd.xmp.types.complex.font/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: Layer.ChannelInformation
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Layer ιδιοκτησία. Λαμβάνει ή ορίζει τις πληροφορίες του καναλιού.
+title: "Layer.ChannelInformation"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα Layer. Λαμβάνει ή ορίζει τις πληροφορίες του καναλιού"
 type: docs
-weight: 70
+weight: 80
 url: /el/net/aspose.psd.fileformats.psd.layers/layer/channelinformation/
 ---
+{{< psd/tize >}}
 ## Layer.ChannelInformation property
 
 Λαμβάνει ή ορίζει τις πληροφορίες του καναλιού.
@@ -14,7 +15,7 @@ url: /el/net/aspose.psd.fileformats.psd.layers/layer/channelinformation/
 public ChannelInformation[] ChannelInformation { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
 Οι πληροφορίες καναλιού.
 
@@ -22,7 +23,7 @@ public ChannelInformation[] ChannelInformation { get; set; }
 
 * class [ChannelInformation](../../channelinformation/)
 * class [Layer](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers](../../layer/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

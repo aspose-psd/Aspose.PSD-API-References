@@ -1,27 +1,28 @@
 ---
-title: RectangleF.Bottom
-second_title: Aspose.PSD για Αναφορά API .NET
-description: RectangleF ιδιοκτησία. Παίρνει ή ορίζει τη συντεταγμένη y που είναι το άθροισμα τουY καιHeight από αυτόRectangleFδομή.
+title: "RectangleF.Bottom"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "RectangleF ιδιότητα. Λαμβάνει ή ορίζει τη συντεταγμένη y που είναι το άθροισμα των Y και Height αυτής της δομής RectangleF."
 type: docs
 weight: 80
 url: /el/net/aspose.psd/rectanglef/bottom/
 ---
+{{< psd/tize >}}
 ## RectangleF.Bottom property
 
-Παίρνει ή ορίζει τη συντεταγμένη y που είναι το άθροισμα του[`Y`](../y/) και[`Height`](../height/) από αυτό[`RectangleF`](../)δομή.
+Λαμβάνει ή ορίζει τη συντεταγμένη y που είναι το άθροισμα των [`Y`](../y/) και [`Height`](../height/) αυτής της δομής [`RectangleF`](../).
 
 ```csharp
 public float Bottom { get; set; }
 ```
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-Η συντεταγμένη y που είναι το άθροισμα του[`Y`](../y/) και[`Height`](../height/) από αυτό[`RectangleF`](../) δομή.
+Η συντεταγμένη y που είναι το άθροισμα των [`Y`](../y/) και [`Height`](../height/) αυτής της δομής [`RectangleF`](../).
 
 ### Δείτε επίσης
 
 * struct [RectangleF](../)
-* χώρος ονομάτων [Aspose.PSD](../../rectanglef/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

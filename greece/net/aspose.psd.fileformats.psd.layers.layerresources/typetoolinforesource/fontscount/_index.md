@@ -1,11 +1,12 @@
 ---
-title: TypeToolInfoResource.FontsCount
-second_title: Aspose.PSD για Αναφορά API .NET
-description: TypeToolInfoResource ιδιοκτησία. Λαμβάνει τον αριθμό των γραμματοσειρών.
+title: "TypeToolInfoResource.FontsCount"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "TypeToolInfoResource property. Λαμβάνει τον αριθμό των γραμματοσειρών"
 type: docs
 weight: 70
 url: /el/net/aspose.psd.fileformats.psd.layers.layerresources/typetoolinforesource/fontscount/
 ---
+{{< psd/tize >}}
 ## TypeToolInfoResource.FontsCount property
 
 Λαμβάνει τον αριθμό των γραμματοσειρών.
@@ -17,7 +18,7 @@ public short FontsCount { get; }
 ### Δείτε επίσης
 
 * class [TypeToolInfoResource](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../typetoolinforesource/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

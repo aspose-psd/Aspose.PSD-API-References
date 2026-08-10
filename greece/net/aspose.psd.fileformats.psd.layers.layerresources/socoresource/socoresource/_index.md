@@ -1,14 +1,15 @@
 ---
-title: SoCoResource.SoCoResource
-second_title: Aspose.PSD για Αναφορά API .NET
-description: SoCoResource κατασκευαστής. Αρχικοποιεί μια νέα παρουσία τουSoCoResource τάξη.
+title: "SoCoResource.SoCoResource"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "SoCoResource κατασκευαστής. Αρχικοποιεί μια νέα παρουσία της κλάσης SoCoResource"
 type: docs
 weight: 10
 url: /el/net/aspose.psd.fileformats.psd.layers.layerresources/socoresource/socoresource/
 ---
+{{< psd/tize >}}
 ## SoCoResource constructor
 
-Αρχικοποιεί μια νέα παρουσία του[`SoCoResource`](../) τάξη.
+Αρχικοποιεί μια νέα παρουσία της κλάσης [`SoCoResource`](../).
 
 ```csharp
 public SoCoResource()
@@ -17,7 +18,7 @@ public SoCoResource()
 ### Δείτε επίσης
 
 * class [SoCoResource](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../socoresource/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

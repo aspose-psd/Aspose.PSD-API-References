@@ -1,28 +1,29 @@
 ---
-title: PsdImage.AddChannelMixerAdjustmentLayer
-second_title: Aspose.PSD για Αναφορά API .NET
-description: PsdImage μέθοδος. Προσθέτει το επίπεδο προσαρμογής μείκτη καναλιών με προεπιλεγμένες παραμέτρους
+title: "PsdImage.AddChannelMixerAdjustmentLayer"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Μέθοδος PsdImage. Προσθέτει τη στρώση ρύθμισης μίκτη καναλιών με προεπιλεγμένες παραμέτρους"
 type: docs
-weight: 310
+weight: 320
 url: /el/net/aspose.psd.fileformats.psd/psdimage/addchannelmixeradjustmentlayer/
 ---
+{{< psd/tize >}}
 ## PsdImage.AddChannelMixerAdjustmentLayer method
 
-Προσθέτει το επίπεδο προσαρμογής μείκτη καναλιών με προεπιλεγμένες παραμέτρους
+Προσθέτει το επίπεδο προσαρμογής μίκτη καναλιών με προεπιλεγμένες παραμέτρους
 
 ```csharp
 public ChannelMixerLayer AddChannelMixerAdjustmentLayer()
 ```
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-Προστέθηκε επίπεδο μίκτη καναλιών
+Προστέθηκε η στρώση μίκτη καναλιών
 
 ### Δείτε επίσης
 
 * class [ChannelMixerLayer](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/channelmixerlayer/)
 * class [PsdImage](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

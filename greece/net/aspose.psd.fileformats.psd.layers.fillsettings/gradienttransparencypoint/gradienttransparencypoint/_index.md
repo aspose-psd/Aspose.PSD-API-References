@@ -1,14 +1,15 @@
 ---
-title: GradientTransparencyPoint.GradientTransparencyPoint
-second_title: Aspose.PSD για Αναφορά API .NET
-description: GradientTransparencyPoint κατασκευαστής. Αρχικοποιεί μια νέα παρουσία τουGradientTransparencyPoint τάξη.
+title: "GradientTransparencyPoint.GradientTransparencyPoint"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "GradientTransparencyPoint κατασκευαστής. Αρχικοποιεί μια νέα παρουσία της κλάσης GradientTransparencyPoint"
 type: docs
 weight: 10
 url: /el/net/aspose.psd.fileformats.psd.layers.fillsettings/gradienttransparencypoint/gradienttransparencypoint/
 ---
+{{< psd/tize >}}
 ## GradientTransparencyPoint constructor
 
-Αρχικοποιεί μια νέα παρουσία του[`GradientTransparencyPoint`](../) τάξη.
+Αρχικοποιεί μια νέα παρουσία της κλάσης [`GradientTransparencyPoint`](../).
 
 ```csharp
 public GradientTransparencyPoint()
@@ -17,7 +18,7 @@ public GradientTransparencyPoint()
 ### Δείτε επίσης
 
 * class [GradientTransparencyPoint](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../gradienttransparencypoint/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../../)
 
 

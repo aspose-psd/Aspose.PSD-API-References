@@ -1,27 +1,28 @@
 ---
-title: AiRasterImageSection.Pixels
-second_title: Aspose.PSD για Αναφορά API .NET
-description: AiRasterImageSection ιδιοκτησία. Λαμβάνει τη σειρά των int έγχρωμων pixel.
+title: "AiRasterImageSection.Pixels"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα AiRasterImageSection. Λαμβάνει τον πίνακα των int χρωματικών εικονοστοιχείων"
 type: docs
 weight: 80
 url: /el/net/aspose.psd.fileformats.ai/airasterimagesection/pixels/
 ---
+{{< psd/tize >}}
 ## AiRasterImageSection.Pixels property
 
-Λαμβάνει τη σειρά των int έγχρωμων pixel.
+Λαμβάνει τον πίνακα των int χρωματικών εικονοστοιχείων.
 
 ```csharp
 public int[] Pixels { get; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Η συστοιχία των int έγχρωμων pixel.
+Ο πίνακας των int χρωματικών εικονοστοιχείων.
 
 ### Δείτε επίσης
 
 * class [AiRasterImageSection](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Ai](../../airasterimagesection/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

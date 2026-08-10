@@ -1,14 +1,15 @@
 ---
-title: StringFormatExtensions.ToGdiStringFormat
-second_title: Aspose.PSD για Αναφορά API .NET
-description: StringFormatExtensions μέθοδος. Μετατρέπει τοStringFormat στοStringFormat .
+title: "StringFormatExtensions.ToGdiStringFormat"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Μέθοδος StringFormatExtensions. Μετατρέπει το StringFormat σε StringFormat"
 type: docs
 weight: 10
 url: /el/net/aspose.psd.extensions/stringformatextensions/togdistringformat/
 ---
+{{< psd/tize >}}
 ## StringFormatExtensions.ToGdiStringFormat method
 
-Μετατρέπει το[`StringFormat`](../../../aspose.psd/stringformat/) στοStringFormat .
+Μετατρέπει το [`StringFormat`](../../../aspose.psd/stringformat/) σε StringFormat.
 
 ```csharp
 public static StringFormat ToGdiStringFormat(StringFormat stringFormat)
@@ -16,17 +17,17 @@ public static StringFormat ToGdiStringFormat(StringFormat stringFormat)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| stringFormat | StringFormat | ο[`StringFormat`](../../../aspose.psd/stringformat/) μετατρέπω. |
+| stringFormat | StringFormat | Το [`StringFormat`](../../../aspose.psd/stringformat/) για μετατροπή. |
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-Οι μετατρεπόμενοιStringFormat.
+Το μετατρεπόμενο StringFormat.
 
 ### Δείτε επίσης
 
 * class [StringFormat](../../../aspose.psd/stringformat/)
 * class [StringFormatExtensions](../)
-* χώρος ονομάτων [Aspose.PSD.Extensions](../../stringformatextensions/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Extensions](../../../aspose.psd.extensions/)
+* assembly [Aspose.PSD](../../../)
 
 

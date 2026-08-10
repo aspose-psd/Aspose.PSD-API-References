@@ -1,29 +1,30 @@
 ---
-title: Enum ExifWhiteBalance
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Aspose.PSD.Exif.Enums.ExifWhiteBalance αρίθμηση. exif αρίθμηση ισορροπίας λευκού.
+title: "Απαρίθμηση ExifWhiteBalance"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Aspose.PSD.Exif.Enums.ExifWhiteBalance enum. ισορροπία λευκού exif enum"
 type: docs
-weight: 970
+weight: 980
 url: /el/net/aspose.psd.exif.enums/exifwhitebalance/
 ---
+{{< psd/tize >}}
 ## ExifWhiteBalance enumeration
 
-exif αρίθμηση ισορροπίας λευκού.
+exif ισορροπία λευκού enum.
 
 ```csharp
 public enum ExifWhiteBalance
 ```
 
-### Αξίες
+### Τιμές
 
-| Ονομα | αξία | Περιγραφή |
+| Όνομα | Τιμή | Περιγραφή |
 | --- | --- | --- |
 | Auto | `0` | Αυτόματη ισορροπία λευκού |
 | Manual | `1` | Χειροκίνητη ισορροπία λευκού |
 
 ### Δείτε επίσης
 
-* χώρος ονομάτων [Aspose.PSD.Exif.Enums](../../aspose.psd.exif.enums/)
-* συνέλευση [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Exif.Enums](../../aspose.psd.exif.enums/)
+* assembly [Aspose.PSD](../../)
 
 

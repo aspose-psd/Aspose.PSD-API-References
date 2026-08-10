@@ -1,14 +1,15 @@
 ---
-title: Class LiFeDataSource
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.LiFeDataSource τάξη. Καθορίζει την κλάση LnkeDataSource που περιέχει πληροφορίες σχετικά με εξωτερικό συνδεδεμένο αρχείο. Αυτό είναι μέρος του PSD File Format Manipulation API που βοηθά στην τροποποίηση του Adobe Photoshop files
+title: "Κλάση LiFeDataSource"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Aspose.PSD.FileFormats.Psd.Layers.LayerResources.LiFeDataSource κλάση. Ορίζει την κλάση LnkeDataSource που περιέχει πληροφορίες για εξωτερικό συνδεδεμένο αρχείο. Αυτό αποτελεί μέρος του PSD File Format Manipulation API που βοηθά στην τροποποίηση αρχείων Adobe Photoshop"
 type: docs
-weight: 2680
+weight: 2980
 url: /el/net/aspose.psd.fileformats.psd.layers.layerresources/lifedatasource/
 ---
+{{< psd/tize >}}
 ## LiFeDataSource class
 
-Καθορίζει την κλάση LnkeDataSource που περιέχει πληροφορίες σχετικά με εξωτερικό συνδεδεμένο αρχείο. Αυτό είναι μέρος του PSD File Format Manipulation API που βοηθά στην τροποποίηση του Adobe® Photoshop® files
+Ορίζει την κλάση LnkeDataSource που περιέχει πληροφορίες σχετικά με εξωτερικό συνδεδεμένο αρχείο. Αυτό αποτελεί μέρος του API Διαχείρισης Μορφής Αρχείου PSD που βοηθά στην τροποποίηση αρχείων Adobe® Photoshop®.
 
 ```csharp
 public class LiFeDataSource : LinkDataSource
@@ -16,42 +17,42 @@ public class LiFeDataSource : LinkDataSource
 
 ## Κατασκευαστές
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
-| [LiFeDataSource](lifedatasource/#constructor)() | Αρχικοποιεί μια νέα παρουσία του`LiFeDataSource` τάξη. |
-| [LiFeDataSource](lifedatasource/#constructor_1)(int, Guid, string, string, string) | Αρχικοποιεί μια νέα παρουσία του`LiFeDataSource` τάξη. |
+| [LiFeDataSource](lifedatasource/#constructor)() | Αρχικοποιεί μια νέα παρουσία της κλάσης `LiFeDataSource`. |
+| [LiFeDataSource](lifedatasource/#constructor_1)(int, Guid, string, string, string) | Αρχικοποιεί μια νέα παρουσία της κλάσης `LiFeDataSource`. |
 
 ## Ιδιότητες
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
-| [AdobeStockId](../../aspose.psd.fileformats.psd.layers.layerresources/lifedatasource/adobestockid/) { get; set; } | Αποκτά ή ορίζει τη βιβλιοθήκη γραφικών AdobeStockId, για τις βιβλιοθήκες Adobe® Photoshop® CC. |
-| [AdobeStockLicenseState](../../aspose.psd.fileformats.psd.layers.layerresources/lifedatasource/adobestocklicensestate/) { get; } | Λαμβάνει την κατάσταση της άδειας χρήσης adobe stock, εάν είναι διαθέσιμη, για τις βιβλιοθήκες Adobe® Photoshop® CC. |
-| [AssetLockedState](../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/assetlockedstate/) { get; set; } | Λαμβάνει ή ορίζει μια τιμή που υποδεικνύει εάν το στοιχείο PSD είναι κλειδωμένο. Η κατάσταση κλειδώματος στοιχείου, για τα στοιχεία του Adobe® Photoshop® СС Libraries. |
-| [AssetModTime](../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/assetmodtime/) { get; set; } | Λαμβάνει ή ρυθμίζει τον χρόνο τροποποίησης του στοιχείου, για τα στοιχεία του Adobe® Photoshop® СС Libraries. |
-| [ChildDocId](../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/childdocid/) { get; set; } | Λαμβάνει ή ορίζει το αναγνωριστικό θυγατρικού εγγράφου στην πηγή δεδομένων liFE ή liFD του πόρου Lnk2 / LnkE Adobe® Photoshop®. |
-| [CompId](../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/compid/) { get; set; } | Λαμβάνει ή ορίζει το αναγνωριστικό του τρέχοντος επιλεγμένου comp για το θυγατρικό έγγραφο, το οποίο θα είναι -1 εάν δεν επιλεγεί κανένα. Τα Comps είναι συνθέσεις μιας διάταξης σελίδας που μπορούν να δημιουργήσουν οι σχεδιαστές. Χρησιμοποιώντας σύνθετα επίπεδα, μπορείτε να δημιουργήσετε, να διαχειριστείτε και να προβάλετε πολλαπλές εκδόσεις μιας διάταξης σε ένα μόνο αρχείο Adobe® Photoshop®. Ένα επίπεδο comp είναι ένα στιγμιότυπο μιας κατάστασης του πίνακα Layers. Οι Comps Layer αποθηκεύουν τρεις τύπους επιλογών επιπέδου, αλλά αυτή η ιδιότητα λαμβάνει το αναγνωριστικό επιλογής Layer Comp για Έξυπνα Αντικείμενα. [Σύνθεση επιπέδων σε Έξυπνα Αντικείμενα](https://helpx.adobe.com/photoshop/using/layer-comps.html) |
-| [Date](../../aspose.psd.fileformats.psd.layers.layerresources/lifedatasource/date/) { get; set; } | Λαμβάνει ή ορίζει την τελευταία ημερομηνία και ώρα εγγραφής του εξωτερικού αρχείου στην πηγή δεδομένων LiFE του πόρου PSD LnkE. |
-| [ElementName](../../aspose.psd.fileformats.psd.layers.layerresources/lifedatasource/elementname/) { get; set; } | Λαμβάνει ή ορίζει το όνομα του στοιχείου της βιβλιοθήκης γραφικών, για τις βιβλιοθήκες Adobe® Photoshop® CC. |
-| [ElementRef](../../aspose.psd.fileformats.psd.layers.layerresources/lifedatasource/elementref/) { get; set; } | Λαμβάνει ή ορίζει την αναφορά του στοιχείου βιβλιοθήκης γραφικών, για τις βιβλιοθήκες Adobe® Photoshop® CC. |
-| [FileCreator](../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/filecreator/) { get; set; } | Λαμβάνει ή ρυθμίζει τον δημιουργό αρχείων στη μορφή PSD πόρου LnkE / Lnk2. |
-| [FileName](../../aspose.psd.fileformats.psd.layers.layerresources/lifedatasource/filename/) { get; set; } | Λαμβάνει ή ορίζει το όνομα του εξωτερικού ή του ενσωματωμένου αρχείου στον πόρο συνδέσμου PSD . |
+| [AdobeStockId](../../aspose.psd.fileformats.psd.layers.layerresources/lifedatasource/adobestockid/) { get; set; } | Ανακτά ή ορίζει το αναγνωριστικό βιβλιοθήκης γραφικών AdobeStockId, για τις Adobe® Photoshop® CC Libraries. |
+| [AdobeStockLicenseState](../../aspose.psd.fileformats.psd.layers.layerresources/lifedatasource/adobestocklicensestate/) { get; } | Ανακτά την κατάσταση της άδειας adobe stock εάν είναι διαθέσιμη, για τις Adobe® Photoshop® CC libraries. |
+| [AssetLockedState](../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/assetlockedstate/) { get; set; } | Λαμβάνει ή ορίζει μια τιμή που υποδεικνύει εάν το στοιχείο PSD είναι κλειδωμένο. Η κατάσταση κλειδώματος του στοιχείου, για στοιχεία Adobe® Photoshop® СС Libraries. |
+| [AssetModTime](../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/assetmodtime/) { get; set; } | Λαμβάνει ή ορίζει την ώρα τροποποίησης του στοιχείου, για στοιχεία Adobe® Photoshop® СС Libraries. |
+| [ChildDocId](../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/childdocid/) { get; set; } | Λαμβάνει ή ορίζει το αναγνωριστικό του θυγατρικού εγγράφου στην πηγή δεδομένων liFE ή liFD του πόρου Lnk2 / LnkE Adobe® Photoshop®. |
+| [CompId](../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/compid/) { get; set; } | Λαμβάνει ή ορίζει το αναγνωριστικό του τρέχοντος επιλεγμένου comp για το θυγατρικό έγγραφο, το οποίο θα είναι -1 εάν δεν υπάρχει επιλογή. Τα comps είναι συνθέσεις μιας διάταξης σελίδας που μπορούν να δημιουργήσουν οι σχεδιαστές. Χρησιμοποιώντας layer comps, μπορείτε να δημιουργήσετε, να διαχειριστείτε και να προβάλετε πολλαπλές εκδόσεις μιας διάταξης σε ένα μόνο αρχείο Adobe® Photoshop®. Ένα layer comp είναι ένα στιγμιότυπο μιας κατάστασης του πίνακα Layers. Τα layer comps αποθηκεύουν τρεις τύπους επιλογών στρώσης, αλλά αυτή η ιδιότητα λαμβάνει το αναγνωριστικό επιλογής Layer Comp για Smart Objects. [Layer comps in Smart Objects](https://helpx.adobe.com/photoshop/using/layer-comps.html) |
+| [Date](../../aspose.psd.fileformats.psd.layers.layerresources/lifedatasource/date/) { get; set; } | Λαμβάνει ή ορίζει την ημερομηνία και ώρα τελευταίας εγγραφής του εξωτερικού αρχείου στην πηγή δεδομένων LiFE του πόρου PSD LnkE. |
+| [ElementName](../../aspose.psd.fileformats.psd.layers.layerresources/lifedatasource/elementname/) { get; set; } | Λαμβάνει ή ορίζει το όνομα του στοιχείου της βιβλιοθήκης γραφικών, για Adobe® Photoshop® CC Libraries. |
+| [ElementRef](../../aspose.psd.fileformats.psd.layers.layerresources/lifedatasource/elementref/) { get; set; } | Λαμβάνει ή ορίζει την αναφορά του στοιχείου της βιβλιοθήκης γραφικών, για Adobe® Photoshop® CC Libraries. |
+| [FileCreator](../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/filecreator/) { get; set; } | Λαμβάνει ή ορίζει τον δημιουργό του αρχείου στη μορφή PSD πόρου LnkE / Lnk2. |
+| [FileName](../../aspose.psd.fileformats.psd.layers.layerresources/lifedatasource/filename/) { get; set; } | Λαμβάνει ή ορίζει το όνομα του εξωτερικού ή ενσωματωμένου αρχείου στον πόρο σύνδεσης PSD. |
 | [FileSize](../../aspose.psd.fileformats.psd.layers.layerresources/lifedatasource/filesize/) { get; set; } | Λαμβάνει ή ορίζει το μέγεθος του εξωτερικού αρχείου στην πηγή δεδομένων LiFE του πόρου PSD LnkE. |
-| [FileType](../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/filetype/) { get; set; } | Λαμβάνει ή ορίζει τον τύπο του ενσωματωμένου ή του εξωτερικού αρχείου που περιέχει ή συνδέει ο πόρος Adobe® Photoshop® Lnk2 / LnkE. |
-| [FullPath](../../aspose.psd.fileformats.psd.layers.layerresources/lifedatasource/fullpath/) { get; set; } | Λαμβάνει ή ορίζει την πλήρη διαδρομή του εξωτερικού αρχείου στην πηγή δεδομένων LiFE του πόρου PSD LnkE. |
-| [HasFileOpenDescriptor](../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/hasfileopendescriptor/) { get; set; } | Λαμβάνει ή ορίζει μια τιμή που υποδεικνύει εάν αυτή η πηγή δεδομένων συνδέσμου έχει τον ανοιχτό περιγραφέα αρχείου: CompId και OriginalCompId. |
-| [IsLibraryLink](../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/islibrarylink/) { get; } | Λαμβάνει μια τιμή που υποδεικνύει εάν αυτή η πηγή δεδομένων συνδέσμου PSD συνδέεται με το στοιχείο Βιβλιοθήκης Adobe® Photoshop® СС. |
-| [Length](../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/length/) { get; } | Λαμβάνει το μήκος της πηγής δεδομένων συνδέσμου σε byte. |
-| [OriginalCompId](../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/originalcompid/) { get; } | Λαμβάνει το αρχικό αναγνωριστικό του τρέχοντος επιλεγμένου Comp για το θυγατρικό έγγραφο, το οποίο θα είναι -1 αν δεν επιλεγεί κανένα. Αυτή η ιδιότητα λαμβάνει το αρχικό αναγνωριστικό επιλογής επιπέδου Comp για τα Έξυπνα Αντικείμενα. [Σύνθεση επιπέδων σε Έξυπνα Αντικείμενα](https://helpx.adobe.com/photoshop/using/layer-comps.html) |
-| [OriginalFileName](../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/originalfilename/) { get; } | Λαμβάνει το αρχικό όνομα αρχείου της προέλευσης δεδομένων στον παγκόσμιο πόρο συνδέσμου Adobe® Photoshop®. |
+| [FileType](../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/filetype/) { get; set; } | Λαμβάνει ή ορίζει τον τύπο του ενσωματωμένου ή εξωτερικού αρχείου που περιέχει ή συνδέει ο πόρος Adobe® Photoshop® Lnk2 / LnkE. |
+| [FullPath](../../aspose.psd.fileformats.psd.layers.layerresources/lifedatasource/fullpath/) { get; set; } | Λαμβάνει ή ορίζει τη πλήρη διαδρομή του εξωτερικού αρχείου στην πηγή δεδομένων LiFE του πόρου PSD LnkE. |
+| [HasFileOpenDescriptor](../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/hasfileopendescriptor/) { get; set; } | Λαμβάνει ή ορίζει μια τιμή που υποδεικνύει εάν αυτή η πηγή δεδομένων σύνδεσης έχει τον περιγραφέα ανοικτού αρχείου: CompId και OriginalCompId. |
+| [IsLibraryLink](../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/islibrarylink/) { get; } | Λαμβάνει μια τιμή που υποδεικνύει εάν αυτή η πηγή δεδομένων σύνδεσης PSD συνδέεται με το στοιχείο Adobe® Photoshop® СС Library. |
+| [Length](../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/length/) { get; } | Λαμβάνει το μήκος της πηγής δεδομένων σύνδεσης σε bytes. |
+| [OriginalCompId](../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/originalcompid/) { get; } | Λαμβάνει το αρχικό αναγνωριστικό του τρέχοντος επιλεγμένου Comp για το θυγατρικό έγγραφο, το οποίο θα είναι -1 εάν δεν υπάρχει επιλογή. Αυτή η ιδιότητα λαμβάνει το αρχικό αναγνωριστικό επιλογής layer Comp για Smart Objects. [Layer comps in Smart Objects](https://helpx.adobe.com/photoshop/using/layer-comps.html) |
+| [OriginalFileName](../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/originalfilename/) { get; } | Λαμβάνει το αρχικό όνομα αρχείου της πηγής δεδομένων στον παγκόσμιο πόρο σύνδεσης Adobe® Photoshop®. |
 | [RelativePath](../../aspose.psd.fileformats.psd.layers.layerresources/lifedatasource/relativepath/) { get; set; } | Λαμβάνει ή ορίζει τη σχετική διαδρομή του εξωτερικού αρχείου στην πηγή δεδομένων LiFE του πόρου PSD LnkE. |
-| [Type](../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/type/) { get; } | Λαμβάνει τον τύπο πηγής δεδομένων καθολικού συνδέσμου Adobe® Photoshop® που μπορεί να είναι ένας από τους παρακάτω ή κανένας: Το ενσωματωμένο συνδεδεμένο αρχείο liFD που αντιστοιχεί στο PSD Lnk2Resource Το εξωτερικό συνδεδεμένο αρχείο liFE που αντιστοιχεί στον σύνδεσμο PSD LnkeResource FAs liFD |
-| [UniqueId](../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/uniqueid/) { get; } | Λαμβάνει το παγκόσμιο μοναδικό αναγνωριστικό της πηγής δεδομένων στον πόρο συνδέσμου PSD. |
+| [Type](../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/type/) { get; } | Λαμβάνει τον τύπο της παγκόσμιας πηγής δεδομένων σύνδεσης Adobe® Photoshop® που μπορεί να είναι ένας από τους παρακάτω ή κανένας: Το ενσωματωμένο συνδεδεμένο αρχείο liFD που αντιστοιχεί στον πόρο PSD Lnk2Resource, Το εξωτερικό συνδεδεμένο αρχείο liFE που αντιστοιχεί στον πόρο PSD LnkeResource, Το ψευδώνυμο συνδεδεμένου αρχείου liFA. |
+| [UniqueId](../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/uniqueid/) { get; } | Λαμβάνει το παγκόσμιο μοναδικό αναγνωριστικό της πηγής δεδομένων στον πόρο σύνδεσης PSD. |
 | [Version](../../aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/version/) { get; } | Λαμβάνει την έκδοση της πηγής δεδομένων στον πόρο PSD LnkE / Lnk2. |
 
-### Παραδείγματα
+## Παραδείγματα
 
-Αυτό το παράδειγμα δείχνει πώς να αποκτήσετε και να ορίσετε ιδιότητες του πόρου Psd LnkE.
+Αυτό το παράδειγμα δείχνει πώς να λαμβάνετε και να ορίζετε ιδιότητες του πόρου Psd LnkE.
 
 ```csharp
 [C#]
@@ -65,7 +66,7 @@ void AssertAreEqual(object actual, object expected)
     }
 }
 
-// Αυτό το παράδειγμα δείχνει πώς να αποκτήσετε και να ορίσετε ιδιότητες του πόρου Psd LnkE που περιέχει πληροφορίες σχετικά με ένα εξωτερικό συνδεδεμένο αρχείο.
+// Αυτό το παράδειγμα δείχνει πώς να λαμβάνετε και να ορίζετε ιδιότητες του πόρου Psd LnkE που περιέχει πληροφορίες για ένα εξωτερικό συνδεδεμένο αρχείο.
 void ExampleOfLnkEResourceSupport(
     string fileName,
     int length,
@@ -142,7 +143,7 @@ void ExampleOfLnkEResourceSupport(
     }
 }
 
-// Αυτό το παράδειγμα δείχνει πώς να αποκτήσετε και να ορίσετε ιδιότητες του Psd LnkeResource που περιέχει πληροφορίες σχετικά με το εξωτερικό συνδεδεμένο αρχείο JPEG.
+// Αυτό το παράδειγμα δείχνει πώς να λαμβάνετε και να ορίζετε ιδιότητες του πόρου Psd LnkeResource που περιέχει πληροφορίες για εξωτερικό συνδεδεμένο αρχείο JPEG.
 ExampleOfLnkEResourceSupport(
     @"photooverlay_5_new.psd",
     0x21c,
@@ -161,7 +162,7 @@ ExampleOfLnkEResourceSupport(
     0x1520d,
     7);
 
-// Αυτό το παράδειγμα δείχνει πώς να αποκτήσετε και να ορίσετε ιδιότητες του PSD LnkeResource που περιέχει πληροφορίες σχετικά με ένα εξωτερικό συνδεδεμένο αρχείο PNG.
+// Αυτό το παράδειγμα δείχνει πώς να λαμβάνετε και να ορίζετε ιδιότητες του πόρου PSD LnkeResource που περιέχει πληροφορίες για εξωτερικό συνδεδεμένο αρχείο PNG.
 ExampleOfLnkEResourceSupport(
     "rgb8_2x2_linked.psd",
     0x284,
@@ -180,7 +181,7 @@ ExampleOfLnkEResourceSupport(
     0x53,
     7);
 
-// Αυτό το παράδειγμα δείχνει πώς να αποκτήσετε και να ορίσετε ιδιότητες του PSD LnkeResource που περιέχει πληροφορίες σχετικά με δύο εξωτερικά συνδεδεμένα αρχεία PNG και PSD.
+// Αυτό το παράδειγμα δείχνει πώς να λαμβάνετε και να ορίζετε ιδιότητες του PSD LnkeResource που περιέχει πληροφορίες για δύο εξωτερικά συνδεδεμένα αρχεία PNG και PSD.
 ExampleOfLnkEResourceSupport(
     "rgb8_2x2_linked2.psd",
     0x590,
@@ -199,7 +200,7 @@ ExampleOfLnkEResourceSupport(
     0x4aea,
     7);
 
-// Αυτό το παράδειγμα δείχνει πώς να αποκτήσετε και να ορίσετε ιδιότητες του Photoshop Psd LnkeResource που περιέχει πληροφορίες σχετικά με ένα εξωτερικό συνδεδεμένο στοιχείο CC Libraries.
+// Αυτό το παράδειγμα δείχνει πώς να λαμβάνετε και να ορίζετε ιδιότητες του Photoshop Psd LnkeResource που περιέχει πληροφορίες για ένα εξωτερικά συνδεδεμένο αντικείμενο CC Libraries.
 ExampleOfLnkEResourceSupport(
     "rgb8_2x2_asset_linked.psd",
     0x398,
@@ -219,7 +220,7 @@ ExampleOfLnkEResourceSupport(
     7);
 ```
 
-Ο ακόλουθος κώδικας δείχνει την υποστήριξη του πόρου LnkeResource.
+Ο παρακάτω κώδικας δείχνει την υποστήριξη του πόρου LnkeResource.
 
 ```csharp
 [C#]
@@ -444,7 +445,7 @@ ExampleOfComplexLnkEResourceSupport(
 ### Δείτε επίσης
 
 * class [LinkDataSource](../linkdatasource/)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
-* συνέλευση [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../)
 
 

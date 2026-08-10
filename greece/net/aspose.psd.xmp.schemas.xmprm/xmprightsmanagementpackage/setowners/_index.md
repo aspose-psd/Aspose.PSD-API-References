@@ -1,14 +1,15 @@
 ---
-title: XmpRightsManagementPackage.SetOwners
-second_title: Aspose.PSD για Αναφορά API .NET
-description: XmpRightsManagementPackage μέθοδος. Σετ ιδιοκτήτες.
+title: "XmpRightsManagementPackage.SetOwners"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Μέθοδος XmpRightsManagementPackage. Ορίζει ιδιοκτήτες"
 type: docs
 weight: 50
 url: /el/net/aspose.psd.xmp.schemas.xmprm/xmprightsmanagementpackage/setowners/
 ---
+{{< psd/tize >}}
 ## XmpRightsManagementPackage.SetOwners method
 
-Σετ ιδιοκτήτες.
+Ορίζει ιδιοκτήτες.
 
 ```csharp
 public void SetOwners(string[] owners)
@@ -16,12 +17,12 @@ public void SetOwners(string[] owners)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| owners | String[] | Οι ιδιοκτήτες. |
+| ιδιοκτήτες | String[] | Οι ιδιοκτήτες. |
 
 ### Δείτε επίσης
 
 * class [XmpRightsManagementPackage](../)
-* χώρος ονομάτων [Aspose.PSD.Xmp.Schemas.XmpRm](../../xmprightsmanagementpackage/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpRm](../../../aspose.psd.xmp.schemas.xmprm/)
+* assembly [Aspose.PSD](../../../)
 
 

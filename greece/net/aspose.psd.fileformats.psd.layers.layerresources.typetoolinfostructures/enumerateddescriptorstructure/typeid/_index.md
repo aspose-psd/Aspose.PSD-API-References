@@ -1,11 +1,12 @@
 ---
-title: EnumeratedDescriptorStructure.TypeID
-second_title: Aspose.PSD για Αναφορά API .NET
-description: EnumeratedDescriptorStructure ιδιοκτησία. Λαμβάνει ή ορίζει το αναγνωριστικό τύπου.
+title: "EnumeratedDescriptorStructure.TypeID"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα EnumeratedDescriptorStructure. Λαμβάνει ή ορίζει το αναγνωριστικό τύπου"
 type: docs
 weight: 50
 url: /el/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/enumerateddescriptorstructure/typeid/
 ---
+{{< psd/tize >}}
 ## EnumeratedDescriptorStructure.TypeID property
 
 Λαμβάνει ή ορίζει το αναγνωριστικό τύπου.
@@ -14,7 +15,7 @@ url: /el/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostruct
 public ClassID TypeID { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
 Το αναγνωριστικό τύπου.
 
@@ -22,7 +23,7 @@ public ClassID TypeID { get; set; }
 
 * class [ClassID](../../../aspose.psd.fileformats.psd.layers.layerresources/classid/)
 * class [EnumeratedDescriptorStructure](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../enumerateddescriptorstructure/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 

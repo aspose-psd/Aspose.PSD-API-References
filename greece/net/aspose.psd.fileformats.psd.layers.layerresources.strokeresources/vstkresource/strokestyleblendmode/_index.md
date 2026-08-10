@@ -1,14 +1,15 @@
 ---
-title: VstkResource.StrokeStyleBlendMode
-second_title: Aspose.PSD για Αναφορά API .NET
-description: VstkResource ιδιοκτησία. Λαμβάνει ή ρυθμίζει τη λειτουργία Stroke Blend.
+title: "VstkResource.StrokeStyleBlendMode"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "VstkResource ιδιότητα. Λαμβάνει ή ορίζει τη λειτουργία ανάμειξης γραμμής"
 type: docs
-weight: 80
+weight: 60
 url: /el/net/aspose.psd.fileformats.psd.layers.layerresources.strokeresources/vstkresource/strokestyleblendmode/
 ---
+{{< psd/tize >}}
 ## VstkResource.StrokeStyleBlendMode property
 
-Λαμβάνει ή ρυθμίζει τη λειτουργία Stroke Blend.
+Λαμβάνει ή ορίζει τη λειτουργία Blend του Stroke.
 
 ```csharp
 public BlendMode StrokeStyleBlendMode { get; set; }
@@ -18,7 +19,7 @@ public BlendMode StrokeStyleBlendMode { get; set; }
 
 * enum [BlendMode](../../../aspose.psd.fileformats.core.blending/blendmode/)
 * class [VstkResource](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.StrokeResources](../../vstkresource/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.StrokeResources](../../../aspose.psd.fileformats.psd.layers.layerresources.strokeresources/)
+* assembly [Aspose.PSD](../../../)
 
 

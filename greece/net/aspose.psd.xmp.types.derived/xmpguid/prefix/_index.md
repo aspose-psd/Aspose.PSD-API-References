@@ -1,27 +1,28 @@
 ---
-title: XmpGuid.Prefix
-second_title: Aspose.PSD για Αναφορά API .NET
-description: XmpGuid ιδιοκτησία. Παίρνει ή ορίζει το πρόθεμα όπως uuid.
+title: "XmpGuid.Prefix"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα XmpGuid. Λαμβάνει ή ορίζει το πρόθεμα όπως uuid"
 type: docs
 weight: 20
 url: /el/net/aspose.psd.xmp.types.derived/xmpguid/prefix/
 ---
+{{< psd/tize >}}
 ## XmpGuid.Prefix property
 
-Παίρνει ή ορίζει το πρόθεμα όπως uuid.
+Λαμβάνει ή ορίζει το πρόθεμα όπως το uuid.
 
 ```csharp
 public string Prefix { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
 Το πρόθεμα όπως uuid.
 
 ### Δείτε επίσης
 
 * class [XmpGuid](../)
-* χώρος ονομάτων [Aspose.PSD.Xmp.Types.Derived](../../xmpguid/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Derived](../../../aspose.psd.xmp.types.derived/)
+* assembly [Aspose.PSD](../../../)
 
 

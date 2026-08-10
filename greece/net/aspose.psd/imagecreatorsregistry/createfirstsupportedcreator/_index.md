@@ -1,14 +1,15 @@
 ---
-title: ImageCreatorsRegistry.CreateFirstSupportedCreator
-second_title: Aspose.PSD για Αναφορά API .NET
-description: ImageCreatorsRegistry μέθοδος. Δημιουργεί τον πρώτο δημιουργό που βρέθηκε κατάλληλος για το καθορισμένο.
+title: "ImageCreatorsRegistry.CreateFirstSupportedCreator"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "ImageCreatorsRegistry μέθοδος. Δημιουργεί τον πρώτο ευρεθέντα δημιουργό κατάλληλο για το καθορισμένο"
 type: docs
 weight: 30
 url: /el/net/aspose.psd/imagecreatorsregistry/createfirstsupportedcreator/
 ---
+{{< psd/tize >}}
 ## ImageCreatorsRegistry.CreateFirstSupportedCreator method
 
-Δημιουργεί τον πρώτο δημιουργό που βρέθηκε κατάλληλος για το καθορισμένο.
+Δημιουργεί τον πρώτο βρεθέντα δημιουργό κατάλληλο για το καθορισμένο.
 
 ```csharp
 public static IImageCreator CreateFirstSupportedCreator(ImageOptionsBase imageOptions)
@@ -18,20 +19,20 @@ public static IImageCreator CreateFirstSupportedCreator(ImageOptionsBase imageOp
 | --- | --- | --- |
 | imageOptions | ImageOptionsBase | Οι επιλογές εικόνας. |
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-Ο δημιουργός που υποστηρίζει το καθορισμένο ή μηδενικό εάν δεν βρεθεί τέτοιος δημιουργός.
+Ο δημιουργός που υποστηρίζει το καθορισμένο ή null εάν δεν βρεθεί τέτοιος δημιουργός.
 
-### Παρατηρήσεις
+## Σχόλια
 
-Ο πρώτος δημιουργός θα είναι στην πραγματικότητα ο τελευταίος εγγεγραμμένος.
+Ο πρώτος δημιουργός θα είναι στην πραγματικότητα ο τελευταίος που καταχωρήθηκε.
 
 ### Δείτε επίσης
 
 * interface [IImageCreator](../../iimagecreator/)
 * class [ImageOptionsBase](../../imageoptionsbase/)
 * class [ImageCreatorsRegistry](../)
-* χώρος ονομάτων [Aspose.PSD](../../imagecreatorsregistry/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

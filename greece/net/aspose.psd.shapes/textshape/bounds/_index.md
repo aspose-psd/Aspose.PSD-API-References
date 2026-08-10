@@ -1,11 +1,12 @@
 ---
-title: TextShape.Bounds
-second_title: Aspose.PSD για Αναφορά API .NET
-description: TextShape ιδιοκτησία. Λαμβάνει τα όρια του αντικειμένου.
+title: "TextShape.Bounds"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα TextShape. Λαμβάνει τα όρια του αντικειμένου"
 type: docs
 weight: 20
 url: /el/net/aspose.psd.shapes/textshape/bounds/
 ---
+{{< psd/tize >}}
 ## TextShape.Bounds property
 
 Λαμβάνει τα όρια του αντικειμένου.
@@ -14,15 +15,15 @@ url: /el/net/aspose.psd.shapes/textshape/bounds/
 public override RectangleF Bounds { get; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-τα όρια του αντικειμένου.
+Τα όρια του αντικειμένου.
 
 ### Δείτε επίσης
 
 * struct [RectangleF](../../../aspose.psd/rectanglef/)
 * class [TextShape](../)
-* χώρος ονομάτων [Aspose.PSD.Shapes](../../textshape/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 

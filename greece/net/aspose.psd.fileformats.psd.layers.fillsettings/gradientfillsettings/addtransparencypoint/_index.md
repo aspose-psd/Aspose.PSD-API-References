@@ -1,11 +1,12 @@
 ---
-title: GradientFillSettings.AddTransparencyPoint
-second_title: Aspose.PSD για Αναφορά API .NET
-description: GradientFillSettings μέθοδος. Προσθέτει το σημείο χρώματος.
+title: "GradientFillSettings.AddTransparencyPoint"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Μέθοδος GradientFillSettings. Προσθέτει το σημείο χρώματος"
 type: docs
-weight: 160
+weight: 70
 url: /el/net/aspose.psd.fileformats.psd.layers.fillsettings/gradientfillsettings/addtransparencypoint/
 ---
+{{< psd/tize >}}
 ## GradientFillSettings.AddTransparencyPoint method
 
 Προσθέτει το σημείο χρώματος.
@@ -14,7 +15,7 @@ url: /el/net/aspose.psd.fileformats.psd.layers.fillsettings/gradientfillsettings
 public GradientTransparencyPoint AddTransparencyPoint()
 ```
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
 Δημιουργήθηκε σημείο διαφάνειας
 
@@ -22,7 +23,7 @@ public GradientTransparencyPoint AddTransparencyPoint()
 
 * class [GradientTransparencyPoint](../../gradienttransparencypoint/)
 * class [GradientFillSettings](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../gradientfillsettings/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../../)
 
 

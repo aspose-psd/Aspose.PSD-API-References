@@ -1,20 +1,21 @@
 ---
-title: ExifData.ExposureProgram
-second_title: Aspose.PSD για Αναφορά API .NET
-description: ExifData ιδιοκτησία. Λαμβάνει ή ρυθμίζει το πρόγραμμα έκθεσης.
+title: "ExifData.ExposureProgram"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "ExifData property. Λαμβάνει ή ορίζει το πρόγραμμα έκθεσης"
 type: docs
 weight: 220
 url: /el/net/aspose.psd.exif/exifdata/exposureprogram/
 ---
+{{< psd/tize >}}
 ## ExifData.ExposureProgram property
 
-Λαμβάνει ή ρυθμίζει το πρόγραμμα έκθεσης.
+Λαμβάνει ή ορίζει το πρόγραμμα έκθεσης.
 
 ```csharp
 public ExifExposureProgram ExposureProgram { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
 Το πρόγραμμα έκθεσης.
 
@@ -22,7 +23,7 @@ public ExifExposureProgram ExposureProgram { get; set; }
 
 * enum [ExifExposureProgram](../../../aspose.psd.exif.enums/exifexposureprogram/)
 * class [ExifData](../)
-* χώρος ονομάτων [Aspose.PSD.Exif](../../exifdata/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

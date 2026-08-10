@@ -1,11 +1,12 @@
 ---
-title: PsdImage.ImageResources
-second_title: Aspose.PSD για Αναφορά API .NET
-description: PsdImage ιδιοκτησία. Λαμβάνει ή ορίζει τους πόρους εικόνας PSD.
+title: "PsdImage.ImageResources"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα PsdImage. Λαμβάνει ή ορίζει τους πόρους εικόνας PSD"
 type: docs
 weight: 180
 url: /el/net/aspose.psd.fileformats.psd/psdimage/imageresources/
 ---
+{{< psd/tize >}}
 ## PsdImage.ImageResources property
 
 Λαμβάνει ή ορίζει τους πόρους εικόνας PSD.
@@ -14,7 +15,7 @@ url: /el/net/aspose.psd.fileformats.psd/psdimage/imageresources/
 public ResourceBlock[] ImageResources { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
 Οι πόροι εικόνας PSD.
 
@@ -22,7 +23,7 @@ public ResourceBlock[] ImageResources { get; set; }
 
 * class [ResourceBlock](../../resourceblock/)
 * class [PsdImage](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

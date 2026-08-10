@@ -1,27 +1,28 @@
 ---
-title: ExifData.GPSLongitudeRef
-second_title: Aspose.PSD για Αναφορά API .NET
-description: ExifData ιδιοκτησία. Λαμβάνει ή ρυθμίζει το γεωγραφικό μήκος GPS ανατολικό ή δυτικό γεωγραφικό μήκος.
+title: "ExifData.GPSLongitudeRef"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "ExifData ιδιότητα. Λαμβάνει ή ορίζει αν το GPS γεωγραφικό μήκος είναι ανατολικό ή δυτικό"
 type: docs
 weight: 550
 url: /el/net/aspose.psd.exif/exifdata/gpslongituderef/
 ---
+{{< psd/tize >}}
 ## ExifData.GPSLongitudeRef property
 
-Λαμβάνει ή ρυθμίζει το γεωγραφικό μήκος GPS ανατολικό ή δυτικό γεωγραφικό μήκος.
+Λαμβάνει ή ορίζει αν το γεωγραφικό μήκος GPS είναι ανατολικό ή δυτικό.
 
 ```csharp
 public string GPSLongitudeRef { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Το γεωγραφικό μήκος GPS είναι ανατολικό ή δυτικό γεωγραφικό μήκος.
+Το GPS γεωγραφικό μήκος είναι ανατολικό ή δυτικό.
 
 ### Δείτε επίσης
 
 * class [ExifData](../)
-* χώρος ονομάτων [Aspose.PSD.Exif](../../exifdata/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

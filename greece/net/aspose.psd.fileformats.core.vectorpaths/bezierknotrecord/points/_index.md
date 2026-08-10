@@ -1,28 +1,29 @@
 ---
-title: BezierKnotRecord.Points
-second_title: Aspose.PSD για Αναφορά API .NET
-description: BezierKnotRecord ιδιοκτησία. Λαμβάνει ή ορίζει τους πόντους.
+title: "BezierKnotRecord.Points"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα BezierKnotRecord. Λαμβάνει ή ορίζει τα σημεία"
 type: docs
 weight: 60
 url: /el/net/aspose.psd.fileformats.core.vectorpaths/bezierknotrecord/points/
 ---
+{{< psd/tize >}}
 ## BezierKnotRecord.Points property
 
-Λαμβάνει ή ορίζει τους πόντους.
+Λαμβάνει ή ορίζει τα σημεία.
 
 ```csharp
 public Point[] Points { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Οι πόντοι.
+Τα σημεία.
 
 ### Δείτε επίσης
 
 * struct [Point](../../../aspose.psd/point/)
 * class [BezierKnotRecord](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Core.VectorPaths](../../bezierknotrecord/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../../)
 
 

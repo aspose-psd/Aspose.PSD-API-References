@@ -1,27 +1,28 @@
 ---
-title: ExifData.GPSDestDistanceRef
-second_title: Aspose.PSD για Αναφορά API .NET
-description: ExifData ιδιοκτησία. Λαμβάνει ή ρυθμίζει τη μονάδα GPS που χρησιμοποιείται για την έκφραση της απόστασης από το σημείο προορισμού.
+title: "ExifData.GPSDestDistanceRef"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "ExifData ιδιότητα. Λαμβάνει ή ορίζει τη μονάδα GPS που χρησιμοποιείται για την έκφραση της απόστασης προς το σημείο προορισμού"
 type: docs
 weight: 430
 url: /el/net/aspose.psd.exif/exifdata/gpsdestdistanceref/
 ---
+{{< psd/tize >}}
 ## ExifData.GPSDestDistanceRef property
 
-Λαμβάνει ή ρυθμίζει τη μονάδα GPS που χρησιμοποιείται για την έκφραση της απόστασης από το σημείο προορισμού.
+Λαμβάνει ή ορίζει τη μονάδα GPS που χρησιμοποιείται για την έκφραση της απόστασης προς το σημείο προορισμού.
 
 ```csharp
 public string GPSDestDistanceRef { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Η μονάδα GPS που χρησιμοποιείται για να εκφράσει την απόσταση από το σημείο προορισμού.
+Η μονάδα GPS που χρησιμοποιείται για την έκφραση της απόστασης προς το σημείο προορισμού.
 
 ### Δείτε επίσης
 
 * class [ExifData](../)
-* χώρος ονομάτων [Aspose.PSD.Exif](../../exifdata/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

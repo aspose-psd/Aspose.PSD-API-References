@@ -1,20 +1,21 @@
 ---
-title: JpegExifData.Thumbnail
-second_title: Aspose.PSD για Αναφορά API .NET
-description: JpegExifData ιδιοκτησία. Λαμβάνει ή ορίζει τη μικρογραφία.
+title: "JpegExifData.Thumbnail"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα JpegExifData. Λαμβάνει ή ορίζει την εικόνα μικρογραφίας"
 type: docs
 weight: 200
 url: /el/net/aspose.psd.exif/jpegexifdata/thumbnail/
 ---
+{{< psd/tize >}}
 ## JpegExifData.Thumbnail property
 
-Λαμβάνει ή ορίζει τη μικρογραφία.
+Λαμβάνει ή ορίζει την μικρογραφία της εικόνας.
 
 ```csharp
 public RasterImage Thumbnail { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
 Η μικρογραφία.
 
@@ -22,7 +23,7 @@ public RasterImage Thumbnail { get; set; }
 
 * class [RasterImage](../../../aspose.psd/rasterimage/)
 * class [JpegExifData](../)
-* χώρος ονομάτων [Aspose.PSD.Exif](../../jpegexifdata/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

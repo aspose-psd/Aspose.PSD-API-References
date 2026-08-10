@@ -1,11 +1,12 @@
 ---
-title: TypeToolLineInfo.TypeToolLineInfo
-second_title: Aspose.PSD για Αναφορά API .NET
-description: TypeToolLineInfo κατασκευαστής. Ο προεπιλεγμένος κατασκευαστής.
+title: "TypeToolLineInfo.TypeToolLineInfo"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Κατασκευαστής TypeToolLineInfo. Ο προεπιλεγμένος κατασκευαστής"
 type: docs
 weight: 10
 url: /el/net/aspose.psd.fileformats.psd.layers.layerresources/typetoollineinfo/typetoollineinfo/
 ---
+{{< psd/tize >}}
 ## TypeToolLineInfo constructor
 
 Ο προεπιλεγμένος κατασκευαστής.
@@ -17,7 +18,7 @@ public TypeToolLineInfo()
 ### Δείτε επίσης
 
 * class [TypeToolLineInfo](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../typetoollineinfo/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

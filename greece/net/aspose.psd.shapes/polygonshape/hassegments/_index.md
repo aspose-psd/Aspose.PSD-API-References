@@ -1,27 +1,28 @@
 ---
-title: PolygonShape.HasSegments
-second_title: Aspose.PSD για Αναφορά API .NET
-description: PolygonShape ιδιοκτησία. Λαμβάνει μια τιμή που υποδεικνύει αν το σχήμα έχει τμήματα.
+title: "PolygonShape.HasSegments"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα PolygonShape. Λαμβάνει μια τιμή που υποδεικνύει εάν το σχήμα έχει τμήματα"
 type: docs
 weight: 50
 url: /el/net/aspose.psd.shapes/polygonshape/hassegments/
 ---
+{{< psd/tize >}}
 ## PolygonShape.HasSegments property
 
-Λαμβάνει μια τιμή που υποδεικνύει αν το σχήμα έχει τμήματα.
+Λαμβάνει μια τιμή που υποδεικνύει εάν το σχήμα έχει τμήματα.
 
 ```csharp
 public override bool HasSegments { get; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-`Αληθής` αν το σχήμα έχει τμήματα? σε διαφορετική περίπτωση,`ψευδής`.
+`True` εάν το σχήμα έχει τμήματα· διαφορετικά, `false`.
 
 ### Δείτε επίσης
 
 * class [PolygonShape](../)
-* χώρος ονομάτων [Aspose.PSD.Shapes](../../polygonshape/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 

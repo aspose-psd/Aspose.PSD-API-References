@@ -1,14 +1,15 @@
 ---
-title: TiffStreamWriter.WriteDoubleArray
-second_title: Aspose.PSD για Αναφορά API .NET
-description: TiffStreamWriter μέθοδος. Γράφει έναν πίνακα διπλών τιμών στη ροή.
+title: "TiffStreamWriter.WriteDoubleArray"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "TiffStreamWriter method. Γράφει έναν πίνακα τιμών double στο ρεύμα"
 type: docs
 weight: 60
 url: /el/net/aspose.psd.fileformats.tiff.filemanagement/tiffstreamwriter/writedoublearray/
 ---
+{{< psd/tize >}}
 ## TiffStreamWriter.WriteDoubleArray method
 
-Γράφει έναν πίνακα διπλών τιμών στη ροή.
+Γράφει έναν πίνακα τιμών double στη ροή.
 
 ```csharp
 public void WriteDoubleArray(double[] data)
@@ -16,12 +17,12 @@ public void WriteDoubleArray(double[] data)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| data | Double[] | Ο πίνακας για να γράψετε. |
+| δεδομένα | Double[] | Ο πίνακας για εγγραφή. |
 
 ### Δείτε επίσης
 
 * class [TiffStreamWriter](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Tiff.FileManagement](../../tiffstreamwriter/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff.FileManagement](../../../aspose.psd.fileformats.tiff.filemanagement/)
+* assembly [Aspose.PSD](../../../)
 
 

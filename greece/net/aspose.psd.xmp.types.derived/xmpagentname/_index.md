@@ -1,14 +1,15 @@
 ---
-title: Class XmpAgentName
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Aspose.PSD.Xmp.Types.Derived.XmpAgentName τάξη. Αντιπροσωπεύει όνομα πράκτορα οργάνωση λογισμικού κ.λπ.
+title: "Κλάση XmpAgentName"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Aspose.PSD.Xmp.Types.Derived.XmpAgentName κλάση. Αντιπροσωπεύει το όνομα του πράκτορα, λογισμικού, οργανισμού κλπ"
 type: docs
-weight: 6140
+weight: 6640
 url: /el/net/aspose.psd.xmp.types.derived/xmpagentname/
 ---
+{{< psd/tize >}}
 ## XmpAgentName class
 
-Αντιπροσωπεύει όνομα πράκτορα, οργάνωση λογισμικού κ.λπ.
+Αντιπροσωπεύει το όνομα του πράκτορα, την οργάνωση λογισμικού κ.λπ.
 
 ```csharp
 public sealed class XmpAgentName : XmpText
@@ -16,26 +17,26 @@ public sealed class XmpAgentName : XmpText
 
 ## Κατασκευαστές
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
-| [XmpAgentName](xmpagentname/)(string) | Αρχικοποιεί μια νέα παρουσία του`XmpAgentName` τάξη. |
+| [XmpAgentName](xmpagentname/)(string) | Αρχικοποιεί μια νέα παρουσία της κλάσης `XmpAgentName`. |
 
 ## Ιδιότητες
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
 | [Value](../../aspose.psd.xmp.types.basic/xmptext/value/) { get; set; } | Λαμβάνει ή ορίζει την τιμή κειμένου. |
 
 ## Μέθοδοι
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
-| override [GetXmpRepresentation](../../aspose.psd.xmp.types.basic/xmptext/getxmprepresentation/)() | Λαμβάνει την τιμή που περιέχεται στη συμβολοσειρά σε μορφή XMP. |
+| override [GetXmpRepresentation](../../aspose.psd.xmp.types.basic/xmptext/getxmprepresentation/)() | Λαμβάνει τη συμβολοσειρά που περιέχει την τιμή σε μορφή XMP. |
 
 ### Δείτε επίσης
 
 * class [XmpText](../../aspose.psd.xmp.types.basic/xmptext/)
-* χώρος ονομάτων [Aspose.PSD.Xmp.Types.Derived](../../aspose.psd.xmp.types.derived/)
-* συνέλευση [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Xmp.Types.Derived](../../aspose.psd.xmp.types.derived/)
+* assembly [Aspose.PSD](../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: LayerStateInformationResource.LayerIndex
-second_title: Aspose.PSD για Αναφορά API .NET
-description: LayerStateInformationResource ιδιοκτησία. Λαμβάνει ή ορίζει το δείκτη του επιπέδου.
+title: "LayerStateInformationResource.LayerIndex"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα LayerStateInformationResource. Λαμβάνει ή ορίζει τον δείκτη του στρώματος"
 type: docs
 weight: 30
 url: /el/net/aspose.psd.fileformats.psd.resources/layerstateinformationresource/layerindex/
 ---
+{{< psd/tize >}}
 ## LayerStateInformationResource.LayerIndex property
 
-Λαμβάνει ή ορίζει το δείκτη του επιπέδου.
+Λαμβάνει ή ορίζει το δείκτη της στρώσης.
 
 ```csharp
 public short LayerIndex { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Ο δείκτης του επιπέδου.
+Ο δείκτης του στρώματος.
 
 ### Δείτε επίσης
 
 * class [LayerStateInformationResource](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Resources](../../layerstateinformationresource/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

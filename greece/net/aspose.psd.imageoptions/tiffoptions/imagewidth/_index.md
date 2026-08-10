@@ -1,11 +1,12 @@
 ---
-title: TiffOptions.ImageWidth
-second_title: Aspose.PSD για Αναφορά API .NET
-description: TiffOptions ιδιοκτησία. Λαμβάνει ή ορίζει το πλάτος της εικόνας.
+title: "TiffOptions.ImageWidth"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα TiffOptions. Λαμβάνει ή ορίζει το πλάτος της εικόνας"
 type: docs
-weight: 210
+weight: 220
 url: /el/net/aspose.psd.imageoptions/tiffoptions/imagewidth/
 ---
+{{< psd/tize >}}
 ## TiffOptions.ImageWidth property
 
 Λαμβάνει ή ορίζει το πλάτος της εικόνας.
@@ -14,14 +15,14 @@ url: /el/net/aspose.psd.imageoptions/tiffoptions/imagewidth/
 public uint ImageWidth { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
 Το πλάτος της εικόνας.
 
 ### Δείτε επίσης
 
 * class [TiffOptions](../)
-* χώρος ονομάτων [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

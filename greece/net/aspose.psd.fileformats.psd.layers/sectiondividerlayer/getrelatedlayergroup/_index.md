@@ -1,40 +1,41 @@
 ---
-title: SectionDividerLayer.GetRelatedLayerGroup
-second_title: Aspose.PSD για Αναφορά API .NET
-description: SectionDividerLayer μέθοδος. Λαμβάνει τοLayerGroup αυτό έχει σχέση με αυτόSectionDividerLayer παράδειγμα.
+title: "SectionDividerLayer.GetRelatedLayerGroup"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Μέθοδος SectionDividerLayer. Λαμβάνει το LayerGroup που σχετίζεται με αυτήν την παρουσία SectionDividerLayer"
 type: docs
 weight: 20
 url: /el/net/aspose.psd.fileformats.psd.layers/sectiondividerlayer/getrelatedlayergroup/
 ---
+{{< psd/tize >}}
 ## SectionDividerLayer.GetRelatedLayerGroup method
 
-Λαμβάνει το[`LayerGroup`](../../layergroup/) αυτό έχει σχέση με αυτό[`SectionDividerLayer`](../) παράδειγμα.
+Λαμβάνει το [`LayerGroup`](../../layergroup/) που σχετίζεται με αυτήν την παρουσία [`SectionDividerLayer`](../).
 
 ```csharp
 public LayerGroup GetRelatedLayerGroup()
 ```
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-ο[`LayerGroup`](../../layergroup/) παράδειγμα.
+Η παρουσία του [`LayerGroup`](../../layergroup/).
 
-### Παραδείγματα
+## Παραδείγματα
 
-Ο παρακάτω κώδικας δείχνει τα επίπεδα SectionDividerLayer και τον τρόπο λήψης του LayerGroup που σχετίζονται με αυτό.
+Ο παρακάτω κώδικας δείχνει τις στρώσεις SectionDividerLayer και πώς να λάβετε τη σχετική με αυτές LayerGroup.
 
 ```csharp
 [C#]
 
-// Ο παρακάτω κώδικας δείχνει τα επίπεδα SectionDividerLayer και τον τρόπο λήψης του LayerGroup που σχετίζονται με αυτό.
+// Ο παρακάτω κώδικας δείχνει τις στρώσεις SectionDividerLayer και πώς να λάβετε τη σχετική με αυτές LayerGroup.
 
-// Ιεραρχία επιπέδων
-// [0]: '</Ομάδα επιπέδων>' SectionDividerLayer για Ομάδα 1
-// [1]: Κανονικό επίπεδο 'Layer 1'
-// [2]: '</Ομάδα επιπέδων>' SectionDividerLayer για Ομάδα 2
-// [3]: '</Ομάδα επιπέδων>' SectionDividerLayer για Ομάδα 3
-// [4]: «Group 3» GroupLayer
-// [5]: «Group 2» GroupLayer
-// [6]: «Group 1» GroupLayer
+// Ιεραρχία στρώσεων
+//    [0]: '</Layer group>' SectionDividerLayer για την Ομάδα 1
+//    [1]: 'Layer 1' Κανονική Στρώση
+//    [2]: '</Layer group>' SectionDividerLayer για την Ομάδα 2
+//    [3]: '</Layer group>' SectionDividerLayer για την Ομάδα 3
+//    [4]: 'Group 3' GroupLayer
+//    [5]: 'Group 2' GroupLayer
+//    [6]: 'Group 1' GroupLayer
 
 void AssertAreEqual(object expected, object actual, string message = null)
 {
@@ -49,7 +50,7 @@ using (var image = new PsdImage(100, 100))
     // Δημιουργία ιεραρχίας επιπέδων
     // Προσθέστε το LayerGroup 'Group 1'
     LayerGroup group1 = image.AddLayerGroup("Group 1", 0, true);
-    // Προσθήκη κανονικού επιπέδου
+    // Προσθέστε κανονικό επίπεδο
     Layer layer1 = new Layer();
     layer1.DisplayName = "Layer 1";
     group1.AddLayer(layer1);
@@ -63,13 +64,13 @@ using (var image = new PsdImage(100, 100))
     SectionDividerLayer divider2 = (SectionDividerLayer)image.Layers[2];
     SectionDividerLayer divider3 = (SectionDividerLayer)image.Layers[3];
 
-    // χρησιμοποιώντας τη μέθοδο SectionDividerLayer.GetRelatedLayerGroup(), λαμβάνει τη σχετική παρουσία LayerGroup.
-    AssertAreEqual(group1.DisplayName, divider1.GetRelatedLayerGroup().DisplayName); // το ίδιο LayerGroup
-    AssertAreEqual(group2.DisplayName, divider2.GetRelatedLayerGroup().DisplayName); // το ίδιο LayerGroup
-    AssertAreEqual(group3.DisplayName, divider3.GetRelatedLayerGroup().DisplayName); // το ίδιο LayerGroup
+    // χρησιμοποιώντας τη μέθοδο SectionDividerLayer.GetRelatedLayerGroup(), λαμβάνει το σχετικό αντικείμενο LayerGroup.
+    AssertAreEqual(group1.DisplayName, divider1.GetRelatedLayerGroup().DisplayName); // the same LayerGroup
+    AssertAreEqual(group2.DisplayName, divider2.GetRelatedLayerGroup().DisplayName); // the same LayerGroup
+    AssertAreEqual(group3.DisplayName, divider3.GetRelatedLayerGroup().DisplayName); // the same LayerGroup
 
     LayerGroup folder1 = divider1.GetRelatedLayerGroup();
-    AssertAreEqual(5, folder1.Layers.Length); // Η 'Ομάδα 1' περιέχει 5 επίπεδα
+    AssertAreEqual(5, folder1.Layers.Length); // 'Group 1' contains 5 layers
 }
 ```
 
@@ -77,7 +78,7 @@ using (var image = new PsdImage(100, 100))
 
 * class [LayerGroup](../../layergroup/)
 * class [SectionDividerLayer](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers](../../sectiondividerlayer/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

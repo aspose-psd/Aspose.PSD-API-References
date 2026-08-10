@@ -1,28 +1,29 @@
 ---
-title: AiImage.Layers
-second_title: Aspose.PSD για Αναφορά API .NET
-description: AiImage ιδιοκτησία. Λαμβάνει τις ενότητες του επιπέδου.
+title: "AiImage.Layers"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα AiImage. Λαμβάνει τις ενότητες των στρωμάτων"
 type: docs
-weight: 90
+weight: 100
 url: /el/net/aspose.psd.fileformats.ai/aiimage/layers/
 ---
+{{< psd/tize >}}
 ## AiImage.Layers property
 
-Λαμβάνει τις ενότητες του επιπέδου.
+Λαμβάνει τις ενότητες στρώματος.
 
 ```csharp
 public AiLayerSection[] Layers { get; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Τα τμήματα του στρώματος.
+Οι ενότητες των στρωμάτων.
 
 ### Δείτε επίσης
 
 * class [AiLayerSection](../../ailayersection/)
 * class [AiImage](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Ai](../../aiimage/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

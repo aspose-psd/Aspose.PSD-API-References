@@ -1,27 +1,28 @@
 ---
-title: Shape.HasSegments
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Shape ιδιοκτησία. Λαμβάνει μια τιμή που υποδεικνύει αν το σχήμα έχει τμήματα.
+title: "Shape.HasSegments"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα Shape. Επιστρέφει μια τιμή που υποδεικνύει αν το σχήμα έχει τμήματα"
 type: docs
 weight: 20
 url: /el/net/aspose.psd/shape/hassegments/
 ---
+{{< psd/tize >}}
 ## Shape.HasSegments property
 
-Λαμβάνει μια τιμή που υποδεικνύει αν το σχήμα έχει τμήματα.
+Λαμβάνει μια τιμή που υποδεικνύει εάν το σχήμα έχει τμήματα.
 
 ```csharp
 public abstract bool HasSegments { get; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-`Αληθής` αν το σχήμα έχει τμήματα? σε διαφορετική περίπτωση,`ψευδής` .
+`True` εάν το σχήμα έχει τμήματα· διαφορετικά, `false`.
 
 ### Δείτε επίσης
 
 * class [Shape](../)
-* χώρος ονομάτων [Aspose.PSD](../../shape/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

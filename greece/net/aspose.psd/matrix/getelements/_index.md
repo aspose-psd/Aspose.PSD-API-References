@@ -1,27 +1,28 @@
 ---
-title: Matrix.GetElements
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Matrix μέθοδος. Λαμβάνει το αντίγραφο των στοιχείων πίνακα.
+title: "Matrix.GetElements"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Μέθοδος Matrix. Λαμβάνει το αντίγραφο των στοιχείων του πίνακα"
 type: docs
 weight: 100
 url: /el/net/aspose.psd/matrix/getelements/
 ---
+{{< psd/tize >}}
 ## Matrix.GetElements method
 
-Λαμβάνει το αντίγραφο των στοιχείων πίνακα.
+Λαμβάνει το αντίγραφο των στοιχείων της μήτρας.
 
 ```csharp
 public float[] GetElements()
 ```
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-Αντιγραφή στοιχείων μήτρας.
+Ένα αντίγραφο των στοιχείων του πίνακα.
 
 ### Δείτε επίσης
 
 * class [Matrix](../)
-* χώρος ονομάτων [Aspose.PSD](../../matrix/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

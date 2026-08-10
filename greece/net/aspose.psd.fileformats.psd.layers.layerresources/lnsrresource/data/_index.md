@@ -1,27 +1,28 @@
 ---
-title: LnsrResource.Data
-second_title: Aspose.PSD για Αναφορά API .NET
-description: LnsrResource ιδιοκτησία. Λαμβάνει τα πρωτογενή δεδομένα.
+title: "LnsrResource.Data"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα LnsrResource. Επιστρέφει τα ακατέργαστα δεδομένα"
 type: docs
 weight: 20
 url: /el/net/aspose.psd.fileformats.psd.layers.layerresources/lnsrresource/data/
 ---
+{{< psd/tize >}}
 ## LnsrResource.Data property
 
-Λαμβάνει τα πρωτογενή δεδομένα.
+Λαμβάνει τα ακατέργαστα δεδομένα.
 
 ```csharp
 public byte[] Data { get; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
 Τα δεδομένα.
 
 ### Δείτε επίσης
 
 * class [LnsrResource](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../lnsrresource/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

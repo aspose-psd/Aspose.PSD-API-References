@@ -1,14 +1,15 @@
 ---
-title: PhflResourceVersion2.Key
-second_title: Aspose.PSD για Αναφορά API .NET
-description: PhflResourceVersion2 ιδιοκτησία. Λαμβάνει το κλειδί πόρων επιπέδου.
+title: "PhflResourceVersion2.Key"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα PhflResourceVersion2. Παίρνει το κλειδί του πόρου στρώσης"
 type: docs
 weight: 60
 url: /el/net/aspose.psd.fileformats.psd.layers.layerresources/phflresourceversion2/key/
 ---
+{{< psd/tize >}}
 ## PhflResourceVersion2.Key property
 
-Λαμβάνει το κλειδί πόρων επιπέδου.
+Λαμβάνει το κλειδί πόρου του επιπέδου.
 
 ```csharp
 public override int Key { get; }
@@ -17,7 +18,7 @@ public override int Key { get; }
 ### Δείτε επίσης
 
 * class [PhflResourceVersion2](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../phflresourceversion2/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

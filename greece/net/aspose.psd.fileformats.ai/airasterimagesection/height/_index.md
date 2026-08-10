@@ -1,27 +1,28 @@
 ---
-title: AiRasterImageSection.Height
-second_title: Aspose.PSD για Αναφορά API .NET
-description: AiRasterImageSection ιδιοκτησία. Παίρνει το ύψος.
+title: "AiRasterImageSection.Height"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα AiRasterImageSection. Λαμβάνει το ύψος"
 type: docs
 weight: 20
 url: /el/net/aspose.psd.fileformats.ai/airasterimagesection/height/
 ---
+{{< psd/tize >}}
 ## AiRasterImageSection.Height property
 
-Παίρνει το ύψος.
+Λαμβάνει το ύψος.
 
 ```csharp
 public double Height { get; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
 Το ύψος.
 
 ### Δείτε επίσης
 
 * class [AiRasterImageSection](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Ai](../../airasterimagesection/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

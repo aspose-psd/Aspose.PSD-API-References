@@ -1,14 +1,15 @@
 ---
-title: PattResource.PattResource
-second_title: Aspose.PSD για Αναφορά API .NET
-description: PattResource κατασκευαστής. Αρχικοποιεί μια νέα παρουσία τουPattResource τάξη.
+title: "PattResource.PattResource"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "PattResource κατασκευαστής. Αρχικοποιεί μια νέα παρουσία της κλάσης PattResource"
 type: docs
 weight: 10
 url: /el/net/aspose.psd.fileformats.psd.layers.layerresources/pattresource/pattresource/
 ---
+{{< psd/tize >}}
 ## PattResource() {#constructor}
 
-Αρχικοποιεί μια νέα παρουσία του[`PattResource`](../) τάξη.
+Αρχικοποιεί μια νέα παρουσία της κλάσης [`PattResource`](../).
 
 ```csharp
 public PattResource()
@@ -17,14 +18,14 @@ public PattResource()
 ### Δείτε επίσης
 
 * class [PattResource](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../pattresource/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## PattResource(int, PattResourceData[]) {#constructor_1}
 
-Αρχικοποιεί μια νέα παρουσία του[`PattResource`](../) τάξη.
+Αρχικοποιεί μια νέα παρουσία της κλάσης [`PattResource`](../).
 
 ```csharp
 public PattResource(int key, PattResourceData[] patterns)
@@ -32,14 +33,14 @@ public PattResource(int key, PattResourceData[] patterns)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| key | Int32 | Το κλειδί τύπου πόρου. |
-| patterns | PattResourceData[] | Τα δεδομένα των μοτίβων. |
+| κλειδί | Int32 | Το κλειδί τύπου πόρου. |
+| μοτίβα | PattResourceData[] | Τα δεδομένα μοτίβων. |
 
 ### Δείτε επίσης
 
 * class [PattResourceData](../../pattresourcedata/)
 * class [PattResource](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../pattresource/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

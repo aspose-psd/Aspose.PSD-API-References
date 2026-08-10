@@ -1,27 +1,28 @@
 ---
-title: ExifData.GPSLatitudeRef
-second_title: Aspose.PSD για Αναφορά API .NET
-description: ExifData ιδιοκτησία. Λαμβάνει ή ρυθμίζει το γεωγραφικό πλάτος GPS να είναι βόρειο ή νότιο γεωγραφικό πλάτος.
+title: "ExifData.GPSLatitudeRef"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα ExifData. Λαμβάνει ή ορίζει τη GPS latitude είναι βόρεια ή νότια"
 type: docs
 weight: 530
 url: /el/net/aspose.psd.exif/exifdata/gpslatituderef/
 ---
+{{< psd/tize >}}
 ## ExifData.GPSLatitudeRef property
 
-Λαμβάνει ή ρυθμίζει το γεωγραφικό πλάτος GPS να είναι βόρειο ή νότιο γεωγραφικό πλάτος.
+Λαμβάνει ή ορίζει αν το γεωγραφικό πλάτος GPS είναι βόρειο ή νότιο.
 
 ```csharp
 public string GPSLatitudeRef { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Το γεωγραφικό πλάτος GPS είναι βόρειο ή νότιο γεωγραφικό πλάτος.
+Η GPS latitude είναι βόρεια ή νότια.
 
 ### Δείτε επίσης
 
 * class [ExifData](../)
-* χώρος ονομάτων [Aspose.PSD.Exif](../../exifdata/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

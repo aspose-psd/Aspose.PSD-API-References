@@ -1,28 +1,29 @@
 ---
-title: PolygonShape.Points
-second_title: Aspose.PSD για Αναφορά API .NET
-description: PolygonShape ιδιοκτησία. Λαμβάνει ή ορίζει τα σημεία καμπύλης.
+title: "PolygonShape.Points"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα PolygonShape. Λαμβάνει ή ορίζει τα σημεία της καμπύλης"
 type: docs
 weight: 70
 url: /el/net/aspose.psd.shapes/polygonshape/points/
 ---
+{{< psd/tize >}}
 ## PolygonShape.Points property
 
-Λαμβάνει ή ορίζει τα σημεία καμπύλης.
+Λαμβάνει ή ορίζει τα σημεία της καμπύλης.
 
 ```csharp
 public PointF[] Points { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Τα σημεία καμπύλης.
+Τα σημεία της καμπύλης.
 
 ### Δείτε επίσης
 
 * struct [PointF](../../../aspose.psd/pointf/)
 * class [PolygonShape](../)
-* χώρος ονομάτων [Aspose.PSD.Shapes](../../polygonshape/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: PsdImage.BitsPerChannel
-second_title: Aspose.PSD για Αναφορά API .NET
-description: PsdImage ιδιοκτησία. Λαμβάνει τα bit ανά κανάλι.
+title: "PsdImage.BitsPerChannel"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα PsdImage. Λαμβάνει τα bits ανά κανάλι"
 type: docs
 weight: 30
 url: /el/net/aspose.psd.fileformats.psd/psdimage/bitsperchannel/
 ---
+{{< psd/tize >}}
 ## PsdImage.BitsPerChannel property
 
-Λαμβάνει τα bit ανά κανάλι.
+Λαμβάνει τα bits ανά κανάλι.
 
 ```csharp
 public int BitsPerChannel { get; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Τα bit ανά κανάλι.
+Τα bits ανά κανάλι.
 
 ### Δείτε επίσης
 
 * class [PsdImage](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

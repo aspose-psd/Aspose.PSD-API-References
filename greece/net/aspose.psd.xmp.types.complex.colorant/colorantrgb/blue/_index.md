@@ -1,27 +1,28 @@
 ---
-title: ColorantRgb.Blue
-second_title: Aspose.PSD για Αναφορά API .NET
-description: ColorantRgb ιδιοκτησία. Λαμβάνει ή ορίζει την τιμή του μπλε στοιχείου.
+title: "ColorantRgb.Blue"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα ColorantRgb. Λαμβάνει ή ορίζει την τιμή του συστατικού μπλε"
 type: docs
 weight: 20
 url: /el/net/aspose.psd.xmp.types.complex.colorant/colorantrgb/blue/
 ---
+{{< psd/tize >}}
 ## ColorantRgb.Blue property
 
-Λαμβάνει ή ορίζει την τιμή του μπλε στοιχείου.
+Λαμβάνει ή ορίζει την τιμή του στοιχείου μπλε.
 
 ```csharp
 public byte Blue { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Η τιμή του μπλε στοιχείου.
+Η τιμή του συστατικού μπλε.
 
 ### Δείτε επίσης
 
 * class [ColorantRgb](../)
-* χώρος ονομάτων [Aspose.PSD.Xmp.Types.Complex.Colorant](../../colorantrgb/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.Colorant](../../../aspose.psd.xmp.types.complex.colorant/)
+* assembly [Aspose.PSD](../../../)
 
 

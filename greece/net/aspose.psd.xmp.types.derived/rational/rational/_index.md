@@ -1,14 +1,15 @@
 ---
-title: Rational.Rational
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Rational κατασκευαστής. Αρχικοποιεί μια νέα παρουσία τουRational τάξη.
+title: "Rational.Rational"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Κατασκευαστής Rational. Αρχικοποιεί ένα νέο αντικείμενο της κλάσης Rational"
 type: docs
 weight: 10
 url: /el/net/aspose.psd.xmp.types.derived/rational/rational/
 ---
+{{< psd/tize >}}
 ## Rational constructor
 
-Αρχικοποιεί μια νέα παρουσία του[`Rational`](../) τάξη.
+Αρχικοποιεί ένα νέο αντικείμενο της κλάσης [`Rational`](../).
 
 ```csharp
 public Rational(int numerator, int denominator)
@@ -16,19 +17,19 @@ public Rational(int numerator, int denominator)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| numerator | Int32 | Ο αριθμητής. |
+| αριθμητής | Int32 | Ο αριθμητής. |
 | denominator | Int32 | Ο παρονομαστής. |
 
 ### Εξαιρέσεις
 
-| εξαίρεση | κατάσταση |
+| εξαίρεση | συνθήκη |
 | --- | --- |
-| ArgumentOutOfRangeException | αριθμητής; Ο αριθμητής πρέπει να είναι στο τρίφτη μηδέν. ή παρονομαστής; Ο παρονομαστής πρέπει να είναι τρίφτης μηδέν. |
+| ArgumentOutOfRangeException | αριθμητής;Ο αριθμητής πρέπει να είναι μεγαλύτερος του μηδενός. ή παρονομαστής;Ο παρονομαστής πρέπει να είναι μεγαλύτερος του μηδενός. |
 
 ### Δείτε επίσης
 
 * class [Rational](../)
-* χώρος ονομάτων [Aspose.PSD.Xmp.Types.Derived](../../rational/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Derived](../../../aspose.psd.xmp.types.derived/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: CurvesContinuousManager.GetCurvePointByIndex
-second_title: Aspose.PSD για Αναφορά API .NET
-description: CurvesContinuousManager μέθοδος. Λαμβάνει το σημείο της καμπύλης κατά δείκτη.
+title: "CurvesContinuousManager.GetCurvePointByIndex"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Μέθοδος CurvesContinuousManager. Λαμβάνει το σημείο της καμπύλης με βάση το δείκτη"
 type: docs
 weight: 30
 url: /el/net/aspose.psd.fileformats.psd.layers.layerresources/curvescontinuousmanager/getcurvepointbyindex/
 ---
+{{< psd/tize >}}
 ## CurvesContinuousManager.GetCurvePointByIndex method
 
-Λαμβάνει το σημείο της καμπύλης κατά δείκτη.
+Ανακτά το σημείο της καμπύλης κατά δείκτη.
 
 ```csharp
 public Point GetCurvePointByIndex(int channelIndex, int pointIndex)
@@ -16,18 +17,18 @@ public Point GetCurvePointByIndex(int channelIndex, int pointIndex)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| channelIndex | Int32 | Ευρετήριο του καναλιού. |
-| pointIndex | Int32 | Ευρετήριο του σημείου. |
+| channelIndex | Int32 | Δείκτης του καναλιού. |
+| pointIndex | Int32 | Δείκτης του σημείου. |
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-Σημείο καμπύλης ανά δείκτη καναλιού
+Σημείο καμπύλης με δείκτη καναλιού
 
 ### Δείτε επίσης
 
 * struct [Point](../../../aspose.psd/point/)
 * class [CurvesContinuousManager](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../curvescontinuousmanager/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

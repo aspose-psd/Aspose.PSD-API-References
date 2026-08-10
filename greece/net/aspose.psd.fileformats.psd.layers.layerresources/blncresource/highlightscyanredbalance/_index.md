@@ -1,27 +1,28 @@
 ---
-title: BlncResource.HighlightsCyanRedBalance
-second_title: Aspose.PSD για Αναφορά API .NET
-description: BlncResource ιδιοκτησία. Λαμβάνει ή ορίζει το κυανό κόκκινο ισορροπία.
+title: "BlncResource.HighlightsCyanRedBalance"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "BlncResource ιδιότητα. Λαμβάνει ή ορίζει το Highlights Cyan Red Balance"
 type: docs
 weight: 20
 url: /el/net/aspose.psd.fileformats.psd.layers.layerresources/blncresource/highlightscyanredbalance/
 ---
+{{< psd/tize >}}
 ## BlncResource.HighlightsCyanRedBalance property
 
-Λαμβάνει ή ορίζει το κυανό κόκκινο ισορροπία.
+Λαμβάνει ή ορίζει το Highlights Cyan Red Balance.
 
 ```csharp
 public short HighlightsCyanRedBalance { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Τα κυριότερα σημεία Κυανό κόκκινο ισορροπία.
+Το Highlights Cyan Red Balance.
 
 ### Δείτε επίσης
 
 * class [BlncResource](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../blncresource/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

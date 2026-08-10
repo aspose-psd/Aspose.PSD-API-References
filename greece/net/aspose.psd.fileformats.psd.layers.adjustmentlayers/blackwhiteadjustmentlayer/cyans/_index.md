@@ -1,26 +1,27 @@
 ---
-title: BlackWhiteAdjustmentLayer.Cyans
-second_title: Aspose.PSD για Αναφορά API .NET
-description: BlackWhiteAdjustmentLayer ιδιοκτησία. Λαμβάνει ή ορίζει την τιμή κυανών.
+title: "BlackWhiteAdjustmentLayer.Cyans"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "BlackWhiteAdjustmentLayer ιδιότητα. Λαμβάνει ή ορίζει την τιμή των κυανών"
 type: docs
 weight: 40
 url: /el/net/aspose.psd.fileformats.psd.layers.adjustmentlayers/blackwhiteadjustmentlayer/cyans/
 ---
+{{< psd/tize >}}
 ## BlackWhiteAdjustmentLayer.Cyans property
 
-Λαμβάνει ή ορίζει την τιμή κυανών.
+Λαμβάνει ή ορίζει την τιμή των κυανών.
 
 ```csharp
 public int Cyans { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
 Η τιμή των κυανών.
 
-### Παραδείγματα
+## Παραδείγματα
 
-Το ακόλουθο παράδειγμα δείχνει πώς μπορείτε να προσθέσετε το στρώμα προσαρμογής μαύρου λευκού κατά το χρόνο εκτέλεσης στο Aspose.PSD
+Το παρακάτω παράδειγμα δείχνει πώς μπορείτε να προσθέσετε το black white adjustment layer κατά την εκτέλεση στο Aspose.PSD
 
 ```csharp
 [C#]
@@ -42,7 +43,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFileName))
 }
 ```
 
-Το ακόλουθο παράδειγμα δείχνει πώς μπορείτε να χειριστείτε τις ιδιότητες του επιπέδου προσαρμογής μαύρου λευκού στο Aspose.PSD
+Το παρακάτω παράδειγμα δείχνει πώς μπορείτε να διαχειριστείτε τις ιδιότητες του στρώματος ρυθμίσεων ασπρόμαυρου στο Aspose.PSD
 
 ```csharp
 [C#]
@@ -73,7 +74,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFileName))
 ### Δείτε επίσης
 
 * class [BlackWhiteAdjustmentLayer](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../blackwhiteadjustmentlayer/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/)
+* assembly [Aspose.PSD](../../../)
 
 

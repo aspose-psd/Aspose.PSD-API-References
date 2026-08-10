@@ -1,11 +1,12 @@
 ---
-title: TextShape.Font
-second_title: Aspose.PSD για Αναφορά API .NET
-description: TextShape ιδιοκτησία. Λαμβάνει ή ορίζει τη γραμματοσειρά που χρησιμοποιείται για τη σχεδίαση του κειμένου.
+title: "TextShape.Font"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα TextShape. Λαμβάνει ή ορίζει τη γραμματοσειρά που χρησιμοποιείται για τη σχεδίαση του κειμένου"
 type: docs
 weight: 40
 url: /el/net/aspose.psd.shapes/textshape/font/
 ---
+{{< psd/tize >}}
 ## TextShape.Font property
 
 Λαμβάνει ή ορίζει τη γραμματοσειρά που χρησιμοποιείται για τη σχεδίαση του κειμένου.
@@ -14,15 +15,15 @@ url: /el/net/aspose.psd.shapes/textshape/font/
 public Font Font { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Η γραμματοσειρά που χρησιμοποιήθηκε για τη σχεδίαση του κειμένου.
+Η γραμματοσειρά που χρησιμοποιείται για τη σχεδίαση του κειμένου.
 
 ### Δείτε επίσης
 
 * class [Font](../../../aspose.psd/font/)
 * class [TextShape](../)
-* χώρος ονομάτων [Aspose.PSD.Shapes](../../textshape/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 

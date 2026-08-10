@@ -1,20 +1,21 @@
 ---
-title: TextLayer.Font
-second_title: Aspose.PSD για Αναφορά API .NET
-description: TextLayer ιδιοκτησία. Παίρνει τη γραμματοσειρά.
+title: "TextLayer.Font"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα TextLayer. Επιστρέφει τη γραμματοσειρά"
 type: docs
 weight: 10
 url: /el/net/aspose.psd.fileformats.psd.layers/textlayer/font/
 ---
+{{< psd/tize >}}
 ## TextLayer.Font property
 
-Παίρνει τη γραμματοσειρά.
+Λαμβάνει τη γραμματοσειρά.
 
 ```csharp
 public Font Font { get; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
 Η γραμματοσειρά.
 
@@ -22,7 +23,7 @@ public Font Font { get; }
 
 * class [Font](../../../aspose.psd/font/)
 * class [TextLayer](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers](../../textlayer/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

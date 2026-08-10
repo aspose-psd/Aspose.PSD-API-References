@@ -1,11 +1,12 @@
 ---
-title: TiffOptions.SampleFormat
-second_title: Aspose.PSD για Αναφορά API .NET
-description: TiffOptions ιδιοκτησία. Λαμβάνει ή ορίζει τη μορφή δείγματος.
+title: "TiffOptions.SampleFormat"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "TiffOptions ιδιότητα. Λαμβάνει ή ορίζει τη μορφή δείγματος"
 type: docs
-weight: 390
+weight: 400
 url: /el/net/aspose.psd.imageoptions/tiffoptions/sampleformat/
 ---
+{{< psd/tize >}}
 ## TiffOptions.SampleFormat property
 
 Λαμβάνει ή ορίζει τη μορφή δείγματος.
@@ -14,22 +15,22 @@ url: /el/net/aspose.psd.imageoptions/tiffoptions/sampleformat/
 public TiffSampleFormats[] SampleFormat { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Η μορφή του δείγματος.
+Η μορφή δείγματος.
 
 ### Εξαιρέσεις
 
-| εξαίρεση | κατάσταση |
+| εξαίρεση | συνθήκη |
 | --- | --- |
-| ArgumentNullException | αξία |
-| ArgumentOutOfRangeException | τιμή; Το μήκος του πίνακα πρέπει να αντιστοιχεί στα δείγματα ανά πλήθος εικονοστοιχείων. |
+| ArgumentNullException | τιμή |
+| ArgumentOutOfRangeException | value;Το μήκος του πίνακα πρέπει να αντιστοιχεί στον αριθμό δειγμάτων ανά εικονοστοιχείο. |
 
 ### Δείτε επίσης
 
 * enum [TiffSampleFormats](../../../aspose.psd.fileformats.tiff.enums/tiffsampleformats/)
 * class [TiffOptions](../)
-* χώρος ονομάτων [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

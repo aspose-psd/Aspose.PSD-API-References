@@ -1,20 +1,21 @@
 ---
-title: Layer.BlendingOptions
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Layer ιδιοκτησία. Λαμβάνει τις επιλογές ανάμειξης.
+title: "Layer.BlendingOptions"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα Layer. Λαμβάνει τις επιλογές ανάμειξης"
 type: docs
-weight: 30
+weight: 40
 url: /el/net/aspose.psd.fileformats.psd.layers/layer/blendingoptions/
 ---
+{{< psd/tize >}}
 ## Layer.BlendingOptions property
 
-Λαμβάνει τις επιλογές ανάμειξης.
+Λαμβάνει τις επιλογές συγχώνευσης.
 
 ```csharp
 public BlendingOptions BlendingOptions { get; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
 Οι επιλογές ανάμειξης.
 
@@ -22,7 +23,7 @@ public BlendingOptions BlendingOptions { get; }
 
 * class [BlendingOptions](../../../aspose.psd.fileformats.psd.layers.layereffects/blendingoptions/)
 * class [Layer](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers](../../layer/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

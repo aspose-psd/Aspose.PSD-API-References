@@ -1,11 +1,12 @@
 ---
-title: XmpBasicPackage.RatingMax
-second_title: Aspose.PSD για Αναφορά API .NET
-description: XmpBasicPackage πεδίο. Μέγιστη τιμή αξιολόγησης.
+title: "XmpBasicPackage.RatingMax"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "XmpBasicPackage πεδίο. Μέγιστη τιμή αξιολόγησης"
 type: docs
-weight: 100
+weight: 130
 url: /el/net/aspose.psd.xmp.schemas.xmpbaseschema/xmpbasicpackage/ratingmax/
 ---
+{{< psd/tize >}}
 ## XmpBasicPackage.RatingMax field
 
 Μέγιστη τιμή αξιολόγησης.
@@ -17,7 +18,7 @@ public const int RatingMax;
 ### Δείτε επίσης
 
 * class [XmpBasicPackage](../)
-* χώρος ονομάτων [Aspose.PSD.Xmp.Schemas.XmpBaseSchema](../../xmpbasicpackage/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpBaseSchema](../../../aspose.psd.xmp.schemas.xmpbaseschema/)
+* assembly [Aspose.PSD](../../../)
 
 

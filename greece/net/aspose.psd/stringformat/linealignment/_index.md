@@ -1,28 +1,29 @@
 ---
-title: StringFormat.LineAlignment
-second_title: Aspose.PSD για Αναφορά API .NET
-description: StringFormat ιδιοκτησία. Λαμβάνει ή ορίζει τη στοίχιση γραμμής στο οριζόντιο επίπεδο.
+title: "StringFormat.LineAlignment"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα StringFormat. Παίρνει ή ορίζει την ευθυγράμμιση γραμμής στον οριζόντιο άξονα"
 type: docs
-weight: 100
+weight: 110
 url: /el/net/aspose.psd/stringformat/linealignment/
 ---
+{{< psd/tize >}}
 ## StringFormat.LineAlignment property
 
-Λαμβάνει ή ορίζει τη στοίχιση γραμμής στο οριζόντιο επίπεδο.
+Λαμβάνει ή ορίζει τη στοίχιση γραμμής στον οριζόντιο άξονα.
 
 ```csharp
 public StringAlignment LineAlignment { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-ΕΝΑ[`StringAlignment`](../../stringalignment/) απαρίθμηση που αντιπροσωπεύει τη στοίχιση γραμμής.
+Μια απαρίθμηση [`StringAlignment`](../../stringalignment/) που αντιπροσωπεύει την ευθυγράμμιση γραμμής.
 
 ### Δείτε επίσης
 
 * enum [StringAlignment](../../stringalignment/)
 * class [StringFormat](../)
-* χώρος ονομάτων [Aspose.PSD](../../stringformat/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

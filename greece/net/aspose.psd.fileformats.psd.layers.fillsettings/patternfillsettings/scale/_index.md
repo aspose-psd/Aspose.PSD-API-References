@@ -1,26 +1,27 @@
 ---
-title: PatternFillSettings.Scale
-second_title: Aspose.PSD για Αναφορά API .NET
-description: PatternFillSettings ιδιοκτησία. Παίρνει ή ρυθμίζει την κλίμακα.
+title: "PatternFillSettings.Scale"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "PatternFillSettings ιδιότητα. Λαμβάνει ή ορίζει την κλίμακα"
 type: docs
-weight: 120
+weight: 140
 url: /el/net/aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings/scale/
 ---
+{{< psd/tize >}}
 ## PatternFillSettings.Scale property
 
-Παίρνει ή ρυθμίζει την κλίμακα.
+Λαμβάνει ή ορίζει την κλίμακα.
 
 ```csharp
 public double Scale { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
 Η κλίμακα.
 
-### Παραδείγματα
+## Παραδείγματα
 
-Ο ακόλουθος κώδικας δείχνει την υποστήριξη της επεξεργασίας του μοτίβου στρώματος γεμίσματος.
+Ο παρακάτω κώδικας δείχνει την υποστήριξη της επεξεργασίας του μοτίβου στρώσης γεμίσματος.
 
 ```csharp
 [C#]
@@ -78,7 +79,7 @@ using (im)
 ### Δείτε επίσης
 
 * class [PatternFillSettings](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../patternfillsettings/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../../)
 
 

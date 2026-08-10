@@ -1,11 +1,12 @@
 ---
-title: JFIFData.YDensity
-second_title: Aspose.PSD για Αναφορά API .NET
-description: JFIFData ιδιοκτησία. Λαμβάνει ή ορίζει την πυκνότητα y.
+title: "JFIFData.YDensity"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα JFIFData. Λαμβάνει ή ορίζει την πυκνότητα y"
 type: docs
 weight: 60
 url: /el/net/aspose.psd.fileformats.jpeg/jfifdata/ydensity/
 ---
+{{< psd/tize >}}
 ## JFIFData.YDensity property
 
 Λαμβάνει ή ορίζει την πυκνότητα y.
@@ -17,7 +18,7 @@ public short YDensity { get; set; }
 ### Δείτε επίσης
 
 * class [JFIFData](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Jpeg](../../jfifdata/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Jpeg](../../../aspose.psd.fileformats.jpeg/)
+* assembly [Aspose.PSD](../../../)
 
 

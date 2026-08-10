@@ -1,27 +1,28 @@
 ---
-title: PixelDataFormat.GetHashCode
-second_title: Aspose.PSD για Αναφορά API .NET
-description: PixelDataFormat μέθοδος. Επιστρέφει έναν κωδικό κατακερματισμού για αυτήν την εμφάνιση.
+title: "PixelDataFormat.GetHashCode"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "PixelDataFormat μέθοδος. Επιστρέφει έναν κωδικό κατακερματισμού για αυτήν την παρουσία"
 type: docs
 weight: 360
 url: /el/net/aspose.psd/pixeldataformat/gethashcode/
 ---
+{{< psd/tize >}}
 ## PixelDataFormat.GetHashCode method
 
-Επιστρέφει έναν κωδικό κατακερματισμού για αυτήν την εμφάνιση.
+Επιστρέφει έναν κωδικό hash για αυτήν την παρουσία.
 
 ```csharp
 public override int GetHashCode()
 ```
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-Ένας κωδικός κατακερματισμού για αυτήν την περίπτωση, κατάλληλος για χρήση σε αλγόριθμους κατακερματισμού και δομές δεδομένων όπως ένας πίνακας κατακερματισμού.
+Ένας κωδικός κατακερματισμού για αυτήν την παρουσία, κατάλληλος για χρήση σε αλγόριθμους κατακερματισμού και δομές δεδομένων όπως ένας πίνακας κατακερματισμού.
 
 ### Δείτε επίσης
 
 * class [PixelDataFormat](../)
-* χώρος ονομάτων [Aspose.PSD](../../pixeldataformat/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

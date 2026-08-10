@@ -1,27 +1,28 @@
 ---
-title: StringFormat.GenericTypographic
-second_title: Aspose.PSD για Αναφορά API .NET
-description: StringFormat ιδιοκτησία. Λαμβάνει ένα γενικό τυπογραφικόStringFormat αντικείμενο.
+title: "StringFormat.GenericTypographic"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα StringFormat. Επιστρέφει ένα γενικό τυπογραφικό αντικείμενο StringFormat"
 type: docs
 weight: 30
 url: /el/net/aspose.psd/stringformat/generictypographic/
 ---
+{{< psd/tize >}}
 ## StringFormat.GenericTypographic property
 
-Λαμβάνει ένα γενικό τυπογραφικό[`StringFormat`](../) αντικείμενο.
+Επιστρέφει ένα γενικό τυπογραφικό αντικείμενο [`StringFormat`](../).
 
 ```csharp
 public static StringFormat GenericTypographic { get; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Ένα γενικό τυπογραφικό[`StringFormat`](../) αντικείμενο.
+Ένα γενικό τυπογραφικό αντικείμενο [`StringFormat`](../).
 
 ### Δείτε επίσης
 
 * class [StringFormat](../)
-* χώρος ονομάτων [Aspose.PSD](../../stringformat/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

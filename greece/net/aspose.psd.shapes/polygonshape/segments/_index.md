@@ -1,28 +1,29 @@
 ---
-title: PolygonShape.Segments
-second_title: Aspose.PSD για Αναφορά API .NET
-description: PolygonShape ιδιοκτησία. Παίρνει τα τμήματα σχήματος.
+title: "PolygonShape.Segments"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα PolygonShape. Λαμβάνει τα τμήματα του σχήματος"
 type: docs
 weight: 80
 url: /el/net/aspose.psd.shapes/polygonshape/segments/
 ---
+{{< psd/tize >}}
 ## PolygonShape.Segments property
 
-Παίρνει τα τμήματα σχήματος.
+Λαμβάνει τα τμήματα του σχήματος.
 
 ```csharp
 public override ShapeSegment[] Segments { get; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Τα τμήματα σχήματος.
+Τα τμήματα του σχήματος.
 
 ### Δείτε επίσης
 
 * class [ShapeSegment](../../../aspose.psd/shapesegment/)
 * class [PolygonShape](../)
-* χώρος ονομάτων [Aspose.PSD.Shapes](../../polygonshape/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 

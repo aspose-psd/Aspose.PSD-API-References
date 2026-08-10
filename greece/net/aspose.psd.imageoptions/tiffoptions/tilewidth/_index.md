@@ -1,14 +1,15 @@
 ---
-title: TiffOptions.TileWidth
-second_title: Aspose.PSD για Αναφορά API .NET
-description: TiffOptions ιδιοκτησία. Λαμβάνει ot ορίζει το πλάτος πλακιδίων.
+title: "TiffOptions.TileWidth"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "TiffOptions ιδιότητα. Λαμβάνει ή ορίζει το πλάτος πλακιδίου"
 type: docs
-weight: 550
+weight: 560
 url: /el/net/aspose.psd.imageoptions/tiffoptions/tilewidth/
 ---
+{{< psd/tize >}}
 ## TiffOptions.TileWidth property
 
-Λαμβάνει ot ορίζει το πλάτος πλακιδίων.
+Λαμβάνει ot ορίζει το πλάτος του πλακιδίου.
 
 ```csharp
 public uint TileWidth { get; set; }
@@ -17,7 +18,7 @@ public uint TileWidth { get; set; }
 ### Δείτε επίσης
 
 * class [TiffOptions](../)
-* χώρος ονομάτων [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

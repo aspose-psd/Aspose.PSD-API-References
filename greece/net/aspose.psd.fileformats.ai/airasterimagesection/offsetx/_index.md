@@ -1,27 +1,28 @@
 ---
-title: AiRasterImageSection.OffsetX
-second_title: Aspose.PSD για Αναφορά API .NET
-description: AiRasterImageSection ιδιοκτησία. Παίρνει τη μετατόπιση Χ.
+title: "AiRasterImageSection.OffsetX"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα AiRasterImageSection. Λαμβάνει την μετατόπιση X"
 type: docs
 weight: 60
 url: /el/net/aspose.psd.fileformats.ai/airasterimagesection/offsetx/
 ---
+{{< psd/tize >}}
 ## AiRasterImageSection.OffsetX property
 
-Παίρνει τη μετατόπιση Χ.
+Λαμβάνει την μετατόπιση X.
 
 ```csharp
 public double OffsetX { get; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Το offset X.
+Η μετατόπιση X.
 
 ### Δείτε επίσης
 
 * class [AiRasterImageSection](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Ai](../../airasterimagesection/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

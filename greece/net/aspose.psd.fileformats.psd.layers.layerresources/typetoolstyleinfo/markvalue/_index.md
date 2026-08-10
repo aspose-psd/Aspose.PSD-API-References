@@ -1,27 +1,28 @@
 ---
-title: TypeToolStyleInfo.MarkValue
-second_title: Aspose.PSD για Αναφορά API .NET
-description: TypeToolStyleInfo ιδιοκτησία. Λαμβάνει ή ορίζει την τιμή σήμανσης.
+title: "TypeToolStyleInfo.MarkValue"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα TypeToolStyleInfo. Λαμβάνει ή ορίζει την τιμή του mark"
 type: docs
 weight: 70
 url: /el/net/aspose.psd.fileformats.psd.layers.layerresources/typetoolstyleinfo/markvalue/
 ---
+{{< psd/tize >}}
 ## TypeToolStyleInfo.MarkValue property
 
-Λαμβάνει ή ορίζει την τιμή σήμανσης.
+Λαμβάνει ή ορίζει την τιμή σήματος.
 
 ```csharp
 public short MarkValue { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Η τιμή σήμανσης.
+Η τιμή του mark.
 
 ### Δείτε επίσης
 
 * class [TypeToolStyleInfo](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../typetoolstyleinfo/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

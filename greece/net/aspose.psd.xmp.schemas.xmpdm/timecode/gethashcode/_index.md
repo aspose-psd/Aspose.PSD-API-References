@@ -1,27 +1,28 @@
 ---
-title: Timecode.GetHashCode
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Timecode μέθοδος. Επιστρέφει έναν κωδικό κατακερματισμού για αυτήν την εμφάνιση.
+title: "Timecode.GetHashCode"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Μέθοδος Timecode. Επιστρέφει έναν κωδικό κατακερματισμού για αυτήν την παρουσία"
 type: docs
 weight: 50
 url: /el/net/aspose.psd.xmp.schemas.xmpdm/timecode/gethashcode/
 ---
+{{< psd/tize >}}
 ## Timecode.GetHashCode method
 
-Επιστρέφει έναν κωδικό κατακερματισμού για αυτήν την εμφάνιση.
+Επιστρέφει έναν κωδικό hash για αυτήν την παρουσία.
 
 ```csharp
 public override int GetHashCode()
 ```
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-Ένας κωδικός κατακερματισμού για αυτήν την περίπτωση, κατάλληλος για χρήση σε αλγόριθμους κατακερματισμού και δομές δεδομένων όπως ένας πίνακας κατακερματισμού.
+Ένας κωδικός κατακερματισμού για αυτήν την παρουσία, κατάλληλος για χρήση σε αλγόριθμους κατακερματισμού και δομές δεδομένων όπως ένας πίνακας κατακερματισμού.
 
 ### Δείτε επίσης
 
 * class [Timecode](../)
-* χώρος ονομάτων [Aspose.PSD.Xmp.Schemas.XmpDm](../../timecode/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpDm](../../../aspose.psd.xmp.schemas.xmpdm/)
+* assembly [Aspose.PSD](../../../)
 
 

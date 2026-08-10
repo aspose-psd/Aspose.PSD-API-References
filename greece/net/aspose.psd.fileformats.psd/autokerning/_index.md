@@ -1,30 +1,31 @@
 ---
-title: Enum AutoKerning
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Aspose.PSD.FileFormats.Psd.AutoKerning αρίθμηση. Η λειτουργία αυτόματης πυροδότησης του Photoshop απόσταση μεταξύ συμβόλων.
+title: "Απαρίθμηση AutoKerning"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Aspose.PSD.FileFormats.Psd.AutoKerning enum. Η λειτουργία αυτόματης διαστήματος Photoshop μεταξύ συμβόλων"
 type: docs
-weight: 1600
+weight: 1610
 url: /el/net/aspose.psd.fileformats.psd/autokerning/
 ---
+{{< psd/tize >}}
 ## AutoKerning enumeration
 
-Η λειτουργία αυτόματης πυροδότησης του Photoshop (απόσταση μεταξύ συμβόλων).
+Η λειτουργία αυτόματης διαστήματος (kerning) του Photoshop (απόσταση μεταξύ συμβόλων).
 
 ```csharp
 public enum AutoKerning
 ```
 
-### Αξίες
+### Τιμές
 
-| Ονομα | αξία | Περιγραφή |
+| Όνομα | Τιμή | Περιγραφή |
 | --- | --- | --- |
-| Manual | `0` | Μη αυτόματη τιμή πυρήνα. |
-| Metric | `1` | Ο πυρήνας μετρήσεων χρησιμοποιεί ζεύγη πυρήνα, τα οποία περιλαμβάνονται στις περισσότερες γραμματοσειρές (από τους σχεδιαστές τους). |
-| Optical | `2` | Ο οπτικός πυρήνας προσαρμόζει την απόσταση μεταξύ γειτονικών χαρακτήρων με βάση τα σχήματά τους. |
+| Manual | `0` | Τιμή χειροκίνητου διαστήματος. |
+| Metric | `1` | Η διαστήση μετρικών χρησιμοποιεί ζεύγη kern, τα οποία περιλαμβάνονται στα περισσότερα γραμματοσειράς (από τους σχεδιαστές τους). |
+| Optical | `2` | Η οπτική διαστήση προσαρμόζει το κενό μεταξύ γειτονικών χαρακτήρων βάσει των σχημάτων τους. |
 
-### Παραδείγματα
+## Παραδείγματα
 
-Ο παρακάτω κώδικας δείχνει την υποστήριξη της υποστήριξης νέων ιδιοτήτων ITextStyle.
+Ο παρακάτω κώδικας δείχνει την υποστήριξη των νέων ιδιοτήτων ITextStyle.
 
 ```csharp
 [C#]
@@ -78,7 +79,7 @@ using (var srcImage = (PsdImage)Image.Load(srcFile))
 
 ### Δείτε επίσης
 
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd](../../aspose.psd.fileformats.psd/)
-* συνέλευση [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../)
 
 

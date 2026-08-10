@@ -1,11 +1,12 @@
 ---
-title: PathStructure.Path
-second_title: Aspose.PSD για Αναφορά API .NET
-description: PathStructure ιδιοκτησία. Λαμβάνει ή ορίζει τη διαδρομή.
+title: "PathStructure.Path"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα PathStructure. Λαμβάνει ή ορίζει τη διαδρομή"
 type: docs
 weight: 40
 url: /el/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/pathstructure/path/
 ---
+{{< psd/tize >}}
 ## PathStructure.Path property
 
 Λαμβάνει ή ορίζει τη διαδρομή.
@@ -14,13 +15,13 @@ url: /el/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostruct
 public string Path { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
 Η πλήρης διαδρομή.
 
-### Παραδείγματα
+## Παραδείγματα
 
-Ο παρακάτω κώδικας δείχνει τη δυνατότητα φόρτωσης αρχείου με δομή PathStructure.
+Ο παρακάτω κώδικας δείχνει τη δυνατότητα φόρτωσης αρχείου με τη δομή PathStructure.
 
 ```csharp
 [C#]
@@ -37,7 +38,7 @@ using (PsdImage image = (PsdImage)Image.Load(srcFile))
 ### Δείτε επίσης
 
 * class [PathStructure](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../pathstructure/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 

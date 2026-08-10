@@ -1,28 +1,29 @@
 ---
-title: PsdImage.AddCurvesAdjustmentLayer
-second_title: Aspose.PSD για Αναφορά API .NET
-description: PsdImage μέθοδος. Προσθέτει το επίπεδο προσαρμογής καμπυλών.
+title: "PsdImage.AddCurvesAdjustmentLayer"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Μέθοδος PsdImage. Προσθέτει το επίπεδο προσαρμογής Curves Adjustment"
 type: docs
-weight: 330
+weight: 340
 url: /el/net/aspose.psd.fileformats.psd/psdimage/addcurvesadjustmentlayer/
 ---
+{{< psd/tize >}}
 ## PsdImage.AddCurvesAdjustmentLayer method
 
-Προσθέτει το επίπεδο προσαρμογής καμπυλών.
+Προσθέτει το επίπεδο προσαρμογής Curves Adjustment.
 
 ```csharp
 public CurvesLayer AddCurvesAdjustmentLayer()
 ```
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-Δημιουργήθηκε[`CurvesLayer`](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/curveslayer/) Στρώμα
+Δημιουργήθηκε το επίπεδο [`CurvesLayer`](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/curveslayer/)
 
 ### Δείτε επίσης
 
 * class [CurvesLayer](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/curveslayer/)
 * class [PsdImage](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

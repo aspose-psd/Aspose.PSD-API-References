@@ -1,14 +1,15 @@
 ---
-title: StringFormat.SetTabStops
-second_title: Aspose.PSD για Αναφορά API .NET
-description: StringFormat μέθοδος. Ορίζει θέσεις καρτελών για αυτόStringFormat αντικείμενο.
+title: "StringFormat.SetTabStops"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Μέθοδος StringFormat. Ορίζει τα διαστήματα στηλοθέτη για αυτό το αντικείμενο StringFormat"
 type: docs
-weight: 140
+weight: 170
 url: /el/net/aspose.psd/stringformat/settabstops/
 ---
+{{< psd/tize >}}
 ## StringFormat.SetTabStops method
 
-Ορίζει θέσεις καρτελών για αυτό[`StringFormat`](../) αντικείμενο.
+Ορίζει τα διαστήματα στηλοθέτη για αυτό το αντικείμενο [`StringFormat`](../).
 
 ```csharp
 public void SetTabStops(float firstTabOffset, float[] tabStops)
@@ -16,13 +17,13 @@ public void SetTabStops(float firstTabOffset, float[] tabStops)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| firstTabOffset | Single | Ο αριθμός των κενών μεταξύ της αρχής μιας γραμμής κειμένου και της πρώτης καρτέλας. |
-| tabStops | Single[] | Μια σειρά αποστάσεων μεταξύ των στηλοθέτων στις μονάδες που καθορίζονται από το[`PageUnit`](../../graphics/pageunit/) ιδιοκτησία. |
+| firstTabOffset | Single | Ο αριθμός των κενών μεταξύ της αρχής μιας γραμμής κειμένου και του πρώτου διαστήματος στηλοθέτη. |
+| tabStops | Single[] | Ένας πίνακας αποστάσεων μεταξύ των σημείων στηλοθέτη στις μονάδες που καθορίζονται από την ιδιότητα [`PageUnit`](../../graphics/pageunit/). |
 
 ### Δείτε επίσης
 
 * class [StringFormat](../)
-* χώρος ονομάτων [Aspose.PSD](../../stringformat/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

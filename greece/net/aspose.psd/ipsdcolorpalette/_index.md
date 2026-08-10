@@ -1,14 +1,15 @@
 ---
-title: Interface IPsdColorPalette
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Aspose.PSD.IPsdColorPalette διεπαφή. Η χρωματική παλέτα του κωδικού
+title: "Διεπαφή IPsdColorPalette"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Διεπαφή Aspose.PSD.IPsdColorPalette. Η παλέτα χρωμάτων pasd"
 type: docs
-weight: 4550
+weight: 5020
 url: /el/net/aspose.psd/ipsdcolorpalette/
 ---
+{{< psd/tize >}}
 ## IPsdColorPalette interface
 
-Η χρωματική παλέτα του κωδικού
+Η παλέτα χρώματος pasd
 
 ```csharp
 public interface IPsdColorPalette : IColorPalette
@@ -16,18 +17,18 @@ public interface IPsdColorPalette : IColorPalette
 
 ## Ιδιότητες
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
 | [HasTransparentColor](../../aspose.psd/ipsdcolorpalette/hastransparentcolor/) { get; } | Λαμβάνει μια τιμή που υποδεικνύει εάν υπάρχει διαφανές χρώμα. |
-| [RawEntries](../../aspose.psd/ipsdcolorpalette/rawentries/) { get; } | Λαμβάνει τα δεδομένα καταχωρήσεων της παλέτας ακατέργαστων χρωμάτων. |
-| [RawEntriesCount](../../aspose.psd/ipsdcolorpalette/rawentriescount/) { get; } | Λαμβάνει τον αριθμό των καταχωρήσεων της παλέτας ακατέργαστων χρωμάτων. |
-| [TransparentColor](../../aspose.psd/ipsdcolorpalette/transparentcolor/) { get; } | Παίρνει το διαφανές χρώμα. |
-| [TransparentIndex](../../aspose.psd/ipsdcolorpalette/transparentindex/) { get; } | Παίρνει τον δείκτη του διαφανούς χρώματος. |
+| [RawEntries](../../aspose.psd/ipsdcolorpalette/rawentries/) { get; } | Λαμβάνει τα ακατέργαστα δεδομένα καταχωρήσεων της παλέτας χρωμάτων. |
+| [RawEntriesCount](../../aspose.psd/ipsdcolorpalette/rawentriescount/) { get; } | Λαμβάνει τον αριθμό των ακατέργαστων καταχωρήσεων της παλέτας χρωμάτων. |
+| [TransparentColor](../../aspose.psd/ipsdcolorpalette/transparentcolor/) { get; } | Λαμβάνει το διαφανές χρώμα. |
+| [TransparentIndex](../../aspose.psd/ipsdcolorpalette/transparentindex/) { get; } | Λαμβάνει τον δείκτη του διαφανούς χρώματος. |
 
 ### Δείτε επίσης
 
 * interface [IColorPalette](../icolorpalette/)
-* χώρος ονομάτων [Aspose.PSD](../../aspose.psd/)
-* συνέλευση [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

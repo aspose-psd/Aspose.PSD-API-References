@@ -1,27 +1,28 @@
 ---
-title: Rectangle.X
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Rectangle ιδιοκτησία. Λαμβάνει ή ορίζει τη συντεταγμένη x της επάνω αριστερής γωνίας αυτούRectangleδομή.
+title: "Rectangle.X"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα Rectangle. Λαμβάνει ή ορίζει τη συντεταγμένη x της επάνω αριστερής γωνίας αυτής της δομής Rectangle."
 type: docs
 weight: 200
 url: /el/net/aspose.psd/rectangle/x/
 ---
+{{< psd/tize >}}
 ## Rectangle.X property
 
-Λαμβάνει ή ορίζει τη συντεταγμένη x της επάνω αριστερής γωνίας αυτού[`Rectangle`](../)δομή.
+Λαμβάνει ή ορίζει τη συντεταγμένη x της επάνω αριστερής γωνίας αυτής της δομής [`Rectangle`](../).
 
 ```csharp
 public int X { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Η συντεταγμένη x της επάνω αριστερής γωνίας αυτού[`Rectangle`](../) δομή.
+Η συντεταγμένη x της επάνω αριστερής γωνίας αυτής της δομής [`Rectangle`](../).
 
 ### Δείτε επίσης
 
 * struct [Rectangle](../)
-* χώρος ονομάτων [Aspose.PSD](../../rectangle/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

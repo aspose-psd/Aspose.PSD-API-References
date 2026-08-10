@@ -1,14 +1,15 @@
 ---
-title: Class XmpTrailerPi
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Aspose.PSD.Xmp.XmpTrailerPi τάξη. Αντιπροσωπεύει την οδηγία επεξεργασίας τρέιλερ XMP.
+title: "Κλάση XmpTrailerPi"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Κλάση Aspose.PSD.Xmp.XmpTrailerPi. Αντιπροσωπεύει την εντολή επεξεργασίας τρέιλερ XMP."
 type: docs
-weight: 6310
+weight: 6810
 url: /el/net/aspose.psd.xmp/xmptrailerpi/
 ---
+{{< psd/tize >}}
 ## XmpTrailerPi class
 
-Αντιπροσωπεύει την οδηγία επεξεργασίας τρέιλερ XMP.
+Αναπαριστά την οδηγία επεξεργασίας υποσέλιδου XMP.
 
 ```csharp
 public sealed class XmpTrailerPi : IEquatable<XmpTrailerPi>, IXmlValue
@@ -16,38 +17,38 @@ public sealed class XmpTrailerPi : IEquatable<XmpTrailerPi>, IXmlValue
 
 ## Κατασκευαστές
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
-| [XmpTrailerPi](xmptrailerpi/#constructor)() | Αρχικοποιεί μια νέα παρουσία του`XmpTrailerPi` τάξη. |
-| [XmpTrailerPi](xmptrailerpi/#constructor_1)(bool) | Αρχικοποιεί μια νέα παρουσία του`XmpTrailerPi` τάξη. |
+| [XmpTrailerPi](xmptrailerpi/#constructor)() | Αρχικοποιεί μια νέα παρουσία της κλάσης `XmpTrailerPi`. |
+| [XmpTrailerPi](xmptrailerpi/#constructor_1)(bool) | Αρχικοποιεί μια νέα παρουσία της κλάσης `XmpTrailerPi`. |
 
 ## Ιδιότητες
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
-| [IsWritable](../../aspose.psd.xmp/xmptrailerpi/iswritable/) { get; set; } | Λαμβάνει ή ορίζει μια τιμή που υποδεικνύει εάν αυτή η παρουσία μπορεί να εγγραφεί. |
+| [IsWritable](../../aspose.psd.xmp/xmptrailerpi/iswritable/) { get; set; } | Λαμβάνει ή ορίζει μια τιμή που υποδεικνύει εάν αυτή η παρουσία είναι εγγράψιμη. |
 
 ## Μέθοδοι
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
-| override [Equals](../../aspose.psd.xmp/xmptrailerpi/equals/#equals_1)(object) | Καθορίζει εάν το καθορισμένοObject , ισούται με αυτήν την περίπτωση. |
-| [Equals](../../aspose.psd.xmp/xmptrailerpi/equals/#equals)(XmpTrailerPi) | Υποδεικνύει εάν το τρέχον αντικείμενο είναι ίσο με άλλο αντικείμενο του ίδιου τύπου. |
-| override [GetHashCode](../../aspose.psd.xmp/xmptrailerpi/gethashcode/)() | Επιστρέφει έναν κωδικό κατακερματισμού για αυτήν την εμφάνιση. |
+| override [Equals](../../aspose.psd.xmp/xmptrailerpi/equals/#equals_1)(object) | Καθορίζει εάν το καθορισμένο Object είναι ίσο με αυτήν την παρουσία. |
+| [Equals](../../aspose.psd.xmp/xmptrailerpi/equals/#equals)(XmpTrailerPi) | Δείχνει εάν το τρέχον αντικείμενο είναι ίσο με άλλο αντικείμενο του ίδιου τύπου. |
+| override [GetHashCode](../../aspose.psd.xmp/xmptrailerpi/gethashcode/)() | Επιστρέφει έναν κωδικό hash για αυτήν την παρουσία. |
 | [GetXmlValue](../../aspose.psd.xmp/xmptrailerpi/getxmlvalue/)() | Μετατρέπει την τιμή xmp στην αναπαράσταση xml. |
 
-### Παρατηρήσεις
+## Σχόλια
 
-Το τμήμα end="w" ή end="r" θα χρησιμοποιηθεί από τους επεξεργαστές σάρωσης πακέτων για να καθορίσουν εάν το XMP μπορεί να τροποποιηθεί επιτόπου.
+Το τμήμα end=\"w\" ή end=\"r\" θα χρησιμοποιείται από επεξεργαστές σάρωσης πακέτων για να καθορίσει εάν το XMP μπορεί να τροποποιηθεί επί τόπου.
 
-### Παραδείγματα
+## Παραδείγματα
 
 Επιτρεπόμενες μορφές του τρέιλερ PI:
 
 ### Δείτε επίσης
 
 * interface [IXmlValue](../ixmlvalue/)
-* χώρος ονομάτων [Aspose.PSD.Xmp](../../aspose.psd.xmp/)
-* συνέλευση [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Xmp](../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../)
 
 

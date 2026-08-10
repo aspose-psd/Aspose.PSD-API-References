@@ -1,14 +1,15 @@
 ---
-title: TypeToolInfo6Resource.TypeToolInfo6Resource
-second_title: Aspose.PSD για Αναφορά API .NET
-description: TypeToolInfo6Resource κατασκευαστής. Αρχικοποιεί μια νέα παρουσία τουTypeToolInfo6Resource τάξη.
+title: "TypeToolInfo6Resource.TypeToolInfo6Resource"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Κατασκευαστής TypeToolInfo6Resource. Αρχικοποιεί ένα νέο στιγμιότυπο της κλάσης TypeToolInfo6Resource"
 type: docs
 weight: 10
 url: /el/net/aspose.psd.fileformats.psd.layers.layerresources/typetoolinfo6resource/typetoolinfo6resource/
 ---
+{{< psd/tize >}}
 ## TypeToolInfo6Resource constructor
 
-Αρχικοποιεί μια νέα παρουσία του[`TypeToolInfo6Resource`](../) τάξη.
+Αρχικοποιεί ένα νέο στιγμιότυπο της κλάσης [`TypeToolInfo6Resource`](../).
 
 ```csharp
 public TypeToolInfo6Resource(ClassID classID, ClassID warpClassID)
@@ -16,14 +17,14 @@ public TypeToolInfo6Resource(ClassID classID, ClassID warpClassID)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| classID | ClassID | Η ταυτότητα της τάξης. |
-| warpClassID | ClassID | Το αναγνωριστικό κλάσης στημόνι. |
+| classID | ClassID | Το ID της κλάσης. |
+| warpClassID | ClassID | Το αναγνωριστικό κλάσης παραμόρφωσης. |
 
 ### Δείτε επίσης
 
 * class [ClassID](../../classid/)
 * class [TypeToolInfo6Resource](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../typetoolinfo6resource/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

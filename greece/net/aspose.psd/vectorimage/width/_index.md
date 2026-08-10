@@ -1,11 +1,12 @@
 ---
-title: VectorImage.Width
-second_title: Aspose.PSD για Αναφορά API .NET
-description: VectorImage ιδιοκτησία. Λαμβάνει το πλάτος της εικόνας.
+title: "VectorImage.Width"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα VectorImage. Λαμβάνει το πλάτος της εικόνας"
 type: docs
 weight: 40
 url: /el/net/aspose.psd/vectorimage/width/
 ---
+{{< psd/tize >}}
 ## VectorImage.Width property
 
 Λαμβάνει το πλάτος της εικόνας.
@@ -14,14 +15,14 @@ url: /el/net/aspose.psd/vectorimage/width/
 public override int Width { get; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
 Το πλάτος της εικόνας.
 
 ### Δείτε επίσης
 
 * class [VectorImage](../)
-* χώρος ονομάτων [Aspose.PSD](../../vectorimage/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

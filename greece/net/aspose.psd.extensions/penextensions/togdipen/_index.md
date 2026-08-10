@@ -1,14 +1,15 @@
 ---
-title: PenExtensions.ToGdiPen
-second_title: Aspose.PSD για Αναφορά API .NET
-description: PenExtensions μέθοδος. Μετατρέπει τοPen στοPen .
+title: "PenExtensions.ToGdiPen"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "PenExtensions μέθοδος. Μετατρέπει το Pen σε Pen"
 type: docs
 weight: 10
 url: /el/net/aspose.psd.extensions/penextensions/togdipen/
 ---
+{{< psd/tize >}}
 ## PenExtensions.ToGdiPen method
 
-Μετατρέπει το[`Pen`](../../../aspose.psd/pen/) στοPen .
+Μετατρέπει το [`Pen`](../../../aspose.psd/pen/) σε Pen.
 
 ```csharp
 public static Pen ToGdiPen(Pen pen)
@@ -16,17 +17,17 @@ public static Pen ToGdiPen(Pen pen)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| pen | Pen | ο[`Pen`](../../../aspose.psd/pen/) μετατρέπω. |
+| pen | Pen | Το [`Pen`](../../../aspose.psd/pen/) για μετατροπή. |
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-Οι μετατρεπόμενοιPen.
+Το μετατρεπόμενο Pen.
 
 ### Δείτε επίσης
 
 * class [Pen](../../../aspose.psd/pen/)
 * class [PenExtensions](../)
-* χώρος ονομάτων [Aspose.PSD.Extensions](../../penextensions/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Extensions](../../../aspose.psd.extensions/)
+* assembly [Aspose.PSD](../../../)
 
 

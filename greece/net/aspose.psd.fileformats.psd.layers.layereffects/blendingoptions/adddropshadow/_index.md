@@ -1,28 +1,29 @@
 ---
-title: BlendingOptions.AddDropShadow
-second_title: Aspose.PSD για Αναφορά API .NET
-description: BlendingOptions μέθοδος. Προσθέτει το εφέ drop shadow.
+title: "BlendingOptions.AddDropShadow"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Μέθοδος BlendingOptions. Προσθέτει το εφέ σκιάς"
 type: docs
-weight: 30
+weight: 40
 url: /el/net/aspose.psd.fileformats.psd.layers.layereffects/blendingoptions/adddropshadow/
 ---
+{{< psd/tize >}}
 ## BlendingOptions.AddDropShadow method
 
-Προσθέτει το εφέ drop shadow.
+Προσθέτει το εφέ σκιάς απόρριψης.
 
 ```csharp
 public DropShadowEffect AddDropShadow()
 ```
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-Δημιουργήθηκε[`DropShadowEffect`](../../dropshadoweffect/) αντικείμενο
+Δημιουργήθηκε αντικείμενο [`DropShadowEffect`](../../dropshadoweffect/)
 
 ### Δείτε επίσης
 
 * class [DropShadowEffect](../../dropshadoweffect/)
 * class [BlendingOptions](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../blendingoptions/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../../)
 
 

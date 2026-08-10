@@ -1,14 +1,15 @@
 ---
-title: XmpPackage.Clear
-second_title: Aspose.PSD για Αναφορά API .NET
-description: XmpPackage μέθοδος. Διαγράφει αυτήν την παρουσία.
+title: "XmpPackage.Clear"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Μέθοδος XmpPackage. Καθαρίζει αυτήν την παρουσία"
 type: docs
 weight: 70
 url: /el/net/aspose.psd.xmp/xmppackage/clear/
 ---
+{{< psd/tize >}}
 ## XmpPackage.Clear method
 
-Διαγράφει αυτήν την παρουσία.
+Καθαρίζει αυτήν την παρουσία.
 
 ```csharp
 public virtual void Clear()
@@ -17,7 +18,7 @@ public virtual void Clear()
 ### Δείτε επίσης
 
 * class [XmpPackage](../)
-* χώρος ονομάτων [Aspose.PSD.Xmp](../../xmppackage/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

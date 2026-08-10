@@ -1,27 +1,28 @@
 ---
-title: GlobalAltitudeResource.Altitude
-second_title: Aspose.PSD για Αναφορά API .NET
-description: GlobalAltitudeResource ιδιοκτησία. Λαμβάνει ή ρυθμίζει το υψόμετρο.
+title: "GlobalAltitudeResource.Altitude"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "GlobalAltitudeResource ιδιότητα. Λαμβάνει ή ορίζει το υψόμετρο"
 type: docs
 weight: 20
 url: /el/net/aspose.psd.fileformats.psd.resources/globalaltituderesource/altitude/
 ---
+{{< psd/tize >}}
 ## GlobalAltitudeResource.Altitude property
 
-Λαμβάνει ή ρυθμίζει το υψόμετρο.
+Λαμβάνει ή ορίζει το υψόμετρο.
 
 ```csharp
 public int Altitude { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
 Το υψόμετρο.
 
 ### Δείτε επίσης
 
 * class [GlobalAltitudeResource](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Resources](../../globalaltituderesource/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

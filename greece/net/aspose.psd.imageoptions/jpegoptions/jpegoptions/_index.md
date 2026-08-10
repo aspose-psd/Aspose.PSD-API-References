@@ -1,14 +1,15 @@
 ---
-title: JpegOptions.JpegOptions
-second_title: Aspose.PSD για Αναφορά API .NET
-description: JpegOptions κατασκευαστής. Αρχικοποιεί μια νέα παρουσία τουJpegOptions τάξη.
+title: "JpegOptions.JpegOptions"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Κατασκευαστής JpegOptions. Δημιουργεί μια νέα παρουσία της κλάσης JpegOptions"
 type: docs
 weight: 10
 url: /el/net/aspose.psd.imageoptions/jpegoptions/jpegoptions/
 ---
+{{< psd/tize >}}
 ## JpegOptions() {#constructor}
 
-Αρχικοποιεί μια νέα παρουσία του[`JpegOptions`](../) τάξη.
+Δημιουργεί μια νέα παρουσία της κλάσης [`JpegOptions`](../).
 
 ```csharp
 public JpegOptions()
@@ -17,14 +18,14 @@ public JpegOptions()
 ### Δείτε επίσης
 
 * class [JpegOptions](../)
-* χώρος ονομάτων [Aspose.PSD.ImageOptions](../../jpegoptions/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## JpegOptions(JpegOptions) {#constructor_1}
 
-Αρχικοποιεί μια νέα παρουσία του[`JpegOptions`](../) τάξη.
+Δημιουργεί μια νέα παρουσία της κλάσης [`JpegOptions`](../).
 
 ```csharp
 public JpegOptions(JpegOptions jpegOptions)
@@ -37,7 +38,7 @@ public JpegOptions(JpegOptions jpegOptions)
 ### Δείτε επίσης
 
 * class [JpegOptions](../)
-* χώρος ονομάτων [Aspose.PSD.ImageOptions](../../jpegoptions/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

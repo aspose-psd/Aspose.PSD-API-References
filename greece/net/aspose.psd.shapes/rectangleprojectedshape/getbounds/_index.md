@@ -1,11 +1,12 @@
 ---
-title: RectangleProjectedShape.GetBounds
-second_title: Aspose.PSD για Αναφορά API .NET
-description: RectangleProjectedShape μέθοδος. Λαμβάνει τα όρια του αντικειμένου.
+title: "RectangleProjectedShape.GetBounds"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Μέθοδος RectangleProjectedShape. Λαμβάνει τα όρια του αντικειμένου"
 type: docs
 weight: 110
 url: /el/net/aspose.psd.shapes/rectangleprojectedshape/getbounds/
 ---
+{{< psd/tize >}}
 ## GetBounds(Matrix) {#getbounds}
 
 Λαμβάνει τα όρια του αντικειμένου.
@@ -16,19 +17,19 @@ public override RectangleF GetBounds(Matrix matrix)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| matrix | Matrix | Θα υπολογιστεί ο πίνακας που θα εφαρμοστεί πριν από τα όρια. |
+| μήτρα | Matrix | Η μήτρα που θα εφαρμοστεί πριν υπολογιστούν τα όρια. |
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-Τα όρια του εκτιμώμενου αντικειμένου.
+Τα εκτιμώμενα όρια του αντικειμένου.
 
 ### Δείτε επίσης
 
 * struct [RectangleF](../../../aspose.psd/rectanglef/)
 * class [Matrix](../../../aspose.psd/matrix/)
 * class [RectangleProjectedShape](../)
-* χώρος ονομάτων [Aspose.PSD.Shapes](../../rectangleprojectedshape/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
@@ -42,12 +43,12 @@ public override RectangleF GetBounds(Matrix matrix, Pen pen)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| matrix | Matrix | Θα υπολογιστεί ο πίνακας που θα εφαρμοστεί πριν από τα όρια. |
-| pen | Pen | Το στυλό που χρησιμοποιείται για αντικείμενο. Αυτό μπορεί να επηρεάσει το μέγεθος των ορίων του αντικειμένου. |
+| μήτρα | Matrix | Η μήτρα που θα εφαρμοστεί πριν υπολογιστούν τα όρια. |
+| πέννα | Πέννα | Η πέννα που θα χρησιμοποιηθεί για το αντικείμενο. Αυτό μπορεί να επηρεάσει το μέγεθος των ορίων του αντικειμένου. |
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-Τα όρια του εκτιμώμενου αντικειμένου.
+Τα εκτιμώμενα όρια του αντικειμένου.
 
 ### Δείτε επίσης
 
@@ -55,7 +56,7 @@ public override RectangleF GetBounds(Matrix matrix, Pen pen)
 * class [Matrix](../../../aspose.psd/matrix/)
 * class [Pen](../../../aspose.psd/pen/)
 * class [RectangleProjectedShape](../)
-* χώρος ονομάτων [Aspose.PSD.Shapes](../../rectangleprojectedshape/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 

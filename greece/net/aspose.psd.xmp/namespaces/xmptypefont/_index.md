@@ -1,14 +1,15 @@
 ---
-title: Namespaces.XmpTypeFont
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Namespaces πεδίο. Τύπος γραμματοσειράς XMP.
+title: "Namespaces.XmpTypeFont"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Πεδίο Namespaces. Τύπος γραμματοσειράς XMP"
 type: docs
 weight: 130
 url: /el/net/aspose.psd.xmp/namespaces/xmptypefont/
 ---
+{{< psd/tize >}}
 ## Namespaces.XmpTypeFont field
 
-Τύπος γραμματοσειράς XMP.
+Τύπος XMP Font.
 
 ```csharp
 public const string XmpTypeFont;
@@ -17,7 +18,7 @@ public const string XmpTypeFont;
 ### Δείτε επίσης
 
 * class [Namespaces](../)
-* χώρος ονομάτων [Aspose.PSD.Xmp](../../namespaces/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

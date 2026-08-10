@@ -1,14 +1,15 @@
 ---
-title: ImageExportersRegistry.GetFirstSupportedDescriptor
-second_title: Aspose.PSD για Αναφορά API .NET
-description: ImageExportersRegistry μέθοδος. Λαμβάνει τον υποστηριζόμενο περιγραφέα που βρέθηκε κατάλληλος για τις καθορισμένες επιλογές αποθήκευσης και εικόνα.
+title: "ImageExportersRegistry.GetFirstSupportedDescriptor"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "ImageExportersRegistry μέθοδος. Λαμβάνει τον πρώτο ευρεθέντα υποστηριζόμενο περιγραφέα που είναι κατάλληλος για τις καθορισμένες επιλογές αποθήκευσης και εικόνα"
 type: docs
 weight: 40
 url: /el/net/aspose.psd/imageexportersregistry/getfirstsupporteddescriptor/
 ---
+{{< psd/tize >}}
 ## ImageExportersRegistry.GetFirstSupportedDescriptor method
 
-Λαμβάνει τον υποστηριζόμενο περιγραφέα που βρέθηκε κατάλληλος για τις καθορισμένες επιλογές αποθήκευσης και εικόνα.
+Λαμβάνει τον πρώτο βρεθέντα υποστηριζόμενο περιγραφέα που είναι κατάλληλος για τις καθορισμένες επιλογές αποθήκευσης και την εικόνα.
 
 ```csharp
 public static IImageExporterDescriptor GetFirstSupportedDescriptor(Image image, 
@@ -17,16 +18,16 @@ public static IImageExporterDescriptor GetFirstSupportedDescriptor(Image image,
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| image | Image | Η εικόνα προς εξαγωγή. |
-| options | ImageOptionsBase | Οι επιλογές. |
+| εικόνα | Εικόνα | Η εικόνα για εξαγωγή. |
+| επιλογές | ImageOptionsBase | Οι επιλογές. |
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-Ο περιγραφέας εξαγωγέα που υποστηρίζει την καθορισμένη εικόνα και επιλογές αποθήκευσης ή μηδενικός εάν δεν βρεθεί τέτοιος περιγραφέας.
+Ο περιγραφέας εξαγωγέα που υποστηρίζει την καθορισμένη εικόνα και τις επιλογές αποθήκευσης ή null εάν δεν βρεθεί τέτοιος περιγραφέας.
 
-### Παρατηρήσεις
+## Σχόλια
 
-Ο πρώτος περιγραφέας εξαγωγέα θα είναι στην πραγματικότητα ο τελευταίος εγγεγραμμένος.
+Ο πρώτος περιγραφέας εξαγωγέα θα είναι στην πραγματικότητα ο τελευταίος που έχει καταχωρηθεί.
 
 ### Δείτε επίσης
 
@@ -34,7 +35,7 @@ public static IImageExporterDescriptor GetFirstSupportedDescriptor(Image image,
 * class [Image](../../image/)
 * class [ImageOptionsBase](../../imageoptionsbase/)
 * class [ImageExportersRegistry](../)
-* χώρος ονομάτων [Aspose.PSD](../../imageexportersregistry/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: CurveShape.Bounds
-second_title: Aspose.PSD για Αναφορά API .NET
-description: CurveShape ιδιοκτησία. Λαμβάνει τα όρια του αντικειμένου.
+title: "CurveShape.Bounds"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα CurveShape. Λαμβάνει τα όρια του αντικειμένου"
 type: docs
 weight: 20
 url: /el/net/aspose.psd.shapes/curveshape/bounds/
 ---
+{{< psd/tize >}}
 ## CurveShape.Bounds property
 
 Λαμβάνει τα όρια του αντικειμένου.
@@ -14,15 +15,15 @@ url: /el/net/aspose.psd.shapes/curveshape/bounds/
 public override RectangleF Bounds { get; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-τα όρια του αντικειμένου.
+Τα όρια του αντικειμένου.
 
 ### Δείτε επίσης
 
 * struct [RectangleF](../../../aspose.psd/rectanglef/)
 * class [CurveShape](../)
-* χώρος ονομάτων [Aspose.PSD.Shapes](../../curveshape/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 

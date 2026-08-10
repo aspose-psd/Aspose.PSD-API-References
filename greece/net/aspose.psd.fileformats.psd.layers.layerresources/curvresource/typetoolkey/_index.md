@@ -1,14 +1,15 @@
 ---
-title: CurvResource.TypeToolKey
-second_title: Aspose.PSD για Αναφορά API .NET
-description: CurvResource πεδίο. Το κλειδί πληροφοριών εργαλείου τύπου.
+title: "CurvResource.TypeToolKey"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Πεδίο CurvResource. Το κλειδί πληροφοριών εργαλείου τύπου"
 type: docs
-weight: 100
+weight: 80
 url: /el/net/aspose.psd.fileformats.psd.layers.layerresources/curvresource/typetoolkey/
 ---
+{{< psd/tize >}}
 ## CurvResource.TypeToolKey field
 
-Το κλειδί πληροφοριών εργαλείου τύπου.
+Το κλειδί πληροφοριών του εργαλείου τύπου.
 
 ```csharp
 public const int TypeToolKey;
@@ -17,7 +18,7 @@ public const int TypeToolKey;
 ### Δείτε επίσης
 
 * class [CurvResource](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../curvresource/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

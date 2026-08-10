@@ -1,14 +1,15 @@
 ---
-title: TiffStreamReader.ReadSShort
-second_title: Aspose.PSD για Αναφορά API .NET
-description: TiffStreamReader μέθοδος. Ανάγνωση υπογεγραμμένης μικρής τιμής από τη ροή.
+title: "TiffStreamReader.ReadSShort"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Μέθοδος TiffStreamReader. Διαβάζει τιμή υπογεγραμμένου μικρού ακέραιου από τη ροή"
 type: docs
 weight: 170
 url: /el/net/aspose.psd.fileformats.tiff.filemanagement/tiffstreamreader/readsshort/
 ---
+{{< psd/tize >}}
 ## TiffStreamReader.ReadSShort method
 
-Ανάγνωση υπογεγραμμένης μικρής τιμής από τη ροή.
+Διαβάζει τιμή υπογεγραμμένου short από τη ροή.
 
 ```csharp
 public short ReadSShort(long position)
@@ -16,16 +17,16 @@ public short ReadSShort(long position)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| position | Int64 | Η θέση για να διαβάσετε από. |
+| θέση | Int64 | Η θέση από την οποία θα διαβαστεί. |
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-Μια υπογεγραμμένη σύντομη τιμή.
+Μια υπογεγραμμένη τιμή μικρού ακέραιου.
 
 ### Δείτε επίσης
 
 * class [TiffStreamReader](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Tiff.FileManagement](../../tiffstreamreader/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff.FileManagement](../../../aspose.psd.fileformats.tiff.filemanagement/)
+* assembly [Aspose.PSD](../../../)
 
 

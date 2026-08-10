@@ -1,14 +1,15 @@
 ---
-title: Graphics.DrawPolygon
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Graphics μέθοδος. Σχεδιάζει ένα πολύγωνο που ορίζεται από έναν πίνακαPointF δομές.
+title: "Graphics.DrawPolygon"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Μέθοδος Graphics. Σχεδίαζει ένα πολύγωνο που ορίζεται από έναν πίνακα δομών PointF"
 type: docs
-weight: 290
+weight: 300
 url: /el/net/aspose.psd/graphics/drawpolygon/
 ---
+{{< psd/tize >}}
 ## DrawPolygon(Pen, PointF[]) {#drawpolygon}
 
-Σχεδιάζει ένα πολύγωνο που ορίζεται από έναν πίνακα[`PointF`](../../pointf/) δομές.
+Σχεδίαζει ένα πολύγωνο που ορίζεται από έναν πίνακα δομών [`PointF`](../../pointf/).
 
 ```csharp
 public void DrawPolygon(Pen pen, PointF[] points)
@@ -17,27 +18,27 @@ public void DrawPolygon(Pen pen, PointF[] points)
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
 | pen | Pen | [`Pen`](../../pen/) που καθορίζει το χρώμα, το πλάτος και το στυλ του πολυγώνου. |
-| points | PointF[] | Συστοιχία από[`PointF`](../../pointf/) δομές που αντιπροσωπεύουν τις κορυφές του πολυγώνου. |
+| points | PointF[] | Πίνακας δομών [`PointF`](../../pointf/) που αντιπροσωπεύουν τις κορυφές του πολυγώνου. |
 
 ### Εξαιρέσεις
 
-| εξαίρεση | κατάσταση |
+| εξαίρεση | συνθήκη |
 | --- | --- |
-| ArgumentNullException | *pen* είναι μηδενικό. -ή- *points* είναι μηδενικό. |
+| ArgumentNullException | *pen* είναι null. -ή- *points* είναι null. |
 
 ### Δείτε επίσης
 
 * class [Pen](../../pen/)
 * struct [PointF](../../pointf/)
 * class [Graphics](../)
-* χώρος ονομάτων [Aspose.PSD](../../graphics/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## DrawPolygon(Pen, Point[]) {#drawpolygon_1}
 
-Σχεδιάζει ένα πολύγωνο που ορίζεται από έναν πίνακα[`Point`](../../point/) δομές.
+Σχεδίαζει ένα πολύγωνο που ορίζεται από έναν πίνακα δομών [`Point`](../../point/).
 
 ```csharp
 public void DrawPolygon(Pen pen, Point[] points)
@@ -46,20 +47,20 @@ public void DrawPolygon(Pen pen, Point[] points)
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
 | pen | Pen | [`Pen`](../../pen/) που καθορίζει το χρώμα, το πλάτος και το στυλ του πολυγώνου. |
-| points | Point[] | Συστοιχία από[`Point`](../../point/) δομές που αντιπροσωπεύουν τις κορυφές του πολυγώνου. |
+| points | Point[] | Πίνακας δομών [`Point`](../../point/) που αντιπροσωπεύουν τις κορυφές του πολυγώνου. |
 
 ### Εξαιρέσεις
 
-| εξαίρεση | κατάσταση |
+| εξαίρεση | συνθήκη |
 | --- | --- |
-| ArgumentNullException | *pen* είναι μηδενικό. |
+| ArgumentNullException | *pen* είναι null. |
 
 ### Δείτε επίσης
 
 * class [Pen](../../pen/)
 * struct [Point](../../point/)
 * class [Graphics](../)
-* χώρος ονομάτων [Aspose.PSD](../../graphics/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

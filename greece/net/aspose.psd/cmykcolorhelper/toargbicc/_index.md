@@ -1,11 +1,12 @@
 ---
-title: CmykColorHelper.ToArgbIcc
-second_title: Aspose.PSD για Αναφορά API .NET
-description: CmykColorHelper μέθοδος. Η μετατροπή από χρώματα CMYK σε χρώματα ARGB χρησιμοποιώντας μετατροπή Icc με προεπιλεγμένα προφίλ.
+title: "CmykColorHelper.ToArgbIcc"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "CmykColorHelper μέθοδος. Η μετατροπή από χρώματα CMYK σε χρώματα ARGB χρησιμοποιώντας μετατροπή Icc με προεπιλεγμένα προφίλ"
 type: docs
 weight: 80
 url: /el/net/aspose.psd/cmykcolorhelper/toargbicc/
 ---
+{{< psd/tize >}}
 ## ToArgbIcc(int[]) {#toargbicc_2}
 
 Η μετατροπή από χρώματα CMYK σε χρώματα ARGB χρησιμοποιώντας μετατροπή Icc με προεπιλεγμένα προφίλ.
@@ -16,9 +17,9 @@ public static Color[] ToArgbIcc(int[] cmykPixels)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| cmykPixels | Int32[] | Τα εικονοστοιχεία CMYK παρουσιάζονται ως ακέραιες τιμές 32-bit. |
+| cmykPixels | Int32[] | Τα εικονοστοιχεία CMYK παρουσιάζονται ως 32-bit ακέραιες τιμές. |
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
 Τα χρώματα ARGB.
 
@@ -26,8 +27,8 @@ public static Color[] ToArgbIcc(int[] cmykPixels)
 
 * struct [Color](../../color/)
 * class [CmykColorHelper](../)
-* χώρος ονομάτων [Aspose.PSD](../../cmykcolorhelper/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
@@ -41,11 +42,11 @@ public static Color[] ToArgbIcc(int[] cmykPixels, Stream cmykIccStream, Stream r
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| cmykPixels | Int32[] | Τα χρώματα CMYK παρουσιάζονται ως ακέραιες τιμές 32-bit. |
+| cmykPixels | Int32[] | Τα χρώματα CMYK που παρουσιάζονται ως τιμές 32-bit ακέραιου. |
 | cmykIccStream | Stream | Η ροή που περιέχει το προφίλ CMYK Icc. |
 | rgbIccStream | Stream | Η ροή που περιέχει το προφίλ RGB Icc. |
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
 Τα χρώματα ARGB.
 
@@ -53,8 +54,8 @@ public static Color[] ToArgbIcc(int[] cmykPixels, Stream cmykIccStream, Stream r
 
 * struct [Color](../../color/)
 * class [CmykColorHelper](../)
-* χώρος ονομάτων [Aspose.PSD](../../cmykcolorhelper/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
@@ -68,9 +69,9 @@ public static Color ToArgbIcc(int cmykPixel)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| cmykPixel | Int32 | Το χρώμα CMYK παρουσιάζεται ως ακέραια τιμή 32-bit. |
+| cmykPixel | Int32 | Το χρώμα CMYK που παρουσιάζεται ως τιμή 32-bit ακέραιου. |
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
 Το χρώμα ARGB.
 
@@ -78,8 +79,8 @@ public static Color ToArgbIcc(int cmykPixel)
 
 * struct [Color](../../color/)
 * class [CmykColorHelper](../)
-* χώρος ονομάτων [Aspose.PSD](../../cmykcolorhelper/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
@@ -93,11 +94,11 @@ public static Color ToArgbIcc(int cmykPixel, Stream cmykIccStream, Stream rgbIcc
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| cmykPixel | Int32 | Το χρώμα CMYK παρουσιάζεται ως ακέραια τιμή 32-bit. |
+| cmykPixel | Int32 | Το χρώμα CMYK που παρουσιάζεται ως τιμή 32-bit ακέραιου. |
 | cmykIccStream | Stream | Η ροή που περιέχει το προφίλ CMYK Icc. |
 | rgbIccStream | Stream | Η ροή που περιέχει το προφίλ RGB Icc. |
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
 Το χρώμα ARGB.
 
@@ -105,7 +106,7 @@ public static Color ToArgbIcc(int cmykPixel, Stream cmykIccStream, Stream rgbIcc
 
 * struct [Color](../../color/)
 * class [CmykColorHelper](../)
-* χώρος ονομάτων [Aspose.PSD](../../cmykcolorhelper/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

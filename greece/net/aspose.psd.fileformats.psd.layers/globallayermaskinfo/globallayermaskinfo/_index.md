@@ -1,11 +1,12 @@
 ---
-title: GlobalLayerMaskInfo.GlobalLayerMaskInfo
-second_title: Aspose.PSD για Αναφορά API .NET
-description: GlobalLayerMaskInfo κατασκευαστής. Ο προεπιλεγμένος κατασκευαστής.
+title: "GlobalLayerMaskInfo.GlobalLayerMaskInfo"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Κατασκευαστής GlobalLayerMaskInfo. Ο προεπιλεγμένος κατασκευαστής"
 type: docs
 weight: 10
 url: /el/net/aspose.psd.fileformats.psd.layers/globallayermaskinfo/globallayermaskinfo/
 ---
+{{< psd/tize >}}
 ## GlobalLayerMaskInfo constructor
 
 Ο προεπιλεγμένος κατασκευαστής.
@@ -17,7 +18,7 @@ public GlobalLayerMaskInfo()
 ### Δείτε επίσης
 
 * class [GlobalLayerMaskInfo](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers](../../globallayermaskinfo/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

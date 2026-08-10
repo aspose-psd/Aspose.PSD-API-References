@@ -1,11 +1,12 @@
 ---
-title: PattResource.Patterns
-second_title: Aspose.PSD για Αναφορά API .NET
-description: PattResource ιδιοκτησία. Λαμβάνει ή ορίζει τα δεδομένα μοτίβων
+title: "PattResource.Patterns"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "PattResource ιδιότητα. Επιστρέφει ή ορίζει τα δεδομένα μοτίβων"
 type: docs
-weight: 40
+weight: 30
 url: /el/net/aspose.psd.fileformats.psd.layers.layerresources/pattresource/patterns/
 ---
+{{< psd/tize >}}
 ## PattResource.Patterns property
 
 Λαμβάνει ή ορίζει τα δεδομένα μοτίβων;
@@ -18,7 +19,7 @@ public PattResourceData[] Patterns { get; set; }
 
 * class [PattResourceData](../../pattresourcedata/)
 * class [PattResource](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../pattresource/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

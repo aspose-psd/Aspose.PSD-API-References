@@ -1,14 +1,15 @@
 ---
-title: Class RenditionClass
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Aspose.PSD.Xmp.Types.Derived.RenditionClass τάξη. Αντιπροσωπεύει την απόδοση XMP.
+title: "Κλάση RenditionClass"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Aspose.PSD.Xmp.Types.Derived.RenditionClass κλάση. Αντιπροσωπεύει την XMP Αναπαράσταση"
 type: docs
-weight: 6130
+weight: 6630
 url: /el/net/aspose.psd.xmp.types.derived/renditionclass/
 ---
+{{< psd/tize >}}
 ## RenditionClass class
 
-Αντιπροσωπεύει την απόδοση XMP.
+Αντιπροσωπεύει το XMP Rendition.
 
 ```csharp
 public sealed class RenditionClass : XmpTypeBase
@@ -16,29 +17,29 @@ public sealed class RenditionClass : XmpTypeBase
 
 ## Κατασκευαστές
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
-| [RenditionClass](renditionclass/#constructor)() | Αρχικοποιεί μια νέα παρουσία του`RenditionClass` τάξη. |
-| [RenditionClass](renditionclass/#constructor_1)(string, string) | Αρχικοποιεί μια νέα παρουσία του`RenditionClass` τάξη. |
+| [RenditionClass](renditionclass/#constructor)() | Αρχικοποιεί μια νέα παρουσία της κλάσης `RenditionClass`. |
+| [RenditionClass](renditionclass/#constructor_1)(string, string) | Αρχικοποιεί μια νέα παρουσία της κλάσης `RenditionClass`. |
 
 ## Ιδιότητες
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
-| [Token](../../aspose.psd.xmp.types.derived/renditionclass/token/) { get; set; } | Παίρνει ή ορίζει το διακριτικό. |
+| [Token](../../aspose.psd.xmp.types.derived/renditionclass/token/) { get; set; } | Λαμβάνει ή ορίζει το διακριτικό. |
 | [Value](../../aspose.psd.xmp.types.derived/renditionclass/value/) { get; set; } | Λαμβάνει ή ορίζει την τιμή. |
-| static [DefinedValues](../../aspose.psd.xmp.types.derived/renditionclass/definedvalues/) { get; } | Οι καθορισμένες τιμές |
+| static [DefinedValues](../../aspose.psd.xmp.types.derived/renditionclass/definedvalues/) { get; } | Οι ορισμένες τιμές |
 
 ## Μέθοδοι
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
-| override [GetXmpRepresentation](../../aspose.psd.xmp.types.derived/renditionclass/getxmprepresentation/)() | Λαμβάνει την τιμή που περιέχεται στη συμβολοσειρά σε μορφή XMP. |
+| override [GetXmpRepresentation](../../aspose.psd.xmp.types.derived/renditionclass/getxmprepresentation/)() | Λαμβάνει τη συμβολοσειρά που περιέχει την τιμή σε μορφή XMP. |
 
 ### Δείτε επίσης
 
 * class [XmpTypeBase](../../aspose.psd.xmp.types/xmptypebase/)
-* χώρος ονομάτων [Aspose.PSD.Xmp.Types.Derived](../../aspose.psd.xmp.types.derived/)
-* συνέλευση [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Xmp.Types.Derived](../../aspose.psd.xmp.types.derived/)
+* assembly [Aspose.PSD](../../)
 
 

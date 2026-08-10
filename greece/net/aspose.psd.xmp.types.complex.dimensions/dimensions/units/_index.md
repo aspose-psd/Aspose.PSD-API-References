@@ -1,11 +1,12 @@
 ---
-title: Dimensions.Units
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Dimensions ιδιοκτησία. Λαμβάνει ή ορίζει μονάδες.
+title: "Dimensions.Units"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα Dimensions. Λαμβάνει ή ορίζει μονάδες"
 type: docs
 weight: 30
 url: /el/net/aspose.psd.xmp.types.complex.dimensions/dimensions/units/
 ---
+{{< psd/tize >}}
 ## Dimensions.Units property
 
 Λαμβάνει ή ορίζει μονάδες.
@@ -14,18 +15,18 @@ url: /el/net/aspose.psd.xmp.types.complex.dimensions/dimensions/units/
 public string Units { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
 Οι μονάδες.
 
-### Παραδείγματα
+## Παραδείγματα
 
-Για παράδειγμα: ίντσα, mm, pixel, pica, σημείο κ.λπ.
+Για παράδειγμα: ίντσα, mm, pixel, pica, point κλπ.
 
 ### Δείτε επίσης
 
 * class [Dimensions](../)
-* χώρος ονομάτων [Aspose.PSD.Xmp.Types.Complex.Dimensions](../../dimensions/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.Dimensions](../../../aspose.psd.xmp.types.complex.dimensions/)
+* assembly [Aspose.PSD](../../../)
 
 

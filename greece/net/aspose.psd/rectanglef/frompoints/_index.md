@@ -1,14 +1,15 @@
 ---
-title: RectangleF.FromPoints
-second_title: Aspose.PSD για Αναφορά API .NET
-description: RectangleF μέθοδος. Δημιουργεί ένα νέοRectangle από δύο καθορισμένα σημεία. Δύο κορυφές του δημιουργημένουRectangle θα είναι ίσο με το περασμένοpoint1 καιpoint2 . Αυτές θα ήταν συνήθως οι αντίθετες κορυφές.
+title: "RectangleF.FromPoints"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "RectangleF μέθοδος. Δημιουργεί ένα νέο Rectangle από δύο καθορισμένα σημεία. Οι δύο κορυφές του δημιουργημένου Rectangle θα είναι ίσες με τα περασμένα point1 και point2. Αυτές θα είναι συνήθως οι αντίθετες κορυφές."
 type: docs
 weight: 40
 url: /el/net/aspose.psd/rectanglef/frompoints/
 ---
+{{< psd/tize >}}
 ## RectangleF.FromPoints method
 
-Δημιουργεί ένα νέο[`Rectangle`](../../rectangle/) από δύο καθορισμένα σημεία. Δύο κορυφές του δημιουργημένου[`Rectangle`](../../rectangle/) θα είναι ίσο με το περασμένο*point1* και*point2* . Αυτές θα ήταν συνήθως οι αντίθετες κορυφές.
+Δημιουργεί ένα νέο [`Rectangle`](../../rectangle/) από δύο καθορισμένα σημεία. Οι δύο κορυφές του δημιουργημένου [`Rectangle`](../../rectangle/) θα είναι ίσες με τα περασμένα *point1* και *point2*. Αυτές θα είναι συνήθως οι αντίθετες κορυφές.
 
 ```csharp
 public static RectangleF FromPoints(PointF point1, PointF point2)
@@ -16,18 +17,18 @@ public static RectangleF FromPoints(PointF point1, PointF point2)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| point1 | PointF | Ο πρώτος[`Point`](../../point/) για το νέο ορθογώνιο. |
-| point2 | PointF | Το δεύτερο[`Point`](../../point/) για το νέο ορθογώνιο. |
+| point1 | PointF | Το πρώτο [`Point`](../../point/) για το νέο rectangle. |
+| point2 | PointF | Το δεύτερο [`Point`](../../point/) για το νέο rectangle. |
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-Ένα νεοδημιουργημένο[`Rectangle`](../../rectangle/).
+Ένα νέο δημιουργημένο [`Rectangle`](../../rectangle/).
 
 ### Δείτε επίσης
 
 * struct [PointF](../../pointf/)
 * struct [RectangleF](../)
-* χώρος ονομάτων [Aspose.PSD](../../rectanglef/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: Delegate ProgressEventHandler
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Αναφορά συνάρτησης χειριστή συμβάντων προόδου
+title: "Διαμεσολαβητής ProgressEventHandler"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Αναφορά συνάρτησης χειριστή συμβάντος προόδου"
 type: docs
-weight: 5280
+weight: 5780
 url: /el/net/aspose.psd/progresseventhandler/
 ---
+{{< psd/tize >}}
 ## ProgressEventHandler delegate
 
-Αναφορά συνάρτησης χειριστή συμβάντων προόδου
+Αναφορά συνάρτησης χειριστή συμβάντος προόδου
 
 ```csharp
 public delegate void ProgressEventHandler(ProgressEventHandlerInfo info);
@@ -16,11 +17,11 @@ public delegate void ProgressEventHandler(ProgressEventHandlerInfo info);
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| info | ProgressEventHandlerInfo | Τα δεδομένα του χειριστή συμβάντων προόδου. |
+| πληροφορίες | ProgressEventHandlerInfo | Τα δεδομένα του διαχειριστή προόδου. |
 
-### Παραδείγματα
+## Παραδείγματα
 
-Το ακόλουθο παράδειγμα δείχνει ότι η πρόοδος μετατροπής του εγγράφου λειτουργεί σωστά και χωρίς εξαίρεση.
+Το παρακάτω παράδειγμα δείχνει ότι η πρόοδος μετατροπής εγγράφου λειτουργεί σωστά και χωρίς εξαίρεση.
 
 ```csharp
 [C#]
@@ -67,7 +68,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath, loadOptions))
 ### Δείτε επίσης
 
 * class [ProgressEventHandlerInfo](../../aspose.psd.progressmanagement/progresseventhandlerinfo/)
-* χώρος ονομάτων [Aspose.PSD](../../aspose.psd/)
-* συνέλευση [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

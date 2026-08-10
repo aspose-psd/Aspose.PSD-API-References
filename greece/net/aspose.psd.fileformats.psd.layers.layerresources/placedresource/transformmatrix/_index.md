@@ -1,27 +1,28 @@
 ---
-title: PlacedResource.TransformMatrix
-second_title: Aspose.PSD για Αναφορά API .NET
-description: PlacedResource ιδιοκτησία. Λαμβάνει ή ορίζει τον πίνακα μετασχηματισμού του τοποθετημένου επιπέδου στο αρχείο PSD.
+title: "PlacedResource.TransformMatrix"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα PlacedResource. Λαμβάνει ή ορίζει τον πίνακα μετασχηματισμού του τοποθετημένου στρώματος στο αρχείο PSD"
 type: docs
-weight: 170
+weight: 160
 url: /el/net/aspose.psd.fileformats.psd.layers.layerresources/placedresource/transformmatrix/
 ---
+{{< psd/tize >}}
 ## PlacedResource.TransformMatrix property
 
-Λαμβάνει ή ορίζει τον πίνακα μετασχηματισμού του τοποθετημένου επιπέδου στο αρχείο PSD.
+Ανακτά ή ορίζει τον πίνακα μετασχηματισμού του τοποθετημένου στρώματος στο αρχείο PSD.
 
 ```csharp
 public virtual double[] TransformMatrix { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
 Ο πίνακας μετασχηματισμού του τοποθετημένου στρώματος.
 
 ### Δείτε επίσης
 
 * class [PlacedResource](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../placedresource/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

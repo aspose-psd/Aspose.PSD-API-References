@@ -1,27 +1,28 @@
 ---
-title: SmartObjectResource.Resolution
-second_title: Aspose.PSD για Αναφορά API .NET
-description: SmartObjectResource ιδιοκτησία. Λαμβάνει ή ορίζει την ανάλυση των δεδομένων επιπέδου έξυπνου αντικειμένου στο αρχείο PSD.
+title: "SmartObjectResource.Resolution"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα SmartObjectResource. Λαμβάνει ή ορίζει την ανάλυση των δεδομένων της στρώσης smart object στο αρχείο PSD"
 type: docs
-weight: 190
+weight: 180
 url: /el/net/aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/resolution/
 ---
+{{< psd/tize >}}
 ## SmartObjectResource.Resolution property
 
-Λαμβάνει ή ορίζει την ανάλυση των δεδομένων επιπέδου έξυπνου αντικειμένου στο αρχείο PSD.
+Λαμβάνει ή ορίζει την ανάλυση των δεδομένων στρώσης έξυπνου αντικειμένου στο αρχείο PSD.
 
 ```csharp
 public double Resolution { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Η ανάλυση του επιπέδου έξυπνου αντικειμένου.
+Η ανάλυση της στρώσης smart object.
 
 ### Δείτε επίσης
 
 * class [SmartObjectResource](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../smartobjectresource/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: IntRange.GetRange
-second_title: Aspose.PSD για Αναφορά API .NET
-description: IntRange μέθοδος. Λαμβάνει το εύρος μέτρησης των στοιχείων int ξεκινώντας από start
+title: "IntRange.GetRange"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Μέθοδος IntRange. Λαμβάνει το εύρος πλήθους των στοιχείων int που ξεκινούν από start"
 type: docs
 weight: 40
 url: /el/net/aspose.psd/intrange/getrange/
 ---
+{{< psd/tize >}}
 ## IntRange.GetRange method
 
-Λαμβάνει το εύρος μέτρησης των στοιχείων int ξεκινώντας από start
+Λαμβάνει το εύρος καταμέτρησης των στοιχείων int που ξεκινά από το start
 
 ```csharp
 public static IEnumerable<int> GetRange(int start, int count, int delta)
@@ -16,24 +17,24 @@ public static IEnumerable<int> GetRange(int start, int count, int delta)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| start | Int32 | Η αρχη. |
-| count | Int32 | Το μέτρημα. |
-| delta | Int32 | Το δέλτα. |
+| αρχή | Int32 | Η αρχή. |
+| πλήθος | Int32 | Ο αριθμός. |
+| διαφορά | Int32 | Η διαφορά. |
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-Σειρά αντικειμένων
+Πίνακας στοιχείων
 
 ### Εξαιρέσεις
 
-| εξαίρεση | κατάσταση |
+| εξαίρεση | συνθήκη |
 | --- | --- |
-| ArgumentException | Ο αριθμός δεν μπορεί να είναι εραστής από 1 ή {D255958A-8513-4226-94B9-080D98F904A1}Η αρχική σελίδα δεν μπορεί να είναι εραστής από 0 |
+| ArgumentException | Το πλήθος δεν μπορεί να είναι μικρότερο από 1 ή {D255958A-8513-4226-94B9-080D98F904A1}Η σελίδα έναρξης δεν μπορεί να είναι μικρότερη από 0 |
 
 ### Δείτε επίσης
 
 * class [IntRange](../)
-* χώρος ονομάτων [Aspose.PSD](../../intrange/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

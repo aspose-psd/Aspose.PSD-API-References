@@ -1,27 +1,28 @@
 ---
-title: RasterImage.UpdateXmpData
-second_title: Aspose.PSD για Αναφορά API .NET
-description: RasterImage ιδιοκτησία. Λαμβάνει ή ορίζει μια τιμή που υποδεικνύει εάν θα ενημερώσει τα μεταδεδομένα XMP.
+title: "RasterImage.UpdateXmpData"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα RasterImage. Λαμβάνει ή ορίζει μια τιμή που υποδεικνύει εάν θα ενημερωθούν τα μεταδεδομένα XMP"
 type: docs
 weight: 140
 url: /el/net/aspose.psd/rasterimage/updatexmpdata/
 ---
+{{< psd/tize >}}
 ## RasterImage.UpdateXmpData property
 
-Λαμβάνει ή ορίζει μια τιμή που υποδεικνύει εάν θα ενημερώσει τα μεταδεδομένα XMP.
+Ανακτά ή ορίζει μια τιμή που υποδεικνύει εάν θα ενημερωθούν τα μεταδεδομένα XMP.
 
 ```csharp
 public virtual bool UpdateXmpData { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-`αληθής` εάν ενημερώσετε τα μεταδεδομένα XMP. σε διαφορετική περίπτωση,`ψευδής` .
+`true` εάν ενημερωθούν τα μεταδεδομένα XMP· διαφορετικά, `false`.
 
 ### Δείτε επίσης
 
 * class [RasterImage](../)
-* χώρος ονομάτων [Aspose.PSD](../../rasterimage/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

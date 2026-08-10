@@ -1,54 +1,55 @@
 ---
-title: Class LayerSectionResource
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.LayerSectionResource τάξη. Ο πόρος της ενότητας στρώματος.
+title: "Κλάση LayerSectionResource"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Aspose.PSD.FileFormats.Psd.Layers.LayerResources.LayerSectionResource κλάση. Ο πόρος ενότητας στρώσης."
 type: docs
-weight: 2590
+weight: 2900
 url: /el/net/aspose.psd.fileformats.psd.layers.layerresources/layersectionresource/
 ---
+{{< psd/tize >}}
 ## LayerSectionResource class
 
-Ο πόρος της ενότητας στρώματος.
+Ο πόρος ενότητας στρώματος.
 
 ```csharp
-public class LayerSectionResource : LayerResource
+public class LayerSectionResource : BaseLayerSectionResource
 ```
 
 ## Κατασκευαστές
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
-| [LayerSectionResource](layersectionresource/)() | Αρχικοποιεί μια νέα παρουσία του`LayerSectionResource` τάξη. |
+| [LayerSectionResource](layersectionresource/)() | Αρχικοποιεί ένα νέο αντικείμενο της κλάσης `LayerSectionResource`. |
 
 ## Ιδιότητες
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
-| [BlendModeKey](../../aspose.psd.fileformats.psd.layers.layerresources/layersectionresource/blendmodekey/) { get; set; } | Λαμβάνει ή ρυθμίζει το πλήκτρο λειτουργίας ανάμειξης. |
-| override [Key](../../aspose.psd.fileformats.psd.layers.layerresources/layersectionresource/key/) { get; } | Λαμβάνει το κλειδί πόρων επιπέδου. |
-| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/layersectionresource/length/) { get; } | Λαμβάνει το μήκος του πόρου του επιπέδου σε byte. |
-| override [PsdVersion](../../aspose.psd.fileformats.psd.layers.layerresources/layersectionresource/psdversion/) { get; } | Λαμβάνει την ελάχιστη έκδοση psd που απαιτείται για τον πόρο του επιπέδου. Το 0 δεν υποδηλώνει περιορισμούς. |
-| [SectionType](../../aspose.psd.fileformats.psd.layers.layerresources/layersectionresource/sectiontype/) { get; set; } | Λαμβάνει ή ορίζει τον τύπο ενότητας. |
-| override [Signature](../../aspose.psd.fileformats.psd.layers.layerresources/layersectionresource/signature/) { get; } | Λαμβάνει την υπογραφή του πόρου του επιπέδου. |
-| [Subtype](../../aspose.psd.fileformats.psd.layers.layerresources/layersectionresource/subtype/) { get; set; } | Λαμβάνει ή ορίζει τον δευτερεύοντα τύπο. |
+| [BlendModeKey](../../aspose.psd.fileformats.psd.layers.layerresources/baselayersectionresource/blendmodekey/) { get; set; } | Λαμβάνει ή ορίζει το κλειδί της λειτουργίας ανάμειξης. |
+| [Key](../../aspose.psd.fileformats.psd.layers/layerresource/key/) { get; } | Λαμβάνει το κλειδί πόρου του επιπέδου. |
+| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/baselayersectionresource/length/) { get; } | Λαμβάνει το μήκος του πόρου του επιπέδου σε bytes. |
+| virtual [PsdVersion](../../aspose.psd.fileformats.psd.layers/layerresource/psdversion/) { get; } | Λαμβάνει την ελάχιστη έκδοση psd που απαιτείται για τον πόρο του επιπέδου. 0 υποδεικνύει ότι δεν υπάρχουν περιορισμοί. |
+| [SectionType](../../aspose.psd.fileformats.psd.layers.layerresources/baselayersectionresource/sectiontype/) { get; set; } | Λαμβάνει ή ορίζει τον τύπο ενότητας. |
+| virtual [Signature](../../aspose.psd.fileformats.psd.layers/layerresource/signature/) { get; } | Λαμβάνει την υπογραφή. |
+| [Subtype](../../aspose.psd.fileformats.psd.layers.layerresources/baselayersectionresource/subtype/) { get; set; } | Λαμβάνει ή ορίζει τον υποτύπο. |
 
 ## Μέθοδοι
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
-| override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/layersectionresource/save/)(StreamContainer, int) | Αποθηκεύει τον πόρο στο καθορισμένο κοντέινερ ροής. |
-| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring/)() | Επιστρέφει αString που αντιπροσωπεύει αυτήν την περίπτωση. |
+| override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/baselayersectionresource/save/)(StreamContainer, int) | Αποθηκεύει τον πόρο στο καθορισμένο κοντέινερ ροής. |
+| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring/)() | Επιστρέφει ένα String που αντιπροσωπεύει αυτήν την περίπτωση. |
 
 ## Πεδία
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
-| const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/layersectionresource/typetoolkey/) | Το κλειδί πληροφοριών εργαλείου τύπου. |
+| const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/layersectionresource/typetoolkey/) | Το κλειδί πληροφοριών του εργαλείου τύπου. |
 
 ### Δείτε επίσης
 
-* class [LayerResource](../../aspose.psd.fileformats.psd.layers/layerresource/)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
-* συνέλευση [Aspose.PSD](../../)
+* class [BaseLayerSectionResource](../baselayersectionresource/)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../)
 
 

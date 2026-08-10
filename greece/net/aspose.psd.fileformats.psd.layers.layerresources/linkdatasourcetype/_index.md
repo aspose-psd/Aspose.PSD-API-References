@@ -1,31 +1,32 @@
 ---
-title: Enum LinkDataSourceType
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.LinkDataSourceType αρίθμηση. Καθορίζει την απαρίθμηση LinkDataSourceType για τις πηγές δεδομένων στον πόρο συνδέσμου PSD.
+title: "Απαρίθμηση LinkDataSourceType"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Απαρίθμηση Aspose.PSD.FileFormats.Psd.Layers.LayerResources.LinkDataSourceType. Ορίζει την απαρίθμηση LinkDataSourceType για τις πηγές δεδομένων στον πόρο σύνδεσης PSD"
 type: docs
-weight: 2700
+weight: 3000
 url: /el/net/aspose.psd.fileformats.psd.layers.layerresources/linkdatasourcetype/
 ---
+{{< psd/tize >}}
 ## LinkDataSourceType enumeration
 
-Καθορίζει την απαρίθμηση LinkDataSourceType για τις πηγές δεδομένων στον πόρο συνδέσμου PSD.
+Ορίζει την απαρίθμηση LinkDataSourceType για τις πηγές δεδομένων στον πόρο σύνδεσης PSD.
 
 ```csharp
 public enum LinkDataSourceType
 ```
 
-### Αξίες
+### Τιμές
 
-| Ονομα | αξία | Περιγραφή |
+| Όνομα | Τιμή | Περιγραφή |
 | --- | --- | --- |
-| None | `0` | Ο κενός πόρος συνδέσμου. |
-| liFD | `1` | Το ενσωματωμένο συνδεδεμένο αρχείο data |
-| liFE | `2` | Το εξωτερικό συνδεδεμένο αρχείο data |
-| liFA | `3` | Το συνδεδεμένο αρχείο ψευδώνυμο data |
+| None | `0` | Ο άδειος πόρος σύνδεσης. |
+| liFD | `1` | Τα ενσωματωμένα δεδομένα συνδεδεμένου αρχείου |
+| liFE | `2` | Τα δεδομένα του εξωτερικού συνδεδεμένου αρχείου |
+| liFA | `3` | Τα δεδομένα ψευδώνυμου του συνδεδεμένου αρχείου |
 
-### Παραδείγματα
+## Παραδείγματα
 
-Ο ακόλουθος κώδικας δείχνει την υποστήριξη του πόρου LnkeResource.
+Ο παρακάτω κώδικας δείχνει την υποστήριξη του πόρου LnkeResource.
 
 ```csharp
 [C#]
@@ -249,7 +250,7 @@ ExampleOfComplexLnkEResourceSupport(
 
 ### Δείτε επίσης
 
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
-* συνέλευση [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../)
 
 

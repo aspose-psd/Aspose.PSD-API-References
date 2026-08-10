@@ -1,11 +1,12 @@
 ---
-title: TypeToolInfoResource.CharacterCount
-second_title: Aspose.PSD για Αναφορά API .NET
-description: TypeToolInfoResource ιδιοκτησία. Λαμβάνει ή ορίζει τον αριθμό χαρακτήρων.
+title: "TypeToolInfoResource.CharacterCount"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "TypeToolInfoResource ιδιότητα. Λαμβάνει ή ορίζει τον αριθμό χαρακτήρων"
 type: docs
 weight: 40
 url: /el/net/aspose.psd.fileformats.psd.layers.layerresources/typetoolinforesource/charactercount/
 ---
+{{< psd/tize >}}
 ## TypeToolInfoResource.CharacterCount property
 
 Λαμβάνει ή ορίζει τον αριθμό χαρακτήρων.
@@ -14,14 +15,14 @@ url: /el/net/aspose.psd.fileformats.psd.layers.layerresources/typetoolinforesour
 public int CharacterCount { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
 Ο αριθμός χαρακτήρων.
 
 ### Δείτε επίσης
 
 * class [TypeToolInfoResource](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../typetoolinforesource/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

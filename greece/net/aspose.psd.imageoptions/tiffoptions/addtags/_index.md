@@ -1,11 +1,12 @@
 ---
-title: TiffOptions.AddTags
-second_title: Aspose.PSD για Αναφορά API .NET
-description: TiffOptions μέθοδος. Προσθέτει τις ετικέτες.
+title: "TiffOptions.AddTags"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Μέθοδος TiffOptions. Προσθέτει τις ετικέτες"
 type: docs
-weight: 710
+weight: 720
 url: /el/net/aspose.psd.imageoptions/tiffoptions/addtags/
 ---
+{{< psd/tize >}}
 ## TiffOptions.AddTags method
 
 Προσθέτει τις ετικέτες.
@@ -16,13 +17,13 @@ public void AddTags(TiffDataType[] tagsToAdd)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| tagsToAdd | TiffDataType[] | Οι ετικέτες για προσθήκη. |
+| tagsToAdd | TiffDataType[] | Οι ετικέτες προς προσθήκη. |
 
 ### Δείτε επίσης
 
 * class [TiffDataType](../../../aspose.psd.fileformats.tiff/tiffdatatype/)
 * class [TiffOptions](../)
-* χώρος ονομάτων [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

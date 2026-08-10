@@ -1,28 +1,29 @@
 ---
-title: GridAndGuidesResouce.Guides
-second_title: Aspose.PSD για Αναφορά API .NET
-description: GridAndGuidesResouce ιδιοκτησία. Παίρνει ή ρυθμίζει τους οδηγούς.
+title: "GridAndGuidesResouce.Guides"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα GridAndGuidesResouce. Λαμβάνει ή ορίζει τις οδηγίες"
 type: docs
 weight: 60
 url: /el/net/aspose.psd.fileformats.psd.resources/gridandguidesresouce/guides/
 ---
+{{< psd/tize >}}
 ## GridAndGuidesResouce.Guides property
 
-Παίρνει ή ρυθμίζει τους οδηγούς.
+Λαμβάνει ή ορίζει τις οδηγίες.
 
 ```csharp
 public GuideResource[] Guides { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Οι οδηγοί.
+Οι οδηγίες.
 
 ### Δείτε επίσης
 
 * class [GuideResource](../../guideresource/)
 * class [GridAndGuidesResouce](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Resources](../../gridandguidesresouce/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

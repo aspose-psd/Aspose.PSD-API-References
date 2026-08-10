@@ -1,14 +1,15 @@
 ---
-title: VstkResource.StrokeStyleVersion
-second_title: Aspose.PSD για Αναφορά API .NET
-description: VstkResource ιδιοκτησία. Λαμβάνει ή ρυθμίζει την έκδοση στυλ stroke.
+title: "VstkResource.StrokeStyleVersion"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "VstkResource ιδιότητα. Λαμβάνει ή ορίζει την έκδοση στυλ γραμμής"
 type: docs
-weight: 220
+weight: 200
 url: /el/net/aspose.psd.fileformats.psd.layers.layerresources.strokeresources/vstkresource/strokestyleversion/
 ---
+{{< psd/tize >}}
 ## VstkResource.StrokeStyleVersion property
 
-Λαμβάνει ή ρυθμίζει την έκδοση στυλ stroke.
+Λαμβάνει ή ορίζει την έκδοση του στυλ περιγράμματος.
 
 ```csharp
 public int StrokeStyleVersion { get; set; }
@@ -17,7 +18,7 @@ public int StrokeStyleVersion { get; set; }
 ### Δείτε επίσης
 
 * class [VstkResource](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.StrokeResources](../../vstkresource/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.StrokeResources](../../../aspose.psd.fileformats.psd.layers.layerresources.strokeresources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: Image.BackgroundColor
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Image ιδιοκτησία. Λαμβάνει ή ορίζει μια τιμή για το χρώμα φόντου.
+title: "Image.BackgroundColor"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα Image. Λαμβάνει ή ορίζει μια τιμή για το χρώμα φόντου"
 type: docs
 weight: 40
 url: /el/net/aspose.psd/image/backgroundcolor/
 ---
+{{< psd/tize >}}
 ## Image.BackgroundColor property
 
 Λαμβάνει ή ορίζει μια τιμή για το χρώμα φόντου.
@@ -18,7 +19,7 @@ public virtual Color BackgroundColor { get; set; }
 
 * struct [Color](../../color/)
 * class [Image](../)
-* χώρος ονομάτων [Aspose.PSD](../../image/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

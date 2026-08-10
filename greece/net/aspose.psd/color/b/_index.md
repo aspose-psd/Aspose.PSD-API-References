@@ -1,27 +1,28 @@
 ---
-title: Color.B
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Color ιδιοκτησία. Λαμβάνει την μπλε τιμή στοιχείου αυτούColorδομή.
+title: "Color.B"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Color ιδιότητα. Επιστρέφει την τιμή του μπλε συστατικού αυτής της δομής Color"
 type: docs
 weight: 1470
 url: /el/net/aspose.psd/color/b/
 ---
+{{< psd/tize >}}
 ## Color.B property
 
-Λαμβάνει την μπλε τιμή στοιχείου αυτού[`Color`](../)δομή.
+Επιστρέφει την τιμή του μπλε συστατικού αυτής της δομής [`Color`](../).
 
 ```csharp
 public byte B { get; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Η τιμή του μπλε συστατικού αυτού[`Color`](../).
+Η τιμή του μπλε συστατικού αυτής της [`Color`](../).
 
 ### Δείτε επίσης
 
 * struct [Color](../)
-* χώρος ονομάτων [Aspose.PSD](../../color/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: LinearGradientBrush.SetBlendTriangularShape
-second_title: Aspose.PSD για Αναφορά API .NET
-description: LinearGradientBrush μέθοδος. Δημιουργεί μια γραμμική κλίση με ένα κεντρικό χρώμα και μια γραμμική πτώση σε ένα μόνο χρώμα και στα δύο άκρα.
+title: "LinearGradientBrush.SetBlendTriangularShape"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Μέθοδος LinearGradientBrush. Δημιουργεί μια γραμμική διαβάθμιση με κεντρικό χρώμα και γραμμική απόπτωση προς ένα ενιαίο χρώμα και στα δύο άκρα."
 type: docs
-weight: 50
+weight: 70
 url: /el/net/aspose.psd.brushes/lineargradientbrush/setblendtriangularshape/
 ---
+{{< psd/tize >}}
 ## SetBlendTriangularShape(float) {#setblendtriangularshape}
 
-Δημιουργεί μια γραμμική κλίση με ένα κεντρικό χρώμα και μια γραμμική πτώση σε ένα μόνο χρώμα και στα δύο άκρα.
+Δημιουργεί μια γραμμική διαβάθμιση με κεντρικό χρώμα και γραμμική εξασθένιση προς ένα ενιαίο χρώμα και στα δύο άκρα.
 
 ```csharp
 public void SetBlendTriangularShape(float focus)
@@ -16,19 +17,19 @@ public void SetBlendTriangularShape(float focus)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| focus | Single | Μια τιμή από το 0 έως το 1 που καθορίζει το κέντρο της διαβάθμισης (το σημείο όπου η διαβάθμιση αποτελείται μόνο από το τελικό χρώμα). |
+| εστία | Single | Μια τιμή από 0 έως 1 που καθορίζει το κέντρο της διαβάθμισης (το σημείο όπου η διαβάθμιση αποτελείται μόνο από το τελικό χρώμα). |
 
 ### Δείτε επίσης
 
 * class [LinearGradientBrush](../)
-* χώρος ονομάτων [Aspose.PSD.Brushes](../../lineargradientbrush/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## SetBlendTriangularShape(float, float) {#setblendtriangularshape_1}
 
-Δημιουργεί μια γραμμική κλίση με ένα κεντρικό χρώμα και μια γραμμική πτώση σε ένα μόνο χρώμα και στα δύο άκρα.
+Δημιουργεί μια γραμμική διαβάθμιση με κεντρικό χρώμα και γραμμική εξασθένιση προς ένα ενιαίο χρώμα και στα δύο άκρα.
 
 ```csharp
 public void SetBlendTriangularShape(float focus, float scale)
@@ -36,13 +37,13 @@ public void SetBlendTriangularShape(float focus, float scale)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| focus | Single | Μια τιμή από το 0 έως το 1 που καθορίζει το κέντρο της διαβάθμισης (το σημείο όπου η διαβάθμιση αποτελείται μόνο από το τελικό χρώμα). |
-| scale | Single | Μια τιμή από το 0 έως το 1 που καθορίζει πόσο γρήγορα πέφτουν τα χρώματα από το αρχικό χρώμα στο*focus*(χρώμα τέλους) |
+| εστία | Single | Μια τιμή από 0 έως 1 που καθορίζει το κέντρο της διαβάθμισης (το σημείο όπου η διαβάθμιση αποτελείται μόνο από το τελικό χρώμα). |
+| scale | Single | Μια τιμή από 0 έως 1 που καθορίζει πόσο γρήγορα τα χρώματα μειώνονται από το αρχικό χρώμα προς το *εστία* (τελικό χρώμα) |
 
 ### Δείτε επίσης
 
 * class [LinearGradientBrush](../)
-* χώρος ονομάτων [Aspose.PSD.Brushes](../../lineargradientbrush/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
+* assembly [Aspose.PSD](../../../)
 
 

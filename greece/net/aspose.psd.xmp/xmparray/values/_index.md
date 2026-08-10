@@ -1,14 +1,15 @@
 ---
-title: XmpArray.Values
-second_title: Aspose.PSD για Αναφορά API .NET
-description: XmpArray ιδιοκτησία. Λαμβάνει έναν πίνακα τιμών μέσαXmpArray .
+title: "XmpArray.Values"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "XmpArray ιδιότητα. Λαμβάνει πίνακα τιμών μέσα στο XmpArray"
 type: docs
 weight: 20
 url: /el/net/aspose.psd.xmp/xmparray/values/
 ---
+{{< psd/tize >}}
 ## XmpArray.Values property
 
-Λαμβάνει έναν πίνακα τιμών μέσα[`XmpArray`](../) .
+Λαμβάνει πίνακα τιμών μέσα στο [`XmpArray`](../).
 
 ```csharp
 public string[] Values { get; }
@@ -17,7 +18,7 @@ public string[] Values { get; }
 ### Δείτε επίσης
 
 * class [XmpArray](../)
-* χώρος ονομάτων [Aspose.PSD.Xmp](../../xmparray/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,17 +1,18 @@
 ---
-title: Aspose.PSD.Interfaces
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Ο χώρος ονομάτων χειρίζεται την επεξεργασία μορφής αρχείου Tiff.
+title: "Aspose.PSD.Interfaces"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ο χώρος ονομάτων διαχειρίζεται την επεξεργασία μορφής αρχείου Tiff."
 type: docs
-weight: 440
+weight: 480
 url: /el/net/aspose.psd.interfaces/
 ---
-Ο χώρος ονομάτων χειρίζεται την επεξεργασία μορφής αρχείου Tiff.
+{{< psd/tize >}}
+Ο χώρος ονομάτων διαχειρίζεται την επεξεργασία μορφής αρχείου TIFF.
 
 ## Διεπαφές
 
 | Διεπαφή | Περιγραφή |
 | --- | --- |
-| [IObjectWithSizeF](./iobjectwithsizef/) | Αντιπροσωπεύει αντικείμενο με Μέγεθος που εκφράζεται σε πραγματικούς αριθμούς (σε ίντσες). |
+| [IObjectWithSizeF](./iobjectwithsizef/) | Αναπαριστά αντικείμενο με Size που εκφράζεται σε πραγματικούς αριθμούς (σε ίντσες). |
 
 

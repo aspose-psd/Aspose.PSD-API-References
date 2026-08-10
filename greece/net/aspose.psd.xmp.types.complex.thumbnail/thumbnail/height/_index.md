@@ -1,33 +1,34 @@
 ---
-title: Thumbnail.Height
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Thumbnail ιδιοκτησία. Παίρνει ή ρυθμίζει το ύψος.
+title: "Thumbnail.Height"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα Thumbnail. Λαμβάνει ή ορίζει το ύψος"
 type: docs
 weight: 20
 url: /el/net/aspose.psd.xmp.types.complex.thumbnail/thumbnail/height/
 ---
+{{< psd/tize >}}
 ## Thumbnail.Height property
 
-Παίρνει ή ρυθμίζει το ύψος.
+Λαμβάνει ή ορίζει το ύψος.
 
 ```csharp
 public int Height { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
 Το ύψος.
 
 ### Εξαιρέσεις
 
-| εξαίρεση | κατάσταση |
+| εξαίρεση | συνθήκη |
 | --- | --- |
-| ArgumentOutOfRangeException | τιμή;Το ύψος δεν θα μπορούσε να είναι μικρότερο από μηδέν |
+| ArgumentOutOfRangeException | value;Το ύψος δεν μπορεί να είναι μικρότερο του μηδενός |
 
 ### Δείτε επίσης
 
 * class [Thumbnail](../)
-* χώρος ονομάτων [Aspose.PSD.Xmp.Types.Complex.Thumbnail](../../thumbnail/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.Thumbnail](../../../aspose.psd.xmp.types.complex.thumbnail/)
+* assembly [Aspose.PSD](../../../)
 
 

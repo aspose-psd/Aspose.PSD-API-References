@@ -1,14 +1,15 @@
 ---
-title: ColorRangeHsl.GetRangeCoefficient
-second_title: Aspose.PSD για Αναφορά API .NET
-description: ColorRangeHsl μέθοδος. Λαμβάνει τον συντελεστή εύρους.
+title: "ColorRangeHsl.GetRangeCoefficient"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Μέθοδος ColorRangeHsl. Λαμβάνει τον συντελεστή εύρους"
 type: docs
 weight: 90
 url: /el/net/aspose.psd.fileformats.psd.layers.layerresources/colorrangehsl/getrangecoefficient/
 ---
+{{< psd/tize >}}
 ## ColorRangeHsl.GetRangeCoefficient method
 
-Λαμβάνει τον συντελεστή εύρους.
+Λαμβάνει τον συντελεστή της περιοχής.
 
 ```csharp
 public double GetRangeCoefficient(double hue)
@@ -16,16 +17,16 @@ public double GetRangeCoefficient(double hue)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| hue | Double | Η τιμή της απόχρωσης. |
+| απόχρωση | Double | Η τιμή της απόχρωσης. |
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
 Συντελεστής εύρους κορεσμού.
 
 ### Δείτε επίσης
 
 * class [ColorRangeHsl](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../colorrangehsl/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

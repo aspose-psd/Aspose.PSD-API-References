@@ -1,14 +1,15 @@
 ---
-title: VstkResource.StrokeStyleLineJoinType
-second_title: Aspose.PSD για Αναφορά API .NET
-description: VstkResource ιδιοκτησία. Λαμβάνει ή ορίζει τον τύπο σύνδεσης γραμμής στυλ περιγράμματος.
+title: "VstkResource.StrokeStyleLineJoinType"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "VstkResource ιδιότητα. Λαμβάνει ή ορίζει τον τύπο ένωσης γραμμής στυλ"
 type: docs
-weight: 150
+weight: 130
 url: /el/net/aspose.psd.fileformats.psd.layers.layerresources.strokeresources/vstkresource/strokestylelinejointype/
 ---
+{{< psd/tize >}}
 ## VstkResource.StrokeStyleLineJoinType property
 
-Λαμβάνει ή ορίζει τον τύπο σύνδεσης γραμμής στυλ περιγράμματος.
+Λαμβάνει ή ορίζει τον τύπο ένωσης γραμμής του στυλ Stroke.
 
 ```csharp
 public LineJoinType StrokeStyleLineJoinType { get; set; }
@@ -18,7 +19,7 @@ public LineJoinType StrokeStyleLineJoinType { get; set; }
 
 * enum [LineJoinType](../../linejointype/)
 * class [VstkResource](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.StrokeResources](../../vstkresource/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.StrokeResources](../../../aspose.psd.fileformats.psd.layers.layerresources.strokeresources/)
+* assembly [Aspose.PSD](../../../)
 
 

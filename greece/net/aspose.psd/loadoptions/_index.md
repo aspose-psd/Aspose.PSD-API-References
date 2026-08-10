@@ -1,14 +1,15 @@
 ---
-title: Class LoadOptions
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Aspose.PSD.LoadOptions τάξη. Αντιπροσωπεύει τις επιλογές φόρτωσης.
+title: "Κλάση LoadOptions"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Κλάση Aspose.PSD.LoadOptions. Αντιπροσωπεύει τις επιλογές φόρτωσης"
 type: docs
-weight: 5080
+weight: 5570
 url: /el/net/aspose.psd/loadoptions/
 ---
+{{< psd/tize >}}
 ## LoadOptions class
 
-Αντιπροσωπεύει τις επιλογές φόρτωσης.
+Αναπαριστά τις επιλογές φόρτωσης.
 
 ```csharp
 public class LoadOptions
@@ -16,23 +17,23 @@ public class LoadOptions
 
 ## Κατασκευαστές
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
 | [LoadOptions](loadoptions/)() | Ο προεπιλεγμένος κατασκευαστής. |
 
 ## Ιδιότητες
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
-| [BufferSizeHint](../../aspose.psd/loadoptions/buffersizehint/) { get; set; } | Λαμβάνει ή ορίζει την υπόδειξη μεγέθους buffer που ορίζεται ως μέγιστο επιτρεπόμενο μέγεθος για όλα τα εσωτερικά buffer. |
-| [DataBackgroundColor](../../aspose.psd/loadoptions/databackgroundcolor/) { get; set; } | Λαμβάνει ή ορίζει το[`Image`](../image/) Ιστορικό[`Color`](../color/) . |
-| [DataRecoveryMode](../../aspose.psd/loadoptions/datarecoverymode/) { get; set; } | Λαμβάνει ή ρυθμίζει τη λειτουργία ανάκτησης δεδομένων. |
-| [ProgressEventHandler](../../aspose.psd/loadoptions/progresseventhandler/) { get; set; } | Λαμβάνει ή ορίζει το πρόγραμμα χειρισμού συμβάντων προόδου. |
-| [UseIccProfileConversion](../../aspose.psd/loadoptions/useiccprofileconversion/) { get; set; } | Λαμβάνει ή ορίζει μια τιμή που υποδεικνύει εάν πρέπει να εφαρμοστεί η μετατροπή προφίλ ICC. |
+| [BufferSizeHint](../../aspose.psd/loadoptions/buffersizehint/) { get; set; } | Λαμβάνει ή ορίζει την υπόδειξη μεγέθους του buffer, η οποία ορίζεται ως το μέγιστο επιτρεπόμενο μέγεθος για όλα τα εσωτερικά buffers. |
+| [DataBackgroundColor](../../aspose.psd/loadoptions/databackgroundcolor/) { get; set; } | Λαμβάνει ή ορίζει το φόντο της [`Image`](../image/) [`Color`](../color/). |
+| [DataRecoveryMode](../../aspose.psd/loadoptions/datarecoverymode/) { get; set; } | Λαμβάνει ή ορίζει τη λειτουργία ανάκτησης δεδομένων. |
+| [ProgressEventHandler](../../aspose.psd/loadoptions/progresseventhandler/) { get; set; } | Λαμβάνει ή ορίζει τον διαχειριστή συμβάντος προόδου. |
+| [UseIccProfileConversion](../../aspose.psd/loadoptions/useiccprofileconversion/) { get; set; } | Λαμβάνει ή ορίζει μια τιμή που υποδεικνύει αν πρέπει να εφαρμοστεί η μετατροπή προφίλ ICC. |
 
 ### Δείτε επίσης
 
-* χώρος ονομάτων [Aspose.PSD](../../aspose.psd/)
-* συνέλευση [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

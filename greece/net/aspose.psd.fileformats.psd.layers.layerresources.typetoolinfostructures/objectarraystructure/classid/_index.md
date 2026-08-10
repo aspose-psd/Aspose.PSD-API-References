@@ -1,24 +1,25 @@
 ---
-title: ObjectArrayStructure.ClassID
-second_title: Aspose.PSD για Αναφορά API .NET
-description: ObjectArrayStructure ιδιοκτησία. Λαμβάνει ή ορίζει το αναγνωριστικό κλάσης του πίνακα αντικειμένων.
+title: "ObjectArrayStructure.ClassID"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα ObjectArrayStructure. Λαμβάνει ή ορίζει το αναγνωριστικό κλάσης του πίνακα αντικειμένων"
 type: docs
 weight: 20
 url: /el/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/objectarraystructure/classid/
 ---
+{{< psd/tize >}}
 ## ObjectArrayStructure.ClassID property
 
-Λαμβάνει ή ορίζει το αναγνωριστικό κλάσης του πίνακα αντικειμένων.
+Λαμβάνει ή ορίζει το αναγνωριστικό (ID) της κλάσης πίνακα αντικειμένων.
 
 ```csharp
 public ClassID ClassID { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Η κλάση του πίνακα αντικειμένων ID.
+Το αναγνωριστικό κλάσης του πίνακα αντικειμένων.
 
-### Παραδείγματα
+## Παραδείγματα
 
 Ο παρακάτω κώδικας δείχνει την υποστήριξη των υπογραφών ObAr και UnFl.
 
@@ -76,7 +77,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
 
 * class [ClassID](../../../aspose.psd.fileformats.psd.layers.layerresources/classid/)
 * class [ObjectArrayStructure](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../objectarraystructure/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 

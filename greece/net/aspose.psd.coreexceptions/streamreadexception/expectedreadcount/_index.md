@@ -1,27 +1,28 @@
 ---
-title: StreamReadException.ExpectedReadCount
-second_title: Aspose.PSD για Αναφορά API .NET
-description: StreamReadException ιδιοκτησία. Λαμβάνει τον αναμενόμενο αριθμό byte ανάγνωσης.
+title: "StreamReadException.ExpectedReadCount"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα StreamReadException. Παίρνει τον αναμενόμενο αριθμό διαβασμένων byte"
 type: docs
 weight: 30
 url: /el/net/aspose.psd.coreexceptions/streamreadexception/expectedreadcount/
 ---
+{{< psd/tize >}}
 ## StreamReadException.ExpectedReadCount property
 
-Λαμβάνει τον αναμενόμενο αριθμό byte ανάγνωσης.
+Λαμβάνει τον αναμενόμενο αριθμό διαβασμένων byte.
 
 ```csharp
 public int ExpectedReadCount { get; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Τα αναμενόμενα byte ανάγνωσης μετράνε.
+Ο αναμενόμενος αριθμός διαβασμένων byte.
 
 ### Δείτε επίσης
 
 * class [StreamReadException](../)
-* χώρος ονομάτων [Aspose.PSD.CoreExceptions](../../streamreadexception/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.CoreExceptions](../../../aspose.psd.coreexceptions/)
+* assembly [Aspose.PSD](../../../)
 
 

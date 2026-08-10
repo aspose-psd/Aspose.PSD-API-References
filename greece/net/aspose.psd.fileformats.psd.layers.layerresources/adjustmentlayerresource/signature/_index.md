@@ -1,14 +1,15 @@
 ---
-title: AdjustmentLayerResource.Signature
-second_title: Aspose.PSD για Αναφορά API .NET
-description: AdjustmentLayerResource ιδιοκτησία. Παίρνει την υπογραφή.
+title: "AdjustmentLayerResource.Signature"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα AdjustmentLayerResource. Λαμβάνει την υπογραφή"
 type: docs
 weight: 10
 url: /el/net/aspose.psd.fileformats.psd.layers.layerresources/adjustmentlayerresource/signature/
 ---
+{{< psd/tize >}}
 ## AdjustmentLayerResource.Signature property
 
-Παίρνει την υπογραφή.
+Λαμβάνει την υπογραφή.
 
 ```csharp
 public override int Signature { get; }
@@ -17,7 +18,7 @@ public override int Signature { get; }
 ### Δείτε επίσης
 
 * class [AdjustmentLayerResource](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../adjustmentlayerresource/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,20 +1,21 @@
 ---
-title: ImageLoadersRegistry.RegisteredDescriptors
-second_title: Aspose.PSD για Αναφορά API .NET
-description: ImageLoadersRegistry ιδιοκτησία. Λαμβάνει τους καταχωρισμένους περιγραφείς.
+title: "ImageLoadersRegistry.RegisteredDescriptors"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "ImageLoadersRegistry ιδιότητα. Επιστρέφει τους καταχωρημένους περιγραφείς"
 type: docs
 weight: 10
 url: /el/net/aspose.psd/imageloadersregistry/registereddescriptors/
 ---
+{{< psd/tize >}}
 ## ImageLoadersRegistry.RegisteredDescriptors property
 
-Λαμβάνει τους καταχωρισμένους περιγραφείς.
+Λαμβάνει τους καταχωρημένους περιγραφείς.
 
 ```csharp
 public static IImageLoaderDescriptor[] RegisteredDescriptors { get; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
 Οι καταχωρημένοι περιγραφείς.
 
@@ -22,7 +23,7 @@ public static IImageLoaderDescriptor[] RegisteredDescriptors { get; }
 
 * interface [IImageLoaderDescriptor](../../iimageloaderdescriptor/)
 * class [ImageLoadersRegistry](../)
-* χώρος ονομάτων [Aspose.PSD](../../imageloadersregistry/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

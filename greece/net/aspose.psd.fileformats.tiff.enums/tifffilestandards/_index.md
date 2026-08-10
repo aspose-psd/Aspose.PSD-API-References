@@ -1,11 +1,12 @@
 ---
-title: Enum TiffFileStandards
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Aspose.PSD.FileFormats.Tiff.Enums.TiffFileStandards αρίθμηση. Καθορίζει τα πρότυπα μορφής αρχείου TIFF.
+title: "Απαρίθμηση TiffFileStandards"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Aspose.PSD.FileFormats.Tiff.Enums.TiffFileStandards enum. Καθορίζει τα πρότυπα μορφής αρχείων TIFF."
 type: docs
-weight: 4080
+weight: 4550
 url: /el/net/aspose.psd.fileformats.tiff.enums/tifffilestandards/
 ---
+{{< psd/tize >}}
 ## TiffFileStandards enumeration
 
 Καθορίζει τα πρότυπα μορφής αρχείου TIFF.
@@ -14,16 +15,16 @@ url: /el/net/aspose.psd.fileformats.tiff.enums/tifffilestandards/
 public enum TiffFileStandards : ushort
 ```
 
-### Αξίες
+### Τιμές
 
-| Ονομα | αξία | Περιγραφή |
+| Όνομα | Τιμή | Περιγραφή |
 | --- | --- | --- |
-| Baseline | `0` | Το πρότυπο αρχείου Baseline TIFF 6.0. Αυτό το πρότυπο είναι επίσημα γνωστό ως TIFF 6.0, Part 1: Baseline TIFF. |
-| Extended | `1` | Το πρότυπο αρχείου Extended TIFF 6.0. Αυτό το πρότυπο είναι επίσημα γνωστό ως Extended TIFF 6.0, Part 2: TIFF Extensions. |
+| Baseline | `0` | Το πρότυπο αρχείου Baseline TIFF 6.0. Αυτό το πρότυπο είναι επίσημα γνωστό ως TIFF 6.0, Μέρος 1: Baseline TIFF. |
+| Extended | `1` | Το πρότυπο αρχείου Extended TIFF 6.0. Αυτό το πρότυπο είναι επίσημα γνωστό ως Extended TIFF 6.0, Μέρος 2: Επεκτάσεις TIFF. |
 
 ### Δείτε επίσης
 
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Tiff.Enums](../../aspose.psd.fileformats.tiff.enums/)
-* συνέλευση [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Tiff.Enums](../../aspose.psd.fileformats.tiff.enums/)
+* assembly [Aspose.PSD](../../)
 
 

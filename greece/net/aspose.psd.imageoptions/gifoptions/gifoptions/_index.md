@@ -1,14 +1,15 @@
 ---
-title: GifOptions.GifOptions
-second_title: Aspose.PSD για Αναφορά API .NET
-description: GifOptions κατασκευαστής. Αρχικοποιεί μια νέα παρουσία τουGifOptions τάξη.
+title: "GifOptions.GifOptions"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Κατασκευαστής GifOptions. Αρχικοποιεί ένα νέο αντικείμενο της κλάσης GifOptions"
 type: docs
 weight: 10
 url: /el/net/aspose.psd.imageoptions/gifoptions/gifoptions/
 ---
+{{< psd/tize >}}
 ## GifOptions() {#constructor}
 
-Αρχικοποιεί μια νέα παρουσία του[`GifOptions`](../) τάξη.
+Αρχικοποιεί ένα νέο αντικείμενο της κλάσης [`GifOptions`](../).
 
 ```csharp
 public GifOptions()
@@ -17,14 +18,14 @@ public GifOptions()
 ### Δείτε επίσης
 
 * class [GifOptions](../)
-* χώρος ονομάτων [Aspose.PSD.ImageOptions](../../gifoptions/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## GifOptions(GifOptions) {#constructor_1}
 
-Αρχικοποιεί μια νέα παρουσία του[`GifOptions`](../) τάξη.
+Αρχικοποιεί ένα νέο αντικείμενο της κλάσης [`GifOptions`](../).
 
 ```csharp
 public GifOptions(GifOptions gifOptions)
@@ -37,7 +38,7 @@ public GifOptions(GifOptions gifOptions)
 ### Δείτε επίσης
 
 * class [GifOptions](../)
-* χώρος ονομάτων [Aspose.PSD.ImageOptions](../../gifoptions/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

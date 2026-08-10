@@ -1,27 +1,28 @@
 ---
-title: GradientFillSettings.Dither
-second_title: Aspose.PSD για Αναφορά API .NET
-description: GradientFillSettings ιδιοκτησία. Λαμβάνει ή ορίζει μια τιμή που υποδεικνύει εάν αυτόGradientFillSettings είναι διχασμός.
+title: "GradientFillSettings.Dither"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα GradientFillSettings. Λαμβάνει ή ορίζει τιμή που υποδεικνύει εάν αυτό το GradientFillSettings είναι δισδιάστικο"
 type: docs
-weight: 60
+weight: 40
 url: /el/net/aspose.psd.fileformats.psd.layers.fillsettings/gradientfillsettings/dither/
 ---
+{{< psd/tize >}}
 ## GradientFillSettings.Dither property
 
-Λαμβάνει ή ορίζει μια τιμή που υποδεικνύει εάν αυτό[`GradientFillSettings`](../) είναι διχασμός.
+Λαμβάνει ή ορίζει τιμή που υποδεικνύει εάν αυτό το [`GradientFillSettings`](../) είναι δισδιάστικο.
 
 ```csharp
 public bool Dither { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-`αληθής` αν διχάζει? σε διαφορετική περίπτωση,`ψευδής` .
+`true` εάν είναι θόλωση· διαφορετικά, `false`.
 
 ### Δείτε επίσης
 
 * class [GradientFillSettings](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../gradientfillsettings/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../../)
 
 

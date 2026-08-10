@@ -1,11 +1,12 @@
 ---
-title: TiffRational.Value
-second_title: Aspose.PSD για Αναφορά API .NET
-description: TiffRational ιδιοκτησία. Λαμβάνει την τιμή float.
+title: "TiffRational.Value"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα TiffRational. Επιστρέφει την τιμή float"
 type: docs
 weight: 50
 url: /el/net/aspose.psd.fileformats.tiff/tiffrational/value/
 ---
+{{< psd/tize >}}
 ## TiffRational.Value property
 
 Λαμβάνει την τιμή float.
@@ -14,14 +15,14 @@ url: /el/net/aspose.psd.fileformats.tiff/tiffrational/value/
 public float Value { get; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
 Η τιμή float.
 
 ### Δείτε επίσης
 
 * class [TiffRational](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Tiff](../../tiffrational/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff](../../../aspose.psd.fileformats.tiff/)
+* assembly [Aspose.PSD](../../../)
 
 

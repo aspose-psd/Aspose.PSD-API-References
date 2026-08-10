@@ -1,11 +1,12 @@
 ---
-title: Enum JpegCompressionColorMode
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Aspose.PSD.FileFormats.Jpeg.JpegCompressionColorMode αρίθμηση. Λειτουργία χρώματος για εικόνες jpeg.
+title: "Απαρίθμηση JpegCompressionColorMode"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Aspose.PSD.FileFormats.Jpeg.JpegCompressionColorMode enum. Λειτουργία χρώματος για εικόνες jpeg"
 type: docs
-weight: 1490
+weight: 1500
 url: /el/net/aspose.psd.fileformats.jpeg/jpegcompressioncolormode/
 ---
+{{< psd/tize >}}
 ## JpegCompressionColorMode enumeration
 
 Λειτουργία χρώματος για εικόνες jpeg.
@@ -14,19 +15,19 @@ url: /el/net/aspose.psd.fileformats.jpeg/jpegcompressioncolormode/
 public enum JpegCompressionColorMode
 ```
 
-### Αξίες
+### Τιμές
 
-| Ονομα | αξία | Περιγραφή |
+| Όνομα | Τιμή | Περιγραφή |
 | --- | --- | --- |
-| Grayscale | `0` | Η εικόνα σε κλίμακα του γκρι. |
-| YCbCr | `1` | εικόνα YCbCr, τυπική επιλογή για εικόνες jpeg. |
-| Cmyk | `2` | εικόνα CMYK 4 συστατικών. |
-| Ycck | `3` | Η έγχρωμη εικόνα jpeg ycck. Χρειάζεται προφίλ icc για αποθήκευση. |
+| Grayscale | `0` | Η εικόνα σε αποχρώσεις του γκρι. |
+| YCbCr | `1` | Εικόνα YCbCr, τυπική επιλογή για εικόνες jpeg. |
+| Cmyk | `2` | Εικόνα CMYK 4-συνιστωσών. |
+| Ycck | `3` | Η εικόνα jpeg χρώματος ycck. Απαιτεί προφίλ icc για αποθήκευση. |
 | Rgb | `4` | Η λειτουργία χρώματος RGB. |
 
 ### Δείτε επίσης
 
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Jpeg](../../aspose.psd.fileformats.jpeg/)
-* συνέλευση [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Jpeg](../../aspose.psd.fileformats.jpeg/)
+* assembly [Aspose.PSD](../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: Rectangle.Empty
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Rectangle ιδιοκτησία. Παίρνει μια νέα παρουσία τουRectangle δομή που έχειX Y Width καιHeight τιμές ορίστηκαν στο μηδέν.
+title: "Rectangle.Empty"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα Rectangle. Λαμβάνει ένα νέο αντίτυπο της δομής Rectangle που έχει τιμές X, Y, Width και Height ορισμένες στο μηδέν."
 type: docs
 weight: 20
 url: /el/net/aspose.psd/rectangle/empty/
 ---
+{{< psd/tize >}}
 ## Rectangle.Empty property
 
-Παίρνει μια νέα παρουσία του[`Rectangle`](../) δομή που έχει[`X`](../x/) ,[`Y`](../y/) ,[`Width`](../width/) και[`Height`](../height/) τιμές ορίστηκαν στο μηδέν.
+Λαμβάνει ένα νέο αντίτυπο της δομής [`Rectangle`](../) που έχει τιμές [`X`](../x/), [`Y`](../y/), [`Width`](../width/) και [`Height`](../height/) ορισμένες στο μηδέν.
 
 ```csharp
 public static Rectangle Empty { get; }
@@ -17,7 +18,7 @@ public static Rectangle Empty { get; }
 ### Δείτε επίσης
 
 * struct [Rectangle](../)
-* χώρος ονομάτων [Aspose.PSD](../../rectangle/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

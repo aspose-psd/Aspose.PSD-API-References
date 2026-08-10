@@ -1,27 +1,28 @@
 ---
-title: AiImage.BitsPerPixel
-second_title: Aspose.PSD για Αναφορά API .NET
-description: AiImage ιδιοκτησία. Λαμβάνει τα bit της εικόνας ανά πλήθος pixel.
+title: "AiImage.BitsPerPixel"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα AiImage. Λαμβάνει τον αριθμό των bits ανά pixel της εικόνας"
 type: docs
-weight: 20
+weight: 30
 url: /el/net/aspose.psd.fileformats.ai/aiimage/bitsperpixel/
 ---
+{{< psd/tize >}}
 ## AiImage.BitsPerPixel property
 
-Λαμβάνει τα bit της εικόνας ανά πλήθος pixel.
+Λαμβάνει τον αριθμό των bits ανά pixel της εικόνας.
 
 ```csharp
 public override int BitsPerPixel { get; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Αριθμός bits εικόνας ανά εικονοστοιχείο.
+Ο αριθμός των bits ανά pixel της εικόνας.
 
 ### Δείτε επίσης
 
 * class [AiImage](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Ai](../../aiimage/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

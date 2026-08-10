@@ -1,14 +1,15 @@
 ---
-title: RasterImage.Grayscale
-second_title: Aspose.PSD για Αναφορά API .NET
-description: RasterImage μέθοδος. Μεταμόρφωση μιας εικόνας στην αναπαράστασή της σε κλίμακα του γκρι
+title: "RasterImage.Grayscale"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "RasterImage method. Μετασχηματισμός μιας εικόνας στην γκρι κλίμακά της αναπαράσταση"
 type: docs
 weight: 340
 url: /el/net/aspose.psd/rasterimage/grayscale/
 ---
+{{< psd/tize >}}
 ## RasterImage.Grayscale method
 
-Μεταμόρφωση μιας εικόνας στην αναπαράστασή της σε κλίμακα του γκρι
+Μετασχηματισμός μιας εικόνας στην γκρι κλίμακα της
 
 ```csharp
 public virtual void Grayscale()
@@ -17,7 +18,7 @@ public virtual void Grayscale()
 ### Δείτε επίσης
 
 * class [RasterImage](../)
-* χώρος ονομάτων [Aspose.PSD](../../rasterimage/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

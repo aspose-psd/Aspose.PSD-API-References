@@ -1,14 +1,15 @@
 ---
-title: ShmdResource.ShmdResource
-second_title: Aspose.PSD για Αναφορά API .NET
-description: ShmdResource κατασκευαστής. Αρχικοποιεί μια νέα παρουσία τουShmdResource τάξη.
+title: "ShmdResource.ShmdResource"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Κατασκευαστής ShmdResource. Αρχικοποιεί μια νέα παρουσία της κλάσης ShmdResource"
 type: docs
 weight: 10
 url: /el/net/aspose.psd.fileformats.psd.layers.layerresources/shmdresource/shmdresource/
 ---
+{{< psd/tize >}}
 ## ShmdResource() {#constructor}
 
-Αρχικοποιεί μια νέα παρουσία του[`ShmdResource`](../) τάξη.
+Αρχικοποιεί μια νέα παρουσία της κλάσης [`ShmdResource`](../).
 
 ```csharp
 public ShmdResource()
@@ -17,14 +18,14 @@ public ShmdResource()
 ### Δείτε επίσης
 
 * class [ShmdResource](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../shmdresource/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## ShmdResource(byte[]) {#constructor_1}
 
-Αρχικοποιεί μια νέα παρουσία του[`ShmdResource`](../) τάξη.
+Αρχικοποιεί μια νέα παρουσία της κλάσης [`ShmdResource`](../).
 
 ```csharp
 public ShmdResource(byte[] data)
@@ -32,12 +33,12 @@ public ShmdResource(byte[] data)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| data | Byte[] | Τα δεδομένα του πόρου. |
+| δεδομένα | Byte[] | Τα δεδομένα του πόρου. |
 
 ### Δείτε επίσης
 
 * class [ShmdResource](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../shmdresource/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

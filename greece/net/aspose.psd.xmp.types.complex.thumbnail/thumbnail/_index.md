@@ -1,14 +1,15 @@
 ---
-title: Class Thumbnail
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Aspose.PSD.Xmp.Types.Complex.Thumbnail.Thumbnail τάξη. Αντιπροσωπεύει μια εικόνα μικρογραφίας για ένα αρχείο.
+title: "Κλάση Thumbnail"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Aspose.PSD.Xmp.Types.Complex.Thumbnail.Thumbnail κλάση. Αντιπροσωπεύει την εικόνα μικρογραφίας για ένα αρχείο"
 type: docs
-weight: 6100
+weight: 6600
 url: /el/net/aspose.psd.xmp.types.complex.thumbnail/thumbnail/
 ---
+{{< psd/tize >}}
 ## Thumbnail class
 
-Αντιπροσωπεύει μια εικόνα μικρογραφίας για ένα αρχείο.
+Αναπαριστά μικρογραφία εικόνας για ένα αρχείο.
 
 ```csharp
 public sealed class Thumbnail : ComplexTypeBase
@@ -16,31 +17,31 @@ public sealed class Thumbnail : ComplexTypeBase
 
 ## Κατασκευαστές
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
-| [Thumbnail](thumbnail/#constructor)() | Αρχικοποιεί μια νέα παρουσία του`Thumbnail` τάξη. |
-| [Thumbnail](thumbnail/#constructor_1)(int, int) | Αρχικοποιεί μια νέα παρουσία του`Thumbnail` τάξη. |
+| [Thumbnail](thumbnail/#constructor)() | Αρχικοποιεί ένα νέο στιγμιότυπο της κλάσης `Thumbnail`. |
+| [Thumbnail](thumbnail/#constructor_1)(int, int) | Αρχικοποιεί ένα νέο στιγμιότυπο της κλάσης `Thumbnail`. |
 
 ## Ιδιότητες
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
-| [Height](../../aspose.psd.xmp.types.complex.thumbnail/thumbnail/height/) { get; set; } | Παίρνει ή ρυθμίζει το ύψος. |
-| [ImageBase64](../../aspose.psd.xmp.types.complex.thumbnail/thumbnail/imagebase64/) { get; set; } | Λαμβάνει ή ρυθμίζει την εικόνα σε μορφή base64. |
-| [NamespaceUri](../../aspose.psd.xmp.types.complex/complextypebase/namespaceuri/) { get; } | Λαμβάνει το προεπιλεγμένο URI χώρου ονομάτων. |
-| [Prefix](../../aspose.psd.xmp.types.complex/complextypebase/prefix/) { get; } | Παίρνει το πρόθεμα. |
+| [Height](../../aspose.psd.xmp.types.complex.thumbnail/thumbnail/height/) { get; set; } | Λαμβάνει ή ορίζει το ύψος. |
+| [ImageBase64](../../aspose.psd.xmp.types.complex.thumbnail/thumbnail/imagebase64/) { get; set; } | Λαμβάνει ή ορίζει την εικόνα σε μορφή base64. |
+| [NamespaceUri](../../aspose.psd.xmp.types.complex/complextypebase/namespaceuri/) { get; } | Λαμβάνει το προεπιλεγμένο URI του χώρου ονομάτων. |
+| [Prefix](../../aspose.psd.xmp.types.complex/complextypebase/prefix/) { get; } | Λαμβάνει το πρόθεμα. |
 | [Width](../../aspose.psd.xmp.types.complex.thumbnail/thumbnail/width/) { get; set; } | Λαμβάνει ή ορίζει το πλάτος. |
 
 ## Μέθοδοι
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
-| override [GetXmpRepresentation](../../aspose.psd.xmp.types.complex.thumbnail/thumbnail/getxmprepresentation/)() | Λαμβάνει την τιμή που περιέχεται στη συμβολοσειρά σε μορφή XMP. |
+| override [GetXmpRepresentation](../../aspose.psd.xmp.types.complex.thumbnail/thumbnail/getxmprepresentation/)() | Λαμβάνει τη συμβολοσειρά που περιέχει την τιμή σε μορφή XMP. |
 
 ### Δείτε επίσης
 
 * class [ComplexTypeBase](../../aspose.psd.xmp.types.complex/complextypebase/)
-* χώρος ονομάτων [Aspose.PSD.Xmp.Types.Complex.Thumbnail](../../aspose.psd.xmp.types.complex.thumbnail/)
-* συνέλευση [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.Thumbnail](../../aspose.psd.xmp.types.complex.thumbnail/)
+* assembly [Aspose.PSD](../../)
 
 

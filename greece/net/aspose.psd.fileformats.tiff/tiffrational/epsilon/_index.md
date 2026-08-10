@@ -1,14 +1,15 @@
 ---
-title: TiffRational.Epsilon
-second_title: Aspose.PSD για Αναφορά API .NET
-description: TiffRational πεδίο. Το έψιλον για τον υπολογισμό του κλάσματος
+title: "TiffRational.Epsilon"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Πεδίο TiffRational. Το epsilon για τον υπολογισμό κλασμάτων"
 type: docs
 weight: 100
 url: /el/net/aspose.psd.fileformats.tiff/tiffrational/epsilon/
 ---
+{{< psd/tize >}}
 ## TiffRational.Epsilon field
 
-Το έψιλον για τον υπολογισμό του κλάσματος
+Το εψιλον για τον υπολογισμό κλασμάτων
 
 ```csharp
 public const double Epsilon;
@@ -17,7 +18,7 @@ public const double Epsilon;
 ### Δείτε επίσης
 
 * class [TiffRational](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Tiff](../../tiffrational/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff](../../../aspose.psd.fileformats.tiff/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: LclrResource.Color
-second_title: Aspose.PSD για Αναφορά API .NET
-description: LclrResource ιδιοκτησία. Λαμβάνει ή ορίζει το χρώμα του στρώματος.
+title: "LclrResource.Color"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "LclrResource ιδιότητα. Ανακτά ή ορίζει το χρώμα της στρώσης"
 type: docs
 weight: 20
 url: /el/net/aspose.psd.fileformats.psd.layers.layerresources/lclrresource/color/
 ---
+{{< psd/tize >}}
 ## LclrResource.Color property
 
 Λαμβάνει ή ορίζει το χρώμα του στρώματος.
@@ -14,13 +15,13 @@ url: /el/net/aspose.psd.fileformats.psd.layers.layerresources/lclrresource/color
 public SheetColorHighlightEnum Color { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
 Το χρώμα.
 
-### Παραδείγματα
+## Παραδείγματα
 
-Το ακόλουθο παράδειγμα δείχνει πώς μπορείτε να αλλάξετε την επισήμανση χρώματος φύλλου στο Aspose.PSD (Ρύθμιση χρώματος φύλλου)
+Το παρακάτω παράδειγμα δείχνει πώς μπορείτε να αλλάξετε το Sheet Color Highlight στο Aspose.PSD (ρύθμιση χρώματος Sheet).
 
 ```csharp
 [C#]
@@ -28,7 +29,7 @@ public SheetColorHighlightEnum Color { get; set; }
 string sourceFilePath = "AllLclrResourceColors.psd";
 string outputFilePath = "AllLclrResourceColorsReversed.psd";
 
-// Στο αρχείο τα χρώματα της επισήμανσης των επιπέδων είναι με αυτή τη σειρά
+// Στο αρχείο, τα χρώματα επισήμανσης των στρωμάτων είναι με αυτή τη σειρά.
 SheetColorHighlightEnum[] sheetColorsArr = new SheetColorHighlightEnum[] {
     SheetColorHighlightEnum.Red,
     SheetColorHighlightEnum.Orange,
@@ -40,8 +41,8 @@ SheetColorHighlightEnum[] sheetColorsArr = new SheetColorHighlightEnum[] {
     SheetColorHighlightEnum.NoColor
 };
 
-// Το χρώμα φύλλου επιπέδων χρησιμοποιείται για την οπτική επισήμανση των επιπέδων. 
-// Για παράδειγμα, μπορείτε να ενημερώσετε ορισμένα επίπεδα σε PSD και στη συνέχεια να επισημάνετε με χρώμα το επίπεδο που θέλετε να τραβήξετε την προσοχή.
+// Το Layer Sheet Color χρησιμοποιείται για οπτική επισήμανση των στρωμάτων.
+// Για παράδειγμα, μπορείτε να ενημερώσετε κάποια στρώματα σε PSD και στη συνέχεια να επισημάνετε με χρώμα το στρώμα που θέλετε να τραβήξει την προσοχή.
 using (PsdImage img = (PsdImage)Image.Load(sourceFilePath))
 {
     CheckSheetColorsAndRerverse(sheetColorsArr, img);
@@ -50,7 +51,7 @@ using (PsdImage img = (PsdImage)Image.Load(sourceFilePath))
 
 using (PsdImage img = (PsdImage)Image.Load(outputFilePath))
 {
-    // Τα χρώματα πρέπει να αντιστραφούν
+    // Τα χρώματα πρέπει να αντιστραφούν.
     Array.Reverse(sheetColorsArr);
     CheckSheetColorsAndRerverse(sheetColorsArr, img);
 }
@@ -64,7 +65,7 @@ void CheckSheetColorsAndRerverse(SheetColorHighlightEnum[] sheetColors, PsdImage
         LayerResource[] resources = layer.Resources;
         foreach (LayerResource layerResource in resources)
         {
-            // Ο πόρος lcrl εμφανίζεται πάντα στη λίστα πόρων αρχείων psd.
+            // Ο πόρος lcrl εμφανίζεται πάντα στη λίστα πόρων του αρχείου PSD.
             LclrResource resource = layerResource as LclrResource;
             if (resource != null)
             {
@@ -73,7 +74,7 @@ void CheckSheetColorsAndRerverse(SheetColorHighlightEnum[] sheetColors, PsdImage
                     throw new Exception("Sheet Color has been read wrong");
                 }
 
-                // Αντίστροφη χρωμάτων φύλλου στυλ. Ρύθμιση της επισήμανσης χρώματος επιπέδου.
+                // Αντιστροφή των χρωμάτων του style sheet. Ρύθμιση του Layer color highlight.
                 resource.Color = sheetColors[layersCount - layerIndex - 1];
                 break;
             }
@@ -86,7 +87,7 @@ void CheckSheetColorsAndRerverse(SheetColorHighlightEnum[] sheetColors, PsdImage
 
 * enum [SheetColorHighlightEnum](../../sheetcolorhighlightenum/)
 * class [LclrResource](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../lclrresource/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

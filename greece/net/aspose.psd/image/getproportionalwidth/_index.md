@@ -1,14 +1,15 @@
 ---
-title: Image.GetProportionalWidth
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Image μέθοδος. Παίρνει αναλογικό πλάτος.
+title: "Image.GetProportionalWidth"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Μέθοδος Image. Λαμβάνει ένα ανάλογο πλάτος"
 type: docs
-weight: 290
+weight: 300
 url: /el/net/aspose.psd/image/getproportionalwidth/
 ---
+{{< psd/tize >}}
 ## Image.GetProportionalWidth method
 
-Παίρνει αναλογικό πλάτος.
+Λαμβάνει ένα ανάλογο πλάτος.
 
 ```csharp
 public static int GetProportionalWidth(int width, int height, int newHeight)
@@ -16,18 +17,18 @@ public static int GetProportionalWidth(int width, int height, int newHeight)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| width | Int32 | Το πλάτος. |
-| height | Int32 | Το ύψος. |
+| πλάτος | Int32 | Το πλάτος. |
+| ύψος | Int32 | Το ύψος. |
 | newHeight | Int32 | Το νέο ύψος. |
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-Το αναλογικό πλάτος.
+Το ανάλογο πλάτος.
 
 ### Δείτε επίσης
 
 * class [Image](../)
-* χώρος ονομάτων [Aspose.PSD](../../image/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

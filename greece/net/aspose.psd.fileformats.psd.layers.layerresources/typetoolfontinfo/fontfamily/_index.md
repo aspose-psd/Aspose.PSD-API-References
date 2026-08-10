@@ -1,27 +1,28 @@
 ---
-title: TypeToolFontInfo.FontFamily
-second_title: Aspose.PSD για Αναφορά API .NET
-description: TypeToolFontInfo ιδιοκτησία. Λαμβάνει ή ορίζει την οικογένεια γραμματοσειρών.
+title: "TypeToolFontInfo.FontFamily"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "TypeToolFontInfo ιδιότητα. Λαμβάνει ή ορίζει την οικογένεια γραμματοσειράς"
 type: docs
 weight: 40
 url: /el/net/aspose.psd.fileformats.psd.layers.layerresources/typetoolfontinfo/fontfamily/
 ---
+{{< psd/tize >}}
 ## TypeToolFontInfo.FontFamily property
 
-Λαμβάνει ή ορίζει την οικογένεια γραμματοσειρών.
+Λαμβάνει ή ορίζει την οικογένεια γραμματοσειράς.
 
 ```csharp
 public string FontFamily { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Η οικογένεια γραμματοσειρών.
+Η οικογένεια γραμματοσειράς.
 
 ### Δείτε επίσης
 
 * class [TypeToolFontInfo](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../typetoolfontinfo/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

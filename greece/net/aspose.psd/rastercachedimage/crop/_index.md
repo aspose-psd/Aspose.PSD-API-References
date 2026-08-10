@@ -1,11 +1,12 @@
 ---
-title: RasterCachedImage.Crop
-second_title: Aspose.PSD για Αναφορά API .NET
-description: RasterCachedImage μέθοδος. Περικοπή της εικόνας.
+title: "RasterCachedImage.Crop"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Μέθοδος RasterCachedImage. Κοπή της εικόνας"
 type: docs
 weight: 90
 url: /el/net/aspose.psd/rastercachedimage/crop/
 ---
+{{< psd/tize >}}
 ## RasterCachedImage.Crop method
 
 Περικοπή της εικόνας.
@@ -16,11 +17,11 @@ public override void Crop(Rectangle rectangle)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| rectangle | Rectangle | Το ορθογώνιο. |
+| ορθογώνιο | Rectangle | Το ορθογώνιο. |
 
-### Παραδείγματα
+## Παραδείγματα
 
-Ο παρακάτω κώδικας δείχνει τη δυνατότητα περικοπής της εικόνας ανά συγκεκριμένο ορθογώνιο.
+Ο παρακάτω κώδικας δείχνει τη δυνατότητα περικοπής της εικόνας με συγκεκριμένο ορθογώνιο.
 
 ```csharp
 [C#]
@@ -82,7 +83,7 @@ using (var image = (PsdImage)Image.Load(sourceFileName))
 
 * struct [Rectangle](../../rectangle/)
 * class [RasterCachedImage](../)
-* χώρος ονομάτων [Aspose.PSD](../../rastercachedimage/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

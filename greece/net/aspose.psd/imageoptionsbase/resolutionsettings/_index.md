@@ -1,11 +1,12 @@
 ---
-title: ImageOptionsBase.ResolutionSettings
-second_title: Aspose.PSD για Αναφορά API .NET
-description: ImageOptionsBase ιδιοκτησία. Λαμβάνει ή ορίζει τις ρυθμίσεις ανάλυσης.
+title: "ImageOptionsBase.ResolutionSettings"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα ImageOptionsBase. Λαμβάνει ή ορίζει τις ρυθμίσεις ανάλυσης"
 type: docs
 weight: 70
 url: /el/net/aspose.psd/imageoptionsbase/resolutionsettings/
 ---
+{{< psd/tize >}}
 ## ImageOptionsBase.ResolutionSettings property
 
 Λαμβάνει ή ορίζει τις ρυθμίσεις ανάλυσης.
@@ -18,7 +19,7 @@ public virtual ResolutionSetting ResolutionSettings { get; set; }
 
 * class [ResolutionSetting](../../resolutionsetting/)
 * class [ImageOptionsBase](../)
-* χώρος ονομάτων [Aspose.PSD](../../imageoptionsbase/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

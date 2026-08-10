@@ -1,27 +1,28 @@
 ---
-title: XmpGuid.GetXmpRepresentation
-second_title: Aspose.PSD για Αναφορά API .NET
-description: XmpGuid μέθοδος. Λαμβάνει την τιμή που περιέχεται στη συμβολοσειρά σε μορφή XMP.
+title: "XmpGuid.GetXmpRepresentation"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Μέθοδος XmpGuid. Λαμβάνει την τιμή συμβολοσειράς που περιέχεται σε μορφή XMP"
 type: docs
 weight: 40
 url: /el/net/aspose.psd.xmp.types.derived/xmpguid/getxmprepresentation/
 ---
+{{< psd/tize >}}
 ## XmpGuid.GetXmpRepresentation method
 
-Λαμβάνει την τιμή που περιέχεται στη συμβολοσειρά σε μορφή XMP.
+Λαμβάνει τη συμβολοσειρά που περιέχει την τιμή σε μορφή XMP.
 
 ```csharp
 public override string GetXmpRepresentation()
 ```
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-Επιστρέφει την τιμή που περιέχεται στη συμβολοσειρά σε μορφή XMP.
+Επιστρέφει την τιμή της συμβολοσειράς σε μορφή XMP.
 
 ### Δείτε επίσης
 
 * class [XmpGuid](../)
-* χώρος ονομάτων [Aspose.PSD.Xmp.Types.Derived](../../xmpguid/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Derived](../../../aspose.psd.xmp.types.derived/)
+* assembly [Aspose.PSD](../../../)
 
 

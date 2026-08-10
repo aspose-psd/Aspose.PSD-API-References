@@ -1,14 +1,15 @@
 ---
-title: PngImageException.PngImageException
-second_title: Aspose.PSD για Αναφορά API .NET
-description: PngImageException κατασκευαστής. Αρχικοποιεί μια νέα παρουσία τουPngImageException τάξη.
+title: "PngImageException.PngImageException"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Κατασκευαστής PngImageException. Αρχικοποιεί μια νέα παρουσία της κλάσης PngImageException"
 type: docs
 weight: 10
 url: /el/net/aspose.psd.coreexceptions.imageformats/pngimageexception/pngimageexception/
 ---
+{{< psd/tize >}}
 ## PngImageException(string) {#constructor}
 
-Αρχικοποιεί μια νέα παρουσία του[`PngImageException`](../) τάξη.
+Αρχικοποιεί μια νέα παρουσία της κλάσης [`PngImageException`](../).
 
 ```csharp
 public PngImageException(string message)
@@ -21,14 +22,14 @@ public PngImageException(string message)
 ### Δείτε επίσης
 
 * class [PngImageException](../)
-* χώρος ονομάτων [Aspose.PSD.CoreExceptions.ImageFormats](../../pngimageexception/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.CoreExceptions.ImageFormats](../../../aspose.psd.coreexceptions.imageformats/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## PngImageException(string, Exception) {#constructor_1}
 
-Αρχικοποιεί μια νέα παρουσία του[`PngImageException`](../) τάξη.
+Αρχικοποιεί μια νέα παρουσία της κλάσης [`PngImageException`](../).
 
 ```csharp
 public PngImageException(string message, Exception innerException)
@@ -42,7 +43,7 @@ public PngImageException(string message, Exception innerException)
 ### Δείτε επίσης
 
 * class [PngImageException](../)
-* χώρος ονομάτων [Aspose.PSD.CoreExceptions.ImageFormats](../../pngimageexception/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.CoreExceptions.ImageFormats](../../../aspose.psd.coreexceptions.imageformats/)
+* assembly [Aspose.PSD](../../../)
 
 

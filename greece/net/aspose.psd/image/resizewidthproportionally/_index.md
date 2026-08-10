@@ -1,14 +1,15 @@
 ---
-title: Image.ResizeWidthProportionally
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Image μέθοδος. Αλλάζει το μέγεθος του πλάτους αναλογικά.
+title: "Image.ResizeWidthProportionally"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Μέθοδος Image. Αλλάζει το πλάτος αναλογικά. Χρησιμοποιείται η προεπιλογή NearestNeighbourResample."
 type: docs
-weight: 210
+weight: 220
 url: /el/net/aspose.psd/image/resizewidthproportionally/
 ---
+{{< psd/tize >}}
 ## ResizeWidthProportionally(int) {#resizewidthproportionally}
 
-Αλλάζει το μέγεθος του πλάτους αναλογικά.
+Αλλάζει το πλάτος αναλογικά. Χρησιμοποιείται η προεπιλεγμένη μέθοδος NearestNeighbourResample.
 
 ```csharp
 public void ResizeWidthProportionally(int newWidth)
@@ -21,14 +22,14 @@ public void ResizeWidthProportionally(int newWidth)
 ### Δείτε επίσης
 
 * class [Image](../)
-* χώρος ονομάτων [Aspose.PSD](../../image/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## ResizeWidthProportionally(int, ResizeType) {#resizewidthproportionally_2}
 
-Αλλάζει το μέγεθος του πλάτους αναλογικά.
+Αλλάζει το πλάτος αναλογικά.
 
 ```csharp
 public virtual void ResizeWidthProportionally(int newWidth, ResizeType resizeType)
@@ -37,20 +38,20 @@ public virtual void ResizeWidthProportionally(int newWidth, ResizeType resizeTyp
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
 | newWidth | Int32 | Το νέο πλάτος. |
-| resizeType | ResizeType | Τύπος αλλαγής μεγέθους. |
+| resizeType | ResizeType | Τύπος της αλλαγής μεγέθους. |
 
 ### Δείτε επίσης
 
 * enum [ResizeType](../../resizetype/)
 * class [Image](../)
-* χώρος ονομάτων [Aspose.PSD](../../image/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## ResizeWidthProportionally(int, ImageResizeSettings) {#resizewidthproportionally_1}
 
-Αλλάζει το μέγεθος του πλάτους αναλογικά.
+Αλλάζει το πλάτος αναλογικά.
 
 ```csharp
 public virtual void ResizeWidthProportionally(int newWidth, ImageResizeSettings settings)
@@ -59,13 +60,13 @@ public virtual void ResizeWidthProportionally(int newWidth, ImageResizeSettings 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
 | newWidth | Int32 | Το νέο πλάτος. |
-| settings | ImageResizeSettings | Ρυθμίσεις αλλαγής μεγέθους εικόνας. |
+| ρυθμίσεις | ImageResizeSettings | Οι ρυθμίσεις αλλαγής μεγέθους εικόνας. |
 
 ### Δείτε επίσης
 
 * class [ImageResizeSettings](../../imageresizesettings/)
 * class [Image](../)
-* χώρος ονομάτων [Aspose.PSD](../../image/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

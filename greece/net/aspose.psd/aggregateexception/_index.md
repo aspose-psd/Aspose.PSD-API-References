@@ -1,11 +1,12 @@
 ---
-title: Class AggregateException
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Aspose.PSD.AggregateException τάξη. Συγκεντρώνει πολλαπλές εξαιρέσεις.
+title: "Κλάση AggregateException"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Κλάση Aspose.PSD.AggregateException. Συγκεντρώνει πολλαπλές εξαιρέσεις."
 type: docs
 weight: 10
 url: /el/net/aspose.psd/aggregateexception/
 ---
+{{< psd/tize >}}
 ## AggregateException class
 
 Συγκεντρώνει πολλαπλές εξαιρέσεις.
@@ -16,7 +17,7 @@ public class AggregateException : Exception
 
 ### Δείτε επίσης
 
-* χώρος ονομάτων [Aspose.PSD](../../aspose.psd/)
-* συνέλευση [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

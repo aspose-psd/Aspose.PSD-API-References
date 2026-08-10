@@ -1,29 +1,30 @@
 ---
-title: Enum ResolutionUnit
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Aspose.PSD.FileFormats.Psd.Resources.ResolutionEnums.ResolutionUnit αρίθμηση. Η μονάδα ανάλυσης πληροφοριών ανάλυσης
+title: "Απαρίθμηση ResolutionUnit"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Aspose.PSD.FileFormats.Psd.Resources.ResolutionEnums.ResolutionUnit enum. Η μονάδα resolution info"
 type: docs
-weight: 3870
+weight: 4340
 url: /el/net/aspose.psd.fileformats.psd.resources.resolutionenums/resolutionunit/
 ---
+{{< psd/tize >}}
 ## ResolutionUnit enumeration
 
-Η μονάδα ανάλυσης πληροφοριών ανάλυσης
+Η μονάδα ανάλυσης του resolution info
 
 ```csharp
 public enum ResolutionUnit
 ```
 
-### Αξίες
+### Τιμές
 
-| Ονομα | αξία | Περιγραφή |
+| Όνομα | Τιμή | Περιγραφή |
 | --- | --- | --- |
 | PxPerInch | `1` | Τα pixel ανά ίντσα |
 | PxPerCm | `2` | Τα pixel ανά cm |
 
 ### Δείτε επίσης
 
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Resources.ResolutionEnums](../../aspose.psd.fileformats.psd.resources.resolutionenums/)
-* συνέλευση [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources.ResolutionEnums](../../aspose.psd.fileformats.psd.resources.resolutionenums/)
+* assembly [Aspose.PSD](../../)
 
 

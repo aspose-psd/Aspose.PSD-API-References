@@ -1,11 +1,12 @@
 ---
-title: ITextStyle.Strikethrough
-second_title: Aspose.PSD για Αναφορά API .NET
-description: ITextStyle ιδιοκτησία. Λαμβάνει ή ορίζει μια τιμή που υποδεικνύει εάν strikethrough.
+title: "ITextStyle.Strikethrough"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "ITextStyle property. Λαμβάνει ή ορίζει μια τιμή που υποδεικνύει αν είναι διαγραμμισμένο"
 type: docs
 weight: 230
 url: /el/net/aspose.psd.fileformats.psd.layers.text/itextstyle/strikethrough/
 ---
+{{< psd/tize >}}
 ## ITextStyle.Strikethrough property
 
 Λαμβάνει ή ορίζει μια τιμή που υποδεικνύει εάν [strikethrough].
@@ -17,7 +18,7 @@ public bool Strikethrough { get; set; }
 ### Δείτε επίσης
 
 * interface [ITextStyle](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.Text](../../itextstyle/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.Text](../../../aspose.psd.fileformats.psd.layers.text/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: TypeToolStyleInfo.AutoKern
-second_title: Aspose.PSD για Αναφορά API .NET
-description: TypeToolStyleInfo ιδιοκτησία. Λαμβάνει ή ορίζει μια τιμή που υποδεικνύει εάν η αυτόματη πυροδότηση είναι ενεργοποιημένη ή απενεργοποιημένη.
+title: "TypeToolStyleInfo.AutoKern"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "TypeToolStyleInfo ιδιότητα. Λαμβάνει ή ορίζει μια τιμή που υποδεικνύει αν η αυτόματη διαστολή είναι ενεργή ή όχι"
 type: docs
 weight: 20
 url: /el/net/aspose.psd.fileformats.psd.layers.layerresources/typetoolstyleinfo/autokern/
 ---
+{{< psd/tize >}}
 ## TypeToolStyleInfo.AutoKern property
 
-Λαμβάνει ή ορίζει μια τιμή που υποδεικνύει εάν η αυτόματη πυροδότηση είναι ενεργοποιημένη ή απενεργοποιημένη.
+Λαμβάνει ή ορίζει μια τιμή που υποδεικνύει αν η αυτόματη στοίχιση είναι ενεργή ή απενεργοποιημένη.
 
 ```csharp
 public bool AutoKern { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-`αληθής` εάν η αυτόματη πυροδότηση είναι ενεργοποιημένη. σε διαφορετική περίπτωση,`ψευδής` .
+`true` αν η αυτόματη διαστολή είναι ενεργή· διαφορετικά, `false`.
 
 ### Δείτε επίσης
 
 * class [TypeToolStyleInfo](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../typetoolstyleinfo/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

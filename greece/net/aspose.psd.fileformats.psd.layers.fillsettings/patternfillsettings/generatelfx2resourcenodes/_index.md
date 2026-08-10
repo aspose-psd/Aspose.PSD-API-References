@@ -1,11 +1,12 @@
 ---
-title: PatternFillSettings.GenerateLfx2ResourceNodes
-second_title: Aspose.PSD για Αναφορά API .NET
-description: PatternFillSettings μέθοδος. Δημιουργεί τους κόμβους πόρων LFX2.
+title: "PatternFillSettings.GenerateLfx2ResourceNodes"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Μέθοδος PatternFillSettings. Δημιουργεί τους κόμβους πόρων LFX2"
 type: docs
-weight: 140
+weight: 160
 url: /el/net/aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings/generatelfx2resourcenodes/
 ---
+{{< psd/tize >}}
 ## PatternFillSettings.GenerateLfx2ResourceNodes method
 
 Δημιουργεί τους κόμβους πόρων LFX2.
@@ -17,17 +18,17 @@ public static IEnumerable<OSTypeStructure> GenerateLfx2ResourceNodes(string poin
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| pointType | String | Τύπος σημείου. |
-| color | Color | Το χρώμα. |
+| pointType | String | Τύπος του σημείου. |
+| χρώμα | Χρώμα | Το χρώμα. |
 | patternName | String | Όνομα του μοτίβου. |
 | identifier | String | Το αναγνωριστικό. |
 | scale | Double | Η κλίμακα. |
-| linked | Boolean | εάν έχει οριστεί σε`αληθής` [συνδεδεμένο]. |
-| offset | PointF | Το offset. |
+| linked | Boolean | αν οριστεί σε `true` [linked]. |
+| offset | PointF | Η μετατόπιση. |
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-Λίστα από[`OSTypeStructure`](../../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/)
+Λίστα των [`OSTypeStructure`](../../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/)
 
 ### Δείτε επίσης
 
@@ -35,7 +36,7 @@ public static IEnumerable<OSTypeStructure> GenerateLfx2ResourceNodes(string poin
 * struct [Color](../../../aspose.psd/color/)
 * struct [PointF](../../../aspose.psd/pointf/)
 * class [PatternFillSettings](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../patternfillsettings/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../../)
 
 

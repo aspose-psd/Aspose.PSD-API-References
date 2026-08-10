@@ -1,14 +1,15 @@
 ---
-title: Class PointExtensions
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Aspose.PSD.Extensions.PointExtensions τάξη. Περιέχει μεθόδους επέκτασης γιαPoint καιPointF δομές.
+title: "Κλάση PointExtensions"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Aspose.PSD.Extensions.PointExtensions κλάση. Περιέχει μεθόδους επέκτασης για τις δομές Point και PointF"
 type: docs
-weight: 1150
+weight: 1160
 url: /el/net/aspose.psd.extensions/pointextensions/
 ---
+{{< psd/tize >}}
 ## PointExtensions class
 
-Περιέχει μεθόδους επέκτασης για[`Point`](../../aspose.psd/point/) και[`PointF`](../../aspose.psd/pointf/) δομές.
+Περιέχει μεθόδους επέκτασης για τις δομές [`Point`](../../aspose.psd/point/) και [`PointF`](../../aspose.psd/pointf/).
 
 ```csharp
 public static class PointExtensions
@@ -16,15 +17,15 @@ public static class PointExtensions
 
 ## Μέθοδοι
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
-| static [ToGdiPoint](../../aspose.psd.extensions/pointextensions/togdipoint/)(PointF) | Μετατρέπει το[`PointF`](../../aspose.psd/pointf/) προς τηνPointF . |
-| static [ToGdiPoints](../../aspose.psd.extensions/pointextensions/togdipoints/)(PointF[]) | Μετατρέπει το[`PointF`](../../aspose.psd/pointf/) συστοιχία στοPointF συστοιχία. |
-| static [ToPointsArray](../../aspose.psd.extensions/pointextensions/topointsarray/)(Point[]) | Μετατρέπει το[`Point`](../../aspose.psd/point/) συστοιχία στο[`PointF`](../../aspose.psd/pointf/) συστοιχία. |
+| static [ToGdiPoint](../../aspose.psd.extensions/pointextensions/togdipoint/)(PointF) | Μετατρέπει το [`PointF`](../../aspose.psd/pointf/) σε PointF. |
+| static [ToGdiPoints](../../aspose.psd.extensions/pointextensions/togdipoints/)(PointF[]) | Μετατρέπει τον πίνακα [`PointF`](../../aspose.psd/pointf/) σε πίνακα PointF. |
+| static [ToPointsArray](../../aspose.psd.extensions/pointextensions/topointsarray/)(Point[]) | Μετατρέπει τον πίνακα [`Point`](../../aspose.psd/point/) σε πίνακα [`PointF`](../../aspose.psd/pointf/). |
 
 ### Δείτε επίσης
 
-* χώρος ονομάτων [Aspose.PSD.Extensions](../../aspose.psd.extensions/)
-* συνέλευση [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Extensions](../../aspose.psd.extensions/)
+* assembly [Aspose.PSD](../../)
 
 

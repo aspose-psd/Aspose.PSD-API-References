@@ -1,32 +1,33 @@
 ---
-title: Enum ExifGainControl
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Aspose.PSD.Exif.Enums.ExifGainControl αρίθμηση. exif αριθμός ελέγχου απολαβής.
+title: "Απαρίθμηση ExifGainControl"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Aspose.PSD.Exif.Enums.ExifGainControl enum. έλεγχος ενίσχυσης exif enum"
 type: docs
-weight: 880
+weight: 890
 url: /el/net/aspose.psd.exif.enums/exifgaincontrol/
 ---
+{{< psd/tize >}}
 ## ExifGainControl enumeration
 
-exif αριθμός ελέγχου απολαβής.
+exif έλεγχος κέρδους enum.
 
 ```csharp
 public enum ExifGainControl
 ```
 
-### Αξίες
+### Τιμές
 
-| Ονομα | αξία | Περιγραφή |
+| Όνομα | Τιμή | Περιγραφή |
 | --- | --- | --- |
-| None | `0` | Χωρίς έλεγχο κέρδους. |
-| LowGainUp | `1` | Χαμηλή αύξηση αύξησης. |
-| HighGainUp | `2` | Υψηλό κέρδος επάνω. |
-| LowGainDown | `3` | Χαμηλή απολαβή μειωμένη. |
-| HighGainDown | `4` | Υψηλό κέρδος μειωμένο. |
+| None | `0` | Χωρίς έλεγχο ενίσχυσης. |
+| LowGainUp | `1` | Χαμηλή ενίσχυση προς τα πάνω. |
+| HighGainUp | `2` | Υψηλή ενίσχυση προς τα πάνω. |
+| LowGainDown | `3` | Χαμηλή ενίσχυση προς τα κάτω. |
+| HighGainDown | `4` | Υψηλή ενίσχυση προς τα κάτω. |
 
 ### Δείτε επίσης
 
-* χώρος ονομάτων [Aspose.PSD.Exif.Enums](../../aspose.psd.exif.enums/)
-* συνέλευση [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Exif.Enums](../../aspose.psd.exif.enums/)
+* assembly [Aspose.PSD](../../)
 
 

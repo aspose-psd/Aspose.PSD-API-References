@@ -1,28 +1,29 @@
 ---
-title: ExifData.GainControl
-second_title: Aspose.PSD για Αναφορά API .NET
-description: ExifData ιδιοκτησία. Λαμβάνει ή ορίζει το βαθμό προσαρμογής της συνολικής απολαβής εικόνας.
+title: "ExifData.GainControl"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "ExifData property. Λαμβάνει ή ορίζει το βαθμό συνολικής ρύθμισης ενίσχυσης της εικόνας"
 type: docs
 weight: 340
 url: /el/net/aspose.psd.exif/exifdata/gaincontrol/
 ---
+{{< psd/tize >}}
 ## ExifData.GainControl property
 
-Λαμβάνει ή ορίζει το βαθμό προσαρμογής της συνολικής απολαβής εικόνας.
+Λαμβάνει ή ορίζει το βαθμό συνολικής ρύθμισης κέρδους εικόνας.
 
 ```csharp
 public ExifGainControl GainControl { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Ο βαθμός συνολικής προσαρμογής κέρδους εικόνας.
+Ο βαθμός της συνολικής ρύθμισης ενίσχυσης εικόνας.
 
 ### Δείτε επίσης
 
 * enum [ExifGainControl](../../../aspose.psd.exif.enums/exifgaincontrol/)
 * class [ExifData](../)
-* χώρος ονομάτων [Aspose.PSD.Exif](../../exifdata/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

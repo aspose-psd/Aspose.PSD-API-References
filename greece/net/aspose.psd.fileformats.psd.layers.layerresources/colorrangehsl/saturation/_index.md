@@ -1,27 +1,28 @@
 ---
-title: ColorRangeHsl.Saturation
-second_title: Aspose.PSD για Αναφορά API .NET
-description: ColorRangeHsl ιδιοκτησία. Λαμβάνει ή ρυθμίζει τον κορεσμό.
+title: "ColorRangeHsl.Saturation"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "ColorRangeHsl ιδιότητα. Λαμβάνει ή ορίζει τον κορεσμό"
 type: docs
 weight: 80
 url: /el/net/aspose.psd.fileformats.psd.layers.layerresources/colorrangehsl/saturation/
 ---
+{{< psd/tize >}}
 ## ColorRangeHsl.Saturation property
 
-Λαμβάνει ή ρυθμίζει τον κορεσμό.
+Αποκτά ή ορίζει τον κορεσμό.
 
 ```csharp
 public short Saturation { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
 Ο κορεσμός.
 
 ### Δείτε επίσης
 
 * class [ColorRangeHsl](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../colorrangehsl/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: NonGenericDictionary.Keys
-second_title: Aspose.PSD για Αναφορά API .NET
-description: NonGenericDictionary ιδιοκτησία. Παίρνει ICollection αντικείμενο που περιέχει τα κλειδιά του IDictionary αντικείμενο.
+title: "NonGenericDictionary.Keys"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "NonGenericDictionary ιδιότητα. Λαμβάνει ένα αντικείμενο ICollection που περιέχει τα κλειδιά του αντικειμένου IDictionary"
 type: docs
 weight: 70
 url: /el/net/aspose.psd/nongenericdictionary/keys/
 ---
+{{< psd/tize >}}
 ## NonGenericDictionary.Keys property
 
-Παίρνει ICollection αντικείμενο που περιέχει τα κλειδιά του IDictionary αντικείμενο.
+Λαμβάνει ένα αντικείμενο ICollection που περιέχει τα κλειδιά του αντικειμένου IDictionary.
 
 ```csharp
 public ICollection Keys { get; }
 ```
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-ΕναICollection αντικείμενο που περιέχει τα κλειδιά τουIDictionary αντικείμενο.
+Ένα αντικείμενο ICollection που περιέχει τα κλειδιά του αντικειμένου IDictionary.
 
 ### Δείτε επίσης
 
 * class [NonGenericDictionary](../)
-* χώρος ονομάτων [Aspose.PSD](../../nongenericdictionary/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

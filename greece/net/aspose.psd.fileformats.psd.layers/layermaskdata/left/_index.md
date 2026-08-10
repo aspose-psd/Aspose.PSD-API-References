@@ -1,27 +1,28 @@
 ---
-title: LayerMaskData.Left
-second_title: Aspose.PSD για Αναφορά API .NET
-description: LayerMaskData ιδιοκτησία. Λαμβάνει ή ορίζει τη θέση μάσκας του αριστερού στρώματος.
+title: "LayerMaskData.Left"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα LayerMaskData. Λαμβάνει ή ορίζει τη θέση της αριστερής μάσκας στρώσης."
 type: docs
 weight: 60
 url: /el/net/aspose.psd.fileformats.psd.layers/layermaskdata/left/
 ---
+{{< psd/tize >}}
 ## LayerMaskData.Left property
 
-Λαμβάνει ή ορίζει τη θέση μάσκας του αριστερού στρώματος.
+Λαμβάνει ή ορίζει τη θέση της αριστερής μάσκας στρώσης.
 
 ```csharp
 public int Left { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Η θέση μάσκας του αριστερού στρώματος.
+Η αριστερή θέση της μάσκας στρώσης.
 
 ### Δείτε επίσης
 
 * class [LayerMaskData](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers](../../layermaskdata/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

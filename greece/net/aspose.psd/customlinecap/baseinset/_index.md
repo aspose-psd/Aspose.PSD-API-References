@@ -1,27 +1,28 @@
 ---
-title: CustomLineCap.BaseInset
-second_title: Aspose.PSD για Αναφορά API .NET
-description: CustomLineCap ιδιοκτησία. Λαμβάνει ή ορίζει την απόσταση μεταξύ του καπακιού και της γραμμής.
+title: "CustomLineCap.BaseInset"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "CustomLineCap ιδιότητα. Λαμβάνει ή ορίζει την απόσταση μεταξύ του άκρου και της γραμμής."
 type: docs
 weight: 30
 url: /el/net/aspose.psd/customlinecap/baseinset/
 ---
+{{< psd/tize >}}
 ## CustomLineCap.BaseInset property
 
-Λαμβάνει ή ορίζει την απόσταση μεταξύ του καπακιού και της γραμμής.
+Ανακτά ή ορίζει την απόσταση μεταξύ της άκρης και της γραμμής.
 
 ```csharp
 public float BaseInset { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Η απόσταση μεταξύ της αρχής του καπακιού και του τέλους της γραμμής.
+Η απόσταση μεταξύ της αρχής του άκρου και του τέλους της γραμμής.
 
 ### Δείτε επίσης
 
 * class [CustomLineCap](../)
-* χώρος ονομάτων [Aspose.PSD](../../customlinecap/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

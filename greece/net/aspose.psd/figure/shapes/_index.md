@@ -1,28 +1,29 @@
 ---
-title: Figure.Shapes
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Figure ιδιοκτησία. Παίρνει τα σχήματα.
+title: "Figure.Shapes"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα Figure. Λαμβάνει τα σχήματα του σχήματος"
 type: docs
 weight: 50
 url: /el/net/aspose.psd/figure/shapes/
 ---
+{{< psd/tize >}}
 ## Figure.Shapes property
 
-Παίρνει τα σχήματα.
+Λαμβάνει τα σχήματα του σχήματος.
 
 ```csharp
 public Shape[] Shapes { get; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Τα σχήματα της φιγούρας.
+Τα σχήματα του σχήματος.
 
 ### Δείτε επίσης
 
 * class [Shape](../../shape/)
 * class [Figure](../)
-* χώρος ονομάτων [Aspose.PSD](../../figure/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

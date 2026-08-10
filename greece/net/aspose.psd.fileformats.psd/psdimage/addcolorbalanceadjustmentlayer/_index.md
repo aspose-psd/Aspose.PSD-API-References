@@ -1,28 +1,29 @@
 ---
-title: PsdImage.AddColorBalanceAdjustmentLayer
-second_title: Aspose.PSD για Αναφορά API .NET
-description: PsdImage μέθοδος. Προσθέτει το επίπεδο ρύθμισης ισορροπίας χρωμάτων.
+title: "PsdImage.AddColorBalanceAdjustmentLayer"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Μέθοδος PsdImage. Προσθέτει το επίπεδο προσαρμογής ισορροπίας χρώματος"
 type: docs
-weight: 320
+weight: 330
 url: /el/net/aspose.psd.fileformats.psd/psdimage/addcolorbalanceadjustmentlayer/
 ---
+{{< psd/tize >}}
 ## PsdImage.AddColorBalanceAdjustmentLayer method
 
-Προσθέτει το επίπεδο ρύθμισης ισορροπίας χρωμάτων.
+Προσθέτει το επίπεδο προσαρμογής ισορροπίας χρώματος.
 
 ```csharp
 public ColorBalanceAdjustmentLayer AddColorBalanceAdjustmentLayer()
 ```
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-Ένα νέο στρώμα ισορροπίας χρώματος.
+Ένα νέο επίπεδο ισορροπίας χρώματος.
 
 ### Δείτε επίσης
 
 * class [ColorBalanceAdjustmentLayer](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/colorbalanceadjustmentlayer/)
 * class [PsdImage](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

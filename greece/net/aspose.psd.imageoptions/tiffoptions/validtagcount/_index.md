@@ -1,27 +1,28 @@
 ---
-title: TiffOptions.ValidTagCount
-second_title: Aspose.PSD για Αναφορά API .NET
-description: TiffOptions ιδιοκτησία. Λαμβάνει τον έγκυρο αριθμό ετικετών. Αυτό δεν είναι ο συνολικός αριθμός ετικετών αλλά ο αριθμός των ετικετών που μπορούν να διατηρηθούν.
+title: "TiffOptions.ValidTagCount"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα TiffOptions. Λαμβάνει τον έγκυρο αριθμό ετικετών. Αυτό δεν είναι ο συνολικός αριθμός ετικετών αλλά ο αριθμός των ετικετών που μπορεί να διατηρηθούν"
 type: docs
-weight: 570
+weight: 580
 url: /el/net/aspose.psd.imageoptions/tiffoptions/validtagcount/
 ---
+{{< psd/tize >}}
 ## TiffOptions.ValidTagCount property
 
-Λαμβάνει τον έγκυρο αριθμό ετικετών. Αυτό δεν είναι ο συνολικός αριθμός ετικετών αλλά ο αριθμός των ετικετών που μπορούν να διατηρηθούν.
+Λαμβάνει τον έγκυρο αριθμό ετικετών. Αυτό δεν είναι ο συνολικός αριθμός ετικετών αλλά ο αριθμός των ετικετών που μπορεί να διατηρηθεί.
 
 ```csharp
 public int ValidTagCount { get; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
 Ο έγκυρος αριθμός ετικετών.
 
 ### Δείτε επίσης
 
 * class [TiffOptions](../)
-* χώρος ονομάτων [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

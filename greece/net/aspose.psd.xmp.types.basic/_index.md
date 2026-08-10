@@ -1,21 +1,22 @@
 ---
-title: Aspose.PSD.Xmp.Types.Basic
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Ο χώρος ονομάτων περιέχει κλάσεις που αντιπροσωπεύουν τις βασικές τιμές τύπου των ιδιοτήτων XMP.
+title: "Aspose.PSD.Xmp.Types.Basic"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ο χώρος ονομάτων περιέχει κλάσεις που αντιπροσωπεύουν τις βασικές τιμές τύπου των ιδιοτήτων XMP"
 type: docs
-weight: 610
+weight: 650
 url: /el/net/aspose.psd.xmp.types.basic/
 ---
-Ο χώρος ονομάτων περιέχει κλάσεις που αντιπροσωπεύουν τις βασικές τιμές τύπου των ιδιοτήτων XMP.
+{{< psd/tize >}}
+Ο χώρος ονομάτων περιέχει κλάσεις που αντιπροσωπεύουν τις τιμές των βασικών τύπων των ιδιοτήτων XMP.
 
-## Τάξεις
+## Κλάσεις
 
-| Τάξη | Περιγραφή |
+| Κλάση | Περιγραφή |
 | --- | --- |
-| [XmpBoolean](./xmpboolean/) | Αντιπροσωπεύει τον βασικό τύπο Boolean XMP. |
-| [XmpDate](./xmpdate/) | Αντιπροσωπεύει την ημερομηνία σε πακέτο XMP. |
-| [XmpInteger](./xmpinteger/) | Αντιπροσωπεύει τον βασικό τύπο ακέραιου XMP. |
+| [XmpBoolean](./xmpboolean/) | Αντιπροσωπεύει τον βασικό τύπο Boolean του XMP. |
+| [XmpDate](./xmpdate/) | Αντιπροσωπεύει την ημερομηνία στο πακέτο XMP. |
+| [XmpInteger](./xmpinteger/) | Αντιπροσωπεύει τον βασικό τύπο XMP Integer. |
 | [XmpReal](./xmpreal/) | Αντιπροσωπεύει το XMP Real. |
-| [XmpText](./xmptext/) | Αντιπροσωπεύει τον βασικό τύπο κειμένου XMP. |
+| [XmpText](./xmptext/) | Αντιπροσωπεύει τον βασικό τύπο XMP Text. |
 
 

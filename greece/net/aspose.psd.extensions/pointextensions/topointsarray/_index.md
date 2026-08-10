@@ -1,14 +1,15 @@
 ---
-title: PointExtensions.ToPointsArray
-second_title: Aspose.PSD για Αναφορά API .NET
-description: PointExtensions μέθοδος. Μετατρέπει τοPoint συστοιχία στοPointF συστοιχία.
+title: "PointExtensions.ToPointsArray"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Μέθοδος PointExtensions. Μετατρέπει τον πίνακα Point στον πίνακα PointF."
 type: docs
 weight: 30
 url: /el/net/aspose.psd.extensions/pointextensions/topointsarray/
 ---
+{{< psd/tize >}}
 ## PointExtensions.ToPointsArray method
 
-Μετατρέπει το[`Point`](../../../aspose.psd/point/) συστοιχία στο[`PointF`](../../../aspose.psd/pointf/) συστοιχία.
+Μετατρέπει τον πίνακα [`Point`](../../../aspose.psd/point/) σε πίνακα [`PointF`](../../../aspose.psd/pointf/).
 
 ```csharp
 public static PointF[] ToPointsArray(Point[] points)
@@ -16,18 +17,18 @@ public static PointF[] ToPointsArray(Point[] points)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| points | Point[] | ο[`Point`](../../../aspose.psd/point/) πίνακα για μετατροπή. |
+| points | Point[] | Ο πίνακας [`Point`](../../../aspose.psd/point/) για μετατροπή. |
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-Οι μετατρεπόμενοι[`PointF`](../../../aspose.psd/pointf/) πίνακας.
+Ο μετατρεπόμενος πίνακας [`PointF`](../../../aspose.psd/pointf/).
 
 ### Δείτε επίσης
 
 * struct [PointF](../../../aspose.psd/pointf/)
 * struct [Point](../../../aspose.psd/point/)
 * class [PointExtensions](../)
-* χώρος ονομάτων [Aspose.PSD.Extensions](../../pointextensions/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Extensions](../../../aspose.psd.extensions/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: DoubleStructure.Value
-second_title: Aspose.PSD για Αναφορά API .NET
-description: DoubleStructure ιδιοκτησία. Λαμβάνει ή ορίζει τη διπλή τιμή.
+title: "DoubleStructure.Value"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "DoubleStructure ιδιότητα. Λαμβάνει ή ορίζει τη διπλή τιμή"
 type: docs
 weight: 40
 url: /el/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/doublestructure/value/
 ---
+{{< psd/tize >}}
 ## DoubleStructure.Value property
 
 Λαμβάνει ή ορίζει τη διπλή τιμή.
@@ -14,14 +15,14 @@ url: /el/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostruct
 public double Value { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Η διπλή τιμή.
+Η τιμή double.
 
 ### Δείτε επίσης
 
 * class [DoubleStructure](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../doublestructure/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 

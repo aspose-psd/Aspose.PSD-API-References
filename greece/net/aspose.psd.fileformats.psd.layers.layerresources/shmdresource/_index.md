@@ -1,14 +1,15 @@
 ---
-title: Class ShmdResource
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.ShmdResource τάξη. Κατηγορία ShmdResource. Ρυθμίσεις μεταδεδομένων
+title: "Κλάση ShmdResource"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Aspose.PSD.FileFormats.Psd.Layers.LayerResources.ShmdResource κλάση. Κλάση ShmdResource. Ρυθμίσεις μεταδεδομένων"
 type: docs
-weight: 2980
+weight: 3330
 url: /el/net/aspose.psd.fileformats.psd.layers.layerresources/shmdresource/
 ---
+{{< psd/tize >}}
 ## ShmdResource class
 
-Κατηγορία ShmdResource. Ρυθμίσεις μεταδεδομένων
+Κλάση ShmdResource. Ρυθμίσεις μεταδεδομένων
 
 ```csharp
 public class ShmdResource : LayerResource
@@ -16,40 +17,40 @@ public class ShmdResource : LayerResource
 
 ## Κατασκευαστές
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
-| [ShmdResource](shmdresource/#constructor)() | Αρχικοποιεί μια νέα παρουσία του`ShmdResource` τάξη. |
-| [ShmdResource](shmdresource/#constructor_1)(byte[]) | Αρχικοποιεί μια νέα παρουσία του`ShmdResource` τάξη. |
+| [ShmdResource](shmdresource/#constructor)() | Αρχικοποιεί ένα νέο αντικείμενο της κλάσης `ShmdResource`. |
+| [ShmdResource](shmdresource/#constructor_1)(byte[]) | Αρχικοποιεί ένα νέο αντικείμενο της κλάσης `ShmdResource`. |
 
 ## Ιδιότητες
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
-| override [Key](../../aspose.psd.fileformats.psd.layers.layerresources/shmdresource/key/) { get; } | Λαμβάνει το κλειδί πόρων επιπέδου. |
-| [LayerCreatedDateTime](../../aspose.psd.fileformats.psd.layers.layerresources/shmdresource/layercreateddatetime/) { get; set; } | Λαμβάνει ή ορίζει τον χρόνο δημιουργίας του επιπέδου. Εάν ο χρόνος δημιουργίας του επιπέδου δεν έχει καθοριστεί, τότε επιστρέφει το νέο DateTime(0) |
-| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/shmdresource/length/) { get; } | Λαμβάνει το μήκος του πόρου του επιπέδου σε byte. |
-| override [PsdVersion](../../aspose.psd.fileformats.psd.layers.layerresources/shmdresource/psdversion/) { get; } | Λαμβάνει την έκδοση psd. |
-| override [Signature](../../aspose.psd.fileformats.psd.layers.layerresources/shmdresource/signature/) { get; } | Παίρνει την υπογραφή. |
-| [SubResources](../../aspose.psd.fileformats.psd.layers.layerresources/shmdresource/subresources/) { get; } | Λαμβάνει τους δευτερεύοντες πόρους του πόρου shmd. |
+| [Key](../../aspose.psd.fileformats.psd.layers/layerresource/key/) { get; } | Λαμβάνει το κλειδί πόρου του επιπέδου. |
+| [LayerCreatedDateTime](../../aspose.psd.fileformats.psd.layers.layerresources/shmdresource/layercreateddatetime/) { get; set; } | Λαμβάνει ή ορίζει την ώρα δημιουργίας της στρώσης. Εάν η ώρα δημιουργίας της στρώσης δεν έχει καθοριστεί, τότε επιστρέφει νέο DateTime(0) |
+| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/shmdresource/length/) { get; } | Λαμβάνει το μήκος του πόρου του επιπέδου σε bytes. |
+| virtual [PsdVersion](../../aspose.psd.fileformats.psd.layers/layerresource/psdversion/) { get; } | Λαμβάνει την ελάχιστη έκδοση psd που απαιτείται για τον πόρο του επιπέδου. 0 υποδεικνύει ότι δεν υπάρχουν περιορισμοί. |
+| virtual [Signature](../../aspose.psd.fileformats.psd.layers/layerresource/signature/) { get; } | Λαμβάνει την υπογραφή. |
+| [SubResources](../../aspose.psd.fileformats.psd.layers.layerresources/shmdresource/subresources/) { get; } | Λαμβάνει τους υποπόρους του πόρου shmd. |
 
 ## Μέθοδοι
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
 | override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/shmdresource/save/)(StreamContainer, int) | Αποθηκεύει το καθορισμένο κοντέινερ ροής. |
-| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring/)() | Επιστρέφει αString που αντιπροσωπεύει αυτήν την περίπτωση. |
+| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring/)() | Επιστρέφει ένα String που αντιπροσωπεύει αυτήν την περίπτωση. |
 
 ## Πεδία
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
-| const [SubResourceHeaderLength](../../aspose.psd.fileformats.psd.layers.layerresources/shmdresource/subresourceheaderlength/) | Η κεφαλίδα δευτερεύοντος πόρου μήκος |
-| const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/shmdresource/typetoolkey/) | Το κλειδί πληροφοριών εργαλείου τύπου. |
+| const [SubResourceHeaderLength](../../aspose.psd.fileformats.psd.layers.layerresources/shmdresource/subresourceheaderlength/) | Το μήκος της κεφαλίδας του υποπόρου |
+| const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/shmdresource/typetoolkey/) | Το κλειδί πληροφοριών του εργαλείου τύπου. |
 
 ### Δείτε επίσης
 
 * class [LayerResource](../../aspose.psd.fileformats.psd.layers/layerresource/)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
-* συνέλευση [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../)
 
 

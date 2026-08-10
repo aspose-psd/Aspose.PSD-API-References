@@ -1,11 +1,12 @@
 ---
-title: XmpMeta.AddAttribute
-second_title: Aspose.PSD για Αναφορά API .NET
-description: XmpMeta μέθοδος. Προσθέτει το χαρακτηριστικό.
+title: "XmpMeta.AddAttribute"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Μέθοδος XmpMeta. Προσθέτει το χαρακτηριστικό"
 type: docs
 weight: 30
 url: /el/net/aspose.psd.xmp/xmpmeta/addattribute/
 ---
+{{< psd/tize >}}
 ## XmpMeta.AddAttribute method
 
 Προσθέτει το χαρακτηριστικό.
@@ -16,13 +17,13 @@ public override void AddAttribute(string attribute, string value)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| attribute | String | Η ιδιότητα. |
-| value | String | Η αξία. |
+| χαρακτηριστικό | String | Το χαρακτηριστικό. |
+| τιμή | String | Η τιμή. |
 
 ### Δείτε επίσης
 
 * class [XmpMeta](../)
-* χώρος ονομάτων [Aspose.PSD.Xmp](../../xmpmeta/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

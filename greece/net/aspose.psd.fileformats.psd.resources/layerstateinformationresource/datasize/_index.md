@@ -1,27 +1,28 @@
 ---
-title: LayerStateInformationResource.DataSize
-second_title: Aspose.PSD για Αναφορά API .NET
-description: LayerStateInformationResource ιδιοκτησία. Λαμβάνει το μέγεθος δεδομένων πόρων σε byte.
+title: "LayerStateInformationResource.DataSize"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα LayerStateInformationResource. Λαμβάνει το μέγεθος των δεδομένων πόρου σε bytes"
 type: docs
 weight: 20
 url: /el/net/aspose.psd.fileformats.psd.resources/layerstateinformationresource/datasize/
 ---
+{{< psd/tize >}}
 ## LayerStateInformationResource.DataSize property
 
-Λαμβάνει το μέγεθος δεδομένων πόρων σε byte.
+Λαμβάνει το μέγεθος δεδομένων του πόρου σε byte.
 
 ```csharp
 public override int DataSize { get; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Το μέγεθος δεδομένων πόρων.
+Το μέγεθος δεδομένων του πόρου.
 
 ### Δείτε επίσης
 
 * class [LayerStateInformationResource](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Resources](../../layerstateinformationresource/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

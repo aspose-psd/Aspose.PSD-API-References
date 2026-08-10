@@ -1,14 +1,15 @@
 ---
-title: ImageAttributes.SetRemapTable
-second_title: Aspose.PSD για Αναφορά API .NET
-description: ImageAttributes μέθοδος. Ορίζει τον πίνακα colorremap για την προεπιλεγμένη κατηγορία.
+title: "ImageAttributes.SetRemapTable"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Μέθοδος ImageAttributes. Ορίζει τον πίνακα χρωματικής αντιστοίχισης για την προεπιλεγμένη κατηγορία."
 type: docs
 weight: 190
 url: /el/net/aspose.psd/imageattributes/setremaptable/
 ---
+{{< psd/tize >}}
 ## SetRemapTable(ColorMap[]) {#setremaptable}
 
-Ορίζει τον πίνακα color-remap για την προεπιλεγμένη κατηγορία.
+Ορίζει τον πίνακα επαναχαρτογράφησης χρώματος για την προεπιλεγμένη κατηγορία.
 
 ```csharp
 public void SetRemapTable(ColorMap[] map)
@@ -16,20 +17,20 @@ public void SetRemapTable(ColorMap[] map)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| map | ColorMap[] | Μια σειρά από ζεύγη χρωμάτων του τύπου[`ColorMap`](../../colormap/). Κάθε ζεύγος χρωμάτων περιέχει ένα υπάρχον χρώμα (την πρώτη τιμή) και το χρώμα στο οποίο θα αντιστοιχιστεί (η δεύτερη τιμή). |
+| map | ColorMap[] | Μια σειρά από ζεύγη χρωμάτων τύπου [`ColorMap`](../../colormap/). Κάθε ζεύγος χρωμάτων περιέχει ένα υπάρχον χρώμα (η πρώτη τιμή) και το χρώμα στο οποίο θα αντιστοιχιστεί (η δεύτερη τιμή). |
 
 ### Δείτε επίσης
 
 * class [ColorMap](../../colormap/)
 * class [ImageAttributes](../)
-* χώρος ονομάτων [Aspose.PSD](../../imageattributes/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## SetRemapTable(ColorMap[], ColorAdjustType) {#setremaptable_1}
 
-Ορίζει τον πίνακα color-remap για μια καθορισμένη κατηγορία.
+Ορίζει τον πίνακα επαναχαρτογράφησης χρώματος για μια καθορισμένη κατηγορία.
 
 ```csharp
 public void SetRemapTable(ColorMap[] map, ColorAdjustType type)
@@ -37,15 +38,15 @@ public void SetRemapTable(ColorMap[] map, ColorAdjustType type)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| map | ColorMap[] | Μια σειρά από ζεύγη χρωμάτων του τύπου[`ColorMap`](../../colormap/). Κάθε ζεύγος χρωμάτων περιέχει ένα υπάρχον χρώμα (την πρώτη τιμή) και το χρώμα στο οποίο θα αντιστοιχιστεί (η δεύτερη τιμή). |
-| type | ColorAdjustType | Ένα στοιχείο του[`ColorAdjustType`](../../coloradjusttype/) που καθορίζει την κατηγορία για την οποία έχει οριστεί ο πίνακας χρωματικής αντιστοίχισης. |
+| map | ColorMap[] | Μια σειρά από ζεύγη χρωμάτων τύπου [`ColorMap`](../../colormap/). Κάθε ζεύγος χρωμάτων περιέχει ένα υπάρχον χρώμα (η πρώτη τιμή) και το χρώμα στο οποίο θα αντιστοιχιστεί (η δεύτερη τιμή). |
+| type | ColorAdjustType | Ένα στοιχείο του [`ColorAdjustType`](../../coloradjusttype/) που καθορίζει την κατηγορία για την οποία ορίζεται ο πίνακας χρωματικής αντιστοίχισης. |
 
 ### Δείτε επίσης
 
 * class [ColorMap](../../colormap/)
 * enum [ColorAdjustType](../../coloradjusttype/)
 * class [ImageAttributes](../)
-* χώρος ονομάτων [Aspose.PSD](../../imageattributes/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

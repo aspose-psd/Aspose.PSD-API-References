@@ -1,11 +1,12 @@
 ---
-title: PdfDocumentInfo.Author
-second_title: Aspose.PSD για Αναφορά API .NET
-description: PdfDocumentInfo ιδιοκτησία. Λαμβάνει ή ορίζει τον συγγραφέα του εγγράφου.
+title: "PdfDocumentInfo.Author"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα PdfDocumentInfo. Λαμβάνει ή ορίζει τον συγγραφέα του εγγράφου"
 type: docs
 weight: 20
 url: /el/net/aspose.psd.fileformats.pdf/pdfdocumentinfo/author/
 ---
+{{< psd/tize >}}
 ## PdfDocumentInfo.Author property
 
 Λαμβάνει ή ορίζει τον συγγραφέα του εγγράφου.
@@ -17,7 +18,7 @@ public string Author { get; set; }
 ### Δείτε επίσης
 
 * class [PdfDocumentInfo](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Pdf](../../pdfdocumentinfo/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Pdf](../../../aspose.psd.fileformats.pdf/)
+* assembly [Aspose.PSD](../../../)
 
 

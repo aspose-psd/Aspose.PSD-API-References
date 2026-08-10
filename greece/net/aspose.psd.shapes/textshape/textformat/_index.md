@@ -1,11 +1,12 @@
 ---
-title: TextShape.TextFormat
-second_title: Aspose.PSD για Αναφορά API .NET
-description: TextShape ιδιοκτησία. Λαμβάνει ή ορίζει τη μορφή κειμένου.
+title: "TextShape.TextFormat"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα TextShape. Λαμβάνει ή ορίζει τη μορφή κειμένου"
 type: docs
 weight: 80
 url: /el/net/aspose.psd.shapes/textshape/textformat/
 ---
+{{< psd/tize >}}
 ## TextShape.TextFormat property
 
 Λαμβάνει ή ορίζει τη μορφή κειμένου.
@@ -14,7 +15,7 @@ url: /el/net/aspose.psd.shapes/textshape/textformat/
 public StringFormat TextFormat { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
 Η μορφή κειμένου.
 
@@ -22,7 +23,7 @@ public StringFormat TextFormat { get; set; }
 
 * class [StringFormat](../../../aspose.psd/stringformat/)
 * class [TextShape](../)
-* χώρος ονομάτων [Aspose.PSD.Shapes](../../textshape/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 

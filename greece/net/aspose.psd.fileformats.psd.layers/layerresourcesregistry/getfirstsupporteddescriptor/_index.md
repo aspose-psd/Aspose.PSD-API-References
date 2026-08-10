@@ -1,14 +1,15 @@
 ---
-title: LayerResourcesRegistry.GetFirstSupportedDescriptor
-second_title: Aspose.PSD για Αναφορά API .NET
-description: LayerResourcesRegistry μέθοδος. Αποκτά την πρώτη υποστηριζόμενη περιγραφή ανοίγματος.
+title: "LayerResourcesRegistry.GetFirstSupportedDescriptor"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "LayerResourcesRegistry method. Λαμβάνει τον πρώτο υποστηριζόμενο περιγραφέα ανοίγματος"
 type: docs
 weight: 20
 url: /el/net/aspose.psd.fileformats.psd.layers/layerresourcesregistry/getfirstsupporteddescriptor/
 ---
+{{< psd/tize >}}
 ## LayerResourcesRegistry.GetFirstSupportedDescriptor method
 
-Αποκτά την πρώτη υποστηριζόμενη περιγραφή ανοίγματος.
+Λαμβάνει τον πρώτο υποστηριζόμενο περιγραφέα ανοικτήρα.
 
 ```csharp
 public static ILayerResourceLoader GetFirstSupportedDescriptor(Stream stream, int psdVersion)
@@ -16,22 +17,22 @@ public static ILayerResourceLoader GetFirstSupportedDescriptor(Stream stream, in
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| stream | Stream | Το ρεύμα. |
+| stream | Stream | Η ροή. |
 | psdVersion | Int32 | Η έκδοση PSD. |
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-Ο περιγραφέας φόρτωσης πόρων επιπέδου ή μηδενικός εάν δεν υποστηρίζεται περιγραφέας φόρτωσης για τέτοια ροή.
+Ο περιγραφέας φορτωτή πόρων στρώσης ή null εάν δεν υπάρχει περιγραφέας φορτωτή που υποστηρίζεται για τέτοια ροή.
 
-### Παρατηρήσεις
+## Σχόλια
 
-Ο πρώτος φορτωτής θα είναι στην πραγματικότητα ο τελευταίος εγγεγραμμένος.
+Ο πρώτος φορτωτής θα είναι στην πραγματικότητα ο τελευταίος καταχωρημένος.
 
 ### Δείτε επίσης
 
 * interface [ILayerResourceLoader](../../ilayerresourceloader/)
 * class [LayerResourcesRegistry](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers](../../layerresourcesregistry/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

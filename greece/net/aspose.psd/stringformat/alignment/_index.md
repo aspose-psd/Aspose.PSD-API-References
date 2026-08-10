@@ -1,28 +1,29 @@
 ---
-title: StringFormat.Alignment
-second_title: Aspose.PSD για Αναφορά API .NET
-description: StringFormat ιδιοκτησία. Λαμβάνει ή ορίζει πληροφορίες στοίχισης κειμένου στο κατακόρυφο επίπεδο.
+title: "StringFormat.Alignment"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα StringFormat. Επιστρέφει ή ορίζει πληροφορίες στοίχισης κειμένου στον κατακόρυφο άξονα"
 type: docs
 weight: 40
 url: /el/net/aspose.psd/stringformat/alignment/
 ---
+{{< psd/tize >}}
 ## StringFormat.Alignment property
 
-Λαμβάνει ή ορίζει πληροφορίες στοίχισης κειμένου στο κατακόρυφο επίπεδο.
+Λαμβάνει ή ορίζει πληροφορίες στοίχισης κειμένου στον κατακόρυφο άξονα.
 
 ```csharp
 public StringAlignment Alignment { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-ΕΝΑ[`StringAlignment`](../../stringalignment/) απαρίθμηση που καθορίζει πληροφορίες στοίχισης κειμένου.
+Μια απαρίθμηση [`StringAlignment`](../../stringalignment/) που καθορίζει πληροφορίες στοίχισης κειμένου.
 
 ### Δείτε επίσης
 
 * enum [StringAlignment](../../stringalignment/)
 * class [StringFormat](../)
-* χώρος ονομάτων [Aspose.PSD](../../stringformat/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

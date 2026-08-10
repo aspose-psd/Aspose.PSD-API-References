@@ -1,28 +1,29 @@
 ---
-title: CurvResource.GetCurveManager
-second_title: Aspose.PSD για Αναφορά API .NET
-description: CurvResource μέθοδος. Παίρνει το curve manager.
+title: "CurvResource.GetCurveManager"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "CurvResource μέθοδος. Λαμβάνει τον διαχειριστή καμπύλης"
 type: docs
-weight: 80
+weight: 60
 url: /el/net/aspose.psd.fileformats.psd.layers.layerresources/curvresource/getcurvemanager/
 ---
+{{< psd/tize >}}
 ## CurvResource.GetCurveManager method
 
-Παίρνει το curve manager.
+Λαμβάνει τον διαχειριστή καμπύλης.
 
 ```csharp
 public CurvesManager GetCurveManager()
 ```
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-[`CurvesDiscreteManager`](../../curvesdiscretemanager/) ή[`CurvesContinuousManager`](../../curvescontinuousmanager/)
+[`CurvesDiscreteManager`](../../curvesdiscretemanager/) or [`CurvesContinuousManager`](../../curvescontinuousmanager/)
 
 ### Δείτε επίσης
 
 * class [CurvesManager](../../curvesmanager/)
 * class [CurvResource](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../curvresource/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

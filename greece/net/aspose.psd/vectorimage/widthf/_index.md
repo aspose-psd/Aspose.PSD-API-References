@@ -1,11 +1,12 @@
 ---
-title: VectorImage.WidthF
-second_title: Aspose.PSD για Αναφορά API .NET
-description: VectorImage ιδιοκτησία. Λαμβάνει το πλάτος του αντικειμένου σε ίντσες.
+title: "VectorImage.WidthF"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα VectorImage. Λαμβάνει το πλάτος του αντικειμένου σε ίντσες"
 type: docs
 weight: 50
 url: /el/net/aspose.psd/vectorimage/widthf/
 ---
+{{< psd/tize >}}
 ## VectorImage.WidthF property
 
 Λαμβάνει το πλάτος του αντικειμένου, σε ίντσες.
@@ -14,14 +15,14 @@ url: /el/net/aspose.psd/vectorimage/widthf/
 public virtual float WidthF { get; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
 Το πλάτος του αντικειμένου, σε ίντσες.
 
 ### Δείτε επίσης
 
 * class [VectorImage](../)
-* χώρος ονομάτων [Aspose.PSD](../../vectorimage/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

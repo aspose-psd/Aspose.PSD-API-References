@@ -1,20 +1,21 @@
 ---
-title: PathFillRuleRecord.Type
-second_title: Aspose.PSD για Αναφορά API .NET
-description: PathFillRuleRecord ιδιοκτησία. Παίρνει τον τύπο.
+title: "PathFillRuleRecord.Type"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα PathFillRuleRecord. Λαμβάνει τον τύπο"
 type: docs
 weight: 20
 url: /el/net/aspose.psd.fileformats.core.vectorpaths/pathfillrulerecord/type/
 ---
+{{< psd/tize >}}
 ## PathFillRuleRecord.Type property
 
-Παίρνει τον τύπο.
+Λαμβάνει τον τύπο.
 
 ```csharp
 public override VectorPathType Type { get; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
 Ο τύπος.
 
@@ -22,7 +23,7 @@ public override VectorPathType Type { get; }
 
 * enum [VectorPathType](../../vectorpathtype/)
 * class [PathFillRuleRecord](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Core.VectorPaths](../../pathfillrulerecord/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../../)
 
 

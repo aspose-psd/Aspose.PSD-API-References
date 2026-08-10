@@ -1,27 +1,28 @@
 ---
-title: SizeF.Width
-second_title: Aspose.PSD για Αναφορά API .NET
-description: SizeF ιδιοκτησία. Λαμβάνει ή ορίζει το οριζόντιο στοιχείο αυτούSizeF .
+title: "SizeF.Width"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα SizeF. Λαμβάνει ή ορίζει το οριζόντιο συστατικό αυτού του SizeF"
 type: docs
 weight: 70
 url: /el/net/aspose.psd/sizef/width/
 ---
+{{< psd/tize >}}
 ## SizeF.Width property
 
-Λαμβάνει ή ορίζει το οριζόντιο στοιχείο αυτού[`SizeF`](../) .
+Λαμβάνει ή ορίζει το οριζόντιο συστατικό αυτού του [`SizeF`](../).
 
 ```csharp
 public float Width { get; set; }
 ```
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-Η οριζόντια συνιστώσα αυτού[`SizeF`](../), συνήθως μετριέται σε pixel.
+Το οριζόντιο συστατικό αυτού του [`SizeF`](../), συνήθως μετράται σε εικονοστοιχεία.
 
 ### Δείτε επίσης
 
 * struct [SizeF](../)
-* χώρος ονομάτων [Aspose.PSD](../../sizef/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: Class InterruptMonitor
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Aspose.PSD.Multithreading.InterruptMonitor τάξη. Αντιπροσωπεύει πληροφορίες σχετικά με τη διακοπή.
+title: "Κλάση InterruptMonitor"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Aspose.PSD.Multithreading.InterruptMonitor κλάση. Αντιπροσωπεύει πληροφορίες σχετικά με τη διακοπή"
 type: docs
-weight: 5130
+weight: 5620
 url: /el/net/aspose.psd.multithreading/interruptmonitor/
 ---
+{{< psd/tize >}}
 ## InterruptMonitor class
 
 Αντιπροσωπεύει πληροφορίες σχετικά με τη διακοπή.
@@ -16,26 +17,26 @@ public class InterruptMonitor
 
 ## Κατασκευαστές
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
 | [InterruptMonitor](interruptmonitor/)() | Ο προεπιλεγμένος κατασκευαστής. |
 
 ## Ιδιότητες
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
-| static [ThreadLocalInstance](../../aspose.psd.multithreading/interruptmonitor/threadlocalinstance/) { get; set; } | Λαμβάνει ή ορίζει την παρουσία του InterruptMonitor που είναι μοναδική για κάθε νήμα. |
-| [IsInterrupted](../../aspose.psd.multithreading/interruptmonitor/isinterrupted/) { get; } | Λαμβάνει την τιμή που υποδεικνύει εάν οι λειτουργίες πρέπει να διακοπούν. |
+| static [ThreadLocalInstance](../../aspose.psd.multithreading/interruptmonitor/threadlocalinstance/) { get; set; } | Λαμβάνει ή ορίζει το στιγμιότυπο InterruptMonitor που είναι μοναδικό για κάθε νήμα. |
+| [IsInterrupted](../../aspose.psd.multithreading/interruptmonitor/isinterrupted/) { get; } | Λαμβάνει την τιμή που υποδεικνύει εάν πρέπει να διακοπούν οι λειτουργίες. |
 
 ## Μέθοδοι
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
-| [Interrupt](../../aspose.psd.multithreading/interruptmonitor/interrupt/)() | Στέλνει ένα αίτημα για διακοπή λειτουργίας. |
+| [Interrupt](../../aspose.psd.multithreading/interruptmonitor/interrupt/)() | Στέλνει ένα αίτημα για διακοπή των λειτουργιών. |
 
 ### Δείτε επίσης
 
-* χώρος ονομάτων [Aspose.PSD.Multithreading](../../aspose.psd.multithreading/)
-* συνέλευση [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Multithreading](../../aspose.psd.multithreading/)
+* assembly [Aspose.PSD](../../)
 
 

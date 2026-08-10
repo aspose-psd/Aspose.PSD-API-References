@@ -1,11 +1,12 @@
 ---
-title: ColorBalanceAdjustmentLayer.ShadowsYellowBlueBalance
-second_title: Aspose.PSD για Αναφορά API .NET
-description: ColorBalanceAdjustmentLayer ιδιοκτησία. Λαμβάνει ή ορίζει το Shadows YellowBlue Balance.
+title: "ColorBalanceAdjustmentLayer.ShadowsYellowBlueBalance"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα ColorBalanceAdjustmentLayer. Λαμβάνει ή ορίζει το Shadows YellowBlue Balance"
 type: docs
 weight: 100
 url: /el/net/aspose.psd.fileformats.psd.layers.adjustmentlayers/colorbalanceadjustmentlayer/shadowsyellowbluebalance/
 ---
+{{< psd/tize >}}
 ## ColorBalanceAdjustmentLayer.ShadowsYellowBlueBalance property
 
 Λαμβάνει ή ορίζει το Shadows YellowBlue Balance.
@@ -14,19 +15,19 @@ url: /el/net/aspose.psd.fileformats.psd.layers.adjustmentlayers/colorbalanceadju
 public short ShadowsYellowBlueBalance { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-The Shadows Yellow Blue Balance.
+Το Shadows Yellow Blue Balance.
 
 ### Εξαιρέσεις
 
-| εξαίρεση | κατάσταση |
+| εξαίρεση | συνθήκη |
 | --- | --- |
-| ArgumentOutOfRangeException | Shadows Yellow Blue Balance πρέπει να κυμαίνεται από -100 έως +100. |
+| ArgumentOutOfRangeException | Το Shadows Yellow Blue Balance πρέπει να είναι στο εύρος από -100 έως +100. |
 
-### Παραδείγματα
+## Παραδείγματα
 
-Ο παρακάτω κώδικας δείχνει υποστήριξη για το ColorBalanceAdjustmentLayer.
+Ο παρακάτω κώδικας δείχνει την υποστήριξη για το ColorBalanceAdjustmentLayer.
 
 ```csharp
 [C#]
@@ -60,7 +61,7 @@ using (var im = (PsdImage)Image.Load(filePath))
 ### Δείτε επίσης
 
 * class [ColorBalanceAdjustmentLayer](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../colorbalanceadjustmentlayer/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/)
+* assembly [Aspose.PSD](../../../)
 
 

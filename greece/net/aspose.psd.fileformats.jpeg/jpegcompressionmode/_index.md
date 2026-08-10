@@ -1,11 +1,12 @@
 ---
-title: Enum JpegCompressionMode
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Aspose.PSD.FileFormats.Jpeg.JpegCompressionMode αρίθμηση. Λειτουργία συμπίεσης για εικόνες jpeg.
+title: "Απαρίθμηση JpegCompressionMode"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Aspose.PSD.FileFormats.Jpeg.JpegCompressionMode enum. Λειτουργία συμπίεσης για εικόνες jpeg"
 type: docs
-weight: 1500
+weight: 1510
 url: /el/net/aspose.psd.fileformats.jpeg/jpegcompressionmode/
 ---
+{{< psd/tize >}}
 ## JpegCompressionMode enumeration
 
 Λειτουργία συμπίεσης για εικόνες jpeg.
@@ -14,9 +15,9 @@ url: /el/net/aspose.psd.fileformats.jpeg/jpegcompressionmode/
 public enum JpegCompressionMode
 ```
 
-### Αξίες
+### Τιμές
 
-| Ονομα | αξία | Περιγραφή |
+| Όνομα | Τιμή | Περιγραφή |
 | --- | --- | --- |
 | Baseline | `0` | Η βασική συμπίεση. |
 | Progressive | `1` | Η προοδευτική συμπίεση. |
@@ -25,7 +26,7 @@ public enum JpegCompressionMode
 
 ### Δείτε επίσης
 
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Jpeg](../../aspose.psd.fileformats.jpeg/)
-* συνέλευση [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Jpeg](../../aspose.psd.fileformats.jpeg/)
+* assembly [Aspose.PSD](../../)
 
 

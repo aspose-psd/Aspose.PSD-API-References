@@ -1,14 +1,15 @@
 ---
-title: PhotoshopPackage.SetUrgency
-second_title: Aspose.PSD για Αναφορά API .NET
-description: PhotoshopPackage μέθοδος. Ορίζει την επείγουσα ανάγκη.
+title: "PhotoshopPackage.SetUrgency"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "PhotoshopPackage μέθοδος. Ορίζει την επείγουσα"
 type: docs
 weight: 200
 url: /el/net/aspose.psd.xmp.schemas.photoshop/photoshoppackage/seturgency/
 ---
+{{< psd/tize >}}
 ## PhotoshopPackage.SetUrgency method
 
-Ορίζει την επείγουσα ανάγκη.
+Ορίζει την επείγουσα κατάσταση.
 
 ```csharp
 public void SetUrgency(int urgency)
@@ -16,22 +17,22 @@ public void SetUrgency(int urgency)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| urgency | Int32 | Το επείγον. |
+| επείγουσα | Int32 | Η επείγουσα. |
 
 ### Εξαιρέσεις
 
-| εξαίρεση | κατάσταση |
+| εξαίρεση | συνθήκη |
 | --- | --- |
-| ArgumentOutOfRangeException | επείγουσα ανάγκη; Το έγκυρο εύρος είναι από 1 έως 8 |
+| ArgumentOutOfRangeException | επείγουσα;Το έγκυρο εύρος είναι από 1 έως 8 |
 
-### Παρατηρήσεις
+## Σχόλια
 
-Το επείγον πρέπει να είναι σε οργή από 1 έως 8.
+Η επείγουσα πρέπει να είναι στο εύρος από 1 έως 8.
 
 ### Δείτε επίσης
 
 * class [PhotoshopPackage](../)
-* χώρος ονομάτων [Aspose.PSD.Xmp.Schemas.Photoshop](../../photoshoppackage/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.Photoshop](../../../aspose.psd.xmp.schemas.photoshop/)
+* assembly [Aspose.PSD](../../../)
 
 

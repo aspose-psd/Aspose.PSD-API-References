@@ -1,14 +1,15 @@
 ---
-title: JpegOptions.VerticalSampling
-second_title: Aspose.PSD για Αναφορά API .NET
-description: JpegOptions ιδιοκτησία. Λαμβάνει ή ορίζει τις κάθετες υποδειγματοληψίες για κάθε στοιχείο.
+title: "JpegOptions.VerticalSampling"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα JpegOptions. Λαμβάνει ή ορίζει τις κάθετες υποδειγματοληψίες για κάθε στοιχείο"
 type: docs
-weight: 200
+weight: 210
 url: /el/net/aspose.psd.imageoptions/jpegoptions/verticalsampling/
 ---
+{{< psd/tize >}}
 ## JpegOptions.VerticalSampling property
 
-Λαμβάνει ή ορίζει τις κάθετες υποδειγματοληψίες για κάθε στοιχείο.
+Λαμβάνει ή ορίζει τις κάθετες υποδειγματοληψίες για κάθε συστατικό.
 
 ```csharp
 public byte[] VerticalSampling { get; set; }
@@ -17,7 +18,7 @@ public byte[] VerticalSampling { get; set; }
 ### Δείτε επίσης
 
 * class [JpegOptions](../)
-* χώρος ονομάτων [Aspose.PSD.ImageOptions](../../jpegoptions/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

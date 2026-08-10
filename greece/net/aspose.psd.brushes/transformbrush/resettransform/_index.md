@@ -1,14 +1,15 @@
 ---
-title: TransformBrush.ResetTransform
-second_title: Aspose.PSD για Αναφορά API .NET
-description: TransformBrush μέθοδος. Επαναφέρει τοTransform ιδιοκτησία στην ταυτότητα.
+title: "TransformBrush.ResetTransform"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Μέθοδος TransformBrush. Επαναφέρει την ιδιότητα Transform στην ταυτότητα"
 type: docs
 weight: 50
 url: /el/net/aspose.psd.brushes/transformbrush/resettransform/
 ---
+{{< psd/tize >}}
 ## TransformBrush.ResetTransform method
 
-Επαναφέρει το[`Transform`](../transform/) ιδιοκτησία στην ταυτότητα.
+Επαναφέρει την ιδιότητα [`Transform`](../transform/) στην ταυτότητα.
 
 ```csharp
 public void ResetTransform()
@@ -17,7 +18,7 @@ public void ResetTransform()
 ### Δείτε επίσης
 
 * class [TransformBrush](../)
-* χώρος ονομάτων [Aspose.PSD.Brushes](../../transformbrush/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
+* assembly [Aspose.PSD](../../../)
 
 

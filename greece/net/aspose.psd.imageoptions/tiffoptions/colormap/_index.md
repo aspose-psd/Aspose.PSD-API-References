@@ -1,35 +1,36 @@
 ---
-title: TiffOptions.ColorMap
-second_title: Aspose.PSD για Αναφορά API .NET
-description: TiffOptions ιδιοκτησία. Λαμβάνει ή ορίζει τον χρωματικό χάρτη.
+title: "TiffOptions.ColorMap"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα TiffOptions. Λαμβάνει ή ορίζει το χάρτη χρωμάτων"
 type: docs
 weight: 70
 url: /el/net/aspose.psd.imageoptions/tiffoptions/colormap/
 ---
+{{< psd/tize >}}
 ## TiffOptions.ColorMap property
 
-Λαμβάνει ή ορίζει τον χρωματικό χάρτη.
+Λαμβάνει ή ορίζει το χάρτη χρωμάτων.
 
 ```csharp
 public ushort[] ColorMap { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Ο χρωματικός χάρτης.
+Ο χάρτης χρωμάτων.
 
 ### Εξαιρέσεις
 
-| εξαίρεση | κατάσταση |
+| εξαίρεση | συνθήκη |
 | --- | --- |
-| ArgumentNullException | αξία |
-| [TiffImageException](../../../aspose.psd.coreexceptions.imageformats/tiffimageexception/) | Ο χρωματικός χάρτης μπορεί να οριστεί μόνο για δείγματα ανά εικονοστοιχείο ίσο με 1. or Τα bit ανά δείγμα δεν έχουν οριστεί. |
+| ArgumentNullException | τιμή |
+| [TiffImageException](../../../aspose.psd.coreexceptions.imageformats/tiffimageexception/) | Ο χάρτης χρωμάτων μπορεί να οριστεί μόνο για δείγματα ανά εικονοστοιχείο ίσα με 1. ή Τα bits ανά δείγμα δεν ορίζονται. |
 | ArgumentOutOfRangeException | τιμή;Το μήκος του πίνακα πρέπει να αντιστοιχεί στον ακόλουθο τύπο: 3 * (2**BitsPerSample). |
 
 ### Δείτε επίσης
 
 * class [TiffOptions](../)
-* χώρος ονομάτων [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

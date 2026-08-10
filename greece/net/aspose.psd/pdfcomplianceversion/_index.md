@@ -1,22 +1,23 @@
 ---
-title: Enum PdfComplianceVersion
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Aspose.PSD.PdfComplianceVersion αρίθμηση. Καθορίζει το επίπεδο συμμόρφωσης PDF στο αρχείο εξόδου.
+title: "Απαρίθμηση PdfComplianceVersion"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Aspose.PSD.PdfComplianceVersion απαρίθμηση. Καθορίζει το επίπεδο συμμόρφωσης PDF για το αρχείο εξόδου"
 type: docs
-weight: 5190
+weight: 5680
 url: /el/net/aspose.psd/pdfcomplianceversion/
 ---
+{{< psd/tize >}}
 ## PdfComplianceVersion enumeration
 
-Καθορίζει το επίπεδο συμμόρφωσης PDF στο αρχείο εξόδου.
+Καθορίζει το επίπεδο συμμόρφωσης PDF για το αρχείο εξόδου.
 
 ```csharp
 public enum PdfComplianceVersion
 ```
 
-### Αξίες
+### Τιμές
 
-| Ονομα | αξία | Περιγραφή |
+| Όνομα | Τιμή | Περιγραφή |
 | --- | --- | --- |
 | Pdf15 | `0` | Το αρχείο εξόδου θα είναι συμβατό με PDF 1.5. |
 | PdfA1a | `1` | Το αρχείο εξόδου θα είναι συμβατό με PDF/A-1a. |
@@ -24,7 +25,7 @@ public enum PdfComplianceVersion
 
 ### Δείτε επίσης
 
-* χώρος ονομάτων [Aspose.PSD](../../aspose.psd/)
-* συνέλευση [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

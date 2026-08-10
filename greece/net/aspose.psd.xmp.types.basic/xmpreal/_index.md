@@ -1,11 +1,12 @@
 ---
-title: Class XmpReal
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Aspose.PSD.Xmp.Types.Basic.XmpReal τάξη. Αντιπροσωπεύει το XMP Real.
+title: "Κλάση XmpReal"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Κλάση Aspose.PSD.Xmp.Types.Basic.XmpReal. Αντιπροσωπεύει το XMP Real"
 type: docs
-weight: 5970
+weight: 6470
 url: /el/net/aspose.psd.xmp.types.basic/xmpreal/
 ---
+{{< psd/tize >}}
 ## XmpReal class
 
 Αντιπροσωπεύει το XMP Real.
@@ -16,27 +17,27 @@ public sealed class XmpReal : XmpTypeBase
 
 ## Κατασκευαστές
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
-| [XmpReal](xmpreal/#constructor)(float) | Αρχικοποιεί μια νέα παρουσία του`XmpReal` τάξη. |
-| [XmpReal](xmpreal/#constructor_1)(string) | Αρχικοποιεί μια νέα παρουσία του`XmpReal` τάξη. |
+| [XmpReal](xmpreal/#constructor)(float) | Αρχικοποιεί μια νέα παρουσία της κλάσης `XmpReal`. |
+| [XmpReal](xmpreal/#constructor_1)(string) | Αρχικοποιεί μια νέα παρουσία της κλάσης `XmpReal`. |
 
 ## Ιδιότητες
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
-| [Value](../../aspose.psd.xmp.types.basic/xmpreal/value/) { get; set; } | Λαμβάνει ή θέτει την τιμή float. |
+| [Value](../../aspose.psd.xmp.types.basic/xmpreal/value/) { get; set; } | Λαμβάνει ή ορίζει την τιμή float. |
 
 ## Μέθοδοι
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
-| override [GetXmpRepresentation](../../aspose.psd.xmp.types.basic/xmpreal/getxmprepresentation/)() | Λαμβάνει την τιμή που περιέχεται στη συμβολοσειρά σε μορφή XMP. |
+| override [GetXmpRepresentation](../../aspose.psd.xmp.types.basic/xmpreal/getxmprepresentation/)() | Λαμβάνει τη συμβολοσειρά που περιέχει την τιμή σε μορφή XMP. |
 
 ### Δείτε επίσης
 
 * class [XmpTypeBase](../../aspose.psd.xmp.types/xmptypebase/)
-* χώρος ονομάτων [Aspose.PSD.Xmp.Types.Basic](../../aspose.psd.xmp.types.basic/)
-* συνέλευση [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Xmp.Types.Basic](../../aspose.psd.xmp.types.basic/)
+* assembly [Aspose.PSD](../../)
 
 

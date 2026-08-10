@@ -1,11 +1,12 @@
 ---
-title: Enum ExifSensingMethod
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Aspose.PSD.Exif.Enums.ExifSensingMethod αρίθμηση. exif μέθοδος ανίχνευσης enum.
+title: "Απαρίθμηση ExifSensingMethod"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Aspose.PSD.Exif.Enums.ExifSensingMethod enum. μέθοδος ανίχνευσης exif enum"
 type: docs
-weight: 940
+weight: 950
 url: /el/net/aspose.psd.exif.enums/exifsensingmethod/
 ---
+{{< psd/tize >}}
 ## ExifSensingMethod enumeration
 
 exif μέθοδος ανίχνευσης enum.
@@ -14,21 +15,21 @@ exif μέθοδος ανίχνευσης enum.
 public enum ExifSensingMethod
 ```
 
-### Αξίες
+### Τιμές
 
-| Ονομα | αξία | Περιγραφή |
+| Όνομα | Τιμή | Περιγραφή |
 | --- | --- | --- |
-| Notdefined | `1` | Δεν έχει οριστεί. |
-| OneChipColorArea | `2` | Μία χρωματική περιοχή τσιπ. |
-| TwoChipColorArea | `3` | Περιοχή χρώματος δύο τσιπ. |
-| ThreeChipColorArea | `4` | Περιοχή χρώματος με τρία τσιπ. |
-| Colorsequentialarea | `5` | Χρώμα Διαδοχική περιοχή. |
+| Notdefined | `1` | Δεν ορίζεται. |
+| OneChipColorArea | `2` | Περιοχή χρώματος με ένα chip. |
+| TwoChipColorArea | `3` | Περιοχή χρώματος με δύο chip. |
+| ThreeChipColorArea | `4` | Περιοχή χρώματος με τρία chip. |
+| Colorsequentialarea | `5` | Περιοχή χρωματικής ακολουθίας. |
 | Trilinearsensor | `7` | Τριγραμμικός αισθητήρας. |
-| Colorsequentiallinear | `8` | Έγχρωμος διαδοχικός γραμμικός αισθητήρας. |
+| Colorsequentiallinear | `8` | Γραμμικός αισθητήρας χρωματικής ακολουθίας. |
 
 ### Δείτε επίσης
 
-* χώρος ονομάτων [Aspose.PSD.Exif.Enums](../../aspose.psd.exif.enums/)
-* συνέλευση [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Exif.Enums](../../aspose.psd.exif.enums/)
+* assembly [Aspose.PSD](../../)
 
 

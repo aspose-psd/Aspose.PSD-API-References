@@ -1,14 +1,15 @@
 ---
-title: AiImage.AiImage
-second_title: Aspose.PSD για Αναφορά API .NET
-description: AiImage κατασκευαστής. Ο προεπιλεγμένος κατασκευαστής.
+title: "AiImage.AiImage"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Κατασκευαστής AiImage. Αρχικοποιεί μια νέα παρουσία της κλάσης AiImage"
 type: docs
 weight: 10
 url: /el/net/aspose.psd.fileformats.ai/aiimage/aiimage/
 ---
+{{< psd/tize >}}
 ## AiImage constructor
 
-Ο προεπιλεγμένος κατασκευαστής.
+Αρχικοποιεί μια νέα παρουσία της κλάσης [`AiImage`](../).
 
 ```csharp
 public AiImage()
@@ -17,7 +18,7 @@ public AiImage()
 ### Δείτε επίσης
 
 * class [AiImage](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Ai](../../aiimage/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

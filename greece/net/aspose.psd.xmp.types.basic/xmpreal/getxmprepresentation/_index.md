@@ -1,27 +1,28 @@
 ---
-title: XmpReal.GetXmpRepresentation
-second_title: Aspose.PSD για Αναφορά API .NET
-description: XmpReal μέθοδος. Λαμβάνει την τιμή που περιέχεται στη συμβολοσειρά σε μορφή XMP.
+title: "XmpReal.GetXmpRepresentation"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "XmpReal μέθοδος. Λαμβάνει την τιμή συμβολοσειράς σε μορφή XMP"
 type: docs
 weight: 30
 url: /el/net/aspose.psd.xmp.types.basic/xmpreal/getxmprepresentation/
 ---
+{{< psd/tize >}}
 ## XmpReal.GetXmpRepresentation method
 
-Λαμβάνει την τιμή που περιέχεται στη συμβολοσειρά σε μορφή XMP.
+Λαμβάνει τη συμβολοσειρά που περιέχει την τιμή σε μορφή XMP.
 
 ```csharp
 public override string GetXmpRepresentation()
 ```
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-Επιστρέφει την τιμή που περιέχεται στη συμβολοσειρά σε μορφή XMP.
+Επιστρέφει την τιμή της συμβολοσειράς σε μορφή XMP.
 
 ### Δείτε επίσης
 
 * class [XmpReal](../)
-* χώρος ονομάτων [Aspose.PSD.Xmp.Types.Basic](../../xmpreal/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Basic](../../../aspose.psd.xmp.types.basic/)
+* assembly [Aspose.PSD](../../../)
 
 

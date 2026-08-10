@@ -1,27 +1,28 @@
 ---
-title: PixelDataFormat.ToString
-second_title: Aspose.PSD για Αναφορά API .NET
-description: PixelDataFormat μέθοδος. Επιστρέφει αString που αντιπροσωπεύει αυτήν την περίπτωση.
+title: "PixelDataFormat.ToString"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Μέθοδος PixelDataFormat. Επιστρέφει ένα String που αντιπροσωπεύει αυτήν την παρουσία."
 type: docs
 weight: 370
 url: /el/net/aspose.psd/pixeldataformat/tostring/
 ---
+{{< psd/tize >}}
 ## PixelDataFormat.ToString method
 
-Επιστρέφει αString που αντιπροσωπεύει αυτήν την περίπτωση.
+Επιστρέφει ένα String που αντιπροσωπεύει αυτήν την περίπτωση.
 
 ```csharp
 public override string ToString()
 ```
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-ΑString που αντιπροσωπεύει αυτήν την περίπτωση.
+Ένα String που αντιπροσωπεύει αυτήν την περίπτωση.
 
 ### Δείτε επίσης
 
 * class [PixelDataFormat](../)
-* χώρος ονομάτων [Aspose.PSD](../../pixeldataformat/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

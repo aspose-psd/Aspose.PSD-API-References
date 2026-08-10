@@ -1,26 +1,27 @@
 ---
-title: AiLayerSection.IsShown
-second_title: Aspose.PSD για Αναφορά API .NET
-description: AiLayerSection ιδιοκτησία. Λαμβάνει ή ορίζει μια τιμή που υποδεικνύει εάν αυτό το επίπεδο εμφανίζεται. Εμφανίζει όλα τα έργα τέχνης που περιέχονται στο επίπεδο στον πίνακα γραφικών εάν είναι true.
+title: "AiLayerSection.IsShown"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα AiLayerSection. Λαμβάνει ή ορίζει μια τιμή που υποδεικνύει εάν αυτή η στρώση εμφανίζεται. Εμφανίζει όλα τα έργα τέχνης που περιέχονται στη στρώση στον καμβά εάν είναι true"
 type: docs
-weight: 90
+weight: 110
 url: /el/net/aspose.psd.fileformats.ai/ailayersection/isshown/
 ---
+{{< psd/tize >}}
 ## AiLayerSection.IsShown property
 
-Λαμβάνει ή ορίζει μια τιμή που υποδεικνύει εάν αυτό το επίπεδο εμφανίζεται. Εμφανίζει όλα τα έργα τέχνης που περιέχονται στο επίπεδο στον πίνακα γραφικών, εάν είναι true.
+Λαμβάνει ή ορίζει μια τιμή που υποδεικνύει εάν αυτό το στρώμα εμφανίζεται. Εμφανίζει όλο το έργο τέχνης που περιέχεται στο στρώμα στον πίνακα σχεδίασης αν είναι αληθές.
 
 ```csharp
 public bool IsShown { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-`αληθής` αν εμφανίζεται αυτό το στρώμα. σε διαφορετική περίπτωση,`ψευδής` .
+`true` εάν αυτή η στρώση εμφανίζεται· διαφορετικά, `false`.
 
-### Παραδείγματα
+## Παραδείγματα
 
-Το ακόλουθο παράδειγμα δείχνει την υποστήριξη επιπέδων σε αρχεία μορφής AI.
+Το παρακάτω παράδειγμα δείχνει την υποστήριξη των στρωμάτων σε αρχεία μορφής AI.
 
 ```csharp
 [C#]
@@ -73,7 +74,7 @@ using (AiImage image = (AiImage)Image.Load(sourceFilePath))
 ### Δείτε επίσης
 
 * class [AiLayerSection](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Ai](../../ailayersection/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

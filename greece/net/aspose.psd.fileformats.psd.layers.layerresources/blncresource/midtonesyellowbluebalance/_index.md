@@ -1,27 +1,28 @@
 ---
-title: BlncResource.MidtonesYellowBlueBalance
-second_title: Aspose.PSD για Αναφορά API .NET
-description: BlncResource ιδιοκτησία. Λαμβάνει ή ρυθμίζει το Midtones Yellow Blue Balance.
+title: "BlncResource.MidtonesYellowBlueBalance"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "BlncResource ιδιότητα. Λαμβάνει ή ορίζει το Midtones Yellow Blue Balance"
 type: docs
-weight: 90
+weight: 80
 url: /el/net/aspose.psd.fileformats.psd.layers.layerresources/blncresource/midtonesyellowbluebalance/
 ---
+{{< psd/tize >}}
 ## BlncResource.MidtonesYellowBlueBalance property
 
-Λαμβάνει ή ρυθμίζει το Midtones Yellow Blue Balance.
+Λαμβάνει ή ορίζει το Midtones Yellow Blue Balance.
 
 ```csharp
 public short MidtonesYellowBlueBalance { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-The Midtones Yellow Blue Balance.
+Το Midtones Yellow Blue Balance.
 
 ### Δείτε επίσης
 
 * class [BlncResource](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../blncresource/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

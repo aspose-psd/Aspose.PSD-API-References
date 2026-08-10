@@ -1,14 +1,15 @@
 ---
-title: AudioSampleType.Packed
-second_title: Aspose.PSD για Αναφορά API .NET
-description: AudioSampleType ιδιοκτησία. Αντιπροσωπεύει συσκευασμένο δείγμα ήχου.
+title: "AudioSampleType.Packed"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "AudioSampleType ιδιότητα. Αντιπροσωπεύει πακεταρισμένο δείγμα ήχου"
 type: docs
 weight: 20
 url: /el/net/aspose.psd.xmp.schemas.xmpdm/audiosampletype/packed/
 ---
+{{< psd/tize >}}
 ## AudioSampleType.Packed property
 
-Αντιπροσωπεύει συσκευασμένο δείγμα ήχου.
+Αναπαριστά συσκευασμένο δείγμα ήχου.
 
 ```csharp
 public static AudioSampleType Packed { get; }
@@ -17,7 +18,7 @@ public static AudioSampleType Packed { get; }
 ### Δείτε επίσης
 
 * class [AudioSampleType](../)
-* χώρος ονομάτων [Aspose.PSD.Xmp.Schemas.XmpDm](../../audiosampletype/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpDm](../../../aspose.psd.xmp.schemas.xmpdm/)
+* assembly [Aspose.PSD](../../../)
 
 

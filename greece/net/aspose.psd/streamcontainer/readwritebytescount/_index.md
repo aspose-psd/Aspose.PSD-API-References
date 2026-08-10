@@ -1,14 +1,15 @@
 ---
-title: StreamContainer.ReadWriteBytesCount
-second_title: Aspose.PSD για Αναφορά API .NET
-description: StreamContainer πεδίο. Καθορίζει τον αριθμό των byte ανάγνωσης και εγγραφής κατά τη διαδοχική ανάγνωση.
+title: "StreamContainer.ReadWriteBytesCount"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "StreamContainer πεδίο. Καθορίζει τον αριθμό των byte ανάγνωσης και εγγραφής κατά την διαδοχική ανάγνωση"
 type: docs
 weight: 200
 url: /el/net/aspose.psd/streamcontainer/readwritebytescount/
 ---
+{{< psd/tize >}}
 ## StreamContainer.ReadWriteBytesCount field
 
-Καθορίζει τον αριθμό των byte ανάγνωσης και εγγραφής κατά τη διαδοχική ανάγνωση.
+Καθορίζει τον αριθμό των byte ανάγνωσης και εγγραφής κατά την σειριακή ανάγνωση.
 
 ```csharp
 public const int ReadWriteBytesCount;
@@ -17,7 +18,7 @@ public const int ReadWriteBytesCount;
 ### Δείτε επίσης
 
 * class [StreamContainer](../)
-* χώρος ονομάτων [Aspose.PSD](../../streamcontainer/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

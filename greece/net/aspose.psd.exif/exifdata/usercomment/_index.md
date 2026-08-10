@@ -1,11 +1,12 @@
 ---
-title: ExifData.UserComment
-second_title: Aspose.PSD για Αναφορά API .NET
-description: ExifData ιδιοκτησία. Λαμβάνει ή ορίζει το σχόλιο χρήστη.
+title: "ExifData.UserComment"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "ExifData ιδιότητα. Λαμβάνει ή ορίζει το σχόλιο χρήστη"
 type: docs
 weight: 1060
 url: /el/net/aspose.psd.exif/exifdata/usercomment/
 ---
+{{< psd/tize >}}
 ## ExifData.UserComment property
 
 Λαμβάνει ή ορίζει το σχόλιο χρήστη.
@@ -14,14 +15,14 @@ url: /el/net/aspose.psd.exif/exifdata/usercomment/
 public string UserComment { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
 Το σχόλιο χρήστη.
 
 ### Δείτε επίσης
 
 * class [ExifData](../)
-* χώρος ονομάτων [Aspose.PSD.Exif](../../exifdata/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

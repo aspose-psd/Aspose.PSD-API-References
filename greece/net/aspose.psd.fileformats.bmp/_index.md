@@ -1,12 +1,13 @@
 ---
-title: Aspose.PSD.FileFormats.Bmp
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Ο χώρος ονομάτων χειρίζεται την επεξεργασία μορφής αρχείου Bmp.
+title: "Aspose.PSD.FileFormats.Bmp"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Το namespace διαχειρίζεται την επεξεργασία μορφότυπου αρχείου Bmp"
 type: docs
-weight: 130
+weight: 140
 url: /el/net/aspose.psd.fileformats.bmp/
 ---
-Ο χώρος ονομάτων χειρίζεται την επεξεργασία μορφής αρχείου Bmp.
+{{< psd/tize >}}
+Ο χώρος ονομάτων διαχειρίζεται την επεξεργασία μορφής αρχείου Bmp.
 
 ## Απαρίθμηση
 

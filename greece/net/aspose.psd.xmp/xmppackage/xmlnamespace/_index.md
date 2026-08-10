@@ -1,27 +1,28 @@
 ---
-title: XmpPackage.XmlNamespace
-second_title: Aspose.PSD για Αναφορά API .NET
-description: XmpPackage ιδιοκτησία. Λαμβάνει τον χώρο ονομάτων XML.
+title: "XmpPackage.XmlNamespace"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα XmpPackage. Ανακτά το XML namespace"
 type: docs
 weight: 50
 url: /el/net/aspose.psd.xmp/xmppackage/xmlnamespace/
 ---
+{{< psd/tize >}}
 ## XmpPackage.XmlNamespace property
 
-Λαμβάνει τον χώρο ονομάτων XML.
+Λαμβάνει το χώρο ονομάτων XML.
 
 ```csharp
 public string XmlNamespace { get; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Ο χώρος ονομάτων XML.
+Το XML namespace.
 
 ### Δείτε επίσης
 
 * class [XmpPackage](../)
-* χώρος ονομάτων [Aspose.PSD.Xmp](../../xmppackage/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

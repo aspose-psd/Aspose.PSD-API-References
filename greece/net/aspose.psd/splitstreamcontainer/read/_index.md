@@ -1,14 +1,15 @@
 ---
-title: SplitStreamContainer.Read
-second_title: Aspose.PSD για Αναφορά API .NET
-description: SplitStreamContainer μέθοδος. Διαβάζει byte για να γεμίσει το καθορισμένο buffer bytes.
+title: "SplitStreamContainer.Read"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "SplitStreamContainer method. Διαβάζει bytes για να γεμίσει το καθορισμένο buffer bytes."
 type: docs
 weight: 110
 url: /el/net/aspose.psd/splitstreamcontainer/read/
 ---
+{{< psd/tize >}}
 ## Read(byte[]) {#read}
 
-Διαβάζει byte για να γεμίσει το καθορισμένο buffer bytes.
+Διαβάζει byte για να γεμίσει την καθορισμένη προσωρινή μνήμη byte.
 
 ```csharp
 public override int Read(byte[] bytes)
@@ -16,23 +17,23 @@ public override int Read(byte[] bytes)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| bytes | Byte[] | Τα byte για συμπλήρωση. |
+| bytes | Byte[] | Τα bytes προς γέμισμα. |
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-Ο αριθμός των byte που διαβάζονται. Αυτή η τιμή μπορεί να είναι μικρότερη από τον αριθμό των byte στο buffer εάν δεν υπάρχουν αρκετά byte στη ροή.
+Ο αριθμός των bytes που διαβάστηκαν. Αυτή η τιμή μπορεί να είναι μικρότερη από τον αριθμό των bytes στο buffer εάν δεν υπάρχουν αρκετά bytes στη ροή.
 
 ### Δείτε επίσης
 
 * class [SplitStreamContainer](../)
-* χώρος ονομάτων [Aspose.PSD](../../splitstreamcontainer/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Read(byte[], int, int) {#read_1}
 
-Διαβάζει μια ακολουθία byte από την τρέχουσα ροή και προωθεί τη θέση εντός της ροής κατά τον αριθμό των byte που διαβάζονται.
+Διαβάζει μια ακολουθία byte από την τρέχουσα ροή και προχωρά τη θέση μέσα στη ροή κατά τον αριθμό των byte που διαβάστηκαν.
 
 ```csharp
 public override int Read(byte[] buffer, int offset, int count)
@@ -40,18 +41,18 @@ public override int Read(byte[] buffer, int offset, int count)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| buffer | Byte[] | Μια σειρά από byte. Όταν αυτή η μέθοδος επιστρέφει, το buffer περιέχει τον καθορισμένο πίνακα byte με τις τιμές μεταξύ τους*offset* και (*offset* +*count* - 1) αντικαθίσταται από τα byte που διαβάζονται από την τρέχουσα πηγή. |
-| offset | Int32 | Η μετατόπιση του byte με βάση το μηδέν*buffer* όπου θα ξεκινήσει η αποθήκευση των δεδομένων που διαβάζονται από την τρέχουσα ροή. |
-| count | Int32 | Ο μέγιστος αριθμός byte προς ανάγνωση από την τρέχουσα ροή. |
+| buffer | Byte[] | Ένας πίνακας bytes. Όταν αυτή η μέθοδος επιστρέψει, το buffer περιέχει τον καθορισμένο πίνακα byte με τις τιμές μεταξύ *offset* και (*offset* + *count* - 1) που αντικαταστάθηκαν από τα bytes που διαβάστηκαν από την τρέχουσα πηγή. |
+| offset | Int32 | Η μηδενική βάση offset byte στο *buffer* στην οποία θα ξεκινήσει η αποθήκευση των δεδομένων που διαβάστηκαν από την τρέχουσα ροή. |
+| πλήθος | Int32 | Ο μέγιστος αριθμός των bytes που θα διαβαστούν από την τρέχουσα ροή. |
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-Ο συνολικός αριθμός των byte που διαβάζονται στο buffer. Αυτός μπορεί να είναι μικρότερος από τον αριθμό των byte που ζητούνται εάν τόσα byte δεν είναι διαθέσιμα αυτήν τη στιγμή ή μηδέν (0) εάν έχει φτάσει το τέλος της ροής.
+Ο συνολικός αριθμός των bytes που διαβάστηκαν στο buffer. Αυτό μπορεί να είναι μικρότερο από τον αριθμό των bytes που ζητήθηκαν εάν αυτά τα bytes δεν είναι διαθέσιμα αυτή τη στιγμή, ή μηδέν (0) εάν έχει φτάσει το τέλος της ροής.
 
 ### Δείτε επίσης
 
 * class [SplitStreamContainer](../)
-* χώρος ονομάτων [Aspose.PSD](../../splitstreamcontainer/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

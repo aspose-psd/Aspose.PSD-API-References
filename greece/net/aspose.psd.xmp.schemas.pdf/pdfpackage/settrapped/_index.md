@@ -1,14 +1,15 @@
 ---
-title: PdfPackage.SetTrapped
-second_title: Aspose.PSD για Αναφορά API .NET
-description: PdfPackage μέθοδος. Ορίζει το παγιδευμένο.
+title: "PdfPackage.SetTrapped"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Μέθοδος PdfPackage. Ορίζει το trapped"
 type: docs
 weight: 60
 url: /el/net/aspose.psd.xmp.schemas.pdf/pdfpackage/settrapped/
 ---
+{{< psd/tize >}}
 ## PdfPackage.SetTrapped method
 
-Ορίζει το παγιδευμένο.
+Ορίζει το trapped.
 
 ```csharp
 public void SetTrapped(bool isTrapped)
@@ -16,12 +17,12 @@ public void SetTrapped(bool isTrapped)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| isTrapped | Boolean | εάν έχει οριστεί σε`αληθής` το έγγραφο έχει παγιδευτεί. |
+| isTrapped | Boolean | αν οριστεί σε `true` το έγγραφο έχει γίνει trapped. |
 
 ### Δείτε επίσης
 
 * class [PdfPackage](../)
-* χώρος ονομάτων [Aspose.PSD.Xmp.Schemas.Pdf](../../pdfpackage/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.Pdf](../../../aspose.psd.xmp.schemas.pdf/)
+* assembly [Aspose.PSD](../../../)
 
 

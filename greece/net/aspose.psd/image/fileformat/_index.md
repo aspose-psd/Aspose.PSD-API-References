@@ -1,14 +1,15 @@
 ---
-title: Image.FileFormat
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Image ιδιοκτησία. Λαμβάνει μια τιμή της μορφής αρχείου
+title: "Image.FileFormat"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα Image. Λαμβάνει μια τιμή μορφής αρχείου"
 type: docs
 weight: 90
 url: /el/net/aspose.psd/image/fileformat/
 ---
+{{< psd/tize >}}
 ## Image.FileFormat property
 
-Λαμβάνει μια τιμή της μορφής αρχείου
+Λαμβάνει μια τιμή μορφής αρχείου
 
 ```csharp
 public virtual FileFormat FileFormat { get; }
@@ -18,7 +19,7 @@ public virtual FileFormat FileFormat { get; }
 
 * enum [FileFormat](../../fileformat/)
 * class [Image](../)
-* χώρος ονομάτων [Aspose.PSD](../../image/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

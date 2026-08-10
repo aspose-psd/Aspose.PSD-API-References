@@ -1,14 +1,15 @@
 ---
-title: JpegOptions.Quality
-second_title: Aspose.PSD για Αναφορά API .NET
-description: JpegOptions ιδιοκτησία. Λαμβάνει ή ρυθμίζει την ποιότητα εικόνας.
+title: "JpegOptions.Quality"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα JpegOptions. Λαμβάνει ή ορίζει την ποιότητα εικόνας"
 type: docs
-weight: 140
+weight: 150
 url: /el/net/aspose.psd.imageoptions/jpegoptions/quality/
 ---
+{{< psd/tize >}}
 ## JpegOptions.Quality property
 
-Λαμβάνει ή ρυθμίζει την ποιότητα εικόνας.
+Λαμβάνει ή ορίζει την ποιότητα της εικόνας.
 
 ```csharp
 public int Quality { get; set; }
@@ -17,7 +18,7 @@ public int Quality { get; set; }
 ### Δείτε επίσης
 
 * class [JpegOptions](../)
-* χώρος ονομάτων [Aspose.PSD.ImageOptions](../../jpegoptions/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

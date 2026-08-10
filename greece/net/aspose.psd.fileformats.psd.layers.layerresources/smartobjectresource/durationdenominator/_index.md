@@ -1,27 +1,28 @@
 ---
-title: SmartObjectResource.DurationDenominator
-second_title: Aspose.PSD για Αναφορά API .NET
-description: SmartObjectResource ιδιοκτησία. Λαμβάνει ή ορίζει τον παρονομαστή της διάρκειας.
+title: "SmartObjectResource.DurationDenominator"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα SmartObjectResource. Λαμβάνει ή ορίζει τον παρονομαστή της διάρκειας"
 type: docs
 weight: 50
 url: /el/net/aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/durationdenominator/
 ---
+{{< psd/tize >}}
 ## SmartObjectResource.DurationDenominator property
 
-Λαμβάνει ή ορίζει τον παρονομαστή της διάρκειας.
+Ανακτά ή ορίζει τον παρονομαστή της διάρκειας.
 
 ```csharp
 public int DurationDenominator { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Ο παρονομαστής διάρκειας.
+Ο παρονομαστής της διάρκειας.
 
 ### Δείτε επίσης
 
 * class [SmartObjectResource](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../smartobjectresource/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

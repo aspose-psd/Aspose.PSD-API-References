@@ -1,11 +1,12 @@
 ---
-title: RasterCachedImage.Resize
-second_title: Aspose.PSD για Αναφορά API .NET
-description: RasterCachedImage μέθοδος. Αλλάζει το μέγεθος της εικόνας.
+title: "RasterCachedImage.Resize"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Μέθοδος RasterCachedImage. Αλλάζει το μέγεθος της εικόνας"
 type: docs
 weight: 120
 url: /el/net/aspose.psd/rastercachedimage/resize/
 ---
+{{< psd/tize >}}
 ## Resize(int, int, ResizeType) {#resize_2}
 
 Αλλάζει το μέγεθος της εικόνας.
@@ -20,7 +21,7 @@ public override void Resize(int newWidth, int newHeight, ResizeType resizeType)
 | newHeight | Int32 | Το νέο ύψος. |
 | resizeType | ResizeType | Ο τύπος αλλαγής μεγέθους. |
 
-### Παραδείγματα
+## Παραδείγματα
 
 Ο παρακάτω κώδικας δείχνει πώς να αλλάξετε το μέγεθος μιας εικόνας με νέο τύπο αλλαγής μεγέθους SinC.
 
@@ -30,7 +31,7 @@ public override void Resize(int newWidth, int newHeight, ResizeType resizeType)
 string sourceFile = "sample.psd";
 string destName = "ResamplerSinCStripes_after.psd";
 
-// Φόρτωση μιας υπάρχουσας εικόνας σε μια παρουσία της κλάσης PsdImage
+// Φορτώστε μια υπάρχουσα εικόνα σε μια παρουσία της κλάσης PsdImage
 using (PsdImage image = (PsdImage)Image.Load(sourceFile))
 {
     image.Resize(300, 300, ResizeType.SinC);
@@ -46,7 +47,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFile))
 string sourceFile = "sample.psd";
 string destName = "ResamplerBellStripes_after.psd";
 
-// Φόρτωση μιας υπάρχουσας εικόνας σε μια παρουσία της κλάσης PsdImage
+// Φορτώστε μια υπάρχουσα εικόνα σε μια παρουσία της κλάσης PsdImage
 using (PsdImage image = (PsdImage)Image.Load(sourceFile))
 {
     image.Resize(300, 300, ResizeType.Bell);
@@ -62,7 +63,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFile))
 string sourceFile = "sample.psd";
 string destName = "ResamplerMitchellStripes_after.psd";
 
-// Φόρτωση μιας υπάρχουσας εικόνας σε μια παρουσία της κλάσης PsdImage
+// Φορτώστε μια υπάρχουσα εικόνα σε μια παρουσία της κλάσης PsdImage
 using (PsdImage image = (PsdImage)Image.Load(sourceFile))
 {
     image.Resize(300, 300, ResizeType.Mitchell);
@@ -78,7 +79,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFile))
 string sourceFile = "sample.psd";
 string destName = "ResamplerCatmullRomStripes_after.psd";
 
-// Φόρτωση μιας υπάρχουσας εικόνας σε μια παρουσία της κλάσης PsdImage
+// Φορτώστε μια υπάρχουσα εικόνα σε μια παρουσία της κλάσης PsdImage
 using (PsdImage image = (PsdImage)Image.Load(sourceFile))
 {
     image.Resize(300, 300, ResizeType.CatmullRom);
@@ -86,7 +87,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFile))
 }
 ```
 
-Ο παρακάτω κώδικας δείχνει πώς να αλλάξετε το μέγεθος μιας εικόνας με έναν νέο τύπο αλλαγής μεγέθους CubicBSpline.
+Ο παρακάτω κώδικας δείχνει πώς να αλλάξετε το μέγεθος μιας εικόνας με νέο τύπο αλλαγής μεγέθους CubicBSpline.
 
 ```csharp
 [C#]
@@ -94,7 +95,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFile))
 string sourceFile = "sample.psd";
 string destName = "ResamplerCubicBSplineStripes_after.psd";
 
-// Φόρτωση μιας υπάρχουσας εικόνας σε μια παρουσία της κλάσης PsdImage
+// Φορτώστε μια υπάρχουσα εικόνα σε μια παρουσία της κλάσης PsdImage
 using (PsdImage image = (PsdImage)Image.Load(sourceFile))
 {
     image.Resize(300, 300, ResizeType.CubicBSpline);
@@ -102,7 +103,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFile))
 }
 ```
 
-Ο παρακάτω κώδικας δείχνει πώς να αλλάξετε το μέγεθος μιας εικόνας με έναν νέο τύπο αλλαγής μεγέθους CubicConvolution.
+Ο παρακάτω κώδικας δείχνει πώς να αλλάξετε το μέγεθος μιας εικόνας με νέο τύπο αλλαγής μεγέθους CubicConvolution.
 
 ```csharp
 [C#]
@@ -110,7 +111,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFile))
 string sourceFile = "sample.psd";
 string destName = "ResamplerCubicConvolutionStripes_after.psd";
 
-// Φόρτωση μιας υπάρχουσας εικόνας σε μια παρουσία της κλάσης PsdImage
+// Φορτώστε μια υπάρχουσα εικόνα σε μια παρουσία της κλάσης PsdImage
 using (PsdImage image = (PsdImage)Image.Load(sourceFile))
 {
     image.Resize(300, 300, ResizeType.CubicConvolution);
@@ -122,8 +123,8 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFile))
 
 * enum [ResizeType](../../resizetype/)
 * class [RasterCachedImage](../)
-* χώρος ονομάτων [Aspose.PSD](../../rastercachedimage/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
@@ -139,13 +140,13 @@ public override void Resize(int newWidth, int newHeight, ImageResizeSettings set
 | --- | --- | --- |
 | newWidth | Int32 | Το νέο πλάτος. |
 | newHeight | Int32 | Το νέο ύψος. |
-| settings | ImageResizeSettings | Οι ρυθμίσεις αλλαγής μεγέθους. |
+| ρυθμίσεις | ImageResizeSettings | Οι ρυθμίσεις αλλαγής μεγέθους. |
 
 ### Δείτε επίσης
 
 * class [ImageResizeSettings](../../imageresizesettings/)
 * class [RasterCachedImage](../)
-* χώρος ονομάτων [Aspose.PSD](../../rastercachedimage/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

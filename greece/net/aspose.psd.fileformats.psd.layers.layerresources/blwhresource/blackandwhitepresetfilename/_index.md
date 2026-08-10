@@ -1,26 +1,27 @@
 ---
-title: BlwhResource.BlackAndWhitePresetFileName
-second_title: Aspose.PSD για Αναφορά API .NET
-description: BlwhResource ιδιοκτησία. Λαμβάνει ή ορίζει το ασπρόμαυρο προκαθορισμένο όνομα αρχείου.
+title: "BlwhResource.BlackAndWhitePresetFileName"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα BlwhResource. Λαμβάνει ή ορίζει το όνομα αρχείου προεπιλογής ασπρόμαυρου"
 type: docs
 weight: 20
 url: /el/net/aspose.psd.fileformats.psd.layers.layerresources/blwhresource/blackandwhitepresetfilename/
 ---
+{{< psd/tize >}}
 ## BlwhResource.BlackAndWhitePresetFileName property
 
-Λαμβάνει ή ορίζει το ασπρόμαυρο προκαθορισμένο όνομα αρχείου.
+Λαμβάνει ή ορίζει το όνομα αρχείου προεπιλογής μαύρο-άσπρου.
 
 ```csharp
 public string BlackAndWhitePresetFileName { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Το ασπρόμαυρο προκαθορισμένο όνομα αρχείου.
+Το όνομα του αρχείου προεπιλογής ασπρόμαυρου.
 
-### Παραδείγματα
+## Παραδείγματα
 
-Το ακόλουθο παράδειγμα δείχνει πώς επεξεργάζεστε ένα BlwhResource.
+Το παρακάτω παράδειγμα δείχνει πώς επεξεργάζεστε ένα BlwhResource.
 
 ```csharp
 [C#]
@@ -126,7 +127,7 @@ AssertIsTrue(isRequiredResourceFound, "The specified BlwhResource not found");
 ### Δείτε επίσης
 
 * class [BlwhResource](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../blwhresource/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,20 +1,21 @@
 ---
-title: SmartObjectResource.PlacedLayerType
-second_title: Aspose.PSD για Αναφορά API .NET
-description: SmartObjectResource ιδιοκτησία. Λαμβάνει ή ορίζει τον τύπο των δεδομένων επιπέδου έξυπνου αντικειμένου στο αρχείο PSD.
+title: "SmartObjectResource.PlacedLayerType"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα SmartObjectResource. Λαμβάνει ή ορίζει τον τύπο των δεδομένων του επιπέδου έξυπνου αντικειμένου στο αρχείο PSD"
 type: docs
 weight: 170
 url: /el/net/aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/placedlayertype/
 ---
+{{< psd/tize >}}
 ## SmartObjectResource.PlacedLayerType property
 
-Λαμβάνει ή ορίζει τον τύπο των δεδομένων επιπέδου έξυπνου αντικειμένου στο αρχείο PSD.
+Λαμβάνει ή ορίζει τον τύπο των δεδομένων στρώσης έξυπνου αντικειμένου στο αρχείο PSD.
 
 ```csharp
 public override PlacedLayerType PlacedLayerType { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
 Ο τύπος των δεδομένων του επιπέδου έξυπνου αντικειμένου.
 
@@ -22,7 +23,7 @@ public override PlacedLayerType PlacedLayerType { get; set; }
 
 * enum [PlacedLayerType](../../placedlayertype/)
 * class [SmartObjectResource](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../smartobjectresource/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

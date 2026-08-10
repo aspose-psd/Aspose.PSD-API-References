@@ -1,14 +1,15 @@
 ---
-title: Class Lnk2Resource
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.Lnk2Resource τάξη. Καθορίζει την κλάση που περιέχει πληροφορίες σχετικά με ενσωματωμένα αρχεία στην εικόνα μορφής PSD. Ο πόρος σύνδεσης μπορεί να περιέχει πολλάLiFdDataSource στιγμιότυπα στα οποία μπορεί να προσπελαστεί ο δείκτης.
+title: "Κλάση Lnk2Resource"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Aspose.PSD.FileFormats.Psd.Layers.LayerResources.Lnk2Resource κλάση. Ορίζει την κλάση που περιέχει πληροφορίες σχετικά με ενσωματωμένα αρχεία στην εικόνα μορφής PSD. Ο πόρος συνδέσμου μπορεί να περιέχει αρκετές εμφανίσεις του LiFdDataSource που μπορούν να προσπελαστούν μέσω του δείκτη."
 type: docs
-weight: 2720
+weight: 3030
 url: /el/net/aspose.psd.fileformats.psd.layers.layerresources/lnk2resource/
 ---
+{{< psd/tize >}}
 ## Lnk2Resource class
 
-Καθορίζει την κλάση που περιέχει πληροφορίες σχετικά με ενσωματωμένα αρχεία στην εικόνα μορφής PSD. Ο πόρος σύνδεσης μπορεί να περιέχει πολλά[`LiFdDataSource`](../lifddatasource/) στιγμιότυπα στα οποία μπορεί να προσπελαστεί ο δείκτης.
+Ορίζει την κλάση που περιέχει πληροφορίες σχετικά με ενσωματωμένα αρχεία στην εικόνα μορφής PSD. Ο πόρος συνδέσμου μπορεί να περιέχει αρκετές εμφανίσεις του [`LiFdDataSource`](../lifddatasource/) που μπορούν να προσπελαστούν μέσω του δείκτη.
 
 ```csharp
 public class Lnk2Resource : LinkResource
@@ -16,40 +17,40 @@ public class Lnk2Resource : LinkResource
 
 ## Κατασκευαστές
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
-| [Lnk2Resource](lnk2resource/)() | Αρχικοποιεί μια νέα παρουσία του`Lnk2Resource` τάξη. |
+| [Lnk2Resource](lnk2resource/)() | Αρχικοποιεί ένα νέο αντικείμενο της κλάσης `Lnk2Resource`. |
 
 ## Ιδιότητες
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
-| [DataSourceCount](../../aspose.psd.fileformats.psd.layers.layerresources/linkresource/datasourcecount/) { get; } | Λαμβάνει τον αριθμό των πηγών δεδομένων συνδέσμων στις οποίες μπορεί να προσπελαστεί ο ευρετηριαστής. |
-| [IsEmpty](../../aspose.psd.fileformats.psd.layers.layerresources/linkresource/isempty/) { get; } | Λαμβάνει μια τιμή που υποδεικνύει εάν αυτή η παρουσία πόρου συνδέσμου είναι κενή. |
-| [Item](../../aspose.psd.fileformats.psd.layers.layerresources/lnk2resource/item/) { get; } | Λαμβάνει το[`LiFdDataSource`](../lifddatasource/) στον καθορισμένο δείκτη. (2 indexers) |
-| override [Key](../../aspose.psd.fileformats.psd.layers.layerresources/lnk2resource/key/) { get; } | Λαμβάνει το κλειδί πόρων επιπέδου. |
-| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/linkresource/length/) { get; } | Λαμβάνει το συνολικό μήκος πόρου συνδέσμου PSD σε byte. |
-| override [PsdVersion](../../aspose.psd.fileformats.psd.layers.layerresources/linkresource/psdversion/) { get; } | Λαμβάνει την έκδοση μορφής PSD. |
-| override [Signature](../../aspose.psd.fileformats.psd.layers.layerresources/linkresource/signature/) { get; } | Αποκτά την υπογραφή του παγκόσμιου πόρου συνδέσμου PSD. |
+| [DataSourceCount](../../aspose.psd.fileformats.psd.layers.layerresources/linkresource/datasourcecount/) { get; } | Ανακτά τον αριθμό των πηγών δεδομένων σύνδεσης που μπορούν να προσπελαστούν μέσω του δείκτη. |
+| [IsEmpty](../../aspose.psd.fileformats.psd.layers.layerresources/linkresource/isempty/) { get; } | Ανακτά μια τιμή που υποδεικνύει εάν αυτό το στιγμιότυπο πόρου σύνδεσης είναι κενό. |
+| [Item](../../aspose.psd.fileformats.psd.layers.layerresources/lnk2resource/item/) { get; } | Ανακτά το [`LiFdDataSource`](../lifddatasource/) στο καθορισμένο δείκτη. (2 δείκτες) |
+| [Key](../../aspose.psd.fileformats.psd.layers/layerresource/key/) { get; } | Λαμβάνει το κλειδί πόρου του επιπέδου. |
+| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/linkresource/length/) { get; } | Ανακτά το συνολικό μήκος του πόρου σύνδεσης PSD σε bytes. |
+| virtual [PsdVersion](../../aspose.psd.fileformats.psd.layers/layerresource/psdversion/) { get; } | Λαμβάνει την ελάχιστη έκδοση psd που απαιτείται για τον πόρο του επιπέδου. 0 υποδεικνύει ότι δεν υπάρχουν περιορισμοί. |
+| virtual [Signature](../../aspose.psd.fileformats.psd.layers/layerresource/signature/) { get; } | Λαμβάνει την υπογραφή. |
 
 ## Μέθοδοι
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
-| override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/linkresource/save/)(StreamContainer, int) | Αποθηκεύει τα δεδομένα του μπλοκ πόρων. |
-| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring/)() | Επιστρέφει αString που αντιπροσωπεύει αυτήν την περίπτωση. |
+| override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/linkresource/save/)(StreamContainer, int) | Αποθηκεύει τα δεδομένα του μπλοκ πόρου. |
+| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring/)() | Επιστρέφει ένα String που αντιπροσωπεύει αυτήν την περίπτωση. |
 
 ## Πεδία
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
-| const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/lnk2resource/typetoolkey/) | Το κλειδί πληροφοριών εργαλείου τύπου. |
+| const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/lnk2resource/typetoolkey/) | Το κλειδί πληροφοριών του εργαλείου τύπου. |
 
 ### Δείτε επίσης
 
 * class [LayerResource](../../aspose.psd.fileformats.psd.layers/layerresource/)
 * class [LinkResource](../linkresource/)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
-* συνέλευση [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../)
 
 

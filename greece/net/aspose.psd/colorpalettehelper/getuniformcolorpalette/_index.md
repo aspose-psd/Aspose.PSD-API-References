@@ -1,14 +1,15 @@
 ---
-title: ColorPaletteHelper.GetUniformColorPalette
-second_title: Aspose.PSD για Αναφορά API .NET
-description: ColorPaletteHelper μέθοδος. Αποκτήστε ομοιόμορφη παλέτα χρωμάτων 256.
+title: "ColorPaletteHelper.GetUniformColorPalette"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Μέθοδος ColorPaletteHelper. Λαμβάνει ομοιόμορφη παλέτα 256 χρωμάτων"
 type: docs
 weight: 80
 url: /el/net/aspose.psd/colorpalettehelper/getuniformcolorpalette/
 ---
+{{< psd/tize >}}
 ## ColorPaletteHelper.GetUniformColorPalette method
 
-Αποκτήστε ομοιόμορφη παλέτα χρωμάτων 256.
+Λήψη ομοιόμορφης παλέτας 256 χρωμάτων.
 
 ```csharp
 public static ColorPalette GetUniformColorPalette(RasterImage image)
@@ -16,18 +17,18 @@ public static ColorPalette GetUniformColorPalette(RasterImage image)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| image | RasterImage | Η εικόνα. |
+| εικόνα | RasterImage | Η εικόνα. |
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-Το[`ColorPalette`](../../colorpalette/) .
+Η [`ColorPalette`](../../colorpalette/).
 
 ### Δείτε επίσης
 
 * class [ColorPalette](../../colorpalette/)
 * class [RasterImage](../../rasterimage/)
 * class [ColorPaletteHelper](../)
-* χώρος ονομάτων [Aspose.PSD](../../colorpalettehelper/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

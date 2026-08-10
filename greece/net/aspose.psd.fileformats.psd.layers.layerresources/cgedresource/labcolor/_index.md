@@ -1,27 +1,28 @@
 ---
-title: CgEdResource.LabColor
-second_title: Aspose.PSD για Αναφορά API .NET
-description: CgEdResource ιδιοκτησία. Λαμβάνει ή ορίζει μια τιμή που υποδεικνύει εάν χρησιμοποιείται το χρώμα εργαστηρίου.
+title: "CgEdResource.LabColor"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "CgEdResource ιδιότητα. Επιστρέφει ή ορίζει μια τιμή που υποδεικνύει εάν χρησιμοποιείται χρώμα lab"
 type: docs
-weight: 60
+weight: 50
 url: /el/net/aspose.psd.fileformats.psd.layers.layerresources/cgedresource/labcolor/
 ---
+{{< psd/tize >}}
 ## CgEdResource.LabColor property
 
-Λαμβάνει ή ορίζει μια τιμή που υποδεικνύει εάν χρησιμοποιείται το [χρώμα εργαστηρίου].
+Λαμβάνει ή ορίζει μια τιμή που υποδεικνύει εάν χρησιμοποιείται [lab color].
 
 ```csharp
 public bool LabColor { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-`αληθής`εάν χρησιμοποιείται [χρώμα εργαστηρίου]. σε διαφορετική περίπτωση,`ψευδής` .
+`true` εάν χρησιμοποιείται [lab color]; διαφορετικά, `false`.
 
 ### Δείτε επίσης
 
 * class [CgEdResource](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../cgedresource/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

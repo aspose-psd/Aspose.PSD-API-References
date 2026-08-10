@@ -1,14 +1,15 @@
 ---
-title: Class ColorExtensions
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Aspose.PSD.Extensions.ColorExtensions τάξη. ΤοColor μέθοδοι επέκτασης.
+title: "Κλάση ColorExtensions"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Aspose.PSD.Extensions.ColorExtensions κλάση. Οι μέθοδοι επέκτασης Color."
 type: docs
-weight: 1050
+weight: 1060
 url: /el/net/aspose.psd.extensions/colorextensions/
 ---
+{{< psd/tize >}}
 ## ColorExtensions class
 
-Το[`Color`](../../aspose.psd/color/) μέθοδοι επέκτασης.
+Οι μέθοδοι επέκτασης [`Color`](../../aspose.psd/color/).
 
 ```csharp
 public static class ColorExtensions
@@ -16,14 +17,14 @@ public static class ColorExtensions
 
 ## Μέθοδοι
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
-| static [ToGdiColor](../../aspose.psd.extensions/colorextensions/togdicolor/)(Color) | Μετατρέπει το[`Color`](../../aspose.psd/color/) στοColor . |
-| static [ToGdiColors](../../aspose.psd.extensions/colorextensions/togdicolors/)(Color[]) | Μετατρέπει το[`Color`](../../aspose.psd/color/) συστοιχία στοColor συστοιχία. |
+| static [ToGdiColor](../../aspose.psd.extensions/colorextensions/togdicolor/)(Color) | Μετατρέπει το [`Color`](../../aspose.psd/color/) σε Color. |
+| static [ToGdiColors](../../aspose.psd.extensions/colorextensions/togdicolors/)(Color[]) | Μετατρέπει τον πίνακα [`Color`](../../aspose.psd/color/) σε πίνακα Color. |
 
 ### Δείτε επίσης
 
-* χώρος ονομάτων [Aspose.PSD.Extensions](../../aspose.psd.extensions/)
-* συνέλευση [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Extensions](../../aspose.psd.extensions/)
+* assembly [Aspose.PSD](../../)
 
 

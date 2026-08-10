@@ -1,24 +1,25 @@
 ---
-title: UnitArrayStructure.ValueCount
-second_title: Aspose.PSD για Αναφορά API .NET
-description: UnitArrayStructure ιδιοκτησία. Λαμβάνει τον αριθμό τιμών.
+title: "UnitArrayStructure.ValueCount"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα UnitArrayStructure. Λαμβάνει τον αριθμό των τιμών"
 type: docs
 weight: 50
 url: /el/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/unitarraystructure/valuecount/
 ---
+{{< psd/tize >}}
 ## UnitArrayStructure.ValueCount property
 
-Λαμβάνει τον αριθμό τιμών.
+Λαμβάνει τον αριθμό των τιμών.
 
 ```csharp
 public int ValueCount { get; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Η καταμέτρηση τιμών στη δομή του πίνακα μονάδων.
+Ο αριθμός των τιμών στη δομή πίνακα μονάδων.
 
-### Παραδείγματα
+## Παραδείγματα
 
 Ο παρακάτω κώδικας δείχνει την υποστήριξη των υπογραφών ObAr και UnFl.
 
@@ -75,7 +76,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
 ### Δείτε επίσης
 
 * class [UnitArrayStructure](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../unitarraystructure/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 

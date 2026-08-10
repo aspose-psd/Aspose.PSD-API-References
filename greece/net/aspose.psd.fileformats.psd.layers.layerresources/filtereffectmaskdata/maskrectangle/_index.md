@@ -1,14 +1,15 @@
 ---
-title: FilterEffectMaskData.MaskRectangle
-second_title: Aspose.PSD για Αναφορά API .NET
-description: FilterEffectMaskData ιδιοκτησία. Παίρνει το ορθογώνιο μάσκας φύλλου.
+title: "FilterEffectMaskData.MaskRectangle"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα FilterEffectMaskData. Λαμβάνει το ορθογώνιο της μάσκας φύλλου"
 type: docs
 weight: 50
 url: /el/net/aspose.psd.fileformats.psd.layers.layerresources/filtereffectmaskdata/maskrectangle/
 ---
+{{< psd/tize >}}
 ## FilterEffectMaskData.MaskRectangle property
 
-Παίρνει το ορθογώνιο μάσκας φύλλου.
+Λαμβάνει το ορθογώνιο της μάσκας φύλλου.
 
 ```csharp
 public Rectangle MaskRectangle { get; }
@@ -18,7 +19,7 @@ public Rectangle MaskRectangle { get; }
 
 * struct [Rectangle](../../../aspose.psd/rectangle/)
 * class [FilterEffectMaskData](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../filtereffectmaskdata/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

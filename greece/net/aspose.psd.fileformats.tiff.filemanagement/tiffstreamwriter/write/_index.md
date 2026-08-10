@@ -1,11 +1,12 @@
 ---
-title: TiffStreamWriter.Write
-second_title: Aspose.PSD για Αναφορά API .NET
-description: TiffStreamWriter μέθοδος. Γράφει τα καθορισμένα δεδομένα.
+title: "TiffStreamWriter.Write"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Μέθοδος TiffStreamWriter. Γράφει τα καθορισμένα δεδομένα"
 type: docs
 weight: 40
 url: /el/net/aspose.psd.fileformats.tiff.filemanagement/tiffstreamwriter/write/
 ---
+{{< psd/tize >}}
 ## Write(byte[], int, int) {#write_1}
 
 Γράφει τα καθορισμένα δεδομένα.
@@ -16,15 +17,15 @@ public void Write(byte[] data, int offset, int dataLength)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| data | Byte[] | Τα δεδομένα που πρέπει να γραφτούν. |
-| offset | Int32 | Η μετατόπιση δεδομένων. |
-| dataLength | Int32 | Μήκος των δεδομένων μέχρι τον συγγραφέα. |
+| δεδομένα | Byte[] | Τα δεδομένα για εγγραφή. |
+| offset | Int32 | Η μετατόπιση των δεδομένων. |
+| dataLength | Int32 | Μήκος των δεδομένων προς εγγραφή. |
 
 ### Δείτε επίσης
 
 * class [TiffStreamWriter](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Tiff.FileManagement](../../tiffstreamwriter/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff.FileManagement](../../../aspose.psd.fileformats.tiff.filemanagement/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
@@ -38,12 +39,12 @@ public void Write(byte[] data)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| data | Byte[] | Τα δεδομένα που πρέπει να γραφτούν. |
+| δεδομένα | Byte[] | Τα δεδομένα για εγγραφή. |
 
 ### Δείτε επίσης
 
 * class [TiffStreamWriter](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Tiff.FileManagement](../../tiffstreamwriter/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff.FileManagement](../../../aspose.psd.fileformats.tiff.filemanagement/)
+* assembly [Aspose.PSD](../../../)
 
 

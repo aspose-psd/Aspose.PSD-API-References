@@ -1,27 +1,28 @@
 ---
-title: TiffOptions.XPComment
-second_title: Aspose.PSD για Αναφορά API .NET
-description: TiffOptions ιδιοκτησία. Λαμβάνει ή ορίζει σχόλια σε εικόνα που χρησιμοποιείται από την Εξερεύνηση των Windows.
+title: "TiffOptions.XPComment"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα TiffOptions. Λαμβάνει ή ορίζει το σχόλιο στην εικόνα που χρησιμοποιείται από τον Windows Explorer"
 type: docs
-weight: 600
+weight: 610
 url: /el/net/aspose.psd.imageoptions/tiffoptions/xpcomment/
 ---
+{{< psd/tize >}}
 ## TiffOptions.XPComment property
 
-Λαμβάνει ή ορίζει σχόλια σε εικόνα, που χρησιμοποιείται από την Εξερεύνηση των Windows.
+Λαμβάνει ή ορίζει το σχόλιο στην εικόνα, που χρησιμοποιείται από τον Windows Explorer.
 
 ```csharp
 public string XPComment { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Σχόλιο στην εικόνα, που χρησιμοποιείται από την Εξερεύνηση των Windows.
+Σχόλιο στην εικόνα, χρησιμοποιείται από τον Windows Explorer.
 
 ### Δείτε επίσης
 
 * class [TiffOptions](../)
-* χώρος ονομάτων [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

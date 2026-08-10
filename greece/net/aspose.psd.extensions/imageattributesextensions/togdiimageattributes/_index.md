@@ -1,14 +1,15 @@
 ---
-title: ImageAttributesExtensions.ToGdiImageAttributes
-second_title: Aspose.PSD για Αναφορά API .NET
-description: ImageAttributesExtensions μέθοδος. Μετατρέπει τοImageAttributes στοImageAttributes .
+title: "ImageAttributesExtensions.ToGdiImageAttributes"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Μέθοδος ImageAttributesExtensions. Μετατρέπει το ImageAttributes σε ImageAttributes"
 type: docs
 weight: 10
 url: /el/net/aspose.psd.extensions/imageattributesextensions/togdiimageattributes/
 ---
+{{< psd/tize >}}
 ## ImageAttributesExtensions.ToGdiImageAttributes method
 
-Μετατρέπει το[`ImageAttributes`](../../../aspose.psd/imageattributes/) στοImageAttributes .
+Μετατρέπει το [`ImageAttributes`](../../../aspose.psd/imageattributes/) σε ImageAttributes.
 
 ```csharp
 public static ImageAttributes ToGdiImageAttributes(ImageAttributes imageAttributes)
@@ -16,17 +17,17 @@ public static ImageAttributes ToGdiImageAttributes(ImageAttributes imageAttribut
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| imageAttributes | ImageAttributes | ο[`ImageAttributes`](../../../aspose.psd/imageattributes/) μετατρέπω. |
+| imageAttributes | ImageAttributes | Το [`ImageAttributes`](../../../aspose.psd/imageattributes/) για μετατροπή. |
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-Οι μετατρεπόμενοιImageAttributes.
+Το μετατρεπόμενο ImageAttributes.
 
 ### Δείτε επίσης
 
 * class [ImageAttributes](../../../aspose.psd/imageattributes/)
 * class [ImageAttributesExtensions](../)
-* χώρος ονομάτων [Aspose.PSD.Extensions](../../imageattributesextensions/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Extensions](../../../aspose.psd.extensions/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: RectangleExtensions.UnionWith
-second_title: Aspose.PSD για Αναφορά API .NET
-description: RectangleExtensions μέθοδος. Ενώσεις δύο παραλληλόγραμμο.
+title: "RectangleExtensions.UnionWith"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Μέθοδος RectangleExtensions. Ενώνει δύο ορθογώνια"
 type: docs
 weight: 20
 url: /el/net/aspose.psd.extensions/rectangleextensions/unionwith/
 ---
+{{< psd/tize >}}
 ## RectangleExtensions.UnionWith method
 
-Ενώσεις δύο παραλληλόγραμμο.
+Ενώνει δύο ορθογώνια.
 
 ```csharp
 public static RectangleF UnionWith(RectangleF rectangle, RectangleF otherRectangle)
@@ -16,18 +17,18 @@ public static RectangleF UnionWith(RectangleF rectangle, RectangleF otherRectang
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| rectangle | RectangleF | Το πρώτο ορθογώνιο. |
+| ορθογώνιο | RectangleF | Το πρώτο ορθογώνιο. |
 | otherRectangle | RectangleF | Το δεύτερο ορθογώνιο. |
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-Νέο ορθογώνιο ως αποτέλεσμα λειτουργίας ένωσης
+Νέο ορθογώνιο ως αποτέλεσμα της λειτουργίας ένωσης
 
 ### Δείτε επίσης
 
 * struct [RectangleF](../../../aspose.psd/rectanglef/)
 * class [RectangleExtensions](../)
-* χώρος ονομάτων [Aspose.PSD.Extensions](../../rectangleextensions/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Extensions](../../../aspose.psd.extensions/)
+* assembly [Aspose.PSD](../../../)
 
 

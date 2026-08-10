@@ -1,11 +1,12 @@
 ---
-title: RectangleF.op_Division
-second_title: Aspose.PSD για Αναφορά API .NET
-description: RectangleF μέθοδος. Υλοποιεί τον τελεστή /.
+title: "RectangleF.op_Division"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Μέθοδος RectangleF. Υλοποιεί τον τελεστή /"
 type: docs
 weight: 260
 url: /el/net/aspose.psd/rectanglef/op_division/
 ---
+{{< psd/tize >}}
 ## RectangleF Division operator
 
 Υλοποιεί τον τελεστή /.
@@ -16,23 +17,23 @@ public static RectangleF operator /(RectangleF rectangle, float divider)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| rectangle | RectangleF | Το ορθογώνιο. |
-| divider | Single | Το διαχωριστικό. |
+| ορθογώνιο | RectangleF | Το ορθογώνιο. |
+| διαχωριστής | Single | Ο διαχωριστής. |
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
 Το αποτέλεσμα του τελεστή.
 
 ### Εξαιρέσεις
 
-| εξαίρεση | κατάσταση |
+| εξαίρεση | συνθήκη |
 | --- | --- |
-| ArgumentOutOfRangeException | διαιρέτης - Δεν επιτρέπεται η διαίρεση με το μηδέν. |
+| ArgumentOutOfRangeException | διαχωριστής - Η διαίρεση με το μηδέν δεν επιτρέπεται. |
 
 ### Δείτε επίσης
 
 * struct [RectangleF](../)
-* χώρος ονομάτων [Aspose.PSD](../../rectanglef/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

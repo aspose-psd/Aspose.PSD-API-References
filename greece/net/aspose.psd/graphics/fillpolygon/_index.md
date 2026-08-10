@@ -1,14 +1,15 @@
 ---
-title: Graphics.FillPolygon
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Graphics μέθοδος. Γεμίζει το εσωτερικό ενός πολυγώνου που ορίζεται από έναν πίνακα σημείων που καθορίζεται απόPointF δομές καιAlternate .
+title: "Graphics.FillPolygon"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Graphics μέθοδος. Συμπληρώνει το εσωτερικό ενός πολυγώνου που ορίζεται από έναν πίνακα σημείων που καθορίζονται από δομές PointF και Alternate"
 type: docs
-weight: 380
+weight: 390
 url: /el/net/aspose.psd/graphics/fillpolygon/
 ---
+{{< psd/tize >}}
 ## FillPolygon(Brush, PointF[]) {#fillpolygon}
 
-Γεμίζει το εσωτερικό ενός πολυγώνου που ορίζεται από έναν πίνακα σημείων που καθορίζεται από[`PointF`](../../pointf/) δομές καιAlternate .
+Συμπληρώνει το εσωτερικό ενός πολυγώνου που ορίζεται από έναν πίνακα σημείων που καθορίζονται από δομές [`PointF`](../../pointf/) και Alternate.
 
 ```csharp
 public void FillPolygon(Brush brush, PointF[] points)
@@ -16,28 +17,28 @@ public void FillPolygon(Brush brush, PointF[] points)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| brush | Brush | [`Brush`](../../brush/)που καθορίζει τα χαρακτηριστικά του γεμίσματος. |
-| points | PointF[] | Συστοιχία από[`PointF`](../../pointf/) δομές που αντιπροσωπεύουν τις κορυφές του προς πλήρωση πολυγώνου. |
+| brush | Brush | [`Brush`](../../brush/) που καθορίζει τα χαρακτηριστικά της συμπλήρωσης. |
+| points | PointF[] | Πίνακας δομών [`PointF`](../../pointf/) που αντιπροσωπεύουν τις κορυφές του πολυγώνου προς συμπλήρωση. |
 
 ### Εξαιρέσεις
 
-| εξαίρεση | κατάσταση |
+| εξαίρεση | συνθήκη |
 | --- | --- |
-| ArgumentNullException | *brush* είναι μηδενικό. -ή- *points* είναι μηδενικό. |
+| ArgumentNullException | *brush* είναι null. -ή- *points* είναι null. |
 
 ### Δείτε επίσης
 
 * class [Brush](../../brush/)
 * struct [PointF](../../pointf/)
 * class [Graphics](../)
-* χώρος ονομάτων [Aspose.PSD](../../graphics/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## FillPolygon(Brush, PointF[], FillMode) {#fillpolygon_1}
 
-Γεμίζει το εσωτερικό ενός πολυγώνου που ορίζεται από έναν πίνακα σημείων που καθορίζεται από[`PointF`](../../pointf/) δομές που χρησιμοποιούν την καθορισμένη λειτουργία πλήρωσης.
+Συμπληρώνει το εσωτερικό ενός πολυγώνου που ορίζεται από έναν πίνακα σημείων που καθορίζονται από δομές [`PointF`](../../pointf/) χρησιμοποιώντας την καθορισμένη λειτουργία γεμίσματος.
 
 ```csharp
 public void FillPolygon(Brush brush, PointF[] points, FillMode fillMode)
@@ -45,15 +46,15 @@ public void FillPolygon(Brush brush, PointF[] points, FillMode fillMode)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| brush | Brush | [`Brush`](../../brush/)που καθορίζει τα χαρακτηριστικά του γεμίσματος. |
-| points | PointF[] | Συστοιχία από[`PointF`](../../pointf/) δομές που αντιπροσωπεύουν τις κορυφές του προς πλήρωση πολυγώνου. |
-| fillMode | FillMode | Μέλος του[`FillMode`](../../fillmode/) απαρίθμηση που καθορίζει το στυλ της πλήρωσης. |
+| brush | Brush | [`Brush`](../../brush/) που καθορίζει τα χαρακτηριστικά της συμπλήρωσης. |
+| points | PointF[] | Πίνακας δομών [`PointF`](../../pointf/) που αντιπροσωπεύουν τις κορυφές του πολυγώνου προς συμπλήρωση. |
+| fillMode | FillMode | Μέλος της απαρίθμησης [`FillMode`](../../fillmode/) που καθορίζει το στυλ του γεμίσματος. |
 
 ### Εξαιρέσεις
 
-| εξαίρεση | κατάσταση |
+| εξαίρεση | συνθήκη |
 | --- | --- |
-| ArgumentNullException | *brush* είναι μηδενικό. -ή- *points* είναι μηδενικό. |
+| ArgumentNullException | *brush* είναι null. -ή- *points* είναι null. |
 
 ### Δείτε επίσης
 
@@ -61,14 +62,14 @@ public void FillPolygon(Brush brush, PointF[] points, FillMode fillMode)
 * struct [PointF](../../pointf/)
 * enum [FillMode](../../fillmode/)
 * class [Graphics](../)
-* χώρος ονομάτων [Aspose.PSD](../../graphics/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## FillPolygon(Brush, Point[]) {#fillpolygon_2}
 
-Γεμίζει το εσωτερικό ενός πολυγώνου που ορίζεται από έναν πίνακα σημείων που καθορίζεται από[`Point`](../../point/) δομές καιAlternate .
+Συμπληρώνει το εσωτερικό ενός πολυγώνου που ορίζεται από έναν πίνακα σημείων που καθορίζονται από δομές [`Point`](../../point/) και Alternate.
 
 ```csharp
 public void FillPolygon(Brush brush, Point[] points)
@@ -76,28 +77,28 @@ public void FillPolygon(Brush brush, Point[] points)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| brush | Brush | [`Brush`](../../brush/)που καθορίζει τα χαρακτηριστικά του γεμίσματος. |
-| points | Point[] | Συστοιχία από[`Point`](../../point/) δομές που αντιπροσωπεύουν τις κορυφές του προς πλήρωση πολυγώνου. |
+| brush | Brush | [`Brush`](../../brush/) που καθορίζει τα χαρακτηριστικά της συμπλήρωσης. |
+| points | Point[] | Πίνακας δομών [`Point`](../../point/) που αντιπροσωπεύουν τις κορυφές του πολυγώνου προς συμπλήρωση. |
 
 ### Εξαιρέσεις
 
-| εξαίρεση | κατάσταση |
+| εξαίρεση | συνθήκη |
 | --- | --- |
-| ArgumentNullException | *brush* είναι μηδενικό. -ή- *points* είναι μηδενικό. |
+| ArgumentNullException | *brush* είναι null. -ή- *points* είναι null. |
 
 ### Δείτε επίσης
 
 * class [Brush](../../brush/)
 * struct [Point](../../point/)
 * class [Graphics](../)
-* χώρος ονομάτων [Aspose.PSD](../../graphics/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## FillPolygon(Brush, Point[], FillMode) {#fillpolygon_3}
 
-Γεμίζει το εσωτερικό ενός πολυγώνου που ορίζεται από έναν πίνακα σημείων που καθορίζεται από[`Point`](../../point/) δομές που χρησιμοποιούν την καθορισμένη λειτουργία πλήρωσης.
+Συμπληρώνει το εσωτερικό ενός πολυγώνου που ορίζεται από έναν πίνακα σημείων που καθορίζονται από δομές [`Point`](../../point/) χρησιμοποιώντας την καθορισμένη λειτουργία γεμίσματος.
 
 ```csharp
 public void FillPolygon(Brush brush, Point[] points, FillMode fillMode)
@@ -105,15 +106,15 @@ public void FillPolygon(Brush brush, Point[] points, FillMode fillMode)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| brush | Brush | [`Brush`](../../brush/)που καθορίζει τα χαρακτηριστικά του γεμίσματος. |
-| points | Point[] | Συστοιχία από[`Point`](../../point/) δομές που αντιπροσωπεύουν τις κορυφές του προς πλήρωση πολυγώνου. |
-| fillMode | FillMode | Μέλος του[`FillMode`](../../fillmode/) απαρίθμηση που καθορίζει το στυλ της πλήρωσης. |
+| brush | Brush | [`Brush`](../../brush/) που καθορίζει τα χαρακτηριστικά της συμπλήρωσης. |
+| points | Point[] | Πίνακας δομών [`Point`](../../point/) που αντιπροσωπεύουν τις κορυφές του πολυγώνου προς συμπλήρωση. |
+| fillMode | FillMode | Μέλος της απαρίθμησης [`FillMode`](../../fillmode/) που καθορίζει το στυλ του γεμίσματος. |
 
 ### Εξαιρέσεις
 
-| εξαίρεση | κατάσταση |
+| εξαίρεση | συνθήκη |
 | --- | --- |
-| ArgumentNullException | *brush* είναι μηδενικό. -ή- *points* είναι μηδενικό. |
+| ArgumentNullException | *brush* είναι null. -ή- *points* είναι null. |
 
 ### Δείτε επίσης
 
@@ -121,7 +122,7 @@ public void FillPolygon(Brush brush, Point[] points, FillMode fillMode)
 * struct [Point](../../point/)
 * enum [FillMode](../../fillmode/)
 * class [Graphics](../)
-* χώρος ονομάτων [Aspose.PSD](../../graphics/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

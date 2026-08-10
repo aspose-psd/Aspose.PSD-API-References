@@ -1,14 +1,15 @@
 ---
-title: HatchBrush.HatchStyle
-second_title: Aspose.PSD για Αναφορά API .NET
-description: HatchBrush ιδιοκτησία. Αποκτά ή ρυθμίζει το στυλ καταπακτής αυτού του πινέλου.
+title: "HatchBrush.HatchStyle"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα HatchBrush. Λαμβάνει ή ορίζει το στυλ hatch αυτής της βούρτσας"
 type: docs
 weight: 40
 url: /el/net/aspose.psd.brushes/hatchbrush/hatchstyle/
 ---
+{{< psd/tize >}}
 ## HatchBrush.HatchStyle property
 
-Αποκτά ή ρυθμίζει το στυλ καταπακτής αυτού του πινέλου.
+Ανακτά ή ορίζει το στυλ διαγράμμισης αυτού του brush.
 
 ```csharp
 public HatchStyle HatchStyle { get; set; }
@@ -18,7 +19,7 @@ public HatchStyle HatchStyle { get; set; }
 
 * enum [HatchStyle](../../../aspose.psd/hatchstyle/)
 * class [HatchBrush](../)
-* χώρος ονομάτων [Aspose.PSD.Brushes](../../hatchbrush/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
+* assembly [Aspose.PSD](../../../)
 
 

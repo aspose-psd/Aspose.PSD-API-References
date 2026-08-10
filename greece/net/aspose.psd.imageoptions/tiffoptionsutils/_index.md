@@ -1,14 +1,15 @@
 ---
-title: Class TiffOptionsUtils
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Aspose.PSD.ImageOptions.TiffOptionsUtils τάξη. Η κλάση βοηθητικού προγράμματος επιλογών μορφής αρχείου tiff.
+title: "Κλάση TiffOptionsUtils"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Aspose.PSD.ImageOptions.TiffOptionsUtils κλάση. Η βοηθητική κλάση επιλογών μορφής αρχείου tiff"
 type: docs
-weight: 4960
+weight: 5450
 url: /el/net/aspose.psd.imageoptions/tiffoptionsutils/
 ---
+{{< psd/tize >}}
 ## TiffOptionsUtils class
 
-Η κλάση βοηθητικού προγράμματος επιλογών μορφής αρχείου tiff.
+Η βοηθητική κλάση επιλογών μορφής αρχείου tiff.
 
 ```csharp
 public class TiffOptionsUtils
@@ -16,19 +17,19 @@ public class TiffOptionsUtils
 
 ## Κατασκευαστές
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
 | [TiffOptionsUtils](tiffoptionsutils/)() | Ο προεπιλεγμένος κατασκευαστής. |
 
 ## Μέθοδοι
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
-| static [GetValidTagsCount](../../aspose.psd.imageoptions/tiffoptionsutils/getvalidtagscount/)(TiffDataType[]) | Λαμβάνει τον έγκυρο αριθμό ετικετών. |
+| static [GetValidTagsCount](../../aspose.psd.imageoptions/tiffoptionsutils/getvalidtagscount/)(TiffDataType[]) | Λαμβάνει τον αριθμό των έγκυρων ετικετών. |
 
 ### Δείτε επίσης
 
-* χώρος ονομάτων [Aspose.PSD.ImageOptions](../../aspose.psd.imageoptions/)
-* συνέλευση [Aspose.PSD](../../)
+* namespace [Aspose.PSD.ImageOptions](../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../)
 
 

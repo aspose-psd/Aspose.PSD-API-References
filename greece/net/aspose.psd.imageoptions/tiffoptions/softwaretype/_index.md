@@ -1,11 +1,12 @@
 ---
-title: TiffOptions.SoftwareType
-second_title: Aspose.PSD για Αναφορά API .NET
-description: TiffOptions ιδιοκτησία. Λαμβάνει ή ορίζει τον τύπο λογισμικού.
+title: "TiffOptions.SoftwareType"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα TiffOptions. Λαμβάνει ή ορίζει τον τύπο λογισμικού"
 type: docs
-weight: 450
+weight: 460
 url: /el/net/aspose.psd.imageoptions/tiffoptions/softwaretype/
 ---
+{{< psd/tize >}}
 ## TiffOptions.SoftwareType property
 
 Λαμβάνει ή ορίζει τον τύπο λογισμικού.
@@ -14,14 +15,14 @@ url: /el/net/aspose.psd.imageoptions/tiffoptions/softwaretype/
 public string SoftwareType { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
 Ο τύπος λογισμικού.
 
 ### Δείτε επίσης
 
 * class [TiffOptions](../)
-* χώρος ονομάτων [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

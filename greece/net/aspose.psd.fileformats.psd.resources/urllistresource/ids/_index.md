@@ -1,11 +1,12 @@
 ---
-title: UrlListResource.Ids
-second_title: Aspose.PSD για Αναφορά API .NET
-description: UrlListResource ιδιοκτησία. Λαμβάνει ή ορίζει τα αναγνωριστικά.
+title: "UrlListResource.Ids"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "UrlListResource ιδιότητα. Λαμβάνει ή ορίζει τα ids"
 type: docs
 weight: 40
 url: /el/net/aspose.psd.fileformats.psd.resources/urllistresource/ids/
 ---
+{{< psd/tize >}}
 ## UrlListResource.Ids property
 
 Λαμβάνει ή ορίζει τα αναγνωριστικά.
@@ -14,14 +15,14 @@ url: /el/net/aspose.psd.fileformats.psd.resources/urllistresource/ids/
 public int[] Ids { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Τα αναγνωριστικά.
+Τα ids.
 
 ### Δείτε επίσης
 
 * class [UrlListResource](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Resources](../../urllistresource/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: Class AsyncTaskProgress
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Aspose.PSD.AsyncTask.AsyncTaskProgress τάξη. Παρέχει πληροφορίες προόδου για την ασύγχρονη εργασία.
+title: "Κλάση AsyncTaskProgress"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Κλάση Aspose.PSD.AsyncTask.AsyncTaskProgress. Παρέχει πληροφορίες προόδου για την ασύγχρονη εργασία"
 type: docs
 weight: 60
 url: /el/net/aspose.psd.asynctask/asynctaskprogress/
 ---
+{{< psd/tize >}}
 ## AsyncTaskProgress class
 
 Παρέχει πληροφορίες προόδου για την ασύγχρονη εργασία.
@@ -16,20 +17,20 @@ public class AsyncTaskProgress
 
 ## Κατασκευαστές
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
-| [AsyncTaskProgress](asynctaskprogress/)(int, TimeSpan) | Αρχικοποιεί μια νέα παρουσία του`AsyncTaskProgress` τάξη. |
+| [AsyncTaskProgress](asynctaskprogress/)(int, TimeSpan) | Αρχικοποιεί μια νέα παρουσία της κλάσης `AsyncTaskProgress`. |
 
 ## Πεδία
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
 | readonly [Duration](../../aspose.psd.asynctask/asynctaskprogress/duration/) | Η διάρκεια της ασύγχρονης εργασίας. |
-| readonly [ProgressPercentage](../../aspose.psd.asynctask/asynctaskprogress/progresspercentage/) | Η πρόοδος της ασύγχρονης εργασίας, σε ποσοστά. |
+| readonly [ProgressPercentage](../../aspose.psd.asynctask/asynctaskprogress/progresspercentage/) | Η πρόοδος της ασύγχρονης εργασίας, σε ποσοστό. |
 
 ### Δείτε επίσης
 
-* χώρος ονομάτων [Aspose.PSD.AsyncTask](../../aspose.psd.asynctask/)
-* συνέλευση [Aspose.PSD](../../)
+* namespace [Aspose.PSD.AsyncTask](../../aspose.psd.asynctask/)
+* assembly [Aspose.PSD](../../)
 
 

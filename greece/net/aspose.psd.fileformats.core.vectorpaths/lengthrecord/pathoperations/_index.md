@@ -1,11 +1,12 @@
 ---
-title: LengthRecord.PathOperations
-second_title: Aspose.PSD για Αναφορά API .NET
-description: LengthRecord ιδιοκτησία. Λαμβάνει ή ορίζει τις λειτουργίες διαδρομής.
+title: "LengthRecord.PathOperations"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα LengthRecord. Λαμβάνει ή ορίζει τις λειτουργίες διαδρομής"
 type: docs
 weight: 50
 url: /el/net/aspose.psd.fileformats.core.vectorpaths/lengthrecord/pathoperations/
 ---
+{{< psd/tize >}}
 ## LengthRecord.PathOperations property
 
 Λαμβάνει ή ορίζει τις λειτουργίες διαδρομής.
@@ -14,9 +15,9 @@ url: /el/net/aspose.psd.fileformats.core.vectorpaths/lengthrecord/pathoperations
 public PathOperations PathOperations { get; set; }
 ```
 
-### Παραδείγματα
+## Παραδείγματα
 
-Το ακόλουθο παράδειγμα κώδικα δείχνει την υποστήριξη νέων ιδιοτήτων LengthRecord, PathOperations (λειτουργίες boolean), ShapeIndex και BezierKnotRecordsCount.
+Το παρακάτω παράδειγμα κώδικα δείχνει την υποστήριξη των νέων ιδιοτήτων LengthRecord, PathOperations (λογικές λειτουργίες), ShapeIndex και BezierKnotRecordsCount.
 
 ```csharp
 [C#]
@@ -40,7 +41,7 @@ using (var im = (PsdImage)Image.Load(sourceFilePath))
     LengthRecord lengthRecord1 = (LengthRecord)resource.Paths[7];
     LengthRecord lengthRecord2 = (LengthRecord)resource.Paths[11];
 
-    // Εδώ αλλάζουμε τον τρόπο για το συνδυασμό μεταξύ σχημάτων.
+    // Εδώ αλλάζουμε τον τρόπο συνδυασμού μεταξύ σχημάτων.
     lengthRecord0.PathOperations = PathOperations.ExcludeOverlappingShapes;
     lengthRecord1.PathOperations = PathOperations.IntersectShapeAreas;
     lengthRecord2.PathOperations = PathOperations.SubtractFrontShape;
@@ -53,7 +54,7 @@ using (var im = (PsdImage)Image.Load(sourceFilePath))
 
 * enum [PathOperations](../../pathoperations/)
 * class [LengthRecord](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Core.VectorPaths](../../lengthrecord/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../../)
 
 

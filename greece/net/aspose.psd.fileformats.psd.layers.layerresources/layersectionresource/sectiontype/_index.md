@@ -1,11 +1,12 @@
 ---
-title: LayerSectionResource.SectionType
-second_title: Aspose.PSD για Αναφορά API .NET
-description: LayerSectionResource ιδιοκτησία. Λαμβάνει ή ορίζει τον τύπο ενότητας.
+title: "LayerSectionResource.SectionType"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "LayerSectionResource ιδιότητα. Λαμβάνει ή ορίζει τον τύπο ενότητας"
 type: docs
-weight: 60
+weight: 40
 url: /el/net/aspose.psd.fileformats.psd.layers.layerresources/layersectionresource/sectiontype/
 ---
+{{< psd/tize >}}
 ## LayerSectionResource.SectionType property
 
 Λαμβάνει ή ορίζει τον τύπο ενότητας.
@@ -18,7 +19,7 @@ public LayerSectionType SectionType { get; set; }
 
 * enum [LayerSectionType](../../layersectiontype/)
 * class [LayerSectionResource](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../layersectionresource/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

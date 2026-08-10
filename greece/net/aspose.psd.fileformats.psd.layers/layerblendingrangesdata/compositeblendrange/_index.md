@@ -1,28 +1,29 @@
 ---
-title: LayerBlendingRangesData.CompositeBlendRange
-second_title: Aspose.PSD για Αναφορά API .NET
-description: LayerBlendingRangesData ιδιοκτησία. Λαμβάνει ή ορίζει τα εύρη σύνθετων συνδυασμών.
+title: "LayerBlendingRangesData.CompositeBlendRange"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "LayerBlendingRangesData ιδιότητα. Λαμβάνει ή ορίζει τις περιοχές σύνθετης ανάμειξης"
 type: docs
 weight: 30
 url: /el/net/aspose.psd.fileformats.psd.layers/layerblendingrangesdata/compositeblendrange/
 ---
+{{< psd/tize >}}
 ## LayerBlendingRangesData.CompositeBlendRange property
 
-Λαμβάνει ή ορίζει τα εύρη σύνθετων συνδυασμών.
+Λαμβάνει ή ορίζει τα σύνθετα εύρη ανάμειξης.
 
 ```csharp
 public BlendRange CompositeBlendRange { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Το σύνθετο μείγμα κυμαίνεται.
+Οι περιοχές σύνθετης ανάμειξης.
 
 ### Δείτε επίσης
 
 * class [BlendRange](../../blendrange/)
 * class [LayerBlendingRangesData](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers](../../layerblendingrangesdata/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

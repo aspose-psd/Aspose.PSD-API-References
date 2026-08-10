@@ -1,28 +1,29 @@
 ---
-title: PsdImage.AddHueSaturationAdjustmentLayer
-second_title: Aspose.PSD για Αναφορά API .NET
-description: PsdImage μέθοδος. Προσθέτει το επίπεδο ρύθμισης απόχρωσης/κορεσμού.
+title: "PsdImage.AddHueSaturationAdjustmentLayer"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "PsdImage μέθοδος. Προσθέτει το hue/saturation adjustment layer"
 type: docs
-weight: 350
+weight: 370
 url: /el/net/aspose.psd.fileformats.psd/psdimage/addhuesaturationadjustmentlayer/
 ---
+{{< psd/tize >}}
 ## PsdImage.AddHueSaturationAdjustmentLayer method
 
-Προσθέτει το επίπεδο ρύθμισης απόχρωσης/κορεσμού.
+Προσθέτει το επίπεδο προσαρμογής απόχρωσης/κορεσμού.
 
 ```csharp
 public HueSaturationLayer AddHueSaturationAdjustmentLayer()
 ```
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-Ένα νεοδημιουργημένο στρώμα απόχρωσης/κορεσμού.
+Ένα νεοδημιουργημένο επίπεδο hue/saturation.
 
 ### Δείτε επίσης
 
 * class [HueSaturationLayer](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/huesaturationlayer/)
 * class [PsdImage](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

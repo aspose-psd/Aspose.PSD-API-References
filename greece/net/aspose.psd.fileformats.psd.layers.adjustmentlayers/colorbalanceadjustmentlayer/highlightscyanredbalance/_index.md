@@ -1,32 +1,33 @@
 ---
-title: ColorBalanceAdjustmentLayer.HighlightsCyanRedBalance
-second_title: Aspose.PSD για Αναφορά API .NET
-description: ColorBalanceAdjustmentLayer ιδιοκτησία. Λαμβάνει ή ορίζει το κυανό κόκκινο ισορροπία.
+title: "ColorBalanceAdjustmentLayer.HighlightsCyanRedBalance"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα ColorBalanceAdjustmentLayer. Λαμβάνει ή ορίζει το Highlights Cyan Red Balance"
 type: docs
 weight: 10
 url: /el/net/aspose.psd.fileformats.psd.layers.adjustmentlayers/colorbalanceadjustmentlayer/highlightscyanredbalance/
 ---
+{{< psd/tize >}}
 ## ColorBalanceAdjustmentLayer.HighlightsCyanRedBalance property
 
-Λαμβάνει ή ορίζει το κυανό κόκκινο ισορροπία.
+Λαμβάνει ή ορίζει το Highlights Cyan Red Balance.
 
 ```csharp
 public short HighlightsCyanRedBalance { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Τα κυριότερα σημεία Κυανό κόκκινο ισορροπία.
+Το Highlights Cyan Red Balance.
 
 ### Εξαιρέσεις
 
-| εξαίρεση | κατάσταση |
+| εξαίρεση | συνθήκη |
 | --- | --- |
-| ArgumentOutOfRangeException | Χαρακτηριστικά Η ισορροπία του κυανού κόκκινου πρέπει να κυμαίνεται από -100 έως +100. |
+| ArgumentOutOfRangeException | Το Highlights Cyan Red Balance πρέπει να βρίσκεται στο εύρος από -100 έως +100. |
 
-### Παραδείγματα
+## Παραδείγματα
 
-Ο παρακάτω κώδικας δείχνει υποστήριξη για το ColorBalanceAdjustmentLayer.
+Ο παρακάτω κώδικας δείχνει την υποστήριξη για το ColorBalanceAdjustmentLayer.
 
 ```csharp
 [C#]
@@ -60,7 +61,7 @@ using (var im = (PsdImage)Image.Load(filePath))
 ### Δείτε επίσης
 
 * class [ColorBalanceAdjustmentLayer](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../colorbalanceadjustmentlayer/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/)
+* assembly [Aspose.PSD](../../../)
 
 

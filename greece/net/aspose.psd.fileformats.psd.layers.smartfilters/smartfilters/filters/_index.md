@@ -1,14 +1,15 @@
 ---
-title: SmartFilters.Filters
-second_title: Aspose.PSD για Αναφορά API .NET
-description: SmartFilters ιδιοκτησία. Παίρνει ή ρυθμίζει τα έξυπνα φίλτρα.
+title: "SmartFilters.Filters"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα SmartFilters. Λαμβάνει ή ορίζει τα έξυπνα φίλτρα"
 type: docs
 weight: 10
 url: /el/net/aspose.psd.fileformats.psd.layers.smartfilters/smartfilters/filters/
 ---
+{{< psd/tize >}}
 ## SmartFilters.Filters property
 
-Παίρνει ή ρυθμίζει τα έξυπνα φίλτρα.
+Λαμβάνει ή ορίζει τα έξυπνα φίλτρα.
 
 ```csharp
 public SmartFilter[] Filters { get; set; }
@@ -18,7 +19,7 @@ public SmartFilter[] Filters { get; set; }
 
 * class [SmartFilter](../../smartfilter/)
 * class [SmartFilters](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.SmartFilters](../../smartfilters/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.SmartFilters](../../../aspose.psd.fileformats.psd.layers.smartfilters/)
+* assembly [Aspose.PSD](../../../)
 
 

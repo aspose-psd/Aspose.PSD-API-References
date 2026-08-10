@@ -1,14 +1,15 @@
 ---
-title: XmpDynamicMediaPackage.SetKey
-second_title: Aspose.PSD για Αναφορά API .NET
-description: XmpDynamicMediaPackage μέθοδος. Ρυθμίζει το μουσικό πλήκτρο του ήχου.
+title: "XmpDynamicMediaPackage.SetKey"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "XmpDynamicMediaPackage μέθοδος. Ορίζει το μουσικό κλειδί του ήχου"
 type: docs
 weight: 260
 url: /el/net/aspose.psd.xmp.schemas.xmpdm/xmpdynamicmediapackage/setkey/
 ---
+{{< psd/tize >}}
 ## XmpDynamicMediaPackage.SetKey method
 
-Ρυθμίζει το μουσικό πλήκτρο του ήχου.
+Ορίζει τη μουσική κλίμακα του ήχου.
 
 ```csharp
 public void SetKey(string key)
@@ -16,12 +17,12 @@ public void SetKey(string key)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| key | String | Το μουσικό κλειδί του ήχου. Ένα από τα: C, C#, D, D#, E, F, F#, G, G#, A, A# και B. |
+| κλειδί | String | Το μουσικό κλειδί του ήχου. Ένα από: C, C#, D, D#, E, F, F#, G, G#, A, A#, και B. |
 
 ### Δείτε επίσης
 
 * class [XmpDynamicMediaPackage](../)
-* χώρος ονομάτων [Aspose.PSD.Xmp.Schemas.XmpDm](../../xmpdynamicmediapackage/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpDm](../../../aspose.psd.xmp.schemas.xmpdm/)
+* assembly [Aspose.PSD](../../../)
 
 

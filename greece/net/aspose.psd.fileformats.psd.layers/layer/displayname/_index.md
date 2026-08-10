@@ -1,11 +1,12 @@
 ---
-title: Layer.DisplayName
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Layer ιδιοκτησία. Λαμβάνει ή ορίζει το εμφανιζόμενο όνομα του επιπέδου.
+title: "Layer.DisplayName"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα Layer. Λαμβάνει ή ορίζει το εμφανιζόμενο όνομα του επιπέδου"
 type: docs
-weight: 100
+weight: 110
 url: /el/net/aspose.psd.fileformats.psd.layers/layer/displayname/
 ---
+{{< psd/tize >}}
 ## Layer.DisplayName property
 
 Λαμβάνει ή ορίζει το εμφανιζόμενο όνομα του επιπέδου.
@@ -14,13 +15,13 @@ url: /el/net/aspose.psd.fileformats.psd.layers/layer/displayname/
 public string DisplayName { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
 Το εμφανιζόμενο όνομα του επιπέδου.
 
-### Παραδείγματα
+## Παραδείγματα
 
-Το ακόλουθο παράδειγμα δείχνει τη δυνατότητα να ορίσετε την τιμή DisplayName, σε αυτό που εμφανίζεται σωστά το όνομα του επιπέδου.
+Το παρακάτω παράδειγμα δείχνει τη δυνατότητα ορισμού της τιμής DisplayName, ώστε το όνομα του επιπέδου να εμφανίζεται σωστά.
 
 ```csharp
 [C#]
@@ -45,7 +46,7 @@ using (var image = (PsdImage)Image.Load(sourceFileName))
 ### Δείτε επίσης
 
 * class [Layer](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers](../../layer/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

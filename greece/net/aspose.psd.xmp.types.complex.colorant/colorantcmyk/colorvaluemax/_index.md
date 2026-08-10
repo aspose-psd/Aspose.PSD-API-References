@@ -1,14 +1,15 @@
 ---
-title: ColorantCmyk.ColorValueMax
-second_title: Aspose.PSD για Αναφορά API .NET
-description: ColorantCmyk πεδίο. Μέγιστη τιμή χρώματος σε χρωστική CMYK.
+title: "ColorantCmyk.ColorValueMax"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Πεδίο ColorantCmyk. Μέγιστη τιμή χρώματος σε χρωστικό CMYK"
 type: docs
 weight: 70
 url: /el/net/aspose.psd.xmp.types.complex.colorant/colorantcmyk/colorvaluemax/
 ---
+{{< psd/tize >}}
 ## ColorantCmyk.ColorValueMax field
 
-Μέγιστη τιμή χρώματος σε χρωστική CMYK.
+Μέγιστη τιμή χρώματος στο χρωστικό CMYK.
 
 ```csharp
 public const float ColorValueMax;
@@ -17,7 +18,7 @@ public const float ColorValueMax;
 ### Δείτε επίσης
 
 * class [ColorantCmyk](../)
-* χώρος ονομάτων [Aspose.PSD.Xmp.Types.Complex.Colorant](../../colorantcmyk/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.Colorant](../../../aspose.psd.xmp.types.complex.colorant/)
+* assembly [Aspose.PSD](../../../)
 
 

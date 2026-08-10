@@ -1,51 +1,12 @@
 ---
-title: Image.Resize
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Image μέθοδος. Αλλάζει το μέγεθος της εικόνας. Η προεπιλεγμένηLeftTopToLeftTopχρησιμοποιείται.
+title: "Image.Resize"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Image method. Αλλάζει το μέγεθος της εικόνας"
 type: docs
-weight: 190
+weight: 200
 url: /el/net/aspose.psd/image/resize/
 ---
-## Resize(int, int) {#resize}
-
-Αλλάζει το μέγεθος της εικόνας. Η προεπιλεγμένηLeftTopToLeftTopχρησιμοποιείται.
-
-```csharp
-public void Resize(int newWidth, int newHeight)
-```
-
-| Παράμετρος | Τύπος | Περιγραφή |
-| --- | --- | --- |
-| newWidth | Int32 | Το νέο πλάτος. |
-| newHeight | Int32 | Το νέο ύψος. |
-
-### Παραδείγματα
-
-Το παρακάτω παράδειγμα δείχνει πώς να αλλάξετε το μέγεθος της εικόνας PSD και το αποτέλεσμα που λαμβάνουμε από το Aspose.PSD
-
-```csharp
-[C#]
-
-string sourceFileName = "1.psd";
-string exportPathPsd = "ResizeTest.psd";
-string exportPathPng = "ResizeTest.png";
-
-using (RasterImage image = Image.Load(sourceFileName) as RasterImage)
-{
-    image.Resize(190, 143);
-    image.Save(exportPathPsd, new PsdOptions());
-    image.Save(exportPathPng, new PngOptions() { ColorType = PngColorType.TruecolorWithAlpha });
-}
-```
-
-### Δείτε επίσης
-
-* class [Image](../)
-* χώρος ονομάτων [Aspose.PSD](../../image/)
-* συνέλευση [Aspose.PSD](../../../)
-
----
-
+{{< psd/tize >}}
 ## Resize(int, int, ResizeType) {#resize_2}
 
 Αλλάζει το μέγεθος της εικόνας.
@@ -64,8 +25,48 @@ public abstract void Resize(int newWidth, int newHeight, ResizeType resizeType)
 
 * enum [ResizeType](../../resizetype/)
 * class [Image](../)
-* χώρος ονομάτων [Aspose.PSD](../../image/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
+
+---
+
+## Resize(int, int) {#resize}
+
+Αλλάζει το μέγεθος της εικόνας. Χρησιμοποιείται η προεπιλεγμένη μέθοδος NearestNeighbourResample.
+
+```csharp
+public void Resize(int newWidth, int newHeight)
+```
+
+| Παράμετρος | Τύπος | Περιγραφή |
+| --- | --- | --- |
+| newWidth | Int32 | Το νέο πλάτος. |
+| newHeight | Int32 | Το νέο ύψος. |
+
+## Παραδείγματα
+
+Το παρακάτω παράδειγμα δείχνει πώς να αλλάξετε το μέγεθος μιας εικόνας PSD και το αποτέλεσμα που λαμβάνουμε με το Aspose.PSD
+
+```csharp
+[C#]
+
+string sourceFileName = "1.psd";
+string exportPathPsd = "ResizeTest.psd";
+string exportPathPng = "ResizeTest.png";
+
+using (RasterImage image = Image.Load(sourceFileName, new PsdLoadOptions() { LoadEffectsResource = true }) as RasterImage)
+{
+    image.Resize(190, 143);
+    image.Save(exportPathPsd, new PsdOptions());
+    image.Save(exportPathPng, new PngOptions() { ColorType = PngColorType.TruecolorWithAlpha });
+}
+```
+
+### Δείτε επίσης
+
+* class [Image](../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
@@ -81,13 +82,13 @@ public abstract void Resize(int newWidth, int newHeight, ImageResizeSettings set
 | --- | --- | --- |
 | newWidth | Int32 | Το νέο πλάτος. |
 | newHeight | Int32 | Το νέο ύψος. |
-| settings | ImageResizeSettings | Οι ρυθμίσεις αλλαγής μεγέθους. |
+| ρυθμίσεις | ImageResizeSettings | Οι ρυθμίσεις αλλαγής μεγέθους. |
 
 ### Δείτε επίσης
 
 * class [ImageResizeSettings](../../imageresizesettings/)
 * class [Image](../)
-* χώρος ονομάτων [Aspose.PSD](../../image/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

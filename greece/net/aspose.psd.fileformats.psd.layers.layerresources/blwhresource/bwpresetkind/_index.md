@@ -1,26 +1,27 @@
 ---
-title: BlwhResource.BwPresetKind
-second_title: Aspose.PSD για Αναφορά API .NET
-description: BlwhResource ιδιοκτησία. Λαμβάνει ή ορίζει την ασπρόμαυρη προκαθορισμένη τιμή είδους.
+title: "BlwhResource.BwPresetKind"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα BlwhResource. Λαμβάνει ή ορίζει την τιμή του προεπιλεγμένου τύπου ασπρόμαυρου."
 type: docs
 weight: 40
 url: /el/net/aspose.psd.fileformats.psd.layers.layerresources/blwhresource/bwpresetkind/
 ---
+{{< psd/tize >}}
 ## BlwhResource.BwPresetKind property
 
-Λαμβάνει ή ορίζει την ασπρόμαυρη προκαθορισμένη τιμή είδους.
+Λαμβάνει ή ορίζει την τιμή του τύπου προεπιλογής μαύρο-άσπρου.
 
 ```csharp
 public int BwPresetKind { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Η ασπρόμαυρη προκαθορισμένη τιμή είδους.
+Η τιμή του τύπου προεπιλογής ασπρόμαυρου.
 
-### Παραδείγματα
+## Παραδείγματα
 
-Το ακόλουθο παράδειγμα δείχνει πώς επεξεργάζεστε ένα BlwhResource.
+Το παρακάτω παράδειγμα δείχνει πώς επεξεργάζεστε ένα BlwhResource.
 
 ```csharp
 [C#]
@@ -126,7 +127,7 @@ AssertIsTrue(isRequiredResourceFound, "The specified BlwhResource not found");
 ### Δείτε επίσης
 
 * class [BlwhResource](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../blwhresource/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

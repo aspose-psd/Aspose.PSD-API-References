@@ -1,14 +1,15 @@
 ---
-title: LevelsLayer.GetChannel
-second_title: Aspose.PSD για Αναφορά API .NET
-description: LevelsLayer μέθοδος. Παίρνει το κανάλι.
+title: "LevelsLayer.GetChannel"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "LevelsLayer μέθοδος. Λαμβάνει το κανάλι"
 type: docs
 weight: 20
 url: /el/net/aspose.psd.fileformats.psd.layers.adjustmentlayers/levelslayer/getchannel/
 ---
+{{< psd/tize >}}
 ## LevelsLayer.GetChannel method
 
-Παίρνει το κανάλι.
+Λαμβάνει το κανάλι.
 
 ```csharp
 public LevelChannel GetChannel(int index)
@@ -16,17 +17,17 @@ public LevelChannel GetChannel(int index)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| index | Int32 | Ο δείκτης. |
+| δείκτης | Int32 | Ο δείκτης. |
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-[`LevelChannel`](../../../aspose.psd.fileformats.psd.layers.layerresources/levelchannel/) κατά ευρετήριο
+[`LevelChannel`](../../../aspose.psd.fileformats.psd.layers.layerresources/levelchannel/) by index
 
 ### Δείτε επίσης
 
 * class [LevelChannel](../../../aspose.psd.fileformats.psd.layers.layerresources/levelchannel/)
 * class [LevelsLayer](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../levelslayer/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/)
+* assembly [Aspose.PSD](../../../)
 
 

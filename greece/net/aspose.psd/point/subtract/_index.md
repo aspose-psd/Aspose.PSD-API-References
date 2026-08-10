@@ -1,14 +1,15 @@
 ---
-title: Point.Subtract
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Point μέθοδος. Επιστρέφει το καθορισμένο αποτέλεσμα της αφαίρεσηςSize από τα καθορισμέναPoint .
+title: "Point.Subtract"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Μέθοδος Point. Επιστρέφει το αποτέλεσμα της αφαίρεσης του καθορισμένου Size από το καθορισμένο Point"
 type: docs
 weight: 60
 url: /el/net/aspose.psd/point/subtract/
 ---
+{{< psd/tize >}}
 ## Point.Subtract method
 
-Επιστρέφει το καθορισμένο αποτέλεσμα της αφαίρεσης[`Size`](../../size/) από τα καθορισμένα[`Point`](../) .
+Επιστρέφει το αποτέλεσμα της αφαίρεσης του καθορισμένου [`Size`](../../size/) από το καθορισμένο [`Point`](../).
 
 ```csharp
 public static Point Subtract(Point point, Size size)
@@ -16,18 +17,18 @@ public static Point Subtract(Point point, Size size)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| point | Point | ο[`Point`](../) να αφαιρεθεί από. |
-| size | Size | ο[`Size`](../../size/) να αφαιρέσει από το*point*. |
+| point | Point | Το [`Point`](../) από το οποίο θα αφαιρεθεί. |
+| size | Size | Το [`Size`](../../size/) που θα αφαιρεθεί από το *point*. |
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-ο[`Point`](../) που είναι το αποτέλεσμα της αφαίρεσης.
+Το [`Point`](../) που είναι το αποτέλεσμα της λειτουργίας αφαίρεσης.
 
 ### Δείτε επίσης
 
 * struct [Size](../../size/)
 * struct [Point](../)
-* χώρος ονομάτων [Aspose.PSD](../../point/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

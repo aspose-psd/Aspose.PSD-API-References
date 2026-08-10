@@ -1,11 +1,12 @@
 ---
-title: Interface IText
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Aspose.PSD.FileFormats.Psd.Layers.Text.IText διεπαφή. Διεπαφή για επεξεργασία κειμένου για επίπεδα κειμένου
+title: "Διεπαφή IText"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Διεπαφή Aspose.PSD.FileFormats.Psd.Layers.Text.IText. Διεπαφή για επεξεργασία κειμένου σε στρώματα κειμένου"
 type: docs
-weight: 3510
+weight: 3930
 url: /el/net/aspose.psd.fileformats.psd.layers.text/itext/
 ---
+{{< psd/tize >}}
 ## IText interface
 
 Διεπαφή για επεξεργασία κειμένου για επίπεδα κειμένου
@@ -16,7 +17,7 @@ public interface IText
 
 ## Ιδιότητες
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
 | [Items](../../aspose.psd.fileformats.psd.layers.text/itext/items/) { get; } | Λαμβάνει τα στοιχεία. |
 | [Text](../../aspose.psd.fileformats.psd.layers.text/itext/text/) { get; } | Λαμβάνει το κείμενο. |
@@ -24,18 +25,18 @@ public interface IText
 
 ## Μέθοδοι
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
-| [AddPortion](../../aspose.psd.fileformats.psd.layers.text/itext/addportion/)(ITextPortion) | Προσθέτει το τμήμα του κειμένου στο τέλος |
-| [InsertPortion](../../aspose.psd.fileformats.psd.layers.text/itext/insertportion/)(ITextPortion, int) | Εισάγει το[`ITextPortion`](../itextportion/) στην καθορισμένη θέση |
+| [AddPortion](../../aspose.psd.fileformats.psd.layers.text/itext/addportion/)(ITextPortion) | Προσθέτει το τμήμα κειμένου στο τέλος |
+| [InsertPortion](../../aspose.psd.fileformats.psd.layers.text/itext/insertportion/)(ITextPortion, int) | Εισάγει το [`ITextPortion`](../itextportion/) στην καθορισμένη θέση |
 | [ProducePortion](../../aspose.psd.fileformats.psd.layers.text/itext/produceportion/)() | Παράγει το νέο τμήμα με προεπιλεγμένες παραμέτρους |
-| [ProducePortions](../../aspose.psd.fileformats.psd.layers.text/itext/produceportions/)(string[], ITextStyle, ITextParagraph) | Παράγει τα νέα τμήματα με εισόδου ή προεπιλεγμένες παραμέτρους. |
-| [RemovePortion](../../aspose.psd.fileformats.psd.layers.text/itext/removeportion/)(int) | Αφαιρεί το τμήμα στο καθορισμένο index |
+| [ProducePortions](../../aspose.psd.fileformats.psd.layers.text/itext/produceportions/)(string[], ITextStyle, ITextParagraph) | Παράγει τα νέα τμήματα με είσοδο ή προεπιλεγμένες παραμέτρους. |
+| [RemovePortion](../../aspose.psd.fileformats.psd.layers.text/itext/removeportion/)(int) | Αφαιρεί το τμήμα στο καθορισμένο δείκτη |
 | [UpdateLayerData](../../aspose.psd.fileformats.psd.layers.text/itext/updatelayerdata/)() | Ενημερώνει τα δεδομένα του επιπέδου. |
 
-### Παραδείγματα
+## Παραδείγματα
 
-Το ακόλουθο παράδειγμα κώδικα δείχνει τα τμήματα κειμένου επεξεργασίας και το στυλ κειμένου τους.
+Το παρακάτω παράδειγμα κώδικα δείχνει την επεξεργασία τμημάτων κειμένου και του στυλ κειμένου τους.
 
 ```csharp
 [C#]
@@ -68,7 +69,7 @@ using (var im = (PsdImage)Image.Load(filePath))
             }
 
             // Έλεγχος δεδομένων παραγράφων
-            // Οι παράγραφοι έχουν διαφορετική αιτιολόγηση
+            // Οι παράγραφοι έχουν διαφορετική στοίχιση
             if (
                 (int)portions[0].Paragraph.Justification != 0 ||
                 (int)portions[1].Paragraph.Justification != 0 ||
@@ -102,7 +103,7 @@ using (var im = (PsdImage)Image.Load(filePath))
                     Math.Abs(paragraph.LetterSpacing[0]) > Tolerance ||
                     Math.Abs(paragraph.LetterSpacing[1]) > Tolerance ||
                     Math.Abs(paragraph.LetterSpacing[2]) > Tolerance ||
-                    paragraph.LeadingType != LeadingMode.Auto ||
+                    paragraph.LeadingType != LeadingType.BottomToBottom ||
                     paragraph.PreHyphen != 2 ||
                     paragraph.PostHyphen != 2 ||
                     Math.Abs(paragraph.SpaceBefore) > Tolerance ||
@@ -166,12 +167,12 @@ using (var im = (PsdImage)Image.Load(filePath))
             portions = layer.TextData.Items;
 
             // Παράδειγμα επεξεργασίας παραγράφου και στυλ για τμήματα
-            // Ορισμός σωστής αιτιολόγησης
+            // Ορισμός δεξιάς στοίχισης
             portions[0].Paragraph.Justification = JustificationMode.Right;
             portions[1].Paragraph.Justification = JustificationMode.Right;
             portions[2].Paragraph.Justification = JustificationMode.Right;
 
-            // Διαφορετικά χρώματα για κάθε στυλ. Θα αλλάξει, αλλά η απόδοση δεν υποστηρίζεται πλήρως
+            // Διαφορετικά χρώματα για κάθε στυλ. Θα αλλάξουν, αλλά η απόδοση δεν υποστηρίζεται πλήρως
             portions[0].Style.FillColor = Color.Aquamarine;
             portions[1].Style.FillColor = Color.Violet;
             portions[2].Style.FillColor = Color.LightBlue;
@@ -193,7 +194,7 @@ using (var im = (PsdImage)Image.Load(filePath))
 
 ### Δείτε επίσης
 
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.Text](../../aspose.psd.fileformats.psd.layers.text/)
-* συνέλευση [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.Text](../../aspose.psd.fileformats.psd.layers.text/)
+* assembly [Aspose.PSD](../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: RectangleF.Right
-second_title: Aspose.PSD για Αναφορά API .NET
-description: RectangleF ιδιοκτησία. Παίρνει ή ορίζει τη συντεταγμένη x που είναι το άθροισμα τουX καιWidth από αυτόRectangleFδομή.
+title: "RectangleF.Right"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "RectangleF ιδιότητα. Λαμβάνει ή ορίζει τη συντεταγμένη x που είναι το άθροισμα των X και Width αυτής της δομής RectangleF"
 type: docs
 weight: 130
 url: /el/net/aspose.psd/rectanglef/right/
 ---
+{{< psd/tize >}}
 ## RectangleF.Right property
 
-Παίρνει ή ορίζει τη συντεταγμένη x που είναι το άθροισμα του[`X`](../x/) και[`Width`](../width/) από αυτό[`RectangleF`](../)δομή.
+Λαμβάνει ή ορίζει τη συντεταγμένη x που είναι το άθροισμα των [`X`](../x/) και [`Width`](../width/) αυτής της δομής [`RectangleF`](../).
 
 ```csharp
 public float Right { get; set; }
 ```
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-Η συντεταγμένη x που είναι το άθροισμα του[`X`](../x/) και[`Width`](../width/) από αυτό[`RectangleF`](../) δομή.
+Η συντεταγμένη x που είναι το άθροισμα των [`X`](../x/) και [`Width`](../width/) αυτής της δομής [`RectangleF`](../).
 
 ### Δείτε επίσης
 
 * struct [RectangleF](../)
-* χώρος ονομάτων [Aspose.PSD](../../rectanglef/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

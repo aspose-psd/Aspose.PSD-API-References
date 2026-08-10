@@ -1,27 +1,28 @@
 ---
-title: ImageResizeSettings.EntriesCount
-second_title: Aspose.PSD για Αναφορά API .NET
-description: ImageResizeSettings ιδιοκτησία. Λαμβάνει ή ορίζει τις καταχωρήσεις count
+title: "ImageResizeSettings.EntriesCount"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα ImageResizeSettings. Λαμβάνει ή ορίζει τον αριθμό καταχωρήσεων"
 type: docs
 weight: 40
 url: /el/net/aspose.psd/imageresizesettings/entriescount/
 ---
+{{< psd/tize >}}
 ## ImageResizeSettings.EntriesCount property
 
-Λαμβάνει ή ορίζει τις καταχωρήσεις count
+Λαμβάνει ή ορίζει τον αριθμό των καταχωρήσεων
 
 ```csharp
 public int EntriesCount { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Οι καταχωρήσεις count
+Ο αριθμός καταχωρήσεων
 
 ### Δείτε επίσης
 
 * class [ImageResizeSettings](../)
-* χώρος ονομάτων [Aspose.PSD](../../imageresizesettings/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

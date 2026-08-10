@@ -1,34 +1,35 @@
 ---
-title: Pen.Transform
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Pen ιδιοκτησία. Λαμβάνει ή ορίζει ένα αντίγραφο του γεωμετρικού μετασχηματισμού για αυτόPen .
+title: "Pen.Transform"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα Pen. Λαμβάνει ή ορίζει ένα αντίγραφο του γεωμετρικού μετασχηματισμού για αυτό το Pen."
 type: docs
 weight: 170
 url: /el/net/aspose.psd/pen/transform/
 ---
+{{< psd/tize >}}
 ## Pen.Transform property
 
-Λαμβάνει ή ορίζει ένα αντίγραφο του γεωμετρικού μετασχηματισμού για αυτό[`Pen`](../) .
+Λαμβάνει ή ορίζει ένα αντίγραφο του γεωμετρικού μετασχηματισμού για αυτό το [`Pen`](../).
 
 ```csharp
 public Matrix Transform { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Ένα αντίγραφο του[`Matrix`](../../matrix/) που αντιπροσωπεύει τον γεωμετρικό μετασχηματισμό για αυτό[`Pen`](../).
+Ένα αντίγραφο του [`Matrix`](../../matrix/) που αντιπροσωπεύει τον γεωμετρικό μετασχηματισμό για αυτό το [`Pen`](../).
 
 ### Εξαιρέσεις
 
-| εξαίρεση | κατάσταση |
+| εξαίρεση | συνθήκη |
 | --- | --- |
-| ArgumentException | ο`Transform` η ιδιοκτησία έχει οριστεί σε αμετάβλητο[`Pen`](../) , όπως αυτά που επιστράφηκαν από το[`Pen`](../) τάξη. |
+| ArgumentException | Η ιδιότητα `Transform` ορίζεται σε ένα αμετάβλητο [`Pen`](../), όπως αυτά που επιστρέφονται από την κλάση [`Pen`](../). |
 
 ### Δείτε επίσης
 
 * class [Matrix](../../matrix/)
 * class [Pen](../)
-* χώρος ονομάτων [Aspose.PSD](../../pen/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

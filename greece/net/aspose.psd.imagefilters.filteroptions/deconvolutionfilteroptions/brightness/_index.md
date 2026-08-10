@@ -1,27 +1,28 @@
 ---
-title: DeconvolutionFilterOptions.Brightness
-second_title: Aspose.PSD για Αναφορά API .NET
-description: DeconvolutionFilterOptions ιδιοκτησία. Λαμβάνει ή ρυθμίζει τη φωτεινότητα. προτεινόμενο εύρος 1  15 προεπιλεγμένη τιμή  115
+title: "DeconvolutionFilterOptions.Brightness"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "DeconvolutionFilterOptions ιδιότητα. Λαμβάνει ή ορίζει τη φωτεινότητα. προτεινόμενη περιοχή 1  1.5 προεπιλεγμένη τιμή  1.15"
 type: docs
 weight: 10
 url: /el/net/aspose.psd.imagefilters.filteroptions/deconvolutionfilteroptions/brightness/
 ---
+{{< psd/tize >}}
 ## DeconvolutionFilterOptions.Brightness property
 
-Λαμβάνει ή ρυθμίζει τη φωτεινότητα. προτεινόμενο εύρος 1 - 1,5 προεπιλεγμένη τιμή = 1,15
+Λαμβάνει ή ορίζει τη φωτεινότητα. Προτεινόμενη περιοχή 1 - 1,5 προεπιλεγμένη τιμή = 1,15
 
 ```csharp
 public double Brightness { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
 Η φωτεινότητα.
 
 ### Δείτε επίσης
 
 * class [DeconvolutionFilterOptions](../)
-* χώρος ονομάτων [Aspose.PSD.ImageFilters.FilterOptions](../../deconvolutionfilteroptions/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageFilters.FilterOptions](../../../aspose.psd.imagefilters.filteroptions/)
+* assembly [Aspose.PSD](../../../)
 
 

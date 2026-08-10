@@ -1,11 +1,12 @@
 ---
-title: Txt2Resource.AddTextRecord
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Txt2Resource μέθοδος. Προσθέτει την εγγραφή κειμένου στο Resource και επιστρέφει το αναγνωριστικό της εγγραφής κειμένου.
+title: "Txt2Resource.AddTextRecord"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Μέθοδος Txt2Resource. Προσθέτει την εγγραφή κειμένου στο Resource και επιστρέφει το Id της εγγραφής κειμένου."
 type: docs
-weight: 70
+weight: 40
 url: /el/net/aspose.psd.fileformats.psd.layers.layerresources/txt2resource/addtextrecord/
 ---
+{{< psd/tize >}}
 ## Txt2Resource.AddTextRecord method
 
 Προσθέτει την εγγραφή κειμένου στο Resource και επιστρέφει το αναγνωριστικό της εγγραφής κειμένου.
@@ -16,22 +17,22 @@ public int AddTextRecord(string text, RectangleF bounds)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| text | String | Το κείμενο της εγγραφής. |
-| bounds | RectangleF | Τα όρια. |
+| κείμενο | String | Το κείμενο της εγγραφής. |
+| όρια | RectangleF | Τα όρια. |
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-Επιστρέφει αναγνωριστικό εγγραφής κειμένου για resource
+Επιστρέφει το Id της εγγραφής κειμένου για το resource.
 
 ### Εξαιρέσεις
 
-| εξαίρεση | κατάσταση |
+| εξαίρεση | συνθήκη |
 | --- | --- |
-| [PsdImageException](../../../aspose.psd.coreexceptions.imageformats/psdimageexception/) | Άγνωστη έκδοση πόρου Txt2. |
+| [PsdImageException](../../../aspose.psd.coreexceptions.imageformats/psdimageexception/) | Άγνωστη έκδοση Txt2 Resource. |
 
-### Παραδείγματα
+## Παραδείγματα
 
-Ο παρακάτω κώδικας δείχνει την υποστήριξη της υποστήριξης νέων ιδιοτήτων ITextStyle.
+Ο παρακάτω κώδικας δείχνει την υποστήριξη των νέων ιδιοτήτων ITextStyle.
 
 ```csharp
 [C#]
@@ -87,7 +88,7 @@ using (var srcImage = (PsdImage)Image.Load(srcFile))
 
 * struct [RectangleF](../../../aspose.psd/rectanglef/)
 * class [Txt2Resource](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../txt2resource/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: Class ClassID
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.ClassID τάξη. Το αντικείμενο PSD Class ID.
+title: "Κλάση ClassID"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Aspose.PSD.FileFormats.Psd.Layers.LayerResources.ClassID κλάση. Το αντικείμενο PSD Class ID"
 type: docs
-weight: 2360
+weight: 2620
 url: /el/net/aspose.psd.fileformats.psd.layers.layerresources/classid/
 ---
+{{< psd/tize >}}
 ## ClassID class
 
 Το αντικείμενο PSD Class ID.
@@ -16,32 +17,32 @@ public class ClassID
 
 ## Κατασκευαστές
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
-| [ClassID](classid/#constructor)(byte[]) | Αρχικοποιεί μια νέα παρουσία του`ClassID` τάξη. |
-| [ClassID](classid/#constructor_2)(int) | Αρχικοποιεί μια νέα παρουσία του`ClassID` τάξη. |
-| [ClassID](classid/#constructor_3)(string) | Αρχικοποιεί μια νέα παρουσία του`ClassID` τάξη. |
-| [ClassID](classid/#constructor_5)(uint) | Αρχικοποιεί μια νέα παρουσία του`ClassID` τάξη. |
-| [ClassID](classid/#constructor_1)(byte[], bool) | Αρχικοποιεί μια νέα παρουσία του`ClassID` τάξη. |
-| [ClassID](classid/#constructor_4)(string, bool) | Αρχικοποιεί μια νέα παρουσία του`ClassID` τάξη. |
+| [ClassID](classid/#constructor)(byte[]) | Αρχικοποιεί μια νέα παρουσία της κλάσης `ClassID`. |
+| [ClassID](classid/#constructor_2)(int) | Αρχικοποιεί μια νέα παρουσία της κλάσης `ClassID`. |
+| [ClassID](classid/#constructor_3)(string) | Αρχικοποιεί μια νέα παρουσία της κλάσης `ClassID`. |
+| [ClassID](classid/#constructor_5)(uint) | Αρχικοποιεί μια νέα παρουσία της κλάσης `ClassID`. |
+| [ClassID](classid/#constructor_1)(byte[], bool) | Αρχικοποιεί μια νέα παρουσία της κλάσης `ClassID`. |
+| [ClassID](classid/#constructor_4)(string, bool) | Αρχικοποιεί μια νέα παρουσία της κλάσης `ClassID`. |
 
 ## Ιδιότητες
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
 | [Bytes](../../aspose.psd.fileformats.psd.layers.layerresources/classid/bytes/) { get; } | Λαμβάνει τα byte που αντιπροσωπεύουν το αναγνωριστικό κλάσης. |
 | [ClassName](../../aspose.psd.fileformats.psd.layers.layerresources/classid/classname/) { get; } | Λαμβάνει το όνομα της κλάσης ως κωδικοποίηση ASCII. |
-| [Length](../../aspose.psd.fileformats.psd.layers.layerresources/classid/length/) { get; } | Λαμβάνει το μήκος αναγνωριστικού κλάσης σε byte. |
+| [Length](../../aspose.psd.fileformats.psd.layers.layerresources/classid/length/) { get; } | Λαμβάνει το μήκος του αναγνωριστικού της κλάσης σε byte. |
 
 ## Μέθοδοι
 
-| Ονομα | Περιγραφή |
+| Όνομα | Περιγραφή |
 | --- | --- |
-| [Save](../../aspose.psd.fileformats.psd.layers.layerresources/classid/save/)(StreamContainer) | Αποθηκεύει τις πληροφορίες της τάξης στο καθορισμένο κοντέινερ ροής. |
+| [Save](../../aspose.psd.fileformats.psd.layers.layerresources/classid/save/)(StreamContainer) | Αποθηκεύει τις πληροφορίες της κλάσης στο καθορισμένο κοντέινερ ροής. |
 
 ### Δείτε επίσης
 
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
-* συνέλευση [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../)
 
 

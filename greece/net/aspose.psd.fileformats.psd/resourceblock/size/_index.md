@@ -1,27 +1,28 @@
 ---
-title: ResourceBlock.Size
-second_title: Aspose.PSD για Αναφορά API .NET
-description: ResourceBlock ιδιοκτησία. Λαμβάνει το μέγεθος του μπλοκ πόρων σε byte συμπεριλαμβανομένων των δεδομένων του.
+title: "ResourceBlock.Size"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα ResourceBlock. Λαμβάνει το μέγεθος του μπλοκ πόρου σε byte, συμπεριλαμβανομένων των δεδομένων του"
 type: docs
 weight: 60
 url: /el/net/aspose.psd.fileformats.psd/resourceblock/size/
 ---
+{{< psd/tize >}}
 ## ResourceBlock.Size property
 
-Λαμβάνει το μέγεθος του μπλοκ πόρων σε byte συμπεριλαμβανομένων των δεδομένων του.
+Λαμβάνει το μέγεθος του μπλοκ πόρου σε byte, συμπεριλαμβανομένων των δεδομένων του.
 
 ```csharp
 public int Size { get; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Το μέγεθος του μπλοκ πόρων.
+Το μέγεθος του μπλοκ πόρου.
 
 ### Δείτε επίσης
 
 * class [ResourceBlock](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd](../../resourceblock/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: TimeLine.ApplyTo
-second_title: Aspose.PSD για Αναφορά API .NET
-description: TimeLine μέθοδος. Εφαρμόστε τις τρέχουσες τιμές γραμμής χρόνου στην είσοδοPsdImage .
+title: "TimeLine.ApplyTo"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "TimeLine method. Εφαρμόζει τις τρέχουσες τιμές της χρονογραμμής στο εισερχόμενο PsdImage"
 type: docs
 weight: 90
 url: /el/net/aspose.psd.fileformats.psd.layers.animation/timeline/applyto/
 ---
+{{< psd/tize >}}
 ## TimeLine.ApplyTo method
 
-Εφαρμόστε τις τρέχουσες τιμές γραμμής χρόνου στην είσοδο[`PsdImage`](../../../aspose.psd.fileformats.psd/psdimage/) .
+Εφαρμόζει τις τρέχουσες τιμές της χρονογραμμής στο εισερχόμενο [`PsdImage`](../../../aspose.psd.fileformats.psd/psdimage/).
 
 ```csharp
 public void ApplyTo(PsdImage psdImage)
@@ -18,9 +19,9 @@ public void ApplyTo(PsdImage psdImage)
 | --- | --- | --- |
 | psdImage | PsdImage | Η εικόνα psd. |
 
-### Παραδείγματα
+## Παραδείγματα
 
-Η κλάση TimeLine παρέχει μια υψηλού επιπέδου ικανότητα χειρισμού της γραμμής χρόνου του PsdImage, όπως η αλλαγή της καθυστέρησης καρέ ή η επεξεργασία της κατάστασης του επιπέδου σε ένα συγκεκριμένο πλαίσιο.
+Η κλάση TimeLine παρέχει μια υψηλού επιπέδου δυνατότητα για τη διαχείριση της χρονογραμμής του PsdImage, όπως η αλλαγή της καθυστέρησης του καρέ ή η επεξεργασία της κατάστασης του επιπέδου σε ένα συγκεκριμένο καρέ.
 
 ```csharp
 [C#]
@@ -32,17 +33,17 @@ using (PsdImage psdImage = (PsdImage)Image.Load(sourceFile))
 {
     TimeLine timeLine = TimeLine.InitializeFrom(psdImage);
 
-    // Αλλαγή της μεθόδου διάθεσης του πλαισίου 1
+    // Αλλαγή μεθόδου αποδέσμευσης του πλαισίου 1
     timeLine.Frames[0].DisposalMethod = FrameDisposalMethod.DoNotDispose;
 
-    // Αλλαγή καθυστέρησης καρέ 2
+    // Αλλαγή καθυστέρησης του πλαισίου 2
     timeLine.Frames[1].Delay = 15;
 
-    // Αλλαγή της αδιαφάνειας του 'Layer 1' στο πλαίσιο 2
+    // Αλλαγή αδιαφάνειας του 'Layer 1' στο πλαίσιο 2
     LayerState layerState11 = timeLine.Frames[1].LayerStates[timeLine.LayerIds[1]];
     layerState11.Opacity = 50;
 
-    // μετακινήστε το 'Layer 1' στην κάτω αριστερή γωνία στο πλαίσιο 3
+    // μετακίνηση του 'Layer 1' στην αριστερή-κάτω γωνία στο πλαίσιο 3
     LayerState layerState21 = timeLine.Frames[2].LayerStates[timeLine.LayerIds[1]];
     layerState21.PositionOffset = new Point(-50, 230);
 
@@ -51,11 +52,11 @@ using (PsdImage psdImage = (PsdImage)Image.Load(sourceFile))
     frames.Add(new Frame(timeLine));
     timeLine.Frames = frames.ToArray();
 
-    // Αλλαγή blendMode του 'Layer 1' στο πλαίσιο 4
+    // Αλλάξτε το blendMode του 'Layer 1' στο καρέ 4
     LayerState layerState31 = timeLine.Frames[3].LayerStates[timeLine.LayerIds[1]];
     layerState31.BlendMode = BlendMode.Dissolve;
 
-    // Εφαρμογή αλλαγών πίσω στην παρουσία PsdImage
+    // Εφαρμόστε τις αλλαγές πίσω στο αντικείμενο PsdImage
     timeLine.ApplyTo(psdImage);
     psdImage.Save(outputPsd);
 }
@@ -65,7 +66,7 @@ using (PsdImage psdImage = (PsdImage)Image.Load(sourceFile))
 
 * class [PsdImage](../../../aspose.psd.fileformats.psd/psdimage/)
 * class [TimeLine](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.Animation](../../timeline/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.Animation](../../timeline/)
+* assembly [Aspose.PSD](../../../)
 
 

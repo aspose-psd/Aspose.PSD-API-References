@@ -1,26 +1,27 @@
 ---
-title: PlacedResource.TotalPages
-second_title: Aspose.PSD για Αναφορά API .NET
-description: PlacedResource ιδιοκτησία. Λαμβάνει ή ορίζει τις συνολικές σελίδες του τοποθετημένου επιπέδου στο αρχείο PSD.
+title: "PlacedResource.TotalPages"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα PlacedResource. Λαμβάνει ή ορίζει τις συνολικές σελίδες του τοποθετημένου στρώματος στο αρχείο PSD"
 type: docs
-weight: 160
+weight: 150
 url: /el/net/aspose.psd.fileformats.psd.layers.layerresources/placedresource/totalpages/
 ---
+{{< psd/tize >}}
 ## PlacedResource.TotalPages property
 
-Λαμβάνει ή ορίζει τις συνολικές σελίδες του τοποθετημένου επιπέδου στο αρχείο PSD.
+Ανακτά ή ορίζει τις συνολικές σελίδες του τοποθετημένου στρώματος στο αρχείο PSD.
 
 ```csharp
 public virtual int TotalPages { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Οι συνολικές σελίδες του τοποθετημένου επιπέδου.
+Οι συνολικές σελίδες του τοποθετημένου στρώματος.
 
-### Παραδείγματα
+## Παραδείγματα
 
-Ο ακόλουθος κώδικας δείχνει την υποστήριξη του πόρου PlLdResource.
+Ο παρακάτω κώδικας δείχνει την υποστήριξη του πόρου PlLdResource.
 
 ```csharp
 [C#]
@@ -202,16 +203,16 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
                 resource.Bottom = 248;
                 resource.Right = 145;
 
-                // Να είστε προσεκτικοί με ορισμένες παραμέτρους: η εικόνα ενδέχεται να μην είναι αναγνώσιμη από το Adobe® Photoshop®
+                // Να είστε προσεκτικοί με ορισμένες παραμέτρους: η εικόνα μπορεί να γίνει μη αναγνώσιμη από το Adobe® Photoshop®
                 ////resource.UOrder = 6;
                 ////resource.VOrder = 9;
 
-                // Μην το αλλάξετε αυτό, διαφορετικά δεν θα μπορείτε να χρησιμοποιήσετε τον ελεύθερο μετασχηματισμό
-                // ή αλλάξτε το έξυπνο αντικείμενο υπογράμμισης σε διανυσματικό τύπο
+                // Μην το αλλάξετε, διαφορετικά δεν θα μπορείτε να χρησιμοποιήσετε το free transform
+                // ή αλλάξτε το υποκείμενο έξυπνο αντικείμενο σε τύπο vector
                 ////resource.PlacedLayerType = PlacedLayerType.Vector;
 
-                // Θα πρέπει να υπάρχει έγκυρος PlLdResource με αυτό το μοναδικό αναγνωριστικό
-                ////resource.UniqueId = νέος οδηγός("98765432-10fe-cba0-1234-56789abcdef0");
+                // Θα πρέπει να υπάρχει έγκυρο PlLdResource με αυτό το μοναδικό Id
+                ////resource.UniqueId = new Guid("98765432-10fe-cba0-1234-56789abcdef0");
 
                 break;
             }
@@ -228,7 +229,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
 ```csharp
 [C#]
 
-// Αυτό το παράδειγμα δείχνει πώς να λάβετε ή να ορίσετε τις ιδιότητες δεδομένων επιπέδου έξυπνου αντικειμένου του αρχείου PSD.
+// Αυτό το παράδειγμα δείχνει πώς να ανακτήσετε ή να ορίσετε τις ιδιότητες των δεδομένων επιπέδου έξυπνου αντικειμένου του αρχείου PSD.
 
 void AssertAreEqual(object actual, object expected)
 {
@@ -462,8 +463,8 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
                     resource.HorizontalMeshPoints = temp;
                 }
 
-                // Αυτές οι τιμές πρέπει να αλλάξουν και στο PlLdResource (με το καθορισμένο UniqueId)
-                // και μερικά από αυτά πρέπει να είναι σε συμφωνία με το υπογραμμιζόμενο έξυπνο αντικείμενο στο LinkDataSource
+                // Αυτές οι τιμές πρέπει επίσης να αλλάξουν στο PlLdResource (με το καθορισμένο UniqueId)
+                // και μερικές από αυτές πρέπει να είναι σύμφωνες με το υποκείμενο έξυπνο αντικείμενο στο LinkDataSource
                 resource.PageNumber = 2;
                 resource.TotalPages = 3;
                 resource.AntiAliasPolicy = 0;
@@ -508,19 +509,19 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
                     42
                 };
 
-                // Αυτό το μοναδικό αναγνωριστικό θα πρέπει να αλλάξει σε αναφορές εάν υπάρχουν
+                // Αυτό το μοναδικό Id πρέπει να αλλάξει στις αναφορές, εάν υπάρχουν
                 resource.PlacedId = new Guid("12345678-9abc-def0-9876-54321fecba98");
 
-                // Να είστε προσεκτικοί με ορισμένες παραμέτρους: η εικόνα ενδέχεται να μην είναι αναγνώσιμη από το Adobe® Photoshop®
+                // Να είστε προσεκτικοί με ορισμένες παραμέτρους: η εικόνα μπορεί να γίνει μη αναγνώσιμη από το Adobe® Photoshop®
                 ////resource.UOrder = 6;
                 ////resource.VOrder = 9;
 
-                // Μην το αλλάξετε αυτό, διαφορετικά δεν θα μπορείτε να χρησιμοποιήσετε τον ελεύθερο μετασχηματισμό
-                // ή αλλάξτε το έξυπνο αντικείμενο υπογράμμισης σε διανυσματικό τύπο
+                // Μην το αλλάξετε, διαφορετικά δεν θα μπορείτε να χρησιμοποιήσετε το free transform
+                // ή αλλάξτε το υποκείμενο έξυπνο αντικείμενο σε τύπο vector
                 ////resource.PlacedLayerType = PlacedLayerType.Vector;
 
-                // Θα πρέπει να υπάρχει έγκυρος PlLdResource με αυτό το μοναδικό αναγνωριστικό
-                ////resource.UniqueId = νέος οδηγός("98765432-10fe-cba0-1234-56789abcdef0");
+                // Θα πρέπει να υπάρχει έγκυρο PlLdResource με αυτό το μοναδικό Id
+                ////resource.UniqueId = new Guid("98765432-10fe-cba0-1234-56789abcdef0");
 
                 break;
             }
@@ -535,7 +536,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
 ### Δείτε επίσης
 
 * class [PlacedResource](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../placedresource/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

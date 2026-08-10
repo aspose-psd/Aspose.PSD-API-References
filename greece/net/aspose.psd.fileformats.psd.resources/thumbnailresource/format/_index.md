@@ -1,11 +1,12 @@
 ---
-title: ThumbnailResource.Format
-second_title: Aspose.PSD για Αναφορά API .NET
-description: ThumbnailResource ιδιοκτησία. Λαμβάνει ή ορίζει τη μορφή δεδομένων μικρογραφίας.
+title: "ThumbnailResource.Format"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "ThumbnailResource ιδιότητα. Λαμβάνει ή ορίζει τη μορφή δεδομένων της μικρογραφίας"
 type: docs
 weight: 40
 url: /el/net/aspose.psd.fileformats.psd.resources/thumbnailresource/format/
 ---
+{{< psd/tize >}}
 ## ThumbnailResource.Format property
 
 Λαμβάνει ή ορίζει τη μορφή δεδομένων μικρογραφίας.
@@ -14,15 +15,15 @@ url: /el/net/aspose.psd.fileformats.psd.resources/thumbnailresource/format/
 public ThumbnailFormat Format { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Η μορφή δεδομένων μικρογραφίας.
+Η μορφή δεδομένων της μικρογραφίας.
 
 ### Δείτε επίσης
 
 * enum [ThumbnailFormat](../../thumbnailformat/)
 * class [ThumbnailResource](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Resources](../../thumbnailresource/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

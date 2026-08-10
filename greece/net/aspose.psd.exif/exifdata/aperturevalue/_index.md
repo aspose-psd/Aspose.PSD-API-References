@@ -1,11 +1,12 @@
 ---
-title: ExifData.ApertureValue
-second_title: Aspose.PSD για Αναφορά API .NET
-description: ExifData ιδιοκτησία. Λαμβάνει ή ορίζει την τιμή του διαφράγματος.
+title: "ExifData.ApertureValue"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα ExifData. Λαμβάνει ή ορίζει την τιμή διαφράγματος"
 type: docs
 weight: 20
 url: /el/net/aspose.psd.exif/exifdata/aperturevalue/
 ---
+{{< psd/tize >}}
 ## ExifData.ApertureValue property
 
 Λαμβάνει ή ορίζει την τιμή του διαφράγματος.
@@ -14,15 +15,15 @@ url: /el/net/aspose.psd.exif/exifdata/aperturevalue/
 public TiffRational ApertureValue { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Η τιμή του διαφράγματος.
+Η τιμή διαφράγματος.
 
 ### Δείτε επίσης
 
 * class [TiffRational](../../../aspose.psd.fileformats.tiff/tiffrational/)
 * class [ExifData](../)
-* χώρος ονομάτων [Aspose.PSD.Exif](../../exifdata/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

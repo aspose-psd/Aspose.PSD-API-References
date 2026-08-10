@@ -1,14 +1,15 @@
 ---
-title: Namespaces.XmpRights
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Namespaces πεδίο. Χώρος ονομάτων διαχείρισης δικαιωμάτων XMP.
+title: "Namespaces.XmpRights"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Πεδίο Namespaces. Χώρος ονομάτων XMP Rights Management"
 type: docs
 weight: 110
 url: /el/net/aspose.psd.xmp/namespaces/xmprights/
 ---
+{{< psd/tize >}}
 ## Namespaces.XmpRights field
 
-Χώρος ονομάτων διαχείρισης δικαιωμάτων XMP.
+Χώρος ονομάτων XMP Rights Management.
 
 ```csharp
 public const string XmpRights;
@@ -17,7 +18,7 @@ public const string XmpRights;
 ### Δείτε επίσης
 
 * class [Namespaces](../)
-* χώρος ονομάτων [Aspose.PSD.Xmp](../../namespaces/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

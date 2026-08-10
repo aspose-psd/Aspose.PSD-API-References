@@ -1,29 +1,30 @@
 ---
-title: Enum ExifYCbCrPositioning
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Aspose.PSD.Exif.Enums.ExifYCbCrPositioning αρίθμηση. exif y cb cr αριθμός θέσης.
+title: "Απαρίθμηση ExifYCbCrPositioning"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Aspose.PSD.Exif.Enums.ExifYCbCrPositioning απαρίθμηση. exif y cb cr positioning απαρίθμηση"
 type: docs
-weight: 980
+weight: 990
 url: /el/net/aspose.psd.exif.enums/exifycbcrpositioning/
 ---
+{{< psd/tize >}}
 ## ExifYCbCrPositioning enumeration
 
-exif y cb cr αριθμός θέσης.
+exif θέση Y Cb Cr enum.
 
 ```csharp
 public enum ExifYCbCrPositioning
 ```
 
-### Αξίες
+### Τιμές
 
-| Ονομα | αξία | Περιγραφή |
+| Όνομα | Τιμή | Περιγραφή |
 | --- | --- | --- |
-| Centered | `1` | Κέντρο YCbCr |
-| CoSited | `2` | Συντοποθετημένη θέση |
+| Centered | `1` | Κεντραρισμένο YCbCr |
+| CoSited | `2` | Συνεγγυημένη θέση |
 
 ### Δείτε επίσης
 
-* χώρος ονομάτων [Aspose.PSD.Exif.Enums](../../aspose.psd.exif.enums/)
-* συνέλευση [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Exif.Enums](../../aspose.psd.exif.enums/)
+* assembly [Aspose.PSD](../../)
 
 

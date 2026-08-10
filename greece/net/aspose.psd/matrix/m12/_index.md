@@ -1,14 +1,15 @@
 ---
-title: Matrix.M12
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Matrix ιδιοκτησία. Παίρνει το στοιχείο μήτρας στην πρώτη σειρά δεύτερη στήλη. Αντιπροσωπεύει διάτμηση κατά μήκος του άξονα Y.
+title: "Matrix.M12"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα Matrix. Λαμβάνει το στοιχείο του πίνακα στην πρώτη σειρά, δεύτερη στήλη. Αντιπροσωπεύει παραμόρφωση κατά τον άξονα Y"
 type: docs
 weight: 40
 url: /el/net/aspose.psd/matrix/m12/
 ---
+{{< psd/tize >}}
 ## Matrix.M12 property
 
-Παίρνει το στοιχείο μήτρας στην πρώτη σειρά δεύτερη στήλη. Αντιπροσωπεύει διάτμηση κατά μήκος του άξονα Y.
+Λαμβάνει το στοιχείο της μήτρας στην πρώτη γραμμή, δεύτερη στήλη. Αντιπροσωπεύει στρίψη κατά τον άξονα Y.
 
 ```csharp
 public float M12 { get; }
@@ -17,7 +18,7 @@ public float M12 { get; }
 ### Δείτε επίσης
 
 * class [Matrix](../)
-* χώρος ονομάτων [Aspose.PSD](../../matrix/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

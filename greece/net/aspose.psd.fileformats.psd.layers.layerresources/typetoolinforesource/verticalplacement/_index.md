@@ -1,11 +1,12 @@
 ---
-title: TypeToolInfoResource.VerticalPlacement
-second_title: Aspose.PSD για Αναφορά API .NET
-description: TypeToolInfoResource ιδιοκτησία. Λαμβάνει ή ορίζει την κατακόρυφη τοποθέτηση.
+title: "TypeToolInfoResource.VerticalPlacement"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "TypeToolInfoResource property. Λαμβάνει ή ορίζει την κάθετη τοποθέτηση"
 type: docs
-weight: 260
+weight: 230
 url: /el/net/aspose.psd.fileformats.psd.layers.layerresources/typetoolinforesource/verticalplacement/
 ---
+{{< psd/tize >}}
 ## TypeToolInfoResource.VerticalPlacement property
 
 Λαμβάνει ή ορίζει την κατακόρυφη τοποθέτηση.
@@ -14,14 +15,14 @@ url: /el/net/aspose.psd.fileformats.psd.layers.layerresources/typetoolinforesour
 public int VerticalPlacement { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
 Η κάθετη τοποθέτηση.
 
 ### Δείτε επίσης
 
 * class [TypeToolInfoResource](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../typetoolinforesource/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

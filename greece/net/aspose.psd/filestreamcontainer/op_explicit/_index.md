@@ -1,14 +1,15 @@
 ---
-title: FileStreamContainer.op_Explicit
-second_title: Aspose.PSD για Αναφορά API .NET
-description: FileStreamContainer μέθοδος. Εκτελεί ρητή μετατροπή απόFileStreamContainer προς τηνStream .
+title: "FileStreamContainer.op_Explicit"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Μέθοδος FileStreamContainer. Εκτελεί μια ρητή μετατροπή από FileStreamContainer σε Stream"
 type: docs
 weight: 60
 url: /el/net/aspose.psd/filestreamcontainer/op_explicit/
 ---
+{{< psd/tize >}}
 ## explicit operator {#op_explicit_1}
 
-Εκτελεί ρητή μετατροπή από[`FileStreamContainer`](../) προς τηνStream .
+Εκτελεί μια ρητή μετατροπή από [`FileStreamContainer`](../) σε Stream.
 
 ```csharp
 public static explicit operator Stream(FileStreamContainer fileStreamContainer)
@@ -16,23 +17,23 @@ public static explicit operator Stream(FileStreamContainer fileStreamContainer)
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| fileStreamContainer | FileStreamContainer | Το κοντέινερ ροής αρχείων. |
+| fileStreamContainer | FileStreamContainer | Το δοχείο ροής αρχείου. |
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
 Το αποτέλεσμα της μετατροπής.
 
 ### Δείτε επίσης
 
 * class [FileStreamContainer](../)
-* χώρος ονομάτων [Aspose.PSD](../../filestreamcontainer/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## explicit operator {#op_explicit}
 
-Εκτελεί ρητή μετατροπή από[`FileStreamContainer`](../) προς τηνFileStream .
+Εκτελεί μια ρητή μετατροπή από [`FileStreamContainer`](../) σε FileStream.
 
 ```csharp
 public static explicit operator FileStream(FileStreamContainer fileStreamContainer)
@@ -40,16 +41,16 @@ public static explicit operator FileStream(FileStreamContainer fileStreamContain
 
 | Παράμετρος | Τύπος | Περιγραφή |
 | --- | --- | --- |
-| fileStreamContainer | FileStreamContainer | Το κοντέινερ ροής αρχείων. |
+| fileStreamContainer | FileStreamContainer | Το δοχείο ροής αρχείου. |
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
 Το αποτέλεσμα της μετατροπής.
 
 ### Δείτε επίσης
 
 * class [FileStreamContainer](../)
-* χώρος ονομάτων [Aspose.PSD](../../filestreamcontainer/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

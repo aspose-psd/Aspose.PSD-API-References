@@ -1,26 +1,27 @@
 ---
-title: BlackWhiteAdjustmentLayer.Yellows
-second_title: Aspose.PSD για Αναφορά API .NET
-description: BlackWhiteAdjustmentLayer ιδιοκτησία. Λαμβάνει ή ορίζει την τιμή κίτρινου χρώματος.
+title: "BlackWhiteAdjustmentLayer.Yellows"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα BlackWhiteAdjustmentLayer. Λαμβάνει ή ορίζει την τιμή των κίτρινων."
 type: docs
 weight: 130
 url: /el/net/aspose.psd.fileformats.psd.layers.adjustmentlayers/blackwhiteadjustmentlayer/yellows/
 ---
+{{< psd/tize >}}
 ## BlackWhiteAdjustmentLayer.Yellows property
 
-Λαμβάνει ή ορίζει την τιμή κίτρινου χρώματος.
+Λαμβάνει ή ορίζει την τιμή των κίτρινων.
 
 ```csharp
 public int Yellows { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
 Η τιμή των κίτρινων.
 
-### Παραδείγματα
+## Παραδείγματα
 
-Το ακόλουθο παράδειγμα δείχνει πώς μπορείτε να προσθέσετε το στρώμα προσαρμογής μαύρου λευκού κατά το χρόνο εκτέλεσης στο Aspose.PSD
+Το παρακάτω παράδειγμα δείχνει πώς μπορείτε να προσθέσετε το black white adjustment layer κατά την εκτέλεση στο Aspose.PSD
 
 ```csharp
 [C#]
@@ -42,7 +43,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFileName))
 }
 ```
 
-Το ακόλουθο παράδειγμα δείχνει πώς μπορείτε να χειριστείτε τις ιδιότητες του επιπέδου προσαρμογής μαύρου λευκού στο Aspose.PSD
+Το παρακάτω παράδειγμα δείχνει πώς μπορείτε να διαχειριστείτε τις ιδιότητες του στρώματος ρυθμίσεων ασπρόμαυρου στο Aspose.PSD
 
 ```csharp
 [C#]
@@ -73,7 +74,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFileName))
 ### Δείτε επίσης
 
 * class [BlackWhiteAdjustmentLayer](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../blackwhiteadjustmentlayer/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/)
+* assembly [Aspose.PSD](../../../)
 
 

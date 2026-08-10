@@ -1,11 +1,12 @@
 ---
-title: BlendingOptions.AddGradientOverlay
-second_title: Aspose.PSD για Αναφορά API .NET
-description: BlendingOptions μέθοδος. Προσθέτει την επικάλυψη Gradient.
+title: "BlendingOptions.AddGradientOverlay"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Μέθοδος BlendingOptions. Προσθέτει την επικάλυψη Gradient"
 type: docs
-weight: 40
+weight: 50
 url: /el/net/aspose.psd.fileformats.psd.layers.layereffects/blendingoptions/addgradientoverlay/
 ---
+{{< psd/tize >}}
 ## BlendingOptions.AddGradientOverlay method
 
 Προσθέτει την επικάλυψη Gradient.
@@ -14,15 +15,15 @@ url: /el/net/aspose.psd.fileformats.psd.layers.layereffects/blendingoptions/addg
 public GradientOverlayEffect AddGradientOverlay()
 ```
 
-### Επιστρεφόμενη Αξία
+### Τιμή Επιστροφής
 
-Δημιουργήθηκε[`GradientOverlayEffect`](../../gradientoverlayeffect/) αντικείμενο
+Δημιουργήθηκε αντικείμενο [`GradientOverlayEffect`](../../gradientoverlayeffect/)
 
 ### Δείτε επίσης
 
 * class [GradientOverlayEffect](../../gradientoverlayeffect/)
 * class [BlendingOptions](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../blendingoptions/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../../)
 
 

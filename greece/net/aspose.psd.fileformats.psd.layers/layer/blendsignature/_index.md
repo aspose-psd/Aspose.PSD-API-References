@@ -1,14 +1,15 @@
 ---
-title: Layer.BlendSignature
-second_title: Aspose.PSD για Αναφορά API .NET
-description: Layer πεδίο. Αντιπροσωπεύει την υπογραφή blend mode.
+title: "Layer.BlendSignature"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Πεδίο Layer. Αντιπροσωπεύει την υπογραφή λειτουργίας ανάμειξης"
 type: docs
-weight: 390
+weight: 410
 url: /el/net/aspose.psd.fileformats.psd.layers/layer/blendsignature/
 ---
+{{< psd/tize >}}
 ## Layer.BlendSignature field
 
-Αντιπροσωπεύει την υπογραφή blend mode.
+Αναπαριστά την υπογραφή της λειτουργίας ανάμειξης.
 
 ```csharp
 public const int BlendSignature;
@@ -17,7 +18,7 @@ public const int BlendSignature;
 ### Δείτε επίσης
 
 * class [Layer](../)
-* χώρος ονομάτων [Aspose.PSD.FileFormats.Psd.Layers](../../layer/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

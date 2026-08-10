@@ -1,27 +1,28 @@
 ---
-title: TiffOptions.XPSubject
-second_title: Aspose.PSD για Αναφορά API .NET
-description: TiffOptions ιδιοκτησία. Λαμβάνει ή ορίζει πληροφορίες σχετικά με την εικόνα που χρησιμοποιείται από την Εξερεύνηση των Windows.
+title: "TiffOptions.XPSubject"
+second_title: "Aspose.PSD για .NET API Αναφορά"
+description: "Ιδιότητα TiffOptions. Λαμβάνει ή ορίζει πληροφορίες σχετικά με την εικόνα που χρησιμοποιείται από το Windows Explorer"
 type: docs
-weight: 630
+weight: 640
 url: /el/net/aspose.psd.imageoptions/tiffoptions/xpsubject/
 ---
+{{< psd/tize >}}
 ## TiffOptions.XPSubject property
 
-Λαμβάνει ή ορίζει πληροφορίες σχετικά με την εικόνα που χρησιμοποιείται από την Εξερεύνηση των Windows.
+Λαμβάνει ή ορίζει πληροφορίες σχετικά με την image, η οποία χρησιμοποιείται από το Windows Explorer.
 
 ```csharp
 public string XPSubject { get; set; }
 ```
 
-### Αξία περιουσίας
+### Property Value
 
-Πληροφορίες σχετικά με την εικόνα, που χρησιμοποιούνται από την Εξερεύνηση των Windows.
+Πληροφορίες σχετικά με την εικόνα, που χρησιμοποιείται από το Windows Explorer.
 
 ### Δείτε επίσης
 
 * class [TiffOptions](../)
-* χώρος ονομάτων [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* συνέλευση [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 
