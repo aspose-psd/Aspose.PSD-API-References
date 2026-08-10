@@ -1,28 +1,29 @@
 ---
-title: StringFormat.HotkeyPrefix
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: StringFormat संपत्त. ह जत है य सेट करत हैHotkeyPrefix इसके लए वस्तुStringFormat वस्तु.
+title: "StringFormat.HotkeyPrefix"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "StringFormat प्रॉपर्टी। इस StringFormat ऑब्जेक्ट के लिए HotkeyPrefix ऑब्जेक्ट को प्राप्त या सेट करता है।"
 type: docs
-weight: 90
+weight: 100
 url: /hi/net/aspose.psd/stringformat/hotkeyprefix/
 ---
+{{< psd/tize >}}
 ## StringFormat.HotkeyPrefix property
 
-हो जाता है या सेट करता है[`HotkeyPrefix`](../../hotkeyprefix/) इसके लिए वस्तु[`StringFormat`](../) वस्तु.
+इस [`StringFormat`](../) ऑब्जेक्ट के लिए [`HotkeyPrefix`](../../hotkeyprefix/) ऑब्जेक्ट को प्राप्त या सेट करता है।
 
 ```csharp
 public HotkeyPrefix HotkeyPrefix { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-[`HotkeyPrefix`](../../hotkeyprefix/) इसके लिए वस्तु[`StringFormat`](../) वस्तु, डिफ़ॉल्ट हैNone.
+यह [`HotkeyPrefix`](../../hotkeyprefix/) ऑब्जेक्ट इस [`StringFormat`](../) ऑब्जेक्ट के लिए है, डिफ़ॉल्ट None है।
 
-### यह सभी देखें
+### देखें भी
 
 * enum [HotkeyPrefix](../../hotkeyprefix/)
 * class [StringFormat](../)
-* नाम स्थान [Aspose.PSD](../../stringformat/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

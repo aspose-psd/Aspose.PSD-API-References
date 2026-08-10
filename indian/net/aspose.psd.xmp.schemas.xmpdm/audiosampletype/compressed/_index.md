@@ -1,23 +1,24 @@
 ---
-title: AudioSampleType.Compressed
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: AudioSampleType संपत्त. संपडत ऑडय नमूने क प्रतनधत्व करत है
+title: "AudioSampleType.Compressed"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "AudioSampleType property. संकुचित ऑडियो सैंपल का प्रतिनिधित्व करता है"
 type: docs
 weight: 10
 url: /hi/net/aspose.psd.xmp.schemas.xmpdm/audiosampletype/compressed/
 ---
+{{< psd/tize >}}
 ## AudioSampleType.Compressed property
 
-संपीडित ऑडियो नमूने का प्रतिनिधित्व करता है।
+संपीड़ित ऑडियो नमूना का प्रतिनिधित्व करता है।
 
 ```csharp
 public static AudioSampleType Compressed { get; }
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * class [AudioSampleType](../)
-* नाम स्थान [Aspose.PSD.Xmp.Schemas.XmpDm](../../audiosampletype/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpDm](../../../aspose.psd.xmp.schemas.xmpdm/)
+* assembly [Aspose.PSD](../../../)
 
 

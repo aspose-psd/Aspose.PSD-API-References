@@ -1,47 +1,48 @@
 ---
-title: DublinCorePackage.SetAuthor
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: DublinCorePackage तरक. लेखक क जड़त है.
+title: "DublinCorePackage.SetAuthor"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "DublinCorePackage विधि. लेखक जोड़ता है"
 type: docs
 weight: 30
 url: /hi/net/aspose.psd.xmp.schemas.dublincore/dublincorepackage/setauthor/
 ---
+{{< psd/tize >}}
 ## SetAuthor(string) {#setauthor}
 
-लेखक को जोड़ता है.
+लेखक जोड़ता है।
 
 ```csharp
 public void SetAuthor(string author)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| author | String | लेखक। |
+| लेखक | String | लेखक। |
 
-### यह सभी देखें
+### देखें भी
 
 * class [DublinCorePackage](../)
-* नाम स्थान [Aspose.PSD.Xmp.Schemas.DublinCore](../../dublincorepackage/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.DublinCore](../../../aspose.psd.xmp.schemas.dublincore/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## SetAuthor(string[]) {#setauthor_1}
 
-लेखक को जोड़ता है.
+लेखक जोड़ता है।
 
 ```csharp
 public void SetAuthor(string[] author)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| author | String[] | लेखक। |
+| लेखक | String[] | लेखक। |
 
-### यह सभी देखें
+### देखें भी
 
 * class [DublinCorePackage](../)
-* नाम स्थान [Aspose.PSD.Xmp.Schemas.DublinCore](../../dublincorepackage/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.DublinCore](../../../aspose.psd.xmp.schemas.dublincore/)
+* assembly [Aspose.PSD](../../../)
 
 

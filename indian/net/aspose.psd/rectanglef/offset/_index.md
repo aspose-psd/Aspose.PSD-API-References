@@ -1,49 +1,50 @@
 ---
-title: RectangleF.Offset
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: RectangleF तरक. इस आयत के स्थन क नर्दष्ट रश से समयजत करत है
+title: "RectangleF.Offset"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "RectangleF मेथड। इस आयत की स्थिति को निर्दिष्ट मात्रा से समायोजित करता है"
 type: docs
 weight: 240
 url: /hi/net/aspose.psd/rectanglef/offset/
 ---
+{{< psd/tize >}}
 ## Offset(PointF) {#offset}
 
-इस आयत के स्थान को निर्दिष्ट राशि से समायोजित करता है।
+निर्दिष्ट मात्रा द्वारा इस आयत का स्थान समायोजित करता है।
 
 ```csharp
 public void Offset(PointF pos)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| pos | PointF | स्थान ऑफसेट करने के लिए राशि। |
+| pos | PointF | स्थिति को ऑफसेट करने की मात्रा। |
 
-### यह सभी देखें
+### देखें भी
 
 * struct [PointF](../../pointf/)
 * struct [RectangleF](../)
-* नाम स्थान [Aspose.PSD](../../rectanglef/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Offset(float, float) {#offset_1}
 
-इस आयत के स्थान को निर्दिष्ट राशि से समायोजित करता है।
+निर्दिष्ट मात्रा द्वारा इस आयत का स्थान समायोजित करता है।
 
 ```csharp
 public void Offset(float x, float y)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| x | Single | स्थान को क्षैतिज रूप से ऑफ़सेट करने की राशि. |
-| y | Single | स्थान को लंबवत रूप से ऑफ़सेट करने की राशि. |
+| x | Single | स्थिति को क्षैतिज रूप से ऑफसेट करने की मात्रा। |
+| y | Single | स्थिति को लंबवत रूप से ऑफसेट करने की मात्रा। |
 
-### यह सभी देखें
+### देखें भी
 
 * struct [RectangleF](../)
-* नाम स्थान [Aspose.PSD](../../rectanglef/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,22 +1,23 @@
 ---
-title: Aspose.PSD.Xmp.Types.Derived
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: नमस्थन में वे वर्ग शमल हैं ज XMP गुणं के व्युत्पन्न प्रकर के मनं क प्रतनधत्व करते हैं
+title: "Aspose.PSD.Xmp.Types.Derived"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "यह नेमस्पेस उन क्लासों को शामिल करता है जो XMP प्रॉपर्टीज़ के डेराइव्ड टाइप मानों का प्रतिनिधित्व करती हैं।"
 type: docs
-weight: 700
+weight: 740
 url: /hi/net/aspose.psd.xmp.types.derived/
 ---
-नामस्थान में वे वर्ग शामिल हैं जो XMP गुणों के व्युत्पन्न प्रकार के मानों का प्रतिनिधित्व करते हैं।
+{{< psd/tize >}}
+Namespace में क्लासेस शामिल हैं जो XMP प्रॉपर्टीज़ के डेराइव्ड टाइप मानों को दर्शाते हैं।
 
-## कक्षाओं
+## क्लासेस
 
-| कक्षा | विवरण |
+| क्लास | विवरण |
 | --- | --- |
-| [Rational](./rational/) | XMP तर्कसंगत का प्रतिनिधित्व करता है। |
-| [RenditionClass](./renditionclass/) | XMP प्रतिपादन का प्रतिनिधित्व करता है। |
-| [XmpAgentName](./xmpagentname/) | एजेंट का नाम, सॉफ़्टवेयर संगठन आदि का प्रतिनिधित्व करता है. |
-| [XmpChoise&lt;T&gt;](./xmpchoise-1/) | मूल्यों की शब्दावली से मूल्य का प्रतिनिधित्व करता है। |
-| [XmpGuid](./xmpguid/) | XMP वैश्विक अद्वितीय पहचानकर्ता का प्रतिनिधित्व करता है। |
+| [Rational](./rational/) | XMP Rational का प्रतिनिधित्व करता है। |
+| [RenditionClass](./renditionclass/) | XMP Rendition का प्रतिनिधित्व करता है। |
+| [XmpAgentName](./xmpagentname/) | एजेंट नाम, सॉफ़्टवेयर संगठन आदि का प्रतिनिधित्व करता है। |
+| [XmpChoise&lt;T&gt;](./xmpchoise-1/) | मानों के शब्दकोश से एक मान का प्रतिनिधित्व करता है। |
+| [XmpGuid](./xmpguid/) | XMP ग्लोबल यूनिक आइडेंटिफ़ायर का प्रतिनिधित्व करता है। |
 | [XmpLocale](./xmplocale/) | भाषा कोड का प्रतिनिधित्व करता है। |
 | [XmpMimeType](./xmpmimetype/) | MIME प्रकार का प्रतिनिधित्व करता है। |
 

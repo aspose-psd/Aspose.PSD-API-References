@@ -1,27 +1,28 @@
 ---
-title: XmpPacketWrapper.PackagesCount
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: XmpPacketWrapper संपत्त. एक्सएमप संरचन के अंदर पैकेज क मत्र प्रप्त करत है
+title: "XmpPacketWrapper.PackagesCount"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "XmpPacketWrapper प्रॉपर्टी। XMP संरचना के भीतर पैकेजों की संख्या प्राप्त करता है"
 type: docs
 weight: 50
 url: /hi/net/aspose.psd.xmp/xmppacketwrapper/packagescount/
 ---
+{{< psd/tize >}}
 ## XmpPacketWrapper.PackagesCount property
 
-एक्सएमपी संरचना के अंदर पैकेज की मात्रा प्राप्त करता है।
+XMP संरचना के अंदर पैकेजों की संख्या प्राप्त करता है।
 
 ```csharp
 public int PackagesCount { get; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-XMP संरचना के अंदर पैकेज की मात्रा।
+XMP संरचना के भीतर पैकेजों की मात्रा।
 
-### यह सभी देखें
+### देखें भी
 
 * class [XmpPacketWrapper](../)
-* नाम स्थान [Aspose.PSD.Xmp](../../xmppacketwrapper/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

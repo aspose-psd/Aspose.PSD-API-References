@@ -1,23 +1,24 @@
 ---
-title: GraphicsPath.Reverse
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: GraphicsPath तरक. इसके प्रत्येक आकर में आकृतयं आकृतयं और बंदुओं के क्रम क उलट देत हैGraphicsPath .
+title: "GraphicsPath.Reverse"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "GraphicsPath मेथड। इस GraphicsPath की प्रत्येक आकृति में आकृतियों, आकारों और बिंदुओं का क्रम उलटता है।"
 type: docs
 weight: 160
 url: /hi/net/aspose.psd/graphicspath/reverse/
 ---
+{{< psd/tize >}}
 ## GraphicsPath.Reverse method
 
-इसके प्रत्येक आकार में आकृतियों, आकृतियों और बिंदुओं के क्रम को उलट देता है[`GraphicsPath`](../) .
+इस [`GraphicsPath`](../) की प्रत्येक आकृति में आकृतियों, आकारों और बिंदुओं का क्रम उलटता है।
 
 ```csharp
 public void Reverse()
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * class [GraphicsPath](../)
-* नाम स्थान [Aspose.PSD](../../graphicspath/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

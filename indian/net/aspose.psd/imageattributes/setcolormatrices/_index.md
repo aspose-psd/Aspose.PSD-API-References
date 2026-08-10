@@ -1,81 +1,82 @@
 ---
-title: ImageAttributes.SetColorMatrices
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: ImageAttributes तरक. डफ़ल्ट श्रेण के लए रंगसमयजन मैट्रक्स और ग्रेस्केलसमयजन मैट्रक्स सेट करत है
+title: "ImageAttributes.SetColorMatrices"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "ImageAttributes मेथड। डिफ़ॉल्ट श्रेणी के लिए रंगसमायोजन मैट्रिक्स और ग्रेस्केलसमायोजन मैट्रिक्स सेट करता है।"
 type: docs
 weight: 130
 url: /hi/net/aspose.psd/imageattributes/setcolormatrices/
 ---
+{{< psd/tize >}}
 ## SetColorMatrices(ColorMatrix, ColorMatrix) {#setcolormatrices}
 
-डिफ़ॉल्ट श्रेणी के लिए रंग-समायोजन मैट्रिक्स और ग्रेस्केल-समायोजन मैट्रिक्स सेट करता है।
+डिफ़ॉल्ट श्रेणी के लिए कलर-एडजस्टमेंट मैट्रिक्स और ग्रेस्केल-एडजस्टमेंट मैट्रिक्स सेट करता है।
 
 ```csharp
 public void SetColorMatrices(ColorMatrix newColorMatrix, ColorMatrix grayMatrix)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| newColorMatrix | ColorMatrix | रंग-समायोजन मैट्रिक्स। |
+| newColorMatrix | ColorMatrix | रंगसमायोजन मैट्रिक्स। |
 | grayMatrix | ColorMatrix | ग्रेस्केल-समायोजन मैट्रिक्स। |
 
-### यह सभी देखें
+### देखें भी
 
 * class [ColorMatrix](../../colormatrix/)
 * class [ImageAttributes](../)
-* नाम स्थान [Aspose.PSD](../../imageattributes/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## SetColorMatrices(ColorMatrix, ColorMatrix, ColorMatrixFlag) {#setcolormatrices_1}
 
-डिफ़ॉल्ट श्रेणी के लिए रंग-समायोजन मैट्रिक्स और ग्रेस्केल-समायोजन मैट्रिक्स सेट करता है।
+डिफ़ॉल्ट श्रेणी के लिए कलर-एडजस्टमेंट मैट्रिक्स और ग्रेस्केल-एडजस्टमेंट मैट्रिक्स सेट करता है।
 
 ```csharp
 public void SetColorMatrices(ColorMatrix newColorMatrix, ColorMatrix grayMatrix, 
     ColorMatrixFlag flags)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| newColorMatrix | ColorMatrix | रंग-समायोजन मैट्रिक्स। |
+| newColorMatrix | ColorMatrix | रंगसमायोजन मैट्रिक्स। |
 | grayMatrix | ColorMatrix | ग्रेस्केल-समायोजन मैट्रिक्स। |
-| flags | ColorMatrixFlag | का एक तत्व[`ColorMatrixFlag`](../../colormatrixflag/) जो रंग-समायोजन और ग्रेस्केल-समायोजन मैट्रिसेस से प्रभावित होने वाली छवि और रंग के प्रकार को निर्दिष्ट करता है। |
+| flags | ColorMatrixFlag | [`ColorMatrixFlag`](../../colormatrixflag/) का एक तत्व जो छवि और रंग के प्रकार को निर्दिष्ट करता है जो रंग-समायोजन और ग्रेस्केल-समायोजन मैट्रिक्स द्वारा प्रभावित होगा। |
 
-### यह सभी देखें
+### देखें भी
 
 * class [ColorMatrix](../../colormatrix/)
 * enum [ColorMatrixFlag](../../colormatrixflag/)
 * class [ImageAttributes](../)
-* नाम स्थान [Aspose.PSD](../../imageattributes/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## SetColorMatrices(ColorMatrix, ColorMatrix, ColorMatrixFlag, ColorAdjustType) {#setcolormatrices_2}
 
-निर्दिष्ट श्रेणी के लिए रंग-समायोजन मैट्रिक्स और ग्रेस्केल-समायोजन मैट्रिक्स सेट करता है।
+निर्दिष्ट श्रेणी के लिए कलर-एडजस्टमेंट मैट्रिक्स और ग्रेस्केल-एडजस्टमेंट मैट्रिक्स सेट करता है।
 
 ```csharp
 public void SetColorMatrices(ColorMatrix newColorMatrix, ColorMatrix grayMatrix, 
     ColorMatrixFlag mode, ColorAdjustType type)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| newColorMatrix | ColorMatrix | रंग-समायोजन मैट्रिक्स। |
+| newColorMatrix | ColorMatrix | रंगसमायोजन मैट्रिक्स। |
 | grayMatrix | ColorMatrix | ग्रेस्केल-समायोजन मैट्रिक्स। |
-| mode | ColorMatrixFlag | का एक तत्व[`ColorMatrixFlag`](../../colormatrixflag/) जो रंग-समायोजन और ग्रेस्केल-समायोजन मैट्रिसेस से प्रभावित होने वाली छवि और रंग के प्रकार को निर्दिष्ट करता है। |
-| type | ColorAdjustType | का एक तत्व[`ColorAdjustType`](../../coloradjusttype/) जो उस श्रेणी को निर्दिष्ट करता है जिसके लिए रंग-समायोजन और ग्रेस्केल-समायोजन मैट्रिसेस सेट किए गए हैं। |
+| mode | ColorMatrixFlag | [`ColorMatrixFlag`](../../colormatrixflag/) का एक तत्व जो छवि और रंग के प्रकार को निर्दिष्ट करता है जो रंग-समायोजन और ग्रेस्केल-समायोजन मैट्रिक्स द्वारा प्रभावित होगा। |
+| type | ColorAdjustType | [`ColorAdjustType`](../../coloradjusttype/) का एक तत्व जो उस श्रेणी को निर्दिष्ट करता है जिसके लिए रंग-समायोजन और ग्रेस्केल-समायोजन मैट्रिक्स सेट किए जाते हैं। |
 
-### यह सभी देखें
+### देखें भी
 
 * class [ColorMatrix](../../colormatrix/)
 * enum [ColorMatrixFlag](../../colormatrixflag/)
 * enum [ColorAdjustType](../../coloradjusttype/)
 * class [ImageAttributes](../)
-* नाम स्थान [Aspose.PSD](../../imageattributes/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

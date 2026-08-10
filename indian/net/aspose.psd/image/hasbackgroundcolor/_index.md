@@ -1,23 +1,24 @@
 ---
-title: Image.HasBackgroundColor
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Image संपत्त. एक मन प्रप्त य सेट करत है ज बतत है क छव में पृष्ठभूम क रंग है य नहं
+title: "Image.HasBackgroundColor"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Image प्रॉपर्टी। यह दर्शाने वाला मान प्राप्त या सेट करता है कि छवि में पृष्ठभूमि रंग है या नहीं"
 type: docs
 weight: 100
 url: /hi/net/aspose.psd/image/hasbackgroundcolor/
 ---
+{{< psd/tize >}}
 ## Image.HasBackgroundColor property
 
-एक मान प्राप्त या सेट करता है जो बताता है कि छवि में पृष्ठभूमि का रंग है या नहीं।
+छवि में पृष्ठभूमि रंग है या नहीं, यह दर्शाने वाला मान प्राप्त करता है या सेट करता है।
 
 ```csharp
 public virtual bool HasBackgroundColor { get; set; }
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * class [Image](../)
-* नाम स्थान [Aspose.PSD](../../image/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

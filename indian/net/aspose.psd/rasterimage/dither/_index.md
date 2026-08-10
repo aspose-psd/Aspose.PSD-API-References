@@ -1,11 +1,12 @@
 ---
-title: RasterImage.Dither
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: RasterImage तरक. वर्तमन छव पर डथरंग करत है
+title: "RasterImage.Dither"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "RasterImage मेथड। वर्तमान छवि पर डिथरिंग करता है।"
 type: docs
 weight: 250
 url: /hi/net/aspose.psd/rasterimage/dither/
 ---
+{{< psd/tize >}}
 ## Dither(DitheringMethod, int, IColorPalette) {#dither_1}
 
 वर्तमान छवि पर डिथरिंग करता है।
@@ -15,19 +16,19 @@ public abstract void Dither(DitheringMethod ditheringMethod, int bitsCount,
     IColorPalette customPalette)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| ditheringMethod | DitheringMethod | डीथरिंग विधि। |
-| bitsCount | Int32 | अंतिम बिट्स डिथरिंग के लिए गिने जाते हैं। |
+| ditheringMethod | DitheringMethod | डिथरिंग विधि। |
+| bitsCount | Int32 | डिथरिंग के लिए अंतिम बिट्स गिनती। |
 | customPalette | IColorPalette | डिथरिंग के लिए कस्टम पैलेट। |
 
-### यह सभी देखें
+### देखें भी
 
 * enum [DitheringMethod](../../ditheringmethod/)
 * interface [IColorPalette](../../icolorpalette/)
 * class [RasterImage](../)
-* नाम स्थान [Aspose.PSD](../../rasterimage/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
@@ -39,16 +40,16 @@ public abstract void Dither(DitheringMethod ditheringMethod, int bitsCount,
 public void Dither(DitheringMethod ditheringMethod, int bitsCount)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| ditheringMethod | DitheringMethod | डीथरिंग विधि। |
-| bitsCount | Int32 | अंतिम बिट्स डिथरिंग के लिए गिने जाते हैं। |
+| ditheringMethod | DitheringMethod | डिथरिंग विधि। |
+| bitsCount | Int32 | डिथरिंग के लिए अंतिम बिट्स गिनती। |
 
-### यह सभी देखें
+### देखें भी
 
 * enum [DitheringMethod](../../ditheringmethod/)
 * class [RasterImage](../)
-* नाम स्थान [Aspose.PSD](../../rasterimage/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

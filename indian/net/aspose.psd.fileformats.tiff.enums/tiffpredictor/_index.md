@@ -1,14 +1,15 @@
 ---
-title: Enum TiffPredictor
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Aspose.PSD.FileFormats.Tiff.Enums.TiffPredictor एनुम. LZW के लए भवष्यवण यजन
+title: "एनम TiffPredictor"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Aspose.PSD.FileFormats.Tiff.Enums.TiffPredictor एनम। LZW के लिए प्रिडिक्शन स्कीम"
 type: docs
-weight: 4140
+weight: 4610
 url: /hi/net/aspose.psd.fileformats.tiff.enums/tiffpredictor/
 ---
+{{< psd/tize >}}
 ## TiffPredictor enumeration
 
-LZW के लिए भविष्यवाणी योजना
+LZW के लिए प्रेडिक्शन स्कीम
 
 ```csharp
 public enum TiffPredictor : ushort
@@ -16,14 +17,14 @@ public enum TiffPredictor : ushort
 
 ### मान
 
-| नाम | कीमत | विवरण |
+| नाम | मान | विवरण |
 | --- | --- | --- |
-| None | `1` | कोई भविष्यवाणी योजना का उपयोग नहीं किया गया। |
-| Horizontal | `2` | क्षैतिज अंतर। |
+| None | `1` | कोई प्रिडिक्शन स्कीम उपयोग नहीं की गई। |
+| Horizontal | `2` | हॉरिज़ॉन्टल डिफरेंसिंग। |
 
-### यह सभी देखें
+### देखें भी
 
-* नाम स्थान [Aspose.PSD.FileFormats.Tiff.Enums](../../aspose.psd.fileformats.tiff.enums/)
-* सभा [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Tiff.Enums](../../aspose.psd.fileformats.tiff.enums/)
+* assembly [Aspose.PSD](../../)
 
 

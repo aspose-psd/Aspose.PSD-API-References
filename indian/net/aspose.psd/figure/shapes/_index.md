@@ -1,28 +1,29 @@
 ---
-title: Figure.Shapes
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Figure संपत्त. आकृत क आकर प्रप्त करत है
+title: "Figure.Shapes"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Figure प्रॉपर्टी। फ़िगर के आकार प्राप्त करता है"
 type: docs
 weight: 50
 url: /hi/net/aspose.psd/figure/shapes/
 ---
+{{< psd/tize >}}
 ## Figure.Shapes property
 
-आकृति का आकार प्राप्त करता है।
+फ़िगर के आकार प्राप्त करता है।
 
 ```csharp
 public Shape[] Shapes { get; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-आकृति बनती है।
+फ़िगर आकार।
 
-### यह सभी देखें
+### देखें भी
 
 * class [Shape](../../shape/)
 * class [Figure](../)
-* नाम स्थान [Aspose.PSD](../../figure/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

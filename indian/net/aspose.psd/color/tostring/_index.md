@@ -1,27 +1,28 @@
 ---
-title: Color.ToString
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Color तरक. इसे परवर्तत करत हैColor एक मनवपठनय स्ट्रंग के लए संरचन.
+title: "Color.ToString"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Color method. इस Color संरचना को एक मानव-पठनीय स्ट्रिंग में परिवर्तित करता है"
 type: docs
 weight: 1610
 url: /hi/net/aspose.psd/color/tostring/
 ---
+{{< psd/tize >}}
 ## Color.ToString method
 
-इसे परिवर्तित करता है[`Color`](../) एक मानव-पठनीय स्ट्रिंग के लिए संरचना.
+इस [`Color`](../) संरचना को एक मानव-पठनीय स्ट्रिंग में परिवर्तित करता है।
 
 ```csharp
 public override string ToString()
 ```
 
-### प्रतिलाभ की मात्रा
+### रिटर्न वैल्यू
 
-एक स्ट्रिंग जो इसका नाम है[`Color`](../) , अगर[`Color`](../) या तो का उपयोग करके एक पूर्वनिर्धारित रंग से बनाया गया है[`FromName`](../fromname/) विधि या[`FromKnownColor`](../fromknowncolor/) तरीका; अन्यथा, एक स्ट्रिंग जिसमें ARGB घटक नाम और उनके मान होते हैं।
+एक स्ट्रिंग जो इस [`Color`](../) का नाम है, यदि [`Color`](../) को पूर्वनिर्धारित रंग से बनाते समय या तो [`FromName`](../fromname/) मेथड या [`FromKnownColor`](../fromknowncolor/) मेथड का उपयोग किया गया हो; अन्यथा, एक स्ट्रिंग जिसमें ARGB घटक नाम और उनके मान शामिल होते हैं।
 
-### यह सभी देखें
+### देखें भी
 
 * struct [Color](../)
-* नाम स्थान [Aspose.PSD](../../color/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

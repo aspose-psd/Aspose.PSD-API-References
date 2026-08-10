@@ -1,48 +1,49 @@
 ---
-title: DublinCorePackage.SetTitle
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: DublinCorePackage तरक. डबलन कर शर्षक जड़त है
+title: "DublinCorePackage.SetTitle"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "DublinCorePackage मेथड। Dublin Core शीर्षक जोड़ता है"
 type: docs
 weight: 70
 url: /hi/net/aspose.psd.xmp.schemas.dublincore/dublincorepackage/settitle/
 ---
+{{< psd/tize >}}
 ## SetTitle(string) {#settitle_1}
 
-डबलिन कोर शीर्षक जोड़ता है।
+Dublin Core शीर्षक जोड़ता है।
 
 ```csharp
 public void SetTitle(string title)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| title | String | शीर्षक। |
+| शीर्षक | String | शीर्षक। |
 
-### यह सभी देखें
+### देखें भी
 
 * class [DublinCorePackage](../)
-* नाम स्थान [Aspose.PSD.Xmp.Schemas.DublinCore](../../dublincorepackage/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.DublinCore](../../../aspose.psd.xmp.schemas.dublincore/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## SetTitle(LangAlt) {#settitle}
 
-विभिन्न भाषाओं के लिए डबलिन कोर शीर्षक जोड़ता है।
+विभिन्न भाषाओं के लिए Dublin Core शीर्षक जोड़ता है।
 
 ```csharp
 public void SetTitle(LangAlt title)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| title | LangAlt | का उदाहरण[`LangAlt`](../../../aspose.psd.xmp/langalt/). |
+| title | LangAlt | उदाहरण [`LangAlt`](../../../aspose.psd.xmp/langalt/). |
 
-### यह सभी देखें
+### देखें भी
 
 * class [LangAlt](../../../aspose.psd.xmp/langalt/)
 * class [DublinCorePackage](../)
-* नाम स्थान [Aspose.PSD.Xmp.Schemas.DublinCore](../../dublincorepackage/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.DublinCore](../../../aspose.psd.xmp.schemas.dublincore/)
+* assembly [Aspose.PSD](../../../)
 
 

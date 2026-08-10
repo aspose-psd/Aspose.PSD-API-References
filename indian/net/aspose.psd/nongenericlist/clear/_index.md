@@ -1,23 +1,24 @@
 ---
-title: NonGenericList.Clear
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: NonGenericList तरक. से सभ आइटम हट देत हैIList .
+title: "NonGenericList.Clear"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "NonGenericList मेथड। IList से सभी आइटम हटाता है"
 type: docs
 weight: 90
 url: /hi/net/aspose.psd/nongenericlist/clear/
 ---
+{{< psd/tize >}}
 ## NonGenericList.Clear method
 
-से सभी आइटम हटा देता हैIList .
+IList से सभी आइटम हटाता है।
 
 ```csharp
 public void Clear()
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * class [NonGenericList](../)
-* नाम स्थान [Aspose.PSD](../../nongenericlist/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

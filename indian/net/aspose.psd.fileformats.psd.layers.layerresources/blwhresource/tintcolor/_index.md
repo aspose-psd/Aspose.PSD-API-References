@@ -1,26 +1,27 @@
 ---
-title: BlwhResource.TintColor
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: BlwhResource संपत्त. टंट रंग ARGB मन प्रप्त य सेट करत है
+title: "BlwhResource.TintColor"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "BlwhResource प्रॉपर्टी। टिंट कलर ARGB मान प्राप्त करता है या सेट करता है"
 type: docs
-weight: 120
+weight: 100
 url: /hi/net/aspose.psd.fileformats.psd.layers.layerresources/blwhresource/tintcolor/
 ---
+{{< psd/tize >}}
 ## BlwhResource.TintColor property
 
-टिंट रंग ARGB मान प्राप्त या सेट करता है।
+टिंट रंग का ARGB मान प्राप्त करता है या सेट करता है।
 
 ```csharp
 public int TintColor { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-टिंट रंग ARGB मान.
+टिंट कलर ARGB मान।
 
-### उदाहरण
+## उदाहरण
 
-निम्न उदाहरण दर्शाता है कि आप किसी BlwhResource को कैसे संपादित करते हैं।
+निम्नलिखित उदाहरण दर्शाता है कि आप BlwhResource को कैसे संपादित करते हैं।
 
 ```csharp
 [C#]
@@ -63,7 +64,7 @@ using (PsdImage im = (PsdImage)Image.Load(sourceFileName))
                 AssertIsTrue(Math.Abs(blwhLayer.TintColorGreen - tintColorGreen) < 1e-6, ActualPropertyValueIsWrongMessage);
                 AssertIsTrue(Math.Abs(blwhLayer.TintColorBlue - tintColorBlue) < 1e-6, ActualPropertyValueIsWrongMessage);
 
-                // परीक्षण संपादन और बचत
+                // संपादन और सहेजने का परीक्षण
                 blwhResource.Reds = reds - 15;
                 blwhResource.Yellows = yellows - 15;
                 blwhResource.Greens = greens + 15;
@@ -123,10 +124,10 @@ using (PsdImage im = (PsdImage)Image.Load(destinationFileName))
 AssertIsTrue(isRequiredResourceFound, "The specified BlwhResource not found");
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * class [BlwhResource](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../blwhresource/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

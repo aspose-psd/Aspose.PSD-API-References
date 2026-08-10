@@ -1,22 +1,23 @@
 ---
-title: Class AggregateException
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Aspose.PSD.AggregateException कक्ष. कई अपवदं क जड़त है
+title: "क्लास AggregateException"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "`Aspose.PSD.AggregateException` क्लास। कई अपवादों को एकत्रित करता है।"
 type: docs
 weight: 10
 url: /hi/net/aspose.psd/aggregateexception/
 ---
+{{< psd/tize >}}
 ## AggregateException class
 
-कई अपवादों को जोड़ता है।
+एकाधिक अपवादों को एकत्रित करता है।
 
 ```csharp
 public class AggregateException : Exception
 ```
 
-### यह सभी देखें
+### देखें भी
 
-* नाम स्थान [Aspose.PSD](../../aspose.psd/)
-* सभा [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: Graphics.PageScale
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Graphics संपत्त. इस Aspose.PSD.Graphics. के लए वश्व इकइयं और पृष्ठ इकइयं के बच स्केलंग प्रप्त य सेट करत है
+title: "Graphics.PageScale"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Graphics प्रॉपर्टी। इस Aspose.PSD.Graphics के लिए विश्व इकाइयों और पृष्ठ इकाइयों के बीच स्केलिंग प्राप्त करता है या सेट करता है।"
 type: docs
 weight: 90
 url: /hi/net/aspose.psd/graphics/pagescale/
 ---
+{{< psd/tize >}}
 ## Graphics.PageScale property
 
-इस Aspose.PSD.Graphics. के लिए विश्व इकाइयों और पृष्ठ इकाइयों के बीच स्केलिंग प्राप्त या सेट करता है
+इस Aspose.PSD.Graphics के लिए विश्व इकाइयों और पेज इकाइयों के बीच स्केलिंग को प्राप्त करता है या सेट करता है।
 
 ```csharp
 public float PageScale { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-इस Aspose.PSD.Graphics. के लिए विश्व इकाइयों और पृष्ठ इकाइयों के बीच स्केलिंग
+इस Aspose.PSD.Graphics के लिए विश्व इकाइयों और पृष्ठ इकाइयों के बीच स्केलिंग।
 
-### यह सभी देखें
+### देखें भी
 
 * class [Graphics](../)
-* नाम स्थान [Aspose.PSD](../../graphics/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

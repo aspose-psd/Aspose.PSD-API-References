@@ -1,31 +1,32 @@
 ---
-title: Delegate AsyncTaskFunc
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: समन्य प्रकर के परणम के सथ एसंक्रनस कर्य के लए लंब ऑपरेशन प्रतनध
+title: "डेलीगेट AsyncTaskFunc"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "जनरिक टाइप परिणाम के साथ असिंक्रोनस टास्क के लिए लंबी ऑपरेशन डेलीगेट।"
 type: docs
 weight: 50
 url: /hi/net/aspose.psd.asynctask/asynctaskfunc/
 ---
+{{< psd/tize >}}
 ## AsyncTaskFunc delegate
 
-सामान्य प्रकार के परिणाम के साथ एसिंक्रोनस कार्य के लिए लंबा ऑपरेशन प्रतिनिधि।
+असिंक्रोनस टास्क के लिए जेनरिक टाइप परिणाम के साथ लंबी ऑपरेशन डेलीगेट।
 
 ```csharp
 public delegate object AsyncTaskFunc(IAsyncTaskState taskState);
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| taskState | IAsyncTaskState | अतुल्यकालिक कार्य की स्थिति। |
+| taskState | IAsyncTaskState | असिंक्रोनस टास्क की स्थिति। |
 
-### प्रतिलाभ की मात्रा
+### रिटर्न वैल्यू
 
-लंबे ऑपरेशन का नतीजा।
+लंबी ऑपरेशन का परिणाम।
 
-### यह सभी देखें
+### देखें भी
 
 * interface [IAsyncTaskState](../iasynctaskstate/)
-* नाम स्थान [Aspose.PSD.AsyncTask](../../aspose.psd.asynctask/)
-* सभा [Aspose.PSD](../../)
+* namespace [Aspose.PSD.AsyncTask](../../aspose.psd.asynctask/)
+* assembly [Aspose.PSD](../../)
 
 

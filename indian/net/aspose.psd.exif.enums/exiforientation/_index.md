@@ -1,14 +1,15 @@
 ---
-title: Enum ExifOrientation
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Aspose.PSD.Exif.Enums.ExifOrientation एनुम. एक्सफ इमेज ओरएंटेशन.
+title: "एनम ExifOrientation"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Aspose.PSD.Exif.Enums.ExifOrientation एनम। Exif इमेज ओरिएंटेशन"
 type: docs
-weight: 910
+weight: 920
 url: /hi/net/aspose.psd.exif.enums/exiforientation/
 ---
+{{< psd/tize >}}
 ## ExifOrientation enumeration
 
-एक्सिफ इमेज ओरिएंटेशन.
+Exif छवि अभिविन्यास।
 
 ```csharp
 public enum ExifOrientation
@@ -16,20 +17,20 @@ public enum ExifOrientation
 
 ### मान
 
-| नाम | कीमत | विवरण |
+| नाम | मान | विवरण |
 | --- | --- | --- |
-| TopLeft | `1` | ऊपर बाएँ। डिफ़ॉल्ट अभिविन्यास। |
-| TopRight | `2` | ऊपर दाईं ओर। क्षैतिज रूप से उलटा। |
-| BottomRight | `3` | नीचे दाएं। 180 डिग्री घुमाया गया. |
-| BottomLeft | `4` | नीचे बाएँ। 180 डिग्री घुमाया गया और फिर क्षैतिज रूप से उलट दिया गया. |
-| LeftTop | `5` | ऊपर बाएँ। 90 डिग्री वामावर्त घुमाया गया और फिर क्षैतिज रूप से उलट दिया गया। |
-| RightTop | `6` | ठीक ऊपर। 90 डिग्री घड़ी की दिशा में घुमाया गया. |
-| RightBottom | `7` | ठीक नीचे। 90 डिग्री दक्षिणावर्त घुमाया गया और फिर क्षैतिज रूप से उलट दिया गया। |
-| LeftBottom | `8` | बाएँ तल। 90 डिग्री वामावर्त घुमाया गया. |
+| TopLeft | `1` | ऊपर बायाँ। डिफ़ॉल्ट ओरिएंटेशन। |
+| TopRight | `2` | ऊपर दायाँ। क्षैतिज रूप से उलटा। |
+| BottomRight | `3` | निचला दायाँ। 180 डिग्री घुमाया गया। |
+| BottomLeft | `4` | निचला बायाँ। 180 डिग्री घुमाया गया और फिर क्षैतिज रूप से उलटा। |
+| LeftTop | `5` | बायाँ ऊपर। 90 डिग्री प्रतिक्लॉकवाइज़ घुमाया गया और फिर क्षैतिज रूप से उलटा। |
+| RightTop | `6` | दायाँ ऊपर। 90 डिग्री क्लॉकवाइज़ घुमाया गया। |
+| RightBottom | `7` | दायाँ नीचे। 90 डिग्री क्लॉकवाइज़ घुमाया गया और फिर क्षैतिज रूप से उलटा। |
+| LeftBottom | `8` | बायाँ नीचे। 90 डिग्री प्रतिक्लॉकवाइज़ घुमाया गया। |
 
-### यह सभी देखें
+### देखें भी
 
-* नाम स्थान [Aspose.PSD.Exif.Enums](../../aspose.psd.exif.enums/)
-* सभा [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Exif.Enums](../../aspose.psd.exif.enums/)
+* assembly [Aspose.PSD](../../)
 
 

@@ -1,51 +1,52 @@
 ---
-title: Pen.MultiplyTransform
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Pen तरक. इसके लए रूपंतरण मैट्रक्स क गुण करत हैPen नर्दष्ट द्वरMatrix .
+title: "Pen.MultiplyTransform"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Pen विधि। इस Pen के परिवर्तन मैट्रिक्स को निर्दिष्ट Matrix द्वारा गुणा करता है।"
 type: docs
 weight: 190
 url: /hi/net/aspose.psd/pen/multiplytransform/
 ---
+{{< psd/tize >}}
 ## MultiplyTransform(Matrix) {#multiplytransform}
 
-इसके लिए रूपांतरण मैट्रिक्स को गुणा करता है[`Pen`](../) निर्दिष्ट द्वारा[`Matrix`](../../matrix/) .
+इस [`Pen`](../) के परिवर्तन मैट्रिक्स को निर्दिष्ट [`Matrix`](../../matrix/) द्वारा गुणा करता है।
 
 ```csharp
 public void MultiplyTransform(Matrix matrix)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| matrix | Matrix | [`Matrix`](../../matrix/) वस्तु जिसके द्वारा परिवर्तन मैट्रिक्स को गुणा करना है। |
+| matrix | Matrix | वह [`Matrix`](../../matrix/) ऑब्जेक्ट जिससे परिवर्तन मैट्रिक्स को गुणा किया जाता है। |
 
-### यह सभी देखें
+### देखें भी
 
 * class [Matrix](../../matrix/)
 * class [Pen](../)
-* नाम स्थान [Aspose.PSD](../../pen/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## MultiplyTransform(Matrix, MatrixOrder) {#multiplytransform_1}
 
-इसके लिए रूपांतरण मैट्रिक्स को गुणा करता है[`Pen`](../) निर्दिष्ट द्वारा[`Matrix`](../../matrix/) निर्दिष्ट क्रम में.
+इस [`Pen`](../) के परिवर्तन मैट्रिक्स को निर्दिष्ट क्रम में निर्दिष्ट [`Matrix`](../../matrix/) द्वारा गुणा करता है।
 
 ```csharp
 public void MultiplyTransform(Matrix matrix, MatrixOrder order)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| matrix | Matrix | [`Matrix`](../../matrix/) जिससे परिवर्तन मैट्रिक्स को गुणा करना है। |
-| order | MatrixOrder | गुणन संक्रिया को करने का क्रम। |
+| matrix | Matrix | वह [`Matrix`](../../matrix/) जिससे परिवर्तन मैट्रिक्स को गुणा किया जाता है। |
+| order | MatrixOrder | गुणा ऑपरेशन को करने का क्रम। |
 
-### यह सभी देखें
+### देखें भी
 
 * class [Matrix](../../matrix/)
 * enum [MatrixOrder](../../matrixorder/)
 * class [Pen](../)
-* नाम स्थान [Aspose.PSD](../../pen/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

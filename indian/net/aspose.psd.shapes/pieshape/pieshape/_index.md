@@ -1,46 +1,47 @@
 ---
-title: PieShape.PieShape
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: PieShape नर्मत. क एक नय उदहरण प्ररंभ करत हैPieShape वर्ग.
+title: "PieShape.PieShape"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "PieShape कंस्ट्रक्टर। PieShape क्लास का एक नया इंस्टेंस इनिशियलाइज़ करता है"
 type: docs
 weight: 10
 url: /hi/net/aspose.psd.shapes/pieshape/pieshape/
 ---
+{{< psd/tize >}}
 ## PieShape() {#constructor}
 
-का एक नया उदाहरण प्रारंभ करता है[`PieShape`](../) वर्ग.
+[`PieShape`](../) क्लास का एक नया इंस्टेंस इनिशियलाइज़ करता है।
 
 ```csharp
 public PieShape()
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * class [PieShape](../)
-* नाम स्थान [Aspose.PSD.Shapes](../../pieshape/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## PieShape(RectangleF, float, float) {#constructor_1}
 
-का एक नया उदाहरण प्रारंभ करता है[`PieShape`](../) वर्ग.
+[`PieShape`](../) क्लास का एक नया इंस्टेंस इनिशियलाइज़ करता है।
 
 ```csharp
 public PieShape(RectangleF rectangle, float startAngle, float sweepAngle)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| rectangle | RectangleF | आयत। |
-| startAngle | Single | प्रारंभ कोण। |
-| sweepAngle | Single | स्वीप कोण। |
+| आयत | RectangleF | आयत। |
+| startAngle | Single | स्टार्ट एंगल। |
+| sweepAngle | Single | स्वीप एंगल। |
 
-### यह सभी देखें
+### देखें भी
 
 * struct [RectangleF](../../../aspose.psd/rectanglef/)
 * class [PieShape](../)
-* नाम स्थान [Aspose.PSD.Shapes](../../pieshape/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 

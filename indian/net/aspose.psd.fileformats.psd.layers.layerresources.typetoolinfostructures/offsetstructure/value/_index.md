@@ -1,27 +1,28 @@
 ---
-title: OffsetStructure.Value
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: OffsetStructure संपत्त. पूर्णंक मन प्रप्त य सेट करत है
+title: "OffsetStructure.Value"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "OffsetStructure प्रॉपर्टी। पूर्णांक मान प्राप्त करता है या सेट करता है"
 type: docs
 weight: 60
 url: /hi/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/offsetstructure/value/
 ---
+{{< psd/tize >}}
 ## OffsetStructure.Value property
 
-पूर्णांक मान प्राप्त या सेट करता है।
+पूर्णांक मान को प्राप्त करता है या सेट करता है।
 
 ```csharp
 public int Value { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-पूर्णांक मान.
+पूर्णांक मान।
 
-### यह सभी देखें
+### देखें भी
 
 * class [OffsetStructure](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../offsetstructure/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,23 +1,24 @@
 ---
-title: NonGenericList.IsReadOnly
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: NonGenericList संपत्त. यह इंगत करने वल मन प्रप्त करत है क क्यIList केवल पढ़ने के लए है.
+title: "NonGenericList.IsReadOnly"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "NonGenericList प्रॉपर्टी। यह दर्शाने वाला मान प्राप्त करता है कि IList केवल-पढ़ने योग्य है या नहीं"
 type: docs
 weight: 40
 url: /hi/net/aspose.psd/nongenericlist/isreadonly/
 ---
+{{< psd/tize >}}
 ## NonGenericList.IsReadOnly property
 
-यह इंगित करने वाला मान प्राप्त करता है कि क्याIList केवल पढ़ने के लिए है.
+IList केवल-पढ़ने योग्य है या नहीं, यह दर्शाने वाला मान प्राप्त करता है।
 
 ```csharp
 public bool IsReadOnly { get; }
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * class [NonGenericList](../)
-* नाम स्थान [Aspose.PSD](../../nongenericlist/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: Layer.ChannelsCount
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Layer संपत्त. परत के चैनलं क गनत करत है.
+title: "Layer.ChannelsCount"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Layer property. लेयर के चैनल्स की गिनती प्राप्त करता है"
 type: docs
-weight: 80
+weight: 90
 url: /hi/net/aspose.psd.fileformats.psd.layers/layer/channelscount/
 ---
+{{< psd/tize >}}
 ## Layer.ChannelsCount property
 
-परत के चैनलों की गिनती करता है.
+लेयर के चैनलों की गिनती प्राप्त करता है।
 
 ```csharp
 public ushort ChannelsCount { get; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-परत के चैनल गिने जाते हैं.
+लेयर के चैनल्स की गिनती।
 
-### यह सभी देखें
+### देखें भी
 
 * class [Layer](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers](../../layer/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

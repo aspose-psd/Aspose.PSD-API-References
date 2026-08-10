@@ -1,14 +1,15 @@
 ---
-title: Class NonGenericList
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Aspose.PSD.NonGenericList कक्ष. वस्तुओं क गैर समन्य सूच
+title: "क्लास NonGenericList"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Aspose.PSD.NonGenericList क्लास। वस्तुओं की गैर-जनरिक सूची"
 type: docs
-weight: 5150
+weight: 5640
 url: /hi/net/aspose.psd/nongenericlist/
 ---
+{{< psd/tize >}}
 ## NonGenericList class
 
-वस्तुओं की गैर सामान्य सूची
+ऑब्जेक्ट्स की नॉन-जनरिक सूची
 
 ```csharp
 public class NonGenericList : IList
@@ -18,36 +19,36 @@ public class NonGenericList : IList
 
 | नाम | विवरण |
 | --- | --- |
-| [NonGenericList](nongenericlist/)(IList) | का एक नया उदाहरण प्रारंभ करता है`NonGenericList` वर्ग. |
+| [NonGenericList](nongenericlist/)(IList) | `NonGenericList` क्लास का नया उदाहरण प्रारंभ करता है। |
 
-## गुण
-
-| नाम | विवरण |
-| --- | --- |
-| [Count](../../aspose.psd/nongenericlist/count/) { get; } | में निहित तत्वों की संख्या प्राप्त करता हैICollection . |
-| [IsFixedSize](../../aspose.psd/nongenericlist/isfixedsize/) { get; } | यह इंगित करने वाला मान प्राप्त करता है कि क्याIList एक निश्चित आकार है। |
-| [IsReadOnly](../../aspose.psd/nongenericlist/isreadonly/) { get; } | यह इंगित करने वाला मान प्राप्त करता है कि क्याIList केवल पढ़ने के लिए है. |
-| [IsSynchronized](../../aspose.psd/nongenericlist/issynchronized/) { get; } | यह इंगित करने वाला मान प्राप्त करता है कि क्या तक पहुंच हैICollection समकालिक है (धागा सुरक्षित). |
-| [Item](../../aspose.psd/nongenericlist/item/) { get; set; } | निर्दिष्ट इंडेक्स पर तत्व प्राप्त या सेट करता है। |
-| [SyncRoot](../../aspose.psd/nongenericlist/syncroot/) { get; } | एक ऑब्जेक्ट प्राप्त करता है जिसका उपयोग सिंक्रोनाइज़ करने के लिए किया जा सकता हैICollection . |
-
-## तरीकों
+## प्रॉपर्टीज़
 
 | नाम | विवरण |
 | --- | --- |
-| [Add](../../aspose.psd/nongenericlist/add/)(object) | में एक आइटम जोड़ता हैIList . |
-| [Clear](../../aspose.psd/nongenericlist/clear/)() | से सभी आइटम हटा देता हैIList . |
-| [Contains](../../aspose.psd/nongenericlist/contains/)(object) | निर्धारित करता है कि क्याIList एक विशिष्ट मान होता है। |
-| [CopyTo](../../aspose.psd/nongenericlist/copyto/)(Array, int) | के तत्वों की प्रतिलिपि बनाता हैICollection एक कोArray , एक विशेष से शुरूArray अनुक्रमणिका. |
-| [GetEnumerator](../../aspose.psd/nongenericlist/getenumerator/)() | एक गणनाकार देता है जो एक संग्रह के माध्यम से पुनरावृति करता है। |
-| [IndexOf](../../aspose.psd/nongenericlist/indexof/)(object) | में किसी विशिष्ट आइटम की अनुक्रमणिका निर्धारित करता हैIList . |
-| [Insert](../../aspose.psd/nongenericlist/insert/)(int, object) | में एक आइटम सम्मिलित करता हैIList निर्दिष्ट सूचकांक पर। |
-| [Remove](../../aspose.psd/nongenericlist/remove/)(object) | किसी विशिष्ट वस्तु की पहली घटना को हटाता हैIList . |
-| [RemoveAt](../../aspose.psd/nongenericlist/removeat/)(int) | निकालता हैIList निर्दिष्ट इंडेक्स पर आइटम। |
+| [Count](../../aspose.psd/nongenericlist/count/) { get; } | ICollection में शामिल तत्वों की संख्या प्राप्त करता है। |
+| [IsFixedSize](../../aspose.psd/nongenericlist/isfixedsize/) { get; } | IList के पास निश्चित आकार है या नहीं, यह दर्शाने वाला मान प्राप्त करता है। |
+| [IsReadOnly](../../aspose.psd/nongenericlist/isreadonly/) { get; } | IList केवल-पढ़ने योग्य है या नहीं, यह दर्शाने वाला मान प्राप्त करता है। |
+| [IsSynchronized](../../aspose.psd/nongenericlist/issynchronized/) { get; } | एक मान प्राप्त करता है जो दर्शाता है कि ICollection तक पहुंच समक्रमित (थ्रेड-सुरक्षित) है। |
+| [Item](../../aspose.psd/nongenericlist/item/) { get; set; } | निर्दिष्ट अनुक्रमांक पर तत्व को प्राप्त करता है या सेट करता है। |
+| [SyncRoot](../../aspose.psd/nongenericlist/syncroot/) { get; } | एक ऑब्जेक्ट प्राप्त करता है जिसका उपयोग ICollection तक पहुंच को समक्रमित करने के लिए किया जा सकता है। |
 
-### यह सभी देखें
+## मेथड्स
 
-* नाम स्थान [Aspose.PSD](../../aspose.psd/)
-* सभा [Aspose.PSD](../../)
+| नाम | विवरण |
+| --- | --- |
+| [Add](../../aspose.psd/nongenericlist/add/)(object) | IList में एक आइटम जोड़ता है। |
+| [Clear](../../aspose.psd/nongenericlist/clear/)() | IList से सभी आइटम हटाता है। |
+| [Contains](../../aspose.psd/nongenericlist/contains/)(object) | IList में कोई विशिष्ट मान मौजूद है या नहीं, निर्धारित करता है। |
+| [CopyTo](../../aspose.psd/nongenericlist/copyto/)(Array, int) | ICollection के तत्वों को एक Array में कॉपी करता है, एक विशिष्ट Array इंडेक्स से शुरू करके। |
+| [GetEnumerator](../../aspose.psd/nongenericlist/getenumerator/)() | एक संग्रह के माध्यम से पुनरावृति करने वाला इनेमरेटर लौटाता है। |
+| [IndexOf](../../aspose.psd/nongenericlist/indexof/)(object) | IList में किसी विशिष्ट आइटम का अनुक्रमांक निर्धारित करता है। |
+| [Insert](../../aspose.psd/nongenericlist/insert/)(int, object) | निर्दिष्ट अनुक्रमांक पर IList में एक आइटम सम्मिलित करता है। |
+| [Remove](../../aspose.psd/nongenericlist/remove/)(object) | IList से किसी विशिष्ट वस्तु की पहली उपस्थिति हटाता है। |
+| [RemoveAt](../../aspose.psd/nongenericlist/removeat/)(int) | निर्दिष्ट अनुक्रमांक पर IList आइटम को हटाता है। |
+
+### देखें भी
+
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

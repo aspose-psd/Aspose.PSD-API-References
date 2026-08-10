@@ -1,23 +1,24 @@
 ---
-title: FilterEffectMaskData.PixelsDepth
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: FilterEffectMaskData संपत्त. पक्सल गहरई प्रप्त करत है
+title: "FilterEffectMaskData.PixelsDepth"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "FilterEffectMaskData property. पिक्सेल गहराई प्राप्त करता है"
 type: docs
 weight: 70
 url: /hi/net/aspose.psd.fileformats.psd.layers.layerresources/filtereffectmaskdata/pixelsdepth/
 ---
+{{< psd/tize >}}
 ## FilterEffectMaskData.PixelsDepth property
 
-पिक्सल गहराई प्राप्त करता है।
+पिक्सेल गहराई प्राप्त करता है।
 
 ```csharp
 public int PixelsDepth { get; }
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * class [FilterEffectMaskData](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../filtereffectmaskdata/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

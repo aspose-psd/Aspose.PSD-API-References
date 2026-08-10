@@ -1,38 +1,39 @@
 ---
-title: RectangleF.op_Division
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: RectangleF तरक. ऑपरेटर /. लगू करत है
+title: "RectangleF.op_Division"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "RectangleF मेथड। ऑपरेटर / को लागू करता है।"
 type: docs
 weight: 260
 url: /hi/net/aspose.psd/rectanglef/op_division/
 ---
+{{< psd/tize >}}
 ## RectangleF Division operator
 
-ऑपरेटर /. लागू करता है
+ऑपरेटर / को लागू करता है।
 
 ```csharp
 public static RectangleF operator /(RectangleF rectangle, float divider)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| rectangle | RectangleF | आयत। |
-| divider | Single | विभाजक। |
+| आयत | RectangleF | आयत। |
+| विभाजक | Single | विभाजक। |
 
-### प्रतिलाभ की मात्रा
+### रिटर्न वैल्यू
 
 ऑपरेटर का परिणाम।
 
 ### अपवाद
 
-| अपवाद | स्थिति |
+| अपवाद | शर्त |
 | --- | --- |
 | ArgumentOutOfRangeException | विभाजक - शून्य से विभाजन की अनुमति नहीं है। |
 
-### यह सभी देखें
+### देखें भी
 
 * struct [RectangleF](../)
-* नाम स्थान [Aspose.PSD](../../rectanglef/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

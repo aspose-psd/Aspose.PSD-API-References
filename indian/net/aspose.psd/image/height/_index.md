@@ -1,27 +1,28 @@
 ---
-title: Image.Height
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Image संपत्त. छव ऊंचई प्रप्त करत है
+title: "Image.Height"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Image प्रॉपर्टी। छवि की ऊँचाई प्राप्त करता है।"
 type: docs
 weight: 110
 url: /hi/net/aspose.psd/image/height/
 ---
+{{< psd/tize >}}
 ## Image.Height property
 
-छवि ऊंचाई प्राप्त करता है।
+छवि की ऊँचाई प्राप्त करता है।
 
 ```csharp
 public abstract int Height { get; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-छवि ऊंचाई।
+चित्र की ऊँचाई।
 
-### यह सभी देखें
+### देखें भी
 
 * class [Image](../)
-* नाम स्थान [Aspose.PSD](../../image/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

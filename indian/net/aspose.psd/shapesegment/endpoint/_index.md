@@ -1,28 +1,29 @@
 ---
-title: ShapeSegment.EndPoint
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: ShapeSegment संपत्त. अंतम बंदु प्रप्त करत है
+title: "ShapeSegment.EndPoint"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "ShapeSegment प्रॉपर्टी। समाप्ति बिंदु प्राप्त करता है"
 type: docs
 weight: 10
 url: /hi/net/aspose.psd/shapesegment/endpoint/
 ---
+{{< psd/tize >}}
 ## ShapeSegment.EndPoint property
 
-अंतिम बिंदु प्राप्त करता है।
+समाप्ति बिंदु प्राप्त करता है।
 
 ```csharp
 public abstract PointF EndPoint { get; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-समापन बिंदु।
+समाप्ति बिंदु।
 
-### यह सभी देखें
+### देखें भी
 
 * struct [PointF](../../pointf/)
 * class [ShapeSegment](../)
-* नाम स्थान [Aspose.PSD](../../shapesegment/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

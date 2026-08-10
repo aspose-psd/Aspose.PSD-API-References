@@ -1,14 +1,15 @@
 ---
-title: Enum ResolutionUnit
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Aspose.PSD.FileFormats.Psd.Resources.ResolutionEnums.ResolutionUnit एनुम. रज़ल्यूशन जनकर रज़ल्यूशन यूनट
+title: "एनम ResolutionUnit"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Aspose.PSD.FileFormats.Psd.Resources.ResolutionEnums.ResolutionUnit enum. रिज़ॉल्यूशन जानकारी का रिज़ॉल्यूशन यूनिट"
 type: docs
-weight: 3870
+weight: 4340
 url: /hi/net/aspose.psd.fileformats.psd.resources.resolutionenums/resolutionunit/
 ---
+{{< psd/tize >}}
 ## ResolutionUnit enumeration
 
-रिज़ॉल्यूशन जानकारी रिज़ॉल्यूशन यूनिट
+यह resolution info resolution इकाई
 
 ```csharp
 public enum ResolutionUnit
@@ -16,14 +17,14 @@ public enum ResolutionUnit
 
 ### मान
 
-| नाम | कीमत | विवरण |
+| नाम | मान | विवरण |
 | --- | --- | --- |
-| PxPerInch | `1` | पिक्सेल प्रति इंच |
-| PxPerCm | `2` | पिक्सेल प्रति सेमी |
+| PxPerInch | `1` | इंच प्रति पिक्सेल |
+| PxPerCm | `2` | सेमी प्रति पिक्सेल |
 
-### यह सभी देखें
+### देखें भी
 
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Resources.ResolutionEnums](../../aspose.psd.fileformats.psd.resources.resolutionenums/)
-* सभा [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources.ResolutionEnums](../../aspose.psd.fileformats.psd.resources.resolutionenums/)
+* assembly [Aspose.PSD](../../)
 
 

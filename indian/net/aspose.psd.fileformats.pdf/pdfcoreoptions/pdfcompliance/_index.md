@@ -1,28 +1,29 @@
 ---
-title: PdfCoreOptions.PdfCompliance
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: PdfCoreOptions संपत्त. पडएफ अनुपलन प्रप्त य सेट करत है
+title: "PdfCoreOptions.PdfCompliance"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "PdfCoreOptions प्रॉपर्टी। PDF अनुपालन प्राप्त करता है या सेट करता है"
 type: docs
 weight: 60
 url: /hi/net/aspose.psd.fileformats.pdf/pdfcoreoptions/pdfcompliance/
 ---
+{{< psd/tize >}}
 ## PdfCoreOptions.PdfCompliance property
 
-पीडीएफ अनुपालन प्राप्त या सेट करता है।
+PDF अनुपालन को प्राप्त करता है या सेट करता है।
 
 ```csharp
 public PdfComplianceVersion PdfCompliance { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-पीडीएफ अनुपालन।
+PDF अनुपालन।
 
-### यह सभी देखें
+### देखें भी
 
 * enum [PdfComplianceVersion](../../../aspose.psd/pdfcomplianceversion/)
 * class [PdfCoreOptions](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Pdf](../../pdfcoreoptions/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Pdf](../../../aspose.psd.fileformats.pdf/)
+* assembly [Aspose.PSD](../../../)
 
 

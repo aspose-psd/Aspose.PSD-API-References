@@ -1,26 +1,27 @@
 ---
-title: DropShadowEffect.Color
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: DropShadowEffect संपत्त. रंग प्रप्त य सेट करत है
+title: "DropShadowEffect.Color"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "DropShadowEffect प्रॉपर्टी। रंग को प्राप्त करता है या सेट करता है"
 type: docs
 weight: 30
 url: /hi/net/aspose.psd.fileformats.psd.layers.layereffects/dropshadoweffect/color/
 ---
+{{< psd/tize >}}
 ## DropShadowEffect.Color property
 
-रंग प्राप्त या सेट करता है।
+रंग प्राप्त करता है या सेट करता है।
 
 ```csharp
 public Color Color { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-रंग.
+रंग।
 
-### उदाहरण
+## उदाहरण
 
-निम्न कोड DropShadowEffect के अपारदर्शिता गुण का उपयोग करके प्रदर्शित करता है।
+निम्नलिखित कोड DropShadowEffect की Opacity प्रॉपर्टी के उपयोग को दर्शाता है।
 
 ```csharp
 [C#]
@@ -37,21 +38,21 @@ using (PsdImage psdImage = (PsdImage)Image.Load(inputFile, new LoadOptions()))
     dropShadowEffect.Distance = 0;
     dropShadowEffect.Size = 8;
 
-    // उदाहरण अपारदर्शिता = 20 के साथ
+    // उदाहरण Opacity = 20 के साथ
     dropShadowEffect.Opacity = 20;
     psdImage.Save(outputImage20, new PngOptions());
 
-    // उदाहरण अपारदर्शिता = 20 के साथ0
+    // उदाहरण Opacity = 200 के साथ
     dropShadowEffect.Opacity = 200;
     psdImage.Save(outputImage200, new PngOptions());
 }
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * struct [Color](../../../aspose.psd/color/)
 * class [DropShadowEffect](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../dropshadoweffect/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../../)
 
 

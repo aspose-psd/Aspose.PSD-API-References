@@ -1,14 +1,15 @@
 ---
-title: Class BezierKnotRecord
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Aspose.PSD.FileFormats.Core.VectorPaths.BezierKnotRecord कक्ष. बेजयर नट रकर्ड क्लस
+title: "क्लास BezierKnotRecord"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Aspose.PSD.FileFormats.Core.VectorPaths.BezierKnotRecord क्लास। Bezier Knot रिकॉर्ड क्लास जिसका उपयोग संसाधन से Bezier नॉट डेटा को पढ़ने/लिखने के लिए किया जाता है।"
 type: docs
-weight: 1330
+weight: 1340
 url: /hi/net/aspose.psd.fileformats.core.vectorpaths/bezierknotrecord/
 ---
+{{< psd/tize >}}
 ## BezierKnotRecord class
 
-बेजियर नॉट रिकॉर्ड क्लास
+Bezier Knot Record क्लास, रिसोर्स से Bezier नॉट्स डेटा को पढ़ने/लिखने के लिए उपयोग की जाती है।
 
 ```csharp
 public class BezierKnotRecord : VectorPathRecord
@@ -18,23 +19,23 @@ public class BezierKnotRecord : VectorPathRecord
 
 | नाम | विवरण |
 | --- | --- |
-| [BezierKnotRecord](bezierknotrecord/#constructor)() | का एक नया उदाहरण प्रारंभ करता है`BezierKnotRecord` वर्ग. |
-| [BezierKnotRecord](bezierknotrecord/#constructor_1)(byte[]) | का एक नया उदाहरण प्रारंभ करता है`BezierKnotRecord` वर्ग. |
+| [BezierKnotRecord](bezierknotrecord/#constructor)() | `BezierKnotRecord` क्लास की नई इंस्टेंस को प्रारंभ करता है। |
+| [BezierKnotRecord](bezierknotrecord/#constructor_1)(byte[]) | `BezierKnotRecord` क्लास की नई इंस्टेंस को प्रारंभ करता है। |
 
-## गुण
+## प्रॉपर्टीज़
 
 | नाम | विवरण |
 | --- | --- |
-| [IsClosed](../../aspose.psd.fileformats.core.vectorpaths/bezierknotrecord/isclosed/) { get; set; } | एक मान प्राप्त करता है या सेट करता है जो दर्शाता है कि यह उदाहरण बंद है। |
-| [IsLinked](../../aspose.psd.fileformats.core.vectorpaths/bezierknotrecord/islinked/) { get; set; } | एक मान प्राप्त करता है या सेट करता है जो दर्शाता है कि यह उदाहरण जुड़ा हुआ है या नहीं। |
-| [IsOpen](../../aspose.psd.fileformats.core.vectorpaths/bezierknotrecord/isopen/) { get; set; } | एक मान प्राप्त करता है या सेट करता है जो दर्शाता है कि यह उदाहरण खुला है। |
-| [PathPoints](../../aspose.psd.fileformats.core.vectorpaths/bezierknotrecord/pathpoints/) { get; set; } | पथ बिंदुओं को प्राप्त या सेट करता है। |
-| [Points](../../aspose.psd.fileformats.core.vectorpaths/bezierknotrecord/points/) { get; set; } | अंक प्राप्त करता है या सेट करता है। |
+| [IsClosed](../../aspose.psd.fileformats.core.vectorpaths/bezierknotrecord/isclosed/) { get; set; } | यह दर्शाने वाला मान प्राप्त करता है या सेट करता है कि यह इंस्टेंस बंद है या नहीं। |
+| [IsLinked](../../aspose.psd.fileformats.core.vectorpaths/bezierknotrecord/islinked/) { get; set; } | एक मान प्राप्त करता है या सेट करता है जो दर्शाता है कि यह इंस्टेंस लिंक्ड है या नहीं। |
+| [IsOpen](../../aspose.psd.fileformats.core.vectorpaths/bezierknotrecord/isopen/) { get; set; } | एक मान प्राप्त करता है या सेट करता है जो दर्शाता है कि यह इंस्टेंस खुला है या नहीं। |
+| [PathPoints](../../aspose.psd.fileformats.core.vectorpaths/bezierknotrecord/pathpoints/) { get; set; } | पाथ पॉइंट्स को प्राप्त करता है या सेट करता है। |
+| [Points](../../aspose.psd.fileformats.core.vectorpaths/bezierknotrecord/points/) { get; set; } | पॉइंट्स को प्राप्त करता है या सेट करता है। |
 | override [Type](../../aspose.psd.fileformats.core.vectorpaths/bezierknotrecord/type/) { get; } | प्रकार प्राप्त करता है। |
 
-### उदाहरण
+## उदाहरण
 
-निम्न उदाहरण VmskResource संसाधन लोडिंग के समर्थन को प्रदर्शित करता है। रास्तों का संपादन कैसे काम करता है।
+निम्नलिखित उदाहरण VmskResource संसाधन लोडिंग के समर्थन को दर्शाता है। पाथ्स के संपादन का कार्य कैसे करता है।
 
 ```csharp
 [C#]
@@ -48,7 +49,7 @@ public void TestPsdNet106()
     using (im)
     {
         var resource = GetVmskResource(im);
-        // अध्ययन
+        // पढ़ना
         if (resource.IsDisabled != false ||
          resource.IsInverted != false ||
          resource.IsNotLinked != false ||
@@ -66,7 +67,7 @@ public void TestPsdNet106()
         var pathFillRule = (PathFillRuleRecord)resource.Paths[0];
         var initialFillRule = (InitialFillRuleRecord)resource.Paths[1];
         var subpathLength = (LengthRecord)resource.Paths[2];
-        // पथ भरण नियम में कोई अतिरिक्त जानकारी नहीं है
+        // पाथ फ़िल नियम में कोई अतिरिक्त जानकारी नहीं है।
         if (pathFillRule.Type != VectorPathType.PathFillRuleRecord ||
          initialFillRule.Type != VectorPathType.InitialFillRuleRecord ||
          initialFillRule.IsFillStartsWithAllPixels != false ||
@@ -111,7 +112,7 @@ private VmskResource GetVmskResource(PsdImage image)
 }
 ```
 
-निम्न उदाहरण VsmsResource संसाधन लोडिंग के समर्थन को प्रदर्शित करता है। रास्तों का संपादन कैसे काम करता है।
+निम्न उदाहरण VsmsResource रिसोर्स लोडिंग के समर्थन को दर्शाता है। पाथ्स के एडिटिंग का काम कैसे करता है।
 
 ```csharp
 [C#]
@@ -119,14 +120,14 @@ private VmskResource GetVmskResource(PsdImage image)
 [Test]
 public void TestPsdNet140()
 {
-    // वीएसएमएस रिसोर्स सपोर्ट
+    // VsmsResource समर्थन
     string sourceFileName = "EmptyRectangle.psd";
     string exportPath = "EmptyRectangle_changed.psd";
     var im = (PsdImage)Image.Load(sourceFileName);
     using (im)
     {
         var resource = GetVsmsResource(im);
-        // अध्ययन
+        // पढ़ना
         if (resource.IsDisabled != false ||
             resource.IsInverted != false ||
             resource.IsNotLinked != false ||
@@ -146,7 +147,7 @@ public void TestPsdNet140()
         var initialFillRule = (InitialFillRuleRecord)resource.Paths[1];
         var subpathLength = (LengthRecord)resource.Paths[2];
 
-        // पथ भरण नियम में कोई अतिरिक्त जानकारी नहीं है
+        // पाथ फ़िल नियम में कोई अतिरिक्त जानकारी नहीं है।
         if (pathFillRule.Type != VectorPathType.PathFillRuleRecord ||
         initialFillRule.Type != VectorPathType.InitialFillRuleRecord ||
         initialFillRule.IsFillStartsWithAllPixels != false ||
@@ -192,10 +193,10 @@ private VsmsResource GetVsmsResource(PsdImage image)
 }
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * class [VectorPathRecord](../vectorpathrecord/)
-* नाम स्थान [Aspose.PSD.FileFormats.Core.VectorPaths](../../aspose.psd.fileformats.core.vectorpaths/)
-* सभा [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../)
 
 

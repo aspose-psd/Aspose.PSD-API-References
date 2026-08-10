@@ -1,28 +1,29 @@
 ---
-title: IImageExporterDescriptor.CreateInstance
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: IImageExporterDescriptor तरक. एक नय नर्यतक उदहरण बनत है
+title: "IImageExporterDescriptor.CreateInstance"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "IImageExporterDescriptor मेथड। एक नया एक्सपोर्टर इंस्टेंस बनाता है"
 type: docs
 weight: 20
 url: /hi/net/aspose.psd/iimageexporterdescriptor/createinstance/
 ---
+{{< psd/tize >}}
 ## IImageExporterDescriptor.CreateInstance method
 
-एक नया निर्यातक उदाहरण बनाता है।
+एक नया एक्सपोर्टर इंस्टेंस बनाता है।
 
 ```csharp
 public IImageExporter CreateInstance()
 ```
 
-### प्रतिलाभ की मात्रा
+### रिटर्न वैल्यू
 
-एक नया निर्यातक उदाहरण।
+एक नया एक्सपोर्टर इंस्टेंस।
 
-### यह सभी देखें
+### देखें भी
 
 * interface [IImageExporter](../../iimageexporter/)
 * interface [IImageExporterDescriptor](../)
-* नाम स्थान [Aspose.PSD](../../iimageexporterdescriptor/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

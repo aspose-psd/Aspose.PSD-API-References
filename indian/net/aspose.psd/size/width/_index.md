@@ -1,23 +1,24 @@
 ---
-title: Size.Width
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Size संपत्त. इसके क्षैतज घटक क प्रप्त य सेट करत हैSize .
+title: "Size.Width"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Size प्रॉपर्टी। इस Size का क्षैतिज घटक प्राप्त करता है या सेट करता है।"
 type: docs
 weight: 100
 url: /hi/net/aspose.psd/size/width/
 ---
+{{< psd/tize >}}
 ## Size.Width property
 
-इसके क्षैतिज घटक को प्राप्त या सेट करता है[`Size`](../) .
+इस [`Size`](../) का क्षैतिज घटक प्राप्त करता है या सेट करता है।
 
 ```csharp
 public int Width { get; set; }
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * struct [Size](../)
-* नाम स्थान [Aspose.PSD](../../size/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

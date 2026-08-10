@@ -1,24 +1,25 @@
 ---
-title: PdfOptions.PdfCoreOptions
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: PdfOptions संपत्त. पडएफ कर वकल्प
+title: "PdfOptions.PdfCoreOptions"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "PdfOptions प्रॉपर्टी। PDF कोर विकल्प"
 type: docs
 weight: 30
 url: /hi/net/aspose.psd.imageoptions/pdfoptions/pdfcoreoptions/
 ---
+{{< psd/tize >}}
 ## PdfOptions.PdfCoreOptions property
 
-पीडीएफ कोर विकल्प
+PDF कोर विकल्प
 
 ```csharp
 public PdfCoreOptions PdfCoreOptions { get; set; }
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * class [PdfCoreOptions](../../../aspose.psd.fileformats.pdf/pdfcoreoptions/)
 * class [PdfOptions](../)
-* नाम स्थान [Aspose.PSD.ImageOptions](../../pdfoptions/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

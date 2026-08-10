@@ -1,27 +1,28 @@
 ---
-title: RasterImage.PremultiplyComponents
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: RasterImage संपत्त. एक मन प्रप्त करत है य सेट करत है ज इंगत करत है क छव घटकं क पूर्वगुण कय जन चहए
+title: "RasterImage.PremultiplyComponents"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "RasterImage प्रॉपर्टी। एक मान प्राप्त या सेट करता है जो दर्शाता है कि छवि घटकों को पूर्व-गुणा किया जाना चाहिए या नहीं।"
 type: docs
 weight: 60
 url: /hi/net/aspose.psd/rasterimage/premultiplycomponents/
 ---
+{{< psd/tize >}}
 ## RasterImage.PremultiplyComponents property
 
-एक मान प्राप्त करता है या सेट करता है जो इंगित करता है कि छवि घटकों को पूर्व-गुणा किया जाना चाहिए।
+एक मान प्राप्त करता है या सेट करता है जो दर्शाता है कि छवि घटकों को पूर्व-गुणा किया जाना चाहिए या नहीं।
 
 ```csharp
 public virtual bool PremultiplyComponents { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-`सत्य` यदि छवि घटकों को पूर्व-गुणित किया जाना चाहिए; अन्यथा,`असत्य` .
+`true` यदि छवि घटकों को पूर्व-गुणा किया जाना चाहिए; अन्यथा, `false`।
 
-### यह सभी देखें
+### देखें भी
 
 * class [RasterImage](../)
-* नाम स्थान [Aspose.PSD](../../rasterimage/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

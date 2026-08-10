@@ -1,74 +1,75 @@
 ---
-title: XmpInteger.XmpInteger
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: XmpInteger नर्मत. क एक नय उदहरण प्ररंभ करत हैXmpInteger वर्ग.
+title: "XmpInteger.XmpInteger"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "XmpInteger कंस्ट्रक्टर। XmpInteger क्लास का नया इंस्टेंस इनिशियलाइज़ करता है"
 type: docs
 weight: 10
 url: /hi/net/aspose.psd.xmp.types.basic/xmpinteger/xmpinteger/
 ---
+{{< psd/tize >}}
 ## XmpInteger(long) {#constructor_1}
 
-का एक नया उदाहरण प्रारंभ करता है[`XmpInteger`](../) वर्ग.
+[`XmpInteger`](../) क्लास का नया इंस्टेंस इनिशियलाइज़ करता है।
 
 ```csharp
 public XmpInteger(long value)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| value | Int64 | मूल्य। |
+| मान | Int64 | मान। |
 
-### यह सभी देखें
+### देखें भी
 
 * class [XmpInteger](../)
-* नाम स्थान [Aspose.PSD.Xmp.Types.Basic](../../xmpinteger/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Basic](../../../aspose.psd.xmp.types.basic/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## XmpInteger(int) {#constructor}
 
-का एक नया उदाहरण प्रारंभ करता है[`XmpInteger`](../) वर्ग.
+[`XmpInteger`](../) क्लास का नया इंस्टेंस इनिशियलाइज़ करता है।
 
 ```csharp
 public XmpInteger(int value)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| value | Int32 | मूल्य। |
+| मान | Int32 | मान। |
 
-### यह सभी देखें
+### देखें भी
 
 * class [XmpInteger](../)
-* नाम स्थान [Aspose.PSD.Xmp.Types.Basic](../../xmpinteger/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Basic](../../../aspose.psd.xmp.types.basic/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## XmpInteger(string) {#constructor_2}
 
-का एक नया उदाहरण प्रारंभ करता है[`XmpInteger`](../) वर्ग.
+[`XmpInteger`](../) क्लास का नया इंस्टेंस इनिशियलाइज़ करता है।
 
 ```csharp
 public XmpInteger(string value)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| value | String | मूल्य। |
+| मान | String | मान। |
 
 ### अपवाद
 
-| अपवाद | स्थिति |
+| अपवाद | शर्त |
 | --- | --- |
-| ArgumentNullException | मान शून्य है। |
-| ArgumentException | अमान्य स्ट्रिंग मान; मान |
+| ArgumentNullException | मान null है। |
+| ArgumentException | अमान्य स्ट्रिंग मान;value |
 
-### यह सभी देखें
+### देखें भी
 
 * class [XmpInteger](../)
-* नाम स्थान [Aspose.PSD.Xmp.Types.Basic](../../xmpinteger/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Basic](../../../aspose.psd.xmp.types.basic/)
+* assembly [Aspose.PSD](../../../)
 
 

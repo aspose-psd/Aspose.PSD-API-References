@@ -1,23 +1,24 @@
 ---
-title: LayerSectionResource.Key
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: LayerSectionResource संपत्त. परत संसधन कुंज प्रप्त करत है.
+title: "LayerSectionResource.Key"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "LayerSectionResource प्रॉपर्टी। लेयर रिसोर्स कुंजी प्राप्त करता है"
 type: docs
 weight: 30
 url: /hi/net/aspose.psd.fileformats.psd.layers.layerresources/layersectionresource/key/
 ---
+{{< psd/tize >}}
 ## LayerSectionResource.Key property
 
-परत संसाधन कुंजी प्राप्त करता है.
+लेयर रिसोर्स कुंजी प्राप्त करता है।
 
 ```csharp
 public override int Key { get; }
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * class [LayerSectionResource](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../layersectionresource/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

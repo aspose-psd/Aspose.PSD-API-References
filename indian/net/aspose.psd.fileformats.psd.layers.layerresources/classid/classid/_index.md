@@ -1,119 +1,120 @@
 ---
-title: ClassID.ClassID
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: ClassID नर्मत. क एक नय उदहरण प्ररंभ करत हैClassID वर्ग.
+title: "ClassID.ClassID"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "ClassID कंस्ट्रक्टर। ClassID क्लास का नया उदाहरण प्रारंभ करता है"
 type: docs
 weight: 10
 url: /hi/net/aspose.psd.fileformats.psd.layers.layerresources/classid/classid/
 ---
+{{< psd/tize >}}
 ## ClassID(byte[]) {#constructor}
 
-का एक नया उदाहरण प्रारंभ करता है[`ClassID`](../) वर्ग.
+एक नया उदाहरण प्रारंभ करता है [`ClassID`](../) क्लास का।
 
 ```csharp
 public ClassID(byte[] classID)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| classID | Byte[] | वर्ग आईडी बाइट्स की श्रृंखला के रूप में। |
+| classID | Byte[] | क्लास ID बाइट्स की श्रृंखला के रूप में। |
 
-### यह सभी देखें
+### देखें भी
 
 * class [ClassID](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../classid/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## ClassID(byte[], bool) {#constructor_1}
 
-का एक नया उदाहरण प्रारंभ करता है[`ClassID`](../) वर्ग.
+एक नया उदाहरण प्रारंभ करता है [`ClassID`](../) क्लास का।
 
 ```csharp
 public ClassID(byte[] classID, bool isZeroLength)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| classID | Byte[] | वर्ग आईडी बाइट्स की श्रृंखला के रूप में। |
-| isZeroLength | Boolean | अगर सेट है`सत्य` [शून्य लंबाई है]. रिकॉर्ड की गई स्ट्रिंग लंबाई शून्य है लेकिन वास्तविक चार है. |
+| classID | Byte[] | क्लास ID बाइट्स की श्रृंखला के रूप में। |
+| isZeroLength | बूलियन | यदि `true` पर सेट किया गया है [शून्य लंबाई है]। दर्ज किया गया स्ट्रिंग लंबाई शून्य है लेकिन वास्तविक चार है। |
 
 ### अपवाद
 
-| अपवाद | स्थिति |
+| अपवाद | शर्त |
 | --- | --- |
-| ArgumentNullException | क्लासआईडी शून्य है। |
+| ArgumentNullException | classID शून्य है। |
 
-### यह सभी देखें
+### देखें भी
 
 * class [ClassID](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../classid/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## ClassID(int) {#constructor_2}
 
-का एक नया उदाहरण प्रारंभ करता है[`ClassID`](../) वर्ग.
+एक नया उदाहरण प्रारंभ करता है [`ClassID`](../) क्लास का।
 
 ```csharp
 public ClassID(int classID)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| classID | Int32 | कक्षा आईडी। |
+| classID | Int32 | क्लास आईडी। |
 
-### यह सभी देखें
+### देखें भी
 
 * class [ClassID](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../classid/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## ClassID(uint) {#constructor_5}
 
-का एक नया उदाहरण प्रारंभ करता है[`ClassID`](../) वर्ग.
+एक नया उदाहरण प्रारंभ करता है [`ClassID`](../) क्लास का।
 
 ```csharp
 public ClassID(uint classID)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| classID | UInt32 | कक्षा आईडी। |
+| classID | UInt32 | क्लास आईडी। |
 
-### यह सभी देखें
+### देखें भी
 
 * class [ClassID](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../classid/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## ClassID(string, bool) {#constructor_4}
 
-का एक नया उदाहरण प्रारंभ करता है[`ClassID`](../) वर्ग.
+एक नया उदाहरण प्रारंभ करता है [`ClassID`](../) क्लास का।
 
 ```csharp
 public ClassID(string classID, bool isZeroLength)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| classID | String | ASCII एन्कोडिंग में वर्ग आईडी। |
-| isZeroLength | Boolean | अगर सेट है`सत्य` [शून्य लंबाई है]। |
+| classID | String | ASCII एन्कोडिंग में क्लास ID। |
+| isZeroLength | बूलियन | यदि `true` पर सेट किया गया है [शून्य लंबाई है]। |
 
-### उदाहरण
+## उदाहरण
 
-यह उदाहरण दर्शाता है कि एक छवि से आयात की गई परत, स्मार्ट ऑब्जेक्ट परत में परिवर्तित हो जाती है और सहेजी गई PSD फ़ाइल सही है।
+यह उदाहरण दर्शाता है कि छवि से आयात किया गया लेयर स्मार्ट ऑब्जेक्ट लेयर में परिवर्तित हो जाता है और सहेजी गई PSD फ़ाइल सही है।
 
 ```csharp
 [C#]
 
-// परीक्षण करता है कि एक छवि से आयातित परत, स्मार्ट ऑब्जेक्ट परत में परिवर्तित हो जाती है और सहेजी गई PSD फ़ाइल सही है।
+// परीक्षण करता है कि छवि से आयात किया गया लेयर स्मार्ट ऑब्जेक्ट लेयर में परिवर्तित हो जाता है और सहेजी गई PSD फ़ाइल सही है।
 
 string outputFilePath = outputFolder + Path.DirectorySeparatorChar + "layerTest2.psd";
 string outputPngFilePath = Path.ChangeExtension(outputFilePath, ".png");
@@ -152,30 +153,30 @@ using (PsdImage image = (PsdImage)Image.Load(baseFolder + Path.DirectorySeparato
 }
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * class [ClassID](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../classid/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## ClassID(string) {#constructor_3}
 
-का एक नया उदाहरण प्रारंभ करता है[`ClassID`](../) वर्ग.
+एक नया उदाहरण प्रारंभ करता है [`ClassID`](../) क्लास का।
 
 ```csharp
 public ClassID(string classID)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| classID | String | ASCII एन्कोडिंग में वर्ग आईडी। |
+| classID | String | ASCII एन्कोडिंग में क्लास ID। |
 
-### यह सभी देखें
+### देखें भी
 
 * class [ClassID](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../classid/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

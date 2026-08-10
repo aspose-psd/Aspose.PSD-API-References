@@ -1,11 +1,12 @@
 ---
-title: LnsrResource.Data
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: LnsrResource संपत्त. कच्च डेट प्रप्त करत है
+title: "LnsrResource.Data"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "LnsrResource प्रॉपर्टी। कच्चा डेटा प्राप्त करता है"
 type: docs
 weight: 20
 url: /hi/net/aspose.psd.fileformats.psd.layers.layerresources/lnsrresource/data/
 ---
+{{< psd/tize >}}
 ## LnsrResource.Data property
 
 कच्चा डेटा प्राप्त करता है।
@@ -14,14 +15,14 @@ url: /hi/net/aspose.psd.fileformats.psd.layers.layerresources/lnsrresource/data/
 public byte[] Data { get; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-डेटा.
+डेटा।
 
-### यह सभी देखें
+### देखें भी
 
 * class [LnsrResource](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../lnsrresource/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

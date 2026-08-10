@@ -1,24 +1,25 @@
 ---
-title: SmartFilter.BlendMode
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: SmartFilter संपत्त. सम्मश्रण मड प्रप्त य सेट करत है
+title: "SmartFilter.BlendMode"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "SmartFilter प्रॉपर्टी। ब्लेंडिंग मोड को प्राप्त या सेट करता है"
 type: docs
 weight: 20
 url: /hi/net/aspose.psd.fileformats.psd.layers.smartfilters/smartfilter/blendmode/
 ---
+{{< psd/tize >}}
 ## SmartFilter.BlendMode property
 
-सम्मिश्रण मोड प्राप्त या सेट करता है।
+ब्लेंडिंग मोड प्राप्त करता है या सेट करता है।
 
 ```csharp
 public BlendMode BlendMode { get; set; }
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * enum [BlendMode](../../../aspose.psd.fileformats.core.blending/blendmode/)
 * class [SmartFilter](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.SmartFilters](../../smartfilter/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.SmartFilters](../../../aspose.psd.fileformats.psd.layers.smartfilters/)
+* assembly [Aspose.PSD](../../../)
 
 

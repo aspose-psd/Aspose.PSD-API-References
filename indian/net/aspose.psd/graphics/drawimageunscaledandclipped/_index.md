@@ -1,36 +1,37 @@
 ---
-title: Graphics.DrawImageUnscaledAndClipped
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Graphics तरक. नर्दष्ट छव क बन स्केल कए बनत है और नर्दष्ट आयत में फट हने के लए यद आवश्यक ह त इसे क्लप करत है
+title: "Graphics.DrawImageUnscaledAndClipped"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Graphics मेथड। निर्दिष्ट छवि को बिना स्केल किए ड्रॉ करता है और यदि आवश्यक हो तो इसे निर्दिष्ट आयत में फिट करने के लिए क्लिप करता है।"
 type: docs
-weight: 240
+weight: 250
 url: /hi/net/aspose.psd/graphics/drawimageunscaledandclipped/
 ---
+{{< psd/tize >}}
 ## Graphics.DrawImageUnscaledAndClipped method
 
-निर्दिष्ट छवि को बिना स्केल किए बनाता है और निर्दिष्ट आयत में फिट होने के लिए, यदि आवश्यक हो, तो इसे क्लिप करता है।
+निर्दिष्ट छवि को बिना स्केलिंग के बनाता है और यदि आवश्यक हो तो उसे क्लिप करता है, ताकि वह निर्दिष्ट आयत में फिट हो सके।
 
 ```csharp
 public void DrawImageUnscaledAndClipped(Image sourceImage, Rectangle rect)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| sourceImage | Image | चित्र बनाने के लिए। |
-| rect | Rectangle | [`Rectangle`](../../rectangle/) जिसमें चित्र बनाना है। |
+| sourceImage | छवि | खींचने के लिए छवि। |
+| rect | Rectangle | जिस [`Rectangle`](../../rectangle/) में छवि को ड्रॉ किया जाता है। |
 
 ### अपवाद
 
-| अपवाद | स्थिति |
+| अपवाद | शर्त |
 | --- | --- |
 | ArgumentNullException | *sourceImage* शून्य है। |
 
-### यह सभी देखें
+### देखें भी
 
 * class [Image](../../image/)
 * struct [Rectangle](../../rectangle/)
 * class [Graphics](../)
-* नाम स्थान [Aspose.PSD](../../graphics/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

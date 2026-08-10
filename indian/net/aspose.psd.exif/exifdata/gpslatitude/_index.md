@@ -1,28 +1,29 @@
 ---
-title: ExifData.GPSLatitude
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: ExifData संपत्त. GPS अक्षंश प्रप्त य सेट करत है
+title: "ExifData.GPSLatitude"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "ExifData प्रॉपर्टी. GPS अक्षांश प्राप्त करता है या सेट करता है"
 type: docs
 weight: 520
 url: /hi/net/aspose.psd.exif/exifdata/gpslatitude/
 ---
+{{< psd/tize >}}
 ## ExifData.GPSLatitude property
 
-GPS अक्षांश प्राप्त या सेट करता है।
+GPS अक्षांश को प्राप्त करता है या सेट करता है।
 
 ```csharp
 public TiffRational[] GPSLatitude { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-जीपीएस अक्षांश।
+GPS अक्षांश।
 
-### यह सभी देखें
+### देखें भी
 
 * class [TiffRational](../../../aspose.psd.fileformats.tiff/tiffrational/)
 * class [ExifData](../)
-* नाम स्थान [Aspose.PSD.Exif](../../exifdata/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

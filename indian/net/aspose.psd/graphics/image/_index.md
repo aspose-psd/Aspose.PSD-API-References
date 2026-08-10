@@ -1,28 +1,29 @@
 ---
-title: Graphics.Image
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Graphics संपत्त. छव प्रप्त करत है
+title: "Graphics.Image"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Graphics प्रॉपर्टी। इमेज प्राप्त करता है।"
 type: docs
 weight: 60
 url: /hi/net/aspose.psd/graphics/image/
 ---
+{{< psd/tize >}}
 ## Graphics.Image property
 
-छवि प्राप्त करता है।
+इमेज प्राप्त करता है।
 
 ```csharp
 public Image Image { get; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-ग्राफिक छवि।
+ग्राफ़िक्स इमेज।
 
-### यह सभी देखें
+### देखें भी
 
 * class [Image](../../image/)
 * class [Graphics](../)
-* नाम स्थान [Aspose.PSD](../../graphics/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

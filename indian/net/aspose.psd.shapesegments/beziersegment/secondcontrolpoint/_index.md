@@ -1,28 +1,29 @@
 ---
-title: BezierSegment.SecondControlPoint
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: BezierSegment संपत्त. बेज़यर स्पलइन क दूसर नयंत्रण बंदु प्रप्त करत है
+title: "BezierSegment.SecondControlPoint"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "BezierSegment प्रॉपर्टी। एक बीज़ियर स्प्लाइन का दूसरा कंट्रोल पॉइंट प्राप्त करता है"
 type: docs
 weight: 30
 url: /hi/net/aspose.psd.shapesegments/beziersegment/secondcontrolpoint/
 ---
+{{< psd/tize >}}
 ## BezierSegment.SecondControlPoint property
 
-बेज़ियर स्पलाइन का दूसरा नियंत्रण बिंदु प्राप्त करता है।
+बेज़ियर स्प्लाइन का दूसरा नियंत्रण बिंदु प्राप्त करता है।
 
 ```csharp
 public PointF SecondControlPoint { get; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-दूसरा नियंत्रण बिंदु।
+दूसरा कंट्रोल पॉइंट।
 
-### यह सभी देखें
+### देखें भी
 
 * struct [PointF](../../../aspose.psd/pointf/)
 * class [BezierSegment](../)
-* नाम स्थान [Aspose.PSD.ShapeSegments](../../beziersegment/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ShapeSegments](../../../aspose.psd.shapesegments/)
+* assembly [Aspose.PSD](../../../)
 
 

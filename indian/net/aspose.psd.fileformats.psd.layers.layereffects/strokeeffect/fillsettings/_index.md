@@ -1,28 +1,29 @@
 ---
-title: StrokeEffect.FillSettings
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: StrokeEffect संपत्त. भरण सेटंग्स प्रप्त य सेट करत है
+title: "StrokeEffect.FillSettings"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "StrokeEffect प्रॉपर्टी। भराव सेटिंग्स प्राप्त करता है या सेट करता है"
 type: docs
 weight: 30
 url: /hi/net/aspose.psd.fileformats.psd.layers.layereffects/strokeeffect/fillsettings/
 ---
+{{< psd/tize >}}
 ## StrokeEffect.FillSettings property
 
-भरण सेटिंग्स प्राप्त या सेट करता है।
+Fill सेटिंग्स को प्राप्त करता या सेट करता है।
 
 ```csharp
 public BaseFillSettings FillSettings { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-भरण सेटिंग.
+भराव सेटिंग्स।
 
-### यह सभी देखें
+### देखें भी
 
 * class [BaseFillSettings](../../../aspose.psd.fileformats.psd.layers.fillsettings/basefillsettings/)
 * class [StrokeEffect](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../strokeeffect/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../../)
 
 

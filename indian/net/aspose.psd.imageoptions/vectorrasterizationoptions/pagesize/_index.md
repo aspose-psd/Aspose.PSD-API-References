@@ -1,24 +1,25 @@
 ---
-title: VectorRasterizationOptions.PageSize
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: VectorRasterizationOptions संपत्त. पृष्ठ आकर प्रप्त य सेट करत है
+title: "VectorRasterizationOptions.PageSize"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "VectorRasterizationOptions प्रॉपर्टी। पृष्ठ आकार प्राप्त करता है या सेट करता है"
 type: docs
 weight: 70
 url: /hi/net/aspose.psd.imageoptions/vectorrasterizationoptions/pagesize/
 ---
+{{< psd/tize >}}
 ## VectorRasterizationOptions.PageSize property
 
-पृष्ठ आकार प्राप्त या सेट करता है।
+प्राप्त करता है या सेट करता है पृष्ठ आकार।
 
 ```csharp
 public SizeF PageSize { get; set; }
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * struct [SizeF](../../../aspose.psd/sizef/)
 * class [VectorRasterizationOptions](../)
-* नाम स्थान [Aspose.PSD.ImageOptions](../../vectorrasterizationoptions/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

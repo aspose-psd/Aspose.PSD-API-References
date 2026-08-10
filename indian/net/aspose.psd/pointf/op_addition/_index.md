@@ -1,59 +1,60 @@
 ---
-title: PointF.op_Addition
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: PointF तरक. अनुवद करत हैPointF एक दए गए द्वरSize .
+title: "PointF.op_Addition"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "PointF मेथड। एक दिए गए Size द्वारा PointF को ट्रांसलेट करता है।"
 type: docs
 weight: 110
 url: /hi/net/aspose.psd/pointf/op_addition/
 ---
+{{< psd/tize >}}
 ## operator + {#op_addition}
 
-अनुवाद करता है[`PointF`](../) एक दिए गए द्वारा[`Size`](../../size/) .
+एक [`PointF`](../) को दिए गए [`Size`](../../size/) द्वारा ट्रांसलेट करता है।
 
 ```csharp
 public static PointF operator +(PointF point, Size size)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| point | PointF | [`PointF`](../) अनुवाद करने के लिए। |
-| size | Size | ए[`Size`](../../size/) के निर्देशांक में जोड़ने के लिए संख्याओं की जोड़ी निर्दिष्ट करता है*point*. |
+| point | PointF | ट्रांसलेट करने के लिए [`PointF`](../)। |
+| size | Size | एक [`Size`](../../size/) जो *point* के निर्देशांक में जोड़ने के लिए दो संख्याओं की जोड़ी निर्दिष्ट करता है। |
 
-### प्रतिलाभ की मात्रा
+### रिटर्न वैल्यू
 
-अनुवादित लौटाता है[`PointF`](../).
+ट्रांसलेट किए गए [`PointF`](../) को लौटाता है।
 
-### यह सभी देखें
+### देखें भी
 
 * struct [Size](../../size/)
 * struct [PointF](../)
-* नाम स्थान [Aspose.PSD](../../pointf/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## operator + {#op_addition_1}
 
-अनुवाद करता है[`PointF`](../) निर्दिष्ट द्वारा[`SizeF`](../../sizef/) .
+निर्दिष्ट [`SizeF`](../../sizef/) द्वारा [`PointF`](../) को ट्रांसलेट करता है।
 
 ```csharp
 public static PointF operator +(PointF point, SizeF size)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| point | PointF | [`PointF`](../) अनुवाद करने के लिए। |
-| size | SizeF | [`SizeF`](../../sizef/) जो x- और y-निर्देशांकों में जोड़ने के लिए संख्याओं को निर्दिष्ट करता है*point*. |
+| point | PointF | ट्रांसलेट करने के लिए [`PointF`](../)। |
+| size | SizeF | वह [`SizeF`](../../sizef/) जो *point* के x- और y-निर्देशांक में जोड़ने के लिए संख्याएँ निर्दिष्ट करता है। |
 
-### प्रतिलाभ की मात्रा
+### रिटर्न वैल्यू
 
-अनुवादित[`PointF`](../).
+ट्रांसलेट किया गया [`PointF`](../)।
 
-### यह सभी देखें
+### देखें भी
 
 * struct [SizeF](../../sizef/)
 * struct [PointF](../)
-* नाम स्थान [Aspose.PSD](../../pointf/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

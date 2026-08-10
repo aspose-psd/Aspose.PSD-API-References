@@ -1,23 +1,24 @@
 ---
-title: JpegOptions.ScaledQuality
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: JpegOptions संपत्त. मप गई गुणवत्त.
+title: "JpegOptions.ScaledQuality"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "JpegOptions प्रॉपर्टी। स्केल्ड क्वालिटी"
 type: docs
-weight: 190
+weight: 200
 url: /hi/net/aspose.psd.imageoptions/jpegoptions/scaledquality/
 ---
+{{< psd/tize >}}
 ## JpegOptions.ScaledQuality property
 
-मापी गई गुणवत्ता.
+स्केल्ड गुणवत्ता।
 
 ```csharp
 public int ScaledQuality { get; }
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * class [JpegOptions](../)
-* नाम स्थान [Aspose.PSD.ImageOptions](../../jpegoptions/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

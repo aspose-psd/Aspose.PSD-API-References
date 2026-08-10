@@ -1,27 +1,28 @@
 ---
-title: CmykMixerChannel.Yellow
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: CmykMixerChannel संपत्त. पल ह जत है य सेट ह जत है
+title: "CmykMixerChannel.Yellow"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "CmykMixerChannel प्रॉपर्टी। yellow प्राप्त करता है या सेट करता है।"
 type: docs
 weight: 50
 url: /hi/net/aspose.psd.fileformats.psd.layers.adjustmentlayers/cmykmixerchannel/yellow/
 ---
+{{< psd/tize >}}
 ## CmykMixerChannel.Yellow property
 
-पीला हो जाता है या सेट हो जाता है।
+पीले को प्राप्त करता है या सेट करता है।
 
 ```csharp
 public short Yellow { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-पीला।
+yellow।
 
-### यह सभी देखें
+### देखें भी
 
 * class [CmykMixerChannel](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../cmykmixerchannel/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/)
+* assembly [Aspose.PSD](../../../)
 
 

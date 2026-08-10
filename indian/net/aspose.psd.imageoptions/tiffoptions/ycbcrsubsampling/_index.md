@@ -1,34 +1,35 @@
 ---
-title: TiffOptions.YCbCrSubsampling
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: TiffOptions संपत्त. वईसबसआर फटमेट्रक के लए सबसैंपलंग करक प्रप्त य सेट करत है
+title: "TiffOptions.YCbCrSubsampling"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "TiffOptions प्रॉपर्टी। YCbCr फोटोमेट्रिक के लिए सबसैंपलिंग फैक्टर्स को प्राप्त करता है या सेट करता है।"
 type: docs
-weight: 670
+weight: 680
 url: /hi/net/aspose.psd.imageoptions/tiffoptions/ycbcrsubsampling/
 ---
+{{< psd/tize >}}
 ## TiffOptions.YCbCrSubsampling property
 
-वाईसीबीसीआर फोटोमेट्रिक के लिए सबसैंपलिंग कारक प्राप्त या सेट करता है।
+YCbCr फोटोमेट्रिक के लिए सबसैंपलिंग फैक्टर्स प्राप्त करता है या सेट करता है।
 
 ```csharp
 public ushort[] YCbCrSubsampling { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-वाईसीबीसीआर फोटोमेट्रिक के लिए सबसैंपलिंग कारक।
+YCbCr फोटोमेट्रिक के सबसैंपलिंग फैक्टर्स।
 
 ### अपवाद
 
-| अपवाद | स्थिति |
+| अपवाद | शर्त |
 | --- | --- |
-| [TiffImageException](../../../aspose.psd.coreexceptions.imageformats/tiffimageexception/) | अमान्य फ़ील्ड लंबाई। YCbCr सबसैंपलिंग फ़ील्ड में दो मान होने चाहिए. |
-| ArgumentNullException | कीमत |
+| [TiffImageException](../../../aspose.psd.coreexceptions.imageformats/tiffimageexception/) | अमान्य फ़ील्ड लंबाई। YCbCrSubsampling फ़ील्ड में दो मान होने चाहिए। |
+| ArgumentNullException | मान |
 
-### यह सभी देखें
+### देखें भी
 
 * class [TiffOptions](../)
-* नाम स्थान [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

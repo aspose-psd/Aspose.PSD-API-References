@@ -1,23 +1,24 @@
 ---
-title: Layer.Length
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Layer संपत्त. बइट में परत क कुल लंबई प्रप्त करत है.
+title: "Layer.Length"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Layer property. कुल लेयर लंबाई बाइट्स में प्राप्त करता है"
 type: docs
-weight: 250
+weight: 260
 url: /hi/net/aspose.psd.fileformats.psd.layers/layer/length/
 ---
+{{< psd/tize >}}
 ## Layer.Length property
 
-बाइट में परत की कुल लंबाई प्राप्त करता है.
+बाइट्स में कुल लेयर लंबाई प्राप्त करता है।
 
 ```csharp
-public int Length { get; }
+public long Length { get; }
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * class [Layer](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers](../../layer/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

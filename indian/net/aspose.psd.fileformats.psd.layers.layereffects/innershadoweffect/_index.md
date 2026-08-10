@@ -1,38 +1,45 @@
 ---
-title: Class InnerShadowEffect
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerEffects.InnerShadowEffect कक्ष. आंतरक छय परत प्रभव
+title: "क्लास InnerShadowEffect"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Aspose.PSD.FileFormats.Psd.Layers.LayerEffects.InnerShadowEffect क्लास। इंटीरियर शैडो लेयर इफ़ेक्ट"
 type: docs
-weight: 2160
+weight: 2350
 url: /hi/net/aspose.psd.fileformats.psd.layers.layereffects/innershadoweffect/
 ---
+{{< psd/tize >}}
 ## InnerShadowEffect class
 
-आंतरिक छाया परत प्रभाव
+इनर शैडो लेयर इफ़ेक्ट
 
 ```csharp
 public class InnerShadowEffect : IShadowEffect
 ```
 
-## गुण
+## प्रॉपर्टीज़
 
 | नाम | विवरण |
 | --- | --- |
-| [Angle](../../aspose.psd.fileformats.psd.layers.layereffects/innershadoweffect/angle/) { get; set; } | कोण को डिग्री में प्राप्त या सेट करता है। |
-| [BlendMode](../../aspose.psd.fileformats.psd.layers.layereffects/innershadoweffect/blendmode/) { get; set; } | ब्लेंड मोड प्राप्त या सेट करता है। |
-| [Color](../../aspose.psd.fileformats.psd.layers.layereffects/innershadoweffect/color/) { get; set; } | रंग प्राप्त या सेट करता है। |
-| [Distance](../../aspose.psd.fileformats.psd.layers.layereffects/innershadoweffect/distance/) { get; set; } | पिक्सेल में दूरी प्राप्त या सेट करता है। |
-| [EffectType](../../aspose.psd.fileformats.psd.layers.layereffects/innershadoweffect/effecttype/) { get; } | एक प्रकार का प्रभाव प्राप्त करता है |
-| [IsVisible](../../aspose.psd.fileformats.psd.layers.layereffects/innershadoweffect/isvisible/) { get; set; } | एक मान प्राप्त करता है या सेट करता है जो दर्शाता है कि यह उदाहरण दृश्यमान है या नहीं। |
-| [Noise](../../aspose.psd.fileformats.psd.layers.layereffects/innershadoweffect/noise/) { get; set; } | शोर प्राप्त करता है या सेट करता है। |
-| [Opacity](../../aspose.psd.fileformats.psd.layers.layereffects/innershadoweffect/opacity/) { get; set; } | अस्पष्टता प्राप्त या सेट करता है। |
-| [Size](../../aspose.psd.fileformats.psd.layers.layereffects/innershadoweffect/size/) { get; set; } | ब्लर मान पिक्सेल में प्राप्त या सेट करता है. |
-| [Spread](../../aspose.psd.fileformats.psd.layers.layereffects/innershadoweffect/spread/) { get; set; } | स्प्रेड (चोक) को प्रतिशत के रूप में प्राप्त या सेट करता है। |
-| [UseGlobalLight](../../aspose.psd.fileformats.psd.layers.layereffects/innershadoweffect/usegloballight/) { get; set; } | एक मान प्राप्त करता है या सेट करता है जो इंगित करता है कि क्या [सभी परत प्रभावों में इस कोण का उपयोग करें]. |
+| [Angle](../../aspose.psd.fileformats.psd.layers.layereffects/innershadoweffect/angle/) { get; set; } | डिग्री में कोण को प्राप्त करता है या सेट करता है। |
+| [BlendMode](../../aspose.psd.fileformats.psd.layers.layereffects/innershadoweffect/blendmode/) { get; set; } | ब्लेंड मोड को प्राप्त करता है या सेट करता है। |
+| [Color](../../aspose.psd.fileformats.psd.layers.layereffects/innershadoweffect/color/) { get; set; } | रंग प्राप्त करता है या सेट करता है। |
+| [Distance](../../aspose.psd.fileformats.psd.layers.layereffects/innershadoweffect/distance/) { get; set; } | पिक्सेल में दूरी को प्राप्त करता है या सेट करता है। |
+| [EffectType](../../aspose.psd.fileformats.psd.layers.layereffects/innershadoweffect/effecttype/) { get; } | इफ़ेक्ट का प्रकार प्राप्त करता है। |
+| [IsVisible](../../aspose.psd.fileformats.psd.layers.layereffects/innershadoweffect/isvisible/) { get; set; } | एक मान को प्राप्त करता है या सेट करता है जो यह दर्शाता है कि यह इंस्टेंस दृश्यमान है या नहीं। |
+| [Noise](../../aspose.psd.fileformats.psd.layers.layereffects/innershadoweffect/noise/) { get; set; } | शोर को प्राप्त करता है या सेट करता है। |
+| [Opacity](../../aspose.psd.fileformats.psd.layers.layereffects/innershadoweffect/opacity/) { get; set; } | अपारदर्शिता प्राप्त करता है या सेट करता है। |
+| [Size](../../aspose.psd.fileformats.psd.layers.layereffects/innershadoweffect/size/) { get; set; } | पिक्सेल में ब्लर मान को प्राप्त करता है या सेट करता है। |
+| [Spread](../../aspose.psd.fileformats.psd.layers.layereffects/innershadoweffect/spread/) { get; set; } | स्प्रेड (चोक) को प्रतिशत के रूप में प्राप्त करता है या सेट करता है। |
+| [UseGlobalLight](../../aspose.psd.fileformats.psd.layers.layereffects/innershadoweffect/usegloballight/) { get; set; } | एक मान को प्राप्त करता है या सेट करता है जो यह दर्शाता है कि [use this angle in all of the layer effects]। |
 
-### उदाहरण
+## मेथड्स
 
-निम्न कोड दर्शाता है कि इनर शैडो लेयर इफेक्ट की सेटिंग्स को कैसे बदलना है।
+| नाम | विवरण |
+| --- | --- |
+| [GetEffectBounds](../../aspose.psd.fileformats.psd.layers.layereffects/innershadoweffect/geteffectbounds/)(Rectangle, int) | इनपुट लेयर पिक्सेल सीमाओं के आधार पर इफ़ेक्ट पिक्सेल की सीमाओं की गणना करता है और प्राप्त करता है। |
+
+## उदाहरण
+
+निम्नलिखित कोड दिखाता है कि इंटीरियर शैडो लेयर इफ़ेक्ट की सेटिंग्स को कैसे बदलें।
 
 ```csharp
 [C#]
@@ -40,7 +47,7 @@ public class InnerShadowEffect : IShadowEffect
 string sourceFile = "example.psd";
 string outputFile = "sample_out.psd";
 
-// मौजूदा छवि को PsdImage वर्ग के उदाहरण में लोड करें
+// एक मौजूदा छवि को PsdImage क्लास के एक इंस्टेंस में लोड करें।
 var loadOptions = new PsdLoadOptions();
 loadOptions.LoadEffectsResource = true;
 using (var image = (PsdImage)Image.Load(sourceFile, loadOptions))
@@ -61,10 +68,10 @@ using (var image = (PsdImage)Image.Load(sourceFile, loadOptions))
 }
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * interface [IShadowEffect](../ishadoweffect/)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../aspose.psd.fileformats.psd.layers.layereffects/)
-* सभा [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../)
 
 

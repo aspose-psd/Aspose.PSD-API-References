@@ -1,37 +1,38 @@
 ---
-title: ImageLoadersRegistry.GetFirstSupportedDescriptorByTypeName
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: ImageLoadersRegistry तरक. इसके प्रकर के नम से पहल समर्थत ववरणक प्रप्त करत है
+title: "ImageLoadersRegistry.GetFirstSupportedDescriptorByTypeName"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "ImageLoadersRegistry मेथड। उसके टाइप नाम से पहला समर्थित डिस्क्रिप्टर प्राप्त करता है"
 type: docs
 weight: 60
 url: /hi/net/aspose.psd/imageloadersregistry/getfirstsupporteddescriptorbytypename/
 ---
+{{< psd/tize >}}
 ## ImageLoadersRegistry.GetFirstSupportedDescriptorByTypeName method
 
-इसके प्रकार के नाम से पहला समर्थित विवरणक प्राप्त करता है।
+उसके प्रकार नाम द्वारा पहला समर्थित डिस्क्रिप्टर प्राप्त करता है।
 
 ```csharp
 public static IImageLoaderDescriptor GetFirstSupportedDescriptorByTypeName(
     string descriptorTypeName)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| descriptorTypeName | String | वर्णनकर्ता प्रकार का नाम। |
+| descriptorTypeName | String | डिस्क्रिप्टर प्रकार का नाम। |
 
-### प्रतिलाभ की मात्रा
+### रिटर्न वैल्यू
 
-पहला पाया गया लोडर डिस्क्रिप्टर या अशक्त यदि ऐसा डिस्क्रिप्टर नहीं मिला है।
+पहला मिला हुआ लोडर डिस्क्रिप्टर या null यदि ऐसा डिस्क्रिप्टर नहीं मिला।
 
-### टिप्पणियों
+## टिप्पणियाँ
 
 पहला लोडर डिस्क्रिप्टर वास्तव में अंतिम पंजीकृत होगा।
 
-### यह सभी देखें
+### देखें भी
 
 * interface [IImageLoaderDescriptor](../../iimageloaderdescriptor/)
 * class [ImageLoadersRegistry](../)
-* नाम स्थान [Aspose.PSD](../../imageloadersregistry/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

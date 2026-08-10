@@ -1,31 +1,32 @@
 ---
-title: ColorRangeHsl.GetRangeCoefficient
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: ColorRangeHsl तरक. श्रेण गुणंक प्रप्त करत है
+title: "ColorRangeHsl.GetRangeCoefficient"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "ColorRangeHsl मेथड. रेंज गुणांक को प्राप्त करता है"
 type: docs
 weight: 90
 url: /hi/net/aspose.psd.fileformats.psd.layers.layerresources/colorrangehsl/getrangecoefficient/
 ---
+{{< psd/tize >}}
 ## ColorRangeHsl.GetRangeCoefficient method
 
-श्रेणी गुणांक प्राप्त करता है।
+रेंज गुणांक को प्राप्त करता है।
 
 ```csharp
 public double GetRangeCoefficient(double hue)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| hue | Double | रंग मान। |
+| ह्यू | Double | ह्यू मान. |
 
-### प्रतिलाभ की मात्रा
+### रिटर्न वैल्यू
 
-संतृप्ति सीमा गुणांक।
+संतृप्ति रेंज गुणांक.
 
-### यह सभी देखें
+### देखें भी
 
 * class [ColorRangeHsl](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../colorrangehsl/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

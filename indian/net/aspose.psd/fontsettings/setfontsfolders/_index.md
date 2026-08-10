@@ -1,28 +1,29 @@
 ---
-title: FontSettings.SetFontsFolders
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: FontSettings तरक. उन फ़ल्डरं क सेट करत है जहं से ट्रू टइप फ़न्ट लड कए जते हैं और सभ लड कए गए फ़न्ट सफ़ करते हैं. फ़न्ट फ़ल्डर पर कई जंच नहं क जत है.
+title: "FontSettings.SetFontsFolders"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "FontSettings method. फ़ोल्डर सेट करता है जहाँ से TrueType फ़ॉन्ट लोड होते हैं और सभी लोड किए गए फ़ॉन्ट साफ़ करता है। फ़ॉन्ट फ़ोल्डरों पर कोई जाँच नहीं की जाती है।"
 type: docs
-weight: 130
+weight: 150
 url: /hi/net/aspose.psd/fontsettings/setfontsfolders/
 ---
+{{< psd/tize >}}
 ## FontSettings.SetFontsFolders method
 
-उन फ़ोल्डरों को सेट करता है जहां से ट्रू टाइप फ़ॉन्ट लोड किए जाते हैं और सभी लोड किए गए फ़ॉन्ट साफ़ करते हैं. फ़ॉन्ट फ़ोल्डर पर कोई जांच नहीं की जाती है.
+TrueType फ़ॉन्ट्स जहाँ लोड होते हैं, उन फ़ोल्डरों को सेट करता है और सभी लोडेड फ़ॉन्ट्स को साफ़ करता है। फ़ॉन्ट फ़ोल्डरों पर कोई जाँच नहीं की जाती है।
 
 ```csharp
 public static void SetFontsFolders(string[] fontsFolders, bool recursive)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| fontsFolders | String[] | फोंट फोल्डर। |
-| recursive | Boolean | अगर सेट है`सत्य` [पुनरावर्ती]। |
+| fontsFolders | String[] | फ़ॉन्ट फ़ोल्डर। |
+| पुनरावर्ती | बूलियन | यदि `true` पर सेट किया गया है [पुनरावर्ती]। |
 
-### यह सभी देखें
+### देखें भी
 
 * class [FontSettings](../)
-* नाम स्थान [Aspose.PSD](../../fontsettings/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: AsyncTaskException.AsyncTaskException
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: AsyncTaskException नर्मत. क एक नय उदहरण प्ररंभ करत हैAsyncTaskException वर्ग.
+title: "AsyncTaskException.AsyncTaskException"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "AsyncTaskException कंस्ट्रक्टर। AsyncTaskException क्लास की नई इंस्टेंस को इनिशियलाइज़ करता है।"
 type: docs
 weight: 10
 url: /hi/net/aspose.psd.asynctask/asynctaskexception/asynctaskexception/
 ---
+{{< psd/tize >}}
 ## AsyncTaskException constructor
 
-का एक नया उदाहरण प्रारंभ करता है[`AsyncTaskException`](../) वर्ग.
+[`AsyncTaskException`](../) क्लास की नई इंस्टेंस को इनिशियलाइज़ करता है।
 
 ```csharp
 public AsyncTaskException(string message)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| message | String | संदेश जो त्रुटि का वर्णन करता है। |
+| message | String | त्रुटि का विवरण देने वाला संदेश। |
 
-### यह सभी देखें
+### देखें भी
 
 * class [AsyncTaskException](../)
-* नाम स्थान [Aspose.PSD.AsyncTask](../../asynctaskexception/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.AsyncTask](../../../aspose.psd.asynctask/)
+* assembly [Aspose.PSD](../../../)
 
 

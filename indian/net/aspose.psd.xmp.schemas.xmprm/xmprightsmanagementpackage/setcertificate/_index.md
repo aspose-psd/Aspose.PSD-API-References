@@ -1,11 +1,12 @@
 ---
-title: XmpRightsManagementPackage.SetCertificate
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: XmpRightsManagementPackage तरक. प्रमणपत्र सेट करत है
+title: "XmpRightsManagementPackage.SetCertificate"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "XmpRightsManagementPackage विधि। प्रमाणपत्र सेट करता है"
 type: docs
 weight: 30
 url: /hi/net/aspose.psd.xmp.schemas.xmprm/xmprightsmanagementpackage/setcertificate/
 ---
+{{< psd/tize >}}
 ## XmpRightsManagementPackage.SetCertificate method
 
 प्रमाणपत्र सेट करता है।
@@ -14,14 +15,14 @@ url: /hi/net/aspose.psd.xmp.schemas.xmprm/xmprightsmanagementpackage/setcertific
 public void SetCertificate(string certificate)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| certificate | String | प्रमाणपत्र। |
+| प्रमाणपत्र | String | प्रमाणपत्र। |
 
-### यह सभी देखें
+### देखें भी
 
 * class [XmpRightsManagementPackage](../)
-* नाम स्थान [Aspose.PSD.Xmp.Schemas.XmpRm](../../xmprightsmanagementpackage/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpRm](../../../aspose.psd.xmp.schemas.xmprm/)
+* assembly [Aspose.PSD](../../../)
 
 

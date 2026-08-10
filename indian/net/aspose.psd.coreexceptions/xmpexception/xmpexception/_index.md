@@ -1,64 +1,65 @@
 ---
-title: XmpException.XmpException
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: XmpException नर्मत. क एक नय उदहरण प्ररंभ करत हैXmpException वर्ग.
+title: "XmpException.XmpException"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "XmpException कंस्ट्रक्टर। XmpException क्लास का एक नया उदाहरण इनिशियलाइज़ करता है।"
 type: docs
 weight: 10
 url: /hi/net/aspose.psd.coreexceptions/xmpexception/xmpexception/
 ---
+{{< psd/tize >}}
 ## XmpException() {#constructor}
 
-का एक नया उदाहरण प्रारंभ करता है[`XmpException`](../) वर्ग.
+[`XmpException`](../) क्लास का एक नया उदाहरण इनिशियलाइज़ करता है।
 
 ```csharp
 public XmpException()
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * class [XmpException](../)
-* नाम स्थान [Aspose.PSD.CoreExceptions](../../xmpexception/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.CoreExceptions](../../../aspose.psd.coreexceptions/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## XmpException(string) {#constructor_1}
 
-का एक नया उदाहरण प्रारंभ करता है[`XmpException`](../) वर्ग.
+[`XmpException`](../) क्लास का एक नया उदाहरण इनिशियलाइज़ करता है।
 
 ```csharp
 public XmpException(string message)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
 | message | String | संदेश। |
 
-### यह सभी देखें
+### देखें भी
 
 * class [XmpException](../)
-* नाम स्थान [Aspose.PSD.CoreExceptions](../../xmpexception/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.CoreExceptions](../../../aspose.psd.coreexceptions/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## XmpException(string, Exception) {#constructor_2}
 
-का एक नया उदाहरण प्रारंभ करता है[`XmpException`](../) वर्ग.
+[`XmpException`](../) क्लास का एक नया उदाहरण इनिशियलाइज़ करता है।
 
 ```csharp
 public XmpException(string message, Exception innerException)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
 | message | String | संदेश। |
-| innerException | Exception | भीतर का अपवाद। |
+| innerException | एक्सेप्शन | आंतरिक अपवाद। |
 
-### यह सभी देखें
+### देखें भी
 
 * class [XmpException](../)
-* नाम स्थान [Aspose.PSD.CoreExceptions](../../xmpexception/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.CoreExceptions](../../../aspose.psd.coreexceptions/)
+* assembly [Aspose.PSD](../../../)
 
 

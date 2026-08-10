@@ -1,27 +1,28 @@
 ---
-title: AiRasterImageSection.Width
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: AiRasterImageSection संपत्त. चड़ई मलत है
+title: "AiRasterImageSection.Width"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "AiRasterImageSection प्रॉपर्टी। चौड़ाई प्राप्त करता है।"
 type: docs
 weight: 90
 url: /hi/net/aspose.psd.fileformats.ai/airasterimagesection/width/
 ---
+{{< psd/tize >}}
 ## AiRasterImageSection.Width property
 
-चौड़ाई मिलती है।
+चौड़ाई प्राप्त करता है।
 
 ```csharp
 public double Width { get; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
 चौड़ाई।
 
-### यह सभी देखें
+### देखें भी
 
 * class [AiRasterImageSection](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Ai](../../airasterimagesection/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

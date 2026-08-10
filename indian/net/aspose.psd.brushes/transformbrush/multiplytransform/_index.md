@@ -1,51 +1,52 @@
 ---
-title: TransformBrush.MultiplyTransform
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: TransformBrush तरक. गुण करत हैMatrix ज इसके स्थनय ज्यमतय परवर्तन क प्रतनधत्व करत हैLinearGradientBrush नर्दष्ट द्वरMatrix नर्दष्ट तैयर करकेMatrix .
+title: "TransformBrush.MultiplyTransform"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "TransformBrush मेथड। इस LinearGradientBrush के स्थानीय ज्यामितीय रूपांतरण को दर्शाने वाली मैट्रिक्स को निर्दिष्ट मैट्रिक्स से गुणा करता है, निर्दिष्ट मैट्रिक्स को prepend करके।"
 type: docs
 weight: 40
 url: /hi/net/aspose.psd.brushes/transformbrush/multiplytransform/
 ---
+{{< psd/tize >}}
 ## MultiplyTransform(Matrix) {#multiplytransform}
 
-गुणा करता है[`Matrix`](../../../aspose.psd/matrix/) जो इसके स्थानीय ज्यामितीय परिवर्तन का प्रतिनिधित्व करता है[`LinearGradientBrush`](../../lineargradientbrush/) निर्दिष्ट द्वारा[`Matrix`](../../../aspose.psd/matrix/) निर्दिष्ट तैयार करके[`Matrix`](../../../aspose.psd/matrix/) .
+गुणा करता है [`Matrix`](../../../aspose.psd/matrix/) को जो इस [`LinearGradientBrush`](../../lineargradientbrush/) के स्थानीय ज्यामितीय रूपांतरण को दर्शाता है, निर्दिष्ट [`Matrix`](../../../aspose.psd/matrix/) द्वारा, निर्दिष्ट [`Matrix`](../../../aspose.psd/matrix/) को prepend करके।
 
 ```csharp
 public void MultiplyTransform(Matrix matrix)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| matrix | Matrix | [`Matrix`](../../../aspose.psd/matrix/) जिससे ज्यामितीय परिवर्तन को गुणा किया जा सके। |
+| matrix | Matrix | ज्यामितीय रूपांतरण को गुणा करने के लिए उपयोग की जाने वाली [`Matrix`](../../../aspose.psd/matrix/)। |
 
-### यह सभी देखें
+### देखें भी
 
 * class [Matrix](../../../aspose.psd/matrix/)
 * class [TransformBrush](../)
-* नाम स्थान [Aspose.PSD.Brushes](../../transformbrush/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## MultiplyTransform(Matrix, MatrixOrder) {#multiplytransform_1}
 
-गुणा करता है[`Matrix`](../../../aspose.psd/matrix/) जो इसके स्थानीय ज्यामितीय परिवर्तन का प्रतिनिधित्व करता है[`LinearGradientBrush`](../../lineargradientbrush/) निर्दिष्ट द्वारा[`Matrix`](../../../aspose.psd/matrix/) निर्दिष्ट क्रम में.
+निर्दिष्ट क्रम में, इस [`LinearGradientBrush`](../../lineargradientbrush/) के स्थानीय ज्यामितीय रूपांतरण को दर्शाने वाली [`Matrix`](../../../aspose.psd/matrix/) को निर्दिष्ट [`Matrix`](../../../aspose.psd/matrix/) द्वारा गुणा करता है।
 
 ```csharp
 public void MultiplyTransform(Matrix matrix, MatrixOrder order)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| matrix | Matrix | [`Matrix`](../../../aspose.psd/matrix/) जिससे ज्यामितीय परिवर्तन को गुणा किया जा सके। |
-| order | MatrixOrder | ए[`MatrixOrder`](../../../aspose.psd/matrixorder/) यह निर्दिष्ट करता है कि किस क्रम में दो मैट्रिसेस को गुणा करना है। |
+| matrix | Matrix | ज्यामितीय रूपांतरण को गुणा करने के लिए उपयोग की जाने वाली [`Matrix`](../../../aspose.psd/matrix/)। |
+| order | MatrixOrder | एक [`MatrixOrder`](../../../aspose.psd/matrixorder/) जो दो मैट्रिसेज़ को किस क्रम में गुणा करना है, निर्दिष्ट करता है। |
 
-### यह सभी देखें
+### देखें भी
 
 * class [Matrix](../../../aspose.psd/matrix/)
 * enum [MatrixOrder](../../../aspose.psd/matrixorder/)
 * class [TransformBrush](../)
-* नाम स्थान [Aspose.PSD.Brushes](../../transformbrush/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
+* assembly [Aspose.PSD](../../../)
 
 

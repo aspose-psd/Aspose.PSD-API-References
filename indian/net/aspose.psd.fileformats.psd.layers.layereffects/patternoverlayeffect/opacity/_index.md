@@ -1,27 +1,28 @@
 ---
-title: PatternOverlayEffect.Opacity
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: PatternOverlayEffect संपत्त. अस्पष्टत प्रप्त य सेट करत है
+title: "PatternOverlayEffect.Opacity"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "PatternOverlayEffect property. प्राप्त करता है या सेट करता है अपारदर्शिता"
 type: docs
 weight: 40
 url: /hi/net/aspose.psd.fileformats.psd.layers.layereffects/patternoverlayeffect/opacity/
 ---
+{{< psd/tize >}}
 ## PatternOverlayEffect.Opacity property
 
-अस्पष्टता प्राप्त या सेट करता है।
+अपारदर्शिता प्राप्त करता है या सेट करता है।
 
 ```csharp
 public byte Opacity { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-अपारदर्शिता.
+अपारदर्शिता।
 
-### यह सभी देखें
+### देखें भी
 
 * class [PatternOverlayEffect](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../patternoverlayeffect/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,33 +1,34 @@
 ---
-title: Aspose.PSD.Extensions
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: नमस्थन में वस्तर वधयँ हैं
+title: "Aspose.PSD.Extensions"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "नेमस्पेस में एक्सटेंशन मेथड्स शामिल हैं"
 type: docs
-weight: 110
+weight: 120
 url: /hi/net/aspose.psd.extensions/
 ---
-नामस्थान में विस्तार विधियाँ हैं।
+{{< psd/tize >}}
+नामस्थान एक्सटेंशन मेथड्स को शामिल करता है।
 
-## कक्षाओं
+## क्लासेस
 
-| कक्षा | विवरण |
+| क्लास | विवरण |
 | --- | --- |
-| [BrushExtensions](./brushextensions/) | के लिए विस्तार विधियाँ शामिल हैं[`Brush`](../aspose.psd/brush/) औरBrush . |
-| [ColorBlendExtensions](./colorblendextensions/) | शामिल है[`ColorBlend`](../aspose.psd/colorblend/) विस्तार के तरीके। |
-| [ColorExtensions](./colorextensions/) | द[`Color`](../aspose.psd/color/) विस्तार के तरीके। |
-| [ColorMapExtensions](./colormapextensions/) | द[`ColorMap`](../aspose.psd/colormap/) विस्तार के तरीके। |
-| [ColorMatrixExtensions](./colormatrixextensions/) | द[`ColorMatrix`](../aspose.psd/colormatrix/) विस्तार के तरीके। |
-| [FileFormatExtensions](./fileformatextensions/) | शामिल है[`FileFormat`](../aspose.psd/fileformat/) विस्तार के तरीके। |
-| [FontExtensions](./fontextensions/) | के लिए विस्तार विधियाँ शामिल हैं[`Font`](../aspose.psd/font/) वर्ग. |
-| [GraphicsPathExtensions](./graphicspathextensions/) | इसमें शामिल है[`GraphicsPath`](../aspose.psd/graphicspath/) विस्तार के तरीके। |
-| [ImageAttributesExtensions](./imageattributesextensions/) | के लिए विस्तार विधियाँ शामिल हैं[`ImageAttributes`](../aspose.psd/imageattributes/) औरImageAttributes . |
-| [ImageExtensions](./imageextensions/) | पर आधारित रूपांतरणों के लिए विस्तार विधियाँ शामिल हैंImage और[`Image`](../aspose.psd/image/) . |
-| [MatrixExtensions](./matrixextensions/) | इसमें शामिल है[`Matrix`](../aspose.psd/matrix/) क्लास एक्सटेंशन. |
-| [PenExtensions](./penextensions/) | के लिए विस्तार विधियाँ शामिल हैं[`Pen`](../aspose.psd/pen/) औरPen . |
-| [PointExtensions](./pointextensions/) | के लिए विस्तार विधियाँ शामिल हैं[`Point`](../aspose.psd/point/) और[`PointF`](../aspose.psd/pointf/) संरचनाएं. |
-| [RectangleExtensions](./rectangleextensions/) | के लिए विस्तार विधियाँ शामिल हैं[`Rectangle`](../aspose.psd/rectangle/) . |
-| [RegionExtensions](./regionextensions/) | के लिए विस्तार विधियाँ शामिल हैं[`Region`](../aspose.psd/region/) वर्ग. |
-| [RotateFlipExtensions](./rotateflipextensions/) | में रूपांतरण के लिए विस्तार विधियाँ शामिल हैंRotateFlipType और यह[`RotateFlipType`](../aspose.psd/rotatefliptype/) कक्षाएं. |
-| [StringFormatExtensions](./stringformatextensions/) | के लिए विस्तार विधियाँ शामिल हैं[`StringFormat`](../aspose.psd/stringformat/) वर्ग. |
+| [BrushExtensions](./brushextensions/) | [`Brush`](../aspose.psd/brush/) और Brush के लिए एक्सटेंशन मेथड्स शामिल हैं |
+| [ColorBlendExtensions](./colorblendextensions/) | [`ColorBlend`](../aspose.psd/colorblend/) एक्सटेंशन मेथड्स शामिल हैं |
+| [ColorExtensions](./colorextensions/) | [`Color`](../aspose.psd/color/) एक्सटेंशन मेथड्स |
+| [ColorMapExtensions](./colormapextensions/) | [`ColorMap`](../aspose.psd/colormap/) एक्सटेंशन मेथड्स |
+| [ColorMatrixExtensions](./colormatrixextensions/) | [`ColorMatrix`](../aspose.psd/colormatrix/) एक्सटेंशन मेथड्स |
+| [FileFormatExtensions](./fileformatextensions/) | [`FileFormat`](../aspose.psd/fileformat/) एक्सटेंशन मेथड्स शामिल हैं |
+| [FontExtensions](./fontextensions/) | [`Font`](../aspose.psd/font/) क्लास के लिए एक्सटेंशन मेथड्स शामिल हैं |
+| [GraphicsPathExtensions](./graphicspathextensions/) | [`GraphicsPath`](../aspose.psd/graphicspath/) एक्सटेंशन मेथड्स शामिल हैं |
+| [ImageAttributesExtensions](./imageattributesextensions/) | [`ImageAttributes`](../aspose.psd/imageattributes/) और ImageAttributes के लिए एक्सटेंशन मेथड्स शामिल हैं |
+| [ImageExtensions](./imageextensions/) | Image और Image के आधार पर रूपांतरणों के लिए एक्सटेंशन मेथड्स शामिल हैं |
+| [MatrixExtensions](./matrixextensions/) | [`Matrix`](../aspose.psd/matrix/) क्लास एक्सटेंशन शामिल हैं |
+| [PenExtensions](./penextensions/) | [`Pen`](../aspose.psd/pen/) और Pen के लिए एक्सटेंशन मेथड्स शामिल हैं |
+| [PointExtensions](./pointextensions/) | [`Point`](../aspose.psd/point/) और [`PointF`](../aspose.psd/pointf/) स्ट्रक्चर्स के लिए एक्सटेंशन मेथड्स शामिल हैं |
+| [RectangleExtensions](./rectangleextensions/) | [`Rectangle`](../aspose.psd/rectangle/) के लिए एक्सटेंशन मेथड्स शामिल हैं |
+| [RegionExtensions](./regionextensions/) | [`Region`](../aspose.psd/region/) क्लास के लिए एक्सटेंशन मेथड्स शामिल हैं |
+| [RotateFlipExtensions](./rotateflipextensions/) | [`RotateFlipType`](../aspose.psd/rotatefliptype/) क्लासों और RotateFlipType के रूपांतरण के लिए एक्सटेंशन मेथड्स शामिल हैं |
+| [StringFormatExtensions](./stringformatextensions/) | [`StringFormat`](../aspose.psd/stringformat/) क्लास के लिए एक्सटेंशन मेथड्स शामिल हैं |
 
 

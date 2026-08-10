@@ -1,27 +1,28 @@
 ---
-title: OuterGlowEffect.IsAntiAliasing
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: OuterGlowEffect संपत्त. एन्टअलयसंग प्रभव सक्षम ह जत है य सेट ह जत है
+title: "OuterGlowEffect.IsAntiAliasing"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "OuterGlowEffect property. सक्रिय AntiAliasing प्रभाव को प्राप्त करता है या सेट करता है"
 type: docs
 weight: 50
 url: /hi/net/aspose.psd.fileformats.psd.layers.layereffects/outergloweffect/isantialiasing/
 ---
+{{< psd/tize >}}
 ## OuterGlowEffect.IsAntiAliasing property
 
-एन्टीअलियासिंग प्रभाव सक्षम हो जाता है या सेट हो जाता है
+सक्षम AntiAliasing इफ़ेक्ट प्राप्त करता है या सेट करता है
 
 ```csharp
 public bool IsAntiAliasing { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-दूरी.
+दूरी।
 
-### यह सभी देखें
+### देखें भी
 
 * class [OuterGlowEffect](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../outergloweffect/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../../)
 
 

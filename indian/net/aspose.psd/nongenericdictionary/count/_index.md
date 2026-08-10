@@ -1,27 +1,28 @@
 ---
-title: NonGenericDictionary.Count
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: NonGenericDictionary संपत्त. में नहत तत्वं क संख्य प्रप्त करत हैICollection .
+title: "NonGenericDictionary.Count"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "NonGenericDictionary प्रॉपर्टी। ICollection में सम्मिलित तत्वों की संख्या प्राप्त करता है"
 type: docs
 weight: 20
 url: /hi/net/aspose.psd/nongenericdictionary/count/
 ---
+{{< psd/tize >}}
 ## NonGenericDictionary.Count property
 
-में निहित तत्वों की संख्या प्राप्त करता हैICollection .
+ICollection में शामिल तत्वों की संख्या प्राप्त करता है।
 
 ```csharp
 public int Count { get; }
 ```
 
-### प्रतिलाभ की मात्रा
+### रिटर्न वैल्यू
 
-में निहित तत्वों की संख्याICollection.
+ICollection में सम्मिलित तत्वों की संख्या।
 
-### यह सभी देखें
+### देखें भी
 
 * class [NonGenericDictionary](../)
-* नाम स्थान [Aspose.PSD](../../nongenericdictionary/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

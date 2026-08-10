@@ -1,40 +1,41 @@
 ---
-title: Class AudioSampleType
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Aspose.PSD.Xmp.Schemas.XmpDm.AudioSampleType कक्ष. में ऑडय नमून प्रकर क प्रतनधत्व करत हैXmpDynamicMediaPackage .
+title: "क्लास AudioSampleType"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Aspose.PSD.Xmp.Schemas.XmpDm.AudioSampleType क्लास। XmpDynamicMediaPackage में ऑडियो सैंपल प्रकार का प्रतिनिधित्व करता है।"
 type: docs
-weight: 5850
+weight: 6350
 url: /hi/net/aspose.psd.xmp.schemas.xmpdm/audiosampletype/
 ---
+{{< psd/tize >}}
 ## AudioSampleType class
 
-में ऑडियो नमूना प्रकार का प्रतिनिधित्व करता है[`XmpDynamicMediaPackage`](../xmpdynamicmediapackage/) .
+[`XmpDynamicMediaPackage`](../xmpdynamicmediapackage/) में ऑडियो सैंपल प्रकार का प्रतिनिधित्व करता है।
 
 ```csharp
 public sealed class AudioSampleType
 ```
 
-## गुण
+## प्रॉपर्टीज़
 
 | नाम | विवरण |
 | --- | --- |
-| static [Compressed](../../aspose.psd.xmp.schemas.xmpdm/audiosampletype/compressed/) { get; } | संपीडित ऑडियो नमूने का प्रतिनिधित्व करता है। |
-| static [Packed](../../aspose.psd.xmp.schemas.xmpdm/audiosampletype/packed/) { get; } | पैक किए गए ऑडियो नमूने का प्रतिनिधित्व करता है। |
-| static [Sample16Int](../../aspose.psd.xmp.schemas.xmpdm/audiosampletype/sample16int/) { get; } | 16इंट ऑडियो नमूने का प्रतिनिधित्व करता है। |
-| static [Sample24Int](../../aspose.psd.xmp.schemas.xmpdm/audiosampletype/sample24int/) { get; } | 24इंट ऑडियो नमूने का प्रतिनिधित्व करता है। |
-| static [Sample32Float](../../aspose.psd.xmp.schemas.xmpdm/audiosampletype/sample32float/) { get; } | 32फ्लोट ऑडियो नमूने का प्रतिनिधित्व करता है। |
-| static [Sample32Int](../../aspose.psd.xmp.schemas.xmpdm/audiosampletype/sample32int/) { get; } | 32इंट ऑडियो नमूने का प्रतिनिधित्व करता है। |
-| static [Sample8Int](../../aspose.psd.xmp.schemas.xmpdm/audiosampletype/sample8int/) { get; } | 8इंट ऑडियो नमूने का प्रतिनिधित्व करता है। |
+| static [Compressed](../../aspose.psd.xmp.schemas.xmpdm/audiosampletype/compressed/) { get; } | संपीड़ित ऑडियो नमूना का प्रतिनिधित्व करता है। |
+| static [Packed](../../aspose.psd.xmp.schemas.xmpdm/audiosampletype/packed/) { get; } | पैक्ड ऑडियो नमूना का प्रतिनिधित्व करता है। |
+| static [Sample16Int](../../aspose.psd.xmp.schemas.xmpdm/audiosampletype/sample16int/) { get; } | 16Int ऑडियो नमूना का प्रतिनिधित्व करता है। |
+| static [Sample24Int](../../aspose.psd.xmp.schemas.xmpdm/audiosampletype/sample24int/) { get; } | 24Int ऑडियो नमूना का प्रतिनिधित्व करता है। |
+| static [Sample32Float](../../aspose.psd.xmp.schemas.xmpdm/audiosampletype/sample32float/) { get; } | 32Float ऑडियो नमूना का प्रतिनिधित्व करता है। |
+| static [Sample32Int](../../aspose.psd.xmp.schemas.xmpdm/audiosampletype/sample32int/) { get; } | 32Int ऑडियो नमूना का प्रतिनिधित्व करता है। |
+| static [Sample8Int](../../aspose.psd.xmp.schemas.xmpdm/audiosampletype/sample8int/) { get; } | 8Int ऑडियो नमूना का प्रतिनिधित्व करता है। |
 
-## तरीकों
+## मेथड्स
 
 | नाम | विवरण |
 | --- | --- |
-| override [ToString](../../aspose.psd.xmp.schemas.xmpdm/audiosampletype/tostring/)() | रिटर्न एString जो इस उदाहरण का प्रतिनिधित्व करता है। |
+| override [ToString](../../aspose.psd.xmp.schemas.xmpdm/audiosampletype/tostring/)() | इस उदाहरण का प्रतिनिधित्व करने वाली एक स्ट्रिंग लौटाता है। |
 
-### यह सभी देखें
+### देखें भी
 
-* नाम स्थान [Aspose.PSD.Xmp.Schemas.XmpDm](../../aspose.psd.xmp.schemas.xmpdm/)
-* सभा [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpDm](../../aspose.psd.xmp.schemas.xmpdm/)
+* assembly [Aspose.PSD](../../)
 
 

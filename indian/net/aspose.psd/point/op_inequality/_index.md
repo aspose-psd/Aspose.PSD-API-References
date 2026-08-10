@@ -1,32 +1,33 @@
 ---
-title: Point.op_Inequality
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Point तरक. द क तुलन करत हैPoint वस्तुओं परणम नर्दष्ट करत है क क्य के मनX यY द के गुणPoint वस्तुएं असमन हैं
+title: "Point.op_Inequality"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Point विधि। दो Point वस्तुओं की तुलना करता है। परिणाम यह निर्दिष्ट करता है कि दो Point वस्तुओं के X या Y गुणों के मान असमान हैं या नहीं।"
 type: docs
 weight: 190
 url: /hi/net/aspose.psd/point/op_inequality/
 ---
+{{< psd/tize >}}
 ## Point Inequality operator
 
-दो की तुलना करता है[`Point`](../) वस्तुओं। परिणाम निर्दिष्ट करता है कि क्या के मान[`X`](../x/) या[`Y`](../y/) दो के गुण[`Point`](../) वस्तुएं असमान हैं।
+दो [`Point`](../) वस्तुओं की तुलना करता है। परिणाम यह निर्दिष्ट करता है कि दो [`Point`](../) वस्तुओं के [`X`](../x/) या [`Y`](../y/) गुणों के मान असमान हैं या नहीं।
 
 ```csharp
 public static bool operator !=(Point point1, Point point2)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| point1 | Point | एक पहला[`Point`](../) तुलना करने के लिए। |
-| point2 | Point | एक दूसरा[`Point`](../) तुलना करने के लिए। |
+| point1 | Point | पहला तुलना करने योग्य [`Point`](../)। |
+| point2 | Point | दूसरा तुलना करने योग्य [`Point`](../)। |
 
-### प्रतिलाभ की मात्रा
+### रिटर्न वैल्यू
 
-सच है अगर या तो के मान[`X`](../x/) गुण या[`Y`](../y/) के गुण*point1* और*point2* अलग होना; अन्यथा झूठा।
+*point1* और *point2* के [`X`](../x/) या [`Y`](../y/) गुणों के मान में अंतर हो तो सत्य; अन्यथा असत्य।
 
-### यह सभी देखें
+### देखें भी
 
 * struct [Point](../)
-* नाम स्थान [Aspose.PSD](../../point/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,23 +1,24 @@
 ---
-title: AddNoiseSmartFilter.IsMonochromatic
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: AddNoiseSmartFilter संपत्त. मनक्रमैटक क मन प्रप्त य सेट करत है
+title: "AddNoiseSmartFilter.IsMonochromatic"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "AddNoiseSmartFilter प्रॉपर्टी. मोनोक्रोमैटिक मान प्राप्त करता है या सेट करता है"
 type: docs
 weight: 50
 url: /hi/net/aspose.psd.fileformats.psd.layers.smartfilters/addnoisesmartfilter/ismonochromatic/
 ---
+{{< psd/tize >}}
 ## AddNoiseSmartFilter.IsMonochromatic property
 
-मोनोक्रोमैटिक का मान प्राप्त या सेट करता है।
+एकरंगी का मान प्राप्त करता है या सेट करता है।
 
 ```csharp
 public bool IsMonochromatic { get; set; }
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * class [AddNoiseSmartFilter](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.SmartFilters](../../addnoisesmartfilter/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.SmartFilters](../../../aspose.psd.fileformats.psd.layers.smartfilters/)
+* assembly [Aspose.PSD](../../../)
 
 

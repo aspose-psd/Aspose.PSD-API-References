@@ -1,23 +1,24 @@
 ---
-title: DitheringMode.Bits
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: DitheringMode संपत्त. बगड़ हुई इमेज क सैंपलंग फ़ैक्टर.
+title: "DitheringMode.Bits"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "DitheringMode प्रॉपर्टी। डिथर किए गए इमेज का सैंपलिंग फैक्टर"
 type: docs
 weight: 20
 url: /hi/net/aspose.psd.dithering/ditheringmode/bits/
 ---
+{{< psd/tize >}}
 ## DitheringMode.Bits property
 
-बिगड़ी हुई इमेज का सैंपलिंग फ़ैक्टर.
+डिथर किए गए चित्र का सैंपलिंग फैक्टर।
 
 ```csharp
 public int Bits { get; set; }
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * class [DitheringMode](../)
-* नाम स्थान [Aspose.PSD.Dithering](../../ditheringmode/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Dithering](../../../aspose.psd.dithering/)
+* assembly [Aspose.PSD](../../../)
 
 

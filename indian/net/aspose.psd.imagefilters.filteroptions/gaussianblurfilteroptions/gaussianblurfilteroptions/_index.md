@@ -1,44 +1,45 @@
 ---
-title: GaussianBlurFilterOptions.GaussianBlurFilterOptions
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: GaussianBlurFilterOptions नर्मत. क एक नय उदहरण प्ररंभ करत हैGaussianBlurFilterOptions वर्ग.
+title: "GaussianBlurFilterOptions.GaussianBlurFilterOptions"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "GaussianBlurFilterOptions कंस्ट्रक्टर। GaussianBlurFilterOptions क्लास का एक नया उदाहरण प्रारंभ करता है"
 type: docs
 weight: 10
 url: /hi/net/aspose.psd.imagefilters.filteroptions/gaussianblurfilteroptions/gaussianblurfilteroptions/
 ---
+{{< psd/tize >}}
 ## GaussianBlurFilterOptions(int, double) {#constructor_1}
 
-का एक नया उदाहरण प्रारंभ करता है[`GaussianBlurFilterOptions`](../) वर्ग.
+[`GaussianBlurFilterOptions`](../) क्लास का एक नया उदाहरण प्रारंभ करता है।
 
 ```csharp
 public GaussianBlurFilterOptions(int radius, double sigma)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| radius | Int32 | त्रिज्या। |
-| sigma | Double | सिग्मा। |
+| त्रिज्या | Int32 | त्रिज्या। |
+| सिग्मा | Double | सिग्मा। |
 
-### यह सभी देखें
+### देखें भी
 
 * class [GaussianBlurFilterOptions](../)
-* नाम स्थान [Aspose.PSD.ImageFilters.FilterOptions](../../gaussianblurfilteroptions/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageFilters.FilterOptions](../../../aspose.psd.imagefilters.filteroptions/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## GaussianBlurFilterOptions() {#constructor}
 
-का एक नया उदाहरण प्रारंभ करता है[`GaussianBlurFilterOptions`](../) वर्ग. डिफ़ॉल्ट सेटिंग के साथ.
+[`GaussianBlurFilterOptions`](../) क्लास का एक नया उदाहरण प्रारंभ करता है। डिफ़ॉल्ट सेटिंग्स के साथ।
 
 ```csharp
 public GaussianBlurFilterOptions()
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * class [GaussianBlurFilterOptions](../)
-* नाम स्थान [Aspose.PSD.ImageFilters.FilterOptions](../../gaussianblurfilteroptions/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageFilters.FilterOptions](../../../aspose.psd.imagefilters.filteroptions/)
+* assembly [Aspose.PSD](../../../)
 
 

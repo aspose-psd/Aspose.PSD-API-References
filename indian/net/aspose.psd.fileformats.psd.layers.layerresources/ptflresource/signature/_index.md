@@ -1,23 +1,24 @@
 ---
-title: PtFlResource.Signature
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: PtFlResource संपत्त. परत संसधन हस्तक्षर प्रप्त करत है
+title: "PtFlResource.Signature"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "PtFlResource प्रॉपर्टी। लेयर संसाधन हस्ताक्षर प्राप्त करता है"
 type: docs
-weight: 110
+weight: 120
 url: /hi/net/aspose.psd.fileformats.psd.layers.layerresources/ptflresource/signature/
 ---
+{{< psd/tize >}}
 ## PtFlResource.Signature property
 
-परत संसाधन हस्ताक्षर प्राप्त करता है।
+लेयर रिसोर्स सिग्नेचर प्राप्त करता है।
 
 ```csharp
 public override int Signature { get; }
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * class [PtFlResource](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../ptflresource/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,28 +1,29 @@
 ---
-title: ExifData.GPSDOP
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: ExifData संपत्त. GPS DOP सटकत क डेट डग्र प्रप्त य सेट करत है
+title: "ExifData.GPSDOP"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "ExifData प्रॉपर्टी। GPS DOP डेटा की सटीकता डिग्री को प्राप्त करता है या सेट करता है"
 type: docs
 weight: 490
 url: /hi/net/aspose.psd.exif/exifdata/gpsdop/
 ---
+{{< psd/tize >}}
 ## ExifData.GPSDOP property
 
-GPS DOP (सटीकता की डेटा डिग्री) प्राप्त या सेट करता है।
+GPS DOP (डेटा सटीकता डिग्री) को प्राप्त करता है या सेट करता है।
 
 ```csharp
 public TiffRational GPSDOP { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-जीपीएस डीओपी (सटीकता की डेटा डिग्री) .
+GPS DOP (डेटा सटीकता डिग्री)।
 
-### यह सभी देखें
+### देखें भी
 
 * class [TiffRational](../../../aspose.psd.fileformats.tiff/tiffrational/)
 * class [ExifData](../)
-* नाम स्थान [Aspose.PSD.Exif](../../exifdata/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

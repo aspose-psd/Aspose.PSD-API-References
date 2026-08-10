@@ -1,37 +1,40 @@
 ---
-title: Aspose.PSD.FileFormats.Psd.Layers.FillSettings
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: नमस्थन में भरण परतें सेटंग्स हैं
+title: "Aspose.PSD.FileFormats.Psd.Layers.FillSettings"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "यह namespace Fill Layers Settings शामिल करता है।"
 type: docs
-weight: 250
+weight: 270
 url: /hi/net/aspose.psd.fileformats.psd.layers.fillsettings/
 ---
-नामस्थान में भरण परतें सेटिंग्स हैं
+{{< psd/tize >}}
+यह namespace Fill Layers Settings शामिल करता है।
 
-## कक्षाओं
+## क्लासेस
 
-| कक्षा | विवरण |
+| क्लास | विवरण |
 | --- | --- |
-| [BaseFillSettings](./basefillsettings/) | आधार भरण प्रभाव सेटिंग |
-| [ColorFillSettings](./colorfillsettings/) | रंग भरण प्रभाव सेटिंग |
-| [GradientColorPoint](./gradientcolorpoint/) | ढाल रंग बिंदु। |
-| [GradientFillSettings](./gradientfillsettings/) | ग्रेडिएंट भरण प्रभाव सेटिंग. |
+| [BaseFillSettings](./basefillsettings/) | बेस फ़िल इफ़ेक्ट सेटिंग्स |
+| [ColorFillSettings](./colorfillsettings/) | रंग फ़िल इफ़ेक्ट सेटिंग्स |
+| [GradientColorPoint](./gradientcolorpoint/) | ग्रेडिएंट रंग बिंदु। |
+| [GradientFillSettings](./gradientfillsettings/) | बेस ग्रेडिएंट परिभाषा क्लास। यह दोनों प्रकार के ग्रेडिएंट (सॉलिड और नॉइज़) के लिए सामान्य प्रॉपर्टीज़ शामिल करता है। |
+| [GradientMapSettings](./gradientmapsettings/) | ग्रेडिएंट मैप लेयर के लिए ग्रेडिएंट सेटिंग्स क्लास। यह दोनों प्रकार के ग्रेडिएंट (सॉलिड और नॉइज़) के लिए सामान्य प्रॉपर्टीज़ शामिल करता है। |
 | [GradientTransparencyPoint](./gradienttransparencypoint/) | ग्रेडिएंट ट्रांसपेरेंसी पॉइंट |
-| [PatternFillSettings](./patternfillsettings/) | पैटर्न भरण प्रभाव सेटिंग |
-## इंटरफेस
+| [PatternFillSettings](./patternfillsettings/) | पैटर्न फ़िल इफ़ेक्ट सेटिंग्स |
+## इंटरफ़ेस
 
-| इंटरफेस | विवरण |
+| इंटरफ़ेस | विवरण |
 | --- | --- |
-| [IColorFillSettings](./icolorfillsettings/) | भरने की सेटिंग के लिए बेस इंटरफ़ेस |
-| [IFillSettings](./ifillsettings/) | भरने की सेटिंग के लिए बेस इंटरफ़ेस |
-| [IGradientFillSettings](./igradientfillsettings/) | भरने की सेटिंग के लिए बेस इंटरफ़ेस |
-| [IGradientTransparencyPoint](./igradienttransparencypoint/) | भरने की सेटिंग के लिए बेस इंटरफ़ेस |
-| [IPatternFillSettings](./ipatternfillsettings/) | पैटर्न फ़िल सेटिंग के लिए इंटरफ़ेस |
-## गणना
+| [IColorFillSettings](./icolorfillsettings/) | फ़िल सेटिंग्स के लिए बेस इंटरफ़ेस |
+| [IFillSettings](./ifillsettings/) | फ़िल सेटिंग्स के लिए बेस इंटरफ़ेस |
+| [IGradientFillSettings](./igradientfillsettings/) | ग्रेडिएंट फ़िल सेटिंग्स के लिए बेस इंटरफ़ेस। |
+| [IGradientTransparencyPoint](./igradienttransparencypoint/) | फ़िल सेटिंग्स के लिए बेस इंटरफ़ेस |
+| [IPatternFillSettings](./ipatternfillsettings/) | पैटर्न फ़िल सेटिंग्स के लिए इंटरफ़ेस |
+## एन्यूमरेशन
 
-| गणना | विवरण |
+| एन्यूमरेशन | विवरण |
 | --- | --- |
-| [FillType](./filltype/) | भरण प्रकार |
+| [FillType](./filltype/) | फ़िल प्रकार |
 | [GradientType](./gradienttype/) | ग्रेडिएंट प्रकार |
+| [InterpolationMethod](./interpolationmethod/) | फ़ोटोशॉप ग्रेडिएंट इंटरपोलेशन मेथड के लिए पैक्ड fourCC वैल्यूज़। डिस्क्रिप्टर कुंजी: "gradientsInterpolationMethod" |
 
 

@@ -1,33 +1,34 @@
 ---
-title: ProjectLink.GetXmpRepresentation
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: ProjectLink तरक. स्ट्रंग में मजूद मन क XMP फ़र्मैट में लटत है.
+title: "ProjectLink.GetXmpRepresentation"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "ProjectLink method. XMP प्रारूप में समाहित मान वाली स्ट्रिंग लौटाता है"
 type: docs
 weight: 40
 url: /hi/net/aspose.psd.xmp.schemas.xmpdm/projectlink/getxmprepresentation/
 ---
+{{< psd/tize >}}
 ## ProjectLink.GetXmpRepresentation method
 
-स्ट्रिंग में मौजूद मान को XMP फ़ॉर्मैट में लौटाता है.
+XMP फ़ॉर्मेट में सम्मिलित स्ट्रिंग मान को लौटाता है।
 
 ```csharp
 public override string GetXmpRepresentation()
 ```
 
-### प्रतिलाभ की मात्रा
+### रिटर्न वैल्यू
 
-स्ट्रिंग में मौजूद मान को XMP फ़ॉर्मैट में लौटाता है.
+XMP फ़ॉर्मेट में सम्मिलित स्ट्रिंग मान को लौटाता है।
 
 ### अपवाद
 
-| अपवाद | स्थिति |
+| अपवाद | शर्त |
 | --- | --- |
 | NotImplementedException |  |
 
-### यह सभी देखें
+### देखें भी
 
 * class [ProjectLink](../)
-* नाम स्थान [Aspose.PSD.Xmp.Schemas.XmpDm](../../projectlink/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpDm](../../../aspose.psd.xmp.schemas.xmpdm/)
+* assembly [Aspose.PSD](../../../)
 
 

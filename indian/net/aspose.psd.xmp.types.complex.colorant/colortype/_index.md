@@ -1,11 +1,12 @@
 ---
-title: Enum ColorType
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Aspose.PSD.Xmp.Types.Complex.Colorant.ColorType एनुम. रंग क प्रकर
+title: "एनम ColorType"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Aspose.PSD.Xmp.Types.Complex.Colorant.ColorType एनम। रंग का प्रकार"
 type: docs
-weight: 6000
+weight: 6500
 url: /hi/net/aspose.psd.xmp.types.complex.colorant/colortype/
 ---
+{{< psd/tize >}}
 ## ColorType enumeration
 
 रंग का प्रकार।
@@ -16,14 +17,14 @@ public enum ColorType
 
 ### मान
 
-| नाम | कीमत | विवरण |
+| नाम | मान | विवरण |
 | --- | --- | --- |
-| Process | `1` | प्रक्रिया रंग प्रकार। |
-| Spot | `2` | स्पॉट कलर टाइप. |
+| Process | `1` | प्रोसेस रंग प्रकार। |
+| Spot | `2` | स्पॉट रंग प्रकार। |
 
-### यह सभी देखें
+### देखें भी
 
-* नाम स्थान [Aspose.PSD.Xmp.Types.Complex.Colorant](../../aspose.psd.xmp.types.complex.colorant/)
-* सभा [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.Colorant](../../aspose.psd.xmp.types.complex.colorant/)
+* assembly [Aspose.PSD](../../)
 
 

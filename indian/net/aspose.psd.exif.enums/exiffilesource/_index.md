@@ -1,14 +1,15 @@
 ---
-title: Enum ExifFileSource
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Aspose.PSD.Exif.Enums.ExifFileSource एनुम. exif फ़इल स्रत एनम.
+title: "Enum ExifFileSource"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Aspose.PSD.Exif.Enums.ExifFileSource enum. exif फ़ाइल स्रोत enum"
 type: docs
-weight: 850
+weight: 860
 url: /hi/net/aspose.psd.exif.enums/exiffilesource/
 ---
+{{< psd/tize >}}
 ## ExifFileSource enumeration
 
-exif फ़ाइल स्रोत एनम.
+exif फ़ाइल स्रोत एनेम.
 
 ```csharp
 public enum ExifFileSource : byte
@@ -16,16 +17,16 @@ public enum ExifFileSource : byte
 
 ### मान
 
-| नाम | कीमत | विवरण |
+| नाम | मान | विवरण |
 | --- | --- | --- |
-| Others | `0` | अन्य। |
-| FilmScanner | `1` | फिल्म स्कैनर. |
+| Others | `0` | अन्य लोग. |
+| FilmScanner | `1` | फ़िल्म स्कैनर. |
 | ReflexionPrintScanner | `2` | रिफ्लेक्शन प्रिंट स्कैनर. |
-| DigitalStillCamera | `3` | डिजिटल स्टिल कैमरा। |
+| DigitalStillCamera | `3` | डिजिटल स्थिर कैमरा. |
 
-### यह सभी देखें
+### देखें भी
 
-* नाम स्थान [Aspose.PSD.Exif.Enums](../../aspose.psd.exif.enums/)
-* सभा [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Exif.Enums](../../aspose.psd.exif.enums/)
+* assembly [Aspose.PSD](../../)
 
 

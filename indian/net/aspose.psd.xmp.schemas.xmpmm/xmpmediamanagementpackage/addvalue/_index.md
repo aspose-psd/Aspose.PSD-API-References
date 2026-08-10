@@ -1,28 +1,29 @@
 ---
-title: XmpMediaManagementPackage.AddValue
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: XmpMediaManagementPackage तरक. स्ट्रंग गुण जड़त है.
+title: "XmpMediaManagementPackage.AddValue"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "XmpMediaManagementPackage मेथड। स्ट्रिंग प्रॉपर्टी जोड़ता है"
 type: docs
 weight: 20
 url: /hi/net/aspose.psd.xmp.schemas.xmpmm/xmpmediamanagementpackage/addvalue/
 ---
+{{< psd/tize >}}
 ## XmpMediaManagementPackage.AddValue method
 
-स्ट्रिंग गुण जोड़ता है.
+स्ट्रिंग प्रॉपर्टी जोड़ता है।
 
 ```csharp
 public override void AddValue(string key, string value)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| key | String | कुंजी का स्ट्रिंग प्रतिनिधित्व जो अतिरिक्त मूल्य के साथ पहचाना जाता है। |
-| value | String | स्ट्रिंग मान। |
+| कुंजी | String | जोड़े गए मान के साथ पहचाने गए कुंजी का स्ट्रिंग प्रतिनिधित्व। |
+| मान | String | स्ट्रिंग मान। |
 
-### यह सभी देखें
+### देखें भी
 
 * class [XmpMediaManagementPackage](../)
-* नाम स्थान [Aspose.PSD.Xmp.Schemas.XmpMm](../../xmpmediamanagementpackage/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpMm](../../../aspose.psd.xmp.schemas.xmpmm/)
+* assembly [Aspose.PSD](../../../)
 
 

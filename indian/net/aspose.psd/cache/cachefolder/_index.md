@@ -1,27 +1,28 @@
 ---
-title: Cache.CacheFolder
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Cache संपत्त. कैश फ़ल्डर प्रप्त य सेट करत है
+title: "Cache.CacheFolder"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Cache property. कैश फ़ोल्डर को प्राप्त या सेट करता है"
 type: docs
 weight: 30
 url: /hi/net/aspose.psd/cache/cachefolder/
 ---
+{{< psd/tize >}}
 ## Cache.CacheFolder property
 
-कैश फ़ोल्डर प्राप्त या सेट करता है।
+कैश फ़ोल्डर को प्राप्त करता है या सेट करता है।
 
 ```csharp
 public static string CacheFolder { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
 कैश फ़ोल्डर।
 
-### यह सभी देखें
+### देखें भी
 
 * class [Cache](../)
-* नाम स्थान [Aspose.PSD](../../cache/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

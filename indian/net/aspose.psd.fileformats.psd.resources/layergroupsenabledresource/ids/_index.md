@@ -1,27 +1,28 @@
 ---
-title: LayerGroupsEnabledResource.IDs
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: LayerGroupsEnabledResource संपत्त. i ds. प्रप्त य सेट करत है
+title: "LayerGroupsEnabledResource.IDs"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "LayerGroupsEnabledResource प्रॉपर्टी। आईडीज़ प्राप्त करता है या सेट करता है"
 type: docs
 weight: 30
 url: /hi/net/aspose.psd.fileformats.psd.resources/layergroupsenabledresource/ids/
 ---
+{{< psd/tize >}}
 ## LayerGroupsEnabledResource.IDs property
 
-i ds. प्राप्त या सेट करता है
+आईडीज़ को प्राप्त या सेट करता है।
 
 ```csharp
 public byte[] IDs { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-i ds.
+यह i ds.
 
-### यह सभी देखें
+### देखें भी
 
 * class [LayerGroupsEnabledResource](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Resources](../../layergroupsenabledresource/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

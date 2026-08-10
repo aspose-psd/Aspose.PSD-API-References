@@ -1,14 +1,15 @@
 ---
-title: Class ChannelInformation
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Aspose.PSD.FileFormats.Psd.Layers.ChannelInformation कक्ष. चैनल क जनकर
+title: "क्लास ChannelInformation"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Aspose.PSD.FileFormats.Psd.Layers.ChannelInformation क्लास। चैनल जानकारी"
 type: docs
-weight: 1900
+weight: 2010
 url: /hi/net/aspose.psd.fileformats.psd.layers/channelinformation/
 ---
+{{< psd/tize >}}
 ## ChannelInformation class
 
-चैनल की जानकारी।
+चैनल जानकारी।
 
 ```csharp
 public class ChannelInformation
@@ -18,19 +19,19 @@ public class ChannelInformation
 
 | नाम | विवरण |
 | --- | --- |
-| [ChannelInformation](channelinformation/)(CompressionMethod, int, int) | का एक नया उदाहरण प्रारंभ करता है`ChannelInformation` वर्ग. |
+| [ChannelInformation](channelinformation/)(CompressionMethod, int, int) | `ChannelInformation` क्लास की नई इंस्टेंस को प्रारंभ करता है। |
 
-## गुण
+## प्रॉपर्टीज़
 
 | नाम | विवरण |
 | --- | --- |
-| [ChannelID](../../aspose.psd.fileformats.psd.layers/channelinformation/channelid/) { get; set; } | चैनल आईडी प्राप्त या सेट करता है। |
-| [CompressionMethod](../../aspose.psd.fileformats.psd.layers/channelinformation/compressionmethod/) { get; set; } | संपीड़न विधि प्राप्त या सेट करता है। |
+| [ChannelID](../../aspose.psd.fileformats.psd.layers/channelinformation/channelid/) { get; set; } | चैनल ID प्राप्त करता है या सेट करता है। |
+| [CompressionMethod](../../aspose.psd.fileformats.psd.layers/channelinformation/compressionmethod/) { get; set; } | कम्प्रेशन विधि प्राप्त करता है या सेट करता है। |
 | [Length](../../aspose.psd.fileformats.psd.layers/channelinformation/length/) { get; } | बाइट्स में चैनल की लंबाई प्राप्त करता है। |
 
-### यह सभी देखें
+### देखें भी
 
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers](../../aspose.psd.fileformats.psd.layers/)
-* सभा [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../)
 
 

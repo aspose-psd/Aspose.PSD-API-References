@@ -1,27 +1,28 @@
 ---
-title: ExifData.SubsecTimeDigitized
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: ExifData संपत्त. डेटटइमडजटइज्ड टैग के लए सेकंड के अंशं क प्रप्त य सेट करत है
+title: "ExifData.SubsecTimeDigitized"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "ExifData प्रॉपर्टी। DateTimeDigitized टैग के लिए सेकंड के अंश को प्राप्त करता है या सेट करता है"
 type: docs
 weight: 1040
 url: /hi/net/aspose.psd.exif/exifdata/subsectimedigitized/
 ---
+{{< psd/tize >}}
 ## ExifData.SubsecTimeDigitized property
 
-डेटटाइमडिजिटाइज्ड टैग के लिए सेकंड के अंशों को प्राप्त या सेट करता है।
+DateTimeDigitized टैग के लिए सेकंड के अंश को प्राप्त करता है या सेट करता है।
 
 ```csharp
 public string SubsecTimeDigitized { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-डेटटाइमडिजिटाइज्ड टैग के लिए सेकंड के अंश।
+DateTimeDigitized टैग के लिए सेकंड के अंश।
 
-### यह सभी देखें
+### देखें भी
 
 * class [ExifData](../)
-* नाम स्थान [Aspose.PSD.Exif](../../exifdata/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

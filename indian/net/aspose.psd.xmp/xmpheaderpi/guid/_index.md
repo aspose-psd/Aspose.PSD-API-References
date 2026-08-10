@@ -1,27 +1,28 @@
 ---
-title: XmpHeaderPi.Guid
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: XmpHeaderPi संपत्त. हेडर गइड क प्रतनधत्व करत है
+title: "XmpHeaderPi.Guid"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "XmpHeaderPi प्रॉपर्टी। हेडर GUID का प्रतिनिधित्व करता है।"
 type: docs
 weight: 20
 url: /hi/net/aspose.psd.xmp/xmpheaderpi/guid/
 ---
+{{< psd/tize >}}
 ## XmpHeaderPi.Guid property
 
-हेडर गाइड का प्रतिनिधित्व करता है।
+हेडर GUID का प्रतिनिधित्व करता है।
 
 ```csharp
 public string Guid { get; set; }
 ```
 
-### टिप्पणियों
+## टिप्पणियाँ
 
-हेडर PI के टेक्स्ट में एक GUID है, जिससे डेटा स्ट्रीम में गलती से दिखाई देने की संभावना नहीं है।
+हेडर PI के टेक्स्ट में एक GUID शामिल है, जिससे यह डेटा स्ट्रीम में आकस्मिक रूप से प्रकट होने की संभावना कम हो जाती है।
 
-### यह सभी देखें
+### देखें भी
 
 * class [XmpHeaderPi](../)
-* नाम स्थान [Aspose.PSD.Xmp](../../xmpheaderpi/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

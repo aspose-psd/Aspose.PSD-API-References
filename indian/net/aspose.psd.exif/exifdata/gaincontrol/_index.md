@@ -1,28 +1,29 @@
 ---
-title: ExifData.GainControl
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: ExifData संपत्त. समग्र छव लभ समयजन क डग्र प्रप्त य सेट करत है
+title: "ExifData.GainControl"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "ExifData प्रॉपर्टी। संपूर्ण छवि गेन समायोजन की डिग्री को प्राप्त करता है या सेट करता है"
 type: docs
 weight: 340
 url: /hi/net/aspose.psd.exif/exifdata/gaincontrol/
 ---
+{{< psd/tize >}}
 ## ExifData.GainControl property
 
-समग्र छवि लाभ समायोजन की डिग्री प्राप्त या सेट करता है।
+समग्र इमेज गेन समायोजन की डिग्री प्राप्त करता है या सेट करता है।
 
 ```csharp
 public ExifGainControl GainControl { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-समग्र छवि लाभ समायोजन की डिग्री।
+समग्र छवि गेन समायोजन की डिग्री।
 
-### यह सभी देखें
+### देखें भी
 
 * enum [ExifGainControl](../../../aspose.psd.exif.enums/exifgaincontrol/)
 * class [ExifData](../)
-* नाम स्थान [Aspose.PSD.Exif](../../exifdata/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

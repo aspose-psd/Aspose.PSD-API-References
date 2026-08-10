@@ -1,23 +1,24 @@
 ---
-title: JpegOptions.HorizontalSampling
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: JpegOptions संपत्त. प्रत्येक घटक के लए क्षैतज सबसैम्पलंग प्रप्त य सेट करत है
+title: "JpegOptions.HorizontalSampling"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "JpegOptions प्रॉपर्टी। प्रत्येक घटक के लिए क्षैतिज सबसैंपलिंग को प्राप्त करता है या सेट करता है"
 type: docs
-weight: 80
+weight: 90
 url: /hi/net/aspose.psd.imageoptions/jpegoptions/horizontalsampling/
 ---
+{{< psd/tize >}}
 ## JpegOptions.HorizontalSampling property
 
-प्रत्येक घटक के लिए क्षैतिज सबसैम्पलिंग प्राप्त या सेट करता है।
+प्रत्येक घटक के लिए क्षैतिज सबसैंपलिंग को प्राप्त करता है या सेट करता है।
 
 ```csharp
 public byte[] HorizontalSampling { get; set; }
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * class [JpegOptions](../)
-* नाम स्थान [Aspose.PSD.ImageOptions](../../jpegoptions/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

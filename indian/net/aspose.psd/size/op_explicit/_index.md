@@ -1,32 +1,33 @@
 ---
-title: Size.op_Explicit
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Size तरक. नर्दष्ट क परवर्तत करत हैSize एक के लएPoint .
+title: "Size.op_Explicit"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Size मेथड। निर्दिष्ट Size को Point में परिवर्तित करता है।"
 type: docs
 weight: 160
 url: /hi/net/aspose.psd/size/op_explicit/
 ---
+{{< psd/tize >}}
 ## Size Explicit operator
 
-निर्दिष्ट को परिवर्तित करता है[`Size`](../) एक के लिए[`Point`](../../point/) .
+निर्दिष्ट [`Size`](../) को [`Point`](../../point/) में परिवर्तित करता है।
 
 ```csharp
 public static explicit operator Point(Size size)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| size | Size | [`Size`](../) रूपान्तरण करने के लिए। |
+| size | Size | परिवर्तित करने के लिए [`Size`](../)। |
 
-### प्रतिलाभ की मात्रा
+### रिटर्न वैल्यू
 
-[`Point`](../../point/) संरचना जिसमें यह ऑपरेटर परिवर्तित होता है।
+यह ऑपरेटर जिस [`Point`](../../point/) संरचना में परिवर्तित करता है।
 
-### यह सभी देखें
+### देखें भी
 
 * struct [Point](../../point/)
 * struct [Size](../)
-* नाम स्थान [Aspose.PSD](../../size/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

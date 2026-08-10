@@ -1,27 +1,28 @@
 ---
-title: VersionInfoResource.DataSize
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: VersionInfoResource संपत्त. बइट्स में संसधन डेट आकर प्रप्त करत है
+title: "VersionInfoResource.DataSize"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "VersionInfoResource प्रॉपर्टी। बाइट्स में संसाधन डेटा आकार प्राप्त करता है"
 type: docs
 weight: 20
 url: /hi/net/aspose.psd.fileformats.psd.resources/versioninforesource/datasize/
 ---
+{{< psd/tize >}}
 ## VersionInfoResource.DataSize property
 
-बाइट्स में संसाधन डेटा आकार प्राप्त करता है।
+संसाधन डेटा आकार को बाइट्स में प्राप्त करता है।
 
 ```csharp
 public override int DataSize { get; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
 संसाधन डेटा आकार.
 
-### यह सभी देखें
+### देखें भी
 
 * class [VersionInfoResource](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Resources](../../versioninforesource/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

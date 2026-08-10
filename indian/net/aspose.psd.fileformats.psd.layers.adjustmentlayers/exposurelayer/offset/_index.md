@@ -1,27 +1,28 @@
 ---
-title: ExposureLayer.Offset
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: ExposureLayer संपत्त. ऑफसेट प्रप्त य सेट करत है PS के लए ऑफ़सेट क सम 0.5 से 0.5 तक है
+title: "ExposureLayer.Offset"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "ExposureLayer प्रॉपर्टी। ऑफसेट प्राप्त करता है या सेट करता है। PS के लिए ऑफसेट की सीमा 0.5 से 0.5 है"
 type: docs
 weight: 30
 url: /hi/net/aspose.psd.fileformats.psd.layers.adjustmentlayers/exposurelayer/offset/
 ---
+{{< psd/tize >}}
 ## ExposureLayer.Offset property
 
-ऑफसेट प्राप्त या सेट करता है। PS के लिए ऑफ़सेट की सीमा -0.5 से +0.5 तक है
+Offset प्राप्त करता है या सेट करता है। PS में Offset की सीमा -0.5 से +0.5 तक है।
 
 ```csharp
 public float Offset { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-ऑफ़सेट.
+ऑफ़सेट।
 
-### यह सभी देखें
+### देखें भी
 
 * class [ExposureLayer](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../exposurelayer/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/)
+* assembly [Aspose.PSD](../../../)
 
 

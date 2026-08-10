@@ -1,11 +1,12 @@
 ---
-title: PhotoshopPackage.SetHeadline
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: PhotoshopPackage तरक. हेडलइन सेट करत है
+title: "PhotoshopPackage.SetHeadline"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "PhotoshopPackage मेथड। शीर्षक सेट करता है"
 type: docs
 weight: 120
 url: /hi/net/aspose.psd.xmp.schemas.photoshop/photoshoppackage/setheadline/
 ---
+{{< psd/tize >}}
 ## PhotoshopPackage.SetHeadline method
 
 हेडलाइन सेट करता है।
@@ -14,14 +15,14 @@ url: /hi/net/aspose.psd.xmp.schemas.photoshop/photoshoppackage/setheadline/
 public void SetHeadline(string headline)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| headline | String | शीर्षक। |
+| शीर्षक | String | शीर्षक। |
 
-### यह सभी देखें
+### देखें भी
 
 * class [PhotoshopPackage](../)
-* नाम स्थान [Aspose.PSD.Xmp.Schemas.Photoshop](../../photoshoppackage/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.Photoshop](../../../aspose.psd.xmp.schemas.photoshop/)
+* assembly [Aspose.PSD](../../../)
 
 

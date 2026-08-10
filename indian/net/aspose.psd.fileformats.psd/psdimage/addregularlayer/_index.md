@@ -1,26 +1,27 @@
 ---
-title: PsdImage.AddRegularLayer
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: PsdImage तरक. एक नई नयमत परत जड़त है.
+title: "PsdImage.AddRegularLayer"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "PsdImage मेथड। एक नया रेगुलर लेयर जोड़ता है"
 type: docs
-weight: 410
+weight: 440
 url: /hi/net/aspose.psd.fileformats.psd/psdimage/addregularlayer/
 ---
+{{< psd/tize >}}
 ## PsdImage.AddRegularLayer method
 
-एक नई नियमित परत जोड़ता है.
+एक नया नियमित लेयर जोड़ता है।
 
 ```csharp
 public Layer AddRegularLayer()
 ```
 
-### प्रतिलाभ की मात्रा
+### रिटर्न वैल्यू
 
-नियमित परत बनाई गई।
+रेगुलर लेयर बनाया गया।
 
-### उदाहरण
+## उदाहरण
 
-निम्न कोड दिखाता है कि नई उत्पन्न नियमित परत को PsdImage में कैसे जोड़ा जाए।
+निम्नलिखित कोड दिखाता है कि कैसे नई उत्पन्न रेगुलर लेयर को PsdImage में जोड़ें।
 
 ```csharp
 [C#]
@@ -31,7 +32,7 @@ string exportPathPng = "OneLayerEdited.png";
 
 using (var im = (PsdImage)Image.Load(sourceFileName))
 {
-    // दो इंट सरणियों की तैयारी
+    // दो इंट एरे तैयार कर रहे हैं
     var data1 = new int[2500];
     var data2 = new int[2500];
 
@@ -58,19 +59,19 @@ using (var im = (PsdImage)Image.Load(sourceFileName))
     layer2.Bottom = 175;
     layer2.SaveArgb32Pixels(rect2, data2);
 
-    // पीएसडी बचाओ
+    // psd सहेजें
     im.Save(exportPath, new PsdOptions());
 
-    // पीएनजी सहेजें
+    // png सहेजें
     im.Save(exportPathPng, new PngOptions());
 }
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * class [Layer](../../../aspose.psd.fileformats.psd.layers/layer/)
 * class [PsdImage](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,231 +1,232 @@
 ---
-title: GraphicsPath.IsOutlineVisible
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: GraphicsPath तरक. इंगत करत है क नर्दष्ट बंदु इस क रूपरेख के भतर नचे नहत है य नहंGraphicsPath जब नर्दष्ट के सथ खंच गयPen .
+title: "GraphicsPath.IsOutlineVisible"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "GraphicsPath मेथड। यह दर्शाता है कि निर्दिष्ट बिंदु इस GraphicsPath की रूपरेखा के नीचे (अंतर्गत) है या नहीं, जब इसे निर्दिष्ट पेन से खींचा जाता है।"
 type: docs
 weight: 110
 url: /hi/net/aspose.psd/graphicspath/isoutlinevisible/
 ---
+{{< psd/tize >}}
 ## IsOutlineVisible(float, float, Pen) {#isoutlinevisible_6}
 
-इंगित करता है कि निर्दिष्ट बिंदु इस की रूपरेखा के भीतर (नीचे) निहित है या नहीं[`GraphicsPath`](../) जब निर्दिष्ट के साथ खींचा गया[`Pen`](../../pen/) .
+यह दर्शाता है कि निर्दिष्ट बिंदु इस [`GraphicsPath`](../) की रूपरेखा के भीतर (नीचे) है या नहीं, जब इसे निर्दिष्ट [`Pen`](../../pen/) से खींचा जाता है।
 
 ```csharp
 public bool IsOutlineVisible(float x, float y, Pen pen)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| x | Single | परीक्षण किए जाने वाले बिंदु का x-निर्देशांक। |
-| y | Single | परीक्षण किए जाने वाले बिंदु का y-निर्देशांक। |
-| pen | Pen | [`Pen`](../../pen/) परीक्षा करना। |
+| x | Single | परीक्षण बिंदु का x-निर्देशांक। |
+| y | Single | परीक्षण बिंदु का y-निर्देशांक। |
+| pen | Pen | परीक्षण के लिए [`Pen`](../../pen/)। |
 
-### प्रतिलाभ की मात्रा
+### रिटर्न वैल्यू
 
-यह विधि सत्य लौटाती है यदि निर्दिष्ट बिंदु इस की रूपरेखा के भीतर समाहित है[`GraphicsPath`](../) जब निर्दिष्ट के साथ खींचा गया[`Pen`](../../pen/) ; अन्यथा, असत्य.
+यह मेथड true लौटाता है यदि निर्दिष्ट बिंदु इस [`GraphicsPath`](../) की रूपरेखा के भीतर है, जब इसे निर्दिष्ट [`Pen`](../../pen/) से खींचा जाता है; अन्यथा, false।
 
-### यह सभी देखें
+### देखें भी
 
 * class [Pen](../../pen/)
 * class [GraphicsPath](../)
-* नाम स्थान [Aspose.PSD](../../graphicspath/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## IsOutlineVisible(PointF, Pen) {#isoutlinevisible_2}
 
-इंगित करता है कि निर्दिष्ट बिंदु इस की रूपरेखा के भीतर (नीचे) निहित है या नहीं[`GraphicsPath`](../) जब निर्दिष्ट के साथ खींचा गया[`Pen`](../../pen/) .
+यह दर्शाता है कि निर्दिष्ट बिंदु इस [`GraphicsPath`](../) की रूपरेखा के भीतर (नीचे) है या नहीं, जब इसे निर्दिष्ट [`Pen`](../../pen/) से खींचा जाता है।
 
 ```csharp
 public bool IsOutlineVisible(PointF point, Pen pen)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| point | PointF | ए[`PointF`](../../pointf/) जो परीक्षण करने के लिए स्थान निर्दिष्ट करता है। |
-| pen | Pen | [`Pen`](../../pen/) परीक्षा करना। |
+| point | PointF | एक [`PointF`](../../pointf/) जो परीक्षण के लिए स्थान निर्दिष्ट करता है। |
+| pen | Pen | परीक्षण के लिए [`Pen`](../../pen/)। |
 
-### प्रतिलाभ की मात्रा
+### रिटर्न वैल्यू
 
-यह विधि सत्य लौटाती है यदि निर्दिष्ट बिंदु इस की रूपरेखा के भीतर समाहित है[`GraphicsPath`](../) जब निर्दिष्ट के साथ खींचा गया[`Pen`](../../pen/) ; अन्यथा, असत्य.
+यह मेथड true लौटाता है यदि निर्दिष्ट बिंदु इस [`GraphicsPath`](../) की रूपरेखा के भीतर है, जब इसे निर्दिष्ट [`Pen`](../../pen/) से खींचा जाता है; अन्यथा, false।
 
-### यह सभी देखें
+### देखें भी
 
 * struct [PointF](../../pointf/)
 * class [Pen](../../pen/)
 * class [GraphicsPath](../)
-* नाम स्थान [Aspose.PSD](../../graphicspath/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## IsOutlineVisible(float, float, Pen, Graphics) {#isoutlinevisible_7}
 
-इंगित करता है कि निर्दिष्ट बिंदु इस की रूपरेखा के भीतर (नीचे) निहित है या नहीं[`GraphicsPath`](../) जब निर्दिष्ट के साथ खींचा गया[`Pen`](../../pen/) और निर्दिष्ट का उपयोग करना[`Graphics`](../../graphics/) .
+यह दर्शाता है कि निर्दिष्ट बिंदु इस [`GraphicsPath`](../) की रूपरेखा के भीतर (नीचे) है या नहीं, जब इसे निर्दिष्ट [`Pen`](../../pen/) से खींचा जाता है और निर्दिष्ट [`Graphics`](../../graphics/) का उपयोग किया जाता है।
 
 ```csharp
 public bool IsOutlineVisible(float x, float y, Pen pen, Graphics graphics)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| x | Single | परीक्षण किए जाने वाले बिंदु का x-निर्देशांक। |
-| y | Single | परीक्षण किए जाने वाले बिंदु का y-निर्देशांक। |
-| pen | Pen | [`Pen`](../../pen/) परीक्षा करना। |
-| graphics | Graphics | [`Graphics`](../../graphics/) जिसके लिए दृश्यता का परीक्षण करना है। |
+| x | Single | परीक्षण बिंदु का x-निर्देशांक। |
+| y | Single | परीक्षण बिंदु का y-निर्देशांक। |
+| pen | Pen | परीक्षण के लिए [`Pen`](../../pen/)। |
+| graphics | Graphics | जिस [`Graphics`](../../graphics/) के लिए दृश्यता परीक्षण करना है। |
 
-### प्रतिलाभ की मात्रा
+### रिटर्न वैल्यू
 
-यह विधि सत्य लौटाती है यदि निर्दिष्ट बिंदु इस की रूपरेखा के भीतर (नीचे) समाहित है[`GraphicsPath`](../) जैसा कि निर्दिष्ट के साथ तैयार किया गया है[`Pen`](../../pen/) ; अन्यथा, असत्य.
+यह मेथड true लौटाता है यदि निर्दिष्ट बिंदु इस [`GraphicsPath`](../) की रूपरेखा के भीतर (नीचे) है, जब इसे निर्दिष्ट [`Pen`](../../pen/) से खींचा जाता है; अन्यथा, false।
 
-### यह सभी देखें
+### देखें भी
 
 * class [Pen](../../pen/)
 * class [Graphics](../../graphics/)
 * class [GraphicsPath](../)
-* नाम स्थान [Aspose.PSD](../../graphicspath/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## IsOutlineVisible(PointF, Pen, Graphics) {#isoutlinevisible_3}
 
-इंगित करता है कि निर्दिष्ट बिंदु इस की रूपरेखा के भीतर (नीचे) निहित है या नहीं[`GraphicsPath`](../) जब निर्दिष्ट के साथ खींचा गया[`Pen`](../../pen/) और निर्दिष्ट का उपयोग करना[`Graphics`](../../graphics/) .
+यह दर्शाता है कि निर्दिष्ट बिंदु इस [`GraphicsPath`](../) की रूपरेखा के भीतर (नीचे) है या नहीं, जब इसे निर्दिष्ट [`Pen`](../../pen/) से खींचा जाता है और निर्दिष्ट [`Graphics`](../../graphics/) का उपयोग किया जाता है।
 
 ```csharp
 public bool IsOutlineVisible(PointF pt, Pen pen, Graphics graphics)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| pt | PointF | ए[`PointF`](../../pointf/) जो परीक्षण करने के लिए स्थान निर्दिष्ट करता है। |
-| pen | Pen | [`Pen`](../../pen/) परीक्षा करना। |
-| graphics | Graphics | [`Graphics`](../../graphics/) जिसके लिए दृश्यता का परीक्षण करना है। |
+| pt | PointF | एक [`PointF`](../../pointf/) जो परीक्षण के लिए स्थान निर्दिष्ट करता है। |
+| pen | Pen | परीक्षण के लिए [`Pen`](../../pen/)। |
+| graphics | Graphics | जिस [`Graphics`](../../graphics/) के लिए दृश्यता परीक्षण करना है। |
 
-### प्रतिलाभ की मात्रा
+### रिटर्न वैल्यू
 
-यह विधि सत्य लौटाती है यदि निर्दिष्ट बिंदु इस की रूपरेखा के भीतर (नीचे) समाहित है[`GraphicsPath`](../) जैसा कि निर्दिष्ट के साथ तैयार किया गया है[`Pen`](../../pen/) ; अन्यथा, असत्य.
+यह मेथड true लौटाता है यदि निर्दिष्ट बिंदु इस [`GraphicsPath`](../) की रूपरेखा के भीतर (नीचे) है, जब इसे निर्दिष्ट [`Pen`](../../pen/) से खींचा जाता है; अन्यथा, false।
 
-### यह सभी देखें
+### देखें भी
 
 * struct [PointF](../../pointf/)
 * class [Pen](../../pen/)
 * class [Graphics](../../graphics/)
 * class [GraphicsPath](../)
-* नाम स्थान [Aspose.PSD](../../graphicspath/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## IsOutlineVisible(int, int, Pen) {#isoutlinevisible_4}
 
-इंगित करता है कि निर्दिष्ट बिंदु इस की रूपरेखा के भीतर (नीचे) निहित है या नहीं[`GraphicsPath`](../) जब निर्दिष्ट के साथ खींचा गया[`Pen`](../../pen/) .
+यह दर्शाता है कि निर्दिष्ट बिंदु इस [`GraphicsPath`](../) की रूपरेखा के भीतर (नीचे) है या नहीं, जब इसे निर्दिष्ट [`Pen`](../../pen/) से खींचा जाता है।
 
 ```csharp
 public bool IsOutlineVisible(int x, int y, Pen pen)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| x | Int32 | परीक्षण किए जाने वाले बिंदु का x-निर्देशांक। |
-| y | Int32 | परीक्षण किए जाने वाले बिंदु का y-निर्देशांक। |
-| pen | Pen | [`Pen`](../../pen/) परीक्षा करना। |
+| x | Int32 | परीक्षण बिंदु का x-निर्देशांक। |
+| y | Int32 | परीक्षण बिंदु का y-निर्देशांक। |
+| pen | Pen | परीक्षण के लिए [`Pen`](../../pen/)। |
 
-### प्रतिलाभ की मात्रा
+### रिटर्न वैल्यू
 
-यह विधि सत्य लौटाती है यदि निर्दिष्ट बिंदु इस की रूपरेखा के भीतर समाहित है[`GraphicsPath`](../) जब निर्दिष्ट के साथ खींचा गया[`Pen`](../../pen/) ; अन्यथा, असत्य.
+यह मेथड true लौटाता है यदि निर्दिष्ट बिंदु इस [`GraphicsPath`](../) की रूपरेखा के भीतर है, जब इसे निर्दिष्ट [`Pen`](../../pen/) से खींचा जाता है; अन्यथा, false।
 
-### यह सभी देखें
+### देखें भी
 
 * class [Pen](../../pen/)
 * class [GraphicsPath](../)
-* नाम स्थान [Aspose.PSD](../../graphicspath/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## IsOutlineVisible(Point, Pen) {#isoutlinevisible}
 
-इंगित करता है कि निर्दिष्ट बिंदु इस की रूपरेखा के भीतर (नीचे) निहित है या नहीं[`GraphicsPath`](../) जब निर्दिष्ट के साथ खींचा गया[`Pen`](../../pen/) .
+यह दर्शाता है कि निर्दिष्ट बिंदु इस [`GraphicsPath`](../) की रूपरेखा के भीतर (नीचे) है या नहीं, जब इसे निर्दिष्ट [`Pen`](../../pen/) से खींचा जाता है।
 
 ```csharp
 public bool IsOutlineVisible(Point point, Pen pen)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| point | Point | ए[`Point`](../../point/) जो परीक्षण करने के लिए स्थान निर्दिष्ट करता है। |
-| pen | Pen | [`Pen`](../../pen/) परीक्षा करना। |
+| point | Point | एक [`Point`](../../point/) जो परीक्षण के लिए स्थान निर्दिष्ट करता है। |
+| pen | Pen | परीक्षण के लिए [`Pen`](../../pen/)। |
 
-### प्रतिलाभ की मात्रा
+### रिटर्न वैल्यू
 
-यह विधि सत्य लौटाती है यदि निर्दिष्ट बिंदु इस की रूपरेखा के भीतर समाहित है[`GraphicsPath`](../) जब निर्दिष्ट के साथ खींचा गया[`Pen`](../../pen/) ; अन्यथा, असत्य.
+यह मेथड true लौटाता है यदि निर्दिष्ट बिंदु इस [`GraphicsPath`](../) की रूपरेखा के भीतर है, जब इसे निर्दिष्ट [`Pen`](../../pen/) से खींचा जाता है; अन्यथा, false।
 
-### यह सभी देखें
+### देखें भी
 
 * struct [Point](../../point/)
 * class [Pen](../../pen/)
 * class [GraphicsPath](../)
-* नाम स्थान [Aspose.PSD](../../graphicspath/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## IsOutlineVisible(int, int, Pen, Graphics) {#isoutlinevisible_5}
 
-इंगित करता है कि निर्दिष्ट बिंदु इस की रूपरेखा के भीतर (नीचे) निहित है या नहीं[`GraphicsPath`](../) जब निर्दिष्ट के साथ खींचा गया[`Pen`](../../pen/) और निर्दिष्ट का उपयोग करना[`Graphics`](../../graphics/) .
+यह दर्शाता है कि निर्दिष्ट बिंदु इस [`GraphicsPath`](../) की रूपरेखा के भीतर (नीचे) है या नहीं, जब इसे निर्दिष्ट [`Pen`](../../pen/) से खींचा जाता है और निर्दिष्ट [`Graphics`](../../graphics/) का उपयोग किया जाता है।
 
 ```csharp
 public bool IsOutlineVisible(int x, int y, Pen pen, Graphics graphics)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| x | Int32 | परीक्षण किए जाने वाले बिंदु का x-निर्देशांक। |
-| y | Int32 | परीक्षण किए जाने वाले बिंदु का y-निर्देशांक। |
-| pen | Pen | [`Pen`](../../pen/) परीक्षा करना। |
-| graphics | Graphics | [`Graphics`](../../graphics/) जिसके लिए दृश्यता का परीक्षण करना है। |
+| x | Int32 | परीक्षण बिंदु का x-निर्देशांक। |
+| y | Int32 | परीक्षण बिंदु का y-निर्देशांक। |
+| pen | Pen | परीक्षण के लिए [`Pen`](../../pen/)। |
+| graphics | Graphics | जिस [`Graphics`](../../graphics/) के लिए दृश्यता परीक्षण करना है। |
 
-### प्रतिलाभ की मात्रा
+### रिटर्न वैल्यू
 
-यह विधि सत्य लौटाती है यदि निर्दिष्ट बिंदु इस की रूपरेखा के भीतर समाहित है[`GraphicsPath`](../) जैसा कि निर्दिष्ट के साथ तैयार किया गया है[`Pen`](../../pen/) ; अन्यथा, असत्य.
+यह मेथड true लौटाता है यदि निर्दिष्ट बिंदु इस [`GraphicsPath`](../) की रूपरेखा के भीतर है, जब इसे निर्दिष्ट [`Pen`](../../pen/) से खींचा जाता है; अन्यथा, false।
 
-### यह सभी देखें
+### देखें भी
 
 * class [Pen](../../pen/)
 * class [Graphics](../../graphics/)
 * class [GraphicsPath](../)
-* नाम स्थान [Aspose.PSD](../../graphicspath/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## IsOutlineVisible(Point, Pen, Graphics) {#isoutlinevisible_1}
 
-इंगित करता है कि निर्दिष्ट बिंदु इस की रूपरेखा के भीतर (नीचे) निहित है या नहीं[`GraphicsPath`](../) जब निर्दिष्ट के साथ खींचा गया[`Pen`](../../pen/) और निर्दिष्ट का उपयोग करना[`Graphics`](../../graphics/) .
+यह दर्शाता है कि निर्दिष्ट बिंदु इस [`GraphicsPath`](../) की रूपरेखा के भीतर (नीचे) है या नहीं, जब इसे निर्दिष्ट [`Pen`](../../pen/) से खींचा जाता है और निर्दिष्ट [`Graphics`](../../graphics/) का उपयोग किया जाता है।
 
 ```csharp
 public bool IsOutlineVisible(Point pt, Pen pen, Graphics graphics)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| pt | Point | ए[`Point`](../../point/) जो परीक्षण करने के लिए स्थान निर्दिष्ट करता है। |
-| pen | Pen | [`Pen`](../../pen/) परीक्षा करना। |
-| graphics | Graphics | [`Graphics`](../../graphics/) जिसके लिए दृश्यता का परीक्षण करना है। |
+| pt | Point | एक [`Point`](../../point/) जो परीक्षण के लिए स्थान निर्दिष्ट करता है। |
+| pen | Pen | परीक्षण के लिए [`Pen`](../../pen/)। |
+| graphics | Graphics | जिस [`Graphics`](../../graphics/) के लिए दृश्यता परीक्षण करना है। |
 
-### प्रतिलाभ की मात्रा
+### रिटर्न वैल्यू
 
-यह विधि सत्य लौटाती है यदि निर्दिष्ट बिंदु इस की रूपरेखा के भीतर समाहित है[`GraphicsPath`](../) जैसा कि निर्दिष्ट के साथ तैयार किया गया है[`Pen`](../../pen/) ; अन्यथा, असत्य.
+यह मेथड true लौटाता है यदि निर्दिष्ट बिंदु इस [`GraphicsPath`](../) की रूपरेखा के भीतर है, जब इसे निर्दिष्ट [`Pen`](../../pen/) से खींचा जाता है; अन्यथा, false।
 
-### यह सभी देखें
+### देखें भी
 
 * struct [Point](../../point/)
 * class [Pen](../../pen/)
 * class [Graphics](../../graphics/)
 * class [GraphicsPath](../)
-* नाम स्थान [Aspose.PSD](../../graphicspath/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

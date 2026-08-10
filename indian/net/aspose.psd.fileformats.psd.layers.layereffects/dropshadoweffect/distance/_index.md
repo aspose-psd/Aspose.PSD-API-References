@@ -1,27 +1,28 @@
 ---
-title: DropShadowEffect.Distance
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: DropShadowEffect संपत्त. पक्सेल में दूर प्रप्त य सेट करत है
+title: "DropShadowEffect.Distance"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "DropShadowEffect प्रॉपर्टी। पिक्सेल में दूरी को प्राप्त करता है या सेट करता है"
 type: docs
 weight: 40
 url: /hi/net/aspose.psd.fileformats.psd.layers.layereffects/dropshadoweffect/distance/
 ---
+{{< psd/tize >}}
 ## DropShadowEffect.Distance property
 
-पिक्सेल में दूरी प्राप्त या सेट करता है।
+पिक्सेल में दूरी को प्राप्त करता है या सेट करता है।
 
 ```csharp
 public int Distance { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-दूरी.
+दूरी।
 
-### यह सभी देखें
+### देखें भी
 
 * class [DropShadowEffect](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../dropshadoweffect/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../../)
 
 

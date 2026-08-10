@@ -1,28 +1,29 @@
 ---
-title: FillLayer.FillType
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: FillLayer संपत्त. भरण क प्रकर प्रप्त करत है
+title: "FillLayer.FillType"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "FillLayer प्रॉपर्टी। फ़िल का प्रकार प्राप्त करता है।"
 type: docs
 weight: 30
 url: /hi/net/aspose.psd.fileformats.psd.layers.filllayers/filllayer/filltype/
 ---
+{{< psd/tize >}}
 ## FillLayer.FillType property
 
-भरण का प्रकार प्राप्त करता है।
+फ़िल का प्रकार प्राप्त करता है।
 
 ```csharp
 public FillType FillType { get; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-भरने का प्रकार.
+भराव का प्रकार।
 
-### यह सभी देखें
+### देखें भी
 
 * enum [FillType](../../../aspose.psd.fileformats.psd.layers.fillsettings/filltype/)
 * class [FillLayer](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.FillLayers](../../filllayer/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillLayers](../../../aspose.psd.fileformats.psd.layers.filllayers/)
+* assembly [Aspose.PSD](../../../)
 
 

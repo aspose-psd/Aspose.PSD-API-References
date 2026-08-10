@@ -1,28 +1,29 @@
 ---
-title: Timecode.Format
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Timecode संपत्त. में उपयग कए गए प्ररूप क प्रप्त य सेट करत हैTimeValue .
+title: "Timecode.Format"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Timecode प्रॉपर्टी। फ़ॉर्मेट प्राप्त करता है या सेट करता है जो TimeValue में उपयोग किया जाता है"
 type: docs
 weight: 20
 url: /hi/net/aspose.psd.xmp.schemas.xmpdm/timecode/format/
 ---
+{{< psd/tize >}}
 ## Timecode.Format property
 
-में उपयोग किए गए प्रारूप को प्राप्त या सेट करता है[`TimeValue`](../timevalue/) .
+फ़ॉर्मेट प्राप्त करता है या सेट करता है जो [`TimeValue`](../timevalue/) में उपयोग किया जाता है।
 
 ```csharp
 public TimeFormat Format { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-में प्रयुक्त प्रारूप[`TimeValue`](../timevalue/) .
+फ़ॉर्मेट जो [`TimeValue`](../timevalue/) में उपयोग किया जाता है।
 
-### यह सभी देखें
+### देखें भी
 
 * class [TimeFormat](../../timeformat/)
 * class [Timecode](../)
-* नाम स्थान [Aspose.PSD.Xmp.Schemas.XmpDm](../../timecode/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpDm](../../../aspose.psd.xmp.schemas.xmpdm/)
+* assembly [Aspose.PSD](../../../)
 
 

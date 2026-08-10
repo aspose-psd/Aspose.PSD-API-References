@@ -1,27 +1,28 @@
 ---
-title: ResourceBlock.DataSize
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: ResourceBlock संपत्त. बइट्स में संसधन डेट आकर प्रप्त करत है
+title: "ResourceBlock.DataSize"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "ResourceBlock गुण. संसाधन डेटा आकार को बाइट्स में प्राप्त करता है"
 type: docs
 weight: 10
 url: /hi/net/aspose.psd.fileformats.psd/resourceblock/datasize/
 ---
+{{< psd/tize >}}
 ## ResourceBlock.DataSize property
 
-बाइट्स में संसाधन डेटा आकार प्राप्त करता है।
+संसाधन डेटा आकार को बाइट्स में प्राप्त करता है।
 
 ```csharp
 public abstract int DataSize { get; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-संसाधन डेटा आकार।
+संसाधन डेटा आकार.
 
-### यह सभी देखें
+### देखें भी
 
 * class [ResourceBlock](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd](../../resourceblock/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

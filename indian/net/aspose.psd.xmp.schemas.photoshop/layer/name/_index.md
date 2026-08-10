@@ -1,27 +1,28 @@
 ---
-title: Layer.Name
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Layer संपत्त. टेक्स्ट लेयर क नम प्रप्त य सेट करत है
+title: "Layer.Name"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Layer प्रॉपर्टी। टेक्स्ट लेयर का नाम प्राप्त करता है या सेट करता है"
 type: docs
 weight: 20
 url: /hi/net/aspose.psd.xmp.schemas.photoshop/layer/name/
 ---
+{{< psd/tize >}}
 ## Layer.Name property
 
-टेक्स्ट लेयर का नाम प्राप्त या सेट करता है।
+टेक्स्ट लेयर का नाम प्राप्त करता है या सेट करता है।
 
 ```csharp
 public string Name { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-पाठ परत का नाम.
+टेक्स्ट लेयर का नाम।
 
-### यह सभी देखें
+### देखें भी
 
 * class [Layer](../)
-* नाम स्थान [Aspose.PSD.Xmp.Schemas.Photoshop](../../layer/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.Photoshop](../../../aspose.psd.xmp.schemas.photoshop/)
+* assembly [Aspose.PSD](../../../)
 
 

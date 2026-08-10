@@ -1,32 +1,33 @@
 ---
-title: EnumeratedReferenceStructure.EnumeratedReferenceStructure
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: EnumeratedReferenceStructure नर्मत. क एक नय उदहरण प्ररंभ करत हैEnumeratedReferenceStructure वर्ग.
+title: "EnumeratedReferenceStructure.EnumeratedReferenceStructure"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "EnumeratedReferenceStructure कंस्ट्रक्टर। EnumeratedReferenceStructure क्लास का एक नया इंस्टेंस इनिशियलाइज़ करता है"
 type: docs
 weight: 10
 url: /hi/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/enumeratedreferencestructure/enumeratedreferencestructure/
 ---
+{{< psd/tize >}}
 ## EnumeratedReferenceStructure constructor
 
-का एक नया उदाहरण प्रारंभ करता है[`EnumeratedReferenceStructure`](../) वर्ग.
+[`EnumeratedReferenceStructure`](../) क्लास का एक नया इंस्टेंस इनिशियलाइज़ करता है।
 
 ```csharp
 public EnumeratedReferenceStructure(ClassID keyName, ClassID classID, ClassID typeID, 
     ClassID enumName)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| keyName | ClassID | प्रमुख नाम। |
-| classID | ClassID | कक्षा आईडी। |
-| typeID | ClassID | टाइप आईडी। |
+| keyName | ClassID | कुंजी नाम। |
+| classID | ClassID | क्लास आईडी। |
+| typeID | ClassID | टाइप ID। |
 | enumName | ClassID | एनम नाम। |
 
-### यह सभी देखें
+### देखें भी
 
 * class [ClassID](../../../aspose.psd.fileformats.psd.layers.layerresources/classid/)
 * class [EnumeratedReferenceStructure](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../enumeratedreferencestructure/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,31 +1,32 @@
 ---
-title: PsdColorPalette.Argb32Entries
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: PsdColorPalette संपत्त. क 32बट ARGB रंगं क श्रेण मलत है.
+title: "PsdColorPalette.Argb32Entries"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "PsdColorPalette प्रॉपर्टी। 32-बिट ARGB रंगों की एक एरे प्राप्त करता है"
 type: docs
 weight: 30
 url: /hi/net/aspose.psd.fileformats.psd/psdcolorpalette/argb32entries/
 ---
+{{< psd/tize >}}
 ## PsdColorPalette.Argb32Entries property
 
-को 32-बिट ARGB रंगों की श्रेणी मिलती है.
+32-बिट ARGB रंगों की एक एरे प्राप्त करता है।
 
 ```csharp
 public int[] Argb32Entries { get; }
 ```
 
-### प्रतिलाभ की मात्रा
+### रिटर्न वैल्यू
 
-32-बिट ARGB संरचना की सरणी जो इसे बनाती है[`ColorPalette`](../../../aspose.psd/colorpalette/) .
+यह [`ColorPalette`](../../../aspose.psd/colorpalette/) को बनाते हुए 32-बिट ARGB संरचना की एरे है।
 
-### संपत्ति मूल्य
+### Property Value
 
-प्रविष्टियाँ।
+एंट्रीज़।
 
-### यह सभी देखें
+### देखें भी
 
 * class [PsdColorPalette](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd](../../psdcolorpalette/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

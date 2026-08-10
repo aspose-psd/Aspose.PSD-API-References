@@ -1,31 +1,32 @@
 ---
-title: PixelDataFormat.GetBgr
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: PixelDataFormat तरक. प्रत नमूने बट्स क नर्दष्ट संख्य के सथ बजआर रंग प्रप्त करत है
+title: "PixelDataFormat.GetBgr"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "PixelDataFormat मेथड। निर्दिष्ट बिट्स प्रति सैंपल के साथ BGR रंग प्राप्त करता है"
 type: docs
 weight: 180
 url: /hi/net/aspose.psd/pixeldataformat/getbgr/
 ---
+{{< psd/tize >}}
 ## PixelDataFormat.GetBgr method
 
-प्रति नमूने बिट्स की निर्दिष्ट संख्या के साथ बीजीआर रंग प्राप्त करता है।
+निर्दिष्ट नमूना बिट्स की संख्या के साथ BGR रंग प्राप्त करता है।
 
 ```csharp
 public static PixelDataFormat GetBgr(int bitsPerSample)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| bitsPerSample | Int32 | प्रति नमूने बिट्स की संख्या। |
+| bitsPerSample | Int32 | प्रति सैंपल बिट्स की संख्या। |
 
-### प्रतिलाभ की मात्रा
+### रिटर्न वैल्यू
 
-बीजीआर रंग।
+BGR रंग।
 
-### यह सभी देखें
+### देखें भी
 
 * class [PixelDataFormat](../)
-* नाम स्थान [Aspose.PSD](../../pixeldataformat/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

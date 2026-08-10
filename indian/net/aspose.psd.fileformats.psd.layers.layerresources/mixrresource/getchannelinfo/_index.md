@@ -1,37 +1,38 @@
 ---
-title: MixrResource.GetChannelInfo
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: MixrResource तरक. चैनल क जनकर कच्च डेट प्रप्त करत है
+title: "MixrResource.GetChannelInfo"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "MixrResource मेथड। चैनल जानकारी का रॉ डेटा प्राप्त करता है"
 type: docs
-weight: 70
+weight: 50
 url: /hi/net/aspose.psd.fileformats.psd.layers.layerresources/mixrresource/getchannelinfo/
 ---
+{{< psd/tize >}}
 ## MixrResource.GetChannelInfo method
 
-चैनल की जानकारी कच्चा डेटा प्राप्त करता है
+चैनल जानकारी का कच्चा डेटा प्राप्त करता है
 
 ```csharp
 public byte[] GetChannelInfo(int channelIndex)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
 | channelIndex | Int32 | चैनल का सूचकांक। |
 
-### प्रतिलाभ की मात्रा
+### रिटर्न वैल्यू
 
-चैनल की जानकारी की रॉ बाइट सरणी।
+चैनल जानकारी का रॉ बाइट एरे।
 
 ### अपवाद
 
-| अपवाद | स्थिति |
+| अपवाद | शर्त |
 | --- | --- |
-| ArgumentException | मिक्सर संसाधन में 4 से अधिक चैनल नहीं हैं। प्रथम चैनल का सूचकांक 0 है |
+| ArgumentException | Mixr रिसोर्स में अधिकतम 4 चैनल होते हैं। पहले चैनल का इंडेक्स 0 है |
 
-### यह सभी देखें
+### देखें भी
 
 * class [MixrResource](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../mixrresource/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

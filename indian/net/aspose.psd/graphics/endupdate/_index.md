@@ -1,23 +1,24 @@
 ---
-title: Graphics.EndUpdate
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Graphics तरक. बगनअपडेट क कल करने के बद शुरू हुए ग्रफक्स ऑपरेशन क कैशंग क खत्म करत है इस वध क कल करते समय पछले ग्रफक्स ऑपरेशन तुरंत लगू कए जएंगे
+title: "Graphics.EndUpdate"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Graphics मेथड। BeginUpdate को कॉल करने के बाद शुरू किए गए ग्राफ़िक्स ऑपरेशनों की कैशिंग समाप्त करता है। पूर्ववर्ती ग्राफ़िक्स ऑपरेशनों को इस मेथड को कॉल करने पर एक साथ लागू किया जाएगा।"
 type: docs
-weight: 330
+weight: 340
 url: /hi/net/aspose.psd/graphics/endupdate/
 ---
+{{< psd/tize >}}
 ## Graphics.EndUpdate method
 
-बिगिनअपडेट को कॉल करने के बाद शुरू हुए ग्राफिक्स ऑपरेशन की कैशिंग को खत्म करता है। इस विधि को कॉल करते समय पिछले ग्राफिक्स ऑपरेशन तुरंत लागू किए जाएंगे।
+BeginUpdate को कॉल करने के बाद शुरू किए गए ग्राफ़िक्स ऑपरेशनों की कैशिंग समाप्त करता है। पूर्ववर्ती ग्राफ़िक्स ऑपरेशनों को इस मेथड को कॉल करने पर एक साथ लागू किया जाएगा।
 
 ```csharp
 public void EndUpdate()
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * class [Graphics](../)
-* नाम स्थान [Aspose.PSD](../../graphics/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

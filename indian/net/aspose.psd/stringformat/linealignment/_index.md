@@ -1,28 +1,29 @@
 ---
-title: StringFormat.LineAlignment
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: StringFormat संपत्त. क्षैतज तल पर रेख संरेखण प्रप्त य सेट करत है
+title: "StringFormat.LineAlignment"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "StringFormat प्रॉपर्टी। क्षैतिज तल पर लाइन अलाइनमेंट प्राप्त या सेट करता है"
 type: docs
-weight: 100
+weight: 110
 url: /hi/net/aspose.psd/stringformat/linealignment/
 ---
+{{< psd/tize >}}
 ## StringFormat.LineAlignment property
 
-क्षैतिज तल पर रेखा संरेखण प्राप्त या सेट करता है।
+क्षैतिज तल पर लाइन संरेखण प्राप्त करता है या सेट करता है।
 
 ```csharp
 public StringAlignment LineAlignment { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-ए[`StringAlignment`](../../stringalignment/) गणना जो रेखा संरेखण का प्रतिनिधित्व करती है।
+एक [`StringAlignment`](../../stringalignment/) एनेमरेशन जो लाइन अलाइनमेंट को दर्शाता है।
 
-### यह सभी देखें
+### देखें भी
 
 * enum [StringAlignment](../../stringalignment/)
 * class [StringFormat](../)
-* नाम स्थान [Aspose.PSD](../../stringformat/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

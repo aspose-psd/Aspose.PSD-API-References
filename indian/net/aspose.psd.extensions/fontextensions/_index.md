@@ -1,29 +1,30 @@
 ---
-title: Class FontExtensions
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Aspose.PSD.Extensions.FontExtensions कक्ष. के लए वस्तर वधयँ शमल हैंFont वर्ग.
+title: "क्लास FontExtensions"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Aspose.PSD.Extensions.FontExtensions क्लास। फ़ॉन्ट क्लास के लिए एक्सटेंशन मेथड्स शामिल हैं।"
 type: docs
-weight: 1090
+weight: 1100
 url: /hi/net/aspose.psd.extensions/fontextensions/
 ---
+{{< psd/tize >}}
 ## FontExtensions class
 
-के लिए विस्तार विधियाँ शामिल हैं[`Font`](../../aspose.psd/font/) वर्ग.
+[`Font`](../../aspose.psd/font/) क्लास के लिए एक्सटेंशन मेथड्स शामिल हैं।
 
 ```csharp
 public static class FontExtensions
 ```
 
-## तरीकों
+## मेथड्स
 
 | नाम | विवरण |
 | --- | --- |
-| static [ToGdiFont](../../aspose.psd.extensions/fontextensions/togdifont/#togdifont)(Font) | परिवर्तित करता है[`Font`](../../aspose.psd/font/) तकFont . |
-| static [ToGdiFont](../../aspose.psd.extensions/fontextensions/togdifont/#togdifont_1)(Font, GraphicsUnit) | परिवर्तित करता है[`Font`](../../aspose.psd/font/) तकFont . |
+| static [ToGdiFont](../../aspose.psd.extensions/fontextensions/togdifont/#togdifont)(Font) | [`Font`](../../aspose.psd/font/) को Font में परिवर्तित करता है। |
+| static [ToGdiFont](../../aspose.psd.extensions/fontextensions/togdifont/#togdifont_1)(Font, GraphicsUnit) | [`Font`](../../aspose.psd/font/) को Font में परिवर्तित करता है। |
 
-### यह सभी देखें
+### देखें भी
 
-* नाम स्थान [Aspose.PSD.Extensions](../../aspose.psd.extensions/)
-* सभा [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Extensions](../../aspose.psd.extensions/)
+* assembly [Aspose.PSD](../../)
 
 

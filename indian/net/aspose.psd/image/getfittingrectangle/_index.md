@@ -1,63 +1,64 @@
 ---
-title: Image.GetFittingRectangle
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Image तरक. आयत प्रप्त करत है ज वर्तमन छव में फट बैठत है
+title: "Image.GetFittingRectangle"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Image मेथड। वर्तमान इमेज में फिट होने वाला आयत प्राप्त करता है"
 type: docs
-weight: 270
+weight: 280
 url: /hi/net/aspose.psd/image/getfittingrectangle/
 ---
+{{< psd/tize >}}
 ## GetFittingRectangle(Rectangle, int, int) {#getfittingrectangle}
 
-आयत प्राप्त करता है जो वर्तमान छवि में फिट बैठता है।
+वर्तमान छवि में फिट होने वाला आयत प्राप्त करता है।
 
 ```csharp
 public static Rectangle GetFittingRectangle(Rectangle rectangle, int width, int height)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| rectangle | Rectangle | के लिए उपयुक्त आयत पाने के लिए आयत. |
-| width | Int32 | ऑब्जेक्ट की चौड़ाई. |
-| height | Int32 | वस्तु की ऊंचाई। |
+| आयत | Rectangle | वह आयत जिसके लिए फिटिंग आयत प्राप्त करनी है। |
+| चौड़ाई | Int32 | ऑब्जेक्ट की चौड़ाई। |
+| ऊँचाई | Int32 | ऑब्जेक्ट की ऊँचाई। |
 
-### प्रतिलाभ की मात्रा
+### रिटर्न वैल्यू
 
-फिटिंग आयत या अपवाद यदि कोई उपयुक्त आयत नहीं मिल सकता है।
+फ़िटिंग आयत या अपवाद यदि कोई फ़िटिंग आयत नहीं मिल पाती।
 
-### यह सभी देखें
+### देखें भी
 
 * struct [Rectangle](../../rectangle/)
 * class [Image](../)
-* नाम स्थान [Aspose.PSD](../../image/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## GetFittingRectangle(Rectangle, int[], int, int) {#getfittingrectangle_1}
 
-आयत प्राप्त करता है जो वर्तमान छवि में फिट बैठता है।
+वर्तमान छवि में फिट होने वाला आयत प्राप्त करता है।
 
 ```csharp
 public static Rectangle GetFittingRectangle(Rectangle rectangle, int[] pixels, int width, 
     int height)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| rectangle | Rectangle | के लिए उपयुक्त आयत पाने के लिए आयत. |
-| pixels | Int32[] | 32-बिट ARGB पिक्सेल. |
-| width | Int32 | ऑब्जेक्ट की चौड़ाई. |
-| height | Int32 | वस्तु की ऊंचाई। |
+| आयत | Rectangle | वह आयत जिसके लिए फिटिंग आयत प्राप्त करनी है। |
+| पिक्सेल | Int32[] | 32-बिट ARGB पिक्सेल। |
+| चौड़ाई | Int32 | ऑब्जेक्ट की चौड़ाई। |
+| ऊँचाई | Int32 | ऑब्जेक्ट की ऊँचाई। |
 
-### प्रतिलाभ की मात्रा
+### रिटर्न वैल्यू
 
-फिटिंग आयत या अपवाद यदि कोई उपयुक्त आयत नहीं मिल सकता है।
+फ़िटिंग आयत या अपवाद यदि कोई फ़िटिंग आयत नहीं मिल पाती।
 
-### यह सभी देखें
+### देखें भी
 
 * struct [Rectangle](../../rectangle/)
 * class [Image](../)
-* नाम स्थान [Aspose.PSD](../../image/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

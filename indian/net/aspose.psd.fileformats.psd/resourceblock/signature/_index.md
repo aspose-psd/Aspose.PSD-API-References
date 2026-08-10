@@ -1,27 +1,28 @@
 ---
-title: ResourceBlock.Signature
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: ResourceBlock संपत्त. संसधन हस्तक्षर प्रप्त करत है हमेश 8BIM हन चहए.
+title: "ResourceBlock.Signature"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "ResourceBlock गुण. संसाधन हस्ताक्षर को प्राप्त करता है। हमेशा 8BIM होना चाहिए"
 type: docs
 weight: 50
 url: /hi/net/aspose.psd.fileformats.psd/resourceblock/signature/
 ---
+{{< psd/tize >}}
 ## ResourceBlock.Signature property
 
-संसाधन हस्ताक्षर प्राप्त करता है। हमेशा '8BIM' होना चाहिए.
+संसाधन हस्ताक्षर को प्राप्त करता है। हमेशा '8BIM' होना चाहिए।
 
 ```csharp
 public int Signature { get; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
 संसाधन हस्ताक्षर।
 
-### यह सभी देखें
+### देखें भी
 
 * class [ResourceBlock](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd](../../resourceblock/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

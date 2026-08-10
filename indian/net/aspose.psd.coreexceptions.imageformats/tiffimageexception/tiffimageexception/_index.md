@@ -1,91 +1,92 @@
 ---
-title: TiffImageException.TiffImageException
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: TiffImageException नर्मत. क एक नय उदहरण प्ररंभ करत हैTiffImageException वर्ग.
+title: "TiffImageException.TiffImageException"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "TiffImageException कंस्ट्रक्टर। TiffImageException क्लास का नया इंस्टेंस इनिशियलाइज़ करता है"
 type: docs
 weight: 10
 url: /hi/net/aspose.psd.coreexceptions.imageformats/tiffimageexception/tiffimageexception/
 ---
+{{< psd/tize >}}
 ## TiffImageException(string) {#constructor_1}
 
-का एक नया उदाहरण प्रारंभ करता है[`TiffImageException`](../) वर्ग.
+[`TiffImageException`](../) क्लास का नया इंस्टेंस इनिशियलाइज़ करता है।
 
 ```csharp
 public TiffImageException(string message)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
 | message | String | अपवाद संदेश। |
 
-### यह सभी देखें
+### देखें भी
 
 * class [TiffImageException](../)
-* नाम स्थान [Aspose.PSD.CoreExceptions.ImageFormats](../../tiffimageexception/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.CoreExceptions.ImageFormats](../../../aspose.psd.coreexceptions.imageformats/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## TiffImageException(string, Exception) {#constructor_3}
 
-का एक नया उदाहरण प्रारंभ करता है[`TiffImageException`](../) वर्ग.
+[`TiffImageException`](../) क्लास का नया इंस्टेंस इनिशियलाइज़ करता है।
 
 ```csharp
 public TiffImageException(string message, Exception innerException)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
 | message | String | संदेश। |
-| innerException | Exception | भीतर का अपवाद। |
+| innerException | एक्सेप्शन | आंतरिक अपवाद। |
 
-### यह सभी देखें
+### देखें भी
 
 * class [TiffImageException](../)
-* नाम स्थान [Aspose.PSD.CoreExceptions.ImageFormats](../../tiffimageexception/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.CoreExceptions.ImageFormats](../../../aspose.psd.coreexceptions.imageformats/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## TiffImageException(string, TiffOptionsError) {#constructor_2}
 
-का एक नया उदाहरण प्रारंभ करता है[`TiffImageException`](../) वर्ग.
+[`TiffImageException`](../) क्लास का नया इंस्टेंस इनिशियलाइज़ करता है।
 
 ```csharp
 public TiffImageException(string message, TiffOptionsError error)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
 | message | String | संदेश। |
-| error | TiffOptionsError | त्रुटि। |
+| त्रुटि | TiffOptionsError | त्रुटि। |
 
-### यह सभी देखें
+### देखें भी
 
 * enum [TiffOptionsError](../../../aspose.psd.imageoptions/tiffoptionserror/)
 * class [TiffImageException](../)
-* नाम स्थान [Aspose.PSD.CoreExceptions.ImageFormats](../../tiffimageexception/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.CoreExceptions.ImageFormats](../../../aspose.psd.coreexceptions.imageformats/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## TiffImageException(TiffOptionsError) {#constructor}
 
-का एक नया उदाहरण प्रारंभ करता है[`TiffImageException`](../) वर्ग.
+[`TiffImageException`](../) क्लास का नया इंस्टेंस इनिशियलाइज़ करता है।
 
 ```csharp
 public TiffImageException(TiffOptionsError error)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| error | TiffOptionsError | त्रुटि। |
+| त्रुटि | TiffOptionsError | त्रुटि। |
 
-### यह सभी देखें
+### देखें भी
 
 * enum [TiffOptionsError](../../../aspose.psd.imageoptions/tiffoptionserror/)
 * class [TiffImageException](../)
-* नाम स्थान [Aspose.PSD.CoreExceptions.ImageFormats](../../tiffimageexception/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.CoreExceptions.ImageFormats](../../../aspose.psd.coreexceptions.imageformats/)
+* assembly [Aspose.PSD](../../../)
 
 

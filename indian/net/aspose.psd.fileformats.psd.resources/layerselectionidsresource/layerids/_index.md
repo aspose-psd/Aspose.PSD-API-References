@@ -1,27 +1,28 @@
 ---
-title: LayerSelectionIdsResource.LayerIds
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: LayerSelectionIdsResource संपत्त. लेयर आईड प्रप्त य सेट करत है
+title: "LayerSelectionIdsResource.LayerIds"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "LayerSelectionIdsResource प्रॉपर्टी। लेयर आईडी प्राप्त या सेट करता है"
 type: docs
 weight: 40
 url: /hi/net/aspose.psd.fileformats.psd.resources/layerselectionidsresource/layerids/
 ---
+{{< psd/tize >}}
 ## LayerSelectionIdsResource.LayerIds property
 
-लेयर आईडी प्राप्त या सेट करता है।
+लेयर आईडी प्राप्त करता है या सेट करता है।
 
 ```csharp
 public int[] LayerIds { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-लेयर आईडी.
+लेयर आईडी।
 
-### यह सभी देखें
+### देखें भी
 
 * class [LayerSelectionIdsResource](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Resources](../../layerselectionidsresource/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

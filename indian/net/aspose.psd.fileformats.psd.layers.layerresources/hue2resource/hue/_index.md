@@ -1,11 +1,12 @@
 ---
-title: Hue2Resource.Hue
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Hue2Resource संपत्त. मस्टर ह्यू प्रप्त करत है य सेट करत है
+title: "Hue2Resource.Hue"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Hue2Resource प्रॉपर्टी। मुख्य ह्यू को प्राप्त या सेट करता है"
 type: docs
 weight: 30
 url: /hi/net/aspose.psd.fileformats.psd.layers.layerresources/hue2resource/hue/
 ---
+{{< psd/tize >}}
 ## Hue2Resource.Hue property
 
 मास्टर ह्यू प्राप्त करता है या सेट करता है।
@@ -14,14 +15,14 @@ url: /hi/net/aspose.psd.fileformats.psd.layers.layerresources/hue2resource/hue/
 public short Hue { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-मास्टर ह्यू.
+मुख्य ह्यू।
 
-### यह सभी देखें
+### देखें भी
 
 * class [Hue2Resource](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../hue2resource/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

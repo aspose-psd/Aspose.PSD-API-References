@@ -1,26 +1,27 @@
 ---
-title: GdFlResource.AlignWithLayer
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: GdFlResource संपत्त. एक मन प्रप्त य सेट करत है ज इंगत करत है क परत के सथ संरेखत करें.
+title: "GdFlResource.AlignWithLayer"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "GdFlResource प्रॉपर्टी। लेयर के साथ संरेखित करने का संकेत देने वाला मान प्राप्त करता है या सेट करता है"
 type: docs
 weight: 20
 url: /hi/net/aspose.psd.fileformats.psd.layers.layerresources/gdflresource/alignwithlayer/
 ---
+{{< psd/tize >}}
 ## GdFlResource.AlignWithLayer property
 
-एक मान प्राप्त या सेट करता है जो इंगित करता है कि [परत के साथ संरेखित करें].
+लेयर के साथ संरेखित है या नहीं, यह दर्शाने वाला मान प्राप्त करता है या सेट करता है।
 
 ```csharp
 public bool AlignWithLayer { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-`सत्य` अगर [परत के साथ संरेखित करें]; अन्यथा,`असत्य` .
+`true` यदि [align with layer] है; अन्यथा, `false`.
 
-### उदाहरण
+## उदाहरण
 
-निम्न उदाहरण GdFlResource संसाधन लोडिंग के समर्थन को प्रदर्शित करता है।
+निम्नलिखित उदाहरण GdFlResource संसाधन लोडिंग के समर्थन को दर्शाता है।
 
 ```csharp
 [C#]
@@ -40,7 +41,7 @@ using (im)
             {
                 if (res is GdFlResource)
                 {
-                    // अध्ययन
+                    // पढ़ना
                     var resource = (GdFlResource)res;
                     if (resource.AlignWithLayer != false ||
                      (Math.Abs(resource.Angle - 45.0) > 0.001) ||
@@ -114,10 +115,10 @@ using (im)
 }
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * class [GdFlResource](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../gdflresource/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

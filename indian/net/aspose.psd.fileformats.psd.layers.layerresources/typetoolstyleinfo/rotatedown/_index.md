@@ -1,27 +1,28 @@
 ---
-title: TypeToolStyleInfo.RotateDown
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: TypeToolStyleInfo संपत्त. एक मन प्रप्त य सेट करत है ज इंगत करत है क यह नचे क ओर घूमने वल शैल है
+title: "TypeToolStyleInfo.RotateDown"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "TypeToolStyleInfo प्रॉपर्टी। एक मान प्राप्त या सेट करता है जो यह दर्शाता है कि यह रोटेट डाउन शैली है या नहीं"
 type: docs
 weight: 80
 url: /hi/net/aspose.psd.fileformats.psd.layers.layerresources/typetoolstyleinfo/rotatedown/
 ---
+{{< psd/tize >}}
 ## TypeToolStyleInfo.RotateDown property
 
-एक मान प्राप्त या सेट करता है जो इंगित करता है कि यह नीचे की ओर घूमने वाली शैली है।
+यह रोटेट डाउन शैली है या नहीं यह दर्शाने वाला मान प्राप्त करता है या सेट करता है।
 
 ```csharp
 public bool RotateDown { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-`सत्य` अगर यह रोटेट डाउन स्टाइल है; अन्यथा,`असत्य` .
+`true` यदि यह रोटेट डाउन शैली है; अन्यथा, `false`.
 
-### यह सभी देखें
+### देखें भी
 
 * class [TypeToolStyleInfo](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../typetoolstyleinfo/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

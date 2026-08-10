@@ -1,27 +1,28 @@
 ---
-title: InfxResource.BlendInteriorElements
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: InfxResource संपत्त. यह दर्शत है क क्य आंतरक तत्वं क मलएं . मन प्रप्त करत है य सेट करत है
+title: "InfxResource.BlendInteriorElements"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "InfxResource प्रॉपर्टी। ब्लेंड इंटीरियर एलिमेंट्स को दर्शाने वाला मान प्राप्त करता है या सेट करता है"
 type: docs
 weight: 20
 url: /hi/net/aspose.psd.fileformats.psd.layers.layerresources/infxresource/blendinteriorelements/
 ---
+{{< psd/tize >}}
 ## InfxResource.BlendInteriorElements property
 
-यह दर्शाता है कि क्या [आंतरिक तत्वों को मिलाएं] . मान प्राप्त करता है या सेट करता है
+क्या [blend interior elements] है, यह दर्शाने वाला मान प्राप्त करता है या सेट करता है।
 
 ```csharp
 public bool BlendInteriorElements { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-`सत्य` अगर [आंतरिक तत्वों को मिलाएं]; अन्यथा,`असत्य` .
+`true` यदि [blend interior elements]; अन्यथा, `false`।
 
-### यह सभी देखें
+### देखें भी
 
 * class [InfxResource](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../infxresource/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

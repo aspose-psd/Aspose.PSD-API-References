@@ -1,51 +1,52 @@
 ---
-title: TransformBrush.ScaleTransform
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: TransformBrush तरक. नर्दष्ट रशयं द्वर स्थनय ज्यमतय परवर्तन क मपत है यह वध स्केलंग मैट्रक्स क ट्रंसफ़र्म करने के लए तैयर करत है
+title: "TransformBrush.ScaleTransform"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "TransformBrush मेथड। स्थानीय ज्यामितीय रूपांतरण को निर्दिष्ट मानों द्वारा स्केल करता है। यह मेथड स्केलिंग मैट्रिक्स को रूपांतरण में prepend करता है।"
 type: docs
 weight: 70
 url: /hi/net/aspose.psd.brushes/transformbrush/scaletransform/
 ---
+{{< psd/tize >}}
 ## ScaleTransform(float, float) {#scaletransform}
 
-निर्दिष्ट राशियों द्वारा स्थानीय ज्यामितीय परिवर्तन को मापता है। यह विधि स्केलिंग मैट्रिक्स को ट्रांसफ़ॉर्म करने के लिए तैयार करती है।
+स्थानीय ज्यामितीय रूपांतरण को निर्दिष्ट मात्राओं से स्केल करता है। यह मेथड स्केलिंग मैट्रिक्स को रूपांतरण के पहले जोड़ता है।
 
 ```csharp
 public void ScaleTransform(float sx, float sy)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| sx | Single | वह राशि जिसके द्वारा x-अक्ष दिशा में परिवर्तन को मापना है। |
-| sy | Single | वह राशि जिसके द्वारा y-अक्ष दिशा में परिवर्तन को मापना है। |
+| sx | Single | x-अक्ष दिशा में रूपांतरण को स्केल करने की मात्रा। |
+| sy | Single | y-अक्ष दिशा में रूपांतरण को स्केल करने की मात्रा। |
 
-### यह सभी देखें
+### देखें भी
 
 * class [TransformBrush](../)
-* नाम स्थान [Aspose.PSD.Brushes](../../transformbrush/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## ScaleTransform(float, float, MatrixOrder) {#scaletransform_1}
 
-निर्दिष्ट क्रम में निर्दिष्ट मात्रा द्वारा स्थानीय ज्यामितीय परिवर्तन को स्केल करता है।
+स्थानीय ज्यामितीय रूपांतरण को निर्दिष्ट क्रम में निर्दिष्ट मात्राओं से स्केल करता है।
 
 ```csharp
 public void ScaleTransform(float sx, float sy, MatrixOrder order)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| sx | Single | वह राशि जिसके द्वारा x-अक्ष दिशा में परिवर्तन को मापना है। |
-| sy | Single | वह राशि जिसके द्वारा y-अक्ष दिशा में परिवर्तन को मापना है। |
-| order | MatrixOrder | ए[`MatrixOrder`](../../../aspose.psd/matrixorder/) यह निर्दिष्ट करता है कि स्केलिंग मैट्रिक्स को जोड़ना या जोड़ना है या नहीं। |
+| sx | Single | x-अक्ष दिशा में रूपांतरण को स्केल करने की मात्रा। |
+| sy | Single | y-अक्ष दिशा में रूपांतरण को स्केल करने की मात्रा। |
+| order | MatrixOrder | एक [`MatrixOrder`](../../../aspose.psd/matrixorder/) जो स्केलिंग मैट्रिक्स को append या prepend करना है, निर्दिष्ट करता है। |
 
-### यह सभी देखें
+### देखें भी
 
 * enum [MatrixOrder](../../../aspose.psd/matrixorder/)
 * class [TransformBrush](../)
-* नाम स्थान [Aspose.PSD.Brushes](../../transformbrush/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
+* assembly [Aspose.PSD](../../../)
 
 

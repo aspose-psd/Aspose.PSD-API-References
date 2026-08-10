@@ -1,27 +1,28 @@
 ---
-title: StreamContainer.IsStreamDisposedOnClose
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: StreamContainer संपत्त. एक मन प्रप्त करत है ज इंगत करत है क यह स्ट्रम बंद हने पर नपटय गय है य नहं
+title: "StreamContainer.IsStreamDisposedOnClose"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "StreamContainer property. यह दर्शाने वाला मान प्राप्त करता है कि क्या यह स्ट्रीम बंद करने पर नष्ट किया जाता है"
 type: docs
 weight: 50
 url: /hi/net/aspose.psd/streamcontainer/isstreamdisposedonclose/
 ---
+{{< psd/tize >}}
 ## StreamContainer.IsStreamDisposedOnClose property
 
-एक मान प्राप्त करता है जो इंगित करता है कि यह स्ट्रीम बंद होने पर निपटाया गया है या नहीं।
+एक मान प्राप्त करता है जो दर्शाता है कि यह स्ट्रीम बंद होने पर डिस्पोज़ हो जाता है या नहीं।
 
 ```csharp
 public virtual bool IsStreamDisposedOnClose { get; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-`सत्य` अगर धारा बंद हो जाती है; अन्यथा,`असत्य`.
+`true` यदि स्ट्रीम बंद करने पर नष्ट किया जाता है; अन्यथा, `false`।
 
-### यह सभी देखें
+### देखें भी
 
 * class [StreamContainer](../)
-* नाम स्थान [Aspose.PSD](../../streamcontainer/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

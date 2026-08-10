@@ -1,23 +1,24 @@
 ---
-title: ColorantLab.MinA
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: ColorantLab मैदन. न्यूनतम ए घटक मन
+title: "ColorantLab.MinA"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "ColorantLab फ़ील्ड. न्यूनतम A घटक मान"
 type: docs
 weight: 90
 url: /hi/net/aspose.psd.xmp.types.complex.colorant/colorantlab/mina/
 ---
+{{< psd/tize >}}
 ## ColorantLab.MinA field
 
-न्यूनतम ए घटक मान
+न्यूनतम A घटक मान
 
 ```csharp
 public const int MinA;
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * class [ColorantLab](../)
-* नाम स्थान [Aspose.PSD.Xmp.Types.Complex.Colorant](../../colorantlab/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.Colorant](../../../aspose.psd.xmp.types.complex.colorant/)
+* assembly [Aspose.PSD](../../../)
 
 

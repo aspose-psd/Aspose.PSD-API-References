@@ -1,32 +1,33 @@
 ---
-title: PixelDataFormat.op_Inequality
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: PixelDataFormat तरक. द के लए असमनत क परणम देत हैPixelDataFormat कक्षएं.
+title: "PixelDataFormat.op_Inequality"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "PixelDataFormat मेथड। दो PixelDataFormat क्लासों के लिए असमानता का परिणाम लौटाता है"
 type: docs
 weight: 390
 url: /hi/net/aspose.psd/pixeldataformat/op_inequality/
 ---
+{{< psd/tize >}}
 ## PixelDataFormat Inequality operator
 
-दो के लिए असमानता का परिणाम देता है[`PixelDataFormat`](../) कक्षाएं.
+दो [`PixelDataFormat`](../) क्लासों के लिए असमानता का परिणाम लौटाता है।
 
 ```csharp
 public static bool operator !=(PixelDataFormat pixelFormat1, PixelDataFormat pixelFormat2)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| pixelFormat1 | PixelDataFormat | पहला[`PixelDataFormat`](../) तुलना करने के लिए। |
-| pixelFormat2 | PixelDataFormat | दूसरा[`PixelDataFormat`](../) तुलना करने के लिए। |
+| pixelFormat1 | PixelDataFormat | तुलना करने के लिए पहला [`PixelDataFormat`](../)। |
+| pixelFormat2 | PixelDataFormat | तुलना करने के लिए दूसरा [`PixelDataFormat`](../)। |
 
-### प्रतिलाभ की मात्रा
+### रिटर्न वैल्यू
 
-सच है अगर दोनों*pixelFormat1* और*pixelFormat2* गैर-बराबर डेटा हो या पैरामीटर में से एक शून्य हो।
+यदि दोनों *pixelFormat1* और *pixelFormat2* असमान डेटा रखते हैं या किसी एक पैरामीटर का मान null है तो true।
 
-### यह सभी देखें
+### देखें भी
 
 * class [PixelDataFormat](../)
-* नाम स्थान [Aspose.PSD](../../pixeldataformat/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

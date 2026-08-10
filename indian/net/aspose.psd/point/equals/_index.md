@@ -1,31 +1,32 @@
 ---
-title: Point.Equals
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Point तरक. नर्दष्ट करत है क क्य यहPoint नर्दष्ट के समन नर्देशंक शमल हैंObject .
+title: "Point.Equals"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Point मेथड। यह निर्दिष्ट करता है कि यह Point निर्दिष्ट ऑब्जेक्ट के समान निर्देशांक रखता है या नहीं।"
 type: docs
 weight: 110
 url: /hi/net/aspose.psd/point/equals/
 ---
+{{< psd/tize >}}
 ## Point.Equals method
 
-निर्दिष्ट करता है कि क्या यह[`Point`](../) निर्दिष्ट के समान निर्देशांक शामिल हैंObject .
+निर्दिष्ट करता है कि यह [`Point`](../) निर्दिष्ट ऑब्जेक्ट के समान निर्देशांक रखता है या नहीं।
 
 ```csharp
 public override bool Equals(object obj)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| obj | Object | Object परीक्षा करना। |
+| obj | ऑब्जेक्ट | यह Object परीक्षण के लिए। |
 
-### प्रतिलाभ की मात्रा
+### रिटर्न वैल्यू
 
-सच है अगर*obj* एक है[`Point`](../) और इसके समान निर्देशांक हैं[`Point`](../).
+यदि *obj* एक [`Point`](../) है और इस [`Point`](../) के समान निर्देशांक रखता है तो true।
 
-### यह सभी देखें
+### देखें भी
 
 * struct [Point](../)
-* नाम स्थान [Aspose.PSD](../../point/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: ExifData.GPSDestBearingRef
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: ExifData संपत्त. गंतव्य बंदु पर असर देने के लए उपयग कए जने वले जपएस संदर्भ क प्रप्त य सेट करत है
+title: "ExifData.GPSDestBearingRef"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "ExifData प्रॉपर्टी। GPS रेफ़रेंस को प्राप्त या सेट करता है जो गंतव्य बिंदु की दिशा देने के लिए उपयोग किया जाता है"
 type: docs
 weight: 410
 url: /hi/net/aspose.psd.exif/exifdata/gpsdestbearingref/
 ---
+{{< psd/tize >}}
 ## ExifData.GPSDestBearingRef property
 
-गंतव्य बिंदु पर असर देने के लिए उपयोग किए जाने वाले जीपीएस संदर्भ को प्राप्त या सेट करता है।
+गंतव्य बिंदु की दिशा देने के लिए उपयोग किए जाने वाले GPS रेफ़रेंस को प्राप्त करता है या सेट करता है।
 
 ```csharp
 public string GPSDestBearingRef { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-जीपीएस संदर्भ गंतव्य बिंदु पर असर देने के लिए उपयोग किया जाता है।
+गंतव्य बिंदु की दिशा देने के लिए उपयोग किया गया GPS रेफ़रेंस।
 
-### यह सभी देखें
+### देखें भी
 
 * class [ExifData](../)
-* नाम स्थान [Aspose.PSD.Exif](../../exifdata/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

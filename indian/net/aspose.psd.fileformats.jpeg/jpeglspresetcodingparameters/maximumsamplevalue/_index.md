@@ -1,23 +1,24 @@
 ---
-title: JpegLsPresetCodingParameters.MaximumSampleValue
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: JpegLsPresetCodingParameters संपत्त. स्कैन में कस भ छव नमूने के लए अधकतम संभव मन प्रप्त य सेट करत है यह स्कैन में घटकं के लए वस्तवक अधकतम मन से अधक य उसके बरबर हन चहए
+title: "JpegLsPresetCodingParameters.MaximumSampleValue"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "JpegLsPresetCodingParameters प्रॉपर्टी। स्कैन में किसी भी इमेज सैंपल के लिए अधिकतम संभावित मान प्राप्त करता है या सेट करता है। यह स्कैन में घटकों के वास्तविक अधिकतम मान के बराबर या उससे बड़ा होना चाहिए"
 type: docs
 weight: 20
 url: /hi/net/aspose.psd.fileformats.jpeg/jpeglspresetcodingparameters/maximumsamplevalue/
 ---
+{{< psd/tize >}}
 ## JpegLsPresetCodingParameters.MaximumSampleValue property
 
-स्कैन में किसी भी छवि नमूने के लिए अधिकतम संभव मान प्राप्त या सेट करता है। यह स्कैन में घटकों के लिए वास्तविक अधिकतम मान से अधिक या उसके बराबर होना चाहिए।
+स्कैन में किसी भी इमेज सैंपल के लिए अधिकतम संभव मान को प्राप्त करता है या सेट करता है। यह स्कैन में घटकों के वास्तविक अधिकतम मान के बराबर या उससे अधिक होना चाहिए।
 
 ```csharp
 public int MaximumSampleValue { get; set; }
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * class [JpegLsPresetCodingParameters](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Jpeg](../../jpeglspresetcodingparameters/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Jpeg](../../../aspose.psd.fileformats.jpeg/)
+* assembly [Aspose.PSD](../../../)
 
 

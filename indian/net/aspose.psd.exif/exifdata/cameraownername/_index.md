@@ -1,27 +1,28 @@
 ---
-title: ExifData.CameraOwnerName
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: ExifData संपत्त. कैमर मलक क नम प्रप्त य सेट करत है
+title: "ExifData.CameraOwnerName"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "ExifData प्रॉपर्टी. कैमरा मालिक का नाम प्राप्त करता है या सेट करता है"
 type: docs
 weight: 50
 url: /hi/net/aspose.psd.exif/exifdata/cameraownername/
 ---
+{{< psd/tize >}}
 ## ExifData.CameraOwnerName property
 
-कैमरा मालिक का नाम प्राप्त या सेट करता है
+कैमरा मालिक का नाम प्राप्त करता है या सेट करता है
 
 ```csharp
 public string CameraOwnerName { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-कैमरे के मालिक का नाम.
+कैमरा मालिक का नाम।
 
-### यह सभी देखें
+### देखें भी
 
 * class [ExifData](../)
-* नाम स्थान [Aspose.PSD.Exif](../../exifdata/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

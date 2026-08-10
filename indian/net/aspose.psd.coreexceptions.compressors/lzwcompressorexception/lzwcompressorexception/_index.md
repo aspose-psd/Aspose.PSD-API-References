@@ -1,48 +1,49 @@
 ---
-title: LzwCompressorException.LzwCompressorException
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: LzwCompressorException नर्मत. क एक नय उदहरण प्ररंभ करत हैLzwCompressorException वर्ग.
+title: "LzwCompressorException.LzwCompressorException"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "LzwCompressorException कंस्ट्रक्टर। LzwCompressorException क्लास का नया इंस्टेंस इनिशियलाइज़ करता है"
 type: docs
 weight: 10
 url: /hi/net/aspose.psd.coreexceptions.compressors/lzwcompressorexception/lzwcompressorexception/
 ---
+{{< psd/tize >}}
 ## LzwCompressorException(string) {#constructor}
 
-का एक नया उदाहरण प्रारंभ करता है[`LzwCompressorException`](../) वर्ग.
+[`LzwCompressorException`](../) क्लास का नया इंस्टेंस इनिशियलाइज़ करता है।
 
 ```csharp
 public LzwCompressorException(string message)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
 | message | String | अपवाद संदेश। |
 
-### यह सभी देखें
+### देखें भी
 
 * class [LzwCompressorException](../)
-* नाम स्थान [Aspose.PSD.CoreExceptions.Compressors](../../lzwcompressorexception/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.CoreExceptions.Compressors](../../../aspose.psd.coreexceptions.compressors/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## LzwCompressorException(string, Exception) {#constructor_1}
 
-का एक नया उदाहरण प्रारंभ करता है[`LzwCompressorException`](../) वर्ग.
+[`LzwCompressorException`](../) क्लास का नया इंस्टेंस इनिशियलाइज़ करता है।
 
 ```csharp
 public LzwCompressorException(string message, Exception innerException)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
 | message | String | अपवाद संदेश। |
-| innerException | Exception | भीतर का अपवाद। |
+| innerException | एक्सेप्शन | आंतरिक अपवाद। |
 
-### यह सभी देखें
+### देखें भी
 
 * class [LzwCompressorException](../)
-* नाम स्थान [Aspose.PSD.CoreExceptions.Compressors](../../lzwcompressorexception/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.CoreExceptions.Compressors](../../../aspose.psd.coreexceptions.compressors/)
+* assembly [Aspose.PSD](../../../)
 
 

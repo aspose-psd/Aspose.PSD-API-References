@@ -1,36 +1,37 @@
 ---
-title: OSTypeStructuresRegistry.LoadResourceByFirstSupportedDescriptor
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: OSTypeStructuresRegistry तरक. भरOSTypeStructure नर्दष्ट के लए उपयुक्त पहले पए गए सलम बल्लेबज क उपयग करनstream .
+title: "OSTypeStructuresRegistry.LoadResourceByFirstSupportedDescriptor"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "OSTypeStructuresRegistry method. निर्दिष्ट स्ट्रीम के लिए उपयुक्त पहला पाया गया ओपनर उपयोग करके OSTypeStructure लोड करता है"
 type: docs
 weight: 40
 url: /hi/net/aspose.psd.fileformats.psd.layers.layerresources/ostypestructuresregistry/loadresourcebyfirstsupporteddescriptor/
 ---
+{{< psd/tize >}}
 ## OSTypeStructuresRegistry.LoadResourceByFirstSupportedDescriptor method
 
-भार[`OSTypeStructure`](../../ostypestructure/) निर्दिष्ट के लिए उपयुक्त पहले पाए गए सलामी बल्लेबाज का उपयोग करना*stream* .
+पहले पाए गए उपयुक्त ओपनर का उपयोग करके निर्दिष्ट *स्ट्रीम* के लिए [`OSTypeStructure`](../../ostypestructure/) लोड करता है।
 
 ```csharp
 public static OSTypeStructure LoadResourceByFirstSupportedDescriptor(Stream stream)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| stream | Stream | धारा। |
+| stream | Stream | स्ट्रीम। |
 
-### प्रतिलाभ की मात्रा
+### रिटर्न वैल्यू
 
-भरी हुई[`LayerResource`](../../../aspose.psd.fileformats.psd.layers/layerresource/) या शून्य यदि कोई ओपनर नहीं मिला है।
+लोड किया गया [`LayerResource`](../../../aspose.psd.fileformats.psd.layers/layerresource/) या यदि कोई ओपनर नहीं मिला तो null।
 
-### टिप्पणियों
+## टिप्पणियाँ
 
 पहला ओपनर वास्तव में अंतिम पंजीकृत होगा।
 
-### यह सभी देखें
+### देखें भी
 
 * class [OSTypeStructure](../../ostypestructure/)
 * class [OSTypeStructuresRegistry](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../ostypestructuresregistry/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

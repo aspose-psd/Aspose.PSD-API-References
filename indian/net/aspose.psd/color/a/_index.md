@@ -1,27 +1,28 @@
 ---
-title: Color.A
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Color संपत्त. इसक अल्फ घटक मन प्रप्त करत हैColorसंरचन.
+title: "Color.A"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Color प्रॉपर्टी। इस Color संरचना का अल्फा घटक मान प्राप्त करता है।"
 type: docs
 weight: 1460
 url: /hi/net/aspose.psd/color/a/
 ---
+{{< psd/tize >}}
 ## Color.A property
 
-इसका अल्फा घटक मान प्राप्त करता है[`Color`](../)संरचना.
+इस [`Color`](../) संरचना का अल्फा घटक मान प्राप्त करता है।
 
 ```csharp
 public byte A { get; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-इसका अल्फा घटक मान[`Color`](../).
+इस [`Color`](../) का अल्फा घटक मान।
 
-### यह सभी देखें
+### देखें भी
 
 * struct [Color](../)
-* नाम स्थान [Aspose.PSD](../../color/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: TypeToolStyleInfo.BaseShiftValue
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: TypeToolStyleInfo संपत्त. बेस शफ्ट मन प्रप्त य सेट करत है
+title: "TypeToolStyleInfo.BaseShiftValue"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "TypeToolStyleInfo प्रॉपर्टी। बेस शिफ्ट मान को प्राप्त करता है या सेट करता है"
 type: docs
 weight: 30
 url: /hi/net/aspose.psd.fileformats.psd.layers.layerresources/typetoolstyleinfo/baseshiftvalue/
 ---
+{{< psd/tize >}}
 ## TypeToolStyleInfo.BaseShiftValue property
 
-बेस शिफ्ट मान प्राप्त या सेट करता है।
+बेस शिफ्ट मान प्राप्त करता है या सेट करता है।
 
 ```csharp
 public int BaseShiftValue { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
 बेस शिफ्ट मान।
 
-### यह सभी देखें
+### देखें भी
 
 * class [TypeToolStyleInfo](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../typetoolstyleinfo/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

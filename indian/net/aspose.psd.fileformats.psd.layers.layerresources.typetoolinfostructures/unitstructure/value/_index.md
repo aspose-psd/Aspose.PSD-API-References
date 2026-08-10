@@ -1,27 +1,28 @@
 ---
-title: UnitStructure.Value
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: UnitStructure संपत्त. मन प्रप्त करत है य सेट करत है
+title: "UnitStructure.Value"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "UnitStructure प्रॉपर्टी। मान प्राप्त करता है या सेट करता है"
 type: docs
 weight: 50
 url: /hi/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/unitstructure/value/
 ---
+{{< psd/tize >}}
 ## UnitStructure.Value property
 
-मान प्राप्त करता है या सेट करता है।
+मान को प्राप्त करता है या सेट करता है।
 
 ```csharp
 public double Value { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-मान.
+मान।
 
-### यह सभी देखें
+### देखें भी
 
 * class [UnitStructure](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../unitstructure/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 

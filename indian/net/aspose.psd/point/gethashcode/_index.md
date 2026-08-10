@@ -1,27 +1,28 @@
 ---
-title: Point.GetHashCode
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Point तरक. इसके लए हैश कड लटत हैPoint .
+title: "Point.GetHashCode"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Point मेथड। इस Point के लिए एक हैश कोड लौटाता है।"
 type: docs
 weight: 120
 url: /hi/net/aspose.psd/point/gethashcode/
 ---
+{{< psd/tize >}}
 ## Point.GetHashCode method
 
-इसके लिए हैश कोड लौटाता है[`Point`](../) .
+इस [`Point`](../) के लिए एक हैश कोड लौटाता है।
 
 ```csharp
 public override int GetHashCode()
 ```
 
-### प्रतिलाभ की मात्रा
+### रिटर्न वैल्यू
 
-इस उदाहरण के लिए एक हैश कोड, हैशिंग एल्गोरिदम और हैश टेबल जैसी डेटा संरचनाओं में उपयोग के लिए उपयुक्त है।
+इस उदाहरण के लिए हैश कोड, जो हैशिंग एल्गोरिदम और हैश टेबल जैसी डेटा संरचनाओं में उपयोग के लिए उपयुक्त है।
 
-### यह सभी देखें
+### देखें भी
 
 * struct [Point](../)
-* नाम स्थान [Aspose.PSD](../../point/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

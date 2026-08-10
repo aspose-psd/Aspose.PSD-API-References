@@ -1,27 +1,28 @@
 ---
-title: ExifData.GPSLongitudeRef
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: ExifData संपत्त. जपएस देशंतर पूर्व य पश्चम देशंतर ह जत है य सेट करत है
+title: "ExifData.GPSLongitudeRef"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "ExifData प्रॉपर्टी। GPS देशांतर पूर्व या पश्चिम है, इसे प्राप्त या सेट करता है"
 type: docs
 weight: 550
 url: /hi/net/aspose.psd.exif/exifdata/gpslongituderef/
 ---
+{{< psd/tize >}}
 ## ExifData.GPSLongitudeRef property
 
-जीपीएस देशांतर पूर्व या पश्चिम देशांतर हो जाता है या सेट करता है।
+GPS देशांतर पूर्व या पश्चिम है इसे प्राप्त करता है या सेट करता है।
 
 ```csharp
 public string GPSLongitudeRef { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-GPS देशांतर पूर्व या पश्चिम देशांतर है।
+GPS देशांतर पूर्व या पश्चिम है।
 
-### यह सभी देखें
+### देखें भी
 
 * class [ExifData](../)
-* नाम स्थान [Aspose.PSD.Exif](../../exifdata/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

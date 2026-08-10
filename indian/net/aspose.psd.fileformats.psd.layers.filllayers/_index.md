@@ -1,17 +1,18 @@
 ---
-title: Aspose.PSD.FileFormats.Psd.Layers.FillLayers
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: नम स्थन में भरण परतें हैं
+title: "Aspose.PSD.FileFormats.Psd.Layers.FillLayers"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "यह namespace Fill Layers शामिल करता है।"
 type: docs
-weight: 240
+weight: 260
 url: /hi/net/aspose.psd.fileformats.psd.layers.filllayers/
 ---
-नाम स्थान में भरण परतें हैं
+{{< psd/tize >}}
+यह namespace Fill Layers शामिल करता है।
 
-## कक्षाओं
+## क्लासेस
 
-| कक्षा | विवरण |
+| क्लास | विवरण |
 | --- | --- |
-| [FillLayer](./filllayer/) | परत भरें। कलर फिल, ग्रेडिएंट फिल या पैटर्न फिल लेयर जो अलग है[`FillSettings`](../aspose.psd.fileformats.psd.layers.filllayers/filllayer/fillsettings/) |
+| [FillLayer](./filllayer/) | फ़िल लेयर। रंग फ़िल, ग्रेडिएंट फ़िल या पैटर्न फ़िल लेयर जो [`FillSettings`](../aspose.psd.fileformats.psd.layers.filllayers/filllayer/fillsettings/) द्वारा भिन्न होते हैं। |
 
 

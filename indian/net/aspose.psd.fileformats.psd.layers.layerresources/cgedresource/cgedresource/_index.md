@@ -1,23 +1,24 @@
 ---
-title: CgEdResource.CgEdResource
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: CgEdResource नर्मत. डफ़ल्ट कंस्ट्रक्टर
+title: "CgEdResource.CgEdResource"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "CgEdResource कन्स्ट्रक्टर। डिफ़ॉल्ट कन्स्ट्रक्टर"
 type: docs
 weight: 10
 url: /hi/net/aspose.psd.fileformats.psd.layers.layerresources/cgedresource/cgedresource/
 ---
+{{< psd/tize >}}
 ## CgEdResource constructor
 
-डिफ़ॉल्ट कंस्ट्रक्टर।
+डिफ़ॉल्ट कन्स्ट्रक्टर।
 
 ```csharp
 public CgEdResource()
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * class [CgEdResource](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../cgedresource/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

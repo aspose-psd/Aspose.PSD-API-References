@@ -1,31 +1,32 @@
 ---
-title: XmpPackage.ContainsKey
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: XmpPackage तरक. नर्धरत करत है क नर्दष्ट कुंज में कुंज है य नहं
+title: "XmpPackage.ContainsKey"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "XmpPackage विधि। निर्धारित करता है कि निर्दिष्ट कुंजी में कुंजी मौजूद है या नहीं"
 type: docs
 weight: 80
 url: /hi/net/aspose.psd.xmp/xmppackage/containskey/
 ---
+{{< psd/tize >}}
 ## XmpPackage.ContainsKey method
 
-निर्धारित करता है कि निर्दिष्ट कुंजी में कुंजी है या नहीं।
+निर्धारित करता है कि निर्दिष्ट कुंजी में कुंजी मौजूद है या नहीं।
 
 ```csharp
 public virtual bool ContainsKey(string key)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| key | String | जाँच की जाने वाली कुंजी। |
+| कुंजी | String | जाँचने के लिए कुंजी। |
 
-### प्रतिलाभ की मात्रा
+### रिटर्न वैल्यू
 
-निर्दिष्ट कुंजी में कुंजी होने पर सत्य वापस आ जाता है।
+यदि निर्दिष्ट कुंजी में कुंजी मौजूद है तो true लौटाता है।
 
-### यह सभी देखें
+### देखें भी
 
 * class [XmpPackage](../)
-* नाम स्थान [Aspose.PSD.Xmp](../../xmppackage/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,17 +1,18 @@
 ---
-title: Aspose.PSD.Evalute
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: नमस्थन DIB हेडर प्रसेसंग.
+title: "Aspose.PSD.Evalute"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "नेमस्पेस DIB हेडर प्रोसेसिंग।"
 type: docs
-weight: 80
+weight: 90
 url: /hi/net/aspose.psd.evalute/
 ---
-नामस्थान DIB हेडर प्रोसेसिंग.
+{{< psd/tize >}}
+नामस्थान DIB हेडर प्रोसेसिंग।
 
-## कक्षाओं
+## क्लासेस
 
-| कक्षा | विवरण |
+| क्लास | विवरण |
 | --- | --- |
-| [EvalException](./evalexception/) | मूल्यांकन त्रुटियों के लिए कस्टम अपवाद |
+| [EvalException](./evalexception/) | मूल्यांकन त्रुटियों के लिए कस्टम एक्सेप्शन। |
 
 

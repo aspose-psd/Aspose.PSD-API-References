@@ -1,28 +1,29 @@
 ---
-title: TypeToolInfoResource.Lines
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: TypeToolInfoResource संपत्त. रेखएँ प्रप्त य सेट करत है
+title: "TypeToolInfoResource.Lines"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "TypeToolInfoResource प्रॉपर्टी। लाइन्स प्राप्त करता है या सेट करता है"
 type: docs
-weight: 140
+weight: 130
 url: /hi/net/aspose.psd.fileformats.psd.layers.layerresources/typetoolinforesource/lines/
 ---
+{{< psd/tize >}}
 ## TypeToolInfoResource.Lines property
 
-रेखाएँ प्राप्त या सेट करता है।
+लाइन को प्राप्त करता है या सेट करता है।
 
 ```csharp
 public TypeToolLineInfo[] Lines { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-रेखाएँ।
+लाइन्स।
 
-### यह सभी देखें
+### देखें भी
 
 * class [TypeToolLineInfo](../../typetoollineinfo/)
 * class [TypeToolInfoResource](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../typetoolinforesource/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,28 +1,29 @@
 ---
-title: Layer.LayerOptions
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Layer संपत्त. परत वकल्प प्रप्त करत है
+title: "Layer.LayerOptions"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Layer प्रॉपर्टी। लेयर विकल्प प्राप्त करता है"
 type: docs
-weight: 230
+weight: 240
 url: /hi/net/aspose.psd.fileformats.psd.layers/layer/layeroptions/
 ---
+{{< psd/tize >}}
 ## Layer.LayerOptions property
 
-परत विकल्प प्राप्त करता है।
+लेयर विकल्प प्राप्त करता है।
 
 ```csharp
 public PsdOptions LayerOptions { get; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-परत विकल्प।
+लेयर विकल्प।
 
-### यह सभी देखें
+### देखें भी
 
 * class [PsdOptions](../../../aspose.psd.imageoptions/psdoptions/)
 * class [Layer](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers](../../layer/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,44 +1,45 @@
 ---
-title: LayerGroup.AddLayerGroup
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: LayerGroup तरक. परत समूह जड़त है.
+title: "LayerGroup.AddLayerGroup"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "LayerGroup मेथड। लेयर समूह को जोड़ता है"
 type: docs
 weight: 70
 url: /hi/net/aspose.psd.fileformats.psd.layers/layergroup/addlayergroup/
 ---
+{{< psd/tize >}}
 ## LayerGroup.AddLayerGroup method
 
-परत समूह जोड़ता है.
+लेयर समूह को जोड़ता है।
 
 ```csharp
 public LayerGroup AddLayerGroup(string groupName, int index)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
 | groupName | String | समूह का नाम। |
-| index | Int32 | बाद में डालने के लिए परत का सूचकांक। |
+| index | Int32 | लेयर को उसके बाद सम्मिलित करने के लिए इंडेक्स। |
 
-### प्रतिलाभ की मात्रा
+### रिटर्न वैल्यू
 
-समूह परत खोली जा रही है
+ग्रुप लेयर खोलना
 
-### उदाहरण
+## उदाहरण
 
-निम्न उदाहरण एक अन्य LayerGroup में LayerGroup को जोड़ने का प्रदर्शन करता है।
+निम्न उदाहरण दर्शाता है कि एक LayerGroup को दूसरे LayerGroup में कैसे जोड़ा जाए।
 
 ```csharp
 [C#]
 
 string sourceFileName = "psdnet190_test.psd";
 
-// इस तरह परतों का पदानुक्रम बनाना:
+// लेयर्स की पदानुक्रम इस प्रकार बनाना:
 // -समूह 1
-// --परत 1
+// --लेयर 1
 // --समूह 2
-// --- परत 2
-// --- परत 3
-// --परत 4
+// ---लेयर 2
+// ---लेयर 3
+// --लेयर 4
 
 var createOptions = new PsdOptions();
 createOptions.Source = new FileCreateSource(sourceFileName, false);
@@ -70,10 +71,10 @@ using (var psdImage = (PsdImage)Image.Create(createOptions, 500, 500))
 }
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * class [LayerGroup](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers](../../layergroup/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

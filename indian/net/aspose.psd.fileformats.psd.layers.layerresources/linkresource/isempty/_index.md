@@ -1,27 +1,28 @@
 ---
-title: LinkResource.IsEmpty
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: LinkResource संपत्त. यह इंगत करने वल मन प्रप्त करत है क यह लंक संसधन उदहरण खल है य नहं
+title: "LinkResource.IsEmpty"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "LinkResource प्रॉपर्टी. यह मान प्राप्त करता है जो दर्शाता है कि यह लिंक रिसोर्स इंस्टेंस खाली है या नहीं"
 type: docs
 weight: 20
 url: /hi/net/aspose.psd.fileformats.psd.layers.layerresources/linkresource/isempty/
 ---
+{{< psd/tize >}}
 ## LinkResource.IsEmpty property
 
-यह इंगित करने वाला मान प्राप्त करता है कि यह लिंक संसाधन उदाहरण खाली है या नहीं।
+यह दर्शाने वाला मान प्राप्त करता है कि यह लिंक रिसोर्स इंस्टेंस खाली है या नहीं।
 
 ```csharp
 public bool IsEmpty { get; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-`सत्य` अगर यह लिंक संसाधन खाली है; अन्यथा,`असत्य` .
+`true` यदि यह लिंक रिसोर्स खाली है; अन्यथा, `false`.
 
-### यह सभी देखें
+### देखें भी
 
 * class [LinkResource](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../linkresource/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

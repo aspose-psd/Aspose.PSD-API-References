@@ -1,23 +1,24 @@
 ---
-title: PngOptions.CompressionLevel
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: PngOptions संपत्त. 09 रेंज में पएनज छव संपड़न स्तर जहं 9 अधकतम संपड़न है और 0 स्टर मड है
+title: "PngOptions.CompressionLevel"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "PngOptions प्रॉपर्टी। 0‑9 सीमा में PNG इमेज संपीड़न स्तर जहाँ 9 अधिकतम संपीड़न है और 0 स्टोर मोड है।"
 type: docs
 weight: 40
 url: /hi/net/aspose.psd.imageoptions/pngoptions/compressionlevel/
 ---
+{{< psd/tize >}}
 ## PngOptions.CompressionLevel property
 
-0-9 रेंज में पीएनजी छवि संपीड़न स्तर, जहां 9 अधिकतम संपीड़न है और 0 स्टोर मोड है।
+PNG छवि संपीड़न स्तर 0-9 सीमा में, जहाँ 9 अधिकतम संपीड़न है और 0 स्टोर मोड है।
 
 ```csharp
 public int CompressionLevel { get; set; }
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * class [PngOptions](../)
-* नाम स्थान [Aspose.PSD.ImageOptions](../../pngoptions/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

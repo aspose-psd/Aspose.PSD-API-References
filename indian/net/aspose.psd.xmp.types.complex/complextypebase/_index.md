@@ -1,14 +1,15 @@
 ---
-title: Class ComplexTypeBase
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Aspose.PSD.Xmp.Types.Complex.ComplexTypeBase कक्ष. एक्सएमप कम्प्लेक्स वैल्यू टइप के लए बेस एब्स्ट्रैक्शन क प्रतनधत्व करत है
+title: "क्लास ComplexTypeBase"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Aspose.PSD.Xmp.Types.Complex.ComplexTypeBase क्लास। XMP कॉम्प्लेक्स वैल्यू टाइप के लिए बेस एब्स्ट्रैक्शन का प्रतिनिधित्व करता है"
 type: docs
-weight: 6050
+weight: 6550
 url: /hi/net/aspose.psd.xmp.types.complex/complextypebase/
 ---
+{{< psd/tize >}}
 ## ComplexTypeBase class
 
-एक्सएमपी कॉम्प्लेक्स वैल्यू टाइप के लिए बेस एब्स्ट्रैक्शन का प्रतिनिधित्व करता है।
+XMP कॉम्प्लेक्स वैल्यू टाइप के लिए बेस एब्स्ट्रैक्शन का प्रतिनिधित्व करता है।
 
 ```csharp
 public class ComplexTypeBase : XmpTypeBase
@@ -18,29 +19,29 @@ public class ComplexTypeBase : XmpTypeBase
 
 | नाम | विवरण |
 | --- | --- |
-| [ComplexTypeBase](complextypebase/)(string, string) | का एक नया उदाहरण प्रारंभ करता है`ComplexTypeBase` वर्ग. |
+| [ComplexTypeBase](complextypebase/)(string, string) | एक नया इंस्टेंस `ComplexTypeBase` क्लास का इनिशियलाइज़ करता है। |
 
-## गुण
-
-| नाम | विवरण |
-| --- | --- |
-| [NamespaceUri](../../aspose.psd.xmp.types.complex/complextypebase/namespaceuri/) { get; } | डिफ़ॉल्ट नाम स्थान URI प्राप्त करता है. |
-| [Prefix](../../aspose.psd.xmp.types.complex/complextypebase/prefix/) { get; } | उपसर्ग प्राप्त करता है। |
-
-## तरीकों
+## प्रॉपर्टीज़
 
 | नाम | विवरण |
 | --- | --- |
-| override [GetXmpRepresentation](../../aspose.psd.xmp.types.complex/complextypebase/getxmprepresentation/)() | XMP प्रारूप में स्ट्रिंग युक्त मान प्राप्त करता है। |
+| [NamespaceUri](../../aspose.psd.xmp.types.complex/complextypebase/namespaceuri/) { get; } | डिफ़ॉल्ट नेमस्पेस URI को प्राप्त करता है। |
+| [Prefix](../../aspose.psd.xmp.types.complex/complextypebase/prefix/) { get; } | प्रिफिक्स को प्राप्त करता है। |
 
-### टिप्पणियों
+## मेथड्स
 
-और देखें: XMP विशिष्टता भाग 2, अध्याय 1.2.2
+| नाम | विवरण |
+| --- | --- |
+| override [GetXmpRepresentation](../../aspose.psd.xmp.types.complex/complextypebase/getxmprepresentation/)() | XMP प्रारूप में सम्मिलित स्ट्रिंग मान को प्राप्त करता है। |
 
-### यह सभी देखें
+## टिप्पणियाँ
+
+और देखें: XMP स्पेसिफिकेशन भाग 2, अध्याय 1.2.2
+
+### देखें भी
 
 * class [XmpTypeBase](../../aspose.psd.xmp.types/xmptypebase/)
-* नाम स्थान [Aspose.PSD.Xmp.Types.Complex](../../aspose.psd.xmp.types.complex/)
-* सभा [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex](../../aspose.psd.xmp.types.complex/)
+* assembly [Aspose.PSD](../../)
 
 

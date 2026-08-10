@@ -1,48 +1,49 @@
 ---
-title: PsdImageException.PsdImageException
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: PsdImageException नर्मत. क एक नय उदहरण प्ररंभ करत हैPsdImageException वर्ग.
+title: "PsdImageException.PsdImageException"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "PsdImageException कंस्ट्रक्टर। PsdImageException क्लास का नया इंस्टेंस इनिशियलाइज़ करता है"
 type: docs
 weight: 10
 url: /hi/net/aspose.psd.coreexceptions.imageformats/psdimageexception/psdimageexception/
 ---
+{{< psd/tize >}}
 ## PsdImageException(string) {#constructor}
 
-का एक नया उदाहरण प्रारंभ करता है[`PsdImageException`](../) वर्ग.
+[`PsdImageException`](../) क्लास का नया इंस्टेंस इनिशियलाइज़ करता है।
 
 ```csharp
 public PsdImageException(string message)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
 | message | String | अपवाद संदेश। |
 
-### यह सभी देखें
+### देखें भी
 
 * class [PsdImageException](../)
-* नाम स्थान [Aspose.PSD.CoreExceptions.ImageFormats](../../psdimageexception/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.CoreExceptions.ImageFormats](../../../aspose.psd.coreexceptions.imageformats/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## PsdImageException(string, Exception) {#constructor_1}
 
-का एक नया उदाहरण प्रारंभ करता है[`PsdImageException`](../) वर्ग.
+[`PsdImageException`](../) क्लास का नया इंस्टेंस इनिशियलाइज़ करता है।
 
 ```csharp
 public PsdImageException(string message, Exception innerException)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
 | message | String | अपवाद संदेश। |
-| innerException | Exception | भीतर का अपवाद। |
+| innerException | एक्सेप्शन | आंतरिक अपवाद। |
 
-### यह सभी देखें
+### देखें भी
 
 * class [PsdImageException](../)
-* नाम स्थान [Aspose.PSD.CoreExceptions.ImageFormats](../../psdimageexception/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.CoreExceptions.ImageFormats](../../../aspose.psd.coreexceptions.imageformats/)
+* assembly [Aspose.PSD](../../../)
 
 

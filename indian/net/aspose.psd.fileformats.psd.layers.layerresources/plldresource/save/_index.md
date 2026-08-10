@@ -1,27 +1,28 @@
 ---
-title: PlLdResource.Save
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: PlLdResource तरक. PlLD संसधन क नर्दष्ट स्ट्रम कंटेनर में सहेजत है
+title: "PlLdResource.Save"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "PlLdResource मेथड। PlLD संसाधन को निर्दिष्ट स्ट्रीम कंटेनर में सहेजता है"
 type: docs
-weight: 50
+weight: 20
 url: /hi/net/aspose.psd.fileformats.psd.layers.layerresources/plldresource/save/
 ---
+{{< psd/tize >}}
 ## PlLdResource.Save method
 
-PlLD संसाधन को निर्दिष्ट स्ट्रीम कंटेनर में सहेजता है।
+निर्दिष्ट स्ट्रीम कंटेनर में PlLD संसाधन को सहेजता है।
 
 ```csharp
 public override void Save(StreamContainer streamContainer, int psdVersion)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| streamContainer | StreamContainer | सहेजा जाने वाला स्ट्रीम कंटेनर. |
-| psdVersion | Int32 | पीएसडी संस्करण। |
+| streamContainer | StreamContainer | सहेजने के लिए स्ट्रीम कंटेनर। |
+| psdVersion | Int32 | PSD संस्करण। |
 
-### उदाहरण
+## उदाहरण
 
-निम्नलिखित कोड PlLdResource संसाधन के समर्थन को प्रदर्शित करता है।
+निम्नलिखित कोड PlLdResource संसाधन के समर्थन को दर्शाता है।
 
 ```csharp
 [C#]
@@ -203,16 +204,18 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
                 resource.Bottom = 248;
                 resource.Right = 145;
 
-                // कुछ मापदंडों से सावधान रहें: छवि Adobe® Photoshop® द्वारा अपठनीय हो सकती है
+                // कुछ पैरामीटर्स के साथ सावधान रहें: इमेज Adobe® Photoshop® द्वारा अपठनीय हो सकती है।
                 ////resource.UOrder = 6;
-                ////संसाधन। VOrder = 9;
+                ////resource.VOrder = 9;
 
-                // इसे कोई परिवर्तन न करें अन्यथा आप निःशुल्क रूपांतरण का उपयोग नहीं कर पाएंगे
-                // या अंडरलाइनिंग स्मार्ट ऑब्जेक्ट को वेक्टर प्रकार में बदलें
+                // इसे न बदलें, अन्यथा 
+ आप फ्री ट्रांसफ़ॉर्म का उपयोग नहीं कर पाएंगे।
+                // या 
+ अंडरलाइनिंग स्मार्ट ऑब्जेक्ट को वेक्टर टाइप में बदलें।
                 ////resource.PlacedLayerType = PlacedLayerType.Vector;
 
-                // इस विशिष्ट आईडी के साथ मान्य PlLdResource होना चाहिए
-                ////resource.UniqueId = नया गाइड ("98765432-10fe-cba0-1234-56789abcdef0");
+                // इस यूनिक आईडी के साथ एक वैध PlLdResource होना चाहिए।
+                ////resource.UniqueId = new Guid("98765432-10fe-cba0-1234-56789abcdef0");
 
                 break;
             }
@@ -224,11 +227,11 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
 }
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * class [StreamContainer](../../../aspose.psd/streamcontainer/)
 * class [PlLdResource](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../plldresource/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

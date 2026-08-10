@@ -1,14 +1,15 @@
 ---
-title: Class BlncResource
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.BlncResource कक्ष. BlncResource वर्ग रंग समयजन परत क एक संसधन है
+title: "क्लास BlncResource"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Aspose.PSD.FileFormats.Psd.Layers.LayerResources.BlncResource क्लास। BlncResource क्लास Color Adjustment लेयर का एक संसाधन है।"
 type: docs
-weight: 2310
+weight: 2570
 url: /hi/net/aspose.psd.fileformats.psd.layers.layerresources/blncresource/
 ---
+{{< psd/tize >}}
 ## BlncResource class
 
-BlncResource वर्ग रंग समायोजन परत का एक संसाधन है।
+BlncResource क्लास एक Color Adjustment Layer का रिसोर्स है।
 
 ```csharp
 public class BlncResource : AdjustmentLayerResource
@@ -18,45 +19,45 @@ public class BlncResource : AdjustmentLayerResource
 
 | नाम | विवरण |
 | --- | --- |
-| [BlncResource](blncresource/)() | का एक नया उदाहरण प्रारंभ करता है`BlncResource` वर्ग. |
+| [BlncResource](blncresource/)() | `BlncResource` क्लास का एक नया उदाहरण प्रारंभ करता है। |
 
-## गुण
-
-| नाम | विवरण |
-| --- | --- |
-| [HighlightsCyanRedBalance](../../aspose.psd.fileformats.psd.layers.layerresources/blncresource/highlightscyanredbalance/) { get; set; } | हाइलाइट सियान रेड बैलेंस प्राप्त या सेट करता है। |
-| [HighlightsMagentaGreenBalance](../../aspose.psd.fileformats.psd.layers.layerresources/blncresource/highlightsmagentagreenbalance/) { get; set; } | हाइलाइट मैजेंटा ग्रीन बैलेंस प्राप्त या सेट करता है। |
-| [HighlightsYellowBlueBalance](../../aspose.psd.fileformats.psd.layers.layerresources/blncresource/highlightsyellowbluebalance/) { get; set; } | हाइलाइट पीला नीला बैलेंस प्राप्त या सेट करता है। |
-| override [Key](../../aspose.psd.fileformats.psd.layers.layerresources/blncresource/key/) { get; } | परत संसाधन कुंजी प्राप्त करता है. |
-| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/blncresource/length/) { get; } | बाइट्स में परत संसाधन लंबाई प्राप्त करता है। |
-| [MidtonesCyanRedBalance](../../aspose.psd.fileformats.psd.layers.layerresources/blncresource/midtonescyanredbalance/) { get; set; } | मिडटोन सियान रेड बैलेंस प्राप्त या सेट करता है। |
-| [MidtonesMagentaGreenBalance](../../aspose.psd.fileformats.psd.layers.layerresources/blncresource/midtonesmagentagreenbalance/) { get; set; } | मिडटोन मैजेंटा ग्रीन बैलेंस प्राप्त या सेट करता है। |
-| [MidtonesYellowBlueBalance](../../aspose.psd.fileformats.psd.layers.layerresources/blncresource/midtonesyellowbluebalance/) { get; set; } | मिडटोन येलो ब्लू बैलेंस प्राप्त या सेट करता है। |
-| [PreserveLuminosity](../../aspose.psd.fileformats.psd.layers.layerresources/blncresource/preserveluminosity/) { get; set; } | एक मान प्राप्त करता है या सेट करता है जो दर्शाता है कि यह`BlncResource` चमक बरकरार रखता है. |
-| override [PsdVersion](../../aspose.psd.fileformats.psd.layers.layerresources/blncresource/psdversion/) { get; } | PSD संस्करण प्राप्त करता है। |
-| [ShadowsCyanRedBalance](../../aspose.psd.fileformats.psd.layers.layerresources/blncresource/shadowscyanredbalance/) { get; set; } | शैडो सियान रेड बैलेंस प्राप्त या सेट करता है। |
-| [ShadowsMagentaGreenBalance](../../aspose.psd.fileformats.psd.layers.layerresources/blncresource/shadowsmagentagreenbalance/) { get; set; } | शैडो मैजेंटा ग्रीन बैलेंस प्राप्त या सेट करता है। |
-| [ShadowsYellowBlueBalance](../../aspose.psd.fileformats.psd.layers.layerresources/blncresource/shadowsyellowbluebalance/) { get; set; } | छाया पीला नीला संतुलन प्राप्त या सेट करता है। |
-| override [Signature](../../aspose.psd.fileformats.psd.layers.layerresources/adjustmentlayerresource/signature/) { get; } | हस्ताक्षर हो जाता है। |
-
-## तरीकों
+## प्रॉपर्टीज़
 
 | नाम | विवरण |
 | --- | --- |
-| override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/blncresource/save/)(StreamContainer, int) | संसाधन को निर्दिष्ट स्ट्रीम कंटेनर में सहेजता है। |
-| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring/)() | रिटर्न एString जो इस उदाहरण का प्रतिनिधित्व करता है। |
+| [HighlightsCyanRedBalance](../../aspose.psd.fileformats.psd.layers.layerresources/blncresource/highlightscyanredbalance/) { get; set; } | हाइलाइट्स सियान रेड बैलेंस को प्राप्त करता है या सेट करता है। |
+| [HighlightsMagentaGreenBalance](../../aspose.psd.fileformats.psd.layers.layerresources/blncresource/highlightsmagentagreenbalance/) { get; set; } | हाइलाइट्स मैजेंटा ग्रीन बैलेंस को प्राप्त करता है या सेट करता है। |
+| [HighlightsYellowBlueBalance](../../aspose.psd.fileformats.psd.layers.layerresources/blncresource/highlightsyellowbluebalance/) { get; set; } | हाइलाइट्स येलो ब्लू बैलेंस को प्राप्त करता है या सेट करता है। |
+| [Key](../../aspose.psd.fileformats.psd.layers/layerresource/key/) { get; } | लेयर रिसोर्स कुंजी प्राप्त करता है। |
+| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/blncresource/length/) { get; } | बाइट्स में लेयर रिसोर्स की लंबाई प्राप्त करता है। |
+| [MidtonesCyanRedBalance](../../aspose.psd.fileformats.psd.layers.layerresources/blncresource/midtonescyanredbalance/) { get; set; } | मिडटोन सियान रेड बैलेंस को प्राप्त करता है या सेट करता है। |
+| [MidtonesMagentaGreenBalance](../../aspose.psd.fileformats.psd.layers.layerresources/blncresource/midtonesmagentagreenbalance/) { get; set; } | मिडटोन मैजेंटा ग्रीन बैलेंस को प्राप्त करता है या सेट करता है। |
+| [MidtonesYellowBlueBalance](../../aspose.psd.fileformats.psd.layers.layerresources/blncresource/midtonesyellowbluebalance/) { get; set; } | मिडटोन येलो ब्लू बैलेंस को प्राप्त करता है या सेट करता है। |
+| [PreserveLuminosity](../../aspose.psd.fileformats.psd.layers.layerresources/blncresource/preserveluminosity/) { get; set; } | `BlncResource` यह दर्शाने वाला मान प्राप्त करता है या सेट करता है कि क्या यह ल्यूमिनोसिटी को संरक्षित करता है। |
+| virtual [PsdVersion](../../aspose.psd.fileformats.psd.layers/layerresource/psdversion/) { get; } | लेयर रिसोर्स के लिए आवश्यक न्यूनतम PSD संस्करण प्राप्त करता है। 0 का अर्थ कोई प्रतिबंध नहीं है। |
+| [ShadowsCyanRedBalance](../../aspose.psd.fileformats.psd.layers.layerresources/blncresource/shadowscyanredbalance/) { get; set; } | शैडोज़ सियान रेड बैलेंस को प्राप्त करता है या सेट करता है। |
+| [ShadowsMagentaGreenBalance](../../aspose.psd.fileformats.psd.layers.layerresources/blncresource/shadowsmagentagreenbalance/) { get; set; } | शैडोज़ मैजेंटा ग्रीन बैलेंस को प्राप्त करता है या सेट करता है। |
+| [ShadowsYellowBlueBalance](../../aspose.psd.fileformats.psd.layers.layerresources/blncresource/shadowsyellowbluebalance/) { get; set; } | Shadows Yellow Blue Balance प्राप्त करता है या सेट करता है। |
+| virtual [Signature](../../aspose.psd.fileformats.psd.layers/layerresource/signature/) { get; } | हस्ताक्षर प्राप्त करता है। |
 
-## खेत
+## मेथड्स
 
 | नाम | विवरण |
 | --- | --- |
-| const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/blncresource/typetoolkey/) | प्रकार उपकरण जानकारी कुंजी। |
+| override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/blncresource/save/)(StreamContainer, int) | निर्दिष्ट स्ट्रीम कंटेनर में रिसोर्स को सहेजता है। |
+| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring/)() | इस उदाहरण का प्रतिनिधित्व करने वाली एक स्ट्रिंग लौटाता है। |
 
-### यह सभी देखें
+## फ़ील्ड्स
+
+| नाम | विवरण |
+| --- | --- |
+| const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/blncresource/typetoolkey/) | टाइप टूल जानकारी कुंजी। |
+
+### देखें भी
 
 * class [AdjustmentLayerResource](../adjustmentlayerresource/)
 * class [LayerResource](../../aspose.psd.fileformats.psd.layers/layerresource/)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
-* सभा [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../)
 
 

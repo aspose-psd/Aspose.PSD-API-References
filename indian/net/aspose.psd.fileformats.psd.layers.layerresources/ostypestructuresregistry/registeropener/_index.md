@@ -1,28 +1,29 @@
 ---
-title: OSTypeStructuresRegistry.RegisterOpener
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: OSTypeStructuresRegistry तरक. सलम बल्लेबज क पंजकृत करत है
+title: "OSTypeStructuresRegistry.RegisterOpener"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "OSTypeStructuresRegistry method. ओपनर को रजिस्टर करता है"
 type: docs
 weight: 50
 url: /hi/net/aspose.psd.fileformats.psd.layers.layerresources/ostypestructuresregistry/registeropener/
 ---
+{{< psd/tize >}}
 ## OSTypeStructuresRegistry.RegisterOpener method
 
-सलामी बल्लेबाज को पंजीकृत करता है।
+ओपनर को पंजीकृत करता है।
 
 ```csharp
 public static void RegisterOpener(IOSTypeStructureLoader openerDescriptor)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| openerDescriptor | IOSTypeStructureLoader | रजिस्टर करने के लिए ओपनर डिस्क्रिप्टर। |
+| openerDescriptor | IOSTypeStructureLoader | ओपनर डिस्क्रिप्टर जिसे रजिस्टर करना है। |
 
-### यह सभी देखें
+### देखें भी
 
 * interface [IOSTypeStructureLoader](../../iostypestructureloader/)
 * class [OSTypeStructuresRegistry](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../ostypestructuresregistry/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

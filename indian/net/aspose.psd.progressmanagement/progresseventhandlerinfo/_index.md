@@ -1,29 +1,30 @@
 ---
-title: Class ProgressEventHandlerInfo
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Aspose.PSD.ProgressManagement.ProgressEventHandlerInfo कक्ष. यह वर्ग छव लड/सहेजें/नर्यत संचलन प्रगत के बरे में जनकर क प्रतनधत्व करत है जसक उपयग बहर अनुप्रयग में अंतम उपयगकर्त क रूपंतरण प्रगत दखने के लए कय ज सकत है
+title: "क्लास ProgressEventHandlerInfo"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Aspose.PSD.ProgressManagement.ProgressEventHandlerInfo क्लास. यह क्लास इमेज लोड/सेव/एक्सपोर्ट ऑपरेशन्स की प्रगति के बारे में जानकारी दर्शाती है जिसे बाहरी एप्लिकेशन में उपयोग करके अंतिम उपयोगकर्ता को रूपांतरण प्रगति दिखाने के लिए इस्तेमाल किया जा सकता है।"
 type: docs
-weight: 5300
+weight: 5800
 url: /hi/net/aspose.psd.progressmanagement/progresseventhandlerinfo/
 ---
+{{< psd/tize >}}
 ## ProgressEventHandlerInfo class
 
-यह वर्ग छवि लोड/सहेजें/निर्यात संचालन प्रगति के बारे में जानकारी का प्रतिनिधित्व करता है, जिसका उपयोग बाहरी अनुप्रयोग में अंतिम उपयोगकर्ता को रूपांतरण प्रगति दिखाने के लिए किया जा सकता है
+यह क्लास छवि लोड/सेव/एक्सपोर्ट ऑपरेशनों की प्रगति के बारे में जानकारी दर्शाती है, जिसे बाहरी एप्लिकेशन में उपयोगकर्ता को रूपांतरण प्रगति दिखाने के लिए इस्तेमाल किया जा सकता है।
 
 ```csharp
 public class ProgressEventHandlerInfo
 ```
 
-## गुण
+## प्रॉपर्टीज़
 
 | नाम | विवरण |
 | --- | --- |
-| [Description](../../aspose.psd.progressmanagement/progresseventhandlerinfo/description/) { get; } | घटना का विवरण प्राप्त करता है |
-| [EventType](../../aspose.psd.progressmanagement/progresseventhandlerinfo/eventtype/) { get; } | घटना का प्रकार प्राप्त करता है। |
+| [Description](../../aspose.psd.progressmanagement/progresseventhandlerinfo/description/) { get; } | इवेंट का विवरण प्राप्त करता है। |
+| [EventType](../../aspose.psd.progressmanagement/progresseventhandlerinfo/eventtype/) { get; } | इवेंट का प्रकार प्राप्त करता है। |
 | [MaxValue](../../aspose.psd.progressmanagement/progresseventhandlerinfo/maxvalue/) { get; } | ऊपरी प्रगति मान सीमा प्राप्त करता है। |
 | [Value](../../aspose.psd.progressmanagement/progresseventhandlerinfo/value/) { get; } | वर्तमान प्रगति मान प्राप्त करता है। |
 
-### उदाहरण
+## उदाहरण
 
 निम्न उदाहरण दर्शाता है कि दस्तावेज़ रूपांतरण प्रगति सही ढंग से और बिना किसी अपवाद के काम करती है।
 
@@ -69,9 +70,9 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath, loadOptions))
 }
 ```
 
-### यह सभी देखें
+### देखें भी
 
-* नाम स्थान [Aspose.PSD.ProgressManagement](../../aspose.psd.progressmanagement/)
-* सभा [Aspose.PSD](../../)
+* namespace [Aspose.PSD.ProgressManagement](../../aspose.psd.progressmanagement/)
+* assembly [Aspose.PSD](../../)
 
 

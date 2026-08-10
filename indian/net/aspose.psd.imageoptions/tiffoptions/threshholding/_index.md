@@ -1,28 +1,29 @@
 ---
-title: TiffOptions.Threshholding
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: TiffOptions संपत्त. थ्रेसहल्डंग प्रप्त य सेट करत है
+title: "TiffOptions.Threshholding"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "TiffOptions प्रॉपर्टी। थ्रेशहोल्डिंग प्राप्त करता है या सेट करता है"
 type: docs
-weight: 510
+weight: 520
 url: /hi/net/aspose.psd.imageoptions/tiffoptions/threshholding/
 ---
+{{< psd/tize >}}
 ## TiffOptions.Threshholding property
 
-थ्रेसहोल्डिंग प्राप्त या सेट करता है।
+थ्रेशहोल्डिंग को प्राप्त करता है या सेट करता है।
 
 ```csharp
 public TiffThresholds Threshholding { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-सीमा.
+थ्रेशहोल्डिंग।
 
-### यह सभी देखें
+### देखें भी
 
 * enum [TiffThresholds](../../../aspose.psd.fileformats.tiff.enums/tiffthresholds/)
 * class [TiffOptions](../)
-* नाम स्थान [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

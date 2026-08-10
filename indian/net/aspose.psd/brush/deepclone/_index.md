@@ -1,27 +1,28 @@
 ---
-title: Brush.DeepClone
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Brush तरक. वर्तमन क एक नय गहर क्लन बनत हैBrush .
+title: "Brush.DeepClone"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Brush मेथड। वर्तमान Brush का नया डीप क्लोन बनाता है।"
 type: docs
 weight: 20
 url: /hi/net/aspose.psd/brush/deepclone/
 ---
+{{< psd/tize >}}
 ## Brush.DeepClone method
 
-वर्तमान का एक नया गहरा क्लोन बनाता है[`Brush`](../) .
+वर्तमान [`Brush`](../) का नया डीप क्लोन बनाता है।
 
 ```csharp
 public virtual Brush DeepClone()
 ```
 
-### प्रतिलाभ की मात्रा
+### रिटर्न वैल्यू
 
-एक नया[`Brush`](../) जो इसका गहरा क्लोन है[`Brush`](../) उदाहरण।
+एक नया [`Brush`](../) जो इस [`Brush`](../) इंस्टेंस का डीप क्लोन है।
 
-### यह सभी देखें
+### देखें भी
 
 * class [Brush](../)
-* नाम स्थान [Aspose.PSD](../../brush/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

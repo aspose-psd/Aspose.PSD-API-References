@@ -1,28 +1,29 @@
 ---
-title: VectorImage.SizeF
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: VectorImage संपत्त. वस्तु क आकर इंच में मलत है
+title: "VectorImage.SizeF"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "VectorImage property. वस्तु का आकार इंच में प्राप्त करता है"
 type: docs
 weight: 30
 url: /hi/net/aspose.psd/vectorimage/sizef/
 ---
+{{< psd/tize >}}
 ## VectorImage.SizeF property
 
-वस्तु का आकार, इंच में मिलता है।
+इंच में वस्तु का आकार प्राप्त करता है।
 
 ```csharp
 public SizeF SizeF { get; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-वस्तु का आकार, इंच में.
+वस्तु का आकार, इंच में।
 
-### यह सभी देखें
+### देखें भी
 
 * struct [SizeF](../../sizef/)
 * class [VectorImage](../)
-* नाम स्थान [Aspose.PSD](../../vectorimage/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

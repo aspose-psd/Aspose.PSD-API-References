@@ -1,27 +1,28 @@
 ---
-title: ExifData.StandardOutputSensitivity
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: ExifData संपत्त. मनक आउटपुट संवेदनशलत प्रप्त य सेट करत है
+title: "ExifData.StandardOutputSensitivity"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "ExifData property. मानक आउटपुट संवेदनशीलता को प्राप्त करता है या सेट करता है"
 type: docs
 weight: 980
 url: /hi/net/aspose.psd.exif/exifdata/standardoutputsensitivity/
 ---
+{{< psd/tize >}}
 ## ExifData.StandardOutputSensitivity property
 
-मानक आउटपुट संवेदनशीलता प्राप्त या सेट करता है
+मानक आउटपुट संवेदनशीलता को प्राप्त करता है या सेट करता है
 
 ```csharp
 public uint StandardOutputSensitivity { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
 मानक आउटपुट संवेदनशीलता.
 
-### यह सभी देखें
+### देखें भी
 
 * class [ExifData](../)
-* नाम स्थान [Aspose.PSD.Exif](../../exifdata/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

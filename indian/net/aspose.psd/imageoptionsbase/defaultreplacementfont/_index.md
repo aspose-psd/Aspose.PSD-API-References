@@ -1,31 +1,32 @@
 ---
-title: ImageOptionsBase.DefaultReplacementFont
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: ImageOptionsBase संपत्त. डफ़ल्ट प्रतस्थपन फ़न्ट प्रप्त करत है य सेट करत है फ़न्ट ज रेखपुंज में नर्यत करते समय पठ क आकर्षत करने के लए उपयग कय जएग यद PSD फ़इल में मजूद परत फ़न्ट सस्टम में प्रस्तुत नहं कय गय है डफ़ल्ट फ़न्ट क उचत नम लेने के लए अगले कड स्नपेट क उपयग कय ज सकत है  System.Drawing.Text.InstalledFontCollection col  new System.Drawing.Text.InstalledFontCollection System.Drawing.FontFamily family  col.Families string defaultFontName  family0.Name PsdLoadOptions psdLoadOptions  new PsdLoadOptions  DefaultReplacementFont  defaultFontName 
+title: "ImageOptionsBase.DefaultReplacementFont"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "ImageOptionsBase प्रॉपर्टी। डिफ़ॉल्ट प्रतिस्थापन फ़ॉन्ट को प्राप्त करता है या सेट करता है, जो रास्टर में निर्यात करते समय टेक्स्ट ड्रॉ करने के लिए उपयोग किया जाएगा यदि PSD फ़ाइल में मौजूदा लेयर फ़ॉन्ट सिस्टम में उपलब्ध नहीं है। डिफ़ॉल्ट फ़ॉन्ट का सही नाम प्राप्त करने के लिए निम्न कोड स्निपेट का उपयोग किया जा सकता है System.Drawing.Text.InstalledFontCollection col  new System.Drawing.Text.InstalledFontCollection System.Drawing.FontFamily families  col.Families string defaultFontName  families0.Name PsdLoadOptions psdLoadOptions  new PsdLoadOptions  DefaultReplacementFont  defaultFontName"
 type: docs
 weight: 20
 url: /hi/net/aspose.psd/imageoptionsbase/defaultreplacementfont/
 ---
+{{< psd/tize >}}
 ## ImageOptionsBase.DefaultReplacementFont property
 
-डिफ़ॉल्ट प्रतिस्थापन फ़ॉन्ट प्राप्त करता है या सेट करता है (फ़ॉन्ट जो रेखापुंज में निर्यात करते समय पाठ को आकर्षित करने के लिए उपयोग किया जाएगा, यदि PSD फ़ाइल में मौजूदा परत फ़ॉन्ट सिस्टम में प्रस्तुत नहीं किया गया है)। डिफ़ॉल्ट फ़ॉन्ट का उचित नाम लेने के लिए अगले कोड स्निपेट का उपयोग किया जा सकता है : System.Drawing.Text.InstalledFontCollection col = new System.Drawing.Text.InstalledFontCollection(); System.Drawing.FontFamily[] family = col.Families; string defaultFontName = family[0].Name; PsdLoadOptions psdLoadOptions = new PsdLoadOptions() { DefaultReplacementFont = defaultFontName });
+डिफ़ॉल्ट प्रतिस्थापन फ़ॉन्ट को प्राप्त करता है या सेट करता है (फ़ॉन्ट जो रास्टर में निर्यात करते समय टेक्स्ट ड्रॉ करने के लिए उपयोग किया जाएगा, यदि PSD फ़ाइल में मौजूदा लेयर फ़ॉन्ट सिस्टम में उपलब्ध नहीं है)। डिफ़ॉल्ट फ़ॉन्ट का उचित नाम प्राप्त करने के लिए निम्न कोड स्निपेट का उपयोग किया जा सकता है: `System.Drawing.Text.InstalledFontCollection col = new System.Drawing.Text.InstalledFontCollection(); System.Drawing.FontFamily[] families = col.Families; string defaultFontName = families[0].Name; PsdLoadOptions psdLoadOptions = new PsdLoadOptions() { DefaultReplacementFont = defaultFontName });`
 
 ```csharp
 public virtual string DefaultReplacementFont { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
 डिफ़ॉल्ट प्रतिस्थापन फ़ॉन्ट।
 
-### उदाहरण
+## उदाहरण
 
-निम्न उदाहरण दिखाता है कि डिफ़ॉल्ट प्रतिस्थापन फ़ॉन्ट को बदलने के लिए DefaultReplacementFont गुण का उपयोग कैसे करें।
+निम्न उदाहरण दिखाता है कि डिफ़ॉल्ट प्रतिस्थापन फ़ॉन्ट को बदलने के लिए DefaultReplacementFont प्रॉपर्टी का उपयोग कैसे किया जाता है।
 
 ```csharp
 [C#]
 
-// कृपया, कॉन्स्टेंटिंग फ़ॉन्ट इंस्टॉल न करें, क्योंकि इस परीक्षण को उस फ़ॉन्ट को प्रतिस्थापित करना चाहिए जो इंस्टॉल नहीं है
+// कृपया, Konstanting फ़ॉन्ट इंस्टॉल न करें, क्योंकि यह परीक्षण उन फ़ॉन्ट को बदलना चाहिए जो इंस्टॉल नहीं हैं।
 string sourceFileName = "sample_konstanting.psd";
 
 string[] outputs = new string[]
@@ -35,19 +36,19 @@ string[] outputs = new string[]
     "replacedfont2.jpg"
 };
 
-using (PsdImage image = (PsdImage)Image.Load(sourceFileName, new PsdLoadOptions()))
+using (PsdImage image = (PsdImage)Image.Load(sourceFileName, new PsdLoadOptions() { AllowNonChangedLayerRepaint = true }))
 {
-    // इस तरह आप अलग-अलग आउटपुट के लिए अलग-अलग फॉन्ट का इस्तेमाल कर सकते हैं 
+    // इस तरह आप विभिन्न आउटपुट के लिए अलग-अलग फ़ॉन्ट का उपयोग कर सकते हैं।
     image.Save(outputs[0], new TiffOptions(TiffExpectedFormat.TiffJpegRgb) { DefaultReplacementFont = "Arial" });
     image.Save(outputs[1], new PngOptions { DefaultReplacementFont = "Verdana" });
     image.Save(outputs[2], new JpegOptions { DefaultReplacementFont = "Times New Roman" });
 }
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * class [ImageOptionsBase](../)
-* नाम स्थान [Aspose.PSD](../../imageoptionsbase/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

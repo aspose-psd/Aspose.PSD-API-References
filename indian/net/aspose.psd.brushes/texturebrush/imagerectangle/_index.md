@@ -1,28 +1,29 @@
 ---
-title: TextureBrush.ImageRectangle
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: TextureBrush संपत्त. ह जत हैRectangle इससे जुड़ हुआ हैTextureBrush .
+title: "TextureBrush.ImageRectangle"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "TextureBrush प्रॉपर्टी। इस TextureBrush से संबंधित Rectangle प्राप्त करता है।"
 type: docs
 weight: 40
 url: /hi/net/aspose.psd.brushes/texturebrush/imagerectangle/
 ---
+{{< psd/tize >}}
 ## TextureBrush.ImageRectangle property
 
-हो जाता है[`Rectangle`](../../../aspose.psd/rectangle/) इससे जुड़ा हुआ है[`TextureBrush`](../) .
+इस [`TextureBrush`](../) से संबंधित [`Rectangle`](../../../aspose.psd/rectangle/) प्राप्त करता है।
 
 ```csharp
 public RectangleF ImageRectangle { get; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-[`Rectangle`](../../../aspose.psd/rectangle/).
+यह [`Rectangle`](../../../aspose.psd/rectangle/)।
 
-### यह सभी देखें
+### देखें भी
 
 * struct [RectangleF](../../../aspose.psd/rectanglef/)
 * class [TextureBrush](../)
-* नाम स्थान [Aspose.PSD.Brushes](../../texturebrush/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
+* assembly [Aspose.PSD](../../../)
 
 

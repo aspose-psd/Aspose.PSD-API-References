@@ -1,27 +1,28 @@
 ---
-title: TypeToolInfoResource.LineCount
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: TypeToolInfoResource संपत्त. पंक्त संख्य प्रप्त करत है.
+title: "TypeToolInfoResource.LineCount"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "TypeToolInfoResource प्रॉपर्टी। लाइन काउंट प्राप्त करता है।"
 type: docs
-weight: 130
+weight: 120
 url: /hi/net/aspose.psd.fileformats.psd.layers.layerresources/typetoolinforesource/linecount/
 ---
+{{< psd/tize >}}
 ## TypeToolInfoResource.LineCount property
 
-पंक्ति संख्या प्राप्त करता है.
+लाइन गिनती प्राप्त करता है।
 
 ```csharp
 public short LineCount { get; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-पंक्ति संख्या.
+लाइन काउंट।
 
-### यह सभी देखें
+### देखें भी
 
 * class [TypeToolInfoResource](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../typetoolinforesource/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

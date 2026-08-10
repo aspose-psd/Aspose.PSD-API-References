@@ -1,27 +1,28 @@
 ---
-title: Color.GetHue
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Color तरक. इसके लए रंगसंतृप्तचमक HSB रंग मन डग्र में प्रप्त करत हैColorसंरचन.
+title: "Color.GetHue"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Color मेथड। इस Color संरचना के लिए डिग्री में huesaturationbrightness HSB hue मान प्राप्त करता है।"
 type: docs
 weight: 1570
 url: /hi/net/aspose.psd/color/gethue/
 ---
+{{< psd/tize >}}
 ## Color.GetHue method
 
-इसके लिए रंग-संतृप्ति-चमक (HSB) रंग मान डिग्री में प्राप्त करता है[`Color`](../)संरचना.
+इस [`Color`](../) संरचना के लिए डिग्री में hue-saturation-brightness (HSB) hue मान प्राप्त करता है।
 
 ```csharp
 public float GetHue()
 ```
 
-### प्रतिलाभ की मात्रा
+### रिटर्न वैल्यू
 
-रंग, डिग्री में, इसका[`Color`](../). रंग को HSB कलर स्पेस में 0.0 से लेकर 360.0 तक की डिग्री में मापा जाता है।
+इस [`Color`](../) का hue, डिग्री में। hue को डिग्री में मापा जाता है, जो 0.0 से 360.0 तक HSB रंग स्थान में होता है।
 
-### यह सभी देखें
+### देखें भी
 
 * struct [Color](../)
-* नाम स्थान [Aspose.PSD](../../color/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

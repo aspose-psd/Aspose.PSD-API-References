@@ -1,36 +1,37 @@
 ---
-title: Class AiRasterImageSection
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Aspose.PSD.FileFormats.Ai.AiRasterImageSection कक्ष. एआई रेखपुंज छव अनुभग
+title: "क्लास AiRasterImageSection"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Aspose.PSD.FileFormats.Ai.AiRasterImageSection क्लास। AI Raster Image Section।"
 type: docs
-weight: 1280
+weight: 1290
 url: /hi/net/aspose.psd.fileformats.ai/airasterimagesection/
 ---
+{{< psd/tize >}}
 ## AiRasterImageSection class
 
-एआई रेखापुंज छवि अनुभाग
+AI रास्टर इमेज सेक्शन
 
 ```csharp
 public sealed class AiRasterImageSection
 ```
 
-## गुण
+## प्रॉपर्टीज़
 
 | नाम | विवरण |
 | --- | --- |
-| [Angle](../../aspose.psd.fileformats.ai/airasterimagesection/angle/) { get; } | कोण मिलता है। |
-| [Height](../../aspose.psd.fileformats.ai/airasterimagesection/height/) { get; } | ऊंचाई मिलती है। |
-| [ImageRectangle](../../aspose.psd.fileformats.ai/airasterimagesection/imagerectangle/) { get; } | छवि आयत प्राप्त करता है। |
-| [LeftBottomShift](../../aspose.psd.fileformats.ai/airasterimagesection/leftbottomshift/) { get; } | बाएँ नीचे की ओर शिफ्ट हो जाता है। |
-| [Name](../../aspose.psd.fileformats.ai/airasterimagesection/name/) { get; } | रेखापुंज छवि का नाम प्राप्त करता है। |
-| [OffsetX](../../aspose.psd.fileformats.ai/airasterimagesection/offsetx/) { get; } | ऑफसेट एक्स प्राप्त करता है। |
-| [OffsetY](../../aspose.psd.fileformats.ai/airasterimagesection/offsety/) { get; } | ऑफ़सेट वाई प्राप्त करता है। |
-| [Pixels](../../aspose.psd.fileformats.ai/airasterimagesection/pixels/) { get; } | इंट कलर पिक्सल की सरणी प्राप्त करता है। |
-| [Width](../../aspose.psd.fileformats.ai/airasterimagesection/width/) { get; } | चौड़ाई मिलती है। |
+| [Angle](../../aspose.psd.fileformats.ai/airasterimagesection/angle/) { get; } | कोण को प्राप्त करता है। |
+| [Height](../../aspose.psd.fileformats.ai/airasterimagesection/height/) { get; } | ऊँचाई को प्राप्त करता है। |
+| [ImageRectangle](../../aspose.psd.fileformats.ai/airasterimagesection/imagerectangle/) { get; } | छवि आयत को प्राप्त करता है। |
+| [LeftBottomShift](../../aspose.psd.fileformats.ai/airasterimagesection/leftbottomshift/) { get; } | बाएँ नीचे शिफ्ट को प्राप्त करता है। |
+| [Name](../../aspose.psd.fileformats.ai/airasterimagesection/name/) { get; } | रास्टर इमेज का नाम प्राप्त करता है। |
+| [OffsetX](../../aspose.psd.fileformats.ai/airasterimagesection/offsetx/) { get; } | ऑफ़सेट X प्राप्त करता है। |
+| [OffsetY](../../aspose.psd.fileformats.ai/airasterimagesection/offsety/) { get; } | ऑफ़सेट Y प्राप्त करता है। |
+| [Pixels](../../aspose.psd.fileformats.ai/airasterimagesection/pixels/) { get; } | int रंग पिक्सेल की सरणी प्राप्त करता है। |
+| [Width](../../aspose.psd.fileformats.ai/airasterimagesection/width/) { get; } | चौड़ाई प्राप्त करता है। |
 
-### उदाहरण
+## उदाहरण
 
-निम्नलिखित कोड दर्शाता है कि एआई प्रारूप फाइलों में रेखापुंज छवियों की सेटिंग्स को कैसे लोड किया जाए।
+निम्नलिखित कोड दिखाता है कि AI फ़ॉर्मेट फ़ाइलों में रास्टर इमेज की सेटिंग्स कैसे लोड की जाती हैं।
 
 ```csharp
 [C#]
@@ -73,9 +74,9 @@ using (AiImage image = (AiImage)Image.Load(sourceFile))
 }
 ```
 
-### यह सभी देखें
+### देखें भी
 
-* नाम स्थान [Aspose.PSD.FileFormats.Ai](../../aspose.psd.fileformats.ai/)
-* सभा [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../)
 
 

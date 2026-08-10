@@ -1,27 +1,28 @@
 ---
-title: IPlacedLayerResource.VOrder
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: IPlacedLayerResource संपत्त. PSD फ़इल में रख परत क V क्रम मन प्रप्त य सेट करत है
+title: "IPlacedLayerResource.VOrder"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "IPlacedLayerResource प्रॉपर्टी. PSD फ़ाइल में रखी गई लेयर के V क्रम मान को प्राप्त या सेट करता है."
 type: docs
 weight: 230
 url: /hi/net/aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/vorder/
 ---
+{{< psd/tize >}}
 ## IPlacedLayerResource.VOrder property
 
-PSD फ़ाइल में रखी परत का V क्रम मान प्राप्त या सेट करता है।
+स्थापित लेयर के V क्रम मान को प्राप्त करता है या सेट करता है PSD फ़ाइल में।
 
 ```csharp
 public int VOrder { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-रखी गई परत का V क्रम मान.
+रखी गई लेयर का V क्रम मान।
 
-### यह सभी देखें
+### देखें भी
 
 * interface [IPlacedLayerResource](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../iplacedlayerresource/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: PhotoshopPackage.SetSource
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: PhotoshopPackage तरक. स्रत सेट करत है
+title: "PhotoshopPackage.SetSource"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "PhotoshopPackage मेथड. स्रोत सेट करता है"
 type: docs
 weight: 160
 url: /hi/net/aspose.psd.xmp.schemas.photoshop/photoshoppackage/setsource/
 ---
+{{< psd/tize >}}
 ## PhotoshopPackage.SetSource method
 
 स्रोत सेट करता है।
@@ -14,14 +15,14 @@ url: /hi/net/aspose.psd.xmp.schemas.photoshop/photoshoppackage/setsource/
 public void SetSource(string source)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| source | String | स्रोत। |
+| स्रोत | String | स्रोत। |
 
-### यह सभी देखें
+### देखें भी
 
 * class [PhotoshopPackage](../)
-* नाम स्थान [Aspose.PSD.Xmp.Schemas.Photoshop](../../photoshoppackage/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.Photoshop](../../../aspose.psd.xmp.schemas.photoshop/)
+* assembly [Aspose.PSD](../../../)
 
 

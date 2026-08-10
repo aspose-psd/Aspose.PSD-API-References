@@ -1,11 +1,12 @@
 ---
-title: RdOptimizerSettings.PsnrMax
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: RdOptimizerSettings संपत्त. PSNR अधकतम अपेक्षत मन प्रप्त करत है
+title: "RdOptimizerSettings.PsnrMax"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "RdOptimizerSettings property. PSNR अधिकतम अपेक्षित मान प्राप्त करता है"
 type: docs
 weight: 90
 url: /hi/net/aspose.psd.imageoptions/rdoptimizersettings/psnrmax/
 ---
+{{< psd/tize >}}
 ## RdOptimizerSettings.PsnrMax property
 
 PSNR अधिकतम अपेक्षित मान प्राप्त करता है।
@@ -14,14 +15,14 @@ PSNR अधिकतम अपेक्षित मान प्राप्त
 public int PsnrMax { get; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-अधिकतम अधिकतम पिक्सेल मान.
+अधिकतम अधिकतम पिक्सेल वैल्यू।
 
-### यह सभी देखें
+### देखें भी
 
 * class [RdOptimizerSettings](../)
-* नाम स्थान [Aspose.PSD.ImageOptions](../../rdoptimizersettings/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: CmykColor.ToValue
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: CmykColor तरक. मन के लए
+title: "CmykColor.ToValue"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "CmykColor मेथड। to मान"
 type: docs
-weight: 90
+weight: 100
 url: /hi/net/aspose.psd/cmykcolor/tovalue/
 ---
+{{< psd/tize >}}
 ## CmykColor.ToValue method
 
-मान के लिए।
+मान प्राप्त करता है।
 
 ```csharp
 public long ToValue()
 ```
 
-### प्रतिलाभ की मात्रा
+### रिटर्न वैल्यू
 
-दInt64 .
+यह Int64।
 
-### यह सभी देखें
+### देखें भी
 
 * struct [CmykColor](../)
-* नाम स्थान [Aspose.PSD](../../cmykcolor/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

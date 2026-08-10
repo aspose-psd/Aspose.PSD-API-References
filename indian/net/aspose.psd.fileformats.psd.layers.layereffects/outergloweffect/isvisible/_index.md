@@ -1,27 +1,28 @@
 ---
-title: OuterGlowEffect.IsVisible
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: OuterGlowEffect संपत्त. एक मन प्रप्त करत है य सेट करत है ज दर्शत है क यह उदहरण दृश्यमन है य नहं
+title: "OuterGlowEffect.IsVisible"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "OuterGlowEffect property. यह दर्शाने वाला मान प्राप्त करता है या सेट करता है कि यह इंस्टेंस दृश्यमान है या नहीं"
 type: docs
 weight: 70
 url: /hi/net/aspose.psd.fileformats.psd.layers.layereffects/outergloweffect/isvisible/
 ---
+{{< psd/tize >}}
 ## OuterGlowEffect.IsVisible property
 
-एक मान प्राप्त करता है या सेट करता है जो दर्शाता है कि यह उदाहरण दृश्यमान है या नहीं।
+एक मान को प्राप्त करता है या सेट करता है जो यह दर्शाता है कि यह इंस्टेंस दृश्यमान है या नहीं।
 
 ```csharp
 public bool IsVisible { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-`सत्य` यदि यह उदाहरण दिखाई दे रहा है; अन्यथा,`असत्य` .
+`true` यदि यह इंस्टेंस दृश्यमान है; अन्यथा, `false`।
 
-### यह सभी देखें
+### देखें भी
 
 * class [OuterGlowEffect](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../outergloweffect/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../../)
 
 

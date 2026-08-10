@@ -1,27 +1,28 @@
 ---
-title: DropShadowEffect.KnocksOut
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: DropShadowEffect संपत्त. एक मन प्रप्त य सेट करत है ज दर्शत है क नक आउट है
+title: "DropShadowEffect.KnocksOut"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "DropShadowEffect प्रॉपर्टी। यह दर्शाने वाला मान प्राप्त करता है या सेट करता है कि नॉक आउट है या नहीं"
 type: docs
 weight: 70
 url: /hi/net/aspose.psd.fileformats.psd.layers.layereffects/dropshadoweffect/knocksout/
 ---
+{{< psd/tize >}}
 ## DropShadowEffect.KnocksOut property
 
-एक मान प्राप्त या सेट करता है जो दर्शाता है कि [नॉक आउट] है।
+एक मान प्राप्त करता है या सेट करता है जो दर्शाता है कि क्या [knocks out]।
 
 ```csharp
 public bool KnocksOut { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-`सत्य`अगर [नॉक आउट]; अन्यथा,`असत्य` .
+`true` यदि [knocks out]; अन्यथा, `false`.
 
-### यह सभी देखें
+### देखें भी
 
 * class [DropShadowEffect](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../dropshadoweffect/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../../)
 
 

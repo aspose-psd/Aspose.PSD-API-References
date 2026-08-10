@@ -1,23 +1,24 @@
 ---
-title: NonGenericList.Count
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: NonGenericList संपत्त. में नहत तत्वं क संख्य प्रप्त करत हैICollection .
+title: "NonGenericList.Count"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "NonGenericList प्रॉपर्टी। ICollection में मौजूद तत्वों की संख्या प्राप्त करता है"
 type: docs
 weight: 20
 url: /hi/net/aspose.psd/nongenericlist/count/
 ---
+{{< psd/tize >}}
 ## NonGenericList.Count property
 
-में निहित तत्वों की संख्या प्राप्त करता हैICollection .
+ICollection में शामिल तत्वों की संख्या प्राप्त करता है।
 
 ```csharp
 public int Count { get; }
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * class [NonGenericList](../)
-* नाम स्थान [Aspose.PSD](../../nongenericlist/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

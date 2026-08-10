@@ -1,28 +1,29 @@
 ---
-title: RectangleF.Size
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: RectangleF संपत्त. इसक आकर प्रप्त य सेट करत हैRectangleF .
+title: "RectangleF.Size"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "RectangleF प्रॉपर्टी। इस RectangleF का आकार प्राप्त करता है या सेट करता है।"
 type: docs
 weight: 140
 url: /hi/net/aspose.psd/rectanglef/size/
 ---
+{{< psd/tize >}}
 ## RectangleF.Size property
 
-इसका आकार प्राप्त या सेट करता है[`RectangleF`](../) .
+इस [`RectangleF`](../) का आकार प्राप्त करता है या सेट करता है।
 
 ```csharp
 public SizeF Size { get; set; }
 ```
 
-### प्रतिलाभ की मात्रा
+### रिटर्न वैल्यू
 
-ए[`SizeF`](../../sizef/) जो इसकी चौड़ाई और ऊंचाई का प्रतिनिधित्व करता है[`RectangleF`](../) संरचना।
+एक [`SizeF`](../../sizef/) जो इस [`RectangleF`](../) संरचना की चौड़ाई और ऊँचाई का प्रतिनिधित्व करता है।
 
-### यह सभी देखें
+### देखें भी
 
 * struct [SizeF](../../sizef/)
 * struct [RectangleF](../)
-* नाम स्थान [Aspose.PSD](../../rectanglef/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

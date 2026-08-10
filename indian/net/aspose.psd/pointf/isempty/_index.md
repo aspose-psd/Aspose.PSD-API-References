@@ -1,27 +1,28 @@
 ---
-title: PointF.IsEmpty
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: PointF संपत्त. यह इंगत करने वल मन प्रप्त करत है क क्य यहPointF खल है.
+title: "PointF.IsEmpty"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "PointF प्रॉपर्टी। यह मान प्राप्त करता है जो दर्शाता है कि यह PointF खाली है या नहीं।"
 type: docs
 weight: 50
 url: /hi/net/aspose.psd/pointf/isempty/
 ---
+{{< psd/tize >}}
 ## PointF.IsEmpty property
 
-यह इंगित करने वाला मान प्राप्त करता है कि क्या यह[`PointF`](../) खाली है.
+यह मान प्राप्त करता है जो दर्शाता है कि यह [`PointF`](../) खाली है या नहीं।
 
 ```csharp
 public bool IsEmpty { get; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-सच है अगर दोनों[`X`](../x/) और[`Y`](../y/) 0 हैं; अन्यथा झूठा।
+यदि दोनों [`X`](../x/) और [`Y`](../y/) 0 हैं तो सत्य; अन्यथा असत्य।
 
-### यह सभी देखें
+### देखें भी
 
 * struct [PointF](../)
-* नाम स्थान [Aspose.PSD](../../pointf/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

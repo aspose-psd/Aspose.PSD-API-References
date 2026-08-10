@@ -1,0 +1,24 @@
+---
+title: "VscgResource.VscgResource"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "VscgResource कंस्ट्रक्टर। डिफ़ॉल्ट कंस्ट्रक्टर।"
+type: docs
+weight: 10
+url: /hi/net/aspose.psd.fileformats.psd.layers.layerresources.strokeresources/vscgresource/vscgresource/
+---
+{{< psd/tize >}}
+## VscgResource constructor
+
+डिफ़ॉल्ट कन्स्ट्रक्टर।
+
+```csharp
+public VscgResource()
+```
+
+### देखें भी
+
+* class [VscgResource](../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.StrokeResources](../../../aspose.psd.fileformats.psd.layers.layerresources.strokeresources/)
+* assembly [Aspose.PSD](../../../)
+
+

@@ -1,27 +1,28 @@
 ---
-title: GridAndGuidesResouce.GuideCount
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: GridAndGuidesResouce संपत्त. गइड रसर्स ब्लक क गनत करत है
+title: "GridAndGuidesResouce.GuideCount"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "GridAndGuidesResouce प्रॉपर्टी। गाइड रिसोर्स ब्लॉक्स की गिनती प्राप्त करता है"
 type: docs
 weight: 50
 url: /hi/net/aspose.psd.fileformats.psd.resources/gridandguidesresouce/guidecount/
 ---
+{{< psd/tize >}}
 ## GridAndGuidesResouce.GuideCount property
 
-गाइड रिसोर्स ब्लॉक की गिनती करता है।
+गाइड रिसोर्स ब्लॉक्स की गिनती को प्राप्त करता है।
 
 ```csharp
 public int GuideCount { get; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-गाइड संसाधन ब्लॉक गिनती।
+गाइड रिसोर्स ब्लॉक्स की गिनती।
 
-### यह सभी देखें
+### देखें भी
 
 * class [GridAndGuidesResouce](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Resources](../../gridandguidesresouce/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

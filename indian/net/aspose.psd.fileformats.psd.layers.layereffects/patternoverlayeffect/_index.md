@@ -1,32 +1,39 @@
 ---
-title: Class PatternOverlayEffect
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerEffects.PatternOverlayEffect कक्ष. प्रतमन परत प्रभव
+title: "क्लास PatternOverlayEffect"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Aspose.PSD.FileFormats.Psd.Layers.LayerEffects.PatternOverlayEffect क्लास। पैटर्न लेयर इफ़ेक्ट"
 type: docs
-weight: 2180
+weight: 2380
 url: /hi/net/aspose.psd.fileformats.psd.layers.layereffects/patternoverlayeffect/
 ---
+{{< psd/tize >}}
 ## PatternOverlayEffect class
 
-प्रतिमान परत प्रभाव
+पैटर्न लेयर इफ़ेक्ट
 
 ```csharp
 public class PatternOverlayEffect : ILayerEffect
 ```
 
-## गुण
+## प्रॉपर्टीज़
 
 | नाम | विवरण |
 | --- | --- |
-| [BlendMode](../../aspose.psd.fileformats.psd.layers.layereffects/patternoverlayeffect/blendmode/) { get; set; } | ब्लेंड मोड प्राप्त या सेट करता है। |
-| [EffectType](../../aspose.psd.fileformats.psd.layers.layereffects/patternoverlayeffect/effecttype/) { get; } | एक प्रकार का प्रभाव टाइप प्राप्त करता है |
-| [IsVisible](../../aspose.psd.fileformats.psd.layers.layereffects/patternoverlayeffect/isvisible/) { get; set; } | एक मान प्राप्त करता है या सेट करता है जो दर्शाता है कि यह उदाहरण दृश्यमान है या नहीं। |
-| [Opacity](../../aspose.psd.fileformats.psd.layers.layereffects/patternoverlayeffect/opacity/) { get; set; } | अस्पष्टता प्राप्त या सेट करता है। |
+| [BlendMode](../../aspose.psd.fileformats.psd.layers.layereffects/patternoverlayeffect/blendmode/) { get; set; } | ब्लेंड मोड को प्राप्त करता है या सेट करता है। |
+| [EffectType](../../aspose.psd.fileformats.psd.layers.layereffects/patternoverlayeffect/effecttype/) { get; } | एक इफ़ेक्ट प्रकार प्राप्त करता है |
+| [IsVisible](../../aspose.psd.fileformats.psd.layers.layereffects/patternoverlayeffect/isvisible/) { get; set; } | एक मान को प्राप्त करता है या सेट करता है जो यह दर्शाता है कि यह इंस्टेंस दृश्यमान है या नहीं। |
+| [Opacity](../../aspose.psd.fileformats.psd.layers.layereffects/patternoverlayeffect/opacity/) { get; set; } | अपारदर्शिता प्राप्त करता है या सेट करता है। |
 | [Settings](../../aspose.psd.fileformats.psd.layers.layereffects/patternoverlayeffect/settings/) { get; set; } | सेटिंग्स प्राप्त करता है या सेट करता है। |
 
-### उदाहरण
+## मेथड्स
 
-निम्न कोड पैटर्न ओवरले प्रभाव के समर्थन को प्रदर्शित करता है।
+| नाम | विवरण |
+| --- | --- |
+| [GetEffectBounds](../../aspose.psd.fileformats.psd.layers.layereffects/patternoverlayeffect/geteffectbounds/)(Rectangle, int) | इनपुट लेयर पिक्सेल सीमाओं के आधार पर इफ़ेक्ट पिक्सेल की सीमाओं की गणना करता है और प्राप्त करता है। |
+
+## उदाहरण
+
+निम्नलिखित कोड पैटर्न ओवरले इफ़ेक्ट के समर्थन को दर्शाता है।
 
 ```csharp
 [C#]
@@ -97,7 +104,7 @@ using (var im = (PsdImage)Image.Load(sourceFileName, loadOptions))
     AssertIsTrue(Math.Abs(0 - settings.HorizontalOffset) < 0.001, "Horizontal offset is incorrect");
     AssertIsTrue(Math.Abs(0 - settings.VerticalOffset) < 0.001, "Vertical offset is incorrect");
 
-    // परीक्षण संपादन
+    // संपादन परीक्षण
     settings.Color = Color.Green;
 
     patternOverlay.Opacity = 193;
@@ -149,10 +156,10 @@ using (var im = (PsdImage)Image.Load(exportPath, loadOptions))
 }
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * interface [ILayerEffect](../ilayereffect/)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../aspose.psd.fileformats.psd.layers.layereffects/)
-* सभा [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../)
 
 

@@ -1,23 +1,24 @@
 ---
-title: UnknownResource.Signature
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: UnknownResource संपत्त. परत संसधन हस्तक्षर प्रप्त करत है
+title: "UnknownResource.Signature"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "UnknownResource प्रॉपर्टी। लेयर रिसोर्स का हस्ताक्षर प्राप्त करता है।"
 type: docs
-weight: 60
+weight: 40
 url: /hi/net/aspose.psd.fileformats.psd.layers.layerresources/unknownresource/signature/
 ---
+{{< psd/tize >}}
 ## UnknownResource.Signature property
 
-परत संसाधन हस्ताक्षर प्राप्त करता है।
+लेयर रिसोर्स सिग्नेचर प्राप्त करता है।
 
 ```csharp
 public override int Signature { get; }
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * class [UnknownResource](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../unknownresource/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,32 +1,33 @@
 ---
-title: Color.op_Equality
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Color तरक. परक्षण करत है क क्य द नर्दष्ट हैंColorसंरचनएं समतुल्य हैं
+title: "Color.op_Equality"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Color विधि। दो निर्दिष्ट Color संरचनाओं के समान होने का परीक्षण करता है।"
 type: docs
-weight: 1620
+weight: 1640
 url: /hi/net/aspose.psd/color/op_equality/
 ---
+{{< psd/tize >}}
 ## Color Equality operator
 
-परीक्षण करता है कि क्या दो निर्दिष्ट हैं[`Color`](../)संरचनाएं समतुल्य हैं।
+परीक्षण करता है कि दो निर्दिष्ट [`Color`](../) संरचनाएँ समान हैं या नहीं।
 
 ```csharp
 public static bool operator ==(Color left, Color right)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| left | Color | [`Color`](../) वह समानता ऑपरेटर के बाईं ओर है। |
-| right | Color | [`Color`](../) वह समानता ऑपरेटर के दाईं ओर है। |
+| left | Color | समता ऑपरेटर के बाएँ तरफ स्थित [`Color`](../) है। |
+| right | Color | समता ऑपरेटर के दाएँ तरफ स्थित [`Color`](../) है। |
 
-### प्रतिलाभ की मात्रा
+### रिटर्न वैल्यू
 
-सच है अगर दो[`Color`](../) संरचनाएं समान हैं; अन्यथा झूठा।
+यदि दो [`Color`](../) संरचनाएँ समान हैं तो सत्य; अन्यथा असत्य।
 
-### यह सभी देखें
+### देखें भी
 
 * struct [Color](../)
-* नाम स्थान [Aspose.PSD](../../color/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

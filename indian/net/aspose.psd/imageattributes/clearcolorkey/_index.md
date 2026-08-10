@@ -1,44 +1,45 @@
 ---
-title: ImageAttributes.ClearColorKey
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: ImageAttributes तरक. डफ़ल्ट श्रेण के लए रंग कुंज परदर्शत सम सफ़ करत है
+title: "ImageAttributes.ClearColorKey"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "ImageAttributes मेथड। डिफ़ॉल्ट श्रेणी के लिए रंग कुंजी पारदर्शिता रेंज को साफ़ करता है।"
 type: docs
 weight: 30
 url: /hi/net/aspose.psd/imageattributes/clearcolorkey/
 ---
+{{< psd/tize >}}
 ## ClearColorKey() {#clearcolorkey}
 
-डिफ़ॉल्ट श्रेणी के लिए रंग कुंजी (पारदर्शिता सीमा) साफ़ करता है।
+डिफ़ॉल्ट श्रेणी के लिए color key (पारदर्शिता रेंज) को साफ़ करता है।
 
 ```csharp
 public void ClearColorKey()
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * class [ImageAttributes](../)
-* नाम स्थान [Aspose.PSD](../../imageattributes/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## ClearColorKey(ColorAdjustType) {#clearcolorkey_1}
 
-निर्दिष्ट श्रेणी के लिए रंग कुंजी (पारदर्शिता सीमा) साफ़ करता है।
+निर्दिष्ट श्रेणी के लिए color key (पारदर्शिता रेंज) को साफ़ करता है।
 
 ```csharp
 public void ClearColorKey(ColorAdjustType type)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| type | ColorAdjustType | का एक तत्व[`ColorAdjustType`](../../coloradjusttype/) जो उस श्रेणी को निर्दिष्ट करता है जिसके लिए रंग कुंजी साफ़ की गई है। |
+| type | ColorAdjustType | [`ColorAdjustType`](../../coloradjusttype/) का एक तत्व जो उस श्रेणी को निर्दिष्ट करता है जिसके लिए रंग कुंजी साफ़ की जाती है। |
 
-### यह सभी देखें
+### देखें भी
 
 * enum [ColorAdjustType](../../coloradjusttype/)
 * class [ImageAttributes](../)
-* नाम स्थान [Aspose.PSD](../../imageattributes/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

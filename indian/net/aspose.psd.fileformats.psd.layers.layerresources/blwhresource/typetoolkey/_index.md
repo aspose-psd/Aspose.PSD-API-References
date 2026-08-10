@@ -1,23 +1,24 @@
 ---
-title: BlwhResource.TypeToolKey
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: BlwhResource मैदन. प्रकर उपकरण जनकर कुंज
+title: "BlwhResource.TypeToolKey"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "BlwhResource फ़ील्ड। टाइप टूल जानकारी कुंजी"
 type: docs
-weight: 160
+weight: 140
 url: /hi/net/aspose.psd.fileformats.psd.layers.layerresources/blwhresource/typetoolkey/
 ---
+{{< psd/tize >}}
 ## BlwhResource.TypeToolKey field
 
-प्रकार उपकरण जानकारी कुंजी।
+टाइप टूल जानकारी कुंजी।
 
 ```csharp
 public const int TypeToolKey;
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * class [BlwhResource](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../blwhresource/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

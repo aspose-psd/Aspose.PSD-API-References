@@ -1,35 +1,36 @@
 ---
-title: CurvesContinuousManager.AddCurvePoint
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: CurvesContinuousManager तरक. वक्र बंदु जड़त है
+title: "CurvesContinuousManager.AddCurvePoint"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "CurvesContinuousManager मेथड। वक्र का बिंदु जोड़ता है"
 type: docs
 weight: 20
 url: /hi/net/aspose.psd.fileformats.psd.layers.layerresources/curvescontinuousmanager/addcurvepoint/
 ---
+{{< psd/tize >}}
 ## CurvesContinuousManager.AddCurvePoint method
 
-वक्र बिंदु जोड़ता है।
+कर्व का बिंदु जोड़ता है।
 
 ```csharp
 public void AddCurvePoint(int channelIndex, byte x, byte y)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
 | channelIndex | Int32 | चैनल का सूचकांक। |
-| x | Byte | एक्स स्थान। |
-| y | Byte | वाई स्थान। |
+| x | बाइट | x स्थान। |
+| y | बाइट | y स्थान। |
 
 ### अपवाद
 
-| अपवाद | स्थिति |
+| अपवाद | शर्त |
 | --- | --- |
-| [PsdImageArgumentException](../../../aspose.psd.coreexceptions.imageformats/psdimageargumentexception/) | आप जिस बिंदु को जोड़ने का प्रयास कर रहे हैं वह पहले से मौजूद है |
+| [PsdImageArgumentException](../../../aspose.psd.coreexceptions.imageformats/psdimageargumentexception/) | आप जिस बिंदु को जोड़ने की कोशिश कर रहे हैं वह पहले से मौजूद है |
 
-### यह सभी देखें
+### देखें भी
 
 * class [CurvesContinuousManager](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../curvescontinuousmanager/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

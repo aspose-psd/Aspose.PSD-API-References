@@ -1,14 +1,15 @@
 ---
-title: Class XmpChoiseT
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Aspose.PSD.Xmp.Types.Derived.XmpChoise1T कक्ष. मूल्यं क शब्दवल से मूल्य क प्रतनधत्व करत है
+title: "क्लास XmpChoiseT"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Aspose.PSD.Xmp.Types.Derived.XmpChoise1T क्लास। मानों के शब्दकोश से एक मान का प्रतिनिधित्व करता है"
 type: docs
-weight: 6150
+weight: 6650
 url: /hi/net/aspose.psd.xmp.types.derived/xmpchoise-1/
 ---
+{{< psd/tize >}}
 ## XmpChoise&lt;T&gt; class
 
-मूल्यों की शब्दावली से मूल्य का प्रतिनिधित्व करता है।
+मानों के शब्दकोश से एक मान का प्रतिनिधित्व करता है।
 
 ```csharp
 public class XmpChoise<T> : XmpTypeBase
@@ -16,30 +17,30 @@ public class XmpChoise<T> : XmpTypeBase
 
 | पैरामीटर | विवरण |
 | --- | --- |
-| T | तत्वों के प्रकार। |
+| T | तत्वों का प्रकार। |
 
 ## कंस्ट्रक्टर्स
 
 | नाम | विवरण |
 | --- | --- |
-| [XmpChoise](xmpchoise/)() | डिफ़ॉल्ट कंस्ट्रक्टर। |
+| [XmpChoise](xmpchoise/)() | डिफ़ॉल्ट कन्स्ट्रक्टर। |
 
-## गुण
-
-| नाम | विवरण |
-| --- | --- |
-| [IsOpen](../../aspose.psd.xmp.types.derived/xmpchoise-1/isopen/) { get; set; } | एक मान प्राप्त करता है या सेट करता है जो इंगित करता है कि पसंदीदा मानों को बढ़ाया जा सकता है या नहीं। |
-
-## तरीकों
+## प्रॉपर्टीज़
 
 | नाम | विवरण |
 | --- | --- |
-| override [GetXmpRepresentation](../../aspose.psd.xmp.types.derived/xmpchoise-1/getxmprepresentation/)() | XMP प्रारूप में स्ट्रिंग युक्त मान प्राप्त करता है। |
+| [IsOpen](../../aspose.psd.xmp.types.derived/xmpchoise-1/isopen/) { get; set; } | एक मान प्राप्त करता है या सेट करता है जो दर्शाता है कि पसंदीदा मानों का विस्तार किया जा सकता है या नहीं। |
 
-### यह सभी देखें
+## मेथड्स
+
+| नाम | विवरण |
+| --- | --- |
+| override [GetXmpRepresentation](../../aspose.psd.xmp.types.derived/xmpchoise-1/getxmprepresentation/)() | XMP प्रारूप में सम्मिलित स्ट्रिंग मान को प्राप्त करता है। |
+
+### देखें भी
 
 * class [XmpTypeBase](../../aspose.psd.xmp.types/xmptypebase/)
-* नाम स्थान [Aspose.PSD.Xmp.Types.Derived](../../aspose.psd.xmp.types.derived/)
-* सभा [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Xmp.Types.Derived](../../aspose.psd.xmp.types.derived/)
+* assembly [Aspose.PSD](../../)
 
 

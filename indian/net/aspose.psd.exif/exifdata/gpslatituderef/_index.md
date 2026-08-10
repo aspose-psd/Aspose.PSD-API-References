@@ -1,27 +1,28 @@
 ---
-title: ExifData.GPSLatitudeRef
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: ExifData संपत्त. जपएस अक्षंश उत्तर य दक्षण अक्षंश है य सेट करत है
+title: "ExifData.GPSLatitudeRef"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "ExifData गुण। GPS अक्षांश उत्तर या दक्षिण अक्षांश है, इसे प्राप्त या सेट करता है"
 type: docs
 weight: 530
 url: /hi/net/aspose.psd.exif/exifdata/gpslatituderef/
 ---
+{{< psd/tize >}}
 ## ExifData.GPSLatitudeRef property
 
-जीपीएस अक्षांश उत्तर या दक्षिण अक्षांश है या सेट करता है।
+GPS अक्षांश उत्तर या दक्षिण है इसे प्राप्त करता है या सेट करता है।
 
 ```csharp
 public string GPSLatitudeRef { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-जीपीएस अक्षांश उत्तर या दक्षिण अक्षांश है।
+GPS अक्षांश उत्तर या दक्षिण अक्षांश है।
 
-### यह सभी देखें
+### देखें भी
 
 * class [ExifData](../)
-* नाम स्थान [Aspose.PSD.Exif](../../exifdata/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

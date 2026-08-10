@@ -1,11 +1,12 @@
 ---
-title: XmpRightsManagementPackage.SetWebStatement
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: XmpRightsManagementPackage तरक. वेब स्टेटमेंट सेट करत है
+title: "XmpRightsManagementPackage.SetWebStatement"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "XmpRightsManagementPackage मेथड। वेब स्टेटमेंट सेट करता है।"
 type: docs
 weight: 70
 url: /hi/net/aspose.psd.xmp.schemas.xmprm/xmprightsmanagementpackage/setwebstatement/
 ---
+{{< psd/tize >}}
 ## XmpRightsManagementPackage.SetWebStatement method
 
 वेब स्टेटमेंट सेट करता है।
@@ -14,14 +15,14 @@ url: /hi/net/aspose.psd.xmp.schemas.xmprm/xmprightsmanagementpackage/setwebstate
 public void SetWebStatement(string webStatementUrl)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
 | webStatementUrl | String | वेब स्टेटमेंट URL। |
 
-### यह सभी देखें
+### देखें भी
 
 * class [XmpRightsManagementPackage](../)
-* नाम स्थान [Aspose.PSD.Xmp.Schemas.XmpRm](../../xmprightsmanagementpackage/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpRm](../../../aspose.psd.xmp.schemas.xmprm/)
+* assembly [Aspose.PSD](../../../)
 
 

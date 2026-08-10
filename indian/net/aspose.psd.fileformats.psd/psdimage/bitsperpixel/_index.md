@@ -1,27 +1,28 @@
 ---
-title: PsdImage.BitsPerPixel
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: PsdImage संपत्त. छव बट्स प्रत पक्सेल संख्य प्रप्त करत है
+title: "PsdImage.BitsPerPixel"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "PsdImage प्रॉपर्टी। छवि बिट्स प्रति पिक्सेल की गिनती प्राप्त करता है"
 type: docs
 weight: 40
 url: /hi/net/aspose.psd.fileformats.psd/psdimage/bitsperpixel/
 ---
+{{< psd/tize >}}
 ## PsdImage.BitsPerPixel property
 
-छवि बिट्स प्रति पिक्सेल संख्या प्राप्त करता है।
+छवि के बिट्स प्रति पिक्सेल की गिनती प्राप्त करता है।
 
 ```csharp
 public override int BitsPerPixel { get; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-छवि बिट्स प्रति पिक्सेल गणना।
+इमेज बिट्स प्रति पिक्सेल काउंट।
 
-### यह सभी देखें
+### देखें भी
 
 * class [PsdImage](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

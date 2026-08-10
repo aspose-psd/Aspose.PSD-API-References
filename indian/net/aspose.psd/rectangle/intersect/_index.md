@@ -1,52 +1,53 @@
 ---
-title: Rectangle.Intersect
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Rectangle तरक. एक तहई लटत हैRectangle संरचन ज द अन्य के प्रतच्छेदन क प्रतनधत्व करत हैRectangle संरचनएं यद कई चरह नहं है त एक खलRectangle वपस आ गय है
+title: "Rectangle.Intersect"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Rectangle विधि। दो अन्य Rectangle संरचनाओं के प्रतिच्छेदन को दर्शाने वाली तीसरी Rectangle संरचना लौटाता है। यदि कोई प्रतिच्छेदन नहीं है तो एक खाली Rectangle लौटाया जाता है।"
 type: docs
 weight: 70
 url: /hi/net/aspose.psd/rectangle/intersect/
 ---
+{{< psd/tize >}}
 ## Intersect(Rectangle, Rectangle)
 
-एक तिहाई लौटाता है[`Rectangle`](../) संरचना जो दो अन्य के प्रतिच्छेदन का प्रतिनिधित्व करती है[`Rectangle`](../) संरचनाएं। यदि कोई चौराहा नहीं है, तो एक खाली[`Rectangle`](../) वापस आ गया है।
+दो अन्य [`Rectangle`](../) संरचनाओं के प्रतिच्छेदन को दर्शाने वाली तीसरी [`Rectangle`](../) संरचना लौटाता है। यदि कोई प्रतिच्छेदन नहीं है, तो एक खाली [`Rectangle`](../) लौटाया जाता है।
 
 ```csharp
 public static Rectangle Intersect(Rectangle a, Rectangle b)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| a | Rectangle | प्रतिच्छेद करने के लिए पहला आयत। |
-| b | Rectangle | प्रतिच्छेद करने के लिए एक दूसरा आयत। |
+| a | Rectangle | पहली आयत जिसका प्रतिच्छेदन करना है। |
+| b | Rectangle | दूसरी आयत जिसका प्रतिच्छेदन करना है। |
 
-### प्रतिलाभ की मात्रा
+### रिटर्न वैल्यू
 
-ए[`Rectangle`](../) जो प्रतिच्छेदन का प्रतिनिधित्व करता है*a* और*b*.
+*a* और *b* के प्रतिच्छेदन को दर्शाने वाला एक [`Rectangle`](../)।
 
-### यह सभी देखें
+### देखें भी
 
 * struct [Rectangle](../)
-* नाम स्थान [Aspose.PSD](../../rectangle/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Intersect(Rectangle)
 
-इसे बदलता है[`Rectangle`](../) स्वयं और निर्दिष्ट के प्रतिच्छेदन के साथ[`Rectangle`](../) .
+इस [`Rectangle`](../) को स्वयं और निर्दिष्ट किए गए [`Rectangle`](../) के प्रतिच्छेदन से बदलता है।
 
 ```csharp
 public void Intersect(Rectangle rect)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| rect | Rectangle | [`Rectangle`](../) जिससे काटना है। |
+| rect | Rectangle | वह [`Rectangle`](../) जिसके साथ प्रतिच्छेदन करना है। |
 
-### यह सभी देखें
+### देखें भी
 
 * struct [Rectangle](../)
-* नाम स्थान [Aspose.PSD](../../rectangle/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

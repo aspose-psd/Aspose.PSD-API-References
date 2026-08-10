@@ -1,48 +1,49 @@
 ---
-title: LinearGradientBrush.SetSigmaBellShape
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: LinearGradientBrush तरक. घंट के आकर के वक्र के आधर पर ग्रेडएंट फ़लऑफ़ बनत है
+title: "LinearGradientBrush.SetSigmaBellShape"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "LinearGradientBrush विधि। बेल-आकार की वक्र पर आधारित ग्रेडिएंट फॉलऑफ़ बनाता है"
 type: docs
-weight: 60
+weight: 80
 url: /hi/net/aspose.psd.brushes/lineargradientbrush/setsigmabellshape/
 ---
+{{< psd/tize >}}
 ## SetSigmaBellShape(float) {#setsigmabellshape}
 
-घंटी के आकार के वक्र के आधार पर ग्रेडिएंट फ़ॉलऑफ़ बनाता है।
+घंटी के आकार की वक्र पर आधारित ग्रेडिएंट गिरावट बनाता है।
 
 ```csharp
 public void SetSigmaBellShape(float focus)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| focus | Single | 0 से 1 तक का मान जो ग्रेडिएंट के केंद्र को निर्दिष्ट करता है (वह बिंदु जहां शुरुआती रंग और अंतिम रंग समान रूप से मिश्रित होते हैं)। |
+| फ़ोकस | Single | 0 से 1 तक का मान जो ग्रेडिएंट के केंद्र को निर्दिष्ट करता है (वह बिंदु जहाँ प्रारंभिक रंग और समाप्ति रंग समान रूप से मिश्रित होते हैं)। |
 
-### यह सभी देखें
+### देखें भी
 
 * class [LinearGradientBrush](../)
-* नाम स्थान [Aspose.PSD.Brushes](../../lineargradientbrush/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## SetSigmaBellShape(float, float) {#setsigmabellshape_1}
 
-घंटी के आकार के वक्र के आधार पर ग्रेडिएंट फ़ॉलऑफ़ बनाता है।
+घंटी के आकार की वक्र पर आधारित ग्रेडिएंट गिरावट बनाता है।
 
 ```csharp
 public void SetSigmaBellShape(float focus, float scale)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| focus | Single | 0 से 1 का एक मान जो ग्रेडिएंट के केंद्र को निर्दिष्ट करता है (वह बिंदु जहां ग्रेडिएंट केवल अंतिम रंग से बना होता है)। |
-| scale | Single | 0 से 1 तक का मान जो निर्दिष्ट करता है कि रंग कितनी तेजी से गिरते हैं*focus*. |
+| फ़ोकस | Single | 0 से 1 तक का मान जो ग्रेडिएंट के केंद्र को निर्दिष्ट करता है (वह बिंदु जहाँ ग्रेडिएंट केवल समाप्ति रंग से बना होता है)। |
+| scale | Single | 0 से 1 तक का मान जो यह निर्दिष्ट करता है कि रंग *फ़ोकस* से कितनी तेज़ी से फॉलऑफ़ होते हैं। |
 
-### यह सभी देखें
+### देखें भी
 
 * class [LinearGradientBrush](../)
-* नाम स्थान [Aspose.PSD.Brushes](../../lineargradientbrush/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
+* assembly [Aspose.PSD](../../../)
 
 

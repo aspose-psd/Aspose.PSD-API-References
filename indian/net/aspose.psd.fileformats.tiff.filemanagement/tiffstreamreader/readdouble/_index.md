@@ -1,31 +1,32 @@
 ---
-title: TiffStreamReader.ReadDouble
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: TiffStreamReader तरक. स्ट्रम से एक डबल मन पढ़ें
+title: "TiffStreamReader.ReadDouble"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "TiffStreamReader मेथड। स्ट्रीम से एकल डबल मान पढ़ें।"
 type: docs
 weight: 50
 url: /hi/net/aspose.psd.fileformats.tiff.filemanagement/tiffstreamreader/readdouble/
 ---
+{{< psd/tize >}}
 ## TiffStreamReader.ReadDouble method
 
-स्ट्रीम से एक डबल मान पढ़ें।
+स्ट्रीम से एक एकल डबल मान पढ़ता है।
 
 ```csharp
 public double ReadDouble(long position)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| position | Int64 | पढ़ने की स्थिति। |
+| स्थिति | Int64 | पढ़ने के लिए स्थिति। |
 
-### प्रतिलाभ की मात्रा
+### रिटर्न वैल्यू
 
-सिंगल डबल मान।
+एकल डबल मान।
 
-### यह सभी देखें
+### देखें भी
 
 * class [TiffStreamReader](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Tiff.FileManagement](../../tiffstreamreader/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff.FileManagement](../../../aspose.psd.fileformats.tiff.filemanagement/)
+* assembly [Aspose.PSD](../../../)
 
 

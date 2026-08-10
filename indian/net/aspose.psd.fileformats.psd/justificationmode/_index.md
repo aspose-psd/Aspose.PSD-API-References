@@ -1,14 +1,15 @@
 ---
-title: Enum JustificationMode
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Aspose.PSD.FileFormats.Psd.JustificationMode एनुम. पठ संरेखण मड
+title: "Enum JustificationMode"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Aspose.PSD.FileFormats.Psd.JustificationMode enum. टेक्स्ट एलाइन्मेंट मोड"
 type: docs
-weight: 1650
+weight: 1690
 url: /hi/net/aspose.psd.fileformats.psd/justificationmode/
 ---
+{{< psd/tize >}}
 ## JustificationMode enumeration
 
-पाठ संरेखण मोड।
+टेक्स्ट अलाइनमेंट मोड।
 
 ```csharp
 public enum JustificationMode
@@ -16,15 +17,15 @@ public enum JustificationMode
 
 ### मान
 
-| नाम | कीमत | विवरण |
+| नाम | मान | विवरण |
 | --- | --- | --- |
-| Left | `0` | टेक्स्ट को बाईं ओर संरेखित करें. |
-| Right | `1` | टेक्स्ट को दाहिनी ओर संरेखित करें. |
-| Center | `2` | मध्य पाठ। |
+| Left | `0` | बाएँ संरेखित टेक्स्ट। बाएँ-से-दाएँ मोड में, बाएँ स्थिति बाएँ होती है। दाएँ-से-बाएँ मोड में, बाएँ स्थिति दाएँ होती है। |
+| Right | `1` | दाएँ संरेखित टेक्स्ट। बाएँ-से-दाएँ मोड में, दाएँ स्थिति दाएँ होती है। दाएँ-से-बाएँ मोड में, दाएँ स्थिति बाएँ होती है। |
+| Center | `2` | केंद्रित टेक्स्ट। |
 
-### उदाहरण
+## उदाहरण
 
-निम्नलिखित कोड पाठ भागों के लिए पाठ संरेखण सेट करने के लिए JustificationMode एनम के समर्थन को प्रदर्शित करता है।
+निम्नलिखित कोड JustificationMode enum के समर्थन को दर्शाता है जिससे टेक्स्ट भागों के लिए टेक्स्ट एलाइन्मेंट सेट किया जा सकता है।
 
 ```csharp
 [C#]
@@ -55,9 +56,9 @@ using (var image = (PsdImage) Image.Load(src))
 }
 ```
 
-### यह सभी देखें
+### देखें भी
 
-* नाम स्थान [Aspose.PSD.FileFormats.Psd](../../aspose.psd.fileformats.psd/)
-* सभा [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../)
 
 

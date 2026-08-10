@@ -1,28 +1,29 @@
 ---
-title: ITextStyle.IsStandardVerticalRomanAlignmentEnabled
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: ITextStyle संपत्त. मनक लंबवत रमन संरेखण प्रप्त य सेट करत है यह बेसलइन डयरेक्शन संसधन मन पर आधरत केवल तभ लगू हत है जब टेक्स्ट ओरएंटेशन हत हैVertical .
+title: "ITextStyle.IsStandardVerticalRomanAlignmentEnabled"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "ITextStyle property. मानक ऊर्ध्वाधर रोमन संरेखण प्राप्त करता है या सेट करता है। यह BaselineDirection संसाधन मान पर आधारित है और केवल तब लागू होता है जब पाठ अभिविन्यास ऊर्ध्वाधर हो।"
 type: docs
 weight: 170
 url: /hi/net/aspose.psd.fileformats.psd.layers.text/itextstyle/isstandardverticalromanalignmentenabled/
 ---
+{{< psd/tize >}}
 ## ITextStyle.IsStandardVerticalRomanAlignmentEnabled property
 
-मानक लंबवत रोमन संरेखण प्राप्त या सेट करता है। यह बेसलाइन डायरेक्शन संसाधन मान पर आधारित केवल तभी लागू होता है जब टेक्स्ट ओरिएंटेशन होता हैVertical .
+मानक वर्टिकल रोमन अलाइनमेंट को प्राप्त करता है या सेट करता है। यह BaselineDirection रिसोर्स वैल्यू पर आधारित है और केवल तब लागू होता है जब टेक्स्ट ओरिएंटेशन वर्टिकल हो।
 
 ```csharp
 public bool IsStandardVerticalRomanAlignmentEnabled { get; set; }
 ```
 
-### उदाहरण
+## उदाहरण
 
-निम्न कोड नई IsStandardVerticalRomanAlignmentEnabled संपत्ति के समर्थन को प्रदर्शित करता है।
+निम्नलिखित कोड नए IsStandardVerticalRomanAlignmentEnabled प्रॉपर्टी के समर्थन को दर्शाता है।
 
 ```csharp
 [C#]
 
-// निम्न कोड नई IsStandardVerticalRomanAlignmentEnabled संपत्ति को संपादित करने की क्षमता प्रदर्शित करता है।
-// यह फिलहाल रेंडरिंग को प्रभावित नहीं करता है, लेकिन आपको केवल संपत्ति मूल्य को संपादित करने की अनुमति देता है।
+// निम्नलिखित कोड नए IsStandardVerticalRomanAlignmentEnabled प्रॉपर्टी को संपादित करने की क्षमता को दर्शाता है।
+// यह वर्तमान में रेंडरिंग को प्रभावित नहीं करता, बल्कि केवल आपको प्रॉपर्टी मान को संपादित करने की अनुमति देता है।
 
 string src = "1346test.psd";
 string output = "out_1346test.psd";
@@ -61,10 +62,10 @@ using (var image = (PsdImage)Image.Load(output))
 }
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * interface [ITextStyle](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.Text](../../itextstyle/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.Text](../../../aspose.psd.fileformats.psd.layers.text/)
+* assembly [Aspose.PSD](../../../)
 
 

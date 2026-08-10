@@ -1,23 +1,24 @@
 ---
-title: GuideResource.GuideResourceSize
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: GuideResource मैदन. गइड संसधन ब्लक आकर.
+title: "GuideResource.GuideResourceSize"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "GuideResource फ़ील्ड. गाइड संसाधन ब्लॉक आकार"
 type: docs
 weight: 40
 url: /hi/net/aspose.psd.fileformats.psd.resources/guideresource/guideresourcesize/
 ---
+{{< psd/tize >}}
 ## GuideResource.GuideResourceSize field
 
-गाइड संसाधन ब्लॉक आकार.
+गाइड संसाधन ब्लॉक आकार।
 
 ```csharp
 public const int GuideResourceSize;
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * class [GuideResource](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Resources](../../guideresource/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

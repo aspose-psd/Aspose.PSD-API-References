@@ -1,28 +1,29 @@
 ---
-title: PsdImage.Crop
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: PsdImage तरक. इमेज क क्रप कय ज रह है.
+title: "PsdImage.Crop"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "PsdImage मेथड। छवि को क्रॉप करना"
 type: docs
-weight: 510
+weight: 570
 url: /hi/net/aspose.psd.fileformats.psd/psdimage/crop/
 ---
+{{< psd/tize >}}
 ## PsdImage.Crop method
 
-इमेज को क्रॉप किया जा रहा है.
+छवि को क्रॉप करना।
 
 ```csharp
 public override void Crop(Rectangle rectangle)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| rectangle | Rectangle | आयत। |
+| आयत | Rectangle | आयत। |
 
-### यह सभी देखें
+### देखें भी
 
 * struct [Rectangle](../../../aspose.psd/rectangle/)
 * class [PsdImage](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

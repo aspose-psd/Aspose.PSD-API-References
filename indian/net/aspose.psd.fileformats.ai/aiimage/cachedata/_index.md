@@ -1,14 +1,15 @@
 ---
-title: AiImage.CacheData
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: AiImage तरक. डेट क कैश करत है और यह सुनश्चत करत है क अंतर्नहत से कई अतरक्त डेट लड नहं कय जएगDataStreamContainer .
+title: "AiImage.CacheData"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "AiImage मेथड। डेटा को कैश करता है और सुनिश्चित करता है कि अंतर्निहित DataStreamContainer से कोई अतिरिक्त डेटा लोडिंग नहीं होगी।"
 type: docs
-weight: 140
+weight: 170
 url: /hi/net/aspose.psd.fileformats.ai/aiimage/cachedata/
 ---
+{{< psd/tize >}}
 ## AiImage.CacheData method
 
-डेटा को कैश करता है और यह सुनिश्चित करता है कि अंतर्निहित से कोई अतिरिक्त डेटा लोड नहीं किया जाएगा[`DataStreamContainer`](../../../aspose.psd/datastreamsupporter/datastreamcontainer/) .
+डेटा को कैश करता है और सुनिश्चित करता है कि अंतर्निहित [`DataStreamContainer`](../../../aspose.psd/datastreamsupporter/datastreamcontainer/) से कोई अतिरिक्त डेटा लोडिंग नहीं होगी।
 
 ```csharp
 public override void CacheData()
@@ -16,14 +17,14 @@ public override void CacheData()
 
 ### अपवाद
 
-| अपवाद | स्थिति |
+| अपवाद | शर्त |
 | --- | --- |
 | NotImplementedException | लागू नहीं किया गया |
 
-### यह सभी देखें
+### देखें भी
 
 * class [AiImage](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Ai](../../aiimage/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

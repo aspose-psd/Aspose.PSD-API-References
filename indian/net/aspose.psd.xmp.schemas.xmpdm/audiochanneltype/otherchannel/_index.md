@@ -1,11 +1,12 @@
 ---
-title: AudioChannelType.OtherChannel
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: AudioChannelType संपत्त. अन्य चैनल प्रप्त करत है
+title: "AudioChannelType.OtherChannel"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "AudioChannelType प्रॉपर्टी। अन्य चैनल प्राप्त करता है"
 type: docs
 weight: 50
 url: /hi/net/aspose.psd.xmp.schemas.xmpdm/audiochanneltype/otherchannel/
 ---
+{{< psd/tize >}}
 ## AudioChannelType.OtherChannel property
 
 अन्य चैनल प्राप्त करता है।
@@ -14,14 +15,14 @@ url: /hi/net/aspose.psd.xmp.schemas.xmpdm/audiochanneltype/otherchannel/
 public static AudioChannelType OtherChannel { get; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-अन्य चैनल.
+यह अन्य चैनल।
 
-### यह सभी देखें
+### देखें भी
 
 * class [AudioChannelType](../)
-* नाम स्थान [Aspose.PSD.Xmp.Schemas.XmpDm](../../audiochanneltype/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpDm](../../../aspose.psd.xmp.schemas.xmpdm/)
+* assembly [Aspose.PSD](../../../)
 
 

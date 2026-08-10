@@ -1,37 +1,38 @@
 ---
-title: ImageCreatorsRegistry.GetFirstSupportedDescriptor
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: ImageCreatorsRegistry तरक. फस्ट फउंड सपर्टेड डस्क्रप्टर नर्दष्ट के लए उपयुक्त ह जत है
+title: "ImageCreatorsRegistry.GetFirstSupportedDescriptor"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "ImageCreatorsRegistry विधि। निर्दिष्ट के लिए उपयुक्त पहला पाया गया समर्थित विवरणकर्ता प्राप्त करता है"
 type: docs
 weight: 40
 url: /hi/net/aspose.psd/imagecreatorsregistry/getfirstsupporteddescriptor/
 ---
+{{< psd/tize >}}
 ## ImageCreatorsRegistry.GetFirstSupportedDescriptor method
 
-फिस्ट फाउंड सपोर्टेड डिस्क्रिप्टर निर्दिष्ट के लिए उपयुक्त हो जाता है।
+निर्दिष्ट के लिए उपयुक्त पहला मिला समर्थित डिस्क्रिप्टर प्राप्त करता है।
 
 ```csharp
 public static IImageCreatorDescriptor GetFirstSupportedDescriptor(ImageOptionsBase imageOptions)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| imageOptions | ImageOptionsBase | छवि विकल्प। |
+| imageOptions | ImageOptionsBase | इमेज विकल्प। |
 
-### प्रतिलाभ की मात्रा
+### रिटर्न वैल्यू
 
-क्रिएटर डिस्क्रिप्टर जो निर्दिष्ट या अशक्त का समर्थन करता है यदि ऐसा कोई डिस्क्रिप्टर नहीं मिला है।
+निर्दिष्ट को समर्थन देने वाला निर्माता विवरणकर्ता, या यदि ऐसा कोई विवरणकर्ता न मिले तो null।
 
-### टिप्पणियों
+## टिप्पणियाँ
 
-पहला निर्माता वर्णनकर्ता वास्तव में अंतिम पंजीकृत होगा।
+पहला निर्माता विवरणकर्ता वास्तव में अंतिम पंजीकृत होगा।
 
-### यह सभी देखें
+### देखें भी
 
 * interface [IImageCreatorDescriptor](../../iimagecreatordescriptor/)
 * class [ImageOptionsBase](../../imageoptionsbase/)
 * class [ImageCreatorsRegistry](../)
-* नाम स्थान [Aspose.PSD](../../imagecreatorsregistry/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

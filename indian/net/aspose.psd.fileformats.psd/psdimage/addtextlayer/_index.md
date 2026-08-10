@@ -1,34 +1,35 @@
 ---
-title: PsdImage.AddTextLayer
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: PsdImage तरक. एक नई पठ परत जड़त है
+title: "PsdImage.AddTextLayer"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "PsdImage method. एक नया टेक्स्ट लेयर जोड़ता है"
 type: docs
-weight: 420
+weight: 470
 url: /hi/net/aspose.psd.fileformats.psd/psdimage/addtextlayer/
 ---
+{{< psd/tize >}}
 ## PsdImage.AddTextLayer method
 
-एक नई पाठ परत जोड़ता है।
+एक नया टेक्स्ट लेयर जोड़ता है।
 
 ```csharp
 public TextLayer AddTextLayer(string text, Rectangle rect)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| text | String | परत का पाठ। |
-| rect | Rectangle | परत का आयत। |
+| टेक्स्ट | String | लेयर का टेक्स्ट। |
+| rect | Rectangle | लेयर का आयत। |
 
-### प्रतिलाभ की मात्रा
+### रिटर्न वैल्यू
 
-पाठ परत बनाई गई।
+टेक्स्ट लेयर बनाया गया।
 
-### यह सभी देखें
+### देखें भी
 
 * class [TextLayer](../../../aspose.psd.fileformats.psd.layers/textlayer/)
 * struct [Rectangle](../../../aspose.psd/rectangle/)
 * class [PsdImage](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: PsdLoadOptions.IgnoreTextLayerWidthOnUpdate
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: PsdLoadOptions संपत्त. एक मन प्रप्त य सेट करत है ज इंगत करत है क PSD पठ परत नश्चत चड़ई क UpdateText ऑपरेशन नष्पदन पर अनदेख कय जएग य नहं
+title: "PsdLoadOptions.IgnoreTextLayerWidthOnUpdate"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "PsdLoadOptions प्रॉपर्टी। मान प्राप्त करता है या सेट करता है जो यह दर्शाता है कि PSD टेक्स्ट लेयर की निश्चित चौड़ाई को UpdateText ऑपरेशन के निष्पादन पर अनदेखा किया जाए या नहीं।"
 type: docs
-weight: 40
+weight: 50
 url: /hi/net/aspose.psd.imageloadoptions/psdloadoptions/ignoretextlayerwidthonupdate/
 ---
+{{< psd/tize >}}
 ## PsdLoadOptions.IgnoreTextLayerWidthOnUpdate property
 
-एक मान प्राप्त या सेट करता है जो इंगित करता है कि PSD पाठ परत निश्चित चौड़ाई को UpdateText ऑपरेशन निष्पादन पर अनदेखा किया जाएगा या नहीं।
+एक मान प्राप्त करता है या सेट करता है जो दर्शाता है कि UpdateText ऑपरेशन के निष्पादन पर PSD टेक्स्ट लेयर की निश्चित चौड़ाई को अनदेखा किया जाएगा या नहीं।
 
 ```csharp
 public bool IgnoreTextLayerWidthOnUpdate { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-`सत्य` अगर [पाठ परत की चौड़ाई को अनदेखा करें]; अन्यथा,`असत्य` .
+`true` यदि [ignore text layer width]; अन्यथा, `false`।
 
-### यह सभी देखें
+### देखें भी
 
 * class [PsdLoadOptions](../)
-* नाम स्थान [Aspose.PSD.ImageLoadOptions](../../psdloadoptions/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageLoadOptions](../../../aspose.psd.imageloadoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

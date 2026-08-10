@@ -1,28 +1,29 @@
 ---
-title: Class RotateFlipExtensions
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Aspose.PSD.Extensions.RotateFlipExtensions कक्ष. में रूपंतरण के लए वस्तर वधयँ शमल हैंRotateFlipType और यहRotateFlipType कक्षएं.
+title: "क्लास RotateFlipExtensions"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Aspose.PSD.Extensions.RotateFlipExtensions क्लास। इसमें RotateFlipType और RotateFlipType क्लासों के रूपांतरण के लिए एक्सटेंशन मेथड्स शामिल हैं"
 type: docs
-weight: 1180
+weight: 1190
 url: /hi/net/aspose.psd.extensions/rotateflipextensions/
 ---
+{{< psd/tize >}}
 ## RotateFlipExtensions class
 
-में रूपांतरण के लिए विस्तार विधियाँ शामिल हैंRotateFlipType और यह[`RotateFlipType`](../../aspose.psd/rotatefliptype/) कक्षाएं.
+RotateFlipType और [`RotateFlipType`](../../aspose.psd/rotatefliptype/) क्लासों के रूपांतरण के लिए एक्सटेंशन मेथड्स शामिल हैं।
 
 ```csharp
 public static class RotateFlipExtensions
 ```
 
-## तरीकों
+## मेथड्स
 
 | नाम | विवरण |
 | --- | --- |
-| static [ToGdiRotateFlipType](../../aspose.psd.extensions/rotateflipextensions/togdirotatefliptype/)(RotateFlipType) | Aspose.PSD.RotateFlipType को System.Drawing.RotateFlipType. में कनवर्ट करता है |
+| static [ToGdiRotateFlipType](../../aspose.psd.extensions/rotateflipextensions/togdirotatefliptype/)(RotateFlipType) | Aspose.PSD.RotateFlipType को System.Drawing.RotateFlipType में परिवर्तित करता है। |
 
-### यह सभी देखें
+### देखें भी
 
-* नाम स्थान [Aspose.PSD.Extensions](../../aspose.psd.extensions/)
-* सभा [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Extensions](../../aspose.psd.extensions/)
+* assembly [Aspose.PSD](../../)
 
 

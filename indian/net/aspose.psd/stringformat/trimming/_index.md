@@ -1,28 +1,29 @@
 ---
-title: StringFormat.Trimming
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: StringFormat संपत्त. ह जत है य सेट करत हैStringTrimming इसके लए गणनStringFormat वस्तु.
+title: "StringFormat.Trimming"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "StringFormat प्रॉपर्टी। इस StringFormat ऑब्जेक्ट के लिए StringTrimming एन्यूमरेशन को प्राप्त या सेट करता है।"
 type: docs
-weight: 120
+weight: 130
 url: /hi/net/aspose.psd/stringformat/trimming/
 ---
+{{< psd/tize >}}
 ## StringFormat.Trimming property
 
-हो जाता है या सेट करता है[`StringTrimming`](../../stringtrimming/) इसके लिए गणना[`StringFormat`](../) वस्तु.
+इस [`StringFormat`](../) ऑब्जेक्ट के लिए [`StringTrimming`](../../stringtrimming/) एन्यूमरेशन को प्राप्त या सेट करता है।
 
 ```csharp
 public StringTrimming Trimming { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-ए[`StringTrimming`](../../stringtrimming/) गणना जो इंगित करती है कि इसके साथ पाठ कैसे तैयार किया गया है[`StringFormat`](../) ऑब्जेक्ट को ट्रिम किया जाता है जब यह लेआउट आयत के किनारों से अधिक हो जाता है।
+एक [`StringTrimming`](../../stringtrimming/) एन्यूमरेशन जो दर्शाता है कि इस [`StringFormat`](../) ऑब्जेक्ट के साथ खींचा गया पाठ लेआउट आयत के किनारों से अधिक होने पर कैसे ट्रिम किया जाता है।
 
-### यह सभी देखें
+### देखें भी
 
 * enum [StringTrimming](../../stringtrimming/)
 * class [StringFormat](../)
-* नाम स्थान [Aspose.PSD](../../stringformat/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,28 +1,29 @@
 ---
-title: ImageCreatorsRegistry.RegisteredDescriptors
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: ImageCreatorsRegistry संपत्त. पंजकृत वर्णनकर्त प्रप्त करत है
+title: "ImageCreatorsRegistry.RegisteredDescriptors"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "ImageCreatorsRegistry प्रॉपर्टी। पंजीकृत विवरणकों को प्राप्त करता है"
 type: docs
 weight: 10
 url: /hi/net/aspose.psd/imagecreatorsregistry/registereddescriptors/
 ---
+{{< psd/tize >}}
 ## ImageCreatorsRegistry.RegisteredDescriptors property
 
-पंजीकृत वर्णनकर्ता प्राप्त करता है।
+पंजीकृत डिस्क्रिप्टर प्राप्त करता है।
 
 ```csharp
 public static IImageCreatorDescriptor[] RegisteredDescriptors { get; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-पंजीकृत वर्णनकर्ता।
+पंजीकृत डिस्क्रिप्टर्स।
 
-### यह सभी देखें
+### देखें भी
 
 * interface [IImageCreatorDescriptor](../../iimagecreatordescriptor/)
 * class [ImageCreatorsRegistry](../)
-* नाम स्थान [Aspose.PSD](../../imagecreatorsregistry/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

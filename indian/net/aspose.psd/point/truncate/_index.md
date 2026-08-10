@@ -1,32 +1,33 @@
 ---
-title: Point.Truncate
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Point तरक. नर्दष्ट क परवर्तत करत हैPointF एक के लएPoint के मूल्यं क छट करकेPoint .
+title: "Point.Truncate"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Point मेथड। निर्दिष्ट PointF को Point में परिवर्तित करता है, Point के मानों को ट्रंकेट करके।"
 type: docs
 weight: 70
 url: /hi/net/aspose.psd/point/truncate/
 ---
+{{< psd/tize >}}
 ## Point.Truncate method
 
-निर्दिष्ट को परिवर्तित करता है[`PointF`](../../pointf/) एक के लिए[`Point`](../) के मूल्यों को छोटा करके[`Point`](../) .
+निर्दिष्ट [`PointF`](../../pointf/) को [`Point`](../) में परिवर्तित करता है, [`Point`](../) के मानों को ट्रंकेट करके।
 
 ```csharp
 public static Point Truncate(PointF point)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| point | PointF | [`PointF`](../../pointf/) रूपान्तरण करने के लिए। |
+| point | PointF | परिवर्तित करने के लिए [`PointF`](../../pointf/)। |
 
-### प्रतिलाभ की मात्रा
+### रिटर्न वैल्यू
 
-[`Point`](../) यह विधि में परिवर्तित हो जाती है।
+यह विधि जिस [`Point`](../) में परिवर्तित करती है।
 
-### यह सभी देखें
+### देखें भी
 
 * struct [PointF](../../pointf/)
 * struct [Point](../)
-* नाम स्थान [Aspose.PSD](../../point/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: Layer.Top
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Layer संपत्त. शर्ष परत स्थत प्रप्त य सेट करत है
+title: "Layer.Top"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Layer प्रॉपर्टी। शीर्ष लेयर की स्थिति को प्राप्त करता है या सेट करता है"
 type: docs
-weight: 310
+weight: 320
 url: /hi/net/aspose.psd.fileformats.psd.layers/layer/top/
 ---
+{{< psd/tize >}}
 ## Layer.Top property
 
-शीर्ष परत स्थिति प्राप्त या सेट करता है।
+ऊपर की लेयर की स्थिति प्राप्त करता है या सेट करता है।
 
 ```csharp
-public int Top { get; set; }
+public virtual int Top { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-शीर्ष परत स्थिति।
+शीर्ष लेयर की स्थिति।
 
-### यह सभी देखें
+### देखें भी
 
 * class [Layer](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers](../../layer/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

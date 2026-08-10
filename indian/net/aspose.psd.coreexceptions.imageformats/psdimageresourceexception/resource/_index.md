@@ -1,28 +1,29 @@
 ---
-title: PsdImageResourceException.Resource
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: PsdImageResourceException संपत्त. वह पएसड संसधन प्रप्त करत है ज इस अपवद क करण बन
+title: "PsdImageResourceException.Resource"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "PsdImageResourceException प्रॉपर्टी। इस अपवाद का कारण बनने वाले psd संसाधन को प्राप्त करता है।"
 type: docs
 weight: 20
 url: /hi/net/aspose.psd.coreexceptions.imageformats/psdimageresourceexception/resource/
 ---
+{{< psd/tize >}}
 ## PsdImageResourceException.Resource property
 
-वह पीएसडी संसाधन प्राप्त करता है जो इस अपवाद का कारण बना।
+उस psd संसाधन को प्राप्त करता है जिसने यह अपवाद उत्पन्न किया।
 
 ```csharp
 public ResourceBlock Resource { get; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-संसाधन।
+यह संसाधन।
 
-### यह सभी देखें
+### देखें भी
 
 * class [ResourceBlock](../../../aspose.psd.fileformats.psd/resourceblock/)
 * class [PsdImageResourceException](../)
-* नाम स्थान [Aspose.PSD.CoreExceptions.ImageFormats](../../psdimageresourceexception/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.CoreExceptions.ImageFormats](../../../aspose.psd.coreexceptions.imageformats/)
+* assembly [Aspose.PSD](../../../)
 
 

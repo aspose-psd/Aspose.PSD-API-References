@@ -1,11 +1,12 @@
 ---
-title: SplitStreamContainer.Stream
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: SplitStreamContainer संपत्त. डेट स्ट्रम प्रप्त करत है
+title: "SplitStreamContainer.Stream"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "SplitStreamContainer प्रॉपर्टी। डेटा स्ट्रीम प्राप्त करता है"
 type: docs
 weight: 70
 url: /hi/net/aspose.psd/splitstreamcontainer/stream/
 ---
+{{< psd/tize >}}
 ## SplitStreamContainer.Stream property
 
 डेटा स्ट्रीम प्राप्त करता है।
@@ -14,14 +15,14 @@ url: /hi/net/aspose.psd/splitstreamcontainer/stream/
 public override Stream Stream { get; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
 डेटा स्ट्रीम।
 
-### यह सभी देखें
+### देखें भी
 
 * class [SplitStreamContainer](../)
-* नाम स्थान [Aspose.PSD](../../splitstreamcontainer/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

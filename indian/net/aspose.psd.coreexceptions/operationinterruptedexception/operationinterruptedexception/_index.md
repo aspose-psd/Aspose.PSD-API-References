@@ -1,48 +1,49 @@
 ---
-title: OperationInterruptedException.OperationInterruptedException
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: OperationInterruptedException नर्मत. क एक नय उदहरण प्ररंभ करत हैOperationInterruptedException वर्ग.
+title: "OperationInterruptedException.OperationInterruptedException"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "OperationInterruptedException कंस्ट्रक्टर। OperationInterruptedException क्लास का एक नया उदाहरण इनिशियलाइज़ करता है।"
 type: docs
 weight: 10
 url: /hi/net/aspose.psd.coreexceptions/operationinterruptedexception/operationinterruptedexception/
 ---
+{{< psd/tize >}}
 ## OperationInterruptedException(string) {#constructor}
 
-का एक नया उदाहरण प्रारंभ करता है[`OperationInterruptedException`](../) वर्ग.
+[`OperationInterruptedException`](../) क्लास का एक नया उदाहरण इनिशियलाइज़ करता है।
 
 ```csharp
 public OperationInterruptedException(string message)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
 | message | String | अपवाद संदेश। |
 
-### यह सभी देखें
+### देखें भी
 
 * class [OperationInterruptedException](../)
-* नाम स्थान [Aspose.PSD.CoreExceptions](../../operationinterruptedexception/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.CoreExceptions](../../../aspose.psd.coreexceptions/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## OperationInterruptedException(string, Exception) {#constructor_1}
 
-का एक नया उदाहरण प्रारंभ करता है[`OperationInterruptedException`](../) वर्ग.
+[`OperationInterruptedException`](../) क्लास का एक नया उदाहरण इनिशियलाइज़ करता है।
 
 ```csharp
 public OperationInterruptedException(string message, Exception innerException)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
 | message | String | अपवाद संदेश। |
-| innerException | Exception | भीतर का अपवाद। |
+| innerException | एक्सेप्शन | आंतरिक अपवाद। |
 
-### यह सभी देखें
+### देखें भी
 
 * class [OperationInterruptedException](../)
-* नाम स्थान [Aspose.PSD.CoreExceptions](../../operationinterruptedexception/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.CoreExceptions](../../../aspose.psd.coreexceptions/)
+* assembly [Aspose.PSD](../../../)
 
 

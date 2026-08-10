@@ -1,28 +1,29 @@
 ---
-title: TiffOptions.FillOrder
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: TiffOptions संपत्त. बइट बट्स भरण क्रम प्रप्त य सेट करत है
+title: "TiffOptions.FillOrder"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "TiffOptions प्रॉपर्टी। बाइट बिट्स भरने के क्रम को प्राप्त करता है या सेट करता है"
 type: docs
-weight: 160
+weight: 170
 url: /hi/net/aspose.psd.imageoptions/tiffoptions/fillorder/
 ---
+{{< psd/tize >}}
 ## TiffOptions.FillOrder property
 
-बाइट बिट्स भरण क्रम प्राप्त या सेट करता है।
+बाइट बिट्स भरने का क्रम प्राप्त या सेट करता है।
 
 ```csharp
 public TiffFillOrders FillOrder { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-बाइट बिट्स ऑर्डर भरते हैं।
+बाइट बिट्स भरने का क्रम।
 
-### यह सभी देखें
+### देखें भी
 
 * enum [TiffFillOrders](../../../aspose.psd.fileformats.tiff.enums/tifffillorders/)
 * class [TiffOptions](../)
-* नाम स्थान [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

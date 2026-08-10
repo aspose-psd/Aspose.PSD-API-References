@@ -1,24 +1,25 @@
 ---
-title: Aspose.PSD.Exif
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: नमस्थन में EXIF संबंधत सहयक वर्ग और वधयँ हैं
+title: "Aspose.PSD.Exif"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "यह नेमस्पेस EXIF संबंधित हेल्पर क्लासेज़ और मेथड्स को शामिल करता है।"
 type: docs
-weight: 90
+weight: 100
 url: /hi/net/aspose.psd.exif/
 ---
-नामस्थान में EXIF संबंधित सहायक वर्ग और विधियाँ हैं।
+{{< psd/tize >}}
+नामस्थान EXIF संबंधित सहायक क्लासेज़ और मेथड्स को शामिल करता है।
 
-## कक्षाओं
+## क्लासेस
 
-| कक्षा | विवरण |
+| क्लास | विवरण |
 | --- | --- |
-| [ExifData](./exifdata/) | EXIF डेटा कंटेनर. |
-| [JpegExifData](./jpegexifdata/) | जेपीईजी फाइलों के लिए EXIF डेटा कंटेनर। |
-| [TiffDataTypeController](./tiffdatatypecontroller/) | टिफ डेटा प्रकारों के साथ काम करने के लिए सामान्य वर्ग का प्रतिनिधित्व करता है। |
-## गणना
+| [ExifData](./exifdata/) | EXIF डेटा कंटेनर। |
+| [JpegExifData](./jpegexifdata/) | JPEG फ़ाइलों के लिए EXIF डेटा कंटेनर। |
+| [TiffDataTypeController](./tiffdatatypecontroller/) | TIFF डेटा प्रकारों के साथ काम करने के लिए सामान्य क्लास का प्रतिनिधित्व करता है। |
+## एन्यूमरेशन
 
-| गणना | विवरण |
+| एन्यूमरेशन | विवरण |
 | --- | --- |
-| [ExifProperties](./exifproperties/) | एक्सिफ टैग सूची |
+| [ExifProperties](./exifproperties/) | Exif टैग सूची |
 
 

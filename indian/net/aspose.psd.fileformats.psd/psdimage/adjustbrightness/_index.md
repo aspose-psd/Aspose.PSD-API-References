@@ -1,27 +1,28 @@
 ---
-title: PsdImage.AdjustBrightness
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: PsdImage तरक. छव के लए चमक समयजत करें
+title: "PsdImage.AdjustBrightness"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "PsdImage मेथड। छवि की चमक को समायोजित करता है।"
 type: docs
-weight: 440
+weight: 500
 url: /hi/net/aspose.psd.fileformats.psd/psdimage/adjustbrightness/
 ---
+{{< psd/tize >}}
 ## PsdImage.AdjustBrightness method
 
-छवि के लिए चमक समायोजित करें।
+छवि की चमक को समायोजित करता है।
 
 ```csharp
 public override void AdjustBrightness(int brightness)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| brightness | Int32 | चमक मूल्य। |
+| उज्ज्वलता | Int32 | चमक मान। |
 
-### यह सभी देखें
+### देखें भी
 
 * class [PsdImage](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

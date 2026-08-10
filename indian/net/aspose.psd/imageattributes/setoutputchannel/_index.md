@@ -1,11 +1,12 @@
 ---
-title: ImageAttributes.SetOutputChannel
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: ImageAttributes तरक. डफ़ल्ट श्रेण के लए CMYK सयनमैजेंटयेलब्लैक आउटपुट चैनल सेट करत है
+title: "ImageAttributes.SetOutputChannel"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "ImageAttributes मेथड। डिफ़ॉल्ट श्रेणी के लिए CMYK सियान-मैजेंटा-पीला-काला आउटपुट चैनल सेट करता है।"
 type: docs
 weight: 170
 url: /hi/net/aspose.psd/imageattributes/setoutputchannel/
 ---
+{{< psd/tize >}}
 ## SetOutputChannel(ColorChannelFlag) {#setoutputchannel}
 
 डिफ़ॉल्ट श्रेणी के लिए CMYK (सियान-मैजेंटा-येलो-ब्लैक) आउटपुट चैनल सेट करता है।
@@ -14,16 +15,16 @@ url: /hi/net/aspose.psd/imageattributes/setoutputchannel/
 public void SetOutputChannel(ColorChannelFlag flags)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| flags | ColorChannelFlag | का एक तत्व[`ColorChannelFlag`](../../colorchannelflag/)जो आउटपुट चैनल को निर्दिष्ट करता है। |
+| flags | ColorChannelFlag | एक तत्व [`ColorChannelFlag`](../../colorchannelflag/) जो आउटपुट चैनल को निर्दिष्ट करता है। |
 
-### यह सभी देखें
+### देखें भी
 
 * enum [ColorChannelFlag](../../colorchannelflag/)
 * class [ImageAttributes](../)
-* नाम स्थान [Aspose.PSD](../../imageattributes/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
@@ -35,17 +36,17 @@ public void SetOutputChannel(ColorChannelFlag flags)
 public void SetOutputChannel(ColorChannelFlag flags, ColorAdjustType type)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| flags | ColorChannelFlag | का एक तत्व[`ColorChannelFlag`](../../colorchannelflag/)जो आउटपुट चैनल को निर्दिष्ट करता है। |
-| type | ColorAdjustType | का एक तत्व[`ColorAdjustType`](../../coloradjusttype/) जो उस श्रेणी को निर्दिष्ट करता है जिसके लिए आउटपुट चैनल सेट किया गया है। |
+| flags | ColorChannelFlag | एक तत्व [`ColorChannelFlag`](../../colorchannelflag/) जो आउटपुट चैनल को निर्दिष्ट करता है। |
+| type | ColorAdjustType | एक तत्व [`ColorAdjustType`](../../coloradjusttype/) जो उस श्रेणी को निर्दिष्ट करता है जिसके लिए आउटपुट चैनल सेट किया जाता है। |
 
-### यह सभी देखें
+### देखें भी
 
 * enum [ColorChannelFlag](../../colorchannelflag/)
 * enum [ColorAdjustType](../../coloradjusttype/)
 * class [ImageAttributes](../)
-* नाम स्थान [Aspose.PSD](../../imageattributes/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

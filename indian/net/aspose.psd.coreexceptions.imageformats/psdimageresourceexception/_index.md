@@ -1,14 +1,15 @@
 ---
-title: Class PsdImageResourceException
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Aspose.PSD.CoreExceptions.ImageFormats.PsdImageResourceException कक्ष. PSD छव संसधन अपवद.
+title: "क्लास PsdImageResourceException"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Aspose.PSD.CoreExceptions.ImageFormats.PsdImageResourceException क्लास। psd इमेज रिसोर्स एक्सेप्शन"
 type: docs
 weight: 600
 url: /hi/net/aspose.psd.coreexceptions.imageformats/psdimageresourceexception/
 ---
+{{< psd/tize >}}
 ## PsdImageResourceException class
 
-PSD छवि संसाधन अपवाद.
+psd इमेज रिसोर्स एक्सेप्शन।
 
 ```csharp
 public class PsdImageResourceException : PsdImageException
@@ -18,19 +19,19 @@ public class PsdImageResourceException : PsdImageException
 
 | नाम | विवरण |
 | --- | --- |
-| [PsdImageResourceException](psdimageresourceexception/#constructor)(string, ResourceBlock) | का एक नया उदाहरण प्रारंभ करता है`PsdImageResourceException` वर्ग. |
-| [PsdImageResourceException](psdimageresourceexception/#constructor_1)(string, ResourceBlock, Exception) | का एक नया उदाहरण प्रारंभ करता है`PsdImageResourceException` वर्ग. |
+| [PsdImageResourceException](psdimageresourceexception/#constructor)(string, ResourceBlock) | `PsdImageResourceException` क्लास का नया उदाहरण आरंभ करता है। |
+| [PsdImageResourceException](psdimageresourceexception/#constructor_1)(string, ResourceBlock, Exception) | `PsdImageResourceException` क्लास का नया उदाहरण आरंभ करता है। |
 
-## गुण
+## प्रॉपर्टीज़
 
 | नाम | विवरण |
 | --- | --- |
-| [Resource](../../aspose.psd.coreexceptions.imageformats/psdimageresourceexception/resource/) { get; } | वह पीएसडी संसाधन प्राप्त करता है जो इस अपवाद का कारण बना। |
+| [Resource](../../aspose.psd.coreexceptions.imageformats/psdimageresourceexception/resource/) { get; } | उस psd संसाधन को प्राप्त करता है जिसने यह अपवाद उत्पन्न किया। |
 
-### यह सभी देखें
+### देखें भी
 
 * class [PsdImageException](../psdimageexception/)
-* नाम स्थान [Aspose.PSD.CoreExceptions.ImageFormats](../../aspose.psd.coreexceptions.imageformats/)
-* सभा [Aspose.PSD](../../)
+* namespace [Aspose.PSD.CoreExceptions.ImageFormats](../../aspose.psd.coreexceptions.imageformats/)
+* assembly [Aspose.PSD](../../)
 
 

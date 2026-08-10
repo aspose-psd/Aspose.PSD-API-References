@@ -1,46 +1,47 @@
 ---
-title: ColorantCmyk.ColorantCmyk
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: ColorantCmyk नर्मत. क एक नय उदहरण प्ररंभ करत हैColorantCmyk वर्ग.
+title: "ColorantCmyk.ColorantCmyk"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "ColorantCmyk constructor. ColorantCmyk वर्ग का नया उदाहरण प्रारंभ करता है"
 type: docs
 weight: 10
 url: /hi/net/aspose.psd.xmp.types.complex.colorant/colorantcmyk/colorantcmyk/
 ---
+{{< psd/tize >}}
 ## ColorantCmyk() {#constructor}
 
-का एक नया उदाहरण प्रारंभ करता है[`ColorantCmyk`](../) वर्ग.
+एक नया उदाहरण प्रारंभ करता है [`ColorantCmyk`](../) वर्ग का।
 
 ```csharp
 public ColorantCmyk()
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * class [ColorantCmyk](../)
-* नाम स्थान [Aspose.PSD.Xmp.Types.Complex.Colorant](../../colorantcmyk/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.Colorant](../../../aspose.psd.xmp.types.complex.colorant/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## ColorantCmyk(float, float, float, float) {#constructor_1}
 
-का एक नया उदाहरण प्रारंभ करता है[`ColorantCmyk`](../) वर्ग.
+एक नया उदाहरण प्रारंभ करता है [`ColorantCmyk`](../) वर्ग का।
 
 ```csharp
 public ColorantCmyk(float black, float cyan, float magenta, float yellow)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| black | Single | काला घटक मान। |
-| cyan | Single | सियान रंग घटक मान। |
-| magenta | Single | मैजेंटा घटक मान। |
-| yellow | Single | पीला घटक मान। |
+| काला | Single | काले घटक का मान। |
+| सियान | Single | सियान रंग घटक का मान। |
+| मैजेंटा | Single | मैजेंटा घटक का मान। |
+| पीला | Single | पीले घटक का मान। |
 
-### यह सभी देखें
+### देखें भी
 
 * class [ColorantCmyk](../)
-* नाम स्थान [Aspose.PSD.Xmp.Types.Complex.Colorant](../../colorantcmyk/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.Colorant](../../../aspose.psd.xmp.types.complex.colorant/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,28 +1,29 @@
 ---
-title: BlendingOptions.AddDropShadow
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: BlendingOptions तरक. ड्रप शैड प्रभव जड़त है.
+title: "BlendingOptions.AddDropShadow"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "BlendingOptions मेथड। ड्रॉप शैडो प्रभाव जोड़ता है"
 type: docs
-weight: 30
+weight: 40
 url: /hi/net/aspose.psd.fileformats.psd.layers.layereffects/blendingoptions/adddropshadow/
 ---
+{{< psd/tize >}}
 ## BlendingOptions.AddDropShadow method
 
-ड्रॉप शैडो प्रभाव जोड़ता है.
+ड्रॉप शैडो इफ़ेक्ट जोड़ता है।
 
 ```csharp
 public DropShadowEffect AddDropShadow()
 ```
 
-### प्रतिलाभ की मात्रा
+### रिटर्न वैल्यू
 
-बनाया गया[`DropShadowEffect`](../../dropshadoweffect/) वस्तु
+निर्मित [`DropShadowEffect`](../../dropshadoweffect/) ऑब्जेक्ट
 
-### यह सभी देखें
+### देखें भी
 
 * class [DropShadowEffect](../../dropshadoweffect/)
 * class [BlendingOptions](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../blendingoptions/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../../)
 
 

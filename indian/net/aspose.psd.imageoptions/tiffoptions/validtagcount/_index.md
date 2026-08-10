@@ -1,27 +1,28 @@
 ---
-title: TiffOptions.ValidTagCount
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: TiffOptions संपत्त. मन्य टैग संख्य प्रप्त करत है यह कुल टैग्स क संख्य नहं है बल्क उन टैग्स क संख्य है जन्हें संरक्षत कय ज सकत है
+title: "TiffOptions.ValidTagCount"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "TiffOptions प्रॉपर्टी। वैध टैग गिनती प्राप्त करता है। यह कुल टैग गिनती नहीं है बल्कि उन टैगों की संख्या है जिन्हें संरक्षित किया जा सकता है।"
 type: docs
-weight: 570
+weight: 580
 url: /hi/net/aspose.psd.imageoptions/tiffoptions/validtagcount/
 ---
+{{< psd/tize >}}
 ## TiffOptions.ValidTagCount property
 
-मान्य टैग संख्या प्राप्त करता है। यह कुल टैग्स की संख्या नहीं है बल्कि उन टैग्स की संख्या है जिन्हें संरक्षित किया जा सकता है।
+वैध टैग गिनती को प्राप्त करता है। यह कुल टैग गिनती नहीं है बल्कि उन टैगों की संख्या है जिन्हें संरक्षित किया जा सकता है।
 
 ```csharp
 public int ValidTagCount { get; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-मान्य टैग संख्या.
+वैध टैग गिनती।
 
-### यह सभी देखें
+### देखें भी
 
 * class [TiffOptions](../)
-* नाम स्थान [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,34 +1,35 @@
 ---
-title: ComplexTypeBase.ComplexTypeBase
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: ComplexTypeBase नर्मत. क एक नय उदहरण प्ररंभ करत हैComplexTypeBase वर्ग.
+title: "ComplexTypeBase.ComplexTypeBase"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "ComplexTypeBase कंस्ट्रक्टर। ComplexTypeBase क्लास का नया इंस्टेंस इनिशियलाइज़ करता है"
 type: docs
 weight: 10
 url: /hi/net/aspose.psd.xmp.types.complex/complextypebase/complextypebase/
 ---
+{{< psd/tize >}}
 ## ComplexTypeBase constructor
 
-का एक नया उदाहरण प्रारंभ करता है[`ComplexTypeBase`](../) वर्ग.
+[`ComplexTypeBase`](../) क्लास का नया इंस्टेंस इनिशियलाइज़ करता है।
 
 ```csharp
 public ComplexTypeBase(string prefix, string namespaceUri)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| prefix | String | उपसर्ग। |
-| namespaceUri | String | नाम स्थान URI. |
+| प्रीफ़िक्स | String | प्रीफ़िक्स। |
+| नेमस्पेसURI | String | यह नेमस्पेस URI। |
 
 ### अपवाद
 
-| अपवाद | स्थिति |
+| अपवाद | शर्त |
 | --- | --- |
-| ArgumentNullException | उपसर्ग है null or नाम स्थान Uri है null |
+| ArgumentNullException | prefix null है या namespaceUri null है |
 
-### यह सभी देखें
+### देखें भी
 
 * class [ComplexTypeBase](../)
-* नाम स्थान [Aspose.PSD.Xmp.Types.Complex](../../complextypebase/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex](../../../aspose.psd.xmp.types.complex/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: GuideResource.Location
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: GuideResource संपत्त. दस्तवेज़ नर्देशंक में गइड क स्थन प्रप्त य सेट करत है
+title: "GuideResource.Location"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "GuideResource प्रॉपर्टी. दस्तावेज़ निर्देशांक में गाइड का स्थान प्राप्त या सेट करता है."
 type: docs
 weight: 30
 url: /hi/net/aspose.psd.fileformats.psd.resources/guideresource/location/
 ---
+{{< psd/tize >}}
 ## GuideResource.Location property
 
-दस्तावेज़ निर्देशांक में गाइड का स्थान प्राप्त या सेट करता है।
+दस्तावेज़ निर्देशांक में गाइड के स्थान को प्राप्त करता है या सेट करता है।
 
 ```csharp
 public int Location { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-गाइड स्थान।
+गाइड का स्थान.
 
-### यह सभी देखें
+### देखें भी
 
 * class [GuideResource](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Resources](../../guideresource/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

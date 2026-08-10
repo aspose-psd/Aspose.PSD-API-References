@@ -1,177 +1,178 @@
 ---
-title: LinearGradientBrush.LinearGradientBrush
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: LinearGradientBrush नर्मत. क एक नय उदहरण प्ररंभ करत हैLinearGradientBrush डफ़ल्ट मपदंडं के सथ वर्ग शुरुआत रंग कल है अंत क रंग सफेद है कण 45 डग्र है और आयत आकर 11 के सथ 00 में स्थत है
+title: "LinearGradientBrush.LinearGradientBrush"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "LinearGradientBrush कंस्ट्रक्टर। डिफ़ॉल्ट पैरामीटरों के साथ LinearGradientBrush क्लास की नई इंस्टेंस को प्रारंभ करता है। प्रारंभिक रंग काला है, समाप्ति रंग सफ़ेद है, कोण 45 डिग्री है और आयत 00 में स्थित है जिसका आकार 11 है।"
 type: docs
 weight: 10
 url: /hi/net/aspose.psd.brushes/lineargradientbrush/lineargradientbrush/
 ---
+{{< psd/tize >}}
 ## LinearGradientBrush() {#constructor}
 
-का एक नया उदाहरण प्रारंभ करता है[`LinearGradientBrush`](../) डिफ़ॉल्ट मापदंडों के साथ वर्ग। शुरुआती रंग काला है, अंत का रंग सफेद है, कोण 45 डिग्री है और आयत आकार (1,1) के साथ (0,0) में स्थित है।
+डिफ़ॉल्ट पैरामीटरों के साथ [`LinearGradientBrush`](../) क्लास की नई इंस्टेंस को प्रारंभ करता है। प्रारंभिक रंग काला, समाप्ति रंग सफ़ेद, कोण 45 डिग्री, और आयत (0,0) में स्थित है जिसका आकार (1,1) है।
 
 ```csharp
 public LinearGradientBrush()
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * class [LinearGradientBrush](../)
-* नाम स्थान [Aspose.PSD.Brushes](../../lineargradientbrush/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## LinearGradientBrush(Point, Point, Color, Color) {#constructor_1}
 
-का एक नया उदाहरण प्रारंभ करता है[`LinearGradientBrush`](../) वर्ग निर्दिष्ट बिंदुओं और रंगों के साथ।
+निर्दिष्ट बिंदुओं और रंगों के साथ [`LinearGradientBrush`](../) क्लास की नई इंस्टेंस को प्रारंभ करता है।
 
 ```csharp
 public LinearGradientBrush(Point point1, Point point2, Color color1, Color color2)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| point1 | Point | ए[`Point`](../../../aspose.psd/point/) संरचना जो रैखिक ढाल के शुरुआती बिंदु का प्रतिनिधित्व करती है। |
-| point2 | Point | ए[`Point`](../../../aspose.psd/point/) संरचना जो रैखिक ढाल के अंत बिंदु का प्रतिनिधित्व करती है। |
-| color1 | Color | ए[`Color`](../../../aspose.psd/color/)संरचना जो रैखिक ढाल के शुरुआती रंग का प्रतिनिधित्व करती है। |
-| color2 | Color | ए[`Color`](../../../aspose.psd/color/) संरचना जो रैखिक ढाल के अंतिम रंग का प्रतिनिधित्व करती है। |
+| point1 | Point | एक [`Point`](../../../aspose.psd/point/) संरचना जो रैखिक ग्रेडिएंट का प्रारंभिक बिंदु दर्शाती है। |
+| point2 | Point | एक [`Point`](../../../aspose.psd/point/) संरचना जो रैखिक ग्रेडिएंट का अंतिम बिंदु दर्शाती है। |
+| color1 | Color | एक [`Color`](../../../aspose.psd/color/) संरचना जो रैखिक ग्रेडिएंट के प्रारंभिक रंग का प्रतिनिधित्व करती है। |
+| color2 | Color | एक [`Color`](../../../aspose.psd/color/) संरचना जो रैखिक ग्रेडिएंट के समाप्ति रंग का प्रतिनिधित्व करती है। |
 
-### यह सभी देखें
+### देखें भी
 
 * struct [Point](../../../aspose.psd/point/)
 * struct [Color](../../../aspose.psd/color/)
 * class [LinearGradientBrush](../)
-* नाम स्थान [Aspose.PSD.Brushes](../../lineargradientbrush/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## LinearGradientBrush(PointF, PointF, Color, Color) {#constructor_2}
 
-का एक नया उदाहरण प्रारंभ करता है[`LinearGradientBrush`](../) वर्ग निर्दिष्ट बिंदुओं और रंगों के साथ।
+निर्दिष्ट बिंदुओं और रंगों के साथ [`LinearGradientBrush`](../) क्लास की नई इंस्टेंस को प्रारंभ करता है।
 
 ```csharp
 public LinearGradientBrush(PointF point1, PointF point2, Color color1, Color color2)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| point1 | PointF | ए[`PointF`](../../../aspose.psd/pointf/) संरचना जो रैखिक ढाल के शुरुआती बिंदु का प्रतिनिधित्व करती है। |
-| point2 | PointF | ए[`PointF`](../../../aspose.psd/pointf/) संरचना जो रैखिक ढाल के अंत बिंदु का प्रतिनिधित्व करती है। |
-| color1 | Color | ए[`Color`](../../../aspose.psd/color/)संरचना जो रैखिक ढाल के शुरुआती रंग का प्रतिनिधित्व करती है। |
-| color2 | Color | ए[`Color`](../../../aspose.psd/color/) संरचना जो रैखिक ढाल के अंतिम रंग का प्रतिनिधित्व करती है। |
+| point1 | PointF | एक [`PointF`](../../../aspose.psd/pointf/) संरचना जो रैखिक ग्रेडिएंट का प्रारंभिक बिंदु दर्शाती है। |
+| point2 | PointF | एक [`PointF`](../../../aspose.psd/pointf/) संरचना जो रैखिक ग्रेडिएंट का अंतिम बिंदु दर्शाती है। |
+| color1 | Color | एक [`Color`](../../../aspose.psd/color/) संरचना जो रैखिक ग्रेडिएंट के प्रारंभिक रंग का प्रतिनिधित्व करती है। |
+| color2 | Color | एक [`Color`](../../../aspose.psd/color/) संरचना जो रैखिक ग्रेडिएंट के समाप्ति रंग का प्रतिनिधित्व करती है। |
 
-### यह सभी देखें
+### देखें भी
 
 * struct [PointF](../../../aspose.psd/pointf/)
 * struct [Color](../../../aspose.psd/color/)
 * class [LinearGradientBrush](../)
-* नाम स्थान [Aspose.PSD.Brushes](../../lineargradientbrush/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## LinearGradientBrush(Rectangle, Color, Color, float) {#constructor_3}
 
-का एक नया उदाहरण प्रारंभ करता है[`LinearGradientBrush`](../) वर्ग एक आयत पर आधारित है, शुरू और समाप्त रंग, और एक ओरिएंटेशन कोण.
+एक आयत, प्रारंभिक और समाप्ति रंग, तथा अभिविन्यास कोण के आधार पर [`LinearGradientBrush`](../) क्लास की नई इंस्टेंस को प्रारंभ करता है।
 
 ```csharp
 public LinearGradientBrush(Rectangle rect, Color color1, Color color2, float angle)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| rect | Rectangle | ए[`RectangleF`](../../../aspose.psd/rectanglef/) संरचना जो रैखिक ढाल की सीमा को निर्दिष्ट करती है। |
-| color1 | Color | ए[`Color`](../../../aspose.psd/color/) संरचना जो ढाल के लिए शुरुआती रंग का प्रतिनिधित्व करती है। |
-| color2 | Color | ए[`Color`](../../../aspose.psd/color/) संरचना जो ढाल के लिए अंतिम रंग का प्रतिनिधित्व करती है। |
-| angle | Single | ग्रेडिएंट की ओरिएंटेशन लाइन के x-अक्ष से दक्षिणावर्त डिग्री में मापा गया कोण। |
+| rect | Rectangle | एक [`RectangleF`](../../../aspose.psd/rectanglef/) संरचना जो रैखिक ग्रेडिएंट की सीमाएँ निर्दिष्ट करती है। |
+| color1 | Color | एक [`Color`](../../../aspose.psd/color/) संरचना जो ग्रेडिएंट के लिए प्रारंभिक रंग का प्रतिनिधित्व करती है। |
+| color2 | Color | एक [`Color`](../../../aspose.psd/color/) संरचना जो ग्रेडिएंट के लिए समाप्ति रंग का प्रतिनिधित्व करती है। |
+| कोण | Single | कोण, जो x-अक्ष से घड़ी की दिशा में डिग्री में मापा जाता है, ग्रेडिएंट की अभिविन्यास रेखा का। |
 
-### यह सभी देखें
+### देखें भी
 
 * struct [Rectangle](../../../aspose.psd/rectangle/)
 * struct [Color](../../../aspose.psd/color/)
 * class [LinearGradientBrush](../)
-* नाम स्थान [Aspose.PSD.Brushes](../../lineargradientbrush/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## LinearGradientBrush(RectangleF, Color, Color, float) {#constructor_5}
 
-का एक नया उदाहरण प्रारंभ करता है[`LinearGradientBrush`](../) वर्ग एक आयत पर आधारित है, शुरू और समाप्त रंग, और एक ओरिएंटेशन कोण.
+एक आयत, प्रारंभिक और समाप्ति रंग, तथा अभिविन्यास कोण के आधार पर [`LinearGradientBrush`](../) क्लास की नई इंस्टेंस को प्रारंभ करता है।
 
 ```csharp
 public LinearGradientBrush(RectangleF rect, Color color1, Color color2, float angle)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| rect | RectangleF | ए[`RectangleF`](../../../aspose.psd/rectanglef/) संरचना जो रैखिक ढाल की सीमा को निर्दिष्ट करती है। |
-| color1 | Color | ए[`Color`](../../../aspose.psd/color/) संरचना जो ढाल के लिए शुरुआती रंग का प्रतिनिधित्व करती है। |
-| color2 | Color | ए[`Color`](../../../aspose.psd/color/) संरचना जो ढाल के लिए अंतिम रंग का प्रतिनिधित्व करती है। |
-| angle | Single | ग्रेडिएंट की ओरिएंटेशन लाइन के x-अक्ष से दक्षिणावर्त डिग्री में मापा गया कोण। |
+| rect | RectangleF | एक [`RectangleF`](../../../aspose.psd/rectanglef/) संरचना जो रैखिक ग्रेडिएंट की सीमाएँ निर्दिष्ट करती है। |
+| color1 | Color | एक [`Color`](../../../aspose.psd/color/) संरचना जो ग्रेडिएंट के लिए प्रारंभिक रंग का प्रतिनिधित्व करती है। |
+| color2 | Color | एक [`Color`](../../../aspose.psd/color/) संरचना जो ग्रेडिएंट के लिए समाप्ति रंग का प्रतिनिधित्व करती है। |
+| कोण | Single | कोण, जो x-अक्ष से घड़ी की दिशा में डिग्री में मापा जाता है, ग्रेडिएंट की अभिविन्यास रेखा का। |
 
-### यह सभी देखें
+### देखें भी
 
 * struct [RectangleF](../../../aspose.psd/rectanglef/)
 * struct [Color](../../../aspose.psd/color/)
 * class [LinearGradientBrush](../)
-* नाम स्थान [Aspose.PSD.Brushes](../../lineargradientbrush/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## LinearGradientBrush(Rectangle, Color, Color, float, bool) {#constructor_4}
 
-का एक नया उदाहरण प्रारंभ करता है[`LinearGradientBrush`](../) वर्ग एक आयत पर आधारित है, शुरू और समाप्त रंग, और एक ओरिएंटेशन कोण.
+एक आयत, प्रारंभिक और समाप्ति रंग, तथा अभिविन्यास कोण के आधार पर [`LinearGradientBrush`](../) क्लास की नई इंस्टेंस को प्रारंभ करता है।
 
 ```csharp
 public LinearGradientBrush(Rectangle rect, Color color1, Color color2, float angle, 
     bool isAngleScalable)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| rect | Rectangle | ए[`RectangleF`](../../../aspose.psd/rectanglef/) संरचना जो रैखिक ढाल की सीमा को निर्दिष्ट करती है। |
-| color1 | Color | ए[`Color`](../../../aspose.psd/color/) संरचना जो ढाल के लिए शुरुआती रंग का प्रतिनिधित्व करती है। |
-| color2 | Color | ए[`Color`](../../../aspose.psd/color/) संरचना जो ढाल के लिए अंतिम रंग का प्रतिनिधित्व करती है। |
-| angle | Single | ग्रेडिएंट की ओरिएंटेशन लाइन के x-अक्ष से दक्षिणावर्त डिग्री में मापा गया कोण। |
-| isAngleScalable | Boolean | अगर सेट है`सत्य` इसके साथ परिवर्तन के दौरान कोण बदल दिया जाता है[`LinearGradientBrush`](../). |
+| rect | Rectangle | एक [`RectangleF`](../../../aspose.psd/rectanglef/) संरचना जो रैखिक ग्रेडिएंट की सीमाएँ निर्दिष्ट करती है। |
+| color1 | Color | एक [`Color`](../../../aspose.psd/color/) संरचना जो ग्रेडिएंट के लिए प्रारंभिक रंग का प्रतिनिधित्व करती है। |
+| color2 | Color | एक [`Color`](../../../aspose.psd/color/) संरचना जो ग्रेडिएंट के लिए समाप्ति रंग का प्रतिनिधित्व करती है। |
+| कोण | Single | कोण, जो x-अक्ष से घड़ी की दिशा में डिग्री में मापा जाता है, ग्रेडिएंट की अभिविन्यास रेखा का। |
+| isAngleScalable | Boolean | यदि `true` पर सेट किया जाता है तो इस [`LinearGradientBrush`](../) के साथ रूपांतरणों के दौरान कोण बदल जाता है। |
 
-### यह सभी देखें
+### देखें भी
 
 * struct [Rectangle](../../../aspose.psd/rectangle/)
 * struct [Color](../../../aspose.psd/color/)
 * class [LinearGradientBrush](../)
-* नाम स्थान [Aspose.PSD.Brushes](../../lineargradientbrush/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## LinearGradientBrush(RectangleF, Color, Color, float, bool) {#constructor_6}
 
-का एक नया उदाहरण प्रारंभ करता है[`LinearGradientBrush`](../) वर्ग एक आयत पर आधारित है, शुरू और समाप्त रंग, और एक ओरिएंटेशन कोण.
+एक आयत, प्रारंभिक और समाप्ति रंग, तथा अभिविन्यास कोण के आधार पर [`LinearGradientBrush`](../) क्लास की नई इंस्टेंस को प्रारंभ करता है।
 
 ```csharp
 public LinearGradientBrush(RectangleF rect, Color color1, Color color2, float angle, 
     bool isAngleScalable)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| rect | RectangleF | ए[`RectangleF`](../../../aspose.psd/rectanglef/) संरचना जो रैखिक ढाल की सीमा को निर्दिष्ट करती है। |
-| color1 | Color | ए[`Color`](../../../aspose.psd/color/) संरचना जो ढाल के लिए शुरुआती रंग का प्रतिनिधित्व करती है। |
-| color2 | Color | ए[`Color`](../../../aspose.psd/color/) संरचना जो ढाल के लिए अंतिम रंग का प्रतिनिधित्व करती है। |
-| angle | Single | ग्रेडिएंट की ओरिएंटेशन लाइन के x-अक्ष से दक्षिणावर्त डिग्री में मापा गया कोण। |
-| isAngleScalable | Boolean | अगर सेट है`सत्य` इसके साथ परिवर्तन के दौरान कोण बदल दिया जाता है[`LinearGradientBrush`](../). |
+| rect | RectangleF | एक [`RectangleF`](../../../aspose.psd/rectanglef/) संरचना जो रैखिक ग्रेडिएंट की सीमाएँ निर्दिष्ट करती है। |
+| color1 | Color | एक [`Color`](../../../aspose.psd/color/) संरचना जो ग्रेडिएंट के लिए प्रारंभिक रंग का प्रतिनिधित्व करती है। |
+| color2 | Color | एक [`Color`](../../../aspose.psd/color/) संरचना जो ग्रेडिएंट के लिए समाप्ति रंग का प्रतिनिधित्व करती है। |
+| कोण | Single | कोण, जो x-अक्ष से घड़ी की दिशा में डिग्री में मापा जाता है, ग्रेडिएंट की अभिविन्यास रेखा का। |
+| isAngleScalable | Boolean | यदि `true` पर सेट किया जाता है तो इस [`LinearGradientBrush`](../) के साथ रूपांतरणों के दौरान कोण बदल जाता है। |
 
-### यह सभी देखें
+### देखें भी
 
 * struct [RectangleF](../../../aspose.psd/rectanglef/)
 * struct [Color](../../../aspose.psd/color/)
 * class [LinearGradientBrush](../)
-* नाम स्थान [Aspose.PSD.Brushes](../../lineargradientbrush/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
+* assembly [Aspose.PSD](../../../)
 
 

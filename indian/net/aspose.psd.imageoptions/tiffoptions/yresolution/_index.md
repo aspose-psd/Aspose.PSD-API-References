@@ -1,28 +1,29 @@
 ---
-title: TiffOptions.Yresolution
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: TiffOptions संपत्त. वई रज़ल्यूशन प्रप्त य सेट करत है
+title: "TiffOptions.Yresolution"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "TiffOptions प्रॉपर्टी। y रिज़ॉल्यूशन को प्राप्त करता है या सेट करता है"
 type: docs
-weight: 690
+weight: 700
 url: /hi/net/aspose.psd.imageoptions/tiffoptions/yresolution/
 ---
+{{< psd/tize >}}
 ## TiffOptions.Yresolution property
 
-वाई रिज़ॉल्यूशन प्राप्त या सेट करता है।
+y रिज़ॉल्यूशन प्राप्त करता है या सेट करता है।
 
 ```csharp
 public TiffRational Yresolution { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-वाई संकल्प।
+y रिज़ॉल्यूशन।
 
-### यह सभी देखें
+### देखें भी
 
 * class [TiffRational](../../../aspose.psd.fileformats.tiff/tiffrational/)
 * class [TiffOptions](../)
-* नाम स्थान [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

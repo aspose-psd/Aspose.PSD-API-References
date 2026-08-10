@@ -1,11 +1,12 @@
 ---
-title: XmpPackageBaseCollection.Remove
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: XmpPackageBaseCollection तरक. नर्दष्ट XMP पैकेज क हटत है
+title: "XmpPackageBaseCollection.Remove"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "XmpPackageBaseCollection विधि। निर्दिष्ट XMP पैकेज को हटाता है।"
 type: docs
 weight: 80
 url: /hi/net/aspose.psd.xmp/xmppackagebasecollection/remove/
 ---
+{{< psd/tize >}}
 ## XmpPackageBaseCollection.Remove method
 
 निर्दिष्ट XMP पैकेज को हटाता है।
@@ -14,15 +15,15 @@ url: /hi/net/aspose.psd.xmp/xmppackagebasecollection/remove/
 public void Remove(XmpPackage package)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| package | XmpPackage | निकालने के लिए XMP पैकेज। |
+| पैकेज | XmpPackage | हटाने के लिए XMP पैकेज। |
 
-### यह सभी देखें
+### देखें भी
 
 * class [XmpPackage](../../xmppackage/)
 * class [XmpPackageBaseCollection](../)
-* नाम स्थान [Aspose.PSD.Xmp](../../xmppackagebasecollection/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

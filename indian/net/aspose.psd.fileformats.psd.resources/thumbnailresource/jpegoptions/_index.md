@@ -1,28 +1,29 @@
 ---
-title: ThumbnailResource.JpegOptions
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: ThumbnailResource संपत्त. जेपईज वकल्प प्रप्त य सेट करत है उपयुक्त जब थंबनेल संसधन केवल जेपईज फ़इल प्ररूप में सहेज जत है र प्ररूप परभषत हने पर इस वकल्प क कई प्रभव नहं पड़त है
+title: "ThumbnailResource.JpegOptions"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "ThumbnailResource प्रॉपर्टी। JPEG विकल्प प्राप्त करता है या सेट करता है। केवल तब उपयुक्त जब थंबनेल संसाधन केवल JPEG फ़ाइल फ़ॉर्मेट में सहेजा जाता है। जब RAW फ़ॉर्मेट परिभाषित हो तो यह विकल्प कोई प्रभाव नहीं डालता।"
 type: docs
 weight: 60
 url: /hi/net/aspose.psd.fileformats.psd.resources/thumbnailresource/jpegoptions/
 ---
+{{< psd/tize >}}
 ## ThumbnailResource.JpegOptions property
 
-जेपीईजी विकल्प प्राप्त या सेट करता है। उपयुक्त जब थंबनेल संसाधन केवल जेपीईजी फ़ाइल प्रारूप में सहेजा जाता है। रॉ प्रारूप परिभाषित होने पर इस विकल्प का कोई प्रभाव नहीं पड़ता है।
+JPEG विकल्पों को प्राप्त करता है या सेट करता है। जब थंबनेल रिसोर्स केवल JPEG फ़ाइल फ़ॉर्मेट में सहेजा जाता है तो यह उपयुक्त है। जब RAW फ़ॉर्मेट परिभाषित होता है तो यह विकल्प कोई प्रभाव नहीं डालता।
 
 ```csharp
 public JpegOptions JpegOptions { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-जेपीईजी विकल्प।
+JPEG विकल्प।
 
-### यह सभी देखें
+### देखें भी
 
 * class [JpegOptions](../../../aspose.psd.imageoptions/jpegoptions/)
 * class [ThumbnailResource](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Resources](../../thumbnailresource/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

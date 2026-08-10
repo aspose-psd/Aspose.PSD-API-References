@@ -1,28 +1,29 @@
 ---
-title: TiffOptions.Palette
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: TiffOptions संपत्त. कलर पैलेट प्रप्त य सेट करत है
+title: "TiffOptions.Palette"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "TiffOptions प्रॉपर्टी। रंग पैलेट को प्राप्त करता है या सेट करता है।"
 type: docs
-weight: 310
+weight: 320
 url: /hi/net/aspose.psd.imageoptions/tiffoptions/palette/
 ---
+{{< psd/tize >}}
 ## TiffOptions.Palette property
 
-कलर पैलेट प्राप्त या सेट करता है।
+रंग पैलेट प्राप्त करता है या सेट करता है।
 
 ```csharp
 public override IColorPalette Palette { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-कलर पैलेट.
+रंग पैलेट।
 
-### यह सभी देखें
+### देखें भी
 
 * interface [IColorPalette](../../../aspose.psd/icolorpalette/)
 * class [TiffOptions](../)
-* नाम स्थान [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: Enum ExifWhiteBalance
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Aspose.PSD.Exif.Enums.ExifWhiteBalance एनुम. एक्सफ व्हइट बैलेंस एनम.
+title: "Enum ExifWhiteBalance"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Aspose.PSD.Exif.Enums.ExifWhiteBalance enum. exif व्हाइट बैलेंस enum"
 type: docs
-weight: 970
+weight: 980
 url: /hi/net/aspose.psd.exif.enums/exifwhitebalance/
 ---
+{{< psd/tize >}}
 ## ExifWhiteBalance enumeration
 
-एक्सिफ व्हाइट बैलेंस एनम.
+exif व्हाइट बैलेंस एनेम.
 
 ```csharp
 public enum ExifWhiteBalance
@@ -16,14 +17,14 @@ public enum ExifWhiteBalance
 
 ### मान
 
-| नाम | कीमत | विवरण |
+| नाम | मान | विवरण |
 | --- | --- | --- |
 | Auto | `0` | ऑटो व्हाइट बैलेंस |
-| Manual | `1` | मैनुअल व्हाइट बैलेंस |
+| Manual | `1` | मैन्युअल व्हाइट बैलेंस |
 
-### यह सभी देखें
+### देखें भी
 
-* नाम स्थान [Aspose.PSD.Exif.Enums](../../aspose.psd.exif.enums/)
-* सभा [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Exif.Enums](../../aspose.psd.exif.enums/)
+* assembly [Aspose.PSD](../../)
 
 

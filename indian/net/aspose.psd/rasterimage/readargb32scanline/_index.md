@@ -1,31 +1,32 @@
 ---
-title: RasterImage.ReadArgb32ScanLine
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: RasterImage तरक. नर्दष्ट स्कैन लइन इंडेक्स द्वर पूर स्कैन लइन क पढ़त है
+title: "RasterImage.ReadArgb32ScanLine"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "RasterImage method. निर्दिष्ट स्कैन लाइन इंडेक्स द्वारा पूरी स्कैन लाइन पढ़ता है"
 type: docs
-weight: 430
+weight: 440
 url: /hi/net/aspose.psd/rasterimage/readargb32scanline/
 ---
+{{< psd/tize >}}
 ## RasterImage.ReadArgb32ScanLine method
 
-निर्दिष्ट स्कैन लाइन इंडेक्स द्वारा पूरी स्कैन लाइन को पढ़ता है।
+निर्दिष्ट स्कैन लाइन इंडेक्स द्वारा पूरी स्कैन लाइन पढ़ता है।
 
 ```csharp
 public int[] ReadArgb32ScanLine(int scanLineIndex)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| scanLineIndex | Int32 | स्कैन लाइन का शून्य आधारित सूचकांक। |
+| scanLineIndex | Int32 | स्कैन लाइन का शून्य-आधारित अनुक्रमणिका। |
 
-### प्रतिलाभ की मात्रा
+### रिटर्न वैल्यू
 
-स्कैन लाइन 32-बिट ARGB रंग मान सरणी।
+स्कैन लाइन 32-बिट ARGB रंग मानों की एरे.
 
-### यह सभी देखें
+### देखें भी
 
 * class [RasterImage](../)
-* नाम स्थान [Aspose.PSD](../../rasterimage/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

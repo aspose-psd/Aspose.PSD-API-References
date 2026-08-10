@@ -1,11 +1,12 @@
 ---
-title: XmpPackageBaseCollection.Count
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: XmpPackageBaseCollection संपत्त. संग्रह में तत्वं क संख्य प्रप्त करत है
+title: "XmpPackageBaseCollection.Count"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "XmpPackageBaseCollection प्रॉपर्टी। संग्रह में तत्वों की संख्या प्राप्त करता है"
 type: docs
 weight: 20
 url: /hi/net/aspose.psd.xmp/xmppackagebasecollection/count/
 ---
+{{< psd/tize >}}
 ## XmpPackageBaseCollection.Count property
 
 संग्रह में तत्वों की संख्या प्राप्त करता है।
@@ -14,14 +15,14 @@ url: /hi/net/aspose.psd.xmp/xmppackagebasecollection/count/
 public int Count { get; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
 संग्रह में तत्वों की संख्या।
 
-### यह सभी देखें
+### देखें भी
 
 * class [XmpPackageBaseCollection](../)
-* नाम स्थान [Aspose.PSD.Xmp](../../xmppackagebasecollection/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

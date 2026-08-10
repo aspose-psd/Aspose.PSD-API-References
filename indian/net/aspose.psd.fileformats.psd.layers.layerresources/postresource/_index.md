@@ -1,14 +1,15 @@
 ---
-title: Class PostResource
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.PostResource कक्ष. क्लस पस्ट रसर्स. परत सेटंग पस्टरइज़ करें.
+title: "क्लास PostResource"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Aspose.PSD.FileFormats.Psd.Layers.LayerResources.PostResource क्लास। क्लास PostResource। पोस्टराइज़ लेयर सेटिंग्स"
 type: docs
-weight: 2950
+weight: 3300
 url: /hi/net/aspose.psd.fileformats.psd.layers.layerresources/postresource/
 ---
+{{< psd/tize >}}
 ## PostResource class
 
-क्लास पोस्ट रिसोर्स. परत सेटिंग पोस्टराइज़ करें.
+क्लास PostResource। पोस्टराइज़ लेयर सेटिंग्स।
 
 ```csharp
 public class PostResource : AdjustmentLayerResource
@@ -18,36 +19,63 @@ public class PostResource : AdjustmentLayerResource
 
 | नाम | विवरण |
 | --- | --- |
-| [PostResource](postresource/)() | डिफ़ॉल्ट कंस्ट्रक्टर। |
+| [PostResource](postresource/)() | डिफ़ॉल्ट कन्स्ट्रक्टर। |
 
-## गुण
-
-| नाम | विवरण |
-| --- | --- |
-| override [Key](../../aspose.psd.fileformats.psd.layers.layerresources/postresource/key/) { get; } | परत संसाधन कुंजी प्राप्त करता है. |
-| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/postresource/length/) { get; } | बाइट्स में परत संसाधन लंबाई प्राप्त करता है। |
-| [Levels](../../aspose.psd.fileformats.psd.layers.layerresources/postresource/levels/) { get; set; } | पोस्टराइज परत के स्तर। |
-| override [PsdVersion](../../aspose.psd.fileformats.psd.layers.layerresources/postresource/psdversion/) { get; } | परत संसाधन के लिए आवश्यक न्यूनतम PSD संस्करण प्राप्त करता है। 0 कोई प्रतिबंध नहीं दर्शाता है। |
-| override [Signature](../../aspose.psd.fileformats.psd.layers.layerresources/postresource/signature/) { get; } | हस्ताक्षर हो जाता है। |
-
-## तरीकों
+## प्रॉपर्टीज़
 
 | नाम | विवरण |
 | --- | --- |
-| override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/postresource/save/)(StreamContainer, int) | संसाधन को निर्दिष्ट स्ट्रीम कंटेनर में सहेजता है। |
-| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring/)() | रिटर्न एString जो इस उदाहरण का प्रतिनिधित्व करता है। |
+| [Key](../../aspose.psd.fileformats.psd.layers/layerresource/key/) { get; } | लेयर रिसोर्स कुंजी प्राप्त करता है। |
+| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/postresource/length/) { get; } | बाइट्स में लेयर रिसोर्स की लंबाई प्राप्त करता है। |
+| [Levels](../../aspose.psd.fileformats.psd.layers.layerresources/postresource/levels/) { get; set; } | पोस्टराइज़ लेयर के स्तर। |
+| virtual [PsdVersion](../../aspose.psd.fileformats.psd.layers/layerresource/psdversion/) { get; } | लेयर रिसोर्स के लिए आवश्यक न्यूनतम PSD संस्करण प्राप्त करता है। 0 का अर्थ कोई प्रतिबंध नहीं है। |
+| virtual [Signature](../../aspose.psd.fileformats.psd.layers/layerresource/signature/) { get; } | हस्ताक्षर प्राप्त करता है। |
 
-## खेत
+## मेथड्स
 
 | नाम | विवरण |
 | --- | --- |
-| const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/postresource/typetoolkey/) | टाइप टूल इंफो की. |
+| override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/postresource/save/)(StreamContainer, int) | निर्दिष्ट स्ट्रीम कंटेनर में रिसोर्स को सहेजता है। |
+| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring/)() | इस उदाहरण का प्रतिनिधित्व करने वाली एक स्ट्रिंग लौटाता है। |
 
-### यह सभी देखें
+## फ़ील्ड्स
+
+| नाम | विवरण |
+| --- | --- |
+| const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/postresource/typetoolkey/) | टाइप टूल जानकारी कुंजी। |
+
+## उदाहरण
+
+निम्नलिखित कोड PostResource के हेरफेर की क्षमता को दर्शाता है।
+
+```csharp
+[C#]
+
+string sourceFile = "zendeya_posterize.psd";
+string outputFile = "zendeya_posterize_10.psd";
+
+using (var image = (PsdImage)Image.Load(sourceFile, new PsdLoadOptions()))
+{
+    Layer layer = image.Layers[1];
+
+    foreach (LayerResource resource in layer.Resources)
+    {
+        if (resource is PostResource)
+        {
+            ((PostResource)resource).Levels = 10;
+            image.Save(outputFile);
+
+            break;
+        }
+    }
+}
+```
+
+### देखें भी
 
 * class [LayerResource](../../aspose.psd.fileformats.psd.layers/layerresource/)
 * class [AdjustmentLayerResource](../adjustmentlayerresource/)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
-* सभा [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: LinearGradientBrushBase.Angle
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: LinearGradientBrushBase संपत्त. ग्रेडएंट कण प्रप्त य सेट करत है
+title: "LinearGradientBrushBase.Angle"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "LinearGradientBrushBase प्रॉपर्टी. प्राप्त करता है या सेट करता है ग्रेडिएंट कोण"
 type: docs
 weight: 10
 url: /hi/net/aspose.psd.brushes/lineargradientbrushbase/angle/
 ---
+{{< psd/tize >}}
 ## LinearGradientBrushBase.Angle property
 
-ग्रेडिएंट कोण प्राप्त या सेट करता है।
+ग्रेडिएंट कोण प्राप्त करता है या सेट करता है।
 
 ```csharp
 public float Angle { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-ढाल कोण।
+ग्रेडिएंट कोण।
 
-### यह सभी देखें
+### देखें भी
 
 * class [LinearGradientBrushBase](../)
-* नाम स्थान [Aspose.PSD.Brushes](../../lineargradientbrushbase/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
+* assembly [Aspose.PSD](../../../)
 
 

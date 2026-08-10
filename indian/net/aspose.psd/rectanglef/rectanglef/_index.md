@@ -1,53 +1,54 @@
 ---
-title: RectangleF.RectangleF
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: RectangleF नर्मत. क एक नय उदहरण प्ररंभ करत हैRectangleF नर्दष्ट स्थन और आकर के सथ संरचन.
+title: "RectangleF.RectangleF"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "RectangleF कन्स्ट्रक्टर। निर्दिष्ट स्थान और आकार के साथ RectangleF संरचना का नया उदाहरण प्रारंभ करता है"
 type: docs
 weight: 10
 url: /hi/net/aspose.psd/rectanglef/rectanglef/
 ---
+{{< psd/tize >}}
 ## RectangleF(float, float, float, float) {#constructor_1}
 
-का एक नया उदाहरण प्रारंभ करता है[`RectangleF`](../) निर्दिष्ट स्थान और आकार के साथ संरचना.
+निर्दिष्ट स्थान और आकार के साथ [`RectangleF`](../) संरचना का नया उदाहरण प्रारंभ करता है।
 
 ```csharp
 public RectangleF(float x, float y, float width, float height)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| x | Single | आयत के ऊपरी-बाएँ कोने का x-निर्देशांक। |
-| y | Single | आयत के ऊपरी-बाएँ कोने का y-निर्देशांक। |
-| width | Single | आयत की चौड़ाई। |
-| height | Single | आयत की ऊँचाई। |
+| x | Single | आयत के ऊपर-बाएँ कोने का x‑कोऑर्डिनेट। |
+| y | Single | आयत के ऊपर-बाएँ कोने का y‑कोऑर्डिनेट। |
+| चौड़ाई | Single | आयत की चौड़ाई। |
+| ऊँचाई | Single | आयत की ऊँचाई। |
 
-### यह सभी देखें
+### देखें भी
 
 * struct [RectangleF](../)
-* नाम स्थान [Aspose.PSD](../../rectanglef/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## RectangleF(PointF, SizeF) {#constructor}
 
-का एक नया उदाहरण प्रारंभ करता है[`RectangleF`](../) निर्दिष्ट स्थान और आकार के साथ संरचना.
+निर्दिष्ट स्थान और आकार के साथ [`RectangleF`](../) संरचना का नया उदाहरण प्रारंभ करता है।
 
 ```csharp
 public RectangleF(PointF location, SizeF size)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| location | PointF | ए[`PointF`](../../pointf/) जो आयताकार क्षेत्र के ऊपरी-बाएँ कोने का प्रतिनिधित्व करता है। |
-| size | SizeF | ए[`SizeF`](../../sizef/) जो आयताकार क्षेत्र की चौड़ाई और ऊंचाई का प्रतिनिधित्व करता है। |
+| location | PointF | एक [`PointF`](../../pointf/) जो आयताकार क्षेत्र के ऊपर-बाएँ कोने को दर्शाता है। |
+| size | SizeF | एक [`SizeF`](../../sizef/) जो आयताकार क्षेत्र की चौड़ाई और ऊँचाई को दर्शाता है। |
 
-### यह सभी देखें
+### देखें भी
 
 * struct [PointF](../../pointf/)
 * struct [SizeF](../../sizef/)
 * struct [RectangleF](../)
-* नाम स्थान [Aspose.PSD](../../rectanglef/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

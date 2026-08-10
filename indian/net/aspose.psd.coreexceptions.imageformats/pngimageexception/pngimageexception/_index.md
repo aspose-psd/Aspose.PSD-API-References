@@ -1,48 +1,49 @@
 ---
-title: PngImageException.PngImageException
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: PngImageException नर्मत. क एक नय उदहरण प्ररंभ करत हैPngImageException वर्ग.
+title: "PngImageException.PngImageException"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "PngImageException कंस्ट्रक्टर। PngImageException क्लास का नया उदाहरण प्रारंभ करता है।"
 type: docs
 weight: 10
 url: /hi/net/aspose.psd.coreexceptions.imageformats/pngimageexception/pngimageexception/
 ---
+{{< psd/tize >}}
 ## PngImageException(string) {#constructor}
 
-का एक नया उदाहरण प्रारंभ करता है[`PngImageException`](../) वर्ग.
+[`PngImageException`](../) क्लास का नया उदाहरण प्रारंभ करता है।
 
 ```csharp
 public PngImageException(string message)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
 | message | String | संदेश। |
 
-### यह सभी देखें
+### देखें भी
 
 * class [PngImageException](../)
-* नाम स्थान [Aspose.PSD.CoreExceptions.ImageFormats](../../pngimageexception/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.CoreExceptions.ImageFormats](../../../aspose.psd.coreexceptions.imageformats/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## PngImageException(string, Exception) {#constructor_1}
 
-का एक नया उदाहरण प्रारंभ करता है[`PngImageException`](../) वर्ग.
+[`PngImageException`](../) क्लास का नया उदाहरण प्रारंभ करता है।
 
 ```csharp
 public PngImageException(string message, Exception innerException)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
 | message | String | संदेश। |
-| innerException | Exception | आंतरिक अपवाद। |
+| innerException | एक्सेप्शन | आंतरिक अपवाद। |
 
-### यह सभी देखें
+### देखें भी
 
 * class [PngImageException](../)
-* नाम स्थान [Aspose.PSD.CoreExceptions.ImageFormats](../../pngimageexception/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.CoreExceptions.ImageFormats](../../../aspose.psd.coreexceptions.imageformats/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,28 +1,29 @@
 ---
-title: XmpDynamicMediaPackage.SetAudioSampleType
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: XmpDynamicMediaPackage तरक. ऑडय नमून प्रकर सेट करत है
+title: "XmpDynamicMediaPackage.SetAudioSampleType"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "XmpDynamicMediaPackage विधि। ऑडियो सैंपल प्रकार सेट करता है"
 type: docs
 weight: 100
 url: /hi/net/aspose.psd.xmp.schemas.xmpdm/xmpdynamicmediapackage/setaudiosampletype/
 ---
+{{< psd/tize >}}
 ## XmpDynamicMediaPackage.SetAudioSampleType method
 
-ऑडियो नमूना प्रकार सेट करता है।
+ऑडियो सैंपल टाइप सेट करता है।
 
 ```csharp
 public void SetAudioSampleType(AudioSampleType audioSampleType)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| audioSampleType | AudioSampleType | ऑडियो नमूना प्रकार। |
+| audioSampleType | AudioSampleType | ऑडियो सैंपल प्रकार। |
 
-### यह सभी देखें
+### देखें भी
 
 * class [AudioSampleType](../../audiosampletype/)
 * class [XmpDynamicMediaPackage](../)
-* नाम स्थान [Aspose.PSD.Xmp.Schemas.XmpDm](../../xmpdynamicmediapackage/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpDm](../../../aspose.psd.xmp.schemas.xmpdm/)
+* assembly [Aspose.PSD](../../../)
 
 

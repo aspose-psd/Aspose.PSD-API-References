@@ -1,31 +1,32 @@
 ---
-title: SizeF.Equals
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: SizeF तरक. यह देखने के लए परक्षण करत है क नर्दष्ट वस्तु a है य नहंSizeF इसके समन आयमं के सथSizeF .
+title: "SizeF.Equals"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "SizeF मेथड। परीक्षण करता है कि निर्दिष्ट ऑब्जेक्ट समान आयामों वाला SizeF है या नहीं, जैसा कि यह SizeF है।"
 type: docs
 weight: 80
 url: /hi/net/aspose.psd/sizef/equals/
 ---
+{{< psd/tize >}}
 ## SizeF.Equals method
 
-यह देखने के लिए परीक्षण करता है कि निर्दिष्ट वस्तु a है या नहीं[`SizeF`](../) इसके समान आयामों के साथ[`SizeF`](../) .
+परीक्षण करता है कि निर्दिष्ट ऑब्जेक्ट समान आयामों वाला [`SizeF`](../) है या नहीं, जैसा कि यह [`SizeF`](../) है।
 
 ```csharp
 public override bool Equals(object obj)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| obj | Object | Object परीक्षा करना। |
+| obj | ऑब्जेक्ट | यह Object परीक्षण के लिए। |
 
-### प्रतिलाभ की मात्रा
+### रिटर्न वैल्यू
 
-यह विधि सत्य लौटाती है यदि*obj* एक है[`SizeF`](../) और इसकी चौड़ाई और ऊंचाई उतनी ही है[`SizeF`](../); अन्यथा झूठा।
+यह मेथड true लौटाता है यदि *obj* एक [`SizeF`](../) है और इसकी चौड़ाई और ऊँचाई इस [`SizeF`](../) के समान है; अन्यथा, false।
 
-### यह सभी देखें
+### देखें भी
 
 * struct [SizeF](../)
-* नाम स्थान [Aspose.PSD](../../sizef/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

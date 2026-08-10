@@ -1,28 +1,29 @@
 ---
-title: AiImage.Layers
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: AiImage संपत्त. परत अनुभग प्रप्त करत है
+title: "AiImage.Layers"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "AiImage प्रॉपर्टी। लेयर सेक्शन प्राप्त करता है।"
 type: docs
-weight: 90
+weight: 100
 url: /hi/net/aspose.psd.fileformats.ai/aiimage/layers/
 ---
+{{< psd/tize >}}
 ## AiImage.Layers property
 
-परत अनुभाग प्राप्त करता है।
+लेयर सेक्शन प्राप्त करता है।
 
 ```csharp
 public AiLayerSection[] Layers { get; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-परत खंड।
+लेयर सेक्शन।
 
-### यह सभी देखें
+### देखें भी
 
 * class [AiLayerSection](../../ailayersection/)
 * class [AiImage](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Ai](../../aiimage/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

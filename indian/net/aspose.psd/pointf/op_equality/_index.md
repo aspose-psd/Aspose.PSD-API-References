@@ -1,32 +1,33 @@
 ---
-title: PointF.op_Equality
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: PointF तरक. द क तुलन करत हैPointF संरचनएं परणम नर्दष्ट करत है क क्य के मनX औरY द के गुणPointF संरचनएं बरबर हैं.
+title: "PointF.op_Equality"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "PointF विधि। दो PointF संरचनाओं की तुलना करता है। परिणाम यह निर्दिष्ट करता है कि दो PointF संरचनाओं की X और Y प्रॉपर्टी के मान समान हैं या नहीं"
 type: docs
 weight: 120
 url: /hi/net/aspose.psd/pointf/op_equality/
 ---
+{{< psd/tize >}}
 ## PointF Equality operator
 
-दो की तुलना करता है[`PointF`](../) संरचनाएं। परिणाम निर्दिष्ट करता है कि क्या के मान[`X`](../x/) और[`Y`](../y/) दो के गुण[`PointF`](../) संरचनाएं बराबर हैं.
+दो [`PointF`](../) संरचनाओं की तुलना करता है। परिणाम यह निर्दिष्ट करता है कि दो [`PointF`](../) संरचनाओं की [`X`](../x/) और [`Y`](../y/) प्रॉपर्टी के मान समान हैं या नहीं।
 
 ```csharp
 public static bool operator ==(PointF point1, PointF point2)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| point1 | PointF | एक पहला[`PointF`](../) तुलना करने के लिए। |
-| point2 | PointF | एक दूसरा[`PointF`](../) तुलना करने के लिए। |
+| point1 | PointF | पहला [`PointF`](../) तुलना के लिए। |
+| point2 | PointF | दूसरा [`PointF`](../) तुलना के लिए। |
 
-### प्रतिलाभ की मात्रा
+### रिटर्न वैल्यू
 
-सच है अगर[`X`](../x/) और[`Y`](../y/) पहले और दूसरे के मान[`PointF`](../) संरचनाएं समान हैं; अन्यथा झूठा।
+यदि पहले और दूसरे [`PointF`](../) संरचनाओं के [`X`](../x/) और [`Y`](../y/) मान समान हैं तो true; अन्यथा false.
 
-### यह सभी देखें
+### देखें भी
 
 * struct [PointF](../)
-* नाम स्थान [Aspose.PSD](../../pointf/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

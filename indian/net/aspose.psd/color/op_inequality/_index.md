@@ -1,32 +1,33 @@
 ---
-title: Color.op_Inequality
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Color तरक. परक्षण करत है क क्य द नर्दष्ट हैंColor संरचनएं भन्न हैं.
+title: "Color.op_Inequality"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Color मेथड। दो निर्दिष्ट Color संरचनाएँ अलग हैं या नहीं परीक्षण करता है"
 type: docs
-weight: 1630
+weight: 1650
 url: /hi/net/aspose.psd/color/op_inequality/
 ---
+{{< psd/tize >}}
 ## Color Inequality operator
 
-परीक्षण करता है कि क्या दो निर्दिष्ट हैं[`Color`](../) संरचनाएं भिन्न हैं.
+दो निर्दिष्ट [`Color`](../) संरचनाएँ अलग हैं या नहीं परीक्षण करता है।
 
 ```csharp
 public static bool operator !=(Color left, Color right)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| left | Color | [`Color`](../) वह असमानता ऑपरेटर के बाईं ओर है। |
-| right | Color | [`Color`](../) वह असमानता ऑपरेटर के दाईं ओर है। |
+| left | Color | असमता ऑपरेटर के बाएँ वाले [`Color`](../) |
+| right | Color | असमता ऑपरेटर के दाएँ वाले [`Color`](../) |
 
-### प्रतिलाभ की मात्रा
+### रिटर्न वैल्यू
 
-सच है अगर दो[`Color`](../) संरचनाएं अलग हैं; अन्यथा झूठा।
+यदि दो [`Color`](../) संरचनाएँ अलग हैं तो सत्य; अन्यथा असत्य।
 
-### यह सभी देखें
+### देखें भी
 
 * struct [Color](../)
-* नाम स्थान [Aspose.PSD](../../color/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

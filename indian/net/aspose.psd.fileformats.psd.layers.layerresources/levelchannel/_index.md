@@ -1,32 +1,33 @@
 ---
-title: Class LevelChannel
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.LevelChannel कक्ष. स्तर समयजन परत में चैनलं के सथ कम करने के लए कक्ष
+title: "क्लास LevelChannel"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Aspose.PSD.FileFormats.Psd.Layers.LayerResources.LevelChannel class. लेवल्स एडजस्टमेंट लेयर में चैनलों के साथ काम करने के लिए क्लास"
 type: docs
-weight: 2630
+weight: 2940
 url: /hi/net/aspose.psd.fileformats.psd.layers.layerresources/levelchannel/
 ---
+{{< psd/tize >}}
 ## LevelChannel class
 
-स्तर समायोजन परत में चैनलों के साथ काम करने के लिए कक्षा
+लेवल्स एडजस्टमेंट लेयर में चैनलों के साथ काम करने के लिए क्लास।
 
 ```csharp
 public class LevelChannel
 ```
 
-## गुण
+## प्रॉपर्टीज़
 
 | नाम | विवरण |
 | --- | --- |
-| [InputHighlightLevel](../../aspose.psd.fileformats.psd.layers.layerresources/levelchannel/inputhighlightlevel/) { get; set; } | इनपुट हाइलाइट स्तर प्राप्त या सेट करता है। |
-| [InputMidtoneLevel](../../aspose.psd.fileformats.psd.layers.layerresources/levelchannel/inputmidtonelevel/) { get; set; } | इनपुट मिडटोन लेवल फ्लोट प्राप्त या सेट करता है। |
-| [InputShadowLevel](../../aspose.psd.fileformats.psd.layers.layerresources/levelchannel/inputshadowlevel/) { get; set; } | इनपुट छाया स्तर प्राप्त या सेट करता है। |
-| [OutputHighlightLevel](../../aspose.psd.fileformats.psd.layers.layerresources/levelchannel/outputhighlightlevel/) { get; set; } | आउटपुट हाइलाइट स्तर प्राप्त या सेट करता है। |
-| [OutputShadowLevel](../../aspose.psd.fileformats.psd.layers.layerresources/levelchannel/outputshadowlevel/) { get; set; } | आउटपुट शैडो लेवल प्राप्त या सेट करता है। |
+| [InputHighlightLevel](../../aspose.psd.fileformats.psd.layers.layerresources/levelchannel/inputhighlightlevel/) { get; set; } | इनपुट हाइलाइट लेवल को प्राप्त करता है या सेट करता है। |
+| [InputMidtoneLevel](../../aspose.psd.fileformats.psd.layers.layerresources/levelchannel/inputmidtonelevel/) { get; set; } | इनपुट मिडटोन लेवल फ्लोट को प्राप्त करता है या सेट करता है। |
+| [InputShadowLevel](../../aspose.psd.fileformats.psd.layers.layerresources/levelchannel/inputshadowlevel/) { get; set; } | इनपुट शैडो लेवल को प्राप्त करता है या सेट करता है। |
+| [OutputHighlightLevel](../../aspose.psd.fileformats.psd.layers.layerresources/levelchannel/outputhighlightlevel/) { get; set; } | आउटपुट हाइलाइट लेवल को प्राप्त करता है या सेट करता है। |
+| [OutputShadowLevel](../../aspose.psd.fileformats.psd.layers.layerresources/levelchannel/outputshadowlevel/) { get; set; } | आउटपुट शैडो लेवल को प्राप्त करता है या सेट करता है। |
 
-### यह सभी देखें
+### देखें भी
 
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
-* सभा [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../)
 
 

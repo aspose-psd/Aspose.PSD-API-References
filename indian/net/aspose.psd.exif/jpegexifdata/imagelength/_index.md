@@ -1,27 +1,28 @@
 ---
-title: JpegExifData.ImageLength
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: JpegExifData संपत्त. छव क लंबई प्रप्त य सेट करत है
+title: "JpegExifData.ImageLength"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "JpegExifData प्रॉपर्टी। इमेज लंबाई प्राप्त करता है या सेट करता है"
 type: docs
 weight: 80
 url: /hi/net/aspose.psd.exif/jpegexifdata/imagelength/
 ---
+{{< psd/tize >}}
 ## JpegExifData.ImageLength property
 
-छवि की लंबाई प्राप्त या सेट करता है।
+छवि लंबाई को प्राप्त या सेट करता है।
 
 ```csharp
 public uint ImageLength { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-छवि की लंबाई.
+इमेज की लंबाई।
 
-### यह सभी देखें
+### देखें भी
 
 * class [JpegExifData](../)
-* नाम स्थान [Aspose.PSD.Exif](../../jpegexifdata/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

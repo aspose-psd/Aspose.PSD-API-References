@@ -1,27 +1,28 @@
 ---
-title: NonGenericDictionary.Remove
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: NonGenericDictionary तरक. तत्व क नर्दष्ट कुंज के सथ से हटत हैIDictionary वस्तु.
+title: "NonGenericDictionary.Remove"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "NonGenericDictionary मेथड। निर्दिष्ट कुंजी वाले तत्व को IDictionary ऑब्जेक्ट से हटाता है।"
 type: docs
 weight: 150
 url: /hi/net/aspose.psd/nongenericdictionary/remove/
 ---
+{{< psd/tize >}}
 ## NonGenericDictionary.Remove method
 
-तत्व को निर्दिष्ट कुंजी के साथ से हटाता हैIDictionary वस्तु.
+IDictionary ऑब्जेक्ट से निर्दिष्ट कुंजी वाले तत्व को हटाता है।
 
 ```csharp
 public void Remove(object key)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| key | Object | निकालने के लिए तत्व की कुंजी। |
+| कुंजी | ऑब्जेक्ट | हटाने वाले तत्व की कुंजी। |
 
-### यह सभी देखें
+### देखें भी
 
 * class [NonGenericDictionary](../)
-* नाम स्थान [Aspose.PSD](../../nongenericdictionary/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

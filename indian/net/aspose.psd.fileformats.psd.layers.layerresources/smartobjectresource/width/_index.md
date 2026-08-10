@@ -1,27 +1,28 @@
 ---
-title: SmartObjectResource.Width
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: SmartObjectResource संपत्त. चड़ई प्रप्त य सेट करत है
+title: "SmartObjectResource.Width"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "SmartObjectResource property. प्राप्त करता है या सेट करता है चौड़ाई"
 type: docs
-weight: 250
+weight: 230
 url: /hi/net/aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/width/
 ---
+{{< psd/tize >}}
 ## SmartObjectResource.Width property
 
-चौड़ाई प्राप्त या सेट करता है।
+चौड़ाई को प्राप्त करता है या सेट करता है।
 
 ```csharp
 public double Width { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-चौड़ाई.
+चौड़ाई।
 
-### यह सभी देखें
+### देखें भी
 
 * class [SmartObjectResource](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../smartobjectresource/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

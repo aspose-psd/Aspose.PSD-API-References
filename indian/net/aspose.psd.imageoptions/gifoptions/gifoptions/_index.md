@@ -1,43 +1,44 @@
 ---
-title: GifOptions.GifOptions
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: GifOptions नर्मत. क एक नय उदहरण प्ररंभ करत हैGifOptions वर्ग.
+title: "GifOptions.GifOptions"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "GifOptions कन्स्ट्रक्टर। GifOptions क्लास का नया इंस्टेंस प्रारंभ करता है"
 type: docs
 weight: 10
 url: /hi/net/aspose.psd.imageoptions/gifoptions/gifoptions/
 ---
+{{< psd/tize >}}
 ## GifOptions() {#constructor}
 
-का एक नया उदाहरण प्रारंभ करता है[`GifOptions`](../) वर्ग.
+[`GifOptions`](../) क्लास का नया इंस्टेंस प्रारंभ करता है।
 
 ```csharp
 public GifOptions()
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * class [GifOptions](../)
-* नाम स्थान [Aspose.PSD.ImageOptions](../../gifoptions/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## GifOptions(GifOptions) {#constructor_1}
 
-का एक नया उदाहरण प्रारंभ करता है[`GifOptions`](../) वर्ग.
+[`GifOptions`](../) क्लास का नया इंस्टेंस प्रारंभ करता है।
 
 ```csharp
 public GifOptions(GifOptions gifOptions)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| gifOptions | GifOptions | GIF विकल्प. |
+| gifOptions | GifOptions | GIF विकल्प। |
 
-### यह सभी देखें
+### देखें भी
 
 * class [GifOptions](../)
-* नाम स्थान [Aspose.PSD.ImageOptions](../../gifoptions/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

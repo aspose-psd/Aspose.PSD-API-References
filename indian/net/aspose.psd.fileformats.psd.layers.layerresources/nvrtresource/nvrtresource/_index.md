@@ -1,49 +1,50 @@
 ---
-title: NvrtResource.NvrtResource
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: NvrtResource नर्मत. क एक नय उदहरण प्ररंभ करत हैNvrtResource वर्ग.
+title: "NvrtResource.NvrtResource"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "NvrtResource constructor. NvrtResource क्लास का नया इंस्टेंस इनिशियलाइज़ करता है"
 type: docs
 weight: 10
 url: /hi/net/aspose.psd.fileformats.psd.layers.layerresources/nvrtresource/nvrtresource/
 ---
+{{< psd/tize >}}
 ## NvrtResource() {#constructor}
 
-का एक नया उदाहरण प्रारंभ करता है[`NvrtResource`](../) वर्ग.
+[`NvrtResource`](../) क्लास का नया इंस्टेंस इनिशियलाइज़ करता है।
 
 ```csharp
 public NvrtResource()
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * class [NvrtResource](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../nvrtresource/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## NvrtResource(byte[]) {#constructor_1}
 
-का एक नया उदाहरण प्रारंभ करता है[`NvrtResource`](../) वर्ग.
+[`NvrtResource`](../) क्लास का नया इंस्टेंस इनिशियलाइज़ करता है।
 
 ```csharp
 public NvrtResource(byte[] data)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| data | Byte[] | संसाधन का डेटा। |
+| डेटा | Byte[] | संसाधन का डेटा। |
 
 ### अपवाद
 
-| अपवाद | स्थिति |
+| अपवाद | शर्त |
 | --- | --- |
-| [PsdImageArgumentException](../../../aspose.psd.coreexceptions.imageformats/psdimageargumentexception/) | अमान्य NvrtResource डेटा. |
+| [PsdImageArgumentException](../../../aspose.psd.coreexceptions.imageformats/psdimageargumentexception/) | अमान्य NvrtResource डेटा। |
 
-### यह सभी देखें
+### देखें भी
 
 * class [NvrtResource](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../nvrtresource/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

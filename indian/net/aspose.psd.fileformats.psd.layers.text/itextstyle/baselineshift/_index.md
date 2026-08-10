@@ -1,11 +1,12 @@
 ---
-title: ITextStyle.BaselineShift
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: ITextStyle संपत्त. बेसलइन शफ्ट
+title: "ITextStyle.BaselineShift"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "ITextStyle प्रॉपर्टी। बेसलाइन शिफ्ट"
 type: docs
 weight: 30
 url: /hi/net/aspose.psd.fileformats.psd.layers.text/itextstyle/baselineshift/
 ---
+{{< psd/tize >}}
 ## ITextStyle.BaselineShift property
 
 बेसलाइन शिफ्ट।
@@ -14,10 +15,10 @@ url: /hi/net/aspose.psd.fileformats.psd.layers.text/itextstyle/baselineshift/
 public double BaselineShift { get; set; }
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * interface [ITextStyle](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.Text](../../itextstyle/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.Text](../../../aspose.psd.fileformats.psd.layers.text/)
+* assembly [Aspose.PSD](../../../)
 
 

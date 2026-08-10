@@ -1,27 +1,28 @@
 ---
-title: IGradientTransparencyPoint.MedianPointLocation
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: IGradientTransparencyPoint संपत्त. मध्य बंदु स्थन प्रप्त य सेट करत है
+title: "IGradientTransparencyPoint.MedianPointLocation"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "IGradientTransparencyPoint प्रॉपर्टी। मध्य बिंदु स्थान को प्राप्त करता है या सेट करता है। मान सीमा 04096"
 type: docs
 weight: 20
 url: /hi/net/aspose.psd.fileformats.psd.layers.fillsettings/igradienttransparencypoint/medianpointlocation/
 ---
+{{< psd/tize >}}
 ## IGradientTransparencyPoint.MedianPointLocation property
 
-मध्य बिंदु स्थान प्राप्त या सेट करता है।
+मीडियन पॉइंट स्थान प्राप्त करता है या सेट करता है। मान सीमा 0-4096।
 
 ```csharp
 public int MedianPointLocation { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
 मध्य बिंदु स्थान।
 
-### यह सभी देखें
+### देखें भी
 
 * interface [IGradientTransparencyPoint](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../igradienttransparencypoint/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,28 +1,29 @@
 ---
-title: PsdImage.AddColorBalanceAdjustmentLayer
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: PsdImage तरक. रंग संतुलन समयजन परत जड़त है
+title: "PsdImage.AddColorBalanceAdjustmentLayer"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "PsdImage मेथड। color balance समायोजन लेयर जोड़ता है"
 type: docs
-weight: 320
+weight: 330
 url: /hi/net/aspose.psd.fileformats.psd/psdimage/addcolorbalanceadjustmentlayer/
 ---
+{{< psd/tize >}}
 ## PsdImage.AddColorBalanceAdjustmentLayer method
 
-रंग संतुलन समायोजन परत जोड़ता है।
+कलर बैलेंस एडजस्टमेंट लेयर जोड़ता है।
 
 ```csharp
 public ColorBalanceAdjustmentLayer AddColorBalanceAdjustmentLayer()
 ```
 
-### प्रतिलाभ की मात्रा
+### रिटर्न वैल्यू
 
-एक नव निर्मित रंग संतुलन परत।
+एक नया बनाया गया color balance लेयर।
 
-### यह सभी देखें
+### देखें भी
 
 * class [ColorBalanceAdjustmentLayer](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/colorbalanceadjustmentlayer/)
 * class [PsdImage](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

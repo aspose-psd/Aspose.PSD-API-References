@@ -1,32 +1,33 @@
 ---
-title: Size.Truncate
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Size तरक. नर्दष्ट क परवर्तत करत हैSizeF ए के लए संरचनSize के मूल्यं क छट करके संरचनSizeF अगले नचले पूर्णंक मनं क संरचन
+title: "Size.Truncate"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Size मेथड। निर्दिष्ट SizeF संरचना को Size संरचना में परिवर्तित करता है, SizeF संरचना के मानों को अगले निचले पूर्णांक मान तक ट्रंकेट करके।"
 type: docs
 weight: 70
 url: /hi/net/aspose.psd/size/truncate/
 ---
+{{< psd/tize >}}
 ## Size.Truncate method
 
-निर्दिष्ट को परिवर्तित करता है[`SizeF`](../../sizef/) ए के लिए संरचना[`Size`](../) के मूल्यों को छोटा करके संरचना[`SizeF`](../../sizef/) अगले निचले पूर्णांक मानों की संरचना।
+निर्दिष्ट [`SizeF`](../../sizef/) संरचना को [`Size`](../) संरचना में परिवर्तित करता है, [`SizeF`](../../sizef/) संरचना के मानों को अगले निचले पूर्णांक मान तक ट्रंकेट करके।
 
 ```csharp
 public static Size Truncate(SizeF size)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| size | SizeF | [`SizeF`](../../sizef/) कनवर्ट करने के लिए संरचना। |
+| size | SizeF | परिवर्तित करने के लिए [`SizeF`](../../sizef/) संरचना। |
 
-### प्रतिलाभ की मात्रा
+### रिटर्न वैल्यू
 
-[`Size`](../) संरचना इस विधि में परिवर्तित हो जाती है।
+वह [`Size`](../) संरचना जिसमें यह मेथड परिवर्तित करता है।
 
-### यह सभी देखें
+### देखें भी
 
 * struct [SizeF](../../sizef/)
 * struct [Size](../)
-* नाम स्थान [Aspose.PSD](../../size/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

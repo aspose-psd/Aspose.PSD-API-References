@@ -1,69 +1,70 @@
 ---
-title: SizeF.SizeF
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: SizeF नर्मत. क एक नय उदहरण प्ररंभ करत हैSizeF नर्दष्ट से संरचनSizeF .
+title: "SizeF.SizeF"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "SizeF कंस्ट्रक्टर। निर्दिष्ट SizeF से SizeF संरचना का नया इंस्टेंस प्रारंभ करता है।"
 type: docs
 weight: 10
 url: /hi/net/aspose.psd/sizef/sizef/
 ---
+{{< psd/tize >}}
 ## SizeF(SizeF) {#constructor_1}
 
-का एक नया उदाहरण प्रारंभ करता है[`SizeF`](../) निर्दिष्ट से संरचना[`SizeF`](../) .
+निर्दिष्ट [`SizeF`](../) से [`SizeF`](../) संरचना का नया इंस्टेंस प्रारंभ करता है।
 
 ```csharp
 public SizeF(SizeF size)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| size | SizeF | [`SizeF`](../) जिससे नया बनाना है[`SizeF`](../). |
+| size | SizeF | नए [`SizeF`](../) को बनाने के लिए स्रोत [`SizeF`](../)। |
 
-### यह सभी देखें
+### देखें भी
 
 * struct [SizeF](../)
-* नाम स्थान [Aspose.PSD](../../sizef/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## SizeF(PointF) {#constructor}
 
-का एक नया उदाहरण प्रारंभ करता है[`SizeF`](../) निर्दिष्ट से संरचना[`PointF`](../../pointf/) .
+निर्दिष्ट [`PointF`](../../pointf/) से [`SizeF`](../) संरचना का नया इंस्टेंस प्रारंभ करता है।
 
 ```csharp
 public SizeF(PointF point)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| point | PointF | [`PointF`](../../pointf/) जिससे इसे प्रारंभ करना है[`SizeF`](../). |
+| point | PointF | इस [`SizeF`](../) को प्रारंभ करने के लिए स्रोत [`PointF`](../../pointf/)। |
 
-### यह सभी देखें
+### देखें भी
 
 * struct [PointF](../../pointf/)
 * struct [SizeF](../)
-* नाम स्थान [Aspose.PSD](../../sizef/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## SizeF(float, float) {#constructor_2}
 
-का एक नया उदाहरण प्रारंभ करता है[`SizeF`](../) निर्दिष्ट आयामों से संरचना।
+निर्दिष्ट आयामों से [`SizeF`](../) संरचना का नया इंस्टेंस प्रारंभ करता है।
 
 ```csharp
 public SizeF(float width, float height)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| width | Single | नए का चौड़ाई घटक[`SizeF`](../). |
-| height | Single | नए का ऊंचाई घटक[`SizeF`](../). |
+| width | Single | नए [`SizeF`](../) का चौड़ाई घटक। |
+| height | Single | नए [`SizeF`](../) का ऊँचाई घटक। |
 
-### यह सभी देखें
+### देखें भी
 
 * struct [SizeF](../)
-* नाम स्थान [Aspose.PSD](../../sizef/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

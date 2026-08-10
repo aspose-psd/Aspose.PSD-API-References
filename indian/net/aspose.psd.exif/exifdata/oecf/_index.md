@@ -1,27 +1,28 @@
 ---
-title: ExifData.OECF
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: ExifData संपत्त. ISO 14524. में नर्दष्ट ऑप्टइलेक्ट्रक कनवर्ज़न फ़ंक्शन OECF प्रप्त य सेट करत है
+title: "ExifData.OECF"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "ExifData property. ISO 14524 में निर्दिष्ट OptoElectric Conversion Function OECF को प्राप्त करता है या सेट करता है"
 type: docs
 weight: 820
 url: /hi/net/aspose.psd.exif/exifdata/oecf/
 ---
+{{< psd/tize >}}
 ## ExifData.OECF property
 
-ISO 14524. में निर्दिष्ट ऑप्टो-इलेक्ट्रिक कनवर्ज़न फ़ंक्शन (OECF) प्राप्त या सेट करता है
+ISO 14524 में निर्दिष्ट ऑप्टो-इलेक्ट्रिक कन्वर्ज़न फ़ंक्शन (OECF) प्राप्त करता है या सेट करता है।
 
 ```csharp
 public byte[] OECF { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-ऑप्टो-इलेक्ट्रिक कनवर्ज़न फ़ंक्शन (OECF) ISO 14524. में निर्दिष्ट
+ISO 14524 में निर्दिष्ट Opto-Electric Conversion Function (OECF).
 
-### यह सभी देखें
+### देखें भी
 
 * class [ExifData](../)
-* नाम स्थान [Aspose.PSD.Exif](../../exifdata/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

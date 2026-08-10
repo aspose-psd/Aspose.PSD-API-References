@@ -1,23 +1,24 @@
 ---
-title: FxrpResource.TypeToolKey
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: FxrpResource मैदन. टइप टूल इंफ क.
+title: "FxrpResource.TypeToolKey"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "FxrpResource फ़ील्ड। टाइप टूल जानकारी कुंजी"
 type: docs
-weight: 90
+weight: 60
 url: /hi/net/aspose.psd.fileformats.psd.layers.layerresources/fxrpresource/typetoolkey/
 ---
+{{< psd/tize >}}
 ## FxrpResource.TypeToolKey field
 
-टाइप टूल इंफो की.
+टाइप टूल जानकारी कुंजी।
 
 ```csharp
 public const int TypeToolKey;
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * class [FxrpResource](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../fxrpresource/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

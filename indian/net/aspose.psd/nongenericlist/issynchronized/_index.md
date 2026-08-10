@@ -1,23 +1,24 @@
 ---
-title: NonGenericList.IsSynchronized
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: NonGenericList संपत्त. यह इंगत करने वल मन प्रप्त करत है क क्य तक पहुंच हैICollection समकलक है धग सुरक्षत.
+title: "NonGenericList.IsSynchronized"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "NonGenericList प्रॉपर्टी। यह दर्शाता है कि ICollection तक पहुँच सिंक्रनाइज़्ड और थ्रेड‑सेफ़ है, इसका मान प्राप्त करता है"
 type: docs
 weight: 50
 url: /hi/net/aspose.psd/nongenericlist/issynchronized/
 ---
+{{< psd/tize >}}
 ## NonGenericList.IsSynchronized property
 
-यह इंगित करने वाला मान प्राप्त करता है कि क्या तक पहुंच हैICollection समकालिक है (धागा सुरक्षित).
+एक मान प्राप्त करता है जो दर्शाता है कि ICollection तक पहुंच समक्रमित (थ्रेड-सुरक्षित) है।
 
 ```csharp
 public bool IsSynchronized { get; }
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * class [NonGenericList](../)
-* नाम स्थान [Aspose.PSD](../../nongenericlist/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

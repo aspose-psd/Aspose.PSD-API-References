@@ -1,28 +1,29 @@
 ---
-title: AiRasterImageSection.ImageRectangle
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: AiRasterImageSection संपत्त. छव आयत प्रप्त करत है
+title: "AiRasterImageSection.ImageRectangle"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "AiRasterImageSection प्रॉपर्टी। इमेज आयत प्राप्त करता है।"
 type: docs
 weight: 30
 url: /hi/net/aspose.psd.fileformats.ai/airasterimagesection/imagerectangle/
 ---
+{{< psd/tize >}}
 ## AiRasterImageSection.ImageRectangle property
 
-छवि आयत प्राप्त करता है।
+छवि आयत को प्राप्त करता है।
 
 ```csharp
 public Rectangle ImageRectangle { get; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-छवि चतुर्भुज।
+इमेज आयत।
 
-### यह सभी देखें
+### देखें भी
 
 * struct [Rectangle](../../../aspose.psd/rectangle/)
 * class [AiRasterImageSection](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Ai](../../airasterimagesection/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

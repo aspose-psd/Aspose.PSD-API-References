@@ -1,28 +1,29 @@
 ---
-title: Class XmpArrayHelper
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Aspose.PSD.Xmp.XmpArrayHelper कक्ष. RDF तर्क संसधत करने के लए सहयक वर्ग
+title: "क्लास XmpArrayHelper"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Aspose.PSD.Xmp.XmpArrayHelper क्लास। RDF लॉजिक को प्रोसेस करने के लिए सहायक क्लास"
 type: docs
-weight: 6220
+weight: 6720
 url: /hi/net/aspose.psd.xmp/xmparrayhelper/
 ---
+{{< psd/tize >}}
 ## XmpArrayHelper class
 
-RDF तर्क संसाधित करने के लिए सहायक वर्ग
+RDF लॉजिक को प्रोसेस करने के लिए हेल्पर क्लास।
 
 ```csharp
 public static class XmpArrayHelper
 ```
 
-## तरीकों
+## मेथड्स
 
 | नाम | विवरण |
 | --- | --- |
-| static [GetRdfCode](../../aspose.psd.xmp/xmparrayhelper/getrdfcode/)(XmpArrayType) | विशिष्ट के लिए RDF कोड प्राप्त करता है[`XmpArrayType`](../xmparraytype/) . |
+| static [GetRdfCode](../../aspose.psd.xmp/xmparrayhelper/getrdfcode/)(XmpArrayType) | विशिष्ट [`XmpArrayType`](../xmparraytype/) के लिए RDF कोड प्राप्त करता है। |
 
-### यह सभी देखें
+### देखें भी
 
-* नाम स्थान [Aspose.PSD.Xmp](../../aspose.psd.xmp/)
-* सभा [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Xmp](../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../)
 
 

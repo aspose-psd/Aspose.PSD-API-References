@@ -1,27 +1,28 @@
 ---
-title: ColorPalette.EntriesCount
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: ColorPalette संपत्त. प्रवष्टयं क संख्य प्रप्त करत है.
+title: "ColorPalette.EntriesCount"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "ColorPalette प्रॉपर्टी। एंट्रीज़ की संख्या प्राप्त करती है"
 type: docs
 weight: 50
 url: /hi/net/aspose.psd/colorpalette/entriescount/
 ---
+{{< psd/tize >}}
 ## ColorPalette.EntriesCount property
 
-प्रविष्टियों की संख्या प्राप्त करता है.
+एंट्री की गिनती प्राप्त करता है।
 
 ```csharp
 public int EntriesCount { get; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-प्रविष्टियों की गिनती।
+एंट्रीज़ की संख्या।
 
-### यह सभी देखें
+### देखें भी
 
 * class [ColorPalette](../)
-* नाम स्थान [Aspose.PSD](../../colorpalette/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

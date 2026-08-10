@@ -1,27 +1,28 @@
 ---
-title: LimitMemoryException.ReduceMemoryFactor
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: LimitMemoryException संपत्त. कम मेमर करक प्रप्त य सेट करत है
+title: "LimitMemoryException.ReduceMemoryFactor"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "LimitMemoryException प्रॉपर्टी। रिड्यूस मेमोरी फैक्टर को प्राप्त करता है या सेट करता है।"
 type: docs
 weight: 20
 url: /hi/net/aspose.psd.coreexceptions/limitmemoryexception/reducememoryfactor/
 ---
+{{< psd/tize >}}
 ## LimitMemoryException.ReduceMemoryFactor property
 
-कम मेमोरी कारक प्राप्त या सेट करता है।
+रिड्यूस मेमोरी फैक्टर को प्राप्त करता है या सेट करता है।
 
 ```csharp
 public long ReduceMemoryFactor { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-कम स्मृति कारक।
+रिड्यूस मेमोरी फैक्टर।
 
-### यह सभी देखें
+### देखें भी
 
 * class [LimitMemoryException](../)
-* नाम स्थान [Aspose.PSD.CoreExceptions](../../limitmemoryexception/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.CoreExceptions](../../../aspose.psd.coreexceptions/)
+* assembly [Aspose.PSD](../../../)
 
 

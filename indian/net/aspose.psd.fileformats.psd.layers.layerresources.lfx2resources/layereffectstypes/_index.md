@@ -1,14 +1,15 @@
 ---
-title: Enum LayerEffectsTypes
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.Lfx2Resources.LayerEffectsTypes एनुम. परत सम्मश्रण प्रभव
+title: "Enum LayerEffectsTypes"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Aspose.PSD.FileFormats.Psd.Layers.LayerResources.Lfx2Resources.LayerEffectsTypes enum. लेयर ब्लेंडिंग इफ़ेक्ट्स"
 type: docs
-weight: 2660
+weight: 2900
 url: /hi/net/aspose.psd.fileformats.psd.layers.layerresources.lfx2resources/layereffectstypes/
 ---
+{{< psd/tize >}}
 ## LayerEffectsTypes enumeration
 
-परत सम्मिश्रण प्रभाव।
+लेयर ब्लेंडिंग प्रभाव।
 
 ```csharp
 public enum LayerEffectsTypes
@@ -16,22 +17,22 @@ public enum LayerEffectsTypes
 
 ### मान
 
-| नाम | कीमत | विवरण |
+| नाम | मान | विवरण |
 | --- | --- | --- |
-| DropShadow | `0` | ड्रॉप शैडो. |
-| OuterGlow | `1` | बाहरी चमक। |
-| PatternOverlay | `2` | पैटर्न ओवरले. |
-| GradientOverlay | `3` | ग्रेडिएंट ओवरले. |
-| ColorOverlay | `4` | रंग ओवरले. |
-| Satin | `5` | साटन प्रभाव प्रकार। |
-| InnerGlow | `6` | आंतरिक चमक। |
-| InnerShadow | `7` | आंतरिक छाया। |
-| Stroke | `8` | स्ट्रोक। |
-| BevelEmboss | `9` | बेवेल एम्बॉस. |
+| DropShadow | `0` | यह ड्रॉप शैडो। |
+| OuterGlow | `1` | यह आउटेर ग्लो। |
+| PatternOverlay | `2` | यह पैटर्न ओवरले। |
+| GradientOverlay | `3` | यह ग्रेडिएंट ओवरले। |
+| ColorOverlay | `4` | यह रंग ओवरले। |
+| Satin | `5` | यह सैटिन इफ़ेक्ट टाइप। |
+| InnerGlow | `6` | यह इनर ग्लो। |
+| InnerShadow | `7` | यह इनर शैडो। |
+| Stroke | `8` | यह स्ट्रोक। |
+| BevelEmboss | `9` | यह बिवेल एम्बॉस। |
 
-### उदाहरण
+## उदाहरण
 
-निम्नलिखित कोड ILayerEffect.EffectType संपत्ति के समर्थन को प्रदर्शित करता है।
+निम्नलिखित कोड ILayerEffect.EffectType प्रॉपर्टी के समर्थन को दर्शाता है।
 
 ```csharp
 [C#]
@@ -62,9 +63,9 @@ using (PsdImage psdImage = (PsdImage)Image.Load(inputFile, new LoadOptions()))
 }
 ```
 
-### यह सभी देखें
+### देखें भी
 
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.Lfx2Resources](../../aspose.psd.fileformats.psd.layers.layerresources.lfx2resources/)
-* सभा [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.Lfx2Resources](../../aspose.psd.fileformats.psd.layers.layerresources.lfx2resources/)
+* assembly [Aspose.PSD](../../)
 
 

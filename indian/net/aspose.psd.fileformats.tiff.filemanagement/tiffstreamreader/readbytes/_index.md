@@ -1,11 +1,12 @@
 ---
-title: TiffStreamReader.ReadBytes
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: TiffStreamReader तरक. स्ट्रम से बइट मनं क एक सरण पढ़त है
+title: "TiffStreamReader.ReadBytes"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "TiffStreamReader मेथड। स्ट्रीम से बाइट मानों की एक एरे पढ़ता है"
 type: docs
 weight: 40
 url: /hi/net/aspose.psd.fileformats.tiff.filemanagement/tiffstreamreader/readbytes/
 ---
+{{< psd/tize >}}
 ## ReadBytes(byte[], int, long, long) {#readbytes_1}
 
 स्ट्रीम से बाइट मानों की एक सरणी पढ़ता है।
@@ -14,46 +15,46 @@ url: /hi/net/aspose.psd.fileformats.tiff.filemanagement/tiffstreamreader/readbyt
 public long ReadBytes(byte[] array, int arrayIndex, long position, long count)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| array | Byte[] | भरने के लिए सरणी। |
-| arrayIndex | Int32 | वह सरणी अनुक्रमणिका जिसमें मान डालना प्रारंभ करना है. |
-| position | Int64 | स्ट्रीम की स्थिति जिससे पढ़ना है. |
-| count | Int64 | तत्व पढ़ने के लिए गिने जाते हैं। |
+| ऐरे | Byte[] | भरने के लिए एरे। |
+| arrayIndex | Int32 | मान डालना शुरू करने के लिए एरे इंडेक्स। |
+| स्थिति | Int64 | पढ़ने के लिए स्ट्रीम स्थिति। |
+| count | Int64 | पढ़ने के लिए तत्वों की गिनती। |
 
-### प्रतिलाभ की मात्रा
+### रिटर्न वैल्यू
 
-बाइट मानों की सरणी।
+बाइट मानों की एरे।
 
-### यह सभी देखें
+### देखें भी
 
 * class [TiffStreamReader](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Tiff.FileManagement](../../tiffstreamreader/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff.FileManagement](../../../aspose.psd.fileformats.tiff.filemanagement/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## ReadBytes(long, long) {#readbytes}
 
-स्ट्रीम से अहस्ताक्षरित बाइट मानों की एक सरणी पढ़ता है।
+स्ट्रीम से अनसाइन्ड बाइट मानों की एक सरणी पढ़ता है।
 
 ```csharp
 public byte[] ReadBytes(long position, long count)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| position | Int64 | पढ़ने की स्थिति। |
-| count | Int64 | तत्वों की गिनती होती है। |
+| स्थिति | Int64 | पढ़ने के लिए स्थिति। |
+| count | Int64 | तत्वों की गिनती। |
 
-### प्रतिलाभ की मात्रा
+### रिटर्न वैल्यू
 
-अहस्ताक्षरित बाइट मानों की सरणी।
+अनसाइन्ड बाइट मानों की एरे।
 
-### यह सभी देखें
+### देखें भी
 
 * class [TiffStreamReader](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Tiff.FileManagement](../../tiffstreamreader/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff.FileManagement](../../../aspose.psd.fileformats.tiff.filemanagement/)
+* assembly [Aspose.PSD](../../../)
 
 

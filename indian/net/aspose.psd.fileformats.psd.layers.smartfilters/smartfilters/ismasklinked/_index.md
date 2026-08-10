@@ -1,23 +1,24 @@
 ---
-title: SmartFilters.IsMaskLinked
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: SmartFilters संपत्त. स्मर्ट फ़ल्टर क मस्क से जुड़ स्थत प्रप्त करत है
+title: "SmartFilters.IsMaskLinked"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "SmartFilters प्रॉपर्टी. स्मार्ट फ़िल्टर की मास्क लिंक्ड स्थिति प्राप्त करता है।"
 type: docs
 weight: 50
 url: /hi/net/aspose.psd.fileformats.psd.layers.smartfilters/smartfilters/ismasklinked/
 ---
+{{< psd/tize >}}
 ## SmartFilters.IsMaskLinked property
 
-स्मार्ट फ़िल्टर की मास्क से जुड़ी स्थिति प्राप्त करता है।
+स्मार्ट फ़िल्टर की मास्क लिंक्ड स्थिति प्राप्त करता है।
 
 ```csharp
 public bool IsMaskLinked { get; }
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * class [SmartFilters](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.SmartFilters](../../smartfilters/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.SmartFilters](../../../aspose.psd.fileformats.psd.layers.smartfilters/)
+* assembly [Aspose.PSD](../../../)
 
 

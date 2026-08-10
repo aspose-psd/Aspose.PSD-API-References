@@ -1,14 +1,15 @@
 ---
-title: Class LayerGroupInformationResource
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Aspose.PSD.FileFormats.Psd.Resources.LayerGroupInformationResource कक्ष. परत समूह सूचन संसधन
+title: "क्लास LayerGroupInformationResource"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Aspose.PSD.FileFormats.Psd.Resources.LayerGroupInformationResource क्लास। लेयर समूह जानकारी संसाधन"
 type: docs
-weight: 3780
+weight: 4250
 url: /hi/net/aspose.psd.fileformats.psd.resources/layergroupinformationresource/
 ---
+{{< psd/tize >}}
 ## LayerGroupInformationResource class
 
-परत समूह सूचना संसाधन
+लेयर समूह जानकारी संसाधन
 
 ```csharp
 public sealed class LayerGroupInformationResource : ResourceBlock
@@ -18,31 +19,31 @@ public sealed class LayerGroupInformationResource : ResourceBlock
 
 | नाम | विवरण |
 | --- | --- |
-| [LayerGroupInformationResource](layergroupinformationresource/)() | डिफ़ॉल्ट कंस्ट्रक्टर। |
+| [LayerGroupInformationResource](layergroupinformationresource/)() | डिफ़ॉल्ट कन्स्ट्रक्टर। |
 
-## गुण
-
-| नाम | विवरण |
-| --- | --- |
-| override [DataSize](../../aspose.psd.fileformats.psd.resources/layergroupinformationresource/datasize/) { get; } | बाइट्स में संसाधन डेटा आकार प्राप्त करता है। |
-| [Groups](../../aspose.psd.fileformats.psd.resources/layergroupinformationresource/groups/) { get; set; } | समूहों को प्राप्त या सेट करता है। |
-| [ID](../../aspose.psd.fileformats.psd/resourceblock/id/) { get; set; } | संसाधन के लिए अद्वितीय पहचानकर्ता प्राप्त या सेट करता है। |
-| override [MinimalVersion](../../aspose.psd.fileformats.psd.resources/layergroupinformationresource/minimalversion/) { get; } | न्यूनतम आवश्यक PSD संस्करण प्राप्त करता है। |
-| [Name](../../aspose.psd.fileformats.psd/resourceblock/name/) { get; set; } | संसाधन नाम प्राप्त या सेट करता है। पास्कल स्ट्रिंग, आकार को समान बनाने के लिए गद्देदार (शून्य नाम में 0 के दो बाइट होते हैं). |
-| [Signature](../../aspose.psd.fileformats.psd/resourceblock/signature/) { get; } | संसाधन हस्ताक्षर प्राप्त करता है। हमेशा '8BIM' होना चाहिए. |
-| [Size](../../aspose.psd.fileformats.psd/resourceblock/size/) { get; } | अपने डेटा सहित बाइट्स में संसाधन ब्लॉक आकार प्राप्त करता है। |
-
-## तरीकों
+## प्रॉपर्टीज़
 
 | नाम | विवरण |
 | --- | --- |
-| [Save](../../aspose.psd.fileformats.psd/resourceblock/save/)(StreamContainer) | संसाधन ब्लॉक को निर्दिष्ट स्ट्रीम में सहेजता है। |
-| virtual [ValidateValues](../../aspose.psd.fileformats.psd/resourceblock/validatevalues/)() | संसाधन मानों की पुष्टि करता है. |
+| override [DataSize](../../aspose.psd.fileformats.psd.resources/layergroupinformationresource/datasize/) { get; } | संसाधन डेटा आकार को बाइट्स में प्राप्त करता है। |
+| [Groups](../../aspose.psd.fileformats.psd.resources/layergroupinformationresource/groups/) { get; set; } | समूहों को प्राप्त करता है या सेट करता है। |
+| [ID](../../aspose.psd.fileformats.psd/resourceblock/id/) { get; set; } | संसाधन के लिए अद्वितीय पहचानकर्ता को प्राप्त करता है या सेट करता है। |
+| override [MinimalVersion](../../aspose.psd.fileformats.psd.resources/layergroupinformationresource/minimalversion/) { get; } | आवश्यक न्यूनतम PSD संस्करण को प्राप्त करता है। |
+| [Name](../../aspose.psd.fileformats.psd/resourceblock/name/) { get; set; } | संसाधन नाम को प्राप्त करता है या सेट करता है। पास्कल स्ट्रिंग, आकार को सम बनाने के लिए पैड किया गया (एक शून्य नाम दो बाइट्स 0 से बना होता है)। |
+| [Signature](../../aspose.psd.fileformats.psd/resourceblock/signature/) { get; } | संसाधन हस्ताक्षर को प्राप्त करता है। हमेशा '8BIM' होना चाहिए। |
+| [Size](../../aspose.psd.fileformats.psd/resourceblock/size/) { get; } | डेटा सहित संसाधन ब्लॉक आकार को बाइट्स में प्राप्त करता है। |
 
-### यह सभी देखें
+## मेथड्स
+
+| नाम | विवरण |
+| --- | --- |
+| [Save](../../aspose.psd.fileformats.psd/resourceblock/save/)(StreamContainer) | निर्दिष्ट स्ट्रीम में संसाधन ब्लॉक को सहेजता है। |
+| virtual [ValidateValues](../../aspose.psd.fileformats.psd/resourceblock/validatevalues/)() | संसाधन मानों को मान्य करता है। |
+
+### देखें भी
 
 * class [ResourceBlock](../../aspose.psd.fileformats.psd/resourceblock/)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Resources](../../aspose.psd.fileformats.psd.resources/)
-* सभा [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../)
 
 

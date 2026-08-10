@@ -1,27 +1,28 @@
 ---
-title: BlncResource.ShadowsYellowBlueBalance
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: BlncResource संपत्त. छय पल नल संतुलन प्रप्त य सेट करत है
+title: "BlncResource.ShadowsYellowBlueBalance"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "BlncResource प्रॉपर्टी। Shadows Yellow Blue Balance प्राप्त या सेट करता है"
 type: docs
-weight: 140
+weight: 120
 url: /hi/net/aspose.psd.fileformats.psd.layers.layerresources/blncresource/shadowsyellowbluebalance/
 ---
+{{< psd/tize >}}
 ## BlncResource.ShadowsYellowBlueBalance property
 
-छाया पीला नीला संतुलन प्राप्त या सेट करता है।
+Shadows Yellow Blue Balance प्राप्त करता है या सेट करता है।
 
 ```csharp
 public short ShadowsYellowBlueBalance { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-छाया पीला नीला संतुलन।
+यह Shadows Yellow Blue Balance।
 
-### यह सभी देखें
+### देखें भी
 
 * class [BlncResource](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../blncresource/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

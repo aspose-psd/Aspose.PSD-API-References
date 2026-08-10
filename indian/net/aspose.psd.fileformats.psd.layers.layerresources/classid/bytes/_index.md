@@ -1,23 +1,24 @@
 ---
-title: ClassID.Bytes
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: ClassID संपत्त. वर्ग आईड क प्रतनधत्व करने वले बइट प्रप्त करत है
+title: "ClassID.Bytes"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "ClassID प्रॉपर्टी। क्लास ID को दर्शाने वाले बाइट्स प्राप्त करता है"
 type: docs
 weight: 20
 url: /hi/net/aspose.psd.fileformats.psd.layers.layerresources/classid/bytes/
 ---
+{{< psd/tize >}}
 ## ClassID.Bytes property
 
-वर्ग आईडी का प्रतिनिधित्व करने वाले बाइट प्राप्त करता है।
+क्लास ID का प्रतिनिधित्व करने वाले बाइट्स को प्राप्त करता है।
 
 ```csharp
 public byte[] Bytes { get; }
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * class [ClassID](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../classid/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

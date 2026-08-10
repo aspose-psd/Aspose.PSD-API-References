@@ -1,11 +1,12 @@
 ---
-title: ColorMatrix.MatrixDimensionsCount
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: ColorMatrix मैदन. मैट्रक्स आयमं क संख्य
+title: "ColorMatrix.MatrixDimensionsCount"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "ColorMatrix फ़ील्ड। मैट्रिक्स आयामों की संख्या।"
 type: docs
 weight: 300
 url: /hi/net/aspose.psd/colormatrix/matrixdimensionscount/
 ---
+{{< psd/tize >}}
 ## ColorMatrix.MatrixDimensionsCount field
 
 मैट्रिक्स आयामों की संख्या।
@@ -14,10 +15,10 @@ url: /hi/net/aspose.psd/colormatrix/matrixdimensionscount/
 public const int MatrixDimensionsCount;
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * class [ColorMatrix](../)
-* नाम स्थान [Aspose.PSD](../../colormatrix/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

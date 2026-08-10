@@ -1,28 +1,29 @@
 ---
-title: Class GraphicsPathExtensions
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Aspose.PSD.Extensions.GraphicsPathExtensions कक्ष. इसमें शमल हैGraphicsPath वस्तर के तरके
+title: "क्लास GraphicsPathExtensions"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Aspose.PSD.Extensions.GraphicsPathExtensions क्लास। इसमें GraphicsPath एक्सटेंशन मेथड्स शामिल हैं"
 type: docs
-weight: 1100
+weight: 1110
 url: /hi/net/aspose.psd.extensions/graphicspathextensions/
 ---
+{{< psd/tize >}}
 ## GraphicsPathExtensions class
 
-इसमें शामिल है[`GraphicsPath`](../../aspose.psd/graphicspath/) विस्तार के तरीके।
+`[`GraphicsPath`](../../aspose.psd/graphicspath/)` एक्सटेंशन मेथड्स शामिल हैं।
 
 ```csharp
 public static class GraphicsPathExtensions
 ```
 
-## तरीकों
+## मेथड्स
 
 | नाम | विवरण |
 | --- | --- |
-| static [ToGdiGraphicsPath](../../aspose.psd.extensions/graphicspathextensions/togdigraphicspath/)(GraphicsPath) | परिवर्तित करता है[`GraphicsPath`](../../aspose.psd/graphicspath/) तकGraphicsPath . |
+| static [ToGdiGraphicsPath](../../aspose.psd.extensions/graphicspathextensions/togdigraphicspath/)(GraphicsPath) | `[`GraphicsPath`](../../aspose.psd/graphicspath/)` को GraphicsPath में परिवर्तित करता है। |
 
-### यह सभी देखें
+### देखें भी
 
-* नाम स्थान [Aspose.PSD.Extensions](../../aspose.psd.extensions/)
-* सभा [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Extensions](../../aspose.psd.extensions/)
+* assembly [Aspose.PSD](../../)
 
 

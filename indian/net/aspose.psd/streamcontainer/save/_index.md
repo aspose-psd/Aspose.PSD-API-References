@@ -1,133 +1,134 @@
 ---
-title: StreamContainer.Save
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: StreamContainer तरक. स्ट्रम के डेट क नर्दष्ट स्ट्रम में सहेजत है कप करत है
+title: "StreamContainer.Save"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "StreamContainer method. स्ट्रीम के डेटा की प्रतियां निर्दिष्ट स्ट्रीम में सहेजता है"
 type: docs
 weight: 130
 url: /hi/net/aspose.psd/streamcontainer/save/
 ---
+{{< psd/tize >}}
 ## Save(Stream, int, long) {#save_2}
 
-स्ट्रीम के डेटा को निर्दिष्ट स्ट्रीम में सहेजता है (कॉपी करता है)।
+स्ट्रीम के डेटा को निर्दिष्ट स्ट्रीम में सहेजता (कॉपी करता) है।
 
 ```csharp
 public virtual void Save(Stream destinationStream, int bufferSize, long length)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| destinationStream | Stream | डेटा को सहेजने के लिए स्ट्रीम। |
-| bufferSize | Int32 | बफर आकार। डिफ़ॉल्ट रूप से[`ReadWriteBytesCount`](../readwritebytescount/) मूल्य का प्रयोग किया जाता है। |
-| length | Int64 | कॉपी करने के लिए स्ट्रीम डेटा की लंबाई। डिफ़ॉल्ट रूप से लंबाई पर सेट है[`Length`](../length/) कीमत। |
+| destinationStream | Stream | डेटा सहेजने के लिए स्ट्रीम। |
+| bufferSize | Int32 | बफ़र आकार। डिफ़ॉल्ट रूप से [`ReadWriteBytesCount`](../readwritebytescount/) मान उपयोग किया जाता है। |
+| length | Int64 | कॉपी करने के लिए स्ट्रीम डेटा की लंबाई। डिफ़ॉल्ट रूप से लंबाई को [`Length`](../length/) मान पर सेट किया जाता है। |
 
-### यह सभी देखें
+### देखें भी
 
 * class [StreamContainer](../)
-* नाम स्थान [Aspose.PSD](../../streamcontainer/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Save(Stream) {#save}
 
-स्ट्रीम के डेटा को निर्दिष्ट स्ट्रीम में सहेजता है (कॉपी करता है)। डिफ़ॉल्ट बफ़र आकार का उपयोग करता है[`ReadWriteBytesCount`](../readwritebytescount/) और धारा[`Length`](../length/) मान.
+स्ट्रीम के डेटा को निर्दिष्ट स्ट्रीम में सहेजता (कॉपी करता) है। डिफ़ॉल्ट बफ़र आकार [`ReadWriteBytesCount`](../readwritebytescount/) और स्ट्रीम [`Length`](../length/) मान का उपयोग करता है।
 
 ```csharp
 public virtual void Save(Stream destinationStream)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| destinationStream | Stream | डेटा को सहेजने के लिए स्ट्रीम। |
+| destinationStream | Stream | डेटा सहेजने के लिए स्ट्रीम। |
 
-### यह सभी देखें
+### देखें भी
 
 * class [StreamContainer](../)
-* नाम स्थान [Aspose.PSD](../../streamcontainer/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Save(Stream, int) {#save_1}
 
-सभी स्ट्रीम के डेटा को निर्दिष्ट स्ट्रीम में सहेजता है (कॉपी करता है)। स्ट्रीम का उपयोग करता है[`Length`](../length/) मान.
+स्ट्रीम के सभी डेटा को निर्दिष्ट स्ट्रीम में सहेजता (कॉपी करता) है। स्ट्रीम [`Length`](../length/) मान का उपयोग करता है।
 
 ```csharp
 public virtual void Save(Stream destinationStream, int bufferSize)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| destinationStream | Stream | डेटा को सहेजने के लिए स्ट्रीम। |
-| bufferSize | Int32 | बफर। |
+| destinationStream | Stream | डेटा सहेजने के लिए स्ट्रीम। |
+| bufferSize | Int32 | बफ़र। |
 
-### यह सभी देखें
+### देखें भी
 
 * class [StreamContainer](../)
-* नाम स्थान [Aspose.PSD](../../streamcontainer/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Save(string) {#save_3}
 
-स्ट्रीम के डेटा को निर्दिष्ट स्ट्रीम में सहेजता है (कॉपी करता है)। डिफ़ॉल्ट बफ़र आकार का उपयोग करता है[`ReadWriteBytesCount`](../readwritebytescount/) और धारा[`Length`](../length/) मान.
+स्ट्रीम के डेटा को निर्दिष्ट स्ट्रीम में सहेजता (कॉपी करता) है। डिफ़ॉल्ट बफ़र आकार [`ReadWriteBytesCount`](../readwritebytescount/) और स्ट्रीम [`Length`](../length/) मान का उपयोग करता है।
 
 ```csharp
 public virtual void Save(string filePath)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
 | filePath | String | स्ट्रीम डेटा को सहेजने के लिए फ़ाइल पथ। |
 
-### यह सभी देखें
+### देखें भी
 
 * class [StreamContainer](../)
-* नाम स्थान [Aspose.PSD](../../streamcontainer/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Save(string, int) {#save_4}
 
-स्ट्रीम के डेटा को निर्दिष्ट स्ट्रीम में सहेजता है (कॉपी करता है)। स्ट्रीम का उपयोग करता है[`Length`](../length/) मान.
+स्ट्रीम के डेटा को निर्दिष्ट स्ट्रीम में सहेजता (कॉपी करता) है। स्ट्रीम [`Length`](../length/) मान का उपयोग करता है।
 
 ```csharp
 public virtual void Save(string filePath, int bufferSize)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
 | filePath | String | स्ट्रीम डेटा को सहेजने के लिए फ़ाइल पथ। |
-| bufferSize | Int32 | बफर आकार। डिफ़ॉल्ट रूप से[`ReadWriteBytesCount`](../readwritebytescount/) मूल्य का प्रयोग किया जाता है। |
+| bufferSize | Int32 | बफ़र आकार। डिफ़ॉल्ट रूप से [`ReadWriteBytesCount`](../readwritebytescount/) मान उपयोग किया जाता है। |
 
-### यह सभी देखें
+### देखें भी
 
 * class [StreamContainer](../)
-* नाम स्थान [Aspose.PSD](../../streamcontainer/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Save(string, int, long) {#save_5}
 
-स्ट्रीम के डेटा को निर्दिष्ट स्ट्रीम में सहेजता है (कॉपी करता है)।
+स्ट्रीम के डेटा को निर्दिष्ट स्ट्रीम में सहेजता (कॉपी करता) है।
 
 ```csharp
 public virtual void Save(string filePath, int bufferSize, long length)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
 | filePath | String | स्ट्रीम डेटा को सहेजने के लिए फ़ाइल पथ। |
-| bufferSize | Int32 | बफर आकार। डिफ़ॉल्ट रूप से[`ReadWriteBytesCount`](../readwritebytescount/) मूल्य का प्रयोग किया जाता है। |
-| length | Int64 | कॉपी करने के लिए स्ट्रीम डेटा की लंबाई। डिफ़ॉल्ट रूप से लंबाई पर सेट है[`Length`](../length/) कीमत। |
+| bufferSize | Int32 | बफ़र आकार। डिफ़ॉल्ट रूप से [`ReadWriteBytesCount`](../readwritebytescount/) मान उपयोग किया जाता है। |
+| length | Int64 | कॉपी करने के लिए स्ट्रीम डेटा की लंबाई। डिफ़ॉल्ट रूप से लंबाई को [`Length`](../length/) मान पर सेट किया जाता है। |
 
-### यह सभी देखें
+### देखें भी
 
 * class [StreamContainer](../)
-* नाम स्थान [Aspose.PSD](../../streamcontainer/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

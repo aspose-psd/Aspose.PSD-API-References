@@ -1,27 +1,28 @@
 ---
-title: LayerStateInformationResource.LayerIndex
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: LayerStateInformationResource संपत्त. परत क सूचकंक प्रप्त य सेट करत है
+title: "LayerStateInformationResource.LayerIndex"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "LayerStateInformationResource प्रॉपर्टी। लेयर का इंडेक्स प्राप्त या सेट करता है"
 type: docs
 weight: 30
 url: /hi/net/aspose.psd.fileformats.psd.resources/layerstateinformationresource/layerindex/
 ---
+{{< psd/tize >}}
 ## LayerStateInformationResource.LayerIndex property
 
-परत का सूचकांक प्राप्त या सेट करता है।
+लेयर का इंडेक्स प्राप्त करता है या सेट करता है।
 
 ```csharp
 public short LayerIndex { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-परत का सूचकांक।
+लेयर का इंडेक्स।
 
-### यह सभी देखें
+### देखें भी
 
 * class [LayerStateInformationResource](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Resources](../../layerstateinformationresource/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

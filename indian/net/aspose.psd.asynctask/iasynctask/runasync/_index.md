@@ -1,11 +1,12 @@
 ---
-title: IAsyncTask.RunAsync
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: IAsyncTask तरक. इस कर्य क चलत है
+title: "IAsyncTask.RunAsync"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "IAsyncTask मेथड। इस कार्य को चलाता है।"
 type: docs
 weight: 90
 url: /hi/net/aspose.psd.asynctask/iasynctask/runasync/
 ---
+{{< psd/tize >}}
 ## RunAsync() {#runasync}
 
 इस कार्य को चलाता है।
@@ -14,11 +15,11 @@ url: /hi/net/aspose.psd.asynctask/iasynctask/runasync/
 public void RunAsync()
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * interface [IAsyncTask](../)
-* नाम स्थान [Aspose.PSD.AsyncTask](../../iasynctask/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.AsyncTask](../../../aspose.psd.asynctask/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
@@ -30,14 +31,14 @@ public void RunAsync()
 public void RunAsync(ThreadPriority priority)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| priority | ThreadPriority | धागा प्राथमिकता। |
+| प्राथमिकता | ThreadPriority | थ्रेड की प्राथमिकता। |
 
-### यह सभी देखें
+### देखें भी
 
 * interface [IAsyncTask](../)
-* नाम स्थान [Aspose.PSD.AsyncTask](../../iasynctask/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.AsyncTask](../../../aspose.psd.asynctask/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,28 +1,29 @@
 ---
-title: Pen.PenType
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Pen संपत्त. इसके सथ खंच गई रेखओं क शैल प्रप्त करत हैPen .
+title: "Pen.PenType"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Pen प्रॉपर्टी। इस Pen से खींची गई लाइनों की शैली प्राप्त करता है।"
 type: docs
 weight: 150
 url: /hi/net/aspose.psd/pen/pentype/
 ---
+{{< psd/tize >}}
 ## Pen.PenType property
 
-इसके साथ खींची गई रेखाओं की शैली प्राप्त करता है[`Pen`](../) .
+इस [`Pen`](../) से खींची गई लाइनों की शैली प्राप्त करता है।
 
 ```csharp
 public PenType PenType { get; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-ए`PenType` गणना जो इसके साथ खींची गई रेखाओं की शैली को निर्दिष्ट करती है[`Pen`](../).
+`PenType` एनीमरेशन जो इस [`Pen`](../) से खींची गई लाइनों की शैली निर्दिष्ट करता है।
 
-### यह सभी देखें
+### देखें भी
 
 * enum [PenType](../../pentype/)
 * class [Pen](../)
-* नाम स्थान [Aspose.PSD](../../pen/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

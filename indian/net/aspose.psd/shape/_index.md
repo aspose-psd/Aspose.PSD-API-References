@@ -1,40 +1,41 @@
 ---
-title: Class Shape
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Aspose.PSD.Shape कक्ष. आकर एक वशष्ट नयम क उपयग करके जुड़े बंदुओं क एक नरंतर सेट
+title: "क्लास Shape"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Aspose.PSD.Shape क्लास। आकार। बिंदुओं का एक निरंतर सेट जो एक विशिष्ट नियम के अनुसार जुड़ा होता है"
 type: docs
-weight: 5420
+weight: 5920
 url: /hi/net/aspose.psd/shape/
 ---
+{{< psd/tize >}}
 ## Shape class
 
-आकार। एक विशिष्ट नियम का उपयोग करके जुड़े बिंदुओं का एक निरंतर सेट।
+आकृति। एक विशिष्ट नियम का उपयोग करके जुड़े निरंतर बिंदुओं का सेट।
 
 ```csharp
 public abstract class Shape : ObjectWithBounds
 ```
 
-## गुण
+## प्रॉपर्टीज़
 
 | नाम | विवरण |
 | --- | --- |
-| abstract [Bounds](../../aspose.psd/objectwithbounds/bounds/) { get; } | वस्तु की सीमा प्राप्त करता है। |
-| abstract [Center](../../aspose.psd/shape/center/) { get; } | आकार का केंद्र प्राप्त करता है। |
-| abstract [HasSegments](../../aspose.psd/shape/hassegments/) { get; } | एक मान प्राप्त करता है जो बताता है कि आकार में खंड हैं या नहीं। |
-| abstract [Segments](../../aspose.psd/shape/segments/) { get; } | आकार खंड प्राप्त करता है। |
+| abstract [Bounds](../../aspose.psd/objectwithbounds/bounds/) { get; } | ऑब्जेक्ट की सीमाएँ प्राप्त करता है। |
+| abstract [Center](../../aspose.psd/shape/center/) { get; } | आकार के केंद्र को प्राप्त करता है। |
+| abstract [HasSegments](../../aspose.psd/shape/hassegments/) { get; } | एक मान प्राप्त करता है जो दर्शाता है कि आकार में सेगमेंट हैं या नहीं। |
+| abstract [Segments](../../aspose.psd/shape/segments/) { get; } | आकार के खंडों को प्राप्त करता है। |
 
-## तरीकों
+## मेथड्स
 
 | नाम | विवरण |
 | --- | --- |
-| abstract [GetBounds](../../aspose.psd/objectwithbounds/getbounds/)(Matrix) | वस्तु की सीमा प्राप्त करता है। |
-| abstract [GetBounds](../../aspose.psd/objectwithbounds/getbounds/)(Matrix, Pen) | वस्तु की सीमा प्राप्त करता है। |
-| abstract [Transform](../../aspose.psd/objectwithbounds/transform/)(Matrix) | निर्दिष्ट परिवर्तन को आकार में लागू करता है। |
+| abstract [GetBounds](../../aspose.psd/objectwithbounds/getbounds/)(Matrix) | ऑब्जेक्ट की सीमाएँ प्राप्त करता है। |
+| abstract [GetBounds](../../aspose.psd/objectwithbounds/getbounds/)(Matrix, Pen) | ऑब्जेक्ट की सीमाएँ प्राप्त करता है। |
+| abstract [Transform](../../aspose.psd/objectwithbounds/transform/)(Matrix) | निर्दिष्ट परिवर्तन को आकार पर लागू करता है। |
 
-### यह सभी देखें
+### देखें भी
 
 * class [ObjectWithBounds](../objectwithbounds/)
-* नाम स्थान [Aspose.PSD](../../aspose.psd/)
-* सभा [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

@@ -1,24 +1,25 @@
 ---
-title: JpegOptions.ExifData
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: JpegOptions संपत्त. एक्सफ डेट कंटेनर प्रप्त करें य सेट करें
+title: "JpegOptions.ExifData"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "JpegOptions प्रॉपर्टी। exif डेटा कंटेनर को प्राप्त या सेट करता है"
 type: docs
-weight: 70
+weight: 80
 url: /hi/net/aspose.psd.imageoptions/jpegoptions/exifdata/
 ---
+{{< psd/tize >}}
 ## JpegOptions.ExifData property
 
-एक्सिफ डेटा कंटेनर प्राप्त करें या सेट करें
+EXIF डेटा कंटेनर को प्राप्त करें या सेट करें
 
 ```csharp
 public JpegExifData ExifData { get; set; }
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * class [JpegExifData](../../../aspose.psd.exif/jpegexifdata/)
 * class [JpegOptions](../)
-* नाम स्थान [Aspose.PSD.ImageOptions](../../jpegoptions/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

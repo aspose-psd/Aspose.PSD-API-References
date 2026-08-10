@@ -1,28 +1,29 @@
 ---
-title: OSTypeStructure.OSTypeStructure
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: OSTypeStructure नर्मत. क एक नय उदहरण प्ररंभ करत हैOSTypeStructure वर्ग.
+title: "OSTypeStructure.OSTypeStructure"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "OSTypeStructure कंस्ट्रक्टर. OSTypeStructure क्लास का एक नया इंस्टेंस इनिशियलाइज़ करता है."
 type: docs
 weight: 10
 url: /hi/net/aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/ostypestructure/
 ---
+{{< psd/tize >}}
 ## OSTypeStructure constructor
 
-का एक नया उदाहरण प्रारंभ करता है[`OSTypeStructure`](../) वर्ग.
+[`OSTypeStructure`](../) क्लास का एक नया इंस्टेंस इनिशियलाइज़ करता है.
 
 ```csharp
 public OSTypeStructure(ClassID keyName)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| keyName | ClassID | प्रमुख नाम। |
+| keyName | ClassID | कुंजी नाम। |
 
-### यह सभी देखें
+### देखें भी
 
 * class [ClassID](../../classid/)
 * class [OSTypeStructure](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../ostypestructure/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

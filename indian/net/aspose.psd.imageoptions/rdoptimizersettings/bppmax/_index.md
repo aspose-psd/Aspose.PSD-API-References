@@ -1,27 +1,28 @@
 ---
-title: RdOptimizerSettings.BppMax
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: RdOptimizerSettings संपत्त. बट्स प्रत पक्सेल में वचर के लए अधकतम आर मन प्रप्त य सेट करत है
+title: "RdOptimizerSettings.BppMax"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "RdOptimizerSettings property. अधिकतम R मान को बिट्स प्रति पिक्सेल में विचार के लिए प्राप्त या सेट करता है"
 type: docs
 weight: 30
 url: /hi/net/aspose.psd.imageoptions/rdoptimizersettings/bppmax/
 ---
+{{< psd/tize >}}
 ## RdOptimizerSettings.BppMax property
 
-बिट्स प्रति पिक्सेल में विचार के लिए अधिकतम आर मान प्राप्त या सेट करता है
+प्राप्त करता है या सेट करता है अधिकतम R मान पर विचार के लिए बिट प्रति पिक्सेल में
 
 ```csharp
 public double BppMax { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-बिट्स प्रति पिक्सेल में विचार के लिए अधिकतम आर मान।
+बिट्स प्रति पिक्सेल में विचार के लिए अधिकतम R मान।
 
-### यह सभी देखें
+### देखें भी
 
 * class [RdOptimizerSettings](../)
-* नाम स्थान [Aspose.PSD.ImageOptions](../../rdoptimizersettings/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

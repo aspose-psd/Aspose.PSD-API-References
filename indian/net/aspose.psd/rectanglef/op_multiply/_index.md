@@ -1,32 +1,33 @@
 ---
-title: RectangleF.op_Multiply
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: RectangleF तरक. ऑपरेटर क लगू करत है .
+title: "RectangleF.op_Multiply"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "RectangleF मेथड। ऑपरेटर को लागू करता है"
 type: docs
 weight: 300
 url: /hi/net/aspose.psd/rectanglef/op_multiply/
 ---
+{{< psd/tize >}}
 ## RectangleF Multiply operator
 
-ऑपरेटर को लागू करता है *.
+ऑपरेटर * को लागू करता है।
 
 ```csharp
 public static RectangleF operator *(RectangleF rectangle, float multiplier)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| rectangle | RectangleF | आयत। |
-| multiplier | Single | गुणक। |
+| आयत | RectangleF | आयत। |
+| गुणक | Single | गुणक। |
 
-### प्रतिलाभ की मात्रा
+### रिटर्न वैल्यू
 
 ऑपरेटर का परिणाम।
 
-### यह सभी देखें
+### देखें भी
 
 * struct [RectangleF](../)
-* नाम स्थान [Aspose.PSD](../../rectanglef/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

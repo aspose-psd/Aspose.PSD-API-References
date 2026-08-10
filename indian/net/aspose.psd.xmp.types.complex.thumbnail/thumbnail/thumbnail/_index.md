@@ -1,44 +1,45 @@
 ---
-title: Thumbnail.Thumbnail
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Thumbnail नर्मत. क एक नय उदहरण प्ररंभ करत हैThumbnail वर्ग.
+title: "Thumbnail.Thumbnail"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Thumbnail कंस्ट्रक्टर। Thumbnail क्लास का नया इंस्टेंस इनिशियलाइज़ करता है"
 type: docs
 weight: 10
 url: /hi/net/aspose.psd.xmp.types.complex.thumbnail/thumbnail/thumbnail/
 ---
+{{< psd/tize >}}
 ## Thumbnail() {#constructor}
 
-का एक नया उदाहरण प्रारंभ करता है[`Thumbnail`](../) वर्ग.
+[`Thumbnail`](../) क्लास का नया इंस्टेंस इनिशियलाइज़ करता है।
 
 ```csharp
 public Thumbnail()
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * class [Thumbnail](../)
-* नाम स्थान [Aspose.PSD.Xmp.Types.Complex.Thumbnail](../../thumbnail/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.Thumbnail](../../../aspose.psd.xmp.types.complex.thumbnail/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Thumbnail(int, int) {#constructor_1}
 
-का एक नया उदाहरण प्रारंभ करता है[`Thumbnail`](../) वर्ग.
+[`Thumbnail`](../) क्लास का नया इंस्टेंस इनिशियलाइज़ करता है।
 
 ```csharp
 public Thumbnail(int width, int height)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| width | Int32 | चौड़ाई। |
-| height | Int32 | ऊंचाई। |
+| चौड़ाई | Int32 | चौड़ाई। |
+| ऊँचाई | Int32 | ऊँचाई। |
 
-### यह सभी देखें
+### देखें भी
 
 * class [Thumbnail](../)
-* नाम स्थान [Aspose.PSD.Xmp.Types.Complex.Thumbnail](../../thumbnail/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.Thumbnail](../../../aspose.psd.xmp.types.complex.thumbnail/)
+* assembly [Aspose.PSD](../../../)
 
 

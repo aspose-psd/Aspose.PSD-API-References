@@ -1,27 +1,28 @@
 ---
-title: Image.Width
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Image संपत्त. छव चड़ई प्रप्त करत है
+title: "Image.Width"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Image प्रॉपर्टी। छवि की चौड़ाई प्राप्त करता है।"
 type: docs
-weight: 150
+weight: 160
 url: /hi/net/aspose.psd/image/width/
 ---
+{{< psd/tize >}}
 ## Image.Width property
 
-छवि चौड़ाई प्राप्त करता है।
+छवि की चौड़ाई प्राप्त करता है।
 
 ```csharp
 public abstract int Width { get; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-छवि की चौड़ाई।
+इमेज की चौड़ाई।
 
-### यह सभी देखें
+### देखें भी
 
 * class [Image](../)
-* नाम स्थान [Aspose.PSD](../../image/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

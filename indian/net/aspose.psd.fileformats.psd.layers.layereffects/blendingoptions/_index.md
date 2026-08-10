@@ -1,40 +1,42 @@
 ---
-title: Class BlendingOptions
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerEffects.BlendingOptions कक्ष. सम्मश्रण वकल्प यह Lfx2Resource के लए एक आवरण है ज परत प्रभव के लए एपआई प्रदन करत है
+title: "क्लास BlendingOptions"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Aspose.PSD.FileFormats.Psd.Layers.LayerEffects.BlendingOptions क्लास। BlendingOptions। यह BaseFxResource के लिए एक रैपर है जो लेयर इफ़ेक्ट्स के लिए API प्रदान करता है।"
 type: docs
-weight: 2100
+weight: 2290
 url: /hi/net/aspose.psd.fileformats.psd.layers.layereffects/blendingoptions/
 ---
+{{< psd/tize >}}
 ## BlendingOptions class
 
-सम्मिश्रण विकल्प। यह Lfx2Resource के लिए एक आवरण है जो परत प्रभाव के लिए एपीआई प्रदान करता है
+BlendingOptions। यह BaseFxResource के लिए एक रैपर है जो लेयर इफ़ेक्ट्स के लिए API प्रदान करता है।
 
 ```csharp
 public class BlendingOptions
 ```
 
-## गुण
+## प्रॉपर्टीज़
 
 | नाम | विवरण |
 | --- | --- |
-| [Effects](../../aspose.psd.fileformats.psd.layers.layereffects/blendingoptions/effects/) { get; } | प्रभाव प्राप्त करता है। |
+| [AreEffectsEnabled](../../aspose.psd.fileformats.psd.layers.layereffects/blendingoptions/areeffectsenabled/) { get; set; } | सभी लेयर इफ़ेक्ट्स की दृश्यता को प्राप्त करता है या सेट करता है। |
+| [Effects](../../aspose.psd.fileformats.psd.layers.layereffects/blendingoptions/effects/) { get; set; } | इफ़ेक्ट्स को प्राप्त करता है। |
 
-## तरीकों
+## मेथड्स
 
 | नाम | विवरण |
 | --- | --- |
-| [AddColorOverlay](../../aspose.psd.fileformats.psd.layers.layereffects/blendingoptions/addcoloroverlay/)() | रंग ओवरले जोड़ता है. |
-| [AddDropShadow](../../aspose.psd.fileformats.psd.layers.layereffects/blendingoptions/adddropshadow/)() | ड्रॉप शैडो प्रभाव जोड़ता है. |
+| [AddColorOverlay](../../aspose.psd.fileformats.psd.layers.layereffects/blendingoptions/addcoloroverlay/)() | कलर ओवरले जोड़ता है। |
+| [AddDropShadow](../../aspose.psd.fileformats.psd.layers.layereffects/blendingoptions/adddropshadow/)() | ड्रॉप शैडो इफ़ेक्ट जोड़ता है। |
 | [AddGradientOverlay](../../aspose.psd.fileformats.psd.layers.layereffects/blendingoptions/addgradientoverlay/)() | ग्रेडिएंट ओवरले जोड़ता है। |
-| [AddInnerShadow](../../aspose.psd.fileformats.psd.layers.layereffects/blendingoptions/addinnershadow/)() | आंतरिक छाया प्रभाव जोड़ता है। |
-| [AddOuterGlow](../../aspose.psd.fileformats.psd.layers.layereffects/blendingoptions/addouterglow/)() | बाहरी चमक प्रभाव जोड़ता है। |
-| [AddPatternOverlay](../../aspose.psd.fileformats.psd.layers.layereffects/blendingoptions/addpatternoverlay/)() | पैटर्न ओवरले जोड़ता है. |
-| [AddStroke](../../aspose.psd.fileformats.psd.layers.layereffects/blendingoptions/addstroke/)(FillType) | स्ट्रोक प्रभाव जोड़ता है। |
+| [AddInnerShadow](../../aspose.psd.fileformats.psd.layers.layereffects/blendingoptions/addinnershadow/)() | इंटर शैडो इफ़ेक्ट जोड़ता है। |
+| [AddOuterGlow](../../aspose.psd.fileformats.psd.layers.layereffects/blendingoptions/addouterglow/)() | आउटर ग्लो इफ़ेक्ट जोड़ता है। |
+| [AddPatternOverlay](../../aspose.psd.fileformats.psd.layers.layereffects/blendingoptions/addpatternoverlay/)() | पैटर्न ओवरले जोड़ता है। |
+| [AddStroke](../../aspose.psd.fileformats.psd.layers.layereffects/blendingoptions/addstroke/)(FillType) | स्ट्रोक इफ़ेक्ट जोड़ता है। |
 
-### उदाहरण
+## उदाहरण
 
-निम्न कोड दर्शाता है कि इनर शैडो लेयर इफेक्ट की सेटिंग्स को कैसे बदलना है।
+निम्नलिखित कोड दिखाता है कि इंटीरियर शैडो लेयर इफ़ेक्ट की सेटिंग्स को कैसे बदलें।
 
 ```csharp
 [C#]
@@ -42,7 +44,7 @@ public class BlendingOptions
 string sourceFile = "example.psd";
 string outputFile = "sample_out.psd";
 
-// मौजूदा छवि को PsdImage वर्ग के उदाहरण में लोड करें
+// एक मौजूदा छवि को PsdImage क्लास के एक इंस्टेंस में लोड करें।
 var loadOptions = new PsdLoadOptions();
 loadOptions.LoadEffectsResource = true;
 using (var image = (PsdImage)Image.Load(sourceFile, loadOptions))
@@ -63,9 +65,9 @@ using (var image = (PsdImage)Image.Load(sourceFile, loadOptions))
 }
 ```
 
-### यह सभी देखें
+### देखें भी
 
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../aspose.psd.fileformats.psd.layers.layereffects/)
-* सभा [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../)
 
 

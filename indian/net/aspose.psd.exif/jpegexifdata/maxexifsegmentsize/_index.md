@@ -1,23 +1,24 @@
 ---
-title: JpegExifData.MaxExifSegmentSize
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: JpegExifData मैदन. बइट्स में अधकतम EXIF सेगमेंट आकर क अनुमत है
+title: "JpegExifData.MaxExifSegmentSize"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "JpegExifData फ़ील्ड। अनुमत अधिकतम EXIF सेगमेंट आकार बाइट्स में"
 type: docs
 weight: 280
 url: /hi/net/aspose.psd.exif/jpegexifdata/maxexifsegmentsize/
 ---
+{{< psd/tize >}}
 ## JpegExifData.MaxExifSegmentSize field
 
-बाइट्स में अधिकतम EXIF सेगमेंट आकार की अनुमति है।
+अनुमत अधिकतम EXIF सेगमेंट आकार बाइट्स में।
 
 ```csharp
 public const int MaxExifSegmentSize;
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * class [JpegExifData](../)
-* नाम स्थान [Aspose.PSD.Exif](../../jpegexifdata/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

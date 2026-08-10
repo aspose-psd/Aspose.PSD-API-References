@@ -1,23 +1,24 @@
 ---
-title: XmpDynamicMediaPackage.XmpDynamicMediaPackage
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: XmpDynamicMediaPackage नर्मत. डफ़ल्ट कंस्ट्रक्टर
+title: "XmpDynamicMediaPackage.XmpDynamicMediaPackage"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "XmpDynamicMediaPackage कंस्ट्रक्टर। डिफ़ॉल्ट कंस्ट्रक्टर"
 type: docs
 weight: 10
 url: /hi/net/aspose.psd.xmp.schemas.xmpdm/xmpdynamicmediapackage/xmpdynamicmediapackage/
 ---
+{{< psd/tize >}}
 ## XmpDynamicMediaPackage constructor
 
-डिफ़ॉल्ट कंस्ट्रक्टर।
+डिफ़ॉल्ट कन्स्ट्रक्टर।
 
 ```csharp
 public XmpDynamicMediaPackage()
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * class [XmpDynamicMediaPackage](../)
-* नाम स्थान [Aspose.PSD.Xmp.Schemas.XmpDm](../../xmpdynamicmediapackage/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpDm](../../../aspose.psd.xmp.schemas.xmpdm/)
+* assembly [Aspose.PSD](../../../)
 
 

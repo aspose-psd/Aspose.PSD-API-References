@@ -1,23 +1,24 @@
 ---
-title: IopaResource.Signature
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: IopaResource संपत्त. हस्तक्षर ह जत है
+title: "IopaResource.Signature"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "IopaResource प्रॉपर्टी। हस्ताक्षर प्राप्त करता है"
 type: docs
 weight: 60
 url: /hi/net/aspose.psd.fileformats.psd.layers.layerresources/ioparesource/signature/
 ---
+{{< psd/tize >}}
 ## IopaResource.Signature property
 
-हस्ताक्षर हो जाता है।
+हस्ताक्षर प्राप्त करता है।
 
 ```csharp
 public override int Signature { get; }
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * class [IopaResource](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../ioparesource/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: Class GradientTransparencyPoint
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Aspose.PSD.FileFormats.Psd.Layers.FillSettings.GradientTransparencyPoint कक्ष. ग्रेडएंट ट्रंसपेरेंस पइंट
+title: "क्लास GradientTransparencyPoint"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Aspose.PSD.FileFormats.Psd.Layers.FillSettings.GradientTransparencyPoint क्लास। Gradient Transparency Point"
 type: docs
-weight: 1970
+weight: 2090
 url: /hi/net/aspose.psd.fileformats.psd.layers.fillsettings/gradienttransparencypoint/
 ---
+{{< psd/tize >}}
 ## GradientTransparencyPoint class
 
 ग्रेडिएंट ट्रांसपेरेंसी पॉइंट
@@ -18,20 +19,20 @@ public class GradientTransparencyPoint : IGradientTransparencyPoint
 
 | नाम | विवरण |
 | --- | --- |
-| [GradientTransparencyPoint](gradienttransparencypoint/)() | का एक नया उदाहरण प्रारंभ करता है`GradientTransparencyPoint` वर्ग. |
+| [GradientTransparencyPoint](gradienttransparencypoint/)() | `GradientTransparencyPoint` क्लास का नया इंस्टेंस इनिशियलाइज़ करता है। |
 
-## गुण
+## प्रॉपर्टीज़
 
 | नाम | विवरण |
 | --- | --- |
-| [Location](../../aspose.psd.fileformats.psd.layers.fillsettings/gradienttransparencypoint/location/) { get; set; } | स्थान प्राप्त या सेट करता है। |
-| [MedianPointLocation](../../aspose.psd.fileformats.psd.layers.fillsettings/gradienttransparencypoint/medianpointlocation/) { get; set; } | मध्य बिंदु स्थान प्राप्त या सेट करता है। |
-| [Opacity](../../aspose.psd.fileformats.psd.layers.fillsettings/gradienttransparencypoint/opacity/) { get; set; } | रंग प्राप्त या सेट करता है। |
+| [Location](../../aspose.psd.fileformats.psd.layers.fillsettings/gradienttransparencypoint/location/) { get; set; } | स्थान प्राप्त करता है या सेट करता है। |
+| [MedianPointLocation](../../aspose.psd.fileformats.psd.layers.fillsettings/gradienttransparencypoint/medianpointlocation/) { get; set; } | मीडियन पॉइंट स्थान प्राप्त करता है या सेट करता है। |
+| [Opacity](../../aspose.psd.fileformats.psd.layers.fillsettings/gradienttransparencypoint/opacity/) { get; set; } | रंग प्राप्त करता है या सेट करता है। |
 
-### यह सभी देखें
+### देखें भी
 
 * interface [IGradientTransparencyPoint](../igradienttransparencypoint/)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../aspose.psd.fileformats.psd.layers.fillsettings/)
-* सभा [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../)
 
 

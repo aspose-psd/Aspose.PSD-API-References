@@ -1,27 +1,28 @@
 ---
-title: TiffStreamWriter.WriteUShort
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: TiffStreamWriter तरक. स्ट्रम के लए एक अहस्तक्षरत लघु मन लखत है
+title: "TiffStreamWriter विधि। स्ट्रीम में एक अनसाइनड शॉर्ट मान लिखता है"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "TiffStreamWriter.WriteUShort"
 type: docs
 weight: 220
 url: /hi/net/aspose.psd.fileformats.tiff.filemanagement/tiffstreamwriter/writeushort/
 ---
+{{< psd/tize >}}
 ## TiffStreamWriter.WriteUShort method
 
-स्ट्रीम के लिए एक अहस्ताक्षरित लघु मान लिखता है।
+स्ट्रीम में एक एकल अनसाइन्ड शॉर्ट मान लिखता है।
 
 ```csharp
 public void WriteUShort(ushort data)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| data | UInt16 | लिखने का मूल्य। |
+| डेटा | UInt16 | लिखने के लिए मान। |
 
-### यह सभी देखें
+### देखें भी
 
 * class [TiffStreamWriter](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Tiff.FileManagement](../../tiffstreamwriter/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff.FileManagement](../../../aspose.psd.fileformats.tiff.filemanagement/)
+* assembly [Aspose.PSD](../../../)
 
 

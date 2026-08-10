@@ -1,28 +1,29 @@
 ---
-title: XmpMeta.AddAttribute
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: XmpMeta तरक. वशेषत जड़त है
+title: "XmpMeta.AddAttribute"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "XmpMeta मेथड। विशेषता जोड़ता है"
 type: docs
 weight: 30
 url: /hi/net/aspose.psd.xmp/xmpmeta/addattribute/
 ---
+{{< psd/tize >}}
 ## XmpMeta.AddAttribute method
 
-विशेषता जोड़ता है।
+ऐट्रिब्यूट जोड़ता है।
 
 ```csharp
 public override void AddAttribute(string attribute, string value)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| attribute | String | विशेषता। |
-| value | String | मूल्य। |
+| विशेषता | String | विशेषता। |
+| मान | String | मान। |
 
-### यह सभी देखें
+### देखें भी
 
 * class [XmpMeta](../)
-* नाम स्थान [Aspose.PSD.Xmp](../../xmpmeta/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

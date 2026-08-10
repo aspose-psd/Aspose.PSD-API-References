@@ -1,23 +1,24 @@
 ---
-title: TimeLine.AFSt
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: TimeLine संपत्त. AFSt मन प्रप्त य सेट करत है
+title: "Timeline.AFSt"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Timeline प्रॉपर्टी. AFSt मान को प्राप्त करता है या सेट करता है"
 type: docs
-weight: 40
+weight: 30
 url: /hi/net/aspose.psd.fileformats.psd.layers.animation/timeline/afst/
 ---
-## TimeLine.AFSt property
+{{< psd/tize >}}
+## Timeline.AFSt property
 
-AFSt मान प्राप्त या सेट करता है।
+AFSt मान प्राप्त करता है या सेट करता है।
 
 ```csharp
 public int AFSt { get; set; }
 ```
 
-### यह सभी देखें
+### देखें भी
 
-* class [TimeLine](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.Animation](../../timeline/)
-* सभा [Aspose.PSD](../../../)
+* class [Timeline](../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.Animation](../../../aspose.psd.fileformats.psd.layers.animation/)
+* assembly [Aspose.PSD](../../../)
 
 

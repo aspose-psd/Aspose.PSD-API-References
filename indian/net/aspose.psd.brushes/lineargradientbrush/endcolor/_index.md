@@ -1,28 +1,29 @@
 ---
-title: LinearGradientBrush.EndColor
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: LinearGradientBrush संपत्त. अंतम ग्रेडएंट रंग प्रप्त य सेट करत है
+title: "LinearGradientBrush.EndColor"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "LinearGradientBrush गुण। समाप्ति ग्रेडिएंट रंग को प्राप्त करता है या सेट करता है"
 type: docs
 weight: 30
 url: /hi/net/aspose.psd.brushes/lineargradientbrush/endcolor/
 ---
+{{< psd/tize >}}
 ## LinearGradientBrush.EndColor property
 
-अंतिम ग्रेडिएंट रंग प्राप्त या सेट करता है।
+समाप्ति ग्रेडिएंट रंग को प्राप्त करता है या सेट करता है।
 
 ```csharp
 public Color EndColor { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-अंतिम ग्रेडिएंट रंग।
+समाप्ति ग्रेडिएंट रंग।
 
-### यह सभी देखें
+### देखें भी
 
 * struct [Color](../../../aspose.psd/color/)
 * class [LinearGradientBrush](../)
-* नाम स्थान [Aspose.PSD.Brushes](../../lineargradientbrush/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
+* assembly [Aspose.PSD](../../../)
 
 

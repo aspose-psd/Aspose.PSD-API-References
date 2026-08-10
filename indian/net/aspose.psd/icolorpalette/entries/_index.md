@@ -1,32 +1,33 @@
 ---
-title: IColorPalette.Entries
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: IColorPalette संपत्त. क एक सरण प्रप्त करत हैColor संरचनएं.
+title: "IColorPalette.Entries"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "IColorPalette प्रॉपर्टी। Color संरचनाओं की एक एरे प्राप्त करता है"
 type: docs
 weight: 20
 url: /hi/net/aspose.psd/icolorpalette/entries/
 ---
+{{< psd/tize >}}
 ## IColorPalette.Entries property
 
-की एक सरणी प्राप्त करता है[`Color`](../../color/) संरचनाएं.
+[`Color`](../../color/) संरचनाओं की एक एरे प्राप्त करता है।
 
 ```csharp
 public Color[] Entries { get; }
 ```
 
-### प्रतिलाभ की मात्रा
+### रिटर्न वैल्यू
 
-की सरणी[`Color`](../../color/) संरचना जो इसे बनाती है[`ColorPalette`](../../colorpalette/) .
+यह [`ColorPalette`](../../colorpalette/) बनाती हुई [`Color`](../../color/) संरचनाओं की एरे।
 
-### संपत्ति मूल्य
+### Property Value
 
-प्रविष्टियाँ।
+एंट्रीज़।
 
-### यह सभी देखें
+### देखें भी
 
 * struct [Color](../../color/)
 * interface [IColorPalette](../)
-* नाम स्थान [Aspose.PSD](../../icolorpalette/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: TiffOptions.IccProfile
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: TiffOptions संपत्त. Icc प्रफ़इल स्ट्रम प्रप्त य सेट करत है.
+title: "TiffOptions.IccProfile"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "TiffOptions प्रॉपर्टी। Icc प्रोफ़ाइल स्ट्रीम को प्राप्त करता है या सेट करता है"
 type: docs
-weight: 180
+weight: 190
 url: /hi/net/aspose.psd.imageoptions/tiffoptions/iccprofile/
 ---
+{{< psd/tize >}}
 ## TiffOptions.IccProfile property
 
-Icc प्रोफ़ाइल स्ट्रीम प्राप्त या सेट करता है.
+Icc प्रोफ़ाइल स्ट्रीम को प्राप्त या सेट करता है।
 
 ```csharp
 public MemoryStream IccProfile { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-आईसीसी प्रोफाइल.
+icc प्रोफ़ाइल।
 
-### यह सभी देखें
+### देखें भी
 
 * class [TiffOptions](../)
-* नाम स्थान [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

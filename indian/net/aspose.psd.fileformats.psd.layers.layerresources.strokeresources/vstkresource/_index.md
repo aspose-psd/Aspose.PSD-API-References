@@ -1,14 +1,15 @@
 ---
-title: Class VstkResource
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.StrokeResources.VstkResource कक्ष. संसधन वर्ग VstkResource. वेक्टर स्ट्रक डेट के बरे में जनकर शमल है
+title: "क्लास VstkResource"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Aspose.PSD.FileFormats.Psd.Layers.LayerResources.StrokeResources.VstkResource क्लास। रिसोर्स क्लास VstkResource। वेक्टर स्ट्रोक डेटा के बारे में जानकारी रखता है। रिसोर्स को या तो ResourceLoader की AssignItems मेथड द्वारा या क्लास की प्रॉपर्टीज़ को मान असाइन करके प्रारंभ किया जाना चाहिए।"
 type: docs
-weight: 3060
+weight: 3440
 url: /hi/net/aspose.psd.fileformats.psd.layers.layerresources.strokeresources/vstkresource/
 ---
+{{< psd/tize >}}
 ## VstkResource class
 
-संसाधन वर्ग VstkResource. वेक्टर स्ट्रोक डेटा के बारे में जानकारी शामिल है।
+रिसोर्स क्लास VstkResource। यह वेक्टर स्ट्रोक डेटा के बारे में जानकारी रखता है। रिसोर्स को या तो ResourceLoader से AssignItems मेथड द्वारा, या क्लास की प्रॉपर्टीज़ को वैल्यू असाइन करके इनिशियलाइज़ किया जाना चाहिए।
 
 ```csharp
 public class VstkResource : LayerResource
@@ -18,50 +19,51 @@ public class VstkResource : LayerResource
 
 | नाम | विवरण |
 | --- | --- |
-| [VstkResource](vstkresource/)() | डिफ़ॉल्ट कंस्ट्रक्टर। |
+| [VstkResource](vstkresource/)() | डिफ़ॉल्ट कन्स्ट्रक्टर। |
 
-## गुण
-
-| नाम | विवरण |
-| --- | --- |
-| [FillEnabled](../../aspose.psd.fileformats.psd.layers.layerresources.strokeresources/vstkresource/fillenabled/) { get; set; } | एक मान प्राप्त करता है या सेट करता है जो इंगित करता है कि क्या स्ट्रोक भरण सक्षम है। |
-| override [Key](../../aspose.psd.fileformats.psd.layers.layerresources.strokeresources/vstkresource/key/) { get; } | परत संसाधन कुंजी प्राप्त करता है. |
-| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources.strokeresources/vstkresource/length/) { get; } | बाइट्स में परत संसाधन लंबाई प्राप्त करता है। |
-| override [PsdVersion](../../aspose.psd.fileformats.psd.layers.layerresources.strokeresources/vstkresource/psdversion/) { get; } | पीएसडी संस्करण प्राप्त करता है। |
-| override [Signature](../../aspose.psd.fileformats.psd.layers.layerresources.strokeresources/vstkresource/signature/) { get; } | हस्ताक्षर हो जाता है। |
-| [StrokeEnabled](../../aspose.psd.fileformats.psd.layers.layerresources.strokeresources/vstkresource/strokeenabled/) { get; set; } | स्ट्रोक प्रभाव सक्षम है या नहीं यह इंगित करने वाला मान प्राप्त या सेट करता है। |
-| [StrokeStyleBlendMode](../../aspose.psd.fileformats.psd.layers.layerresources.strokeresources/vstkresource/strokestyleblendmode/) { get; set; } | स्ट्रोक ब्लेंड मोड प्राप्त या सेट करता है। |
-| [StrokeStyleContent](../../aspose.psd.fileformats.psd.layers.layerresources.strokeresources/vstkresource/strokestylecontent/) { get; set; } | स्ट्रोक इकाई प्राप्त या सेट करता है। गुण स्ट्रोक की भरण सेटिंग निर्धारित करता है. |
-| [StrokeStyleLineAlignment](../../aspose.psd.fileformats.psd.layers.layerresources.strokeresources/vstkresource/strokestylelinealignment/) { get; set; } | स्ट्रोक स्टाइल लाइन संरेखण प्राप्त या सेट करता है। |
-| [StrokeStyleLineCapType](../../aspose.psd.fileformats.psd.layers.layerresources.strokeresources/vstkresource/strokestylelinecaptype/) { get; set; } | स्ट्रोक स्टाइल लाइन कैप के प्रकार को प्राप्त या सेट करता है। |
-| [StrokeStyleLineCapWidth](../../aspose.psd.fileformats.psd.layers.layerresources.strokeresources/vstkresource/strokestylelinecapwidth/) { get; set; } | स्ट्रोक लाइन कैप चौड़ाई प्राप्त या सेट करता है। |
-| [StrokeStyleLineDashOffset](../../aspose.psd.fileformats.psd.layers.layerresources.strokeresources/vstkresource/strokestylelinedashoffset/) { get; set; } | स्ट्रोक स्टाइल लाइन डैश ऑफ़सेट प्राप्त या सेट करता है। |
-| [StrokeStyleLineDashSet](../../aspose.psd.fileformats.psd.layers.layerresources.strokeresources/vstkresource/strokestylelinedashset/) { get; set; } | लाइन डैश की सरणी प्राप्त या सेट करता है। |
-| [StrokeStyleLineJoinType](../../aspose.psd.fileformats.psd.layers.layerresources.strokeresources/vstkresource/strokestylelinejointype/) { get; set; } | स्ट्रोक स्टाइल लाइन ज्वाइन टाइप प्राप्त या सेट करता है। |
-| [StrokeStyleLineWidth](../../aspose.psd.fileformats.psd.layers.layerresources.strokeresources/vstkresource/strokestylelinewidth/) { get; set; } | स्ट्रोक लाइन की चौड़ाई प्राप्त या सेट करता है। |
-| [StrokeStyleMiterLimit](../../aspose.psd.fileformats.psd.layers.layerresources.strokeresources/vstkresource/strokestylemiterlimit/) { get; set; } | स्ट्रोक स्टाइल मैटर सीमा प्राप्त या सेट करता है। |
-| [StrokeStyleOpacity](../../aspose.psd.fileformats.psd.layers.layerresources.strokeresources/vstkresource/strokestyleopacity/) { get; set; } | स्ट्रोक स्ट्रील अपारदर्शिता (0-100%) प्राप्त या सेट करता है। |
-| [StrokeStyleResolution](../../aspose.psd.fileformats.psd.layers.layerresources.strokeresources/vstkresource/strokestyleresolution/) { get; set; } | स्ट्रोक स्टाइल रिज़ॉल्यूशन प्राप्त या सेट करता है। |
-| [StrokeStyleScaleLock](../../aspose.psd.fileformats.psd.layers.layerresources.strokeresources/vstkresource/strokestylescalelock/) { get; set; } | स्ट्रोक स्टाइल स्केल लॉक प्राप्त या सेट करता है। |
-| [StrokeStyleStrokeAdjust](../../aspose.psd.fileformats.psd.layers.layerresources.strokeresources/vstkresource/strokestylestrokeadjust/) { get; set; } | स्ट्रोक एडजस्ट करता है या सेट करता है। |
-| [StrokeStyleVersion](../../aspose.psd.fileformats.psd.layers.layerresources.strokeresources/vstkresource/strokestyleversion/) { get; set; } | स्ट्रोक स्टाइल संस्करण प्राप्त या सेट करता है। |
-
-## तरीकों
+## प्रॉपर्टीज़
 
 | नाम | विवरण |
 | --- | --- |
-| override [Save](../../aspose.psd.fileformats.psd.layers.layerresources.strokeresources/vstkresource/save/)(StreamContainer, int) | संसाधन को निर्दिष्ट स्ट्रीम कंटेनर में सहेजता है। |
-| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring/)() | रिटर्न एString जो इस उदाहरण का प्रतिनिधित्व करता है। |
+| [FillEnabled](../../aspose.psd.fileformats.psd.layers.layerresources.strokeresources/vstkresource/fillenabled/) { get; set; } | स्ट्रोक फ़िल सक्षम है या नहीं दर्शाने वाला मान प्राप्त करता या सेट करता है। |
+| [FillSettings](../../aspose.psd.fileformats.psd.layers.layerresources.strokeresources/vstkresource/fillsettings/) { get; set; } | स्ट्रोक की फ़िल सेटिंग्स प्राप्त करता या सेट करता है। |
+| [Key](../../aspose.psd.fileformats.psd.layers/layerresource/key/) { get; } | लेयर रिसोर्स कुंजी प्राप्त करता है। |
+| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources.strokeresources/vstkresource/length/) { get; } | बाइट्स में लेयर रिसोर्स की लंबाई प्राप्त करता है। |
+| virtual [PsdVersion](../../aspose.psd.fileformats.psd.layers/layerresource/psdversion/) { get; } | लेयर रिसोर्स के लिए आवश्यक न्यूनतम PSD संस्करण प्राप्त करता है। 0 का अर्थ कोई प्रतिबंध नहीं है। |
+| virtual [Signature](../../aspose.psd.fileformats.psd.layers/layerresource/signature/) { get; } | हस्ताक्षर प्राप्त करता है। |
+| [StrokeEnabled](../../aspose.psd.fileformats.psd.layers.layerresources.strokeresources/vstkresource/strokeenabled/) { get; set; } | स्ट्रोक इफ़ेक्ट सक्षम है या नहीं दर्शाने वाला मान प्राप्त करता या सेट करता है। |
+| [StrokeStyleBlendMode](../../aspose.psd.fileformats.psd.layers.layerresources.strokeresources/vstkresource/strokestyleblendmode/) { get; set; } | स्ट्रोक ब्लेंड मोड प्राप्त करता या सेट करता है। |
+| [StrokeStyleContent](../../aspose.psd.fileformats.psd.layers.layerresources.strokeresources/vstkresource/strokestylecontent/) { get; set; } | स्ट्रोक एंटिटी प्राप्त करता या सेट करता है। प्रॉपर्टी स्ट्रोक की फ़िल सेटिंग्स निर्धारित करती है। |
+| [StrokeStyleLineAlignment](../../aspose.psd.fileformats.psd.layers.layerresources.strokeresources/vstkresource/strokestylelinealignment/) { get; set; } | स्ट्रोक शैली की लाइन संरेखण प्राप्त करता या सेट करता है। |
+| [StrokeStyleLineCapType](../../aspose.psd.fileformats.psd.layers.layerresources.strokeresources/vstkresource/strokestylelinecaptype/) { get; set; } | स्ट्रोक स्टाइल लाइन कैप के प्रकार को प्राप्त करता या सेट करता है। |
+| [StrokeStyleLineCapWidth](../../aspose.psd.fileformats.psd.layers.layerresources.strokeresources/vstkresource/strokestylelinecapwidth/) { get; set; } | स्ट्रोक लाइन कैप की चौड़ाई प्राप्त करता या सेट करता है। |
+| [StrokeStyleLineDashOffset](../../aspose.psd.fileformats.psd.layers.layerresources.strokeresources/vstkresource/strokestylelinedashoffset/) { get; set; } | स्ट्रोक स्टाइल लाइन डैश ऑफ़सेट प्राप्त करता या सेट करता है। |
+| [StrokeStyleLineDashSet](../../aspose.psd.fileformats.psd.layers.layerresources.strokeresources/vstkresource/strokestylelinedashset/) { get; set; } | लाइन डैश की एरे प्राप्त करता या सेट करता है। |
+| [StrokeStyleLineJoinType](../../aspose.psd.fileformats.psd.layers.layerresources.strokeresources/vstkresource/strokestylelinejointype/) { get; set; } | स्ट्रोक स्टाइल लाइन जॉइन प्रकार प्राप्त करता या सेट करता है। |
+| [StrokeStyleLineWidth](../../aspose.psd.fileformats.psd.layers.layerresources.strokeresources/vstkresource/strokestylelinewidth/) { get; set; } | स्ट्रोक लाइन की चौड़ाई प्राप्त करता या सेट करता है। |
+| [StrokeStyleMiterLimit](../../aspose.psd.fileformats.psd.layers.layerresources.strokeresources/vstkresource/strokestylemiterlimit/) { get; set; } | स्ट्रोक स्टाइल मिटर सीमा प्राप्त करता या सेट करता है। |
+| [StrokeStyleOpacity](../../aspose.psd.fileformats.psd.layers.layerresources.strokeresources/vstkresource/strokestyleopacity/) { get; set; } | स्ट्रोक स्टाइल अपारदर्शिता (0-100%) प्राप्त करता या सेट करता है। |
+| [StrokeStyleResolution](../../aspose.psd.fileformats.psd.layers.layerresources.strokeresources/vstkresource/strokestyleresolution/) { get; set; } | स्ट्रोक स्टाइल रिज़ॉल्यूशन प्राप्त करता या सेट करता है। |
+| [StrokeStyleScaleLock](../../aspose.psd.fileformats.psd.layers.layerresources.strokeresources/vstkresource/strokestylescalelock/) { get; set; } | स्ट्रोक स्टाइल स्केल लॉक प्राप्त करता या सेट करता है। |
+| [StrokeStyleStrokeAdjust](../../aspose.psd.fileformats.psd.layers.layerresources.strokeresources/vstkresource/strokestylestrokeadjust/) { get; set; } | स्ट्रोक एडजस्ट प्राप्त करता या सेट करता है। |
+| [StrokeStyleVersion](../../aspose.psd.fileformats.psd.layers.layerresources.strokeresources/vstkresource/strokestyleversion/) { get; set; } | स्ट्रोक शैली संस्करण को प्राप्त करता है या सेट करता है। |
 
-## खेत
+## मेथड्स
 
 | नाम | विवरण |
 | --- | --- |
-| const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources.strokeresources/vstkresource/typetoolkey/) | टाइप टूल इंफो की. |
+| override [Save](../../aspose.psd.fileformats.psd.layers.layerresources.strokeresources/vstkresource/save/)(StreamContainer, int) | निर्दिष्ट स्ट्रीम कंटेनर में रिसोर्स को सहेजता है। |
+| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring/)() | इस उदाहरण का प्रतिनिधित्व करने वाली एक स्ट्रिंग लौटाता है। |
 
-### उदाहरण
+## फ़ील्ड्स
 
-निम्न कोड VstkResource संसाधन के समर्थन को प्रदर्शित करता है।
+| नाम | विवरण |
+| --- | --- |
+| const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources.strokeresources/vstkresource/typetoolkey/) | टाइप टूल जानकारी कुंजी। |
+
+## उदाहरण
+
+निम्नलिखित कोड VstkResource संसाधन के समर्थन को दर्शाता है।
 
 ```csharp
 [C#]
@@ -86,10 +88,10 @@ using (PsdImage image = (PsdImage)Image.Load(srcFile))
 }
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * class [LayerResource](../../aspose.psd.fileformats.psd.layers/layerresource/)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.StrokeResources](../../aspose.psd.fileformats.psd.layers.layerresources.strokeresources/)
-* सभा [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.StrokeResources](../../aspose.psd.fileformats.psd.layers.layerresources.strokeresources/)
+* assembly [Aspose.PSD](../../)
 
 

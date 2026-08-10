@@ -1,14 +1,15 @@
 ---
-title: Class XmpException
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Aspose.PSD.CoreExceptions.XmpException कक्ष. एक्सएमप क अमन्य संरचन हने पर फेंक गय अपवद
+title: "क्लास XmpException"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Aspose.PSD.CoreExceptions.XmpException क्लास। वह अपवाद जो तब फेंका जाता है जब XMP की संरचना अमान्य होती है"
 type: docs
 weight: 690
 url: /hi/net/aspose.psd.coreexceptions/xmpexception/
 ---
+{{< psd/tize >}}
 ## XmpException class
 
-एक्सएमपी की अमान्य संरचना होने पर फेंका गया अपवाद।
+XMP में अमान्य संरचना होने पर फेंका जाने वाला अपवाद।
 
 ```csharp
 public class XmpException : FrameworkException
@@ -18,14 +19,14 @@ public class XmpException : FrameworkException
 
 | नाम | विवरण |
 | --- | --- |
-| [XmpException](xmpexception/#constructor)() | का एक नया उदाहरण प्रारंभ करता है`XmpException` वर्ग. |
-| [XmpException](xmpexception/#constructor_1)(string) | का एक नया उदाहरण प्रारंभ करता है`XmpException` वर्ग. |
-| [XmpException](xmpexception/#constructor_2)(string, Exception) | का एक नया उदाहरण प्रारंभ करता है`XmpException` वर्ग. |
+| [XmpException](xmpexception/#constructor)() | `XmpException` क्लास का नया उदाहरण प्रारंभ करता है। |
+| [XmpException](xmpexception/#constructor_1)(string) | `XmpException` क्लास का नया उदाहरण प्रारंभ करता है। |
+| [XmpException](xmpexception/#constructor_2)(string, Exception) | `XmpException` क्लास का नया उदाहरण प्रारंभ करता है। |
 
-### यह सभी देखें
+### देखें भी
 
 * class [FrameworkException](../frameworkexception/)
-* नाम स्थान [Aspose.PSD.CoreExceptions](../../aspose.psd.coreexceptions/)
-* सभा [Aspose.PSD](../../)
+* namespace [Aspose.PSD.CoreExceptions](../../aspose.psd.coreexceptions/)
+* assembly [Aspose.PSD](../../)
 
 

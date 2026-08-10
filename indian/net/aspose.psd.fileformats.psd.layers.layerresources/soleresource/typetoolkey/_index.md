@@ -1,23 +1,24 @@
 ---
-title: SoLeResource.TypeToolKey
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: SoLeResource मैदन. प्रकर टूल जनकर कुंज SoLE.
+title: "SoLeResource.TypeToolKey"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "SoLeResource field. टाइप टूल जानकारी कुंजी SoLE"
 type: docs
-weight: 30
+weight: 20
 url: /hi/net/aspose.psd.fileformats.psd.layers.layerresources/soleresource/typetoolkey/
 ---
+{{< psd/tize >}}
 ## SoLeResource.TypeToolKey field
 
-प्रकार टूल जानकारी कुंजी: 'SoLE'.
+टाइप टूल जानकारी कुंजी: 'SoLE'।
 
 ```csharp
 public const int TypeToolKey;
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * class [SoLeResource](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../soleresource/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

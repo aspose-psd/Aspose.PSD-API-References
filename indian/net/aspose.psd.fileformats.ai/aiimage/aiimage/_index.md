@@ -1,23 +1,24 @@
 ---
-title: AiImage.AiImage
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: AiImage नर्मत. डफ़ल्ट कंस्ट्रक्टर
+title: "AiImage.AiImage"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "AiImage कंस्ट्रक्टर। AiImage क्लास की नई इंस्टेंस को इनिशियलाइज़ करता है।"
 type: docs
 weight: 10
 url: /hi/net/aspose.psd.fileformats.ai/aiimage/aiimage/
 ---
+{{< psd/tize >}}
 ## AiImage constructor
 
-डिफ़ॉल्ट कंस्ट्रक्टर।
+[`AiImage`](../) क्लास की नई इंस्टेंस को इनिशियलाइज़ करता है।
 
 ```csharp
 public AiImage()
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * class [AiImage](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Ai](../../aiimage/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

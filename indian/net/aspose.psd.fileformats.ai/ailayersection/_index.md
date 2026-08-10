@@ -1,49 +1,52 @@
 ---
-title: Class AiLayerSection
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Aspose.PSD.FileFormats.Ai.AiLayerSection कक्ष. एआई प्ररूप परत अनुभग
+title: "क्लास AiLayerSection"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Aspose.PSD.FileFormats.Ai.AiLayerSection क्लास। Ai फ़ॉर्मेट लेयर सेक्शन"
 type: docs
-weight: 1270
+weight: 1280
 url: /hi/net/aspose.psd.fileformats.ai/ailayersection/
 ---
+{{< psd/tize >}}
 ## AiLayerSection class
 
-एआई प्रारूप परत अनुभाग
+Ai फ़ॉर्मेट लेयर सेक्शन
 
 ```csharp
 public sealed class AiLayerSection : AiDataSection
 ```
 
-## गुण
+## प्रॉपर्टीज़
 
 | नाम | विवरण |
 | --- | --- |
-| [Blue](../../aspose.psd.fileformats.ai/ailayersection/blue/) { get; set; } | नीले रंग के घटक को प्राप्त या सेट करता है। |
-| [ColorNumber](../../aspose.psd.fileformats.ai/ailayersection/colornumber/) { get; set; } | रंग संख्या प्राप्त या सेट करता है। -1 लाल, हरे, नीले गुणों से कस्टम रंग मान है। परत की रंग सेटिंग निर्दिष्ट करता है। |
-| [DimValue](../../aspose.psd.fileformats.ai/ailayersection/dimvalue/) { get; set; } | मंद मान को प्रतिशत के रूप में प्राप्त या सेट करता है। परत में निहित लिंक की गई छवियों और बिटमैप छवियों की तीव्रता को निर्दिष्ट प्रतिशत तक कम कर देता है। |
-| [Disposed](../../aspose.psd/disposableobject/disposed/) { get; } | यह इंगित करने वाला मान प्राप्त करता है कि क्या यह उदाहरण निपटाया गया है। |
-| [Green](../../aspose.psd.fileformats.ai/ailayersection/green/) { get; set; } | हरे रंग के घटक को प्राप्त या सेट करता है। |
-| [IsImagesDimmed](../../aspose.psd.fileformats.ai/ailayersection/isimagesdimmed/) { get; set; } | यह इंगित करता है कि यह परत मंद है या नहीं, यह इंगित करता है या सेट करता है। परत में निहित लिंक की गई छवियों और बिटमैप छवियों की तीव्रता को कम करता है। |
-| [IsLocked](../../aspose.psd.fileformats.ai/ailayersection/islocked/) { get; set; } | यह इंगित करता है कि यह परत लॉक है या नहीं, यह मान प्राप्त या सेट करता है। आइटम में परिवर्तन रोकता है। |
-| [IsPreview](../../aspose.psd.fileformats.ai/ailayersection/ispreview/) { get; set; } | एक मान प्राप्त या सेट करता है जो बताता है कि यह परत पूर्वावलोकन है या नहीं। परत में निहित कलाकृति को रूपरेखा के बजाय रंग में प्रदर्शित करता है। |
-| [IsPrinted](../../aspose.psd.fileformats.ai/ailayersection/isprinted/) { get; set; } | यह इंगित करता है कि यह परत मुद्रित है या नहीं, यह इंगित करता है या सेट करता है। परत में निहित कलाकृति को सही होने पर प्रिंट करने योग्य बनाता है। |
-| [IsShown](../../aspose.psd.fileformats.ai/ailayersection/isshown/) { get; set; } | एक मान प्राप्त करता है या सेट करता है जो दर्शाता है कि यह परत दिखाई गई है या नहीं। सही होने पर आर्टबोर्ड पर परत में निहित सभी कलाकृति प्रदर्शित करता है। |
-| [IsTemplate](../../aspose.psd.fileformats.ai/ailayersection/istemplate/) { get; set; } | एक मान प्राप्त करता है या सेट करता है जो इंगित करता है कि यह परत एक टेम्पलेट परत है या नहीं। |
-| [Name](../../aspose.psd.fileformats.ai/ailayersection/name/) { get; set; } | परत नाम प्राप्त या सेट करता है। आइटम का नाम निर्दिष्ट करता है जैसा कि परत पैनल में दिखाई देता है। |
-| [RasterImages](../../aspose.psd.fileformats.ai/ailayersection/rasterimages/) { get; } | रेखापुंज चित्र प्राप्त करता है। |
-| [Red](../../aspose.psd.fileformats.ai/ailayersection/red/) { get; set; } | लाल रंग के घटक को प्राप्त या सेट करता है। |
+| [Blue](../../aspose.psd.fileformats.ai/ailayersection/blue/) { get; set; } | नीले रंग घटक को प्राप्त करता है या सेट करता है। |
+| [ColorIndex](../../aspose.psd.fileformats.ai/ailayersection/colorindex/) { get; set; } | रंग का इंडेक्स प्राप्त करता है या सेट करता है। यह तर्क –1 से 26 के बीच मान ले सकता है। प्रत्येक पूर्णांक एक रंग का प्रतिनिधित्व करता है जिसे उपयोगकर्ता पहचान उद्देश्यों के लिए लेयर को असाइन किया जा सकता है। |
+| [ColorNumber](../../aspose.psd.fileformats.ai/ailayersection/colornumber/) { get; set; } | रंग संख्या प्राप्त करता है या सेट करता है। -1 लाल, हरा, नीला गुणों से कस्टम रंग मान है। लेयर की रंग सेटिंग निर्दिष्ट करता है। |
+| [DimValue](../../aspose.psd.fileformats.ai/ailayersection/dimvalue/) { get; set; } | डिम मान को प्रतिशत के रूप में प्राप्त करता है या सेट करता है। लेयर में शामिल लिंक्ड इमेज और बिटमैप इमेज की तीव्रता को निर्दिष्ट प्रतिशत तक कम करता है। |
+| [Disposed](../../aspose.psd/disposableobject/disposed/) { get; } | यह संकेत करने वाला मान प्राप्त करता है कि यह इंस्टेंस डिस्पोज़ किया गया है या नहीं। |
+| [Green](../../aspose.psd.fileformats.ai/ailayersection/green/) { get; set; } | हरे रंग घटक को प्राप्त करता है या सेट करता है। |
+| [HasMultiLayerMasks](../../aspose.psd.fileformats.ai/ailayersection/hasmultilayermasks/) { get; set; } | यह दर्शाने वाला मान प्राप्त करता है या सेट करता है कि इस इंस्टेंस में मल्टीलेयर मास्क हैं या नहीं। |
+| [IsImagesDimmed](../../aspose.psd.fileformats.ai/ailayersection/isimagesdimmed/) { get; set; } | यह दर्शाने वाला मान प्राप्त करता है या सेट करता है कि यह लेयर डिम्ड है या नहीं। लेयर में शामिल लिंक्ड इमेज और बिटमैप इमेज की तीव्रता को कम करता है। |
+| [IsLocked](../../aspose.psd.fileformats.ai/ailayersection/islocked/) { get; set; } | यह दर्शाने वाला मान प्राप्त करता है या सेट करता है कि यह लेयर लॉक है या नहीं। आइटम में परिवर्तन को रोकता है। |
+| [IsPreview](../../aspose.psd.fileformats.ai/ailayersection/ispreview/) { get; set; } | यह दर्शाने वाला मान प्राप्त करता है या सेट करता है कि यह लेयर प्रीव्यू है या नहीं। लेयर में मौजूद कलाकृति को रूपरेखा के बजाय रंग में दिखाता है। |
+| [IsPrinted](../../aspose.psd.fileformats.ai/ailayersection/isprinted/) { get; set; } | यह दर्शाने वाला मान प्राप्त करता है या सेट करता है कि यह लेयर प्रिंटेड है या नहीं। यदि सत्य हो तो लेयर में मौजूद कलाकृति को प्रिंट करने योग्य बनाता है। |
+| [IsShown](../../aspose.psd.fileformats.ai/ailayersection/isshown/) { get; set; } | यह दर्शाने वाला मान प्राप्त करता है या सेट करता है कि यह लेयर दिखाया गया है या नहीं। यदि सत्य हो तो लेयर में मौजूद सभी कलाकृति को आर्टबोर्ड पर दिखाता है। |
+| [IsTemplate](../../aspose.psd.fileformats.ai/ailayersection/istemplate/) { get; set; } | यह दर्शाने वाला मान प्राप्त करता है या सेट करता है कि यह लेयर टेम्पलेट लेयर है या नहीं। |
+| [Name](../../aspose.psd.fileformats.ai/ailayersection/name/) { get; set; } | लेयर का नाम प्राप्त करता है या सेट करता है। लेयर पैनल में दिखाई देने वाले आइटम का नाम निर्दिष्ट करता है। |
+| [RasterImages](../../aspose.psd.fileformats.ai/ailayersection/rasterimages/) { get; } | रास्टर इमेज प्राप्त करता है। |
+| [Red](../../aspose.psd.fileformats.ai/ailayersection/red/) { get; set; } | लाल रंग घटक को प्राप्त करता है या सेट करता है। |
 
-## तरीकों
+## मेथड्स
 
 | नाम | विवरण |
 | --- | --- |
-| [AddRasterImage](../../aspose.psd.fileformats.ai/ailayersection/addrasterimage/)(AiRasterImageSection) | रेखापुंज छवि जोड़ता है। |
-| [Dispose](../../aspose.psd/disposableobject/dispose/)() | वर्तमान उदाहरण का निपटान करता है। |
+| [AddRasterImage](../../aspose.psd.fileformats.ai/ailayersection/addrasterimage/)(AiRasterImageSection) | रास्टर छवि जोड़ता है। |
+| [Dispose](../../aspose.psd/disposableobject/dispose/)() | वर्तमान इंस्टेंस को डिस्पोज़ करता है। |
 | [GetData](../../aspose.psd.fileformats.ai/aidatasection/getdata/)() | स्ट्रिंग डेटा प्राप्त करता है। |
 
-### उदाहरण
+## उदाहरण
 
-निम्नलिखित कोड दर्शाता है कि एआई प्रारूप फाइलों में रेखापुंज छवियों की सेटिंग्स को कैसे लोड किया जाए।
+निम्नलिखित कोड दिखाता है कि AI फ़ॉर्मेट फ़ाइलों में रास्टर इमेज की सेटिंग्स कैसे लोड की जाती हैं।
 
 ```csharp
 [C#]
@@ -86,10 +89,10 @@ using (AiImage image = (AiImage)Image.Load(sourceFile))
 }
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * class [AiDataSection](../aidatasection/)
-* नाम स्थान [Aspose.PSD.FileFormats.Ai](../../aspose.psd.fileformats.ai/)
-* सभा [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../)
 
 

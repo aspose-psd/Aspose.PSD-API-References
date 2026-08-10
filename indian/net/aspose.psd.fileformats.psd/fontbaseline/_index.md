@@ -1,14 +1,15 @@
 ---
-title: Enum FontBaseline
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Aspose.PSD.FileFormats.Psd.FontBaseline एनुम. यह फ़न्ट आधर रेख है
+title: "Enum FontBaseline"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Aspose.PSD.FileFormats.Psd.FontBaseline enum. यह फ़ॉन्ट बेसलाइन है"
 type: docs
-weight: 1630
+weight: 1670
 url: /hi/net/aspose.psd.fileformats.psd/fontbaseline/
 ---
+{{< psd/tize >}}
 ## FontBaseline enumeration
 
-यह फ़ॉन्ट आधार रेखा है।
+यह फ़ॉन्ट बेसलाइन है।
 
 ```csharp
 public enum FontBaseline
@@ -16,15 +17,15 @@ public enum FontBaseline
 
 ### मान
 
-| नाम | कीमत | विवरण |
+| नाम | मान | विवरण |
 | --- | --- | --- |
-| None | `0` | कोई आधारभूत मान नहीं |
-| Superscript | `1` | सुपरस्क्रिप्ट बेसलाइन. |
-| Subscript | `2` | सबस्क्रिप्ट बेसलाइन. |
+| None | `0` | बेसलाइन मान नहीं है |
+| Superscript | `1` | सुपरस्क्रिप्ट बेसलाइन। |
+| Subscript | `2` | सबस्क्रिप्ट बेसलाइन। |
 
-### यह सभी देखें
+### देखें भी
 
-* नाम स्थान [Aspose.PSD.FileFormats.Psd](../../aspose.psd.fileformats.psd/)
-* सभा [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../)
 
 

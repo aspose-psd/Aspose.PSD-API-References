@@ -1,51 +1,52 @@
 ---
-title: PsdImage.ResizeWidthProportionally
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: PsdImage तरक. आनुपतक रूप से चड़ई क आकर बदलत है
+title: "PsdImage.ResizeWidthProportionally"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "PsdImage मेथड। चौड़ाई को अनुपातिक रूप से पुनः आकार देता है"
 type: docs
-weight: 600
+weight: 660
 url: /hi/net/aspose.psd.fileformats.psd/psdimage/resizewidthproportionally/
 ---
+{{< psd/tize >}}
 ## ResizeWidthProportionally(int, ImageResizeSettings) {#resizewidthproportionally_1}
 
-आनुपातिक रूप से चौड़ाई का आकार बदलता है।
+चौड़ाई को अनुपातिक रूप से बदलता है।
 
 ```csharp
 public override void ResizeWidthProportionally(int newWidth, ImageResizeSettings settings)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
 | newWidth | Int32 | नई चौड़ाई। |
-| settings | ImageResizeSettings | छवि का आकार बदलें सेटिंग्स। |
+| सेटिंग्स | ImageResizeSettings | इमेज री‑साइज़ सेटिंग्स। |
 
-### यह सभी देखें
+### देखें भी
 
 * class [ImageResizeSettings](../../../aspose.psd/imageresizesettings/)
 * class [PsdImage](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## ResizeWidthProportionally(int, ResizeType) {#resizewidthproportionally_2}
 
-आनुपातिक रूप से चौड़ाई का आकार बदलता है।
+चौड़ाई को अनुपातिक रूप से बदलता है।
 
 ```csharp
 public override void ResizeWidthProportionally(int newWidth, ResizeType resizeType)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
 | newWidth | Int32 | नई चौड़ाई। |
-| resizeType | ResizeType | आकार बदलने का प्रकार। |
+| resizeType | ResizeType | री‑साइज़ का प्रकार। |
 
-### यह सभी देखें
+### देखें भी
 
 * enum [ResizeType](../../../aspose.psd/resizetype/)
 * class [PsdImage](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

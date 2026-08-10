@@ -1,11 +1,12 @@
 ---
-title: FileStreamContainer.FilePath
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: FileStreamContainer संपत्त. फ़इल पथ प्रप्त करत है
+title: "FileStreamContainer.FilePath"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "FileStreamContainer प्रॉपर्टी। फ़ाइल पथ प्राप्त करता है"
 type: docs
 weight: 30
 url: /hi/net/aspose.psd/filestreamcontainer/filepath/
 ---
+{{< psd/tize >}}
 ## FileStreamContainer.FilePath property
 
 फ़ाइल पथ प्राप्त करता है।
@@ -14,14 +15,14 @@ url: /hi/net/aspose.psd/filestreamcontainer/filepath/
 public string FilePath { get; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
 फ़ाइल पथ।
 
-### यह सभी देखें
+### देखें भी
 
 * class [FileStreamContainer](../)
-* नाम स्थान [Aspose.PSD](../../filestreamcontainer/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

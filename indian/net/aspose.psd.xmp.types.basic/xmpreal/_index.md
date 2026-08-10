@@ -1,14 +1,15 @@
 ---
-title: Class XmpReal
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Aspose.PSD.Xmp.Types.Basic.XmpReal कक्ष. एक्सएमप रयल क प्रतनधत्व करत है
+title: "क्लास XmpReal"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Aspose.PSD.Xmp.Types.Basic.XmpReal क्लास। XMP रियल का प्रतिनिधित्व करता है"
 type: docs
-weight: 5970
+weight: 6470
 url: /hi/net/aspose.psd.xmp.types.basic/xmpreal/
 ---
+{{< psd/tize >}}
 ## XmpReal class
 
-एक्सएमपी रियल का प्रतिनिधित्व करता है।
+XMP Real का प्रतिनिधित्व करता है।
 
 ```csharp
 public sealed class XmpReal : XmpTypeBase
@@ -18,25 +19,25 @@ public sealed class XmpReal : XmpTypeBase
 
 | नाम | विवरण |
 | --- | --- |
-| [XmpReal](xmpreal/#constructor)(float) | का एक नया उदाहरण प्रारंभ करता है`XmpReal` वर्ग. |
-| [XmpReal](xmpreal/#constructor_1)(string) | का एक नया उदाहरण प्रारंभ करता है`XmpReal` वर्ग. |
+| [XmpReal](xmpreal/#constructor)(float) | `XmpReal` क्लास का नया उदाहरण आरंभ करता है। |
+| [XmpReal](xmpreal/#constructor_1)(string) | `XmpReal` क्लास का नया उदाहरण आरंभ करता है। |
 
-## गुण
-
-| नाम | विवरण |
-| --- | --- |
-| [Value](../../aspose.psd.xmp.types.basic/xmpreal/value/) { get; set; } | फ्लोट मान प्राप्त या सेट करता है। |
-
-## तरीकों
+## प्रॉपर्टीज़
 
 | नाम | विवरण |
 | --- | --- |
-| override [GetXmpRepresentation](../../aspose.psd.xmp.types.basic/xmpreal/getxmprepresentation/)() | XMP प्रारूप में स्ट्रिंग युक्त मान प्राप्त करता है। |
+| [Value](../../aspose.psd.xmp.types.basic/xmpreal/value/) { get; set; } | फ़्लोट मान को प्राप्त करता है या सेट करता है। |
 
-### यह सभी देखें
+## मेथड्स
+
+| नाम | विवरण |
+| --- | --- |
+| override [GetXmpRepresentation](../../aspose.psd.xmp.types.basic/xmpreal/getxmprepresentation/)() | XMP प्रारूप में सम्मिलित स्ट्रिंग मान को प्राप्त करता है। |
+
+### देखें भी
 
 * class [XmpTypeBase](../../aspose.psd.xmp.types/xmptypebase/)
-* नाम स्थान [Aspose.PSD.Xmp.Types.Basic](../../aspose.psd.xmp.types.basic/)
-* सभा [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Xmp.Types.Basic](../../aspose.psd.xmp.types.basic/)
+* assembly [Aspose.PSD](../../)
 
 

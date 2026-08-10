@@ -1,32 +1,33 @@
 ---
-title: IPartialArgb64PixelLoader.Process64
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: IPartialArgb64PixelLoader तरक. लड कए गए पक्सेल संसधत करत है.
+title: "IPartialArgb64PixelLoader.Process64"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "IPartialArgb64PixelLoader मेथड। लोड किए गए पिक्सेल्स को प्रोसेस करता है"
 type: docs
 weight: 10
 url: /hi/net/aspose.psd/ipartialargb64pixelloader/process64/
 ---
+{{< psd/tize >}}
 ## IPartialArgb64PixelLoader.Process64 method
 
-लोड किए गए पिक्सेल संसाधित करता है.
+लोड किए गए पिक्सेल को प्रोसेस करता है।
 
 ```csharp
 public void Process64(Rectangle pixelsRectangle, long[] pixels, Point start, Point end)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
 | pixelsRectangle | Rectangle | पिक्सेल आयत। |
-| pixels | Int64[] | 64-बिट एआरबीबी पिक्सल। |
-| start | Point | प्रारंभ पिक्सेल बिंदु। यदि (बाएं, ऊपर) के बराबर नहीं है तो इसका अर्थ है कि हमारे पास पूर्ण आयत नहीं है। |
-| end | Point | अंत पिक्सेल बिंदु। यदि (दाएं, नीचे) के बराबर नहीं है, जिसका अर्थ है कि हमारे पास पूर्ण आयत नहीं है। |
+| पिक्सेल | Int64[] | 64-बिट ARGB पिक्सेल। |
+| start | बिंदु | शुरुआती पिक्सेल बिंदु। यदि (left,top) के बराबर नहीं है तो इसका अर्थ है कि हमारे पास पूर्ण आयत नहीं है। |
+| समाप्त | बिंदु | अंतिम पिक्सेल बिंदु। यदि (right,bottom) के बराबर नहीं है तो इसका अर्थ है कि हमारे पास पूर्ण आयत नहीं है। |
 
-### यह सभी देखें
+### देखें भी
 
 * struct [Rectangle](../../rectangle/)
 * struct [Point](../../point/)
 * interface [IPartialArgb64PixelLoader](../)
-* नाम स्थान [Aspose.PSD](../../ipartialargb64pixelloader/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

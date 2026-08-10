@@ -1,27 +1,28 @@
 ---
-title: PixelDataFormat.Grayscale
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: PixelDataFormat संपत्त. ह जत हैPixelDataFormat0255 अंतरल में ग्रेस्केल तव्रत क प्रतनधत्व करने वले 8 बट्स के सथ 8 बट प्रत पक्सेल के लए परभषत कय गय है
+title: "PixelDataFormat.Grayscale"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "PixelDataFormat प्रॉपर्टी। 8 बिट प्रति पिक्सेल के लिए परिभाषित PixelDataFormat प्राप्त करता है, जिसमें 8 बिट ग्रेस्केल तीव्रता को 0-255 अंतराल में दर्शाते हैं"
 type: docs
 weight: 30
 url: /hi/net/aspose.psd/pixeldataformat/grayscale/
 ---
+{{< psd/tize >}}
 ## PixelDataFormat.Grayscale property
 
-हो जाता है[`PixelDataFormat`](../)0-255 अंतराल में ग्रेस्केल तीव्रता का प्रतिनिधित्व करने वाले 8 बिट्स के साथ 8 बिट प्रति पिक्सेल के लिए परिभाषित किया गया है।
+[`PixelDataFormat`](../) प्राप्त करता है, जो 8 बिट प्रति पिक्सेल के लिए परिभाषित है, जिसमें 8 बिट ग्रेस्केल तीव्रता को 0-255 अंतराल में दर्शाते हैं।
 
 ```csharp
 public static PixelDataFormat Grayscale { get; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-द[`PixelDataFormat`](../)0-255 अंतराल में ग्रेस्केल तीव्रता का प्रतिनिधित्व करने वाले 8 बिट्स के साथ 8 बिट प्रति पिक्सेल के लिए परिभाषित किया गया है।
+[`PixelDataFormat`](../) 8 बिट प्रति पिक्सेल के लिए परिभाषित है, जिसमें 8 बिट ग्रेस्केल तीव्रता को 0-255 अंतराल में दर्शाते हैं।
 
-### यह सभी देखें
+### देखें भी
 
 * class [PixelDataFormat](../)
-* नाम स्थान [Aspose.PSD](../../pixeldataformat/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

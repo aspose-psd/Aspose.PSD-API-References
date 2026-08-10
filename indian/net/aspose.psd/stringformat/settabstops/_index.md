@@ -1,28 +1,29 @@
 ---
-title: StringFormat.SetTabStops
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: StringFormat तरक. इसके लए टैब स्टप सेट करत हैStringFormat वस्तु.
+title: "StringFormat.SetTabStops"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "StringFormat मेथड। इस StringFormat ऑब्जेक्ट के लिए टैब स्टॉप सेट करता है"
 type: docs
-weight: 140
+weight: 170
 url: /hi/net/aspose.psd/stringformat/settabstops/
 ---
+{{< psd/tize >}}
 ## StringFormat.SetTabStops method
 
-इसके लिए टैब स्टॉप सेट करता है[`StringFormat`](../) वस्तु.
+इस [`StringFormat`](../) ऑब्जेक्ट के लिए टैब स्टॉप सेट करता है।
 
 ```csharp
 public void SetTabStops(float firstTabOffset, float[] tabStops)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| firstTabOffset | Single | पाठ की एक पंक्ति की शुरुआत और पहले टैब स्टॉप के बीच रिक्त स्थान की संख्या। |
-| tabStops | Single[] | द्वारा निर्दिष्ट इकाइयों में टैब स्टॉप के बीच की दूरी की एक सरणी[`PageUnit`](../../graphics/pageunit/) संपत्ति। |
+| firstTabOffset | Single | एक टेक्स्ट लाइन की शुरुआत और पहले टैब स्टॉप के बीच के स्पेस की संख्या। |
+| tabStops | Single[] | एक सरणी जिसमें टैब स्टॉप्स के बीच की दूरी होती है, जो [`PageUnit`](../../graphics/pageunit/) प्रॉपर्टी द्वारा निर्दिष्ट इकाइयों में होती है। |
 
-### यह सभी देखें
+### देखें भी
 
 * class [StringFormat](../)
-* नाम स्थान [Aspose.PSD](../../stringformat/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

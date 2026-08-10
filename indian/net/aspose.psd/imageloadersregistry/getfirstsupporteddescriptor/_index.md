@@ -1,39 +1,40 @@
 ---
-title: ImageLoadersRegistry.GetFirstSupportedDescriptor
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: ImageLoadersRegistry तरक. फस्ट फउंड सपर्टेड डस्क्रप्टर नर्दष्ट के लए उपयुक्त ह जत हैstream और वैकल्पक रूप सेloadOptions .
+title: "ImageLoadersRegistry.GetFirstSupportedDescriptor"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "ImageLoadersRegistry मेथड। निर्दिष्ट *stream* के लिए उपयुक्त पहला मिला हुआ समर्थित डिस्क्रिप्टर प्राप्त करता है और वैकल्पिक रूप से *loadOptions*।"
 type: docs
 weight: 40
 url: /hi/net/aspose.psd/imageloadersregistry/getfirstsupporteddescriptor/
 ---
+{{< psd/tize >}}
 ## ImageLoadersRegistry.GetFirstSupportedDescriptor method
 
-फिस्ट फाउंड सपोर्टेड डिस्क्रिप्टर निर्दिष्ट के लिए उपयुक्त हो जाता है*stream* और वैकल्पिक रूप से*loadOptions* .
+पहला मिला समर्थित डिस्क्रिप्टर प्राप्त करता है जो निर्दिष्ट *stream* के लिए उपयुक्त है और वैकल्पिक रूप से *loadOptions* को भी।
 
 ```csharp
 public static IImageLoaderDescriptor GetFirstSupportedDescriptor(Stream stream, 
     LoadOptions loadOptions)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| stream | Stream | धारा। |
+| stream | Stream | स्ट्रीम। |
 | loadOptions | LoadOptions | लोड विकल्प। |
 
-### प्रतिलाभ की मात्रा
+### रिटर्न वैल्यू
 
-लोडर डिस्क्रिप्टर जो निर्दिष्ट का समर्थन करता है*stream* और*loadOptions* या शून्य यदि ऐसा कोई वर्णनकर्ता नहीं मिला है।
+निर्दिष्ट *stream* और *loadOptions* को समर्थन करने वाला लोडर डिस्क्रिप्टर या null यदि ऐसा कोई डिस्क्रिप्टर नहीं मिला।
 
-### टिप्पणियों
+## टिप्पणियाँ
 
 पहला लोडर डिस्क्रिप्टर वास्तव में अंतिम पंजीकृत होगा।
 
-### यह सभी देखें
+### देखें भी
 
 * interface [IImageLoaderDescriptor](../../iimageloaderdescriptor/)
 * class [LoadOptions](../../loadoptions/)
 * class [ImageLoadersRegistry](../)
-* नाम स्थान [Aspose.PSD](../../imageloadersregistry/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

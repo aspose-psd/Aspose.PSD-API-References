@@ -1,11 +1,12 @@
 ---
-title: Class UnknownStructure
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures.UnknownStructure कक्ष. अज्ञत संरचन
+title: "क्लास UnknownStructure"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures.UnknownStructure क्लास. अज्ञात संरचना"
 type: docs
-weight: 3300
+weight: 3690
 url: /hi/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/unknownstructure/
 ---
+{{< psd/tize >}}
 ## UnknownStructure class
 
 अज्ञात संरचना।
@@ -18,29 +19,29 @@ public sealed class UnknownStructure : OSTypeStructure
 
 | नाम | विवरण |
 | --- | --- |
-| [UnknownStructure](unknownstructure/)(ClassID, int) | का एक नया उदाहरण प्रारंभ करता है`UnknownStructure` वर्ग. |
+| [UnknownStructure](unknownstructure/)(ClassID, int) | `UnknownStructure` क्लास का नया उदाहरण प्रारंभ करता है। |
 
-## गुण
+## प्रॉपर्टीज़
 
 | नाम | विवरण |
 | --- | --- |
-| [Data](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/unknownstructure/data/) { get; set; } | डेटा प्राप्त या सेट करता है। |
+| [Data](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/unknownstructure/data/) { get; set; } | डेटा को प्राप्त करता है या सेट करता है। |
 | override [Key](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/unknownstructure/key/) { get; } | संरचना कुंजी प्राप्त करता है। |
-| [KeyName](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/keyname/) { get; set; } | कुंजी नाम प्राप्त या सेट करता है। |
-| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/unknownstructure/length/) { get; } | हो जाता है[`OSTypeStructure`](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/) बाइट्स में लंबाई. |
+| [KeyName](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/keyname/) { get; set; } | कुंजी नाम प्राप्त करता है या सेट करता है। |
+| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/unknownstructure/length/) { get; } | [`OSTypeStructure`](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/) की लंबाई बाइट्स में प्राप्त करता है। |
 
-## तरीकों
+## मेथड्स
 
 | नाम | विवरण |
 | --- | --- |
 | virtual [GetHeaderLength](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/getheaderlength/)() | हेडर की लंबाई प्राप्त करता है। |
-| [Save](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/save/)(StreamContainer) | संरचना को निर्दिष्ट स्ट्रीम कंटेनर में सहेजता है। |
-| [SaveWithoutKeyName](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/savewithoutkeyname/)(StreamContainer) | संरचना को निर्दिष्ट स्ट्रीम कंटेनर में सहेजता है। |
+| [Save](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/save/)(StreamContainer) | निर्दिष्ट स्ट्रीम कंटेनर में संरचना को सहेजता है। |
+| [SaveWithoutKeyName](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/savewithoutkeyname/)(StreamContainer) | निर्दिष्ट स्ट्रीम कंटेनर में संरचना को सहेजता है। |
 
-### यह सभी देखें
+### देखें भी
 
 * class [OSTypeStructure](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
-* सभा [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../)
 
 

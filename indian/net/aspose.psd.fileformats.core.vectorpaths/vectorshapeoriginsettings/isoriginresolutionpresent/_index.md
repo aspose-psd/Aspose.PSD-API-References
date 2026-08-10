@@ -1,27 +1,28 @@
 ---
-title: VectorShapeOriginSettings.IsOriginResolutionPresent
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: VectorShapeOriginSettings संपत्त. यह इंगत करने वल मन प्रप्त करत है क क्य इस उदहरण में मूल रज़ल्यूशन गुण है
+title: "VectorShapeOriginSettings.IsOriginResolutionPresent"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "VectorShapeOriginSettings प्रॉपर्टी। एक मान प्राप्त करता है जो दर्शाता है कि इस इंस्टेंस में मूल रिज़ॉल्यूशन प्रॉपर्टी है या नहीं"
 type: docs
 weight: 50
 url: /hi/net/aspose.psd.fileformats.core.vectorpaths/vectorshapeoriginsettings/isoriginresolutionpresent/
 ---
+{{< psd/tize >}}
 ## VectorShapeOriginSettings.IsOriginResolutionPresent property
 
-यह इंगित करने वाला मान प्राप्त करता है कि क्या इस उदाहरण में मूल रिज़ॉल्यूशन गुण है।
+क्या इस उदाहरण में origin resolution property है, यह दर्शाने वाला मान प्राप्त करता है।
 
 ```csharp
 public bool IsOriginResolutionPresent { get; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-`सत्य`अगर इस उदाहरण में मूल समाधान संपत्ति है; अन्यथा,`असत्य` .
+`true` यदि इस इंस्टेंस में मूल रिज़ॉल्यूशन प्रॉपर्टी है; अन्यथा, `false`।
 
-### यह सभी देखें
+### देखें भी
 
 * class [VectorShapeOriginSettings](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Core.VectorPaths](../../vectorshapeoriginsettings/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../../)
 
 

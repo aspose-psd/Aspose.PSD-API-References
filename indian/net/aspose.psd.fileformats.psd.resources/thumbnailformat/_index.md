@@ -1,14 +1,15 @@
 ---
-title: Enum ThumbnailFormat
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Aspose.PSD.FileFormats.Psd.Resources.ThumbnailFormat एनुम. थंबनेल डेट प्ररूप नर्दष्ट करत है
+title: "एनम ThumbnailFormat"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Aspose.PSD.FileFormats.Psd.Resources.ThumbnailFormat एनम। थंबनेल डेटा फ़ॉर्मेट निर्दिष्ट करता है।"
 type: docs
-weight: 3900
+weight: 4370
 url: /hi/net/aspose.psd.fileformats.psd.resources/thumbnailformat/
 ---
+{{< psd/tize >}}
 ## ThumbnailFormat enumeration
 
-थंबनेल डेटा प्रारूप निर्दिष्ट करता है।
+थंबनेल डेटा फ़ॉर्मेट निर्दिष्ट करता है।
 
 ```csharp
 public enum ThumbnailFormat
@@ -16,14 +17,14 @@ public enum ThumbnailFormat
 
 ### मान
 
-| नाम | कीमत | विवरण |
+| नाम | मान | विवरण |
 | --- | --- | --- |
-| KRawRgb | `0` | कच्चा आरजीबी प्रारूप। |
-| KJpegRgb | `1` | संपीड़ित जेपीईजी प्रारूप। |
+| KRawRgb | `0` | कच्चा RGB फ़ॉर्मेट। |
+| KJpegRgb | `1` | संपीड़ित JPEG फ़ॉर्मेट। |
 
-### यह सभी देखें
+### देखें भी
 
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Resources](../../aspose.psd.fileformats.psd.resources/)
-* सभा [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../)
 
 

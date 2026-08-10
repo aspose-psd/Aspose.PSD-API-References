@@ -1,14 +1,15 @@
 ---
-title: Enum XmpArrayType
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Aspose.PSD.Xmp.XmpArrayType एनुम. सरण प्रकर क प्रतनधत्व करत हैXmpArray .
+title: "एनम XmpArrayType"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Aspose.PSD.Xmp.XmpArrayType एनम। XmpArray में एरे प्रकार का प्रतिनिधित्व करता है"
 type: docs
-weight: 6230
+weight: 6730
 url: /hi/net/aspose.psd.xmp/xmparraytype/
 ---
+{{< psd/tize >}}
 ## XmpArrayType enumeration
 
-सरणी प्रकार का प्रतिनिधित्व करता है[`XmpArray`](../xmparray/) .
+[`XmpArray`](../xmparray/) में एरे प्रकार दर्शाता है।
 
 ```csharp
 public enum XmpArrayType
@@ -16,15 +17,15 @@ public enum XmpArrayType
 
 ### मान
 
-| नाम | कीमत | विवरण |
+| नाम | मान | विवरण |
 | --- | --- | --- |
-| UNORDERED | `0` | अनियंत्रित सरणी। |
-| ORDERED | `1` | आदेशित सरणी। |
-| ALTERNATIVE | `2` | वैकल्पिक सरणी। |
+| UNORDERED | `0` | अनऑर्डर्ड एरे। |
+| ORDERED | `1` | ऑर्डर्ड एरे। |
+| ALTERNATIVE | `2` | वैकल्पिक एरे। |
 
-### यह सभी देखें
+### देखें भी
 
-* नाम स्थान [Aspose.PSD.Xmp](../../aspose.psd.xmp/)
-* सभा [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Xmp](../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../)
 
 

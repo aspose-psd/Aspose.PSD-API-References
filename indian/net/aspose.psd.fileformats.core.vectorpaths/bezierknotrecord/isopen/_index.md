@@ -1,27 +1,28 @@
 ---
-title: BezierKnotRecord.IsOpen
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: BezierKnotRecord संपत्त. एक मन प्रप्त करत है य सेट करत है ज दर्शत है क यह उदहरण खुल है
+title: "BezierKnotRecord.IsOpen"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "BezierKnotRecord प्रॉपर्टी। यह मान प्राप्त करता है या सेट करता है जो दर्शाता है कि यह इंस्टेंस खुला है या नहीं"
 type: docs
 weight: 40
 url: /hi/net/aspose.psd.fileformats.core.vectorpaths/bezierknotrecord/isopen/
 ---
+{{< psd/tize >}}
 ## BezierKnotRecord.IsOpen property
 
-एक मान प्राप्त करता है या सेट करता है जो दर्शाता है कि यह उदाहरण खुला है।
+एक मान प्राप्त करता है या सेट करता है जो दर्शाता है कि यह इंस्टेंस खुला है या नहीं।
 
 ```csharp
 public bool IsOpen { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-`सत्य` अगर यह उदाहरण खुला है; अन्यथा,`असत्य` .
+`true` यदि यह इंस्टेंस खुला है; अन्यथा, `false`।
 
-### यह सभी देखें
+### देखें भी
 
 * class [BezierKnotRecord](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Core.VectorPaths](../../bezierknotrecord/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../../)
 
 

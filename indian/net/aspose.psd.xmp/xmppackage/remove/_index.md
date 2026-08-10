@@ -1,31 +1,32 @@
 ---
-title: XmpPackage.Remove
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: XmpPackage तरक. नर्दष्ट कुंज के सथ मन नकलें.
+title: "XmpPackage.Remove"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "XmpPackage विधि। निर्दिष्ट कुंजी के साथ मान हटाता है"
 type: docs
 weight: 110
 url: /hi/net/aspose.psd.xmp/xmppackage/remove/
 ---
+{{< psd/tize >}}
 ## XmpPackage.Remove method
 
-निर्दिष्ट कुंजी के साथ मान निकालें.
+निर्दिष्ट कुंजी के साथ मान को हटाता है।
 
 ```csharp
 public virtual bool Remove(string key)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| key | String | कुंजी का स्ट्रिंग प्रतिनिधित्व जिसे हटाए गए मान से पहचाना जाता है। |
+| कुंजी | String | हटाए गए मान के साथ पहचानी गई कुंजी का स्ट्रिंग प्रतिनिधित्व। |
 
-### प्रतिलाभ की मात्रा
+### रिटर्न वैल्यू
 
-सही रिटर्न देता है यदि निर्दिष्ट कुंजी वाला मान हटा दिया गया था।
+यदि निर्दिष्ट कुंजी के साथ मान हटाया गया हो तो true लौटाता है।
 
-### यह सभी देखें
+### देखें भी
 
 * class [XmpPackage](../)
-* नाम स्थान [Aspose.PSD.Xmp](../../xmppackage/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

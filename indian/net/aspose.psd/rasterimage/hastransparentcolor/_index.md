@@ -1,23 +1,24 @@
 ---
-title: RasterImage.HasTransparentColor
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: RasterImage संपत्त. एक मन प्रप्त करत है ज बतत है क छव में परदर्श रंग है य नहं
+title: "RasterImage.HasTransparentColor"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "RasterImage प्रॉपर्टी। यह दर्शाने वाला मान प्राप्त करता है कि छवि में पारदर्शी रंग है या नहीं।"
 type: docs
 weight: 20
 url: /hi/net/aspose.psd/rasterimage/hastransparentcolor/
 ---
+{{< psd/tize >}}
 ## RasterImage.HasTransparentColor property
 
-एक मान प्राप्त करता है जो बताता है कि छवि में पारदर्शी रंग है या नहीं।
+छवि में पारदर्शी रंग है या नहीं, यह दर्शाने वाला मान प्राप्त करता है।
 
 ```csharp
 public virtual bool HasTransparentColor { get; set; }
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * class [RasterImage](../)
-* नाम स्थान [Aspose.PSD](../../rasterimage/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,23 +1,24 @@
 ---
-title: GaussianBlurSmartFilter.Name
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: GaussianBlurSmartFilter संपत्त. स्मर्ट फ़ल्टर नम प्रप्त करत है
+title: "GaussianBlurSmartFilter.Name"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "GaussianBlurSmartFilter प्रॉपर्टी. स्मार्ट फ़िल्टर का नाम प्राप्त करता है"
 type: docs
 weight: 30
 url: /hi/net/aspose.psd.fileformats.psd.layers.smartfilters/gaussianblursmartfilter/name/
 ---
+{{< psd/tize >}}
 ## GaussianBlurSmartFilter.Name property
 
-स्मार्ट फ़िल्टर नाम प्राप्त करता है।
+स्मार्ट फ़िल्टर का नाम प्राप्त करता है।
 
 ```csharp
 public override string Name { get; }
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * class [GaussianBlurSmartFilter](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.SmartFilters](../../gaussianblursmartfilter/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.SmartFilters](../../../aspose.psd.fileformats.psd.layers.smartfilters/)
+* assembly [Aspose.PSD](../../../)
 
 

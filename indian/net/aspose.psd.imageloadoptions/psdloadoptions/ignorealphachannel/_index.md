@@ -1,27 +1,28 @@
 ---
-title: PsdLoadOptions.IgnoreAlphaChannel
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: PsdLoadOptions संपत्त. यह इंगत करने वल मन प्रप्त य सेट करत है क क्य अल्फ़ चैनल क अनदेख करें.
+title: "PsdLoadOptions.IgnoreAlphaChannel"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "PsdLoadOptions प्रॉपर्टी। मान प्राप्त करता है या सेट करता है जो यह दर्शाता है कि अल्फा चैनल को अनदेखा किया जाए या नहीं।"
 type: docs
-weight: 30
+weight: 40
 url: /hi/net/aspose.psd.imageloadoptions/psdloadoptions/ignorealphachannel/
 ---
+{{< psd/tize >}}
 ## PsdLoadOptions.IgnoreAlphaChannel property
 
-यह इंगित करने वाला मान प्राप्त या सेट करता है कि क्या [अल्फ़ा चैनल को अनदेखा करें].
+एक मान प्राप्त करता है या सेट करता है जो दर्शाता है कि [अल्फा चैनल को अनदेखा करें]।
 
 ```csharp
 public bool IgnoreAlphaChannel { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-`सत्य` अगर [अल्फा चैनल को अनदेखा करें]; अन्यथा,`असत्य` .
+`true` यदि [ignore alpha channel]; अन्यथा, `false`।
 
-### यह सभी देखें
+### देखें भी
 
 * class [PsdLoadOptions](../)
-* नाम स्थान [Aspose.PSD.ImageLoadOptions](../../psdloadoptions/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageLoadOptions](../../../aspose.psd.imageloadoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,34 +1,35 @@
 ---
-title: RectangleF.FromLeftTopRightBottom
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: RectangleF तरक. एक बनत हैRectangleF नर्दष्ट स्थनं पर ऊपरबएँ कने और नचलेदएँ कने के सथ संरचन
+title: "RectangleF.FromLeftTopRightBottom"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "RectangleF मेथड। निर्दिष्ट स्थानों पर ऊपरी-बाएँ कोना और निचले-दाएँ कोना के साथ एक RectangleF संरचना बनाता है"
 type: docs
 weight: 30
 url: /hi/net/aspose.psd/rectanglef/fromlefttoprightbottom/
 ---
+{{< psd/tize >}}
 ## RectangleF.FromLeftTopRightBottom method
 
-एक बनाता है[`RectangleF`](../) निर्दिष्ट स्थानों पर ऊपरी-बाएँ कोने और निचले-दाएँ कोने के साथ संरचना।
+निर्दिष्ट स्थानों पर ऊपरी-बाएँ कोना और निचले-दाएँ कोना के साथ एक [`RectangleF`](../) संरचना बनाता है।
 
 ```csharp
 public static RectangleF FromLeftTopRightBottom(float left, float top, float right, float bottom)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| left | Single | आयताकार क्षेत्र के ऊपरी-बाएँ कोने का x-निर्देशांक। |
-| top | Single | आयताकार क्षेत्र के ऊपरी-बाएँ कोने का y-निर्देशांक। |
-| right | Single | आयताकार क्षेत्र के निचले-दाएं कोने का x-निर्देशांक। |
-| bottom | Single | आयताकार क्षेत्र के निचले-दाएं कोने का y-निर्देशांक। |
+| बाएँ | Single | आयताकार क्षेत्र के ऊपरी-बाएँ कोने का x-निर्देशांक। |
+| ऊपर | Single | आयताकार क्षेत्र के ऊपरी-बाएँ कोने का y-निर्देशांक। |
+| दाएँ | Single | आयताकार क्षेत्र के निचले-दाएँ कोने का x-निर्देशांक। |
+| नीचे | Single | आयताकार क्षेत्र के निचले-दाएँ कोने का y-निर्देशांक। |
 
-### प्रतिलाभ की मात्रा
+### रिटर्न वैल्यू
 
-नई[`RectangleF`](../) कि यह विधि बनाती है।
+यह विधि द्वारा निर्मित नया [`RectangleF`](../)।
 
-### यह सभी देखें
+### देखें भी
 
 * struct [RectangleF](../)
-* नाम स्थान [Aspose.PSD](../../rectanglef/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,48 +1,49 @@
 ---
-title: Point.Offset
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Point तरक. इसक अनुवद करत हैPoint नर्दष्ट द्वरPoint .
+title: "Point.Offset"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Point विधि। इस बिंदु को निर्दिष्ट बिंदु द्वारा स्थानांतरित करता है।"
 type: docs
 weight: 130
 url: /hi/net/aspose.psd/point/offset/
 ---
+{{< psd/tize >}}
 ## Offset(Point) {#offset}
 
-इसका अनुवाद करता है[`Point`](../) निर्दिष्ट द्वारा[`Point`](../) .
+इस [`Point`](../) को निर्दिष्ट [`Point`](../) द्वारा स्थानांतरित करता है।
 
 ```csharp
 public void Offset(Point point)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| point | Point | [`Point`](../) इसकी भरपाई करते थे[`Point`](../). |
+| point | Point | यह [`Point`](../) को ऑफसेट करने के लिए उपयोग किया गया [`Point`](../)। |
 
-### यह सभी देखें
+### देखें भी
 
 * struct [Point](../)
-* नाम स्थान [Aspose.PSD](../../point/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Offset(int, int) {#offset_1}
 
-इसका अनुवाद करता है[`Point`](../)निर्दिष्ट राशि से.
+इस [`Point`](../) को निर्दिष्ट मात्रा द्वारा स्थानांतरित करता है।
 
 ```csharp
 public void Offset(int dx, int dy)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| dx | Int32 | एक्स-निर्देशांक ऑफसेट करने के लिए राशि। |
-| dy | Int32 | वाई-निर्देशांक ऑफसेट करने के लिए राशि। |
+| dx | Int32 | x-निर्देशांक को ऑफसेट करने की मात्रा। |
+| dy | Int32 | y-निर्देशांक को ऑफसेट करने की मात्रा। |
 
-### यह सभी देखें
+### देखें भी
 
 * struct [Point](../)
-* नाम स्थान [Aspose.PSD](../../point/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: GlobalAltitudeResource.Altitude
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: GlobalAltitudeResource संपत्त. ऊंचई प्रप्त य सेट करत है
+title: "GlobalAltitudeResource.Altitude"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "GlobalAltitudeResource प्रॉपर्टी। ऊँचाई को प्राप्त करता है या सेट करता है"
 type: docs
 weight: 20
 url: /hi/net/aspose.psd.fileformats.psd.resources/globalaltituderesource/altitude/
 ---
+{{< psd/tize >}}
 ## GlobalAltitudeResource.Altitude property
 
-ऊंचाई प्राप्त या सेट करता है।
+ऊँचाई प्राप्त करता है या सेट करता है।
 
 ```csharp
 public int Altitude { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-ऊंचाई।
+ऊँचाई।
 
-### यह सभी देखें
+### देखें भी
 
 * class [GlobalAltitudeResource](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Resources](../../globalaltituderesource/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

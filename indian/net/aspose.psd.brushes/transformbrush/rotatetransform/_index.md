@@ -1,49 +1,50 @@
 ---
-title: TransformBrush.RotateTransform
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: TransformBrush तरक. नर्दष्ट रश से स्थनय ज्यमतय परवर्तन क घुमत है यह वध रटेशन क परवर्तन से पहले जड़त है
+title: "TransformBrush.RotateTransform"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "TransformBrush मेथड। स्थानीय ज्यामितीय ट्रांसफ़ॉर्म को निर्दिष्ट मात्रा से घुमाता है। यह मेथड घूर्णन को ट्रांसफ़ॉर्म के पहले जोड़ता है।"
 type: docs
 weight: 60
 url: /hi/net/aspose.psd.brushes/transformbrush/rotatetransform/
 ---
+{{< psd/tize >}}
 ## RotateTransform(float) {#rotatetransform}
 
-निर्दिष्ट राशि से स्थानीय ज्यामितीय परिवर्तन को घुमाता है। यह विधि रोटेशन को परिवर्तन से पहले जोड़ती है।
+स्थानीय ज्यामितीय रूपांतरण को निर्दिष्ट मात्रा से घुमाता है। यह मेथड घूर्णन को रूपांतरण के पहले जोड़ता है।
 
 ```csharp
 public void RotateTransform(float angle)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| angle | Single | घूर्णन का कोण। |
+| कोण | Single | घूर्णन का कोण। |
 
-### यह सभी देखें
+### देखें भी
 
 * class [TransformBrush](../)
-* नाम स्थान [Aspose.PSD.Brushes](../../transformbrush/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## RotateTransform(float, MatrixOrder) {#rotatetransform_1}
 
-निर्दिष्ट क्रम में निर्दिष्ट राशि द्वारा स्थानीय ज्यामितीय परिवर्तन को घुमाता है।
+स्थानीय ज्यामितीय रूपांतरण को निर्दिष्ट क्रम में निर्दिष्ट मात्रा से घुमाता है।
 
 ```csharp
 public void RotateTransform(float angle, MatrixOrder order)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| angle | Single | घूर्णन का कोण। |
-| order | MatrixOrder | ए[`MatrixOrder`](../../../aspose.psd/matrixorder/) यह निर्दिष्ट करता है कि रोटेशन मैट्रिक्स को जोड़ना है या नहीं। |
+| कोण | Single | घूर्णन का कोण। |
+| order | MatrixOrder | एक [`MatrixOrder`](../../../aspose.psd/matrixorder/) जो यह निर्दिष्ट करता है कि घूर्णन मैट्रिक्स को जोड़ना है या पहले जोड़ना है। |
 
-### यह सभी देखें
+### देखें भी
 
 * enum [MatrixOrder](../../../aspose.psd/matrixorder/)
 * class [TransformBrush](../)
-* नाम स्थान [Aspose.PSD.Brushes](../../transformbrush/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
+* assembly [Aspose.PSD](../../../)
 
 

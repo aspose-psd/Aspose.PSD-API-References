@@ -1,23 +1,24 @@
 ---
-title: Namespaces.Pdf
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Namespaces मैदन. एडब पडएफ नेमस्पेस.
+title: "Namespaces.Pdf"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Namespaces फ़ील्ड। Adobe PDF नेमस्पेस"
 type: docs
 weight: 20
 url: /hi/net/aspose.psd.xmp/namespaces/pdf/
 ---
+{{< psd/tize >}}
 ## Namespaces.Pdf field
 
-एडोब पीडीएफ नेमस्पेस.
+Adobe PDF नेमस्पेस।
 
 ```csharp
 public const string Pdf;
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * class [Namespaces](../)
-* नाम स्थान [Aspose.PSD.Xmp](../../namespaces/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

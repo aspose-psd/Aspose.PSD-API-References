@@ -1,28 +1,29 @@
 ---
-title: ExifData.ExifTags
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: ExifData संपत्त. ऐसे टैग प्रप्त य सेट करत है ज केवल EXIF अनुभग से संबंधत हैं
+title: "ExifData.ExifTags"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "ExifData प्रॉपर्टी। केवल EXIF सेक्शन से संबंधित टैग प्राप्त करता है या सेट करता है"
 type: docs
 weight: 170
 url: /hi/net/aspose.psd.exif/exifdata/exiftags/
 ---
+{{< psd/tize >}}
 ## ExifData.ExifTags property
 
-ऐसे टैग प्राप्त या सेट करता है जो केवल EXIF अनुभाग से संबंधित हैं।
+केवल EXIF अनुभाग से संबंधित टैग प्राप्त करता है या सेट करता है।
 
 ```csharp
 public TiffDataType[] ExifTags { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-EXIF सेक्शन टैग.
+EXIF सेक्शन टैग।
 
-### यह सभी देखें
+### देखें भी
 
 * class [TiffDataType](../../../aspose.psd.fileformats.tiff/tiffdatatype/)
 * class [ExifData](../)
-* नाम स्थान [Aspose.PSD.Exif](../../exifdata/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

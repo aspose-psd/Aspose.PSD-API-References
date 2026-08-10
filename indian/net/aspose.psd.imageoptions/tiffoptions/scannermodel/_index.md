@@ -1,27 +1,28 @@
 ---
-title: TiffOptions.ScannerModel
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: TiffOptions संपत्त. स्कैनर मडल प्रप्त य सेट करत है
+title: "TiffOptions.ScannerModel"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "TiffOptions प्रॉपर्टी। स्कैनर मॉडल को प्राप्त करता है या सेट करता है"
 type: docs
-weight: 420
+weight: 430
 url: /hi/net/aspose.psd.imageoptions/tiffoptions/scannermodel/
 ---
+{{< psd/tize >}}
 ## TiffOptions.ScannerModel property
 
-स्कैनर मॉडल प्राप्त या सेट करता है।
+स्कैनर मॉडल को प्राप्त करता है या सेट करता है।
 
 ```csharp
 public string ScannerModel { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-स्कैनर मॉडल.
+स्कैनर मॉडल।
 
-### यह सभी देखें
+### देखें भी
 
 * class [TiffOptions](../)
-* नाम स्थान [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

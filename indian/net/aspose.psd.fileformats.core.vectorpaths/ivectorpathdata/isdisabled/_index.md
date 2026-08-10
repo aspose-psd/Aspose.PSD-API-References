@@ -1,34 +1,35 @@
 ---
-title: IVectorPathData.IsDisabled
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: IVectorPathData संपत्त. एक मन प्रप्त करत है य सेट करत है ज दर्शत है क यह उदहरण अक्षम है य नहं
+title: "IVectorPathData.IsDisabled"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "IVectorPathData प्रॉपर्टी। एक मान प्राप्त करता या सेट करता है जो दर्शाता है कि यह इंस्टेंस अक्षम है या नहीं"
 type: docs
 weight: 10
 url: /hi/net/aspose.psd.fileformats.core.vectorpaths/ivectorpathdata/isdisabled/
 ---
+{{< psd/tize >}}
 ## IVectorPathData.IsDisabled property
 
-एक मान प्राप्त करता है या सेट करता है जो दर्शाता है कि यह उदाहरण अक्षम है या नहीं।
+इस इंस्टेंस के निष्क्रिय होने को दर्शाने वाला मान प्राप्त करता है या सेट करता है।
 
 ```csharp
 public bool IsDisabled { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-`सत्य` अगर यह उदाहरण अक्षम है; अन्यथा,`असत्य` .
+`true` यदि यह इंस्टेंस अक्षम है; अन्यथा, `false`।
 
-### उदाहरण
+## उदाहरण
 
-यह उदाहरण फसल संचालन के सही कार्य के लिए PsdImage.ImageResources में 'WorkingPathResource' संसाधन के समर्थन को प्रदर्शित करता है।
+यह उदाहरण PsdImage.ImageResources में 'WorkingPathResource' संसाधन के समर्थन को दर्शाता है ताकि Crop ऑपरेशन सही ढंग से काम करे।
 
 ```csharp
 [C#]
 
-// क्रॉप इमेज और सेव करें।
+// इमेज को क्रॉप करें और सहेजें।
 using (var psdImage = (PsdImage)Image.Load(sourceFile))
 {
-    // वर्किंगपाथ रिसोर्स संसाधन खोजें।
+    // WorkingPathResource संसाधन खोजें।
     ResourceBlock[] imageResources = psdImage.ImageResources;
     WorkingPathResource workingPathResource = null;
     foreach (var imageResource in imageResources)
@@ -46,15 +47,15 @@ using (var psdImage = (PsdImage)Image.Load(sourceFile))
         throw new Exception("Values is incorrect.");
     }
 
-    // फसल और बचाओ।
+    // क्रॉप करें और सहेजें।
     psdImage.Crop(0, 500, 0, 200);
     psdImage.Save(outputFile);
 }
 
-// सहेजी गई छवि लोड करें और परिवर्तनों की जांच करें।
+// सहेजी गई इमेज लोड करें और बदलावों की जाँच करें।
 using (var psdImage = (PsdImage)Image.Load(outputFile))
 {
-    // वर्किंगपाथ रिसोर्स संसाधन खोजें।
+    // WorkingPathResource संसाधन खोजें।
     ResourceBlock[] imageResources = psdImage.ImageResources;
     WorkingPathResource workingPathResource = null;
     foreach (var imageResource in imageResources)
@@ -74,10 +75,10 @@ using (var psdImage = (PsdImage)Image.Load(outputFile))
 }
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * interface [IVectorPathData](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Core.VectorPaths](../../ivectorpathdata/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: TiffOptions.TotalPages
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: TiffOptions संपत्त. कुल पृष्ठ प्रप्त करत है
+title: "TiffOptions.TotalPages"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "TiffOptions प्रॉपर्टी। कुल पृष्ठों को प्राप्त करता है"
 type: docs
-weight: 560
+weight: 570
 url: /hi/net/aspose.psd.imageoptions/tiffoptions/totalpages/
 ---
+{{< psd/tize >}}
 ## TiffOptions.TotalPages property
 
-कुल पृष्ठ प्राप्त करता है।
+कुल पृष्ठों को प्राप्त करता है।
 
 ```csharp
 public ushort TotalPages { get; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
 कुल पृष्ठ।
 
-### यह सभी देखें
+### देखें भी
 
 * class [TiffOptions](../)
-* नाम स्थान [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

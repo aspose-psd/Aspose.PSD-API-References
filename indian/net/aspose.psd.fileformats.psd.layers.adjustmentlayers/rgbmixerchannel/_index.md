@@ -1,38 +1,39 @@
 ---
-title: Class RgbMixerChannel
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers.RgbMixerChannel कक्ष. आरजब चैनल यह चैनल र डेट के लए रैपर है MixrResource में प्रयुक्त
+title: "क्लास RgbMixerChannel"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers.RgbMixerChannel क्लास। RgbChannel। चैनल कच्चा डेटा के लिए इसका रैपर। MixrResource में उपयोग किया गया।"
 type: docs
-weight: 1820
+weight: 1890
 url: /hi/net/aspose.psd.fileformats.psd.layers.adjustmentlayers/rgbmixerchannel/
 ---
+{{< psd/tize >}}
 ## RgbMixerChannel class
 
-आरजीबी चैनल। यह चैनल रॉ डेटा के लिए रैपर है। MixrResource में प्रयुक्त
+RgbChannel. यह चैनल कच्चा डेटा के लिए रैपर है। MixrResource में उपयोग किया जाता है
 
 ```csharp
 public class RgbMixerChannel : MixerChannel
 ```
 
-## गुण
+## प्रॉपर्टीज़
 
 | नाम | विवरण |
 | --- | --- |
-| [Blue](../../aspose.psd.fileformats.psd.layers.adjustmentlayers/rgbmixerchannel/blue/) { get; set; } | नीला हो जाता है या सेट हो जाता है। |
-| [Constant](../../aspose.psd.fileformats.psd.layers.adjustmentlayers/mixerchannel/constant/) { get; set; } | चैनल का स्थिरांक प्राप्त या सेट करता है। |
-| [Green](../../aspose.psd.fileformats.psd.layers.adjustmentlayers/rgbmixerchannel/green/) { get; set; } | हरा हो जाता है या सेट हो जाता है। |
-| [Red](../../aspose.psd.fileformats.psd.layers.adjustmentlayers/rgbmixerchannel/red/) { get; set; } | लाल हो जाता है या सेट करता है। |
+| [Blue](../../aspose.psd.fileformats.psd.layers.adjustmentlayers/rgbmixerchannel/blue/) { get; set; } | नीले मान को प्राप्त करता है या सेट करता है। |
+| [Constant](../../aspose.psd.fileformats.psd.layers.adjustmentlayers/mixerchannel/constant/) { get; set; } | constant.of चैनल को प्राप्त करता है या सेट करता है। |
+| [Green](../../aspose.psd.fileformats.psd.layers.adjustmentlayers/rgbmixerchannel/green/) { get; set; } | हरे मान को प्राप्त करता है या सेट करता है। |
+| [Red](../../aspose.psd.fileformats.psd.layers.adjustmentlayers/rgbmixerchannel/red/) { get; set; } | लाल मान को प्राप्त करता है या सेट करता है। |
 
-## तरीकों
+## मेथड्स
 
 | नाम | विवरण |
 | --- | --- |
 | [GetRawData](../../aspose.psd.fileformats.psd.layers.adjustmentlayers/mixerchannel/getrawdata/)() | कच्चा डेटा प्राप्त करता है। |
 
-### यह सभी देखें
+### देखें भी
 
 * class [MixerChannel](../mixerchannel/)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../aspose.psd.fileformats.psd.layers.adjustmentlayers/)
-* सभा [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../aspose.psd.fileformats.psd.layers.adjustmentlayers/)
+* assembly [Aspose.PSD](../../)
 
 

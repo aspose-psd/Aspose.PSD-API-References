@@ -1,34 +1,35 @@
 ---
-title: Pen.Transform
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Pen संपत्त. इसके लए ज्यमतय परवर्तन क एक प्रत प्रप्त य सेट करत हैPen .
+title: "Pen.Transform"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Pen प्रॉपर्टी। इस Pen के लिए ज्यामितीय परिवर्तन की एक प्रति को प्राप्त करता है या सेट करता है।"
 type: docs
 weight: 170
 url: /hi/net/aspose.psd/pen/transform/
 ---
+{{< psd/tize >}}
 ## Pen.Transform property
 
-इसके लिए ज्यामितीय परिवर्तन की एक प्रति प्राप्त या सेट करता है[`Pen`](../) .
+इस [`Pen`](../) के लिए ज्यामितीय परिवर्तन की एक प्रति को प्राप्त करता है या सेट करता है।
 
 ```csharp
 public Matrix Transform { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-की एक प्रति[`Matrix`](../../matrix/) जो इसके लिए ज्यामितीय परिवर्तन का प्रतिनिधित्व करता है[`Pen`](../).
+एक [`Matrix`](../../matrix/) की प्रति जो इस [`Pen`](../) के लिए ज्यामितीय परिवर्तन को दर्शाती है।
 
 ### अपवाद
 
-| अपवाद | स्थिति |
+| अपवाद | शर्त |
 | --- | --- |
-| ArgumentException | `Transform` संपत्ति एक अपरिवर्तनीय पर सेट है[`Pen`](../) , जैसे कि द्वारा लौटाए गए[`Pen`](../) कक्षा। |
+| ArgumentException | `Transform` प्रॉपर्टी एक अपरिवर्तनीय [`Pen`](../) पर सेट की जाती है, जैसे कि [`Pen`](../) क्लास द्वारा लौटाए गए। |
 
-### यह सभी देखें
+### देखें भी
 
 * class [Matrix](../../matrix/)
 * class [Pen](../)
-* नाम स्थान [Aspose.PSD](../../pen/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

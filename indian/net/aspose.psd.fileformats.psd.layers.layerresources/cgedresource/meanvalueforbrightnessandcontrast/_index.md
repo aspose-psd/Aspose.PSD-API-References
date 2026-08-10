@@ -1,27 +1,28 @@
 ---
-title: CgEdResource.MeanValueForBrightnessAndContrast
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: CgEdResource संपत्त. चमक और कंट्रस्ट के लए मध्य मन प्रप्त य सेट करत है
+title: "CgEdResource.MeanValueForBrightnessAndContrast"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "CgEdResource प्रॉपर्टी। चमक और कंट्रास्ट के लिए औसत मान प्राप्त करता है या सेट करता है"
 type: docs
-weight: 80
+weight: 70
 url: /hi/net/aspose.psd.fileformats.psd.layers.layerresources/cgedresource/meanvalueforbrightnessandcontrast/
 ---
+{{< psd/tize >}}
 ## CgEdResource.MeanValueForBrightnessAndContrast property
 
-चमक और कंट्रास्ट के लिए माध्य मान प्राप्त या सेट करता है।
+ब्राइटनेस और कॉन्ट्रास्ट के लिए औसत मान को प्राप्त करता है या सेट करता है।
 
 ```csharp
 public int MeanValueForBrightnessAndContrast { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-चमक और कंट्रास्ट के लिए माध्य मान.
+चमक और कंट्रास्ट के लिए औसत मान।
 
-### यह सभी देखें
+### देखें भी
 
 * class [CgEdResource](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../cgedresource/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

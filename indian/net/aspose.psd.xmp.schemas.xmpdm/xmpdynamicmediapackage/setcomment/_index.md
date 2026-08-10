@@ -1,27 +1,28 @@
 ---
-title: XmpDynamicMediaPackage.SetComment
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: XmpDynamicMediaPackage तरक. टप्पण सेट करत है
+title: "XmpDynamicMediaPackage.SetComment"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "XmpDynamicMediaPackage मेथड। टिप्पणी सेट करता है"
 type: docs
 weight: 150
 url: /hi/net/aspose.psd.xmp.schemas.xmpdm/xmpdynamicmediapackage/setcomment/
 ---
+{{< psd/tize >}}
 ## XmpDynamicMediaPackage.SetComment method
 
-टिप्पणी सेट करता है।
+टिप्पणी को सेट करता है।
 
 ```csharp
 public void SetComment(string comment)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| comment | String | टिप्पणी। |
+| टिप्पणी | String | टिप्पणी। |
 
-### यह सभी देखें
+### देखें भी
 
 * class [XmpDynamicMediaPackage](../)
-* नाम स्थान [Aspose.PSD.Xmp.Schemas.XmpDm](../../xmpdynamicmediapackage/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpDm](../../../aspose.psd.xmp.schemas.xmpdm/)
+* assembly [Aspose.PSD](../../../)
 
 

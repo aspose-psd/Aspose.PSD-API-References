@@ -1,28 +1,29 @@
 ---
-title: IColorFillSettings.Color
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: IColorFillSettings संपत्त. रंग प्रप्त य सेट करत है
+title: "IColorFillSettings.Color"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "IColorFillSettings प्रॉपर्टी. रंग प्राप्त करता है या सेट करता है"
 type: docs
 weight: 10
 url: /hi/net/aspose.psd.fileformats.psd.layers.fillsettings/icolorfillsettings/color/
 ---
+{{< psd/tize >}}
 ## IColorFillSettings.Color property
 
-रंग प्राप्त या सेट करता है।
+रंग प्राप्त करता है या सेट करता है।
 
 ```csharp
 public Color Color { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-रंग.
+रंग।
 
-### यह सभी देखें
+### देखें भी
 
 * struct [Color](../../../aspose.psd/color/)
 * interface [IColorFillSettings](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../icolorfillsettings/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../../)
 
 

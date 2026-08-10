@@ -1,23 +1,24 @@
 ---
-title: Point.X
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Point संपत्त. इसक xनर्देशंक प्रप्त य सेट करत हैPoint .
+title: "Point.X"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Point प्रॉपर्टी। इस Point के xकोऑर्डिनेट को प्राप्त या सेट करता है।"
 type: docs
 weight: 90
 url: /hi/net/aspose.psd/point/x/
 ---
+{{< psd/tize >}}
 ## Point.X property
 
-इसका x-निर्देशांक प्राप्त या सेट करता है[`Point`](../) .
+इस [`Point`](../) का x-कोऑर्डिनेट प्राप्त या सेट करता है।
 
 ```csharp
 public int X { get; set; }
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * struct [Point](../)
-* नाम स्थान [Aspose.PSD](../../point/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

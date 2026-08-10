@@ -1,27 +1,28 @@
 ---
-title: TypeToolInfo6Resource.Top
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: TypeToolInfo6Resource संपत्त. शर्ष स्थन प्रप्त य सेट करत है
+title: "TypeToolInfo6Resource.Top"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "TypeToolInfo6Resource property. शीर्ष स्थान प्राप्त या सेट करता है"
 type: docs
-weight: 140
+weight: 110
 url: /hi/net/aspose.psd.fileformats.psd.layers.layerresources/typetoolinfo6resource/top/
 ---
+{{< psd/tize >}}
 ## TypeToolInfo6Resource.Top property
 
-शीर्ष स्थान प्राप्त या सेट करता है।
+टॉप लोकेशन को प्राप्त करता है या सेट करता है।
 
 ```csharp
 public int Top { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
 शीर्ष स्थान।
 
-### यह सभी देखें
+### देखें भी
 
 * class [TypeToolInfo6Resource](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../typetoolinfo6resource/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

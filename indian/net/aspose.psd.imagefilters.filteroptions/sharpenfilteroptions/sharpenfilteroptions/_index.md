@@ -1,44 +1,45 @@
 ---
-title: SharpenFilterOptions.SharpenFilterOptions
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: SharpenFilterOptions नर्मत. क एक नय उदहरण प्ररंभ करत हैSharpenFilterOptions वर्ग.
+title: "SharpenFilterOptions.SharpenFilterOptions"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "SharpenFilterOptions कंस्ट्रक्टर। SharpenFilterOptions क्लास का नया इंस्टेंस इनिशियलाइज़ करता है"
 type: docs
 weight: 10
 url: /hi/net/aspose.psd.imagefilters.filteroptions/sharpenfilteroptions/sharpenfilteroptions/
 ---
+{{< psd/tize >}}
 ## SharpenFilterOptions(int, double) {#constructor_1}
 
-का एक नया उदाहरण प्रारंभ करता है[`SharpenFilterOptions`](../) वर्ग.
+[`SharpenFilterOptions`](../) क्लास का नया इंस्टेंस इनिशियलाइज़ करता है।
 
 ```csharp
 public SharpenFilterOptions(int size, double sigma)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| size | Int32 | कर्नेल का आकार। |
-| sigma | Double | सिग्मा। |
+| आकार | Int32 | कर्नेल का आकार। |
+| सिग्मा | Double | सिग्मा। |
 
-### यह सभी देखें
+### देखें भी
 
 * class [SharpenFilterOptions](../)
-* नाम स्थान [Aspose.PSD.ImageFilters.FilterOptions](../../sharpenfilteroptions/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageFilters.FilterOptions](../../../aspose.psd.imagefilters.filteroptions/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## SharpenFilterOptions() {#constructor}
 
-का एक नया उदाहरण प्रारंभ करता है[`SharpenFilterOptions`](../) वर्ग. डिफ़ॉल्ट सेटिंग के साथ.
+[`SharpenFilterOptions`](../) क्लास का नया इंस्टेंस इनिशियलाइज़ करता है। डिफ़ॉल्ट सेटिंग्स के साथ।
 
 ```csharp
 public SharpenFilterOptions()
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * class [SharpenFilterOptions](../)
-* नाम स्थान [Aspose.PSD.ImageFilters.FilterOptions](../../sharpenfilteroptions/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageFilters.FilterOptions](../../../aspose.psd.imagefilters.filteroptions/)
+* assembly [Aspose.PSD](../../../)
 
 

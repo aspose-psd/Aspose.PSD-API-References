@@ -1,11 +1,12 @@
 ---
-title: PsdOptions.XmpData
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: PsdOptions संपत्त. XMP डेट कंटेनर प्रप्त करें य सेट करें
+title: "PsdOptions.XmpData"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "PsdOptions प्रॉपर्टी। XMP डेटा कंटेनर को प्राप्त करें या सेट करें"
 type: docs
-weight: 110
+weight: 130
 url: /hi/net/aspose.psd.imageoptions/psdoptions/xmpdata/
 ---
+{{< psd/tize >}}
 ## PsdOptions.XmpData property
 
 XMP डेटा कंटेनर प्राप्त करें या सेट करें
@@ -14,11 +15,11 @@ XMP डेटा कंटेनर प्राप्त करें या �
 public override XmpPacketWrapper XmpData { get; set; }
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * class [XmpPacketWrapper](../../../aspose.psd.xmp/xmppacketwrapper/)
 * class [PsdOptions](../)
-* नाम स्थान [Aspose.PSD.ImageOptions](../../psdoptions/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

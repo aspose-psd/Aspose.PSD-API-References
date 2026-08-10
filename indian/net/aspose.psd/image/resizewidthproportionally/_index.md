@@ -1,71 +1,72 @@
 ---
-title: Image.ResizeWidthProportionally
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Image तरक. आनुपतक रूप से चड़ई क आकर बदलत है
+title: "Image.ResizeWidthProportionally"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Image मेथड। चौड़ाई को अनुपातिक रूप से री‑साइज़ करता है। डिफ़ॉल्ट NearestNeighbourResample उपयोग किया जाता है।"
 type: docs
-weight: 210
+weight: 220
 url: /hi/net/aspose.psd/image/resizewidthproportionally/
 ---
+{{< psd/tize >}}
 ## ResizeWidthProportionally(int) {#resizewidthproportionally}
 
-आनुपातिक रूप से चौड़ाई का आकार बदलता है।
+चौड़ाई को अनुपातिक रूप से बदलता है। डिफ़ॉल्ट NearestNeighbourResample उपयोग किया जाता है।
 
 ```csharp
 public void ResizeWidthProportionally(int newWidth)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
 | newWidth | Int32 | नई चौड़ाई। |
 
-### यह सभी देखें
+### देखें भी
 
 * class [Image](../)
-* नाम स्थान [Aspose.PSD](../../image/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## ResizeWidthProportionally(int, ResizeType) {#resizewidthproportionally_2}
 
-आनुपातिक रूप से चौड़ाई का आकार बदलता है।
+चौड़ाई को अनुपातिक रूप से बदलता है।
 
 ```csharp
 public virtual void ResizeWidthProportionally(int newWidth, ResizeType resizeType)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
 | newWidth | Int32 | नई चौड़ाई। |
-| resizeType | ResizeType | आकार बदलने का प्रकार। |
+| resizeType | ResizeType | री‑साइज़ का प्रकार। |
 
-### यह सभी देखें
+### देखें भी
 
 * enum [ResizeType](../../resizetype/)
 * class [Image](../)
-* नाम स्थान [Aspose.PSD](../../image/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## ResizeWidthProportionally(int, ImageResizeSettings) {#resizewidthproportionally_1}
 
-आनुपातिक रूप से चौड़ाई का आकार बदलता है।
+चौड़ाई को अनुपातिक रूप से बदलता है।
 
 ```csharp
 public virtual void ResizeWidthProportionally(int newWidth, ImageResizeSettings settings)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
 | newWidth | Int32 | नई चौड़ाई। |
-| settings | ImageResizeSettings | छवि का आकार बदलें सेटिंग्स। |
+| सेटिंग्स | ImageResizeSettings | इमेज री‑साइज़ सेटिंग्स। |
 
-### यह सभी देखें
+### देखें भी
 
 * class [ImageResizeSettings](../../imageresizesettings/)
 * class [Image](../)
-* नाम स्थान [Aspose.PSD](../../image/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

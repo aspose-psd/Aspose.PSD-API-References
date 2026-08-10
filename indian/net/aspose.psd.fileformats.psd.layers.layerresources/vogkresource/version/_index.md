@@ -1,26 +1,27 @@
 ---
-title: VogkResource.Version
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: VogkResource संपत्त. संस्करण प्रप्त य सेट करत है
+title: "VogkResource.Version"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "VogkResource प्रॉपर्टी. संस्करण को प्राप्त करता है या सेट करता है."
 type: docs
-weight: 70
+weight: 40
 url: /hi/net/aspose.psd.fileformats.psd.layers.layerresources/vogkresource/version/
 ---
+{{< psd/tize >}}
 ## VogkResource.Version property
 
-संस्करण प्राप्त या सेट करता है।
+संस्करण को प्राप्त करता है या सेट करता है।
 
 ```csharp
 public int Version { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-संस्करण।
+संस्करण.
 
-### उदाहरण
+## उदाहरण
 
-निम्न उदाहरण VogkResource संसाधन के समर्थन को प्रदर्शित करता है।
+निम्न उदाहरण VogkResource संसाधन के समर्थन को दर्शाता है।
 
 ```csharp
 [C#]
@@ -55,7 +56,7 @@ using (var psdImage = (PsdImage)Image.Load(sourceFilePath))
 {
     var resource = GetVogkResource(psdImage);
 
-    // अध्ययन
+    // पढ़ना
     if (resource.ShapeOriginSettings.Length != 1 ||
         !resource.ShapeOriginSettings[0].IsShapeInvalidated ||
         resource.ShapeOriginSettings[0].OriginIndex != 0)
@@ -74,10 +75,10 @@ using (var psdImage = (PsdImage)Image.Load(sourceFilePath))
 }
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * class [VogkResource](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../vogkresource/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

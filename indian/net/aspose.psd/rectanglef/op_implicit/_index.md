@@ -1,32 +1,33 @@
 ---
-title: RectangleF.op_Implicit
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: RectangleF तरक. नर्दष्ट क परवर्तत करत हैRectangle ए के लए संरचनRectangleFसंरचन.
+title: "RectangleF.op_Implicit"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "RectangleF मेथड। निर्दिष्ट Rectangle संरचना को RectangleF संरचना में परिवर्तित करता है।"
 type: docs
 weight: 280
 url: /hi/net/aspose.psd/rectanglef/op_implicit/
 ---
+{{< psd/tize >}}
 ## RectangleF Implicit operator
 
-निर्दिष्ट को परिवर्तित करता है[`Rectangle`](../../rectangle/) ए के लिए संरचना[`RectangleF`](../)संरचना.
+निर्दिष्ट [`Rectangle`](../../rectangle/) संरचना को [`RectangleF`](../) संरचना में परिवर्तित करता है।
 
 ```csharp
 public static implicit operator RectangleF(Rectangle rect)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| rect | Rectangle | [`Rectangle`](../../rectangle/) कनवर्ट करने के लिए संरचना। |
+| rect | Rectangle | परिवर्तित करने के लिए [`Rectangle`](../../rectangle/) संरचना। |
 
-### प्रतिलाभ की मात्रा
+### रिटर्न वैल्यू
 
-[`RectangleF`](../) संरचना जो निर्दिष्ट से परिवर्तित हो जाती है[`Rectangle`](../../rectangle/) संरचना।
+निर्दिष्ट [`Rectangle`](../../rectangle/) संरचना से परिवर्तित की गई [`RectangleF`](../) संरचना।
 
-### यह सभी देखें
+### देखें भी
 
 * struct [Rectangle](../../rectangle/)
 * struct [RectangleF](../)
-* नाम स्थान [Aspose.PSD](../../rectanglef/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

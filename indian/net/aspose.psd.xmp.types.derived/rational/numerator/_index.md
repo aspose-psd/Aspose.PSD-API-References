@@ -1,27 +1,28 @@
 ---
-title: Rational.Numerator
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Rational संपत्त. अंश प्रप्त करत है
+title: "Rational.Numerator"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Rational प्रॉपर्टी. अंश प्राप्त करता है"
 type: docs
 weight: 40
 url: /hi/net/aspose.psd.xmp.types.derived/rational/numerator/
 ---
+{{< psd/tize >}}
 ## Rational.Numerator property
 
-अंश प्राप्त करता है।
+अंश को प्राप्त करता है।
 
 ```csharp
 public int Numerator { get; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-अंश.
+अंश।
 
-### यह सभी देखें
+### देखें भी
 
 * class [Rational](../)
-* नाम स्थान [Aspose.PSD.Xmp.Types.Derived](../../rational/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Derived](../../../aspose.psd.xmp.types.derived/)
+* assembly [Aspose.PSD](../../../)
 
 

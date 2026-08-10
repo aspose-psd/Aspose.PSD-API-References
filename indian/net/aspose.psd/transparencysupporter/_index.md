@@ -1,14 +1,15 @@
 ---
-title: Class TransparencySupporter
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Aspose.PSD.TransparencySupporter कक्ष. परदर्शत क समर्थन करने वल वस्तु
+title: "क्लास TransparencySupporter"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Aspose.PSD.TransparencySupporter क्लास। पारदर्शिता को समर्थन देने वाला ऑब्जेक्ट"
 type: docs
-weight: 5710
+weight: 6210
 url: /hi/net/aspose.psd/transparencysupporter/
 ---
+{{< psd/tize >}}
 ## TransparencySupporter class
 
-पारदर्शिता का समर्थन करने वाली वस्तु।
+पारदर्शिता को समर्थन देने वाला ऑब्जेक्ट।
 
 ```csharp
 public class TransparencySupporter
@@ -18,17 +19,17 @@ public class TransparencySupporter
 
 | नाम | विवरण |
 | --- | --- |
-| [TransparencySupporter](transparencysupporter/)() | डिफ़ॉल्ट कंस्ट्रक्टर। |
+| [TransparencySupporter](transparencysupporter/)() | डिफ़ॉल्ट कन्स्ट्रक्टर। |
 
-## गुण
+## प्रॉपर्टीज़
 
 | नाम | विवरण |
 | --- | --- |
-| [Opacity](../../aspose.psd/transparencysupporter/opacity/) { get; set; } | ऑब्जेक्ट की अपारदर्शिता प्राप्त या सेट करता है। मान 0 और 1 के बीच होना चाहिए। 0 के मान का अर्थ है कि वस्तु पूरी तरह से दिखाई दे रही है, 1 के मान का अर्थ है कि वस्तु पूरी तरह से अपारदर्शी है। |
+| [Opacity](../../aspose.psd/transparencysupporter/opacity/) { get; set; } | ऑब्जेक्ट की अपारदर्शिता प्राप्त करता है या सेट करता है। मान 0 और 1 के बीच होना चाहिए। 0 का मान दर्शाता है कि ऑब्जेक्ट पूरी तरह दिखाई देता है, 1 का मान दर्शाता है कि ऑब्जेक्ट पूरी तरह अपारदर्शी है। |
 
-### यह सभी देखें
+### देखें भी
 
-* नाम स्थान [Aspose.PSD](../../aspose.psd/)
-* सभा [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

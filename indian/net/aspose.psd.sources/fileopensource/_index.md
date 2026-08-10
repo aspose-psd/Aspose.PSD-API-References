@@ -1,14 +1,15 @@
 ---
-title: Class FileOpenSource
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Aspose.PSD.Sources.FileOpenSource कक्ष. खलने के लए फ़इल स्रत क प्रतनधत्व करत है
+title: "क्लास FileOpenSource"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Aspose.PSD.Sources.FileOpenSource क्लास। खोलने के लिए फ़ाइल स्रोत का प्रतिनिधित्व करता है"
 type: docs
-weight: 5600
+weight: 6100
 url: /hi/net/aspose.psd.sources/fileopensource/
 ---
+{{< psd/tize >}}
 ## FileOpenSource class
 
-खोलने के लिए फ़ाइल स्रोत का प्रतिनिधित्व करता है।
+खोलने के लिए फ़ाइल स्रोत को दर्शाता है।
 
 ```csharp
 public sealed class FileOpenSource : FileSource
@@ -18,25 +19,25 @@ public sealed class FileOpenSource : FileSource
 
 | नाम | विवरण |
 | --- | --- |
-| [FileOpenSource](fileopensource/)(string) | का एक नया उदाहरण प्रारंभ करता है`FileOpenSource` वर्ग. |
+| [FileOpenSource](fileopensource/)(string) | `FileOpenSource` क्लास का नया इंस्टेंस इनिशियलाइज़ करता है। |
 
-## गुण
+## प्रॉपर्टीज़
 
 | नाम | विवरण |
 | --- | --- |
-| [FilePath](../../aspose.psd.sources/fileopensource/filepath/) { get; } | फ़ाइल पथ खोलने के लिए मिलता है। |
-| override [IsTemporal](../../aspose.psd.sources/fileopensource/istemporal/) { get; } | यह इंगित करने वाला मान प्राप्त करता है कि फ़ाइल अस्थायी होगी या नहीं। |
+| [FilePath](../../aspose.psd.sources/fileopensource/filepath/) { get; } | खोलने के लिए फ़ाइल पथ प्राप्त करता है। |
+| override [IsTemporal](../../aspose.psd.sources/fileopensource/istemporal/) { get; } | फ़ाइल अस्थायी होगी या नहीं, यह दर्शाने वाला मान प्राप्त करता है। |
 
-## तरीकों
+## मेथड्स
 
 | नाम | विवरण |
 | --- | --- |
 | override [GetStreamContainer](../../aspose.psd.sources/fileopensource/getstreamcontainer/)() | स्ट्रीम कंटेनर प्राप्त करता है। |
 
-### यह सभी देखें
+### देखें भी
 
 * class [FileSource](../filesource/)
-* नाम स्थान [Aspose.PSD.Sources](../../aspose.psd.sources/)
-* सभा [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Sources](../../aspose.psd.sources/)
+* assembly [Aspose.PSD](../../)
 
 

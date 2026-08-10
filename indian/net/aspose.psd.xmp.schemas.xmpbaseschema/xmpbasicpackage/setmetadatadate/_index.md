@@ -1,47 +1,48 @@
 ---
-title: XmpBasicPackage.SetMetadataDate
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: XmpBasicPackage तरक. मेटडेट अंतम परवर्तत दनंक जड़त है
+title: "XmpBasicPackage.SetMetadataDate"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "XmpBasicPackage मेथड। मेटाडाटा अंतिम परिवर्तन तिथि जोड़ता है"
 type: docs
-weight: 70
+weight: 90
 url: /hi/net/aspose.psd.xmp.schemas.xmpbaseschema/xmpbasicpackage/setmetadatadate/
 ---
+{{< psd/tize >}}
 ## SetMetadataDate(DateTime) {#setmetadatadate}
 
-मेटाडेटा अंतिम परिवर्तित दिनांक जोड़ता है।
+मेटाडाटा अंतिम परिवर्तन तिथि जोड़ता है।
 
 ```csharp
 public void SetMetadataDate(DateTime metadataDate)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| metadataDate | DateTime | मेटाडेटा तिथि। |
+| metadataDate | DateTime | मेटाडाटा तिथि। |
 
-### यह सभी देखें
+### देखें भी
 
 * class [XmpBasicPackage](../)
-* नाम स्थान [Aspose.PSD.Xmp.Schemas.XmpBaseSchema](../../xmpbasicpackage/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpBaseSchema](../../../aspose.psd.xmp.schemas.xmpbaseschema/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## SetMetadataDate(string) {#setmetadatadate_1}
 
-मेटाडेटा अंतिम परिवर्तित दिनांक जोड़ता है।
+मेटाडाटा अंतिम परिवर्तन तिथि जोड़ता है।
 
 ```csharp
 public void SetMetadataDate(string metadataDate)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| metadataDate | String | मेटाडेटा तिथि। |
+| metadataDate | String | मेटाडाटा तिथि। |
 
-### यह सभी देखें
+### देखें भी
 
 * class [XmpBasicPackage](../)
-* नाम स्थान [Aspose.PSD.Xmp.Schemas.XmpBaseSchema](../../xmpbasicpackage/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpBaseSchema](../../../aspose.psd.xmp.schemas.xmpbaseschema/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,58 +1,59 @@
 ---
-title: PsdColorPalette.CopyPalette
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: PsdColorPalette तरक. पैलेट कप करत है
+title: "PsdColorPalette.CopyPalette"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "PsdColorPalette मेथड। पैलेट को कॉपी करता है"
 type: docs
 weight: 20
 url: /hi/net/aspose.psd.fileformats.psd/psdcolorpalette/copypalette/
 ---
+{{< psd/tize >}}
 ## CopyPalette(IColorPalette, bool) {#copypalette_1}
 
-पैलेट कॉपी करता है।
+पैलेट की कॉपी बनाता है।
 
 ```csharp
 public static PsdColorPalette CopyPalette(IColorPalette colorPalette, bool useCompactPalette)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
 | colorPalette | IColorPalette | रंग पैलेट। |
-| useCompactPalette | Boolean | यह दर्शाता है कि क्या कॉम्पैक्ट पैलेट। |
+| useCompactPalette | बूलियन | संकेत करता है कि कॉम्पैक्ट पैलेट है या नहीं। |
 
-### प्रतिलाभ की मात्रा
+### रिटर्न वैल्यू
 
-नव निर्मित और कॉपी किए गए पैलेट या नल अगर नल पैलेट पास हो गए।
+यदि null पैलेट पास किया गया हो तो नया बनाया गया और कॉपी किया गया पैलेट या null।
 
-### यह सभी देखें
+### देखें भी
 
 * interface [IColorPalette](../../../aspose.psd/icolorpalette/)
 * class [PsdColorPalette](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd](../../psdcolorpalette/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## CopyPalette(IColorPalette) {#copypalette}
 
-पैलेट कॉपी करता है।
+पैलेट की कॉपी बनाता है।
 
 ```csharp
 public static PsdColorPalette CopyPalette(IColorPalette colorPalette)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
 | colorPalette | IColorPalette | रंग पैलेट। |
 
-### प्रतिलाभ की मात्रा
+### रिटर्न वैल्यू
 
-नव निर्मित और कॉपी किए गए पैलेट या नल अगर नल पैलेट पास हो गए।
+यदि null पैलेट पास किया गया हो तो नया बनाया गया और कॉपी किया गया पैलेट या null।
 
-### यह सभी देखें
+### देखें भी
 
 * interface [IColorPalette](../../../aspose.psd/icolorpalette/)
 * class [PsdColorPalette](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd](../../psdcolorpalette/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,26 +1,27 @@
 ---
-title: PlacedResource.PageNumber
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: PlacedResource संपत्त. PSD फ़इल में रख गई परत क पृष्ठ संख्य प्रप्त य सेट करत है
+title: "PlacedResource.PageNumber"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "PlacedResource प्रॉपर्टी। PSD फ़ाइल में स्थापित लेयर के पेज नंबर को प्राप्त करता है या सेट करता है"
 type: docs
 weight: 90
 url: /hi/net/aspose.psd.fileformats.psd.layers.layerresources/placedresource/pagenumber/
 ---
+{{< psd/tize >}}
 ## PlacedResource.PageNumber property
 
-PSD फ़ाइल में रखी गई परत की पृष्ठ संख्या प्राप्त या सेट करता है।
+PSD फ़ाइल में रखी गई लेयर का पृष्ठ संख्या प्राप्त करता है या सेट करता है।
 
 ```csharp
 public virtual int PageNumber { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-रखी गई परत की पृष्ठ संख्या।
+स्थापित लेयर का पेज नंबर।
 
-### उदाहरण
+## उदाहरण
 
-निम्नलिखित कोड PlLdResource संसाधन के समर्थन को प्रदर्शित करता है।
+निम्नलिखित कोड PlLdResource संसाधन के समर्थन को दर्शाता है।
 
 ```csharp
 [C#]
@@ -202,16 +203,18 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
                 resource.Bottom = 248;
                 resource.Right = 145;
 
-                // कुछ मापदंडों से सावधान रहें: छवि Adobe® Photoshop® द्वारा अपठनीय हो सकती है
+                // कुछ पैरामीटर्स के साथ सावधान रहें: इमेज Adobe® Photoshop® द्वारा अपठनीय हो सकती है।
                 ////resource.UOrder = 6;
-                ////संसाधन। VOrder = 9;
+                ////resource.VOrder = 9;
 
-                // इसे कोई परिवर्तन न करें अन्यथा आप निःशुल्क रूपांतरण का उपयोग नहीं कर पाएंगे
-                // या अंडरलाइनिंग स्मार्ट ऑब्जेक्ट को वेक्टर प्रकार में बदलें
+                // इसे न बदलें, अन्यथा 
+ आप फ्री ट्रांसफ़ॉर्म का उपयोग नहीं कर पाएंगे।
+                // या 
+ अंडरलाइनिंग स्मार्ट ऑब्जेक्ट को वेक्टर टाइप में बदलें।
                 ////resource.PlacedLayerType = PlacedLayerType.Vector;
 
-                // इस विशिष्ट आईडी के साथ मान्य PlLdResource होना चाहिए
-                ////resource.UniqueId = नया गाइड ("98765432-10fe-cba0-1234-56789abcdef0");
+                // इस यूनिक आईडी के साथ एक वैध PlLdResource होना चाहिए।
+                ////resource.UniqueId = new Guid("98765432-10fe-cba0-1234-56789abcdef0");
 
                 break;
             }
@@ -223,12 +226,12 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
 }
 ```
 
-निम्न कोड SoLdResource संसाधन के समर्थन को प्रदर्शित करता है।
+निम्नलिखित कोड SoLdResource रिसोर्स के समर्थन को दर्शाता है।
 
 ```csharp
 [C#]
 
-// यह उदाहरण दिखाता है कि PSD फ़ाइल के स्मार्ट ऑब्जेक्ट लेयर डेटा गुण कैसे प्राप्त करें या सेट करें।
+// यह उदाहरण दिखाता है कि PSD फ़ाइल के स्मार्ट ऑब्जेक्ट लेयर डेटा प्रॉपर्टीज़ को कैसे प्राप्त या सेट किया जाए।
 
 void AssertAreEqual(object actual, object expected)
 {
@@ -462,8 +465,8 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
                     resource.HorizontalMeshPoints = temp;
                 }
 
-                // यह मान PlLdResource (निर्दिष्ट UniqueId के साथ) में भी बदला जाना चाहिए
-                // और उनमें से कुछ को LinkDataSource में अंडरलाइनिंग स्मार्ट ऑब्जेक्ट के अनुरूप होना चाहिए
+                // इन मानों को PlLdResource (निर्दिष्ट UniqueId के साथ) में भी बदलना चाहिए।
+                // और उनमें से कुछ को LinkDataSource में अंडरलाइनिंग स्मार्ट ऑब्जेक्ट के अनुरूप होना चाहिए।
                 resource.PageNumber = 2;
                 resource.TotalPages = 3;
                 resource.AntiAliasPolicy = 0;
@@ -508,19 +511,21 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
                     42
                 };
 
-                // इस अनूठी आईडी को संदर्भों में बदला जाना चाहिए यदि कोई हो
+                // यदि कोई रेफ़रेंस है तो इस यूनिक आईडी को बदलना चाहिए।
                 resource.PlacedId = new Guid("12345678-9abc-def0-9876-54321fecba98");
 
-                // कुछ मापदंडों से सावधान रहें: छवि Adobe® Photoshop® द्वारा अपठनीय हो सकती है
+                // कुछ पैरामीटर्स के साथ सावधान रहें: इमेज Adobe® Photoshop® द्वारा अपठनीय हो सकती है।
                 ////resource.UOrder = 6;
-                ////संसाधन। VOrder = 9;
+                ////resource.VOrder = 9;
 
-                // इसे कोई परिवर्तन न करें अन्यथा आप निःशुल्क रूपांतरण का उपयोग नहीं कर पाएंगे
-                // या अंडरलाइनिंग स्मार्ट ऑब्जेक्ट को वेक्टर प्रकार में बदलें
+                // इसे न बदलें, अन्यथा 
+ आप फ्री ट्रांसफ़ॉर्म का उपयोग नहीं कर पाएंगे।
+                // या 
+ अंडरलाइनिंग स्मार्ट ऑब्जेक्ट को वेक्टर टाइप में बदलें।
                 ////resource.PlacedLayerType = PlacedLayerType.Vector;
 
-                // इस विशिष्ट आईडी के साथ मान्य PlLdResource होना चाहिए
-                ////resource.UniqueId = नया गाइड ("98765432-10fe-cba0-1234-56789abcdef0");
+                // इस यूनिक आईडी के साथ एक वैध PlLdResource होना चाहिए।
+                ////resource.UniqueId = new Guid("98765432-10fe-cba0-1234-56789abcdef0");
 
                 break;
             }
@@ -532,10 +537,10 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
 }
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * class [PlacedResource](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../placedresource/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

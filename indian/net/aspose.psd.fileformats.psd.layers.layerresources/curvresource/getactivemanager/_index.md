@@ -1,28 +1,29 @@
 ---
-title: CurvResource.GetActiveManager
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: CurvResource तरक. सक्रय प्रबंधक प्रप्त करत है
+title: "CurvResource.GetActiveManager"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "CurvResource मेथड। सक्रिय मैनेजर प्राप्त करता है"
 type: docs
-weight: 60
+weight: 40
 url: /hi/net/aspose.psd.fileformats.psd.layers.layerresources/curvresource/getactivemanager/
 ---
+{{< psd/tize >}}
 ## CurvResource.GetActiveManager method
 
-सक्रिय प्रबंधक प्राप्त करता है।
+सक्रिय प्रबंधक को प्राप्त करता है।
 
 ```csharp
 public CurvesManager GetActiveManager()
 ```
 
-### प्रतिलाभ की मात्रा
+### रिटर्न वैल्यू
 
-सक्रिय प्रबंधक
+सक्रिय मैनेजर
 
-### यह सभी देखें
+### देखें भी
 
 * class [CurvesManager](../../curvesmanager/)
 * class [CurvResource](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../curvresource/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

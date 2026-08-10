@@ -1,27 +1,48 @@
 ---
-title: PsdLoadOptions.AllowWarpRepaint
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: PsdLoadOptions संपत्त. प्रप्त करत है य सेट करत है क प्रदन क गई छव क तन परवर्तन के सथ य उसके बन सहेजन है य नहं
+title: "PsdLoadOptions.AllowWarpRepaint"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "PsdLoadOptions प्रॉपर्टी। यह निर्धारित करता है कि रेंडर की गई इमेज को वॉर्प ट्रांसफ़ॉर्म के साथ या बिना सहेजा जाए या नहीं।"
 type: docs
-weight: 20
+weight: 30
 url: /hi/net/aspose.psd.imageloadoptions/psdloadoptions/allowwarprepaint/
 ---
+{{< psd/tize >}}
 ## PsdLoadOptions.AllowWarpRepaint property
 
-प्राप्त करता है या सेट करता है कि प्रदान की गई छवि को ताना परिवर्तन के साथ या उसके बिना सहेजना है या नहीं।
+रेंडर की गई इमेज के साथ, वॉर्प ट्रांसफ़ॉर्म के साथ या बिना, सहेजना चाहिए या नहीं, इसे प्राप्त करता है या सेट करता है।
 
 ```csharp
 public bool AllowWarpRepaint { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-`सत्य` ताना परिवर्तन के साथ छवि प्रस्तुत करें`असत्य` .
+`true` वॉर्प ट्रांसफ़ॉर्मेशन के साथ इमेज रेंडर करें `false`।
 
-### यह सभी देखें
+## उदाहरण
+
+निम्नलिखित कोड वॉर्प इफ़ेक्ट रेंडरिंग को दर्शाता है।
+
+```csharp
+[C#]
+
+string sourceFile = "source.psd";
+string pngWarpedExport = "warped.png";
+string psdWarpedExport = "warpFile.psd";
+
+var warpLoadOptions = new PsdLoadOptions() { AllowWarpRepaint = true };
+
+using (var image = (PsdImage)Image.Load(sourceFile, warpLoadOptions))
+{
+    image.Save(pngWarpedExport, new PngOptions());
+    image.Save(psdWarpedExport, new PsdOptions());
+}
+```
+
+### देखें भी
 
 * class [PsdLoadOptions](../)
-* नाम स्थान [Aspose.PSD.ImageLoadOptions](../../psdloadoptions/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageLoadOptions](../../../aspose.psd.imageloadoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

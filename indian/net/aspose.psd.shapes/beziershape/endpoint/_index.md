@@ -1,28 +1,29 @@
 ---
-title: BezierShape.EndPoint
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: BezierShape संपत्त. अंतम आकर बंदु प्रप्त करत है
+title: "BezierShape.EndPoint"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "BezierShape प्रॉपर्टी। आकार के अंतिम बिंदु को प्राप्त करता है।"
 type: docs
 weight: 40
 url: /hi/net/aspose.psd.shapes/beziershape/endpoint/
 ---
+{{< psd/tize >}}
 ## BezierShape.EndPoint property
 
-अंतिम आकार बिंदु प्राप्त करता है।
+समाप्ति आकार बिंदु को प्राप्त करता है।
 
 ```csharp
 public override PointF EndPoint { get; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-अंतिम आकार बिंदु।
+समाप्ति आकार बिंदु।
 
-### यह सभी देखें
+### देखें भी
 
 * struct [PointF](../../../aspose.psd/pointf/)
 * class [BezierShape](../)
-* नाम स्थान [Aspose.PSD.Shapes](../../beziershape/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 

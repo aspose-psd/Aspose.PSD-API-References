@@ -1,27 +1,28 @@
 ---
-title: Graphics.BeginUpdate
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Graphics तरक. नम्न ग्रफ़क्स कर्रवइयं क कैशंग प्ररंभ करत है. बद में लगू कए गए ग्रफ़क्स प्रभव तुरंत लगू नहं हंगे इसके बजय एंडअपडेट एक बर में सभ प्रभवं क लगू कर देग.
+title: "Graphics.BeginUpdate"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Graphics मेथड। निम्नलिखित ग्राफ़िक्स ऑपरेशनों की कैशिंग शुरू करता है। बाद में लागू किए गए ग्राफ़िक्स इफ़ेक्ट्स तुरंत लागू नहीं होंगे, बल्कि EndUpdate सभी इफ़ेक्ट्स को एक साथ लागू करेगा।"
 type: docs
-weight: 140
+weight: 150
 url: /hi/net/aspose.psd/graphics/beginupdate/
 ---
+{{< psd/tize >}}
 ## Graphics.BeginUpdate method
 
-निम्न ग्राफ़िक्स कार्रवाइयों की कैशिंग प्रारंभ करता है. बाद में लागू किए गए ग्राफ़िक्स प्रभाव तुरंत लागू नहीं होंगे, इसके बजाय एंडअपडेट एक बार में सभी प्रभावों को लागू कर देगा.
+निम्नलिखित ग्राफ़िक्स ऑपरेशनों की कैशिंग शुरू करता है। बाद में लागू किए गए ग्राफ़िक्स इफ़ेक्ट्स तुरंत लागू नहीं होंगे, बल्कि EndUpdate सभी इफ़ेक्ट्स को एक साथ लागू करेगा।
 
 ```csharp
 public void BeginUpdate()
 ```
 
-### टिप्पणियों
+## टिप्पणियाँ
 
-नोट करें कि यदि EndUpdate को कॉल नहीं किया जाता है, तो StartUpdate को कॉल करने के बाद के प्रभाव लागू नहीं होंगे।
+ध्यान दें कि BeginUpdate कॉल करने के बाद इफ़ेक्ट्स लागू नहीं होंगे यदि EndUpdate कॉल नहीं किया गया।
 
-### यह सभी देखें
+### देखें भी
 
 * class [Graphics](../)
-* नाम स्थान [Aspose.PSD](../../graphics/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

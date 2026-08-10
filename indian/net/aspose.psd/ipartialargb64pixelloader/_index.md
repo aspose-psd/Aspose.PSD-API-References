@@ -1,29 +1,30 @@
 ---
-title: Interface IPartialArgb64PixelLoader
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Aspose.PSD.IPartialArgb64PixelLoader इंटरफेस. 64बट ARGB पक्सेल लडर.
+title: "इंटरफ़ेस IPartialArgb64PixelLoader"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Aspose.PSD.IPartialArgb64PixelLoader इंटरफ़ेस। 64‑बिट ARGB पिक्सेल लोडर।"
 type: docs
-weight: 4520
+weight: 4990
 url: /hi/net/aspose.psd/ipartialargb64pixelloader/
 ---
+{{< psd/tize >}}
 ## IPartialArgb64PixelLoader interface
 
-64-बिट ARGB पिक्सेल लोडर.
+64-बिट ARGB पिक्सेल लोडर।
 
 ```csharp
 public interface IPartialArgb64PixelLoader : IPartialArgb32PixelLoader
 ```
 
-## तरीकों
+## मेथड्स
 
 | नाम | विवरण |
 | --- | --- |
-| [Process64](../../aspose.psd/ipartialargb64pixelloader/process64/)(Rectangle, long[], Point, Point) | लोड किए गए पिक्सेल संसाधित करता है. |
+| [Process64](../../aspose.psd/ipartialargb64pixelloader/process64/)(Rectangle, long[], Point, Point) | लोड किए गए पिक्सेल को प्रोसेस करता है। |
 
-### यह सभी देखें
+### देखें भी
 
 * interface [IPartialArgb32PixelLoader](../ipartialargb32pixelloader/)
-* नाम स्थान [Aspose.PSD](../../aspose.psd/)
-* सभा [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

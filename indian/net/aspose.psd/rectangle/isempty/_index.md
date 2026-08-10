@@ -1,27 +1,28 @@
 ---
-title: Rectangle.IsEmpty
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Rectangle संपत्त. यह इंगत करने वल मन प्रप्त करत है क क्य इसके सभ संख्यत्मक गुण हैंRectangle शून्य के मन हैं
+title: "Rectangle.IsEmpty"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Rectangle प्रॉपर्टी। यह मान प्राप्त करता है जो दर्शाता है कि इस Rectangle की सभी संख्यात्मक प्रॉपर्टी का मान शून्य है या नहीं"
 type: docs
 weight: 130
 url: /hi/net/aspose.psd/rectangle/isempty/
 ---
+{{< psd/tize >}}
 ## Rectangle.IsEmpty property
 
-यह इंगित करने वाला मान प्राप्त करता है कि क्या इसके सभी संख्यात्मक गुण हैं[`Rectangle`](../) शून्य के मान हैं।
+एक मान प्राप्त करता है जो दर्शाता है कि इस [`Rectangle`](../) की सभी संख्यात्मक गुणों के मान शून्य हैं या नहीं।
 
 ```csharp
 public bool IsEmpty { get; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-यह संपत्ति सच हो जाती है अगर[`Width`](../width/) ,[`Height`](../height/) ,[`X`](../x/) , और[`Y`](../y/) इसके गुण[`Rectangle`](../) सभी का मान शून्य है; अन्यथा झूठा।
+यह प्रॉपर्टी true लौटाती है यदि इस [`Rectangle`](../) की [`Width`](../width/), [`Height`](../height/), [`X`](../x/) और [`Y`](../y/) प्रॉपर्टी के सभी मान शून्य हों; अन्यथा false।
 
-### यह सभी देखें
+### देखें भी
 
 * struct [Rectangle](../)
-* नाम स्थान [Aspose.PSD](../../rectangle/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

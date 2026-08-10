@@ -1,27 +1,28 @@
 ---
-title: Point.ToString
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Point तरक. इसे परवर्तत करत हैPoint एक मनवपठनय स्ट्रंग के लए.
+title: "Point.ToString"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Point मेथड। इस Point को मानव-पठनीय स्ट्रिंग में परिवर्तित करता है।"
 type: docs
 weight: 140
 url: /hi/net/aspose.psd/point/tostring/
 ---
+{{< psd/tize >}}
 ## Point.ToString method
 
-इसे परिवर्तित करता है[`Point`](../) एक मानव-पठनीय स्ट्रिंग के लिए.
+इस [`Point`](../) को मानव-पठनीय स्ट्रिंग में परिवर्तित करता है।
 
 ```csharp
 public override string ToString()
 ```
 
-### प्रतिलाभ की मात्रा
+### रिटर्न वैल्यू
 
-एString जो इस उदाहरण का प्रतिनिधित्व करता है।
+इस इंस्टेंस को दर्शाने वाली स्ट्रिंग।
 
-### यह सभी देखें
+### देखें भी
 
 * struct [Point](../)
-* नाम स्थान [Aspose.PSD](../../point/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

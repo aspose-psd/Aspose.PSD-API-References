@@ -1,22 +1,23 @@
 ---
-title: VectorShapeOriginSettings.IsShapeInvalidated
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: VectorShapeOriginSettings संपत्त. एक मन प्रप्त करत है य सेट करत है ज इंगत करत है क आकर अमन्य है य नहं
+title: "VectorShapeOriginSettings.IsShapeInvalidated"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "VectorShapeOriginSettings प्रॉपर्टी। मान प्राप्त करता है या सेट करता है जो यह दर्शाता है कि आकार अमान्य किया गया है या नहीं"
 type: docs
 weight: 80
 url: /hi/net/aspose.psd.fileformats.core.vectorpaths/vectorshapeoriginsettings/isshapeinvalidated/
 ---
+{{< psd/tize >}}
 ## VectorShapeOriginSettings.IsShapeInvalidated property
 
-एक मान प्राप्त करता है या सेट करता है जो इंगित करता है कि आकार अमान्य है या नहीं।
+shape अमान्य है या नहीं, यह दर्शाने वाला मान प्राप्त करता है या सेट करता है।
 
 ```csharp
 public bool IsShapeInvalidated { get; set; }
 ```
 
-### उदाहरण
+## उदाहरण
 
-निम्न उदाहरण VogkResource संसाधन के समर्थन को प्रदर्शित करता है।
+निम्न उदाहरण VogkResource संसाधन के समर्थन को दर्शाता है।
 
 ```csharp
 [C#]
@@ -51,7 +52,7 @@ using (var psdImage = (PsdImage)Image.Load(sourceFilePath))
 {
     var resource = GetVogkResource(psdImage);
 
-    // अध्ययन
+    // पढ़ना
     if (resource.ShapeOriginSettings.Length != 1 ||
         !resource.ShapeOriginSettings[0].IsShapeInvalidated ||
         resource.ShapeOriginSettings[0].OriginIndex != 0)
@@ -70,10 +71,10 @@ using (var psdImage = (PsdImage)Image.Load(sourceFilePath))
 }
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * class [VectorShapeOriginSettings](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Core.VectorPaths](../../vectorshapeoriginsettings/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../../)
 
 

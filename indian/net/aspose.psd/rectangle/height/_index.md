@@ -1,27 +1,28 @@
 ---
-title: Rectangle.Height
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Rectangle संपत्त. इसक ऊंचई प्रप्त य सेट करत हैRectangleसंरचन.
+title: "Rectangle.Height"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Rectangle प्रॉपर्टी। इस Rectangle संरचना की ऊँचाई प्राप्त करता है या सेट करता है"
 type: docs
 weight: 120
 url: /hi/net/aspose.psd/rectangle/height/
 ---
+{{< psd/tize >}}
 ## Rectangle.Height property
 
-इसकी ऊंचाई प्राप्त या सेट करता है[`Rectangle`](../)संरचना.
+इस [`Rectangle`](../) संरचना की ऊँचाई प्राप्त करता है या सेट करता है।
 
 ```csharp
 public int Height { get; set; }
 ```
 
-### प्रतिलाभ की मात्रा
+### रिटर्न वैल्यू
 
-इस की ऊंचाई[`Rectangle`](../) संरचना।
+इस [`Rectangle`](../) संरचना की ऊँचाई।
 
-### यह सभी देखें
+### देखें भी
 
 * struct [Rectangle](../)
-* नाम स्थान [Aspose.PSD](../../rectangle/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

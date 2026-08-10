@@ -1,36 +1,37 @@
 ---
-title: Class AiDataSection
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Aspose.PSD.FileFormats.Ai.AiDataSection कक्ष. एआई प्ररूप डेट अनुभग
+title: "क्लास AiDataSection"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Aspose.PSD.FileFormats.Ai.AiDataSection क्लास। Ai फ़ॉर्मेट डेटा सेक्शन"
 type: docs
-weight: 1220
+weight: 1230
 url: /hi/net/aspose.psd.fileformats.ai/aidatasection/
 ---
+{{< psd/tize >}}
 ## AiDataSection class
 
-एआई प्रारूप डेटा अनुभाग
+Ai फ़ॉर्मेट डेटा सेक्शन
 
 ```csharp
 public class AiDataSection : DisposableObject
 ```
 
-## गुण
+## प्रॉपर्टीज़
 
 | नाम | विवरण |
 | --- | --- |
-| [Disposed](../../aspose.psd/disposableobject/disposed/) { get; } | यह इंगित करने वाला मान प्राप्त करता है कि क्या यह उदाहरण निपटाया गया है। |
+| [Disposed](../../aspose.psd/disposableobject/disposed/) { get; } | यह संकेत करने वाला मान प्राप्त करता है कि यह इंस्टेंस डिस्पोज़ किया गया है या नहीं। |
 
-## तरीकों
+## मेथड्स
 
 | नाम | विवरण |
 | --- | --- |
-| [Dispose](../../aspose.psd/disposableobject/dispose/)() | वर्तमान उदाहरण का निपटान करता है। |
+| [Dispose](../../aspose.psd/disposableobject/dispose/)() | वर्तमान इंस्टेंस को डिस्पोज़ करता है। |
 | [GetData](../../aspose.psd.fileformats.ai/aidatasection/getdata/)() | स्ट्रिंग डेटा प्राप्त करता है। |
 
-### यह सभी देखें
+### देखें भी
 
 * class [DisposableObject](../../aspose.psd/disposableobject/)
-* नाम स्थान [Aspose.PSD.FileFormats.Ai](../../aspose.psd.fileformats.ai/)
-* सभा [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../)
 
 

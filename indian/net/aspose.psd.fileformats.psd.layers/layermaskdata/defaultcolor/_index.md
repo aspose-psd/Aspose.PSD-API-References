@@ -1,27 +1,28 @@
 ---
-title: LayerMaskData.DefaultColor
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: LayerMaskData संपत्त. डफ़ल्ट रंग प्रप्त य सेट करत है
+title: "LayerMaskData.DefaultColor"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "LayerMaskData प्रॉपर्टी। डिफ़ॉल्ट रंग को प्राप्त करता है या सेट करता है"
 type: docs
 weight: 30
 url: /hi/net/aspose.psd.fileformats.psd.layers/layermaskdata/defaultcolor/
 ---
+{{< psd/tize >}}
 ## LayerMaskData.DefaultColor property
 
-डिफ़ॉल्ट रंग प्राप्त या सेट करता है।
+डिफ़ॉल्ट रंग को प्राप्त करता है या सेट करता है।
 
 ```csharp
 public byte DefaultColor { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-डिफ़ॉल्ट रंग.
+डिफ़ॉल्ट रंग।
 
-### यह सभी देखें
+### देखें भी
 
 * class [LayerMaskData](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers](../../layermaskdata/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,48 +1,49 @@
 ---
-title: ImageSaveException.ImageSaveException
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: ImageSaveException नर्मत. क एक नय उदहरण प्ररंभ करत हैImageSaveException वर्ग.
+title: "ImageSaveException.ImageSaveException"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "ImageSaveException कंस्ट्रक्टर। ImageSaveException क्लास का एक नया इंस्टेंस इनिशियलाइज़ करता है"
 type: docs
 weight: 10
 url: /hi/net/aspose.psd.coreexceptions/imagesaveexception/imagesaveexception/
 ---
+{{< psd/tize >}}
 ## ImageSaveException(string) {#constructor}
 
-का एक नया उदाहरण प्रारंभ करता है[`ImageSaveException`](../) वर्ग.
+[`ImageSaveException`](../) क्लास का एक नया इंस्टेंस इनिशियलाइज़ करता है।
 
 ```csharp
 public ImageSaveException(string message)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
 | message | String | अपवाद संदेश। |
 
-### यह सभी देखें
+### देखें भी
 
 * class [ImageSaveException](../)
-* नाम स्थान [Aspose.PSD.CoreExceptions](../../imagesaveexception/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.CoreExceptions](../../../aspose.psd.coreexceptions/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## ImageSaveException(string, Exception) {#constructor_1}
 
-का एक नया उदाहरण प्रारंभ करता है[`ImageSaveException`](../) वर्ग.
+[`ImageSaveException`](../) क्लास का एक नया इंस्टेंस इनिशियलाइज़ करता है।
 
 ```csharp
 public ImageSaveException(string message, Exception innerException)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
 | message | String | अपवाद संदेश। |
-| innerException | Exception | भीतर का अपवाद। |
+| innerException | एक्सेप्शन | आंतरिक अपवाद। |
 
-### यह सभी देखें
+### देखें भी
 
 * class [ImageSaveException](../)
-* नाम स्थान [Aspose.PSD.CoreExceptions](../../imagesaveexception/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.CoreExceptions](../../../aspose.psd.coreexceptions/)
+* assembly [Aspose.PSD](../../../)
 
 

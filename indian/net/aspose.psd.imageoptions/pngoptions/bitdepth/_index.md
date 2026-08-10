@@ -1,23 +1,24 @@
 ---
-title: PngOptions.BitDepth
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: PngOptions संपत्त. थड़ गहरई
+title: "PngOptions.BitDepth"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "PngOptions प्रॉपर्टी। बिट गहराई।"
 type: docs
 weight: 20
 url: /hi/net/aspose.psd.imageoptions/pngoptions/bitdepth/
 ---
+{{< psd/tize >}}
 ## PngOptions.BitDepth property
 
-थोड़ी गहराई।
+बिट गहराई।
 
 ```csharp
 public byte BitDepth { get; set; }
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * class [PngOptions](../)
-* नाम स्थान [Aspose.PSD.ImageOptions](../../pngoptions/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

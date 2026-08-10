@@ -1,31 +1,32 @@
 ---
-title: Color.FromName
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Color तरक. एक बनत हैColorपूर्वनर्धरत रंग के नर्दष्ट नम से संरचन
+title: "Color.FromName"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Color method. निर्दिष्ट पूर्वनिर्धारित रंग के नाम से एक Color संरचना बनाता है"
 type: docs
 weight: 1450
 url: /hi/net/aspose.psd/color/fromname/
 ---
+{{< psd/tize >}}
 ## Color.FromName method
 
-एक बनाता है[`Color`](../)पूर्वनिर्धारित रंग के निर्दिष्ट नाम से संरचना।
+निर्दिष्ट पूर्वनिर्धारित रंग के नाम से एक [`Color`](../) संरचना बनाता है।
 
 ```csharp
 public static Color FromName(string name)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| name | String | एक स्ट्रिंग जो एक पूर्वनिर्धारित रंग का नाम है। वैध नाम के तत्वों के नाम के समान हैं[`KnownColor`](../../knowncolor/) गणना। |
+| name | String | एक स्ट्रिंग जो एक पूर्वनिर्धारित रंग का नाम है। वैध नाम वही हैं जो [`KnownColor`](../../knowncolor/) एनोमरेशन के तत्वों के नामों के समान हैं। |
 
-### प्रतिलाभ की मात्रा
+### रिटर्न वैल्यू
 
-[`Color`](../) कि यह विधि बनाती है।
+यह मेथड द्वारा निर्मित [`Color`](../) है।
 
-### यह सभी देखें
+### देखें भी
 
 * struct [Color](../)
-* नाम स्थान [Aspose.PSD](../../color/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

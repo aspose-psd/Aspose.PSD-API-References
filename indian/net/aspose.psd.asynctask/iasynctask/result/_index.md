@@ -1,11 +1,12 @@
 ---
-title: IAsyncTask.Result
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: IAsyncTask संपत्त. इस कर्य क परणम प्रप्त करत है
+title: "IAsyncTask.Result"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "IAsyncTask प्रॉपर्टी। इस कार्य का परिणाम प्राप्त करता है।"
 type: docs
 weight: 60
 url: /hi/net/aspose.psd.asynctask/iasynctask/result/
 ---
+{{< psd/tize >}}
 ## IAsyncTask.Result property
 
 इस कार्य का परिणाम प्राप्त करता है।
@@ -14,14 +15,14 @@ url: /hi/net/aspose.psd.asynctask/iasynctask/result/
 public object Result { get; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
 इस कार्य का परिणाम।
 
-### यह सभी देखें
+### देखें भी
 
 * interface [IAsyncTask](../)
-* नाम स्थान [Aspose.PSD.AsyncTask](../../iasynctask/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.AsyncTask](../../../aspose.psd.asynctask/)
+* assembly [Aspose.PSD](../../../)
 
 

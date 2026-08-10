@@ -1,14 +1,15 @@
 ---
-title: Class SmartFilter
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Aspose.PSD.FileFormats.Psd.Layers.SmartFilters.SmartFilter कक्ष. स्मर्ट फ़ल्टर के आधर तर्क क संसधत करने के लए वर्ग
+title: "क्लास SmartFilter"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Aspose.PSD.FileFormats.Psd.Layers.SmartFilters.SmartFilter class. स्मार्ट फ़िल्टर की मूल लॉजिक को प्रोसेस करने के लिए क्लास।"
 type: docs
-weight: 3460
+weight: 3880
 url: /hi/net/aspose.psd.fileformats.psd.layers.smartfilters/smartfilter/
 ---
+{{< psd/tize >}}
 ## SmartFilter class
 
-स्मार्ट फ़िल्टर के आधार तर्क को संसाधित करने के लिए वर्ग।
+स्मार्ट फ़िल्टरों की मूल लॉजिक को प्रोसेस करने के लिए क्लास।
 
 ```csharp
 public abstract class SmartFilter : ICloneable
@@ -18,30 +19,30 @@ public abstract class SmartFilter : ICloneable
 
 | नाम | विवरण |
 | --- | --- |
-| [SmartFilter](smartfilter/)() | का एक नया उदाहरण प्रारंभ करता है`SmartFilter` वर्ग. |
+| [SmartFilter](smartfilter/)() | `SmartFilter` क्लास की नई इंस्टेंस को प्रारंभ करता है। |
 
-## गुण
+## प्रॉपर्टीज़
 
 | नाम | विवरण |
 | --- | --- |
-| [BlendMode](../../aspose.psd.fileformats.psd.layers.smartfilters/smartfilter/blendmode/) { get; set; } | सम्मिश्रण मोड प्राप्त या सेट करता है। |
+| [BlendMode](../../aspose.psd.fileformats.psd.layers.smartfilters/smartfilter/blendmode/) { get; set; } | ब्लेंडिंग मोड प्राप्त करता है या सेट करता है। |
 | abstract [FilterId](../../aspose.psd.fileformats.psd.layers.smartfilters/smartfilter/filterid/) { get; } | स्मार्ट फ़िल्टर प्रकार पहचानकर्ता प्राप्त करता है। |
-| [IsEnabled](../../aspose.psd.fileformats.psd.layers.smartfilters/smartfilter/isenabled/) { get; set; } | स्मार्ट फ़िल्टर की सक्षम स्थिति प्राप्त या सेट करता है। |
-| abstract [Name](../../aspose.psd.fileformats.psd.layers.smartfilters/smartfilter/name/) { get; } | स्मार्ट फ़िल्टर नाम प्राप्त करता है। |
-| [Opacity](../../aspose.psd.fileformats.psd.layers.smartfilters/smartfilter/opacity/) { get; set; } | स्मार्ट फ़िल्टर का अपारदर्शिता मान प्राप्त या सेट करता है। |
-| [SourceDescriptor](../../aspose.psd.fileformats.psd.layers.smartfilters/smartfilter/sourcedescriptor/) { get; } | स्मार्ट फ़िल्टर डेटा के साथ स्रोत डिस्क्रिप्टर संरचना। |
+| [IsEnabled](../../aspose.psd.fileformats.psd.layers.smartfilters/smartfilter/isenabled/) { get; set; } | स्मार्ट फ़िल्टर की सक्षम स्थिति प्राप्त करता है या सेट करता है। |
+| abstract [Name](../../aspose.psd.fileformats.psd.layers.smartfilters/smartfilter/name/) { get; } | स्मार्ट फ़िल्टर का नाम प्राप्त करता है। |
+| [Opacity](../../aspose.psd.fileformats.psd.layers.smartfilters/smartfilter/opacity/) { get; set; } | स्मार्ट फ़िल्टर की अपारदर्शिता मान को प्राप्त करता है या सेट करता है। |
+| [SourceDescriptor](../../aspose.psd.fileformats.psd.layers.smartfilters/smartfilter/sourcedescriptor/) { get; } | स्मार्ट फ़िल्टर डेटा के साथ स्रोत वर्णनकर्ता संरचना। |
 
-## तरीकों
+## मेथड्स
 
 | नाम | विवरण |
 | --- | --- |
-| [Apply](../../aspose.psd.fileformats.psd.layers.smartfilters/smartfilter/apply/)(RasterImage) | वर्तमान फ़िल्टर को इनपुट पर लागू करता है[`RasterImage`](../../aspose.psd/rasterimage/) छवि. |
-| [ApplyToMask](../../aspose.psd.fileformats.psd.layers.smartfilters/smartfilter/applytomask/)(Layer) | वर्तमान फ़िल्टर को इनपुट पर लागू करता है[`Layer`](../../aspose.psd.fileformats.psd.layers/layer/) मास्क डेटा. |
-| [Clone](../../aspose.psd.fileformats.psd.layers.smartfilters/smartfilter/clone/)() | प्रकार के वर्तमान उदाहरण का सदस्यवार क्लोन बनाता है। |
+| [Apply](../../aspose.psd.fileformats.psd.layers.smartfilters/smartfilter/apply/)(RasterImage) | इनपुट [`RasterImage`](../../aspose.psd/rasterimage/) छवि पर वर्तमान फ़िल्टर लागू करता है। |
+| [ApplyToMask](../../aspose.psd.fileformats.psd.layers.smartfilters/smartfilter/applytomask/)(Layer) | इनपुट [`Layer`](../../aspose.psd.fileformats.psd.layers/layer/) मास्क डेटा पर वर्तमान फ़िल्टर लागू करता है। |
+| [Clone](../../aspose.psd.fileformats.psd.layers.smartfilters/smartfilter/clone/)() | वर्तमान प्रकार की इंस्टेंस की सदस्य-वार क्लोन बनाता है। |
 
-### उदाहरण
+## उदाहरण
 
-यह उदाहरण स्मार्ट फ़िल्टर इंटरफ़ेस के समर्थन को प्रदर्शित करता है।
+यह उदाहरण स्मार्ट फ़िल्टर इंटरफ़ेस के समर्थन को दर्शाता है।
 
 ```csharp
 [C#]
@@ -61,16 +62,16 @@ using (var image = (PsdImage)Image.Load(sourceFilte))
 {
     SmartObjectLayer smartObj = (SmartObjectLayer)image.Layers[1];
 
-    // स्मार्ट फिल्टर संपादित करें
+    // स्मार्ट फ़िल्टर संपादित करें
     GaussianBlurSmartFilter gaussianBlur = (GaussianBlurSmartFilter)smartObj.SmartFilters.Filters[0];
 
-    // फ़िल्टर मानों की जाँच करें
+    // फ़िल्टर मान जाँचें
     AssertAreEqual(3.1, gaussianBlur.Radius);
     AssertAreEqual(BlendMode.Dissolve, gaussianBlur.BlendMode);
     AssertAreEqual(90d, gaussianBlur.Opacity);
     AssertAreEqual(true, gaussianBlur.IsEnabled);
 
-    // अद्यतन फ़िल्टर मान
+    // फ़िल्टर मान अपडेट करें
     gaussianBlur.Radius = 1;
     gaussianBlur.BlendMode = BlendMode.Divide;
     gaussianBlur.Opacity = 75;
@@ -100,7 +101,7 @@ using (var image = (PsdImage)Image.Load(outputPsd))
 
     GaussianBlurSmartFilter gaussianBlur = (GaussianBlurSmartFilter)smartObj.SmartFilters.Filters[0];
 
-    // फ़िल्टर मानों की जाँच करें
+    // फ़िल्टर मान जाँचें
     AssertAreEqual(1d, gaussianBlur.Radius);
     AssertAreEqual(BlendMode.Divide, gaussianBlur.BlendMode);
     AssertAreEqual(75d, gaussianBlur.Opacity);
@@ -111,9 +112,9 @@ using (var image = (PsdImage)Image.Load(outputPsd))
 }
 ```
 
-### यह सभी देखें
+### देखें भी
 
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.SmartFilters](../../aspose.psd.fileformats.psd.layers.smartfilters/)
-* सभा [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.SmartFilters](../../aspose.psd.fileformats.psd.layers.smartfilters/)
+* assembly [Aspose.PSD](../../)
 
 

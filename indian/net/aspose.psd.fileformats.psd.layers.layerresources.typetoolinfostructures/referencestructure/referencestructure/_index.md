@@ -1,28 +1,29 @@
 ---
-title: ReferenceStructure.ReferenceStructure
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: ReferenceStructure नर्मत. क एक नय उदहरण प्ररंभ करत हैReferenceStructure वर्ग.
+title: "ReferenceStructure.ReferenceStructure"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "ReferenceStructure कंस्ट्रक्टर। ReferenceStructure क्लास का एक नया उदाहरण प्रारंभ करता है"
 type: docs
 weight: 10
 url: /hi/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/referencestructure/referencestructure/
 ---
+{{< psd/tize >}}
 ## ReferenceStructure constructor
 
-का एक नया उदाहरण प्रारंभ करता है[`ReferenceStructure`](../) वर्ग.
+[`ReferenceStructure`](../) क्लास का एक नया उदाहरण प्रारंभ करता है।
 
 ```csharp
 public ReferenceStructure(ClassID keyName)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| keyName | ClassID | प्रमुख नाम। |
+| keyName | ClassID | कुंजी नाम। |
 
-### यह सभी देखें
+### देखें भी
 
 * class [ClassID](../../../aspose.psd.fileformats.psd.layers.layerresources/classid/)
 * class [ReferenceStructure](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../referencestructure/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 

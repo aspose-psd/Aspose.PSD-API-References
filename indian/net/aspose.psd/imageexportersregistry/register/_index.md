@@ -1,28 +1,29 @@
 ---
-title: ImageExportersRegistry.Register
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: ImageExportersRegistry तरक. नर्दष्ट छव नर्यतक ववरणक क पंजकृत करत है
+title: "ImageExportersRegistry.Register"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "ImageExportersRegistry मेथड। निर्दिष्ट छवि निर्यातकर्ता डिस्क्रिप्टर को पंजीकृत करता है।"
 type: docs
 weight: 50
 url: /hi/net/aspose.psd/imageexportersregistry/register/
 ---
+{{< psd/tize >}}
 ## ImageExportersRegistry.Register method
 
-निर्दिष्ट छवि निर्यातक विवरणक को पंजीकृत करता है।
+निर्दिष्ट इमेज एक्सपोर्टर विवरण को पंजीकृत करता है।
 
 ```csharp
 public static void Register(IImageExporterDescriptor imageExporterDescriptor)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| imageExporterDescriptor | IImageExporterDescriptor | इमेज एक्सपोर्टर डिस्क्रिप्टर। |
+| imageExporterDescriptor | IImageExporterDescriptor | छवि निर्यातकर्ता डिस्क्रिप्टर। |
 
-### यह सभी देखें
+### देखें भी
 
 * interface [IImageExporterDescriptor](../../iimageexporterdescriptor/)
 * class [ImageExportersRegistry](../)
-* नाम स्थान [Aspose.PSD](../../imageexportersregistry/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

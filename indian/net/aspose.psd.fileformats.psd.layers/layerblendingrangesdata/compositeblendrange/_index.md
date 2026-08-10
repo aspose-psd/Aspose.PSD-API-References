@@ -1,28 +1,29 @@
 ---
-title: LayerBlendingRangesData.CompositeBlendRange
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: LayerBlendingRangesData संपत्त. सम्मश्र सम्मश्रण श्रेण प्रप्त य सेट करत है
+title: "LayerBlendingRangesData.CompositeBlendRange"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "LayerBlendingRangesData प्रॉपर्टी। सम्मिलित ब्लेंड रेंजेज़ को प्राप्त करता है या सेट करता है"
 type: docs
 weight: 30
 url: /hi/net/aspose.psd.fileformats.psd.layers/layerblendingrangesdata/compositeblendrange/
 ---
+{{< psd/tize >}}
 ## LayerBlendingRangesData.CompositeBlendRange property
 
-सम्मिश्र सम्मिश्रण श्रेणी प्राप्त या सेट करता है।
+संयुक्त ब्लेंड रेंजेज़ को प्राप्त करता है या सेट करता है।
 
 ```csharp
 public BlendRange CompositeBlendRange { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-समग्र मिश्रण रेंज।
+संकलित ब्लेंड रेंजेज़।
 
-### यह सभी देखें
+### देखें भी
 
 * class [BlendRange](../../blendrange/)
 * class [LayerBlendingRangesData](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers](../../layerblendingrangesdata/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

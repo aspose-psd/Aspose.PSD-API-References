@@ -1,24 +1,25 @@
 ---
-title: ITextStyle.FontCaps
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: ITextStyle संपत्त. फ़न्ट कैप
+title: "ITextStyle.FontCaps"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "ITextStyle प्रॉपर्टी। फ़ॉन्ट कैप्स"
 type: docs
 weight: 100
 url: /hi/net/aspose.psd.fileformats.psd.layers.text/itextstyle/fontcaps/
 ---
+{{< psd/tize >}}
 ## ITextStyle.FontCaps property
 
-फ़ॉन्ट कैप।
+फ़ॉन्ट कैप्स।
 
 ```csharp
 public FontCaps FontCaps { get; set; }
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * enum [FontCaps](../../../aspose.psd.fileformats.psd/fontcaps/)
 * interface [ITextStyle](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.Text](../../itextstyle/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.Text](../../../aspose.psd.fileformats.psd.layers.text/)
+* assembly [Aspose.PSD](../../../)
 
 

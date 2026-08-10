@@ -1,27 +1,28 @@
 ---
-title: GradientFillSettings.AlignWithLayer
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: GradientFillSettings संपत्त. एक मन प्रप्त य सेट करत है ज इंगत करत है क परत के सथ संरेखत करें.
+title: "GradientFillSettings.AlignWithLayer"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "GradientFillSettings प्रॉपर्टी। लेयर के साथ संरेखित करने का संकेत देने वाला मान प्राप्त करता है या सेट करता है"
 type: docs
 weight: 20
 url: /hi/net/aspose.psd.fileformats.psd.layers.fillsettings/gradientfillsettings/alignwithlayer/
 ---
+{{< psd/tize >}}
 ## GradientFillSettings.AlignWithLayer property
 
-एक मान प्राप्त या सेट करता है जो इंगित करता है कि [परत के साथ संरेखित करें].
+लेयर के साथ संरेखित है या नहीं, यह दर्शाने वाला मान प्राप्त करता है या सेट करता है।
 
 ```csharp
 public bool AlignWithLayer { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-`सत्य` अगर [परत के साथ संरेखित करें]; अन्यथा,`असत्य` .
+`true` यदि [align with layer] है; अन्यथा, `false`.
 
-### यह सभी देखें
+### देखें भी
 
 * class [GradientFillSettings](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../gradientfillsettings/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../../)
 
 

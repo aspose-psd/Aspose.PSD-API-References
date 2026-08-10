@@ -1,44 +1,45 @@
 ---
-title: RectangleProjectedShape.RectangleProjectedShape
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: RectangleProjectedShape नर्मत. क एक नय उदहरण प्ररंभ करत हैRectangleProjectedShape वर्ग.
+title: "RectangleProjectedShape.RectangleProjectedShape"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "RectangleProjectedShape constructor. RectangleProjectedShape क्लास का नया इंस्टेंस इनिशियलाइज़ करता है"
 type: docs
 weight: 10
 url: /hi/net/aspose.psd.shapes/rectangleprojectedshape/rectangleprojectedshape/
 ---
+{{< psd/tize >}}
 ## RectangleProjectedShape() {#constructor}
 
-का एक नया उदाहरण प्रारंभ करता है[`RectangleProjectedShape`](../) वर्ग.
+[`RectangleProjectedShape`](../) वर्ग का एक नया उदाहरण प्रारंभ करता है।
 
 ```csharp
 public RectangleProjectedShape()
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * class [RectangleProjectedShape](../)
-* नाम स्थान [Aspose.PSD.Shapes](../../rectangleprojectedshape/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## RectangleProjectedShape(RectangleF) {#constructor_1}
 
-का एक नया उदाहरण प्रारंभ करता है[`RectangleProjectedShape`](../) वर्ग.
+[`RectangleProjectedShape`](../) वर्ग का एक नया उदाहरण प्रारंभ करता है।
 
 ```csharp
 public RectangleProjectedShape(RectangleF rectangle)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| rectangle | RectangleF | आयत जिससे आरंभ करना है। |
+| आयत | RectangleF | प्रारंभ करने के लिए आयत। |
 
-### यह सभी देखें
+### देखें भी
 
 * struct [RectangleF](../../../aspose.psd/rectanglef/)
 * class [RectangleProjectedShape](../)
-* नाम स्थान [Aspose.PSD.Shapes](../../rectangleprojectedshape/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,24 +1,25 @@
 ---
-title: RasterImage.TransparentColor
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: RasterImage संपत्त. इमेज क परदर्श रंग देत है.
+title: "RasterImage.TransparentColor"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "RasterImage property. इमेज का ट्रांसपेरेंट रंग प्राप्त करता है"
 type: docs
 weight: 130
 url: /hi/net/aspose.psd/rasterimage/transparentcolor/
 ---
+{{< psd/tize >}}
 ## RasterImage.TransparentColor property
 
-इमेज को पारदर्शी रंग देता है.
+छवि का पारदर्शी रंग प्राप्त करता है।
 
 ```csharp
 public virtual Color TransparentColor { get; set; }
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * struct [Color](../../color/)
 * class [RasterImage](../)
-* नाम स्थान [Aspose.PSD](../../rasterimage/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

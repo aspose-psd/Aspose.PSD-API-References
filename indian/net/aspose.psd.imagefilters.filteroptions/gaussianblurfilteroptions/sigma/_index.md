@@ -1,27 +1,28 @@
 ---
-title: GaussianBlurFilterOptions.Sigma
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: GaussianBlurFilterOptions संपत्त. सग्म प्रप्त य सेट करत है
+title: "GaussianBlurFilterOptions.Sigma"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "GaussianBlurFilterOptions प्रॉपर्टी। सिग्मा को प्राप्त करता है या सेट करता है"
 type: docs
 weight: 30
 url: /hi/net/aspose.psd.imagefilters.filteroptions/gaussianblurfilteroptions/sigma/
 ---
+{{< psd/tize >}}
 ## GaussianBlurFilterOptions.Sigma property
 
-सिग्मा प्राप्त या सेट करता है।
+sigma को प्राप्त करता है या सेट करता है।
 
 ```csharp
 public double Sigma { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-सिग्मा.
+सिग्मा।
 
-### यह सभी देखें
+### देखें भी
 
 * class [GaussianBlurFilterOptions](../)
-* नाम स्थान [Aspose.PSD.ImageFilters.FilterOptions](../../gaussianblurfilteroptions/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageFilters.FilterOptions](../../../aspose.psd.imagefilters.filteroptions/)
+* assembly [Aspose.PSD](../../../)
 
 

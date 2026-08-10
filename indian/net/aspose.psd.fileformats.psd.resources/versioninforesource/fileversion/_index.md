@@ -1,27 +1,28 @@
 ---
-title: VersionInfoResource.FileVersion
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: VersionInfoResource संपत्त. फ़इल संस्करण प्रप्त य सेट करत है
+title: "VersionInfoResource.FileVersion"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "VersionInfoResource प्रॉपर्टी। फ़ाइल संस्करण प्राप्त या सेट करता है"
 type: docs
 weight: 30
 url: /hi/net/aspose.psd.fileformats.psd.resources/versioninforesource/fileversion/
 ---
+{{< psd/tize >}}
 ## VersionInfoResource.FileVersion property
 
-फ़ाइल संस्करण प्राप्त या सेट करता है।
+फ़ाइल वर्जन को प्राप्त या सेट करता है।
 
 ```csharp
 public uint FileVersion { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-फ़ाइल संस्करण.
+फ़ाइल संस्करण।
 
-### यह सभी देखें
+### देखें भी
 
 * class [VersionInfoResource](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Resources](../../versioninforesource/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

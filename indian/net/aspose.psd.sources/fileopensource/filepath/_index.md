@@ -1,27 +1,28 @@
 ---
-title: FileOpenSource.FilePath
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: FileOpenSource संपत्त. फ़इल पथ खलने के लए मलत है
+title: "FileOpenSource.FilePath"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "FileOpenSource प्रॉपर्टी। खोलने के लिए फ़ाइल पाथ प्राप्त करता है।"
 type: docs
 weight: 20
 url: /hi/net/aspose.psd.sources/fileopensource/filepath/
 ---
+{{< psd/tize >}}
 ## FileOpenSource.FilePath property
 
-फ़ाइल पथ खोलने के लिए मिलता है।
+खोलने के लिए फ़ाइल पथ प्राप्त करता है।
 
 ```csharp
 public string FilePath { get; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-खोलने के लिए फ़ाइल पथ।
+खोलने के लिए फ़ाइल पाथ।
 
-### यह सभी देखें
+### देखें भी
 
 * class [FileOpenSource](../)
-* नाम स्थान [Aspose.PSD.Sources](../../fileopensource/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Sources](../../../aspose.psd.sources/)
+* assembly [Aspose.PSD](../../../)
 
 

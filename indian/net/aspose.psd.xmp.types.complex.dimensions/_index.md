@@ -1,17 +1,18 @@
 ---
-title: Aspose.PSD.Xmp.Types.Complex.Dimensions
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: नमस्थन में वे वर्ग शमल हैं ज एक खंच गई वस्तु के आयमं वल संरचन क प्रतनधत्व करते हैं
+title: "Aspose.PSD.Xmp.Types.Complex.Dimensions"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "नेमस्पेस उन क्लासों को शामिल करता है जो खींचे गए वस्तु के आयामों वाली संरचना को दर्शाते हैं।"
 type: docs
-weight: 640
+weight: 680
 url: /hi/net/aspose.psd.xmp.types.complex.dimensions/
 ---
-नामस्थान में वे वर्ग शामिल हैं जो एक खींची गई वस्तु के आयामों वाली संरचना का प्रतिनिधित्व करते हैं।
+{{< psd/tize >}}
+Namespace में क्लासेस शामिल हैं जो ड्रॉ किए गए ऑब्जेक्ट के आयामों वाले स्ट्रक्चर को दर्शाते हैं।
 
-## कक्षाओं
+## क्लासेस
 
-| कक्षा | विवरण |
+| क्लास | विवरण |
 | --- | --- |
-| [Dimensions](./dimensions/) | खींची गई वस्तु के लिए आयाम शामिल हैं। |
+| [Dimensions](./dimensions/) | खींचे गए वस्तु के आयामों को शामिल करता है। |
 
 

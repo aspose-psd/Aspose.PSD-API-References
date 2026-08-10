@@ -1,27 +1,28 @@
 ---
-title: RawDataSettings.LineSize
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: RawDataSettings संपत्त. अपरष्कृत डेट प्रसेसंग के लए बइट में पक्सेल लइन आकर प्रप्त य सेट करत है
+title: "RawDataSettings.LineSize"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "RawDataSettings प्रॉपर्टी। कच्चा डेटा प्रोसेसिंग के लिए बाइट्स में पिक्सेल लाइन आकार को प्राप्त करता है या सेट करता है"
 type: docs
 weight: 70
 url: /hi/net/aspose.psd/rawdatasettings/linesize/
 ---
+{{< psd/tize >}}
 ## RawDataSettings.LineSize property
 
-अपरिष्कृत डेटा प्रोसेसिंग के लिए बाइट में पिक्सेल लाइन आकार प्राप्त या सेट करता है
+कच्चे डेटा प्रोसेसिंग के लिए पिक्सेल लाइन आकार बाइट्स में प्राप्त करता या सेट करता है
 
 ```csharp
 public int LineSize { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-अपरिष्कृत डेटा प्रोसेसिंग के लिए बाइट में पिक्सेल रेखा आकार
+कच्चा डेटा प्रोसेसिंग के लिए बाइट्स में पिक्सेल लाइन आकार
 
-### यह सभी देखें
+### देखें भी
 
 * class [RawDataSettings](../)
-* नाम स्थान [Aspose.PSD](../../rawdatasettings/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

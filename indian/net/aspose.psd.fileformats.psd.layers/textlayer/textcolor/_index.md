@@ -1,34 +1,35 @@
 ---
-title: TextLayer.TextColor
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: TextLayer संपत्त. पठ क रंग प्रप्त करत है
+title: "TextLayer.TextColor"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "TextLayer प्रॉपर्टी। टेक्स्ट का रंग प्राप्त करता है"
 type: docs
 weight: 50
 url: /hi/net/aspose.psd.fileformats.psd.layers/textlayer/textcolor/
 ---
+{{< psd/tize >}}
 ## TextLayer.TextColor property
 
-पाठ का रंग प्राप्त करता है।
+टेक्स्ट का रंग प्राप्त करता है।
 
 ```csharp
 public Color TextColor { get; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
 पाठ का रंग।
 
 ### अपवाद
 
-| अपवाद | स्थिति |
+| अपवाद | शर्त |
 | --- | --- |
-| [PsdImageException](../../../aspose.psd.coreexceptions.imageformats/psdimageexception/) | रंग घटक डेटा पार्स करने में त्रुटि |
+| [PsdImageException](../../../aspose.psd.coreexceptions.imageformats/psdimageexception/) | रंग घटक डेटा को पार्स करने में त्रुटि |
 
-### यह सभी देखें
+### देखें भी
 
 * struct [Color](../../../aspose.psd/color/)
 * class [TextLayer](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers](../../textlayer/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

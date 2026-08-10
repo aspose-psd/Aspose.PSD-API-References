@@ -1,31 +1,32 @@
 ---
-title: ColorPalette.Argb32Entries
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: ColorPalette संपत्त. 32बट ARGB संरचनओं क एक सरण प्रप्त करत है
+title: "ColorPalette.Argb32Entries"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "ColorPalette प्रॉपर्टी। 32-बिट ARGB स्ट्रक्चर्स की एरे प्राप्त करती है"
 type: docs
 weight: 30
 url: /hi/net/aspose.psd/colorpalette/argb32entries/
 ---
+{{< psd/tize >}}
 ## ColorPalette.Argb32Entries property
 
-32-बिट ARGB संरचनाओं की एक सरणी प्राप्त करता है।
+32-बिट ARGB संरचनाओं की एक एरे प्राप्त करता है।
 
 ```csharp
 public int[] Argb32Entries { get; }
 ```
 
-### प्रतिलाभ की मात्रा
+### रिटर्न वैल्यू
 
-32-बिट ARGB संरचना की सरणी जो इसे बनाती है[`ColorPalette`](../) .
+यह [`ColorPalette`](../) बनाने वाले 32-बिट ARGB स्ट्रक्चर की एरे।
 
-### संपत्ति मूल्य
+### Property Value
 
-प्रविष्टियाँ।
+एंट्रीज़।
 
-### यह सभी देखें
+### देखें भी
 
 * class [ColorPalette](../)
-* नाम स्थान [Aspose.PSD](../../colorpalette/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

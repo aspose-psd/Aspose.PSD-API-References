@@ -1,27 +1,28 @@
 ---
-title: CmykColor.IsEmpty
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: CmykColor संपत्त. यह इंगत करने वल मन प्रप्त करत है क क्य यहColor संरचन अप्ररंभकृत है.
+title: "CmykColor.IsEmpty"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "CmykColor प्रॉपर्टी। एक मान प्राप्त करता है जो दर्शाता है कि यह Color संरचना अनइनिशियलाइज़्ड है या नहीं"
 type: docs
-weight: 30
+weight: 40
 url: /hi/net/aspose.psd/cmykcolor/isempty/
 ---
+{{< psd/tize >}}
 ## CmykColor.IsEmpty property
 
-यह इंगित करने वाला मान प्राप्त करता है कि क्या यह[`Color`](../../color/) संरचना अप्रारंभीकृत है.
+एक मान प्राप्त करता है जो दर्शाता है कि यह [`Color`](../../color/) संरचना अनइनिशियलाइज़्ड है।
 
 ```csharp
 public bool IsEmpty { get; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-यदि यह रंग अप्रारंभीकृत है तो यह गुण सही हो जाता है; अन्यथा झूठा।
+यदि यह रंग अनइनिशियलाइज़्ड है तो यह प्रॉपर्टी true लौटाती है; अन्यथा false।
 
-### यह सभी देखें
+### देखें भी
 
 * struct [CmykColor](../)
-* नाम स्थान [Aspose.PSD](../../cmykcolor/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

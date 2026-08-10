@@ -1,27 +1,28 @@
 ---
-title: Matrix.Elements
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Matrix संपत्त. फ़्लटंगपइंट मनं क एक सरण प्रप्त करत है ज इसके तत्वं क प्रतनधत्व करत हैMatrix .
+title: "Matrix.Elements"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Matrix प्रॉपर्टी। इस मैट्रिक्स के तत्वों का प्रतिनिधित्व करने वाले फ्लोटिंग पॉइंट मानों की एक सरणी प्राप्त करता है।"
 type: docs
 weight: 20
 url: /hi/net/aspose.psd/matrix/elements/
 ---
+{{< psd/tize >}}
 ## Matrix.Elements property
 
-फ़्लोटिंग-पॉइंट मानों की एक सरणी प्राप्त करता है जो इसके तत्वों का प्रतिनिधित्व करता है[`Matrix`](../) .
+इस [`Matrix`](../) के तत्वों का प्रतिनिधित्व करने वाले फ्लोटिंग-पॉइंट मानों की एक सरणी प्राप्त करता है।
 
 ```csharp
 public float[] Elements { get; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-फ़्लोटिंग-पॉइंट मानों की एक सरणी जो इसके तत्वों का प्रतिनिधित्व करती है[`Matrix`](../).
+इस [`Matrix`](../) के तत्वों का प्रतिनिधित्व करने वाली फ्लोटिंग-पॉइंट मानों की एक सरणी।
 
-### यह सभी देखें
+### देखें भी
 
 * class [Matrix](../)
-* नाम स्थान [Aspose.PSD](../../matrix/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

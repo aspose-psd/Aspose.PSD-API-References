@@ -1,14 +1,15 @@
 ---
-title: Class PtFlResource
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.PtFlResource कक्ष. क्लस PtFlResource. पैटर्न भरण परत डेट शमल है.
+title: "क्लास PtFlResource"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Aspose.PSD.FileFormats.Psd.Layers.LayerResources.PtFlResource क्लास। क्लास PtFlResource। पैटर्न फ़िल लेयर डेटा शामिल है।"
 type: docs
-weight: 2960
+weight: 3310
 url: /hi/net/aspose.psd.fileformats.psd.layers.layerresources/ptflresource/
 ---
+{{< psd/tize >}}
 ## PtFlResource class
 
-क्लास PtFlResource. पैटर्न भरण परत डेटा शामिल है.
+क्लास PtFlResource। पैटर्न फ़िल लेयर डेटा शामिल है।
 
 ```csharp
 public class PtFlResource : FillLayerResource
@@ -18,39 +19,41 @@ public class PtFlResource : FillLayerResource
 
 | नाम | विवरण |
 | --- | --- |
-| [PtFlResource](ptflresource/)(string, string) | का एक नया उदाहरण प्रारंभ करता है`PtFlResource` वर्ग. |
+| [PtFlResource](ptflresource/#constructor)() | `PtFlResource` क्लास का नया उदाहरण प्रारंभ करता है। |
+| [PtFlResource](ptflresource/#constructor_1)(string, string) | `PtFlResource` क्लास का नया उदाहरण प्रारंभ करता है। |
 
-## गुण
-
-| नाम | विवरण |
-| --- | --- |
-| [AlignWithLayer](../../aspose.psd.fileformats.psd.layers.layerresources/ptflresource/alignwithlayer/) { get; set; } | [परत के साथ संरेखित करें] इंगित करने वाला मान प्राप्त करता है या सेट करता है। |
-| [IsLinkedWithLayer](../../aspose.psd.fileformats.psd.layers.layerresources/ptflresource/islinkedwithlayer/) { get; set; } | एक मान प्राप्त करता है या सेट करता है जो इंगित करता है कि यह उदाहरण परत से जुड़ा हुआ है या नहीं। |
-| override [Key](../../aspose.psd.fileformats.psd.layers.layerresources/ptflresource/key/) { get; } | परत संसाधन कुंजी प्राप्त करता है. |
-| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/ptflresource/length/) { get; } | बाइट्स में परत संसाधन लंबाई प्राप्त करता है। |
-| [Offset](../../aspose.psd.fileformats.psd.layers.layerresources/ptflresource/offset/) { get; set; } | ऑफसेट हो जाता है या सेट करता है। |
-| [PatternId](../../aspose.psd.fileformats.psd.layers.layerresources/ptflresource/patternid/) { get; set; } | पैटर्न आइडेंटिफ़ायर प्राप्त या सेट करता है। |
-| [PatternName](../../aspose.psd.fileformats.psd.layers.layerresources/ptflresource/patternname/) { get; set; } | पैटर्न का नाम प्राप्त या सेट करता है। |
-| override [PsdVersion](../../aspose.psd.fileformats.psd.layers.layerresources/ptflresource/psdversion/) { get; } | परत संसाधन के लिए आवश्यक न्यूनतम PSD संस्करण प्राप्त करता है। 0 कोई प्रतिबंध नहीं दर्शाता है। |
-| [Scale](../../aspose.psd.fileformats.psd.layers.layerresources/ptflresource/scale/) { get; set; } | स्केल प्राप्त करता है या सेट करता है। |
-| override [Signature](../../aspose.psd.fileformats.psd.layers.layerresources/ptflresource/signature/) { get; } | परत संसाधन हस्ताक्षर प्राप्त करता है। |
-
-## तरीकों
+## प्रॉपर्टीज़
 
 | नाम | विवरण |
 | --- | --- |
-| override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/ptflresource/save/)(StreamContainer, int) | संसाधन को निर्दिष्ट स्ट्रीम कंटेनर में सहेजता है। |
-| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring/)() | रिटर्न एString जो इस उदाहरण का प्रतिनिधित्व करता है। |
+| [AlignWithLayer](../../aspose.psd.fileformats.psd.layers.layerresources/ptflresource/alignwithlayer/) { get; set; } | लेयर के साथ संरेखित है या नहीं, यह दर्शाने वाला मान प्राप्त करता है या सेट करता है। |
+| [Angle](../../aspose.psd.fileformats.psd.layers.layerresources/ptflresource/angle/) { get; set; } | कोण प्राप्त करता है या सेट करता है। |
+| [IsLinkedWithLayer](../../aspose.psd.fileformats.psd.layers.layerresources/ptflresource/islinkedwithlayer/) { get; set; } | इस उदाहरण को लेयर के साथ लिंक किया गया है या नहीं, यह दर्शाने वाला मान प्राप्त करता है या सेट करता है। |
+| [Key](../../aspose.psd.fileformats.psd.layers/layerresource/key/) { get; } | लेयर रिसोर्स कुंजी प्राप्त करता है। |
+| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/ptflresource/length/) { get; } | बाइट्स में लेयर रिसोर्स की लंबाई प्राप्त करता है। |
+| [Offset](../../aspose.psd.fileformats.psd.layers.layerresources/ptflresource/offset/) { get; set; } | ऑफ़सेट को प्राप्त करता है या सेट करता है। |
+| [PatternId](../../aspose.psd.fileformats.psd.layers.layerresources/ptflresource/patternid/) { get; set; } | पैटर्न पहचानकर्ता प्राप्त करता है या सेट करता है। |
+| [PatternName](../../aspose.psd.fileformats.psd.layers.layerresources/ptflresource/patternname/) { get; set; } | पैटर्न का नाम प्राप्त करता है या सेट करता है। |
+| virtual [PsdVersion](../../aspose.psd.fileformats.psd.layers/layerresource/psdversion/) { get; } | लेयर रिसोर्स के लिए आवश्यक न्यूनतम PSD संस्करण प्राप्त करता है। 0 का अर्थ कोई प्रतिबंध नहीं है। |
+| [Scale](../../aspose.psd.fileformats.psd.layers.layerresources/ptflresource/scale/) { get; set; } | स्केल को प्राप्त करता है या सेट करता है। |
+| virtual [Signature](../../aspose.psd.fileformats.psd.layers/layerresource/signature/) { get; } | हस्ताक्षर प्राप्त करता है। |
 
-## खेत
+## मेथड्स
 
 | नाम | विवरण |
 | --- | --- |
-| const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/ptflresource/typetoolkey/) | टाइप टूल इंफो की. |
+| override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/ptflresource/save/)(StreamContainer, int) | निर्दिष्ट स्ट्रीम कंटेनर में रिसोर्स को सहेजता है। |
+| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring/)() | इस उदाहरण का प्रतिनिधित्व करने वाली एक स्ट्रिंग लौटाता है। |
 
-### उदाहरण
+## फ़ील्ड्स
 
-निम्न उदाहरण एक PtFlResource संसाधन को लोड करने और संपादित करने के समर्थन को प्रदर्शित करता है।
+| नाम | विवरण |
+| --- | --- |
+| const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/ptflresource/typetoolkey/) | टाइप टूल जानकारी कुंजी। |
+
+## उदाहरण
+
+निम्नलिखित उदाहरण PtFlResource संसाधन को लोड करने और संपादित करने के समर्थन को दर्शाता है।
 
 ```csharp
 [C#]
@@ -71,7 +74,7 @@ using (im)
             {
                 if (res is PtFlResource)
                 {
-                    // अध्ययन
+                    // पढ़ना
                     PtFlResource resource = (PtFlResource)res;
                     if (
                         resource.Offset.X != -46 ||
@@ -91,7 +94,7 @@ using (im)
                     resource.AlignWithLayer = false;
                     resource.IsLinkedWithLayer = false;
                     fillLayer.Resources = fillLayer.Resources;
-                    // हमारे पास पैट रिसोर्स में पैटर्न डेटा नहीं है, इसलिए हम इसे जोड़ सकते हैं।
+                    // हमारे पास PattResource में पैटर्न डेटा नहीं है, इसलिए हम इसे जोड़ सकते हैं।
                     var fillSettings = (PatternFillSettings)fillLayer.FillSettings;
                     fillSettings.PatternData = new int[]
                     {
@@ -116,11 +119,11 @@ using (im)
 }
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * class [LayerResource](../../aspose.psd.fileformats.psd.layers/layerresource/)
 * class [FillLayerResource](../filllayerresource/)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
-* सभा [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../)
 
 

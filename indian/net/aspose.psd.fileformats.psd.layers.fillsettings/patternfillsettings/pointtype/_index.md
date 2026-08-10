@@ -1,27 +1,28 @@
 ---
-title: PatternFillSettings.PointType
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: PatternFillSettings संपत्त. बंदु के प्रकर क प्रप्त य सेट करत है
+title: "PatternFillSettings.PointType"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "PatternFillSettings प्रॉपर्टी. बिंदु का प्रकार प्राप्त करता है या सेट करता है"
 type: docs
-weight: 110
+weight: 130
 url: /hi/net/aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings/pointtype/
 ---
+{{< psd/tize >}}
 ## PatternFillSettings.PointType property
 
-बिंदु के प्रकार को प्राप्त या सेट करता है।
+बिंदु का प्रकार प्राप्त करता है या सेट करता है।
 
 ```csharp
 public string PointType { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
 बिंदु का प्रकार।
 
-### यह सभी देखें
+### देखें भी
 
 * class [PatternFillSettings](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../patternfillsettings/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../../)
 
 

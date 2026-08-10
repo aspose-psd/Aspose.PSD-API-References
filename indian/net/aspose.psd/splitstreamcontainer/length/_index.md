@@ -1,27 +1,28 @@
 ---
-title: SplitStreamContainer.Length
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: SplitStreamContainer संपत्त. बइट्स में स्ट्रम क लंबई प्रप्त य सेट करत है यह मन से कम हैLengthStreamContainer कंस्ट्रक्टर में परत प्ररंभक स्ट्रम स्थत द्वर
+title: "SplitStreamContainer.Length"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "SplitStreamContainer प्रॉपर्टी। स्ट्रीम की लंबाई बाइट्स में प्राप्त या सेट करता है। यह मान स्ट्रीम कंटेनर कंस्ट्रक्टर में पास किए गए प्रारंभिक स्ट्रीम पोजीशन द्वारा Length से कम होता है"
 type: docs
 weight: 50
 url: /hi/net/aspose.psd/splitstreamcontainer/length/
 ---
+{{< psd/tize >}}
 ## SplitStreamContainer.Length property
 
-बाइट्स में स्ट्रीम की लंबाई प्राप्त या सेट करता है। यह मान से कम हैLengthStreamContainer कंस्ट्रक्टर में पारित प्रारंभिक स्ट्रीम स्थिति द्वारा।
+बाइट्स में स्ट्रीम की लंबाई प्राप्त करता है या सेट करता है। यह मान स्ट्रीम कंटेनर कंस्ट्रक्टर में पास की गई प्रारंभिक स्ट्रीम स्थिति द्वारा लंबाई से कम होता है।
 
 ```csharp
 public override long Length { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-धारा की लंबाई।
+स्ट्रीम की लंबाई।
 
-### यह सभी देखें
+### देखें भी
 
 * class [SplitStreamContainer](../)
-* नाम स्थान [Aspose.PSD](../../splitstreamcontainer/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

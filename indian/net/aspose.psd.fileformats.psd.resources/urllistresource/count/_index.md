@@ -1,27 +1,28 @@
 ---
-title: UrlListResource.Count
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: UrlListResource संपत्त. गनत प्रप्त करत है य सेट करत है
+title: "UrlListResource.Count"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "UrlListResource प्रॉपर्टी। काउंट प्राप्त करता है या सेट करता है"
 type: docs
 weight: 20
 url: /hi/net/aspose.psd.fileformats.psd.resources/urllistresource/count/
 ---
+{{< psd/tize >}}
 ## UrlListResource.Count property
 
-गिनती प्राप्त करता है या सेट करता है।
+गणना प्राप्त करता है या सेट करता है।
 
 ```csharp
 public int Count { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-गिनती.
+काउंट।
 
-### यह सभी देखें
+### देखें भी
 
 * class [UrlListResource](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Resources](../../urllistresource/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

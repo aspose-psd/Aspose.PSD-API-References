@@ -1,28 +1,29 @@
 ---
-title: JpegOptions.RdOptSettings
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: JpegOptions संपत्त. आरड ऑप्टमइज़र सेटंग प्रप्त य सेट करत है.
+title: "JpegOptions.RdOptSettings"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "JpegOptions प्रॉपर्टी। RD ऑप्टिमाइज़र सेटिंग्स प्राप्त करता है या सेट करता है"
 type: docs
-weight: 150
+weight: 160
 url: /hi/net/aspose.psd.imageoptions/jpegoptions/rdoptsettings/
 ---
+{{< psd/tize >}}
 ## JpegOptions.RdOptSettings property
 
-आरडी ऑप्टिमाइज़र सेटिंग प्राप्त या सेट करता है.
+RD ऑप्टिमाइज़र सेटिंग्स प्राप्त करता है या सेट करता है।
 
 ```csharp
 public RdOptimizerSettings RdOptSettings { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-आरडी ऑप्टिमाइज़र सेटिंग.
+RD ऑप्टिमाइज़र सेटिंग्स।
 
-### यह सभी देखें
+### देखें भी
 
 * class [RdOptimizerSettings](../../rdoptimizersettings/)
 * class [JpegOptions](../)
-* नाम स्थान [Aspose.PSD.ImageOptions](../../jpegoptions/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

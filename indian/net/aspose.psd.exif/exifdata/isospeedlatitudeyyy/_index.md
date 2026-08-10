@@ -1,31 +1,32 @@
 ---
-title: ExifData.ISOSpeedLatitudeYYY
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: ExifData संपत्त. ISO 12232. में परभषत कैमर य इनपुट डवइस क ISO गत अक्षंश yyy मन प्रप्त य सेट करत है
+title: "ExifData.ISOSpeedLatitudeYYY"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "ExifData प्रॉपर्टी। ISO 12232 में परिभाषित कैमरा या इनपुट डिवाइस के ISO स्पीड लैटिट्यूड YYY वैल्यू को प्राप्त या सेट करता है"
 type: docs
 weight: 710
 url: /hi/net/aspose.psd.exif/exifdata/isospeedlatitudeyyy/
 ---
+{{< psd/tize >}}
 ## ExifData.ISOSpeedLatitudeYYY property
 
-ISO 12232. में परिभाषित कैमरा या इनपुट डिवाइस का ISO गति अक्षांश yyy मान प्राप्त या सेट करता है
+ISO 12232 में परिभाषित कैमरा या इनपुट डिवाइस की ISO गति लैटिट्यूड yyy मान प्राप्त करता है या सेट करता है।
 
 ```csharp
 public uint ISOSpeedLatitudeYYY { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-आईएसओ 12232. में परिभाषित कैमरा या इनपुट डिवाइस का आईएसओ गति अक्षांश yyy मान
+ISO 12232 में परिभाषित कैमरा या इनपुट डिवाइस के ISO स्पीड लैटिट्यूड YYY वैल्यू।
 
-### टिप्पणियों
+## टिप्पणियाँ
 
-यह टैग ISOSpeed और ISOSpeedLatitudezzz के बिना रिकॉर्ड नहीं किया जाएगा
+इस टैग को ISOSpeed और ISOSpeedLatitudezzz के बिना रिकॉर्ड नहीं किया जाना चाहिए
 
-### यह सभी देखें
+### देखें भी
 
 * class [ExifData](../)
-* नाम स्थान [Aspose.PSD.Exif](../../exifdata/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

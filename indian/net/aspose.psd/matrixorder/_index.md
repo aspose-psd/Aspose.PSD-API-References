@@ -1,14 +1,15 @@
 ---
-title: Enum MatrixOrder
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Aspose.PSD.MatrixOrder एनुम. मैट्रक्स ट्रंसफ़र्म ऑपरेशंस के लए ऑर्डर नर्दष्ट करत है
+title: "एनम MatrixOrder"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Aspose.PSD.MatrixOrder एनम। मैट्रिक्स ट्रांसफ़ॉर्म ऑपरेशनों के क्रम को निर्दिष्ट करता है"
 type: docs
-weight: 5100
+weight: 5590
 url: /hi/net/aspose.psd/matrixorder/
 ---
+{{< psd/tize >}}
 ## MatrixOrder enumeration
 
-मैट्रिक्स ट्रांसफ़ॉर्म ऑपरेशंस के लिए ऑर्डर निर्दिष्ट करता है।
+मैट्रिक्स ट्रांसफ़ॉर्म ऑपरेशनों के क्रम को निर्दिष्ट करता है।
 
 ```csharp
 public enum MatrixOrder
@@ -16,14 +17,14 @@ public enum MatrixOrder
 
 ### मान
 
-| नाम | कीमत | विवरण |
+| नाम | मान | विवरण |
 | --- | --- | --- |
-| Prepend | `0` | नया ऑपरेशन पुराने ऑपरेशन से पहले लागू होता है। |
-| Append | `1` | नया ऑपरेशन पुराने ऑपरेशन के बाद लागू किया गया है। |
+| Prepend | `0` | नया ऑपरेशन पुराने ऑपरेशन से पहले लागू किया जाता है। |
+| Append | `1` | नया ऑपरेशन पुराने ऑपरेशन के बाद लागू किया जाता है। |
 
-### यह सभी देखें
+### देखें भी
 
-* नाम स्थान [Aspose.PSD](../../aspose.psd/)
-* सभा [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

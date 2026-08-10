@@ -1,27 +1,28 @@
 ---
-title: XmpTypeBase.GetXmpRepresentation
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: XmpTypeBase तरक. XMP प्ररूप में स्ट्रंग युक्त मन प्रप्त करत है
+title: "XmpTypeBase.GetXmpRepresentation"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "XmpTypeBase method. XMP फ़ॉर्मेट में निहित स्ट्रिंग मान प्राप्त करता है"
 type: docs
 weight: 10
 url: /hi/net/aspose.psd.xmp.types/xmptypebase/getxmprepresentation/
 ---
+{{< psd/tize >}}
 ## XmpTypeBase.GetXmpRepresentation method
 
-XMP प्रारूप में स्ट्रिंग युक्त मान प्राप्त करता है।
+XMP प्रारूप में सम्मिलित स्ट्रिंग मान को प्राप्त करता है।
 
 ```csharp
 public abstract string GetXmpRepresentation()
 ```
 
-### प्रतिलाभ की मात्रा
+### रिटर्न वैल्यू
 
-XMP प्रारूप में स्ट्रिंग युक्त मान लौटाता है।
+XMP फ़ॉर्मेट में सम्मिलित स्ट्रिंग मान को लौटाता है।
 
-### यह सभी देखें
+### देखें भी
 
 * class [XmpTypeBase](../)
-* नाम स्थान [Aspose.PSD.Xmp.Types](../../xmptypebase/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types](../../../aspose.psd.xmp.types/)
+* assembly [Aspose.PSD](../../../)
 
 

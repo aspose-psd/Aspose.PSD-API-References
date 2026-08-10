@@ -1,31 +1,32 @@
 ---
-title: ColorBlend.Equals
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: ColorBlend तरक. परक्षण करत है क नर्दष्ट वस्तु एक है य नहंColorBlend वर्ग और इसके बरबर हैColorBlend वर्ग.
+title: "ColorBlend.Equals"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "ColorBlend मेथड। परीक्षण करता है कि निर्दिष्ट ऑब्जेक्ट ColorBlend क्लास है और यह ColorBlend क्लास के बराबर है या नहीं।"
 type: docs
 weight: 40
 url: /hi/net/aspose.psd/colorblend/equals/
 ---
+{{< psd/tize >}}
 ## ColorBlend.Equals method
 
-परीक्षण करता है कि निर्दिष्ट वस्तु एक है या नहीं[`ColorBlend`](../) वर्ग और इसके बराबर है[`ColorBlend`](../) वर्ग.
+जाँचता है कि निर्दिष्ट वस्तु एक [`ColorBlend`](../) क्लास है और यह [`ColorBlend`](../) क्लास के बराबर है।
 
 ```csharp
 public override bool Equals(object obj)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| obj | Object | परीक्षण की जाने वाली वस्तु। |
+| obj | ऑब्जेक्ट | परीक्षण करने के लिए वस्तु। |
 
-### प्रतिलाभ की मात्रा
+### रिटर्न वैल्यू
 
-सच है अगर*obj* एक है[`ColorBlend`](../) इसके समकक्ष वर्ग[`ColorBlend`](../) कक्षा; अन्यथा झूठा।
+*obj* यदि एक [`ColorBlend`](../) क्लास है जो इस [`ColorBlend`](../) क्लास के बराबर है तो सत्य; अन्यथा असत्य।
 
-### यह सभी देखें
+### देखें भी
 
 * class [ColorBlend](../)
-* नाम स्थान [Aspose.PSD](../../colorblend/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

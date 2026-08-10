@@ -1,31 +1,32 @@
 ---
-title: ResourceEvent.Action
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: ResourceEvent संपत्त. कर्रवई करत है य सेट करत है
+title: "ResourceEvent.Action"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "ResourceEvent प्रॉपर्टी। कार्रवाई को प्राप्त करता है या सेट करता है"
 type: docs
 weight: 20
 url: /hi/net/aspose.psd.xmp.types.complex.resourceevent/resourceevent/action/
 ---
+{{< psd/tize >}}
 ## ResourceEvent.Action property
 
-कार्रवाई करता है या सेट करता है।
+एक्शन को प्राप्त करता है या सेट करता है।
 
 ```csharp
 public string Action { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-कार्रवाई.
+कार्रवाई।
 
-### उदाहरण
+## उदाहरण
 
-परिभाषित मान हैं: परिवर्तित, कॉपी, निर्मित, क्रॉप, संपादित, फ़िल्टर, स्वरूपित, संस्करण_अद्यतन, मुद्रित, प्रकाशित, प्रबंधित, निर्मित, आकार परिवर्तन, सहेजे गए। नए मान भूत काल में क्रियाएं होनी चाहिए।
+परिभाषित मान हैं: converted, copied, created, cropped, edited, filtered, formatted, version_updated, printed, published, managed, produced, resized, saved। नए मान भूतकाल में क्रिया रूप में होने चाहिए।
 
-### यह सभी देखें
+### देखें भी
 
 * class [ResourceEvent](../)
-* नाम स्थान [Aspose.PSD.Xmp.Types.Complex.ResourceEvent](../../resourceevent/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.ResourceEvent](../../../aspose.psd.xmp.types.complex.resourceevent/)
+* assembly [Aspose.PSD](../../../)
 
 

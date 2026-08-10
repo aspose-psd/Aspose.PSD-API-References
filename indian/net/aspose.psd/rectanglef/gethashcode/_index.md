@@ -1,27 +1,28 @@
 ---
-title: RectangleF.GetHashCode
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: RectangleF तरक. इसके लए हैश कड प्रप्त करत हैRectangleFसंरचन.
+title: "RectangleF.GetHashCode"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "RectangleF विधि। इस RectangleF संरचना के लिए हैश कोड प्राप्त करता है।"
 type: docs
 weight: 210
 url: /hi/net/aspose.psd/rectanglef/gethashcode/
 ---
+{{< psd/tize >}}
 ## RectangleF.GetHashCode method
 
-इसके लिए हैश कोड प्राप्त करता है[`RectangleF`](../)संरचना.
+इस [`RectangleF`](../) संरचना के लिए हैश कोड प्राप्त करता है।
 
 ```csharp
 public override int GetHashCode()
 ```
 
-### प्रतिलाभ की मात्रा
+### रिटर्न वैल्यू
 
-इसके लिए हैश कोड[`RectangleF`](../).
+यह [`RectangleF`](../) का हैश कोड।
 
-### यह सभी देखें
+### देखें भी
 
 * struct [RectangleF](../)
-* नाम स्थान [Aspose.PSD](../../rectanglef/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

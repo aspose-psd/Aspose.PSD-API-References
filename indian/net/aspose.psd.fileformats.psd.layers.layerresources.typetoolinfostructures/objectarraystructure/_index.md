@@ -1,14 +1,15 @@
 ---
-title: Class ObjectArrayStructure
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures.ObjectArrayStructure कक्ष. ObjectArrayStructure क्लस क परभषत करत है ज आमतर पर धरण करत हैUnitArrayStructure array. इसक उपयग PSD फ़इल संसधनं में कय जत है जैसे PlLd Resource और SoLd Resource.
+title: "क्लास ObjectArrayStructure"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures.ObjectArrayStructure क्लास। ObjectArrayStructure क्लास को परिभाषित करता है जो आमतौर पर UnitArrayStructure एरे रखता है। यह PSD फ़ाइल संसाधनों जैसे PlLd रिसोर्स और SoLd रिसोर्स में उपयोग होता है।"
 type: docs
-weight: 3200
+weight: 3590
 url: /hi/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/objectarraystructure/
 ---
+{{< psd/tize >}}
 ## ObjectArrayStructure class
 
-ObjectArrayStructure क्लास को परिभाषित करता है जो आमतौर पर धारण करता है[`UnitArrayStructure`](../unitarraystructure/) array. इसका उपयोग PSD फ़ाइल संसाधनों में किया जाता है, जैसे PlLd Resource और SoLd Resource.
+ObjectArrayStructure क्लास को परिभाषित करता है जो आमतौर पर [`UnitArrayStructure`](../unitarraystructure/) एरे रखता है। यह PSD फ़ाइल संसाधनों में, जैसे PlLd रिसोर्स और SoLd रिसोर्स, उपयोग होता है।
 
 ```csharp
 public sealed class ObjectArrayStructure : OSTypeStructure
@@ -18,38 +19,38 @@ public sealed class ObjectArrayStructure : OSTypeStructure
 
 | नाम | विवरण |
 | --- | --- |
-| [ObjectArrayStructure](objectarraystructure/#constructor_1)(string, string, OSTypeStructure[]) | का एक नया उदाहरण प्रारंभ करता है`ObjectArrayStructure` वर्ग. |
-| [ObjectArrayStructure](objectarraystructure/#constructor)(int, ClassID, ClassID, string, OSTypeStructure[]) | का एक नया उदाहरण प्रारंभ करता है`ObjectArrayStructure` वर्ग. |
+| [ObjectArrayStructure](objectarraystructure/#constructor_1)(string, string, OSTypeStructure[]) | `ObjectArrayStructure` क्लास का नया उदाहरण प्रारंभ करता है। |
+| [ObjectArrayStructure](objectarraystructure/#constructor)(int, ClassID, ClassID, string, OSTypeStructure[]) | `ObjectArrayStructure` क्लास का नया उदाहरण प्रारंभ करता है। |
 
-## गुण
+## प्रॉपर्टीज़
 
 | नाम | विवरण |
 | --- | --- |
-| [ClassID](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/objectarraystructure/classid/) { get; set; } | ऑब्जेक्ट ऐरे क्लास आईडी प्राप्त या सेट करता है। |
-| [ClassName](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/objectarraystructure/classname/) { get; set; } | ऑब्जेक्ट सरणी वर्ग नाम प्राप्त या सेट करता है। |
-| override [Key](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/objectarraystructure/key/) { get; } | ऑब्जेक्ट सरणी संरचना कुंजी प्राप्त करता है। |
-| [KeyName](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/keyname/) { get; set; } | कुंजी नाम प्राप्त या सेट करता है। |
-| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/objectarraystructure/length/) { get; } | हो जाता है[`OSTypeStructure`](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/) बाइट्स में लंबाई. |
-| [StructureCount](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/objectarraystructure/structurecount/) { get; } | ऑब्जेक्ट एरे सबस्ट्रक्चर काउंट प्राप्त करता है। |
-| [Structures](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/objectarraystructure/structures/) { get; set; } | संरचनाओं की एक सरणी की प्रतिलिपि प्राप्त या सेट करता है। |
+| [ClassID](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/objectarraystructure/classid/) { get; set; } | ऑब्जेक्ट एरे क्लास ID को प्राप्त करता है या सेट करता है। |
+| [ClassName](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/objectarraystructure/classname/) { get; set; } | ऑब्जेक्ट एरे क्लास नाम को प्राप्त करता है या सेट करता है। |
+| override [Key](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/objectarraystructure/key/) { get; } | ऑब्जेक्ट एरे संरचना कुंजी को प्राप्त करता है। |
+| [KeyName](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/keyname/) { get; set; } | कुंजी नाम प्राप्त करता है या सेट करता है। |
+| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/objectarraystructure/length/) { get; } | [`OSTypeStructure`](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/) की लंबाई बाइट्स में प्राप्त करता है। |
+| [StructureCount](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/objectarraystructure/structurecount/) { get; } | ऑब्जेक्ट एरे उप-संरचना गिनती को प्राप्त करता है। |
+| [Structures](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/objectarraystructure/structures/) { get; set; } | संरचनाओं की एरे की एक प्रति को प्राप्त करता है या सेट करता है। |
 
-## तरीकों
+## मेथड्स
 
 | नाम | विवरण |
 | --- | --- |
 | virtual [GetHeaderLength](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/getheaderlength/)() | हेडर की लंबाई प्राप्त करता है। |
-| [Save](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/save/)(StreamContainer) | संरचना को निर्दिष्ट स्ट्रीम कंटेनर में सहेजता है। |
-| [SaveWithoutKeyName](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/savewithoutkeyname/)(StreamContainer) | संरचना को निर्दिष्ट स्ट्रीम कंटेनर में सहेजता है। |
+| [Save](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/save/)(StreamContainer) | निर्दिष्ट स्ट्रीम कंटेनर में संरचना को सहेजता है। |
+| [SaveWithoutKeyName](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/savewithoutkeyname/)(StreamContainer) | निर्दिष्ट स्ट्रीम कंटेनर में संरचना को सहेजता है। |
 
-## खेत
+## फ़ील्ड्स
 
 | नाम | विवरण |
 | --- | --- |
-| const [StructureKey](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/objectarraystructure/structurekey/) | 'ओबरा' संरचना कुंजी की पहचान करता है। |
+| const [StructureKey](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/objectarraystructure/structurekey/) | 'ObAr' संरचना कुंजी की पहचान करता है। |
 
-### उदाहरण
+## उदाहरण
 
-निम्न कोड ObAr और UnFl हस्ताक्षरों के समर्थन को प्रदर्शित करता है।
+निम्नलिखित कोड ObAr और UnFl हस्ताक्षरों के समर्थन को दर्शाता है।
 
 ```csharp
 [C#]
@@ -101,10 +102,10 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
 }
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * class [OSTypeStructure](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
-* सभा [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../)
 
 

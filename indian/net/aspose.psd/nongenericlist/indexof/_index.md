@@ -1,31 +1,32 @@
 ---
-title: NonGenericList.IndexOf
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: NonGenericList तरक. में कस वशष्ट आइटम क अनुक्रमणक नर्धरत करत हैIList .
+title: "NonGenericList.IndexOf"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "NonGenericList मेथड। IList में किसी विशिष्ट आइटम का इंडेक्स निर्धारित करता है"
 type: docs
 weight: 130
 url: /hi/net/aspose.psd/nongenericlist/indexof/
 ---
+{{< psd/tize >}}
 ## NonGenericList.IndexOf method
 
-में किसी विशिष्ट आइटम की अनुक्रमणिका निर्धारित करता हैIList .
+IList में किसी विशिष्ट आइटम का अनुक्रमांक निर्धारित करता है।
 
 ```csharp
 public int IndexOf(object value)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| value | Object | Objectमें पता लगाने के लिएIList. |
+| मान | ऑब्जेक्ट | IList में खोजने के लिए ऑब्जेक्ट। |
 
-### प्रतिलाभ की मात्रा
+### रिटर्न वैल्यू
 
-का सूचकांक*value* अगर सूची में पाया गया; अन्यथा, -1.
+सूची में *value* मिलने पर उसका इंडेक्स; अन्यथा, -1।
 
-### यह सभी देखें
+### देखें भी
 
 * class [NonGenericList](../)
-* नाम स्थान [Aspose.PSD](../../nongenericlist/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

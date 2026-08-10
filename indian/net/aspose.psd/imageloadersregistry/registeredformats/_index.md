@@ -1,28 +1,29 @@
 ---
-title: ImageLoadersRegistry.RegisteredFormats
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: ImageLoadersRegistry संपत्त. पंजकृत छव लडंग प्ररूप प्रप्त करत है
+title: "ImageLoadersRegistry.RegisteredFormats"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "ImageLoadersRegistry प्रॉपर्टी। पंजीकृत इमेज लोडिंग फ़ॉर्मेट्स प्राप्त करता है।"
 type: docs
 weight: 20
 url: /hi/net/aspose.psd/imageloadersregistry/registeredformats/
 ---
+{{< psd/tize >}}
 ## ImageLoadersRegistry.RegisteredFormats property
 
-पंजीकृत छवि लोडिंग प्रारूप प्राप्त करता है।
+पंजीकृत इमेज लोडिंग फ़ॉर्मेट्स प्राप्त करता है।
 
 ```csharp
 public static FileFormat RegisteredFormats { get; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-पंजीकृत छवि लोडिंग प्रारूप।
+पंजीकृत इमेज लोडिंग फ़ॉर्मेट्स।
 
-### यह सभी देखें
+### देखें भी
 
 * enum [FileFormat](../../fileformat/)
 * class [ImageLoadersRegistry](../)
-* नाम स्थान [Aspose.PSD](../../imageloadersregistry/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,28 +1,29 @@
 ---
-title: TypeToolInfo6Resource.WarpItems
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: TypeToolInfo6Resource संपत्त. तन आइटम प्रप्त य सेट करत है
+title: "TypeToolInfo6Resource.WarpItems"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "TypeToolInfo6Resource प्रॉपर्टी। वॉर्प आइटम्स को प्राप्त करता है या सेट करता है"
 type: docs
-weight: 200
+weight: 170
 url: /hi/net/aspose.psd.fileformats.psd.layers.layerresources/typetoolinfo6resource/warpitems/
 ---
+{{< psd/tize >}}
 ## TypeToolInfo6Resource.WarpItems property
 
-ताना आइटम प्राप्त या सेट करता है।
+वार्प आइटम्स को प्राप्त करता है या सेट करता है।
 
 ```csharp
 public OSTypeStructure[] WarpItems { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-ताना आइटम।
+वॉर्प आइटम्स।
 
-### यह सभी देखें
+### देखें भी
 
 * class [OSTypeStructure](../../ostypestructure/)
 * class [TypeToolInfo6Resource](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../typetoolinfo6resource/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

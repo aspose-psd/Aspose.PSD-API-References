@@ -1,14 +1,15 @@
 ---
-title: Enum ColorMatrixFlag
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Aspose.PSD.ColorMatrixFlag एनुम. छवयं और रंगं के प्रकरं क नर्दष्ट करत है ज एक के रंग और ग्रेस्केल समयजन सेटंग्स से प्रभवत हंगेImageAttributes .
+title: "Enum ColorMatrixFlag"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Aspose.PSD.ColorMatrixFlag enum. उन इमेज और रंग प्रकारों को निर्दिष्ट करता है जो ImageAttributes की रंग और ग्रेस्केल समायोजन सेटिंग्स से प्रभावित होंगे।"
 type: docs
 weight: 360
 url: /hi/net/aspose.psd/colormatrixflag/
 ---
+{{< psd/tize >}}
 ## ColorMatrixFlag enumeration
 
-छवियों और रंगों के प्रकारों को निर्दिष्ट करता है जो एक के रंग और ग्रेस्केल समायोजन सेटिंग्स से प्रभावित होंगे[`ImageAttributes`](../imageattributes/) .
+एक [`ImageAttributes`](../imageattributes/) की रंग और ग्रेस्केल समायोजन सेटिंग्स द्वारा प्रभावित होने वाले छवियों और रंगों के प्रकार निर्दिष्ट करता है।
 
 ```csharp
 public enum ColorMatrixFlag
@@ -16,15 +17,15 @@ public enum ColorMatrixFlag
 
 ### मान
 
-| नाम | कीमत | विवरण |
+| नाम | मान | विवरण |
 | --- | --- | --- |
-| Default | `0` | ग्रे रंगों सहित सभी रंग मान समान रंग-समायोजन मैट्रिक्स द्वारा समायोजित किए जाते हैं। |
-| SkipGrays | `1` | सभी रंगों को एडजस्ट किया जाता है, लेकिन ग्रे शेड्स को एडजस्ट नहीं किया जाता है। ग्रे शेड ऐसा कोई भी रंग होता है जिसके लाल, हरे और नीले घटकों के लिए समान मान होता है. |
-| AltGrays | `2` | केवल धूसर रंगों को समायोजित किया जाता है। |
+| Default | `0` | सभी रंग मान, ग्रे शेड्स सहित, एक ही रंग-समायोजन मैट्रिक्स द्वारा समायोजित किए जाते हैं। |
+| SkipGrays | `1` | सभी रंग समायोजित किए जाते हैं, लेकिन ग्रे शेड्स समायोजित नहीं होते। ग्रे शेड वह कोई भी रंग है जिसका लाल, हरा और नीला घटक समान मान रखता है। |
+| AltGrays | `2` | केवल ग्रे शेड्स समायोजित किए जाते हैं। |
 
-### यह सभी देखें
+### देखें भी
 
-* नाम स्थान [Aspose.PSD](../../aspose.psd/)
-* सभा [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

@@ -1,38 +1,39 @@
 ---
-title: Class CurvesDiscreteManager
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.CurvesDiscreteManager कक्ष. वक्र समयजन परत के लए प्रबंधक ज पक्सेल के मनचत्र में हेरफेर करत है
+title: "क्लास CurvesDiscreteManager"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Aspose.PSD.FileFormats.Psd.Layers.LayerResources.CurvesDiscreteManager क्लास। पिक्सेल मैप को मैनीपुलेट करने वाले कर्व्स एडजस्टमेंट लेयर के लिए मैनेजर"
 type: docs
-weight: 2420
+weight: 2680
 url: /hi/net/aspose.psd.fileformats.psd.layers.layerresources/curvesdiscretemanager/
 ---
+{{< psd/tize >}}
 ## CurvesDiscreteManager class
 
-वक्र समायोजन परत के लिए प्रबंधक जो पिक्सेल के मानचित्र में हेरफेर करता है
+Curves Adjustment Layer के लिए मैनेजर जो पिक्सेल्स के मैप को मैनिपुलेट करता है।
 
 ```csharp
 public sealed class CurvesDiscreteManager : CurvesManager
 ```
 
-## गुण
+## प्रॉपर्टीज़
 
 | नाम | विवरण |
 | --- | --- |
-| [MaxChannelCount](../../aspose.psd.fileformats.psd.layers.layerresources/curvesmanager/maxchannelcount/) { get; } | चैनल की अधिकतम संख्या प्राप्त करता है. |
+| [MaxChannelCount](../../aspose.psd.fileformats.psd.layers.layerresources/curvesmanager/maxchannelcount/) { get; } | अधिकतम चैनल गणना प्राप्त करता है। |
 
-## तरीकों
+## मेथड्स
 
 | नाम | विवरण |
 | --- | --- |
-| [GetValueInPosition](../../aspose.psd.fileformats.psd.layers.layerresources/curvesdiscretemanager/getvalueinposition/)(int, byte) | स्थिति में मान प्राप्त करता है। |
-| [SetToDefaultValueInPosition](../../aspose.psd.fileformats.psd.layers.layerresources/curvesdiscretemanager/settodefaultvalueinposition/)(int, byte) | स्थिति में डिफ़ॉल्ट मान पर सेट करता है। |
-| [SetValueInPosition](../../aspose.psd.fileformats.psd.layers.layerresources/curvesdiscretemanager/setvalueinposition/)(int, byte, byte) | मान को स्थिति में सेट करता है। |
-| [SetValueOfWholeChannel](../../aspose.psd.fileformats.psd.layers.layerresources/curvesdiscretemanager/setvalueofwholechannel/)(int, byte[]) | पूरे चैनल का मान सेट करता है. |
+| [GetValueInPosition](../../aspose.psd.fileformats.psd.layers.layerresources/curvesdiscretemanager/getvalueinposition/)(int, byte) | स्थिति में मान को प्राप्त करता है। |
+| [SetToDefaultValueInPosition](../../aspose.psd.fileformats.psd.layers.layerresources/curvesdiscretemanager/settodefaultvalueinposition/)(int, byte) | स्थिति में डिफ़ॉल्ट मान सेट करता है। |
+| [SetValueInPosition](../../aspose.psd.fileformats.psd.layers.layerresources/curvesdiscretemanager/setvalueinposition/)(int, byte, byte) | स्थिति में मान सेट करता है। |
+| [SetValueOfWholeChannel](../../aspose.psd.fileformats.psd.layers.layerresources/curvesdiscretemanager/setvalueofwholechannel/)(int, byte[]) | पूरे चैनल का मान सेट करता है। |
 
-### यह सभी देखें
+### देखें भी
 
 * class [CurvesManager](../curvesmanager/)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
-* सभा [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../)
 
 

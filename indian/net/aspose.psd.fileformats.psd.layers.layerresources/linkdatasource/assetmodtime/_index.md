@@ -1,33 +1,34 @@
 ---
-title: LinkDataSource.AssetModTime
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: LinkDataSource संपत्त. Adobe Photoshop СС पुस्तकलयं क संपत्त के लए संपत्त संशधत समय प्रप्त य सेट करत है
+title: "LinkDataSource.AssetModTime"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "LinkDataSource प्रॉपर्टी। Adobe Photoshop СС Libraries एसेट्स के लिए एसेट संशोधित समय प्राप्त करता है या सेट करता है।"
 type: docs
 weight: 20
 url: /hi/net/aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/assetmodtime/
 ---
+{{< psd/tize >}}
 ## LinkDataSource.AssetModTime property
 
-Adobe® Photoshop® СС पुस्तकालयों की संपत्ति के लिए संपत्ति संशोधित समय प्राप्त या सेट करता है।
+Adobe® Photoshop® СС Libraries एसेट्स के लिए एसेट संशोधित समय प्राप्त करता है या सेट करता है।
 
 ```csharp
 public double AssetModTime { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-संपत्ति संशोधित समय।
+एसेट संशोधित समय।
 
 ### अपवाद
 
-| अपवाद | स्थिति |
+| अपवाद | शर्त |
 | --- | --- |
-| [PsdImageException](../../../aspose.psd.coreexceptions.imageformats/psdimageexception/) | आप AssetModTime प्रॉपर्टी का उपयोग नहीं कर सकते, यह केवल संस्करण 6 या अधिक वाले liFE या liFE डेटा स्रोत के लिए उपलब्ध है। |
+| [PsdImageException](../../../aspose.psd.coreexceptions.imageformats/psdimageexception/) | आप AssetModTime प्रॉपर्टी तक पहुँच नहीं सकते, यह केवल संस्करण 6 या उससे अधिक वाले liFE या liFE डेटा स्रोत के लिए उपलब्ध है। |
 
-### यह सभी देखें
+### देखें भी
 
 * class [LinkDataSource](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../linkdatasource/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

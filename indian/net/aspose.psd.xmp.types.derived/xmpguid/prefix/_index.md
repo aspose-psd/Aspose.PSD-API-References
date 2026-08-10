@@ -1,27 +1,28 @@
 ---
-title: XmpGuid.Prefix
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: XmpGuid संपत्त. uuid. जैसे उपसर्ग प्रप्त करत है य सेट करत है
+title: "XmpGuid.Prefix"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "XmpGuid property. uuid जैसी प्रीफ़िक्स को प्राप्त या सेट करता है"
 type: docs
 weight: 20
 url: /hi/net/aspose.psd.xmp.types.derived/xmpguid/prefix/
 ---
+{{< psd/tize >}}
 ## XmpGuid.Prefix property
 
-uuid. जैसे उपसर्ग प्राप्त करता है या सेट करता है
+uuid जैसी उपसर्ग प्राप्त करता है या सेट करता है।
 
 ```csharp
 public string Prefix { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-उपसर्ग जैसे uuid.
+uuid जैसी प्रीफ़िक्स।
 
-### यह सभी देखें
+### देखें भी
 
 * class [XmpGuid](../)
-* नाम स्थान [Aspose.PSD.Xmp.Types.Derived](../../xmpguid/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Derived](../../../aspose.psd.xmp.types.derived/)
+* assembly [Aspose.PSD](../../../)
 
 

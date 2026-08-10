@@ -1,32 +1,33 @@
 ---
-title: Rectangle.Union
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Rectangle तरक. ह जत हैRectangle संरचन जसमें द क मलन हत हैRectangle संरचनएं.
+title: "Rectangle.Union"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Rectangle मेथड। दो Rectangle संरचनाओं के संघ को सम्मिलित करने वाली एक Rectangle संरचना प्राप्त करता है।"
 type: docs
 weight: 100
 url: /hi/net/aspose.psd/rectangle/union/
 ---
+{{< psd/tize >}}
 ## Rectangle.Union method
 
-हो जाता है[`Rectangle`](../) संरचना जिसमें दो का मिलन होता है[`Rectangle`](../) संरचनाएं.
+दो [`Rectangle`](../) संरचनाओं के संघ को सम्मिलित करने वाली एक [`Rectangle`](../) संरचना प्राप्त करता है।
 
 ```csharp
 public static Rectangle Union(Rectangle a, Rectangle b)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| a | Rectangle | संघ के लिए पहला आयत। |
-| b | Rectangle | संघ के लिए एक दूसरा आयत। |
+| a | Rectangle | संघ करने के लिए पहला आयत। |
+| b | Rectangle | संघ करने के लिए दूसरा आयत। |
 
-### प्रतिलाभ की मात्रा
+### रिटर्न वैल्यू
 
-ए[`Rectangle`](../) संरचना जो दोनों के मिलन को सीमित करती है[`Rectangle`](../) संरचनाएं।
+दोनों [`Rectangle`](../) संरचनाओं के संघ को सीमित करने वाली एक [`Rectangle`](../) संरचना।
 
-### यह सभी देखें
+### देखें भी
 
 * struct [Rectangle](../)
-* नाम स्थान [Aspose.PSD](../../rectangle/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

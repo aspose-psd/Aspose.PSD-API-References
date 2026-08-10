@@ -1,27 +1,28 @@
 ---
-title: PhflResourceVersion3.ColorSpace
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: PhflResourceVersion3 संपत्त. रंग स्थन प्रप्त करत है
+title: "PhflResourceVersion3.ColorSpace"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "PhflResourceVersion3 गुण। रंग स्थान प्राप्त करता है"
 type: docs
 weight: 20
 url: /hi/net/aspose.psd.fileformats.psd.layers.layerresources/phflresourceversion3/colorspace/
 ---
+{{< psd/tize >}}
 ## PhflResourceVersion3.ColorSpace property
 
-रंग स्थान प्राप्त करता है।
+रंग स्थान को प्राप्त करता है।
 
 ```csharp
 public short ColorSpace { get; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-कलर स्पेस।
+रंग स्थान।
 
-### यह सभी देखें
+### देखें भी
 
 * class [PhflResourceVersion3](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../phflresourceversion3/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

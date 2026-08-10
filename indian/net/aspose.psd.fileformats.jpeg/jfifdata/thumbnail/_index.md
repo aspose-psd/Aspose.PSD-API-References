@@ -1,24 +1,25 @@
 ---
-title: JFIFData.Thumbnail
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: JFIFData संपत्त. थंबनेल प्रप्त य सेट करत है
+title: "JFIFData.Thumbnail"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "JFIFData प्रॉपर्टी। थंबनेल को प्राप्त या सेट करता है।"
 type: docs
 weight: 30
 url: /hi/net/aspose.psd.fileformats.jpeg/jfifdata/thumbnail/
 ---
+{{< psd/tize >}}
 ## JFIFData.Thumbnail property
 
-थंबनेल प्राप्त या सेट करता है।
+थंबनेल को प्राप्त करता है या सेट करता है।
 
 ```csharp
 public RasterImage Thumbnail { get; set; }
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * class [RasterImage](../../../aspose.psd/rasterimage/)
 * class [JFIFData](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Jpeg](../../jfifdata/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Jpeg](../../../aspose.psd.fileformats.jpeg/)
+* assembly [Aspose.PSD](../../../)
 
 

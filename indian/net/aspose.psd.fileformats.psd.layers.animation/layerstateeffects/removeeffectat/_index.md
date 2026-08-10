@@ -1,27 +1,28 @@
 ---
-title: LayerStateEffects.RemoveEffectAt
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: LayerStateEffects तरक. वशष्ट सूचकंक पर परत प्रभव क हटत है
+title: "LayerStateEffects.RemoveEffectAt"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "LayerStateEffects मेथड। निर्दिष्ट इंडेक्स पर लेयर इफ़ेक्ट को हटाता है"
 type: docs
 weight: 110
 url: /hi/net/aspose.psd.fileformats.psd.layers.animation/layerstateeffects/removeeffectat/
 ---
+{{< psd/tize >}}
 ## LayerStateEffects.RemoveEffectAt method
 
-विशिष्ट सूचकांक पर परत प्रभाव को हटाता है।
+विशिष्ट इंडेक्स पर लेयर इफ़ेक्ट को हटाता है।
 
 ```csharp
 public void RemoveEffectAt(int index)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| index | Int32 | परत प्रभाव का सूचकांक। |
+| index | Int32 | लेयर इफ़ेक्ट का इंडेक्स। |
 
-### यह सभी देखें
+### देखें भी
 
 * class [LayerStateEffects](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.Animation](../../layerstateeffects/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.Animation](../../../aspose.psd.fileformats.psd.layers.animation/)
+* assembly [Aspose.PSD](../../../)
 
 

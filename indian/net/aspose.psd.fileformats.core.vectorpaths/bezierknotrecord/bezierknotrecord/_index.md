@@ -1,22 +1,23 @@
 ---
-title: BezierKnotRecord.BezierKnotRecord
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: BezierKnotRecord नर्मत. क एक नय उदहरण प्ररंभ करत हैBezierKnotRecord वर्ग.
+title: "BezierKnotRecord.BezierKnotRecord"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "BezierKnotRecord कन्स्ट्रक्टर। BezierKnotRecord क्लास का नया इंस्टेंस इनिशियलाइज़ करता है"
 type: docs
 weight: 10
 url: /hi/net/aspose.psd.fileformats.core.vectorpaths/bezierknotrecord/bezierknotrecord/
 ---
+{{< psd/tize >}}
 ## BezierKnotRecord() {#constructor}
 
-का एक नया उदाहरण प्रारंभ करता है[`BezierKnotRecord`](../) वर्ग.
+[`BezierKnotRecord`](../) क्लास का नया इंस्टेंस इनिशियलाइज़ करता है।
 
 ```csharp
 public BezierKnotRecord()
 ```
 
-### उदाहरण
+## उदाहरण
 
-निम्नलिखित कोड उदाहरण वेक्टर पथ वस्तुओं में हेरफेर करने के लिए कक्षाएं प्रदान करता है और दर्शाता है कि उन वर्गों का उपयोग कैसे करें।
+निम्नलिखित कोड उदाहरण वेक्टर पाथ ऑब्जेक्ट्स को मैनीपुलेट करने के लिए क्लासेस प्रदान करता है और दिखाता है कि इन क्लासेस का उपयोग कैसे किया जाए।
 
 ```csharp
 [C#]
@@ -44,15 +45,15 @@ public void CreatingVectorPathExample(string outputPsd = "outputPsd.psd")
 #region Vector path editor (Here placed classes for edit vector paths).
 
 /// <summary>
-/// वह वर्ग जो <देखें cref="Layer"/> और <cref="VectorPath"/> देखें।
+/// वह क्लास जो <see cref="Layer"/> और <see cref="VectorPath"/> के बीच कार्य प्रदान करती है।
 /// </summary>
 public static class VectorDataProvider
 {
     /// <summary>
-    /// <देखें cref="VectorPath"/> इनपुट परत से संसाधनों के आधार पर उदाहरण।
+    /// इनपुट लेयर से रिसोर्सेज़ के आधार पर <see cref="VectorPath"/> इंस्टेंस बनाता है।
     /// </summary>
-    /// <परम नाम="psdLayer">PSD परत.</param>
-    /// <returns>the <see cref="VectorPath"/> instance based on resources from input layer.</returns>
+    /// <param name="psdLayer">psd लेयर।</param>
+    /// <returns>इनपुट लेयर से रिसोर्सेज़ के आधार पर <see cref="VectorPath"/> इंस्टेंस।</returns>
     public static VectorPath CreateVectorPathForLayer(Layer psdLayer)
     {
         ValidateLayer(psdLayer);
@@ -71,11 +72,11 @@ public static class VectorDataProvider
     }
 
     /// <summary>
-    /// इनपुट परत संसाधनों को <देखें cref="VectorPath"/> उदाहरण, या नए पथ संसाधन और अपडेट द्वारा प्रतिस्थापित करें।
+    /// <see cref="VectorPath"/> इंस्टेंस से इनपुट लेयर रिसोर्सेज़ को अपडेट करता है, या नए पाथ रिसोर्स से बदलकर अपडेट करता है।
     /// </summary>
-    /// <परम नाम="psdLayer">PSD परत.</param>
-    /// <param name="vectorPath">सदिश पथ.</param>
-    /// <param name="imageSize">बदलाव बिंदु निर्देशांकों को सही करने के लिए छवि का आकार।</param>
+    /// <param name="psdLayer">psd लेयर।</param>
+    /// <param name="vectorPath">वेक्टर पाथ।</param>
+    /// <param name="imageSize">पॉइंट कॉर्डिनेट्स को सही रूप में कनवर्ट करने के लिए इमेज साइज।</param>
     public static void UpdateLayerFromVectorPath(Layer psdLayer, VectorPath vectorPath, bool createIfNotExist = false)
     {
         ValidateLayer(psdLayer);
@@ -93,7 +94,7 @@ public static class VectorDataProvider
     /// <summary>
     /// इनपुट लेयर से वेक्टर पाथ डेटा हटाता है।
     /// </summary>
-    /// <परम नाम="psdLayer">PSD परत.</param>
+    /// <param name="psdLayer">psd लेयर।</param>
     public static void RemoveVectorPathDataFromLayer(Layer psdLayer)
     {
         List<LayerResource> oldResources = new List<LayerResource>(psdLayer.Resources);
@@ -116,13 +117,13 @@ public static class VectorDataProvider
     }
 
     /// <summary>
-    /// संसाधन डेटा को <देखें cref="VectorPath"/> उदाहरण।
+    /// <see cref="VectorPath"/> इंस्टेंस से रिसोर्सेज़ डेटा को अपडेट करता है।
     /// </summary>
-    /// <param name="pathResource">पथ संसाधन.</param>
-    /// <param name="vogkResource">वेक्टर उत्पत्ति डेटा संसाधन।</param>
-    /// <param name="socoResource">ठोस रंग संसाधन.</param>
-    /// <param name="vectorPath">सदिश पथ.</param>
-    /// <param name="imageSize">बदलाव बिंदु निर्देशांकों को सही करने के लिए छवि का आकार।</param>
+    /// <param name="pathResource">पाथ रिसोर्स।</param>
+    /// <param name="vogkResource">वेक्टर ओरिजिनेशन डेटा रिसोर्स।</param>
+    /// <param name="socoResource">सॉलिड कलर रिसोर्स।</param>
+    /// <param name="vectorPath">वेक्टर पाथ।</param>
+    /// <param name="imageSize">पॉइंट कॉर्डिनेट्स को सही रूप में कनवर्ट करने के लिए इमेज साइज।</param>
     private static void UpdateResources(VectorPathDataResource pathResource, VogkResource vogkResource, SoCoResource socoResource, VectorPath vectorPath, Size imageSize)
     {
         pathResource.Version = vectorPath.Version;
@@ -149,12 +150,12 @@ public static class VectorDataProvider
     }
 
     /// <summary>
-    /// संसाधनों को अद्यतन या नए द्वारा परत में बदलता है।
+    /// लेयर में रिसोर्सेज़ को अपडेटेड या नए द्वारा बदलता है।
     /// </summary>
-    /// <परम नाम="psdLayer">PSD परत.</param>
-    /// <param name="pathResource">पथ संसाधन.</param>
-    /// <param name="vogkResource">वेक्टर उत्पत्ति डेटा संसाधन।</param>
-    /// <param name="socoResource">ठोस रंग संसाधन.</param>
+    /// <param name="psdLayer">psd लेयर।</param>
+    /// <param name="pathResource">पाथ रिसोर्स।</param>
+    /// <param name="vogkResource">वेक्टर ओरिजिनेशन डेटा रिसोर्स।</param>
+    /// <param name="socoResource">सॉलिड कलर रिसोर्स।</param>
     private static void ReplaceVectorPathDataResourceInLayer(Layer psdLayer, VectorPathDataResource pathResource, VogkResource vogkResource, SoCoResource socoResource)
     {
         bool pathResourceExist = false;
@@ -201,11 +202,11 @@ public static class VectorDataProvider
     }
 
     /// <summary>
-    /// <देखें cref="VectorPathDataResource"/> इनपुट परत संसाधनों में संसाधन।
+    /// इनपुट लेयर रिसोर्सेज़ में <see cref="VectorPathDataResource"/> रिसोर्स खोजता है।
     /// </summary>
-    /// <परम नाम="psdLayer">PSD परत.</param>
-    /// <param name="createIfNotExist">यदि संसाधन मौजूद नहीं है, तो <देखें cref="true"/> एक नया संसाधन बनाता है, अन्यथा वापस लौटें <देखें cref="null"/>.</param>
-    /// <returns>The <see cref="VectorPathDataResource"/> resource.</returns>
+    /// <param name="psdLayer">psd लेयर।</param>
+    /// <param name="createIfNotExist">यदि रिसोर्स मौजूद नहीं है, तो <see cref="true"/> के लिए नया रिसोर्स बनाता है, अन्यथा <see cref="null"/> लौटाता है।</param>
+    /// <returns><see cref="VectorPathDataResource"/> रिसोर्स।</returns>
     private static VectorPathDataResource FindVectorPathDataResource(Layer psdLayer, bool createIfNotExist = false)
     {
         VectorPathDataResource pathResource = null;
@@ -227,11 +228,11 @@ public static class VectorDataProvider
     }
 
     /// <summary>
-    /// <देखें cref="VogkResource"/> इनपुट परत संसाधनों में संसाधन।
+    /// इनपुट लेयर रिसोर्सेज़ में <see cref="VogkResource"/> रिसोर्स खोजता है।
     /// </summary>
-    /// <परम नाम="psdLayer">PSD परत.</param>
-    /// <param name="createIfNotExist">यदि संसाधन मौजूद नहीं है, तो <देखें cref="true"/> एक नया संसाधन बनाता है, अन्यथा वापस लौटें <देखें cref="null"/>.</param>
-    /// <returns>The <see cref="VogkResource"/> resource.</returns>
+    /// <param name="psdLayer">psd लेयर।</param>
+    /// <param name="createIfNotExist">यदि रिसोर्स मौजूद नहीं है, तो <see cref="true"/> के लिए नया रिसोर्स बनाता है, अन्यथा <see cref="null"/> लौटाता है।</param>
+    /// <returns><see cref="VogkResource"/> रिसोर्स।</returns>
     private static VogkResource FindVogkResource(Layer psdLayer, bool createIfNotExist = false)
     {
         VogkResource vogkResource = null;
@@ -253,11 +254,11 @@ public static class VectorDataProvider
     }
 
     /// <summary>
-    /// <देखें cref="SoCoResource"/> इनपुट परत संसाधनों में संसाधन।
+    /// इनपुट लेयर रिसोर्सेज़ में <see cref="SoCoResource"/> रिसोर्स खोजता है।
     /// </summary>
-    /// <परम नाम="psdLayer">PSD परत.</param>
-    /// <param name="createIfNotExist">यदि संसाधन मौजूद नहीं है, तो <देखें cref="true"/> एक नया संसाधन बनाता है, अन्यथा वापस लौटें <देखें cref="null"/>.</param>
-    /// <returns>The <see cref="SoCoResource"/> resource.</returns>
+    /// <param name="psdLayer">psd लेयर।</param>
+    /// <param name="createIfNotExist">यदि रिसोर्स मौजूद नहीं है, तो <see cref="true"/> के लिए नया रिसोर्स बनाता है, अन्यथा <see cref="null"/> लौटाता है।</param>
+    /// <returns><see cref="SoCoResource"/> रिसोर्स।</returns>
     private static SoCoResource FindSoCoResource(Layer psdLayer, bool createIfNotExist = false)
     {
         SoCoResource socoResource = null;
@@ -279,10 +280,10 @@ public static class VectorDataProvider
     }
 
     /// <summary>
-    /// परत को <देखें cref="VectorDataProvider"/> कक्षा।
+    /// <see cref="VectorDataProvider"/> क्लास के साथ काम करने के लिए लेयर को वैलिडेट करता है।
     /// </summary>
-    /// <परम नाम="परत"></परम>
-    /// <अपवाद cref="ArgumentNullException"></Exception>
+    /// <param name="layer"></param>
+    /// <exception cref="ArgumentNullException"></exception>
     private static void ValidateLayer(Layer layer)
     {
         if (layer == null)
@@ -298,22 +299,22 @@ public static class VectorDataProvider
 }
 
 /// <summary>
-/// बेजियर कर्व नॉट, इसमें एक एंकर पॉइंट और दो कंट्रोल पॉइंट होते हैं।
+/// Bezier curve knot, इसमें एक एंकर पॉइंट और दो कंट्रोल पॉइंट्स होते हैं।
 /// </summary>
 public class BezierKnot
 {
     /// <summary>
-    /// पथ बिंदु अनुपात के लिए छवि।
+    /// इमेज से पाथ पॉइंट का अनुपात।
     /// </summary>
     private const int ImgToPsdRatio = 256 * 65535;
 
     /// <summary>
-    /// <देखें cref="BezierKnot" /> कक्षा।
+    /// नया इंस्टेंस इनिशियलाइज़ करता है <see cref="BezierKnot" /> क्लास का।
     /// </summary>
-    /// <परम नाम="anchorPoint">एंकर बिंदु.</param>
-    /// <param name="controlPoint1">पहला नियंत्रण बिंदु.</param>
-    /// <param name="controlPoint2">वह दूसरा नियंत्रण बिंदु.</param>
-    /// <param name="isLinked">यह इंगित करने वाला मान कि क्या यह गाँठ जुड़ी हुई है।</param>
+    /// <param name="anchorPoint">एंकर पॉइंट।</param>
+    /// <param name="controlPoint1">पहला कंट्रोल पॉइंट।</param>
+    /// <param name="controlPoint2">दूसरा कंट्रोल पॉइंट।</param>
+    /// <param name="isLinked">यह मान दर्शाता है कि यह नॉट लिंक्ड है या नहीं।</param>
     public BezierKnot(PointF anchorPoint, PointF controlPoint1, PointF controlPoint2, bool isLinked)
     {
         this.AnchorPoint = anchorPoint;
@@ -323,10 +324,10 @@ public class BezierKnot
     }
 
     /// <summary>
-    /// <देखें cref="BezierKnot" /> वर्ग <देखें cref="BezierKnotRecord"/> पर आधारित है।
+    /// नया इंस्टेंस इनिशियलाइज़ करता है <see cref="BezierKnot" /> क्लास का, जो <see cref="BezierKnotRecord"/> पर आधारित है।
     /// </summary>
-    /// <param name="bezierKnotRecord">The <see cref="BezierKnotRecord"/>.</param>
-    /// <param name="imageSize">बदलाव बिंदु निर्देशांकों को सही करने के लिए छवि का आकार।</param>
+    /// <param name="bezierKnotRecord"><see cref="BezierKnotRecord"/>।</param>
+    /// <param name="imageSize">पॉइंट कॉर्डिनेट्स को सही रूप में कनवर्ट करने के लिए इमेज साइज।</param>
     public BezierKnot(BezierKnotRecord bezierKnotRecord, Size imageSize)
     {
         this.IsLinked = bezierKnotRecord.IsLinked;
@@ -336,41 +337,41 @@ public class BezierKnot
     }
 
     /// <summary>
-    /// <देखें cref="BezierKnot" /> कक्षा।
+    /// नया इंस्टेंस इनिशियलाइज़ करता है <see cref="BezierKnot" /> क्लास का।
     /// </summary>
-    /// <param name="anchorPoint">एंकर होने वाला बिंदु और नियंत्रण बिंदु.</param>
-    /// <param name="isLinked">यह इंगित करने वाला मान कि क्या यह गाँठ जुड़ी हुई है।</param>
+    /// <param name="anchorPoint">एंकर और कंट्रोल पॉइंट्स होने वाला पॉइंट।</param>
+    /// <param name="isLinked">यह मान दर्शाता है कि यह नॉट लिंक्ड है या नहीं।</param>
     public BezierKnot(PointF anchorPoint, bool isLinked)
     : this(anchorPoint, anchorPoint, anchorPoint, isLinked)
     {
     }
 
     /// <summary>
-    /// एक मान प्राप्त करता है या सेट करता है जो इंगित करता है कि यह उदाहरण जुड़ा हुआ है या नहीं।
+    /// यह इंस्टेंस लिंक्ड है या नहीं दर्शाने वाला मान प्राप्त करता है या सेट करता है।
     /// </summary>
     public bool IsLinked { get; set; }
 
     /// <summary>
-    /// पहला नियंत्रण बिंदु प्राप्त करें या सेट करें।
+    /// पहला कंट्रोल पॉइंट प्राप्त करता है या सेट करता है।
     /// </summary>
     public PointF ControlPoint1 { get; set; }
 
     /// <summary>
-    /// एंकर पॉइंट प्राप्त या सेट करता है।
+    /// एंकर पॉइंट प्राप्त करता है या सेट करता है।
     /// </summary>
     public PointF AnchorPoint { get; set; }
 
     /// <summary>
-    /// दूसरा नियंत्रण बिंदु प्राप्त या सेट करता है।
+    /// दूसरा कंट्रोल पॉइंट प्राप्त करता है या सेट करता है।
     /// </summary>
     public PointF ControlPoint2 { get; set; }
 
     /// <summary>
-    /// <देखें cref="BezierKnotRecord"/> का उदाहरण बनाता है इस उदाहरण के आधार पर।
+    /// इस इंस्टेंस के आधार पर <see cref="BezierKnotRecord"/> का इंस्टेंस बनाता है।
     /// </summary>
-    /// <param name="isClosed">यह इंगित करता है कि क्या यह गाँठ बंद आकार में है।</param>
-    /// <param name="imageSize">बदलाव बिंदु निर्देशांकों को सही करने के लिए छवि का आकार।</param>
-    /// <returns>The instance of <see cref="BezierKnotRecord"/> based on this instance.</returns>
+    /// <param name="isClosed">यह दर्शाता है कि यह नॉट बंद आकार में है या नहीं।</param>
+    /// <param name="imageSize">पॉइंट कॉर्डिनेट्स को सही रूप में कनवर्ट करने के लिए इमेज साइज।</param>
+    /// <returns>इस इंस्टेंस के आधार पर <see cref="BezierKnotRecord"/> का इंस्टेंस।</returns>
     public BezierKnotRecord ToBezierKnotRecord(bool isClosed, Size imageSize)
     {
         BezierKnotRecord record = new BezierKnotRecord();
@@ -387,10 +388,10 @@ public class BezierKnot
     }
 
     /// <summary>
-    /// इस गाँठ बिंदु को इनपुट मानों से बदलता है।
+    /// इनपुट मानों द्वारा इस नॉट के पॉइंट्स को शिफ्ट करता है।
     /// </summary>
-    /// <param name="xOffset">x ऑफ़सेट.</param>
-    /// <param name="yOffset">y ऑफ़सेट.</param>
+    /// <param name="xOffset">x ऑफसेट।</param>
+    /// <param name="yOffset">y ऑफसेट।</param>
     public void Shift(float xOffset, float yOffset)
     {
         this.ControlPoint1 = new PointF(this.ControlPoint1.X + xOffset, this.ControlPoint1.Y + yOffset);
@@ -399,22 +400,22 @@ public class BezierKnot
     }
 
     /// <summary>
-    /// बिंदु मानों को संसाधन से सामान्य में परिवर्तित करता है।
+    /// रिसोर्स से सामान्य में पॉइंट मानों को कनवर्ट करता है।
     /// </summary>
-    /// <परम नाम="बिंदु">संसाधन से मूल्यों के साथ बिंदु।</परम>
-    /// <param name="imageSize">बदलाव बिंदु निर्देशांकों को सही करने के लिए छवि का आकार।</param>
-    /// <returns>The converted to normal point.</returns>
+    /// <param name="point">रिसोर्स से मानों वाला पॉइंट।</param>
+    /// <param name="imageSize">पॉइंट कॉर्डिनेट्स को सही रूप में कनवर्ट करने के लिए इमेज साइज।</param>
+    /// <returns>सामान्य में कनवर्ट किया गया पॉइंट।</returns>
     private static PointF ResourcePointToPointF(Point point, Size imageSize)
     {
         return new PointF(point.Y / (ImgToPsdRatio / imageSize.Width), point.X / (ImgToPsdRatio / imageSize.Height));
     }
 
     /// <summary>
-    /// सामान्य बिंदु मानों को संसाधन बिंदु में कनवर्ट करता है।
+    /// सामान्य बिंदु मानों को संसाधन बिंदु में परिवर्तित करता है।
     /// </summary>
-    /// <परम नाम="बिंदु">बिंदु.</परम>
-    /// <param name="imageSize">बदलाव बिंदु निर्देशांकों को सही करने के लिए छवि का आकार।</param>
-    /// <returns>The point with values for resource.</returns>
+    /// <param name="point">बिंदु।</param>
+    /// <param name="imageSize">पॉइंट कॉर्डिनेट्स को सही रूप में कनवर्ट करने के लिए इमेज साइज।</param>
+    /// <returns>संसाधन के लिए मानों के साथ बिंदु।</returns>
     private static Point PointFToResourcePoint(PointF point, Size imageSize)
     {
         return new Point((int)Math.Round(point.Y * (ImgToPsdRatio / imageSize.Height)), (int)Math.Round(point.X * (ImgToPsdRatio / imageSize.Width)));
@@ -422,12 +423,12 @@ public class BezierKnot
 }
 
 /// <summary>
-/// बेजियर कर्व के नॉट्स से फिगर।
+/// Bezier वक्र के नॉट्स से प्राप्त आकृति।
 /// </summary>
 public class PathShape
 {
     /// <summary>
-    /// <देखें cref="PathShape" /> कक्षा।
+    /// <see cref="PathShape" /> क्लास का नया उदाहरण प्रारंभ करता है।
     /// </summary>
     public PathShape()
     {
@@ -436,11 +437,11 @@ public class PathShape
     }
 
     /// <summary>
-    /// <देखें cref="PathShape" /> वर्ग <देखें cref="VectorPathRecord"/> के आधार पर।
+    /// <see cref="PathShape" /> क्लास का नया उदाहरण <see cref="VectorPathRecord"/> के आधार पर प्रारंभ करता है।
     /// </summary>
-    /// <param name="lengthRecord">लंबाई का रिकॉर्ड।</param>
-    /// <param name="bezierKnotRecords">बेज़ियर नॉट रिकॉर्ड.</param>
-    /// <param name="imageSize">बदलाव बिंदु निर्देशांकों को सही करने के लिए छवि का आकार।</param>
+    /// <param name="lengthRecord">लंबाई रिकॉर्ड।</param>
+    /// <param name="bezierKnotRecords">Bezier नॉट रिकॉर्ड।</param>
+    /// <param name="imageSize">पॉइंट कॉर्डिनेट्स को सही रूप में कनवर्ट करने के लिए इमेज साइज।</param>
     public PathShape(LengthRecord lengthRecord, List<BezierKnotRecord> bezierKnotRecords, Size imageSize)
     : this()
     {
@@ -451,33 +452,33 @@ public class PathShape
     }
 
     /// <summary>
-    /// एक मान प्राप्त या सेट करता है जो इंगित करता है कि यह उदाहरण बंद है या नहीं।
+    /// इस उदाहरण के बंद होने को दर्शाने वाला मान प्राप्त करता है या सेट करता है।
     /// </summary>
-    /// <मान>
-    /// <c>true</c> अगर यह उदाहरण बंद है; अन्यथा, <c>गलत</c>.
-    /// </मान>
+    /// <value>
+    ///   <c>true</c> यदि यह उदाहरण बंद है; अन्यथा, <c>false</c>.
+    /// </value>
     public bool IsClosed { get; set; }
 
     /// <summary>
-    /// पाथ ऑपरेशंस (बूलियन ऑपरेशंस) प्राप्त या सेट करता है।
+    /// पथ संचालन (बूलियन संचालन) प्राप्त करता है या सेट करता है।
     /// </summary>
     public PathOperations PathOperations { get; set; }
 
     /// <summary>
-    /// परत में वर्तमान पथ आकार के सूचकांक को प्राप्त या सेट करता है।
+    /// लेयर में वर्तमान पथ आकृति का सूचकांक प्राप्त करता है या सेट करता है।
     /// </summary>
     public ushort ShapeIndex { get; set; }
 
     /// <summary>
-    /// बेज़ियर वक्र के बिंदु प्राप्त करता है।
+    /// Bezier वक्र के बिंदु प्राप्त करता है।
     /// </summary>
     public List<BezierKnot> Points { get; private set; }
 
     /// <summary>
-    /// <देखें cref="VectorPathRecord"/> इस उदाहरण के आधार पर रिकॉर्ड।
+    /// इस उदाहरण के आधार पर <see cref="VectorPathRecord"/> रिकॉर्ड बनाता है।
     /// </summary>
-    /// <param name="imageSize">बदलाव बिंदु निर्देशांकों को सही करने के लिए छवि का आकार।</param>
-    /// <returns>Returns one <see cref="LengthRecord"/> and <see cref="BezierKnotRecord"/> for each point in this instance.</returns>
+    /// <param name="imageSize">पॉइंट कॉर्डिनेट्स को सही रूप में कनवर्ट करने के लिए इमेज साइज।</param>
+    /// <returns>इस उदाहरण के प्रत्येक बिंदु के लिए एक <see cref="LengthRecord"/> और <see cref="BezierKnotRecord"/> लौटाता है।</returns>
     public IEnumerable<VectorPathRecord> ToVectorPathRecords(Size imageSize)
     {
         List<VectorPathRecord> shapeRecords = new List<VectorPathRecord>();
@@ -498,10 +499,10 @@ public class PathShape
     }
 
     /// <summary>
-    /// इनपुट रिकॉर्ड के आधार पर मूल्यों को आरंभ करता है।
+    /// इनपुट रिकॉर्ड के आधार पर मान प्रारंभ करता है।
     /// </summary>
-    /// <param name="bezierKnotRecords">बेज़ियर नॉट रिकॉर्ड.</param>
-    /// <param name="imageSize">बदलाव बिंदु निर्देशांकों को सही करने के लिए छवि का आकार।</param>
+    /// <param name="bezierKnotRecords">Bezier नॉट रिकॉर्ड।</param>
+    /// <param name="imageSize">पॉइंट कॉर्डिनेट्स को सही रूप में कनवर्ट करने के लिए इमेज साइज।</param>
     private void InitFromResources(IEnumerable<BezierKnotRecord> bezierKnotRecords, Size imageSize)
     {
         List<BezierKnot> newPoints = new List<BezierKnot>();
@@ -516,75 +517,75 @@ public class PathShape
 }
 
 /// <summary>
-/// वह वर्ग जिसमें वेक्टर पथ हैं।
+/// वह क्लास जो वेक्टर पाथ्स को सम्मिलित करता है।
 /// </summary>
 public class VectorPath
 {
     /// <summary>
-    /// <देखें cref="VectorPath" /> वर्ग <देखें cref="VectorPathDataResource"/> पर आधारित है।
+    /// <see cref="VectorPath" /> क्लास का नया उदाहरण <see cref="VectorPathDataResource"/> के आधार पर प्रारंभ करता है।
     /// </summary>
-    /// <param name="vectorPathDataResource">वेक्टर पथ डेटा संसाधन.</param>
-    /// <param name="imageSize">बदलाव बिंदु निर्देशांकों को सही करने के लिए छवि का आकार।</param>
+    /// <param name="vectorPathDataResource">वेक्टर पाथ डेटा संसाधन।</param>
+    /// <param name="imageSize">पॉइंट कॉर्डिनेट्स को सही रूप में कनवर्ट करने के लिए इमेज साइज।</param>
     public VectorPath(VectorPathDataResource vectorPathDataResource, Size imageSize)
     {
         this.InitFromResource(vectorPathDataResource, imageSize);
     }
 
     /// <summary>
-    /// एक मान प्राप्त या सेट करता है जो इंगित करता है कि भरण सभी पिक्सेल से शुरू होता है या नहीं।
+    /// यह दर्शाने वाला मान प्राप्त करता है या सेट करता है कि भराव सभी पिक्सेल से शुरू होता है या नहीं।
     /// </summary>
-    /// <मान>
-    /// is fill सभी पिक्सेल से शुरू होता है।
-    /// </मान>
+    /// <value>
+    /// भराव सभी पिक्सेल से शुरू होता है।
+    /// </value>
     public bool IsFillStartsWithAllPixels { get; set; }
 
     /// <summary>
-    /// वेक्टर आकार प्राप्त करता है।
+    /// वेक्टर आकृतियों को प्राप्त करता है।
     /// </summary>
     public List<PathShape> Shapes { get; private set; }
 
     /// <summary>
-    /// वेक्टर पाथ फिल कलर प्राप्त या सेट करता है।
+    /// वेक्टर पाथ भराव रंग प्राप्त करता है या सेट करता है।
     /// </summary>
     public Color FillColor { get; set; }
 
     /// <summary>
-    /// संस्करण प्राप्त या सेट करता है।
+    /// संस्करण प्राप्त करता है या सेट करता है।
     /// </summary>
-    /// <मान>
+    /// <value>
     /// संस्करण।
-    /// </मान>
+    /// </value>
     public int Version { get; set; }
 
     /// <summary>
-    /// एक मान प्राप्त या सेट करता है जो इंगित करता है कि यह उदाहरण अक्षम है या नहीं।
+    /// इस उदाहरण के निष्क्रिय होने को दर्शाने वाला मान प्राप्त करता है या सेट करता है।
     /// </summary>
-    /// <मान>
-    /// <c>true</c> अगर यह उदाहरण अक्षम है; अन्यथा, <c>गलत</c>.
-    /// </मान>
+    /// <value>
+    ///   <c>true</c> यदि यह उदाहरण निष्क्रिय है; अन्यथा, <c>false</c>.
+    /// </value>
     public bool IsDisabled { get; set; }
 
     /// <summary>
-    /// यह इंगित करने वाला मान प्राप्त करता है या सेट करता है कि यह उदाहरण लिंक नहीं है।
+    /// इस उदाहरण के न जुड़े होने को दर्शाने वाला मान प्राप्त करता है या सेट करता है।
     /// </summary>
-    /// <मान>
-    /// <c>true</c> अगर यह उदाहरण जुड़ा नहीं है; अन्यथा, <c>गलत</c>.
-    /// </मान>
+    /// <value>
+    ///   <c>true</c> यदि यह उदाहरण नहीं जुड़ा है; अन्यथा, <c>false</c>.
+    /// </value>
     public bool IsNotLinked { get; set; }
 
     /// <summary>
-    /// एक मान प्राप्त करता है या सेट करता है जो इंगित करता है कि यह उदाहरण उलटा है या नहीं।
+    /// इस उदाहरण के उलटा होने को दर्शाने वाला मान प्राप्त करता है या सेट करता है।
     /// </summary>
-    /// <मान>
-    /// <c>true</c> यदि यह उदाहरण उलटा है; अन्यथा, <c>गलत</c>.
-    /// </मान>
+    /// <value>
+    ///   <c>true</c> यदि यह उदाहरण उलटा है; अन्यथा, <c>false</c>.
+    /// </value>
     public bool IsInverted { get; set; }
 
     /// <summary>
-    /// इनपुट के आधार पर मूल्यों को प्रारंभ करता है <देखें cref="VectorPathDataResource"/> संसाधन।
+    /// इनपुट <see cref=\"VectorPathDataResource\"/> संसाधन के आधार पर मानों को प्रारंभ करता है।
     /// </summary>
-    /// <परम नाम="संसाधन">वेक्टर पथ डेटा संसाधन।</param>
-    /// <param name="imageSize">बदलाव बिंदु निर्देशांकों को सही करने के लिए छवि का आकार।</param>
+    /// <param name=\"resource\">वेक्टर पाथ डेटा संसाधन।</param>
+    /// <param name="imageSize">पॉइंट कॉर्डिनेट्स को सही रूप में कनवर्ट करने के लिए इमेज साइज।</param>
     private void InitFromResource(VectorPathDataResource resource, Size imageSize)
     {
         List<PathShape> newShapes = new List<PathShape>();
@@ -635,30 +636,30 @@ public class VectorPath
 #endregion
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * class [BezierKnotRecord](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Core.VectorPaths](../../bezierknotrecord/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## BezierKnotRecord(byte[]) {#constructor_1}
 
-का एक नया उदाहरण प्रारंभ करता है[`BezierKnotRecord`](../) वर्ग.
+[`BezierKnotRecord`](../) क्लास का नया इंस्टेंस इनिशियलाइज़ करता है।
 
 ```csharp
 public BezierKnotRecord(byte[] data)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| data | Byte[] | रिकॉर्ड डेटा। |
+| डेटा | Byte[] | रिकॉर्ड डेटा। |
 
-### यह सभी देखें
+### देखें भी
 
 * class [BezierKnotRecord](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Core.VectorPaths](../../bezierknotrecord/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../../)
 
 

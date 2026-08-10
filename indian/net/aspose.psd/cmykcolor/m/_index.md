@@ -1,27 +1,28 @@
 ---
-title: CmykColor.M
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: CmykColor संपत्त. इसक मैजेंट घटक मन प्रप्त करत हैColorसंरचन.
+title: "CmykColor.M"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "CmykColor प्रॉपर्टी। इस Color संरचना का मैजेंटा घटक मान प्राप्त करता है"
 type: docs
-weight: 50
+weight: 60
 url: /hi/net/aspose.psd/cmykcolor/m/
 ---
+{{< psd/tize >}}
 ## CmykColor.M property
 
-इसका मैजेंटा घटक मान प्राप्त करता है[`Color`](../../color/)संरचना.
+इस [`Color`](../../color/) संरचना का मैजेंटा घटक मान प्राप्त करता है।
 
 ```csharp
 public byte M { get; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-इसका मैजेंटा घटक मान[`Color`](../../color/) .
+इस [`Color`](../../color/) का मैजेंटा घटक मान।
 
-### यह सभी देखें
+### देखें भी
 
 * struct [CmykColor](../)
-* नाम स्थान [Aspose.PSD](../../cmykcolor/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

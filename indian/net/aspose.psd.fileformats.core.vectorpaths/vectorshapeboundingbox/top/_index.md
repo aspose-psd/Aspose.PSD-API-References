@@ -1,27 +1,28 @@
 ---
-title: VectorShapeBoundingBox.Top
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: VectorShapeBoundingBox संपत्त. शर्ष प्रप्त करत है य सेट करत है
+title: "VectorShapeBoundingBox.Top"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "VectorShapeBoundingBox प्रॉपर्टी। शीर्ष प्राप्त करता है या सेट करता है"
 type: docs
-weight: 70
+weight: 80
 url: /hi/net/aspose.psd.fileformats.core.vectorpaths/vectorshapeboundingbox/top/
 ---
+{{< psd/tize >}}
 ## VectorShapeBoundingBox.Top property
 
-शीर्ष प्राप्त करता है या सेट करता है।
+ऊपर को प्राप्त करता है या सेट करता है।
 
 ```csharp
 public double Top { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-सबसे ऊपर.
+शीर्ष।
 
-### यह सभी देखें
+### देखें भी
 
 * class [VectorShapeBoundingBox](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Core.VectorPaths](../../vectorshapeboundingbox/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../../)
 
 

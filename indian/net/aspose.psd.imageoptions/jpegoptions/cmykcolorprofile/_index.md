@@ -1,24 +1,25 @@
 ---
-title: JpegOptions.CmykColorProfile
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: JpegOptions संपत्त. CMYK jpeg छवयं के लए गंतव्य CMYK रंग प्रफ़इल छवयं क सहेजने के लए उपयग करें सह रंग रूपंतरण के लए RGBColorProfile के सथ जड़ जन चहए
+title: "JpegOptions.CmykColorProfile"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "JpegOptions प्रॉपर्टी। CMYK JPEG छवियों के लिए गंतव्य CMYK रंग प्रोफ़ाइल। छवियों को सहेजने के लिए उपयोग करें। सही रंग रूपांतरण के लिए यह RGBColorProfile के साथ जोड़ी में होना चाहिए"
 type: docs
 weight: 30
 url: /hi/net/aspose.psd.imageoptions/jpegoptions/cmykcolorprofile/
 ---
+{{< psd/tize >}}
 ## JpegOptions.CmykColorProfile property
 
-CMYK jpeg छवियों के लिए गंतव्य CMYK रंग प्रोफ़ाइल। छवियों को सहेजने के लिए उपयोग करें। सही रंग रूपांतरण के लिए RGBColorProfile के साथ जोड़ा जाना चाहिए।
+CMYK JPEG छवियों के लिए गंतव्य CMYK रंग प्रोफ़ाइल। छवियों को सहेजने के लिए उपयोग करें। सही रंग रूपांतरण के लिए इसे RGBColorProfile के साथ जोड़े में होना चाहिए।
 
 ```csharp
 public StreamSource CmykColorProfile { get; set; }
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * class [StreamSource](../../../aspose.psd.sources/streamsource/)
 * class [JpegOptions](../)
-* नाम स्थान [Aspose.PSD.ImageOptions](../../jpegoptions/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

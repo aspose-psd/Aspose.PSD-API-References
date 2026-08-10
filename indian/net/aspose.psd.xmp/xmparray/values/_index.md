@@ -1,23 +1,24 @@
 ---
-title: XmpArray.Values
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: XmpArray संपत्त. अंदर मनं क सरण प्रप्त करत हैXmpArray .
+title: "XmpArray.Values"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "XmpArray प्रॉपर्टी। XmpArray के भीतर मानों का एरे प्राप्त करती है।"
 type: docs
 weight: 20
 url: /hi/net/aspose.psd.xmp/xmparray/values/
 ---
+{{< psd/tize >}}
 ## XmpArray.Values property
 
-अंदर मानों की सरणी प्राप्त करता है[`XmpArray`](../) .
+[`XmpArray`](../) के भीतर मानों का एरे प्राप्त करता है।
 
 ```csharp
 public string[] Values { get; }
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * class [XmpArray](../)
-* नाम स्थान [Aspose.PSD.Xmp](../../xmparray/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

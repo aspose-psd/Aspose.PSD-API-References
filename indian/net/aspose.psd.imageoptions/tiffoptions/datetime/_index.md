@@ -1,27 +1,28 @@
 ---
-title: TiffOptions.DateTime
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: TiffOptions संपत्त. दनंक और समय प्रप्त य सेट करत है
+title: "TiffOptions.DateTime"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "TiffOptions प्रॉपर्टी। प्राप्त करता है या सेट करता है तिथि और समय।"
 type: docs
 weight: 110
 url: /hi/net/aspose.psd.imageoptions/tiffoptions/datetime/
 ---
+{{< psd/tize >}}
 ## TiffOptions.DateTime property
 
-दिनांक और समय प्राप्त या सेट करता है।
+तारीख और समय को प्राप्त या सेट करता है।
 
 ```csharp
 public string DateTime { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-दिनांक और समय.
+तिथि और समय।
 
-### यह सभी देखें
+### देखें भी
 
 * class [TiffOptions](../)
-* नाम स्थान [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

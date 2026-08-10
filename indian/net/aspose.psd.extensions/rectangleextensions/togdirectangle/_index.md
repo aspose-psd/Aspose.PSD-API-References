@@ -1,57 +1,58 @@
 ---
-title: RectangleExtensions.ToGdiRectangle
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: RectangleExtensions तरक. परवर्तत करत हैRectangle तकRectangle .
+title: "RectangleExtensions.ToGdiRectangle"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "RectangleExtensions मेथड। Rectangle को Rectangle में परिवर्तित करता है।"
 type: docs
 weight: 10
 url: /hi/net/aspose.psd.extensions/rectangleextensions/togdirectangle/
 ---
+{{< psd/tize >}}
 ## ToGdiRectangle(Rectangle) {#togdirectangle}
 
-परिवर्तित करता है[`Rectangle`](../../../aspose.psd/rectangle/) तकRectangle .
+[`Rectangle`](../../../aspose.psd/rectangle/) को Rectangle में परिवर्तित करता है।
 
 ```csharp
 public static Rectangle ToGdiRectangle(Rectangle rectangle)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| rectangle | Rectangle | कन्वर्ट करने के लिए आयत। |
+| आयत | Rectangle | परिवर्तित करने के लिए आयत। |
 
-### प्रतिलाभ की मात्रा
+### रिटर्न वैल्यू
 
-परिवर्तितRectangle.
+परिवर्तित आयत।
 
-### यह सभी देखें
+### देखें भी
 
 * struct [Rectangle](../../../aspose.psd/rectangle/)
 * class [RectangleExtensions](../)
-* नाम स्थान [Aspose.PSD.Extensions](../../rectangleextensions/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Extensions](../../../aspose.psd.extensions/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## ToGdiRectangle(RectangleF) {#togdirectangle_1}
 
-परिवर्तित करता है[`RectangleF`](../../../aspose.psd/rectanglef/) तकRectangle .
+[`RectangleF`](../../../aspose.psd/rectanglef/) को आयत में परिवर्तित करता है।
 
 ```csharp
 public static RectangleF ToGdiRectangle(RectangleF rectangle)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| rectangle | RectangleF | कन्वर्ट करने के लिए आयत। |
+| आयत | RectangleF | परिवर्तित करने के लिए आयत। |
 
-### प्रतिलाभ की मात्रा
+### रिटर्न वैल्यू
 
-परिवर्तितRectangleF.
+परिवर्तित RectangleF।
 
-### यह सभी देखें
+### देखें भी
 
 * struct [RectangleF](../../../aspose.psd/rectanglef/)
 * class [RectangleExtensions](../)
-* नाम स्थान [Aspose.PSD.Extensions](../../rectangleextensions/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Extensions](../../../aspose.psd.extensions/)
+* assembly [Aspose.PSD](../../../)
 
 

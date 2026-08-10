@@ -1,27 +1,28 @@
 ---
-title: Color.Name
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Color संपत्त. इसक नम मलत हैColor .
+title: "Color.Name"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Color प्रॉपर्टी। इस Color का नाम प्राप्त करता है।"
 type: docs
 weight: 1520
 url: /hi/net/aspose.psd/color/name/
 ---
+{{< psd/tize >}}
 ## Color.Name property
 
-इसका नाम मिलता है[`Color`](../) .
+इस [`Color`](../) का नाम प्राप्त करता है।
 
 ```csharp
 public string Name { get; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-इसका नाम[`Color`](../).
+इस [`Color`](../) का नाम।
 
-### यह सभी देखें
+### देखें भी
 
 * struct [Color](../)
-* नाम स्थान [Aspose.PSD](../../color/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

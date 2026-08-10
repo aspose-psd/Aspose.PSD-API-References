@@ -1,27 +1,28 @@
 ---
-title: XmpDynamicMediaPackage.SetComposer
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: XmpDynamicMediaPackage तरक. संगतकर सेट करत है
+title: "XmpDynamicMediaPackage.SetComposer"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "XmpDynamicMediaPackage मेथड। संगीतकार सेट करता है"
 type: docs
 weight: 160
 url: /hi/net/aspose.psd.xmp.schemas.xmpdm/xmpdynamicmediapackage/setcomposer/
 ---
+{{< psd/tize >}}
 ## XmpDynamicMediaPackage.SetComposer method
 
-संगीतकार सेट करता है।
+संगीतकार को सेट करता है।
 
 ```csharp
 public void SetComposer(string composer)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| composer | String | संगीतकार। |
+| संगीतकार | String | संगीतकार। |
 
-### यह सभी देखें
+### देखें भी
 
 * class [XmpDynamicMediaPackage](../)
-* नाम स्थान [Aspose.PSD.Xmp.Schemas.XmpDm](../../xmpdynamicmediapackage/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpDm](../../../aspose.psd.xmp.schemas.xmpdm/)
+* assembly [Aspose.PSD](../../../)
 
 

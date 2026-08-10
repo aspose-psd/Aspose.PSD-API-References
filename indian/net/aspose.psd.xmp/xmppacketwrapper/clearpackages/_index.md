@@ -1,23 +1,24 @@
 ---
-title: XmpPacketWrapper.ClearPackages
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: XmpPacketWrapper तरक. सभ क हट देत हैXmpPackage XMP. के अंदर
+title: "XmpPacketWrapper.ClearPackages"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "XmpPacketWrapper मेथड। XMP के भीतर सभी XmpPackage हटाता है"
 type: docs
 weight: 80
 url: /hi/net/aspose.psd.xmp/xmppacketwrapper/clearpackages/
 ---
+{{< psd/tize >}}
 ## XmpPacketWrapper.ClearPackages method
 
-सभी को हटा देता है[`XmpPackage`](../../xmppackage/) XMP. के अंदर
+XMP के भीतर सभी [`XmpPackage`](../../xmppackage/) हटाता है।
 
 ```csharp
 public void ClearPackages()
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * class [XmpPacketWrapper](../)
-* नाम स्थान [Aspose.PSD.Xmp](../../xmppacketwrapper/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

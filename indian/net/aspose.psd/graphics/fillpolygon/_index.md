@@ -1,127 +1,128 @@
 ---
-title: Graphics.FillPolygon
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Graphics तरक. द्वर नर्दष्ट बंदुओं क एक सरण द्वर परभषत बहुभुज के आंतरक भग क भरत हैPointF संरचनएं औरAlternate .
+title: "Graphics.FillPolygon"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Graphics मेथड। पॉलीगॉन के अंदरूनी भाग को भरता है जो PointF संरचनाओं द्वारा निर्दिष्ट बिंदुओं की एरे द्वारा परिभाषित है और Alternate।"
 type: docs
-weight: 380
+weight: 390
 url: /hi/net/aspose.psd/graphics/fillpolygon/
 ---
+{{< psd/tize >}}
 ## FillPolygon(Brush, PointF[]) {#fillpolygon}
 
-द्वारा निर्दिष्ट बिंदुओं की एक सरणी द्वारा परिभाषित बहुभुज के आंतरिक भाग को भरता है[`PointF`](../../pointf/) संरचनाएं औरAlternate .
+पॉलीगॉन के अंदरूनी भाग को भरता है जो [`PointF`](../../pointf/) संरचनाओं द्वारा निर्दिष्ट बिंदुओं की एरे द्वारा परिभाषित है और Alternate।
 
 ```csharp
 public void FillPolygon(Brush brush, PointF[] points)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| brush | Brush | [`Brush`](../../brush/)जो भरण की विशेषताओं को निर्धारित करता है। |
-| points | PointF[] | की श्रंखला[`PointF`](../../pointf/) संरचनाएं जो भरे जाने वाले बहुभुज के शीर्षों का प्रतिनिधित्व करती हैं। |
+| brush | Brush | [`Brush`](../../brush/) जो भराव की विशेषताओं को निर्धारित करता है। |
+| points | PointF[] | [`PointF`](../../pointf/) संरचनाओं की एरे जो भरने वाले पॉलीगॉन के शीर्ष बिंदुओं का प्रतिनिधित्व करती है। |
 
 ### अपवाद
 
-| अपवाद | स्थिति |
+| अपवाद | शर्त |
 | --- | --- |
-| ArgumentNullException | *brush* शून्य है। -या- *points* शून्य है। |
+| ArgumentNullException | *brush* शून्य है। -or- *points* शून्य है। |
 
-### यह सभी देखें
+### देखें भी
 
 * class [Brush](../../brush/)
 * struct [PointF](../../pointf/)
 * class [Graphics](../)
-* नाम स्थान [Aspose.PSD](../../graphics/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## FillPolygon(Brush, PointF[], FillMode) {#fillpolygon_1}
 
-द्वारा निर्दिष्ट बिंदुओं की एक सरणी द्वारा परिभाषित बहुभुज के आंतरिक भाग को भरता है[`PointF`](../../pointf/) निर्दिष्ट भरण मोड का उपयोग कर संरचनाएं।
+पॉलीगॉन के अंदरूनी भाग को भरता है जो [`PointF`](../../pointf/) संरचनाओं द्वारा निर्दिष्ट बिंदुओं की एरे द्वारा परिभाषित है, निर्दिष्ट fill mode का उपयोग करके।
 
 ```csharp
 public void FillPolygon(Brush brush, PointF[] points, FillMode fillMode)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| brush | Brush | [`Brush`](../../brush/)जो भरण की विशेषताओं को निर्धारित करता है। |
-| points | PointF[] | की श्रंखला[`PointF`](../../pointf/) संरचनाएं जो भरे जाने वाले बहुभुज के शीर्षों का प्रतिनिधित्व करती हैं। |
-| fillMode | FillMode | के सदस्य[`FillMode`](../../fillmode/) गणना जो भरने की शैली निर्धारित करती है। |
+| brush | Brush | [`Brush`](../../brush/) जो भराव की विशेषताओं को निर्धारित करता है। |
+| points | PointF[] | [`PointF`](../../pointf/) संरचनाओं की एरे जो भरने वाले पॉलीगॉन के शीर्ष बिंदुओं का प्रतिनिधित्व करती है। |
+| fillMode | FillMode | [`FillMode`](../../fillmode/) एनोमरेशन का सदस्य जो भराव की शैली निर्धारित करता है। |
 
 ### अपवाद
 
-| अपवाद | स्थिति |
+| अपवाद | शर्त |
 | --- | --- |
-| ArgumentNullException | *brush* शून्य है। -या- *points* शून्य है। |
+| ArgumentNullException | *brush* शून्य है। -or- *points* शून्य है। |
 
-### यह सभी देखें
+### देखें भी
 
 * class [Brush](../../brush/)
 * struct [PointF](../../pointf/)
 * enum [FillMode](../../fillmode/)
 * class [Graphics](../)
-* नाम स्थान [Aspose.PSD](../../graphics/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## FillPolygon(Brush, Point[]) {#fillpolygon_2}
 
-द्वारा निर्दिष्ट बिंदुओं की एक सरणी द्वारा परिभाषित बहुभुज के आंतरिक भाग को भरता है[`Point`](../../point/) संरचनाएं औरAlternate .
+पॉलीगॉन के अंदरूनी भाग को भरता है जो [`Point`](../../point/) संरचनाओं द्वारा निर्दिष्ट बिंदुओं की एरे द्वारा परिभाषित है और Alternate।
 
 ```csharp
 public void FillPolygon(Brush brush, Point[] points)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| brush | Brush | [`Brush`](../../brush/)जो भरण की विशेषताओं को निर्धारित करता है। |
-| points | Point[] | की श्रंखला[`Point`](../../point/) संरचनाएं जो भरे जाने वाले बहुभुज के शीर्षों का प्रतिनिधित्व करती हैं। |
+| brush | Brush | [`Brush`](../../brush/) जो भराव की विशेषताओं को निर्धारित करता है। |
+| points | Point[] | [`Point`](../../point/) संरचनाओं की एरे जो भरने वाले पॉलीगॉन के शीर्ष बिंदुओं का प्रतिनिधित्व करती है। |
 
 ### अपवाद
 
-| अपवाद | स्थिति |
+| अपवाद | शर्त |
 | --- | --- |
-| ArgumentNullException | *brush* शून्य है। -या- *points* शून्य है। |
+| ArgumentNullException | *brush* शून्य है। -or- *points* शून्य है। |
 
-### यह सभी देखें
+### देखें भी
 
 * class [Brush](../../brush/)
 * struct [Point](../../point/)
 * class [Graphics](../)
-* नाम स्थान [Aspose.PSD](../../graphics/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## FillPolygon(Brush, Point[], FillMode) {#fillpolygon_3}
 
-द्वारा निर्दिष्ट बिंदुओं की एक सरणी द्वारा परिभाषित बहुभुज के आंतरिक भाग को भरता है[`Point`](../../point/) निर्दिष्ट भरण मोड का उपयोग कर संरचनाएं।
+पॉलीगॉन के अंदरूनी भाग को भरता है जो [`Point`](../../point/) संरचनाओं द्वारा निर्दिष्ट बिंदुओं की एरे द्वारा परिभाषित है, निर्दिष्ट fill mode का उपयोग करके।
 
 ```csharp
 public void FillPolygon(Brush brush, Point[] points, FillMode fillMode)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| brush | Brush | [`Brush`](../../brush/)जो भरण की विशेषताओं को निर्धारित करता है। |
-| points | Point[] | की श्रंखला[`Point`](../../point/) संरचनाएं जो भरे जाने वाले बहुभुज के शीर्षों का प्रतिनिधित्व करती हैं। |
-| fillMode | FillMode | के सदस्य[`FillMode`](../../fillmode/) गणना जो भरने की शैली निर्धारित करती है। |
+| brush | Brush | [`Brush`](../../brush/) जो भराव की विशेषताओं को निर्धारित करता है। |
+| points | Point[] | [`Point`](../../point/) संरचनाओं की एरे जो भरने वाले पॉलीगॉन के शीर्ष बिंदुओं का प्रतिनिधित्व करती है। |
+| fillMode | FillMode | [`FillMode`](../../fillmode/) एनोमरेशन का सदस्य जो भराव की शैली निर्धारित करता है। |
 
 ### अपवाद
 
-| अपवाद | स्थिति |
+| अपवाद | शर्त |
 | --- | --- |
-| ArgumentNullException | *brush* शून्य है। -या- *points* शून्य है। |
+| ArgumentNullException | *brush* शून्य है। -or- *points* शून्य है। |
 
-### यह सभी देखें
+### देखें भी
 
 * class [Brush](../../brush/)
 * struct [Point](../../point/)
 * enum [FillMode](../../fillmode/)
 * class [Graphics](../)
-* नाम स्थान [Aspose.PSD](../../graphics/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

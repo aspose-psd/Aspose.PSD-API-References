@@ -1,23 +1,24 @@
 ---
-title: RenderResult.Message
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: RenderResult संपत्त. स्ट्रंग संदेश प्रप्त य सेट करत है
+title: "RenderResult.Message"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "RenderResult प्रॉपर्टी। स्ट्रिंग संदेश को प्राप्त करता है या सेट करता है"
 type: docs
 weight: 20
 url: /hi/net/aspose.psd.imageoptions/renderresult/message/
 ---
+{{< psd/tize >}}
 ## RenderResult.Message property
 
-स्ट्रिंग संदेश प्राप्त या सेट करता है
+स्ट्रिंग संदेश प्राप्त करता है या सेट करता है
 
 ```csharp
 public string Message { get; set; }
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * class [RenderResult](../)
-* नाम स्थान [Aspose.PSD.ImageOptions](../../renderresult/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

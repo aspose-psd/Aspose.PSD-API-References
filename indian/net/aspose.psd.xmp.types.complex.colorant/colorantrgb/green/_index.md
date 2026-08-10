@@ -1,27 +1,28 @@
 ---
-title: ColorantRgb.Green
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: ColorantRgb संपत्त. हर घटक मन प्रप्त य सेट करत है
+title: "ColorantRgb.Green"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "ColorantRgb प्रॉपर्टी। हरा घटक का मान प्राप्त करता है या सेट करता है।"
 type: docs
 weight: 30
 url: /hi/net/aspose.psd.xmp.types.complex.colorant/colorantrgb/green/
 ---
+{{< psd/tize >}}
 ## ColorantRgb.Green property
 
-हरा घटक मान प्राप्त या सेट करता है।
+ग्रीन घटक मान को प्राप्त करता है या सेट करता है।
 
 ```csharp
 public byte Green { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-हरा घटक मान।
+हरा घटक का मान।
 
-### यह सभी देखें
+### देखें भी
 
 * class [ColorantRgb](../)
-* नाम स्थान [Aspose.PSD.Xmp.Types.Complex.Colorant](../../colorantrgb/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.Colorant](../../../aspose.psd.xmp.types.complex.colorant/)
+* assembly [Aspose.PSD](../../../)
 
 

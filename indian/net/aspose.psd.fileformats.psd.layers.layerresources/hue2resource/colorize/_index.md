@@ -1,27 +1,28 @@
 ---
-title: Hue2Resource.Colorize
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Hue2Resource संपत्त. एक मन प्रप्त करत है य सेट करत है ज दर्शत है क यहHue2Resource रंगन है.
+title: "Hue2Resource.Colorize"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Hue2Resource प्रॉपर्टी। एक मान प्राप्त या सेट करता है जो दर्शाता है कि यह Hue2Resource रंगीन है या नहीं"
 type: docs
 weight: 20
 url: /hi/net/aspose.psd.fileformats.psd.layers.layerresources/hue2resource/colorize/
 ---
+{{< psd/tize >}}
 ## Hue2Resource.Colorize property
 
-एक मान प्राप्त करता है या सेट करता है जो दर्शाता है कि यह[`Hue2Resource`](../) रंगीन है.
+एक मान प्राप्त या सेट करता है जो दर्शाता है कि यह [`Hue2Resource`](../) रंगीन है या नहीं।
 
 ```csharp
 public bool Colorize { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-`सत्य` अगर रंगीन; अन्यथा,`असत्य` .
+`true` यदि colorize है; अन्यथा, `false`।
 
-### यह सभी देखें
+### देखें भी
 
 * class [Hue2Resource](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../hue2resource/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

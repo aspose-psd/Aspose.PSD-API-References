@@ -1,27 +1,28 @@
 ---
-title: Color.IsEmpty
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Color संपत्त. यह इंगत करने वल मन प्रप्त करत है क क्य यहColor संरचन अप्ररंभकृत है.
+title: "Color.IsEmpty"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Color प्रॉपर्टी। इस Color संरचना के अनइनिशियलाइज़्ड होने को दर्शाने वाला मान प्राप्त करता है।"
 type: docs
 weight: 1490
 url: /hi/net/aspose.psd/color/isempty/
 ---
+{{< psd/tize >}}
 ## Color.IsEmpty property
 
-यह इंगित करने वाला मान प्राप्त करता है कि क्या यह[`Color`](../) संरचना अप्रारंभीकृत है.
+इस [`Color`](../) संरचना के अनइनिशियलाइज़्ड होने को दर्शाने वाला मान प्राप्त करता है।
 
 ```csharp
 public bool IsEmpty { get; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-यदि यह रंग अप्रारंभीकृत है तो यह गुण सही हो जाता है; अन्यथा झूठा।
+यदि यह रंग अनइनिशियलाइज़्ड है तो यह प्रॉपर्टी true लौटाती है; अन्यथा false।
 
-### यह सभी देखें
+### देखें भी
 
 * struct [Color](../)
-* नाम स्थान [Aspose.PSD](../../color/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

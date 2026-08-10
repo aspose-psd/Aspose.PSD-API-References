@@ -1,27 +1,28 @@
 ---
-title: XmpTrailerPi.IsWritable
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: XmpTrailerPi संपत्त. एक मन प्रप्त करत है य सेट करत है ज दर्शत है क यह उदहरण लखने यग्य है
+title: "XmpTrailerPi.IsWritable"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "XmpTrailerPi प्रॉपर्टी। यह मान प्राप्त या सेट करता है जो दर्शाता है कि यह इंस्टेंस लिखने योग्य है या नहीं"
 type: docs
 weight: 20
 url: /hi/net/aspose.psd.xmp/xmptrailerpi/iswritable/
 ---
+{{< psd/tize >}}
 ## XmpTrailerPi.IsWritable property
 
-एक मान प्राप्त करता है या सेट करता है जो दर्शाता है कि यह उदाहरण लिखने योग्य है।
+एक मान प्राप्त करता या सेट करता है जो दर्शाता है कि यह उदाहरण लिखने योग्य है या नहीं।
 
 ```csharp
 public bool IsWritable { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-`सत्य` यदि यह उदाहरण लिखने योग्य है; अन्यथा,`असत्य` .
+`true` यदि यह इंस्टेंस लिखने योग्य है; अन्यथा, `false`।
 
-### यह सभी देखें
+### देखें भी
 
 * class [XmpTrailerPi](../)
-* नाम स्थान [Aspose.PSD.Xmp](../../xmptrailerpi/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

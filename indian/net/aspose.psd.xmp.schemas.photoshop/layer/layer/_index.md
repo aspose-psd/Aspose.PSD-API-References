@@ -1,44 +1,45 @@
 ---
-title: Layer.Layer
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Layer नर्मत. क एक नय उदहरण प्ररंभ करत हैLayer वर्ग.
+title: "Layer.Layer"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Layer कंस्ट्रक्टर। लेयर क्लास का नया इंस्टेंस इनिशियलाइज़ करता है"
 type: docs
 weight: 10
 url: /hi/net/aspose.psd.xmp.schemas.photoshop/layer/layer/
 ---
+{{< psd/tize >}}
 ## Layer(string, string) {#constructor_1}
 
-का एक नया उदाहरण प्रारंभ करता है[`Layer`](../) वर्ग.
+[`Layer`](../) क्लास का नया इंस्टेंस इनिशियलाइज़ करता है।
 
 ```csharp
 public Layer(string layerName, string layerText)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| layerName | String | परत का नाम। |
-| layerText | String | परत पाठ। |
+| layerName | String | लेयर का नाम। |
+| layerText | String | लेयर टेक्स्ट। |
 
-### यह सभी देखें
+### देखें भी
 
 * class [Layer](../)
-* नाम स्थान [Aspose.PSD.Xmp.Schemas.Photoshop](../../layer/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.Photoshop](../../../aspose.psd.xmp.schemas.photoshop/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Layer() {#constructor}
 
-का एक नया उदाहरण प्रारंभ करता है[`Layer`](../) वर्ग.
+[`Layer`](../) क्लास का नया इंस्टेंस इनिशियलाइज़ करता है।
 
 ```csharp
 public Layer()
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * class [Layer](../)
-* नाम स्थान [Aspose.PSD.Xmp.Schemas.Photoshop](../../layer/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.Photoshop](../../../aspose.psd.xmp.schemas.photoshop/)
+* assembly [Aspose.PSD](../../../)
 
 

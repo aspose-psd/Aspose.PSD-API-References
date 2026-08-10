@@ -1,27 +1,28 @@
 ---
-title: Blend.Factors
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Blend संपत्त. ग्रेडएंट के लए मश्रण करकं क सरण प्रप्त य सेट करत है
+title: "Blend.Factors"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Blend प्रॉपर्टी। ग्रेडिएंट के लिए ब्लेंड फैक्टर्स की एरे प्राप्त या सेट करता है"
 type: docs
 weight: 20
 url: /hi/net/aspose.psd/blend/factors/
 ---
+{{< psd/tize >}}
 ## Blend.Factors property
 
-ग्रेडिएंट के लिए मिश्रण कारकों की सरणी प्राप्त या सेट करता है।
+ग्रेडिएंट के लिए ब्लेंड फैक्टर्स की ऐरे को प्राप्त करता है या सेट करता है।
 
 ```csharp
 public float[] Factors { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-सम्मिश्रण कारकों की सरणी जो संबंधित स्थिति में उपयोग किए जाने वाले शुरुआती रंग और अंतिम रंग के प्रतिशत को निर्दिष्ट करती है।
+ब्लेंड फैक्टर्स की एरे जो संबंधित स्थिति पर उपयोग किए जाने वाले प्रारंभिक रंग और समाप्ति रंग के प्रतिशत निर्दिष्ट करती है।
 
-### यह सभी देखें
+### देखें भी
 
 * class [Blend](../)
-* नाम स्थान [Aspose.PSD](../../blend/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

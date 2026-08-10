@@ -1,27 +1,28 @@
 ---
-title: LinearGradientBrushBase.GammaCorrection
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: LinearGradientBrushBase संपत्त. एक मन प्रप्त य सेट करत है ज दर्शत है क इसके लए गम सुधर सक्षम है य नहंLinearGradientBrushBase .
+title: "LinearGradientBrushBase.GammaCorrection"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "LinearGradientBrushBase प्रॉपर्टी. प्राप्त करता है या सेट करता है एक मान जो दर्शाता है कि इस LinearGradientBrushBase के लिए गामा सुधार सक्षम है या नहीं"
 type: docs
 weight: 20
 url: /hi/net/aspose.psd.brushes/lineargradientbrushbase/gammacorrection/
 ---
+{{< psd/tize >}}
 ## LinearGradientBrushBase.GammaCorrection property
 
-एक मान प्राप्त या सेट करता है जो दर्शाता है कि इसके लिए गामा सुधार सक्षम है या नहीं[`LinearGradientBrushBase`](../) .
+प्राप्त करता है या सेट करता है एक मान जो दर्शाता है कि इस [`LinearGradientBrushBase`](../) के लिए गामा सुधार सक्षम है या नहीं।
 
 ```csharp
 public bool GammaCorrection { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-मान सत्य है यदि इसके लिए गामा सुधार सक्षम है[`LinearGradientBrushBase`](../); अन्यथा झूठा।
+यदि इस [`LinearGradientBrushBase`](../) के लिए गामा सुधार सक्षम है तो मान true है; अन्यथा false।
 
-### यह सभी देखें
+### देखें भी
 
 * class [LinearGradientBrushBase](../)
-* नाम स्थान [Aspose.PSD.Brushes](../../lineargradientbrushbase/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
+* assembly [Aspose.PSD](../../../)
 
 

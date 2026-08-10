@@ -1,32 +1,33 @@
 ---
-title: GraphicsPath.FillMode
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: GraphicsPath संपत्त. ह जत है य सेट करत हैFillMode गणन ज यह नर्धरत करत है क इसमें आकृतयं क आंतरक सज्ज कैस हैGraphicsPath भरे हुए हैं.
+title: "GraphicsPath.FillMode"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "GraphicsPath प्रॉपर्टी। एक FillMode एनेमरेशन को प्राप्त या सेट करता है जो निर्धारित करता है कि इस GraphicsPath में आकारों के अंदरूनी भाग कैसे भरे जाते हैं"
 type: docs
 weight: 40
 url: /hi/net/aspose.psd/graphicspath/fillmode/
 ---
+{{< psd/tize >}}
 ## GraphicsPath.FillMode property
 
-हो जाता है या सेट करता है[`FillMode`](../../fillmode/) गणना जो यह निर्धारित करती है कि इसमें आकृतियों की आंतरिक सज्जा कैसी है[`GraphicsPath`](../) भरे हुए हैं.
+एक [`FillMode`](../../fillmode/) एनेमरेशन को प्राप्त या सेट करता है जो निर्धारित करता है कि इस [`GraphicsPath`](../) में आकारों के अंदरूनी भाग कैसे भरे जाते हैं।
 
 ```csharp
 public FillMode FillMode { get; set; }
 ```
 
-### प्रतिलाभ की मात्रा
+### रिटर्न वैल्यू
 
-ए[`FillMode`](../../fillmode/) गणना जो निर्दिष्ट करती है कि इसमें आकृतियों का आंतरिक भाग कैसा है[`GraphicsPath`](../) भरे हुए हैं.
+एक [`FillMode`](../../fillmode/) एनेमरेशन जो निर्धारित करता है कि इस [`GraphicsPath`](../) में आकारों के अंदरूनी भाग कैसे भरे जाते हैं।
 
-### संपत्ति मूल्य
+### Property Value
 
 भरण मोड।
 
-### यह सभी देखें
+### देखें भी
 
 * enum [FillMode](../../fillmode/)
 * class [GraphicsPath](../)
-* नाम स्थान [Aspose.PSD](../../graphicspath/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

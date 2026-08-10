@@ -1,27 +1,28 @@
 ---
-title: Layer.Right
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Layer संपत्त. सह परत स्थत प्रप्त य सेट करत है
+title: "Layer.Right"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Layer property. दाएँ लेयर की स्थिति को प्राप्त या सेट करता है"
 type: docs
-weight: 290
+weight: 300
 url: /hi/net/aspose.psd.fileformats.psd.layers/layer/right/
 ---
+{{< psd/tize >}}
 ## Layer.Right property
 
-सही परत स्थिति प्राप्त या सेट करता है।
+दाएँ लेयर की स्थिति प्राप्त करता है या सेट करता है।
 
 ```csharp
-public int Right { get; set; }
+public virtual int Right { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-दाहिनी परत स्थिति।
+दाएँ लेयर की स्थिति।
 
-### यह सभी देखें
+### देखें भी
 
 * class [Layer](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers](../../layer/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,28 +1,29 @@
 ---
-title: PhflResource.SetRgbColor
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: PhflResource तरक. आरजब रंग सेट करत है
+title: "PhflResource.SetRgbColor"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "PhflResource मेथड। RGB रंग सेट करता है"
 type: docs
-weight: 70
+weight: 50
 url: /hi/net/aspose.psd.fileformats.psd.layers.layerresources/phflresource/setrgbcolor/
 ---
+{{< psd/tize >}}
 ## PhflResource.SetRgbColor method
 
-आरजीबी रंग सेट करता है।
+RGB रंग सेट करता है।
 
 ```csharp
 public abstract void SetRgbColor(Color color)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| color | Color | आरजीबी रंग। |
+| रंग | रंग | RGB रंग। |
 
-### यह सभी देखें
+### देखें भी
 
 * struct [Color](../../../aspose.psd/color/)
 * class [PhflResource](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../phflresource/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

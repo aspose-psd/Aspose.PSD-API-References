@@ -1,27 +1,28 @@
 ---
-title: RdOptimizationError.RdOptimizationError
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: RdOptimizationError नर्मत. क एक नय उदहरण प्ररंभ करत हैRdOptimizationError वर्ग.
+title: "RdOptimizationError.RdOptimizationError"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "RdOptimizationError कंस्ट्रक्टर। RdOptimizationError क्लास का एक नया इंस्टेंस इनिशियलाइज़ करता है"
 type: docs
 weight: 10
 url: /hi/net/aspose.psd.coreexceptions/rdoptimizationerror/rdoptimizationerror/
 ---
+{{< psd/tize >}}
 ## RdOptimizationError constructor
 
-का एक नया उदाहरण प्रारंभ करता है[`RdOptimizationError`](../) वर्ग.
+[`RdOptimizationError`](../) क्लास का एक नया इंस्टेंस इनिशियलाइज़ करता है।
 
 ```csharp
 public RdOptimizationError(string message)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| message | String | संदेश जो त्रुटि का वर्णन करता है। |
+| message | String | त्रुटि का विवरण देने वाला संदेश। |
 
-### यह सभी देखें
+### देखें भी
 
 * class [RdOptimizationError](../)
-* नाम स्थान [Aspose.PSD.CoreExceptions](../../rdoptimizationerror/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.CoreExceptions](../../../aspose.psd.coreexceptions/)
+* assembly [Aspose.PSD](../../../)
 
 

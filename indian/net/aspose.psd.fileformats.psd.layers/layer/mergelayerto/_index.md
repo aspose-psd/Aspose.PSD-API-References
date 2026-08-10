@@ -1,27 +1,28 @@
 ---
-title: Layer.MergeLayerTo
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Layer तरक. परत क नर्दष्ट परत में मर्ज करत है
+title: "Layer.MergeLayerTo"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Layer मेथड। लेयर को निर्दिष्ट लेयर में मर्ज करता है"
 type: docs
-weight: 360
+weight: 380
 url: /hi/net/aspose.psd.fileformats.psd.layers/layer/mergelayerto/
 ---
+{{< psd/tize >}}
 ## Layer.MergeLayerTo method
 
-परत को निर्दिष्ट परत में मर्ज करता है
+लेयर को निर्दिष्ट लेयर में मर्ज करता है।
 
 ```csharp
 public virtual void MergeLayerTo(Layer layerToMergeInto)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| layerToMergeInto | Layer | विलय करने के लिए परत। |
+| layerToMergeInto | लेयर | मर्ज करने के लिए लेयर। |
 
-### यह सभी देखें
+### देखें भी
 
 * class [Layer](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers](../../layer/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: RectangleF.Right
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: RectangleF संपत्त. xनर्देशंक प्रप्त करत है य सेट करत है ज क यग हैX औरWidth इस कRectangleFसंरचन.
+title: "RectangleF.Right"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "RectangleF प्रॉपर्टी। इस RectangleF संरचना के X और Width का योग होने वाले x-कोऑर्डिनेट को प्राप्त करता है या सेट करता है।"
 type: docs
 weight: 130
 url: /hi/net/aspose.psd/rectanglef/right/
 ---
+{{< psd/tize >}}
 ## RectangleF.Right property
 
-x-निर्देशांक प्राप्त करता है या सेट करता है जो कि योग है[`X`](../x/) और[`Width`](../width/) इस का[`RectangleF`](../)संरचना.
+इस [`RectangleF`](../) संरचना के [`X`](../x/) और [`Width`](../width/) के योग वाले x-कोऑर्डिनेट को प्राप्त करता है या सेट करता है।
 
 ```csharp
 public float Right { get; set; }
 ```
 
-### प्रतिलाभ की मात्रा
+### रिटर्न वैल्यू
 
-एक्स-निर्देशांक जो का योग है[`X`](../x/) और[`Width`](../width/) इस का[`RectangleF`](../) संरचना।
+इस [`RectangleF`](../) संरचना के [`X`](../x/) और [`Width`](../width/) के योग वाला x-कोऑर्डिनेट।
 
-### यह सभी देखें
+### देखें भी
 
 * struct [RectangleF](../)
-* नाम स्थान [Aspose.PSD](../../rectanglef/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

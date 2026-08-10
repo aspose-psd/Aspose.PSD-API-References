@@ -1,34 +1,35 @@
 ---
-title: TiffOptions.HalfToneHints
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: TiffOptions संपत्त. हफ़टन संकेत प्रप्त य सेट करत है
+title: "TiffOptions.HalfToneHints"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "TiffOptions प्रॉपर्टी। हाफटोन संकेत प्राप्त करता है या सेट करता है"
 type: docs
-weight: 170
+weight: 180
 url: /hi/net/aspose.psd.imageoptions/tiffoptions/halftonehints/
 ---
+{{< psd/tize >}}
 ## TiffOptions.HalfToneHints property
 
-हाफ़टोन संकेत प्राप्त या सेट करता है।
+हाफ़टोन संकेतों को प्राप्त या सेट करता है।
 
 ```csharp
 public ushort[] HalfToneHints { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-हाफ़टोन संकेत करता है।
+हाफटोन संकेत।
 
 ### अपवाद
 
-| अपवाद | स्थिति |
+| अपवाद | शर्त |
 | --- | --- |
-| ArgumentNullException | कीमत |
-| ArgumentOutOfRangeException | मूल्य; हाफ़टोन संकेत देता है कि सरणी की लंबाई 2 के बराबर होनी चाहिए। |
+| ArgumentNullException | मान |
+| ArgumentOutOfRangeException | value;हाफटोन संकेत एरे की लंबाई 2 के बराबर होनी चाहिए। |
 
-### यह सभी देखें
+### देखें भी
 
 * class [TiffOptions](../)
-* नाम स्थान [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

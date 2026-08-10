@@ -1,23 +1,24 @@
 ---
-title: TiffOptions.TileByteCounts
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: TiffOptions संपत्त. टइल बइट क गणन करत है य सेट करत है
+title: "TiffOptions.TileByteCounts"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "TiffOptions प्रॉपर्टी। टाइल बाइट काउंट्स को प्राप्त करता है या सेट करता है"
 type: docs
-weight: 520
+weight: 530
 url: /hi/net/aspose.psd.imageoptions/tiffoptions/tilebytecounts/
 ---
+{{< psd/tize >}}
 ## TiffOptions.TileByteCounts property
 
-टाइल बाइट की गणना करता है या सेट करता है।
+टाइल बाइट काउंट को प्राप्त करता है या सेट करता है।
 
 ```csharp
 public uint[] TileByteCounts { get; set; }
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * class [TiffOptions](../)
-* नाम स्थान [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

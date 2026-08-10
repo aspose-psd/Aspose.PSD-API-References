@@ -1,27 +1,28 @@
 ---
-title: OffsetStructure.ClassName
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: OffsetStructure संपत्त. वर्ग क नम प्रप्त य सेट करत है
+title: "OffsetStructure.ClassName"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "OffsetStructure प्रॉपर्टी। क्लास नाम प्राप्त करता है या सेट करता है"
 type: docs
 weight: 30
 url: /hi/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/offsetstructure/classname/
 ---
+{{< psd/tize >}}
 ## OffsetStructure.ClassName property
 
-वर्ग का नाम प्राप्त या सेट करता है।
+क्लास का नाम प्राप्त करता है या सेट करता है।
 
 ```csharp
 public string ClassName { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-वर्ग का नाम।
+क्लास नाम।
 
-### यह सभी देखें
+### देखें भी
 
 * class [OffsetStructure](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../offsetstructure/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: IPatternFillSettings.PatternId
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: IPatternFillSettings संपत्त. पैटर्न आइडेंटफ़यर प्रप्त य सेट करत है
+title: "IPatternFillSettings.PatternId"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "IPatternFillSettings प्रॉपर्टी। पैटर्न पहचानकर्ता प्राप्त करता है या सेट करता है"
 type: docs
-weight: 50
+weight: 60
 url: /hi/net/aspose.psd.fileformats.psd.layers.fillsettings/ipatternfillsettings/patternid/
 ---
+{{< psd/tize >}}
 ## IPatternFillSettings.PatternId property
 
-पैटर्न आइडेंटिफ़ायर प्राप्त या सेट करता है।
+पैटर्न पहचानकर्ता प्राप्त करता है या सेट करता है।
 
 ```csharp
 public string PatternId { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-पैटर्न पहचानकर्ता.
+पैटर्न पहचानकर्ता।
 
-### यह सभी देखें
+### देखें भी
 
 * interface [IPatternFillSettings](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../ipatternfillsettings/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../../)
 
 

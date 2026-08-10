@@ -1,27 +1,28 @@
 ---
-title: SmartFilter.Clone
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: SmartFilter तरक. प्रकर के वर्तमन उदहरण क सदस्यवर क्लन बनत है
+title: "SmartFilter.Clone"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "SmartFilter विधि. वर्तमान प्रकार की वर्तमान इंस्टेंस की सदस्य-वार क्लोन बनाता है"
 type: docs
 weight: 100
 url: /hi/net/aspose.psd.fileformats.psd.layers.smartfilters/smartfilter/clone/
 ---
+{{< psd/tize >}}
 ## SmartFilter.Clone method
 
-प्रकार के वर्तमान उदाहरण का सदस्यवार क्लोन बनाता है।
+वर्तमान प्रकार की इंस्टेंस की सदस्य-वार क्लोन बनाता है।
 
 ```csharp
 public SmartFilter Clone()
 ```
 
-### प्रतिलाभ की मात्रा
+### रिटर्न वैल्यू
 
-प्रकार के वर्तमान उदाहरण का सदस्यवार क्लोन लौटाता है।
+वर्तमान प्रकार की वर्तमान इंस्टेंस की सदस्य-वार क्लोन लौटाता है।
 
-### यह सभी देखें
+### देखें भी
 
 * class [SmartFilter](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.SmartFilters](../../smartfilter/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.SmartFilters](../../../aspose.psd.fileformats.psd.layers.smartfilters/)
+* assembly [Aspose.PSD](../../../)
 
 

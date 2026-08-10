@@ -1,27 +1,28 @@
 ---
-title: LengthRecord.RecordCount
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: LengthRecord संपत्त. रकर्ड संख्य प्रप्त य सेट करत है
+title: "LengthRecord.RecordCount"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "LengthRecord प्रॉपर्टी। रिकॉर्ड गिनती प्राप्त करता या सेट करता है"
 type: docs
 weight: 60
 url: /hi/net/aspose.psd.fileformats.core.vectorpaths/lengthrecord/recordcount/
 ---
+{{< psd/tize >}}
 ## LengthRecord.RecordCount property
 
-रिकॉर्ड संख्या प्राप्त या सेट करता है।
+record count प्राप्त करता है या सेट करता है।
 
 ```csharp
 public ushort RecordCount { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-रिकॉर्ड संख्या.
+रिकॉर्ड गिनती।
 
-### यह सभी देखें
+### देखें भी
 
 * class [LengthRecord](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Core.VectorPaths](../../lengthrecord/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../../)
 
 

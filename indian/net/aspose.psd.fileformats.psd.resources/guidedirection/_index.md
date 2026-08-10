@@ -1,11 +1,12 @@
 ---
-title: Enum GuideDirection
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Aspose.PSD.FileFormats.Psd.Resources.GuideDirection एनुम. गइड दश
+title: "एनम GuideDirection"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Aspose.PSD.FileFormats.Psd.Resources.GuideDirection enum. गाइड दिशा"
 type: docs
-weight: 3740
+weight: 4210
 url: /hi/net/aspose.psd.fileformats.psd.resources/guidedirection/
 ---
+{{< psd/tize >}}
 ## GuideDirection enumeration
 
 गाइड दिशा।
@@ -16,14 +17,14 @@ public enum GuideDirection : byte
 
 ### मान
 
-| नाम | कीमत | विवरण |
+| नाम | मान | विवरण |
 | --- | --- | --- |
-| Vertical | `0` | कार्यक्षेत्र गाइड दिशा। |
+| Vertical | `0` | ऊर्ध्वाधर गाइड दिशा। |
 | Horizontal | `1` | क्षैतिज गाइड दिशा। |
 
-### यह सभी देखें
+### देखें भी
 
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Resources](../../aspose.psd.fileformats.psd.resources/)
-* सभा [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../)
 
 

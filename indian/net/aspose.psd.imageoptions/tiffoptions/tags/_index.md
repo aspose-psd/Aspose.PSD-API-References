@@ -1,28 +1,29 @@
 ---
-title: TiffOptions.Tags
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: TiffOptions संपत्त. टैग प्रप्त य सेट करत है
+title: "TiffOptions.Tags"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "TiffOptions प्रॉपर्टी। टैग्स को प्राप्त करता है या सेट करता है।"
 type: docs
-weight: 490
+weight: 500
 url: /hi/net/aspose.psd.imageoptions/tiffoptions/tags/
 ---
+{{< psd/tize >}}
 ## TiffOptions.Tags property
 
-टैग प्राप्त या सेट करता है।
+टैग्स को प्राप्त करता है या सेट करता है।
 
 ```csharp
 public TiffDataType[] Tags { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-टैग।
+टैग्स।
 
-### यह सभी देखें
+### देखें भी
 
 * class [TiffDataType](../../../aspose.psd.fileformats.tiff/tiffdatatype/)
 * class [TiffOptions](../)
-* नाम स्थान [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

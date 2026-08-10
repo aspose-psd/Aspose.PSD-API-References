@@ -1,27 +1,28 @@
 ---
-title: Font.ToString
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Font तरक. इसक एक मनवपठनय स्ट्रंग प्रतनधत्व देत हैFont .
+title: "Font.ToString"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Font मेथड। इस Font का मानव-पठनीय स्ट्रिंग प्रतिनिधित्व लौटाता है"
 type: docs
 weight: 140
 url: /hi/net/aspose.psd/font/tostring/
 ---
+{{< psd/tize >}}
 ## Font.ToString method
 
-इसका एक मानव-पठनीय स्ट्रिंग प्रतिनिधित्व देता है[`Font`](../) .
+इस [`Font`](../) का मानव-पठनीय स्ट्रिंग प्रतिनिधित्व लौटाता है।
 
 ```csharp
 public override string ToString()
 ```
 
-### प्रतिलाभ की मात्रा
+### रिटर्न वैल्यू
 
-एक स्ट्रिंग जो इसका प्रतिनिधित्व करती है[`Font`](../).
+एक स्ट्रिंग जो इस [`Font`](../) को दर्शाती है।
 
-### यह सभी देखें
+### देखें भी
 
 * class [Font](../)
-* नाम स्थान [Aspose.PSD](../../font/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

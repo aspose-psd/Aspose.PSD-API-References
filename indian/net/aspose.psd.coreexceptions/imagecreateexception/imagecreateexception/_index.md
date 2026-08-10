@@ -1,48 +1,49 @@
 ---
-title: ImageCreateException.ImageCreateException
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: ImageCreateException नर्मत. क एक नय उदहरण प्ररंभ करत हैImageCreateException वर्ग.
+title: "ImageCreateException.ImageCreateException"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "ImageCreateException कंस्ट्रक्टर। ImageCreateException क्लास का एक नया इंस्टेंस इनिशियलाइज़ करता है"
 type: docs
 weight: 10
 url: /hi/net/aspose.psd.coreexceptions/imagecreateexception/imagecreateexception/
 ---
+{{< psd/tize >}}
 ## ImageCreateException(string) {#constructor}
 
-का एक नया उदाहरण प्रारंभ करता है[`ImageCreateException`](../) वर्ग.
+[`ImageCreateException`](../) क्लास का एक नया इंस्टेंस इनिशियलाइज़ करता है।
 
 ```csharp
 public ImageCreateException(string message)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
 | message | String | अपवाद संदेश। |
 
-### यह सभी देखें
+### देखें भी
 
 * class [ImageCreateException](../)
-* नाम स्थान [Aspose.PSD.CoreExceptions](../../imagecreateexception/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.CoreExceptions](../../../aspose.psd.coreexceptions/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## ImageCreateException(string, Exception) {#constructor_1}
 
-का एक नया उदाहरण प्रारंभ करता है[`ImageCreateException`](../) वर्ग.
+[`ImageCreateException`](../) क्लास का एक नया इंस्टेंस इनिशियलाइज़ करता है।
 
 ```csharp
 public ImageCreateException(string message, Exception innerException)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
 | message | String | अपवाद संदेश। |
-| innerException | Exception | भीतर का अपवाद। |
+| innerException | एक्सेप्शन | आंतरिक अपवाद। |
 
-### यह सभी देखें
+### देखें भी
 
 * class [ImageCreateException](../)
-* नाम स्थान [Aspose.PSD.CoreExceptions](../../imagecreateexception/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.CoreExceptions](../../../aspose.psd.coreexceptions/)
+* assembly [Aspose.PSD](../../../)
 
 

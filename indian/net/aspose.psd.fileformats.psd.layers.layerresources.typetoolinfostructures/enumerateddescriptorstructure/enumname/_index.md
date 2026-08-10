@@ -1,28 +1,29 @@
 ---
-title: EnumeratedDescriptorStructure.EnumName
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: EnumeratedDescriptorStructure संपत्त. एनम नम प्रप्त य सेट करत है
+title: "EnumeratedDescriptorStructure.EnumName"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "EnumeratedDescriptorStructure प्रॉपर्टी। एनीम नाम प्राप्त करता है या सेट करता है"
 type: docs
 weight: 20
 url: /hi/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/enumerateddescriptorstructure/enumname/
 ---
+{{< psd/tize >}}
 ## EnumeratedDescriptorStructure.EnumName property
 
-एनम नाम प्राप्त या सेट करता है।
+enum नाम को प्राप्त करता है या सेट करता है।
 
 ```csharp
 public ClassID EnumName { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
 एनम नाम।
 
-### यह सभी देखें
+### देखें भी
 
 * class [ClassID](../../../aspose.psd.fileformats.psd.layers.layerresources/classid/)
 * class [EnumeratedDescriptorStructure](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../enumerateddescriptorstructure/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 

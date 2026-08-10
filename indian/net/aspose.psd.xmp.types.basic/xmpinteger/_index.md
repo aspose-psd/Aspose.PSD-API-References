@@ -1,14 +1,15 @@
 ---
-title: Class XmpInteger
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Aspose.PSD.Xmp.Types.Basic.XmpInteger कक्ष. XMP पूर्णंक मूल प्रकर क प्रतनधत्व करत है
+title: "क्लास XmpInteger"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Aspose.PSD.Xmp.Types.Basic.XmpInteger क्लास। XMP Integer बुनियादी प्रकार को दर्शाता है"
 type: docs
-weight: 5960
+weight: 6460
 url: /hi/net/aspose.psd.xmp.types.basic/xmpinteger/
 ---
+{{< psd/tize >}}
 ## XmpInteger class
 
-XMP पूर्णांक मूल प्रकार का प्रतिनिधित्व करता है।
+XMP Integer बुनियादी प्रकार का प्रतिनिधित्व करता है।
 
 ```csharp
 public sealed class XmpInteger : XmpTypeBase
@@ -18,26 +19,26 @@ public sealed class XmpInteger : XmpTypeBase
 
 | नाम | विवरण |
 | --- | --- |
-| [XmpInteger](xmpinteger/#constructor)(int) | का एक नया उदाहरण प्रारंभ करता है`XmpInteger` वर्ग. |
-| [XmpInteger](xmpinteger/#constructor_1)(long) | का एक नया उदाहरण प्रारंभ करता है`XmpInteger` वर्ग. |
-| [XmpInteger](xmpinteger/#constructor_2)(string) | का एक नया उदाहरण प्रारंभ करता है`XmpInteger` वर्ग. |
+| [XmpInteger](xmpinteger/#constructor)(int) | `XmpInteger` क्लास का नया उदाहरण प्रारंभ करता है। |
+| [XmpInteger](xmpinteger/#constructor_1)(long) | `XmpInteger` क्लास का नया उदाहरण प्रारंभ करता है। |
+| [XmpInteger](xmpinteger/#constructor_2)(string) | `XmpInteger` क्लास का नया उदाहरण प्रारंभ करता है। |
 
-## गुण
-
-| नाम | विवरण |
-| --- | --- |
-| [Value](../../aspose.psd.xmp.types.basic/xmpinteger/value/) { get; set; } | मान प्राप्त करता है या सेट करता है। |
-
-## तरीकों
+## प्रॉपर्टीज़
 
 | नाम | विवरण |
 | --- | --- |
-| override [GetXmpRepresentation](../../aspose.psd.xmp.types.basic/xmpinteger/getxmprepresentation/)() | XMP प्रारूप में स्ट्रिंग युक्त मान प्राप्त करता है। |
+| [Value](../../aspose.psd.xmp.types.basic/xmpinteger/value/) { get; set; } | मान को प्राप्त करता है या सेट करता है। |
 
-### यह सभी देखें
+## मेथड्स
+
+| नाम | विवरण |
+| --- | --- |
+| override [GetXmpRepresentation](../../aspose.psd.xmp.types.basic/xmpinteger/getxmprepresentation/)() | XMP प्रारूप में सम्मिलित स्ट्रिंग मान को प्राप्त करता है। |
+
+### देखें भी
 
 * class [XmpTypeBase](../../aspose.psd.xmp.types/xmptypebase/)
-* नाम स्थान [Aspose.PSD.Xmp.Types.Basic](../../aspose.psd.xmp.types.basic/)
-* सभा [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Xmp.Types.Basic](../../aspose.psd.xmp.types.basic/)
+* assembly [Aspose.PSD](../../)
 
 

@@ -1,28 +1,29 @@
 ---
-title: PathGradientBrushBase.PathPoints
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: PathGradientBrushBase संपत्त. उस पथ बंदु क प्रप्त करत है जस पर यह ब्रश बनय गय थ
+title: "PathGradientBrushBase.PathPoints"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "PathGradientBrushBase प्रॉपर्टी। इस ब्रश के आधार पर निर्मित पाथ पॉइंट्स को प्राप्त करता है।"
 type: docs
 weight: 40
 url: /hi/net/aspose.psd.brushes/pathgradientbrushbase/pathpoints/
 ---
+{{< psd/tize >}}
 ## PathGradientBrushBase.PathPoints property
 
-उस पथ बिंदु को प्राप्त करता है जिस पर यह ब्रश बनाया गया था।
+इस ब्रश द्वारा निर्मित पाथ पॉइंट्स को प्राप्त करता है।
 
 ```csharp
 public PointF[] PathPoints { get; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-पथ इंगित करता है।
+पाथ पॉइंट्स।
 
-### यह सभी देखें
+### देखें भी
 
 * struct [PointF](../../../aspose.psd/pointf/)
 * class [PathGradientBrushBase](../)
-* नाम स्थान [Aspose.PSD.Brushes](../../pathgradientbrushbase/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
+* assembly [Aspose.PSD](../../../)
 
 

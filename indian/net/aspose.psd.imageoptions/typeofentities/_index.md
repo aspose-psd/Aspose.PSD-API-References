@@ -1,14 +1,15 @@
 ---
-title: Enum TypeOfEntities
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Aspose.PSD.ImageOptions.TypeOfEntities एनुम. प्रस्तुत करने के लए संस्थओं के प्रकर क प्रतनधत्व करत है
+title: "Enum TypeOfEntities"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Aspose.PSD.ImageOptions.TypeOfEntities enum. रेंडर करने के लिए इकाइयों के प्रकार का प्रतिनिधित्व करता है"
 type: docs
-weight: 4970
+weight: 5460
 url: /hi/net/aspose.psd.imageoptions/typeofentities/
 ---
+{{< psd/tize >}}
 ## TypeOfEntities enumeration
 
-प्रस्तुत करने के लिए संस्थाओं के प्रकार का प्रतिनिधित्व करता है
+रेंडर करने वाले एंटिटीज़ के प्रकार का प्रतिनिधित्व करता है
 
 ```csharp
 public enum TypeOfEntities
@@ -16,14 +17,14 @@ public enum TypeOfEntities
 
 ### मान
 
-| नाम | कीमत | विवरण |
+| नाम | मान | विवरण |
 | --- | --- | --- |
-| Entities2D | `0` | 2डी इकाइयां प्रस्तुत करें |
-| Entities3D | `1` | 3D निकाय प्रस्तुत करें |
+| Entities2D | `0` | 2D इकाइयों को रेंडर करें |
+| Entities3D | `1` | 3D इकाइयों को रेंडर करें |
 
-### यह सभी देखें
+### देखें भी
 
-* नाम स्थान [Aspose.PSD.ImageOptions](../../aspose.psd.imageoptions/)
-* सभा [Aspose.PSD](../../)
+* namespace [Aspose.PSD.ImageOptions](../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../)
 
 

@@ -1,23 +1,24 @@
 ---
-title: PointF.Y
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: PointF संपत्त. इसक yनर्देशंक प्रप्त य सेट करत हैPointF .
+title: "PointF.Y"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "PointF प्रॉपर्टी। इस PointF के y-निर्देशांक को प्राप्त या सेट करता है।"
 type: docs
 weight: 70
 url: /hi/net/aspose.psd/pointf/y/
 ---
+{{< psd/tize >}}
 ## PointF.Y property
 
-इसका y-निर्देशांक प्राप्त या सेट करता है[`PointF`](../) .
+इस [`PointF`](../) के y-निर्देशांक को प्राप्त करता है या सेट करता है।
 
 ```csharp
 public float Y { get; set; }
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * struct [PointF](../)
-* नाम स्थान [Aspose.PSD](../../pointf/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

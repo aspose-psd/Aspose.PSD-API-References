@@ -1,27 +1,28 @@
 ---
-title: PixelDataFormat.Cmyk
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: PixelDataFormat संपत्त. ह जत हैPixelDataFormat सयन मैजेंट पले और कले प्रत्येक के लए 8 बट्स के सथ 32 बट्स प्रत पक्सेल के लए परभषत कय गय है
+title: "PixelDataFormat.Cmyk"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "PixelDataFormat प्रॉपर्टी। प्राप्त करता है PixelDataFormat को 32 बिट प्रति पिक्सेल के लिए परिभाषित किया गया है, जिसमें सियान, मैजेंटा, येलो और ब्लैक के प्रत्येक के लिए 8 बिट होते हैं।"
 type: docs
 weight: 10
 url: /hi/net/aspose.psd/pixeldataformat/cmyk/
 ---
+{{< psd/tize >}}
 ## PixelDataFormat.Cmyk property
 
-हो जाता है[`PixelDataFormat`](../) सियान, मैजेंटा, पीले और काले प्रत्येक के लिए 8 बिट्स के साथ 32 बिट्स प्रति पिक्सेल के लिए परिभाषित किया गया है।
+प्राप्त करता है [`PixelDataFormat`](../) को 32 बिट प्रति पिक्सेल के लिए परिभाषित किया गया है, जिसमें सियान, मैजेंटा, येलो और ब्लैक के प्रत्येक के लिए 8 बिट होते हैं।
 
 ```csharp
 public static PixelDataFormat Cmyk { get; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-द[`PixelDataFormat`](../) सियान, मैजेंटा, पीले और काले प्रत्येक के लिए 8 बिट्स के साथ 32 बिट्स प्रति पिक्सेल के लिए परिभाषित किया गया है।
+यह [`PixelDataFormat`](../) 32 बिट प्रति पिक्सेल के लिए परिभाषित है, जिसमें सियान, मैजेंटा, येलो और ब्लैक के प्रत्येक के लिए 8 बिट होते हैं।
 
-### यह सभी देखें
+### देखें भी
 
 * class [PixelDataFormat](../)
-* नाम स्थान [Aspose.PSD](../../pixeldataformat/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

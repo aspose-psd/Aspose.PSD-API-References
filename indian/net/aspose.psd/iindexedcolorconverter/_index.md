@@ -1,28 +1,29 @@
 ---
-title: Interface IIndexedColorConverter
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Aspose.PSD.IIndexedColorConverter इंटरफेस. अनुक्रमत छव प्ररूपं के लए रंग परवर्तक
+title: "इंटरफ़ेस IIndexedColorConverter"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Aspose.PSD.IIndexedColorConverter इंटरफ़ेस। इंडेक्स्ड इमेज फ़ॉर्मेट्स के लिए कलर कनवर्टर।"
 type: docs
-weight: 4470
+weight: 4940
 url: /hi/net/aspose.psd/iindexedcolorconverter/
 ---
+{{< psd/tize >}}
 ## IIndexedColorConverter interface
 
-अनुक्रमित छवि प्रारूपों के लिए रंग परिवर्तक।
+सूचकांकित छवि स्वरूपों के लिए रंग परिवर्तक।
 
 ```csharp
 public interface IIndexedColorConverter
 ```
 
-## तरीकों
+## मेथड्स
 
 | नाम | विवरण |
 | --- | --- |
-| [FillIndexedtoIndexedMap](../../aspose.psd/iindexedcolorconverter/fillindexedtoindexedmap/)(byte[], PixelDataFormat, PixelDataFormat) | अनुक्रमित छवि रूपांतरण मानचित्र में अनुक्रमित भरता है। |
+| [FillIndexedtoIndexedMap](../../aspose.psd/iindexedcolorconverter/fillindexedtoindexedmap/)(byte[], PixelDataFormat, PixelDataFormat) | इंडेक्स्ड से इंडेक्स्ड इमेज रूपांतरण मानचित्र को भरता है। |
 
-### यह सभी देखें
+### देखें भी
 
-* नाम स्थान [Aspose.PSD](../../aspose.psd/)
-* सभा [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

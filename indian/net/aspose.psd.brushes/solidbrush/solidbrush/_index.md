@@ -1,44 +1,45 @@
 ---
-title: SolidBrush.SolidBrush
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: SolidBrush नर्मत. क एक नय उदहरण प्ररंभ करत हैSolidBrush वर्ग.
+title: "SolidBrush.SolidBrush"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "SolidBrush कंस्ट्रक्टर। SolidBrush क्लास का नया इंस्टेंस इनिशियलाइज़ करता है।"
 type: docs
 weight: 10
 url: /hi/net/aspose.psd.brushes/solidbrush/solidbrush/
 ---
+{{< psd/tize >}}
 ## SolidBrush() {#constructor}
 
-का एक नया उदाहरण प्रारंभ करता है[`SolidBrush`](../) वर्ग.
+[`SolidBrush`](../) क्लास का नया इंस्टेंस इनिशियलाइज़ करता है।
 
 ```csharp
 public SolidBrush()
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * class [SolidBrush](../)
-* नाम स्थान [Aspose.PSD.Brushes](../../solidbrush/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## SolidBrush(Color) {#constructor_1}
 
-का एक नया उदाहरण प्रारंभ करता है[`SolidBrush`](../) वर्ग.
+[`SolidBrush`](../) क्लास का नया इंस्टेंस इनिशियलाइज़ करता है।
 
 ```csharp
 public SolidBrush(Color color)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| color | Color | ठोस ब्रश रंग। |
+| रंग | रंग | सॉलिड ब्रश का रंग। |
 
-### यह सभी देखें
+### देखें भी
 
 * struct [Color](../../../aspose.psd/color/)
 * class [SolidBrush](../)
-* नाम स्थान [Aspose.PSD.Brushes](../../solidbrush/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
+* assembly [Aspose.PSD](../../../)
 
 

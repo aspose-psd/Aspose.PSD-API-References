@@ -1,28 +1,29 @@
 ---
-title: ExifData.ShutterSpeedValue
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: ExifData संपत्त. शटर गत मन प्रप्त य सेट करत है
+title: "ExifData.ShutterSpeedValue"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "ExifData प्रॉपर्टी। शटर स्पीड मान को प्राप्त या सेट करता है"
 type: docs
 weight: 950
 url: /hi/net/aspose.psd.exif/exifdata/shutterspeedvalue/
 ---
+{{< psd/tize >}}
 ## ExifData.ShutterSpeedValue property
 
-शटर गति मान प्राप्त या सेट करता है।
+शटर स्पीड मान को प्राप्त करता है या सेट करता है।
 
 ```csharp
 public TiffSRational ShutterSpeedValue { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-शटर गति मान.
+शटर स्पीड मान।
 
-### यह सभी देखें
+### देखें भी
 
 * class [TiffSRational](../../../aspose.psd.fileformats.tiff/tiffsrational/)
 * class [ExifData](../)
-* नाम स्थान [Aspose.PSD.Exif](../../exifdata/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: Class LyidResource
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.LyidResource कक्ष. कक्ष LyidResource.
+title: "क्लास LyidResource"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Aspose.PSD.FileFormats.Psd.Layers.LayerResources.LyidResource क्लास। क्लास LyidResource"
 type: docs
-weight: 2810
+weight: 3140
 url: /hi/net/aspose.psd.fileformats.psd.layers.layerresources/lyidresource/
 ---
+{{< psd/tize >}}
 ## LyidResource class
 
-कक्षा LyidResource.
+क्लास LyidResource।
 
 ```csharp
 public class LyidResource : LayerResource
@@ -18,36 +19,36 @@ public class LyidResource : LayerResource
 
 | नाम | विवरण |
 | --- | --- |
-| [LyidResource](lyidresource/#constructor)(byte[]) | का एक नया उदाहरण प्रारंभ करता है`LyidResource` वर्ग. कस्टम या अज्ञात मान के साथ |
-| [LyidResource](lyidresource/#constructor_1)(int) | का एक नया उदाहरण प्रारंभ करता है`LyidResource` वर्ग. |
+| [LyidResource](lyidresource/#constructor)(byte[]) | `LyidResource` क्लास का एक नया उदाहरण प्रारंभ करता है। कस्टम या अज्ञात मान के साथ |
+| [LyidResource](lyidresource/#constructor_1)(int) | `LyidResource` क्लास का एक नया उदाहरण प्रारंभ करता है। |
 
-## गुण
+## प्रॉपर्टीज़
 
 | नाम | विवरण |
 | --- | --- |
-| override [Key](../../aspose.psd.fileformats.psd.layers.layerresources/lyidresource/key/) { get; } | परत संसाधन कुंजी प्राप्त करता है. |
-| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/lyidresource/length/) { get; } | बाइट्स में परत संसाधन लंबाई प्राप्त करता है। |
-| override [PsdVersion](../../aspose.psd.fileformats.psd.layers.layerresources/lyidresource/psdversion/) { get; } | पीएसडी संस्करण प्राप्त करता है। |
-| override [Signature](../../aspose.psd.fileformats.psd.layers.layerresources/lyidresource/signature/) { get; } | हस्ताक्षर हो जाता है। |
+| [Key](../../aspose.psd.fileformats.psd.layers/layerresource/key/) { get; } | लेयर रिसोर्स कुंजी प्राप्त करता है। |
+| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/lyidresource/length/) { get; } | बाइट्स में लेयर रिसोर्स की लंबाई प्राप्त करता है। |
+| virtual [PsdVersion](../../aspose.psd.fileformats.psd.layers/layerresource/psdversion/) { get; } | लेयर रिसोर्स के लिए आवश्यक न्यूनतम PSD संस्करण प्राप्त करता है। 0 का अर्थ कोई प्रतिबंध नहीं है। |
+| virtual [Signature](../../aspose.psd.fileformats.psd.layers/layerresource/signature/) { get; } | हस्ताक्षर प्राप्त करता है। |
 | [Value](../../aspose.psd.fileformats.psd.layers.layerresources/lyidresource/value/) { get; } | मान प्राप्त करता है। |
 
-## तरीकों
+## मेथड्स
 
 | नाम | विवरण |
 | --- | --- |
 | override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/lyidresource/save/)(StreamContainer, int) | निर्दिष्ट स्ट्रीम कंटेनर में सहेजता है। |
-| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring/)() | रिटर्न एString जो इस उदाहरण का प्रतिनिधित्व करता है। |
+| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring/)() | इस उदाहरण का प्रतिनिधित्व करने वाली एक स्ट्रिंग लौटाता है। |
 
-## खेत
+## फ़ील्ड्स
 
 | नाम | विवरण |
 | --- | --- |
-| const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/lyidresource/typetoolkey/) | टाइप टूल इंफो की. |
+| const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/lyidresource/typetoolkey/) | टाइप टूल जानकारी कुंजी। |
 
-### यह सभी देखें
+### देखें भी
 
 * class [LayerResource](../../aspose.psd.fileformats.psd.layers/layerresource/)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
-* सभा [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../)
 
 

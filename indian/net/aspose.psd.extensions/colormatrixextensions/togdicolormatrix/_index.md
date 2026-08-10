@@ -1,32 +1,33 @@
 ---
-title: ColorMatrixExtensions.ToGdiColorMatrix
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: ColorMatrixExtensions तरक. परवर्तत करत हैColorMatrix तकColorMatrix .
+title: "ColorMatrixExtensions.ToGdiColorMatrix"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "ColorMatrixExtensions मेथड। ColorMatrix को ColorMatrix में परिवर्तित करता है।"
 type: docs
 weight: 10
 url: /hi/net/aspose.psd.extensions/colormatrixextensions/togdicolormatrix/
 ---
+{{< psd/tize >}}
 ## ColorMatrixExtensions.ToGdiColorMatrix method
 
-परिवर्तित करता है[`ColorMatrix`](../../../aspose.psd/colormatrix/) तकColorMatrix .
+[`ColorMatrix`](../../../aspose.psd/colormatrix/) को ColorMatrix में परिवर्तित करता है।
 
 ```csharp
 public static ColorMatrix ToGdiColorMatrix(ColorMatrix colorMatrix)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| colorMatrix | ColorMatrix | कनवर्ट करने के लिए रंग मैट्रिक्स। |
+| colorMatrix | ColorMatrix | परिवर्तित करने के लिए रंग मैट्रिक्स। |
 
-### प्रतिलाभ की मात्रा
+### रिटर्न वैल्यू
 
-परिवर्तितColorMatrix .
+परिवर्तित ColorMatrix।
 
-### यह सभी देखें
+### देखें भी
 
 * class [ColorMatrix](../../../aspose.psd/colormatrix/)
 * class [ColorMatrixExtensions](../)
-* नाम स्थान [Aspose.PSD.Extensions](../../colormatrixextensions/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Extensions](../../../aspose.psd.extensions/)
+* assembly [Aspose.PSD](../../../)
 
 

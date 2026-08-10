@@ -1,27 +1,28 @@
 ---
-title: ColorOverlayEffect.Opacity
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: ColorOverlayEffect संपत्त. अस्पष्टत प्रप्त य सेट करत है
+title: "ColorOverlayEffect.Opacity"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "ColorOverlayEffect प्रॉपर्टी। प्राप्त करता है या सेट करता है अपारदर्शिता"
 type: docs
 weight: 50
 url: /hi/net/aspose.psd.fileformats.psd.layers.layereffects/coloroverlayeffect/opacity/
 ---
+{{< psd/tize >}}
 ## ColorOverlayEffect.Opacity property
 
-अस्पष्टता प्राप्त या सेट करता है।
+अपारदर्शिता प्राप्त करता है या सेट करता है।
 
 ```csharp
 public byte Opacity { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-अपारदर्शिता.
+अपारदर्शिता।
 
-### यह सभी देखें
+### देखें भी
 
 * class [ColorOverlayEffect](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../coloroverlayeffect/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../../)
 
 

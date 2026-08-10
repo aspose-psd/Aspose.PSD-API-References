@@ -1,24 +1,25 @@
 ---
-title: Aspose.PSD.Xmp.Types.Complex.Colorant
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: नम स्थन में वे वर्ग हते हैं ज कस दस्तवेज़ में प्रयुक्त कलरेंट स्वैच क वशेषतओं वल संरचनओं क प्रतनधत्व करते हैं
+title: "Aspose.PSD.Xmp.Types.Complex.Colorant"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "नेमस्पेस में ऐसी क्लासेस शामिल हैं जो दस्तावेज़ में उपयोग किए गए कलरेंट स्वैच की विशेषताओं वाली संरचनाओं का प्रतिनिधित्व करती हैं।"
 type: docs
-weight: 630
+weight: 670
 url: /hi/net/aspose.psd.xmp.types.complex.colorant/
 ---
-नाम स्थान में वे वर्ग होते हैं जो किसी दस्तावेज़ में प्रयुक्त कलरेंट (स्वैच) की विशेषताओं वाली संरचनाओं का प्रतिनिधित्व करते हैं।
+{{< psd/tize >}}
+Namespace में क्लासेस शामिल हैं जो दस्तावेज़ में उपयोग किए जाने वाले कलरेंट (स्वैच) की विशेषताओं वाले स्ट्रक्चर को दर्शाते हैं।
 
-## कक्षाओं
+## क्लासेस
 
-| कक्षा | विवरण |
+| क्लास | विवरण |
 | --- | --- |
 | [ColorantBase](./colorantbase/) | XMP कलरेंट प्रकार का प्रतिनिधित्व करता है। |
-| [ColorantCmyk](./colorantcmyk/) | सीएमवाईके कलरेंट का प्रतिनिधित्व करता है। |
-| [ColorantLab](./colorantlab/) | लैब कलरेंट का प्रतिनिधित्व करता है। |
-| [ColorantRgb](./colorantrgb/) | आरजीबी कलरेंट का प्रतिनिधित्व करता है। |
-## गणना
+| [ColorantCmyk](./colorantcmyk/) | CMYK कलरेंट का प्रतिनिधित्व करता है। |
+| [ColorantLab](./colorantlab/) | LAB कलरेंट का प्रतिनिधित्व करता है। |
+| [ColorantRgb](./colorantrgb/) | RGB कलरेंट का प्रतिनिधित्व करता है। |
+## एन्यूमरेशन
 
-| गणना | विवरण |
+| एन्यूमरेशन | विवरण |
 | --- | --- |
 | [ColorMode](./colormode/) | रंग मोड का प्रतिनिधित्व करता है। |
 | [ColorType](./colortype/) | रंग का प्रकार। |

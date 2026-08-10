@@ -1,34 +1,35 @@
 ---
-title: TiffOptions.MaxSampleValue
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: TiffOptions संपत्त. अधकतम नमून मन प्रप्त य सेट करत है
+title: "TiffOptions.MaxSampleValue"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "TiffOptions प्रॉपर्टी। अधिकतम सैंपल मान को प्राप्त करता है या सेट करता है"
 type: docs
-weight: 260
+weight: 270
 url: /hi/net/aspose.psd.imageoptions/tiffoptions/maxsamplevalue/
 ---
+{{< psd/tize >}}
 ## TiffOptions.MaxSampleValue property
 
-अधिकतम नमूना मान प्राप्त या सेट करता है।
+अधिकतम नमूना मान को प्राप्त या सेट करता है।
 
 ```csharp
 public ushort[] MaxSampleValue { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-अधिकतम नमूना मान.
+अधिकतम सैंपल मान।
 
 ### अपवाद
 
-| अपवाद | स्थिति |
+| अपवाद | शर्त |
 | --- | --- |
-| ArgumentNullException | कीमत |
-| ArgumentOutOfRangeException | मान; सरणी की लंबाई प्रति पिक्सेल गणना के नमूने के अनुरूप होनी चाहिए। |
+| ArgumentNullException | मान |
+| ArgumentOutOfRangeException | value;ऐरे की लंबाई को पिक्सेल प्रति सैंपल की संख्या के अनुरूप होना चाहिए। |
 
-### यह सभी देखें
+### देखें भी
 
 * class [TiffOptions](../)
-* नाम स्थान [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

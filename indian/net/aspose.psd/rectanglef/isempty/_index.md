@@ -1,27 +1,28 @@
 ---
-title: RectangleF.IsEmpty
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: RectangleF संपत्त. यह इंगत करने वल मन प्रप्त करत है क क्यWidth यHeight इस क संपत्तRectangleF शून्य. क मन है
+title: "RectangleF.IsEmpty"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "RectangleF प्रॉपर्टी। यह मान प्राप्त करता है जो दर्शाता है कि इस RectangleF की चौड़ाई या ऊँचाई प्रॉपर्टी का मान शून्य है या नहीं"
 type: docs
 weight: 100
 url: /hi/net/aspose.psd/rectanglef/isempty/
 ---
+{{< psd/tize >}}
 ## RectangleF.IsEmpty property
 
-यह इंगित करने वाला मान प्राप्त करता है कि क्या[`Width`](../width/) या[`Height`](../height/) इस की संपत्ति[`RectangleF`](../) शून्य. का मान है
+यह मान प्राप्त करता है जो दर्शाता है कि इस [`RectangleF`](../) की [`Width`](../width/) या [`Height`](../height/) प्रॉपर्टी का मान शून्य है या नहीं।
 
 ```csharp
 public bool IsEmpty { get; }
 ```
 
-### प्रतिलाभ की मात्रा
+### रिटर्न वैल्यू
 
-यह संपत्ति सच हो जाती है अगर[`Width`](../width/) या[`Height`](../height/) इस की संपत्ति[`RectangleF`](../) शून्य का मान है; अन्यथा झूठा।
+यदि इस [`RectangleF`](../) की [`Width`](../width/) या [`Height`](../height/) प्रॉपर्टी का मान शून्य है तो यह प्रॉपर्टी true लौटाती है; अन्यथा false।
 
-### यह सभी देखें
+### देखें भी
 
 * struct [RectangleF](../)
-* नाम स्थान [Aspose.PSD](../../rectanglef/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

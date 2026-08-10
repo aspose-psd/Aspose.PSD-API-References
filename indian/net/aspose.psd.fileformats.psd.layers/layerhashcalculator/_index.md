@@ -1,14 +1,15 @@
 ---
-title: Class LayerHashCalculator
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerHashCalculator कक्ष. PSD परतं के लए हैश कैलकुलेटर इसक उपयग अलगअलग PSD फ़इलं में समन य अलगअलग परतं क खजने के लए कय ज सकत है
+title: "क्लास LayerHashCalculator"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Aspose.PSD.FileFormats.Psd.Layers.LayerHashCalculator क्लास। PSD लेयर्स के लिए हैश कैलकुलेटर। इसे विभिन्न PSD फ़ाइलों में समान या अलग लेयर्स खोजने के लिए उपयोग किया जा सकता है।"
 type: docs
-weight: 2230
+weight: 2430
 url: /hi/net/aspose.psd.fileformats.psd.layers/layerhashcalculator/
 ---
+{{< psd/tize >}}
 ## LayerHashCalculator class
 
-PSD परतों के लिए हैश कैलकुलेटर। इसका उपयोग अलग-अलग PSD फ़ाइलों में समान या अलग-अलग परतों को खोजने के लिए किया जा सकता है
+PSD लेयर्स के लिए हैश कैलकुलेटर। इसे विभिन्न PSD फ़ाइलों में समान या अलग लेयर्स खोजने के लिए उपयोग किया जा सकता है।
 
 ```csharp
 public class LayerHashCalculator
@@ -18,29 +19,29 @@ public class LayerHashCalculator
 
 | नाम | विवरण |
 | --- | --- |
-| [LayerHashCalculator](layerhashcalculator/)(Layer) | का एक नया उदाहरण प्रारंभ करता है`LayerHashCalculator` वर्ग. |
+| [LayerHashCalculator](layerhashcalculator/)(Layer) | `LayerHashCalculator` क्लास का नया उदाहरण प्रारंभ करता है। |
 
-## तरीकों
+## मेथड्स
 
 | नाम | विवरण |
 | --- | --- |
-| [GetBlendingHash](../../aspose.psd.fileformats.psd.layers/layerhashcalculator/getblendinghash/)() | सम्मिश्रण हैश प्राप्त करता है। |
-| [GetChannelsHash](../../aspose.psd.fileformats.psd.layers/layerhashcalculator/getchannelshash/)() | चैनल हैश हो जाता है। |
-| [GetContentHash](../../aspose.psd.fileformats.psd.layers/layerhashcalculator/getcontenthash/)() | सामग्री हैश प्राप्त करता है। |
+| [GetBlendingHash](../../aspose.psd.fileformats.psd.layers/layerhashcalculator/getblendinghash/)() | ब्लेंडिंग हैश को प्राप्त करता है। |
+| [GetChannelsHash](../../aspose.psd.fileformats.psd.layers/layerhashcalculator/getchannelshash/)() | चैनल्स हैश को प्राप्त करता है। |
+| [GetContentHash](../../aspose.psd.fileformats.psd.layers/layerhashcalculator/getcontenthash/)() | कंटेंट हैश प्राप्त करता है। |
 
-### उदाहरण
+## उदाहरण
 
-निम्न कोड अलग-अलग फाइलों में समान परतों के लिए अद्वितीय हैश प्राप्त करने के लिए एपीआई प्रदर्शित करता है।
+निम्नलिखित कोड विभिन्न फ़ाइलों में समान लेयर्स के लिए अद्वितीय हैश प्राप्त करने के API को दर्शाता है।
 
 ```csharp
 [C#]
 
 /// <summary>
-/// द्वारा परत का नाम प्राप्त करता है।
+/// लेयर का नाम प्राप्त करता है।
 /// </summary>
 /// <typeparam name="T"></typeparam>
-/// <परम नाम="छवि">छवि.</परम>
-/// <परम नाम="नाम">नाम.</परम>
+/// <param name="image">छवि।</param>
+/// <param name="name">नाम।</param>
 /// <returns></returns>
 private static T GetLayerByName<T>(PsdImage image, string name) where T : Layer
 {
@@ -57,12 +58,12 @@ private static T GetLayerByName<T>(PsdImage image, string name) where T : Layer
 }
 
 /// <summary>
-/// बराबर नहीं हैं।
+/// Ares असमान है।
 /// </summary>
 /// <typeparam name="T"></typeparam>
-/// <परम नाम="अपेक्षित">अपेक्षित.</परम>
-/// <परम नाम="वास्तविक">वास्तविक.</परम>
-/// <अपवाद cref="System.Exception">तर्क समान नहीं होने चाहिए</अपवाद>
+/// <param name="expected">अपेक्षित।</param>
+/// <param name="actual">वास्तविक।</param>
+/// <exception cref="System.Exception">तर्क समान नहीं होने चाहिए</exception>
 public static void AreNotEqual<T>(T expected, T actual)
 {
     if (expected != null && expected.Equals(actual))
@@ -72,12 +73,12 @@ public static void AreNotEqual<T>(T expected, T actual)
 }
 
 /// <summary>
-/// बराबर हैं।
+/// Ares समान है।
 /// </summary>
 /// <typeparam name="T"></typeparam>
-/// <परम नाम="अपेक्षित">अपेक्षित.</परम>
-/// <परम नाम="वास्तविक">वास्तविक.</परम>
-/// <अपवाद cref="System.Exception">तर्क समान होने चाहिए</अपवाद>
+/// <param name="expected">अपेक्षित।</param>
+/// <param name="actual">वास्तविक।</param>
+/// <exception cref="System.Exception">तर्क समान होने चाहिए</exception>
 public static void AreEqual<T>(T expected, T actual)
 {
     if (expected != null && !expected.Equals(actual))
@@ -87,9 +88,9 @@ public static void AreEqual<T>(T expected, T actual)
 }
 
 /// <summary>
-/// परत सामग्री हैश परीक्षण को नियमित करता है।
+/// Regulars लेयर कंटेंट हैश परीक्षण।
 /// </summary>
-/// <param name="fileName">फ़ाइल का नाम.</param>
+/// <param name="fileName">फ़ाइल का नाम।</param>
 public static void RegularLayerContentHashTest(string fileName)
 {
     using (var im = (PsdImage) Image.Load(fileName))
@@ -109,17 +110,17 @@ public static void RegularLayerContentHashTest(string fileName)
         AreNotEqual(hashers[5].GetChannelsHash(), hashers[7].GetChannelsHash());
         AreNotEqual(hashers[0].GetChannelsHash(), hashers[8].GetChannelsHash());
 
-        // इन परतों का हैश बराबर है
+        // इन लेयर्स के हैश समान हैं
         AreEqual(hashers[0].GetChannelsHash(), hashers[3].GetChannelsHash());
         AreEqual(hashers[1].GetChannelsHash(), hashers[4].GetChannelsHash());
         AreEqual(hashers[0].GetChannelsHash(), hashers[6].GetChannelsHash());
 
-        // सम्मिश्रण मोड हैश की जाँच करें 
+        // ब्लेंडिंग मोड हैश जाँचें
         AreEqual(hashers[0].GetBlendingHash(), hashers[3].GetBlendingHash());
         AreEqual(hashers[1].GetBlendingHash(), hashers[4].GetBlendingHash());
         AreNotEqual(hashers[0].GetBlendingHash(), hashers[6].GetBlendingHash());
 
-        // लेकिन संकेत अलग हैं
+        // परंतु पॉइंटर्स अलग हैं
         AreNotEqual(layers[0], layers[3]);
         AreNotEqual(layers[1], layers[4]);
         AreNotEqual(layers[0], layers[6]);
@@ -127,9 +128,9 @@ public static void RegularLayerContentHashTest(string fileName)
 }
 
 /// <summary>
-/// परत सामग्री हैश परीक्षण भरता है।
+/// Fills लेयर कंटेंट हैश परीक्षण।
 /// </summary>
-/// <param name="fileName">फ़ाइल का नाम.</param>
+/// <param name="fileName">फ़ाइल का नाम।</param>
 public static void FillLayerContentHashTest(string fileName)
 {
     using (var im = (PsdImage) Image.Load(fileName))
@@ -153,7 +154,7 @@ public static void FillLayerContentHashTest(string fileName)
                 colorFillHashers[index] = new LayerHashCalculator(colorFillLayers[index]);
             }
 
-            // समान परतें हमेशा एक अनुक्रमणिका में होती हैं
+            // समान लेयर्स हमेशा एक ही इंडेक्स में होते हैं
             AreEqual(colorFillHashers[0].GetContentHash(), colorFillHashers[2].GetContentHash());
             AreEqual(colorFillHashers[1].GetContentHash(), colorFillHashers[3].GetContentHash());
             AreNotEqual(colorFillHashers[0].GetContentHash(), colorFillHashers[1].GetContentHash());
@@ -162,9 +163,9 @@ public static void FillLayerContentHashTest(string fileName)
 }
 
 /// <summary>
-/// ऑब्जेक्ट लेयर कंटेंट हैश टेस्ट को स्मार्ट करता है।
+/// Smarts ऑब्जेक्ट लेयर कंटेंट हैश परीक्षण।
 /// </summary>
-/// <param name="fileName">फ़ाइल का नाम.</param>
+/// <param name="fileName">फ़ाइल का नाम।</param>
 public static void SmartObjectLayerContentHashTest(string fileName)
 {
     using (var im = (PsdImage) Image.Load(fileName))
@@ -188,23 +189,23 @@ public static void SmartObjectLayerContentHashTest(string fileName)
             hashers[i] = new LayerHashCalculator(smartObjects[i]);
         }
 
-        // चैनल डेटा परत के लिए बराबर है और उनसे स्मार्ट ऑब्जेक्ट बनाएं।
+        // लेयर और उनसे निर्मित Smart Objects के लिए चैनल डेटा समान है।
         AreEqual(hashers[0].GetChannelsHash(), hashers[2].GetChannelsHash());
         AreEqual(hashers[0].GetChannelsHash(), hashers[4].GetChannelsHash());
 
-        // कंटेंट हैश अलग है, क्योंकि स्मार्ट ऑब्जेक्ट अन्य डेटा को कंटेंट के रूप में उपयोग करता है
+        // कंटेंट हैश अलग है, क्योंकि Smart Object सामग्री के रूप में अन्य डेटा का उपयोग करता है।
         AreNotEqual(hashers[0].GetContentHash(), hashers[4].GetContentHash());
 
-        // लेकिन हैश सम्मिश्रण समान है। दोनों परतों - स्मार्ट और रेगुलर में नॉर्मल ब्लेंड मोड और अपारदर्शिता 255 है
+        // लेकिन ब्लेंडिंग हैश समान है। दोनों लेयर्स - स्मार्ट और रेगुलर में Normal Blend मोड और अपारदर्शिता 255 है।
         AreEqual(hashers[0].GetBlendingHash(), hashers[4].GetBlendingHash());
 
-        // चैनल डेटा परत के लिए बराबर है और उनसे स्मार्ट ऑब्जेक्ट बनाएं।
+        // लेयर और उनसे निर्मित Smart Objects के लिए चैनल डेटा समान है।
         AreEqual(hashers[1].GetChannelsHash(), hashers[3].GetChannelsHash());
         AreEqual(hashers[1].GetChannelsHash(), hashers[5].GetChannelsHash());
 
-        // कंटेंट हैश अलग है, क्योंकि स्मार्ट ऑब्जेक्ट अन्य डेटा को कंटेंट के रूप में उपयोग करता है
+        // कंटेंट हैश अलग है, क्योंकि Smart Object सामग्री के रूप में अन्य डेटा का उपयोग करता है।
         AreNotEqual(hashers[1].GetContentHash(), hashers[5].GetContentHash());
-        // लेकिन हैश सम्मिश्रण समान है। दोनों परतों - स्मार्ट और रेगुलर में नॉर्मल ब्लेंड मोड और अपारदर्शिता 255 है
+        // लेकिन ब्लेंडिंग हैश समान है। दोनों लेयर्स - स्मार्ट और रेगुलर में Normal Blend मोड और अपारदर्शिता 255 है।
         AreEqual(hashers[1].GetBlendingHash(), hashers[5].GetBlendingHash());
 
         AreNotEqual(hashers[0].GetChannelsHash(), hashers[1].GetChannelsHash());
@@ -214,9 +215,9 @@ public static void SmartObjectLayerContentHashTest(string fileName)
 }
 
 /// <summary>
-/// परतों की सामग्री हैश परीक्षण समायोजित करता है।
+/// समायोजन लेयर्स की सामग्री हैश परीक्षण।
 /// </summary>
-/// <param name="fileName">फ़ाइल का नाम.</param>
+/// <param name="fileName">फ़ाइल का नाम।</param>
 public static void AdjustmentLayersContentHashTest(string fileName)
 {
     using (var im = (PsdImage) Image.Load(fileName))
@@ -245,7 +246,7 @@ public static void AdjustmentLayersContentHashTest(string fileName)
             hashers[i] = new LayerHashCalculator(adjustments[i]);
         }
 
-        // सभी हैश अलग होने चाहिए
+        // सभी हैश अलग होने चाहिए।
         for (int i = 0; i < length; i++)
         {
             for (int j = i + 1; j < length; j++)
@@ -258,9 +259,9 @@ public static void AdjustmentLayersContentHashTest(string fileName)
 }
 
 /// <summary>
-/// परतों की सामग्री हैश परीक्षण का पाठ करता है।
+/// टेक्स्ट लेयर्स की सामग्री हैश परीक्षण।
 /// </summary>
-/// <param name="fileName">फ़ाइल का नाम.</param>
+/// <param name="fileName">फ़ाइल का नाम।</param>
 public static void TextLayersContentHashTest(string fileName)
 {
     using (var im = (PsdImage) Image.Load(fileName))
@@ -302,20 +303,20 @@ public static void TextLayersContentHashTest(string fileName)
         AreNotEqual(textHashers2[0].GetContentHash(), textHashers2[2].GetContentHash());
         AreNotEqual(textHashers2[0].GetContentHash(), textHashers2[3].GetContentHash());
 
-        // हैश गणना में परिवर्तन मैट्रिक्स का उपयोग नहीं किया जाता है। आपको इसकी अतिरिक्त जांच करनी चाहिए
+        // हैश गणना में ट्रांसफ़ॉर्मेशन मैट्रिक्स का उपयोग नहीं किया जाता। आपको अतिरिक्त रूप से इसे जांचना चाहिए।
         AreEqual(textHashers2[0].GetContentHash(), textHashers2[4].GetContentHash());
 
-        // इस मामले में हमारे पास मैट्रिक्स में रोटेशन है
+        // इस मामले में मैट्रिक्स में एक घूर्णन है।
         AreNotEqual(textLayers2[0].TransformMatrix, textLayers2[4].TransformMatrix);
-        // इस मामले में हमारे पास केवल अनुवाद है (टेक्स्ट लेयर नीचे शिफ्ट किया गया है)
+        // इस मामले में केवल अनुवाद है (नीचे टेक्स्ट लेयर शिफ्ट किया गया)।
         AreNotEqual(textLayers2[0].TransformMatrix, textLayers2[1].TransformMatrix);
     }
 }
 
 /// <summary>
-/// परत सामग्री हैश परीक्षण को समूहीकृत करता है।
+/// समूह लेयर की सामग्री हैश परीक्षण।
 /// </summary>
-/// <param name="fileName">फ़ाइल का नाम.</param>
+/// <param name="fileName">फ़ाइल का नाम।</param>
 public static void GroupLayerContentHashTest(string fileName)
 {
     using (var im = (PsdImage) Image.Load(fileName))
@@ -333,16 +334,16 @@ public static void GroupLayerContentHashTest(string fileName)
             groupLayersHashers[i] = new LayerHashCalculator(groupLayers[i]);
         }
 
-        // ग्रुप लेयर हैश की गणना इसके अंदर की परतों से की जाती है
+        // ग्रुप लेयर हैश इसके अंदर की लेयर्स से गणना किया जाता है।
         AreEqual(groupLayersHashers[0].GetContentHash(), groupLayersHashers[1].GetContentHash());
         AreNotEqual(groupLayers[0], groupLayers[1]);
     }
 }
 
 /// <summary>
-/// विभिन्न फ़ाइलों के हैश परीक्षण से परत सामग्री को नियमित करता है।
+/// रेगुलर लेयर की सामग्री विभिन्न फ़ाइलों से हैश परीक्षण।
 /// </summary>
-/// <param name="fileName">फ़ाइल का नाम.</param>
+/// <param name="fileName">फ़ाइल का नाम।</param>
 public static void RegularLayerContentFromDifferentFilesHashTest(string fileName, string outputFile)
 {
     using (var im = (PsdImage) Image.Load(fileName, new PsdLoadOptions() { ReadOnlyMode = true }))
@@ -361,10 +362,10 @@ public static void RegularLayerContentFromDifferentFilesHashTest(string fileName
                 var hashCalc = new LayerHashCalculator(layer);
                 var hashCalc_copied = new LayerHashCalculator(layer_copied);
 
-                // परतों के अलग-अलग संकेत हैं
+                // लेयर्स के विभिन्न पॉइंटर्स हैं।
                 AreNotEqual(layer, layer_copied);
 
-                // लेकिन परतों का हैश बराबर है
+                // लेकिन लेयर्स का हैश समान है।
                 AreEqual(hashCalc.GetChannelsHash(), hashCalc_copied.GetChannelsHash());
                 AreEqual(hashCalc.GetContentHash(), hashCalc_copied.GetContentHash());
             }
@@ -375,9 +376,9 @@ public static void RegularLayerContentFromDifferentFilesHashTest(string fileName
 }
 ```
 
-### यह सभी देखें
+### देखें भी
 
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers](../../aspose.psd.fileformats.psd.layers/)
-* सभा [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../)
 
 

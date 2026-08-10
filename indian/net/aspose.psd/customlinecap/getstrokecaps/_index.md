@@ -1,29 +1,30 @@
 ---
-title: CustomLineCap.GetStrokeCaps
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: CustomLineCap तरक. इस कस्टम कैप क बनने वल पंक्तयं क शुरू और समप्त करने के लए उपयग क जने वल कैप प्रप्त करत है
+title: "CustomLineCap.GetStrokeCaps"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "CustomLineCap मेथड। इस कस्टम कैप को बनाने वाली लाइनों की शुरुआत और अंत में उपयोग किए जाने वाले कैप्स को प्राप्त करता है।"
 type: docs
 weight: 80
 url: /hi/net/aspose.psd/customlinecap/getstrokecaps/
 ---
+{{< psd/tize >}}
 ## CustomLineCap.GetStrokeCaps method
 
-इस कस्टम कैप को बनाने वाली पंक्तियों को शुरू और समाप्त करने के लिए उपयोग की जाने वाली कैप प्राप्त करता है।
+इस कस्टम कैप को बनाने वाली रेखाओं की शुरुआत और अंत में उपयोग किए जाने वाले कैप को प्राप्त करता है।
 
 ```csharp
 public void GetStrokeCaps(out LineCap startCap, out LineCap endCap)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| startCap | LineCap& | [`LineCap`](../../linecap/) इस कैप के भीतर एक पंक्ति की शुरुआत में प्रयुक्त गणना। |
-| endCap | LineCap& | [`LineCap`](../../linecap/) इस कैप के भीतर एक पंक्ति के अंत में उपयोग की जाने वाली गणना। |
+| startCap | LineCap& | इस कैप के भीतर लाइन की शुरुआत में उपयोग किया जाने वाला [`LineCap`](../../linecap/) एन्यूमरेशन। |
+| endCap | LineCap& | इस कैप के भीतर लाइन के अंत में उपयोग किया जाने वाला [`LineCap`](../../linecap/) एन्यूमरेशन। |
 
-### यह सभी देखें
+### देखें भी
 
 * enum [LineCap](../../linecap/)
 * class [CustomLineCap](../)
-* नाम स्थान [Aspose.PSD](../../customlinecap/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,31 +1,32 @@
 ---
-title: IIndexedColorConverter.FillIndexedtoIndexedMap
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: IIndexedColorConverter तरक. अनुक्रमत छव रूपंतरण मनचत्र में अनुक्रमत भरत है
+title: "IIndexedColorConverter.FillIndexedtoIndexedMap"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "IIndexedColorConverter विधि। इंडेक्स्ड से इंडेक्स्ड इमेज रूपांतरण मानचित्र को भरता है"
 type: docs
 weight: 10
 url: /hi/net/aspose.psd/iindexedcolorconverter/fillindexedtoindexedmap/
 ---
+{{< psd/tize >}}
 ## IIndexedColorConverter.FillIndexedtoIndexedMap method
 
-अनुक्रमित छवि रूपांतरण मानचित्र में अनुक्रमित भरता है।
+इंडेक्स्ड से इंडेक्स्ड इमेज रूपांतरण मानचित्र को भरता है।
 
 ```csharp
 public void FillIndexedtoIndexedMap(byte[] map, PixelDataFormat sourceFormat, 
     PixelDataFormat destFormat)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
 | map | Byte[] | रूपांतरण मानचित्र। |
-| sourceFormat | PixelDataFormat | स्रोत प्रारूप। |
-| destFormat | PixelDataFormat | गंतव्य प्रारूप। |
+| sourceFormat | PixelDataFormat | स्रोत फ़ॉर्मेट। |
+| destFormat | PixelDataFormat | गंतव्य फ़ॉर्मेट। |
 
-### यह सभी देखें
+### देखें भी
 
 * class [PixelDataFormat](../../pixeldataformat/)
 * interface [IIndexedColorConverter](../)
-* नाम स्थान [Aspose.PSD](../../iindexedcolorconverter/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

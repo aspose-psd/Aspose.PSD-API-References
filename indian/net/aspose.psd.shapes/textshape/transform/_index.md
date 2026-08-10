@@ -1,28 +1,29 @@
 ---
-title: TextShape.Transform
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: TextShape तरक. नर्दष्ट परवर्तन क आकर में लगू करत है
+title: "TextShape.Transform"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "TextShape मेथड। निर्दिष्ट परिवर्तन को आकार पर लागू करता है"
 type: docs
 weight: 100
 url: /hi/net/aspose.psd.shapes/textshape/transform/
 ---
+{{< psd/tize >}}
 ## TextShape.Transform method
 
-निर्दिष्ट परिवर्तन को आकार में लागू करता है।
+निर्दिष्ट परिवर्तन को आकार पर लागू करता है।
 
 ```csharp
 public override void Transform(Matrix transform)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| transform | Matrix | लागू करने के लिए परिवर्तन। |
+| transform | Matrix | लागू करने के लिए रूपांतरण। |
 
-### यह सभी देखें
+### देखें भी
 
 * class [Matrix](../../../aspose.psd/matrix/)
 * class [TextShape](../)
-* नाम स्थान [Aspose.PSD.Shapes](../../textshape/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: ExifData.GPSDestLongitudeRef
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: ExifData संपत्त. GPS मन प्रप्त य सेट करत है ज इंगत करत है क गंतव्य बंदु क देशंतर पूर्व य पश्चम देशंतर है
+title: "ExifData.GPSDestLongitudeRef"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "ExifData प्रॉपर्टी। GPS मान को प्राप्त करता है या सेट करता है जो दर्शाता है कि गंतव्य बिंदु का देशांतर पूर्व या पश्चिम है।"
 type: docs
 weight: 470
 url: /hi/net/aspose.psd.exif/exifdata/gpsdestlongituderef/
 ---
+{{< psd/tize >}}
 ## ExifData.GPSDestLongitudeRef property
 
-GPS मान प्राप्त या सेट करता है जो इंगित करता है कि गंतव्य बिंदु का देशांतर पूर्व या पश्चिम देशांतर है।
+गंतव्य बिंदु की देशांतर पूर्व या पश्चिम है यह दर्शाने वाले GPS मान को प्राप्त करता है या सेट करता है।
 
 ```csharp
 public string GPSDestLongitudeRef { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-GPS मान जो इंगित करता है कि गंतव्य बिंदु का देशांतर पूर्व या पश्चिम देशांतर है।
+GPS मान जो दर्शाता है कि गंतव्य बिंदु का देशांतर पूर्व या पश्चिम है।
 
-### यह सभी देखें
+### देखें भी
 
 * class [ExifData](../)
-* नाम स्थान [Aspose.PSD.Exif](../../exifdata/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

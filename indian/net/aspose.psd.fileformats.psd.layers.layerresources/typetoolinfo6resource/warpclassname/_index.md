@@ -1,27 +1,28 @@
 ---
-title: TypeToolInfo6Resource.WarpClassName
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: TypeToolInfo6Resource संपत्त. तन वर्ग क नम प्रप्त य सेट करत है
+title: "TypeToolInfo6Resource.WarpClassName"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "TypeToolInfo6Resource प्रॉपर्टी। वॉर्प क्लास नाम को प्राप्त करता है या सेट करता है"
 type: docs
-weight: 180
+weight: 150
 url: /hi/net/aspose.psd.fileformats.psd.layers.layerresources/typetoolinfo6resource/warpclassname/
 ---
+{{< psd/tize >}}
 ## TypeToolInfo6Resource.WarpClassName property
 
-ताना वर्ग का नाम प्राप्त या सेट करता है।
+वॉर्प क्लास नाम को प्राप्त करता है या सेट करता है।
 
 ```csharp
 public string WarpClassName { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-ताना वर्ग का नाम।
+वॉर्प क्लास नाम।
 
-### यह सभी देखें
+### देखें भी
 
 * class [TypeToolInfo6Resource](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../typetoolinfo6resource/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

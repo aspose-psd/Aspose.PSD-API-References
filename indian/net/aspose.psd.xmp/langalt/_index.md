@@ -1,14 +1,15 @@
 ---
-title: Class LangAlt
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Aspose.PSD.Xmp.LangAlt कक्ष. XMP भष वैकल्पक क प्रतनधत्व करत है
+title: "क्लास LangAlt"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Aspose.PSD.Xmp.LangAlt क्लास। XMP लैंग्वेज अल्टरनेटिव का प्रतिनिधित्व करता है"
 type: docs
-weight: 5760
+weight: 6260
 url: /hi/net/aspose.psd.xmp/langalt/
 ---
+{{< psd/tize >}}
 ## LangAlt class
 
-XMP भाषा वैकल्पिक का प्रतिनिधित्व करता है।
+XMP लैंग्वेज अल्टरनेटिव का प्रतिनिधित्व करता है।
 
 ```csharp
 public class LangAlt : IXmlValue
@@ -18,21 +19,21 @@ public class LangAlt : IXmlValue
 
 | नाम | विवरण |
 | --- | --- |
-| [LangAlt](langalt/#constructor)() | का एक नया उदाहरण प्रारंभ करता है`LangAlt` वर्ग. |
-| [LangAlt](langalt/#constructor_1)(string) | का एक नया उदाहरण प्रारंभ करता है`LangAlt` वर्ग. |
+| [LangAlt](langalt/#constructor)() | `LangAlt` क्लास का नया इंस्टेंस इनिशियलाइज़ करता है। |
+| [LangAlt](langalt/#constructor_1)(string) | `LangAlt` क्लास का नया इंस्टेंस इनिशियलाइज़ करता है। |
 
-## तरीकों
+## मेथड्स
 
 | नाम | विवरण |
 | --- | --- |
 | virtual [AddLanguage](../../aspose.psd.xmp/langalt/addlanguage/)(string, string) | भाषा जोड़ता है। |
-| [GetXmlValue](../../aspose.psd.xmp/langalt/getxmlvalue/)() | XMP मान को XML प्रस्तुतिकरण में कनवर्ट करता है. |
-| override [ToString](../../aspose.psd.xmp/langalt/tostring/)() | रिटर्न एString जो इस उदाहरण का प्रतिनिधित्व करता है। |
+| [GetXmlValue](../../aspose.psd.xmp/langalt/getxmlvalue/)() | XMP मान को XML प्रतिनिधित्व में परिवर्तित करता है। |
+| override [ToString](../../aspose.psd.xmp/langalt/tostring/)() | इस उदाहरण का प्रतिनिधित्व करने वाली एक स्ट्रिंग लौटाता है। |
 
-### यह सभी देखें
+### देखें भी
 
 * interface [IXmlValue](../ixmlvalue/)
-* नाम स्थान [Aspose.PSD.Xmp](../../aspose.psd.xmp/)
-* सभा [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Xmp](../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../)
 
 

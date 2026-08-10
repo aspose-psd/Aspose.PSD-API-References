@@ -1,26 +1,27 @@
 ---
-title: RasterCachedImage.Crop
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: RasterCachedImage तरक. इमेज क क्रप कय ज रह है.
+title: "RasterCachedImage.Crop"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "RasterCachedImage मेथड। छवि को क्रॉप करना"
 type: docs
 weight: 90
 url: /hi/net/aspose.psd/rastercachedimage/crop/
 ---
+{{< psd/tize >}}
 ## RasterCachedImage.Crop method
 
-इमेज को क्रॉप किया जा रहा है.
+छवि को क्रॉप करना।
 
 ```csharp
 public override void Crop(Rectangle rectangle)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| rectangle | Rectangle | आयत। |
+| आयत | Rectangle | आयत। |
 
-### उदाहरण
+## उदाहरण
 
-निम्न कोड विशिष्ट आयत द्वारा छवि को क्रॉप करने की क्षमता प्रदर्शित करता है।
+निम्नलिखित कोड विशिष्ट आयत द्वारा छवि को क्रॉप करने की क्षमता दर्शाता है।
 
 ```csharp
 [C#]
@@ -70,19 +71,19 @@ using (var image = (PsdImage)Image.Load(sourceFileName))
         top += layers[i].Height;
     }
 
-    // पीएसडी बचाओ
+    // psd सहेजें
     image.Save(exportPath, new PsdOptions());
 
-    // पीएनजी सहेजें
+    // png सहेजें
     image.Save(exportPathPng, new PngOptions());
 }
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * struct [Rectangle](../../rectangle/)
 * class [RasterCachedImage](../)
-* नाम स्थान [Aspose.PSD](../../rastercachedimage/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: StreamReadException.ActualReadCount
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: StreamReadException संपत्त. वस्तवक रड बइट्स कउंट प्रप्त करत है
+title: "StreamReadException.ActualReadCount"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "StreamReadException प्रॉपर्टी। वास्तविक पढ़े गए बाइट्स की गिनती प्राप्त करता है"
 type: docs
 weight: 20
 url: /hi/net/aspose.psd.coreexceptions/streamreadexception/actualreadcount/
 ---
+{{< psd/tize >}}
 ## StreamReadException.ActualReadCount property
 
-वास्तविक रीड बाइट्स काउंट प्राप्त करता है।
+वास्तविक पढ़े गए बाइट्स की संख्या प्राप्त करता है।
 
 ```csharp
 public int ActualReadCount { get; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-वास्तविक रीड बाइट गिनती.
+वास्तविक पढ़े गए बाइट्स की गिनती।
 
-### यह सभी देखें
+### देखें भी
 
 * class [StreamReadException](../)
-* नाम स्थान [Aspose.PSD.CoreExceptions](../../streamreadexception/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.CoreExceptions](../../../aspose.psd.coreexceptions/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: VectorRasterizationOptions.BorderX
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: VectorRasterizationOptions संपत्त. सम X. प्रप्त य सेट करत है
+title: "VectorRasterizationOptions.BorderX"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "VectorRasterizationOptions प्रॉपर्टी। सीमा X को प्राप्त करता है या सेट करता है"
 type: docs
 weight: 20
 url: /hi/net/aspose.psd.imageoptions/vectorrasterizationoptions/borderx/
 ---
+{{< psd/tize >}}
 ## VectorRasterizationOptions.BorderX property
 
-सीमा X. प्राप्त या सेट करता है
+प्राप्त करता है या सेट करता है बॉर्डर X।
 
 ```csharp
 public float BorderX { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-सीमा X.
+सीमा X।
 
-### यह सभी देखें
+### देखें भी
 
 * class [VectorRasterizationOptions](../)
-* नाम स्थान [Aspose.PSD.ImageOptions](../../vectorrasterizationoptions/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

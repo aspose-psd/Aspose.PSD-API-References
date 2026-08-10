@@ -1,11 +1,12 @@
 ---
-title: PhotoshopPackage.SetCategory
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: PhotoshopPackage तरक. श्रेण सेट करत है
+title: "PhotoshopPackage.SetCategory"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "PhotoshopPackage मेथड। श्रेणी सेट करता है"
 type: docs
 weight: 50
 url: /hi/net/aspose.psd.xmp.schemas.photoshop/photoshoppackage/setcategory/
 ---
+{{< psd/tize >}}
 ## PhotoshopPackage.SetCategory method
 
 श्रेणी सेट करता है।
@@ -14,20 +15,20 @@ url: /hi/net/aspose.psd.xmp.schemas.photoshop/photoshoppackage/setcategory/
 public void SetCategory(string category)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| category | String | श्रेणी। |
+| श्रेणी | String | श्रेणी। |
 
 ### अपवाद
 
-| अपवाद | स्थिति |
+| अपवाद | शर्त |
 | --- | --- |
-| ArgumentOutOfRangeException | श्रेणी; श्रेणी 3 वर्णों तक सीमित है |
+| ArgumentOutOfRangeException | category;श्रेणी अधिकतम 3 अक्षरों तक सीमित है |
 
-### यह सभी देखें
+### देखें भी
 
 * class [PhotoshopPackage](../)
-* नाम स्थान [Aspose.PSD.Xmp.Schemas.Photoshop](../../photoshoppackage/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.Photoshop](../../../aspose.psd.xmp.schemas.photoshop/)
+* assembly [Aspose.PSD](../../../)
 
 

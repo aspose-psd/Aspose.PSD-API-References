@@ -1,51 +1,52 @@
 ---
-title: PsdImage.ResizeHeightProportionally
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: PsdImage तरक. ऊँचई क आनुपतक रूप से बदलत है
+title: "PsdImage.ResizeHeightProportionally"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "PsdImage मेथड। ऊँचाई को अनुपातिक रूप से बदलता है"
 type: docs
-weight: 590
+weight: 650
 url: /hi/net/aspose.psd.fileformats.psd/psdimage/resizeheightproportionally/
 ---
-## ResizeHeightProportionally(int, ImageResizeSettings) {#resizeheightproportionally_1}
-
-ऊँचाई को आनुपातिक रूप से बदलता है।
-
-```csharp
-public override void ResizeHeightProportionally(int newHeight, ImageResizeSettings settings)
-```
-
-| पैरामीटर | प्रकार | विवरण |
-| --- | --- | --- |
-| newHeight | Int32 | नई ऊंचाई। |
-| settings | ImageResizeSettings | छवि का आकार बदलें सेटिंग्स। |
-
-### यह सभी देखें
-
-* class [ImageResizeSettings](../../../aspose.psd/imageresizesettings/)
-* class [PsdImage](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* सभा [Aspose.PSD](../../../)
-
----
-
+{{< psd/tize >}}
 ## ResizeHeightProportionally(int, ResizeType) {#resizeheightproportionally_2}
 
-ऊँचाई को आनुपातिक रूप से बदलता है।
+ऊँचाई को अनुपातिक रूप से बदलता है।
 
 ```csharp
 public override void ResizeHeightProportionally(int newHeight, ResizeType resizeType)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| newHeight | Int32 | नई ऊंचाई। |
-| resizeType | ResizeType | आकार बदलने का प्रकार। |
+| newHeight | Int32 | नई ऊँचाई। |
+| resizeType | ResizeType | री‑साइज़ का प्रकार। |
 
-### यह सभी देखें
+### देखें भी
 
 * enum [ResizeType](../../../aspose.psd/resizetype/)
 * class [PsdImage](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
+
+---
+
+## ResizeHeightProportionally(int, ImageResizeSettings) {#resizeheightproportionally_1}
+
+ऊँचाई को अनुपातिक रूप से बदलता है।
+
+```csharp
+public override void ResizeHeightProportionally(int newHeight, ImageResizeSettings settings)
+```
+
+| पैरामीटर | टाइप | विवरण |
+| --- | --- | --- |
+| newHeight | Int32 | नई ऊँचाई। |
+| सेटिंग्स | ImageResizeSettings | इमेज री‑साइज़ सेटिंग्स। |
+
+### देखें भी
+
+* class [ImageResizeSettings](../../../aspose.psd/imageresizesettings/)
+* class [PsdImage](../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

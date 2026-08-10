@@ -1,28 +1,29 @@
 ---
-title: ExifData.WhiteBalance
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: ExifData संपत्त. सफेद संतुलन प्रप्त य सेट करत है
+title: "ExifData.WhiteBalance"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "ExifData प्रॉपर्टी. व्हाइट बैलेंस प्राप्त करता है या सेट करता है"
 type: docs
 weight: 1070
 url: /hi/net/aspose.psd.exif/exifdata/whitebalance/
 ---
+{{< psd/tize >}}
 ## ExifData.WhiteBalance property
 
-सफेद संतुलन प्राप्त या सेट करता है।
+व्हाइट बैलेंस को प्राप्त करता है या सेट करता है।
 
 ```csharp
 public ExifWhiteBalance WhiteBalance { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-सफेद संतुलन।
+व्हाइट बैलेंस।
 
-### यह सभी देखें
+### देखें भी
 
 * enum [ExifWhiteBalance](../../../aspose.psd.exif.enums/exifwhitebalance/)
 * class [ExifData](../)
-* नाम स्थान [Aspose.PSD.Exif](../../exifdata/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

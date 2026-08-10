@@ -1,27 +1,28 @@
 ---
-title: AiRasterImageSection.Height
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: AiRasterImageSection संपत्त. ऊंचई मलत है
+title: "AiRasterImageSection.Height"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "AiRasterImageSection प्रॉपर्टी। ऊँचाई प्राप्त करता है।"
 type: docs
 weight: 20
 url: /hi/net/aspose.psd.fileformats.ai/airasterimagesection/height/
 ---
+{{< psd/tize >}}
 ## AiRasterImageSection.Height property
 
-ऊंचाई मिलती है।
+ऊँचाई को प्राप्त करता है।
 
 ```csharp
 public double Height { get; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-ऊंचाई।
+ऊँचाई।
 
-### यह सभी देखें
+### देखें भी
 
 * class [AiRasterImageSection](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Ai](../../airasterimagesection/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

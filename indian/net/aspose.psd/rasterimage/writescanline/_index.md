@@ -1,29 +1,30 @@
 ---
-title: RasterImage.WriteScanLine
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: RasterImage तरक. पूर स्कैन लइन क नर्दष्ट स्कैन लइन इंडेक्स में लखत है
+title: "RasterImage.WriteScanLine"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "RasterImage मेथड। निर्दिष्ट स्कैन लाइन इंडेक्स पर पूरी स्कैन लाइन लिखता है।"
 type: docs
-weight: 600
+weight: 620
 url: /hi/net/aspose.psd/rasterimage/writescanline/
 ---
+{{< psd/tize >}}
 ## RasterImage.WriteScanLine method
 
-पूरी स्कैन लाइन को निर्दिष्ट स्कैन लाइन इंडेक्स में लिखता है।
+पूरी स्कैन लाइन को निर्दिष्ट स्कैन लाइन इंडेक्स पर लिखता है।
 
 ```csharp
 public void WriteScanLine(int scanLineIndex, Color[] pixels)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| scanLineIndex | Int32 | स्कैन लाइन का शून्य आधारित सूचकांक। |
-| pixels | Color[] | लिखने के लिए पिक्सेल रंग सरणी। |
+| scanLineIndex | Int32 | स्कैन लाइन का शून्य-आधारित अनुक्रमणिका। |
+| पिक्सेल | Color[] | लिखने के लिए पिक्सेल रंगों की सरणी। |
 
-### यह सभी देखें
+### देखें भी
 
 * struct [Color](../../color/)
 * class [RasterImage](../)
-* नाम स्थान [Aspose.PSD](../../rasterimage/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

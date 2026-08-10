@@ -1,28 +1,29 @@
 ---
-title: ObjectArrayStructure.ObjectArrayStructure
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: ObjectArrayStructure नर्मत. क एक नय उदहरण प्ररंभ करत हैObjectArrayStructure वर्ग.
+title: "ObjectArrayStructure.ObjectArrayStructure"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "ObjectArrayStructure कंस्ट्रक्टर। ObjectArrayStructure क्लास का नया उदाहरण प्रारंभ करता है"
 type: docs
 weight: 10
 url: /hi/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/objectarraystructure/objectarraystructure/
 ---
+{{< psd/tize >}}
 ## ObjectArrayStructure(string, string, OSTypeStructure[]) {#constructor_1}
 
-का एक नया उदाहरण प्रारंभ करता है[`ObjectArrayStructure`](../) वर्ग.
+[`ObjectArrayStructure`](../) क्लास का नया उदाहरण प्रारंभ करता है।
 
 ```csharp
 public ObjectArrayStructure(string keyName, string classIdName, OSTypeStructure[] structures)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
 | keyName | String | कुंजी का नाम। |
-| classIdName | String | वर्ग पहचानकर्ता का नाम। |
-| structures | OSTypeStructure[] | संरचनाएं। |
+| classIdName | String | क्लास पहचानकर्ता का नाम। |
+| संरचनाएँ | OSTypeStructure[] | संरचनाएँ। |
 
-### उदाहरण
+## उदाहरण
 
-निम्न कोड ObAr और UnFl हस्ताक्षरों के समर्थन को प्रदर्शित करता है।
+निम्नलिखित कोड ObAr और UnFl हस्ताक्षरों के समर्थन को दर्शाता है।
 
 ```csharp
 [C#]
@@ -74,41 +75,41 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
 }
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * class [OSTypeStructure](../../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/)
 * class [ObjectArrayStructure](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../objectarraystructure/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## ObjectArrayStructure(int, ClassID, ClassID, string, OSTypeStructure[]) {#constructor}
 
-का एक नया उदाहरण प्रारंभ करता है[`ObjectArrayStructure`](../) वर्ग.
+[`ObjectArrayStructure`](../) क्लास का नया उदाहरण प्रारंभ करता है।
 
 ```csharp
 public ObjectArrayStructure(int key, ClassID keyName, ClassID classID, string className, 
     OSTypeStructure[] structures)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| key | Int32 | पूर्णांक कुंजी। |
-| keyName | ClassID | प्रमुख नाम। |
-| classID | ClassID | वर्ग पहचानकर्ता। |
-| className | String | वर्ग का नाम। |
-| structures | OSTypeStructure[] | संरचनाएं। |
+| कुंजी | Int32 | पूर्णांक कुंजी। |
+| keyName | ClassID | कुंजी नाम। |
+| classID | ClassID | क्लास पहचानकर्ता। |
+| className | String | क्लास का नाम। |
+| संरचनाएँ | OSTypeStructure[] | संरचनाएँ। |
 
 ### अपवाद
 
-| अपवाद | स्थिति |
+| अपवाद | शर्त |
 | --- | --- |
-| ArgumentNullException | क्लासआईडी शून्य है |
+| ArgumentNullException | classID शून्य है |
 
-### उदाहरण
+## उदाहरण
 
-निम्न कोड ObAr और UnFl हस्ताक्षरों के समर्थन को प्रदर्शित करता है।
+निम्नलिखित कोड ObAr और UnFl हस्ताक्षरों के समर्थन को दर्शाता है।
 
 ```csharp
 [C#]
@@ -160,12 +161,12 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
 }
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * class [ClassID](../../../aspose.psd.fileformats.psd.layers.layerresources/classid/)
 * class [OSTypeStructure](../../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/)
 * class [ObjectArrayStructure](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../objectarraystructure/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 

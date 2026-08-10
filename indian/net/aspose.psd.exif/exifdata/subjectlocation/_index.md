@@ -1,27 +1,28 @@
 ---
-title: ExifData.SubjectLocation
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: ExifData संपत्त. वषय स्थन प्रप्त य सेट करत है
+title: "ExifData.SubjectLocation"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "ExifData प्रॉपर्टी। सब्जेक्ट लोकेशन को प्राप्त करता है या सेट करता है"
 type: docs
 weight: 1020
 url: /hi/net/aspose.psd.exif/exifdata/subjectlocation/
 ---
+{{< psd/tize >}}
 ## ExifData.SubjectLocation property
 
-विषय स्थान प्राप्त या सेट करता है।
+सब्जेक्ट लोकेशन को प्राप्त करता है या सेट करता है।
 
 ```csharp
 public ushort[] SubjectLocation { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-विषय स्थान।
+सब्जेक्ट लोकेशन।
 
-### यह सभी देखें
+### देखें भी
 
 * class [ExifData](../)
-* नाम स्थान [Aspose.PSD.Exif](../../exifdata/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

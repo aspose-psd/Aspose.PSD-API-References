@@ -1,28 +1,29 @@
 ---
-title: ResolutionInfoResource.HResDisplayUnit
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: ResolutionInfoResource संपत्त. क्षैतज रज़ल्यूशन के लए इकइयं प्रदर्शत करें यह केवल the उपयगकर्त इंटरफ़ेस क प्रभवत करत है रज़ल्यूशन अभ भ PSD फ़इल में पक्सेल/इंच. के रूप में संग्रहत है
+title: "ResolutionInfoResource.HResDisplayUnit"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "ResolutionInfoResource प्रॉपर्टी। क्षैतिज रिज़ॉल्यूशन के लिए डिस्प्ले इकाइयाँ। यह केवल उपयोगकर्ता इंटरफ़ेस को प्रभावित करता है, रिज़ॉल्यूशन अभी भी PSD फ़ाइल में पिक्सेल/इंच के रूप में संग्रहीत रहता है"
 type: docs
 weight: 50
 url: /hi/net/aspose.psd.fileformats.psd.resources/resolutioninforesource/hresdisplayunit/
 ---
+{{< psd/tize >}}
 ## ResolutionInfoResource.HResDisplayUnit property
 
-क्षैतिज रिज़ॉल्यूशन के लिए इकाइयां प्रदर्शित करें। यह केवल the उपयोगकर्ता इंटरफ़ेस को प्रभावित करता है; रिज़ॉल्यूशन अभी भी PSD फ़ाइल में पिक्सेल/इंच. के रूप में संग्रहीत है
+हॉरिज़ॉन्टल रिज़ॉल्यूशन के लिए डिस्प्ले यूनिट्स। यह केवल यूज़र इंटरफ़ेस को प्रभावित करता है; रिज़ॉल्यूशन अभी भी PSD फ़ाइल में पिक्सेल/इंच के रूप में संग्रहीत रहता है।
 
 ```csharp
 public ResolutionUnit HResDisplayUnit { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-क्षैतिज रिज़ॉल्यूशन डिस्प्ले यूनिट।
+क्षैतिज रिज़ॉल्यूशन डिस्प्ले इकाई।
 
-### यह सभी देखें
+### देखें भी
 
 * enum [ResolutionUnit](../../../aspose.psd.fileformats.psd.resources.resolutionenums/resolutionunit/)
 * class [ResolutionInfoResource](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Resources](../../resolutioninforesource/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

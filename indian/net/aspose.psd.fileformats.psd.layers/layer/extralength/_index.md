@@ -1,27 +1,28 @@
 ---
-title: Layer.ExtraLength
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Layer संपत्त. बइट्स में परत क अतरक्त जनकर लंबई प्रप्त करत है.
+title: "Layer.ExtraLength"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Layer प्रॉपर्टी। बाइट्स में लेयर अतिरिक्त जानकारी की लंबाई प्राप्त करता है"
 type: docs
-weight: 110
+weight: 120
 url: /hi/net/aspose.psd.fileformats.psd.layers/layer/extralength/
 ---
+{{< psd/tize >}}
 ## Layer.ExtraLength property
 
-बाइट्स में परत की अतिरिक्त जानकारी लंबाई प्राप्त करता है.
+लेयर की अतिरिक्त जानकारी की लंबाई बाइट्स में प्राप्त करता है।
 
 ```csharp
 public int ExtraLength { get; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-अतिरिक्त परत लंबाई.
+अतिरिक्त लेयर लंबाई।
 
-### यह सभी देखें
+### देखें भी
 
 * class [Layer](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers](../../layer/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

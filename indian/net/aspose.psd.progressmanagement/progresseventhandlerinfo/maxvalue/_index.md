@@ -1,11 +1,12 @@
 ---
-title: ProgressEventHandlerInfo.MaxValue
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: ProgressEventHandlerInfo संपत्त. ऊपर प्रगत मन सम प्रप्त करत है
+title: "ProgressEventHandlerInfo.MaxValue"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "ProgressEventHandlerInfo प्रॉपर्टी। उच्चतम प्रगति मान सीमा प्राप्त करता है"
 type: docs
 weight: 30
 url: /hi/net/aspose.psd.progressmanagement/progresseventhandlerinfo/maxvalue/
 ---
+{{< psd/tize >}}
 ## ProgressEventHandlerInfo.MaxValue property
 
 ऊपरी प्रगति मान सीमा प्राप्त करता है।
@@ -14,14 +15,14 @@ url: /hi/net/aspose.psd.progressmanagement/progresseventhandlerinfo/maxvalue/
 public int MaxValue { get; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-ऊपरी प्रगति मान सीमा.
+उच्चतम प्रगति मान सीमा।
 
-### यह सभी देखें
+### देखें भी
 
 * class [ProgressEventHandlerInfo](../)
-* नाम स्थान [Aspose.PSD.ProgressManagement](../../progresseventhandlerinfo/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ProgressManagement](../../../aspose.psd.progressmanagement/)
+* assembly [Aspose.PSD](../../../)
 
 

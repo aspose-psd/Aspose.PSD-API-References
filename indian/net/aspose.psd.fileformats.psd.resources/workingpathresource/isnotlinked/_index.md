@@ -1,27 +1,28 @@
 ---
-title: WorkingPathResource.IsNotLinked
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: WorkingPathResource संपत्त. एक मन प्रप्त करत है य सेट करत है ज दर्शत है क यह उदहरण लंक नहं है
+title: "WorkingPathResource.IsNotLinked"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "WorkingPathResource प्रॉपर्टी। यह दर्शाने वाला मान प्राप्त करता है या सेट करता है कि यह इंस्टेंस लिंक नहीं है।"
 type: docs
 weight: 50
 url: /hi/net/aspose.psd.fileformats.psd.resources/workingpathresource/isnotlinked/
 ---
+{{< psd/tize >}}
 ## WorkingPathResource.IsNotLinked property
 
-एक मान प्राप्त करता है या सेट करता है जो दर्शाता है कि यह उदाहरण लिंक नहीं है।
+इस इंस्टेंस के न जुड़े होने को दर्शाने वाला मान प्राप्त करता है या सेट करता है।
 
 ```csharp
 public bool IsNotLinked { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-`सत्य` अगर यह उदाहरण जुड़ा नहीं है; अन्यथा,`असत्य` .
+`true` यदि यह इंस्टेंस लिंक नहीं है; अन्यथा, `false`.
 
-### यह सभी देखें
+### देखें भी
 
 * class [WorkingPathResource](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Resources](../../workingpathresource/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

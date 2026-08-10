@@ -1,27 +1,28 @@
 ---
-title: LengthRecord.IsClosed
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: LengthRecord संपत्त. एक मन प्रप्त करत है य सेट करत है ज दर्शत है क यह उदहरण बंद है
+title: "LengthRecord.IsClosed"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "LengthRecord प्रॉपर्टी। एक मान प्राप्त करता या सेट करता है जो दर्शाता है कि यह इंस्टेंस बंद है या नहीं"
 type: docs
 weight: 30
 url: /hi/net/aspose.psd.fileformats.core.vectorpaths/lengthrecord/isclosed/
 ---
+{{< psd/tize >}}
 ## LengthRecord.IsClosed property
 
-एक मान प्राप्त करता है या सेट करता है जो दर्शाता है कि यह उदाहरण बंद है।
+यह दर्शाने वाला मान प्राप्त करता है या सेट करता है कि यह इंस्टेंस बंद है या नहीं।
 
 ```csharp
 public bool IsClosed { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-`सत्य` अगर यह उदाहरण बंद है; अन्यथा,`असत्य` .
+`true` यदि यह इंस्टेंस बंद है; अन्यथा, `false`।
 
-### यह सभी देखें
+### देखें भी
 
 * class [LengthRecord](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Core.VectorPaths](../../lengthrecord/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: IXmlValue.GetXmlValue
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: IXmlValue तरक. XMP मन क XML प्रस्तुतकरण में कनवर्ट करत है.
+title: "IXmlValue.GetXmlValue"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "IXmlValue मेथड। XMP मान को XML प्रतिनिधित्व में परिवर्तित करता है"
 type: docs
 weight: 10
 url: /hi/net/aspose.psd.xmp/ixmlvalue/getxmlvalue/
 ---
+{{< psd/tize >}}
 ## IXmlValue.GetXmlValue method
 
-XMP मान को XML प्रस्तुतिकरण में कनवर्ट करता है.
+XMP मान को XML प्रतिनिधित्व में परिवर्तित करता है।
 
 ```csharp
 public string GetXmlValue()
 ```
 
-### प्रतिलाभ की मात्रा
+### रिटर्न वैल्यू
 
-XML प्रतिनिधित्व में परिवर्तित XMP मान लौटाता है।
+XMP मान को XML प्रतिनिधित्व में परिवर्तित करके लौटाता है।
 
-### यह सभी देखें
+### देखें भी
 
 * interface [IXmlValue](../)
-* नाम स्थान [Aspose.PSD.Xmp](../../ixmlvalue/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

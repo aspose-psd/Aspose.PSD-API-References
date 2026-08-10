@@ -1,11 +1,12 @@
 ---
-title: AnimatedDataSectionStructure.Key
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: AnimatedDataSectionStructure संपत्त. संरचन कुंज प्रप्त करत है
+title: "AnimatedDataSectionStructure.Key"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "AnimatedDataSectionStructure प्रॉपर्टी। संरचना कुंजी प्राप्त करता है"
 type: docs
 weight: 20
 url: /hi/net/aspose.psd.fileformats.psd.layers.layerresources/animateddatasectionstructure/key/
 ---
+{{< psd/tize >}}
 ## AnimatedDataSectionStructure.Key property
 
 संरचना कुंजी प्राप्त करता है।
@@ -14,10 +15,10 @@ url: /hi/net/aspose.psd.fileformats.psd.layers.layerresources/animateddatasectio
 public override int Key { get; }
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * class [AnimatedDataSectionStructure](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../animateddatasectionstructure/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

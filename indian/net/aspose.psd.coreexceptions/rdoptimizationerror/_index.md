@@ -1,11 +1,12 @@
 ---
-title: Class RdOptimizationError
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Aspose.PSD.CoreExceptions.RdOptimizationError कक्ष. आरड अनुकूलन त्रुट अपवद वर्ग
+title: "क्लास RdOptimizationError"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Aspose.PSD.CoreExceptions.RdOptimizationError क्लास। RD ऑप्टिमाइज़ेशन त्रुटि अपवाद क्लास"
 type: docs
 weight: 670
 url: /hi/net/aspose.psd.coreexceptions/rdoptimizationerror/
 ---
+{{< psd/tize >}}
 ## RdOptimizationError class
 
 आरडी अनुकूलन त्रुटि अपवाद वर्ग
@@ -18,11 +19,11 @@ public class RdOptimizationError : Exception
 
 | नाम | विवरण |
 | --- | --- |
-| [RdOptimizationError](rdoptimizationerror/)(string) | का एक नया उदाहरण प्रारंभ करता है`RdOptimizationError` वर्ग. |
+| [RdOptimizationError](rdoptimizationerror/)(string) | `RdOptimizationError` क्लास का नया उदाहरण प्रारंभ करता है। |
 
-### यह सभी देखें
+### देखें भी
 
-* नाम स्थान [Aspose.PSD.CoreExceptions](../../aspose.psd.coreexceptions/)
-* सभा [Aspose.PSD](../../)
+* namespace [Aspose.PSD.CoreExceptions](../../aspose.psd.coreexceptions/)
+* assembly [Aspose.PSD](../../)
 
 

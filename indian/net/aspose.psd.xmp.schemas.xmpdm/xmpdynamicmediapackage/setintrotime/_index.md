@@ -1,28 +1,29 @@
 ---
-title: XmpDynamicMediaPackage.SetIntroTime
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: XmpDynamicMediaPackage तरक. इंट्र टइम सेट करत है
+title: "XmpDynamicMediaPackage.SetIntroTime"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "XmpDynamicMediaPackage विधि। परिचय समय सेट करता है"
 type: docs
 weight: 250
 url: /hi/net/aspose.psd.xmp.schemas.xmpdm/xmpdynamicmediapackage/setintrotime/
 ---
+{{< psd/tize >}}
 ## XmpDynamicMediaPackage.SetIntroTime method
 
-इंट्रो टाइम सेट करता है।
+परिचय समय को सेट करता है।
 
 ```csharp
 public void SetIntroTime(Time introTime)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| introTime | Time | इंट्रो टाइम। |
+| introTime | समय | परिचय समय। |
 
-### यह सभी देखें
+### देखें भी
 
 * class [Time](../../time/)
 * class [XmpDynamicMediaPackage](../)
-* नाम स्थान [Aspose.PSD.Xmp.Schemas.XmpDm](../../xmpdynamicmediapackage/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpDm](../../../aspose.psd.xmp.schemas.xmpdm/)
+* assembly [Aspose.PSD](../../../)
 
 

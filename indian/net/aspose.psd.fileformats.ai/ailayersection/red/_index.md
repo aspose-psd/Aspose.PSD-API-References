@@ -1,26 +1,27 @@
 ---
-title: AiLayerSection.Red
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: AiLayerSection संपत्त. लल रंग के घटक क प्रप्त य सेट करत है
+title: "AiLayerSection.Red"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "AiLayerSection प्रॉपर्टी। लाल रंग घटक को प्राप्त करता है या सेट करता है"
 type: docs
-weight: 130
+weight: 150
 url: /hi/net/aspose.psd.fileformats.ai/ailayersection/red/
 ---
+{{< psd/tize >}}
 ## AiLayerSection.Red property
 
-लाल रंग के घटक को प्राप्त या सेट करता है।
+लाल रंग घटक को प्राप्त करता है या सेट करता है।
 
 ```csharp
 public int Red { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-लाल रंग का घटक।
+लाल रंग घटक।
 
-### उदाहरण
+## उदाहरण
 
-निम्न उदाहरण एआई प्रारूप फाइलों में परतों के समर्थन को प्रदर्शित करता है।
+निम्नलिखित उदाहरण AI फ़ॉर्मेट फ़ाइलों में लेयर्स के समर्थन को दर्शाता है।
 
 ```csharp
 [C#]
@@ -70,10 +71,10 @@ using (AiImage image = (AiImage)Image.Load(sourceFilePath))
 }
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * class [AiLayerSection](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Ai](../../ailayersection/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

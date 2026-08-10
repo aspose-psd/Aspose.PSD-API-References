@@ -1,28 +1,29 @@
 ---
-title: Image.Bounds
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Image संपत्त. छव सम प्रप्त करत है
+title: "Image.Bounds"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Image प्रॉपर्टी। इमेज बाउंड्स प्राप्त करता है"
 type: docs
 weight: 60
 url: /hi/net/aspose.psd/image/bounds/
 ---
+{{< psd/tize >}}
 ## Image.Bounds property
 
-छवि सीमा प्राप्त करता है।
+छवि की सीमाएँ प्राप्त करता है।
 
 ```csharp
 public Rectangle Bounds { get; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-छवि सीमा।
+इमेज बाउंड्स।
 
-### यह सभी देखें
+### देखें भी
 
 * struct [Rectangle](../../rectangle/)
 * class [Image](../)
-* नाम स्थान [Aspose.PSD](../../image/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

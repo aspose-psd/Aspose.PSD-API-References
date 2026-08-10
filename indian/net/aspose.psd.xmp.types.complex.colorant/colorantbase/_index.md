@@ -1,11 +1,12 @@
 ---
-title: Class ColorantBase
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Aspose.PSD.Xmp.Types.Complex.Colorant.ColorantBase कक्ष. XMP कलरेंट प्रकर क प्रतनधत्व करत है
+title: "क्लास ColorantBase"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Aspose.PSD.Xmp.Types.Complex.Colorant.ColorantBase क्लास। XMP कलरेंट प्रकार का प्रतिनिधित्व करता है"
 type: docs
-weight: 6010
+weight: 6510
 url: /hi/net/aspose.psd.xmp.types.complex.colorant/colorantbase/
 ---
+{{< psd/tize >}}
 ## ColorantBase class
 
 XMP कलरेंट प्रकार का प्रतिनिधित्व करता है।
@@ -14,26 +15,26 @@ XMP कलरेंट प्रकार का प्रतिनिधित�
 public abstract class ColorantBase : ComplexTypeBase
 ```
 
-## गुण
+## प्रॉपर्टीज़
 
 | नाम | विवरण |
 | --- | --- |
-| [ColorType](../../aspose.psd.xmp.types.complex.colorant/colorantbase/colortype/) { get; set; } | रंग के प्रकार को प्राप्त या सेट करता है। |
-| [Mode](../../aspose.psd.xmp.types.complex.colorant/colorantbase/mode/) { get; } | हो जाता है[`ColorMode`](../colormode/) . |
-| [NamespaceUri](../../aspose.psd.xmp.types.complex/complextypebase/namespaceuri/) { get; } | डिफ़ॉल्ट नाम स्थान URI प्राप्त करता है. |
-| [Prefix](../../aspose.psd.xmp.types.complex/complextypebase/prefix/) { get; } | उपसर्ग प्राप्त करता है। |
-| [SwatchName](../../aspose.psd.xmp.types.complex.colorant/colorantbase/swatchname/) { get; set; } | स्वैच का नाम प्राप्त या सेट करता है। |
+| [ColorType](../../aspose.psd.xmp.types.complex.colorant/colorantbase/colortype/) { get; set; } | रंग के प्रकार को प्राप्त करता है या सेट करता है। |
+| [Mode](../../aspose.psd.xmp.types.complex.colorant/colorantbase/mode/) { get; } | प्राप्त करता है [`ColorMode`](../colormode/). |
+| [NamespaceUri](../../aspose.psd.xmp.types.complex/complextypebase/namespaceuri/) { get; } | डिफ़ॉल्ट नेमस्पेस URI को प्राप्त करता है। |
+| [Prefix](../../aspose.psd.xmp.types.complex/complextypebase/prefix/) { get; } | प्रिफिक्स को प्राप्त करता है। |
+| [SwatchName](../../aspose.psd.xmp.types.complex.colorant/colorantbase/swatchname/) { get; set; } | स्वैच का नाम प्राप्त करता है या सेट करता है। |
 
-## तरीकों
+## मेथड्स
 
 | नाम | विवरण |
 | --- | --- |
-| override [GetXmpRepresentation](../../aspose.psd.xmp.types.complex.colorant/colorantbase/getxmprepresentation/)() | XMP प्रारूप में स्ट्रिंग युक्त मान प्राप्त करता है। |
+| override [GetXmpRepresentation](../../aspose.psd.xmp.types.complex.colorant/colorantbase/getxmprepresentation/)() | XMP प्रारूप में सम्मिलित स्ट्रिंग मान को प्राप्त करता है। |
 
-### यह सभी देखें
+### देखें भी
 
 * class [ComplexTypeBase](../../aspose.psd.xmp.types.complex/complextypebase/)
-* नाम स्थान [Aspose.PSD.Xmp.Types.Complex.Colorant](../../aspose.psd.xmp.types.complex.colorant/)
-* सभा [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.Colorant](../../aspose.psd.xmp.types.complex.colorant/)
+* assembly [Aspose.PSD](../../)
 
 

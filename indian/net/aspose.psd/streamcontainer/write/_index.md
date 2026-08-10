@@ -1,49 +1,50 @@
 ---
-title: StreamContainer.Write
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: StreamContainer तरक. सभ नर्दष्ट बइट्स क स्ट्रम में लखत है
+title: "StreamContainer.Write"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "StreamContainer मेथड। निर्दिष्ट सभी बाइट्स को स्ट्रीम में लिखता है"
 type: docs
 weight: 170
 url: /hi/net/aspose.psd/streamcontainer/write/
 ---
+{{< psd/tize >}}
 ## Write(byte[]) {#write}
 
-सभी निर्दिष्ट बाइट्स को स्ट्रीम में लिखता है।
+निर्दिष्ट सभी बाइट्स को स्ट्रीम में लिखता है।
 
 ```csharp
 public virtual void Write(byte[] bytes)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| bytes | Byte[] | लिखने के लिए बाइट्स। |
+| बाइट्स | Byte[] | लिखने के लिए बाइट्स। |
 
-### यह सभी देखें
+### देखें भी
 
 * class [StreamContainer](../)
-* नाम स्थान [Aspose.PSD](../../streamcontainer/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Write(byte[], int, int) {#write_1}
 
-बाइट्स के अनुक्रम को वर्तमान स्ट्रीम में लिखता है और इस स्ट्रीम के भीतर वर्तमान स्थिति को लिखे गए बाइट्स की संख्या से आगे बढ़ाता है।
+वर्तमान स्ट्रीम में बाइट्स की एक श्रृंखला लिखता है और लिखे गए बाइट्स की संख्या के अनुसार इस स्ट्रीम में वर्तमान स्थिति को आगे बढ़ाता है।
 
 ```csharp
 public virtual void Write(byte[] buffer, int offset, int count)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| buffer | Byte[] | बाइट्स की एक सरणी। यह तरीका कॉपी करता है*count* बाइट्स से*buffer* वर्तमान धारा को। |
-| offset | Int32 | शून्य-आधारित बाइट ऑफ़सेट इन*buffer*जिस पर बाइट्स को वर्तमान स्ट्रीम में कॉपी करना शुरू करना है। |
-| count | Int32 | वर्तमान धारा में लिखे जाने वाले बाइट्स की संख्या। |
+| बफ़र | Byte[] | बाइट्स की एक एरे। यह मेथड *count* बाइट्स *buffer* से वर्तमान स्ट्रीम में कॉपी करता है। |
+| offset | Int32 | वर्तमान स्ट्रीम में बाइट्स कॉपी करना शुरू करने के लिए *buffer* में शून्य-आधारित बाइट ऑफसेट। |
+| count | Int32 | वर्तमान स्ट्रीम में लिखे जाने वाले बाइट्स की संख्या। |
 
-### यह सभी देखें
+### देखें भी
 
 * class [StreamContainer](../)
-* नाम स्थान [Aspose.PSD](../../streamcontainer/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

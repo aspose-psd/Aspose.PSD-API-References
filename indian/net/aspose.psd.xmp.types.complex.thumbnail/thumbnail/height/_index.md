@@ -1,33 +1,34 @@
 ---
-title: Thumbnail.Height
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Thumbnail संपत्त. ऊंचई प्रप्त य सेट करत है
+title: "Thumbnail.Height"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Thumbnail प्रॉपर्टी। ऊँचाई को प्राप्त या सेट करता है"
 type: docs
 weight: 20
 url: /hi/net/aspose.psd.xmp.types.complex.thumbnail/thumbnail/height/
 ---
+{{< psd/tize >}}
 ## Thumbnail.Height property
 
-ऊंचाई प्राप्त या सेट करता है।
+ऊँचाई को प्राप्त करता है या सेट करता है।
 
 ```csharp
 public int Height { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-ऊंचाई.
+ऊँचाई।
 
 ### अपवाद
 
-| अपवाद | स्थिति |
+| अपवाद | शर्त |
 | --- | --- |
-| ArgumentOutOfRangeException | मान; ऊंचाई शून्य से कम नहीं हो सकती |
+| ArgumentOutOfRangeException | value;ऊँचाई शून्य से कम नहीं हो सकती |
 
-### यह सभी देखें
+### देखें भी
 
 * class [Thumbnail](../)
-* नाम स्थान [Aspose.PSD.Xmp.Types.Complex.Thumbnail](../../thumbnail/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.Thumbnail](../../../aspose.psd.xmp.types.complex.thumbnail/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,28 +1,29 @@
 ---
-title: ImageAttributes.SetBrushRemapTable
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: ImageAttributes तरक. ब्रश श्रेण के लए रंगरमैप तलक सेट करत है
+title: "ImageAttributes.SetBrushRemapTable"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "ImageAttributes मेथड। ब्रश श्रेणी के लिए colorremap टेबल सेट करता है।"
 type: docs
 weight: 110
 url: /hi/net/aspose.psd/imageattributes/setbrushremaptable/
 ---
+{{< psd/tize >}}
 ## ImageAttributes.SetBrushRemapTable method
 
-ब्रश श्रेणी के लिए रंग-रीमैप तालिका सेट करता है।
+ब्रश श्रेणी के लिए कलर-रीमैप तालिका सेट करता है।
 
 ```csharp
 public void SetBrushRemapTable(ColorMap[] map)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| map | ColorMap[] | की सरणी[`ColorMap`](../../colormap/) वस्तुओं। |
+| map | ColorMap[] | एक एरे जिसमें [`ColorMap`](../../colormap/) ऑब्जेक्ट्स होते हैं। |
 
-### यह सभी देखें
+### देखें भी
 
 * class [ColorMap](../../colormap/)
 * class [ImageAttributes](../)
-* नाम स्थान [Aspose.PSD](../../imageattributes/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

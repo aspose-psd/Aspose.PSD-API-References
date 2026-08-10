@@ -1,23 +1,24 @@
 ---
-title: JpegOptions.Quality
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: JpegOptions संपत्त. छव गुणवत्त प्रप्त य सेट करत है
+title: "JpegOptions.Quality"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "JpegOptions प्रॉपर्टी। इमेज क्वालिटी को प्राप्त या सेट करता है"
 type: docs
-weight: 140
+weight: 150
 url: /hi/net/aspose.psd.imageoptions/jpegoptions/quality/
 ---
+{{< psd/tize >}}
 ## JpegOptions.Quality property
 
-छवि गुणवत्ता प्राप्त या सेट करता है।
+छवि गुणवत्ता प्राप्त करता है या सेट करता है।
 
 ```csharp
 public int Quality { get; set; }
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * class [JpegOptions](../)
-* नाम स्थान [Aspose.PSD.ImageOptions](../../jpegoptions/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

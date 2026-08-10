@@ -1,27 +1,28 @@
 ---
-title: GradientFillSettings.VerticalOffset
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: GradientFillSettings संपत्त. वर्टकल ऑफ़सेट क प्रतशत में प्रप्त य सेट करत है
+title: "GradientFillSettings.VerticalOffset"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "GradientFillSettings प्रॉपर्टी। ऊर्ध्वाधर ऑफसेट को प्रतिशत में प्राप्त करता है या सेट करता है"
 type: docs
-weight: 140
+weight: 120
 url: /hi/net/aspose.psd.fileformats.psd.layers.fillsettings/gradientfillsettings/verticaloffset/
 ---
+{{< psd/tize >}}
 ## GradientFillSettings.VerticalOffset property
 
-वर्टिकल ऑफ़सेट को प्रतिशत में प्राप्त या सेट करता है।
+प्रतिशत में लंबवत ऑफसेट प्राप्त करता है या सेट करता है।
 
 ```csharp
 public double VerticalOffset { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-लंबवत ऑफ़सेट.
+ऊर्ध्वाधर ऑफसेट।
 
-### यह सभी देखें
+### देखें भी
 
 * class [GradientFillSettings](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../gradientfillsettings/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../../)
 
 

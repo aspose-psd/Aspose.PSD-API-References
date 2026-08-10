@@ -1,29 +1,30 @@
 ---
-title: LineSegment.LineSegment
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: LineSegment नर्मत. क एक नय उदहरण प्ररंभ करत हैLineSegment वर्ग.
+title: "LineSegment.LineSegment"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "LineSegment कंस्ट्रक्टर। नई LineSegment क्लास की एक नई इंस्टेंस को इनिशियलाइज़ करता है"
 type: docs
 weight: 10
 url: /hi/net/aspose.psd.shapesegments/linesegment/linesegment/
 ---
+{{< psd/tize >}}
 ## LineSegment constructor
 
-का एक नया उदाहरण प्रारंभ करता है[`LineSegment`](../) वर्ग.
+नई [`LineSegment`](../) क्लास की एक नई इंस्टेंस को इनिशियलाइज़ करता है।
 
 ```csharp
 public LineSegment(PointF startPoint, PointF endPoint)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
 | startPoint | PointF | प्रारंभ बिंदु। |
 | endPoint | PointF | अंत बिंदु। |
 
-### यह सभी देखें
+### देखें भी
 
 * struct [PointF](../../../aspose.psd/pointf/)
 * class [LineSegment](../)
-* नाम स्थान [Aspose.PSD.ShapeSegments](../../linesegment/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ShapeSegments](../../../aspose.psd.shapesegments/)
+* assembly [Aspose.PSD](../../../)
 
 

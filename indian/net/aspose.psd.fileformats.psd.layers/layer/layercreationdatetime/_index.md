@@ -1,27 +1,28 @@
 ---
-title: Layer.LayerCreationDateTime
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Layer संपत्त. परत नर्मण तथ समय प्रप्त य सेट करत है
+title: "Layer.LayerCreationDateTime"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Layer property. लेयर निर्माण तिथि समय को प्राप्त करता है या सेट करता है"
 type: docs
-weight: 200
+weight: 210
 url: /hi/net/aspose.psd.fileformats.psd.layers/layer/layercreationdatetime/
 ---
+{{< psd/tize >}}
 ## Layer.LayerCreationDateTime property
 
-परत निर्माण तिथि समय प्राप्त या सेट करता है।
+लेयर निर्माण तिथि और समय को प्राप्त करता है या सेट करता है।
 
 ```csharp
 public DateTime LayerCreationDateTime { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-परत के निर्माण की तारीख का समय। यदि निर्माण दिनांक समय के बारे में कोई डेटा नहीं है तो यूनिक्स समय पहले लौटाता है epoch
+लेयर की निर्माण तिथि समय। यदि निर्माण DateTime के बारे में कोई डेटा नहीं है तो Unix Time की पहली एपोक लौटाता है
 
-### यह सभी देखें
+### देखें भी
 
 * class [Layer](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers](../../layer/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

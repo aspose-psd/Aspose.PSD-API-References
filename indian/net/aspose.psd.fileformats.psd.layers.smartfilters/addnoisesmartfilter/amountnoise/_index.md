@@ -1,22 +1,23 @@
 ---
-title: AddNoiseSmartFilter.AmountNoise
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: AddNoiseSmartFilter संपत्त. शर मन रश प्रप्त य सेट करत है
+title: "AddNoiseSmartFilter.AmountNoise"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "AddNoiseSmartFilter प्रॉपर्टी। शोर मान की मात्रा को प्राप्त करता है या सेट करता है"
 type: docs
 weight: 20
 url: /hi/net/aspose.psd.fileformats.psd.layers.smartfilters/addnoisesmartfilter/amountnoise/
 ---
+{{< psd/tize >}}
 ## AddNoiseSmartFilter.AmountNoise property
 
-शोर मान राशि प्राप्त या सेट करता है।
+शोर मान की मात्रा को प्राप्त करता है या सेट करता है।
 
 ```csharp
 public double AmountNoise { get; set; }
 ```
 
-### उदाहरण
+## उदाहरण
 
-यह उदाहरण स्मार्ट फ़िल्टर इंटरफ़ेस के समर्थन को प्रदर्शित करता है।
+यह उदाहरण स्मार्ट फ़िल्टर इंटरफ़ेस के समर्थन को दर्शाता है।
 
 ```csharp
 [C#]
@@ -36,16 +37,16 @@ using (var image = (PsdImage)Image.Load(sourceFilte))
 {
     SmartObjectLayer smartObj = (SmartObjectLayer)image.Layers[1];
 
-    // स्मार्ट फिल्टर संपादित करें
+    // स्मार्ट फ़िल्टर संपादित करें
     GaussianBlurSmartFilter gaussianBlur = (GaussianBlurSmartFilter)smartObj.SmartFilters.Filters[0];
 
-    // फ़िल्टर मानों की जाँच करें
+    // फ़िल्टर मान जाँचें
     AssertAreEqual(3.1, gaussianBlur.Radius);
     AssertAreEqual(BlendMode.Dissolve, gaussianBlur.BlendMode);
     AssertAreEqual(90d, gaussianBlur.Opacity);
     AssertAreEqual(true, gaussianBlur.IsEnabled);
 
-    // अद्यतन फ़िल्टर मान
+    // फ़िल्टर मान अपडेट करें
     gaussianBlur.Radius = 1;
     gaussianBlur.BlendMode = BlendMode.Divide;
     gaussianBlur.Opacity = 75;
@@ -75,7 +76,7 @@ using (var image = (PsdImage)Image.Load(outputPsd))
 
     GaussianBlurSmartFilter gaussianBlur = (GaussianBlurSmartFilter)smartObj.SmartFilters.Filters[0];
 
-    // फ़िल्टर मानों की जाँच करें
+    // फ़िल्टर मान जाँचें
     AssertAreEqual(1d, gaussianBlur.Radius);
     AssertAreEqual(BlendMode.Divide, gaussianBlur.BlendMode);
     AssertAreEqual(75d, gaussianBlur.Opacity);
@@ -86,10 +87,10 @@ using (var image = (PsdImage)Image.Load(outputPsd))
 }
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * class [AddNoiseSmartFilter](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.SmartFilters](../../addnoisesmartfilter/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.SmartFilters](../../../aspose.psd.fileformats.psd.layers.smartfilters/)
+* assembly [Aspose.PSD](../../../)
 
 

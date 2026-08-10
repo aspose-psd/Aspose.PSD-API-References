@@ -1,30 +1,31 @@
 ---
-title: ChannelInformation.ChannelInformation
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: ChannelInformation नर्मत. क एक नय उदहरण प्ररंभ करत हैChannelInformation वर्ग.
+title: "ChannelInformation.ChannelInformation"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "ChannelInformation कंस्ट्रक्टर। ChannelInformation क्लास का नया इंस्टेंस इनिशियलाइज़ करता है"
 type: docs
 weight: 10
 url: /hi/net/aspose.psd.fileformats.psd.layers/channelinformation/channelinformation/
 ---
+{{< psd/tize >}}
 ## ChannelInformation constructor
 
-का एक नया उदाहरण प्रारंभ करता है[`ChannelInformation`](../) वर्ग.
+[`ChannelInformation`](../) क्लास का नया इंस्टेंस इनिशियलाइज़ करता है।
 
 ```csharp
 public ChannelInformation(CompressionMethod compressionMethod, int bitDepth, int psdVersion)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
 | compressionMethod | CompressionMethod | संपीड़न विधि। |
 | bitDepth | Int32 | बिट गहराई। |
-| psdVersion | Int32 | पीएसडी संस्करण। |
+| psdVersion | Int32 | PSD संस्करण। |
 
-### यह सभी देखें
+### देखें भी
 
 * enum [CompressionMethod](../../../aspose.psd.fileformats.psd/compressionmethod/)
 * class [ChannelInformation](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers](../../channelinformation/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

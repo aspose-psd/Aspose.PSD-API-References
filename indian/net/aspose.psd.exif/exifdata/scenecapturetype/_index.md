@@ -1,28 +1,29 @@
 ---
-title: ExifData.SceneCaptureType
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: ExifData संपत्त. दृश्य कैप्चर प्रकर प्रप्त य सेट करत है
+title: "ExifData.SceneCaptureType"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "ExifData प्रॉपर्टी। सीन कैप्चर प्रकार को प्राप्त करता है या सेट करता है"
 type: docs
 weight: 900
 url: /hi/net/aspose.psd.exif/exifdata/scenecapturetype/
 ---
+{{< psd/tize >}}
 ## ExifData.SceneCaptureType property
 
-दृश्य कैप्चर प्रकार प्राप्त या सेट करता है।
+सीन कैप्चर प्रकार प्राप्त करता है या सेट करता है।
 
 ```csharp
 public ExifSceneCaptureType SceneCaptureType { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-दृश्य कैप्चर का प्रकार।
+सीन कैप्चर का प्रकार।
 
-### यह सभी देखें
+### देखें भी
 
 * enum [ExifSceneCaptureType](../../../aspose.psd.exif.enums/exifscenecapturetype/)
 * class [ExifData](../)
-* नाम स्थान [Aspose.PSD.Exif](../../exifdata/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

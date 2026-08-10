@@ -1,26 +1,27 @@
 ---
-title: BlackWhiteAdjustmentLayer.TintColorRed
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: BlackWhiteAdjustmentLayer संपत्त. रेड टंट कलर डबल मन प्रप्त य सेट करत है
+title: "BlackWhiteAdjustmentLayer.TintColorRed"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "BlackWhiteAdjustmentLayer प्रॉपर्टी। Red Tint Color डबल मान को प्राप्त करता है या सेट करता है।"
 type: docs
 weight: 110
 url: /hi/net/aspose.psd.fileformats.psd.layers.adjustmentlayers/blackwhiteadjustmentlayer/tintcolorred/
 ---
+{{< psd/tize >}}
 ## BlackWhiteAdjustmentLayer.TintColorRed property
 
-रेड टिंट कलर डबल मान प्राप्त या सेट करता है।
+लाल टिंट रंग के डबल मान को प्राप्त करता है या सेट करता है।
 
 ```csharp
 public double TintColorRed { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-लाल रंग का दोहरा मान.
+Red Tint Color डबल मान।
 
-### उदाहरण
+## उदाहरण
 
-निम्नलिखित उदाहरण दर्शाता है कि आप Aspose.PSD में काले सफेद समायोजन परत गुणों में हेरफेर कैसे कर सकते हैं
+निम्नलिखित उदाहरण दर्शाता है कि आप Aspose.PSD में ब्लैक व्हाइट एडजस्टमेंट लेयर प्रॉपर्टीज़ को कैसे नियंत्रित कर सकते हैं।
 
 ```csharp
 [C#]
@@ -48,7 +49,7 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFileName))
 }
 ```
 
-निम्न उदाहरण दर्शाता है कि आप किसी BlwhResource को कैसे संपादित करते हैं।
+निम्नलिखित उदाहरण दर्शाता है कि आप BlwhResource को कैसे संपादित करते हैं।
 
 ```csharp
 [C#]
@@ -91,7 +92,7 @@ using (PsdImage im = (PsdImage)Image.Load(sourceFileName))
                 AssertIsTrue(Math.Abs(blwhLayer.TintColorGreen - tintColorGreen) < 1e-6, ActualPropertyValueIsWrongMessage);
                 AssertIsTrue(Math.Abs(blwhLayer.TintColorBlue - tintColorBlue) < 1e-6, ActualPropertyValueIsWrongMessage);
 
-                // परीक्षण संपादन और बचत
+                // संपादन और सहेजने का परीक्षण
                 blwhResource.Reds = reds - 15;
                 blwhResource.Yellows = yellows - 15;
                 blwhResource.Greens = greens + 15;
@@ -151,10 +152,10 @@ using (PsdImage im = (PsdImage)Image.Load(destinationFileName))
 AssertIsTrue(isRequiredResourceFound, "The specified BlwhResource not found");
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * class [BlackWhiteAdjustmentLayer](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../blackwhiteadjustmentlayer/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/)
+* assembly [Aspose.PSD](../../../)
 
 

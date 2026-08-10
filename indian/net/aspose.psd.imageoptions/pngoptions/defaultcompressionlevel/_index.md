@@ -1,11 +1,12 @@
 ---
-title: PngOptions.DefaultCompressionLevel
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: PngOptions मैदन. डफ़ल्ट संपड़न स्तर
+title: "PngOptions.DefaultCompressionLevel"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "PngOptions फ़ील्ड। डिफ़ॉल्ट संपीड़न स्तर।"
 type: docs
 weight: 80
 url: /hi/net/aspose.psd.imageoptions/pngoptions/defaultcompressionlevel/
 ---
+{{< psd/tize >}}
 ## PngOptions.DefaultCompressionLevel field
 
 डिफ़ॉल्ट संपीड़न स्तर।
@@ -14,10 +15,10 @@ url: /hi/net/aspose.psd.imageoptions/pngoptions/defaultcompressionlevel/
 public const int DefaultCompressionLevel;
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * class [PngOptions](../)
-* नाम स्थान [Aspose.PSD.ImageOptions](../../pngoptions/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

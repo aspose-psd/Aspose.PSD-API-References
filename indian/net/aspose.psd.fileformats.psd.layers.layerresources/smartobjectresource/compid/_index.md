@@ -1,26 +1,27 @@
 ---
-title: SmartObjectResource.CompId
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: SmartObjectResource संपत्त. चइल्ड दस्तवेज़ के लए वर्तमन में चयनत COMP क आईड प्रप्त य सेट करत है ज 1 हग यद कई भ चयनत नहं है Comps पृष्ठ लेआउट क रचनएँ हैं ज डज़इनर बन सकते हैं लेयर कंप्स क उपयग करके आप एक ह Adobe Photoshop फ़इल में लेआउट के कई संस्करण बन प्रबंधत और देख सकते हैं एक परत कम्प परत पैनल क स्थत क एक स्नैपशट है परत कम्पस तन प्रकर के परत वकल्पं क सहेजते हैं लेकन यह संपत्त PSD फ़इल में स्मर्ट ऑब्जेक्ट परत के लए परत कम्प चयन पहचनकर्त प्रप्त करत है स्मर्ट ऑब्जेक्ट्स में लेयर कंप्स
+title: "SmartObjectResource.CompId"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "SmartObjectResource प्रॉपर्टी। वर्तमान में चयनित चाइल्ड दस्तावेज़ के लिए कंप का ID प्राप्त करता है या सेट करता है, यदि कोई चयनित नहीं है तो यह 1 होगा। कंप पेज लेआउट के संयोजन होते हैं जिन्हें डिजाइनर बना सकते हैं। लेयर कंप का उपयोग करके आप एक ही Adobe Photoshop फ़ाइल में लेआउट के कई संस्करण बना, प्रबंधित और देख सकते हैं। लेयर कंप लेयर्स पैनल की स्थिति का स्नैपशॉट है। लेयर कंप तीन प्रकार के लेयर विकल्प सहेजते हैं लेकिन यह प्रॉपर्टी PSD फ़ाइल में स्मार्ट ऑब्जेक्ट लेयर के लिए Layer Comp चयन पहचानकर्ता प्राप्त करती है। लेयर कंप Smart Objects में"
 type: docs
 weight: 30
 url: /hi/net/aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/compid/
 ---
+{{< psd/tize >}}
 ## SmartObjectResource.CompId property
 
-चाइल्ड दस्तावेज़ के लिए वर्तमान में चयनित COMP की आईडी प्राप्त या सेट करता है, जो -1 होगा यदि कोई भी चयनित नहीं है। Comps पृष्ठ लेआउट की रचनाएँ हैं जो डिज़ाइनर बना सकते हैं। लेयर कंप्स का उपयोग करके, आप एक ही Adobe® Photoshop® फ़ाइल में लेआउट के कई संस्करण बना, प्रबंधित और देख सकते हैं। एक परत कॉम्प परत पैनल की स्थिति का एक स्नैपशॉट है। परत कम्पास तीन प्रकार के परत विकल्पों को सहेजते हैं लेकिन यह संपत्ति PSD फ़ाइल में स्मार्ट ऑब्जेक्ट परत के लिए परत कॉम्प चयन पहचानकर्ता प्राप्त करती है। [स्मार्ट ऑब्जेक्ट्स में लेयर कंप्स](https://helpx.adobe.com/photoshop/using/layer-comps.html)
+वर्तमान में चयनित कंप का ID प्राप्त करता है या सेट करता है चाइल्ड दस्तावेज़ के लिए, यदि कोई चयनित नहीं है तो यह -1 होगा। कंप पेज लेआउट की रचनाएँ हैं जिन्हें डिजाइनर बना सकते हैं। लेयर कंप्स का उपयोग करके, आप एक ही Adobe Photoshop फ़ाइल में लेआउट के कई संस्करण बना, प्रबंधित और देख सकते हैं। एक लेयर कंप लेयर्स पैनल की स्थिति का स्नैपशॉट है। लेयर कंप्स तीन प्रकार के लेयर विकल्पों को सहेजते हैं लेकिन यह प्रॉपर्टी PSD फ़ाइल में स्मार्ट ऑब्जेक्ट लेयर के लिए लेयर कंप चयन पहचानकर्ता प्राप्त करती है। [Layer comps in Smart Objects](https://helpx.adobe.com/photoshop/using/layer-comps.html)
 
 ```csharp
 public int CompId { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-PSD छवि में चाइल्ड दस्तावेज़ के लिए वर्तमान में चयनित COMP की आईडी, जो -1 होगी यदि कोई भी चयनित नहीं है।
+PSD छवि में चाइल्ड दस्तावेज़ के लिए वर्तमान में चयनित कंप का ID, यदि कोई चयनित नहीं है तो यह -1 होगा।
 
-### उदाहरण
+## उदाहरण
 
-निम्न कोड SoLEResource, SmartObjectResource और PlacedResource संसाधनों के समर्थन को प्रदर्शित करता है।
+निम्नलिखित कोड SoLEResource, SmartObjectResource और PlacedResource रिसोर्सेज के समर्थन को दर्शाता है।
 
 ```csharp
 [C#]
@@ -106,7 +107,7 @@ void CheckSmartObjectResourceValues(object[] expectedValue, SmartObjectResource 
 
 void SetNewSmartValues(SmartObjectResource resource, object[] newValues)
 {
-    // यह मान हम संसाधन में नहीं बदलते हैं
+    // इन मानों को हम रिसोर्स में नहीं बदलते।
     newValues[0] = resource.IsCustom;
     newValues[1] = resource.UniqueId.ToString();
     newValues[5] = resource.PlacedLayerType;
@@ -114,8 +115,8 @@ void SetNewSmartValues(SmartObjectResource resource, object[] newValues)
     newValues[15] = resource.VOrder;
     newValues[28] = resource.OriginalCompId;
 
-    // यह मान PlLdResource (निर्दिष्ट UniqueId के साथ) में भी बदला जाना चाहिए
-    // और उनमें से कुछ को LinkDataSource में अंडरलाइनिंग स्मार्ट ऑब्जेक्ट के अनुरूप होना चाहिए
+    // इन मानों को PlLdResource (निर्दिष्ट UniqueId के साथ) में भी बदलना चाहिए।
+    // और उनमें से कुछ को LinkDataSource में अंडरलाइनिंग स्मार्ट ऑब्जेक्ट के अनुरूप होना चाहिए।
     resource.PageNumber = (int)newValues[2]; // 2;
     resource.TotalPages = (int)newValues[3]; // 3;
     resource.AntiAliasPolicy = (int)newValues[4]; // 0;
@@ -141,7 +142,7 @@ void SetNewSmartValues(SmartObjectResource resource, object[] newValues)
     resource.CompId = (int)newValues[27]; // 22;
     resource.NonAffineTransformMatrix = (double[])newValues[30];
 
-    // इस अनूठी आईडी को संदर्भों में बदला जाना चाहिए यदि कोई हो
+    // यदि कोई रेफ़रेंस है तो इस यूनिक आईडी को बदलना चाहिए।
     resource.PlacedId = new Guid((string)newValues[29]);  // "12345678-9abc-def0-9876-54321fecba98");
     if (resource.IsCustom)
     {
@@ -151,16 +152,18 @@ void SetNewSmartValues(SmartObjectResource resource, object[] newValues)
         resource.VerticalMeshPoints = (double[])newValues[34];
     }
 
-    // कुछ मापदंडों से सावधान रहें: सहेजी गई छवि Adobe® Photoshop® द्वारा अपठनीय हो सकती है
+    // कुछ पैरामीटरों के साथ सावधान रहें: सेव किया गया इमेज Adobe® Photoshop® द्वारा पढ़ा नहीं जा सकता।
     ////resource.UOrder = 6;
-    ////संसाधन। VOrder = 9;
+    ////resource.VOrder = 9;
 
-    // इसे कोई परिवर्तन न करें अन्यथा आप निःशुल्क रूपांतरण का उपयोग नहीं कर पाएंगे
-    // या अंडरलाइनिंग स्मार्ट ऑब्जेक्ट को वेक्टर प्रकार में बदलें
+    // इसे न बदलें, अन्यथा 
+ आप फ्री ट्रांसफ़ॉर्म का उपयोग नहीं कर पाएंगे।
+    // या 
+ अंडरलाइनिंग स्मार्ट ऑब्जेक्ट को वेक्टर टाइप में बदलें।
     ////resource.PlacedLayerType = PlacedLayerType.Vector;
 
-    // इस विशिष्ट आईडी के साथ मान्य PlLdResource होना चाहिए
-    ////resource.UniqueId = नया गाइड ("98765432-10fe-cba0-1234-56789abcdef0");
+    // इस यूनिक आईडी के साथ एक वैध PlLdResource होना चाहिए।
+    ////resource.UniqueId = new Guid("98765432-10fe-cba0-1234-56789abcdef0");
 }
 
 object[] newSmartValues = new object[]
@@ -323,12 +326,12 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
 }
 ```
 
-निम्न कोड SoLdResource संसाधन के समर्थन को प्रदर्शित करता है।
+निम्नलिखित कोड SoLdResource रिसोर्स के समर्थन को दर्शाता है।
 
 ```csharp
 [C#]
 
-// यह उदाहरण दिखाता है कि PSD फ़ाइल के स्मार्ट ऑब्जेक्ट लेयर डेटा गुण कैसे प्राप्त करें या सेट करें।
+// यह उदाहरण दिखाता है कि PSD फ़ाइल के स्मार्ट ऑब्जेक्ट लेयर डेटा प्रॉपर्टीज़ को कैसे प्राप्त या सेट किया जाए।
 
 void AssertAreEqual(object actual, object expected)
 {
@@ -562,8 +565,8 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
                     resource.HorizontalMeshPoints = temp;
                 }
 
-                // यह मान PlLdResource (निर्दिष्ट UniqueId के साथ) में भी बदला जाना चाहिए
-                // और उनमें से कुछ को LinkDataSource में अंडरलाइनिंग स्मार्ट ऑब्जेक्ट के अनुरूप होना चाहिए
+                // इन मानों को PlLdResource (निर्दिष्ट UniqueId के साथ) में भी बदलना चाहिए।
+                // और उनमें से कुछ को LinkDataSource में अंडरलाइनिंग स्मार्ट ऑब्जेक्ट के अनुरूप होना चाहिए।
                 resource.PageNumber = 2;
                 resource.TotalPages = 3;
                 resource.AntiAliasPolicy = 0;
@@ -608,19 +611,21 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
                     42
                 };
 
-                // इस अनूठी आईडी को संदर्भों में बदला जाना चाहिए यदि कोई हो
+                // यदि कोई रेफ़रेंस है तो इस यूनिक आईडी को बदलना चाहिए।
                 resource.PlacedId = new Guid("12345678-9abc-def0-9876-54321fecba98");
 
-                // कुछ मापदंडों से सावधान रहें: छवि Adobe® Photoshop® द्वारा अपठनीय हो सकती है
+                // कुछ पैरामीटर्स के साथ सावधान रहें: इमेज Adobe® Photoshop® द्वारा अपठनीय हो सकती है।
                 ////resource.UOrder = 6;
-                ////संसाधन। VOrder = 9;
+                ////resource.VOrder = 9;
 
-                // इसे कोई परिवर्तन न करें अन्यथा आप निःशुल्क रूपांतरण का उपयोग नहीं कर पाएंगे
-                // या अंडरलाइनिंग स्मार्ट ऑब्जेक्ट को वेक्टर प्रकार में बदलें
+                // इसे न बदलें, अन्यथा 
+ आप फ्री ट्रांसफ़ॉर्म का उपयोग नहीं कर पाएंगे।
+                // या 
+ अंडरलाइनिंग स्मार्ट ऑब्जेक्ट को वेक्टर टाइप में बदलें।
                 ////resource.PlacedLayerType = PlacedLayerType.Vector;
 
-                // इस विशिष्ट आईडी के साथ मान्य PlLdResource होना चाहिए
-                ////resource.UniqueId = नया गाइड ("98765432-10fe-cba0-1234-56789abcdef0");
+                // इस यूनिक आईडी के साथ एक वैध PlLdResource होना चाहिए।
+                ////resource.UniqueId = new Guid("98765432-10fe-cba0-1234-56789abcdef0");
 
                 break;
             }
@@ -632,10 +637,10 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
 }
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * class [SmartObjectResource](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../smartobjectresource/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

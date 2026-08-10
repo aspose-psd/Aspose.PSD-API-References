@@ -1,28 +1,29 @@
 ---
-title: Layer.BlendingOptions
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Layer संपत्त. सम्मश्रण वकल्प प्रप्त करत है
+title: "Layer.BlendingOptions"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Layer property. ब्लेंडिंग विकल्प प्राप्त करता है"
 type: docs
-weight: 30
+weight: 40
 url: /hi/net/aspose.psd.fileformats.psd.layers/layer/blendingoptions/
 ---
+{{< psd/tize >}}
 ## Layer.BlendingOptions property
 
-सम्मिश्रण विकल्प प्राप्त करता है।
+मिश्रण विकल्प प्राप्त करता है।
 
 ```csharp
 public BlendingOptions BlendingOptions { get; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-सम्मिश्रण विकल्प।
+ब्लेंडिंग विकल्प।
 
-### यह सभी देखें
+### देखें भी
 
 * class [BlendingOptions](../../../aspose.psd.fileformats.psd.layers.layereffects/blendingoptions/)
 * class [Layer](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers](../../layer/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

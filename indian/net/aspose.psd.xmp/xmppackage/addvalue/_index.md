@@ -1,11 +1,12 @@
 ---
-title: XmpPackage.AddValue
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: XmpPackage तरक. मन जड़त है
+title: "XmpPackage.AddValue"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "XmpPackage विधि। मान जोड़ता है।"
 type: docs
 weight: 60
 url: /hi/net/aspose.psd.xmp/xmppackage/addvalue/
 ---
+{{< psd/tize >}}
 ## XmpPackage.AddValue method
 
 मान जोड़ता है।
@@ -14,21 +15,21 @@ url: /hi/net/aspose.psd.xmp/xmppackage/addvalue/
 public virtual void AddValue(string key, string value)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| key | String | कुंजी का स्ट्रिंग प्रतिनिधित्व जो अतिरिक्त मूल्य के साथ पहचाना जाता है। |
-| value | String | जोड़ने के लिए मूल्य। |
+| कुंजी | String | जोड़े गए मान के साथ पहचाने गए कुंजी का स्ट्रिंग प्रतिनिधित्व। |
+| मान | String | जोड़ने के लिए मान। |
 
 ### अपवाद
 
-| अपवाद | स्थिति |
+| अपवाद | शर्त |
 | --- | --- |
-| ArgumentNullException | कुंजी शून्य है। |
+| ArgumentNullException | कुंजी null है। |
 
-### यह सभी देखें
+### देखें भी
 
 * class [XmpPackage](../)
-* नाम स्थान [Aspose.PSD.Xmp](../../xmppackage/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

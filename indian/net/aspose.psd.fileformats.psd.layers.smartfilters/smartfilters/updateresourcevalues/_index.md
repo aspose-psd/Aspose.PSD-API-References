@@ -1,23 +1,24 @@
 ---
-title: SmartFilters.UpdateResourceValues
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: SmartFilters तरक. स्मर्ट फ़ल्टर डेट क इसमें अपडेट करत हैSmartObjectResource .
+title: "SmartFilters.UpdateResourceValues"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "SmartFilters विधि. स्मार्ट फ़िल्टर डेटा को SmartObjectResource में अपडेट करता है।"
 type: docs
 weight: 70
 url: /hi/net/aspose.psd.fileformats.psd.layers.smartfilters/smartfilters/updateresourcevalues/
 ---
+{{< psd/tize >}}
 ## SmartFilters.UpdateResourceValues method
 
-स्मार्ट फ़िल्टर डेटा को इसमें अपडेट करता है[`SmartObjectResource`](../../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/) .
+स्मार्ट फ़िल्टर डेटा को [`SmartObjectResource`](../../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/) में अपडेट करता है।
 
 ```csharp
 public void UpdateResourceValues()
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * class [SmartFilters](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.SmartFilters](../../smartfilters/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.SmartFilters](../../../aspose.psd.fileformats.psd.layers.smartfilters/)
+* assembly [Aspose.PSD](../../../)
 
 

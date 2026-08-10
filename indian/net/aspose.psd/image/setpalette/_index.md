@@ -1,29 +1,30 @@
 ---
-title: Image.SetPalette
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Image तरक. इमेज पैलेट सेट करत है.
+title: "Image.SetPalette"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Image मेथड। छवि पैलेट सेट करता है।"
 type: docs
-weight: 240
+weight: 250
 url: /hi/net/aspose.psd/image/setpalette/
 ---
+{{< psd/tize >}}
 ## Image.SetPalette method
 
-इमेज पैलेट सेट करता है.
+इमेज पैलेट सेट करता है।
 
 ```csharp
 public abstract void SetPalette(IColorPalette palette, bool updateColors)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| palette | IColorPalette | सेट करने के लिए पैलेट. |
-| updateColors | Boolean | अगर पर सेट है`सत्य` रंगों को नए पैलेट के अनुसार अपडेट किया जाएगा; अन्यथा रंग सूचकांक अपरिवर्तित रहते हैं। ध्यान दें कि यदि कुछ अनुक्रमणिकाओं में संबंधित पैलेट प्रविष्टियाँ नहीं हैं, तो अपरिवर्तित अनुक्रमणिका छवि को लोड होने पर क्रैश कर सकती हैं। |
+| पैलेट | IColorPalette | सेट करने के लिए पैलेट। |
+| updateColors | बूलियन | यदि `true` पर सेट किया जाता है तो रंग नई पैलेट के अनुसार अपडेट हो जाएंगे; अन्यथा रंग इंडेक्स अपरिवर्तित रहेंगे। ध्यान दें कि अपरिवर्तित इंडेक्स लोडिंग के दौरान इमेज को क्रैश कर सकते हैं यदि कुछ इंडेक्स के लिए संबंधित पैलेट एंट्री नहीं है। |
 
-### यह सभी देखें
+### देखें भी
 
 * interface [IColorPalette](../../icolorpalette/)
 * class [Image](../)
-* नाम स्थान [Aspose.PSD](../../image/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

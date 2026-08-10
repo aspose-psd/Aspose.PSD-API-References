@@ -1,33 +1,34 @@
 ---
-title: IOSTypeStructureLoader.Load
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: IOSTypeStructureLoader तरक. लड करत हैOSTypeStructure .
+title: "IOSTypeStructureLoader.Load"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "IOSTypeStructureLoader मेथड। OSTypeStructure को लोड करता है"
 type: docs
 weight: 20
 url: /hi/net/aspose.psd.fileformats.psd.layers.layerresources/iostypestructureloader/load/
 ---
+{{< psd/tize >}}
 ## IOSTypeStructureLoader.Load method
 
-लोड करता है[`OSTypeStructure`](../../ostypestructure/) .
+[`OSTypeStructure`](../../ostypestructure/) को लोड करता है।
 
 ```csharp
 public OSTypeStructure Load(StreamContainer streamContainer)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| streamContainer | StreamContainer | वह स्ट्रीम कंटेनर जिससे लोड किया जाना है. |
+| streamContainer | StreamContainer | लोड करने के लिए स्ट्रीम कंटेनर। |
 
-### प्रतिलाभ की मात्रा
+### रिटर्न वैल्यू
 
-भरी हुई[`OSTypeStructure`](../../ostypestructure/) संसाधन.
+लोड किया गया [`OSTypeStructure`](../../ostypestructure/) रिसोर्स।
 
-### यह सभी देखें
+### देखें भी
 
 * class [OSTypeStructure](../../ostypestructure/)
 * class [StreamContainer](../../../aspose.psd/streamcontainer/)
 * interface [IOSTypeStructureLoader](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../iostypestructureloader/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

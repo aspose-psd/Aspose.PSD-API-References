@@ -1,54 +1,55 @@
 ---
-title: XmpGuid.XmpGuid
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: XmpGuid नर्मत. क एक नय उदहरण प्ररंभ करत हैXmpGuid वर्ग.
+title: "XmpGuid.XmpGuid"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "XmpGuid कंस्ट्रक्टर। XmpGuid क्लास का एक नया उदाहरण प्रारंभ करता है"
 type: docs
 weight: 10
 url: /hi/net/aspose.psd.xmp.types.derived/xmpguid/xmpguid/
 ---
+{{< psd/tize >}}
 ## XmpGuid(string) {#constructor_1}
 
-का एक नया उदाहरण प्रारंभ करता है[`XmpGuid`](../) वर्ग.
+[`XmpGuid`](../) क्लास का एक नया उदाहरण प्रारंभ करता है।
 
 ```csharp
 public XmpGuid(string value)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| value | String | मूल्य। |
+| मान | String | मान। |
 
 ### अपवाद
 
-| अपवाद | स्थिति |
+| अपवाद | शर्त |
 | --- | --- |
-| ArgumentNullException | मान शून्य है। |
-| ArgumentException | अमान्य गाइड मान; मूल्य |
+| ArgumentNullException | मान null है। |
+| ArgumentException | अमान्य guid मान;value |
 
-### यह सभी देखें
+### देखें भी
 
 * class [XmpGuid](../)
-* नाम स्थान [Aspose.PSD.Xmp.Types.Derived](../../xmpguid/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Derived](../../../aspose.psd.xmp.types.derived/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## XmpGuid(Guid) {#constructor}
 
-का एक नया उदाहरण प्रारंभ करता है[`XmpGuid`](../) वर्ग.
+[`XmpGuid`](../) क्लास का एक नया उदाहरण प्रारंभ करता है।
 
 ```csharp
 public XmpGuid(Guid guid)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
 | guid | Guid | अद्वितीय पहचानकर्ता। |
 
-### यह सभी देखें
+### देखें भी
 
 * class [XmpGuid](../)
-* नाम स्थान [Aspose.PSD.Xmp.Types.Derived](../../xmpguid/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Derived](../../../aspose.psd.xmp.types.derived/)
+* assembly [Aspose.PSD](../../../)
 
 

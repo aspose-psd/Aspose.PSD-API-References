@@ -1,29 +1,30 @@
 ---
-title: PsdImage.ReplaceColor
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: PsdImage तरक. अनुमत अंतर के सथ एक रंग क दूसरे रंग में बदलत है और चकन कनरं क बचने के लए मूल अल्फ मन क संरक्षत करत है
+title: "PsdImage.ReplaceColor"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "PsdImage मेथड। अनुमत अंतर के साथ एक रंग को दूसरे में बदलता है और स्मूद किनारों को बचाने के लिए मूल अल्फा मान को संरक्षित रखता है।"
 type: docs
-weight: 570
+weight: 630
 url: /hi/net/aspose.psd.fileformats.psd/psdimage/replacecolor/
 ---
+{{< psd/tize >}}
 ## PsdImage.ReplaceColor method
 
-अनुमत अंतर के साथ एक रंग को दूसरे रंग में बदलता है और चिकनी किनारों को बचाने के लिए मूल अल्फा मान को संरक्षित करता है।
+अनुमत अंतर के साथ एक रंग को दूसरे से बदलता है और स्मूद एजेज़ को बचाने के लिए मूल अल्फा वैल्यू को संरक्षित रखता है।
 
 ```csharp
 public override void ReplaceColor(int oldColorArgb, byte oldColorDiff, int newColorArgb)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| oldColorArgb | Int32 | पुराना रंग ARGB मान बदला जाना है। |
-| oldColorDiff | Byte | बदले हुए रंग टोन को चौड़ा करने में सक्षम होने के लिए पुराने रंग में अनुमत अंतर। |
-| newColorArgb | Int32 | पुराने रंग को बदलने के लिए नया रंग ARGB मान। |
+| oldColorArgb | Int32 | बदलने के लिए पुराने रंग का ARGB मान। |
+| oldColorDiff | बाइट | बदले गए रंग टोन को विस्तारित करने के लिए पुराने रंग में अनुमत अंतर। |
+| newColorArgb | Int32 | पुराने रंग को बदलने के लिए नया रंग का ARGB मान। |
 
-### यह सभी देखें
+### देखें भी
 
 * class [PsdImage](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

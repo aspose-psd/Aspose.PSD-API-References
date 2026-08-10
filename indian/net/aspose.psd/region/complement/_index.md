@@ -1,102 +1,103 @@
 ---
-title: Region.Complement
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Region तरक. इसे अपडेट करत हैRegion नर्दष्ट के हस्से क शमल करने के लएRectangleF संरचन ज इसके सथ प्रतच्छेद नहं करत हैRegion .
+title: "Region.Complement"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Region मेथड। इस Region को अपडेट करता है ताकि यह निर्दिष्ट RectangleF संरचना के उस भाग को शामिल करे जो इस Region के साथ प्रतिच्छेद नहीं करता।"
 type: docs
 weight: 20
 url: /hi/net/aspose.psd/region/complement/
 ---
+{{< psd/tize >}}
 ## Complement(RectangleF) {#complement_2}
 
-इसे अपडेट करता है[`Region`](../) निर्दिष्ट के हिस्से को शामिल करने के लिए[`RectangleF`](../../rectanglef/) संरचना जो इसके साथ प्रतिच्छेद नहीं करती है[`Region`](../) .
+इस [`Region`](../) को अपडेट करता है ताकि यह निर्दिष्ट [`RectangleF`](../../rectanglef/) संरचना के उस भाग को शामिल करे जो इस [`Region`](../) के साथ प्रतिच्छेद नहीं करता।
 
 ```csharp
 public void Complement(RectangleF rect)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| rect | RectangleF | [`RectangleF`](../../rectanglef/) इसके पूरक के लिए संरचना[`Region`](../). |
+| rect | RectangleF | यह [`RectangleF`](../../rectanglef/) संरचना इस [`Region`](../) को पूरक करने के लिए है। |
 
-### यह सभी देखें
+### देखें भी
 
 * struct [RectangleF](../../rectanglef/)
 * class [Region](../)
-* नाम स्थान [Aspose.PSD](../../region/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Complement(Rectangle) {#complement_1}
 
-इसे अपडेट करता है[`Region`](../) निर्दिष्ट के हिस्से को शामिल करने के लिए[`Rectangle`](../../rectangle/) संरचना जो इसके साथ प्रतिच्छेद नहीं करती है[`Region`](../) .
+इस [`Region`](../) को अपडेट करता है ताकि यह निर्दिष्ट [`Rectangle`](../../rectangle/) संरचना के उस भाग को शामिल करे जो इस [`Region`](../) के साथ प्रतिच्छेद नहीं करता।
 
 ```csharp
 public void Complement(Rectangle rect)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| rect | Rectangle | [`Rectangle`](../../rectangle/) इसके पूरक के लिए संरचना[`Region`](../). |
+| rect | Rectangle | यह [`Rectangle`](../../rectangle/) संरचना इस [`Region`](../) को पूरक करने के लिए है। |
 
-### यह सभी देखें
+### देखें भी
 
 * struct [Rectangle](../../rectangle/)
 * class [Region](../)
-* नाम स्थान [Aspose.PSD](../../region/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Complement(GraphicsPath) {#complement}
 
-इसे अपडेट करता है[`Region`](../) निर्दिष्ट के हिस्से को शामिल करने के लिए[`GraphicsPath`](../../graphicspath/) यह इसके साथ प्रतिच्छेद नहीं करता है[`Region`](../) .
+इस [`Region`](../) को अपडेट करता है ताकि यह निर्दिष्ट [`GraphicsPath`](../../graphicspath/) के उस भाग को शामिल करे जो इस [`Region`](../) के साथ प्रतिच्छेद नहीं करता।
 
 ```csharp
 public void Complement(GraphicsPath path)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| path | GraphicsPath | [`GraphicsPath`](../../graphicspath/) इसे पूरा करने के लिए[`Region`](../). |
+| path | GraphicsPath | यह [`GraphicsPath`](../../graphicspath/) इस [`Region`](../) को पूरक करने के लिए है। |
 
 ### अपवाद
 
-| अपवाद | स्थिति |
+| अपवाद | शर्त |
 | --- | --- |
-| ArgumentNullException | *path*शून्य. |
+| ArgumentNullException | *path* शून्य है। |
 
-### यह सभी देखें
+### देखें भी
 
 * class [GraphicsPath](../../graphicspath/)
 * class [Region](../)
-* नाम स्थान [Aspose.PSD](../../region/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Complement(Region) {#complement_3}
 
-इसे अपडेट करता है[`Region`](../) निर्दिष्ट के हिस्से को शामिल करने के लिए[`Region`](../) यह इसके साथ प्रतिच्छेद नहीं करता है[`Region`](../) .
+इस [`Region`](../) को अपडेट करता है ताकि यह निर्दिष्ट [`Region`](../) के उस भाग को शामिल करे जो इस [`Region`](../) के साथ प्रतिच्छेद नहीं करता।
 
 ```csharp
 public void Complement(Region region)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| region | Region | [`Region`](../) इसके पूरक के लिए आपत्ति[`Region`](../) वस्तु। |
+| region | Region | यह [`Region`](../) ऑब्जेक्ट इस [`Region`](../) ऑब्जेक्ट को पूरक करने के लिए है। |
 
 ### अपवाद
 
-| अपवाद | स्थिति |
+| अपवाद | शर्त |
 | --- | --- |
-| ArgumentNullException | *region*शून्य. |
+| ArgumentNullException | *region* शून्य है। |
 
-### यह सभी देखें
+### देखें भी
 
 * class [Region](../)
-* नाम स्थान [Aspose.PSD](../../region/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

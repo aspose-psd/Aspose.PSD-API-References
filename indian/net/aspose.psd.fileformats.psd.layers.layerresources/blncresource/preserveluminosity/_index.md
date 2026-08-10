@@ -1,27 +1,28 @@
 ---
-title: BlncResource.PreserveLuminosity
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: BlncResource संपत्त. एक मन प्रप्त करत है य सेट करत है ज दर्शत है क यहBlncResource चमक बरकरर रखत है.
+title: "BlncResource.PreserveLuminosity"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "BlncResource प्रॉपर्टी। यह दर्शाने वाला मान प्राप्त करता है या सेट करता है कि यह BlncResource ल्यूमिनोसिटी को संरक्षित करता है या नहीं"
 type: docs
-weight: 100
+weight: 90
 url: /hi/net/aspose.psd.fileformats.psd.layers.layerresources/blncresource/preserveluminosity/
 ---
+{{< psd/tize >}}
 ## BlncResource.PreserveLuminosity property
 
-एक मान प्राप्त करता है या सेट करता है जो दर्शाता है कि यह[`BlncResource`](../) चमक बरकरार रखता है.
+यह दर्शाने वाला मान प्राप्त करता है या सेट करता है कि यह [`BlncResource`](../) ल्यूमिनोसिटी को संरक्षित करता है या नहीं।
 
 ```csharp
 public bool PreserveLuminosity { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-`सत्य` अगर यह चमक बरकरार रखता है; अन्यथा,`असत्य` .
+`true` यदि यह चमक को संरक्षित करता है; अन्यथा, `false`।
 
-### यह सभी देखें
+### देखें भी
 
 * class [BlncResource](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../blncresource/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,22 +1,29 @@
 ---
-title: Class ImageExtensions
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Aspose.PSD.Extensions.ImageExtensions कक्ष. पर आधरत रूपंतरणं के लए वस्तर वधयँ शमल हैंImage औरImage .
+title: "क्लास ImageExtensions"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Aspose.PSD.Extensions.ImageExtensions क्लास। Image और Image पर आधारित रूपांतरणों के लिए एक्सटेंशन मेथड्स शामिल हैं।"
 type: docs
-weight: 1120
+weight: 1130
 url: /hi/net/aspose.psd.extensions/imageextensions/
 ---
+{{< psd/tize >}}
 ## ImageExtensions class
 
-पर आधारित रूपांतरणों के लिए विस्तार विधियाँ शामिल हैंImage और[`Image`](../../aspose.psd/image/) .
+Image और Image के आधार पर रूपांतरणों के लिए एक्सटेंशन मेथड्स शामिल हैं
 
 ```csharp
 public static class ImageExtensions
 ```
 
-### यह सभी देखें
+## मेथड्स
 
-* नाम स्थान [Aspose.PSD.Extensions](../../aspose.psd.extensions/)
-* सभा [Aspose.PSD](../../)
+| नाम | विवरण |
+| --- | --- |
+| static [ToGdiImage](../../aspose.psd.extensions/imageextensions/togdiimage/)(Image) | Image को Image में परिवर्तित करता है। |
+
+### देखें भी
+
+* namespace [Aspose.PSD.Extensions](../../aspose.psd.extensions/)
+* assembly [Aspose.PSD](../../)
 
 

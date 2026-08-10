@@ -1,27 +1,28 @@
 ---
-title: OuterGlowEffect.IsSoftBlend
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: OuterGlowEffect संपत्त. एक मन प्रप्त य सेट करत है ज दर्शत है क नक आउट है
+title: "OuterGlowEffect.IsSoftBlend"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "OuterGlowEffect property. प्राप्त करता है या सेट करता है एक मान जो दर्शाता है कि नॉक आउट है या नहीं"
 type: docs
 weight: 60
 url: /hi/net/aspose.psd.fileformats.psd.layers.layereffects/outergloweffect/issoftblend/
 ---
+{{< psd/tize >}}
 ## OuterGlowEffect.IsSoftBlend property
 
-एक मान प्राप्त या सेट करता है जो दर्शाता है कि [नॉक आउट] है।
+एक मान प्राप्त करता है या सेट करता है जो दर्शाता है कि क्या [knocks out]।
 
 ```csharp
 public bool IsSoftBlend { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-`सत्य`अगर [नॉक आउट]; अन्यथा,`असत्य` .
+`true` यदि [knocks out]; अन्यथा, `false`.
 
-### यह सभी देखें
+### देखें भी
 
 * class [OuterGlowEffect](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../outergloweffect/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../../)
 
 

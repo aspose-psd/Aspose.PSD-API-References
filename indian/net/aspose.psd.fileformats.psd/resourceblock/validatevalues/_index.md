@@ -1,23 +1,24 @@
 ---
-title: ResourceBlock.ValidateValues
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: ResourceBlock तरक. संसधन मनं क पुष्ट करत है.
+title: "ResourceBlock.ValidateValues"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "ResourceBlock विधि. संसाधन मानों को मान्य करता है"
 type: docs
 weight: 80
 url: /hi/net/aspose.psd.fileformats.psd/resourceblock/validatevalues/
 ---
+{{< psd/tize >}}
 ## ResourceBlock.ValidateValues method
 
-संसाधन मानों की पुष्टि करता है.
+संसाधन मानों को मान्य करता है।
 
 ```csharp
 public virtual void ValidateValues()
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * class [ResourceBlock](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd](../../resourceblock/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: ImageOptionsBase.Clone
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: ImageOptionsBase तरक. इस उदहरण क क्लन करत है
+title: "ImageOptionsBase.Clone"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "ImageOptionsBase मेथड। इस इंस्टेंस की क्लोन बनाता है"
 type: docs
 weight: 110
 url: /hi/net/aspose.psd/imageoptionsbase/clone/
 ---
+{{< psd/tize >}}
 ## ImageOptionsBase.Clone method
 
-इस उदाहरण को क्लोन करता है।
+इस इंस्टेंस की क्लोन बनाता है।
 
 ```csharp
 public virtual ImageOptionsBase Clone()
 ```
 
-### प्रतिलाभ की मात्रा
+### रिटर्न वैल्यू
 
-इस उदाहरण की उथली प्रति लौटाता है
+इस इंस्टेंस की उथली (shallow) कॉपी लौटाता है
 
-### यह सभी देखें
+### देखें भी
 
 * class [ImageOptionsBase](../)
-* नाम स्थान [Aspose.PSD](../../imageoptionsbase/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

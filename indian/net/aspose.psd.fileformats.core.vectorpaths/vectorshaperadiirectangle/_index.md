@@ -1,14 +1,15 @@
 ---
-title: Class VectorShapeRadiiRectangle
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Aspose.PSD.FileFormats.Core.VectorPaths.VectorShapeRadiiRectangle कक्ष. वेक्टर आकर त्रज्य आयत वर्ग क परभषत करत है
+title: "क्लास VectorShapeRadiiRectangle"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Aspose.PSD.FileFormats.Core.VectorPaths.VectorShapeRadiiRectangle क्लास। वेक्टर आकार त्रिज्या आयत वर्ग को परिभाषित करता है।"
 type: docs
-weight: 1450
+weight: 1460
 url: /hi/net/aspose.psd.fileformats.core.vectorpaths/vectorshaperadiirectangle/
 ---
+{{< psd/tize >}}
 ## VectorShapeRadiiRectangle class
 
-वेक्टर आकार त्रिज्या आयत वर्ग को परिभाषित करता है
+वेक्टर शैप रेडियाई रेक्टेंगल क्लास को परिभाषित करता है
 
 ```csharp
 public sealed class VectorShapeRadiiRectangle
@@ -18,26 +19,26 @@ public sealed class VectorShapeRadiiRectangle
 
 | नाम | विवरण |
 | --- | --- |
-| [VectorShapeRadiiRectangle](vectorshaperadiirectangle/)() | डिफ़ॉल्ट कंस्ट्रक्टर। |
+| [VectorShapeRadiiRectangle](vectorshaperadiirectangle/)() | डिफ़ॉल्ट कन्स्ट्रक्टर। |
 
-## गुण
+## प्रॉपर्टीज़
 
 | नाम | विवरण |
 | --- | --- |
-| [BottomLeft](../../aspose.psd.fileformats.core.vectorpaths/vectorshaperadiirectangle/bottomleft/) { get; set; } | नीचे जाता है या सेट करता है। |
-| [BottomRight](../../aspose.psd.fileformats.core.vectorpaths/vectorshaperadiirectangle/bottomright/) { get; set; } | नीचे दाईं ओर जाता है या सेट करता है। |
-| [QuadVersion](../../aspose.psd.fileformats.core.vectorpaths/vectorshaperadiirectangle/quadversion/) { get; set; } | इकाई मान क्वाड संस्करण प्राप्त या सेट करता है। |
-| [TopLeft](../../aspose.psd.fileformats.core.vectorpaths/vectorshaperadiirectangle/topleft/) { get; set; } | शीर्ष बाईं ओर हो जाता है या सेट करता है। |
-| [TopRight](../../aspose.psd.fileformats.core.vectorpaths/vectorshaperadiirectangle/topright/) { get; set; } | शीर्ष दाईं ओर जाता है या सेट करता है। |
+| [BottomLeft](../../aspose.psd.fileformats.core.vectorpaths/vectorshaperadiirectangle/bottomleft/) { get; set; } | नीचे को प्राप्त करता है या सेट करता है। |
+| [BottomRight](../../aspose.psd.fileformats.core.vectorpaths/vectorshaperadiirectangle/bottomright/) { get; set; } | निचला दायाँ को प्राप्त करता है या सेट करता है। |
+| [QuadVersion](../../aspose.psd.fileformats.core.vectorpaths/vectorshaperadiirectangle/quadversion/) { get; set; } | इकाई मान क्वाड संस्करण को प्राप्त करता है या सेट करता है। |
+| [TopLeft](../../aspose.psd.fileformats.core.vectorpaths/vectorshaperadiirectangle/topleft/) { get; set; } | ऊपरी बायाँ को प्राप्त करता है या सेट करता है। |
+| [TopRight](../../aspose.psd.fileformats.core.vectorpaths/vectorshaperadiirectangle/topright/) { get; set; } | ऊपरी दायाँ को प्राप्त करता है या सेट करता है। |
 
-### उदाहरण
+## उदाहरण
 
-यह उदाहरण दर्शाता है कि आकार परतों और सदिश पथों के साथ PSD छवि को लोड करना और सहेजना सही ढंग से काम करता है।
+यह उदाहरण दर्शाता है कि आकार लेयर और वेक्टर पाथ के साथ PSD छवि को लोड और सहेजना सही ढंग से काम करता है।
 
 ```csharp
 [C#]
 
-// यह उदाहरण प्रदर्शित करता है कि आकार परतों और सदिश पथों के साथ PSD छवि को लोड करना और सहेजना सही ढंग से काम करता है।
+// यह उदाहरण दर्शाता है कि आकार लेयर और वेक्टर पाथ के साथ PSD छवि को लोड और सहेजना सही ढंग से काम करता है।
 string sourcePath = "vectorShapes.psd";
 string outputFilePath = "output_vectorShapes.psd";
 using (PsdImage image = (PsdImage)Image.Load(sourcePath))
@@ -162,9 +163,9 @@ void AssertAreEqual(object expected, object actual, string message = null)
 }
 ```
 
-### यह सभी देखें
+### देखें भी
 
-* नाम स्थान [Aspose.PSD.FileFormats.Core.VectorPaths](../../aspose.psd.fileformats.core.vectorpaths/)
-* सभा [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../)
 
 

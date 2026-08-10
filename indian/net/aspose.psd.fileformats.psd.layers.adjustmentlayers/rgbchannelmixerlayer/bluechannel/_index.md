@@ -1,28 +1,29 @@
 ---
-title: RgbChannelMixerLayer.BlueChannel
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: RgbChannelMixerLayer संपत्त. ब्लू चैनल प्रप्त करत है
+title: "RgbChannelMixerLayer.BlueChannel"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "RgbChannelMixerLayer प्रॉपर्टी। नीला चैनल प्राप्त करता है"
 type: docs
 weight: 10
 url: /hi/net/aspose.psd.fileformats.psd.layers.adjustmentlayers/rgbchannelmixerlayer/bluechannel/
 ---
+{{< psd/tize >}}
 ## RgbChannelMixerLayer.BlueChannel property
 
-ब्लू चैनल प्राप्त करता है।
+नीला चैनल प्राप्त करता है।
 
 ```csharp
 public RgbMixerChannel BlueChannel { get; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
 नीला चैनल।
 
-### यह सभी देखें
+### देखें भी
 
 * class [RgbMixerChannel](../../rgbmixerchannel/)
 * class [RgbChannelMixerLayer](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../rgbchannelmixerlayer/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,48 +1,49 @@
 ---
-title: PathGradientBrush.SetBlendTriangularShape
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: PathGradientBrush तरक. बच के रंग के सथ ग्रेडएंट बनत है और आसपस के रंग के लए एक रेखय फ़लऑफ़ बनत है.
+title: "PathGradientBrush.SetBlendTriangularShape"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "PathGradientBrush मेथड। एक ग्रेडिएंट बनाता है जिसमें केंद्र रंग और एक आसपास के रंग तक रैखिक फॉलऑफ़ होता है।"
 type: docs
-weight: 50
+weight: 60
 url: /hi/net/aspose.psd.brushes/pathgradientbrush/setblendtriangularshape/
 ---
+{{< psd/tize >}}
 ## SetBlendTriangularShape(float) {#setblendtriangularshape}
 
-बीच के रंग के साथ ग्रेडिएंट बनाता है और आस-पास के रंग के लिए एक रेखीय फ़ॉलऑफ़ बनाता है.
+एक ग्रेडिएंट बनाता है जिसमें केंद्र रंग है और एक आसपास के रंग तक रैखिक गिरावट होती है।
 
 ```csharp
 public void SetBlendTriangularShape(float focus)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| focus | Single | 0 से 1 तक का मान जो निर्दिष्ट करता है कि पथ के केंद्र से पथ की सीमा तक किसी भी रेडियल के साथ, केंद्र का रंग इसकी उच्चतम तीव्रता पर होगा। 1 का मान (डिफ़ॉल्ट) पथ के केंद्र में उच्चतम तीव्रता रखता है। |
+| फ़ोकस | Single | 0 से 1 के बीच का मान जो यह निर्दिष्ट करता है कि पथ के केंद्र से पथ की सीमा तक किसी भी रेडियल के साथ, केंद्र रंग अपनी अधिकतम तीव्रता पर कहाँ होगा। 1 का मान (डिफ़ॉल्ट) केंद्र पर सबसे अधिक तीव्रता रखता है। |
 
-### यह सभी देखें
+### देखें भी
 
 * class [PathGradientBrush](../)
-* नाम स्थान [Aspose.PSD.Brushes](../../pathgradientbrush/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## SetBlendTriangularShape(float, float) {#setblendtriangularshape_1}
 
-मध्य रंग के साथ एक ग्रेडिएंट बनाता है और प्रत्येक आसपास के रंग के लिए एक रेखीय फ़ॉलऑफ़ बनाता है।
+एक ग्रेडिएंट बनाता है जिसमें केंद्र रंग है और प्रत्येक आसपास के रंग तक रैखिक गिरावट होती है।
 
 ```csharp
 public void SetBlendTriangularShape(float focus, float scale)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| focus | Single | 0 से 1 तक का मान जो निर्दिष्ट करता है कि पथ के केंद्र से पथ की सीमा तक किसी भी रेडियल के साथ, केंद्र का रंग इसकी उच्चतम तीव्रता पर होगा। 1 का मान (डिफ़ॉल्ट) पथ के केंद्र में उच्चतम तीव्रता रखता है। |
-| scale | Single | से 1 तक का मान जो केंद्र रंग की अधिकतम तीव्रता निर्दिष्ट करता है जो सीमा रंग के साथ मिश्रित हो जाता है। 1 का मान केंद्र रंग की उच्चतम संभव तीव्रता का कारण बनता है, और यह डिफ़ॉल्ट मान है। |
+| फ़ोकस | Single | 0 से 1 के बीच का मान जो यह निर्दिष्ट करता है कि पथ के केंद्र से पथ की सीमा तक किसी भी रेडियल के साथ, केंद्र रंग अपनी अधिकतम तीव्रता पर कहाँ होगा। 1 का मान (डिफ़ॉल्ट) केंद्र पर सबसे अधिक तीव्रता रखता है। |
+| scale | Single | 0 से 1 के बीच का मान जो केंद्र रंग की अधिकतम तीव्रता को निर्दिष्ट करता है जो सीमा रंग के साथ मिश्रित होती है। 1 का मान केंद्र रंग की सबसे अधिक संभव तीव्रता देता है, और यह डिफ़ॉल्ट मान है। |
 
-### यह सभी देखें
+### देखें भी
 
 * class [PathGradientBrush](../)
-* नाम स्थान [Aspose.PSD.Brushes](../../pathgradientbrush/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
+* assembly [Aspose.PSD](../../../)
 
 

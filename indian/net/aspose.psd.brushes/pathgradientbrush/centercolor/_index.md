@@ -1,28 +1,29 @@
 ---
-title: PathGradientBrush.CenterColor
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: PathGradientBrush संपत्त. पथ ढल के केंद्र में रंग प्रप्त य सेट करत है
+title: "PathGradientBrush.CenterColor"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "PathGradientBrush प्रॉपर्टी। पथ ग्रेडिएंट के केंद्र पर रंग प्राप्त करता है या सेट करता है।"
 type: docs
 weight: 30
 url: /hi/net/aspose.psd.brushes/pathgradientbrush/centercolor/
 ---
+{{< psd/tize >}}
 ## PathGradientBrush.CenterColor property
 
-पथ ढाल के केंद्र में रंग प्राप्त या सेट करता है।
+पथ ग्रेडिएंट के केंद्र पर रंग प्राप्त करता है या सेट करता है।
 
 ```csharp
 public Color CenterColor { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-ए[`Color`](../../../aspose.psd/color/) जो पथ ग्रेडिएंट के केंद्र में रंग का प्रतिनिधित्व करता है।
+एक [`Color`](../../../aspose.psd/color/) जो पथ ग्रेडिएंट के केंद्र पर रंग को दर्शाता है।
 
-### यह सभी देखें
+### देखें भी
 
 * struct [Color](../../../aspose.psd/color/)
 * class [PathGradientBrush](../)
-* नाम स्थान [Aspose.PSD.Brushes](../../pathgradientbrush/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,23 +1,24 @@
 ---
-title: PsdImage.FlattenImage
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: PsdImage तरक. सभ परतं क समतल करत है.
+title: "PsdImage.FlattenImage"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "PsdImage मेथड। सभी लेयर्स को फ्लैट करता है"
 type: docs
-weight: 540
+weight: 600
 url: /hi/net/aspose.psd.fileformats.psd/psdimage/flattenimage/
 ---
+{{< psd/tize >}}
 ## PsdImage.FlattenImage method
 
-सभी परतों को समतल करता है.
+सभी लेयरों को सपाट करता है।
 
 ```csharp
 public void FlattenImage()
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * class [PsdImage](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

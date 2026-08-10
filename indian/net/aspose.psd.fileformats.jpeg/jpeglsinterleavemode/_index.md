@@ -1,11 +1,12 @@
 ---
-title: Enum JpegLsInterleaveMode
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Aspose.PSD.FileFormats.Jpeg.JpegLsInterleaveMode एनुम. बहुघटक रंग पक्सेल डेट के लए इंटरलव मड क परभषत करत है
+title: "Enum JpegLsInterleaveMode"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Aspose.PSD.FileFormats.Jpeg.JpegLsInterleaveMode enum. बहु-घटक रंग पिक्सेल डेटा के लिए इंटरलीव मोड को परिभाषित करता है"
 type: docs
-weight: 1510
+weight: 1520
 url: /hi/net/aspose.psd.fileformats.jpeg/jpeglsinterleavemode/
 ---
+{{< psd/tize >}}
 ## JpegLsInterleaveMode enumeration
 
 बहु-घटक (रंग) पिक्सेल डेटा के लिए इंटरलीव मोड को परिभाषित करता है।
@@ -16,15 +17,15 @@ public enum JpegLsInterleaveMode
 
 ### मान
 
-| नाम | कीमत | विवरण |
+| नाम | मान | विवरण |
 | --- | --- | --- |
-| None | `0` | डेटा एन्कोड किया गया है और घटक के लिए घटक के रूप में संग्रहीत किया गया है: RRRGGGBBB. |
-| Line | `1` | इंटरलीव मोड लाइन द्वारा है। अगली पंक्ति पर जाने से पहले प्रत्येक घटक की पूरी पंक्ति को एन्कोड किया जाता है. |
-| Sample | `2` | डेटा एन्कोड किया गया है और नमूना द्वारा संग्रहीत किया गया है। रंगीन छवियों के लिए यह RGBRGBRGB. जैसा प्रारूप है |
+| None | `0` | डेटा को घटक दर घटक एन्कोड किया जाता है और संग्रहीत किया जाता है: RRRGGGBBB। |
+| Line | `1` | इंटरलीव मोड लाइन द्वारा है। प्रत्येक घटक की पूरी लाइन को एन्कोड किया जाता है, फिर अगली लाइन पर जाता है। |
+| Sample | `2` | डेटा को सैंपल द्वारा एन्कोड किया जाता है और संग्रहीत किया जाता है। रंग छवियों के लिए यह फ़ॉर्मेट RGBRGBRGB जैसा होता है। |
 
-### यह सभी देखें
+### देखें भी
 
-* नाम स्थान [Aspose.PSD.FileFormats.Jpeg](../../aspose.psd.fileformats.jpeg/)
-* सभा [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Jpeg](../../aspose.psd.fileformats.jpeg/)
+* assembly [Aspose.PSD](../../)
 
 

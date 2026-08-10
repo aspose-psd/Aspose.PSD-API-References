@@ -1,27 +1,28 @@
 ---
-title: PsdImage.Height
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: PsdImage संपत्त. छव ऊंचई प्रप्त करत है
+title: "PsdImage.Height"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "PsdImage प्रॉपर्टी। छवि की ऊँचाई प्राप्त करता है"
 type: docs
 weight: 160
 url: /hi/net/aspose.psd.fileformats.psd/psdimage/height/
 ---
+{{< psd/tize >}}
 ## PsdImage.Height property
 
-छवि ऊंचाई प्राप्त करता है।
+छवि की ऊँचाई प्राप्त करता है।
 
 ```csharp
 public override int Height { get; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-छवि ऊंचाई।
+चित्र की ऊँचाई।
 
-### यह सभी देखें
+### देखें भी
 
 * class [PsdImage](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

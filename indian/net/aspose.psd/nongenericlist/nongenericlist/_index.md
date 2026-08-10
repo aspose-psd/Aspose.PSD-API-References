@@ -1,27 +1,28 @@
 ---
-title: NonGenericList.NonGenericList
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: NonGenericList नर्मत. क एक नय उदहरण प्ररंभ करत हैNonGenericList वर्ग.
+title: "NonGenericList.NonGenericList"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "NonGenericList कन्स्ट्रक्टर। NonGenericList क्लास का नया इंस्टेंस इनिशियलाइज़ करता है"
 type: docs
 weight: 10
 url: /hi/net/aspose.psd/nongenericlist/nongenericlist/
 ---
+{{< psd/tize >}}
 ## NonGenericList constructor
 
-का एक नया उदाहरण प्रारंभ करता है[`NonGenericList`](../) वर्ग.
+[`NonGenericList`](../) क्लास का नया इंस्टेंस इनिशियलाइज़ करता है।
 
 ```csharp
 public NonGenericList(IList list)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| list | IList | सूची - वस्तुओं का कंटेनर। |
+| सूची | IList | सूची - ऑब्जेक्ट्स का कंटेनर। |
 
-### यह सभी देखें
+### देखें भी
 
 * class [NonGenericList](../)
-* नाम स्थान [Aspose.PSD](../../nongenericlist/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,77 +1,78 @@
 ---
-title: Graphics.DrawPath
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Graphics तरक. आरेखत करत हैGraphicsPath .
+title: "Graphics.DrawPath"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Graphics मेथड। एक GraphicsPath को ड्रॉ करता है।"
 type: docs
-weight: 270
+weight: 280
 url: /hi/net/aspose.psd/graphics/drawpath/
 ---
+{{< psd/tize >}}
 ## Graphics.DrawPath method
 
-आरेखित करता है[`GraphicsPath`](../../graphicspath/) .
+[`GraphicsPath`](../../graphicspath/) को ड्रॉ करता है।
 
 ```csharp
 public void DrawPath(Pen pen, GraphicsPath path)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| pen | Pen | [`Pen`](../../pen/) जो पथ के रंग, चौड़ाई और शैली को निर्धारित करता है। |
-| path | GraphicsPath | [`GraphicsPath`](../../graphicspath/) आकर्षित करने के लिए। |
+| pen | Pen | [`Pen`](../../pen/) जो पथ का रंग, चौड़ाई और शैली निर्धारित करता है। |
+| path | GraphicsPath | [`GraphicsPath`](../../graphicspath/) ड्रॉ करने के लिए। |
 
 ### अपवाद
 
-| अपवाद | स्थिति |
+| अपवाद | शर्त |
 | --- | --- |
-| ArgumentNullException | *pen* शून्य है। -या- *path* शून्य है। |
+| ArgumentNullException | *pen* null है। -or- *path* null है। |
 
-### उदाहरण
+## उदाहरण
 
-यह उदाहरण एक छवि सतह पर आंकड़े बनाने और हेरफेर करने के लिए ग्राफ़िक्सपाथ और ग्राफ़िक्स वर्ग का उपयोग करते हैं। उदाहरण एक नई छवि बनाता है और ग्राफिक्सपाथ वर्ग की मदद से पथ बनाता है। अंत में ग्राफिक्स वर्ग द्वारा प्रदर्शित ड्रॉपाथ विधि को सतह पर पथ प्रस्तुत करने के लिए बुलाया जाता है। अंत में छवि को टिफ़ फ़ाइल स्वरूप में निर्यात किया जाता है।
+यह उदाहरण GraphicsPath और Graphics क्लास का उपयोग करके Image सतह पर फ़िगर्स बनाता और संशोधित करता है। उदाहरण एक नया Image बनाता है और GraphicsPath क्लास की मदद से पाथ्स ड्रॉ करता है। अंत में Graphics क्लास द्वारा प्रदान किया गया DrawPath मेथड कॉल किया जाता है ताकि पाथ्स को सतह पर रेंडर किया जा सके। अंत में इमेज को Tiff फ़ाइल फ़ॉर्मेट में निर्यात किया जाता है।
 
 ```csharp
 [C#]
 
-// छवि का एक उदाहरण बनाएं 
+//Image का एक इंस्टेंस बनाएं।
 using (Aspose.PSD.Image image = new Aspose.PSD.FileFormats.Psd.PsdImage(500, 500))
 {
-    // ग्राफिक्स क्लास का एक उदाहरण बनाएं और आरंभ करें
+    //Graphics क्लास का एक इंस्टेंस बनाएं और प्रारंभ करें।
     Aspose.PSD.Graphics graphics = new Aspose.PSD.Graphics(image);
 
-    // स्पष्ट ग्राफिक्स सतह
+    //Graphics सतह को साफ़ करें।
     graphics.Clear(Color.Wheat);
 
-    // ग्राफिक्सपाथ क्लास का एक उदाहरण बनाएं
+    //GraphicsPath क्लास का एक इंस्टेंस बनाएं।
     Aspose.PSD.GraphicsPath graphicspath = new Aspose.PSD.GraphicsPath();
 
-    // चित्र वर्ग का एक उदाहरण बनाएँ
+    //Figure क्लास का एक इंस्टेंस बनाएं।
     Aspose.PSD.Figure figure = new Aspose.PSD.Figure();
 
-    // चित्र वस्तु में आकृतियाँ जोड़ें
+    //Figure ऑब्जेक्ट में शेप्स जोड़ें।
     figure.AddShape(new Aspose.PSD.Shapes.RectangleShape(new RectangleF(10, 10, 300, 300)));
     figure.AddShape(new Aspose.PSD.Shapes.EllipseShape(new RectangleF(50, 50, 300, 300)));
     figure.AddShape(new Aspose.PSD.Shapes.PieShape(new Rectangle(new Point(250, 250), new Size(200, 200)), 0, 45));
 
-    // ग्राफिक्सपाथ में फिगर ऑब्जेक्ट जोड़ें
+    //GraphicsPath में Figure ऑब्जेक्ट जोड़ें।
     graphicspath.AddFigure(figure);
 
-    // काले रंग के पेन ऑब्जेक्ट के साथ पथ बनाएं
+    //काली रंग की Pen ऑब्जेक्ट से पाथ ड्रॉ करें।
     graphics.DrawPath(new Pen(Aspose.PSD.Color.Black, 2), graphicspath);
 
-    // TiffOptions का एक उदाहरण बनाएं और इसके विभिन्न गुणों को सेट करें
+    //TiffOptions का एक इंस्टेंस बनाएं और उसकी विभिन्न प्रॉपर्टीज़ सेट करें।
     Aspose.PSD.ImageOptions.TiffOptions tiffOptions = new Aspose.PSD.ImageOptions.TiffOptions(Aspose.PSD.FileFormats.Tiff.Enums.TiffExpectedFormat.Default);
 
-    // सभी परिवर्तनों को सहेजें।
+    // सभी परिवर्तन सहेजें।
     image.Save("C:\\temp\\output.tiff", tiffOptions);
 }
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * class [Pen](../../pen/)
 * class [GraphicsPath](../../graphicspath/)
 * class [Graphics](../)
-* नाम स्थान [Aspose.PSD](../../graphics/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

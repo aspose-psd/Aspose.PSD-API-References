@@ -1,28 +1,29 @@
 ---
-title: ClipboardRecord.BoundingRect
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: ClipboardRecord संपत्त. बउंडंग आयत प्रप्त य सेट करत है
+title: "ClipboardRecord.BoundingRect"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "ClipboardRecord प्रॉपर्टी। बाउंडिंग रेक्ट को प्राप्त करता है या सेट करता है"
 type: docs
 weight: 20
 url: /hi/net/aspose.psd.fileformats.core.vectorpaths/clipboardrecord/boundingrect/
 ---
+{{< psd/tize >}}
 ## ClipboardRecord.BoundingRect property
 
-बाउंडिंग आयत प्राप्त या सेट करता है।
+बाउंडिंग आयत प्राप्त करता है या सेट करता है।
 
 ```csharp
 public RectangleF BoundingRect { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-बाउंडिंग आयत.
+बाउंडिंग रेक्ट।
 
-### यह सभी देखें
+### देखें भी
 
 * struct [RectangleF](../../../aspose.psd/rectanglef/)
 * class [ClipboardRecord](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Core.VectorPaths](../../clipboardrecord/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../../)
 
 

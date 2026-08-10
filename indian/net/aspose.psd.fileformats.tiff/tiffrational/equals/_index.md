@@ -1,31 +1,32 @@
 ---
-title: TiffRational.Equals
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: TiffRational तरक. नर्धरत करत है क नर्दष्ट कय गय है य नहंObject इस उदहरण के बरबर है.
+title: "TiffRational.Equals"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "TiffRational मेथड। निर्धारित करता है कि निर्दिष्ट ऑब्जेक्ट इस इंस्टेंस के बराबर है या नहीं"
 type: docs
 weight: 70
 url: /hi/net/aspose.psd.fileformats.tiff/tiffrational/equals/
 ---
+{{< psd/tize >}}
 ## TiffRational.Equals method
 
-निर्धारित करता है कि निर्दिष्ट किया गया है या नहींObject इस उदाहरण के बराबर है.
+निर्धारित करता है कि निर्दिष्ट ऑब्जेक्ट इस उदाहरण के बराबर है या नहीं।
 
 ```csharp
 public override bool Equals(object obj)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| obj | Object | Object इस उदाहरण के साथ तुलना करने के लिए। |
+| obj | ऑब्जेक्ट | इस उदाहरण के साथ तुलना करने के लिए ऑब्जेक्ट। |
 
-### प्रतिलाभ की मात्रा
+### रिटर्न वैल्यू
 
-`सत्य` यदि निर्दिष्टObject इस उदाहरण के बराबर है; अन्यथा,`असत्य` .
+`true` यदि निर्दिष्ट ऑब्जेक्ट इस उदाहरण के बराबर है; अन्यथा, `false`।
 
-### यह सभी देखें
+### देखें भी
 
 * class [TiffRational](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Tiff](../../tiffrational/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff](../../../aspose.psd.fileformats.tiff/)
+* assembly [Aspose.PSD](../../../)
 
 

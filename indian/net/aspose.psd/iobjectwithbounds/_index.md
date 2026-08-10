@@ -1,31 +1,32 @@
 ---
-title: Interface IObjectWithBounds
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Aspose.PSD.IObjectWithBounds इंटरफेस. सम के सथ एक वस्तु क प्रतनधत्व करत है
+title: "इंटरफ़ेस IObjectWithBounds"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Aspose.PSD.IObjectWithBounds इंटरफ़ेस। यह सीमाओं वाले ऑब्जेक्ट का प्रतिनिधित्व करता है।"
 type: docs
-weight: 4490
+weight: 4960
 url: /hi/net/aspose.psd/iobjectwithbounds/
 ---
+{{< psd/tize >}}
 ## IObjectWithBounds interface
 
-सीमा के साथ एक वस्तु का प्रतिनिधित्व करता है।
+सीमाओं वाले वस्तु का प्रतिनिधित्व करता है।
 
 ```csharp
 public interface IObjectWithBounds
 ```
 
-## गुण
+## प्रॉपर्टीज़
 
 | नाम | विवरण |
 | --- | --- |
-| [Bounds](../../aspose.psd/iobjectwithbounds/bounds/) { get; } | ऑब्जेक्ट सीमा प्राप्त करता है। |
-| [Height](../../aspose.psd/iobjectwithbounds/height/) { get; } | वस्तु की ऊंचाई प्राप्त करता है। |
-| [Size](../../aspose.psd/iobjectwithbounds/size/) { get; } | वस्तु का आकार प्राप्त करता है। |
-| [Width](../../aspose.psd/iobjectwithbounds/width/) { get; } | वस्तु की चौड़ाई प्राप्त करता है। |
+| [Bounds](../../aspose.psd/iobjectwithbounds/bounds/) { get; } | ऑब्जेक्ट की सीमाएँ प्राप्त करता है। |
+| [Height](../../aspose.psd/iobjectwithbounds/height/) { get; } | ऑब्जेक्ट की ऊँचाई प्राप्त करता है। |
+| [Size](../../aspose.psd/iobjectwithbounds/size/) { get; } | ऑब्जेक्ट का आकार प्राप्त करता है। |
+| [Width](../../aspose.psd/iobjectwithbounds/width/) { get; } | ऑब्जेक्ट की चौड़ाई प्राप्त करता है। |
 
-### यह सभी देखें
+### देखें भी
 
-* नाम स्थान [Aspose.PSD](../../aspose.psd/)
-* सभा [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

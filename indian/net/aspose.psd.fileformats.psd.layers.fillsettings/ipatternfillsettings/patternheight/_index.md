@@ -1,27 +1,28 @@
 ---
-title: IPatternFillSettings.PatternHeight
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: IPatternFillSettings संपत्त. पैटर्न क ऊंचई प्रप्त य सेट करत है
+title: "IPatternFillSettings.PatternHeight"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "IPatternFillSettings प्रॉपर्टी। पैटर्न की ऊँचाई प्राप्त करता है या सेट करता है"
 type: docs
-weight: 40
+weight: 50
 url: /hi/net/aspose.psd.fileformats.psd.layers.fillsettings/ipatternfillsettings/patternheight/
 ---
+{{< psd/tize >}}
 ## IPatternFillSettings.PatternHeight property
 
-पैटर्न की ऊंचाई प्राप्त या सेट करता है।
+पैटर्न की ऊँचाई प्राप्त करता है या सेट करता है।
 
 ```csharp
 public int PatternHeight { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-पैटर्न की ऊंचाई।
+पैटर्न की ऊँचाई।
 
-### यह सभी देखें
+### देखें भी
 
 * interface [IPatternFillSettings](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../ipatternfillsettings/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../../)
 
 

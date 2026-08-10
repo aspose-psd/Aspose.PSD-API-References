@@ -1,27 +1,28 @@
 ---
-title: LayerMaskData.DataSize
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: LayerMaskData संपत्त. लेयर मस्क मस्क डेट क आकर प्रप्त करत है
+title: "LayerMaskData.DataSize"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "LayerMaskData प्रॉपर्टी। लेयर मास्क डेटा का आकार प्राप्त करता है"
 type: docs
 weight: 20
 url: /hi/net/aspose.psd.fileformats.psd.layers/layermaskdata/datasize/
 ---
+{{< psd/tize >}}
 ## LayerMaskData.DataSize property
 
-लेयर मास्क मास्क डेटा का आकार प्राप्त करता है।
+लेयर मास्क डेटा का आकार प्राप्त करता है।
 
 ```csharp
 public int DataSize { get; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-लेयर मास्क मास्क डेटा का आकार.
+लेयर मास्क डेटा का आकार।
 
-### यह सभी देखें
+### देखें भी
 
 * class [LayerMaskData](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers](../../layermaskdata/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

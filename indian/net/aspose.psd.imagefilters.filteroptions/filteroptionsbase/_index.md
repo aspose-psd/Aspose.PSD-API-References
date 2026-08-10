@@ -1,22 +1,23 @@
 ---
-title: Class FilterOptionsBase
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Aspose.PSD.ImageFilters.FilterOptions.FilterOptionsBase कक्ष. फ़ल्टर वकल्प आधर सर वर्ग
+title: "क्लास FilterOptionsBase"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Aspose.PSD.ImageFilters.FilterOptions.FilterOptionsBase क्लास। फ़िल्टर विकल्प बेस एब्स्ट्रैक्ट क्लास"
 type: docs
-weight: 4690
+weight: 5160
 url: /hi/net/aspose.psd.imagefilters.filteroptions/filteroptionsbase/
 ---
+{{< psd/tize >}}
 ## FilterOptionsBase class
 
-फ़िल्टर विकल्प आधार, सार वर्ग
+फ़िल्टर विकल्प बेस, एब्स्ट्रैक्ट क्लास
 
 ```csharp
 public abstract class FilterOptionsBase
 ```
 
-### यह सभी देखें
+### देखें भी
 
-* नाम स्थान [Aspose.PSD.ImageFilters.FilterOptions](../../aspose.psd.imagefilters.filteroptions/)
-* सभा [Aspose.PSD](../../)
+* namespace [Aspose.PSD.ImageFilters.FilterOptions](../../aspose.psd.imagefilters.filteroptions/)
+* assembly [Aspose.PSD](../../)
 
 

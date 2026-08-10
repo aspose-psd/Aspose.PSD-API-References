@@ -1,23 +1,24 @@
 ---
-title: GaussianBlurSmartFilter.GaussianBlurSmartFilter
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: GaussianBlurSmartFilter नर्मत. क एक नय उदहरण प्ररंभ करत हैGaussianBlurSmartFilter वर्ग.
+title: "GaussianBlurSmartFilter.GaussianBlurSmartFilter"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "GaussianBlurSmartFilter कंस्ट्रक्टर. GaussianBlurSmartFilter क्लास का नया इंस्टेंस इनिशियलाइज़ करता है"
 type: docs
 weight: 10
 url: /hi/net/aspose.psd.fileformats.psd.layers.smartfilters/gaussianblursmartfilter/gaussianblursmartfilter/
 ---
+{{< psd/tize >}}
 ## GaussianBlurSmartFilter constructor
 
-का एक नया उदाहरण प्रारंभ करता है[`GaussianBlurSmartFilter`](../) वर्ग.
+[`GaussianBlurSmartFilter`](../) क्लास का नया इंस्टेंस इनिशियलाइज़ करता है।
 
 ```csharp
 public GaussianBlurSmartFilter()
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * class [GaussianBlurSmartFilter](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.SmartFilters](../../gaussianblursmartfilter/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.SmartFilters](../../../aspose.psd.fileformats.psd.layers.smartfilters/)
+* assembly [Aspose.PSD](../../../)
 
 

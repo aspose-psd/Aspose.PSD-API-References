@@ -1,17 +1,18 @@
 ---
-title: Aspose.PSD.FileFormats.Psd.Layers.SmartFilters.Rendering
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: नमस्थन में परतं में नहत PSD फ़इल स्वरूप नकय शमल हैं.
+title: "Aspose.PSD.FileFormats.Psd.Layers.SmartFilters.Rendering"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "नेमस्पेस में लेयर्स में शामिल PSD फ़ाइल फ़ॉर्मेट इकाइयाँ होती हैं।"
 type: docs
-weight: 320
+weight: 340
 url: /hi/net/aspose.psd.fileformats.psd.layers.smartfilters.rendering/
 ---
-नामस्थान में परतों में निहित PSD फ़ाइल स्वरूप निकाय शामिल हैं.
+{{< psd/tize >}}
+यह namespace लेयर्स में मौजूद PSD फ़ाइल फ़ॉर्मेट इकाइयों को शामिल करता है।
 
-## इंटरफेस
+## इंटरफ़ेस
 
-| इंटरफेस | विवरण |
+| इंटरफ़ेस | विवरण |
 | --- | --- |
-| [ISmartFilterRenderer](./ismartfilterrenderer/) | विशिष्ट स्मार्ट फ़िल्टर रेंडरर के लिए इंटरफ़ेस. |
+| [ISmartFilterRenderer](./ismartfilterrenderer/) | एक विशिष्ट स्मार्ट फ़िल्टर रेंडरर के लिए इंटरफ़ेस। |
 
 

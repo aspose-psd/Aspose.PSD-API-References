@@ -1,27 +1,28 @@
 ---
-title: ImageResizeSettings.EntriesCount
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: ImageResizeSettings संपत्त. प्रवष्टयं क संख्य प्रप्त य सेट करत है
+title: "ImageResizeSettings.EntriesCount"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "ImageResizeSettings प्रॉपर्टी। प्रविष्टियों की गिनती प्राप्त या सेट करता है।"
 type: docs
 weight: 40
 url: /hi/net/aspose.psd/imageresizesettings/entriescount/
 ---
+{{< psd/tize >}}
 ## ImageResizeSettings.EntriesCount property
 
-प्रविष्टियों की संख्या प्राप्त या सेट करता है
+प्रविष्टियों की गिनती प्राप्त करता है या सेट करता है
 
 ```csharp
 public int EntriesCount { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-प्रविष्टियां गिनती
+प्रविष्टियों की गिनती
 
-### यह सभी देखें
+### देखें भी
 
 * class [ImageResizeSettings](../)
-* नाम स्थान [Aspose.PSD](../../imageresizesettings/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: IShadowEffect.Size
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: IShadowEffect संपत्त. ब्लर मन पक्सेल में प्रप्त य सेट करत है.
+title: "IShadowEffect.Size"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "IShadowEffect प्रॉपर्टी। पिक्सेल में ब्लर मान को प्राप्त करता है या सेट करता है"
 type: docs
 weight: 50
 url: /hi/net/aspose.psd.fileformats.psd.layers.layereffects/ishadoweffect/size/
 ---
+{{< psd/tize >}}
 ## IShadowEffect.Size property
 
-ब्लर मान पिक्सेल में प्राप्त या सेट करता है.
+पिक्सेल में ब्लर मान को प्राप्त करता है या सेट करता है।
 
 ```csharp
 public int Size { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
 आकार।
 
-### यह सभी देखें
+### देखें भी
 
 * interface [IShadowEffect](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../ishadoweffect/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../../)
 
 

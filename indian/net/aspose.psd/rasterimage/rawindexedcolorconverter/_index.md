@@ -1,28 +1,29 @@
 ---
-title: RasterImage.RawIndexedColorConverter
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: RasterImage संपत्त. अनुक्रमत रंग कनवर्टर प्रप्त य सेट करत है
+title: "RasterImage.RawIndexedColorConverter"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "RasterImage प्रॉपर्टी। इंडेक्स्ड कलर कनवर्टर को प्राप्त या सेट करता है।"
 type: docs
 weight: 110
 url: /hi/net/aspose.psd/rasterimage/rawindexedcolorconverter/
 ---
+{{< psd/tize >}}
 ## RasterImage.RawIndexedColorConverter property
 
-अनुक्रमित रंग कनवर्टर प्राप्त या सेट करता है
+इंडेक्स्ड कलर कनवर्टर प्राप्त करता है या सेट करता है
 
 ```csharp
 public IIndexedColorConverter RawIndexedColorConverter { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-अनुक्रमित रंग परिवर्तक
+अनुक्रमित रंग कनवर्टर
 
-### यह सभी देखें
+### देखें भी
 
 * interface [IIndexedColorConverter](../../iindexedcolorconverter/)
 * class [RasterImage](../)
-* नाम स्थान [Aspose.PSD](../../rasterimage/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

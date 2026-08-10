@@ -1,27 +1,28 @@
 ---
-title: CmlsResource.CmlsResource
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: CmlsResource नर्मत. क एक नय उदहरण प्ररंभ करत हैCmlsResource वर्ग.
+title: "CmlsResource.CmlsResource"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "CmlsResource कंस्ट्रक्टर। CmlsResource क्लास का नया इंस्टेंस आरंभ करता है"
 type: docs
 weight: 10
 url: /hi/net/aspose.psd.fileformats.psd.layers.layerresources/cmlsresource/cmlsresource/
 ---
+{{< psd/tize >}}
 ## CmlsResource constructor
 
-का एक नया उदाहरण प्रारंभ करता है[`CmlsResource`](../) वर्ग.
+[`CmlsResource`](../) क्लास का नया इंस्टेंस इनिशियलाइज़ करता है।
 
 ```csharp
 public CmlsResource(byte[] data)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| data | Byte[] | संसाधन का डेटा। |
+| डेटा | Byte[] | संसाधन का डेटा। |
 
-### यह सभी देखें
+### देखें भी
 
 * class [CmlsResource](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../cmlsresource/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

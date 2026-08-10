@@ -1,36 +1,37 @@
 ---
-title: Interface IOrderedShape
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Aspose.PSD.IOrderedShape इंटरफेस. एक आदेशत आकर क प्रतनधत्व करत है एक आदेशत आकर प्ररंभ बंदु और अंत बंदु वले बंदुओं क एक नरंतर सेट है वशष्ट नयम क उपयग करके जुड़े बंदुओं क नरंतर सेट
+title: "इंटरफ़ेस IOrderedShape"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Aspose.PSD.IOrderedShape इंटरफ़ेस। एक क्रमबद्ध आकार का प्रतिनिधित्व करता है। एक क्रमबद्ध आकार बिंदुओं का निरंतर सेट है जिसमें प्रारंभ बिंदु और समाप्ति बिंदु होते हैं। बिंदुओं का निरंतर सेट एक विशिष्ट नियम का उपयोग करके जुड़ा होता है।"
 type: docs
-weight: 4500
+weight: 4970
 url: /hi/net/aspose.psd/iorderedshape/
 ---
+{{< psd/tize >}}
 ## IOrderedShape interface
 
-एक आदेशित आकार का प्रतिनिधित्व करता है। एक आदेशित आकार प्रारंभ बिंदु और अंत बिंदु वाले बिंदुओं का एक निरंतर सेट है। विशिष्ट नियम का उपयोग करके जुड़े बिंदुओं का निरंतर सेट।
+क्रमबद्ध आकार का प्रतिनिधित्व करता है। एक क्रमबद्ध आकार बिंदुओं का निरंतर सेट है जिसमें प्रारंभ बिंदु और समाप्ति बिंदु होता है। विशिष्ट नियम का उपयोग करके जुड़े निरंतर बिंदुओं का सेट।
 
 ```csharp
 public interface IOrderedShape
 ```
 
-## गुण
+## प्रॉपर्टीज़
 
 | नाम | विवरण |
 | --- | --- |
-| [EndPoint](../../aspose.psd/iorderedshape/endpoint/) { get; } | अंतिम आकार बिंदु प्राप्त करता है। |
-| [IsClosed](../../aspose.psd/iorderedshape/isclosed/) { get; set; } | एक मान प्राप्त या सेट करता है जो इंगित करता है कि आदेशित आकार बंद है या नहीं। बंद आदेशित आकार को संसाधित करते समय प्रारंभ और समाप्ति बिंदुओं का कोई अर्थ नहीं होता है। |
-| [StartPoint](../../aspose.psd/iorderedshape/startpoint/) { get; } | प्रारंभिक आकार बिंदु प्राप्त करता है। |
+| [EndPoint](../../aspose.psd/iorderedshape/endpoint/) { get; } | समाप्ति आकार बिंदु को प्राप्त करता है। |
+| [IsClosed](../../aspose.psd/iorderedshape/isclosed/) { get; set; } | एक मान प्राप्त करता है या सेट करता है जो दर्शाता है कि क्रमबद्ध आकार बंद है या नहीं। जब बंद क्रमबद्ध आकार को प्रोसेस किया जाता है तो शुरू और अंत बिंदुओं का कोई अर्थ नहीं रहता। |
+| [StartPoint](../../aspose.psd/iorderedshape/startpoint/) { get; } | प्रारंभिक आकार बिंदु को प्राप्त करता है। |
 
-## तरीकों
+## मेथड्स
 
 | नाम | विवरण |
 | --- | --- |
-| [Reverse](../../aspose.psd/iorderedshape/reverse/)() | इस आकृति के लिए बिंदुओं के क्रम को उलट देता है। |
+| [Reverse](../../aspose.psd/iorderedshape/reverse/)() | इस आकार के बिंदुओं के क्रम को उलटता है। |
 
-### यह सभी देखें
+### देखें भी
 
-* नाम स्थान [Aspose.PSD](../../aspose.psd/)
-* सभा [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

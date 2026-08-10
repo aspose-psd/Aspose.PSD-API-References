@@ -1,26 +1,27 @@
 ---
-title: UnitArrayStructure.ValueCount
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: UnitArrayStructure संपत्त. मन संख्य प्रप्त करत है.
+title: "UnitArrayStructure.ValueCount"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "UnitArrayStructure प्रॉपर्टी। वैल्यू काउंट प्राप्त करता है"
 type: docs
 weight: 50
 url: /hi/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/unitarraystructure/valuecount/
 ---
+{{< psd/tize >}}
 ## UnitArrayStructure.ValueCount property
 
-मान संख्या प्राप्त करता है.
+मान गिनती को प्राप्त करता है।
 
 ```csharp
 public int ValueCount { get; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-इकाई सरणी संरचना में मान गणना।
+यूनिट एरे स्ट्रक्चर में वैल्यू काउंट।
 
-### उदाहरण
+## उदाहरण
 
-निम्न कोड ObAr और UnFl हस्ताक्षरों के समर्थन को प्रदर्शित करता है।
+निम्नलिखित कोड ObAr और UnFl हस्ताक्षरों के समर्थन को दर्शाता है।
 
 ```csharp
 [C#]
@@ -72,10 +73,10 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
 }
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * class [UnitArrayStructure](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../unitarraystructure/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 

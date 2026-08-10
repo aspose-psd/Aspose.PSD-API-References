@@ -1,23 +1,24 @@
 ---
-title: Namespaces.XmpBasic
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Namespaces मैदन. XMP बेसक नेमस्पेस.
+title: "Namespaces.XmpBasic"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Namespaces फ़ील्ड। XMP बेसिक नेमस्पेस"
 type: docs
 weight: 60
 url: /hi/net/aspose.psd.xmp/namespaces/xmpbasic/
 ---
+{{< psd/tize >}}
 ## Namespaces.XmpBasic field
 
-XMP बेसिक नेमस्पेस.
+XMP बेसिक नेमस्पेस।
 
 ```csharp
 public const string XmpBasic;
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * class [Namespaces](../)
-* नाम स्थान [Aspose.PSD.Xmp](../../namespaces/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

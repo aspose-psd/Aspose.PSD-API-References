@@ -1,22 +1,23 @@
 ---
-title: License.License
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: License नर्मत. इस वर्ग क एक नय उदहरण आरंभ करत है
+title: "License.License"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "License कंस्ट्रक्टर। इस क्लास का नया इंस्टेंस इनिशियलाइज़ करता है"
 type: docs
 weight: 10
 url: /hi/net/aspose.psd/license/license/
 ---
+{{< psd/tize >}}
 ## License constructor
 
-इस वर्ग का एक नया उदाहरण आरंभ करता है।
+इस क्लास का एक नया इंस्टेंस इनिशियलाइज़ करता है।
 
 ```csharp
 public License()
 ```
 
-### उदाहरण
+## उदाहरण
 
-इस उदाहरण में, MyLicense.lic नामक एक लाइसेंस फ़ाइल को उस फ़ोल्डर में खोजने का प्रयास किया जाएगा जिसमें घटक शामिल है, उस फ़ोल्डर में जिसमें कॉलिंग असेंबली, प्रविष्टि असेंबली के फ़ोल्डर में और फिर अंदर कॉलिंग असेंबली के एम्बेडेड संसाधन।
+इस उदाहरण में, घटक वाली फ़ोल्डर, कॉलिंग असेंबली वाली फ़ोल्डर, एंट्री असेंबली वाली फ़ोल्डर, और फिर कॉलिंग असेंबली के एम्बेडेड रिसोर्सेज़ में MyLicense.lic नाम की लाइसेंस फ़ाइल खोजने का प्रयास किया जाएगा।
 
 ```csharp
 [C#]
@@ -31,10 +32,10 @@ Dim license As license = New license
 License.SetLicense("MyLicense.lic")
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * class [License](../)
-* नाम स्थान [Aspose.PSD](../../license/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

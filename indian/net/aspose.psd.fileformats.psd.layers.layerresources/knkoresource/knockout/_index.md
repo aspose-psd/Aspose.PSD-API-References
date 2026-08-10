@@ -1,27 +1,28 @@
 ---
-title: KnkoResource.Knockout
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: KnkoResource संपत्त. यह दर्शत है क क्य आंतरक तत्वं क मलएं . मन प्रप्त करत है य सेट करत है
+title: "KnkoResource.Knockout"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "KnkoResource प्रॉपर्टी। एक मान प्राप्त करता है या सेट करता है जो दर्शाता है कि आंतरिक तत्वों को ब्लेंड किया जाए या नहीं"
 type: docs
-weight: 30
+weight: 20
 url: /hi/net/aspose.psd.fileformats.psd.layers.layerresources/knkoresource/knockout/
 ---
+{{< psd/tize >}}
 ## KnkoResource.Knockout property
 
-यह दर्शाता है कि क्या [आंतरिक तत्वों को मिलाएं] . मान प्राप्त करता है या सेट करता है
+क्या [blend interior elements] है, यह दर्शाने वाला मान प्राप्त करता है या सेट करता है।
 
 ```csharp
 public bool Knockout { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-`सत्य` अगर [आंतरिक तत्वों को मिलाएं]; अन्यथा,`असत्य` .
+`true` यदि [blend interior elements]; अन्यथा, `false`।
 
-### यह सभी देखें
+### देखें भी
 
 * class [KnkoResource](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../knkoresource/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

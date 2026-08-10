@@ -1,23 +1,24 @@
 ---
-title: VstkResource.StrokeStyleLineCapWidth
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: VstkResource संपत्त. स्ट्रक लइन कैप चड़ई प्रप्त य सेट करत है
+title: "VstkResource.StrokeStyleLineCapWidth"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "VstkResource प्रॉपर्टी। स्ट्रोक लाइन कैप चौड़ाई प्राप्त करता है या सेट करता है।"
 type: docs
-weight: 120
+weight: 100
 url: /hi/net/aspose.psd.fileformats.psd.layers.layerresources.strokeresources/vstkresource/strokestylelinecapwidth/
 ---
+{{< psd/tize >}}
 ## VstkResource.StrokeStyleLineCapWidth property
 
-स्ट्रोक लाइन कैप चौड़ाई प्राप्त या सेट करता है।
+स्ट्रोक लाइन कैप की चौड़ाई प्राप्त करता या सेट करता है।
 
 ```csharp
 public double StrokeStyleLineCapWidth { get; set; }
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * class [VstkResource](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.StrokeResources](../../vstkresource/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.StrokeResources](../../../aspose.psd.fileformats.psd.layers.layerresources.strokeresources/)
+* assembly [Aspose.PSD](../../../)
 
 

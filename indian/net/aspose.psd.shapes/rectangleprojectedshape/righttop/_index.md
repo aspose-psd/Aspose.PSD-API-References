@@ -1,28 +1,29 @@
 ---
-title: RectangleProjectedShape.RightTop
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: RectangleProjectedShape संपत्त. दहने शर्ष आयत बंदु प्रप्त करत है
+title: "RectangleProjectedShape.RightTop"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "RectangleProjectedShape प्रॉपर्टी। दाएँ ऊपर आयत बिंदु प्राप्त करता है"
 type: docs
 weight: 100
 url: /hi/net/aspose.psd.shapes/rectangleprojectedshape/righttop/
 ---
+{{< psd/tize >}}
 ## RectangleProjectedShape.RightTop property
 
-दाहिने शीर्ष आयत बिंदु प्राप्त करता है।
+दाएँ ऊपर के आयत बिंदु को प्राप्त करता है।
 
 ```csharp
 public PointF RightTop { get; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-दाहिना शीर्ष आयत बिंदु।
+दाएँ ऊपर आयत बिंदु।
 
-### यह सभी देखें
+### देखें भी
 
 * struct [PointF](../../../aspose.psd/pointf/)
 * class [RectangleProjectedShape](../)
-* नाम स्थान [Aspose.PSD.Shapes](../../rectangleprojectedshape/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 

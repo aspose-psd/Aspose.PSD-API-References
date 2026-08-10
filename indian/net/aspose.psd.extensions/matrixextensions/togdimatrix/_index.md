@@ -1,32 +1,33 @@
 ---
-title: MatrixExtensions.ToGdiMatrix
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: MatrixExtensions तरक. परवर्तत करत हैMatrix तकMatrix .
+title: "MatrixExtensions.ToGdiMatrix"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "MatrixExtensions मेथड। Matrix को Matrix में परिवर्तित करता है"
 type: docs
 weight: 10
 url: /hi/net/aspose.psd.extensions/matrixextensions/togdimatrix/
 ---
+{{< psd/tize >}}
 ## MatrixExtensions.ToGdiMatrix method
 
-परिवर्तित करता है[`Matrix`](../../../aspose.psd/matrix/) तकMatrix .
+[`Matrix`](../../../aspose.psd/matrix/) को Matrix में परिवर्तित करता है।
 
 ```csharp
 public static Matrix ToGdiMatrix(Matrix matrix)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| matrix | Matrix | [`Matrix`](../../../aspose.psd/matrix/) रूपान्तरण करने के लिए। |
+| matrix | Matrix | [`Matrix`](../../../aspose.psd/matrix/) को परिवर्तित करने के लिए। |
 
-### प्रतिलाभ की मात्रा
+### रिटर्न वैल्यू
 
-परिवर्तितMatrix.
+परिवर्तित Matrix।
 
-### यह सभी देखें
+### देखें भी
 
 * class [Matrix](../../../aspose.psd/matrix/)
 * class [MatrixExtensions](../)
-* नाम स्थान [Aspose.PSD.Extensions](../../matrixextensions/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Extensions](../../../aspose.psd.extensions/)
+* assembly [Aspose.PSD](../../../)
 
 

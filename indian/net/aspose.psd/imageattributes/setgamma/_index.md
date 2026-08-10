@@ -1,11 +1,12 @@
 ---
-title: ImageAttributes.SetGamma
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: ImageAttributes तरक. डफ़ल्ट श्रेण के लए गम मन सेट करत है
+title: "ImageAttributes.SetGamma"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "ImageAttributes मेथड। डिफ़ॉल्ट श्रेणी के लिए गामा मान सेट करता है।"
 type: docs
 weight: 150
 url: /hi/net/aspose.psd/imageattributes/setgamma/
 ---
+{{< psd/tize >}}
 ## SetGamma(float) {#setgamma}
 
 डिफ़ॉल्ट श्रेणी के लिए गामा मान सेट करता है।
@@ -14,15 +15,15 @@ url: /hi/net/aspose.psd/imageattributes/setgamma/
 public void SetGamma(float gamma)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| gamma | Single | गामा सुधार मान। |
+| गामा | Single | गामा सुधार मान। |
 
-### यह सभी देखें
+### देखें भी
 
 * class [ImageAttributes](../)
-* नाम स्थान [Aspose.PSD](../../imageattributes/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
@@ -34,16 +35,16 @@ public void SetGamma(float gamma)
 public void SetGamma(float gamma, ColorAdjustType type)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| gamma | Single | गामा सुधार मान। |
-| type | ColorAdjustType | का एक तत्व[`ColorAdjustType`](../../coloradjusttype/) गणना जो उस श्रेणी को निर्दिष्ट करती है जिसके लिए गामा मान सेट किया गया है। |
+| गामा | Single | गामा सुधार मान। |
+| type | ColorAdjustType | [`ColorAdjustType`](../../coloradjusttype/) एनीमरेशन का एक तत्व जो उस श्रेणी को निर्दिष्ट करता है जिसके लिए गामा मान सेट किया जाता है। |
 
-### यह सभी देखें
+### देखें भी
 
 * enum [ColorAdjustType](../../coloradjusttype/)
 * class [ImageAttributes](../)
-* नाम स्थान [Aspose.PSD](../../imageattributes/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

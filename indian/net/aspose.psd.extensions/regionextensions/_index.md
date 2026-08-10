@@ -1,28 +1,29 @@
 ---
-title: Class RegionExtensions
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Aspose.PSD.Extensions.RegionExtensions कक्ष. के लए वस्तर वधयँ शमल हैंRegion वर्ग.
+title: "क्लास RegionExtensions।"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Aspose.PSD.Extensions.RegionExtensions क्लास। इसमें Region क्लास के लिए एक्सटेंशन मेथड्स शामिल हैं।"
 type: docs
-weight: 1170
+weight: 1180
 url: /hi/net/aspose.psd.extensions/regionextensions/
 ---
+{{< psd/tize >}}
 ## RegionExtensions class
 
-के लिए विस्तार विधियाँ शामिल हैं[`Region`](../../aspose.psd/region/) वर्ग.
+[`Region`](../../aspose.psd/region/) क्लास के लिए एक्सटेंशन मेथड्स शामिल हैं।
 
 ```csharp
 public static class RegionExtensions
 ```
 
-## तरीकों
+## मेथड्स
 
 | नाम | विवरण |
 | --- | --- |
-| static [ToGdiRegion](../../aspose.psd.extensions/regionextensions/togdiregion/)(Region) | परिवर्तित करता है[`Region`](../../aspose.psd/region/) तकRegion . |
+| static [ToGdiRegion](../../aspose.psd.extensions/regionextensions/togdiregion/)(Region) | [`Region`](../../aspose.psd/region/) को Region में परिवर्तित करता है। |
 
-### यह सभी देखें
+### देखें भी
 
-* नाम स्थान [Aspose.PSD.Extensions](../../aspose.psd.extensions/)
-* सभा [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Extensions](../../aspose.psd.extensions/)
+* assembly [Aspose.PSD](../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: PixelDataFormat.ChannelBits
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: PixelDataFormat संपत्त. प्रत्येक चैनल के लए बट्स क गणन करत है
+title: "PixelDataFormat.ChannelBits"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "PixelDataFormat प्रॉपर्टी। प्रत्येक चैनल के लिए बिट्स की गिनती प्राप्त करता है।"
 type: docs
 weight: 320
 url: /hi/net/aspose.psd/pixeldataformat/channelbits/
 ---
+{{< psd/tize >}}
 ## PixelDataFormat.ChannelBits property
 
-प्रत्येक चैनल के लिए बिट्स की गणना करता है।
+प्रत्येक चैनल के लिए बिट्स की गिनती प्राप्त करता है।
 
 ```csharp
 public int[] ChannelBits { get; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-चैनल बिट्स.
+यह चैनल बिट्स।
 
-### यह सभी देखें
+### देखें भी
 
 * class [PixelDataFormat](../)
-* नाम स्थान [Aspose.PSD](../../pixeldataformat/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

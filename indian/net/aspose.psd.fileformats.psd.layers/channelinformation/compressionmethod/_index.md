@@ -1,28 +1,29 @@
 ---
-title: ChannelInformation.CompressionMethod
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: ChannelInformation संपत्त. संपड़न वध प्रप्त य सेट करत है
+title: "ChannelInformation.CompressionMethod"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "ChannelInformation प्रॉपर्टी। संपीड़न विधि को प्राप्त करता है या सेट करता है"
 type: docs
 weight: 30
 url: /hi/net/aspose.psd.fileformats.psd.layers/channelinformation/compressionmethod/
 ---
+{{< psd/tize >}}
 ## ChannelInformation.CompressionMethod property
 
-संपीड़न विधि प्राप्त या सेट करता है।
+कम्प्रेशन विधि प्राप्त करता है या सेट करता है।
 
 ```csharp
 public CompressionMethod CompressionMethod { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
 संपीड़न विधि।
 
-### यह सभी देखें
+### देखें भी
 
 * enum [CompressionMethod](../../../aspose.psd.fileformats.psd/compressionmethod/)
 * class [ChannelInformation](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers](../../channelinformation/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

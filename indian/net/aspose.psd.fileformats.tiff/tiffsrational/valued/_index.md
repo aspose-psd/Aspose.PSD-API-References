@@ -1,27 +1,28 @@
 ---
-title: TiffSRational.ValueD
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: TiffSRational संपत्त. क दगुन मन मलत है.
+title: "TiffSRational.ValueD"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "TiffSRational प्रॉपर्टी। डबल मान प्राप्त करता है"
 type: docs
 weight: 60
 url: /hi/net/aspose.psd.fileformats.tiff/tiffsrational/valued/
 ---
+{{< psd/tize >}}
 ## TiffSRational.ValueD property
 
-को दोगुना मान मिलता है.
+डबल मान प्राप्त करता है।
 
 ```csharp
 public double ValueD { get; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-दोहरा मान।
+डबल मान।
 
-### यह सभी देखें
+### देखें भी
 
 * class [TiffSRational](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Tiff](../../tiffsrational/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff](../../../aspose.psd.fileformats.tiff/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: Enum JpegCompressionMode
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Aspose.PSD.FileFormats.Jpeg.JpegCompressionMode एनुम. जेपईज छवयं के लए संपड़न मड
+title: "Enum JpegCompressionMode"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Aspose.PSD.FileFormats.Jpeg.JpegCompressionMode enum. JPEG छवियों के लिए संपीड़न मोड"
 type: docs
-weight: 1500
+weight: 1510
 url: /hi/net/aspose.psd.fileformats.jpeg/jpegcompressionmode/
 ---
+{{< psd/tize >}}
 ## JpegCompressionMode enumeration
 
-जेपीईजी छवियों के लिए संपीड़न मोड।
+JPEG छवियों के लिए संपीड़न मोड।
 
 ```csharp
 public enum JpegCompressionMode
@@ -16,16 +17,16 @@ public enum JpegCompressionMode
 
 ### मान
 
-| नाम | कीमत | विवरण |
+| नाम | मान | विवरण |
 | --- | --- | --- |
-| Baseline | `0` | आधारभूत संपीड़न. |
-| Progressive | `1` | प्रगतिशील संपीड़न। |
-| Lossless | `2` | दोषरहित संपीड़न. |
-| JpegLs | `3` | JPEG-LS कम्प्रेशन. |
+| Baseline | `0` | बेसलाइन संपीड़न। |
+| Progressive | `1` | प्रोग्रेसिव संपीड़न। |
+| Lossless | `2` | लॉसलेस संपीड़न। |
+| JpegLs | `3` | JPEG-LS संपीड़न। |
 
-### यह सभी देखें
+### देखें भी
 
-* नाम स्थान [Aspose.PSD.FileFormats.Jpeg](../../aspose.psd.fileformats.jpeg/)
-* सभा [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Jpeg](../../aspose.psd.fileformats.jpeg/)
+* assembly [Aspose.PSD](../../)
 
 

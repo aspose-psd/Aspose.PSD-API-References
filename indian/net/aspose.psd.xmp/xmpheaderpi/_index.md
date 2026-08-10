@@ -1,14 +1,15 @@
 ---
-title: Class XmpHeaderPi
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Aspose.PSD.Xmp.XmpHeaderPi कक्ष. XMP हेडर प्रसेसंग नर्देश क प्रतनधत्व करत है
+title: "क्लास XmpHeaderPi"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Aspose.PSD.Xmp.XmpHeaderPi क्लास। XMP हेडर प्रोसेसिंग इंस्ट्रक्शन का प्रतिनिधित्व करता है"
 type: docs
-weight: 6250
+weight: 6750
 url: /hi/net/aspose.psd.xmp/xmpheaderpi/
 ---
+{{< psd/tize >}}
 ## XmpHeaderPi class
 
-XMP हेडर प्रोसेसिंग निर्देश का प्रतिनिधित्व करता है।
+XMP हेडर प्रोसेसिंग इंस्ट्रक्शन का प्रतिनिधित्व करता है।
 
 ```csharp
 public sealed class XmpHeaderPi : IEquatable<XmpHeaderPi>, IXmlValue
@@ -18,28 +19,28 @@ public sealed class XmpHeaderPi : IEquatable<XmpHeaderPi>, IXmlValue
 
 | नाम | विवरण |
 | --- | --- |
-| [XmpHeaderPi](xmpheaderpi/#constructor)() | का एक नया उदाहरण प्रारंभ करता है`XmpHeaderPi` वर्ग. |
-| [XmpHeaderPi](xmpheaderpi/#constructor_1)(string) | का एक नया उदाहरण प्रारंभ करता है`XmpHeaderPi` वर्ग. |
+| [XmpHeaderPi](xmpheaderpi/#constructor)() | `XmpHeaderPi` क्लास का नया इंस्टेंस इनिशियलाइज़ करता है। |
+| [XmpHeaderPi](xmpheaderpi/#constructor_1)(string) | `XmpHeaderPi` क्लास का नया इंस्टेंस इनिशियलाइज़ करता है। |
 
-## गुण
-
-| नाम | विवरण |
-| --- | --- |
-| [Guid](../../aspose.psd.xmp/xmpheaderpi/guid/) { get; set; } | हेडर गाइड का प्रतिनिधित्व करता है। |
-
-## तरीकों
+## प्रॉपर्टीज़
 
 | नाम | विवरण |
 | --- | --- |
-| override [Equals](../../aspose.psd.xmp/xmpheaderpi/equals/#equals_1)(object) | निर्धारित करता है कि निर्दिष्ट किया गया है या नहींObject , इस उदाहरण के बराबर है। |
-| [Equals](../../aspose.psd.xmp/xmpheaderpi/equals/#equals)(XmpHeaderPi) | इंगित करता है कि क्या वर्तमान वस्तु उसी प्रकार की दूसरी वस्तु के बराबर है। |
+| [Guid](../../aspose.psd.xmp/xmpheaderpi/guid/) { get; set; } | हेडर GUID का प्रतिनिधित्व करता है। |
+
+## मेथड्स
+
+| नाम | विवरण |
+| --- | --- |
+| override [Equals](../../aspose.psd.xmp/xmpheaderpi/equals/#equals_1)(object) | निर्धारित करता है कि निर्दिष्ट ऑब्जेक्ट इस उदाहरण के बराबर है या नहीं। |
+| [Equals](../../aspose.psd.xmp/xmpheaderpi/equals/#equals)(XmpHeaderPi) | यह दर्शाता है कि वर्तमान ऑब्जेक्ट समान प्रकार के दूसरे ऑब्जेक्ट के बराबर है या नहीं। |
 | override [GetHashCode](../../aspose.psd.xmp/xmpheaderpi/gethashcode/)() | इस उदाहरण के लिए एक हैश कोड लौटाता है। |
-| [GetXmlValue](../../aspose.psd.xmp/xmpheaderpi/getxmlvalue/)() | XMP मान को XML प्रस्तुतिकरण में कनवर्ट करता है. |
+| [GetXmlValue](../../aspose.psd.xmp/xmpheaderpi/getxmlvalue/)() | XMP मान को XML प्रतिनिधित्व में परिवर्तित करता है। |
 
-### यह सभी देखें
+### देखें भी
 
 * interface [IXmlValue](../ixmlvalue/)
-* नाम स्थान [Aspose.PSD.Xmp](../../aspose.psd.xmp/)
-* सभा [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Xmp](../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../)
 
 

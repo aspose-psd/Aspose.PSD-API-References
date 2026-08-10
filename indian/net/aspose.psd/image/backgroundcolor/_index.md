@@ -1,24 +1,25 @@
 ---
-title: Image.BackgroundColor
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Image संपत्त. पृष्ठभूम रंग के लए मन प्रप्त य सेट करत है
+title: "Image.BackgroundColor"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Image प्रॉपर्टी। बैकग्राउंड कलर के लिए मान प्राप्त करता है या सेट करता है"
 type: docs
 weight: 40
 url: /hi/net/aspose.psd/image/backgroundcolor/
 ---
+{{< psd/tize >}}
 ## Image.BackgroundColor property
 
-पृष्ठभूमि रंग के लिए मान प्राप्त या सेट करता है।
+पृष्ठभूमि रंग के लिए मान प्राप्त करता है या सेट करता है।
 
 ```csharp
 public virtual Color BackgroundColor { get; set; }
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * struct [Color](../../color/)
 * class [Image](../)
-* नाम स्थान [Aspose.PSD](../../image/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

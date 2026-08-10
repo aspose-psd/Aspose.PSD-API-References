@@ -1,28 +1,29 @@
 ---
-title: Interface IColorConverter
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Aspose.PSD.IColorConverter इंटरफेस. कलर कन्वर्टर.
+title: "इंटरफ़ेस IColorConverter"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Aspose.PSD.IColorConverter इंटरफ़ेस। रंग परिवर्तक।"
 type: docs
-weight: 4380
+weight: 4850
 url: /hi/net/aspose.psd/icolorconverter/
 ---
+{{< psd/tize >}}
 ## IColorConverter interface
 
-कलर कन्वर्टर.
+रंग परिवर्तक।
 
 ```csharp
 public interface IColorConverter
 ```
 
-## तरीकों
+## मेथड्स
 
 | नाम | विवरण |
 | --- | --- |
-| [Convert](../../aspose.psd/icolorconverter/convert/)(PixelDataFormat, byte[], int, int, int, int, PixelDataFormat, byte[], int) | पास किए गए डेटा को आउटपुट स्वरूप में कनवर्ट करता है। |
+| [Convert](../../aspose.psd/icolorconverter/convert/)(PixelDataFormat, byte[], int, int, int, int, PixelDataFormat, byte[], int) | प्रेषित डेटा को आउटपुट फ़ॉर्मेट में परिवर्तित करता है। |
 
-### यह सभी देखें
+### देखें भी
 
-* नाम स्थान [Aspose.PSD](../../aspose.psd/)
-* सभा [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

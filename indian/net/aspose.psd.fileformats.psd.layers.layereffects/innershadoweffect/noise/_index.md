@@ -1,33 +1,34 @@
 ---
-title: InnerShadowEffect.Noise
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: InnerShadowEffect संपत्त. शर प्रप्त करत है य सेट करत है
+title: "InnerShadowEffect.Noise"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "InnerShadowEffect प्रॉपर्टी। शोर प्राप्त करता है या सेट करता है।"
 type: docs
 weight: 70
 url: /hi/net/aspose.psd.fileformats.psd.layers.layereffects/innershadoweffect/noise/
 ---
+{{< psd/tize >}}
 ## InnerShadowEffect.Noise property
 
-शोर प्राप्त करता है या सेट करता है।
+शोर को प्राप्त करता है या सेट करता है।
 
 ```csharp
 public int Noise { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
 शोर।
 
 ### अपवाद
 
-| अपवाद | स्थिति |
+| अपवाद | शर्त |
 | --- | --- |
-| [PsdImageArgumentException](../../../aspose.psd.coreexceptions.imageformats/psdimageargumentexception/) | शोर को 0 से 100 की सीमा में प्रतिशत के रूप में निर्दिष्ट किया जाना चाहिए |
+| [PsdImageArgumentException](../../../aspose.psd.coreexceptions.imageformats/psdimageargumentexception/) | शोर को 0 से 100 की सीमा में प्रतिशत के रूप में निर्दिष्ट करना चाहिए |
 
-### यह सभी देखें
+### देखें भी
 
 * class [InnerShadowEffect](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../innershadoweffect/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../../)
 
 

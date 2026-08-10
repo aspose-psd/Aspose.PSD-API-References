@@ -1,28 +1,29 @@
 ---
-title: AsyncTaskProgress.AsyncTaskProgress
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: AsyncTaskProgress नर्मत. क एक नय उदहरण प्ररंभ करत हैAsyncTaskProgress वर्ग.
+title: "AsyncTaskProgress.AsyncTaskProgress"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "AsyncTaskProgress कंस्ट्रक्टर। AsyncTaskProgress क्लास का एक नया इंस्टेंस इनिशियलाइज़ करता है"
 type: docs
 weight: 10
 url: /hi/net/aspose.psd.asynctask/asynctaskprogress/asynctaskprogress/
 ---
+{{< psd/tize >}}
 ## AsyncTaskProgress constructor
 
-का एक नया उदाहरण प्रारंभ करता है[`AsyncTaskProgress`](../) वर्ग.
+एक नया इंस्टेंस इनिशियलाइज़ करता है [`AsyncTaskProgress`](../) क्लास का।
 
 ```csharp
 public AsyncTaskProgress(int progressPercentage, TimeSpan duration)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| progressPercentage | Int32 | प्रगति प्रतिशत। |
-| duration | TimeSpan | अवधि। |
+| progressPercentage | Int32 | प्रोग्रेस प्रतिशत। |
+| अवधि | TimeSpan | अवधि। |
 
-### यह सभी देखें
+### देखें भी
 
 * class [AsyncTaskProgress](../)
-* नाम स्थान [Aspose.PSD.AsyncTask](../../asynctaskprogress/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.AsyncTask](../../../aspose.psd.asynctask/)
+* assembly [Aspose.PSD](../../../)
 
 

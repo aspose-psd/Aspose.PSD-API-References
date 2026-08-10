@@ -1,48 +1,49 @@
 ---
-title: GifImageException.GifImageException
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: GifImageException नर्मत. क एक नय उदहरण प्ररंभ करत हैGifImageException वर्ग.
+title: "GifImageException.GifImageException"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "GifImageException कंस्ट्रक्टर। GifImageException क्लास का नया उदाहरण प्रारंभ करता है।"
 type: docs
 weight: 10
 url: /hi/net/aspose.psd.coreexceptions.imageformats/gifimageexception/gifimageexception/
 ---
+{{< psd/tize >}}
 ## GifImageException(string) {#constructor}
 
-का एक नया उदाहरण प्रारंभ करता है[`GifImageException`](../) वर्ग.
+[`GifImageException`](../) क्लास का नया उदाहरण प्रारंभ करता है।
 
 ```csharp
 public GifImageException(string message)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
 | message | String | अपवाद संदेश। |
 
-### यह सभी देखें
+### देखें भी
 
 * class [GifImageException](../)
-* नाम स्थान [Aspose.PSD.CoreExceptions.ImageFormats](../../gifimageexception/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.CoreExceptions.ImageFormats](../../../aspose.psd.coreexceptions.imageformats/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## GifImageException(string, Exception) {#constructor_1}
 
-का एक नया उदाहरण प्रारंभ करता है[`GifImageException`](../) वर्ग.
+[`GifImageException`](../) क्लास का नया उदाहरण प्रारंभ करता है।
 
 ```csharp
 public GifImageException(string message, Exception innerException)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
 | message | String | अपवाद संदेश। |
-| innerException | Exception | भीतर का अपवाद। |
+| innerException | एक्सेप्शन | आंतरिक अपवाद। |
 
-### यह सभी देखें
+### देखें भी
 
 * class [GifImageException](../)
-* नाम स्थान [Aspose.PSD.CoreExceptions.ImageFormats](../../gifimageexception/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.CoreExceptions.ImageFormats](../../../aspose.psd.coreexceptions.imageformats/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: RasterImage.GetSkewAngle
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: RasterImage तरक. तरछ कण प्रप्त करत है स्कैन करते समय तरछ कण नर्धरत करने के लए यह वध स्कैन कए गए टेक्स्ट दस्तवेज़ं पर लगू हत है
+title: "RasterImage.GetSkewAngle"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "RasterImage मेथड। स्क्यू एंगल प्राप्त करता है। यह मेथड स्कैन किए गए टेक्स्ट दस्तावेज़ों पर स्कैनिंग के दौरान स्क्यू एंगल निर्धारित करने के लिए लागू होता है।"
 type: docs
 weight: 330
 url: /hi/net/aspose.psd/rasterimage/getskewangle/
 ---
+{{< psd/tize >}}
 ## RasterImage.GetSkewAngle method
 
-तिरछा कोण प्राप्त करता है। स्कैन करते समय तिरछा कोण निर्धारित करने के लिए यह विधि स्कैन किए गए टेक्स्ट दस्तावेज़ों पर लागू होती है।
+स्क्यू कोण प्राप्त करता है। यह मेथड स्कैन किए गए टेक्स्ट दस्तावेज़ों पर लागू होता है, स्कैनिंग के दौरान स्क्यू कोण निर्धारित करने के लिए।
 
 ```csharp
 public float GetSkewAngle()
 ```
 
-### प्रतिलाभ की मात्रा
+### रिटर्न वैल्यू
 
-तिरछा कोण, डिग्री में।
+स्क्यू एंगल, डिग्री में।
 
-### यह सभी देखें
+### देखें भी
 
 * class [RasterImage](../)
-* नाम स्थान [Aspose.PSD](../../rasterimage/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: XmpRightsManagementPackage.SetOwners
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: XmpRightsManagementPackage तरक. मलकं क सेट करत है
+title: "XmpRightsManagementPackage.SetOwners"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "XmpRightsManagementPackage विधि। मालिक सेट करता है"
 type: docs
 weight: 50
 url: /hi/net/aspose.psd.xmp.schemas.xmprm/xmprightsmanagementpackage/setowners/
 ---
+{{< psd/tize >}}
 ## XmpRightsManagementPackage.SetOwners method
 
 मालिकों को सेट करता है।
@@ -14,14 +15,14 @@ url: /hi/net/aspose.psd.xmp.schemas.xmprm/xmprightsmanagementpackage/setowners/
 public void SetOwners(string[] owners)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| owners | String[] | मालिक। |
+| मालिक | String[] | मालिक। |
 
-### यह सभी देखें
+### देखें भी
 
 * class [XmpRightsManagementPackage](../)
-* नाम स्थान [Aspose.PSD.Xmp.Schemas.XmpRm](../../xmprightsmanagementpackage/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpRm](../../../aspose.psd.xmp.schemas.xmprm/)
+* assembly [Aspose.PSD](../../../)
 
 

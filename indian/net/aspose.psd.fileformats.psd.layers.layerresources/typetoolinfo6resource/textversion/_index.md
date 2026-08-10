@@ -1,27 +1,28 @@
 ---
-title: TypeToolInfo6Resource.TextVersion
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: TypeToolInfo6Resource संपत्त. टेक्स्ट संस्करण प्रप्त य सेट करत है
+title: "TypeToolInfo6Resource.TextVersion"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "TypeToolInfo6Resource property. टेक्स्ट संस्करण प्राप्त या सेट करता है"
 type: docs
-weight: 130
+weight: 100
 url: /hi/net/aspose.psd.fileformats.psd.layers.layerresources/typetoolinfo6resource/textversion/
 ---
+{{< psd/tize >}}
 ## TypeToolInfo6Resource.TextVersion property
 
-टेक्स्ट संस्करण प्राप्त या सेट करता है।
+टेक्स्ट संस्करण को प्राप्त करता है या सेट करता है।
 
 ```csharp
 public short TextVersion { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-पाठ संस्करण।
+टेक्स्ट संस्करण।
 
-### यह सभी देखें
+### देखें भी
 
 * class [TypeToolInfo6Resource](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../typetoolinfo6resource/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

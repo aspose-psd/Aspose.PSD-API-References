@@ -1,33 +1,34 @@
 ---
-title: LinkDataSource.OriginalCompId
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: LinkDataSource संपत्त. चइल्ड दस्तवेज़ के लए वर्तमन में चयनत कम्प क मूल आईड प्रप्त करत है ज 1 हग यद कई भ चयनत नहं है यह संपत्त स्मर्ट ऑब्जेक्ट्स के लए मूल परत कम्प चयन पहचनकर्त प्रप्त करत है स्मर्ट ऑब्जेक्ट्स में लेयर कंप्स
+title: "LinkDataSource.OriginalCompId"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "LinkDataSource प्रॉपर्टी। वर्तमान में चयनित चाइल्ड डॉक्यूमेंट के Comp का मूल ID प्राप्त करता है, यदि कोई चयन नहीं है तो यह 1 होगा। यह प्रॉपर्टी स्मार्ट ऑब्जेक्ट्स के लिए मूल लेयर Comp चयन पहचानकर्ता प्राप्त करती है। स्मार्ट ऑब्जेक्ट्स में लेयर कॉम्प्स।"
 type: docs
 weight: 100
 url: /hi/net/aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/originalcompid/
 ---
+{{< psd/tize >}}
 ## LinkDataSource.OriginalCompId property
 
-चाइल्ड दस्तावेज़ के लिए वर्तमान में चयनित कॉम्प की मूल आईडी प्राप्त करता है, जो -1 होगा यदि कोई भी चयनित नहीं है। यह संपत्ति स्मार्ट ऑब्जेक्ट्स के लिए मूल परत कॉम्प चयन पहचानकर्ता प्राप्त करती है। [स्मार्ट ऑब्जेक्ट्स में लेयर कंप्स](https://helpx.adobe.com/photoshop/using/layer-comps.html)
+चाइल्ड डॉक्यूमेंट के लिए वर्तमान में चयनित कंप का मूल ID प्राप्त करता है, यदि कोई चयनित नहीं है तो यह -1 होगा। यह प्रॉपर्टी स्मार्ट ऑब्जेक्ट्स के लिए मूल लेयर कंप चयन पहचानकर्ता प्राप्त करती है। [Layer comps in Smart Objects](https://helpx.adobe.com/photoshop/using/layer-comps.html)
 
 ```csharp
 public int OriginalCompId { get; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-चाइल्ड दस्तावेज़ के लिए वर्तमान में चयनित COMP की मूल आईडी, जो -1 होगी यदि कोई भी चयनित नहीं है।
+चाइल्ड डॉक्यूमेंट के वर्तमान में चयनित कॉम्प का मूल ID, यदि कोई चयन नहीं है तो यह -1 होगा।
 
 ### अपवाद
 
-| अपवाद | स्थिति |
+| अपवाद | शर्त |
 | --- | --- |
-| [PsdImageException](../../../aspose.psd.coreexceptions.imageformats/psdimageexception/) | आप OriginalCompId गुण तक नहीं पहुंच सकते |
+| [PsdImageException](../../../aspose.psd.coreexceptions.imageformats/psdimageexception/) | आप OriginalCompId प्रॉपर्टी तक पहुँच नहीं सकते |
 
-### यह सभी देखें
+### देखें भी
 
 * class [LinkDataSource](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../linkdatasource/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

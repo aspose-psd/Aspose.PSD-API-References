@@ -1,28 +1,29 @@
 ---
-title: BezierKnotRecord.Points
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: BezierKnotRecord संपत्त. अंक प्रप्त करत है य सेट करत है
+title: "BezierKnotRecord.Points"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "BezierKnotRecord प्रॉपर्टी। पॉइंट्स को प्राप्त करता है या सेट करता है"
 type: docs
 weight: 60
 url: /hi/net/aspose.psd.fileformats.core.vectorpaths/bezierknotrecord/points/
 ---
+{{< psd/tize >}}
 ## BezierKnotRecord.Points property
 
-अंक प्राप्त करता है या सेट करता है।
+पॉइंट्स को प्राप्त करता है या सेट करता है।
 
 ```csharp
 public Point[] Points { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-अंक।
+पॉइंट्स।
 
-### यह सभी देखें
+### देखें भी
 
 * struct [Point](../../../aspose.psd/point/)
 * class [BezierKnotRecord](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Core.VectorPaths](../../bezierknotrecord/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../../)
 
 

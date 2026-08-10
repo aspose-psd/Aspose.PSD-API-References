@@ -1,27 +1,28 @@
 ---
-title: LayerMaskDataFull.EnclosingRight
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: LayerMaskDataFull संपत्त. PSD फ़इल लेयर में संलग्न रइट रस्टर मस्क स्थत प्रप्त य सेट करत है
+title: "LayerMaskDataFull.EnclosingRight"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "LayerMaskDataFull प्रॉपर्टी। PSD फ़ाइल लेयर में दाएँ रास्टर मास्क की स्थिती को प्राप्त करता है या सेट करता है"
 type: docs
 weight: 50
 url: /hi/net/aspose.psd.fileformats.psd.layers/layermaskdatafull/enclosingright/
 ---
+{{< psd/tize >}}
 ## LayerMaskDataFull.EnclosingRight property
 
-PSD फ़ाइल लेयर में संलग्न राइट रास्टर मास्क स्थिति प्राप्त या सेट करता है।
+PSD फ़ाइल लेयर में संलग्न दाएँ रास्टर मास्क स्थिति को प्राप्त करता है या सेट करता है।
 
 ```csharp
 public int EnclosingRight { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-लेयर मास्क की सही स्थिति.
+दाएँ लेयर मास्क की स्थिति।
 
-### यह सभी देखें
+### देखें भी
 
 * class [LayerMaskDataFull](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers](../../layermaskdatafull/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

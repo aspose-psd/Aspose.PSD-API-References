@@ -1,32 +1,33 @@
 ---
-title: TiffStreamReader.ToStreamContainer
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: TiffStreamReader तरक. अंतर्नहत डेट क स्ट्रम कंटेनर में कनवर्ट करत है
+title: "TiffStreamReader.ToStreamContainer"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "TiffStreamReader मेथड। अंतर्निहित डेटा को स्ट्रीम कंटेनर में परिवर्तित करता है"
 type: docs
 weight: 230
 url: /hi/net/aspose.psd.fileformats.tiff.filemanagement/tiffstreamreader/tostreamcontainer/
 ---
+{{< psd/tize >}}
 ## TiffStreamReader.ToStreamContainer method
 
-अंतर्निहित डेटा को स्ट्रीम कंटेनर में कनवर्ट करता है।
+अधीनस्थ डेटा को स्ट्रीम कंटेनर में परिवर्तित करता है।
 
 ```csharp
 public StreamContainer ToStreamContainer(long startPosition)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| startPosition | Int64 | रूपांतरण प्रारंभ करने के लिए प्रारंभ स्थिति. |
+| startPosition | Int64 | परिवर्तन शुरू करने के लिए प्रारंभिक स्थिति। |
 
-### प्रतिलाभ की मात्रा
+### रिटर्न वैल्यू
 
-[`StreamContainer`](../../../aspose.psd/streamcontainer/) परिवर्तित डेटा के साथ।
+यह [`StreamContainer`](../../../aspose.psd/streamcontainer/) परिवर्तित डेटा के साथ।
 
-### यह सभी देखें
+### देखें भी
 
 * class [StreamContainer](../../../aspose.psd/streamcontainer/)
 * class [TiffStreamReader](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Tiff.FileManagement](../../tiffstreamreader/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff.FileManagement](../../../aspose.psd.fileformats.tiff.filemanagement/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: Font.IsComposite
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Font संपत्त. यह इंगत करत है क यह फ़न्ट समग्र है य नहं मन प्रप्त करत है य सेट करत है
+title: "Font.IsComposite"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Font प्रॉपर्टी। यह दर्शाने वाला मान प्राप्त करता है या सेट करता है कि यह फ़ॉन्ट संयुक्त है या नहीं"
 type: docs
 weight: 80
 url: /hi/net/aspose.psd.xmp.types.complex.font/font/iscomposite/
 ---
+{{< psd/tize >}}
 ## Font.IsComposite property
 
-यह इंगित करता है कि यह फ़ॉन्ट समग्र है या नहीं। मान प्राप्त करता है या सेट करता है
+यह दर्शाने वाला मान प्राप्त करता है या सेट करता है कि यह फ़ॉन्ट सम्मिलित है या नहीं।
 
 ```csharp
 public bool IsComposite { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-`सत्य` यदि यह फ़ॉन्ट समग्र है; अन्यथा,`असत्य` .
+`true` यदि यह फ़ॉन्ट संयुक्त है; अन्यथा, `false`।
 
-### यह सभी देखें
+### देखें भी
 
 * class [Font](../)
-* नाम स्थान [Aspose.PSD.Xmp.Types.Complex.Font](../../font/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.Font](../../../aspose.psd.xmp.types.complex.font/)
+* assembly [Aspose.PSD](../../../)
 
 

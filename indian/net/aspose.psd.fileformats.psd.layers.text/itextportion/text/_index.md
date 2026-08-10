@@ -1,32 +1,33 @@
 ---
-title: ITextPortion.Text
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: ITextPortion संपत्त. टेक्स्ट प्रप्त य सेट करत है
+title: "ITextPortion.Text"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "ITextPortion property. पाठ प्राप्त करता है या सेट करता है"
 type: docs
 weight: 30
 url: /hi/net/aspose.psd.fileformats.psd.layers.text/itextportion/text/
 ---
+{{< psd/tize >}}
 ## ITextPortion.Text property
 
-टेक्स्ट प्राप्त या सेट करता है।
+पाठ प्राप्त करता है या सेट करता है।
 
 ```csharp
 public string Text { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-पाठ।
+टेक्स्ट।
 
-### उदाहरण
+## उदाहरण
 
-निम्न उदाहरण दर्शाता है कि आप Aspose.PSD में एक पाठ परत में विभिन्न शैलियों को कैसे प्रस्तुत कर सकते हैं
+निम्न उदाहरण दर्शाता है कि आप Aspose.PSD में एक टेक्स्ट लेयर में विभिन्न शैलियों को कैसे रेंडर कर सकते हैं।
 
 ```csharp
 [C#]
 
 string sourceFile = "text212.psd";
-string etalonFile = "Ethalon_text212.psd";
+string etalonFile = "Output_text212.psd";
 string outputFile = "Output_text212.psd";
 
 using (var img = (PsdImage)Image.Load(sourceFile))
@@ -49,12 +50,12 @@ using (var img = (PsdImage)Image.Load(sourceFile))
         defaultStyle,
         defaultParagraph);
 
-    newPortions[0].Style.Underline = true; // पाठ शैली संपादित करें "ई = एमसी"
-    newPortions[1].Style.FontBaseline = FontBaseline.Superscript; // पाठ शैली संपादित करें "2\r"
-    newPortions[2].Style.FauxBold = true; // पाठ शैली संपादित करें "बोल्ड"
-    newPortions[3].Style.FauxItalic = true; // पाठ शैली संपादित करें "इटैलिक\r"
-    newPortions[3].Style.BaselineShift = -25; // पाठ शैली संपादित करें "इटैलिक\r"
-    newPortions[4].Style.FontCaps = FontCaps.SmallCaps; // पाठ शैली संपादित करें "लोअरकेसटेक्स्ट"
+    newPortions[0].Style.Underline = true; // edit text style "E=mc"
+    newPortions[1].Style.FontBaseline = FontBaseline.Superscript; // edit text style "2\r"
+    newPortions[2].Style.FauxBold = true; // edit text style "Bold"
+    newPortions[3].Style.FauxItalic = true; // edit text style "Italic\r"
+    newPortions[3].Style.BaselineShift = -25; // edit text style "Italic\r"
+    newPortions[4].Style.FontCaps = FontCaps.SmallCaps; // edit text style "Lowercasetext"
 
     foreach (var newPortion in newPortions)
     {
@@ -66,7 +67,7 @@ using (var img = (PsdImage)Image.Load(sourceFile))
 }
 ```
 
-निम्न कोड दर्शाता है कि कैसे Aspose.PSD पाठ परत के इनलाइन स्वरूपण के गुण प्राप्त करता है।
+निम्नलिखित कोड दर्शाता है कि Aspose.PSD टेक्स्ट लेयर की इनलाइन फ़ॉर्मेटिंग की प्रॉपर्टीज़ को कैसे प्राप्त करता है।
 
 ```csharp
 [C#]
@@ -76,7 +77,7 @@ List<ITextPortion> regularText = new List<ITextPortion>();
 List<ITextPortion> boldText = new List<ITextPortion>();
 List<ITextPortion> italicText = new List<ITextPortion>();
 
-// मौजूदा छवि को PsdImage वर्ग के उदाहरण में लोड करें
+// एक मौजूदा छवि को PsdImage क्लास के एक इंस्टेंस में लोड करें।
 using (var psdImage = (PsdImage)Image.Load(sourceFile))
 {
 
@@ -91,7 +92,7 @@ using (var psdImage = (PsdImage)Image.Load(sourceFile))
 
         var textLayer = (TextLayer)layer;
 
-        // टेक्स्ट लेयर में शामिल फोंट प्राप्त करता है
+        // टेक्स्ट लेयर में मौजूद फ़ॉन्ट्स को प्राप्त करता है
         var fonts = textLayer.GetFonts();
         var textPortions = textLayer.TextData.Items;
 
@@ -120,7 +121,7 @@ using (var psdImage = (PsdImage)Image.Load(sourceFile))
 }
 ```
 
-निम्नलिखित कोड उदाहरण संपादन पाठ भागों और उनकी पाठ शैली को प्रदर्शित करता है।
+निम्नलिखित कोड उदाहरण टेक्स्ट भागों और उनके टेक्स्ट स्टाइल को संपादित करने को दर्शाता है।
 
 ```csharp
 [C#]
@@ -143,7 +144,7 @@ using (var im = (PsdImage)Image.Load(filePath))
                 throw new Exception();
             }
 
-            // हर हिस्से का टेक्स्ट चेक करना
+            // प्रत्येक भाग के टेक्स्ट की जाँच कर रहा है
             if (portions[0].Text != "Old " ||
                 portions[1].Text != "color" ||
                 portions[2].Text != " text\r" ||
@@ -152,8 +153,8 @@ using (var im = (PsdImage)Image.Load(filePath))
                 throw new Exception();
             }
 
-            // पैराग्राफ डेटा की जाँच करना
-            // पैराग्राफ का अलग औचित्य है
+            // पैराग्राफ डेटा की जाँच कर रहा है
+            // पैराग्राफों का संरेखण अलग है
             if (
                 (int)portions[0].Paragraph.Justification != 0 ||
                 (int)portions[1].Paragraph.Justification != 0 ||
@@ -163,7 +164,7 @@ using (var im = (PsdImage)Image.Load(filePath))
                 throw new Exception();
             }
 
-            // पहले और दूसरे पैराग्राफ के अन्य सभी गुण समान हैं
+            // पहले और दूसरे पैराग्राफ की सभी अन्य गुण समान हैं
             for (int j = 0; j < portions.Length; j++)
             {
                 var paragraph = portions[j].Paragraph;
@@ -187,7 +188,7 @@ using (var im = (PsdImage)Image.Load(filePath))
                     Math.Abs(paragraph.LetterSpacing[0]) > Tolerance ||
                     Math.Abs(paragraph.LetterSpacing[1]) > Tolerance ||
                     Math.Abs(paragraph.LetterSpacing[2]) > Tolerance ||
-                    paragraph.LeadingType != LeadingMode.Auto ||
+                    paragraph.LeadingType != LeadingType.BottomToBottom ||
                     paragraph.PreHyphen != 2 ||
                     paragraph.PostHyphen != 2 ||
                     Math.Abs(paragraph.SpaceBefore) > Tolerance ||
@@ -202,8 +203,8 @@ using (var im = (PsdImage)Image.Load(filePath))
                 }
             }
 
-            // शैली डेटा की जाँच करना
-            // शैलियों में अलग-अलग रंग और फ़ॉन्ट आकार होते हैं
+            // स्टाइल डेटा की जाँच कर रहा है
+            // स्टाइलों के रंग और फ़ॉन्ट आकार अलग हैं
             if (Math.Abs(portions[0].Style.FontSize - 12) > Tolerance ||
                 Math.Abs(portions[1].Style.FontSize - 12) > Tolerance ||
                 Math.Abs(portions[2].Style.FontSize - 12) > Tolerance ||
@@ -235,33 +236,33 @@ using (var im = (PsdImage)Image.Load(filePath))
                 }
             }
 
-            // पाठ संपादन का उदाहरण
+            // टेक्स्ट संपादन का उदाहरण
             portions[0].Text = "Hello ";
             portions[1].Text = "World";
 
-            // पाठ के भाग निकालने का उदाहरण
+            // टेक्स्ट भागों को हटाने का उदाहरण
             layer.TextData.RemovePortion(3);
             layer.TextData.RemovePortion(2);
 
-            // नया पाठ भाग जोड़ने का उदाहरण
+            // नया टेक्स्ट भाग जोड़ने का उदाहरण
             var createdPortion = layer.TextData.ProducePortion();
             createdPortion.Text = "!!!\r";
             layer.TextData.AddPortion(createdPortion);
 
             portions = layer.TextData.Items;
 
-            // भागों के लिए अनुच्छेद और शैली संपादन का उदाहरण
-            // सही औचित्य सेट करें
+            // भागों के लिए पैराग्राफ और स्टाइल संपादन का उदाहरण
+            // दाएँ संरेखण सेट करें
             portions[0].Paragraph.Justification = JustificationMode.Right;
             portions[1].Paragraph.Justification = JustificationMode.Right;
             portions[2].Paragraph.Justification = JustificationMode.Right;
 
-            // प्रत्येक शैली के लिए अलग-अलग रंग। बदल दिया जाएगा, लेकिन रेंडरिंग पूरी तरह से समर्थित नहीं है
+            // प्रत्येक स्टाइल के लिए अलग-अलग रंग। इसे बदला जाएगा, लेकिन रेंडरिंग पूरी तरह से समर्थित नहीं है।
             portions[0].Style.FillColor = Color.Aquamarine;
             portions[1].Style.FillColor = Color.Violet;
             portions[2].Style.FillColor = Color.LightBlue;
 
-            // अलग फ़ॉन्ट। बदल दिया जाएगा, लेकिन रेंडरिंग पूरी तरह से समर्थित नहीं है
+            // अलग फ़ॉन्ट। इसे बदला जाएगा, लेकिन रेंडरिंग पूरी तरह से समर्थित नहीं है।
             portions[0].Style.FontSize = 6;
             portions[1].Style.FontSize = 8;
             portions[2].Style.FontSize = 10;
@@ -276,10 +277,10 @@ using (var im = (PsdImage)Image.Load(filePath))
 }
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * interface [ITextPortion](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.Text](../../itextportion/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.Text](../../../aspose.psd.fileformats.psd.layers.text/)
+* assembly [Aspose.PSD](../../../)
 
 

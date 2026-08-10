@@ -1,14 +1,15 @@
 ---
-title: Enum ExifUnit
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Aspose.PSD.Exif.Enums.ExifUnit एनुम. एक्सफ यूनट एनम.
+title: "Enum ExifUnit"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Aspose.PSD.Exif.Enums.ExifUnit enum. exif इकाई enum"
 type: docs
-weight: 960
+weight: 970
 url: /hi/net/aspose.psd.exif.enums/exifunit/
 ---
+{{< psd/tize >}}
 ## ExifUnit enumeration
 
-एक्सिफ यूनिट एनम.
+exif यूनिट एनेम.
 
 ```csharp
 public enum ExifUnit
@@ -16,15 +17,15 @@ public enum ExifUnit
 
 ### मान
 
-| नाम | कीमत | विवरण |
+| नाम | मान | विवरण |
 | --- | --- | --- |
-| None | `1` | अपरिभाषित इकाइयां |
-| Inch | `2` | इंच इकाइयां |
-| Cm | `3` | मीट्रिक सेंटीमीटर इकाइयां |
+| None | `1` | अपरिभाषित इकाइयाँ |
+| Inch | `2` | इंच इकाइयाँ |
+| Cm | `3` | मीट्रिक सेंटीमीटर इकाइयाँ |
 
-### यह सभी देखें
+### देखें भी
 
-* नाम स्थान [Aspose.PSD.Exif.Enums](../../aspose.psd.exif.enums/)
-* सभा [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Exif.Enums](../../aspose.psd.exif.enums/)
+* assembly [Aspose.PSD](../../)
 
 

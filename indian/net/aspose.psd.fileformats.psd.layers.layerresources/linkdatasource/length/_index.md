@@ -1,23 +1,24 @@
 ---
-title: LinkDataSource.Length
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: LinkDataSource संपत्त. बइट्स में लंक डेट स्रत क लंबई प्रप्त करत है
+title: "LinkDataSource.Length"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "LinkDataSource प्रॉपर्टी। लिंक डेटा स्रोत की लंबाई बाइट्स में प्राप्त करता है"
 type: docs
 weight: 90
 url: /hi/net/aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/length/
 ---
+{{< psd/tize >}}
 ## LinkDataSource.Length property
 
-बाइट्स में लिंक डेटा स्रोत की लंबाई प्राप्त करता है।
+लिंक डेटा स्रोत की लंबाई बाइट्स में प्राप्त करता है।
 
 ```csharp
 public long Length { get; }
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * class [LinkDataSource](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../linkdatasource/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

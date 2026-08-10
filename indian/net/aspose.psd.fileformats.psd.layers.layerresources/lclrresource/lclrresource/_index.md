@@ -1,70 +1,71 @@
 ---
-title: LclrResource.LclrResource
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: LclrResource नर्मत. क एक नय उदहरण प्ररंभ करत हैLclrResource वर्ग.
+title: "LclrResource.LclrResource"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "LclrResource निर्माता। LclrResource वर्ग का एक नया उदाहरण प्रारंभ करता है"
 type: docs
 weight: 10
 url: /hi/net/aspose.psd.fileformats.psd.layers.layerresources/lclrresource/lclrresource/
 ---
+{{< psd/tize >}}
 ## LclrResource() {#constructor}
 
-का एक नया उदाहरण प्रारंभ करता है[`LclrResource`](../) वर्ग.
+एक नया उदाहरण प्रारंभ करता है [`LclrResource`](../) वर्ग का।
 
 ```csharp
 public LclrResource()
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * class [LclrResource](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../lclrresource/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## LclrResource(SheetColorHighlightEnum) {#constructor_1}
 
-का एक नया उदाहरण प्रारंभ करता है[`LclrResource`](../) वर्ग.
+एक नया उदाहरण प्रारंभ करता है [`LclrResource`](../) वर्ग का।
 
 ```csharp
 public LclrResource(SheetColorHighlightEnum color)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| color | SheetColorHighlightEnum | वो रंग। |
+| रंग | SheetColorHighlightEnum | रंग। |
 
-### यह सभी देखें
+### देखें भी
 
 * enum [SheetColorHighlightEnum](../../sheetcolorhighlightenum/)
 * class [LclrResource](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../lclrresource/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## LclrResource(byte[]) {#constructor_2}
 
-का एक नया उदाहरण प्रारंभ करता है[`LclrResource`](../) वर्ग.
+एक नया उदाहरण प्रारंभ करता है [`LclrResource`](../) वर्ग का।
 
 ```csharp
 public LclrResource(byte[] data)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| data | Byte[] | संसाधन डेटा। |
+| डेटा | Byte[] | संसाधन डेटा। |
 
 ### अपवाद
 
-| अपवाद | स्थिति |
+| अपवाद | शर्त |
 | --- | --- |
-| [PsdImageArgumentException](../../../aspose.psd.coreexceptions.imageformats/psdimageargumentexception/) | अमान्य Lclr संसाधन मान |
+| [PsdImageArgumentException](../../../aspose.psd.coreexceptions.imageformats/psdimageargumentexception/) | अमान्य Lclr Resource मान |
 
-### यह सभी देखें
+### देखें भी
 
 * class [LclrResource](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../lclrresource/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

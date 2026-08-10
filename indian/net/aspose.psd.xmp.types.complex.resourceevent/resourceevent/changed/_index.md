@@ -1,27 +1,28 @@
 ---
-title: ResourceEvent.Changed
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: ResourceEvent संपत्त. संसधन के उन हस्सं क अर्धवरमसमंकत सूच प्रप्त य सेट करत है ज पछले ईवेंट इतहस के बद से बदल दए गए थे
+title: "ResourceEvent.Changed"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "ResourceEvent प्रॉपर्टी। पिछले इवेंट इतिहास से अब तक बदले गए संसाधन के भागों की सेमीकोलन-सीमित सूची प्राप्त करता है या सेट करता है"
 type: docs
 weight: 40
 url: /hi/net/aspose.psd.xmp.types.complex.resourceevent/resourceevent/changed/
 ---
+{{< psd/tize >}}
 ## ResourceEvent.Changed property
 
-संसाधन के उन हिस्सों की अर्धविराम-सीमांकित सूची प्राप्त या सेट करता है जो पिछले ईवेंट इतिहास के बाद से बदल दिए गए थे।
+सेमिकलन-डिलिमिटेड सूची जिसमें संसाधन के उन भागों को शामिल किया गया है जो पिछले इवेंट इतिहास से बदल गए हैं, को प्राप्त करता है या सेट करता है।
 
 ```csharp
 public string Changed { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-संसाधन के उन हिस्सों की अर्धविराम-सीमांकित सूची जो पिछले ईवेंट इतिहास के बाद से बदल दिए गए थे।
+सेमीकोलन-सीमित सूची जिसमें पिछले इवेंट इतिहास से बदले गए संसाधन के भाग शामिल हैं।
 
-### यह सभी देखें
+### देखें भी
 
 * class [ResourceEvent](../)
-* नाम स्थान [Aspose.PSD.Xmp.Types.Complex.ResourceEvent](../../resourceevent/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.ResourceEvent](../../../aspose.psd.xmp.types.complex.resourceevent/)
+* assembly [Aspose.PSD](../../../)
 
 

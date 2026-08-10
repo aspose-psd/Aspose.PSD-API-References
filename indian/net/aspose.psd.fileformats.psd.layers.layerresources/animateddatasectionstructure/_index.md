@@ -1,45 +1,46 @@
 ---
-title: Class AnimatedDataSectionStructure
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.AnimatedDataSectionStructure कक्ष. एनमेटेड डेट वल अनुभग
+title: "क्लास AnimatedDataSectionStructure"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Aspose.PSD.FileFormats.Psd.Layers.LayerResources.AnimatedDataSectionStructure क्लास। एनिमेटेड डेटा वाला सेक्शन।"
 type: docs
-weight: 2300
+weight: 2510
 url: /hi/net/aspose.psd.fileformats.psd.layers.layerresources/animateddatasectionstructure/
 ---
+{{< psd/tize >}}
 ## AnimatedDataSectionStructure class
 
-एनिमेटेड डेटा वाला अनुभाग।
+एनिमेटेड डेटा वाला सेक्शन।
 
 ```csharp
 public class AnimatedDataSectionStructure : OSTypeStructure
 ```
 
-## गुण
+## प्रॉपर्टीज़
 
 | नाम | विवरण |
 | --- | --- |
-| [Items](../../aspose.psd.fileformats.psd.layers.layerresources/animateddatasectionstructure/items/) { get; } | एनिमेटेड डेटा अनुभाग संरचनाओं को प्राप्त या सेट करता है। |
+| [Items](../../aspose.psd.fileformats.psd.layers.layerresources/animateddatasectionstructure/items/) { get; } | एनिमेटेड डेटा सेक्शन संरचनाओं को प्राप्त करता है या सेट करता है। |
 | override [Key](../../aspose.psd.fileformats.psd.layers.layerresources/animateddatasectionstructure/key/) { get; } | संरचना कुंजी प्राप्त करता है। |
-| [KeyName](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/keyname/) { get; set; } | कुंजी नाम प्राप्त या सेट करता है। |
-| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/animateddatasectionstructure/length/) { get; } | हो जाता है[`OSTypeStructure`](../ostypestructure/) बाइट्स में लंबाई. |
+| [KeyName](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/keyname/) { get; set; } | कुंजी नाम प्राप्त करता है या सेट करता है। |
+| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/animateddatasectionstructure/length/) { get; } | बाइट्स में [`OSTypeStructure`](../ostypestructure/) की लंबाई प्राप्त करता है। |
 
-## तरीकों
+## मेथड्स
 
 | नाम | विवरण |
 | --- | --- |
 | virtual [GetHeaderLength](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/getheaderlength/)() | हेडर की लंबाई प्राप्त करता है। |
-| [Save](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/save/)(StreamContainer) | संरचना को निर्दिष्ट स्ट्रीम कंटेनर में सहेजता है। |
-| [SaveWithoutKeyName](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/savewithoutkeyname/)(StreamContainer) | संरचना को निर्दिष्ट स्ट्रीम कंटेनर में सहेजता है। |
+| [Save](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/save/)(StreamContainer) | निर्दिष्ट स्ट्रीम कंटेनर में संरचना को सहेजता है। |
+| [SaveWithoutKeyName](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/savewithoutkeyname/)(StreamContainer) | निर्दिष्ट स्ट्रीम कंटेनर में संरचना को सहेजता है। |
 
-## खेत
+## फ़ील्ड्स
 
 | नाम | विवरण |
 | --- | --- |
-| const [StructureKey](../../aspose.psd.fileformats.psd.layers.layerresources/animateddatasectionstructure/structurekey/) | AnDs. की संरचना कुंजी की पहचान करता है |
+| const [StructureKey](../../aspose.psd.fileformats.psd.layers.layerresources/animateddatasectionstructure/structurekey/) | AnDs की संरचना कुंजी की पहचान करता है। |
 
-### उदाहरण
+## उदाहरण
 
-निम्न कोड प्रदर्शित करता है कि एनिमेटेड डेटा के टाइमलाइन फ्रेम में विलंब समय को कैसे सेट/अपडेट किया जाए।
+निम्नलिखित कोड दर्शाता है कि एनिमेटेड डेटा की टाइमलाइन फ्रेम में देरी समय को कैसे सेट/अपडेट किया जाए।
 
 ```csharp
 [C#]
@@ -91,9 +92,9 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFile))
 
             var frame1 = (DescriptorStructure)framesList.Types[1];
 
-            // 100 सेंटी-सेकंड मान के साथ फ़्रेम विलंब रिकॉर्ड बनाता है जो 1 सेकंड के बराबर है।
+            // फ़्रेम देरी रिकॉर्ड बनाता है जिसका मान 100 सेंटी-सेकंड है, जो 1 सेकंड के बराबर है।
             var frameDelay = new IntegerStructure(new ClassID("FrDl"));
-            frameDelay.Value = 100; // सेंटी-सेकंड में समय निर्धारित करें।
+            frameDelay.Value = 100; // set time in centi-seconds.
 
             frame1.Structures = AddOrReplaceStructure(frame1.Structures, frameDelay);
 
@@ -105,10 +106,10 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFile))
 }
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * class [OSTypeStructure](../ostypestructure/)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
-* सभा [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../)
 
 

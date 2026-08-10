@@ -1,50 +1,51 @@
 ---
-title: XmpArray.XmpArray
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: XmpArray नर्मत. क एक नय उदहरण प्ररंभ करत हैXmpArray वर्ग.
+title: "XmpArray.XmpArray"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "XmpArray कंस्ट्रक्टर। XmpArray क्लास का नया इंस्टेंस इनिशियलाइज़ करता है।"
 type: docs
 weight: 10
 url: /hi/net/aspose.psd.xmp/xmparray/xmparray/
 ---
+{{< psd/tize >}}
 ## XmpArray(XmpArrayType, string[]) {#constructor_1}
 
-का एक नया उदाहरण प्रारंभ करता है[`XmpArray`](../) वर्ग.
+[`XmpArray`](../) क्लास का नया इंस्टेंस इनिशियलाइज़ करता है।
 
 ```csharp
 public XmpArray(XmpArrayType type, string[] items)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| type | XmpArrayType | सरणी का प्रकार। |
-| items | String[] | आइटम सूची। |
+| प्रकार | XmpArrayType | एरे का प्रकार। |
+| आइटम्स | String[] | आइटम्स की सूची। |
 
-### यह सभी देखें
+### देखें भी
 
 * enum [XmpArrayType](../../xmparraytype/)
 * class [XmpArray](../)
-* नाम स्थान [Aspose.PSD.Xmp](../../xmparray/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## XmpArray(XmpArrayType) {#constructor}
 
-का एक नया उदाहरण प्रारंभ करता है[`XmpArray`](../) वर्ग.
+[`XmpArray`](../) क्लास का नया इंस्टेंस इनिशियलाइज़ करता है।
 
 ```csharp
 public XmpArray(XmpArrayType type)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| type | XmpArrayType | सरणी का प्रकार। |
+| प्रकार | XmpArrayType | एरे का प्रकार। |
 
-### यह सभी देखें
+### देखें भी
 
 * enum [XmpArrayType](../../xmparraytype/)
 * class [XmpArray](../)
-* नाम स्थान [Aspose.PSD.Xmp](../../xmparray/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

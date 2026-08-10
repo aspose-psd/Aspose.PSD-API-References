@@ -1,27 +1,28 @@
 ---
-title: GlobalLayerMaskInfo.AlphaMask
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: GlobalLayerMaskInfo संपत्त. अल्फ़ मस्क प्रप्त य सेट करत है.
+title: "GlobalLayerMaskInfo.AlphaMask"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "GlobalLayerMaskInfo प्रॉपर्टी। अल्फा मास्क को प्राप्त करता है या सेट करता है"
 type: docs
 weight: 20
 url: /hi/net/aspose.psd.fileformats.psd.layers/globallayermaskinfo/alphamask/
 ---
+{{< psd/tize >}}
 ## GlobalLayerMaskInfo.AlphaMask property
 
-अल्फ़ा मास्क प्राप्त या सेट करता है.
+अल्फा मास्क को प्राप्त करता है या सेट करता है।
 
 ```csharp
 public short AlphaMask { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-अल्फ़ा मास्क.
+अल्फा मास्क।
 
-### यह सभी देखें
+### देखें भी
 
 * class [GlobalLayerMaskInfo](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers](../../globallayermaskinfo/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

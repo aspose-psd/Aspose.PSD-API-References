@@ -1,23 +1,24 @@
 ---
-title: Namespaces.XmpGraphics
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Namespaces मैदन. XMP ग्रफ़क्स नमस्थन.
+title: "Namespaces.XmpGraphics"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Namespaces फ़ील्ड। XMP ग्राफिक्स नेमस्पेस"
 type: docs
 weight: 80
 url: /hi/net/aspose.psd.xmp/namespaces/xmpgraphics/
 ---
+{{< psd/tize >}}
 ## Namespaces.XmpGraphics field
 
-XMP ग्राफ़िक्स नामस्थान.
+XMP ग्राफिक्स नेमस्पेस।
 
 ```csharp
 public const string XmpGraphics;
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * class [Namespaces](../)
-* नाम स्थान [Aspose.PSD.Xmp](../../namespaces/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

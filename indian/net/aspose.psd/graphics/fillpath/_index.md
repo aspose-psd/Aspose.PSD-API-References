@@ -1,36 +1,37 @@
 ---
-title: Graphics.FillPath
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Graphics तरक. एक के इंटरयर क भरत हैGraphicsPath .
+title: "Graphics.FillPath"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Graphics मेथड। GraphicsPath का आंतरिक भाग भरता है।"
 type: docs
-weight: 360
+weight: 370
 url: /hi/net/aspose.psd/graphics/fillpath/
 ---
+{{< psd/tize >}}
 ## Graphics.FillPath method
 
-एक के इंटीरियर को भरता है[`GraphicsPath`](../../graphicspath/) .
+`[`GraphicsPath`](../../graphicspath/)` का आंतरिक भाग भरता है।
 
 ```csharp
 public void FillPath(Brush brush, GraphicsPath path)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| brush | Brush | [`Brush`](../../brush/)जो भरण की विशेषताओं को निर्धारित करता है। |
-| path | GraphicsPath | [`GraphicsPath`](../../graphicspath/) जो भरने के मार्ग का प्रतिनिधित्व करता है। |
+| brush | Brush | [`Brush`](../../brush/) जो भराव की विशेषताओं को निर्धारित करता है। |
+| path | GraphicsPath | `[`GraphicsPath`](../../graphicspath/)` जो भरने के पथ का प्रतिनिधित्व करता है। |
 
 ### अपवाद
 
-| अपवाद | स्थिति |
+| अपवाद | शर्त |
 | --- | --- |
 | ArgumentNullException | *brush* शून्य है। -या- *path* शून्य है। |
 
-### यह सभी देखें
+### देखें भी
 
 * class [Brush](../../brush/)
 * class [GraphicsPath](../../graphicspath/)
 * class [Graphics](../)
-* नाम स्थान [Aspose.PSD](../../graphics/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,28 +1,29 @@
 ---
-title: TextShape.TextFormat
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: TextShape संपत्त. पठ प्ररूप प्रप्त य सेट करत है
+title: "TextShape.TextFormat"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "TextShape प्रॉपर्टी। पाठ फ़ॉर्मेट प्राप्त करता है या सेट करता है"
 type: docs
 weight: 80
 url: /hi/net/aspose.psd.shapes/textshape/textformat/
 ---
+{{< psd/tize >}}
 ## TextShape.TextFormat property
 
-पाठ प्रारूप प्राप्त या सेट करता है।
+पाठ फ़ॉर्मेट प्राप्त करता है या सेट करता है।
 
 ```csharp
 public StringFormat TextFormat { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-पाठ प्रारूप।
+पाठ फ़ॉर्मेट।
 
-### यह सभी देखें
+### देखें भी
 
 * class [StringFormat](../../../aspose.psd/stringformat/)
 * class [TextShape](../)
-* नाम स्थान [Aspose.PSD.Shapes](../../textshape/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 

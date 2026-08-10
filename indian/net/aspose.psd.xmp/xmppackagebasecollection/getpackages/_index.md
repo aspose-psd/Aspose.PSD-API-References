@@ -1,28 +1,29 @@
 ---
-title: XmpPackageBaseCollection.GetPackages
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: XmpPackageBaseCollection तरक. क सरण प्रप्त करेंXmpPackage .
+title: "XmpPackageBaseCollection.GetPackages"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "XmpPackageBaseCollection विधि। XmpPackage की ऐरे प्राप्त करें"
 type: docs
 weight: 70
 url: /hi/net/aspose.psd.xmp/xmppackagebasecollection/getpackages/
 ---
+{{< psd/tize >}}
 ## XmpPackageBaseCollection.GetPackages method
 
-की सरणी प्राप्त करें[`XmpPackage`](../../xmppackage/) .
+[`XmpPackage`](../../xmppackage/) की ऐरे प्राप्त करें।
 
 ```csharp
 public XmpPackage[] GetPackages()
 ```
 
-### प्रतिलाभ की मात्रा
+### रिटर्न वैल्यू
 
-XMP संकुल की एक सरणी देता है।
+XMP पैकेजों की एक ऐरे लौटाता है।
 
-### यह सभी देखें
+### देखें भी
 
 * class [XmpPackage](../../xmppackage/)
 * class [XmpPackageBaseCollection](../)
-* नाम स्थान [Aspose.PSD.Xmp](../../xmppackagebasecollection/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

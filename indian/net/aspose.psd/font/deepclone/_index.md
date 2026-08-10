@@ -1,27 +1,28 @@
 ---
-title: Font.DeepClone
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Font तरक. इसक सटक डप कप बनत हैFont .
+title: "Font.DeepClone"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Font मेथड। इस फ़ॉन्ट की एक सटीक डीप कॉपी बनाता है।"
 type: docs
 weight: 110
 url: /hi/net/aspose.psd/font/deepclone/
 ---
+{{< psd/tize >}}
 ## Font.DeepClone method
 
-इसकी सटीक डीप कॉपी बनाता है[`Font`](../) .
+इस [`Font`](../) की एक सटीक डीप कॉपी बनाता है।
 
 ```csharp
 public Font DeepClone()
 ```
 
-### प्रतिलाभ की मात्रा
+### रिटर्न वैल्यू
 
-[`Font`](../) यह विधि बनाती है।
+यह मेथड द्वारा निर्मित [`Font`](../)।
 
-### यह सभी देखें
+### देखें भी
 
 * class [Font](../)
-* नाम स्थान [Aspose.PSD](../../font/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

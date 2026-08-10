@@ -1,67 +1,68 @@
 ---
-title: JpegExifData.JpegExifData
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: JpegExifData नर्मत. क एक नय उदहरण प्ररंभ करत हैJpegExifData वर्ग.
+title: "JpegExifData.JpegExifData"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "JpegExifData कंस्ट्रक्टर। JpegExifData क्लास का नया इंस्टेंस इनिशियलाइज़ करता है"
 type: docs
 weight: 10
 url: /hi/net/aspose.psd.exif/jpegexifdata/jpegexifdata/
 ---
+{{< psd/tize >}}
 ## JpegExifData() {#constructor}
 
-का एक नया उदाहरण प्रारंभ करता है[`JpegExifData`](../) वर्ग.
+[`JpegExifData`](../) क्लास का नया उदाहरण आरंभ करता है।
 
 ```csharp
 public JpegExifData()
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * class [JpegExifData](../)
-* नाम स्थान [Aspose.PSD.Exif](../../jpegexifdata/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## JpegExifData(TiffDataType[]) {#constructor_1}
 
-का एक नया उदाहरण प्रारंभ करता है[`JpegExifData`](../) array. से डेटा के साथ वर्ग
+[`JpegExifData`](../) क्लास का नया उदाहरण एरे से डेटा के साथ आरंभ करता है।
 
 ```csharp
 public JpegExifData(TiffDataType[] exifdata)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| exifdata | TiffDataType[] | सामान्य और GPS टैग के साथ EXIF टैग की सरणी। |
+| exifdata | TiffDataType[] | सामान्य और GPS टैग्स के साथ EXIF टैग्स की एरे। |
 
-### यह सभी देखें
+### देखें भी
 
 * class [TiffDataType](../../../aspose.psd.fileformats.tiff/tiffdatatype/)
 * class [JpegExifData](../)
-* नाम स्थान [Aspose.PSD.Exif](../../jpegexifdata/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## JpegExifData(TiffDataType[], TiffDataType[], TiffDataType[]) {#constructor_2}
 
-का एक नया उदाहरण प्रारंभ करता है[`JpegExifData`](../) array. से डेटा के साथ वर्ग
+[`JpegExifData`](../) क्लास का नया उदाहरण एरे से डेटा के साथ आरंभ करता है।
 
 ```csharp
 public JpegExifData(TiffDataType[] commonTags, TiffDataType[] exifTags, TiffDataType[] gpsTags)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| commonTags | TiffDataType[] | सामान्य टैग। |
-| exifTags | TiffDataType[] | EXIF टैग। |
-| gpsTags | TiffDataType[] | जीपीएस टैग। |
+| commonTags | TiffDataType[] | सामान्य टैग्स। |
+| exifTags | TiffDataType[] | EXIF टैग्स। |
+| gpsTags | TiffDataType[] | GPS टैग। |
 
-### यह सभी देखें
+### देखें भी
 
 * class [TiffDataType](../../../aspose.psd.fileformats.tiff/tiffdatatype/)
 * class [JpegExifData](../)
-* नाम स्थान [Aspose.PSD.Exif](../../jpegexifdata/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

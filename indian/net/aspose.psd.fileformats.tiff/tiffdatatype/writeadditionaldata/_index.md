@@ -1,11 +1,12 @@
 ---
-title: TiffDataType.WriteAdditionalData
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: TiffDataType तरक. अतरक्त टैग डेट लखत है
+title: "TiffDataType.WriteAdditionalData"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "TiffDataType मेथड. अतिरिक्त टैग डेटा लिखता है"
 type: docs
 weight: 130
 url: /hi/net/aspose.psd.fileformats.tiff/tiffdatatype/writeadditionaldata/
 ---
+{{< psd/tize >}}
 ## TiffDataType.WriteAdditionalData method
 
 अतिरिक्त टैग डेटा लिखता है।
@@ -14,19 +15,19 @@ url: /hi/net/aspose.psd.fileformats.tiff/tiffdatatype/writeadditionaldata/
 public abstract long WriteAdditionalData(TiffStreamWriter dataStream)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
 | dataStream | TiffStreamWriter | डेटा स्ट्रीम। |
 
-### प्रतिलाभ की मात्रा
+### रिटर्न वैल्यू
 
-वास्तविक बाइट्स लिखे गए।
+वास्तविक लिखे गए बाइट्स।
 
-### यह सभी देखें
+### देखें भी
 
 * class [TiffStreamWriter](../../../aspose.psd.fileformats.tiff.filemanagement/tiffstreamwriter/)
 * class [TiffDataType](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Tiff](../../tiffdatatype/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff](../../../aspose.psd.fileformats.tiff/)
+* assembly [Aspose.PSD](../../../)
 
 

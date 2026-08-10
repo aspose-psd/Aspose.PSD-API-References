@@ -1,44 +1,45 @@
 ---
-title: ResolutionSetting.ResolutionSetting
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: ResolutionSetting नर्मत. क एक नय उदहरण प्ररंभ करत हैResolutionSetting वर्ग.
+title: "ResolutionSetting.ResolutionSetting"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "ResolutionSetting कंस्ट्रक्टर। ResolutionSetting क्लास का एक नया उदाहरण इनिशियलाइज़ करता है"
 type: docs
 weight: 10
 url: /hi/net/aspose.psd/resolutionsetting/resolutionsetting/
 ---
+{{< psd/tize >}}
 ## ResolutionSetting() {#constructor}
 
-का एक नया उदाहरण प्रारंभ करता है[`ResolutionSetting`](../) वर्ग.
+[`ResolutionSetting`](../) क्लास का एक नया उदाहरण इनिशियलाइज़ करता है।
 
 ```csharp
 public ResolutionSetting()
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * class [ResolutionSetting](../)
-* नाम स्थान [Aspose.PSD](../../resolutionsetting/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## ResolutionSetting(double, double) {#constructor_1}
 
-का एक नया उदाहरण प्रारंभ करता है[`ResolutionSetting`](../) वर्ग.
+[`ResolutionSetting`](../) क्लास का एक नया उदाहरण इनिशियलाइज़ करता है।
 
 ```csharp
 public ResolutionSetting(double horizontalResolution, double verticalResolution)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| horizontalResolution | Double | क्षैतिज रिज़ॉल्यूशन। |
-| verticalResolution | Double | लंबवत रिज़ॉल्यूशन। |
+| horizontalResolution | Double | क्षैतिज रेज़ोल्यूशन। |
+| verticalResolution | Double | ऊर्ध्वाधर रिज़ॉल्यूशन। |
 
-### यह सभी देखें
+### देखें भी
 
 * class [ResolutionSetting](../)
-* नाम स्थान [Aspose.PSD](../../resolutionsetting/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

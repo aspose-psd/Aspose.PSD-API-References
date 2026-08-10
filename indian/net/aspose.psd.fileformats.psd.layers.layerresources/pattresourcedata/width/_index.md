@@ -1,11 +1,12 @@
 ---
-title: PattResourceData.Width
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: PattResourceData संपत्त. चड़ई प्रप्त करत है
+title: "PattResourceData.Width"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "PattResourceData प्रॉपर्टी। चौड़ाई प्राप्त करता है"
 type: docs
 weight: 90
 url: /hi/net/aspose.psd.fileformats.psd.layers.layerresources/pattresourcedata/width/
 ---
+{{< psd/tize >}}
 ## PattResourceData.Width property
 
 चौड़ाई प्राप्त करता है।
@@ -14,14 +15,14 @@ url: /hi/net/aspose.psd.fileformats.psd.layers.layerresources/pattresourcedata/w
 public short Width { get; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
 चौड़ाई।
 
-### यह सभी देखें
+### देखें भी
 
 * class [PattResourceData](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../pattresourcedata/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

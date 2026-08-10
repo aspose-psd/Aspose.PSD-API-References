@@ -1,23 +1,24 @@
 ---
-title: DataStreamSupporter.CacheData
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: DataStreamSupporter तरक. डेट क कैश करत है और यह सुनश्चत करत है क अंतर्नहत से कई अतरक्त डेट लड नहं कय जएगDataStreamContainer .
+title: "DataStreamSupporter.CacheData"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "DataStreamSupporter मेथड। डेटा को कैश करता है और सुनिश्चित करता है कि अंतर्निहित DataStreamContainer से अतिरिक्त डेटा लोडिंग नहीं होगी।"
 type: docs
 weight: 30
 url: /hi/net/aspose.psd/datastreamsupporter/cachedata/
 ---
+{{< psd/tize >}}
 ## DataStreamSupporter.CacheData method
 
-डेटा को कैश करता है और यह सुनिश्चित करता है कि अंतर्निहित से कोई अतिरिक्त डेटा लोड नहीं किया जाएगा[`DataStreamContainer`](../datastreamcontainer/) .
+डेटा को कैश करता है और सुनिश्चित करता है कि अंतर्निहित [`DataStreamContainer`](../datastreamcontainer/) से अतिरिक्त डेटा लोडिंग नहीं होगी।
 
 ```csharp
 public abstract void CacheData()
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * class [DataStreamSupporter](../)
-* नाम स्थान [Aspose.PSD](../../datastreamsupporter/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

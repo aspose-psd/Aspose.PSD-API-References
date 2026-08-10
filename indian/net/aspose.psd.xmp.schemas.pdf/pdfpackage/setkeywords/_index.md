@@ -1,11 +1,12 @@
 ---
-title: PdfPackage.SetKeywords
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: PdfPackage तरक. कवर्ड सेट करत है
+title: "PdfPackage.SetKeywords"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "PdfPackage मेथड। कीवर्ड सेट करता है"
 type: docs
 weight: 30
 url: /hi/net/aspose.psd.xmp.schemas.pdf/pdfpackage/setkeywords/
 ---
+{{< psd/tize >}}
 ## PdfPackage.SetKeywords method
 
 कीवर्ड सेट करता है।
@@ -14,14 +15,14 @@ url: /hi/net/aspose.psd.xmp.schemas.pdf/pdfpackage/setkeywords/
 public void SetKeywords(string keywords)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| keywords | String | खोजशब्द। |
+| कीवर्ड | String | कीवर्ड। |
 
-### यह सभी देखें
+### देखें भी
 
 * class [PdfPackage](../)
-* नाम स्थान [Aspose.PSD.Xmp.Schemas.Pdf](../../pdfpackage/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.Pdf](../../../aspose.psd.xmp.schemas.pdf/)
+* assembly [Aspose.PSD](../../../)
 
 

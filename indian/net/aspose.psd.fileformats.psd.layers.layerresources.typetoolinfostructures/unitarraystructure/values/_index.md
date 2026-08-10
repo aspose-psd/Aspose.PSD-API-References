@@ -1,32 +1,33 @@
 ---
-title: UnitArrayStructure.Values
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: UnitArrayStructure संपत्त. इकई सरण संरचन मन प्रप्त य सेट करत है
+title: "UnitArrayStructure.Values"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "UnitArrayStructure प्रॉपर्टी। यूनिट एरे स्ट्रक्चर वैल्यूज़ को प्राप्त या सेट करता है"
 type: docs
 weight: 60
 url: /hi/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/unitarraystructure/values/
 ---
+{{< psd/tize >}}
 ## UnitArrayStructure.Values property
 
-इकाई सरणी संरचना मान प्राप्त या सेट करता है।
+यूनिट एरे संरचना मानों को प्राप्त करता है या सेट करता है।
 
 ```csharp
 public double[] Values { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-इकाई सरणी संरचना मान.
+यूनिट एरे स्ट्रक्चर वैल्यूज़।
 
 ### अपवाद
 
-| अपवाद | स्थिति |
+| अपवाद | शर्त |
 | --- | --- |
-| ArgumentNullException | Values संपत्ति शून्य नहीं होनी चाहिए। |
+| ArgumentNullException | वैल्यूज़ प्रॉपर्टी null नहीं होनी चाहिए। |
 
-### उदाहरण
+## उदाहरण
 
-निम्न कोड ObAr और UnFl हस्ताक्षरों के समर्थन को प्रदर्शित करता है।
+निम्नलिखित कोड ObAr और UnFl हस्ताक्षरों के समर्थन को दर्शाता है।
 
 ```csharp
 [C#]
@@ -78,10 +79,10 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
 }
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * class [UnitArrayStructure](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../unitarraystructure/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 

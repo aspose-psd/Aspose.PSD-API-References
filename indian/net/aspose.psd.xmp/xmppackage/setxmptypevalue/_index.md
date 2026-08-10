@@ -1,11 +1,12 @@
 ---
-title: XmpPackage.SetXmpTypeValue
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: XmpPackage तरक. XMP प्रकर मन सेट करत है
+title: "XmpPackage.SetXmpTypeValue"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "XmpPackage विधि। XMP प्रकार मान सेट करता है"
 type: docs
 weight: 130
 url: /hi/net/aspose.psd.xmp/xmppackage/setxmptypevalue/
 ---
+{{< psd/tize >}}
 ## XmpPackage.SetXmpTypeValue method
 
 XMP प्रकार मान सेट करता है।
@@ -14,16 +15,16 @@ XMP प्रकार मान सेट करता है।
 public virtual void SetXmpTypeValue(string key, XmpTypeBase value)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| key | String | कुंजी का स्ट्रिंग प्रतिनिधित्व जिसे निर्धारित मान से पहचाना जाता है। |
-| value | XmpTypeBase | पर सेट किया जाने वाला मान. |
+| कुंजी | String | सेट मान के साथ पहचानी गई कुंजी का स्ट्रिंग प्रतिनिधित्व। |
+| मान | XmpTypeBase | सेट करने के लिए मान। |
 
-### यह सभी देखें
+### देखें भी
 
 * class [XmpTypeBase](../../../aspose.psd.xmp.types/xmptypebase/)
 * class [XmpPackage](../)
-* नाम स्थान [Aspose.PSD.Xmp](../../xmppackage/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

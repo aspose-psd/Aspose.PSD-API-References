@@ -1,27 +1,28 @@
 ---
-title: InnerShadowEffect.Size
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: InnerShadowEffect संपत्त. ब्लर मन पक्सेल में प्रप्त य सेट करत है.
+title: "InnerShadowEffect.Size"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "InnerShadowEffect प्रॉपर्टी। पिक्सेल में ब्लर मान प्राप्त करता है या सेट करता है।"
 type: docs
 weight: 90
 url: /hi/net/aspose.psd.fileformats.psd.layers.layereffects/innershadoweffect/size/
 ---
+{{< psd/tize >}}
 ## InnerShadowEffect.Size property
 
-ब्लर मान पिक्सेल में प्राप्त या सेट करता है.
+पिक्सेल में ब्लर मान को प्राप्त करता है या सेट करता है।
 
 ```csharp
 public int Size { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
 आकार।
 
-### यह सभी देखें
+### देखें भी
 
 * class [InnerShadowEffect](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../innershadoweffect/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../../)
 
 

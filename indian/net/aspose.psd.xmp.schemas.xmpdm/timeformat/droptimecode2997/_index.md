@@ -1,27 +1,28 @@
 ---
-title: TimeFormat.DropTimecode2997
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: TimeFormat संपत्त. ड्रप टइमकड2997. प्रप्त करत है
+title: "TimeFormat.DropTimecode2997"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "TimeFormat प्रॉपर्टी। drop timecode2997 प्राप्त करता है"
 type: docs
 weight: 10
 url: /hi/net/aspose.psd.xmp.schemas.xmpdm/timeformat/droptimecode2997/
 ---
+{{< psd/tize >}}
 ## TimeFormat.DropTimecode2997 property
 
-ड्रॉप टाइमकोड2997. प्राप्त करता है
+ड्रॉप टाइमकोड2997 प्राप्त करता है।
 
 ```csharp
 public static TimeFormat DropTimecode2997 { get; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-ड्रॉप टाइमकोड2997.
+यह drop timecode2997।
 
-### यह सभी देखें
+### देखें भी
 
 * class [TimeFormat](../)
-* नाम स्थान [Aspose.PSD.Xmp.Schemas.XmpDm](../../timeformat/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpDm](../../../aspose.psd.xmp.schemas.xmpdm/)
+* assembly [Aspose.PSD](../../../)
 
 

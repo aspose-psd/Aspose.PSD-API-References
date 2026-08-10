@@ -1,11 +1,12 @@
 ---
-title: XmpBasicPackage.SetRating
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: XmpBasicPackage तरक. रेटंग सेट करत है
+title: "XmpBasicPackage.SetRating"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "XmpBasicPackage मेथड। रेटिंग सेट करता है"
 type: docs
-weight: 90
+weight: 110
 url: /hi/net/aspose.psd.xmp.schemas.xmpbaseschema/xmpbasicpackage/setrating/
 ---
+{{< psd/tize >}}
 ## XmpBasicPackage.SetRating method
 
 रेटिंग सेट करता है।
@@ -14,14 +15,14 @@ url: /hi/net/aspose.psd.xmp.schemas.xmpbaseschema/xmpbasicpackage/setrating/
 public void SetRating(int choise)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| choise | Int32 | -1 से 5 तक |
+| विकल्प | Int32 | -1 से 5 तक |
 
-### यह सभी देखें
+### देखें भी
 
 * class [XmpBasicPackage](../)
-* नाम स्थान [Aspose.PSD.Xmp.Schemas.XmpBaseSchema](../../xmpbasicpackage/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpBaseSchema](../../../aspose.psd.xmp.schemas.xmpbaseschema/)
+* assembly [Aspose.PSD](../../../)
 
 

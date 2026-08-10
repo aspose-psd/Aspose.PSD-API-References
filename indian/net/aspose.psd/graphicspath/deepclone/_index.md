@@ -1,27 +1,28 @@
 ---
-title: GraphicsPath.DeepClone
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: GraphicsPath तरक. इस ग्रफक्स पथ क एक गहर क्लन करत है
+title: "GraphicsPath.DeepClone"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "GraphicsPath मेथड। इस ग्राफ़िक्स पाथ की गहरी क्लोन बनाता है"
 type: docs
 weight: 80
 url: /hi/net/aspose.psd/graphicspath/deepclone/
 ---
+{{< psd/tize >}}
 ## GraphicsPath.DeepClone method
 
-इस ग्राफिक्स पथ का एक गहरा क्लोन करता है।
+इस ग्राफ़िक्स पथ की गहरी क्लोन बनाता है।
 
 ```csharp
 public GraphicsPath DeepClone()
 ```
 
-### प्रतिलाभ की मात्रा
+### रिटर्न वैल्यू
 
-ग्राफिक्स पथ का एक गहरा क्लोन।
+ग्राफ़िक्स पाथ की एक गहरी क्लोन।
 
-### यह सभी देखें
+### देखें भी
 
 * class [GraphicsPath](../)
-* नाम स्थान [Aspose.PSD](../../graphicspath/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

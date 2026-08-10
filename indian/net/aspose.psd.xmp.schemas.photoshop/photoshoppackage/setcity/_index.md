@@ -1,11 +1,12 @@
 ---
-title: PhotoshopPackage.SetCity
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: PhotoshopPackage तरक. शहर सेट करत है
+title: "PhotoshopPackage.SetCity"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "PhotoshopPackage मेथड। शहर सेट करता है"
 type: docs
 weight: 60
 url: /hi/net/aspose.psd.xmp.schemas.photoshop/photoshoppackage/setcity/
 ---
+{{< psd/tize >}}
 ## PhotoshopPackage.SetCity method
 
 शहर सेट करता है।
@@ -14,14 +15,14 @@ url: /hi/net/aspose.psd.xmp.schemas.photoshop/photoshoppackage/setcity/
 public void SetCity(string city)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| city | String | शहर का नाम। |
+| शहर | String | शहर का नाम. |
 
-### यह सभी देखें
+### देखें भी
 
 * class [PhotoshopPackage](../)
-* नाम स्थान [Aspose.PSD.Xmp.Schemas.Photoshop](../../photoshoppackage/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.Photoshop](../../../aspose.psd.xmp.schemas.photoshop/)
+* assembly [Aspose.PSD](../../../)
 
 

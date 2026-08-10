@@ -1,27 +1,28 @@
 ---
-title: ResourceEvent.InstanceId
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: ResourceEvent संपत्त. xmpMM क मन प्रप्त य सेट करत हैInstanceId.
+title: "ResourceEvent.InstanceId"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "ResourceEvent प्रॉपर्टी। xmpMMInstanceId का मान प्राप्त करता है या सेट करता है"
 type: docs
 weight: 50
 url: /hi/net/aspose.psd.xmp.types.complex.resourceevent/resourceevent/instanceid/
 ---
+{{< psd/tize >}}
 ## ResourceEvent.InstanceId property
 
-xmpMM का मान प्राप्त या सेट करता है:InstanceId.
+xmpMM:InstanceId का मान प्राप्त करता है या सेट करता है।
 
 ```csharp
 public Guid InstanceId { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-xmpMM का मान:InstanceId.
+xmpMM:InstanceId का मान।
 
-### यह सभी देखें
+### देखें भी
 
 * class [ResourceEvent](../)
-* नाम स्थान [Aspose.PSD.Xmp.Types.Complex.ResourceEvent](../../resourceevent/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.ResourceEvent](../../../aspose.psd.xmp.types.complex.resourceevent/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: Enum LineCapType
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.StrokeResources.LineCapType एनुम. लइन कैप प्रकर
+title: "एनम LineCapType"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Aspose.PSD.FileFormats.Psd.Layers.LayerResources.StrokeResources.LineCapType एनम। लाइन कैप प्रकार"
 type: docs
-weight: 3040
+weight: 3400
 url: /hi/net/aspose.psd.fileformats.psd.layers.layerresources.strokeresources/linecaptype/
 ---
+{{< psd/tize >}}
 ## LineCapType enumeration
 
 लाइन कैप प्रकार।
@@ -16,15 +17,15 @@ public enum LineCapType : short
 
 ### मान
 
-| नाम | कीमत | विवरण |
+| नाम | मान | विवरण |
 | --- | --- | --- |
-| RoundCap | `0` | राउंड कैप टाइप. |
+| RoundCap | `0` | राउंड कैप प्रकार। |
 | SquareCap | `1` | स्क्वायर कैप प्रकार। |
 | ButtCap | `2` | बट कैप प्रकार। |
 
-### उदाहरण
+## उदाहरण
 
-निम्न कोड VstkResource संसाधन के समर्थन को प्रदर्शित करता है।
+निम्नलिखित कोड VstkResource संसाधन के समर्थन को दर्शाता है।
 
 ```csharp
 [C#]
@@ -49,9 +50,9 @@ using (PsdImage image = (PsdImage)Image.Load(srcFile))
 }
 ```
 
-### यह सभी देखें
+### देखें भी
 
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.StrokeResources](../../aspose.psd.fileformats.psd.layers.layerresources.strokeresources/)
-* सभा [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.StrokeResources](../../aspose.psd.fileformats.psd.layers.layerresources.strokeresources/)
+* assembly [Aspose.PSD](../../)
 
 

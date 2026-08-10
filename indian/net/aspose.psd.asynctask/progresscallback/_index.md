@@ -1,26 +1,27 @@
 ---
-title: Delegate ProgressCallback
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: कर्य प्रगत परवर्तन घटन प्रप्त करने के लए कलबैक फ़ंक्शन
+title: "डेलीगेट ProgressCallback"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "टास्क प्रोग्रेस परिवर्तन इवेंट प्राप्त करने के लिए कॉलबैक फ़ंक्शन"
 type: docs
 weight: 100
 url: /hi/net/aspose.psd.asynctask/progresscallback/
 ---
+{{< psd/tize >}}
 ## ProgressCallback delegate
 
-कार्य प्रगति परिवर्तन घटना प्राप्त करने के लिए कॉलबैक फ़ंक्शन।
+टास्क प्रगति परिवर्तन इवेंट प्राप्त करने के लिए कॉलबैक फ़ंक्शन।
 
 ```csharp
 public delegate void ProgressCallback(int progressPercentage);
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| progressPercentage | Int32 | प्रगति प्रतिशत। |
+| progressPercentage | Int32 | प्रोग्रेस प्रतिशत। |
 
-### यह सभी देखें
+### देखें भी
 
-* नाम स्थान [Aspose.PSD.AsyncTask](../../aspose.psd.asynctask/)
-* सभा [Aspose.PSD](../../)
+* namespace [Aspose.PSD.AsyncTask](../../aspose.psd.asynctask/)
+* assembly [Aspose.PSD](../../)
 
 

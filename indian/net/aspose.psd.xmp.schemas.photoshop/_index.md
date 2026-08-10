@@ -1,23 +1,24 @@
 ---
-title: Aspose.PSD.Xmp.Schemas.Photoshop
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: नमस्थन में संबंधत सहयक वर्ग स्थरंक और Adobe Photoshop द्वर उपयग क जने वल वधयँ शमल हैं
+title: "Aspose.PSD.Xmp.Schemas.Photoshop"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "नेमस्पेस में Adobe Photoshop द्वारा उपयोग की जाने वाली संबंधित हेल्पर क्लासेस, कॉन्स्टेंट्स और मेथड्स शामिल हैं"
 type: docs
-weight: 550
+weight: 590
 url: /hi/net/aspose.psd.xmp.schemas.photoshop/
 ---
-नामस्थान में संबंधित सहायक वर्ग, स्थिरांक और Adobe Photoshop द्वारा उपयोग की जाने वाली विधियाँ शामिल हैं।
+{{< psd/tize >}}
+Namespace में Adobe Photoshop द्वारा उपयोग की जाने वाली संबंधित हेल्पर क्लासेस, कॉन्स्टेंट्स और मेथड्स शामिल हैं।
 
-## कक्षाओं
+## क्लासेस
 
-| कक्षा | विवरण |
+| क्लास | विवरण |
 | --- | --- |
-| [Layer](./layer/) | फोटोशॉप टेक्स्ट लेयर का प्रतिनिधित्व करता है। |
-| [PhotoshopPackage](./photoshoppackage/) | एडोब फोटोशॉप नेमस्पेस का प्रतिनिधित्व करता है। |
-## गणना
+| [Layer](./layer/) | Photoshop टेक्स्ट लेयर का प्रतिनिधित्व करता है। |
+| [PhotoshopPackage](./photoshoppackage/) | Adobe Photoshop नेमस्पेस का प्रतिनिधित्व करता है। |
+## एन्यूमरेशन
 
-| गणना | विवरण |
+| एन्यूमरेशन | विवरण |
 | --- | --- |
-| [ColorMode](./colormode/) | में रंग मोड का प्रतिनिधित्व करता है[`PhotoshopPackage`](../aspose.psd.xmp.schemas.photoshop/photoshoppackage/) . |
+| [ColorMode](./colormode/) | [`PhotoshopPackage`](../aspose.psd.xmp.schemas.photoshop/photoshoppackage/) में रंग मोड का प्रतिनिधित्व करता है। |
 
 

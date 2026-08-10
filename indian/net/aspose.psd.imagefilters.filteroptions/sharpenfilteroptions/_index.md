@@ -1,14 +1,15 @@
 ---
-title: Class SharpenFilterOptions
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Aspose.PSD.ImageFilters.FilterOptions.SharpenFilterOptions कक्ष. पैन फ़ल्टर वकल्प
+title: "क्लास SharpenFilterOptions"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Aspose.PSD.ImageFilters.FilterOptions.SharpenFilterOptions क्लास। शार्पन फ़िल्टर विकल्प"
 type: docs
-weight: 4740
+weight: 5210
 url: /hi/net/aspose.psd.imagefilters.filteroptions/sharpenfilteroptions/
 ---
+{{< psd/tize >}}
 ## SharpenFilterOptions class
 
-पैना फ़िल्टर विकल्प
+शार्पन फ़िल्टर विकल्प।
 
 ```csharp
 public class SharpenFilterOptions : ConvolutionFilterOptions
@@ -18,22 +19,22 @@ public class SharpenFilterOptions : ConvolutionFilterOptions
 
 | नाम | विवरण |
 | --- | --- |
-| [SharpenFilterOptions](sharpenfilteroptions/#constructor)() | का एक नया उदाहरण प्रारंभ करता है`SharpenFilterOptions` वर्ग. डिफ़ॉल्ट सेटिंग के साथ. |
-| [SharpenFilterOptions](sharpenfilteroptions/#constructor_1)(int, double) | का एक नया उदाहरण प्रारंभ करता है`SharpenFilterOptions` वर्ग. |
+| [SharpenFilterOptions](sharpenfilteroptions/#constructor)() | `SharpenFilterOptions` क्लास का नया उदाहरण आरंभ करता है। डिफ़ॉल्ट सेटिंग्स के साथ। |
+| [SharpenFilterOptions](sharpenfilteroptions/#constructor_1)(int, double) | `SharpenFilterOptions` क्लास का नया उदाहरण आरंभ करता है। |
 
-## गुण
+## प्रॉपर्टीज़
 
 | नाम | विवरण |
 | --- | --- |
-| [Bias](../../aspose.psd.imagefilters.filteroptions/convolutionfilteroptions/bias/) { get; set; } | पूर्वाग्रह प्राप्त करता है या सेट करता है। |
-| [Factor](../../aspose.psd.imagefilters.filteroptions/convolutionfilteroptions/factor/) { get; set; } | कारक प्राप्त करता है या सेट करता है। |
-| [Sigma](../../aspose.psd.imagefilters.filteroptions/sharpenfilteroptions/sigma/) { get; set; } | सिग्मा प्राप्त या सेट करता है। |
-| [Size](../../aspose.psd.imagefilters.filteroptions/sharpenfilteroptions/size/) { get; set; } | आकार प्राप्त या सेट करता है। |
+| [Bias](../../aspose.psd.imagefilters.filteroptions/convolutionfilteroptions/bias/) { get; set; } | bias को प्राप्त करता है या सेट करता है। |
+| [Factor](../../aspose.psd.imagefilters.filteroptions/convolutionfilteroptions/factor/) { get; set; } | factor को प्राप्त करता है या सेट करता है। |
+| [Sigma](../../aspose.psd.imagefilters.filteroptions/sharpenfilteroptions/sigma/) { get; set; } | sigma को प्राप्त करता है या सेट करता है। |
+| [Size](../../aspose.psd.imagefilters.filteroptions/sharpenfilteroptions/size/) { get; set; } | आकार को प्राप्त करता है या सेट करता है। |
 
-### यह सभी देखें
+### देखें भी
 
 * class [ConvolutionFilterOptions](../convolutionfilteroptions/)
-* नाम स्थान [Aspose.PSD.ImageFilters.FilterOptions](../../aspose.psd.imagefilters.filteroptions/)
-* सभा [Aspose.PSD](../../)
+* namespace [Aspose.PSD.ImageFilters.FilterOptions](../../aspose.psd.imagefilters.filteroptions/)
+* assembly [Aspose.PSD](../../)
 
 

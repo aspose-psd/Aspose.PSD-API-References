@@ -1,27 +1,28 @@
 ---
-title: XmpPackage.GetEnumerator
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: XmpPackage तरक. एक एन्यूमरेटर लटत है ज संग्रह के मध्यम से पुनरवृत करत है
+title: "XmpPackage.GetEnumerator"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "XmpPackage विधि। संग्रह के माध्यम से इटररेट करने वाला एनेमरेटर लौटाता है"
 type: docs
 weight: 90
 url: /hi/net/aspose.psd.xmp/xmppackage/getenumerator/
 ---
+{{< psd/tize >}}
 ## XmpPackage.GetEnumerator method
 
-एक एन्यूमरेटर लौटाता है जो संग्रह के माध्यम से पुनरावृति करता है।
+कलेक्शन के माध्यम से इटरिट करने वाला एनेमरेटर लौटाता है।
 
 ```csharp
 public IEnumerator<KeyValuePair<string, object>> GetEnumerator()
 ```
 
-### प्रतिलाभ की मात्रा
+### रिटर्न वैल्यू
 
-एIEnumerator जिसका उपयोग संग्रह के माध्यम से पुनरावृति करने के लिए किया जा सकता है।
+एक IEnumerator जो संग्रह के माध्यम से इटररेट करने के लिए उपयोग किया जा सकता है।
 
-### यह सभी देखें
+### देखें भी
 
 * class [XmpPackage](../)
-* नाम स्थान [Aspose.PSD.Xmp](../../xmppackage/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

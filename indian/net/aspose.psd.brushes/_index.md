@@ -1,26 +1,27 @@
 ---
-title: Aspose.PSD.Brushes
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: नमस्थन वभन्न ब्रश प्रकरं के सथ कम करने के लए सहयक वर्ग और वधयँ प्रदन करत है
+title: "Aspose.PSD.Brushes"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "यह नेमस्पेस विभिन्न ब्रश प्रकारों के साथ काम करने के लिए सहायक क्लासें और मेथड्स प्रदान करता है।"
 type: docs
 weight: 30
 url: /hi/net/aspose.psd.brushes/
 ---
-नामस्थान विभिन्न ब्रश प्रकारों के साथ काम करने के लिए सहायक वर्ग और विधियाँ प्रदान करता है।
+{{< psd/tize >}}
+नामस्थान विभिन्न ब्रश प्रकारों के साथ काम करने के लिए सहायक क्लासेज़ और मेथड्स प्रदान करता है।
 
-## कक्षाओं
+## क्लासेस
 
-| कक्षा | विवरण |
+| क्लास | विवरण |
 | --- | --- |
-| [HatchBrush](./hatchbrush/) | हैच स्टाइल, अग्रभूमि रंग और पृष्ठभूमि रंग के साथ आयताकार ब्रश को परिभाषित करता है। इस वर्ग को इनहेरिट नहीं किया जा सकता. |
-| [LinearGradientBrush](./lineargradientbrush/) | एनकैप्सुलेट करता है[`Brush`](../aspose.psd/brush/) एक रेखीय ढाल के साथ। इस वर्ग को इनहेरिट नहीं किया जा सकता. |
-| [LinearGradientBrushBase](./lineargradientbrushbase/) | एक का प्रतिनिधित्व करता है[`Brush`](../aspose.psd/brush/) ढाल क्षमताओं और उपयुक्त गुणों के साथ। |
-| [LinearMulticolorGradientBrush](./linearmulticolorgradientbrush/) | एक का प्रतिनिधित्व करता है[`Brush`](../aspose.psd/brush/) कई रंगों और उपयुक्त स्थितियों द्वारा परिभाषित रैखिक ढाल के साथ। इस वर्ग को इनहेरिट नहीं किया जा सकता. |
-| [PathGradientBrush](./pathgradientbrush/) | एनकैप्सुलेट करता है[`Brush`](../aspose.psd/brush/) ढाल के साथ वस्तु। इस वर्ग को इनहेरिट नहीं किया जा सकता. |
-| [PathGradientBrushBase](./pathgradientbrushbase/) | एक का प्रतिनिधित्व करता है[`Brush`](../aspose.psd/brush/) आधार पथ ढाल कार्यक्षमता के साथ. |
-| [PathMulticolorGradientBrush](./pathmulticolorgradientbrush/) | एनकैप्सुलेट करता है[`Brush`](../aspose.psd/brush/) ढाल के साथ वस्तु। इस वर्ग को इनहेरिट नहीं किया जा सकता. |
-| [SolidBrush](./solidbrush/) | ठोस ब्रश विशिष्ट रंग के साथ लगातार चित्र बनाने के लिए है। इस वर्ग को इनहेरिट नहीं किया जा सकता. |
-| [TextureBrush](./texturebrush/) | की प्रत्येक संपत्ति[`TextureBrush`](../aspose.psd.brushes/texturebrush/) वर्ग एक है[`Brush`](../aspose.psd/brush/) वस्तु जो किसी आकृति के आंतरिक भाग को भरने के लिए एक छवि का उपयोग करती है। इस वर्ग को इनहेरिट नहीं किया जा सकता. |
-| [TransformBrush](./transformbrush/) | ए[`Brush`](../aspose.psd/brush/) परिवर्तन क्षमताओं के साथ. |
+| [HatchBrush](./hatchbrush/) | हैच शैली, अग्रभूमि रंग और पृष्ठभूमि रंग के साथ एक आयताकार ब्रश को परिभाषित करता है। यह क्लास विरासत में नहीं ली जा सकती। |
+| [LinearGradientBrush](./lineargradientbrush/) | एक रैखिक ग्रेडिएंट के साथ एक [`Brush`](../aspose.psd/brush/) को संलग्न करता है। यह क्लास विरासत में नहीं ली जा सकती। |
+| [LinearGradientBrushBase](./lineargradientbrushbase/) | ग्रेडिएंट क्षमताओं और उपयुक्त प्रॉपर्टीज़ के साथ एक [`Brush`](../aspose.psd/brush/) का प्रतिनिधित्व करता है। |
+| [LinearMulticolorGradientBrush](./linearmulticolorgradientbrush/) | एकाधिक रंगों और उपयुक्त स्थितियों द्वारा परिभाषित रैखिक ग्रेडिएंट के साथ एक [`Brush`](../aspose.psd/brush/) का प्रतिनिधित्व करता है। यह क्लास विरासत में नहीं ली जा सकती। |
+| [PathGradientBrush](./pathgradientbrush/) | एक ग्रेडिएंट के साथ एक [`Brush`](../aspose.psd/brush/) ऑब्जेक्ट को संलग्न करता है। यह क्लास विरासत में नहीं ली जा सकती। |
+| [PathGradientBrushBase](./pathgradientbrushbase/) | बेस पाथ ग्रेडिएंट कार्यक्षमता के साथ एक [`Brush`](../aspose.psd/brush/) का प्रतिनिधित्व करता है। |
+| [PathMulticolorGradientBrush](./pathmulticolorgradientbrush/) | एक ग्रेडिएंट के साथ एक [`Brush`](../aspose.psd/brush/) ऑब्जेक्ट को संलग्न करता है। यह क्लास विरासत में नहीं ली जा सकती। |
+| [SolidBrush](./solidbrush/) | सॉलिड ब्रश को विशिष्ट रंग के साथ निरंतर ड्रॉइंग के लिए अभिप्रेत किया गया है। यह क्लास विरासत में नहीं ली जा सकती। |
+| [TextureBrush](./texturebrush/) | प्रत्येक प्रॉपर्टी [`TextureBrush`](../aspose.psd.brushes/texturebrush/) क्लास की एक [`Brush`](../aspose.psd/brush/) ऑब्जेक्ट है जो किसी आकार के अंदरूनी हिस्से को भरने के लिए छवि का उपयोग करता है। यह क्लास विरासत में नहीं ली जा सकती। |
+| [TransformBrush](./transformbrush/) | ट्रांसफ़ॉर्म क्षमताओं वाला एक [`Brush`](../aspose.psd/brush/)। |
 
 

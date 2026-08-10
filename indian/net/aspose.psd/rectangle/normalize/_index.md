@@ -1,23 +1,24 @@
 ---
-title: Rectangle.Normalize
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Rectangle तरक. आयत क चड़ई और ऊंचई क सकरत्मक बनकर बएँ क दएँ से कम और ऊपर क नचे से कम बनकर समन्य करत है
+title: "Rectangle.Normalize"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Rectangle विधि। आयत को उसके चौड़ाई और ऊँचाई को सकारात्मक बनाकर सामान्यीकृत करता है, बायाँ दाएँ से कम और ऊपर नीचे से कम होता है।"
 type: docs
 weight: 260
 url: /hi/net/aspose.psd/rectangle/normalize/
 ---
+{{< psd/tize >}}
 ## Rectangle.Normalize method
 
-आयत की चौड़ाई और ऊंचाई को सकारात्मक बनाकर, बाएँ को दाएँ से कम और ऊपर को नीचे से कम बनाकर सामान्य करता है।
+आयत को सामान्यीकृत करता है, जिससे इसकी चौड़ाई और ऊँचाई सकारात्मक हो जाती है, बायाँ दाएँ से कम और शीर्ष नीचे से कम हो जाता है।
 
 ```csharp
 public void Normalize()
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * struct [Rectangle](../)
-* नाम स्थान [Aspose.PSD](../../rectangle/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,28 +1,29 @@
 ---
-title: Figure.RemoveShapes
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Figure तरक. आकृत से आकृतयं क एक श्रृंखल क हटत है
+title: "Figure.RemoveShapes"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Figure मेथड। फ़िगर से आकारों की एक रेंज हटाता है"
 type: docs
 weight: 100
 url: /hi/net/aspose.psd/figure/removeshapes/
 ---
+{{< psd/tize >}}
 ## Figure.RemoveShapes method
 
-आकृति से आकृतियों की एक श्रृंखला को हटाता है।
+आकृति से आकारों की एक श्रृंखला हटाता है।
 
 ```csharp
 public void RemoveShapes(Shape[] shapes)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| shapes | Shape[] | आकृतियों को हटाने की सीमा होती है। |
+| शेप्स | Shape[] | हटाने के लिए आकारों की रेंज। |
 
-### यह सभी देखें
+### देखें भी
 
 * class [Shape](../../shape/)
 * class [Figure](../)
-* नाम स्थान [Aspose.PSD](../../figure/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

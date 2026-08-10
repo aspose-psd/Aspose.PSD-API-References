@@ -1,23 +1,24 @@
 ---
-title: GlobalLayerMaskInfo.Length
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: GlobalLayerMaskInfo संपत्त. बइट्स में ग्लबल लेयर मस्क सेक्शन क लंबई प्रप्त करत है
+title: "GlobalLayerMaskInfo.Length"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "GlobalLayerMaskInfo प्रॉपर्टी। ग्लोबल लेयर मास्क सेक्शन की लंबाई बाइट्स में प्राप्त करता है"
 type: docs
 weight: 60
 url: /hi/net/aspose.psd.fileformats.psd.layers/globallayermaskinfo/length/
 ---
+{{< psd/tize >}}
 ## GlobalLayerMaskInfo.Length property
 
-बाइट्स में ग्लोबल लेयर मास्क सेक्शन की लंबाई प्राप्त करता है।
+ग्लोबल लेयर मास्क सेक्शन की लंबाई बाइट्स में प्राप्त करता है।
 
 ```csharp
-public int Length { get; }
+public long Length { get; }
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * class [GlobalLayerMaskInfo](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers](../../globallayermaskinfo/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

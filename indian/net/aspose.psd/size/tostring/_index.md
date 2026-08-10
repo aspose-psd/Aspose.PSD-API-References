@@ -1,27 +1,28 @@
 ---
-title: Size.ToString
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Size तरक. एक मनवपठनय स्ट्रंग बनत है ज इसक प्रतनधत्व करत हैSize .
+title: "Size.ToString"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Size मेथड। इस Size को दर्शाने वाली मानव-पठनीय स्ट्रिंग बनाता है।"
 type: docs
 weight: 130
 url: /hi/net/aspose.psd/size/tostring/
 ---
+{{< psd/tize >}}
 ## Size.ToString method
 
-एक मानव-पठनीय स्ट्रिंग बनाता है जो इसका प्रतिनिधित्व करता है[`Size`](../) .
+एक मानव-पठनीय स्ट्रिंग बनाता है जो इस [`Size`](../) को दर्शाती है।
 
 ```csharp
 public override string ToString()
 ```
 
-### प्रतिलाभ की मात्रा
+### रिटर्न वैल्यू
 
-एक स्ट्रिंग जो इसका प्रतिनिधित्व करती है[`Size`](../).
+एक स्ट्रिंग जो इस [`Size`](../) को दर्शाती है।
 
-### यह सभी देखें
+### देखें भी
 
 * struct [Size](../)
-* नाम स्थान [Aspose.PSD](../../size/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

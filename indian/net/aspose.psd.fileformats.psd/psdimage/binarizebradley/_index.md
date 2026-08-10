@@ -1,48 +1,49 @@
 ---
-title: PsdImage.BinarizeBradley
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: PsdImage तरक. इंटग्रल इमेज थ्रेशल्डंग क उपयग करके ब्रैडल के एडेप्टव थ्रेशल्डंग एल्गरथम क उपयग करके इमेज क बइनेरइज़ेशन
+title: "PsdImage.BinarizeBradley"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "PsdImage मेथड। इंटीग्रल इमेज थ्रेशहोल्डिंग का उपयोग करके ब्रैडली के अनुकूली थ्रेशहोल्डिंग एल्गोरिदम द्वारा छवि का बाइनरीकरण"
 type: docs
-weight: 470
+weight: 530
 url: /hi/net/aspose.psd.fileformats.psd/psdimage/binarizebradley/
 ---
+{{< psd/tize >}}
 ## BinarizeBradley(double, int) {#binarizebradley_1}
 
-इंटीग्रल इमेज थ्रेशोल्डिंग का उपयोग करके ब्रैडली के एडेप्टिव थ्रेशोल्डिंग एल्गोरिथम का उपयोग करके इमेज का बाइनेराइज़ेशन
+ब्रैडली के अनुकूली थ्रेशहोल्डिंग एल्गोरिद्म का उपयोग करके इंटीग्रल इमेज थ्रेशहोल्डिंग के साथ छवि का बाइनरीकरण
 
 ```csharp
 public override void BinarizeBradley(double brightnessDifference, int windowSize)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| brightnessDifference | Double | पिक्सेल के बीच चमक अंतर और इस पिक्सेल के आसपास केंद्रित पिक्सेल की एक sxs विंडो का औसत। |
-| windowSize | Int32 | इस पिक्सेल के चारों ओर केंद्रित पिक्सेल की sxs विंडो का आकार |
+| brightnessDifference | Double | पिक्सेल और इस पिक्सेल के चारों ओर केंद्रित s x s विंडो के पिक्सेल औसत के बीच चमक अंतर। |
+| windowSize | Int32 | इस पिक्सेल के चारों ओर केंद्रित s x s विंडो के पिक्सेल का आकार। |
 
-### यह सभी देखें
+### देखें भी
 
 * class [PsdImage](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## BinarizeBradley(double) {#binarizebradley}
 
-इंटीग्रल इमेज थ्रेशोल्डिंग का उपयोग करके ब्रैडली के एडेप्टिव थ्रेशोल्डिंग एल्गोरिथम का उपयोग करके इमेज का बाइनेराइज़ेशन
+ब्रैडली के अनुकूली थ्रेशहोल्डिंग एल्गोरिद्म का उपयोग करके इंटीग्रल इमेज थ्रेशहोल्डिंग के साथ छवि का बाइनरीकरण
 
 ```csharp
 public override void BinarizeBradley(double brightnessDifference)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| brightnessDifference | Double | पिक्सेल के बीच चमक अंतर और इस पिक्सेल के आसपास केंद्रित पिक्सेल की एक sxs विंडो का औसत। |
+| brightnessDifference | Double | पिक्सेल और इस पिक्सेल के चारों ओर केंद्रित s x s विंडो के पिक्सेल औसत के बीच चमक अंतर। |
 
-### यह सभी देखें
+### देखें भी
 
 * class [PsdImage](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

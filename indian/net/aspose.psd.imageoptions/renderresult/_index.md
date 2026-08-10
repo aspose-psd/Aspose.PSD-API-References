@@ -1,14 +1,15 @@
 ---
-title: Class RenderResult
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Aspose.PSD.ImageOptions.RenderResult कक्ष. रेंडरंग के परणमं के सथ सूचन क प्रतनधत्व करत है
+title: "क्लास RenderResult"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Aspose.PSD.ImageOptions.RenderResult क्लास। रेंडरिंग के परिणामों के साथ जानकारी को दर्शाता है"
 type: docs
-weight: 4930
+weight: 5420
 url: /hi/net/aspose.psd.imageoptions/renderresult/
 ---
+{{< psd/tize >}}
 ## RenderResult class
 
-रेंडरिंग के परिणामों के साथ सूचना का प्रतिनिधित्व करता है
+रेंडरिंग के परिणामों के साथ जानकारी का प्रतिनिधित्व करता है
 
 ```csharp
 public class RenderResult
@@ -18,18 +19,18 @@ public class RenderResult
 
 | नाम | विवरण |
 | --- | --- |
-| [RenderResult](renderresult/)() | डिफ़ॉल्ट कंस्ट्रक्टर। |
+| [RenderResult](renderresult/)() | डिफ़ॉल्ट कन्स्ट्रक्टर। |
 
-## गुण
+## प्रॉपर्टीज़
 
 | नाम | विवरण |
 | --- | --- |
-| [Message](../../aspose.psd.imageoptions/renderresult/message/) { get; set; } | स्ट्रिंग संदेश प्राप्त या सेट करता है |
-| [RenderCode](../../aspose.psd.imageoptions/renderresult/rendercode/) { get; set; } | त्रुटि का कोड प्राप्त या सेट करता है |
+| [Message](../../aspose.psd.imageoptions/renderresult/message/) { get; set; } | स्ट्रिंग संदेश प्राप्त करता है या सेट करता है |
+| [RenderCode](../../aspose.psd.imageoptions/renderresult/rendercode/) { get; set; } | त्रुटि कोड प्राप्त करता है या सेट करता है |
 
-### यह सभी देखें
+### देखें भी
 
-* नाम स्थान [Aspose.PSD.ImageOptions](../../aspose.psd.imageoptions/)
-* सभा [Aspose.PSD](../../)
+* namespace [Aspose.PSD.ImageOptions](../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../)
 
 

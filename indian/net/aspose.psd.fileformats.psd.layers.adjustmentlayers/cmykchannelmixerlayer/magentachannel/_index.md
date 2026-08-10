@@ -1,28 +1,29 @@
 ---
-title: CmykChannelMixerLayer.MagentaChannel
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: CmykChannelMixerLayer संपत्त. मैजेंट चैनल प्रप्त करत है
+title: "CmykChannelMixerLayer.MagentaChannel"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "CmykChannelMixerLayer प्रॉपर्टी। मैजेंटा चैनल प्राप्त करता है"
 type: docs
 weight: 30
 url: /hi/net/aspose.psd.fileformats.psd.layers.adjustmentlayers/cmykchannelmixerlayer/magentachannel/
 ---
+{{< psd/tize >}}
 ## CmykChannelMixerLayer.MagentaChannel property
 
-मैजेंटा चैनल प्राप्त करता है।
+मैजेंटा चैनल को प्राप्त करता है।
 
 ```csharp
 public CmykMixerChannel MagentaChannel { get; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-मैजेंटा चैनल.
+मैजेंटा चैनल।
 
-### यह सभी देखें
+### देखें भी
 
 * class [CmykMixerChannel](../../cmykmixerchannel/)
 * class [CmykChannelMixerLayer](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../cmykchannelmixerlayer/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: Enum ExifContrast
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Aspose.PSD.Exif.Enums.ExifContrast एनुम. एक्सफ नर्मल सफ्ट हर्ड एनम.
+title: "Enum ExifContrast"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Aspose.PSD.Exif.Enums.ExifContrast enum. exif सामान्य सॉफ्ट हार्ड enum"
 type: docs
-weight: 810
+weight: 820
 url: /hi/net/aspose.psd.exif.enums/exifcontrast/
 ---
+{{< psd/tize >}}
 ## ExifContrast enumeration
 
-एक्सिफ नॉर्मल सॉफ्ट हार्ड एनम.
+exif सामान्य सॉफ्ट हार्ड एनेम.
 
 ```csharp
 public enum ExifContrast
@@ -16,15 +17,15 @@ public enum ExifContrast
 
 ### मान
 
-| नाम | कीमत | विवरण |
+| नाम | मान | विवरण |
 | --- | --- | --- |
-| Normal | `0` | सामान्य कंट्रास्ट. |
-| Low | `1` | कम कंट्रास्ट. |
-| High | `2` | उच्च कंट्रास्ट. |
+| Normal | `0` | सामान्य कंट्रास्ट। |
+| Low | `1` | कम कंट्रास्ट। |
+| High | `2` | उच्च कंट्रास्ट। |
 
-### यह सभी देखें
+### देखें भी
 
-* नाम स्थान [Aspose.PSD.Exif.Enums](../../aspose.psd.exif.enums/)
-* सभा [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Exif.Enums](../../aspose.psd.exif.enums/)
+* assembly [Aspose.PSD](../../)
 
 

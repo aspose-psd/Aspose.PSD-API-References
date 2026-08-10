@@ -1,24 +1,25 @@
 ---
-title: PsdImage.FileFormat
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: PsdImage संपत्त. फ़इल स्वरूप क मन प्रप्त करत है
+title: "PsdImage.FileFormat"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "PsdImage property. फ़ाइल फ़ॉर्मेट का मान प्राप्त करता है"
 type: docs
 weight: 90
 url: /hi/net/aspose.psd.fileformats.psd/psdimage/fileformat/
 ---
+{{< psd/tize >}}
 ## PsdImage.FileFormat property
 
-फ़ाइल स्वरूप का मान प्राप्त करता है
+फ़ाइल फ़ॉर्मेट का मान प्राप्त करता है
 
 ```csharp
 public override FileFormat FileFormat { get; }
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * enum [FileFormat](../../../aspose.psd/fileformat/)
 * class [PsdImage](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

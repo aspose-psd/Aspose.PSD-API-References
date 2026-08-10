@@ -1,67 +1,68 @@
 ---
-title: BritResource.BritResource
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: BritResource नर्मत. क एक नय उदहरण प्ररंभ करत हैBritResource वर्ग.
+title: "BritResource.BritResource"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "BritResource कंस्ट्रक्टर। BritResource क्लास का एक नया उदाहरण प्रारंभ करता है"
 type: docs
 weight: 10
 url: /hi/net/aspose.psd.fileformats.psd.layers.layerresources/britresource/britresource/
 ---
+{{< psd/tize >}}
 ## BritResource() {#constructor}
 
-का एक नया उदाहरण प्रारंभ करता है[`BritResource`](../) वर्ग.
+[`BritResource`](../) क्लास का एक नया उदाहरण प्रारंभ करता है।
 
 ```csharp
 public BritResource()
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * class [BritResource](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../britresource/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## BritResource(short, short, short, bool) {#constructor_2}
 
-का एक नया उदाहरण प्रारंभ करता है[`BritResource`](../) वर्ग.
+[`BritResource`](../) क्लास का एक नया उदाहरण प्रारंभ करता है।
 
 ```csharp
 public BritResource(short brightness, short contrast, short meanValueForBrightnessAndContrast, 
     bool labColor)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| brightness | Int16 | चमक। |
-| contrast | Int16 | विपरीत। |
-| meanValueForBrightnessAndContrast | Int16 | चमक और कंट्रास्ट के लिए औसत मूल्य। |
-| labColor | Boolean | अगर सेट है`सत्य` [प्रयोगशाला रंग]। |
+| उज्ज्वलता | Int16 | चमक। |
+| विरोध | Int16 | contrast। |
+| meanValueForBrightnessAndContrast | Int16 | चमक और कंट्रास्ट के लिए औसत मान। |
+| labColor | बूलियन | यदि `true` [lab color] सेट किया गया है। |
 
-### यह सभी देखें
+### देखें भी
 
 * class [BritResource](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../britresource/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## BritResource(byte[]) {#constructor_1}
 
-का एक नया उदाहरण प्रारंभ करता है[`BritResource`](../)class. PSD प्रारूप विनिर्देश में निम्नलिखित विवरण शामिल हैं: 2 चमक 2 कंट्रास्ट 2 चमक और कंट्रास्ट के लिए औसत मूल्य 1 लैब रंग केवल इसका उपयोग आधुनिक PSD (CS5 और ऊपर) में नहीं किया जाता है जहां CgEd है। CgEd जानकारी गुण संग्रहीत करता है
+[`BritResource`](../) क्लास का एक नया उदाहरण प्रारंभ करता है। PSD फ़ॉर्मेट विनिर्देश में निम्नलिखित विवरण शामिल है: 2 उज्ज्वलता 2 विरोध 2 उज्ज्वलता और विरोध के लिए औसत मान 1 केवल लैब रंग। यह आधुनिक PSD(CS5 और उससे ऊपर) में उपयोग नहीं होता जहाँ CgEd है। CgEd जानकारी गुण संग्रहीत करता है।
 
 ```csharp
 public BritResource(byte[] bytes)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| bytes | Byte[] | बाइट्स। |
+| बाइट्स | Byte[] | बाइट्स। |
 
-### यह सभी देखें
+### देखें भी
 
 * class [BritResource](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../britresource/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,40 +1,41 @@
 ---
-title: ImageExportersRegistry.GetFirstSupportedDescriptor
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: ImageExportersRegistry तरक. फस्ट फउंड सपर्टेड डस्क्रप्टर प्रप्त करत है ज नर्दष्ट सेव ऑप्शन और इमेज के लए उपयुक्त है
+title: "ImageExportersRegistry.GetFirstSupportedDescriptor"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "ImageExportersRegistry मेथड। निर्दिष्ट सहेजने के विकल्प और छवि के लिए उपयुक्त पहला पाया गया समर्थित डिस्क्रिप्टर प्राप्त करता है।"
 type: docs
 weight: 40
 url: /hi/net/aspose.psd/imageexportersregistry/getfirstsupporteddescriptor/
 ---
+{{< psd/tize >}}
 ## ImageExportersRegistry.GetFirstSupportedDescriptor method
 
-फिस्ट फाउंड सपोर्टेड डिस्क्रिप्टर प्राप्त करता है जो निर्दिष्ट सेव ऑप्शन और इमेज के लिए उपयुक्त है।
+निर्दिष्ट सहेजने के विकल्प और इमेज के लिए उपयुक्त पहला पाया गया समर्थित विवरण प्राप्त करता है।
 
 ```csharp
 public static IImageExporterDescriptor GetFirstSupportedDescriptor(Image image, 
     ImageOptionsBase options)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| image | Image | निर्यात की जाने वाली छवि। |
-| options | ImageOptionsBase | विकल्प। |
+| छवि | छवि | निर्यात करने के लिए छवि। |
+| विकल्प | ImageOptionsBase | विकल्प। |
 
-### प्रतिलाभ की मात्रा
+### रिटर्न वैल्यू
 
-निर्यातक डिस्क्रिप्टर जो निर्दिष्ट छवि का समर्थन करता है और यदि ऐसा कोई डिस्क्रिप्टर नहीं मिलता है तो विकल्पों को सहेजता है या शून्य करता है।
+निर्दिष्ट छवि और सहेजने के विकल्पों को समर्थन करने वाला निर्यातकर्ता डिस्क्रिप्टर, या यदि ऐसा कोई डिस्क्रिप्टर नहीं मिला तो null।
 
-### टिप्पणियों
+## टिप्पणियाँ
 
-पहला निर्यातक विवरणक वास्तव में अंतिम पंजीकृत होगा।
+पहला निर्यातकर्ता डिस्क्रिप्टर वास्तव में अंतिम पंजीकृत होगा।
 
-### यह सभी देखें
+### देखें भी
 
 * interface [IImageExporterDescriptor](../../iimageexporterdescriptor/)
 * class [Image](../../image/)
 * class [ImageOptionsBase](../../imageoptionsbase/)
 * class [ImageExportersRegistry](../)
-* नाम स्थान [Aspose.PSD](../../imageexportersregistry/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

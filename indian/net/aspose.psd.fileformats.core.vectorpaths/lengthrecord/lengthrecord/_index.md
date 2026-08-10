@@ -1,48 +1,43 @@
 ---
-title: LengthRecord.LengthRecord
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: LengthRecord नर्मत. क एक नय उदहरण प्ररंभ करत हैLengthRecord वर्ग.
+title: "LengthRecord.LengthRecord"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "LengthRecord कन्स्ट्रक्टर। LengthRecord क्लास का नया इंस्टेंस इनिशियलाइज़ करता है"
 type: docs
 weight: 10
 url: /hi/net/aspose.psd.fileformats.core.vectorpaths/lengthrecord/lengthrecord/
 ---
+{{< psd/tize >}}
 ## LengthRecord(byte[]) {#constructor_1}
 
-का एक नया उदाहरण प्रारंभ करता है[`LengthRecord`](../) वर्ग.
+[`LengthRecord`](../) क्लास का नया इंस्टेंस इनिशियलाइज़ करता है।
 
 ```csharp
 public LengthRecord(byte[] data)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| data | Byte[] | रिकॉर्ड डेटा। |
+| डेटा | Byte[] | रिकॉर्ड डेटा। |
 
-### अपवाद
-
-| अपवाद | स्थिति |
-| --- | --- |
-| !:PsdImageArgumentException | लेंथ रिकॉर्ड बनाने के लिए गलत डेटा |
-
-### यह सभी देखें
+### देखें भी
 
 * class [LengthRecord](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Core.VectorPaths](../../lengthrecord/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## LengthRecord() {#constructor}
 
-का एक नया उदाहरण प्रारंभ करता है[`LengthRecord`](../) वर्ग.
+[`LengthRecord`](../) क्लास का नया इंस्टेंस इनिशियलाइज़ करता है।
 
 ```csharp
 public LengthRecord()
 ```
 
-### उदाहरण
+## उदाहरण
 
-निम्न कोड उदाहरण नई लेंथरेकॉर्ड गुणों, पाथऑपरेशन (बूलियन ऑपरेशंस), शेपइंडेक्स और बेज़ियर नॉट रिकॉर्ड्सकाउंट के समर्थन को प्रदर्शित करता है।
+निम्नलिखित कोड उदाहरण नई LengthRecord गुणों, PathOperations (बूलियन ऑपरेशन्स), ShapeIndex और BezierKnotRecordsCount के समर्थन को दर्शाता है।
 
 ```csharp
 [C#]
@@ -66,7 +61,7 @@ using (var im = (PsdImage)Image.Load(sourceFilePath))
     LengthRecord lengthRecord1 = (LengthRecord)resource.Paths[7];
     LengthRecord lengthRecord2 = (LengthRecord)resource.Paths[11];
 
-    // यहां हम आकृतियों के बीच संयोजन करने का तरीका बदलते हैं।
+    // यहाँ हम आकारों के बीच संयोजन के तरीके को बदल रहे हैं।
     lengthRecord0.PathOperations = PathOperations.ExcludeOverlappingShapes;
     lengthRecord1.PathOperations = PathOperations.IntersectShapeAreas;
     lengthRecord2.PathOperations = PathOperations.SubtractFrontShape;
@@ -75,10 +70,10 @@ using (var im = (PsdImage)Image.Load(sourceFilePath))
 }
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * class [LengthRecord](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Core.VectorPaths](../../lengthrecord/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../../)
 
 

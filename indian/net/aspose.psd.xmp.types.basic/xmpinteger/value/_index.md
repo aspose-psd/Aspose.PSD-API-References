@@ -1,27 +1,28 @@
 ---
-title: XmpInteger.Value
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: XmpInteger संपत्त. मन प्रप्त करत है य सेट करत है
+title: "XmpInteger.Value"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "XmpInteger प्रॉपर्टी। मान प्राप्त करता है या सेट करता है"
 type: docs
 weight: 20
 url: /hi/net/aspose.psd.xmp.types.basic/xmpinteger/value/
 ---
+{{< psd/tize >}}
 ## XmpInteger.Value property
 
-मान प्राप्त करता है या सेट करता है।
+मान को प्राप्त करता है या सेट करता है।
 
 ```csharp
 public long Value { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-मान.
+मान।
 
-### यह सभी देखें
+### देखें भी
 
 * class [XmpInteger](../)
-* नाम स्थान [Aspose.PSD.Xmp.Types.Basic](../../xmpinteger/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Basic](../../../aspose.psd.xmp.types.basic/)
+* assembly [Aspose.PSD](../../../)
 
 

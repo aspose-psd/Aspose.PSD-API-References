@@ -1,28 +1,29 @@
 ---
-title: VectorRasterizationOptions.SmoothingMode
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: VectorRasterizationOptions संपत्त. स्मूथंग मड प्रप्त य सेट करत है
+title: "VectorRasterizationOptions.SmoothingMode"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "VectorRasterizationOptions प्रॉपर्टी। स्मूथिंग मोड को प्राप्त करता है या सेट करता है"
 type: docs
 weight: 90
 url: /hi/net/aspose.psd.imageoptions/vectorrasterizationoptions/smoothingmode/
 ---
+{{< psd/tize >}}
 ## VectorRasterizationOptions.SmoothingMode property
 
-स्मूथिंग मोड प्राप्त या सेट करता है।
+प्राप्त करता है या सेट करता है स्मूदिंग मोड।
 
 ```csharp
 public SmoothingMode SmoothingMode { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
 स्मूथिंग मोड।
 
-### यह सभी देखें
+### देखें भी
 
 * enum [SmoothingMode](../../../aspose.psd/smoothingmode/)
 * class [VectorRasterizationOptions](../)
-* नाम स्थान [Aspose.PSD.ImageOptions](../../vectorrasterizationoptions/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

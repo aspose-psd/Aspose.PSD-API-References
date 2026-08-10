@@ -1,14 +1,15 @@
 ---
-title: Class OperationInterruptedException
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Aspose.PSD.CoreExceptions.OperationInterruptedException कक्ष. तब हत है जब कई ऑपरेशन बधत हत है
+title: "क्लास OperationInterruptedException"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Aspose.PSD.CoreExceptions.OperationInterruptedException क्लास। जब कोई ऑपरेशन बाधित होता है तब यह होता है"
 type: docs
 weight: 660
 url: /hi/net/aspose.psd.coreexceptions/operationinterruptedexception/
 ---
+{{< psd/tize >}}
 ## OperationInterruptedException class
 
-तब होता है जब कोई ऑपरेशन बाधित होता है।
+जब कोई ऑपरेशन बाधित होता है तब होता है।
 
 ```csharp
 public class OperationInterruptedException : FrameworkException
@@ -18,13 +19,13 @@ public class OperationInterruptedException : FrameworkException
 
 | नाम | विवरण |
 | --- | --- |
-| [OperationInterruptedException](operationinterruptedexception/#constructor)(string) | का एक नया उदाहरण प्रारंभ करता है`OperationInterruptedException` वर्ग. |
-| [OperationInterruptedException](operationinterruptedexception/#constructor_1)(string, Exception) | का एक नया उदाहरण प्रारंभ करता है`OperationInterruptedException` वर्ग. |
+| [OperationInterruptedException](operationinterruptedexception/#constructor)(string) | `OperationInterruptedException` क्लास का नया उदाहरण प्रारंभ करता है। |
+| [OperationInterruptedException](operationinterruptedexception/#constructor_1)(string, Exception) | `OperationInterruptedException` क्लास का नया उदाहरण प्रारंभ करता है। |
 
-### यह सभी देखें
+### देखें भी
 
 * class [FrameworkException](../frameworkexception/)
-* नाम स्थान [Aspose.PSD.CoreExceptions](../../aspose.psd.coreexceptions/)
-* सभा [Aspose.PSD](../../)
+* namespace [Aspose.PSD.CoreExceptions](../../aspose.psd.coreexceptions/)
+* assembly [Aspose.PSD](../../)
 
 

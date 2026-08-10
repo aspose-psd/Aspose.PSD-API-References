@@ -1,27 +1,28 @@
 ---
-title: LayerMaskDataFull.BackgroundColor
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: LayerMaskDataFull संपत्त. पृष्ठभूम क रंग प्रप्त य सेट करत है
+title: "LayerMaskDataFull.BackgroundColor"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "LayerMaskDataFull प्रॉपर्टी। बैकग्राउंड रंग को प्राप्त करता है या सेट करता है"
 type: docs
 weight: 20
 url: /hi/net/aspose.psd.fileformats.psd.layers/layermaskdatafull/backgroundcolor/
 ---
+{{< psd/tize >}}
 ## LayerMaskDataFull.BackgroundColor property
 
-पृष्ठभूमि का रंग प्राप्त या सेट करता है।
+पृष्ठभूमि रंग को प्राप्त करता है या सेट करता है।
 
 ```csharp
 public byte BackgroundColor { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-पृष्ठभूमि का रंग।
+पृष्ठभूमि रंग।
 
-### यह सभी देखें
+### देखें भी
 
 * class [LayerMaskDataFull](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers](../../layermaskdatafull/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

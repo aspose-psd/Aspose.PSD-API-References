@@ -1,27 +1,28 @@
 ---
-title: MedianFilterOptions.Size
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: MedianFilterOptions संपत्त. आकर प्रप्त य सेट करत है
+title: "MedianFilterOptions.Size"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "MedianFilterOptions प्रॉपर्टी। आकार को प्राप्त करता है या सेट करता है"
 type: docs
 weight: 20
 url: /hi/net/aspose.psd.imagefilters.filteroptions/medianfilteroptions/size/
 ---
+{{< psd/tize >}}
 ## MedianFilterOptions.Size property
 
-आकार प्राप्त या सेट करता है।
+आकार को प्राप्त करता है या सेट करता है।
 
 ```csharp
 public int Size { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-फ़िल्टर आयत का आकार.
+फ़िल्टर आयत का आकार।
 
-### यह सभी देखें
+### देखें भी
 
 * class [MedianFilterOptions](../)
-* नाम स्थान [Aspose.PSD.ImageFilters.FilterOptions](../../medianfilteroptions/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageFilters.FilterOptions](../../../aspose.psd.imagefilters.filteroptions/)
+* assembly [Aspose.PSD](../../../)
 
 

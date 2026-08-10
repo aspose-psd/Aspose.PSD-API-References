@@ -1,32 +1,33 @@
 ---
-title: RectangleF.op_Inequality
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: RectangleF तरक. परक्षण करत है क क्य द हैंRectangleF संरचनएं स्थन य आकर में भन्न हत हैं
+title: "RectangleF.op_Inequality"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "RectangleF मेथड। परीक्षण करता है कि क्या दो RectangleF संरचनाएँ स्थिति या आकार में भिन्न हैं।"
 type: docs
 weight: 290
 url: /hi/net/aspose.psd/rectanglef/op_inequality/
 ---
+{{< psd/tize >}}
 ## RectangleF Inequality operator
 
-परीक्षण करता है कि क्या दो हैं[`RectangleF`](../) संरचनाएं स्थान या आकार में भिन्न होती हैं।
+परीक्षण करता है कि दो [`RectangleF`](../) संरचनाएँ स्थिति या आकार में भिन्न हैं।
 
 ```csharp
 public static bool operator !=(RectangleF left, RectangleF right)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| left | RectangleF | [`RectangleF`](../) संरचना जो असमानता ऑपरेटर के बाईं ओर है। |
-| right | RectangleF | [`RectangleF`](../) संरचना जो असमानता ऑपरेटर के दाईं ओर है। |
+| left | RectangleF | असमानता ऑपरेटर के बाएँ स्थित [`RectangleF`](../) संरचना। |
+| right | RectangleF | असमानता ऑपरेटर के दाएँ स्थित [`RectangleF`](../) संरचना। |
 
-### प्रतिलाभ की मात्रा
+### रिटर्न वैल्यू
 
-यह ऑपरेटर सत्य लौटाता है यदि इनमें से कोई भी[`X`](../x/) ,[`Y`](../y/) ,[`Width`](../width/) , या[`Height`](../height/) दो के गुण[`RectangleF`](../) संरचनाएं असमान हैं; अन्यथा झूठा।
+यदि दो [`RectangleF`](../) संरचनाओं के किसी भी [`X`](../x/), [`Y`](../y/), [`Width`](../width/) या [`Height`](../height/) गुण असमान हों तो यह ऑपरेटर true लौटाता है; अन्यथा false।
 
-### यह सभी देखें
+### देखें भी
 
 * struct [RectangleF](../)
-* नाम स्थान [Aspose.PSD](../../rectanglef/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

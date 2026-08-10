@@ -1,23 +1,24 @@
 ---
-title: AsyncTaskProgress.Duration
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: AsyncTaskProgress मैदन. अतुल्यकलक कर्य क अवध.
+title: "AsyncTaskProgress.Duration"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "AsyncTaskProgress फ़ील्ड। असिंक्रोनस कार्य की अवधि।"
 type: docs
 weight: 20
 url: /hi/net/aspose.psd.asynctask/asynctaskprogress/duration/
 ---
+{{< psd/tize >}}
 ## AsyncTaskProgress.Duration field
 
-अतुल्यकालिक कार्य की अवधि.
+असिंक्रोनस कार्य की अवधि।
 
 ```csharp
 public readonly TimeSpan Duration;
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * class [AsyncTaskProgress](../)
-* नाम स्थान [Aspose.PSD.AsyncTask](../../asynctaskprogress/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.AsyncTask](../../../aspose.psd.asynctask/)
+* assembly [Aspose.PSD](../../../)
 
 

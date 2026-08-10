@@ -1,14 +1,15 @@
 ---
-title: Enum JfifDensityUnits
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Aspose.PSD.FileFormats.Jpeg.JfifDensityUnits एनुम. jfif घनत्व इकइयं.
+title: "एनम JfifDensityUnits"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Aspose.PSD.FileFormats.Jpeg.JfifDensityUnits एनम। jfif घनत्व इकाइयाँ"
 type: docs
-weight: 1480
+weight: 1490
 url: /hi/net/aspose.psd.fileformats.jpeg/jfifdensityunits/
 ---
+{{< psd/tize >}}
 ## JfifDensityUnits enumeration
 
-jfif घनत्व इकाइयां.
+JFIF घनत्व इकाइयाँ।
 
 ```csharp
 public enum JfifDensityUnits : byte
@@ -16,15 +17,15 @@ public enum JfifDensityUnits : byte
 
 ### मान
 
-| नाम | कीमत | विवरण |
+| नाम | मान | विवरण |
 | --- | --- | --- |
-| NoUnits | `0` | कोई इकाई नहीं। |
-| PixelsPerInch | `1` | पिक्सेल प्रति इंच. |
-| PixelsPerCm | `2` | पिक्सेल प्रति सेमी. |
+| NoUnits | `0` | कोई इकाइयाँ नहीं। |
+| PixelsPerInch | `1` | इंच प्रति पिक्सेल। |
+| PixelsPerCm | `2` | सेमी प्रति पिक्सेल। |
 
-### यह सभी देखें
+### देखें भी
 
-* नाम स्थान [Aspose.PSD.FileFormats.Jpeg](../../aspose.psd.fileformats.jpeg/)
-* सभा [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Jpeg](../../aspose.psd.fileformats.jpeg/)
+* assembly [Aspose.PSD](../../)
 
 

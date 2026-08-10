@@ -1,23 +1,24 @@
 ---
-title: IopaResource.Key
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: IopaResource संपत्त. परत संसधन कुंज प्रप्त करत है.
+title: "IopaResource.Key"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "IopaResource प्रॉपर्टी। लेयर संसाधन कुंजी प्राप्त करता है"
 type: docs
 weight: 30
 url: /hi/net/aspose.psd.fileformats.psd.layers.layerresources/ioparesource/key/
 ---
+{{< psd/tize >}}
 ## IopaResource.Key property
 
-परत संसाधन कुंजी प्राप्त करता है.
+लेयर रिसोर्स कुंजी प्राप्त करता है।
 
 ```csharp
 public override int Key { get; }
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * class [IopaResource](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../ioparesource/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

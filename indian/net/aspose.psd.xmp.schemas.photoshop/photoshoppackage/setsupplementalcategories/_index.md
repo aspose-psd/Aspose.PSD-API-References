@@ -1,27 +1,28 @@
 ---
-title: PhotoshopPackage.SetSupplementalCategories
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: PhotoshopPackage तरक. पूरक श्रेणयं सेट करत है.
+title: "PhotoshopPackage.SetSupplementalCategories"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "PhotoshopPackage मेथड। अतिरिक्त श्रेणियाँ सेट करता है"
 type: docs
 weight: 180
 url: /hi/net/aspose.psd.xmp.schemas.photoshop/photoshoppackage/setsupplementalcategories/
 ---
+{{< psd/tize >}}
 ## PhotoshopPackage.SetSupplementalCategories method
 
-पूरक श्रेणियां सेट करता है.
+पूरक श्रेणियों को सेट करता है।
 
 ```csharp
 public void SetSupplementalCategories(string[] supplementalCategories)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| supplementalCategories | String[] | पूरक श्रेणियां। |
+| supplementalCategories | String[] | अतिरिक्त श्रेणियाँ। |
 
-### यह सभी देखें
+### देखें भी
 
 * class [PhotoshopPackage](../)
-* नाम स्थान [Aspose.PSD.Xmp.Schemas.Photoshop](../../photoshoppackage/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.Photoshop](../../../aspose.psd.xmp.schemas.photoshop/)
+* assembly [Aspose.PSD](../../../)
 
 

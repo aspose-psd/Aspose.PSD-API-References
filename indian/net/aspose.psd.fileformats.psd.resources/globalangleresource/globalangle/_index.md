@@ -1,27 +1,28 @@
 ---
-title: GlobalAngleResource.GlobalAngle
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: GlobalAngleResource संपत्त. वैश्वक कण प्रप्त य सेट करत है
+title: "GlobalAngleResource.GlobalAngle"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "GlobalAngleResource प्रॉपर्टी। ग्लोबल एंगल प्राप्त करता है या सेट करता है"
 type: docs
 weight: 30
 url: /hi/net/aspose.psd.fileformats.psd.resources/globalangleresource/globalangle/
 ---
+{{< psd/tize >}}
 ## GlobalAngleResource.GlobalAngle property
 
-वैश्विक कोण प्राप्त या सेट करता है।
+ग्लोबल एंगल को प्राप्त करता है या सेट करता है।
 
 ```csharp
 public int GlobalAngle { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-वैश्विक कोण।
+ग्लोबल एंगल।
 
-### यह सभी देखें
+### देखें भी
 
 * class [GlobalAngleResource](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Resources](../../globalangleresource/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

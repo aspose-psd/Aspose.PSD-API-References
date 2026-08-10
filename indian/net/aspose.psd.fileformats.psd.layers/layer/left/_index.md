@@ -1,27 +1,28 @@
 ---
-title: Layer.Left
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Layer संपत्त. लेफ्ट लेयर पजशन प्रप्त य सेट करत है
+title: "Layer.Left"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Layer प्रॉपर्टी। बाएँ लेयर की स्थिति प्राप्त करता है या सेट करता है"
 type: docs
-weight: 240
+weight: 250
 url: /hi/net/aspose.psd.fileformats.psd.layers/layer/left/
 ---
+{{< psd/tize >}}
 ## Layer.Left property
 
-लेफ्ट लेयर पोजीशन प्राप्त या सेट करता है।
+बाएँ लेयर की स्थिति को प्राप्त करता है या सेट करता है।
 
 ```csharp
-public int Left { get; set; }
+public virtual int Left { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-बाईं परत की स्थिति।
+बाएँ लेयर की स्थिति।
 
-### यह सभी देखें
+### देखें भी
 
 * class [Layer](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers](../../layer/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

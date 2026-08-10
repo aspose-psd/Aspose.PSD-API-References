@@ -1,29 +1,30 @@
 ---
-title: Interface IRasterImagePixelLoader
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Aspose.PSD.IRasterImagePixelLoader इंटरफेस. रेखपुंज छव पक्सेल लडर.
+title: "इंटरफ़ेस IRasterImagePixelLoader"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Aspose.PSD.IRasterImagePixelLoader इंटरफ़ेस। रास्टर इमेज पिक्सेल लोडर"
 type: docs
-weight: 4570
+weight: 5040
 url: /hi/net/aspose.psd/irasterimagepixelloader/
 ---
+{{< psd/tize >}}
 ## IRasterImagePixelLoader interface
 
-रेखापुंज छवि पिक्सेल लोडर.
+रेस्टर छवि पिक्सेल लोडर।
 
 ```csharp
 public interface IRasterImagePixelLoader : IRasterImageRawDataLoader
 ```
 
-## तरीकों
+## मेथड्स
 
 | नाम | विवरण |
 | --- | --- |
-| [LoadPartialPixels](../../aspose.psd/irasterimagepixelloader/loadpartialpixels/)(Rectangle, IPartialPixelLoader) | पिक्सल को आंशिक रूप से लोड करता है (ब्लॉक द्वारा)। |
+| [LoadPartialPixels](../../aspose.psd/irasterimagepixelloader/loadpartialpixels/)(Rectangle, IPartialPixelLoader) | पिक्सेल को आंशिक रूप से (ब्लॉकों द्वारा) लोड करता है। |
 
-### यह सभी देखें
+### देखें भी
 
 * interface [IRasterImageRawDataLoader](../irasterimagerawdataloader/)
-* नाम स्थान [Aspose.PSD](../../aspose.psd/)
-* सभा [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

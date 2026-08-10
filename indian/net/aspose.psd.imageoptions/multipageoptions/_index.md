@@ -1,14 +1,15 @@
 ---
-title: Class MultiPageOptions
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Aspose.PSD.ImageOptions.MultiPageOptions कक्ष. एकधक पृष्ठं के लए समर्थत स्वरूपं के लए आधर वर्ग
+title: "क्लास MultiPageOptions"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Aspose.PSD.ImageOptions.MultiPageOptions क्लास। कई पृष्ठों को सपोर्ट करने वाले फ़ॉर्मैट्स के लिए बेस क्लास"
 type: docs
-weight: 4860
+weight: 5350
 url: /hi/net/aspose.psd.imageoptions/multipageoptions/
 ---
+{{< psd/tize >}}
 ## MultiPageOptions class
 
-एकाधिक पृष्ठों के लिए समर्थित स्वरूपों के लिए आधार वर्ग
+एकाधिक पृष्ठों के समर्थित स्वरूपों के लिए बेस क्लास
 
 ```csharp
 public class MultiPageOptions
@@ -18,39 +19,39 @@ public class MultiPageOptions
 
 | नाम | विवरण |
 | --- | --- |
-| [MultiPageOptions](multipageoptions/#constructor)() | का एक नया उदाहरण प्रारंभ करता है`MultiPageOptions` वर्ग. |
-| [MultiPageOptions](multipageoptions/#constructor_5)(int) | का एक नया उदाहरण प्रारंभ करता है`MultiPageOptions` वर्ग. |
-| [MultiPageOptions](multipageoptions/#constructor_1)(IntRange) | का एक नया उदाहरण प्रारंभ करता है`MultiPageOptions` वर्ग. |
-| [MultiPageOptions](multipageoptions/#constructor_3)(IntRange[]) | का एक नया उदाहरण प्रारंभ करता है`MultiPageOptions` वर्ग. |
-| [MultiPageOptions](multipageoptions/#constructor_7)(int[]) | का एक नया उदाहरण प्रारंभ करता है`MultiPageOptions` वर्ग. |
-| [MultiPageOptions](multipageoptions/#constructor_9)(string[]) | का एक नया उदाहरण प्रारंभ करता है`MultiPageOptions` वर्ग. |
-| [MultiPageOptions](multipageoptions/#constructor_6)(int, Rectangle) | का एक नया उदाहरण प्रारंभ करता है`MultiPageOptions` वर्ग. |
-| [MultiPageOptions](multipageoptions/#constructor_2)(IntRange, Rectangle) | का एक नया उदाहरण प्रारंभ करता है`MultiPageOptions` वर्ग. |
-| [MultiPageOptions](multipageoptions/#constructor_4)(IntRange[], Rectangle) | का एक नया उदाहरण प्रारंभ करता है`MultiPageOptions` वर्ग. |
-| [MultiPageOptions](multipageoptions/#constructor_8)(int[], Rectangle) | का एक नया उदाहरण प्रारंभ करता है`MultiPageOptions` वर्ग. |
-| [MultiPageOptions](multipageoptions/#constructor_10)(string[], Rectangle) | का एक नया उदाहरण प्रारंभ करता है`MultiPageOptions` वर्ग. |
+| [MultiPageOptions](multipageoptions/#constructor)() | `MultiPageOptions` क्लास का नया इंस्टेंस इनिशियलाइज़ करता है। |
+| [MultiPageOptions](multipageoptions/#constructor_5)(int) | `MultiPageOptions` क्लास का नया इंस्टेंस इनिशियलाइज़ करता है। |
+| [MultiPageOptions](multipageoptions/#constructor_1)(IntRange) | `MultiPageOptions` क्लास का नया इंस्टेंस इनिशियलाइज़ करता है। |
+| [MultiPageOptions](multipageoptions/#constructor_3)(IntRange[]) | `MultiPageOptions` क्लास का नया इंस्टेंस इनिशियलाइज़ करता है। |
+| [MultiPageOptions](multipageoptions/#constructor_7)(int[]) | `MultiPageOptions` क्लास का नया इंस्टेंस इनिशियलाइज़ करता है। |
+| [MultiPageOptions](multipageoptions/#constructor_9)(string[]) | `MultiPageOptions` क्लास का नया इंस्टेंस इनिशियलाइज़ करता है। |
+| [MultiPageOptions](multipageoptions/#constructor_6)(int, Rectangle) | `MultiPageOptions` क्लास का नया इंस्टेंस इनिशियलाइज़ करता है। |
+| [MultiPageOptions](multipageoptions/#constructor_2)(IntRange, Rectangle) | `MultiPageOptions` क्लास का नया इंस्टेंस इनिशियलाइज़ करता है। |
+| [MultiPageOptions](multipageoptions/#constructor_4)(IntRange[], Rectangle) | `MultiPageOptions` क्लास का नया इंस्टेंस इनिशियलाइज़ करता है। |
+| [MultiPageOptions](multipageoptions/#constructor_8)(int[], Rectangle) | `MultiPageOptions` क्लास का नया इंस्टेंस इनिशियलाइज़ करता है। |
+| [MultiPageOptions](multipageoptions/#constructor_10)(string[], Rectangle) | `MultiPageOptions` क्लास का नया इंस्टेंस इनिशियलाइज़ करता है। |
 
-## गुण
-
-| नाम | विवरण |
-| --- | --- |
-| [ExportArea](../../aspose.psd.imageoptions/multipageoptions/exportarea/) { get; set; } | निर्यात क्षेत्र प्राप्त या सेट करता है। |
-| [MergeLayers](../../aspose.psd.imageoptions/multipageoptions/mergelayers/) { get; set; } | एक मान प्राप्त या सेट करता है जो दर्शाता है कि क्या [मेयर लेयर्स]. |
-| [Mode](../../aspose.psd.imageoptions/multipageoptions/mode/) { get; set; } | मोड प्राप्त या सेट करता है। |
-| [OutputLayersNames](../../aspose.psd.imageoptions/multipageoptions/outputlayersnames/) { get; set; } | आउटपुट लेयर्स के नाम प्राप्त या सेट करता है (कार्य करता है यदि निर्यात प्रारूप परतों के नामकरण का समर्थन करता है, उदाहरण के लिए Psd के लिए) |
-| [PageRasterizationOptions](../../aspose.psd.imageoptions/multipageoptions/pagerasterizationoptions/) { get; set; } | पृष्ठ रेखांकन विकल्पों को प्राप्त या सेट करता है। |
-| [Pages](../../aspose.psd.imageoptions/multipageoptions/pages/) { get; set; } | पृष्ठ प्राप्त करता है या सेट करता है। |
-| [PageTitles](../../aspose.psd.imageoptions/multipageoptions/pagetitles/) { get; set; } | पृष्ठ शीर्षक प्राप्त या सेट करता है। |
-
-## तरीकों
+## प्रॉपर्टीज़
 
 | नाम | विवरण |
 | --- | --- |
-| [InitPages](../../aspose.psd.imageoptions/multipageoptions/initpages/)(IntRange[]) | पृष्ठों को श्रेणी से प्रारंभ करता है array |
+| [ExportArea](../../aspose.psd.imageoptions/multipageoptions/exportarea/) { get; set; } | एक्सपोर्ट एरिया को प्राप्त करता है या सेट करता है। |
+| [MergeLayers](../../aspose.psd.imageoptions/multipageoptions/mergelayers/) { get; set; } | एक मान प्राप्त करता है या सेट करता है जो यह दर्शाता है कि [merege layers]। |
+| [Mode](../../aspose.psd.imageoptions/multipageoptions/mode/) { get; set; } | मोड को प्राप्त करता है या सेट करता है। |
+| [OutputLayersNames](../../aspose.psd.imageoptions/multipageoptions/outputlayersnames/) { get; set; } | आउटपुट लेयर नामों को प्राप्त करता है या सेट करता है (यदि एक्सपोर्ट फ़ॉर्मेट लेयर नामकरण का समर्थन करता है, जैसे Psd के लिए)। |
+| [PageRasterizationOptions](../../aspose.psd.imageoptions/multipageoptions/pagerasterizationoptions/) { get; set; } | पेज रास्टराइज़ेशन विकल्पों को प्राप्त करता है या सेट करता है। |
+| [Pages](../../aspose.psd.imageoptions/multipageoptions/pages/) { get; set; } | पेजों को प्राप्त करता है या सेट करता है। |
+| [PageTitles](../../aspose.psd.imageoptions/multipageoptions/pagetitles/) { get; set; } | पृष्ठ शीर्षकों को प्राप्त करता है या सेट करता है। |
 
-### यह सभी देखें
+## मेथड्स
 
-* नाम स्थान [Aspose.PSD.ImageOptions](../../aspose.psd.imageoptions/)
-* सभा [Aspose.PSD](../../)
+| नाम | विवरण |
+| --- | --- |
+| [InitPages](../../aspose.psd.imageoptions/multipageoptions/initpages/)(IntRange[]) | रेंज एरे से पृष्ठों को प्रारंभ करता है। |
+
+### देखें भी
+
+* namespace [Aspose.PSD.ImageOptions](../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: Class Lnk3Resource
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.Lnk3Resource कक्ष. उस वर्ग क परभषत करत है जसमें PSD प्ररूप में 32 बट प्रत चैनल छव में एम्बेडेड फ़इल के बरे में जनकर हत है लंक संसधन में कई ह सकते हैंLiFdDataSource ऐसे उदहरण जन्हें अनुक्रमणक. द्वर एक्सेस कय ज सकत है
+title: "क्लास Lnk3Resource"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Aspose.PSD.FileFormats.Psd.Layers.LayerResources.Lnk3Resource क्लास। वह क्लास परिभाषित करता है जो PSD फ़ॉर्मेट 32 बिट प्रति चैनल इमेज में एम्बेडेड फ़ाइल के बारे में जानकारी रखती है। लिंक रिसोर्स में कई LiFdDataSource इंस्टेंस हो सकते हैं जिन्हें इंडेक्सर द्वारा एक्सेस किया जा सकता है।"
 type: docs
-weight: 2730
+weight: 3040
 url: /hi/net/aspose.psd.fileformats.psd.layers.layerresources/lnk3resource/
 ---
+{{< psd/tize >}}
 ## Lnk3Resource class
 
-उस वर्ग को परिभाषित करता है जिसमें PSD प्रारूप में 32 बिट प्रति चैनल छवि में एम्बेडेड फ़ाइल के बारे में जानकारी होती है। लिंक संसाधन में कई हो सकते हैं[`LiFdDataSource`](../lifddatasource/) ऐसे उदाहरण जिन्हें अनुक्रमणिका. द्वारा एक्सेस किया जा सकता है
+PSD फ़ॉर्मेट 32 बिट प्रति चैनल इमेज में एम्बेडेड फ़ाइल के बारे में जानकारी रखने वाली क्लास को परिभाषित करता है। लिंक रिसोर्स में कई [`LiFdDataSource`](../lifddatasource/) इंस्टेंस हो सकते हैं जिन्हें इंडेक्सर द्वारा एक्सेस किया जा सकता है।
 
 ```csharp
 public class Lnk3Resource : Lnk2Resource
@@ -18,36 +19,36 @@ public class Lnk3Resource : Lnk2Resource
 
 | नाम | विवरण |
 | --- | --- |
-| [Lnk3Resource](lnk3resource/)() | का एक नया उदाहरण प्रारंभ करता है`Lnk3Resource` वर्ग. |
+| [Lnk3Resource](lnk3resource/)() | `Lnk3Resource` क्लास का नया उदाहरण प्रारंभ करता है। |
 
-## गुण
-
-| नाम | विवरण |
-| --- | --- |
-| [DataSourceCount](../../aspose.psd.fileformats.psd.layers.layerresources/linkresource/datasourcecount/) { get; } | उन लिंक डेटा स्रोतों की संख्या प्राप्त करता है जिन तक अनुक्रमणिका द्वारा पहुँचा जा सकता है। |
-| [IsEmpty](../../aspose.psd.fileformats.psd.layers.layerresources/linkresource/isempty/) { get; } | यह इंगित करने वाला मान प्राप्त करता है कि यह लिंक संसाधन उदाहरण खाली है या नहीं। |
-| [Item](../../aspose.psd.fileformats.psd.layers.layerresources/lnk2resource/item/) { get; } | हो जाता है[`LiFdDataSource`](../lifddatasource/) निर्दिष्ट सूचकांक पर। (2 indexers) |
-| override [Key](../../aspose.psd.fileformats.psd.layers.layerresources/lnk3resource/key/) { get; } | परत संसाधन कुंजी प्राप्त करता है. |
-| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/linkresource/length/) { get; } | बाइट्स में PSD वैश्विक लिंक संसाधन लंबाई प्राप्त करता है। |
-| override [PsdVersion](../../aspose.psd.fileformats.psd.layers.layerresources/linkresource/psdversion/) { get; } | PSD प्रारूप संस्करण प्राप्त करता है। |
-| override [Signature](../../aspose.psd.fileformats.psd.layers.layerresources/linkresource/signature/) { get; } | PSD वैश्विक लिंक संसाधन हस्ताक्षर प्राप्त करता है। |
-
-## तरीकों
+## प्रॉपर्टीज़
 
 | नाम | विवरण |
 | --- | --- |
-| override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/linkresource/save/)(StreamContainer, int) | संसाधन ब्लॉक डेटा सहेजता है। |
-| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring/)() | रिटर्न एString जो इस उदाहरण का प्रतिनिधित्व करता है। |
+| [DataSourceCount](../../aspose.psd.fileformats.psd.layers.layerresources/linkresource/datasourcecount/) { get; } | इंडेक्सर द्वारा एक्सेस किए जा सकने वाले लिंक डेटा स्रोतों की संख्या प्राप्त करता है। |
+| [IsEmpty](../../aspose.psd.fileformats.psd.layers.layerresources/linkresource/isempty/) { get; } | यह दर्शाने वाला मान प्राप्त करता है कि यह लिंक रिसोर्स इंस्टेंस खाली है या नहीं। |
+| [Item](../../aspose.psd.fileformats.psd.layers.layerresources/lnk2resource/item/) { get; } | निर्दिष्ट इंडेक्स पर स्थित [`LiFdDataSource`](../lifddatasource/) प्राप्त करता है। (2 इंडेक्सर) |
+| [Key](../../aspose.psd.fileformats.psd.layers/layerresource/key/) { get; } | लेयर रिसोर्स कुंजी प्राप्त करता है। |
+| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/linkresource/length/) { get; } | PSD ग्लोबल लिंक रिसोर्स की लंबाई बाइट्स में प्राप्त करता है। |
+| virtual [PsdVersion](../../aspose.psd.fileformats.psd.layers/layerresource/psdversion/) { get; } | लेयर रिसोर्स के लिए आवश्यक न्यूनतम PSD संस्करण प्राप्त करता है। 0 का अर्थ कोई प्रतिबंध नहीं है। |
+| virtual [Signature](../../aspose.psd.fileformats.psd.layers/layerresource/signature/) { get; } | हस्ताक्षर प्राप्त करता है। |
 
-## खेत
+## मेथड्स
 
 | नाम | विवरण |
 | --- | --- |
-| const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/lnk3resource/typetoolkey/) | टाइप टूल इंफो की. |
+| override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/linkresource/save/)(StreamContainer, int) | रिसोर्स ब्लॉक डेटा को सहेजता है। |
+| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring/)() | इस उदाहरण का प्रतिनिधित्व करने वाली एक स्ट्रिंग लौटाता है। |
 
-### उदाहरण
+## फ़ील्ड्स
 
-यह उदाहरण दर्शाता है कि Lnk2Resource और Lnk3Resource के गुणों को कैसे प्राप्त और सेट किया जाए।
+| नाम | विवरण |
+| --- | --- |
+| const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/lnk3resource/typetoolkey/) | टाइप टूल जानकारी कुंजी। |
+
+## उदाहरण
+
+यह उदाहरण दिखाता है कि Lnk2Resource और Lnk3Resource की प्रॉपर्टीज़ को कैसे प्राप्त और सेट किया जाए।
 
 ```csharp
 [C#]
@@ -62,90 +63,90 @@ void AssertAreEqual(object expected, object actual)
 
 object[] Lnk2ResourceSupportCases = new object[]
 {
-new object[]
-{
-    "00af34a0-a90b-674d-a821-73ee508c5479",
-    "rgb8_2x2.png",
-    "png",
-    string.Empty,
-    0x53,
-    0d,
-    string.Empty,
-    7,
-    true,
-    0x124L,
-    0x74cL
-}
+    new object[]
+    {
+        "00af34a0-a90b-674d-a821-73ee508c5479",
+        "rgb8_2x2.png",
+        "png",
+        string.Empty,
+        0x53,
+        0d,
+        string.Empty,
+        7,
+        true,
+        0x124L,
+        0x74cL
+    }
 };
 
 object[] LayeredLnk2ResourceSupportCases = new object[]
 {
-new object[]
-{
-    "69ac1c0d-1b74-fd49-9c7e-34a7aa6299ef",
-    "huset.jpg",
-    "JPEG",
-    string.Empty,
-    0x9d46,
-    0d,
-    "xmp.did:0F94B342065B11E395B1FD506DED6B07",
-    7,
-    true,
-    0x9E60L,
-    0xc60cL
-},
-new object[]
-{
-    "5a7d1965-0eae-b24e-a82f-98c7646424c2",
-    "panama-papers.jpg",
-    "JPEG",
-    string.Empty,
-    0xF56B,
-    0d,
-    "xmp.did:BDE940CBF51B11E59D759CDA690663E3",
-    7,
-    true,
-    0xF694L,
-    0x10dd4L
-},
+    new object[]
+    {
+        "69ac1c0d-1b74-fd49-9c7e-34a7aa6299ef",
+        "huset.jpg",
+        "JPEG",
+        string.Empty,
+        0x9d46,
+        0d,
+        "xmp.did:0F94B342065B11E395B1FD506DED6B07",
+        7,
+        true,
+        0x9E60L,
+        0xc60cL
+    },
+    new object[]
+    {
+        "5a7d1965-0eae-b24e-a82f-98c7646424c2",
+        "panama-papers.jpg",
+        "JPEG",
+        string.Empty,
+        0xF56B,
+        0d,
+        "xmp.did:BDE940CBF51B11E59D759CDA690663E3",
+        7,
+        true,
+        0xF694L,
+        0x10dd4L
+    },
 };
 
 object[] LayeredLnk3ResourceSupportCases = new object[]
 {
-new object[]
-{
-    "2fd7ba52-0221-de4c-bdc4-1210580c6caa",
-    "panama-papers.jpg",
-    "JPEG",
-    string.Empty,
-    0xF56B,
-    0d,
-    "xmp.did:BDE940CBF51B11E59D759CDA690663E3",
-    7,
-    true,
-    0xF694l,
-    0x10dd4L
-},
-new object[]
-{
-    "372d52eb-5825-8743-81a7-b6f32d51323d",
-    "huset.jpg",
-    "JPEG",
-    string.Empty,
-    0x9d46,
-    0d,
-    "xmp.did:0F94B342065B11E395B1FD506DED6B07",
-    7,
-    true,
-    0x9E60L,
-    0xc60cL
-},
+    new object[]
+    {
+        "2fd7ba52-0221-de4c-bdc4-1210580c6caa",
+        "panama-papers.jpg",
+        "JPEG",
+        string.Empty,
+        0xF56B,
+        0d,
+        "xmp.did:BDE940CBF51B11E59D759CDA690663E3",
+        7,
+        true,
+        0xF694l,
+        0x10dd4L
+    },
+    new object[]
+    {
+        "372d52eb-5825-8743-81a7-b6f32d51323d",
+        "huset.jpg",
+        "JPEG",
+        string.Empty,
+        0x9d46,
+        0d,
+        "xmp.did:0F94B342065B11E395B1FD506DED6B07",
+        7,
+        true,
+        0x9E60L,
+        0xc60cL
+    },
 };
 
 var basePath = "" + Path.DirectorySeparatorChar;
 string Output = "output" + Path.DirectorySeparatorChar;
 
-// एक स्मार्ट ऑब्जेक्ट के डेटा को PSD फ़ाइल में एक फ़ाइल में सहेजता है।
+// PSD फ़ाइल में एक स्मार्ट ऑब्जेक्ट का डेटा फ़ाइल में सहेजता है।
 void SaveSmartObjectData(string prefix, string fileName, byte[] data)
 {
     var filePath = basePath + prefix + "_" + fileName;
@@ -156,7 +157,7 @@ void SaveSmartObjectData(string prefix, string fileName, byte[] data)
     }
 }
 
-// PSD फ़ाइल में स्मार्ट ऑब्जेक्ट के लिए नया डेटा लोड करता है।
+// PSD फ़ाइल में एक स्मार्ट ऑब्जेक्ट के लिए नया डेटा लोड करता है।
 byte[] LoadNewData(string fileName)
 {
     using (var container = FileStreamContainer.OpenFileStream(basePath + fileName))
@@ -165,7 +166,7 @@ byte[] LoadNewData(string fileName)
     }
 }
 
-// PSD छवि में PSD Lnk2 / Lnk3 संसाधन और उसके liFD डेटा स्रोतों के गुण प्राप्त करता है और सेट करता है
+// PSD इमेज में PSD Lnk2 / Lnk3 रिसोर्स और उसके liFD डेटा स्रोतों की प्रॉपर्टीज़ को प्राप्त और सेट करता है।
 void ExampleOfLnk2ResourceSupport(
     string fileName,
     int dataSourceCount,
@@ -227,29 +228,29 @@ void ExampleOfLnk2ResourceSupport(
         }
 
         AssertAreEqual(true, lnk2Resource != null);
-        if (image.BitsPerChannel < 32) // 32 बिट प्रति चैनल बचत अभी तक समर्थित नहीं है
+        if (image.BitsPerChannel < 32) // 32 bit per channel saving is not supported yet
         {
             image.Save(basePath + Output + fileName, new PsdOptions(image));
         }
     }
 }
 
-// यह उदाहरण दर्शाता है कि 8 बिट प्रति चैनल के लिए PSD Lnk2 संसाधन और इसके liFD डेटा स्रोतों के गुणों को कैसे प्राप्त और सेट किया जाए।
+// यह उदाहरण दिखाता है कि 8 बिट प्रति चैनल के लिए PSD Lnk2 रिसोर्स और उसके liFD डेटा स्रोतों की प्रॉपर्टीज़ को कैसे प्राप्त और सेट किया जाए।
 ExampleOfLnk2ResourceSupport("rgb8_2x2_embedded_png.psd", 1, 0x12C, 0x0000079c, Lnk2ResourceSupportCases);
 
-// यह उदाहरण दर्शाता है कि 32 बिट प्रति चैनल के लिए PSD Lnk3 संसाधन और उसके liFD डेटा स्रोतों के गुणों को कैसे प्राप्त और सेट किया जाए।
+// यह उदाहरण दिखाता है कि 32 बिट प्रति चैनल के लिए PSD Lnk3 रिसोर्स और उसके liFD डेटा स्रोतों की प्रॉपर्टीज़ को कैसे प्राप्त और सेट किया जाए।
 ExampleOfLnk2ResourceSupport("Layered PSD file smart objects.psd", 2, 0x19504, 0x0001d3e0, LayeredLnk3ResourceSupportCases);
 
-// यह उदाहरण दर्शाता है कि 16 बिट प्रति चैनल के लिए PSD Lnk2 संसाधन और उसके liFD डेटा स्रोतों के गुणों को कैसे प्राप्त और सेट किया जाए।
+// यह उदाहरण दिखाता है कि 16 बिट प्रति चैनल के लिए PSD Lnk2 रिसोर्स और उसके liFD डेटा स्रोतों की प्रॉपर्टीज़ को कैसे प्राप्त और सेट किया जाए।
 ExampleOfLnk2ResourceSupport("LayeredSmartObjects16bit.psd", 2, 0x19504, 0x0001d3e0, LayeredLnk2ResourceSupportCases);
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * class [LayerResource](../../aspose.psd.fileformats.psd.layers/layerresource/)
 * class [LinkResource](../linkresource/)
 * class [Lnk2Resource](../lnk2resource/)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
-* सभा [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../)
 
 

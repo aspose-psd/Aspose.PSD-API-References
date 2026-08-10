@@ -1,37 +1,39 @@
 ---
-title: Interface IPatternFillSettings
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Aspose.PSD.FileFormats.Psd.Layers.FillSettings.IPatternFillSettings इंटरफेस. पैटर्न फ़ल सेटंग के लए इंटरफ़ेस
+title: "इंटरफ़ेस IPatternFillSettings"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Aspose.PSD.FileFormats.Psd.Layers.FillSettings.IPatternFillSettings इंटरफ़ेस। पैटर्न फ़िल सेटिंग्स के लिए इंटरफ़ेस"
 type: docs
-weight: 2030
+weight: 2150
 url: /hi/net/aspose.psd.fileformats.psd.layers.fillsettings/ipatternfillsettings/
 ---
+{{< psd/tize >}}
 ## IPatternFillSettings interface
 
-पैटर्न फ़िल सेटिंग के लिए इंटरफ़ेस
+पैटर्न फ़िल सेटिंग्स के लिए इंटरफ़ेस
 
 ```csharp
 public interface IPatternFillSettings : IFillSettings
 ```
 
-## गुण
+## प्रॉपर्टीज़
 
 | नाम | विवरण |
 | --- | --- |
-| [HorizontalOffset](../../aspose.psd.fileformats.psd.layers.fillsettings/ipatternfillsettings/horizontaloffset/) { get; set; } | क्षैतिज ऑफसेट प्राप्त या सेट करता है। |
-| [Linked](../../aspose.psd.fileformats.psd.layers.fillsettings/ipatternfillsettings/linked/) { get; set; } | एक मान प्राप्त करता है या सेट करता है जो दर्शाता है कि यह`IPatternFillSettings`जुड़ा हुआ है. |
-| [PatternData](../../aspose.psd.fileformats.psd.layers.fillsettings/ipatternfillsettings/patterndata/) { get; set; } | पैटर्न डेटा प्राप्त या सेट करता है। |
-| [PatternHeight](../../aspose.psd.fileformats.psd.layers.fillsettings/ipatternfillsettings/patternheight/) { get; set; } | पैटर्न की ऊंचाई प्राप्त या सेट करता है। |
-| [PatternId](../../aspose.psd.fileformats.psd.layers.fillsettings/ipatternfillsettings/patternid/) { get; set; } | पैटर्न आइडेंटिफ़ायर प्राप्त या सेट करता है। |
-| [PatternName](../../aspose.psd.fileformats.psd.layers.fillsettings/ipatternfillsettings/patternname/) { get; set; } | पैटर्न का नाम प्राप्त या सेट करता है। |
-| [PatternWidth](../../aspose.psd.fileformats.psd.layers.fillsettings/ipatternfillsettings/patternwidth/) { get; set; } | पैटर्न की चौड़ाई प्राप्त या सेट करता है। |
-| [PointType](../../aspose.psd.fileformats.psd.layers.fillsettings/ipatternfillsettings/pointtype/) { get; set; } | बिंदु के प्रकार को प्राप्त या सेट करता है। |
-| [Scale](../../aspose.psd.fileformats.psd.layers.fillsettings/ipatternfillsettings/scale/) { get; set; } | स्केल प्राप्त करता है या सेट करता है। |
-| [VerticalOffset](../../aspose.psd.fileformats.psd.layers.fillsettings/ipatternfillsettings/verticaloffset/) { get; set; } | वर्टिकल ऑफ़सेट प्राप्त या सेट करता है। |
+| [Angle](../../aspose.psd.fileformats.psd.layers.fillsettings/ipatternfillsettings/angle/) { get; set; } | कोण प्राप्त करता है या सेट करता है। |
+| [HorizontalOffset](../../aspose.psd.fileformats.psd.layers.fillsettings/ipatternfillsettings/horizontaloffset/) { get; set; } | क्षैतिज ऑफ़सेट प्राप्त करता है या सेट करता है। |
+| [Linked](../../aspose.psd.fileformats.psd.layers.fillsettings/ipatternfillsettings/linked/) { get; set; } | इस `IPatternFillSettings` को लिंक किया गया है या नहीं, यह दर्शाने वाला मान प्राप्त करता है या सेट करता है। |
+| [PatternData](../../aspose.psd.fileformats.psd.layers.fillsettings/ipatternfillsettings/patterndata/) { get; set; } | पैटर्न डेटा प्राप्त करता है। |
+| [PatternHeight](../../aspose.psd.fileformats.psd.layers.fillsettings/ipatternfillsettings/patternheight/) { get; set; } | पैटर्न की ऊँचाई प्राप्त करता है या सेट करता है। |
+| [PatternId](../../aspose.psd.fileformats.psd.layers.fillsettings/ipatternfillsettings/patternid/) { get; set; } | पैटर्न पहचानकर्ता प्राप्त करता है या सेट करता है। |
+| [PatternName](../../aspose.psd.fileformats.psd.layers.fillsettings/ipatternfillsettings/patternname/) { get; set; } | पैटर्न का नाम प्राप्त करता है या सेट करता है। |
+| [PatternWidth](../../aspose.psd.fileformats.psd.layers.fillsettings/ipatternfillsettings/patternwidth/) { get; set; } | पैटर्न की चौड़ाई प्राप्त करता है या सेट करता है। |
+| [PointType](../../aspose.psd.fileformats.psd.layers.fillsettings/ipatternfillsettings/pointtype/) { get; set; } | बिंदु का प्रकार प्राप्त करता है या सेट करता है। |
+| [Scale](../../aspose.psd.fileformats.psd.layers.fillsettings/ipatternfillsettings/scale/) { get; set; } | स्केल को प्राप्त करता है या सेट करता है। |
+| [VerticalOffset](../../aspose.psd.fileformats.psd.layers.fillsettings/ipatternfillsettings/verticaloffset/) { get; set; } | ऊर्ध्वाधर ऑफ़सेट प्राप्त करता है या सेट करता है। |
 
-### उदाहरण
+## उदाहरण
 
-निम्न कोड पैटर्न फिल लेयर के साथ छवियों को सहेजता है और दर्शाता है कि कैसे Aspose.PSD पैटर्न को प्रस्तुत करता है।
+निम्नलिखित कोड पैटर्न फ़िल लेयर के साथ छवियों को सहेजता है और दिखाता है कि Aspose.PSD पैटर्न को कैसे रेंडर करता है।
 
 ```csharp
 [C#]
@@ -40,7 +42,7 @@ string sourceFile = "sample.psd";
 string outputFile = "sample_out.psd";
 string outputPngFile = "sample_out.png";
 
-// मौजूदा छवि को PsdImage वर्ग के उदाहरण में लोड करें
+// एक मौजूदा छवि को PsdImage क्लास के एक इंस्टेंस में लोड करें।
 using (var image = (PsdImage)Image.Load(sourceFile))
 {
     foreach (var layer in image.Layers)
@@ -81,10 +83,10 @@ using (var image = (PsdImage)Image.Load(sourceFile))
 }
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * interface [IFillSettings](../ifillsettings/)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../aspose.psd.fileformats.psd.layers.fillsettings/)
-* सभा [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../)
 
 

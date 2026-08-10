@@ -1,14 +1,15 @@
 ---
-title: Class LayerState
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Aspose.PSD.FileFormats.Psd.Layers.Animation.LayerState कक्ष. टइम लइन लेयर स्टेट के वकल्प
+title: "क्लास LayerState"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Aspose.PSD.FileFormats.Psd.Layers.Animation.LayerState क्लास। टाइमलाइन लेयर स्टेट के विकल्प"
 type: docs
-weight: 1860
+weight: 1960
 url: /hi/net/aspose.psd.fileformats.psd.layers.animation/layerstate/
 ---
+{{< psd/tize >}}
 ## LayerState class
 
-टाइम लाइन लेयर स्टेट के विकल्प।
+टाइमलाइन लेयर स्टेट के विकल्प।
 
 ```csharp
 public sealed class LayerState
@@ -18,25 +19,25 @@ public sealed class LayerState
 
 | नाम | विवरण |
 | --- | --- |
-| [LayerState](layerstate/)(int) | का एक नया उदाहरण प्रारंभ करता है`LayerState` वर्ग. |
+| [LayerState](layerstate/)() | डिफ़ॉल्ट कन्स्ट्रक्टर। |
 
-## गुण
+## प्रॉपर्टीज़
 
 | नाम | विवरण |
 | --- | --- |
-| [BlendMode](../../aspose.psd.fileformats.psd.layers.animation/layerstate/blendmode/) { get; set; } | ब्लेन मोड प्राप्त करता है या सेट करता है. |
-| [Enabled](../../aspose.psd.fileformats.psd.layers.animation/layerstate/enabled/) { get; set; } | सक्षम स्थिति प्राप्त या सेट करता है। |
-| [FillOpacity](../../aspose.psd.fileformats.psd.layers.animation/layerstate/fillopacity/) { get; set; } | भरण अपारदर्शिता मान प्राप्त या सेट करता है. |
-| [HorizontalFXRf](../../aspose.psd.fileformats.psd.layers.animation/layerstate/horizontalfxrf/) { get; set; } | क्षैतिज FXRf मान प्राप्त या सेट करता है। |
-| [Id](../../aspose.psd.fileformats.psd.layers.animation/layerstate/id/) { get; set; } | आईडी प्राप्त करता है या सेट करता है। |
-| [Opacity](../../aspose.psd.fileformats.psd.layers.animation/layerstate/opacity/) { get; set; } | अस्पष्टता मान प्राप्त या सेट करता है। |
-| [PositionOffset](../../aspose.psd.fileformats.psd.layers.animation/layerstate/positionoffset/) { get; set; } | वास्तविक परत स्थिति से संबंधित परत स्थिति ऑफ़सेट हो जाता है या सेट करता है। |
-| [StateEffects](../../aspose.psd.fileformats.psd.layers.animation/layerstate/stateeffects/) { get; } | परत स्थिति प्रभाव प्राप्त करता है। |
-| [VerticalFXRf](../../aspose.psd.fileformats.psd.layers.animation/layerstate/verticalfxrf/) { get; set; } | वर्टिकल एफएक्सआरएफ मान प्राप्त या सेट करता है। |
+| [BlendMode](../../aspose.psd.fileformats.psd.layers.animation/layerstate/blendmode/) { get; set; } | ब्लेंडिंग मोड प्राप्त करता है या सेट करता है। |
+| [Enabled](../../aspose.psd.fileformats.psd.layers.animation/layerstate/enabled/) { get; set; } | सक्षम स्थिति को प्राप्त करता है या सेट करता है। |
+| [FillOpacity](../../aspose.psd.fileformats.psd.layers.animation/layerstate/fillopacity/) { get; set; } | फ़िल अपारदर्शिता मान को प्राप्त करता है या सेट करता है। |
+| [HorizontalFXRf](../../aspose.psd.fileformats.psd.layers.animation/layerstate/horizontalfxrf/) { get; set; } | HorizontalFXRf मान को प्राप्त करता है या सेट करता है। |
+| [Id](../../aspose.psd.fileformats.psd.layers.animation/layerstate/id/) { get; set; } | लेयर आईडी को प्राप्त करता है या सेट करता है। |
+| [Opacity](../../aspose.psd.fileformats.psd.layers.animation/layerstate/opacity/) { get; set; } | अपारदर्शिता मान को प्राप्त करता है या सेट करता है। |
+| [PositionOffset](../../aspose.psd.fileformats.psd.layers.animation/layerstate/positionoffset/) { get; set; } | वास्तविक लेयर स्थिति से संबंधित लेयर पोजीशन ऑफ़सेट को प्राप्त करता है या सेट करता है। |
+| [StateEffects](../../aspose.psd.fileformats.psd.layers.animation/layerstate/stateeffects/) { get; } | लेयर स्टेट इफ़ेक्ट्स को प्राप्त करता है। |
+| [VerticalFXRf](../../aspose.psd.fileformats.psd.layers.animation/layerstate/verticalfxrf/) { get; set; } | VerticalFXRf मान को प्राप्त करता है या सेट करता है। |
 
-### उदाहरण
+## उदाहरण
 
-TimeLine वर्ग PsdImage की समयरेखा में हेरफेर करने के लिए एक उच्च-स्तरीय क्षमता देता है, जैसे किसी विशिष्ट फ़्रेम पर फ़्रेम विलंब या संपादन परत स्थिति को बदलना।
+Timeline क्लास PsdImage की टाइमलाइन को नियंत्रित करने की उच्च-स्तरीय क्षमता प्रदान करता है, जैसे फ्रेम डिले बदलना या विशिष्ट फ्रेम पर लेयर स्टेट को संपादित करना।
 
 ```csharp
 [C#]
@@ -46,40 +47,39 @@ string outputPsd = "output_image800.psd";
 
 using (PsdImage psdImage = (PsdImage)Image.Load(sourceFile))
 {
-    TimeLine timeLine = TimeLine.InitializeFrom(psdImage);
+    Timeline timeline = psdImage.Timeline;
 
-    // फ्रेम 1 की निपटान विधि बदलें
-    timeLine.Frames[0].DisposalMethod = FrameDisposalMethod.DoNotDispose;
+    // फ़्रेम 1 की डिस्पोज़ मेथड बदलें
+    timeline.Frames[0].DisposalMethod = FrameDisposalMethod.DoNotDispose;
 
-    // फ्रेम 2 की देरी बदलें
-    timeLine.Frames[1].Delay = 15;
+    // फ़्रेम 2 का डिले बदलें
+    timeline.Frames[1].Delay = 15;
 
-    // फ्रेम 2 पर 'लेयर 1' की अपारदर्शिता बदलें
-    LayerState layerState11 = timeLine.Frames[1].LayerStates[timeLine.LayerIds[1]];
+    // फ़्रेम 2 पर 'Layer 1' की अपारदर्शिता बदलें
+    LayerState layerState11 = timeline.Frames[1].LayerStates[1];
     layerState11.Opacity = 50;
 
-    // 'लेयर 1' को फ्रेम 3 पर बाएँ-निचले कोने में ले जाएँ
-    LayerState layerState21 = timeLine.Frames[2].LayerStates[timeLine.LayerIds[1]];
+    // फ़्रेम 3 पर 'Layer 1' को बाएँ-नीचे कोने में ले जाएँ
+    LayerState layerState21 = timeline.Frames[2].LayerStates[1];
     layerState21.PositionOffset = new Point(-50, 230);
 
     // नया फ्रेम जोड़ता है
-    List<Frame> frames = new List<Frame>(timeLine.Frames);
-    frames.Add(new Frame(timeLine));
-    timeLine.Frames = frames.ToArray();
+    List<Frame> frames = new List<Frame>(timeline.Frames);
+    frames.Add(new Frame());
+    timeline.Frames = frames.ToArray();
 
-    // फ्रेम 4 पर 'लेयर 1' का ब्लेंडमोड बदलें
-    LayerState layerState31 = timeLine.Frames[3].LayerStates[timeLine.LayerIds[1]];
+    // फ़्रेम 4 पर 'Layer 1' का blendMode बदलें
+    LayerState layerState31 = timeline.Frames[3].LayerStates[1];
     layerState31.BlendMode = BlendMode.Dissolve;
 
-    // PsdImage उदाहरण में परिवर्तन वापस लागू करें
-    timeLine.ApplyTo(psdImage);
+    // परिवर्तनों को PsdImage इंस्टेंस पर लागू करें
     psdImage.Save(outputPsd);
 }
 ```
 
-### यह सभी देखें
+### देखें भी
 
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.Animation](../../aspose.psd.fileformats.psd.layers.animation/)
-* सभा [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.Animation](../../aspose.psd.fileformats.psd.layers.animation/)
+* assembly [Aspose.PSD](../../)
 
 

@@ -1,28 +1,29 @@
 ---
-title: NonGenericList.Insert
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: NonGenericList तरक. में एक आइटम सम्मलत करत हैIList नर्दष्ट सूचकंक पर
+title: "NonGenericList.Insert"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "NonGenericList मेथड। निर्दिष्ट इंडेक्स पर IList में एक आइटम डालता है"
 type: docs
 weight: 140
 url: /hi/net/aspose.psd/nongenericlist/insert/
 ---
+{{< psd/tize >}}
 ## NonGenericList.Insert method
 
-में एक आइटम सम्मिलित करता हैIList निर्दिष्ट सूचकांक पर।
+निर्दिष्ट अनुक्रमांक पर IList में एक आइटम सम्मिलित करता है।
 
 ```csharp
 public void Insert(int index, object value)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| index | Int32 | शून्य-आधारित सूचकांक जिस पर*value* डाला जाना चाहिए। |
-| value | Object | Object में डालने के लिएIList. |
+| index | Int32 | शून्य-आधारित इंडेक्स जहाँ *value* डालना चाहिए। |
+| मान | ऑब्जेक्ट | IList में डालने के लिए Object। |
 
-### यह सभी देखें
+### देखें भी
 
 * class [NonGenericList](../)
-* नाम स्थान [Aspose.PSD](../../nongenericlist/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

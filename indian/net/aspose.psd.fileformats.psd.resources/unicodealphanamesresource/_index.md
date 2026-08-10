@@ -1,14 +1,15 @@
 ---
-title: Class UnicodeAlphaNamesResource
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Aspose.PSD.FileFormats.Psd.Resources.UnicodeAlphaNamesResource कक्ष. यूनकड अल्फ नम संसधन
+title: "क्लास UnicodeAlphaNamesResource"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Aspose.PSD.FileFormats.Psd.Resources.UnicodeAlphaNamesResource क्लास। यूनिकोड अल्फा नाम रिसोर्स।"
 type: docs
-weight: 3930
+weight: 4400
 url: /hi/net/aspose.psd.fileformats.psd.resources/unicodealphanamesresource/
 ---
+{{< psd/tize >}}
 ## UnicodeAlphaNamesResource class
 
-यूनिकोड अल्फा नाम संसाधन
+Unicode अल्फा नाम संसाधन
 
 ```csharp
 public sealed class UnicodeAlphaNamesResource : ResourceBlock
@@ -18,31 +19,31 @@ public sealed class UnicodeAlphaNamesResource : ResourceBlock
 
 | नाम | विवरण |
 | --- | --- |
-| [UnicodeAlphaNamesResource](unicodealphanamesresource/)() | डिफ़ॉल्ट कंस्ट्रक्टर। |
+| [UnicodeAlphaNamesResource](unicodealphanamesresource/)() | डिफ़ॉल्ट कन्स्ट्रक्टर। |
 
-## गुण
-
-| नाम | विवरण |
-| --- | --- |
-| [AlphaNames](../../aspose.psd.fileformats.psd.resources/unicodealphanamesresource/alphanames/) { get; set; } | अल्फा नाम प्राप्त या सेट करता है। |
-| override [DataSize](../../aspose.psd.fileformats.psd.resources/unicodealphanamesresource/datasize/) { get; } | बाइट्स में संसाधन डेटा आकार प्राप्त करता है। |
-| [ID](../../aspose.psd.fileformats.psd/resourceblock/id/) { get; set; } | संसाधन के लिए अद्वितीय पहचानकर्ता प्राप्त या सेट करता है। |
-| override [MinimalVersion](../../aspose.psd.fileformats.psd.resources/unicodealphanamesresource/minimalversion/) { get; } | न्यूनतम आवश्यक PSD संस्करण प्राप्त करता है। |
-| [Name](../../aspose.psd.fileformats.psd/resourceblock/name/) { get; set; } | संसाधन नाम प्राप्त या सेट करता है। पास्कल स्ट्रिंग, आकार को समान बनाने के लिए गद्देदार (शून्य नाम में 0 के दो बाइट होते हैं). |
-| [Signature](../../aspose.psd.fileformats.psd/resourceblock/signature/) { get; } | संसाधन हस्ताक्षर प्राप्त करता है। हमेशा '8BIM' होना चाहिए. |
-| [Size](../../aspose.psd.fileformats.psd/resourceblock/size/) { get; } | अपने डेटा सहित बाइट्स में संसाधन ब्लॉक आकार प्राप्त करता है। |
-
-## तरीकों
+## प्रॉपर्टीज़
 
 | नाम | विवरण |
 | --- | --- |
-| [Save](../../aspose.psd.fileformats.psd/resourceblock/save/)(StreamContainer) | संसाधन ब्लॉक को निर्दिष्ट स्ट्रीम में सहेजता है। |
-| virtual [ValidateValues](../../aspose.psd.fileformats.psd/resourceblock/validatevalues/)() | संसाधन मानों की पुष्टि करता है. |
+| [AlphaNames](../../aspose.psd.fileformats.psd.resources/unicodealphanamesresource/alphanames/) { get; set; } | अल्फा नामों को प्राप्त करता है या सेट करता है। |
+| override [DataSize](../../aspose.psd.fileformats.psd.resources/unicodealphanamesresource/datasize/) { get; } | संसाधन डेटा आकार को बाइट्स में प्राप्त करता है। |
+| [ID](../../aspose.psd.fileformats.psd/resourceblock/id/) { get; set; } | संसाधन के लिए अद्वितीय पहचानकर्ता को प्राप्त करता है या सेट करता है। |
+| override [MinimalVersion](../../aspose.psd.fileformats.psd.resources/unicodealphanamesresource/minimalversion/) { get; } | आवश्यक न्यूनतम PSD संस्करण को प्राप्त करता है। |
+| [Name](../../aspose.psd.fileformats.psd/resourceblock/name/) { get; set; } | संसाधन नाम को प्राप्त करता है या सेट करता है। पास्कल स्ट्रिंग, आकार को सम बनाने के लिए पैड किया गया (एक शून्य नाम दो बाइट्स 0 से बना होता है)। |
+| [Signature](../../aspose.psd.fileformats.psd/resourceblock/signature/) { get; } | संसाधन हस्ताक्षर को प्राप्त करता है। हमेशा '8BIM' होना चाहिए। |
+| [Size](../../aspose.psd.fileformats.psd/resourceblock/size/) { get; } | डेटा सहित संसाधन ब्लॉक आकार को बाइट्स में प्राप्त करता है। |
 
-### यह सभी देखें
+## मेथड्स
+
+| नाम | विवरण |
+| --- | --- |
+| [Save](../../aspose.psd.fileformats.psd/resourceblock/save/)(StreamContainer) | निर्दिष्ट स्ट्रीम में संसाधन ब्लॉक को सहेजता है। |
+| virtual [ValidateValues](../../aspose.psd.fileformats.psd/resourceblock/validatevalues/)() | संसाधन मानों को मान्य करता है। |
+
+### देखें भी
 
 * class [ResourceBlock](../../aspose.psd.fileformats.psd/resourceblock/)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Resources](../../aspose.psd.fileformats.psd.resources/)
-* सभा [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../)
 
 

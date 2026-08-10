@@ -1,28 +1,29 @@
 ---
-title: RectangleShape.Segments
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: RectangleShape संपत्त. आकर खंड प्रप्त करत है
+title: "RectangleShape.Segments"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "RectangleShape प्रॉपर्टी। आकार के सेगमेंट प्राप्त करता है।"
 type: docs
 weight: 20
 url: /hi/net/aspose.psd.shapes/rectangleshape/segments/
 ---
+{{< psd/tize >}}
 ## RectangleShape.Segments property
 
-आकार खंड प्राप्त करता है।
+आकार के खंडों को प्राप्त करता है।
 
 ```csharp
 public override ShapeSegment[] Segments { get; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-आकार खंड।
+आकार के खंड।
 
-### यह सभी देखें
+### देखें भी
 
 * class [ShapeSegment](../../../aspose.psd/shapesegment/)
 * class [RectangleShape](../)
-* नाम स्थान [Aspose.PSD.Shapes](../../rectangleshape/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,48 +1,49 @@
 ---
-title: ImageException.ImageException
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: ImageException नर्मत. क एक नय उदहरण प्ररंभ करत हैImageException वर्ग.
+title: "ImageException.ImageException"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "ImageException कंस्ट्रक्टर। ImageException क्लास का एक नया उदाहरण इनिशियलाइज़ करता है।"
 type: docs
 weight: 10
 url: /hi/net/aspose.psd.coreexceptions/imageexception/imageexception/
 ---
+{{< psd/tize >}}
 ## ImageException(string) {#constructor}
 
-का एक नया उदाहरण प्रारंभ करता है[`ImageException`](../) वर्ग.
+[`ImageException`](../) क्लास का एक नया उदाहरण इनिशियलाइज़ करता है।
 
 ```csharp
 public ImageException(string message)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
 | message | String | अपवाद संदेश। |
 
-### यह सभी देखें
+### देखें भी
 
 * class [ImageException](../)
-* नाम स्थान [Aspose.PSD.CoreExceptions](../../imageexception/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.CoreExceptions](../../../aspose.psd.coreexceptions/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## ImageException(string, Exception) {#constructor_1}
 
-का एक नया उदाहरण प्रारंभ करता है[`ImageException`](../) वर्ग.
+[`ImageException`](../) क्लास का एक नया उदाहरण इनिशियलाइज़ करता है।
 
 ```csharp
 public ImageException(string message, Exception innerException)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
 | message | String | अपवाद संदेश। |
-| innerException | Exception | भीतर का अपवाद। |
+| innerException | एक्सेप्शन | आंतरिक अपवाद। |
 
-### यह सभी देखें
+### देखें भी
 
 * class [ImageException](../)
-* नाम स्थान [Aspose.PSD.CoreExceptions](../../imageexception/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.CoreExceptions](../../../aspose.psd.coreexceptions/)
+* assembly [Aspose.PSD](../../../)
 
 

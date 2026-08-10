@@ -1,27 +1,28 @@
 ---
-title: ThumbnailResource.WidthBytes
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: ThumbnailResource संपत्त. बइट्स में पंक्त क चड़ई प्रप्त करत है
+title: "ThumbnailResource.WidthBytes"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "ThumbnailResource प्रॉपर्टी। बाइट्स में पंक्ति की चौड़ाई प्राप्त करता है"
 type: docs
 weight: 140
 url: /hi/net/aspose.psd.fileformats.psd.resources/thumbnailresource/widthbytes/
 ---
+{{< psd/tize >}}
 ## ThumbnailResource.WidthBytes property
 
-बाइट्स में पंक्ति की चौड़ाई प्राप्त करता है।
+बाइट्स में पंक्ति की चौड़ाई को प्राप्त करता है।
 
 ```csharp
 public int WidthBytes { get; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
 बाइट्स में पंक्ति की चौड़ाई।
 
-### यह सभी देखें
+### देखें भी
 
 * class [ThumbnailResource](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Resources](../../thumbnailresource/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

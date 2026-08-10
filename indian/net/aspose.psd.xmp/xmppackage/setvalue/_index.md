@@ -1,11 +1,12 @@
 ---
-title: XmpPackage.SetValue
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: XmpPackage तरक. मन सेट करत है
+title: "XmpPackage.SetValue"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "XmpPackage विधि। मान सेट करता है"
 type: docs
 weight: 120
 url: /hi/net/aspose.psd.xmp/xmppackage/setvalue/
 ---
+{{< psd/tize >}}
 ## XmpPackage.SetValue method
 
 मान सेट करता है।
@@ -14,16 +15,16 @@ url: /hi/net/aspose.psd.xmp/xmppackage/setvalue/
 public virtual void SetValue(string key, IXmlValue value)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| key | String | कुंजी का स्ट्रिंग प्रतिनिधित्व जो अतिरिक्त मूल्य के साथ पहचाना जाता है। |
-| value | IXmlValue | जोड़ने के लिए मूल्य। |
+| कुंजी | String | जोड़े गए मान के साथ पहचाने गए कुंजी का स्ट्रिंग प्रतिनिधित्व। |
+| मान | IXmlValue | जोड़ने के लिए मान। |
 
-### यह सभी देखें
+### देखें भी
 
 * interface [IXmlValue](../../ixmlvalue/)
 * class [XmpPackage](../)
-* नाम स्थान [Aspose.PSD.Xmp](../../xmppackage/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

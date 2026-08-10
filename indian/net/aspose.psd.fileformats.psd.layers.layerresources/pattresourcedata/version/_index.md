@@ -1,27 +1,28 @@
 ---
-title: PattResourceData.Version
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: PattResourceData संपत्त. संस्करण प्रप्त करत है
+title: "PattResourceData.Version"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "PattResourceData प्रॉपर्टी। संस्करण प्राप्त करती है।"
 type: docs
 weight: 80
 url: /hi/net/aspose.psd.fileformats.psd.layers.layerresources/pattresourcedata/version/
 ---
+{{< psd/tize >}}
 ## PattResourceData.Version property
 
-संस्करण प्राप्त करता है।
+संस्करण को प्राप्त करता है।
 
 ```csharp
 public int Version { get; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-संस्करण।
+संस्करण.
 
-### यह सभी देखें
+### देखें भी
 
 * class [PattResourceData](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../pattresourcedata/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

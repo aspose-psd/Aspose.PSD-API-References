@@ -1,28 +1,29 @@
 ---
-title: ExifData.GPSTags
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: ExifData संपत्त. टैग प्रप्त य सेट करत है ज केवल GPS अनुभग से संबंधत हैं
+title: "ExifData.GPSTags"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "ExifData प्रॉपर्टी। केवल GPS अनुभाग से संबंधित टैग को प्राप्त करता है या सेट करता है"
 type: docs
 weight: 630
 url: /hi/net/aspose.psd.exif/exifdata/gpstags/
 ---
+{{< psd/tize >}}
 ## ExifData.GPSTags property
 
-टैग प्राप्त या सेट करता है, जो केवल GPS अनुभाग से संबंधित हैं।
+टैग्स को प्राप्त करता है या सेट करता है, जो केवल GPS सेक्शन से संबंधित हैं।
 
 ```csharp
 public TiffDataType[] GPSTags { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-जीपीएस टैग।
+GPS टैग।
 
-### यह सभी देखें
+### देखें भी
 
 * class [TiffDataType](../../../aspose.psd.fileformats.tiff/tiffdatatype/)
 * class [ExifData](../)
-* नाम स्थान [Aspose.PSD.Exif](../../exifdata/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

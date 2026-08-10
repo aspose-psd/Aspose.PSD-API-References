@@ -1,11 +1,12 @@
 ---
-title: AiImage.Header
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: AiImage संपत्त. हेडर प्रप्त करत है
+title: "AiImage.Header"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "AiImage प्रॉपर्टी। हेडर प्राप्त करता है।"
 type: docs
-weight: 60
+weight: 70
 url: /hi/net/aspose.psd.fileformats.ai/aiimage/header/
 ---
+{{< psd/tize >}}
 ## AiImage.Header property
 
 हेडर प्राप्त करता है।
@@ -14,15 +15,15 @@ url: /hi/net/aspose.psd.fileformats.ai/aiimage/header/
 public AiHeader Header { get; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-हैडर.
+हेडर।
 
-### यह सभी देखें
+### देखें भी
 
 * class [AiHeader](../../aiheader/)
 * class [AiImage](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Ai](../../aiimage/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,11 +1,12 @@
 ---
-title: StreamContainer.Stream
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: StreamContainer संपत्त. डेट स्ट्रम प्रप्त करत है
+title: "StreamContainer.Stream"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "StreamContainer प्रॉपर्टी। डेटा स्ट्रीम प्राप्त करती है"
 type: docs
 weight: 80
 url: /hi/net/aspose.psd/streamcontainer/stream/
 ---
+{{< psd/tize >}}
 ## StreamContainer.Stream property
 
 डेटा स्ट्रीम प्राप्त करता है।
@@ -14,14 +15,14 @@ url: /hi/net/aspose.psd/streamcontainer/stream/
 public virtual Stream Stream { get; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
 डेटा स्ट्रीम।
 
-### यह सभी देखें
+### देखें भी
 
 * class [StreamContainer](../)
-* नाम स्थान [Aspose.PSD](../../streamcontainer/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

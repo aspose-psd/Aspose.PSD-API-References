@@ -1,32 +1,33 @@
 ---
-title: RasterImage.LoadCmyk32Pixels
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: RasterImage तरक. पक्सेल क CMYK प्ररूप में लड करत है.
+title: "RasterImage.LoadCmyk32Pixels"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "RasterImage मेथड। CMYK प्रारूप में पिक्सेल लोड करता है"
 type: docs
 weight: 370
 url: /hi/net/aspose.psd/rasterimage/loadcmyk32pixels/
 ---
+{{< psd/tize >}}
 ## RasterImage.LoadCmyk32Pixels method
 
-पिक्सेल को CMYK प्रारूप में लोड करता है.
+CMYK फ़ॉर्मेट में पिक्सेल लोड करता है।
 
 ```csharp
 public int[] LoadCmyk32Pixels(Rectangle rectangle)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| rectangle | Rectangle | वह आयत जिससे पिक्सेल लोड करना है। |
+| आयत | Rectangle | पिक्सेल लोड करने के लिए आयत। |
 
-### प्रतिलाभ की मात्रा
+### रिटर्न वैल्यू
 
-लोड किए गए CMYK पिक्सेल 32-बिट पूर्णांक मानों के रूप में प्रस्तुत करते हैं.
+लोड किए गए CMYK पिक्सेल 32-बिट पूर्णांक मानों के रूप में प्रस्तुत होते हैं।
 
-### यह सभी देखें
+### देखें भी
 
 * struct [Rectangle](../../rectangle/)
 * class [RasterImage](../)
-* नाम स्थान [Aspose.PSD](../../rasterimage/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

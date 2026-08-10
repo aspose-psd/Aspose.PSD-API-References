@@ -1,28 +1,29 @@
 ---
-title: ExifData.LensSpecification
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: ExifData संपत्त. लेंस वनर्देश प्रप्त य सेट करत है
+title: "ExifData.LensSpecification"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "ExifData प्रॉपर्टी। लेंस स्पेसिफिकेशन को प्राप्त करता है या सेट करता है"
 type: docs
 weight: 760
 url: /hi/net/aspose.psd.exif/exifdata/lensspecification/
 ---
+{{< psd/tize >}}
 ## ExifData.LensSpecification property
 
-लेंस विनिर्देश प्राप्त या सेट करता है
+लेंस विनिर्देश प्राप्त करता है या सेट करता है।
 
 ```csharp
 public TiffRational[] LensSpecification { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
 लेंस विनिर्देश।
 
-### यह सभी देखें
+### देखें भी
 
 * class [TiffRational](../../../aspose.psd.fileformats.tiff/tiffrational/)
 * class [ExifData](../)
-* नाम स्थान [Aspose.PSD.Exif](../../exifdata/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

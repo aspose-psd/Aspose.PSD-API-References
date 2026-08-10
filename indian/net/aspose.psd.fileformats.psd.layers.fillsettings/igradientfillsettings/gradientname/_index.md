@@ -1,27 +1,28 @@
 ---
-title: IGradientFillSettings.GradientName
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: IGradientFillSettings संपत्त. ग्रेडएंट क नम प्रप्त य सेट करत है
+title: "IGradientFillSettings.GradientName"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "IGradientFillSettings प्रॉपर्टी। ग्रेडिएंट का नाम प्राप्त करता है या सेट करता है"
 type: docs
-weight: 60
+weight: 50
 url: /hi/net/aspose.psd.fileformats.psd.layers.fillsettings/igradientfillsettings/gradientname/
 ---
+{{< psd/tize >}}
 ## IGradientFillSettings.GradientName property
 
-ग्रेडिएंट का नाम प्राप्त या सेट करता है।
+ग्रेडिएंट का नाम प्राप्त करता है या सेट करता है।
 
 ```csharp
 public string GradientName { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
 ग्रेडिएंट का नाम।
 
-### यह सभी देखें
+### देखें भी
 
 * interface [IGradientFillSettings](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../igradientfillsettings/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../../)
 
 

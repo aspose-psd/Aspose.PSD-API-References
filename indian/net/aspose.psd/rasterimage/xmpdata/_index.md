@@ -1,28 +1,29 @@
 ---
-title: RasterImage.XmpData
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: RasterImage संपत्त. एक्सएमप मेटडेट प्रप्त य सेट करत है
+title: "RasterImage.XmpData"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "RasterImage प्रॉपर्टी। XMP मेटाडेटा को प्राप्त करता है या सेट करता है"
 type: docs
 weight: 170
 url: /hi/net/aspose.psd/rasterimage/xmpdata/
 ---
+{{< psd/tize >}}
 ## RasterImage.XmpData property
 
-एक्सएमपी मेटाडेटा प्राप्त या सेट करता है।
+XMP मेटाडेटा प्राप्त करता है या सेट करता है।
 
 ```csharp
 public virtual XmpPacketWrapper XmpData { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-XMP मेटाडेटा.
+XMP मेटाडेटा।
 
-### यह सभी देखें
+### देखें भी
 
 * class [XmpPacketWrapper](../../../aspose.psd.xmp/xmppacketwrapper/)
 * class [RasterImage](../)
-* नाम स्थान [Aspose.PSD](../../rasterimage/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

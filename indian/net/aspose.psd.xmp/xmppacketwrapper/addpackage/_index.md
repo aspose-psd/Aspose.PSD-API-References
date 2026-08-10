@@ -1,11 +1,12 @@
 ---
-title: XmpPacketWrapper.AddPackage
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: XmpPacketWrapper तरक. पैकेज जड़त है
+title: "XmpPacketWrapper.AddPackage"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "XmpPacketWrapper मेथड। पैकेज जोड़ता है"
 type: docs
 weight: 70
 url: /hi/net/aspose.psd.xmp/xmppacketwrapper/addpackage/
 ---
+{{< psd/tize >}}
 ## XmpPacketWrapper.AddPackage method
 
 पैकेज जोड़ता है।
@@ -14,15 +15,15 @@ url: /hi/net/aspose.psd.xmp/xmppacketwrapper/addpackage/
 public void AddPackage(XmpPackage package)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| package | XmpPackage | पैकेज। |
+| पैकेज | XmpPackage | पैकेज। |
 
-### यह सभी देखें
+### देखें भी
 
 * class [XmpPackage](../../xmppackage/)
 * class [XmpPacketWrapper](../)
-* नाम स्थान [Aspose.PSD.Xmp](../../xmppacketwrapper/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

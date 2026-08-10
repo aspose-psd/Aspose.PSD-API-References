@@ -1,44 +1,45 @@
 ---
-title: ImageAttributes.ClearGamma
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: ImageAttributes तरक. डफ़ल्ट श्रेण के लए गम सुधर अक्षम करत है
+title: "ImageAttributes.ClearGamma"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "ImageAttributes विधि। डिफ़ॉल्ट श्रेणी के लिए गामा सुधार को अक्षम करती है"
 type: docs
 weight: 50
 url: /hi/net/aspose.psd/imageattributes/cleargamma/
 ---
+{{< psd/tize >}}
 ## ClearGamma() {#cleargamma}
 
-डिफ़ॉल्ट श्रेणी के लिए गामा सुधार अक्षम करता है।
+डिफ़ॉल्ट श्रेणी के लिए gamma correction को निष्क्रिय करता है।
 
 ```csharp
 public void ClearGamma()
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * class [ImageAttributes](../)
-* नाम स्थान [Aspose.PSD](../../imageattributes/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## ClearGamma(ColorAdjustType) {#cleargamma_1}
 
-निर्दिष्ट श्रेणी के लिए गामा सुधार अक्षम करता है।
+निर्दिष्ट श्रेणी के लिए gamma correction को निष्क्रिय करता है।
 
 ```csharp
 public void ClearGamma(ColorAdjustType type)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| type | ColorAdjustType | का एक तत्व[`ColorAdjustType`](../../coloradjusttype/) जो उस श्रेणी को निर्दिष्ट करता है जिसके लिए गामा सुधार अक्षम किया गया है। |
+| type | ColorAdjustType | एक तत्व [`ColorAdjustType`](../../coloradjusttype/) का जो उस श्रेणी को निर्दिष्ट करता है जिसके लिए गामा सुधार अक्षम किया गया है। |
 
-### यह सभी देखें
+### देखें भी
 
 * enum [ColorAdjustType](../../coloradjusttype/)
 * class [ImageAttributes](../)
-* नाम स्थान [Aspose.PSD](../../imageattributes/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

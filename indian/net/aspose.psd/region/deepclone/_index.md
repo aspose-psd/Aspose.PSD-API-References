@@ -1,27 +1,28 @@
 ---
-title: Region.DeepClone
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Region तरक. इसक सटक डप कप बनत हैRegion .
+title: "Region.DeepClone"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Region विधि। इस Region की एक सटीक डीप कॉपी बनाती है।"
 type: docs
 weight: 30
 url: /hi/net/aspose.psd/region/deepclone/
 ---
+{{< psd/tize >}}
 ## Region.DeepClone method
 
-इसकी सटीक डीप कॉपी बनाता है[`Region`](../) .
+इस [`Region`](../) की एक सटीक डीप कॉपी बनाता है।
 
 ```csharp
 public Region DeepClone()
 ```
 
-### प्रतिलाभ की मात्रा
+### रिटर्न वैल्यू
 
-[`Region`](../) कि यह विधि बनाती है।
+यह विधि द्वारा बनाई गई [`Region`](../)।
 
-### यह सभी देखें
+### देखें भी
 
 * class [Region](../)
-* नाम स्थान [Aspose.PSD](../../region/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

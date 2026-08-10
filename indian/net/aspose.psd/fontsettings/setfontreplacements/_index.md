@@ -1,33 +1,34 @@
 ---
-title: FontSettings.SetFontReplacements
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: FontSettings तरक. फ़न्ट प्रतस्थपन सूच सेट करत है यद फन्ट क अनुमत नहं है त प्रतस्थपन ढूंढ जएग सूच में पहले वले फन्ट क पहले उपयग कय जएग यद यह भ हट दय गय है त सूच से अगले फ़न्ट क चयन कय जएग सस्टम डफ़ल्ट फ़न्ट क उपयग करने क प्रयस करें भले ह इसक अनुमत न ह
+title: "FontSettings.SetFontReplacements"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "FontSettings मेथड। फ़ॉन्ट प्रतिस्थापन सूची सेट करता है। यदि फ़ॉन्ट अनुमति नहीं है तो प्रतिस्थापन खोजा जाएगा। सूची में पहला फ़ॉन्ट सबसे पहले उपयोग किया जाएगा। यदि वह भी प्रतिबंधित है तो सूची से अगला फ़ॉन्ट चुना जाएगा। यदि फ़ॉन्ट के पास कोई प्रतिस्थापन नहीं है या सभी प्रतिस्थापन अनुमति नहीं हैं तो अनुमति प्राप्त फ़ॉन्ट सूची से पहला अनुमति प्राप्त फ़ॉन्ट उपयोग किया जाएगा। यदि कोई अनुमति प्राप्त और उपलब्ध फ़ॉन्ट नहीं है तो लाइब्रेरी सिस्टम डिफ़ॉल्ट फ़ॉन्ट का उपयोग करने की कोशिश करेगी, भले ही वह अनुमति न हो।"
 type: docs
-weight: 110
+weight: 130
 url: /hi/net/aspose.psd/fontsettings/setfontreplacements/
 ---
+{{< psd/tize >}}
 ## FontSettings.SetFontReplacements method
 
-फ़ॉन्ट प्रतिस्थापन सूची सेट करता है। यदि फॉन्ट की अनुमति नहीं है तो प्रतिस्थापन ढूंढा जाएगा। सूची में पहले वाले फॉन्ट का पहले उपयोग किया जाएगा। यदि यह भी हटा दिया गया है, तो सूची से अगले फ़ॉन्ट का चयन किया जाएगा। सिस्टम डिफ़ॉल्ट फ़ॉन्ट का उपयोग करने का प्रयास करें, भले ही इसकी अनुमति न हो।
+फ़ॉन्ट प्रतिस्थापन सूची सेट करता है। यदि फ़ॉन्ट अनुमत नहीं है तो प्रतिस्थापन खोजा जाएगा। सूची में पहला फ़ॉन्ट पहले उपयोग किया जाएगा। यदि वह भी प्रतिबंधित है, तो सूची से अगला फ़ॉन्ट चुना जाएगा। यदि फ़ॉन्ट के पास कोई प्रतिस्थापन नहीं है या सभी प्रतिस्थापन अनुमत नहीं हैं, तो अनुमत फ़ॉन्ट सूची से पहला अनुमत फ़ॉन्ट उपयोग किया जाएगा। यदि कोई अनुमत और उपलब्ध फ़ॉन्ट नहीं है, तो लाइब्रेरी सिस्टम डिफ़ॉल्ट फ़ॉन्ट का उपयोग करने का प्रयास करेगी, भले ही वह अनुमत न हो।
 
 ```csharp
 public static void SetFontReplacements(string fontToReplace, string[] fontNames)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| fontToReplace | String | बदलने के लिए फ़ॉन्ट। |
+| fontToReplace | String | प्रतिस्थापित करने के लिए फ़ॉन्ट। |
 | fontNames | String[] | समानता के क्रम में प्रतिस्थापन फ़ॉन्ट नाम। |
 
 ### अपवाद
 
-| अपवाद | स्थिति |
+| अपवाद | शर्त |
 | --- | --- |
-| ArgumentException | फ़ॉन्ट सरणी और फ़ॉन्ट अंतर सरणी की लंबाई बराबर होनी चाहिए |
+| ArgumentException | फ़ॉन्ट एरे और फ़ॉन्ट अंतर एरे की लंबाई समान होनी चाहिए |
 
-### उदाहरण
+## उदाहरण
 
-निम्न कोड उपयोग करने वाले फोंट को प्रोग्रामेटिक रूप से सीमित करने की क्षमता प्रदर्शित करता है।
+निम्नलिखित कोड प्रोग्रामेटिक रूप से फ़ॉन्ट को सीमित करने की क्षमता दर्शाता है।
 
 ```csharp
 [C#]
@@ -50,7 +51,8 @@ try
     FontSettings.SetFontReplacements("Arial", arialReplacement);
     FontSettings.SetFontReplacements("Times New Roman", timesReplacement);
 
-    using (PsdImage image = (PsdImage)Image.Load(srcFile))
+    using (PsdImage image = (PsdImage)Image.Load(srcFile,
+        new PsdLoadOptions() { AllowNonChangedLayerRepaint = true }))
     {
         image.Save(output, new PngOptions() { ColorType = PngColorType.TruecolorWithAlpha });
     }
@@ -62,10 +64,10 @@ finally
 }
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * class [FontSettings](../)
-* नाम स्थान [Aspose.PSD](../../fontsettings/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: TiffOptions.XPKeywords
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: TiffOptions संपत्त. सब्जेक्ट इमेज प्रप्त य सेट करत है जसक उपयग वंडज एक्सप्लरर द्वर कय जत है
+title: "TiffOptions.XPKeywords"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "TiffOptions प्रॉपर्टी। प्राप्त करता है या सेट करता है वह विषय छवि जो Windows Explorer द्वारा उपयोग की जाती है।"
 type: docs
-weight: 610
+weight: 620
 url: /hi/net/aspose.psd.imageoptions/tiffoptions/xpkeywords/
 ---
+{{< psd/tize >}}
 ## TiffOptions.XPKeywords property
 
-सब्जेक्ट इमेज प्राप्त या सेट करता है, जिसका उपयोग विंडोज एक्सप्लोरर द्वारा किया जाता है।
+विषय इमेज को प्राप्त करता है या सेट करता है, जिसे विंडोज़ एक्सप्लोरर द्वारा उपयोग किया जाता है।
 
 ```csharp
 public string XPKeywords { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-विषय छवि, विंडोज एक्सप्लोरर द्वारा उपयोग किया जाता है।
+विषय छवि, Windows Explorer द्वारा उपयोग की जाती है।
 
-### यह सभी देखें
+### देखें भी
 
 * class [TiffOptions](../)
-* नाम स्थान [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

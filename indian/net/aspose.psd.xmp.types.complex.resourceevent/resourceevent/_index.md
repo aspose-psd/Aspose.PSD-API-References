@@ -1,14 +1,15 @@
 ---
-title: Class ResourceEvent
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Aspose.PSD.Xmp.Types.Complex.ResourceEvent.ResourceEvent कक्ष. खंच गई वस्तु के लए आयम शमल हैं
+title: "क्लास ResourceEvent"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Aspose.PSD.Xmp.Types.Complex.ResourceEvent.ResourceEvent क्लास। एक ड्रॉ किए गए ऑब्जेक्ट के आयाम शामिल करता है।"
 type: docs
-weight: 6080
+weight: 6580
 url: /hi/net/aspose.psd.xmp.types.complex.resourceevent/resourceevent/
 ---
+{{< psd/tize >}}
 ## ResourceEvent class
 
-खींची गई वस्तु के लिए आयाम शामिल हैं।
+खींचे गए वस्तु के आयामों को शामिल करता है।
 
 ```csharp
 public sealed class ResourceEvent : ComplexTypeBase
@@ -18,31 +19,31 @@ public sealed class ResourceEvent : ComplexTypeBase
 
 | नाम | विवरण |
 | --- | --- |
-| [ResourceEvent](resourceevent/)() | डिफ़ॉल्ट कंस्ट्रक्टर। |
+| [ResourceEvent](resourceevent/)() | डिफ़ॉल्ट कन्स्ट्रक्टर। |
 
-## गुण
-
-| नाम | विवरण |
-| --- | --- |
-| [Action](../../aspose.psd.xmp.types.complex.resourceevent/resourceevent/action/) { get; set; } | कार्रवाई करता है या सेट करता है। |
-| [ActionDate](../../aspose.psd.xmp.types.complex.resourceevent/resourceevent/actiondate/) { get; set; } | कार्य दिनांक प्राप्त या सेट करता है। |
-| [Changed](../../aspose.psd.xmp.types.complex.resourceevent/resourceevent/changed/) { get; set; } | संसाधन के उन हिस्सों की अर्धविराम-सीमांकित सूची प्राप्त या सेट करता है जो पिछले ईवेंट इतिहास के बाद से बदल दिए गए थे। |
-| [InstanceId](../../aspose.psd.xmp.types.complex.resourceevent/resourceevent/instanceid/) { get; set; } | xmpMM का मान प्राप्त या सेट करता है:InstanceId. |
-| [NamespaceUri](../../aspose.psd.xmp.types.complex/complextypebase/namespaceuri/) { get; } | डिफ़ॉल्ट नाम स्थान URI प्राप्त करता है. |
-| [Parameters](../../aspose.psd.xmp.types.complex.resourceevent/resourceevent/parameters/) { get; set; } | कार्रवाई का अतिरिक्त विवरण प्राप्त या सेट करता है। |
-| [Prefix](../../aspose.psd.xmp.types.complex/complextypebase/prefix/) { get; } | उपसर्ग प्राप्त करता है। |
-| [SofwareAgentName](../../aspose.psd.xmp.types.complex.resourceevent/resourceevent/sofwareagentname/) { get; set; } | सॉफ़्टवेयर एजेंट का नाम प्राप्त या सेट करता है। |
-
-## तरीकों
+## प्रॉपर्टीज़
 
 | नाम | विवरण |
 | --- | --- |
-| override [GetXmpRepresentation](../../aspose.psd.xmp.types.complex.resourceevent/resourceevent/getxmprepresentation/)() | XMP प्रारूप में स्ट्रिंग युक्त मान प्राप्त करता है। |
+| [Action](../../aspose.psd.xmp.types.complex.resourceevent/resourceevent/action/) { get; set; } | एक्शन को प्राप्त करता है या सेट करता है। |
+| [ActionDate](../../aspose.psd.xmp.types.complex.resourceevent/resourceevent/actiondate/) { get; set; } | एक्शन तिथि को प्राप्त करता है या सेट करता है। |
+| [Changed](../../aspose.psd.xmp.types.complex.resourceevent/resourceevent/changed/) { get; set; } | सेमिकलन-डिलिमिटेड सूची जिसमें संसाधन के उन भागों को शामिल किया गया है जो पिछले इवेंट इतिहास से बदल गए हैं, को प्राप्त करता है या सेट करता है। |
+| [InstanceId](../../aspose.psd.xmp.types.complex.resourceevent/resourceevent/instanceid/) { get; set; } | xmpMM:InstanceId का मान प्राप्त करता है या सेट करता है। |
+| [NamespaceUri](../../aspose.psd.xmp.types.complex/complextypebase/namespaceuri/) { get; } | डिफ़ॉल्ट नेमस्पेस URI को प्राप्त करता है। |
+| [Parameters](../../aspose.psd.xmp.types.complex.resourceevent/resourceevent/parameters/) { get; set; } | एक्शन का अतिरिक्त विवरण प्राप्त करता है या सेट करता है। |
+| [Prefix](../../aspose.psd.xmp.types.complex/complextypebase/prefix/) { get; } | प्रिफिक्स को प्राप्त करता है। |
+| [SofwareAgentName](../../aspose.psd.xmp.types.complex.resourceevent/resourceevent/sofwareagentname/) { get; set; } | सॉफ़्टवेयर एजेंट नाम को प्राप्त करता है या सेट करता है। |
 
-### यह सभी देखें
+## मेथड्स
+
+| नाम | विवरण |
+| --- | --- |
+| override [GetXmpRepresentation](../../aspose.psd.xmp.types.complex.resourceevent/resourceevent/getxmprepresentation/)() | XMP प्रारूप में सम्मिलित स्ट्रिंग मान को प्राप्त करता है। |
+
+### देखें भी
 
 * class [ComplexTypeBase](../../aspose.psd.xmp.types.complex/complextypebase/)
-* नाम स्थान [Aspose.PSD.Xmp.Types.Complex.ResourceEvent](../../aspose.psd.xmp.types.complex.resourceevent/)
-* सभा [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.ResourceEvent](../../aspose.psd.xmp.types.complex.resourceevent/)
+* assembly [Aspose.PSD](../../)
 
 

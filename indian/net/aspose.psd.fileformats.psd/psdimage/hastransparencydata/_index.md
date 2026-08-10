@@ -1,27 +1,28 @@
 ---
-title: PsdImage.HasTransparencyData
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: PsdImage संपत्त. परत डेट नर्दष्ट करते समय मर्ज कए गए परणम के लए पहले अल्फ चैनल में परदर्शत डेट शमल है य नहं यह इंगत करने वल मन प्रप्त य सेट करत है
+title: "PsdImage.HasTransparencyData"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "PsdImage property. यह दर्शाने वाला मान प्राप्त करता है या सेट करता है कि क्या पहला अल्फा चैनल लेयर डेटा निर्दिष्ट करने पर मर्ज किए गए परिणाम के लिए ट्रांसपेरेंसी डेटा रखता है"
 type: docs
 weight: 150
 url: /hi/net/aspose.psd.fileformats.psd/psdimage/hastransparencydata/
 ---
+{{< psd/tize >}}
 ## PsdImage.HasTransparencyData property
 
-परत डेटा निर्दिष्ट करते समय मर्ज किए गए परिणाम के लिए पहले अल्फा चैनल में पारदर्शिता डेटा शामिल है या नहीं, यह इंगित करने वाला मान प्राप्त या सेट करता है।
+पहले अल्फा चैनल में लेयर डेटा निर्दिष्ट करने पर मर्ज्ड परिणाम के लिए पारदर्शिता डेटा है या नहीं, यह दर्शाने वाला मान प्राप्त करता है या सेट करता है।
 
 ```csharp
 public bool HasTransparencyData { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-`सत्य` यदि परत डेटा निर्दिष्ट करते समय पहले अल्फा चैनल में मर्ज किए गए परिणाम के लिए पारदर्शिता डेटा होता है; अन्यथा,`असत्य` .
+`true` यदि पहला अल्फा चैनल लेयर डेटा निर्दिष्ट करने पर मर्ज किए गए परिणाम के लिए ट्रांसपेरेंसी डेटा रखता है; अन्यथा, `false`।
 
-### यह सभी देखें
+### देखें भी
 
 * class [PsdImage](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

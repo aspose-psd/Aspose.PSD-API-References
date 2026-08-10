@@ -1,23 +1,24 @@
 ---
-title: SoCoResource.SoCoResource
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: SoCoResource नर्मत. क एक नय उदहरण प्ररंभ करत हैSoCoResource वर्ग.
+title: "SoCoResource.SoCoResource"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "SoCoResource कन्स्ट्रक्टर। SoCoResource क्लास का नया इंस्टेंस इनिशियलाइज़ करता है"
 type: docs
 weight: 10
 url: /hi/net/aspose.psd.fileformats.psd.layers.layerresources/socoresource/socoresource/
 ---
+{{< psd/tize >}}
 ## SoCoResource constructor
 
-का एक नया उदाहरण प्रारंभ करता है[`SoCoResource`](../) वर्ग.
+[`SoCoResource`](../) क्लास का नया इंस्टेंस इनिशियलाइज़ करता है।
 
 ```csharp
 public SoCoResource()
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * class [SoCoResource](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../socoresource/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

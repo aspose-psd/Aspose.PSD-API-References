@@ -1,27 +1,28 @@
 ---
-title: NonGenericDictionary.IsSynchronized
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: NonGenericDictionary संपत्त. एक मन प्रप्त करत है ज दर्शत है क तक पहुंच है य नहंICollection समकलक है धग सुरक्षत.
+title: "NonGenericDictionary.IsSynchronized"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "NonGenericDictionary प्रॉपर्टी। एक मान प्राप्त करता है जो दर्शाता है कि ICollection तक पहुँच समकालिक (थ्रेड-सेफ़) है या नहीं"
 type: docs
 weight: 50
 url: /hi/net/aspose.psd/nongenericdictionary/issynchronized/
 ---
+{{< psd/tize >}}
 ## NonGenericDictionary.IsSynchronized property
 
-एक मान प्राप्त करता है जो दर्शाता है कि तक पहुंच है या नहींICollection समकालिक है (धागा सुरक्षित).
+एक मान प्राप्त करता है जो दर्शाता है कि ICollection तक पहुंच समक्रमित (थ्रेड-सुरक्षित) है।
 
 ```csharp
 public bool IsSynchronized { get; }
 ```
 
-### प्रतिलाभ की मात्रा
+### रिटर्न वैल्यू
 
-सच है अगर तक पहुंच हैICollectionसिंक्रनाइज़ है (धागा सुरक्षित); अन्यथा झूठा।
+यदि ICollection तक पहुँच समकालिक (थ्रेड-सेफ़) है तो true; अन्यथा false।
 
-### यह सभी देखें
+### देखें भी
 
 * class [NonGenericDictionary](../)
-* नाम स्थान [Aspose.PSD](../../nongenericdictionary/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,38 +1,39 @@
 ---
-title: Aspose.PSD.FileFormats.Core.VectorPaths
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: नम स्थन में PSD सदश पथ हैं.
+title: "Aspose.PSD.FileFormats.Core.VectorPaths"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "यह नेमस्पेस PSD वेक्टर पाथ्स को शामिल करता है।"
 type: docs
-weight: 150
+weight: 160
 url: /hi/net/aspose.psd.fileformats.core.vectorpaths/
 ---
-नाम स्थान में PSD सदिश पथ हैं.
+{{< psd/tize >}}
+नामस्थान PSD वेक्टर पाथ्स को शामिल करता है।
 
-## कक्षाओं
+## क्लासेस
 
-| कक्षा | विवरण |
+| क्लास | विवरण |
 | --- | --- |
-| [BezierKnotRecord](./bezierknotrecord/) | बेजियर नॉट रिकॉर्ड क्लास |
-| [ClipboardRecord](./clipboardrecord/) | क्लिपबोर्ड रिकॉर्ड क्लास |
-| [InitialFillRuleRecord](./initialfillrulerecord/) | प्रारंभिक भरण नियम रिकॉर्ड क्लास |
-| [LengthRecord](./lengthrecord/) | सबपाथ लेंथ रिकॉर्ड क्लास |
-| [PathFillRuleRecord](./pathfillrulerecord/) | पाथ फिल नियम रिकॉर्ड क्लास |
-| [VectorPathRecord](./vectorpathrecord/) | वेक्टर पाथ रिकॉर्ड क्लास |
-| [VectorPathRecordFactory](./vectorpathrecordfactory/) | वेक्टर पाथ रिकॉर्ड फ़ैक्टरी क्लास |
-| [VectorShapeBoundingBox](./vectorshapeboundingbox/) | वेक्टर शेप बाउंडिंग बॉक्स क्लास को परिभाषित करता है। |
-| [VectorShapeOriginSettings](./vectorshapeoriginsettings/) | वेक्टर आकार उत्पत्ति सेटिंग्स। |
-| [VectorShapeRadiiRectangle](./vectorshaperadiirectangle/) | वेक्टर आकार त्रिज्या आयत वर्ग को परिभाषित करता है |
-| [VectorShapeTransform](./vectorshapetransform/) | वेक्टर आकार परिवर्तन मैट्रिक्स वर्ग को परिभाषित करता है |
-## इंटरफेस
+| [BezierKnotRecord](./bezierknotrecord/) | Bezier Knot Record क्लास, रिसोर्स से Bezier नॉट्स डेटा को पढ़ने/लिखने के लिए उपयोग की जाती है। |
+| [ClipboardRecord](./clipboardrecord/) | Clipboard Record क्लास |
+| [InitialFillRuleRecord](./initialfillrulerecord/) | Initial Fill Rule Record क्लास |
+| [LengthRecord](./lengthrecord/) | Subpath Length Record क्लास। |
+| [PathFillRuleRecord](./pathfillrulerecord/) | Path Fill Rule Record क्लास |
+| [VectorPathRecord](./vectorpathrecord/) | Vector Path Record क्लास |
+| [VectorPathRecordFactory](./vectorpathrecordfactory/) | Vector Path Record Factory क्लास। |
+| [VectorShapeBoundingBox](./vectorshapeboundingbox/) | वेक्टर शैप बाउंडिंग बॉक्स क्लास को परिभाषित करता है। |
+| [VectorShapeOriginSettings](./vectorshapeoriginsettings/) | वेक्टर शैप उत्पत्ति सेटिंग्स। |
+| [VectorShapeRadiiRectangle](./vectorshaperadiirectangle/) | वेक्टर शैप रेडियाई रेक्टेंगल क्लास को परिभाषित करता है |
+| [VectorShapeTransform](./vectorshapetransform/) | वेक्टर शैप ट्रांसफ़ॉर्मेशन मैट्रिक्स क्लास को परिभाषित करता है |
+## इंटरफ़ेस
 
-| इंटरफेस | विवरण |
+| इंटरफ़ेस | विवरण |
 | --- | --- |
-| [IVectorPathData](./ivectorpathdata/) | वेक्टर पथ डेटा तक पहुंच के लिए इंटरफ़ेस। |
-## गणना
+| [IVectorPathData](./ivectorpathdata/) | वेक्टर पाथ डेटा तक पहुंच के लिए इंटरफ़ेस। |
+## एन्यूमरेशन
 
-| गणना | विवरण |
+| एन्यूमरेशन | विवरण |
 | --- | --- |
-| [PathOperations](./pathoperations/) | पथ आकृतियों के संयोजन के लिए संचालन (बूलियन संचालन)। |
-| [VectorPathType](./vectorpathtype/) | PSD प्रारूप विशिष्टता के अनुसार वेक्टर पथ प्रकार |
+| [PathOperations](./pathoperations/) | पाथ शैप्स को संयोजित करने के लिए ऑपरेशन्स (बूलियन ऑपरेशन्स)। |
+| [VectorPathType](./vectorpathtype/) | PSD फ़ॉर्मेट स्पेसिफिकेशन के अनुसार वेक्टर पाथ टाइप |
 
 

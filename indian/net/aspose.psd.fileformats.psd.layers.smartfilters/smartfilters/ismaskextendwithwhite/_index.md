@@ -1,23 +1,24 @@
 ---
-title: SmartFilters.IsMaskExtendWithWhite
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: SmartFilters संपत्त. स्मर्ट फल्टर क सफेद स्थत के सथ मस्क क बढ़य जत है
+title: "SmartFilters.IsMaskExtendWithWhite"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "SmartFilters प्रॉपर्टी. स्मार्ट फ़िल्टर की मास्क सफेद के साथ विस्तारित स्थिति प्राप्त करता है।"
 type: docs
 weight: 40
 url: /hi/net/aspose.psd.fileformats.psd.layers.smartfilters/smartfilters/ismaskextendwithwhite/
 ---
+{{< psd/tize >}}
 ## SmartFilters.IsMaskExtendWithWhite property
 
-स्मार्ट फिल्टर की सफेद स्थिति के साथ मास्क को बढ़ाया जाता है।
+स्मार्ट फ़िल्टर की सफ़ेद के साथ विस्तारित मास्क स्थिति प्राप्त करता है।
 
 ```csharp
 public bool IsMaskExtendWithWhite { get; }
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * class [SmartFilters](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.SmartFilters](../../smartfilters/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.SmartFilters](../../../aspose.psd.fileformats.psd.layers.smartfilters/)
+* assembly [Aspose.PSD](../../../)
 
 

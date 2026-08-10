@@ -1,26 +1,27 @@
 ---
-title: LiFdDataSource.Data
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: LiFdDataSource संपत्त. PSD फ़इल में एम्बेडेड स्मर्ट ऑब्जेक्ट डेट प्रप्त य सेट करत है
+title: "LiFdDataSource.Data"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "LiFdDataSource प्रॉपर्टी। PSD फ़ाइल में एम्बेडेड स्मार्ट ऑब्जेक्ट डेटा प्राप्त या सेट करता है"
 type: docs
 weight: 20
 url: /hi/net/aspose.psd.fileformats.psd.layers.layerresources/lifddatasource/data/
 ---
+{{< psd/tize >}}
 ## LiFdDataSource.Data property
 
-PSD फ़ाइल में एम्बेडेड स्मार्ट ऑब्जेक्ट डेटा प्राप्त या सेट करता है।
+PSD फ़ाइल में एम्बेडेड स्मार्ट ऑब्जेक्ट डेटा को प्राप्त करता है या सेट करता है।
 
 ```csharp
 public byte[] Data { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
 एम्बेडेड स्मार्ट ऑब्जेक्ट डेटा।
 
-### उदाहरण
+## उदाहरण
 
-यह उदाहरण दर्शाता है कि Lnk2Resource और Lnk3Resource के गुणों को कैसे प्राप्त और सेट किया जाए।
+यह उदाहरण दिखाता है कि Lnk2Resource और Lnk3Resource की प्रॉपर्टीज़ को कैसे प्राप्त और सेट किया जाए।
 
 ```csharp
 [C#]
@@ -35,90 +36,90 @@ void AssertAreEqual(object expected, object actual)
 
 object[] Lnk2ResourceSupportCases = new object[]
 {
-new object[]
-{
-    "00af34a0-a90b-674d-a821-73ee508c5479",
-    "rgb8_2x2.png",
-    "png",
-    string.Empty,
-    0x53,
-    0d,
-    string.Empty,
-    7,
-    true,
-    0x124L,
-    0x74cL
-}
+    new object[]
+    {
+        "00af34a0-a90b-674d-a821-73ee508c5479",
+        "rgb8_2x2.png",
+        "png",
+        string.Empty,
+        0x53,
+        0d,
+        string.Empty,
+        7,
+        true,
+        0x124L,
+        0x74cL
+    }
 };
 
 object[] LayeredLnk2ResourceSupportCases = new object[]
 {
-new object[]
-{
-    "69ac1c0d-1b74-fd49-9c7e-34a7aa6299ef",
-    "huset.jpg",
-    "JPEG",
-    string.Empty,
-    0x9d46,
-    0d,
-    "xmp.did:0F94B342065B11E395B1FD506DED6B07",
-    7,
-    true,
-    0x9E60L,
-    0xc60cL
-},
-new object[]
-{
-    "5a7d1965-0eae-b24e-a82f-98c7646424c2",
-    "panama-papers.jpg",
-    "JPEG",
-    string.Empty,
-    0xF56B,
-    0d,
-    "xmp.did:BDE940CBF51B11E59D759CDA690663E3",
-    7,
-    true,
-    0xF694L,
-    0x10dd4L
-},
+    new object[]
+    {
+        "69ac1c0d-1b74-fd49-9c7e-34a7aa6299ef",
+        "huset.jpg",
+        "JPEG",
+        string.Empty,
+        0x9d46,
+        0d,
+        "xmp.did:0F94B342065B11E395B1FD506DED6B07",
+        7,
+        true,
+        0x9E60L,
+        0xc60cL
+    },
+    new object[]
+    {
+        "5a7d1965-0eae-b24e-a82f-98c7646424c2",
+        "panama-papers.jpg",
+        "JPEG",
+        string.Empty,
+        0xF56B,
+        0d,
+        "xmp.did:BDE940CBF51B11E59D759CDA690663E3",
+        7,
+        true,
+        0xF694L,
+        0x10dd4L
+    },
 };
 
 object[] LayeredLnk3ResourceSupportCases = new object[]
 {
-new object[]
-{
-    "2fd7ba52-0221-de4c-bdc4-1210580c6caa",
-    "panama-papers.jpg",
-    "JPEG",
-    string.Empty,
-    0xF56B,
-    0d,
-    "xmp.did:BDE940CBF51B11E59D759CDA690663E3",
-    7,
-    true,
-    0xF694l,
-    0x10dd4L
-},
-new object[]
-{
-    "372d52eb-5825-8743-81a7-b6f32d51323d",
-    "huset.jpg",
-    "JPEG",
-    string.Empty,
-    0x9d46,
-    0d,
-    "xmp.did:0F94B342065B11E395B1FD506DED6B07",
-    7,
-    true,
-    0x9E60L,
-    0xc60cL
-},
+    new object[]
+    {
+        "2fd7ba52-0221-de4c-bdc4-1210580c6caa",
+        "panama-papers.jpg",
+        "JPEG",
+        string.Empty,
+        0xF56B,
+        0d,
+        "xmp.did:BDE940CBF51B11E59D759CDA690663E3",
+        7,
+        true,
+        0xF694l,
+        0x10dd4L
+    },
+    new object[]
+    {
+        "372d52eb-5825-8743-81a7-b6f32d51323d",
+        "huset.jpg",
+        "JPEG",
+        string.Empty,
+        0x9d46,
+        0d,
+        "xmp.did:0F94B342065B11E395B1FD506DED6B07",
+        7,
+        true,
+        0x9E60L,
+        0xc60cL
+    },
 };
 
 var basePath = "" + Path.DirectorySeparatorChar;
 string Output = "output" + Path.DirectorySeparatorChar;
 
-// एक स्मार्ट ऑब्जेक्ट के डेटा को PSD फ़ाइल में एक फ़ाइल में सहेजता है।
+// PSD फ़ाइल में एक स्मार्ट ऑब्जेक्ट का डेटा फ़ाइल में सहेजता है।
 void SaveSmartObjectData(string prefix, string fileName, byte[] data)
 {
     var filePath = basePath + prefix + "_" + fileName;
@@ -129,7 +130,7 @@ void SaveSmartObjectData(string prefix, string fileName, byte[] data)
     }
 }
 
-// PSD फ़ाइल में स्मार्ट ऑब्जेक्ट के लिए नया डेटा लोड करता है।
+// PSD फ़ाइल में एक स्मार्ट ऑब्जेक्ट के लिए नया डेटा लोड करता है।
 byte[] LoadNewData(string fileName)
 {
     using (var container = FileStreamContainer.OpenFileStream(basePath + fileName))
@@ -138,7 +139,7 @@ byte[] LoadNewData(string fileName)
     }
 }
 
-// PSD छवि में PSD Lnk2 / Lnk3 संसाधन और उसके liFD डेटा स्रोतों के गुण प्राप्त करता है और सेट करता है
+// PSD इमेज में PSD Lnk2 / Lnk3 रिसोर्स और उसके liFD डेटा स्रोतों की प्रॉपर्टीज़ को प्राप्त और सेट करता है।
 void ExampleOfLnk2ResourceSupport(
     string fileName,
     int dataSourceCount,
@@ -200,27 +201,27 @@ void ExampleOfLnk2ResourceSupport(
         }
 
         AssertAreEqual(true, lnk2Resource != null);
-        if (image.BitsPerChannel < 32) // 32 बिट प्रति चैनल बचत अभी तक समर्थित नहीं है
+        if (image.BitsPerChannel < 32) // 32 bit per channel saving is not supported yet
         {
             image.Save(basePath + Output + fileName, new PsdOptions(image));
         }
     }
 }
 
-// यह उदाहरण दर्शाता है कि 8 बिट प्रति चैनल के लिए PSD Lnk2 संसाधन और इसके liFD डेटा स्रोतों के गुणों को कैसे प्राप्त और सेट किया जाए।
+// यह उदाहरण दिखाता है कि 8 बिट प्रति चैनल के लिए PSD Lnk2 रिसोर्स और उसके liFD डेटा स्रोतों की प्रॉपर्टीज़ को कैसे प्राप्त और सेट किया जाए।
 ExampleOfLnk2ResourceSupport("rgb8_2x2_embedded_png.psd", 1, 0x12C, 0x0000079c, Lnk2ResourceSupportCases);
 
-// यह उदाहरण दर्शाता है कि 32 बिट प्रति चैनल के लिए PSD Lnk3 संसाधन और उसके liFD डेटा स्रोतों के गुणों को कैसे प्राप्त और सेट किया जाए।
+// यह उदाहरण दिखाता है कि 32 बिट प्रति चैनल के लिए PSD Lnk3 रिसोर्स और उसके liFD डेटा स्रोतों की प्रॉपर्टीज़ को कैसे प्राप्त और सेट किया जाए।
 ExampleOfLnk2ResourceSupport("Layered PSD file smart objects.psd", 2, 0x19504, 0x0001d3e0, LayeredLnk3ResourceSupportCases);
 
-// यह उदाहरण दर्शाता है कि 16 बिट प्रति चैनल के लिए PSD Lnk2 संसाधन और उसके liFD डेटा स्रोतों के गुणों को कैसे प्राप्त और सेट किया जाए।
+// यह उदाहरण दिखाता है कि 16 बिट प्रति चैनल के लिए PSD Lnk2 रिसोर्स और उसके liFD डेटा स्रोतों की प्रॉपर्टीज़ को कैसे प्राप्त और सेट किया जाए।
 ExampleOfLnk2ResourceSupport("LayeredSmartObjects16bit.psd", 2, 0x19504, 0x0001d3e0, LayeredLnk2ResourceSupportCases);
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * class [LiFdDataSource](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../lifddatasource/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

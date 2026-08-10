@@ -1,27 +1,28 @@
 ---
-title: NonGenericDictionary.IsReadOnly
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: NonGenericDictionary संपत्त. एक मन प्रप्त करत है ज दर्शत है क IDictionary वस्तु केवल पढ़ने के लए है.
+title: "NonGenericDictionary.IsReadOnly"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "NonGenericDictionary प्रॉपर्टी। एक मान प्राप्त करता है जो दर्शाता है कि IDictionary ऑब्जेक्ट केवल-पढ़ने योग्य है या नहीं"
 type: docs
 weight: 40
 url: /hi/net/aspose.psd/nongenericdictionary/isreadonly/
 ---
+{{< psd/tize >}}
 ## NonGenericDictionary.IsReadOnly property
 
-एक मान प्राप्त करता है जो दर्शाता है कि IDictionary वस्तु केवल पढ़ने के लिए है.
+एक मान प्राप्त करता है जो दर्शाता है कि IDictionary ऑब्जेक्ट केवल-पढ़ने योग्य है।
 
 ```csharp
 public bool IsReadOnly { get; }
 ```
 
-### प्रतिलाभ की मात्रा
+### रिटर्न वैल्यू
 
-सच है अगरIDictionary वस्तु केवल पढ़ने के लिए है; अन्यथा झूठा।
+यदि IDictionary ऑब्जेक्ट केवल-पढ़ने योग्य है तो true; अन्यथा false।
 
-### यह सभी देखें
+### देखें भी
 
 * class [NonGenericDictionary](../)
-* नाम स्थान [Aspose.PSD](../../nongenericdictionary/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

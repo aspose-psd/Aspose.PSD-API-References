@@ -1,37 +1,38 @@
 ---
-title: PhotoshopPackage.SetUrgency
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: PhotoshopPackage तरक. तत्कलकत नर्धरत करत है
+title: "PhotoshopPackage.SetUrgency"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "PhotoshopPackage मेथड। तात्कालिकता सेट करता है"
 type: docs
 weight: 200
 url: /hi/net/aspose.psd.xmp.schemas.photoshop/photoshoppackage/seturgency/
 ---
+{{< psd/tize >}}
 ## PhotoshopPackage.SetUrgency method
 
-तात्कालिकता निर्धारित करता है।
+तत्कालता को सेट करता है।
 
 ```csharp
 public void SetUrgency(int urgency)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| urgency | Int32 | अत्यावश्यकता। |
+| तात्कालिकता | Int32 | तात्कालिकता। |
 
 ### अपवाद
 
-| अपवाद | स्थिति |
+| अपवाद | शर्त |
 | --- | --- |
-| ArgumentOutOfRangeException | अत्यावश्यकता; मान्य सीमा 1 से 8 तक है |
+| ArgumentOutOfRangeException | urgency;वैध सीमा 1 से 8 तक है |
 
-### टिप्पणियों
+## टिप्पणियाँ
 
-उतावलापन 1 से 8. तक क्रोध में होना चाहिए
+तात्कालिकता 1 से 8 तक की सीमा में होनी चाहिए।
 
-### यह सभी देखें
+### देखें भी
 
 * class [PhotoshopPackage](../)
-* नाम स्थान [Aspose.PSD.Xmp.Schemas.Photoshop](../../photoshoppackage/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.Photoshop](../../../aspose.psd.xmp.schemas.photoshop/)
+* assembly [Aspose.PSD](../../../)
 
 

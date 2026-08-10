@@ -1,11 +1,12 @@
 ---
-title: PsdImage.Compression
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: PsdImage संपत्त. संपड़न वध प्रप्त करत है
+title: "PsdImage.Compression"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "PsdImage प्रॉपर्टी। संपीड़न विधि प्राप्त करता है।"
 type: docs
 weight: 80
 url: /hi/net/aspose.psd.fileformats.psd/psdimage/compression/
 ---
+{{< psd/tize >}}
 ## PsdImage.Compression property
 
 संपीड़न विधि प्राप्त करता है।
@@ -14,15 +15,15 @@ url: /hi/net/aspose.psd.fileformats.psd/psdimage/compression/
 public CompressionMethod Compression { get; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
 संपीड़न।
 
-### यह सभी देखें
+### देखें भी
 
 * enum [CompressionMethod](../../compressionmethod/)
 * class [PsdImage](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

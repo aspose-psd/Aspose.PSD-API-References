@@ -1,26 +1,27 @@
 ---
-title: BackgroundColorResource.DataSize
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: BackgroundColorResource संपत्त. बइट्स में संसधन डेट आकर प्रप्त करत है
+title: "BackgroundColorResource.DataSize"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "BackgroundColorResource प्रॉपर्टी। बाइट्स में रिसोर्स डेटा आकार प्राप्त करता है"
 type: docs
 weight: 30
 url: /hi/net/aspose.psd.fileformats.psd.resources/backgroundcolorresource/datasize/
 ---
+{{< psd/tize >}}
 ## BackgroundColorResource.DataSize property
 
-बाइट्स में संसाधन डेटा आकार प्राप्त करता है।
+संसाधन डेटा आकार को बाइट्स में प्राप्त करता है।
 
 ```csharp
 public override int DataSize { get; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
 संसाधन डेटा आकार.
 
-### उदाहरण
+## उदाहरण
 
-निम्न उदाहरण पृष्ठभूमिरंग संसाधन संसाधन के समर्थन को प्रदर्शित करता है।
+निम्नलिखित उदाहरण BackgroundColorResource रिसोर्स के समर्थन को दर्शाता है।
 
 ```csharp
 [C#]
@@ -41,17 +42,17 @@ using (var image = (PsdImage)Image.Load(sourceFilePath))
         }
     }
 
-    // अद्यतन पृष्ठभूमि रंग संसाधन
+    // BackgroundColorResource को अपडेट करें
     backgroundColorResource.Color = Color.DarkRed;
 
     image.Save(outputFilePath);
 }
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * class [BackgroundColorResource](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Resources](../../backgroundcolorresource/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

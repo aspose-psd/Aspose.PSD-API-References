@@ -1,28 +1,29 @@
 ---
-title: CmxRasterizationOptions.Positioning
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: CmxRasterizationOptions संपत्त. स्थत प्रप्त करत है य सेट करत है
+title: "CmxRasterizationOptions.Positioning"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "CmxRasterizationOptions property. पोजिशनिंग प्राप्त या सेट करता है"
 type: docs
 weight: 20
 url: /hi/net/aspose.psd.imageoptions/cmxrasterizationoptions/positioning/
 ---
+{{< psd/tize >}}
 ## CmxRasterizationOptions.Positioning property
 
-स्थिति प्राप्त करता है या सेट करता है।
+प्राप्त करता है या सेट करता है स्थिति निर्धारण।
 
 ```csharp
 public PositioningTypes Positioning { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-स्थिति।
+पोजिशनिंग।
 
-### यह सभी देखें
+### देखें भी
 
 * enum [PositioningTypes](../../positioningtypes/)
 * class [CmxRasterizationOptions](../)
-* नाम स्थान [Aspose.PSD.ImageOptions](../../cmxrasterizationoptions/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

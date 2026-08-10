@@ -1,52 +1,53 @@
 ---
-title: RectangleF.Intersect
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: RectangleF तरक. रटर्न एRectangleF संरचन ज द आयतं के प्रतच्छेदन क प्रतनधत्व करत है यद कई चरह नहं है और खल हैRectangleF वपस आ गय है
+title: "RectangleF.Intersect"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "RectangleF मेथड। दो आयतों के प्रतिच्छेदन को दर्शाने वाली एक RectangleF संरचना लौटाता है। यदि कोई प्रतिच्छेदन नहीं है तो एक खाली RectangleF लौटाया जाता है"
 type: docs
 weight: 60
 url: /hi/net/aspose.psd/rectanglef/intersect/
 ---
+{{< psd/tize >}}
 ## Intersect(RectangleF, RectangleF)
 
-रिटर्न ए[`RectangleF`](../) संरचना जो दो आयतों के प्रतिच्छेदन का प्रतिनिधित्व करती है। यदि कोई चौराहा नहीं है, और खाली है[`RectangleF`](../) वापस आ गया है।
+दो आयतों के प्रतिच्छेदन को दर्शाने वाली एक [`RectangleF`](../) संरचना लौटाता है। यदि कोई प्रतिच्छेदन नहीं है, तो एक खाली [`RectangleF`](../) लौटाया जाता है।
 
 ```csharp
 public static RectangleF Intersect(RectangleF a, RectangleF b)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| a | RectangleF | प्रतिच्छेद करने के लिए पहला आयत। |
-| b | RectangleF | प्रतिच्छेद करने के लिए एक दूसरा आयत। |
+| a | RectangleF | पहली आयत जिसका प्रतिच्छेदन करना है। |
+| b | RectangleF | दूसरी आयत जिसका प्रतिच्छेदन करना है। |
 
-### प्रतिलाभ की मात्रा
+### रिटर्न वैल्यू
 
-एक तिहाई[`RectangleF`](../) संरचना जिसका आकार दो निर्दिष्ट आयतों के अतिव्यापी क्षेत्र का प्रतिनिधित्व करता है।
+एक तीसरी [`RectangleF`](../) संरचना जिसका आकार दो निर्दिष्ट आयतों के ओवरलैप क्षेत्र को दर्शाता है।
 
-### यह सभी देखें
+### देखें भी
 
 * struct [RectangleF](../)
-* नाम स्थान [Aspose.PSD](../../rectanglef/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Intersect(RectangleF)
 
-इसे बदलता है[`RectangleF`](../)स्वयं और निर्दिष्ट के प्रतिच्छेदन के साथ संरचना[`RectangleF`](../)संरचना.
+इस [`RectangleF`](../) संरचना को स्वयं और निर्दिष्ट [`RectangleF`](../) संरचना के प्रतिच्छेदन से बदलता है।
 
 ```csharp
 public void Intersect(RectangleF rect)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| rect | RectangleF | प्रतिच्छेद करने के लिए आयत। |
+| rect | RectangleF | प्रतिच्छेदन करने वाली आयत। |
 
-### यह सभी देखें
+### देखें भी
 
 * struct [RectangleF](../)
-* नाम स्थान [Aspose.PSD](../../rectanglef/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

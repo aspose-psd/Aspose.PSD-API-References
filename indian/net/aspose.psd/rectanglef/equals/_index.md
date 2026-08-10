@@ -1,31 +1,32 @@
 ---
-title: RectangleF.Equals
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: RectangleF तरक. परक्षण करत है क क्यobj एक हैRectangleF इसके समन स्थन और आकर के सथRectangleF .
+title: "RectangleF.Equals"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "RectangleF विधि। परीक्षण करता है कि क्या obj एक RectangleF है जिसका स्थान और आकार इस RectangleF के समान है।"
 type: docs
 weight: 200
 url: /hi/net/aspose.psd/rectanglef/equals/
 ---
+{{< psd/tize >}}
 ## RectangleF.Equals method
 
-परीक्षण करता है कि क्या*obj* एक है[`RectangleF`](../) इसके समान स्थान और आकार के साथ[`RectangleF`](../) .
+परीक्षण करता है कि क्या *obj* एक [`RectangleF`](../) है जिसका स्थान और आकार इस [`RectangleF`](../) के समान है।
 
 ```csharp
 public override bool Equals(object obj)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| obj | Object | Object परीक्षा करना। |
+| obj | ऑब्जेक्ट | यह Object परीक्षण के लिए। |
 
-### प्रतिलाभ की मात्रा
+### रिटर्न वैल्यू
 
-यह विधि सत्य लौटाती है यदि*obj* एक है[`RectangleF`](../) और इसके X, Y, चौड़ाई और ऊँचाई के गुण इसके संगत गुणों के बराबर हैं[`RectangleF`](../); अन्यथा झूठा।
+यह विधि true लौटाती है यदि *obj* एक [`RectangleF`](../) है और उसके X, Y, Width, और Height गुण इस [`RectangleF`](../) के संबंधित गुणों के बराबर हैं; अन्यथा, false।
 
-### यह सभी देखें
+### देखें भी
 
 * struct [RectangleF](../)
-* नाम स्थान [Aspose.PSD](../../rectanglef/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

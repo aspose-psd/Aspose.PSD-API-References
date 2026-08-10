@@ -1,33 +1,34 @@
 ---
-title: PsdImage.AddBrightnessContrastAdjustmentLayer
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: PsdImage तरक. चमक/कंट्रस्ट समयजन परत जड़त है
+title: "PsdImage.AddBrightnessContrastAdjustmentLayer"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "PsdImage मेथड। ब्राइटनेस/कॉन्ट्रास्ट समायोजन लेयर जोड़ता है"
 type: docs
-weight: 300
+weight: 310
 url: /hi/net/aspose.psd.fileformats.psd/psdimage/addbrightnesscontrastadjustmentlayer/
 ---
+{{< psd/tize >}}
 ## PsdImage.AddBrightnessContrastAdjustmentLayer method
 
-चमक/कंट्रास्ट समायोजन परत जोड़ता है।
+ब्राइटनेस/कॉन्ट्रास्ट एडजस्टमेंट लेयर जोड़ता है।
 
 ```csharp
 public BrightnessContrastLayer AddBrightnessContrastAdjustmentLayer(int brightness, int contrast)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| brightness | Int32 | चमक। |
-| contrast | Int32 | विपरीत। |
+| उज्ज्वलता | Int32 | चमक। |
+| विरोध | Int32 | contrast। |
 
-### प्रतिलाभ की मात्रा
+### रिटर्न वैल्यू
 
-चमक/कंट्रास्ट परत बनाई गई
+बनाया गया ब्राइटनेस/कॉन्ट्रास्ट लेयर
 
-### यह सभी देखें
+### देखें भी
 
 * class [BrightnessContrastLayer](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/brightnesscontrastlayer/)
 * class [PsdImage](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

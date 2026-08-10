@@ -1,28 +1,29 @@
 ---
-title: ExifData.SubjectDistanceRange
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: ExifData संपत्त. वषय दूर सम प्रप्त य सेट करत है
+title: "ExifData.SubjectDistanceRange"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "ExifData प्रॉपर्टी। विषय दूरी सीमा को प्राप्त करता है या सेट करता है"
 type: docs
 weight: 1010
 url: /hi/net/aspose.psd.exif/exifdata/subjectdistancerange/
 ---
+{{< psd/tize >}}
 ## ExifData.SubjectDistanceRange property
 
-विषय दूरी सीमा प्राप्त या सेट करता है।
+सब्जेक्ट दूरी रेंज को प्राप्त करता है या सेट करता है।
 
 ```csharp
 public ExifSubjectDistanceRange SubjectDistanceRange { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
 विषय दूरी सीमा।
 
-### यह सभी देखें
+### देखें भी
 
 * enum [ExifSubjectDistanceRange](../../../aspose.psd.exif.enums/exifsubjectdistancerange/)
 * class [ExifData](../)
-* नाम स्थान [Aspose.PSD.Exif](../../exifdata/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

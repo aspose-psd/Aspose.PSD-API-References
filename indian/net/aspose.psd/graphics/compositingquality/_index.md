@@ -1,28 +1,29 @@
 ---
-title: Graphics.CompositingQuality
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Graphics संपत्त. कंपज़टंग गुणवत्त प्रप्त य सेट करत है
+title: "Graphics.CompositingQuality"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Graphics गुण। संयोजन गुणवत्ता को प्राप्त करता है या सेट करता है।"
 type: docs
 weight: 30
 url: /hi/net/aspose.psd/graphics/compositingquality/
 ---
+{{< psd/tize >}}
 ## Graphics.CompositingQuality property
 
-कंपोज़िटिंग गुणवत्ता प्राप्त या सेट करता है।
+कॉम्पोज़िटिंग क्वालिटी को प्राप्त करता है या सेट करता है।
 
 ```csharp
 public CompositingQuality CompositingQuality { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-रचना की गुणवत्ता।
+संयोजन गुणवत्ता।
 
-### यह सभी देखें
+### देखें भी
 
 * enum [CompositingQuality](../../compositingquality/)
 * class [Graphics](../)
-* नाम स्थान [Aspose.PSD](../../graphics/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

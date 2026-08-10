@@ -1,31 +1,32 @@
 ---
-title: CmykColorHelper.GetK
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: CmykColorHelper तरक. कल घटक मन प्रप्त करत है
+title: "CmykColorHelper.GetK"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "CmykColorHelper मेथड। ब्लैक घटक मान प्राप्त करता है।"
 type: docs
 weight: 30
 url: /hi/net/aspose.psd/cmykcolorhelper/getk/
 ---
+{{< psd/tize >}}
 ## CmykColorHelper.GetK method
 
-काला घटक मान प्राप्त करता है।
+ब्लैक कंपोनेंट वैल्यू प्राप्त करता है।
 
 ```csharp
 public static int GetK(int cmyk)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| cmyk | Int32 | CMYK रंग 32-बिट पूर्णांक मान के रूप में प्रस्तुत किया गया। |
+| cmyk | Int32 | CMYK रंग को 32-बिट पूर्णांक मान के रूप में प्रस्तुत किया गया है। |
 
-### प्रतिलाभ की मात्रा
+### रिटर्न वैल्यू
 
-काला घटक मान।
+काले घटक का मान।
 
-### यह सभी देखें
+### देखें भी
 
 * class [CmykColorHelper](../)
-* नाम स्थान [Aspose.PSD](../../cmykcolorhelper/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

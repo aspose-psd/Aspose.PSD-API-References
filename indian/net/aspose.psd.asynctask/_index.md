@@ -1,29 +1,30 @@
 ---
-title: Aspose.PSD.AsyncTask
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: नमस्थन AsyncTask प्रसंस्करण क संभलत है
+title: "Aspose.PSD.AsyncTask"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "नेमस्पेस AsyncTask प्रोसेसिंग को संभालता है"
 type: docs
 weight: 20
 url: /hi/net/aspose.psd.asynctask/
 ---
-नामस्थान AsyncTask प्रसंस्करण को संभालता है।
+{{< psd/tize >}}
+नामस्थान AsyncTask प्रोसेसिंग को संभालता है।
 
-## कक्षाओं
+## क्लासेस
 
-| कक्षा | विवरण |
+| क्लास | विवरण |
 | --- | --- |
-| [AsyncTask](./asynctask/) | अतुल्यकालिक कार्यों को बनाने के लिए स्थिर कारखाना वर्ग |
-| [AsyncTaskAction](./asynctaskaction/) | बिना किसी परिणाम के एसिंक्रोनस कार्य के लिए लंबा ऑपरेशन प्रतिनिधि। |
-| [AsyncTaskException](./asynctaskexception/) | एसिंक्रोनस कार्य के लिए अपवाद. |
-| [AsyncTaskFunc](./asynctaskfunc/) | सामान्य प्रकार के परिणाम के साथ एसिंक्रोनस कार्य के लिए लंबा ऑपरेशन प्रतिनिधि। |
-| [AsyncTaskProgress](./asynctaskprogress/) | अतुल्यकालिक कार्य के लिए प्रगति की जानकारी प्रदान करता है। |
-| [CompleteCallback](./completecallback/) | कार्य पूर्ण होने की घटना प्राप्त करने के लिए कॉलबैक फ़ंक्शन। |
-| [ProgressCallback](./progresscallback/) | कार्य प्रगति परिवर्तन घटना प्राप्त करने के लिए कॉलबैक फ़ंक्शन। |
-## इंटरफेस
+| [AsyncTask](./asynctask/) | असिंक्रोनस टास्क बनाने के लिए स्थैतिक फ़ैक्टरी क्लास |
+| [AsyncTaskAction](./asynctaskaction/) | असिंक्रोनस टास्क के लिए बिना किसी परिणाम के लंबी ऑपरेशन डेलीगेट |
+| [AsyncTaskException](./asynctaskexception/) | असिंक्रोनस टास्क के लिए अपवाद |
+| [AsyncTaskFunc](./asynctaskfunc/) | असिंक्रोनस टास्क के लिए जेनरिक टाइप परिणाम के साथ लंबी ऑपरेशन डेलीगेट। |
+| [AsyncTaskProgress](./asynctaskprogress/) | असिंक्रोनस टास्क के लिए प्रगति जानकारी प्रदान करता है। |
+| [CompleteCallback](./completecallback/) | टास्क पूर्णता इवेंट प्राप्त करने के लिए कॉलबैक फ़ंक्शन। |
+| [ProgressCallback](./progresscallback/) | टास्क प्रगति परिवर्तन इवेंट प्राप्त करने के लिए कॉलबैक फ़ंक्शन। |
+## इंटरफ़ेस
 
-| इंटरफेस | विवरण |
+| इंटरफ़ेस | विवरण |
 | --- | --- |
-| [IAsyncTask](./iasynctask/) | अतुल्यकालिक कार्य। |
-| [IAsyncTaskState](./iasynctaskstate/) | एसिंक्रोनस टास्क की स्थिति तक पहुंच प्रदान करता है। |
+| [IAsyncTask](./iasynctask/) | असिंक्रोनस टास्क। |
+| [IAsyncTaskState](./iasynctaskstate/) | असिंक्रोनस टास्क की स्थिति तक पहुँच प्रदान करता है। |
 
 

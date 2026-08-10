@@ -1,27 +1,28 @@
 ---
-title: AiHeader.DocumentPreview
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: AiHeader संपत्त. दस्तवेज़ पूर्ववलकन प्रप्त य सेट करत है.
+title: "AiHeader.DocumentPreview"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "AiHeader प्रॉपर्टी। प्राप्त करता है या सेट करता है दस्तावेज़ प्रीव्यू।"
 type: docs
 weight: 50
 url: /hi/net/aspose.psd.fileformats.ai/aiheader/documentpreview/
 ---
+{{< psd/tize >}}
 ## AiHeader.DocumentPreview property
 
-दस्तावेज़ पूर्वावलोकन प्राप्त या सेट करता है.
+दस्तावेज़ पूर्वावलोकन को प्राप्त करता है या सेट करता है।
 
 ```csharp
 public string DocumentPreview { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-दस्तावेज़ पूर्वावलोकन.
+दस्तावेज़ प्रीव्यू।
 
-### यह सभी देखें
+### देखें भी
 
 * class [AiHeader](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Ai](../../aiheader/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: CmykMixerChannel.CmykMixerChannel
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: CmykMixerChannel नर्मत. क एक नय उदहरण प्ररंभ करत हैCmykMixerChannel वर्ग.
+title: "CmykMixerChannel.CmykMixerChannel"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "CmykMixerChannel कंस्ट्रक्टर। CmykMixerChannel क्लास का नया इंस्टेंस इनिशियलाइज़ करता है।"
 type: docs
 weight: 10
 url: /hi/net/aspose.psd.fileformats.psd.layers.adjustmentlayers/cmykmixerchannel/cmykmixerchannel/
 ---
+{{< psd/tize >}}
 ## CmykMixerChannel constructor
 
-का एक नया उदाहरण प्रारंभ करता है[`CmykMixerChannel`](../) वर्ग.
+[`CmykMixerChannel`](../) क्लास का नया इंस्टेंस इनिशियलाइज़ करता है।
 
 ```csharp
 public CmykMixerChannel(byte[] data)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| data | Byte[] | संसाधन का डेटा। |
+| डेटा | Byte[] | संसाधन का डेटा। |
 
-### यह सभी देखें
+### देखें भी
 
 * class [CmykMixerChannel](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../cmykmixerchannel/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/)
+* assembly [Aspose.PSD](../../../)
 
 

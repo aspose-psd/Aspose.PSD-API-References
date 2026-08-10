@@ -1,191 +1,192 @@
 ---
-title: Graphics.FillClosedCurve
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Graphics तरक. एक सरण द्वर परभषत एक बंद कर्डनल स्पलइन वक्र के इंटरयर क भरत हैPointF संरचनएं यह वध 0.5 और के डफ़ल्ट तनव क उपयग करत हैAlternate भरण मड.
+title: "Graphics.FillClosedCurve"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Graphics मेथड। एक पॉइंटF संरचनाओं की एरे द्वारा परिभाषित बंद कार्डिनल स्प्लाइन कर्व के अंदरूनी भाग को भरता है। यह मेथड डिफ़ॉल्ट टेंशन 0.5 और वैकल्पिक फ़िल मोड का उपयोग करता है।"
 type: docs
-weight: 340
+weight: 350
 url: /hi/net/aspose.psd/graphics/fillclosedcurve/
 ---
+{{< psd/tize >}}
 ## FillClosedCurve(Brush, PointF[]) {#fillclosedcurve}
 
-एक सरणी द्वारा परिभाषित एक बंद कार्डिनल स्पलाइन वक्र के इंटीरियर को भरता है[`PointF`](../../pointf/) संरचनाएं। यह विधि 0.5 और के डिफ़ॉल्ट तनाव का उपयोग करती हैAlternate भरण मोड.
+एक एरे में मौजूद [`PointF`](../../pointf/) संरचनाओं द्वारा परिभाषित बंद कार्डिनल स्प्लाइन कर्व के अंदरूनी भाग को भरता है। यह मेथड डिफ़ॉल्ट टेंशन 0.5 और वैकल्पिक फ़िल मोड का उपयोग करता है।
 
 ```csharp
 public void FillClosedCurve(Brush brush, PointF[] points)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| brush | Brush | [`Brush`](../../brush/)जो भरण की विशेषताओं को निर्धारित करता है। |
-| points | PointF[] | की श्रंखला[`PointF`](../../pointf/) संरचनाएं जो पट्टी को परिभाषित करती हैं। |
+| brush | Brush | [`Brush`](../../brush/) जो भराव की विशेषताओं को निर्धारित करता है। |
+| points | PointF[] | [`PointF`](../../pointf/) संरचनाओं की एरे जो स्प्लाइन को परिभाषित करती है। |
 
 ### अपवाद
 
-| अपवाद | स्थिति |
+| अपवाद | शर्त |
 | --- | --- |
-| ArgumentNullException | *brush* शून्य है। -या- *points* शून्य है। |
+| ArgumentNullException | *brush* शून्य है। -or- *points* शून्य है। |
 
-### यह सभी देखें
+### देखें भी
 
 * class [Brush](../../brush/)
 * struct [PointF](../../pointf/)
 * class [Graphics](../)
-* नाम स्थान [Aspose.PSD](../../graphics/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## FillClosedCurve(Brush, PointF[], FillMode) {#fillclosedcurve_1}
 
-एक सरणी द्वारा परिभाषित एक बंद कार्डिनल स्पलाइन वक्र के इंटीरियर को भरता है[`PointF`](../../pointf/) निर्दिष्ट भरण मोड का उपयोग करके संरचनाएं। यह विधि 0.5. के डिफ़ॉल्ट तनाव का उपयोग करती है
+निर्दिष्ट फ़िल मोड का उपयोग करके एक एरे में मौजूद [`PointF`](../../pointf/) संरचनाओं द्वारा परिभाषित बंद कार्डिनल स्प्लाइन कर्व के अंदरूनी भाग को भरता है। यह मेथड डिफ़ॉल्ट टेंशन 0.5 का उपयोग करता है।
 
 ```csharp
 public void FillClosedCurve(Brush brush, PointF[] points, FillMode fillmode)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| brush | Brush | [`Brush`](../../brush/)जो भरण की विशेषताओं को निर्धारित करता है। |
-| points | PointF[] | की श्रंखला[`PointF`](../../pointf/) संरचनाएं जो पट्टी को परिभाषित करती हैं। |
-| fillmode | FillMode | के सदस्य[`FillMode`](../../fillmode/) गणना जो निर्धारित करती है कि वक्र कैसे भरा जाता है। |
+| brush | Brush | [`Brush`](../../brush/) जो भराव की विशेषताओं को निर्धारित करता है। |
+| points | PointF[] | [`PointF`](../../pointf/) संरचनाओं की एरे जो स्प्लाइन को परिभाषित करती है। |
+| fillmode | FillMode | [`FillMode`](../../fillmode/) एनीमरेशन का सदस्य जो निर्धारित करता है कि कर्व कैसे भरा जाता है। |
 
 ### अपवाद
 
-| अपवाद | स्थिति |
+| अपवाद | शर्त |
 | --- | --- |
-| ArgumentNullException | *brush* शून्य है। -या- *points* शून्य है। |
+| ArgumentNullException | *brush* शून्य है। -or- *points* शून्य है। |
 
-### यह सभी देखें
+### देखें भी
 
 * class [Brush](../../brush/)
 * struct [PointF](../../pointf/)
 * enum [FillMode](../../fillmode/)
 * class [Graphics](../)
-* नाम स्थान [Aspose.PSD](../../graphics/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## FillClosedCurve(Brush, PointF[], FillMode, float) {#fillclosedcurve_2}
 
-एक सरणी द्वारा परिभाषित एक बंद कार्डिनल स्पलाइन वक्र के इंटीरियर को भरता है[`PointF`](../../pointf/) निर्दिष्ट भरण मोड और तनाव का उपयोग करने वाली संरचनाएं।
+निर्दिष्ट फ़िल मोड और टेंशन का उपयोग करके एक एरे में मौजूद [`PointF`](../../pointf/) संरचनाओं द्वारा परिभाषित बंद कार्डिनल स्प्लाइन कर्व के अंदरूनी भाग को भरता है।
 
 ```csharp
 public void FillClosedCurve(Brush brush, PointF[] points, FillMode fillmode, float tension)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| brush | Brush | ए[`Brush`](../../brush/)जो भरण की विशेषताओं को निर्धारित करता है। |
-| points | PointF[] | की श्रंखला[`PointF`](../../pointf/) संरचनाएं जो पट्टी को परिभाषित करती हैं। |
-| fillmode | FillMode | के सदस्य[`FillMode`](../../fillmode/) गणना जो निर्धारित करती है कि वक्र कैसे भरा जाता है। |
-| tension | Single | 0.0F से अधिक या उसके बराबर मान जो वक्र के तनाव को निर्दिष्ट करता है। |
+| brush | Brush | एक [`Brush`](../../brush/) जो फ़िल की विशेषताओं को निर्धारित करता है। |
+| points | PointF[] | [`PointF`](../../pointf/) संरचनाओं की एरे जो स्प्लाइन को परिभाषित करती है। |
+| fillmode | FillMode | [`FillMode`](../../fillmode/) एनीमरेशन का सदस्य जो निर्धारित करता है कि कर्व कैसे भरा जाता है। |
+| तनाव | Single | 0.0F या उससे अधिक का मान जो वक्र की टेंशन को निर्दिष्ट करता है। |
 
 ### अपवाद
 
-| अपवाद | स्थिति |
+| अपवाद | शर्त |
 | --- | --- |
-| ArgumentNullException | *brush* शून्य है। -या- *points* शून्य है। |
+| ArgumentNullException | *brush* शून्य है। -or- *points* शून्य है। |
 
-### यह सभी देखें
+### देखें भी
 
 * class [Brush](../../brush/)
 * struct [PointF](../../pointf/)
 * enum [FillMode](../../fillmode/)
 * class [Graphics](../)
-* नाम स्थान [Aspose.PSD](../../graphics/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## FillClosedCurve(Brush, Point[]) {#fillclosedcurve_3}
 
-एक सरणी द्वारा परिभाषित एक बंद कार्डिनल स्पलाइन वक्र के इंटीरियर को भरता है[`Point`](../../point/) संरचनाएं। यह विधि 0.5 और के डिफ़ॉल्ट तनाव का उपयोग करती हैAlternate भरण मोड.
+एक एरे में मौजूद [`Point`](../../point/) संरचनाओं द्वारा परिभाषित बंद कार्डिनल स्प्लाइन कर्व के अंदरूनी भाग को भरता है। यह मेथड डिफ़ॉल्ट टेंशन 0.5 और वैकल्पिक फ़िल मोड का उपयोग करता है।
 
 ```csharp
 public void FillClosedCurve(Brush brush, Point[] points)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| brush | Brush | [`Brush`](../../brush/)जो भरण की विशेषताओं को निर्धारित करता है। |
-| points | Point[] | की श्रंखला[`Point`](../../point/) संरचनाएं जो पट्टी को परिभाषित करती हैं। |
+| brush | Brush | [`Brush`](../../brush/) जो भराव की विशेषताओं को निर्धारित करता है। |
+| points | Point[] | [`Point`](../../point/) संरचनाओं की एरे जो स्प्लाइन को परिभाषित करती है। |
 
 ### अपवाद
 
-| अपवाद | स्थिति |
+| अपवाद | शर्त |
 | --- | --- |
-| ArgumentNullException | *brush* शून्य है। -या- *points* शून्य है। |
+| ArgumentNullException | *brush* शून्य है। -or- *points* शून्य है। |
 
-### यह सभी देखें
+### देखें भी
 
 * class [Brush](../../brush/)
 * struct [Point](../../point/)
 * class [Graphics](../)
-* नाम स्थान [Aspose.PSD](../../graphics/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## FillClosedCurve(Brush, Point[], FillMode) {#fillclosedcurve_4}
 
-एक सरणी द्वारा परिभाषित एक बंद कार्डिनल स्पलाइन वक्र के इंटीरियर को भरता है[`Point`](../../point/) निर्दिष्ट भरण मोड का उपयोग करके संरचनाएं। यह विधि 0.5. के डिफ़ॉल्ट तनाव का उपयोग करती है
+निर्दिष्ट फ़िल मोड का उपयोग करके एक एरे में मौजूद [`Point`](../../point/) संरचनाओं द्वारा परिभाषित बंद कार्डिनल स्प्लाइन कर्व के अंदरूनी भाग को भरता है। यह मेथड डिफ़ॉल्ट टेंशन 0.5 का उपयोग करता है।
 
 ```csharp
 public void FillClosedCurve(Brush brush, Point[] points, FillMode fillmode)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| brush | Brush | [`Brush`](../../brush/)जो भरण की विशेषताओं को निर्धारित करता है। |
-| points | Point[] | की श्रंखला[`Point`](../../point/) संरचनाएं जो पट्टी को परिभाषित करती हैं। |
-| fillmode | FillMode | के सदस्य[`FillMode`](../../fillmode/) गणना जो निर्धारित करती है कि वक्र कैसे भरा जाता है। |
+| brush | Brush | [`Brush`](../../brush/) जो भराव की विशेषताओं को निर्धारित करता है। |
+| points | Point[] | [`Point`](../../point/) संरचनाओं की एरे जो स्प्लाइन को परिभाषित करती है। |
+| fillmode | FillMode | [`FillMode`](../../fillmode/) एनीमरेशन का सदस्य जो निर्धारित करता है कि कर्व कैसे भरा जाता है। |
 
 ### अपवाद
 
-| अपवाद | स्थिति |
+| अपवाद | शर्त |
 | --- | --- |
-| ArgumentNullException | *brush* शून्य है। -या- *points* शून्य है। |
+| ArgumentNullException | *brush* शून्य है। -or- *points* शून्य है। |
 
-### यह सभी देखें
+### देखें भी
 
 * class [Brush](../../brush/)
 * struct [Point](../../point/)
 * enum [FillMode](../../fillmode/)
 * class [Graphics](../)
-* नाम स्थान [Aspose.PSD](../../graphics/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## FillClosedCurve(Brush, Point[], FillMode, float) {#fillclosedcurve_5}
 
-एक सरणी द्वारा परिभाषित एक बंद कार्डिनल स्पलाइन वक्र के इंटीरियर को भरता है[`Point`](../../point/) निर्दिष्ट भरण मोड और तनाव का उपयोग करने वाली संरचनाएं।
+निर्दिष्ट फ़िल मोड और टेंशन का उपयोग करके एक एरे में मौजूद [`Point`](../../point/) संरचनाओं द्वारा परिभाषित बंद कार्डिनल स्प्लाइन कर्व के अंदरूनी भाग को भरता है।
 
 ```csharp
 public void FillClosedCurve(Brush brush, Point[] points, FillMode fillmode, float tension)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| brush | Brush | [`Brush`](../../brush/)जो भरण की विशेषताओं को निर्धारित करता है। |
-| points | Point[] | की श्रंखला[`Point`](../../point/) संरचनाएं जो पट्टी को परिभाषित करती हैं। |
-| fillmode | FillMode | के सदस्य[`FillMode`](../../fillmode/) गणना जो निर्धारित करती है कि वक्र कैसे भरा जाता है। |
-| tension | Single | 0.0F से अधिक या उसके बराबर मान जो वक्र के तनाव को निर्दिष्ट करता है। |
+| brush | Brush | [`Brush`](../../brush/) जो भराव की विशेषताओं को निर्धारित करता है। |
+| points | Point[] | [`Point`](../../point/) संरचनाओं की एरे जो स्प्लाइन को परिभाषित करती है। |
+| fillmode | FillMode | [`FillMode`](../../fillmode/) एनीमरेशन का सदस्य जो निर्धारित करता है कि कर्व कैसे भरा जाता है। |
+| तनाव | Single | 0.0F या उससे अधिक का मान जो वक्र की टेंशन को निर्दिष्ट करता है। |
 
 ### अपवाद
 
-| अपवाद | स्थिति |
+| अपवाद | शर्त |
 | --- | --- |
-| ArgumentNullException | *brush* शून्य है। -या- *points* शून्य है। |
+| ArgumentNullException | *brush* शून्य है। -or- *points* शून्य है। |
 
-### यह सभी देखें
+### देखें भी
 
 * class [Brush](../../brush/)
 * struct [Point](../../point/)
 * enum [FillMode](../../fillmode/)
 * class [Graphics](../)
-* नाम स्थान [Aspose.PSD](../../graphics/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

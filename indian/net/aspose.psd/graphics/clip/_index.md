@@ -1,28 +1,29 @@
 ---
-title: Graphics.Clip
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Graphics संपत्त. क्लप क्षेत्र प्रप्त य सेट करत है
+title: "Graphics.Clip"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Graphics प्रॉपर्टी। क्लिप रीजन को प्राप्त करता है या सेट करता है"
 type: docs
 weight: 20
 url: /hi/net/aspose.psd/graphics/clip/
 ---
+{{< psd/tize >}}
 ## Graphics.Clip property
 
-क्लिप क्षेत्र प्राप्त या सेट करता है।
+क्लिप रीजन को प्राप्त करता है या सेट करता है।
 
 ```csharp
 public Region Clip { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-क्लिप क्षेत्र।
+क्लिप रीजन।
 
-### यह सभी देखें
+### देखें भी
 
 * class [Region](../../region/)
 * class [Graphics](../)
-* नाम स्थान [Aspose.PSD](../../graphics/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,23 +1,24 @@
 ---
-title: BuildVersionInfo.ReleaseDate
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: BuildVersionInfo मैदन. उत्पद रलज दनंक.
+title: "BuildVersionInfo.ReleaseDate"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "BuildVersionInfo फ़ील्ड। उत्पाद रिलीज़ तिथि"
 type: docs
 weight: 60
 url: /hi/net/aspose.psd/buildversioninfo/releasedate/
 ---
+{{< psd/tize >}}
 ## BuildVersionInfo.ReleaseDate field
 
-उत्पाद रिलीज दिनांक.
+उत्पाद रिलीज़ तिथि।
 
 ```csharp
 public static readonly DateTime ReleaseDate;
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * class [BuildVersionInfo](../)
-* नाम स्थान [Aspose.PSD](../../buildversioninfo/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,48 +1,49 @@
 ---
-title: DeflateCompressorException.DeflateCompressorException
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: DeflateCompressorException नर्मत. क एक नय उदहरण प्ररंभ करत हैDeflateCompressorException वर्ग.
+title: "DeflateCompressorException.DeflateCompressorException"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "DeflateCompressorException कंस्ट्रक्टर। DeflateCompressorException क्लास का नया इंस्टेंस इनिशियलाइज़ करता है"
 type: docs
 weight: 10
 url: /hi/net/aspose.psd.coreexceptions.compressors/deflatecompressorexception/deflatecompressorexception/
 ---
+{{< psd/tize >}}
 ## DeflateCompressorException(string) {#constructor}
 
-का एक नया उदाहरण प्रारंभ करता है[`DeflateCompressorException`](../) वर्ग.
+[`DeflateCompressorException`](../) क्लास का नया इंस्टेंस इनिशियलाइज़ करता है।
 
 ```csharp
 public DeflateCompressorException(string message)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
 | message | String | अपवाद संदेश। |
 
-### यह सभी देखें
+### देखें भी
 
 * class [DeflateCompressorException](../)
-* नाम स्थान [Aspose.PSD.CoreExceptions.Compressors](../../deflatecompressorexception/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.CoreExceptions.Compressors](../../../aspose.psd.coreexceptions.compressors/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## DeflateCompressorException(string, Exception) {#constructor_1}
 
-का एक नया उदाहरण प्रारंभ करता है[`DeflateCompressorException`](../) वर्ग.
+[`DeflateCompressorException`](../) क्लास का नया इंस्टेंस इनिशियलाइज़ करता है।
 
 ```csharp
 public DeflateCompressorException(string message, Exception innerException)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
 | message | String | अपवाद संदेश। |
-| innerException | Exception | भीतर का अपवाद। |
+| innerException | एक्सेप्शन | आंतरिक अपवाद। |
 
-### यह सभी देखें
+### देखें भी
 
 * class [DeflateCompressorException](../)
-* नाम स्थान [Aspose.PSD.CoreExceptions.Compressors](../../deflatecompressorexception/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.CoreExceptions.Compressors](../../../aspose.psd.coreexceptions.compressors/)
+* assembly [Aspose.PSD](../../../)
 
 

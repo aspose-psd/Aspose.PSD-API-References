@@ -1,28 +1,29 @@
 ---
-title: Class VectorPathRecord
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Aspose.PSD.FileFormats.Core.VectorPaths.VectorPathRecord कक्ष. वेक्टर पथ रकर्ड क्लस
+title: "क्लास VectorPathRecord"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Aspose.PSD.FileFormats.Core.VectorPaths.VectorPathRecord क्लास। वेक्टर पाथ रिकॉर्ड क्लास"
 type: docs
-weight: 1400
+weight: 1410
 url: /hi/net/aspose.psd.fileformats.core.vectorpaths/vectorpathrecord/
 ---
+{{< psd/tize >}}
 ## VectorPathRecord class
 
-वेक्टर पाथ रिकॉर्ड क्लास
+Vector Path Record क्लास
 
 ```csharp
 public abstract class VectorPathRecord
 ```
 
-## गुण
+## प्रॉपर्टीज़
 
 | नाम | विवरण |
 | --- | --- |
 | abstract [Type](../../aspose.psd.fileformats.core.vectorpaths/vectorpathrecord/type/) { get; } | प्रकार प्राप्त करता है। |
 
-### यह सभी देखें
+### देखें भी
 
-* नाम स्थान [Aspose.PSD.FileFormats.Core.VectorPaths](../../aspose.psd.fileformats.core.vectorpaths/)
-* सभा [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../)
 
 

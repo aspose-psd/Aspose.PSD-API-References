@@ -1,28 +1,29 @@
 ---
-title: Interface IKeyedObject
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Aspose.PSD.IKeyedObject इंटरफेस. कुंजयं के सथ वस्तुओं के लए इंटरफ़ेस क प्रतनधत्व करत है
+title: "इंटरफ़ेस IKeyedObject"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Aspose.PSD.IKeyedObject इंटरफ़ेस। उन वस्तुओं के लिए इंटरफ़ेस का प्रतिनिधित्व करता है जिनके पास कुंजी होती है।"
 type: docs
-weight: 4480
+weight: 4950
 url: /hi/net/aspose.psd/ikeyedobject/
 ---
+{{< psd/tize >}}
 ## IKeyedObject interface
 
-कुंजियों के साथ वस्तुओं के लिए इंटरफ़ेस का प्रतिनिधित्व करता है।
+कुंजियों वाले वस्तुओं के लिए इंटरफ़ेस का प्रतिनिधित्व करता है।
 
 ```csharp
 public interface IKeyedObject
 ```
 
-## गुण
+## प्रॉपर्टीज़
 
 | नाम | विवरण |
 | --- | --- |
-| [Key](../../aspose.psd/ikeyedobject/key/) { get; } | वस्तु कुंजी प्राप्त करता है। |
+| [Key](../../aspose.psd/ikeyedobject/key/) { get; } | ऑब्जेक्ट कुंजी प्राप्त करता है। |
 
-### यह सभी देखें
+### देखें भी
 
-* नाम स्थान [Aspose.PSD](../../aspose.psd/)
-* सभा [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

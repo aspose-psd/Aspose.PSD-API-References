@@ -1,27 +1,28 @@
 ---
-title: Layer.BlendModeSignature
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Layer संपत्त. ब्लेंड मड सग्नेचर प्रप्त करत है
+title: "Layer.BlendModeSignature"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Layer property. ब्लेंड मोड सिग्नेचर प्राप्त करता है"
 type: docs
-weight: 50
+weight: 60
 url: /hi/net/aspose.psd.fileformats.psd.layers/layer/blendmodesignature/
 ---
+{{< psd/tize >}}
 ## Layer.BlendModeSignature property
 
-ब्लेंड मोड सिग्नेचर प्राप्त करता है।
+ब्लेंड मोड हस्ताक्षर प्राप्त करता है।
 
 ```csharp
 public int BlendModeSignature { get; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-ब्लेंड मोड सिग्नेचर.
+ब्लेंड मोड सिग्नेचर।
 
-### यह सभी देखें
+### देखें भी
 
 * class [Layer](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers](../../layer/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

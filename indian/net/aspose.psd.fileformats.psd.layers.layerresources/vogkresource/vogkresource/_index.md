@@ -1,23 +1,24 @@
 ---
-title: VogkResource.VogkResource
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: VogkResource नर्मत. क एक नय उदहरण प्ररंभ करत हैVogkResource वर्ग.
+title: "VogkResource.VogkResource"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "VogkResource कन्स्ट्रक्टर. VogkResource क्लास का नया इंस्टेंस इनिशियलाइज़ करता है."
 type: docs
 weight: 10
 url: /hi/net/aspose.psd.fileformats.psd.layers.layerresources/vogkresource/vogkresource/
 ---
+{{< psd/tize >}}
 ## VogkResource constructor
 
-का एक नया उदाहरण प्रारंभ करता है[`VogkResource`](../) वर्ग.
+[`VogkResource`](../) क्लास का नया इंस्टेंस इनिशियलाइज़ करता है.
 
 ```csharp
 public VogkResource()
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * class [VogkResource](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../vogkresource/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

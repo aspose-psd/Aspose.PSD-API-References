@@ -1,29 +1,30 @@
 ---
-title: Interface ILayerResourceLoader
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Aspose.PSD.FileFormats.Psd.Layers.ILayerResourceLoader इंटरफेस. परत संसधन लडर.
+title: "इंटरफ़ेस ILayerResourceLoader"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Aspose.PSD.FileFormats.Psd.Layers.ILayerResourceLoader इंटरफ़ेस। लेयर रिसोर्स लोडर"
 type: docs
-weight: 2070
+weight: 2250
 url: /hi/net/aspose.psd.fileformats.psd.layers/ilayerresourceloader/
 ---
+{{< psd/tize >}}
 ## ILayerResourceLoader interface
 
-परत संसाधन लोडर.
+लेयर रिसोर्स लोडर।
 
 ```csharp
 public interface ILayerResourceLoader
 ```
 
-## तरीकों
+## मेथड्स
 
 | नाम | विवरण |
 | --- | --- |
-| [CanLoad](../../aspose.psd.fileformats.psd.layers/ilayerresourceloader/canload/)(StreamContainer, int) | निर्धारित करता है कि परत संसाधन को निर्दिष्ट से लोड किया जा सकता है या नहीं[`StreamContainer`](../../aspose.psd/streamcontainer/) . |
-| [Load](../../aspose.psd.fileformats.psd.layers/ilayerresourceloader/load/)(StreamContainer, int) | लोड करता है[`LayerResource`](../layerresource/) . |
+| [CanLoad](../../aspose.psd.fileformats.psd.layers/ilayerresourceloader/canload/)(StreamContainer, int) | निर्धारित करता है कि लेयर रिसोर्स निर्दिष्ट [`StreamContainer`](../../aspose.psd/streamcontainer/) से लोड किया जा सकता है या नहीं। |
+| [Load](../../aspose.psd.fileformats.psd.layers/ilayerresourceloader/load/)(StreamContainer, int) | [`LayerResource`](../layerresource/) को लोड करता है। |
 
-### यह सभी देखें
+### देखें भी
 
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers](../../aspose.psd.fileformats.psd.layers/)
-* सभा [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../)
 
 

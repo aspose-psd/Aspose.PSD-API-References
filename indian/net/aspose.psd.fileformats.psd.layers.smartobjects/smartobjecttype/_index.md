@@ -1,14 +1,15 @@
 ---
-title: Enum SmartObjectType
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Aspose.PSD.FileFormats.Psd.Layers.SmartObjects.SmartObjectType एनुम. स्मर्ट ऑब्जेक्ट समग्र प्रकर के लए SmartObjectType गणन क परभषत करत है
+title: "Enum SmartObjectType"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Aspose.PSD.FileFormats.Psd.Layers.SmartObjects.SmartObjectType enum. स्मार्ट ऑब्जेक्ट सामग्री प्रकार के लिए SmartObjectType एन्यूमरेशन को परिभाषित करता है"
 type: docs
-weight: 3500
+weight: 3920
 url: /hi/net/aspose.psd.fileformats.psd.layers.smartobjects/smartobjecttype/
 ---
+{{< psd/tize >}}
 ## SmartObjectType enumeration
 
-स्मार्ट ऑब्जेक्ट सामग्री प्रकार के लिए SmartObjectType गणना को परिभाषित करता है
+SmartObjectType एनेमरेशन को स्मार्ट ऑब्जेक्ट कंटेंट टाइप के लिए परिभाषित करता है
 
 ```csharp
 public enum SmartObjectType
@@ -16,16 +17,16 @@ public enum SmartObjectType
 
 ### मान
 
-| नाम | कीमत | विवरण |
+| नाम | मान | विवरण |
 | --- | --- | --- |
-| Embedded | `0` | एम्बेड की गई सामग्री |
-| AvailableLinked | `1` | लिंक की गई फ़ाइल जो उपलब्ध है |
-| UnavailableLinked | `2` | लिंक की गई फ़ाइल जो अनुपलब्ध है |
+| Embedded | `0` | एम्बेडेड सामग्री |
+| AvailableLinked | `1` | उपलब्ध लिंक्ड फ़ाइल |
+| UnavailableLinked | `2` | अनुपलब्ध लिंक्ड फ़ाइल |
 | LibraryLink | `3` | Adobe® Photoshop® ÑÑ लाइब्रेरी लिंक |
 
-### उदाहरण
+## उदाहरण
 
-निम्न कोड लिंक्ड स्मार्ट ऑब्जेक्ट्स को अपडेट करने के समर्थन को प्रदर्शित करता है।
+निम्नलिखित कोड लिंक्ड स्मार्ट ऑब्जेक्ट्स को अपडेट करने के समर्थन को दर्शाता है।
 
 ```csharp
 [C#]
@@ -58,7 +59,7 @@ void AssertAreEqual(object actual, object expected)
     }
 }
 
-// यह उदाहरण दर्शाता है कि इन विधियों का उपयोग करके बाहरी या एम्बेडेड स्मार्ट ऑब्जेक्ट परत को कैसे अपडेट किया जाए:
+// यह उदाहरण दिखाता है कि इन विधियों का उपयोग करके बाहरी या एम्बेडेड स्मार्ट ऑब्जेक्ट लेयर को कैसे अपडेट किया जाए:
 // RelinkToFile, UpdateModifiedContent, ExportContents
 ExampleOfUpdatingSmartObjectLayer("rgb8_2x2_linked2.psd", 0x53, 0, 0, 2, 2, FileFormat.Png);
 ExampleOfUpdatingSmartObjectLayer("r-embedded-png.psd", 0x207, 0, 0, 0xb, 0x10, FileFormat.Png);
@@ -72,7 +73,7 @@ void ExampleOfUpdatingSmartObjectLayer(
     int bottom,
     FileFormat format)
 {
-    // यह उदाहरण दर्शाता है कि PSD फ़ाइल में स्मार्ट ऑब्जेक्ट परत को कैसे बदलना है और इसकी सामग्री को निर्यात / अपडेट करना है।
+    // यह उदाहरण दर्शाता है कि PSD फ़ाइल में स्मार्ट ऑब्जेक्ट लेयर को कैसे बदलें और उसकी सामग्री को निर्यात/अपडेट करें।
     string fileName = Path.GetFileNameWithoutExtension(filePath);
     string dataDir = "updating_output" + Path.DirectorySeparatorChar;
     filePath = filePath;
@@ -93,13 +94,13 @@ void ExampleOfUpdatingSmartObjectLayer(
         if (contentType == SmartObjectType.AvailableLinked)
         {
             Directory.CreateDirectory(Path.GetDirectoryName(exportPath));
-            // आइए PSD स्मार्ट ऑब्जेक्ट लेयर से बाहरी स्मार्ट ऑब्जेक्ट इमेज को एक नए स्थान पर निर्यात करें
-            // क्योंकि हम इसे संशोधित करने जा रहे हैं।
+            // आइए PSD स्मार्ट ऑब्जेक्ट लेयर से बाहरी स्मार्ट ऑब्जेक्ट इमेज को नई जगह पर निर्यात करें
+            // क्योंकि हम इसे संशोधित करने वाले हैं।
             smartObjectLayer.ExportContents(exportPath);
             smartObjectLayer.RelinkToFile(exportPath);
         }
 
-        // आइए स्मार्ट ऑब्जेक्ट की सामग्री को उल्टा करें: आंतरिक (कैश नहीं) छवि
+        // आइए स्मार्ट ऑब्जेक्ट की सामग्री को उलटें: आंतरिक (कैश नहीं किया गया) इमेज
         using (var innerImage = (RasterImage)smartObjectLayer.LoadContents(new LoadOptions()))
         {
             InvertImage(innerImage);
@@ -110,18 +111,18 @@ void ExampleOfUpdatingSmartObjectLayer(
             }
         }
 
-        // देखते हैं कि संशोधित सामग्री अभी तक रेंडरिंग को प्रभावित नहीं करती है या नहीं।
+        // आइए जांचें कि संशोधित सामग्री अभी तक रेंडरिंग को प्रभावित नहीं करती है।
         image.Save(pngOutputPath, new PngOptions() { ColorType = PngColorType.TruecolorWithAlpha });
 
         smartObjectLayer.UpdateModifiedContent();
 
-        // आइए देखें कि क्या अपडेट की गई सामग्री रेंडरिंग को प्रभावित करती है और पीएसडी छवि सही ढंग से सहेजी गई है
+        // आइए जांचें कि अपडेटेड सामग्री रेंडरिंग को प्रभावित करती है और PSD इमेज सही ढंग से सहेजी गई है या नहीं
         image.Save(psd2OutputPath, new PsdOptions(image));
         image.Save(png2OutputPath, new PngOptions() { ColorType = PngColorType.TruecolorWithAlpha });
     }
 }
 
-// यह उदाहरण दर्शाता है कि ConvertToLinked विधि का उपयोग करके एम्बेडेड स्मार्ट ऑब्जेक्ट को बाहरी लिंक की गई सामग्री में कैसे परिवर्तित किया जाए।
+// यह उदाहरण दिखाता है कि ConvertToLinked मेथड का उपयोग करके एम्बेडेड स्मार्ट ऑब्जेक्ट को बाहरी लिंक्ड कंटेंट में कैसे बदलें।
 ExampleOfEmbeddedSmartObjectLayerToLinkedConversion("new_panama-papers-4.psd", 0x10caa, 0, 0, 0x280, 0x169, FileFormat.Jpeg);
 ExampleOfEmbeddedSmartObjectLayerToLinkedConversion("r3-embedded.psd", 0x207, 0, 0, 0xb, 0x10, FileFormat.Png);
 ExampleOfEmbeddedSmartObjectLayerToLinkedConversion("r-embedded-tiff.psd", 0xca94, 0, 0, 0xb, 0x10, FileFormat.Tiff);
@@ -141,7 +142,7 @@ void ExampleOfEmbeddedSmartObjectLayerToLinkedConversion(
     int bottom,
     FileFormat format)
 {
-    // यह दर्शाता है कि PSD फ़ाइल में एम्बेडेड स्मार्ट ऑब्जेक्ट परत को बाहरी परत में कैसे परिवर्तित किया जाए।
+    // यह दर्शाता है कि PSD फ़ाइल में एम्बेडेड स्मार्ट ऑब्जेक्ट लेयर को बाहरी में कैसे बदलें।
     var formatExt = GetFormatExt(format);
     string fileName = Path.GetFileNameWithoutExtension(filePath);
     string dataDir = "to_linked_output" + Path.DirectorySeparatorChar;
@@ -162,7 +163,7 @@ void ExampleOfEmbeddedSmartObjectLayerToLinkedConversion(
         AssertAreEqual(bottom, smartObjectLayer.ContentsBounds.Bottom);
         AssertAreEqual(SmartObjectType.AvailableLinked, smartObjectLayer.ContentType);
 
-        // देखते हैं कि परिवर्तित छवि सही ढंग से सहेजी गई है या नहीं
+        // आइए जांचें कि परिवर्तित इमेज सही ढंग से सहेजी गई है या नहीं
         image.Save(psdOutputPath, new PsdOptions(image));
         image.Save(pngOutputPath, new PngOptions() { ColorType = PngColorType.TruecolorWithAlpha });
     }
@@ -179,7 +180,7 @@ void ExampleOfEmbeddedSmartObjectLayerToLinkedConversion(
     }
 }
 
-// यह उदाहरण दर्शाता है कि एंबेडलिंक विधि का उपयोग करके PSD फ़ाइल में एक बाहरी स्मार्ट ऑब्जेक्ट परत या सभी लिंक की गई परतों को कैसे एम्बेड किया जाए।
+// यह उदाहरण दिखाता है कि EmbedLinked मेथड का उपयोग करके PSD फ़ाइल में एक बाहरी स्मार्ट ऑब्जेक्ट लेयर या सभी लिंक्ड लेयर्स को कैसे एम्बेड करें।
 ExampleOfLinkedSmartObjectLayerToEmbeddedConversion("rgb8_2x2_linked.psd", 0x53, 0, 0, 2, 2, FileFormat.Png);
 ExampleOfLinkedSmartObjectLayerToEmbeddedConversion("rgb8_2x2_linked2.psd", 0x53, 0, 0, 2, 2, FileFormat.Png);
 void ExampleOfLinkedSmartObjectLayerToEmbeddedConversion(
@@ -223,7 +224,7 @@ void ExampleOfLinkedSmartObjectLayerToEmbeddedConversion(
         }
 
         Directory.CreateDirectory(Path.GetDirectoryName(psdOutputPath));
-        // देखते हैं कि परिवर्तित छवि सही ढंग से सहेजी गई है या नहीं
+        // आइए जांचें कि परिवर्तित इमेज सही ढंग से सहेजी गई है या नहीं
         image.Save(psdOutputPath, new PsdOptions(image));
         image.Save(pngOutputPath, new PngOptions() { ColorType = PngColorType.TruecolorWithAlpha });
     }
@@ -240,8 +241,8 @@ void ExampleOfLinkedSmartObjectLayerToEmbeddedConversion(
     }
 }
 
-// यह उदाहरण दर्शाता है कि Adobe® Photoshop® बाहरी स्मार्ट ऑब्जेक्ट परत को कैसे बदलना है और इसकी सामग्री को निर्यात / अपडेट करना है
-// ExportContents और ReplaceContents विधियों का उपयोग करना।
+// यह उदाहरण दर्शाता है कि Adobe® Photoshop® बाहरी स्मार्ट ऑब्जेक्ट लेयर को कैसे बदलें और उसकी सामग्री को निर्यात/अपडेट करें
+// ExportContents और ReplaceContents मेथड्स का उपयोग करके।
 ExampleOfExternalSmartObjectLayerSupport("rgb8_2x2_linked.psd", 0x53, 0, 0, 2, 2, FileFormat.Png);
 ExampleOfExternalSmartObjectLayerSupport("rgb8_2x2_linked2.psd", 0x4aea, 0, 0, 10, 10, FileFormat.Psd);
 void ExampleOfExternalSmartObjectLayerSupport(string filePath, int contentsLength, int left, int top, int right, int bottom, FileFormat format)
@@ -267,10 +268,10 @@ void ExampleOfExternalSmartObjectLayerSupport(string filePath, int contentsLengt
         AssertAreEqual(SmartObjectType.AvailableLinked, smartObjectLayer.ContentType);
 
         Directory.CreateDirectory(Path.GetDirectoryName(exportPath));
-        // चलिए PSD स्मार्ट ऑब्जेक्ट लेयर से लिंक्ड स्मार्ट ऑब्जेक्ट इमेज को एक्सपोर्ट करते हैं
+        // आइए PSD स्मार्ट ऑब्जेक्ट लेयर से लिंक्ड स्मार्ट ऑब्जेक्ट इमेज को निर्यात करें
         smartObjectLayer.ExportContents(exportPath);
 
-        // आइए देखें कि मूल छवि सही ढंग से सहेजी गई है या नहीं
+        // आइए जांचें कि मूल इमेज सही ढंग से सहेजी गई है या नहीं
         image.Save(psdOutputPath, new PsdOptions(image));
         image.Save(pngOutputPath, new PngOptions() { ColorType = PngColorType.TruecolorWithAlpha });
 
@@ -278,21 +279,21 @@ void ExampleOfExternalSmartObjectLayerSupport(string filePath, int contentsLengt
         {
             AssertAreEqual(format, innerImage.FileFormat);
 
-            // आइए लिंक्ड स्मार्ट ऑब्जेक्ट इमेज को उल्टा करें
+            // आइए लिंक्ड स्मार्ट ऑब्जेक्ट इमेज को उलटें
             InvertImage(innerImage);
             innerImage.Save(linkOutputPath);
 
-            // आइए लिंक्ड स्मार्ट ऑब्जेक्ट इमेज को PSD लेयर में बदलें
+            // आइए PSD लेयर में लिंक्ड स्मार्ट ऑब्जेक्ट इमेज को बदलें
             smartObjectLayer.ReplaceContents(linkOutputPath);
         }
 
-        // देखते हैं कि अपडेट की गई छवि सही ढंग से सहेजी गई है या नहीं
+        // आइए जांचें कि अपडेटेड इमेज सही तरीके से सहेजी गई है या नहीं
         image.Save(psd2OutputPath, new PsdOptions(image));
         image.Save(png2OutputPath, new PngOptions() { ColorType = PngColorType.TruecolorWithAlpha });
     }
 }
 
-// छवि को उल्टा करता है।
+// इमेज को उलटता है।
 void InvertImage(RasterImage innerImage)
 {
     var innerPsdImage = innerImage as PsdImage;
@@ -306,7 +307,7 @@ void InvertImage(RasterImage innerImage)
     }
 }
 
-// रेखापुंज छवि को उलट देता है।
+// रास्टर छवि को उलटता है।
 void InvertRasterImage(RasterImage innerImage)
 {
     var pixels = innerImage.LoadArgb32Pixels(innerImage.Bounds);
@@ -320,7 +321,7 @@ void InvertRasterImage(RasterImage innerImage)
     innerImage.SaveArgb32Pixels(innerImage.Bounds, pixels);
 }
 
-// प्रारूप विस्तार प्राप्त करता है।
+// फ़ॉर्मेट एक्सटेंशन प्राप्त करता है।
 string GetFormatExt(FileFormat format)
 {
     string formatExt = format == FileFormat.Jpeg2000 ? "jpf" : format.ToString().ToLowerInvariant();
@@ -328,9 +329,9 @@ string GetFormatExt(FileFormat format)
 }
 ```
 
-### यह सभी देखें
+### देखें भी
 
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.SmartObjects](../../aspose.psd.fileformats.psd.layers.smartobjects/)
-* सभा [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.SmartObjects](../../aspose.psd.fileformats.psd.layers.smartobjects/)
+* assembly [Aspose.PSD](../../)
 
 

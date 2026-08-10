@@ -1,24 +1,25 @@
 ---
-title: PatternFillSettings.FillType
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: PatternFillSettings संपत्त. भरण प्रकर
+title: "PatternFillSettings.FillType"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "PatternFillSettings प्रॉपर्टी. भराव प्रकार"
 type: docs
-weight: 30
+weight: 50
 url: /hi/net/aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings/filltype/
 ---
+{{< psd/tize >}}
 ## PatternFillSettings.FillType property
 
-भरण प्रकार
+फ़िल प्रकार
 
 ```csharp
 public override FillType FillType { get; }
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * enum [FillType](../../filltype/)
 * class [PatternFillSettings](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../patternfillsettings/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../../)
 
 

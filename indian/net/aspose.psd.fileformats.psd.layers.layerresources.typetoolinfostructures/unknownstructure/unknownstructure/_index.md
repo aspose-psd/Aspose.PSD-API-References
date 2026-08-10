@@ -1,29 +1,30 @@
 ---
-title: UnknownStructure.UnknownStructure
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: UnknownStructure नर्मत. क एक नय उदहरण प्ररंभ करत हैUnknownStructure वर्ग.
+title: "UnknownStructure.UnknownStructure"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "UnknownStructure कंस्ट्रक्टर। UnknownStructure क्लास का एक नया इंस्टेंस इनिशियलाइज़ करता है"
 type: docs
 weight: 10
 url: /hi/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/unknownstructure/unknownstructure/
 ---
+{{< psd/tize >}}
 ## UnknownStructure constructor
 
-का एक नया उदाहरण प्रारंभ करता है[`UnknownStructure`](../) वर्ग.
+[`UnknownStructure`](../) क्लास का एक नया इंस्टेंस इनिशियलाइज़ करता है।
 
 ```csharp
 public UnknownStructure(ClassID keyName, int key)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| keyName | ClassID | प्रमुख नाम। |
-| key | Int32 | संरचना कुंजी। |
+| keyName | ClassID | कुंजी नाम। |
+| कुंजी | Int32 | संरचना कुंजी। |
 
-### यह सभी देखें
+### देखें भी
 
 * class [ClassID](../../../aspose.psd.fileformats.psd.layers.layerresources/classid/)
 * class [UnknownStructure](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../unknownstructure/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 

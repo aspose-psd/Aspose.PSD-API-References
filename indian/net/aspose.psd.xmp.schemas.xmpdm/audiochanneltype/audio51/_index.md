@@ -1,11 +1,12 @@
 ---
-title: AudioChannelType.Audio51
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: AudioChannelType संपत्त. 5.1 ऑडय चैनल प्रप्त करत है
+title: "AudioChannelType.Audio51"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "AudioChannelType प्रॉपर्टी। 5.1 ऑडियो चैनल प्राप्त करता है"
 type: docs
 weight: 20
 url: /hi/net/aspose.psd.xmp.schemas.xmpdm/audiochanneltype/audio51/
 ---
+{{< psd/tize >}}
 ## AudioChannelType.Audio51 property
 
 5.1 ऑडियो चैनल प्राप्त करता है।
@@ -14,14 +15,14 @@ url: /hi/net/aspose.psd.xmp.schemas.xmpdm/audiochanneltype/audio51/
 public static AudioChannelType Audio51 { get; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-5.1 ऑडियो चैनल.
+यह 5.1 ऑडियो चैनल।
 
-### यह सभी देखें
+### देखें भी
 
 * class [AudioChannelType](../)
-* नाम स्थान [Aspose.PSD.Xmp.Schemas.XmpDm](../../audiochanneltype/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpDm](../../../aspose.psd.xmp.schemas.xmpdm/)
+* assembly [Aspose.PSD](../../../)
 
 

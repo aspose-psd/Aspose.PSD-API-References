@@ -1,23 +1,24 @@
 ---
-title: IAsyncTask.Cancel
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: IAsyncTask तरक. इस कर्य क रद्द करत है एल्गरथ्म के नयंत्रत रक से कर्य सुरक्षत रूप से पूर ह जत है
+title: "IAsyncTask.Cancel"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "IAsyncTask मेथड। इस कार्य को रद्द करता है। कार्य को एल्गोरिदम के नियंत्रित रोकने द्वारा सुरक्षित रूप से पूरा किया जाता है।"
 type: docs
 weight: 80
 url: /hi/net/aspose.psd.asynctask/iasynctask/cancel/
 ---
+{{< psd/tize >}}
 ## IAsyncTask.Cancel method
 
-इस कार्य को रद्द करता है। एल्गोरिथ्म के नियंत्रित रोक से कार्य सुरक्षित रूप से पूरा हो जाता है।
+इस कार्य को रद्द करता है। कार्य एल्गोरिदम को नियंत्रित रूप से रोककर सुरक्षित रूप से पूरा किया जाता है।
 
 ```csharp
 public void Cancel()
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * interface [IAsyncTask](../)
-* नाम स्थान [Aspose.PSD.AsyncTask](../../iasynctask/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.AsyncTask](../../../aspose.psd.asynctask/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,28 +1,29 @@
 ---
-title: IAsyncTask.SetCompleteCallback
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: IAsyncTask तरक. पूर्ण कलबैक प्रतनध सेट करत है
+title: "IAsyncTask.SetCompleteCallback"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "IAsyncTask मेथड। पूर्ण कॉलबैक डेलीगेट सेट करता है"
 type: docs
 weight: 100
 url: /hi/net/aspose.psd.asynctask/iasynctask/setcompletecallback/
 ---
+{{< psd/tize >}}
 ## IAsyncTask.SetCompleteCallback method
 
-पूर्ण कॉलबैक प्रतिनिधि सेट करता है।
+पूर्ण कॉलबैक डेलीगेट सेट करता है।
 
 ```csharp
 public void SetCompleteCallback(CompleteCallback completeCallback)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| completeCallback | CompleteCallback | पूरा कॉलबैक। |
+| completeCallback | CompleteCallback | पूर्ण कॉलबैक। |
 
-### यह सभी देखें
+### देखें भी
 
 * delegate [CompleteCallback](../../completecallback/)
 * interface [IAsyncTask](../)
-* नाम स्थान [Aspose.PSD.AsyncTask](../../iasynctask/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.AsyncTask](../../../aspose.psd.asynctask/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,31 +1,32 @@
 ---
-title: FileStreamContainer.IsTemporal
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: FileStreamContainer संपत्त. एक मन प्रप्त य सेट करत है ज इंगत करत है क स्ट्रम अस्थय है य नहं
+title: "FileStreamContainer.IsTemporal"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "FileStreamContainer प्रॉपर्टी। मान प्राप्त करता है या सेट करता है जो दर्शाता है कि स्ट्रीम अस्थायी है या नहीं"
 type: docs
 weight: 50
 url: /hi/net/aspose.psd/filestreamcontainer/istemporal/
 ---
+{{< psd/tize >}}
 ## FileStreamContainer.IsTemporal property
 
-एक मान प्राप्त या सेट करता है जो इंगित करता है कि स्ट्रीम अस्थायी है या नहीं।
+एक मान प्राप्त करता या सेट करता है जो दर्शाता है कि स्ट्रीम अस्थायी है या नहीं।
 
 ```csharp
 public bool IsTemporal { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-`सत्य` अगर धारा लौकिक है; अन्यथा,`असत्य` .
+`true` यदि स्ट्रीम अस्थायी है; अन्यथा, `false`।
 
-### टिप्पणियों
+## टिप्पणियाँ
 
-निपटाए जाने पर एक अस्थायी धारा स्वयं को हटा देगी। यदि धारा मेमोरी आधारित है तो इस गुण का कोई प्रभाव नहीं पड़ता है।
+एक अस्थायी स्ट्रीम डिस्पोज़ होने पर स्वयं को हटा देगा। यदि स्ट्रीम मेमोरी-आधारित है तो इस प्रॉपर्टी का कोई प्रभाव नहीं होगा। स्ट्रीम को अस्थायी या स्थायी के रूप में चिह्नित किया जा सकता है यदि इसे स्पष्ट रूप से बनाया गया हो, अन्यथा उपयुक्त अपवाद फेंका जाएगा।
 
-### यह सभी देखें
+### देखें भी
 
 * class [FileStreamContainer](../)
-* नाम स्थान [Aspose.PSD](../../filestreamcontainer/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

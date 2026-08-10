@@ -1,24 +1,25 @@
 ---
-title: OuterGlowEffect.EffectType
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: OuterGlowEffect संपत्त. एक प्रकर क प्रभव टइप प्रप्त करत है
+title: "OuterGlowEffect.EffectType"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "OuterGlowEffect property. प्रभाव प्रकार का एक प्रकार प्राप्त करता है"
 type: docs
 weight: 20
 url: /hi/net/aspose.psd.fileformats.psd.layers.layereffects/outergloweffect/effecttype/
 ---
+{{< psd/tize >}}
 ## OuterGlowEffect.EffectType property
 
-एक प्रकार का प्रभाव टाइप प्राप्त करता है
+एक इफ़ेक्ट प्रकार प्राप्त करता है
 
 ```csharp
 public LayerEffectsTypes EffectType { get; }
 ```
 
-### यह सभी देखें
+### देखें भी
 
-* enum [LayerEffectsTypes](../../../aspose.psd.fileformats.psd.layers.layerresources.lfx2resources/layereffectstypes/)
+* enum [LayerEffectsTypes](../../layereffectstypes/)
 * class [OuterGlowEffect](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../outergloweffect/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../../)
 
 

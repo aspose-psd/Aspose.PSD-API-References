@@ -1,34 +1,35 @@
 ---
-title: ILayerResourceLoader.Load
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: ILayerResourceLoader तरक. लड करत हैLayerResource .
+title: "ILayerResourceLoader.Load"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "ILayerResourceLoader method. LayerResource को लोड करता है"
 type: docs
 weight: 20
 url: /hi/net/aspose.psd.fileformats.psd.layers/ilayerresourceloader/load/
 ---
+{{< psd/tize >}}
 ## ILayerResourceLoader.Load method
 
-लोड करता है[`LayerResource`](../../layerresource/) .
+[`LayerResource`](../../layerresource/) को लोड करता है।
 
 ```csharp
 public LayerResource Load(StreamContainer streamContainer, int psdVersion)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| streamContainer | StreamContainer | वह स्ट्रीम कंटेनर जिससे लोड किया जाना है. |
-| psdVersion | Int32 | पीएसडी संस्करण। |
+| streamContainer | StreamContainer | लोड करने के लिए स्ट्रीम कंटेनर। |
+| psdVersion | Int32 | PSD संस्करण। |
 
-### प्रतिलाभ की मात्रा
+### रिटर्न वैल्यू
 
-लोडेड संसाधन।
+लोड किया गया संसाधन।
 
-### यह सभी देखें
+### देखें भी
 
 * class [LayerResource](../../layerresource/)
 * class [StreamContainer](../../../aspose.psd/streamcontainer/)
 * interface [ILayerResourceLoader](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers](../../ilayerresourceloader/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

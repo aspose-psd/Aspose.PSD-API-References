@@ -1,28 +1,29 @@
 ---
-title: DoubleStructure.DoubleStructure
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: DoubleStructure नर्मत. क एक नय उदहरण प्ररंभ करत हैDoubleStructure वर्ग.
+title: "DoubleStructure.DoubleStructure"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "DoubleStructure कंस्ट्रक्टर। DoubleStructure क्लास का नया उदाहरण प्रारंभ करता है"
 type: docs
 weight: 10
 url: /hi/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/doublestructure/doublestructure/
 ---
+{{< psd/tize >}}
 ## DoubleStructure constructor
 
-का एक नया उदाहरण प्रारंभ करता है[`DoubleStructure`](../) वर्ग.
+एक नया उदाहरण प्रारंभ करता है [`DoubleStructure`](../) क्लास का।
 
 ```csharp
 public DoubleStructure(ClassID keyName)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| keyName | ClassID | प्रमुख नाम। |
+| keyName | ClassID | कुंजी नाम। |
 
-### यह सभी देखें
+### देखें भी
 
 * class [ClassID](../../../aspose.psd.fileformats.psd.layers.layerresources/classid/)
 * class [DoubleStructure](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../doublestructure/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 

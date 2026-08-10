@@ -1,43 +1,44 @@
 ---
-title: PathFillRuleRecord.PathFillRuleRecord
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: PathFillRuleRecord नर्मत. क एक नय उदहरण प्ररंभ करत हैPathFillRuleRecord वर्ग.
+title: "PathFillRuleRecord.PathFillRuleRecord"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "PathFillRuleRecord कंस्ट्रक्टर। PathFillRuleRecord क्लास का नया इंस्टेंस इनिशियलाइज़ करता है"
 type: docs
 weight: 10
 url: /hi/net/aspose.psd.fileformats.core.vectorpaths/pathfillrulerecord/pathfillrulerecord/
 ---
+{{< psd/tize >}}
 ## PathFillRuleRecord() {#constructor}
 
-का एक नया उदाहरण प्रारंभ करता है[`PathFillRuleRecord`](../) वर्ग.
+[`PathFillRuleRecord`](../) क्लास का नया इंस्टेंस इनिशियलाइज़ करता है।
 
 ```csharp
 public PathFillRuleRecord()
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * class [PathFillRuleRecord](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Core.VectorPaths](../../pathfillrulerecord/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## PathFillRuleRecord(byte[]) {#constructor_1}
 
-का एक नया उदाहरण प्रारंभ करता है[`PathFillRuleRecord`](../) वर्ग.
+[`PathFillRuleRecord`](../) क्लास का नया इंस्टेंस इनिशियलाइज़ करता है।
 
 ```csharp
 public PathFillRuleRecord(byte[] data)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| data | Byte[] | रिकॉर्ड डेटा। |
+| डेटा | Byte[] | रिकॉर्ड डेटा। |
 
-### यह सभी देखें
+### देखें भी
 
 * class [PathFillRuleRecord](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Core.VectorPaths](../../pathfillrulerecord/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,33 +1,34 @@
 ---
-title: ILayerResourceLoader.CanLoad
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: ILayerResourceLoader तरक. नर्धरत करत है क परत संसधन क नर्दष्ट से लड कय ज सकत है य नहंStreamContainer .
+title: "ILayerResourceLoader.CanLoad"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "ILayerResourceLoader मेथड। निर्धारित करता है कि लेयर रिसोर्स निर्दिष्ट StreamContainer से लोड किया जा सकता है या नहीं।"
 type: docs
 weight: 10
 url: /hi/net/aspose.psd.fileformats.psd.layers/ilayerresourceloader/canload/
 ---
+{{< psd/tize >}}
 ## ILayerResourceLoader.CanLoad method
 
-निर्धारित करता है कि परत संसाधन को निर्दिष्ट से लोड किया जा सकता है या नहीं[`StreamContainer`](../../../aspose.psd/streamcontainer/) .
+निर्धारित करता है कि लेयर रिसोर्स निर्दिष्ट [`StreamContainer`](../../../aspose.psd/streamcontainer/) से लोड किया जा सकता है या नहीं।
 
 ```csharp
 public bool CanLoad(StreamContainer streamContainer, int psdVersion)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
 | streamContainer | StreamContainer | स्ट्रीम कंटेनर। |
-| psdVersion | Int32 | पीएसडी संस्करण। |
+| psdVersion | Int32 | PSD संस्करण। |
 
-### प्रतिलाभ की मात्रा
+### रिटर्न वैल्यू
 
-`सत्य` यदि परत संसाधन को निर्दिष्ट से लोड किया जा सकता है[`StreamContainer`](../../../aspose.psd/streamcontainer/) ; अन्यथा,`असत्य` .
+`true` यदि लेयर रिसोर्स निर्दिष्ट [`StreamContainer`](../../../aspose.psd/streamcontainer/) से लोड किया जा सकता है; अन्यथा, `false`।
 
-### यह सभी देखें
+### देखें भी
 
 * class [StreamContainer](../../../aspose.psd/streamcontainer/)
 * interface [ILayerResourceLoader](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers](../../ilayerresourceloader/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

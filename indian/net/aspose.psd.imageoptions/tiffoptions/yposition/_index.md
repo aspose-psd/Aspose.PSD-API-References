@@ -1,28 +1,29 @@
 ---
-title: TiffOptions.Yposition
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: TiffOptions संपत्त. वई स्थत प्रप्त य सेट करत है
+title: "TiffOptions.Yposition"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "TiffOptions प्रॉपर्टी। y पोजीशन को प्राप्त करता है या सेट करता है"
 type: docs
-weight: 680
+weight: 690
 url: /hi/net/aspose.psd.imageoptions/tiffoptions/yposition/
 ---
+{{< psd/tize >}}
 ## TiffOptions.Yposition property
 
-वाई स्थिति प्राप्त या सेट करता है।
+y स्थिति प्राप्त करता है या सेट करता है।
 
 ```csharp
 public TiffRational Yposition { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-वाई स्थिति।
+y पोजीशन।
 
-### यह सभी देखें
+### देखें भी
 
 * class [TiffRational](../../../aspose.psd.fileformats.tiff/tiffrational/)
 * class [TiffOptions](../)
-* नाम स्थान [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

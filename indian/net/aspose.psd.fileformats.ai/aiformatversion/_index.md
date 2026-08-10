@@ -1,14 +1,15 @@
 ---
-title: Enum AiFormatVersion
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Aspose.PSD.FileFormats.Ai.AiFormatVersion एनुम. एडब इलस्ट्रेटर संस्करण
+title: "एनम AiFormatVersion"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Aspose.PSD.FileFormats.Ai.AiFormatVersion एनम। Adobe Illustrator संस्करण"
 type: docs
-weight: 1240
+weight: 1250
 url: /hi/net/aspose.psd.fileformats.ai/aiformatversion/
 ---
+{{< psd/tize >}}
 ## AiFormatVersion enumeration
 
-एडोब इलस्ट्रेटर संस्करण
+Adobe Illustrator संस्करण
 
 ```csharp
 public enum AiFormatVersion
@@ -16,16 +17,19 @@ public enum AiFormatVersion
 
 ### मान
 
-| नाम | कीमत | विवरण |
+| नाम | मान | विवरण |
 | --- | --- | --- |
-| PsAdobe20 | `0` | PS-Adobe-2.0 हैडर |
-| PsAdobe30 | `1` | PS-Adobe-3.0 हैडर |
-| Pdf14 | `2` | पीडीएफ-1.4 हैडर |
-| Pdf15 | `3` | पीडीएफ-1.5 हैडर |
+| PsAdobeEpsf | `0` | PS-Adobe EPSF हेडर |
+| PsAdobe20 | `1` | PS-Adobe-2.0 हेडर |
+| PsAdobe30 | `2` | PS-Adobe-3.0 हेडर |
+| Pdf14 | `3` | PDF-1.4 हेडर |
+| Pdf15 | `4` | PDF-1.5 हेडर |
+| Pdf16 | `5` | PDF-1.6 हेडर |
+| Pdf17 | `6` | PDF-1.7 हेडर |
 
-### यह सभी देखें
+### देखें भी
 
-* नाम स्थान [Aspose.PSD.FileFormats.Ai](../../aspose.psd.fileformats.ai/)
-* सभा [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../)
 
 

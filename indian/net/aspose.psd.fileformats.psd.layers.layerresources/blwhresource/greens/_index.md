@@ -1,26 +1,27 @@
 ---
-title: BlwhResource.Greens
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: BlwhResource संपत्त. हरे रंग क मन प्रप्त य सेट करत है
+title: "BlwhResource.Greens"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "BlwhResource प्रॉपर्टी। ग्रीन मान प्राप्त करता है या सेट करता है"
 type: docs
 weight: 60
 url: /hi/net/aspose.psd.fileformats.psd.layers.layerresources/blwhresource/greens/
 ---
+{{< psd/tize >}}
 ## BlwhResource.Greens property
 
-हरे रंग का मान प्राप्त या सेट करता है।
+ग्रीन मान को प्राप्त करता है या सेट करता है।
 
 ```csharp
 public int Greens { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-हरे रंग का मूल्य।
+ग्रीन मान।
 
-### उदाहरण
+## उदाहरण
 
-निम्न उदाहरण दर्शाता है कि आप किसी BlwhResource को कैसे संपादित करते हैं।
+निम्नलिखित उदाहरण दर्शाता है कि आप BlwhResource को कैसे संपादित करते हैं।
 
 ```csharp
 [C#]
@@ -63,7 +64,7 @@ using (PsdImage im = (PsdImage)Image.Load(sourceFileName))
                 AssertIsTrue(Math.Abs(blwhLayer.TintColorGreen - tintColorGreen) < 1e-6, ActualPropertyValueIsWrongMessage);
                 AssertIsTrue(Math.Abs(blwhLayer.TintColorBlue - tintColorBlue) < 1e-6, ActualPropertyValueIsWrongMessage);
 
-                // परीक्षण संपादन और बचत
+                // संपादन और सहेजने का परीक्षण
                 blwhResource.Reds = reds - 15;
                 blwhResource.Yellows = yellows - 15;
                 blwhResource.Greens = greens + 15;
@@ -123,10 +124,10 @@ using (PsdImage im = (PsdImage)Image.Load(destinationFileName))
 AssertIsTrue(isRequiredResourceFound, "The specified BlwhResource not found");
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * class [BlwhResource](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../blwhresource/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

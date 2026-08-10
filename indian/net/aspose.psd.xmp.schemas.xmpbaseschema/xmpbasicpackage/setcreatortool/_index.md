@@ -1,27 +1,28 @@
 ---
-title: XmpBasicPackage.SetCreatorTool
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: XmpBasicPackage तरक. क्रएटर टूल सेट करत है.
+title: "XmpBasicPackage.SetCreatorTool"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "XmpBasicPackage मेथड। निर्माता टूल सेट करता है"
 type: docs
-weight: 40
+weight: 60
 url: /hi/net/aspose.psd.xmp.schemas.xmpbaseschema/xmpbasicpackage/setcreatortool/
 ---
+{{< psd/tize >}}
 ## XmpBasicPackage.SetCreatorTool method
 
-क्रिएटर टूल सेट करता है.
+क्रिएटर टूल सेट करता है।
 
 ```csharp
 public void SetCreatorTool(string creatorTool)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| creatorTool | String | उपकरण का नाम। |
+| creatorTool | String | टूल का नाम। |
 
-### यह सभी देखें
+### देखें भी
 
 * class [XmpBasicPackage](../)
-* नाम स्थान [Aspose.PSD.Xmp.Schemas.XmpBaseSchema](../../xmpbasicpackage/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpBaseSchema](../../../aspose.psd.xmp.schemas.xmpbaseschema/)
+* assembly [Aspose.PSD](../../../)
 
 

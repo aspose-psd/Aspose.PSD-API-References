@@ -1,23 +1,24 @@
 ---
-title: PsdImage.Grayscale
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: PsdImage तरक. एक छव क उसके ग्रेस्केल प्रतनधत्व में परवर्तन
+title: "PsdImage.Grayscale"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "PsdImage मेथड। छवि को उसके ग्रेस्केल प्रतिनिधित्व में बदलना"
 type: docs
-weight: 550
+weight: 610
 url: /hi/net/aspose.psd.fileformats.psd/psdimage/grayscale/
 ---
+{{< psd/tize >}}
 ## PsdImage.Grayscale method
 
-एक छवि का उसके ग्रेस्केल प्रतिनिधित्व में परिवर्तन
+छवि को उसके ग्रेस्केल प्रतिनिधित्व में रूपांतरित करना
 
 ```csharp
 public override void Grayscale()
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * class [PsdImage](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

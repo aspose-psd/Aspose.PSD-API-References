@@ -1,22 +1,23 @@
 ---
-title: ITextStyle.DiscretionaryLigatures
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: ITextStyle संपत्त. वशेष रूप से स्क्रप्ट फंट में अक्षरं क जड़ने के लए उपयग कए जने वले ववेकधन संयुक्तक्षर
+title: "ITextStyle.DiscretionaryLigatures"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "ITextStyle प्रॉपर्टी। वैकल्पिक लिगेचर, विशेष रूप से स्क्रिप्ट फ़ॉन्ट्स में अक्षरों को जोड़ने के लिए उपयोग होते हैं"
 type: docs
 weight: 50
 url: /hi/net/aspose.psd.fileformats.psd.layers.text/itextstyle/discretionaryligatures/
 ---
+{{< psd/tize >}}
 ## ITextStyle.DiscretionaryLigatures property
 
-विशेष रूप से स्क्रिप्ट फोंट में अक्षरों को जोड़ने के लिए उपयोग किए जाने वाले विवेकाधीन संयुक्ताक्षर।
+अक्षरों को जोड़ने के लिए उपयोग किए जाने वाले डिस्क्रेशनरी लिगेचर, विशेष रूप से स्क्रिप्ट फ़ॉन्ट्स में।
 
 ```csharp
 public bool DiscretionaryLigatures { get; set; }
 ```
 
-### उदाहरण
+## उदाहरण
 
-निम्न कोड नए ITextStyle गुणों के समर्थन के समर्थन को प्रदर्शित करता है।
+निम्नलिखित कोड नए ITextStyle गुणों के समर्थन को दर्शाता है।
 
 ```csharp
 [C#]
@@ -41,7 +42,7 @@ using (var psdImage = (PsdImage)Image.Load(srcFile))
     psdImage.Save(outputFile);
 }
 
-// मूल्यों की जाँच करें
+// मान जांचें
 using (var srcImage = (PsdImage)Image.Load(srcFile))
 {
     var srcTextLayer = (TextLayer)srcImage.Layers[1];
@@ -68,10 +69,10 @@ using (var srcImage = (PsdImage)Image.Load(srcFile))
 }
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * interface [ITextStyle](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.Text](../../itextstyle/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.Text](../../../aspose.psd.fileformats.psd.layers.text/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,69 +1,70 @@
 ---
-title: KnkoResource.KnkoResource
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: KnkoResource नर्मत. क एक नय उदहरण प्ररंभ करत हैKnkoResource वर्ग.
+title: "KnkoResource.KnkoResource"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "KnkoResource कंस्ट्रक्टर। KnkoResource क्लास की नई इंस्टेंस को इनिशियलाइज़ करता है"
 type: docs
 weight: 10
 url: /hi/net/aspose.psd.fileformats.psd.layers.layerresources/knkoresource/knkoresource/
 ---
+{{< psd/tize >}}
 ## KnkoResource(bool) {#constructor_1}
 
-का एक नया उदाहरण प्रारंभ करता है[`KnkoResource`](../) वर्ग.
+[`KnkoResource`](../) क्लास की नई इंस्टेंस को इनिशियलाइज़ करता है।
 
 ```csharp
 public KnkoResource(bool knockout)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| knockout | Boolean | अगर सेट है`सत्य` [आंतरिक तत्वों का मिश्रण]। |
+| नॉकआउट | बूलियन | यदि `true` सेट किया गया है तो [blend interior elements]। |
 
-### यह सभी देखें
+### देखें भी
 
 * class [KnkoResource](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../knkoresource/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## KnkoResource() {#constructor}
 
-का एक नया उदाहरण प्रारंभ करता है[`KnkoResource`](../) वर्ग.
+[`KnkoResource`](../) क्लास की नई इंस्टेंस को इनिशियलाइज़ करता है।
 
 ```csharp
 public KnkoResource()
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * class [KnkoResource](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../knkoresource/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## KnkoResource(byte[]) {#constructor_2}
 
-का एक नया उदाहरण प्रारंभ करता है[`KnkoResource`](../) वर्ग. कस्टम या अज्ञात मान के साथ
+[`KnkoResource`](../) क्लास की नई इंस्टेंस को इनिशियलाइज़ करता है। कस्टम या अज्ञात मान के साथ
 
 ```csharp
 public KnkoResource(byte[] data)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| data | Byte[] | संसाधन डेटा। |
+| डेटा | Byte[] | संसाधन डेटा। |
 
 ### अपवाद
 
-| अपवाद | स्थिति |
+| अपवाद | शर्त |
 | --- | --- |
-| ArgumentException | अमान्य Knko संसाधन मान |
+| ArgumentException | अमान्य Knko रिसोर्स मान |
 
-### यह सभी देखें
+### देखें भी
 
 * class [KnkoResource](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../knkoresource/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

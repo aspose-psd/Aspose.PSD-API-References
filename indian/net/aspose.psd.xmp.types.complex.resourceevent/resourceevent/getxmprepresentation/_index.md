@@ -1,27 +1,28 @@
 ---
-title: ResourceEvent.GetXmpRepresentation
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: ResourceEvent तरक. XMP प्ररूप में स्ट्रंग युक्त मन प्रप्त करत है
+title: "ResourceEvent.GetXmpRepresentation"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "ResourceEvent मेथड। XMP फ़ॉर्मेट में सम्मिलित स्ट्रिंग मान प्राप्त करता है"
 type: docs
 weight: 80
 url: /hi/net/aspose.psd.xmp.types.complex.resourceevent/resourceevent/getxmprepresentation/
 ---
+{{< psd/tize >}}
 ## ResourceEvent.GetXmpRepresentation method
 
-XMP प्रारूप में स्ट्रिंग युक्त मान प्राप्त करता है।
+XMP प्रारूप में सम्मिलित स्ट्रिंग मान को प्राप्त करता है।
 
 ```csharp
 public override string GetXmpRepresentation()
 ```
 
-### प्रतिलाभ की मात्रा
+### रिटर्न वैल्यू
 
-XMP प्रारूप में स्ट्रिंग युक्त मान लौटाता है।
+XMP फ़ॉर्मेट में सम्मिलित स्ट्रिंग मान को लौटाता है।
 
-### यह सभी देखें
+### देखें भी
 
 * class [ResourceEvent](../)
-* नाम स्थान [Aspose.PSD.Xmp.Types.Complex.ResourceEvent](../../resourceevent/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.ResourceEvent](../../../aspose.psd.xmp.types.complex.resourceevent/)
+* assembly [Aspose.PSD](../../../)
 
 

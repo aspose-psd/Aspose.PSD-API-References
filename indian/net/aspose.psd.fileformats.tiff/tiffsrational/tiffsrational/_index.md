@@ -1,68 +1,69 @@
 ---
-title: TiffSRational.TiffSRational
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: TiffSRational नर्मत. क एक नय उदहरण प्ररंभ करत हैTiffSRational वर्ग.
+title: "TiffSRational.TiffSRational"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "TiffSRational कन्स्ट्रक्टर। TiffSRational क्लास का नया उदाहरण प्रारंभ करता है"
 type: docs
 weight: 10
 url: /hi/net/aspose.psd.fileformats.tiff/tiffsrational/tiffsrational/
 ---
+{{< psd/tize >}}
 ## TiffSRational() {#constructor}
 
-का एक नया उदाहरण प्रारंभ करता है[`TiffSRational`](../) वर्ग.
+[`TiffSRational`](../) क्लास का नया उदाहरण प्रारंभ करता है।
 
 ```csharp
 public TiffSRational()
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * class [TiffSRational](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Tiff](../../tiffsrational/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff](../../../aspose.psd.fileformats.tiff/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## TiffSRational(int) {#constructor_1}
 
-का एक नया उदाहरण प्रारंभ करता है[`TiffRational`](../../tiffrational/) वर्ग.
+[`TiffRational`](../../tiffrational/) क्लास का नया उदाहरण प्रारंभ करता है।
 
 ```csharp
 public TiffSRational(int value)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| value | Int32 | नामांकित व्यक्ति मूल्य। |
+| मान | Int32 | नॉमिनेटर मान। |
 
-### टिप्पणियों
+## टिप्पणियाँ
 
-नॉमिनेटर का उपयोग निर्दिष्ट मान के रूप में किया जाएगा और हर 1 के बराबर होगा।
+नॉमिनेटर को निर्दिष्ट मान के रूप में उपयोग किया जाएगा और डिनॉमिनेटर 1 के बराबर होगा।
 
-### यह सभी देखें
+### देखें भी
 
 * class [TiffSRational](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Tiff](../../tiffsrational/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff](../../../aspose.psd.fileformats.tiff/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## TiffSRational(int, int) {#constructor_2}
 
-का एक नया उदाहरण प्रारंभ करता है[`TiffSRational`](../) वर्ग.
+[`TiffSRational`](../) क्लास का नया उदाहरण प्रारंभ करता है।
 
 ```csharp
 public TiffSRational(int nominator, int denominator)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| nominator | Int32 | नामांकित व्यक्ति। |
-| denominator | Int32 | भाजक। |
+| नॉमिनेटर | Int32 | नॉमिनेटर। |
+| डिनॉमिनेटर | Int32 | हर। |
 
-### यह सभी देखें
+### देखें भी
 
 * class [TiffSRational](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Tiff](../../tiffsrational/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff](../../../aspose.psd.fileformats.tiff/)
+* assembly [Aspose.PSD](../../../)
 
 

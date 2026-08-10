@@ -1,30 +1,31 @@
 ---
-title: Class PointExtensions
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Aspose.PSD.Extensions.PointExtensions कक्ष. के लए वस्तर वधयँ शमल हैंPoint औरPointF संरचनएं.
+title: "क्लास PointExtensions।"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Aspose.PSD.Extensions.PointExtensions क्लास। इसमें Point और PointF स्ट्रक्चर्स के लिए एक्सटेंशन मेथड्स शामिल हैं।"
 type: docs
-weight: 1150
+weight: 1160
 url: /hi/net/aspose.psd.extensions/pointextensions/
 ---
+{{< psd/tize >}}
 ## PointExtensions class
 
-के लिए विस्तार विधियाँ शामिल हैं[`Point`](../../aspose.psd/point/) और[`PointF`](../../aspose.psd/pointf/) संरचनाएं.
+[`Point`](../../aspose.psd/point/) और [`PointF`](../../aspose.psd/pointf/) स्ट्रक्चर्स के लिए एक्सटेंशन मेथड्स शामिल हैं।
 
 ```csharp
 public static class PointExtensions
 ```
 
-## तरीकों
+## मेथड्स
 
 | नाम | विवरण |
 | --- | --- |
-| static [ToGdiPoint](../../aspose.psd.extensions/pointextensions/togdipoint/)(PointF) | परिवर्तित करता है[`PointF`](../../aspose.psd/pointf/) कोPointF . |
-| static [ToGdiPoints](../../aspose.psd.extensions/pointextensions/togdipoints/)(PointF[]) | परिवर्तित करता है[`PointF`](../../aspose.psd/pointf/) सरणी के लिएPointF सरणी. |
-| static [ToPointsArray](../../aspose.psd.extensions/pointextensions/topointsarray/)(Point[]) | परिवर्तित करता है[`Point`](../../aspose.psd/point/) सरणी के लिए[`PointF`](../../aspose.psd/pointf/) सरणी. |
+| static [ToGdiPoint](../../aspose.psd.extensions/pointextensions/togdipoint/)(PointF) | [`PointF`](../../aspose.psd/pointf/) को PointF में परिवर्तित करता है। |
+| static [ToGdiPoints](../../aspose.psd.extensions/pointextensions/togdipoints/)(PointF[]) | [`PointF`](../../aspose.psd/pointf/) एरे को PointF एरे में परिवर्तित करता है। |
+| static [ToPointsArray](../../aspose.psd.extensions/pointextensions/topointsarray/)(Point[]) | [`Point`](../../aspose.psd/point/) एरे को [`PointF`](../../aspose.psd/pointf/) एरे में परिवर्तित करता है। |
 
-### यह सभी देखें
+### देखें भी
 
-* नाम स्थान [Aspose.PSD.Extensions](../../aspose.psd.extensions/)
-* सभा [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Extensions](../../aspose.psd.extensions/)
+* assembly [Aspose.PSD](../../)
 
 

@@ -1,28 +1,29 @@
 ---
-title: SmartObjectResource.Items
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: SmartObjectResource संपत्त. PSD फ़इल में स्मर्ट ऑब्जेक्ट लेयर डेट के डस्क्रप्टर आइटम प्रप्त य सेट करत है
+title: "SmartObjectResource.Items"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "SmartObjectResource property. प्राप्त करता है या सेट करता है PSD फ़ाइल में स्मार्ट ऑब्जेक्ट लेयर डेटा के डिस्क्रिप्टर आइटम्स"
 type: docs
 weight: 110
 url: /hi/net/aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/items/
 ---
+{{< psd/tize >}}
 ## SmartObjectResource.Items property
 
-PSD फ़ाइल में स्मार्ट ऑब्जेक्ट लेयर डेटा के डिस्क्रिप्टर आइटम प्राप्त या सेट करता है।
+PSD फ़ाइल में स्मार्ट ऑब्जेक्ट लेयर डेटा के डिस्क्रिप्टर आइटम्स को प्राप्त करता है या सेट करता है।
 
 ```csharp
 public override OSTypeStructure[] Items { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-रखी गई परत जानकारी के वर्णनकर्ता आइटम.
+प्लेस्ड लेयर जानकारी के डिस्क्रिप्टर आइटम्स।
 
-### यह सभी देखें
+### देखें भी
 
 * class [OSTypeStructure](../../ostypestructure/)
 * class [SmartObjectResource](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../smartobjectresource/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,26 +1,28 @@
 ---
-title: IGradientFillSettings.ColorPoints
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: IGradientFillSettings संपत्त. रंग बंदु प्रप्त करत है
+title: "IGradientFillSettings.ColorPoints"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "IGradientFillSettings प्रॉपर्टी। प्राप्त करता है रंग बिंदु"
 type: docs
 weight: 40
 url: /hi/net/aspose.psd.fileformats.psd.layers.fillsettings/igradientfillsettings/colorpoints/
 ---
+{{< psd/tize >}}
 ## IGradientFillSettings.ColorPoints property
 
-रंग बिंदु प्राप्त करता है।
+कलर पॉइंट्स प्राप्त करता है।
 
 ```csharp
+[Obsolete("This property is obsolete. It is moved to GradientFillSettings class. Property will be removed in 23.10 release.")]
 public IGradientColorPoint[] ColorPoints { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-रंग बिंदु।
+कलर पॉइंट्स।
 
-### उदाहरण
+## उदाहरण
 
-निम्न उदाहरण ग्रेडिएंट फिललेयर समर्थन और IGradientFillSettings संपादन विकल्पों को प्रदर्शित करता है।
+निम्नलिखित उदाहरण ग्रेडिएंट FillLayer समर्थन और IGradientFillSettings संपादन विकल्पों को दर्शाता है..
 
 ```csharp
 [C#]
@@ -39,7 +41,7 @@ using (im)
             {
                 throw new Exception("Wrong Fill Layer");
             }
-            var settings = (IGradientFillSettings)fillLayer.FillSettings;
+            var settings = (GradientFillSettings)fillLayer.FillSettings;
             if (
              Math.Abs(settings.Angle - 45) > 0.25 ||
              settings.Dither != true ||
@@ -90,11 +92,11 @@ using (im)
 }
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * interface [IGradientColorPoint](../../../aspose.psd.fileformats.psd.layers/igradientcolorpoint/)
 * interface [IGradientFillSettings](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../igradientfillsettings/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: Class Layer
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Aspose.PSD.Xmp.Schemas.Photoshop.Layer कक्ष. फटशप टेक्स्ट लेयर क प्रतनधत्व करत है
+title: "क्लास Layer"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Aspose.PSD.Xmp.Schemas.Photoshop.Layer क्लास। Photoshop टेक्स्ट लेयर का प्रतिनिधित्व करता है।"
 type: docs
-weight: 5810
+weight: 6310
 url: /hi/net/aspose.psd.xmp.schemas.photoshop/layer/
 ---
+{{< psd/tize >}}
 ## Layer class
 
-फोटोशॉप टेक्स्ट लेयर का प्रतिनिधित्व करता है।
+Photoshop टेक्स्ट लेयर का प्रतिनिधित्व करता है।
 
 ```csharp
 public class Layer : XmpTypeBase, IEquatable<Layer>
@@ -18,29 +19,29 @@ public class Layer : XmpTypeBase, IEquatable<Layer>
 
 | नाम | विवरण |
 | --- | --- |
-| [Layer](layer/#constructor)() | का एक नया उदाहरण प्रारंभ करता है`Layer` वर्ग. |
-| [Layer](layer/#constructor_1)(string, string) | का एक नया उदाहरण प्रारंभ करता है`Layer` वर्ग. |
+| [Layer](layer/#constructor)() | `Layer` क्लास का नया इंस्टेंस इनिशियलाइज़ करता है। |
+| [Layer](layer/#constructor_1)(string, string) | `Layer` क्लास का नया इंस्टेंस इनिशियलाइज़ करता है। |
 
-## गुण
-
-| नाम | विवरण |
-| --- | --- |
-| [Name](../../aspose.psd.xmp.schemas.photoshop/layer/name/) { get; set; } | टेक्स्ट लेयर का नाम प्राप्त या सेट करता है। |
-| [Text](../../aspose.psd.xmp.schemas.photoshop/layer/text/) { get; set; } | परत की टेक्स्ट सामग्री प्राप्त या सेट करता है। |
-
-## तरीकों
+## प्रॉपर्टीज़
 
 | नाम | विवरण |
 | --- | --- |
-| [Equals](../../aspose.psd.xmp.schemas.photoshop/layer/equals/#equals)(Layer) | इंगित करता है कि क्या वर्तमान वस्तु उसी प्रकार की दूसरी वस्तु के बराबर है। |
-| override [Equals](../../aspose.psd.xmp.schemas.photoshop/layer/equals/#equals_1)(object) | निर्धारित करता है कि निर्दिष्ट किया गया है या नहींObject , इस उदाहरण के बराबर है। |
+| [Name](../../aspose.psd.xmp.schemas.photoshop/layer/name/) { get; set; } | टेक्स्ट लेयर का नाम प्राप्त करता है या सेट करता है। |
+| [Text](../../aspose.psd.xmp.schemas.photoshop/layer/text/) { get; set; } | लेयर की टेक्स्ट सामग्री प्राप्त करता है या सेट करता है। |
+
+## मेथड्स
+
+| नाम | विवरण |
+| --- | --- |
+| [Equals](../../aspose.psd.xmp.schemas.photoshop/layer/equals/#equals)(Layer) | यह दर्शाता है कि वर्तमान ऑब्जेक्ट समान प्रकार के दूसरे ऑब्जेक्ट के बराबर है या नहीं। |
+| override [Equals](../../aspose.psd.xmp.schemas.photoshop/layer/equals/#equals_1)(object) | निर्धारित करता है कि निर्दिष्ट ऑब्जेक्ट इस उदाहरण के बराबर है या नहीं। |
 | override [GetHashCode](../../aspose.psd.xmp.schemas.photoshop/layer/gethashcode/)() | इस उदाहरण के लिए एक हैश कोड लौटाता है। |
-| override [GetXmpRepresentation](../../aspose.psd.xmp.schemas.photoshop/layer/getxmprepresentation/)() | स्ट्रिंग में मौजूद मान को XMP फ़ॉर्मैट में लौटाता है. |
+| override [GetXmpRepresentation](../../aspose.psd.xmp.schemas.photoshop/layer/getxmprepresentation/)() | XMP फ़ॉर्मेट में सम्मिलित स्ट्रिंग मान को लौटाता है। |
 
-### यह सभी देखें
+### देखें भी
 
 * class [XmpTypeBase](../../aspose.psd.xmp.types/xmptypebase/)
-* नाम स्थान [Aspose.PSD.Xmp.Schemas.Photoshop](../../aspose.psd.xmp.schemas.photoshop/)
-* सभा [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Xmp.Schemas.Photoshop](../../aspose.psd.xmp.schemas.photoshop/)
+* assembly [Aspose.PSD](../../)
 
 

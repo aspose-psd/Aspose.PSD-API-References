@@ -1,14 +1,15 @@
 ---
-title: Enum PathOperations
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Aspose.PSD.FileFormats.Core.VectorPaths.PathOperations एनुम. पथ आकृतयं के संयजन के लए संचलन बूलयन संचलन
+title: "एनम PathOperations"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Aspose.PSD.FileFormats.Core.VectorPaths.PathOperations एनम। पाथ आकारों को बूलियन ऑपरेशनों के साथ संयोजित करने के लिए ऑपरेशन्स"
 type: docs
-weight: 1390
+weight: 1400
 url: /hi/net/aspose.psd.fileformats.core.vectorpaths/pathoperations/
 ---
+{{< psd/tize >}}
 ## PathOperations enumeration
 
-पथ आकृतियों के संयोजन के लिए संचालन (बूलियन संचालन)।
+पाथ शैप्स को संयोजित करने के लिए ऑपरेशन्स (बूलियन ऑपरेशन्स)।
 
 ```csharp
 public enum PathOperations
@@ -16,16 +17,16 @@ public enum PathOperations
 
 ### मान
 
-| नाम | कीमत | विवरण |
+| नाम | मान | विवरण |
 | --- | --- | --- |
-| ExcludeOverlappingShapes | `0` | ओवरलैपिंग आकृतियों को बाहर करें (XOR ऑपरेशन)। |
-| CombineShapes | `1` | आकृतियों को संयोजित करें (या संक्रिया)। यह फोटोशॉप में डिफ़ॉल्ट मान है। |
-| SubtractFrontShape | `2` | फ्रंट शेप घटाएं (ऑपरेशन नहीं) . |
-| IntersectShapeAreas | `3` | प्रतिच्छेद आकार क्षेत्र (और संचालन). |
+| ExcludeOverlappingShapes | `0` | ओवरलैपिंग आकारों को बाहर करें (XOR ऑपरेशन)। |
+| CombineShapes | `1` | आकारों को संयोजित करें (OR ऑपरेशन)। यह Photoshop में डिफ़ॉल्ट मान है। |
+| SubtractFrontShape | `2` | सामने के आकार को घटाएँ (NOT ऑपरेशन)। |
+| IntersectShapeAreas | `3` | आकार क्षेत्रों का प्रतिच्छेदन करें (AND ऑपरेशन)। |
 
-### उदाहरण
+## उदाहरण
 
-निम्न कोड उदाहरण नई लेंथरेकॉर्ड गुणों, पाथऑपरेशन (बूलियन ऑपरेशंस), शेपइंडेक्स और बेज़ियर नॉट रिकॉर्ड्सकाउंट के समर्थन को प्रदर्शित करता है।
+निम्नलिखित कोड उदाहरण नई LengthRecord गुणों, PathOperations (बूलियन ऑपरेशन्स), ShapeIndex और BezierKnotRecordsCount के समर्थन को दर्शाता है।
 
 ```csharp
 [C#]
@@ -49,7 +50,7 @@ using (var im = (PsdImage)Image.Load(sourceFilePath))
     LengthRecord lengthRecord1 = (LengthRecord)resource.Paths[7];
     LengthRecord lengthRecord2 = (LengthRecord)resource.Paths[11];
 
-    // यहां हम आकृतियों के बीच संयोजन करने का तरीका बदलते हैं।
+    // यहाँ हम आकारों के बीच संयोजन के तरीके को बदल रहे हैं।
     lengthRecord0.PathOperations = PathOperations.ExcludeOverlappingShapes;
     lengthRecord1.PathOperations = PathOperations.IntersectShapeAreas;
     lengthRecord2.PathOperations = PathOperations.SubtractFrontShape;
@@ -58,9 +59,9 @@ using (var im = (PsdImage)Image.Load(sourceFilePath))
 }
 ```
 
-### यह सभी देखें
+### देखें भी
 
-* नाम स्थान [Aspose.PSD.FileFormats.Core.VectorPaths](../../aspose.psd.fileformats.core.vectorpaths/)
-* सभा [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../)
 
 

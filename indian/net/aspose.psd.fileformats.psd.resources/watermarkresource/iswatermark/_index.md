@@ -1,27 +1,28 @@
 ---
-title: WatermarkResource.IsWatermark
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: WatermarkResource संपत्त. यह इंगत करत है क यह उदहरण वटरमर्क है य नहं मन प्रप्त करत है य सेट करत है
+title: "WatermarkResource.IsWatermark"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "WatermarkResource प्रॉपर्टी. यह दर्शाने वाला मान प्राप्त या सेट करता है कि यह इंस्टेंस वॉटरमार्क है या नहीं."
 type: docs
 weight: 30
 url: /hi/net/aspose.psd.fileformats.psd.resources/watermarkresource/iswatermark/
 ---
+{{< psd/tize >}}
 ## WatermarkResource.IsWatermark property
 
-यह इंगित करता है कि यह उदाहरण वॉटरमार्क है या नहीं। मान प्राप्त करता है या सेट करता है
+यह दर्शाने वाला मान प्राप्त करता है या सेट करता है कि यह उदाहरण वॉटरमार्क है या नहीं।
 
 ```csharp
 public bool IsWatermark { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-`सत्य` यदि यह उदाहरण वॉटरमार्क है; अन्यथा,`असत्य` .
+`true` यदि यह इंस्टेंस वॉटरमार्क है; अन्यथा, `false`.
 
-### यह सभी देखें
+### देखें भी
 
 * class [WatermarkResource](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Resources](../../watermarkresource/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

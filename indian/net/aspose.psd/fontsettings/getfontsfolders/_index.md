@@ -1,31 +1,32 @@
 ---
-title: FontSettings.GetFontsFolders
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: FontSettings तरक. उस सरण क एक प्रत प्रप्त करत है जसमें उन फ़ल्डरं क सूच हत है जहँ Aspose.Words ट्रू टइप फ़न्ट्स क तलश करत है
+title: "FontSettings.GetFontsFolders"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "FontSettings मेथड। एक एरे की कॉपी प्राप्त करता है जिसमें उन फ़ोल्डरों की सूची होती है जहाँ Aspose.Words TrueType फ़ॉन्ट्स खोजता है"
 type: docs
-weight: 60
+weight: 70
 url: /hi/net/aspose.psd/fontsettings/getfontsfolders/
 ---
+{{< psd/tize >}}
 ## FontSettings.GetFontsFolders method
 
-उस सरणी की एक प्रति प्राप्त करता है जिसमें उन फ़ोल्डरों की सूची होती है जहाँ Aspose.Words ट्रू टाइप फ़ॉन्ट्स की तलाश करता है।
+एक एरे की प्रतिलिपि प्राप्त करता है जिसमें उन फ़ोल्डरों की सूची होती है जहाँ Aspose.Words TrueType फ़ॉन्ट्स खोजता है।
 
 ```csharp
 public static string[] GetFontsFolders()
 ```
 
-### प्रतिलाभ की मात्रा
+### रिटर्न वैल्यू
 
-वर्तमान फ़ॉन्ट स्थानों की एक प्रति।
+वर्तमान फ़ॉन्ट स्थानों की एक कॉपी।
 
-### टिप्पणियों
+## टिप्पणियाँ
 
-लौटाया गया मान उस डेटा की एक प्रति है जिसका उपयोग Aspose.Words करता है। यदि आप दी गई सरणी में प्रविष्टियां बदलते हैं, तो इसका दस्तावेज़ रेंडरिंग पर कोई प्रभाव नहीं पड़ेगा। नए फ़ॉन्ट स्थान निर्दिष्ट करने के लिए उपयोग करें[`SetFontsFolders`](../setfontsfolders/) तरीका।
+वापसी मान Aspose.Words द्वारा उपयोग किए जाने वाले डेटा की एक कॉपी है। यदि आप लौटाए गए एरे में प्रविष्टियों को बदलते हैं, तो इसका दस्तावेज़ रेंडरिंग पर कोई प्रभाव नहीं पड़ेगा। नए फ़ॉन्ट स्थान निर्दिष्ट करने के लिए [`SetFontsFolders`](../setfontsfolders/) मेथड का उपयोग करें।
 
-### यह सभी देखें
+### देखें भी
 
 * class [FontSettings](../)
-* नाम स्थान [Aspose.PSD](../../fontsettings/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

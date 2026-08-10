@@ -1,14 +1,15 @@
 ---
-title: Enum VectorPathType
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Aspose.PSD.FileFormats.Core.VectorPaths.VectorPathType एनुम. PSD प्ररूप वशष्टत के अनुसर वेक्टर पथ प्रकर
+title: "एनम VectorPathType"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Aspose.PSD.FileFormats.Core.VectorPaths.VectorPathType एनम। PSD फ़ॉर्मेट स्पेसिफिकेशन के अनुसार वेक्टर पाथ प्रकार"
 type: docs
-weight: 1420
+weight: 1430
 url: /hi/net/aspose.psd.fileformats.core.vectorpaths/vectorpathtype/
 ---
+{{< psd/tize >}}
 ## VectorPathType enumeration
 
-PSD प्रारूप विशिष्टता के अनुसार वेक्टर पथ प्रकार
+PSD फ़ॉर्मेट स्पेसिफिकेशन के अनुसार वेक्टर पाथ टाइप
 
 ```csharp
 public enum VectorPathType : short
@@ -16,21 +17,21 @@ public enum VectorPathType : short
 
 ### मान
 
-| नाम | कीमत | विवरण |
+| नाम | मान | विवरण |
 | --- | --- | --- |
-| ClosedSubpathLengthRecord | `0` | बंद उपपथ लंबाई रिकॉर्ड |
-| ClosedSubpathBezierKnotLinked | `1` | बंद उपपथ बेजियर गाँठ जुड़ा |
-| ClosedSubpathBezierKnotUnlinked | `2` | बंद उपपथ बेजियर गाँठ अनलिंक किया गया |
-| OpenSubpathLengthRecord | `3` | खुला उपपथ लंबाई रिकॉर्ड |
-| OpenSubpathBezierKnotLinked | `4` | ओपन सबपाथ बेजियर नॉट लिंक्ड |
-| OpenSubpathBezierKnotUnlinked | `5` | ओपन सबपाथ बेजियर नॉट अनलिंक |
-| PathFillRuleRecord | `6` | पथ भरण नियम रिकॉर्ड |
-| ClipboardRecord | `7` | क्लिपबोर्ड रिकॉर्ड |
-| InitialFillRuleRecord | `8` | प्रारंभिक भरण नियम रिकॉर्ड |
+| ClosedSubpathLengthRecord | `0` | बंद सबपाथ लंबाई रिकॉर्ड |
+| ClosedSubpathBezierKnotLinked | `1` | बंद सबपाथ बेज़ियर नॉट लिंक्ड |
+| ClosedSubpathBezierKnotUnlinked | `2` | बंद सबपाथ बेज़ियर नॉट अनलिंक्ड |
+| OpenSubpathLengthRecord | `3` | यह ओपन सबपाथ लंबाई रिकॉर्ड |
+| OpenSubpathBezierKnotLinked | `4` | यह ओपन सबपाथ बीज़ियर नॉट जुड़ा हुआ |
+| OpenSubpathBezierKnotUnlinked | `5` | यह ओपन सबपाथ बीज़ियर नॉट अनजुड़ा हुआ |
+| PathFillRuleRecord | `6` | यह पथ भरण नियम रिकॉर्ड |
+| ClipboardRecord | `7` | यह क्लिपबोर्ड रिकॉर्ड |
+| InitialFillRuleRecord | `8` | यह प्रारंभिक भरण नियम रिकॉर्ड |
 
-### यह सभी देखें
+### देखें भी
 
-* नाम स्थान [Aspose.PSD.FileFormats.Core.VectorPaths](../../aspose.psd.fileformats.core.vectorpaths/)
-* सभा [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../)
 
 

@@ -1,28 +1,29 @@
 ---
-title: RawDataSettings.IndexedColorConverter
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: RawDataSettings संपत्त. अनुक्रमत रंग कनवर्टर प्रप्त य सेट करत है
+title: "RawDataSettings.IndexedColorConverter"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "RawDataSettings प्रॉपर्टी। अनुक्रमित रंग कनवर्टर को प्राप्त करता है या सेट करता है"
 type: docs
 weight: 60
 url: /hi/net/aspose.psd/rawdatasettings/indexedcolorconverter/
 ---
+{{< psd/tize >}}
 ## RawDataSettings.IndexedColorConverter property
 
-अनुक्रमित रंग कनवर्टर प्राप्त या सेट करता है
+इंडेक्स्ड कलर कनवर्टर प्राप्त करता है या सेट करता है
 
 ```csharp
 public IIndexedColorConverter IndexedColorConverter { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-अनुक्रमित रंग परिवर्तक
+अनुक्रमित रंग कनवर्टर
 
-### यह सभी देखें
+### देखें भी
 
 * interface [IIndexedColorConverter](../../iindexedcolorconverter/)
 * class [RawDataSettings](../)
-* नाम स्थान [Aspose.PSD](../../rawdatasettings/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

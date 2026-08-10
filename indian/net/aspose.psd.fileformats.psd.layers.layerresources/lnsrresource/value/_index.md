@@ -1,28 +1,29 @@
 ---
-title: LnsrResource.Value
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: LnsrResource संपत्त. मन क LnsrResourceType के रूप में प्रप्त करत है यद संबंधत एनम क वर्णन कय गय है अन्यथ अज्ञत लटएं
+title: "LnsrResource.Value"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "LnsrResource प्रॉपर्टी। यदि संबंधित enum वर्णित है तो मान को LnsrResourceType के रूप में प्राप्त करता है। अन्यथा Unknown लौटाता है"
 type: docs
-weight: 70
+weight: 40
 url: /hi/net/aspose.psd.fileformats.psd.layers.layerresources/lnsrresource/value/
 ---
+{{< psd/tize >}}
 ## LnsrResource.Value property
 
-मान को LnsrResourceType के रूप में प्राप्त करता है यदि संबंधित एनम का वर्णन किया गया है। अन्यथा अज्ञात लौटाएं
+यदि संबंधित enum वर्णित है तो मान को LnsrResourceType के रूप में प्राप्त करता है। अन्यथा Unknown लौटाता है।
 
 ```csharp
 public LnsrResourceType Value { get; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
 LnsrResourceType के रूप में मान
 
-### यह सभी देखें
+### देखें भी
 
 * enum [LnsrResourceType](../../lnsrresourcetype/)
 * class [LnsrResource](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../lnsrresource/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

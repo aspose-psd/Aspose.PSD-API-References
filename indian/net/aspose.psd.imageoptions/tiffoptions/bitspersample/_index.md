@@ -1,31 +1,32 @@
 ---
-title: TiffOptions.BitsPerSample
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: TiffOptions संपत्त. प्रत नमून बट्स प्रप्त य सेट करत है
+title: "TiffOptions.BitsPerSample"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "TiffOptions प्रॉपर्टी। प्रति नमूना बिट्स को प्राप्त करता है या सेट करता है"
 type: docs
 weight: 50
 url: /hi/net/aspose.psd.imageoptions/tiffoptions/bitspersample/
 ---
+{{< psd/tize >}}
 ## TiffOptions.BitsPerSample property
 
-प्रति नमूना बिट्स प्राप्त या सेट करता है।
+सैंपल प्रति बिट्स प्राप्त करता है या सेट करता है।
 
 ```csharp
 public ushort[] BitsPerSample { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-बिट्स प्रति नमूना मूल्य।
+प्रति नमूना बिट्स का मान।
 
-### टिप्पणियों
+## टिप्पणियाँ
 
-इस मान को सेट करते समय ध्यान रखें कि यह सैंपलपेरपिक्सल मान को सरणी लंबाई पर भी सेट करेगा। ये 2 गुण बहुत कसकर युग्मित हैं इसलिए इन्हें केवल एक साथ सेट किया जा सकता है।
+जब इस मान को सेट किया जाए तो ध्यान रखें कि यह SamplesPerPixel मान को भी ऐरे की लंबाई पर सेट करेगा। ये दो प्रॉपर्टी बहुत घनिष्ठ रूप से जुड़ी हुई हैं इसलिए इन्हें केवल साथ में ही सेट किया जा सकता है।
 
-### यह सभी देखें
+### देखें भी
 
 * class [TiffOptions](../)
-* नाम स्थान [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

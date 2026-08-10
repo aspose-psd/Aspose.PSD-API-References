@@ -1,27 +1,28 @@
 ---
-title: Version.VersionText
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Version संपत्त. वर्शन टेक्स्ट प्रप्त य सेट करत है.
+title: "Version.VersionText"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Version प्रॉपर्टी। संस्करण पाठ को प्राप्त करता है या सेट करता है"
 type: docs
 weight: 60
 url: /hi/net/aspose.psd.xmp.types.complex.version/version/versiontext/
 ---
+{{< psd/tize >}}
 ## Version.VersionText property
 
-वर्शन टेक्स्ट प्राप्त या सेट करता है.
+संस्करण टेक्स्ट को प्राप्त करता है या सेट करता है।
 
 ```csharp
 public string VersionText { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
 संस्करण पाठ।
 
-### यह सभी देखें
+### देखें भी
 
 * class [Version](../)
-* नाम स्थान [Aspose.PSD.Xmp.Types.Complex.Version](../../version/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.Version](../../../aspose.psd.xmp.types.complex.version/)
+* assembly [Aspose.PSD](../../../)
 
 

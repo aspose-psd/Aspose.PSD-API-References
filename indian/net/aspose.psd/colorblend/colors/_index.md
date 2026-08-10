@@ -1,28 +1,29 @@
 ---
-title: ColorBlend.Colors
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: ColorBlend संपत्त. रंगं क एक सरण प्रप्त य सेट करत है ज ग्रेडएंट के सथ संगत स्थत में उपयग करने के लए रंगं क प्रतनधत्व करत है
+title: "ColorBlend.Colors"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "ColorBlend प्रॉपर्टी। ग्रेडिएंट के साथ संबंधित स्थितियों पर उपयोग करने वाले रंगों को दर्शाने वाला रंगों का एरे प्राप्त या सेट करता है"
 type: docs
 weight: 20
 url: /hi/net/aspose.psd/colorblend/colors/
 ---
+{{< psd/tize >}}
 ## ColorBlend.Colors property
 
-रंगों की एक सरणी प्राप्त या सेट करता है जो ग्रेडिएंट के साथ संगत स्थिति में उपयोग करने के लिए रंगों का प्रतिनिधित्व करता है।
+ग्रेडिएंट के साथ संबंधित स्थितियों पर उपयोग करने वाले रंगों को दर्शाने वाले रंगों के एरे को प्राप्त करता है या सेट करता है।
 
 ```csharp
 public Color[] Colors { get; set; }
 ```
 
-### प्रतिलाभ की मात्रा
+### रिटर्न वैल्यू
 
-की सरणी[`Color`](../../color/) संरचनाएं जो ढाल के साथ संबंधित स्थितियों में उपयोग करने के लिए रंगों का प्रतिनिधित्व करती हैं।
+एक एरे जिसमें [`Color`](../../color/) स्ट्रक्चर होते हैं, जो ग्रेडिएंट के साथ संबंधित स्थितियों पर उपयोग करने वाले रंगों को दर्शाते हैं।
 
-### यह सभी देखें
+### देखें भी
 
 * struct [Color](../../color/)
 * class [ColorBlend](../)
-* नाम स्थान [Aspose.PSD](../../colorblend/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

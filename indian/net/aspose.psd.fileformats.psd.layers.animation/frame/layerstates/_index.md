@@ -1,22 +1,23 @@
 ---
-title: Frame.LayerStates
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Frame संपत्त. फ़्रेम क परत स्थत सेट करत है.
+title: "Frame.LayerStates"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Frame प्रॉपर्टी. फ्रेम की लेयर स्टेट्स को प्राप्त करता है या सेट करता है"
 type: docs
 weight: 50
 url: /hi/net/aspose.psd.fileformats.psd.layers.animation/frame/layerstates/
 ---
+{{< psd/tize >}}
 ## Frame.LayerStates property
 
-फ़्रेम की परत स्थिति सेट करता है.
+फ़्रेम की लेयर स्थितियों को प्राप्त करता है या सेट करता है।
 
 ```csharp
-public Dictionary<int, LayerState> LayerStates { get; }
+public LayerState[] LayerStates { get; set; }
 ```
 
-### उदाहरण
+## उदाहरण
 
-TimeLine वर्ग PsdImage की समयरेखा में हेरफेर करने के लिए एक उच्च-स्तरीय क्षमता देता है, जैसे किसी विशिष्ट फ़्रेम पर फ़्रेम विलंब या संपादन परत स्थिति को बदलना।
+Timeline क्लास PsdImage की टाइमलाइन को नियंत्रित करने की उच्च-स्तरीय क्षमता प्रदान करता है, जैसे फ्रेम डिले बदलना या विशिष्ट फ्रेम पर लेयर स्टेट को संपादित करना।
 
 ```csharp
 [C#]
@@ -26,42 +27,41 @@ string outputPsd = "output_image800.psd";
 
 using (PsdImage psdImage = (PsdImage)Image.Load(sourceFile))
 {
-    TimeLine timeLine = TimeLine.InitializeFrom(psdImage);
+    Timeline timeline = psdImage.Timeline;
 
-    // फ्रेम 1 की निपटान विधि बदलें
-    timeLine.Frames[0].DisposalMethod = FrameDisposalMethod.DoNotDispose;
+    // फ़्रेम 1 की डिस्पोज़ मेथड बदलें
+    timeline.Frames[0].DisposalMethod = FrameDisposalMethod.DoNotDispose;
 
-    // फ्रेम 2 की देरी बदलें
-    timeLine.Frames[1].Delay = 15;
+    // फ़्रेम 2 का डिले बदलें
+    timeline.Frames[1].Delay = 15;
 
-    // फ्रेम 2 पर 'लेयर 1' की अपारदर्शिता बदलें
-    LayerState layerState11 = timeLine.Frames[1].LayerStates[timeLine.LayerIds[1]];
+    // फ़्रेम 2 पर 'Layer 1' की अपारदर्शिता बदलें
+    LayerState layerState11 = timeline.Frames[1].LayerStates[1];
     layerState11.Opacity = 50;
 
-    // 'लेयर 1' को फ्रेम 3 पर बाएँ-निचले कोने में ले जाएँ
-    LayerState layerState21 = timeLine.Frames[2].LayerStates[timeLine.LayerIds[1]];
+    // फ़्रेम 3 पर 'Layer 1' को बाएँ-नीचे कोने में ले जाएँ
+    LayerState layerState21 = timeline.Frames[2].LayerStates[1];
     layerState21.PositionOffset = new Point(-50, 230);
 
     // नया फ्रेम जोड़ता है
-    List<Frame> frames = new List<Frame>(timeLine.Frames);
-    frames.Add(new Frame(timeLine));
-    timeLine.Frames = frames.ToArray();
+    List<Frame> frames = new List<Frame>(timeline.Frames);
+    frames.Add(new Frame());
+    timeline.Frames = frames.ToArray();
 
-    // फ्रेम 4 पर 'लेयर 1' का ब्लेंडमोड बदलें
-    LayerState layerState31 = timeLine.Frames[3].LayerStates[timeLine.LayerIds[1]];
+    // फ़्रेम 4 पर 'Layer 1' का blendMode बदलें
+    LayerState layerState31 = timeline.Frames[3].LayerStates[1];
     layerState31.BlendMode = BlendMode.Dissolve;
 
-    // PsdImage उदाहरण में परिवर्तन वापस लागू करें
-    timeLine.ApplyTo(psdImage);
+    // परिवर्तनों को PsdImage इंस्टेंस पर लागू करें
     psdImage.Save(outputPsd);
 }
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * class [LayerState](../../layerstate/)
 * class [Frame](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.Animation](../../frame/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.Animation](../../../aspose.psd.fileformats.psd.layers.animation/)
+* assembly [Aspose.PSD](../../../)
 
 

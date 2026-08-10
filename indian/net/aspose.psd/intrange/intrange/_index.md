@@ -1,70 +1,71 @@
 ---
-title: IntRange.IntRange
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: IntRange नर्मत. क एक नय उदहरण प्ररंभ करत हैIntRange वर्ग.
+title: "IntRange.IntRange"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "IntRange कंस्ट्रक्टर। IntRange क्लास का नया इंस्टेंस इनिशियलाइज़ करता है"
 type: docs
 weight: 10
 url: /hi/net/aspose.psd/intrange/intrange/
 ---
+{{< psd/tize >}}
 ## IntRange(int, int) {#constructor}
 
-का एक नया उदाहरण प्रारंभ करता है[`IntRange`](../) वर्ग.
+[`IntRange`](../) क्लास का नया इंस्टेंस इनिशियलाइज़ करता है।
 
 ```csharp
 public IntRange(int start, int count)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| start | Int32 | प्रारंभ। |
-| count | Int32 | गिनती। |
+| start | Int32 | शुरू। |
+| count | Int32 | काउंट। |
 
-### यह सभी देखें
+### देखें भी
 
 * class [IntRange](../)
-* नाम स्थान [Aspose.PSD](../../intrange/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## IntRange(int, int, int) {#constructor_1}
 
-का एक नया उदाहरण प्रारंभ करता है[`IntRange`](../) वर्ग.
+[`IntRange`](../) क्लास का नया इंस्टेंस इनिशियलाइज़ करता है।
 
 ```csharp
 public IntRange(int start, int count, int delta)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| start | Int32 | प्रारंभ। |
-| count | Int32 | गिनती। |
+| start | Int32 | शुरू। |
+| count | Int32 | काउंट। |
 | delta | Int32 | डेल्टा। |
 
-### यह सभी देखें
+### देखें भी
 
 * class [IntRange](../)
-* नाम स्थान [Aspose.PSD](../../intrange/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## IntRange(int[]) {#constructor_2}
 
-का एक नया उदाहरण प्रारंभ करता है[`IntRange`](../) वर्ग.
+[`IntRange`](../) क्लास का नया इंस्टेंस इनिशियलाइज़ करता है।
 
 ```csharp
 public IntRange(int[] range)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| range | Int32[] | सीमा। |
+| range | Int32[] | रेंज। |
 
-### यह सभी देखें
+### देखें भी
 
 * class [IntRange](../)
-* नाम स्थान [Aspose.PSD](../../intrange/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

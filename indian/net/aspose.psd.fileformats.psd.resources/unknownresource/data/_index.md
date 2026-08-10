@@ -1,11 +1,12 @@
 ---
-title: UnknownResource.Data
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: UnknownResource संपत्त. संसधन डेट प्रप्त करत है
+title: "UnknownResource.Data"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "UnknownResource प्रॉपर्टी। संसाधन डेटा प्राप्त करता है"
 type: docs
 weight: 10
 url: /hi/net/aspose.psd.fileformats.psd.resources/unknownresource/data/
 ---
+{{< psd/tize >}}
 ## UnknownResource.Data property
 
 संसाधन डेटा प्राप्त करता है।
@@ -14,14 +15,14 @@ url: /hi/net/aspose.psd.fileformats.psd.resources/unknownresource/data/
 public byte[] Data { get; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
 संसाधन डेटा।
 
-### यह सभी देखें
+### देखें भी
 
 * class [UnknownResource](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Resources](../../unknownresource/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

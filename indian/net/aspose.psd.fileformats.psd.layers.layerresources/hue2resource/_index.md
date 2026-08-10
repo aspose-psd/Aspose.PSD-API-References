@@ -1,14 +1,15 @@
 ---
-title: Class Hue2Resource
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.Hue2Resource कक्ष. क्लस ह्यू2Resource. एक्सपजर एडजस्टमेंट लेयर क संसधन
+title: "क्लास Hue2Resource"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Aspose.PSD.FileFormats.Psd.Layers.LayerResources.Hue2Resource क्लास। क्लास Hue2Resource। एक्सपोज़र एडजस्टमेंट लेयर का रिसोर्स।"
 type: docs
-weight: 2510
+weight: 2780
 url: /hi/net/aspose.psd.fileformats.psd.layers.layerresources/hue2resource/
 ---
+{{< psd/tize >}}
 ## Hue2Resource class
 
-क्लास ह्यू2Resource. एक्सपोजर एडजस्टमेंट लेयर का संसाधन
+क्लास Hue2Resource. एक्सपोज़र एडजस्टमेंट लेयर का रिसोर्स।
 
 ```csharp
 public class Hue2Resource : AdjustmentLayerResource
@@ -18,42 +19,42 @@ public class Hue2Resource : AdjustmentLayerResource
 
 | नाम | विवरण |
 | --- | --- |
-| [Hue2Resource](hue2resource/#constructor)() | का एक नया उदाहरण प्रारंभ करता है`Hue2Resource` वर्ग. |
-| [Hue2Resource](hue2resource/#constructor_1)(byte[]) | का एक नया उदाहरण प्रारंभ करता है`Hue2Resource` वर्ग. |
+| [Hue2Resource](hue2resource/#constructor)() | `Hue2Resource` क्लास का एक नया इंस्टेंस इनिशियलाइज़ करता है। |
+| [Hue2Resource](hue2resource/#constructor_1)(byte[]) | `Hue2Resource` क्लास का एक नया इंस्टेंस इनिशियलाइज़ करता है। |
 
-## गुण
+## प्रॉपर्टीज़
 
 | नाम | विवरण |
 | --- | --- |
-| [Colorize](../../aspose.psd.fileformats.psd.layers.layerresources/hue2resource/colorize/) { get; set; } | एक मान प्राप्त करता है या सेट करता है जो दर्शाता है कि यह`Hue2Resource` रंगीन है. |
+| [Colorize](../../aspose.psd.fileformats.psd.layers.layerresources/hue2resource/colorize/) { get; set; } | `Hue2Resource` के रंगीन होने को दर्शाने वाला मान प्राप्त करता है या सेट करता है। |
 | [Hue](../../aspose.psd.fileformats.psd.layers.layerresources/hue2resource/hue/) { get; set; } | मास्टर ह्यू प्राप्त करता है या सेट करता है। |
-| override [Key](../../aspose.psd.fileformats.psd.layers.layerresources/hue2resource/key/) { get; } | परत संसाधन कुंजी प्राप्त करता है. |
-| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/hue2resource/length/) { get; } | बाइट्स में परत संसाधन लंबाई प्राप्त करता है। |
-| [Lightness](../../aspose.psd.fileformats.psd.layers.layerresources/hue2resource/lightness/) { get; set; } | मास्टर लाइटनेस प्राप्त या सेट करता है। |
-| override [PsdVersion](../../aspose.psd.fileformats.psd.layers.layerresources/hue2resource/psdversion/) { get; } | पीएसडी संस्करण प्राप्त करता है। |
-| [Ranges](../../aspose.psd.fileformats.psd.layers.layerresources/hue2resource/ranges/) { get; } | ह्यू/संतृप्ति एडजस्टमेंट लेयर की रेंज प्राप्त करता है। यदि रेंज बदली जाती है तो पीएस में रेंज नाम बदल सकते हैं, इसलिए हमें index द्वारा काम करना चाहिए |
-| [Saturation](../../aspose.psd.fileformats.psd.layers.layerresources/hue2resource/saturation/) { get; set; } | मास्टर संतृप्ति प्राप्त या सेट करता है। |
-| override [Signature](../../aspose.psd.fileformats.psd.layers.layerresources/adjustmentlayerresource/signature/) { get; } | हस्ताक्षर हो जाता है। |
-| [Version](../../aspose.psd.fileformats.psd.layers.layerresources/hue2resource/version/) { get; } | संस्करण प्राप्त करता है। डिफ़ॉल्ट 2 है |
+| [Key](../../aspose.psd.fileformats.psd.layers/layerresource/key/) { get; } | लेयर रिसोर्स कुंजी प्राप्त करता है। |
+| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/hue2resource/length/) { get; } | बाइट्स में लेयर रिसोर्स की लंबाई प्राप्त करता है। |
+| [Lightness](../../aspose.psd.fileformats.psd.layers.layerresources/hue2resource/lightness/) { get; set; } | मास्टर लाइटनेस प्राप्त करता है या सेट करता है। |
+| virtual [PsdVersion](../../aspose.psd.fileformats.psd.layers/layerresource/psdversion/) { get; } | लेयर रिसोर्स के लिए आवश्यक न्यूनतम PSD संस्करण प्राप्त करता है। 0 का अर्थ कोई प्रतिबंध नहीं है। |
+| [Ranges](../../aspose.psd.fileformats.psd.layers.layerresources/hue2resource/ranges/) { get; } | Hue/Saturation एडजस्टमेंट लेयर की रेंजेज़ प्राप्त करता है। PS में रेंज बदलने पर नाम बदल सकते हैं, इसलिए हमें इंडेक्स द्वारा काम करना चाहिए। |
+| [Saturation](../../aspose.psd.fileformats.psd.layers.layerresources/hue2resource/saturation/) { get; set; } | मास्टर सैचुरेशन प्राप्त करता है या सेट करता है। |
+| virtual [Signature](../../aspose.psd.fileformats.psd.layers/layerresource/signature/) { get; } | हस्ताक्षर प्राप्त करता है। |
+| [Version](../../aspose.psd.fileformats.psd.layers.layerresources/hue2resource/version/) { get; } | वर्ज़न प्राप्त करता है। डिफ़ॉल्ट 2 है। |
 
-## तरीकों
-
-| नाम | विवरण |
-| --- | --- |
-| override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/hue2resource/save/)(StreamContainer, int) | संसाधन को निर्दिष्ट स्ट्रीम कंटेनर में सहेजता है। |
-| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring/)() | रिटर्न एString जो इस उदाहरण का प्रतिनिधित्व करता है। |
-
-## खेत
+## मेथड्स
 
 | नाम | विवरण |
 | --- | --- |
-| const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/hue2resource/typetoolkey/) | टाइप टूल इंफो की. |
+| override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/hue2resource/save/)(StreamContainer, int) | निर्दिष्ट स्ट्रीम कंटेनर में रिसोर्स को सहेजता है। |
+| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring/)() | इस उदाहरण का प्रतिनिधित्व करने वाली एक स्ट्रिंग लौटाता है। |
 
-### यह सभी देखें
+## फ़ील्ड्स
+
+| नाम | विवरण |
+| --- | --- |
+| const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/hue2resource/typetoolkey/) | टाइप टूल जानकारी कुंजी। |
+
+### देखें भी
 
 * class [AdjustmentLayerResource](../adjustmentlayerresource/)
 * class [LayerResource](../../aspose.psd.fileformats.psd.layers/layerresource/)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
-* सभा [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../)
 
 

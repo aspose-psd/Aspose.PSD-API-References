@@ -1,35 +1,36 @@
 ---
-title: TiffOptions.ColorMap
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: TiffOptions संपत्त. कलर मैप प्रप्त य सेट करत है
+title: "TiffOptions.ColorMap"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "TiffOptions प्रॉपर्टी। रंग मानचित्र को प्राप्त करता है या सेट करता है"
 type: docs
 weight: 70
 url: /hi/net/aspose.psd.imageoptions/tiffoptions/colormap/
 ---
+{{< psd/tize >}}
 ## TiffOptions.ColorMap property
 
-कलर मैप प्राप्त या सेट करता है।
+रंग मानचित्र को प्राप्त या सेट करता है।
 
 ```csharp
 public ushort[] ColorMap { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-कलर मैप।
+रंग मानचित्र।
 
 ### अपवाद
 
-| अपवाद | स्थिति |
+| अपवाद | शर्त |
 | --- | --- |
-| ArgumentNullException | कीमत |
-| [TiffImageException](../../../aspose.psd.coreexceptions.imageformats/tiffimageexception/) | कलर मैप प्रति पिक्सेल के नमूने के लिए केवल 1 के बराबर परिभाषित किया जा सकता है। or प्रति नमूना बिट्स परिभाषित नहीं हैं। |
-| ArgumentOutOfRangeException | मान; सरणी की लंबाई अनुवर्ती सूत्र के अनुरूप होनी चाहिए: 3 * (2**BitsPerSample)। |
+| ArgumentNullException | मान |
+| [TiffImageException](../../../aspose.psd.coreexceptions.imageformats/tiffimageexception/) | रंग मानचित्र केवल तब परिभाषित किया जा सकता है जब पिक्सेल प्रति नमूना 1 के बराबर हो। या नमूना प्रति बिट परिभाषित नहीं हैं। |
+| ArgumentOutOfRangeException | value;ऐरे की लंबाई निम्न सूत्र के अनुरूप होनी चाहिए: 3 * (2**BitsPerSample)। |
 
-### यह सभी देखें
+### देखें भी
 
 * class [TiffOptions](../)
-* नाम स्थान [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

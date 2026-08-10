@@ -1,14 +1,15 @@
 ---
-title: Class PathFillRuleRecord
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Aspose.PSD.FileFormats.Core.VectorPaths.PathFillRuleRecord कक्ष. पथ फल नयम रकर्ड क्लस
+title: "क्लास PathFillRuleRecord"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Aspose.PSD.FileFormats.Core.VectorPaths.PathFillRuleRecord क्लास। Path Fill Rule Record क्लास"
 type: docs
-weight: 1380
+weight: 1390
 url: /hi/net/aspose.psd.fileformats.core.vectorpaths/pathfillrulerecord/
 ---
+{{< psd/tize >}}
 ## PathFillRuleRecord class
 
-पाथ फिल नियम रिकॉर्ड क्लास
+Path Fill Rule Record क्लास
 
 ```csharp
 public class PathFillRuleRecord : VectorPathRecord
@@ -18,19 +19,19 @@ public class PathFillRuleRecord : VectorPathRecord
 
 | नाम | विवरण |
 | --- | --- |
-| [PathFillRuleRecord](pathfillrulerecord/#constructor)() | का एक नया उदाहरण प्रारंभ करता है`PathFillRuleRecord` वर्ग. |
-| [PathFillRuleRecord](pathfillrulerecord/#constructor_1)(byte[]) | का एक नया उदाहरण प्रारंभ करता है`PathFillRuleRecord` वर्ग. |
+| [PathFillRuleRecord](pathfillrulerecord/#constructor)() | `PathFillRuleRecord` क्लास का नया उदाहरण प्रारंभ करता है। |
+| [PathFillRuleRecord](pathfillrulerecord/#constructor_1)(byte[]) | `PathFillRuleRecord` क्लास का नया उदाहरण प्रारंभ करता है। |
 
-## गुण
+## प्रॉपर्टीज़
 
 | नाम | विवरण |
 | --- | --- |
 | override [Type](../../aspose.psd.fileformats.core.vectorpaths/pathfillrulerecord/type/) { get; } | प्रकार प्राप्त करता है। |
 
-### यह सभी देखें
+### देखें भी
 
 * class [VectorPathRecord](../vectorpathrecord/)
-* नाम स्थान [Aspose.PSD.FileFormats.Core.VectorPaths](../../aspose.psd.fileformats.core.vectorpaths/)
-* सभा [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../)
 
 

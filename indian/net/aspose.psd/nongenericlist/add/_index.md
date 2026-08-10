@@ -1,31 +1,32 @@
 ---
-title: NonGenericList.Add
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: NonGenericList तरक. में एक आइटम जड़त हैIList .
+title: "NonGenericList.Add"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "NonGenericList मेथड। IList में एक आइटम जोड़ता है"
 type: docs
 weight: 80
 url: /hi/net/aspose.psd/nongenericlist/add/
 ---
+{{< psd/tize >}}
 ## NonGenericList.Add method
 
-में एक आइटम जोड़ता हैIList .
+IList में एक आइटम जोड़ता है।
 
 ```csharp
 public int Add(object value)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| value | Object | Object जोड़ने के लिएIList. |
+| मान | ऑब्जेक्ट | IList में जोड़ने के लिए ऑब्जेक्ट। |
 
-### प्रतिलाभ की मात्रा
+### रिटर्न वैल्यू
 
-वह स्थिति जिसमें नया तत्व डाला गया था।
+नए तत्व को जहाँ डाला गया था वह स्थिति।
 
-### यह सभी देखें
+### देखें भी
 
 * class [NonGenericList](../)
-* नाम स्थान [Aspose.PSD](../../nongenericlist/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

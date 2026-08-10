@@ -1,139 +1,143 @@
 ---
-title: Class RasterCachedImage
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Aspose.PSD.RasterCachedImage कक्ष. रेखपुंज ग्रफक्स संचलन क समर्थन करने वल रेखपुंज छव क प्रतनधत्व करत है आवश्यकत पड़ने पर यह छव पक्सेल डेट क संचत कर लेत है.
+title: "क्लास RasterCachedImage"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Aspose.PSD.RasterCachedImage क्लास। रास्टर ग्राफ़िक्स ऑपरेशन्स का समर्थन करने वाली रास्टर इमेज का प्रतिनिधित्व करता है। आवश्यकता पड़ने पर यह इमेज पिक्सेल डेटा को कैश करता है।"
 type: docs
-weight: 5310
+weight: 5810
 url: /hi/net/aspose.psd/rastercachedimage/
 ---
+{{< psd/tize >}}
 ## RasterCachedImage class
 
-रेखापुंज ग्राफिक्स संचालन का समर्थन करने वाली रेखापुंज छवि का प्रतिनिधित्व करता है। आवश्यकता पड़ने पर यह छवि पिक्सेल डेटा को संचित कर लेती है.
+रास्टर ग्राफ़िक्स ऑपरेशन्स को समर्थन देने वाली रास्टर इमेज का प्रतिनिधित्व करता है। आवश्यकता पड़ने पर यह इमेज पिक्सेल डेटा को कैश करती है।
 
 ```csharp
 public abstract class RasterCachedImage : RasterImage
 ```
 
-## गुण
+## प्रॉपर्टीज़
 
 | नाम | विवरण |
 | --- | --- |
-| [AutoAdjustPalette](../../aspose.psd/image/autoadjustpalette/) { get; set; } | एक मान प्राप्त करता है या सेट करता है जो इंगित करता है कि स्वचालित समायोजन पैलेट है या नहीं। |
-| virtual [BackgroundColor](../../aspose.psd/image/backgroundcolor/) { get; set; } | पृष्ठभूमि रंग के लिए मान प्राप्त या सेट करता है। |
-| abstract [BitsPerPixel](../../aspose.psd/image/bitsperpixel/) { get; } | छवि बिट्स प्रति पिक्सेल संख्या प्राप्त करता है। |
-| [Bounds](../../aspose.psd/image/bounds/) { get; } | छवि सीमा प्राप्त करता है। |
-| [BufferSizeHint](../../aspose.psd/image/buffersizehint/) { get; set; } | बफ़र आकार संकेत प्राप्त या सेट करता है जो सभी आंतरिक बफ़र्स के लिए अधिकतम अनुमत आकार परिभाषित किया गया है। |
-| [Container](../../aspose.psd/image/container/) { get; } | हो जाता है[`Image`](../image/) कंटेनर. |
-| [DataStreamContainer](../../aspose.psd/datastreamsupporter/datastreamcontainer/) { get; } | ऑब्जेक्ट की डेटा स्ट्रीम प्राप्त करता है। |
-| [Disposed](../../aspose.psd/disposableobject/disposed/) { get; } | यह इंगित करने वाला मान प्राप्त करता है कि क्या यह उदाहरण निपटाया गया है। |
-| virtual [FileFormat](../../aspose.psd/image/fileformat/) { get; } | फ़ाइल स्वरूप का मान प्राप्त करता है |
-| virtual [HasAlpha](../../aspose.psd/rasterimage/hasalpha/) { get; } | यह इंगित करने वाला मान प्राप्त करता है कि क्या इस उदाहरण में अल्फ़ा है. |
-| virtual [HasBackgroundColor](../../aspose.psd/image/hasbackgroundcolor/) { get; set; } | एक मान प्राप्त या सेट करता है जो बताता है कि छवि में पृष्ठभूमि का रंग है या नहीं। |
-| virtual [HasTransparentColor](../../aspose.psd/rasterimage/hastransparentcolor/) { get; set; } | एक मान प्राप्त करता है जो बताता है कि छवि में पारदर्शी रंग है या नहीं। |
-| abstract [Height](../../aspose.psd/image/height/) { get; } | छवि ऊंचाई प्राप्त करता है। |
-| virtual [HorizontalResolution](../../aspose.psd/rasterimage/horizontalresolution/) { get; set; } | इसमें से पिक्सल प्रति इंच में हॉरिजॉन्टल रेजोल्यूशन प्राप्त या सेट करता है[`RasterImage`](../rasterimage/) . |
-| virtual [ImageOpacity](../../aspose.psd/rasterimage/imageopacity/) { get; } | इस छवि की अस्पष्टता प्राप्त करता है। |
-| [InterruptMonitor](../../aspose.psd/image/interruptmonitor/) { get; set; } | इंटरप्ट मॉनीटर प्राप्त या सेट करता है। |
-| override [IsCached](../../aspose.psd/rastercachedimage/iscached/) { get; } | एक मान प्राप्त करता है जो दर्शाता है कि छवि डेटा वर्तमान में कैश किया गया है या नहीं। |
-| [IsRawDataAvailable](../../aspose.psd/rasterimage/israwdataavailable/) { get; } | एक मान प्राप्त करता है जो दर्शाता है कि कच्चा डेटा लोड हो रहा है या नहीं। |
-| [Palette](../../aspose.psd/image/palette/) { get; set; } | कलर पैलेट प्राप्त या सेट करता है। रंग पैलेट का उपयोग तब नहीं किया जाता है जब पिक्सेल को सीधे प्रदर्शित किया जाता है. |
-| virtual [PremultiplyComponents](../../aspose.psd/rasterimage/premultiplycomponents/) { get; set; } | एक मान प्राप्त करता है या सेट करता है जो इंगित करता है कि छवि घटकों को पूर्व-गुणा किया जाना चाहिए। |
-| [RawCustomColorConverter](../../aspose.psd/rasterimage/rawcustomcolorconverter/) { get; set; } | कस्टम कलर कन्वर्टर प्राप्त या सेट करता है |
-| virtual [RawDataFormat](../../aspose.psd/rasterimage/rawdataformat/) { get; } | अपरिष्कृत डेटा प्रारूप प्राप्त करता है। |
-| [RawDataSettings](../../aspose.psd/rasterimage/rawdatasettings/) { get; } | वर्तमान अपरिष्कृत डेटा सेटिंग प्राप्त करता है। नोट करें कि इन सेटिंग का उपयोग करते समय डेटा रूपांतरण के बिना लोड होता है. |
-| [RawFallbackIndex](../../aspose.psd/rasterimage/rawfallbackindex/) { get; set; } | पैलेट इंडेक्स सीमा से बाहर होने पर उपयोग करने के लिए फ़ॉलबैक इंडेक्स प्राप्त या सेट करता है |
-| [RawIndexedColorConverter](../../aspose.psd/rasterimage/rawindexedcolorconverter/) { get; set; } | अनुक्रमित रंग कनवर्टर प्राप्त या सेट करता है |
-| virtual [RawLineSize](../../aspose.psd/rasterimage/rawlinesize/) { get; } | बाइट्स में कच्ची रेखा का आकार प्राप्त करता है। |
+| [AutoAdjustPalette](../../aspose.psd/image/autoadjustpalette/) { get; set; } | स्वचालित समायोजन पैलेट को दर्शाने वाला मान प्राप्त करता है या सेट करता है। |
+| virtual [BackgroundColor](../../aspose.psd/image/backgroundcolor/) { get; set; } | पृष्ठभूमि रंग के लिए मान प्राप्त करता है या सेट करता है। |
+| abstract [BitsPerPixel](../../aspose.psd/image/bitsperpixel/) { get; } | छवि के बिट्स प्रति पिक्सेल की गिनती प्राप्त करता है। |
+| [Bounds](../../aspose.psd/image/bounds/) { get; } | छवि की सीमाएँ प्राप्त करता है। |
+| [BufferSizeHint](../../aspose.psd/image/buffersizehint/) { get; set; } | बफ़र आकार संकेतक प्राप्त करता है या सेट करता है, जो सभी आंतरिक बफ़रों के लिए अधिकतम अनुमत आकार को परिभाषित करता है। |
+| [Container](../../aspose.psd/image/container/) { get; } | [`Image`](../image/) कंटेनर प्राप्त करता है। |
+| [DataStreamContainer](../../aspose.psd/datastreamsupporter/datastreamcontainer/) { get; } | ऑब्जेक्ट का डेटा स्ट्रीम प्राप्त करता है। |
+| [Disposed](../../aspose.psd/disposableobject/disposed/) { get; } | यह संकेत करने वाला मान प्राप्त करता है कि यह इंस्टेंस डिस्पोज़ किया गया है या नहीं। |
+| virtual [FileFormat](../../aspose.psd/image/fileformat/) { get; } | फ़ाइल फ़ॉर्मेट का मान प्राप्त करता है |
+| virtual [HasAlpha](../../aspose.psd/rasterimage/hasalpha/) { get; } | एक मान प्राप्त करता है जो दर्शाता है कि यह इंस्टेंस अल्फा रखता है या नहीं। |
+| virtual [HasBackgroundColor](../../aspose.psd/image/hasbackgroundcolor/) { get; set; } | छवि में पृष्ठभूमि रंग है या नहीं, यह दर्शाने वाला मान प्राप्त करता है या सेट करता है। |
+| virtual [HasTransparentColor](../../aspose.psd/rasterimage/hastransparentcolor/) { get; set; } | छवि में पारदर्शी रंग है या नहीं, यह दर्शाने वाला मान प्राप्त करता है। |
+| abstract [Height](../../aspose.psd/image/height/) { get; } | छवि की ऊँचाई प्राप्त करता है। |
+| virtual [HorizontalResolution](../../aspose.psd/rasterimage/horizontalresolution/) { get; set; } | इस [`RasterImage`](../rasterimage/) की क्षैतिज रिज़ॉल्यूशन, पिक्सेल प्रति इंच में, प्राप्त करता है या सेट करता है। |
+| virtual [ImageOpacity](../../aspose.psd/rasterimage/imageopacity/) { get; } | इस छवि की अपारदर्शिता प्राप्त करता है। |
+| [InterruptMonitor](../../aspose.psd/image/interruptmonitor/) { get; set; } | इंटरप्ट मॉनिटर को प्राप्त करता है या सेट करता है। |
+| override [IsCached](../../aspose.psd/rastercachedimage/iscached/) { get; } | एक मान प्राप्त करता है जो दर्शाता है कि वर्तमान में छवि डेटा कैश किया गया है या नहीं। |
+| [IsRawDataAvailable](../../aspose.psd/rasterimage/israwdataavailable/) { get; } | एक मान प्राप्त करता है जो दर्शाता है कि कच्चा डेटा लोडिंग उपलब्ध है या नहीं। |
+| [Palette](../../aspose.psd/image/palette/) { get; set; } | रंग पैलेट को प्राप्त करता है या सेट करता है। जब पिक्सेल सीधे प्रतिनिधित्व किए जाते हैं तो रंग पैलेट का उपयोग नहीं किया जाता। |
+| virtual [PremultiplyComponents](../../aspose.psd/rasterimage/premultiplycomponents/) { get; set; } | एक मान प्राप्त करता है या सेट करता है जो दर्शाता है कि छवि घटकों को पूर्व-गुणा किया जाना चाहिए या नहीं। |
+| [RawCustomColorConverter](../../aspose.psd/rasterimage/rawcustomcolorconverter/) { get; set; } | कस्टम रंग कनवर्टर को प्राप्त करता है या सेट करता है। |
+| virtual [RawDataFormat](../../aspose.psd/rasterimage/rawdataformat/) { get; } | कच्चा डेटा फ़ॉर्मेट प्राप्त करता है। |
+| [RawDataSettings](../../aspose.psd/rasterimage/rawdatasettings/) { get; } | वर्तमान कच्चा डेटा सेटिंग्स प्राप्त करता है। ध्यान दें कि इन सेटिंग्स का उपयोग करने पर डेटा बिना रूपांतरण के लोड होता है। |
+| [RawFallbackIndex](../../aspose.psd/rasterimage/rawfallbackindex/) { get; set; } | पैलेट इंडेक्स सीमा से बाहर होने पर उपयोग करने के लिए फॉलबैक इंडेक्स प्राप्त करता है या सेट करता है |
+| [RawIndexedColorConverter](../../aspose.psd/rasterimage/rawindexedcolorconverter/) { get; set; } | इंडेक्स्ड कलर कनवर्टर प्राप्त करता है या सेट करता है |
+| virtual [RawLineSize](../../aspose.psd/rasterimage/rawlinesize/) { get; } | बाइट्स में कच्ची लाइन आकार प्राप्त करता है। |
 | [Size](../../aspose.psd/image/size/) { get; } | छवि का आकार प्राप्त करता है। |
-| virtual [TransparentColor](../../aspose.psd/rasterimage/transparentcolor/) { get; set; } | इमेज को पारदर्शी रंग देता है. |
-| virtual [UpdateXmpData](../../aspose.psd/rasterimage/updatexmpdata/) { get; set; } | एक मान प्राप्त करता है या सेट करता है जो बताता है कि XMP मेटाडेटा को अपडेट करना है या नहीं। |
-| virtual [UseRawData](../../aspose.psd/rasterimage/userawdata/) { get; set; } | एक मान प्राप्त करता है या सेट करता है जो बताता है कि कच्चे डेटा लोड होने पर कच्चे डेटा लोडिंग का उपयोग करना है या नहीं। |
-| virtual [VerticalResolution](../../aspose.psd/rasterimage/verticalresolution/) { get; set; } | इसमें से पिक्सेल प्रति इंच में लंबवत रिज़ॉल्यूशन प्राप्त या सेट करता है[`RasterImage`](../rasterimage/) . |
-| abstract [Width](../../aspose.psd/image/width/) { get; } | छवि चौड़ाई प्राप्त करता है। |
-| virtual [XmpData](../../aspose.psd/rasterimage/xmpdata/) { get; set; } | एक्सएमपी मेटाडेटा प्राप्त या सेट करता है। |
+| virtual [TransparentColor](../../aspose.psd/rasterimage/transparentcolor/) { get; set; } | छवि का पारदर्शी रंग प्राप्त करता है। |
+| virtual [UpdateXmpData](../../aspose.psd/rasterimage/updatexmpdata/) { get; set; } | XMP मेटाडेटा को अपडेट करना है या नहीं, यह दर्शाने वाला मान प्राप्त करता है या सेट करता है। |
+| virtual [UsePalette](../../aspose.psd/image/usepalette/) { get; } | छवि पैलेट उपयोग किया गया है या नहीं, यह दर्शाने वाला मान प्राप्त करता है। |
+| virtual [UseRawData](../../aspose.psd/rasterimage/userawdata/) { get; set; } | जब कच्चा डेटा लोडिंग उपलब्ध हो, तो कच्चा डेटा लोडिंग उपयोग करना है या नहीं, यह दर्शाने वाला मान प्राप्त करता है या सेट करता है। |
+| virtual [VerticalResolution](../../aspose.psd/rasterimage/verticalresolution/) { get; set; } | इस [`RasterImage`](../rasterimage/) की लंबवत रिज़ॉल्यूशन, पिक्सेल प्रति इंच में, प्राप्त करता है या सेट करता है। |
+| abstract [Width](../../aspose.psd/image/width/) { get; } | छवि की चौड़ाई प्राप्त करता है। |
+| virtual [XmpData](../../aspose.psd/rasterimage/xmpdata/) { get; set; } | XMP मेटाडेटा प्राप्त करता है या सेट करता है। |
 
-## तरीकों
+## मेथड्स
 
 | नाम | विवरण |
 | --- | --- |
-| override [AdjustBrightness](../../aspose.psd/rastercachedimage/adjustbrightness/)(int) | छवि के लिए चमक समायोजित करें। |
-| override [AdjustContrast](../../aspose.psd/rastercachedimage/adjustcontrast/)(float) | विषम छवि |
-| override [AdjustGamma](../../aspose.psd/rastercachedimage/adjustgamma/#adjustgamma)(float) | गामा-एक छवि का सुधार। |
-| override [AdjustGamma](../../aspose.psd/rastercachedimage/adjustgamma/#adjustgamma_1)(float, float, float) | गामा-एक छवि का सुधार। |
-| override [BinarizeBradley](../../aspose.psd/rastercachedimage/binarizebradley/#binarizebradley)(double) | इंटीग्रल इमेज थ्रेशोल्डिंग का उपयोग करके ब्रैडली के एडेप्टिव थ्रेशोल्डिंग एल्गोरिथम का उपयोग करके इमेज का बाइनेराइज़ेशन |
-| override [BinarizeBradley](../../aspose.psd/rastercachedimage/binarizebradley/#binarizebradley_1)(double, int) | इंटीग्रल इमेज थ्रेशोल्डिंग का उपयोग करके ब्रैडली के एडेप्टिव थ्रेशोल्डिंग एल्गोरिथम का उपयोग करके इमेज का बाइनेराइज़ेशन |
-| override [BinarizeFixed](../../aspose.psd/rastercachedimage/binarizefixed/)(byte) | पूर्वनिर्धारित थ्रेसहोल्ड के साथ एक छवि का बिनराइजेशन |
-| override [BinarizeOtsu](../../aspose.psd/rastercachedimage/binarizeotsu/)() | ओत्सू थ्रेसहोल्डिंग के साथ एक छवि का बाइनराइजेशन |
-| override [CacheData](../../aspose.psd/rastercachedimage/cachedata/)() | डेटा को कैश करता है और यह सुनिश्चित करता है कि अंतर्निहित से कोई अतिरिक्त डेटा लोड नहीं किया जाएगा[`DataStreamContainer`](../datastreamsupporter/datastreamcontainer/) . |
-| [CanSave](../../aspose.psd/image/cansave/)(ImageOptionsBase) | यह निर्धारित करता है कि छवि को पास किए गए सहेजे गए विकल्पों द्वारा दर्शाए गए निर्दिष्ट फ़ाइल स्वरूप में सहेजा जा सकता है या नहीं। |
-| override [Crop](../../aspose.psd/rastercachedimage/crop/#crop)(Rectangle) | इमेज को क्रॉप किया जा रहा है. |
-| virtual [Crop](../../aspose.psd/rasterimage/crop/)(int, int, int, int) | बदलाव के साथ छवि क्रॉप करें। |
-| [Dispose](../../aspose.psd/disposableobject/dispose/)() | वर्तमान उदाहरण का निपटान करता है। |
+| override [AdjustBrightness](../../aspose.psd/rastercachedimage/adjustbrightness/)(int) | छवि की चमक को समायोजित करता है। |
+| override [AdjustContrast](../../aspose.psd/rastercachedimage/adjustcontrast/)(float) | छवि कंट्रास्टिंग |
+| override [AdjustGamma](../../aspose.psd/rastercachedimage/adjustgamma/#adjustgamma)(float) | छवि का गामा-करेक्शन। |
+| override [AdjustGamma](../../aspose.psd/rastercachedimage/adjustgamma/#adjustgamma_1)(float, float, float) | छवि का गामा-करेक्शन। |
+| override [BinarizeBradley](../../aspose.psd/rastercachedimage/binarizebradley/#binarizebradley)(double) | ब्रैडली के अनुकूली थ्रेशहोल्डिंग एल्गोरिद्म का उपयोग करके इंटीग्रल इमेज थ्रेशहोल्डिंग के साथ छवि का बाइनरीकरण |
+| override [BinarizeBradley](../../aspose.psd/rastercachedimage/binarizebradley/#binarizebradley_1)(double, int) | ब्रैडली के अनुकूली थ्रेशहोल्डिंग एल्गोरिद्म का उपयोग करके इंटीग्रल इमेज थ्रेशहोल्डिंग के साथ छवि का बाइनरीकरण |
+| override [BinarizeFixed](../../aspose.psd/rastercachedimage/binarizefixed/)(byte) | पूर्वनिर्धारित थ्रेशोल्ड के साथ छवि का बाइनरीकरण |
+| override [BinarizeOtsu](../../aspose.psd/rastercachedimage/binarizeotsu/)() | ओट्सु थ्रेशोल्डिंग के साथ छवि का बाइनरीकरण |
+| override [CacheData](../../aspose.psd/rastercachedimage/cachedata/)() | डेटा को कैश करता है और सुनिश्चित करता है कि आधारभूत [`DataStreamContainer`](../datastreamsupporter/datastreamcontainer/) से कोई अतिरिक्त डेटा लोडिंग न हो। |
+| [CanSave](../../aspose.psd/image/cansave/)(ImageOptionsBase) | निर्धारित करता है कि क्या छवि को पास किए गए सहेजने विकल्पों द्वारा प्रतिनिधित्व किए गए निर्दिष्ट फ़ाइल फ़ॉर्मेट में सहेजा जा सकता है। |
+| override [Crop](../../aspose.psd/rastercachedimage/crop/#crop)(Rectangle) | छवि को क्रॉप करना। |
+| virtual [Crop](../../aspose.psd/rasterimage/crop/)(int, int, int, int) | शिफ्ट के साथ छवि को क्रॉप करें। |
+| [Dispose](../../aspose.psd/disposableobject/dispose/)() | वर्तमान इंस्टेंस को डिस्पोज़ करता है। |
 | [Dither](../../aspose.psd/rasterimage/dither/)(DitheringMethod, int) | वर्तमान छवि पर डिथरिंग करता है। |
 | override [Dither](../../aspose.psd/rastercachedimage/dither/#dither_1)(DitheringMethod, int, IColorPalette) | वर्तमान छवि पर डिथरिंग करता है। |
 | virtual [Filter](../../aspose.psd/rasterimage/filter/)(Rectangle, FilterOptionsBase) | निर्दिष्ट आयत को फ़िल्टर करता है। |
-| [GetArgb32Pixel](../../aspose.psd/rasterimage/getargb32pixel/)(int, int) | 32-बिट ARGB पिक्सेल की छवि प्राप्त करता है. |
-| [GetDefaultArgb32Pixels](../../aspose.psd/rasterimage/getdefaultargb32pixels/)(Rectangle) | डिफ़ॉल्ट 32-बिट ARGB पिक्सेल सरणी प्राप्त करता है. |
+| [GetArgb32Pixel](../../aspose.psd/rasterimage/getargb32pixel/)(int, int) | एक छवि का 32-बिट ARGB पिक्सेल प्राप्त करता है। |
+| [GetDefaultArgb32Pixels](../../aspose.psd/rasterimage/getdefaultargb32pixels/)(Rectangle) | डिफ़ॉल्ट 32-बिट ARGB पिक्सेल एरे प्राप्त करता है। |
 | virtual [GetDefaultOptions](../../aspose.psd/image/getdefaultoptions/)(object[]) | डिफ़ॉल्ट विकल्प प्राप्त करता है। |
-| [GetDefaultPixels](../../aspose.psd/rasterimage/getdefaultpixels/)(Rectangle, IPartialArgb32PixelLoader) | आंशिक पिक्सेल लोडर का उपयोग करके डिफ़ॉल्ट पिक्सेल सरणी प्राप्त करता है। |
-| [GetDefaultRawData](../../aspose.psd/rasterimage/getdefaultrawdata/)(Rectangle, RawDataSettings) | डिफ़ॉल्ट अपरिष्कृत डेटा सरणी प्राप्त करता है। |
-| [GetDefaultRawData](../../aspose.psd/rasterimage/getdefaultrawdata/)(Rectangle, IPartialRawDataLoader, RawDataSettings) | आंशिक पिक्सेल लोडर का उपयोग करके डिफ़ॉल्ट अपरिष्कृत डेटा सरणी प्राप्त करता है। |
-| virtual [GetModifyDate](../../aspose.psd/rasterimage/getmodifydate/)(bool) | वह दिनांक और समय प्राप्त करता है जब संसाधन छवि को अंतिम बार संशोधित किया गया था। |
-| virtual [GetOriginalOptions](../../aspose.psd/image/getoriginaloptions/)() | मूल फ़ाइल सेटिंग्स के आधार पर विकल्प प्राप्त करता है। यह बिट-डेप्थ और मूल छवि के अन्य मापदंडों को अपरिवर्तित रखने में मददगार हो सकता है। उदाहरण के लिए, यदि हम एक काले-सफेद PNG छवि को 1 बिट प्रति पिक्सेल के साथ लोड करते हैं और फिर इसे का उपयोग करके सहेजें[`Save`](../datastreamsupporter/save/) विधि, 8-बिट प्रति पिक्सेल के साथ आउटपुट पीएनजी छवि का उत्पादन किया जाएगा।[`Save`](../image/save/)दूसरे पैरामीटर के रूप में विधि। |
-| [GetPixel](../../aspose.psd/rasterimage/getpixel/)(int, int) | इमेज पिक्सेल प्राप्त करता है. |
-| [GetSkewAngle](../../aspose.psd/rasterimage/getskewangle/)() | तिरछा कोण प्राप्त करता है। स्कैन करते समय तिरछा कोण निर्धारित करने के लिए यह विधि स्कैन किए गए टेक्स्ट दस्तावेज़ों पर लागू होती है। |
-| override [Grayscale](../../aspose.psd/rastercachedimage/grayscale/)() | एक छवि का उसके ग्रेस्केल प्रतिनिधित्व में परिवर्तन |
-| [LoadArgb32Pixels](../../aspose.psd/rasterimage/loadargb32pixels/)(Rectangle) | 32-बिट ARGB पिक्सेल लोड करता है. |
-| [LoadArgb64Pixels](../../aspose.psd/rasterimage/loadargb64pixels/)(Rectangle) | 64-बिट ARGB पिक्सेल लोड करता है. |
-| [LoadCmyk32Pixels](../../aspose.psd/rasterimage/loadcmyk32pixels/)(Rectangle) | पिक्सेल को CMYK प्रारूप में लोड करता है. |
-| [LoadPartialArgb32Pixels](../../aspose.psd/rasterimage/loadpartialargb32pixels/)(Rectangle, IPartialArgb32PixelLoader) | 32-बिट ARGB पिक्सेल को पैक द्वारा आंशिक रूप से लोड करता है. |
-| [LoadPartialPixels](../../aspose.psd/rasterimage/loadpartialpixels/)(Rectangle, IPartialPixelLoader) | पिक्सेल को आंशिक रूप से पैक द्वारा लोड करता है. |
-| [LoadPixels](../../aspose.psd/rasterimage/loadpixels/)(Rectangle) | पिक्सेल लोड करता है. |
-| [LoadRawData](../../aspose.psd/rasterimage/loadrawdata/)(Rectangle, RawDataSettings, IPartialRawDataLoader) | अपरिष्कृत डेटा लोड करता है. |
-| [LoadRawData](../../aspose.psd/rasterimage/loadrawdata/)(Rectangle, Rectangle, RawDataSettings, IPartialRawDataLoader) | अपरिष्कृत डेटा लोड करता है. |
-| [NormalizeAngle](../../aspose.psd/rasterimage/normalizeangle/)() | कोण को सामान्य करता है। यह विधि तिरछी स्कैन से छुटकारा पाने के लिए स्कैन किए गए टेक्स्ट दस्तावेज़ों पर लागू होती है। यह विधि उपयोग करती है[`GetSkewAngle`](../rasterimage/getskewangle/) और[`Rotate`](../rasterimage/rotate/) तरीके. |
-| virtual [NormalizeAngle](../../aspose.psd/rasterimage/normalizeangle/)(bool, Color) | कोण को सामान्य करता है। यह विधि तिरछी स्कैन से छुटकारा पाने के लिए स्कैन किए गए टेक्स्ट दस्तावेज़ों पर लागू होती है। यह विधि उपयोग करती है[`GetSkewAngle`](../rasterimage/getskewangle/) और[`Rotate`](../rasterimage/rotate/) तरीके. |
-| [ReadArgb32ScanLine](../../aspose.psd/rasterimage/readargb32scanline/)(int) | निर्दिष्ट स्कैन लाइन इंडेक्स द्वारा पूरी स्कैन लाइन को पढ़ता है। |
-| [ReadScanLine](../../aspose.psd/rasterimage/readscanline/)(int) | निर्दिष्ट स्कैन लाइन इंडेक्स द्वारा पूरी स्कैन लाइन को पढ़ता है। |
-| [ReplaceColor](../../aspose.psd/rasterimage/replacecolor/)(Color, byte, Color) | अनुमत अंतर के साथ एक रंग को दूसरे रंग में बदलता है और चिकनी किनारों को बचाने के लिए मूल अल्फा मान को संरक्षित करता है। |
-| virtual [ReplaceColor](../../aspose.psd/rasterimage/replacecolor/)(int, byte, int) | अनुमत अंतर के साथ एक रंग को दूसरे रंग में बदलता है और चिकनी किनारों को बचाने के लिए मूल अल्फा मान को संरक्षित करता है। |
-| [ReplaceNonTransparentColors](../../aspose.psd/rasterimage/replacenontransparentcolors/)(Color) | सभी गैर-पारदर्शी रंगों को नए रंग से बदल देता है और चिकनी किनारों को बचाने के लिए मूल अल्फा मान को संरक्षित करता है। |
-| virtual [ReplaceNonTransparentColors](../../aspose.psd/rasterimage/replacenontransparentcolors/)(int) | सभी गैर-पारदर्शी रंगों को नए रंग से बदल देता है और चिकनी किनारों को बचाने के लिए मूल अल्फा मान को संरक्षित करता है। |
-| [Resize](../../aspose.psd/image/resize/)(int, int) | छवि का आकार बदलता है। डिफ़ॉल्टLeftTopToLeftTopप्रयोग किया जाता है. |
-| override [Resize](../../aspose.psd/rastercachedimage/resize/#resize_1)(int, int, ImageResizeSettings) | छवि का आकार बदलता है। |
-| override [Resize](../../aspose.psd/rastercachedimage/resize/#resize_2)(int, int, ResizeType) | छवि का आकार बदलता है। |
-| [ResizeHeightProportionally](../../aspose.psd/image/resizeheightproportionally/)(int) | ऊँचाई को आनुपातिक रूप से बदलता है। |
-| virtual [ResizeHeightProportionally](../../aspose.psd/image/resizeheightproportionally/)(int, ImageResizeSettings) | ऊँचाई को आनुपातिक रूप से बदलता है। |
-| virtual [ResizeHeightProportionally](../../aspose.psd/image/resizeheightproportionally/)(int, ResizeType) | ऊँचाई को आनुपातिक रूप से बदलता है। |
-| [ResizeWidthProportionally](../../aspose.psd/image/resizewidthproportionally/)(int) | आनुपातिक रूप से चौड़ाई का आकार बदलता है। |
-| virtual [ResizeWidthProportionally](../../aspose.psd/image/resizewidthproportionally/)(int, ImageResizeSettings) | आनुपातिक रूप से चौड़ाई का आकार बदलता है। |
-| virtual [ResizeWidthProportionally](../../aspose.psd/image/resizewidthproportionally/)(int, ResizeType) | आनुपातिक रूप से चौड़ाई का आकार बदलता है। |
-| virtual [Rotate](../../aspose.psd/rasterimage/rotate/)(float) | इमेज को बीच में घुमाएं. |
-| override [Rotate](../../aspose.psd/rastercachedimage/rotate/#rotate_1)(float, bool, Color) | इमेज को बीच में घुमाएं. |
-| override [RotateFlip](../../aspose.psd/rastercachedimage/rotateflip/)(RotateFlipType) | छवि को घुमाता है, फ़्लिप करता है या घुमाता है और फ़्लिप करता है. |
-| [Save](../../aspose.psd/image/save/)() | छवि डेटा को अंतर्निहित स्ट्रीम में सहेजता है। |
-| virtual [Save](../../aspose.psd/datastreamsupporter/save/)(Stream) | ऑब्जेक्ट के डेटा को निर्दिष्ट स्ट्रीम में सहेजता है। |
-| [Save](../../aspose.psd/datastreamsupporter/save/)(string) | ऑब्जेक्ट के डेटा को निर्दिष्ट फ़ाइल स्थान पर सहेजता है। |
-| [Save](../../aspose.psd/image/save/)(Stream, ImageOptionsBase) | इमेज के डेटा को सेव ऑप्शन के अनुसार निर्दिष्ट फ़ाइल प्रारूप में निर्दिष्ट स्ट्रीम में सहेजता है। |
-| virtual [Save](../../aspose.psd/datastreamsupporter/save/)(string, bool) | ऑब्जेक्ट के डेटा को निर्दिष्ट फ़ाइल स्थान पर सहेजता है। |
-| virtual [Save](../../aspose.psd/image/save/)(string, ImageOptionsBase) | ऑब्जेक्ट के डेटा को निर्दिष्ट फ़ाइल स्थान पर निर्दिष्ट फ़ाइल स्वरूप में सहेजें विकल्पों के अनुसार सहेजता है। |
-| override [Save](../../aspose.psd/rasterimage/save/)(Stream, ImageOptionsBase, Rectangle) | इमेज के डेटा को सेव ऑप्शन के अनुसार निर्दिष्ट फ़ाइल प्रारूप में निर्दिष्ट स्ट्रीम में सहेजता है। |
-| virtual [Save](../../aspose.psd/image/save/)(string, ImageOptionsBase, Rectangle) | ऑब्जेक्ट के डेटा को निर्दिष्ट फ़ाइल स्थान पर निर्दिष्ट फ़ाइल स्वरूप में सहेजें विकल्पों के अनुसार सहेजता है। |
-| [SaveArgb32Pixels](../../aspose.psd/rasterimage/saveargb32pixels/)(Rectangle, int[]) | 32-बिट ARGB पिक्सेल सहेजता है. |
-| [SaveCmyk32Pixels](../../aspose.psd/rasterimage/savecmyk32pixels/)(Rectangle, int[]) | पिक्सेल सहेजता है. |
-| [SavePixels](../../aspose.psd/rasterimage/savepixels/)(Rectangle, Color[]) | पिक्सेल सहेजता है. |
-| [SaveRawData](../../aspose.psd/rasterimage/saverawdata/)(byte[], int, Rectangle, RawDataSettings) | कच्चे डेटा को सहेजता है। |
-| [SetArgb32Pixel](../../aspose.psd/rasterimage/setargb32pixel/)(int, int, int) | निर्दिष्ट स्थान के लिए एक छवि 32-बिट ARGB पिक्सेल सेट करता है। |
-| override [SetPalette](../../aspose.psd/rasterimage/setpalette/)(IColorPalette, bool) | इमेज पैलेट सेट करता है. |
-| [SetPixel](../../aspose.psd/rasterimage/setpixel/)(int, int, Color) | निर्दिष्ट स्थान के लिए एक छवि पिक्सेल सेट करता है। |
-| virtual [SetResolution](../../aspose.psd/rasterimage/setresolution/)(double, double) | इसके लिए संकल्प सेट करता है[`RasterImage`](../rasterimage/) . |
-| virtual [ToBitmap](../../aspose.psd/rasterimage/tobitmap/)() | रेखापुंज छवि को बिटमैप में परिवर्तित करता है। |
-| [WriteArgb32ScanLine](../../aspose.psd/rasterimage/writeargb32scanline/)(int, int[]) | पूरी स्कैन लाइन को निर्दिष्ट स्कैन लाइन इंडेक्स में लिखता है। |
-| [WriteScanLine](../../aspose.psd/rasterimage/writescanline/)(int, Color[]) | पूरी स्कैन लाइन को निर्दिष्ट स्कैन लाइन इंडेक्स में लिखता है। |
+| [GetDefaultPixels](../../aspose.psd/rasterimage/getdefaultpixels/)(Rectangle, IPartialArgb32PixelLoader) | आंशिक पिक्सेल लोडर का उपयोग करके डिफ़ॉल्ट पिक्सेल एरे प्राप्त करता है। |
+| [GetDefaultRawData](../../aspose.psd/rasterimage/getdefaultrawdata/)(Rectangle, RawDataSettings) | डिफ़ॉल्ट रॉ डेटा एरे प्राप्त करता है। |
+| [GetDefaultRawData](../../aspose.psd/rasterimage/getdefaultrawdata/)(Rectangle, IPartialRawDataLoader, RawDataSettings) | आंशिक पिक्सेल लोडर का उपयोग करके डिफ़ॉल्ट रॉ डेटा एरे प्राप्त करता है। |
+| virtual [GetModifyDate](../../aspose.psd/rasterimage/getmodifydate/)(bool) | संसाधन छवि के अंतिम संशोधित होने की तिथि और समय प्राप्त करता है। |
+| virtual [GetOriginalOptions](../../aspose.psd/image/getoriginaloptions/)() | मूल फ़ाइल सेटिंग्स के आधार पर विकल्प प्राप्त करता है। यह मूल इमेज की बिट-डेप्थ और अन्य पैरामीटर को अपरिवर्तित रखने में सहायक हो सकता है। उदाहरण के लिए, यदि हम 1 बिट प्रति पिक्सेल के साथ काली-सफ़ेद PNG इमेज लोड करते हैं और फिर [`Save`](../datastreamsupporter/save/) मेथड का उपयोग करके इसे सहेजते हैं, तो आउटपुट PNG इमेज 8-बिट प्रति पिक्सेल के साथ उत्पन्न होगी। इसे रोकने और 1-बिट प्रति पिक्सेल के साथ PNG इमेज सहेजने के लिए, इस मेथड का उपयोग करके संबंधित सहेजने विकल्प प्राप्त करें और उन्हें दूसरे पैरामीटर के रूप में [`Save`](../image/save/) मेथड को पास करें। |
+| [GetPixel](../../aspose.psd/rasterimage/getpixel/)(int, int) | एक छवि पिक्सेल प्राप्त करता है। प्रदर्शन चेतावनी: सभी छवि पिक्सेल पर इटररेट करने के लिए इस मेथड का उपयोग करने से बचें क्योंकि इससे महत्वपूर्ण प्रदर्शन समस्याएँ हो सकती हैं। अधिक कुशल पिक्सेल हेरफेर के लिए, पूरे पिक्सेल एरे को एक साथ प्राप्त करने हेतु `LoadArgb32Pixels` मेथड का उपयोग करें। |
+| [GetSkewAngle](../../aspose.psd/rasterimage/getskewangle/)() | स्क्यू कोण प्राप्त करता है। यह मेथड स्कैन किए गए टेक्स्ट दस्तावेज़ों पर लागू होता है, स्कैनिंग के दौरान स्क्यू कोण निर्धारित करने के लिए। |
+| override [Grayscale](../../aspose.psd/rastercachedimage/grayscale/)() | छवि को उसके ग्रेस्केल प्रतिनिधित्व में रूपांतरित करना |
+| [LoadArgb32Pixels](../../aspose.psd/rasterimage/loadargb32pixels/)(Rectangle) | 32-बिट ARGB पिक्सेल लोड करता है। |
+| [LoadArgb64Pixels](../../aspose.psd/rasterimage/loadargb64pixels/)(Rectangle) | 64-बिट ARGB पिक्सेल लोड करता है। |
+| [LoadCmyk32Pixels](../../aspose.psd/rasterimage/loadcmyk32pixels/)(Rectangle) | CMYK फ़ॉर्मेट में पिक्सेल लोड करता है। |
+| [LoadCmykPixels](../../aspose.psd/rasterimage/loadcmykpixels/)(Rectangle) | CMYK फ़ॉर्मेट में पिक्सेल लोड करता है। यह मेथड अप्रचलित है। कृपया अधिक प्रभावी [`LoadCmyk32Pixels`](../rasterimage/loadcmyk32pixels/) मेथड का उपयोग करें। |
+| [LoadPartialArgb32Pixels](../../aspose.psd/rasterimage/loadpartialargb32pixels/)(Rectangle, IPartialArgb32PixelLoader) | पैक्स द्वारा आंशिक रूप से 32-बिट ARGB पिक्सेल लोड करता है। |
+| [LoadPartialPixels](../../aspose.psd/rasterimage/loadpartialpixels/)(Rectangle, IPartialPixelLoader) | पैक्स द्वारा आंशिक रूप से पिक्सेल लोड करता है। |
+| [LoadPixels](../../aspose.psd/rasterimage/loadpixels/)(Rectangle) | पिक्सेल लोड करता है। |
+| [LoadRawData](../../aspose.psd/rasterimage/loadrawdata/)(Rectangle, RawDataSettings, IPartialRawDataLoader) | कच्चा डेटा लोड करता है। |
+| [LoadRawData](../../aspose.psd/rasterimage/loadrawdata/)(Rectangle, Rectangle, RawDataSettings, IPartialRawDataLoader) | कच्चा डेटा लोड करता है। |
+| [NormalizeAngle](../../aspose.psd/rasterimage/normalizeangle/)() | कोण को सामान्यीकृत करता है। यह मेथड स्कैन किए गए टेक्स्ट दस्तावेज़ों पर विकृत स्कैन को हटाने के लिए लागू होता है। यह मेथड [`GetSkewAngle`](../rasterimage/getskewangle/) और [`Rotate`](../rasterimage/rotate/) मेथड्स का उपयोग करता है। |
+| virtual [NormalizeAngle](../../aspose.psd/rasterimage/normalizeangle/)(bool, Color) | कोण को सामान्यीकृत करता है। यह मेथड स्कैन किए गए टेक्स्ट दस्तावेज़ों पर विकृत स्कैन को हटाने के लिए लागू होता है। यह मेथड [`GetSkewAngle`](../rasterimage/getskewangle/) और [`Rotate`](../rasterimage/rotate/) मेथड्स का उपयोग करता है। |
+| [ReadArgb32ScanLine](../../aspose.psd/rasterimage/readargb32scanline/)(int) | निर्दिष्ट स्कैन लाइन इंडेक्स द्वारा पूरी स्कैन लाइन पढ़ता है। |
+| [ReadScanLine](../../aspose.psd/rasterimage/readscanline/)(int) | निर्दिष्ट स्कैन लाइन इंडेक्स द्वारा पूरी स्कैन लाइन पढ़ता है। |
+| [ReplaceColor](../../aspose.psd/rasterimage/replacecolor/)(Color, byte, Color) | अनुमत अंतर के साथ एक रंग को दूसरे से बदलता है और स्मूद एजेज़ को बचाने के लिए मूल अल्फा वैल्यू को संरक्षित रखता है। |
+| virtual [ReplaceColor](../../aspose.psd/rasterimage/replacecolor/)(int, byte, int) | अनुमत अंतर के साथ एक रंग को दूसरे से बदलता है और स्मूद एजेज़ को बचाने के लिए मूल अल्फा वैल्यू को संरक्षित रखता है। |
+| [ReplaceNonTransparentColors](../../aspose.psd/rasterimage/replacenontransparentcolors/)(Color) | सभी गैर-ट्रांसपेरेंट रंगों को नए रंग से बदलता है और स्मूद एजेज़ को बचाने के लिए मूल अल्फा वैल्यू को संरक्षित रखता है। नोट: यदि आप इसे बिना ट्रांसपेरेंसी वाली इमेज पर उपयोग करते हैं, तो सभी रंग एक ही रंग से बदल दिए जाएंगे। |
+| virtual [ReplaceNonTransparentColors](../../aspose.psd/rasterimage/replacenontransparentcolors/)(int) | सभी गैर-ट्रांसपेरेंट रंगों को नए रंग से बदलता है और स्मूद एजेज़ को बचाने के लिए मूल अल्फा वैल्यू को संरक्षित रखता है। नोट: यदि आप इसे बिना ट्रांसपेरेंसी वाली इमेज पर उपयोग करते हैं, तो सभी रंग एक ही रंग से बदल दिए जाएंगे। |
+| [Resize](../../aspose.psd/image/resize/)(int, int) | इमेज का आकार बदलता है। डिफ़ॉल्ट NearestNeighbourResample उपयोग किया जाता है। |
+| override [Resize](../../aspose.psd/rastercachedimage/resize/#resize_1)(int, int, ImageResizeSettings) | इमेज का आकार बदलता है। |
+| override [Resize](../../aspose.psd/rastercachedimage/resize/#resize_2)(int, int, ResizeType) | इमेज का आकार बदलता है। |
+| [ResizeHeightProportionally](../../aspose.psd/image/resizeheightproportionally/)(int) | ऊँचाई को अनुपातिक रूप से बदलता है। |
+| virtual [ResizeHeightProportionally](../../aspose.psd/image/resizeheightproportionally/)(int, ImageResizeSettings) | ऊँचाई को अनुपातिक रूप से बदलता है। |
+| virtual [ResizeHeightProportionally](../../aspose.psd/image/resizeheightproportionally/)(int, ResizeType) | ऊँचाई को अनुपातिक रूप से बदलता है। |
+| [ResizeWidthProportionally](../../aspose.psd/image/resizewidthproportionally/)(int) | चौड़ाई को अनुपातिक रूप से बदलता है। डिफ़ॉल्ट NearestNeighbourResample उपयोग किया जाता है। |
+| virtual [ResizeWidthProportionally](../../aspose.psd/image/resizewidthproportionally/)(int, ImageResizeSettings) | चौड़ाई को अनुपातिक रूप से बदलता है। |
+| virtual [ResizeWidthProportionally](../../aspose.psd/image/resizewidthproportionally/)(int, ResizeType) | चौड़ाई को अनुपातिक रूप से बदलता है। |
+| virtual [Rotate](../../aspose.psd/rasterimage/rotate/)(float) | इमेज को केंद्र के चारों ओर घुमाता है। |
+| override [Rotate](../../aspose.psd/rastercachedimage/rotate/#rotate_1)(float, bool, Color) | इमेज को केंद्र के चारों ओर घुमाता है। |
+| override [RotateFlip](../../aspose.psd/rastercachedimage/rotateflip/)(RotateFlipType) | इमेज को घुमाता है, फ़्लिप करता है, या घुमाकर फ़्लिप करता है। |
+| [Save](../../aspose.psd/image/save/)() | इमेज डेटा को अंतर्निहित स्ट्रीम में सहेजता है। |
+| virtual [Save](../../aspose.psd/datastreamsupporter/save/)(Stream) | ऑब्जेक्ट का डेटा निर्दिष्ट स्ट्रीम में सहेजता है। |
+| [Save](../../aspose.psd/datastreamsupporter/save/)(string) | ऑब्जेक्ट का डेटा निर्दिष्ट फ़ाइल स्थान पर सहेजता है। |
+| [Save](../../aspose.psd/image/save/)(Stream, ImageOptionsBase) | इमेज का डेटा निर्दिष्ट फ़ाइल फ़ॉर्मेट में, सहेजने के विकल्पों के अनुसार, निर्दिष्ट स्ट्रीम में सहेजता है। |
+| virtual [Save](../../aspose.psd/datastreamsupporter/save/)(string, bool) | ऑब्जेक्ट का डेटा निर्दिष्ट फ़ाइल स्थान पर सहेजता है। |
+| virtual [Save](../../aspose.psd/image/save/)(string, ImageOptionsBase) | ऑब्जेक्ट का डेटा सहेजने के विकल्पों के अनुसार, निर्दिष्ट फ़ाइल फ़ॉर्मेट में, निर्दिष्ट फ़ाइल स्थान पर सहेजता है। |
+| override [Save](../../aspose.psd/rasterimage/save/)(Stream, ImageOptionsBase, Rectangle) | इमेज का डेटा निर्दिष्ट फ़ाइल फ़ॉर्मेट में, सहेजने के विकल्पों के अनुसार, निर्दिष्ट स्ट्रीम में सहेजता है। |
+| virtual [Save](../../aspose.psd/image/save/)(string, ImageOptionsBase, Rectangle) | ऑब्जेक्ट का डेटा सहेजने के विकल्पों के अनुसार, निर्दिष्ट फ़ाइल फ़ॉर्मेट में, निर्दिष्ट फ़ाइल स्थान पर सहेजता है। |
+| [SaveArgb32Pixels](../../aspose.psd/rasterimage/saveargb32pixels/)(Rectangle, int[]) | 32-बिट ARGB पिक्सेल को सहेजता है। |
+| [SaveCmyk32Pixels](../../aspose.psd/rasterimage/savecmyk32pixels/)(Rectangle, int[]) | पिक्सेल को सहेजता है। |
+| [SaveCmykPixels](../../aspose.psd/rasterimage/savecmykpixels/)(Rectangle, CmykColor[]) | पिक्सेल को सहेजता है। यह मेथड अप्रचलित है। कृपया अधिक प्रभावी [`SaveCmyk32Pixels`](../rasterimage/savecmyk32pixels/) मेथड का उपयोग करें। |
+| [SavePixels](../../aspose.psd/rasterimage/savepixels/)(Rectangle, Color[]) | पिक्सेल को सहेजता है। |
+| [SaveRawData](../../aspose.psd/rasterimage/saverawdata/)(byte[], int, Rectangle, RawDataSettings) | कच्चा डेटा सहेजता है। |
+| [SetArgb32Pixel](../../aspose.psd/rasterimage/setargb32pixel/)(int, int, int) | निर्दिष्ट स्थिति के लिए इमेज का 32-बिट ARGB पिक्सेल सेट करता है। |
+| override [SetPalette](../../aspose.psd/rasterimage/setpalette/)(IColorPalette, bool) | इमेज पैलेट सेट करता है। |
+| [SetPixel](../../aspose.psd/rasterimage/setpixel/)(int, int, Color) | निर्दिष्ट स्थिति के लिए इमेज पिक्सेल सेट करता है। |
+| virtual [SetResolution](../../aspose.psd/rasterimage/setresolution/)(double, double) | इस [`RasterImage`](../rasterimage/) की रेज़ोल्यूशन सेट करता है। |
+| virtual [ToBitmap](../../aspose.psd/rasterimage/tobitmap/)() | रास्टर इमेज को बिटमैप में बदलता है। |
+| [WriteArgb32ScanLine](../../aspose.psd/rasterimage/writeargb32scanline/)(int, int[]) | पूरी स्कैन लाइन को निर्दिष्ट स्कैन लाइन इंडेक्स पर लिखता है। |
+| [WriteScanLine](../../aspose.psd/rasterimage/writescanline/)(int, Color[]) | पूरी स्कैन लाइन को निर्दिष्ट स्कैन लाइन इंडेक्स पर लिखता है। |
 
-### उदाहरण
+## उदाहरण
 
-निम्न कोड विशिष्ट आयत द्वारा छवि को क्रॉप करने की क्षमता प्रदर्शित करता है।
+निम्नलिखित कोड विशिष्ट आयत द्वारा छवि को क्रॉप करने की क्षमता दर्शाता है।
 
 ```csharp
 [C#]
@@ -183,18 +187,18 @@ using (var image = (PsdImage)Image.Load(sourceFileName))
         top += layers[i].Height;
     }
 
-    // पीएसडी बचाओ
+    // psd सहेजें
     image.Save(exportPath, new PsdOptions());
 
-    // पीएनजी सहेजें
+    // png सहेजें
     image.Save(exportPathPng, new PngOptions());
 }
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * class [RasterImage](../rasterimage/)
-* नाम स्थान [Aspose.PSD](../../aspose.psd/)
-* सभा [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

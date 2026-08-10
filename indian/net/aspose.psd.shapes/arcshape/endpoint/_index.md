@@ -1,28 +1,29 @@
 ---
-title: ArcShape.EndPoint
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: ArcShape संपत्त. अंतम आकर बंदु प्रप्त करत है
+title: "ArcShape.EndPoint"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "ArcShape प्रॉपर्टी। आकार के अंतिम बिंदु को प्राप्त करता है।"
 type: docs
 weight: 20
 url: /hi/net/aspose.psd.shapes/arcshape/endpoint/
 ---
+{{< psd/tize >}}
 ## ArcShape.EndPoint property
 
-अंतिम आकार बिंदु प्राप्त करता है।
+समाप्ति आकार बिंदु को प्राप्त करता है।
 
 ```csharp
 public PointF EndPoint { get; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-अंतिम आकार बिंदु।
+समाप्ति आकार बिंदु।
 
-### यह सभी देखें
+### देखें भी
 
 * struct [PointF](../../../aspose.psd/pointf/)
 * class [ArcShape](../)
-* नाम स्थान [Aspose.PSD.Shapes](../../arcshape/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 

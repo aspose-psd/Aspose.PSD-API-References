@@ -1,27 +1,28 @@
 ---
-title: ColorRangeHsl.Hue
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: ColorRangeHsl संपत्त. ह्यू ह जत है य सेट करत है
+title: "ColorRangeHsl.Hue"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "ColorRangeHsl प्रॉपर्टी. ह्यू को प्राप्त करता है या सेट करता है"
 type: docs
 weight: 20
 url: /hi/net/aspose.psd.fileformats.psd.layers.layerresources/colorrangehsl/hue/
 ---
+{{< psd/tize >}}
 ## ColorRangeHsl.Hue property
 
-ह्यू हो जाता है या सेट करता है।
+ह्यू प्राप्त करता है या सेट करता है।
 
 ```csharp
 public short Hue { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-ह्यू.
+यह hue।
 
-### यह सभी देखें
+### देखें भी
 
 * class [ColorRangeHsl](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../colorrangehsl/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

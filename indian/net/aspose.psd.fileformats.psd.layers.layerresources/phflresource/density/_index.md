@@ -1,27 +1,28 @@
 ---
-title: PhflResource.Density
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: PhflResource संपत्त. घनत्व प्रप्त य सेट करत है
+title: "PhflResource.Density"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "PhflResource प्रॉपर्टी। घनत्व प्राप्त करता है या सेट करता है"
 type: docs
 weight: 10
 url: /hi/net/aspose.psd.fileformats.psd.layers.layerresources/phflresource/density/
 ---
+{{< psd/tize >}}
 ## PhflResource.Density property
 
-घनत्व प्राप्त या सेट करता है।
+घनत्व को प्राप्त करता है या सेट करता है।
 
 ```csharp
 public int Density { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
 घनत्व।
 
-### यह सभी देखें
+### देखें भी
 
 * class [PhflResource](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../phflresource/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

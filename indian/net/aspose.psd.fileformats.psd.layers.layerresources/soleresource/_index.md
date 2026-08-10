@@ -1,14 +1,15 @@
 ---
-title: Class SoLeResource
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.SoLeResource कक्ष. SoLeResource वर्ग क परभषत करत है जसमें PSD फ़इल में स्मर्ट ऑब्जेक्ट परत के बरे में जनकर हत है क उपयग Adobe Photoshop छवयं में बहर फ़इल लंक के सथ स्मर्ट ऑब्जेक्ट परतं क समर्थन करने के लए कय जत है
+title: "क्लास SoLeResource"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Aspose.PSD.FileFormats.Psd.Layers.LayerResources.SoLeResource क्लास। SoLeResource क्लास को परिभाषित करता है जो PSD फ़ाइल में एक स्मार्ट ऑब्जेक्ट लेयर के बारे में जानकारी रखता है। इसका उपयोग Adobe Photoshop छवियों में बाहरी फ़ाइल लिंक वाले स्मार्ट ऑब्जेक्ट लेयर्स को समर्थन देने के लिए किया जाता है।"
 type: docs
-weight: 3030
+weight: 3380
 url: /hi/net/aspose.psd.fileformats.psd.layers.layerresources/soleresource/
 ---
+{{< psd/tize >}}
 ## SoLeResource class
 
-SoLeResource वर्ग को परिभाषित करता है जिसमें PSD फ़ाइल में स्मार्ट ऑब्जेक्ट परत के बारे में जानकारी होती है। का उपयोग Adobe® Photoshop® छवियों में बाहरी फ़ाइल लिंक के साथ स्मार्ट ऑब्जेक्ट परतों का समर्थन करने के लिए किया जाता है।
+SoLeResource क्लास को परिभाषित करता है जो PSD फ़ाइल में एक स्मार्ट ऑब्जेक्ट लेयर के बारे में जानकारी रखती है। यह Adobe� Photoshop� छवियों में बाहरी फ़ाइल लिंक वाले स्मार्ट ऑब्जेक्ट लेयर्स को समर्थन देने के लिए उपयोग किया जाता है।
 
 ```csharp
 public class SoLeResource : SmartObjectResource
@@ -18,72 +19,72 @@ public class SoLeResource : SmartObjectResource
 
 | नाम | विवरण |
 | --- | --- |
-| [SoLeResource](soleresource/#constructor)() | का एक नया उदाहरण प्रारंभ करता है`SoLeResource` वर्ग. |
-| [SoLeResource](soleresource/#constructor_1)(Guid, bool, bool) | का एक नया उदाहरण प्रारंभ करता है`SoLeResource` वर्ग. |
+| [SoLeResource](soleresource/#constructor)() | `SoLeResource` क्लास का एक नया उदाहरण प्रारंभ करता है। |
+| [SoLeResource](soleresource/#constructor_1)(Guid, bool, bool) | `SoLeResource` क्लास का एक नया उदाहरण प्रारंभ करता है। |
 
-## गुण
+## प्रॉपर्टीज़
 
 | नाम | विवरण |
 | --- | --- |
-| override [AntiAliasPolicy](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/antialiaspolicy/) { get; set; } | PSD छवि में स्मार्ट ऑब्जेक्ट परत डेटा की अन्य उपनाम नीति प्राप्त या सेट करता है। |
-| [Bottom](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/bottom/) { get; set; } | PSD छवि में रखी परत के निचले स्थान को प्राप्त या सेट करता है। |
-| [Bounds](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/bounds/) { get; set; } | PSD फ़ाइल में रखी परत की सीमा प्राप्त या सेट करता है। |
-| [Comp](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/comp/) { get; set; } | PSD फ़ाइल में स्मार्ट ऑब्जेक्ट लेयर डेटा का कॉम्प वैल्यू प्राप्त या सेट करता है। [स्मार्ट ऑब्जेक्ट्स में लेयर कंप्स](https://helpx.adobe.com/photoshop/using/layer-comps.html) |
-| [CompId](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/compid/) { get; set; } | चाइल्ड दस्तावेज़ के लिए वर्तमान में चयनित COMP की आईडी प्राप्त या सेट करता है, जो -1 होगा यदि कोई भी चयनित नहीं है। Comps पृष्ठ लेआउट की रचनाएँ हैं जो डिज़ाइनर बना सकते हैं। लेयर कंप्स का उपयोग करके, आप एक ही Adobe® Photoshop® फ़ाइल में लेआउट के कई संस्करण बना, प्रबंधित और देख सकते हैं। एक परत कॉम्प परत पैनल की स्थिति का एक स्नैपशॉट है। परत कम्पास तीन प्रकार के परत विकल्पों को सहेजते हैं लेकिन यह संपत्ति PSD फ़ाइल में स्मार्ट ऑब्जेक्ट परत के लिए परत कॉम्प चयन पहचानकर्ता प्राप्त करती है। [स्मार्ट ऑब्जेक्ट्स में लेयर कंप्स](https://helpx.adobe.com/photoshop/using/layer-comps.html) |
-| [Crop](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/crop/) { get; set; } | PSD इमेज में स्मार्ट ऑब्जेक्ट लेयर डेटा का क्रॉप प्राप्त या सेट करता है। |
-| [DurationDenominator](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/durationdenominator/) { get; set; } | अवधि भाजक प्राप्त या सेट करता है। |
-| [DurationNumerator](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/durationnumerator/) { get; set; } | अवधि अंश प्राप्त या सेट करता है। |
-| [FrameCount](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/framecount/) { get; set; } | PSD फ़ाइल में स्मार्ट ऑब्जेक्ट लेयर डेटा की फ्रेम संख्या प्राप्त या सेट करता है। |
-| [FrameStepDenominator](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/framestepdenominator/) { get; set; } | फ्रेम स्टेप डिनोमिनेटर प्राप्त या सेट करता है। |
-| [FrameStepNumerator](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/framestepnumerator/) { get; set; } | फ्रेम चरण अंश को प्राप्त या सेट करता है। |
-| [Height](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/height/) { get; set; } | ऊंचाई प्राप्त या सेट करता है। |
-| [HorizontalMeshPoints](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/horizontalmeshpoints/) { get; set; } | PSD फ़ाइल में रखी गई परत के क्षैतिज जाल बिंदुओं को प्राप्त या सेट करता है। |
-| [HorizontalMeshPointUnit](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/horizontalmeshpointunit/) { get; set; } | क्षैतिज जाल बिंदुओं की माप इकाई प्राप्त या सेट करता है। |
-| [IsCustom](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/iscustom/) { get; set; } | एक मान प्राप्त या सेट करता है जो इंगित करता है कि क्या यह उदाहरण ताना शैली कस्टम है। यदि सही है तो इसमें जाल बिंदु शामिल हैं। अगर असत्य पर सेट किया जाता है तो यह जाली बिंदुओं को मिटा देता है. |
-| override [Items](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/items/) { get; set; } | PSD फ़ाइल में स्मार्ट ऑब्जेक्ट लेयर डेटा के डिस्क्रिप्टर आइटम प्राप्त या सेट करता है। |
-| override [Key](../../aspose.psd.fileformats.psd.layers.layerresources/soleresource/key/) { get; } | सोल स्मार्ट ऑब्जेक्ट लेयर संसाधन कुंजी प्राप्त करता है. |
-| [Left](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/left/) { get; set; } | PSD फ़ाइल में रखी गई परत के बाएं स्थान को प्राप्त या सेट करता है। |
-| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/length/) { get; } | बाइट्स में स्मार्ट ऑब्जेक्ट संसाधन लंबाई प्राप्त करता है। |
-| [NonAffineTransformMatrix](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/nonaffinetransformmatrix/) { get; set; } | PSD फ़ाइल में स्मार्ट ऑब्जेक्ट लेयर डेटा के नॉन एफाइन ट्रांसफ़ॉर्म मैट्रिक्स को प्राप्त या सेट करता है। |
-| [OriginalCompId](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/originalcompid/) { get; } | चाइल्ड दस्तावेज़ के लिए वर्तमान में चयनित कॉम्प की मूल आईडी प्राप्त करता है, जो -1 होगा यदि कोई भी चयनित नहीं है। यह संपत्ति PSD फ़ाइल में स्मार्ट ऑब्जेक्ट परत के लिए मूल परत कॉम्प चयन पहचानकर्ता प्राप्त करती है। [स्मार्ट ऑब्जेक्ट्स में लेयर कंप्स](https://helpx.adobe.com/photoshop/using/layer-comps.html) |
-| override [PageNumber](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/pagenumber/) { get; set; } | PSD फ़ाइल में स्मार्ट ऑब्जेक्ट लेयर डेटा का पेज नंबर प्राप्त या सेट करता है। |
-| [Perspective](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/perspective/) { get; set; } | PSD फ़ाइल में रखी गई परत का परिप्रेक्ष्य मान प्राप्त या सेट करता है। |
-| [PerspectiveOther](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/perspectiveother/) { get; set; } | PSD फ़ाइल में रखी गई परत के परिप्रेक्ष्य को अन्य मान देता है या सेट करता है। |
-| [PlacedId](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/placedid/) { get; set; } | PSD इमेज में इस स्मार्ट ऑब्जेक्ट लेयर डेटा का विशिष्ट पहचानकर्ता प्राप्त या सेट करता है। |
-| override [PlacedLayerType](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/placedlayertype/) { get; set; } | PSD फ़ाइल में स्मार्ट ऑब्जेक्ट लेयर डेटा का प्रकार प्राप्त या सेट करता है। |
-| override [PsdVersion](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/psdversion/) { get; } | स्मार्ट ऑब्जेक्ट संसाधन के लिए आवश्यक न्यूनतम पीएसडी संस्करण प्राप्त करता है। 0 कोई प्रतिबंध नहीं दर्शाता है। |
-| [Resolution](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/resolution/) { get; set; } | PSD फ़ाइल में स्मार्ट ऑब्जेक्ट लेयर डेटा का रिज़ॉल्यूशन प्राप्त या सेट करता है। |
-| [ResolutionUnit](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/resolutionunit/) { get; set; } | PSD फ़ाइल में स्मार्ट ऑब्जेक्ट लेयर डेटा की रिज़ॉल्यूशन माप इकाई प्राप्त या सेट करता है। |
-| [Right](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/right/) { get; set; } | PSD फ़ाइल में रखी गई परत का सही स्थान प्राप्त या सेट करता है। |
-| override [Signature](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/signature/) { get; } | स्मार्ट ऑब्जेक्ट संसाधन हस्ताक्षर प्राप्त करता है। |
-| [Top](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/top/) { get; set; } | PSD छवि में रखी परत के शीर्ष स्थान को प्राप्त या सेट करता है। |
-| override [TotalPages](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/totalpages/) { get; set; } | PSD फ़ाइल में स्मार्ट ऑब्जेक्ट लेयर डेटा की कुल पृष्ठ संख्या प्राप्त या सेट करता है। |
-| override [TransformMatrix](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/transformmatrix/) { get; set; } | PSD फ़ाइल में स्मार्ट ऑब्जेक्ट लेयर डेटा के ट्रांसफ़ॉर्म मैट्रिक्स को प्राप्त या सेट करता है। |
-| override [UniqueId](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/uniqueid/) { get; set; } | स्मार्ट ऑब्जेक्ट लेयर डेटा का ग्लोबल यूनीक आइडेंटिफ़ायर प्राप्त या सेट करता है[`SmartObjectResource`](../smartobjectresource/) PSD छवि में। |
-| [UOrder](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/uorder/) { get; set; } | PSD फ़ाइल में रखी गई परत का यू ऑर्डर मान प्राप्त या सेट करता है। |
-| [Value](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/value/) { get; set; } | PSD छवि में रखी गई परत का ताना मान प्राप्त करता है या सेट करता है। |
-| [Version](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/version/) { get; } | PSD फ़ाइल में रखी गई परत का संस्करण प्राप्त करता है, आमतौर पर 3. |
-| [VerticalMeshPoints](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/verticalmeshpoints/) { get; set; } | PSD फ़ाइल में रखी गई परत के क्षैतिज जाल बिंदुओं को प्राप्त या सेट करता है। |
-| [VerticalMeshPointUnit](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/verticalmeshpointunit/) { get; set; } | ऊर्ध्वाधर जाल बिंदुओं की माप इकाई प्राप्त या सेट करता है। |
-| [VOrder](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/vorder/) { get; set; } | PSD फ़ाइल में रखी परत का V क्रम मान प्राप्त या सेट करता है। |
-| [Width](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/width/) { get; set; } | चौड़ाई प्राप्त या सेट करता है। |
+| override [AntiAliasPolicy](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/antialiaspolicy/) { get; set; } | PSD छवि में स्मार्ट ऑब्जेक्ट लेयर डेटा की एंटी-एलियास नीति को प्राप्त करता है या सेट करता है। |
+| [Bottom](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/bottom/) { get; set; } | PSD छवि में रखी गई लेयर के नीचे स्थान को प्राप्त करता है या सेट करता है। |
+| [Bounds](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/bounds/) { get; set; } | PSD फ़ाइल में रखी गई लेयर की सीमाओं को प्राप्त करता है या सेट करता है। |
+| [Comp](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/comp/) { get; set; } | PSD फ़ाइल में स्मार्ट ऑब्जेक्ट लेयर डेटा के कंप मान को प्राप्त करता है या सेट करता है। [Layer comps in Smart Objects](https://helpx.adobe.com/photoshop/using/layer-comps.html) |
+| [CompId](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/compid/) { get; set; } | वर्तमान में चयनित कंप का ID प्राप्त करता है या सेट करता है चाइल्ड दस्तावेज़ के लिए, यदि कोई चयनित नहीं है तो यह -1 होगा। कंप पेज लेआउट की रचनाएँ हैं जिन्हें डिजाइनर बना सकते हैं। लेयर कंप्स का उपयोग करके, आप एक ही Adobe Photoshop फ़ाइल में लेआउट के कई संस्करण बना, प्रबंधित और देख सकते हैं। एक लेयर कंप लेयर्स पैनल की स्थिति का स्नैपशॉट है। लेयर कंप्स तीन प्रकार के लेयर विकल्पों को सहेजते हैं लेकिन यह प्रॉपर्टी PSD फ़ाइल में स्मार्ट ऑब्जेक्ट लेयर के लिए लेयर कंप चयन पहचानकर्ता प्राप्त करती है। [Layer comps in Smart Objects](https://helpx.adobe.com/photoshop/using/layer-comps.html) |
+| [Crop](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/crop/) { get; set; } | PSD छवि में स्मार्ट ऑब्जेक्ट लेयर डेटा की क्रॉप को प्राप्त करता है या सेट करता है। |
+| [DurationDenominator](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/durationdenominator/) { get; set; } | अवधि हर (डिनॉमिनेटर) को प्राप्त करता है या सेट करता है। |
+| [DurationNumerator](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/durationnumerator/) { get; set; } | अवधि अंश को प्राप्त करता है या सेट करता है। |
+| [FrameCount](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/framecount/) { get; set; } | PSD फ़ाइल में स्मार्ट ऑब्जेक्ट लेयर डेटा की फ्रेम गिनती को प्राप्त करता है या सेट करता है। |
+| [FrameStepDenominator](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/framestepdenominator/) { get; set; } | फ़्रेम स्टेप हर को प्राप्त करता है या सेट करता है। |
+| [FrameStepNumerator](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/framestepnumerator/) { get; set; } | फ़्रेम स्टेप अंश को प्राप्त करता है या सेट करता है। |
+| [Height](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/height/) { get; set; } | ऊँचाई को प्राप्त करता है या सेट करता है। |
+| [HorizontalMeshPoints](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/horizontalmeshpoints/) { get; set; } | PSD फ़ाइल में रखी गई लेयर के क्षैतिज मेष बिंदुओं को प्राप्त करता है या सेट करता है। |
+| [HorizontalMeshPointUnit](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/horizontalmeshpointunit/) { get; set; } | क्षैतिज मेष बिंदुओं की माप इकाई को प्राप्त करता है या सेट करता है। |
+| [IsCustom](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/iscustom/) { get; set; } | इस उदाहरण के वार्प शैली कस्टम है या नहीं, यह दर्शाने वाला मान प्राप्त करता है या सेट करता है। यदि true है तो इसमें मेष बिंदु होते हैं। यदि false सेट किया जाता है तो मेष बिंदु मिटा दिए जाते हैं। |
+| override [Items](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/items/) { get; set; } | PSD फ़ाइल में स्मार्ट ऑब्जेक्ट लेयर डेटा के डिस्क्रिप्टर आइटम्स को प्राप्त करता है या सेट करता है। |
+| [Key](../../aspose.psd.fileformats.psd.layers/layerresource/key/) { get; } | लेयर रिसोर्स कुंजी प्राप्त करता है। |
+| [Left](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/left/) { get; set; } | PSD फ़ाइल में रखी गई लेयर के बाएँ स्थान को प्राप्त करता है या सेट करता है। |
+| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/length/) { get; } | स्मार्ट ऑब्जेक्ट संसाधन की लंबाई बाइट्स में प्राप्त करता है। |
+| [NonAffineTransformMatrix](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/nonaffinetransformmatrix/) { get; set; } | PSD फ़ाइल में स्मार्ट ऑब्जेक्ट लेयर डेटा के नॉन‑अफ़ाइन ट्रांसफ़ॉर्म मैट्रिक्स को प्राप्त करता है या सेट करता है। |
+| [OriginalCompId](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/originalcompid/) { get; } | चाइल्ड दस्तावेज़ के लिए वर्तमान में चयनित Comp का मूल ID प्राप्त करता है, यदि कोई चयनित नहीं है तो यह -1 होगा। यह प्रॉपर्टी PSD फ़ाइल में स्मार्ट ऑब्जेक्ट लेयर के लिए मूल लेयर Comp चयन पहचानकर्ता प्राप्त करती है। [Layer comps in Smart Objects](https://helpx.adobe.com/photoshop/using/layer-comps.html) |
+| override [PageNumber](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/pagenumber/) { get; set; } | PSD फ़ाइल में स्मार्ट ऑब्जेक्ट लेयर डेटा का पेज नंबर प्राप्त करता है या सेट करता है। |
+| [Perspective](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/perspective/) { get; set; } | PSD फ़ाइल में रखी गई लेयर के परिप्रेक्ष्य मान को प्राप्त करता है या सेट करता है। |
+| [PerspectiveOther](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/perspectiveother/) { get; set; } | PSD फ़ाइल में रखी गई लेयर के अन्य परिप्रेक्ष्य मान को प्राप्त करता है या सेट करता है। |
+| [PlacedId](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/placedid/) { get; set; } | PSD इमेज में इस स्मार्ट ऑब्जेक्ट लेयर डेटा की विशिष्ट पहचानकर्ता को प्राप्त करता है या सेट करता है। |
+| override [PlacedLayerType](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/placedlayertype/) { get; set; } | PSD फ़ाइल में स्मार्ट ऑब्जेक्ट लेयर डेटा के प्रकार को प्राप्त करता है या सेट करता है। |
+| virtual [PsdVersion](../../aspose.psd.fileformats.psd.layers/layerresource/psdversion/) { get; } | लेयर रिसोर्स के लिए आवश्यक न्यूनतम PSD संस्करण प्राप्त करता है। 0 का अर्थ कोई प्रतिबंध नहीं है। |
+| [Resolution](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/resolution/) { get; set; } | PSD फ़ाइल में स्मार्ट ऑब्जेक्ट लेयर डेटा का रिज़ॉल्यूशन प्राप्त करता है या सेट करता है। |
+| [ResolutionUnit](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/resolutionunit/) { get; set; } | PSD फ़ाइल में स्मार्ट ऑब्जेक्ट लेयर डेटा की रिज़ॉल्यूशन माप इकाई को प्राप्त करता है या सेट करता है। |
+| [Right](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/right/) { get; set; } | PSD फ़ाइल में रखी गई लेयर के दाएँ स्थान को प्राप्त करता है या सेट करता है। |
+| virtual [Signature](../../aspose.psd.fileformats.psd.layers/layerresource/signature/) { get; } | हस्ताक्षर प्राप्त करता है। |
+| [Top](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/top/) { get; set; } | स्थापित लेयर की शीर्ष स्थिति को प्राप्त करता है या सेट करता है PSD छवि में। |
+| override [TotalPages](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/totalpages/) { get; set; } | PSD फ़ाइल में स्मार्ट ऑब्जेक्ट लेयर डेटा की कुल पेजों की संख्या को प्राप्त करता है या सेट करता है। |
+| override [TransformMatrix](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/transformmatrix/) { get; set; } | PSD फ़ाइल में स्मार्ट ऑब्जेक्ट लेयर डेटा के ट्रांसफ़ॉर्म मैट्रिक्स को प्राप्त करता है या सेट करता है। |
+| override [UniqueId](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/uniqueid/) { get; set; } | PSD इमेज में स्मार्ट ऑब्जेक्ट लेयर डेटा [`SmartObjectResource`](../smartobjectresource/) का ग्लोबल यूनिक आइडेंटिफ़ायर प्राप्त करता है या सेट करता है। |
+| [UOrder](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/uorder/) { get; set; } | स्थापित लेयर के U क्रम मान को प्राप्त करता है या सेट करता है PSD फ़ाइल में। |
+| [Value](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/value/) { get; set; } | स्थापित लेयर के वार्प मान को प्राप्त करता है या सेट करता है PSD छवि में। |
+| [Version](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/version/) { get; } | स्थापित लेयर का संस्करण प्राप्त करता है PSD फ़ाइल में, आमतौर पर 3। |
+| [VerticalMeshPoints](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/verticalmeshpoints/) { get; set; } | PSD फ़ाइल में रखी गई लेयर के क्षैतिज मेष बिंदुओं को प्राप्त करता है या सेट करता है। |
+| [VerticalMeshPointUnit](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/verticalmeshpointunit/) { get; set; } | ऊर्ध्वाधर मेष बिंदुओं की माप इकाई को प्राप्त करता है या सेट करता है। |
+| [VOrder](../../aspose.psd.fileformats.psd.layers.layerresources/placedresource/vorder/) { get; set; } | स्थापित लेयर के V क्रम मान को प्राप्त करता है या सेट करता है PSD फ़ाइल में। |
+| [Width](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/width/) { get; set; } | चौड़ाई को प्राप्त करता है या सेट करता है। |
 
-## तरीकों
+## मेथड्स
 
 | नाम | विवरण |
 | --- | --- |
 | override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/smartobjectresource/save/)(StreamContainer, int) | स्मार्ट ऑब्जेक्ट संसाधन को निर्दिष्ट स्ट्रीम कंटेनर में सहेजता है। |
-| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring/)() | रिटर्न एString जो इस उदाहरण का प्रतिनिधित्व करता है। |
+| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring/)() | इस उदाहरण का प्रतिनिधित्व करने वाली एक स्ट्रिंग लौटाता है। |
 
-## खेत
+## फ़ील्ड्स
 
 | नाम | विवरण |
 | --- | --- |
-| const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/soleresource/typetoolkey/) | प्रकार टूल जानकारी कुंजी: 'SoLE'. |
+| const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/soleresource/typetoolkey/) | टाइप टूल जानकारी कुंजी: 'SoLE'। |
 
-### उदाहरण
+## उदाहरण
 
-निम्न कोड SoLEResource, SmartObjectResource और PlacedResource संसाधनों के समर्थन को प्रदर्शित करता है।
+निम्नलिखित कोड SoLEResource, SmartObjectResource और PlacedResource रिसोर्सेज के समर्थन को दर्शाता है।
 
 ```csharp
 [C#]
@@ -169,7 +170,7 @@ void CheckSmartObjectResourceValues(object[] expectedValue, SmartObjectResource 
 
 void SetNewSmartValues(SmartObjectResource resource, object[] newValues)
 {
-    // यह मान हम संसाधन में नहीं बदलते हैं
+    // इन मानों को हम रिसोर्स में नहीं बदलते।
     newValues[0] = resource.IsCustom;
     newValues[1] = resource.UniqueId.ToString();
     newValues[5] = resource.PlacedLayerType;
@@ -177,8 +178,8 @@ void SetNewSmartValues(SmartObjectResource resource, object[] newValues)
     newValues[15] = resource.VOrder;
     newValues[28] = resource.OriginalCompId;
 
-    // यह मान PlLdResource (निर्दिष्ट UniqueId के साथ) में भी बदला जाना चाहिए
-    // और उनमें से कुछ को LinkDataSource में अंडरलाइनिंग स्मार्ट ऑब्जेक्ट के अनुरूप होना चाहिए
+    // इन मानों को PlLdResource (निर्दिष्ट UniqueId के साथ) में भी बदलना चाहिए।
+    // और उनमें से कुछ को LinkDataSource में अंडरलाइनिंग स्मार्ट ऑब्जेक्ट के अनुरूप होना चाहिए।
     resource.PageNumber = (int)newValues[2]; // 2;
     resource.TotalPages = (int)newValues[3]; // 3;
     resource.AntiAliasPolicy = (int)newValues[4]; // 0;
@@ -204,7 +205,7 @@ void SetNewSmartValues(SmartObjectResource resource, object[] newValues)
     resource.CompId = (int)newValues[27]; // 22;
     resource.NonAffineTransformMatrix = (double[])newValues[30];
 
-    // इस अनूठी आईडी को संदर्भों में बदला जाना चाहिए यदि कोई हो
+    // यदि कोई रेफ़रेंस है तो इस यूनिक आईडी को बदलना चाहिए।
     resource.PlacedId = new Guid((string)newValues[29]);  // "12345678-9abc-def0-9876-54321fecba98");
     if (resource.IsCustom)
     {
@@ -214,16 +215,18 @@ void SetNewSmartValues(SmartObjectResource resource, object[] newValues)
         resource.VerticalMeshPoints = (double[])newValues[34];
     }
 
-    // कुछ मापदंडों से सावधान रहें: सहेजी गई छवि Adobe® Photoshop® द्वारा अपठनीय हो सकती है
+    // कुछ पैरामीटरों के साथ सावधान रहें: सेव किया गया इमेज Adobe® Photoshop® द्वारा पढ़ा नहीं जा सकता।
     ////resource.UOrder = 6;
-    ////संसाधन। VOrder = 9;
+    ////resource.VOrder = 9;
 
-    // इसे कोई परिवर्तन न करें अन्यथा आप निःशुल्क रूपांतरण का उपयोग नहीं कर पाएंगे
-    // या अंडरलाइनिंग स्मार्ट ऑब्जेक्ट को वेक्टर प्रकार में बदलें
+    // इसे न बदलें, अन्यथा 
+ आप फ्री ट्रांसफ़ॉर्म का उपयोग नहीं कर पाएंगे।
+    // या 
+ अंडरलाइनिंग स्मार्ट ऑब्जेक्ट को वेक्टर टाइप में बदलें।
     ////resource.PlacedLayerType = PlacedLayerType.Vector;
 
-    // इस विशिष्ट आईडी के साथ मान्य PlLdResource होना चाहिए
-    ////resource.UniqueId = नया गाइड ("98765432-10fe-cba0-1234-56789abcdef0");
+    // इस यूनिक आईडी के साथ एक वैध PlLdResource होना चाहिए।
+    ////resource.UniqueId = new Guid("98765432-10fe-cba0-1234-56789abcdef0");
 }
 
 object[] newSmartValues = new object[]
@@ -386,10 +389,10 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
 }
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * class [SmartObjectResource](../smartobjectresource/)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
-* सभा [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../)
 
 

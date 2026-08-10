@@ -1,75 +1,76 @@
 ---
-title: RectangleF.Inflate
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: RectangleF तरक. नर्दष्ट क एक बढ़ हुई प्रत बनत है और लटत हैRectangleFसंरचन कप नर्दष्ट रश से फुलय जत है मूल आयत अपरवर्तत रहत है
+title: "RectangleF.Inflate"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "RectangleF मेथड। निर्दिष्ट RectangleF संरचना की एक फुली हुई प्रति बनाता और लौटाता है। प्रति निर्दिष्ट मात्रा से फुली हुई है। मूल आयत अपरिवर्तित रहती है।"
 type: docs
 weight: 50
 url: /hi/net/aspose.psd/rectanglef/inflate/
 ---
+{{< psd/tize >}}
 ## Inflate(RectangleF, float, float)
 
-निर्दिष्ट की एक बढ़ी हुई प्रति बनाता है और लौटाता है[`RectangleF`](../)संरचना। कॉपी निर्दिष्ट राशि से फुलाया जाता है। मूल आयत अपरिवर्तित रहता है।
+निर्दिष्ट [`RectangleF`](../) संरचना की एक फुली हुई प्रति बनाता और लौटाता है। प्रति निर्दिष्ट मात्रा से फुली हुई है। मूल आयत अपरिवर्तित रहती है।
 
 ```csharp
 public static RectangleF Inflate(RectangleF rect, float x, float y)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| rect | RectangleF | [`RectangleF`](../) कॉपी किया जाना। यह आयत संशोधित नहीं है। |
-| x | Single | आयत की प्रति को क्षैतिज रूप से फुलाए जाने की मात्रा। |
-| y | Single | आयत की प्रति को लंबवत रूप से फुलाए जाने की मात्रा। |
+| rect | RectangleF | कॉपी की जाने वाली [`RectangleF`](../)। यह आयत संशोधित नहीं की गई है। |
+| x | Single | आयत की प्रति को क्षैतिज रूप से फुलाने की मात्रा। |
+| y | Single | आयत की प्रति को लंबवत रूप से फुलाने की मात्रा। |
 
-### प्रतिलाभ की मात्रा
+### रिटर्न वैल्यू
 
-फुलाया हुआ[`RectangleF`](../).
+फुली हुई [`RectangleF`](../)।
 
-### यह सभी देखें
+### देखें भी
 
 * struct [RectangleF](../)
-* नाम स्थान [Aspose.PSD](../../rectanglef/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Inflate(float, float) {#inflate_1}
 
-इसे फुलाता है[`RectangleF`](../) निर्दिष्ट राशि द्वारा संरचना।
+इस [`RectangleF`](../) संरचना को निर्दिष्ट मात्रा से फुलाता है।
 
 ```csharp
 public void Inflate(float x, float y)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| x | Single | इसे फुलाए जाने की राशि[`RectangleF`](../) संरचना क्षैतिज। |
-| y | Single | इसे फुलाए जाने की राशि[`RectangleF`](../) संरचना लंबवत। |
+| x | Single | इस [`RectangleF`](../) संरचना को क्षैतिज रूप से फुलाने की मात्रा। |
+| y | Single | इस [`RectangleF`](../) संरचना को लंबवत रूप से फुलाने की मात्रा। |
 
-### यह सभी देखें
+### देखें भी
 
 * struct [RectangleF](../)
-* नाम स्थान [Aspose.PSD](../../rectanglef/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Inflate(SizeF) {#inflate}
 
-इसे फुलाता है[`RectangleF`](../)निर्दिष्ट राशि से.
+इस [`RectangleF`](../) को निर्दिष्ट मात्रा से फुलाता है।
 
 ```csharp
 public void Inflate(SizeF size)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| size | SizeF | इस आयत को फुलाने के लिए राशि। |
+| आकार | SizeF | इस आयत को फुलाने की मात्रा। |
 
-### यह सभी देखें
+### देखें भी
 
 * struct [SizeF](../../sizef/)
 * struct [RectangleF](../)
-* नाम स्थान [Aspose.PSD](../../rectanglef/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

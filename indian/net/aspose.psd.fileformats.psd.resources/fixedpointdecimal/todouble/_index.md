@@ -1,27 +1,28 @@
 ---
-title: FixedPointDecimal.ToDouble
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: FixedPointDecimal तरक. वर्तमन नश्चत बंदु दशमलव क दगुन में परवर्तत करत है
+title: "FixedPointDecimal.ToDouble"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "FixedPointDecimal मेथड। वर्तमान फिक्स्ड पॉइंट दशमलव को डबल में परिवर्तित करता है"
 type: docs
 weight: 40
 url: /hi/net/aspose.psd.fileformats.psd.resources/fixedpointdecimal/todouble/
 ---
+{{< psd/tize >}}
 ## FixedPointDecimal.ToDouble method
 
-वर्तमान निश्चित बिंदु दशमलव को दोगुना में परिवर्तित करता है।
+वर्तमान फिक्स्ड पॉइंट दशमलव को डबल में परिवर्तित करता है।
 
 ```csharp
 public double ToDouble()
 ```
 
-### प्रतिलाभ की मात्रा
+### रिटर्न वैल्यू
 
 परिवर्तित मान।
 
-### यह सभी देखें
+### देखें भी
 
 * class [FixedPointDecimal](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Resources](../../fixedpointdecimal/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,51 +1,52 @@
 ---
-title: Pen.ScaleTransform
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Pen तरक. नर्दष्ट करकं द्वर स्थनय ज्यमतय परवर्तन क मपत है यह वध स्केलंग मैट्रक्स क परवर्तन के लए तैयर करत है
+title: "Pen.ScaleTransform"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Pen विधि। स्थानीय ज्यामितीय परिवर्तन को निर्दिष्ट कारकों द्वारा स्केल करता है। यह विधि स्केलिंग मैट्रिक्स को परिवर्तन के पहले जोड़ती है।"
 type: docs
 weight: 220
 url: /hi/net/aspose.psd/pen/scaletransform/
 ---
+{{< psd/tize >}}
 ## ScaleTransform(float, float) {#scaletransform}
 
-निर्दिष्ट कारकों द्वारा स्थानीय ज्यामितीय परिवर्तन को मापता है। यह विधि स्केलिंग मैट्रिक्स को परिवर्तन के लिए तैयार करती है।
+निर्दिष्ट गुणकों द्वारा स्थानीय ज्यामितीय ट्रांसफ़ॉर्मेशन को स्केल करता है। यह मेथड स्केलिंग मैट्रिक्स को ट्रांसफ़ॉर्मेशन के पहले जोड़ता है।
 
 ```csharp
 public void ScaleTransform(float sx, float sy)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| sx | Single | कारक जिसके द्वारा एक्स-अक्ष दिशा में परिवर्तन को मापना है। |
-| sy | Single | कारक जिसके द्वारा y-अक्ष दिशा में परिवर्तन को मापना है। |
+| sx | Single | x‑अक्ष दिशा में परिवर्तन को स्केल करने का कारक। |
+| sy | Single | y‑अक्ष दिशा में परिवर्तन को स्केल करने का कारक। |
 
-### यह सभी देखें
+### देखें भी
 
 * class [Pen](../)
-* नाम स्थान [Aspose.PSD](../../pen/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## ScaleTransform(float, float, MatrixOrder) {#scaletransform_1}
 
-निर्दिष्ट क्रम में निर्दिष्ट कारकों द्वारा स्थानीय ज्यामितीय परिवर्तन को स्केल करता है।
+निर्दिष्ट क्रम में निर्दिष्ट गुणकों द्वारा स्थानीय ज्यामितीय ट्रांसफ़ॉर्मेशन को स्केल करता है।
 
 ```csharp
 public void ScaleTransform(float sx, float sy, MatrixOrder order)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| sx | Single | कारक जिसके द्वारा एक्स-अक्ष दिशा में परिवर्तन को मापना है। |
-| sy | Single | कारक जिसके द्वारा y-अक्ष दिशा में परिवर्तन को मापना है। |
-| order | MatrixOrder | ए[`MatrixOrder`](../../matrixorder/) यह निर्दिष्ट करता है कि स्केलिंग मैट्रिक्स को जोड़ना या जोड़ना है या नहीं। |
+| sx | Single | x‑अक्ष दिशा में परिवर्तन को स्केल करने का कारक। |
+| sy | Single | y‑अक्ष दिशा में परिवर्तन को स्केल करने का कारक। |
+| order | MatrixOrder | एक [`MatrixOrder`](../../matrixorder/) जो यह निर्दिष्ट करता है कि स्केलिंग मैट्रिक्स को जोड़ना है या पहले जोड़ना है। |
 
-### यह सभी देखें
+### देखें भी
 
 * enum [MatrixOrder](../../matrixorder/)
 * class [Pen](../)
-* नाम स्थान [Aspose.PSD](../../pen/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

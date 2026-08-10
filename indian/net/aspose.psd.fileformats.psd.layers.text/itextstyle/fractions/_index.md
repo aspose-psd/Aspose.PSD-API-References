@@ -1,22 +1,23 @@
 ---
-title: ITextStyle.Fractions
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: ITextStyle संपत्त. भन्न प्रतकं क वशेष ग्लफ़ से बदल ज सकत है
+title: "ITextStyle.Fractions"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "ITextStyle प्रॉपर्टी। अंश प्रतीकों को विशेष ग्लिफ़ से बदला जा सकता है"
 type: docs
 weight: 140
 url: /hi/net/aspose.psd.fileformats.psd.layers.text/itextstyle/fractions/
 ---
+{{< psd/tize >}}
 ## ITextStyle.Fractions property
 
-भिन्न प्रतीकों को विशेष ग्लिफ़ से बदला जा सकता है।
+भिन्न संकेतों को विशेष ग्लिफ़ से बदला जा सकता है।
 
 ```csharp
 public bool Fractions { get; set; }
 ```
 
-### उदाहरण
+## उदाहरण
 
-निम्न कोड नए ITextStyle गुणों के समर्थन के समर्थन को प्रदर्शित करता है।
+निम्नलिखित कोड नए ITextStyle गुणों के समर्थन को दर्शाता है।
 
 ```csharp
 [C#]
@@ -41,7 +42,7 @@ using (var psdImage = (PsdImage)Image.Load(srcFile))
     psdImage.Save(outputFile);
 }
 
-// मूल्यों की जाँच करें
+// मान जांचें
 using (var srcImage = (PsdImage)Image.Load(srcFile))
 {
     var srcTextLayer = (TextLayer)srcImage.Layers[1];
@@ -68,10 +69,10 @@ using (var srcImage = (PsdImage)Image.Load(srcFile))
 }
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * interface [ITextStyle](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.Text](../../itextstyle/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.Text](../../../aspose.psd.fileformats.psd.layers.text/)
+* assembly [Aspose.PSD](../../../)
 
 

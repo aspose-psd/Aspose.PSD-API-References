@@ -1,27 +1,28 @@
 ---
-title: CustomLineCap.WidthScale
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: CustomLineCap संपत्त. वह रश प्रप्त य सेट करत है जसके द्वर इसे मपन हैCustomLineCap वर्ग वस्तु क चड़ई के संबंध मेंPen वस्तु.
+title: "CustomLineCap.WidthScale"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "CustomLineCap प्रॉपर्टी। Pen ऑब्जेक्ट की चौड़ाई के सापेक्ष इस CustomLineCap Class ऑब्जेक्ट को स्केल करने की मात्रा को प्राप्त करता है या सेट करता है।"
 type: docs
 weight: 70
 url: /hi/net/aspose.psd/customlinecap/widthscale/
 ---
+{{< psd/tize >}}
 ## CustomLineCap.WidthScale property
 
-वह राशि प्राप्त या सेट करता है जिसके द्वारा इसे मापना है[`CustomLineCap`](../) वर्ग वस्तु की चौड़ाई के संबंध मेंPen वस्तु.
+Pen ऑब्जेक्ट की चौड़ाई के सापेक्ष इस [`CustomLineCap`](../) Class ऑब्जेक्ट को स्केल करने की मात्रा को प्राप्त करता है या सेट करता है।
 
 ```csharp
 public float WidthScale { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-वह राशि जिसके द्वारा कैप को स्केल करना है।
+कैप को स्केल करने की मात्रा।
 
-### यह सभी देखें
+### देखें भी
 
 * class [CustomLineCap](../)
-* नाम स्थान [Aspose.PSD](../../customlinecap/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

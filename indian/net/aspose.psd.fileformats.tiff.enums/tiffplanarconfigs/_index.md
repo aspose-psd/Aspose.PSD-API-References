@@ -1,14 +1,15 @@
 ---
-title: Enum TiffPlanarConfigs
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Aspose.PSD.FileFormats.Tiff.Enums.TiffPlanarConfigs एनुम. भंडरण संगठन PLANARCONFIG टैग के लए संभवत मन.
+title: "Enum TiffPlanarConfigs"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Aspose.PSD.FileFormats.Tiff.Enums.TiffPlanarConfigs enum. संग्रहण संगठन। PLANARCONFIG टैग के संभावित मान।"
 type: docs
-weight: 4130
+weight: 4600
 url: /hi/net/aspose.psd.fileformats.tiff.enums/tiffplanarconfigs/
 ---
+{{< psd/tize >}}
 ## TiffPlanarConfigs enumeration
 
-भंडारण संगठन। PLANARCONFIG टैग के लिए संभावित मान.
+स्टोरेज ऑर्गेनाइज़ेशन। PLANARCONFIG टैग के संभावित मान।
 
 ```csharp
 public enum TiffPlanarConfigs : ushort
@@ -16,14 +17,14 @@ public enum TiffPlanarConfigs : ushort
 
 ### मान
 
-| नाम | कीमत | विवरण |
+| नाम | मान | विवरण |
 | --- | --- | --- |
-| Contiguous | `1` | सिंगल इमेज प्लेन. |
-| Separate | `2` | डेटा के अलग-अलग तल. |
+| Contiguous | `1` | एकल छवि तल। |
+| Separate | `2` | डेटा के अलग-अलग तल। |
 
-### यह सभी देखें
+### देखें भी
 
-* नाम स्थान [Aspose.PSD.FileFormats.Tiff.Enums](../../aspose.psd.fileformats.tiff.enums/)
-* सभा [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Tiff.Enums](../../aspose.psd.fileformats.tiff.enums/)
+* assembly [Aspose.PSD](../../)
 
 

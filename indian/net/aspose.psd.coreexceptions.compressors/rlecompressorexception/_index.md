@@ -1,14 +1,15 @@
 ---
-title: Class RleCompressorException
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Aspose.PSD.CoreExceptions.Compressors.RleCompressorException कक्ष. आरईएल कंप्रेसर अपवद
+title: "क्लास RleCompressorException"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Aspose.PSD.CoreExceptions.Compressors.RleCompressorException क्लास। rle कंप्रेसर अपवाद"
 type: docs
 weight: 460
 url: /hi/net/aspose.psd.coreexceptions.compressors/rlecompressorexception/
 ---
+{{< psd/tize >}}
 ## RleCompressorException class
 
-आरईएल कंप्रेसर अपवाद।
+rle कम्प्रेसर अपवाद।
 
 ```csharp
 public class RleCompressorException : CompressorException
@@ -18,13 +19,13 @@ public class RleCompressorException : CompressorException
 
 | नाम | विवरण |
 | --- | --- |
-| [RleCompressorException](rlecompressorexception/#constructor)(string) | का एक नया उदाहरण प्रारंभ करता है`RleCompressorException` वर्ग. |
-| [RleCompressorException](rlecompressorexception/#constructor_1)(string, Exception) | का एक नया उदाहरण प्रारंभ करता है`RleCompressorException` वर्ग. |
+| [RleCompressorException](rlecompressorexception/#constructor)(string) | `RleCompressorException` क्लास का नया उदाहरण आरंभ करता है। |
+| [RleCompressorException](rlecompressorexception/#constructor_1)(string, Exception) | `RleCompressorException` क्लास का नया उदाहरण आरंभ करता है। |
 
-### यह सभी देखें
+### देखें भी
 
 * class [CompressorException](../../aspose.psd.coreexceptions/compressorexception/)
-* नाम स्थान [Aspose.PSD.CoreExceptions.Compressors](../../aspose.psd.coreexceptions.compressors/)
-* सभा [Aspose.PSD](../../)
+* namespace [Aspose.PSD.CoreExceptions.Compressors](../../aspose.psd.coreexceptions.compressors/)
+* assembly [Aspose.PSD](../../)
 
 

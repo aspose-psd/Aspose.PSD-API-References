@@ -1,27 +1,28 @@
 ---
-title: ExpaResource.GammaCorrection
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: ExpaResource संपत्त. गम प्रप्त करत है य सेट करत है
+title: "ExpaResource.GammaCorrection"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "ExpaResource प्रॉपर्टी। गामा प्राप्त करता है या सेट करता है"
 type: docs
 weight: 30
 url: /hi/net/aspose.psd.fileformats.psd.layers.layerresources/exparesource/gammacorrection/
 ---
+{{< psd/tize >}}
 ## ExpaResource.GammaCorrection property
 
-गामा प्राप्त करता है या सेट करता है।
+गामा को प्राप्त करता है या सेट करता है।
 
 ```csharp
 public float GammaCorrection { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-गामा.
+गामा।
 
-### यह सभी देखें
+### देखें भी
 
 * class [ExpaResource](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../exparesource/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

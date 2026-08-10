@@ -1,27 +1,28 @@
 ---
-title: Layer.Width
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Layer संपत्त. छव चड़ई प्रप्त करत है
+title: "Layer.Width"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Layer प्रॉपर्टी। इमेज की चौड़ाई प्राप्त करता है"
 type: docs
-weight: 320
+weight: 330
 url: /hi/net/aspose.psd.fileformats.psd.layers/layer/width/
 ---
+{{< psd/tize >}}
 ## Layer.Width property
 
-छवि चौड़ाई प्राप्त करता है।
+छवि की चौड़ाई प्राप्त करता है।
 
 ```csharp
 public override int Width { get; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-छवि चौड़ाई.
+इमेज की चौड़ाई।
 
-### यह सभी देखें
+### देखें भी
 
 * class [Layer](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers](../../layer/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,28 +1,29 @@
 ---
-title: Layer.ChannelInformation
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Layer संपत्त. चैनल क जनकर प्रप्त य सेट करत है
+title: "Layer.ChannelInformation"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Layer प्रॉपर्टी। चैनल जानकारी प्राप्त करता है या सेट करता है"
 type: docs
-weight: 70
+weight: 80
 url: /hi/net/aspose.psd.fileformats.psd.layers/layer/channelinformation/
 ---
+{{< psd/tize >}}
 ## Layer.ChannelInformation property
 
-चैनल की जानकारी प्राप्त या सेट करता है।
+चैनल जानकारी प्राप्त करता है या सेट करता है।
 
 ```csharp
 public ChannelInformation[] ChannelInformation { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-चैनल की जानकारी।
+चैनल जानकारी।
 
-### यह सभी देखें
+### देखें भी
 
 * class [ChannelInformation](../../channelinformation/)
 * class [Layer](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers](../../layer/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

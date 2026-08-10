@@ -1,11 +1,12 @@
 ---
-title: PsdImage.GlobalLayerMaskInfo
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: PsdImage संपत्त. ग्लबल लेयर मस्क जनकर प्रप्त करत है
+title: "PsdImage.GlobalLayerMaskInfo"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "PsdImage प्रॉपर्टी। ग्लोबल लेयर मास्क जानकारी प्राप्त करता है"
 type: docs
 weight: 110
 url: /hi/net/aspose.psd.fileformats.psd/psdimage/globallayermaskinfo/
 ---
+{{< psd/tize >}}
 ## PsdImage.GlobalLayerMaskInfo property
 
 ग्लोबल लेयर मास्क जानकारी प्राप्त करता है।
@@ -14,11 +15,11 @@ url: /hi/net/aspose.psd.fileformats.psd/psdimage/globallayermaskinfo/
 public GlobalLayerMaskInfo GlobalLayerMaskInfo { get; }
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * class [GlobalLayerMaskInfo](../../../aspose.psd.fileformats.psd.layers/globallayermaskinfo/)
 * class [PsdImage](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

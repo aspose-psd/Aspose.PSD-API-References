@@ -1,32 +1,33 @@
 ---
-title: PointExtensions.ToGdiPoints
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: PointExtensions तरक. परवर्तत करत हैPointF सरण के लएPointF सरण.
+title: "PointExtensions.ToGdiPoints"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "PointExtensions मेथड। PointF array को PointF array में परिवर्तित करता है"
 type: docs
 weight: 20
 url: /hi/net/aspose.psd.extensions/pointextensions/togdipoints/
 ---
+{{< psd/tize >}}
 ## PointExtensions.ToGdiPoints method
 
-परिवर्तित करता है[`PointF`](../../../aspose.psd/pointf/) सरणी के लिएPointF सरणी.
+[`PointF`](../../../aspose.psd/pointf/) array को PointF array में परिवर्तित करता है।
 
 ```csharp
 public static PointF[] ToGdiPoints(PointF[] points)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| points | PointF[] | [`PointF`](../../../aspose.psd/pointf/) कनवर्ट करने के लिए सरणी। |
+| points | PointF[] | [`PointF`](../../../aspose.psd/pointf/) array को परिवर्तित करने के लिए। |
 
-### प्रतिलाभ की मात्रा
+### रिटर्न वैल्यू
 
-परिवर्तितPointF सरणी।
+परिवर्तित PointF array।
 
-### यह सभी देखें
+### देखें भी
 
 * struct [PointF](../../../aspose.psd/pointf/)
 * class [PointExtensions](../)
-* नाम स्थान [Aspose.PSD.Extensions](../../pointextensions/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Extensions](../../../aspose.psd.extensions/)
+* assembly [Aspose.PSD](../../../)
 
 

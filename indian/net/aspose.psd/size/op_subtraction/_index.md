@@ -1,32 +1,33 @@
 ---
-title: Size.op_Subtraction
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Size तरक. एक क चड़ई और ऊंचई घटत हैSize दूसरे क चड़ई और ऊंचई से संरचनSizeसंरचन.
+title: "Size.op_Subtraction"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Size मेथड। एक Size संरचना की चौड़ाई और ऊँचाई को दूसरी Size संरचना की चौड़ाई और ऊँचाई से घटाता है।"
 type: docs
 weight: 190
 url: /hi/net/aspose.psd/size/op_subtraction/
 ---
+{{< psd/tize >}}
 ## Size Subtraction operator
 
-एक की चौड़ाई और ऊंचाई घटाता है[`Size`](../) दूसरे की चौड़ाई और ऊंचाई से संरचना[`Size`](../)संरचना.
+एक [`Size`](../) संरचना की चौड़ाई और ऊँचाई को दूसरी [`Size`](../) संरचना की चौड़ाई और ऊँचाई से घटाता है।
 
 ```csharp
 public static Size operator -(Size size1, Size size2)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| size1 | Size | [`Size`](../) घटाव ऑपरेटर के बाईं ओर संरचना। |
-| size2 | Size | [`Size`](../) घटाव ऑपरेटर के दाईं ओर संरचना। |
+| size1 | Size | घटाव ऑपरेटर के बाएँ पक्ष पर स्थित [`Size`](../) संरचना। |
+| size2 | Size | घटाव ऑपरेटर के दाएँ पक्ष पर स्थित [`Size`](../) संरचना। |
 
-### प्रतिलाभ की मात्रा
+### रिटर्न वैल्यू
 
-ए[`Size`](../) संरचना जो घटाव ऑपरेशन का परिणाम है।
+एक [`Size`](../) संरचना जो घटाव ऑपरेशन का परिणाम है।
 
-### यह सभी देखें
+### देखें भी
 
 * struct [Size](../)
-* नाम स्थान [Aspose.PSD](../../size/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

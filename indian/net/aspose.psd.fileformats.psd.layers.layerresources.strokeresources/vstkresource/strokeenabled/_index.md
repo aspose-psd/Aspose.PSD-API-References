@@ -1,23 +1,24 @@
 ---
-title: VstkResource.StrokeEnabled
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: VstkResource संपत्त. स्ट्रक प्रभव सक्षम है य नहं यह इंगत करने वल मन प्रप्त य सेट करत है
+title: "VstkResource.StrokeEnabled"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "VstkResource प्रॉपर्टी। स्टोक इफ़ेक्ट सक्षम है या नहीं दर्शाने वाला मान प्राप्त करता है या सेट करता है"
 type: docs
-weight: 70
+weight: 50
 url: /hi/net/aspose.psd.fileformats.psd.layers.layerresources.strokeresources/vstkresource/strokeenabled/
 ---
+{{< psd/tize >}}
 ## VstkResource.StrokeEnabled property
 
-स्ट्रोक प्रभाव सक्षम है या नहीं यह इंगित करने वाला मान प्राप्त या सेट करता है।
+स्ट्रोक इफ़ेक्ट सक्षम है या नहीं दर्शाने वाला मान प्राप्त करता या सेट करता है।
 
 ```csharp
 public bool StrokeEnabled { get; set; }
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * class [VstkResource](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.StrokeResources](../../vstkresource/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.StrokeResources](../../../aspose.psd.fileformats.psd.layers.layerresources.strokeresources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,28 +1,29 @@
 ---
-title: NonGenericDictionary.CopyTo
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: NonGenericDictionary तरक. के तत्वं क प्रतलप बनत हैICollection एक के लएArray  एक वशेष से शुरूArray अनुक्रमणक.
+title: "NonGenericDictionary.CopyTo"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "NonGenericDictionary मेथड। ICollection के तत्वों को एक Array में कॉपी करता है जो एक विशिष्ट Array इंडेक्स से शुरू होता है।"
 type: docs
 weight: 130
 url: /hi/net/aspose.psd/nongenericdictionary/copyto/
 ---
+{{< psd/tize >}}
 ## NonGenericDictionary.CopyTo method
 
-के तत्वों की प्रतिलिपि बनाता हैICollection एक के लिएArray , एक विशेष से शुरूArray अनुक्रमणिका.
+ICollection के तत्वों को एक Array में कॉपी करता है, एक विशिष्ट Array इंडेक्स से शुरू करके।
 
 ```csharp
 public void CopyTo(Array array, int index)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| array | Array | एक आयामी Array वह से कॉपी किए गए तत्वों का गंतव्य हैICollection . द Array शून्य-आधारित अनुक्रमण होना चाहिए। |
-| index | Int32 | शून्य-आधारित इंडेक्स में*array* जिस पर नकल शुरू हो जाती है। |
+| ऐरे | ऐरे | एक-आयामी ऐरे जो ICollection से कॉपी किए गए तत्वों का गंतव्य है। ऐरे में शून्य-आधारित अनुक्रमण होना चाहिए। |
+| index | Int32 | *array* में वह शून्य-आधारित इंडेक्स जहाँ से कॉपी शुरू होती है। |
 
-### यह सभी देखें
+### देखें भी
 
 * class [NonGenericDictionary](../)
-* नाम स्थान [Aspose.PSD](../../nongenericdictionary/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

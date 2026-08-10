@@ -1,27 +1,28 @@
 ---
-title: MultiPageOptions.Pages
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: MultiPageOptions संपत्त. पृष्ठ प्रप्त करत है य सेट करत है
+title: "MultiPageOptions.Pages"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "MultiPageOptions प्रॉपर्टी। पृष्ठों को प्राप्त करता है या सेट करता है"
 type: docs
 weight: 70
 url: /hi/net/aspose.psd.imageoptions/multipageoptions/pages/
 ---
+{{< psd/tize >}}
 ## MultiPageOptions.Pages property
 
-पृष्ठ प्राप्त करता है या सेट करता है।
+पेजों को प्राप्त करता है या सेट करता है।
 
 ```csharp
 public int[] Pages { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
 पृष्ठ।
 
-### यह सभी देखें
+### देखें भी
 
 * class [MultiPageOptions](../)
-* नाम स्थान [Aspose.PSD.ImageOptions](../../multipageoptions/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

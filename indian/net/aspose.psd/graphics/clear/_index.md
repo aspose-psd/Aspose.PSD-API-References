@@ -1,28 +1,29 @@
 ---
-title: Graphics.Clear
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Graphics तरक. नर्दष्ट रंग क उपयग करके ग्रफ़क सतह क सफ़ करत है.
+title: "Graphics.Clear"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Graphics मेथड। निर्दिष्ट रंग का उपयोग करके ग्राफ़िक्स सतह को साफ़ करता है।"
 type: docs
-weight: 150
+weight: 160
 url: /hi/net/aspose.psd/graphics/clear/
 ---
+{{< psd/tize >}}
 ## Graphics.Clear method
 
-निर्दिष्ट रंग का उपयोग करके ग्राफ़िक सतह को साफ़ करता है.
+निर्दिष्ट रंग का उपयोग करके ग्राफ़िक्स सतह को साफ़ करता है।
 
 ```csharp
 public void Clear(Color color)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| color | Color | ग्राफिक्स सतह को साफ करने के लिए रंग। |
+| रंग | रंग | ग्राफ़िक्स सतह को साफ़ करने के लिए उपयोग किया जाने वाला रंग। |
 
-### यह सभी देखें
+### देखें भी
 
 * struct [Color](../../color/)
 * class [Graphics](../)
-* नाम स्थान [Aspose.PSD](../../graphics/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

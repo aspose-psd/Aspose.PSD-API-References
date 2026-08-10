@@ -1,33 +1,34 @@
 ---
-title: XmpChoise1.GetXmpRepresentation
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: XmpChoise तरक. XMP प्ररूप में स्ट्रंग युक्त मन प्रप्त करत है
+title: "XmpChoise1.GetXmpRepresentation"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "XmpChoise method. XMP फ़ॉर्मेट में सम्मिलित स्ट्रिंग मान प्राप्त करता है"
 type: docs
 weight: 30
 url: /hi/net/aspose.psd.xmp.types.derived/xmpchoise-1/getxmprepresentation/
 ---
+{{< psd/tize >}}
 ## XmpChoise&lt;T&gt;.GetXmpRepresentation method
 
-XMP प्रारूप में स्ट्रिंग युक्त मान प्राप्त करता है।
+XMP प्रारूप में सम्मिलित स्ट्रिंग मान को प्राप्त करता है।
 
 ```csharp
 public override string GetXmpRepresentation()
 ```
 
-### प्रतिलाभ की मात्रा
+### रिटर्न वैल्यू
 
-XMP प्रारूप में स्ट्रिंग युक्त मान लौटाता है।
+XMP फ़ॉर्मेट में सम्मिलित स्ट्रिंग मान को लौटाता है।
 
 ### अपवाद
 
-| अपवाद | स्थिति |
+| अपवाद | शर्त |
 | --- | --- |
 | NotImplementedException |  |
 
-### यह सभी देखें
+### देखें भी
 
 * class [XmpChoise&lt;T&gt;](../)
-* नाम स्थान [Aspose.PSD.Xmp.Types.Derived](../../xmpchoise-1/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Derived](../../../aspose.psd.xmp.types.derived/)
+* assembly [Aspose.PSD](../../../)
 
 

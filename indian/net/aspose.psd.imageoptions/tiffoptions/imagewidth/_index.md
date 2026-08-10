@@ -1,27 +1,28 @@
 ---
-title: TiffOptions.ImageWidth
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: TiffOptions संपत्त. छव चड़ई प्रप्त य सेट करत है
+title: "TiffOptions.ImageWidth"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "TiffOptions प्रॉपर्टी। इमेज की चौड़ाई को प्राप्त करता है या सेट करता है"
 type: docs
-weight: 210
+weight: 220
 url: /hi/net/aspose.psd.imageoptions/tiffoptions/imagewidth/
 ---
+{{< psd/tize >}}
 ## TiffOptions.ImageWidth property
 
-छवि चौड़ाई प्राप्त या सेट करता है।
+छवि चौड़ाई को प्राप्त या सेट करता है।
 
 ```csharp
 public uint ImageWidth { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-छवि चौड़ाई.
+इमेज की चौड़ाई।
 
-### यह सभी देखें
+### देखें भी
 
 * class [TiffOptions](../)
-* नाम स्थान [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

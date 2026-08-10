@@ -1,27 +1,28 @@
 ---
-title: FxrpResource.X
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: FxrpResource संपत्त. संदर्भ बंदु क x प्रप्त य सेट करत है
+title: "FxrpResource.X"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "FxrpResource प्रॉपर्टी। रेफ़रेंस पॉइंट के x को प्राप्त या सेट करता है"
 type: docs
-weight: 60
+weight: 30
 url: /hi/net/aspose.psd.fileformats.psd.layers.layerresources/fxrpresource/x/
 ---
+{{< psd/tize >}}
 ## FxrpResource.X property
 
-संदर्भ बिंदु का x प्राप्त या सेट करता है
+रेफ़रेंस पॉइंट के x को प्राप्त या सेट करता है।
 
 ```csharp
 public double X { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-संदर्भ बिंदु का x
+रेफ़रेंस पॉइंट का x
 
-### यह सभी देखें
+### देखें भी
 
 * class [FxrpResource](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../fxrpresource/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

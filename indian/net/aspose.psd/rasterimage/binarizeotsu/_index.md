@@ -1,23 +1,24 @@
 ---
-title: RasterImage.BinarizeOtsu
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: RasterImage तरक. ओत्सू थ्रेसहल्डंग के सथ एक छव क बइनरइजेशन
+title: "RasterImage.BinarizeOtsu"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "RasterImage मेथड। ओट्सु थ्रेशोल्डिंग के साथ छवि का बाइनरीकरण"
 type: docs
 weight: 230
 url: /hi/net/aspose.psd/rasterimage/binarizeotsu/
 ---
+{{< psd/tize >}}
 ## RasterImage.BinarizeOtsu method
 
-ओत्सू थ्रेसहोल्डिंग के साथ एक छवि का बाइनराइजेशन
+ओट्सु थ्रेशोल्डिंग के साथ छवि का बाइनरीकरण
 
 ```csharp
 public virtual void BinarizeOtsu()
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * class [RasterImage](../)
-* नाम स्थान [Aspose.PSD](../../rasterimage/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

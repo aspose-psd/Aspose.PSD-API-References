@@ -1,23 +1,24 @@
 ---
-title: TypeToolInfo6Resource.TypeToolKey
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: TypeToolInfo6Resource मैदन. टइप टूल इंफ क.
+title: "TypeToolInfo6Resource.TypeToolKey"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "TypeToolInfo6Resource field. टाइप टूल जानकारी कुंजी"
 type: docs
-weight: 230
+weight: 200
 url: /hi/net/aspose.psd.fileformats.psd.layers.layerresources/typetoolinfo6resource/typetoolkey/
 ---
+{{< psd/tize >}}
 ## TypeToolInfo6Resource.TypeToolKey field
 
-टाइप टूल इंफो की.
+टाइप टूल जानकारी कुंजी।
 
 ```csharp
 public const int TypeToolKey;
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * class [TypeToolInfo6Resource](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../typetoolinfo6resource/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

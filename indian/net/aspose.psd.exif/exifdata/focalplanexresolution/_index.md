@@ -1,28 +1,29 @@
 ---
-title: ExifData.FocalPlaneXResolution
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: ExifData संपत्त. फकल प्लेन x रज़ल्यूशन प्रप्त य सेट करत है
+title: "ExifData.FocalPlaneXResolution"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "ExifData प्रॉपर्टी। फोकल प्लेन X रिज़ोल्यूशन को प्राप्त करता है या सेट करता है"
 type: docs
 weight: 320
 url: /hi/net/aspose.psd.exif/exifdata/focalplanexresolution/
 ---
+{{< psd/tize >}}
 ## ExifData.FocalPlaneXResolution property
 
-फोकल प्लेन x रिज़ॉल्यूशन प्राप्त या सेट करता है।
+फ़ोकल प्लेन X रिज़ॉल्यूशन प्राप्त करता है या सेट करता है।
 
 ```csharp
 public TiffRational FocalPlaneXResolution { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-फोकल प्लेन x रेजोल्यूशन।
+फ़ोकल प्लेन x रिज़ॉल्यूशन।
 
-### यह सभी देखें
+### देखें भी
 
 * class [TiffRational](../../../aspose.psd.fileformats.tiff/tiffrational/)
 * class [ExifData](../)
-* नाम स्थान [Aspose.PSD.Exif](../../exifdata/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

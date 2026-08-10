@@ -1,14 +1,15 @@
 ---
-title: Class TiffSRational
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Aspose.PSD.FileFormats.Tiff.TiffSRational कक्ष. झगड़ तर्कसंगत प्रकर
+title: "क्लास TiffSRational"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Aspose.PSD.FileFormats.Tiff.TiffSRational क्लास। tiff रैशनल प्रकार"
 type: docs
-weight: 4240
+weight: 4710
 url: /hi/net/aspose.psd.fileformats.tiff/tiffsrational/
 ---
+{{< psd/tize >}}
 ## TiffSRational class
 
-झगड़ा तर्कसंगत प्रकार।
+tiff रैशनल टाइप।
 
 ```csharp
 public class TiffSRational
@@ -18,40 +19,40 @@ public class TiffSRational
 
 | नाम | विवरण |
 | --- | --- |
-| [TiffSRational](tiffsrational/#constructor)() | का एक नया उदाहरण प्रारंभ करता है`TiffSRational` वर्ग. |
-| [TiffSRational](tiffsrational/#constructor_1)(int) | का एक नया उदाहरण प्रारंभ करता है[`TiffRational`](../tiffrational/) वर्ग. |
-| [TiffSRational](tiffsrational/#constructor_2)(int, int) | का एक नया उदाहरण प्रारंभ करता है`TiffSRational` वर्ग. |
+| [TiffSRational](tiffsrational/#constructor)() | `TiffSRational` क्लास का एक नया उदाहरण प्रारंभ करता है। |
+| [TiffSRational](tiffsrational/#constructor_1)(int) | [`TiffRational`](../tiffrational/) क्लास का एक नया उदाहरण प्रारंभ करता है। |
+| [TiffSRational](tiffsrational/#constructor_2)(int, int) | `TiffSRational` क्लास का एक नया उदाहरण प्रारंभ करता है। |
 
-## गुण
-
-| नाम | विवरण |
-| --- | --- |
-| [Denominator](../../aspose.psd.fileformats.tiff/tiffsrational/denominator/) { get; } | भाजक प्राप्त करता है। |
-| [Nominator](../../aspose.psd.fileformats.tiff/tiffsrational/nominator/) { get; } | नॉमिनेटर प्राप्त करता है। |
-| [Value](../../aspose.psd.fileformats.tiff/tiffsrational/value/) { get; } | फ्लोट मान प्राप्त करता है। |
-| [ValueD](../../aspose.psd.fileformats.tiff/tiffsrational/valued/) { get; } | को दोगुना मान मिलता है. |
-
-## तरीकों
+## प्रॉपर्टीज़
 
 | नाम | विवरण |
 | --- | --- |
-| static [ApproximateFraction](../../aspose.psd.fileformats.tiff/tiffsrational/approximatefraction/#approximatefraction)(double) | दिए गए मान को एक अंश के करीब लाता है. |
-| static [ApproximateFraction](../../aspose.psd.fileformats.tiff/tiffsrational/approximatefraction/#approximatefraction_2)(float) | दिए गए मान को एक अंश के करीब लाता है. |
-| static [ApproximateFraction](../../aspose.psd.fileformats.tiff/tiffsrational/approximatefraction/#approximatefraction_1)(double, double) | दिए गए मान को एक अंश के करीब लाता है. |
-| static [ApproximateFraction](../../aspose.psd.fileformats.tiff/tiffsrational/approximatefraction/#approximatefraction_3)(float, double) | दिए गए मान को एक अंश के करीब लाता है. |
-| override [Equals](../../aspose.psd.fileformats.tiff/tiffsrational/equals/)(object) | निर्धारित करता है कि निर्दिष्ट किया गया है या नहींObject इस उदाहरण के बराबर है. |
+| [Denominator](../../aspose.psd.fileformats.tiff/tiffsrational/denominator/) { get; } | हर denominator प्राप्त करता है। |
+| [Nominator](../../aspose.psd.fileformats.tiff/tiffsrational/nominator/) { get; } | हर नॉमिनेटर प्राप्त करता है। |
+| [Value](../../aspose.psd.fileformats.tiff/tiffsrational/value/) { get; } | फ़्लोट मान प्राप्त करता है। |
+| [ValueD](../../aspose.psd.fileformats.tiff/tiffsrational/valued/) { get; } | डबल मान प्राप्त करता है। |
+
+## मेथड्स
+
+| नाम | विवरण |
+| --- | --- |
+| static [ApproximateFraction](../../aspose.psd.fileformats.tiff/tiffsrational/approximatefraction/#approximatefraction)(double) | प्रदान किए गए मान को एक भिन्न में निकटतम बनाता है। |
+| static [ApproximateFraction](../../aspose.psd.fileformats.tiff/tiffsrational/approximatefraction/#approximatefraction_2)(float) | प्रदान किए गए मान को एक भिन्न में निकटतम बनाता है। |
+| static [ApproximateFraction](../../aspose.psd.fileformats.tiff/tiffsrational/approximatefraction/#approximatefraction_1)(double, double) | प्रदान किए गए मान को एक भिन्न में निकटतम बनाता है। |
+| static [ApproximateFraction](../../aspose.psd.fileformats.tiff/tiffsrational/approximatefraction/#approximatefraction_3)(float, double) | प्रदान किए गए मान को एक भिन्न में निकटतम बनाता है। |
+| override [Equals](../../aspose.psd.fileformats.tiff/tiffsrational/equals/)(object) | निर्धारित करता है कि निर्दिष्ट ऑब्जेक्ट इस उदाहरण के बराबर है या नहीं। |
 | override [GetHashCode](../../aspose.psd.fileformats.tiff/tiffsrational/gethashcode/)() | इस उदाहरण के लिए एक हैश कोड लौटाता है। |
-| override [ToString](../../aspose.psd.fileformats.tiff/tiffsrational/tostring/)() | रिटर्न एString जो इस उदाहरण का प्रतिनिधित्व करता है। |
+| override [ToString](../../aspose.psd.fileformats.tiff/tiffsrational/tostring/)() | इस उदाहरण का प्रतिनिधित्व करने वाली एक स्ट्रिंग लौटाता है। |
 
-## खेत
+## फ़ील्ड्स
 
 | नाम | विवरण |
 | --- | --- |
-| const [Epsilon](../../aspose.psd.fileformats.tiff/tiffsrational/epsilon/) | अंश गणना के लिए एप्सिलॉन |
+| const [Epsilon](../../aspose.psd.fileformats.tiff/tiffsrational/epsilon/) | भिन्न गणना के लिए एप्सिलॉन |
 
-### यह सभी देखें
+### देखें भी
 
-* नाम स्थान [Aspose.PSD.FileFormats.Tiff](../../aspose.psd.fileformats.tiff/)
-* सभा [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Tiff](../../aspose.psd.fileformats.tiff/)
+* assembly [Aspose.PSD](../../)
 
 

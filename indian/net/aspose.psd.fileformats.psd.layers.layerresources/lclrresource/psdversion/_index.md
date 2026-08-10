@@ -1,23 +1,24 @@
 ---
-title: LclrResource.PsdVersion
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: LclrResource संपत्त. पएसड संस्करण प्रप्त करत है
+title: "LclrResource.PsdVersion"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "LclrResource गुण। psd संस्करण प्राप्त करता है"
 type: docs
 weight: 50
 url: /hi/net/aspose.psd.fileformats.psd.layers.layerresources/lclrresource/psdversion/
 ---
+{{< psd/tize >}}
 ## LclrResource.PsdVersion property
 
-पीएसडी संस्करण प्राप्त करता है।
+PSD संस्करण प्राप्त करता है।
 
 ```csharp
 public override int PsdVersion { get; }
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * class [LclrResource](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../lclrresource/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

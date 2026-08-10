@@ -1,23 +1,24 @@
 ---
-title: BlncResource.BlncResource
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: BlncResource नर्मत. क एक नय उदहरण प्ररंभ करत हैBlncResource वर्ग.
+title: "BlncResource.BlncResource"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "BlncResource कंस्ट्रक्टर। BlncResource क्लास का नया इंस्टेंस इनिशियलाइज़ करता है"
 type: docs
 weight: 10
 url: /hi/net/aspose.psd.fileformats.psd.layers.layerresources/blncresource/blncresource/
 ---
+{{< psd/tize >}}
 ## BlncResource constructor
 
-का एक नया उदाहरण प्रारंभ करता है[`BlncResource`](../) वर्ग.
+[`BlncResource`](../) क्लास का नया इंस्टेंस इनिशियलाइज़ करता है।
 
 ```csharp
 public BlncResource()
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * class [BlncResource](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../blncresource/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

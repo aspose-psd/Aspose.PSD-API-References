@@ -1,23 +1,24 @@
 ---
-title: RasterCachedImage.CacheData
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: RasterCachedImage तरक. डेट क कैश करत है और यह सुनश्चत करत है क अंतर्नहत से कई अतरक्त डेट लड नहं कय जएगDataStreamContainer .
+title: "RasterCachedImage.CacheData"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "RasterCachedImage मेथड। डेटा को कैश करता है और सुनिश्चित करता है कि अंतर्निहित DataStreamContainer से कोई अतिरिक्त डेटा लोडिंग नहीं की जाएगी"
 type: docs
 weight: 80
 url: /hi/net/aspose.psd/rastercachedimage/cachedata/
 ---
+{{< psd/tize >}}
 ## RasterCachedImage.CacheData method
 
-डेटा को कैश करता है और यह सुनिश्चित करता है कि अंतर्निहित से कोई अतिरिक्त डेटा लोड नहीं किया जाएगा[`DataStreamContainer`](../../datastreamsupporter/datastreamcontainer/) .
+डेटा को कैश करता है और सुनिश्चित करता है कि अंतर्निहित [`DataStreamContainer`](../../datastreamsupporter/datastreamcontainer/) से कोई अतिरिक्त डेटा लोडिंग नहीं की जाएगी।
 
 ```csharp
 public override void CacheData()
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * class [RasterCachedImage](../)
-* नाम स्थान [Aspose.PSD](../../rastercachedimage/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

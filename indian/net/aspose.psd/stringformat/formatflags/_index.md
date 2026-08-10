@@ -1,28 +1,29 @@
 ---
-title: StringFormat.FormatFlags
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: StringFormat संपत्त. ह जत है य सेट करत हैStringFormatFlags गणन जसमें स्वरूपण जनकर है
+title: "StringFormat.FormatFlags"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "StringFormat प्रॉपर्टी। एक StringFormatFlags एन्यूमरेशन को प्राप्त या सेट करता है जिसमें फ़ॉर्मेटिंग जानकारी होती है।"
 type: docs
-weight: 80
+weight: 90
 url: /hi/net/aspose.psd/stringformat/formatflags/
 ---
+{{< psd/tize >}}
 ## StringFormat.FormatFlags property
 
-हो जाता है या सेट करता है[`StringFormatFlags`](../../stringformatflags/) गणना जिसमें स्वरूपण जानकारी है।
+फ़ॉर्मेटिंग जानकारी वाले एक [`StringFormatFlags`](../../stringformatflags/) एन्यूमरेशन को प्राप्त या सेट करता है।
 
 ```csharp
 public StringFormatFlags FormatFlags { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-ए[`StringFormatFlags`](../../stringformatflags/) गणना जिसमें स्वरूपण जानकारी होती है।
+एक [`StringFormatFlags`](../../stringformatflags/) एन्यूमरेशन जिसमें फ़ॉर्मेटिंग जानकारी होती है।
 
-### यह सभी देखें
+### देखें भी
 
 * enum [StringFormatFlags](../../stringformatflags/)
 * class [StringFormat](../)
-* नाम स्थान [Aspose.PSD](../../stringformat/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

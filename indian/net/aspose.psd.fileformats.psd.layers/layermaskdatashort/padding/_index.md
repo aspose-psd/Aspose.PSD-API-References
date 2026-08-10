@@ -1,27 +1,28 @@
 ---
-title: LayerMaskDataShort.Padding
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: LayerMaskDataShort संपत्त. लेयर मस्क पैडंग प्रप्त य सेट करत है
+title: "LayerMaskDataShort.Padding"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "LayerMaskDataShort प्रॉपर्टी। लेयर मास्क पैडिंग को प्राप्त करता है या सेट करता है"
 type: docs
 weight: 20
 url: /hi/net/aspose.psd.fileformats.psd.layers/layermaskdatashort/padding/
 ---
+{{< psd/tize >}}
 ## LayerMaskDataShort.Padding property
 
-लेयर मास्क पैडिंग प्राप्त या सेट करता है।
+लेयर मास्क पैडिंग को प्राप्त करता है या सेट करता है।
 
 ```csharp
 public short Padding { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-लेयर मास्क पैडिंग.
+लेयर मास्क पैडिंग।
 
-### यह सभी देखें
+### देखें भी
 
 * class [LayerMaskDataShort](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers](../../layermaskdatashort/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

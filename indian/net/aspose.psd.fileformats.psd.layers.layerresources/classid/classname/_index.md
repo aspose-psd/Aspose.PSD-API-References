@@ -1,27 +1,28 @@
 ---
-title: ClassID.ClassName
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: ClassID संपत्त. एएससआईआई एन्कडंग के रूप में वर्ग क नम प्रप्त करत है
+title: "ClassID.ClassName"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "ClassID प्रॉपर्टी। क्लास नाम को ASCII एन्कोडिंग के रूप में प्राप्त करता है"
 type: docs
 weight: 30
 url: /hi/net/aspose.psd.fileformats.psd.layers.layerresources/classid/classname/
 ---
+{{< psd/tize >}}
 ## ClassID.ClassName property
 
-एएससीआईआई एन्कोडिंग के रूप में वर्ग का नाम प्राप्त करता है।
+क्लास नाम को ASCII एन्कोडिंग के रूप में प्राप्त करता है।
 
 ```csharp
 public string ClassName { get; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-वर्ग का नाम।
+क्लास नाम।
 
-### यह सभी देखें
+### देखें भी
 
 * class [ClassID](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../classid/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

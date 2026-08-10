@@ -1,11 +1,12 @@
 ---
-title: MixerChannel.GetRawData
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: MixerChannel तरक. कच्च डेट प्रप्त करत है
+title: "MixerChannel.GetRawData"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "MixerChannel method. कच्चा डेटा प्राप्त करता है"
 type: docs
 weight: 20
 url: /hi/net/aspose.psd.fileformats.psd.layers.adjustmentlayers/mixerchannel/getrawdata/
 ---
+{{< psd/tize >}}
 ## MixerChannel.GetRawData method
 
 कच्चा डेटा प्राप्त करता है।
@@ -14,14 +15,14 @@ url: /hi/net/aspose.psd.fileformats.psd.layers.adjustmentlayers/mixerchannel/get
 public byte[] GetRawData()
 ```
 
-### प्रतिलाभ की मात्रा
+### रिटर्न वैल्यू
 
 कच्चा बाइट डेटा
 
-### यह सभी देखें
+### देखें भी
 
 * class [MixerChannel](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../mixerchannel/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/)
+* assembly [Aspose.PSD](../../../)
 
 

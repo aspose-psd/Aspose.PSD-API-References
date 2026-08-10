@@ -1,27 +1,28 @@
 ---
-title: BlackWhiteAdjustmentLayer.TintColor
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: BlackWhiteAdjustmentLayer संपत्त. टंट रंग मन प्रप्त य सेट करत है
+title: "BlackWhiteAdjustmentLayer.TintColor"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "BlackWhiteAdjustmentLayer प्रॉपर्टी। टिंट रंग मान प्राप्त करता है या सेट करता है"
 type: docs
 weight: 80
 url: /hi/net/aspose.psd.fileformats.psd.layers.adjustmentlayers/blackwhiteadjustmentlayer/tintcolor/
 ---
+{{< psd/tize >}}
 ## BlackWhiteAdjustmentLayer.TintColor property
 
-टिंट रंग मान प्राप्त या सेट करता है।
+टिंट रंग मान को प्राप्त करता है या सेट करता है।
 
 ```csharp
 public int TintColor { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-टिंट रंग मान.
+टिंट रंग मान।
 
-### यह सभी देखें
+### देखें भी
 
 * class [BlackWhiteAdjustmentLayer](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../blackwhiteadjustmentlayer/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/)
+* assembly [Aspose.PSD](../../../)
 
 

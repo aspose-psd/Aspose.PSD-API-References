@@ -1,53 +1,54 @@
 ---
-title: XmpDate.XmpDate
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: XmpDate नर्मत. क एक नय उदहरण प्ररंभ करत हैXmpDate वर्ग.
+title: "XmpDate.XmpDate"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "XmpDate कन्स्ट्रक्टर। XmpDate क्लास का नया उदाहरण आरंभ करता है।"
 type: docs
 weight: 10
 url: /hi/net/aspose.psd.xmp.types.basic/xmpdate/xmpdate/
 ---
+{{< psd/tize >}}
 ## XmpDate(DateTime) {#constructor}
 
-का एक नया उदाहरण प्रारंभ करता है[`XmpDate`](../) वर्ग.
+[`XmpDate`](../) क्लास का नया उदाहरण आरंभ करता है।
 
 ```csharp
 public XmpDate(DateTime dateTime)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| dateTime | DateTime | एक दिनांक-समय मान जिसे ISO RFC 8601 स्वरूपण के एक सबसेट का उपयोग करके दर्शाया गया है। |
+| dateTime | DateTime | एक डेट-टाइम मान जो ISO RFC 8601 फ़ॉर्मेटिंग के उपसमुच्चय का उपयोग करके दर्शाया गया है। |
 
-### यह सभी देखें
+### देखें भी
 
 * class [XmpDate](../)
-* नाम स्थान [Aspose.PSD.Xmp.Types.Basic](../../xmpdate/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Basic](../../../aspose.psd.xmp.types.basic/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## XmpDate(string) {#constructor_1}
 
-का एक नया उदाहरण प्रारंभ करता है[`XmpDate`](../) वर्ग.
+[`XmpDate`](../) क्लास का नया उदाहरण आरंभ करता है।
 
 ```csharp
 public XmpDate(string dateString)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| dateString | String | तारीख का स्ट्रिंग प्रतिनिधित्व। |
+| dateString | String | तिथि का स्ट्रिंग प्रतिनिधित्व। |
 
 ### अपवाद
 
-| अपवाद | स्थिति |
+| अपवाद | शर्त |
 | --- | --- |
-| ArgumentException | अमान्य दिनांक प्रारूप; दिनांक |
+| ArgumentException | अमान्य तिथि फ़ॉर्मेट;date |
 
-### यह सभी देखें
+### देखें भी
 
 * class [XmpDate](../)
-* नाम स्थान [Aspose.PSD.Xmp.Types.Basic](../../xmpdate/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Basic](../../../aspose.psd.xmp.types.basic/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,30 +1,31 @@
 ---
-title: Interface IImageCreatorDescriptor
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Aspose.PSD.IImageCreatorDescriptor इंटरफेस. छव नर्मत वर्णनकर्त नर्मत गुणं क नर्दष्ट करत है क्रएटर डस्क्रप्टर क उपयग मेमर और मल्टथ्रेडंग मुद्दं में प्रत्येक इमेज क्रएटर इंस्टेंस क समहत करने क आवश्यकत क दूर करने के लए कय जत है
+title: "इंटरफ़ेस IImageCreatorDescriptor"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Aspose.PSD.IImageCreatorDescriptor इंटरफ़ेस। इमेज क्रिएटर डिस्क्रिप्टर जो क्रिएटर गुणों को निर्दिष्ट करता है। क्रिएटर डिस्क्रिप्टर का उपयोग प्रत्येक इमेज क्रिएटर इंस्टेंस को मेमोरी में रखने की आवश्यकता और मल्टीथ्रेडिंग समस्याओं को दूर करने के लिए किया जाता है।"
 type: docs
-weight: 4410
+weight: 4880
 url: /hi/net/aspose.psd/iimagecreatordescriptor/
 ---
+{{< psd/tize >}}
 ## IImageCreatorDescriptor interface
 
-छवि निर्माता वर्णनकर्ता निर्माता गुणों को निर्दिष्ट करता है। क्रिएटर डिस्क्रिप्टर का उपयोग मेमोरी और मल्टीथ्रेडिंग मुद्दों में प्रत्येक इमेज क्रिएटर इंस्टेंस को समाहित करने की आवश्यकता को दूर करने के लिए किया जाता है।
+छवि निर्माता विवरणकर्ता जो निर्माता गुणों को निर्दिष्ट करता है। निर्माता विवरणकर्ता का उपयोग प्रत्येक छवि निर्माता इंस्टेंस को मेमोरी में रखने की आवश्यकता और मल्टीथ्रेडिंग समस्याओं को दूर करने के लिए किया जाता है।
 
 ```csharp
 public interface IImageCreatorDescriptor : IImageDescriptor
 ```
 
-## तरीकों
+## मेथड्स
 
 | नाम | विवरण |
 | --- | --- |
-| [CanCreate](../../aspose.psd/iimagecreatordescriptor/cancreate/)(ImageOptionsBase) | यह निर्धारित करता है कि छवि निर्माता इसका उपयोग करके एक नई छवि बना सकता है या नहीं*imageOptions* . |
-| [CreateInstance](../../aspose.psd/iimagecreatordescriptor/createinstance/)() | एक नया निर्माता उदाहरण बनाता है। |
+| [CanCreate](../../aspose.psd/iimagecreatordescriptor/cancreate/)(ImageOptionsBase) | निर्धारित करता है कि इमेज क्रिएटर *imageOptions* का उपयोग करके नई इमेज बना सकता है या नहीं। |
+| [CreateInstance](../../aspose.psd/iimagecreatordescriptor/createinstance/)() | एक नया क्रिएटर इंस्टेंस बनाता है। |
 
-### यह सभी देखें
+### देखें भी
 
 * interface [IImageDescriptor](../iimagedescriptor/)
-* नाम स्थान [Aspose.PSD](../../aspose.psd/)
-* सभा [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

@@ -1,28 +1,29 @@
 ---
-title: RasterImage.RawDataFormat
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: RasterImage संपत्त. अपरष्कृत डेट प्ररूप प्रप्त करत है
+title: "RasterImage.RawDataFormat"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "RasterImage property. कच्चा डेटा फॉर्मेट प्राप्त करता है"
 type: docs
 weight: 80
 url: /hi/net/aspose.psd/rasterimage/rawdataformat/
 ---
+{{< psd/tize >}}
 ## RasterImage.RawDataFormat property
 
-अपरिष्कृत डेटा प्रारूप प्राप्त करता है।
+कच्चा डेटा फ़ॉर्मेट प्राप्त करता है।
 
 ```csharp
 public virtual PixelDataFormat RawDataFormat { get; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-कच्चा डेटा प्रारूप।
+कच्चा डेटा फॉर्मेट.
 
-### यह सभी देखें
+### देखें भी
 
 * class [PixelDataFormat](../../pixeldataformat/)
 * class [RasterImage](../)
-* नाम स्थान [Aspose.PSD](../../rasterimage/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

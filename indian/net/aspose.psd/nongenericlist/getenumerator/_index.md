@@ -1,27 +1,28 @@
 ---
-title: NonGenericList.GetEnumerator
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: NonGenericList तरक. एक गणनकर देत है ज एक संग्रह के मध्यम से पुनरवृत करत है
+title: "NonGenericList.GetEnumerator"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "NonGenericList मेथड। एक एनेमरेटर लौटाता है जो संग्रह के माध्यम से इटरेट करता है"
 type: docs
 weight: 120
 url: /hi/net/aspose.psd/nongenericlist/getenumerator/
 ---
+{{< psd/tize >}}
 ## NonGenericList.GetEnumerator method
 
-एक गणनाकार देता है जो एक संग्रह के माध्यम से पुनरावृति करता है।
+एक संग्रह के माध्यम से पुनरावृति करने वाला इनेमरेटर लौटाता है।
 
 ```csharp
 public IEnumerator GetEnumerator()
 ```
 
-### प्रतिलाभ की मात्रा
+### रिटर्न वैल्यू
 
-एकIEnumerator वस्तु जिसका उपयोग संग्रह के माध्यम से पुनरावृति करने के लिए किया जा सकता है।
+एक IEnumerator ऑब्जेक्ट जिसे संग्रह के माध्यम से इटरेट करने के लिए उपयोग किया जा सकता है।
 
-### यह सभी देखें
+### देखें भी
 
 * class [NonGenericList](../)
-* नाम स्थान [Aspose.PSD](../../nongenericlist/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

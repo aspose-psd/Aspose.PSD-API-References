@@ -1,14 +1,15 @@
 ---
-title: Class ExpaResource
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.ExpaResource कक्ष. क्लस एक्सप रसर्स. एक्सपजर एडजस्टमेंट लेयर क संसधन
+title: "क्लास ExpaResource"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Aspose.PSD.FileFormats.Psd.Layers.LayerResources.ExpaResource क्लास। क्लास ExpaResource। एक्सपोज़र एडजस्टमेंट लेयर का संसाधन"
 type: docs
-weight: 2450
+weight: 2710
 url: /hi/net/aspose.psd.fileformats.psd.layers.layerresources/exparesource/
 ---
+{{< psd/tize >}}
 ## ExpaResource class
 
-क्लास एक्सपा रिसोर्स. एक्सपोजर एडजस्टमेंट लेयर का संसाधन
+क्लास ExpaResource. एक्सपोज़र एडजस्टमेंट लेयर का रिसोर्स।
 
 ```csharp
 public class ExpaResource : AdjustmentLayerResource
@@ -18,41 +19,41 @@ public class ExpaResource : AdjustmentLayerResource
 
 | नाम | विवरण |
 | --- | --- |
-| [ExpaResource](exparesource/#constructor)() | का एक नया उदाहरण प्रारंभ करता है`ExpaResource` वर्ग. |
-| [ExpaResource](exparesource/#constructor_1)(byte[]) | का एक नया उदाहरण प्रारंभ करता है`ExpaResource` वर्ग. |
-| [ExpaResource](exparesource/#constructor_2)(float, float, float) | का एक नया उदाहरण प्रारंभ करता है`ExpaResource` वर्ग. |
+| [ExpaResource](exparesource/#constructor)() | `ExpaResource` क्लास की नई इंस्टेंस को इनिशियलाइज़ करता है। |
+| [ExpaResource](exparesource/#constructor_1)(byte[]) | `ExpaResource` क्लास की नई इंस्टेंस को इनिशियलाइज़ करता है। |
+| [ExpaResource](exparesource/#constructor_2)(float, float, float) | `ExpaResource` क्लास की नई इंस्टेंस को इनिशियलाइज़ करता है। |
 
-## गुण
-
-| नाम | विवरण |
-| --- | --- |
-| [Exposure](../../aspose.psd.fileformats.psd.layers.layerresources/exparesource/exposure/) { get; set; } | एक्सपोजर प्राप्त करता है या सेट करता है। |
-| [GammaCorrection](../../aspose.psd.fileformats.psd.layers.layerresources/exparesource/gammacorrection/) { get; set; } | गामा प्राप्त करता है या सेट करता है। |
-| override [Key](../../aspose.psd.fileformats.psd.layers.layerresources/exparesource/key/) { get; } | परत संसाधन कुंजी प्राप्त करता है. |
-| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/exparesource/length/) { get; } | बाइट्स में परत संसाधन लंबाई प्राप्त करता है। |
-| [Offset](../../aspose.psd.fileformats.psd.layers.layerresources/exparesource/offset/) { get; set; } | ऑफसेट हो जाता है या सेट करता है। |
-| override [PsdVersion](../../aspose.psd.fileformats.psd.layers.layerresources/exparesource/psdversion/) { get; } | पीएसडी संस्करण प्राप्त करता है। |
-| override [Signature](../../aspose.psd.fileformats.psd.layers.layerresources/adjustmentlayerresource/signature/) { get; } | हस्ताक्षर हो जाता है। |
-| [Version](../../aspose.psd.fileformats.psd.layers.layerresources/exparesource/version/) { get; } | संस्करण प्राप्त करता है। डिफ़ॉल्ट 1 है |
-
-## तरीकों
+## प्रॉपर्टीज़
 
 | नाम | विवरण |
 | --- | --- |
-| override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/adjustmentlayerresource/save/)(StreamContainer, int) | संसाधन को निर्दिष्ट स्ट्रीम कंटेनर में सहेजता है। |
-| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring/)() | रिटर्न एString जो इस उदाहरण का प्रतिनिधित्व करता है। |
+| [Exposure](../../aspose.psd.fileformats.psd.layers.layerresources/exparesource/exposure/) { get; set; } | एक्सपोज़र को प्राप्त करता है या सेट करता है। |
+| [GammaCorrection](../../aspose.psd.fileformats.psd.layers.layerresources/exparesource/gammacorrection/) { get; set; } | गामा को प्राप्त करता है या सेट करता है। |
+| [Key](../../aspose.psd.fileformats.psd.layers/layerresource/key/) { get; } | लेयर रिसोर्स कुंजी प्राप्त करता है। |
+| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/exparesource/length/) { get; } | बाइट्स में लेयर रिसोर्स की लंबाई प्राप्त करता है। |
+| [Offset](../../aspose.psd.fileformats.psd.layers.layerresources/exparesource/offset/) { get; set; } | ऑफ़सेट को प्राप्त करता है या सेट करता है। |
+| virtual [PsdVersion](../../aspose.psd.fileformats.psd.layers/layerresource/psdversion/) { get; } | लेयर रिसोर्स के लिए आवश्यक न्यूनतम PSD संस्करण प्राप्त करता है। 0 का अर्थ कोई प्रतिबंध नहीं है। |
+| virtual [Signature](../../aspose.psd.fileformats.psd.layers/layerresource/signature/) { get; } | हस्ताक्षर प्राप्त करता है। |
+| [Version](../../aspose.psd.fileformats.psd.layers.layerresources/exparesource/version/) { get; } | संस्करण को प्राप्त करता है। डिफ़ॉल्ट 1 है। |
 
-## खेत
+## मेथड्स
 
 | नाम | विवरण |
 | --- | --- |
-| const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/exparesource/typetoolkey/) | टाइप टूल इंफो की. |
+| override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/adjustmentlayerresource/save/)(StreamContainer, int) | निर्दिष्ट स्ट्रीम कंटेनर में रिसोर्स को सहेजता है। |
+| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring/)() | इस उदाहरण का प्रतिनिधित्व करने वाली एक स्ट्रिंग लौटाता है। |
 
-### यह सभी देखें
+## फ़ील्ड्स
+
+| नाम | विवरण |
+| --- | --- |
+| const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/exparesource/typetoolkey/) | टाइप टूल जानकारी कुंजी। |
+
+### देखें भी
 
 * class [AdjustmentLayerResource](../adjustmentlayerresource/)
 * class [LayerResource](../../aspose.psd.fileformats.psd.layers/layerresource/)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
-* सभा [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../)
 
 

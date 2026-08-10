@@ -1,43 +1,44 @@
 ---
-title: JpegOptions.JpegOptions
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: JpegOptions नर्मत. क एक नय उदहरण प्ररंभ करत हैJpegOptions वर्ग.
+title: "JpegOptions.JpegOptions"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "JpegOptions कंस्ट्रक्टर। JpegOptions क्लास की एक नई इंस्टेंस को इनिशियलाइज़ करता है"
 type: docs
 weight: 10
 url: /hi/net/aspose.psd.imageoptions/jpegoptions/jpegoptions/
 ---
+{{< psd/tize >}}
 ## JpegOptions() {#constructor}
 
-का एक नया उदाहरण प्रारंभ करता है[`JpegOptions`](../) वर्ग.
+[`JpegOptions`](../) क्लास की एक नई इंस्टेंस को इनिशियलाइज़ करता है।
 
 ```csharp
 public JpegOptions()
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * class [JpegOptions](../)
-* नाम स्थान [Aspose.PSD.ImageOptions](../../jpegoptions/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## JpegOptions(JpegOptions) {#constructor_1}
 
-का एक नया उदाहरण प्रारंभ करता है[`JpegOptions`](../) वर्ग.
+[`JpegOptions`](../) क्लास की एक नई इंस्टेंस को इनिशियलाइज़ करता है।
 
 ```csharp
 public JpegOptions(JpegOptions jpegOptions)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| jpegOptions | JpegOptions | जेपीईजी विकल्प। |
+| jpegOptions | JpegOptions | JPEG विकल्प। |
 
-### यह सभी देखें
+### देखें भी
 
 * class [JpegOptions](../)
-* नाम स्थान [Aspose.PSD.ImageOptions](../../jpegoptions/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

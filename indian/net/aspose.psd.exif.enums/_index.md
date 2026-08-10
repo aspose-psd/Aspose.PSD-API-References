@@ -1,35 +1,36 @@
 ---
-title: Aspose.PSD.Exif.Enums
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: नमस्थन में EXIF गणन शमल हैं
+title: "Aspose.PSD.Exif.Enums"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "नेमस्पेस में EXIF एनेमरेशन शामिल हैं"
 type: docs
-weight: 100
+weight: 110
 url: /hi/net/aspose.psd.exif.enums/
 ---
-नामस्थान में EXIF गणन शामिल हैं।
+{{< psd/tize >}}
+नामस्थान EXIF एनेमरेशन को शामिल करता है।
 
-## गणना
+## एन्यूमरेशन
 
-| गणना | विवरण |
+| एन्यूमरेशन | विवरण |
 | --- | --- |
-| [ExifColorSpace](./exifcolorspace/) | एक्सिफ कलर स्पेस एनम. |
-| [ExifContrast](./exifcontrast/) | एक्सिफ नॉर्मल सॉफ्ट हार्ड एनम. |
-| [ExifCustomRendered](./exifcustomrendered/) | एक्सिफ कस्टम रेंडर एनम. |
-| [ExifExposureMode](./exifexposuremode/) | एक्सिफ एक्सपोजर मोड एनम. |
-| [ExifExposureProgram](./exifexposureprogram/) | एक्सिफ एक्सपोजर प्रोग्राम एनम. |
-| [ExifFileSource](./exiffilesource/) | exif फ़ाइल स्रोत एनम. |
+| [ExifColorSpace](./exifcolorspace/) | exif रंग स्थान एनेम. |
+| [ExifContrast](./exifcontrast/) | exif सामान्य सॉफ्ट हार्ड एनेम. |
+| [ExifCustomRendered](./exifcustomrendered/) | exif कस्टम रेंडर्ड एनेम. |
+| [ExifExposureMode](./exifexposuremode/) | exif एक्सपोज़र मोड एनेम. |
+| [ExifExposureProgram](./exifexposureprogram/) | exif एक्सपोज़र प्रोग्राम एनेम. |
+| [ExifFileSource](./exiffilesource/) | exif फ़ाइल स्रोत एनेम. |
 | [ExifFlash](./exifflash/) | फ़्लैश मोड. |
-| [ExifGainControl](./exifgaincontrol/) | एक्सिफ गेन कंट्रोल एनम. |
-| [ExifGPSAltitudeRef](./exifgpsaltituderef/) | एक्सिफ जीपीएस ऊंचाई रेफरी एनम। |
-| [ExifLightSource](./exiflightsource/) | एक्सिफ प्रकाश स्रोत। |
-| [ExifMeteringMode](./exifmeteringmode/) | एक्सिफ मीटरिंग मोड एनम. |
-| [ExifOrientation](./exiforientation/) | एक्सिफ इमेज ओरिएंटेशन. |
-| [ExifSaturation](./exifsaturation/) | एक्ज़िफ़ सैचुरेशन एनम. |
-| [ExifSceneCaptureType](./exifscenecapturetype/) | एक्सिफ सीन कैप्चर टाइप एनम. |
-| [ExifSensingMethod](./exifsensingmethod/) | एक्सिफ सेंसिंग मेथड एनम. |
-| [ExifSubjectDistanceRange](./exifsubjectdistancerange/) | exif सब्जेक्ट डिस्टेंस रेंज एनम. |
-| [ExifUnit](./exifunit/) | एक्सिफ यूनिट एनम. |
-| [ExifWhiteBalance](./exifwhitebalance/) | एक्सिफ व्हाइट बैलेंस एनम. |
-| [ExifYCbCrPositioning](./exifycbcrpositioning/) | एक्सिफ वाई सीबी सीआर पोजीशनिंग एनम. |
+| [ExifGainControl](./exifgaincontrol/) | exif गेन कंट्रोल एनेम. |
+| [ExifGPSAltitudeRef](./exifgpsaltituderef/) | exif gps अल्टिट्यूड रेफ़ एनेम. |
+| [ExifLightSource](./exiflightsource/) | यह exif लाइट स्रोत। |
+| [ExifMeteringMode](./exifmeteringmode/) | exif मीटरिंग मोड एनेम. |
+| [ExifOrientation](./exiforientation/) | Exif छवि अभिविन्यास। |
+| [ExifSaturation](./exifsaturation/) | exif सैचुरेशन एनेम. |
+| [ExifSceneCaptureType](./exifscenecapturetype/) | exif सीन कैप्चर टाइप एनेम. |
+| [ExifSensingMethod](./exifsensingmethod/) | exif सेंसिंग मेथड एनेम. |
+| [ExifSubjectDistanceRange](./exifsubjectdistancerange/) | exif सब्जेक्ट डिस्टेंस रेंज एनेम. |
+| [ExifUnit](./exifunit/) | exif यूनिट एनेम. |
+| [ExifWhiteBalance](./exifwhitebalance/) | exif व्हाइट बैलेंस एनेम. |
+| [ExifYCbCrPositioning](./exifycbcrpositioning/) | exif Y Cb Cr पोजिशनिंग एनेम. |
 
 

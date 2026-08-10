@@ -1,27 +1,28 @@
 ---
-title: TransformBrush.IsTransformChanged
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: TransformBrush संपत्त. एक मन प्रप्त करत है ज इंगत करत है क परवर्तन कस तरह से बदले गए थे य नहं उदहरण के लए ट्रंसफ़र्मेशन मैट्रक्स सेट करन or ट्रंसफ़र्मेशन मैट्रक्स क बदलने के कस भ तरके क कल करन GDI. के सथ पछड़े संगतत के लए गुण पेश कय गय है
+title: "TransformBrush.IsTransformChanged"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "TransformBrush प्रॉपर्टी। यह एक मान प्राप्त करता है जो दर्शाता है कि रूपांतरण किसी प्रकार से बदले गए हैं या नहीं। उदाहरण के लिए, रूपांतरण मैट्रिक्स सेट करना या रूपांतरण मैट्रिक्स को बदलने वाले किसी भी मेथड को कॉल करना। यह प्रॉपर्टी GDI के साथ पिछली संगतता के लिए प्रस्तुत की गई है।"
 type: docs
 weight: 10
 url: /hi/net/aspose.psd.brushes/transformbrush/istransformchanged/
 ---
+{{< psd/tize >}}
 ## TransformBrush.IsTransformChanged property
 
-एक मान प्राप्त करता है जो इंगित करता है कि परिवर्तन किसी तरह से बदले गए थे या नहीं। उदाहरण के लिए ट्रांसफ़ॉर्मेशन मैट्रिक्स सेट करना or ट्रांसफ़ॉर्मेशन मैट्रिक्स को बदलने के किसी भी तरीके को कॉल करना। GDI+. के साथ पिछड़े संगतता के लिए गुण पेश किया गया है
+एक मान प्राप्त करता है जो दर्शाता है कि ट्रांसफ़ॉर्मेशन किसी न किसी तरह बदले गए थे या नहीं। उदाहरण के लिए, ट्रांसफ़ॉर्मेशन मैट्रिक्स सेट करना या ट्रांसफ़ॉर्मेशन मैट्रिक्स को बदलने वाले किसी भी मेथड को कॉल करना। यह प्रॉपर्टी GDI+ के साथ पीछे की संगतता के लिए पेश की गई है।
 
 ```csharp
 public bool IsTransformChanged { get; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-`सत्य` अगर परिवर्तन बदल गया था; अन्यथा,`असत्य` .
+`True` यदि रूपांतरण बदला गया हो; अन्यथा `false`।
 
-### यह सभी देखें
+### देखें भी
 
 * class [TransformBrush](../)
-* नाम स्थान [Aspose.PSD.Brushes](../../transformbrush/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
+* assembly [Aspose.PSD](../../../)
 
 

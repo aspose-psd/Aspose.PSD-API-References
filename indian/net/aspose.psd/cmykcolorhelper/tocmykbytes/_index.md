@@ -1,33 +1,34 @@
 ---
-title: CmykColorHelper.ToCmykBytes
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: CmykColorHelper तरक. RGB क CMYK में बदलत है.
+title: "CmykColorHelper.ToCmykBytes"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "CmykColorHelper मेथड। RGB को CMYK में परिवर्तित करता है।"
 type: docs
 weight: 100
 url: /hi/net/aspose.psd/cmykcolorhelper/tocmykbytes/
 ---
+{{< psd/tize >}}
 ## CmykColorHelper.ToCmykBytes method
 
-RGB को CMYK में बदलता है.
+RGB को CMYK में परिवर्तित करता है।
 
 ```csharp
 public static byte[] ToCmykBytes(int[] argbPixels, int startIndex, int length)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| argbPixels | Int32[] | आरजीबी रंग 32-बिट पूर्णांक मानों के रूप में प्रस्तुत किए जाते हैं। |
-| startIndex | Int32 | आरजीबी रंग का प्रारंभ सूचकांक। |
-| length | Int32 | कनवर्ट करने के लिए RGB पिक्सेल की संख्या। |
+| argbPixels | Int32[] | RGB रंग 32-बिट पूर्णांक मानों के रूप में प्रस्तुत किए गए हैं। |
+| startIndex | Int32 | RGB रंग का प्रारंभिक सूचकांक। |
+| लंबाई | Int32 | परिवर्तित करने के लिए RGB पिक्सेल की संख्या। |
 
-### प्रतिलाभ की मात्रा
+### रिटर्न वैल्यू
 
-बाइट सरणी के रूप में प्रस्तुत सीएमवाईके रंग।
+CMYK रंग बाइट एरे के रूप में प्रस्तुत किए गए हैं।
 
-### यह सभी देखें
+### देखें भी
 
 * class [CmykColorHelper](../)
-* नाम स्थान [Aspose.PSD](../../cmykcolorhelper/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: ChannelInformation.ChannelID
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: ChannelInformation संपत्त. चैनल आईड प्रप्त य सेट करत है
+title: "ChannelInformation.ChannelID"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "ChannelInformation प्रॉपर्टी। चैनल आईडी को प्राप्त करता है या सेट करता है"
 type: docs
 weight: 20
 url: /hi/net/aspose.psd.fileformats.psd.layers/channelinformation/channelid/
 ---
+{{< psd/tize >}}
 ## ChannelInformation.ChannelID property
 
-चैनल आईडी प्राप्त या सेट करता है।
+चैनल ID प्राप्त करता है या सेट करता है।
 
 ```csharp
 public short ChannelID { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-चैनल आईडी.
+चैनल आईडी।
 
-### यह सभी देखें
+### देखें भी
 
 * class [ChannelInformation](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers](../../channelinformation/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

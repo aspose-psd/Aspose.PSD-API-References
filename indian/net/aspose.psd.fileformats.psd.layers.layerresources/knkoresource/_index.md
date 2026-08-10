@@ -1,14 +1,15 @@
 ---
-title: Class KnkoResource
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.KnkoResource कक्ष. वर्ग KnkoResource. इस संसधन में क्लप कए गए तत्व के सम्मश्रण के बरे में जनकर है
+title: "क्लास KnkoResource"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Aspose.PSD.FileFormats.Psd.Layers.LayerResources.KnkoResource क्लास। क्लास KnkoResource। यह संसाधन क्लिप किए गए तत्व के ब्लेंडिंग के बारे में जानकारी रखता है।"
 type: docs
-weight: 2570
+weight: 2880
 url: /hi/net/aspose.psd.fileformats.psd.layers.layerresources/knkoresource/
 ---
+{{< psd/tize >}}
 ## KnkoResource class
 
-वर्ग KnkoResource. इस संसाधन में क्लिप किए गए तत्व के सम्मिश्रण के बारे में जानकारी है।
+क्लास KnkoResource. यह रिसोर्स क्लिप्ड एलिमेंट के ब्लेंडिंग के बारे में जानकारी रखता है।
 
 ```csharp
 public class KnkoResource : BooleanResource
@@ -18,38 +19,38 @@ public class KnkoResource : BooleanResource
 
 | नाम | विवरण |
 | --- | --- |
-| [KnkoResource](knkoresource/#constructor)() | का एक नया उदाहरण प्रारंभ करता है`KnkoResource` वर्ग. |
-| [KnkoResource](knkoresource/#constructor_1)(bool) | का एक नया उदाहरण प्रारंभ करता है`KnkoResource` वर्ग. |
-| [KnkoResource](knkoresource/#constructor_2)(byte[]) | का एक नया उदाहरण प्रारंभ करता है`KnkoResource` वर्ग. कस्टम या अज्ञात मान के साथ |
+| [KnkoResource](knkoresource/#constructor)() | `KnkoResource` क्लास की नई इंस्टेंस को प्रारंभ करता है। |
+| [KnkoResource](knkoresource/#constructor_1)(bool) | `KnkoResource` क्लास की नई इंस्टेंस को प्रारंभ करता है। |
+| [KnkoResource](knkoresource/#constructor_2)(byte[]) | `KnkoResource` क्लास की नई इंस्टेंस को प्रारंभ करता है। कस्टम या अज्ञात मान के साथ |
 
-## गुण
-
-| नाम | विवरण |
-| --- | --- |
-| override [Key](../../aspose.psd.fileformats.psd.layers.layerresources/knkoresource/key/) { get; } | परत संसाधन कुंजी प्राप्त करता है. |
-| [Knockout](../../aspose.psd.fileformats.psd.layers.layerresources/knkoresource/knockout/) { get; set; } | यह दर्शाता है कि क्या [आंतरिक तत्वों को मिलाएं] . मान प्राप्त करता है या सेट करता है |
-| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/booleanresource/length/) { get; } | बाइट्स में परत संसाधन लंबाई प्राप्त करता है। |
-| override [PsdVersion](../../aspose.psd.fileformats.psd.layers.layerresources/booleanresource/psdversion/) { get; } | पीएसडी संस्करण प्राप्त करता है। |
-| override [Signature](../../aspose.psd.fileformats.psd.layers.layerresources/booleanresource/signature/) { get; } | हस्ताक्षर हो जाता है। |
-
-## तरीकों
+## प्रॉपर्टीज़
 
 | नाम | विवरण |
 | --- | --- |
-| override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/booleanresource/save/)(StreamContainer, int) | निर्दिष्ट स्ट्रीम कंटेनर सहेजता है। |
-| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring/)() | रिटर्न एString जो इस उदाहरण का प्रतिनिधित्व करता है। |
+| [Key](../../aspose.psd.fileformats.psd.layers/layerresource/key/) { get; } | लेयर रिसोर्स कुंजी प्राप्त करता है। |
+| [Knockout](../../aspose.psd.fileformats.psd.layers.layerresources/knkoresource/knockout/) { get; set; } | क्या [blend interior elements] है, यह दर्शाने वाला मान प्राप्त करता है या सेट करता है। |
+| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/booleanresource/length/) { get; } | बाइट्स में लेयर रिसोर्स की लंबाई प्राप्त करता है। |
+| virtual [PsdVersion](../../aspose.psd.fileformats.psd.layers/layerresource/psdversion/) { get; } | लेयर रिसोर्स के लिए आवश्यक न्यूनतम PSD संस्करण प्राप्त करता है। 0 का अर्थ कोई प्रतिबंध नहीं है। |
+| virtual [Signature](../../aspose.psd.fileformats.psd.layers/layerresource/signature/) { get; } | हस्ताक्षर प्राप्त करता है। |
 
-## खेत
+## मेथड्स
 
 | नाम | विवरण |
 | --- | --- |
-| const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/knkoresource/typetoolkey/) | टाइप टूल इंफो की. |
+| override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/booleanresource/save/)(StreamContainer, int) | निर्दिष्ट स्ट्रीम कंटेनर को सहेजता है। |
+| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring/)() | इस उदाहरण का प्रतिनिधित्व करने वाली एक स्ट्रिंग लौटाता है। |
 
-### यह सभी देखें
+## फ़ील्ड्स
+
+| नाम | विवरण |
+| --- | --- |
+| const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/knkoresource/typetoolkey/) | टाइप टूल जानकारी कुंजी। |
+
+### देखें भी
 
 * class [LayerResource](../../aspose.psd.fileformats.psd.layers/layerresource/)
 * class [BooleanResource](../booleanresource/)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
-* सभा [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../)
 
 

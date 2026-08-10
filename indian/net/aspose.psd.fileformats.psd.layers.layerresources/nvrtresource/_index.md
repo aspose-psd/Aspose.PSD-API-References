@@ -1,14 +1,15 @@
 ---
-title: Class NvrtResource
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.NvrtResource कक्ष. क्लस NvrtResource. इनवर्ट एडजस्टमेंट लेयर क संसधन.
+title: "क्लास NvrtResource"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Aspose.PSD.FileFormats.Psd.Layers.LayerResources.NvrtResource क्लास। क्लास NvrtResource। इनवर्ट एडजस्टमेंट लेयर का संसाधन।"
 type: docs
-weight: 2840
+weight: 3180
 url: /hi/net/aspose.psd.fileformats.psd.layers.layerresources/nvrtresource/
 ---
+{{< psd/tize >}}
 ## NvrtResource class
 
-क्लास NvrtResource. इनवर्ट एडजस्टमेंट लेयर का संसाधन.
+क्लास NvrtResource। इनवर्ट एडजस्टमेंट लेयर का रिसोर्स।
 
 ```csharp
 public class NvrtResource : AdjustmentLayerResource
@@ -18,34 +19,34 @@ public class NvrtResource : AdjustmentLayerResource
 
 | नाम | विवरण |
 | --- | --- |
-| [NvrtResource](nvrtresource/#constructor)() | का एक नया उदाहरण प्रारंभ करता है`NvrtResource` वर्ग. |
-| [NvrtResource](nvrtresource/#constructor_1)(byte[]) | का एक नया उदाहरण प्रारंभ करता है`NvrtResource` वर्ग. |
+| [NvrtResource](nvrtresource/#constructor)() | `NvrtResource` क्लास का नया इंस्टेंस प्रारंभ करता है। |
+| [NvrtResource](nvrtresource/#constructor_1)(byte[]) | `NvrtResource` क्लास का नया इंस्टेंस प्रारंभ करता है। |
 
-## गुण
-
-| नाम | विवरण |
-| --- | --- |
-| override [Key](../../aspose.psd.fileformats.psd.layers.layerresources/nvrtresource/key/) { get; } | परत संसाधन कुंजी प्राप्त करता है. |
-| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/nvrtresource/length/) { get; } | बाइट्स में परत संसाधन लंबाई प्राप्त करता है। |
-| override [PsdVersion](../../aspose.psd.fileformats.psd.layers.layerresources/nvrtresource/psdversion/) { get; } | PSD संस्करण प्राप्त करता है। |
-| override [Signature](../../aspose.psd.fileformats.psd.layers.layerresources/adjustmentlayerresource/signature/) { get; } | हस्ताक्षर हो जाता है। |
-
-## तरीकों
+## प्रॉपर्टीज़
 
 | नाम | विवरण |
 | --- | --- |
-| override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/nvrtresource/save/)(StreamContainer, int) | संसाधन को निर्दिष्ट स्ट्रीम कंटेनर में सहेजता है। |
-| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring/)() | रिटर्न एString जो इस उदाहरण का प्रतिनिधित्व करता है। |
+| [Key](../../aspose.psd.fileformats.psd.layers/layerresource/key/) { get; } | लेयर रिसोर्स कुंजी प्राप्त करता है। |
+| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources/nvrtresource/length/) { get; } | बाइट्स में लेयर रिसोर्स की लंबाई प्राप्त करता है। |
+| virtual [PsdVersion](../../aspose.psd.fileformats.psd.layers/layerresource/psdversion/) { get; } | लेयर रिसोर्स के लिए आवश्यक न्यूनतम PSD संस्करण प्राप्त करता है। 0 का अर्थ कोई प्रतिबंध नहीं है। |
+| virtual [Signature](../../aspose.psd.fileformats.psd.layers/layerresource/signature/) { get; } | हस्ताक्षर प्राप्त करता है। |
 
-## खेत
+## मेथड्स
 
 | नाम | विवरण |
 | --- | --- |
-| const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/nvrtresource/typetoolkey/) | प्रकार उपकरण जानकारी कुंजी। |
+| override [Save](../../aspose.psd.fileformats.psd.layers.layerresources/nvrtresource/save/)(StreamContainer, int) | निर्दिष्ट स्ट्रीम कंटेनर में रिसोर्स को सहेजता है। |
+| override [ToString](../../aspose.psd.fileformats.psd.layers/layerresource/tostring/)() | इस उदाहरण का प्रतिनिधित्व करने वाली एक स्ट्रिंग लौटाता है। |
 
-### उदाहरण
+## फ़ील्ड्स
 
-निम्न उदाहरण दर्शाता है कि NvrtResource कैसे प्राप्त करें।
+| नाम | विवरण |
+| --- | --- |
+| const [TypeToolKey](../../aspose.psd.fileformats.psd.layers.layerresources/nvrtresource/typetoolkey/) | टाइप टूल जानकारी कुंजी। |
+
+## उदाहरण
+
+निम्नलिखित उदाहरण दिखाता है कि NvrtResource कैसे प्राप्त करें।
 
 ```csharp
 [C#]
@@ -72,11 +73,11 @@ using (PsdImage psdImage = (PsdImage)Image.Load(sourceFilePath))
 }
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * class [AdjustmentLayerResource](../adjustmentlayerresource/)
 * class [LayerResource](../../aspose.psd.fileformats.psd.layers/layerresource/)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
-* सभा [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../)
 
 

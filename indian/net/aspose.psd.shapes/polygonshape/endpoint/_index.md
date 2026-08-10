@@ -1,28 +1,29 @@
 ---
-title: PolygonShape.EndPoint
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: PolygonShape संपत्त. अंतम आकर बंदु प्रप्त करत है
+title: "PolygonShape.EndPoint"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "PolygonShape प्रॉपर्टी। समाप्ति आकार बिंदु प्राप्त करता है"
 type: docs
 weight: 40
 url: /hi/net/aspose.psd.shapes/polygonshape/endpoint/
 ---
+{{< psd/tize >}}
 ## PolygonShape.EndPoint property
 
-अंतिम आकार बिंदु प्राप्त करता है।
+समाप्ति आकार बिंदु को प्राप्त करता है।
 
 ```csharp
 public virtual PointF EndPoint { get; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-अंतिम आकार बिंदु।
+समाप्ति आकार बिंदु।
 
-### यह सभी देखें
+### देखें भी
 
 * struct [PointF](../../../aspose.psd/pointf/)
 * class [PolygonShape](../)
-* नाम स्थान [Aspose.PSD.Shapes](../../polygonshape/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 

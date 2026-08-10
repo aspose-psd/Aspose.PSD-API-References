@@ -1,27 +1,28 @@
 ---
-title: MotionWienerFilterOptions.Smooth
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: MotionWienerFilterOptions संपत्त. सुचरू ह जत है य सेट ह जत है
+title: "MotionWienerFilterOptions.Smooth"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "MotionWienerFilterOptions प्रॉपर्टी। स्मूदता को प्राप्त या सेट करता है"
 type: docs
 weight: 40
 url: /hi/net/aspose.psd.imagefilters.filteroptions/motionwienerfilteroptions/smooth/
 ---
+{{< psd/tize >}}
 ## MotionWienerFilterOptions.Smooth property
 
-सुचारू हो जाता है या सेट हो जाता है।
+स्मूथ को प्राप्त करता है या सेट करता है।
 
 ```csharp
 public double Smooth { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-चिकना।
+स्मूदता।
 
-### यह सभी देखें
+### देखें भी
 
 * class [MotionWienerFilterOptions](../)
-* नाम स्थान [Aspose.PSD.ImageFilters.FilterOptions](../../motionwienerfilteroptions/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageFilters.FilterOptions](../../../aspose.psd.imagefilters.filteroptions/)
+* assembly [Aspose.PSD](../../../)
 
 

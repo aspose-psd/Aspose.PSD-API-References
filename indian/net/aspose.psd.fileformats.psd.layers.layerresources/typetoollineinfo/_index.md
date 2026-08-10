@@ -1,14 +1,15 @@
 ---
-title: Class TypeToolLineInfo
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolLineInfo कक्ष. टूल लइन जनकर टइप करें
+title: "क्लास TypeToolLineInfo"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolLineInfo क्लास। टाइप टूल लाइन जानकारी"
 type: docs
-weight: 3310
+weight: 3700
 url: /hi/net/aspose.psd.fileformats.psd.layers.layerresources/typetoollineinfo/
 ---
+{{< psd/tize >}}
 ## TypeToolLineInfo class
 
-टूल लाइन जानकारी टाइप करें।
+टाइप टूल लाइन जानकारी।
 
 ```csharp
 public class TypeToolLineInfo
@@ -18,23 +19,23 @@ public class TypeToolLineInfo
 
 | नाम | विवरण |
 | --- | --- |
-| [TypeToolLineInfo](typetoollineinfo/)() | डिफ़ॉल्ट कंस्ट्रक्टर। |
+| [TypeToolLineInfo](typetoollineinfo/)() | डिफ़ॉल्ट कन्स्ट्रक्टर। |
 
-## गुण
-
-| नाम | विवरण |
-| --- | --- |
-| [Char](../../aspose.psd.fileformats.psd.layers.layerresources/typetoollineinfo/char/) { get; set; } | चार हो जाता है या सेट करता है। |
-
-## तरीकों
+## प्रॉपर्टीज़
 
 | नाम | विवरण |
 | --- | --- |
-| [Save](../../aspose.psd.fileformats.psd.layers.layerresources/typetoollineinfo/save/)(StreamContainer, int) | सहेजता है`TypeToolLineInfo` निर्दिष्ट स्ट्रीम कंटेनर के लिए जानकारी। |
+| [Char](../../aspose.psd.fileformats.psd.layers.layerresources/typetoollineinfo/char/) { get; set; } | चर को प्राप्त करता है या सेट करता है। |
 
-### यह सभी देखें
+## मेथड्स
 
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
-* सभा [Aspose.PSD](../../)
+| नाम | विवरण |
+| --- | --- |
+| [Save](../../aspose.psd.fileformats.psd.layers.layerresources/typetoollineinfo/save/)(StreamContainer, int) | `TypeToolLineInfo` जानकारी को निर्दिष्ट स्ट्रीम कंटेनर में सहेजता है। |
+
+### देखें भी
+
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../)
 
 

@@ -1,37 +1,38 @@
 ---
-title: Txt2Resource.AddTextRecord
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Txt2Resource तरक. टेक्स्ट रकर्ड क रसर्स में जड़त है और टेक्स्ट रकर्ड क आईड लटत है
+title: "Txt2Resource.AddTextRecord"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Txt2Resource मेथड। टेक्स्ट रिकॉर्ड को रिसोर्स में जोड़ता है और टेक्स्ट रिकॉर्ड की आईडी लौटाता है"
 type: docs
-weight: 70
+weight: 40
 url: /hi/net/aspose.psd.fileformats.psd.layers.layerresources/txt2resource/addtextrecord/
 ---
+{{< psd/tize >}}
 ## Txt2Resource.AddTextRecord method
 
-टेक्स्ट रिकॉर्ड को रिसोर्स में जोड़ता है और टेक्स्ट रिकॉर्ड की आईडी लौटाता है।
+टेक्स्ट रिकॉर्ड को रिसोर्स में जोड़ता है और टेक्स्ट रिकॉर्ड का आईडी लौटाता है।
 
 ```csharp
 public int AddTextRecord(string text, RectangleF bounds)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| text | String | रिकॉर्ड पाठ। |
-| bounds | RectangleF | सीमा। |
+| टेक्स्ट | String | रिकॉर्ड टेक्स्ट। |
+| सीमाएँ | RectangleF | सीमाएँ। |
 
-### प्रतिलाभ की मात्रा
+### रिटर्न वैल्यू
 
 रिसोर्स के लिए टेक्स्ट रिकॉर्ड की आईडी लौटाता है
 
 ### अपवाद
 
-| अपवाद | स्थिति |
+| अपवाद | शर्त |
 | --- | --- |
-| [PsdImageException](../../../aspose.psd.coreexceptions.imageformats/psdimageexception/) | अज्ञात Txt2 संसाधन संस्करण। |
+| [PsdImageException](../../../aspose.psd.coreexceptions.imageformats/psdimageexception/) | अज्ञात Txt2 रिसोर्स संस्करण। |
 
-### उदाहरण
+## उदाहरण
 
-निम्न कोड नए ITextStyle गुणों के समर्थन के समर्थन को प्रदर्शित करता है।
+निम्नलिखित कोड नए ITextStyle गुणों के समर्थन को दर्शाता है।
 
 ```csharp
 [C#]
@@ -56,7 +57,7 @@ using (var psdImage = (PsdImage)Image.Load(srcFile))
     psdImage.Save(outputFile);
 }
 
-// मूल्यों की जाँच करें
+// मान जांचें
 using (var srcImage = (PsdImage)Image.Load(srcFile))
 {
     var srcTextLayer = (TextLayer)srcImage.Layers[1];
@@ -83,11 +84,11 @@ using (var srcImage = (PsdImage)Image.Load(srcFile))
 }
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * struct [RectangleF](../../../aspose.psd/rectanglef/)
 * class [Txt2Resource](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../txt2resource/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

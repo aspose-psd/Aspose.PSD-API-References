@@ -1,11 +1,12 @@
 ---
-title: LevelsLayer.GetChannel
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: LevelsLayer तरक. चैनल प्रप्त करत है
+title: "LevelsLayer.GetChannel"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "LevelsLayer विधि। चैनल प्राप्त करता है"
 type: docs
 weight: 20
 url: /hi/net/aspose.psd.fileformats.psd.layers.adjustmentlayers/levelslayer/getchannel/
 ---
+{{< psd/tize >}}
 ## LevelsLayer.GetChannel method
 
 चैनल प्राप्त करता है।
@@ -14,19 +15,19 @@ url: /hi/net/aspose.psd.fileformats.psd.layers.adjustmentlayers/levelslayer/getc
 public LevelChannel GetChannel(int index)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| index | Int32 | अनुक्रमणिका। |
+| index | Int32 | इंडेक्स। |
 
-### प्रतिलाभ की मात्रा
+### रिटर्न वैल्यू
 
-[`LevelChannel`](../../../aspose.psd.fileformats.psd.layers.layerresources/levelchannel/) सूचकांक द्वारा
+[`LevelChannel`](../../../aspose.psd.fileformats.psd.layers.layerresources/levelchannel/) by index
 
-### यह सभी देखें
+### देखें भी
 
 * class [LevelChannel](../../../aspose.psd.fileformats.psd.layers.layerresources/levelchannel/)
 * class [LevelsLayer](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../levelslayer/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/)
+* assembly [Aspose.PSD](../../../)
 
 

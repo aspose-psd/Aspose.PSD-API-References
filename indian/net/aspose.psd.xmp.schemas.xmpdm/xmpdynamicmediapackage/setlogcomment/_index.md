@@ -1,27 +1,28 @@
 ---
-title: XmpDynamicMediaPackage.SetLogComment
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: XmpDynamicMediaPackage तरक. उपयगकर्त क लग टप्पण सेट करत है
+title: "XmpDynamicMediaPackage.SetLogComment"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "XmpDynamicMediaPackage विधि। उपयोगकर्ता की लॉग टिप्पणी सेट करता है।"
 type: docs
 weight: 270
 url: /hi/net/aspose.psd.xmp.schemas.xmpdm/xmpdynamicmediapackage/setlogcomment/
 ---
+{{< psd/tize >}}
 ## XmpDynamicMediaPackage.SetLogComment method
 
-उपयोगकर्ता की लॉग टिप्पणी सेट करता है।
+उपयोगकर्ता की लॉग टिप्पणी को सेट करता है।
 
 ```csharp
 public void SetLogComment(string comment)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| comment | String | टिप्पणी। |
+| टिप्पणी | String | टिप्पणी। |
 
-### यह सभी देखें
+### देखें भी
 
 * class [XmpDynamicMediaPackage](../)
-* नाम स्थान [Aspose.PSD.Xmp.Schemas.XmpDm](../../xmpdynamicmediapackage/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpDm](../../../aspose.psd.xmp.schemas.xmpdm/)
+* assembly [Aspose.PSD](../../../)
 
 

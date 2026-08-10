@@ -1,27 +1,28 @@
 ---
-title: Time.Value
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Time संपत्त. नर्दष्ट पैमने में समय मन प्रप्त य सेट करत है
+title: "Time.Value"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Time property. निर्दिष्ट स्केल में समय मान को प्राप्त करता है या सेट करता है"
 type: docs
 weight: 30
 url: /hi/net/aspose.psd.xmp.schemas.xmpdm/time/value/
 ---
+{{< psd/tize >}}
 ## Time.Value property
 
-निर्दिष्ट पैमाने में समय मान प्राप्त या सेट करता है।
+निर्दिष्ट स्केल में समय मान प्राप्त करता है या सेट करता है।
 
 ```csharp
 public int Value { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-निर्दिष्ट पैमाने में समय मान।
+निर्दिष्ट स्केल में समय मान।
 
-### यह सभी देखें
+### देखें भी
 
 * class [Time](../)
-* नाम स्थान [Aspose.PSD.Xmp.Schemas.XmpDm](../../time/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpDm](../../../aspose.psd.xmp.schemas.xmpdm/)
+* assembly [Aspose.PSD](../../../)
 
 

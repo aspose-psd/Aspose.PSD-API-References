@@ -1,27 +1,28 @@
 ---
-title: VectorShapeBoundingBox.Left
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: VectorShapeBoundingBox संपत्त. बएं ह जत है य सेट करत है
+title: "VectorShapeBoundingBox.Left"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "VectorShapeBoundingBox प्रॉपर्टी। बायाँ प्राप्त करता है या सेट करता है"
 type: docs
 weight: 40
 url: /hi/net/aspose.psd.fileformats.core.vectorpaths/vectorshapeboundingbox/left/
 ---
+{{< psd/tize >}}
 ## VectorShapeBoundingBox.Left property
 
-बाएं हो जाता है या सेट करता है।
+बाएँ को प्राप्त करता है या सेट करता है।
 
 ```csharp
 public double Left { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-बायां।
+बायाँ।
 
-### यह सभी देखें
+### देखें भी
 
 * class [VectorShapeBoundingBox](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Core.VectorPaths](../../vectorshapeboundingbox/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../../)
 
 

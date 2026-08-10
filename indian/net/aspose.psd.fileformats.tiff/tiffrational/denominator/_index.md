@@ -1,27 +1,28 @@
 ---
-title: TiffRational.Denominator
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: TiffRational संपत्त. भजक प्रप्त करत है
+title: "TiffRational.Denominator"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "TiffRational प्रॉपर्टी। हर प्राप्त करता है"
 type: docs
 weight: 30
 url: /hi/net/aspose.psd.fileformats.tiff/tiffrational/denominator/
 ---
+{{< psd/tize >}}
 ## TiffRational.Denominator property
 
-भाजक प्राप्त करता है।
+हर denominator प्राप्त करता है।
 
 ```csharp
 public uint Denominator { get; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-हर.
+हर।
 
-### यह सभी देखें
+### देखें भी
 
 * class [TiffRational](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Tiff](../../tiffrational/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff](../../../aspose.psd.fileformats.tiff/)
+* assembly [Aspose.PSD](../../../)
 
 

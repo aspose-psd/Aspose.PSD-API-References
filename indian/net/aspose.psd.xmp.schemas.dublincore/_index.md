@@ -1,17 +1,18 @@
 ---
-title: Aspose.PSD.Xmp.Schemas.DublinCore
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: नम स्थन में डबलन कर मेटडेट संबंधत सहयक वर्ग स्थरंक और वधयँ शमल हैं
+title: "Aspose.PSD.Xmp.Schemas.DublinCore"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "यह नेमस्पेस Dublin Core मेटाडाटा से संबंधित हेल्पर क्लासेस, कॉन्स्टेंट्स और मेथड्स को शामिल करता है।"
 type: docs
-weight: 530
+weight: 570
 url: /hi/net/aspose.psd.xmp.schemas.dublincore/
 ---
-नाम स्थान में डबलिन कोर मेटाडेटा संबंधित सहायक वर्ग, स्थिरांक और विधियाँ शामिल हैं।
+{{< psd/tize >}}
+Namespace में Dublin Core मेटाडेटा संबंधित हेल्पर क्लासेस, कॉन्स्टेंट्स और मेथड्स शामिल हैं।
 
-## कक्षाओं
+## क्लासेस
 
-| कक्षा | विवरण |
+| क्लास | विवरण |
 | --- | --- |
-| [DublinCorePackage](./dublincorepackage/) | डबलिक कोर स्कीमा का प्रतिनिधित्व करता है। |
+| [DublinCorePackage](./dublincorepackage/) | Dublic Core स्कीमा का प्रतिनिधित्व करता है। |
 
 

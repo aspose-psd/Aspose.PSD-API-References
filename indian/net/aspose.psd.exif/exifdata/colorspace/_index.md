@@ -1,28 +1,29 @@
 ---
-title: ExifData.ColorSpace
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: ExifData संपत्त. रंग स्थन प्रप्त य सेट करत है
+title: "ExifData.ColorSpace"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "ExifData प्रॉपर्टी। कलर स्पेस को प्राप्त करता है या सेट करता है"
 type: docs
 weight: 70
 url: /hi/net/aspose.psd.exif/exifdata/colorspace/
 ---
+{{< psd/tize >}}
 ## ExifData.ColorSpace property
 
-रंग स्थान प्राप्त या सेट करता है।
+कलर स्पेस को प्राप्त करता है या सेट करता है।
 
 ```csharp
 public ExifColorSpace ColorSpace { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-कलर स्पेस।
+रंग स्थान।
 
-### यह सभी देखें
+### देखें भी
 
 * enum [ExifColorSpace](../../../aspose.psd.exif.enums/exifcolorspace/)
 * class [ExifData](../)
-* नाम स्थान [Aspose.PSD.Exif](../../exifdata/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

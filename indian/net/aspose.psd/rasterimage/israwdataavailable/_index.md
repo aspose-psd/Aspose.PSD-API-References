@@ -1,27 +1,28 @@
 ---
-title: RasterImage.IsRawDataAvailable
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: RasterImage संपत्त. एक मन प्रप्त करत है ज दर्शत है क कच्च डेट लड ह रह है य नहं
+title: "RasterImage.IsRawDataAvailable"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "RasterImage property. यह दर्शाने वाला मान प्राप्त करता है कि कच्चा डेटा लोडिंग उपलब्ध है या नहीं"
 type: docs
 weight: 50
 url: /hi/net/aspose.psd/rasterimage/israwdataavailable/
 ---
+{{< psd/tize >}}
 ## RasterImage.IsRawDataAvailable property
 
-एक मान प्राप्त करता है जो दर्शाता है कि कच्चा डेटा लोड हो रहा है या नहीं।
+एक मान प्राप्त करता है जो दर्शाता है कि कच्चा डेटा लोडिंग उपलब्ध है या नहीं।
 
 ```csharp
 public bool IsRawDataAvailable { get; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-`सत्य` यदि यह अपरिष्कृत डेटा लोडिंग उपलब्ध है; अन्यथा,`असत्य` .
+`true` यदि यह कच्चा डेटा लोडिंग उपलब्ध है; अन्यथा, `false`.
 
-### यह सभी देखें
+### देखें भी
 
 * class [RasterImage](../)
-* नाम स्थान [Aspose.PSD](../../rasterimage/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

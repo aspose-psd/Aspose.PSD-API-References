@@ -1,28 +1,29 @@
 ---
-title: InnerShadowEffect.BlendMode
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: InnerShadowEffect संपत्त. ब्लेंड मड प्रप्त य सेट करत है
+title: "InnerShadowEffect.BlendMode"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "InnerShadowEffect प्रॉपर्टी। ब्लेंड मोड प्राप्त करता है या सेट करता है।"
 type: docs
 weight: 20
 url: /hi/net/aspose.psd.fileformats.psd.layers.layereffects/innershadoweffect/blendmode/
 ---
+{{< psd/tize >}}
 ## InnerShadowEffect.BlendMode property
 
-ब्लेंड मोड प्राप्त या सेट करता है।
+ब्लेंड मोड को प्राप्त करता है या सेट करता है।
 
 ```csharp
 public BlendMode BlendMode { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-ब्लेंड मोड.
+ब्लेंड मोड।
 
-### यह सभी देखें
+### देखें भी
 
 * enum [BlendMode](../../../aspose.psd.fileformats.core.blending/blendmode/)
 * class [InnerShadowEffect](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../innershadoweffect/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../../)
 
 

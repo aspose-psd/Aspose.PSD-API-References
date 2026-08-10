@@ -1,11 +1,12 @@
 ---
-title: ClipboardRecord.Type
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: ClipboardRecord संपत्त. प्रकर प्रप्त करत है
+title: "ClipboardRecord.Type"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "ClipboardRecord प्रॉपर्टी। टाइप को प्राप्त करता है"
 type: docs
 weight: 40
 url: /hi/net/aspose.psd.fileformats.core.vectorpaths/clipboardrecord/type/
 ---
+{{< psd/tize >}}
 ## ClipboardRecord.Type property
 
 प्रकार प्राप्त करता है।
@@ -14,15 +15,15 @@ url: /hi/net/aspose.psd.fileformats.core.vectorpaths/clipboardrecord/type/
 public override VectorPathType Type { get; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-प्रकार.
+प्रकार।
 
-### यह सभी देखें
+### देखें भी
 
 * enum [VectorPathType](../../vectorpathtype/)
 * class [ClipboardRecord](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Core.VectorPaths](../../clipboardrecord/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../../)
 
 

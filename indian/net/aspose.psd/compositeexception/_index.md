@@ -1,22 +1,23 @@
 ---
-title: Class CompositeException
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Aspose.PSD.CompositeException कक्ष. समग्र अपवद
+title: "क्लास CompositeException"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Aspose.PSD.CompositeException क्लास। कॉम्पोज़िट एक्सेप्शन।"
 type: docs
 weight: 410
 url: /hi/net/aspose.psd/compositeexception/
 ---
+{{< psd/tize >}}
 ## CompositeException class
 
-समग्र अपवाद
+संयुक्त अपवाद
 
 ```csharp
 public class CompositeException : Exception
 ```
 
-### यह सभी देखें
+### देखें भी
 
-* नाम स्थान [Aspose.PSD](../../aspose.psd/)
-* सभा [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

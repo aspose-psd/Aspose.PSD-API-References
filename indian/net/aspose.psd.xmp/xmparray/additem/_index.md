@@ -1,11 +1,12 @@
 ---
-title: XmpArray.AddItem
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: XmpArray तरक. नय आइटम जड़त है
+title: "XmpArray.AddItem"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "XmpArray मेथड। नया आइटम जोड़ता है।"
 type: docs
 weight: 30
 url: /hi/net/aspose.psd.xmp/xmparray/additem/
 ---
+{{< psd/tize >}}
 ## XmpArray.AddItem method
 
 नया आइटम जोड़ता है।
@@ -14,14 +15,14 @@ url: /hi/net/aspose.psd.xmp/xmparray/additem/
 public void AddItem(string item)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| item | String | आइटम की सूची में जोड़ा जाने वाला आइटम। |
+| आइटम | String | आइटम को आइटमों की सूची में जोड़ा जाना है। |
 
-### यह सभी देखें
+### देखें भी
 
 * class [XmpArray](../)
-* नाम स्थान [Aspose.PSD.Xmp](../../xmparray/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

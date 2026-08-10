@@ -1,14 +1,15 @@
 ---
-title: Enum AutoKerning
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Aspose.PSD.FileFormats.Psd.AutoKerning एनुम. फटशप ऑट कर्नंग मड प्रतकं के बच क दूर
+title: "Enum AutoKerning"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Aspose.PSD.FileFormats.Psd.AutoKerning enum. फ़ोटोशॉप ऑटो केरनिंग मोड, प्रतीकों के बीच की दूरी"
 type: docs
-weight: 1600
+weight: 1610
 url: /hi/net/aspose.psd.fileformats.psd/autokerning/
 ---
+{{< psd/tize >}}
 ## AutoKerning enumeration
 
-फोटोशॉप ऑटो कर्निंग मोड (प्रतीकों के बीच की दूरी)।
+Photoshop ऑटो कर्निंग मोड (प्रतीकों के बीच की दूरी)।
 
 ```csharp
 public enum AutoKerning
@@ -16,15 +17,15 @@ public enum AutoKerning
 
 ### मान
 
-| नाम | कीमत | विवरण |
+| नाम | मान | विवरण |
 | --- | --- | --- |
-| Manual | `0` | मैन्युअल कर्निंग मान. |
-| Metric | `1` | मेट्रिक्स कर्निंग कर्न जोड़े का उपयोग करता है, जो अधिकांश फोंट (उनके डिजाइनरों से) के साथ शामिल हैं। |
-| Optical | `2` | ऑप्टिकल कर्निंग उनके आकार के आधार पर आसन्न वर्णों के बीच की दूरी को समायोजित करता है। |
+| Manual | `0` | मैन्युअल केरनिंग मान। |
+| Metric | `1` | मेट्रिक्स कर्निंग kern जोड़ों का उपयोग करता है, जो अधिकांश फ़ॉन्ट्स (उनके डिज़ाइनरों से) में शामिल होते हैं। |
+| Optical | `2` | ऑप्टिकल कर्निंग निकटवर्ती अक्षरों के आकार के आधार पर उनके बीच की दूरी को समायोजित करता है। |
 
-### उदाहरण
+## उदाहरण
 
-निम्न कोड नए ITextStyle गुणों के समर्थन के समर्थन को प्रदर्शित करता है।
+निम्नलिखित कोड नए ITextStyle गुणों के समर्थन को दर्शाता है।
 
 ```csharp
 [C#]
@@ -49,7 +50,7 @@ using (var psdImage = (PsdImage)Image.Load(srcFile))
     psdImage.Save(outputFile);
 }
 
-// मूल्यों की जाँच करें
+// मान जांचें
 using (var srcImage = (PsdImage)Image.Load(srcFile))
 {
     var srcTextLayer = (TextLayer)srcImage.Layers[1];
@@ -76,9 +77,9 @@ using (var srcImage = (PsdImage)Image.Load(srcFile))
 }
 ```
 
-### यह सभी देखें
+### देखें भी
 
-* नाम स्थान [Aspose.PSD.FileFormats.Psd](../../aspose.psd.fileformats.psd/)
-* सभा [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../)
 
 

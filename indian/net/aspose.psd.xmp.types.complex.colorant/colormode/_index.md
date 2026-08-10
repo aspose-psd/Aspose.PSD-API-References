@@ -1,11 +1,12 @@
 ---
-title: Enum ColorMode
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Aspose.PSD.Xmp.Types.Complex.Colorant.ColorMode एनुम. रंग मड क प्रतनधत्व करत है
+title: "एनम ColorMode"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Aspose.PSD.Xmp.Types.Complex.Colorant.ColorMode एनम. रंग मोड का प्रतिनिधित्व करता है"
 type: docs
-weight: 5990
+weight: 6490
 url: /hi/net/aspose.psd.xmp.types.complex.colorant/colormode/
 ---
+{{< psd/tize >}}
 ## ColorMode enumeration
 
 रंग मोड का प्रतिनिधित्व करता है।
@@ -16,15 +17,15 @@ public enum ColorMode
 
 ### मान
 
-| नाम | कीमत | विवरण |
+| नाम | मान | विवरण |
 | --- | --- | --- |
-| Cmyk | `1` | सीएमवाईके रंग मोड। |
-| Rgb | `2` | आरजीबी कलर मोड. |
-| Lab | `3` | लैब कलर मोड. |
+| Cmyk | `1` | CMYK रंग मोड। |
+| Rgb | `2` | RGB रंग मोड। |
+| Lab | `3` | LAB रंग मोड। |
 
-### यह सभी देखें
+### देखें भी
 
-* नाम स्थान [Aspose.PSD.Xmp.Types.Complex.Colorant](../../aspose.psd.xmp.types.complex.colorant/)
-* सभा [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.Colorant](../../aspose.psd.xmp.types.complex.colorant/)
+* assembly [Aspose.PSD](../../)
 
 

@@ -1,28 +1,25 @@
 ---
-title: ImageOptionsBase.VectorRasterizationOptions
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: ImageOptionsBase संपत्त. वेक्टर रेखंकन वकल्प प्रप्त य सेट करत है
+title: "ImageOptionsBase.VectorRasterizationOptions"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "ImageOptionsBase प्रॉपर्टी। वेक्टर रास्टराइज़ेशन विकल्पों को प्राप्त करता है या सेट करता है"
 type: docs
 weight: 90
 url: /hi/net/aspose.psd/imageoptionsbase/vectorrasterizationoptions/
 ---
+{{< psd/tize >}}
 ## ImageOptionsBase.VectorRasterizationOptions property
 
-वेक्टर रेखांकन विकल्प प्राप्त या सेट करता है।
+वेक्टर रास्टराइज़ेशन विकल्प प्राप्त करता है या सेट करता है।
 
 ```csharp
 public VectorRasterizationOptions VectorRasterizationOptions { get; set; }
 ```
 
-### संपत्ति मूल्य
-
-वेक्टर रेखांकन विकल्प।
-
-### यह सभी देखें
+### देखें भी
 
 * class [VectorRasterizationOptions](../../../aspose.psd.imageoptions/vectorrasterizationoptions/)
 * class [ImageOptionsBase](../)
-* नाम स्थान [Aspose.PSD](../../imageoptionsbase/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

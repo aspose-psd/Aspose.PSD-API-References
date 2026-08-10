@@ -1,43 +1,44 @@
 ---
-title: Font.Font
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Font नर्मत. क एक नय उदहरण प्ररंभ करत हैFont वर्ग.
+title: "Font.Font"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Font कंस्ट्रक्टर। Font क्लास का नया इंस्टेंस इनिशियलाइज़ करता है"
 type: docs
 weight: 10
 url: /hi/net/aspose.psd.xmp.types.complex.font/font/font/
 ---
+{{< psd/tize >}}
 ## Font() {#constructor}
 
-का एक नया उदाहरण प्रारंभ करता है[`Font`](../) वर्ग.
+[`Font`](../) क्लास का नया इंस्टेंस इनिशियलाइज़ करता है।
 
 ```csharp
 public Font()
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * class [Font](../)
-* नाम स्थान [Aspose.PSD.Xmp.Types.Complex.Font](../../font/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.Font](../../../aspose.psd.xmp.types.complex.font/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Font(string) {#constructor_1}
 
-का एक नया उदाहरण प्रारंभ करता है[`Font`](../) वर्ग.
+[`Font`](../) क्लास का नया इंस्टेंस इनिशियलाइज़ करता है।
 
 ```csharp
 public Font(string fontFamily)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| fontFamily | String | फुहारा परिवार। |
+| fontFamily | String | फ़ॉन्ट परिवार। |
 
-### यह सभी देखें
+### देखें भी
 
 * class [Font](../)
-* नाम स्थान [Aspose.PSD.Xmp.Types.Complex.Font](../../font/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.Font](../../../aspose.psd.xmp.types.complex.font/)
+* assembly [Aspose.PSD](../../../)
 
 

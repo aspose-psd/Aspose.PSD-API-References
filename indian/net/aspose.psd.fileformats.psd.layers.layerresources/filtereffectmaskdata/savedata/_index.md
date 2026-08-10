@@ -1,28 +1,29 @@
 ---
-title: FilterEffectMaskData.SaveData
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: FilterEffectMaskData तरक. संसधन क नर्दष्ट स्ट्रम कंटेनर में सहेजत है
+title: "FilterEffectMaskData.SaveData"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "FilterEffectMaskData मेथड। संसाधन को निर्दिष्ट स्ट्रीम कंटेनर में सहेजता है"
 type: docs
 weight: 110
 url: /hi/net/aspose.psd.fileformats.psd.layers.layerresources/filtereffectmaskdata/savedata/
 ---
+{{< psd/tize >}}
 ## FilterEffectMaskData.SaveData method
 
-संसाधन को निर्दिष्ट स्ट्रीम कंटेनर में सहेजता है।
+निर्दिष्ट स्ट्रीम कंटेनर में रिसोर्स को सहेजता है।
 
 ```csharp
 public void SaveData(StreamContainer streamContainer)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| streamContainer | StreamContainer | सहेजा जाने वाला स्ट्रीम कंटेनर. |
+| streamContainer | StreamContainer | सहेजने के लिए स्ट्रीम कंटेनर। |
 
-### यह सभी देखें
+### देखें भी
 
 * class [StreamContainer](../../../aspose.psd/streamcontainer/)
 * class [FilterEffectMaskData](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../filtereffectmaskdata/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

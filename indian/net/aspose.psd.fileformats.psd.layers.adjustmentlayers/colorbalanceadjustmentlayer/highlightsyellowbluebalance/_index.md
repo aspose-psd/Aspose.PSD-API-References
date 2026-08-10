@@ -1,32 +1,33 @@
 ---
-title: ColorBalanceAdjustmentLayer.HighlightsYellowBlueBalance
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: ColorBalanceAdjustmentLayer संपत्त. हइलइट पल नल बैलेंस प्रप्त य सेट करत है
+title: "ColorBalanceAdjustmentLayer.HighlightsYellowBlueBalance"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "ColorBalanceAdjustmentLayer प्रॉपर्टी। Highlights Yellow Blue Balance को प्राप्त करता है या सेट करता है"
 type: docs
 weight: 30
 url: /hi/net/aspose.psd.fileformats.psd.layers.adjustmentlayers/colorbalanceadjustmentlayer/highlightsyellowbluebalance/
 ---
+{{< psd/tize >}}
 ## ColorBalanceAdjustmentLayer.HighlightsYellowBlueBalance property
 
-हाइलाइट पीला नीला बैलेंस प्राप्त या सेट करता है।
+हाइलाइट्स येलो ब्लू बैलेंस को प्राप्त करता है या सेट करता है।
 
 ```csharp
 public short HighlightsYellowBlueBalance { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-हाइलाइट पीला नीला संतुलन।
+यह Highlights Yellow Blue Balance।
 
 ### अपवाद
 
-| अपवाद | स्थिति |
+| अपवाद | शर्त |
 | --- | --- |
-| ArgumentOutOfRangeException | हाइलाइट पीला नीला बैलेंस -100 से +100 के बीच होना चाहिए। |
+| ArgumentOutOfRangeException | Highlights Yellow Blue Balance -100 से +100 की सीमा में होना चाहिए। |
 
-### उदाहरण
+## उदाहरण
 
-निम्न कोड ColorBalanceAdjustmentLayer के लिए समर्थन प्रदर्शित करता है।
+निम्नलिखित कोड ColorBalanceAdjustmentLayer के समर्थन को दर्शाता है।
 
 ```csharp
 [C#]
@@ -57,10 +58,10 @@ using (var im = (PsdImage)Image.Load(filePath))
 }
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * class [ColorBalanceAdjustmentLayer](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../colorbalanceadjustmentlayer/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/)
+* assembly [Aspose.PSD](../../../)
 
 

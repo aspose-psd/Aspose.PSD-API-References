@@ -1,11 +1,12 @@
 ---
-title: PixelDataFormat.Cmyka
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: PixelDataFormat संपत्त. acmyk प्रप्त करत है
+title: "PixelDataFormat.Cmyka"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "PixelDataFormat प्रॉपर्टी। acmyk प्राप्त करता है।"
 type: docs
 weight: 20
 url: /hi/net/aspose.psd/pixeldataformat/cmyka/
 ---
+{{< psd/tize >}}
 ## PixelDataFormat.Cmyka property
 
 acmyk प्राप्त करता है।
@@ -14,14 +15,14 @@ acmyk प्राप्त करता है।
 public static PixelDataFormat Cmyka { get; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-द[`PixelDataFormat`](../) अल्फा, सियान, मैजेंटा, पीले और काले प्रत्येक के लिए 8 बिट्स के साथ 40 बिट्स प्रति पिक्सेल के लिए परिभाषित किया गया है।
+यह [`PixelDataFormat`](../) 40 बिट प्रति पिक्सेल के लिए परिभाषित है, जिसमें अल्फा, सियान, मैजेंटा, येलो और ब्लैक के प्रत्येक के लिए 8 बिट होते हैं।
 
-### यह सभी देखें
+### देखें भी
 
 * class [PixelDataFormat](../)
-* नाम स्थान [Aspose.PSD](../../pixeldataformat/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

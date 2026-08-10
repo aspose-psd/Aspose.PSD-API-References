@@ -1,43 +1,44 @@
 ---
-title: ColorMatrix.ColorMatrix
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: ColorMatrix नर्मत. क एक नय उदहरण प्ररंभ करत हैColorMatrix वर्ग.
+title: "ColorMatrix.ColorMatrix"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "ColorMatrix कंस्ट्रक्टर। ColorMatrix क्लास का एक नया इंस्टेंस प्रारंभ करता है"
 type: docs
 weight: 10
 url: /hi/net/aspose.psd/colormatrix/colormatrix/
 ---
+{{< psd/tize >}}
 ## ColorMatrix() {#constructor}
 
-का एक नया उदाहरण प्रारंभ करता है[`ColorMatrix`](../) वर्ग.
+[`ColorMatrix`](../) क्लास का एक नया इंस्टेंस प्रारंभ करता है।
 
 ```csharp
 public ColorMatrix()
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * class [ColorMatrix](../)
-* नाम स्थान [Aspose.PSD](../../colormatrix/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## ColorMatrix(float[][]) {#constructor_1}
 
-का एक नया उदाहरण प्रारंभ करता है[`ColorMatrix`](../) वर्ग निर्दिष्ट मैट्रिक्स में तत्वों का उपयोग कर*newColorMatrix* .
+[`ColorMatrix`](../) क्लास का एक नया इंस्टेंस प्रारंभ करता है, निर्दिष्ट मैट्रिक्स *newColorMatrix* के तत्वों का उपयोग करके।
 
 ```csharp
 public ColorMatrix(float[][] newColorMatrix)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| newColorMatrix | Single[][] | नए के लिए तत्वों के मूल्य[`ColorMatrix`](../). |
+| newColorMatrix | Single[][] | नए [`ColorMatrix`](../) के तत्वों के मान। |
 
-### यह सभी देखें
+### देखें भी
 
 * class [ColorMatrix](../)
-* नाम स्थान [Aspose.PSD](../../colormatrix/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

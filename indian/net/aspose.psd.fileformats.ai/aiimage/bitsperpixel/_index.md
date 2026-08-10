@@ -1,27 +1,28 @@
 ---
-title: AiImage.BitsPerPixel
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: AiImage संपत्त. छव बट्स प्रत पक्सेल संख्य प्रप्त करत है
+title: "AiImage.BitsPerPixel"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "AiImage प्रॉपर्टी। इमेज बिट्स प्रति पिक्सेल की गिनती प्राप्त करता है।"
 type: docs
-weight: 20
+weight: 30
 url: /hi/net/aspose.psd.fileformats.ai/aiimage/bitsperpixel/
 ---
+{{< psd/tize >}}
 ## AiImage.BitsPerPixel property
 
-छवि बिट्स प्रति पिक्सेल संख्या प्राप्त करता है।
+छवि के बिट्स प्रति पिक्सेल की गिनती प्राप्त करता है।
 
 ```csharp
 public override int BitsPerPixel { get; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-छवि बिट्स प्रति पिक्सेल गिनती.
+इमेज बिट्स प्रति पिक्सेल काउंट।
 
-### यह सभी देखें
+### देखें भी
 
 * class [AiImage](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Ai](../../aiimage/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: ColorRangeHsl.LeftBorder
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: ColorRangeHsl संपत्त. बयं बर्डर प्रप्त करत है य सेट करत है.
+title: "ColorRangeHsl.LeftBorder"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "ColorRangeHsl प्रॉपर्टी। बाएँ सीमा को प्राप्त करता है या सेट करता है"
 type: docs
 weight: 30
 url: /hi/net/aspose.psd.fileformats.psd.layers.layerresources/colorrangehsl/leftborder/
 ---
+{{< psd/tize >}}
 ## ColorRangeHsl.LeftBorder property
 
-बायां बॉर्डर प्राप्त करता है या सेट करता है.
+बाएँ सीमा को प्राप्त करता है या सेट करता है।
 
 ```csharp
 public short LeftBorder { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-बायां बॉर्डर.
+बाएँ सीमा।
 
-### यह सभी देखें
+### देखें भी
 
 * class [ColorRangeHsl](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../colorrangehsl/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: ColorantRgb.Blue
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: ColorantRgb संपत्त. नल घटक मन प्रप्त य सेट करत है
+title: "ColorantRgb.Blue"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "ColorantRgb प्रॉपर्टी। ब्लू घटक मान को प्राप्त करता है या सेट करता है"
 type: docs
 weight: 20
 url: /hi/net/aspose.psd.xmp.types.complex.colorant/colorantrgb/blue/
 ---
+{{< psd/tize >}}
 ## ColorantRgb.Blue property
 
-नीला घटक मान प्राप्त या सेट करता है।
+ब्लू घटक मान को प्राप्त करता है या सेट करता है।
 
 ```csharp
 public byte Blue { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-नीला घटक मान।
+ब्लू घटक मान।
 
-### यह सभी देखें
+### देखें भी
 
 * class [ColorantRgb](../)
-* नाम स्थान [Aspose.PSD.Xmp.Types.Complex.Colorant](../../colorantrgb/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.Colorant](../../../aspose.psd.xmp.types.complex.colorant/)
+* assembly [Aspose.PSD](../../../)
 
 

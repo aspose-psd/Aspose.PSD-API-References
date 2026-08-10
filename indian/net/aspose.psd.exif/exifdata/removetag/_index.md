@@ -1,48 +1,49 @@
 ---
-title: ExifData.RemoveTag
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: ExifData तरक. कंटेनर से टैग नकलें
+title: "ExifData.RemoveTag"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "ExifData मेथड। कंटेनर से टैग हटाएँ"
 type: docs
 weight: 1090
 url: /hi/net/aspose.psd.exif/exifdata/removetag/
 ---
+{{< psd/tize >}}
 ## RemoveTag(ExifProperties) {#removetag}
 
-कंटेनर से टैग निकालें
+कंटेनर से टैग हटाएँ
 
 ```csharp
 public void RemoveTag(ExifProperties tag)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| tag | ExifProperties | हटाने के लिए टैग |
+| टैग | ExifProperties | हटाने के लिए टैग |
 
-### यह सभी देखें
+### देखें भी
 
 * enum [ExifProperties](../../exifproperties/)
 * class [ExifData](../)
-* नाम स्थान [Aspose.PSD.Exif](../../exifdata/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## RemoveTag(ushort) {#removetag_1}
 
-कंटेनर से टैग निकालें
+कंटेनर से टैग हटाएँ
 
 ```csharp
 public void RemoveTag(ushort tagId)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| tagId | UInt16 | निकालने के लिए टैग पहचानकर्ता। |
+| tagId | UInt16 | हटाने के लिए टैग पहचानकर्ता। |
 
-### यह सभी देखें
+### देखें भी
 
 * class [ExifData](../)
-* नाम स्थान [Aspose.PSD.Exif](../../exifdata/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

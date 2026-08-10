@@ -1,27 +1,28 @@
 ---
-title: AiLayerSection.Green
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: AiLayerSection संपत्त. हरे रंग के घटक क प्रप्त य सेट करत है
+title: "AiLayerSection.Green"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "AiLayerSection प्रॉपर्टी। हरे रंग घटक को प्राप्त करता है या सेट करता है"
 type: docs
-weight: 40
+weight: 50
 url: /hi/net/aspose.psd.fileformats.ai/ailayersection/green/
 ---
+{{< psd/tize >}}
 ## AiLayerSection.Green property
 
-हरे रंग के घटक को प्राप्त या सेट करता है।
+हरे रंग घटक को प्राप्त करता है या सेट करता है।
 
 ```csharp
 public int Green { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
 हरा रंग घटक।
 
-### यह सभी देखें
+### देखें भी
 
 * class [AiLayerSection](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Ai](../../ailayersection/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

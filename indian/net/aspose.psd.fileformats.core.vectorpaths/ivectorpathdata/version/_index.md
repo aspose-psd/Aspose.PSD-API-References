@@ -1,34 +1,35 @@
 ---
-title: IVectorPathData.Version
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: IVectorPathData संपत्त. संस्करण प्रप्त य सेट करत है
+title: "IVectorPathData.Version"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "IVectorPathData प्रॉपर्टी। संस्करण प्राप्त करता या सेट करता है"
 type: docs
 weight: 50
 url: /hi/net/aspose.psd.fileformats.core.vectorpaths/ivectorpathdata/version/
 ---
+{{< psd/tize >}}
 ## IVectorPathData.Version property
 
-संस्करण प्राप्त या सेट करता है।
+संस्करण को प्राप्त करता है या सेट करता है।
 
 ```csharp
 public int Version { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-संस्करण।
+संस्करण.
 
-### उदाहरण
+## उदाहरण
 
-यह उदाहरण फसल संचालन के सही कार्य के लिए PsdImage.ImageResources में 'WorkingPathResource' संसाधन के समर्थन को प्रदर्शित करता है।
+यह उदाहरण PsdImage.ImageResources में 'WorkingPathResource' संसाधन के समर्थन को दर्शाता है ताकि Crop ऑपरेशन सही ढंग से काम करे।
 
 ```csharp
 [C#]
 
-// क्रॉप इमेज और सेव करें।
+// इमेज को क्रॉप करें और सहेजें।
 using (var psdImage = (PsdImage)Image.Load(sourceFile))
 {
-    // वर्किंगपाथ रिसोर्स संसाधन खोजें।
+    // WorkingPathResource संसाधन खोजें।
     ResourceBlock[] imageResources = psdImage.ImageResources;
     WorkingPathResource workingPathResource = null;
     foreach (var imageResource in imageResources)
@@ -46,15 +47,15 @@ using (var psdImage = (PsdImage)Image.Load(sourceFile))
         throw new Exception("Values is incorrect.");
     }
 
-    // फसल और बचाओ।
+    // क्रॉप करें और सहेजें।
     psdImage.Crop(0, 500, 0, 200);
     psdImage.Save(outputFile);
 }
 
-// सहेजी गई छवि लोड करें और परिवर्तनों की जांच करें।
+// सहेजी गई इमेज लोड करें और बदलावों की जाँच करें।
 using (var psdImage = (PsdImage)Image.Load(outputFile))
 {
-    // वर्किंगपाथ रिसोर्स संसाधन खोजें।
+    // WorkingPathResource संसाधन खोजें।
     ResourceBlock[] imageResources = psdImage.ImageResources;
     WorkingPathResource workingPathResource = null;
     foreach (var imageResource in imageResources)
@@ -74,10 +75,10 @@ using (var psdImage = (PsdImage)Image.Load(outputFile))
 }
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * interface [IVectorPathData](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Core.VectorPaths](../../ivectorpathdata/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../../)
 
 

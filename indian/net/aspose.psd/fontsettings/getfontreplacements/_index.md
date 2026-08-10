@@ -1,30 +1,31 @@
 ---
-title: FontSettings.GetFontReplacements
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: FontSettings तरक. फ़न्ट नम द्वर फ़न्ट प्रतस्थपन सरण प्रप्त करत है
+title: "FontSettings.GetFontReplacements"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "FontSettings मेथड। फ़ॉन्ट नाम द्वारा फ़ॉन्ट प्रतिस्थापन एरे प्राप्त करता है।"
 type: docs
-weight: 50
+weight: 60
 url: /hi/net/aspose.psd/fontsettings/getfontreplacements/
 ---
+{{< psd/tize >}}
 ## FontSettings.GetFontReplacements method
 
-फ़ॉन्ट नाम द्वारा फ़ॉन्ट प्रतिस्थापन सरणी प्राप्त करता है
+फ़ॉन्ट नाम के द्वारा फ़ॉन्ट प्रतिस्थापन एरे प्राप्त करता है।
 
 ```csharp
 public static string[] GetFontReplacements(string fontName)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
 | fontName | String | फ़ॉन्ट का नाम। |
 
-### प्रतिलाभ की मात्रा
+### रिटर्न वैल्यू
 
-प्रदान किए गए फोंट के लिए प्रतिस्थापन के नामों की सरणी
+प्रदान किए गए फ़ॉन्ट्स के लिए प्रतिस्थापन नामों की एरे
 
-### उदाहरण
+## उदाहरण
 
-निम्न कोड उपयोग करने वाले फोंट को प्रोग्रामेटिक रूप से सीमित करने की क्षमता प्रदर्शित करता है।
+निम्नलिखित कोड प्रोग्रामेटिक रूप से फ़ॉन्ट को सीमित करने की क्षमता दर्शाता है।
 
 ```csharp
 [C#]
@@ -47,7 +48,8 @@ try
     FontSettings.SetFontReplacements("Arial", arialReplacement);
     FontSettings.SetFontReplacements("Times New Roman", timesReplacement);
 
-    using (PsdImage image = (PsdImage)Image.Load(srcFile))
+    using (PsdImage image = (PsdImage)Image.Load(srcFile,
+        new PsdLoadOptions() { AllowNonChangedLayerRepaint = true }))
     {
         image.Save(output, new PngOptions() { ColorType = PngColorType.TruecolorWithAlpha });
     }
@@ -59,10 +61,10 @@ finally
 }
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * class [FontSettings](../)
-* नाम स्थान [Aspose.PSD](../../fontsettings/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

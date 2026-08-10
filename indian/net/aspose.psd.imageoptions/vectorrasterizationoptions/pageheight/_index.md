@@ -1,23 +1,24 @@
 ---
-title: VectorRasterizationOptions.PageHeight
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: VectorRasterizationOptions संपत्त. पृष्ठ ऊंचई प्रप्त य सेट करत है
+title: "VectorRasterizationOptions.PageHeight"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "VectorRasterizationOptions प्रॉपर्टी। पृष्ठ की ऊँचाई प्राप्त करता है या सेट करता है"
 type: docs
 weight: 60
 url: /hi/net/aspose.psd.imageoptions/vectorrasterizationoptions/pageheight/
 ---
+{{< psd/tize >}}
 ## VectorRasterizationOptions.PageHeight property
 
-पृष्ठ ऊंचाई प्राप्त या सेट करता है।
+प्राप्त करता है या सेट करता है पृष्ठ ऊँचाई।
 
 ```csharp
 public float PageHeight { get; set; }
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * class [VectorRasterizationOptions](../)
-* नाम स्थान [Aspose.PSD.ImageOptions](../../vectorrasterizationoptions/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

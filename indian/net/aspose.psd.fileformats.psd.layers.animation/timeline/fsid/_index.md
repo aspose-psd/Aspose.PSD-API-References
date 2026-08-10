@@ -1,23 +1,24 @@
 ---
-title: TimeLine.FsID
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: TimeLine संपत्त. FsID मन प्रप्त य सेट करत है
+title: "Timeline.FsID"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Timeline प्रॉपर्टी. FsID मान को प्राप्त करता है या सेट करता है"
 type: docs
-weight: 60
+weight: 50
 url: /hi/net/aspose.psd.fileformats.psd.layers.animation/timeline/fsid/
 ---
-## TimeLine.FsID property
+{{< psd/tize >}}
+## Timeline.FsID property
 
-FsID मान प्राप्त या सेट करता है।
+FsID मान प्राप्त करता है या सेट करता है।
 
 ```csharp
 public int FsID { get; set; }
 ```
 
-### यह सभी देखें
+### देखें भी
 
-* class [TimeLine](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.Animation](../../timeline/)
-* सभा [Aspose.PSD](../../../)
+* class [Timeline](../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.Animation](../../../aspose.psd.fileformats.psd.layers.animation/)
+* assembly [Aspose.PSD](../../../)
 
 

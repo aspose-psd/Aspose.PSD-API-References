@@ -1,26 +1,27 @@
 ---
-title: FontSettings.SetAllowedFonts
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: FontSettings तरक. फंट क सूच द्वर उपयग करने वले फ़न्ट क प्रतबंधत करत है कृपय प्रतबंध से पहले वस्तवक फ़न्ट नमं क जंच करें प्रतबंध हटने के लए अनुमत फ़न्ट सूच क शून्य पर सेट करें
+title: "FontSettings.SetAllowedFonts"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "FontSettings method. फ़ॉन्ट को फ़ॉन्ट सूची द्वारा प्रतिबंधित करता है। प्रतिबंध लगाने से पहले वास्तविक फ़ॉन्ट नाम जांचें। प्रतिबंध हटाने के लिए अनुमत फ़ॉन्ट सूची को Null पर सेट करें।"
 type: docs
-weight: 100
+weight: 120
 url: /hi/net/aspose.psd/fontsettings/setallowedfonts/
 ---
+{{< psd/tize >}}
 ## FontSettings.SetAllowedFonts method
 
-फोंट की सूची द्वारा उपयोग करने वाले फ़ॉन्ट को प्रतिबंधित करता है। कृपया प्रतिबंध से पहले वास्तविक फ़ॉन्ट नामों की जांच करें प्रतिबंध हटाने के लिए अनुमत फ़ॉन्ट सूची को शून्य पर सेट करें
+फ़ॉन्ट को फ़ॉन्टों की सूची द्वारा प्रतिबंधित करता है। प्रतिबंध से पहले वास्तविक फ़ॉन्ट नाम जाँचें। प्रतिबंध हटाने के लिए अनुमत फ़ॉन्ट सूची को Null सेट करें।
 
 ```csharp
 public static void SetAllowedFonts(string[] fontList)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
 | fontList | String[] | फ़ॉन्ट सूची। |
 
-### उदाहरण
+## उदाहरण
 
-निम्न कोड उपयोग करने वाले फोंट को प्रोग्रामेटिक रूप से सीमित करने की क्षमता प्रदर्शित करता है।
+निम्नलिखित कोड प्रोग्रामेटिक रूप से फ़ॉन्ट को सीमित करने की क्षमता दर्शाता है।
 
 ```csharp
 [C#]
@@ -43,7 +44,8 @@ try
     FontSettings.SetFontReplacements("Arial", arialReplacement);
     FontSettings.SetFontReplacements("Times New Roman", timesReplacement);
 
-    using (PsdImage image = (PsdImage)Image.Load(srcFile))
+    using (PsdImage image = (PsdImage)Image.Load(srcFile,
+        new PsdLoadOptions() { AllowNonChangedLayerRepaint = true }))
     {
         image.Save(output, new PngOptions() { ColorType = PngColorType.TruecolorWithAlpha });
     }
@@ -55,10 +57,10 @@ finally
 }
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * class [FontSettings](../)
-* नाम स्थान [Aspose.PSD](../../fontsettings/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

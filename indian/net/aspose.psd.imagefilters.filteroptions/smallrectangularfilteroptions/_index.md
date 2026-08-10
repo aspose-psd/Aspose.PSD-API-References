@@ -1,14 +1,15 @@
 ---
-title: Class SmallRectangularFilterOptions
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Aspose.PSD.ImageFilters.FilterOptions.SmallRectangularFilterOptions कक्ष. छट आयतकर फ़ल्टर वकल्प
+title: "क्लास SmallRectangularFilterOptions"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Aspose.PSD.ImageFilters.FilterOptions.SmallRectangularFilterOptions क्लास। छोटा आयताकार फ़िल्टर विकल्प"
 type: docs
-weight: 4750
+weight: 5220
 url: /hi/net/aspose.psd.imagefilters.filteroptions/smallrectangularfilteroptions/
 ---
+{{< psd/tize >}}
 ## SmallRectangularFilterOptions class
 
-छोटा आयताकार फ़िल्टर विकल्प
+छोटे आयताकार फ़िल्टर विकल्प
 
 ```csharp
 public class SmallRectangularFilterOptions : FilterOptionsBase
@@ -18,12 +19,12 @@ public class SmallRectangularFilterOptions : FilterOptionsBase
 
 | नाम | विवरण |
 | --- | --- |
-| [SmallRectangularFilterOptions](smallrectangularfilteroptions/)() | डिफ़ॉल्ट कंस्ट्रक्टर। |
+| [SmallRectangularFilterOptions](smallrectangularfilteroptions/)() | डिफ़ॉल्ट कन्स्ट्रक्टर। |
 
-### यह सभी देखें
+### देखें भी
 
 * class [FilterOptionsBase](../filteroptionsbase/)
-* नाम स्थान [Aspose.PSD.ImageFilters.FilterOptions](../../aspose.psd.imagefilters.filteroptions/)
-* सभा [Aspose.PSD](../../)
+* namespace [Aspose.PSD.ImageFilters.FilterOptions](../../aspose.psd.imagefilters.filteroptions/)
+* assembly [Aspose.PSD](../../)
 
 

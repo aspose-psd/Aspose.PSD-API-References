@@ -1,46 +1,54 @@
 ---
-title: Class PatternFillSettings
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Aspose.PSD.FileFormats.Psd.Layers.FillSettings.PatternFillSettings कक्ष. पैटर्न भरण प्रभव सेटंग
+title: "क्लास PatternFillSettings"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Aspose.PSD.FileFormats.Psd.Layers.FillSettings.PatternFillSettings क्लास। पैटर्न फ़िल इफ़ेक्ट सेटिंग्स"
 type: docs
-weight: 2040
+weight: 2170
 url: /hi/net/aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings/
 ---
+{{< psd/tize >}}
 ## PatternFillSettings class
 
-पैटर्न भरण प्रभाव सेटिंग
+पैटर्न फ़िल इफ़ेक्ट सेटिंग्स
 
 ```csharp
 public class PatternFillSettings : BaseFillSettings, IPatternFillSettings
 ```
 
-## गुण
+## कंस्ट्रक्टर्स
 
 | नाम | विवरण |
 | --- | --- |
-| [AlignWithLayer](../../aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings/alignwithlayer/) { get; set; } | [परत के साथ लिंक] का संकेत देने वाला मान प्राप्त या सेट करता है। |
-| [Color](../../aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings/color/) { get; set; } | रंग प्राप्त या सेट करता है। |
-| override [FillType](../../aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings/filltype/) { get; } | भरण प्रकार |
-| [HorizontalOffset](../../aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings/horizontaloffset/) { get; set; } | क्षैतिज ऑफसेट प्राप्त या सेट करता है। |
-| [Linked](../../aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings/linked/) { get; set; } | एक मान प्राप्त करता है या सेट करता है जो दर्शाता है कि यह`PatternFillSettings`जुड़ा हुआ है. |
-| [PatternData](../../aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings/patterndata/) { get; set; } | पैटर्न डेटा प्राप्त या सेट करता है। |
-| [PatternHeight](../../aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings/patternheight/) { get; set; } | पैटर्न की ऊंचाई प्राप्त या सेट करता है। |
-| [PatternId](../../aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings/patternid/) { get; set; } | पैटर्न आइडेंटिफ़ायर प्राप्त या सेट करता है। |
-| [PatternName](../../aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings/patternname/) { get; set; } | पैटर्न का नाम प्राप्त या सेट करता है। |
-| [PatternWidth](../../aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings/patternwidth/) { get; set; } | पैटर्न की चौड़ाई प्राप्त या सेट करता है। |
-| [PointType](../../aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings/pointtype/) { get; set; } | बिंदु के प्रकार को प्राप्त या सेट करता है। |
-| [Scale](../../aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings/scale/) { get; set; } | स्केल प्राप्त करता है या सेट करता है। |
-| [VerticalOffset](../../aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings/verticaloffset/) { get; set; } | वर्टिकल ऑफ़सेट प्राप्त या सेट करता है। |
+| [PatternFillSettings](patternfillsettings/)() | डिफ़ॉल्ट कन्स्ट्रक्टर। |
 
-## तरीकों
+## प्रॉपर्टीज़
 
 | नाम | विवरण |
 | --- | --- |
-| static [GenerateLfx2ResourceNodes](../../aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings/generatelfx2resourcenodes/)(string, Color, string, string, double, bool, PointF) | LFX2 संसाधन नोड उत्पन्न करता है। |
+| [AlignWithLayer](../../aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings/alignwithlayer/) { get; set; } | एक मान प्राप्त करता है या सेट करता है जो यह दर्शाता है कि [link with layer]। |
+| [Angle](../../aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings/angle/) { get; set; } | कोण प्राप्त करता है या सेट करता है। |
+| [Color](../../aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings/color/) { get; set; } | रंग प्राप्त करता है या सेट करता है। |
+| override [FillType](../../aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings/filltype/) { get; } | फ़िल प्रकार |
+| [HorizontalOffset](../../aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings/horizontaloffset/) { get; set; } | क्षैतिज ऑफ़सेट प्राप्त करता है या सेट करता है। |
+| [Linked](../../aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings/linked/) { get; set; } | एक मान प्राप्त करता है या सेट करता है जो यह दर्शाता है कि यह `PatternFillSettings` लिंक्ड है या नहीं। |
+| [PatternData](../../aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings/patterndata/) { get; set; } | पैटर्न डेटा प्राप्त करता है या सेट करता है। |
+| [PatternHeight](../../aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings/patternheight/) { get; set; } | पैटर्न की ऊँचाई प्राप्त करता है या सेट करता है। |
+| [PatternId](../../aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings/patternid/) { get; set; } | पैटर्न पहचानकर्ता प्राप्त करता है या सेट करता है। |
+| [PatternName](../../aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings/patternname/) { get; set; } | पैटर्न का नाम प्राप्त करता है या सेट करता है। |
+| [PatternWidth](../../aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings/patternwidth/) { get; set; } | पैटर्न की चौड़ाई प्राप्त करता है या सेट करता है। |
+| [PointType](../../aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings/pointtype/) { get; set; } | बिंदु का प्रकार प्राप्त करता है या सेट करता है। |
+| [Scale](../../aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings/scale/) { get; set; } | स्केल को प्राप्त करता है या सेट करता है। |
+| [VerticalOffset](../../aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings/verticaloffset/) { get; set; } | ऊर्ध्वाधर ऑफ़सेट प्राप्त करता है या सेट करता है। |
 
-### उदाहरण
+## मेथड्स
 
-निम्नलिखित कोड भरण परत पैटर्न संपादन के समर्थन को प्रदर्शित करता है।
+| नाम | विवरण |
+| --- | --- |
+| static [GenerateLfx2ResourceNodes](../../aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings/generatelfx2resourcenodes/)(string, Color, string, string, double, bool, PointF) | LFX2 रिसोर्स नोड्स उत्पन्न करता है। |
+
+## उदाहरण
+
+निम्नलिखित कोड Fill Layer Pattern संपादन के समर्थन को दर्शाता है।
 
 ```csharp
 [C#]
@@ -95,7 +103,7 @@ using (im)
 }
 ```
 
-निम्नलिखित कोड भरण प्रकार - पैटर्न के साथ स्ट्रोक प्रभाव परत के समर्थन को प्रदर्शित करता है।
+निम्नलिखित कोड स्ट्रोक इफ़ेक्ट लेयर के साथ फ़िल टाइप - पैटर्न के समर्थन को दर्शाता है।
 
 ```csharp
 [C#]
@@ -129,7 +137,7 @@ var loadOptions = new PsdLoadOptions()
     LoadEffectsResource = true
 };
 
-// नया डेटा तैयार करना
+// नया डेटा तैयार किया जा रहा है
 var newPattern = new int[]
 {
     Color.Aqua.ToArgb(), Color.Red.ToArgb(), Color.Red.ToArgb(), Color.Aqua.ToArgb(),
@@ -208,11 +216,11 @@ using (var im = (PsdImage)Image.Load(exportPath, loadOptions))
 }
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * class [BaseFillSettings](../basefillsettings/)
 * interface [IPatternFillSettings](../ipatternfillsettings/)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../aspose.psd.fileformats.psd.layers.fillsettings/)
-* सभा [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../)
 
 

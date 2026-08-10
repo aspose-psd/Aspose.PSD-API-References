@@ -1,23 +1,24 @@
 ---
-title: Region.MakeInfinite
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Region तरक. इसे आरंभ करत हैRegion एक अनंत इंटरयर के लए वस्तु.
+title: "Region.MakeInfinite"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Region मेथड। इस Region ऑब्जेक्ट को अनंत आंतरिक भाग में प्रारंभ करता है।"
 type: docs
-weight: 110
+weight: 120
 url: /hi/net/aspose.psd/region/makeinfinite/
 ---
+{{< psd/tize >}}
 ## Region.MakeInfinite method
 
-इसे आरंभ करता है[`Region`](../) एक अनंत इंटीरियर के लिए वस्तु.
+इस [`Region`](../) ऑब्जेक्ट को अनंत आंतरिक भाग में प्रारंभ करता है।
 
 ```csharp
 public void MakeInfinite()
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * class [Region](../)
-* नाम स्थान [Aspose.PSD](../../region/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

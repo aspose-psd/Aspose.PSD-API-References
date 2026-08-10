@@ -1,28 +1,29 @@
 ---
-title: Graphics.TextRenderingHint
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Graphics संपत्त. टेक्स्ट रेंडरंग संकेत प्रप्त य सेट करत है
+title: "Graphics.TextRenderingHint"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Graphics प्रॉपर्टी। टेक्स्ट रेंडरिंग हिंट को प्राप्त करता है या सेट करता है"
 type: docs
-weight: 120
+weight: 130
 url: /hi/net/aspose.psd/graphics/textrenderinghint/
 ---
+{{< psd/tize >}}
 ## Graphics.TextRenderingHint property
 
-टेक्स्ट रेंडरिंग संकेत प्राप्त या सेट करता है।
+प्राप्त करता है या सेट करता है पाठ रेंडरिंग संकेत।
 
 ```csharp
 public TextRenderingHint TextRenderingHint { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
 टेक्स्ट रेंडरिंग संकेत।
 
-### यह सभी देखें
+### देखें भी
 
 * enum [TextRenderingHint](../../textrenderinghint/)
 * class [Graphics](../)
-* नाम स्थान [Aspose.PSD](../../graphics/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

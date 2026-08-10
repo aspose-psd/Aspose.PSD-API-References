@@ -1,11 +1,12 @@
 ---
-title: ColorTranslator.ToHtml
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: ColorTranslator तरक. रंग से HTML रंग बनत है
+title: "ColorTranslator.ToHtml"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "ColorTranslator मेथड। रंग से HTML रंग बनाता है"
 type: docs
 weight: 40
 url: /hi/net/aspose.psd/colortranslator/tohtml/
 ---
+{{< psd/tize >}}
 ## ColorTranslator.ToHtml method
 
 रंग से HTML रंग बनाता है।
@@ -14,19 +15,19 @@ url: /hi/net/aspose.psd/colortranslator/tohtml/
 public static string ToHtml(Color c)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| c | Color | रंग वर्ग। |
+| c | रंग | रंग क्लास। |
 
-### प्रतिलाभ की मात्रा
+### रिटर्न वैल्यू
 
-एचटीएमएल स्ट्रिंग रंग।
+HTML स्ट्रिंग रंग।
 
-### यह सभी देखें
+### देखें भी
 
 * struct [Color](../../color/)
 * class [ColorTranslator](../)
-* नाम स्थान [Aspose.PSD](../../colortranslator/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

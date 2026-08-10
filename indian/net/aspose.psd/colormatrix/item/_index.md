@@ -1,14 +1,15 @@
 ---
-title: ColorMatrix.Item
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: ColorMatrix संपत्त. नर्दष्ट पंक्त और कलम में तत्व क प्रप्त य सेट करत हैColorMatrix .
+title: "ColorMatrix.Item"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "ColorMatrix प्रॉपर्टी। ColorMatrix में निर्दिष्ट पंक्ति और कॉलम पर तत्व को प्राप्त करता है या सेट करता है।"
 type: docs
 weight: 20
 url: /hi/net/aspose.psd/colormatrix/item/
 ---
+{{< psd/tize >}}
 ## ColorMatrix indexer
 
-निर्दिष्ट पंक्ति और कॉलम में तत्व को प्राप्त या सेट करता है[`ColorMatrix`](../) .
+इस [`ColorMatrix`](../) में निर्दिष्ट पंक्ति और कॉलम पर तत्व को प्राप्त करता है या सेट करता है।
 
 ```csharp
 public float this[int row, int column] { get; set; }
@@ -16,17 +17,17 @@ public float this[int row, int column] { get; set; }
 
 | पैरामीटर | विवरण |
 | --- | --- |
-| row | पंक्ति संख्या। |
-| column | स्तंभ संख्या। |
+| पंक्ति | पंक्ति संख्या। |
+| कॉलम | कॉलम संख्या। |
 
-### प्रतिलाभ की मात्रा
+### रिटर्न वैल्यू
 
-निर्दिष्ट पंक्ति और स्तंभ पर तत्व।
+निर्दिष्ट पंक्ति और कॉलम पर तत्व।
 
-### यह सभी देखें
+### देखें भी
 
 * class [ColorMatrix](../)
-* नाम स्थान [Aspose.PSD](../../colormatrix/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

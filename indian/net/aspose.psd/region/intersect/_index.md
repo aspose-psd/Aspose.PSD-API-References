@@ -1,90 +1,91 @@
 ---
-title: Region.Intersect
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Region तरक. इसे अपडेट करत हैRegion नर्दष्ट के सथ खुद के चरहे परRectangleFसंरचन.
+title: "Region.Intersect"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Region विधि। इस Region को स्वयं और निर्दिष्ट RectangleF संरचना के प्रतिच्छेदन में अपडेट करता है।"
 type: docs
-weight: 60
+weight: 70
 url: /hi/net/aspose.psd/region/intersect/
 ---
+{{< psd/tize >}}
 ## Intersect(RectangleF) {#intersect_2}
 
-इसे अपडेट करता है[`Region`](../) निर्दिष्ट के साथ खुद के चौराहे पर[`RectangleF`](../../rectanglef/)संरचना.
+इस [`Region`](../) को स्वयं और निर्दिष्ट [`RectangleF`](../../rectanglef/) संरचना के प्रतिच्छेदन में अपडेट करता है।
 
 ```csharp
 public void Intersect(RectangleF rect)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| rect | RectangleF | [`RectangleF`](../../rectanglef/) इसके साथ छेड़छाड़ करने के लिए संरचना[`Region`](../). |
+| rect | RectangleF | इस [`Region`](../) के साथ प्रतिच्छेद करने के लिए [`RectangleF`](../../rectanglef/) संरचना। |
 
-### यह सभी देखें
+### देखें भी
 
 * struct [RectangleF](../../rectanglef/)
 * class [Region](../)
-* नाम स्थान [Aspose.PSD](../../region/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Intersect(Rectangle) {#intersect_1}
 
-इसे अपडेट करता है[`Region`](../) निर्दिष्ट के साथ खुद के चौराहे पर[`Rectangle`](../../rectangle/)संरचना.
+इस [`Region`](../) को स्वयं और निर्दिष्ट [`Rectangle`](../../rectangle/) संरचना के प्रतिच्छेदन में अपडेट करता है।
 
 ```csharp
 public void Intersect(Rectangle rect)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| rect | Rectangle | [`Rectangle`](../../rectangle/) इसके साथ छेड़छाड़ करने के लिए संरचना[`Region`](../). |
+| rect | Rectangle | इस [`Region`](../) के साथ प्रतिच्छेद करने के लिए [`Rectangle`](../../rectangle/) संरचना। |
 
-### यह सभी देखें
+### देखें भी
 
 * struct [Rectangle](../../rectangle/)
 * class [Region](../)
-* नाम स्थान [Aspose.PSD](../../region/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Intersect(GraphicsPath) {#intersect}
 
-इसे अपडेट करता है[`Region`](../) निर्दिष्ट के साथ खुद के चौराहे पर[`GraphicsPath`](../../graphicspath/) .
+इस [`Region`](../) को स्वयं और निर्दिष्ट [`GraphicsPath`](../../graphicspath/) के प्रतिच्छेदन में अपडेट करता है।
 
 ```csharp
 public void Intersect(GraphicsPath path)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| path | GraphicsPath | [`GraphicsPath`](../../graphicspath/) इसके साथ प्रतिच्छेद करना[`Region`](../). |
+| path | GraphicsPath | इस [`Region`](../) के साथ प्रतिच्छेद करने के लिए [`GraphicsPath`](../../graphicspath/)। |
 
-### यह सभी देखें
+### देखें भी
 
 * class [GraphicsPath](../../graphicspath/)
 * class [Region](../)
-* नाम स्थान [Aspose.PSD](../../region/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Intersect(Region) {#intersect_3}
 
-इसे अपडेट करता है[`Region`](../) निर्दिष्ट के साथ खुद के चौराहे पर[`Region`](../) .
+इस [`Region`](../) को स्वयं और निर्दिष्ट [`Region`](../) के प्रतिच्छेदन में अपडेट करता है।
 
 ```csharp
 public void Intersect(Region region)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| region | Region | [`Region`](../) इसके साथ प्रतिच्छेद करना[`Region`](../). |
+| region | Region | इस [`Region`](../) के साथ प्रतिच्छेद करने के लिए [`Region`](../)। |
 
-### यह सभी देखें
+### देखें भी
 
 * class [Region](../)
-* नाम स्थान [Aspose.PSD](../../region/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,33 +1,34 @@
 ---
-title: RasterImage.SaveRawData
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: RasterImage तरक. कच्चे डेट क सहेजत है
+title: "RasterImage.SaveRawData"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "RasterImage मेथड। कच्चा डेटा सहेजता है।"
 type: docs
-weight: 530
+weight: 550
 url: /hi/net/aspose.psd/rasterimage/saverawdata/
 ---
+{{< psd/tize >}}
 ## RasterImage.SaveRawData method
 
-कच्चे डेटा को सहेजता है।
+कच्चा डेटा सहेजता है।
 
 ```csharp
 public void SaveRawData(byte[] data, int dataOffset, Rectangle rectangle, 
     RawDataSettings rawDataSettings)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| data | Byte[] | कच्चा डेटा। |
-| dataOffset | Int32 | प्रारंभिक कच्चा डेटा ऑफ़सेट। |
-| rectangle | Rectangle | कच्चा डेटा आयत। |
-| rawDataSettings | RawDataSettings | अपरिष्कृत डेटा सेटिंग जिसमें डेटा है। |
+| डेटा | Byte[] | कच्चा डेटा। |
+| dataOffset | Int32 | प्रारंभिक कच्चा डेटा ऑफसेट। |
+| आयत | Rectangle | कच्चा डेटा आयत। |
+| rawDataSettings | RawDataSettings | डेटा जिस कच्चा डेटा सेटिंग में है। |
 
-### यह सभी देखें
+### देखें भी
 
 * struct [Rectangle](../../rectangle/)
 * class [RawDataSettings](../../rawdatasettings/)
 * class [RasterImage](../)
-* नाम स्थान [Aspose.PSD](../../rasterimage/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

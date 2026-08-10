@@ -1,28 +1,29 @@
 ---
-title: GdFlResource.Color
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: GdFlResource संपत्त. आरजब क रंग प्रप्त करत है.
+title: "GdFlResource.Color"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "GdFlResource प्रॉपर्टी। RGB का रंग प्राप्त करता है"
 type: docs
 weight: 40
 url: /hi/net/aspose.psd.fileformats.psd.layers.layerresources/gdflresource/color/
 ---
+{{< psd/tize >}}
 ## GdFlResource.Color property
 
-आरजीबी का रंग प्राप्त करता है.
+RGB का रंग प्राप्त करता है।
 
 ```csharp
 public Color Color { get; set; }
 ```
 
-### प्रतिलाभ की मात्रा
+### रिटर्न वैल्यू
 
-आरजीबी रंग
+RGB रंग
 
-### यह सभी देखें
+### देखें भी
 
 * struct [Color](../../../aspose.psd/color/)
 * class [GdFlResource](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../gdflresource/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

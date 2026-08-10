@@ -1,27 +1,28 @@
 ---
-title: Hue2Resource.Lightness
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Hue2Resource संपत्त. मस्टर लइटनेस प्रप्त य सेट करत है
+title: "Hue2Resource.Lightness"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Hue2Resource प्रॉपर्टी। मुख्य प्रकाशमानता को प्राप्त या सेट करता है"
 type: docs
-weight: 60
+weight: 50
 url: /hi/net/aspose.psd.fileformats.psd.layers.layerresources/hue2resource/lightness/
 ---
+{{< psd/tize >}}
 ## Hue2Resource.Lightness property
 
-मास्टर लाइटनेस प्राप्त या सेट करता है।
+मास्टर लाइटनेस प्राप्त करता है या सेट करता है।
 
 ```csharp
 public short Lightness { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-मास्टर हल्कापन।
+मुख्य प्रकाशमानता।
 
-### यह सभी देखें
+### देखें भी
 
 * class [Hue2Resource](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../hue2resource/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

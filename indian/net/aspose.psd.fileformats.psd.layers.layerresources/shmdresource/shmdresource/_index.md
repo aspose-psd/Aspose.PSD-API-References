@@ -1,43 +1,44 @@
 ---
-title: ShmdResource.ShmdResource
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: ShmdResource नर्मत. क एक नय उदहरण प्ररंभ करत हैShmdResource वर्ग.
+title: "ShmdResource.ShmdResource"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "ShmdResource कंस्ट्रक्टर। ShmdResource क्लास का नया इंस्टेंस इनिशियलाइज़ करता है"
 type: docs
 weight: 10
 url: /hi/net/aspose.psd.fileformats.psd.layers.layerresources/shmdresource/shmdresource/
 ---
+{{< psd/tize >}}
 ## ShmdResource() {#constructor}
 
-का एक नया उदाहरण प्रारंभ करता है[`ShmdResource`](../) वर्ग.
+[`ShmdResource`](../) क्लास का नया इंस्टेंस इनिशियलाइज़ करता है।
 
 ```csharp
 public ShmdResource()
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * class [ShmdResource](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../shmdresource/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## ShmdResource(byte[]) {#constructor_1}
 
-का एक नया उदाहरण प्रारंभ करता है[`ShmdResource`](../) वर्ग.
+[`ShmdResource`](../) क्लास का नया इंस्टेंस इनिशियलाइज़ करता है।
 
 ```csharp
 public ShmdResource(byte[] data)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| data | Byte[] | संसाधन का डेटा। |
+| डेटा | Byte[] | संसाधन का डेटा। |
 
-### यह सभी देखें
+### देखें भी
 
 * class [ShmdResource](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../shmdresource/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

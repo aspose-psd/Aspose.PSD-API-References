@@ -1,27 +1,28 @@
 ---
-title: PsdOptions.ChannelsCount
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: PsdOptions संपत्त. रंग चैनलं क संख्य प्रप्त य सेट करत है
+title: "PsdOptions.ChannelsCount"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "PsdOptions प्रॉपर्टी। कलर चैनल्स की गिनती प्राप्त करता है या सेट करता है"
 type: docs
-weight: 30
+weight: 40
 url: /hi/net/aspose.psd.imageoptions/psdoptions/channelscount/
 ---
+{{< psd/tize >}}
 ## PsdOptions.ChannelsCount property
 
-रंग चैनलों की संख्या प्राप्त या सेट करता है।
+रंग चैनलों की संख्या प्राप्त करता है या सेट करता है।
 
 ```csharp
 public short ChannelsCount { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-रंग चैनलों की गिनती होती है।
+कलर चैनल्स की गिनती।
 
-### यह सभी देखें
+### देखें भी
 
 * class [PsdOptions](../)
-* नाम स्थान [Aspose.PSD.ImageOptions](../../psdoptions/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

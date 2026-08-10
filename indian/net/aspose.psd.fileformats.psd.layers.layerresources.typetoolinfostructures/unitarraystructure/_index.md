@@ -1,14 +1,15 @@
 ---
-title: Class UnitArrayStructure
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures.UnitArrayStructure कक्ष. UnitArrayStructure क्लस क परभषत करत है ज धरण करत हैDouble मन सरण और उनक मप इकई. इसक उपयग आमतर पर PSD फ़इल संसधनं में कय जत हैObjectArrayStructure .
+title: "क्लास UnitArrayStructure"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures.UnitArrayStructure क्लास. UnitArrayStructure क्लास को परिभाषित करता है जो Double मानों की एरे और उनका माप इकाई रखता है। यह आमतौर पर PSD फ़ाइल संसाधनों में ObjectArrayStructure द्वारा उपयोग किया जाता है।"
 type: docs
-weight: 3270
+weight: 3660
 url: /hi/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/unitarraystructure/
 ---
+{{< psd/tize >}}
 ## UnitArrayStructure class
 
-UnitArrayStructure क्लास को परिभाषित करता है जो धारण करता हैDouble मान सरणी और उनकी माप इकाई. इसका उपयोग आमतौर पर PSD फ़ाइल संसाधनों में किया जाता है[`ObjectArrayStructure`](../objectarraystructure/) .
+UnitArrayStructure क्लास को परिभाषित करता है जो Double मानों की एरे और उनका माप इकाई रखता है। यह PSD फ़ाइल संसाधनों में उपयोग किया जाता है, आमतौर पर [`ObjectArrayStructure`](../objectarraystructure/) द्वारा।
 
 ```csharp
 public sealed class UnitArrayStructure : OSTypeStructure
@@ -18,36 +19,36 @@ public sealed class UnitArrayStructure : OSTypeStructure
 
 | नाम | विवरण |
 | --- | --- |
-| [UnitArrayStructure](unitarraystructure/)(ClassID, UnitTypes, double[]) | का एक नया उदाहरण प्रारंभ करता है`UnitArrayStructure` वर्ग. |
+| [UnitArrayStructure](unitarraystructure/)(ClassID, UnitTypes, double[]) | `UnitArrayStructure` क्लास का नया उदाहरण प्रारंभ करता है। |
 
-## गुण
+## प्रॉपर्टीज़
 
 | नाम | विवरण |
 | --- | --- |
-| override [Key](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/unitarraystructure/key/) { get; } | इस इकाई सरणी संरचना कुंजी को प्राप्त करता है। |
-| [KeyName](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/keyname/) { get; set; } | कुंजी नाम प्राप्त या सेट करता है। |
-| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/unitarraystructure/length/) { get; } | हो जाता है[`OSTypeStructure`](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/) बाइट्स में लंबाई. |
-| [UnitType](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/unitarraystructure/unittype/) { get; set; } | के माप इकाई प्रकार को प्राप्त या सेट करता है`UnitArrayStructure` मान. |
-| [ValueCount](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/unitarraystructure/valuecount/) { get; } | मान संख्या प्राप्त करता है. |
-| [Values](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/unitarraystructure/values/) { get; set; } | इकाई सरणी संरचना मान प्राप्त या सेट करता है। |
+| override [Key](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/unitarraystructure/key/) { get; } | इस यूनिट एरे संरचना कुंजी को प्राप्त करता है। |
+| [KeyName](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/keyname/) { get; set; } | कुंजी नाम प्राप्त करता है या सेट करता है। |
+| override [Length](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/unitarraystructure/length/) { get; } | [`OSTypeStructure`](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/) की लंबाई बाइट्स में प्राप्त करता है। |
+| [UnitType](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/unitarraystructure/unittype/) { get; set; } | `UnitArrayStructure` मानों की माप इकाई प्रकार को प्राप्त करता है या सेट करता है। |
+| [ValueCount](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/unitarraystructure/valuecount/) { get; } | मान गिनती को प्राप्त करता है। |
+| [Values](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/unitarraystructure/values/) { get; set; } | यूनिट एरे संरचना मानों को प्राप्त करता है या सेट करता है। |
 
-## तरीकों
+## मेथड्स
 
 | नाम | विवरण |
 | --- | --- |
 | virtual [GetHeaderLength](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/getheaderlength/)() | हेडर की लंबाई प्राप्त करता है। |
-| [Save](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/save/)(StreamContainer) | संरचना को निर्दिष्ट स्ट्रीम कंटेनर में सहेजता है। |
-| [SaveWithoutKeyName](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/savewithoutkeyname/)(StreamContainer) | संरचना को निर्दिष्ट स्ट्रीम कंटेनर में सहेजता है। |
+| [Save](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/save/)(StreamContainer) | निर्दिष्ट स्ट्रीम कंटेनर में संरचना को सहेजता है। |
+| [SaveWithoutKeyName](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/savewithoutkeyname/)(StreamContainer) | निर्दिष्ट स्ट्रीम कंटेनर में संरचना को सहेजता है। |
 
-## खेत
+## फ़ील्ड्स
 
 | नाम | विवरण |
 | --- | --- |
-| const [StructureKey](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/unitarraystructure/structurekey/) | 'अनफ़्ल' को परिभाषित करता है`UnitArrayStructure` कुंजी. |
+| const [StructureKey](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/unitarraystructure/structurekey/) | 'UnFl' `UnitArrayStructure` कुंजी को परिभाषित करता है। |
 
-### उदाहरण
+## उदाहरण
 
-निम्न कोड ObAr और UnFl हस्ताक्षरों के समर्थन को प्रदर्शित करता है।
+निम्नलिखित कोड ObAr और UnFl हस्ताक्षरों के समर्थन को दर्शाता है।
 
 ```csharp
 [C#]
@@ -99,10 +100,10 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFilePath))
 }
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * class [OSTypeStructure](../../aspose.psd.fileformats.psd.layers.layerresources/ostypestructure/)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
-* सभा [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../)
 
 

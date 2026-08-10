@@ -1,27 +1,28 @@
 ---
-title: SizeF.ToString
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: SizeF तरक. एक मनवपठनय स्ट्रंग बनत है ज इसक प्रतनधत्व करत हैSizeF .
+title: "SizeF.ToString"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "SizeF मेथड। एक मानव-पठनीय स्ट्रिंग बनाता है जो इस SizeF को दर्शाती है।"
 type: docs
 weight: 120
 url: /hi/net/aspose.psd/sizef/tostring/
 ---
+{{< psd/tize >}}
 ## SizeF.ToString method
 
-एक मानव-पठनीय स्ट्रिंग बनाता है जो इसका प्रतिनिधित्व करता है[`SizeF`](../) .
+इस [`SizeF`](../) का प्रतिनिधित्व करने वाली मानव-पठनीय स्ट्रिंग बनाता है।
 
 ```csharp
 public override string ToString()
 ```
 
-### प्रतिलाभ की मात्रा
+### रिटर्न वैल्यू
 
-एक स्ट्रिंग जो इसका प्रतिनिधित्व करती है[`SizeF`](../).
+यह [`SizeF`](../) का प्रतिनिधित्व करने वाली स्ट्रिंग।
 
-### यह सभी देखें
+### देखें भी
 
 * struct [SizeF](../)
-* नाम स्थान [Aspose.PSD](../../sizef/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,31 +1,32 @@
 ---
-title: CurvResource.GetChannelData
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: CurvResource तरक. चैनल डेट प्रप्त करत है
+title: "CurvResource.GetChannelData"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "CurvResource मेथड। चैनल डेटा प्राप्त करता है"
 type: docs
-weight: 70
+weight: 50
 url: /hi/net/aspose.psd.fileformats.psd.layers.layerresources/curvresource/getchanneldata/
 ---
+{{< psd/tize >}}
 ## CurvResource.GetChannelData method
 
-चैनल डेटा प्राप्त करता है।
+चैनल डेटा को प्राप्त करता है।
 
 ```csharp
 public byte[] GetChannelData(int channelIndex)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
 | channelIndex | Int32 | चैनल का सूचकांक। |
 
-### प्रतिलाभ की मात्रा
+### रिटर्न वैल्यू
 
 चैनल डेटा
 
-### यह सभी देखें
+### देखें भी
 
 * class [CurvResource](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../curvresource/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

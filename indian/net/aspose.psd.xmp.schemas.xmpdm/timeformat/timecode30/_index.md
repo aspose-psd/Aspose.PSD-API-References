@@ -1,27 +1,28 @@
 ---
-title: TimeFormat.Timecode30
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: TimeFormat संपत्त. टइमकड प्रप्त करत है30.
+title: "TimeFormat.Timecode30"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "TimeFormat property. प्राप्त करता है timecode30"
 type: docs
 weight: 80
 url: /hi/net/aspose.psd.xmp.schemas.xmpdm/timeformat/timecode30/
 ---
+{{< psd/tize >}}
 ## TimeFormat.Timecode30 property
 
-टाइमकोड प्राप्त करता है30.
+टाइमकोड30 प्राप्त करता है।
 
 ```csharp
 public static TimeFormat Timecode30 { get; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-टाइमकोड30.
+यह timecode30।
 
-### यह सभी देखें
+### देखें भी
 
 * class [TimeFormat](../)
-* नाम स्थान [Aspose.PSD.Xmp.Schemas.XmpDm](../../timeformat/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpDm](../../../aspose.psd.xmp.schemas.xmpdm/)
+* assembly [Aspose.PSD](../../../)
 
 

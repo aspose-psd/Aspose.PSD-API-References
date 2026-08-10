@@ -1,27 +1,28 @@
 ---
-title: DeconvolutionFilterOptions.Snr
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: DeconvolutionFilterOptions संपत्त. एसएनआर सग्नलटूशर अनुपत अनुशंसत सम 0.002  0.009 डफ़ल्ट मन  0.007 प्रप्त य सेट करत है
+title: "DeconvolutionFilterOptions.Snr"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "DeconvolutionFilterOptions प्रॉपर्टी। SNRsignaltonoise अनुपात को प्राप्त करता है या सेट करता है। अनुशंसित सीमा 0.002  0.009 डिफ़ॉल्ट मान  0.007"
 type: docs
 weight: 40
 url: /hi/net/aspose.psd.imagefilters.filteroptions/deconvolutionfilteroptions/snr/
 ---
+{{< psd/tize >}}
 ## DeconvolutionFilterOptions.Snr property
 
-एसएनआर (सिग्नल-टू-शोर अनुपात) अनुशंसित सीमा 0.002 - 0.009, डिफ़ॉल्ट मान = 0.007 प्राप्त या सेट करता है
+SNR(signal-to-noise ratio) के अनुशंसित रेंज 0.002 - 0.009 को प्राप्त करता है या सेट करता है, डिफ़ॉल्ट मान = 0.007
 
 ```csharp
 public double Snr { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-एसएनआर.
+SNR।
 
-### यह सभी देखें
+### देखें भी
 
 * class [DeconvolutionFilterOptions](../)
-* नाम स्थान [Aspose.PSD.ImageFilters.FilterOptions](../../deconvolutionfilteroptions/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageFilters.FilterOptions](../../../aspose.psd.imagefilters.filteroptions/)
+* assembly [Aspose.PSD](../../../)
 
 

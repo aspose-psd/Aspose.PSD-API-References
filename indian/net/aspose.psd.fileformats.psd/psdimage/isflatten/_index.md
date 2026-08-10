@@ -1,27 +1,28 @@
 ---
-title: PsdImage.IsFlatten
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: PsdImage संपत्त. यह इंगत करने वल मन प्रप्त करत है क क्य PSD छव चपट है
+title: "PsdImage.IsFlatten"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "PsdImage प्रॉपर्टी। यह दर्शाने वाला मान प्राप्त करता है कि psd इमेज फ्लैटेन है या नहीं।"
 type: docs
 weight: 190
 url: /hi/net/aspose.psd.fileformats.psd/psdimage/isflatten/
 ---
+{{< psd/tize >}}
 ## PsdImage.IsFlatten property
 
-यह इंगित करने वाला मान प्राप्त करता है कि क्या PSD छवि चपटी है।
+psd इमेज फ्लैटेन्ड है या नहीं, यह दर्शाने वाला मान प्राप्त करता है।
 
 ```csharp
 public bool IsFlatten { get; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-`सत्य` यदि यह उदाहरण चपटा है; अन्यथा,`असत्य` .
+`true` यदि यह इंस्टेंस फ्लैटेन है; अन्यथा, `false`।
 
-### यह सभी देखें
+### देखें भी
 
 * class [PsdImage](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,26 +1,27 @@
 ---
-title: PatternFillSettings.AlignWithLayer
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: PatternFillSettings संपत्त. परत के सथ लंक क संकेत देने वल मन प्रप्त य सेट करत है
+title: "PatternFillSettings.AlignWithLayer"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "PatternFillSettings प्रॉपर्टी। लेयर के साथ लिंक है या नहीं दर्शाने वाला मान प्राप्त करता है या सेट करता है"
 type: docs
-weight: 10
+weight: 20
 url: /hi/net/aspose.psd.fileformats.psd.layers.fillsettings/patternfillsettings/alignwithlayer/
 ---
+{{< psd/tize >}}
 ## PatternFillSettings.AlignWithLayer property
 
-[परत के साथ लिंक] का संकेत देने वाला मान प्राप्त या सेट करता है।
+एक मान प्राप्त करता है या सेट करता है जो यह दर्शाता है कि [link with layer]।
 
 ```csharp
 public bool AlignWithLayer { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-`सत्य` अगर [परत के साथ लिंक]; अन्यथा,`असत्य` .
+`true` यदि [link with layer]; अन्यथा, `false`।
 
-### उदाहरण
+## उदाहरण
 
-निम्नलिखित कोड भरण परत पैटर्न संपादन के समर्थन को प्रदर्शित करता है।
+निम्नलिखित कोड Fill Layer Pattern संपादन के समर्थन को दर्शाता है।
 
 ```csharp
 [C#]
@@ -75,10 +76,10 @@ using (im)
 }
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * class [PatternFillSettings](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../patternfillsettings/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../../)
 
 

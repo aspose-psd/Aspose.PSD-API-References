@@ -1,27 +1,28 @@
 ---
-title: MultiPageOptions.PageTitles
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: MultiPageOptions संपत्त. पृष्ठ शर्षक प्रप्त य सेट करत है
+title: "MultiPageOptions.PageTitles"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "MultiPageOptions प्रॉपर्टी। पृष्ठ शीर्षकों को प्राप्त करता है या सेट करता है"
 type: docs
 weight: 80
 url: /hi/net/aspose.psd.imageoptions/multipageoptions/pagetitles/
 ---
+{{< psd/tize >}}
 ## MultiPageOptions.PageTitles property
 
-पृष्ठ शीर्षक प्राप्त या सेट करता है।
+पृष्ठ शीर्षकों को प्राप्त करता है या सेट करता है।
 
 ```csharp
 public string[] PageTitles { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-पृष्ठ शीर्षक.
+पृष्ठ शीर्षक।
 
-### यह सभी देखें
+### देखें भी
 
 * class [MultiPageOptions](../)
-* नाम स्थान [Aspose.PSD.ImageOptions](../../multipageoptions/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,48 +1,49 @@
 ---
-title: XmpPacketWrapper.XmpPacketWrapper
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: XmpPacketWrapper नर्मत. क एक नय उदहरण प्ररंभ करत हैXmpPacketWrapper वर्ग.
+title: "XmpPacketWrapper.XmpPacketWrapper"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "XmpPacketWrapper कन्स्ट्रक्टर। XmpPacketWrapper क्लास का नया इंस्टेंस इनिशियलाइज़ करता है"
 type: docs
 weight: 10
 url: /hi/net/aspose.psd.xmp/xmppacketwrapper/xmppacketwrapper/
 ---
+{{< psd/tize >}}
 ## XmpPacketWrapper(XmpHeaderPi, XmpTrailerPi, XmpMeta) {#constructor_1}
 
-का एक नया उदाहरण प्रारंभ करता है[`XmpPacketWrapper`](../) वर्ग.
+[`XmpPacketWrapper`](../) क्लास का नया इंस्टेंस इनिशियलाइज़ करता है।
 
 ```csharp
 public XmpPacketWrapper(XmpHeaderPi header, XmpTrailerPi trailer, XmpMeta xmpMeta)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| header | XmpHeaderPi | प्रसंस्करण निर्देश का XMP शीर्षलेख। |
-| trailer | XmpTrailerPi | प्रसंस्करण निर्देश का XMP ट्रेलर। |
-| xmpMeta | XmpMeta | एक्सएमपी मेटाडेटा। |
+| हेडर | XmpHeaderPi | XMP प्रोसेसिंग इंस्ट्रक्शन का हेडर। |
+| ट्रेलर | XmpTrailerPi | XMP प्रोसेसिंग इंस्ट्रक्शन का ट्रेलर। |
+| xmpMeta | XmpMeta | XMP मेटाडेटा। |
 
-### यह सभी देखें
+### देखें भी
 
 * class [XmpHeaderPi](../../xmpheaderpi/)
 * class [XmpTrailerPi](../../xmptrailerpi/)
 * class [XmpMeta](../../xmpmeta/)
 * class [XmpPacketWrapper](../)
-* नाम स्थान [Aspose.PSD.Xmp](../../xmppacketwrapper/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## XmpPacketWrapper() {#constructor}
 
-का एक नया उदाहरण प्रारंभ करता है[`XmpPacketWrapper`](../) वर्ग.
+[`XmpPacketWrapper`](../) क्लास का नया इंस्टेंस इनिशियलाइज़ करता है।
 
 ```csharp
 public XmpPacketWrapper()
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * class [XmpPacketWrapper](../)
-* नाम स्थान [Aspose.PSD.Xmp](../../xmppacketwrapper/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

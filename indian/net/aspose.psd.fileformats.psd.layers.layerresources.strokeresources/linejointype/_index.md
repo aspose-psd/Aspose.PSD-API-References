@@ -1,14 +1,15 @@
 ---
-title: Enum LineJoinType
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.StrokeResources.LineJoinType एनुम. लइन ज्वइन प्रकर
+title: "Enum LineJoinType"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Aspose.PSD.FileFormats.Psd.Layers.LayerResources.StrokeResources.LineJoinType enum. लाइन जॉइन प्रकार"
 type: docs
-weight: 3050
+weight: 3410
 url: /hi/net/aspose.psd.fileformats.psd.layers.layerresources.strokeresources/linejointype/
 ---
+{{< psd/tize >}}
 ## LineJoinType enumeration
 
-लाइन ज्वाइन प्रकार।
+लाइन जॉइन प्रकार।
 
 ```csharp
 public enum LineJoinType : short
@@ -16,15 +17,15 @@ public enum LineJoinType : short
 
 ### मान
 
-| नाम | कीमत | विवरण |
+| नाम | मान | विवरण |
 | --- | --- | --- |
-| BevelJoin | `0` | बेवेल ज्वाइन टाइप. |
-| RoundJoin | `1` | राउंड जॉइन टाइप. |
-| MiterJoin | `2` | मिटर प्रकार से जुड़ें। |
+| BevelJoin | `0` | बिवेल जॉइन प्रकार। |
+| RoundJoin | `1` | Rounnd जॉइन प्रकार। |
+| MiterJoin | `2` | माइटर जॉइन प्रकार। |
 
-### उदाहरण
+## उदाहरण
 
-निम्न कोड VstkResource संसाधन के समर्थन को प्रदर्शित करता है।
+निम्नलिखित कोड VstkResource संसाधन के समर्थन को दर्शाता है।
 
 ```csharp
 [C#]
@@ -49,9 +50,9 @@ using (PsdImage image = (PsdImage)Image.Load(srcFile))
 }
 ```
 
-### यह सभी देखें
+### देखें भी
 
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.StrokeResources](../../aspose.psd.fileformats.psd.layers.layerresources.strokeresources/)
-* सभा [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.StrokeResources](../../aspose.psd.fileformats.psd.layers.layerresources.strokeresources/)
+* assembly [Aspose.PSD](../../)
 
 

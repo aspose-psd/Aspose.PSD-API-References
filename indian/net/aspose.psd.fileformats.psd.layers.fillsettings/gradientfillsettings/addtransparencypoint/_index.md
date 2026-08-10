@@ -1,11 +1,12 @@
 ---
-title: GradientFillSettings.AddTransparencyPoint
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: GradientFillSettings तरक. रंग बंदु जड़त है
+title: "GradientFillSettings.AddTransparencyPoint"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "GradientFillSettings मेथड। कलर पॉइंट जोड़ता है"
 type: docs
-weight: 160
+weight: 70
 url: /hi/net/aspose.psd.fileformats.psd.layers.fillsettings/gradientfillsettings/addtransparencypoint/
 ---
+{{< psd/tize >}}
 ## GradientFillSettings.AddTransparencyPoint method
 
 रंग बिंदु जोड़ता है।
@@ -14,15 +15,15 @@ url: /hi/net/aspose.psd.fileformats.psd.layers.fillsettings/gradientfillsettings
 public GradientTransparencyPoint AddTransparencyPoint()
 ```
 
-### प्रतिलाभ की मात्रा
+### रिटर्न वैल्यू
 
-पारदर्शिता बिंदु बनाया गया
+ट्रांसपैरेंसी बिंदु बनाया गया
 
-### यह सभी देखें
+### देखें भी
 
 * class [GradientTransparencyPoint](../../gradienttransparencypoint/)
 * class [GradientFillSettings](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../gradientfillsettings/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../../)
 
 

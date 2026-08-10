@@ -1,27 +1,28 @@
 ---
-title: BlendRange.Source
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: BlendRange संपत्त. स्रत मश्रण श्रेण प्रप्त य सेट करत है
+title: "BlendRange.Source"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "BlendRange प्रॉपर्टी। स्रोत ब्लेंड रेंज को प्राप्त करता है या सेट करता है"
 type: docs
 weight: 30
 url: /hi/net/aspose.psd.fileformats.psd.layers/blendrange/source/
 ---
+{{< psd/tize >}}
 ## BlendRange.Source property
 
-स्रोत मिश्रण श्रेणी प्राप्त या सेट करता है।
+स्रोत ब्लेंड रेंज प्राप्त करता है या सेट करता है।
 
 ```csharp
 public int Source { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-स्रोत मिश्रण श्रेणी।
+स्रोत ब्लेंड रेंज।
 
-### यह सभी देखें
+### देखें भी
 
 * class [BlendRange](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers](../../blendrange/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

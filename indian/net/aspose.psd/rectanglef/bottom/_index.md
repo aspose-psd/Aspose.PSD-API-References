@@ -1,27 +1,28 @@
 ---
-title: RectangleF.Bottom
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: RectangleF संपत्त. वईनर्देशंक प्रप्त य सेट करत है ज क यग हैY औरHeight इस कRectangleFसंरचन.
+title: "RectangleF.Bottom"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "RectangleF प्रॉपर्टी। इस RectangleF संरचना के Y और Height का योग होने वाले y-निर्देशांक को प्राप्त करता है या सेट करता है"
 type: docs
 weight: 80
 url: /hi/net/aspose.psd/rectanglef/bottom/
 ---
+{{< psd/tize >}}
 ## RectangleF.Bottom property
 
-वाई-निर्देशांक प्राप्त या सेट करता है जो कि योग है[`Y`](../y/) और[`Height`](../height/) इस का[`RectangleF`](../)संरचना.
+इस [`RectangleF`](../) संरचना के [`Y`](../y/) और [`Height`](../height/) के योग वाले y-निर्देशांक को प्राप्त करता है या सेट करता है।
 
 ```csharp
 public float Bottom { get; set; }
 ```
 
-### प्रतिलाभ की मात्रा
+### रिटर्न वैल्यू
 
-Y-निर्देशांक जो का योग है[`Y`](../y/) और[`Height`](../height/) इस का[`RectangleF`](../) संरचना।
+यह y-निर्देशांक इस [`RectangleF`](../) संरचना के [`Y`](../y/) और [`Height`](../height/) के योग का है।
 
-### यह सभी देखें
+### देखें भी
 
 * struct [RectangleF](../)
-* नाम स्थान [Aspose.PSD](../../rectanglef/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

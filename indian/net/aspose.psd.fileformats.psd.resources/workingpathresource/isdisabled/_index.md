@@ -1,27 +1,28 @@
 ---
-title: WorkingPathResource.IsDisabled
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: WorkingPathResource संपत्त. एक मन प्रप्त करत है य सेट करत है ज दर्शत है क यह उदहरण अक्षम है य नहं
+title: "WorkingPathResource.IsDisabled"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "WorkingPathResource प्रॉपर्टी। मान प्राप्त करता है या सेट करता है जो यह दर्शाता है कि यह इंस्टेंस अक्षम है या नहीं"
 type: docs
 weight: 30
 url: /hi/net/aspose.psd.fileformats.psd.resources/workingpathresource/isdisabled/
 ---
+{{< psd/tize >}}
 ## WorkingPathResource.IsDisabled property
 
-एक मान प्राप्त करता है या सेट करता है जो दर्शाता है कि यह उदाहरण अक्षम है या नहीं।
+इस इंस्टेंस के निष्क्रिय होने को दर्शाने वाला मान प्राप्त करता है या सेट करता है।
 
 ```csharp
 public bool IsDisabled { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-`सत्य` अगर यह उदाहरण अक्षम है; अन्यथा,`असत्य` .
+`true` यदि यह इंस्टेंस अक्षम है; अन्यथा, `false`।
 
-### यह सभी देखें
+### देखें भी
 
 * class [WorkingPathResource](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Resources](../../workingpathresource/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

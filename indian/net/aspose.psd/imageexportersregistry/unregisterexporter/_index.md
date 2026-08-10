@@ -1,28 +1,29 @@
 ---
-title: ImageExportersRegistry.UnregisterExporter
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: ImageExportersRegistry तरक. नर्यतक क पंजकरण रद्द करत है
+title: "ImageExportersRegistry.UnregisterExporter"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "ImageExportersRegistry मेथड। निर्यातकर्ता को अनपंजीकृत करता है।"
 type: docs
 weight: 70
 url: /hi/net/aspose.psd/imageexportersregistry/unregisterexporter/
 ---
+{{< psd/tize >}}
 ## ImageExportersRegistry.UnregisterExporter method
 
-निर्यातक का पंजीकरण रद्द करता है।
+एक्सपोर्टर को अनपंजीकृत करता है।
 
 ```csharp
 public static void UnregisterExporter(IImageExporterDescriptor exporterDescriptor)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| exporterDescriptor | IImageExporterDescriptor | एक्सपोर्टर डिस्क्रिप्टर अपंजीकृत करने के लिए। |
+| exporterDescriptor | IImageExporterDescriptor | अनपंजीकृत करने के लिए निर्यातकर्ता डिस्क्रिप्टर। |
 
-### यह सभी देखें
+### देखें भी
 
 * interface [IImageExporterDescriptor](../../iimageexporterdescriptor/)
 * class [ImageExportersRegistry](../)
-* नाम स्थान [Aspose.PSD](../../imageexportersregistry/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

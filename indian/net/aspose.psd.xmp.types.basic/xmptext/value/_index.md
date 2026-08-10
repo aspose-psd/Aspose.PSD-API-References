@@ -1,27 +1,28 @@
 ---
-title: XmpText.Value
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: XmpText संपत्त. टेक्स्ट मन प्रप्त य सेट करत है
+title: "XmpText.Value"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "XmpText प्रॉपर्टी। टेक्स्ट मान प्राप्त करता है या सेट करता है"
 type: docs
 weight: 20
 url: /hi/net/aspose.psd.xmp.types.basic/xmptext/value/
 ---
+{{< psd/tize >}}
 ## XmpText.Value property
 
-टेक्स्ट मान प्राप्त या सेट करता है।
+टेक्स्ट मान को प्राप्त करता है या सेट करता है।
 
 ```csharp
 public string Value { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-पाठ मान.
+टेक्स्ट वैल्यू।
 
-### यह सभी देखें
+### देखें भी
 
 * class [XmpText](../)
-* नाम स्थान [Aspose.PSD.Xmp.Types.Basic](../../xmptext/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Basic](../../../aspose.psd.xmp.types.basic/)
+* assembly [Aspose.PSD](../../../)
 
 

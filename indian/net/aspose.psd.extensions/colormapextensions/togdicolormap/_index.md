@@ -1,32 +1,33 @@
 ---
-title: ColorMapExtensions.ToGdiColorMap
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: ColorMapExtensions तरक. परवर्तत करत हैColorMap तकColorMap .
+title: "ColorMapExtensions.ToGdiColorMap"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "ColorMapExtensions मेथड। ColorMap को ColorMap में परिवर्तित करता है।"
 type: docs
 weight: 10
 url: /hi/net/aspose.psd.extensions/colormapextensions/togdicolormap/
 ---
+{{< psd/tize >}}
 ## ColorMapExtensions.ToGdiColorMap method
 
-परिवर्तित करता है[`ColorMap`](../../../aspose.psd/colormap/) तकColorMap .
+[`ColorMap`](../../../aspose.psd/colormap/) को ColorMap में परिवर्तित करता है।
 
 ```csharp
 public static ColorMap ToGdiColorMap(ColorMap colorMap)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| colorMap | ColorMap | परिवर्तित करने के लिए रंग नक्शा। |
+| colorMap | ColorMap | परिवर्तित करने के लिए color map। |
 
-### प्रतिलाभ की मात्रा
+### रिटर्न वैल्यू
 
-परिवर्तितColorMap .
+परिवर्तित ColorMap।
 
-### यह सभी देखें
+### देखें भी
 
 * class [ColorMap](../../../aspose.psd/colormap/)
 * class [ColorMapExtensions](../)
-* नाम स्थान [Aspose.PSD.Extensions](../../colormapextensions/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Extensions](../../../aspose.psd.extensions/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,28 +1,29 @@
 ---
-title: Interface IImageLoader
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Aspose.PSD.IImageLoader इंटरफेस. इमेज लडर.
+title: "Interface IImageLoader"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Aspose.PSD.IImageLoader interface. इमेज लोडर"
 type: docs
-weight: 4450
+weight: 4920
 url: /hi/net/aspose.psd/iimageloader/
 ---
+{{< psd/tize >}}
 ## IImageLoader interface
 
-इमेज लोडर.
+छवि लोडर।
 
 ```csharp
 public interface IImageLoader
 ```
 
-## तरीकों
+## मेथड्स
 
 | नाम | विवरण |
 | --- | --- |
-| [Load](../../aspose.psd/iimageloader/load/)(StreamContainer, LoadOptions) | के साथ एक नई छवि खोलता है*loadOptions* . |
+| [Load](../../aspose.psd/iimageloader/load/)(StreamContainer, LoadOptions) | नई छवि *loadOptions* के साथ खोलता है। |
 
-### यह सभी देखें
+### देखें भी
 
-* नाम स्थान [Aspose.PSD](../../aspose.psd/)
-* सभा [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

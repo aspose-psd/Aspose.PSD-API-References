@@ -1,35 +1,37 @@
 ---
-title: Aspose.PSD.FileFormats.Psd.Layers.LayerEffects
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: नम स्थन में परत प्रभव आवरण शमल हैं
+title: "Aspose.PSD.FileFormats.Psd.Layers.LayerEffects"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "यह namespace Layer Effects wrappers शामिल करता है।"
 type: docs
-weight: 260
+weight: 290
 url: /hi/net/aspose.psd.fileformats.psd.layers.layereffects/
 ---
-नाम स्थान में परत प्रभाव आवरण शामिल हैं
+{{< psd/tize >}}
+यह namespace Layer Effects wrappers शामिल करता है।
 
-## कक्षाओं
+## क्लासेस
 
-| कक्षा | विवरण |
+| क्लास | विवरण |
 | --- | --- |
-| [BlendingOptions](./blendingoptions/) | सम्मिश्रण विकल्प। यह Lfx2Resource के लिए एक आवरण है जो परत प्रभाव के लिए एपीआई प्रदान करता है |
-| [ColorOverlayEffect](./coloroverlayeffect/) | रंग ओवरले परत प्रभाव |
-| [DropShadowEffect](./dropshadoweffect/) | ड्रॉप शैडो लेयर प्रभाव |
-| [GradientOverlayEffect](./gradientoverlayeffect/) | ढाल परत प्रभाव |
-| [InnerShadowEffect](./innershadoweffect/) | आंतरिक छाया परत प्रभाव |
-| [OuterGlowEffect](./outergloweffect/) | बाहरी चमक परत प्रभाव |
-| [PatternOverlayEffect](./patternoverlayeffect/) | प्रतिमान परत प्रभाव |
-| [StrokeEffect](./strokeeffect/) | PSD परत के लिए Adobe® Photoshop® स्ट्रोक प्रभाव। |
-## इंटरफेस
+| [BlendingOptions](./blendingoptions/) | BlendingOptions। यह BaseFxResource के लिए एक रैपर है जो लेयर इफ़ेक्ट्स के लिए API प्रदान करता है। |
+| [ColorOverlayEffect](./coloroverlayeffect/) | कलर ओवरले लेयर इफ़ेक्ट |
+| [DropShadowEffect](./dropshadoweffect/) | ड्रॉप शैडो लेयर इफ़ेक्ट |
+| [GradientOverlayEffect](./gradientoverlayeffect/) | ग्रेडिएंट लेयर इफ़ेक्ट |
+| [InnerShadowEffect](./innershadoweffect/) | इनर शैडो लेयर इफ़ेक्ट |
+| [OuterGlowEffect](./outergloweffect/) | आउटर ग्लो लेयर इफ़ेक्ट |
+| [PatternOverlayEffect](./patternoverlayeffect/) | पैटर्न लेयर इफ़ेक्ट |
+| [StrokeEffect](./strokeeffect/) | PSD लेयर के लिए Adobe® Photoshop® स्ट्रोक इफ़ेक्ट। |
+## इंटरफ़ेस
 
-| इंटरफेस | विवरण |
+| इंटरफ़ेस | विवरण |
 | --- | --- |
-| [ILayerEffect](./ilayereffect/) | परत प्रभाव के लिए इंटरफ़ेस |
-| [IShadowEffect](./ishadoweffect/) | शैडो लेयर इफेक्ट के लिए इंटरफेस |
-## गणना
+| [ILayerEffect](./ilayereffect/) | लेयर इफ़ेक्ट्स के लिए इंटरफ़ेस |
+| [IShadowEffect](./ishadoweffect/) | शैडो लेयर इफ़ेक्ट्स के लिए इंटरफ़ेस |
+## एन्यूमरेशन
 
-| गणना | विवरण |
+| एन्यूमरेशन | विवरण |
 | --- | --- |
-| [StrokePosition](./strokeposition/) | स्थिति सेटिंग आपके स्ट्रोक के संरेखण को उस परत पर नियंत्रित करती है जिस पर इसे लागू किया गया है[`StrokeEffect`](../aspose.psd.fileformats.psd.layers.layereffects/strokeeffect/) . |
+| [LayerEffectsTypes](./layereffectstypes/) | लेयर ब्लेंडिंग प्रभाव। |
+| [StrokePosition](./strokeposition/) | पोज़ीशन सेटिंग आपके स्ट्रोक को उस लेयर के साथ संरेखित करने को नियंत्रित करती है, जहाँ यह [`StrokeEffect`](../aspose.psd.fileformats.psd.layers.layereffects/strokeeffect/) में लागू किया गया है। |
 
 

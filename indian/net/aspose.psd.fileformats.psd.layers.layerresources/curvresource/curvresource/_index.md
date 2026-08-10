@@ -1,47 +1,48 @@
 ---
-title: CurvResource.CurvResource
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: CurvResource नर्मत. क एक नय उदहरण प्ररंभ करत हैCurvResource वर्ग.
+title: "CurvResource.CurvResource"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "CurvResource कंस्ट्रक्टर। CurvResource क्लास की नई इंस्टेंस को इनिशियलाइज़ करता है"
 type: docs
 weight: 10
 url: /hi/net/aspose.psd.fileformats.psd.layers.layerresources/curvresource/curvresource/
 ---
+{{< psd/tize >}}
 ## CurvResource(int) {#constructor_1}
 
-का एक नया उदाहरण प्रारंभ करता है[`CurvResource`](../) वर्ग.
+[`CurvResource`](../) क्लास की नई इंस्टेंस को इनिशियलाइज़ करता है।
 
 ```csharp
 public CurvResource(int maxChannelCount)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| maxChannelCount | Int32 | अधिकतम चैनल संख्या। |
+| maxChannelCount | Int32 | अधिकतम चैनल गिनती। |
 
-### यह सभी देखें
+### देखें भी
 
 * class [CurvResource](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../curvresource/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## CurvResource(byte[]) {#constructor}
 
-का एक नया उदाहरण प्रारंभ करता है[`CurvResource`](../) वर्ग.
+[`CurvResource`](../) क्लास की नई इंस्टेंस को इनिशियलाइज़ करता है।
 
 ```csharp
 public CurvResource(byte[] bytes)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| bytes | Byte[] | बाइट्स। |
+| बाइट्स | Byte[] | बाइट्स। |
 
-### यह सभी देखें
+### देखें भी
 
 * class [CurvResource](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../curvresource/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

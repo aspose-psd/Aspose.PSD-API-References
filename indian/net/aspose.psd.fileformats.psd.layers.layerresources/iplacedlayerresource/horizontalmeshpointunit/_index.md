@@ -1,28 +1,29 @@
 ---
-title: IPlacedLayerResource.HorizontalMeshPointUnit
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: IPlacedLayerResource संपत्त. क्षैतज जल बंदुओं क मप इकई प्रप्त य सेट करत है
+title: "IPlacedLayerResource.HorizontalMeshPointUnit"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "IPlacedLayerResource प्रॉपर्टी। क्षैतिज मेष बिंदुओं की माप इकाई को प्राप्त करता है या सेट करता है"
 type: docs
 weight: 50
 url: /hi/net/aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/horizontalmeshpointunit/
 ---
+{{< psd/tize >}}
 ## IPlacedLayerResource.HorizontalMeshPointUnit property
 
-क्षैतिज जाल बिंदुओं की माप इकाई प्राप्त या सेट करता है।
+क्षैतिज मेष बिंदुओं की माप इकाई को प्राप्त करता है या सेट करता है।
 
 ```csharp
 public UnitTypes HorizontalMeshPointUnit { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-क्षैतिज जाल बिंदुओं की माप इकाई।
+क्षैतिज मेष बिंदुओं की माप इकाई।
 
-### यह सभी देखें
+### देखें भी
 
 * enum [UnitTypes](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/unittypes/)
 * interface [IPlacedLayerResource](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../iplacedlayerresource/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

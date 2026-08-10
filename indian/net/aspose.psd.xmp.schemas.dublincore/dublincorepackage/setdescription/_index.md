@@ -1,11 +1,12 @@
 ---
-title: DublinCorePackage.SetDescription
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: DublinCorePackage तरक. ववरण जड़त है
+title: "DublinCorePackage.SetDescription"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "DublinCorePackage मेथड। विवरण जोड़ता है"
 type: docs
 weight: 40
 url: /hi/net/aspose.psd.xmp.schemas.dublincore/dublincorepackage/setdescription/
 ---
+{{< psd/tize >}}
 ## SetDescription(string) {#setdescription_1}
 
 विवरण जोड़ता है।
@@ -14,15 +15,15 @@ url: /hi/net/aspose.psd.xmp.schemas.dublincore/dublincorepackage/setdescription/
 public void SetDescription(string desc)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| desc | String | विवरण। |
+| विवरण | String | विवरण। |
 
-### यह सभी देखें
+### देखें भी
 
 * class [DublinCorePackage](../)
-* नाम स्थान [Aspose.PSD.Xmp.Schemas.DublinCore](../../dublincorepackage/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.DublinCore](../../../aspose.psd.xmp.schemas.dublincore/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
@@ -34,15 +35,15 @@ public void SetDescription(string desc)
 public void SetDescription(LangAlt desc)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| desc | LangAlt | विवरण। |
+| विवरण | LangAlt | विवरण। |
 
-### यह सभी देखें
+### देखें भी
 
 * class [LangAlt](../../../aspose.psd.xmp/langalt/)
 * class [DublinCorePackage](../)
-* नाम स्थान [Aspose.PSD.Xmp.Schemas.DublinCore](../../dublincorepackage/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.DublinCore](../../../aspose.psd.xmp.schemas.dublincore/)
+* assembly [Aspose.PSD](../../../)
 
 

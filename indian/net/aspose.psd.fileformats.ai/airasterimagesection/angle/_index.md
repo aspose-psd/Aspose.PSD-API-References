@@ -1,27 +1,28 @@
 ---
-title: AiRasterImageSection.Angle
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: AiRasterImageSection संपत्त. कण मलत है
+title: "AiRasterImageSection.Angle"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "AiRasterImageSection प्रॉपर्टी। कोण प्राप्त करता है"
 type: docs
 weight: 10
 url: /hi/net/aspose.psd.fileformats.ai/airasterimagesection/angle/
 ---
+{{< psd/tize >}}
 ## AiRasterImageSection.Angle property
 
-कोण मिलता है।
+कोण को प्राप्त करता है।
 
 ```csharp
 public double Angle { get; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-कोना।
+कोण।
 
-### यह सभी देखें
+### देखें भी
 
 * class [AiRasterImageSection](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Ai](../../airasterimagesection/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

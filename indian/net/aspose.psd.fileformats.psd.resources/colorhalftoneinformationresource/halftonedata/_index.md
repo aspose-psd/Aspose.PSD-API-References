@@ -1,27 +1,28 @@
 ---
-title: ColorHalftoneInformationResource.HalftoneData
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: ColorHalftoneInformationResource संपत्त. हफ़टन डेट प्रप्त य सेट करत है
+title: "ColorHalftoneInformationResource.HalftoneData"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "ColorHalftoneInformationResource प्रॉपर्टी। हाफटोन डेटा प्राप्त करता है या सेट करता है"
 type: docs
 weight: 30
 url: /hi/net/aspose.psd.fileformats.psd.resources/colorhalftoneinformationresource/halftonedata/
 ---
+{{< psd/tize >}}
 ## ColorHalftoneInformationResource.HalftoneData property
 
-हाफ़टोन डेटा प्राप्त या सेट करता है।
+हाफटोन डेटा को प्राप्त या सेट करता है।
 
 ```csharp
 public byte[] HalftoneData { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-हाफ़टोन डेटा.
+हाफटोन डेटा।
 
-### यह सभी देखें
+### देखें भी
 
 * class [ColorHalftoneInformationResource](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Resources](../../colorhalftoneinformationresource/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,14 +1,15 @@
 ---
-title: Class LineSegment
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Aspose.PSD.ShapeSegments.LineSegment कक्ष. कस वशष्ट बंदु से सधे अगले बंदु तक जने वले सेगमेंट क प्रतनधत्व करत है
+title: "क्लास LineSegment"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Aspose.PSD.ShapeSegments.LineSegment क्लास। एक खंड का प्रतिनिधित्व करता है जो एक विशिष्ट बिंदु से सीधे अगले बिंदु तक जाता है।"
 type: docs
-weight: 5450
+weight: 5950
 url: /hi/net/aspose.psd.shapesegments/linesegment/
 ---
+{{< psd/tize >}}
 ## LineSegment class
 
-किसी विशिष्ट बिंदु से सीधे अगले बिंदु तक जाने वाले सेगमेंट का प्रतिनिधित्व करता है।
+एक सेगमेंट का प्रतिनिधित्व करता है जो एक विशिष्ट बिंदु से सीधे अगले बिंदु की ओर ले जाता है।
 
 ```csharp
 public class LineSegment : ShapeSegment
@@ -18,19 +19,19 @@ public class LineSegment : ShapeSegment
 
 | नाम | विवरण |
 | --- | --- |
-| [LineSegment](linesegment/)(PointF, PointF) | का एक नया उदाहरण प्रारंभ करता है`LineSegment` वर्ग. |
+| [LineSegment](linesegment/)(PointF, PointF) | `LineSegment` क्लास का नया उदाहरण प्रारंभ करता है। |
 
-## गुण
+## प्रॉपर्टीज़
 
 | नाम | विवरण |
 | --- | --- |
-| override [EndPoint](../../aspose.psd.shapesegments/linesegment/endpoint/) { get; } | अंतिम बिंदु प्राप्त करता है। |
-| override [StartPoint](../../aspose.psd.shapesegments/linesegment/startpoint/) { get; } | प्रारंभिक बिंदु प्राप्त करता है। |
+| override [EndPoint](../../aspose.psd.shapesegments/linesegment/endpoint/) { get; } | समाप्ति बिंदु प्राप्त करता है। |
+| override [StartPoint](../../aspose.psd.shapesegments/linesegment/startpoint/) { get; } | प्रारंभ बिंदु प्राप्त करता है। |
 
-### यह सभी देखें
+### देखें भी
 
 * class [ShapeSegment](../../aspose.psd/shapesegment/)
-* नाम स्थान [Aspose.PSD.ShapeSegments](../../aspose.psd.shapesegments/)
-* सभा [Aspose.PSD](../../)
+* namespace [Aspose.PSD.ShapeSegments](../../aspose.psd.shapesegments/)
+* assembly [Aspose.PSD](../../)
 
 

@@ -1,28 +1,29 @@
 ---
-title: TiffOptions.FileStandard
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: TiffOptions संपत्त. TIFF फ़इल मनक प्रप्त य सेट करत है
+title: "TiffOptions.FileStandard"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "TiffOptions प्रॉपर्टी। TIFF फ़ाइल मानक को प्राप्त करता है या सेट करता है"
 type: docs
-weight: 150
+weight: 160
 url: /hi/net/aspose.psd.imageoptions/tiffoptions/filestandard/
 ---
+{{< psd/tize >}}
 ## TiffOptions.FileStandard property
 
-TIFF फ़ाइल मानक प्राप्त या सेट करता है।
+TIFF फ़ाइल मानक को प्राप्त या सेट करता है।
 
 ```csharp
 public TiffFileStandards FileStandard { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-TIFF फ़ाइल मानक.
+TIFF फ़ाइल मानक।
 
-### यह सभी देखें
+### देखें भी
 
 * enum [TiffFileStandards](../../../aspose.psd.fileformats.tiff.enums/tifffilestandards/)
 * class [TiffOptions](../)
-* नाम स्थान [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

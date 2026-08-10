@@ -1,27 +1,28 @@
 ---
-title: CurvesManager.MaxChannelCount
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: CurvesManager संपत्त. चैनल क अधकतम संख्य प्रप्त करत है.
+title: "CurvesManager.MaxChannelCount"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "CurvesManager प्रॉपर्टी। अधिकतम चैनल काउंट प्राप्त करता है"
 type: docs
 weight: 20
 url: /hi/net/aspose.psd.fileformats.psd.layers.layerresources/curvesmanager/maxchannelcount/
 ---
+{{< psd/tize >}}
 ## CurvesManager.MaxChannelCount property
 
-चैनल की अधिकतम संख्या प्राप्त करता है.
+अधिकतम चैनल गणना प्राप्त करता है।
 
 ```csharp
 public int MaxChannelCount { get; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-अधिकतम चैनल संख्या.
+अधिकतम चैनल गिनती।
 
-### यह सभी देखें
+### देखें भी
 
 * class [CurvesManager](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../curvesmanager/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

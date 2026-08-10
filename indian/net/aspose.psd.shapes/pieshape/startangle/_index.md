@@ -1,27 +1,28 @@
 ---
-title: PieShape.StartAngle
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: PieShape संपत्त. प्ररंभ कण प्रप्त य सेट करत है
+title: "PieShape.StartAngle"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "PieShape प्रॉपर्टी। स्टार्ट एंगल प्राप्त करता है या सेट करता है"
 type: docs
 weight: 30
 url: /hi/net/aspose.psd.shapes/pieshape/startangle/
 ---
+{{< psd/tize >}}
 ## PieShape.StartAngle property
 
-प्रारंभ कोण प्राप्त या सेट करता है।
+शुरूआती कोण प्राप्त करता है या सेट करता है।
 
 ```csharp
 public float StartAngle { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-प्रारंभ कोण।
+स्टार्ट एंगल।
 
-### यह सभी देखें
+### देखें भी
 
 * class [PieShape](../)
-* नाम स्थान [Aspose.PSD.Shapes](../../pieshape/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 

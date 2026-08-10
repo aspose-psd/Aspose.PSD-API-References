@@ -1,11 +1,12 @@
 ---
-title: Metered.GetConsumptionQuantity
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Metered तरक. उपभग फ़इल आकर प्रप्त करत है
+title: "Metered.GetConsumptionQuantity"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Metered विधि। उपभोग फ़ाइल आकार प्राप्त करती है"
 type: docs
-weight: 50
+weight: 60
 url: /hi/net/aspose.psd/metered/getconsumptionquantity/
 ---
+{{< psd/tize >}}
 ## Metered.GetConsumptionQuantity method
 
 उपभोग फ़ाइल आकार प्राप्त करता है
@@ -14,14 +15,14 @@ url: /hi/net/aspose.psd/metered/getconsumptionquantity/
 public static decimal GetConsumptionQuantity()
 ```
 
-### प्रतिलाभ की मात्रा
+### रिटर्न वैल्यू
 
-खपत मात्रा
+उपभोग मात्रा
 
-### यह सभी देखें
+### देखें भी
 
 * class [Metered](../)
-* नाम स्थान [Aspose.PSD](../../metered/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,21 +1,22 @@
 ---
-title: Aspose.PSD.Xmp.Types.Basic
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: नमस्थन में वे वर्ग शमल हैं ज XMP गुणं के मूल प्रकर के मनं क प्रतनधत्व करते हैं
+title: "Aspose.PSD.Xmp.Types.Basic"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "यह नेमस्पेस उन क्लासेस को शामिल करता है जो XMP प्रॉपर्टीज़ के बेसिक टाइप वैल्यूज़ को दर्शाते हैं।"
 type: docs
-weight: 610
+weight: 650
 url: /hi/net/aspose.psd.xmp.types.basic/
 ---
-नामस्थान में वे वर्ग शामिल हैं जो XMP गुणों के मूल प्रकार के मानों का प्रतिनिधित्व करते हैं।
+{{< psd/tize >}}
+Namespace में क्लासेस शामिल हैं जो XMP प्रॉपर्टीज़ के बेसिक टाइप मानों को दर्शाते हैं।
 
-## कक्षाओं
+## क्लासेस
 
-| कक्षा | विवरण |
+| क्लास | विवरण |
 | --- | --- |
-| [XmpBoolean](./xmpboolean/) | XMP बूलियन मूल प्रकार का प्रतिनिधित्व करता है। |
-| [XmpDate](./xmpdate/) | XMP पैकेट में दिनांक का प्रतिनिधित्व करता है। |
-| [XmpInteger](./xmpinteger/) | XMP पूर्णांक मूल प्रकार का प्रतिनिधित्व करता है। |
-| [XmpReal](./xmpreal/) | एक्सएमपी रियल का प्रतिनिधित्व करता है। |
-| [XmpText](./xmptext/) | XMP टेक्स्ट मूल प्रकार का प्रतिनिधित्व करता है। |
+| [XmpBoolean](./xmpboolean/) | XMP बूलियन बेसिक टाइप को दर्शाता है। |
+| [XmpDate](./xmpdate/) | XMP पैकेट में डेट को दर्शाता है। |
+| [XmpInteger](./xmpinteger/) | XMP Integer बुनियादी प्रकार का प्रतिनिधित्व करता है। |
+| [XmpReal](./xmpreal/) | XMP Real का प्रतिनिधित्व करता है। |
+| [XmpText](./xmptext/) | XMP Text बुनियादी प्रकार का प्रतिनिधित्व करता है। |
 
 

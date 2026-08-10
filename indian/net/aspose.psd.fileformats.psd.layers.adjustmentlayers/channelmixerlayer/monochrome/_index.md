@@ -1,27 +1,28 @@
 ---
-title: ChannelMixerLayer.Monochrome
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: ChannelMixerLayer संपत्त. एक मन प्रप्त करत है य सेट करत है ज दर्शत है क यहChannelMixerLayer मनक्रम है.
+title: "ChannelMixerLayer.Monochrome"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "ChannelMixerLayer प्रॉपर्टी। यह दर्शाने वाला मान प्राप्त करता है या सेट करता है कि यह ChannelMixerLayer मोनोक्रोम है या नहीं"
 type: docs
 weight: 10
 url: /hi/net/aspose.psd.fileformats.psd.layers.adjustmentlayers/channelmixerlayer/monochrome/
 ---
+{{< psd/tize >}}
 ## ChannelMixerLayer.Monochrome property
 
-एक मान प्राप्त करता है या सेट करता है जो दर्शाता है कि यह[`ChannelMixerLayer`](../) मोनोक्रोम है.
+यह दर्शाने वाला मान प्राप्त करता है या सेट करता है कि यह [`ChannelMixerLayer`](../) मोनोक्रोम है या नहीं।
 
 ```csharp
 public bool Monochrome { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-`सत्य` अगर मोनोक्रोम; अन्यथा,`असत्य` .
+`true` यदि मोनोक्रोम है; अन्यथा, `false`।
 
-### यह सभी देखें
+### देखें भी
 
 * class [ChannelMixerLayer](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../channelmixerlayer/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.AdjustmentLayers](../../../aspose.psd.fileformats.psd.layers.adjustmentlayers/)
+* assembly [Aspose.PSD](../../../)
 
 

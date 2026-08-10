@@ -1,17 +1,18 @@
 ---
-title: Aspose.PSD.Xmp.Types.Complex.ResourceEvent
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: नमस्थन में वह वर्ग है ज एक उच्च स्तरय घटन है ज इस दस्तवेज़ के प्रसंस्करण में हुई है
+title: "Aspose.PSD.Xmp.Types.Complex.ResourceEvent"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "यह नेमस्पेस एक क्लास को शामिल करता है जो इस दस्तावेज़ की प्रोसेसिंग में हुई उच्च स्तर की घटना है।"
 type: docs
-weight: 660
+weight: 700
 url: /hi/net/aspose.psd.xmp.types.complex.resourceevent/
 ---
-नामस्थान में वह वर्ग है जो एक उच्च स्तरीय घटना है जो इस दस्तावेज़ के प्रसंस्करण में हुई है।
+{{< psd/tize >}}
+Namespace में क्लास शामिल है जो इस दस्तावेज़ की प्रोसेसिंग में हुई एक उच्च स्तर की घटना है।
 
-## कक्षाओं
+## क्लासेस
 
-| कक्षा | विवरण |
+| क्लास | विवरण |
 | --- | --- |
-| [ResourceEvent](./resourceevent/) | खींची गई वस्तु के लिए आयाम शामिल हैं। |
+| [ResourceEvent](./resourceevent/) | खींचे गए वस्तु के आयामों को शामिल करता है। |
 
 

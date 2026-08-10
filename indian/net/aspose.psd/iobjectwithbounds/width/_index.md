@@ -1,27 +1,28 @@
 ---
-title: IObjectWithBounds.Width
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: IObjectWithBounds संपत्त. वस्तु क चड़ई प्रप्त करत है
+title: "IObjectWithBounds.Width"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "IObjectWithBounds property. वस्तु की चौड़ाई प्राप्त करता है"
 type: docs
 weight: 40
 url: /hi/net/aspose.psd/iobjectwithbounds/width/
 ---
+{{< psd/tize >}}
 ## IObjectWithBounds.Width property
 
-वस्तु की चौड़ाई प्राप्त करता है।
+ऑब्जेक्ट की चौड़ाई प्राप्त करता है।
 
 ```csharp
 public int Width { get; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-वस्तु की चौड़ाई।
+ऑब्जेक्ट की चौड़ाई।
 
-### यह सभी देखें
+### देखें भी
 
 * interface [IObjectWithBounds](../)
-* नाम स्थान [Aspose.PSD](../../iobjectwithbounds/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

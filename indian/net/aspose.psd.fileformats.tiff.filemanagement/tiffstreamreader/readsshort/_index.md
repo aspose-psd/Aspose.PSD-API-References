@@ -1,31 +1,32 @@
 ---
-title: TiffStreamReader.ReadSShort
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: TiffStreamReader तरक. स्ट्रम से हस्तक्षरत लघु मन पढ़ें
+title: "TiffStreamReader.ReadSShort"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "TiffStreamReader मेथड। स्ट्रीम से साइन्ड शॉर्ट मान पढ़ता है"
 type: docs
 weight: 170
 url: /hi/net/aspose.psd.fileformats.tiff.filemanagement/tiffstreamreader/readsshort/
 ---
+{{< psd/tize >}}
 ## TiffStreamReader.ReadSShort method
 
-स्ट्रीम से हस्ताक्षरित लघु मान पढ़ें।
+स्ट्रीम से साइन किया गया शॉर्ट मान पढ़ता है।
 
 ```csharp
 public short ReadSShort(long position)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| position | Int64 | पढ़ने की स्थिति। |
+| स्थिति | Int64 | पढ़ने के लिए स्थिति। |
 
-### प्रतिलाभ की मात्रा
+### रिटर्न वैल्यू
 
-एक हस्ताक्षरित लघु मान।
+एक साइन्ड शॉर्ट मान।
 
-### यह सभी देखें
+### देखें भी
 
 * class [TiffStreamReader](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Tiff.FileManagement](../../tiffstreamreader/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff.FileManagement](../../../aspose.psd.fileformats.tiff.filemanagement/)
+* assembly [Aspose.PSD](../../../)
 
 

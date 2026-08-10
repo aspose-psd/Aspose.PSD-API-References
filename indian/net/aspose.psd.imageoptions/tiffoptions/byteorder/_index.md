@@ -1,24 +1,25 @@
 ---
-title: TiffOptions.ByteOrder
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: TiffOptions संपत्त. टफ बइट ऑर्डर क इंगत करने वल मन प्रप्त य सेट करत है
+title: "TiffOptions.ByteOrder"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "TiffOptions प्रॉपर्टी। TIFF बाइट क्रम को दर्शाने वाला मान प्राप्त करता है या सेट करता है"
 type: docs
 weight: 60
 url: /hi/net/aspose.psd.imageoptions/tiffoptions/byteorder/
 ---
+{{< psd/tize >}}
 ## TiffOptions.ByteOrder property
 
-टिफ बाइट ऑर्डर को इंगित करने वाला मान प्राप्त या सेट करता है।
+tiff बाइट ऑर्डर को दर्शाने वाला मान प्राप्त करता है या सेट करता है।
 
 ```csharp
 public TiffByteOrder ByteOrder { get; set; }
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * enum [TiffByteOrder](../../../aspose.psd.fileformats.tiff.enums/tiffbyteorder/)
 * class [TiffOptions](../)
-* नाम स्थान [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

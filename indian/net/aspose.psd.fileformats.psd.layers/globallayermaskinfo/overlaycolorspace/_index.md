@@ -1,27 +1,28 @@
 ---
-title: GlobalLayerMaskInfo.OverlayColorSpace
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: GlobalLayerMaskInfo संपत्त. ओवरले कलर स्पेस प्रप्त य सेट करत है अदस्तवेज मन
+title: "GlobalLayerMaskInfo.OverlayColorSpace"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "GlobalLayerMaskInfo प्रॉपर्टी। ओवरले कलर स्पेस अनडॉक्यूमेंटेड वैल्यू को प्राप्त करता है या सेट करता है"
 type: docs
 weight: 80
 url: /hi/net/aspose.psd.fileformats.psd.layers/globallayermaskinfo/overlaycolorspace/
 ---
+{{< psd/tize >}}
 ## GlobalLayerMaskInfo.OverlayColorSpace property
 
-ओवरले कलर स्पेस प्राप्त या सेट करता है (अदस्तावेजी मान)।
+ओवरले कलर स्पेस को प्राप्त करता है या सेट करता है (अप्रलेखित मान)।
 
 ```csharp
 public short OverlayColorSpace { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-ओवरले कलर स्पेस.
+ओवरले कलर स्पेस।
 
-### यह सभी देखें
+### देखें भी
 
 * class [GlobalLayerMaskInfo](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers](../../globallayermaskinfo/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,28 +1,29 @@
 ---
-title: ColorMap.OldColor
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: ColorMap संपत्त. मजूद क प्रप्त य सेट करत हैColor परवर्तत करने के लए संरचन
+title: "ColorMap.OldColor"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "ColorMap प्रॉपर्टी। मौजूदा Color स्ट्रक्चर को परिवर्तित करने के लिए प्राप्त करता है या सेट करता है"
 type: docs
 weight: 30
 url: /hi/net/aspose.psd/colormap/oldcolor/
 ---
+{{< psd/tize >}}
 ## ColorMap.OldColor property
 
-मौजूदा को प्राप्त या सेट करता है[`Color`](../../color/) परिवर्तित करने के लिए संरचना।
+मौजूदा [`Color`](../../color/) स्ट्रक्चर को परिवर्तित करने के लिए प्राप्त करता है या सेट करता है।
 
 ```csharp
 public Color OldColor { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-अस्तित्व[`Color`](../../color/) संरचना को परिवर्तित किया जाना है।
+परिवर्तित करने के लिए मौजूदा [`Color`](../../color/) स्ट्रक्चर।
 
-### यह सभी देखें
+### देखें भी
 
 * struct [Color](../../color/)
 * class [ColorMap](../)
-* नाम स्थान [Aspose.PSD](../../colormap/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

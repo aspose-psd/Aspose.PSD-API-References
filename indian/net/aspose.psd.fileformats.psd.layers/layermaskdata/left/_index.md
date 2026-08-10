@@ -1,27 +1,28 @@
 ---
-title: LayerMaskData.Left
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: LayerMaskData संपत्त. लेफ्ट लेयर मस्क पजशन प्रप्त य सेट करत है
+title: "LayerMaskData.Left"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "LayerMaskData प्रॉपर्टी। बाएँ लेयर मास्क की स्थिति को प्राप्त या सेट करता है"
 type: docs
 weight: 60
 url: /hi/net/aspose.psd.fileformats.psd.layers/layermaskdata/left/
 ---
+{{< psd/tize >}}
 ## LayerMaskData.Left property
 
-लेफ्ट लेयर मास्क पोजीशन प्राप्त या सेट करता है।
+बाएँ लेयर मास्क स्थिति को प्राप्त करता है या सेट करता है।
 
 ```csharp
 public int Left { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-लेफ्ट लेयर मास्क पोजीशन.
+बाएँ लेयर मास्क की स्थिति।
 
-### यह सभी देखें
+### देखें भी
 
 * class [LayerMaskData](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers](../../layermaskdata/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

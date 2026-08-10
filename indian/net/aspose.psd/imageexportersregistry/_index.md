@@ -1,39 +1,40 @@
 ---
-title: Class ImageExportersRegistry
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Aspose.PSD.ImageExportersRegistry कक्ष. छव नर्यतक रजस्ट्र क प्रतनधत्व करत है
+title: "क्लास ImageExportersRegistry"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Aspose.PSD.ImageExportersRegistry क्लास। इमेज एक्सपोर्टर्स रजिस्ट्री का प्रतिनिधित्व करता है।"
 type: docs
-weight: 4630
+weight: 5100
 url: /hi/net/aspose.psd/imageexportersregistry/
 ---
+{{< psd/tize >}}
 ## ImageExportersRegistry class
 
-छवि निर्यातक रजिस्ट्री का प्रतिनिधित्व करता है।
+इमेज एक्सपोर्टर्स रजिस्ट्री का प्रतिनिधित्व करता है।
 
 ```csharp
 public static class ImageExportersRegistry
 ```
 
-## गुण
+## प्रॉपर्टीज़
 
 | नाम | विवरण |
 | --- | --- |
-| static [RegisteredExporterDescriptors](../../aspose.psd/imageexportersregistry/registeredexporterdescriptors/) { get; } | पंजीकृत निर्यातक विवरणक प्राप्त करता है। |
-| static [RegisteredFormats](../../aspose.psd/imageexportersregistry/registeredformats/) { get; } | पंजीकृत निर्यात प्रारूप प्राप्त करता है। |
+| static [RegisteredExporterDescriptors](../../aspose.psd/imageexportersregistry/registeredexporterdescriptors/) { get; } | पंजीकृत एक्सपोर्टर विवरण प्राप्त करता है। |
+| static [RegisteredFormats](../../aspose.psd/imageexportersregistry/registeredformats/) { get; } | पंजीकृत निर्यात फ़ॉर्मेट प्राप्त करता है। |
 
-## तरीकों
+## मेथड्स
 
 | नाम | विवरण |
 | --- | --- |
-| static [CreateFirstSupportedExporter](../../aspose.psd/imageexportersregistry/createfirstsupportedexporter/)(Image, ImageOptionsBase) | निर्दिष्ट सेव विकल्पों और छवि के लिए उपयुक्त पहला पाया गया निर्यातक बनाता है। |
-| static [GetFirstSupportedDescriptor](../../aspose.psd/imageexportersregistry/getfirstsupporteddescriptor/)(Image, ImageOptionsBase) | फिस्ट फाउंड सपोर्टेड डिस्क्रिप्टर प्राप्त करता है जो निर्दिष्ट सेव ऑप्शन और इमेज के लिए उपयुक्त है। |
-| static [Register](../../aspose.psd/imageexportersregistry/register/)(IImageExporterDescriptor) | निर्दिष्ट छवि निर्यातक विवरणक को पंजीकृत करता है। |
-| static [RegisterExporter](../../aspose.psd/imageexportersregistry/registerexporter/)(IImageExporterDescriptor) | निर्यातक को पंजीकृत करता है। |
-| static [UnregisterExporter](../../aspose.psd/imageexportersregistry/unregisterexporter/)(IImageExporterDescriptor) | निर्यातक का पंजीकरण रद्द करता है। |
+| static [CreateFirstSupportedExporter](../../aspose.psd/imageexportersregistry/createfirstsupportedexporter/)(Image, ImageOptionsBase) | निर्दिष्ट सहेजने के विकल्प और इमेज के लिए उपयुक्त पहला पाया गया एक्सपोर्टर बनाता है। |
+| static [GetFirstSupportedDescriptor](../../aspose.psd/imageexportersregistry/getfirstsupporteddescriptor/)(Image, ImageOptionsBase) | निर्दिष्ट सहेजने के विकल्प और इमेज के लिए उपयुक्त पहला पाया गया समर्थित विवरण प्राप्त करता है। |
+| static [Register](../../aspose.psd/imageexportersregistry/register/)(IImageExporterDescriptor) | निर्दिष्ट इमेज एक्सपोर्टर विवरण को पंजीकृत करता है। |
+| static [RegisterExporter](../../aspose.psd/imageexportersregistry/registerexporter/)(IImageExporterDescriptor) | एक्सपोर्टर को पंजीकृत करता है। |
+| static [UnregisterExporter](../../aspose.psd/imageexportersregistry/unregisterexporter/)(IImageExporterDescriptor) | एक्सपोर्टर को अनपंजीकृत करता है। |
 
-### यह सभी देखें
+### देखें भी
 
-* नाम स्थान [Aspose.PSD](../../aspose.psd/)
-* सभा [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

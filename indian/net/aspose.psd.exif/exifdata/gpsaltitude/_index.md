@@ -1,28 +1,29 @@
 ---
-title: ExifData.GPSAltitude
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: ExifData संपत्त. GPS ऊंचई प्रप्त य सेट करत है
+title: "ExifData.GPSAltitude"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "ExifData प्रॉपर्टी। GPS ऊँचाई को प्राप्त करता है या सेट करता है"
 type: docs
 weight: 360
 url: /hi/net/aspose.psd.exif/exifdata/gpsaltitude/
 ---
+{{< psd/tize >}}
 ## ExifData.GPSAltitude property
 
-GPS ऊंचाई प्राप्त या सेट करता है।
+GPS ऊँचाई प्राप्त करता है या सेट करता है।
 
 ```csharp
 public TiffRational GPSAltitude { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-जीपीएस ऊंचाई।
+GPS ऊँचाई।
 
-### यह सभी देखें
+### देखें भी
 
 * class [TiffRational](../../../aspose.psd.fileformats.tiff/tiffrational/)
 * class [ExifData](../)
-* नाम स्थान [Aspose.PSD.Exif](../../exifdata/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

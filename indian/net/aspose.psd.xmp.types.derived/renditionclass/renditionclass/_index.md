@@ -1,44 +1,45 @@
 ---
-title: RenditionClass.RenditionClass
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: RenditionClass नर्मत. क एक नय उदहरण प्ररंभ करत हैRenditionClass वर्ग.
+title: "RenditionClass.RenditionClass"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "RenditionClass कंस्ट्रक्टर. RenditionClass क्लास का नया उदाहरण प्रारंभ करता है"
 type: docs
 weight: 10
 url: /hi/net/aspose.psd.xmp.types.derived/renditionclass/renditionclass/
 ---
+{{< psd/tize >}}
 ## RenditionClass() {#constructor}
 
-का एक नया उदाहरण प्रारंभ करता है[`RenditionClass`](../) वर्ग.
+[`RenditionClass`](../) क्लास का नया उदाहरण प्रारंभ करता है।
 
 ```csharp
 public RenditionClass()
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * class [RenditionClass](../)
-* नाम स्थान [Aspose.PSD.Xmp.Types.Derived](../../renditionclass/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Derived](../../../aspose.psd.xmp.types.derived/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## RenditionClass(string, string) {#constructor_1}
 
-का एक नया उदाहरण प्रारंभ करता है[`RenditionClass`](../) वर्ग.
+[`RenditionClass`](../) क्लास का नया उदाहरण प्रारंभ करता है।
 
 ```csharp
 public RenditionClass(string token, string value)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
 | token | String | टोकन। |
-| value | String | मूल्य। |
+| मान | String | मान। |
 
-### यह सभी देखें
+### देखें भी
 
 * class [RenditionClass](../)
-* नाम स्थान [Aspose.PSD.Xmp.Types.Derived](../../renditionclass/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Derived](../../../aspose.psd.xmp.types.derived/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,32 +1,33 @@
 ---
-title: ColorExtensions.ToGdiColor
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: ColorExtensions तरक. परवर्तत करत हैColor तकColor .
+title: "ColorExtensions.ToGdiColor"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "ColorExtensions मेथड। Color को Color में परिवर्तित करता है।"
 type: docs
 weight: 10
 url: /hi/net/aspose.psd.extensions/colorextensions/togdicolor/
 ---
+{{< psd/tize >}}
 ## ColorExtensions.ToGdiColor method
 
-परिवर्तित करता है[`Color`](../../../aspose.psd/color/) तकColor .
+[`Color`](../../../aspose.psd/color/) को Color में परिवर्तित करता है।
 
 ```csharp
 public static Color ToGdiColor(Color color)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| color | Color | [`Color`](../../../aspose.psd/color/) रूपान्तरण करने के लिए। |
+| color | Color | यह [`Color`](../../../aspose.psd/color/) को परिवर्तित करने के लिए। |
 
-### प्रतिलाभ की मात्रा
+### रिटर्न वैल्यू
 
-परिवर्तितColor.
+परिवर्तित Color।
 
-### यह सभी देखें
+### देखें भी
 
 * struct [Color](../../../aspose.psd/color/)
 * class [ColorExtensions](../)
-* नाम स्थान [Aspose.PSD.Extensions](../../colorextensions/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Extensions](../../../aspose.psd.extensions/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,55 +1,56 @@
 ---
-title: FileStreamContainer.op_Explicit
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: FileStreamContainer तरक. से एक स्पष्ट रूपंतरण करत हैFileStreamContainer कStream .
+title: "FileStreamContainer.op_Explicit"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "FileStreamContainer मेथड। FileStreamContainer से Stream में स्पष्ट रूपांतरण करता है"
 type: docs
 weight: 60
 url: /hi/net/aspose.psd/filestreamcontainer/op_explicit/
 ---
+{{< psd/tize >}}
 ## explicit operator {#op_explicit_1}
 
-से एक स्पष्ट रूपांतरण करता है[`FileStreamContainer`](../) कोStream .
+[`FileStreamContainer`](../) से Stream में स्पष्ट रूपांतरण करता है।
 
 ```csharp
 public static explicit operator Stream(FileStreamContainer fileStreamContainer)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
 | fileStreamContainer | FileStreamContainer | फ़ाइल स्ट्रीम कंटेनर। |
 
-### प्रतिलाभ की मात्रा
+### रिटर्न वैल्यू
 
-धर्मांतरण का परिणाम।
+रूपांतरण का परिणाम।
 
-### यह सभी देखें
+### देखें भी
 
 * class [FileStreamContainer](../)
-* नाम स्थान [Aspose.PSD](../../filestreamcontainer/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## explicit operator {#op_explicit}
 
-से एक स्पष्ट रूपांतरण करता है[`FileStreamContainer`](../) कोFileStream .
+[`FileStreamContainer`](../) से FileStream में स्पष्ट रूपांतरण करता है।
 
 ```csharp
 public static explicit operator FileStream(FileStreamContainer fileStreamContainer)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
 | fileStreamContainer | FileStreamContainer | फ़ाइल स्ट्रीम कंटेनर। |
 
-### प्रतिलाभ की मात्रा
+### रिटर्न वैल्यू
 
-धर्मांतरण का परिणाम।
+रूपांतरण का परिणाम।
 
-### यह सभी देखें
+### देखें भी
 
 * class [FileStreamContainer](../)
-* नाम स्थान [Aspose.PSD](../../filestreamcontainer/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

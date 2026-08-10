@@ -1,11 +1,12 @@
 ---
-title: AudioChannelType.Stereo
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: AudioChannelType संपत्त. स्टरय ऑडय चैनल प्रप्त करत है
+title: "AudioChannelType.Stereo"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "AudioChannelType property. स्टेरियो ऑडियो चैनल प्राप्त करता है"
 type: docs
 weight: 60
 url: /hi/net/aspose.psd.xmp.schemas.xmpdm/audiochanneltype/stereo/
 ---
+{{< psd/tize >}}
 ## AudioChannelType.Stereo property
 
 स्टीरियो ऑडियो चैनल प्राप्त करता है।
@@ -14,14 +15,14 @@ url: /hi/net/aspose.psd.xmp.schemas.xmpdm/audiochanneltype/stereo/
 public static AudioChannelType Stereo { get; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-स्टीरियो ऑडियो चैनल.
+स्टेरियो ऑडियो चैनल।
 
-### यह सभी देखें
+### देखें भी
 
 * class [AudioChannelType](../)
-* नाम स्थान [Aspose.PSD.Xmp.Schemas.XmpDm](../../audiochanneltype/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpDm](../../../aspose.psd.xmp.schemas.xmpdm/)
+* assembly [Aspose.PSD](../../../)
 
 

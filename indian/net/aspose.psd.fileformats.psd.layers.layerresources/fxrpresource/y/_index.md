@@ -1,27 +1,28 @@
 ---
-title: FxrpResource.Y
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: FxrpResource संपत्त. संदर्भ बंदु क y प्रप्त य सेट करत है
+title: "FxrpResource.Y"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "FxrpResource प्रॉपर्टी। रेफ़रेंस पॉइंट के y को प्राप्त या सेट करता है"
 type: docs
-weight: 70
+weight: 40
 url: /hi/net/aspose.psd.fileformats.psd.layers.layerresources/fxrpresource/y/
 ---
+{{< psd/tize >}}
 ## FxrpResource.Y property
 
-संदर्भ बिंदु का y प्राप्त या सेट करता है
+संदर्भ बिंदु के y को प्राप्त करता है या सेट करता है
 
 ```csharp
 public double Y { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-संदर्भ बिंदु का y
+रेफ़रेंस पॉइंट का y
 
-### यह सभी देखें
+### देखें भी
 
 * class [FxrpResource](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../fxrpresource/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

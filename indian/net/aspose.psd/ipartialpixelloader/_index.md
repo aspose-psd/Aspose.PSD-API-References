@@ -1,28 +1,29 @@
 ---
-title: Interface IPartialPixelLoader
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Aspose.PSD.IPartialPixelLoader इंटरफेस. आंशक रूप से लड कए गए पक्सल के अनुरूप है
+title: "इंटरफ़ेस IPartialPixelLoader"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Aspose.PSD.IPartialPixelLoader इंटरफ़ेस। आंशिक रूप से लोड किए गए पिक्सेल के अनुरूप है"
 type: docs
-weight: 4530
+weight: 5000
 url: /hi/net/aspose.psd/ipartialpixelloader/
 ---
+{{< psd/tize >}}
 ## IPartialPixelLoader interface
 
-आंशिक रूप से लोड किए गए पिक्सल के अनुरूप है।
+आंशिक रूप से लोड किए गए पिक्सेल के अनुरूप है।
 
 ```csharp
 public interface IPartialPixelLoader
 ```
 
-## तरीकों
+## मेथड्स
 
 | नाम | विवरण |
 | --- | --- |
-| [Process](../../aspose.psd/ipartialpixelloader/process/)(Rectangle, Color[], Point, Point) | लोड किए गए पिक्सेल संसाधित करता है. |
+| [Process](../../aspose.psd/ipartialpixelloader/process/)(Rectangle, Color[], Point, Point) | लोड किए गए पिक्सेल को प्रोसेस करता है। |
 
-### यह सभी देखें
+### देखें भी
 
-* नाम स्थान [Aspose.PSD](../../aspose.psd/)
-* सभा [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

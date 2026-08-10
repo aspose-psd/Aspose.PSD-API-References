@@ -1,82 +1,83 @@
 ---
-title: Graphics.DrawLine
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Graphics तरक. द क जड़ने वल एक रेख खंचत हैPoint संरचनएं.
+title: "Graphics.DrawLine"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Graphics विधि। दो Point संरचनाओं को जोड़ने वाली रेखा बनाती है।"
 type: docs
-weight: 250
+weight: 260
 url: /hi/net/aspose.psd/graphics/drawline/
 ---
+{{< psd/tize >}}
 ## DrawLine(Pen, Point, Point) {#drawline}
 
-दो को जोड़ने वाली एक रेखा खींचता है[`Point`](../../point/) संरचनाएं.
+दो [`Point`](../../point/) संरचनाओं को जोड़ने वाली रेखा बनाता है।
 
 ```csharp
 public void DrawLine(Pen pen, Point point1, Point point2)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| pen | Pen | [`Pen`](../../pen/) जो रेखा के रंग, चौड़ाई और शैली को निर्धारित करता है। |
-| point1 | Point | [`Point`](../../point/) संरचना जो कनेक्ट करने के लिए पहले बिंदु का प्रतिनिधित्व करती है। |
-| point2 | Point | [`Point`](../../point/) संरचना जो कनेक्ट करने के लिए दूसरे बिंदु का प्रतिनिधित्व करती है। |
+| pen | Pen | रेखा का रंग, चौड़ाई और शैली निर्धारित करने वाला [`Pen`](../../pen/)। |
+| point1 | Point | पहले बिंदु को दर्शाने वाली [`Point`](../../point/) संरचना। |
+| point2 | Point | दूसरे बिंदु को दर्शाने वाली [`Point`](../../point/) संरचना। |
 
 ### अपवाद
 
-| अपवाद | स्थिति |
+| अपवाद | शर्त |
 | --- | --- |
 | ArgumentNullException | *pen* शून्य है। |
 
-### यह सभी देखें
+### देखें भी
 
 * class [Pen](../../pen/)
 * struct [Point](../../point/)
 * class [Graphics](../)
-* नाम स्थान [Aspose.PSD](../../graphics/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## DrawLine(Pen, PointF, PointF) {#drawline_1}
 
-दो को जोड़ने वाली एक रेखा खींचता है[`PointF`](../../pointf/) संरचनाएं.
+दो [`PointF`](../../pointf/) संरचनाओं को जोड़ने वाली रेखा बनाता है।
 
 ```csharp
 public void DrawLine(Pen pen, PointF point1, PointF point2)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| pen | Pen | [`Pen`](../../pen/) जो रेखा के रंग, चौड़ाई और शैली को निर्धारित करता है। |
-| point1 | PointF | [`PointF`](../../pointf/) संरचना जो कनेक्ट करने के लिए पहले बिंदु का प्रतिनिधित्व करती है। |
-| point2 | PointF | [`PointF`](../../pointf/) संरचना जो कनेक्ट करने के लिए दूसरे बिंदु का प्रतिनिधित्व करती है। |
+| pen | Pen | रेखा का रंग, चौड़ाई और शैली निर्धारित करने वाला [`Pen`](../../pen/)। |
+| point1 | PointF | पहले बिंदु को दर्शाने वाली [`PointF`](../../pointf/) संरचना। |
+| point2 | PointF | दूसरे बिंदु को दर्शाने वाली [`PointF`](../../pointf/) संरचना। |
 
 ### अपवाद
 
-| अपवाद | स्थिति |
+| अपवाद | शर्त |
 | --- | --- |
 | ArgumentNullException | *pen* शून्य है। |
 
-### यह सभी देखें
+### देखें भी
 
 * class [Pen](../../pen/)
 * struct [PointF](../../pointf/)
 * class [Graphics](../)
-* नाम स्थान [Aspose.PSD](../../graphics/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## DrawLine(Pen, int, int, int, int) {#drawline_2}
 
-निर्देशांक जोड़े द्वारा निर्दिष्ट दो बिंदुओं को जोड़ने वाली एक रेखा खींचता है।
+निर्देशांक युग्मों द्वारा निर्दिष्ट दो बिंदुओं को जोड़ती हुई एक रेखा बनाती है।
 
 ```csharp
 public void DrawLine(Pen pen, int x1, int y1, int x2, int y2)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| pen | Pen | [`Pen`](../../pen/) जो रेखा के रंग, चौड़ाई और शैली को निर्धारित करता है। |
+| pen | Pen | रेखा का रंग, चौड़ाई और शैली निर्धारित करने वाला [`Pen`](../../pen/)। |
 | x1 | Int32 | पहले बिंदु का x-निर्देशांक। |
 | y1 | Int32 | पहले बिंदु का y-निर्देशांक। |
 | x2 | Int32 | दूसरे बिंदु का x-निर्देशांक। |
@@ -84,30 +85,30 @@ public void DrawLine(Pen pen, int x1, int y1, int x2, int y2)
 
 ### अपवाद
 
-| अपवाद | स्थिति |
+| अपवाद | शर्त |
 | --- | --- |
 | ArgumentNullException | *pen* शून्य है। |
 
-### यह सभी देखें
+### देखें भी
 
 * class [Pen](../../pen/)
 * class [Graphics](../)
-* नाम स्थान [Aspose.PSD](../../graphics/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## DrawLine(Pen, float, float, float, float) {#drawline_3}
 
-निर्देशांक जोड़े द्वारा निर्दिष्ट दो बिंदुओं को जोड़ने वाली एक रेखा खींचता है।
+निर्देशांक युग्मों द्वारा निर्दिष्ट दो बिंदुओं को जोड़ती हुई एक रेखा बनाती है।
 
 ```csharp
 public void DrawLine(Pen pen, float x1, float y1, float x2, float y2)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| pen | Pen | [`Pen`](../../pen/) जो रेखा के रंग, चौड़ाई और शैली को निर्धारित करता है। |
+| pen | Pen | रेखा का रंग, चौड़ाई और शैली निर्धारित करने वाला [`Pen`](../../pen/)। |
 | x1 | Single | पहले बिंदु का x-निर्देशांक। |
 | y1 | Single | पहले बिंदु का y-निर्देशांक। |
 | x2 | Single | दूसरे बिंदु का x-निर्देशांक। |
@@ -115,15 +116,15 @@ public void DrawLine(Pen pen, float x1, float y1, float x2, float y2)
 
 ### अपवाद
 
-| अपवाद | स्थिति |
+| अपवाद | शर्त |
 | --- | --- |
 | ArgumentNullException | *pen* शून्य है। |
 
-### यह सभी देखें
+### देखें भी
 
 * class [Pen](../../pen/)
 * class [Graphics](../)
-* नाम स्थान [Aspose.PSD](../../graphics/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,23 +1,24 @@
 ---
-title: Matrix.M31
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Matrix संपत्त. तसर पंक्त के पहले कलम में मैट्रक्स तत्व प्रप्त करत है एक्स अक्ष के सथ अनुवद क प्रतनधत्व करत है
+title: "Matrix.M31"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Matrix प्रॉपर्टी। तीसरी पंक्ति की पहली कॉलम में मैट्रिक्स तत्व प्राप्त करता है। X-अक्ष के साथ अनुवाद को दर्शाता है।"
 type: docs
 weight: 70
 url: /hi/net/aspose.psd/matrix/m31/
 ---
+{{< psd/tize >}}
 ## Matrix.M31 property
 
-तीसरी पंक्ति के पहले कॉलम में मैट्रिक्स तत्व प्राप्त करता है। एक्स अक्ष के साथ अनुवाद का प्रतिनिधित्व करता है।
+तीसरी पंक्ति, पहले कॉलम पर मैट्रिक्स तत्व प्राप्त करता है। X अक्ष के साथ अनुवाद को दर्शाता है।
 
 ```csharp
 public float M31 { get; }
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * class [Matrix](../)
-* नाम स्थान [Aspose.PSD](../../matrix/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

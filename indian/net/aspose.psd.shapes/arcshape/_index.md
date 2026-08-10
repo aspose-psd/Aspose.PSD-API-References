@@ -1,14 +1,15 @@
 ---
-title: Class ArcShape
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Aspose.PSD.Shapes.ArcShape कक्ष. एक चप आकर क प्रतनधत्व करत है
+title: "क्लास ArcShape"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Aspose.PSD.Shapes.ArcShape क्लास। एक आर्क आकार का प्रतिनिधित्व करता है।"
 type: docs
-weight: 5460
+weight: 5960
 url: /hi/net/aspose.psd.shapes/arcshape/
 ---
+{{< psd/tize >}}
 ## ArcShape class
 
-एक चाप आकार का प्रतिनिधित्व करता है।
+एक आर्क आकार का प्रतिनिधित्व करता है।
 
 ```csharp
 public sealed class ArcShape : PieShape, IOrderedShape
@@ -18,92 +19,92 @@ public sealed class ArcShape : PieShape, IOrderedShape
 
 | नाम | विवरण |
 | --- | --- |
-| [ArcShape](arcshape/#constructor)() | का एक नया उदाहरण प्रारंभ करता है`ArcShape` वर्ग. |
-| [ArcShape](arcshape/#constructor_1)(RectangleF, float, float) | का एक नया उदाहरण प्रारंभ करता है`ArcShape` वर्ग. |
-| [ArcShape](arcshape/#constructor_2)(RectangleF, float, float, bool) | का एक नया उदाहरण प्रारंभ करता है`ArcShape` वर्ग. |
+| [ArcShape](arcshape/#constructor)() | `ArcShape` क्लास का नया उदाहरण इनिशियलाइज़ करता है। |
+| [ArcShape](arcshape/#constructor_1)(RectangleF, float, float) | `ArcShape` क्लास का नया उदाहरण इनिशियलाइज़ करता है। |
+| [ArcShape](arcshape/#constructor_2)(RectangleF, float, float, bool) | `ArcShape` क्लास का नया उदाहरण इनिशियलाइज़ करता है। |
 
-## गुण
-
-| नाम | विवरण |
-| --- | --- |
-| override [Bounds](../../aspose.psd.shapes/rectangleprojectedshape/bounds/) { get; } | वस्तु की सीमा प्राप्त करता है। |
-| override [Center](../../aspose.psd.shapes/rectangleprojectedshape/center/) { get; } | आकार का केंद्र प्राप्त करता है। |
-| [EndPoint](../../aspose.psd.shapes/arcshape/endpoint/) { get; } | अंतिम आकार बिंदु प्राप्त करता है। |
-| override [HasSegments](../../aspose.psd.shapes/rectangleprojectedshape/hassegments/) { get; } | एक मान प्राप्त करता है जो बताता है कि आकार में खंड हैं या नहीं। |
-| [IsClosed](../../aspose.psd.shapes/arcshape/isclosed/) { get; set; } | एक मान प्राप्त या सेट करता है जो इंगित करता है कि आदेशित आकार बंद है या नहीं। बंद आदेशित आकार को संसाधित करते समय प्रारंभ और समाप्ति बिंदुओं का कोई अर्थ नहीं होता है। |
-| [LeftBottom](../../aspose.psd.shapes/rectangleprojectedshape/leftbottom/) { get; } | बाएँ तल का आयत बिंदु प्राप्त करता है। |
-| [LeftTop](../../aspose.psd.shapes/rectangleprojectedshape/lefttop/) { get; } | बाएं शीर्ष आयत बिंदु प्राप्त करता है। |
-| [RectangleHeight](../../aspose.psd.shapes/rectangleprojectedshape/rectangleheight/) { get; } | आयत ऊंचाई प्राप्त करता है। |
-| [RectangleWidth](../../aspose.psd.shapes/rectangleprojectedshape/rectanglewidth/) { get; } | आयत की चौड़ाई प्राप्त करता है। |
-| [RightBottom](../../aspose.psd.shapes/rectangleprojectedshape/rightbottom/) { get; } | दाएं तल का आयत बिंदु प्राप्त करता है। |
-| [RightTop](../../aspose.psd.shapes/rectangleprojectedshape/righttop/) { get; } | दाहिने शीर्ष आयत बिंदु प्राप्त करता है। |
-| override [Segments](../../aspose.psd.shapes/arcshape/segments/) { get; } | आकार खंड प्राप्त करता है। |
-| [StartAngle](../../aspose.psd.shapes/pieshape/startangle/) { get; set; } | प्रारंभ कोण प्राप्त या सेट करता है। |
-| [StartPoint](../../aspose.psd.shapes/arcshape/startpoint/) { get; } | प्रारंभिक आकार बिंदु प्राप्त करता है। |
-| [SweepAngle](../../aspose.psd.shapes/pieshape/sweepangle/) { get; set; } | स्वीप कोण प्राप्त या सेट करता है। |
-
-## तरीकों
+## प्रॉपर्टीज़
 
 | नाम | विवरण |
 | --- | --- |
-| override [GetBounds](../../aspose.psd.shapes/arcshape/getbounds/#getbounds)(Matrix) | वस्तु की सीमा प्राप्त करता है। |
-| override [GetBounds](../../aspose.psd.shapes/arcshape/getbounds/#getbounds_1)(Matrix, Pen) | वस्तु की सीमा प्राप्त करता है। |
-| [Reverse](../../aspose.psd.shapes/arcshape/reverse/)() | इस आकृति के लिए बिंदुओं के क्रम को उलट देता है। |
-| override [Transform](../../aspose.psd.shapes/rectangleprojectedshape/transform/)(Matrix) | निर्दिष्ट परिवर्तन को आकार में लागू करता है। |
+| override [Bounds](../../aspose.psd.shapes/rectangleprojectedshape/bounds/) { get; } | ऑब्जेक्ट की सीमाएँ प्राप्त करता है। |
+| override [Center](../../aspose.psd.shapes/rectangleprojectedshape/center/) { get; } | आकार के केंद्र को प्राप्त करता है। |
+| [EndPoint](../../aspose.psd.shapes/arcshape/endpoint/) { get; } | समाप्ति आकार बिंदु को प्राप्त करता है। |
+| override [HasSegments](../../aspose.psd.shapes/rectangleprojectedshape/hassegments/) { get; } | एक मान प्राप्त करता है जो दर्शाता है कि आकार में सेगमेंट हैं या नहीं। |
+| [IsClosed](../../aspose.psd.shapes/arcshape/isclosed/) { get; set; } | एक मान प्राप्त करता है या सेट करता है जो दर्शाता है कि क्रमबद्ध आकार बंद है या नहीं। जब बंद क्रमबद्ध आकार को प्रोसेस किया जाता है तो शुरू और अंत बिंदुओं का कोई अर्थ नहीं रहता। |
+| [LeftBottom](../../aspose.psd.shapes/rectangleprojectedshape/leftbottom/) { get; } | बाएँ निचले आयत बिंदु को प्राप्त करता है। |
+| [LeftTop](../../aspose.psd.shapes/rectangleprojectedshape/lefttop/) { get; } | बाएँ ऊपर के आयत बिंदु को प्राप्त करता है। |
+| [RectangleHeight](../../aspose.psd.shapes/rectangleprojectedshape/rectangleheight/) { get; } | आयत की ऊँचाई को प्राप्त करता है। |
+| [RectangleWidth](../../aspose.psd.shapes/rectangleprojectedshape/rectanglewidth/) { get; } | आयत की चौड़ाई को प्राप्त करता है। |
+| [RightBottom](../../aspose.psd.shapes/rectangleprojectedshape/rightbottom/) { get; } | दाएँ निचले आयत बिंदु को प्राप्त करता है। |
+| [RightTop](../../aspose.psd.shapes/rectangleprojectedshape/righttop/) { get; } | दाएँ ऊपर के आयत बिंदु को प्राप्त करता है। |
+| override [Segments](../../aspose.psd.shapes/arcshape/segments/) { get; } | आकार के खंडों को प्राप्त करता है। |
+| [StartAngle](../../aspose.psd.shapes/pieshape/startangle/) { get; set; } | शुरूआती कोण प्राप्त करता है या सेट करता है। |
+| [StartPoint](../../aspose.psd.shapes/arcshape/startpoint/) { get; } | प्रारंभिक आकार बिंदु को प्राप्त करता है। |
+| [SweepAngle](../../aspose.psd.shapes/pieshape/sweepangle/) { get; set; } | स्वीप कोण प्राप्त करता है या सेट करता है। |
 
-### उदाहरण
+## मेथड्स
 
-यह उदाहरण एक नई छवि बनाता है और छवि की सतह पर आंकड़े और ग्राफिक्सपाथ का उपयोग करके विभिन्न प्रकार की आकृतियाँ बनाता है
+| नाम | विवरण |
+| --- | --- |
+| override [GetBounds](../../aspose.psd.shapes/arcshape/getbounds/#getbounds)(Matrix) | ऑब्जेक्ट की सीमाएँ प्राप्त करता है। |
+| override [GetBounds](../../aspose.psd.shapes/arcshape/getbounds/#getbounds_1)(Matrix, Pen) | ऑब्जेक्ट की सीमाएँ प्राप्त करता है। |
+| [Reverse](../../aspose.psd.shapes/arcshape/reverse/)() | इस आकार के बिंदुओं के क्रम को उलटता है। |
+| override [Transform](../../aspose.psd.shapes/rectangleprojectedshape/transform/)(Matrix) | निर्दिष्ट परिवर्तन को आकार पर लागू करता है। |
+
+## उदाहरण
+
+यह उदाहरण एक नई इमेज बनाता है और इमेज सतह पर फ़िगर्स और GraphicsPath का उपयोग करके विभिन्न आकारों को ड्रॉ करता है।
 
 ```csharp
 [C#]
 
-// छवि का एक उदाहरण बनाएं
+//Image का एक इंस्टेंस बनाएँ।
 using (Aspose.PSD.Image image = new Aspose.PSD.FileFormats.Psd.PsdImage(500, 500))
 {
-    // ग्राफिक्स क्लास का एक उदाहरण बनाएं और आरंभ करें
+    //Graphics क्लास का एक इंस्टेंस बनाएं और प्रारंभ करें।
     Aspose.PSD.Graphics graphics = new Aspose.PSD.Graphics(image);
 
-    // स्पष्ट ग्राफिक्स सतह
+    //Graphics सतह को साफ़ करें।
     graphics.Clear(Color.Wheat);
 
-    // ग्राफिक्सपाथ क्लास का एक उदाहरण बनाएं
+    //GraphicsPath क्लास का एक इंस्टेंस बनाएं।
     Aspose.PSD.GraphicsPath graphicspath = new Aspose.PSD.GraphicsPath();
 
-    // चित्र वर्ग का एक उदाहरण बनाएँ
+    //Figure क्लास का एक इंस्टेंस बनाएं।
     Aspose.PSD.Figure figure1 = new Aspose.PSD.Figure();
 
-    // फिगर ऑब्जेक्ट में शेप जोड़ें
+    //फ़िगर ऑब्जेक्ट में आकार जोड़ें
     figure1.AddShape(new Aspose.PSD.Shapes.EllipseShape(new RectangleF(50, 50, 300, 300)));
     figure1.AddShape(new Aspose.PSD.Shapes.PieShape(new Rectangle(new Point(110, 110), new Size(200, 200)), 0, 90));
 
-    // चित्र वर्ग का एक उदाहरण बनाएँ
+    //Figure क्लास का एक इंस्टेंस बनाएं।
     Aspose.PSD.Figure figure2 = new Aspose.PSD.Figure();
 
-    // फिगर ऑब्जेक्ट में शेप जोड़ें
+    //फ़िगर ऑब्जेक्ट में आकार जोड़ें
     figure2.AddShape(new Aspose.PSD.Shapes.ArcShape(new RectangleF(10, 10, 300, 300), 0, 45));
     figure2.AddShape(new Aspose.PSD.Shapes.PolygonShape(new[] { new PointF(150, 10), new PointF(150, 200), new PointF(250, 300), new PointF(350, 400) }, true));
     figure2.AddShape(new Aspose.PSD.Shapes.RectangleShape(new Rectangle(new Point(250, 250), new Size(200, 200))));
 
-    // ग्राफिक्सपाथ में फिगर ऑब्जेक्ट जोड़ें
+    //GraphicsPath में Figure ऑब्जेक्ट जोड़ें।
     graphicspath.AddFigures(new[] { figure1, figure2 });
 
-    // काले रंग के पेन ऑब्जेक्ट के साथ पथ बनाएं
+    //काली रंग की Pen ऑब्जेक्ट से पाथ ड्रॉ करें।
     graphics.DrawPath(new Pen(Aspose.PSD.Color.Black, 2), graphicspath);
 
     // निर्यात विकल्प बनाएं और उन्हें प्रारंभ करें।
     Aspose.PSD.ImageOptions.BmpOptions options = new Aspose.PSD.ImageOptions.BmpOptions();
 
-    // सभी परिवर्तनों को सहेजें।
+    // सभी परिवर्तन सहेजें।
     image.Save("c:\\temp\\output.bmp", options);
 }
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * class [PieShape](../pieshape/)
 * interface [IOrderedShape](../../aspose.psd/iorderedshape/)
-* नाम स्थान [Aspose.PSD.Shapes](../../aspose.psd.shapes/)
-* सभा [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Shapes](../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../)
 
 

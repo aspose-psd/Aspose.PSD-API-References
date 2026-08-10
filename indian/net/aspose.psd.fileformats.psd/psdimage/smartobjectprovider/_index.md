@@ -1,28 +1,29 @@
 ---
-title: PsdImage.SmartObjectProvider
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: PsdImage संपत्त. स्मर्ट ऑब्जेक्ट प्रदत प्रप्त करत है
+title: "PsdImage.SmartObjectProvider"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "PsdImage प्रॉपर्टी। स्मार्ट ऑब्जेक्ट प्रोवाइडर प्राप्त करता है।"
 type: docs
 weight: 240
 url: /hi/net/aspose.psd.fileformats.psd/psdimage/smartobjectprovider/
 ---
+{{< psd/tize >}}
 ## PsdImage.SmartObjectProvider property
 
-स्मार्ट ऑब्जेक्ट प्रदाता प्राप्त करता है।
+स्मार्ट ऑब्जेक्ट प्रोवाइडर प्राप्त करता है।
 
 ```csharp
 public SmartObjectProvider SmartObjectProvider { get; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-स्मार्ट ऑब्जेक्ट प्रदाता।
+स्मार्ट ऑब्जेक्ट प्रोवाइडर।
 
-### यह सभी देखें
+### देखें भी
 
 * class [SmartObjectProvider](../../smartobjectprovider/)
 * class [PsdImage](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

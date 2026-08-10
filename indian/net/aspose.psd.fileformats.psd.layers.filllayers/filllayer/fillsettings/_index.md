@@ -1,28 +1,29 @@
 ---
-title: FillLayer.FillSettings
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: FillLayer संपत्त. भरण सेटंग्स प्रप्त करत है
+title: "FillLayer.FillSettings"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "FillLayer प्रॉपर्टी। भराव सेटिंग्स को प्राप्त करता है या सेट करता है"
 type: docs
 weight: 20
 url: /hi/net/aspose.psd.fileformats.psd.layers.filllayers/filllayer/fillsettings/
 ---
+{{< psd/tize >}}
 ## FillLayer.FillSettings property
 
-भरण सेटिंग्स प्राप्त करता है।
+Fill सेटिंग्स को प्राप्त करता या सेट करता है।
 
 ```csharp
-public IFillSettings FillSettings { get; }
+public IFillSettings FillSettings { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-भरण सेटिंग.
+भराव सेटिंग्स।
 
-### यह सभी देखें
+### देखें भी
 
 * interface [IFillSettings](../../../aspose.psd.fileformats.psd.layers.fillsettings/ifillsettings/)
 * class [FillLayer](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.FillLayers](../../filllayer/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillLayers](../../../aspose.psd.fileformats.psd.layers.filllayers/)
+* assembly [Aspose.PSD](../../../)
 
 

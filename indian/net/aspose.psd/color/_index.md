@@ -1,20 +1,21 @@
 ---
-title: Struct Color
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Aspose.PSD.Color struct. पक्सेल क रंग.
+title: "स्ट्रक्ट Color"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Aspose.PSD.Color स्ट्रक्ट। पिक्सेल का रंग"
 type: docs
 weight: 290
 url: /hi/net/aspose.psd/color/
 ---
+{{< psd/tize >}}
 ## Color structure
 
-पिक्सेल का रंग.
+पिक्सेल का रंग।
 
 ```csharp
 public struct Color
 ```
 
-## गुण
+## प्रॉपर्टीज़
 
 | नाम | विवरण |
 | --- | --- |
@@ -60,7 +61,7 @@ public struct Color
 | static [DeepSkyBlue](../../aspose.psd/color/deepskyblue/) { get; } | सिस्टम-परिभाषित रंग प्राप्त करता है। |
 | static [DimGray](../../aspose.psd/color/dimgray/) { get; } | सिस्टम-परिभाषित रंग प्राप्त करता है। |
 | static [DodgerBlue](../../aspose.psd/color/dodgerblue/) { get; } | सिस्टम-परिभाषित रंग प्राप्त करता है। |
-| static [Empty](../../aspose.psd/color/empty/) { get; } | एक खाली हो जाता है`Color` . |
+| static [Empty](../../aspose.psd/color/empty/) { get; } | खाली `Color` प्राप्त करता है। |
 | static [Firebrick](../../aspose.psd/color/firebrick/) { get; } | सिस्टम-परिभाषित रंग प्राप्त करता है। |
 | static [FloralWhite](../../aspose.psd/color/floralwhite/) { get; } | सिस्टम-परिभाषित रंग प्राप्त करता है। |
 | static [ForestGreen](../../aspose.psd/color/forestgreen/) { get; } | सिस्टम-परिभाषित रंग प्राप्त करता है। |
@@ -160,39 +161,45 @@ public struct Color
 | static [WhiteSmoke](../../aspose.psd/color/whitesmoke/) { get; } | सिस्टम-परिभाषित रंग प्राप्त करता है। |
 | static [Yellow](../../aspose.psd/color/yellow/) { get; } | सिस्टम-परिभाषित रंग प्राप्त करता है। |
 | static [YellowGreen](../../aspose.psd/color/yellowgreen/) { get; } | सिस्टम-परिभाषित रंग प्राप्त करता है। |
-| [A](../../aspose.psd/color/a/) { get; } | इसका अल्फा घटक मान प्राप्त करता है`Color`संरचना. |
-| [B](../../aspose.psd/color/b/) { get; } | इसका नीला घटक मान प्राप्त करता है`Color`संरचना. |
-| [G](../../aspose.psd/color/g/) { get; } | इसका हरा घटक मान प्राप्त करता है`Color`संरचना. |
-| [IsEmpty](../../aspose.psd/color/isempty/) { get; } | यह इंगित करने वाला मान प्राप्त करता है कि क्या यह`Color` संरचना अप्रारंभीकृत है. |
-| [IsKnownColor](../../aspose.psd/color/isknowncolor/) { get; } | यह इंगित करने वाला मान प्राप्त करता है कि क्या यह`Color` संरचना एक पूर्वनिर्धारित रंग है। पूर्वनिर्धारित रंगों को के तत्वों द्वारा दर्शाया जाता है[`KnownColor`](../knowncolor/) गणना. |
-| [IsNamedColor](../../aspose.psd/color/isnamedcolor/) { get; } | यह इंगित करने वाला मान प्राप्त करता है कि क्या यह`Color` संरचना एक नामित रंग या का सदस्य है[`KnownColor`](../knowncolor/) गणना. |
-| [Name](../../aspose.psd/color/name/) { get; } | इसका नाम मिलता है`Color` . |
-| [R](../../aspose.psd/color/r/) { get; } | इसका लाल घटक मान प्राप्त करता है`Color`संरचना. |
+| [A](../../aspose.psd/color/a/) { get; } | इस `Color` स्ट्रक्चर के अल्फा घटक मान को प्राप्त करता है। |
+| [B](../../aspose.psd/color/b/) { get; } | इस `Color` स्ट्रक्चर के ब्लू घटक मान को प्राप्त करता है। |
+| [G](../../aspose.psd/color/g/) { get; } | इस `Color` स्ट्रक्चर के ग्रीन घटक मान को प्राप्त करता है। |
+| [IsEmpty](../../aspose.psd/color/isempty/) { get; } | एक मान प्राप्त करता है जो दर्शाता है कि यह `Color` स्ट्रक्चर अनइनिशियलाइज़्ड है या नहीं। |
+| [IsKnownColor](../../aspose.psd/color/isknowncolor/) { get; } | इस `Color` संरचना के पूर्वनिर्धारित रंग होने का संकेत देने वाला मान प्राप्त करता है। पूर्वनिर्धारित रंग [`KnownColor`](../knowncolor/) गणना के तत्वों द्वारा प्रतिनिधित्व किए जाते हैं। |
+| [IsNamedColor](../../aspose.psd/color/isnamedcolor/) { get; } | इस `Color` संरचना के नामित रंग या [`KnownColor`](../knowncolor/) गणना का सदस्य होने का संकेत देने वाला मान प्राप्त करता है। |
+| [Name](../../aspose.psd/color/name/) { get; } | इस `Color` का नाम प्राप्त करता है। |
+| [R](../../aspose.psd/color/r/) { get; } | इस `Color` संरचना के लाल घटक का मान प्राप्त करता है। |
 
-## तरीकों
+## मेथड्स
 
 | नाम | विवरण |
 | --- | --- |
-| static [FromArgb](../../aspose.psd/color/fromargb/#fromargb)(int) | एक बनाता है`Color` 32-बिट ARGB मान से संरचना. |
-| static [FromArgb](../../aspose.psd/color/fromargb/#fromargb_1)(int, Color) | एक बनाता है`Color` निर्दिष्ट से संरचना`Color` संरचना, लेकिन नए निर्दिष्ट अल्फा मान के साथ। यद्यपि यह विधि 32-बिट मान को अल्फा मान के लिए पारित करने की अनुमति देती है, मान 8 बिट्स तक सीमित है। |
-| static [FromArgb](../../aspose.psd/color/fromargb/#fromargb_2)(int, int, int) | एक बनाता है`Color` निर्दिष्ट 8-बिट रंग मानों (लाल, हरा और नीला) से संरचना। अल्फा मान निहित रूप से 255 (पूरी तरह से अपारदर्शी) है। हालांकि यह विधि प्रत्येक रंग घटक के लिए 32-बिट मान पारित करने की अनुमति देती है, प्रत्येक घटक का मान 8 बिट तक सीमित है. |
-| static [FromArgb](../../aspose.psd/color/fromargb/#fromargb_3)(int, int, int, int) | एक बनाता है`Color` चार ARGB घटक (अल्फा, लाल, हरा और नीला) मानों से संरचना। हालांकि यह विधि प्रत्येक घटक के लिए 32-बिट मान पारित करने की अनुमति देती है, प्रत्येक घटक का मान 8 बिट तक सीमित है. |
-| static [FromKnownColor](../../aspose.psd/color/fromknowncolor/)(KnownColor) | एक बनाता है`Color` निर्दिष्ट पूर्वनिर्धारित रंग से संरचना. |
-| static [FromName](../../aspose.psd/color/fromname/)(string) | एक बनाता है`Color`पूर्वनिर्धारित रंग के निर्दिष्ट नाम से संरचना। |
-| override [Equals](../../aspose.psd/color/equals/)(object) | परीक्षण करता है कि निर्दिष्ट वस्तु एक है या नहीं`Color` संरचना और इसके बराबर है`Color`संरचना. |
-| [GetBrightness](../../aspose.psd/color/getbrightness/)() | इसके लिए ह्यू-सेचुरेशन-ब्राइटनेस (HSB) ब्राइटनेस वैल्यू प्राप्त करता है`Color`संरचना. |
-| override [GetHashCode](../../aspose.psd/color/gethashcode/)() | इसके लिए हैश कोड लौटाता है`Color`संरचना. |
-| [GetHue](../../aspose.psd/color/gethue/)() | इसके लिए रंग-संतृप्ति-चमक (HSB) रंग मान डिग्री में प्राप्त करता है`Color`संरचना. |
-| [GetSaturation](../../aspose.psd/color/getsaturation/)() | इसके लिए ह्यू-संतृप्ति-चमक (HSB) संतृप्ति मान प्राप्त करता है`Color`संरचना. |
-| [ToArgb](../../aspose.psd/color/toargb/)() | इसका 32-बिट ARGB मान प्राप्त करता है`Color`संरचना. |
-| [ToKnownColor](../../aspose.psd/color/toknowncolor/)() | हो जाता है[`KnownColor`](../knowncolor/) इसका मूल्य`Color`संरचना. |
-| override [ToString](../../aspose.psd/color/tostring/)() | इसे परिवर्तित करता है`Color` एक मानव-पठनीय स्ट्रिंग के लिए संरचना. |
-| [operator ==](../../aspose.psd/color/op_equality/) | परीक्षण करता है कि क्या दो निर्दिष्ट हैं`Color`संरचनाएं समतुल्य हैं। |
-| [operator !=](../../aspose.psd/color/op_inequality/) | परीक्षण करता है कि क्या दो निर्दिष्ट हैं`Color` संरचनाएं भिन्न हैं. |
+| static [FromArgb](../../aspose.psd/color/fromargb/#fromargb)(int) | 32-बिट ARGB मान से एक `Color` संरचना बनाता है। |
+| static [FromArgb](../../aspose.psd/color/fromargb/#fromargb_1)(int, Color) | निर्दिष्ट `Color` संरचना से, लेकिन नई निर्दिष्ट अल्फा मान के साथ, एक `Color` संरचना बनाता है। यद्यपि यह विधि अल्फा मान के लिए 32-बिट मान पास करने की अनुमति देती है, मान 8 बिट तक सीमित है। |
+| static [FromArgb](../../aspose.psd/color/fromargb/#fromargb_2)(int, int, int) | निर्दिष्ट 8-बिट रंग मानों (लाल, हरा, और नीला) से एक `Color` संरचना बनाता है। अल्फा मान स्वचालित रूप से 255 (पूरी तरह अपारदर्शी) होता है। यद्यपि यह विधि प्रत्येक रंग घटक के लिए 32-बिट मान पास करने की अनुमति देती है, प्रत्येक घटक का मान 8 बिट तक सीमित है। |
+| static [FromArgb](../../aspose.psd/color/fromargb/#fromargb_3)(int, int, int, int) | चार ARGB घटकों (अल्फा, लाल, हरा, और नीला) के मानों से एक `Color` संरचना बनाता है। यद्यपि यह विधि प्रत्येक घटक के लिए 32-बिट मान पास करने की अनुमति देती है, प्रत्येक घटक का मान 8 बिट तक सीमित है। |
+| static [FromKnownColor](../../aspose.psd/color/fromknowncolor/)(KnownColor) | निर्दिष्ट पूर्वनिर्धारित रंग से एक `Color` संरचना बनाता है। |
+| static [FromName](../../aspose.psd/color/fromname/)(string) | पूर्वनिर्धारित रंग के निर्दिष्ट नाम से एक `Color` संरचना बनाता है। |
+| override [Equals](../../aspose.psd/color/equals/)(object) | परीक्षण करता है कि निर्दिष्ट वस्तु `Color` संरचना है और यह इस `Color` संरचना के समान है या नहीं। |
+| [GetBrightness](../../aspose.psd/color/getbrightness/)() | इस `Color` संरचना के लिए hue-saturation-brightness (HSB) चमक मान प्राप्त करता है। |
+| override [GetHashCode](../../aspose.psd/color/gethashcode/)() | इस `Color` संरचना के लिए हैश कोड लौटाता है। |
+| [GetHue](../../aspose.psd/color/gethue/)() | इस `Color` संरचना के लिए hue-saturation-brightness (HSB) hue मान, डिग्री में, प्राप्त करता है। |
+| [GetSaturation](../../aspose.psd/color/getsaturation/)() | इस `Color` संरचना के लिए hue-saturation-brightness (HSB) संतृप्ति मान प्राप्त करता है। |
+| [ToArgb](../../aspose.psd/color/toargb/)() | इस `Color` संरचना का 32-बिट ARGB मान प्राप्त करता है। |
+| [ToKnownColor](../../aspose.psd/color/toknowncolor/)() | इस `Color` संरचना का [`KnownColor`](../knowncolor/) मान प्राप्त करता है। |
+| override [ToString](../../aspose.psd/color/tostring/)() | इस `Color` संरचना को मानव-पठनीय स्ट्रिंग में परिवर्तित करता है। |
+| static [ToCmyk](../../aspose.psd/color/tocmyk/#tocmyk)(Color) | Color से CMYKColor में रूपांतरण। यह विधि अप्रचलित है। कृपया अधिक प्रभावी [`ToCmyk`](../cmykcolorhelper/tocmyk/) का उपयोग करें। |
+| static [ToCmyk](../../aspose.psd/color/tocmyk/#tocmyk_1)(Color[]) | Color से CMYKColor में रूपांतरण। यह विधि अप्रचलित है। कृपया अधिक प्रभावी [`ToCmyk`](../cmykcolorhelper/tocmyk/) का उपयोग करें। |
+| static [ToCmykIcc](../../aspose.psd/color/tocmykicc/#tocmykicc)(Color) | डिफ़ॉल्ट प्रोफ़ाइल के साथ icc रूपांतरण का उपयोग करके Color से CMYKColor में रूपांतरण। यह विधि अप्रचलित है। कृपया अधिक प्रभावी [`ToCmykIcc`](../cmykcolorhelper/tocmykicc/) का उपयोग करें। |
+| static [ToCmykIcc](../../aspose.psd/color/tocmykicc/#tocmykicc_2)(Color[]) | डिफ़ॉल्ट प्रोफ़ाइल के साथ icc रूपांतरण का उपयोग करके Color से CMYKColor में रूपांतरण। यह विधि अप्रचलित है। कृपया अधिक प्रभावी [`ToCmykIcc`](../cmykcolorhelper/tocmykicc/) का उपयोग करें। |
+| static [ToCmykIcc](../../aspose.psd/color/tocmykicc/#tocmykicc_1)(Color, Stream, Stream) | डिफ़ॉल्ट प्रोफ़ाइल के साथ icc रूपांतरण का उपयोग करके Color से CMYKColor में रूपांतरण। यह विधि अप्रचलित है। कृपया अधिक प्रभावी [`ToCmykIcc`](../cmykcolorhelper/tocmykicc/) का उपयोग करें। |
+| static [ToCmykIcc](../../aspose.psd/color/tocmykicc/#tocmykicc_3)(Color[], Stream, Stream) | icc रूपांतरण का उपयोग करके Color से CMYKColor में रूपांतरण। यह विधि अप्रचलित है। कृपया अधिक प्रभावी [`ToCmykIcc`](../cmykcolorhelper/tocmykicc/) का उपयोग करें। |
+| [operator ==](../../aspose.psd/color/op_equality/) | परीक्षण करता है कि दो निर्दिष्ट `Color` संरचनाएँ समान हैं या नहीं। |
+| [operator !=](../../aspose.psd/color/op_inequality/) | परीक्षण करता है कि दो निर्दिष्ट `Color` संरचनाएँ अलग हैं या नहीं। |
 
-### यह सभी देखें
+### देखें भी
 
-* नाम स्थान [Aspose.PSD](../../aspose.psd/)
-* सभा [Aspose.PSD](../../)
+* namespace [Aspose.PSD](../../aspose.psd/)
+* assembly [Aspose.PSD](../../)
 
 

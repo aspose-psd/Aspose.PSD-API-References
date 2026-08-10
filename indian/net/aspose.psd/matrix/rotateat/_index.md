@@ -1,53 +1,54 @@
 ---
-title: Matrix.RotateAt
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Matrix तरक. नर्दष्ट क्रम में इस मैट्रक्स के नर्दष्ट बंदु के बरे में दक्षणवर्त घुमव लगू करत है
+title: "Matrix.RotateAt"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Matrix मेथड। निर्दिष्ट क्रम में इस मैट्रिक्स पर निर्दिष्ट बिंदु के बारे में घड़ी की दिशा में घुमाव लागू करता है।"
 type: docs
 weight: 150
 url: /hi/net/aspose.psd/matrix/rotateat/
 ---
+{{< psd/tize >}}
 ## RotateAt(float, PointF, MatrixOrder) {#rotateat_1}
 
-निर्दिष्ट क्रम में इस मैट्रिक्स के निर्दिष्ट बिंदु के बारे में दक्षिणावर्त घुमाव लागू करता है।
+निर्दिष्ट बिंदु के बारे में घड़ी की दिशा में घुमाव को इस Matrix पर निर्दिष्ट क्रम में लागू करता है।
 
 ```csharp
 public void RotateAt(float angle, PointF point, MatrixOrder order)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| angle | Single | कोना। |
-| point | PointF | बिंदु। |
-| order | MatrixOrder | आदेश। |
+| कोण | Single | कोण। |
+| बिंदु | PointF | बिंदु। |
+| order | MatrixOrder | क्रम। |
 
-### यह सभी देखें
+### देखें भी
 
 * struct [PointF](../../pointf/)
 * enum [MatrixOrder](../../matrixorder/)
 * class [Matrix](../)
-* नाम स्थान [Aspose.PSD](../../matrix/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## RotateAt(float, PointF) {#rotateat}
 
-डिफ़ॉल्ट (प्रीपेन्ड) क्रम में इस मैट्रिक्स के लिए निर्दिष्ट बिंदु के बारे में दक्षिणावर्त घुमाव लागू करता है।
+निर्दिष्ट बिंदु के बारे में घड़ी की दिशा में घुमाव को इस Matrix पर डिफ़ॉल्ट (Prepend) क्रम में लागू करता है।
 
 ```csharp
 public void RotateAt(float angle, PointF point)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| angle | Single | कोना। |
-| point | PointF | बिंदु। |
+| कोण | Single | कोण। |
+| बिंदु | PointF | बिंदु। |
 
-### यह सभी देखें
+### देखें भी
 
 * struct [PointF](../../pointf/)
 * class [Matrix](../)
-* नाम स्थान [Aspose.PSD](../../matrix/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

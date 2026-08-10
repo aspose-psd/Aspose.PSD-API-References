@@ -1,33 +1,34 @@
 ---
-title: LevelChannel.InputMidtoneLevel
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: LevelChannel संपत्त. इनपुट मडटन लेवल फ्लट प्रप्त य सेट करत है
+title: "LevelChannel.InputMidtoneLevel"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "LevelChannel प्रॉपर्टी। इनपुट मिडटोन लेवल फ़्लोट प्राप्त करता है या सेट करता है"
 type: docs
 weight: 20
 url: /hi/net/aspose.psd.fileformats.psd.layers.layerresources/levelchannel/inputmidtonelevel/
 ---
+{{< psd/tize >}}
 ## LevelChannel.InputMidtoneLevel property
 
-इनपुट मिडटोन लेवल फ्लोट प्राप्त या सेट करता है।
+इनपुट मिडटोन लेवल फ्लोट को प्राप्त करता है या सेट करता है।
 
 ```csharp
 public float InputMidtoneLevel { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-इनपुट मिडटोन लेवल फ्लोट.
+इनपुट मिडटोन लेवल फ़्लोट।
 
 ### अपवाद
 
-| अपवाद | स्थिति |
+| अपवाद | शर्त |
 | --- | --- |
-| ArgumentOutOfRangeException | इनपुट मिडटोन स्तर केवल 0.01 से 9.99 की सीमा में सेट किया जा सकता है |
+| ArgumentOutOfRangeException | इनपुट मिडटोन लेवल केवल 0.01 से 9.99 तक की सीमा में सेट किया जा सकता है |
 
-### यह सभी देखें
+### देखें भी
 
 * class [LevelChannel](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../levelchannel/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: Layer.Name
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Layer संपत्त. परत क नम प्रप्त य सेट करत है
+title: "Layer.Name"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Layer property. लेयर नाम प्राप्त करता है या सेट करता है"
 type: docs
-weight: 260
+weight: 270
 url: /hi/net/aspose.psd.fileformats.psd.layers/layer/name/
 ---
+{{< psd/tize >}}
 ## Layer.Name property
 
-परत का नाम प्राप्त या सेट करता है।
+लेयर नाम को प्राप्त करता है या सेट करता है।
 
 ```csharp
 public string Name { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-परत का नाम.
+लेयर नाम।
 
-### यह सभी देखें
+### देखें भी
 
 * class [Layer](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers](../../layer/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

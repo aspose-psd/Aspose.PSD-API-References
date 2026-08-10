@@ -1,27 +1,28 @@
 ---
-title: RdOptimizerSettings.BppScale
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: RdOptimizerSettings संपत्त. बपप बट्स प्रत पक्सेल स्केल फैक्टर प्रप्त य सेट करत है
+title: "RdOptimizerSettings.BppScale"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "RdOptimizerSettings property. BPP बिट्स प्रति पिक्सेल स्केल फैक्टर प्राप्त या सेट करता है"
 type: docs
 weight: 40
 url: /hi/net/aspose.psd.imageoptions/rdoptimizersettings/bppscale/
 ---
+{{< psd/tize >}}
 ## RdOptimizerSettings.BppScale property
 
-बीपीपी (बिट्स प्रति पिक्सेल) स्केल फैक्टर प्राप्त या सेट करता है।
+प्राप्त करता है या सेट करता है BPP (bits per pixel) स्केल फैक्टर।
 
 ```csharp
 public int BppScale { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-बीपीपी स्केल।
+BPP स्केल।
 
-### यह सभी देखें
+### देखें भी
 
 * class [RdOptimizerSettings](../)
-* नाम स्थान [Aspose.PSD.ImageOptions](../../rdoptimizersettings/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

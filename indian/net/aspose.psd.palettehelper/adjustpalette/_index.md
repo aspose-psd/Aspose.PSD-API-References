@@ -1,14 +1,15 @@
 ---
-title: Class AdjustPalette
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Aspose.PSD.PaletteHelper.AdjustPalette कक्ष. कलर पैलेट एडजस्टमेंट क्लस
+title: "क्लास AdjustPalette"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Aspose.PSD.PaletteHelper.AdjustPalette क्लास। रंग पैलेट समायोजन क्लास"
 type: docs
-weight: 5180
+weight: 5670
 url: /hi/net/aspose.psd.palettehelper/adjustpalette/
 ---
+{{< psd/tize >}}
 ## AdjustPalette class
 
-कलर पैलेट एडजस्टमेंट क्लास
+रंग पैलेट समायोजन क्लास
 
 ```csharp
 public class AdjustPalette
@@ -18,11 +19,11 @@ public class AdjustPalette
 
 | नाम | विवरण |
 | --- | --- |
-| [AdjustPalette](adjustpalette/)() | डिफ़ॉल्ट कंस्ट्रक्टर। |
+| [AdjustPalette](adjustpalette/)() | डिफ़ॉल्ट कन्स्ट्रक्टर। |
 
-### यह सभी देखें
+### देखें भी
 
-* नाम स्थान [Aspose.PSD.PaletteHelper](../../aspose.psd.palettehelper/)
-* सभा [Aspose.PSD](../../)
+* namespace [Aspose.PSD.PaletteHelper](../../aspose.psd.palettehelper/)
+* assembly [Aspose.PSD](../../)
 
 

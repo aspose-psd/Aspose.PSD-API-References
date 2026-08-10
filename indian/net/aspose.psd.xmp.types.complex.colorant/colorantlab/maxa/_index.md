@@ -1,23 +1,24 @@
 ---
-title: ColorantLab.MaxA
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: ColorantLab मैदन. अधकतम एक घटक मन
+title: "ColorantLab.MaxA"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "ColorantLab फ़ील्ड। अधिकतम A घटक मान"
 type: docs
 weight: 60
 url: /hi/net/aspose.psd.xmp.types.complex.colorant/colorantlab/maxa/
 ---
+{{< psd/tize >}}
 ## ColorantLab.MaxA field
 
-अधिकतम एक घटक मान
+अधिकतम A घटक मान
 
 ```csharp
 public const int MaxA;
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * class [ColorantLab](../)
-* नाम स्थान [Aspose.PSD.Xmp.Types.Complex.Colorant](../../colorantlab/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.Colorant](../../../aspose.psd.xmp.types.complex.colorant/)
+* assembly [Aspose.PSD](../../../)
 
 

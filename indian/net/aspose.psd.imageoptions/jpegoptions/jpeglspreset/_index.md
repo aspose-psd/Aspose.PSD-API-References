@@ -1,24 +1,25 @@
 ---
-title: JpegOptions.JpegLsPreset
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: JpegOptions संपत्त. जेपईजएलएस प्रसेट पैरमटर प्रप्त य सेट करत है
+title: "JpegOptions.JpegLsPreset"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "JpegOptions प्रॉपर्टी। JPEGLS प्रीसेट पैरामीटर को प्राप्त करता है या सेट करता है"
 type: docs
-weight: 120
+weight: 130
 url: /hi/net/aspose.psd.imageoptions/jpegoptions/jpeglspreset/
 ---
+{{< psd/tize >}}
 ## JpegOptions.JpegLsPreset property
 
-जेपीईजी-एलएस प्रीसेट पैरामीटर प्राप्त या सेट करता है।
+JPEG-LS प्रीसेट पैरामीटर को प्राप्त करता है या सेट करता है।
 
 ```csharp
 public JpegLsPresetCodingParameters JpegLsPreset { get; set; }
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * class [JpegLsPresetCodingParameters](../../../aspose.psd.fileformats.jpeg/jpeglspresetcodingparameters/)
 * class [JpegOptions](../)
-* नाम स्थान [Aspose.PSD.ImageOptions](../../jpegoptions/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

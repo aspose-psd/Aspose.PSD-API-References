@@ -1,27 +1,28 @@
 ---
-title: Blend.Positions
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Blend संपत्त. ग्रेडएंट के लए मश्रण स्थत क सरण प्रप्त य सेट करत है
+title: "Blend.Positions"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Blend प्रॉपर्टी। ग्रेडिएंट के लिए ब्लेंड पोजीशन्स की एरे प्राप्त या सेट करता है"
 type: docs
 weight: 30
 url: /hi/net/aspose.psd/blend/positions/
 ---
+{{< psd/tize >}}
 ## Blend.Positions property
 
-ग्रेडिएंट के लिए मिश्रण स्थिति की सरणी प्राप्त या सेट करता है।
+ग्रेडिएंट के लिए ब्लेंड पोजीशन्स की ऐरे को प्राप्त करता है या सेट करता है।
 
 ```csharp
 public float[] Positions { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-ग्रेडिएंट लाइन के साथ दूरी के प्रतिशत को निर्दिष्ट करने वाली मिश्रण स्थितियों की सरणी।
+ब्लेंड पोजीशन्स की एरे जो ग्रेडिएंट रेखा के साथ दूरी के प्रतिशत निर्दिष्ट करती है।
 
-### यह सभी देखें
+### देखें भी
 
 * class [Blend](../)
-* नाम स्थान [Aspose.PSD](../../blend/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

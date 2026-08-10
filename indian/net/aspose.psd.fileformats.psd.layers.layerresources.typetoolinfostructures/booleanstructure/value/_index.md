@@ -1,27 +1,28 @@
 ---
-title: BooleanStructure.Value
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: BooleanStructure संपत्त. बूलयन मन प्रप्त य सेट करत है
+title: "BooleanStructure.Value"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "BooleanStructure प्रॉपर्टी। बूलियन मान प्राप्त करता है या सेट करता है"
 type: docs
 weight: 40
 url: /hi/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/booleanstructure/value/
 ---
+{{< psd/tize >}}
 ## BooleanStructure.Value property
 
-बूलियन मान प्राप्त या सेट करता है।
+बूलियन मान को प्राप्त करता है या सेट करता है।
 
 ```csharp
 public bool Value { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-एक बूलियन मान.
+एक बूलियन मान।
 
-### यह सभी देखें
+### देखें भी
 
 * class [BooleanStructure](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../booleanstructure/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 

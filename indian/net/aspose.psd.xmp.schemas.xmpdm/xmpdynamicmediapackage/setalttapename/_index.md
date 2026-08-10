@@ -1,11 +1,12 @@
 ---
-title: XmpDynamicMediaPackage.SetAltTapeName
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: XmpDynamicMediaPackage तरक. वैकल्पक टेप नम सेट करत है
+title: "XmpDynamicMediaPackage.SetAltTapeName"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "XmpDynamicMediaPackage मेथड। वैकल्पिक टेप नाम सेट करता है"
 type: docs
 weight: 50
 url: /hi/net/aspose.psd.xmp.schemas.xmpdm/xmpdynamicmediapackage/setalttapename/
 ---
+{{< psd/tize >}}
 ## XmpDynamicMediaPackage.SetAltTapeName method
 
 वैकल्पिक टेप नाम सेट करता है।
@@ -14,14 +15,14 @@ url: /hi/net/aspose.psd.xmp.schemas.xmpdm/xmpdynamicmediapackage/setalttapename/
 public void SetAltTapeName(string altTapeName)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
 | altTapeName | String | वैकल्पिक टेप नाम। |
 
-### यह सभी देखें
+### देखें भी
 
 * class [XmpDynamicMediaPackage](../)
-* नाम स्थान [Aspose.PSD.Xmp.Schemas.XmpDm](../../xmpdynamicmediapackage/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Schemas.XmpDm](../../../aspose.psd.xmp.schemas.xmpdm/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,22 +1,23 @@
 ---
-title: AnimatedDataSectionResource.AnimatedDataSection
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: AnimatedDataSectionResource संपत्त. एनमेटेड डेट अनुभग संरचन प्रप्त य सेट करत है
+title: "AnimatedDataSectionResource.AnimatedDataSection"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "AnimatedDataSectionResource प्रॉपर्टी। एनिमेटेड डेटा सेक्शन संरचना प्राप्त करता है या सेट करता है"
 type: docs
 weight: 10
 url: /hi/net/aspose.psd.fileformats.psd.resources/animateddatasectionresource/animateddatasection/
 ---
+{{< psd/tize >}}
 ## AnimatedDataSectionResource.AnimatedDataSection property
 
-एनिमेटेड डेटा अनुभाग संरचना प्राप्त या सेट करता है।
+एनिमेटेड डेटा सेक्शन संरचना को प्राप्त करता है या सेट करता है।
 
 ```csharp
 public AnimatedDataSectionStructure AnimatedDataSection { get; }
 ```
 
-### उदाहरण
+## उदाहरण
 
-निम्न कोड प्रदर्शित करता है कि एनिमेटेड डेटा के टाइमलाइन फ्रेम में विलंब समय को कैसे सेट/अपडेट किया जाए।
+निम्नलिखित कोड दर्शाता है कि एनिमेटेड डेटा की टाइमलाइन फ्रेम में देरी समय को कैसे सेट/अपडेट किया जाए।
 
 ```csharp
 [C#]
@@ -68,9 +69,9 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFile))
 
             var frame1 = (DescriptorStructure)framesList.Types[1];
 
-            // 100 सेंटी-सेकंड मान के साथ फ़्रेम विलंब रिकॉर्ड बनाता है जो 1 सेकंड के बराबर है।
+            // फ़्रेम देरी रिकॉर्ड बनाता है जिसका मान 100 सेंटी-सेकंड है, जो 1 सेकंड के बराबर है।
             var frameDelay = new IntegerStructure(new ClassID("FrDl"));
-            frameDelay.Value = 100; // सेंटी-सेकंड में समय निर्धारित करें।
+            frameDelay.Value = 100; // set time in centi-seconds.
 
             frame1.Structures = AddOrReplaceStructure(frame1.Structures, frameDelay);
 
@@ -82,11 +83,11 @@ using (PsdImage image = (PsdImage)Image.Load(sourceFile))
 }
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * class [AnimatedDataSectionStructure](../../../aspose.psd.fileformats.psd.layers.layerresources/animateddatasectionstructure/)
 * class [AnimatedDataSectionResource](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Resources](../../animateddatasectionresource/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

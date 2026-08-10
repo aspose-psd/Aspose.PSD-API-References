@@ -1,26 +1,27 @@
 ---
-title: AiLayerSection.IsShown
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: AiLayerSection संपत्त. एक मन प्रप्त करत है य सेट करत है ज दर्शत है क यह परत दखई गई है य नहं सह हने पर आर्टबर्ड पर परत में नहत सभ कलकृत प्रदर्शत करत है
+title: "AiLayerSection.IsShown"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "AiLayerSection प्रॉपर्टी। यह मान प्राप्त करता है या सेट करता है जो दर्शाता है कि यह लेयर दिखाया गया है या नहीं। यदि सत्य है तो लेयर में मौजूद सभी आर्टवर्क को आर्टबोर्ड पर प्रदर्शित करता है"
 type: docs
-weight: 90
+weight: 110
 url: /hi/net/aspose.psd.fileformats.ai/ailayersection/isshown/
 ---
+{{< psd/tize >}}
 ## AiLayerSection.IsShown property
 
-एक मान प्राप्त करता है या सेट करता है जो दर्शाता है कि यह परत दिखाई गई है या नहीं। सही होने पर आर्टबोर्ड पर परत में निहित सभी कलाकृति प्रदर्शित करता है।
+यह दर्शाने वाला मान प्राप्त करता है या सेट करता है कि यह लेयर दिखाया गया है या नहीं। यदि सत्य हो तो लेयर में मौजूद सभी कलाकृति को आर्टबोर्ड पर दिखाता है।
 
 ```csharp
 public bool IsShown { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-`सत्य` अगर यह परत दिखायी जाती है; अन्यथा,`असत्य` .
+`true` यदि यह लेयर दिखाया गया है; अन्यथा, `false`।
 
-### उदाहरण
+## उदाहरण
 
-निम्न उदाहरण एआई प्रारूप फाइलों में परतों के समर्थन को प्रदर्शित करता है।
+निम्नलिखित उदाहरण AI फ़ॉर्मेट फ़ाइलों में लेयर्स के समर्थन को दर्शाता है।
 
 ```csharp
 [C#]
@@ -70,10 +71,10 @@ using (AiImage image = (AiImage)Image.Load(sourceFilePath))
 }
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * class [AiLayerSection](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Ai](../../ailayersection/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Ai](../../../aspose.psd.fileformats.ai/)
+* assembly [Aspose.PSD](../../../)
 
 

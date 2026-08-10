@@ -1,18 +1,25 @@
 ---
-title: Aspose.PSD.ImageLoadOptions
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: नमस्थन में वभन्न फ़इल प्ररूप लड वकल्प हैं
+title: "Aspose.PSD.ImageLoadOptions"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "नेमस्पेस में विभिन्न फ़ाइल फ़ॉर्मेट लोड विकल्प शामिल हैं।"
 type: docs
-weight: 420
+weight: 460
 url: /hi/net/aspose.psd.imageloadoptions/
 ---
-नामस्थान में विभिन्न फ़ाइल प्रारूप लोड विकल्प हैं।
+{{< psd/tize >}}
+यह namespace विभिन्न फ़ाइल फ़ॉर्मेट लोड विकल्पों को शामिल करता है।
 
-## कक्षाओं
+## क्लासेस
 
-| कक्षा | विवरण |
+| क्लास | विवरण |
 | --- | --- |
 | [Jpeg2000LoadOptions](./jpeg2000loadoptions/) | JPEG2000 लोड विकल्प |
-| [PsdLoadOptions](./psdloadoptions/) | Psd लोड विकल्प |
+| [PngLoadOptions](./pngloadoptions/) | png लोड विकल्प। |
+| [PsdLoadOptions](./psdloadoptions/) | PSD लोड विकल्प |
+## एन्यूमरेशन
+
+| एन्यूमरेशन | विवरण |
+| --- | --- |
+| [ReadOnlyMode](./readonlymode/) | PSD छवि लोड करते समय उपलब्ध रीड-ओनली मोड्स को निर्दिष्ट करता है। |
 
 

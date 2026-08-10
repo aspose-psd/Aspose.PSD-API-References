@@ -1,27 +1,28 @@
 ---
-title: Matrix.ToString
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Matrix तरक. रटर्न एString ज इस उदहरण क प्रतनधत्व करत है
+title: "Matrix.ToString"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Matrix मेथड। इस इंस्टेंस को दर्शाने वाली स्ट्रिंग लौटाता है।"
 type: docs
 weight: 170
 url: /hi/net/aspose.psd/matrix/tostring/
 ---
+{{< psd/tize >}}
 ## Matrix.ToString method
 
-रिटर्न एString जो इस उदाहरण का प्रतिनिधित्व करता है।
+इस उदाहरण का प्रतिनिधित्व करने वाली एक स्ट्रिंग लौटाता है।
 
 ```csharp
 public override string ToString()
 ```
 
-### प्रतिलाभ की मात्रा
+### रिटर्न वैल्यू
 
-एString जो इस उदाहरण का प्रतिनिधित्व करता है।
+इस इंस्टेंस को दर्शाने वाली स्ट्रिंग।
 
-### यह सभी देखें
+### देखें भी
 
 * class [Matrix](../)
-* नाम स्थान [Aspose.PSD](../../matrix/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

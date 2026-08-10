@@ -1,14 +1,15 @@
 ---
-title: Class CompressorException
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Aspose.PSD.CoreExceptions.CompressorException कक्ष. कंप्रेसर अपवद
+title: "क्लास CompressorException"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Aspose.PSD.CoreExceptions.CompressorException क्लास। कम्प्रेसर अपवाद"
 type: docs
 weight: 430
 url: /hi/net/aspose.psd.coreexceptions/compressorexception/
 ---
+{{< psd/tize >}}
 ## CompressorException class
 
-कंप्रेसर अपवाद।
+कम्प्रेसर अपवाद।
 
 ```csharp
 public class CompressorException : FrameworkException
@@ -18,13 +19,13 @@ public class CompressorException : FrameworkException
 
 | नाम | विवरण |
 | --- | --- |
-| [CompressorException](compressorexception/#constructor)(string) | का एक नया उदाहरण प्रारंभ करता है`CompressorException` वर्ग. |
-| [CompressorException](compressorexception/#constructor_1)(string, Exception) | का एक नया उदाहरण प्रारंभ करता है`CompressorException` वर्ग. |
+| [CompressorException](compressorexception/#constructor)(string) | `CompressorException` क्लास का नया उदाहरण प्रारंभ करता है। |
+| [CompressorException](compressorexception/#constructor_1)(string, Exception) | `CompressorException` क्लास का नया उदाहरण प्रारंभ करता है। |
 
-### यह सभी देखें
+### देखें भी
 
 * class [FrameworkException](../frameworkexception/)
-* नाम स्थान [Aspose.PSD.CoreExceptions](../../aspose.psd.coreexceptions/)
-* सभा [Aspose.PSD](../../)
+* namespace [Aspose.PSD.CoreExceptions](../../aspose.psd.coreexceptions/)
+* assembly [Aspose.PSD](../../)
 
 

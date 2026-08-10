@@ -1,105 +1,106 @@
 ---
-title: Pen.Pen
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Pen नर्मत. क एक नय उदहरण प्ररंभ करत हैPen वर्ग नर्दष्ट रंग के सथ.
+title: "Pen.Pen"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Pen कंस्ट्रक्टर। निर्दिष्ट रंग के साथ Pen क्लास का एक नया उदाहरण प्रारंभ करता है।"
 type: docs
 weight: 10
 url: /hi/net/aspose.psd/pen/pen/
 ---
+{{< psd/tize >}}
 ## Pen(Color) {#constructor_2}
 
-का एक नया उदाहरण प्रारंभ करता है[`Pen`](../) वर्ग निर्दिष्ट रंग के साथ.
+निर्दिष्ट रंग के साथ [`Pen`](../) क्लास का एक नया उदाहरण प्रारंभ करता है।
 
 ```csharp
 public Pen(Color color)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| color | Color | ए[`Color`](../color/) संरचना जो इस के रंग को इंगित करती है[`Pen`](../). |
+| color | Color | एक [`Color`](../color/) संरचना जो इस [`Pen`](../) का रंग दर्शाती है। |
 
-### यह सभी देखें
+### देखें भी
 
 * struct [Color](../../color/)
 * class [Pen](../)
-* नाम स्थान [Aspose.PSD](../../pen/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Pen(Color, float) {#constructor_3}
 
-का एक नया उदाहरण प्रारंभ करता है[`Pen`](../) निर्दिष्ट के साथ वर्ग[`Color`](../color/) और[`Width`](../width/) गुण.
+निर्दिष्ट [`Color`](../color/) और [`Width`](../width/) गुणों के साथ [`Pen`](../) क्लास का एक नया उदाहरण प्रारंभ करता है।
 
 ```csharp
 public Pen(Color color, float width)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| color | Color | ए[`Color`](../color/) संरचना जो इस के रंग को इंगित करती है[`Pen`](../). |
-| width | Single | इसकी चौड़ाई इंगित करने वाला एक मान[`Pen`](../). |
+| color | Color | एक [`Color`](../color/) संरचना जो इस [`Pen`](../) का रंग दर्शाती है। |
+| width | Single | एक मान जो इस [`Pen`](../) की चौड़ाई दर्शाता है। |
 
-### यह सभी देखें
+### देखें भी
 
 * struct [Color](../../color/)
 * class [Pen](../)
-* नाम स्थान [Aspose.PSD](../../pen/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Pen(Brush) {#constructor}
 
-का एक नया उदाहरण प्रारंभ करता है[`Pen`](../) निर्दिष्ट के साथ वर्ग[`Brush`](../brush/) .
+निर्दिष्ट [`Brush`](../brush/) के साथ [`Pen`](../) क्लास का एक नया उदाहरण प्रारंभ करता है।
 
 ```csharp
 public Pen(Brush brush)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| brush | Brush | ए[`Brush`](../brush/) जो इसके भरण गुणों को निर्धारित करता है[`Pen`](../). |
+| brush | Brush | एक [`Brush`](../brush/) जो इस [`Pen`](../) की भराव गुणों को निर्धारित करता है। |
 
 ### अपवाद
 
-| अपवाद | स्थिति |
+| अपवाद | शर्त |
 | --- | --- |
 | ArgumentNullException | *brush* शून्य है। |
 
-### यह सभी देखें
+### देखें भी
 
 * class [Brush](../../brush/)
 * class [Pen](../)
-* नाम स्थान [Aspose.PSD](../../pen/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Pen(Brush, float) {#constructor_1}
 
-का एक नया उदाहरण प्रारंभ करता है[`Pen`](../) निर्दिष्ट के साथ वर्ग[`Brush`](../brush/) और[`Width`](../width/) .
+निर्दिष्ट [`Brush`](../brush/) और [`Width`](../width/) के साथ [`Pen`](../) क्लास का एक नया उदाहरण प्रारंभ करता है।
 
 ```csharp
 public Pen(Brush brush, float width)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| brush | Brush | ए[`Brush`](../brush/) जो इसकी विशेषताओं को निर्धारित करता है[`Pen`](../). |
-| width | Single | नए की चौड़ाई[`Pen`](../). |
+| brush | Brush | एक [`Brush`](../brush/) जो इस [`Pen`](../) की विशेषताओं को निर्धारित करता है। |
+| width | Single | नए [`Pen`](../) की चौड़ाई। |
 
 ### अपवाद
 
-| अपवाद | स्थिति |
+| अपवाद | शर्त |
 | --- | --- |
 | ArgumentNullException | *brush* शून्य है। |
 
-### यह सभी देखें
+### देखें भी
 
 * class [Brush](../../brush/)
 * class [Pen](../)
-* नाम स्थान [Aspose.PSD](../../pen/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

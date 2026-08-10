@@ -1,32 +1,33 @@
 ---
-title: PsdImage.Layers
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: PsdImage संपत्त. PSD परतें प्रप्त य सेट करत है.
+title: "PsdImage.Layers"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "PsdImage प्रॉपर्टी। PSD लेयर्स को प्राप्त करता है या सेट करता है"
 type: docs
 weight: 200
 url: /hi/net/aspose.psd.fileformats.psd/psdimage/layers/
 ---
+{{< psd/tize >}}
 ## PsdImage.Layers property
 
-PSD परतें प्राप्त या सेट करता है.
+PSD लेयरों को प्राप्त करता है या सेट करता है।
 
 ```csharp
 public Layer[] Layers { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-PSD परतें.
+PSD लेयर्स।
 
-### टिप्पणियों
+## टिप्पणियाँ
 
-ध्यान दें कि यदि कोई परत नहीं है तो परत और मुखौटा सूचना अनुभाग के भीतर अन्य संबंधित जानकारी को संरक्षित नहीं किया जाएगा (परत मुखौटा, संसाधन और आदि)।
+ध्यान दें कि यदि लेयर्स नहीं हैं तो लेयर और मास्क जानकारी अनुभाग के भीतर अन्य संबंधित जानकारी (लेयर मास्क, संसाधन आदि) संरक्षित नहीं रहेगी।
 
-### यह सभी देखें
+### देखें भी
 
 * class [Layer](../../../aspose.psd.fileformats.psd.layers/layer/)
 * class [PsdImage](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

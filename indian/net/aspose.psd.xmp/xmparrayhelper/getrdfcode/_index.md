@@ -1,38 +1,39 @@
 ---
-title: XmpArrayHelper.GetRdfCode
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: XmpArrayHelper तरक. वशष्ट के लए RDF कड प्रप्त करत हैXmpArrayType .
+title: "XmpArrayHelper.GetRdfCode"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "XmpArrayHelper विधि। विशिष्ट XmpArrayType के लिए RDF कोड प्राप्त करता है।"
 type: docs
 weight: 10
 url: /hi/net/aspose.psd.xmp/xmparrayhelper/getrdfcode/
 ---
+{{< psd/tize >}}
 ## XmpArrayHelper.GetRdfCode method
 
-विशिष्ट के लिए RDF कोड प्राप्त करता है[`XmpArrayType`](../../xmparraytype/) .
+विशिष्ट [`XmpArrayType`](../../xmparraytype/) के लिए RDF कोड प्राप्त करता है।
 
 ```csharp
 public static string GetRdfCode(XmpArrayType xmpArrayType)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| xmpArrayType | XmpArrayType | XMP सरणी का प्रकार। |
+| xmpArrayType | XmpArrayType | XMP ऐरे का प्रकार। |
 
-### प्रतिलाभ की मात्रा
+### रिटर्न वैल्यू
 
-विशिष्ट के लिए RDF कोड लौटाता है[`XmpArrayType`](../../xmparraytype/).
+विशिष्ट [`XmpArrayType`](../../xmparraytype/) के लिए RDF कोड लौटाता है।
 
 ### अपवाद
 
-| अपवाद | स्थिति |
+| अपवाद | शर्त |
 | --- | --- |
-| [XmpException](../../../aspose.psd.coreexceptions/xmpexception/) | अमान्य एनम तर्क अपवाद |
+| [XmpException](../../../aspose.psd.coreexceptions/xmpexception/) | अमान्य enum तर्क अपवाद |
 
-### यह सभी देखें
+### देखें भी
 
 * enum [XmpArrayType](../../xmparraytype/)
 * class [XmpArrayHelper](../)
-* नाम स्थान [Aspose.PSD.Xmp](../../xmparrayhelper/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

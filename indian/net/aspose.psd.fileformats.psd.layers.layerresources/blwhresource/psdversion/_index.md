@@ -1,23 +1,24 @@
 ---
-title: BlwhResource.PsdVersion
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: BlwhResource संपत्त. पएसड संस्करण प्रप्त करत है
+title: "BlwhResource.PsdVersion"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "BlwhResource प्रॉपर्टी। PSD संस्करण प्राप्त करता है"
 type: docs
 weight: 100
 url: /hi/net/aspose.psd.fileformats.psd.layers.layerresources/blwhresource/psdversion/
 ---
+{{< psd/tize >}}
 ## BlwhResource.PsdVersion property
 
-पीएसडी संस्करण प्राप्त करता है।
+PSD संस्करण प्राप्त करता है।
 
 ```csharp
 public override int PsdVersion { get; }
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * class [BlwhResource](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../blwhresource/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: Layer.Clipping
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Layer संपत्त. लेयर क्लपंग प्रप्त य सेट करत है 0  आधर 1  गैरआधर.
+title: "Layer.Clipping"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Layer प्रॉपर्टी। लेयर क्लिपिंग प्राप्त करता है या सेट करता है। 0 बेस 1 नॉनबेस"
 type: docs
-weight: 90
+weight: 100
 url: /hi/net/aspose.psd.fileformats.psd.layers/layer/clipping/
 ---
+{{< psd/tize >}}
 ## Layer.Clipping property
 
-लेयर क्लिपिंग प्राप्त या सेट करता है। 0 = आधार, 1 = गैर-आधार.
+लेयर क्लिपिंग प्राप्त करता है या सेट करता है। 0 = बेस, 1 = नॉन-बेस।
 
 ```csharp
 public byte Clipping { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-लेयर क्लिपिंग.
+लेयर क्लिपिंग।
 
-### यह सभी देखें
+### देखें भी
 
 * class [Layer](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers](../../layer/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

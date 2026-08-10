@@ -1,28 +1,29 @@
 ---
-title: TextLayer.Font
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: TextLayer संपत्त. फ़न्ट प्रप्त करत है
+title: "TextLayer.Font"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "TextLayer प्रॉपर्टी। फ़ॉन्ट प्राप्त करता है"
 type: docs
 weight: 10
 url: /hi/net/aspose.psd.fileformats.psd.layers/textlayer/font/
 ---
+{{< psd/tize >}}
 ## TextLayer.Font property
 
-फ़ॉन्ट प्राप्त करता है।
+फ़ॉन्ट को प्राप्त करता है।
 
 ```csharp
 public Font Font { get; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-फ़ॉन्ट.
+फ़ॉन्ट।
 
-### यह सभी देखें
+### देखें भी
 
 * class [Font](../../../aspose.psd/font/)
 * class [TextLayer](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers](../../textlayer/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers](../../../aspose.psd.fileformats.psd.layers/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: JpegExifData.SamplesPerPixel
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: JpegExifData संपत्त. प्रत पक्सेल नमूने प्रप्त य सेट करत है
+title: "JpegExifData.SamplesPerPixel"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "JpegExifData प्रॉपर्टी। प्रति पिक्सेल सैंपल प्राप्त करता है या सेट करता है"
 type: docs
 weight: 180
 url: /hi/net/aspose.psd.exif/jpegexifdata/samplesperpixel/
 ---
+{{< psd/tize >}}
 ## JpegExifData.SamplesPerPixel property
 
-प्रति पिक्सेल नमूने प्राप्त या सेट करता है।
+प्रति पिक्सेल सैंपल को प्राप्त करता है या सेट करता है।
 
 ```csharp
 public ushort SamplesPerPixel { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-नमूने प्रति पिक्सेल.
+प्रति पिक्सेल सैंपल्स।
 
-### यह सभी देखें
+### देखें भी
 
 * class [JpegExifData](../)
-* नाम स्थान [Aspose.PSD.Exif](../../jpegexifdata/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

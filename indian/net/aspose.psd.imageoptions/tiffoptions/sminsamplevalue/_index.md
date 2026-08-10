@@ -1,27 +1,28 @@
 ---
-title: TiffOptions.SminSampleValue
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: TiffOptions संपत्त. न्यूनतम नमून मन प्रप्त य सेट करत है मन में एक फ़ल्ड प्रकर हत है ज नमून डेट बइट छट य लंब प्रकर से सबसे अच्छ मेल खत है.
+title: "TiffOptions.SminSampleValue"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "TiffOptions प्रॉपर्टी। न्यूनतम सैंपल मान को प्राप्त करता है या सेट करता है। मान का फ़ील्ड प्रकार सबसे उपयुक्त सैंपल डेटा (Byte, Short या Long) प्रकार से मेल खाता है।"
 type: docs
-weight: 440
+weight: 450
 url: /hi/net/aspose.psd.imageoptions/tiffoptions/sminsamplevalue/
 ---
+{{< psd/tize >}}
 ## TiffOptions.SminSampleValue property
 
-न्यूनतम नमूना मान प्राप्त या सेट करता है। मान में एक फ़ील्ड प्रकार होता है जो नमूना डेटा (बाइट, छोटा या लंबा प्रकार) से सबसे अच्छा मेल खाता है.
+न्यूनतम सैंपल मान को प्राप्त करता है या सेट करता है। इस मान का फ़ील्ड प्रकार सैंपल डेटा (बाइट, शॉर्ट या लॉन्ग प्रकार) के साथ सबसे उपयुक्त मेल खाता है।
 
 ```csharp
 public uint[] SminSampleValue { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-न्यूनतम नमूना मान.
+न्यूनतम सैंपल मान।
 
-### यह सभी देखें
+### देखें भी
 
 * class [TiffOptions](../)
-* नाम स्थान [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,22 +1,23 @@
 ---
-title: BackgroundColorResource.Color
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: BackgroundColorResource संपत्त. पृष्ठभूम क रंग प्रप्त य सेट करत है
+title: "BackgroundColorResource.Color"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "BackgroundColorResource प्रॉपर्टी। बैकग्राउंड कलर प्राप्त करता है या सेट करता है"
 type: docs
 weight: 20
 url: /hi/net/aspose.psd.fileformats.psd.resources/backgroundcolorresource/color/
 ---
+{{< psd/tize >}}
 ## BackgroundColorResource.Color property
 
-पृष्ठभूमि का रंग प्राप्त या सेट करता है।
+पृष्ठभूमि रंग को प्राप्त करता है या सेट करता है।
 
 ```csharp
 public Color Color { get; set; }
 ```
 
-### उदाहरण
+## उदाहरण
 
-निम्न उदाहरण पृष्ठभूमिरंग संसाधन संसाधन के समर्थन को प्रदर्शित करता है।
+निम्नलिखित उदाहरण BackgroundColorResource रिसोर्स के समर्थन को दर्शाता है।
 
 ```csharp
 [C#]
@@ -37,18 +38,18 @@ using (var image = (PsdImage)Image.Load(sourceFilePath))
         }
     }
 
-    // अद्यतन पृष्ठभूमि रंग संसाधन
+    // BackgroundColorResource को अपडेट करें
     backgroundColorResource.Color = Color.DarkRed;
 
     image.Save(outputFilePath);
 }
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * struct [Color](../../../aspose.psd/color/)
 * class [BackgroundColorResource](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Resources](../../backgroundcolorresource/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Resources](../../../aspose.psd.fileformats.psd.resources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,23 +1,24 @@
 ---
-title: TypeToolInfo6Resource.Signature
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: TypeToolInfo6Resource संपत्त. परत संसधन हस्तक्षर प्रप्त करत है
+title: "TypeToolInfo6Resource.Signature"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "TypeToolInfo6Resource property. लेयर रिसोर्स सिग्नेचर प्राप्त करता है"
 type: docs
 weight: 120
 url: /hi/net/aspose.psd.fileformats.psd.layers.layerresources/typetoolinfo6resource/signature/
 ---
+{{< psd/tize >}}
 ## TypeToolInfo6Resource.Signature property
 
-परत संसाधन हस्ताक्षर प्राप्त करता है।
+लेयर रिसोर्स सिग्नेचर प्राप्त करता है।
 
 ```csharp
 public override int Signature { get; }
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * class [TypeToolInfo6Resource](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../typetoolinfo6resource/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

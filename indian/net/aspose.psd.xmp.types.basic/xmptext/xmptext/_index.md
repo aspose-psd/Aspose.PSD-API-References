@@ -1,27 +1,28 @@
 ---
-title: XmpText.XmpText
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: XmpText नर्मत. क एक नय उदहरण प्ररंभ करत हैXmpText वर्ग.
+title: "XmpText.XmpText"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "XmpText कन्स्ट्रक्टर। XmpText क्लास का नया उदाहरण आरंभ करता है"
 type: docs
 weight: 10
 url: /hi/net/aspose.psd.xmp.types.basic/xmptext/xmptext/
 ---
+{{< psd/tize >}}
 ## XmpText constructor
 
-का एक नया उदाहरण प्रारंभ करता है[`XmpText`](../) वर्ग.
+[`XmpText`](../) क्लास का नया उदाहरण आरंभ करता है।
 
 ```csharp
 public XmpText(string value)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| value | String | मूल्य। |
+| मान | String | मान। |
 
-### यह सभी देखें
+### देखें भी
 
 * class [XmpText](../)
-* नाम स्थान [Aspose.PSD.Xmp.Types.Basic](../../xmptext/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Basic](../../../aspose.psd.xmp.types.basic/)
+* assembly [Aspose.PSD](../../../)
 
 

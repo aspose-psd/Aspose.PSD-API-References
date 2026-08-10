@@ -1,27 +1,28 @@
 ---
-title: TiffDataType.Value
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: TiffDataType संपत्त. इस डेट प्रकर में शमल मन प्रप्त य सेट करत है
+title: "TiffDataType.Value"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "TiffDataType प्रॉपर्टी। इस डेटा टाइप में मौजूद मान को प्राप्त या सेट करता है"
 type: docs
 weight: 90
 url: /hi/net/aspose.psd.fileformats.tiff/tiffdatatype/value/
 ---
+{{< psd/tize >}}
 ## TiffDataType.Value property
 
-इस डेटा प्रकार में शामिल मान प्राप्त या सेट करता है।
+इस डेटा प्रकार में मौजूद मान को प्राप्त करता है या सेट करता है।
 
 ```csharp
 public abstract object Value { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-मान.
+मान।
 
-### यह सभी देखें
+### देखें भी
 
 * class [TiffDataType](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Tiff](../../tiffdatatype/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff](../../../aspose.psd.fileformats.tiff/)
+* assembly [Aspose.PSD](../../../)
 
 

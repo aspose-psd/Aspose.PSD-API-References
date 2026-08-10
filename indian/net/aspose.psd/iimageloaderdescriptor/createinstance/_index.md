@@ -1,28 +1,29 @@
 ---
-title: IImageLoaderDescriptor.CreateInstance
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: IImageLoaderDescriptor तरक. एक नय लडर उदहरण बनत है
+title: "IImageLoaderDescriptor.CreateInstance"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "IImageLoaderDescriptor विधि। नया लोडर इंस्टेंस बनाता है"
 type: docs
 weight: 20
 url: /hi/net/aspose.psd/iimageloaderdescriptor/createinstance/
 ---
+{{< psd/tize >}}
 ## IImageLoaderDescriptor.CreateInstance method
 
-एक नया लोडर उदाहरण बनाता है।
+एक नया लोडर इंस्टेंस बनाता है।
 
 ```csharp
 public IImageLoader CreateInstance()
 ```
 
-### प्रतिलाभ की मात्रा
+### रिटर्न वैल्यू
 
-एक नया लोडर उदाहरण।
+एक नया लोडर इंस्टेंस।
 
-### यह सभी देखें
+### देखें भी
 
 * interface [IImageLoader](../../iimageloader/)
 * interface [IImageLoaderDescriptor](../)
-* नाम स्थान [Aspose.PSD](../../iimageloaderdescriptor/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

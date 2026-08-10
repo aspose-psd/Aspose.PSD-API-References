@@ -1,23 +1,24 @@
 ---
-title: ColorantCmyk.ColorValueMax
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: ColorantCmyk मैदन. सएमवईके रंग में अधकतम रंग मूल्य
+title: "ColorantCmyk.ColorValueMax"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "ColorantCmyk फ़ील्ड। CMYK कलरेंट में रंग का अधिकतम मान"
 type: docs
 weight: 70
 url: /hi/net/aspose.psd.xmp.types.complex.colorant/colorantcmyk/colorvaluemax/
 ---
+{{< psd/tize >}}
 ## ColorantCmyk.ColorValueMax field
 
-सीएमवाईके रंग में अधिकतम रंग मूल्य।
+CMYK कलरेंट में रंग अधिकतम मान।
 
 ```csharp
 public const float ColorValueMax;
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * class [ColorantCmyk](../)
-* नाम स्थान [Aspose.PSD.Xmp.Types.Complex.Colorant](../../colorantcmyk/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.Colorant](../../../aspose.psd.xmp.types.complex.colorant/)
+* assembly [Aspose.PSD](../../../)
 
 

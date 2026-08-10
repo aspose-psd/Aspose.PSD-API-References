@@ -1,14 +1,15 @@
 ---
-title: Class CurvesManager
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerResources.CurvesManager कक्ष. CurvResource क प्रबंधत करने के लए बेस क्लस
+title: "क्लास CurvesManager"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Aspose.PSD.FileFormats.Psd.Layers.LayerResources.CurvesManager क्लास। CurvResource को प्रबंधित करने के लिए बेस क्लास।"
 type: docs
-weight: 2430
+weight: 2690
 url: /hi/net/aspose.psd.fileformats.psd.layers.layerresources/curvesmanager/
 ---
+{{< psd/tize >}}
 ## CurvesManager class
 
-CurvResource को प्रबंधित करने के लिए बेस क्लास
+CurvResource को मैनेज करने के लिए बेस क्लास।
 
 ```csharp
 public abstract class CurvesManager
@@ -18,17 +19,17 @@ public abstract class CurvesManager
 
 | नाम | विवरण |
 | --- | --- |
-| [CurvesManager](curvesmanager/)(int) | का एक नया उदाहरण प्रारंभ करता है`CurvesManager` वर्ग. |
+| [CurvesManager](curvesmanager/)(int) | `CurvesManager` क्लास का नया इंस्टेंस प्रारंभ करता है। |
 
-## गुण
+## प्रॉपर्टीज़
 
 | नाम | विवरण |
 | --- | --- |
-| [MaxChannelCount](../../aspose.psd.fileformats.psd.layers.layerresources/curvesmanager/maxchannelcount/) { get; } | चैनल की अधिकतम संख्या प्राप्त करता है. |
+| [MaxChannelCount](../../aspose.psd.fileformats.psd.layers.layerresources/curvesmanager/maxchannelcount/) { get; } | अधिकतम चैनल गणना प्राप्त करता है। |
 
-### यह सभी देखें
+### देखें भी
 
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
-* सभा [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../)
 
 

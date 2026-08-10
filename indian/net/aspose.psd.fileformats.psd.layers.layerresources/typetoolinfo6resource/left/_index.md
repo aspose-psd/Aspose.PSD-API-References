@@ -1,27 +1,28 @@
 ---
-title: TypeToolInfo6Resource.Left
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: TypeToolInfo6Resource संपत्त. बएं स्थन क प्रप्त य सेट करत है
+title: "TypeToolInfo6Resource.Left"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "TypeToolInfo6Resource property. प्राप्त करता है या सेट करता है बाएँ का स्थान"
 type: docs
-weight: 80
+weight: 70
 url: /hi/net/aspose.psd.fileformats.psd.layers.layerresources/typetoolinfo6resource/left/
 ---
+{{< psd/tize >}}
 ## TypeToolInfo6Resource.Left property
 
-बाएं स्थान को प्राप्त या सेट करता है।
+लेफ्ट लोकेशन को प्राप्त करता है या सेट करता है।
 
 ```csharp
 public int Left { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-बायां स्थान।
+बाएँ का स्थान।
 
-### यह सभी देखें
+### देखें भी
 
 * class [TypeToolInfo6Resource](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../typetoolinfo6resource/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,28 +1,29 @@
 ---
-title: ExifData.GPSAltitudeRef
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: ExifData संपत्त. संदर्भ ऊंचई के रूप में उपयग कए जने वले जपएस ऊंचई क प्रप्त य सेट करत है
+title: "ExifData.GPSAltitudeRef"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "ExifData प्रॉपर्टी। संदर्भ ऊँचाई के रूप में उपयोग की जाने वाली GPS ऊँचाई को प्राप्त या सेट करता है"
 type: docs
 weight: 370
 url: /hi/net/aspose.psd.exif/exifdata/gpsaltituderef/
 ---
+{{< psd/tize >}}
 ## ExifData.GPSAltitudeRef property
 
-संदर्भ ऊंचाई के रूप में उपयोग किए जाने वाले जीपीएस ऊंचाई को प्राप्त या सेट करता है।
+संदर्भ ऊँचाई के रूप में उपयोग की गई GPS ऊँचाई प्राप्त करता है या सेट करता है।
 
 ```csharp
 public ExifGPSAltitudeRef GPSAltitudeRef { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-जीपीएस ऊंचाई संदर्भ ऊंचाई के रूप में उपयोग की जाती है।
+संदर्भ ऊँचाई के रूप में उपयोग की गई GPS ऊँचाई।
 
-### यह सभी देखें
+### देखें भी
 
 * enum [ExifGPSAltitudeRef](../../../aspose.psd.exif.enums/exifgpsaltituderef/)
 * class [ExifData](../)
-* नाम स्थान [Aspose.PSD.Exif](../../exifdata/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

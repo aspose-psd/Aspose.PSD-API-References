@@ -1,33 +1,34 @@
 ---
-title: RectangleF.FromPoints
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: RectangleF तरक. एक नय बनत हैRectangle नर्दष्ट द बंदुओं से नर्मत के द शर्षRectangle उत्तर्ण के बरबर हगpoint1 औरpoint2 . ये वशष्ट रूप से वपरत शर्ष हंगे.
+title: "RectangleF.FromPoints"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "RectangleF मेथड। निर्दिष्ट दो बिंदुओं से एक नया Rectangle बनाता है। निर्मित Rectangle के दो शीर्ष बिंदु पास किए गए point1 और point2 के बराबर होंगे। ये सामान्यतः विपरीत शीर्ष बिंदु होते हैं।"
 type: docs
 weight: 40
 url: /hi/net/aspose.psd/rectanglef/frompoints/
 ---
+{{< psd/tize >}}
 ## RectangleF.FromPoints method
 
-एक नया बनाता है[`Rectangle`](../../rectangle/) निर्दिष्ट दो बिंदुओं से। निर्मित के दो शीर्ष[`Rectangle`](../../rectangle/) उत्तीर्ण के बराबर होगा*point1* और*point2* . ये विशिष्ट रूप से विपरीत शीर्ष होंगे.
+निर्दिष्ट दो बिंदुओं से एक नया [`Rectangle`](../../rectangle/) बनाता है। निर्मित [`Rectangle`](../../rectangle/) के दो शीर्ष बिंदु पास किए गए *point1* और *point2* के बराबर होंगे। ये सामान्यतः विपरीत शीर्ष बिंदु होते हैं।
 
 ```csharp
 public static RectangleF FromPoints(PointF point1, PointF point2)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| point1 | PointF | पहला[`Point`](../../point/) नए आयत के लिए। |
-| point2 | PointF | दूसरा[`Point`](../../point/) नए आयत के लिए। |
+| point1 | PointF | नए Rectangle के लिए पहला [`Point`](../../point/)। |
+| point2 | PointF | नए Rectangle के लिए दूसरा [`Point`](../../point/)। |
 
-### प्रतिलाभ की मात्रा
+### रिटर्न वैल्यू
 
-एक नव निर्मित[`Rectangle`](../../rectangle/).
+एक नया बनाया गया [`Rectangle`](../../rectangle/).
 
-### यह सभी देखें
+### देखें भी
 
 * struct [PointF](../../pointf/)
 * struct [RectangleF](../)
-* नाम स्थान [Aspose.PSD](../../rectanglef/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

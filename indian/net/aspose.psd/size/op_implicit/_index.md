@@ -1,32 +1,33 @@
 ---
-title: Size.op_Implicit
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Size तरक. नर्दष्ट क परवर्तत करत हैSize एक के लएSizeF .
+title: "Size.op_Implicit"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Size मेथड। निर्दिष्ट Size को SizeF में परिवर्तित करता है।"
 type: docs
 weight: 170
 url: /hi/net/aspose.psd/size/op_implicit/
 ---
+{{< psd/tize >}}
 ## Size Implicit operator
 
-निर्दिष्ट को परिवर्तित करता है[`Size`](../) एक के लिए[`SizeF`](../../sizef/) .
+निर्दिष्ट [`Size`](../) को [`SizeF`](../../sizef/) में परिवर्तित करता है।
 
 ```csharp
 public static implicit operator SizeF(Size size)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| size | Size | [`Size`](../) रूपान्तरण करने के लिए। |
+| size | Size | परिवर्तित करने के लिए [`Size`](../)। |
 
-### प्रतिलाभ की मात्रा
+### रिटर्न वैल्यू
 
-[`SizeF`](../../sizef/) संरचना जिसमें यह ऑपरेटर परिवर्तित होता है।
+वह [`SizeF`](../../sizef/) संरचना जिसमें यह ऑपरेटर परिवर्तित करता है।
 
-### यह सभी देखें
+### देखें भी
 
 * struct [SizeF](../../sizef/)
 * struct [Size](../)
-* नाम स्थान [Aspose.PSD](../../size/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

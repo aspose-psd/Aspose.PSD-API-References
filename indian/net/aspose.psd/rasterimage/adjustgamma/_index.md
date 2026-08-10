@@ -1,49 +1,50 @@
 ---
-title: RasterImage.AdjustGamma
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: RasterImage तरक. गमएक छव क सुधर
+title: "RasterImage.AdjustGamma"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "RasterImage विधि। छवि की गामा सुधार"
 type: docs
 weight: 200
 url: /hi/net/aspose.psd/rasterimage/adjustgamma/
 ---
-## AdjustGamma(float, float, float) {#adjustgamma_1}
-
-गामा-एक छवि का सुधार।
-
-```csharp
-public virtual void AdjustGamma(float gammaRed, float gammaGreen, float gammaBlue)
-```
-
-| पैरामीटर | प्रकार | विवरण |
-| --- | --- | --- |
-| gammaRed | Single | लाल चैनल गुणांक के लिए गामा |
-| gammaGreen | Single | ग्रीन चैनल गुणांक के लिए गामा |
-| gammaBlue | Single | ब्लू चैनल गुणांक के लिए गामा |
-
-### यह सभी देखें
-
-* class [RasterImage](../)
-* नाम स्थान [Aspose.PSD](../../rasterimage/)
-* सभा [Aspose.PSD](../../../)
-
----
-
+{{< psd/tize >}}
 ## AdjustGamma(float) {#adjustgamma}
 
-गामा-एक छवि का सुधार।
+छवि का गामा-करेक्शन।
 
 ```csharp
 public virtual void AdjustGamma(float gamma)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| gamma | Single | लाल, हरे और नीले चैनल गुणांक के लिए गामा |
+| गामा | Single | लाल, हरे और नीले चैनलों के लिए गामा गुणांक |
 
-### यह सभी देखें
+### देखें भी
 
 * class [RasterImage](../)
-* नाम स्थान [Aspose.PSD](../../rasterimage/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
+
+---
+
+## AdjustGamma(float, float, float) {#adjustgamma_1}
+
+छवि का गामा-करेक्शन।
+
+```csharp
+public virtual void AdjustGamma(float gammaRed, float gammaGreen, float gammaBlue)
+```
+
+| पैरामीटर | टाइप | विवरण |
+| --- | --- | --- |
+| gammaRed | Single | लाल चैनल के लिए गामा गुणांक |
+| gammaGreen | Single | हरे चैनल के लिए गामा गुणांक |
+| gammaBlue | Single | नीले चैनल के लिए गामा गुणांक |
+
+### देखें भी
+
+* class [RasterImage](../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

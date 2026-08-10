@@ -1,23 +1,24 @@
 ---
-title: PhflResourceVersion2.Key
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: PhflResourceVersion2 संपत्त. परत संसधन कुंज प्रप्त करत है.
+title: "PhflResourceVersion2.Key"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "PhflResourceVersion2 property. लेयर रिसोर्स कुंजी प्राप्त करता है"
 type: docs
 weight: 60
 url: /hi/net/aspose.psd.fileformats.psd.layers.layerresources/phflresourceversion2/key/
 ---
+{{< psd/tize >}}
 ## PhflResourceVersion2.Key property
 
-परत संसाधन कुंजी प्राप्त करता है.
+लेयर रिसोर्स कुंजी प्राप्त करता है।
 
 ```csharp
 public override int Key { get; }
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * class [PhflResourceVersion2](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../phflresourceversion2/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

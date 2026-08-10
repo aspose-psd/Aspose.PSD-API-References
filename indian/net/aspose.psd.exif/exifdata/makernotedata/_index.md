@@ -1,28 +1,29 @@
 ---
-title: ExifData.MakerNoteData
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: ExifData संपत्त. मेकर नट डेट प्रप्त करत है
+title: "ExifData.MakerNoteData"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "ExifData प्रॉपर्टी। मेकर नोट डेटा को प्राप्त करता है।"
 type: docs
 weight: 780
 url: /hi/net/aspose.psd.exif/exifdata/makernotedata/
 ---
+{{< psd/tize >}}
 ## ExifData.MakerNoteData property
 
-मेकर नोट डेटा प्राप्त करता है।
+निर्माता नोट डेटा प्राप्त करता है।
 
 ```csharp
 public TiffDataType[] MakerNoteData { get; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-निर्माता नोट डेटा।
+मेकर नोट डेटा।
 
-### यह सभी देखें
+### देखें भी
 
 * class [TiffDataType](../../../aspose.psd.fileformats.tiff/tiffdatatype/)
 * class [ExifData](../)
-* नाम स्थान [Aspose.PSD.Exif](../../exifdata/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

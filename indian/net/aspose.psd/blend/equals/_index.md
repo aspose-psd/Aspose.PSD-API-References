@@ -1,31 +1,32 @@
 ---
-title: Blend.Equals
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Blend तरक. परक्षण करत है क नर्दष्ट वस्तु एक है य नहंBlend वर्ग और इसके बरबर हैBlend वर्ग.
+title: "Blend.Equals"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Blend मेथड। परीक्षण करता है कि निर्दिष्ट ऑब्जेक्ट Blend क्लास है और यह इस Blend क्लास के बराबर है।"
 type: docs
 weight: 40
 url: /hi/net/aspose.psd/blend/equals/
 ---
+{{< psd/tize >}}
 ## Blend.Equals method
 
-परीक्षण करता है कि निर्दिष्ट वस्तु एक है या नहीं[`Blend`](../) वर्ग और इसके बराबर है[`Blend`](../) वर्ग.
+परीक्षण करता है कि निर्दिष्ट ऑब्जेक्ट [`Blend`](../) क्लास है और यह इस [`Blend`](../) क्लास के बराबर है।
 
 ```csharp
 public override bool Equals(object obj)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| obj | Object | परीक्षण की जाने वाली वस्तु। |
+| obj | ऑब्जेक्ट | परीक्षण करने के लिए वस्तु। |
 
-### प्रतिलाभ की मात्रा
+### रिटर्न वैल्यू
 
-सच है अगर*obj* एक है[`Blend`](../) इसके समकक्ष वर्ग[`Blend`](../) कक्षा; अन्यथा झूठा।
+यदि *obj* एक [`Blend`](../) क्लास है जो इस [`Blend`](../) क्लास के बराबर है तो true; अन्यथा false।
 
-### यह सभी देखें
+### देखें भी
 
 * class [Blend](../)
-* नाम स्थान [Aspose.PSD](../../blend/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

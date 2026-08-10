@@ -1,32 +1,33 @@
 ---
-title: Point.Round
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Point तरक. नर्दष्ट क परवर्तत करत हैPointF एक के लएPoint गल करके वस्तुPoint नकटतम पूर्णंक के मन.
+title: "Point.Round"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Point विधि। निर्दिष्ट PointF को बिंदु मानों को निकटतम पूर्णांक तक गोल करके Point वस्तु में परिवर्तित करता है।"
 type: docs
 weight: 50
 url: /hi/net/aspose.psd/point/round/
 ---
+{{< psd/tize >}}
 ## Point.Round method
 
-निर्दिष्ट को परिवर्तित करता है[`PointF`](../../pointf/) एक के लिए[`Point`](../) गोल करके वस्तु[`Point`](../) निकटतम पूर्णांक के मान.
+निर्दिष्ट [`PointF`](../../pointf/) को निकटतम पूर्णांक तक गोल करके [`Point`](../) मानों को [`Point`](../) वस्तु में परिवर्तित करता है।
 
 ```csharp
 public static Point Round(PointF point)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| point | PointF | [`PointF`](../../pointf/) रूपान्तरण करने के लिए। |
+| point | PointF | परिवर्तित करने के लिए [`PointF`](../../pointf/)। |
 
-### प्रतिलाभ की मात्रा
+### रिटर्न वैल्यू
 
-[`Point`](../) यह विधि में परिवर्तित हो जाती है।
+यह विधि जिस [`Point`](../) में परिवर्तित करती है।
 
-### यह सभी देखें
+### देखें भी
 
 * struct [PointF](../../pointf/)
 * struct [Point](../)
-* नाम स्थान [Aspose.PSD](../../point/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: PsdImage.AdjustContrast
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: PsdImage तरक. वषम छव
+title: "PsdImage.AdjustContrast"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "PsdImage मेथड। इमेज कंट्रास्टिंग"
 type: docs
-weight: 450
+weight: 510
 url: /hi/net/aspose.psd.fileformats.psd/psdimage/adjustcontrast/
 ---
+{{< psd/tize >}}
 ## PsdImage.AdjustContrast method
 
-विषम छवि
+छवि कंट्रास्टिंग
 
 ```csharp
 public override void AdjustContrast(float contrast)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| contrast | Single | कंट्रास्ट वैल्यू (रेंज में [-100; 100]) |
+| विरोध | Single | कंट्रास्ट मान (रेंज [-100; 100] में) |
 
-### यह सभी देखें
+### देखें भी
 
 * class [PsdImage](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

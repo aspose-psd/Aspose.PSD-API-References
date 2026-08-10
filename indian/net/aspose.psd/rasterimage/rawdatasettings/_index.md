@@ -1,28 +1,29 @@
 ---
-title: RasterImage.RawDataSettings
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: RasterImage संपत्त. वर्तमन अपरष्कृत डेट सेटंग प्रप्त करत है नट करें क इन सेटंग क उपयग करते समय डेट रूपंतरण के बन लड हत है.
+title: "RasterImage.RawDataSettings"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "RasterImage प्रॉपर्टी। वर्तमान रॉ डेटा सेटिंग्स प्राप्त करता है। नोट: इन सेटिंग्स का उपयोग करने पर डेटा बिना रूपांतरण के लोड होता है"
 type: docs
 weight: 90
 url: /hi/net/aspose.psd/rasterimage/rawdatasettings/
 ---
+{{< psd/tize >}}
 ## RasterImage.RawDataSettings property
 
-वर्तमान अपरिष्कृत डेटा सेटिंग प्राप्त करता है। नोट करें कि इन सेटिंग का उपयोग करते समय डेटा रूपांतरण के बिना लोड होता है.
+वर्तमान कच्चा डेटा सेटिंग्स प्राप्त करता है। ध्यान दें कि इन सेटिंग्स का उपयोग करने पर डेटा बिना रूपांतरण के लोड होता है।
 
 ```csharp
 public RawDataSettings RawDataSettings { get; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-वर्तमान अपरिष्कृत डेटा सेटिंग.
+वर्तमान रॉ डेटा सेटिंग्स।
 
-### यह सभी देखें
+### देखें भी
 
 * class [RawDataSettings](../../rawdatasettings/)
 * class [RasterImage](../)
-* नाम स्थान [Aspose.PSD](../../rasterimage/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

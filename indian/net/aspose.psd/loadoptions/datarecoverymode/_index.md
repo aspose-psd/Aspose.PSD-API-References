@@ -1,28 +1,29 @@
 ---
-title: LoadOptions.DataRecoveryMode
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: LoadOptions संपत्त. डेट रकवर मड प्रप्त य सेट करत है
+title: "LoadOptions.DataRecoveryMode"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "LoadOptions प्रॉपर्टी। डेटा रिकवरी मोड को प्राप्त या सेट करता है"
 type: docs
 weight: 40
 url: /hi/net/aspose.psd/loadoptions/datarecoverymode/
 ---
+{{< psd/tize >}}
 ## LoadOptions.DataRecoveryMode property
 
-डेटा रिकवरी मोड प्राप्त या सेट करता है।
+डेटा रिकवरी मोड को प्राप्त करता है या सेट करता है।
 
 ```csharp
 public DataRecoveryMode DataRecoveryMode { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
 डेटा रिकवरी मोड।
 
-### यह सभी देखें
+### देखें भी
 
 * enum [DataRecoveryMode](../../datarecoverymode/)
 * class [LoadOptions](../)
-* नाम स्थान [Aspose.PSD](../../loadoptions/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

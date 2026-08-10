@@ -1,28 +1,29 @@
 ---
-title: IOrderedShape.EndPoint
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: IOrderedShape संपत्त. अंतम आकर बंदु प्रप्त करत है
+title: "IOrderedShape.EndPoint"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "IOrderedShape प्रॉपर्टी। समाप्ति आकार बिंदु प्राप्त करता है।"
 type: docs
 weight: 10
 url: /hi/net/aspose.psd/iorderedshape/endpoint/
 ---
+{{< psd/tize >}}
 ## IOrderedShape.EndPoint property
 
-अंतिम आकार बिंदु प्राप्त करता है।
+समाप्ति आकार बिंदु को प्राप्त करता है।
 
 ```csharp
 public PointF EndPoint { get; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-अंतिम आकार बिंदु।
+समाप्ति आकार बिंदु।
 
-### यह सभी देखें
+### देखें भी
 
 * struct [PointF](../../pointf/)
 * interface [IOrderedShape](../)
-* नाम स्थान [Aspose.PSD](../../iorderedshape/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

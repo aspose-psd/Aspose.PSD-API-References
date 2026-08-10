@@ -1,28 +1,29 @@
 ---
-title: ImageResizeSettings.FilterType
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: ImageResizeSettings संपत्त. फ़ल्टर के प्रकर क प्रप्त य सेट करत है
+title: "ImageResizeSettings.FilterType"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "ImageResizeSettings प्रॉपर्टी। फ़िल्टर के प्रकार को प्राप्त करता है या सेट करता है"
 type: docs
 weight: 50
 url: /hi/net/aspose.psd/imageresizesettings/filtertype/
 ---
+{{< psd/tize >}}
 ## ImageResizeSettings.FilterType property
 
-फ़िल्टर के प्रकार को प्राप्त या सेट करता है।
+फ़िल्टर के प्रकार को प्राप्त करता है या सेट करता है।
 
 ```csharp
 public ImageFilterType FilterType { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-फ़िल्टर का प्रकार.
+फ़िल्टर का प्रकार।
 
-### यह सभी देखें
+### देखें भी
 
 * enum [ImageFilterType](../../imagefiltertype/)
 * class [ImageResizeSettings](../)
-* नाम स्थान [Aspose.PSD](../../imageresizesettings/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

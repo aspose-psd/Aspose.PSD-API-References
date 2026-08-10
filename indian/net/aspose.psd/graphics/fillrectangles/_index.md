@@ -1,65 +1,66 @@
 ---
-title: Graphics.FillRectangles
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Graphics तरक. द्वर नर्दष्ट आयतं क एक श्रृंखल के अंदरून हस्सं क भरत हैRectangle संरचनएं.
+title: "Graphics.FillRectangles"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Graphics मेथड। Rectangle संरचनाओं द्वारा निर्दिष्ट आयतों की श्रृंखला के अंदरूनी भाग को भरता है।"
 type: docs
-weight: 400
+weight: 410
 url: /hi/net/aspose.psd/graphics/fillrectangles/
 ---
+{{< psd/tize >}}
 ## FillRectangles(Brush, Rectangle[]) {#fillrectangles_1}
 
-द्वारा निर्दिष्ट आयतों की एक श्रृंखला के अंदरूनी हिस्सों को भरता है[`Rectangle`](../../rectangle/) संरचनाएं.
+[`Rectangle`](../../rectangle/) संरचनाओं द्वारा निर्दिष्ट आयतों की श्रृंखला के अंदरूनी भाग को भरता है।
 
 ```csharp
 public void FillRectangles(Brush brush, Rectangle[] rects)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| brush | Brush | [`Brush`](../../brush/)जो भरण की विशेषताओं को निर्धारित करता है। |
-| rects | Rectangle[] | की श्रंखला[`Rectangle`](../../rectangle/) संरचनाएं जो भरने के लिए आयतों का प्रतिनिधित्व करती हैं। |
+| brush | Brush | [`Brush`](../../brush/) जो भराव की विशेषताओं को निर्धारित करता है। |
+| rects | Rectangle[] | [`Rectangle`](../../rectangle/) संरचनाओं की एरे जो भरने के लिए आयतों का प्रतिनिधित्व करती है। |
 
 ### अपवाद
 
-| अपवाद | स्थिति |
+| अपवाद | शर्त |
 | --- | --- |
-| ArgumentNullException | *brush* शून्य है या*rects* शून्य है। |
+| ArgumentNullException | *brush* null है या *rects* null है। |
 
-### यह सभी देखें
+### देखें भी
 
 * class [Brush](../../brush/)
 * struct [Rectangle](../../rectangle/)
 * class [Graphics](../)
-* नाम स्थान [Aspose.PSD](../../graphics/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## FillRectangles(Brush, RectangleF[]) {#fillrectangles}
 
-द्वारा निर्दिष्ट आयतों की एक श्रृंखला के अंदरूनी हिस्सों को भरता है[`RectangleF`](../../rectanglef/) संरचनाएं.
+[`RectangleF`](../../rectanglef/) संरचनाओं द्वारा निर्दिष्ट आयतों की श्रृंखला के अंदरूनी भाग को भरता है।
 
 ```csharp
 public void FillRectangles(Brush brush, RectangleF[] rects)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| brush | Brush | [`Brush`](../../brush/)जो भरण की विशेषताओं को निर्धारित करता है। |
-| rects | RectangleF[] | की श्रंखला[`Rectangle`](../../rectangle/) संरचनाएं जो भरने के लिए आयतों का प्रतिनिधित्व करती हैं। |
+| brush | Brush | [`Brush`](../../brush/) जो भराव की विशेषताओं को निर्धारित करता है। |
+| rects | RectangleF[] | [`Rectangle`](../../rectangle/) संरचनाओं की एरे जो भरने के लिए आयतों का प्रतिनिधित्व करती है। |
 
 ### अपवाद
 
-| अपवाद | स्थिति |
+| अपवाद | शर्त |
 | --- | --- |
-| ArgumentNullException | *brush* शून्य है या*rects* शून्य है। |
+| ArgumentNullException | *brush* null है या *rects* null है। |
 
-### यह सभी देखें
+### देखें भी
 
 * class [Brush](../../brush/)
 * struct [RectangleF](../../rectanglef/)
 * class [Graphics](../)
-* नाम स्थान [Aspose.PSD](../../graphics/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,102 +1,103 @@
 ---
-title: Region.Union
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Region तरक. इसे अपडेट करत हैRegion स्वयं और नर्दष्ट के संघ के लएRectangleFसंरचन.
+title: "Region.Union"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Region विधि। इस Region को स्वयं और निर्दिष्ट RectangleF संरचना के संघ में अपडेट करता है"
 type: docs
-weight: 140
+weight: 150
 url: /hi/net/aspose.psd/region/union/
 ---
+{{< psd/tize >}}
 ## Union(RectangleF) {#union_2}
 
-इसे अपडेट करता है[`Region`](../) स्वयं और निर्दिष्ट के संघ के लिए[`RectangleF`](../../rectanglef/)संरचना.
+इस [`Region`](../) को स्वयं और निर्दिष्ट [`RectangleF`](../../rectanglef/) संरचना के संघ में अपडेट करता है।
 
 ```csharp
 public void Union(RectangleF rect)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| rect | RectangleF | [`RectangleF`](../../rectanglef/) इसके साथ एकजुट होने के लिए संरचना[`Region`](../). |
+| rect | RectangleF | यह [`RectangleF`](../../rectanglef/) संरचना इस [`Region`](../) के साथ मिलाने के लिए है। |
 
-### यह सभी देखें
+### देखें भी
 
 * struct [RectangleF](../../rectanglef/)
 * class [Region](../)
-* नाम स्थान [Aspose.PSD](../../region/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Union(Rectangle) {#union_1}
 
-इसे अपडेट करता है[`Region`](../) स्वयं और निर्दिष्ट के संघ के लिए[`Rectangle`](../../rectangle/)संरचना.
+इस [`Region`](../) को स्वयं और निर्दिष्ट [`Rectangle`](../../rectangle/) संरचना के संघ में अपडेट करता है।
 
 ```csharp
 public void Union(Rectangle rect)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| rect | Rectangle | [`Rectangle`](../../rectangle/) इसके साथ एकजुट होने के लिए संरचना[`Region`](../). |
+| rect | Rectangle | यह [`Rectangle`](../../rectangle/) संरचना इस [`Region`](../) के साथ मिलाने के लिए है। |
 
-### यह सभी देखें
+### देखें भी
 
 * struct [Rectangle](../../rectangle/)
 * class [Region](../)
-* नाम स्थान [Aspose.PSD](../../region/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Union(GraphicsPath) {#union}
 
-इसे अपडेट करता है[`Region`](../) स्वयं और निर्दिष्ट के संघ के लिए[`GraphicsPath`](../../graphicspath/) .
+इस [`Region`](../) को स्वयं और निर्दिष्ट [`GraphicsPath`](../../graphicspath/) के संघ में अपडेट करता है।
 
 ```csharp
 public void Union(GraphicsPath path)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| path | GraphicsPath | [`GraphicsPath`](../../graphicspath/) इसके साथ एकजुट होना[`Region`](../). |
+| path | GraphicsPath | यह [`GraphicsPath`](../../graphicspath/) इस [`Region`](../) के साथ मिलाने के लिए है। |
 
 ### अपवाद
 
-| अपवाद | स्थिति |
+| अपवाद | शर्त |
 | --- | --- |
 | ArgumentNullException | *path* शून्य है। |
 
-### यह सभी देखें
+### देखें भी
 
 * class [GraphicsPath](../../graphicspath/)
 * class [Region](../)
-* नाम स्थान [Aspose.PSD](../../region/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Union(Region) {#union_3}
 
-इसे अपडेट करता है[`Region`](../) स्वयं और निर्दिष्ट के संघ के लिए[`Region`](../) .
+इस [`Region`](../) को स्वयं और निर्दिष्ट [`Region`](../) के संघ में अपडेट करता है।
 
 ```csharp
 public void Union(Region region)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| region | Region | [`Region`](../) इसके साथ एकजुट होना[`Region`](../). |
+| region | Region | यह [`Region`](../) इस [`Region`](../) के साथ मिलाने के लिए है। |
 
 ### अपवाद
 
-| अपवाद | स्थिति |
+| अपवाद | शर्त |
 | --- | --- |
 | ArgumentNullException | *region* शून्य है। |
 
-### यह सभी देखें
+### देखें भी
 
 * class [Region](../)
-* नाम स्थान [Aspose.PSD](../../region/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

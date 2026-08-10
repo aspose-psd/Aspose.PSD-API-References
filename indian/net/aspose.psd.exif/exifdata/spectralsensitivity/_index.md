@@ -1,27 +1,28 @@
 ---
-title: ExifData.SpectralSensitivity
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: ExifData संपत्त. वर्णक्रमय संवेदनशलत प्रप्त य सेट करत है
+title: "ExifData.SpectralSensitivity"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "ExifData प्रॉपर्टी। स्पेक्ट्रल संवेदनशीलता प्राप्त करता है या सेट करता है"
 type: docs
 weight: 970
 url: /hi/net/aspose.psd.exif/exifdata/spectralsensitivity/
 ---
+{{< psd/tize >}}
 ## ExifData.SpectralSensitivity property
 
-वर्णक्रमीय संवेदनशीलता प्राप्त या सेट करता है।
+स्पेक्ट्रल संवेदनशीलता को प्राप्त करता है या सेट करता है।
 
 ```csharp
 public string SpectralSensitivity { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-वर्णक्रमीय संवेदनशीलता।
+स्पेक्ट्रल संवेदनशीलता।
 
-### यह सभी देखें
+### देखें भी
 
 * class [ExifData](../)
-* नाम स्थान [Aspose.PSD.Exif](../../exifdata/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

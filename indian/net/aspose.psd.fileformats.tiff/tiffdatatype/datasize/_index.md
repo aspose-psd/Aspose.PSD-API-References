@@ -1,31 +1,32 @@
 ---
-title: TiffDataType.DataSize
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: TiffDataType संपत्त. बइट्स में अतरक्त डेट आकर प्रप्त करत है यद 12 बइट्स टैग डेट क फट करने के लए पर्यप्त नहं हैं
+title: "TiffDataType.DataSize"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "TiffDataType प्रॉपर्टी। टैग डेटा को फिट करने के लिए यदि 12 बाइट्स पर्याप्त नहीं हैं तो अतिरिक्त डेटा आकार बाइट्स में प्राप्त करता है"
 type: docs
 weight: 40
 url: /hi/net/aspose.psd.fileformats.tiff/tiffdatatype/datasize/
 ---
+{{< psd/tize >}}
 ## TiffDataType.DataSize property
 
-बाइट्स में अतिरिक्त डेटा आकार प्राप्त करता है (यदि 12 बाइट्स टैग डेटा को फिट करने के लिए पर्याप्त नहीं हैं)।
+टैग डेटा को फिट करने के लिए 12 बाइट्स पर्याप्त न हों, ऐसी स्थिति में अतिरिक्त डेटा आकार बाइट्स में प्राप्त करता है।
 
 ```csharp
 public abstract uint DataSize { get; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
 बाइट्स में अतिरिक्त डेटा आकार।
 
-### टिप्पणियों
+## टिप्पणियाँ
 
-यह सटीक बाइट गिनती है।
+यह सटीक बाइट्स की गिनती है।
 
-### यह सभी देखें
+### देखें भी
 
 * class [TiffDataType](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Tiff](../../tiffdatatype/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Tiff](../../../aspose.psd.fileformats.tiff/)
+* assembly [Aspose.PSD](../../../)
 
 

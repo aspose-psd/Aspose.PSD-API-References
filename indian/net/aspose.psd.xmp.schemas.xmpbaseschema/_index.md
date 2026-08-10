@@ -1,17 +1,18 @@
 ---
-title: Aspose.PSD.Xmp.Schemas.XmpBaseSchema
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: नमस्थन में XMP बेसक स्कम से संबंधत सहयक वर्ग स्थरंक और वधयँ शमल हैं ज बुनयद वर्णनत्मक जनकर प्रदन करत हैं
+title: "Aspose.PSD.Xmp.Schemas.XmpBaseSchema"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "नेमस्पेस XMP बेसिक स्कीमा से संबंधित सहायक क्लासों, स्थिरांक और विधियों को शामिल करता है जो बुनियादी वर्णनात्मक जानकारी प्रदान करते हैं।"
 type: docs
-weight: 560
+weight: 600
 url: /hi/net/aspose.psd.xmp.schemas.xmpbaseschema/
 ---
-नामस्थान में XMP बेसिक स्कीमा से संबंधित सहायक वर्ग, स्थिरांक और विधियाँ शामिल हैं जो बुनियादी वर्णनात्मक जानकारी प्रदान करती हैं।
+{{< psd/tize >}}
+Namespace में XMP बेसिक स्कीमा संबंधित हेल्पर क्लासेस, कॉन्स्टेंट्स और मेथड्स शामिल हैं जो बुनियादी वर्णनात्मक जानकारी प्रदान करते हैं।
 
-## कक्षाओं
+## क्लासेस
 
-| कक्षा | विवरण |
+| क्लास | विवरण |
 | --- | --- |
-| [XmpBasicPackage](./xmpbasicpackage/) | XMP मूल नामस्थान का प्रतिनिधित्व करता है। |
+| [XmpBasicPackage](./xmpbasicpackage/) | XMP बेसिक नेमस्पेस को दर्शाता है। |
 
 

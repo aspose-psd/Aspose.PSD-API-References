@@ -1,14 +1,15 @@
 ---
-title: Enum PsdVersion
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Aspose.PSD.FileFormats.Psd.PsdVersion एनुम. फ़इल स्वरूप संस्करण
+title: "Enum PsdVersion"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Aspose.PSD.FileFormats.Psd.PsdVersion enum. फ़ाइल फ़ॉर्मेट संस्करण"
 type: docs
-weight: 3600
+weight: 4060
 url: /hi/net/aspose.psd.fileformats.psd/psdversion/
 ---
+{{< psd/tize >}}
 ## PsdVersion enumeration
 
-फ़ाइल स्वरूप संस्करण
+फ़ाइल फ़ॉर्मेट संस्करण
 
 ```csharp
 public enum PsdVersion : byte
@@ -16,14 +17,14 @@ public enum PsdVersion : byte
 
 ### मान
 
-| नाम | कीमत | विवरण |
+| नाम | मान | विवरण |
 | --- | --- | --- |
-| Psd | `1` | डिफ़ॉल्ट PSD संस्करण. |
-| Psb | `2` | PSB संस्करण. |
+| Psd | `1` | डिफ़ॉल्ट PSD संस्करण। |
+| Psb | `2` | PSB संस्करण। |
 
-### उदाहरण
+## उदाहरण
 
-निम्न उदाहरण PSD फ़ाइल को PSB और इसके विपरीत में कनवर्ट करने की क्षमता दिखाता है।
+निम्नलिखित उदाहरण दिखाता है कि PSD फ़ाइल को PSB में और इसके विपरीत कैसे परिवर्तित किया जा सकता है।
 
 ```csharp
 [C#]
@@ -45,9 +46,9 @@ using (Image img = Image.Load(sourceFilePathPsd))
 }
 ```
 
-### यह सभी देखें
+### देखें भी
 
-* नाम स्थान [Aspose.PSD.FileFormats.Psd](../../aspose.psd.fileformats.psd/)
-* सभा [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../)
 
 

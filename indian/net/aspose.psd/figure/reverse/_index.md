@@ -1,23 +1,24 @@
 ---
-title: Figure.Reverse
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Figure तरक. इस आकृत के आकर क्रम क उलट देत है और बंदु क्रम क आकर देत है
+title: "Figure.Reverse"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Figure मेथड। इस चित्र के आकार क्रम और आकार बिंदु क्रम को उलटता है"
 type: docs
 weight: 110
 url: /hi/net/aspose.psd/figure/reverse/
 ---
+{{< psd/tize >}}
 ## Figure.Reverse method
 
-इस आकृति के आकार क्रम को उलट देता है और बिंदु क्रम को आकार देता है।
+इस आकृति के आकारों के क्रम और आकार बिंदुओं के क्रम को उलटता है।
 
 ```csharp
 public void Reverse()
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * class [Figure](../)
-* नाम स्थान [Aspose.PSD](../../figure/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

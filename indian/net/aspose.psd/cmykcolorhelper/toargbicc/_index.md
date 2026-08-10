@@ -1,111 +1,112 @@
 ---
-title: CmykColorHelper.ToArgbIcc
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: CmykColorHelper तरक. डफ़ल्ट प्रफ़इल के सथ Icc रूपंतरण क उपयग करके CMYK रंगं से ARGB रंगं में रूपंतरण.
+title: "CmykColorHelper.ToArgbIcc"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "CmykColorHelper मेथड। डिफ़ॉल्ट प्रोफ़ाइल्स के साथ Icc रूपांतरण का उपयोग करके CMYK रंगों से ARGB रंगों में परिवर्तन।"
 type: docs
 weight: 80
 url: /hi/net/aspose.psd/cmykcolorhelper/toargbicc/
 ---
+{{< psd/tize >}}
 ## ToArgbIcc(int[]) {#toargbicc_2}
 
-डिफ़ॉल्ट प्रोफ़ाइल के साथ Icc रूपांतरण का उपयोग करके CMYK रंगों से ARGB रंगों में रूपांतरण.
+डिफ़ॉल्ट प्रोफ़ाइलों के साथ Icc रूपांतरण का उपयोग करके CMYK रंगों से ARGB रंगों में रूपांतरण।
 
 ```csharp
 public static Color[] ToArgbIcc(int[] cmykPixels)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| cmykPixels | Int32[] | CMYK पिक्सेल 32-बिट पूर्णांक मान के रूप में प्रस्तुत किए गए। |
+| cmykPixels | Int32[] | CMYK पिक्सेल 32-बिट पूर्णांक मानों के रूप में प्रस्तुत किए गए हैं। |
 
-### प्रतिलाभ की मात्रा
+### रिटर्न वैल्यू
 
-ARGB रंग.
+ARGB रंग।
 
-### यह सभी देखें
+### देखें भी
 
 * struct [Color](../../color/)
 * class [CmykColorHelper](../)
-* नाम स्थान [Aspose.PSD](../../cmykcolorhelper/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## ToArgbIcc(int[], Stream, Stream) {#toargbicc_3}
 
-कस्टम प्रोफाइल के साथ Icc रूपांतरण का उपयोग करके CMYK रंगों से ARGB रंगों में रूपांतरण।
+कस्टम प्रोफ़ाइलों के साथ Icc रूपांतरण का उपयोग करके CMYK रंगों से ARGB रंगों में रूपांतरण।
 
 ```csharp
 public static Color[] ToArgbIcc(int[] cmykPixels, Stream cmykIccStream, Stream rgbIccStream)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| cmykPixels | Int32[] | CMYK रंग 32-बिट पूर्णांक मान के रूप में प्रस्तुत किए गए। |
-| cmykIccStream | Stream | CMYK Icc प्रोफ़ाइल वाली स्ट्रीम. |
-| rgbIccStream | Stream | RGB Icc प्रोफ़ाइल वाली स्ट्रीम। |
+| cmykPixels | Int32[] | CMYK रंगों को 32-बिट पूर्णांक मानों के रूप में प्रस्तुत किया गया है। |
+| cmykIccStream | Stream | CMYK Icc प्रोफ़ाइल को शामिल करने वाली स्ट्रीम। |
+| rgbIccStream | Stream | RGB Icc प्रोफ़ाइल को शामिल करने वाली स्ट्रीम। |
 
-### प्रतिलाभ की मात्रा
+### रिटर्न वैल्यू
 
-ARGB रंग.
+ARGB रंग।
 
-### यह सभी देखें
+### देखें भी
 
 * struct [Color](../../color/)
 * class [CmykColorHelper](../)
-* नाम स्थान [Aspose.PSD](../../cmykcolorhelper/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## ToArgbIcc(int) {#toargbicc}
 
-डिफ़ॉल्ट प्रोफ़ाइल के साथ Icc रूपांतरण का उपयोग करके CMYK रंग से ARGB रंग में रूपांतरण.
+डिफ़ॉल्ट प्रोफ़ाइलों के साथ Icc रूपांतरण का उपयोग करके CMYK रंग से ARGB रंग में रूपांतरण।
 
 ```csharp
 public static Color ToArgbIcc(int cmykPixel)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| cmykPixel | Int32 | CMYK रंग 32-बिट पूर्णांक मान के रूप में प्रस्तुत किया गया। |
+| cmykPixel | Int32 | CMYK रंग को 32-बिट पूर्णांक मान के रूप में प्रस्तुत किया गया है। |
 
-### प्रतिलाभ की मात्रा
+### रिटर्न वैल्यू
 
-ARGB रंग.
+ARGB रंग।
 
-### यह सभी देखें
+### देखें भी
 
 * struct [Color](../../color/)
 * class [CmykColorHelper](../)
-* नाम स्थान [Aspose.PSD](../../cmykcolorhelper/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## ToArgbIcc(int, Stream, Stream) {#toargbicc_1}
 
-कस्टम प्रोफ़ाइल के साथ Icc रूपांतरण का उपयोग करके CMYK रंग से ARGB रंग में रूपांतरण.
+कस्टम प्रोफ़ाइल के साथ Icc रूपांतरण का उपयोग करके CMYK रंग से ARGB रंग में रूपांतरण।
 
 ```csharp
 public static Color ToArgbIcc(int cmykPixel, Stream cmykIccStream, Stream rgbIccStream)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| cmykPixel | Int32 | CMYK रंग 32-बिट पूर्णांक मान के रूप में प्रस्तुत किया गया। |
-| cmykIccStream | Stream | CMYK Icc प्रोफ़ाइल वाली स्ट्रीम. |
-| rgbIccStream | Stream | RGB Icc प्रोफ़ाइल वाली स्ट्रीम। |
+| cmykPixel | Int32 | CMYK रंग को 32-बिट पूर्णांक मान के रूप में प्रस्तुत किया गया है। |
+| cmykIccStream | Stream | CMYK Icc प्रोफ़ाइल को शामिल करने वाली स्ट्रीम। |
+| rgbIccStream | Stream | RGB Icc प्रोफ़ाइल को शामिल करने वाली स्ट्रीम। |
 
-### प्रतिलाभ की मात्रा
+### रिटर्न वैल्यू
 
-ARGB रंग.
+ARGB रंग।
 
-### यह सभी देखें
+### देखें भी
 
 * struct [Color](../../color/)
 * class [CmykColorHelper](../)
-* नाम स्थान [Aspose.PSD](../../cmykcolorhelper/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

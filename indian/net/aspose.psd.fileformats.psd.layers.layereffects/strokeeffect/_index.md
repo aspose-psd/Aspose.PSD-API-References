@@ -1,40 +1,47 @@
 ---
-title: Class StrokeEffect
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Aspose.PSD.FileFormats.Psd.Layers.LayerEffects.StrokeEffect कक्ष. PSD परत के लए Adobe Photoshop स्ट्रक प्रभव
+title: "क्लास StrokeEffect"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Aspose.PSD.FileFormats.Psd.Layers.LayerEffects.StrokeEffect क्लास। PSD लेयर के लिए Adobe Photoshop स्ट्रोक इफ़ेक्ट"
 type: docs
-weight: 2190
+weight: 2390
 url: /hi/net/aspose.psd.fileformats.psd.layers.layereffects/strokeeffect/
 ---
+{{< psd/tize >}}
 ## StrokeEffect class
 
-PSD परत के लिए Adobe® Photoshop® स्ट्रोक प्रभाव।
+PSD लेयर के लिए Adobe® Photoshop® स्ट्रोक इफ़ेक्ट।
 
 ```csharp
 public class StrokeEffect : ILayerEffect
 ```
 
-## गुण
+## प्रॉपर्टीज़
 
 | नाम | विवरण |
 | --- | --- |
-| [BlendMode](../../aspose.psd.fileformats.psd.layers.layereffects/strokeeffect/blendmode/) { get; set; } | ब्लेंड मोड प्राप्त या सेट करता है। |
-| [EffectType](../../aspose.psd.fileformats.psd.layers.layereffects/strokeeffect/effecttype/) { get; } | एक प्रकार का प्रभाव प्राप्त करता है |
-| [FillSettings](../../aspose.psd.fileformats.psd.layers.layereffects/strokeeffect/fillsettings/) { get; set; } | भरण सेटिंग्स प्राप्त या सेट करता है। |
-| [IsVisible](../../aspose.psd.fileformats.psd.layers.layereffects/strokeeffect/isvisible/) { get; set; } | एक मान प्राप्त करता है या सेट करता है जो दर्शाता है कि यह उदाहरण दृश्यमान है या नहीं। |
-| [Opacity](../../aspose.psd.fileformats.psd.layers.layereffects/strokeeffect/opacity/) { get; set; } | अस्पष्टता प्राप्त या सेट करता है। |
-| [Overprint](../../aspose.psd.fileformats.psd.layers.layereffects/strokeeffect/overprint/) { get; set; } | एक मान प्राप्त करता है या सेट करता है जो दर्शाता है कि यह`StrokeEffect` वर्तमान परत सामग्री के विरुद्ध स्ट्रोक मिश्रित करेगा. |
-| [Position](../../aspose.psd.fileformats.psd.layers.layereffects/strokeeffect/position/) { get; set; } | PSD परत सामग्री में आपके स्ट्रोक के संरेखण को नियंत्रित करने के लिए स्ट्रोक प्रभाव की स्थिति प्राप्त या सेट करता है। मान हो सकता हैInside PSD परत सामग्री के अंदर स्ट्रोक बनाने के लिए, याOutside PSD परत सामग्री के चारों ओर स्ट्रोक बनाने के लिए, औरCenter अंदर और बाहर दोनों तरफ से स्ट्रोक बनाने के लिए. |
-| [Size](../../aspose.psd.fileformats.psd.layers.layereffects/strokeeffect/size/) { get; set; } | स्ट्रोक प्रभाव की चौड़ाई प्राप्त या सेट करता है। |
+| [BlendMode](../../aspose.psd.fileformats.psd.layers.layereffects/strokeeffect/blendmode/) { get; set; } | ब्लेंड मोड को प्राप्त करता है या सेट करता है। |
+| [EffectType](../../aspose.psd.fileformats.psd.layers.layereffects/strokeeffect/effecttype/) { get; } | इफ़ेक्ट का प्रकार प्राप्त करता है। |
+| [FillSettings](../../aspose.psd.fileformats.psd.layers.layereffects/strokeeffect/fillsettings/) { get; set; } | Fill सेटिंग्स को प्राप्त करता या सेट करता है। |
+| [IsVisible](../../aspose.psd.fileformats.psd.layers.layereffects/strokeeffect/isvisible/) { get; set; } | एक मान को प्राप्त करता है या सेट करता है जो यह दर्शाता है कि यह इंस्टेंस दृश्यमान है या नहीं। |
+| [Opacity](../../aspose.psd.fileformats.psd.layers.layereffects/strokeeffect/opacity/) { get; set; } | अपारदर्शिता प्राप्त करता है या सेट करता है। |
+| [Overprint](../../aspose.psd.fileformats.psd.layers.layereffects/strokeeffect/overprint/) { get; set; } | इस `StrokeEffect` के वर्तमान लेयर सामग्री के खिलाफ स्ट्रोक को मिश्रित करेगा या नहीं, यह दर्शाने वाला मान प्राप्त करता है या सेट करता है। |
+| [Position](../../aspose.psd.fileformats.psd.layers.layereffects/strokeeffect/position/) { get; set; } | स्ट्रोक इफ़ेक्ट की स्थिति प्राप्त करता है या सेट करता है ताकि आपके स्ट्रोक की संरेखण को PSD लेयर सामग्री के अनुसार नियंत्रित किया जा सके। मान Inside हो सकता है जिससे स्ट्रोक PSD लेयर सामग्री के भीतर खींचा जाता है, या Outside हो सकता है जिससे स्ट्रोक PSD लेयर सामग्री के चारों ओर खींचा जाता है, और Center हो सकता है जिससे स्ट्रोक दोनों अंदर और बाहर खींचा जाता है। |
+| [Size](../../aspose.psd.fileformats.psd.layers.layereffects/strokeeffect/size/) { get; set; } | स्ट्रोक इफ़ेक्ट की चौड़ाई प्राप्त करता है या सेट करता है। |
 
-### उदाहरण
+## मेथड्स
 
-निम्नलिखित कोड उदाहरण रंग भरण के साथ स्ट्रोक प्रभाव का प्रतिपादन दिखाता है।
+| नाम | विवरण |
+| --- | --- |
+| [GetEffectBounds](../../aspose.psd.fileformats.psd.layers.layereffects/strokeeffect/geteffectbounds/)(Rectangle, int) | इनपुट लेयर पिक्सेल सीमाओं के आधार पर इफ़ेक्ट पिक्सेल की सीमाओं की गणना करता है और प्राप्त करता है। |
+
+## उदाहरण
+
+निम्नलिखित कोड उदाहरण रंग भराव के साथ स्ट्रोक इफ़ेक्ट का रेंडरिंग दिखाता है।
 
 ```csharp
 [C#]
 
-// निर्यात के लिए रंग भरण के साथ स्ट्रोक प्रभाव का प्रतिपादन लागू करें
+// निर्यात के लिए रंग भराव के साथ स्ट्रोक इफ़ेक्ट का रेंडरिंग लागू करें।
 string sourceFileName = "StrokeComplex.psd";
 string exportPath = "StrokeComplexRendering.psd";
 string exportPathPng = "StrokeComplexRendering.png";
@@ -51,9 +58,9 @@ using (var im = (PsdImage)Image.Load(sourceFileName, loadOptions))
         settings.Color = Color.DeepPink;
     }
 
-    // पीएसडी बचाओ
+    // psd सहेजें
     im.Save(exportPath, new PsdOptions());
-    // पीएनजी सहेजें
+    // png सहेजें
     im.Save(exportPathPng, new PngOptions()
     {
         ColorType = PngColorType.TruecolorWithAlpha
@@ -61,7 +68,7 @@ using (var im = (PsdImage)Image.Load(sourceFileName, loadOptions))
 }
 ```
 
-निम्नलिखित कोड भरण प्रकार - रंग के साथ स्ट्रोक प्रभाव परत के समर्थन को प्रदर्शित करता है।
+निम्नलिखित कोड स्ट्रोक इफ़ेक्ट लेयर के फ़िल प्रकार - Color के समर्थन को दर्शाता है।
 
 ```csharp
 [C#]
@@ -116,7 +123,7 @@ using (var im = (PsdImage)Image.Load(exportPath, loadOptions))
 }
 ```
 
-निम्नलिखित कोड भरण प्रकार - पैटर्न के साथ स्ट्रोक प्रभाव परत के समर्थन को प्रदर्शित करता है।
+निम्नलिखित कोड स्ट्रोक इफ़ेक्ट लेयर के साथ फ़िल टाइप - पैटर्न के समर्थन को दर्शाता है।
 
 ```csharp
 [C#]
@@ -150,7 +157,7 @@ var loadOptions = new PsdLoadOptions()
     LoadEffectsResource = true
 };
 
-// नया डेटा तैयार करना
+// नया डेटा तैयार किया जा रहा है
 var newPattern = new int[]
 {
     Color.Aqua.ToArgb(), Color.Red.ToArgb(), Color.Red.ToArgb(), Color.Aqua.ToArgb(),
@@ -229,7 +236,7 @@ using (var im = (PsdImage)Image.Load(exportPath, loadOptions))
 }
 ```
 
-निम्नलिखित कोड भरण प्रकार - ग्रेडिएंट के साथ स्ट्रोक प्रभाव परत के समर्थन को प्रदर्शित करता है।
+निम्नलिखित कोड स्ट्रोक इफ़ेक्ट लेयर के साथ फ़िल टाइप - ग्रेडिएंट का समर्थन दर्शाता है।
 
 ```csharp
 [C#]
@@ -266,7 +273,6 @@ using (var im = (PsdImage)Image.Load(sourceFileName, loadOptions))
     AssertAreEqual(true, gradientStroke.IsVisible);
 
     var fillSettings = (GradientFillSettings)gradientStroke.FillSettings;
-    AssertAreEqual(Color.Black, fillSettings.Color);
     AssertAreEqual(FillType.Gradient, fillSettings.FillType);
     AssertAreEqual(true, fillSettings.AlignWithLayer);
     AssertAreEqual(GradientType.Linear, fillSettings.GradientType);
@@ -277,7 +283,8 @@ using (var im = (PsdImage)Image.Load(sourceFileName, loadOptions))
     AssertAreEqual(false, fillSettings.Reverse);
 
     // रंग बिंदु
-    var colorPoints = fillSettings.ColorPoints;
+    var solidGradient = (SolidGradient)fillSettings.Gradient;
+    var colorPoints = solidGradient.ColorPoints;
     AssertAreEqual(2, colorPoints.Length);
 
     AssertAreEqual(Color.Black, colorPoints[0].Color);
@@ -289,7 +296,7 @@ using (var im = (PsdImage)Image.Load(sourceFileName, loadOptions))
     AssertAreEqual(50, colorPoints[1].MedianPointLocation);
 
     // पारदर्शिता बिंदु
-    var transparencyPoints = fillSettings.TransparencyPoints;
+    var transparencyPoints = solidGradient.TransparencyPoints;
     AssertAreEqual(2, transparencyPoints.Length);
 
     AssertAreEqual(0, transparencyPoints[0].Location);
@@ -300,9 +307,7 @@ using (var im = (PsdImage)Image.Load(sourceFileName, loadOptions))
     AssertAreEqual(50, transparencyPoints[1].MedianPointLocation);
     AssertAreEqual(100.00, transparencyPoints[1].Opacity);
 
-    // परीक्षण संपादन
-    fillSettings.Color = Color.Green;
-
+    // संपादन परीक्षण
     gradientStroke.Opacity = 127;
     gradientStroke.BlendMode = BlendMode.Color;
 
@@ -315,22 +320,22 @@ using (var im = (PsdImage)Image.Load(sourceFileName, loadOptions))
     fillSettings.Reverse = true;
 
     // नया रंग बिंदु जोड़ें
-    var colorPoint = fillSettings.AddColorPoint();
+    var colorPoint = solidGradient.AddColorPoint();
     colorPoint.Color = Color.Green;
     colorPoint.Location = 4096;
     colorPoint.MedianPointLocation = 75;
 
     // पिछले बिंदु का स्थान बदलें
-    fillSettings.ColorPoints[1].Location = 1899;
+    solidGradient.ColorPoints[1].Location = 1899;
 
     // नया पारदर्शिता बिंदु जोड़ें
-    var transparencyPoint = fillSettings.AddTransparencyPoint();
+    var transparencyPoint = solidGradient.AddTransparencyPoint();
     transparencyPoint.Opacity = 25;
     transparencyPoint.MedianPointLocation = 25;
     transparencyPoint.Location = 4096;
 
     // पिछले पारदर्शिता बिंदु का स्थान बदलें
-    fillSettings.TransparencyPoints[1].Location = 2411;
+    solidGradient.TransparencyPoints[1].Location = 2411;
 
     im.Save(exportPath);
 }
@@ -345,51 +350,51 @@ using (var im = (PsdImage)Image.Load(exportPath, loadOptions))
     AssertAreEqual(true, gradientStroke.IsVisible);
 
     var fillSettings = (GradientFillSettings)gradientStroke.FillSettings;
-    AssertAreEqual(Color.Green, fillSettings.Color);
+    var solidGradient = (SolidGradient)fillSettings.Gradient;
     AssertAreEqual(FillType.Gradient, fillSettings.FillType);
 
     // रंग बिंदुओं की जाँच करें
-    AssertAreEqual(3, fillSettings.ColorPoints.Length);
+    AssertAreEqual(3, solidGradient.ColorPoints.Length);
 
-    var point = fillSettings.ColorPoints[0];
+    var point = solidGradient.ColorPoints[0];
     AssertAreEqual(50, point.MedianPointLocation);
     AssertAreEqual(Color.Black, point.Color);
     AssertAreEqual(0, point.Location);
 
-    point = fillSettings.ColorPoints[1];
+    point = solidGradient.ColorPoints[1];
     AssertAreEqual(50, point.MedianPointLocation);
     AssertAreEqual(Color.White, point.Color);
     AssertAreEqual(1899, point.Location);
 
-    point = fillSettings.ColorPoints[2];
+    point = solidGradient.ColorPoints[2];
     AssertAreEqual(75, point.MedianPointLocation);
     AssertAreEqual(Color.Green, point.Color);
     AssertAreEqual(4096, point.Location);
 
     // पारदर्शी बिंदुओं की जाँच करें
-    AssertAreEqual(3, fillSettings.TransparencyPoints.Length);
+    AssertAreEqual(3, solidGradient.TransparencyPoints.Length);
 
-    var transparencyPoint = fillSettings.TransparencyPoints[0];
+    var transparencyPoint = solidGradient.TransparencyPoints[0];
     AssertAreEqual(50, transparencyPoint.MedianPointLocation);
     AssertAreEqual(100.00, transparencyPoint.Opacity);
     AssertAreEqual(0, transparencyPoint.Location);
 
-    transparencyPoint = fillSettings.TransparencyPoints[1];
+    transparencyPoint = solidGradient.TransparencyPoints[1];
     AssertAreEqual(50, transparencyPoint.MedianPointLocation);
     AssertAreEqual(100.00, transparencyPoint.Opacity);
     AssertAreEqual(2411, transparencyPoint.Location);
 
-    transparencyPoint = fillSettings.TransparencyPoints[2];
+    transparencyPoint = solidGradient.TransparencyPoints[2];
     AssertAreEqual(25, transparencyPoint.MedianPointLocation);
     AssertAreEqual(25.00, transparencyPoint.Opacity);
     AssertAreEqual(4096, transparencyPoint.Location);
 }
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * interface [ILayerEffect](../ilayereffect/)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../aspose.psd.fileformats.psd.layers.layereffects/)
-* सभा [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerEffects](../../aspose.psd.fileformats.psd.layers.layereffects/)
+* assembly [Aspose.PSD](../../)
 
 

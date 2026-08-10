@@ -1,27 +1,28 @@
 ---
-title: TiffOptions.IsTiled
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: TiffOptions संपत्त. यह इंगत करने वल मन प्रप्त करत है क छव टइल क गई है य नहं
+title: "TiffOptions.IsTiled"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "TiffOptions प्रॉपर्टी। यह दर्शाने वाला मान प्राप्त करता है कि छवि टाइल्ड है या नहीं"
 type: docs
-weight: 240
+weight: 250
 url: /hi/net/aspose.psd.imageoptions/tiffoptions/istiled/
 ---
+{{< psd/tize >}}
 ## TiffOptions.IsTiled property
 
-यह इंगित करने वाला मान प्राप्त करता है कि छवि टाइल की गई है या नहीं।
+एक मान प्राप्त करता है जो दर्शाता है कि छवि टाइल्ड है या नहीं।
 
 ```csharp
 public bool IsTiled { get; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-`सत्य`अगर छवि टाइल की गई है; अन्यथा,`असत्य` .
+`true` यदि छवि टाइल्ड है; अन्यथा, `false`।
 
-### यह सभी देखें
+### देखें भी
 
 * class [TiffOptions](../)
-* नाम स्थान [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,40 +1,41 @@
 ---
-title: Interface IVectorPathData
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Aspose.PSD.FileFormats.Core.VectorPaths.IVectorPathData इंटरफेस. वेक्टर पथ डेट तक पहुंच के लए इंटरफ़ेस
+title: "इंटरफ़ेस IVectorPathData"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Aspose.PSD.FileFormats.Core.VectorPaths.IVectorPathData इंटरफ़ेस। वेक्टर पाथ डेटा तक पहुँच के लिए इंटरफ़ेस"
 type: docs
-weight: 1350
+weight: 1360
 url: /hi/net/aspose.psd.fileformats.core.vectorpaths/ivectorpathdata/
 ---
+{{< psd/tize >}}
 ## IVectorPathData interface
 
-वेक्टर पथ डेटा तक पहुंच के लिए इंटरफ़ेस।
+वेक्टर पाथ डेटा तक पहुंच के लिए इंटरफ़ेस।
 
 ```csharp
 public interface IVectorPathData
 ```
 
-## गुण
+## प्रॉपर्टीज़
 
 | नाम | विवरण |
 | --- | --- |
-| [IsDisabled](../../aspose.psd.fileformats.core.vectorpaths/ivectorpathdata/isdisabled/) { get; set; } | एक मान प्राप्त करता है या सेट करता है जो दर्शाता है कि यह उदाहरण अक्षम है या नहीं। |
-| [IsInverted](../../aspose.psd.fileformats.core.vectorpaths/ivectorpathdata/isinverted/) { get; set; } | एक मान प्राप्त करता है या सेट करता है जो दर्शाता है कि यह उदाहरण उल्टा है। |
-| [IsNotLinked](../../aspose.psd.fileformats.core.vectorpaths/ivectorpathdata/isnotlinked/) { get; set; } | एक मान प्राप्त करता है या सेट करता है जो दर्शाता है कि यह उदाहरण लिंक नहीं है। |
-| [Paths](../../aspose.psd.fileformats.core.vectorpaths/ivectorpathdata/paths/) { get; set; } | पथ रिकॉर्ड प्राप्त या सेट करता है। |
-| [Version](../../aspose.psd.fileformats.core.vectorpaths/ivectorpathdata/version/) { get; set; } | संस्करण प्राप्त या सेट करता है। |
+| [IsDisabled](../../aspose.psd.fileformats.core.vectorpaths/ivectorpathdata/isdisabled/) { get; set; } | इस इंस्टेंस के निष्क्रिय होने को दर्शाने वाला मान प्राप्त करता है या सेट करता है। |
+| [IsInverted](../../aspose.psd.fileformats.core.vectorpaths/ivectorpathdata/isinverted/) { get; set; } | इस इंस्टेंस के उल्टे होने को दर्शाने वाला मान प्राप्त करता है या सेट करता है। |
+| [IsNotLinked](../../aspose.psd.fileformats.core.vectorpaths/ivectorpathdata/isnotlinked/) { get; set; } | इस इंस्टेंस के न जुड़े होने को दर्शाने वाला मान प्राप्त करता है या सेट करता है। |
+| [Paths](../../aspose.psd.fileformats.core.vectorpaths/ivectorpathdata/paths/) { get; set; } | पाथ रिकॉर्ड्स को प्राप्त करता है या सेट करता है। |
+| [Version](../../aspose.psd.fileformats.core.vectorpaths/ivectorpathdata/version/) { get; set; } | संस्करण को प्राप्त करता है या सेट करता है। |
 
-### उदाहरण
+## उदाहरण
 
-यह उदाहरण फसल संचालन के सही कार्य के लिए PsdImage.ImageResources में 'WorkingPathResource' संसाधन के समर्थन को प्रदर्शित करता है।
+यह उदाहरण PsdImage.ImageResources में 'WorkingPathResource' संसाधन के समर्थन को दर्शाता है ताकि Crop ऑपरेशन सही ढंग से काम करे।
 
 ```csharp
 [C#]
 
-// क्रॉप इमेज और सेव करें।
+// इमेज को क्रॉप करें और सहेजें।
 using (var psdImage = (PsdImage)Image.Load(sourceFile))
 {
-    // वर्किंगपाथ रिसोर्स संसाधन खोजें।
+    // WorkingPathResource संसाधन खोजें।
     ResourceBlock[] imageResources = psdImage.ImageResources;
     WorkingPathResource workingPathResource = null;
     foreach (var imageResource in imageResources)
@@ -52,15 +53,15 @@ using (var psdImage = (PsdImage)Image.Load(sourceFile))
         throw new Exception("Values is incorrect.");
     }
 
-    // फसल और बचाओ।
+    // क्रॉप करें और सहेजें।
     psdImage.Crop(0, 500, 0, 200);
     psdImage.Save(outputFile);
 }
 
-// सहेजी गई छवि लोड करें और परिवर्तनों की जांच करें।
+// सहेजी गई इमेज लोड करें और बदलावों की जाँच करें।
 using (var psdImage = (PsdImage)Image.Load(outputFile))
 {
-    // वर्किंगपाथ रिसोर्स संसाधन खोजें।
+    // WorkingPathResource संसाधन खोजें।
     ResourceBlock[] imageResources = psdImage.ImageResources;
     WorkingPathResource workingPathResource = null;
     foreach (var imageResource in imageResources)
@@ -80,9 +81,9 @@ using (var psdImage = (PsdImage)Image.Load(outputFile))
 }
 ```
 
-### यह सभी देखें
+### देखें भी
 
-* नाम स्थान [Aspose.PSD.FileFormats.Core.VectorPaths](../../aspose.psd.fileformats.core.vectorpaths/)
-* सभा [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: RectangleProjectedShape.RectangleHeight
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: RectangleProjectedShape संपत्त. आयत ऊंचई प्रप्त करत है
+title: "RectangleProjectedShape.RectangleHeight"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "RectangleProjectedShape प्रॉपर्टी। आयत की ऊँचाई प्राप्त करता है"
 type: docs
 weight: 70
 url: /hi/net/aspose.psd.shapes/rectangleprojectedshape/rectangleheight/
 ---
+{{< psd/tize >}}
 ## RectangleProjectedShape.RectangleHeight property
 
-आयत ऊंचाई प्राप्त करता है।
+आयत की ऊँचाई को प्राप्त करता है।
 
 ```csharp
 public double RectangleHeight { get; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
 आयत की ऊँचाई।
 
-### यह सभी देखें
+### देखें भी
 
 * class [RectangleProjectedShape](../)
-* नाम स्थान [Aspose.PSD.Shapes](../../rectangleprojectedshape/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 

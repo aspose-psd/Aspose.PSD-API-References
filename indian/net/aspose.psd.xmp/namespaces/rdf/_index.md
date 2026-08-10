@@ -1,23 +1,24 @@
 ---
-title: Namespaces.Rdf
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Namespaces मैदन. रसर्स डेफनशन फ्रेमवर्क नेमस्पेस.
+title: "Namespaces.Rdf"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Namespaces फ़ील्ड। रिसोर्स डिफिनिशन फ्रेमवर्क नेमस्पेस"
 type: docs
 weight: 40
 url: /hi/net/aspose.psd.xmp/namespaces/rdf/
 ---
+{{< psd/tize >}}
 ## Namespaces.Rdf field
 
-रिसोर्स डेफिनिशन फ्रेमवर्क नेमस्पेस.
+रिसोर्स डिफिनिशन फ्रेमवर्क नेमस्पेस।
 
 ```csharp
 public const string Rdf;
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * class [Namespaces](../)
-* नाम स्थान [Aspose.PSD.Xmp](../../namespaces/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp](../../../aspose.psd.xmp/)
+* assembly [Aspose.PSD](../../../)
 
 

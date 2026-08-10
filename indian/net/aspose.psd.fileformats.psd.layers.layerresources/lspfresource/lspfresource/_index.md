@@ -1,72 +1,73 @@
 ---
-title: LspfResource.LspfResource
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: LspfResource नर्मत. क एक नय उदहरण प्ररंभ करत हैLspfResource वर्ग. कस्टम य अज्ञत मन के सथ
+title: "LspfResource.LspfResource"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "LspfResource कंस्ट्रक्टर। LspfResource क्लास का नया इंस्टेंस इनिशियलाइज़ करता है। कस्टम या अज्ञात मान के साथ"
 type: docs
 weight: 10
 url: /hi/net/aspose.psd.fileformats.psd.layers.layerresources/lspfresource/lspfresource/
 ---
+{{< psd/tize >}}
 ## LspfResource(byte[]) {#constructor_2}
 
-का एक नया उदाहरण प्रारंभ करता है[`LspfResource`](../) वर्ग. कस्टम या अज्ञात मान के साथ
+[`LspfResource`](../) क्लास का नया इंस्टेंस इनिशियलाइज़ करता है। कस्टम या अज्ञात मान के साथ
 
 ```csharp
 public LspfResource(byte[] data)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| data | Byte[] | संसाधन डेटा। |
+| डेटा | Byte[] | संसाधन डेटा। |
 
 ### अपवाद
 
-| अपवाद | स्थिति |
+| अपवाद | शर्त |
 | --- | --- |
-| [PsdImageArgumentException](../../../aspose.psd.coreexceptions.imageformats/psdimageargumentexception/) | अमान्य Lspf संसाधन डेटा लंबाई |
+| [PsdImageArgumentException](../../../aspose.psd.coreexceptions.imageformats/psdimageargumentexception/) | अमान्य Lspf रिसोर्स डेटा लंबाई |
 
-### यह सभी देखें
+### देखें भी
 
 * class [LspfResource](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../lspfresource/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## LspfResource(bool, bool, bool) {#constructor_1}
 
-का एक नया उदाहरण प्रारंभ करता है[`LspfResource`](../) वर्ग.
+[`LspfResource`](../) क्लास का नया इंस्टेंस इनिशियलाइज़ करता है।
 
 ```csharp
 public LspfResource(bool isTransparencyProtected, bool isCompositeProtected, 
     bool isPositionProtected)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| isTransparencyProtected | Boolean | अगर सेट है`सत्य` [पारदर्शिता संरक्षित है]। |
-| isCompositeProtected | Boolean | अगर सेट है`सत्य` [समग्र संरक्षित है]। |
-| isPositionProtected | Boolean | अगर सेट है`सत्य` [स्थिति संरक्षित है]। |
+| isTransparencyProtected | बूलियन | यदि `true` पर सेट किया गया है [पारदर्शिता संरक्षित है]। |
+| isCompositeProtected | बूलियन | यदि `true` पर सेट किया गया है [संयोजन संरक्षित है]। |
+| isPositionProtected | बूलियन | यदि `true` पर सेट किया गया है [स्थिति संरक्षित है]। |
 
-### यह सभी देखें
+### देखें भी
 
 * class [LspfResource](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../lspfresource/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## LspfResource() {#constructor}
 
-का एक नया उदाहरण प्रारंभ करता है[`LspfResource`](../) वर्ग.
+[`LspfResource`](../) क्लास का नया इंस्टेंस इनिशियलाइज़ करता है।
 
 ```csharp
 public LspfResource()
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * class [LspfResource](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../lspfresource/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

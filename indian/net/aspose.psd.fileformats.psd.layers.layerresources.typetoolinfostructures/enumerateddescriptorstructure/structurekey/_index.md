@@ -1,23 +1,24 @@
 ---
-title: EnumeratedDescriptorStructure.StructureKey
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: EnumeratedDescriptorStructure मैदन. प्रगणत ववरणक कुंज.
+title: "EnumeratedDescriptorStructure.StructureKey"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "EnumeratedDescriptorStructure फ़ील्ड। एनीमेटेड डिस्क्रिप्टर कुंजी"
 type: docs
 weight: 60
 url: /hi/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/enumerateddescriptorstructure/structurekey/
 ---
+{{< psd/tize >}}
 ## EnumeratedDescriptorStructure.StructureKey field
 
-प्रगणित विवरणक कुंजी.
+क्रमांकित डिस्क्रिप्टर कुंजी।
 
 ```csharp
 public const int StructureKey;
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * class [EnumeratedDescriptorStructure](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../enumerateddescriptorstructure/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 

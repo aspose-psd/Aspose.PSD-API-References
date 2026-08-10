@@ -1,11 +1,12 @@
 ---
-title: RawDataStructure.StructureKey
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: RawDataStructure मैदन. संरचन कुंज क पहचन करत है
+title: "RawDataStructure.StructureKey"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "RawDataStructure फ़ील्ड। स्ट्रक्चर कुंजी की पहचान करता है"
 type: docs
 weight: 50
 url: /hi/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/rawdatastructure/structurekey/
 ---
+{{< psd/tize >}}
 ## RawDataStructure.StructureKey field
 
 संरचना कुंजी की पहचान करता है।
@@ -14,10 +15,10 @@ url: /hi/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostruct
 public const int StructureKey;
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * class [RawDataStructure](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../rawdatastructure/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 

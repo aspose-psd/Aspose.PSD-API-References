@@ -1,27 +1,28 @@
 ---
-title: ResourceRef.AlternatePaths
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: ResourceRef संपत्त. वैकल्पक पथ क सरण प्रप्त य सेट करत है
+title: "ResourceRef.AlternatePaths"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "ResourceRef property. वैकल्पिक पथों की एरे प्राप्त करता है या सेट करता है"
 type: docs
 weight: 20
 url: /hi/net/aspose.psd.xmp.types.complex.resourceref/resourceref/alternatepaths/
 ---
+{{< psd/tize >}}
 ## ResourceRef.AlternatePaths property
 
-वैकल्पिक पथ की सरणी प्राप्त या सेट करता है।
+वैकल्पिक पथ की सरणी प्राप्त करता है या सेट करता है।
 
 ```csharp
 public string[] AlternatePaths { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-वैकल्पिक पथ की सरणी।
+वैकल्पिक पथों की एरे।
 
-### यह सभी देखें
+### देखें भी
 
 * class [ResourceRef](../)
-* नाम स्थान [Aspose.PSD.Xmp.Types.Complex.ResourceRef](../../resourceref/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Complex.ResourceRef](../../../aspose.psd.xmp.types.complex.resourceref/)
+* assembly [Aspose.PSD](../../../)
 
 

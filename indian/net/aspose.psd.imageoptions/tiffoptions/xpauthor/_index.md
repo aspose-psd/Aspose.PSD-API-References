@@ -1,27 +1,28 @@
 ---
-title: TiffOptions.XPAuthor
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: TiffOptions संपत्त. छव लेखक क प्रप्त य सेट करत है जसक उपयग वंडज एक्सप्लरर द्वर कय जत है
+title: "TiffOptions.XPAuthor"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "TiffOptions प्रॉपर्टी। इमेज लेखक को प्राप्त करता है या सेट करता है, जो Windows Explorer द्वारा उपयोग किया जाता है"
 type: docs
-weight: 590
+weight: 600
 url: /hi/net/aspose.psd.imageoptions/tiffoptions/xpauthor/
 ---
+{{< psd/tize >}}
 ## TiffOptions.XPAuthor property
 
-छवि लेखक को प्राप्त या सेट करता है, जिसका उपयोग विंडोज एक्सप्लोरर द्वारा किया जाता है।
+इमेज लेखक को प्राप्त करता है या सेट करता है, जिसे विंडोज़ एक्सप्लोरर द्वारा उपयोग किया जाता है।
 
 ```csharp
 public string XPAuthor { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-छवि लेखक, विंडोज एक्सप्लोरर द्वारा उपयोग किया जाता है। द`XPAuthor` Windows Explorer द्वारा अनदेखा किया जाता है यदि[`Artist`](../artist/) टैग मौजूद है।
+इमेज लेखक, Windows Explorer द्वारा उपयोग किया जाता है। यदि [`Artist`](../artist/) टैग मौजूद है तो Windows Explorer `XPAuthor` को अनदेखा करता है।
 
-### यह सभी देखें
+### देखें भी
 
 * class [TiffOptions](../)
-* नाम स्थान [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

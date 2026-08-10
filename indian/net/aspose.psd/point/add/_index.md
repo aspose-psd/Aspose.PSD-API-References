@@ -1,33 +1,34 @@
 ---
-title: Point.Add
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Point तरक. नर्दष्ट जड़त हैSize नर्दष्ट करने के लएPoint .
+title: "Point.Add"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Point मेथड। निर्दिष्ट Size को निर्दिष्ट Point में जोड़ता है"
 type: docs
 weight: 30
 url: /hi/net/aspose.psd/point/add/
 ---
+{{< psd/tize >}}
 ## Point.Add method
 
-निर्दिष्ट जोड़ता है[`Size`](../../size/) निर्दिष्ट करने के लिए[`Point`](../) .
+निर्दिष्ट [`Size`](../../size/) को निर्दिष्ट [`Point`](../) में जोड़ता है।
 
 ```csharp
 public static Point Add(Point point, Size size)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| point | Point | [`Point`](../) जोड़ने के लिए। |
-| size | Size | [`Size`](../../size/) जोड़ने के लिए*point*. |
+| point | Point | जिस [`Point`](../) में जोड़ना है। |
+| size | Size | यह [`Size`](../../size/) *point* में जोड़ने के लिए है। |
 
-### प्रतिलाभ की मात्रा
+### रिटर्न वैल्यू
 
-[`Point`](../) यह जोड़ क्रिया का परिणाम है।
+यह [`Point`](../) जोड़ संचालन का परिणाम है।
 
-### यह सभी देखें
+### देखें भी
 
 * struct [Size](../../size/)
 * struct [Point](../)
-* नाम स्थान [Aspose.PSD](../../point/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,27 +1,28 @@
 ---
-title: ExifData.LensMake
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: ExifData संपत्त. लेंस के नर्मत क प्रप्त य सेट करत है
+title: "ExifData.LensMake"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "ExifData प्रॉपर्टी। लेंस निर्माता को प्राप्त या सेट करता है"
 type: docs
 weight: 730
 url: /hi/net/aspose.psd.exif/exifdata/lensmake/
 ---
+{{< psd/tize >}}
 ## ExifData.LensMake property
 
-लेंस के निर्माता को प्राप्त या सेट करता है।
+लेंस निर्माता प्राप्त करता है या सेट करता है।
 
 ```csharp
 public string LensMake { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
 लेंस निर्माता।
 
-### यह सभी देखें
+### देखें भी
 
 * class [ExifData](../)
-* नाम स्थान [Aspose.PSD.Exif](../../exifdata/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

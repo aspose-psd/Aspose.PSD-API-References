@@ -1,23 +1,24 @@
 ---
-title: SmartObjectProvider.EmbedAllLinked
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: SmartObjectProvider तरक. इमेज में सभ लंक कए गए स्मर्ट ऑब्जेक्ट एम्बेड करत है.
+title: "SmartObjectProvider.EmbedAllLinked"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "SmartObjectProvider मेथड। इमेज में सभी लिंक्ड स्मार्ट ऑब्जेक्ट्स को एम्बेड करता है"
 type: docs
 weight: 20
 url: /hi/net/aspose.psd.fileformats.psd/smartobjectprovider/embedalllinked/
 ---
+{{< psd/tize >}}
 ## SmartObjectProvider.EmbedAllLinked method
 
-इमेज में सभी लिंक किए गए स्मार्ट ऑब्जेक्ट एम्बेड करता है.
+छवि में सभी लिंक्ड स्मार्ट ऑब्जेक्ट को एम्बेड करता है।
 
 ```csharp
 public void EmbedAllLinked()
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * class [SmartObjectProvider](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd](../../smartobjectprovider/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

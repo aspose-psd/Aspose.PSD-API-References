@@ -1,27 +1,28 @@
 ---
-title: StringFormat.DeepClone
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: StringFormat तरक. इसक एक गहर क्लन बनत हैStringFormat वस्तु.
+title: "StringFormat.DeepClone"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "StringFormat विधि। इस StringFormat ऑब्जेक्ट की एक डीप क्लोन बनाती है।"
 type: docs
-weight: 130
+weight: 140
 url: /hi/net/aspose.psd/stringformat/deepclone/
 ---
+{{< psd/tize >}}
 ## StringFormat.DeepClone method
 
-इसका एक गहरा क्लोन बनाता है[`StringFormat`](../) वस्तु.
+इस [`StringFormat`](../) ऑब्जेक्ट की एक डीप क्लोन बनाता है।
 
 ```csharp
 public StringFormat DeepClone()
 ```
 
-### प्रतिलाभ की मात्रा
+### रिटर्न वैल्यू
 
-करंट का गहरा क्लोन[`StringFormat`](../) .
+वर्तमान [`StringFormat`](../) की डीप क्लोन।
 
-### यह सभी देखें
+### देखें भी
 
 * class [StringFormat](../)
-* नाम स्थान [Aspose.PSD](../../stringformat/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

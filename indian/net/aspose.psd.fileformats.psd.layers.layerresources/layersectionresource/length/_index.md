@@ -1,23 +1,24 @@
 ---
-title: LayerSectionResource.Length
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: LayerSectionResource संपत्त. बइट्स में परत संसधन लंबई प्रप्त करत है
+title: "LayerSectionResource.Length"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "LayerSectionResource property. बाइट्स में लेयर रिसोर्स की लंबाई प्राप्त करता है"
 type: docs
-weight: 40
+weight: 30
 url: /hi/net/aspose.psd.fileformats.psd.layers.layerresources/layersectionresource/length/
 ---
+{{< psd/tize >}}
 ## LayerSectionResource.Length property
 
-बाइट्स में परत संसाधन लंबाई प्राप्त करता है।
+बाइट्स में लेयर रिसोर्स की लंबाई प्राप्त करता है।
 
 ```csharp
 public override int Length { get; }
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * class [LayerSectionResource](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../layersectionresource/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

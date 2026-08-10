@@ -1,27 +1,28 @@
 ---
-title: VectorShapeOriginSettings.IsOriginShapeBBoxPresent
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: VectorShapeOriginSettings संपत्त. एक मन प्रप्त करत है ज इंगत करत है क इस उदहरण में आयत संपत्त है य नहं
+title: "VectorShapeOriginSettings.IsOriginShapeBBoxPresent"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "VectorShapeOriginSettings प्रॉपर्टी। एक मान प्राप्त करता है जो दर्शाता है कि इस इंस्टेंस में आयत प्रॉपर्टी है या नहीं"
 type: docs
 weight: 60
 url: /hi/net/aspose.psd.fileformats.core.vectorpaths/vectorshapeoriginsettings/isoriginshapebboxpresent/
 ---
+{{< psd/tize >}}
 ## VectorShapeOriginSettings.IsOriginShapeBBoxPresent property
 
-एक मान प्राप्त करता है जो इंगित करता है कि इस उदाहरण में आयत संपत्ति है या नहीं।
+क्या इस उदाहरण में rectangle property है, यह दर्शाने वाला मान प्राप्त करता है।
 
 ```csharp
 public bool IsOriginShapeBBoxPresent { get; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-`सत्य` यदि इस उदाहरण में मूल आकृति आयत गुण है; अन्यथा,`असत्य` .
+`true` यदि इस इंस्टेंस में मूल शेप आयत प्रॉपर्टी है; अन्यथा, `false`।
 
-### यह सभी देखें
+### देखें भी
 
 * class [VectorShapeOriginSettings](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Core.VectorPaths](../../vectorshapeoriginsettings/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../../)
 
 

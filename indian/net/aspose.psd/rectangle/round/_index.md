@@ -1,32 +1,33 @@
 ---
-title: Rectangle.Round
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Rectangle तरक. नर्दष्ट क परवर्तत करत हैRectangleF एक के लएRectangle गल करकेRectangleF मनं क नकटतम पूर्णंक मन.
+title: "Rectangle.Round"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Rectangle मेथड। निर्दिष्ट RectangleF को Rectangle में परिवर्तित करता है, RectangleF मानों को निकटतम पूर्णांक मानों तक गोल करके।"
 type: docs
 weight: 80
 url: /hi/net/aspose.psd/rectangle/round/
 ---
+{{< psd/tize >}}
 ## Rectangle.Round method
 
-निर्दिष्ट को परिवर्तित करता है[`RectangleF`](../../rectanglef/) एक के लिए[`Rectangle`](../) गोल करके[`RectangleF`](../../rectanglef/) मानों को निकटतम पूर्णांक मान.
+निर्दिष्ट [`RectangleF`](../../rectanglef/) को [`Rectangle`](../) में परिवर्तित करता है, [`RectangleF`](../../rectanglef/) मानों को निकटतम पूर्णांक मानों तक गोल करके।
 
 ```csharp
 public static Rectangle Round(RectangleF value)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| value | RectangleF | [`RectangleF`](../../rectanglef/) परिवर्तित किया जाना है। |
+| value | RectangleF | परिवर्तित होने वाला [`RectangleF`](../../rectanglef/)। |
 
-### प्रतिलाभ की मात्रा
+### रिटर्न वैल्यू
 
-एक नया[`Rectangle`](../).
+एक नया [`Rectangle`](../)।
 
-### यह सभी देखें
+### देखें भी
 
 * struct [RectangleF](../../rectanglef/)
 * struct [Rectangle](../)
-* नाम स्थान [Aspose.PSD](../../rectangle/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,43 +1,44 @@
 ---
-title: Jpeg2000Options.Jpeg2000Options
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Jpeg2000Options नर्मत. क एक नय उदहरण प्ररंभ करत हैJpeg2000Options वर्ग.
+title: "Jpeg2000Options.Jpeg2000Options"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Jpeg2000Options कन्स्ट्रक्टर। Jpeg2000Options क्लास का एक नया इंस्टेंस इनिशियलाइज़ करता है"
 type: docs
 weight: 10
 url: /hi/net/aspose.psd.imageoptions/jpeg2000options/jpeg2000options/
 ---
+{{< psd/tize >}}
 ## Jpeg2000Options() {#constructor}
 
-का एक नया उदाहरण प्रारंभ करता है[`Jpeg2000Options`](../) वर्ग.
+`[`Jpeg2000Options`](../)` क्लास का एक नया इंस्टेंस इनिशियलाइज़ करता है।
 
 ```csharp
 public Jpeg2000Options()
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * class [Jpeg2000Options](../)
-* नाम स्थान [Aspose.PSD.ImageOptions](../../jpeg2000options/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## Jpeg2000Options(Jpeg2000Options) {#constructor_1}
 
-का एक नया उदाहरण प्रारंभ करता है[`Jpeg2000Options`](../) वर्ग.
+`[`Jpeg2000Options`](../)` क्लास का एक नया इंस्टेंस इनिशियलाइज़ करता है।
 
 ```csharp
 public Jpeg2000Options(Jpeg2000Options jpeg2000Options)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| jpeg2000Options | Jpeg2000Options | Jpeg2000 फ़ाइल स्वरूप विकल्प से सेटिंग कॉपी करने के लिए। |
+| jpeg2000Options | Jpeg2000Options | Jpeg2000 फ़ाइल फ़ॉर्मेट विकल्प जिनसे सेटिंग्स कॉपी की जाएँ। |
 
-### यह सभी देखें
+### देखें भी
 
 * class [Jpeg2000Options](../)
-* नाम स्थान [Aspose.PSD.ImageOptions](../../jpeg2000options/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

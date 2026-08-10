@@ -1,27 +1,28 @@
 ---
-title: RasterImage.ToBitmap
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: RasterImage तरक. रेखपुंज छव क बटमैप में परवर्तत करत है
+title: "RasterImage.ToBitmap"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "RasterImage method. रास्टर इमेज को बिटमैप में परिवर्तित करता है"
 type: docs
-weight: 580
+weight: 600
 url: /hi/net/aspose.psd/rasterimage/tobitmap/
 ---
+{{< psd/tize >}}
 ## RasterImage.ToBitmap method
 
-रेखापुंज छवि को बिटमैप में परिवर्तित करता है।
+रास्टर इमेज को बिटमैप में बदलता है।
 
 ```csharp
 public virtual Bitmap ToBitmap()
 ```
 
-### प्रतिलाभ की मात्रा
+### रिटर्न वैल्यू
 
 बिटमैप
 
-### यह सभी देखें
+### देखें भी
 
 * class [RasterImage](../)
-* नाम स्थान [Aspose.PSD](../../rasterimage/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

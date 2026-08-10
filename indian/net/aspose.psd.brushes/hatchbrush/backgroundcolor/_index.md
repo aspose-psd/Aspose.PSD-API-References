@@ -1,28 +1,29 @@
 ---
-title: HatchBrush.BackgroundColor
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: HatchBrush संपत्त. हैच लइनं के बच रक्त स्थन क रंग प्रप्त य सेट करत है
+title: "HatchBrush.BackgroundColor"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "HatchBrush प्रॉपर्टी। हैच लाइनों के बीच के स्पेस का रंग प्राप्त करता है या सेट करता है।"
 type: docs
 weight: 20
 url: /hi/net/aspose.psd.brushes/hatchbrush/backgroundcolor/
 ---
+{{< psd/tize >}}
 ## HatchBrush.BackgroundColor property
 
-हैच लाइनों के बीच रिक्त स्थान का रंग प्राप्त या सेट करता है।
+हैच लाइनों के बीच के अंतराल का रंग प्राप्त करता है या सेट करता है।
 
 ```csharp
 public Color BackgroundColor { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-हैच लाइनों के बीच रिक्त स्थान का रंग।
+हैच लाइनों के बीच के स्पेस का रंग।
 
-### यह सभी देखें
+### देखें भी
 
 * struct [Color](../../../aspose.psd/color/)
 * class [HatchBrush](../)
-* नाम स्थान [Aspose.PSD.Brushes](../../hatchbrush/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Brushes](../../../aspose.psd.brushes/)
+* assembly [Aspose.PSD](../../../)
 
 

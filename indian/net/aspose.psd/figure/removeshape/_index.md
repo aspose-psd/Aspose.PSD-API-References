@@ -1,28 +1,29 @@
 ---
-title: Figure.RemoveShape
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Figure तरक. आकृत से एक आकृत नकलत है
+title: "Figure.RemoveShape"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Figure मेथड। फ़िगर से एक आकार हटाता है"
 type: docs
 weight: 90
 url: /hi/net/aspose.psd/figure/removeshape/
 ---
+{{< psd/tize >}}
 ## Figure.RemoveShape method
 
-आकृति से एक आकृति निकालता है।
+आकृति से एक आकार हटाता है।
 
 ```csharp
 public void RemoveShape(Shape shape)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| shape | Shape | निकालने के लिए आकृति। |
+| आकार | आकार | हटाने के लिए आकार। |
 
-### यह सभी देखें
+### देखें भी
 
 * class [Shape](../../shape/)
 * class [Figure](../)
-* नाम स्थान [Aspose.PSD](../../figure/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

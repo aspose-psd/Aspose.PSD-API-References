@@ -1,23 +1,24 @@
 ---
-title: LinkResource.Signature
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: LinkResource संपत्त. PSD वैश्वक लंक संसधन हस्तक्षर प्रप्त करत है
+title: "LinkResource.Signature"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "LinkResource प्रॉपर्टी. PSD वैश्विक लिंक रिसोर्स सिग्नेचर प्राप्त करता है"
 type: docs
 weight: 60
 url: /hi/net/aspose.psd.fileformats.psd.layers.layerresources/linkresource/signature/
 ---
+{{< psd/tize >}}
 ## LinkResource.Signature property
 
-PSD वैश्विक लिंक संसाधन हस्ताक्षर प्राप्त करता है।
+PSD वैश्विक लिंक रिसोर्स सिग्नेचर प्राप्त करता है।
 
 ```csharp
 public override int Signature { get; }
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * class [LinkResource](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../linkresource/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

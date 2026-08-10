@@ -1,23 +1,24 @@
 ---
-title: InterruptMonitor.ThreadLocalInstance
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: InterruptMonitor संपत्त. इंटरप्टमनटर उदहरण प्रप्त य सेट करत है ज प्रत्येक थ्रेड के लए अद्वतय है
+title: "InterruptMonitor.ThreadLocalInstance"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "InterruptMonitor प्रॉपर्टी। प्रत्येक थ्रेड के लिए अद्वितीय InterruptMonitor इंस्टेंस को प्राप्त करता है या सेट करता है"
 type: docs
 weight: 20
 url: /hi/net/aspose.psd.multithreading/interruptmonitor/threadlocalinstance/
 ---
+{{< psd/tize >}}
 ## InterruptMonitor.ThreadLocalInstance property
 
-इंटरप्टमॉनिटर उदाहरण प्राप्त या सेट करता है जो प्रत्येक थ्रेड के लिए अद्वितीय है।
+प्रत्येक थ्रेड के लिए अद्वितीय InterruptMonitor इंस्टेंस को प्राप्त करता है या सेट करता है।
 
 ```csharp
 public static InterruptMonitor ThreadLocalInstance { get; set; }
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * class [InterruptMonitor](../)
-* नाम स्थान [Aspose.PSD.Multithreading](../../interruptmonitor/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Multithreading](../../../aspose.psd.multithreading/)
+* assembly [Aspose.PSD](../../../)
 
 

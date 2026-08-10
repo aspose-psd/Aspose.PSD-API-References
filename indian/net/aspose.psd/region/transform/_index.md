@@ -1,34 +1,35 @@
 ---
-title: Region.Transform
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Region तरक. इसे बदल देत हैRegion नर्दष्ट द्वरMatrix .
+title: "Region.Transform"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Region मेथड। निर्दिष्ट मैट्रिक्स द्वारा इस Region को परिवर्तित करता है"
 type: docs
-weight: 120
+weight: 130
 url: /hi/net/aspose.psd/region/transform/
 ---
+{{< psd/tize >}}
 ## Region.Transform method
 
-इसे बदल देता है[`Region`](../) निर्दिष्ट द्वारा[`Matrix`](../../matrix/) .
+निर्दिष्ट [`Matrix`](../../matrix/) द्वारा इस [`Region`](../) को परिवर्तित करता है।
 
 ```csharp
 public void Transform(Matrix matrix)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| matrix | Matrix | [`Matrix`](../../matrix/) जिससे इसे रूपांतरित किया जा सके[`Region`](../). |
+| matrix | Matrix | यह [`Region`](../) को परिवर्तित करने के लिए उपयोग किया जाने वाला [`Matrix`](../../matrix/)। |
 
 ### अपवाद
 
-| अपवाद | स्थिति |
+| अपवाद | शर्त |
 | --- | --- |
 | ArgumentNullException | *matrix* शून्य है। |
 
-### यह सभी देखें
+### देखें भी
 
 * class [Matrix](../../matrix/)
 * class [Region](../)
-* नाम स्थान [Aspose.PSD](../../region/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

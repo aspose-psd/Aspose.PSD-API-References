@@ -1,27 +1,28 @@
 ---
-title: IPlacedLayerResource.IsCustom
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: IPlacedLayerResource संपत्त. एक मन प्रप्त य सेट करत है ज इंगत करत है क क्य यह उदहरण तन शैल कस्टम है यद सह है त इसमें जल बंदु शमल हैं अगर असत्य पर सेट कय जत है त यह जल बंदुओं क मट देत है.
+title: "IPlacedLayerResource.IsCustom"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "IPlacedLayerResource प्रॉपर्टी। यह मान प्राप्त करता है या सेट करता है जो दर्शाता है कि यह इंस्टेंस वॉर्प स्टाइल कस्टम है या नहीं। यदि true है तो इसमें मेष बिंदु होते हैं। यदि false सेट किया जाता है तो मेष बिंदु मिटा दिए जाते हैं"
 type: docs
 weight: 60
 url: /hi/net/aspose.psd.fileformats.psd.layers.layerresources/iplacedlayerresource/iscustom/
 ---
+{{< psd/tize >}}
 ## IPlacedLayerResource.IsCustom property
 
-एक मान प्राप्त या सेट करता है जो इंगित करता है कि क्या यह उदाहरण ताना शैली कस्टम है। यदि सही है तो इसमें जाल बिंदु शामिल हैं। अगर असत्य पर सेट किया जाता है तो यह जाली बिंदुओं को मिटा देता है.
+इस उदाहरण के वार्प शैली कस्टम है या नहीं, यह दर्शाने वाला मान प्राप्त करता है या सेट करता है। यदि true है तो इसमें मेष बिंदु होते हैं। यदि false सेट किया जाता है तो मेष बिंदु मिटा दिए जाते हैं।
 
 ```csharp
 public bool IsCustom { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-`सत्य` यदि प्लेस्ड या स्मार्ट ऑब्जेक्ट लेयर रिसोर्स में कस्टम स्टाइल है; अन्यथा,`असत्य` .
+`true` यदि रखी गई या स्मार्ट ऑब्जेक्ट लेयर रिसोर्स में कस्टम स्टाइल है; अन्यथा, `false`।
 
-### यह सभी देखें
+### देखें भी
 
 * interface [IPlacedLayerResource](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../iplacedlayerresource/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

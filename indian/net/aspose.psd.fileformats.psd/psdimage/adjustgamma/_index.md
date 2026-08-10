@@ -1,49 +1,50 @@
 ---
-title: PsdImage.AdjustGamma
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: PsdImage तरक. गमएक छव क सुधर
+title: "PsdImage.AdjustGamma"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "PsdImage मेथड। छवि की गामा सुधार"
 type: docs
-weight: 460
+weight: 520
 url: /hi/net/aspose.psd.fileformats.psd/psdimage/adjustgamma/
 ---
+{{< psd/tize >}}
 ## AdjustGamma(float) {#adjustgamma}
 
-गामा-एक छवि का सुधार।
+छवि का गामा-करेक्शन।
 
 ```csharp
 public override void AdjustGamma(float gamma)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| gamma | Single | लाल, हरे और नीले चैनल गुणांक के लिए गामा |
+| गामा | Single | लाल, हरे और नीले चैनलों के लिए गामा गुणांक |
 
-### यह सभी देखें
+### देखें भी
 
 * class [PsdImage](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## AdjustGamma(float, float, float) {#adjustgamma_1}
 
-गामा-एक छवि का सुधार।
+छवि का गामा-करेक्शन।
 
 ```csharp
 public override void AdjustGamma(float gammaRed, float gammaGreen, float gammaBlue)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| gammaRed | Single | लाल चैनल गुणांक के लिए गामा |
-| gammaGreen | Single | ग्रीन चैनल गुणांक के लिए गामा |
-| gammaBlue | Single | ब्लू चैनल गुणांक के लिए गामा |
+| gammaRed | Single | लाल चैनल के लिए गामा गुणांक |
+| gammaGreen | Single | हरे चैनल के लिए गामा गुणांक |
+| gammaBlue | Single | नीले चैनल के लिए गामा गुणांक |
 
-### यह सभी देखें
+### देखें भी
 
 * class [PsdImage](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

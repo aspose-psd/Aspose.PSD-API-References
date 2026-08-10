@@ -1,23 +1,24 @@
 ---
-title: Size.IsEmpty
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Size संपत्त. यह इंगत करने वल मन प्रप्त करत है क क्य यहSize चड़ई और ऊंचई 0. है
+title: "Size.IsEmpty"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Size प्रॉपर्टी। यह दर्शाने वाला मान प्राप्त करता है कि इस Size की चौड़ाई और ऊँचाई 0 है या नहीं"
 type: docs
 weight: 90
 url: /hi/net/aspose.psd/size/isempty/
 ---
+{{< psd/tize >}}
 ## Size.IsEmpty property
 
-यह इंगित करने वाला मान प्राप्त करता है कि क्या यह[`Size`](../) चौड़ाई और ऊंचाई 0. है
+यह प्राप्त करता है वह मान जो दर्शाता है कि यह [`Size`](../) की चौड़ाई और ऊँचाई 0 है या नहीं।
 
 ```csharp
 public bool IsEmpty { get; }
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * struct [Size](../)
-* नाम स्थान [Aspose.PSD](../../size/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

@@ -1,35 +1,36 @@
 ---
-title: Class FileSource
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Aspose.PSD.Sources.FileSource कक्ष. एक फ़इल स्रत क प्रतनधत्व करत है ज फ़इलं में हेरफेर करने में सक्षम है
+title: "क्लास FileSource"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Aspose.PSD.Sources.FileSource क्लास। फ़ाइलों के हेरफेर में सक्षम फ़ाइल स्रोत का प्रतिनिधित्व करता है"
 type: docs
-weight: 5610
+weight: 6110
 url: /hi/net/aspose.psd.sources/filesource/
 ---
+{{< psd/tize >}}
 ## FileSource class
 
-एक फ़ाइल स्रोत का प्रतिनिधित्व करता है जो फ़ाइलों में हेरफेर करने में सक्षम है।
+फ़ाइलों के हेरफेर में सक्षम फ़ाइल स्रोत को दर्शाता है।
 
 ```csharp
 public abstract class FileSource : Source
 ```
 
-## गुण
+## प्रॉपर्टीज़
 
 | नाम | विवरण |
 | --- | --- |
-| abstract [IsTemporal](../../aspose.psd.sources/filesource/istemporal/) { get; } | यह इंगित करने वाला मान प्राप्त करता है कि फ़ाइल अस्थायी होगी या नहीं। |
+| abstract [IsTemporal](../../aspose.psd.sources/filesource/istemporal/) { get; } | फ़ाइल अस्थायी होगी या नहीं, यह दर्शाने वाला मान प्राप्त करता है। |
 
-## तरीकों
+## मेथड्स
 
 | नाम | विवरण |
 | --- | --- |
 | abstract [GetStreamContainer](../../aspose.psd/source/getstreamcontainer/)() | स्ट्रीम कंटेनर प्राप्त करता है। |
 
-### यह सभी देखें
+### देखें भी
 
 * class [Source](../../aspose.psd/source/)
-* नाम स्थान [Aspose.PSD.Sources](../../aspose.psd.sources/)
-* सभा [Aspose.PSD](../../)
+* namespace [Aspose.PSD.Sources](../../aspose.psd.sources/)
+* assembly [Aspose.PSD](../../)
 
 

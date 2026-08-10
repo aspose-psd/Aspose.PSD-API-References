@@ -1,14 +1,15 @@
 ---
-title: Enum TiffAlphaStorage
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Aspose.PSD.FileFormats.Tiff.Enums.TiffAlphaStorage एनुम. टफ दस्तवेजं के लए अल्फ स्टरेज नर्दष्ट करत है
+title: "एनम TiffAlphaStorage"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Aspose.PSD.FileFormats.Tiff.Enums.TiffAlphaStorage एनम। tiff दस्तावेज़ों के लिए अल्फा संग्रहण निर्दिष्ट करता है"
 type: docs
-weight: 4030
+weight: 4500
 url: /hi/net/aspose.psd.fileformats.tiff.enums/tiffalphastorage/
 ---
+{{< psd/tize >}}
 ## TiffAlphaStorage enumeration
 
-टिफ दस्तावेजों के लिए अल्फा स्टोरेज निर्दिष्ट करता है।
+tiff दस्तावेज़ों के लिए अल्फा स्टोरेज निर्दिष्ट करता है।
 
 ```csharp
 public enum TiffAlphaStorage : ushort
@@ -16,15 +17,15 @@ public enum TiffAlphaStorage : ushort
 
 ### मान
 
-| नाम | कीमत | विवरण |
+| नाम | मान | विवरण |
 | --- | --- | --- |
-| Unspecified | `0` | अल्फा निर्दिष्ट नहीं है और टिफ़ फ़ाइल में संग्रहीत है। |
-| Associated | `1` | अल्फा मान पूर्वगुणित रूप में संग्रहीत किया जाता है। जब अल्फ़ा को पुनर्स्थापित किया जाता है तो कुछ राउंडिंग प्रभाव हो सकते हैं और पुनर्स्थापित मान मूल से भिन्न हो सकता है। |
-| Unassociated | `2` | अल्फा मान असंबद्ध रूप में संग्रहित है। इसका मतलब है कि अल्फा रिस्टोर बिल्कुल वैसा ही है जैसा कि इसे टिफ में स्टोर किया गया था। |
+| Unspecified | `0` | अल्फा निर्दिष्ट नहीं है और tiff फ़ाइल में संग्रहीत है। |
+| Associated | `1` | अल्फा मान प्री‑मल्टिप्लाइड रूप में संग्रहीत है। जब अल्फा को पुनर्स्थापित किया जाता है तो कुछ राउंडिंग प्रभाव हो सकते हैं और पुनर्स्थापित मान मूल से अलग हो सकता है। |
+| Unassociated | `2` | अल्फा मान अनएसोसिएटेड रूप में संग्रहीत है। इसका मतलब है कि पुनर्स्थापित अल्फा बिल्कुल वही है जैसा कि वह tiff में संग्रहीत था। |
 
-### यह सभी देखें
+### देखें भी
 
-* नाम स्थान [Aspose.PSD.FileFormats.Tiff.Enums](../../aspose.psd.fileformats.tiff.enums/)
-* सभा [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Tiff.Enums](../../aspose.psd.fileformats.tiff.enums/)
+* assembly [Aspose.PSD](../../)
 
 

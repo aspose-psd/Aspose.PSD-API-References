@@ -1,24 +1,25 @@
 ---
-title: VstkResource.StrokeStyleLineJoinType
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: VstkResource संपत्त. स्ट्रक स्टइल लइन ज्वइन टइप प्रप्त य सेट करत है
+title: "VstkResource.StrokeStyleLineJoinType"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "VstkResource प्रॉपर्टी। स्ट्रोक शैली लाइन जॉइन प्रकार प्राप्त करता है या सेट करता है"
 type: docs
-weight: 150
+weight: 130
 url: /hi/net/aspose.psd.fileformats.psd.layers.layerresources.strokeresources/vstkresource/strokestylelinejointype/
 ---
+{{< psd/tize >}}
 ## VstkResource.StrokeStyleLineJoinType property
 
-स्ट्रोक स्टाइल लाइन ज्वाइन टाइप प्राप्त या सेट करता है।
+स्ट्रोक स्टाइल लाइन जॉइन प्रकार प्राप्त करता या सेट करता है।
 
 ```csharp
 public LineJoinType StrokeStyleLineJoinType { get; set; }
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * enum [LineJoinType](../../linejointype/)
 * class [VstkResource](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.StrokeResources](../../vstkresource/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.StrokeResources](../../../aspose.psd.fileformats.psd.layers.layerresources.strokeresources/)
+* assembly [Aspose.PSD](../../../)
 
 

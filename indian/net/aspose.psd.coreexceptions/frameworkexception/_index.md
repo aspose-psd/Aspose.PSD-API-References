@@ -1,14 +1,15 @@
 ---
-title: Class FrameworkException
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Aspose.PSD.CoreExceptions.FrameworkException कक्ष. PSD फ्रेमवर्क अपवद यह वर्ग सभ Aspose.PSD अपवदं के लए एक मुख्य वर्ग है
+title: "क्लास FrameworkException"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Aspose.PSD.CoreExceptions.FrameworkException क्लास। PSD फ्रेमवर्क अपवाद। यह क्लास सभी Aspose.PSD अपवादों के लिए एक मूल क्लास है। Aspose.PSD इंजन द्वारा फेंके गए अपवादों और अन्य सभी अपवाद प्रकारों के बीच अंतर करने के लिए प्रस्तुत किया गया है।"
 type: docs
 weight: 480
 url: /hi/net/aspose.psd.coreexceptions/frameworkexception/
 ---
+{{< psd/tize >}}
 ## FrameworkException class
 
-PSD फ्रेमवर्क अपवाद। यह वर्ग सभी Aspose.PSD अपवादों के लिए एक मुख्य वर्ग है।
+PSD फ्रेमवर्क अपवाद। यह क्लास सभी Aspose.PSD अपवादों के लिए एक कोर क्लास है। यह Aspose.PSD इंजन द्वारा फेंके गए अपवादों और अन्य सभी अपवाद प्रकारों के बीच अंतर करने के लिए प्रस्तुत किया गया है।
 
 ```csharp
 public class FrameworkException : Exception
@@ -18,12 +19,12 @@ public class FrameworkException : Exception
 
 | नाम | विवरण |
 | --- | --- |
-| [FrameworkException](frameworkexception/#constructor)(string) | का एक नया उदाहरण प्रारंभ करता है`FrameworkException` वर्ग. |
-| [FrameworkException](frameworkexception/#constructor_1)(string, Exception) | का एक नया उदाहरण प्रारंभ करता है`FrameworkException` वर्ग. |
+| [FrameworkException](frameworkexception/#constructor)(string) | नया `FrameworkException` क्लास का उदाहरण प्रारंभ करता है। |
+| [FrameworkException](frameworkexception/#constructor_1)(string, Exception) | नया `FrameworkException` क्लास का उदाहरण प्रारंभ करता है। |
 
-### यह सभी देखें
+### देखें भी
 
-* नाम स्थान [Aspose.PSD.CoreExceptions](../../aspose.psd.coreexceptions/)
-* सभा [Aspose.PSD](../../)
+* namespace [Aspose.PSD.CoreExceptions](../../aspose.psd.coreexceptions/)
+* assembly [Aspose.PSD](../../)
 
 

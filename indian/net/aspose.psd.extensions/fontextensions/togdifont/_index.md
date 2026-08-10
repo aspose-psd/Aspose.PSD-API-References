@@ -1,58 +1,59 @@
 ---
-title: FontExtensions.ToGdiFont
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: FontExtensions तरक. परवर्तत करत हैFont तकFont .
+title: "FontExtensions.ToGdiFont"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "FontExtensions मेथड। Font को Font में परिवर्तित करता है।"
 type: docs
 weight: 10
 url: /hi/net/aspose.psd.extensions/fontextensions/togdifont/
 ---
+{{< psd/tize >}}
 ## ToGdiFont(Font) {#togdifont}
 
-परिवर्तित करता है[`Font`](../../../aspose.psd/font/) तकFont .
+[`Font`](../../../aspose.psd/font/) को Font में परिवर्तित करता है।
 
 ```csharp
 public static Font ToGdiFont(Font font)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| font | Font | [`Font`](../../../aspose.psd/font/) रूपान्तरण करने के लिए। |
+| font | Font | परिवर्तित करने के लिए [`Font`](../../../aspose.psd/font/)। |
 
-### प्रतिलाभ की मात्रा
+### रिटर्न वैल्यू
 
-परिवर्तितFont.
+परिवर्तित Font।
 
-### यह सभी देखें
+### देखें भी
 
 * class [Font](../../../aspose.psd/font/)
 * class [FontExtensions](../)
-* नाम स्थान [Aspose.PSD.Extensions](../../fontextensions/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Extensions](../../../aspose.psd.extensions/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## ToGdiFont(Font, GraphicsUnit) {#togdifont_1}
 
-परिवर्तित करता है[`Font`](../../../aspose.psd/font/) तकFont .
+[`Font`](../../../aspose.psd/font/) को Font में परिवर्तित करता है।
 
 ```csharp
 public static Font ToGdiFont(Font font, GraphicsUnit fontUnit)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| font | Font | [`Font`](../../../aspose.psd/font/) रूपान्तरण करने के लिए। |
-| fontUnit | GraphicsUnit | नई ग्राफिक्स इकाई |
+| font | Font | परिवर्तित करने के लिए [`Font`](../../../aspose.psd/font/)। |
+| fontUnit | GraphicsUnit | नया ग्राफ़िक्स यूनिट |
 
-### प्रतिलाभ की मात्रा
+### रिटर्न वैल्यू
 
-परिवर्तितFont.
+परिवर्तित Font।
 
-### यह सभी देखें
+### देखें भी
 
 * class [Font](../../../aspose.psd/font/)
 * class [FontExtensions](../)
-* नाम स्थान [Aspose.PSD.Extensions](../../fontextensions/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Extensions](../../../aspose.psd.extensions/)
+* assembly [Aspose.PSD](../../../)
 
 

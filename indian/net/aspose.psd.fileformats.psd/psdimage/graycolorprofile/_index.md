@@ -1,28 +1,29 @@
 ---
-title: PsdImage.GrayColorProfile
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: PsdImage संपत्त. ग्रेस्केल PSD छवयं के लए ग्रे मनक्रम रंग प्रफ़इल प्रप्त य सेट करत है
+title: "PsdImage.GrayColorProfile"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "PsdImage प्रॉपर्टी। ग्रेस्केल PSD छवियों के लिए GRAY मोनोक्रोम कलर प्रोफ़ाइल को प्राप्त करता है या सेट करता है"
 type: docs
 weight: 130
 url: /hi/net/aspose.psd.fileformats.psd/psdimage/graycolorprofile/
 ---
+{{< psd/tize >}}
 ## PsdImage.GrayColorProfile property
 
-ग्रेस्केल PSD छवियों के लिए ग्रे (मोनोक्रोम) रंग प्रोफ़ाइल प्राप्त या सेट करता है।
+ग्रेस्केल PSD इमेजों के लिए GRAY (मोनोक्रोम) कलर प्रोफ़ाइल को प्राप्त करता है या सेट करता है।
 
 ```csharp
 public StreamSource GrayColorProfile { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-ग्रे (मोनोक्रोम) रंग प्रोफ़ाइल।
+GRAY (मोनोक्रोम) कलर प्रोफ़ाइल।
 
-### यह सभी देखें
+### देखें भी
 
 * class [StreamSource](../../../aspose.psd.sources/streamsource/)
 * class [PsdImage](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd](../../psdimage/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd](../../../aspose.psd.fileformats.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

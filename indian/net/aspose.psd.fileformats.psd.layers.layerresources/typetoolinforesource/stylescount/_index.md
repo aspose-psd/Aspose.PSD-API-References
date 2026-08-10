@@ -1,23 +1,24 @@
 ---
-title: TypeToolInfoResource.StylesCount
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: TypeToolInfoResource संपत्त. शैलयं क गणन करत है
+title: "TypeToolInfoResource.StylesCount"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "TypeToolInfoResource प्रॉपर्टी। शैलियों की गणना प्राप्त करता है"
 type: docs
-weight: 220
+weight: 190
 url: /hi/net/aspose.psd.fileformats.psd.layers.layerresources/typetoolinforesource/stylescount/
 ---
+{{< psd/tize >}}
 ## TypeToolInfoResource.StylesCount property
 
-शैलियों की गणना करता है।
+शैलियों की गिनती प्राप्त करता है।
 
 ```csharp
 public short StylesCount { get; }
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * class [TypeToolInfoResource](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../typetoolinforesource/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

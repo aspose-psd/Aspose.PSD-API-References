@@ -1,32 +1,33 @@
 ---
-title: TiffOptions.RemoveTag
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: TiffOptions तरक. टैग नकलत है.
+title: "TiffOptions.RemoveTag"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "TiffOptions मेथड। टैग को हटाता है।"
 type: docs
-weight: 740
+weight: 750
 url: /hi/net/aspose.psd.imageoptions/tiffoptions/removetag/
 ---
+{{< psd/tize >}}
 ## TiffOptions.RemoveTag method
 
-टैग निकालता है.
+टैग को हटाता है।
 
 ```csharp
 public bool RemoveTag(TiffTags tag)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| tag | TiffTags | हटाने के लिए टैग. |
+| टैग | TiffTags | हटाने के लिए टैग। |
 
-### प्रतिलाभ की मात्रा
+### रिटर्न वैल्यू
 
-सच है अगर सफलतापूर्वक हटा दिया गया है
+यदि सफलतापूर्वक हटाया गया हो तो true
 
-### यह सभी देखें
+### देखें भी
 
 * enum [TiffTags](../../../aspose.psd.fileformats.tiff.enums/tifftags/)
 * class [TiffOptions](../)
-* नाम स्थान [Aspose.PSD.ImageOptions](../../tiffoptions/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageOptions](../../../aspose.psd.imageoptions/)
+* assembly [Aspose.PSD](../../../)
 
 

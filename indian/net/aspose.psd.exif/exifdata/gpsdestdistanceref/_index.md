@@ -1,27 +1,28 @@
 ---
-title: ExifData.GPSDestDistanceRef
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: ExifData संपत्त. गंतव्य बंदु तक दूर क व्यक्त करने के लए उपयग क जने वल जपएस इकई क प्रप्त य सेट करत है
+title: "ExifData.GPSDestDistanceRef"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "ExifData प्रॉपर्टी. गंतव्य बिंदु तक की दूरी व्यक्त करने के लिए उपयोग किए जाने वाले GPS इकाई को प्राप्त करता है या सेट करता है"
 type: docs
 weight: 430
 url: /hi/net/aspose.psd.exif/exifdata/gpsdestdistanceref/
 ---
+{{< psd/tize >}}
 ## ExifData.GPSDestDistanceRef property
 
-गंतव्य बिंदु तक दूरी को व्यक्त करने के लिए उपयोग की जाने वाली जीपीएस इकाई को प्राप्त या सेट करता है।
+गंतव्य बिंदु तक की दूरी व्यक्त करने के लिए उपयोग किए जाने वाले GPS इकाई को प्राप्त करता है या सेट करता है।
 
 ```csharp
 public string GPSDestDistanceRef { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-जीपीएस इकाई का उपयोग गंतव्य बिंदु की दूरी को व्यक्त करने के लिए किया जाता है।
+गंतव्य बिंदु तक की दूरी व्यक्त करने के लिए उपयोग किया गया GPS इकाई।
 
-### यह सभी देखें
+### देखें भी
 
 * class [ExifData](../)
-* नाम स्थान [Aspose.PSD.Exif](../../exifdata/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Exif](../../../aspose.psd.exif/)
+* assembly [Aspose.PSD](../../../)
 
 

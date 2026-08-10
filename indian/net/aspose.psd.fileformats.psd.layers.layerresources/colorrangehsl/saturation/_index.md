@@ -1,27 +1,28 @@
 ---
-title: ColorRangeHsl.Saturation
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: ColorRangeHsl संपत्त. संतृप्त प्रप्त य सेट करत है
+title: "ColorRangeHsl.Saturation"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "ColorRangeHsl प्रॉपर्टी। संतृप्ति को प्राप्त करता है या सेट करता है"
 type: docs
 weight: 80
 url: /hi/net/aspose.psd.fileformats.psd.layers.layerresources/colorrangehsl/saturation/
 ---
+{{< psd/tize >}}
 ## ColorRangeHsl.Saturation property
 
-संतृप्ति प्राप्त या सेट करता है।
+सैचुरेशन प्राप्त करता है या सेट करता है।
 
 ```csharp
 public short Saturation { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
 संतृप्ति।
 
-### यह सभी देखें
+### देखें भी
 
 * class [ColorRangeHsl](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../colorrangehsl/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

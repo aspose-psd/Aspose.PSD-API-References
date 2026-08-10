@@ -1,32 +1,33 @@
 ---
-title: SizeF.op_Inequality
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: SizeF तरक. परक्षण करत है क क्य द हैंSizeF संरचनएं भन्न हैं.
+title: "SizeF.op_Inequality"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "SizeF मेथड। दो SizeF संरचनाएँ अलग हैं या नहीं, परीक्षण करता है।"
 type: docs
 weight: 160
 url: /hi/net/aspose.psd/sizef/op_inequality/
 ---
+{{< psd/tize >}}
 ## SizeF Inequality operator
 
-परीक्षण करता है कि क्या दो हैं[`SizeF`](../) संरचनाएं भिन्न हैं.
+परीक्षण करता है कि दो [`SizeF`](../) संरचनाएँ अलग हैं या नहीं।
 
 ```csharp
 public static bool operator !=(SizeF size1, SizeF size2)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| size1 | SizeF | [`SizeF`](../) असमानता ऑपरेटर के बाईं ओर संरचना। |
-| size2 | SizeF | [`SizeF`](../) असमानता ऑपरेटर के अधिकार पर संरचना। |
+| size1 | SizeF | असमानता ऑपरेटर के बाएँ पक्ष में स्थित [`SizeF`](../) संरचना। |
+| size2 | SizeF | असमानता ऑपरेटर के दाएँ पक्ष में स्थित [`SizeF`](../) संरचना। |
 
-### प्रतिलाभ की मात्रा
+### रिटर्न वैल्यू
 
-यह ऑपरेटर सत्य लौटाता है यदि*size1* और*size2* चौड़ाई या ऊंचाई में भिन्न; झूठा अगर*size1* और*size2* बराबर हैं।
+यदि *size1* और *size2* की चौड़ाई या ऊँचाई में अंतर है तो यह ऑपरेटर true लौटाता है; यदि *size1* और *size2* समान हैं तो false लौटाता है।
 
-### यह सभी देखें
+### देखें भी
 
 * struct [SizeF](../)
-* नाम स्थान [Aspose.PSD](../../sizef/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

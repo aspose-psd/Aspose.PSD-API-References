@@ -1,31 +1,32 @@
 ---
-title: RectangleF.IntersectsWith
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: RectangleF तरक. नर्धरत करत है क क्य यह आयत कसके सथ प्रतच्छेद करत हैrect .
+title: "RectangleF.IntersectsWith"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "RectangleF मेथड। निर्धारित करता है कि यह आयत rect के साथ प्रतिच्छेद करती है या नहीं।"
 type: docs
 weight: 220
 url: /hi/net/aspose.psd/rectanglef/intersectswith/
 ---
+{{< psd/tize >}}
 ## RectangleF.IntersectsWith method
 
-निर्धारित करता है कि क्या यह आयत किसके साथ प्रतिच्छेद करती है*rect* .
+निर्धारित करता है कि यह आयत *rect* के साथ प्रतिच्छेद करती है या नहीं।
 
 ```csharp
 public bool IntersectsWith(RectangleF rect)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
 | rect | RectangleF | परीक्षण करने के लिए आयत। |
 
-### प्रतिलाभ की मात्रा
+### रिटर्न वैल्यू
 
-यदि कोई चौराहा है तो यह विधि सही हो जाती है।
+यदि कोई प्रतिच्छेद हो तो यह मेथड true लौटाता है।
 
-### यह सभी देखें
+### देखें भी
 
 * struct [RectangleF](../)
-* नाम स्थान [Aspose.PSD](../../rectanglef/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

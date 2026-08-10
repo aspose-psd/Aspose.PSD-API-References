@@ -1,28 +1,29 @@
 ---
-title: LinkDataSource.Type
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: LinkDataSource संपत्त. Adobe Photoshop वैश्वक लंक डेट स्रत प्रकर प्रप्त करत है ज नम्न में से एक य कई नहं ह सकत है एम्बेड क गई लंक क गई फ़इल liFD ज क PSD Lnk2Resource के अनुरूप है बहर लंक क गई फ़इल liFE ज PSD LnkeResource लंक क गई फ़इल उपनम liFA से मेल खत है
+title: "LinkDataSource.Type"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "LinkDataSource प्रॉपर्टी। यह Adobe Photoshop ग्लोबल लिंक डेटा स्रोत प्रकार को प्राप्त करता है, जो निम्नलिखित में से कोई एक या कोई नहीं हो सकता है: PSD Lnk2Resource से संबंधित एम्बेडेड लिंक्ड फ़ाइल liFD, PSD LnkeResource से संबंधित एक्सटर्नल लिंक्ड फ़ाइल liFE, लिंक्ड फ़ाइल उपनाम liFA।"
 type: docs
 weight: 120
 url: /hi/net/aspose.psd.fileformats.psd.layers.layerresources/linkdatasource/type/
 ---
+{{< psd/tize >}}
 ## LinkDataSource.Type property
 
-Adobe® Photoshop® वैश्विक लिंक डेटा स्रोत प्रकार प्राप्त करता है जो निम्न में से एक या कोई नहीं हो सकता है: एम्बेड की गई लिंक की गई फ़ाइल liFD जो कि PSD Lnk2Resource के अनुरूप है बाहरी लिंक की गई फ़ाइल liFE जो PSD LnkeResource लिंक की गई फ़ाइल उपनाम liFA से मेल खाती है
+Adobe® Photoshop® ग्लोबल लिंक डेटा स्रोत प्रकार प्राप्त करता है जो निम्नलिखित में से एक हो सकता है या कोई नहीं: PSD Lnk2Resource से संबंधित एम्बेडेड लिंक्ड फ़ाइल liFD, PSD LnkeResource से संबंधित बाहरी लिंक्ड फ़ाइल liFE, लिंक्ड फ़ाइल उपनाम liFA।
 
 ```csharp
 public LinkDataSourceType Type { get; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-PSD लिंक डेटा स्रोत प्रकार.
+PSD लिंक डेटा स्रोत प्रकार।
 
-### यह सभी देखें
+### देखें भी
 
 * enum [LinkDataSourceType](../../linkdatasourcetype/)
 * class [LinkDataSource](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../linkdatasource/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

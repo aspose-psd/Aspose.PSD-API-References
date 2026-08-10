@@ -1,70 +1,71 @@
 ---
-title: XmpBoolean.XmpBoolean
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: XmpBoolean नर्मत. क एक नय उदहरण प्ररंभ करत हैXmpBoolean बूलयन मन पर आधरत वर्ग
+title: "XmpBoolean.XmpBoolean"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "XmpBoolean कन्स्ट्रक्टर। बूलियन मान के आधार पर XmpBoolean क्लास का नया उदाहरण आरंभ करता है।"
 type: docs
 weight: 10
 url: /hi/net/aspose.psd.xmp.types.basic/xmpboolean/xmpboolean/
 ---
+{{< psd/tize >}}
 ## XmpBoolean(bool) {#constructor_1}
 
-का एक नया उदाहरण प्रारंभ करता है[`XmpBoolean`](../) बूलियन मान पर आधारित वर्ग।
+बूलियन मान के आधार पर [`XmpBoolean`](../) क्लास का नया उदाहरण आरंभ करता है।
 
 ```csharp
 public XmpBoolean(bool value)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| value | Boolean | बूलियन मान। अनुमत मान सही या गलत हैं। |
+| मान | बूलियन | बूलियन मान। अनुमत मान True या False हैं। |
 
-### यह सभी देखें
+### देखें भी
 
 * class [XmpBoolean](../)
-* नाम स्थान [Aspose.PSD.Xmp.Types.Basic](../../xmpboolean/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Basic](../../../aspose.psd.xmp.types.basic/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## XmpBoolean() {#constructor}
 
-का एक नया उदाहरण प्रारंभ करता है[`XmpBoolean`](../) वर्ग डिफ़ॉल्ट मान के साथ.
+डिफ़ॉल्ट मान के साथ [`XmpBoolean`](../) क्लास का नया उदाहरण आरंभ करता है।
 
 ```csharp
 public XmpBoolean()
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * class [XmpBoolean](../)
-* नाम स्थान [Aspose.PSD.Xmp.Types.Basic](../../xmpboolean/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Basic](../../../aspose.psd.xmp.types.basic/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## XmpBoolean(string) {#constructor_2}
 
-का एक नया उदाहरण प्रारंभ करता है[`XmpBoolean`](../) वर्ग.
+[`XmpBoolean`](../) क्लास का नया उदाहरण आरंभ करता है।
 
 ```csharp
 public XmpBoolean(string value)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| value | String | मूल्य। |
+| मान | String | मान। |
 
 ### अपवाद
 
-| अपवाद | स्थिति |
+| अपवाद | शर्त |
 | --- | --- |
-| ArgumentNullException | कीमत |
-| ArgumentException | अमान्य स्ट्रिंग मान; मान |
+| ArgumentNullException | मान |
+| ArgumentException | अमान्य स्ट्रिंग मान;value |
 
-### यह सभी देखें
+### देखें भी
 
 * class [XmpBoolean](../)
-* नाम स्थान [Aspose.PSD.Xmp.Types.Basic](../../xmpboolean/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Xmp.Types.Basic](../../../aspose.psd.xmp.types.basic/)
+* assembly [Aspose.PSD](../../../)
 
 

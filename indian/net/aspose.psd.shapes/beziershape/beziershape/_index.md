@@ -1,66 +1,67 @@
 ---
-title: BezierShape.BezierShape
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: BezierShape नर्मत. क एक नय उदहरण प्ररंभ करत हैBezierShape वर्ग.
+title: "BezierShape.BezierShape"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "BezierShape कंस्ट्रक्टर। BezierShape क्लास का एक नया इंस्टेंस इनिशियलाइज़ करता है।"
 type: docs
 weight: 10
 url: /hi/net/aspose.psd.shapes/beziershape/beziershape/
 ---
+{{< psd/tize >}}
 ## BezierShape() {#constructor}
 
-का एक नया उदाहरण प्रारंभ करता है[`BezierShape`](../) वर्ग.
+[`BezierShape`](../) क्लास का एक नया इंस्टेंस इनिशियलाइज़ करता है।
 
 ```csharp
 public BezierShape()
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * class [BezierShape](../)
-* नाम स्थान [Aspose.PSD.Shapes](../../beziershape/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## BezierShape(PointF[]) {#constructor_1}
 
-का एक नया उदाहरण प्रारंभ करता है[`BezierShape`](../) वर्ग.
+[`BezierShape`](../) क्लास का एक नया इंस्टेंस इनिशियलाइज़ करता है।
 
 ```csharp
 public BezierShape(PointF[] points)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| points | PointF[] | अंक सरणी। |
+| बिंदु | PointF[] | बिंदुओं की सरणी। |
 
-### यह सभी देखें
+### देखें भी
 
 * struct [PointF](../../../aspose.psd/pointf/)
 * class [BezierShape](../)
-* नाम स्थान [Aspose.PSD.Shapes](../../beziershape/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 ---
 
 ## BezierShape(PointF[], bool) {#constructor_2}
 
-का एक नया उदाहरण प्रारंभ करता है[`BezierShape`](../) वर्ग.
+[`BezierShape`](../) क्लास का एक नया इंस्टेंस इनिशियलाइज़ करता है।
 
 ```csharp
 public BezierShape(PointF[] points, bool isClosed)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| points | PointF[] | अंक सरणी। |
-| isClosed | Boolean | अगर सेट है`सत्य` बेज़ियर स्पलाइन बंद है। |
+| बिंदु | PointF[] | बिंदुओं की सरणी। |
+| isClosed | बूलियन | `true` सेट होने पर बीज़ियर स्प्लाइन बंद हो जाता है। |
 
-### यह सभी देखें
+### देखें भी
 
 * struct [PointF](../../../aspose.psd/pointf/)
 * class [BezierShape](../)
-* नाम स्थान [Aspose.PSD.Shapes](../../beziershape/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.Shapes](../../../aspose.psd.shapes/)
+* assembly [Aspose.PSD](../../../)
 
 

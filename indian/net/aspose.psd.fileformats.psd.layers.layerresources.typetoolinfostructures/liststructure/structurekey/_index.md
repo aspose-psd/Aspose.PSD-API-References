@@ -1,11 +1,12 @@
 ---
-title: ListStructure.StructureKey
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: ListStructure मैदन. संरचन कुंज क पहचन करत है
+title: "ListStructure.StructureKey"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "ListStructure फ़ील्ड। स्ट्रक्चर कुंजी की पहचान करता है"
 type: docs
 weight: 60
 url: /hi/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/liststructure/structurekey/
 ---
+{{< psd/tize >}}
 ## ListStructure.StructureKey field
 
 संरचना कुंजी की पहचान करता है।
@@ -14,10 +15,10 @@ url: /hi/net/aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostruct
 public const int StructureKey;
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * class [ListStructure](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../liststructure/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources.TypeToolInfoStructures](../../../aspose.psd.fileformats.psd.layers.layerresources.typetoolinfostructures/)
+* assembly [Aspose.PSD](../../../)
 
 

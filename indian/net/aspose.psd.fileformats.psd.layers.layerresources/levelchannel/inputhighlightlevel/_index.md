@@ -1,33 +1,34 @@
 ---
-title: LevelChannel.InputHighlightLevel
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: LevelChannel संपत्त. इनपुट हइलइट स्तर प्रप्त य सेट करत है
+title: "LevelChannel.InputHighlightLevel"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "LevelChannel प्रॉपर्टी। इनपुट हाइलाइट लेवल प्राप्त करता है या सेट करता है"
 type: docs
 weight: 10
 url: /hi/net/aspose.psd.fileformats.psd.layers.layerresources/levelchannel/inputhighlightlevel/
 ---
+{{< psd/tize >}}
 ## LevelChannel.InputHighlightLevel property
 
-इनपुट हाइलाइट स्तर प्राप्त या सेट करता है।
+इनपुट हाइलाइट लेवल को प्राप्त करता है या सेट करता है।
 
 ```csharp
 public short InputHighlightLevel { get; set; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-इनपुट हाइलाइट स्तर.
+इनपुट हाइलाइट लेवल।
 
 ### अपवाद
 
-| अपवाद | स्थिति |
+| अपवाद | शर्त |
 | --- | --- |
-| ArgumentOutOfRangeException | इनपुट हाइलाइट स्तर केवल "+ (यह.InputShadowLevel + 2) +" से 255 तक की सीमा में सेट किया जा सकता है |
+| ArgumentOutOfRangeException | इनपुट हाइलाइट लेवल केवल " + (this.InputShadowLevel + 2) + " से 255 तक की सीमा में सेट किया जा सकता है |
 
-### यह सभी देखें
+### देखें भी
 
 * class [LevelChannel](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../levelchannel/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.LayerResources](../../../aspose.psd.fileformats.psd.layers.layerresources/)
+* assembly [Aspose.PSD](../../../)
 
 

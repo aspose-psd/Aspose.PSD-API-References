@@ -1,32 +1,33 @@
 ---
-title: RectangleF.Union
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: RectangleF तरक. सबसे छट संभव तसर आयत बनत है जसमें संघ बनने वले दनं आयत शमल ह सकते हैं
+title: "RectangleF.Union"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "RectangleF मेथड। दो आयतों के संघ को सम्मिलित करने वाला सबसे छोटा संभव तीसरा आयत बनाता है।"
 type: docs
 weight: 70
 url: /hi/net/aspose.psd/rectanglef/union/
 ---
+{{< psd/tize >}}
 ## RectangleF.Union method
 
-सबसे छोटा संभव तीसरा आयत बनाता है जिसमें संघ बनाने वाले दोनों आयत शामिल हो सकते हैं।
+दो आयतों के संघ को सम्मिलित करने वाला सबसे छोटा संभव तृतीय आयत बनाता है।
 
 ```csharp
 public static RectangleF Union(RectangleF a, RectangleF b)
 ```
 
-| पैरामीटर | प्रकार | विवरण |
+| पैरामीटर | टाइप | विवरण |
 | --- | --- | --- |
-| a | RectangleF | संघ के लिए पहला आयत। |
-| b | RectangleF | संघ के लिए एक दूसरा आयत। |
+| a | RectangleF | संघ करने के लिए पहला आयत। |
+| b | RectangleF | संघ करने के लिए दूसरा आयत। |
 
-### प्रतिलाभ की मात्रा
+### रिटर्न वैल्यू
 
-एक तिहाई[`RectangleF`](../) संरचना जिसमें संघ बनाने वाले दोनों आयत शामिल हैं।
+संघ बनाने वाले दो आयतों को सम्मिलित करने वाला तीसरा [`RectangleF`](../) संरचना।
 
-### यह सभी देखें
+### देखें भी
 
 * struct [RectangleF](../)
-* नाम स्थान [Aspose.PSD](../../rectanglef/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD](../../../aspose.psd/)
+* assembly [Aspose.PSD](../../../)
 
 

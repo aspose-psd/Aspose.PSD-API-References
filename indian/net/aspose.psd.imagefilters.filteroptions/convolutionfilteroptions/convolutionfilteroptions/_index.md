@@ -1,23 +1,24 @@
 ---
-title: ConvolutionFilterOptions.ConvolutionFilterOptions
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: ConvolutionFilterOptions नर्मत. क एक नय उदहरण प्ररंभ करत हैConvolutionFilterOptions वर्ग.
+title: "ConvolutionFilterOptions.ConvolutionFilterOptions"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "ConvolutionFilterOptions कंस्ट्रक्टर। ConvolutionFilterOptions क्लास का एक नया उदाहरण प्रारंभ करता है"
 type: docs
 weight: 10
 url: /hi/net/aspose.psd.imagefilters.filteroptions/convolutionfilteroptions/convolutionfilteroptions/
 ---
+{{< psd/tize >}}
 ## ConvolutionFilterOptions constructor
 
-का एक नया उदाहरण प्रारंभ करता है[`ConvolutionFilterOptions`](../) वर्ग.
+[`ConvolutionFilterOptions`](../) क्लास का एक नया उदाहरण प्रारंभ करता है।
 
 ```csharp
 public ConvolutionFilterOptions()
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * class [ConvolutionFilterOptions](../)
-* नाम स्थान [Aspose.PSD.ImageFilters.FilterOptions](../../convolutionfilteroptions/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.ImageFilters.FilterOptions](../../../aspose.psd.imagefilters.filteroptions/)
+* assembly [Aspose.PSD](../../../)
 
 

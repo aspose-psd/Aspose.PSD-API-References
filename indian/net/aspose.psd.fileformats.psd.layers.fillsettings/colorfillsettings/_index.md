@@ -1,29 +1,36 @@
 ---
-title: Class ColorFillSettings
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Aspose.PSD.FileFormats.Psd.Layers.FillSettings.ColorFillSettings कक्ष. रंग भरण प्रभव सेटंग
+title: "क्लास ColorFillSettings"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Aspose.PSD.FileFormats.Psd.Layers.FillSettings.ColorFillSettings क्लास। रंग फ़िल इफ़ेक्ट सेटिंग्स"
 type: docs
-weight: 1930
+weight: 2040
 url: /hi/net/aspose.psd.fileformats.psd.layers.fillsettings/colorfillsettings/
 ---
+{{< psd/tize >}}
 ## ColorFillSettings class
 
-रंग भरण प्रभाव सेटिंग
+रंग फ़िल इफ़ेक्ट सेटिंग्स
 
 ```csharp
 public class ColorFillSettings : BaseFillSettings, IColorFillSettings
 ```
 
-## गुण
+## कंस्ट्रक्टर्स
 
 | नाम | विवरण |
 | --- | --- |
-| [Color](../../aspose.psd.fileformats.psd.layers.fillsettings/colorfillsettings/color/) { get; set; } | रंग प्राप्त या सेट करता है। |
-| override [FillType](../../aspose.psd.fileformats.psd.layers.fillsettings/colorfillsettings/filltype/) { get; } | भरण प्रकार |
+| [ColorFillSettings](colorfillsettings/)() | डिफ़ॉल्ट कन्स्ट्रक्टर। |
 
-### उदाहरण
+## प्रॉपर्टीज़
 
-निम्नलिखित कोड भरण प्रकार - रंग के साथ स्ट्रोक प्रभाव परत के समर्थन को प्रदर्शित करता है।
+| नाम | विवरण |
+| --- | --- |
+| [Color](../../aspose.psd.fileformats.psd.layers.fillsettings/colorfillsettings/color/) { get; set; } | रंग प्राप्त करता है या सेट करता है। |
+| override [FillType](../../aspose.psd.fileformats.psd.layers.fillsettings/colorfillsettings/filltype/) { get; } | फ़िल प्रकार |
+
+## उदाहरण
+
+निम्नलिखित कोड स्ट्रोक इफ़ेक्ट लेयर के फ़िल प्रकार - Color के समर्थन को दर्शाता है।
 
 ```csharp
 [C#]
@@ -78,11 +85,11 @@ using (var im = (PsdImage)Image.Load(exportPath, loadOptions))
 }
 ```
 
-### यह सभी देखें
+### देखें भी
 
 * class [BaseFillSettings](../basefillsettings/)
 * interface [IColorFillSettings](../icolorfillsettings/)
-* नाम स्थान [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../aspose.psd.fileformats.psd.layers.fillsettings/)
-* सभा [Aspose.PSD](../../)
+* namespace [Aspose.PSD.FileFormats.Psd.Layers.FillSettings](../../aspose.psd.fileformats.psd.layers.fillsettings/)
+* assembly [Aspose.PSD](../../)
 
 

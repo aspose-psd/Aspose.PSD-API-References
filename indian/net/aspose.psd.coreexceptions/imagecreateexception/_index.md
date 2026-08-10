@@ -1,14 +1,15 @@
 ---
-title: Class ImageCreateException
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: Aspose.PSD.CoreExceptions.ImageCreateException कक्ष. छव अपवद बनत है छव नर्मण के दरन हत है.
+title: "क्लास ImageCreateException"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "Aspose.PSD.CoreExceptions.ImageCreateException क्लास। इमेज निर्माण अपवाद। इमेज निर्माण के दौरान यह उत्पन्न होता है।"
 type: docs
 weight: 490
 url: /hi/net/aspose.psd.coreexceptions/imagecreateexception/
 ---
+{{< psd/tize >}}
 ## ImageCreateException class
 
-छवि अपवाद बनाती है। छवि निर्माण के दौरान होता है.
+छवि निर्माण अपवाद। छवि निर्माण के दौरान होता है।
 
 ```csharp
 public class ImageCreateException : ImageException
@@ -18,13 +19,13 @@ public class ImageCreateException : ImageException
 
 | नाम | विवरण |
 | --- | --- |
-| [ImageCreateException](imagecreateexception/#constructor)(string) | का एक नया उदाहरण प्रारंभ करता है`ImageCreateException` वर्ग. |
-| [ImageCreateException](imagecreateexception/#constructor_1)(string, Exception) | का एक नया उदाहरण प्रारंभ करता है`ImageCreateException` वर्ग. |
+| [ImageCreateException](imagecreateexception/#constructor)(string) | नया `ImageCreateException` क्लास का उदाहरण प्रारंभ करता है। |
+| [ImageCreateException](imagecreateexception/#constructor_1)(string, Exception) | नया `ImageCreateException` क्लास का उदाहरण प्रारंभ करता है। |
 
-### यह सभी देखें
+### देखें भी
 
 * class [ImageException](../imageexception/)
-* नाम स्थान [Aspose.PSD.CoreExceptions](../../aspose.psd.coreexceptions/)
-* सभा [Aspose.PSD](../../)
+* namespace [Aspose.PSD.CoreExceptions](../../aspose.psd.coreexceptions/)
+* assembly [Aspose.PSD](../../)
 
 

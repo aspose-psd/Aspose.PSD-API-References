@@ -1,11 +1,12 @@
 ---
-title: BezierKnotRecord.Type
-second_title: .NET API संदर्भ के लिए Aspose.PSD
-description: BezierKnotRecord संपत्त. प्रकर प्रप्त करत है
+title: "BezierKnotRecord.Type"
+second_title: "Aspose.PSD for .NET API रेफ़रेंस"
+description: "BezierKnotRecord प्रॉपर्टी। प्रकार प्राप्त करता है"
 type: docs
 weight: 70
 url: /hi/net/aspose.psd.fileformats.core.vectorpaths/bezierknotrecord/type/
 ---
+{{< psd/tize >}}
 ## BezierKnotRecord.Type property
 
 प्रकार प्राप्त करता है।
@@ -14,15 +15,15 @@ url: /hi/net/aspose.psd.fileformats.core.vectorpaths/bezierknotrecord/type/
 public override VectorPathType Type { get; }
 ```
 
-### संपत्ति मूल्य
+### Property Value
 
-प्रकार.
+प्रकार।
 
-### यह सभी देखें
+### देखें भी
 
 * enum [VectorPathType](../../vectorpathtype/)
 * class [BezierKnotRecord](../)
-* नाम स्थान [Aspose.PSD.FileFormats.Core.VectorPaths](../../bezierknotrecord/)
-* सभा [Aspose.PSD](../../../)
+* namespace [Aspose.PSD.FileFormats.Core.VectorPaths](../../../aspose.psd.fileformats.core.vectorpaths/)
+* assembly [Aspose.PSD](../../../)
 
 
